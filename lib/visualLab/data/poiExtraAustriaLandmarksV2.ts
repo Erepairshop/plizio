@@ -4,7 +4,7 @@ export const austriaLandmarksV2: POI[] = [
   {
     id: "austria-burg-gudenstein-landmarks-v2",
     type: "castle",
-    parent: "AT",
+    parent: "AT-3",
     name: { de: "Burg Gudenstein", hu: "Gudenstein vára", ro: "Castelul Gudenstein", en: "Gudenstein Castle" },
     coords: [15.1234, 47.7834],
     description: {
@@ -36,7 +36,7 @@ export const austriaLandmarksV2: POI[] = [
   {
     id: "austria-kloster-seckau-landmarks-v2",
     type: "cathedral",
-    parent: "AT",
+    parent: "AT-6",
     name: { de: "Abtei Seckau", hu: "Seckaui apátság", ro: "Abația Seckau", en: "Seckau Abbey" },
     coords: [14.7828, 47.2715],
     description: {
@@ -68,7 +68,7 @@ export const austriaLandmarksV2: POI[] = [
   {
     id: "austria-stadtturm-wels-landmarks-v2",
     type: "tower",
-    parent: "AT",
+    parent: "AT-4",
     name: { de: "Stadtturm Wels", hu: "Welsi városi torony", ro: "Turnul orașului Wels", en: "Wels City Tower" },
     coords: [14.0275, 48.1578],
     description: {
@@ -100,7 +100,7 @@ export const austriaLandmarksV2: POI[] = [
   {
     id: "austria-kirche-st-ruprecht-landmarks-v2",
     type: "church",
-    parent: "AT",
+    parent: "AT-6",
     name: { de: "St. Ruprecht Kirche", hu: "Szent Rupert-templom", ro: "Biserica Sf. Rupert", en: "St. Rupert Church" },
     coords: [15.4497, 47.0722],
     description: {
@@ -132,7 +132,7 @@ export const austriaLandmarksV2: POI[] = [
   {
     id: "austria-burg-glanegg-landmarks-v2",
     type: "castle",
-    parent: "AT",
+    parent: "AT-2",
     name: { de: "Burg Glanegg", hu: "Glanegg vára", ro: "Castelul Glanegg", en: "Glanegg Castle" },
     coords: [14.3129, 46.7118],
     description: {
@@ -164,7 +164,7 @@ export const austriaLandmarksV2: POI[] = [
   {
     id: "austria-schloss-lamberg-landmarks-v2",
     type: "palace",
-    parent: "AT",
+    parent: "AT-4",
     name: { de: "Schloss Lamberg", hu: "Lamberg-kastély", ro: "Castelul Lamberg", en: "Lamberg Castle" },
     coords: [14.4172, 48.0435],
     description: {
@@ -196,7 +196,7 @@ export const austriaLandmarksV2: POI[] = [
   {
     id: "austria-kirche-st-anna-landmarks-v2",
     type: "church",
-    parent: "AT",
+    parent: "AT-1",
     name: { de: "St. Anna Kirche", hu: "Szent Anna-templom", ro: "Biserica Sf. Ana", en: "St. Anne Church" },
     coords: [16.2425, 47.8122],
     description: {

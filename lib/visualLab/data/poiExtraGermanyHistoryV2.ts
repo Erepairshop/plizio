@@ -4,7 +4,7 @@ export const germanyHistoryV2: POI[] = [
   {
     id: "germany-nuremberg-trial-hall-history-v2",
     type: "museum",
-    parent: "DE",
+    parent: "DE-BY",
     name: { de: "Schwurgerichtssaal 600", hu: "600-as esküdtszék tárgyalóterem", ro: "Sala 600 a Tribunalului", en: "Courtroom 600" },
     coords: [11.0553, 49.4586],
     description: {
@@ -36,7 +36,7 @@ export const germanyHistoryV2: POI[] = [
   {
     id: "germany-trier-kaiserthermen-history-v2",
     type: "ruins",
-    parent: "DE",
+    parent: "DE-SL",
     name: { de: "Kaiserthermen Trier", hu: "Trieri császári fürdő", ro: "Termele Imperiale din Trier", en: "Imperial Baths Trier" },
     coords: [6.6433, 49.7514],
     description: {
@@ -68,7 +68,7 @@ export const germanyHistoryV2: POI[] = [
   {
     id: "germany-hambach-castle-history-v2",
     type: "castle",
-    parent: "DE",
+    parent: "DE-HE",
     name: { de: "Hambacher Schloss", hu: "Hambachi kastély", ro: "Castelul Hambach", en: "Hambach Castle" },
     coords: [8.1345, 49.3175],
     description: {
@@ -100,7 +100,7 @@ export const germanyHistoryV2: POI[] = [
   {
     id: "germany-berlin-tempelhof-history-v2",
     type: "landmark",
-    parent: "DE",
+    parent: "DE-BE",
     name: { de: "Flughafen Tempelhof", hu: "Tempelhof repülőtér", ro: "Aeroportul Tempelhof", en: "Tempelhof Airport" },
     coords: [13.4038, 52.4731],
     description: {
@@ -132,7 +132,7 @@ export const germanyHistoryV2: POI[] = [
   {
     id: "germany-magdeburg-cathedral-history-v2",
     type: "cathedral",
-    parent: "DE",
+    parent: "DE-ST",
     name: { de: "Magdeburger Dom", hu: "Magdeburgi dóm", ro: "Catedrala din Magdeburg", en: "Magdeburg Cathedral" },
     coords: [11.6358, 52.1255],
     description: {
@@ -164,7 +164,7 @@ export const germanyHistoryV2: POI[] = [
   {
     id: "germany-karlsruhe-palace-history-v2",
     type: "palace",
-    parent: "DE",
+    parent: "DE-BW",
     name: { de: "Schloss Karlsruhe", hu: "Karlsruhei kastély", ro: "Castelul Karlsruhe", en: "Karlsruhe Palace" },
     coords: [8.4044, 49.0136],
     description: {
@@ -196,7 +196,7 @@ export const germanyHistoryV2: POI[] = [
   {
     id: "germany-bonn-beethoven-house-history-v2",
     type: "museum",
-    parent: "DE",
+    parent: "DE-RP",
     name: { de: "Beethoven-Haus Bonn", hu: "Beethoven-ház Bonn", ro: "Casa Beethoven din Bonn", en: "Beethoven House Bonn" },
     coords: [7.0984, 50.7358],
     description: {
@@ -228,7 +228,7 @@ export const germanyHistoryV2: POI[] = [
   {
     id: "germany-worms-cathedral-history-v2",
     type: "cathedral",
-    parent: "DE",
+    parent: "DE-HE",
     name: { de: "Wormser Dom", hu: "Wormsi dóm", ro: "Catedrala din Worms", en: "Worms Cathedral" },
     coords: [8.3614, 49.6303],
     description: {
@@ -260,7 +260,7 @@ export const germanyHistoryV2: POI[] = [
   {
     id: "germany-berlin-berlin-wall-memorial-history-v2",
     type: "monument",
-    parent: "DE",
+    parent: "DE-BE",
     name: { de: "Gedenkstätte Berliner Mauer", hu: "Berlini fal emlékmű", ro: "Memorialul Zidului Berlinului", en: "Berlin Wall Memorial" },
     coords: [13.3905, 52.5353],
     description: {
@@ -292,7 +292,7 @@ export const germanyHistoryV2: POI[] = [
   {
     id: "germany-regensburg-stone-bridge-history-v2",
     type: "bridge",
-    parent: "DE",
+    parent: "DE-BY",
     name: { de: "Steinerne Brücke Regensburg", hu: "Regensburgi kőhíd", ro: "Podul de Piatră din Regensburg", en: "Stone Bridge Regensburg" },
     coords: [12.0975, 49.0213],
     description: {

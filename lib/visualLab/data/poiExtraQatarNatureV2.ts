@@ -541,43 +541,4 @@ export const poiExtraQatarNatureV2: POI[] = [
       en: ["The lake is also known as 'Cormorant Lake' due to the large colonies present.", "Water levels can fluctuate depending on the discharge of treated water.", "It is one of the few places in Qatar where the Little Grebe breeds.", "Water quality has improved over time through natural processes.", "The area is not officially designated as a nature reserve but is treated as one de facto.", "Photographers appreciate the bird diversity and the open spaces.", "The surrounding desert may host other wildlife like foxes and reptiles."]
     }
   }
-,
-  {
-    id: "qatar-jazirat-al-ishat-nature-v2",
-    type: "island",
-    name: { de: "Insel Al Ishat", hu: "Al Ishat-sziget", ro: "Insula Al Ishat", en: "Al Ishat Island" },
-    coords: [51.583, 24.777],
-    description: {
-      de: "Die Insel Al Ishat liegt südöstlich von Mesaieed im Persischen Golf. Sie ist von Korallenriffen umgeben und ein wichtiger Lebensraum für Seevögel.",
-      hu: "Az Al Ishat-sziget Mesaieedtől délkeletre található a Perzsa-öbölben. Korallzátonyok veszik körül, és fontos élőhely a tengeri madarak számára.",
-      ro: "Insula Al Ishat este situată la sud-est de Mesaieed, în Golful Persic. Este înconjurată de recife de corali și este un habitat important pentru păsările marine.",
-      en: "Al Ishat Island is located southeast of Mesaieed in the Persian Gulf. It is surrounded by coral reefs and serves as an important habitat for seabirds.",
-    },
-    facts: {
-      de: ["Unbewohnte Insel im Südosten Katars", "Umgeben von flachen Korallenriffen", "Nistplatz für Sokotra-Kormorane", "Gehört zum Verwaltungsbezirk Al Wakrah"],
-      hu: ["Lakatlan sziget Katar délkeleti részén", "Sekély korallzátonyok övezik", "Sokotra kormoránok fészkelőhelye", "Al Wakrah önkormányzatához tartozik"],
-      ro: ["Insulă nelocuită în sud-estul Qatarului", "Înconjurată de recife de corali de mică adâncime", "Loc de cuibărit pentru cormoranii Socotra", "Aparține municipalității Al Wakrah"],
-      en: ["Uninhabited island in southeastern Qatar", "Surrounded by shallow coral reefs", "Nesting site for Socotra Cormorants", "Located within Al Wakrah municipality"],
-    },
-    imageHint: "Aerial view of a small sandy island in turquoise Persian Gulf waters",
-  },
-  {
-    id: "qatar-ras-ushairij-nature-v2",
-    type: "landmark",
-    name: { de: "Ras Ushairij", hu: "Ras Ushairij", ro: "Ras Ushairij", en: "Ras Ushairij" },
-    coords: [51.052, 25.985],
-    description: {
-      de: "Ras Ushairij ist ein felsiges Küstengebiet an der Westküste von Katar. Es ist bekannt für seine markanten Kalksteinformationen und paläontologischen Funde.",
-      hu: "Ras Ushairij egy sziklás tengerparti terület Katar nyugati partján. Jellegzetes mészkőformációiról és őslénytani leleteiről ismert.",
-      ro: "Ras Ushairij este o zonă de coastă stâncoasă de pe coasta de vest a Qatarului. Este cunoscută pentru formațiunile sale calcaroase distincte și descoperirile paleontologice.",
-      en: "Ras Ushairij is a rocky coastal area on the western coast of Qatar. It is known for its distinct limestone formations and paleontological findings.",
-    },
-    facts: {
-      de: ["Felsige Landzunge an der Westküste", "Besteht aus miozänem Kalkstein", "Bekannt für fossile Funde von Wirbeltieren", "Nahe der historischen Ruinen von Al Zubarah"],
-      hu: ["Sziklás föveny a nyugati parton", "Miocén kori mészkőből áll", "Ismert gerinces ősmaradványairól", "Közel található Al Zubarah történelmi romjaihoz"],
-      ro: ["Promontoriu stâncos pe coasta de vest", "Format din calcar miocen", "Cunoscut pentru descoperiri fosile de vertebrate", "Aproape de ruinele istorice din Al Zubarah"],
-      en: ["Rocky headland on the western coast", "Composed of Miocene limestone", "Known for vertebrate fossil discoveries", "Located near the historical ruins of Al Zubarah"],
-    },
-    imageHint: "Rocky desert coastline with weathered limestone outcrops in Qatar",
-  }
 ];

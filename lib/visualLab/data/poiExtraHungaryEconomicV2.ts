@@ -4,7 +4,7 @@ export const hungaryEconomicV2: POI[] = [
   {
     id: "hungary-ikreny-logistics-economic-v2",
     type: "industry",
-    parent: "HU",
+    parent: "gyor-moson-sopron",
     name: { de: "Logistikzentrum Ikrény", hu: "Ikrényi logisztikai központ", ro: "Centru logistic Ikrény", en: "Ikreny Logistics Center" },
     coords: [17.5583, 47.6748],
     description: {
@@ -36,7 +36,7 @@ export const hungaryEconomicV2: POI[] = [
   {
     id: "hungary-szekesfehervar-electronics-economic-v2",
     type: "industry",
-    parent: "HU",
+    parent: "fejer",
     name: { de: "Elektronikpark Székesfehérvár", hu: "Székesfehérvári elektronikai ipari park", ro: "Parc industrial electronic Székesfehérvár", en: "Szekesfehervar Electronics Park" },
     coords: [18.4109, 47.1956],
     description: {
@@ -68,7 +68,7 @@ export const hungaryEconomicV2: POI[] = [
   {
     id: "hungary-tiszafoldvar-agro-economic-v2",
     type: "factory",
-    parent: "HU",
+    parent: "jasz-nagykun-szolnok",
     name: { de: "Agrarverarbeitungszentrum Tiszaföldvár", hu: "Tiszaföldvári mezőgazdasági feldolgozó", ro: "Centru procesare agricolă Tiszaföldvár", en: "Tiszafoldvar Agricultural Processing Center" },
     coords: [20.2443, 46.9792],
     description: {
@@ -100,7 +100,7 @@ export const hungaryEconomicV2: POI[] = [
   {
     id: "hungary-szentgotthard-automotive-v2",
     type: "factory",
-    parent: "HU",
+    parent: "vas",
     name: { de: "Motorenwerk Szentgotthárd", hu: "Szentgotthárdi motorgyár", ro: "Fabrică de motoare Szentgotthárd", en: "Szentgotthard Engine Plant" },
     coords: [16.2758, 46.9535],
     description: {
@@ -132,7 +132,7 @@ export const hungaryEconomicV2: POI[] = [
   {
     id: "hungary-duna-ujvaros-port-economic-v2",
     type: "port",
-    parent: "HU",
+    parent: "budapest",
     name: { de: "Hafen Dunaújváros", hu: "Dunaújvárosi kikötő", ro: "Portul Dunaújváros", en: "Dunaújváros Port" },
     coords: [18.9481, 46.9114],
     description: {
@@ -164,7 +164,7 @@ export const hungaryEconomicV2: POI[] = [
   {
     id: "hungary-szolnok-chemical-economic-v2",
     type: "industry",
-    parent: "HU",
+    parent: "jasz-nagykun-szolnok",
     name: { de: "Chemiewerk Szolnok", hu: "Szolnoki vegyi üzem", ro: "Uzina chimică Szolnok", en: "Szolnok Chemical Plant" },
     coords: [20.2014, 47.1652],
     description: {
@@ -196,7 +196,7 @@ export const hungaryEconomicV2: POI[] = [
   {
     id: "hungary-budapest-tech-corridor-economic-v2",
     type: "industry",
-    parent: "HU",
+    parent: "budapest",
     name: { de: "Technologiekorridor Budapest", hu: "Budapesti technológiai folyosó", ro: "Coridor tehnologic Budapesta", en: "Budapest Technology Corridor" },
     coords: [19.0402, 47.4979],
     description: {

@@ -4,7 +4,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-saint-nazaire-shipyard-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-BRE",
     name: { de: "Saint-Nazaire Werft", hu: "Saint-Nazaire-i hajógyár", ro: "Șantierul naval Saint-Nazaire", en: "Saint-Nazaire Shipyard" },
     coords: [-2.183, 47.283],
     description: {
@@ -36,7 +36,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-la-defense-business-economic-v2",
     type: "city",
-    parent: "FR",
+    parent: "FR-IDF",
     name: { de: "La Défense", hu: "La Défense", ro: "La Défense", en: "La Défense" },
     coords: [2.24, 48.89],
     description: {
@@ -68,7 +68,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-fos-sur-mer-port-economic-v2",
     type: "port",
-    parent: "FR",
+    parent: "FR-PAC",
     name: { de: "Fos-sur-Mer Hafen", hu: "Fos-sur-Mer kikötő", ro: "Portul Fos-sur-Mer", en: "Fos-sur-Mer Port" },
     coords: [4.93, 43.43],
     description: {
@@ -100,7 +100,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-grenoble-gi-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-ARA",
     name: { de: "Grenoble GI", hu: "Grenoble GI", ro: "Grenoble GI", en: "Grenoble GI" },
     coords: [5.72, 45.18],
     description: {
@@ -132,7 +132,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-airbus-toulouse-economic-v2",
     type: "factory",
-    parent: "FR",
+    parent: "FR-OCC",
     name: { de: "Airbus Toulouse", hu: "Airbus Toulouse", ro: "Airbus Toulouse", en: "Airbus Toulouse" },
     coords: [1.37, 43.6],
     description: {
@@ -164,7 +164,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-rungis-market-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-IDF",
     name: { de: "Markt von Rungis", hu: "Rungis piac", ro: "Piața din Rungis", en: "Rungis International Market" },
     coords: [2.35, 48.75],
     description: {
@@ -196,7 +196,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-vallee-de-l-arve-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-ARA",
     name: { de: "Arve-Tal Industrie", hu: "Arve-völgyi ipar", ro: "Industria din Valea Arve", en: "Arve Valley Industry" },
     coords: [6.67, 46.06],
     description: {
@@ -228,7 +228,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-cognac-distilleries-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-NAQ",
     name: { de: "Cognac Destillerien", hu: "Cognac szeszfőzdék", ro: "Distileriile Cognac", en: "Cognac Distilleries" },
     coords: [-0.32, 45.69],
     description: {
@@ -260,7 +260,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-bordeaux-wine-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-NAQ",
     name: { de: "Bordeaux Weinwirtschaft", hu: "Bordeaux borászat", ro: "Economia vinului din Bordeaux", en: "Bordeaux Wine Industry" },
     coords: [-0.58, 44.83],
     description: {
@@ -292,7 +292,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-lannion-photonics-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-BRE",
     name: { de: "Lannion Photonik Cluster", hu: "Lannion fotonikai központ", ro: "Clusterul de fotonică Lannion", en: "Lannion Photonics Cluster" },
     coords: [-3.45, 48.73],
     description: {
@@ -324,7 +324,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-clermont-ferrand-michelin-economic-v2",
     type: "factory",
-    parent: "FR",
+    parent: "FR-ARA",
     name: { de: "Clermont-Ferrand Michelin Werk", hu: "Clermont-Ferrand Michelin gyár", ro: "Fabrica Michelin Clermont-Ferrand", en: "Clermont-Ferrand Michelin Plant" },
     coords: [3.08, 45.78],
     description: {
@@ -356,7 +356,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-nantes-saint-nazaire-port-economic-v2",
     type: "port",
-    parent: "FR",
+    parent: "FR-BRE",
     name: { de: "Nantes-Saint-Nazaire Hafen", hu: "Nantes-Saint-Nazaire kikötő", ro: "Portul Nantes-Saint-Nazaire", en: "Nantes-Saint-Nazaire Port" },
     coords: [-2.25, 47.25],
     description: {
@@ -388,7 +388,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-toulouse-aerospace-valley-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-OCC",
     name: { de: "Aerospace Valley Toulouse", hu: "Aerospace Valley Toulouse", ro: "Aerospace Valley Toulouse", en: "Aerospace Valley Toulouse" },
     coords: [1.45, 43.58],
     description: {
@@ -420,7 +420,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-le-havre-container-port-economic-v2",
     type: "port",
-    parent: "FR",
+    parent: "FR-NOR",
     name: { de: "Hafen Le Havre", hu: "Le Havre kikötő", ro: "Portul Le Havre", en: "Le Havre Port" },
     coords: [0.1, 49.48],
     description: {
@@ -452,7 +452,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-lyon-biotech-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-ARA",
     name: { de: "Lyon Biotech-Zentrum", hu: "Lyon biotechnológiai központ", ro: "Centrul de biotehnologie Lyon", en: "Lyon Biotech Hub" },
     coords: [4.85, 45.75],
     description: {
@@ -484,7 +484,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-metz-steel-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-GES",
     name: { de: "Metz Stahlindustrie", hu: "Metz acélipar", ro: "Industria siderurgică din Metz", en: "Metz Steel Industry" },
     coords: [6.17, 49.12],
     description: {
@@ -516,7 +516,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-tours-pharma-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-CVL",
     name: { de: "Tours Pharmaindustrie", hu: "Tours gyógyszeripar", ro: "Industria farmaceutică din Tours", en: "Tours Pharma Industry" },
     coords: [0.68, 47.39],
     description: {
@@ -548,7 +548,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-montpellier-agritech-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-OCC",
     name: { de: "Montpellier Agritech", hu: "Montpellier Agritech", ro: "Montpellier Agritech", en: "Montpellier Agritech" },
     coords: [3.88, 43.61],
     description: {
@@ -580,7 +580,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-lille-textile-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-HDF",
     name: { de: "Lille Textilindustrie", hu: "Lille textilipar", ro: "Industria textilă din Lille", en: "Lille Textile Industry" },
     coords: [3.06, 50.63],
     description: {
@@ -612,7 +612,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-st-etienne-design-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-ARA",
     name: { de: "Saint-Étienne Design-Wirtschaft", hu: "Saint-Étienne designipar", ro: "Economia designului din Saint-Étienne", en: "Saint-Étienne Design Economy" },
     coords: [4.39, 45.44],
     description: {
@@ -644,7 +644,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-cannes-media-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-PAC",
     name: { de: "Cannes Medienwirtschaft", hu: "Cannes médiaipar", ro: "Economia media din Cannes", en: "Cannes Media Economy" },
     coords: [7.02, 43.55],
     description: {
@@ -676,7 +676,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-orleans-logistics-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-CVL",
     name: { de: "Orléans Logistik", hu: "Orléans logisztika", ro: "Logistică în Orléans", en: "Orléans Logistics" },
     coords: [1.91, 47.9],
     description: {
@@ -708,7 +708,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-nancy-tech-economic-v2",
     type: "industry",
-    parent: "FR",
+    parent: "FR-GES",
     name: { de: "Nancy Technologie-Hub", hu: "Nancy technológiai központ", ro: "Hub tehnologic Nancy", en: "Nancy Tech Hub" },
     coords: [6.18, 48.69],
     description: {
@@ -740,7 +740,7 @@ export const franceEconomicV2: POI[] = [
   {
     id: "france-marseille-energy-economic-v2",
     type: "port",
-    parent: "FR",
+    parent: "FR-PAC",
     name: { de: "Marseille Energiehafen", hu: "Marseille energiakikötő", ro: "Portul energetic din Marseille", en: "Marseille Energy Port" },
     coords: [5.37, 43.3],
     description: {

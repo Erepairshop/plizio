@@ -4,7 +4,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-nationalpark-gesaeuse-life-v2",
     type: "park",
-    parent: "AT",
+    parent: "AT-4",
     name: { de: "Nationalpark Gesäuse", hu: "Gesäuse Nemzeti Park", ro: "Parcul Național Gesäuse", en: "Gesäuse National Park" },
     coords: [14.6542, 47.5756],
     description: {
@@ -36,7 +36,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-wildpark-schwarzenberg-life-v2",
     type: "wildlife",
-    parent: "AT",
+    parent: "AT-9",
     name: { de: "Wildpark Schwarzenberg", hu: "Schwarzenberg Vadaspark", ro: "Parcul de animale sălbatice Schwarzenberg", en: "Schwarzenberg Wildlife Park" },
     coords: [16.2731, 48.2435],
     description: {
@@ -68,7 +68,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-botanischer-garten-linz-life-v2",
     type: "park",
-    parent: "AT",
+    parent: "AT-4",
     name: { de: "Botanischer Garten Linz", hu: "Linzi Botanikus Kert", ro: "Grădina Botanică Linz", en: "Linz Botanical Garden" },
     coords: [14.2861, 48.3094],
     description: {
@@ -100,7 +100,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-wildpark-tirol-life-v2",
     type: "wildlife",
-    parent: "AT",
+    parent: "AT-HoheTauern",
     name: { de: "Wildpark Aurach", hu: "Aurach Vadaspark", ro: "Parcul de animale sălbatice Aurach", en: "Aurach Wildlife Park" },
     coords: [12.3556, 47.4589],
     description: {
@@ -132,7 +132,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-zoologischer-garten-salzburg-life-v2",
     type: "wildlife",
-    parent: "AT",
+    parent: "AT-5",
     name: { de: "Zoo Salzburg Hellbrunn", hu: "Salzburgi Állatkert", ro: "Grădina Zoologică Salzburg", en: "Salzburg Zoo" },
     coords: [13.0619, 47.7553],
     description: {
@@ -164,7 +164,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-nationalpark-hohe-tauern-neukirchen-life-v2",
     type: "park",
-    parent: "AT",
+    parent: "AT-HoheTauern",
     name: { de: "Nationalpark Hohe Tauern Zentrum", hu: "Magas-Tauern Nemzeti Park Központ", ro: "Centrul Parcului Național Hohe Tauern", en: "Hohe Tauern National Park Centre" },
     coords: [12.2778, 47.2515],
     description: {
@@ -196,7 +196,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-naturpark-sölktäler-life-v2",
     type: "park",
-    parent: "AT",
+    parent: "AT-2",
     name: { de: "Naturpark Sölktäler", hu: "Sölktäler Natúrpark", ro: "Parcul Natural Sölktäler", en: "Sölktäler Nature Park" },
     coords: [14.0781, 47.3639],
     description: {
@@ -228,7 +228,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-botanischer-garten-wien-life-v2",
     type: "park",
-    parent: "AT",
+    parent: "AT-9",
     name: { de: "Botanischer Garten Universität Wien", hu: "Bécsi Egyetem Botanikus Kertje", ro: "Grădina Botanică a Universității din Viena", en: "University of Vienna Botanical Garden" },
     coords: [16.3814, 48.1906],
     description: {
@@ -260,7 +260,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-naturpark-tiroler-lech-life-v2",
     type: "park",
-    parent: "AT",
+    parent: "AT-7",
     name: { de: "Naturpark Tiroler Lech", hu: "Tiroli Lech Natúrpark", ro: "Parcul Natural Tiroler Lech", en: "Tiroler Lech Nature Park" },
     coords: [10.6433, 47.4589],
     description: {
@@ -292,7 +292,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-wildpark-glaschütte-life-v2",
     type: "wildlife",
-    parent: "AT",
+    parent: "AT-9",
     name: { de: "Wildpark Glashütte", hu: "Glashütte Vadaspark", ro: "Parcul de animale sălbatice Glashütte", en: "Glashütte Wildlife Park" },
     coords: [16.0911, 47.9256],
     description: {
@@ -324,7 +324,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-botanischer-garten-klagenfurt-life-v2",
     type: "park",
-    parent: "AT",
+    parent: "AT-2",
     name: { de: "Botanischer Garten Klagenfurt", hu: "Klagenfurti Botanikus Kert", ro: "Grădina Botanică Klagenfurt", en: "Klagenfurt Botanical Garden" },
     coords: [14.3053, 46.6272],
     description: {
@@ -356,7 +356,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-naturpark-oetztal-life-v2",
     type: "park",
-    parent: "AT",
+    parent: "AT-7",
     name: { de: "Naturpark Ötztal", hu: "Ötztal Natúrpark", ro: "Parcul Natural Ötztal", en: "Ötztal Nature Park" },
     coords: [10.975, 46.9583],
     description: {
@@ -388,7 +388,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-wildpark-ernstbrunn-life-v2",
     type: "wildlife",
-    parent: "AT",
+    parent: "AT-9",
     name: { de: "Wildpark Ernstbrunn", hu: "Ernstbrunn Vadaspark", ro: "Parcul de animale sălbatice Ernstbrunn", en: "Ernstbrunn Wildlife Park" },
     coords: [16.3689, 48.5358],
     description: {
@@ -420,7 +420,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-naturpark-geschriebenstein-life-v2",
     type: "park",
-    parent: "AT",
+    parent: "AT-1",
     name: { de: "Naturpark Geschriebenstein", hu: "Írottkő Natúrpark", ro: "Parcul Natural Geschriebenstein", en: "Geschriebenstein Nature Park" },
     coords: [16.4381, 47.3486],
     description: {
@@ -452,7 +452,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-alpenzoo-innsbruck-life-v2",
     type: "wildlife",
-    parent: "AT",
+    parent: "AT-7",
     name: { de: "Alpenzoo Innsbruck", hu: "Innsbrucki Alpesi Állatkert", ro: "Grădina Zoologică Alpină Innsbruck", en: "Innsbruck Alpine Zoo" },
     coords: [11.3969, 47.2844],
     description: {
@@ -484,7 +484,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-naturpark-karwendel-life-v2",
     type: "park",
-    parent: "AT",
+    parent: "AT-7",
     name: { de: "Naturpark Karwendel", hu: "Karwendel Natúrpark", ro: "Parcul Natural Karwendel", en: "Karwendel Nature Park" },
     coords: [11.5, 47.4167],
     description: {
@@ -516,7 +516,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-wildpark-grünau-life-v2",
     type: "wildlife",
-    parent: "AT",
+    parent: "AT-4",
     name: { de: "Cumberland Wildpark", hu: "Cumberland Vadaspark", ro: "Parcul de animale sălbatice Cumberland", en: "Cumberland Wildlife Park" },
     coords: [14.0536, 47.8183],
     description: {
@@ -548,7 +548,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-botanischer-garten-graz-life-v2",
     type: "park",
-    parent: "AT",
+    parent: "AT-6",
     name: { de: "Botanischer Garten Graz", hu: "Grazi Botanikus Kert", ro: "Grădina Botanică Graz", en: "Graz Botanical Garden" },
     coords: [15.4542, 47.0789],
     description: {
@@ -580,7 +580,7 @@ export const austriaLifeV2: POI[] = [
   {
     id: "austria-naturpark-leiser-berge-life-v2",
     type: "park",
-    parent: "AT",
+    parent: "AT-9",
     name: { de: "Naturpark Leiser Berge", hu: "Leiser Berge Natúrpark", ro: "Parcul Natural Leiser Berge", en: "Leiser Berge Nature Park" },
     coords: [16.3667, 48.5667],
     description: {

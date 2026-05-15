@@ -765,36 +765,4 @@ export const poiExtraAngolaLifeV2: POI[] = [
     }
 
   }
-,
-  {
-    id: "angola-iona-national-park-life-v2",
-    type: "park",
-    name: { de: "Nationalpark Iona", hu: "Iona Nemzeti Park", ro: "Parcul Național Iona", en: "Iona National Park" },
-    coords: [12.5, -16.5],
-    description: {
-      de: "Der Park in Namibe umfasst 15.150 Quadratkilometer Wüste und Gebirge. Er beherbergt seltene Pflanzen wie die endemische Welwitschia mirabilis.",
-      hu: "A Namibe park 15 150 négyzetkilométernyi sivatagos és hegyvidéki területet foglal el. Itt él az endemikus Welwitschia mirabilis növény is.",
-      ro: "Parcul din Namibe acoperă 15.150 de kilometri pătrați de deșert și munți. Găzduiește plante endemice rare precum celebra Welwitschia mirabilis.",
-      en: "This park in Namibe covers 15,150 square kilometers of desert and mountain terrain. It is home to endemic plants like the Welwitschia mirabilis.",
-    },
-    facts: {
-      de: ["1937 als Schutzgebiet gegründet und 1964 zum Park ernannt", "Größtes Naturschutzgebiet Angolas nach Fläche", "Gelegen zwischen den Flüssen Cunene und Curoca", "Bekannt für Wanderdünen und schroffe Felsberge"],
-      hu: ["1937-ben alapították rezervátumként, 1964-ben lett park", "Angola legnagyobb területű természetvédelmi körzete", "A Cunene és a Curoca folyók között helyezkedik el", "Jellemzői a vándorló homokdűnék és sziklás hegyek"],
-      ro: ["Fondat ca rezervație în 1937 și declarat parc în 1964", "Cea mai mare arie protejată din Angola ca suprafață", "Situat între râurile Cunene și Curoca", "Cuprinde dune de nisip mișcătoare și munți stâncoși"],
-      en: ["Established as a reserve in 1937 and upgraded in 1964", "Largest protected area in Angola by surface area", "Located between the Cunene and Curoca rivers", "Features moving sand dunes and rocky mountains"],
-    },
-    imageHint: "Iona National Park desert landscape with Welwitschia mirabilis",
-    descriptionAdvanced: {
-      de: "Der Iona-Nationalpark im Südwesten Angolas wurde 1964 gegründet und ist mit 15.000 km² der größte Nationalpark des Landes. Die Landschaft ist geprägt von Wüste, Savanne und Schluchten. Er beherbergt seltene Arten wie die Angolanische Giraffe und den Schwarzen Nashornvogel.",
-      hu: "Az Iona Nemzeti Park 1964-ben jött létre, Angola legnagyobb nemzeti parkja 15.000 km²-en. Sivatag, szavanna és kanyonok váltakoznak. Ritka állatok élnek itt, mint az angolai zsiráf és a fekete orrszarvúmadár.",
-      ro: "Parcul Național Iona, fondat în 1964, este cel mai mare parc național al Angolei, cu 15.000 km². Peisajul include deșert, savană și canioane. Adăpostește specii rare precum girafa angoleză și pasărea rinocer neagră.",
-      en: "Iona National Park, established in 1964, is Angola's largest national park at 15,000 km². Its diverse landscapes include desert, savanna, and canyons. The park protects rare wildlife such as the Angolan giraffe and the black rhino bird. It borders the Namib Desert.",
-    },
-    factsAdvanced: {
-      de: ["Gegründet 1964.", "Fläche: 15.000 km².", "Höchster Punkt: 2.000 m.", "Giraffenbestand: ca. 50.", "Vogelarten: über 200.", "Angrenzend an Namib-Wüste."],
-      hu: ["Alapítás: 1964.", "Terület: 15.000 km².", "Legmagasabb pont: 2.000 m.", "Zsiráf populáció: ~50.", "Madárfajok: 200+.", "Szomszédos Namib-sivatag."],
-      ro: ["Fondat în 1964.", "Suprafață: 15.000 km².", "Altitudine maximă: 2.000 m.", "Populație de girafe: ~50.", "Specii de păsări: peste 200.", "Se învecinează cu deșertul Namib."],
-      en: ["Established in 1964.", "Area: 15,000 km².", "Highest point: 2,000 m.", "Giraffe population: approx. 50.", "Bird species: over 200.", "Borders the Namib Desert."],
-    },
-  }
 ];

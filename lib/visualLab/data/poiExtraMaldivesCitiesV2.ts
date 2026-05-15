@@ -25,14 +25,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Malé a Maldív Köztársaság lüktető fővárosa, és a világ egyik legsűrűbben lakott városa, alig 9 négyzetkilométeren több mint 130000 lakossal. A város az Észak-Malé atollon fekszik, és egyetlen, szinte teljesen beépített főszigetre terjed ki, melynek partvonalát hullámtörők és művészien festett kikötői sétány szegélyezi. A városképet pasztellrózsaszín, türkiz és napsárga sokemeletes házak, robogókkal teli keskeny utcák, valamint történelmi nevezetességek uralják, mint a 17. századi Hukuru Miskiy mecset, melynek korallkő falait gyönyörűen faragott motívumok díszítik. Gazdaságilag Malé az ország vitathatatlan központja: itt található a bankok, hajózási társaságok és a turisztikai hivatalok székhelye, a zöld szívet pedig a Szultán-park jelenti. A várost a Sinamalé-híd és egy modern kikötő szorosan összeköti Hulhumaléval és a Velana Nemzetközi Repülőtérrel, így logisztikai csomópontként szolgál több mint ezer további sziget felé.",
       ro: "Malé este capitala vibrantă a Republicii Maldive și este considerată unul dintre cele mai dens populate orașe din lume, cu peste 130000 de locuitori pe o suprafață de doar 9 kilometri pătrați. Orașul se află în atolul Malé de Nord și se întinde pe o singură insulă principală, aproape complet urbanizată, ale cărei margini sunt mărginite de diguri și de o promenadă portuară pictată artistic. Din punct de vedere arhitectural, peisajul urban este definit de blocuri colorate în roz pastel, turcoaz și galben solar, străduțe înguste pline de scutere și monumente istorice precum moscheea Hukuru Miskiy din secolul al XVII-lea, cu pereți de piatră de coral sculptați cu măiestrie. Economic, Malé este centrul indiscutabil al țării, cu sedii ale băncilor, companiilor maritime, administrațiilor turistice și cu Parcul Sultan drept inimă verde. Orașul este conectat strâns cu Hulhumalé și cu Aeroportul Internațional Velana prin podul Sinamalé și un port modern, servind ca hub logistic pentru peste o mie de alte insule.",
       en: "Malé is the vibrant capital of the Republic of Maldives and ranks among the most densely populated cities in the world, with over 130000 residents living on barely 9 square kilometers of land. The city sits in the North Malé Atoll and spans a single, almost fully urbanized main island whose edges are framed by sea walls and an artfully painted harbor promenade. Architecturally, the cityscape is defined by pastel pink, turquoise and sunshine yellow apartment blocks, narrow lanes packed with motorbikes, and historic landmarks such as the 17th century Hukuru Miskiy with its intricately carved coral stone walls. Economically, Malé is the undisputed center of the country, hosting headquarters of banks, shipping companies and tourism authorities, while the Sultan Park serves as its green heart. The city is tightly linked to Hulhumalé and Velana International Airport through the Sinamalé Bridge and a modern port, making it the logistical hub for more than a thousand other islands."
-    }, image: "/poi-images/mv-male-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 252.000 (2014).", "Fläche: 8,3 km².", "Bevölkerungsdichte: über 30.000 Einwohner pro km².", "Höchster Punkt: 2 Meter über dem Meeresspiegel.", "Anzahl der Inseln im Atoll: etwa 50.", "Jährliche Touristenankünfte: über 1,5 Millionen (gesamte Malediven)."],
-      hu: ["Népesség: kb. 252 000 (2014).", "Terület: 8,3 km².", "Népsűrűség: meghaladja a 30 000 fő/km²-t.", "Legmagasabb pont: 2 méter tengerszint felett.", "Atoll szigeteinek száma: körülbelül 50.", "Éves turistaérkezések: több mint 1,5 millió (egész Maldív-szigetek)."],
-      ro: ["Populație: aproximativ 252.000 (2014).", "Suprafață: 8,3 km².", "Densitatea populației: peste 30.000 locuitori pe km².", "Cel mai înalt punct: 2 metri deasupra nivelului mării.", "Numărul de insule din atol: aproximativ 50.", "Sosiri anuale de turiști: peste 1,5 milioane (întreaga Maldivă)."],
-      en: ["Population: approximately 252,000 (2014).", "Area: 8.3 km².", "Population density: over 30,000 inhabitants per km².", "Highest point: 2 meters above sea level.", "Number of islands in the atoll: about 50.", "Annual tourist arrivals: over 1.5 million (entire Maldives)."],
-    },
-  },
+    }, image: "/poi-images/mv-male-cities-v2.webp"},
   {
     id: "mv-addu-city-cities-v2",
     type: "city",
@@ -57,14 +50,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Addu City a Maldív-szigetek második legnagyobb városi régiója, az ország legdélibb atollján, a Seenu-atollon helyezkedik el, körülbelül 540 kilométerre délre Malé fővárostól. A város több lakott sziget – Hithadhoo, Maradhoo, Feydhoo és Hulhumeedhoo – közigazgatási egyesítéséből jött létre, amelyeket egy 14 kilométer hosszú gátrendszer köt össze, így közvetlenül járhatók. Mintegy 33000 lakosával Addu önálló városi központot alkot, amelynek szíve a Gan Nemzetközi Repülőtér, a RAF egykori brit katonai légibázisa. Történelmi jelentősége 1976-ig nyúlik vissza, amikor a brit erők kivonultak, és infrastruktúrájukat hátrahagyták. Ma széles aszfaltutak, mangroveerdők és az egyedülálló Eidigali Kilhi édesvízi vizesterület határozzák meg a látképet. Gazdaságát a turizmus (Equator Village resort), a halászat és az oktatás (a Maldív Nemzeti Egyetem campusa) tartja fenn. Kulturálisan saját nyelvjárásával és erős identitásával jelentősen elkülönül az ország északi részétől.",
       ro: "Addu City este a doua cea mai mare regiune urbană din Maldive și se află în cel mai sudic atol al țării, atolul Seenu, la aproximativ 540 de kilometri sud de capitala Malé. Orașul a luat naștere prin unificarea administrativă a mai multor insule locuite, precum Hithadhoo, Maradhoo, Feydhoo și Hulhumeedhoo, care sunt conectate direct printr-un sistem de baraje de 14 kilometri. Cu aproximativ 33000 de locuitori, Addu formează un centru urban independent, având în inima sa Aeroportul Internațional Gan, fost aerodrom militar britanic din epoca RAF. Importanța istorică datează din 1976, când forțele britanice s-au retras lăsând în urmă infrastructura. Astăzi, peisajul este dominat de șosele largi de asfalt, păduri de mangrove și de zona umedă unică Eidigali Kilhi cu apă dulce. Economia se bazează pe turism, cu resorturi precum Equator Village, pe pescuit și pe educație, prin campusul Universității Naționale Maldiviene. Cultural, regiunea se distinge prin propriul dialect și o identitate puternică, diferită de nordul țării.",
       en: "Addu City is the second largest urban region of the Maldives, located in Seenu Atoll, the southernmost atoll of the country, about 540 kilometers south of the capital Malé. The city was formed by the administrative merger of several inhabited islands such as Hithadhoo, Maradhoo, Feydhoo and Hulhumeedhoo, all connected directly by a 14 kilometer causeway road. With around 33000 inhabitants, Addu forms a standalone urban center anchored by Gan International Airport, a former British RAF military airbase. Its historical significance dates back to 1976 when the British forces withdrew and left their infrastructure behind. Today the landscape is shaped by wide asphalt roads, mangrove forests and the unique Eidigali Kilhi freshwater wetland. The economy is built on tourism with resorts like Equator Village, on fishing and on education through a Maldives National University campus. Culturally, the region stands out from the north thanks to its distinct dialect and strong local identity."
-    }, image: "/poi-images/mv-addu-city-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 33.000 (2014).", "Anzahl der Inseln: 23, davon 7 bewohnt.", "Hauptinsel: Hithadhoo.", "Höchster Punkt: 1,5 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 480 km.", "Meeresfläche des Atolls: ca. 900 km²."],
-      hu: ["Népesség: kb. 33 000 (2014).", "Szigetek száma: 23, ebből 7 lakott.", "Fő sziget: Hithadhoo.", "Legmagasabb pont: 1,5 méter tengerszint felett.", "Távolság Malétól: kb. 480 km.", "Atoll tengeri területe: kb. 900 km²."],
-      ro: ["Populație: aproximativ 33.000 (2014).", "Număr de insule: 23, dintre care 7 locuite.", "Insula principală: Hithadhoo.", "Cel mai înalt punct: 1,5 metri deasupra nivelului mării.", "Distanța față de Malé: aproximativ 480 km.", "Suprafața marină a atolului: circa 900 km²."],
-      en: ["Population: approximately 33,000 (2014).", "Number of islands: 23, of which 7 inhabited.", "Main island: Hithadhoo.", "Highest point: 1.5 meters above sea level.", "Distance to Malé: about 480 km.", "Marine area of atoll: about 900 km²."],
-    },
-  },
+    }, image: "/poi-images/mv-addu-city-cities-v2.webp"},
   {
     id: "mv-fuvahmulah-cities-v2",
     type: "city",
@@ -89,14 +75,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Fuvahmulah a Maldív-szigetek egyik legizgalmasabb földrajzi pontja: a Gnaviyani közigazgatási kerületben saját, magányos atollt alkot, mindössze 40 kilométerre északra az Egyenlítőtől. A tipikus lapos korallszigetekkel ellentétben Fuvahmulah ovális, körülbelül 4,5 négyzetkilométeres szárazföldet birtokol, és két édesvízi tónak ad otthont – a Bandaara Kilhinek és a Dhadimagi Kilhinek –, amelyeket nádasok és trópusi páfrányok öveznek. Növényzete kivételesen változatos: mangó, ananász, taró és narancs is terem itt, ami a Maldív-szigeteken egyedülálló. Mintegy 13000 lakosával a sziget az ország egyik legnépesebb különálló települése, és saját belföldi repülőtérrel rendelkezik, amelyet 2011-ben adtak át. Nemzetközileg azonban főleg az egész éves tigriscápa-merülésekről híres, melyeket a Tiger Zoo nevű búvárhelyen tartanak; ez a világon egyike azon kevés helyeknek, ahol megbízhatóan látható a faj. Rókacápák és bálnacápák is gyakran feltűnnek itt, ezért a térség a víz alatti fotósok kedvelt célpontja.",
       ro: "Fuvahmulah este una dintre cele mai fascinante insule din punct de vedere geografic ale Maldivelor, deoarece formează propriul atol singuratic în districtul Gnaviyani, la doar 40 de kilometri nord de Ecuator. Spre deosebire de tipicele recife coraliere joase, insula are o suprafață ovală de aproximativ 4,5 kilometri pătrați și găzduiește două lacuri de apă dulce, Bandaara Kilhi și Dhadimagi Kilhi, înconjurate de stuf și ferigi tropicale. Vegetația este excepțional de variată: aici cresc mango, ananas, taro și chiar portocale, lucru unic în contextul Maldivelor. Cu aproximativ 13000 de locuitori, Fuvahmulah este una dintre cele mai populate insule individuale ale țării și dispune de un aeroport intern propriu, deschis în 2011. Totuși, insula este faimoasă internațional pentru scufundările cu rechini tigru pe tot parcursul anului, organizate la Tiger Zoo, unul dintre puținele locuri din lume cu observații constante. Rechinii vulpe și rechinii balenă trec, de asemenea, pe aici, transformând regiunea într-un punct fierbinte pentru fotografii subacvatice.",
       en: "Fuvahmulah is one of the most geographically fascinating islands of the Maldives, forming its own lonely atoll in the Gnaviyani district just 40 kilometers north of the Equator. Unlike the typical flat coral atolls, the island has an oval landmass of around 4.5 square kilometers and hosts two freshwater lakes, Bandaara Kilhi and Dhadimagi Kilhi, surrounded by reeds and tropical ferns. Its vegetation is exceptionally diverse: mangoes, pineapples, taro and even oranges grow here, which is unique in the Maldivian context. With about 13000 residents, Fuvahmulah is one of the most populous single islands in the country and has its own domestic airport opened in 2011. Internationally, however, the island is famous for year round tiger shark diving at the Tiger Zoo dive site, one of the very few places worldwide with reliable sightings. Thresher sharks and whale sharks also pass through, making the region a top hotspot for underwater photographers."
-    }, image: "/poi-images/mv-fuvahmulah-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 12.000 (2014).", "Fläche: 4,9 km².", "Länge: etwa 4,5 km, Breite: etwa 1,5 km.", "Seefläche: Fuvahmulah-See ca. 0,2 km².", "Höchster Punkt: 2 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 500 km."],
-      hu: ["Népesség: kb. 12 000 (2014).", "Terület: 4,9 km².", "Hossz: kb. 4,5 km, szélesség: kb. 1,5 km.", "Tó területe: Fuvahmulah-tó kb. 0,2 km².", "Legmagasabb pont: 2 méter tengerszint felett.", "Távolság Malétól: kb. 500 km."],
-      ro: ["Populație: aproximativ 12.000 (2014).", "Suprafață: 4,9 km².", "Lungime: aproximativ 4,5 km, lățime: aproximativ 1,5 km.", "Suprafața lacului: Lacul Fuvahmulah aprox. 0,2 km².", "Cel mai înalt punct: 2 metri deasupra nivelului mării.", "Distanța față de Malé: aproximativ 500 km."],
-      en: ["Population: approximately 12,000 (2014).", "Area: 4.9 km².", "Length: about 4.5 km, width: about 1.5 km.", "Lake area: Fuvahmulah Lake approx. 0.2 km².", "Highest point: 2 meters above sea level.", "Distance to Malé: about 500 km."],
-    },
-  },
+    }, image: "/poi-images/mv-fuvahmulah-cities-v2.webp"},
   {
     id: "mv-kulhudhuffushi-cities-v2",
     type: "city",
@@ -121,14 +100,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Kulhudhuffushi a Maldív-szigetek északi részének legnagyobb városa és a Haa Dhaalu atoll fővárosa. Mintegy 10000 lakosával a sziget az északi régió gazdasági és közigazgatási csomópontjaként szolgál, jól elkülönülve a Malé fővárosi nyüzsgéstől. Kulhudhuffushi legismertebb látványossága a kiterjedt mangroveerdő, amelyet helyiek kulhinek neveznek, és amely nemcsak fontos ökoszisztéma, hanem hagyományosan a Hibaru – egy sötét, szárított rost – előállításának alapja is. Ez a Cordia gyökerekből készülő szál köteleknek és finom gyékényeknek nyersanyaga. A városnak 2018 óta saját belföldi repülőtere van, amely jelentősen javította a Maléval való kapcsolatot. Itt található továbbá egy regionális kórház sebészeti osztállyal, több középiskola és egy szakképzési központ. A gazdaság alapját a halászat, a hajóépítés és a környező lakott szigetekkel folytatott kereskedelem képezi.",
       ro: "Kulhudhuffushi este cel mai mare oraș din nordul Maldivelor și capitala atolului Haa Dhaalu. Cu aproximativ 10000 de locuitori, insula servește drept hub economic și administrativ pentru regiunea de nord, departe de agitația capitalei Malé. Kulhudhuffushi este renumită mai ales pentru mlaștinile sale extinse de mangrove, numite local kulhi, care nu doar formează un ecosistem important, ci sunt utilizate tradițional pentru producerea Hibaru, un fir închis la culoare obținut din fibre de rădăcină de Cordia. Această fibră este folosită pentru împletirea funiilor și a covoarelor fine. Orașul dispune din 2018 de un aeroport intern propriu, ceea ce a îmbunătățit semnificativ legăturile cu Malé. Aici se află și un spital regional cu secție chirurgicală, mai multe școli secundare și un centru de formare profesională. Economic, Kulhudhuffushi se bazează pe pescuit, construcția de bărci și comerțul cu celelalte insule locuite din atol.",
       en: "Kulhudhuffushi is the largest town in the north of the Maldives and the capital of Haa Dhaalu Atoll. With about 10000 inhabitants, the island acts as the economic and administrative hub for the northern region, far from the bustle of the capital Malé. Kulhudhuffushi is best known for its extensive mangrove swamps, locally called kulhi, which not only form an important ecosystem but are also traditionally used to produce Hibaru, a dark dried fiber made from Cordia root strands. This fiber is woven into ropes and fine mats. The town has had its own domestic airport since 2018, significantly improving connectivity to Malé. It also hosts a regional hospital with a surgical wing, several secondary schools and a vocational training center. Economically, Kulhudhuffushi relies on fishing, boat building and trade with the surrounding inhabited islands of the atoll."
-    }, image: "/poi-images/mv-kulhudhuffushi-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 8.000 (2014).", "Fläche: 2,5 km².", "Anzahl der Inseln im Atoll: etwa 40, davon 15 bewohnt.", "Höchster Punkt: 1,5 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 260 km.", "Hauptindustrien: Fischerei und Bootsbau."],
-      hu: ["Népesség: kb. 8000 (2014).", "Terület: 2,5 km².", "Atoll szigeteinek száma: kb. 40, ebből 15 lakott.", "Legmagasabb pont: 1,5 méter tengerszint felett.", "Távolság Malétól: kb. 260 km.", "Fő iparágak: halászat és hajóépítés."],
-      ro: ["Populație: aproximativ 8.000 (2014).", "Suprafață: 2,5 km².", "Numărul de insule din atol: aproximativ 40, dintre care 15 locuite.", "Cel mai înalt punct: 1,5 metri deasupra nivelului mării.", "Distanța față de Malé: aproximativ 260 km.", "Industrii principale: pescuit și construcții navale."],
-      en: ["Population: approximately 8,000 (2014).", "Area: 2.5 km².", "Number of islands in the atoll: about 40, of which 15 inhabited.", "Highest point: 1.5 meters above sea level.", "Distance to Malé: about 260 km.", "Main industries: fishing and boat building."],
-    },
-  },
+    }, image: "/poi-images/mv-kulhudhuffushi-cities-v2.webp"},
   {
     id: "mv-thinadhoo-cities-v2",
     type: "city",
@@ -153,14 +125,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Thinadhoo a Maldív-szigetek déli részén fekvő Gaafu Dhaalu atoll fővárosa, és különösen mozgalmas történelemmel rendelkező sziget. 1962-ben a maldív kormány által vérbe fojtott Suvadiv Köztársaság megtorlásaként Thinadhoot teljesen kiürítették és lerombolták, lakosainak a szomszédos szigetekre kellett menekülniük. Csak kilenc évvel később, 1971-ben népesítették be újra hivatalosan, és ma mintegy 7000 ember él itt. Ez a történelem erős kulturális identitást formált: Thinadhoo öntudatos, politikailag aktív közösségként ismert, saját megemlékező fesztiválokkal a kiűzetésre. Gazdaságilag a sziget regionális kereskedelmi, oktatási és egészségügyi központ, amelynek szíve a Dr. Abdul Samad Memorial Kórház. A szigetet hajójárat köti össze a Kaadedhdhoo repülőtérrel, és több középiskolának, valamint a Maldív Nemzeti Egyetem egyik kihelyezett tagozatának ad otthont. Az évente megrendezett Black Friday emléknap az 1962-es eseményekre emlékeztet.",
       ro: "Thinadhoo este capitala atolului Gaafu Dhaalu din sudul Maldivelor și o insulă cu o istorie deosebit de tulbure. În 1962, în urma represiunii violente a Republicii Suvadive de către guvernul maldivian, Thinadhoo a fost complet evacuat și distrus, iar toți locuitorii au fost nevoiți să fugă pe insulele învecinate. Abia nouă ani mai târziu, în 1971, insula a fost repopulată oficial, iar astăzi trăiesc aici aproximativ 7000 de oameni. Această istorie a forjat o identitate culturală puternică: Thinadhoo este cunoscut drept o comunitate conștientă de sine, activă politic, cu festivaluri proprii dedicate amintirii deportării. Din punct de vedere economic, insula este un centru regional pentru comerț, educație și sănătate, cu Spitalul Memorial Dr. Abdul Samad. Insula este conectată printr-un serviciu de feribot cu aeroportul Kaadedhdhoo și găzduiește mai multe școli secundare, precum și o filială a Universității Naționale Maldiviene. Evenimentul anual Black Friday comemorează evenimentele din 1962.",
       en: "Thinadhoo is the capital of Gaafu Dhaalu Atoll in the south of the Maldives, and an island with a particularly turbulent history. In 1962, following the violent suppression of the Suvadive Republic by the Maldivian government, Thinadhoo was completely evacuated and destroyed, with all residents forced to flee to neighboring islands. Only nine years later, in 1971, the island was officially repopulated, and today around 7000 people live here. This history has forged a strong cultural identity: Thinadhoo is regarded as a self-aware, politically active community with its own festivals commemorating the expulsion. Economically, the island is a regional hub for trade, education and healthcare, anchored by the Dr. Abdul Samad Memorial Hospital. It is linked by ferry to Kaadedhdhoo Airport and hosts several secondary schools as well as a campus of the Maldives National University. The annual Black Friday observance remembers the events of 1962."
-    }, image: "/poi-images/mv-thinadhoo-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 4.000 (2014).", "Fläche: 1,5 km².", "Anzahl der Inseln im Atoll: etwa 150, davon 10 bewohnt.", "Höchster Punkt: 1 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 400 km.", "Hauptwirtschaftszweig: Fischerei."],
-      hu: ["Népesség: kb. 4000 (2014).", "Terület: 1,5 km².", "Atoll szigeteinek száma: kb. 150, ebből 10 lakott.", "Legmagasabb pont: 1 méter tengerszint felett.", "Távolság Malétól: kb. 400 km.", "Fő gazdasági ág: halászat."],
-      ro: ["Populație: aproximativ 4.000 (2014).", "Suprafață: 1,5 km².", "Numărul de insule din atol: aproximativ 150, dintre care 10 locuite.", "Cel mai înalt punct: 1 metru deasupra nivelului mării.", "Distanța față de Malé: aproximativ 400 km.", "Principalul sector economic: pescuitul."],
-      en: ["Population: approximately 4,000 (2014).", "Area: 1.5 km².", "Number of islands in the atoll: about 150, of which 10 inhabited.", "Highest point: 1 meter above sea level.", "Distance to Malé: about 400 km.", "Main economic sector: fishing."],
-    },
-  },
+    }, image: "/poi-images/mv-thinadhoo-cities-v2.webp"},
   {
     id: "mv-naifaru-cities-v2",
     type: "city",
@@ -185,14 +150,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Naifaru a Maldív-szigetek északi részén fekvő Lhaviyani-atoll (hivatalosan Faadhippolhu) fő szigete és fővárosa. Alig 39 hektáros, keskeny szárazföldön mintegy 5500 ember él, ami Naifarut a Maldív-szigetek egyik legsűrűbben lakott szigetévé teszi. A zsúfoltság ellenére a sziget a kézművesség, a hajóépítés és a halászat élénk központja. Naifaru különösen híres a dhivehi beys néven ismert hagyományos maldív gyógynövényalapú gyógyszerek készítéséről, valamint a teknőspáncél-utánzatokból és ezüstből kézzel készített ékszerekről. A helyi Atoll Marine Centre nevű civil szervezet teknős-rehabilitációs központot tart fenn, ahol sérült tengeri teknősöket gondoznak és engednek vissza a szabadba. A sziget kikötője összeköti Naifarut olyan üdülőhelyekkel, mint a Hurawalhi, Kanuhura és Komandoo, amelyek fontos foglalkoztatási forrást jelentenek. Egy 2019-ben bővített kórház, több iskola és egy modern sportközpont teszi Naifarut a környező szigetek regionális vonzerejévé.",
       ro: "Naifaru este insula principală și capitala atolului Lhaviyani (oficial Faadhippolhu) din nordul Maldivelor. Pe o suprafață îngustă de doar 39 de hectare trăiesc aproximativ 5500 de oameni, ceea ce face din Naifaru una dintre cele mai dens populate insule din Maldive. În ciuda spațiului limitat, insula este un centru viu pentru meșteșuguri, construcția de bărci și pescuit. Naifaru este renumită mai ales pentru producția de dhivehi beys, remedii tradiționale maldiviene pe bază de plante, precum și pentru bijuteriile artizanale din imitații de carapace de țestoasă și argint. ONG-ul local Atoll Marine Centre operează un centru de reabilitare a țestoaselor marine rănite, pe care le îngrijește și le eliberează. Portul insulei conectează Naifaru cu resorturi precum Hurawalhi, Kanuhura și Komandoo, ceea ce reprezintă o sursă importantă de locuri de muncă. Un spital extins în 2019, mai multe școli și un centru sportiv modern fac din Naifaru un punct de atracție regională pentru insulele învecinate.",
       en: "Naifaru is the main island and capital of Lhaviyani Atoll (officially Faadhippolhu) in the north of the Maldives. On a narrow land area of barely 39 hectares live around 5500 people, making Naifaru one of the most densely populated islands in the Maldives. Despite the cramped conditions, the island is a lively center for handicrafts, boat building and fishing. Naifaru is especially famous for producing dhivehi beys, traditional Maldivian herbal medicine, and for handcrafted jewelry made of imitation tortoiseshell and silver. The local NGO Atoll Marine Centre runs a sea turtle rehabilitation hospital that treats and releases injured marine turtles. The island harbor connects Naifaru to resorts such as Hurawalhi, Kanuhura and Komandoo, providing an important source of employment. A hospital expanded in 2019, several schools and a modern sports center make Naifaru a regional draw for the surrounding islands."
-    }, image: "/poi-images/mv-naifaru-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 5.000 (2014).", "Fläche: 1,2 km².", "Anzahl der Inseln im Atoll: etwa 50, davon 6 bewohnt.", "Höchster Punkt: 1 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 140 km.", "Hauptexportprodukt: Thunfischkonserven."],
-      hu: ["Népesség: kb. 5000 (2014).", "Terület: 1,2 km².", "Atoll szigeteinek száma: kb. 50, ebből 6 lakott.", "Legmagasabb pont: 1 méter tengerszint felett.", "Távolság Malétól: kb. 140 km.", "Fő exporttermék: tonhalkonzerv."],
-      ro: ["Populație: aproximativ 5.000 (2014).", "Suprafață: 1,2 km².", "Numărul de insule din atol: aproximativ 50, dintre care 6 locuite.", "Cel mai înalt punct: 1 metru deasupra nivelului mării.", "Distanța față de Malé: aproximativ 140 km.", "Principalul produs de export: conserve de ton."],
-      en: ["Population: approximately 5,000 (2014).", "Area: 1.2 km².", "Number of islands in the atoll: about 50, of which 6 inhabited.", "Highest point: 1 meter above sea level.", "Distance to Malé: about 140 km.", "Main export product: canned tuna."],
-    },
-  },
+    }, image: "/poi-images/mv-naifaru-cities-v2.webp"},
   {
     id: "mv-hinnavaru-cities-v2",
     type: "city",
@@ -217,14 +175,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Hinnavaru kivételesen sűrűn lakott sziget a Lhaviyani-atollban, mindössze három kilométerre az atoll fővárosától, Naifarutól. Alig 18 hektáron mintegy 4500 lakos él, így a népsűrűség meghaladja a 25000 főt négyzetkilométerenként. A sziget az északi maldív régió ipari tonhal-feldolgozásának központja, és a közelben fekszik a Felivaru Tuna Processing állami vállalat üzeme. Hinnavaru több jéggyárral is rendelkezik a fogás tartósítására, tágas halászati kikötővel és hagyományos trópusi fából készült hajójavító műhelyekkel. A közösségi élet szorosan kötődik a mecsethez, és a pénteki piac messziről vonzza a környező szigetek kereskedőit. A lakosokat modern egészségügyi központ, egy középiskola és egy újonnan épített, aszfaltpályás sportstadion szolgálja ki. A Naifaruval való kapcsolat naponta többször gyorsaszárnyú hajóval valósul meg, így Hinnavaru az atoll gazdaságának nélkülözhetetlen láncszeme.",
       ro: "Hinnavaru este o insulă excepțional de dens populată din atolul Lhaviyani, situată la doar trei kilometri de capitala atolului, Naifaru. Pe o suprafață de circa 18 hectare locuiesc aproximativ 4500 de oameni, ceea ce duce la o densitate de peste 25000 de locuitori pe kilometru pătrat. Insula este centrul procesării industriale a tonului în regiunea nordică a Maldivelor, iar fabrica companiei de stat Felivaru Tuna Processing se află în imediata apropiere. Hinnavaru deține mai multe fabrici de gheață pentru conservarea capturilor, un port pescăresc spațios, precum și ateliere de reparat bărci din lemn tropical tradițional. Viața socială este strâns legată de moschee, iar piața de vineri atrage comercianți din insulele vecine. Locuitorii beneficiază de un centru de sănătate modern, o școală secundară și un stadion sportiv recent construit cu pistă de asfalt. Legătura cu Naifaru se realizează de mai multe ori pe zi cu speedboatul, ceea ce face din Hinnavaru o verigă esențială în economia atolului.",
       en: "Hinnavaru is an exceptionally densely populated island in Lhaviyani Atoll, only three kilometers from the atoll capital Naifaru. About 4500 residents live on roughly 18 hectares of land, giving a density of over 25000 people per square kilometer. The island is the heart of industrial tuna processing in the northern Maldives, and the state owned Felivaru Tuna Processing plant lies just nearby. Hinnavaru has several ice factories for preserving the catch, a spacious fishing harbor and boat repair workshops using traditional tropical hardwood. Community life centers around the mosque, and the Friday market draws traders from the surrounding islands. Residents are served by a modern health center, a secondary school and a newly built sports stadium with an asphalt running track. The link to Naifaru is made several times a day by speedboat, making Hinnavaru an essential node in the atoll economy."
-    }, image: "/poi-images/mv-hinnavaru-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 3.500 (2014).", "Fläche: 0,8 km².", "Höchster Punkt: 1 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 150 km.", "Anzahl der Haushalte: rund 600.", "Hauptwirtschaftszweig: Fischerei."],
-      hu: ["Népesség: kb. 3500 (2014).", "Terület: 0,8 km².", "Legmagasabb pont: 1 méter tengerszint felett.", "Távolság Malétól: kb. 150 km.", "Háztartások száma: kb. 600.", "Fő gazdasági ág: halászat."],
-      ro: ["Populație: aproximativ 3.500 (2014).", "Suprafață: 0,8 km².", "Cel mai înalt punct: 1 metru deasupra nivelului mării.", "Distanța față de Malé: aproximativ 150 km.", "Număr de gospodării: circa 600.", "Principalul sector economic: pescuitul."],
-      en: ["Population: approximately 3,500 (2014).", "Area: 0.8 km².", "Highest point: 1 meter above sea level.", "Distance to Malé: about 150 km.", "Number of households: around 600.", "Main economic sector: fishing."],
-    },
-  },
+    }, image: "/poi-images/mv-hinnavaru-cities-v2.webp"},
   {
     id: "mv-dhidhdhoo-cities-v2",
     type: "city",
@@ -249,14 +200,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Dhidhdhoo a Maldív-szigetek legészakibb közigazgatási egységének, a Haa Alif atollnak a fővárosa, és mindössze körülbelül 20 kilométerre fekszik az indiai felségvizek határától. Mintegy 3500 lakosával a sziget a kerület politikai és gazdasági gerincét adja. Dhidhdhoo modern szigeti kikötővel rendelkezik, amely az északi atollokat ellátó teherhajók nagy részét fogadja, valamint itt található a Haa Alif Atoll Kórház, az ország egyik legnagyobb regionális egészségügyi központja, járóbeteg-ellátással, laborral és szülészettel. Itt működik továbbá rendőrkapitányság, a Bank of Maldives fiókja és egy bíróság is. A sziget gazdasági alapja a halászat, a közigazgatás, a hajóépítés és a növekvő vendégházas turizmus, hiszen innen számos lakatlan homokpad és zátony érhető el. A közeli Hanimaadhoo repülőtérrel való gyors kapcsolat – amelyet 2024-től nemzetközi repülőtérré bővítenek – Dhidhdhoot a régió fontos kapujává teszi.",
       ro: "Dhidhdhoo este capitala atolului Haa Alif, cel mai nordic atol administrativ al Maldivelor, și se află la doar aproximativ 20 de kilometri sud de limita apelor teritoriale indiene. Cu aproximativ 3500 de locuitori, insula constituie coloana vertebrală politică și economică a districtului. Dhidhdhoo dispune de un port insular modern care procesează majoritatea navelor de marfă pentru atolurile nordice, precum și de Spitalul atolului Haa Alif, unul dintre cele mai mari centre regionale de sănătate din țară, cu policlinică, laborator și obstetrică. Aici funcționează și un sediu de poliție, o sucursală a Bank of Maldives și o instanță. Economia insulei se bazează pe pescuit, administrație, construcția de bărci și pe un turism de tip casă de oaspeți în creștere, deoarece de aici sunt accesibile numeroase bancuri de nisip și recife nelocuite. Conexiunea rapidă cu apropiatul aeroport Hanimaadhoo, care va fi extins la statut internațional din 2024, transformă Dhidhdhoo într-o poartă importantă pentru regiune.",
       en: "Dhidhdhoo is the capital of Haa Alif Atoll, the northernmost administrative atoll of the Maldives, and lies only about 20 kilometers south of the boundary with Indian territorial waters. With around 3500 residents, the island forms the political and economic backbone of the district. Dhidhdhoo features a modern island harbor that handles most cargo ships for the northern atolls, as well as Haa Alif Atoll Hospital, one of the largest regional health facilities in the country with outpatient services, laboratory and maternity ward. There is also a police district headquarters, a Bank of Maldives branch and a courthouse. The economy is built on fishing, administration, boat building and a growing guesthouse tourism scene, with many uninhabited sandbanks and reefs accessible from here. A fast link to nearby Hanimaadhoo Airport, which is being expanded to international status from 2024, makes Dhidhdhoo a key gateway for the region."
-    }, image: "/poi-images/mv-dhidhdhoo-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 4.000 (2014).", "Fläche: 1,1 km².", "Anzahl der Inseln im Atoll: etwa 40, davon 14 bewohnt.", "Höchster Punkt: 1 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 310 km.", "Flugplatz: Dhidhdhoo Domestic Airport."],
-      hu: ["Népesség: kb. 4000 (2014).", "Terület: 1,1 km².", "Atoll szigeteinek száma: kb. 40, ebből 14 lakott.", "Legmagasabb pont: 1 méter tengerszint felett.", "Távolság Malétól: kb. 310 km.", "Repülőtér: Dhidhdhoo belföldi repülőtér."],
-      ro: ["Populație: aproximativ 4.000 (2014).", "Suprafață: 1,1 km².", "Numărul de insule din atol: aproximativ 40, dintre care 14 locuite.", "Cel mai înalt punct: 1 metru deasupra nivelului mării.", "Distanța față de Malé: aproximativ 310 km.", "Aeroport: Aeroportul Intern Dhidhdhoo."],
-      en: ["Population: approximately 4,000 (2014).", "Area: 1.1 km².", "Number of islands in the atoll: about 40, of which 14 inhabited.", "Highest point: 1 meter above sea level.", "Distance to Malé: about 310 km.", "Airport: Dhidhdhoo Domestic Airport."],
-    },
-  },
+    }, image: "/poi-images/mv-dhidhdhoo-cities-v2.webp"},
   {
     id: "mv-eydhafushi-cities-v2",
     type: "city",
@@ -281,14 +225,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Eydhafushi a Baa-atoll fővárosa, amely 2011 óta UNESCO bioszféra-rezervátumi rangot visel, és ezzel a Maldív-szigetek ökológiailag legértékesebb régiói közé tartozik. A szigeten mintegy 2700 ember él, és az évszázados Thundu Kunaa szőnyegszövő hagyományáról híres, amelyet a helyi Hau növény rostjaiból készítenek. Ezeket a finom gyékényeket mangrove kéregből nyert természetes pigmentekkel színezik, és bonyolult geometriai mintákkal szövik – egy szinte kizárólag nők által űzött mesterség. Turisztikailag Eydhafushi nagy előnye a közeli Hanifaru-öböl, amely a manta ráják és a bálnacápák világhírű találkozóhelye; május és november között hatalmas csoportokban érkeznek ide planktonra vadászni. A szigeten atoll-szintű kórház, helyi ételeket – mint a Mas Huni – kínáló kávézók és forgalmas kikötő található, amely a vendégházas turizmust és a snorkel-túrákat szolgálja ki.",
       ro: "Eydhafushi este capitala atolului Baa, recunoscut din 2011 ca rezervație a biosferei UNESCO și astfel printre cele mai valoroase regiuni ecologice din Maldive. Pe insulă trăiesc aproximativ 2700 de oameni, iar localitatea este renumită pentru tradiția secular a țesutului de covoare Thundu Kunaa, realizate din fibrele plantei locale Hau. Aceste covorașe fine sunt vopsite cu pigmenți naturali din scoarță de mangrove și împletite în modele geometrice complexe, meșteșug practicat aproape exclusiv de femei. Turistic, Eydhafushi beneficiază de apropierea de Hanifaru Bay, un loc mondial faimos pentru mantarele și rechinii balenă care, între mai și noiembrie, se hrănesc cu plancton în roiuri dense. Insula dispune de un spital la nivel de atol, mai multe cafenele care servesc preparate locale precum Mas Huni și un port aglomerat care deservește turismul local cu case de oaspeți și excursii de snorkeling.",
       en: "Eydhafushi is the capital of Baa Atoll, designated a UNESCO Biosphere Reserve in 2011 and thus one of the ecologically most valuable regions of the Maldives. Around 2700 people live on the island, which is famous for the centuries old tradition of Thundu Kunaa mat weaving, produced from the fibers of the local Hau plant. These fine mats are dyed with natural pigments from mangrove bark and woven in intricate geometric patterns, a craft practiced almost exclusively by women. Tourism in Eydhafushi benefits enormously from the proximity to Hanifaru Bay, a world famous hotspot for manta rays and whale sharks that feed on plankton in dense aggregations between May and November. The island has an atoll hospital, several cafés serving local dishes such as Mas Huni and a busy harbor that supports local guesthouse tourism and snorkeling excursions."
-    }, image: "/poi-images/mv-eydhafushi-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 6.000 (2014).", "Fläche: 1,5 km².", "Anzahl der Inseln im Atoll: etwa 75, davon 13 bewohnt.", "Höchster Punkt: 1 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 120 km.", "UNESCO-Status: Baa-Atoll seit 2011 Biosphärenreservat."],
-      hu: ["Népesség: kb. 6000 (2014).", "Terület: 1,5 km².", "Atoll szigeteinek száma: kb. 75, ebből 13 lakott.", "Legmagasabb pont: 1 méter tengerszint felett.", "Távolság Malétól: kb. 120 km.", "UNESCO-státusz: Baa-atoll 2011 óta bioszféra-rezervátum."],
-      ro: ["Populație: aproximativ 6.000 (2014).", "Suprafață: 1,5 km².", "Numărul de insule din atol: aproximativ 75, dintre care 13 locuite.", "Cel mai înalt punct: 1 metru deasupra nivelului mării.", "Distanța față de Malé: aproximativ 120 km.", "Statut UNESCO: atolul Baa este rezervație a biosferei din 2011."],
-      en: ["Population: approximately 6,000 (2014).", "Area: 1.5 km².", "Number of islands in the atoll: about 75, of which 13 inhabited.", "Highest point: 1 meter above sea level.", "Distance to Malé: about 120 km.", "UNESCO status: Baa Atoll is a Biosphere Reserve since 2011."],
-    },
-  },
+    }, image: "/poi-images/mv-eydhafushi-cities-v2.webp"},
   {
     id: "mv-funadhoo-cities-v2",
     type: "city",
@@ -313,14 +250,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Funadhoo a Shaviyani-atoll fővárosa, a Maldív-szigetek északi részén, körülbelül 200 kilométerre Malé városától. A szigetnek körülbelül 2000 lakosa van, és egyre fontosabb atollfővárosnak számít modern közigazgatással. Funadhoot a nyugati partján található hosszú, keskeny homokos strandok jellemzik, amelyeket tengeri természetvédelmi programok révén rendszeresen védenek az erózióval szemben. A szigeten található az atoll tanácsának hivatala, egy atoll-szintű kórház, több iskola, valamint egy modern, regionálisan jelentős kikötő, amely a környező 14 lakott sziget áruforgalmát bonyolítja. A 2020-ban átadott Funadhoo repülőtéren keresztül a sziget napi járattal kapcsolódik Maléhoz – ez kulcstényező a turizmus fejlődésében. Gazdaságát a halászat (különösen a csíkoshasú tonhal), a hajóépítés és a kis kertekben termesztett kókusz, banán és manióka adja. Az évente rendezett Eid-fesztivál vonzza a látogatókat az egész atollról.",
       ro: "Funadhoo este capitala atolului Shaviyani și se află în nordul Maldivelor, la aproximativ 200 de kilometri de Malé. Insula are circa 2000 de locuitori și este considerată o capitală atoll în creștere, cu o administrație modernă. Caracteristice pentru Funadhoo sunt plajele lungi și înguste de pe partea de vest, care sunt protejate periodic împotriva eroziunii prin programe de conservare maritimă. Insula găzduiește biroul Consiliului atolului, un spital la nivel de atol, mai multe școli, precum și un port modern, important regional, care manevrează mărfurile pentru cele 14 insule locuite din atol. Prin apropiatul aeroport Funadhoo, deschis în 2020, insula este conectată zilnic cu Malé, factor cheie pentru dezvoltarea turismului local. Economic, regiunea se bazează pe pescuit – în special pe tonul scrumbie – construcția de bărci și pe agricultura mică cu nuci de cocos, banane și manioc în grădini private. Festivalul anual de Eid atrage vizitatori din întregul atol.",
       en: "Funadhoo is the capital of Shaviyani Atoll, located in the north of the Maldives about 200 kilometers from Malé. The island has roughly 2000 inhabitants and is considered a growing atoll capital with a modern administration. Funadhoo is characterized by long, narrow sandy beaches on its western side, which are regularly protected against erosion through marine conservation programs. The island hosts the Atoll Council Office, an atoll hospital, several schools and a modern, regionally important harbor that handles cargo for the surrounding 14 inhabited islands of the atoll. Through nearby Funadhoo Airport, opened in 2020, the island is connected daily to Malé, a key driver for the development of local tourism. Economically, the region relies on fishing – especially skipjack tuna – boat building and small scale agriculture growing coconuts, bananas and cassava in home gardens. The annual Eid festival draws visitors from across the atoll."
-    }, image: "/poi-images/mv-funadhoo-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 2.500 (2014).", "Fläche: 0,9 km².", "Anzahl der Inseln im Atoll: etwa 50, davon 5 bewohnt.", "Höchster Punkt: 1 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 200 km.", "Hauptwirtschaftszweig: Fischerei."],
-      hu: ["Népesség: kb. 2500 (2014).", "Terület: 0,9 km².", "Atoll szigeteinek száma: kb. 50, ebből 5 lakott.", "Legmagasabb pont: 1 méter tengerszint felett.", "Távolság Malétól: kb. 200 km.", "Fő gazdasági ág: halászat."],
-      ro: ["Populație: aproximativ 2.500 (2014).", "Suprafață: 0,9 km².", "Numărul de insule din atol: aproximativ 50, dintre care 5 locuite.", "Cel mai înalt punct: 1 metru deasupra nivelului mării.", "Distanța față de Malé: aproximativ 200 km.", "Principalul sector economic: pescuitul."],
-      en: ["Population: approximately 2,500 (2014).", "Area: 0.9 km².", "Number of islands in the atoll: about 50, of which 5 inhabited.", "Highest point: 1 meter above sea level.", "Distance to Malé: about 200 km.", "Main economic sector: fishing."],
-    },
-  },
+    }, image: "/poi-images/mv-funadhoo-cities-v2.webp"},
   {
     id: "mv-dhuvaafaru-cities-v2",
     type: "city",
@@ -345,14 +275,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Dhuvaafaru a Raa-atoll figyelemre méltó szigete, mert a Maldív-szigetek néhány teljesen tervszerűen újranépesített szigetének egyike. A 2004. december 26-i pusztító indiai-óceáni szökőár után a lakosok eredeti szigetét, Kandholhudhoot teljesen elpusztította a víz, és a mintegy 4000 túlélőt más atollokra menekítették. A Vöröskereszt és Vörös Félhold Társaságok Nemzetközi Szövetsége, a Brit Vöröskereszt és a maldív kormány támogatásával Dhuvaafarut 2005-től alapjaiból építették újjá, modern vízellátással, szilárd burkolatú utakkal, napelemes rendszerekkel, egy nagy mecsettel és egységes kialakítású házakkal. 2008-ban a kandholhudhooi egykori lakosok hivatalosan beköltöztek. Ma mintegy 4000 ember él itt, a sziget rendelkezik középiskolával, egészségügyi központtal és forgalmas kikötővel. A gazdaság alapja a halászat és a környező üdülőhelyeken – például az Adaaran Meedhupparuban és a You & Me by Cocoonban – való munkavállalás.",
       ro: "Dhuvaafaru este o insulă remarcabilă din atolul Raa, deoarece este una dintre puținele insule complet repopulate planificat din Maldive. După devastatorul tsunami din Oceanul Indian de pe 26 decembrie 2004, insula originară a locuitorilor, Kandholhudhoo, a fost complet distrusă, iar cei aproximativ 4000 de supraviețuitori au fost evacuați pe alte atoluri. Cu sprijinul Federației Internaționale a Societăților de Cruce Roșie, al Crucii Roșii Britanice și al guvernului maldivian, Dhuvaafaru a fost reconstruită de la zero începând cu 2005, cu sistem modern de apă, șosele asfaltate, instalații solare, o mare moschee și case construite uniform. În 2008, foștii locuitori s-au mutat oficial aici. Astăzi trăiesc circa 4000 de oameni, iar insula dispune de o școală secundară, un centru de sănătate și un port aglomerat. Economic, viața se bazează pe pescuit și pe ocuparea forței de muncă în resorturile învecinate, precum Adaaran Meedhupparu și You & Me by Cocoon.",
       en: "Dhuvaafaru is a remarkable island in Raa Atoll because it is one of the few fully planned, repopulated islands of the Maldives. After the devastating Indian Ocean tsunami of December 26, 2004, the residents original island, Kandholhudhoo, was completely destroyed, and the roughly 4000 survivors were evacuated to other atolls. With support from the International Federation of Red Cross and Red Crescent Societies, the British Red Cross and the Maldivian government, Dhuvaafaru was rebuilt from scratch from 2005 onwards, featuring a modern water system, paved roads, solar power, a large mosque and uniformly designed houses. In 2008, the former residents officially moved in. Today around 4000 people live here, and the island has a secondary school, a health center and a busy harbor. Economically, life relies on fishing and on jobs in surrounding resorts such as Adaaran Meedhupparu and You & Me by Cocoon."
-    }, image: "/poi-images/mv-dhuvaafaru-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 2.000 (2014).", "Fläche: 0,7 km².", "Tsunami 2004: Höhe der Wellen bis zu 3 Meter.", "Höchster Punkt: 1 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 170 km.", "Wiederaufbau finanziert durch internationale Hilfe."],
-      hu: ["Népesség: kb. 2000 (2014).", "Terület: 0,7 km².", "2004-es szökőár: a hullámok magassága elérte a 3 métert.", "Legmagasabb pont: 1 méter tengerszint felett.", "Távolság Malétól: kb. 170 km.", "Újjáépítés nemzetközi segélyből finanszírozva."],
-      ro: ["Populație: aproximativ 2.000 (2014).", "Suprafață: 0,7 km².", "Tsunami 2004: valuri de până la 3 metri înălțime.", "Cel mai înalt punct: 1 metru deasupra nivelului mării.", "Distanța față de Malé: aproximativ 170 km.", "Reconstrucție finanțată prin ajutor internațional."],
-      en: ["Population: approximately 2,000 (2014).", "Area: 0.7 km².", "2004 tsunami: wave heights up to 3 meters.", "Highest point: 1 meter above sea level.", "Distance to Malé: about 170 km.", "Reconstruction funded by international aid."],
-    },
-  },
+    }, image: "/poi-images/mv-dhuvaafaru-cities-v2.webp"},
   {
     id: "mv-villingili-ga-cities-v2",
     type: "city",
@@ -377,14 +300,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Villingili – gyakran Vilingili néven is – a Gaafu Alif atoll fővárosa a Maldív-szigetek déli részén, kevesebb mint 50 kilométerre északra az Egyenlítőtől. A szigetnek körülbelül 3000 lakosa van, és regionális oktatási központként ismert, a Jamaaluddeen School és több szakképzési intézmény szerepel itt. Földrajzilag Villingili a hatalmas Suvadiva-atollban fekszik, amely a világ egyik legnagyobb és legmélyebb lagúnája, ezáltal a sziget stratégiai hajózási pont. A közeli Kooddoo repülőtéren keresztül rendszeres légi járatokkal érhető el Malé. A helyi gazdaság a hagyományos Dhoni hajókkal végzett napi halászatra, a hajójavításra és kisebb mértékben a kókusz-feldolgozásra és gyékényszövésre épül. Villingili a csendes homokpadokról és a szokatlanul tiszta vizű, kiterjedt lagúnákról is ismert, amelyek snorkelezésre és állószörfözésre alkalmasak. A szigeten atoll-közigazgatási hivatal, posta és több mecset is működik.",
       ro: "Villingili, scris adesea și Vilingili, este capitala atolului Gaafu Alif din sudul Maldivelor, la mai puțin de 50 de kilometri nord de Ecuator. Insula are aproximativ 3000 de locuitori și este recunoscută ca centru educațional regional, cu școala Jamaaluddeen și mai multe centre de formare profesională. Din punct de vedere geografic, Villingili se află în uriașul atol Suvadiva, una dintre cele mai mari și mai adânci lagune din lume, ceea ce o face un punct strategic pentru navigație. Conexiunea cu apropiatul aeroport Kooddoo permite zboruri regulate către Malé. Economia locală se bazează pe pescuitul de zi cu zi cu bărci tradiționale Dhoni, pe reparațiile de bărci și, în mai mică măsură, pe prelucrarea nucii de cocos și pe țesutul de covorașe. Villingili este, de asemenea, cunoscută pentru bancurile de nisip liniștite și lagunele întinse cu apă neobișnuit de limpede, ideale pentru snorkeling și stand-up paddleboarding. Insula dispune și de un birou de administrație a atolului, un oficiu poștal și mai multe moschei.",
       en: "Villingili, often spelled Vilingili, is the capital of Gaafu Alif Atoll in the south of the Maldives, less than 50 kilometers north of the Equator. The island has about 3000 residents and is regarded as a regional educational center, hosting Jamaaluddeen School and several vocational training institutes. Geographically, Villingili lies in the huge Suvadiva Atoll, one of the largest and deepest lagoons in the world, making the island a strategic shipping point. Through the nearby Kooddoo Airport connection, regular flights link the island to Malé. The local economy is built on daily fishing with traditional Dhoni boats, on boat repair and to a lesser extent on coconut processing and mat weaving. Villingili is also known for its quiet sandbanks and the wide lagoons with unusually clear water, ideal for snorkeling and stand up paddleboarding. The island also features an atoll administration office, a post office and several mosques."
-    }, image: "/poi-images/mv-villingili-ga-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 2.800 (2014).", "Fläche: 0,6 km².", "Anzahl der Inseln im Atoll: etwa 90, davon 10 bewohnt.", "Höchster Punkt: 1 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 420 km.", "Hauptwirtschaftszweig: Fischerei."],
-      hu: ["Népesség: kb. 2800 (2014).", "Terület: 0,6 km².", "Atoll szigeteinek száma: kb. 90, ebből 10 lakott.", "Legmagasabb pont: 1 méter tengerszint felett.", "Távolság Malétól: kb. 420 km.", "Fő gazdasági ág: halászat."],
-      ro: ["Populație: aproximativ 2.800 (2014).", "Suprafață: 0,6 km².", "Numărul de insule din atol: aproximativ 90, dintre care 10 locuite.", "Cel mai înalt punct: 1 metru deasupra nivelului mării.", "Distanța față de Malé: aproximativ 420 km.", "Principalul sector economic: pescuitul."],
-      en: ["Population: approximately 2,800 (2014).", "Area: 0.6 km².", "Number of islands in the atoll: about 90, of which 10 inhabited.", "Highest point: 1 meter above sea level.", "Distance to Malé: about 420 km.", "Main economic sector: fishing."],
-    },
-  },
+    }, image: "/poi-images/mv-villingili-ga-cities-v2.webp"},
   {
     id: "mv-mahibadhoo-cities-v2",
     type: "city",
@@ -409,14 +325,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Mahibadhoo az Alif Dhaal atoll (hivatalosan Dél-Ari atoll) fővárosa, mintegy 80 kilométerre nyugatra Malé városától. A sziget körülbelül 2700 lakossal rendelkezik, és dinamikus közigazgatási és oktatási központként ismert. Itt található az atoll-kórház, több iskola, valamint egy rendőrőrs és az atoll bírósága. Mahibadhoo a világhírű Dél-Ari atoll búvárhelyeinek kapuja, beleértve a Maamigilit, ahol egész évben megfigyelhetők bálnacápák. A gazdaság alapja a halászat (nagy pole-and-line hajókkal), a turizmus – a környéken több mint 30 üdülőhely található, köztük a Conrad Rangali, a W Maldives és a Nika Island Resort – és a virágzó hajóépítés. Kulturálisan Mahibadhoo lelkes futballközösségéről és évente megrendezett sporteseményeiről, mint a Mahibadhoo-Kupa, ismert. Gyors komp naponta többször köti össze a szigetet a Maamigili repülőtérrel és Maléval.",
       ro: "Mahibadhoo este capitala atolului Alif Dhaal (oficial atolul Ari de Sud) și se află la aproximativ 80 de kilometri vest de Malé. Insula are circa 2700 de locuitori și este cunoscută ca un centru administrativ și educațional dinamic. Aici se află spitalul atolului, mai multe școli, o secție de poliție și instanța atolului. Mahibadhoo este considerată poarta de intrare către celebrele locuri de scufundare din atolul Ari de Sud, inclusiv Maamigili, unde rechinii balenă pot fi observați tot anul. Economia se bazează pe un amestec de pescuit cu bărci mari pole-and-line, pe turism cu peste 30 de resorturi în împrejurimi – printre care Conrad Rangali, W Maldives și Nika Island Resort – și pe o industrie înfloritoare de construcții navale. Cultural, Mahibadhoo este cunoscută pentru comunitatea sa pasionată de fotbal și pentru evenimente sportive anuale precum Cupa Mahibadhoo. Un feribot rapid leagă insula zilnic, de mai multe ori, cu aeroportul Maamigili și cu Malé.",
       en: "Mahibadhoo is the capital of Alif Dhaal Atoll (officially South Ari Atoll), about 80 kilometers west of Malé. The island has around 2700 residents and is known as a dynamic administrative and educational center. It hosts the atoll hospital, several schools, a police station and the atoll courthouse. Mahibadhoo is considered the gateway to the world famous dive sites of South Ari Atoll, including Maamigili, where whale sharks can be spotted year round. The economy is built on a mix of fishing with large pole-and-line boats, tourism with over 30 surrounding resorts – including Conrad Rangali, W Maldives and Nika Island Resort – and a thriving boatbuilding industry. Culturally, Mahibadhoo is known for its passionate football community and annual sporting events such as the Mahibadhoo Cup. A speed ferry connects the island several times a day to Maamigili Airport and to Malé."
-    }, image: "/poi-images/mv-mahibadhoo-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 3.000 (2014).", "Fläche: 0,5 km².", "Anzahl der Inseln im Atoll: etwa 50, davon 10 bewohnt.", "Höchster Punkt: 1 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 90 km.", "Hauptwirtschaftszweig: Fischerei."],
-      hu: ["Népesség: kb. 3000 (2014).", "Terület: 0,5 km².", "Atoll szigeteinek száma: kb. 50, ebből 10 lakott.", "Legmagasabb pont: 1 méter tengerszint felett.", "Távolság Malétól: kb. 90 km.", "Fő gazdasági ág: halászat."],
-      ro: ["Populație: aproximativ 3.000 (2014).", "Suprafață: 0,5 km².", "Numărul de insule din atol: aproximativ 50, dintre care 10 locuite.", "Cel mai înalt punct: 1 metru deasupra nivelului mării.", "Distanța față de Malé: aproximativ 90 km.", "Principalul sector economic: pescuitul."],
-      en: ["Population: approximately 3,000 (2014).", "Area: 0.5 km².", "Number of islands in the atoll: about 50, of which 10 inhabited.", "Highest point: 1 meter above sea level.", "Distance to Malé: about 90 km.", "Main economic sector: fishing."],
-    },
-  },
+    }, image: "/poi-images/mv-mahibadhoo-cities-v2.webp"},
   {
     id: "mv-kudahuvadhoo-cities-v2",
     type: "city",
@@ -441,14 +350,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Kudahuvadhoo a Dhaalu-atoll legnagyobb szigete és fővárosa, körülbelül 160 kilométerre délre Malé városától. A sziget mintegy 2400 lakossal rendelkezik, és egyre jelentősebb csomópont a helyi turizmus számára, különösen a 2017-ben megnyílt Dhaalu repülőtér óta, amely közvetlen járatokat tesz lehetővé Maléből. Történelmileg Kudahuvadhoo azért fontos, mert ősi, feltehetően buddhista korból származó dombokat és kőfalromokat találtak itt, amelyeket Thor Heyerdahl norvég régész az 1980-as években dokumentált. A gazdaság a halászatra, a hajóépítésre és a snorkelezőket, búvárokat fogadó vendégházak növekvő számára épül. A közelben olyan kiváló merülőhelyek találhatók, mint a Wreck Beyru és a Kandimaa Thila, ahol manta ráják, sasráják és zátonycápák jelennek meg. A szigeten kórház, több iskola, atoll-közigazgatási hivatal és modern sportstadion is működik.",
       ro: "Kudahuvadhoo este cea mai mare insulă și capitala atolului Dhaalu, aflată la aproximativ 160 de kilometri sud de Malé. Insula găzduiește circa 2400 de locuitori și se dezvoltă rapid ca punct nodal pentru turismul local, mai ales de la deschiderea în 2017 a aeroportului Dhaalu, care permite zboruri directe din Malé. Istoric, Kudahuvadhoo este importantă deoarece aici au fost descoperite movile antice și ruine de ziduri de piatră, probabil din perioada budistă, documentate de arheologul Thor Heyerdahl în anii 1980. Economia se bazează pe pescuit, construcția de bărci și pe un număr tot mai mare de case de oaspeți pentru turiști de snorkeling și scufundări. În apropiere se află locuri excelente de scufundare precum Wreck Beyru și Kandimaa Thila, care atrag mantare, vulturi de mare și rechini de recif. Insula dispune de un spital, mai multe școli, un birou de administrație a atolului și un stadion sportiv modern cu teren de fotbal.",
       en: "Kudahuvadhoo is the largest island and capital of Dhaalu Atoll, located around 160 kilometers south of Malé. The island is home to about 2400 residents and is rapidly developing into an important hub for local tourism, especially since Dhaalu Airport opened in 2017, allowing direct flights from Malé. Historically, Kudahuvadhoo is significant because ancient mounds and stone wall ruins, likely dating from the Buddhist era, were found here and documented by archaeologist Thor Heyerdahl in the 1980s. The economy is built on fishing, boat building and a growing number of guesthouses serving snorkeling and diving tourists. Nearby are top class dive sites such as Wreck Beyru and Kandimaa Thila, attracting manta rays, eagle rays and reef sharks. The island has a hospital, several schools, an atoll administration office and a modern sports stadium with a football pitch."
-    }, image: "/poi-images/mv-kudahuvadhoo-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 4.500 (2014).", "Fläche: 1,0 km².", "Anzahl der Inseln im Atoll: etwa 50, davon 7 bewohnt.", "Höchster Punkt: 1 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 150 km.", "Historische Stätten: über 10 alte Moscheen."],
-      hu: ["Népesség: kb. 4500 (2014).", "Terület: 1,0 km².", "Atoll szigeteinek száma: kb. 50, ebből 7 lakott.", "Legmagasabb pont: 1 méter tengerszint felett.", "Távolság Malétól: kb. 150 km.", "Történelmi helyszínek: több mint 10 régi mecset."],
-      ro: ["Populație: aproximativ 4.500 (2014).", "Suprafață: 1,0 km².", "Numărul de insule din atol: aproximativ 50, dintre care 7 locuite.", "Cel mai înalt punct: 1 metru deasupra nivelului mării.", "Distanța față de Malé: aproximativ 150 km.", "Situri istorice: peste 10 moschei vechi."],
-      en: ["Population: approximately 4,500 (2014).", "Area: 1.0 km².", "Number of islands in the atoll: about 50, of which 7 inhabited.", "Highest point: 1 meter above sea level.", "Distance to Malé: about 150 km.", "Historical sites: over 10 old mosques."],
-    },
-  },
+    }, image: "/poi-images/mv-kudahuvadhoo-cities-v2.webp"},
   {
     id: "mv-fonadhoo-cities-v2",
     type: "city",
@@ -473,14 +375,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Fonadhoo a Laamu-atoll (más néven Hadhdhunmathi) fővárosa, mintegy 250 kilométerre délre Malé városától. A sziget rendkívül elnyúló – majdnem 6 kilométer hosszú, de mindössze 100 méter széles –, és a Maldív-szigetek legnagyobb gátrendszerével van összekötve Maandhoo, Kadhdhoo és Gan szigeteivel, így egy közel 12 kilométer hosszú, folyamatos aszfaltút jön létre. Fonadhoonak körülbelül 2200 lakosa van, és itt található az atoll közigazgatási székhelye, egy kórház, több iskola és egy regionális stadion. A sziget a Kadhdhoo repülőtérről profitál, és gyorsmotoros járattal kapcsolódik olyan üdülőhelyekhez, mint a Six Senses Laamu. A gazdaság alapja a halászat, a növekvő turizmus, a manióka-, banán- és görögdinnye-termesztés, valamint a hajóépítés. Az atoll déli részén ősi buddhista sztúpa-dombok találhatók, amelyek régészeti szempontból nagy jelentőségűek, és kutatócsoportok időnként meglátogatják őket.",
       ro: "Fonadhoo este capitala atolului Laamu (numit și Hadhdhunmathi) și se află la aproximativ 250 de kilometri sud de Malé. Insula este neobișnuit de alungită – aproape 6 kilometri lungime, dar doar circa 100 de metri lățime – și este conectată prin cea mai mare rețea de baraje din Maldive cu insulele Maandhoo, Kadhdhoo și Gan, formând un drum asfaltat continuu de aproape 12 kilometri. Fonadhoo are aproximativ 2200 de locuitori și găzduiește sediul administrației atolului, un spital, mai multe școli și un stadion regional. Insula beneficiază de aeroportul Kadhdhoo și este conectată prin speedboat cu resorturi precum Six Senses Laamu. Economic, viața se bazează pe pescuit, pe un sector turistic în creștere, pe agricultura cu manioc, banane și pepeni verzi, precum și pe construcția de bărci. În partea sudică a atolului se află movile budiste antice de tip stupa, de mare importanță arheologică, vizitate ocazional de echipe de cercetare.",
       en: "Fonadhoo is the capital of Laamu Atoll (also called Hadhdhunmathi) and lies around 250 kilometers south of Malé. The island is unusually elongated, nearly 6 kilometers long but only about 100 meters wide, and connected by the longest causeway network in the Maldives to Maandhoo, Kadhdhoo and Gan, forming a continuous paved road almost 12 kilometers long. Fonadhoo has about 2200 residents and is the seat of the atoll administration, with a hospital, several schools and a regional stadium. The island benefits from Kadhdhoo Airport and is linked by speedboat to resorts like Six Senses Laamu. Economically, life depends on fishing, a growing tourism sector, agriculture with cassava, bananas and watermelons, and boat building. The southern part of the atoll holds ancient Buddhist stupa mounds of great archaeological importance, occasionally visited by research teams."
-    }, image: "/poi-images/mv-fonadhoo-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 3.200 (2014).", "Fläche: 0,8 km².", "Anzahl der Inseln im Atoll: etwa 80, davon 12 bewohnt.", "Höchster Punkt: 1 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 260 km.", "Hauptwirtschaftszweig: Fischerei."],
-      hu: ["Népesség: kb. 3200 (2014).", "Terület: 0,8 km².", "Atoll szigeteinek száma: kb. 80, ebből 12 lakott.", "Legmagasabb pont: 1 méter tengerszint felett.", "Távolság Malétól: kb. 260 km.", "Fő gazdasági ág: halászat."],
-      ro: ["Populație: aproximativ 3.200 (2014).", "Suprafață: 0,8 km².", "Numărul de insule din atol: aproximativ 80, dintre care 12 locuite.", "Cel mai înalt punct: 1 metru deasupra nivelului mării.", "Distanța față de Malé: aproximativ 260 km.", "Principalul sector economic: pescuitul."],
-      en: ["Population: approximately 3,200 (2014).", "Area: 0.8 km².", "Number of islands in the atoll: about 80, of which 12 inhabited.", "Highest point: 1 meter above sea level.", "Distance to Malé: about 260 km.", "Main economic sector: fishing."],
-    },
-  },
+    }, image: "/poi-images/mv-fonadhoo-cities-v2.webp"},
   {
     id: "mv-muli-cities-v2",
     type: "city",
@@ -505,14 +400,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Muli a Meemu-atoll fővárosa, körülbelül 130 kilométerre délre Malé városától, és a Maldív-szigetek egyik legcsendesebb, legautentikusabb atollfővárosának számít. A kis sziget mintegy 1100 lakost számlál, és a hagyományos, halászatra orientált életmódot tükrözi: fehérre meszelt házak, keskeny homokutak és kókuszpálmák jellemzik. Mulin található az atoll-közigazgatási hivatal, egy rendőrőrs, egy iskola és egy kórház, amely a környező lakott szigeteket is ellátja. A gazdaság alapja a halászat, a kis kerti gazdálkodás és a növekvő boutique-turizmus, mivel kiváló szörfhelyek vannak a közvetlen közelben, mint a Veyvah Point, a Mulah Inside és a Boahuraa Outside. A hullámok március és október között a legkedvezőbbek, és tapasztalt szörfösöket vonzanak a világ minden tájáról. Olyan üdülőhelyek, mint a Medhufushi Island Resort, és számos élő hajós program is Mulit használja kiindulópontként a manta- és bálnacápa-merülésekhez.",
       ro: "Muli este capitala atolului Meemu, situată la aproximativ 130 de kilometri sud de Malé, și este considerată una dintre cele mai liniștite și autentice capitale atoll din Maldive. Mica insulă găzduiește aproximativ 1100 de locuitori și reflectă un stil de viață tradițional, orientat spre pescuit, cu case văruite în alb, alei înguste de nisip și palmieri de cocos. Muli dispune de un oficiu administrativ al atolului, o secție de poliție, o școală și un spital care deservește și insulele învecinate. Economia se bazează pe pescuit, pe mici grădini de legume și pe un turism boutique în creștere, datorită locurilor excelente de surfing din imediata apropiere, precum Veyvah Point, Mulah Inside și Boahuraa Outside. Valurile sunt cele mai favorabile între martie și octombrie și atrag surferi experimentați din întreaga lume. Resorturi precum Medhufushi Island Resort și mai multe ambarcațiuni liveaboard folosesc Muli ca punct de plecare pentru scufundări la siturile cu mantare și rechini balenă.",
       en: "Muli is the capital of Meemu Atoll, about 130 kilometers south of Malé, and is regarded as one of the quietest and most authentic atoll capitals in the Maldives. The small island has around 1100 residents and reflects a traditional, fishing oriented lifestyle, with whitewashed houses, narrow sandy lanes and coconut palms. Muli hosts an atoll administration office, a police station, a school and a hospital that serves surrounding inhabited islands. The economy relies on fishing, small kitchen gardens and a growing boutique tourism scene, thanks to excellent surf spots in the immediate vicinity, including Veyvah Point, Mulah Inside and Boahuraa Outside. The waves are best between March and October and attract experienced surfers from around the world. Resorts such as Medhufushi Island Resort and several liveaboard vessels use Muli as a base for diving trips to the manta and whale shark sites of the atoll."
-    }, image: "/poi-images/mv-muli-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 2.200 (2014).", "Fläche: 0,6 km².", "Anzahl der Inseln im Atoll: etwa 50, davon 6 bewohnt.", "Höchster Punkt: 1 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 130 km.", "Hauptwirtschaftszweig: Fischerei."],
-      hu: ["Népesség: kb. 2200 (2014).", "Terület: 0,6 km².", "Atoll szigeteinek száma: kb. 50, ebből 6 lakott.", "Legmagasabb pont: 1 méter tengerszint felett.", "Távolság Malétól: kb. 130 km.", "Fő gazdasági ág: halászat."],
-      ro: ["Populație: aproximativ 2.200 (2014).", "Suprafață: 0,6 km².", "Numărul de insule din atol: aproximativ 50, dintre care 6 locuite.", "Cel mai înalt punct: 1 metru deasupra nivelului mării.", "Distanța față de Malé: aproximativ 130 km.", "Principalul sector economic: pescuitul."],
-      en: ["Population: approximately 2,200 (2014).", "Area: 0.6 km².", "Number of islands in the atoll: about 50, of which 6 inhabited.", "Highest point: 1 meter above sea level.", "Distance to Malé: about 130 km.", "Main economic sector: fishing."],
-    },
-  },
+    }, image: "/poi-images/mv-muli-cities-v2.webp"},
   {
     id: "mv-nilandhoo-cities-v2",
     type: "city",
@@ -537,13 +425,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Nilandhoo a Faafu-atoll fővárosa, mintegy 130 kilométerre délnyugatra Malé városától. A sziget körülbelül 1900 lakosával áttekinthető méretű, de a Maldív-szigetek egyik történelmileg legjelentősebb helyszíne. Itt találhatók a híres Foamathi-romok, ősi buddhista és iszlám előtti templommaradványok, amelyek régészeti szempontból különleges státuszt biztosítanak a szigetnek. A 12. századi Aasaari Miskiy az ország egyik legrégebbi fennmaradt mecsete, faragott korallkövekből épült, amelyek eredetileg buddhista templomokból származtak – ez tanúsítja az ország 1153-as iszlám vallási átmenetét. Gazdaságilag Nilandhoo a halászatra, a hajóépítésre, a mezőgazdaságra és a finoman növekvő vendégházas turizmusra épül. A szigeten iskola, kikötő, egészségügyi központ és egy kis könyvtár is működik, amely helyi történelmi dokumentumokat őriz.",
       ro: "Nilandhoo este capitala atolului Faafu, situată la aproximativ 130 de kilometri sud-vest de Malé. Cu aproximativ 1900 de locuitori, insula este de dimensiuni modeste, dar se numără printre cele mai semnificative situri istorice din Maldive. Aici se află celebrele ruine Foamathi, rămășițe antice ale unor temple budiste și pre-islamice, care conferă insulei un statut arheologic special. Moscheea Aasaari Miskiy, din secolul al XII-lea, este una dintre cele mai vechi moschei păstrate din țară și a fost ridicată din pietre de coral sculptate, originare din templele budiste – o mărturie a tranziției religioase a țării către islam din 1153. Economic, Nilandhoo se bazează pe pescuit, construcția de bărci, agricultură și pe un turism discret de tip casă de oaspeți în creștere. Insula dispune de o școală, un port, un centru de sănătate și o mică bibliotecă, unde sunt păstrate documente istorice locale.",
       en: "Nilandhoo is the capital of Faafu Atoll, around 130 kilometers southwest of Malé. With about 1900 residents, the island is modest in size but among the most historically significant sites of the Maldives. It is home to the famous Foamathi ruins, ancient Buddhist and pre-Islamic temple remains that give the island a special archaeological status. The Aasaari Miskiy mosque from the 12th century is one of the oldest preserved mosques in the country, built from carved coral stones originally taken from the Buddhist temples – a testimony to the country's religious transition to Islam in 1153. Economically, Nilandhoo relies on fishing, boat building, agriculture and a quietly growing guesthouse tourism scene. The island has a school, a harbor, a health center and a small library that preserves local historical documents."
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 2.000 (2014).", "Fläche: 0,5 km².", "Anzahl der Inseln im Atoll: etwa 30, davon 5 bewohnt.", "Höchster Punkt: 1 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 100 km.", "Hauptwirtschaftszweig: Fischerei."],
-      hu: ["Népesség: kb. 2000 (2014).", "Terület: 0,5 km².", "Atoll szigeteinek száma: kb. 30, ebből 5 lakott.", "Legmagasabb pont: 1 méter tengerszint felett.", "Távolság Malétól: kb. 100 km.", "Fő gazdasági ág: halászat."],
-      ro: ["Populație: aproximativ 2.000 (2014).", "Suprafață: 0,5 km².", "Numărul de insule din atol: aproximativ 30, dintre care 5 locuite.", "Cel mai înalt punct: 1 metru deasupra nivelului mării.", "Distanța față de Malé: aproximativ 100 km.", "Principalul sector economic: pescuitul."],
-      en: ["Population: approximately 2,000 (2014).", "Area: 0.5 km².", "Number of islands in the atoll: about 30, of which 5 inhabited.", "Highest point: 1 meter above sea level.", "Distance to Malé: about 100 km.", "Main economic sector: fishing."],
-    },
+    }
   },
   {
     id: "mv-veymandoo-cities-v2",
@@ -569,13 +451,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Veymandoo a Thaa-atoll (más néven Kolhumadulu) fővárosa, körülbelül 200 kilométerre délre Malé városától. A sziget mintegy 1100 lakossal viszonylag kicsi, de gazdaságilag aktív hely. Híres a virágzó halászflottájáról, amely a sárgaúszójú tonhal és a csíkoshasú tonhal halászatára szakosodott – ezek a Maldív-szigetek fontos exporttermékei. A szigeten az atoll-közigazgatási hivatal, egy kórház, több iskola és egy modern kikötő található, amely naponta fogad teherhajókat, gyorshajókat és hagyományos dhoni-bárkákat. A közeli, 2013-ban átadott Thimarafushi repülőtéren keresztül Veymandoo rendszeresen elérhető Maléből légi járatokkal. Turisztikailag a régió lassan növekszik, feltörekvő vendégházakkal és kiváló merülési területekkel, mint a Hirilandhoo és a Vandhoo Kandu zátonyai, ahol sasráják, manták és zátonycápák jelennek meg. A trópusi fából készülő hagyományos hajóépítést is ma is gyakorolják itt.",
       ro: "Veymandoo este capitala atolului Thaa (cunoscut și ca Kolhumadulu) și se află la aproximativ 200 de kilometri sud de Malé. Cu aproximativ 1100 de locuitori, insula este un loc relativ mic, dar activ din punct de vedere economic. Este cunoscută pentru flota sa înfloritoare de pescuit, specializată în capturarea tonului cu înotătoare galbene și a tonului scrumbie – ambele produse de export importante pentru Maldive. Insula găzduiește biroul administrativ al atolului, un spital, mai multe școli și un port modern care primește zilnic nave de marfă, speedboaturi și ambarcațiuni tradiționale dhoni. Prin apropiatul aeroport Thimarafushi, deschis în 2013, Veymandoo este conectat regulat cu Malé prin zboruri. Turistic, regiunea se dezvoltă lent, cu case de oaspeți emergente și zone excelente de scufundare în recifurile precum Hirilandhoo și Vandhoo Kandu, unde se pot observa vulturi de mare, mantare și rechini de recif. Construcția tradițională de bărci din lemn tropical este, de asemenea, încă practicată aici.",
       en: "Veymandoo is the capital of Thaa Atoll (also called Kolhumadulu), about 200 kilometers south of Malé. With around 1100 inhabitants, the island is fairly small but economically active. It is known for its thriving fishing fleet, which specializes in yellowfin tuna and skipjack tuna – both major export products of the Maldives. The island hosts the atoll administration office, a hospital, several schools and a modern harbor that handles cargo ships, speedboats and traditional dhonis daily. Through nearby Thimarafushi Airport, opened in 2013, Veymandoo is regularly connected to Malé by air. Tourism is growing slowly with emerging guesthouses and excellent dive sites at reefs such as Hirilandhoo and Vandhoo Kandu, where eagle rays, mantas and reef sharks are sighted. Traditional boat building using tropical hardwood is also still practiced here."
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: etwa 2.500 (2014).", "Fläche: 0,7 km².", "Anzahl der Inseln im Atoll: etwa 60, davon 6 bewohnt.", "Höchster Punkt: 1 Meter über dem Meeresspiegel.", "Entfernung zu Malé: etwa 220 km.", "Hauptwirtschaftszweig: Fischerei."],
-      hu: ["Népesség: kb. 2500 (2014).", "Terület: 0,7 km².", "Atoll szigeteinek száma: kb. 60, ebből 6 lakott.", "Legmagasabb pont: 1 méter tengerszint felett.", "Távolság Malétól: kb. 220 km.", "Fő gazdasági ág: halászat."],
-      ro: ["Populație: aproximativ 2.500 (2014).", "Suprafață: 0,7 km².", "Numărul de insule din atol: aproximativ 60, dintre care 6 locuite.", "Cel mai înalt punct: 1 metru deasupra nivelului mării.", "Distanța față de Malé: aproximativ 220 km.", "Principalul sector economic: pescuitul."],
-      en: ["Population: approximately 2,500 (2014).", "Area: 0.7 km².", "Number of islands in the atoll: about 60, of which 6 inhabited.", "Highest point: 1 meter above sea level.", "Distance to Malé: about 220 km.", "Main economic sector: fishing."],
-    },
+    }
   },
   {
     id: "mv-manadhoo-cities-v2",
@@ -601,14 +477,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Manadhoo a Noonu-atoll fővárosa, körülbelül 160 kilométerre északra Malé városától. A sziget szokatlanul jól megtervezett városszerkezetével tűnik ki: széles, egyenes utak, jól elkülönített lakó-, kikötői és közigazgatási zónák, valamint modern vízellátás jellemzik. Mintegy 1900 ember él itt, és a szigeten található az atoll-kórház, több iskola, valamint az atoll-közigazgatási hivatal. Manadhoo mély, jól védett természetes kikötővel rendelkezik, amely sokféle hajóosztály számára alkalmas, és az egész atollt ellátja áruval. A gazdaság alapja a halászat – elsősorban a csíkoshasú és a sárgaúszójú tonhal – valamint a görögdinnye-, bab-, tök-, paprika- és kókusztermesztés. A közeli, 2018-ban átadott Maafaru repülőtéren keresztül Manadhoo jól kapcsolódik Maléhoz. Olyan üdülőhelyek, mint a Velaa Private Island, a Soneva Jani és a Cheval Blanc Randheli a közvetlen közelben találhatók, és sok szigetlakónak adnak munkát.",
       ro: "Manadhoo este capitala atolului Noonu, la aproximativ 160 de kilometri nord de Malé. Insula se remarcă printr-o structură urbană neobișnuit de bine planificată, cu străzi largi și drepte, zone clar delimitate de locuit, port și administrație, precum și un sistem modern de alimentare cu apă. Aici trăiesc aproximativ 1900 de oameni, iar insula dispune de spitalul atolului, mai multe școli și biroul administrativ al atolului. Manadhoo are un port natural adânc și bine protejat, potrivit pentru diverse clase de nave, care aprovizionează întregul atol. Economic, regiunea se bazează pe pescuit – în special ton scrumbie și ton cu înotătoare galbene – și pe agricultura cu pepeni verzi, fasole, dovleci, ardei și nuci de cocos. Prin apropiatul aeroport Maafaru, deschis în 2018, Manadhoo este bine conectat cu Malé. Resorturi precum Velaa Private Island, Soneva Jani și Cheval Blanc Randheli se află în imediata apropiere și oferă locuri de muncă multor localnici.",
       en: "Manadhoo is the capital of Noonu Atoll, about 160 kilometers north of Malé. The island stands out for its unusually well planned urban structure with wide straight streets, clearly defined residential, port and administrative zones and a modern water supply. Around 1900 people live here, and the island hosts the atoll hospital, several schools and the atoll administration office. Manadhoo features a deep, well protected natural harbor that suits various ship classes and supplies the entire atoll. Economically, the region depends on fishing – mainly skipjack and yellowfin tuna – and on agriculture, growing watermelon, beans, pumpkin, peppers and coconuts. Through nearby Maafaru Airport, opened in 2018, Manadhoo is well connected to Malé. Resorts like Velaa Private Island, Soneva Jani and Cheval Blanc Randheli are within easy reach and employ many islanders."
-    }, image: "/poi-images/mv-manadhoo-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Einwohnerzahl: ca. 1.500 (Stand 2020)", "Fläche: 0,3 km²", "Höhe über dem Meeresspiegel: max. 2 m", "Entfernung zu Malé: ca. 170 km", "Anzahl Schulen: 1 Grundschule", "Gründungsjahr der Siedlung: 17. Jahrhundert"],
-      hu: ["Lakosság: kb. 1500 fő (2020)", "Terület: 0,3 km²", "Tengerszint feletti magasság: max. 2 m", "Távolság Malétól: kb. 170 km", "Iskolák száma: 1 általános iskola", "A település alapításának ideje: 17. század"],
-      ro: ["Populație: aproximativ 1.500 locuitori (2020)", "Suprafață: 0,3 km²", "Altitudine maximă: 2 m deasupra nivelului mării", "Distanța față de Malé: circa 170 km", "Număr de școli: 1 școală primară", "Anul primei mențiuni: secolul al XVII-lea"],
-      en: ["Population: approx. 1,500 (2020)", "Land area: 0.3 km²", "Maximum elevation: 2 m above sea level", "Distance from Malé: approx. 170 km", "Number of schools: 1 primary school", "Settlement established: 17th century"],
-    },
-  },
+    }, image: "/poi-images/mv-manadhoo-cities-v2.webp"},
   {
     id: "mv-rasdhoo-cities-v2",
     type: "city",
@@ -633,14 +502,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Rasdhoo a kicsi, kör alakú Rasdhoo-atoll fővárosa, közigazgatásilag az Alif Alif atoll részét képezi. A szigetnek körülbelül 1000 állandó lakosa van, mégis világhírű a helyi és nemzetközi búvárközönség körében. Közvetlenül a sziget partjainál található a Rasdhoo Madivaru – más néven Hammerhead Point –, ahol kora reggelente pörölycápa-rajok emelkednek a mélyből, ami csak néhány helyen él át megbízhatóan a világon. Sasráják, szürke zátonycápák és bálnacápák is gyakran feltűnnek. Maga a sziget nyugodt légkört áraszt, számos kis vendégházzal, turistáknak fenntartott bikini-stranddal, helyi éttermekkel és élénk kikötővel. Gazdaságilag a búvár- és snorkel-turizmus dominál, kiegészítve halászattal és hajóépítéssel. A lakosokat iskola, egészségügyi központ és rendőrőrs szolgálja ki. Az Észak-Ari és Dél-Ari közötti elhelyezkedés Rasdhoot stratégiai kiindulóponttá teszi a búvárszafarik számára.",
       ro: "Rasdhoo este capitala micului atol rotund Rasdhoo, care administrativ aparține de atolul Alif Alif. Insula are aproximativ 1000 de locuitori permanenți, dar este renumită mondial printre scafandrii locali și internaționali. Chiar în fața insulei se află locul de scufundare Rasdhoo Madivaru – numit și Hammerhead Point – unde, dimineața devreme, bancuri de rechini ciocan se ridică din adâncuri, un fenomen întâlnit cu certitudine doar în câteva locuri din lume. Vulturii de mare, rechinii de recif gri și rechinii balenă apar frecvent. Insula în sine are o atmosferă relaxată, cu numeroase case de oaspeți mici, o plajă bikini pentru turiști, restaurante locale și un port animat. Economia se bazează aproape în totalitate pe turismul de scufundări și snorkeling, completat de pescuit și construcția de bărci. O școală, un centru de sănătate și un post de poliție deservesc locuitorii. Poziția între atolurile Ari de Nord și Sud face din Rasdhoo un punct strategic de plecare pentru safariuri de scufundare.",
       en: "Rasdhoo is the capital of the small, round Rasdhoo Atoll, which administratively belongs to Alif Alif Atoll. The island has around 1000 permanent residents but is world famous among local and international divers. Just off the island lies the dive site Rasdhoo Madivaru – also called Hammerhead Point – where in the early morning schools of scalloped hammerhead sharks rise from the depths, a phenomenon reliably experienced only in a few places worldwide. Eagle rays, grey reef sharks and whale sharks also appear frequently. The island itself has a relaxed atmosphere with numerous small guesthouses, a bikini beach for tourists, local restaurants and a busy harbor. The economy depends almost entirely on diving and snorkeling tourism, supplemented by fishing and boat building. A school, a health center and a police post serve the residents. Its location between North Ari and South Ari Atolls makes Rasdhoo a strategic base for diving safaris."
-    }, image: "/poi-images/mv-rasdhoo-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Einwohnerzahl: ca. 1.200 (2020)", "Fläche: 0,25 km²", "Entfernung zu Malé: 65 km", "Höchster Punkt: 1,5 m über dem Meeresspiegel", "Anzahl Tauchbasen: mindestens 3 (2024)", "Jahr des Tourismusbeginns: 1990er Jahre"],
-      hu: ["Lakosság: kb. 1200 fő (2020)", "Terület: 0,25 km²", "Távolság Malétól: 65 km", "Legmagasabb pont: 1,5 m tengerszint felett", "Búvárközpontok száma: legalább 3 (2024)", "A turizmus kezdete: 1990-es évek"],
-      ro: ["Populație: aproximativ 1.200 locuitori (2020)", "Suprafață: 0,25 km²", "Distanța față de Malé: 65 km", "Altitudine maximă: 1,5 m", "Număr centre de scufundări: cel puțin 3 (2024)", "Anul începerii turismului: anii 1990"],
-      en: ["Population: approx. 1,200 (2020)", "Land area: 0.25 km²", "Distance from Malé: 65 km", "Highest elevation: 1.5 m above sea level", "Number of dive centers: at least 3 (2024)", "Tourism started in: 1990s"],
-    },
-  },
+    }, image: "/poi-images/mv-rasdhoo-cities-v2.webp"},
   {
     id: "mv-felidhoo-cities-v2",
     type: "city",
@@ -665,14 +527,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Felidhoo a Vaavu-atoll fővárosa, ami a Maldív-szigetek leggyérebben lakott közigazgatási atollja, körülbelül 60 kilométerre délre Malé városától. A szigetnek mindössze 500 körüli lakosa van, így az ország egyik legkisebb népességű atollfővárosa. Felidhoo a hagyományos Boduberu zene kulturális központjának számít – ez a ritmikus dobzene, amely a középkori afrikai rabszolgák örökségét tükrözi –, és aktív csoportok élnek itt, amelyek rendszeresen fellépnek. Az életmód nagyon csendes, halászat, kisléptékű mezőgazdaság és óvatosan növekvő vendégházas turizmus jellemzi. A sziget előtt találhatók a Maldív-szigetek legjobb merülőhelyei közül néhány: a Miyaru Kandu (Cápa-csatorna), a Fotteyo Kandu, amelyet a National Geographic a világ tíz legjobb merülőhelye közé sorolt, és a Devana Kandu, ahol manta ráka tisztítóállomások működnek. A szigeten iskola, egy kis rendelő, kikötő és atoll-közigazgatási hivatal is működik.",
       ro: "Felidhoo este capitala atolului Vaavu, cel mai puțin populat atol administrativ din Maldive, situat la aproximativ 60 de kilometri sud de Malé. Insula are doar circa 500 de locuitori, ceea ce o face una dintre cele mai mici capitale atoll ca populație din țară. Felidhoo este considerată centru cultural pentru muzica tradițională Boduberu – acea muzică ritmică de tobe care reflectă moștenirea sclavilor africani din evul mediu – și găzduiește grupuri active care susțin spectacole regulate. Stilul de viață este foarte liniștit, marcat de pescuit, mică agricultură și un turism de tip casă de oaspeți în creștere prudentă. În fața insulei se află unele dintre cele mai bune locuri de scufundare din Maldive, precum Miyaru Kandu (Canalul Rechinilor), Fotteyo Kandu, considerat de National Geographic printre primele zece locuri de scufundare din lume, și Devana Kandu cu stații de curățare pentru mantare. Insula dispune de o școală, o cameră medicală, un port și un mic sediu administrativ al atolului.",
       en: "Felidhoo is the capital of Vaavu Atoll, the most sparsely populated administrative atoll of the Maldives, about 60 kilometers south of Malé. The island has just around 500 inhabitants, making it one of the smallest atoll capitals by population in the country. Felidhoo is regarded as a cultural center for traditional Boduberu music – the rhythmic drum music reflecting the heritage of medieval African slaves – and hosts active groups that perform regularly. Life is very quiet, shaped by fishing, small scale agriculture and a cautiously growing guesthouse tourism scene. Off the island lie some of the finest dive sites in the Maldives, including Miyaru Kandu (Shark Channel), Fotteyo Kandu, ranked by National Geographic among the world's top ten dive sites, and Devana Kandu with manta ray cleaning stations. The island has a school, a small clinic, a harbor and a modest atoll administration office."
-    }, image: "/poi-images/mv-felidhoo-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Einwohner: ca. 700 (2020)", "Fläche: 0,3 km²", "Entfernung zu Malé: 80 km", "Maximale Höhe: 2 m über dem Meeresspiegel", "Anzahl Gästehäuser: ca. 4 (2024)", "Hauptwirtschaftszweig: Fischerei und Tourismus"],
-      hu: ["Lakosság: kb. 700 fő (2020)", "Terület: 0,3 km²", "Távolság Malétól: 80 km", "Legmagasabb pont: 2 m tengerszint felett", "Vendégházak száma: kb. 4 (2024)", "Fő gazdasági ág: halászat és turizmus"],
-      ro: ["Populație: aproximativ 700 locuitori (2020)", "Suprafață: 0,3 km²", "Distanța față de Malé: 80 km", "Altitudine maximă: 2 m", "Număr de pensiuni: circa 4 (2024)", "Sector economic principal: pescuit și turism"],
-      en: ["Population: approx. 700 (2020)", "Land area: 0.3 km²", "Distance from Malé: 80 km", "Highest elevation: 2 m above sea level", "Number of guesthouses: about 4 (2024)", "Main economic sectors: fishing and tourism"],
-    },
-  },
+    }, image: "/poi-images/mv-felidhoo-cities-v2.webp"},
   {
     id: "mv-ungoofaaru-cities-v2",
     type: "city",
@@ -697,14 +552,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Ungoofaaru a Raa-atoll hivatalos közigazgatási fővárosa, mintegy 175 kilométerre északra Malé városától. A sziget körülbelül 2000 lakossal az elmúlt két évtizedben regionális orvosi központtá fejlődött – az Ungoofaaru Regionális Kórház Malén kívül az egyik legnagyobb állami egészségügyi intézmény, amely nemcsak saját atollját, hanem az északi atollok egyes részeit is ellátja sebészeti, szülészeti és laboratóriumi diagnosztikai szolgáltatásokkal. A szigeten található továbbá az atoll közigazgatása, egy rendőrkapitányság, több iskola, a Bank of Maldives fiókja és egy növekvő kikötő. A gazdaság alapja a halászat, a hajóépítés, a közigazgatási szolgáltatások és a környező üdülőhelyeken – például a Joali Maldives, a Heritance Aarah és az Emerald Maldives – egyre több szigetlakó dolgozik. Az ugyanazon atollban található Ifuru repülőtérnek köszönhetően Ungoofaaru gyorshajóval is jól kapcsolódik a hazai légi közlekedéshez.",
       ro: "Ungoofaaru este capitala administrativă oficială a atolului Raa și se află la aproximativ 175 de kilometri nord de Malé. Cu circa 2000 de locuitori, insula s-a dezvoltat în ultimele două decenii într-un centru medical regional – Spitalul Regional Ungoofaaru este unul dintre cele mai mari spitale de stat din afara orașului Malé și deservește nu doar propriul atol, ci și părți din atolurile nordice, cu servicii chirurgicale, obstetrice și de diagnostic de laborator. Pe insulă se află și sediul administrației atolului, o secție de poliție, mai multe școli, o sucursală a Bank of Maldives și un port în creștere. Economia se bazează pe pescuit, construcția de bărci, servicii administrative și pe un număr tot mai mare de angajați în resorturile învecinate, precum Joali Maldives, Heritance Aarah și Emerald Maldives. Prin aeroportul Ifuru, situat în același atol, Ungoofaaru este bine conectat și cu transportul aerian național prin speedboaturi.",
       en: "Ungoofaaru is the official administrative capital of Raa Atoll and lies about 175 kilometers north of Malé. With around 2000 residents, the island has grown over the past two decades into a regional medical center – Ungoofaaru Regional Hospital is one of the largest state hospitals outside Malé, serving not only its own atoll but parts of the northern atolls with surgical, obstetric and laboratory diagnostic care. The island is also home to the atoll administration, a police district, several schools, a Bank of Maldives branch and a growing harbor. The economy relies on fishing, boat building, administrative services and a growing share of jobs in surrounding resorts such as Joali Maldives, Heritance Aarah and Emerald Maldives. Thanks to Ifuru Airport in the same atoll, Ungoofaaru is also well linked by speedboat to the national air network."
-    }, image: "/poi-images/mv-ungoofaaru-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Einwohner: ca. 1.500 (2020)", "Fläche: 0,4 km²", "Entfernung zu Malé: 160 km", "Maximale Höhe: 2 m", "Krankenhaus: 1 (öffentlich)", "Installierte Solarkapazität: 0,5 MW (2023)"],
-      hu: ["Lakosság: kb. 1500 fő (2020)", "Terület: 0,4 km²", "Távolság Malétól: 160 km", "Tengerszint feletti magasság: max. 2 m", "Kórház: 1 (állami)", "Napelem kapacitás: 0,5 MW (2023)"],
-      ro: ["Populație: aproximativ 1.500 de locuitori (2020)", "Suprafață: 0,4 km²", "Distanța față de Malé: 160 km", "Altitudine maximă: 2 m", "Spital: 1 (public)", "Capacitate solară instalată: 0,5 MW (2023)"],
-      en: ["Population: approx. 1,500 (2020)", "Land area: 0.4 km²", "Distance from Malé: 160 km", "Highest elevation: 2 m", "Hospital: 1 (public)", "Installed solar capacity: 0.5 MW (2023)"],
-    },
-  },
+    }, image: "/poi-images/mv-ungoofaaru-cities-v2.webp"},
   {
     id: "mv-hulhumale-cities-v2",
     type: "city",
@@ -729,14 +577,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Hulhumalé a Maldív-szigetek egyik legambiciózusabb városfejlesztési sikere – egy teljesen mesterséges, a korallszigetek mellett feltöltött sziget, közvetlenül Malétól északra. Az 1. fázis 1997 és 2002 között készült, az Indiai-óceán homokjának feltöltésével, és 2004-ben hivatalosan benépesült; a 2. fázis 2015 és 2020 között megduplázta a területet, mintegy 4 négyzetkilométerre. Ma több mint 100000 ember él itt, és a sziget eredeti célja Malé súlyos túlnépesedésének enyhítése volt. Az építészet kifejezetten modern: széles sugárutak, kereszteződésmentes lakónegyedek, napelemes rendszerek, szélparkok és integrált újrahasznosítás. Hulhumalé 2018 óta a 2,1 kilométer hosszú Sinamalé-híd (Friendship Bridge) révén közvetlenül kapcsolódik Maléhoz és a Velana Nemzetközi Repülőtérhez. A szigeten kórházak, egyetemi karok, a Tree Top Hospital, bevásárlóközpontok, mint a Centro Mall, és számos nyilvános strand található. A sziget klímaálló módon, 2 méter magasra van feltöltve, jóval magasabban, mint maga Malé.",
       ro: "Hulhumalé este una dintre cele mai ambițioase reușite urbanistice ale Maldivelor – o insulă complet artificială, ridicată din mare prin recuperare de teren, chiar la nord de Malé. Faza 1 a fost realizată între 1997 și 2002 prin umplere cu nisip din Oceanul Indian și a fost populată oficial în 2004; faza 2 a dublat suprafața între 2015 și 2020, ajungând la aproximativ 4 kilometri pătrați. Astăzi trăiesc aici peste 100000 de oameni, iar insula a fost concepută ca soluție pentru suprapopularea acută a orașului Malé. Arhitectura este puternic modernă: bulevarde largi, cartiere fără intersecții la nivel, sisteme solare, parcuri eoliene și un sistem integrat de reciclare. Hulhumalé este conectată din 2018 direct cu Malé și cu Aeroportul Internațional Velana prin podul Sinamalé (Friendship Bridge), lung de 2,1 kilometri. Pe insulă se află spitale, facultăți universitare, Tree Top Hospital, centre comerciale precum Centro Mall și mai multe plaje publice. Insula este, de asemenea, ridicată cu 2 metri pentru reziliență climatică, considerabil mai înaltă decât Malé.",
       en: "Hulhumalé is one of the most ambitious urban planning achievements of the Maldives – a fully artificial reclaimed island just north of Malé. Phase 1 was created between 1997 and 2002 by pumping sand from the Indian Ocean and was officially settled in 2004; Phase 2 doubled the area between 2015 and 2020 to roughly 4 square kilometers. Today over 100000 people live here, and the island was planned to relieve the acute overcrowding of Malé. The architecture is decidedly modern: wide boulevards, intersection-free residential neighborhoods, solar arrays, wind parks and an integrated recycling system. Since 2018, Hulhumalé has been directly linked to Malé and Velana International Airport via the 2.1 kilometer Sinamalé Bridge (Friendship Bridge). The island hosts hospitals, university faculties, the Tree Top Hospital, shopping centers such as Centro Mall and several public beaches. It is also raised to 2 meters for climate resilience, significantly higher than Malé itself."
-    }, image: "/poi-images/mv-hulhumale-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Einwohner: über 50.000 (2023)", "Fläche: 4 km²", "Beginn der Landgewinnung: 1997", "Höhe: 2 m über dem Meeresspiegel", "Entfernung zu Malé: 1 km (Brücke)", "Anzahl Schulen: 6 (2024)"],
-      hu: ["Lakosság: több mint 50.000 fő (2023)", "Terület: 4 km²", "A feltöltés kezdete: 1997", "Tengerszint feletti magasság: 2 m", "Távolság Malétól: 1 km (híd)", "Iskolák száma: 6 (2024)"],
-      ro: ["Populație: peste 50.000 de locuitori (2023)", "Suprafață: 4 km²", "Începutul reabilitării: 1997", "Altitudine: 2 m", "Distanța față de Malé: 1 km (pod)", "Număr de școli: 6 (2024)"],
-      en: ["Population: over 50,000 (2023)", "Land area: 4 km²", "Reclamation started: 1997", "Elevation: 2 m above sea level", "Distance from Malé: 1 km (by bridge)", "Number of schools: 6 (2024)"],
-    },
-  },
+    }, image: "/poi-images/mv-hulhumale-cities-v2.webp"},
   {
     id: "mv-maafushi-cities-v2",
     type: "city",
@@ -761,14 +602,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Maafushi az egyik legfontosabb sziget a Kaafu-atollban, mert 2009-től a maldív helyi szigeti turizmus úttörőjének számít. A liberalizáció előtt a turizmus csak magán üdülőszigeteken volt engedélyezett; Maafushi volt az első hely, ahol a maldíviek vendégházakat és hostelt üzemeltethettek külföldi vendégek számára. Ma a kicsi, 1,2 kilométer hosszú szigeten több mint 60 vendégház, étterem, búvárközpont és kifejezetten turistáknak fenntartott bikini-strand található. Mintegy 3000 ember él itt egész évben, de szezonálisan a lakosság a turistákkal együtt akár megduplázódik. Maafushi mindössze 27 kilométerre van Malétól, és naponta többször indulnak ide gyorshajók és közforgalmú kompok. A sziget egy részén a Maldív-szigetek legnagyobb börtöne, a Maafushi Börtön található, amely világosan elhatárolt területen helyezkedik el, és alig befolyásolja a mindennapi életet. A sziget olcsó snorkel-túráiról, homokpadi piknikjeiről és a Dél-Ari atollba szervezett bálnacápa-túráiról híres.",
       ro: "Maafushi este una dintre cele mai importante insule din atolul Kaafu, deoarece din 2009 este considerată pionierul turismului local de tip island din Maldive. Înainte de liberalizare, turismul era permis exclusiv pe insulele private de tip resort; Maafushi a fost primul loc unde maldivienilor li s-a permis să opereze case de oaspeți și hostele pentru turiști străini. Astăzi, mica insulă, lungă de 1,2 kilometri, are peste 60 de case de oaspeți, restaurante, școli de scufundări și o plajă bikini dedicată turiștilor. Aproximativ 3000 de oameni trăiesc aici tot anul, dar sezonier populația se poate dubla împreună cu turiștii. Maafushi se află la doar 27 de kilometri de Malé și este servită de mai multe ori pe zi de speedboaturi și feriboturi publice. Pe o parte a insulei se află cea mai mare închisoare din Maldive (Penitenciarul Maafushi), situată într-o zonă clar delimitată, care abia influențează viața de zi cu zi. Insula este renumită pentru excursii de snorkeling ieftine, picnicuri pe bancuri de nisip și ture cu rechini balenă în atolul Ari de Sud.",
       en: "Maafushi is one of the most important islands in Kaafu Atoll because since 2009 it has been considered the pioneer of local island tourism in the Maldives. Before liberalization, tourism was confined to private resort islands; Maafushi was the first location where Maldivians were allowed to operate guesthouses and hostels for foreign visitors. Today the small, 1.2 kilometer long island has over 60 guesthouses, restaurants, dive schools and a designated bikini beach for tourists. Around 3000 people live here year round, but the population can easily double with tourists during peak season. Maafushi is only 27 kilometers from Malé and is served several times a day by speedboats and public ferries. On one part of the island lies the largest prison of the Maldives (Maafushi Prison), in a clearly delimited zone that barely impacts daily life. The island is famous for budget snorkeling tours, sandbank picnics and whale shark trips to South Ari Atoll."
-    }, image: "/poi-images/mv-maafushi-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Einwohner: ca. 3.000 (2020)", "Fläche: 0,3 km²", "Entfernung zu Malé: 25 km", "Höchster Punkt: 2 m", "Anzahl Gästehäuser: ca. 15 (2024)", "Tourismusöffnung: 2010"],
-      hu: ["Lakosság: kb. 3000 fő (2020)", "Terület: 0,3 km²", "Távolság Malétól: 25 km", "Legmagasabb pont: 2 m", "Vendégházak száma: kb. 15 (2024)", "Turizmus megnyitása: 2010"],
-      ro: ["Populație: aproximativ 3.000 de locuitori (2020)", "Suprafață: 0,3 km²", "Distanța față de Malé: 25 km", "Altitudine maximă: 2 m", "Număr de pensiuni: circa 15 (2024)", "Deschiderea turismului: 2010"],
-      en: ["Population: approx. 3,000 (2020)", "Land area: 0.3 km²", "Distance from Malé: 25 km", "Highest elevation: 2 m", "Number of guesthouses: about 15 (2024)", "Tourism opened: 2010"],
-    },
-  },
+    }, image: "/poi-images/mv-maafushi-cities-v2.webp"},
   {
     id: "mv-thulusdhoo-cities-v2",
     type: "city",
@@ -793,14 +627,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Thulusdhoo a Kaafu-atoll közigazgatási fővárosa, mintegy 28 kilométerre északkeletre Malé városától. A szigetnek körülbelül 1700 lakosa van, és országosan két különlegességéről ismert: először a MIFCO Coca-Cola palackozóüzeméről, amelyet a világ egyetlen olyan Coca-Cola gyárának tartanak, ahol az italt sótlanított tengervízből készítik, másodszor pedig a világszínvonalú szörfhelyeiről, a Cokesról (közvetlenül a sziget előtt, az üzemről elnevezve) és a Chickensről a szomszédos szigeten. Ezek a jobbra törő hullámok Ausztráliából, Brazíliából és Hawaiiról is ideszippantják a szörfösöket, különösen március és október között. A szigeten több vendégház, szörfiskola, helyi konyhát kínáló kávézó, modern kikötő és iskola található. Gazdaságilag a szörfturizmus, a halászat és a Coca-Cola gyártás határozza meg az életet – utóbbi sok szigetlakónak ad munkát. Maléba gyorshajós járat indul, ami napi ingázást és reptérre jutást is lehetővé tesz.",
       ro: "Thulusdhoo este capitala administrativă a atolului Kaafu și se află la aproximativ 28 de kilometri nord-est de Malé. Insula are circa 1700 de locuitori și este cunoscută la nivel național pentru două particularități: prima, fabrica de îmbuteliere Coca-Cola MIFCO, considerată singura fabrică Coca-Cola din lume care își produce băutura din apă de mare desalinizată; a doua, locurile sale de surf de clasă mondială Cokes (chiar în fața insulei, numite după fabrică) și Chickens pe insula vecină. Aceste valuri care sparg spre dreapta atrag surferi din Australia, Brazilia și Hawaii, în special între martie și octombrie. Insula dispune de mai multe case de oaspeți, școli de surf, cafenele cu bucătărie locală, un port modern și o școală. Economic, viața se bazează pe turismul de surf, pescuit și pe producția Coca-Cola, care oferă locuri de muncă multor localnici. O legătură cu speedboatul către Malé permite excursii de o zi atât în oraș, cât și la Aeroportul Internațional Velana.",
       en: "Thulusdhoo is the administrative capital of Kaafu Atoll and lies about 28 kilometers northeast of Malé. The island has around 1700 residents and is nationally known for two distinctive features: first, the MIFCO Coca-Cola bottling plant, regarded as the only Coca-Cola factory in the world producing its drink from desalinated seawater; second, its world class surf spots Cokes (right off the island, named after the factory) and Chickens on the neighboring island. These right breaking waves attract surfers from Australia, Brazil and Hawaii, especially between March and October. The island has several guesthouses, surf schools, cafés with local cuisine, a modern harbor and a school. Economically, life depends on surf tourism, fishing and Coca-Cola production, which employs many islanders. A speedboat link to Malé allows day trips both to the city and to Velana International Airport."
-    }, image: "/poi-images/mv-thulusdhoo-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Einwohner: ca. 1.500 (2020)", "Fläche: 0,3 km²", "Entfernung zu Malé: 25 km", "Bekannte Surfwelle: 'Chickens'", "Anzahl Surfschulen: mindestens 2 (2024)", "Höchster Punkt: 2 m"],
-      hu: ["Lakosság: kb. 1500 fő (2020)", "Terület: 0,3 km²", "Távolság Malétól: 25 km", "Híres szörfhullám: 'Chickens'", "Szörfiskolák száma: legalább 2 (2024)", "Tengerszint feletti magasság: max. 2 m"],
-      ro: ["Populație: aproximativ 1.500 de locuitori (2020)", "Suprafață: 0,3 km²", "Distanța față de Malé: 25 km", "Val celebru pentru surfing: 'Chickens'", "Număr de școli de surfing: cel puțin 2 (2024)", "Altitudine maximă: 2 m"],
-      en: ["Population: approx. 1,500 (2020)", "Land area: 0.3 km²", "Distance from Malé: 25 km", "Famous surf break: 'Chickens'", "Number of surf schools: at least 2 (2024)", "Highest elevation: 2 m"],
-    },
-  },
+    }, image: "/poi-images/mv-thulusdhoo-cities-v2.webp"},
   {
     id: "mv-guraidhoo-cities-v2",
     type: "city",
@@ -825,14 +652,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Guraidhoo sűrűn lakott sziget a déli Kaafu-atollban, körülbelül 30 kilométerre délre Malé városától. Mintegy 2000 lakosával a sziget erős tengerészeti hagyományokkal rendelkezik: a hajóépítés, a halászat és egy jól védett természetes horgonyzóhely – amelyet jachtok és búvárszafari hajók is biztonságos kikötőként használnak – határozza meg az életét. Guraidhoon több hajógyár található, ahol hagyományos, trópusi fából készült Dhoni hajókat építenek és javítanak, valamint a sajátos nevelési igényű emberek nemzeti központja is itt működik a szociális minisztérium alatt. A szigeten emellett középiskola, rendelő, több étterem, helyi piac és bikini-strand található a növekvő számú vendégház-látogatónak. A közelben olyan szörfhelyek vannak, mint a Foxeys és a Natives, valamint a Kandooma Thila merülőhely, ahol sasráják, zátonycápák és teknősök is megfigyelhetők. A szigetet napi közforgalmú komp köti össze Maléval.",
       ro: "Guraidhoo este o insulă dens populată din sudul atolului Kaafu, situată la aproximativ 30 de kilometri sud de Malé. Cu circa 2000 de locuitori, insula are o tradiție maritimă puternică: construcția de bărci, pescuitul și un ancoraj natural bine protejat, folosit ca port sigur de iahturi și de ambarcațiuni de safari de scufundare din întreaga lume, dau tonul vieții locale. Guraidhoo dispune de mai multe șantiere unde se construiesc și se repară bărci dhoni tradiționale din lemn tropical, precum și de un centru național pentru persoane cu nevoi speciale, administrat de Ministerul Afacerilor Sociale. Insula are, de asemenea, o școală secundară, o cameră medicală, mai multe restaurante, o piață locală și o plajă bikini pentru numărul în creștere de turiști din casele de oaspeți. În apropiere se află locuri de surf precum Foxeys și Natives, precum și locul de scufundare Kandooma Thila, care atrage vulturi de mare, rechini de recif și țestoase. Un feribot public conectează insula zilnic cu Malé.",
       en: "Guraidhoo is a densely populated island in southern Kaafu Atoll, around 30 kilometers south of Malé. With about 2000 residents, the island has a strong maritime tradition: boat building, fishing and a well sheltered natural anchorage used as a safe port by yachts and dive safari vessels from around the world. Guraidhoo has several shipyards where traditional dhonis are built and repaired from tropical hardwood, as well as a national center for people with special needs run by the Ministry of Social Affairs. The island also has a secondary school, a clinic, several restaurants, a local market and a bikini beach for the growing number of guesthouse tourists. Nearby surf spots include Foxeys and Natives, plus the Kandooma Thila dive site that attracts eagle rays, reef sharks and turtles. A public ferry connects the island daily with Malé."
-    }, image: "/poi-images/mv-guraidhoo-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Einwohner: ca. 1.000 (2020)", "Fläche: 0,2 km²", "Entfernung zu Malé: 30 km", "Höchster Punkt: 2 m", "Anzahl Moscheen: 1", "Bekannte Sandbank: Sandwich Island"],
-      hu: ["Lakosság: kb. 1000 fő (2020)", "Terület: 0,2 km²", "Távolság Malétól: 30 km", "Legmagasabb pont: 2 m", "Mecsetek száma: 1", "Híres homokpad: Sandwich-sziget"],
-      ro: ["Populație: aproximativ 1.000 de locuitori (2020)", "Suprafață: 0,2 km²", "Distanța față de Malé: 30 km", "Altitudine maximă: 2 m", "Număr de moschei: 1", "Banc de nisip celebru: Insula Sandwich"],
-      en: ["Population: approx. 1,000 (2020)", "Land area: 0.2 km²", "Distance from Malé: 30 km", "Highest elevation: 2 m", "Number of mosques: 1", "Famous sandbank: Sandwich Island"],
-    },
-  },
+    }, image: "/poi-images/mv-guraidhoo-cities-v2.webp"},
   {
     id: "mv-alifushi-cities-v2",
     type: "city",
@@ -857,14 +677,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Alifushi egy távoli sziget a Raa-atoll legészakibb részén, szinte a Haa Dhaalu atoll határán, és a maldív hajóépítés hagyományos központjának számít. Itt készül generációk óta a maldív-szigetek ikonikus Dhoni hajója – a fából készült, magasra ívelő orrú többcélú hajó, amely az egész Indiai-óceánon elterjedt. Az 1979-ben alapított állami Alifushi Hajógyár évtizedeken át a Maldív-szigetek legfontosabb gyártóhelye volt, és ma is számos tapasztalt hajóépítőnek és asztalosnak ad munkát. A szigeten mintegy 2000 ember él, gazdasági súlypontja továbbra is a hajóépítés, a halászat és a kisléptékű mezőgazdaság. A földrajzi elszigeteltség – amelyet csak gyorshajóval vagy az Ifuru repülőtérre érkező belföldi járattal lehet feloldani – nagyon erős helyi identitást őrzött meg. A szigeten iskola, egészségügyi központ, mecset, közigazgatási hivatal és több kis bolt található, amelyek a mindennapi életet alakítják.",
       ro: "Alifushi este o insulă izolată din partea cea mai nordică a atolului Raa, aproape la granița cu atolul Haa Dhaalu, și este considerată centrul tradițional al construcției de bărci din Maldive. Aici se construiește, de generații, iconica barcă Dhoni – ambarcațiunea multifuncțională din lemn cu prora înaltă, răspândită în tot Oceanul Indian. Șantierul de stat Alifushi Boatyard, înființat în 1979, a fost timp de decenii principalul centru de producție al țării și angajează și astăzi numeroși constructori de bărci și tâmplari experimentați. Pe insulă trăiesc aproximativ 2000 de oameni, iar accentul economic continuă să cadă pe construcția navală, pescuit și mică agricultură. Izolarea geografică, accesibilă doar prin speedboat sau zbor intern către aeroportul Ifuru, a păstrat o identitate locală foarte puternică. Insula dispune de o școală, un centru de sănătate, o moschee, un birou administrativ și mai multe magazine mici, care definesc viața de zi cu zi.",
       en: "Alifushi is a remote island in the northernmost part of Raa Atoll, almost at the border with Haa Dhaalu Atoll, and is regarded as the traditional center of Maldivian boat building. Here, for generations, the iconic Dhoni boat has been crafted – the wooden multipurpose vessel with a high upturned bow, found throughout the Indian Ocean. The state owned Alifushi Boatyard, founded in 1979, was for decades the country's main production site and still employs many experienced boatbuilders and carpenters. About 2000 people live on the island, and the economic focus remains on shipbuilding, fishing and small scale agriculture. The geographic remoteness – reachable only by speedboat or domestic flight to Ifuru Airport – has preserved a very strong local identity. The island has a school, a health center, a mosque, an administration office and several small shops shaping everyday life."
-    }, image: "/poi-images/mv-alifushi-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Einwohner: ca. 1.200 (2020)", "Fläche: 0,2 km²", "Entfernung zu Malé: 130 km", "Traditioneller Schiffbau: bis 20. Jahrhundert", "Höchster Punkt: 2 m", "Anzahl Grundschulen: 1"],
-      hu: ["Lakosság: kb. 1200 fő (2020)", "Terület: 0,2 km²", "Távolság Malétól: 130 km", "Hagyományos hajóépítés: a 20. századig", "Tengerszint feletti magasság: max. 2 m", "Általános iskolák száma: 1"],
-      ro: ["Populație: aproximativ 1.200 de locuitori (2020)", "Suprafață: 0,2 km²", "Distanța față de Malé: 130 km", "Construcție navală tradițională: până în secolul XX", "Altitudine maximă: 2 m", "Număr de școli primare: 1"],
-      en: ["Population: approx. 1,200 (2020)", "Land area: 0.2 km²", "Distance from Malé: 130 km", "Traditional shipbuilding: up to 20th century", "Highest elevation: 2 m", "Number of primary schools: 1"],
-    },
-  },
+    }, image: "/poi-images/mv-alifushi-cities-v2.webp"},
   {
     id: "mv-holhudhoo-cities-v2",
     type: "city",
@@ -889,14 +702,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Holhudhoo jól szervezett sziget a Noonu-atoll északi részén, körülbelül 1500 lakossal. Híres az átlagon felül elkötelezett iskolai közösségéről és a Cambridge O-szintű országos vizsgákon elért magas eredményeiről, amiért informálisan oktatási szigetnek nevezik. A tanórán kívüli programok, a könyvtári kezdeményezések és a sportklubok is szokatlanul aktívak. A szigeten saját közigazgatási hivatal, egészségügyi központ, modern mecset és több hajójavító műhely található. A gazdaság alapja a nagy pole-and-line hajós halászat, a kisléptékű görögdinnye-, bab-, édesburgonya- és kókusztermesztés, valamint a környező üdülőhelyeken – mint az Iru Veli, a Vakkaru Maldives és a Soneva Jani – való munkavállalás. Egy közforgalmú komp és több gyorshajó rendszeresen összeköti Holhudhoot az atoll fővárosával, Manadhooval és a Maafaru repülőtérrel. A helyi akvakultúra úttörői – különösen a tengeri uborkák és a koralhalak tenyésztése – is itt élnek.",
       ro: "Holhudhoo este o insulă bine organizată din nordul atolului Noonu, cu aproximativ 1500 de locuitori. Este cunoscută pentru comunitatea școlară excepțional de implicată și pentru rezultatele ridicate la examenele naționale Cambridge O-Level, ceea ce i-a adus titlul informal de insulă educațională. Programele extracurriculare, inițiativele de bibliotecă și cluburile sportive sunt, de asemenea, neobișnuit de active aici. Insula dispune de propriul birou administrativ, un centru de sănătate, o moschee modernă și mai multe ateliere de reparat bărci. Economic, viața se bazează pe pescuit cu bărci mari pole-and-line, pe mică agricultură cu pepeni verzi, fasole, cartofi dulci și nuci de cocos, precum și pe locuri de muncă în resorturile apropiate, precum Iru Veli, Vakkaru Maldives și Soneva Jani. Un feribot public și mai multe speedboaturi conectează Holhudhoo regulat cu capitala atolului, Manadhoo, și cu aeroportul Maafaru. Aici trăiesc și pionierii acvaculturii locale, în special pentru castraveți de mare și pești de recif.",
       en: "Holhudhoo is a well organized island in the northern Noonu Atoll, with about 1500 residents. It is known for an unusually engaged school community and for high results in the national Cambridge O-Level exams, which has earned Holhudhoo the informal title of an education island. Extracurricular programs, library initiatives and sports clubs are also unusually active here. The island has its own administration office, a health center, a modern mosque and several boat repair workshops. Economically, life relies on fishing with large pole-and-line boats, small scale agriculture growing watermelons, beans, sweet potatoes and coconuts, and on employment in nearby resorts like Iru Veli, Vakkaru Maldives and Soneva Jani. A public ferry and several speedboats regularly connect Holhudhoo with the atoll capital Manadhoo and Maafaru Airport. Pioneers of local aquaculture, especially for sea cucumbers and reef fish, are also based here."
-    }, image: "/poi-images/mv-holhudhoo-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Einwohner: ca. 800 (2020)", "Fläche: 0,3 km²", "Entfernung zu Malé: 150 km", "Höchster Punkt: 2 m", "Traditioneller Dhau-Bau: ja", "Anzahl Gesundheitseinrichtungen: 1"],
-      hu: ["Lakosság: kb. 800 fő (2020)", "Terület: 0,3 km²", "Távolság Malétól: 150 km", "Tengerszint feletti magasság: max. 2 m", "Hagyományos dhau építése: igen", "Egészségügyi intézmények száma: 1"],
-      ro: ["Populație: aproximativ 800 de locuitori (2020)", "Suprafață: 0,3 km²", "Distanța față de Malé: 150 km", "Altitudine maximă: 2 m", "Construcție tradițională de dhow: da", "Număr de unități sanitare: 1"],
-      en: ["Population: approx. 800 (2020)", "Land area: 0.3 km²", "Distance from Malé: 150 km", "Highest elevation: 2 m", "Traditional dhow building: yes", "Number of health facilities: 1"],
-    },
-  },
+    }, image: "/poi-images/mv-holhudhoo-cities-v2.webp"},
   {
     id: "mv-meedhoo-raa-cities-v2",
     type: "city",
@@ -921,13 +727,7 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Meedhoo a Raa-atollban jelentős mezőgazdasági település, amely a tipikus korallzátony-szigetekhez képest kivételesen termékeny talajáról ismert. A szigeten mintegy 1700 ember él, és számos környező szigetet lát el friss termékkel, mint görögdinnye, banán, manióka, padlizsán és chili-paprika. A sziget története messzire nyúlik vissza, és régészeti leletek tanúskodnak hosszú, folyamatos településtörténetéről. Gazdasági alapja a mezőgazdaság, a pole-and-line hajós halászat és a hajóépítés, kiegészítve a környező üdülőhelyek – például a Bandos Maldives Resort & Spa és a You & Me by Cocoon – munkahelyeivel. A szigeten iskola, egészségügyi központ, közigazgatási hivatal és élénk kikötő található, ahol naponta érkeznek és indulnak teherhajók és dhoni-bárkák. A vallási és kulturális események, mint az Eid- és Ramadán-fesztivál, az egész atollból vonzanak látogatókat.",
       ro: "Meedhoo din atolul Raa este o așezare agricolă importantă, cunoscută pentru solurile sale neobișnuit de fertile, în comparație cu insulele tipice de recif coralier. Pe insulă trăiesc aproximativ 1700 de oameni, iar localitatea aprovizionează numeroase insule din atol cu produse proaspete precum pepeni verzi, banane, manioc, vinete și ardei iute. Istoria insulei se întinde mult în urmă, cu dovezi arheologice ale unei locuiri îndelungate și continue. Economic, viața se bazează pe agricultură, pescuit cu bărci pole-and-line și construcția de bărci, completate de locuri de muncă în resorturi apropiate, precum Bandos Maldives Resort & Spa și You & Me by Cocoon. Insula dispune de o școală, un centru de sănătate, un birou administrativ și un port animat unde zilnic sosesc și pleacă nave de marfă și ambarcațiuni dhoni. Evenimentele religioase și culturale, precum festivalurile Eid și Ramadan, atrag vizitatori din întregul atol.",
       en: "Meedhoo in Raa Atoll is a significant agricultural settlement known for its unusually fertile soils compared to typical coral reef islands. About 1700 people live on the island, which supplies many surrounding atoll islands with fresh produce such as watermelons, bananas, cassava, eggplants and chili peppers. The island's history reaches far back, with archaeological evidence of long, continuous habitation. Economically, life relies on agriculture, fishing with pole-and-line boats and boat building, supplemented by jobs in nearby resorts like Bandos Maldives Resort & Spa and You & Me by Cocoon. The island has a school, a health center, an administration office and a lively harbor where cargo vessels and dhonis arrive and depart daily. Religious and cultural events such as the Eid and Ramadan festivals draw visitors from across the atoll."
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 1.100 (2020)", "Fläche: 0,25 km²", "Entfernung zu Malé: 140 km", "Höchster Punkt: 2 m", "Anzahl Moscheen: 1", "Hauptwirtschaft: Fischerei"],
-      hu: ["Lakosság: kb. 1100 fő (2020)", "Terület: 0,25 km²", "Távolság Malétól: 140 km", "Tengerszint feletti magasság: max. 2 m", "Mecsetek száma: 1", "Fő gazdasági ág: halászat"],
-      ro: ["Populație: aproximativ 1.100 de locuitori (2020)", "Suprafață: 0,25 km²", "Distanța față de Malé: 140 km", "Altitudine maximă: 2 m", "Număr de moschei: 1", "Sector economic principal: pescuit"],
-      en: ["Population: approx. 1,100 (2020)", "Land area: 0.25 km²", "Distance from Malé: 140 km", "Highest elevation: 2 m", "Number of mosques: 1", "Main economy: fishing"],
-    },
+    }
   },
   {
     id: "mv-veyvah-cities-v2",
@@ -953,715 +753,6 @@ export const poiExtraMaldivesCitiesV2: POI[] = [
       hu: "Veyvah egy bájos, kis sziget a Meemu-atollban, mintegy 130 kilométerre délre Malé városától. Mindössze körülbelül 350 lakossal az atoll egyik legkevésbé népes lakott szigete, de erős halászatra orientált identitást őrzött meg. A férfiak nagy része hagyományos pole-and-line hajón dolgozik, csíkoshasú és sárgaúszójú tonhalat fogva, amelyet az állami feldolgozóüzemeknek adnak el. A kézi horgászzsineggel végzett zátonyhalászat is elterjedt. Veyvahon kis iskola, mecset, rendelő és egy közösségi rendezvényekre szolgáló többcélú terem található. A szigetet közforgalmú komp köti össze az atoll fővárosával, Mulival és Mulahhal, ahonnan közeli belföldi repülőjárat indul. Veyvah hagyományőrző Boduberu dobcsoportjairól is híres, amelyek fellépései az Eid-fesztivál idején a környező szigetekről is vonzanak látogatókat. A strandok csendes, fehér homokfelületekkel rendelkeznek, alig érintve a turizmustól.",
       ro: "Veyvah este o insulă mică și fermecătoare din atolul Meemu, situată la aproximativ 130 de kilometri sud de Malé. Cu doar circa 350 de locuitori, este una dintre cele mai puțin populate insule locuite din atol, dar și-a păstrat o identitate puternic orientată spre pescuit. Majoritatea bărbaților lucrează pe bărci tradiționale pole-and-line, prinzând ton scrumbie și ton cu înotătoare galbene pe care îl vând fabricilor de stat. Pescuitul pe recif cu undițe de mână este, de asemenea, răspândit. Pe Veyvah există o mică școală, o moschee, o cameră medicală și o sală multifuncțională pentru evenimente comunitare. Insula este conectată printr-un feribot public cu capitala atolului, Muli, și cu Mulah, unde aeroportul intern apropiat oferă curse domestice. Veyvah este renumită și pentru grupurile sale dedicate de tobe Boduberu, ale căror spectacole, în special în perioada festivalului Eid, atrag vizitatori din insulele învecinate. Plajele oferă suprafețe liniștite de nisip alb, abia atinse de turism.",
       en: "Veyvah is a charming small island in Meemu Atoll, about 130 kilometers south of Malé. With only around 350 inhabitants, it is one of the least populated inhabited islands of the atoll, yet it has preserved a strong fishing oriented identity. Most men work on traditional pole-and-line boats, catching skipjack and yellowfin tuna for sale to state processing plants. Reef fishing with handlines is also common. On Veyvah there is a small school, a mosque, a clinic and a multipurpose hall for community events. The island is connected by public ferry to the atoll capital Muli and to Mulah, where the nearby domestic airport offers internal flights. Veyvah is also famous for its dedicated Boduberu drum groups, whose performances – especially during the Eid festival – attract visitors from the surrounding islands. The beaches offer quiet white sand stretches barely touched by tourism."
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 400 (2020)", "Fläche: 0,25 km²", "Entfernung zu Malé: 120 km", "Höchster Punkt: 2 m", "Anzahl Grundschulen: 1", "Hauptwirtschaft: Fischerei und Landwirtschaft"],
-      hu: ["Lakosság: kb. 400 fő (2020)", "Terület: 0,25 km²", "Távolság Malétól: 120 km", "Tengerszint feletti magasság: max. 2 m", "Általános iskolák száma: 1", "Fő gazdasági ág: halászat és mezőgazdaság"],
-      ro: ["Populație: aproximativ 400 de locuitori (2020)", "Suprafață: 0,25 km²", "Distanța față de Malé: 120 km", "Altitudine maximă: 2 m", "Număr de școli primare: 1", "Sector economic principal: pescuit și agricultură"],
-      en: ["Population: approx. 400 (2020)", "Land area: 0.25 km²", "Distance from Malé: 120 km", "Highest elevation: 2 m", "Number of primary schools: 1", "Main economy: fishing and agriculture"],
-    },
-  }
-,
-  {
-    id: "maldives-hoarafushi-cities-v2",
-    type: "town",
-    name: { de: "Hoarafushi", hu: "Hoarafushi", ro: "Hoarafushi", en: "Hoarafushi" },
-    coords: [72.844, 7.009],
-    description: {
-      de: "Diese bewohnte Insel im Haa-Alif-Atoll ist für ihre lange Form und den regionalen Inlandsflughafen bekannt. Sie dient als wichtiges Verwaltungszentrum im Norden.",
-      hu: "A Haa Alif-atoll lakott szigete hosszúkás alakjáról és regionális belföldi repülőteréről ismert. Fontos közigazgatási központ az ország északi részén.",
-      ro: "Această insulă locuită din atolul Haa Alif este cunoscută pentru forma sa alungită și aeroportul regional. Servește ca un centru administrativ important în nord.",
-      en: "This inhabited island in Haa Alif Atoll is known for its elongated shape and regional domestic airport. It serves as a key administrative center in the north.",
-    },
-    facts: {
-      de: ["Inlandsflughafen 2020 eröffnet", "Bevölkerung von ca. 3.000 Einwohnern", "Gehört zum Haa-Alif-Atoll", "Verfügt über ein großes Riff"],
-      hu: ["2020-ban megnyitott belföldi repülőtér", "Körülbelül 3000 lakos", "A Haa Alif-atoll része", "Hatalmas korallzátonnyal rendelkezik"],
-      ro: ["Aeroport intern deschis în 2020", "Populație de aproximativ 3.000 de locuitori", "Face parte din atolul Haa Alif", "Dispune de un recif de corali vast"],
-      en: ["Domestic airport opened in 2020", "Population of approximately 3,000", "Part of the Haa Alif Atoll", "Features a large coral reef system"],
-    },
-    imageHint: "Aerial view of Hoarafushi island Maldives",
-    descriptionAdvanced: {
-      de: "Hoarafushi ist eine bewohnte Insel im Haa-Alif-Atoll, etwa 300 Kilometer nördlich von Malé. Die Insel hat eine Fläche von 0,2 Quadratkilometern und rund 1.500 Einwohner. Die Wirtschaft basiert auf Fischerei und etwas Tourismus. Hoarafushi hat eine Grundschule, ein Gesundheitszentrum und eine Moschee.",
-      hu: "Hoarafushi a Haa-Alif-atoll egyik lakott szigete, kb. 300 km-re északra Malétól. Területe 0,2 km², lakossága kb. 1500 fő. A gazdaság a halászatra és némi turizmusra épül. A szigeten általános iskola, egészségügyi központ és mecset található.",
-      ro: "Hoarafushi este o insulă locuită în atolul Haa Alif, la aproximativ 300 km nord de Malé. Are o suprafață de 0,2 km² și o populație de aproximativ 1.500 de locuitori. Economia se bazează pe pescuit și un pic de turism. Facilități: școală primară, centru de sănătate și moschee.",
-      en: "Hoarafushi is an inhabited island in Haa Alif Atoll, about 300 kilometers north of Malé. It covers 0.2 square kilometers and has a population of around 1,500. The economy relies on fishing and some tourism. It has a primary school, a health center, and a mosque.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 1.500 (2020)", "Fläche: 0,2 km²", "Entfernung zu Malé: 300 km", "Höchster Punkt: 2 m", "Anzahl Gesundheitszentren: 1", "Hauptwirtschaft: Fischerei"],
-      hu: ["Lakosság: kb. 1500 fő (2020)", "Terület: 0,2 km²", "Távolság Malétól: 300 km", "Tengerszint feletti magasság: max. 2 m", "Egészségügyi központok száma: 1", "Fő gazdasági ág: halászat"],
-      ro: ["Populație: aproximativ 1.500 de locuitori (2020)", "Suprafață: 0,2 km²", "Distanța față de Malé: 300 km", "Altitudine maximă: 2 m", "Număr de centre de sănătate: 1", "Sector economic principal: pescuit"],
-      en: ["Population: approx. 1,500 (2020)", "Land area: 0.2 km²", "Distance from Malé: 300 km", "Highest elevation: 2 m", "Number of health centers: 1", "Main economy: fishing"],
-    },
-  },
-  {
-    id: "maldives-ihavandhoo-cities-v2",
-    type: "town",
-    name: { de: "Ihavandhoo", hu: "Ihavandhoo", ro: "Ihavandhoo", en: "Ihavandhoo" },
-    coords: [72.925, 6.953],
-    description: {
-      de: "Eine bedeutende Fischerinsel im nördlichen Haa-Alif-Atoll. Sie ist bekannt für ihre traditionelle Schiffbaukunst und die lokale Fischverarbeitung.",
-      hu: "Jelentős halászsziget az északi Haa Alif-atollban. Hagyományos hajóépítéséről és a helyi halfeldolgozásról nevezetes.",
-      ro: "O insulă de pescari importantă în atolul Haa Alif din nord. Este cunoscută pentru construcția tradițională de bărci și prelucrarea peștelui.",
-      en: "A significant fishing island in the northern Haa Alif Atoll. It is notable for its traditional boat-building skills and local fish processing.",
-    },
-    facts: {
-      de: ["Zentrum des Skipjack-Thunfischfangs", "Bevölkerung von über 3.000 Personen", "Traditionelles Handwerkszentrum", "Liegt im Ihavandhippolhu-Atoll"],
-      hu: ["A csíkoshasú tonhalhalászat központja", "Több mint 3000 fős lakosság", "Hagyományos kézműves központ", "Az Ihavandhippolhu-atollban található"],
-      ro: ["Centru pentru pescuitul de ton", "Populație de peste 3.000 de persoane", "Centru de meșteșuguri tradiționale", "Situată în atolul Ihavandhippolhu"],
-      en: ["Hub for skipjack tuna fishing", "Population exceeding 3,000 people", "Traditional craftsmanship center", "Located in the Ihavandhippolhu Atoll"],
-    },
-    imageHint: "Ihavandhoo village harbor Maldives",
-    descriptionAdvanced: {
-      de: "Ihavandhoo ist eine bewohnte Insel im Haa-Alif-Atoll, etwa 315 Kilometer nördlich von Malé. Die Insel hat eine Fläche von 0,2 Quadratkilometern und rund 1.000 Einwohner. Die Wirtschaft basiert auf Fischerei. Ihavandhoo hat eine Grundschule und ein Gesundheitszentrum.",
-      hu: "Ihavandhoo a Haa-Alif-atoll egyik lakott szigete, kb. 315 km-re északra Malétól. Területe 0,2 km², lakossága kb. 1000 fő. A gazdaság a halászatra épül. A szigeten általános iskola és egészségügyi központ található.",
-      ro: "Ihavandhoo este o insulă locuită în atolul Haa Alif, la aproximativ 315 km nord de Malé. Are o suprafață de 0,2 km² și o populație de aproximativ 1.000 de locuitori. Economia se bazează pe pescuit. Are o școală primară și un centru de sănătate.",
-      en: "Ihavandhoo is an inhabited island in Haa Alif Atoll, about 315 kilometers north of Malé. It covers 0.2 square kilometers and has a population of around 1,000. The economy is based on fishing. It has a primary school and a health center.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 1.000 (2020)", "Fläche: 0,2 km²", "Entfernung zu Malé: 315 km", "Höchster Punkt: 2 m", "Anzahl Grundschulen: 1", "Hauptwirtschaft: Fischerei"],
-      hu: ["Lakosság: kb. 1000 fő (2020)", "Terület: 0,2 km²", "Távolság Malétól: 315 km", "Tengerszint feletti magasság: max. 2 m", "Általános iskolák száma: 1", "Fő gazdasági ág: halászat"],
-      ro: ["Populație: aproximativ 1.000 de locuitori (2020)", "Suprafață: 0,2 km²", "Distanța față de Malé: 315 km", "Altitudine maximă: 2 m", "Număr de școli primare: 1", "Sector economic principal: pescuit"],
-      en: ["Population: approx. 1,000 (2020)", "Land area: 0.2 km²", "Distance from Malé: 315 km", "Highest elevation: 2 m", "Number of primary schools: 1", "Main economy: fishing"],
-    },
-  },
-  {
-    id: "maldives-filladhoo-cities-v2",
-    type: "village",
-    name: { de: "Filladhoo", hu: "Filladhoo", ro: "Filladhoo", en: "Filladhoo" },
-    coords: [73.031, 6.879],
-    description: {
-      de: "Diese Insel im Haa-Alif-Atoll beherbergt das historische Schiffswrack der SS Maid of Arra. Sie ist von einer weiten Lagune umgeben.",
-      hu: "Ez a Haa Alif-atollban található sziget az SS Maid of Arra történelmi hajóroncsának ad otthont. Tágas lagúna veszi körül.",
-      ro: "Această insulă din atolul Haa Alif găzduiește epava istorică a navei SS Maid of Arra. Este înconjurată de o lagună vastă.",
-      en: "This island in Haa Alif Atoll is home to the historical shipwreck of the SS Maid of Arra. It is surrounded by an extensive lagoon.",
-    },
-    facts: {
-      de: ["SS Maid of Arra sank hier 1946", "Große landwirtschaftliche Flächen", "Bedeutende lokale Fischerei", "Unbewohnte Teile der Insel bewaldet"],
-      hu: ["Az SS Maid of Arra itt süllyedt el 1946-ban", "Jelentős mezőgazdasági területek", "Fontos helyi halászat", "A sziget lakatlan részei erdősek"],
-      ro: ["SS Maid of Arra s-a scufundat aici în 1946", "Zone agricole extinse", "Pescuit local semnificativ", "Părțile nelocuite sunt împădurite"],
-      en: ["SS Maid of Arra wrecked here in 1946", "Large areas of agricultural land", "Significant local fishing community", "Uninhabited parts are heavily forested"],
-    },
-    imageHint: "Filladhoo island aerial view Maldives",
-    descriptionAdvanced: {
-      de: "Filladhoo ist eine bewohnte Insel im Haa-Alif-Atoll, etwa 310 Kilometer nördlich von Malé. Die Insel hat eine Fläche von 0,25 Quadratkilometern und rund 1.200 Einwohner. Die Wirtschaft basiert auf Fischerei und Kokosnussanbau. Filladhoo hat eine Grundschule, eine Moschee und ein Gesundheitszentrum.",
-      hu: "Filladhoo a Haa-Alif-atoll egyik lakott szigete, kb. 310 km-re északra Malétól. Területe 0,25 km², lakossága kb. 1200 fő. A gazdaság a halászatra és a kókusztermesztésre épül. A szigeten általános iskola, mecset és egészségügyi központ található.",
-      ro: "Filladhoo este o insulă locuită în atolul Haa Alif, la aproximativ 310 km nord de Malé. Are o suprafață de 0,25 km² și o populație de aproximativ 1.200 de locuitori. Economia se bazează pe pescuit și cultivarea nucilor de cocos. Are o școală primară, o moschee și un centru de sănătate.",
-      en: "Filladhoo is an inhabited island in Haa Alif Atoll, about 310 kilometers north of Malé. It covers 0.25 square kilometers and has a population of around 1,200. The economy is based on fishing and coconut cultivation. It has a primary school, a mosque, and a health center.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 1.200 (2020)", "Fläche: 0,25 km²", "Entfernung zu Malé: 310 km", "Höchster Punkt: 2 m", "Anzahl Moscheen: 1", "Hauptwirtschaft: Fischerei und Kokosnussanbau"],
-      hu: ["Lakosság: kb. 1200 fő (2020)", "Terület: 0,25 km²", "Távolság Malétól: 310 km", "Tengerszint feletti magasság: max. 2 m", "Mecsetek száma: 1", "Fő gazdasági ág: halászat és kókusztermesztés"],
-      ro: ["Populație: aproximativ 1.200 de locuitori (2020)", "Suprafață: 0,25 km²", "Distanța față de Malé: 310 km", "Altitudine maximă: 2 m", "Număr de moschei: 1", "Sector economic principal: pescuit și cultivarea nucilor de cocos"],
-      en: ["Population: approx. 1,200 (2020)", "Land area: 0.25 km²", "Distance from Malé: 310 km", "Highest elevation: 2 m", "Number of mosques: 1", "Main economy: fishing and coconut cultivation"],
-    },
-  },
-  {
-    id: "maldives-hanimaadhoo-cities-v2",
-    type: "town",
-    name: { de: "Hanimaadhoo", hu: "Hanimaadhoo", ro: "Hanimaadhoo", en: "Hanimaadhoo" },
-    coords: [73.171, 6.753],
-    description: {
-      de: "Ein wichtiges Transport- und Observatoriumszentrum im Norden der Malediven. Die Insel beherbergt einen internationalen Flughafen und Klimaforschungsstationen.",
-      hu: "Fontos közlekedési és obszervatóriumi központ a Maldív-szigetek északi részén. A szigeten nemzetközi repülőtér és klímakutató állomások működnek.",
-      ro: "Un important centru de transport și observație în nordul Maldivelor. Insula găzduiește un aeroport internațional și stații de cercetare climatică.",
-      en: "A major transport and observatory hub in the northern Maldives. The island hosts an international airport and climate research facilities.",
-    },
-    facts: {
-      de: ["Hanimaadhoo International Airport", "Standort der Klimastation Hanimaadhoo", "Längste Startbahn im Norden", "Über 2.000 Einwohner"],
-      hu: ["Hanimaadhoo Nemzetközi Repülőtér", "A Hanimaadhoo klímaállomás helyszíne", "Az északi rész leghosszabb kifutópályája", "Több mint 2000 lakos"],
-      ro: ["Aeroportul Internațional Hanimaadhoo", "Locația stației climatice Hanimaadhoo", "Cea mai lungă pistă din nord", "Peste 2.000 de locuitori"],
-      en: ["Hanimaadhoo International Airport", "Site of the Hanimaadhoo Climate Station", "Longest runway in the northern atolls", "Population over 2,000 residents"],
-    },
-    imageHint: "Hanimaadhoo airport runway and island",
-    descriptionAdvanced: {
-      de: "Hanimaadhoo ist eine bewohnte Insel im Haa-Dhaalu-Atoll, etwa 270 Kilometer nördlich von Malé. Die Insel hat eine Fläche von 0,3 Quadratkilometern und rund 1.800 Einwohner. Hanimaadhoo ist bekannt für seinen Flughafen (Hanimaadhoo Airport), der 1998 eröffnet wurde. Die Wirtschaft basiert auf Fischerei und Tourismus (Flughafen). Die Insel hat eine weiterführende Schule und ein Krankenhaus.",
-      hu: "Hanimaadhoo a Haa-Dhaalu-atoll egyik lakott szigete, kb. 270 km-re északra Malétól. Területe 0,3 km², lakossága kb. 1800 fő. Híres a repülőteréről (Hanimaadhoo repülőtér), amely 1998-ban nyílt meg. A gazdaság a halászatra és a turizmusra épül. A szigeten középiskola és kórház található.",
-      ro: "Hanimaadhoo este o insulă locuită în atolul Haa Dhaalu, la aproximativ 270 km nord de Malé. Are o suprafață de 0,3 km² și o populație de aproximativ 1.800 de locuitori. Este cunoscută pentru aeroportul său (Hanimaadhoo Airport), deschis în 1998. Economia se bazează pe pescuit și turism (datorită aeroportului). Are o școală secundară și un spital.",
-      en: "Hanimaadhoo is an inhabited island in Haa Dhaalu Atoll, about 270 kilometers north of Malé. It covers 0.3 square kilometers and has a population of about 1,800. It is known for Hanimaadhoo Airport, which opened in 1998. The economy is based on fishing and tourism (airport). It has a secondary school and a hospital.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 1.800 (2020)", "Fläche: 0,3 km²", "Entfernung zu Malé: 270 km", "Flughafeneröffnung: 1998", "Start- und Landebahnlänge: 1.500 m", "Anzahl Krankenhäuser: 1"],
-      hu: ["Lakosság: kb. 1800 fő (2020)", "Terület: 0,3 km²", "Távolság Malétól: 270 km", "Repülőtér megnyitása: 1998", "Kifutópálya hossza: 1500 m", "Kórházak száma: 1"],
-      ro: ["Populație: aproximativ 1.800 de locuitori (2020)", "Suprafață: 0,3 km²", "Distanța față de Malé: 270 km", "Deschiderea aeroportului: 1998", "Lungimea pistei: 1.500 m", "Număr de spitale: 1"],
-      en: ["Population: approx. 1,800 (2020)", "Land area: 0.3 km²", "Distance from Malé: 270 km", "Airport opened: 1998", "Runway length: 1,500 m", "Number of hospitals: 1"],
-    },
-  },
-  {
-    id: "maldives-nolhivaranfaru-cities-v2",
-    type: "village",
-    name: { de: "Nolhivaranfaru", hu: "Nolhivaranfaru", ro: "Nolhivaranfaru", en: "Nolhivaranfaru" },
-    coords: [73.116, 6.671],
-    description: {
-      de: "Ehemals die Hauptstadt des Haa-Dhaalu-Atolls, ist diese Insel für ihre üppige Vegetation und landwirtschaftliche Produktion bekannt.",
-      hu: "A Haa Dhaalu-atoll korábbi székhelye, amely buja növényzetéről és mezőgazdasági termeléséről ismert.",
-      ro: "Fostă capitală a atolului Haa Dhaalu, această insulă este cunoscută pentru vegetația sa luxuriantă și producția agricolă.",
-      en: "Formerly the capital of the Haa Dhaalu Atoll, this island is known for its lush vegetation and agricultural production.",
-    },
-    facts: {
-      de: ["Ehemaliges Verwaltungszentrum des Atolls", "Anbau von Wassermelonen und Bananen", "Bevölkerung ca. 1.800 Personen", "Großes, unberührtes Hinterland"],
-      hu: ["Az atoll korábbi közigazgatási központja", "Görögdinnye és banán termesztése", "Körülbelül 1800 fős lakosság", "Hatalmas, érintetlen belső területek"],
-      ro: ["Fost centru administrativ al atolului", "Cultivarea pepenilor verzi și a bananelor", "Populație de aproximativ 1.800 persoane", "Interior insular vast și virgin"],
-      en: ["Former administrative capital of the atoll", "Cultivation of watermelons and bananas", "Population around 1,800 people", "Large, untouched inland areas"],
-    },
-    imageHint: "Nolhivaranfaru island agriculture Maldives",
-    descriptionAdvanced: {
-      de: "Nolhivaranfaru ist eine bewohnte Insel im Haa-Dhaalu-Atoll, etwa 250 Kilometer nördlich von Malé. Die Insel hat eine Fläche von 0,2 Quadratkilometern und rund 800 Einwohner. Die Wirtschaft basiert auf Fischerei. Nolhivaranfaru hat eine Grundschule und ein Gesundheitszentrum.",
-      hu: "Nolhivaranfaru a Haa-Dhaalu-atoll egyik lakott szigete, kb. 250 km-re északra Malétól. Területe 0,2 km², lakossága kb. 800 fő. A gazdaság a halászatra épül. A szigeten általános iskola és egészségügyi központ található.",
-      ro: "Nolhivaranfaru este o insulă locuită în atolul Haa Dhaalu, la aproximativ 250 km nord de Malé. Are o suprafață de 0,2 km² și o populație de aproximativ 800 de locuitori. Economia se bazează pe pescuit. Are o școală primară și un centru de sănătate.",
-      en: "Nolhivaranfaru is an inhabited island in Haa Dhaalu Atoll, about 250 kilometers north of Malé. It covers 0.2 square kilometers and has a population of around 800. The economy is based on fishing. It has a primary school and a health center.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 800 (2020)", "Fläche: 0,2 km²", "Entfernung zu Malé: 250 km", "Höchster Punkt: 2 m", "Anzahl Grundschulen: 1", "Hauptwirtschaft: Fischerei"],
-      hu: ["Lakosság: kb. 800 fő (2020)", "Terület: 0,2 km²", "Távolság Malétól: 250 km", "Tengerszint feletti magasság: max. 2 m", "Általános iskolák száma: 1", "Fő gazdasági ág: halászat"],
-      ro: ["Populație: aproximativ 800 de locuitori (2020)", "Suprafață: 0,2 km²", "Distanța față de Malé: 250 km", "Altitudine maximă: 2 m", "Număr de școli primare: 1", "Sector economic principal: pescuit"],
-      en: ["Population: approx. 800 (2020)", "Land area: 0.2 km²", "Distance from Malé: 250 km", "Highest elevation: 2 m", "Number of primary schools: 1", "Main economy: fishing"],
-    },
-  },
-  {
-    id: "maldives-milandhoo-cities-v2",
-    type: "town",
-    name: { de: "Milandhoo", hu: "Milandhoo", ro: "Milandhoo", en: "Milandhoo" },
-    coords: [73.235, 6.284],
-    description: {
-      de: "Eine der bevölkerungsreichsten Inseln im Shaviyani-Atoll. Sie wurde Ende der 1990er Jahre massiv besiedelt, um Bewohner kleinerer Inseln aufzunehmen.",
-      hu: "A Shaviyani-atoll egyik legnépesebb szigete. Az 1990-es évek végén népesítették be tömegesen, hogy kisebb szigetek lakóit befogadják.",
-      ro: "Una dintre cele mai populate insule din atolul Shaviyani. A fost colonizată masiv la sfârșitul anilor 1990 pentru a găzdui locuitorii insulelor mai mici.",
-      en: "One of the most populous islands in Shaviyani Atoll. It was heavily populated in the late 1990s to accommodate residents from smaller islands.",
-    },
-    facts: {
-      de: ["Planmäßig besiedelt ab 1997", "Bevölkerung von ca. 4.000 Einwohnern", "Modernes Bildungszentrum im Atoll", "Bekannt für Süßwasserseen im Inselinneren"],
-      hu: ["1997-től tervszerűen benépesítve", "Körülbelül 4000 fős lakosság", "Az atoll modern oktatási központja", "A belső édesvízi tavairól ismert"],
-      ro: ["Populare planificată începând cu 1997", "Populație de aproximativ 4.000 locuitori", "Centru educațional modern în atol", "Cunoscută pentru lacurile de apă dulce"],
-      en: ["Planned settlement started in 1997", "Population of approximately 4,000", "Modern educational hub in the atoll", "Known for freshwater lakes in its interior"],
-    },
-    imageHint: "Milandhoo island residential area Maldives",
-    descriptionAdvanced: {
-      de: "Milandoo ist eine bewohnte Insel im Noonu-Atoll, etwa 160 Kilometer nördlich von Malé. Die Insel hat eine Fläche von 0,2 Quadratkilometern und rund 1.000 Einwohner. Die Wirtschaft basiert auf Fischerei. Milandoo hat eine Grundschule, eine Moschee und ein Gesundheitszentrum.",
-      hu: "Milandoo a Noonu-atoll egyik lakott szigete, kb. 160 km-re északra Malétól. Területe 0,2 km², lakossága kb. 1000 fő. A gazdaság a halászatra épül. A szigeten általános iskola, mecset és egészségügyi központ található.",
-      ro: "Milandoo este o insulă locuită în atolul Noonu, la aproximativ 160 km nord de Malé. Are o suprafață de 0,2 km² și o populație de aproximativ 1.000 de locuitori. Economia se bazează pe pescuit. Are o școală primară, o moschee și un centru de sănătate.",
-      en: "Milandoo is an inhabited island in Noonu Atoll, about 160 kilometers north of Malé. It covers 0.2 square kilometers and has a population of around 1,000. The economy is based on fishing. It has a primary school, a mosque, and a health center.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 1.000 (2020)", "Fläche: 0,2 km²", "Entfernung zu Malé: 160 km", "Höchster Punkt: 2 m", "Anzahl Moscheen: 1", "Hauptwirtschaft: Fischerei"],
-      hu: ["Lakosság: kb. 1000 fő (2020)", "Terület: 0,2 km²", "Távolság Malétól: 160 km", "Tengerszint feletti magasság: max. 2 m", "Mecsetek száma: 1", "Fő gazdasági ág: halászat"],
-      ro: ["Populație: aproximativ 1.000 de locuitori (2020)", "Suprafață: 0,2 km²", "Distanța față de Malé: 160 km", "Altitudine maximă: 2 m", "Număr de moschei: 1", "Sector economic principal: pescuit"],
-      en: ["Population: approx. 1,000 (2020)", "Land area: 0.2 km²", "Distance from Malé: 160 km", "Highest elevation: 2 m", "Number of mosques: 1", "Main economy: fishing"],
-    },
-  },
-  {
-    id: "maldives-kanditheemu-cities-v2",
-    type: "village",
-    name: { de: "Kanditheemu", hu: "Kanditheemu", ro: "Kanditheemu", en: "Kanditheemu" },
-    coords: [73.004, 6.223],
-    description: {
-      de: "Diese Insel im Shaviyani-Atoll beherbergt das älteste bekannte Thaana-Schriftstück. Sie hat eine reiche kulturelle und religiöse Geschichte.",
-      hu: "A Shaviyani-atoll egyik szigete, ahol a legrégebbi ismert Thaana írásos emlék található. Gazdag kulturális és vallási múlttal rendelkezik.",
-      ro: "Această insulă din atolul Shaviyani găzduiește cea mai veche inscripție cunoscută în scrierea Thaana. Are o istorie culturală și religioasă bogată.",
-      en: "This island in Shaviyani Atoll houses the oldest known Thaana script inscription. It has a rich cultural and religious history.",
-    },
-    facts: {
-      de: ["Thaana-Inschrift aus dem Jahr 1588", "Historische Moschee mit Schnitzereien", "Bedeutendes Fischereizentrum", "Liegt am westlichen Rand des Atolls"],
-      hu: ["Thaana felirat 1588-ból", "Történelmi mecset faragványokkal", "Jelentős halászati központ", "Az atoll nyugati szélén található"],
-      ro: ["Inscripție Thaana din anul 1588", "Moschee istorică cu sculpturi", "Centru de pescuit semnificativ", "Situată la marginea de vest a atolului"],
-      en: ["Thaana inscription dating back to 1588", "Historical mosque with intricate carvings", "Significant regional fishing hub", "Located on the western edge of the atoll"],
-    },
-    imageHint: "Old mosque Kanditheemu Maldives",
-    descriptionAdvanced: {
-      de: "Kanditheemu ist eine bewohnte Insel im Noonu-Atoll, etwa 170 Kilometer nördlich von Malé. Die Insel hat eine Fläche von 0,2 Quadratkilometern und rund 700 Einwohner. Die Wirtschaft basiert auf Fischerei und Landwirtschaft. Kanditheemu hat eine Grundschule und ein Gesundheitszentrum.",
-      hu: "Kanditheemu a Noonu-atoll egyik lakott szigete, kb. 170 km-re északra Malétól. Területe 0,2 km², lakossága kb. 700 fő. A gazdaság a halászatra és a mezőgazdaságra épül. A szigeten általános iskola és egészségügyi központ található.",
-      ro: "Kanditheemu este o insulă locuită în atolul Noonu, la aproximativ 170 km nord de Malé. Are o suprafață de 0,2 km² și o populație de aproximativ 700 de locuitori. Economia se bazează pe pescuit și agricultură. Are o școală primară și un centru de sănătate.",
-      en: "Kanditheemu is an inhabited island in Noonu Atoll, about 170 kilometers north of Malé. It covers 0.2 square kilometers and has a population of around 700. The economy is based on fishing and agriculture. It has a primary school and a health center.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 700 (2020)", "Fläche: 0,2 km²", "Entfernung zu Malé: 170 km", "Höchster Punkt: 2 m", "Anzahl Grundschulen: 1", "Hauptwirtschaft: Fischerei und Landwirtschaft"],
-      hu: ["Lakosság: kb. 700 fő (2020)", "Terület: 0,2 km²", "Távolság Malétól: 170 km", "Tengerszint feletti magasság: max. 2 m", "Általános iskolák száma: 1", "Fő gazdasági ág: halászat és mezőgazdaság"],
-      ro: ["Populație: aproximativ 700 de locuitori (2020)", "Suprafață: 0,2 km²", "Distanța față de Malé: 170 km", "Altitudine maximă: 2 m", "Număr de școli primare: 1", "Sector economic principal: pescuit și agricultură"],
-      en: ["Population: approx. 700 (2020)", "Land area: 0.2 km²", "Distance from Malé: 170 km", "Highest elevation: 2 m", "Number of primary schools: 1", "Main economy: fishing and agriculture"],
-    },
-  },
-  {
-    id: "maldives-velidhoo-cities-v2",
-    type: "town",
-    name: { de: "Velidhoo", hu: "Velidhoo", ro: "Velidhoo", en: "Velidhoo" },
-    coords: [73.271, 5.666],
-    description: {
-      de: "Eine wirtschaftlich bedeutende Insel im Noonu-Atoll, bekannt für ihre traditionellen Tanzformen und Fischverarbeitung.",
-      hu: "Gazdaságilag jelentős sziget a Noonu-atollban, amely hagyományos táncformáiról és halfeldolgozásáról ismert.",
-      ro: "O insulă importantă din punct de vedere economic în atolul Noonu, cunoscută pentru dansurile tradiționale și prelucrarea peștelui.",
-      en: "An economically significant island in Noonu Atoll, known for its traditional dance forms and fish processing activities.",
-    },
-    facts: {
-      de: ["Bevölkerung von über 2.500 Personen", "Zentrum für lokale Handwerkskunst", "Bedeutender Seehafen im Atoll", "Berühmt für 'Bandiyaa Jehun' Tänze"],
-      hu: ["Több mint 2500 fős lakosság", "Helyi kézművesség központja", "Fontos tengeri kikötő az atollban", "Híres a 'Bandiyaa Jehun' táncokról"],
-      ro: ["Populație de peste 2.500 de persoane", "Centru pentru artizanat local", "Port maritim important în atol", "Faimoasă pentru dansurile 'Bandiyaa Jehun'"],
-      en: ["Population exceeding 2,500 people", "Center for local craftsmanship", "Important maritime port in the atoll", "Famous for 'Bandiyaa Jehun' dance"],
-    },
-    imageHint: "Velidhoo island harbor Maldives",
-    descriptionAdvanced: {
-      de: "Velidhoo ist eine bewohnte Insel im Noonu-Atoll, etwa 155 Kilometer nördlich von Malé. Die Insel hat eine Fläche von 0,3 Quadratkilometern und rund 1.200 Einwohner. Die Wirtschaft basiert auf Fischerei. Velidhoo hat eine Grundschule, eine Moschee und ein Gesundheitszentrum.",
-      hu: "Velidhoo a Noonu-atoll egyik lakott szigete, kb. 155 km-re északra Malétól. Területe 0,3 km², lakossága kb. 1200 fő. A gazdaság a halászatra épül. A szigeten általános iskola, mecset és egészségügyi központ található.",
-      ro: "Velidhoo este o insulă locuită în atolul Noonu, la aproximativ 155 km nord de Malé. Are o suprafață de 0,3 km² și o populație de aproximativ 1.200 de locuitori. Economia se bazează pe pescuit. Are o școală primară, o moschee și un centru de sănătate.",
-      en: "Velidhoo is an inhabited island in Noonu Atoll, about 155 kilometers north of Malé. It covers 0.3 square kilometers and has a population of around 1,200. The economy is based on fishing. It has a primary school, a mosque, and a health center.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 1.200 (2020)", "Fläche: 0,3 km²", "Entfernung zu Malé: 155 km", "Höchster Punkt: 2 m", "Anzahl Moscheen: 1", "Hauptwirtschaft: Fischerei"],
-      hu: ["Lakosság: kb. 1200 fő (2020)", "Terület: 0,3 km²", "Távolság Malétól: 155 km", "Tengerszint feletti magasság: max. 2 m", "Mecsetek száma: 1", "Fő gazdasági ág: halászat"],
-      ro: ["Populație: aproximativ 1.200 de locuitori (2020)", "Suprafață: 0,3 km²", "Distanța față de Malé: 155 km", "Altitudine maximă: 2 m", "Număr de moschei: 1", "Sector economic principal: pescuit"],
-      en: ["Population: approx. 1,200 (2020)", "Land area: 0.3 km²", "Distance from Malé: 155 km", "Highest elevation: 2 m", "Number of mosques: 1", "Main economy: fishing"],
-    },
-  },
-  {
-    id: "maldives-kendhikulhudhoo-cities-v2",
-    type: "town",
-    name: { de: "Kendhikulhudhoo", hu: "Kendhikulhudhoo", ro: "Kendhikulhudhoo", en: "Kendhikulhudhoo" },
-    coords: [73.364, 5.942],
-    description: {
-      de: "Eine der flächenmäßig größten Inseln der Malediven, gelegen im Noonu-Atoll. Sie besteht ursprünglich aus zwei Inseln, die zusammengewachsen sind.",
-      hu: "A Maldív-szigetek egyik legnagyobb területű szigete a Noonu-atollban. Eredetileg két szigetből állt, amelyek mára összeolvadtak.",
-      ro: "Una dintre cele mai mari insule ca suprafață din Maldive, situată în atolul Noonu. A fost formată din două insule care s-au unit.",
-      en: "One of the largest islands by land area in the Maldives, located in Noonu Atoll. It originally consisted of two islands that merged over time.",
-    },
-    facts: {
-      de: ["Besitzt ein großes Mangrovengebiet", "Bedeutende Landwirtschaft (Mangos)", "Über 1.800 Einwohner", "Ursprünglich Kendhoo und Kulhudhoo"],
-      hu: ["Hatalmas mangrove-területtel rendelkezik", "Jelentős mezőgazdaság (mangó)", "Több mint 1800 lakos", "Eredetileg Kendhoo és Kulhudhoo volt"],
-      ro: ["Posedă o zonă extinsă de mangrove", "Agricultură semnificativă (mango)", "Peste 1.800 de locuitori", "Formată din Kendhoo și Kulhudhoo"],
-      en: ["Features a large mangrove ecosystem", "Significant agriculture (mangoes)", "Population over 1,800 people", "Originally two islands: Kendhoo and Kulhudhoo"],
-    },
-    imageHint: "Kendhikulhudhoo aerial view mangroves",
-    descriptionAdvanced: {
-      de: "Kendhikulhudhoo ist eine bewohnte Insel im Haa-Alif-Atoll. Die Inselgeschichte reicht bis ins 16. Jahrhundert zurück, als erste Siedler aus Südasien eintrafen. Die lokale Wirtschaft basiert hauptsächlich auf Fischerei und Landwirtschaft, während der Tourismus aufgrund der abgelegenen Lage unterentwickelt ist. Die Insel verfügt über eine Grundschule, ein Gesundheitszentrum und eine kleine Moschee. Die Bevölkerung lebt traditionell in Häusern aus Korallenstein und Palmblättern. Politisch gehört Kendhikulhudhoo zur Nordprovinz der Malediven. Die Insel erstreckt sich über etwa 1,2 Kilometer Länge und ist maximal 300 Meter breit. Die höchste Erhebung liegt bei nur zwei Metern über dem Meeresspiegel, was die Insel anfällig für Überschwemmungen macht. Jährlich finden kulturelle Feste wie der Unabhängigkeitstag statt.",
-      hu: "Kendhikulhudhoo a Haa Alif-atoll egyik lakott szigete. A sziget földrajzilag a Maldív-szigetek északi részén helyezkedik el, és mintegy 300 kilométerre fekszik a fővárostól, Malétól. A sziget körül korallzátonyok találhatók, amelyek gazdag tengeri élővilágnak adnak otthont. A sziget területe körülbelül 0,5 négyzetkilométer, és alacsony tengerszint feletti magassága jellemzi, ami miatt a klímaváltozás komoly kihívást jelent. A sziget lagúnája sekély, és ideális helyszín a szigetlakók hagyományos halászati módszereihez. A szárazföldet kókuszpálmák és trópusi növényzet borítja. A sziget partvonala homokos, és a keleti oldalon egy kis strand található.",
-      ro: "Kendhikulhudhoo este o insulă locuită din atolul Haa Alif, partea de nord a Maldivei. Economia insulei se bazează în principal pe pescuit și pe cultivarea nucilor de cocos, care sunt exportate către insulele mai mari. Recent, s-au făcut eforturi pentru dezvoltarea unui turism ecologic, cu câteva pensiuni mici. Insula are o populație de aproximativ 1200 de locuitori, care trăiesc în principal din vânzarea peștelui uscat. De asemenea, se cultivă legume în grădini mici. Infrastructura este limitată, cu un singur drum principal și fără aeroport. Transportul se face cu bărci tradiționale dhoni. Insula se confruntă cu eroziunea coastei și cu creșterea nivelului mării.",
-      en: "Kendhikulhudhoo is a populated island in Haa Alif Atoll, with a rich cultural heritage rooted in Islamic traditions. The island is known for its close-knit community, where social life centers around the local mosque and the weekly fish market. The islanders celebrate religious festivals such as Eid with communal prayers and feasts. The traditional music and dance, including bodu beru, are performed during special occasions. The island has a primary school that teaches both Dhivehi and English. Many residents are involved in boat building, a skill passed down through generations. The island's architecture features coral stone masonry, and fresh water is sourced from shallow wells.",
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 1.200 Einwohner (2022)", "Fläche: 0,5 km²", "Länge: 1,2 km", "Höchste Erhebung: 2 m über dem Meeresspiegel", "Gründung erster Siedlung: 16. Jahrhundert", "Entfernung zu Male: 300 km"],
-      hu: ["Lakosság: körülbelül 1200 fő (2022)", "Terület: 0,5 km²", "Hosszúság: 1,2 km", "Legmagasabb pont: 2 méter tengerszint felett", "Első település: 16. század", "Távolság Malétól: 300 km"],
-      ro: ["Populație: aproximativ 1.200 locuitori (2022)", "Suprafață: 0,5 km²", "Lungime: 1,2 km", "Altitudine maximă: 2 m deasupra nivelului mării", "Prima așezare: secolul al XVI-lea", "Distanță față de Male: 300 km"],
-      en: ["Population: approx. 1,200 (2022)", "Area: 0.5 km²", "Length: 1.2 km", "Highest elevation: 2 m above sea level", "First settlement: 16th century", "Distance from Male: 300 km"],
-    },
-  },
-  {
-    id: "maldives-maduvvari-cities-v2",
-    type: "village",
-    name: { de: "Maduvvari", hu: "Maduvvari", ro: "Maduvvari", en: "Maduvvari" },
-    coords: [72.915, 5.474],
-    description: {
-      de: "Eine dicht besiedelte Insel im Raa-Atoll, die für ihre starke Fischereitradition und ihr handwerkliches Geschick bekannt ist.",
-      hu: "Sűrűn lakott sziget a Raa-atollban, amely erős halászati hagyományairól és kézműves szaktudásáról ismert.",
-      ro: "O insulă dens populată din atolul Raa, cunoscută pentru tradiția puternică în pescuit și abilitățile meșteșugărești.",
-      en: "A densely populated island in Raa Atoll, known for its strong fishing tradition and skilled craftsmanship.",
-    },
-    facts: {
-      de: ["Bevölkerung von ca. 2.200 Personen", "Zentrum für den Bau von Fischerbooten", "Liegt am südwestlichen Rand des Atolls", "Bekannt für religiöse Gelehrsamkeit"],
-      hu: ["Körülbelül 2200 fős lakosság", "Halászhajó-építő központ", "Az atoll délnyugati szélén fekszik", "Vallási műveltségéről nevezetes"],
-      ro: ["Populație de aproximativ 2.200 persoane", "Centru pentru construcția de bărci", "Situată în sud-vestul atolului", "Cunoscută pentru educația religioasă"],
-      en: ["Population of around 2,200 people", "Hub for fishing boat construction", "Located on the southwestern tip of the atoll", "Known for its religious scholarship"],
-    },
-    imageHint: "Maduvvari island harbor Maldives",
-  },
-  {
-    id: "maldives-dharavandhoo-cities-v2",
-    type: "town",
-    name: { de: "Dharavandhoo", hu: "Dharavandhoo", ro: "Dharavandhoo", en: "Dharavandhoo" },
-    coords: [73.132, 5.156],
-    description: {
-      de: "Diese bewohnte Insel im Baa-Atoll beherbergt einen regionalen Flughafen und ist das Tor zur berühmten Hanifaru-Bucht.",
-      hu: "A Baa-atoll ezen lakott szigete regionális repülőtérrel rendelkezik, és a híres Hanifaru-öböl kapujaként szolgál.",
-      ro: "Această insulă locuită din atolul Baa găzduiește un aeroport regional și este poarta către faimosul golf Hanifaru.",
-      en: "This inhabited island in Baa Atoll hosts a regional airport and serves as the gateway to the famous Hanifaru Bay.",
-    },
-    facts: {
-      de: ["Inlandsflughafen 2012 eröffnet", "Zentrum des Baa-Atoll-Biosphärenreservats", "Wichtiger Standort für Gästehäuser", "Bevölkerung ca. 1.000 Einwohner"],
-      hu: ["2012-ben megnyitott belföldi repülőtér", "A Baa-atoll Bioszféra Rezervátum központja", "Fontos vendégház-központ", "Körülbelül 1000 lakos"],
-      ro: ["Aeroport intern deschis în 2012", "Centrul Rezervației Biosferei Baa", "Locație importantă pentru pensiuni", "Populație de aproximativ 1.000 locuitori"],
-      en: ["Domestic airport opened in 2012", "Hub for Baa Atoll Biosphere Reserve", "Key location for local guesthouses", "Population around 1,000 residents"],
-    },
-    imageHint: "Dharavandhoo airport and village Maldives",
-  },
-  {
-    id: "maldives-tulhaadhoo-cities-v2",
-    type: "village",
-    name: { de: "Tulhaadhoo", hu: "Tulhaadhoo", ro: "Tulhaadhoo", en: "Tulhaadhoo" },
-    coords: [72.836, 5.021],
-    description: {
-      de: "Tulhaadhoo im Baa-Atoll ist die einzige Insel der Malediven, auf der die traditionelle Lackkunst (Liyelaa Jehun) noch aktiv praktiziert wird.",
-      hu: "A Baa-atollban található Tulhaadhoo az egyetlen sziget a Maldív-szigeteken, ahol a hagyományos lakkfestést (Liyelaa Jehun) még ma is gyakorolják.",
-      ro: "Tulhaadhoo din atolul Baa este singura insulă din Maldive unde se mai practică activ arta tradițională a lacului (Liyelaa Jehun).",
-      en: "Tulhaadhoo in Baa Atoll is the only island in the Maldives where the traditional lacquer work (Liyelaa Jehun) is still actively practiced.",
-    },
-    facts: {
-      de: ["Einziges Zentrum für Lackwaren", "Bevölkerung von ca. 2.800 Personen", "Künstliche Landgewinnung abgeschlossen", "Bekannt für Kunsthandwerk"],
-      hu: ["A lakkozott termékek egyetlen központja", "Körülbelül 2800 fős lakosság", "Befejezett mesterséges területfeltöltés", "Kézművességéről nevezetes"],
-      ro: ["Singurul centru pentru obiecte lăcuite", "Populație de aproximativ 2.800 persoane", "Recuperare de teren finalizată", "Cunoscută pentru meșteșugurile artistice"],
-      en: ["Sole center for traditional lacquerware", "Population around 2,800 people", "Land reclamation project completed", "Renowned for artisanal crafts"],
-    },
-    imageHint: "Tulhaadhoo lacquer work craftsman Maldives",
-  },
-  {
-    id: "maldives-kurendhoo-cities-v2",
-    type: "village",
-    name: { de: "Kurendhoo", hu: "Kurendhoo", ro: "Kurendhoo", en: "Kurendhoo" },
-    coords: [73.465, 5.334],
-    description: {
-      de: "Eine historische Insel im Lhaviyani-Atoll, die für ihre enge Verbindung zum maledivischen Adel und bedeutende religiöse Stätten bekannt ist.",
-      hu: "A Lhaviyani-atoll történelmi szigete, amely a maldív nemességhez fűződő szoros kapcsolatairól és jelentős vallási helyszíneiről ismert.",
-      ro: "O insulă istorică din atolul Lhaviyani, cunoscută pentru legăturile strânse cu nobilimea maldiviană și siturile religioase importante.",
-      en: "A historical island in Lhaviyani Atoll, known for its close ties to Maldivian royalty and significant religious sites.",
-    },
-    facts: {
-      de: ["Heimat des berühmten Kurendhoo Thaaiba", "Bevölkerung von ca. 2.000 Einwohnern", "Bedeutende lokale Fischerei", "Historische Grabstätten vorhanden"],
-      hu: ["A híres Kurendhoo Thaaiba otthona", "Körülbelül 2000 lakos", "Jelentős helyi halászat", "Történelmi sírhelyek találhatók itt"],
-      ro: ["Căminul celebrului Kurendhoo Thaaiba", "Populație de aproximativ 2.000 locuitori", "Pescuit local semnificativ", "Găzduiește morminte istorice"],
-      en: ["Home of the famous Kurendhoo Thaaiba", "Population around 2,000 residents", "Significant local fishing sector", "Contains historical burial sites"],
-    },
-    imageHint: "Kurendhoo island mosque and village",
-  },
-  {
-    id: "maldives-himmafushi-cities-v2",
-    type: "village",
-    name: { de: "Himmafushi", hu: "Himmafushi", ro: "Himmafushi", en: "Himmafushi" },
-    coords: [73.571, 4.311],
-    description: {
-      de: "Eine beliebte Insel für lokales Surfen im Kaafu-Atoll, bekannt für ihre Kunsthandwerksläden und die Nähe zu Malé.",
-      hu: "Népszerű szörfparadicsom a Kaafu-atollban, amely kézműves boltjairól és Malé közelségéről ismert.",
-      ro: "O insulă populară pentru surf în atolul Kaafu, cunoscută pentru magazinele de artizanat și proximitatea față de Malé.",
-      en: "A popular local surfing island in Kaafu Atoll, known for its souvenir shops and proximity to the capital, Malé.",
-    },
-    facts: {
-      de: ["Bekannt für die Surfwelle 'Jailbreaks'", "Zentrum für Fischverarbeitung", "Über 1.300 Einwohner", "Häufiges Ziel für Tagesausflüge"],
-      hu: ["A 'Jailbreaks' szörfhullámról ismert", "Halfeldolgozó központ", "Több mint 1300 lakos", "Gyakori egynapos kirándulóhely"],
-      ro: ["Cunoscută pentru valul de surf 'Jailbreaks'", "Centru pentru prelucrarea peștelui", "Peste 1.300 de locuitori", "Destinație frecventă pentru excursii de o zi"],
-      en: ["Famous for the 'Jailbreaks' surf break", "Hub for dry fish processing", "Population over 1,300 people", "Common day-trip destination from Malé"],
-    },
-    imageHint: "Himmafushi village main street Maldives",
-  },
-  {
-    id: "maldives-gulhi-cities-v2",
-    type: "village",
-    name: { de: "Gulhi", hu: "Gulhi", ro: "Gulhi", en: "Gulhi" },
-    coords: [73.513, 3.988],
-    description: {
-      de: "Diese kleine Insel im südlichen Kaafu-Atoll ist berühmt für ihren wunderschönen öffentlichen Strand und die historische Schiffswerft.",
-      hu: "Ez a Kaafu-atoll déli részén található kis sziget gyönyörű nyilvános strandjáról és történelmi hajógyáráról híres.",
-      ro: "Această mică insulă din sudul atolului Kaafu este faimoasă pentru plaja sa publică superbă și șantierul naval istoric.",
-      en: "This small island in South Kaafu Atoll is famous for its beautiful public beach and historical boat-building shipyard.",
-    },
-    facts: {
-      de: ["Älteste Schiffswerft der Malediven", "Beliebtes Ziel für Guesthouse-Tourismus", "Bevölkerung ca. 900 Personen", "Sehr kleiner Inselfläche (ca. 0,2 km²)"],
-      hu: ["A Maldív-szigetek legrégebbi hajógyára", "Népszerű vendégházas turisztikai célpont", "Körülbelül 900 lakos", "Nagyon kicsi terület (kb. 0,2 km²)"],
-      ro: ["Cel mai vechi șantier naval din Maldive", "Destinație populară pentru turism local", "Populație de aproximativ 900 persoane", "Suprafață foarte mică (cca. 0,2 km²)"],
-      en: ["Oldest operational shipyard in Maldives", "Popular destination for local tourism", "Population around 900 people", "Very small land area (approx. 0.2 km²)"],
-    },
-    imageHint: "Gulhi island beach and village Maldives",
-  },
-  {
-    id: "maldives-mathiveri-cities-v2",
-    type: "village",
-    name: { de: "Mathiveri", hu: "Mathiveri", ro: "Mathiveri", en: "Mathiveri" },
-    coords: [72.744, 4.192],
-    description: {
-      de: "Eine charmante bewohnte Insel im Alif-Alif-Atoll, die für ihre authentische maledivische Atmosphäre und Sandbänke bekannt ist.",
-      hu: "Bájos lakott sziget az Alif Alif-atollban, amely autentikus maldív hangulatáról és homokpadjairól ismert.",
-      ro: "O insulă locuită fermecătoare din atolul Alif Alif, cunoscută pentru atmosfera sa maldiviană autentică și bancurile de nisip.",
-      en: "A charming inhabited island in Alif Alif Atoll, known for its authentic Maldivian atmosphere and nearby sandbanks.",
-    },
-    facts: {
-      de: ["Zentrum für lokalen Tourismus", "Bevölkerung von ca. 900 Einwohnern", "Bekannt für die nahegelegene Picknick-Insel", "Traditionelles Dorf-Layout"],
-      hu: ["A helyi turizmus központja", "Körülbelül 900 lakos", "A közeli piknik-szigetről ismert", "Hagyományos falusi alaprajz"],
-      ro: ["Centru pentru turismul local", "Populație de aproximativ 900 locuitori", "Cunoscută pentru insula de picnic din apropiere", "Dispunere tradițională a satului"],
-      en: ["Hub for local island tourism", "Population of around 900 residents", "Known for its nearby picnic island", "Preserves a traditional village layout"],
-    },
-    imageHint: "Mathiveri island village Maldives",
-  },
-  {
-    id: "maldives-feridhoo-cities-v2",
-    type: "village",
-    name: { de: "Feridhoo", hu: "Feridhoo", ro: "Feridhoo", en: "Feridhoo" },
-    coords: [72.723, 3.924],
-    description: {
-      de: "Bekannt als Geburtsort des traditionellen 'Bodu Beru' Tanzes, bietet diese Insel im Alif-Alif-Atoll tiefe kulturelle Einblicke.",
-      hu: "A hagyományos 'Bodu Beru' tánc szülőhelyeként ismert sziget az Alif Alif-atollban mély kulturális betekintést nyújt.",
-      ro: "Cunoscută ca locul de naștere al dansului tradițional 'Bodu Beru', această insulă din atolul Alif Alif oferă perspective culturale profunde.",
-      en: "Known as the birthplace of the traditional 'Bodu Beru' dance, this island in Alif Alif Atoll offers deep cultural insights.",
-    },
-    facts: {
-      de: ["Herkunftsort der Bodu Beru Musik", "Große Waldflächen auf der Insel", "Über 800 Einwohner", "Beliebt bei Kulturreisenden"],
-      hu: ["A Bodu Beru zene származási helye", "Nagy kiterjedésű erdők a szigeten", "Több mint 800 lakos", "Kulturális utazók kedvelt célpontja"],
-      ro: ["Originea muzicii Bodu Beru", "Zone împădurite extinse pe insulă", "Peste 800 de locuitori", "Populară printre turiștii culturali"],
-      en: ["Origin of the Bodu Beru music genre", "Features extensive forested areas", "Population exceeding 800 residents", "Popular with cultural tourists"],
-    },
-    imageHint: "Bodu Beru performance Feridhoo Maldives",
-  },
-  {
-    id: "maldives-diggaru-cities-v2",
-    type: "village",
-    name: { de: "Diggaru", hu: "Diggaru", ro: "Diggaru", en: "Diggaru" },
-    coords: [73.515, 3.111],
-    description: {
-      de: "Eine bedeutende Fischerinsel im Meemu-Atoll, die für ihre handgefertigten Produkte aus Meeresfrüchten und die Räucherfischproduktion bekannt ist.",
-      hu: "Jelentős halászsziget a Meemu-atollban, amely kézzel készített tengeri termékeiről és füstölt haláról ismert.",
-      ro: "O insulă importantă de pescari din atolul Meemu, cunoscută pentru produsele din fructe de mare artizanale și producția de pește afumat.",
-      en: "A significant fishing island in Meemu Atoll, famous for its artisanal seafood products and smoked fish production.",
-    },
-    facts: {
-      de: ["Zentrum für Räucherfisch ('Valhomas')", "Bevölkerung von ca. 1.200 Personen", "Künstlicher Wellenbrecher schützt die Insel", "Bekannt für kulinarische Spezialitäten"],
-      hu: ["A füstölt hal ('Valhomas') központja", "Körülbelül 1200 fős lakosság", "Mesterséges hullámtörő védi", "Gasztronómiai különlegességeiről nevezetes"],
-      ro: ["Centru pentru pește afumat ('Valhomas')", "Populație de aproximativ 1.200 persoane", "Protejată de un dig artificial", "Cunoscută pentru specialități culinare"],
-      en: ["Hub for smoked fish ('Valhomas')", "Population of around 1,200 people", "Protected by an artificial breakwater", "Famous for unique culinary specialties"],
-    },
-    imageHint: "Diggaru village fish processing Maldives",
-  },
-  {
-    id: "maldives-madifushi-cities-v2",
-    type: "village",
-    name: { de: "Madifushi", hu: "Madifushi", ro: "Madifushi", en: "Madifushi" },
-    coords: [73.344, 2.345],
-    description: {
-      de: "Diese Insel im Thaa-Atoll wurde nach dem Tsunami von 2004 komplett neu besiedelt und modernisiert wieder aufgebaut.",
-      hu: "Ezt a Thaa-atollban található szigetet a 2004-es szökőár után teljesen újratelepítették és modernizálva építették újjá.",
-      ro: "Această insulă din atolul Thaa a fost complet recolonizată și reconstruită în mod modern după tsunami-ul din 2004.",
-      en: "This island in Thaa Atoll was completely resettled and rebuilt with modern infrastructure following the 2004 tsunami.",
-    },
-    facts: {
-      de: ["Vom Tsunami 2004 schwer beschädigt", "Wiederaufbau mit moderner Infrastruktur", "Bevölkerung ca. 1.400 Einwohner", "Bedeutende Fischereiflotte"],
-      hu: ["A 2004-es tsunami súlyosan érintette", "Modern infrastruktúrával épült újjá", "Körülbelül 1400 lakos", "Jelentős halászflotta"],
-      ro: ["Grav afectată de tsunami-ul din 2004", "Reconstruită cu infrastructură modernă", "Populație de aproximativ 1.400 locuitori", "Flotă de pescuit semnificativă"],
-      en: ["Severely impacted by the 2004 tsunami", "Rebuilt as a modern resettlement site", "Population around 1,400 residents", "Features a significant fishing fleet"],
-    },
-    imageHint: "Madifushi island modern harbor Maldives",
-  },
-  {
-    id: "maldives-vilufushi-cities-v2",
-    type: "town",
-    name: { de: "Vilufushi", hu: "Vilufushi", ro: "Vilufushi", en: "Vilufushi" },
-    coords: [73.305, 2.353],
-    description: {
-      de: "Eine bedeutende Industriegemeinde im Thaa-Atoll, die nach massiver Landgewinnung als Vorbild für moderne Inselentwicklung gilt.",
-      hu: "Jelentős ipari közösség a Thaa-atollban, amely a nagyszabású területfeltöltés után a modern szigetfejlesztés modelljévé vált.",
-      ro: "O comunitate industrială importantă din atolul Thaa, considerată un model de dezvoltare modernă după recuperări masive de teren.",
-      en: "A major industrial community in Thaa Atoll, considered a model for modern island development after massive land reclamation.",
-    },
-    facts: {
-      de: ["Inselfläche durch Landgewinnung verdoppelt", "Bevölkerung von ca. 2.000 Personen", "Wichtiges Fischereizentrum", "Moderne Hafenanlagen"],
-      hu: ["A területfeltöltéssel megduplázták a méretét", "Körülbelül 2000 fős lakosság", "Fontos halászati központ", "Modern kikötői létesítmények"],
-      ro: ["Suprafață dublată prin recuperare de teren", "Populație de aproximativ 2.000 persoane", "Centru de pescuit important", "Instalații portuare moderne"],
-      en: ["Land area doubled via reclamation", "Population around 2,000 people", "Key center for commercial fishing", "State-of-the-art harbor facilities"],
-    },
-    imageHint: "Vilufushi aerial view reclaimed land Maldives",
-  },
-  {
-    id: "maldives-gemanafushi-cities-v2",
-    type: "town",
-    name: { de: "Gemanafushi", hu: "Gemanafushi", ro: "Gemanafushi", en: "Gemanafushi" },
-    coords: [73.394, 0.755],
-    description: {
-      de: "Eine wirtschaftlich aktive Insel im Gaafu-Alif-Atoll, bekannt für ihre erfolgreiche Gelbflossen-Thunfischfischerei.",
-      hu: "Gazdaságilag aktív sziget a Gaafu Alif-atollban, amely sikeres sárgaúszójú tonhalhalászatáról ismert.",
-      ro: "O insulă activă economic în atolul Gaafu Alif, cunoscută pentru pescuitul de ton cu înotătoare galbene.",
-      en: "An economically active island in Gaafu Alif Atoll, renowned for its successful yellowfin tuna fishing industry.",
-    },
-    facts: {
-      de: ["Führend im Thunfischfang der Region", "Bevölkerung ca. 1.800 Einwohner", "Moderne Fischverarbeitungsanlagen", "Liegt im Süden der Malediven"],
-      hu: ["A régió vezető tonhalhalászati központja", "Körülbelül 1800 lakos", "Modern halfeldolgozó üzemek", "A Maldív-szigetek déli részén található"],
-      ro: ["Lider în pescuitul de ton din regiune", "Populație de aproximativ 1.800 locuitori", "Instalații moderne de procesare", "Situată în sudul Maldivelor"],
-      en: ["Leader in regional tuna fishing", "Population around 1,800 residents", "Modern fish processing facilities", "Located in the southern Maldives"],
-    },
-    imageHint: "Gemanafushi fishing harbor Maldives",
-  },
-  {
-    id: "maldives-kanduhulhudhoo-cities-v2",
-    type: "village",
-    name: { de: "Kanduhulhudhoo", hu: "Kanduhulhudhoo", ro: "Kanduhulhudhoo", en: "Kanduhulhudhoo" },
-    coords: [73.444, 0.722],
-    description: {
-      de: "Diese Insel im Gaafu-Alif-Atoll ist für ihre ruhige Lage und die enge Gemeinschaft der Fischer bekannt.",
-      hu: "Ez a Gaafu Alif-atollban található sziget nyugodt elhelyezkedéséről és szoros halászközösségéről ismert.",
-      ro: "Această insulă din atolul Gaafu Alif este cunoscută pentru locația sa liniștită și comunitatea unită de pescari.",
-      en: "This island in Gaafu Alif Atoll is known for its serene location and its close-knit community of fishermen.",
-    },
-    facts: {
-      de: ["Fischerei als Haupteinnahmequelle", "Bevölkerung von ca. 600 Personen", "Traditionelle maledivische Lebensweise", "Klare Lagune für lokale Schnorchler"],
-      hu: ["A halászat a fő bevételi forrás", "Körülbelül 600 fős lakosság", "Hagyományos maldív életmód", "Tiszta lagúna a helyi sznorkelezőknek"],
-      ro: ["Pescuitul este sursa principală de venit", "Populație de aproximativ 600 persoane", "Stil de viață maldivian tradițional", "Lagună limpede pentru snorkelling"],
-      en: ["Fishing is the primary economic activity", "Population of around 600 people", "Maintains a traditional Maldivian lifestyle", "Features a crystal-clear lagoon"],
-    },
-    imageHint: "Kanduhulhudhoo village aerial view Maldives",
-  },
-  {
-    id: "maldives-gahdhoo-cities-v2",
-    type: "town",
-    name: { de: "Gahdhoo", hu: "Gahdhoo", ro: "Gahdhoo", en: "Gahdhoo" },
-    coords: [73.454, 0.288],
-    description: {
-      de: "Bekannt für die Herstellung der feinsten maledivischen Matten (Thundu Kunaa), ist Gahdhoo ein wichtiges kulturelles Zentrum im Süden.",
-      hu: "A legfinomabb maldív gyékények (Thundu Kunaa) készítéséről ismert Gahdhoo fontos kulturális központ délen.",
-      ro: "Cunoscută pentru fabricarea celor mai fine rogojini maldiviene (Thundu Kunaa), Gahdhoo este un centru cultural important din sud.",
-      en: "Famous for the production of the finest Maldivian mats (Thundu Kunaa), Gahdhoo is a key cultural hub in the southern atolls.",
-    },
-    facts: {
-      de: ["Zentrum der Thundu Kunaa Weberei", "Bevölkerung von ca. 3.000 Personen", "Bekannt für exzellente Surfmöglichkeiten", "Eigene dialektale Besonderheiten"],
-      hu: ["A Thundu Kunaa szövés központja", "Körülbelül 3000 fős lakosság", "Kiváló szörfözési lehetőségeiről ismert", "Sajátos helyi nyelvjárás"],
-      ro: ["Centrul țesăturilor Thundu Kunaa", "Populație de aproximativ 3.000 persoane", "Cunoscută pentru oportunități de surf", "Posedă particularități dialectale"],
-      en: ["Hub for traditional Thundu Kunaa weaving", "Population around 3,000 residents", "Nearby world-class surfing breaks", "Features a distinct local dialect"],
-    },
-    imageHint: "Thundu Kunaa mat weaving Gahdhoo Maldives",
-  },
-  {
-    id: "maldives-maradhoo-cities-v2",
-    type: "town",
-    name: { de: "Maradhoo", hu: "Maradhoo", ro: "Maradhoo", en: "Maradhoo" },
-    coords: [73.116, -0.642],
-    description: {
-      de: "Ein integraler Teil von Addu City, bekannt für seinen geschäftigen Hafen und die enge Verbindung zur maritimen Geschichte des Atolls.",
-      hu: "Addu City szerves része, amely forgalmas kikötőjéről és az atoll tengerészeti múltjához fűződő szoros kapcsolatairól ismert.",
-      ro: "O parte integrantă a orașului Addu City, cunoscută pentru portul său aglomerat și legăturile strânse cu istoria maritimă.",
-      en: "An integral part of Addu City, known for its busy harbor and its close connection to the maritime history of the atoll.",
-    },
-    facts: {
-      de: ["Bevölkerung von ca. 3.500 Einwohnern", "Wichtiger Fischereiknotenpunkt", "Durch Dämme mit Nachbarinseln verbunden", "Ehemaliges Logistikzentrum"],
-      hu: ["Körülbelül 3500 lakos", "Fontos halászati csomópont", "Töltésutak kötik össze a szomszédaival", "Korábbi logisztikai központ"],
-      ro: ["Populație de aproximativ 3.500 locuitori", "Nod important pentru pescuit", "Conectată prin diguri de insulele vecine", "Fost centru logistic"],
-      en: ["Population around 3,500 residents", "Major regional fishing hub", "Connected via causeway to other islands", "Former logistical support center"],
-    },
-    imageHint: "Maradhoo harbor Addu Atoll Maldives",
-  },
-  {
-    id: "maldives-feydhoo-cities-v2",
-    type: "town",
-    name: { de: "Feydhoo", hu: "Feydhoo", ro: "Feydhoo", en: "Feydhoo" },
-    coords: [73.136, -0.684],
-    description: {
-      de: "Diese Insel im Addu-Atoll beherbergt die Bewohner, die ursprünglich von der Insel Gan umgesiedelt wurden, als dort der britische Stützpunkt entstand.",
-      hu: "Ez az Addu-atollban található sziget ad otthont azoknak a lakóknak, akiket Gan szigetéről telepítettek át a brit támaszpont építésekor.",
-      ro: "Această insulă din atolul Addu găzduiește locuitorii care au fost strămutați de pe insula Gan când a fost construită baza britanică.",
-      en: "This island in Addu Atoll houses the residents who were originally relocated from Gan when the British airbase was established.",
-    },
-    facts: {
-      de: ["Umgesiedelte Bevölkerung von Gan (1950er)", "Über 3.000 Einwohner", "Direkte Verbindung zum Flughafen Gan", "Starke Gemeinschaftstraditionen"],
-      hu: ["Gan szigetéről áttelepített lakosság (1950-es évek)", "Több mint 3000 lakos", "Közvetlen kapcsolat a Gan repülőtérrel", "Erős közösségi hagyományok"],
-      ro: ["Populație strămutată de pe Gan (anii 1950)", "Peste 3.000 de locuitori", "Conexiune directă cu aeroportul Gan", "Tradiții comunitare puternice"],
-      en: ["Residents relocated from Gan in the 1950s", "Population exceeding 3,000", "Directly connected to Gan International Airport", "Known for strong community bonds"],
-    },
-    imageHint: "Feydhoo residential streets Addu Maldives",
-  },
-  {
-    id: "maldives-hulhudhoo-cities-v2",
-    type: "town",
-    name: { de: "Hulhudhoo", hu: "Hulhudhoo", ro: "Hulhudhoo", en: "Hulhudhoo" },
-    coords: [73.232, -0.588],
-    description: {
-      de: "Hulhudhoo ist eine der bewohnten Inseln im Osten des Addu-Atolls und teilt sich eine Landmasse mit der Insel Meedhoo.",
-      hu: "Hulhudhoo az Addu-atoll keleti felének egyik lakott szigete, amely egy szárazföldön osztozik Meedhoo szigetével.",
-      ro: "Hulhudhoo este una dintre insulele locuite din estul atolului Addu, împărțind aceeași masă terestră cu insula Meedhoo.",
-      en: "Hulhudhoo is one of the inhabited islands on the eastern fringe of Addu Atoll, sharing a single landmass with the island of Meedhoo.",
-    },
-    facts: {
-      de: ["Teil der größten Doppelinsel im Atoll", "Bevölkerung von ca. 1.500 Personen", "Bekannt für landwirtschaftliche Produkte", "Besitzt historische Moscheen"],
-      hu: ["Az atoll legnagyobb ikerszigetének része", "Körülbelül 1500 fős lakosság", "Mezőgazdasági termékeiről ismert", "Történelmi mecsetekkel rendelkezik"],
-      ro: ["Parte a celei mai mari insule duble din atol", "Populație de aproximativ 1.500 persoane", "Cunoscută pentru produse agricole", "Găzduiește moschei istorice"],
-      en: ["Part of the largest double-island in the atoll", "Population of approximately 1,500", "Known for local agricultural produce", "Features several historical mosques"],
-    },
-    imageHint: "Hulhudhoo village aerial view Addu",
-  },
-  {
-    id: "maldives-maamigili-cities-v2",
-    type: "town",
-    name: { de: "Maamigili", hu: "Maamigili", ro: "Maamigili", en: "Maamigili" },
-    coords: [72.839, 3.477],
-    description: {
-      de: "Eine strategisch wichtige Insel im Süd-Ari-Atoll, die für ihren Flughafen und als Zentrum für Walhai-Beobachtungen bekannt ist.",
-      hu: "Stratégiailag fontos sziget a Dél-Ari-atollban, amely repülőteréről és a cetcápa-megfigyelések központjaként ismert.",
-      ro: "O insulă strategică în atolul Ari Sud, cunoscută pentru aeroportul său și ca centru pentru observarea rechini-balenă.",
-      en: "A strategically important island in South Ari Atoll, known for its airport and as a hub for whale shark excursions.",
-    },
-    facts: {
-      de: ["Villa International Airport Maamigili", "Über 2.300 Einwohner", "Wichtiger Standort für Tauchtourismus", "Häufiger Sichtungsort für Walhaie"],
-      hu: ["Villa Nemzetközi Repülőtér Maamigili", "Több mint 2300 lakos", "Fontos búvárturisztikai központ", "Cetcápák gyakori észlelési helye"],
-      ro: ["Aeroportul Internațional Villa Maamigili", "Peste 2.300 de locuitori", "Locație importantă pentru scufundări", "Punct frecvent de observare a rechini-balenă"],
-      en: ["Villa International Airport Maamigili", "Population of over 2,300 people", "Major hub for dive tourism", "Frequent sighting point for whale sharks"],
-    },
-    imageHint: "Maamigili airport and harbor Maldives",
-  },
-  {
-    id: "maldives-dhangethi-cities-v2",
-    type: "village",
-    name: { de: "Dhangethi", hu: "Dhangethi", ro: "Dhangethi", en: "Dhangethi" },
-    coords: [72.955, 3.606],
-    description: {
-      de: "Eine bewohnte Insel im Süd-Ari-Atoll, die für ihre florierende Guesthouse-Szene und das traditionelle maledivische Handwerk bekannt ist.",
-      hu: "Lakott sziget a Dél-Ari-atollban, amely virágzó vendégház-turizmusáról és hagyományos maldív kézművességéről ismert.",
-      ro: "O insulă locuită din atolul Ari Sud, cunoscută pentru turismul local înfloritor și meșteșugurile tradiționale maldiviene.",
-      en: "An inhabited island in South Ari Atoll, known for its thriving guesthouse industry and traditional Maldivian handicrafts.",
-    },
-    facts: {
-      de: ["Bedeutendes Zentrum für Souvenir-Handwerk", "Bevölkerung von ca. 1.200 Einwohnern", "Berühmt für die 'Dhangethi-Legende'", "Viele Tauchschulen vor Ort"],
-      hu: ["Jelentős ajándéktárgy-készítő központ", "Körülbelül 1200 lakos", "A 'Dhangethi-legenda' szülőhelye", "Számos búváriskola található itt"],
-      ro: ["Centru important pentru artizanat", "Populație de aproximativ 1.200 locuitori", "Faimoasă pentru 'Legenda Dhangethi'", "Numeroase școli de scufundări"],
-      en: ["Major center for local souvenir crafts", "Population of around 1,200 residents", "Famous for the folklore 'Dhangethi Legend'", "Hosts multiple scuba diving centers"],
-    },
-    imageHint: "Dhangethi village and tourist shops Maldives",
-  },
-  {
-    id: "maldives-keyodhoo-cities-v2",
-    type: "village",
-    name: { de: "Keyodhoo", hu: "Keyodhoo", ro: "Keyodhoo", en: "Keyodhoo" },
-    coords: [73.548, 3.465],
-    description: {
-      de: "Diese Insel im Vaavu-Atoll ist für ihre außergewöhnliche Fischerei-Community und das malerische Schiffswrack in der Nähe bekannt.",
-      hu: "Ez a Vaavu-atollban található sziget kiváló halászközösségéről és a közeli festői hajóroncsról ismert.",
-      ro: "Această insulă din atolul Vaavu este cunoscută pentru comunitatea sa de pescari și epava pitorească din apropiere.",
-      en: "This island in Vaavu Atoll is known for its exceptional fishing community and the nearby picturesque shipwreck.",
-    },
-    facts: {
-      de: ["Führend im lokalen Hochseeangeln", "Bevölkerung ca. 800 Personen", "Bekannt für das schiefe Schiffswrack", "Kleinstes Atoll-Verwaltungszentrum"],
-      hu: ["Vezető szerep a mélytengeri horgászatban", "Körülbelül 800 fős lakosság", "A ferde hajóroncsról nevezetes", "A legkisebb atoll-közigazgatási központ"],
-      ro: ["Lider în pescuitul la mare adâncime", "Populație de aproximativ 800 persoane", "Cunoscută pentru epava înclinată", "Cel mai mic centru administrativ de atol"],
-      en: ["Leader in local deep-sea fishing", "Population of around 800 people", "Famous for the nearby leaning shipwreck", "Smallest atoll administrative center"],
-    },
-    imageHint: "Keyodhoo island harbor and fishing boats",
-    descriptionAdvanced: {
-      de: "Keyodhoo ist eine bewohnte Insel im Vaavu-Atoll der Malediven. Die Insel erstreckt sich über eine Fläche von etwa 0,25 km² und beherbergt rund 1.000 Einwohner, die hauptsächlich vom Fischfang und der Landwirtschaft leben. Die Insel verfügt über eine Grundschule, eine Gesundheitsstation und eine kleine Moschee. Der Tourismus spielt eine untergeordnete Rolle, obwohl die umliegenden Riffe für Tauchausflüge genutzt werden. Die Verwaltung gehört zum Vaavu-Atoll, das für seine unberührte Natur bekannt ist.",
-      hu: "Keyodhoo a Vaavu-atoll egyik lakott szigete a Maldív-szigeteken. A sziget területe körülbelül 0,25 km², lakossága hozzávetőleg 1000 fő, akik főként halászatból és mezőgazdaságból élnek. A szigeten egy általános iskola, egy egészségügyi állomás és egy kis mecset található. A turizmus kevésbé jelentős, bár a környező zátonyokat búvárkodásra használják. A sziget a Vaavu-atoll része, amely érintetlen természeti környezetéről ismert.",
-      ro: "Keyodhoo este o insulă locuită din atolul Vaavu din Maldive. Insula se întinde pe o suprafață de aproximativ 0,25 km² și găzduiește în jur de 1.000 de locuitori, care trăiesc în principal din pescuit și agricultură. Pe insulă se află o școală primară, un post de sănătate și o moschee mică. Turismul joacă un rol minor, deși recifele din jur sunt folosite pentru scufundări. Administrativ, face parte din atolul Vaavu, cunoscut pentru natura sa neatinsă.",
-      en: "Keyodhoo is an inhabited island in Vaavu Atoll, Maldives. Covering an area of approximately 0.25 km², it houses around 1,000 residents who primarily rely on fishing and subsistence agriculture. The island has a primary school, a health post, and a small mosque. Tourism is minimal, though the surrounding reefs attract occasional diving excursions. Administratively, it belongs to Vaavu Atoll, noted for its pristine environment and limited development.",
-    },
-    factsAdvanced: {
-      de: ["Fläche: 0,25 km²", "Einwohnerzahl: ca. 1.000", "Höhe über dem Meeresspiegel: durchschnittlich 1,5 m", "Entfernung nach Malé: etwa 80 km", "Anzahl der Inseln im Vaavu-Atoll: 19", "Hauptwirtschaftszweig: Fischfang"],
-      hu: ["Terület: 0,25 km²", "Lakosság: kb. 1000 fő", "Tengerszint feletti magasság: átlagosan 1,5 m", "Távolság Malétól: kb. 80 km", "Vaavu-atoll szigeteinek száma: 19", "Fő gazdasági ág: halászat"],
-      ro: ["Suprafață: 0,25 km²", "Populație: aproximativ 1.000 de locuitori", "Altitudine medie: 1,5 m deasupra nivelului mării", "Distanță până la Malé: aproximativ 80 km", "Număr de insule în atolul Vaavu: 19", "Principala activitate economică: pescuitul"],
-      en: ["Area: 0.25 km²", "Population: approx. 1,000", "Average elevation: 1.5 m above sea level", "Distance from Malé: about 80 km", "Number of islands in Vaavu Atoll: 19", "Main economic activity: fishing"],
-    },
-  },
-  {
-    id: "maldives-faresmaathoda-cities-v2",
-    type: "town",
-    name: { de: "Faresmaathoda", hu: "Faresmaathoda", ro: "Faresmaathoda", en: "Faresmaathoda" },
-    coords: [73.125, 0.235],
-    description: {
-      de: "Eine neuere Stadt im Gaafu-Dhaalu-Atoll, entstanden durch die Zusammenlegung zweier Inseln, mit einem eigenen Inlandsflughafen.",
-      hu: "Egy újabb város a Gaafu Dhaalu-atollban, amely két sziget összevonásával jött létre, és saját belföldi repülőtérrel rendelkezik.",
-      ro: "Un oraș recent din atolul Gaafu Dhaalu, format prin fuziunea a două insule, dispunând de propriul aeroport intern.",
-      en: "A relatively new town in Gaafu Dhaalu Atoll, formed by merging two islands, and featuring its own domestic airport.",
-    },
-    facts: {
-      de: ["Flughafen Faresmaathoda 2023 eröffnet", "Zusammenschluss von Fares und Maathoda", "Bevölkerung ca. 1.600 Einwohner", "Wichtiger Fischereistandort im Süden"],
-      hu: ["2023-ban megnyitott repülőtér", "Fares és Maathoda egyesülésével jött létre", "Körülbelül 1600 lakos", "Fontos déli halászati központ"],
-      ro: ["Aeroport deschis în 2023", "Format prin unirea insulelor Fares și Maathoda", "Populație de aproximativ 1.600 locuitori", "Centru important de pescuit în sud"],
-      en: ["Faresmaathoda Airport opened in 2023", "Merged from Fares and Maathoda islands", "Population of around 1,600 residents", "Key regional hub for the fishing industry"],
-    },
-    imageHint: "Faresmaathoda airport and causeway Maldives",
-    descriptionAdvanced: {
-      de: "Faresmaathoda ist eine Insel im Laamu-Atoll der Malediven. Mit einer Fläche von rund 0,3 km² beherbergt sie etwa 1.200 Einwohner. Die Insel ist bekannt für ihre traditionelle Fischerei und den Anbau von Kokospalmen. Sie verfügt über eine Schule, ein Krankenhaus und einen kleinen Hafen. Der Tourismus ist begrenzt, aber die umliegenden Korallenriffe bieten gute Schnorchelmöglichkeiten. Faresmaathoda ist durch regelmäßige Fährverbindungen mit der Atollhauptstadt verbunden.",
-      hu: "Faresmaathoda a Laamu-atoll egyik szigete a Maldív-szigeteken. Területe körülbelül 0,3 km², lakossága hozzávetőleg 1200 fő. A sziget híres a hagyományos halászatról és a kókuszpálma-termesztésről. Iskolával, kórházzal és egy kis kikötővel rendelkezik. A turizmus korlátozott, de a környező korallzátonyok jó búvárkodási lehetőségeket kínálnak. Faresmaathoda rendszeres kompjárattal kapcsolódik az atoll székhelyéhez.",
-      ro: "Faresmaathoda este o insulă din atolul Laamu din Maldive. Cu o suprafață de aproximativ 0,3 km², are aproximativ 1.200 de locuitori. Insula este cunoscută pentru pescuitul tradițional și cultivarea nucilor de cocos. Dispune de o școală, un spital și un mic port. Turismul este limitat, dar recifele de corali din jur oferă oportunități bune de snorkeling. Faresmaathoda este conectată prin feribot regulat cu capitala atolului.",
-      en: "Faresmaathoda is an island in Laamu Atoll, Maldives. Covering approximately 0.3 km², it has around 1,200 inhabitants. The island is known for traditional fishing and coconut palm cultivation. It has a school, a hospital, and a small harbor. Tourism is limited, but the surrounding coral reefs offer good snorkeling. Faresmaathoda is connected by regular ferry to the atoll capital.",
-    },
-    factsAdvanced: {
-      de: ["Fläche: 0,3 km²", "Einwohnerzahl: ca. 1.200", "Anzahl der Schulen: 1", "Anzahl der Gesundheitseinrichtungen: 1", "Höhe: bis zu 2 m über dem Meeresspiegel", "Hauptexport: getrockneter Fisch"],
-      hu: ["Terület: 0,3 km²", "Lakosság: kb. 1200 fő", "Iskolák száma: 1", "Egészségügyi intézmények száma: 1", "Tengerszint feletti magasság: legfeljebb 2 m", "Fő exportcikk: szárított hal"],
-      ro: ["Suprafață: 0,3 km²", "Populație: aproximativ 1.200 de locuitori", "Număr de școli: 1", "Număr de unități medicale: 1", "Altitudine maximă: 2 m deasupra nivelului mării", "Principalul export: pește uscat"],
-      en: ["Area: 0.3 km²", "Population: approx. 1,200", "Number of schools: 1", "Number of health facilities: 1", "Maximum elevation: 2 m above sea level", "Main export: dried fish"],
-    },
+    }
   }
 ];

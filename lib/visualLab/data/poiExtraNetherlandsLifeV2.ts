@@ -4,7 +4,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-nationaal-park-duinen-van-texel-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-NH",
     name: { de: "Nationalpark Duinen van Texel", hu: "Duinen van Texel Nemzeti Park", ro: "Parcul Național Duinen van Texel", en: "Duinen van Texel National Park" },
     coords: [4.8, 53.0833],
     description: {
@@ -36,7 +36,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-artis-amsterdam-royal-zoo-life-v2",
     type: "wildlife",
-    parent: "NL",
+    parent: "NL-NH",
     name: { de: "Artis Amsterdam Royal Zoo", hu: "Artis Amsterdam Királyi Állatkert", ro: "Grădina Zoologică Regală Artis Amsterdam", en: "Artis Amsterdam Royal Zoo" },
     coords: [4.9139, 52.3667],
     description: {
@@ -68,7 +68,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-rotterdam-blijdorp-zoo-life-v2",
     type: "wildlife",
-    parent: "NL",
+    parent: "NL-ZH",
     name: { de: "Diergaarde Blijdorp", hu: "Diergaarde Blijdorp", ro: "Grădina Zoologică Blijdorp", en: "Diergaarde Blijdorp" },
     coords: [4.4564, 51.9328],
     description: {
@@ -100,7 +100,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-hortus-botanicus-leiden-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-ZH",
     name: { de: "Hortus Botanicus Leiden", hu: "Hortus Botanicus Leiden", ro: "Hortus Botanicus Leiden", en: "Hortus Botanicus Leiden" },
     coords: [4.4861, 52.1583],
     description: {
@@ -132,7 +132,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-nationaal-park-drentsche-aa-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-GR",
     name: { de: "Nationalpark Drentsche Aa", hu: "Drentsche Aa Nemzeti Park", ro: "Parcul Național Drentsche Aa", en: "Drentsche Aa National Park" },
     coords: [6.6667, 53.05],
     description: {
@@ -164,7 +164,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-burgers-zoo-arnhem-life-v2",
     type: "wildlife",
-    parent: "NL",
+    parent: "NL-GE",
     name: { de: "Burgers' Zoo", hu: "Burgers' Állatkert", ro: "Grădina Zoologică Burgers'", en: "Burgers' Zoo" },
     coords: [5.9167, 52.0167],
     description: {
@@ -196,7 +196,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-utrecht-botanical-gardens-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-UT",
     name: { de: "Botanische Gärten Utrecht", hu: "Utrechti Botanikus Kertek", ro: "Grădinile Botanice din Utrecht", en: "Utrecht Botanical Gardens" },
     coords: [5.1667, 52.0833],
     description: {
@@ -228,7 +228,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-nationaal-park-nieuwer-land-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-FL",
     name: { de: "Nationalpark Nieuw Land", hu: "Nieuw Land Nemzeti Park", ro: "Parcul Național Nieuw Land", en: "Nieuw Land National Park" },
     coords: [5.3833, 52.45],
     description: {
@@ -260,7 +260,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-wildlands-adventure-zoo-emmen-life-v2",
     type: "wildlife",
-    parent: "NL",
+    parent: "NL-DR",
     name: { de: "Wildlands Adventure Zoo Emmen", hu: "Wildlands Adventure Zoo Emmen", ro: "Grădina Zoologică Wildlands Adventure Emmen", en: "Wildlands Adventure Zoo Emmen" },
     coords: [6.8833, 52.7833],
     description: {
@@ -292,7 +292,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-oude-geulvallei-life-v2",
     type: "valley",
-    parent: "NL",
+    parent: "NL-LI",
     name: { de: "Geuldal", hu: "Geuldal", ro: "Valea Geul", en: "Geul Valley" },
     coords: [5.8, 50.85],
     description: {
@@ -324,7 +324,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-hortus-botanicus-amsterdam-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-NH",
     name: { de: "Hortus Botanicus Amsterdam", hu: "Hortus Botanicus Amszterdam", ro: "Grădina Botanică din Amsterdam", en: "Hortus Botanicus Amsterdam" },
     coords: [4.9056, 52.3644],
     description: {
@@ -356,7 +356,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-nationaal-park-uilenhorst-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-GE",
     name: { de: "Nationalpark De Uilenhorst", hu: "De Uilenhorst Nemzeti Park", ro: "Parcul Național De Uilenhorst", en: "De Uilenhorst National Park" },
     coords: [5.95, 52.05],
     description: {
@@ -388,7 +388,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-arkemheen-polder-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-FL",
     name: { de: "Polder Arkemheen", hu: "Arkemheen Polder", ro: "Polderul Arkemheen", en: "Arkemheen Polder" },
     coords: [5.4333, 52.25],
     description: {
@@ -420,7 +420,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-nationaal-park-oosterschelde-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-ZE",
     name: { de: "Nationalpark Oosterschelde", hu: "Oosterschelde Nemzeti Park", ro: "Parcul Național Oosterschelde", en: "Oosterschelde National Park" },
     coords: [4.0, 51.55],
     description: {
@@ -452,7 +452,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-botanical-garden-rotterdam-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-ZH",
     name: { de: "Botanischer Garten Arboretum Trompenburg", hu: "Arboretum Trompenburg Botanikus Kert", ro: "Grădina Botanică Arboretum Trompenburg", en: "Arboretum Trompenburg" },
     coords: [4.5167, 51.9056],
     description: {
@@ -484,7 +484,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-nationaal-park-maasduinen-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-GE",
     name: { de: "Nationalpark De Maasduinen", hu: "De Maasduinen Nemzeti Park", ro: "Parcul Național De Maasduinen", en: "De Maasduinen National Park" },
     coords: [6.0833, 51.6333],
     description: {
@@ -516,7 +516,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-nationaal-park-sallandse-heuvelrug-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-OV",
     name: { de: "Nationalpark Sallandse Heuvelrug", hu: "Sallandse Heuvelrug Nemzeti Park", ro: "Parcul Național Sallandse Heuvelrug", en: "Sallandse Heuvelrug National Park" },
     coords: [6.45, 52.3667],
     description: {
@@ -548,7 +548,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-de-hoge-veluwe-wildlife-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-GE",
     name: { de: "Nationalpark De Hoge Veluwe", hu: "De Hoge Veluwe Nemzeti Park", ro: "Parcul Național De Hoge Veluwe", en: "De Hoge Veluwe National Park" },
     coords: [5.8167, 52.0833],
     description: {
@@ -580,7 +580,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-zwin-nature-reserve-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-ZE",
     name: { de: "Naturschutzgebiet Zwin", hu: "Zwin Természetvédelmi Terület", ro: "Rezervația Naturală Zwin", en: "Zwin Nature Reserve" },
     coords: [3.35, 51.3667],
     description: {
@@ -612,7 +612,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-nationaal-park-lauwersmeer-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-FR",
     name: { de: "Nationalpark Lauwersmeer", hu: "Lauwersmeer Nemzeti Park", ro: "Parcul Național Lauwersmeer", en: "Lauwersmeer National Park" },
     coords: [6.2, 53.35],
     description: {
@@ -644,7 +644,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-botanic-garden-delft-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-ZH",
     name: { de: "Botanischer Garten TU Delft", hu: "TU Delft Botanikus Kert", ro: "Grădina Botanică TU Delft", en: "TU Delft Botanical Garden" },
     coords: [4.3667, 52.0083],
     description: {
@@ -676,7 +676,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-nationaal-park-weerribben-wieden-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-FR",
     name: { de: "Nationalpark Weerribben-Wieden", hu: "Weerribben-Wieden Nemzeti Park", ro: "Parcul Național Weerribben-Wieden", en: "Weerribben-Wieden National Park" },
     coords: [5.95, 52.75],
     description: {
@@ -708,7 +708,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-nationaal-park-dwingelderveld-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-DR",
     name: { de: "Nationalpark Dwingelderveld", hu: "Dwingelderveld Nemzeti Park", ro: "Parcul Național Dwingelderveld", en: "Dwingelderveld National Park" },
     coords: [6.3833, 52.8167],
     description: {
@@ -740,7 +740,7 @@ export const netherlandsLifeV2: POI[] = [
   {
     id: "netherlands-botanic-garden-groningen-life-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-GR",
     name: { de: "Botanischer Garten Haren", hu: "Haren Botanikus Kert", ro: "Grădina Botanică Haren", en: "Hortus Haren" },
     coords: [6.6, 53.1667],
     description: {

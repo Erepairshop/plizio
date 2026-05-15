@@ -4,7 +4,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-paderborn-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-NW",
     name: { de: "Paderborn", hu: "Paderborn", ro: "Paderborn", en: "Paderborn" },
     coords: [8.7547, 51.719],
     description: {
@@ -36,7 +36,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-reutlingen-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-BW",
     name: { de: "Reutlingen", hu: "Reutlingen", ro: "Reutlingen", en: "Reutlingen" },
     coords: [9.2148, 48.4917],
     description: {
@@ -68,7 +68,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-plauen-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-TH",
     name: { de: "Plauen", hu: "Plauen", ro: "Plauen", en: "Plauen" },
     coords: [12.1383, 50.4958],
     description: {
@@ -100,7 +100,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-brandenburg-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-BB",
     name: { de: "Brandenburg an der Havel", hu: "Brandenburg an der Havel", ro: "Brandenburg an der Havel", en: "Brandenburg an der Havel" },
     coords: [12.55, 52.41],
     description: {
@@ -132,7 +132,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-hof-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-TH",
     name: { de: "Hof", hu: "Hof", ro: "Hof", en: "Hof" },
     coords: [11.9167, 50.3167],
     description: {
@@ -164,7 +164,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-bottrop-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-NW",
     name: { de: "Bottrop", hu: "Bottrop", ro: "Bottrop", en: "Bottrop" },
     coords: [6.92, 51.52],
     description: {
@@ -196,7 +196,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-fulda-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-HE",
     name: { de: "Fulda", hu: "Fulda", ro: "Fulda", en: "Fulda" },
     coords: [9.67, 50.55],
     description: {
@@ -228,7 +228,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-speyer-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-HE",
     name: { de: "Speyer", hu: "Speyer", ro: "Speyer", en: "Speyer" },
     coords: [8.433, 49.317],
     description: {
@@ -260,7 +260,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-bamberg-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-TH",
     name: { de: "Bamberg", hu: "Bamberg", ro: "Bamberg", en: "Bamberg" },
     coords: [10.9025, 49.8989],
     description: {
@@ -292,7 +292,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-solingen-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-NW",
     name: { de: "Solingen", hu: "Solingen", ro: "Solingen", en: "Solingen" },
     coords: [7.08, 51.17],
     description: {
@@ -324,7 +324,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-siegen-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-NW",
     name: { de: "Siegen", hu: "Siegen", ro: "Siegen", en: "Siegen" },
     coords: [8.02, 50.87],
     description: {
@@ -356,7 +356,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-cuxhaven-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-HB",
     name: { de: "Cuxhaven", hu: "Cuxhaven", ro: "Cuxhaven", en: "Cuxhaven" },
     coords: [8.69, 53.85],
     description: {
@@ -388,7 +388,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-cloppenburg-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-HB",
     name: { de: "Cloppenburg", hu: "Cloppenburg", ro: "Cloppenburg", en: "Cloppenburg" },
     coords: [8.05, 52.85],
     description: {
@@ -420,7 +420,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-emden-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-HB",
     name: { de: "Emden", hu: "Emden", ro: "Emden", en: "Emden" },
     coords: [7.2, 53.36],
     description: {
@@ -452,7 +452,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-meissen-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-SN",
     name: { de: "Meißen", hu: "Meißen", ro: "Meißen", en: "Meißen" },
     coords: [13.47, 51.16],
     description: {
@@ -484,7 +484,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-baden-baden-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-BW",
     name: { de: "Baden-Baden", hu: "Baden-Baden", ro: "Baden-Baden", en: "Baden-Baden" },
     coords: [8.24, 48.76],
     description: {
@@ -516,7 +516,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-arnsberg-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-NW",
     name: { de: "Arnsberg", hu: "Arnsberg", ro: "Arnsberg", en: "Arnsberg" },
     coords: [8.06, 51.4],
     description: {
@@ -548,7 +548,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-speyer-2-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-NW",
     name: { de: "Dormagen", hu: "Dormagen", ro: "Dormagen", en: "Dormagen" },
     coords: [6.83, 51.1],
     description: {
@@ -580,7 +580,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-landshut-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-BY",
     name: { de: "Landshut", hu: "Landshut", ro: "Landshut", en: "Landshut" },
     coords: [12.15, 48.53],
     description: {
@@ -612,7 +612,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-offenburg-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-SL",
     name: { de: "Offenburg", hu: "Offenburg", ro: "Offenburg", en: "Offenburg" },
     coords: [7.94, 48.47],
     description: {
@@ -644,7 +644,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-arnsberg-2-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-NW",
     name: { de: "Velbert", hu: "Velbert", ro: "Velbert", en: "Velbert" },
     coords: [7.04, 51.34],
     description: {
@@ -676,7 +676,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-ludenscheid-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-NW",
     name: { de: "Lüdenscheid", hu: "Lüdenscheid", ro: "Lüdenscheid", en: "Lüdenscheid" },
     coords: [7.63, 51.21],
     description: {
@@ -708,7 +708,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-dinslaken-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-NW",
     name: { de: "Dinslaken", hu: "Dinslaken", ro: "Dinslaken", en: "Dinslaken" },
     coords: [6.73, 51.56],
     description: {
@@ -740,7 +740,7 @@ export const germanyCitiesV2: POI[] = [
   {
     id: "germany-ratingen-cities-v2",
     type: "city",
-    parent: "DE",
+    parent: "DE-NW",
     name: { de: "Ratingen", hu: "Ratingen", ro: "Ratingen", en: "Ratingen" },
     coords: [6.85, 51.3],
     description: {

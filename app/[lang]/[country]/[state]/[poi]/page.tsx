@@ -267,11 +267,9 @@ export default async function PoiPage({
           );
         })()}
 
-        {/* SEO dwell components — disabled to fix RangeError, will re-enable
-            after isolating the recursive component. */}
-        {/* <PoiDidYouKnow poi={poi} lang={resolved.lang as Lang} nextHref={nextHref} /> */}
-        {/* <PoiGameCta poi={poi} lang={resolved.lang as Lang} /> */}
-        {/* <PoiMiniMap poi={poi} lang={resolved.lang as Lang} candidates={nearby} /> */}
+        <PoiDidYouKnow poi={poi} lang={resolved.lang as Lang} nextHref={nextHref} />
+        <PoiGameCta poi={poi} lang={resolved.lang as Lang} />
+        <PoiMiniMap poi={poi} lang={resolved.lang as Lang} candidates={nearby} />
 
         {grouped.sameRegion.length ? (
           <section className="mt-10">

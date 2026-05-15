@@ -32,13 +32,7 @@ image: "/poi-images/kabul-cities-v2.webp"
         "Kabul is situated at an elevation of around 1,790 meters.",
         "The Gardens of Babur are among the city's most famous historical attractions."
       ]
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 4,6 Millionen (2021).", "Fläche: 1.028 km².", "Höhe: 1.791 m über dem Meeresspiegel.", "Klima: kontinental, Jahresniederschlag ca. 350 mm.", "Gründung: früheste Erwähnung im 2. Jahrtausend v. Chr.", "Anzahl der Distrikte: 22."],
-      hu: ["Népesség: kb. 4,6 millió (2021-es becslés).", "Tengerszint feletti magasság: 1 791 méter.", "Terület: 1 028 km².", "Alapítás: legkorábbi említés Kr. e. 2. évezred.", "Kerületek száma: 22 közigazgatási kerület.", "Kabuli Nemzetközi Repülőtér magassága: 1 791 m."],
-      ro: ["Populație: aproximativ 4,6 milioane (estimare 2021).", "Altitudine: 1.791 m deasupra nivelului mării.", "Suprafață: 1.028 km².", "Fondare: cea mai veche mențiune datează din mileniul al II-lea î.Hr.", "Număr de districte: 22 de districte administrative.", "Altitudinea Aeroportului Internațional Kabul: 1.791 m."],
-      en: ["Population: approximately 4.6 million (2021 estimate).", "Elevation: 1,791 meters above sea level.", "Area: 1,028 km² (397 sq mi).", "Founded: earliest mention dating back to 2nd millennium BCE.", "Number of districts: 22 administrative districts.", "Kabul International Airport elevation: 1,791 m."],
-    },
+    }
   },
   {
     id: "kandahar-cities-v2",
@@ -72,14 +66,7 @@ image: "/poi-images/kandahar-cities-v2.webp"
         "The Shrine of the Cloak houses a garment believed to have belonged to the Prophet Muhammad."
       ]
     },
-    image: "/poi-images/kandahar-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 614.000 (2021).", "Höhe: 1.010 m.", "Fläche: rund 800 km².", "Klima: arid, Niederschlag unter 200 mm jährlich.", "Gründung: 330 v. Chr. durch Alexander den Großen.", "Anzahl der Stadtbezirke: 10."],
-      hu: ["Népesség: kb. 614 000 (2021).", "Tengerszint feletti magasság: 1 010 m.", "Terület: kb. 800 km².", "Alapítás: Kr. e. 330-ban Nagy Sándor által.", "Vallási emlék: Khirqa (Próféta köpenye) szentély.", "Durrani mauzóleum: 1773-ban épült."],
-      ro: ["Populație: aproximativ 614.000 (2021).", "Altitudine: 1.010 m.", "Suprafață: aprox. 800 km².", "Fondare: 330 î.Hr. de Alexandru cel Mare.", "Aeroportul Kandahar: deschis în 1960.", "Număr de districte: 10 districte."],
-      en: ["Population: approximately 614,000 (2021 estimate).", "Elevation: 1,010 meters above sea level.", "Founded: 330 BCE by Alexander the Great.", "Area: about 800 km².", "Shrine of the Cloak: dates back to the 18th century.", "Number of districts: 10 urban districts."],
-    },
-  },
+    image: "/poi-images/kandahar-cities-v2.webp"},
   {
     id: "herat-cities-v2",
     type: "state-capital",
@@ -111,13 +98,7 @@ image: "/poi-images/herat-cities-v2.webp"
         "The Friday Mosque of Herat is a masterpiece of Islamic architecture.",
         "The Citadel of Herat originally dates back to the time of Alexander the Great."
       ]
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 574.000 (2021).", "Höhe: 920 m.", "Fläche: 143 km².", "Klima: kontinental, Niederschlag 240 mm/Jahr.", "Gründung: avestische Zeit (ca. 1500 v. Chr.).", "Zitadelle Herat (Qala Ikhtyaruddin): erbaut 14. Jahrhundert."],
-      hu: ["Népesség: kb. 574 000 (2021).", "Tengerszint feletti magasság: 920 m.", "Terület: 143 km².", "Timurida korszak: 15. század.", "Góharsád mecset: 1405-1418 között épült.", "Sáfránytermelés: évi kb. 20 tonna."],
-      ro: ["Populație: aproximativ 574.000 (2021).", "Altitudine: 920 m.", "Suprafață: 143 km².", "Fondare: perioada avestică (cca. 1500 î.Hr.).", "Aeroportul Herat: deschis în 1960.", "Producția de șofran: peste 20 de tone anual."],
-      en: ["Population: approximately 574,000 (2021 estimate).", "Elevation: 920 meters above sea level.", "Area: 143 km².", "Founded: Avestan period, around 1500 BCE.", "Herat Citadel: built originally by Alexander, rebuilt in 14th century.", "Friday Mosque: covers an area of 4.5 hectares."],
-    },
+    }
   },
   {
     id: "mazar-i-sharif-cities-v2",
@@ -151,14 +132,7 @@ image: "/poi-images/mazar-i-sharif-cities-v2.webp"
         "The city traditionally celebrates the Nowruz festival each year with tens of thousands of visitors."
       ]
     },
-    image: "/poi-images/mazar-i-sharif-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 375.000 (2021).", "Höhe: 357 m.", "Fläche: 83 km².", "Klima: kontinental, Niederschlag 200 mm/Jahr.", "Gründung: 12. Jahrhundert (nach der Legende).", "Blauen Moschee: erbaut im 15. Jahrhundert."],
-      hu: ["Népesség: kb. 375 000 (2021).", "Tengerszint feletti magasság: 357 m.", "Terület: 83 km².", "Kék Mecset (Ali szentély): 1481-ben épült.", "Zarándokok száma évente: kb. 500 000.", "Mazar-i-Sharif Egyetem: 1991-ben alapították."],
-      ro: ["Populație: aproximativ 375.000 (2021).", "Altitudine: 357 m.", "Suprafață: 83 km².", "Fondare: secolul al XII-lea (legendă).", "Aeroportul Mazar-i-Sharif: deschis în 1950.", "Producția de bumbac: peste 50.000 de tone anual."],
-      en: ["Population: approximately 375,000 (2021 estimate).", "Elevation: 357 meters above sea level.", "Area: 83 km².", "Shrine of Hazrat Ali: built in the 15th century.", "Annual pilgrims: over 300,000.", "Mazar-i-Sharif University: founded in 1991."],
-    },
-  },
+    image: "/poi-images/mazar-i-sharif-cities-v2.webp"},
   {
     id: "kunduz-cities-v2",
     type: "state-capital",
@@ -190,13 +164,7 @@ image: "/poi-images/kunduz-cities-v2.webp"
         "The region around Kunduz is famous for its melon and cotton cultivation.",
         "The city is strategically located near the border with Tajikistan."
       ]
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 356.000 (2021).", "Höhe: 391 m.", "Fläche: rund 50 km².", "Klima: kontinental, Niederschlag 350 mm/Jahr.", "Gründung: antike Siedlung, genaues Datum unbekannt.", "Fluss Kunduz: Länge ca. 420 km."],
-      hu: ["Népesség: kb. 356 000 (2021).", "Tengerszint feletti magasság: 391 m.", "Terület: kb. 50 km².", "Kunduzi Egyetem: 1967-ben alapították.", "Gyapottermelés: évi kb. 30 000 tonna.", "Sher Khan Bandar határátkelő: távolság 60 km."],
-      ro: ["Populație: aproximativ 356.000 (2021).", "Altitudine: 391 m.", "Suprafață: aprox. 50 km².", "Aeroportul Kunduz: deschis în 1960.", "Producția de bumbac: peste 30.000 de tone anual.", "Râul Kunduz: lungime de 420 km."],
-      en: ["Population: approximately 356,000 (2021 estimate).", "Elevation: 391 meters.", "Area: about 50 km².", "Founded: exact date unknown, ancient settlement.", "University: Kunduz University, founded in 1967.", "Annual cotton production: over 30,000 tons."],
-    },
+    }
   },
   {
     id: "jalalabad-cities-v2",
@@ -229,13 +197,7 @@ image: "/poi-images/jalalabad-cities-v2.webp"
         "The Kabul River flows right through the city, supplying water to its gardens.",
         "King Amanullah Khan and his family are buried in the city's mausoleum."
       ]
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 263.000 (2021).", "Höhe: 573 m.", "Fläche: 122 km².", "Klima: subtropisch, Niederschlag 300 mm/Jahr.", "Gründung: 1570 durch Kaiser Akbar.", "Khyber-Pass: Höhe ca. 1.070 m."],
-      hu: ["Népesség: kb. 263 000 (2021).", "Tengerszint feletti magasság: 573 m.", "Terület: 122 km².", "Alapítás: 1570-ben Akbar mogul császár által.", "Citrusfélék termelés: évi kb. 40 000 tonna.", "Torkham határátkelő: napi 500 teherautó."],
-      ro: ["Populație: aproximativ 263.000 (2021).", "Altitudine: 573 m.", "Suprafață: 122 km².", "Fondare: 1570 de către împăratul Akbar.", "Aeroportul Jalalabad: deschis în 1950.", "Producția de citrice: peste 40.000 de tone anual."],
-      en: ["Population: approximately 263,000 (2021 estimate).", "Elevation: 573 meters above sea level.", "Founded: 1570 CE by Emperor Akbar.", "Area: 122 km².", "Khyber Pass: elevation 1,070 m, length 53 km.", "Annual citrus production: over 40,000 tons."],
-    },
+    }
   },
   {
     id: "taloqan-cities-v2",
@@ -268,13 +230,7 @@ image: "/poi-images/taloqan-cities-v2.webp"
         "Marco Polo described the area around Taloqan in 1275 during his journey to China.",
         "The city's economy is primarily based on agriculture and trade."
       ]
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 196.000 (2021).", "Höhe: 682 m.", "Fläche: rund 40 km².", "Klima: kontinental, Niederschlag 400 mm/Jahr.", "Fluss Kokcha: Länge ca. 250 km.", "Kohlevorkommen: geschätzte 50 Millionen Tonnen."],
-      hu: ["Népesség: kb. 196 000 (2021).", "Tengerszint feletti magasság: 682 m.", "Terület: kb. 40 km².", "Takhar Egyetem: 1994-ben alapították.", "Szénbányák: évi kitermelés 100 000 tonna.", "Buzkasi verseny: évente megrendezésre kerül."],
-      ro: ["Populație: aproximativ 196.000 (2021).", "Altitudine: 682 m.", "Suprafață: aprox. 40 km².", "Aeroportul Taloqan: deschis în 1960.", "Producția de cărbune: peste 100.000 de tone anual.", "Râul Kokcha: lungime de 250 km."],
-      en: ["Population: approximately 196,000 (2021 estimate).", "Elevation: 682 meters.", "Area: about 40 km².", "Takhar University: founded in 1994.", "Coal reserves: estimated 50 million tons.", "Kokcha River: length 250 km."],
-    },
+    }
   },
   {
     id: "puli-khumri-cities-v2",
@@ -307,13 +263,7 @@ image: "/poi-images/puli-khumri-cities-v2.webp"
         "A major hydroelectric power plant in the city was built with Soviet assistance.",
         "Puli Khumri connects the capital city of Kabul with northern Afghanistan."
       ]
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 221.000 (2021).", "Höhe: 635 m.", "Fläche: rund 35 km².", "Zementfabrik: erbaut 1950er Jahre, Kapazität 1.000 t/Tag.", "Wasserkraftwerk: Leistung 25 MW.", "Fluss Kunduz: Länge ca. 420 km."],
-      hu: ["Népesség: kb. 221 000 (2021).", "Tengerszint feletti magasság: 635 m.", "Terület: kb. 35 km².", "Cementgyár: 1954-ben alapították.", "Vízerőmű: 25 MW kapacitás.", "Salang-hágó: távolság 100 km."],
-      ro: ["Populație: aproximativ 221.000 (2021).", "Altitudine: 635 m.", "Suprafață: aprox. 35 km².", "Fabrica de ciment: construită în anii 1950.", "Centrală hidroelectrică: 25 MW.", "Râul Kunduz: lungime de 420 km."],
-      en: ["Population: approximately 221,000 (2021 estimate).", "Elevation: 635 meters above sea level.", "Area: about 35 km².", "Cement factory: built in the 1950s, capacity 1,000 tons per day.", "Hydroelectric plant: 25 MW capacity.", "Kunduz River: length 420 km."],
-    },
+    }
   },
   {
     id: "charikar-cities-v2",
@@ -346,13 +296,7 @@ image: "/poi-images/charikar-cities-v2.webp"
         "The city is located directly on the important connecting road to the Salang Pass.",
         "Charikar is famous for its sweet grapes, which are prized throughout Afghanistan."
       ]
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 171.000 (2021).", "Höhe: 1.600 m.", "Fläche: rund 30 km².", "Klima: kontinental, Niederschlag 500 mm/Jahr.", "Salang-Pass: Höhe 3.878 m, Länge 3,6 km.", "Panjshir-Fluss: Länge ca. 200 km."],
-      hu: ["Népesség: kb. 171 000 (2021).", "Tengerszint feletti magasság: 1 600 m.", "Terület: kb. 30 km².", "Massoud mauzóleum: 2001-ben épült.", "Gránátalma termelés: évi 10 000 tonna.", "Panjshir-völgy: hossza 200 km."],
-      ro: ["Populație: aproximativ 171.000 (2021).", "Altitudine: 1.600 m.", "Suprafață: aprox. 30 km².", "Aeroportul Charikar: deschis în 1960.", "Producția de rodii: peste 10.000 de tone anual.", "Râul Panjshir: lungime de 200 km."],
-      en: ["Population: approximately 171,000 (2021 estimate).", "Elevation: 1,600 meters above sea level.", "Area: about 30 km².", "Salang Pass: elevation 3,878 m, tunnel length 3.6 km.", "Panjshir River: length 200 km.", "Annual pomegranate production: over 10,000 tons."],
-    },
+    }
   },
   {
     id: "lashkargah-cities-v2",
@@ -385,13 +329,7 @@ image: "/poi-images/lashkargah-cities-v2.webp"
         "The modern city was planned in the 1950s with American assistance.",
         "In ancient times, the region was a winter retreat for kings."
       ]
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 201.000 (2021).", "Höhe: 773 m.", "Fläche: 43 km².", "Klima: arid, Niederschlag unter 100 mm/Jahr.", "Helmand-Fluss: Länge ca. 1.150 km.", "Opiumproduktion: Helmand produziert ca. 50% des weltweiten Opiums."],
-      hu: ["Népesség: kb. 201 000 (2021).", "Tengerszint feletti magasság: 773 m.", "Terület: 43 km².", "Ópiumtermelés: évi kb. 6 000 tonna (2020).", "Helmand folyó: hossza 1 150 km.", "Múzeum: Helmand Tartományi Múzeum 1980-ban nyílt."],
-      ro: ["Populație: aproximativ 201.000 (2021).", "Altitudine: 773 m.", "Suprafață: 43 km².", "Aeroportul Lashkargah: deschis în 1960.", "Producția de opiu: aproximativ 6.000 de tone anual (2020).", "Râul Helmand: lungime de 1.150 km."],
-      en: ["Population: approximately 201,000 (2021 estimate).", "Elevation: 773 meters above sea level.", "Area: 43 km².", "Helmand River: length 1,150 km.", "Opium production: Helmand produces about 50% of global opium.", "Annual opium yield: around 6,000 tons (2020 estimate)."],
-    },
+    }
   },
   {
     id: "sheberghan-cities-v2",
@@ -424,13 +362,7 @@ image: "/poi-images/sheberghan-cities-v2.webp"
         "The famous Bactrian gold treasure was discovered near the city in 1978.",
         "The majority of the population consists of Uzbeks and Turkmens."
       ]
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 188.000 (2021).", "Höhe: 345 m.", "Fläche: rund 30 km².", "Erdgasfelder: entdeckt 1960, Reserven ca. 100 Mrd. m³.", "Klima: kontinental, Niederschlag 200 mm/Jahr.", "Yakaulang-Feld: größtes Erdgasfeld Afghanistans."],
-      hu: ["Népesség: kb. 188 000 (2021).", "Tengerszint feletti magasság: 345 m.", "Terület: kb. 30 km².", "Földgázkészlet: kb. 100 milliárd m³.", "Jowzjan Egyetem: 2004-ben alapították.", "Türkmén szőnyegek: évi export kb. 5 millió dollár."],
-      ro: ["Populație: aproximativ 188.000 (2021).", "Altitudine: 345 m.", "Suprafață: aprox. 30 km².", "Câmpuri de gaze: descoperite în 1960, rezerve de 100 miliarde m³.", "Aeroportul Sheberghan: deschis în 1960.", "Jowzjan University: fondată în 2004."],
-      en: ["Population: approximately 188,000 (2021 estimate).", "Elevation: 345 meters above sea level.", "Area: about 30 km².", "Natural gas reserves: estimated 100 billion cubic meters.", "Jowzjan University: founded in 2004.", "Gas fields discovered: 1960."],
-    },
+    }
   },
   {
     id: "ghazni-cities-v2",
@@ -463,13 +395,7 @@ image: "/poi-images/ghazni-cities-v2.webp"
         "The two minarets of Ghazni are the most famous remains of the ancient empire.",
         "The city was named the Asian capital of Islamic culture in 2013."
       ]
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 174.000 (2021).", "Höhe: 2.230 m.", "Fläche: rund 30 km².", "Ghaznavidenreich: 977-1186 n. Chr.", "Minarette: gebaut im 12. Jahrhundert, Höhe ca. 20 m.", "Mausoleum von Mahmud von Ghazni: erbaut 1030."],
-      hu: ["Népesség: kb. 174 000 (2021).", "Tengerszint feletti magasság: 2 230 m.", "Terület: kb. 30 km².", "Mahmúd szultán mauzóleuma: 1030-ban épült.", "Ghazni Egyetem: 2006-ban alapították.", "Minaretek: 12. század, magasság 20 m."],
-      ro: ["Populație: aproximativ 174.000 (2021).", "Altitudine: 2.230 m.", "Suprafață: aprox. 30 km².", "Imperiul Ghaznavid: 977-1186 d.Hr.", "Minaretele: construite în secolul al XII-lea, înălțime de 20 m.", "Mausoleul lui Mahmud de Ghazni: construit în 1030."],
-      en: ["Population: approximately 174,000 (2021 estimate).", "Elevation: 2,230 meters above sea level.", "Area: about 30 km².", "Ghaznavid Empire: 977-1186 CE.", "Minarets: built in 12th century, height 20 m each.", "Mausoleum of Mahmud of Ghazni: built in 1030 CE."],
-    },
+    }
   },
   {
     id: "khost-cities-v2",
@@ -502,13 +428,7 @@ image: "/poi-images/khost-cities-v2.webp"
         "The city hosts the first international university in southeastern Afghanistan.",
         "A large Friday Mosque dominates the center of Khost."
       ]
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 211.000 (2021).", "Höhe: 1.200 m.", "Fläche: rund 40 km².", "Klima: subtropisch, Niederschlag 300 mm/Jahr.", "Gründung: antike Siedlung, genaues Datum unbekannt.", "Khost University: gegründet 2008."],
-      hu: ["Népesség: kb. 211 000 (2021).", "Tengerszint feletti magasság: 1 200 m.", "Terület: kb. 40 km².", "Khosti Egyetem: 2008-ban alapították.", "Pakisztán határ: távolság 15 km.", "Búzatermelés: évi kb. 20 000 tonna."],
-      ro: ["Populație: aproximativ 211.000 (2021).", "Altitudine: 1.200 m.", "Suprafață: aprox. 40 km².", "Aeroportul Khost: deschis în 1960.", "Khost University: fondată în 2008.", "Distanța până la granița Pakistanului: 15 km."],
-      en: ["Population: approximately 211,000 (2021 estimate).", "Elevation: 1,200 meters above sea level.", "Area: about 40 km².", "Khost University: founded in 2008.", "Distance to Pakistan border: 15 km.", "Annual wheat production: over 20,000 tons."],
-    },
+    }
   },
   {
     id: "sar-e-pol-cities-v2",
@@ -541,13 +461,7 @@ image: "/poi-images/sar-e-pol-cities-v2.webp"
         "The region has untapped oil reserves in the nearby mountains.",
         "Numerous ethnic groups such as Uzbeks, Tajiks, and Hazaras live together here."
       ]
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 164.000 (2021).", "Höhe: 588 m.", "Fläche: rund 25 km².", "Klima: kontinental, Niederschlag 200 mm/Jahr.", "Kohlevorkommen: geschätzte 20 Millionen Tonnen.", "Sar-i-Pul Universität: gegründet 2005."],
-      hu: ["Népesség: kb. 164 000 (2021).", "Tengerszint feletti magasság: 588 m.", "Terület: kb. 25 km².", "Sar-e Poli Egyetem: 2005-ben alapították.", "Dinnyetermelés: évi kb. 15 000 tonna.", "Szénbányák: évi kitermelés 50 000 tonna."],
-      ro: ["Populație: aproximativ 164.000 (2021).", "Altitudine: 588 m.", "Suprafață: aprox. 25 km².", "Aeroportul Sar-e Pol: deschis în 1960.", "Rezerve de cărbune: aproximativ 20 milioane tone.", "Sar-e Pol University: fondată în 2005."],
-      en: ["Population: approximately 164,000 (2021 estimate).", "Elevation: 588 meters above sea level.", "Area: about 25 km².", "Coal reserves: estimated 20 million tons.", "Sar-e Pol University: founded in 2005.", "Annual melon production: over 15,000 tons."],
-    },
+    }
   },
   {
     id: "chaghcharan-cities-v2",
@@ -581,14 +495,7 @@ image: "/poi-images/chaghcharan-cities-v2.webp"
         "The Hari Rud river flows directly through the city center."
       ]
     },
-    image: "/poi-images/chaghcharan-cities-v2.webp",
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 141.000 (2021).", "Höhe: 2.275 m.", "Fläche: rund 15 km².", "Klima: kontinental, Niederschlag 400 mm/Jahr.", "Gor Universität: gegründet 2011.", "Wollteppiche: traditionelles Handwerk."],
-      hu: ["Népesség: kb. 141 000 (2021).", "Tengerszint feletti magasság: 2 275 m.", "Terület: kb. 15 km².", "Gor Egyetem: 2011-ben alapították.", "Gyapjútermelés: évi kb. 100 tonna.", "Szőnyegexport: évi kb. 2 millió dollár."],
-      ro: ["Populație: aproximativ 141.000 (2021).", "Altitudine: 2.275 m.", "Suprafață: aprox. 15 km².", "Aeroportul Chaghcharan: deschis în 1960.", "Ghor University: fondată în 2011.", "Producția de covoare din lână: tradiție locală."],
-      en: ["Population: approximately 141,000 (2021 estimate).", "Elevation: 2,275 meters above sea level.", "Area: about 15 km².", "Ghor University: founded in 2011.", "Annual wool carpet production: valued at $2 million.", "Harsh winter temperatures: can drop below -20°C."],
-    },
-  },
+    image: "/poi-images/chaghcharan-cities-v2.webp"},
   {
     id: "mihtarlam-cities-v2",
     type: "state-capital",
@@ -620,13 +527,7 @@ image: "/poi-images/mihtarlam-cities-v2.webp"
         "According to local belief, the tomb of Lamech, father of Noah, is located in the city.",
         "The area benefits from the water resources of the Alisheng and Alingar rivers."
       ]
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 156.000 (2021).", "Höhe: 790 m.", "Fläche: rund 20 km².", "Klima: subtropisch, Niederschlag 400 mm/Jahr.", "Laghman Universität: gegründet 2008.", "Walnussproduktion: ca. 5.000 Tonnen jährlich."],
-      hu: ["Népesség: kb. 156 000 (2021).", "Tengerszint feletti magasság: 790 m.", "Terület: kb. 20 km².", "Laghman Egyetem: 2008-ban alapították.", "Szőlőtermelés: évi kb. 10 000 tonna.", "Diófélék export: évi kb. 3 millió dollár."],
-      ro: ["Populație: aproximativ 156.000 (2021).", "Altitudine: 790 m.", "Suprafață: aprox. 20 km².", "Aeroportul Mihtarlam: deschis în 1960.", "Laghman University: fondată în 2008.", "Producția de nuci: peste 5.000 de tone anual."],
-      en: ["Population: approximately 156,000 (2021 estimate).", "Elevation: 790 meters above sea level.", "Area: about 20 km².", "Laghman University: founded in 2008.", "Annual walnut production: over 5,000 tons.", "Annual grape production: over 10,000 tons."],
-    },
+    }
   },
   {
     id: "farah-cities-v2",
@@ -659,13 +560,7 @@ image: "/poi-images/farah-cities-v2.webp"
         "The ruins of the Citadel of Farah are a significant historical attraction.",
         "Historically, Farah was a stopping point between Herat and Kandahar."
       ]
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 163.000 (2021).", "Höhe: 650 m.", "Fläche: rund 30 km².", "Klima: arid, Niederschlag unter 100 mm/Jahr.", "Farah Universität: gegründet 2010.", "Farah-Fluss: Länge ca. 580 km."],
-      hu: ["Népesség: kb. 163 000 (2021).", "Tengerszint feletti magasság: 650 m.", "Terület: kb. 30 km².", "Farah Egyetem: 2010-ben alapították.", "Farah folyó: hossza 580 km.", "Gyapottermelés: évi kb. 10 000 tonna."],
-      ro: ["Populație: aproximativ 163.000 (2021).", "Altitudine: 650 m.", "Suprafață: aprox. 30 km².", "Aeroportul Farah: deschis în 1960.", "Farah University: fondată în 2010.", "Râul Farah: lungime de 580 km."],
-      en: ["Population: approximately 163,000 (2021 estimate).", "Elevation: 650 meters above sea level.", "Area: about 30 km².", "Farah University: founded in 2010.", "Farah River: length 580 km.", "Annual cotton production: over 10,000 tons."],
-    },
+    }
   },
   {
     id: "puli-alam-cities-v2",
@@ -698,13 +593,7 @@ image: "/poi-images/puli-alam-cities-v2.webp"
         "A major copper mining project is located nearby at Mes Aynak.",
         "The local economy is dominated by agriculture."
       ]
-    },
-    factsAdvanced: {
-      de: ["Bevölkerung: ca. 141.000 (2021).", "Höhe: 1.920 m.", "Fläche: rund 20 km².", "Klima: kontinental, Niederschlag 400 mm/Jahr.", "Logar Universität: gegründet 2010.", "Entfernung zu Kabul: 60 km."],
-      hu: ["Népesség: kb. 141 000 (2021).", "Tengerszint feletti magasság: 1 920 m.", "Terület: kb. 20 km².", "Logar Egyetem: 2010-ben alapították.", "Távolság Kabul: 60 km.", "Szőlőtermelés: évi kb. 8 000 tonna."],
-      ro: ["Populație: aproximativ 141.000 (2021).", "Altitudine: 1.920 m.", "Suprafață: aprox. 20 km².", "Aeroportul Puli Alam: deschis în 1960.", "Logar University: fondată în 2010.", "Distanța până la Kabul: 60 km."],
-      en: ["Population: approximately 141,000 (2021 estimate).", "Elevation: 1,920 meters above sea level.", "Area: about 20 km².", "Logar University: founded in 2010.", "Distance to Kabul: 60 km.", "Annual grape production: over 8,000 tons."],
-    },
+    }
   },
   {
     id: "aybak-cities-v2",
@@ -737,13 +626,7 @@ image: "/poi-images/aybak-cities-v2.webp"
         "The Buddhist cave monastery of Takht-e Rostam is located near the city.",
         "The region is known for its almonds and pistachios."
       ]
-    },
-    factsAdvanced: {
-      de: ["Aybak liegt auf 888 m Höhe.", "Die Stadt hat etwa 50.000 Einwohner (Schätzung 2015).", "Der Takht-e Rostam Stupa hat einen Durchmesser von 15 m.", "Samangan ist 7.582 km² groß.", "Die Region produziert jährlich 10.000 Tonnen Baumwolle.", "Aybak wurde im 13. Jahrhundert unter den Mongolen zerstört."],
-      hu: ["Aybak Samangan tartomány székhelye.", "A város 888 méter tengerszint feletti magasságban fekszik.", "A Takht-e Rostam buddhista kolostor az i.sz. 4. századból származik.", "Samangan tartomány területe 7.582 km².", "A lakosság mintegy 50.000 fő (2015-ös becslés).", "A város a Selyemút mentén fekszik."],
-      ro: ["Aybak are aproximativ 50.000 de locuitori.", "Altitudinea orașului este de 888 m.", "Samangan are o suprafață de 7.582 km².", "Takht-e Rostam include un stupa cu diametrul de 15 m.", "Aybak a fost distrusă de mongoli în secolul al XIII-lea.", "Economia locală include producția de 10.000 de tone de bumbac pe an."],
-      en: ["Aybak's elevation is 888 meters above sea level.", "Population is estimated at 50,000 (2015).", "Samangan Province covers 7,582 km².", "Takht-e Rostam monastery dates from the 4th-5th centuries CE.", "The city was destroyed by Mongols in the 13th century.", "Annual cotton production in the region is 10,000 tons."],
-    },
+    }
   },
   {
     id: "asadabad-cities-v2",
@@ -776,13 +659,7 @@ image: "/poi-images/asadabad-cities-v2.webp"
         "The surrounding mountains are covered by dense cedar and pine forests.",
         "Asadabad has a close cultural connection to neighboring Pakistan."
       ]
-    },
-    factsAdvanced: {
-      de: ["Asadabad liegt auf 750 m Höhe.", "Die Bevölkerung wird auf 48.000 geschätzt (2015).", "Kunar Provinz hat eine Fläche von 4.942 km².", "Der Kunar-Fluss ist etwa 480 km lang.", "Die Stadt wurde 1979 von den Sowjets bombardiert.", "Die Holzproduktion beträgt jährlich 5.000 m³."],
-      hu: ["Asadabad Kunar tartomány székhelye.", "A város 750 m tengerszint feletti magasságban fekszik.", "Kunar tartomány területe 4.942 km².", "A város lakossága kb. 48.000 fő (2015).", "A Kunar folyó hossza 480 km.", "Asadabad a szovjet invázió során súlyos károkat szenvedett."],
-      ro: ["Asadabad are aproximativ 48.000 de locuitori.", "Altitudinea orașului este de 750 m.", "Kunar are o suprafață de 4.942 km².", "Râul Kunar are o lungime de 480 km.", "Orașul a fost bombardat de sovietici în 1979.", "Industria lemnului produce anual 5.000 m³ de cherestea."],
-      en: ["Asadabad's elevation is 750 meters.", "Population estimate: 48,000 (2015).", "Kunar Province covers 4,942 km².", "The Kunar River is 480 km long.", "The city was heavily damaged during the Soviet invasion.", "Annual timber production is 5,000 cubic meters."],
-    },
+    }
   },
   {
     id: "faizabad-cities-v2",
@@ -815,13 +692,7 @@ image: "/poi-images/faizabad-cities-v2.webp"
         "The city is a traditional trading hub for lapis lazuli.",
         "The name of the city translates to 'City of Divine Blessing'."
       ]
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 1.200 m über dem Meeresspiegel", "Bevölkerung: etwa 80.000 (Schätzung 2020)", "Gegründet im 16. Jahrhundert als Handelsstation", "Durchschnittstemperatur im Januar: -2°C, Juli: 30°C", "Entfernung nach Kabul: ca. 500 km Luftlinie", "Wichtigstes Exportgut: Lapislazuli"],
-      hu: ["Tengerszint feletti magasság: 1.200 m", "Népesség: kb. 80.000 (2020-as becslés)", "Alapítva a 16. században kereskedelmi állomásként", "Januári átlaghőmérséklet: -2°C, júliusi: 30°C", "Távolság Kabultól: légvonalban kb. 500 km", "Fő exportcikk: lapis lazuli"],
-      ro: ["Altitudine: aproximativ 1.200 m deasupra nivelului mării", "Populație: aproximativ 80.000 (estimare 2020)", "Fondat în secolul al XVI-lea ca stație comercială", "Temperatura medie în ianuarie: -2°C, iulie: 30°C", "Distanța până la Kabul: aproximativ 500 km linie dreaptă", "Principalul produs de export: lapis lazuli"],
-      en: ["Elevation: approx. 1,200 m above sea level", "Population: about 80,000 (2020 estimate)", "Founded in 16th century as a trading post", "Average temperature in January: -2°C, July: 30°C", "Distance to Kabul: approx. 500 km straight line", "Main export item: lapis lazuli"],
-    },
+    }
   },
   {
     id: "qala-e-naw-cities-v2",
@@ -854,13 +725,7 @@ image: "/poi-images/qala-e-naw-cities-v2.webp"
         "Pistachio forests are an important source of income for the region around Qala e Naw.",
         "The city's architecture consists of flat mud houses and narrow alleys."
       ]
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 950 m", "Bevölkerung: etwa 50.000 (Schätzung 2020)", "Hauptanbauprodukt: Pistazien (jährliche Ernte ca. 200 Tonnen)", "Entfernung nach Herat: ca. 180 km", "Durchschnittlicher Jahresniederschlag: 250 mm", "Gegründet im 18. Jahrhundert als Festung"],
-      hu: ["Tengerszint feletti magasság: kb. 950 m", "Népesség: kb. 50.000 (2020-as becslés)", "Fő mezőgazdasági termék: pisztácia (éves termés kb. 200 tonna)", "Távolság Herattól: kb. 180 km", "Átlagos éves csapadék: 250 mm", "Alapítva a 18. században erődként"],
-      ro: ["Altitudine: cca. 950 m", "Populație: aproximativ 50.000 (estimare 2020)", "Principalul produs agricol: fistic (recoltă anuală cca. 200 de tone)", "Distanța față de Herat: cca. 180 km", "Precipitații medii anuale: 250 mm", "Fondat în secolul al XVIII-lea ca fortăreață"],
-      en: ["Elevation: approx. 950 m", "Population: about 50,000 (2020 estimate)", "Main agricultural product: pistachios (annual harvest approx. 200 tons)", "Distance to Herat: approx. 180 km", "Average annual rainfall: 250 mm", "Founded in 18th century as a fortress"],
-    },
+    }
   },
   {
     id: "mahmud-e-raqi-cities-v2",
@@ -893,13 +758,7 @@ image: "/poi-images/mahmud-e-raqi-cities-v2.webp"
         "The city is located not far from the ancient capital of Bagram.",
         "The river valley provides the city with abundant irrigation water."
       ]
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 1.500 m", "Bevölkerung: etwa 30.000 (Schätzung 2020)", "Hauptanbau: Trauben (jährliche Produktion ca. 10.000 Tonnen)", "Entfernung nach Kabul: ca. 60 km", "Durchschnittstemperatur Januar: -3°C, Juli: 28°C", "Bekannt für Smaragdminen im Panjshir-Tal"],
-      hu: ["Tengerszint feletti magasság: kb. 1.500 m", "Népesség: kb. 30.000 (2020-as becslés)", "Fő termény: szőlő (éves termés kb. 10.000 tonna)", "Távolság Kabultól: kb. 60 km", "Januári átlaghőmérséklet: -3°C, júliusi: 28°C", "Híres a Pandzsir-völgy smaragdbányáiról"],
-      ro: ["Altitudine: cca. 1.500 m", "Populație: aproximativ 30.000 (estimare 2020)", "Cultura principală: struguri (producție anuală cca. 10.000 tone)", "Distanța până la Kabul: cca. 60 km", "Temperatura medie în ianuarie: -3°C, iulie: 28°C", "Celebru pentru minele de smarald din Valea Panjshir"],
-      en: ["Elevation: approx. 1,500 m", "Population: about 30,000 (2020 estimate)", "Main crop: grapes (annual production approx. 10,000 tons)", "Distance to Kabul: approx. 60 km", "Average temperature in January: -3°C, July: 28°C", "Famous for emerald mines in Panjshir Valley"],
-    },
+    }
   },
   {
     id: "zaranj-cities-v2",
@@ -932,13 +791,7 @@ image: "/poi-images/zaranj-cities-v2.webp"
         "The city frequently suffers from water shortages and drought.",
         "A major new road system connects Zaranj to the port of Chabahar."
       ]
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 500 m", "Bevölkerung: etwa 60.000 (Schätzung 2020)", "Höchste gemessene Temperatur: 52°C", "Entfernung nach Kabul: ca. 800 km", "Jährlicher Niederschlag: unter 100 mm", "Grenzübergang zum Iran: Milak (30 km entfernt)"],
-      hu: ["Tengerszint feletti magasság: kb. 500 m", "Népesség: kb. 60.000 (2020-as becslés)", "Legmagasabb mért hőmérséklet: 52°C", "Távolság Kabultól: kb. 800 km", "Éves csapadékmennyiség: 100 mm alatt", "Iráni határátkelő: Milak (30 km)"],
-      ro: ["Altitudine: cca. 500 m", "Populație: aproximativ 60.000 (estimare 2020)", "Cea mai mare temperatură înregistrată: 52°C", "Distanța până la Kabul: cca. 800 km", "Precipitații anuale: sub 100 mm", "Punct de trecere a frontierei cu Iranul: Milak (30 km)"],
-      en: ["Elevation: approx. 500 m", "Population: about 60,000 (2020 estimate)", "Highest recorded temperature: 52°C", "Distance to Kabul: approx. 800 km", "Annual precipitation: below 100 mm", "Border crossing to Iran: Milak (30 km away)"],
-    },
+    }
   },
   {
     id: "tarinkot-cities-v2",
@@ -971,13 +824,7 @@ image: "/poi-images/tarinkot-cities-v2.webp"
         "Until 2004, there were almost no paved roads in Tarinkot.",
         "The economy relies on subsistence agriculture."
       ]
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 1.300 m", "Bevölkerung: etwa 50.000 (Schätzung 2020)", "Hauptprodukt: Granatäpfel (jährliche Ernte ca. 5.000 Tonnen)", "Entfernung nach Kandahar: ca. 150 km", "Helmand-Fluss: Länge ca. 1.150 km", "Gegründet im 19. Jahrhundert als Festungsstadt"],
-      hu: ["Tengerszint feletti magasság: kb. 1.300 m", "Népesség: kb. 50.000 (2020-as becslés)", "Fő termék: gránátalma (éves termés kb. 5.000 tonna)", "Távolság Kandahártól: kb. 150 km", "Helmand folyó hossza: kb. 1.150 km", "Alapítva a 19. században erődvárosként"],
-      ro: ["Altitudine: cca. 1.300 m", "Populație: aproximativ 50.000 (estimare 2020)", "Produs principal: rodii (recoltă anuală cca. 5.000 de tone)", "Distanța până la Kandahar: cca. 150 km", "Lungimea râului Helmand: cca. 1.150 km", "Fondat în secolul al XIX-lea ca oraș fortăreață"],
-      en: ["Elevation: approx. 1,300 m", "Population: about 50,000 (2020 estimate)", "Main product: pomegranates (annual harvest approx. 5,000 tons)", "Distance to Kandahar: approx. 150 km", "Helmand River length: approx. 1,150 km", "Founded in 19th century as a fortress town"],
-    },
+    }
   },
   {
     id: "maymana-cities-v2",
@@ -1010,13 +857,7 @@ image: "/poi-images/maymana-cities-v2.webp"
         "The city's bazaar is known for high-quality Karakul pelts.",
         "Maymana has a university founded in 2004."
       ]
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 900 m", "Bevölkerung: etwa 80.000 (Schätzung 2020)", "Hauptanbau: Baumwolle (jährliche Produktion ca. 20.000 Tonnen)", "Entfernung nach Masar-e Scharif: ca. 200 km", "Anzahl historischer Moscheen: 3 aus dem 18. Jahrhundert", "Durchschnittstemperatur Januar: 2°C, Juli: 35°C"],
-      hu: ["Tengerszint feletti magasság: kb. 900 m", "Népesség: kb. 80.000 (2020-as becslés)", "Fő termény: gyapot (éves termés kb. 20.000 tonna)", "Távolság Masar-i-Sariftól: kb. 200 km", "Történelmi mecsetek száma: 3 a 18. századból", "Januári átlaghőmérséklet: 2°C, júliusi: 35°C"],
-      ro: ["Altitudine: cca. 900 m", "Populație: aproximativ 80.000 (estimare 2020)", "Cultura principală: bumbac (producție anuală cca. 20.000 de tone)", "Distanța până la Mazar-i-Sharif: cca. 200 km", "Număr de moschei istorice: 3 din secolul al XVIII-lea", "Temperatura medie în ianuarie: 2°C, iulie: 35°C"],
-      en: ["Elevation: approx. 900 m", "Population: about 80,000 (2020 estimate)", "Main crop: cotton (annual production approx. 20,000 tons)", "Distance to Mazar-i-Sharif: approx. 200 km", "Number of historic mosques: 3 from the 18th century", "Average temperature in January: 2°C, July: 35°C"],
-    },
+    }
   },
   {
     id: "gardez-cities-v2",
@@ -1049,13 +890,7 @@ image: "/poi-images/gardez-cities-v2.webp"
         "A large fortress, the Bala Hissar, towers over Gardez.",
         "The city is located high in the mountains at over 2,300 meters."
       ]
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 2.300 m", "Bevölkerung: etwa 70.000 (Schätzung 2020)", "Höchster Punkt in der Nähe: 4.000 m (Hindukusch)", "Entfernung nach Kabul: ca. 100 km", "Durchschnittstemperatur Januar: -5°C, Juli: 24°C", "Bekannt für Pinienwälder im Umland"],
-      hu: ["Tengerszint feletti magasság: kb. 2.300 m", "Népesség: kb. 70.000 (2020-as becslés)", "Legközelebbi magas pont: 4.000 m (Hindukus)", "Távolság Kabultól: kb. 100 km", "Januári átlaghőmérséklet: -5°C, júliusi: 24°C", "Híres a környékbeli fenyőerdőkről"],
-      ro: ["Altitudine: cca. 2.300 m", "Populație: aproximativ 70.000 (estimare 2020)", "Cel mai înalt punct din apropiere: 4.000 m (Hindukuș)", "Distanța până la Kabul: cca. 100 km", "Temperatura medie în ianuarie: -5°C, iulie: 24°C", "Celebru pentru pădurile de pini din jur"],
-      en: ["Elevation: approx. 2,300 m", "Population: about 70,000 (2020 estimate)", "Nearest high point: 4,000 m (Hindu Kush)", "Distance to Kabul: approx. 100 km", "Average temperature in January: -5°C, July: 24°C", "Famous for pine forests in surrounding area"],
-    },
+    }
   },
   {
     id: "maidan-shar-cities-v2",
@@ -1088,13 +923,7 @@ image: "/poi-images/maidan-shar-cities-v2.webp"
         "Wardak Province is known for its excellent apples.",
         "Its proximity to the capital makes it a popular residential area for commuters."
       ]
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 2.200 m", "Bevölkerung: etwa 40.000 (Schätzung 2020)", "Entfernung nach Kabul: 40 km", "Hauptprodukt: Weizen (jährliche Produktion ca. 15.000 Tonnen)", "Durchschnittstemperatur Januar: -4°C, Juli: 25°C", "Bekannt für Shah Foladi Berg (4.900 m)"],
-      hu: ["Tengerszint feletti magasság: kb. 2.200 m", "Népesség: kb. 40.000 (2020-as becslés)", "Távolság Kabultól: 40 km", "Fő termény: búza (éves termés kb. 15.000 tonna)", "Januári átlaghőmérséklet: -4°C, júliusi: 25°C", "Híres a Shah Foladi hegyről (4.900 m)"],
-      ro: ["Altitudine: cca. 2.200 m", "Populație: aproximativ 40.000 (estimare 2020)", "Distanța până la Kabul: 40 km", "Produs principal: grâu (producție anuală cca. 15.000 de tone)", "Temperatura medie în ianuarie: -4°C, iulie: 25°C", "Celebru pentru muntele Shah Foladi (4.900 m)"],
-      en: ["Elevation: approx. 2,200 m", "Population: about 40,000 (2020 estimate)", "Distance to Kabul: 40 km", "Main product: wheat (annual production approx. 15,000 tons)", "Average temperature in January: -4°C, July: 25°C", "Famous for Shah Foladi mountain (4,900 m)"],
-    },
+    }
   },
   {
     id: "qalat-cities-v2",
@@ -1127,13 +956,7 @@ image: "/poi-images/qalat-cities-v2.webp"
         "The city is dominated by a fortress said to have been built by Alexander the Great.",
         "The dry desert climate shapes life in Qalat."
       ]
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 1.500 m", "Bevölkerung: etwa 30.000 (Schätzung 2020)", "Hauptprodukt: Weizen (jährliche Ernte ca. 8.000 Tonnen)", "Entfernung nach Kandahar: ca. 130 km", "Durchschnittstemperatur Januar: -1°C, Juli: 32°C", "Gegründet im 18. Jahrhundert als Festung"],
-      hu: ["Tengerszint feletti magasság: kb. 1.500 m", "Népesség: kb. 30.000 (2020-as becslés)", "Fő termény: búza (éves termés kb. 8.000 tonna)", "Távolság Kandahártól: kb. 130 km", "Januári átlaghőmérséklet: -1°C, júliusi: 32°C", "Alapítva a 18. században erődként"],
-      ro: ["Altitudine: cca. 1.500 m", "Populație: aproximativ 30.000 (estimare 2020)", "Produs principal: grâu (recoltă anuală cca. 8.000 de tone)", "Distanța până la Kandahar: cca. 130 km", "Temperatura medie în ianuarie: -1°C, iulie: 32°C", "Fondat în secolul al XVIII-lea ca fortăreață"],
-      en: ["Elevation: approx. 1,500 m", "Population: about 30,000 (2020 estimate)", "Main product: wheat (annual harvest approx. 8,000 tons)", "Distance to Kandahar: approx. 130 km", "Average temperature in January: -1°C, July: 32°C", "Founded in 18th century as a fortress"],
-    },
+    }
   },
   {
     id: "bamyan-cities-v2",
@@ -1166,912 +989,6 @@ image: "/poi-images/bamyan-cities-v2.webp"
         "Bamyan is world-famous for the giant Buddha statues that were destroyed in 2001.",
         "The nearby Band-e-Amir National Park was Afghanistan's first national park."
       ]
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 2.500 m", "Bevölkerung: etwa 70.000 (Schätzung 2020)", "Buddha-Statuen: Höhe 55 m und 38 m, erbaut 554 n. Chr.", "Entfernung nach Kabul: ca. 130 km", "Band-e Amir Seen: 6 Seen, insgesamt 6 km lang", "Durchschnittstemperatur Januar: -15°C, Juli: 20°C"],
-      hu: ["Tengerszint feletti magasság: kb. 2.500 m", "Népesség: kb. 70.000 (2020-as becslés)", "Buddha-szobrok magassága: 55 m és 38 m, építve 554-ben", "Távolság Kabultól: kb. 130 km", "Band-e Amir tavak: 6 tó, összesen 6 km hosszú", "Januári átlaghőmérséklet: -15°C, júliusi: 20°C"],
-      ro: ["Altitudine: cca. 2.500 m", "Populație: aproximativ 70.000 (estimare 2020)", "Statuile lui Buddha: înălțime 55 m și 38 m, construite în 554 d.Hr.", "Distanța până la Kabul: cca. 130 km", "Lacurile Band-e Amir: 6 lacuri, lungime totală 6 km", "Temperatura medie în ianuarie: -15°C, iulie: 20°C"],
-      en: ["Elevation: approx. 2,500 m", "Population: about 70,000 (2020 estimate)", "Buddha statues: height 55 m and 38 m, built in 554 AD", "Distance to Kabul: approx. 130 km", "Band-e Amir lakes: 6 lakes, total length 6 km", "Average temperature in January: -15°C, July: 20°C"],
-    },
-  }
-,
-  {
-    id: "afghanistan-baghlan-cities-v2",
-    type: "city",
-    name: { de: "Baghlan", hu: "Baglán", ro: "Baghlan", en: "Baghlan" },
-    coords: [68.7, 36.17],
-    description: {
-      de: "Baghlan ist ein Industriezentrum im Norden Afghanistans. Die Stadt liegt im Tal des Kundus-Flusses und ist für ihre Zuckerfabrik bekannt.",
-      hu: "Baglán egy ipari központ Afganisztán északi részén. A város a Kunduz-folyó völgyében fekszik, és cukorgyáráról nevezetes.",
-      ro: "Baghlan este un centru industrial din nordul Afganistanului. Orașul este situat în valea râului Kunduz și este faimos pentru fabrica de zahăr.",
-      en: "Baghlan is an industrial center in northern Afghanistan. The city lies in the Kunduz River valley and is famous for its sugar production.",
-    },
-    facts: {
-      de: ["Liegt in der Provinz Baghlan", "Höhe von etwa 500 Metern", "Wichtiger Verkehrsknotenpunkt", "Zentrum des Baumwollanbaus"],
-      hu: ["Baglán tartományban található", "500 méteres tengerszint feletti magasság", "Fontos közlekedési csomópont", "A gyapottermesztés központja"],
-      ro: ["Situat în provincia Baghlan", "Altitudine de aproximativ 500 metri", "Nod de transport important", "Centru pentru cultivarea bumbacului"],
-      en: ["Located in Baghlan Province", "Elevation of approx 500 meters", "Major transportation hub", "Center of cotton cultivation"],
-    },
-    imageHint: "Baghlan city view with industrial background",
-    descriptionAdvanced: {
-      de: "Baghlan ist eine Stadt in der Provinz Baghlan im Norden Afghanistans. Sie liegt auf etwa 500 Metern Höhe im Tal des Kunduz-Flusses. Die Stadt ist ein wichtiges Industrie- und Agrarzentrum, bekannt für Zuckerfabriken und Baumwollverarbeitung. Die Bevölkerung setzt sich aus Tadschiken, Paschtunen und Usbeken zusammen. Historisch war die Region Teil des antiken Baktrien. Baghlan hat eine Universität und mehrere Industrieanlagen. Die Wirtschaft profitiert von der Nähe zum Fluss und fruchtbaren Böden.",
-      hu: "Baghlan város Baghlan tartományban, Észak-Afganisztánban. A város a Kunduz folyó völgyében, körülbelül 500 méter magasan fekszik. Fontos ipari és mezőgazdasági központ, cukorgyárakkal és gyapotfeldolgozással. Lakossága tadzsik, pastu és üzbég. Történelmileg a régió az ókori Baktria része volt. Baghlanban egyetem és több ipari létesítmény található. A gazdaság a folyó közelségéből és a termékeny talajból profitál.",
-      ro: "Baghlan este un oraș din provincia Baghlan din nordul Afganistanului. Este situat la aproximativ 500 de metri altitudine, în valea râului Kunduz. Este un important centru industrial și agricol, cunoscut pentru fabrici de zahăr și prelucrarea bumbacului. Populația este formată din tadjici, paștuni și uzbeci. Din punct de vedere istoric, regiunea a făcut parte din vechea Bactria. Baghlan are o universitate și mai multe facilități industriale. Economia beneficiază de apropierea râului și de solurile fertile.",
-      en: "Baghlan, a city in Baghlan Province in northern Afghanistan, lies at about 500 meters elevation in the Kunduz River valley. It is an industrial and agricultural hub, known for sugar factories and cotton processing. The population is mixed Tajik, Pashtun, and Uzbek. Historically part of ancient Bactria, Baghlan has a university and several industrial plants. The fertile soil and river access support agriculture. The city was heavily damaged during the Soviet war but has since rebuilt some infrastructure.",
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 500 m", "Bevölkerung: etwa 100.000 (Schätzung 2020)", "Zuckerfabrik: gegründet 1940, Kapazität 50.000 Tonnen/Jahr", "Entfernung nach Kunduz: ca. 60 km", "Fluss Kunduz: Länge ca. 400 km", "Anzahl Industrieanlagen: 12 (hauptsächlich Zucker und Textil)"],
-      hu: ["Tengerszint feletti magasság: kb. 500 m", "Népesség: kb. 100.000 (2020-as becslés)", "Cukorgyár: alapítva 1940, kapacitás 50.000 tonna/év", "Távolság Kunduztól: kb. 60 km", "Kunduz folyó hossza: kb. 400 km", "Ipari létesítmények száma: 12 (főleg cukor és textil)"],
-      ro: ["Altitudine: cca. 500 m", "Populație: aproximativ 100.000 (estimare 2020)", "Fabrica de zahăr: fondată în 1940, capacitate 50.000 tone/an", "Distanța până la Kunduz: cca. 60 km", "Lungimea râului Kunduz: cca. 400 km", "Număr de facilități industriale: 12 (în principal zahăr și textile)"],
-      en: ["Elevation: approx. 500 m", "Population: about 100,000 (2020 estimate)", "Sugar factory: founded 1940, capacity 50,000 tons/year", "Distance to Kunduz: approx. 60 km", "Kunduz River length: approx. 400 km", "Number of industrial plants: 12 (mainly sugar and textile)"],
-    },
-  },
-  {
-    id: "afghanistan-khanabad-cities-v2",
-    type: "town",
-    name: { de: "Khanabad", hu: "Hánábád", ro: "Khanabad", en: "Khanabad" },
-    coords: [69.11, 36.68],
-    description: {
-      de: "Khanabad ist eine Stadt in der Provinz Kundus. Sie gilt als einer der fruchtbarsten Orte der Region und ist ein Zentrum des Reishandels.",
-      hu: "Hánábád város Kunduz tartományban. A régió egyik legtermékenyebb helyeként tartják számon, és a rizskereskedelem központja.",
-      ro: "Khanabad este un oraș din provincia Kunduz. Este considerat unul dintre cele mai fertile locuri din regiune și un centru al comerțului cu orez.",
-      en: "Khanabad is a town in Kunduz Province. It is considered one of the most fertile areas in the region and is a hub for the rice trade.",
-    },
-    facts: {
-      de: ["Am Fluss Khanabad gelegen", "Bekannt für hochwertigen Reis", "Strategische Lage nach Badachschan", "Historisch bedeutender Markt"],
-      hu: ["A Hánábád-folyó partján fekszik", "Kiváló minőségű rizséről ismert", "Stratégiai útvonal Badahsán felé", "Történelmileg jelentős piac"],
-      ro: ["Situat pe malul râului Khanabad", "Cunoscut pentru orez de calitate", "Ruta strategică spre Badakhshan", "Piață istorică importantă"],
-      en: ["Situated on the Khanabad River", "Known for high-quality rice", "Strategic route to Badakhshan", "Historically significant market"],
-    },
-    imageHint: "Khanabad town with rice fields nearby",
-    descriptionAdvanced: {
-      de: "Khanabad ist eine Stadt in der Provinz Kunduz im Norden Afghanistans. Sie liegt auf etwa 400 Metern Höhe am Fluss Khanabad, einem Nebenfluss des Kunduz. Die Stadt ist ein landwirtschaftliches Zentrum, bekannt für den Anbau von Baumwolle, Reis und Obst. Die Bevölkerung besteht hauptsächlich aus Usbeken und Tadschiken. Historisch war die Region Teil der Seidenstraße. Khanabad hat einen Basar, der regionale Produkte verkauft. Die Stadt war in den letzten Jahren Schauplatz von Konflikten zwischen Regierung und Taliban.",
-      hu: "Khanabad város Kunduz tartományban, Észak-Afganisztánban. A város körülbelül 400 méter magasan fekszik a Khanabad folyó mellett, amely a Kunduz mellékfolyója. Mezőgazdasági központ, ahol gyapotot, rizst és gyümölcsöt termesztenek. Lakossága főként üzbég és tadzsik. Történelmileg a régió a Selyemút része volt. Khanabadban van egy bazár, ahol regionális termékeket árusítanak. Az elmúlt években a város a kormány és a tálibok közötti konfliktusok színhelye volt.",
-      ro: "Khanabad este un oraș din provincia Kunduz din nordul Afganistanului. Este situat la aproximativ 400 de metri altitudine, pe râul Khanabad, un afluent al Kunduzului. Este un centru agricol cunoscut pentru bumbac, orez și fructe. Populația este formată în principal din uzbeci și tadjici. Din punct de vedere istoric, regiunea a făcut parte din Drumul Mătăsii. Khanabad are un bazar care vinde produse regionale. În ultimii ani, orașul a fost scena conflictelor dintre guvern și talibani.",
-      en: "Khanabad, a city in Kunduz Province in northern Afghanistan, lies at about 400 meters elevation on the Khanabad River. It is an agricultural center for cotton, rice, and fruit. The population is mainly Uzbek and Tajik. Historically part of the Silk Road, Khanabad features a bazaar selling regional goods. The city has seen conflict in recent years. The nearby Khanabad Dam provides irrigation for agriculture. The area is also known for its traditional Uzbek music and dance.",
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 400 m", "Bevölkerung: etwa 50.000 (Schätzung 2020)", "Hauptprodukt: Reis (jährliche Produktion ca. 10.000 Tonnen)", "Entfernung nach Kunduz: ca. 30 km", "Khanabad-Damm: gebaut 1970, Kapazität 5.000 ha bewässert", "Durchschnittstemperatur Juli: 38°C"],
-      hu: ["Tengerszint feletti magasság: kb. 400 m", "Népesség: kb. 50.000 (2020-as becslés)", "Fő termény: rizs (éves termés kb. 10.000 tonna)", "Távolság Kunduztól: kb. 30 km", "Khanabad-gát: épült 1970, kapacitás 5.000 ha öntözése", "Júliusi átlaghőmérséklet: 38°C"],
-      ro: ["Altitudine: cca. 400 m", "Populație: aproximativ 50.000 (estimare 2020)", "Produs principal: orez (producție anuală cca. 10.000 de tone)", "Distanța până la Kunduz: cca. 30 km", "Barajul Khanabad: construit în 1970, capacitate de irigare 5.000 ha", "Temperatura medie în iulie: 38°C"],
-      en: ["Elevation: approx. 400 m", "Population: about 50,000 (2020 estimate)", "Main product: rice (annual production approx. 10,000 tons)", "Distance to Kunduz: approx. 30 km", "Khanabad Dam: built 1970, irrigation capacity 5,000 ha", "Average temperature in July: 38°C"],
-    },
-  },
-  {
-    id: "afghanistan-imam-sahib-cities-v2",
-    type: "town",
-    name: { de: "Imam Sahib", hu: "Imám Száhib", ro: "Imam Sahib", en: "Imam Sahib" },
-    coords: [68.91, 37.19],
-    description: {
-      de: "Imam Sahib liegt an der Grenze zu Tadschikistan. Die Stadt ist bekannt für ihren bedeutenden Schrein und als wichtiger Handelsposten.",
-      hu: "Imám Száhib a tadzsik határ mentén fekszik. A város jelentős kegyhelyéről és fontos kereskedelmi állomásként ismert.",
-      ro: "Imam Sahib este situat la granița cu Tadjikistan. Orașul este cunoscut pentru sanctuarul său important și ca punct comercial cheie.",
-      en: "Imam Sahib is located on the border with Tajikistan. The town is known for its prominent shrine and as an important trading post.",
-    },
-    facts: {
-      de: ["Nahe dem Fluss Amu Darja", "Beherbergt einen heiligen Schrein", "Wichtig für den Grenzhandel", "Teil der Provinz Kundus"],
-      hu: ["Az Amu-darja folyó közelében", "Egy szent kegyhely otthona", "Fontos a határon túli kereskedelemben", "Kunduz tartomány része"],
-      ro: ["Lângă râul Amu Darya", "Găzduiește un sanctuar sfânt", "Important pentru comerțul transfrontalier", "Parte a provinciei Kunduz"],
-      en: ["Near the Amu Darya river", "Home to a holy shrine", "Important for cross-border trade", "Part of Kunduz Province"],
-    },
-    imageHint: "Imam Sahib shrine and city square",
-    descriptionAdvanced: {
-      de: "Imam Sahib ist eine Stadt in der Provinz Kunduz im Norden Afghanistans, nahe der Grenze zu Tadschikistan. Sie liegt auf etwa 400 Metern Höhe am Fluss Amudarja. Die Stadt ist ein landwirtschaftliches Zentrum, bekannt für den Anbau von Baumwolle, Reis und Melonen. Die Bevölkerung besteht hauptsächlich aus Usbeken und Tadschiken. Historisch war Imam Sahib ein wichtiger Flusshafen. Der Name leitet sich von einem islamischen Heiligen ab. Die Stadt hat einen Grenzübergang nach Tadschikistan.",
-      hu: "Imam Sahib város Kunduz tartományban, Észak-Afganisztánban, a tádzsik határ közelében. A város körülbelül 400 méter magasan fekszik az Amudarja folyó mellett. Mezőgazdasági központ, ahol gyapotot, rizst és dinnyét termesztenek. Lakossága főként üzbég és tadzsik. Történelmileg Imam Sahib fontos folyami kikötő volt. A név egy iszlám szenttől származik. A városnak határátkelője van Tádzsikisztánba.",
-      ro: "Imam Sahib este un oraș din provincia Kunduz din nordul Afganistanului, aproape de granița cu Tadjikistan. Este situat la aproximativ 400 de metri altitudine, pe malul râului Amudaria. Este un centru agricol cunoscut pentru bumbac, orez și pepeni. Populația este formată în principal din uzbeci și tadjici. Din punct de vedere istoric, Imam Sahib a fost un important port fluvial. Numele provine de la un sfânt islamic. Orașul are un punct de trecere a frontierei cu Tadjikistanul.",
-      en: "Imam Sahib, a city in Kunduz Province in northern Afghanistan, lies near the Tajik border at about 400 meters elevation on the Amu Darya River. It is an agricultural center for cotton, rice, and melons. The population is mainly Uzbek and Tajik. Historically a river port, the city is named after an Islamic saint. It has a border crossing to Tajikistan. The Amu Darya River is a vital water source for irrigation. The area is also known for its traditional fishing communities.",
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 400 m", "Bevölkerung: etwa 40.000 (Schätzung 2020)", "Hauptprodukt: Baumwolle (jährliche Produktion ca. 5.000 Tonnen)", "Entfernung nach Kunduz: ca. 50 km", "Amudarja: Länge ca. 2.400 km", "Grenzübergang: nach Tadjikistan (Panji Poyon)"],
-      hu: ["Tengerszint feletti magasság: kb. 400 m", "Népesség: kb. 40.000 (2020-as becslés)", "Fő termény: gyapot (éves termés kb. 5.000 tonna)", "Távolság Kunduztól: kb. 50 km", "Amudarja hossza: kb. 2.400 km", "Határátkelő: Tádzsikisztánba (Panji Poyon)"],
-      ro: ["Altitudine: cca. 400 m", "Populație: aproximativ 40.000 (estimare 2020)", "Produs principal: bumbac (producție anuală cca. 5.000 de tone)", "Distanța până la Kunduz: cca. 50 km", "Lungimea Amudariei: cca. 2.400 km", "Punct de trecere a frontierei: spre Tadjikistan (Panji Poyon)"],
-      en: ["Elevation: approx. 400 m", "Population: about 40,000 (2020 estimate)", "Main product: cotton (annual production approx. 5,000 tons)", "Distance to Kunduz: approx. 50 km", "Amu Darya length: approx. 2,400 km", "Border crossing: to Tajikistan (Panji Poyon)"],
-    },
-  },
-  {
-    id: "afghanistan-ghourian-cities-v2",
-    type: "town",
-    name: { de: "Ghourian", hu: "Gurián", ro: "Ghourian", en: "Ghourian" },
-    coords: [61.47, 34.34],
-    description: {
-      de: "Ghourian liegt in der Provinz Herat nahe der iranischen Grenze. Die Stadt ist ein historisches Zentrum für Landwirtschaft und Handel.",
-      hu: "Gurián Herát tartományban, az iráni határ közelében fekszik. A város a mezőgazdaság és a kereskedelem történelmi központja.",
-      ro: "Ghourian este situat în provincia Herat, lângă granița cu Iranul. Orașul este un centru istoric pentru agricultură și comerț.",
-      en: "Ghourian is located in Herat Province near the Iranian border. The town is a historical center for agriculture and trade.",
-    },
-    facts: {
-      de: ["Liegt westlich von Herat", "Bekannt für Getreideanbau", "Wichtiger Stop an der Seidenstraße", "Traditionelle Lehmarchitektur"],
-      hu: ["Heráttól nyugatra fekszik", "Gabonatermesztéséről ismert", "Fontos megálló a Selyemúton", "Hagyományos vályogépítészet"],
-      ro: ["Situat la vest de Herat", "Cunoscut pentru cultivarea cerealelor", "Oprire importantă pe Drumul Mătăsii", "Arhitectură tradițională din lut"],
-      en: ["Located west of Herat city", "Known for grain production", "Important stop on the Silk Road", "Traditional mud-brick architecture"],
-    },
-    imageHint: "Ghourian mud brick houses and fields",
-    descriptionAdvanced: {
-      de: "Ghourian ist eine Stadt in der Provinz Herat im Westen Afghanistans. Sie liegt auf etwa 800 Metern Höhe in einer trockenen Ebene. Die Stadt ist ein landwirtschaftliches Zentrum, bekannt für den Anbau von Weizen, Baumwolle und Obst. Die Bevölkerung besteht hauptsächlich aus Tadschiken und Paschtunen. Historisch war Ghourian Teil des Reiches von Herat. Die Stadt hat eine alte Festung aus der Timuridenzeit. In den letzten Jahren hat die Stadt von der Nähe zu Herat profitiert, bleibt aber ländlich geprägt.",
-      hu: "Ghourian város Herat tartományban, Nyugat-Afganisztánban. A város körülbelül 800 méter magasan fekszik egy száraz síkságon. Mezőgazdasági központ, ahol búzát, gyapotot és gyümölcsöt termesztenek. Lakossága főként tadzsik és pastu. Történelmileg Ghourian Herat birodalmának része volt. A városban található egy régi erőd a timurida korból. Az elmúlt években a város profitált Herat közelségéből, de továbbra is vidéki jellegű.",
-      ro: "Ghourian este un oraș din provincia Herat din vestul Afganistanului. Este situat la aproximativ 800 de metri altitudine, pe o câmpie uscată. Este un centru agricol cunoscut pentru grâu, bumbac și fructe. Populația este formată în principal din tadjici și paștuni. Din punct de vedere istoric, Ghourian a făcut parte din imperiul Heratului. Orașul are o veche fortăreață din perioada timuridă. În ultimii ani, orașul a beneficiat de apropierea de Herat, dar rămâne predominant rural.",
-      en: "Ghourian, a city in Herat Province in western Afghanistan, lies at about 800 meters elevation on a dry plain. It is an agricultural center for wheat, cotton, and fruit. The population is mainly Tajik and Pashtun. Historically part of the Herat empire, Ghourian has an old fortress from the Timurid era. The city has benefited from proximity to Herat, but remains rural. Agriculture is rain-fed, with limited irrigation. The area is also known for its traditional pottery and handicrafts.",
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 800 m", "Bevölkerung: etwa 20.000 (Schätzung 2020)", "Hauptprodukt: Weizen (jährliche Ernte ca. 4.000 Tonnen)", "Entfernung nach Herat: ca. 40 km", "Festung aus dem 15. Jahrhundert", "Jährlicher Niederschlag: 200 mm"],
-      hu: ["Tengerszint feletti magasság: kb. 800 m", "Népesség: kb. 20.000 (2020-as becslés)", "Fő termény: búza (éves termés kb. 4.000 tonna)", "Távolság Herattól: kb. 40 km", "Erőd a 15. századból", "Éves csapadék: 200 mm"],
-      ro: ["Altitudine: cca. 800 m", "Populație: aproximativ 20.000 (estimare 2020)", "Produs principal: grâu (recoltă anuală cca. 4.000 de tone)", "Distanța până la Herat: cca. 40 km", "Fortăreață din secolul al XV-lea", "Precipitații anuale: 200 mm"],
-      en: ["Elevation: approx. 800 m", "Population: about 20,000 (2020 estimate)", "Main product: wheat (annual harvest approx. 4,000 tons)", "Distance to Herat: approx. 40 km", "Fortress from the 15th century", "Annual precipitation: 200 mm"],
-    },
-  },
-  {
-    id: "afghanistan-aqcha-cities-v2",
-    type: "town",
-    name: { de: "Aqcha", hu: "Akcsa", ro: "Aqcha", en: "Aqcha" },
-    coords: [66.18, 36.91],
-    description: {
-      de: "Aqcha ist eine Stadt in der Provinz Dschauzdschan. Sie ist weltweit berühmt für die Herstellung traditioneller turkmenischer Teppiche.",
-      hu: "Akcsa város Dzsauzdzsán tartományban. Világszerte híres a hagyományos türkmén szőnyegek készítéséről.",
-      ro: "Aqcha este un oraș din provincia Jowzjan. Este faimos în întreaga lume pentru fabricarea covoarelor tradiționale turkmene.",
-      en: "Aqcha is a town in Jowzjan Province. It is world-famous for the production of traditional Turkmen carpets and rugs.",
-    },
-    facts: {
-      de: ["Zentrum des Teppichhandels", "Überwiegend turkmenische Bevölkerung", "Bedeutender lokaler Basar", "Nördlich der Provinz-Hauptstadt"],
-      hu: ["A szőnyegkereskedelem központja", "Túlnyomórészt türkmén lakosság", "Jelentős helyi bazár", "A tartományi székhelytől északra"],
-      ro: ["Centrul comerțului cu covoare", "Populație predominant turkmenă", "Bazar local important", "La nord de capitala provinciei"],
-      en: ["Center of the carpet trade", "Predominantly Turkmen population", "Significant local bazaar", "Located north of Sheberghan"],
-    },
-    imageHint: "Aqcha local bazaar with Turkmen carpets",
-    descriptionAdvanced: {
-      de: "Aqcha ist eine Stadt in der Provinz Jowzjan im Norden Afghanistans. Sie liegt auf etwa 300 Metern Höhe in einer trockenen Steppe. Die Stadt ist ein landwirtschaftliches Zentrum, bekannt für den Anbau von Baumwolle, Weizen und Melonen. Die Bevölkerung besteht hauptsächlich aus Usbeken und Turkmenern. Historisch war die Region Teil des Khanats von Chiwa. Aqcha hat einen großen Basar und ist ein wichtiger Handelspunkt für Vieh. Die Stadt war in den letzten Jahren relativ stabil.",
-      hu: "Aqcha város Jowzjan tartományban, Észak-Afganisztánban. A város körülbelül 300 méter magasan fekszik egy száraz sztyeppén. Mezőgazdasági központ, ahol gyapotot, búzát és dinnyét termesztenek. Lakossága főként üzbég és türkmén. Történelmileg a régió a Hivai Kánság része volt. Aqchában nagy bazár található, és fontos kereskedelmi pont az állatállomány számára. A város az elmúlt években viszonylag stabil volt.",
-      ro: "Aqcha este un oraș din provincia Jowzjan din nordul Afganistanului. Este situat la aproximativ 300 de metri altitudine, într-o stepă uscată. Este un centru agricol cunoscut pentru bumbac, grâu și pepeni. Populația este formată în principal din uzbeci și turkmeni. Din punct de vedere istoric, regiunea a făcut parte din Hanatul Hivei. Aqcha are un bazar mare și este un important punct de comerț cu animale. Orașul a fost relativ stabil în ultimii ani.",
-      en: "Aqcha, a city in Jowzjan Province in northern Afghanistan, lies at about 300 meters elevation in dry steppe. It is an agricultural center for cotton, wheat, and melons. The population is mainly Uzbek and Turkmen. Historically part of the Khanate of Khiva, Aqcha has a large bazaar and is a key livestock trading point. The city has been relatively stable in recent years. The area is also known for its traditional Turkmen carpet weaving, which is a significant source of income for many families.",
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 300 m", "Bevölkerung: etwa 30.000 (Schätzung 2020)", "Hauptprodukt: Baumwolle (jährliche Produktion ca. 6.000 Tonnen)", "Entfernung nach Sheberghan: ca. 40 km", "Durchschnittstemperatur Juli: 40°C", "Anzahl traditioneller Teppichweber: ca. 1.000"],
-      hu: ["Tengerszint feletti magasság: kb. 300 m", "Népesség: kb. 30.000 (2020-as becslés)", "Fő termény: gyapot (éves termés kb. 6.000 tonna)", "Távolság Sheberghantól: kb. 40 km", "Júliusi átlaghőmérséklet: 40°C", "Hagyományos szőnyegszövők száma: kb. 1.000"],
-      ro: ["Altitudine: cca. 300 m", "Populație: aproximativ 30.000 (estimare 2020)", "Produs principal: bumbac (producție anuală cca. 6.000 de tone)", "Distanța până la Sheberghan: cca. 40 km", "Temperatura medie în iulie: 40°C", "Număr de țesători tradiționali de covoare: cca. 1.000"],
-      en: ["Elevation: approx. 300 m", "Population: about 30,000 (2020 estimate)", "Main product: cotton (annual production approx. 6,000 tons)", "Distance to Sheberghan: approx. 40 km", "Average temperature in July: 40°C", "Number of traditional carpet weavers: approx. 1,000"],
-    },
-  },
-  {
-    id: "afghanistan-andkhoy-cities-v2",
-    type: "town",
-    name: { de: "Andkhoy", hu: "Andhuj", ro: "Andkhoy", en: "Andkhoy" },
-    coords: [65.12, 36.95],
-    description: {
-      de: "Andkhoy liegt im Nordwesten Afghanistans. Die Stadt ist bekannt für ihre Karakulschaf-Zucht und als wichtiger Handelsplatz für Teppiche.",
-      hu: "Andhuj Afganisztán északnyugati részén fekszik. A város karakul juh-tenyésztéséről és szőnyegkereskedelméről ismert.",
-      ro: "Andkhoy este situat în nord-vestul Afganistanului. Orașul este cunoscut pentru creșterea oilor Karakul și ca piață de covoare.",
-      en: "Andkhoy is located in northwestern Afghanistan. The town is known for its Karakul sheep breeding and as a key carpet trading post.",
-    },
-    facts: {
-      de: ["Nahe der Grenze zu Turkmenistan", "Berühmt für Karakul-Pelze", "Historisch durch Trockenheit geprägt", "Knotenpunkt in der Provinz Faryab"],
-      hu: ["A türkmén határ közelében", "Híres a karakul prémekről", "Történelmileg száraz éghajlat", "Csomópont Farjáb tartományban"],
-      ro: ["Aproape de granița cu Turkmenistan", "Faimos pentru blănurile Karakul", "Istoric marcat de secetă", "Nod rutier în provincia Faryab"],
-      en: ["Near the Turkmenistan border", "Famous for Karakul pelts", "Historically impacted by drought", "Hub in Faryab Province"],
-    },
-    imageHint: "Andkhoy town square and carpet market",
-    descriptionAdvanced: {
-      de: "Andkhoy ist eine Stadt in der Provinz Faryab im Nordwesten Afghanistans, nahe der Grenze zu Turkmenistan. Sie liegt auf etwa 300 Metern Höhe in einer Wüstenregion. Die Stadt ist ein Handelszentrum, bekannt für den Schmuggel und den Transit von Waren zwischen Afghanistan und Turkmenistan. Die Wirtschaft basiert auf Landwirtschaft (Baumwolle, Melonen) und Viehzucht. Die Bevölkerung besteht hauptsächlich aus Usbeken und Turkmenern. Historisch war Andkhoy Teil des Khanats von Chiwa. Die Stadt hat einen Flohmarkt, auf dem Kleidung und Haushaltswaren verkauft werden.",
-      hu: "Andkhoy város Faryab tartományban, Északnyugat-Afganisztánban, a türkmén határ közelében. A város körülbelül 300 méter magasan fekszik egy sivatagos régióban. Kereskedelmi központ, híres a csempészetről és az Afganisztán és Türkmenisztán közötti árutranzitról. Gazdasága mezőgazdaságon (gyapot, dinnye) és állattenyésztésen alapul. Lakossága főként üzbég és türkmén. Történelmileg Andkhoy a Hivai Kánság része volt. A városban bolhapiac működik, ahol ruházatot és háztartási cikkeket árulnak.",
-      ro: "Andkhoy este un oraș din provincia Faryab din nord-vestul Afganistanului, aproape de granița cu Turkmenistan. Este situat la aproximativ 300 de metri altitudine, într-o regiune deșertică. Este un centru comercial, cunoscut pentru contrabandă și tranzitul de mărfuri între Afganistan și Turkmenistan. Economia se bazează pe agricultură (bumbac, pepeni) și creșterea animalelor. Populația este formată în principal din uzbeci și turkmeni. Din punct de vedere istoric, Andkhoy a făcut parte din Hanatul Hivei. Orașul are un târg de vechituri unde se vând îmbrăcăminte și articole de uz casnic.",
-      en: "Andkhoy, a city in Faryab Province in northwestern Afghanistan, lies near the Turkmen border at about 300 meters elevation in a desert region. It is a trade center, known for smuggling and transit of goods between Afghanistan and Turkmenistan. The economy relies on agriculture (cotton, melons) and livestock. The population is mainly Uzbek and Turkmen. Historically part of the Khanate of Khiva, Andkhoy has a flea market selling clothing and household items. The city has a reputation for lawlessness due to smuggling activities.",
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 300 m", "Bevölkerung: etwa 40.000 (Schätzung 2020)", "Hauptprodukt: Baumwolle (jährliche Produktion ca. 4.000 Tonnen)", "Entfernung nach Maymana: ca. 100 km", "Grenzübergang nach Turkmenistan: 20 km entfernt", "Durchschnittstemperatur Januar: 5°C, Juli: 45°C"],
-      hu: ["Tengerszint feletti magasság: kb. 300 m", "Népesség: kb. 40.000 (2020-as becslés)", "Fő termény: gyapot (éves termés kb. 4.000 tonna)", "Távolság Maymanától: kb. 100 km", "Határátkelő Türkmenisztánba: 20 km", "Januári átlaghőmérséklet: 5°C, júliusi: 45°C"],
-      ro: ["Altitudine: cca. 300 m", "Populație: aproximativ 40.000 (estimare 2020)", "Produs principal: bumbac (producție anuală cca. 4.000 de tone)", "Distanța până la Maymana: cca. 100 km", "Punct de trecere a frontierei cu Turkmenistan: la 20 km", "Temperatura medie în ianuarie: 5°C, iulie: 45°C"],
-      en: ["Elevation: approx. 300 m", "Population: about 40,000 (2020 estimate)", "Main product: cotton (annual production approx. 4,000 tons)", "Distance to Maymana: approx. 100 km", "Border crossing to Turkmenistan: 20 km away", "Average temperature in January: 5°C, July: 45°C"],
-    },
-  },
-  {
-    id: "afghanistan-kholm-cities-v2",
-    type: "town",
-    name: { de: "Kholm", hu: "Holm", ro: "Kholm", en: "Kholm" },
-    coords: [67.69, 36.69],
-    description: {
-      de: "Kholm, früher Tashkurgan genannt, ist eine historische Stadt im Norden. Sie liegt strategisch günstig am Ausgang einer Bergschlucht.",
-      hu: "Holm, korábbi nevén Taskurgán, egy történelmi város északon. Stratégiai helyen, egy hegyi szurdok kijáratánál fekszik.",
-      ro: "Kholm, numit anterior Tashkurgan, este un oraș istoric din nord. Este situat strategic la ieșirea dintr-un defileu montan.",
-      en: "Kholm, formerly known as Tashkurgan, is a historic town in northern Afghanistan. It sits strategically at the mouth of a mountain gorge.",
-    },
-    facts: {
-      de: ["Berühmt für den antiken Basar", "Besitzt einen Palast (Bagh-e-Jahan)", "Wichtiger Stop an der Seidenstraße", "In der Provinz Balch gelegen"],
-      hu: ["Híres az ősi bazárjáról", "Palotája a Báge Dzsahán", "Fontos megálló a Selyemúton", "Balkh tartományban található"],
-      ro: ["Faimos pentru bazarul antic", "Deține un palat (Bagh-e-Jahan)", "Oprire importantă pe Drumul Mătăsii", "Situat în provincia Balkh"],
-      en: ["Famous for its ancient bazaar", "Features the Bagh-e Jahan palace", "Key stop on the Silk Road", "Located in Balkh Province"],
-    },
-    imageHint: "Kholm Tashkurgan ancient covered bazaar",
-    descriptionAdvanced: {
-      de: "Kholm, auch bekannt als Tashqurghan, ist eine Stadt in der Provinz Samangan im Norden Afghanistans. Sie liegt am Fluss Khulm und ist ein wichtiger landwirtschaftlicher Markt. Die Stadt ist berühmt für ihre alten Basare und die Nähe zu den Höhlen von Takht-e Rostam. Die Bevölkerung besteht hauptsächlich aus Usbeken und Tadschiken. Kholm war einst ein Knotenpunkt der Seidenstraße und hat eine reiche Geschichte, die bis in die Zeit des Alexander des Großen zurückreicht.",
-      hu: "Kholm (más néven Tashqurghan) város Szamangán tartományban, Észak-Afganisztánban, a Khulm folyó partján. Fontos mezőgazdasági piac. Híres régi bazárjairól és a Takht-e Rostam barlangjainak közelségéről. Lakossága főként üzbég és tadzsik. Kholm a Selyemút egyik csomópontja volt, történelme Nagy Sándorig nyúlik vissza.",
-      ro: "Kholm, cunoscut și ca Tashqurghan, este un oraș din provincia Samangan, nordul Afganistanului, situat pe râul Khulm. Este o piață agricolă importantă. Orașul este renumit pentru bazarurile sale vechi și apropierea de peșterile Takht-e Rostam. Populația este predominant uzbecă și tadjică. Kholm a fost un nod al Drumului Mătăsii, cu o istorie ce datează de la Alexandru cel Mare.",
-      en: "Kholm, also known as Tashqurghan, is a city in Samangan Province, northern Afghanistan, located on the Khulm River. It serves as a major agricultural marketplace. The city is famous for its ancient bazaars and proximity to the Takht-e Rostam caves. The population is primarily Uzbek and Tajik. Kholm was a Silk Road hub, with history tracing back to Alexander the Great.",
-    },
-    factsAdvanced: {
-      de: ["Kholm liegt auf 450 m Höhe.", "Die Einwohnerzahl beträgt rund 40.000.", "Samangan Provinz hat 7.582 km².", "Der Basar von Kholm ist über 500 Jahre alt.", "Die Stadt liegt an der alten Seidenstraße.", "Alexander der Große soll hier 329 v. Chr. gelagert haben."],
-      hu: ["Kholm 450 m tengerszint feletti magasságban fekszik.", "A város lakossága kb. 40.000 fő.", "Samangan tartomány területe 7.582 km².", "A kholmi bazár több mint 500 éves.", "A város a Selyemút mentén fekszik.", "Nagy Sándor i.e. 329-ben itt táborozott."],
-      ro: ["Kholm are o altitudine de 450 m.", "Populația este de aproximativ 40.000.", "Samangan are 7.582 km².", "Bazarul din Kholm are peste 500 de ani.", "Orașul este situat pe Drumul Mătăsii.", "Alexandru cel Mare a campat aici în 329 î.Hr."],
-      en: ["Kholm elevation: 450 meters.", "Population: about 40,000.", "Samangan Province area: 7,582 km².", "The bazaar is over 500 years old.", "Kholm lies on the ancient Silk Road.", "Alexander the Great camped here in 329 BCE."],
-    },
-  },
-  {
-    id: "afghanistan-balkh-cities-v2",
-    type: "city",
-    name: { de: "Balkh", hu: "Balh", ro: "Balkh", en: "Balkh" },
-    coords: [66.9, 36.76],
-    description: {
-      de: "Balkh ist eine der ältesten Städte der Welt. Sie war einst als die 'Mutter der Städte' bekannt und ein Zentrum des Buddhismus und Islam.",
-      hu: "Balh a világ egyik legősibb városa. Valaha a 'városok anyjaként' ismerték, a buddhizmus és az iszlám központja volt.",
-      ro: "Balkh este unul dintre cele mai vechi orașe din lume. A fost cunoscut drept „Mama Orașelor” și un centru al budismului și islamului.",
-      en: "Balkh is one of the oldest cities in the world. It was once known as the 'Mother of Cities' and a center of Buddhism and Islam.",
-    },
-    facts: {
-      de: ["Heimat des Gelehrten Rumi", "Uralte Stadtmauern erhalten", "Von Alexander dem Großen erobert", "Liegt westlich von Masar-i-Scharif"],
-      hu: ["Rúmi, a költő szülőhelye", "Ősi városfalak maradványai", "Nagy Sándor is elfoglalta", "Mazár-e Sariftól nyugatra"],
-      ro: ["Locul de naștere al lui Rumi", "Ziduri antice păstrate", "Cucerit de Alexandru cel Mare", "La vest de Mazar-i-Sharif"],
-      en: ["Birthplace of the scholar Rumi", "Ancient city walls still stand", "Conquered by Alexander the Great", "Located west of Mazar-i-Sharif"],
-    },
-    imageHint: "Ancient walls of Balkh city at sunset",
-    descriptionAdvanced: {
-      de: "Balkh ist eine Stadt in der Provinz Balkh im Norden Afghanistans, nahe Masar-e Scharif. Sie liegt auf etwa 400 Metern Höhe. Historisch war Balkh eine der wichtigsten Städte der antiken Welt, bekannt als Baktra, Hauptstadt von Baktrien. Die Stadt war ein Zentrum des Zoroastrismus und später des Buddhismus und Islams. Heute ist Balkh ein landwirtschaftliches Zentrum mit Baumwoll- und Getreideanbau. Die Bevölkerung besteht hauptsächlich aus Tadschiken. Die Ruinen der alten Stadt sind eine Touristenattraktion.",
-      hu: "Balkh város Balkh tartományban, Észak-Afganisztánban, Masar-i-Sarif közelében. A város körülbelül 400 méter magasan fekszik. Történelmileg Balkh az ókori világ egyik legfontosabb városa volt, Baktra néven, Baktria fővárosa. A város a zoroasztrizmus, később a buddhizmus és az iszlám központja volt. Ma Balkh mezőgazdasági központ gyapot- és gabonatermesztéssel. Lakossága főként tadzsik. Az ókori város romjai turistalátványosságok.",
-      ro: "Balkh este un oraș din provincia Balkh din nordul Afganistanului, aproape de Mazar-i-Sharif. Este situat la aproximativ 400 de metri altitudine. Din punct de vedere istoric, Balkh a fost unul dintre cele mai importante orașe ale lumii antice, cunoscut sub numele de Bactra, capitala Bactriei. Orașul a fost un centru al zoroastrismului, iar mai târziu al budismului și islamului. Astăzi, Balkh este un centru agricol cu cultivare de bumbac și cereale. Populația este formată în principal din tadjici. Ruinele orașului antic sunt o atracție turistică.",
-      en: "Balkh, a city in Balkh Province in northern Afghanistan near Mazar-i-Sharif, lies at about 400 meters elevation. Historically, Balkh was one of the most important ancient cities, known as Bactra, the capital of Bactria. It was a center for Zoroastrianism, later Buddhism, and Islam. Today, it is an agricultural center with cotton and grain farming. The population is mainly Tajik. The ruins of the old city, including the Green Mosque and ancient walls, are tourist attractions. Balkh is also known as the birthplace of the poet Rumi (Jalal ad-Din Muhammad Balkhi).",
-    },
-    factsAdvanced: {
-      de: ["Höhe: ca. 400 m", "Bevölkerung: etwa 30.000 (Schätzung 2020)", "Historische Bedeutung: Hauptstadt von Baktrien (ca. 1000 v. Chr.)", "Entfernung nach Masar-e Scharif: ca. 20 km", "Grüne Moschee: erbaut im 15. Jahrhundert", "Geburtsort von Rumi (1207 n. Chr.)"],
-      hu: ["Tengerszint feletti magasság: kb. 400 m", "Népesség: kb. 30.000 (2020-as becslés)", "Történelmi jelentősége: Baktria fővárosa (kb. i.e. 1000)", "Távolság Masar-i-Sariftól: kb. 20 km", "Zöld mecset: épült a 15. században", "Rumi születési helye (1207)"],
-      ro: ["Altitudine: cca. 400 m", "Populație: aproximativ 30.000 (estimare 2020)", "Semnificație istorică: capitala Bactriei (cca. 1000 î.Hr.)", "Distanța până la Mazar-i-Sharif: cca. 20 km", "Moscheea Verde: construită în secolul al XV-lea", "Locul de naștere al lui Rumi (1207 d.Hr.)"],
-      en: ["Elevation: approx. 400 m", "Population: about 30,000 (2020 estimate)", "Historical significance: capital of Bactria (approx. 1000 BC)", "Distance to Mazar-i-Sharif: approx. 20 km", "Green Mosque: built in the 15th century", "Birthplace of Rumi (1207 AD)"],
-    },
-  },
-  {
-    id: "afghanistan-shindand-cities-v2",
-    type: "town",
-    name: { de: "Shindand", hu: "Sindand", ro: "Shindand", en: "Shindand" },
-    coords: [62.14, 33.3],
-    description: {
-      de: "Shindand, historisch Sabzawar genannt, liegt in der Provinz Herat. Die Stadt beherbergt einen der größten Militärflugplätze des Landes.",
-      hu: "Sindand, történelmi nevén Szabzavár, Herát tartományban található. Itt működik az ország egyik legnagyobb katonai repülőtere.",
-      ro: "Shindand, numit istoric Sabzawar, este situat în provincia Herat. Găzduiește unul dintre cele mai mari aerodromuri militare.",
-      en: "Shindand, historically known as Sabzawar, is located in Herat Province. It is home to one of the largest military airbases in Afghanistan.",
-    },
-    facts: {
-      de: ["Bedeutender Luftwaffenstützpunkt", "Ehemals Zentrum für Weinbau", "Strategische Lage im Westen", "Hieß früher Sabzawar"],
-      hu: ["Jelentős légibázis", "Egykor a bortermelés központja", "Stratégiai fekvés nyugaton", "Régi neve Szabzavár"],
-      ro: ["Bază aeriană majoră", "Fost centru pentru viticultură", "Poziție strategică în vest", "Denumit anterior Sabzawar"],
-      en: ["Major military airbase", "Formerly a viticulture center", "Strategic western location", "Known historically as Sabzawar"],
-    },
-    imageHint: "Shindand aerial view of town and airbase",
-    descriptionAdvanced: {
-      de: "Shindand ist eine Stadt in der Provinz Herat im Westen Afghanistans, nahe der Grenze zum Iran. Sie liegt auf etwa 1.150 m Höhe in einer trockenen Ebene. Die Stadt ist bekannt für ihren Militärflughafen, der während des Kalten Krieges von der sowjetischen Luftwaffe genutzt wurde. Die Wirtschaft basiert auf Handwerk, Landwirtschaft (Weizen, Gerste) und dem lokalen Handel. Die Bevölkerung setzt sich aus Paschtunen, Tadschiken und Aimaken zusammen.",
-      hu: "Shindand Herat tartományban, Nyugat-Afganisztánban, az iráni határ közelében, körülbelül 1.150 m tengerszint feletti magasságban fekszik egy száraz síkságon. Ismert katonai repülőteréről, amelyet a szovjet légierő használt a hidegháború alatt. Gazdasága kézművességre, mezőgazdaságra (búza, árpa) és helyi kereskedelemre épül. Lakossága pastu, tadzsik és ajmak etnikumokból áll.",
-      ro: "Shindand este un oraș în provincia Herat, vestul Afganistanului, aproape de granița cu Iranul, situat la o altitudine de aproximativ 1.150 m într-o câmpie aridă. Este cunoscut pentru aeroportul său militar, folosit de forțele aeriene sovietice în timpul Războiului Rece. Economia se bazează pe meșteșuguri, agricultură (grâu, orz) și comerț local. Populația este formată din paștuni, tadjici și aimak.",
-      en: "Shindand is a city in Herat Province, western Afghanistan, near the Iranian border, lying at about 1,150 meters elevation in an arid plain. It is known for its military airbase, used by the Soviet Air Force during the Cold War. The economy relies on handicrafts, agriculture (wheat, barley), and local trade. The population includes Pashtuns, Tajiks, and Aimaqs.",
-    },
-    factsAdvanced: {
-      de: ["Shindand liegt auf 1.150 m Höhe.", "Die Stadt hat etwa 30.000 Einwohner.", "Der Flughafen Shindand hat eine 2.800 m lange Startbahn.", "Herat Provinz umfasst 54.778 km².", "Die Gegend erhält nur 200 mm Niederschlag pro Jahr.", "Der Flughafen wurde 1979 von den Sowjets ausgebaut."],
-      hu: ["Shindand 1.150 m tengerszint feletti magasságban fekszik.", "Lakossága kb. 30.000 fő.", "A katonai repülőtér kifutópályája 2.800 m hosszú.", "Herat tartomány területe 54.778 km².", "Az éves csapadékmennyiség 200 mm.", "A repülőteret 1979-ben bővítették a szovjetek."],
-      ro: ["Shindand are o altitudine de 1.150 m.", "Populația este de aproximativ 30.000.", "Pista aeroportului militar are 2.800 m lungime.", "Provincia Herat are 54.778 km².", "Precipitațiile anuale sunt de 200 mm.", "Aeroportul a fost extins de sovietici în 1979."],
-      en: ["Shindand elevation: 1,150 meters.", "Population: about 30,000.", "Military airbase runway length: 2,800 m.", "Herat Province area: 54,778 km².", "Annual precipitation: 200 mm.", "Airbase expanded by Soviets in 1979."],
-    },
-  },
-  {
-    id: "afghanistan-sang-e-charak-cities-v2",
-    type: "town",
-    name: { de: "Sang-e Charak", hu: "Szing-e Csárak", ro: "Sang-e Charak", en: "Sang-e Charak" },
-    coords: [66.44, 35.83],
-    description: {
-      de: "Sang-e Charak liegt in der Provinz Sar-e Pol. Die Stadt ist bekannt für ihre raue Berglandschaft und die traditionelle Landwirtschaft.",
-      hu: "Szing-e Csárak Szar-e Pol tartományban található. A város zord hegyvidéki tájairól és hagyományos mezőgazdaságáról ismert.",
-      ro: "Sang-e Charak este situat în provincia Sar-e Pol. Orașul este cunoscut pentru peisajele montane aspre și agricultura tradițională.",
-      en: "Sang-e Charak is located in Sar-e Pol Province. The town is known for its rugged mountain landscapes and traditional farming.",
-    },
-    facts: {
-      de: ["In den Hindukusch-Ausläufern", "Bekannt für den Obsthandel", "Bedeutender lokaler Markt", "Zentrum des gleichnamigen Distrikts"],
-      hu: ["A Hindukus lábainál fekszik", "Gyümölcskereskedelméről ismert", "Jelentős helyi piac", "Az azonos nevű körzet központja"],
-      ro: ["La poalele Hindu Kush", "Cunoscut pentru comerțul cu fructe", "Piață locală importantă", "Centrul districtului omonim"],
-      en: ["In the Hindu Kush foothills", "Known for fruit trade", "Significant local market", "Center of the eponymous district"],
-    },
-    imageHint: "Sang-e Charak rugged mountain scenery",
-    descriptionAdvanced: {
-      de: "Sang-e Charak ist eine Stadt in der Provinz Sar-e Pul im Norden Afghanistans. Sie liegt auf etwa 800 m Höhe und ist bekannt für ihre landwirtschaftlichen Produkte, insbesondere Mandeln und Pistazien. Die Stadt hat eine gemischte Bevölkerung aus Usbeken, Tadschiken und Paschtunen. Die Infrastruktur ist begrenzt, aber es gibt einen kleinen Markt und grundlegende medizinische Einrichtungen. Die Region war in den letzten Jahrzehnten von Konflikten betroffen.",
-      hu: "Sang-e Charak város Szár-e Pol tartományban, Észak-Afganisztánban, körülbelül 800 méter tengerszint feletti magasságban. Híres mezőgazdasági termékeiről, különösen manduláról és pisztáciáról. Lakossága üzbég, tadzsik és pastu etnikumokból tevődik össze. Az infrastruktúra korlátozott, de van egy kis piac és alapvető egészségügyi ellátás. A térséget az elmúlt évtizedekben konfliktusok sújtották.",
-      ro: "Sang-e Charak este un oraș în provincia Sar-e Pul, nordul Afganistanului, situat la o altitudine de aproximativ 800 m. Este cunoscut pentru produsele sale agricole, în special migdale și fistic. Populația este mixtă, formată din uzbeci, tadjici și paștuni. Infrastructura este limitată, dar există o piață mică și facilități medicale de bază. Regiunea a fost afectată de conflicte în ultimele decenii.",
-      en: "Sang-e Charak is a city in Sar-e Pul Province, northern Afghanistan, at an elevation of about 800 meters. It is known for its agricultural products, particularly almonds and pistachios. The population is mixed, including Uzbeks, Tajiks, and Pashtuns. Infrastructure is limited, with a small market and basic healthcare facilities. The area has been affected by conflicts in recent decades.",
-    },
-    factsAdvanced: {
-      de: ["Sang-e Charak liegt auf 800 m Höhe.", "Die Einwohnerzahl wird auf 25.000 geschätzt.", "Sar-e Pul Provinz ist 15.999 km² groß.", "Die Mandelproduktion beträgt 2.000 Tonnen jährlich.", "Pistazien werden auf 500 Hektar angebaut.", "Die Stadt hat eine Grundschule mit 300 Schülern."],
-      hu: ["Sang-e Charak 800 m tengerszint feletti magasságban fekszik.", "Lakossága kb. 25.000 fő.", "Szár-e Pol tartomány területe 15.999 km².", "Az éves mandulatermelés 2.000 tonna.", "Pisztáciát 500 hektáron termesztenek.", "A városban egy általános iskola működik 300 tanulóval."],
-      ro: ["Sang-e Charak are altitudinea de 800 m.", "Populația este de aproximativ 25.000.", "Provincia Sar-e Pul are 15.999 km².", "Producția anuală de migdale este de 2.000 de tone.", "Fisticul este cultivat pe 500 de hectare.", "Orașul are o școală primară cu 300 de elevi."],
-      en: ["Sang-e Charak elevation: 800 meters.", "Population: about 25,000.", "Sar-e Pul Province area: 15,999 km².", "Annual almond production: 2,000 tons.", "Pistachio cultivation on 500 hectares.", "One primary school with 300 students."],
-    },
-  },
-  {
-    id: "afghanistan-qaysar-cities-v2",
-    type: "town",
-    name: { de: "Qaysar", hu: "Kajszár", ro: "Qaysar", en: "Qaysar" },
-    coords: [64.3, 35.69],
-    description: {
-      de: "Qaysar ist eine Stadt in der Provinz Faryab. Sie ist bekannt für ihre Produktion von Weintrauben und Rosinen von hoher Qualität.",
-      hu: "Kajszár város Farjáb tartományban. Kiváló minőségű szőlő- és mazsolatermeléséről ismert.",
-      ro: "Qaysar este un oraș din provincia Faryab. Este cunoscut pentru producția sa de struguri și stafide de înaltă calitate.",
-      en: "Qaysar is a town in Faryab Province. It is renowned for its high-quality grape and raisin production.",
-    },
-    facts: {
-      de: ["Großer landwirtschaftlicher Markt", "Zentrum für Obstexporte", "Liegt im Westen von Faryab", "Traditioneller Teppichhandel"],
-      hu: ["Nagy mezőgazdasági piac", "Gyümölcsexport központja", "Farjáb nyugati részén fekszik", "Hagyományos szőnyegkereskedelem"],
-      ro: ["Piață agricolă mare", "Centru pentru exportul de fructe", "Situat în vestul Faryab", "Comerț tradițional cu covoare"],
-      en: ["Large agricultural market", "Center for fruit exports", "Located in western Faryab", "Traditional carpet trade"],
-    },
-    imageHint: "Qaysar vineyards and raisin drying houses",
-    descriptionAdvanced: {
-      de: "Qaysar ist eine Stadt in der Provinz Faryab im Nordwesten Afghanistans. Sie liegt auf einer Höhe von etwa 800 Metern und hat eine Bevölkerung von rund 48.000 Menschen (Schätzung 2015). Die Stadt war historisch ein wichtiger Knotenpunkt an der Seidenstraße und diente als Handelszentrum für landwirtschaftliche Produkte wie Weizen, Baumwolle und Obst. Qaysar verfügt über mehrere traditionelle Basare und ist für seine Teppichknüpferei bekannt. Die Umgebung ist geprägt von Flussoasen und Halbwüsten, wobei der Fluss Qaysar die Hauptwasserquelle darstellt. Die Infrastruktur wurde in den letzten Jahrzehnten durch Konflikte stark beeinträchtigt, aber die Landwirtschaft bleibt der dominierende Wirtschaftszweig.",
-      hu: "Qaysar egy város Afganisztán északnyugati részén, Faryab tartományban. A település körülbelül 800 méter tengerszint feletti magasságban fekszik, és 2015-ös becslések szerint 48 000 fő lakosa van. A város történelmileg a Selyemút fontos állomása volt, és mezőgazdasági központként szolgált, ahol elsősorban búzát, gyapotot és gyümölcsöket termesztettek. Qaysar híres kézzel szőtt szőnyegeiről, amelyeket a helyi bazárokban árusítanak. A környék száraz, félsivatagos éghajlatú, a város vízellátását a Qaysar folyó biztosítja. A konfliktusok ellenére a mezőgazdaság továbbra is a gazdaság alapja.",
-      ro: "Qaysar este un oraș din provincia Faryab, nord-vestul Afganistanului. Situat la o altitudine de aproximativ 800 de metri, orașul are o populație estimată la 48.000 de locuitori (2015). Din punct de vedere istoric, Qaysar a fost un important nod comercial pe Drumul Mătăsii, specializat în comerțul cu produse agricole precum grâul, bumbacul și fructele. Orașul este renumit pentru producția de covoare țesute manual, care sunt vândute în bazarurile locale. Regiunea înconjurătoare este caracterizată de o climă semi-aridă, cu oaze de-a lungul râului Qaysar. Infrastructura a fost grav afectată de conflicte, dar agricultura rămâne principala activitate economică.",
-      en: "Qaysar is a town in Faryab province, northwestern Afghanistan, located at an elevation of about 800 meters with an estimated population of 48,000 (2015). Historically a waypoint on the Silk Road, it thrived as a trading center for agricultural goods like wheat, cotton, and fruits. The town is known for its handwoven carpets and traditional bazaars. The economy is predominantly agricultural, relying on irrigation from the Qaysar River. Despite decades of conflict, the town maintains its role as a local market hub. The surrounding landscape features arid plains and riverine oases, supporting limited farming.",
-    },
-    factsAdvanced: {
-      de: ["Einwohnerzahl: ca. 48.000 (2015)", "Höhe: 800 m", "Fläche des Distrikts Qaysar: 2.200 km²", "Gründungszeit: vermutlich 10. Jahrhundert", "Durchschnittliche Jahrestemperatur: 15 °C", "Anzahl der Moscheen: etwa 30"],
-      hu: ["Népesség: kb. 48.000 (2015)", "Tengerszint feletti magasság: 800 m", "Qaysar körzet területe: 2.200 km²", "Alapítás: valószínűleg a 10. században", "Évi átlaghőmérséklet: 15 °C", "Mecsetek száma: kb. 30"],
-      ro: ["Populație: aproximativ 48.000 (2015)", "Altitudine: 800 m", "Suprafața districtului Qaysar: 2.200 km²", "Înființare: probabil secolul al X-lea", "Temperatura medie anuală: 15 °C", "Numărul de moschei: circa 30"],
-      en: ["Population: approx. 48,000 (2015)", "Elevation: 800 m", "Area of Qaysar District: 2,200 km²", "Founded: likely 10th century", "Average annual temperature: 15 °C", "Number of mosques: about 30"],
-    },
-  },
-  {
-    id: "afghanistan-panjao-cities-v2",
-    type: "town",
-    name: { de: "Panjao", hu: "Pandzsao", ro: "Panjao", en: "Panjao" },
-    coords: [67.02, 34.38],
-    description: {
-      de: "Panjao liegt im Herzen der Provinz Bamyan. Die Stadt befindet sich an einem Zusammenfluss von fünf Flüssen im zentralen Hochland.",
-      hu: "Pandzsao Bamijan tartomány szívében fekszik. A város öt folyó találkozásánál található a központi felföldön.",
-      ro: "Panjao este situat în inima provinciei Bamyan. Orașul se află la confluența a cinci râuri în zonele muntoase centrale.",
-      en: "Panjao is located in the heart of Bamyan Province. The town is situated at the confluence of five rivers in the central highlands.",
-    },
-    facts: {
-      de: ["Name bedeutet 'Fünf Wasser'", "Sehr hohe Lage (über 2700m)", "Bedeutendes Zentrum der Hazara", "Knotenpunkt in Zentralafghanistan"],
-      hu: ["Neve 'öt vizet' jelent", "Nagyon magas fekvés (2700m+)", "Fontos hazara központ", "Közép-Afganisztán csomópontja"],
-      ro: ["Numele înseamnă „Cinci Ape”", "Altitudine foarte mare (peste 2700m)", "Centru important al comunității Hazara", "Nod rutier în centrul Afganistanului"],
-      en: ["Name means 'Five Waters'", "Very high altitude (over 2700m)", "Important Hazara cultural center", "Hub in central Afghanistan"],
-    },
-    imageHint: "Panjao mountain town with river confluence",
-    descriptionAdvanced: {
-      de: "Panjao ist ein Marktflecken in der Provinz Bamyan im zentralen Afghanistan. Er liegt auf rund 2.600 Metern Höhe im Hindukusch-Gebirge und hat etwa 15.000 Einwohner (2015). Die Region ist bekannt für ihre natürlichen Seen, darunter der Band-e Panjao, die ein beliebtes Ziel für Touristen sind. Die Wirtschaft basiert auf Landwirtschaft (Gerste, Kartoffeln) und Kleinviehhaltung. Panjao dient als Verwaltungszentrum des gleichnamigen Distrikts. Die Bevölkerung setzt sich überwiegend aus Hazara und Tadschiken zusammen. Der Ort hat eine Grundschule und ein kleines Krankenhaus. Aufgrund der Höhenlage sind die Winter streng und schneereich.",
-      hu: "Panjao egy kisváros Afganisztán középső részén, Bamyan tartományban. Körülbelül 2600 méter magasan fekszik a Hindukusban, lakossága 2015-ben körülbelül 15 000 fő volt. A térség híres természetes tavairól, mint a Band-e Panjao, amelyek turisták célpontjai. A gazdaság a mezőgazdaságra (árpa, burgonya) és a kisállat-tartásra épül. Panjao a körzet közigazgatási központja. A lakosság többsége hazara és tadzsik. A településen van egy általános iskola és egy kis kórház. A magas tengerszint feletti magasság miatt a telek nagyon hidegek és havasak.",
-      ro: "Panjao este un târg în provincia Bamyan, centrul Afganistanului, situat la o altitudine de aproximativ 2.600 de metri în munții Hindukuș. Populația este estimată la 15.000 de locuitori (2015). Zona este renumită pentru lacurile sale naturale, cum ar fi Band-e Panjao, care atrag turiști. Economia se bazează pe agricultură (orz, cartofi) și creșterea animalelor mici. Panjao este centrul administrativ al districtului cu același nume. Populația este compusă în principal din hazara și tadjici. Orașul are o școală primară și un mic spital. Datorită altitudinii, iernile sunt aspre și cu zăpadă abundentă.",
-      en: "Panjao is a market town in Bamyan province, central Afghanistan, situated at an elevation of about 2,600 meters in the Hindu Kush. With an estimated population of 15,000 (2015), it serves as the district center. The area is famous for its scenic lakes, including Band-e Panjao, which are popular for tourism. The economy relies on subsistence agriculture, primarily barley and potatoes, and livestock. The population is predominantly Hazara and Tajik. The town has basic infrastructure: a primary school and a small clinic. Winters are severe with heavy snowfall, limiting access.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 15.000 (2015)", "Höhe: 2.600 m", "Anzahl der Seen: 5 im Band-e Panjao-Gebiet", "Niederschlag: 400 mm jährlich", "Gründung des Distrikts: 1973", "Entfernung nach Bamyan: 80 km"],
-      hu: ["Népesség: kb. 15.000 (2015)", "Tengerszint feletti magasság: 2.600 m", "Tavak száma: 5 a Band-e Panjao területen", "Csapadék: 400 mm évente", "A körzet alapítása: 1973", "Távolság Bamyantól: 80 km"],
-      ro: ["Populație: circa 15.000 (2015)", "Altitudine: 2.600 m", "Număr de lacuri: 5 în zona Band-e Panjao", "Precipitații: 400 mm anual", "Înființarea districtului: 1973", "Distanța până la Bamyan: 80 km"],
-      en: ["Population: approx. 15,000 (2015)", "Elevation: 2,600 m", "Number of lakes: 5 in Band-e Panjao area", "Annual precipitation: 400 mm", "District established: 1973", "Distance to Bamyan: 80 km"],
-    },
-  },
-  {
-    id: "afghanistan-kishim-cities-v2",
-    type: "town",
-    name: { de: "Kishim", hu: "Kisim", ro: "Kishim", en: "Kishim" },
-    coords: [70.08, 36.81],
-    description: {
-      de: "Kishim gilt als das Tor zur Provinz Badachschan. Die Stadt liegt in einem fruchtbaren Tal, das für seine Weizenfelder bekannt ist.",
-      hu: "Kisim Badahsán tartomány kapujának számít. A város egy termékeny völgyben fekszik, amely búzamezőiről ismert.",
-      ro: "Kishim este considerat poarta către provincia Badakhshan. Orașul este situat într-o vale fertilă faimoasă pentru lanurile de grâu.",
-      en: "Kishim is considered the gateway to Badakhshan Province. The town is situated in a fertile valley famous for its wheat fields.",
-    },
-    facts: {
-      de: ["Westlichster Distrikt Badachschans", "Bedeutender Agrarmarkt", "Liegt an der Straße nach Faizabad", "Berühmt für Melonen"],
-      hu: ["Badahsán legnyugatibb körzete", "Jelentős agrárpiac", "A Faizábád felé vezető úton", "Híres a dinnyéjéről"],
-      ro: ["Cel mai vestic district din Badakhshan", "Piață agricolă importantă", "Situat pe drumul spre Faizabad", "Faimos pentru pepeni"],
-      en: ["Westernmost district of Badakhshan", "Significant agricultural market", "On the main road to Faizabad", "Famous for its melons"],
-    },
-    imageHint: "Kishim valley wheat fields and town entrance",
-    descriptionAdvanced: {
-      de: "Kishim ist eine Stadt in der Provinz Badakhshan im Nordosten Afghanistans. Sie liegt auf etwa 1.500 Metern Höhe im Tal des Flusses Kishim und hat rund 30.000 Einwohner (2015). Die Stadt ist ein landwirtschaftliches Zentrum mit Anbau von Weizen, Mais und Obst, insbesondere Aprikosen. Kishim liegt an der Fernstraße von Faizabad nach Kabul und hat einen geschäftigen Basar. Historisch war die Region Teil des antiken Baktrien. Die Bevölkerung setzt sich aus Tadschiken, Usbeken und Paschtunen zusammen. Die Stadt hat mehrere Schulen und ein Krankenhaus. Die Umgebung ist gebirgig und bietet Möglichkeiten für Wandern.",
-      hu: "Kishim egy város Afganisztán északkeleti részén, Badakhshan tartományban. Körülbelül 1500 méter magasan fekszik a Kishim folyó völgyében, lakossága 2015-ben kb. 30 000 fő. A város mezőgazdasági központ: búzát, kukoricát és gyümölcsöket, főleg sárgabarackot termesztenek. Kishim a Faizabad–Kabul főút mentén fekszik, forgalmas bazárral. Történelmileg a régió Baktria része volt. A lakosság tadzsik, üzbég és pastu etnikumokból áll. Több iskola és egy kórház található itt. A környező hegyek túrázásra alkalmasak.",
-      ro: "Kishim este un oraș din provincia Badakhshan, nord-estul Afganistanului, situat la o altitudine de aproximativ 1.500 de metri în valea râului Kishim. Populația este estimată la 30.000 de locuitori (2015). Orașul este un centru agricol, cultivând grâu, porumb și fructe, în special caise. Kishim se află pe drumul principal dintre Faizabad și Kabul și are un bazar aglomerat. Din punct de vedere istoric, regiunea a făcut parte din Bactria antică. Populația este formată din tadjici, uzbeci și paștuni. Orașul are mai multe școli și un spital. Peisajul montan din jur oferă trasee de drumeție.",
-      en: "Kishim is a town in Badakhshan province, northeastern Afghanistan, at an elevation of about 1,500 meters in the Kishim River valley. It has an estimated population of 30,000 (2015). As an agricultural hub, it produces wheat, maize, and fruits, especially apricots. Located on the road linking Faizabad and Kabul, Kishim has a lively bazaar. Historically part of ancient Bactria, the town has a diverse ethnic makeup of Tajiks, Uzbeks, and Pashtuns. Infrastructure includes several schools and a hospital. The surrounding mountains offer trekking opportunities.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 30.000 (2015)", "Höhe: 1.500 m", "Fläche des Distrikts Kishim: 1.800 km²", "Aprikosenproduktion: jährlich 5.000 Tonnen", "Anzahl der Schulen: 12", "Entfernung nach Faizabad: 50 km"],
-      hu: ["Népesség: kb. 30.000 (2015)", "Tengerszint feletti magasság: 1.500 m", "Kishim körzet területe: 1.800 km²", "Sárgabarack-termelés: évi 5.000 tonna", "Iskolák száma: 12", "Távolság Faizabadtól: 50 km"],
-      ro: ["Populație: aproximativ 30.000 (2015)", "Altitudine: 1.500 m", "Suprafața districtului Kishim: 1.800 km²", "Producția de caise: 5.000 tone anual", "Numărul de școli: 12", "Distanța până la Faizabad: 50 km"],
-      en: ["Population: approx. 30,000 (2015)", "Elevation: 1,500 m", "Area of Kishim District: 1,800 km²", "Apricot production: 5,000 tons annually", "Number of schools: 12", "Distance to Faizabad: 50 km"],
-    },
-  },
-  {
-    id: "afghanistan-jurm-cities-v2",
-    type: "town",
-    name: { de: "Jurm", hu: "Dzsorm", ro: "Jurm", en: "Jurm" },
-    coords: [70.83, 36.86],
-    description: {
-      de: "Jurm ist eine historische Stadt in der Provinz Badachschan. Sie ist ein wichtiges Handelszentrum für Mineralien, insbesondere Lapislazuli.",
-      hu: "Dzsorm történelmi város Badahsán tartományban. Fontos ásványkereskedelmi központ, különösen a lapi lazuli kereskedelméről híres.",
-      ro: "Jurm este un oraș istoric din provincia Badakhshan. Este un centru important pentru comerțul cu minerale, în special lapis lazuli.",
-      en: "Jurm is a historical town in Badakhshan Province. It is a key trading center for minerals, particularly lapis lazuli.",
-    },
-    facts: {
-      de: ["Nahe den Lapislazuli-Minen", "Am Fluss Koktscha gelegen", "Historisch bedeutendes Gelehrtenzentrum", "Bergige Umgebung"],
-      hu: ["Lapis lazuli bányák közelében", "A Kokcsa-folyó partján fekszik", "Történelmileg tudósok központja", "Hegyvidéki környezet"],
-      ro: ["Lângă minele de lapis lazuli", "Situat pe râul Kokcha", "Centru istoric de învățare", "Cadru natural montan"],
-      en: ["Near lapis lazuli mines", "Situated on the Kokcha River", "Historically center of scholarship", "Surrounded by high mountains"],
-    },
-    imageHint: "Jurm mountain town with Kokcha river",
-    descriptionAdvanced: {
-      de: "Jurm ist eine Kleinstadt in der Provinz Badakhshan im Nordosten Afghanistans. Sie liegt auf etwa 1.800 Metern Höhe im Pandschir-Tal und hat etwa 12.000 Einwohner (2015). Die Wirtschaft ist landwirtschaftlich geprägt, mit Anbau von Weizen, Gerste und Kartoffeln. Jurm ist bekannt für seine Smaragdminen, die zu den ältesten der Welt gehören. Die Region ist auch für ihre vielfältige Tierwelt bekannt. Die Bevölkerung besteht hauptsächlich aus Tadschiken. Der Ort hat eine Grundschule und eine Gesundheitsstation. Die Straßenverbindungen sind aufgrund des schwierigen Geländes oft unterbrochen. Der nahegelegene Fluss Pandschir bietet Fischfangmöglichkeiten.",
-      hu: "Jurm egy kisváros Afganisztán északkeleti részén, Badakhshan tartományban. Körülbelül 1800 méter magasan fekszik a Pandzsir-völgyben, lakossága kb. 12 000 fő (2015). A gazdaság a mezőgazdaságon alapul: búzát, árpát és burgonyát termesztenek. Jurm híres smaragdbányáiról, amelyek a világ legrégebbi smaragdforrásai közé tartoznak. A régió gazdag vadon élő állatokban. A lakosság többsége tadzsik. A településen van egy általános iskola és egy egészségügyi központ. Az utakat gyakran elzárja a nehéz terep. A közeli Pandzsir folyó horgászati lehetőségeket kínál.",
-      ro: "Jurm este un orășel în provincia Badakhshan, nord-estul Afganistanului, situat la o altitudine de aproximativ 1.800 de metri în valea Panjshir. Populația este de aproximativ 12.000 de locuitori (2015). Economia se bazează pe agricultură, culturi de grâu, orz și cartofi. Jurm este cunoscut pentru minele sale de smarald, printre cele mai vechi din lume. Regiunea este bogată în faună sălbatică. Populația este predominant tadjică. Orașul are o școală primară și un centru de sănătate. Drumurile sunt frecvent întrerupte din cauza terenului dificil. Râul Panjshir din apropiere oferă posibilități de pescuit.",
-      en: "Jurm is a small town in Badakhshan province, northeastern Afghanistan, at an elevation of about 1,800 meters in the Panjshir Valley. It has an estimated population of 12,000 (2015). The economy is agrarian, with wheat, barley, and potatoes as main crops. Jurm is famous for its emerald mines, among the oldest known sources of emeralds globally. The area hosts diverse wildlife. The population is mostly Tajik. The town has a primary school and a health clinic. Road access is often hampered by difficult terrain. The nearby Panjshir River provides fishing opportunities.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 12.000 (2015)", "Höhe: 1.800 m", "Alter der Smaragdminen: über 2.000 Jahre", "Jährliche Smaragdförderung: 100 kg", "Anzahl der Grundschulen: 1", "Entfernung nach Faizabad: 60 km"],
-      hu: ["Népesség: kb. 12.000 (2015)", "Tengerszint feletti magasság: 1.800 m", "Smaragdbányák kora: több mint 2.000 év", "Éves smaragdkitermelés: 100 kg", "Általános iskolák száma: 1", "Távolság Faizabadtól: 60 km"],
-      ro: ["Populație: circa 12.000 (2015)", "Altitudine: 1.800 m", "Vechimea minelor de smarald: peste 2.000 de ani", "Producția anuală de smarald: 100 kg", "Numărul de școli primare: 1", "Distanța până la Faizabad: 60 km"],
-      en: ["Population: approx. 12,000 (2015)", "Elevation: 1,800 m", "Age of emerald mines: over 2,000 years", "Annual emerald production: 100 kg", "Number of primary schools: 1", "Distance to Faizabad: 60 km"],
-    },
-  },
-  {
-    id: "afghanistan-ishkashim-cities-v2",
-    type: "town",
-    name: { de: "Ishkashim", hu: "Iskásim", ro: "Ishkashim", en: "Ishkashim" },
-    coords: [71.53, 36.72],
-    description: {
-      de: "Ishkashim liegt am Eingang zum Wakhan-Korridor. Die Grenzstadt verbindet Afghanistan mit Tadschikistan über eine Brücke am Pandsch-Fluss.",
-      hu: "Iskásim a Vahán-folyosó bejáratánál fekszik. A határváros hídjával köti össze Afganisztánt Tádzsikisztánnal a Pandzs-folyón keresztül.",
-      ro: "Ishkashim este situat la intrarea în Coridorul Wakhan. Orașul de frontieră leagă Afganistanul de Tadjikistan printr-un pod peste râul Panj.",
-      en: "Ishkashim is located at the entrance to the Wakhan Corridor. This border town connects Afghanistan with Tajikistan via a bridge over the Panj River.",
-    },
-    facts: {
-      de: ["Tor zum Pamir-Gebirge", "Wöchentlicher grenzüberschreitender Markt", "Zentrum der Ismaili-Kultur", "Höhe von etwa 2500 Metern"],
-      hu: ["A Pamír-hegység kapuja", "Heti határon átnyúló piac", "Az iszmáilita kultúra központja", "2500 méter feletti magasság"],
-      ro: ["Poarta către munții Pamir", "Piață săptămânală transfrontalieră", "Centru al culturii ismaelite", "Altitudine de aproximativ 2500m"],
-      en: ["Gateway to the Pamir Mountains", "Weekly cross-border market", "Center of Ismaili culture", "Elevation of approx 2500 meters"],
-    },
-    imageHint: "Ishkashim border bridge and Pamir mountains",
-    descriptionAdvanced: {
-      de: "Ishkashim ist eine Grenzstadt in der Provinz Badakhshan im äußersten Nordosten Afghanistans. Sie liegt auf etwa 2.500 Metern Höhe am Fluss Pandschir, nahe der Grenze zu Tadschikistan. Die Bevölkerung beträgt rund 10.000 Menschen (2015). Die Stadt ist ein wichtiger Handelsort für den grenzüberschreitenden Handel mit Tadschikistan. Die Wirtschaft basiert auf Landwirtschaft, Viehzucht und Handel. Ishkashim ist bekannt für seine Handwerkskunst, insbesondere Filzarbeiten. Die ethnische Zusammensetzung ist gemischt, mit Tadschiken, Pamiri und Kirgisen. Die medizinische Versorgung ist begrenzt, es gibt ein kleines Krankenhaus. Die Region ist seismisch aktiv.",
-      hu: "Ishkashim egy határváros Afganisztán legészakkeletibb részén, Badakhshan tartományban. Körülbelül 2500 méter magasan fekszik a Pandzsir folyónál, a tádzsik határ közelében. Lakossága kb. 10 000 fő (2015). A város fontos kereskedelmi központ Tádzsikisztánnal. Gazdasága a mezőgazdaságon, állattenyésztésen és kereskedelemen alapul. Ishkashim híres kézműves termékeiről, különösen a nemezmunkákról. A lakosság vegyes: tadzsik, pamiri és kirgiz. Egészségügyi ellátása korlátozott, egy kis kórház található. A régió földrengésveszélyes.",
-      ro: "Ishkashim este un oraș de frontieră în provincia Badakhshan, extremul nord-est al Afganistanului, situat la o altitudine de aproximativ 2.500 de metri pe râul Panjshir, aproape de granița cu Tadjikistanul. Populația este de aproximativ 10.000 de locuitori (2015). Orașul este un important punct comercial pentru comerțul transfrontalier cu Tadjikistanul. Economia se bazează pe agricultură, creșterea animalelor și comerț. Ishkashim este cunoscut pentru meșteșugurile sale, în special lucrările din pâslă. Populația este mixtă, incluzând tadjici, pamiri și kârgâzi. Asistența medicală este limitată, existând un mic spital. Regiunea este activă seismic.",
-      en: "Ishkashim is a border town in Badakhshan province, northeastern Afghanistan, at an elevation of about 2,500 meters on the Panjshir River near the Tajikistan border. It has an estimated population of 10,000 (2015). The town serves as a key trade hub for cross-border commerce with Tajikistan. The economy is based on agriculture, livestock, and trade. Ishkashim is known for its handicrafts, especially felt work. The population is ethnically mixed, including Tajiks, Pamiris, and Kyrgyz. Healthcare is limited, with a small hospital. The region is seismically active.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 10.000 (2015)", "Höhe: 2.500 m", "Grenzübergänge: 1 offizieller Grenzposten", "Jährliches Handelsvolumen: 20 Millionen US-Dollar", "Anzahl der Märkte: 2 große Basare", "Entfernung nach Faizabad: 120 km"],
-      hu: ["Népesség: kb. 10.000 (2015)", "Tengerszint feletti magasság: 2.500 m", "Határátkelők: 1 hivatalos határátkelő", "Éves kereskedelmi forgalom: 20 millió USD", "Piacok száma: 2 nagy bazár", "Távolság Faizabadtól: 120 km"],
-      ro: ["Populație: circa 10.000 (2015)", "Altitudine: 2.500 m", "Puncte de trecere a frontierei: 1 post oficial", "Volumul comercial anual: 20 milioane USD", "Numărul de piețe: 2 bazaruri mari", "Distanța până la Faizabad: 120 km"],
-      en: ["Population: approx. 10,000 (2015)", "Elevation: 2,500 m", "Border crossings: 1 official post", "Annual trade volume: 20 million USD", "Number of markets: 2 large bazaars", "Distance to Faizabad: 120 km"],
-    },
-  },
-  {
-    id: "afghanistan-yakawlang-cities-v2",
-    type: "town",
-    name: { de: "Yakawlang", hu: "Jakavlang", ro: "Yakawlang", en: "Yakawlang" },
-    coords: [66.97, 34.74],
-    description: {
-      de: "Yakawlang liegt in der Provinz Bamyan. Die Stadt ist ein Tor zum Band-e-Amir-Nationalpark und bekannt für ihre atemberaubende Hochlandnatur.",
-      hu: "Jakavlang Bamijan tartományban található. A város a Band-e-Amir Nemzeti Park kapuja, híres lenyűgöző felföldi tájairól.",
-      ro: "Yakawlang este situat în provincia Bamyan. Orașul este o poartă către Parcul Național Band-e-Amir și cunoscut pentru natura sa montană.",
-      en: "Yakawlang is located in Bamyan Province. The town is a gateway to Band-e-Amir National Park and known for its stunning highland landscapes.",
-    },
-    facts: {
-      de: ["Wichtiges Zentrum der Hazara", "Nahe den blauen Seen von Band-e-Amir", "Sehr kalte Winter", "Historisch bedeutendes Gebiet"],
-      hu: ["Fontos hazara központ", "A Band-e-Amir kék tavai közelében", "Nagyon hideg telek jellemzik", "Történelmileg jelentős terület"],
-      ro: ["Centru important al comunității Hazara", "Lângă lacurile albastre Band-e-Amir", "Ierni extrem de reci", "Zonă de importanță istorică"],
-      en: ["Important Hazara cultural center", "Near the blue lakes of Band-e-Amir", "Extremely cold winters", "Historically significant area"],
-    },
-    imageHint: "Yakawlang landscape with Band-e-Amir nearby",
-    descriptionAdvanced: {
-      de: "Yakawlang ist eine Stadt in der Provinz Bamyan im zentralen Afghanistan. Sie liegt auf etwa 2.500 Metern Höhe im Hochland und hat rund 20.000 Einwohner (2015). Die Stadt ist ein landwirtschaftliches Zentrum, bekannt für den Anbau von Kartoffeln, Weizen und Luzerne. Yakawlang liegt am Fluss Balkh und ist für seine Thermalquellen berühmt, die als heilend gelten. Die Bevölkerung besteht hauptsächlich aus Hazara. Die Stadt hat mehrere Grund- und weiterführende Schulen. Die Wirtschaft wird durch die Landwirtschaft und den lokalen Handel getragen. In der Umgebung gibt es historische Stätten wie die Zitadelle von Yakawlang.",
-      hu: "Yakawlang egy város Afganisztán középső részén, Bamyan tartományban. Körülbelül 2500 méter magasan fekszik a fennsíkon, lakossága kb. 20 000 fő (2015). A város mezőgazdasági központ, híres burgonya-, búza- és lucernatermesztéséről. Yakawlang a Balkh folyó mentén fekszik, és híres termálforrásairól, amelyek gyógyító hatásúak. A lakosság túlnyomórészt hazara. A városban több általános és középiskola működik. A gazdaság a mezőgazdaságra és a helyi kereskedelemre épül. A környéken történelmi helyszínek találhatók, mint például a Yakawlang-i erőd.",
-      ro: "Yakawlang este un oraș din provincia Bamyan, centrul Afganistanului, situat la o altitudine de aproximativ 2.500 de metri în podiș. Populația este estimată la 20.000 de locuitori (2015). Orașul este un centru agricol, renumit pentru culturile de cartofi, grâu și lucernă. Yakawlang este situat pe râul Balkh și este faimos pentru izvoarele sale termale, considerate vindecătoare. Populația este în mare parte hazara. Orașul are mai multe școli primare și gimnaziale. Economia se bazează pe agricultură și comerțul local. În zonă există situri istorice precum citadela Yakawlang.",
-      en: "Yakawlang is a town in Bamyan province, central Afghanistan, at an elevation of about 2,500 meters in the highlands. It has an estimated population of 20,000 (2015). The town is an agricultural hub, known for potatoes, wheat, and alfalfa. Located on the Balkh River, Yakawlang is famous for its thermal springs, believed to have healing properties. The population is predominantly Hazara. The town has several primary and secondary schools. The economy relies on agriculture and local trade. Nearby historical sites include the Yakawlang citadel.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 20.000 (2015)", "Höhe: 2.500 m", "Temperatur der Thermalquellen: 40 °C", "Kartoffelproduktion: jährlich 10.000 Tonnen", "Anzahl der Schulen: 8", "Entfernung nach Bamyan: 40 km"],
-      hu: ["Népesség: kb. 20.000 (2015)", "Tengerszint feletti magasság: 2.500 m", "Termálforrások hőmérséklete: 40 °C", "Burgonyatermelés: évi 10.000 tonna", "Iskolák száma: 8", "Távolság Bamyantól: 40 km"],
-      ro: ["Populație: circa 20.000 (2015)", "Altitudine: 2.500 m", "Temperatura izvoarelor termale: 40 °C", "Producția de cartofi: 10.000 tone anual", "Numărul de școli: 8", "Distanța până la Bamyan: 40 km"],
-      en: ["Population: approx. 20,000 (2015)", "Elevation: 2,500 m", "Thermal spring temperature: 40 °C", "Potato production: 10,000 tons annually", "Number of schools: 8", "Distance to Bamyan: 40 km"],
-    },
-  },
-  {
-    id: "afghanistan-nili-cities-v2",
-    type: "capital",
-    name: { de: "Nili", hu: "Nili", ro: "Nili", en: "Nili" },
-    coords: [66.13, 33.72],
-    description: {
-      de: "Nili ist die Hauptstadt der Provinz Daikundi. Die Stadt liegt abgelegen im zentralen Hochland und hat sich seit 2004 rasant entwickelt.",
-      hu: "Nili Dajkundi tartomány székhelye. A város távol esik a központi felföldön, és 2004 óta gyors fejlődésen ment keresztül.",
-      ro: "Nili este capitala provinciei Daikundi. Orașul este situat izolat în zonele muntoase centrale și s-a dezvoltat rapid din 2004.",
-      en: "Nili is the capital of Daykundi Province. The town is remotely located in the central highlands and has developed rapidly since 2004.",
-    },
-    facts: {
-      de: ["Hauptstadt seit 2004", "Überwiegend Hazara-Bevölkerung", "Schwierige Straßenzugänge", "Höhe von über 2000 Metern"],
-      hu: ["2004 óta tartományi székhely", "Túlnyomórészt hazara lakosság", "Nehezen megközelíthető utak", "2000 méter feletti tengerszint"],
-      ro: ["Capitală de provincie din 2004", "Populație predominant Hazara", "Acces rutier dificil", "Altitudine peste 2000 metri"],
-      en: ["Provincial capital since 2004", "Predominantly Hazara population", "Difficult road access", "Elevation over 2000 meters"],
-    },
-    imageHint: "Nili city buildings in mountain valley",
-    descriptionAdvanced: {
-      de: "Nili ist die Hauptstadt der Provinz Daykundi im zentralen Afghanistan. Sie liegt auf etwa 2.600 Metern Höhe und hat rund 15.000 Einwohner (2015). Die Stadt ist das administrative und wirtschaftliche Zentrum der Provinz. Die Wirtschaft basiert auf Landwirtschaft (Weizen, Gerste, Hülsenfrüchte) und Viehzucht. Nili ist für seine traditionellen Teppiche und handgefertigten Textilien bekannt. Die Bevölkerung besteht überwiegend aus Hazara. Die Stadt hat ein Krankenhaus, mehrere Schulen und einen kleinen Flughafen. Die Infrastruktur ist aufgrund der abgelegenen Lage begrenzt. Die Region ist von hohen Bergen und tiefen Tälern geprägt.",
-      hu: "Nili Afganisztán középső részén, Daykundi tartomány fővárosa. Körülbelül 2600 méter magasan fekszik, lakossága kb. 15 000 fő (2015). A város a tartomány közigazgatási és gazdasági központja. Gazdasága a mezőgazdaságon (búza, árpa, hüvelyesek) és állattenyésztésen alapul. Nili híres hagyományos szőnyegeiről és kézzel szőtt textíliáiról. A lakosság túlnyomórészt hazara. A városban van kórház, több iskola és egy kis repülőtér. Az infrastruktúra korlátozott az elszigeteltség miatt. A vidéket magas hegyek és mély völgyek jellemzik.",
-      ro: "Nili este capitala provinciei Daykundi din centrul Afganistanului, situat la o altitudine de aproximativ 2.600 de metri. Populația este estimată la 15.000 de locuitori (2015). Orașul este centrul administrativ și economic al provinciei. Economia se bazează pe agricultură (grâu, orz, leguminoase) și creșterea animalelor. Nili este cunoscut pentru covoarele sale tradiționale și textilele țesute manual. Populația este în mare parte hazara. Orașul are un spital, mai multe școli și un mic aeroport. Infrastructura este limitată din cauza izolării. Regiunea este caracterizată de munți înalți și văi adânci.",
-      en: "Nili is the capital of Daykundi province in central Afghanistan, situated at an elevation of about 2,600 meters. It has an estimated population of 15,000 (2015). The town serves as the administrative and economic hub of the province. The economy relies on agriculture (wheat, barley, pulses) and livestock. Nili is known for its traditional carpets and handwoven textiles. The population is predominantly Hazara. The town has a hospital, several schools, and a small airport. Infrastructure is limited due to remoteness. The region features high mountains and deep valleys.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 15.000 (2015)", "Höhe: 2.600 m", "Gründung der Provinz Daykundi: 2004", "Anzahl der Schulen: 10", "Länge der Startbahn des Flughafens: 1.200 m", "Entfernung nach Kabul: 300 km"],
-      hu: ["Népesség: kb. 15.000 (2015)", "Tengerszint feletti magasság: 2.600 m", "Daykundi tartomány alapítása: 2004", "Iskolák száma: 10", "A repülőtér kifutópályájának hossza: 1.200 m", "Távolság Kabulig: 300 km"],
-      ro: ["Populație: circa 15.000 (2015)", "Altitudine: 2.600 m", "Înființarea provinciei Daykundi: 2004", "Numărul de școli: 10", "Lungimea pistei aeroportului: 1.200 m", "Distanța până la Kabul: 300 km"],
-      en: ["Population: approx. 15,000 (2015)", "Elevation: 2,600 m", "Establishment of Daykundi province: 2004", "Number of schools: 10", "Airport runway length: 1,200 m", "Distance to Kabul: 300 km"],
-    },
-  },
-  {
-    id: "afghanistan-urgun-cities-v2",
-    type: "town",
-    name: { de: "Urgun", hu: "Urgun", ro: "Urgun", en: "Urgun" },
-    coords: [69.17, 32.94],
-    description: {
-      de: "Urgun ist die größte Stadt in der Provinz Paktika. Sie ist ein bedeutendes Handelszentrum im Südosten Afghanistans nahe der Grenze zu Pakistan.",
-      hu: "Urgun Paktika tartomány legnagyobb városa. Jelentős kereskedelmi központ Afganisztán délkeleti részén, a pakisztáni határ közelében.",
-      ro: "Urgun este cel mai mare oraș din provincia Paktika. Este un centru comercial major în sud-estul Afganistanului, lângă granița cu Pakistan.",
-      en: "Urgun is the largest town in Paktika Province. It is a major trading center in southeastern Afghanistan near the Pakistan border.",
-    },
-    facts: {
-      de: ["Wichtig für den regionalen Handel", "Bedeutender lokaler Basar", "Ehemals Hauptstadt von Paktika", "Paschtunisch geprägte Kultur"],
-      hu: ["Fontos a regionális kereskedelemben", "Jelentős helyi bazár", "Paktika korábbi székhelye", "Pastu kulturális hatás"],
-      ro: ["Important pentru comerțul regional", "Bazar local semnificativ", "Fostă capitală a Paktika", "Cultură predominant paștună"],
-      en: ["Key for regional trade", "Significant local bazaar", "Former capital of Paktika", "Pashtun-dominated culture"],
-    },
-    imageHint: "Urgun busy market and town center",
-    descriptionAdvanced: {
-      de: "Urgun ist eine Stadt in der Provinz Paktika im Osten Afghanistans. Sie liegt auf etwa 2.200 Metern Höhe im Hochland nahe der Grenze zu Pakistan. Die Bevölkerung beträgt rund 25.000 Menschen (2015). Die Wirtschaft basiert auf Landwirtschaft und Viehzucht, insbesondere Schafzucht. Urgun ist bekannt für seinen Basar, der ein wichtiger Umschlagplatz für Waren aus Pakistan ist. Die Bevölkerung besteht hauptsächlich aus Paschtunen. Die Stadt hat mehrere Schulen und ein Krankenhaus. Die Region ist ethnisch vielfältig und war Schauplatz von Konflikten. Urgun liegt in einem fruchtbaren Tal mit Bewässerungsfeldbau.",
-      hu: "Urgun egy város Afganisztán keleti részén, Paktika tartományban. Körülbelül 2200 méter magasan fekszik a fennsíkon, a pakisztáni határ közelében. Lakossága kb. 25 000 fő (2015). Gazdasága a mezőgazdaságon és állattenyésztésen, különösen juhtenyésztésen alapul. Urgun híres bazárjáról, amely fontos átrakodóhely a Pakisztánból érkező áruk számára. A lakosság többsége pastu. A városban több iskola és egy kórház található. A régió etnikailag sokszínű és konfliktusok helyszíne volt. Urgun termékeny völgyben fekszik, öntözéses gazdálkodással.",
-      ro: "Urgun este un oraș din provincia Paktika, estul Afganistanului, situat la o altitudine de aproximativ 2.200 de metri în podiș, aproape de granița cu Pakistanul. Populația este estimată la 25.000 de locuitori (2015). Economia se bazează pe agricultură și creșterea animalelor, în special oi. Urgun este cunoscut pentru bazarul său, un important punct de tranzit pentru mărfuri din Pakistan. Populația este predominant paștună. Orașul are mai multe școli și un spital. Regiunea este diversă etnic și a fost teatru de conflicte. Urgun se află într-o vale fertilă cu agricultură irigată.",
-      en: "Urgun is a town in Paktika province, eastern Afghanistan, at an elevation of about 2,200 meters in the highlands near the Pakistan border. It has an estimated population of 25,000 (2015). The economy is based on agriculture and livestock, especially sheep farming. Urgun is known for its bazaar, a key transit point for goods from Pakistan. The population is predominantly Pashtun. The town has several schools and a hospital. The region is ethnically diverse and has been a site of conflict. Urgun lies in a fertile valley with irrigated farming.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 25.000 (2015)", "Höhe: 2.200 m", "Viehzucht: 50.000 Schafe im Distrikt", "Anzahl der Basare: 1 großer Basar", "Anzahl der Schulen: 6", "Entfernung zur Grenze: 30 km"],
-      hu: ["Népesség: kb. 25.000 (2015)", "Tengerszint feletti magasság: 2.200 m", "Állattenyésztés: 50.000 juh a körzetben", "Bazárok száma: 1 nagy bazár", "Iskolák száma: 6", "Távolság a határtól: 30 km"],
-      ro: ["Populație: circa 25.000 (2015)", "Altitudine: 2.200 m", "Creșterea animalelor: 50.000 de oi în district", "Numărul de bazaruri: 1 bazar mare", "Numărul de școli: 6", "Distanța până la graniță: 30 km"],
-      en: ["Population: approx. 25,000 (2015)", "Elevation: 2,200 m", "Livestock: 50,000 sheep in the district", "Number of bazaars: 1 large bazaar", "Number of schools: 6", "Distance to border: 30 km"],
-    },
-  },
-  {
-    id: "afghanistan-sharana-cities-v2",
-    type: "capital",
-    name: { de: "Sharana", hu: "Sarána", ro: "Sharana", en: "Sharana" },
-    coords: [68.78, 33.13],
-    description: {
-      de: "Sharana ist die Hauptstadt der Provinz Paktika. Die Stadt liegt im Osten des Landes und dient als wichtiges Verwaltungszentrum.",
-      hu: "Sarána Paktika tartomány székhelye. A város az ország keleti részén fekszik, és fontos közigazgatási központként szolgál.",
-      ro: "Sharana este capitala provinciei Paktika. Orașul este situat în estul țării și servește ca centru administrativ important.",
-      en: "Sharana is the capital city of Paktika Province. The town is located in the eastern part of the country and serves as a major administrative center.",
-    },
-    facts: {
-      de: ["Hauptstadt von Paktika", "Höhe von etwa 2100 Metern", "Wichtiger Militärstandort", "Bevölkerung meist Paschtunen"],
-      hu: ["Paktika tartomány székhelye", "Kb. 2100 méteres magasság", "Fontos katonai állomáshely", "Lakossága főleg pastu"],
-      ro: ["Capitala provinciei Paktika", "Altitudine de circa 2100m", "Locație militară importantă", "Populație majoritar paștună"],
-      en: ["Capital of Paktika Province", "Elevation of approx 2100 meters", "Key military location", "Mostly Pashtun population"],
-    },
-    imageHint: "Sharana provincial government buildings",
-    descriptionAdvanced: {
-      de: "Sharana ist die Hauptstadt der Provinz Paktika im Osten Afghanistans. Sie liegt auf etwa 2.300 Metern Höhe und hat rund 15.000 Einwohner (2015). Die Stadt ist das administrative Zentrum der Provinz. Die Wirtschaft basiert auf Landwirtschaft und Handel. Sharana hat einen kleinen Flughafen, der die Region anbindet. Die Bevölkerung besteht hauptsächlich aus Paschtunen. Die Stadt hat ein Krankenhaus und mehrere Schulen. Sharana liegt in einer bergigen Region mit kalten Wintern und milden Sommern. Die Wasserversorgung erfolgt durch Grundwasser und lokale Quellen. Die Umgebung ist von Weideland und Trockenfeldbau geprägt.",
-      hu: "Sharana Afganisztán keleti részén, Paktika tartomány fővárosa. Körülbelül 2300 méter magasan fekszik, lakossága kb. 15 000 fő (2015). A város a tartomány közigazgatási központja. Gazdasága a mezőgazdaságon és kereskedelemre épül. Sharanának van egy kis repülőtere, ami összeköttetést biztosít. A lakosság többsége pastu. A városban van kórház és több iskola. Sharana hegyvidéki régióban fekszik, hideg telekkel és enyhe nyarakkal. A vízellátást talajvíz és helyi források biztosítják. A környéket legelők és száraz gazdálkodás jellemzi.",
-      ro: "Sharana este capitala provinciei Paktika din estul Afganistanului, situat la o altitudine de aproximativ 2.300 de metri. Populația este estimată la 15.000 de locuitori (2015). Orașul este centrul administrativ al provinciei. Economia se bazează pe agricultură și comerț. Sharana are un aeroport mic care asigură legătura cu regiunea. Populația este predominant paștună. Orașul are un spital și mai multe școli. Sharana se află într-o regiune muntoasă, cu ierni reci și veri blânde. Aprovizionarea cu apă se face prin ape subterane și izvoare locale. Împrejurimile sunt caracterizate de pășuni și agricultură uscată.",
-      en: "Sharana is the capital of Paktika province in eastern Afghanistan, at an elevation of about 2,300 meters. It has an estimated population of 15,000 (2015). The town serves as the administrative center of the province. The economy is based on agriculture and trade. Sharana has a small airport providing connectivity. The population is predominantly Pashtun. The town has a hospital and several schools. Sharana lies in a mountainous region with cold winters and mild summers. Water supply comes from groundwater and local springs. The surrounding area is characterized by pasture and dry farming.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 15.000 (2015)", "Höhe: 2.300 m", "Flughafen: Startbahn 1.500 m", "Anzahl der Schulen: 8", "Jährlicher Niederschlag: 300 mm", "Entfernung nach Kabul: 320 km"],
-      hu: ["Népesség: kb. 15.000 (2015)", "Tengerszint feletti magasság: 2.300 m", "Repülőtér: 1.500 m-es kifutópálya", "Iskolák száma: 8", "Éves csapadék: 300 mm", "Távolság Kabulig: 320 km"],
-      ro: ["Populație: circa 15.000 (2015)", "Altitudine: 2.300 m", "Aeroport: pistă de 1.500 m", "Numărul de școli: 8", "Precipitații anuale: 300 mm", "Distanța până la Kabul: 320 km"],
-      en: ["Population: approx. 15,000 (2015)", "Elevation: 2,300 m", "Airport: runway 1,500 m", "Number of schools: 8", "Annual precipitation: 300 mm", "Distance to Kabul: 320 km"],
-    },
-  },
-  {
-    id: "afghanistan-sangin-cities-v2",
-    type: "town",
-    name: { de: "Sangin", hu: "Szangin", ro: "Sangin", en: "Sangin" },
-    coords: [64.83, 32.31],
-    description: {
-      de: "Sangin ist eine Stadt in der Provinz Helmand. Sie liegt am Fluss Helmand und ist ein zentraler Handelsplatz für die umliegenden Agrargebiete.",
-      hu: "Szangin város Helmand tartományban. A Helmand-folyó partján fekszik, és a környező mezőgazdasági területek központi piaca.",
-      ro: "Sangin este un oraș din provincia Helmand. Este situat pe râul Helmand și este o piață centrală pentru zonele agricole din jur.",
-      en: "Sangin is a town in Helmand Province. It is situated on the Helmand River and is a central trading post for the surrounding agricultural areas.",
-    },
-    facts: {
-      de: ["Zentrum des Opiumhandels", "Am Helmand-Fluss gelegen", "Strategisch umkämpftes Gebiet", "Reiche Bewässerungslandwirtschaft"],
-      hu: ["Az ópiumkereskedelem központja", "A Helmand-folyó partján", "Stratégiailag vitatott terület", "Gazdag öntözéses gazdálkodás"],
-      ro: ["Centru al comerțului cu opiu", "Situat pe râul Helmand", "Zonă disputată strategic", "Agricultură irigată bogată"],
-      en: ["Center for opium trade", "Located on the Helmand River", "Strategically contested area", "Rich irrigated agriculture"],
-    },
-    imageHint: "Sangin town and Helmand river valley",
-    descriptionAdvanced: {
-      de: "Sangin ist eine Stadt in der Provinz Helmand im Süden Afghanistans. Sie liegt auf etwa 800 Metern Höhe am Fluss Helmand und hat rund 25.000 Einwohner (2015). Die Wirtschaft basiert auf Landwirtschaft, insbesondere Mohnanbau für Opium, und Schafzucht. Sangin war während des Afghanistan-Konflikts stark umkämpft. Die Bevölkerung besteht hauptsächlich aus Paschtunen. Die Stadt hat einen Basar, Schulen und eine Klinik. Die Bewässerung erfolgt durch Kanäle aus dem Helmand-Fluss. Die Region ist heiß und trocken, mit Temperaturen über 40 °C im Sommer. Sangin hat eine strategische Lage an der Hauptstraße nach Kandahar.",
-      hu: "Sangin egy város Afganisztán déli részén, Helmand tartományban. Körülbelül 800 méter magasan fekszik a Helmand folyó mellett, lakossága kb. 25 000 fő (2015). Gazdasága a mezőgazdaságon, különösen a máktermesztésen (ópium) és juhtenyésztésen alapul. Sangin az afganisztáni konfliktus egyik hevesen vitatott helyszíne volt. A lakosság többsége pastu. A városban van bazár, iskolák és egy klinika. Az öntözést a Helmand folyóból kiépített csatornák biztosítják. A régió forró és száraz, nyáron a hőmérséklet meghaladja a 40 °C-ot. Sangin stratégiai elhelyezkedésű a Kandahárba vezető főút mentén.",
-      ro: "Sangin este un oraș din provincia Helmand, sudul Afganistanului, situat la o altitudine de aproximativ 800 de metri pe râul Helmand. Populația este estimată la 25.000 de locuitori (2015). Economia se bazează pe agricultură, în special cultivarea macului pentru opiu, și creșterea oilor. Sangin a fost puternic disputat în timpul conflictului din Afganistan. Populația este predominant paștună. Orașul are un bazar, școli și o clinică. Irigarea se face prin canale din râul Helmand. Regiunea este caldă și uscată, cu temperaturi peste 40 °C vara. Sangin are o poziție strategică pe drumul principal spre Kandahar.",
-      en: "Sangin is a town in Helmand province, southern Afghanistan, at an elevation of about 800 meters on the Helmand River. It has an estimated population of 25,000 (2015). The economy is based on agriculture, notably poppy cultivation for opium, and sheep farming. Sangin was heavily contested during the Afghanistan conflict. The population is predominantly Pashtun. The town has a bazaar, schools, and a clinic. Irrigation relies on canals from the Helmand River. The region is hot and dry, with summer temperatures exceeding 40 °C. Sangin lies on the main road to Kandahar.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 25.000 (2015)", "Höhe: 800 m", "Mohnanbaufläche: 5.000 Hektar im Distrikt", "Anzahl der Kanäle: 3 Hauptbewässerungskanäle", "Durchschnittliche Höchsttemperatur im Juli: 45 °C", "Entfernung nach Lashkargah: 50 km"],
-      hu: ["Népesség: kb. 25.000 (2015)", "Tengerszint feletti magasság: 800 m", "Máktermő terület: 5.000 hektár a körzetben", "Csatornák száma: 3 fő öntözőcsatorna", "Átlagos maximum hőmérséklet júliusban: 45 °C", "Távolság Lashkargah-tól: 50 km"],
-      ro: ["Populație: circa 25.000 (2015)", "Altitudine: 800 m", "Suprafața cultivată cu mac: 5.000 ha în district", "Numărul de canale: 3 canale principale de irigații", "Temperatura maximă medie în iulie: 45 °C", "Distanța până la Lashkargah: 50 km"],
-      en: ["Population: approx. 25,000 (2015)", "Elevation: 800 m", "Poppy cultivation area: 5,000 ha in the district", "Number of canals: 3 main irrigation canals", "Average maximum temperature in July: 45 °C", "Distance to Lashkargah: 50 km"],
-    },
-  },
-  {
-    id: "afghanistan-musa-qala-cities-v2",
-    type: "town",
-    name: { de: "Musa Qala", hu: "Musza Kala", ro: "Musa Qala", en: "Musa Qala" },
-    coords: [64.74, 32.44],
-    description: {
-      de: "Musa Qala liegt in der Provinz Helmand. Der Name bedeutet 'Festung von Moses' und die Stadt ist ein bedeutendes regionales Zentrum im Süden.",
-      hu: "Musza Kala Helmand tartományban található. A név jelentése 'Mózes erődje', a város pedig jelentős regionális központ délen.",
-      ro: "Musa Qala este situat în provincia Helmand. Numele înseamnă „Cetatea lui Moise”, iar orașul este un centru regional major în sud.",
-      en: "Musa Qala is located in Helmand Province. The name means 'Fortress of Moses' and the town is a major regional center in the south.",
-    },
-    facts: {
-      de: ["Name bedeutet 'Festung von Moses'", "Zentrum des Musa Qala Distrikts", "Wichtig für Landwirtschaft", "Bedeutender lokaler Basar"],
-      hu: ["Neve 'Mózes erődje' jelentésű", "A Musza Kala körzet központja", "Mezőgazdasági szempontból fontos", "Jelentős helyi bazár"],
-      ro: ["Numele înseamnă „Cetatea lui Moise”", "Centrul districtului Musa Qala", "Important pentru agricultură", "Bazar local important"],
-      en: ["Name means 'Fortress of Moses'", "Center of Musa Qala district", "Important for agriculture", "Significant local bazaar"],
-    },
-    imageHint: "Musa Qala fortress and town market",
-    descriptionAdvanced: {
-      de: "Musa Qala ist eine Stadt in der Provinz Helmand im Süden Afghanistans. Sie liegt auf etwa 700 Metern Höhe und hat rund 15.000 Einwohner (2015). Die Wirtschaft basiert auf Landwirtschaft, mit Mohn- und Weizenanbau. Musa Qala war ein wichtiges Zentrum der Taliban und Schauplatz heftiger Kämpfe. Die Bevölkerung besteht hauptsächlich aus Paschtunen. Die Stadt hat einen Basar und einige Schulen. Die Wasserversorgung erfolgt über Brunnen und den Fluss Musa Qala. Das Klima ist heiß mit geringen Niederschlägen. Die Region ist von Wüsten und Halbwüsten umgeben. Die medizinische Versorgung ist begrenzt.",
-      hu: "Musa Qala egy város Afganisztán déli részén, Helmand tartományban. Körülbelül 700 méter magasan fekszik, lakossága kb. 15 000 fő (2015). Gazdasága a mezőgazdaságon, mák- és búzatermesztésen alapul. Musa Qala a tálibok fontos központja volt és heves harcok színhelye. A lakosság többsége pastu. A városban van bazár és néhány iskola. A vízellátást kutak és a Musa Qala folyó biztosítják. Az éghajlat forró, kevés csapadékkal. A vidéket sivatagok és félsivatagok veszik körül. Az egészségügyi ellátás korlátozott.",
-      ro: "Musa Qala este un oraș din provincia Helmand, sudul Afganistanului, situat la o altitudine de aproximativ 700 de metri. Populația este estimată la 15.000 de locuitori (2015). Economia se bazează pe agricultură, cu culturi de mac și grâu. Musa Qala a fost un centru important al talibanilor și scenă a unor lupte intense. Populația este predominant paștună. Orașul are un bazar și câteva școli. Aprovizionarea cu apă se face prin fântâni și râul Musa Qala. Clima este caldă, cu precipitații reduse. Regiunea este înconjurată de deșerturi și semideșerturi. Asistența medicală este limitată.",
-      en: "Musa Qala is a town in Helmand province, southern Afghanistan, at an elevation of about 700 meters. It has an estimated population of 15,000 (2015). The economy is based on agriculture, with poppy and wheat cultivation. Musa Qala was a key Taliban stronghold and site of heavy fighting. The population is predominantly Pashtun. The town has a bazaar and some schools. Water supply comes from wells and the Musa Qala River. The climate is hot with low rainfall. The area is surrounded by deserts and semi-deserts. Healthcare is limited.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 15.000 (2015)", "Höhe: 700 m", "Mohnanbau: 3.000 Hektar", "Anzahl der Brunnen: 50", "Durchschnittlicher Jahresniederschlag: 150 mm", "Entfernung nach Sangin: 30 km"],
-      hu: ["Népesség: kb. 15.000 (2015)", "Tengerszint feletti magasság: 700 m", "Máktermesztés: 3.000 hektár", "Kutak száma: 50", "Éves átlagos csapadék: 150 mm", "Távolság Sangintól: 30 km"],
-      ro: ["Populație: circa 15.000 (2015)", "Altitudine: 700 m", "Cultivarea macului: 3.000 ha", "Numărul de fântâni: 50", "Precipitații medii anuale: 150 mm", "Distanța până la Sangin: 30 km"],
-      en: ["Population: approx. 15,000 (2015)", "Elevation: 700 m", "Poppy cultivation: 3,000 ha", "Number of wells: 50", "Average annual precipitation: 150 mm", "Distance to Sangin: 30 km"],
-    },
-  },
-  {
-    id: "afghanistan-girishk-cities-v2",
-    type: "town",
-    name: { de: "Girishk", hu: "Geresk", ro: "Girishk", en: "Girishk" },
-    coords: [64.57, 31.82],
-    description: {
-      de: "Girishk liegt strategisch günstig an der Ringstraße in der Provinz Helmand. Die Stadt ist ein wichtiger Verkehrsknotenpunkt am Helmand-Fluss.",
-      hu: "Geresk stratégiai helyen, a körgyűrű mentén fekszik Helmand tartományban. A város fontos közlekedési csomópont a Helmand-folyónál.",
-      ro: "Girishk este situat strategic pe șoseaua de centură în provincia Helmand. Orașul este un nod de transport important pe râul Helmand.",
-      en: "Girishk is strategically located on the Ring Road in Helmand Province. The town is a major transportation hub on the Helmand River.",
-    },
-    facts: {
-      de: ["An der Hauptstraße Kabul-Herat", "Sitz eines alten Forts", "Wichtiger Damm in der Nähe", "Handelszentrum für Weizen"],
-      hu: ["A Kabul-Herát főúton fekszik", "Egy régi erőd helyszíne", "Fontos gát található a közelben", "Búzakereskedelmi központ"],
-      ro: ["Pe drumul principal Kabul-Herat", "Locul unui vechi fort", "Baraj important în apropiere", "Centru comercial pentru grâu"],
-      en: ["On the Kabul-Herat highway", "Site of an ancient fort", "Major dam nearby", "Wheat trading center"],
-    },
-    imageHint: "Girishk bridge over Helmand river",
-    descriptionAdvanced: {
-      de: "Girishk ist eine Stadt in der Provinz Helmand im Süden Afghanistans. Sie liegt auf etwa 800 Metern Höhe am Fluss Helmand und hat rund 20.000 Einwohner (2015). Die Stadt ist ein wichtiges landwirtschaftliches Zentrum mit Anbau von Weizen, Baumwolle und Obst. Girishk hat eine strategische Lage an der Fernstraße Kandahar-Herat. Die Bevölkerung besteht hauptsächlich aus Paschtunen. Die Stadt hat einen Basar, Schulen und ein Krankenhaus. Die Bewässerung erfolgt durch den Helmand-Fluss. Das Klima ist heiß und trocken. Girishk war historisch ein Handelsposten und ist für seine traditionellen Handwerke bekannt.",
-      hu: "Girishk egy város Afganisztán déli részén, Helmand tartományban. Körülbelül 800 méter magasan fekszik a Helmand folyó mellett, lakossága kb. 20 000 fő (2015). A város fontos mezőgazdasági központ, búzát, gyapotot és gyümölcsöket termesztenek. Girishk stratégiai elhelyezkedésű a Kandahár–Herat főút mentén. A lakosság többsége pastu. A városban van bazár, iskolák és egy kórház. Az öntözést a Helmand folyó biztosítja. Az éghajlat forró és száraz. Girishk történelmileg kereskedelmi állomás volt, és híres hagyományos kézművességéről.",
-      ro: "Girishk este un oraș din provincia Helmand, sudul Afganistanului, situat la o altitudine de aproximativ 800 de metri pe râul Helmand. Populația este estimată la 20.000 de locuitori (2015). Orașul este un important centru agricol, cultivând grâu, bumbac și fructe. Girishk are o poziție strategică pe drumul principal Kandahar-Herat. Populația este predominant paștună. Orașul are un bazar, școli și un spital. Irigarea se face prin râul Helmand. Clima este caldă și uscată. Istoric, Girishk a fost un post comercial și este cunoscut pentru meșteșugurile sale tradiționale.",
-      en: "Girishk is a town in Helmand province, southern Afghanistan, at an elevation of about 800 meters on the Helmand River. It has an estimated population of 20,000 (2015). The town is a key agricultural center, growing wheat, cotton, and fruits. Girishk lies on the strategic Kandahar-Herat highway. The population is predominantly Pashtun. The town has a bazaar, schools, and a hospital. Irrigation relies on the Helmand River. The climate is hot and dry. Historically a trading post, Girishk is also known for its traditional handicrafts.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 20.000 (2015)", "Höhe: 800 m", "Baumwollproduktion: jährlich 2.000 Tonnen", "Anzahl der Krankenhäuser: 1", "Entfernung nach Kandahar: 120 km", "Anzahl der traditionellen Handwerksbetriebe: 30"],
-      hu: ["Népesség: kb. 20.000 (2015)", "Tengerszint feletti magasság: 800 m", "Gyapottermelés: évi 2.000 tonna", "Kórházak száma: 1", "Távolság Kandahártól: 120 km", "Hagyományos kézműves üzemek száma: 30"],
-      ro: ["Populație: circa 20.000 (2015)", "Altitudine: 800 m", "Producția de bumbac: 2.000 tone anual", "Numărul de spitale: 1", "Distanța până la Kandahar: 120 km", "Numărul de ateliere meșteșugărești tradiționale: 30"],
-      en: ["Population: approx. 20,000 (2015)", "Elevation: 800 m", "Cotton production: 2,000 tons annually", "Number of hospitals: 1", "Distance to Kandahar: 120 km", "Number of traditional handicraft workshops: 30"],
-    },
-  },
-  {
-    id: "afghanistan-garmser-cities-v2",
-    type: "town",
-    name: { de: "Garmser", hu: "Garmszér", ro: "Garmser", en: "Garmser" },
-    coords: [64.2, 31.12],
-    description: {
-      de: "Garmser liegt im Süden der Provinz Helmand. Die Stadt ist ein Zentrum der Bewässerungslandwirtschaft in einer ansonsten ariden Region.",
-      hu: "Garmszér Helmand tartomány déli részén fekszik. A város az öntözéses gazdálkodás központja egy egyébként száraz vidéken.",
-      ro: "Garmser este situat în sudul provinciei Helmand. Orașul este un centru de agricultură irigată într-o regiune altfel aridă.",
-      en: "Garmser is located in the south of Helmand Province. The town is a center for irrigated agriculture in an otherwise arid region.",
-    },
-    facts: {
-      de: ["Name bedeutet 'Warmer Ort'", "Zentrum für Baumwolle und Getreide", "Liegt am unteren Helmand-Fluss", "Grenze zur Registan-Wüste"],
-      hu: ["Neve 'meleg helyet' jelent", "Gyapot- és gabonaközpont", "A Helmand-folyó alsó szakaszán", "A Regiszisztán-sivatag határa"],
-      ro: ["Numele înseamnă „Loc Cald”", "Centru pentru bumbac și cereale", "Pe cursul inferior al râului Helmand", "La marginea deșertului Registan"],
-      en: ["Name means 'Warm Place'", "Center for cotton and grain", "On the lower Helmand River", "Borders the Registan Desert"],
-    },
-    imageHint: "Garmser irrigation canals and fields",
-    descriptionAdvanced: {
-      de: "Garmser ist eine Stadt in der Provinz Helmand im Süden Afghanistans. Sie liegt auf etwa 700 Metern Höhe nahe der Grenze zu Pakistan und hat rund 10.000 Einwohner (2015). Die Wirtschaft basiert auf Landwirtschaft, mit Mohn- und Getreideanbau. Garmser ist ein wichtiger Grenzhandelspunkt. Die Bevölkerung besteht hauptsächlich aus Paschtunen. Die Stadt hat einen Basar und einige Schulen. Die Wasserversorgung ist knapp und erfolgt durch Brunnen. Das Klima ist extrem heiß, mit Temperaturen über 50 °C im Sommer. Die Region ist von Wüste geprägt. Garmser war häufig Ziel von Militäroperationen.",
-      hu: "Garmser egy város Afganisztán déli részén, Helmand tartományban. Körülbelül 700 méter magasan fekszik a pakisztáni határ közelében, lakossága kb. 10 000 fő (2015). Gazdasága a mezőgazdaságon, mák- és gabonatermesztésen alapul. Garmser fontos határkereskedelmi pont. A lakosság többsége pastu. A városban van bazár és néhány iskola. A vízellátás korlátozott, kutakból biztosítják. Az éghajlat rendkívül forró, nyáron a hőmérséklet meghaladja az 50 °C-ot. A vidéket sivatag jellemzi. Garmser gyakran volt katonai műveletek célpontja.",
-      ro: "Garmser este un oraș din provincia Helmand, sudul Afganistanului, situat la o altitudine de aproximativ 700 de metri aproape de granița cu Pakistanul. Populația este estimată la 10.000 de locuitori (2015). Economia se bazează pe agricultură, cu culturi de mac și cereale. Garmser este un important punct de comerț de frontieră. Populația este predominant paștună. Orașul are un bazar și câteva școli. Aprovizionarea cu apă este limitată, din fântâni. Clima este extrem de caldă, cu temperaturi peste 50 °C vara. Regiunea este deșertică. Garmser a fost frecvent ținta operațiunilor militare.",
-      en: "Garmser is a town in Helmand province, southern Afghanistan, at an elevation of about 700 meters near the Pakistan border. It has an estimated population of 10,000 (2015). The economy is based on agriculture, with poppy and grain cultivation. Garmser is a key border trading post. The population is predominantly Pashtun. The town has a bazaar and some schools. Water supply is scarce, relying on wells. The climate is extremely hot, with summer temperatures exceeding 50 °C. The region is desert. Garmser has frequently been targeted in military operations.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 10.000 (2015)", "Höhe: 700 m", "Maximaltemperatur: 52 °C", "Anzahl der Grenzübergänge: 1 inoffizieller Grenzpunkt", "Anzahl der Brunnen: 20", "Entfernung nach Lashkargah: 100 km"],
-      hu: ["Népesség: kb. 10.000 (2015)", "Tengerszint feletti magasság: 700 m", "Maximális hőmérséklet: 52 °C", "Határátkelők száma: 1 nem hivatalos határpont", "Kutak száma: 20", "Távolság Lashkargah-tól: 100 km"],
-      ro: ["Populație: circa 10.000 (2015)", "Altitudine: 700 m", "Temperatura maximă: 52 °C", "Numărul de puncte de trecere a frontierei: 1 punct neoficial", "Numărul de fântâni: 20", "Distanța până la Lashkargah: 100 km"],
-      en: ["Population: approx. 10,000 (2015)", "Elevation: 700 m", "Maximum temperature: 52 °C", "Number of border crossings: 1 unofficial point", "Number of wells: 20", "Distance to Lashkargah: 100 km"],
-    },
-  },
-  {
-    id: "afghanistan-muqur-cities-v2",
-    type: "town",
-    name: { de: "Muqur", hu: "Mokor", ro: "Muqur", en: "Muqur" },
-    coords: [67.83, 32.85],
-    description: {
-      de: "Muqur ist eine Stadt in der Provinz Ghazni. Sie liegt an der Hauptstraße zwischen Kabul und Kandahar und ist ein wichtiger Rastplatz.",
-      hu: "Mokor város Gazni tartományban. A Kabul és Kandahár közötti főúton fekszik, és fontos pihenőhely.",
-      ro: "Muqur este un oraș din provincia Ghazni. Este situat pe drumul principal dintre Kabul și Kandahar și este un loc de popas important.",
-      en: "Muqur is a town in Ghazni Province. It is located on the main highway between Kabul and Kandahar and serves as an important transit point.",
-    },
-    facts: {
-      de: ["An der Ringstraße gelegen", "Zentrum des Muqur Distrikts", "Wichtig für Fernfahrer", "Landwirtschaftlicher Umschlagplatz"],
-      hu: ["A körgyűrű mentén fekszik", "A Mokor körzet központja", "Fontos a kamionosoknak", "Mezőgazdasági kereskedelmi pont"],
-      ro: ["Situat pe șoseaua de centură", "Centrul districtului Muqur", "Important pentru transportatori", "Punct de comerț agricol"],
-      en: ["Located on the Ring Road", "Center of Muqur district", "Important stop for travelers", "Agricultural trading post"],
-    },
-    imageHint: "Muqur highway stop and local shops",
-    descriptionAdvanced: {
-      de: "Muqur ist eine Stadt in der Provinz Ghazni im Osten Afghanistans. Sie liegt auf etwa 2.200 Metern Höhe und hat rund 15.000 Einwohner (2015). Die Wirtschaft basiert auf Landwirtschaft (Weizen, Gerste, Obst) und Viehzucht. Muqur ist bekannt für seine Mandelbaumplantagen. Die Bevölkerung besteht hauptsächlich aus Paschtunen. Die Stadt hat einen Basar, Schulen und eine Klinik. Muqur liegt an der Fernstraße nach Kabul und hat historische Bedeutung als Handelsort. Die Region hat kalte Winter und milde Sommer. Die Bewässerung erfolgt durch Flüsse und Kanäle.",
-      hu: "Muqur egy város Afganisztán keleti részén, Ghazni tartományban. Körülbelül 2200 méter magasan fekszik, lakossága kb. 15 000 fő (2015). Gazdasága a mezőgazdaságon (búza, árpa, gyümölcs) és állattenyésztésen alapul. Muqur híres mandulaültetvényeiről. A lakosság többsége pastu. A városban van bazár, iskolák és egy klinika. Muqur a Kabulba vezető főút mentén fekszik, történelmi kereskedelmi szerepe van. A térségben hideg telek és enyhe nyarak jellemzőek. Az öntözést folyók és csatornák biztosítják.",
-      ro: "Muqur este un oraș din provincia Ghazni, estul Afganistanului, situat la o altitudine de aproximativ 2.200 de metri. Populația este estimată la 15.000 de locuitori (2015). Economia se bazează pe agricultură (grâu, orz, fructe) și creșterea animalelor. Muqur este cunoscut pentru livezile sale de migdali. Populația este predominant paștună. Orașul are un bazar, școli și o clinică. Muqur se află pe drumul principal către Kabul și are o importanță istorică comercială. Regiunea are ierni reci și veri blânde. Irigarea se face prin râuri și canale.",
-      en: "Muqur is a town in Ghazni province, eastern Afghanistan, at an elevation of about 2,200 meters. It has an estimated population of 15,000 (2015). The economy is based on agriculture (wheat, barley, fruits) and livestock. Muqur is known for its almond orchards. The population is predominantly Pashtun. The town has a bazaar, schools, and a clinic. Muqur lies on the main road to Kabul and has historical significance as a trading center. The region experiences cold winters and mild summers. Irrigation relies on rivers and canals.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 15.000 (2015)", "Höhe: 2.200 m", "Mandelproduktion: jährlich 1.500 Tonnen", "Anzahl der Schulen: 5", "Gründung: vermutlich 11. Jahrhundert", "Entfernung nach Ghazni: 70 km"],
-      hu: ["Népesség: kb. 15.000 (2015)", "Tengerszint feletti magasság: 2.200 m", "Mandulatermelés: évi 1.500 tonna", "Iskolák száma: 5", "Alapítás: valószínűleg a 11. században", "Távolság Ghaznitól: 70 km"],
-      ro: ["Populație: circa 15.000 (2015)", "Altitudine: 2.200 m", "Producția de migdale: 1.500 tone anual", "Numărul de școli: 5", "Înființare: probabil secolul al XI-lea", "Distanța până la Ghazni: 70 km"],
-      en: ["Population: approx. 15,000 (2015)", "Elevation: 2,200 m", "Almond production: 1,500 tons annually", "Number of schools: 5", "Founded: likely 11th century", "Distance to Ghazni: 70 km"],
-    },
-  },
-  {
-    id: "afghanistan-khwaja-ghar-cities-v2",
-    type: "town",
-    name: { de: "Khwaja Ghar", hu: "Hvadzsa Gar", ro: "Khwaja Ghar", en: "Khwaja Ghar" },
-    coords: [69.43, 37.17],
-    description: {
-      de: "Khwaja Ghar liegt in der Provinz Tachar. Die Stadt befindet sich am Zusammenfluss der Flüsse Koktscha und Amu Darja.",
-      hu: "Hvadzsa Gar Tahár tartományban található. A város a Kokcsa és az Amu-darja folyók találkozásánál fekszik.",
-      ro: "Khwaja Ghar este situat în provincia Takhar. Orașul se află la confluența râurilor Kokcha și Amu Darya.",
-      en: "Khwaja Ghar is located in Takhar Province. The town is situated at the confluence of the Kokcha and Amu Darya rivers.",
-    },
-    facts: {
-      de: ["An der Grenze zu Tadschikistan", "Wichtig für Grenzüberwachung", "Fruchtbare Flusslandschaft", "Historisch strategische Lage"],
-      hu: ["A tadzsik határ mentén", "Fontos határőrizeti pont", "Termékeny folyómenti táj", "Történelmileg stratégiai hely"],
-      ro: ["La granița cu Tadjikistan", "Important pentru controlul frontierei", "Peisaj fluvial fertil", "Poziție istorică strategică"],
-      en: ["Near the Tajikistan border", "Key for border monitoring", "Fertile river landscape", "Historically strategic location"],
-    },
-    imageHint: "Khwaja Ghar river confluence and hills",
-    descriptionAdvanced: {
-      de: "Khwaja Ghar ist eine Kleinstadt in der Provinz Takhar im Nordosten Afghanistans. Sie liegt auf etwa 1.200 Metern Höhe und hat rund 10.000 Einwohner (2015). Die Wirtschaft basiert auf Landwirtschaft, mit Anbau von Weizen, Reis und Obst. Khwaja Ghar ist bekannt für seine traditionellen Handwerke, insbesondere für die Herstellung von Teppichen und Filzprodukten. Die Bevölkerung besteht hauptsächlich aus Tadschiken und Usbeken. Die Stadt hat einen Basar und mehrere Schulen. Die Wasserversorgung erfolgt durch Flüsse und Brunnen. Die Region ist bergig mit fruchtbaren Tälern. Das Klima ist kontinental.",
-      hu: "Khwaja Ghar egy kisváros Afganisztán északkeleti részén, Takhar tartományban. Körülbelül 1200 méter magasan fekszik, lakossága kb. 10 000 fő (2015). Gazdasága a mezőgazdaságon alapul, búzát, rizst és gyümölcsöket termesztenek. Khwaja Ghar híres hagyományos kézművességéről, különösen szőnyeg- és nemeztermékek készítéséről. A lakosság túlnyomórészt tadzsik és üzbég. A városban van bazár és több iskola. A vízellátást folyók és kutak biztosítják. A vidék hegyvidéki, termékeny völgyekkel. Az éghajlat kontinentális.",
-      ro: "Khwaja Ghar este un orășel în provincia Takhar, nord-estul Afganistanului, situat la o altitudine de aproximativ 1.200 de metri. Populația este estimată la 10.000 de locuitori (2015). Economia se bazează pe agricultură, cu culturi de grâu, orez și fructe. Khwaja Ghar este cunoscut pentru meșteșugurile sale tradiționale, în special producția de covoare și produse din pâslă. Populația este predominant tadjică și uzbecă. Orașul are un bazar și mai multe școli. Aprovizionarea cu apă se face prin râuri și fântâni. Regiunea este muntoasă cu văi fertile. Clima este continentală.",
-      en: "Khwaja Ghar is a small town in Takhar province, northeastern Afghanistan, at an elevation of about 1,200 meters. It has an estimated population of 10,000 (2015). The economy is based on agriculture, with wheat, rice, and fruit cultivation. Khwaja Ghar is known for its traditional crafts, particularly carpet and felt production. The population is predominantly Tajik and Uzbek. The town has a bazaar and several schools. Water supply comes from rivers and wells. The area is mountainous with fertile valleys. The climate is continental.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 10.000 (2015)", "Höhe: 1.200 m", "Reisproduktion: jährlich 1.000 Tonnen", "Anzahl der Teppichknüpfereien: 15", "Anzahl der Schulen: 4", "Entfernung nach Taloqan: 60 km"],
-      hu: ["Népesség: kb. 10.000 (2015)", "Tengerszint feletti magasság: 1.200 m", "Rizstermelés: évi 1.000 tonna", "Szőnyegszövők száma: 15", "Iskolák száma: 4", "Távolság Taloqantól: 60 km"],
-      ro: ["Populație: circa 10.000 (2015)", "Altitudine: 1.200 m", "Producția de orez: 1.000 tone anual", "Numărul de ateliere de covoare: 15", "Numărul de școli: 4", "Distanța până la Taloqan: 60 km"],
-      en: ["Population: approx. 10,000 (2015)", "Elevation: 1,200 m", "Rice production: 1,000 tons annually", "Number of carpet workshops: 15", "Number of schools: 4", "Distance to Taloqan: 60 km"],
-    },
-  },
-  {
-    id: "afghanistan-dasht-e-archi-cities-v2",
-    type: "town",
-    name: { de: "Dasht-e Archi", hu: "Dast-e Arcsi", ro: "Dasht-e Archi", en: "Dasht-e Archi" },
-    coords: [69.17, 37.16],
-    description: {
-      de: "Dasht-e Archi ist eine Stadt in der Provinz Kundus. Sie ist bekannt für ihre weiten Ebenen und die intensive Getreideproduktion.",
-      hu: "Dast-e Arcsi város Kunduz tartományban. Ismert kiterjedt síkságairól és intenzív gabonatermeléséről.",
-      ro: "Dasht-e Archi este un oraș din provincia Kunduz. Este cunoscut pentru câmpiile sale vaste și producția intensă de cereale.",
-      en: "Dasht-e Archi is a town in Kunduz Province. It is known for its vast plains and intensive grain production.",
-    },
-    facts: {
-      de: ["Wichtiges Agrargebiet", "In der Provinz Kundus", "Bekannt für Weizenanbau", "Große ländliche Bevölkerung"],
-      hu: ["Fontos mezőgazdasági terület", "Kunduz tartományban", "Búzatermesztéséről ismert", "Nagy vidéki lakosság"],
-      ro: ["Zonă agricolă importantă", "În provincia Kunduz", "Cunoscut pentru cultivarea grâului", "Populație rurală numeroasă"],
-      en: ["Significant agricultural area", "Located in Kunduz Province", "Known for wheat farming", "Large rural population"],
-    },
-    imageHint: "Dasht-e Archi plains and wheat fields",
-    descriptionAdvanced: {
-      de: "Dasht-e Archi ist eine Stadt in der Provinz Kunduz im Norden Afghanistans. Sie liegt auf etwa 400 Metern Höhe in der Nähe des Flusses Amudarja und hat rund 15.000 Einwohner (2015). Die Wirtschaft basiert auf Landwirtschaft, besonders Baumwoll- und Getreideanbau. Dasht-e Archi ist ein wichtiges landwirtschaftliches Zentrum in der Region. Die Bevölkerung besteht hauptsächlich aus Usbeken und Tadschiken. Die Stadt hat einen Basar, Schulen und eine Klinik. Die Bewässerung erfolgt durch Kanäle aus dem Amudarja. Das Klima ist kontinental mit heißen Sommern und kalten Wintern. Die Region war von ethnischen Konflikten betroffen.",
-      hu: "Dasht-e Archi egy város Afganisztán északi részén, Kunduz tartományban. Körülbelül 400 méter magasan fekszik az Amudarja folyó közelében, lakossága kb. 15 000 fő (2015). Gazdasága a mezőgazdaságon, különösen gyapot- és gabonatermesztésen alapul. Dasht-e Archi a régió fontos mezőgazdasági központja. A lakosság többsége üzbég és tadzsik. A városban van bazár, iskolák és egy klinika. Az öntözést az Amudarjából kiépített csatornák biztosítják. Az éghajlat kontinentális, forró nyarakkal és hideg telekkel. A térséget etnikai konfliktusok sújtották.",
-      ro: "Dasht-e Archi este un oraș din provincia Kunduz, nordul Afganistanului, situat la o altitudine de aproximativ 400 de metri lângă râul Amudarya. Populația este estimată la 15.000 de locuitori (2015). Economia se bazează pe agricultură, în special cultivarea bumbacului și cerealelor. Dasht-e Archi este un centru agricol important. Populația este predominant uzbecă și tadjică. Orașul are un bazar, școli și o clinică. Irigarea se face prin canale din Amudarya. Clima este continentală, cu veri fierbinți și ierni reci. Regiunea a fost afectată de conflicte etnice.",
-      en: "Dasht-e Archi is a town in Kunduz province, northern Afghanistan, at an elevation of about 400 meters near the Amu Darya River. It has an estimated population of 15,000 (2015). The economy is based on agriculture, especially cotton and grain farming. Dasht-e Archi is an important agricultural center. The population is predominantly Uzbek and Tajik. The town has a bazaar, schools, and a clinic. Irrigation relies on canals from the Amu Darya. The climate is continental, with hot summers and cold winters. The region has experienced ethnic conflicts.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 15.000 (2015)", "Höhe: 400 m", "Baumwollproduktion: jährlich 3.000 Tonnen", "Anzahl der Kanäle: 2 Hauptkanäle", "Anzahl der Schulen: 5", "Entfernung nach Kunduz: 50 km"],
-      hu: ["Népesség: kb. 15.000 (2015)", "Tengerszint feletti magasság: 400 m", "Gyapottermelés: évi 3.000 tonna", "Csatornák száma: 2 főcsatorna", "Iskolák száma: 5", "Távolság Kunduztól: 50 km"],
-      ro: ["Populație: circa 15.000 (2015)", "Altitudine: 400 m", "Producția de bumbac: 3.000 tone anual", "Numărul de canale: 2 canale principale", "Numărul de școli: 5", "Distanța până la Kunduz: 50 km"],
-      en: ["Population: approx. 15,000 (2015)", "Elevation: 400 m", "Cotton production: 3,000 tons annually", "Number of canals: 2 main canals", "Number of schools: 5", "Distance to Kunduz: 50 km"],
-    },
-  },
-  {
-    id: "afghanistan-qarghayi-cities-v2",
-    type: "town",
-    name: { de: "Qarghayi", hu: "Kargaji", ro: "Qarghayi", en: "Qarghayi" },
-    coords: [70.22, 34.54],
-    description: {
-      de: "Qarghayi liegt in der Provinz Laghman. Die Stadt ist bekannt für ihre grüne Vegetation und die Nähe zum Kabul-Fluss.",
-      hu: "Kargaji Lagmán tartományban fekszik. A város zöld vegetációjáról és a Kabuli-folyó közelségéről ismert.",
-      ro: "Qarghayi este situat în provincia Laghman. Orașul este cunoscut pentru vegetația sa verde și proximitatea de râul Kabul.",
-      en: "Qarghayi is located in Laghman Province. The town is known for its green vegetation and proximity to the Kabul River.",
-    },
-    facts: {
-      de: ["Nahe der Stadt Dschalalabad", "Wichtig für Zitrusfrüchte", "Fruchtbares Schwemmland", "In der Provinz Laghman"],
-      hu: ["Dzsalalábád városa közelében", "Fontos a citrusféléknek", "Termékeny hordalékos talaj", "Lagmán tartományban"],
-      ro: ["Lângă orașul Jalalabad", "Important pentru citrice", "Teren aluvial fertil", "În provincia Laghman"],
-      en: ["Near the city of Jalalabad", "Important for citrus fruits", "Fertile alluvial land", "Located in Laghman Province"],
-    },
-    imageHint: "Qarghayi citrus orchards and river view",
-    descriptionAdvanced: {
-      de: "Qarghayi ist eine Stadt in der Provinz Laghman im Osten Afghanistans. Sie liegt auf etwa 1.000 Metern Höhe im Tal des Flusses Alingar und hat rund 12.000 Einwohner (2015). Die Wirtschaft basiert auf Landwirtschaft, mit Anbau von Weizen, Mais und Gemüse. Qarghayi ist bekannt für seine Obstgärten, insbesondere Granatäpfel. Die Bevölkerung besteht hauptsächlich aus Paschtunen und Tadschiken. Die Stadt hat einen Basar und mehrere Schulen. Die Bewässerung erfolgt durch den Alingar-Fluss. Das Klima ist gemäßigt mit kalten Wintern und warmen Sommern. Die Region ist gebirgig mit bewaldeten Hängen.",
-      hu: "Qarghayi egy város Afganisztán keleti részén, Laghman tartományban. Körülbelül 1000 méter magasan fekszik az Alingar folyó völgyében, lakossága kb. 12 000 fő (2015). Gazdasága a mezőgazdaságon alapul, búzát, kukoricát és zöldségeket termesztenek. Qarghayi híres gyümölcsöseiről, különösen gránátalmájáról. A lakosság többsége pastu és tadzsik. A városban van bazár és több iskola. Az öntözést az Alingar folyó biztosítja. Az éghajlat mérsékelt, hideg telekkel és meleg nyarakkal. A vidék hegyvidéki, erdős lejtőkkel.",
-      ro: "Qarghayi este un oraș din provincia Laghman, estul Afganistanului, situat la o altitudine de aproximativ 1.000 de metri în valea râului Alingar. Populația este estimată la 12.000 de locuitori (2015). Economia se bazează pe agricultură, cu culturi de grâu, porumb și legume. Qarghayi este cunoscut pentru livezile sale, în special rodii. Populația este predominant paștună și tadjică. Orașul are un bazar și mai multe școli. Irigarea se face prin râul Alingar. Clima este temperată, cu ierni reci și veri calde. Regiunea este muntoasă, cu pante împădurite.",
-      en: "Qarghayi is a town in Laghman province, eastern Afghanistan, at an elevation of about 1,000 meters in the Alingar River valley. It has an estimated population of 12,000 (2015). The economy is based on agriculture, with wheat, maize, and vegetables. Qarghayi is known for its orchards, especially pomegranates. The population is predominantly Pashtun and Tajik. The town has a bazaar and several schools. Irrigation relies on the Alingar River. The climate is temperate, with cold winters and warm summers. The area is mountainous with forested slopes.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 12.000 (2015)", "Höhe: 1.000 m", "Granatapfelproduktion: jährlich 2.000 Tonnen", "Anzahl der Obstgärten: 40", "Anzahl der Schulen: 3", "Entfernung nach Mihtarlam: 15 km"],
-      hu: ["Népesség: kb. 12.000 (2015)", "Tengerszint feletti magasság: 1.000 m", "Gránátalma-termelés: évi 2.000 tonna", "Gyümölcsösök száma: 40", "Iskolák száma: 3", "Távolság Mihtarlamtól: 15 km"],
-      ro: ["Populație: circa 12.000 (2015)", "Altitudine: 1.000 m", "Producția de rodii: 2.000 tone anual", "Numărul de livezi: 40", "Numărul de școli: 3", "Distanța până la Mihtarlam: 15 km"],
-      en: ["Population: approx. 12,000 (2015)", "Elevation: 1,000 m", "Pomegranate production: 2,000 tons annually", "Number of orchards: 40", "Number of schools: 3", "Distance to Mihtarlam: 15 km"],
-    },
-  },
-  {
-    id: "afghanistan-tagab-cities-v2",
-    type: "town",
-    name: { de: "Tagab", hu: "Tagáb", ro: "Tagab", en: "Tagab" },
-    coords: [69.65, 34.85],
-    description: {
-      de: "Tagab liegt in der Provinz Kapisa. Die Stadt ist berühmt für ihren Granatapfelanbau und die malerischen Bergvölker.",
-      hu: "Tagáb Kapisza tartományban fekszik. A város gránátalma-termesztéséről és festői hegyi népeiről híres.",
-      ro: "Tagab este situat în provincia Kapisa. Orașul este faimos pentru cultivarea rodiilor și comunitățile montane pitorești.",
-      en: "Tagab is located in Kapisa Province. The town is famous for its pomegranate orchards and picturesque mountain setting.",
-    },
-    facts: {
-      de: ["Bekannt für Granatäpfel", "In der Provinz Kapisa", "Traditionelles Stammesgebiet", "Bergiges Umland"],
-      hu: ["Gránátalmájáról ismert", "Kapisza tartományban", "Hagyományos törzsi terület", "Hegyvidéki környék"],
-      ro: ["Cunoscut pentru rodii", "În provincia Kapisa", "Zonă tribală tradițională", "Cadru montan"],
-      en: ["Famous for pomegranates", "Located in Kapisa Province", "Traditional tribal area", "Mountainous surroundings"],
-    },
-    imageHint: "Tagab pomegranate orchards and hills",
-    descriptionAdvanced: {
-      de: "Tagab ist eine Stadt in der Provinz Kapisa im Osten Afghanistans. Sie liegt auf etwa 1.500 Metern Höhe im Panjshir-Tal und hat rund 10.000 Einwohner (2015). Die Wirtschaft basiert auf Landwirtschaft, mit Anbau von Weizen, Gerste und Obst. Tagab ist bekannt für seine Smaragdminen, die sich in der Nähe befinden. Die Bevölkerung besteht hauptsächlich aus Tadschiken. Die Stadt hat einen Basar und einige Schulen. Die Wasserversorgung erfolgt durch den Fluss Tagab. Das Klima ist gemäßigt mit kalten Wintern. Die Region ist bergig und strategisch wichtig.",
-      hu: "Tagab egy város Afganisztán keleti részén, Kapisa tartományban. Körülbelül 1500 méter magasan fekszik a Pandzsir-völgyben, lakossága kb. 10 000 fő (2015). Gazdasága a mezőgazdaságon alapul, búzát, árpát és gyümölcsöket termesztenek. Tagab híres a közelben található smaragdbányákról. A lakosság többsége tadzsik. A városban van bazár és néhány iskola. A vízellátást a Tagab folyó biztosítja. Az éghajlat mérsékelt, hideg telekkel. A vidék hegyvidéki és stratégiai jelentőségű.",
-      ro: "Tagab este un oraș din provincia Kapisa, estul Afganistanului, situat la o altitudine de aproximativ 1.500 de metri în valea Panjshir. Populația este estimată la 10.000 de locuitori (2015). Economia se bazează pe agricultură, cu culturi de grâu, orz și fructe. Tagab este cunoscut pentru minele sale de smarald din apropiere. Populația este predominant tadjică. Orașul are un bazar și câteva școli. Aprovizionarea cu apă se face prin râul Tagab. Clima este temperată, cu ierni reci. Regiunea este muntoasă și strategică.",
-      en: "Tagab is a town in Kapisa province, eastern Afghanistan, at an elevation of about 1,500 meters in the Panjshir Valley. It has an estimated population of 10,000 (2015). The economy is based on agriculture, with wheat, barley, and fruits. Tagab is known for the nearby emerald mines. The population is predominantly Tajik. The town has a bazaar and some schools. Water supply comes from the Tagab River. The climate is temperate with cold winters. The region is mountainous and strategically important.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 10.000 (2015)", "Höhe: 1.500 m", "Smaragdminen: 2 aktive Minen", "Jährliche Smaragdförderung: 50 kg", "Anzahl der Schulen: 3", "Entfernung nach Kabul: 80 km"],
-      hu: ["Népesség: kb. 10.000 (2015)", "Tengerszint feletti magasság: 1.500 m", "Smaragdbányák: 2 aktív bánya", "Éves smaragdkitermelés: 50 kg", "Iskolák száma: 3", "Távolság Kabulig: 80 km"],
-      ro: ["Populație: circa 10.000 (2015)", "Altitudine: 1.500 m", "Mine de smarald: 2 mine active", "Producția anuală de smarald: 50 kg", "Numărul de școli: 3", "Distanța până la Kabul: 80 km"],
-      en: ["Population: approx. 10,000 (2015)", "Elevation: 1,500 m", "Emerald mines: 2 active mines", "Annual emerald production: 50 kg", "Number of schools: 3", "Distance to Kabul: 80 km"],
-    },
-  },
-  {
-    id: "afghanistan-nijrab-cities-v2",
-    type: "town",
-    name: { de: "Nijrab", hu: "Nidzsráb", ro: "Nijrab", en: "Nijrab" },
-    coords: [69.58, 34.98],
-    description: {
-      de: "Nijrab liegt in einem üppigen Tal in der Provinz Kapisa. Die Stadt ist für ihre landschaftliche Schönheit und landwirtschaftliche Vielfalt bekannt.",
-      hu: "Nidzsráb egy dús völgyben fekszik Kapisza tartományban. A város táji szépségéről és mezőgazdasági sokszínűségéről ismert.",
-      ro: "Nijrab este situat într-o vale luxuriantă din provincia Kapisa. Orașul este cunoscut pentru frumusețea sa naturală și diversitatea agricolă.",
-      en: "Nijrab is located in a lush valley in Kapisa Province. The town is known for its scenic beauty and agricultural diversity.",
-    },
-    facts: {
-      de: ["Wichtiger lokaler Markt", "Fruchtbares Gebirgstal", "Zentrum des Nijrab Distrikts", "In der Provinz Kapisa"],
-      hu: ["Fontos helyi piac", "Termékeny hegyi völgy", "A Nidzsráb körzet központja", "Kapisza tartományban"],
-      ro: ["Piață locală importantă", "Vale montană fertilă", "Centrul districtului Nijrab", "În provincia Kapisa"],
-      en: ["Significant local market", "Fertile mountain valley", "Center of Nijrab district", "Located in Kapisa Province"],
-    },
-    imageHint: "Nijrab lush green valley and town",
-    descriptionAdvanced: {
-      de: "Nijrab ist eine Stadt in der Provinz Kapisa im Osten Afghanistans. Sie liegt auf etwa 1.300 Metern Höhe im Nijrab-Tal und hat rund 15.000 Einwohner (2015). Die Wirtschaft basiert auf Landwirtschaft, mit Anbau von Weizen, Mais und Obst. Nijrab ist bekannt für seine Smaragdminen und seine traditionelle Handwerkskunst. Die Bevölkerung besteht hauptsächlich aus Tadschiken. Die Stadt hat einen Basar, Schulen und ein Krankenhaus. Die Bewässerung erfolgt durch den Fluss Nijrab. Das Klima ist gemäßigt. Die Region ist gebirgig und von tiefen Tälern durchzogen.",
-      hu: "Nijrab egy város Afganisztán keleti részén, Kapisa tartományban. Körülbelül 1300 méter magasan fekszik a Nijrab-völgyben, lakossága kb. 15 000 fő (2015). Gazdasága a mezőgazdaságon alapul, búzát, kukoricát és gyümölcsöket termesztenek. Nijrab híres smaragdbányáiról és hagyományos kézművességéről. A lakosság többsége tadzsik. A városban van bazár, iskolák és egy kórház. Az öntözést a Nijrab folyó biztosítja. Az éghajlat mérsékelt. A vidék hegyvidéki, mély völgyekkel tarkított.",
-      ro: "Nijrab este un oraș din provincia Kapisa, estul Afganistanului, situat la o altitudine de aproximativ 1.300 de metri în valea Nijrab. Populația este estimată la 15.000 de locuitori (2015). Economia se bazează pe agricultură, cu culturi de grâu, porumb și fructe. Nijrab este cunoscut pentru minele sale de smarald și meșteșugurile tradiționale. Populația este predominant tadjică. Orașul are un bazar, școli și un spital. Irigarea se face prin râul Nijrab. Clima este temperată. Regiunea este muntoasă, cu văi adânci.",
-      en: "Nijrab is a town in Kapisa province, eastern Afghanistan, at an elevation of about 1,300 meters in the Nijrab Valley. It has an estimated population of 15,000 (2015). The economy is based on agriculture, with wheat, maize, and fruits. Nijrab is known for its emerald mines and traditional crafts. The population is predominantly Tajik. The town has a bazaar, schools, and a hospital. Irrigation relies on the Nijrab River. The climate is temperate. The region is mountainous with deep valleys.",
-    },
-    factsAdvanced: {
-      de: ["Einwohner: ca. 15.000 (2015)", "Höhe: 1.300 m", "Smaragdminen: 3 aktive Minen", "Anzahl der Krankenhäuser: 1", "Anzahl der Schulen: 6", "Entfernung nach Kabul: 90 km"],
-      hu: ["Népesség: kb. 15.000 (2015)", "Tengerszint feletti magasság: 1.300 m", "Smaragdbányák: 3 aktív bánya", "Kórházak száma: 1", "Iskolák száma: 6", "Távolság Kabulig: 90 km"],
-      ro: ["Populație: circa 15.000 (2015)", "Altitudine: 1.300 m", "Mine de smarald: 3 mine active", "Numărul de spitale: 1", "Numărul de școli: 6", "Distanța până la Kabul: 90 km"],
-      en: ["Population: approx. 15,000 (2015)", "Elevation: 1,300 m", "Emerald mines: 3 active mines", "Number of hospitals: 1", "Number of schools: 6", "Distance to Kabul: 90 km"],
-    },
+    }
   }
 ];

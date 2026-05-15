@@ -4,7 +4,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-veluwezoom-nature-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-GE",
     name: { de: "Veluwezoom", hu: "Veluwezoom", ro: "Veluwezoom", en: "Veluwezoom" },
     coords: [5.98, 52.01],
     description: {
@@ -36,7 +36,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-oostvaardersplassen-nature-v2",
     type: "wildlife",
-    parent: "NL",
+    parent: "NL-FL",
     name: { de: "Oostvaardersplassen", hu: "Oostvaardersplassen", ro: "Oostvaardersplassen", en: "Oostvaardersplassen" },
     coords: [5.38, 52.42],
     description: {
@@ -68,7 +68,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-schiermonnikoog-nature-v2",
     type: "island",
-    parent: "NL",
+    parent: "NL-FR",
     name: { de: "Schiermonnikoog", hu: "Schiermonnikoog", ro: "Schiermonnikoog", en: "Schiermonnikoog" },
     coords: [6.16, 53.48],
     description: {
@@ -100,7 +100,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-loonse-en-drunense-duinen-nature-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-NB",
     name: { de: "Loonse en Drunense Duinen", hu: "Loonse en Drunense Duinen", ro: "Loonse en Drunense Duinen", en: "Loonse en Drunense Duinen" },
     coords: [5.12, 51.64],
     description: {
@@ -132,7 +132,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-sallandse-heuvelrug-nature-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-OV",
     name: { de: "Sallandse Heuvelrug", hu: "Sallandse Heuvelrug", ro: "Sallandse Heuvelrug", en: "Sallandse Heuvelrug" },
     coords: [6.45, 52.35],
     description: {
@@ -164,7 +164,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-weerribben-wieden-nature-v2",
     type: "lake",
-    parent: "NL",
+    parent: "NL-FR",
     name: { de: "Weerribben-Wieden", hu: "Weerribben-Wieden", ro: "Weerribben-Wieden", en: "Weerribben-Wieden" },
     coords: [5.95, 52.75],
     description: {
@@ -196,7 +196,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-dwingelderveld-nature-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-DR",
     name: { de: "Dwingelderveld", hu: "Dwingelderveld", ro: "Dwingelderveld", en: "Dwingelderveld" },
     coords: [6.38, 52.81],
     description: {
@@ -228,7 +228,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-lauwersmeer-nature-v2",
     type: "lake",
-    parent: "NL",
+    parent: "NL-FR",
     name: { de: "Lauwersmeer", hu: "Lauwersmeer", ro: "Lauwersmeer", en: "Lauwersmeer" },
     coords: [6.22, 53.33],
     description: {
@@ -260,7 +260,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-kennemer-duinen-nature-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-NH",
     name: { de: "Kennemer Duinen", hu: "Kennemer Duinen", ro: "Kennemer Duinen", en: "Kennemer Duinen" },
     coords: [4.58, 52.42],
     description: {
@@ -292,7 +292,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-geulvallei-nature-v2",
     type: "valley",
-    parent: "NL",
+    parent: "NL-LI",
     name: { de: "Geulvallei", hu: "Geulvallei", ro: "Geulvallei", en: "Geulvallei" },
     coords: [5.82, 50.85],
     description: {
@@ -324,7 +324,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-oostvaardersbos-nature-v2",
     type: "forest",
-    parent: "NL",
+    parent: "NL-FL",
     name: { de: "Oostvaardersbos", hu: "Oostvaardersbos", ro: "Oostvaardersbos", en: "Oostvaardersbos" },
     coords: [5.42, 52.41],
     description: {
@@ -356,7 +356,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-waterdunen-nature-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-ZE",
     name: { de: "Waterdunen", hu: "Waterdunen", ro: "Waterdunen", en: "Waterdunen" },
     coords: [3.48, 51.38],
     description: {
@@ -388,7 +388,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-vlietlanden-nature-v2",
     type: "lake",
-    parent: "NL",
+    parent: "NL-ZH",
     name: { de: "Vlietlanden", hu: "Vlietlanden", ro: "Vlietlanden", en: "Vlietlanden" },
     coords: [4.45, 52.14],
     description: {
@@ -420,7 +420,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-oostelijk-vechtplassen-nature-v2",
     type: "lake",
-    parent: "NL",
+    parent: "NL-UT",
     name: { de: "Oostelijk Vechtplassen", hu: "Oostelijk Vechtplassen", ro: "Oostelijk Vechtplassen", en: "Oostelijk Vechtplassen" },
     coords: [5.1, 52.2],
     description: {
@@ -452,7 +452,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-kampina-nature-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-NB",
     name: { de: "Kampina", hu: "Kampina", ro: "Kampina", en: "Kampina" },
     coords: [5.25, 51.55],
     description: {
@@ -484,7 +484,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-zwin-nature-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-ZE",
     name: { de: "Zwin", hu: "Zwin", ro: "Zwin", en: "Zwin" },
     coords: [3.37, 51.37],
     description: {
@@ -516,7 +516,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-dune-meijendel-nature-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-ZH",
     name: { de: "Meijendel", hu: "Meijendel", ro: "Meijendel", en: "Meijendel" },
     coords: [4.33, 52.13],
     description: {
@@ -548,7 +548,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-wieden-nature-v2",
     type: "lake",
-    parent: "NL",
+    parent: "NL-FR",
     name: { de: "Wieden", hu: "Wieden", ro: "Wieden", en: "Wieden" },
     coords: [6.0, 52.68],
     description: {
@@ -580,7 +580,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-bossen-van-schouwen-nature-v2",
     type: "forest",
-    parent: "NL",
+    parent: "NL-ZE",
     name: { de: "Boswachterij Westerschouwen", hu: "Boswachterij Westerschouwen", ro: "Boswachterij Westerschouwen", en: "Boswachterij Westerschouwen" },
     coords: [3.7, 51.69],
     description: {
@@ -612,7 +612,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-groote-peel-nature-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-LI",
     name: { de: "Groote Peel", hu: "Groote Peel", ro: "Groote Peel", en: "Groote Peel" },
     coords: [5.8, 51.35],
     description: {
@@ -644,7 +644,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-schoorlse-duinen-nature-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-NH",
     name: { de: "Schoorlse Duinen", hu: "Schoorlse Duinen", ro: "Schoorlse Duinen", en: "Schoorlse Duinen" },
     coords: [4.67, 52.7],
     description: {
@@ -676,7 +676,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-salentse-bos-nature-v2",
     type: "forest",
-    parent: "NL",
+    parent: "NL-FL",
     name: { de: "Salentse Bos", hu: "Salentse Bos", ro: "Salentse Bos", en: "Salentse Bos" },
     coords: [5.5, 52.28],
     description: {
@@ -708,7 +708,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-bergse-plas-nature-v2",
     type: "lake",
-    parent: "NL",
+    parent: "NL-ZH",
     name: { de: "Bergse Plas", hu: "Bergse Plas", ro: "Bergse Plas", en: "Bergse Plas" },
     coords: [4.47, 51.95],
     description: {
@@ -740,7 +740,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-maasduinen-nature-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-LI",
     name: { de: "Maasduinen", hu: "Maasduinen", ro: "Maasduinen", en: "Maasduinen" },
     coords: [6.1, 51.58],
     description: {
@@ -772,7 +772,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-polder-arkemheen-nature-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-FL",
     name: { de: "Polder Arkemheen", hu: "Polder Arkemheen", ro: "Polder Arkemheen", en: "Polder Arkemheen" },
     coords: [5.43, 52.23],
     description: {
@@ -804,7 +804,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-kruisbergse-bos-nature-v2",
     type: "forest",
-    parent: "NL",
+    parent: "NL-GE",
     name: { de: "Kruisbergse Bos", hu: "Kruisbergse Bos", ro: "Kruisbergse Bos", en: "Kruisbergse Bos" },
     coords: [6.3, 51.98],
     description: {
@@ -836,7 +836,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-dwingelo-nature-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-DR",
     name: { de: "Dwingelo", hu: "Dwingelo", ro: "Dwingelo", en: "Dwingelo" },
     coords: [6.35, 52.82],
     description: {
@@ -868,7 +868,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-oostwaard-nature-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-FR",
     name: { de: "Oostwaard", hu: "Oostwaard", ro: "Oostwaard", en: "Oostwaard" },
     coords: [5.92, 52.76],
     description: {
@@ -900,7 +900,7 @@ export const netherlandsNatureV2: POI[] = [
   {
     id: "netherlands-boschplaat-nature-v2",
     type: "park",
-    parent: "NL",
+    parent: "NL-FR",
     name: { de: "De Boschplaat", hu: "De Boschplaat", ro: "De Boschplaat", en: "De Boschplaat" },
     coords: [5.5, 53.45],
     description: {

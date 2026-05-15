@@ -4,7 +4,7 @@ export const austriaNatureV2: POI[] = [
   {
     id: "austria-nassfeld-pass-nature-v2",
     type: "mountain",
-    parent: "AT",
+    parent: "AT-HoheTauern",
     name: { de: "Nassfeldpass", hu: "Nassfeld-hágó", ro: "Pasul Nassfeld", en: "Nassfeld Pass" },
     coords: [13.2667, 46.5583],
     description: {
@@ -36,7 +36,7 @@ export const austriaNatureV2: POI[] = [
   {
     id: "austria-gosausee-nature-v2",
     type: "lake",
-    parent: "AT",
+    parent: "AT-5",
     name: { de: "Gosausee", hu: "Gosau-tó", ro: "Lacul Gosau", en: "Gosau Lake" },
     coords: [13.5028, 47.5306],
     description: {
@@ -68,7 +68,7 @@ export const austriaNatureV2: POI[] = [
   {
     id: "austria-grosser-rieserferner-nature-v2",
     type: "mountain",
-    parent: "AT",
+    parent: "AT-HoheTauern",
     name: { de: "Großer Rieserferner", hu: "Nagy-Rieserferner-gleccser", ro: "Ghețarul Rieserferner Mare", en: "Great Rieserferner Glacier" },
     coords: [12.1333, 46.9167],
     description: {
@@ -100,7 +100,7 @@ export const austriaNatureV2: POI[] = [
   {
     id: "austria-oetscher-nature-v2",
     type: "mountain",
-    parent: "AT",
+    parent: "AT-3",
     name: { de: "Ötscher", hu: "Ötscher-hegy", ro: "Muntele Ötscher", en: "Ötscher Mountain" },
     coords: [15.2014, 47.8631],
     description: {
@@ -132,7 +132,7 @@ export const austriaNatureV2: POI[] = [
   {
     id: "austria-feistritz-river-nature-v2",
     type: "river",
-    parent: "AT",
+    parent: "AT-6",
     name: { de: "Feistritz", hu: "Feistritz-folyó", ro: "Râul Feistritz", en: "Feistritz River" },
     coords: [15.8, 47.05],
     description: {
@@ -164,7 +164,7 @@ export const austriaNatureV2: POI[] = [
   {
     id: "austria-luenersee-nature-v2",
     type: "lake",
-    parent: "AT",
+    parent: "AT-8",
     name: { de: "Lünersee", hu: "Lüner-tó", ro: "Lacul Lüner", en: "Lüner Lake" },
     coords: [9.7547, 47.0522],
     description: {
@@ -196,7 +196,7 @@ export const austriaNatureV2: POI[] = [
   {
     id: "austria-styrian-salza-nature-v2",
     type: "river",
-    parent: "AT",
+    parent: "AT-6",
     name: { de: "Salza", hu: "Salza-folyó", ro: "Râul Salza", en: "Salza River" },
     coords: [14.95, 47.65],
     description: {
@@ -228,7 +228,7 @@ export const austriaNatureV2: POI[] = [
   {
     id: "austria-hochkonig-nature-v2",
     type: "mountain",
-    parent: "AT",
+    parent: "AT-5",
     name: { de: "Hochkönig", hu: "Hochkönig-hegy", ro: "Muntele Hochkönig", en: "Hochkönig Mountain" },
     coords: [13.0894, 47.4208],
     description: {
@@ -260,7 +260,7 @@ export const austriaNatureV2: POI[] = [
   {
     id: "austria-wilder-kaiser-nature-v2",
     type: "mountain",
-    parent: "AT",
+    parent: "AT-HoheTauern",
     name: { de: "Wilder Kaiser", hu: "Wilder Kaiser-hegység", ro: "Munții Wilder Kaiser", en: "Wilder Kaiser Mountains" },
     coords: [12.3167, 47.5667],
     description: {
@@ -292,7 +292,7 @@ export const austriaNatureV2: POI[] = [
   {
     id: "austria-tiroler-lech-nature-v2",
     type: "river",
-    parent: "AT",
+    parent: "AT-7",
     name: { de: "Tiroler Lech", hu: "Tiroli Lech-folyó", ro: "Râul Lech Tirolian", en: "Tyrolean Lech River" },
     coords: [10.75, 47.45],
     description: {

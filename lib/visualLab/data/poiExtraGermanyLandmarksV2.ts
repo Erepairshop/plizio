@@ -4,7 +4,7 @@ export const germanyLandmarksV2: POI[] = [
   {
     id: "germany-neuschwanstein-castle-landmarks-v2",
     type: "castle",
-    parent: "DE",
+    parent: "DE-BY",
     name: { de: "Schloss Neuschwanstein", hu: "Neuschwanstein kastély", ro: "Castelul Neuschwanstein", en: "Neuschwanstein Castle" },
     coords: [10.7498, 47.5576],
     description: {
@@ -36,7 +36,7 @@ export const germanyLandmarksV2: POI[] = [
   {
     id: "germany-frankfurt-roemerberg-landmarks-v2",
     type: "landmark",
-    parent: "DE",
+    parent: "DE-HE",
     name: { de: "Römerberg Frankfurt", hu: "Frankfurti Römerberg", ro: "Römerberg din Frankfurt", en: "Römerberg Frankfurt" },
     coords: [8.6821, 50.1102],
     description: {
@@ -68,7 +68,7 @@ export const germanyLandmarksV2: POI[] = [
   {
     id: "germany-berliner-dom-landmarks-v2",
     type: "cathedral",
-    parent: "DE",
+    parent: "DE-BE",
     name: { de: "Berliner Dom", hu: "Berlini dóm", ro: "Domul din Berlin", en: "Berlin Cathedral" },
     coords: [13.4011, 52.519],
     description: {
@@ -100,7 +100,7 @@ export const germanyLandmarksV2: POI[] = [
   {
     id: "germany-ulmer-muenster-landmarks-v2",
     type: "church",
-    parent: "DE",
+    parent: "DE-BW",
     name: { de: "Ulmer Münster", hu: "Ulmi nagytemplom", ro: "Catedrala din Ulm", en: "Ulm Minster" },
     coords: [9.9915, 48.3985],
     description: {
@@ -132,7 +132,7 @@ export const germanyLandmarksV2: POI[] = [
   {
     id: "germany-viktoriapark-kreuzberg-landmarks-v2",
     type: "park",
-    parent: "DE",
+    parent: "DE-BE",
     name: { de: "Viktoriapark", hu: "Viktoria-park", ro: "Parcul Viktoria", en: "Viktoriapark" },
     coords: [13.38, 52.487],
     description: {
@@ -164,7 +164,7 @@ export const germanyLandmarksV2: POI[] = [
   {
     id: "germany-achensee-kloster-landmarks-v2",
     type: "church",
-    parent: "DE",
+    parent: "DE-BY",
     name: { de: "Kloster Ettal", hu: "Ettali kolostor", ro: "Mănăstirea Ettal", en: "Ettal Abbey" },
     coords: [11.092, 47.571],
     description: {
@@ -196,7 +196,7 @@ export const germanyLandmarksV2: POI[] = [
   {
     id: "germany-museumsinsel-berlin-landmarks-v2",
     type: "museum",
-    parent: "DE",
+    parent: "DE-BE",
     name: { de: "Museumsinsel Berlin", hu: "Berlini Múzeum-sziget", ro: "Insula Muzeelor din Berlin", en: "Museum Island Berlin" },
     coords: [13.397, 52.52],
     description: {
@@ -228,7 +228,7 @@ export const germanyLandmarksV2: POI[] = [
   {
     id: "germany-konstanz-konzilgebaeude-landmarks-v2",
     type: "landmark",
-    parent: "DE",
+    parent: "DE-BW",
     name: { de: "Konzilgebäude Konstanz", hu: "Konstanzi konzilépület", ro: "Clădirea Consiliului din Konstanz", en: "Konzilgebäude Konstanz" },
     coords: [9.175, 47.659],
     description: {

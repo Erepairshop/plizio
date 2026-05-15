@@ -4,7 +4,7 @@ export const hungaryReliefV2: POI[] = [
   {
     id: "hungary-haromszegi-medence-relief-v2",
     type: "valley",
-    parent: "HU",
+    parent: "hajdu-bihar",
     name: { de: "Dreiecksbecken", hu: "Háromszéki-medence", ro: "Depresiunea Trei Scaune", en: "Three Chairs Basin" },
     coords: [26.15, 45.85],
     description: {
@@ -36,7 +36,7 @@ export const hungaryReliefV2: POI[] = [
   {
     id: "hungary-cserehati-dombsag-relief-v2",
     type: "mountain",
-    parent: "HU",
+    parent: "borsod-abauj-zemplen",
     name: { de: "Cserehát-Hügelland", hu: "Csereháti-dombság", ro: "Dealurile Cserehát", en: "Cserehát Hills" },
     coords: [20.95, 48.42],
     description: {
@@ -68,7 +68,7 @@ export const hungaryReliefV2: POI[] = [
   {
     id: "hungary-szaraz-domb-relief-v2",
     type: "peak",
-    parent: "HU",
+    parent: "komarom-esztergom",
     name: { de: "Száraz-Hügel", hu: "Száraz-domb", ro: "Dealul Száraz", en: "Száraz Hill" },
     coords: [18.62, 47.38],
     description: {

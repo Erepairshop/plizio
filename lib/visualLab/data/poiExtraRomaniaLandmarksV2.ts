@@ -4,7 +4,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-triumphal-arch-landmarks-v2",
     type: "monument",
-    parent: "RO",
+    parent: "RO-B",
     name: { de: "Triumphbogen Bukarest", hu: "Bukaresti Diadalív", ro: "Arcul de Triumf", en: "Triumphal Arch Bucharest" },
     coords: [26.0763, 44.4668],
     description: {
@@ -36,7 +36,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-cantacuzino-palace-landmarks-v2",
     type: "palace",
-    parent: "RO",
+    parent: "RO-B",
     name: { de: "Cantacuzino-Palast", hu: "Cantacuzino-palota", ro: "Palatul Cantacuzino", en: "Cantacuzino Palace" },
     coords: [26.0911, 44.4455],
     description: {
@@ -68,7 +68,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-stavropoleos-church-landmarks-v2",
     type: "church",
-    parent: "RO",
+    parent: "RO-B",
     name: { de: "Stavropoleos-Kloster", hu: "Stavropoleos-kolostor", ro: "Mănăstirea Stavropoleos", en: "Stavropoleos Monastery" },
     coords: [26.0978, 44.4316],
     description: {
@@ -100,7 +100,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-casin-monastery-landmarks-v2",
     type: "church",
-    parent: "RO",
+    parent: "RO-B",
     name: { de: "Cașin-Kloster", hu: "Cașin-kolostor", ro: "Mănăstirea Cașin", en: "Cașin Monastery" },
     coords: [26.0792, 44.4716],
     description: {
@@ -132,7 +132,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-victoria-palace-landmarks-v2",
     type: "palace",
-    parent: "RO",
+    parent: "RO-B",
     name: { de: "Victoria-Palast", hu: "Victoria-palota", ro: "Palatul Victoria", en: "Victoria Palace" },
     coords: [26.0847, 44.4533],
     description: {
@@ -164,7 +164,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-snagov-monastery-island-landmarks-v2",
     type: "church",
-    parent: "RO",
+    parent: "RO-IF",
     name: { de: "Snagov-Klosterinsel", hu: "Snagov-kolostorsziget", ro: "Mănăstirea Snagov", en: "Snagov Monastery Island" },
     coords: [26.1772, 44.7208],
     description: {
@@ -196,7 +196,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-casin-bridge-landmarks-v2",
     type: "bridge",
-    parent: "RO",
+    parent: "RO-BC",
     name: { de: "Cașin-Brücke", hu: "Cașin-híd", ro: "Podul Cașin", en: "Cașin Bridge" },
     coords: [26.7114, 46.2233],
     description: {
@@ -228,7 +228,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-targoviste-clock-tower-landmarks-v2",
     type: "tower",
-    parent: "RO",
+    parent: "RO-DB",
     name: { de: "Uhrturm Târgoviște", hu: "Târgoviștei óratorony", ro: "Turnul Chindiei", en: "Chindia Tower Târgoviște" },
     coords: [25.4542, 44.9308],
     description: {
@@ -260,7 +260,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-braila-theatre-landmarks-v2",
     type: "theater",
-    parent: "RO",
+    parent: "RO-BR",
     name: { de: "Maria-Filotti-Theater Brăila", hu: "Maria Filotti Színház Brăila", ro: "Teatrul Maria Filotti Brăila", en: "Maria Filotti Theatre Brăila" },
     coords: [27.9622, 45.2711],
     description: {
@@ -292,7 +292,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-tulcea-monument-landmarks-v2",
     type: "monument",
-    parent: "RO",
+    parent: "RO-TL",
     name: { de: "Unabhängigkeitsdenkmal Tulcea", hu: "Függetlenségi emlékmű Tulcea", ro: "Monumentul Independenței Tulcea", en: "Independence Monument Tulcea" },
     coords: [28.7997, 45.1855],
     description: {
@@ -324,7 +324,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-satu-mare-fire-tower-landmarks-v2",
     type: "tower",
-    parent: "RO",
+    parent: "RO-SM",
     name: { de: "Feuerwehrturm Satu Mare", hu: "Szatmárnémeti tűzoltótorony", ro: "Turnul Pompierilor din Satu Mare", en: "Fire Tower Satu Mare" },
     coords: [22.8847, 47.7917],
     description: {
@@ -356,7 +356,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-oradea-theatre-landmarks-v2",
     type: "theater",
-    parent: "RO",
+    parent: "RO-BH",
     name: { de: "Staatstheater Oradea", hu: "Nagyváradi Állami Színház", ro: "Teatrul de Stat Oradea", en: "State Theatre Oradea" },
     coords: [21.9333, 47.0583],
     description: {
@@ -388,7 +388,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-cluj-cathedral-landmarks-v2",
     type: "church",
-    parent: "RO",
+    parent: "RO-CJ",
     name: { de: "St.-Michael-Kirche Cluj", hu: "Szent Mihály-templom Kolozsvár", ro: "Biserica Sfântul Mihail Cluj", en: "St. Michael's Church Cluj" },
     coords: [23.5897, 46.7694],
     description: {
@@ -420,7 +420,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-carol-park-mausoleum-landmarks-v2",
     type: "monument",
-    parent: "RO",
+    parent: "RO-B",
     name: { de: "Mausoleum Carol-Park", hu: "Carol-parki mauzóleum", ro: "Mausoleul din Parcul Carol", en: "Carol Park Mausoleum" },
     coords: [26.0914, 44.4172],
     description: {
@@ -452,7 +452,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-targu-mures-prefect-landmarks-v2",
     type: "palace",
-    parent: "RO",
+    parent: "RO-MS",
     name: { de: "Präfektur Târgu Mureș", hu: "Marosvásárhelyi Prefektúra", ro: "Palatul Administrativ din Târgu Mureș", en: "Târgu Mureș Administrative Palace" },
     coords: [24.5572, 46.5458],
     description: {
@@ -484,7 +484,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-bacau-observatory-landmarks-v2",
     type: "museum",
-    parent: "RO",
+    parent: "RO-BC",
     name: { de: "Sternwarte Bacău", hu: "Bákói csillagvizsgáló", ro: "Observatorul Astronomic Bacău", en: "Bacău Astronomical Observatory" },
     coords: [26.9117, 46.5742],
     description: {
@@ -516,7 +516,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-piatra-neamt-tower-landmarks-v2",
     type: "tower",
-    parent: "RO",
+    parent: "RO-NT",
     name: { de: "Stefansturm Piatra Neamț", hu: "Piatra Neamț-i István-torony", ro: "Turnul lui Ștefan cel Mare", en: "Stephen's Tower Piatra Neamț" },
     coords: [26.3314, 46.9292],
     description: {
@@ -548,7 +548,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-craiova-prefect-landmarks-v2",
     type: "palace",
-    parent: "RO",
+    parent: "RO-DJ",
     name: { de: "Präfektur Craiova", hu: "Craiova-i Prefektúra", ro: "Palatul Administrativ din Craiova", en: "Craiova Administrative Palace" },
     coords: [23.7917, 44.3167],
     description: {
@@ -580,7 +580,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-galati-theatre-landmarks-v2",
     type: "theater",
-    parent: "RO",
+    parent: "RO-BR",
     name: { de: "Staatstheater Galați", hu: "Galaci Állami Színház", ro: "Teatrul Dramatic Fani Tardini", en: "Fani Tardini Theatre Galați" },
     coords: [28.0494, 45.4358],
     description: {
@@ -612,7 +612,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-alexandria-cathedral-landmarks-v2",
     type: "cathedral",
-    parent: "RO",
+    parent: "RO-TR",
     name: { de: "Kathedrale Alexandria", hu: "Alexandria-i székesegyház", ro: "Catedrala Sfântul Alexandru", en: "Cathedral of Alexandria" },
     coords: [25.3314, 43.9744],
     description: {
@@ -644,7 +644,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-slobozia-monastery-landmarks-v2",
     type: "church",
-    parent: "RO",
+    parent: "RO-IL",
     name: { de: "Kloster Slobozia", hu: "Sloboziai kolostor", ro: "Mănăstirea Slobozia", en: "Slobozia Monastery" },
     coords: [27.3711, 44.5625],
     description: {
@@ -676,7 +676,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-zalau-theatre-landmarks-v2",
     type: "theater",
-    parent: "RO",
+    parent: "RO-SJ",
     name: { de: "Kulturhaus Zalău", hu: "Zilah-i Művelődési Ház", ro: "Casa de Cultură Zalău", en: "Zalău Cultural House" },
     coords: [23.0514, 47.1855],
     description: {
@@ -708,7 +708,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-focsani-theatre-landmarks-v2",
     type: "theater",
-    parent: "RO",
+    parent: "RO-VN",
     name: { de: "Operntheater Focșani", hu: "Focșani-i Színház", ro: "Teatrul Municipal Focșani", en: "Municipal Theatre Focșani" },
     coords: [27.1897, 45.6961],
     description: {
@@ -740,7 +740,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-botosani-museum-landmarks-v2",
     type: "museum",
-    parent: "RO",
+    parent: "RO-BT",
     name: { de: "Museum Botoșani", hu: "Botoșani-i Múzeum", ro: "Muzeul Județean Botoșani", en: "Botoșani County Museum" },
     coords: [26.6667, 47.7458],
     description: {
@@ -772,7 +772,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-resita-industrial-museum-landmarks-v2",
     type: "museum",
-    parent: "RO",
+    parent: "RO-CS",
     name: { de: "Eisenmuseum Reșița", hu: "Resicabányai Vasúti Múzeum", ro: "Muzeul de Locomotive cu Abur", en: "Steam Locomotive Museum Reșița" },
     coords: [21.8842, 45.3056],
     description: {
@@ -804,7 +804,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-zalau-monument-landmarks-v2",
     type: "monument",
-    parent: "RO",
+    parent: "RO-SJ",
     name: { de: "Helden-Denkmal Zalău", hu: "Zilah-i Hősök Emlékműve", ro: "Monumentul Eroilor din Zalău", en: "Heroes' Monument Zalău" },
     coords: [23.0578, 47.1811],
     description: {
@@ -836,7 +836,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-tulcea-theatre-landmarks-v2",
     type: "theater",
-    parent: "RO",
+    parent: "RO-TL",
     name: { de: "Theater Jean Bart Tulcea", hu: "Jean Bart Színház Tulcea", ro: "Teatrul Jean Bart Tulcea", en: "Jean Bart Theatre Tulcea" },
     coords: [28.8056, 45.1811],
     description: {
@@ -868,7 +868,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-vaslui-museum-landmarks-v2",
     type: "museum",
-    parent: "RO",
+    parent: "RO-VS",
     name: { de: "Museum Vaslui", hu: "Vaslui-i Múzeum", ro: "Muzeul Județean Ștefan cel Mare", en: "Stephen the Great County Museum Vaslui" },
     coords: [27.7314, 46.6358],
     description: {
@@ -900,7 +900,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-zalau-museum-landmarks-v2",
     type: "museum",
-    parent: "RO",
+    parent: "RO-SJ",
     name: { de: "Museum der Geschichte Zalău", hu: "Zilah-i Történeti Múzeum", ro: "Muzeul Județean de Istorie și Artă", en: "County Museum of History and Art Zalău" },
     coords: [23.0558, 47.1856],
     description: {
@@ -932,7 +932,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-focsani-monument-landmarks-v2",
     type: "monument",
-    parent: "RO",
+    parent: "RO-VN",
     name: { de: "Obelisk Unirea Focșani", hu: "Focșani-i Unirea Obeliszk", ro: "Obeliscul Unirii Focșani", en: "Unirii Obelisk Focșani" },
     coords: [27.1858, 45.6942],
     description: {
@@ -964,7 +964,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-bacau-theatre-landmarks-v2",
     type: "theater",
-    parent: "RO",
+    parent: "RO-BC",
     name: { de: "Theater Bacău", hu: "Bákói Színház", ro: "Teatrul Municipal Bacovia", en: "Bacovia Municipal Theatre Bacău" },
     coords: [26.9142, 46.5714],
     description: {
@@ -996,7 +996,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-botosani-theatre-landmarks-v2",
     type: "theater",
-    parent: "RO",
+    parent: "RO-BT",
     name: { de: "Theater Mihai Eminescu Botoșani", hu: "Mihai Eminescu Színház Botoșani", ro: "Teatrul Mihai Eminescu Botoșani", en: "Mihai Eminescu Theatre Botoșani" },
     coords: [26.6694, 47.7497],
     description: {
@@ -1028,7 +1028,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-vaslui-theatre-landmarks-v2",
     type: "theater",
-    parent: "RO",
+    parent: "RO-VS",
     name: { de: "Kulturhaus Vaslui", hu: "Vaslui-i Művelődési Ház", ro: "Casa de Cultură Vaslui", en: "Cultural House Vaslui" },
     coords: [27.7342, 46.6314],
     description: {
@@ -1060,7 +1060,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-resita-monument-landmarks-v2",
     type: "monument",
-    parent: "RO",
+    parent: "RO-CS",
     name: { de: "Denkmal der Industriearbeiter Reșița", hu: "Resicabányai Ipari Munkás Emlékmű", ro: "Monumentul Muncitorului Industrial Reșița", en: "Industrial Worker Monument Reșița" },
     coords: [21.8897, 45.3014],
     description: {
@@ -1092,7 +1092,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-craiova-theatre-landmarks-v2",
     type: "theater",
-    parent: "RO",
+    parent: "RO-DJ",
     name: { de: "Nationaltheater Craiova", hu: "Craiova-i Nemzeti Színház", ro: "Teatrul Național Marin Sorescu", en: "Marin Sorescu National Theatre Craiova" },
     coords: [23.7942, 44.3197],
     description: {
@@ -1124,7 +1124,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-alexandria-theatre-landmarks-v2",
     type: "theater",
-    parent: "RO",
+    parent: "RO-TR",
     name: { de: "Kulturhaus Alexandria", hu: "Alexandria-i Művelődési Ház", ro: "Casa de Cultură Alexandria", en: "Cultural House Alexandria" },
     coords: [25.3342, 43.9714],
     description: {
@@ -1156,7 +1156,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-galati-monument-landmarks-v2",
     type: "monument",
-    parent: "RO",
+    parent: "RO-BR",
     name: { de: "Denkmal der Donau Galați", hu: "Galaci Duna-emlékmű", ro: "Monumentul Dunării Galați", en: "Danube Monument Galați" },
     coords: [28.0514, 45.4314],
     description: {
@@ -1188,7 +1188,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-slobozia-theatre-landmarks-v2",
     type: "theater",
-    parent: "RO",
+    parent: "RO-IL",
     name: { de: "Kulturhaus Slobozia", hu: "Sloboziai Művelődési Ház", ro: "Casa de Cultură Slobozia", en: "Cultural House Slobozia" },
     coords: [27.3758, 44.5656],
     description: {
@@ -1220,7 +1220,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-bacau-monument-landmarks-v2",
     type: "monument",
-    parent: "RO",
+    parent: "RO-BC",
     name: { de: "Denkmal Stefan der Große Bacău", hu: "Bákói Nagy István-emlékmű", ro: "Statuia lui Ștefan cel Mare Bacău", en: "Statue of Stephen the Great Bacău" },
     coords: [26.9156, 46.5744],
     description: {
@@ -1252,7 +1252,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-resita-theatre-landmarks-v2",
     type: "theater",
-    parent: "RO",
+    parent: "RO-CS",
     name: { de: "Kulturhaus Reșița", hu: "Resicabányai Művelődési Ház", ro: "Casa de Cultură Reșița", en: "Cultural House Reșița" },
     coords: [21.8814, 45.3042],
     description: {
@@ -1284,7 +1284,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-botosani-monument-landmarks-v2",
     type: "monument",
-    parent: "RO",
+    parent: "RO-BT",
     name: { de: "Denkmal der Union Botoșani", hu: "Botoșani-i Egyesülés Emlékmű", ro: "Monumentul Unirii Botoșani", en: "Unirii Monument Botoșani" },
     coords: [26.6642, 47.7442],
     description: {
@@ -1316,7 +1316,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-craiova-museum-landmarks-v2",
     type: "museum",
-    parent: "RO",
+    parent: "RO-DJ",
     name: { de: "Oltenien-Museum Craiova", hu: "Olténiai Múzeum Craiova", ro: "Muzeul Olteniei", en: "Oltenia Museum Craiova" },
     coords: [23.7956, 44.3142],
     description: {
@@ -1348,7 +1348,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-alexandria-monument-landmarks-v2",
     type: "monument",
-    parent: "RO",
+    parent: "RO-TR",
     name: { de: "Denkmal der Helden Alexandria", hu: "Alexandria-i Hősök Emlékműve", ro: "Monumentul Eroilor Alexandria", en: "Heroes' Monument Alexandria" },
     coords: [25.3356, 43.9725],
     description: {
@@ -1380,7 +1380,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-galati-museum-landmarks-v2",
     type: "museum",
-    parent: "RO",
+    parent: "RO-BR",
     name: { de: "Historisches Museum Galați", hu: "Galaci Történeti Múzeum", ro: "Muzeul de Istorie Paul Păltănea", en: "Paul Păltănea History Museum Galați" },
     coords: [28.0556, 45.4325],
     description: {
@@ -1412,7 +1412,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-slobozia-monument-landmarks-v2",
     type: "monument",
-    parent: "RO",
+    parent: "RO-IL",
     name: { de: "Denkmal Ialomița Slobozia", hu: "Sloboziai Ialomița-emlékmű", ro: "Monumentul Ialomița Slobozia", en: "Ialomița Monument Slobozia" },
     coords: [27.3742, 44.5614],
     description: {
@@ -1444,7 +1444,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-bacau-palace-landmarks-v2",
     type: "palace",
-    parent: "RO",
+    parent: "RO-BC",
     name: { de: "Verwaltungspalast Bacău", hu: "Bákói Közigazgatási Palota", ro: "Palatul Administrativ Bacău", en: "Bacău Administrative Palace" },
     coords: [26.9144, 46.5711],
     description: {
@@ -1476,7 +1476,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-resita-museum-landmarks-v2",
     type: "museum",
-    parent: "RO",
+    parent: "RO-CS",
     name: { de: "Museum Kreis Caraș-Severin Reșița", hu: "Caraș-Severin Megyei Múzeum Resicabánya", ro: "Muzeul Județean Caraș-Severin", en: "Caraș-Severin County Museum Reșița" },
     coords: [21.8856, 45.3025],
     description: {
@@ -1508,7 +1508,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-botosani-cathedral-landmarks-v2",
     type: "church",
-    parent: "RO",
+    parent: "RO-BT",
     name: { de: "Kathedrale Botoșani", hu: "Botoșani-i székesegyház", ro: "Biserica Uspenia Botoșani", en: "Uspenia Church Botoșani" },
     coords: [26.6631, 47.7472],
     description: {
@@ -1540,7 +1540,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-craiova-monument-landmarks-v2",
     type: "monument",
-    parent: "RO",
+    parent: "RO-DJ",
     name: { de: "Mihai-Viteazul-Denkmal Craiova", hu: "Vitéz Mihály-emlékmű Craiova", ro: "Statuia lui Mihai Viteazul Craiova", en: "Statue of Mihai Viteazul Craiova" },
     coords: [23.7925, 44.3186],
     description: {
@@ -1572,7 +1572,7 @@ export const romaniaLandmarksV2: POI[] = [
   {
     id: "romania-alexandria-museum-landmarks-v2",
     type: "museum",
-    parent: "RO",
+    parent: "RO-TR",
     name: { de: "Museum Teleorman Alexandria", hu: "Alexandria-i Teleorman Múzeum", ro: "Muzeul Județean Teleorman", en: "Teleorman County Museum Alexandria" },
     coords: [25.3325, 43.9756],
     description: {

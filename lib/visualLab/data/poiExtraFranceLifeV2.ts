@@ -4,7 +4,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-cevennes-np-life-v2",
     type: "park",
-    parent: "FR",
+    parent: "FR-OCC",
     name: { de: "Nationalpark Cevennen", hu: "Cévennes Nemzeti Park", ro: "Parcul Național Cévennes", en: "Cévennes National Park" },
     coords: [3.516, 44.275],
     description: {
@@ -36,7 +36,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-port-cros-np-life-v2",
     type: "park",
-    parent: "FR",
+    parent: "FR-PAC",
     name: { de: "Nationalpark Port-Cros", hu: "Port-Cros Nemzeti Park", ro: "Parcul Național Port-Cros", en: "Port-Cros National Park" },
     coords: [6.38, 43.0],
     description: {
@@ -68,7 +68,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-ecrins-np-life-v2",
     type: "park",
-    parent: "FR",
+    parent: "FR-PAC",
     name: { de: "Nationalpark Écrins", hu: "Écrins Nemzeti Park", ro: "Parcul Național Écrins", en: "Écrins National Park" },
     coords: [6.3, 44.85],
     description: {
@@ -100,7 +100,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-foret-brosse-life-v2",
     type: "forest",
-    parent: "FR",
+    parent: "FR-IDF",
     name: { de: "Wald von Fontainebleau", hu: "Fontainebleau-i erdő", ro: "Pădurea Fontainebleau", en: "Forest of Fontainebleau" },
     coords: [2.65, 48.43],
     description: {
@@ -132,7 +132,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-jardin-botanique-lyon-life-v2",
     type: "park",
-    parent: "FR",
+    parent: "FR-ARA",
     name: { de: "Botanischer Garten von Lyon", hu: "Lyoni Botanikus Kert", ro: "Grădina Botanică din Lyon", en: "Botanical Garden of Lyon" },
     coords: [4.85, 45.77],
     description: {
@@ -164,7 +164,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-marais-poitevin-life-v2",
     type: "park",
-    parent: "FR",
+    parent: "FR-PDL",
     name: { de: "Marais Poitevin", hu: "Marais Poitevin", ro: "Marais Poitevin", en: "Marais Poitevin" },
     coords: [-0.6, 46.3],
     description: {
@@ -196,7 +196,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-reserve-camargue-life-v2",
     type: "wildlife",
-    parent: "FR",
+    parent: "FR-PAC",
     name: { de: "Naturpark Camargue", hu: "Camargue Nemzeti Park", ro: "Parcul Natural Camargue", en: "Camargue Nature Reserve" },
     coords: [4.5, 43.5],
     description: {
@@ -228,7 +228,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-vanoise-np-life-v2",
     type: "park",
-    parent: "FR",
+    parent: "FR-PAC",
     name: { de: "Nationalpark Vanoise", hu: "Vanoise Nemzeti Park", ro: "Parcul Național Vanoise", en: "Vanoise National Park" },
     coords: [6.8, 45.35],
     description: {
@@ -260,7 +260,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-guadeloupe-np-life-v2",
     type: "park",
-    parent: "FR",
+    parent: "FR-BRE",
     name: { de: "Nationalpark Guadeloupe", hu: "Guadeloupe Nemzeti Park", ro: "Parcul Național Guadelupa", en: "Guadeloupe National Park" },
     coords: [-61.7, 16.1],
     description: {
@@ -292,7 +292,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-reunion-np-life-v2",
     type: "park",
-    parent: "FR",
+    parent: "FR-COR",
     name: { de: "Nationalpark La Réunion", hu: "La Réunion Nemzeti Park", ro: "Parcul Național La Réunion", en: "La Réunion National Park" },
     coords: [55.5, -21.1],
     description: {
@@ -324,7 +324,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-guyane-amazonienne-life-v2",
     type: "park",
-    parent: "FR",
+    parent: "FR-BRE",
     name: { de: "Nationalpark Guyana-Amazonien", hu: "Guyana-Amazonas Nemzeti Park", ro: "Parcul Național Guyana Amazoniană", en: "Guiana Amazonian National Park" },
     coords: [-53.0, 2.5],
     description: {
@@ -356,7 +356,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-jardin-plantes-paris-life-v2",
     type: "park",
-    parent: "FR",
+    parent: "FR-IDF",
     name: { de: "Jardin des Plantes", hu: "Jardin des Plantes", ro: "Jardin des Plantes", en: "Jardin des Plantes" },
     coords: [2.35, 48.84],
     description: {
@@ -388,7 +388,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-reserve-sept-iles-life-v2",
     type: "wildlife",
-    parent: "FR",
+    parent: "FR-BRE",
     name: { de: "Naturschutzgebiet Sept-Îles", hu: "Sept-Îles Természetvédelmi Terület", ro: "Rezervația Sept-Îles", en: "Sept-Îles Nature Reserve" },
     coords: [-3.45, 48.9],
     description: {
@@ -420,7 +420,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-jardin-luxembourg-life-v2",
     type: "park",
-    parent: "FR",
+    parent: "FR-IDF",
     name: { de: "Jardin du Luxembourg", hu: "Luxembourg-kert", ro: "Grădina Luxembourg", en: "Jardin du Luxembourg" },
     coords: [2.33, 48.84],
     description: {
@@ -452,7 +452,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-jardin-tuileries-life-v2",
     type: "park",
-    parent: "FR",
+    parent: "FR-IDF",
     name: { de: "Jardin des Tuileries", hu: "Tuileriák kertje", ro: "Grădina Tuileries", en: "Jardin des Tuileries" },
     coords: [2.32, 48.86],
     description: {
@@ -484,7 +484,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-reserve-hauts-plateaux-life-v2",
     type: "park",
-    parent: "FR",
+    parent: "FR-ARA",
     name: { de: "Hauts Plateaux du Vercors", hu: "Hauts Plateaux du Vercors", ro: "Hauts Plateaux du Vercors", en: "Hauts Plateaux du Vercors" },
     coords: [5.45, 44.95],
     description: {
@@ -516,7 +516,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-jardin-biologique-life-v2",
     type: "park",
-    parent: "FR",
+    parent: "FR-NAQ",
     name: { de: "Jardin Botanique de Bordeaux", hu: "Bordeaux-i Botanikus Kert", ro: "Grădina Botanică din Bordeaux", en: "Botanical Garden of Bordeaux" },
     coords: [-0.56, 44.85],
     description: {
@@ -548,7 +548,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-reserve-bauges-life-v2",
     type: "park",
-    parent: "FR",
+    parent: "FR-ARA",
     name: { de: "Massif des Bauges", hu: "Massif des Bauges", ro: "Massif des Bauges", en: "Massif des Bauges" },
     coords: [6.1, 45.65],
     description: {
@@ -580,7 +580,7 @@ export const franceLifeV2: POI[] = [
   {
     id: "france-parc-floral-paris-life-v2",
     type: "park",
-    parent: "FR",
+    parent: "FR-IDF",
     name: { de: "Parc Floral de Paris", hu: "Párizsi Virágpark", ro: "Parcul Floral din Paris", en: "Parc Floral de Paris" },
     coords: [2.45, 48.83],
     description: {
