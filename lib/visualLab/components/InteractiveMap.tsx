@@ -17,6 +17,7 @@ import { getPoiImage } from "@/lib/seo/resolvePoiImage";
 import { useLang } from "@/components/LanguageProvider";
 import { usePanZoom } from "./usePanZoom";
 import { type POI } from "../data/poi";
+import { ALL_COUNTRY_POIS } from "../data/allCountryPois";
 import { Building2, Mountain, Waves, Landmark as LandmarkIcon, Eye, Layers, Sprout, Factory, Map as MapIcon } from "lucide-react";
 import { buildPoiPathById, buildStatePath, type Lang as SeoLang } from "@/lib/seo/slugs";
 import { useRuler, RulerPanel, RulerSvgOverlay } from "../quiz/RulerOverlay";
@@ -205,7 +206,24 @@ export const InteractiveMap = ({
   const deutschlandMap = countryData.map;
   const deutschlandViewBox = countryData.viewBox;
   const projectCoords = countryData.projectCoords;
-  const pois: POI[] = countryData.pois;
+  const pois: POI[] = useMemo(() => {
+    // Merge V2 POIs (from poiExtra*V2.ts via ALL_COUNTRY_POIS) for this country.
+    // resolver.ts only loads V1 sources per case; V2 batches added overnight need to be
+    // surfaced on the country map too. Filter by countryId, dedup by id.
+    const cc = countryData.countryId;
+    const base = countryData.pois;
+    const seen = new Set<string>(base.map((p) => p.id).filter(Boolean) as string[]);
+    const extras: POI[] = [];
+    for (const p of ALL_COUNTRY_POIS) {
+      if (!p || !p.id || seen.has(p.id)) continue;
+      const parent = p.parent || "";
+      if (parent === cc || parent.startsWith(cc + "-")) {
+        extras.push(p);
+        seen.add(p.id);
+      }
+    }
+    return extras.length > 0 ? base.concat(extras) : base;
+  }, [countryData]);
 
   // ---- Initialize state from URL on first render -------------------------
   const initLayer = (): Layer => {
