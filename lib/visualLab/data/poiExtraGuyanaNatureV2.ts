@@ -462,7 +462,20 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
       hu: ["A neve azt jelenti: 'Névre várva'.", "Főként rizs- és kókusztermesztésre összpontosít."],
       ro: ["Numele înseamnă 'Așteptând un nume'.", "Concentrată în principal pe cultivarea orezului și a nucilor de cocos."],
       en: ["Name means 'Waiting for a name'.", "Mainly focused on rice and coconut farming."]
-    }, image: "/poi-images/guyana-wakenaam-island-nature-v2.webp"}, {
+    }, image: "/poi-images/guyana-wakenaam-island-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Wakenaam Island ist eine Insel im Essequibo-Fluss in Guyana. Sie ist bekannt für ihre landwirtschaftliche Produktion, insbesondere Reis und Kokosnüsse. Die Insel hat eine Fläche von etwa 15 Quadratkilometern und wird von Fähren vom Festland aus erreicht. Sie beherbergt mehrere Dörfer mit insgesamt rund 3.000 Einwohnern. Die Natur auf der Insel ist geprägt von Mangrovenwäldern und Wasserwegen. Touristen kommen wegen der Ruhe und der Vogelbeobachtung.",
+      hu: "Wakenaam-sziget Guyana Essequibo folyójában található, és főként mezőgazdasági termeléséről ismert. A sziget területe körülbelül 15 négyzetkilométer, lakossága 3000 fő. A fő termények a rizs és a kókuszdió. Kompjáratok kötik össze a szárazfölddel. A sziget érintetlen természeti környezete népszerű a madármegfigyelők körében. 2010-ben turisztikai fejlesztési program indult.",
+      ro: "Insula Wakenaam este situată în râul Essequibo, Guyana, cunoscută pentru agricultură, în special orez și nucă de cocos. Suprafața este de aproximativ 15 km², cu o populație de 3.000 de locuitori. Accesul se face cu feribotul. Pe insulă se găsesc păduri de mangrove și canale. Este o destinație pentru observarea păsărilor și eco-turism. În 2010, a fost lansat un program de dezvoltare turistică.",
+      en: "Wakenaam Island, located in the Essequibo River in Guyana, is primarily agricultural, producing rice and coconuts. The island covers about 15 km² and has a population of 3,000. It is accessible by ferry from Parika. The island features mangrove forests, canals, and rich birdlife. Eco-tourism is growing, with activities including birdwatching and kayaking. A tourism development plan was initiated in 2010.",
+    },
+    factsAdvanced: {
+      de: ["Fläche 15 km²", "Einwohner 3000", "Reisanbau", "Kokosnüsse", "Fährverbindung", "Mangrovenwälder"],
+      hu: ["15 km²", "3000 lakos", "Rizstermelés", "Kókuszdió", "Komppal elérhető", "Madármegfigyelés"],
+      ro: ["15 km²", "3000 locuitori", "Orez", "Nucă de cocos", "Feribot", "Păduri de mangrove"],
+      en: ["Area 15 km²", "Population 3000", "Rice cultivation", "Coconut production", "Ferry access", "Mangrove forests"],
+    },
+  }, {
     id: "guyana-leguan-island-nature-v2",
     type: "island",
     parent: "GY-ES",

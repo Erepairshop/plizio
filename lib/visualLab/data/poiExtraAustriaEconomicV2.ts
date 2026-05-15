@@ -4,7 +4,7 @@ export const austriaEconomicV2: POI[] = [
   {
     id: "austria-vocklabruck-economic-v2",
     type: "city",
-    parent: "AT-5",
+    parent: "AT",
     name: { de: "Vöcklabruck", hu: "Vöcklabruck", ro: "Vöcklabruck", en: "Voecklabruck" },
     coords: [13.6558, 48.0068],
     description: {
@@ -36,7 +36,7 @@ export const austriaEconomicV2: POI[] = [
   {
     id: "austria-ried-im-innkreis-economic-v2",
     type: "city",
-    parent: "AT-5",
+    parent: "AT",
     name: { de: "Ried im Innkreis", hu: "Ried im Innkreis", ro: "Ried im Innkreis", en: "Ried im Innkreis" },
     coords: [13.4833, 48.2167],
     description: {
@@ -68,7 +68,7 @@ export const austriaEconomicV2: POI[] = [
   {
     id: "austria-bad-wimsbach-economic-v2",
     type: "village",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Bad Wimsbach-Neydharting", hu: "Bad Wimsbach-Neydharting", ro: "Bad Wimsbach-Neydharting", en: "Bad Wimsbach-Neydharting" },
     coords: [13.9214, 48.0556],
     description: {
@@ -100,7 +100,7 @@ export const austriaEconomicV2: POI[] = [
   {
     id: "austria-feldbach-economic-v2",
     type: "city",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Feldbach", hu: "Feldbach", ro: "Feldbach", en: "Feldbach" },
     coords: [15.8911, 46.9536],
     description: {
@@ -132,7 +132,7 @@ export const austriaEconomicV2: POI[] = [
   {
     id: "austria-liezen-logistics-economic-v2",
     type: "industry",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Liezen Logistik", hu: "Liezen Logisztika", ro: "Liezen Logistică", en: "Liezen Logistics" },
     coords: [14.23, 47.565],
     description: {
@@ -164,7 +164,7 @@ export const austriaEconomicV2: POI[] = [
   {
     id: "austria-oebb-infrastruktur-economic-v2",
     type: "industry",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "ÖBB-Infrastruktur Linz", hu: "ÖBB-Infrastruktúra Linz", ro: "ÖBB-Infrastructură Linz", en: "OeBB Infrastructure Linz" },
     coords: [14.28, 48.286],
     description: {
@@ -196,7 +196,7 @@ export const austriaEconomicV2: POI[] = [
   {
     id: "austria-tulln-trade-economic-v2",
     type: "industry",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Tulln Messe", hu: "Tulln Vásár", ro: "Tulln Târg", en: "Tulln Trade Fair" },
     coords: [16.0594, 48.3317],
     description: {
@@ -228,7 +228,7 @@ export const austriaEconomicV2: POI[] = [
   {
     id: "austria-amstetten-industry-economic-v2",
     type: "industry",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Amstetten Industriegebiet", hu: "Amstetten Ipari övezet", ro: "Amstetten Zonă industrială", en: "Amstetten Industrial Area" },
     coords: [14.87, 48.125],
     description: {
@@ -260,7 +260,7 @@ export const austriaEconomicV2: POI[] = [
   {
     id: "austria-worgl-logistics-economic-v2",
     type: "industry",
-    parent: "AT-HoheTauern",
+    parent: "AT",
     name: { de: "Wörgl Logistikzentrum", hu: "Wörgl Logisztikai központ", ro: "Wörgl Centru logistic", en: "Woergl Logistics Center" },
     coords: [12.067, 47.483],
     description: {
@@ -292,7 +292,7 @@ export const austriaEconomicV2: POI[] = [
   {
     id: "austria-spittal-economy-economic-v2",
     type: "industry",
-    parent: "AT-2",
+    parent: "AT",
     name: { de: "Spittal an der Drau Gewerbe", hu: "Spittal an der Drau Ipar", ro: "Spittal an der Drau Industrie", en: "Spittal an der Drau Business" },
     coords: [13.5, 46.79],
     description: {
@@ -324,7 +324,7 @@ export const austriaEconomicV2: POI[] = [
   {
     id: "austria-bischofshofen-industrial-economic-v2",
     type: "industry",
-    parent: "AT-5",
+    parent: "AT",
     name: { de: "Bischofshofen Industrie", hu: "Bischofshofen Ipar", ro: "Bischofshofen Industrie", en: "Bischofshofen Industry" },
     coords: [13.22, 47.41],
     description: {

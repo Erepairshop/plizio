@@ -722,5 +722,68 @@ export const poiExtraIndiaNatureV2: POI[] = [
       en: ["Godavari River is located in the state of Maharashtra and is a well-known river.", "The region attracts many visitors each year from India and abroad.", "Local culture and language are closely tied to the identity of Maharashtra."]
     }
   }
+,
+  {
+    id: "india-jog-falls-nature-v2",
+    type: "landmark",
+    name: { de: "Jog-Wasserfälle", hu: "Jog-vízesés", ro: "Cascada Jog", en: "Jog Falls" },
+    coords: [74.8117, 14.2289],
+    description: {
+      de: "Die Jog-Wasserfälle liegen am Fluss Sharavati in Karnataka. Sie stürzen aus 253 Metern Höhe in vier Kaskaden herab.",
+      hu: "A Jog-vízesés a Sharavati-folyón található Karnataka államban. A víz 253 méter magasból zúdul le négy különálló ágon.",
+      ro: "Cascada Jog este situată pe râul Sharavati în statul Karnataka. Aceasta cade de la o înălțime de 253 de metri în patru segmente.",
+      en: "The Jog Falls are located on the Sharavati River in Karnataka. They fall from a height of 253 meters in four cascades.",
+    },
+    facts: {
+      de: ["Höhe von 253 Metern", "Am Fluss Sharavati gelegen", "Besteht aus vier Kaskaden", "Teil der Westghats"],
+      hu: ["253 méteres magasság", "A Sharavati-folyón található", "Négy ágból áll", "A Nyugati-Gátak része"],
+      ro: ["Înălțime de 253 de metri", "Situată pe râul Sharavati", "Formată din patru cascade", "Parte a Gaților de Vest"],
+      en: ["Height of 253 meters", "Located on Sharavati River", "Consists of four cascades", "Part of the Western Ghats"],
+    },
+    imageHint: "Jog Falls Karnataka panoramic view",
+    descriptionAdvanced: {
+      de: "Jog Falls im Bundesstaat Karnataka zählen zu den höchsten Wasserfällen Indiens. Der Fluss Sharavathi stürzt hier 253 Meter in die Tiefe, vierteilig als Raja, Rani, Rover und Rocket. In der Monsunzeit erreicht der Wasserdurchfluss über 4.000 m³/s. Die Fälle sind in einem Regenwaldgebiet gelegen und Teil des Sharavathi-Wildreservats. Touristen können Aussichtspunkte auf beiden Seiten der Schlucht nutzen. Die umliegende Region ist reich an Biodiversität, mit Endemiten wie dem Malabar-Riesenhörnchen. Die Fälle wurden bereits 1902 für Wasserkraft erschlossen, was zu saisonalen Schwankungen führt.",
+      hu: "A Jog-vízesés India egyik legmagasabb vízesése, 253 méter magas. A Sharavathi folyó alkotja, és négy ágra szakad: Raja, Rani, Rover és Rocket. Az esős évszakban a vízhozam elérheti a 4.000 m³/s-ot. A vízesés Karnataka államban, egy esőerdőben található, és a Sharavathi Vadvédelmi Rezervátum része. A turisták kilátópontokról csodálhatják meg. A terület biológiailag gazdag: itt él a malabári hatalmas mókus is. 1902 óta vízierőmű működik a közelben, ami befolyásolja a vízhozamot.",
+      ro: "Cascada Jog din Karnataka este una dintre cele mai înalte cascade din India, cu o cădere de 253 m. Râul Sharavathi se desparte în patru brațe: Raja, Rani, Rover și Rocket. În sezonul musonic, debitul depășește 4.000 m³/s. Cascada este situată într-o pădure tropicală, parte a Rezervației Faunistice Sharavathi. Vizitatorii pot privi de pe platforme amenajate. Zona găzduște specii endemice precum veverița uriașă Malabar. Din 1902, o centrală hidroelectrică utilizează apele, cauzând fluctuații sezoniere.",
+      en: "Jog Falls in Karnataka is India's second-highest plunge waterfall, dropping 253 meters. The Sharavathi River splits into four cascades: Raja, Rani, Rover, and Rocket. During monsoon, flow exceeds 4,000 m³/s. The falls lie within the Sharavathi Wildlife Sanctuary, rich in endemic flora and fauna. A hydroelectric project built in 1902 diverts water, causing reduced flow in dry months. The site offers multiple viewpoints and is a major tourist attraction in the Western Ghats.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 253 m", "Vier Kaskaden: Raja, Rani, Rover, Rocket", "Max. Durchfluss: >4.000 m³/s (Monsun)", "Fluss: Sharavathi", "Wasserkraftwerk seit 1902", "Teil des Sharavathi-Wildreservats"],
+      hu: ["Magasság: 253 m", "Négy ág: Raja, Rani, Rover, Rocket", "Maximális vízhozam: >4.000 m³/s", "Folyó: Sharavathi", "Vízerőmű: 1902 óta", "Sharavathi Vadvédelmi Rezervátum"],
+      ro: ["Înălțime: 253 m", "Patru ramuri: Raja, Rani, Rover, Rocket", "Debit maxim: >4.000 m³/s (muson)", "Râu: Sharavathi", "Hidrocentrală din 1902", "Rezervația Faunistică Sharavathi"],
+      en: ["Height: 253 m", "Four cascades: Raja, Rani, Rover, Rocket", "Max flow: >4,000 m³/s (monsoon)", "River: Sharavathi", "Hydroelectric project since 1902", "Part of Sharavathi Wildlife Sanctuary"],
+    },
+  },
+  {
+    id: "india-lonar-lake-nature-v2",
+    type: "lake",
+    name: { de: "Lonar-See", hu: "Lonar-tó", ro: "Lacul Lonar", en: "Lonar Lake" },
+    coords: [76.5072, 19.9764],
+    description: {
+      de: "Der Lonar-See ist ein alkalischer Kratersee in Maharashtra. Er entstand durch einen Meteoriteneinschlag im Pleistozän.",
+      hu: "A Lonar-tó egy sós, lúgos vizű krátertó Maharashtra államban. A pleisztocén korban keletkezett egy meteorit becsapódása után.",
+      ro: "Lacul Lonar este un lac sărat și alcalin situat în Maharashtra. S-a format în urma impactului unui meteorit în timpul pleistocenului.",
+      en: "Lonar Lake is a saline, alkaline crater lake in Maharashtra. It was created by a meteorite impact during the Pleistocene Epoch.",
+    },
+    facts: {
+      de: ["Salzhaltiger Kratersee", "Durch Meteoriteneinschlag entstanden", "Durchmesser von 1,2 Kilometern", "In Maharashtra gelegen"],
+      hu: ["Sós vizű krátertó", "Meteoritbecsapódás hozta létre", "1,2 kilométeres átmérő", "Maharashtra államban fekszik"],
+      ro: ["Lac de crater sărat", "Format prin impactul unui meteorit", "Diametru de 1,2 kilometri", "Situat în statul Maharashtra"],
+      en: ["Saline and alkaline crater lake", "Formed by meteorite impact", "Diameter of 1.2 kilometers", "Located in Maharashtra state"],
+    },
+    imageHint: "Lonar Lake crater Maharashtra aerial view",
+    descriptionAdvanced: {
+      de: "Der Lonar-See in Maharashtra entstand vor etwa 52.000 Jahren durch einen Meteoriteneinschlag in Basaltgestein. Er hat einen Durchmesser von 1,2 km und eine Tiefe von bis zu 150 m. Der See ist hypersalin (pH ~10,5) und zeigt eine einzigartige Mikrobenvielfalt, die an extreme Bedingungen angepasst ist. Umgeben von einem Kraterrand mit einer Höhe von 20-30 m, bietet der See Lebensraum für Zugvögel. Der Einschlagskrater ist einer der wenigen gut erhaltenen Einschlagskrater in Basalt. Die Region ist von landwirtschaftlicher Nutzung geprägt, aber der See bleibt ein wichtiges geologisches und biologisches Forschungsgebiet.",
+      hu: "A Lonar-tó egy meteoritbecsapódás következtében jött létre körülbelül 52.000 évvel ezelőtt, a maharashtra-i bazaltfennsíkon. Átmérője 1,2 km, mélysége eléri a 150 métert. A tó vize erősen lúgos (pH ~10,5), ami különleges mikrobiális élővilágot eredményezett. A kráter pereme 20-30 méter magas. A tó fontos vonuló madarak számára. Ez az egyik legjobb állapotban megőrződött becsapódási kráter bazaltban. A környéken mezőgazdaság folyik, de a tó geológiai és biológiai kutatások színhelye.",
+      ro: "Lacul Lonar din Maharashtra s-a format în urma impactului unui meteorit acum ~52.000 de ani pe un platou de bazalt. Diametrul este de 1,2 km, iar adâncimea maximă de 150 m. Apa este hipersalină (pH ~10,5) și găzduiește microorganisme extreme. Marginile craterului au 20-30 m înălțime. Lacul este un habitat pentru păsări migratoare. Este unul dintre puținele cratere de impact bine conservate din bazalt. Zona este folosită pentru agricultură, dar lacul rămâne important pentru cercetarea geologică și biologică.",
+      en: "Lonar Lake in Maharashtra is a meteorite impact crater formed ~52,000 years ago in basalt. It has a diameter of 1.2 km and a depth of 150 m. The lake's hyperalkaline water (pH ~10.5) hosts unique extremophile microbes. The crater rim rises 20-30 m above the lake. It is a Ramsar site and attracts migratory birds. Lonar is one of the few well-preserved impact craters in basaltic rock. The surrounding area is agricultural, but the lake is a protected geological monument.",
+    },
+    factsAdvanced: {
+      de: ["Alter: ~52.000 Jahre", "Durchmesser: 1,2 km", "Tiefe: bis 150 m", "pH-Wert: ~10,5 (hypersalin)", "Kratersee in Basalt", "Ramsar-Gebiet"],
+      hu: ["Kor: ~52.000 év", "Átmérő: 1,2 km", "Mélység: 150 m", "pH: ~10,5 (lúgos)", "Bazalt krátertó", "Ramsari terület"],
+      ro: ["Vârstă: ~52.000 ani", "Diametru: 1,2 km", "Adâncime maximă: 150 m", "pH: ~10,5 (hipersalin)", "Crater de impact în bazalt", "Sit Ramsar"],
+      en: ["Age: ~52,000 years", "Diameter: 1.2 km", "Depth: up to 150 m", "pH: ~10.5 (alkaline)", "Impact crater in basalt", "Ramsar site"],
+    },
+  }
 ];
 

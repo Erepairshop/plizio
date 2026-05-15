@@ -4,7 +4,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-almere-cities-v2",
     type: "city",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Almere", hu: "Almere", ro: "Almere", en: "Almere" },
     coords: [5.2238, 52.3702],
     description: {
@@ -36,7 +36,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-apeldoorn-cities-v2",
     type: "city",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Apeldoorn", hu: "Apeldoorn", ro: "Apeldoorn", en: "Apeldoorn" },
     coords: [5.9699, 52.2112],
     description: {
@@ -68,7 +68,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-amersfoort-cities-v2",
     type: "city",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Amersfoort", hu: "Amersfoort", ro: "Amersfoort", en: "Amersfoort" },
     coords: [5.3872, 52.1552],
     description: {
@@ -100,7 +100,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-zoetermeer-cities-v2",
     type: "city",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Zoetermeer", hu: "Zoetermeer", ro: "Zoetermeer", en: "Zoetermeer" },
     coords: [4.4931, 52.0607],
     description: {
@@ -132,7 +132,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-zaanstad-cities-v2",
     type: "city",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Zaanstad", hu: "Zaanstad", ro: "Zaanstad", en: "Zaanstad" },
     coords: [4.8422, 52.4411],
     description: {
@@ -164,7 +164,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-hoofddorp-cities-v2",
     type: "city",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Hoofddorp", hu: "Hoofddorp", ro: "Hoofddorp", en: "Hoofddorp" },
     coords: [4.691, 52.303],
     description: {
@@ -196,7 +196,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-ede-cities-v2",
     type: "city",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Ede", hu: "Ede", ro: "Ede", en: "Ede" },
     coords: [5.6666, 52.0333],
     description: {
@@ -228,7 +228,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-leeuwarden-cities-v2",
     type: "capital",
-    parent: "NL-FR",
+    parent: "NL",
     name: { de: "Leeuwarden", hu: "Leeuwarden", ro: "Leeuwarden", en: "Leeuwarden" },
     coords: [5.7999, 53.2012],
     description: {
@@ -260,7 +260,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-alphen-aan-den-rijn-cities-v2",
     type: "city",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Alphen aan den Rijn", hu: "Alphen aan den Rijn", ro: "Alphen aan den Rijn", en: "Alphen aan den Rijn" },
     coords: [4.655, 52.129],
     description: {
@@ -292,7 +292,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-venlo-cities-v2",
     type: "city",
-    parent: "NL-LI",
+    parent: "NL",
     name: { de: "Venlo", hu: "Venlo", ro: "Venlo", en: "Venlo" },
     coords: [6.168, 51.37],
     description: {
@@ -324,7 +324,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-hilversum-cities-v2",
     type: "city",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Hilversum", hu: "Hilversum", ro: "Hilversum", en: "Hilversum" },
     coords: [5.1763, 52.2233],
     description: {
@@ -356,7 +356,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-hengelo-cities-v2",
     type: "city",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Hengelo", hu: "Hengelo", ro: "Hengelo", en: "Hengelo" },
     coords: [6.7932, 52.2652],
     description: {
@@ -388,7 +388,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-purmerend-cities-v2",
     type: "city",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Purmerend", hu: "Purmerend", ro: "Purmerend", en: "Purmerend" },
     coords: [4.9452, 52.5032],
     description: {
@@ -420,7 +420,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-roosendaal-cities-v2",
     type: "city",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Roosendaal", hu: "Roosendaal", ro: "Roosendaal", en: "Roosendaal" },
     coords: [4.4582, 51.5312],
     description: {
@@ -452,7 +452,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-oss-cities-v2",
     type: "city",
-    parent: "NL-NB",
+    parent: "NL",
     name: { de: "Oss", hu: "Oss", ro: "Oss", en: "Oss" },
     coords: [5.5182, 51.7652],
     description: {
@@ -484,7 +484,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-schiedam-cities-v2",
     type: "city",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Schiedam", hu: "Schiedam", ro: "Schiedam", en: "Schiedam" },
     coords: [4.4033, 51.9167],
     description: {
@@ -516,7 +516,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-lelystad-cities-v2",
     type: "capital",
-    parent: "NL-FL",
+    parent: "NL",
     name: { de: "Lelystad", hu: "Lelystad", ro: "Lelystad", en: "Lelystad" },
     coords: [5.484, 52.518],
     description: {
@@ -548,7 +548,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-spijkenisse-cities-v2",
     type: "city",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Spijkenisse", hu: "Spijkenisse", ro: "Spijkenisse", en: "Spijkenisse" },
     coords: [4.3297, 51.8444],
     description: {
@@ -580,7 +580,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-almelo-cities-v2",
     type: "city",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Almelo", hu: "Almelo", ro: "Almelo", en: "Almelo" },
     coords: [6.662, 52.355],
     description: {
@@ -612,7 +612,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-vlaardingen-cities-v2",
     type: "city",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Vlaardingen", hu: "Vlaardingen", ro: "Vlaardingen", en: "Vlaardingen" },
     coords: [4.3412, 51.9122],
     description: {
@@ -644,7 +644,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-helmond-cities-v2",
     type: "city",
-    parent: "NL-LI",
+    parent: "NL",
     name: { de: "Helmond", hu: "Helmond", ro: "Helmond", en: "Helmond" },
     coords: [5.6611, 51.4811],
     description: {
@@ -676,7 +676,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-assen-cities-v2",
     type: "capital",
-    parent: "NL-DR",
+    parent: "NL",
     name: { de: "Assen", hu: "Assen", ro: "Assen", en: "Assen" },
     coords: [6.5642, 52.9922],
     description: {
@@ -708,7 +708,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-bergen-op-zoom-cities-v2",
     type: "city",
-    parent: "NL-ZE",
+    parent: "NL",
     name: { de: "Bergen op Zoom", hu: "Bergen op Zoom", ro: "Bergen op Zoom", en: "Bergen op Zoom" },
     coords: [4.2872, 51.4942],
     description: {
@@ -740,7 +740,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-capelle-aan-den-ijssel-cities-v2",
     type: "city",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Capelle aan den IJssel", hu: "Capelle aan den IJssel", ro: "Capelle aan den IJssel", en: "Capelle aan den IJssel" },
     coords: [4.5792, 51.9292],
     description: {
@@ -772,7 +772,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-veenendaal-cities-v2",
     type: "city",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Veenendaal", hu: "Veenendaal", ro: "Veenendaal", en: "Veenendaal" },
     coords: [5.553, 52.025],
     description: {
@@ -804,7 +804,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-katwijk-cities-v2",
     type: "city",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Katwijk", hu: "Katwijk", ro: "Katwijk", en: "Katwijk" },
     coords: [4.414, 52.201],
     description: {
@@ -836,7 +836,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-zeist-cities-v2",
     type: "city",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Zeist", hu: "Zeist", ro: "Zeist", en: "Zeist" },
     coords: [5.242, 52.088],
     description: {
@@ -868,7 +868,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-nieuwegein-cities-v2",
     type: "city",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Nieuwegein", hu: "Nieuwegein", ro: "Nieuwegein", en: "Nieuwegein" },
     coords: [5.084, 52.031],
     description: {
@@ -900,7 +900,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-hardenberg-cities-v2",
     type: "city",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Hardenberg", hu: "Hardenberg", ro: "Hardenberg", en: "Hardenberg" },
     coords: [6.62, 52.575],
     description: {
@@ -932,7 +932,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-den-helder-cities-v2",
     type: "city",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Den Helder", hu: "Den Helder", ro: "Den Helder", en: "Den Helder" },
     coords: [4.76, 52.956],
     description: {
@@ -964,7 +964,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-zutphen-cities-v2",
     type: "city",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Zutphen", hu: "Zutphen", ro: "Zutphen", en: "Zutphen" },
     coords: [6.19, 52.14],
     description: {
@@ -996,7 +996,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-harderwijk-cities-v2",
     type: "city",
-    parent: "NL-FL",
+    parent: "NL",
     name: { de: "Harderwijk", hu: "Harderwijk", ro: "Harderwijk", en: "Harderwijk" },
     coords: [5.62, 52.35],
     description: {
@@ -1028,7 +1028,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-kampen-cities-v2",
     type: "city",
-    parent: "NL-FL",
+    parent: "NL",
     name: { de: "Kampen", hu: "Kampen", ro: "Kampen", en: "Kampen" },
     coords: [5.91, 52.55],
     description: {
@@ -1060,7 +1060,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-sneek-cities-v2",
     type: "city",
-    parent: "NL-FR",
+    parent: "NL",
     name: { de: "Sneek", hu: "Sneek", ro: "Sneek", en: "Sneek" },
     coords: [5.66, 53.03],
     description: {
@@ -1092,7 +1092,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-doetinchem-cities-v2",
     type: "city",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Doetinchem", hu: "Doetinchem", ro: "Doetinchem", en: "Doetinchem" },
     coords: [6.29, 51.96],
     description: {
@@ -1124,7 +1124,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-terneuzen-cities-v2",
     type: "city",
-    parent: "NL-ZE",
+    parent: "NL",
     name: { de: "Terneuzen", hu: "Terneuzen", ro: "Terneuzen", en: "Terneuzen" },
     coords: [3.82, 51.32],
     description: {
@@ -1157,7 +1157,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-drachten-cities-v2",
     type: "city",
-    parent: "NL-FR",
+    parent: "NL",
     name: { de: "Drachten", hu: "Drachten", ro: "Drachten", en: "Drachten" },
     coords: [6.095, 53.107],
     description: {
@@ -1189,7 +1189,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-waalwijk-cities-v2",
     type: "city",
-    parent: "NL-NB",
+    parent: "NL",
     name: { de: "Waalwijk", hu: "Waalwijk", ro: "Waalwijk", en: "Waalwijk" },
     coords: [5.064, 51.684],
     description: {
@@ -1221,7 +1221,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-hoogeveen-cities-v2",
     type: "city",
-    parent: "NL-DR",
+    parent: "NL",
     name: { de: "Hoogeveen", hu: "Hoogeveen", ro: "Hoogeveen", en: "Hoogeveen" },
     coords: [6.474, 52.723],
     description: {
@@ -1253,7 +1253,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-wageningen-cities-v2",
     type: "city",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Wageningen", hu: "Wageningen", ro: "Wageningen", en: "Wageningen" },
     coords: [5.669, 51.968],
     description: {
@@ -1285,7 +1285,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-tiel-cities-v2",
     type: "city",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Tiel", hu: "Tiel", ro: "Tiel", en: "Tiel" },
     coords: [5.432, 51.888],
     description: {
@@ -1317,7 +1317,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-winterswijk-cities-v2",
     type: "city",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Winterswijk", hu: "Winterswijk", ro: "Winterswijk", en: "Winterswijk" },
     coords: [6.716, 51.97],
     description: {
@@ -1349,7 +1349,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-hardinxveld-giessendam-cities-v2",
     type: "city",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Hardinxveld-Giessendam", hu: "Hardinxveld-Giessendam", ro: "Hardinxveld-Giessendam", en: "Hardinxveld-Giessendam" },
     coords: [4.831, 51.821],
     description: {
@@ -1381,7 +1381,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-soest-cities-v2",
     type: "city",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Soest", hu: "Soest", ro: "Soest", en: "Soest" },
     coords: [5.287, 52.173],
     description: {
@@ -1413,7 +1413,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-wierden-cities-v2",
     type: "city",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Wierden", hu: "Wierden", ro: "Wierden", en: "Wierden" },
     coords: [6.594, 52.348],
     description: {
@@ -1445,7 +1445,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-ijsselstein-cities-v2",
     type: "city",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "IJsselstein", hu: "IJsselstein", ro: "IJsselstein", en: "IJsselstein" },
     coords: [5.021, 52.016],
     description: {
@@ -1477,7 +1477,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-boxmeer-cities-v2",
     type: "city",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Boxmeer", hu: "Boxmeer", ro: "Boxmeer", en: "Boxmeer" },
     coords: [5.955, 51.644],
     description: {
@@ -1509,7 +1509,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-ommen-cities-v2",
     type: "city",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Ommen", hu: "Ommen", ro: "Ommen", en: "Ommen" },
     coords: [6.421, 52.523],
     description: {
@@ -1541,7 +1541,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-heerenveen-cities-v2",
     type: "city",
-    parent: "NL-FR",
+    parent: "NL",
     name: { de: "Heerenveen", hu: "Heerenveen", ro: "Heerenveen", en: "Heerenveen" },
     coords: [5.926, 52.956],
     description: {
@@ -1573,7 +1573,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-bodegraven-cities-v2",
     type: "city",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Bodegraven", hu: "Bodegraven", ro: "Bodegraven", en: "Bodegraven" },
     coords: [4.747, 52.083],
     description: {
@@ -1605,7 +1605,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-lochem-cities-v2",
     type: "city",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Lochem", hu: "Lochem", ro: "Lochem", en: "Lochem" },
     coords: [6.411, 52.158],
     description: {
@@ -1637,7 +1637,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-apeldoorn-north-cities-v2",
     type: "city",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Vaassen", hu: "Vaassen", ro: "Vaassen", en: "Vaassen" },
     coords: [5.976, 52.285],
     description: {
@@ -1669,7 +1669,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-ridderkerk-cities-v2",
     type: "city",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Ridderkerk", hu: "Ridderkerk", ro: "Ridderkerk", en: "Ridderkerk" },
     coords: [4.605, 51.861],
     description: {
@@ -1701,7 +1701,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-coevorden-cities-v2",
     type: "city",
-    parent: "NL-DR",
+    parent: "NL",
     name: { de: "Coevorden", hu: "Coevorden", ro: "Coevorden", en: "Coevorden" },
     coords: [6.738, 52.665],
     description: {
@@ -1733,7 +1733,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-steenwijk-cities-v2",
     type: "city",
-    parent: "NL-FR",
+    parent: "NL",
     name: { de: "Steenwijk", hu: "Steenwijk", ro: "Steenwijk", en: "Steenwijk" },
     coords: [6.117, 52.788],
     description: {
@@ -1765,7 +1765,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-oosterhout-cities-v2",
     type: "city",
-    parent: "NL-NB",
+    parent: "NL",
     name: { de: "Oosterhout", hu: "Oosterhout", ro: "Oosterhout", en: "Oosterhout" },
     coords: [4.858, 51.644],
     description: {
@@ -1797,7 +1797,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-valkenswaard-cities-v2",
     type: "city",
-    parent: "NL-NB",
+    parent: "NL",
     name: { de: "Valkenswaard", hu: "Valkenswaard", ro: "Valkenswaard", en: "Valkenswaard" },
     coords: [5.465, 51.353],
     description: {
@@ -1829,7 +1829,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-staphorst-cities-v2",
     type: "city",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Staphorst", hu: "Staphorst", ro: "Staphorst", en: "Staphorst" },
     coords: [6.223, 52.639],
     description: {
@@ -1861,7 +1861,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-krimpen-aan-den-ijssel-cities-v2",
     type: "city",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Krimpen aan den IJssel", hu: "Krimpen aan den IJssel", ro: "Krimpen aan den IJssel", en: "Krimpen aan den IJssel" },
     coords: [4.595, 51.911],
     description: {
@@ -1893,7 +1893,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-heemskerk-cities-v2",
     type: "city",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Heemskerk", hu: "Heemskerk", ro: "Heemskerk", en: "Heemskerk" },
     coords: [4.673, 52.496],
     description: {
@@ -1925,7 +1925,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-wieringermeer-cities-v2",
     type: "city",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Middenmeer", hu: "Middenmeer", ro: "Middenmeer", en: "Middenmeer" },
     coords: [5.048, 52.812],
     description: {
@@ -1957,7 +1957,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-berkel-en-rodenrijs-cities-v2",
     type: "city",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Berkel en Rodenrijs", hu: "Berkel en Rodenrijs", ro: "Berkel en Rodenrijs", en: "Berkel en Rodenrijs" },
     coords: [4.468, 51.986],
     description: {
@@ -1989,7 +1989,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-sassenheim-cities-v2",
     type: "city",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Sassenheim", hu: "Sassenheim", ro: "Sassenheim", en: "Sassenheim" },
     coords: [4.512, 52.231],
     description: {
@@ -2021,7 +2021,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-leerdam-cities-v2",
     type: "city",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Leerdam", hu: "Leerdam", ro: "Leerdam", en: "Leerdam" },
     coords: [5.092, 51.892],
     description: {
@@ -2053,7 +2053,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-epe-cities-v2",
     type: "city",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Epe", hu: "Epe", ro: "Epe", en: "Epe" },
     coords: [5.992, 52.351],
     description: {
@@ -2085,7 +2085,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-drunen-cities-v2",
     type: "city",
-    parent: "NL-NB",
+    parent: "NL",
     name: { de: "Drunen", hu: "Drunen", ro: "Drunen", en: "Drunen" },
     coords: [5.138, 51.678],
     description: {
@@ -2117,7 +2117,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-borculo-cities-v2",
     type: "city",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Borculo", hu: "Borculo", ro: "Borculo", en: "Borculo" },
     coords: [6.521, 52.115],
     description: {
@@ -2149,7 +2149,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-holten-cities-v2",
     type: "city",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Holten", hu: "Holten", ro: "Holten", en: "Holten" },
     coords: [6.417, 52.281],
     description: {
@@ -2181,7 +2181,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-edam-cities-v2",
     type: "city",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Edam", hu: "Edam", ro: "Edam", en: "Edam" },
     coords: [5.056, 52.512],
     description: {
@@ -2213,7 +2213,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-genemuiden-cities-v2",
     type: "city",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Genemuiden", hu: "Genemuiden", ro: "Genemuiden", en: "Genemuiden" },
     coords: [6.037, 52.607],
     description: {
@@ -2245,7 +2245,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-wieringen-cities-v2",
     type: "city",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Hippolytushoef", hu: "Hippolytushoef", ro: "Hippolytushoef", en: "Hippolytushoef" },
     coords: [4.935, 52.915],
     description: {
@@ -2277,7 +2277,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-driebergen-rijsenburg-cities-v2",
     type: "city",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Driebergen-Rijsenburg", hu: "Driebergen-Rijsenburg", ro: "Driebergen-Rijsenburg", en: "Driebergen-Rijsenburg" },
     coords: [5.285, 52.053],
     description: {
@@ -2309,7 +2309,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-raalte-cities-v2",
     type: "city",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Raalte", hu: "Raalte", ro: "Raalte", en: "Raalte" },
     coords: [6.273, 52.385],
     description: {
@@ -2341,7 +2341,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-waddinxveen-cities-v2",
     type: "city",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Waddinxveen", hu: "Waddinxveen", ro: "Waddinxveen", en: "Waddinxveen" },
     coords: [4.654, 52.046],
     description: {
@@ -2373,7 +2373,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-oegstgeest-cities-v2",
     type: "city",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Oegstgeest", hu: "Oegstgeest", ro: "Oegstgeest", en: "Oegstgeest" },
     coords: [4.475, 52.185],
     description: {
@@ -2405,7 +2405,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-druten-cities-v2",
     type: "city",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Druten", hu: "Druten", ro: "Druten", en: "Druten" },
     coords: [5.592, 51.884],
     description: {
@@ -2437,7 +2437,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-renkum-cities-v2",
     type: "city",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Renkum", hu: "Renkum", ro: "Renkum", en: "Renkum" },
     coords: [5.738, 51.978],
     description: {
@@ -2469,7 +2469,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-lemmer-cities-v2",
     type: "city",
-    parent: "NL-FR",
+    parent: "NL",
     name: { de: "Lemmer", hu: "Lemmer", ro: "Lemmer", en: "Lemmer" },
     coords: [5.717, 52.844],
     description: {
@@ -2501,7 +2501,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-delfzijl-cities-v2",
     type: "city",
-    parent: "NL-GR",
+    parent: "NL",
     name: { de: "Delfzijl", hu: "Delfzijl", ro: "Delfzijl", en: "Delfzijl" },
     coords: [6.927, 53.332],
     description: {
@@ -2533,7 +2533,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-heilo-cities-v2",
     type: "city",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Heiloo", hu: "Heiloo", ro: "Heiloo", en: "Heiloo" },
     coords: [4.706, 52.605],
     description: {
@@ -2565,7 +2565,7 @@ export const netherlandsCitiesV2: POI[] = [
   {
     id: "netherlands-oldenzaal-cities-v2",
     type: "city",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Oldenzaal", hu: "Oldenzaal", ro: "Oldenzaal", en: "Oldenzaal" },
     coords: [6.932, 52.311],
     description: {

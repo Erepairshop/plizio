@@ -541,4 +541,67 @@ export const poiExtraJordanNatureV2: POI[] = [
       en: ["Length 10 km", "Early Bronze Age settlement (c. 2500 BC)", "Fire destruction preserved grains and artifacts", "Limestone and marl geology", "Annual rainfall below 100 mm", "Archaeological excavations since 1981"],
     },
   }
+,
+  {
+    id: "jordan-wadi-al-hidan-nature-v2",
+    type: "valley",
+    name: { de: "Wadi al-Hidan", hu: "Vádi el-Hidan", ro: "Wadi al-Hidan", en: "Wadi Al-Hidan" },
+    coords: [35.6833, 31.5583],
+    description: {
+      de: "Diese basaltische Schlucht besitzt natürliche Becken aus schwarzem Vulkangestein. Sie gehört zum Entwässerungssystem des Mujib-Reservats.",
+      hu: "Ez a bazalt kanyon sötét vulkáni kőzetbe vájt természetes medencékkel rendelkezik. A Mudzsib Bioszféra Rezervátum vízhálózatának része.",
+      ro: "Acest canion bazaltic are bazine naturale sculptate în rocă vulcanică neagră. Face parte din sistemul de drenaj al Rezervației Mujib.",
+      en: "This basaltic canyon features natural pools carved through dark volcanic rock. It forms part of the Mujib Biosphere Reserve's drainage system.",
+    },
+    facts: {
+      de: ["15 km Gesamtlänge", "Basalt-Felsformationen", "Natürliche Wasserbecken", "Ganzjähriger Wasserfluss"],
+      hu: ["15 km teljes hosszúság", "Bazalt kőzetformációk", "Természetes vízi medencék", "Egész éves vízáramlás"],
+      ro: ["Lungime totală de 15 km", "Formațiuni de rocă bazaltică", "Bazine naturale cu apă", "Flux de apă pe tot parcursul anului"],
+      en: ["15 km total length", "Basalt rock formations", "Natural water pools", "Year-round water flow"],
+    },
+    imageHint: "Wadi Al-Hidan canyon basalt rocks and water pools",
+    descriptionAdvanced: {
+      de: "Das Wadi Al-Hidan ist ein tief eingeschnittenes Tal im Nordwesten Jordaniens, etwa 20 Kilometer südwestlich von Amman. Es erstreckt sich über eine Länge von 15 Kilometern und weist Höhenunterschiede von bis zu 800 Metern auf. Die Region ist bekannt für ihre reiche Biodiversität, darunter Eichen, Pistazien und seltene Orchideen. Historisch war das Wadi ein wichtiger Siedlungsraum, wie Ruinen aus der römischen und byzantinischen Zeit belegen. Es dient als natürlicher Korridor für Wildtiere und ist ein beliebtes Ziel für Wanderer und Naturliebhaber.",
+      hu: "A Wadi Al-Hidan egy mélyen bevágódott völgy Jordánia északnyugati részén, Ammantól délnyugatra mintegy 20 kilométerre. A völgy 15 kilométer hosszú, és a szintkülönbség helyenként eléri a 800 métert. A terület növényzete változatos, beleértve a tölgyeket, pisztáciákat és ritka orchideákat. A római és bizánci kori romok azt mutatják, hogy a vidék történelmi jelentőségű volt. Ma a völgy a természetjárók kedvelt úti célja, és fontos ökológiai folyosóként szolgál.",
+      ro: "Wadi Al-Hidan este o vale adâncă situată în nord-vestul Iordaniei, la aproximativ 20 de kilometri sud-vest de Amman. Valea se întinde pe 15 kilometri și are diferențe de altitudine de până la 800 de metri. Este cunoscută pentru biodiversitatea sa, incluzând stejari, fistic și orhidee rare. Ruinele din perioada romană și bizantină indică o locuire istorică intensă. Astăzi, zona este un coridor ecologic important și o destinație populară pentru drumeții.",
+      en: "Wadi Al-Hidan is a 15-km-long canyon in northwestern Jordan, 20 km southwest of Amman, with elevation drops of up to 800 meters. Its Mediterranean woodland habitat supports oak, pistachio, and endemic orchids. The wadi contains archaeological sites from the Roman and Byzantine periods, including terraced agriculture and water management systems. It functions as a key wildlife corridor connecting the Jordan Valley to the highlands, and is part of the Ajloun Forest Reserve ecosystem.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 15 km", "Höchster Punkt: 1200 m ü. M.", "Niedrigster Punkt: 400 m ü. M.", "Endemische Pflanzenarten: 12", "Römische Ruinen: 3 Stätten", "Jährliche Besucher: ca. 5000"],
+      hu: ["Hossz: 15 km", "Legmagasabb pont: 1200 m", "Legalacsonyabb pont: 400 m", "Endemikus növényfajok: 12", "Római romok: 3 helyszín", "Éves látogatók száma: kb. 5000"],
+      ro: ["Lungime: 15 km", "Altitudine maximă: 1200 m", "Altitudine minimă: 400 m", "Specii endemice de plante: 12", "Situri romane: 3", "Vizitatori anuali: aprox. 5000"],
+      en: ["Length: 15 km", "Highest point: 1200 m", "Lowest point: 400 m", "Endemic plant species: 12", "Roman archaeological sites: 3", "Annual visitors: approximately 5,000"],
+    },
+  },
+  {
+    id: "jordan-lisan-peninsula-nature-v2",
+    type: "landmark",
+    name: { de: "Lisan-Halbinsel", hu: "Liszan-félsziget", ro: "Peninsula Lisan", en: "Lisan Peninsula" },
+    coords: [35.45, 31.25],
+    description: {
+      de: "Diese Landmasse trennt das nördliche vom südlichen Becken des Toten Meeres. Sie besteht aus Mergel und Salz und ist wie eine Zunge geformt.",
+      hu: "Ez a terület választja el a Holt-tenger északi és déli medencéjét. Márga és só építi fel, alakja pedig egy kinyújtott nyelvre hasonlít.",
+      ro: "Această masă terestră separă bazinele Mării Moarte. Este compusă din depozite de marnă și sare, având forma unei limbi care intră în apă.",
+      en: "This landmass separates the northern and southern basins of the Dead Sea. It is composed of marl and salt deposits and shaped like a tongue.",
+    },
+    facts: {
+      de: ["Besteht aus Mergel und Salz", "Trennt das Tote Meer", "Liegt im südlichen Becken", "Geologische Ablagerungen"],
+      hu: ["Márga és só alkotja", "Kettéválasztja a Holt-tengert", "A déli medencében található", "Geológiai üledékes képződmény"],
+      ro: ["Compusă din marnă și sare", "Divide bazinele Mării Moarte", "Situată în bazinul sudic", "Formațiune geologică de sedimente"],
+      en: ["Composed of marl and salt", "Divides the Dead Sea basins", "Located in the southern basin", "Significant geological formation"],
+    },
+    imageHint: "Lisan Peninsula Dead Sea aerial view salt deposits",
+    descriptionAdvanced: {
+      de: "Die Lisan-Halbinsel ragt von der Ostseite des Toten Meeres in das Becken hinein und bedeckt etwa 40 Quadratkilometer. Sie besteht aus Sedimentgestein und Salzkrusten, die durch die Verdunstung des Wassers entstanden sind. Die Halbinsel ist bekannt für ihre bizarren Salzformationen und Schlammtöpfe. Sie war einst eine Landbrücke, die bei niedrigem Wasserstand das jordanische Ufer mit der Westseite verband. In der Bibel wird die Region mit den Städten Sodom und Gomorra in Verbindung gebracht. Heute ist es ein geologisches Forschungsgebiet von hohem Interesse.",
+      hu: "A Lisan-félsziget a Holt-tenger keleti partjáról nyúlik be a medencébe, és mintegy 40 négyzetkilométer területet foglal el. Felszínét üledékes kőzetek és sókéreg borítja, melyek a párolgás következtében alakultak ki. A félsziget híres különleges sókristályairól és iszapforrásairól. Alacsony vízállás esetén szárazföldi hídként szolgált a két part között. Bibliai hagyomány szerint itt lehettek Szodoma és Gomora városai. Ma fontos geológiai kutatási terület.",
+      ro: "Peninsula Lisan se extinde în Marea Moartă din partea estică, acoperind aproximativ 40 de kilometri pătrați. Este formată din roci sedimentare și cruste de sare rezultate din evaporarea apei. Peninsula este renumită pentru formațiunile bizare de sare și bălțile cu nămol. În perioadele de secetă, a servit ca punte terestră între malurile estice și vestice. Conform tradiției biblice, aici s-au aflat orașele Sodoma și Gomora. În prezent, este un sit de cercetare geologică major.",
+      en: "The Lisan Peninsula is a 40 km² landform projecting into the Dead Sea from the eastern shore, composed of layered sediments and salt crusts. It was once a land bridge during low water levels, connecting Jordan to the West Bank. The peninsula features salt karst formations and mud volcanoes. Geologically, it records the Dead Sea's fluctuating levels over millennia. It is often associated with the biblical cities of Sodom and Gomorrah. Today, it is a key site for studying salt tectonics and paleoclimate.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 40 km²", "Länge: 14 km", "Breite: 5 km", "Salzkrustendicke: bis zu 20 m", "Höhe: 400 m unter dem Meeresspiegel", "Jährliche Niederschlagsmenge: 50 mm"],
+      hu: ["Terület: 40 km²", "Hossz: 14 km", "Szélesség: 5 km", "Sókéreg vastagsága: akár 20 m", "Magasság: 400 m tengerszint alatt", "Éves csapadék: 50 mm"],
+      ro: ["Suprafață: 40 km²", "Lungime: 14 km", "Lățime: 5 km", "Grosimea crustei de sare: până la 20 m", "Altitudine: 400 m sub nivelul mării", "Precipitații anuale: 50 mm"],
+      en: ["Area: 40 km²", "Length: 14 km", "Width: 5 km", "Salt crust thickness: up to 20 m", "Elevation: 400 m below sea level", "Annual precipitation: 50 mm"],
+    },
+  }
 ];

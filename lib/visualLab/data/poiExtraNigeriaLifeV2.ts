@@ -788,5 +788,25 @@ export const poiExtraNigeriaLifeV2: POI[] = [
       en: ["A spectacularly rugged, highly isolated ecological sanctuary in Taraba State.", "Features extreme topographical diversity, from dry savannas to mist-shrouded mountain forests.", "Provides a highly protected habitat for the critically endangered Nigeria-Cameroon chimpanzee.", "Considered one of the most ecologically intact, least explored regions in West Africa.", "Supports a staggering diversity of avian life, including numerous endemic bird species.", "Requires significant effort to access, ensuring deep, natural ecological preservation."]
     }
   }
+,
+  {
+    id: "nigeria-oki-forest-life-v2",
+    type: "forest",
+    name: { de: "Oki Waldreservat", hu: "Oki Erdőrezervátum", ro: "Rezervația Forestieră Oki", en: "Oki Forest Reserve" },
+    coords: [4.5833, 7.4215],
+    description: {
+      de: "Das Oki Waldreservat erstreckt sich in der Region Osun und schützt ein bedeutendes Stück des ursprünglichen tropischen Regenwaldes. Es dient der Erhaltung lokaler Baumarten und bietet einen Rückzugsort für verschiedene bedrohte Vogelarten.",
+      hu: "Az Oszun régióban található Oki Erdőrezervátum az őshonos trópusi esőerdő egy jelentős részét védi. A terület a helyi fafajok megőrzését szolgálja, és számos veszélyeztetett madárfajnak nyújt élőhelyet.",
+      ro: "Rezervația Forestieră Oki, situată în regiunea Osun, protejează o porțiune semnificativă din pădurea tropicală originală. Aceasta servește la conservarea speciilor de arbori locali și oferă refugiu pentru diverse specii de păsări amenințate.",
+      en: "The Oki Forest Reserve is located in the Osun region and protects a significant portion of the original tropical rainforest. It serves to preserve local tree species and provides a habitat for various threatened bird species.",
+    },
+    facts: {
+      de: ["Schutzgebiet für westafrikanische Flora", "Enthält seltene Tropenholzarten", "Wichtiger Korridor für lokale Tierwelt", "Erstreckt sich über 120 Quadratkilometer"],
+      hu: ["Nyugat-afrikai flóra védett területe", "Ritka trópusi fafajokat tartalmaz", "Fontos folyosó a helyi élővilágnak", "120 négyzetkilométeren terül el"],
+      ro: ["Arie protejată pentru flora vest-africană", "Conține specii rare de lemn tropical", "Coridor important pentru fauna locală", "Se întinde pe 120 de kilometri pătrați"],
+      en: ["Protected area for West African flora", "Contains rare tropical tree species", "Important corridor for local wildlife", "Covers 120 square kilometers"],
+    },
+    imageHint: "tropical rainforest canopy nigeria",
+  }
 ];
 

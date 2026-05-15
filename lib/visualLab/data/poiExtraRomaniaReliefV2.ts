@@ -4,7 +4,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-parangul-mare-relief-v2",
     type: "peak",
-    parent: "RO-GJ",
+    parent: "RO",
     name: { de: "Parângul Mare", hu: "Parângul Mare", ro: "Parângul Mare", en: "Parângul Mare" },
     coords: [23.5358, 45.3486],
     description: {
@@ -36,7 +36,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-papusa-relief-v2",
     type: "peak",
-    parent: "RO-BV",
+    parent: "RO",
     name: { de: "Vârful Păpușa", hu: "Păpușa-csúcs", ro: "Vârful Păpușa", en: "Păpușa Peak" },
     coords: [25.0483, 45.5181],
     description: {
@@ -68,7 +68,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-podisul-getic-relief-v2",
     type: "landmark",
-    parent: "RO-VL",
+    parent: "RO",
     name: { de: "Getische Hochebene", hu: "Géta-fennsík", ro: "Podișul Getic", en: "Getic Plateau" },
     coords: [24.2, 44.85],
     description: {
@@ -100,7 +100,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-omu-bucegi-relief-v2",
     type: "peak",
-    parent: "RO-BV",
+    parent: "RO",
     name: { de: "Vârful Omu", hu: "Omu-csúcs", ro: "Vârful Omu", en: "Omu Peak" },
     coords: [25.4544, 45.445],
     description: {
@@ -132,7 +132,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-petrosu-relief-v2",
     type: "peak",
-    parent: "RO-BN",
+    parent: "RO",
     name: { de: "Vârful Pietrosul Rodnei", hu: "Pietrosul Rodnei", ro: "Vârful Pietrosul Rodnei", en: "Pietrosul Rodnei Peak" },
     coords: [24.6397, 47.595],
     description: {
@@ -164,7 +164,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-podisul-transilvaniei-relief-v2",
     type: "landmark",
-    parent: "RO-MS",
+    parent: "RO",
     name: { de: "Siebenbürgisches Hochland", hu: "Erdélyi-medence", ro: "Podișul Transilvaniei", en: "Transylvanian Plateau" },
     coords: [24.5, 46.5],
     description: {
@@ -196,7 +196,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-lespezi-relief-v2",
     type: "peak",
-    parent: "RO-SB",
+    parent: "RO",
     name: { de: "Vârful Lespezi", hu: "Lespezi-csúcs", ro: "Vârful Lespezi", en: "Lespezi Peak" },
     coords: [24.5761, 45.5786],
     description: {
@@ -228,7 +228,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-vanatarea-lui-buteanu-relief-v2",
     type: "peak",
-    parent: "RO-SB",
+    parent: "RO",
     name: { de: "Vânătoarea lui Buteanu", hu: "Vânătoarea lui Buteanu", ro: "Vârful Vânătoarea lui Buteanu", en: "Vânătoarea lui Buteanu Peak" },
     coords: [24.6358, 45.5908],
     description: {
@@ -260,7 +260,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-parangul-mic-relief-v2",
     type: "peak",
-    parent: "RO-GJ",
+    parent: "RO",
     name: { de: "Parângul Mic", hu: "Parângul Mic", ro: "Vârful Parângul Mic", en: "Parângul Mic Peak" },
     coords: [23.5042, 45.3375],
     description: {
@@ -292,7 +292,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-muntii-capatanii-relief-v2",
     type: "mountain",
-    parent: "RO-VL",
+    parent: "RO",
     name: { de: "Căpățâna-Gebirge", hu: "Căpățâna-hegység", ro: "Munții Căpățânii", en: "Căpățânii Mountains" },
     coords: [23.95, 45.35],
     description: {
@@ -324,7 +324,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-lespezi-capatanii-relief-v2",
     type: "peak",
-    parent: "RO-SB",
+    parent: "RO",
     name: { de: "Vârful Lespezi (Căpățânii)", hu: "Lespezi-csúcs (Căpățâna)", ro: "Vârful Lespezi (Căpățânii)", en: "Lespezi Peak (Căpățânii)" },
     coords: [23.9244, 45.3622],
     description: {
@@ -356,7 +356,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-pades-relief-v2",
     type: "peak",
-    parent: "RO-SB",
+    parent: "RO",
     name: { de: "Vârful Padeș", hu: "Padeș-csúcs", ro: "Vârful Padeș", en: "Padeș Peak" },
     coords: [23.8561, 45.4194],
     description: {
@@ -388,7 +388,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-parangul-mare-v2-relief-v2",
     type: "peak",
-    parent: "RO-GJ",
+    parent: "RO",
     name: { de: "Vârful Iezerul", hu: "Iezerul-csúcs", ro: "Vârful Iezerul", en: "Iezerul Peak" },
     coords: [23.5186, 45.3853],
     description: {
@@ -420,7 +420,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-carja-relief-v2",
     type: "peak",
-    parent: "RO-GJ",
+    parent: "RO",
     name: { de: "Vârful Cârja", hu: "Cârja-csúcs", ro: "Vârful Cârja", en: "Cârja Peak" },
     coords: [23.5322, 45.3525],
     description: {
@@ -452,7 +452,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-sura-relief-v2",
     type: "peak",
-    parent: "RO-SB",
+    parent: "RO",
     name: { de: "Vârful Șura", hu: "Șura-csúcs", ro: "Vârful Șura", en: "Șura Peak" },
     coords: [24.5853, 45.5892],
     description: {
@@ -484,7 +484,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-buteanu-relief-v2",
     type: "peak",
-    parent: "RO-SB",
+    parent: "RO",
     name: { de: "Vârful Buteanu", hu: "Buteanu-csúcs", ro: "Vârful Buteanu", en: "Buteanu Peak" },
     coords: [24.6322, 45.5925],
     description: {
@@ -516,7 +516,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-muntii-bihor-relief-v2",
     type: "mountain",
-    parent: "RO-HD",
+    parent: "RO",
     name: { de: "Bihor-Gebirge", hu: "Bihar-hegység", ro: "Munții Bihor", en: "Bihor Mountains" },
     coords: [22.75, 46.45],
     description: {
@@ -548,7 +548,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-curcubata-mare-relief-v2",
     type: "peak",
-    parent: "RO-HD",
+    parent: "RO",
     name: { de: "Curcubăta Mare", hu: "Nagy-Bihar-csúcs", ro: "Curcubăta Mare", en: "Curcubăta Mare Peak" },
     coords: [22.6822, 46.4583],
     description: {
@@ -580,7 +580,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-muntii-gutai-relief-v2",
     type: "mountain",
-    parent: "RO-MM",
+    parent: "RO",
     name: { de: "Gutâi-Gebirge", hu: "Gutin-hegység", ro: "Munții Gutâi", en: "Gutâi Mountains" },
     coords: [23.65, 47.75],
     description: {
@@ -612,7 +612,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-creasta-cocosului-relief-v2",
     type: "peak",
-    parent: "RO-MM",
+    parent: "RO",
     name: { de: "Creasta Cocoșului", hu: "Kakastaréj", ro: "Creasta Cocoșului", en: "Rooster's Crest" },
     coords: [23.7172, 47.7289],
     description: {
@@ -644,7 +644,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-tibles-relief-v2",
     type: "peak",
-    parent: "RO-BN",
+    parent: "RO",
     name: { de: "Vârful Țibleș", hu: "Țibleș-csúcs", ro: "Vârful Țibleș", en: "Țibleș Peak" },
     coords: [24.3756, 47.5306],
     description: {
@@ -676,7 +676,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-farcau-relief-v2",
     type: "peak",
-    parent: "RO-MM",
+    parent: "RO",
     name: { de: "Vârful Fărcău", hu: "Fărcău-csúcs", ro: "Vârful Fărcău", en: "Fărcău Peak" },
     coords: [24.5297, 47.8867],
     description: {
@@ -708,7 +708,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-mihailecu-relief-v2",
     type: "peak",
-    parent: "RO-MM",
+    parent: "RO",
     name: { de: "Vârful Mihăilecu", hu: "Mihăilecu-csúcs", ro: "Vârful Mihăilecu", en: "Mihăilecu Peak" },
     coords: [24.5361, 47.8833],
     description: {
@@ -740,7 +740,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-muntii-calimani-relief-v2",
     type: "mountain",
-    parent: "RO-BN",
+    parent: "RO",
     name: { de: "Călimani-Gebirge", hu: "Kelemen-havasok", ro: "Munții Călimani", en: "Călimani Mountains" },
     coords: [25.2, 47.1],
     description: {
@@ -772,7 +772,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-pietrosul-calimani-relief-v2",
     type: "peak",
-    parent: "RO-SV",
+    parent: "RO",
     name: { de: "Pietrosul Călimani", hu: "Pietrosul Călimani", ro: "Vârful Pietrosul Călimani", en: "Pietrosul Călimani Peak" },
     coords: [25.2344, 47.1233],
     description: {
@@ -804,7 +804,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-stanca-relief-v2",
     type: "peak",
-    parent: "RO-SV",
+    parent: "RO",
     name: { de: "Vârful Stânca", hu: "Stânca-csúcs", ro: "Vârful Stânca", en: "Stânca Peak" },
     coords: [25.2417, 47.1194],
     description: {
@@ -836,7 +836,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-racu-relief-v2",
     type: "peak",
-    parent: "RO-SV",
+    parent: "RO",
     name: { de: "Vârful Răcu", hu: "Răcu-csúcs", ro: "Vârful Răcu", en: "Răcu Peak" },
     coords: [25.2289, 47.1267],
     description: {
@@ -868,7 +868,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-ihnat-relief-v2",
     type: "peak",
-    parent: "RO-SV",
+    parent: "RO",
     name: { de: "Vârful Ihnat", hu: "Ihnat-csúcs", ro: "Vârful Ihnat", en: "Ihnat Peak" },
     coords: [25.2483, 47.1158],
     description: {
@@ -900,7 +900,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-negoiu-unguresc-relief-v2",
     type: "peak",
-    parent: "RO-SV",
+    parent: "RO",
     name: { de: "Negoiu Unguresc", hu: "Negoiu Unguresc", ro: "Vârful Negoiu Unguresc", en: "Negoiu Unguresc Peak" },
     coords: [25.2536, 47.1089],
     description: {
@@ -932,7 +932,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-muntii-gurghiu-relief-v2",
     type: "mountain",
-    parent: "RO-HR",
+    parent: "RO",
     name: { de: "Gurghiu-Gebirge", hu: "Görgényi-havasok", ro: "Munții Gurghiu", en: "Gurghiu Mountains" },
     coords: [25.2, 46.75],
     description: {
@@ -964,7 +964,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-saca-relief-v2",
     type: "peak",
-    parent: "RO-HR",
+    parent: "RO",
     name: { de: "Vârful Saca", hu: "Saca-csúcs", ro: "Vârful Saca", en: "Saca Peak" },
     coords: [25.3361, 46.6972],
     description: {
@@ -996,7 +996,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-batrana-gurghiu-relief-v2",
     type: "peak",
-    parent: "RO-HR",
+    parent: "RO",
     name: { de: "Vârful Bătrâna", hu: "Bătrâna-csúcs", ro: "Vârful Bătrâna", en: "Bătrâna Peak" },
     coords: [25.3417, 46.6806],
     description: {
@@ -1028,7 +1028,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-bucsina-relief-v2",
     type: "peak",
-    parent: "RO-HR",
+    parent: "RO",
     name: { de: "Vârful Bucșina", hu: "Bucșina-csúcs", ro: "Vârful Bucșina", en: "Bucșina Peak" },
     coords: [25.3056, 46.7222],
     description: {
@@ -1060,7 +1060,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-fancel-relief-v2",
     type: "peak",
-    parent: "RO-HR",
+    parent: "RO",
     name: { de: "Vârful Fâncel", hu: "Fâncel-csúcs", ro: "Vârful Fâncel", en: "Fâncel Peak" },
     coords: [25.3194, 46.7111],
     description: {
@@ -1092,7 +1092,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-muntii-harghita-relief-v2",
     type: "mountain",
-    parent: "RO-HR",
+    parent: "RO",
     name: { de: "Harghita-Gebirge", hu: "Hargita-hegység", ro: "Munții Harghita", en: "Harghita Mountains" },
     coords: [25.55, 46.4],
     description: {
@@ -1124,7 +1124,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-madarasi-hargita-relief-v2",
     type: "peak",
-    parent: "RO-HR",
+    parent: "RO",
     name: { de: "Madarasi-Hargita", hu: "Madarasi-Hargita", ro: "Vârful Madarasi-Hargita", en: "Madarasi-Hargita Peak" },
     coords: [25.5667, 46.4528],
     description: {
@@ -1156,7 +1156,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-socarau-relief-v2",
     type: "peak",
-    parent: "RO-HR",
+    parent: "RO",
     name: { de: "Vârful Șocarău", hu: "Socarău-csúcs", ro: "Vârful Șocarău", en: "Șocarău Peak" },
     coords: [25.5722, 46.4389],
     description: {
@@ -1188,7 +1188,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-fagul-inalt-relief-v2",
     type: "peak",
-    parent: "RO-HR",
+    parent: "RO",
     name: { de: "Vârful Fagul Înalt", hu: "Magas-bükk-csúcs", ro: "Vârful Fagul Înalt", en: "Fagul Înalt Peak" },
     coords: [25.5806, 46.4278],
     description: {
@@ -1220,7 +1220,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-racoasa-relief-v2",
     type: "peak",
-    parent: "RO-HR",
+    parent: "RO",
     name: { de: "Vârful Răcoasa", hu: "Racoasa-csúcs", ro: "Vârful Răcoasa", en: "Răcoasa Peak" },
     coords: [25.5583, 46.4639],
     description: {
@@ -1252,7 +1252,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-piatra-secuiului-relief-v2",
     type: "peak",
-    parent: "RO-CJ",
+    parent: "RO",
     name: { de: "Piatra Secuiului", hu: "Székelykő", ro: "Piatra Secuiului", en: "Székelykő Peak" },
     coords: [23.5778, 46.4472],
     description: {
@@ -1284,7 +1284,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-bedeleu-relief-v2",
     type: "peak",
-    parent: "RO-CJ",
+    parent: "RO",
     name: { de: "Vârful Bedeleu", hu: "Bedeleu-csúcs", ro: "Vârful Bedeleu", en: "Bedeleu Peak" },
     coords: [23.5556, 46.4361],
     description: {
@@ -1316,7 +1316,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-muntii-varatec-relief-v2",
     type: "mountain",
-    parent: "RO-CJ",
+    parent: "RO",
     name: { de: "Vărătec-Gebirge", hu: "Vărătec-hegység", ro: "Munții Vărătec", en: "Vărătec Mountains" },
     coords: [23.45, 46.55],
     description: {
@@ -1348,7 +1348,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-varatec-relief-v2",
     type: "peak",
-    parent: "RO-CJ",
+    parent: "RO",
     name: { de: "Vârful Vărătec", hu: "Vărătec-csúcs", ro: "Vârful Vărătec", en: "Vărătec Peak" },
     coords: [23.4639, 46.5417],
     description: {
@@ -1380,7 +1380,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-pleasa-relief-v2",
     type: "peak",
-    parent: "RO-CJ",
+    parent: "RO",
     name: { de: "Vârful Pleșa", hu: "Pleșa-csúcs", ro: "Vârful Pleșa", en: "Pleșa Peak" },
     coords: [23.4778, 46.5333],
     description: {
@@ -1412,7 +1412,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-panciu-relief-v2",
     type: "peak",
-    parent: "RO-CJ",
+    parent: "RO",
     name: { de: "Vârful Panciu", hu: "Panciu-csúcs", ro: "Vârful Panciu", en: "Panciu Peak" },
     coords: [23.4417, 46.5472],
     description: {
@@ -1444,7 +1444,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-gorgonu-relief-v2",
     type: "peak",
-    parent: "RO-CJ",
+    parent: "RO",
     name: { de: "Vârful Gorgonu", hu: "Gorgonu-csúcs", ro: "Vârful Gorgonu", en: "Gorgonu Peak" },
     coords: [23.4583, 46.5583],
     description: {
@@ -1476,7 +1476,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-muntii-metaliferi-relief-v2",
     type: "mountain",
-    parent: "RO-AB",
+    parent: "RO",
     name: { de: "Metaliferi-Gebirge", hu: "Érchegység", ro: "Munții Metaliferi", en: "Metaliferi Mountains" },
     coords: [23.15, 46.15],
     description: {
@@ -1508,7 +1508,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-detunata-goala-relief-v2",
     type: "peak",
-    parent: "RO-AB",
+    parent: "RO",
     name: { de: "Detunata Goală", hu: "Detunata Goală", ro: "Detunata Goală", en: "Detunata Goală Peak" },
     coords: [23.1417, 46.2556],
     description: {
@@ -1540,7 +1540,7 @@ export const romaniaReliefV2: POI[] = [
   {
     id: "romania-vfrful-detunata-flocoasa-relief-v2",
     type: "peak",
-    parent: "RO-AB",
+    parent: "RO",
     name: { de: "Detunata Flocoasă", hu: "Detunata Flocoasă", ro: "Detunata Flocoasă", en: "Detunata Flocoasă Peak" },
     coords: [23.1472, 46.2583],
     description: {

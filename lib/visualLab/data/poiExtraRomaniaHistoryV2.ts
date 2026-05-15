@@ -4,7 +4,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-cetatea-capidava-history-v2",
     type: "ruins",
-    parent: "RO-CT",
+    parent: "RO",
     name: { de: "Burg Capidava", hu: "Capidava vára", ro: "Cetatea Capidava", en: "Capidava Fortress" },
     coords: [28.0933, 44.5264],
     description: {
@@ -36,7 +36,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-mausoleul-eroilor-mateias-history-v2",
     type: "monument",
-    parent: "RO-DB",
+    parent: "RO",
     name: { de: "Mausoleum von Mateiaș", hu: "Mateiaș-hősi emlékmű", ro: "Mausoleul Eroilor de la Mateiaș", en: "Mateiaș Heroes Mausoleum" },
     coords: [25.1764, 45.2447],
     description: {
@@ -68,7 +68,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-cetatea-din-bistrita-history-v2",
     type: "ruins",
-    parent: "RO-BN",
+    parent: "RO",
     name: { de: "Bistritzer Stadtbefestigung", hu: "Besztercei városfalak", ro: "Zidurile cetății Bistrița", en: "Bistrița Fortress Walls" },
     coords: [24.5, 47.1333],
     description: {
@@ -100,7 +100,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-palatul-vechi-curtea-domneasca-bacau-history-v2",
     type: "ruins",
-    parent: "RO-BC",
+    parent: "RO",
     name: { de: "Fürstenhof Bacau", hu: "Bákói fejedelmi udvar", ro: "Curtea Domnească Bacău", en: "Bacău Princely Court" },
     coords: [26.9133, 46.5633],
     description: {
@@ -132,7 +132,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-biserica-fortificata-mosna-history-v2",
     type: "church",
-    parent: "RO-SB",
+    parent: "RO",
     name: { de: "Kirchenburg Mosna", hu: "Muzsnai erődtemplom", ro: "Biserica fortificată Moșna", en: "Moșna Fortified Church" },
     coords: [24.38, 46.0717],
     description: {
@@ -164,7 +164,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-castelul-teleki-gornesti-history-v2",
     type: "castle",
-    parent: "RO-MS",
+    parent: "RO",
     name: { de: "Schloss Teleki Gornesti", hu: "Gernyeszegi Teleki-kastély", ro: "Castelul Teleki din Gornești", en: "Teleki Castle in Gornești" },
     coords: [24.6667, 46.6667],
     description: {
@@ -196,7 +196,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-cetatea-deva-istorica-history-v2",
     type: "castle",
-    parent: "RO-HD",
+    parent: "RO",
     name: { de: "Festung Deva", hu: "Déva vára", ro: "Cetatea Devei", en: "Deva Fortress" },
     coords: [22.898, 45.885],
     description: {
@@ -228,7 +228,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-manastirea-dobrovat-history-v2",
     type: "church",
-    parent: "RO-IS",
+    parent: "RO",
     name: { de: "Kloster Dobrovat", hu: "Dobrovăț kolostor", ro: "Mănăstirea Dobrovăț", en: "Dobrovăț Monastery" },
     coords: [27.7267, 47.0117],
     description: {
@@ -260,7 +260,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-cetatea-dambovita-history-v2",
     type: "ruins",
-    parent: "RO-DB",
+    parent: "RO",
     name: { de: "Festung Dâmbovița", hu: "Dâmbovița vára", ro: "Cetatea Dâmbovița", en: "Dâmbovița Fortress" },
     coords: [25.4578, 44.9281],
     description: {
@@ -292,7 +292,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-cetatea-rasnov-istorica-history-v2",
     type: "castle",
-    parent: "RO-BV",
+    parent: "RO",
     name: { de: "Festung Rosenau", hu: "Barcarozsnyó vára", ro: "Cetatea Râșnov", en: "Râșnov Fortress" },
     coords: [25.4678, 45.59],
     description: {
@@ -324,7 +324,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-conacul-golescu-history-v2",
     type: "palace",
-    parent: "RO-AG",
+    parent: "RO",
     name: { de: "Golescu-Herrenhaus", hu: "Golescu-kúria", ro: "Conacul Golescu", en: "Golescu Manor" },
     coords: [25.1667, 44.75],
     description: {
@@ -356,7 +356,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-manastirea-horezu-istorica-history-v2",
     type: "church",
-    parent: "RO-VL",
+    parent: "RO",
     name: { de: "Kloster Horezu", hu: "Horezu kolostor", ro: "Mănăstirea Hurezi", en: "Hurezi Monastery" },
     coords: [24.0083, 45.1767],
     description: {
@@ -388,7 +388,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-biserica-fortificata-calnic-history-v2",
     type: "castle",
-    parent: "RO-AB",
+    parent: "RO",
     name: { de: "Kirchenburg Kelling", hu: "Kelneki erődtemplom", ro: "Biserica fortificată Câlnic", en: "Câlnic Fortified Church" },
     coords: [23.6558, 45.8856],
     description: {
@@ -420,7 +420,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-conacul-vacarescu-history-v2",
     type: "palace",
-    parent: "RO-DB",
+    parent: "RO",
     name: { de: "Văcărescu-Herrenhaus", hu: "Văcărescu-kúria", ro: "Conacul Văcărescu", en: "Văcărescu Manor" },
     coords: [25.46, 44.91],
     description: {
@@ -452,7 +452,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-cetatea-cetatuia-brasov-history-v2",
     type: "castle",
-    parent: "RO-BV",
+    parent: "RO",
     name: { de: "Burg Cetățuia", hu: "Cetățuia vár", ro: "Cetățuia Brașov", en: "Cetățuia Fortress Brașov" },
     coords: [25.5947, 45.6486],
     description: {
@@ -484,7 +484,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-conacul-bellu-history-v2",
     type: "palace",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Herrenhaus Bellu", hu: "Bellu-kúria", ro: "Conacul Bellu", en: "Bellu Manor" },
     coords: [26.35, 45.02],
     description: {
@@ -516,7 +516,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-manastirea-vorona-history-v2",
     type: "church",
-    parent: "RO-BT",
+    parent: "RO",
     name: { de: "Kloster Vorona", hu: "Vorona kolostor", ro: "Mănăstirea Vorona", en: "Vorona Monastery" },
     coords: [26.6833, 47.6],
     description: {
@@ -548,7 +548,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-conacul-malaxa-history-v2",
     type: "palace",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Herrenhaus Malaxa", hu: "Malaxa-kúria", ro: "Conacul Malaxa", en: "Malaxa Manor" },
     coords: [26.1, 44.4333],
     description: {
@@ -580,7 +580,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-cetatea-histria-history-v2",
     type: "ruins",
-    parent: "RO-CT",
+    parent: "RO",
     name: { de: "Festung Histria", hu: "Hisztria vára", ro: "Cetatea Histria", en: "Histria Fortress" },
     coords: [28.775, 44.55],
     description: {
@@ -612,7 +612,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-cetatea-neamt-history-v2",
     type: "castle",
-    parent: "RO-NT",
+    parent: "RO",
     name: { de: "Festung Neamț", hu: "Neamț vára", ro: "Cetatea Neamț", en: "Neamț Fortress" },
     coords: [26.3333, 47.2],
     description: {
@@ -644,7 +644,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-conacul-logofat-history-v2",
     type: "palace",
-    parent: "RO-DB",
+    parent: "RO",
     name: { de: "Herrenhaus Logofăt", hu: "Logofăt-kúria", ro: "Conacul Logofăt", en: "Logofăt Manor" },
     coords: [25.5, 44.8],
     description: {
@@ -676,7 +676,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-conacul-archim-history-v2",
     type: "palace",
-    parent: "RO-OT",
+    parent: "RO",
     name: { de: "Herrenhaus Archim", hu: "Archim-kúria", ro: "Conacul Archim", en: "Archim Manor" },
     coords: [24.3, 44.2],
     description: {
@@ -708,7 +708,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-cetatea-capalna-history-v2",
     type: "ruins",
-    parent: "RO-AB",
+    parent: "RO",
     name: { de: "Burg Căpâlna", hu: "Kápolnai vár", ro: "Cetatea Căpâlna", en: "Căpâlna Fortress" },
     coords: [23.6333, 45.85],
     description: {
@@ -740,7 +740,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-manastirea-varatec-history-v2",
     type: "church",
-    parent: "RO-NT",
+    parent: "RO",
     name: { de: "Kloster Văratec", hu: "Văratec kolostor", ro: "Mănăstirea Văratec", en: "Văratec Monastery" },
     coords: [26.2667, 47.1333],
     description: {
@@ -772,7 +772,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-cetatea-poenari-history-v2",
     type: "castle",
-    parent: "RO-VL",
+    parent: "RO",
     name: { de: "Burg Poenari", hu: "Poenari vára", ro: "Cetatea Poenari", en: "Poenari Fortress" },
     coords: [24.6333, 45.35],
     description: {
@@ -804,7 +804,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-biserica-din-baba-ana-history-v2",
     type: "church",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Kirche von Baba Ana", hu: "Baba Ana-templom", ro: "Biserica din Baba Ana", en: "Baba Ana Church" },
     coords: [26.3, 45.0],
     description: {
@@ -836,7 +836,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-conacul-golescu-grant-history-v2",
     type: "palace",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Herrenhaus Golescu-Grant", hu: "Golescu-Grant-kúria", ro: "Conacul Golescu-Grant", en: "Golescu-Grant Manor" },
     coords: [26.05, 44.45],
     description: {
@@ -868,7 +868,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-cetatea-coltesti-history-v2",
     type: "castle",
-    parent: "RO-CJ",
+    parent: "RO",
     name: { de: "Burg Colțești", hu: "Torockószentgyörgyi vár", ro: "Cetatea Colțești", en: "Colțești Fortress" },
     coords: [23.5667, 46.45],
     description: {
@@ -900,7 +900,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-manastirea-bistrita-istorica-history-v2",
     type: "church",
-    parent: "RO-NT",
+    parent: "RO",
     name: { de: "Kloster Bistrița", hu: "Besztercei kolostor", ro: "Mănăstirea Bistrița", en: "Bistrița Monastery" },
     coords: [26.25, 46.9],
     description: {
@@ -932,7 +932,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-cetatea-turnu-istorica-history-v2",
     type: "ruins",
-    parent: "RO-TR",
+    parent: "RO",
     name: { de: "Festung Turnu", hu: "Turnu vára", ro: "Cetatea Turnu", en: "Turnu Fortress" },
     coords: [24.8667, 43.7333],
     description: {
@@ -964,7 +964,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-conacul-sturza-history-v2",
     type: "palace",
-    parent: "RO-IS",
+    parent: "RO",
     name: { de: "Sturza-Herrenhaus", hu: "Sturza-kúria", ro: "Conacul Sturza", en: "Sturza Manor" },
     coords: [27.6, 47.15],
     description: {
@@ -996,7 +996,7 @@ export const romaniaHistoryV2: POI[] = [
   {
     id: "romania-manastirea-golia-istorica-history-v2",
     type: "church",
-    parent: "RO-IS",
+    parent: "RO",
     name: { de: "Kloster Golia", hu: "Golia kolostor", ro: "Mănăstirea Golia", en: "Golia Monastery" },
     coords: [27.5833, 47.1667],
     description: {

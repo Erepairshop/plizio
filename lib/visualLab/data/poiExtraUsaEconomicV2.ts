@@ -679,4 +679,43 @@ factsAdvanced: { de: ["Das Technologiezentrum der Region trägt den weit verbrei
         en: ["Known as 'Silicon Hills'.", "Home to many large tech companies.", "Leading in semiconductor manufacturing.", "Strong growth of the tech scene."]
       }
     }
+,
+  {
+    id: "usa-research-triangle-park-economic-v2",
+    type: "industry",
+    name: { de: "Research Triangle Park", hu: "Research Triangle Park", ro: "Research Triangle Park", en: "Research Triangle Park" },
+    coords: [-78.8657, 35.9085],
+    description: {
+      de: "Einer der größten forschungsorientierten Industrieparks in den USA, gelegen in North Carolina zwischen Raleigh, Durham und Chapel Hill. Der Standort beherbergt hunderte Technologie- und Biotech-Unternehmen.",
+      hu: "Az USA egyik legnagyobb kutatás-orientált ipari parkja Észak-Karolinában, Raleigh, Durham és Chapel Hill között. A helyszín több száz technológiai és biotechnológiai vállalatnak ad otthont.",
+      ro: "Unul dintre cele mai mari parcuri industriale bazate pe cercetare din SUA, situat în Carolina de Nord, între Raleigh, Durham și Chapel Hill. Locația găzduiește sute de companii de tehnologie și biotehnologie.",
+      en: "One of the largest research-oriented industrial parks in the USA, located in North Carolina between Raleigh, Durham, and Chapel Hill. The site hosts hundreds of technology and biotech companies.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1959.", "Erstreckt sich über 28 Quadratkilometer.", "Zentrum für Life-Science-Innovationen.", "Beschäftigt über 60.000 Mitarbeiter."],
+      hu: ["1959-ben alapították.", "28 négyzetkilométeren terül el.", "Az élettudományi innovációk központja.", "Több mint 60 000 embert foglalkoztat."],
+      ro: ["Fondat în 1959.", "Se întinde pe 28 de kilometri pătrați.", "Centru pentru inovații în științele vieții.", "Angajează peste 60.000 de persoane."],
+      en: ["Established in 1959.", "Spans 28 square kilometers.", "Center for life science innovation.", "Employs over 60,000 workers."],
+    },
+    imageHint: "Research Triangle Park office buildings",
+  },
+  {
+    id: "usa-port-of-los-angeles-economic-v2",
+    type: "port",
+    name: { de: "Hafen von Los Angeles", hu: "Los Angeles-i kikötő", ro: "Portul din Los Angeles", en: "Port of Los Angeles" },
+    coords: [-118.2619, 33.7437],
+    description: {
+      de: "Der verkehrsreichste Containerhafen Nordamerikas, gelegen in der San Pedro Bay in Kalifornien. Er ist ein zentrales Tor für den Warenhandel zwischen Asien und den Vereinigten Staaten.",
+      hu: "Észak-Amerika legforgalmasabb konténerkikötője a kaliforniai San Pedro-öbölben. Központi kapu az ázsiai és amerikai kontinens közötti kereskedelem számára.",
+      ro: "Cel mai aglomerat port de containere din America de Nord, situat în golful San Pedro din California. Este o poartă centrală pentru comerțul de mărfuri dintre Asia și Statele Unite.",
+      en: "The busiest container port in North America, located in San Pedro Bay, California. It is a central gateway for trade between Asia and the United States.",
+    },
+    facts: {
+      de: ["Verarbeitet jährlich Millionen Container.", "Größter Hafen der USA nach Umschlagsvolumen.", "Bedeutender Arbeitgeber in Südkalifornien.", "Über 40 Kilometer Kaifläche."],
+      hu: ["Évente több millió konténert kezel.", "Az USA legnagyobb forgalmú kikötője.", "Dél-Kalifornia jelentős munkáltatója.", "Több mint 40 kilométernyi rakpart."],
+      ro: ["Procesează milioane de containere anual.", "Cel mai mare port din SUA ca volum.", "Angajator major în sudul Californiei.", "Peste 40 de kilometri de chei."],
+      en: ["Handles millions of containers annually.", "Largest port in the US by volume.", "Major employer in Southern California.", "Over 40 kilometers of wharf frontage."],
+    },
+    imageHint: "Port of Los Angeles shipping containers",
+  }
 ];

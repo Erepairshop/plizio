@@ -930,5 +930,25 @@ export const poiExtraSudanLifeV2: POI[] = [
       en: ["A riverside park in Kosti for children.", "Located in the Northeast African state of Sudan.", "The region is shaped by the Nile and the Nubian Desert.", "Climate is mostly hot and dry, with desert and Sahel zones."]
     }
   }
+,
+  {
+    id: "sudan-radom-national-park-life-v2",
+    type: "wildlife",
+    name: { de: "Radom-Nationalpark", hu: "Radom Nemzeti Park", ro: "Parcul Național Radom", en: "Radom National Park" },
+    coords: [24.166667, 9.25],
+    description: {
+      de: "Der Radom-Nationalpark ist ein Biosphärenreservat im Südwesten des Sudans an der Grenze zur Zentralafrikanischen Republik. Er beheimatet diverse Arten der afrikanischen Savanne und Feuchtwaldgebiete.",
+      hu: "A Radom Nemzeti Park egy bioszféra-rezervátum Szudán délnyugati részén, a Közép-afrikai Köztársasággal határos. Az afrikai szavannák és nedves erdők változatos fajainak ad otthont.",
+      ro: "Parcul Național Radom este o rezervație a biosferei situată în sud-vestul Sudanului, la granița cu Republica Centrafricană. Acesta găzduiește specii diverse din savana africană și zonele forestiere umede.",
+      en: "Radom National Park is a biosphere reserve in southwestern Sudan bordering the Central African Republic. It hosts diverse species characteristic of the African savanna and wet woodland areas.",
+    },
+    facts: {
+      de: ["Biosphärenreservat seit 1979", "Größe etwa 12.500 Quadratkilometer", "Lebensraum für Elefanten und Giraffen", "Durchflossen vom Fluss Adda"],
+      hu: ["Bioszféra-rezervátum 1979 óta", "Területe kb. 12 500 négyzetkilométer", "Elefántok és zsiráfok élőhelye", "Az Adda folyó szeli át"],
+      ro: ["Rezervație a biosferei din 1979", "Suprafață de aproximativ 12.500 km pătrați", "Habitat pentru elefanți și girafe", "Traversat de râul Adda"],
+      en: ["Biosphere reserve since 1979", "Area of approximately 12,500 square kilometers", "Habitat for elephants and giraffes", "Traversed by the Adda River"],
+    },
+    imageHint: "savanna landscape in Radom National Park",
+  }
 ];
 

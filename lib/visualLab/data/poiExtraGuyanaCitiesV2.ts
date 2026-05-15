@@ -792,7 +792,20 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Plaisance városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Plaisance este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Plaisance is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }, image: "/poi-images/plaisance-cities-v2.webp"}, {
+    }, image: "/poi-images/plaisance-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Plaisance ist eine Stadt im Südwesten Haitis, nahe der Küste der Nippes-Halbinsel. Sie wurde im 18. Jahrhundert von französischen Siedlern gegründet und war ein Zentrum der Zuckerrohrproduktion. Heute hat die Gemeinde etwa 60.000 Einwohner. Die Wirtschaft basiert auf Landwirtschaft, Fischerei und kleinhandel. Sehenswert ist die Kirche Saint-Joseph aus dem Jahr 1850. Der städtische Markt ist bekannt für lokale Handwerkskunst.",
+      hu: "Plaisance város Haiti délnyugati részén található. A 18. században alapították francia telepesek. Lakossága körülbelül 60 000 fő. A település fontos mezőgazdasági központ, főként kávét és banánt termesztenek. A helyi piac híres kézműves termékeiről. A városban található egy 1850-ben épült katolikus templom.",
+      ro: "Plaisance este un oraș în sud-vestul Haitiului. A fost fondat în secolul al XVIII-lea de coloniști francezi. Populația este de aproximativ 60.000 de locuitori. Economia se bazează pe agricultură (cafea, banane) și pescuit. Biserica Saint-Joseph, construită în 1850, este un reper important. Piața locală oferă produse artizanale.",
+      en: "Plaisance is a town in southwestern Haiti, in the Nippes department. Founded in the 18th century by French colonists, it grew around sugar plantations. Today it has about 60,000 residents. The economy relies on coffee, banana farming, and fishing. Saint-Joseph Church, built in 1850, dominates the town square. Local artisans sell crafts at the market.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 18. Jh.", "Einwohner: 60.000", "Kirche gebaut 1850", "Hauptprodukte: Kaffee, Bananen", "Lage: Nippes-Halbinsel", "Markt mit Kunsthandwerk"],
+      hu: ["Alapítás: 18. század", "Lakosság: 60 000", "Templom épült: 1850", "Fő termények: kávé, banán", "Gazdaság: mezőgazdaság, halászat", "Híres kézműves piac"],
+      ro: ["Fondat sec. XVIII", "Populație: 60.000", "Biserică construită 1850", "Culturi principale: cafea, banane", "Economie: agricultură, pescuit", "Piață artizanală"],
+      en: ["Founded 18th century", "Population: 60,000", "Church built 1850", "Main crops: coffee, bananas", "Location: Nippes", "Craft market"],
+    },
+  }, {
     id: "triumph-cities-v2",
     type: "city",
     parent: "GY-DE",
@@ -884,7 +897,19 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Beterverwagting városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Beterverwagting este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Beterverwagting is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Beterverwagting (niederländisch für 'Bessere Erwartung') ist eine Stadt in Guyana an der Ostküste Demeraras. Sie wurde im 18. Jahrhundert von niederländischen Plantagenbesitzern gegründet. Heute hat sie etwa 10.000 Einwohner. Die Wirtschaft ist von der Landwirtschaft geprägt, vor allem Reis und Zuckerrohr. Der Ort hat eine Grundschule und ein Gesundheitszentrum. Bedeutend ist die Kirche St. Andrew's aus dem 19. Jahrhundert.",
+      hu: "Beterverwagting (jelentése 'jobb várakozás') Guyanában, Demerara keleti partján fekszik. A 18. században holland ültetvényesek alapították. Lakossága körülbelül 10 000 fő. A gazdaság a mezőgazdaságra épül: rizs és cukornád. A városban található egy 19. századi anglikán templom. A helyi piac friss termékeket kínál.",
+      ro: "Beterverwagting („așteptare mai bună”) este un oraș în Guyana, pe coasta de est a Demerarei. Fondat în secolul al XVIII-lea de coloniști olandezi. Populația este de circa 10.000 de locuitori. Economia se bazează pe orez și trestie de zahăr. Biserica Sf. Andrei, construită în 1880, este un punct de reper. Piața locală vinde produse agricole.",
+      en: "Beterverwagting (Dutch for 'Better Expectation') is a town in Guyana on the East Coast of Demerara. Founded in the 18th century by Dutch planters, it currently has about 10,000 inhabitants. The economy is agricultural, focusing on rice and sugarcane. St. Andrew's Anglican Church, built in 1880, is a landmark. The town has a health center and a primary school.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 18. Jh.", "Einwohner: 10.000", "Kirche St. Andrew's 1880", "Hauptprodukte: Reis, Zuckerrohr", "Niederländischer Name: 'Bessere Erwartung'", "Lage: Ostküste Demerara"],
+      hu: ["Alapítás: 18. század", "Lakosság: 10 000", "Templom épült: 1880", "Fő termények: rizs, cukornád", "Holland eredetű név", "Egészségügyi központ"],
+      ro: ["Fondat sec. XVIII", "Populație: 10.000", "Biserică construită 1880", "Culturi: orez, trestie de zahăr", "Nume olandez: 'Așteptare mai bună'", "Școală primară"],
+      en: ["Founded 18th century", "Population: 10,000", "St. Andrew's Church built 1880", "Main crops: rice, sugarcane", "Dutch name meaning 'Better Expectation'", "Located on East Coast Demerara"],
+    },
   }, {
     id: "blairmont-cities-v2",
     type: "city",

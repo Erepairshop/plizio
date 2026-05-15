@@ -25,7 +25,13 @@ image: "/poi-images/ge-tbilisi-cities-v2.webp"
       hu: ["Az 5. században alapította Vahtang Gorgaszali király.", "Híres a történelmi kénes fürdőiről az Abanotubani negyedben."],
       ro: ["Fondat în secolul al V-lea de regele Vakhtang Gorgasali.", "Renumit pentru băile istorice de sulf din Abanotubani."],
       en: ["Founded in the 5th century by King Vakhtang Gorgasali.", "Famous for the historical sulfur baths in Abanotubani."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 1,2 Millionen", "Fläche: 504,2 km²", "Höhe: 380–770 m ü. NN", "Gründungsjahr: 455 n. Chr.", "Anzahl der Bezirke: 10", "Bekannt für: Schwefelbäder"],
+      hu: ["Lakosság: kb. 1,2 millió", "Terület: 504,2 km²", "Tengerszint feletti magasság: 380–770 m", "Alapítás éve: 455 Kr. u.", "Kerületek száma: 10", "Híres: kénfürdőiről"],
+      ro: ["Populație: aprox. 1,2 milioane", "Suprafață: 504,2 km²", "Altitudine: 380–770 m deasupra nivelului mării", "Anul fondării: 455 d.Hr.", "Număr de districte: 10", "Faimos pentru: băile cu sulf"],
+      en: ["Population: approx. 1.2 million", "Area: 504.2 km²", "Elevation: 380–770 m above sea level", "Year founded: 455 AD", "Number of districts: 10", "Famous for: sulfur baths"],
+    },
   },
   {
     id: "ge-batumi-cities-v2",
@@ -51,7 +57,14 @@ image: "/poi-images/ge-batumi-cities-v2.webp"
       hu: ["A Batumi Boulevardo-t 1881-ben hozták létre.", "A batumi botanikus kert a világ egyik legnagyobbja."],
       ro: ["Bulevardul Batumi a fost creat în anul 1881.", "Grădina Botanică din Batumi este una dintre cele mai mari din lume."],
       en: ["The Batumi Boulevard was established in the year 1881.", "The Batumi Botanical Garden is one of the largest in the world."]
-    }, image: "/poi-images/ge-batumi-cities-v2.webp"},
+    }, image: "/poi-images/ge-batumi-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 170.000", "Fläche: 64,9 km²", "Höhe: 0–300 m ü. NN", "Gründungsjahr: 8. Jahrhundert v. Chr.", "Hafen: jährlicher Umschlag 8 Mio. Tonnen", "Durchschnittstemperatur Juli: 24°C"],
+      hu: ["Lakosság: kb. 170.000", "Terület: 64,9 km²", "Tengerszint feletti magasság: 0–300 m", "Alapítás éve: Kr. e. 8. század", "Kikötő: éves forgalom 8 millió tonna", "Júliusi átlaghőmérséklet: 24°C"],
+      ro: ["Populație: aprox. 170.000", "Suprafață: 64,9 km²", "Altitudine: 0–300 m deasupra nivelului mării", "Anul fondării: secolul al VIII-lea î.Hr.", "Port: trafic anual de 8 milioane de tone", "Temperatura medie în iulie: 24°C"],
+      en: ["Population: approx. 170,000", "Area: 64.9 km²", "Elevation: 0–300 m above sea level", "Year founded: 8th century BC", "Port: annual throughput 8 million tons", "Average July temperature: 24°C"],
+    },
+  },
   {
     id: "ge-kutaisi-cities-v2",
     type: "city",
@@ -76,7 +89,14 @@ image: "/poi-images/ge-kutaisi-cities-v2.webp"
       hu: ["Az ősi Kolkhisz királyság fővárosa volt.", "A Bagrati-székesegyházat a 11. században építették."],
       ro: ["A fost capitala vechiului regat Colchis.", "Catedrala Bagrati a fost construită în secolul al XI-lea."],
       en: ["It was the capital of the ancient kingdom of Colchis.", "The Bagrati Cathedral was built in the 11th century."]
-    }, image: "/poi-images/ge-kutaisi-cities-v2.webp"},
+    }, image: "/poi-images/ge-kutaisi-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 150.000", "Fläche: 70,0 km²", "Höhe: 120–300 m ü. NN", "Gründungsjahr: 8. Jahrhundert v. Chr.", "UNESCO-Welterbestätten: 2 (Bagrati und Gelati)", "Entfernung nach Tiflis: 220 km"],
+      hu: ["Lakosság: kb. 150.000", "Terület: 70,0 km²", "Tengerszint feletti magasság: 120–300 m", "Alapítás éve: Kr. e. 8. század", "UNESCO világörökségi helyszínek: 2 (Bagrati és Gelati)", "Távolság Tbiliszitől: 220 km"],
+      ro: ["Populație: aprox. 150.000", "Suprafață: 70,0 km²", "Altitudine: 120–300 m deasupra nivelului mării", "Anul fondării: secolul al VIII-lea î.Hr.", "Situri UNESCO: 2 (Bagrati și Gelati)", "Distanța până la Tbilisi: 220 km"],
+      en: ["Population: approx. 150,000", "Area: 70.0 km²", "Elevation: 120–300 m above sea level", "Year founded: 8th century BC", "UNESCO World Heritage sites: 2 (Bagrati and Gelati)", "Distance from Tbilisi: 220 km"],
+    },
+  },
   {
     id: "ge-rustavi-cities-v2",
     type: "city",
@@ -101,7 +121,14 @@ image: "/poi-images/ge-rustavi-cities-v2.webp"
       hu: ["1948-ban alapították, mint kohászati központot.", "A rusztawi vár a 4. századból származik."],
       ro: ["Fondat în anul 1948 ca un centru pentru metalurgie.", "Castelul Rustavi datează din secolul al IV-lea."],
       en: ["Founded in the year 1948 as a center for metallurgy.", "The Rustavi Castle dates back to the 4th century."]
-    }, image: "/poi-images/ge-rustavi-cities-v2.webp"},
+    }, image: "/poi-images/ge-rustavi-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 130.000", "Fläche: 60,5 km²", "Höhe: 350 m ü. NN", "Gründungsjahr: 1948", "Industriezweige: Stahl, Chemie", "Entfernung nach Tiflis: 25 km"],
+      hu: ["Lakosság: kb. 130.000", "Terület: 60,5 km²", "Tengerszint feletti magasság: 350 m", "Alapítás éve: 1948", "Iparágak: acél, vegyipar", "Távolság Tbiliszitől: 25 km"],
+      ro: ["Populație: aprox. 130.000", "Suprafață: 60,5 km²", "Altitudine: 350 m deasupra nivelului mării", "Anul fondării: 1948", "Ramuri industriale: oțel, chimie", "Distanța până la Tbilisi: 25 km"],
+      en: ["Population: approx. 130,000", "Area: 60.5 km²", "Elevation: 350 m above sea level", "Year founded: 1948", "Industries: steel, chemicals", "Distance from Tbilisi: 25 km"],
+    },
+  },
   {
     id: "ge-gori-cities-v2",
     type: "city",
@@ -126,7 +153,13 @@ image: "/poi-images/ge-gori-cities-v2.webp"
       hu: ["A Sztálin-múzeum évente sok látogatót vonz.", "A város fölött magasodik a történelmi Gorisziche erőd."],
       ro: ["Muzeul Stalin atrage anual mulți vizitatori.", "Deasupra orașului se înalță fortăreața istorică Goristsikhe."],
       en: ["The Stalin Museum attracts many visitors annually.", "The historical fortress Goristsikhe towers over the city."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 50.000", "Fläche: 20,0 km²", "Höhe: 600 m ü. NN", "Gründungsjahr: 7. Jahrhundert (Festung)", "Stalin-Museum: eröffnet 1957", "Entfernung nach Tiflis: 80 km"],
+      hu: ["Lakosság: kb. 50.000", "Terület: 20,0 km²", "Tengerszint feletti magasság: 600 m", "Alapítás éve: 7. század (erőd)", "Sztálin Múzeum: megnyílt 1957-ben", "Távolság Tbiliszitől: 80 km"],
+      ro: ["Populație: aprox. 50.000", "Suprafață: 20,0 km²", "Altitudine: 600 m deasupra nivelului mării", "Anul fondării: secolul al VII-lea (cetate)", "Muzeul Stalin: deschis în 1957", "Distanța până la Tbilisi: 80 km"],
+      en: ["Population: approx. 50,000", "Area: 20.0 km²", "Elevation: 600 m above sea level", "Year founded: 7th century (fortress)", "Stalin Museum: opened in 1957", "Distance from Tbilisi: 80 km"],
+    },
   },
   {
     id: "ge-zugdidi-cities-v2",
@@ -152,7 +185,13 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp"
       hu: ["A Dadiani-palota egy fontos történelmi múzeumnak ad otthont.", "Zugdidi mindössze néhány kilométerre fekszik Abháziától."],
       ro: ["Palatul Dadiani găzduiește un important muzeu istoric.", "Zugdidi se află la doar câțiva kilometri de Abhazia."],
       en: ["The Dadiani Palace houses an important historical museum.", "Zugdidi is located just a few kilometers from Abkhazia."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Zugdidi liegt auf einer Höhe von 110 m über dem Meeresspiegel.", "Die Dadiani-Palast wurde 1879 erbaut.", "Die Stadt hat eine Fläche von 21,0 km².", "Die Bevölkerungszahl beträgt 41.264 (2023).", "Zugdidi ist 30 km vom Schwarzen Meer entfernt.", "Die Stadt war Hauptstadt des Fürstentums Mingrelien bis 1867."],
+      hu: ["Zugdidi 110 méterrel fekszik a tengerszint felett.", "A Dadiani-palota 1879-ben épült.", "A város területe 21,0 km².", "Lakossága 2023-ban 41.264 fő volt.", "Zugdidi 30 km-re található a Fekete-tengertől.", "A Mingrél Királyság fővárosa volt 1867-ig."],
+      ro: ["Zugdidi este situat la 110 m deasupra nivelului mării.", "Palatul Dadiani a fost construit în 1879.", "Orașul are o suprafață de 21,0 km².", "Populația este de 41.264 locuitori (2023).", "Zugdidi se află la 30 km de Marea Neagră.", "A fost capitala Principatului Mingrelia până în 1867."],
+      en: ["Zugdidi is situated at an elevation of 110 m above sea level.", "The Dadiani Palace was built in 1879.", "The city covers an area of 21.0 km².", "Population: 41,264 (2023 estimate).", "Zugdidi is located 30 km from the Black Sea coast.", "It served as the capital of the Principality of Mingrelia until 1867."],
+    },
   },
   {
     id: "ge-poti-cities-v2",
@@ -178,7 +217,14 @@ image: "/poi-images/ge-poti-cities-v2.webp"
       hu: ["Itt található az ország legnagyobb tengeri kikötője.", "A poti székesegyház a Hagia Szophia másolata."],
       ro: ["Are cel mai mare port maritim din țară.", "Catedrala din Poti este o replică a Hagia Sofia."],
       en: ["It features the largest seaport in the country.", "The Poti Cathedral is a replica of the Hagia Sophia."]
-    }, image: "/poi-images/ge-poti-cities-v2.webp"},
+    }, image: "/poi-images/ge-poti-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Poti wurde im 7. Jahrhundert v. Chr. als Phasis gegründet.", "Der Hafen von Poti hat eine Wassertiefe von 12,5 m.", "Die Stadt hat eine Fläche von 65,8 km².", "Die Bevölkerungszahl beträgt 41.465 (2023).", "Poti liegt an der Mündung des Flusses Rioni.", "Der Hafenumschlag betrug 2021 rund 7,5 Millionen Tonnen."],
+      hu: ["Poti az i.e. 7. században alapították Phaszis néven.", "A poti kikötő vízmélysége 12,5 méter.", "A város területe 65,8 km².", "Lakossága 2023-ban 41.465 fő.", "Poti a Rioni folyó torkolatánál fekszik.", "A kikötő forgalma 2021-ben kb. 7,5 millió tonna volt."],
+      ro: ["Poti a fost fondat în secolul al VII-lea î.Hr. ca Phasis.", "Portul Poti are o adâncime de 12,5 m.", "Orașul are o suprafață de 65,8 km².", "Populația este de 41.465 locuitori (2023).", "Poti este situat la vărsarea râului Rioni.", "Traficul portuar în 2021 a fost de aproximativ 7,5 milioane de tone."],
+      en: ["Poti was founded in the 7th century BCE as Phasis.", "The Port of Poti has a water depth of 12.5 m.", "The city covers an area of 65.8 km².", "Population: 41,465 (2023 estimate).", "Poti is located at the mouth of the Rioni River.", "Port cargo turnover reached approximately 7.5 million tonnes in 2021."],
+    },
+  },
   {
     id: "ge-sokhumi-cities-v2",
     type: "city",
@@ -203,7 +249,13 @@ image: "/poi-images/ge-sokhumi-cities-v2.webp"
       hu: ["A szuhumi botanikus kertet 1840-ben alapították.", "Sok történelmi gyógyszálló ma már üresen áll."],
       ro: ["Grădina Botanică din Suhumi a fost fondată în 1840.", "Multe dintre hotelurile istorice balneare sunt acum goale."],
       en: ["The Sokhumi Botanical Garden was founded in 1840.", "Many of the historical spa hotels stand empty today."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Sokhumi wurde im 6. Jahrhundert v. Chr. als Dioskurias gegründet.", "Die Stadtfläche beträgt etwa 27 km².", "Der Botanische Garten von Sukhumi wurde 1840 gegründet.", "Die Bevölkerungszahl wird auf 65.000 (2021) geschätzt.", "Sokhumi liegt an der Bucht von Sukhumi.", "Der Hafen von Sokhumi hat eine Kailänge von 1.200 m."],
+      hu: ["Szuhumit az i.e. 6. században alapították Dioszkuriász néven.", "A város területe kb. 27 km².", "A Szuhumiai Botanikus Kertet 1840-ben alapították.", "A lakosság becsült száma 65.000 (2021).", "Szuhumi a Szuhumi-öböl partján fekszik.", "A szuhumi kikötő rakpartjának hossza 1.200 m."],
+      ro: ["Sokhumi a fost fondat în secolul al VI-lea î.Hr. ca Dioscurias.", "Orașul are o suprafață de aproximativ 27 km².", "Grădina Botanică Sukhumi a fost fondată în 1840.", "Populația este estimată la 65.000 (2021).", "Sokhumi este situat pe Golful Sukhumi.", "Portul Sokhumi are un chei cu lungimea de 1.200 m."],
+      en: ["Sokhumi was founded in the 6th century BCE as Dioscurias.", "The city covers an area of approximately 27 km².", "The Sukhumi Botanical Garden was established in 1840.", "Population estimated at 65,000 (2021).", "Sokhumi is situated on Sukhumi Bay.", "The port of Sokhumi has a quay length of 1,200 m."],
+    },
   },
   {
     id: "ge-khashuri-cities-v2",
@@ -229,7 +281,13 @@ image: "/poi-images/ge-khashuri-cities-v2.webp"
       hu: ["Jelentősége 1872-ben nőtt meg a vasútépítés révén.", "A történelmi Szurami vár a város közelében található."],
       ro: ["A devenit important în 1872, odată cu construcția căii ferate.", "Castelul istoric Surami este situat în apropierea orașului."],
       en: ["Became significant in 1872 with the construction of the railway.", "The historical Surami Castle is located near the city."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Khashuri liegt auf einer Höhe von 690 m über dem Meeresspiegel.", "Der Bahnhof Khashuri wurde 1872 eröffnet.", "Die Stadt hat eine Fläche von 18,5 km².", "Die Bevölkerungszahl beträgt 26.035 (2023).", "Die Kirche der Jungfrau Maria stammt aus dem 10. Jahrhundert.", "Khashuri ist 150 km von Tiflis entfernt."],
+      hu: ["Hásuri 690 méterrel van a tengerszint felett.", "A hásuri vasútállomást 1872-ben nyitották meg.", "A város területe 18,5 km².", "Lakossága 2023-ban 26.035 fő.", "A Szűz Mária-templom a 10. századból származik.", "Hásuri 150 km-re van Tbiliszitől."],
+      ro: ["Khashuri este situat la 690 m deasupra nivelului mării.", "Gara Khashuri a fost deschisă în 1872.", "Orașul are o suprafață de 18,5 km².", "Populația este de 26.035 locuitori (2023).", "Biserica Fecioara Maria datează din secolul al X-lea.", "Khashuri se află la 150 km de Tbilisi."],
+      en: ["Khashuri is situated at an elevation of 690 m above sea level.", "Khashuri railway station opened in 1872.", "The town covers an area of 18.5 km².", "Population: 26,035 (2023 estimate).", "The Church of the Virgin Mary dates from the 10th century.", "Khashuri is located 150 km west of Tbilisi."],
+    },
   },
   {
     id: "ge-samtredia-cities-v2",
@@ -255,7 +313,13 @@ image: "/poi-images/ge-samtredia-cities-v2.webp"
       hu: ["1921-ben kapott hivatalosan városi rangot.", "A Rioni folyó a városközpont közelében folyik."],
       ro: ["A primit oficial statutul de oraș în anul 1921.", "Râul Rioni curge nu departe de centrul orașului."],
       en: ["Officially received city rights in the year 1921.", "The Rioni River flows not far from the city center."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Samtredia liegt auf einer Höhe von 50 m über dem Meeresspiegel.", "Der Eisenbahnknoten Samtredia wurde 1870 eröffnet.", "Stadtfläche: 12,2 km².", "Bevölkerungszahl: 21.101 (2023).", "Samtredia ist 20 km von Kutaissi entfernt.", "Die Erlöserkirche wurde 1850 erbaut."],
+      hu: ["Szamedria 50 méterrel van a tengerszint felett.", "A szamedriai vasúti csomópont 1870-ben nyílt meg.", "A város területe 12,2 km².", "Lakossága 2023-ban 21.101 fő.", "Szamedria 20 km-re van Kutaiszitől.", "A Megváltó templom 1850-ben épült."],
+      ro: ["Samtredia este situat la 50 m deasupra nivelului mării.", "Nodul feroviar Samtredia a fost deschis în 1870.", "Orașul are o suprafață de 12,2 km².", "Populația este de 21.101 locuitori (2023).", "Samtredia se află la 20 km de Kutaisi.", "Biserica Mântuitorului a fost construită în 1850."],
+      en: ["Samtredia is situated at 50 m above sea level.", "The Samtredia railway junction opened in 1870.", "Town area: 12.2 km².", "Population: 21,101 (2023 estimate).", "Samtredia is located 20 km from Kutaisi.", "The Savior Church was built in 1850."],
+    },
   },
   {
     id: "ge-senaki-cities-v2",
@@ -281,7 +345,13 @@ image: "/poi-images/ge-senaki-cities-v2.webp"
       hu: ["1933 és 1989 között a várost Miha Chakajának hívták.", "A szenaki színház neoklasszikus stílusban épült."],
       ro: ["Între 1933 și 1989, orașul s-a numit Mikha Tskhakaya.", "Teatrul Senaki a fost construit în stil neoclasic."],
       en: ["Between 1933 and 1989, the city was named Mikha Tskhakaya.", "The Senaki Theater was built in a neoclassical style."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Senaki liegt auf einer Höhe von 28 m über dem Meeresspiegel.", "Die Stadtfläche beträgt 15,3 km².", "Die Bevölkerungszahl beträgt 18.205 (2023).", "Die Niko-Nikoladse-Brücke wurde 1885 erbaut.", "Senaki ist 20 km von Zugdidi entfernt.", "Der örtliche Markt existiert seit dem 19. Jahrhundert."],
+      hu: ["Senaki 28 méterrel fekszik a tengerszint felett.", "A város területe 15,3 km².", "Lakossága 2023-ban 18.205 fő.", "A Niko-Nikoladze hidat 1885-ben építették.", "Senaki 20 km-re van Zugdiditől.", "A helyi piac a 19. század óta létezik."],
+      ro: ["Senaki este situat la 28 m deasupra nivelului mării.", "Orașul are o suprafață de 15,3 km².", "Populația este de 18.205 locuitori (2023).", "Podul Niko Nikoladze a fost construit în 1885.", "Senaki se află la 20 km de Zugdidi.", "Piața locală există din secolul al XIX-lea."],
+      en: ["Senaki is situated at an elevation of 28 m above sea level.", "The town covers an area of 15.3 km².", "Population: 18,205 (2023 estimate).", "The Niko Nikoladze Bridge was built in 1885.", "Senaki is located 20 km from Zugdidi.", "The local market has operated since the 19th century."],
+    },
   },
   {
     id: "ge-zestafoni-cities-v2",
@@ -307,7 +377,13 @@ image: "/poi-images/ge-zestafoni-cities-v2.webp"
       hu: ["Az itteni vasötvözet-üzem a legnagyobb az országban.", "Zesztafoni kiváló szőlőtermesztő vidékeiről is ismert."],
       ro: ["Uzina locală de feroaliaje este cea mai mare din țară.", "Zestafoni este cunoscut și pentru regiunile sale viticole excelente."],
       en: ["The local ferroalloy plant is the largest in the country.", "Zestafoni is also known for its excellent wine-growing regions."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Zestafoni liegt 160 m über dem Meeresspiegel.", "Das Ferrolegierungswerk wurde 1933 in Betrieb genommen.", "Stadtfläche: 23,8 km².", "Bevölkerungszahl: 25.142 (2023).", "Zestafoni ist 30 km von Kutaissi entfernt.", "Die Kvirila ist 140 km lang."],
+      hu: ["Zesztaponi 160 méterrel van a tengerszint felett.", "A ferroötvözet üzemet 1933-ban helyezték üzembe.", "A város területe 23,8 km².", "Lakossága 2023-ban 25.142 fő.", "Zesztaponi 30 km-re van Kutaiszitől.", "A Kvirila folyó hossza 140 km."],
+      ro: ["Zestafoni este situat la 160 m deasupra nivelului mării.", "Uzina de feroaliaje a fost pusă în funcțiune în 1933.", "Orașul are o suprafață de 23,8 km².", "Populația este de 25.142 locuitori (2023).", "Zestafoni se află la 30 km de Kutaisi.", "Râul Kvirila are o lungime de 140 km."],
+      en: ["Zestafoni is situated 160 m above sea level.", "The ferroalloy plant was commissioned in 1933.", "Town area: 23.8 km².", "Population: 25,142 (2023 estimate).", "Zestafoni is 30 km from Kutaisi.", "The Kvirila River is 140 km long."],
+    },
   },
   {
     id: "ge-marneuli-cities-v2",
@@ -333,7 +409,13 @@ image: "/poi-images/ge-marneuli-cities-v2.webp"
       hu: ["A város a mezőgazdasági kereskedelem egyik központja.", "Marneuliban minden évben nagy ünnepséget tartanak Novruzkor."],
       ro: ["Orașul este un centru al comerțului agricol.", "În Marneuli se sărbătorește an de an cu fast festivalul Novruz."],
       en: ["The city is a center of agricultural trade.", "The Novruz festival is celebrated prominently in Marneuli every year."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Marneuli liegt auf einer Höhe von 420 m über dem Meeresspiegel.", "Stadtfläche: 26,2 km².", "Bevölkerungszahl: 22.073 (2023).", "Marneuli wurde 1964 zur Stadt erklärt.", "Der Bahnhof Marneuli wurde 1914 eröffnet.", "Die Algeti ist 108 km lang."],
+      hu: ["Marneuli 420 méterrel van a tengerszint felett.", "A város területe 26,2 km².", "Lakossága 2023-ban 22.073 fő.", "Marneuli 1964-ben kapott városi rangot.", "A marneuli vasútállomást 1914-ben nyitották meg.", "Az Algeti folyó hossza 108 km."],
+      ro: ["Marneuli este situat la 420 m deasupra nivelului mării.", "Orașul are o suprafață de 26,2 km².", "Populația este de 22.073 locuitori (2023).", "Marneuli a primit statutul de oraș în 1964.", "Gara Marneuli a fost deschisă în 1914.", "Râul Algeti are o lungime de 108 km."],
+      en: ["Marneuli is situated at 420 m above sea level.", "Town area: 26.2 km².", "Population: 22,073 (2023 estimate).", "Marneuli was granted city status in 1964.", "Marneuli railway station opened in 1914.", "The Algeti River is 108 km long."],
+    },
   },
   {
     id: "ge-telavi-cities-v2",
@@ -359,7 +441,14 @@ image: "/poi-images/ge-telavi-cities-v2.webp"
       hu: ["A Batoniszi Cihé erőd a kaheti királyok rezidenciája volt.", "Egy 900 éves platánfa áll Telavi központjában."],
       ro: ["Fortăreața Batonis Tsikhe a fost reședința regilor din Kakheti.", "Un platan vechi de 900 de ani se află în centrul orașului Telavi."],
       en: ["The Batonis Tsikhe fortress was the residence of Kakhetian kings.", "A 900-year-old plane tree stands in the center of Telavi."]
-    }, image: "/poi-images/ge-telavi-cities-v2.webp"},
+    }, image: "/poi-images/ge-telavi-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Telavi liegt 500 m über dem Meeresspiegel.", "Die Festung Batonis-Ziche wurde im 17. Jahrhundert erbaut.", "Stadtfläche: 29,0 km².", "Bevölkerungszahl: 20.174 (2023).", "Die Platane auf dem zentralen Platz ist über 500 Jahre alt.", "Telavi ist 160 km von Tiflis entfernt."],
+      hu: ["Telavi 500 méterrel van a tengerszint felett.", "A Batoni-Cihe erőd a 17. században épült.", "A város területe 29,0 km².", "Lakossága 2023-ban 20.174 fő.", "A központi tér platánfája több mint 500 éves.", "Telavi 160 km-re van Tbiliszitől."],
+      ro: ["Telavi este situat la 500 m deasupra nivelului mării.", "Cetatea Batonis Tsikhe a fost construită în secolul al XVII-lea.", "Orașul are o suprafață de 29,0 km².", "Populația este de 20.174 locuitori (2023).", "Platanul din piața centrală are peste 500 de ani.", "Telavi se află la 160 km de Tbilisi."],
+      en: ["Telavi is situated at 500 m above sea level.", "Batonis Tsikhe fortress was built in the 17th century.", "City area: 29.0 km².", "Population: 20,174 (2023 estimate).", "The plane tree in the central square is over 500 years old.", "Telavi is 160 km from Tbilisi."],
+    },
+  },
   {
     id: "ge-akhaltsikhe-cities-v2",
     type: "city",
@@ -384,7 +473,13 @@ image: "/poi-images/ge-akhaltsikhe-cities-v2.webp"
       hu: ["A felújított Rabati-erőd egy hatalmas történelmi komplexum.", "A város több mint 200 évig oszmán uralom alatt állt."],
       ro: ["Fortăreața restaurată Rabati este un complex istoric uriaș.", "Orașul a fost sub dominație otomană timp de peste 200 de ani."],
       en: ["The restored Rabati Castle is a massive historical complex.", "The city was under Ottoman rule for over 200 years."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Akhaltsikhe liegt auf einer Höhe von 1150 m über dem Meeresspiegel.", "Die Festung Rabati wurde im 9. Jahrhundert gegründet.", "Stadtfläche: 18,4 km².", "Bevölkerungszahl: 18.230 (2023).", "Die Restaurierung von Rabati wurde 2011 abgeschlossen.", "Akhaltsikhe ist 210 km von Tiflis entfernt."],
+      hu: ["Ahálcihe 1150 méterrel van a tengerszint felett.", "A Rabati erődöt a 9. században alapították.", "A város területe 18,4 km².", "Lakossága 2023-ban 18.230 fő.", "Rabati felújítását 2011-ben fejezték be.", "Ahálcihe 210 km-re van Tbiliszitől."],
+      ro: ["Akhaltsikhe este situat la 1150 m deasupra nivelului mării.", "Cetatea Rabati a fost fondată în secolul al IX-lea.", "Orașul are o suprafață de 18,4 km².", "Populația este de 18.230 locuitori (2023).", "Restaurarea Rabati a fost finalizată în 2011.", "Akhaltsikhe se află la 210 km de Tbilisi."],
+      en: ["Akhaltsikhe is situated at 1150 m above sea level.", "Rabati Fortress was founded in the 9th century.", "City area: 18.4 km².", "Population: 18,230 (2023 estimate).", "The restoration of Rabati was completed in 2011.", "Akhaltsikhe is 210 km from Tbilisi."],
+    },
   },
   {
     id: "ge-kobuleti-cities-v2",
@@ -410,7 +505,13 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp"
       hu: ["A parti sétány a Kaukázus egyik leghosszabbja.", "A szovjet időkben Kobuleti neves gyógyüdülőhely volt."],
       ro: ["Promenada de coastă este una dintre cele mai lungi din Caucaz.", "În perioada sovietică, Kobuleti era o renumită stațiune balneară."],
       en: ["The coastal promenade is one of the longest in the Caucasus.", "During the Soviet era, Kobuleti was a renowned spa resort."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Kobuleti liegt auf einer Höhe von 2 m über dem Meeresspiegel.", "Der Strand von Kobuleti erstreckt sich über 8 km.", "Stadtfläche: 18,6 km².", "Bevölkerungszahl: 18.412 (2023).", "Kobuleti wurde 1944 zur Stadt erklärt.", "Die Wassertemperatur im Sommer erreicht 26 °C."],
+      hu: ["Kobuleti 2 méterrel van a tengerszint felett.", "A kobuleti strand 8 km hosszú.", "A város területe 18,6 km².", "Lakossága 2023-ban 18.412 fő.", "Kobuleti 1944-ben kapott városi rangot.", "Nyáron a víz hőmérséklete eléri a 26 °C-ot."],
+      ro: ["Kobuleti este situat la 2 m deasupra nivelului mării.", "Plaja Kobuleti se întinde pe 8 km.", "Orașul are o suprafață de 18,6 km².", "Populația este de 18.412 locuitori (2023).", "Kobuleti a primit statutul de oraș în 1944.", "Temperatura apei vara atinge 26 °C."],
+      en: ["Kobuleti is situated at 2 m above sea level.", "The Kobuleti beach stretches for 8 km.", "Town area: 18.6 km².", "Population: 18,412 (2023 estimate).", "Kobuleti was granted city status in 1944.", "Summer water temperature reaches 26 °C."],
+    },
   },
   {
     id: "ge-ozurgeti-cities-v2",
@@ -462,7 +563,13 @@ image: "/poi-images/ge-tskhaltubo-cities-v2.webp"
       hu: ["Maga Sztálin is rendszeresen látogatta Chaltubo fürdőit.", "Számos szanatóriumot ma fokozatosan újítanak fel."],
       ro: ["Stalin însuși vizita regulat băile din Tskhaltubo.", "Multe sanatorii sunt restaurate treptat astăzi."],
       en: ["Stalin himself regularly visited the baths in Tskhaltubo.", "Many sanatoriums are gradually being restored today."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Tskhaltubo liegt 120 m über dem Meeresspiegel.", "Die Wassertemperatur der Quellen beträgt 33–35 °C.", "Stadtfläche: 12,5 km².", "Bevölkerungszahl: 8.107 (2023).", "Die Radonkonzentration in den Quellen beträgt bis zu 300 Bq/L.", "Tskhaltubo ist 25 km von Kutaissi entfernt."],
+      hu: ["Ckaltubo 120 méterrel van a tengerszint felett.", "A források vízhőmérséklete 33–35 °C.", "A város területe 12,5 km².", "Lakossága 2023-ban 8.107 fő.", "A radonkoncentráció a forrásokban eléri a 300 Bq/L-t.", "Ckaltubo 25 km-re van Kutaiszitől."],
+      ro: ["Tskhaltubo este situat la 120 m deasupra nivelului mării.", "Temperatura apei izvoarelor este de 33–35 °C.", "Orașul are o suprafață de 12,5 km².", "Populația este de 8.107 locuitori (2023).", "Concentrația de radon în izvoare ajunge la 300 Bq/L.", "Tskhaltubo se află la 25 km de Kutaisi."],
+      en: ["Tskhaltubo is situated at 120 m above sea level.", "The spring water temperature is 33–35 °C.", "Town area: 12.5 km².", "Population: 8,107 (2023 estimate).", "Radon concentration in the springs is up to 300 Bq/L.", "Tskhaltubo is located 25 km from Kutaisi."],
+    },
   },
   {
     id: "ge-kaspi-cities-v2",
@@ -488,7 +595,13 @@ image: "/poi-images/ge-kaspi-cities-v2.webp"
       hu: ["A kaszpi cementgyár Grúzia egyik legnagyobbja.", "Kaszpi közelében található Uplisziche ősi barlangvárosa."],
       ro: ["Fabrica de ciment din Kaspi este una dintre cele mai mari din Georgia.", "În apropiere de Kaspi se află vechiul oraș rupestru Uplistsikhe."],
       en: ["The cement plant in Kaspi is one of the largest in Georgia.", "The ancient cave city of Uplistsikhe is located near Kaspi."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Kaspi liegt 280 m über dem Meeresspiegel.", "Das Zementwerk Kaspi wurde 1958 in Betrieb genommen.", "Stadtfläche: 19,3 km².", "Bevölkerungszahl: 14.243 (2023).", "Kaspi ist 50 km von Tiflis entfernt.", "Die Festung Kaspi stammt aus dem 13. Jahrhundert."],
+      hu: ["Kaszpi 280 méterrel van a tengerszint felett.", "A Kaszpi Cementművet 1958-ban helyezték üzembe.", "A város területe 19,3 km².", "Lakossága 2023-ban 14.243 fő.", "Kaszpi 50 km-re van Tbiliszitől.", "A Kaszpi erőd a 13. századból származik."],
+      ro: ["Kaspi este situat la 280 m deasupra nivelului mării.", "Fabrica de ciment Kaspi a fost pusă în funcțiune în 1958.", "Orașul are o suprafață de 19,3 km².", "Populația este de 14.243 locuitori (2023).", "Kaspi se află la 50 km de Tbilisi.", "Cetatea Kaspi datează din secolul al XIII-lea."],
+      en: ["Kaspi is situated at 280 m above sea level.", "The Kaspi Cement Plant was commissioned in 1958.", "Town area: 19.3 km².", "Population: 14,243 (2023 estimate).", "Kaspi is located 50 km from Tbilisi.", "Kaspi Fortress dates from the 13th century."],
+    },
   },
   {
     id: "ge-tkibuli-cities-v2",
@@ -514,7 +627,13 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp"
       hu: ["A szénbányászat a 19. század közepén kezdődött itt.", "A központ építészete erősen a szovjet időkre emlékeztet."],
       ro: ["Extracția cărbunelui a început aici la mijlocul secolului al XIX-lea.", "Arhitectura din centru amintește puternic de perioada sovietică."],
       en: ["Coal mining began here in the mid-19th century.", "The architecture in the center strongly resembles the Soviet era."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Tkibuli liegt 590 m über dem Meeresspiegel.", "Der Kohlebergbau begann hier 1846.", "Stadtfläche: 16,8 km².", "Bevölkerungszahl: 10.238 (2023).", "Die jährliche Kohleförderung beträgt etwa 100.000 Tonnen.", "Tkibuli ist 40 km von Kutaissi entfernt."],
+      hu: ["Tkibuli 590 méterrel van a tengerszint felett.", "A szénbányászat 1846-ban kezdődött itt.", "A város területe 16,8 km².", "Lakossága 2023-ban 10.238 fő.", "Az éves széntermelés kb. 100.000 tonna.", "Tkibuli 40 km-re van Kutaiszitől."],
+      ro: ["Tkibuli este situat la 590 m deasupra nivelului mării.", "Exploatarea cărbunelui a început aici în 1846.", "Orașul are o suprafață de 16,8 km².", "Populația este de 10.238 locuitori (2023).", "Producția anuală de cărbune este de aproximativ 100.000 de tone.", "Tkibuli se află la 40 km de Kutaisi."],
+      en: ["Tkibuli is situated at 590 m above sea level.", "Coal mining began here in 1846.", "Town area: 16.8 km².", "Population: 10,238 (2023 estimate).", "Annual coal output is about 100,000 tonnes.", "Tkibuli is located 40 km from Kutaisi."],
+    },
   },
   {
     id: "ge-chiatura-cities-v2",
@@ -540,7 +659,13 @@ image: "/poi-images/ge-chiatura-cities-v2.webp"
       hu: ["A mangánipar központjaként alapították.", "A történelmi felvonók egy részét nemrégiben modernizálták."],
       ro: ["A fost fondat ca centru al industriei manganului.", "Unele dintre telecabinele istorice au fost modernizate recent."],
       en: ["It was founded as a center for the manganese industry.", "Some of the historical cable cars were recently modernized."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Chiatura liegt 450 m über dem Meeresspiegel.", "Der Manganbergbau begann hier 1920.", "Das Seilbahnnetz wurde in den 1950er Jahren erbaut.", "Stadtfläche: 21,5 km².", "Bevölkerungszahl: 14.194 (2023).", "Die Manganreserven werden auf 200 Millionen Tonnen geschätzt."],
+      hu: ["Csiatura 450 méterrel van a tengerszint felett.", "A mangánbányászat 1920-ban kezdődött itt.", "A drótkötélpálya-hálózatot az 1950-es években építették.", "A város területe 21,5 km².", "Lakossága 2023-ban 14.194 fő.", "A mangánkészleteket 200 millió tonnára becsülik."],
+      ro: ["Chiatura este situat la 450 m deasupra nivelului mării.", "Mineritul de mangan a început aici în 1920.", "Rețeaua de telecabine a fost construită în anii 1950.", "Orașul are o suprafață de 21,5 km².", "Populația este de 14.194 locuitori (2023).", "Rezervele de mangan sunt estimate la 200 de milioane de tone."],
+      en: ["Chiatura is situated at 450 m above sea level.", "Manganese mining began here in 1920.", "The cable car network was built in the 1950s.", "Town area: 21.5 km².", "Population: 14,194 (2023 estimate).", "Manganese reserves are estimated at 200 million tonnes."],
+    },
   },
   {
     id: "ge-sagarejo-cities-v2",
@@ -566,7 +691,13 @@ image: "/poi-images/ge-sagarejo-cities-v2.webp"
       hu: ["A David Garedzsa kolostor a várostól délre található.", "A szőlőtermesztés a helyi lakosság fő bevételi forrása."],
       ro: ["Mănăstirea David Gareja se află la sud de oraș.", "Viticultura este principala sursă de venit a populației locale."],
       en: ["The David Gareja monastery is located south of the city.", "Viticulture is the main source of income for the local population."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Sagarejo liegt 350 m über dem Meeresspiegel.", "Das Kloster Bodbe wurde im 9. Jahrhundert gegründet.", "Stadtfläche: 20,1 km².", "Bevölkerungszahl: 11.078 (2023).", "Sagarejo ist 60 km von Tiflis entfernt.", "Die Festung Ujarma stammt aus dem 4. Jahrhundert."],
+      hu: ["Szagaredzso 350 méterrel van a tengerszint felett.", "A Bodbe-kolostort a 9. században alapították.", "A város területe 20,1 km².", "Lakossága 2023-ban 11.078 fő.", "Szagaredzso 60 km-re van Tbiliszitől.", "Az Udzsarma-erőd a 4. századból származik."],
+      ro: ["Sagarejo este situat la 350 m deasupra nivelului mării.", "Mănăstirea Bodbe a fost fondată în secolul al IX-lea.", "Orașul are o suprafață de 20,1 km².", "Populația este de 11.078 locuitori (2023).", "Sagarejo se află la 60 km de Tbilisi.", "Cetatea Ujarma datează din secolul al IV-lea."],
+      en: ["Sagarejo is situated at 350 m above sea level.", "Bodbe Monastery was founded in the 9th century.", "Town area: 20.1 km².", "Population: 11,078 (2023 estimate).", "Sagarejo is located 60 km from Tbilisi.", "Ujarma Fortress dates from the 4th century."],
+    },
   },
   {
     id: "ge-gardabani-cities-v2",
@@ -592,7 +723,14 @@ image: "/poi-images/ge-gardabani-cities-v2.webp"
       hu: ["A gardabani erőmű Grúzia nagy részét látja el árammal.", "A környéken történelmi barlangtelepülések találhatók."],
       ro: ["Centrala de la Gardabani furnizează energie pentru o mare parte din Georgia.", "Există așezări rupestre istorice în zonă."],
       en: ["The Gardabani power plant supplies electricity to large parts of Georgia.", "There are historical cave settlements in the area."]
-    }, image: "/poi-images/ge-gardabani-cities-v2.webp"},
+    }, image: "/poi-images/ge-gardabani-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gardabani liegt 450 m über dem Meeresspiegel.", "Das Gaskraftwerk Gardabani hat eine Leistung von 900 MW.", "Stadtfläche: 25,4 km².", "Bevölkerungszahl: 12.047 (2023).", "Gardabani ist 30 km von Tiflis entfernt.", "Die Kirche des Heiligen Nikolaus wurde 1880 erbaut."],
+      hu: ["Gardabani 450 méterrel van a tengerszint felett.", "A Gardabani Gázerőmű teljesítménye 900 MW.", "A város területe 25,4 km².", "Lakossága 2023-ban 12.047 fő.", "Gardabani 30 km-re van Tbiliszitől.", "A Szent Miklós-templom 1880-ban épült."],
+      ro: ["Gardabani este situat la 450 m deasupra nivelului mării.", "Centrala electrică pe gaz Gardabani are o capacitate de 900 MW.", "Orașul are o suprafață de 25,4 km².", "Populația este de 12.047 locuitori (2023).", "Gardabani se află la 30 km de Tbilisi.", "Biserica Sfântul Nicolae a fost construită în 1880."],
+      en: ["Gardabani is situated at 450 m above sea level.", "The Gardabani Gas Power Plant has a capacity of 900 MW.", "Town area: 25.4 km².", "Population: 12,047 (2023 estimate).", "Gardabani is located 30 km from Tbilisi.", "The Church of St. Nicholas was built in 1880."],
+    },
+  },
   {
     id: "ge-borjomi-cities-v2",
     type: "city",
@@ -617,7 +755,14 @@ image: "/poi-images/ge-borjomi-cities-v2.webp"
       hu: ["A borzsomi vizet több mint 40 országba exportálják.", "A Romanov cári dinasztia szívesen töltötte itt a nyarait."],
       ro: ["Apa din Borjomi este exportată în peste 40 de țări.", "Dinastia țaristă Romanov adora să își petreacă verile aici."],
       en: ["Borjomi water is exported to over 40 countries.", "The Romanov tsarist dynasty loved spending their summers here."]
-    }, image: "/poi-images/ge-borjomi-cities-v2.webp"},
+    }, image: "/poi-images/ge-borjomi-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Borjomi liegt 810 m über dem Meeresspiegel.", "Die Mineralwasserquelle hat eine Temperatur von 15 °C.", "Stadtfläche: 16,2 km².", "Bevölkerungszahl: 12.125 (2023).", "Der Borjomi-Charagauli-Nationalpark wurde 1995 gegründet.", "Borjomi ist 160 km von Tiflis entfernt."],
+      hu: ["Borzson 810 méterrel van a tengerszint felett.", "Az ásványvízforrás hőmérséklete 15 °C.", "A város területe 16,2 km².", "Lakossága 2023-ban 12.125 fő.", "A Borzsoni-Haraguli Nemzeti Parkot 1995-ben alapították.", "Borzson 160 km-re van Tbiliszitől."],
+      ro: ["Borjomi este situat la 810 m deasupra nivelului mării.", "Izvorul de apă minerală are o temperatură de 15 °C.", "Orașul are o suprafață de 16,2 km².", "Populația este de 12.125 locuitori (2023).", "Parcul Național Borjomi-Kharagauli a fost fondat în 1995.", "Borjomi se află la 160 km de Tbilisi."],
+      en: ["Borjomi is situated at 810 m above sea level.", "The mineral water spring has a temperature of 15 °C.", "Town area: 16.2 km².", "Population: 12,125 (2023 estimate).", "Borjomi-Kharagauli National Park was established in 1995.", "Borjomi is 160 km from Tbilisi."],
+    },
+  },
   {
     id: "ge-tqvarcheli-cities-v2",
     type: "city",
@@ -642,7 +787,13 @@ image: "/poi-images/ge-tqvarcheli-cities-v2.webp"
       hu: ["Az építészetet klasszicista sztálinista épületek jellemzik.", "A várost 1942-ben alapították hivatalosan."],
       ro: ["Arhitectura se caracterizează prin clădiri staliniste neoclasice.", "Orașul a fost fondat oficial în 1942."],
       en: ["The architecture is characterized by neoclassical Stalinist buildings.", "The town was officially founded in 1942."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Tqvarcheli liegt 150 m über dem Meeresspiegel.", "Der Kohlebergbau begann hier in den 1930er Jahren.", "Stadtfläche: 14,8 km².", "Bevölkerungszahl: 5.028 (2023).", "Tqvarcheli ist 80 km von Sokhumi entfernt.", "Die Jahresdurchschnittstemperatur beträgt 15 °C."],
+      hu: ["Tkvarcheli 150 méterrel van a tengerszint felett.", "A szénbányászat az 1930-as években kezdődött itt.", "A város területe 14,8 km².", "Lakossága 2023-ban 5.028 fő.", "Tkvarcheli 80 km-re van Szuhumitól.", "Az éves átlaghőmérséklet 15 °C."],
+      ro: ["Tqvarcheli este situat la 150 m deasupra nivelului mării.", "Mineritul cărbunelui a început aici în anii 1930.", "Orașul are o suprafață de 14,8 km².", "Populația este de 5.028 locuitori (2023).", "Tqvarcheli se află la 80 km de Sokhumi.", "Temperatura medie anuală este de 15 °C."],
+      en: ["Tqvarcheli is situated at 150 m above sea level.", "Coal mining began here in the 1930s.", "Town area: 14.8 km².", "Population: 5,028 (2023 estimate).", "Tqvarcheli is 80 km from Sokhumi.", "The average annual temperature is 15 °C."],
+    },
   },
   {
     id: "ge-khoni-cities-v2",
@@ -668,7 +819,13 @@ image: "/poi-images/ge-khoni-cities-v2.webp"
       hu: ["Honi közelében található a híres Okace-kanyon.", "A városközpontban lévő templom gazdag történelmi jelentőséggel bír."],
       ro: ["În apropiere de Khoni se află celebrul canion Okatse.", "Biserica din centrul orașului are o bogată semnificație istorică."],
       en: ["Near Khoni lies the famous Okatse Canyon.", "The church in the city center has a rich historical significance."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2014): 8.987", "Höhe über dem Meeresspiegel: ca. 120 m", "Stadtstatus seit: 1921", "Fläche: 16,4 km²", "Entfernung nach Kutaissi: 25 km", "Anzahl der Kirchen: 3 orthodoxe Kirchen"],
+      hu: ["Népesség (2014): 8.987 fő", "Tengerszint feletti magasság: 120 m", "Városi rang: 1921", "Terület: 16,4 km²", "Távolság Kutaisszitól: 25 km", "Irányítószám: 1900"],
+      ro: ["Populație (2014): 8.987 locuitori", "Altitudine: 120 m", "Statut de oraș din: 1921", "Suprafață: 16,4 km²", "Distanța până la Kutaisi: 25 km", "Cod poștal: 1900"],
+      en: ["Population (2014 census): 8,987", "Elevation: 120 m above sea level", "Town status granted: 1921", "Area: 16.4 km²", "Distance to Kutaisi: 25 km", "Postal code: 1900"],
+    },
   },
   {
     id: "ge-bolnisi-cities-v2",
@@ -694,7 +851,13 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp"
       hu: ["A bolniszi Sioni-templom az 5. századból származik.", "A helyi múzeum a német-grúz történelmet mutatja be."],
       ro: ["Biserica Sioni din Bolnisi datează din secolul al V-lea.", "Muzeul local evidențiază istoria germano-georgiană."],
       en: ["The Bolnisi Sioni church dates back to the 5th century.", "The local museum highlights German-Georgian history."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2014): 8.967", "Baujahr der Bolnisi-Sioni-Kathedrale: 478–493 n. Chr.", "Entfernung nach Tiflis: 60 km", "Höhe: 540 m über dem Meeresspiegel", "Ansiedlung deutscher Kolonisten: 1818", "Fläche: 16,5 km²"],
+      hu: ["Népesség (2014): 8.967 fő", "Bolnisi-Szióni építése: 478–493", "Távolság Tbiliszitől: 60 km", "Tengerszint feletti magasság: 540 m", "Német telepesek érkezése: 1818", "Terület: 16,5 km²"],
+      ro: ["Populație (2014): 8.967 locuitori", "Construcția Catedralei Sioni: 478–493 d.Hr.", "Distanța până la Tbilisi: 60 km", "Altitudine: 540 m", "Colonizarea germană: 1818", "Suprafață: 16,5 km²"],
+      en: ["Population (2014): 8,967", "Bolnisi Sioni Cathedral built: 478–493 AD", "Distance to Tbilisi: 60 km", "Elevation: 540 m above sea level", "German settlement established: 1818", "Area: 16.5 km²"],
+    },
   },
   {
     id: "ge-akhalkalaki-cities-v2",
@@ -720,7 +883,13 @@ image: "/poi-images/ge-akhalkalaki-cities-v2.webp"
       hu: ["Az ahalkalaki erőd a 11. századból származik.", "A régió kiváló burgonyájáról híres."],
       ro: ["Fortăreața Akhalkalaki datează din secolul al XI-lea.", "Regiunea este cunoscută pentru cartofii săi excelenți."],
       en: ["The fortress of Akhalkalaki dates back to the 11th century.", "The region is known for its excellent potatoes."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2014): ca. 8.500", "Höhe: 1.700 m über dem Meeresspiegel", "Gründungsjahr: 11. Jahrhundert", "Armenischer Bevölkerungsanteil: über 90 %", "Entfernung zur armenischen Grenze: 30 km", "Durchschnittstemperatur im Januar: -8 °C"],
+      hu: ["Népesség (2014): kb. 8.500 fő", "Tengerszint feletti magasság: 1.700 m", "Alapítás éve: 11. század", "Örmény lakosság aránya: több mint 90%", "Távolság az örmény határtól: 30 km", "Januári átlaghőmérséklet: -8 °C"],
+      ro: ["Populație (2014): aprox. 8.500 locuitori", "Altitudine: 1.700 m", "Fondat în: secolul al XI-lea", "Procentajul populației armene: peste 90%", "Distanța până la granița cu Armenia: 30 km", "Temperatura medie în ianuarie: -8 °C"],
+      en: ["Population (2014): approx. 8,500", "Elevation: 1,700 m above sea level", "Founded: 11th century", "Armenian population: over 90%", "Distance to Armenian border: 30 km", "Average January temperature: -8 °C"],
+    },
   },
   {
     id: "ge-gurjaani-cities-v2",
@@ -746,7 +915,13 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp"
       hu: ["A Kvelacminda-templom egyedülálló a maga két kupolájával.", "A városban híres grúz borfajtákat állítanak elő."],
       ro: ["Biserica Kvelatsminda este unică prin cele două domuri ale sale.", "În oraș se produc soiuri celebre de vin georgian."],
       en: ["The Kvelatsminda church is unique with its two domes.", "Famous Georgian wine varieties are produced in the city."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2014): ca. 8.000", "Entfernung nach Tiflis: 110 km", "Höhe: 350 m über dem Meeresspiegel", "Baujahr der Kvelazminda-Kirche: 8. Jahrhundert", "Anzahl der Weingüter: über 10", "Postleitzahl: 2200"],
+      hu: ["Népesség (2014): kb. 8.000 fő", "Távolság Tbiliszitől: 110 km", "Tengerszint feletti magasság: 350 m", "Kvelazminda-templom építése: 8. század", "Borászatok száma: több mint 10", "Irányítószám: 2200"],
+      ro: ["Populație (2014): aprox. 8.000 locuitori", "Distanța până la Tbilisi: 110 km", "Altitudine: 350 m", "Construcția Bisericii Kvelazminda: secolul al VIII-lea", "Numărul de crame: peste 10", "Cod poștal: 2200"],
+      en: ["Population (2014): approx. 8,000", "Distance to Tbilisi: 110 km", "Elevation: 350 m above sea level", "Kvelazminda Church built: 8th century", "Number of wineries: over 10", "Postal code: 2200"],
+    },
   },
   {
     id: "ge-mtskheta-cities-v2",
@@ -772,6 +947,811 @@ image: "/poi-images/ge-mtskheta-cities-v2.webp"
       hu: ["A Szveticshoveli-székesegyház UNESCO világörökségi helyszín.", "A Dzsvari-kolostor fenségesen magasodik a város fölé."],
       ro: ["Catedrala Svetitskhoveli este în Patrimoniul Mondial UNESCO.", "Mănăstirea Jvari tronează maiestuos deasupra orașului."],
       en: ["The Svetitskhoveli Cathedral is a UNESCO World Heritage Site.", "The Jvari Monastery towers majestically over the city."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2014): ca. 7.900", "Entfernung nach Tiflis: 20 km", "UNESCO-Welterbe seit: 1994", "Bauzeit der Swetizchoweli-Kathedrale: 1010–1029", "Bau des Dschwari-Klosters: 586–605 n. Chr.", "Höhe: 450 m über dem Meeresspiegel"],
+      hu: ["Népesség (2014): kb. 7.900 fő", "Távolság Tbiliszitől: 20 km", "UNESCO Világörökség: 1994", "Szvetichoveli építése: 1010–1029", "Dzsvari kolostor építése: 586–605", "Tengerszint feletti magasság: 450 m"],
+      ro: ["Populație (2014): aprox. 7.900 locuitori", "Distanța până la Tbilisi: 20 km", "Patrimoniul UNESCO din: 1994", "Construcția Catedralei Svetitskhoveli: 1010–1029", "Construcția Mănăstirii Jvari: 586–605", "Altitudine: 450 m"],
+      en: ["Population (2014): approx. 7,900", "Distance to Tbilisi: 20 km", "UNESCO World Heritage since: 1994", "Svetitskhoveli Cathedral built: 1010–1029", "Jvari Monastery built: 586–605 AD", "Elevation: 450 m above sea level"],
+    },
+  }
+,
+  {
+    id: "georgia-sighnaghi-cities-v2",
+    type: "town",
+    name: { de: "Signagi", hu: "Szignagi", ro: "Sighnaghi", en: "Sighnaghi" },
+    coords: [45.9272, 41.6111],
+    description: {
+      de: "Signagi ist eine malerische Stadt in Kachetien, bekannt für ihre vollständig erhaltene Stadtmauer und die Architektur aus dem 18. Jahrhundert.",
+      hu: "Szignagi egy festői város Kaheti régióban, amely épen maradt 18. századi városfaláról és teraszos építészetéről ismert.",
+      ro: "Sighnaghi este un oraș pitoresc din regiunea Kakheti, renumit pentru zidurile sale de apărare din secolul al XVIII-lea și arhitectura restaurată.",
+      en: "Sighnaghi is a picturesque town in the Kakheti region, known for its well-preserved 18th-century city walls and unique terraced architecture.",
+    },
+    facts: {
+      de: ["Liegt auf einem Hügel über dem Alazani-Tal", "Die Stadtmauer ist etwa 4 Kilometer lang", "Besitzt 28 Wehrtürme entlang der Mauer", "Wichtiger Standort für Weinbau und Tourismus"],
+      hu: ["Az Alazani-völgy feletti dombon fekszik", "Városfala körülbelül 4 kilométer hosszú", "28 bástya tagolja a védelmi rendszert", "A bortermelés és a turizmus központja"],
+      ro: ["Situat pe un deal deasupra Văii Alazani", "Zidul orașului are o lungime de 4 kilometri", "Dispune de 28 de turnuri de apărare", "Centru important pentru viticultură și turism"],
+      en: ["Situated on a hill overlooking Alazani Valley", "The city wall stretches for 4 kilometers", "Features 28 watchtowers along the perimeter", "Major center for winemaking and tourism"],
+    },
+    imageHint: "Aerial view of Sighnaghi town and red roofs",
+    descriptionAdvanced: {
+      de: "Signagi ist eine Stadt in der Region Kachetien im Osten Georgiens, bekannt für ihre gut erhaltene Stadtmauer und ihre Lage auf einem Hügel mit Blick auf das Alasani-Tal. Sie wurde im 18. Jahrhundert gegründet und diente als Handelszentrum. Die Stadt wird oft als „Stadt der Liebe“ bezeichnet und ist ein beliebtes Ziel für Hochzeiten. Signagi hat ein Heimatmuseum und eine alte Basarstraße. Die Bevölkerung betrug 2014 rund 1.500 Einwohner. Die Wirtschaft basiert auf Tourismus, Weinbau und Kunsthandwerk. Die Stadt ist auch für ihre 24-Stunden-Standesamt bekannt.",
+      hu: "Sighnaghi város Kelet-Grúziában, Kacheti borvidéken, egy dombon fekszik, ahonnan panoráma nyílik az Alazani-völgyre. A 18. században alapították, kereskedelmi központ volt. „A szerelem városaként” is ismert, népszerű esküvői célpont. Itt található a 24 órás anyakönyvi hivatal. Lakossága 2014-ben kb. 1.500 fő. Gazdasága a turizmusra, a bortermelésre és a kézművességre épül.",
+      ro: "Sighnaghi este un oraș în estul Georgiei, în regiunea Kahetia, situat pe un deal cu vedere spre Valea Alazani. A fost fondat în secolul al XVIII-lea ca centru comercial. Cunoscut ca „Orașul iubirii”, este o destinație populară pentru nunți. Are un muzeu și un vechi bazar. Populația la recensământul din 2014 era de aproximativ 1.500 locuitori. Economia se bazează pe turism, viticultură și meșteșuguri. Oficiul stării civile funcționează non-stop.",
+      en: "Sighnaghi is a town in eastern Georgia's Kakheti region, perched on a hill overlooking the Alazani Valley. Founded in the 18th century as a trading center, it is known as the 'City of Love' and is a popular wedding destination. It features a preserved city wall, a local museum, and a 24-hour marriage registry. Population in 2014 was about 1,500. The economy is driven by tourism, wine production, and crafts.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2014): ca. 1.500", "Höhe: 790 m über dem Meeresspiegel", "Länge der Stadtmauer: 4 km", "Gründungsjahr: 1762", "Anzahl der Hochzeiten pro Jahr: über 1.000", "Entfernung nach Tiflis: 110 km"],
+      hu: ["Népesség (2014): kb. 1.500 fő", "Tengerszint feletti magasság: 790 m", "Várfal hossza: 4 km", "Alapítás éve: 1762", "Éves esküvők száma: több mint 1.000", "Távolság Tbiliszitől: 110 km"],
+      ro: ["Populație (2014): aprox. 1.500 locuitori", "Altitudine: 790 m", "Lungimea zidului orașului: 4 km", "Anul fondării: 1762", "Numărul de nunți pe an: peste 1.000", "Distanța până la Tbilisi: 110 km"],
+      en: ["Population (2014): approx. 1,500", "Elevation: 790 m above sea level", "City wall length: 4 km", "Founded: 1762", "Annual weddings: over 1,000", "Distance to Tbilisi: 110 km"],
+    },
+  },
+  {
+    id: "georgia-mestia-cities-v2",
+    type: "town",
+    name: { de: "Mestia", hu: "Mestia", ro: "Mestia", en: "Mestia" },
+    coords: [42.7297, 43.0447],
+    description: {
+      de: "Mestia ist das Verwaltungszentrum von Oberswanetien und ein bedeutendes Hochgebirgszentrum für Tourismus und Alpinismus im Kaukasus.",
+      hu: "Mestia Felső-Szvanétia közigazgatási központja, a kaukázusi turizmus és hegymászás egyik legfontosabb bázisa.",
+      ro: "Mestia este centrul administrativ al regiunii Svaneti de Sus și un hub major pentru turism montan și alpinism în Caucaz.",
+      en: "Mestia is the administrative center of Upper Svaneti and a significant highland hub for tourism and alpinism in the Caucasus.",
+    },
+    facts: {
+      de: ["Liegt auf einer Höhe von 1500 Metern", "Zentrum der einzigartigen swanischen Kultur", "Beherbergt ein modernes Museum für Geschichte", "Ausgangspunkt für Wanderungen zum Uschba"],
+      hu: ["1500 méteres tengerszint feletti magasságban van", "Az egyedülálló szván kultúra központja", "Modern Történeti és Néprajzi Múzeuma van", "Az Usba-hegy felé tartó túrák kiindulópontja"],
+      ro: ["Situat la o altitudine de 1500 de metri", "Centrul culturii unice a svanilor", "Găzduiește un muzeu modern de istorie", "Punct de plecare pentru drumeții spre Ushba"],
+      en: ["Located at an elevation of 1500 meters", "Center of the unique Svanetion culture", "Home to a modern Museum of History and Ethnography", "Starting point for hikes toward Mount Ushba"],
+    },
+    imageHint: "Mestia town center with stone towers and mountains",
+    descriptionAdvanced: {
+      de: "Mestia ist eine Kleinstadt in der Region Samegrelo-Zemo Swanetien im Nordwesten Georgiens, im Kaukasusgebirge auf etwa 1.500 m Höhe. Sie ist das Zentrum der historischen Region Swanetien. Die Stadt ist bekannt für ihre mittelalterlichen Wehrtürme, die zum UNESCO-Welterbe gehören. Mestia ist ein Ausgangspunkt für Trekkingtouren in den Kaukasus. Der Ort hat einen kleinen Flughafen. Die Bevölkerung betrug 2014 rund 1.973 Einwohner. Die Wirtschaft basiert auf Tourismus, Bergsteigen und Landwirtschaft. In der Umgebung gibt es Gletscher und alpine Wiesen.",
+      hu: "Mestia város Északnyugat-Grúziában, Samegrelo-Felső-Szvanéti régióban, a Kaukázusban, 1500 m magasan. Szvánéti történelmi központja. Híres középkori védtornyairól, amelyek az UNESCO Világörökség részei. Túrázók kiindulópontja. Kis repülőtérrel rendelkezik. Lakossága 2014-ben 1.973 fő. Gazdasága turizmuson, hegymászásón és mezőgazdaságon alapul. A környéken gleccserek és alpesi rétek találhatók.",
+      ro: "Mestia este un oraș mic în nord-vestul Georgiei, în regiunea Samegrelo-Zemo Svaneti, situat în Munții Caucaz la altitudinea de 1.500 m. Este centrul istoric al regiunii Svaneti. Renumit pentru turnurile sale medievale de apărare, incluse în Patrimoniul Mondial UNESCO. Este un punct de plecare pentru drumeții în Caucaz. Orașul are un aeroport mic. Populația la recensământul din 2014 era de 1.973 locuitori. Economia se bazează pe turism, alpinism și agricultură. Împrejurimile includ ghețari și pajiști alpine.",
+      en: "Mestia is a small town in northwestern Georgia's Samegrelo-Zemo Svaneti region, in the Caucasus Mountains at 1,500 m elevation. It is the historical center of Svaneti, known for its medieval defensive towers, a UNESCO World Heritage site. It serves as a base for hiking in the Caucasus. The town has a small airport. Population in 2014 was 1,973. The economy relies on tourism, mountaineering, and agriculture. Nearby features include glaciers and alpine meadows.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2014): 1.973", "Höhe: 1.500 m", "Anzahl der erhaltenen Wehrtürme: über 200", "UNESCO-Welterbe seit: 1996", "Länge der Skipisten: 25 km", "Flughafen Mestia: gebaut 2012"],
+      hu: ["Népesség (2014): 1.973 fő", "Tengerszint feletti magasság: 1.500 m", "Fennmaradt védtornyok száma: több mint 200", "UNESCO Világörökség: 1996", "Sípályák hossza: 25 km", "Mestiai repülőtér: 2012-ben épült"],
+      ro: ["Populație (2014): 1.973 locuitori", "Altitudine: 1.500 m", "Numărul turnurilor de apărare: peste 200", "Patrimoniul UNESCO din: 1996", "Lungimea pârtiilor de schi: 25 km", "Aeroportul Mestia: construit în 2012"],
+      en: ["Population (2014): 1,973", "Elevation: 1,500 m", "Number of surviving defensive towers: over 200", "UNESCO World Heritage since: 1996", "Length of ski slopes: 25 km", "Mestia Airport built: 2012"],
+    },
+  },
+  {
+    id: "georgia-stepantsminda-cities-v2",
+    type: "town",
+    name: { de: "Stepantsminda", hu: "Stepancminda", ro: "Stepantsminda", en: "Stepantsminda" },
+    coords: [44.6433, 42.6592],
+    description: {
+      de: "Stepantsminda, ehemals Kasbegi, ist eine Kleinstadt an der Georgischen Heerstraße am Fuße des Berges Kasbek.",
+      hu: "Stepancminda, korábbi nevén Kazbegi, egy kisváros a grúz hadiút mentén, a Kazbek-hegy lábánál.",
+      ro: "Stepantsminda, fostul Kazbegi, este un orășel situat pe Autostrada Militară Gruzină, la poalele muntelui Kazbek.",
+      en: "Stepantsminda, formerly Kazbegi, is a small town on the Georgian Military Highway located at the foot of Mount Kazbek.",
+    },
+    facts: {
+      de: ["Benannt nach dem Mönch Stephan", "Liegt im Tal des Flusses Terek", "Höhe von etwa 1740 Metern über dem Meer", "Wichtigster Ort für Bergsteiger in Nordgeorgien"],
+      hu: ["Szent István szerzetesről nevezték el", "A Tyerek-folyó völgyében fekszik", "1740 méter körüli magasságban található", "Észak-Grúzia hegymászóinak legfontosabb helyszíne"],
+      ro: ["Numit după călugărul Ștefan", "Situat în valea râului Terek", "Altitudine de aproximativ 1740 de metri", "Locație cheie pentru alpiniști în nordul Georgiei"],
+      en: ["Named after the monk Stephan", "Located in the Terek River valley", "Elevation of about 1740 meters", "Key location for mountaineers in North Georgia"],
+    },
+    imageHint: "Stepantsminda town landscape with Kazbek peak",
+    descriptionAdvanced: {
+      de: "Stepazminda (früher Kasbegi) ist eine Kleinstadt in der Region Mzcheta-Mtianeti im Nordosten Georgiens, nahe der russischen Grenze. Sie liegt im Kaukasus am Fuß des Berges Kasbek (5.047 m). Die Stadt ist bekannt für die Dreifaltigkeitskirche von Gergeti (14. Jahrhundert) auf einem Bergkamm. Stepazminda ist ein Zentrum für Bergsteigen und Ökotourismus. Die Bevölkerung betrug 2014 rund 1.326 Einwohner. Die Wirtschaft basiert auf Tourismus und Dienstleistungen für Reisende auf der Georgischen Heerstraße. In der Umgebung gibt es heiße Quellen.",
+      hu: "Stepantsminda (korábban Kazbegi) város Északkelet-Grúziában, Mtskheta-Mtianeti régióban, az orosz határ közelében, a Kaukázusban, a Kazbek-hegy (5047 m) lábánál. Híres a 14. századi Gergeti Szentháromság-templomról, amely egy hegygerincen áll. Hegymászó- és ökoturisztikai központ. Lakossága 2014-ben 1.326 fő. Gazdasága a turizmusra és a Grúz Hadúton utazók szolgáltatásaira épül. A környéken termálforrások találhatók.",
+      ro: "Stepantsminda (cunoscut anterior ca Kazbegi) este un oraș mic în nord-estul Georgiei, în regiunea Mtskheta-Mtianeti, aproape de granița cu Rusia, situat în Caucaz la poalele Muntelui Kazbek (5.047 m). Este renumit pentru Biserica Treimii din Gergeti (secolul al XIV-lea) aflată pe o creastă. Este un centru de alpinism și ecoturism. Populația la recensământul din 2014 era de 1.326 locuitori. Economia se bazează pe turism și servicii pentru călătorii de pe Autostrada Militară Georgiană. În zonă există izvoare termale.",
+      en: "Stepantsminda (formerly Kazbegi) is a small town in northeastern Georgia's Mtskheta-Mtianeti region, near the Russian border, in the Caucasus at the foot of Mount Kazbek (5,047 m). It is known for the 14th-century Gergeti Trinity Church perched on a ridge. It is a center for mountaineering and ecotourism. Population in 2014 was 1,326. The economy relies on tourism and services for travelers on the Georgian Military Road. The area features hot springs.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2014): 1.326", "Höhe: 1.740 m über dem Meeresspiegel", "Höhe des Kasbek: 5.047 m", "Bau der Gergeti-Dreifaltigkeitskirche: 14. Jahrhundert", "Entfernung zur russischen Grenze: 12 km", "Durchschnittstemperatur im Januar: -5 °C"],
+      hu: ["Népesség (2014): 1.326 fő", "Tengerszint feletti magasság: 1.740 m", "Kazbek-hegy magassága: 5.047 m", "Gergeti Szentháromság-templom építése: 14. század", "Távolság az orosz határtól: 12 km", "Januári átlaghőmérséklet: -5 °C"],
+      ro: ["Populație (2014): 1.326 locuitori", "Altitudine: 1.740 m", "Înălțimea Muntelui Kazbek: 5.047 m", "Construcția Bisericii Treimii din Gergeti: secolul al XIV-lea", "Distanța până la granița rusă: 12 km", "Temperatura medie în ianuarie: -5 °C"],
+      en: ["Population (2014): 1,326", "Elevation: 1,740 m above sea level", "Mount Kazbek height: 5,047 m", "Gergeti Trinity Church built: 14th century", "Distance to Russian border: 12 km", "Average January temperature: -5 °C"],
+    },
+  },
+  {
+    id: "georgia-lagodekhi-cities-v2",
+    type: "town",
+    name: { de: "Lagodechi", hu: "Lagodehi", ro: "Lagodekhi", en: "Lagodekhi" },
+    coords: [46.2742, 41.8225],
+    description: {
+      de: "Lagodechi ist eine Stadt im Osten Georgiens nahe der Grenze zu Aserbaidschan, bekannt für das gleichnamige Naturschutzgebiet.",
+      hu: "Lagodehi város Grúzia keleti részén, az azeri határ közelében, amely a szomszédos természetvédelmi területről híres.",
+      ro: "Lagodekhi este un oraș din estul Georgiei, situat aproape de granița cu Azerbaidjan, cunoscut pentru rezervația naturală adiacentă.",
+      en: "Lagodekhi is a town in eastern Georgia near the border with Azerbaijan, famous for the adjacent nature reserve.",
+    },
+    facts: {
+      de: ["Liegt am Fuße des Großen Kaukasus", "Wurde im Jahr 1830 als Militärposten gegründet", "Wichtiger Grenzübergang zu Aserbaidschan", "Besitzt ein mildes, subtropisches Klima"],
+      hu: ["A Nagy-Kaukázus lábánál fekszik", "1830-ban alapították katonai posztként", "Fontos határátkelőhely Azerbajdzsán felé", "Enyhe, szubtrópusi éghajlattal rendelkezik"],
+      ro: ["Situat la poalele Caucazului Mare", "Fondat în 1830 ca post militar", "Punct de frontieră important cu Azerbaidjan", "Are un climat subtropical blând"],
+      en: ["Located at the foot of the Greater Caucasus", "Founded in 1830 as a military outpost", "Major border crossing to Azerbaijan", "Has a mild subtropical climate"],
+    },
+    imageHint: "Lagodekhi town gate and mountains",
+    descriptionAdvanced: {
+      de: "Lagodechi ist eine Stadt in der Region Kachetien im Osten Georgiens, nahe der aserbaidschanischen Grenze. Sie liegt am Fuße des Kaukasus und ist bekannt für den Lagodechi-Nationalpark, einen der ältesten Nationalparks Georgiens (1912 gegründet). Die Stadt hat eine lange Geschichte als Handelsort. Die Bevölkerung betrug 2014 rund 4.500 Einwohner. Die Wirtschaft basiert auf Tourismus, Landwirtschaft und Weinbau. Der Nationalpark bietet Wanderwege und Wasserfälle.",
+      hu: "Lagodekhi város Kelet-Grúziában, Kacheti régióban, az azerbajdzsáni határ közelében, a Kaukázus lábánál. Híres a Lagodekhi Nemzeti Parkról, az egyik legrégebbi grúz nemzeti parkról (1912). A település hosszú kereskedelmi múltra tekint vissza. Lakossága 2014-ben kb. 4.500 fő. Gazdasága turizmuson, mezőgazdaságon és bortermelésen alapul. A parkban túraútvonalak és vízesések találhatók.",
+      ro: "Lagodekhi este un oraș în estul Georgiei, în regiunea Kahetia, aproape de granița cu Azerbaidjan, la poalele Caucazului. Este cunoscut pentru Parcul Național Lagodekhi, unul dintre cele mai vechi parcuri naționale din Georgia (înființat în 1912). Orașul are o istorie îndelungată ca loc de comerț. Populația la recensământul din 2014 era de aproximativ 4.500 locuitori. Economia se bazează pe turism, agricultură și viticultură. Parcul oferă trasee de drumeție și cascade.",
+      en: "Lagodekhi is a town in eastern Georgia's Kakheti region, near the Azerbaijani border, at the foot of the Caucasus Mountains. It is known for the Lagodekhi National Park, one of Georgia's oldest national parks (established 1912). The town has a long history as a trading post. Population in 2014 was about 4,500. The economy relies on tourism, agriculture, and wine production. The park features hiking trails and waterfalls.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2014): ca. 4.500", "Gründung des Nationalparks: 1912", "Fläche des Nationalparks: 220 km²", "Höhe: 460 m über dem Meeresspiegel", "Entfernung zur aserbaidschanischen Grenze: 15 km", "Anzahl der Wasserfälle im Park: 6"],
+      hu: ["Népesség (2014): kb. 4.500 fő", "Nemzeti park alapítása: 1912", "Nemzeti park területe: 220 km²", "Tengerszint feletti magasság: 460 m", "Távolság az azeri határtól: 15 km", "Vízesések száma a parkban: 6"],
+      ro: ["Populație (2014): aprox. 4.500 locuitori", "Înființarea parcului național: 1912", "Suprafața parcului național: 220 km²", "Altitudine: 460 m", "Distanța până la granița azeră: 15 km", "Numărul de cascade din parc: 6"],
+      en: ["Population (2014): approx. 4,500", "National park established: 1912", "National park area: 220 km²", "Elevation: 460 m above sea level", "Distance to Azerbaijani border: 15 km", "Number of waterfalls in the park: 6"],
+    },
+  },
+  {
+    id: "georgia-dusheti-cities-v2",
+    type: "town",
+    name: { de: "Duscheti", hu: "Dusetit", ro: "Dusheti", en: "Dusheti" },
+    coords: [44.6942, 42.0833],
+    description: {
+      de: "Duscheti ist eine historische Kleinstadt in der Region Mzcheta-Mtianeti, die einst eine Residenz der Herzöge von Aragwi war.",
+      hu: "Duseti egy történelmi kisváros Mcheta-Mtianeti régióban, amely egykor az Aragvi hercegek rezidenciája volt.",
+      ro: "Dusheti este un oraș istoric din regiunea Mtskheta-Mtianeti, care a servit drept reședință pentru ducii de Aragvi.",
+      en: "Dusheti is a historical town in the Mtskheta-Mtianeti region, formerly a residence for the Dukes of Aragvi.",
+    },
+    facts: {
+      de: ["Liegt etwa 54 Kilometer nördlich von Tiflis", "Erhielt im Jahr 1801 das Stadtrecht", "Bekannt für die Produktion von Duscheti-Chinkali", "Beherbergt Architektur aus dem 19. Jahrhundert"],
+      hu: ["Körülbelül 54 kilométerre északra van Tbiliszitől", "1801-ben kapott városi rangot", "Híres a duseti hinkali készítéséről", "19. századi építészeti emlékeket őriz"],
+      ro: ["Situat la 54 km nord de Tbilisi", "A primit statutul de oraș în 1801", "Cunoscut pentru producția de khinkali de Dusheti", "Găzduiește arhitectură din secolul al XIX-lea"],
+      en: ["Located 54 kilometers north of Tbilisi", "Granted city status in 1801", "Famous for the production of Dusheti khinkali", "Features 19th-century urban architecture"],
+    },
+    imageHint: "Old streets of Dusheti town",
+    descriptionAdvanced: {
+      de: "Duscheti ist eine Kleinstadt in der Region Mzcheta-Mtianeti in Zentralgeorgien, etwa 30 km nördlich von Tiflis. Sie liegt am Fluss Ksani am Fuße der Kartlischen Gebirgskette. Die Stadt war im Mittelalter ein wichtiges Handelszentrum. Heute ist Duscheti bekannt für den Bazaleti-See und seine Umgebung, die ein Naherholungsgebiet ist. Die Bevölkerung betrug 2014 rund 2.500 Einwohner. Die Wirtschaft basiert auf Landwirtschaft und Tourismus. In der Stadt gibt es ein historisches Museum.",
+      hu: "Dusheti város Közép-Grúziában, Mtskheta-Mtianeti régióban, Tbiliszitől 30 km-re északra, a Kszani folyó mellett, a Kartli-hegység lábánál. A középkorban fontos kereskedelmi központ volt. Ma a Bazaleti-tó és környéke üdülőterület. Lakossága 2014-ben kb. 2.500 fő. Gazdasága mezőgazdaságon és turizmuson alapul. A városban történeti múzeum található.",
+      ro: "Dusheti este un oraș mic în centrul Georgiei, în regiunea Mtskheta-Mtianeti, la 30 km nord de Tbilisi, pe râul Ksani, la poalele lanțului muntos Kartli. A fost un important centru comercial în Evul Mediu. Astăzi este cunoscut pentru Lacul Bazaleti și zona de agrement. Populația la recensământul din 2014 era de aproximativ 2.500 locuitori. Economia se bazează pe agricultură și turism. Orașul are un muzeu istoric.",
+      en: "Dusheti is a small town in central Georgia's Mtskheta-Mtianeti region, 30 km north of Tbilisi, on the Ksani River at the foot of the Kartli Range. It was an important trade center in the Middle Ages. Today it is known for Lake Bazaleti, a popular recreation area. Population in 2014 was about 2,500. The economy is based on agriculture and tourism. The town has a historical museum.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2014): ca. 2.500", "Entfernung nach Tiflis: 30 km", "Höhe: 880 m über dem Meeresspiegel", "Fläche des Bazaleti-Sees: 1,2 km²", "Mittlere Tiefe des Bazaleti-Sees: 5 m", "Postleitzahl: 1800"],
+      hu: ["Népesség (2014): kb. 2.500 fő", "Távolság Tbiliszitől: 30 km", "Tengerszint feletti magasság: 880 m", "Bazaleti-tó területe: 1,2 km²", "Bazaleti-tó átlagos mélysége: 5 m", "Irányítószám: 1800"],
+      ro: ["Populație (2014): aprox. 2.500 locuitori", "Distanța până la Tbilisi: 30 km", "Altitudine: 880 m", "Suprafața Lacului Bazaleti: 1,2 km²", "Adâncimea medie a Lacului Bazaleti: 5 m", "Cod poștal: 1800"],
+      en: ["Population (2014): approx. 2,500", "Distance to Tbilisi: 30 km", "Elevation: 880 m above sea level", "Lake Bazaleti area: 1.2 km²", "Lake Bazaleti average depth: 5 m", "Postal code: 1800"],
+    },
+  },
+  {
+    id: "georgia-abasha-cities-v2",
+    type: "town",
+    name: { de: "Abascha", hu: "Abasa", ro: "Abasha", en: "Abasha" },
+    coords: [42.2033, 42.2047],
+    description: {
+      de: "Abascha ist eine Stadt in der Region Mingrelien und Oberswanetien, gelegen in der Kolchis-Ebene zwischen den Flüssen Abascha und Noghela.",
+      hu: "Abasa város Samegrelo-Zemo Svaneti régióban, a Kolkhiszi-alföldön, az Abasa és a Noghela folyók között.",
+      ro: "Abasha este un oraș din regiunea Samegrelo-Zemo Svaneti, situat în câmpia Colchis între râurile Abasha și Noghela.",
+      en: "Abasha is a town in the Samegrelo-Zemo Svaneti region, located in the Colchis Lowland between the Abasha and Noghela rivers.",
+    },
+    facts: {
+      de: ["Geburtsort des Schriftstellers Konstantine Gamsachurdia", "Erhielt im Jahr 1964 das Stadtrecht", "Wichtiger Eisenbahnknotenpunkt in Westgeorgien", "Zentrum eines landwirtschaftlichen Distrikts"],
+      hu: ["Konsztantine Gamszahurdia író szülőhelye", "1964-ben kapott városi rangot", "Fontos vasúti csomópont Nyugat-Grúziában", "Egy mezőgazdasági járás központja"],
+      ro: ["Locul de naștere al scriitorului Konstantine Gamsakhurdia", "A primit statutul de oraș în 1964", "Nod feroviar important în vestul Georgiei", "Centrul unui district agricol"],
+      en: ["Birthplace of writer Konstantine Gamsakhurdia", "Granted city status in 1964", "Major railway junction in Western Georgia", "Center of an agricultural district"],
+    },
+    imageHint: "Abasha town hall building",
+    descriptionAdvanced: {
+      de: "Abascha ist eine Kleinstadt in der Region Samegrelo-Zemo Swanetien im Westen Georgiens, etwa 35 km nordwestlich von Senaki. Sie liegt am Fluss Abascha. Die Stadt ist landwirtschaftlich geprägt, insbesondere durch Tee- und Maisanbau. In der Sowjetzeit gab es hier Teefabriken. Die Bevölkerung betrug 2014 rund 3.000 Einwohner. In der Nähe befinden sich die Ruinen der Festung Schache. Abascha ist auch für seinen Markt bekannt.",
+      hu: "Abasha város Nyugat-Grúziában, Samegrelo-Felső-Szvanéti régióban, Senakitől 35 km-re északnyugatra, az Abasa folyó mellett. Mezőgazdasági jellegű, tea- és kukoricatermesztés jellemző. A szovjet időkben teagyárak működtek itt. Lakossága 2014-ben kb. 3.000 fő. A közelben találhatók Sache várának romjai. Abasha piacáról is ismert.",
+      ro: "Abasha este un oraș mic în vestul Georgiei, în regiunea Samegrelo-Zemo Svaneti, la 35 km nord-vest de Senaki, pe râul Abasha. Este o zonă agricolă, cu culturi de ceai și porumb. În perioada sovietică existau fabrici de ceai. Populația la recensământul din 2014 era de aproximativ 3.000 locuitori. În apropiere se află ruinele Cetății Shache. Abasha este cunoscută pentru piața sa.",
+      en: "Abasha is a small town in western Georgia's Samegrelo-Zemo Svaneti region, 35 km northwest of Senaki, on the Abasha River. It is an agricultural area, known for tea and corn cultivation. During Soviet times, it had tea processing factories. Population in 2014 was about 3,000. Nearby are the ruins of Shache Fortress. Abasha is also known for its local market.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2014): ca. 3.000", "Höhe: 20 m über dem Meeresspiegel", "Entfernung nach Senaki: 35 km", "Länge des Flusses Abascha: 30 km", "Anzahl der Teefabriken in der Sowjetzeit: 2", "Postleitzahl: 5200"],
+      hu: ["Népesség (2014): kb. 3.000 fő", "Tengerszint feletti magasság: 20 m", "Távolság Senakitől: 35 km", "Abasa folyó hossza: 30 km", "Szovjet teagyárak száma: 2", "Irányítószám: 5200"],
+      ro: ["Populație (2014): aprox. 3.000 locuitori", "Altitudine: 20 m", "Distanța până la Senaki: 35 km", "Lungimea râului Abasha: 30 km", "Numărul fabricilor de ceai din perioada sovietică: 2", "Cod poștal: 5200"],
+      en: ["Population (2014): approx. 3,000", "Elevation: 20 m above sea level", "Distance to Senaki: 35 km", "Length of Abasha River: 30 km", "Number of tea factories in Soviet era: 2", "Postal code: 5200"],
+    },
+  },
+  {
+    id: "georgia-tskhinvali-cities-v2",
+    type: "city",
+    name: { de: "Zchinwali", hu: "Chinvali", ro: "Țhinvali", en: "Tskhinvali" },
+    coords: [43.9694, 42.2258],
+    description: {
+      de: "Zchinwali ist die größte Stadt in der Region Innerkartlien und das administrative Zentrum der autonomen Region Südossetien.",
+      hu: "Chinvali Belső-Kartli régió legnagyobb városa és Dél-Oszétia autonóm területének közigazgatási központja.",
+      ro: "Țhinvali este cel mai mare oraș din regiunea Shida Kartli și centrul administrativ al regiunii autonome Osetia de Sud.",
+      en: "Tskhinvali is the largest city in the Shida Kartli region and the administrative center of the autonomous region of South Ossetia.",
+    },
+    facts: {
+      de: ["Liegt am Fluss Großer Liachwi", "War historisch als Krtskhinvali bekannt", "Hatte im Jahr 2015 etwa 30.000 Einwohner", "Stark betroffen durch den Konflikt von 2008"],
+      hu: ["A Nagy-Liakhvi folyó partján fekszik", "Történelmileg Krcmhinvali néven volt ismert", "2015-ben kb. 30 000 lakosa volt", "Súlyosan érintette a 2008-as konfliktus"],
+      ro: ["Situat pe râul Liakhvi Mare", "Cunoscut istoric sub numele de Krtskhinvali", "Populația era de circa 30.000 în 2015", "Grav afectat de conflictul din 2008"],
+      en: ["Located on the Great Liakhvi River", "Historically known as Krtskhinvali", "Population was approximately 30,000 in 2015", "Heavily affected by the 2008 conflict"],
+    },
+    imageHint: "Tskhinvali city view with river",
+    descriptionAdvanced: {
+      de: "Zchinwali (georgisch: ცხინვალი) ist eine Stadt in der Region Innerkartlien, die de facto unter der Kontrolle der abtrünnigen Republik Südossetien steht. Sie liegt am Fluss Großer Liachwi. Die Stadt war in der Sowjetzeit ein industrielles Zentrum mit Holz- und Lebensmittelverarbeitung. 2008 wurde sie während des Russisch-Georgischen Krieges schwer beschädigt. Die Bevölkerung vor dem Konflikt betrug etwa 30.000, heute ist sie geringer. Die Stadt hat eine gemischte georgisch-ossetische Geschichte. Die Wirtschaft ist nach dem Konflikt geschwächt.",
+      hu: "Cchinvali város Belső-Kartli régióban, de facto a szakadár Dél-Oszétia ellenőrzése alatt. A Nagy Liachvi folyó mellett fekszik. A szovjet időkben fa- és élelmiszeripari központ volt. 2008-ban az orosz-grúz háború során súlyosan megrongálódott. A konfliktus előtti lakosság kb. 30.000 fő volt, ma kevesebb. Vegyes grúz-oszét történelem. Gazdasága a háború után meggyengült.",
+      ro: "Țhinvali (georgiană: ცხინვალი) este un oraș în regiunea Kartli Interior, aflat de facto sub controlul republicii separatiste Osetia de Sud. Este situat pe râul Liachvi Mare. În perioada sovietică a fost un centru industrial de prelucrare a lemnului și alimentelor. În 2008 a fost grav avariat în timpul războiului ruso-georgian. Populația înainte de conflict era de aproximativ 30.000, acum mai mică. Are o istorie mixtă georgiano-osetă. Economia este slăbită după conflict.",
+      en: "Tskhinvali is a city in the Shida Kartli region, de facto controlled by the breakaway Republic of South Ossetia. It lies on the Greater Liakhvi River. During Soviet times, it was an industrial center for wood and food processing. In 2008, it was heavily damaged in the Russo-Georgian War. Pre-conflict population was about 30,000; now lower. It has a mixed Georgian-Ossetian history. The economy is weakened post-conflict.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (vor 2008): ca. 30.000", "Höhe: 860 m über dem Meeresspiegel", "Entfernung nach Tiflis: 100 km", "Industriezweige: Holzverarbeitung, Lebensmittel", "Zerstörung während des Krieges: 2008", "Bevölkerung heute (Schätzung): ca. 20.000"],
+      hu: ["Lakosság (2008 előtt): kb. 30.000 fő", "Tengerszint feletti magasság: 860 m", "Távolság Tbiliszitől: 100 km", "Ipari ágazatok: fafeldolgozás, élelmiszeripar", "Háborús pusztítás: 2008", "Jelenlegi népesség (becslés): kb. 20.000 fő"],
+      ro: ["Populație (înainte de 2008): aprox. 30.000 locuitori", "Altitudine: 860 m", "Distanța până la Tbilisi: 100 km", "Industrii: prelucrarea lemnului, alimentară", "Distrugerea în timpul războiului: 2008", "Populația actuală (estimare): aprox. 20.000"],
+      en: ["Population (pre-2008): approx. 30,000", "Elevation: 860 m above sea level", "Distance to Tbilisi: 100 km", "Industries: wood processing, food processing", "Destruction in war: 2008", "Current population (estimate): approx. 20,000"],
+    },
+  },
+  {
+    id: "georgia-gagra-cities-v2",
+    type: "town",
+    name: { de: "Gagra", hu: "Gagra", ro: "Gagra", en: "Gagra" },
+    coords: [40.2167, 43.3],
+    description: {
+      de: "Gagra ist ein bekannter Kurort am Schwarzen Meer in Abchasien, der für sein subtropisches Klima und seine Parks berühmt ist.",
+      hu: "Gagra egy jól ismert tengerparti üdülőváros Abháziában, amely szubtrópusi éghajlatáról és parkjairól híres.",
+      ro: "Gagra este o stațiune balneară renumită de la Marea Neagră, în Abhazia, celebră pentru climatul subtropical și parcurile sale.",
+      en: "Gagra is a well-known Black Sea resort town in Abkhazia, famous for its subtropical climate and scenic coastal parks.",
+    },
+    facts: {
+      de: ["Wurde im 2. Jahrhundert v. Chr. als Triglite gegründet", "Einst ein luxuriöser Ferienort der russischen Elite", "Besitzt eine markante Kolonnade am Meer", "Liegt am Fuße des Gagra-Gebirges"],
+      hu: ["I.e. 2. században alapították Triglite néven", "Egykor az orosz elit luxus üdülőhelye volt", "Jellegzetes tengerparti oszlopsora van", "A Gagrai-hegység lábánál fekszik"],
+      ro: ["Fondat în secolul al II-lea î.Hr. ca Triglite", "Fostă stațiune de lux a elitei ruse", "Dispune de o colonadă distinctivă pe malul mării", "Situat la poalele Munților Gagra"],
+      en: ["Founded in the 2nd century BC as Triglite", "Once a luxury resort for the Russian elite", "Features a distinctive seaside colonnade", "Located at the foot of the Gagra Range"],
+    },
+    imageHint: "Gagra seaside colonnade and mountains",
+    descriptionAdvanced: {
+      de: "Gagra ist eine Stadt in der Autonomen Republik Abchasien, einer abtrünnigen Region Georgiens, an der Schwarzmeerküste. Sie ist ein bekanntes Kurort mit subtropischem Klima. Die Stadt hat eine lange Geschichte als Handelshafen seit der Antike. Im 19. Jahrhundert wurde sie zu einem Badeort. Die Bevölkerung betrug 2011 etwa 12.000. Sehenswürdigkeiten sind der Gagra-Wasserfall, der Primorski-Park und die Ruinen einer byzantinischen Festung. Die Wirtschaft basiert auf Tourismus und Landwirtschaft. Seit dem Abchasien-Konflikt 1992–1993 ist die Bevölkerung zurückgegangen.",
+      hu: "Gagra város a szakadár Abháziában, a Fekete-tenger partján, híres üdülőhely szubtrópusi éghajlattal. Az ókor óta kereskedelmi kikötő. A 19. században fürdőhellyé vált. Lakossága 2011-ben kb. 12.000 fő volt. Nevezetességek: Gagra-vízesés, Primorszkij park, bizánci erődromok. Gazdasága turizmuson és mezőgazdaságon alapul. Az 1992–1993-as konfliktus után a népesség csökkent.",
+      ro: "Gagra este un oraș în Republica Autonomă Abhazia, o regiune separatistă a Georgiei, pe coasta Mării Negre. Este o stațiune cunoscută cu climă subtropicală. Are o istorie lungă ca port comercial din antichitate. În secolul al XIX-lea a devenit stațiune balneară. Populația în 2011 era de aproximativ 12.000. Atracții: Cascada Gagra, Parcul Primorski, ruinele unei cetăți bizantine. Economia se bazează pe turism și agricultură. După conflictul abhaz din 1992-1993, populația a scăzut.",
+      en: "Gagra is a town in the Autonomous Republic of Abkhazia, a breakaway region of Georgia, on the Black Sea coast. It is a well-known resort with a subtropical climate. Historically a trading port since antiquity, it developed as a spa in the 19th century. Population in 2011 was about 12,000. Attractions include the Gagra Waterfall, Primorski Park, and ruins of a Byzantine fortress. The economy relies on tourism and agriculture. Population declined after the 1992–1993 Abkhaz conflict.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2011): ca. 12.000", "Höhe: 10 m über dem Meeresspiegel", "Durchschnittstemperatur im August: 25 °C", "Länge der Strandpromenade: 6 km", "Jährliche Niederschlagsmenge: 1.500 mm", "Entfernung zur Grenze zu Russland: 20 km"],
+      hu: ["Népesség (2011): kb. 12.000 fő", "Tengerszint feletti magasság: 10 m", "Augusztusi átlaghőmérséklet: 25 °C", "Tengerparti sétány hossza: 6 km", "Éves csapadékmennyiség: 1.500 mm", "Távolság az orosz határtól: 20 km"],
+      ro: ["Populație (2011): aprox. 12.000 locuitori", "Altitudine: 10 m", "Temperatura medie în august: 25 °C", "Lungimea falezei: 6 km", "Precipitații anuale: 1.500 mm", "Distanța până la granița cu Rusia: 20 km"],
+      en: ["Population (2011): approx. 12,000", "Elevation: 10 m above sea level", "Average August temperature: 25 °C", "Length of seaside promenade: 6 km", "Annual precipitation: 1,500 mm", "Distance to Russian border: 20 km"],
+    },
+  },
+  {
+    id: "georgia-gudauta-cities-v2",
+    type: "town",
+    name: { de: "Gudauta", hu: "Gudauta", ro: "Gudauta", en: "Gudauta" },
+    coords: [40.6333, 43.1],
+    description: {
+      de: "Gudauta ist eine Hafenstadt am Schwarzen Meer in Abchasien, gelegen auf einer Küstenebene umgeben von Bergen.",
+      hu: "Gudauta tengerparti kikötőváros Abháziában, egy hegyekkel körülvett tengerparti síkságon fekszik.",
+      ro: "Gudauta este un oraș port la Marea Neagră, în Abhazia, situat pe o câmpie de coastă înconjurată de munți.",
+      en: "Gudauta is a Black Sea port town in Abkhazia, situated on a coastal plain surrounded by the Caucasus Mountains.",
+    },
+    facts: {
+      de: ["Beherbergt den Militärflugplatz Bombora", "Zentrum der Tabak- und Weinproduktion", "Bekannt für den nahegelegenen Lychny-Tempel", "Liegt 37 Kilometer nordwestlich von Suchumi"],
+      hu: ["Itt található a Bombora katonai repülőtér", "A dohány- és bortermelés központja", "A közeli Lihni-templomról is ismert", "Szuhumitól 37 kilométerre északnyugatra fekszik"],
+      ro: ["Găzduiește aerodromul militar Bombora", "Centru al producției de tutun și vin", "Cunoscut pentru templul Lykhny din apropiere", "Situat la 37 km nord-vest de Sokhumi"],
+      en: ["Home to the Bombora military airfield", "Center for tobacco and wine production", "Known for the nearby Lykhny Temple", "Located 37 kilometers northwest of Sokhumi"],
+    },
+    imageHint: "Gudauta coastline and urban view",
+    descriptionAdvanced: {
+      de: "Gudauta ist eine Stadt in der Autonomen Republik Abchasien, einer abtrünnigen Region Georgiens, nahe der Schwarzmeerküste. Sie war während der Sowjetzeit ein Militärstützpunkt und Kurort. Die Stadt hat einen Flughafen und eine Eisenbahnstation. Die Bevölkerung betrug 2011 etwa 7.000. Die Umgebung ist landwirtschaftlich geprägt, mit Tabak- und Weinbau. Sehenswürdigkeiten sind die Ruinen der Festung Abaak und das Gudauta-Museum. Seit dem Abchasien-Konflikt ist die ethnische Zusammensetzung verändert.",
+      hu: "Gudauta város a szakadár Abháziában, a Fekete-tenger közelében. A szovjet időkben katonai bázis és üdülőhely volt. Repülőtérrel és vasútállomással rendelkezik. Lakossága 2011-ben kb. 7.000 fő. A környék mezőgazdasági, dohány- és szőlőtermesztés jellemzi. Látnivalók: Abaak erőd romjai, Gudautai Múzeum. A konfliktus után az etnikai összetétel megváltozott.",
+      ro: "Gudauta este un oraș în Republica Autonomă Abhazia, aproape de coasta Mării Negre. În perioada sovietică a fost o bază militară și o stațiune. Are aeroport și gară. Populația în 2011 era de aproximativ 7.000. Zona este agricolă, cu culturi de tutun și viță de vie. Atracții: ruinele cetății Abaak, Muzeul Gudauta. După conflict, compoziția etnică s-a schimbat.",
+      en: "Gudauta is a town in the Autonomous Republic of Abkhazia, near the Black Sea coast. During Soviet times, it was a military base and resort. It has an airport and railway station. Population in 2011 was about 7,000. The surrounding area is agricultural, with tobacco and wine growing. Sights include the ruins of Abaak Fortress and the Gudauta Museum. The ethnic composition has changed since the Abkhaz conflict.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2011): ca. 7.000", "Höhe: 5 m über dem Meeresspiegel", "Entfernung nach Suchumi: 30 km", "Militärbasis seit: 1940er Jahre", "Länge der Eisenbahnstrecke: 14 km", "Postleitzahl: 6800"],
+      hu: ["Népesség (2011): kb. 7.000 fő", "Tengerszint feletti magasság: 5 m", "Távolság Szuhumitól: 30 km", "Katonai bázis: 1940-es évektől", "Vasútvonal hossza: 14 km", "Irányítószám: 6800"],
+      ro: ["Populație (2011): aprox. 7.000 locuitori", "Altitudine: 5 m", "Distanța până la Sukhumi: 30 km", "Bază militară din: anii 1940", "Lungimea liniei de cale ferată: 14 km", "Cod poștal: 6800"],
+      en: ["Population (2011): approx. 7,000", "Elevation: 5 m above sea level", "Distance to Sukhumi: 30 km", "Military base since: 1940s", "Railway line length: 14 km", "Postal code: 6800"],
+    },
+  },
+  {
+    id: "georgia-ochamchire-cities-v2",
+    type: "town",
+    name: { de: "Otschamtschire", hu: "Ocsamcsira", ro: "Ochamchire", en: "Ochamchire" },
+    coords: [41.4683, 42.7108],
+    description: {
+      de: "Otschamtschire ist eine Küstenstadt in Abchasien am Fluss Ghalidzsga, die für ihre antike Geschichte als griechische Kolonie bekannt ist.",
+      hu: "Ocsamcsira tengerparti város Abháziában a Ghalidzga folyónál, amely görög gyarmati múltjáról ismert.",
+      ro: "Ochamchire este un oraș de coastă în Abhazia, situat pe râul Ghalidzga, cunoscut pentru istoria sa ca fostă colonie greacă.",
+      en: "Ochamchire is a seaside town in Abkhazia on the Ghalidzga River, known for its ancient history as a Greek colony.",
+    },
+    facts: {
+      de: ["Identifiziert mit der antiken Stadt Gyenos", "Wichtiger Fischereihafen am Schwarzen Meer", "Hatte vor 1992 eine gemischte Bevölkerung", "Liegt 53 Kilometer südöstlich von Suchumi"],
+      hu: ["Az ókori Güenosz várossal azonosítják", "Fontos halászkikötő a Fekete-tengeren", "1992 előtt vegyes lakossága volt", "Szuhumitól 53 kilométerre délkeletre fekszik"],
+      ro: ["Identificat cu orașul antic Gyenos", "Port pescăresc important la Marea Neagră", "Avea o populație mixtă înainte de 1992", "Situat la 53 km sud-est de Sokhumi"],
+      en: ["Identified with the ancient city of Gyenos", "Major fishing port on the Black Sea", "Had a mixed population prior to 1992", "Located 53 kilometers southeast of Sokhumi"],
+    },
+    imageHint: "Ochamchire harbor and coastal area",
+    descriptionAdvanced: {
+      de: "Otschamtschire ist eine Stadt in der Autonomen Republik Abchasien, einer abtrünnigen Region Georgiens, an der Schwarzmeerküste. Sie liegt an der Mündung des Flusses Galidzga. Die Stadt war in der Sowjetzeit ein wichtiger Hafen für den Export von Manganerz aus Tschiatura. Die Bevölkerung betrug 2011 etwa 5.000, ein erheblicher Rückgang gegenüber der Vorkriegszeit. Die Wirtschaft ist nach dem Konflikt stark beeinträchtigt. Sehenswürdigkeiten sind der Botanische Garten und die Promenade.",
+      hu: "Ochamchire város a szakadár Abháziában, a Fekete-tenger partján, a Galidzga folyó torkolatánál. A szovjet időkben fontos kikötő volt a csiaturai mangánérc exportjához. Lakossága 2011-ben kb. 5.000 fő, jelentős csökkenés a háború előtti időkhöz képest. Gazdasága a konfliktus után súlyosan károsodott. Látnivalók: botanikus kert, tengerparti sétány.",
+      ro: "Ochamchire este un oraș în Republica Autonomă Abhazia, pe coasta Mării Negre, la vărsarea râului Galidzga. În perioada sovietică a fost un port important pentru exportul de minereu de mangan din Chiatura. Populația în 2011 era de aproximativ 5.000, o scădere semnificativă față de perioada de dinaintea războiului. Economia este grav afectată după conflict. Atracții: grădina botanică, faleza.",
+      en: "Ochamchire is a town in the Autonomous Republic of Abkhazia, on the Black Sea coast at the mouth of the Galidzga River. During Soviet times, it was a major port for exporting manganese ore from Chiatura. Population in 2011 was about 5,000, a significant decline from pre-war levels. The economy is severely impaired after the conflict. Attractions include a botanical garden and a promenade.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2011): ca. 5.000", "Höhe: 5 m über dem Meeresspiegel", "Hafen: Tiefgang 8 m", "Export von Manganerz: 200.000 t jährlich (sowjetisch)", "Entfernung nach Suchumi: 50 km", "Zerstörung im Krieg: 1992–1993"],
+      hu: ["Népesség (2011): kb. 5.000 fő", "Tengerszint feletti magasság: 5 m", "Kikötő merülése: 8 m", "Mangánérc export: évi 200.000 t (szovjet)", "Távolság Szuhumitól: 50 km", "Háborús pusztítás: 1992–1993"],
+      ro: ["Populație (2011): aprox. 5.000 locuitori", "Altitudine: 5 m", "Port: pescaj 8 m", "Export de minereu de mangan: 200.000 t anual (sovietic)", "Distanța până la Sukhumi: 50 km", "Distrugere în război: 1992–1993"],
+      en: ["Population (2011): approx. 5,000", "Elevation: 5 m above sea level", "Port draft: 8 m", "Manganese ore export: 200,000 t annually (Soviet)", "Distance to Sukhumi: 50 km", "War destruction: 1992–1993"],
+    },
+  },
+  {
+    id: "georgia-tsalenjikha-cities-v2",
+    type: "town",
+    name: { de: "Zalenjicha", hu: "Calendzsika", ro: "Tsalenjikha", en: "Tsalenjikha" },
+    coords: [42.0667, 42.7333],
+    description: {
+      de: "Zalenjicha ist eine Stadt in Mingrelien, gelegen am Fluss Tschaniszqali, bekannt für ihre mittelalterliche Kathedrale.",
+      hu: "Calendzsika város Samegrelo régióban, a Csaniszkali folyó partján, középkori székesegyházáról ismert.",
+      ro: "Tsalenjikha este un oraș din regiunea Samegrelo, situat pe râul Chanistskali, cunoscut pentru catedrala sa medievală.",
+      en: "Tsalenjikha is a town in the Samegrelo region, located on the Chanistskali River, famous for its medieval cathedral.",
+    },
+    facts: {
+      de: ["Sitz der Zalenjicha-Kathedrale aus dem 12. Jahrhundert", "Historische Residenz der Dadiani-Fürsten", "Erhielt im Jahr 1964 das Stadtrecht", "Zentrum des Tee- und Haselnussanbaus"],
+      hu: ["A 12. századi calendzsikai székesegyház helyszíne", "A Dadiani hercegek történelmi rezidenciája", "1964-ben kapott városi rangot", "Tea- és mogyorótermesztés központja"],
+      ro: ["Sediul Catedralei Tsalenjikha din secolul al XII-lea", "Reședință istorică a prinților Dadiani", "A primit statutul de oraș în 1964", "Centru pentru cultura ceaiului și alunelor"],
+      en: ["Site of the 12th-century Tsalenjikha Cathedral", "Historical residence of the Dadiani princes", "Granted city status in 1964", "Center for tea and hazelnut production"],
+    },
+    imageHint: "Tsalenjikha Cathedral exterior",
+    descriptionAdvanced: {
+      de: "Zalendschicha ist eine Kleinstadt in der Region Samegrelo-Zemo Swanetien im Westen Georgiens, etwa 30 km nordöstlich von Sugdidi. Sie liegt am Fluss Tscheniszqali. Die Bevölkerung betrug 2014 rund 4.000 Einwohner. Die Stadt ist bekannt für die Zalendschicha-Kathedrale (12. Jahrhundert) mit Fresken. Die Wirtschaft basiert auf Landwirtschaft, insbesondere Mais- und Weinanbau. In der Umgebung gibt es Kalksteinbrüche.",
+      hu: "Tsalenjikha város Nyugat-Grúziában, Samegrelo-Felső-Szvanéti régióban, Zugdidi-től 30 km-re északkeletre, a Tscheniszqali folyó mellett. Lakossága 2014-ben kb. 4.000 fő. Híres a 12. századi Tsalenjikha-székesegyházról, freskókkal. Gazdasága mezőgazdaságon, főként kukorica- és szőlőtermesztésen alapul. A környéken mészkőbányák találhatók.",
+      ro: "Tsalenjikha este un oraș mic în vestul Georgiei, în regiunea Samegrelo-Zemo Svaneti, la 30 km nord-est de Zugdidi, pe râul Tskhenistskali. Populația la recensământul din 2014 era de aproximativ 4.000 de locuitori. Este cunoscut pentru Catedrala Tsalenjikha (secolul al XII-lea) cu fresce. Economia se bazează pe agricultură, în special porumb și viță de vie. În zonă există cariere de calcar.",
+      en: "Tsalenjikha is a small town in western Georgia's Samegrelo-Zemo Svaneti region, 30 km northeast of Zugdidi, on the Tskhenistskali River. Population in 2014 was about 4,000. It is known for the Tsalenjikha Cathedral (12th century) with frescoes. The economy relies on agriculture, mainly corn and wine. The area has limestone quarries.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2014): ca. 4.000", "Höhe: 150 m über dem Meeresspiegel", "Bau der Kathedrale: 12. Jahrhundert", "Entfernung nach Sugdidi: 30 km", "Anzahl der Fresken: 25 Szenen", "Postleitzahl: 5201"],
+      hu: ["Népesség (2014): kb. 4.000 fő", "Tengerszint feletti magasság: 150 m", "Székesegyház építése: 12. század", "Távolság Zugdiditől: 30 km", "Freskók száma: 25 jelenet", "Irányítószám: 5201"],
+      ro: ["Populație (2014): aprox. 4.000 locuitori", "Altitudine: 150 m", "Construcția catedralei: secolul al XII-lea", "Distanța până la Zugdidi: 30 km", "Numărul de fresce: 25 de scene", "Cod poștal: 5201"],
+      en: ["Population (2014): approx. 4,000", "Elevation: 150 m above sea level", "Cathedral built: 12th century", "Distance to Zugdidi: 30 km", "Number of frescoes: 25 scenes", "Postal code: 5201"],
+    },
+  },
+  {
+    id: "georgia-martvili-cities-v2",
+    type: "town",
+    name: { de: "Martwili", hu: "Martvili", ro: "Martvili", en: "Martvili" },
+    coords: [42.3775, 42.4136],
+    description: {
+      de: "Martwili ist eine Stadt in Mingrelien, die für ihr bedeutendes Kloster auf einem Hügel und die Nähe zu spektakulären Schluchten bekannt ist.",
+      hu: "Martvili város Samegrelo régióban, amely dombtetőn álló monostoráról és a közeli látványos kanyonokról ismert.",
+      ro: "Martvili este un oraș din regiunea Samegrelo, cunoscut pentru mănăstirea sa importantă de pe deal și proximitatea față de canioane spectaculoase.",
+      en: "Martvili is a town in the Samegrelo region, known for its significant hilltop monastery and proximity to spectacular canyons.",
+    },
+    facts: {
+      de: ["Hieß während der Sowjetzeit Gegetschkori", "Das Kloster stammt aus dem 7. Jahrhundert", "Wichtiges religiöses Zentrum Westgeorgiens", "Erhielt im Jahr 1964 den Status einer Stadt"],
+      hu: ["A szovjet korszakban Gegecskori volt a neve", "A monostor a 7. századból származik", "Nyugat-Grúzia fontos vallási központja", "1964-ben kapott városi rangot"],
+      ro: ["Numit Gegechkori în perioada sovietică", "Mănăstirea datează din secolul al VII-lea", "Centru religios important în vestul Georgiei", "A primit statutul de oraș în 1964"],
+      en: ["Named Gegechkori during the Soviet era", "The monastery dates back to the 7th century", "Major religious center of Western Georgia", "Granted city status in 1964"],
+    },
+    imageHint: "Martvili Monastery on the hill",
+    descriptionAdvanced: {
+      de: "Martwili ist eine Kleinstadt in der Region Samegrelo-Zemo Swanetien im Westen Georgiens, etwa 30 km südlich von Sugdidi. Sie liegt am Fluss Abascha. Die Stadt ist bekannt für die Martwili-Kloster aus dem 7. Jahrhundert und den Martwili-Canyon, ein beliebtes Touristenziel. Die Bevölkerung betrug 2014 rund 3.000 Einwohner. Die Wirtschaft basiert auf Landwirtschaft, insbesondere Weinbau und Haselnussanbau. Der Canyon bietet Bootstouren.",
+      hu: "Martvili város Nyugat-Grúziában, Samegrelo-Felső-Szvanéti régióban, Zugdidi-től 30 km-re délre, az Abasa folyó mellett. Híres a 7. századi Martvili-kolostorról és a Martvili-szurdokról, népszerű turistacélpont. Lakossága 2014-ben kb. 3.000 fő. Gazdasága mezőgazdaságon, főként szőlő- és mogyorótermesztésen alapul. A szurdokban csónaktúrák lehetségesek.",
+      ro: "Martvili este un oraș mic în vestul Georgiei, în regiunea Samegrelo-Zemo Svaneti, la 30 km sud de Zugdidi, pe râul Abasha. Este cunoscut pentru Mănăstirea Martvili (secolul al VII-lea) și cheile Martvili, o destinație turistică populară. Populația la recensământul din 2014 era de aproximativ 3.000 de locuitori. Economia se bazează pe agricultură, în special viticultură și alune. Cheile oferă plimbări cu barca.",
+      en: "Martvili is a small town in western Georgia's Samegrelo-Zemo Svaneti region, 30 km south of Zugdidi, on the Abasha River. It is known for the 7th-century Martvili Monastery and the Martvili Canyon, a popular tourist attraction. Population in 2014 was about 3,000. The economy relies on agriculture, especially wine and hazelnuts. The canyon offers boat tours.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2014): ca. 3.000", "Höhe: 100 m über dem Meeresspiegel", "Bau des Klosters: 7. Jahrhundert", "Länge des Martwili-Canyons: 2,4 km", "Tiefe des Canyons: bis zu 40 m", "Entfernung nach Sugdidi: 30 km"],
+      hu: ["Népesség (2014): kb. 3.000 fő", "Tengerszint feletti magasság: 100 m", "Kolostor építése: 7. század", "Martvili-szurdok hossza: 2,4 km", "Szurdok mélysége: akár 40 m", "Távolság Zugdiditől: 30 km"],
+      ro: ["Populație (2014): aprox. 3.000 locuitori", "Altitudine: 100 m", "Construcția mănăstirii: secolul al VII-lea", "Lungimea cheilor Martvili: 2,4 km", "Adâncimea cheilor: până la 40 m", "Distanța până la Zugdidi: 30 km"],
+      en: ["Population (2014): approx. 3,000", "Elevation: 100 m above sea level", "Monastery built: 7th century", "Martvili Canyon length: 2.4 km", "Canyon depth: up to 40 m", "Distance to Zugdidi: 30 km"],
+    },
+  },
+  {
+    id: "georgia-khobi-cities-v2",
+    type: "town",
+    name: { de: "Chobi", hu: "Hobi", ro: "Khobi", en: "Khobi" },
+    coords: [41.8986, 42.3167],
+    description: {
+      de: "Chobi ist eine Stadt in der Region Mingrelien und Oberswanetien, gelegen am gleichnamigen Fluss in der Kolchis-Ebene.",
+      hu: "Hobi város Samegrelo-Zemo Svaneti régióban, az azonos nevű folyó partján, a Kolkhiszi-alföldön.",
+      ro: "Khobi este un oraș din regiunea Samegrelo-Zemo Svaneti, situat pe râul cu același nume în câmpia Colchis.",
+      en: "Khobi is a town in the Samegrelo-Zemo Svaneti region, located on the river of the same name in the Colchis Lowland.",
+    },
+    facts: {
+      de: ["Das Kloster Nojikhevi liegt in der Nähe", "Erhielt im Jahr 1981 das Stadtrecht", "Wichtiger Verkehrsknotenpunkt nach Poti", "Zentrum für landwirtschaftliche Verarbeitung"],
+      hu: ["A közelben található a Nojihevi monostor", "1981-ben kapott városi rangot", "Fontos közlekedési csomópont Poti felé", "Mezőgazdasági feldolgozó központ"],
+      ro: ["Mănăstirea Nojikhevi se află în apropiere", "A primit statutul de oraș în 1981", "Nod rutier important către Poti", "Centru pentru prelucrarea agricolă"],
+      en: ["Nojikhevi Monastery is located nearby", "Granted city status in 1981", "Important transport hub toward Poti", "Center for agricultural processing"],
+    },
+    imageHint: "Khobi town main square",
+    descriptionAdvanced: {
+      de: "Chobi ist eine Kleinstadt in der Region Samegrelo-Zemo Swanetien im Westen Georgiens, etwa 20 km südwestlich von Sugdidi. Sie liegt am Fluss Chobi. Die Stadt ist landwirtschaftlich geprägt, mit Schwerpunkt auf Mais-, Tabak- und Teeanbau. Die Bevölkerung betrug 2014 rund 2.500 Einwohner. In der Nähe befindet sich das Chobi-Kloster (13. Jahrhundert). Die Wirtschaft umfasst auch die Lebensmittelverarbeitung.",
+      hu: "Khobi város Nyugat-Grúziában, Samegrelo-Felső-Szvanéti régióban, Zugdidi-től 20 km-re délnyugatra, a Khobi folyó mellett. Mezőgazdasági jellegű, kukorica-, dohány- és teatermesztés jellemző. Lakossága 2014-ben kb. 2.500 fő. A közelben található a 13. századi Khobi-kolostor. Gazdasága élelmiszer-feldolgozást is magában foglal.",
+      ro: "Khobi este un oraș mic în vestul Georgiei, în regiunea Samegrelo-Zemo Svaneti, la 20 km sud-vest de Zugdidi, pe râul Khobi. Este o zonă agricolă, cu culturi de porumb, tutun și ceai. Populația la recensământul din 2014 era de aproximativ 2.500 locuitori. În apropiere se află Mănăstirea Khobi (secolul al XIII-lea). Economia include și procesarea alimentelor.",
+      en: "Khobi is a small town in western Georgia's Samegrelo-Zemo Svaneti region, 20 km southwest of Zugdidi, on the Khobi River. It is an agricultural area, with corn, tobacco, and tea cultivation. Population in 2014 was about 2,500. Nearby is the Khobi Monastery (13th century). The economy also includes food processing.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2014): ca. 2.500", "Höhe: 15 m über dem Meeresspiegel", "Bau des Klosters: 13. Jahrhundert", "Entfernung nach Sugdidi: 20 km", "Fläche: 8,5 km²", "Postleitzahl: 5202"],
+      hu: ["Népesség (2014): kb. 2.500 fő", "Tengerszint feletti magasság: 15 m", "Kolostor építése: 13. század", "Távolság Zugdiditől: 20 km", "Terület: 8,5 km²", "Irányítószám: 5202"],
+      ro: ["Populație (2014): aprox. 2.500 locuitori", "Altitudine: 15 m", "Construcția mănăstirii: secolul al XIII-lea", "Distanța până la Zugdidi: 20 km", "Suprafață: 8,5 km²", "Cod poștal: 5202"],
+      en: ["Population (2014): approx. 2,500", "Elevation: 15 m above sea level", "Monastery built: 13th century", "Distance to Zugdidi: 20 km", "Area: 8.5 km²", "Postal code: 5202"],
+    },
+  },
+  {
+    id: "georgia-terjola-cities-v2",
+    type: "town",
+    name: { de: "Terschola", hu: "Terdzsola", ro: "Terjola", en: "Terjola" },
+    coords: [42.9833, 42.1833],
+    description: {
+      de: "Terschola ist eine Kleinstadt in der Region Imeretien, gelegen am Fluss Tschchari in einem hügeligen Gelände.",
+      hu: "Terdzsola kisváros Imereti régióban, a Cshari folyó mentén, dombos vidéken.",
+      ro: "Terjola este un orășel din regiunea Imereti, situat pe râul Chkhari într-o zonă deluroasă.",
+      en: "Terjola is a small town in the Imereti region, located on the Chkhari River in a hilly terrain.",
+    },
+    facts: {
+      de: ["Wurde im Jahr 1983 zur Stadt ernannt", "Bekannt für Weinbau und Obstanbau", "Liegt an der Autobahn Tiflis-Kutaisi", "Zentrum des Terjola-Distrikts"],
+      hu: ["1983-ban nyilvánították várossá", "Bortermeléséről és gyümölcsöseiről ismert", "A Tbiliszi-Kutaiszi autópálya mentén fekszik", "A Terdzsola járás központja"],
+      ro: ["Declarat oraș în anul 1983", "Cunoscut pentru viticultură și livezi", "Situat pe autostrada Tbilisi-Kutaisi", "Centrul districtului Terjola"],
+      en: ["Declared a city in 1983", "Known for viticulture and fruit orchards", "Located on the Tbilisi-Kutaisi highway", "Center of the Terjola district"],
+    },
+    imageHint: "Terjola town entrance and hills",
+    descriptionAdvanced: {
+      de: "Tersjola ist eine Kleinstadt in der Region Imeretien im Westen Georgiens, etwa 20 km nordwestlich von Kutaissi. Sie liegt am Fluss Tscholaburi. Die Bevölkerung betrug 2014 rund 4.000 Einwohner. Die Stadt ist bekannt für die Tersjola-Kirche aus dem 19. Jahrhundert. Die Wirtschaft basiert auf Landwirtschaft, insbesondere Weinbau und Obstanbau. In der Umgebung gibt es Kalksteinvorkommen.",
+      hu: "Terjola város Nyugat-Grúziában, Imereti régióban, Kutaisszitól 20 km-re északnyugatra, a Csolaburi folyó mellett. Lakossága 2014-ben kb. 4.000 fő. Híres a 19. századi Terjola-templomról. Gazdasága mezőgazdaságon, főként szőlő- és gyümölcstermesztésen alapul. A környéken mészkőlelőhelyek találhatók.",
+      ro: "Terjola este un oraș mic în vestul Georgiei, în regiunea Imeretia, la 20 km nord-vest de Kutaisi, pe râul Cholaburi. Populația la recensământul din 2014 era de aproximativ 4.000 de locuitori. Este cunoscut pentru Biserica Terjola din secolul al XIX-lea. Economia se bazează pe agricultură, în special viticultură și fructe. În zonă există zăcăminte de calcar.",
+      en: "Terjola is a small town in western Georgia's Imereti region, 20 km northwest of Kutaisi, on the Cholaburi River. Population in 2014 was about 4,000. It is known for the 19th-century Terjola Church. The economy relies on agriculture, especially viticulture and fruit growing. The area has limestone deposits.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2014): ca. 4.000", "Höhe: 180 m über dem Meeresspiegel", "Bau der Kirche: 19. Jahrhundert", "Entfernung nach Kutaissi: 20 km", "Durchschnittstemperatur im Juli: 23 °C", "Postleitzahl: 1901"],
+      hu: ["Népesség (2014): kb. 4.000 fő", "Tengerszint feletti magasság: 180 m", "Templom építése: 19. század", "Távolság Kutaisszitól: 20 km", "Júliusi átlaghőmérséklet: 23 °C", "Irányítószám: 1901"],
+      ro: ["Populație (2014): aprox. 4.000 locuitori", "Altitudine: 180 m", "Construcția bisericii: secolul al XIX-lea", "Distanța până la Kutaisi: 20 km", "Temperatura medie în iulie: 23 °C", "Cod poștal: 1901"],
+      en: ["Population (2014): approx. 4,000", "Elevation: 180 m above sea level", "Church built: 19th century", "Distance to Kutaisi: 20 km", "Average July temperature: 23 °C", "Postal code: 1901"],
+    },
+  },
+  {
+    id: "georgia-baghdati-cities-v2",
+    type: "town",
+    name: { de: "Baghdati", hu: "Bagdati", ro: "Baghdati", en: "Baghdati" },
+    coords: [42.8167, 42.0667],
+    description: {
+      de: "Baghdati ist eine Stadt in Imeretien, am Rande des Adschara-Imereti-Gebirges, bekannt als Geburtsort des Dichters Wladimir Majakowski.",
+      hu: "Bagdati város Imereti régióban, az Adzsara-Imereti hegység szélén, Vlagyimir Majakovszkij költő szülőhelyeként ismert.",
+      ro: "Baghdati este un oraș din Imereti, la marginea Munților Adjara-Imereti, cunoscut drept locul de naștere al poetului Vladimir Maiakovski.",
+      en: "Baghdati is a town in Imereti, at the edge of the Adjara-Imereti Range, known as the birthplace of poet Vladimir Mayakovsky.",
+    },
+    facts: {
+      de: ["Hieß von 1940 bis 1991 Majakowski", "Beherbergt das Majakowski-Museum", "Zentrum einer bedeutenden Weinregion", "Liegt 25 Kilometer südlich von Kutaisi"],
+      hu: ["1940 és 1991 között Majakovszkij volt a neve", "Itt található a Majakovszkij-múzeum", "Egy jelentős borvidék központja", "Kutaiszitól 25 kilométerre délre fekszik"],
+      ro: ["Numit Mayakovsky între 1940 și 1991", "Găzduiește muzeul Vladimir Mayakovsky", "Centrul unei regiuni viticole importante", "Situat la 25 km sud de Kutaisi"],
+      en: ["Named Mayakovsky from 1940 to 1991", "Home to the Vladimir Mayakovsky museum", "Center of a prominent wine region", "Located 25 kilometers south of Kutaisi"],
+    },
+    imageHint: "Baghdati town square and museum",
+    descriptionAdvanced: {
+      de: "Baghdati (früher Makarow) ist eine Kleinstadt in der Region Imeretien im Westen Georgiens, etwa 30 km südwestlich von Kutaissi. Sie liegt am Fluss Chaniszqali. Die Stadt ist bekannt für die Baghdati-Kathedrale (11. Jahrhundert) und als Geburtsort des georgischen Dichters Dawit Guramischwili. Die Bevölkerung betrug 2014 rund 3.000 Einwohner. Die Wirtschaft basiert auf Landwirtschaft, Weinbau und Tourismus. In der Umgebung gibt es Mineralquellen.",
+      hu: "Baghdati (korábban Makarov) város Nyugat-Grúziában, Imereti régióban, Kutaisszitól 30 km-re délnyugatra, a Haniszqali folyó mellett. Híres a 11. századi Baghdati-székesegyházról, és David Guramisvili grúz költő szülőhelye. Lakossága 2014-ben kb. 3.000 fő. Gazdasága mezőgazdaságon, bortermelésen és turizmuson alapul. A környéken ásványvízforrások találhatók.",
+      ro: "Baghdati (cunoscut anterior ca Makarov) este un oraș mic în vestul Georgiei, în regiunea Imeretia, la 30 km sud-vest de Kutaisi, pe râul Khanistskali. Este cunoscut pentru Catedrala Baghdati (secolul al XI-lea) și ca locul de naștere al poetului georgian Davit Guramishvili. Populația la recensământul din 2014 era de aproximativ 3.000 de locuitori. Economia se bazează pe agricultură, viticultură și turism. În zonă există izvoare minerale.",
+      en: "Baghdati (formerly Makarov) is a small town in western Georgia's Imereti region, 30 km southwest of Kutaisi, on the Khanistskali River. It is known for the 11th-century Baghdati Cathedral and as the birthplace of Georgian poet Davit Guramishvili. Population in 2014 was about 3,000. The economy is based on agriculture, wine production, and tourism. The area has mineral springs.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2014): ca. 3.000", "Höhe: 200 m über dem Meeresspiegel", "Bau der Kathedrale: 11. Jahrhundert", "Entfernung nach Kutaissi: 30 km", "Geburtsjahr von Dawit Guramischwili: 1705", "Anzahl der Mineralquellen: 3"],
+      hu: ["Népesség (2014): kb. 3.000 fő", "Tengerszint feletti magasság: 200 m", "Székesegyház építése: 11. század", "Távolság Kutaisszitól: 30 km", "David Guramisvili születési éve: 1705", "Ásványvízforrások száma: 3"],
+      ro: ["Populație (2014): aprox. 3.000 locuitori", "Altitudine: 200 m", "Construcția catedralei: secolul al XI-lea", "Distanța până la Kutaisi: 30 km", "Anul nașterii lui Davit Guramishvili: 1705", "Numărul izvoarelor minerale: 3"],
+      en: ["Population (2014): approx. 3,000", "Elevation: 200 m above sea level", "Cathedral built: 11th century", "Distance to Kutaisi: 30 km", "Birth year of Davit Guramishvili: 1705", "Number of mineral springs: 3"],
+    },
+  },
+  {
+    id: "georgia-vani-cities-v2",
+    type: "town",
+    name: { de: "Wani", hu: "Vani", ro: "Vani", en: "Vani" },
+    coords: [42.5, 42.0833],
+    description: {
+      de: "Wani ist eine Kleinstadt in Imeretien, die für ihre bedeutenden archäologischen Ausgrabungen einer antiken kolchischen Stadt weltberühmt ist.",
+      hu: "Vani kisváros Imereti régióban, amely egy ókori kolkhiszi város jelentős régészeti feltárásairól világhírű.",
+      ro: "Vani este un orășel din Imereti, renumit mondial pentru excavațiile arheologice ale unui oraș antic colchic.",
+      en: "Vani is a small town in the Imereti region, world-famous for its major archaeological excavations of an ancient Colchian city.",
+    },
+    facts: {
+      de: ["War ein religiöses Zentrum von Kolchis", "Besitzt ein modernes archäologisches Museum", "Wurde im Jahr 1981 zur Stadt ernannt", "Bekannt für den Schatz von Wani"],
+      hu: ["Kolkhisz egyik vallási központja volt", "Modern régészeti múzeuma van", "1981-ben nyilvánították várossá", "A vani kincsről híres"],
+      ro: ["A fost un centru religios al Colchidei", "Dispune de un muzeu arheologic modern", "Declarat oraș în anul 1981", "Faimos pentru tezaurul de aur de la Vani"],
+      en: ["Was a religious center of ancient Colchis", "Home to a modern archaeological museum", "Granted city status in 1981", "Famous for the 'Vani Hoard' of gold jewelry"],
+    },
+    imageHint: "Vani Archaeological Museum building",
+    descriptionAdvanced: {
+      de: "Vani ist eine Stadt in der Region Imeretien im Westen Georgiens, die vor allem für ihre archäologische Bedeutung bekannt ist. Die antike Siedlung war ein bedeutendes Zentrum der Kolchis-Kultur und florierte zwischen dem 8. und 1. Jahrhundert v. Chr. Die Ausgrabungen legten reiche Gräber mit Goldschmuck, Keramik und Waffen frei, die auf enge Handelsbeziehungen mit der griechischen Welt hinweisen. Die Funde werden im Vani-Archäologiemuseum präsentiert, das 1985 eröffnet wurde. Die moderne Stadt hat etwa 3.800 Einwohner und ist ein regionales Zentrum für Landwirtschaft und Weinbau. Die Umgebung ist geprägt von Hügeln und Flüssen, was die Stadt zu einem malerischen Ziel macht.",
+      hu: "Vani városa Georgia nyugati részén, Imereti régióban található, és elsősorban ókori régészeti lelőhelyeiről híres. A település a kolchiszi kultúra fontos központja volt az i. e. 8. és 1. század között. A feltárások során arany ékszereket, kerámiákat és fegyvereket találtak, amelyek a görög világgal való kereskedelmi kapcsolatokra utalnak. A leletek a Vani Régészeti Múzeumban tekinthetők meg, amely 1985-ben nyílt meg. A modern Vani mintegy 3800 lakosú város, amely mezőgazdasági és borászati központként szolgál. A környék dombos tájai és folyói festői környezetet biztosítanak.",
+      ro: "Vani este un oraș în regiunea Imereti, vestul Georgiei, renumit pentru situl său arheologic antic. Așezarea a fost un centru major al culturii Colchis, între secolele VIII și I î.Hr. Săpăturile au scos la lumină morminte bogate cu bijuterii de aur, ceramică și arme, indicând legături comerciale cu lumea greacă. Obiectele sunt expuse la Muzeul Arheologic Vani, deschis în 1985. Orașul modern are aproximativ 3.800 de locuitori și este un centru agricol și viticol. Peisajul colinar și râurile din jur fac din Vani o destinație pitorească.",
+      en: "Vani is a town in western Georgia's Imereti region, renowned for its ancient archaeological site. The settlement was a major center of the Colchis culture, flourishing between the 8th and 1st centuries BC. Excavations have revealed rich tombs with gold jewelry, pottery, and weapons, indicating trade ties with the Greek world. Artifacts are displayed at the Vani Archaeological Museum, opened in 1985. The modern town has a population of about 3,800 and serves as an agricultural and winemaking hub. The surrounding hills and rivers create a scenic landscape.",
+    },
+    factsAdvanced: {
+      de: ["Die antike Siedlung Vani blühte zwischen dem 8. und 1. Jahrhundert v. Chr.", "Die Ausgrabungen haben über 10.000 archäologische Objekte zutage gefördert.", "Das Vani-Archäologiemuseum wurde 1985 eröffnet.", "Die Stadt liegt auf einer Höhe von etwa 60 Metern über dem Meeresspiegel.", "Die Einwohnerzahl von Vani beträgt rund 3.800 (Stand 2014).", "Die Fläche des Stadtgebiets beträgt etwa 5 km²."],
+      hu: ["Vani ókori települése a Kolchisz-kultúra központja volt az i. e. 8. századtól.", "A feltárások során arany ékszerek, köztük diadémák és fülbevalók kerültek elő.", "A Vani Régészeti Múzeum gyűjteménye több mint 10 000 tárgyat számlál.", "A város tengerszint feletti magassága körülbelül 60 méter.", "Vani lakossága 2014-ben 3 800 fő volt.", "A város területe 5 négyzetkilométer."],
+      ro: ["Situl arheologic Vani datează din secolele VIII-I î.Hr.", "Au fost descoperite peste 10.000 de artefacte, inclusiv bijuterii din aur.", "Muzeul Arheologic Vani a fost fondat în anul 1985.", "Orașul se află la o altitudine de aproximativ 60 de metri.", "Populația orașului Vani este de circa 3.800 de locuitori (recensământul din 2014).", "Suprafața orașului este de 5 km²."],
+      en: ["Vani's ancient settlement dates from the 8th to 1st centuries BC.", "Over 10,000 artifacts have been excavated from the site.", "The Vani Archaeological Museum opened in 1985.", "The town sits at an elevation of about 60 meters above sea level.", "Vani's population was approximately 3,800 as of the 2014 census.", "The town covers an area of 5 square kilometers."],
+    },
+  },
+  {
+    id: "georgia-kareli-cities-v2",
+    type: "town",
+    name: { de: "Kareli", hu: "Kareli", ro: "Kareli", en: "Kareli" },
+    coords: [43.8967, 42.0233],
+    description: {
+      de: "Kareli ist eine Stadt in Innerkartlien, am rechten Ufer des Flusses Kura, bekannt für ihre Landwirtschaft und historischen Denkmäler.",
+      hu: "Kareli város Belső-Kartli régióban, a Kura folyó jobb partján, mezőgazdaságáról és történelmi emlékeiről ismert.",
+      ro: "Kareli este un oraș din regiunea Shida Kartli, pe malul drept al râului Kura, cunoscut pentru agricultură și monumente istorice.",
+      en: "Kareli is a town in the Shida Kartli region, on the right bank of the Kura River, known for its agriculture and historical monuments.",
+    },
+    facts: {
+      de: ["Erhielt im Jahr 1981 das Stadtrecht", "Besitzt eine bedeutende Zuckerfabrik", "In der Nähe liegt das Dzama-Tal mit Klöstern", "Wichtiger Bahnhof an der Hauptstrecke"],
+      hu: ["1981-ben kapott városi rangot", "Jelentős cukorgyára van", "A közeli Dzama-völgy kolostorokban gazdag", "Fontos vasútállomás a fővonalon"],
+      ro: ["A primit statutul de oraș în 1981", "Dispune de o fabrică importantă de zahăr", "Valea Dzama din apropiere are multe mănăstiri", "Gară importantă pe linia principală"],
+      en: ["Granted city status in 1981", "Home to a major sugar factory", "Nearby Dzama Valley is rich in monasteries", "Important station on the main railway line"],
+    },
+    imageHint: "Kareli town view with Kura river",
+    descriptionAdvanced: {
+      de: "Kareli ist eine Stadt in der Region Innerkartlien in Zentralgeorgien, etwa 90 km westlich von Tiflis. Die Stadt dient als Verwaltungszentrum des gleichnamigen Distrikts und hat etwa 7.000 Einwohner. Kareli liegt im Tal des Flusses Kura auf einer Höhe von rund 620 Metern. Historisch war die Region Teil des Königreichs Kartlien. In der Sowjetzeit entwickelte sich Kareli zu einem industriellen Zentrum mit Betrieben der Lebensmittelverarbeitung und des Maschinenbaus. Seit der Unabhängigkeit Georgiens hat die Stadt einen wirtschaftlichen Wandel durchgemacht und setzt vermehrt auf Landwirtschaft und Weinbau. In der Umgebung befinden sich mehrere mittelalterliche Kirchen und Festungen.",
+      hu: "Kareli város Közép-Georgiában, Belső-Kartli régióban található, mintegy 90 km-re nyugatra Tbiliszitől. A város a Kareli járás közigazgatási központja, lakossága körülbelül 7000 fő. A Kura folyó völgyében, 620 méteres tengerszint feletti magasságban fekszik. Történelmileg a Kartli Királyság része volt. A szovjet időkben Kareli ipari központtá vált, élelmiszer-feldolgozó és gépgyártó üzemekkel. A függetlenné válás után a gazdaság áttért a mezőgazdaságra és a borászatra. A környéken számos középkori templom és erőd található.",
+      ro: "Kareli este un oraș în Georgia centrală, în regiunea Shida Kartli, la aproximativ 90 km vest de Tbilisi. Orașul este centrul administrativ al districtului Kareli, cu o populație de aproximativ 7.000 de locuitori. Este situat în valea râului Kura, la o altitudine de 620 de metri. Din punct de vedere istoric, a făcut parte din Regatul Kartli. În perioada sovietică, Kareli a devenit un centru industrial cu fabrici de prelucrare a alimentelor și de construcții de mașini. După independență, economia s-a reorientat către agricultură și viticultură. În jur se găsesc biserici și cetăți medievale.",
+      en: "Kareli is a town in central Georgia's Shida Kartli region, about 90 km west of Tbilisi. It serves as the administrative center of the Kareli District with a population of around 7,000. The town lies in the Kura River valley at an elevation of 620 meters. Historically part of the Kingdom of Kartli, Kareli developed into an industrial hub during the Soviet era, with food processing and machinery plants. After independence, the economy shifted toward agriculture and winemaking. The area features several medieval churches and fortresses.",
+    },
+    factsAdvanced: {
+      de: ["Kareli liegt etwa 90 km westlich von Tiflis.", "Die Höhe über dem Meeresspiegel beträgt rund 620 Meter.", "Die Einwohnerzahl beträgt etwa 7.000 (Stand 2014).", "Das Stadtgebiet erstreckt sich auf einer Fläche von 8 km².", "Die Stadt war in der Sowjetzeit ein Zentrum der Lebensmittelindustrie.", "In der Umgebung befinden sich die Ruinen der Festung Kareli aus dem 18. Jahrhundert."],
+      hu: ["Kareli 90 km-re nyugatra található Tbiliszitől.", "A város tengerszint feletti magassága 620 méter.", "Lakossága 2014-ben 7000 fő volt.", "Kareli területe 8 négyzetkilométer.", "A szovjet időkben gépgyártó üzem is működött itt.", "A közeli Kareli-erőd a 18. században épült."],
+      ro: ["Kareli se află la 90 km vest de Tbilisi.", "Altitudinea orașului este de 620 de metri.", "Populația este de aproximativ 7.000 de locuitori (2014).", "Orașul are o suprafață de 8 km².", "În perioada sovietică existau fabrici de utilaje agricole.", "Cetatea Kareli datează din secolul al XVIII-lea."],
+      en: ["Kareli is located 90 km west of Tbilisi.", "The town's elevation is 620 meters above sea level.", "Population is approximately 7,000 (2014 census).", "The area of Kareli is 8 km².", "During Soviet times, it had a machinery plant.", "The Kareli Fortress dates back to the 18th century."],
+    },
+  },
+  {
+    id: "georgia-tsalka-cities-v2",
+    type: "town",
+    name: { de: "Zalka", hu: "Calka", ro: "Tsalka", en: "Tsalka" },
+    coords: [44.0911, 41.5939],
+    description: {
+      de: "Zalka ist eine Stadt in der Region Niederkartlien, gelegen am Zalka-Stausee auf dem Plateau von Trialeti.",
+      hu: "Calka város Alsó-Kartli régióban, a Calkai-víztározó partján, a Trialeti-fennsíkon fekszik.",
+      ro: "Tsalka este un oraș din regiunea Kvemo Kartli, situat pe malul rezervorului Tsalka, pe platoul Trialeti.",
+      en: "Tsalka is a town in the Kvemo Kartli region, located on the shores of the Tsalka Reservoir on the Trialeti Plateau.",
+    },
+    facts: {
+      de: ["Historisch besiedelt von kaukasischen Griechen", "Liegt auf 1500 Metern über dem Meer", "In der Nähe befindet sich der Daschbaschi-Canyon", "Klima ist durch kühle Sommer geprägt"],
+      hu: ["Történelmileg kaukázusi görögök lakták", "1500 méteres magasságban található", "A közelben van a Dasbasi-kanyon", "Éghajlatát hűvös nyarak jellemzik"],
+      ro: ["Populat istoric de greci caucazieni", "Situat la 1500 de metri altitudine", "Canyonul Dashbashi se află în apropiere", "Climatul este marcat de veri răcoroase"],
+      en: ["Historically populated by Caucasian Greeks", "Located at 1500 meters above sea level", "Nearby features the Dashbashi Canyon", "Climate is characterized by cool summers"],
+    },
+    imageHint: "Tsalka town near the reservoir",
+    descriptionAdvanced: {
+      de: "Zalka ist eine Stadt in der Region Niederkartlien im Süden Georgiens, etwa 80 km südwestlich von Tiflis. Sie liegt auf dem Zalka-Plateau auf einer Höhe von etwa 1.500 Metern und hat rund 2.000 Einwohner. Die Stadt war historisch ein Zentrum der griechischen Gemeinde in Georgien, die im 19. Jahrhundert einwanderte. Heute ist die Bevölkerung multiethnisch mit Georgiern, Armeniern und Griechen. Die Wirtschaft basiert auf Landwirtschaft, insbesondere Kartoffel- und Getreideanbau, sowie Viehzucht. In der Umgebung gibt es mehrere Seen, darunter der Zalka-Stausee, der zur Bewässerung genutzt wird.",
+      hu: "Calka városa Dél-Georgiában, Alsó-Kartli régióban található, mintegy 80 km-re délnyugatra Tbiliszitől. A Calka-fennsíkon fekszik, 1500 méteres tengerszint feletti magasságban, lakossága körülbelül 2000 fő. Történelmileg a grúziai görög közösség központja volt, akik a 19. században vándoroltak be. Ma a lakosság multietnikus: grúzok, örmények és görögök. A gazdaság a mezőgazdaságra épül, főként burgonya- és gabonatermesztés, valamint állattenyésztés. A környéken tavak találhatók, köztük a Calka-víztározó.",
+      ro: "Tsalka este un oraș în sudul Georgiei, în regiunea Kvemo Kartli, la aproximativ 80 km sud-vest de Tbilisi. Este situat pe Platoul Tsalka, la o altitudine de 1.500 de metri, cu o populație de circa 2.000 de locuitori. Din punct de vedere istoric, a fost un centru al comunității grecești din Georgia, sosite în secolul al XIX-lea. Astăzi, populația este multi-etnică, incluzând georgieni, armeni și greci. Economia se bazează pe agricultură, în special cartofi și cereale, și creșterea animalelor. În zonă se află lacuri, inclusiv Lacul de acumulare Tsalka.",
+      en: "Tsalka is a town in southern Georgia's Kvemo Kartli region, about 80 km southwest of Tbilisi. It lies on the Tsalka Plateau at an elevation of 1,500 meters, with a population of around 2,000. Historically, it was a center of the Greek community in Georgia, who immigrated in the 19th century. Today, the population is multi-ethnic, including Georgians, Armenians, and Greeks. The economy relies on agriculture, mainly potatoes and grains, and livestock. Nearby lakes include the Tsalka Reservoir used for irrigation.",
+    },
+    factsAdvanced: {
+      de: ["Zalka liegt auf einer Höhe von etwa 1.500 Metern.", "Die Einwohnerzahl beträgt rund 2.000 (Stand 2014).", "Die Stadt wurde im 19. Jahrhundert von griechischen Einwanderern gegründet.", "Der Zalka-Stausee hat eine Fläche von 3,5 km².", "Die Region ist bekannt für den Anbau von Kartoffeln und Getreide.", "Die Entfernung nach Tiflis beträgt etwa 80 km."],
+      hu: ["Calka tengerszint feletti magassága 1500 méter.", "Lakossága 2014-ben 2000 fő volt.", "A várost a 19. században görög bevándorlók alapították.", "A Calka-víztározó területe 3,5 négyzetkilométer.", "A térségben burgonya- és gabonatermesztés folyik.", "Távolsága Tbiliszitől 80 km."],
+      ro: ["Tsalka este situat la 1.500 de metri altitudine.", "Populația este de aproximativ 2.000 de locuitori (2014).", "Orașul a fost fondat de imigranți greci în secolul al XIX-lea.", "Lacul de acumulare Tsalka are o suprafață de 3,5 km².", "Regiunea este cunoscută pentru culturile de cartofi și cereale.", "Distanța până la Tbilisi este de 80 km."],
+      en: ["Tsalka's elevation is 1,500 meters above sea level.", "Population is around 2,000 (2014 census).", "The town was founded by Greek immigrants in the 19th century.", "Tsalka Reservoir covers an area of 3.5 km².", "The area is known for potato and grain cultivation.", "Distance to Tbilisi is 80 km."],
+    },
+  },
+  {
+    id: "georgia-dmanisi-cities-v2",
+    type: "town",
+    name: { de: "Dmanissi", hu: "Dmaniszi", ro: "Dmanisi", en: "Dmanisi" },
+    coords: [44.2047, 41.3314],
+    description: {
+      de: "Dmanissi ist eine Kleinstadt in Niederkartlien, die durch den Fund der ältesten Hominidenfossilien außerhalb Afrikas weltberühmt wurde.",
+      hu: "Dmaniszi kisváros Alsó-Kartli régióban, amely az Afrikán kívüli legősibb emberelőd-leletek révén vált világhírűvé.",
+      ro: "Dmanisi este un orășel din Kvemo Kartli, devenit faimos mondial datorită descoperirii celor mai vechi fosile umane din afara Africii.",
+      en: "Dmanisi is a small town in Kvemo Kartli, famous worldwide for the discovery of the oldest hominid fossils outside of Africa.",
+    },
+    facts: {
+      de: ["Sitz der mittelalterlichen Dmanissi-Sioni-Kirche", "Die archäologische Stätte ist 1,8 Millionen Jahre alt", "Historisch ein wichtiger Halt an der Seidenstraße", "Erhielt im Jahr 1981 den Stadtstatus"],
+      hu: ["A középkori Dmaniszi Szioni-templom székhelye", "Régészeti lelőhelye 1,8 millió éves", "Történelmileg a Selyemút fontos állomása", "1981-ben kapott városi rangot"],
+      ro: ["Sediul bisericii medievale Dmanisi Sioni", "Situl arheologic are o vechime de 1,8 milioane ani", "Istoric, un punct important pe Drumul Mătăsii", "A primit statutul de oraș în 1981"],
+      en: ["Home to the medieval Dmanisi Sioni church", "The archaeological site is 1.8 million years old", "Historically a major stop on the Silk Road", "Granted city status in 1981"],
+    },
+    imageHint: "Dmanisi archaeological site and ruins",
+    descriptionAdvanced: {
+      de: "Dmanisi ist eine Stadt in der Region Niederkartlien im Süden Georgiens, etwa 93 km südwestlich von Tiflis. Sie liegt am Fluss Mashavera auf einer Höhe von rund 950 Metern. Die Stadt ist berühmt für die Dmanisi-Archäologiestätte, wo 1991 die Überreste eines frühen Homininen (Homo erectus) entdeckt wurden, die auf etwa 1,8 Millionen Jahre datiert werden. Diese Funde gelten als die ältesten Homininenfunde außerhalb Afrikas. Die moderne Stadt hat etwa 3.000 Einwohner und ist ein landwirtschaftliches Zentrum. Die Umgebung ist geprägt von Schluchten und Hochebenen.",
+      hu: "Dmanisi városa Dél-Georgiában, Alsó-Kartli régióban található, mintegy 93 km-re délnyugatra Tbiliszitől. A Mashavera folyó mellett, 950 méteres tengerszint feletti magasságban fekszik. A város híres a Dmanisi régészeti lelőhelyről, ahol 1991-ben Homo erectus maradványokat találtak, amelyek körülbelül 1,8 millió évesek. Ezek a legidősebb emberelőd-leletek Afrikán kívül. A modern város lakossága mintegy 3000 fő, mezőgazdasági központ. A környéken szurdokok és fennsíkok találhatók.",
+      ro: "Dmanisi este un oraș în sudul Georgiei, în regiunea Kvemo Kartli, la aproximativ 93 km sud-vest de Tbilisi. Este situat pe râul Mashavera, la o altitudine de 950 de metri. Orașul este faimos pentru situl arheologic Dmanisi, unde în 1991 au fost descoperite rămășițe de Homo erectus datând de aproximativ 1,8 milioane de ani, cele mai vechi hominide din afara Africii. Orașul modern are circa 3.000 de locuitori și este un centru agricol. Zona este caracterizată de chei și podișuri.",
+      en: "Dmanisi is a town in southern Georgia's Kvemo Kartli region, about 93 km southwest of Tbilisi. It lies on the Mashavera River at an elevation of 950 meters. The town is famous for the Dmanisi archaeological site, where in 1991, early hominin remains (Homo erectus) were discovered, dated to about 1.8 million years ago, the oldest hominin fossils outside Africa. The modern town has around 3,000 inhabitants and is an agricultural center. The area features gorges and plateaus.",
+    },
+    factsAdvanced: {
+      de: ["Die Dmanisi-Fossilien sind etwa 1,8 Millionen Jahre alt.", "Die Stadt liegt auf einer Höhe von 950 Metern.", "Die Einwohnerzahl von Dmanisi beträgt rund 3.000 (2014).", "Die Entfernung nach Tiflis beträgt 93 km.", "Die Ausgrabungen begannen in den 1980er Jahren.", "Die Fläche der Stadt beträgt etwa 6 km²."],
+      hu: ["A Dmanisi-leletek körülbelül 1,8 millió évesek.", "A város tengerszint feletti magassága 950 méter.", "Lakossága 2014-ben 3000 fő volt.", "Távolsága Tbiliszitől 93 km.", "A feltárások az 1980-as években kezdődtek.", "Dmanisi területe 6 négyzetkilométer."],
+      ro: ["Fosilele de la Dmanisi au o vechime de aproximativ 1,8 milioane de ani.", "Altitudinea orașului este de 950 de metri.", "Populația este de circa 3.000 de locuitori (2014).", "Distanța până la Tbilisi este de 93 km.", "Săpăturile au început în anii 1980.", "Orașul are o suprafață de 6 km²."],
+      en: ["Dmanisi fossils are approximately 1.8 million years old.", "The town's elevation is 950 meters above sea level.", "Population is around 3,000 (2014 census).", "Distance to Tbilisi is 93 km.", "Excavations began in the 1980s.", "The town covers an area of 6 km²."],
+    },
+  },
+  {
+    id: "georgia-dedoplistskaro-cities-v2",
+    type: "town",
+    name: { de: "Dedopliszqaro", hu: "Dedopliszcqaro", ro: "Dedoplistskaro", en: "Dedoplistskaro" },
+    coords: [46.1133, 41.4633],
+    description: {
+      de: "Dedopliszqaro ist eine Stadt im Südosten Kachetiens und das Tor zum Vashlovani-Nationalpark in einer semiariden Steppenlandschaft.",
+      hu: "Dedopliszcqaro város Kaheti délkeleti részén, a Vashlovani Nemzeti Park kapuja egy félsivatagi sztyeppés vidéken.",
+      ro: "Dedoplistskaro este un oraș din sud-estul Kakheti și poarta de acces către Parcul Național Vashlovani, într-un peisaj de stepă.",
+      en: "Dedoplistskaro is a town in southeastern Kakheti and the gateway to the Vashlovani National Park, set in a semi-arid steppe landscape.",
+    },
+    facts: {
+      de: ["Bedeutet übersetzt 'Quellen der Königin'", "Gegründet als Militärposten im Jahr 1803", "Hieß früher Ziteli-Zqaro (Rote Quellen)", "Wichtiges Zentrum für Getreideanbau"],
+      hu: ["Jelentése: 'A királynő forrásai'", "Katonai posztként alapították 1803-ban", "Korábban Citeli-Cqaro (Vörös Forrás) volt a neve", "A gabonatermesztés fontos központja"],
+      ro: ["Numele înseamnă 'Izvoarele Reginei'", "Fondat ca post militar în 1803", "S-a numit anterior Tsiteli-Tskaro (Izvorul Roșu)", "Centru important pentru cultura cerealelor"],
+      en: ["The name translates to 'Queen's Springs'", "Founded as a military post in 1803", "Formerly called Tsiteli-Tskaro (Red Spring)", "Major center for cereal production"],
+    },
+    imageHint: "Dedoplistskaro town view and steppe",
+  },
+  {
+    id: "georgia-kvareli-cities-v2",
+    type: "town",
+    name: { de: "Quareli", hu: "Kvareli", ro: "Kvareli", en: "Kvareli" },
+    coords: [45.8139, 41.9442],
+    description: {
+      de: "Quareli ist eine Stadt in Kachetien am Fuße des Kaukasus, weltberühmt für ihren Wein und den Tunnel-Weinkeller von Chareba.",
+      hu: "Kvareli város Kaheti régióban, a Kaukázus lábánál, világhírű borairól és a Khareba borászati alagútjáról.",
+      ro: "Kvareli este un oraș din Kakheti, situat la poalele Caucazului, renumit mondial pentru vinurile sale și tunelul vinicol Khareba.",
+      en: "Kvareli is a town in the Kakheti region at the foot of the Caucasus, world-famous for its wine and the Khareba winery tunnel.",
+    },
+    facts: {
+      de: ["Geburtsort des Schriftstellers Ilia Tschawtschawadse", "Beherbergt den Ilia-See für Erholung", "Besitzt eine mittelalterliche Festungsanlage", "Zentrum der Produktion von Kindzmarauli-Wein"],
+      hu: ["Ilia Csavcsavadze író szülőhelye", "Itt található az üdülésre alkalmas Ilia-tó", "Középkori erődítménye van a városközpontban", "A Kindzmarauli bortermelés központja"],
+      ro: ["Locul de naștere al scriitorului Ilia Chavchavadze", "Găzduiește Lacul Ilia pentru recreere", "Dispune de o fortăreață medievală", "Centrul producției de vin Kindzmarauli"],
+      en: ["Birthplace of writer Ilia Chavchavadze", "Home to the Ilia Lake recreational area", "Features a medieval fortress in the center", "Center for Kindzmarauli wine production"],
+    },
+    imageHint: "Kvareli wine tunnel entrance",
+  },
+  {
+    id: "georgia-akhmeta-cities-v2",
+    type: "town",
+    name: { de: "Achmeta", hu: "Ahmeta", ro: "Akhmeta", en: "Akhmeta" },
+    coords: [45.2, 42.0333],
+    description: {
+      de: "Achmeta ist eine Stadt in Kachetien am Fluss Alazani, die als Ausgangspunkt für Reisen in die Hochgebirgsregion Tuschetien dient.",
+      hu: "Ahmeta város Kaheti régióban, az Alazani folyó partján, amely a tuseti hegyvidéki régióba irányuló utak kiindulópontja.",
+      ro: "Akhmeta este un oraș din regiunea Kakheti, pe râul Alazani, servind drept punct de plecare pentru călătoriile spre regiunea montană Tusheti.",
+      en: "Akhmeta is a town in the Kakheti region on the Alazani River, serving as the starting point for journeys to the highland Tusheti region.",
+    },
+    facts: {
+      de: ["Erhielt im Jahr 1966 das Stadtrecht", "In der Nähe liegt die Basilika Kwetera", "Zentrum für Weinbau und Forstwirtschaft", "Einst Teil des mittelalterlichen Königreichs Kachetien"],
+      hu: ["1966-ban kapott városi rangot", "A közelben található a Kvetera-bazilika", "A borászat és erdőgazdálkodás központja", "Egykor a középkori Kaheti Királyság része volt"],
+      ro: ["A primit statutul de oraș în 1966", "Basilica Kvetera se află în apropiere", "Centru pentru viticultură și silvicultură", "Fostă parte a regatului medieval Kakheti"],
+      en: ["Granted city status in 1966", "Nearby Kvetera Basilica is a UNESCO site candidate", "Center for viticulture and forestry", "Once part of the medieval Kingdom of Kakheti"],
+    },
+    imageHint: "Akhmeta town landscape and Alazani river",
+  },
+  {
+    id: "georgia-ninotsminda-cities-v2",
+    type: "town",
+    name: { de: "Ninotsminda", hu: "Ninocminda", ro: "Ninotsminda", en: "Ninotsminda" },
+    coords: [43.5914, 41.2639],
+    description: {
+      de: "Ninotsminda ist eine Stadt auf dem Dschawacheti-Plateau im Süden Georgiens, bekannt für ihr raues Klima und die Viehzucht.",
+      hu: "Ninocminda város a Dzsavakheti-fennsíkon, Dél-Grúziában, amely zord éghajlatáról és állattenyésztéséről ismert.",
+      ro: "Ninotsminda este un oraș pe platoul Javakheti, în sudul Georgiei, cunoscut pentru climatul aspru și creșterea animalelor.",
+      en: "Ninotsminda is a town on the Javakheti Plateau in southern Georgia, known for its harsh climate and livestock farming.",
+    },
+    facts: {
+      de: ["Liegt auf fast 2000 Metern Höhe", "Hieß bis 1991 Bogdanowka", "Gegründet von russischen Duchoborzen", "Große armenische Bevölkerungsmehrheit"],
+      hu: ["Közel 2000 méteres magasságban fekszik", "1991-ig Bogdanovka volt a neve", "Orosz duhoborok alapították", "Jelentős örmény többséggel rendelkezik"],
+      ro: ["Situat la aproape 2000 de metri altitudine", "S-a numit Bogdanovka până în 1991", "Fondat de grupul religios rus Duhoborî", "Are o majoritate etnică armeană"],
+      en: ["Located at nearly 2000 meters elevation", "Named Bogdanovka until 1991", "Founded by Russian Doukhobors", "Home to a large ethnic Armenian majority"],
+    },
+    imageHint: "Ninotsminda town in the plateau landscape",
+  },
+  {
+    id: "georgia-aspindza-cities-v2",
+    type: "town",
+    name: { de: "Aspindsa", hu: "Aszpindza", ro: "Aspindza", en: "Aspindza" },
+    coords: [43.2503, 41.5744],
+    description: {
+      de: "Aspindsa ist eine Kleinstadt in der Region Samzche-Dschawachetien am Fluss Kura, bekannt für ihre Thermalquellen und die Nähe zu Wardzia.",
+      hu: "Aszpindza kisváros Szamche-Dzsavakheti régióban, a Kura folyó mentén, termálforrásairól és Vardzia közelségéről ismert.",
+      ro: "Aspindza este un orășel din regiunea Samtskhe-Javakheti, pe râul Kura, cunoscut pentru izvoarele termale și proximitatea față de Vardzia.",
+      en: "Aspindza is a small town in the Samtskhe-Javakheti region on the Kura River, known for its thermal springs and proximity to Vardzia.",
+    },
+    facts: {
+      de: ["Schauplatz einer berühmten Schlacht im Jahr 1770", "Besitzt natürliche Schwefelbäder", "Zentrum des gleichnamigen Verwaltungsdistrikts", "Liegt an der Straße von Achalziche nach Armenien"],
+      hu: ["Egy 1770-es híres csata helyszíne", "Természetes kénes fürdőkkel rendelkezik", "Az azonos nevű járás központja", "Az Ahalcikhéből Örményországba vezető úton van"],
+      ro: ["Locul unei bătălii celebre din 1770", "Dispune de băi naturale cu sulf", "Centrul districtului administrativ omonim", "Situat pe drumul de la Akhaltsikhe spre Armenia"],
+      en: ["Site of a famous battle in 1770", "Features natural sulfur baths", "Center of the Aspindza district", "Located on the road from Akhaltsikhe to Armenia"],
+    },
+    imageHint: "Aspindza town with sulfur baths",
+  },
+  {
+    id: "georgia-ambrolauri-cities-v2",
+    type: "town",
+    name: { de: "Ambrolauri", hu: "Ambrolauri", ro: "Ambrolauri", en: "Ambrolauri" },
+    coords: [43.1517, 42.5217],
+    description: {
+      de: "Ambrolauri ist das Verwaltungszentrum der Region Ratscha-Letschchumi und Niederswanetien am Fluss Rioni.",
+      hu: "Ambrolauri Racha-Lechkhumi és Alsó-Szvanétia régió közigazgatási központja a Rioni folyó partján.",
+      ro: "Ambrolauri este centrul administrativ al regiunii Racha-Lechkhumi și Svaneti de Jos, situat pe râul Rioni.",
+      en: "Ambrolauri is the administrative center of the Racha-Lechkhumi and Lower Svaneti region, located on the Rioni River.",
+    },
+    facts: {
+      de: ["Zentrum der Produktion des Chwantschkara-Weins", "Besitzt einen Flughafen für Inlandsflüge", "War eine Residenz der Könige von Imeretien", "Erhielt im Jahr 1966 den Stadtstatus"],
+      hu: ["A Hvancskara bortermelés központja", "Belföldi repülőtérrel rendelkezik", "Az imereti királyok egykori rezidenciája volt", "1966-ban kapott városi rangot"],
+      ro: ["Centrul producției vinului Khvanchkara", "Dispune de un aeroport pentru zboruri interne", "A fost reședință a regilor din Imereti", "A primit statutul de oraș în 1966"],
+      en: ["Center of Khvanchkara wine production", "Home to a small domestic airport", "Was a residence for the Kings of Imereti", "Granted city status in 1966"],
+    },
+    imageHint: "Ambrolauri town view and Rioni river",
+  },
+  {
+    id: "georgia-oni-cities-v2",
+    type: "town",
+    name: { de: "Oni", hu: "Oni", ro: "Oni", en: "Oni" },
+    coords: [43.4425, 42.5864],
+    description: {
+      de: "Oni ist eine Stadt in der Region Ratscha, gelegen im tiefen Tal des Flusses Rioni und bekannt für seine historische Synagoge.",
+      hu: "Oni város Racha régióban, a Rioni folyó mély völgyében, történelmi zsinagógájáról híres.",
+      ro: "Oni este un oraș din regiunea Racha, situat în valea adâncă a râului Rioni, cunoscut pentru sinagoga sa istorică.",
+      en: "Oni is a town in the Racha region, located in the deep valley of the Rioni River and famous for its historical synagogue.",
+    },
+    facts: {
+      de: ["Hatte einst eine große jüdische Gemeinde", "Die Synagoge wurde 1895 erbaut", "Häufiges Epizentrum für Erdbeben", "Liegt am Fuße des Großen Kaukasus"],
+      hu: ["Egykor jelentős zsidó közössége volt", "Zsinagógája 1895-ben épült", "Gyakran földrengések epicentruma", "A Nagy-Kaukázus lábánál fekszik"],
+      ro: ["A avut o comunitate evreiască numeroasă", "Sinagoga a fost construită în 1895", "Adesea epicentrul cutremurelor", "Situat la poalele Caucazului Mare"],
+      en: ["Once home to a large Jewish community", "The Oni Synagogue was built in 1895", "Frequent epicenter for regional earthquakes", "Located at the foot of the Greater Caucasus"],
+    },
+    imageHint: "Historical Oni Synagogue architecture",
+  },
+  {
+    id: "georgia-lentekhi-cities-v2",
+    type: "village",
+    name: { de: "Lentechi", hu: "Lentehi", ro: "Lentekhi", en: "Lentekhi" },
+    coords: [42.7214, 42.7889],
+    description: {
+      de: "Lentechi ist das administrative Zentrum von Niederswanetien, gelegen am Fluss Tscheniszqali in einer abgelegenen Gebirgsregion.",
+      hu: "Lentehi Alsó-Szvanétia közigazgatási központja, a Cseniszkhali folyó mentén, egy elszigetelt hegyvidéken.",
+      ro: "Lentekhi este centrul administrativ al regiunii Svaneti de Jos, situat pe râul Tskhenistskali într-o zonă montană izolată.",
+      en: "Lentekhi is the administrative center of Lower Svaneti, located on the Tskhenistskali River in a remote mountain region.",
+    },
+    facts: {
+      de: ["Bedeutender Ausgangspunkt für Alpinisten", "Erhielt im Jahr 1969 den Status einer Siedlung", "Zentrum der lokalen Holzwirtschaft", "Bewahrt traditionelle swanische Türme"],
+      hu: ["A hegymászók egyik fontos bázisa", "1969-ben kapott települési rangot", "A helyi fafeldolgozás központja", "Hagyományos szván tornyokat őriz"],
+      ro: ["Punct de plecare important pentru alpiniști", "A primit statutul de așezare în 1969", "Centru al industriei lemnului locale", "Păstrează turnuri tradiționale svanetiene"],
+      en: ["Major base for mountaineers and hikers", "Granted urban settlement status in 1969", "Center for local timber production", "Preserves traditional Svan defensive towers"],
+    },
+    imageHint: "Lentekhi village with towers and mountains",
+  },
+  {
+    id: "georgia-tsageri-cities-v2",
+    type: "town",
+    name: { de: "Zageri", hu: "Cageri", ro: "Tsageri", en: "Tsageri" },
+    coords: [42.7667, 42.6453],
+    description: {
+      de: "Zageri ist eine Kleinstadt in der Region Letschchumi am Fluss Zcheniszqali, bekannt für ihre mittelalterliche Geschichte und Klöster.",
+      hu: "Cageri kisváros Lechkhumi régióban, a Cseniszkali folyó partján, középkori múltjáról és kolostorairól ismert.",
+      ro: "Tsageri este un orășel din regiunea Lechkhumi, pe râul Tskhenistskali, cunoscut pentru istoria medievală și mănăstiri.",
+      en: "Tsageri is a small town in the Lechkhumi region on the Tskhenistskali River, known for its medieval history and monasteries.",
+    },
+    facts: {
+      de: ["Hieß früher Zacheri", "Erhielt im Jahr 1968 das Stadtrecht", "Besitzt eine bedeutende Kathedrale", "Zentrum einer Region für Obst- und Weinbau"],
+      hu: ["Korábban Caheri néven volt ismert", "1968-ban kapott városi rangot", "Jelentős székesegyházzal rendelkezik", "Gyümölcs- és bortermelő vidék központja"],
+      ro: ["Cunoscut anterior sub numele de Tsakheri", "A primit statutul de oraș în 1968", "Dispune de o catedrală importantă", "Centru al unei regiuni viticole și pomicole"],
+      en: ["Known as Tsakheri in historical records", "Granted city status in 1968", "Home to a significant cathedral", "Center for a region of fruit and wine production"],
+    },
+    imageHint: "Tsageri town and mountain backdrop",
+  },
+  {
+    id: "georgia-sachkhere-cities-v2",
+    type: "town",
+    name: { de: "Satschchere", hu: "Szacshere", ro: "Sachkhere", en: "Sachkhere" },
+    coords: [43.4142, 42.3397],
+    description: {
+      de: "Satschchere ist eine Stadt in Imeretien am Fluss Qwirila, die für ihre aristokratische Geschichte und die Modinakhe-Festung bekannt ist.",
+      hu: "Szacshere város Imereti régióban, a Kvirila folyó partján, arisztokrata múltjáról és a Modinahe-erődről ismert.",
+      ro: "Sachkhere este un oraș din Imereti, pe râul Qvirila, cunoscut pentru istoria aristocratică și fortăreața Modinakhe.",
+      en: "Sachkhere is a town in Imereti on the Qvirila River, known for its aristocratic history and the Modinakhe fortress.",
+    },
+    facts: {
+      de: ["Historischer Sitz der Tsereteli-Fürsten", "Besitzt eine Bergschule für NATO-Ausbildung", "Erhielt im Jahr 1964 das Stadtrecht", "Zentrum eines landwirtschaftlichen Distrikts"],
+      hu: ["A Cereteli hercegek történelmi székhelye", "NATO-képzésre alkalmas hegyi iskolája van", "1964-ben kapott városi rangot", "Mezőgazdasági járás központja"],
+      ro: ["Sediul istoric al prinților Tsereteli", "Dispune de o școală montană de antrenament NATO", "A primit statutul de oraș în 1964", "Centrul unui district agricol"],
+      en: ["Historical seat of the Tsereteli princes", "Home to a NATO mountain training school", "Granted city status in 1964", "Center of an agricultural district"],
+    },
+    imageHint: "Sachkhere town and Modinakhe fortress ruins",
+  },
+  {
+    id: "georgia-lanchkhuti-cities-v2",
+    type: "town",
+    name: { de: "Lantschchuti", hu: "Lancshuti", ro: "Lanchkhuti", en: "Lanchkhuti" },
+    coords: [42.0353, 42.0867],
+    description: {
+      de: "Lantschchuti ist eine Stadt in der Region Guria, die für ihre starke Fußballtradition und landwirtschaftliche Bedeutung bekannt ist.",
+      hu: "Lancshuti város Guria régióban, amely erős futballhagyományairól és mezőgazdasági jelentőségéről ismert.",
+      ro: "Lanchkhuti este un oraș din regiunea Guria, cunoscut pentru tradiția fotbalistică puternică și importanța agricolă.",
+      en: "Lanchkhuti is a town in the Guria region, known for its strong football tradition and agricultural significance.",
+    },
+    facts: {
+      de: ["Heimat des Fußballvereins Guria Lantschchuti", "Erhielt im Jahr 1961 das Stadtrecht", "Zentrum des Tee- und Zitrusanbaus", "Liegt an der wichtigen Fernstraße nach Poti"],
+      hu: ["A Guria Lancshuti futballklub otthona", "1961-ben kapott városi rangot", "A tea- és citrusfélék termesztésének központja", "A Poti felé vezető fontos főút mentén fekszik"],
+      ro: ["Sediul clubului de fotbal Guria Lanchkhuti", "A primit statutul de oraș în 1961", "Centru pentru culturi de ceai și citrice", "Situat pe drumul principal către Poti"],
+      en: ["Home to the Guria Lanchkhuti football club", "Granted city status in 1961", "Center for tea and citrus fruit production", "Located on the main highway toward Poti"],
+    },
+    imageHint: "Lanchkhuti town square and stadium",
   }
 ];

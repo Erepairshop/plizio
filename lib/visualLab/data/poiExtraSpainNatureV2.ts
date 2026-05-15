@@ -3,7 +3,7 @@ export const spainNatureV2: POI[] = [
 
   {
     id: "spain-mulhacen-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "peak",
     name: { de: "Mulhacén", hu: "Mulhacén", ro: "Mulhacén", en: "Mulhacén"},
     image: "/poi-images/spain-mulhacen-nature-v2.webp",
@@ -38,7 +38,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-picos-de-europa-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "park",
     name: { de: "Picos de Europa", hu: "Picos de Europa", ro: "Picos de Europa", en: "Picos de Europa"},
     image: "/poi-images/spain-picos-de-europa-nature-v2.webp",
@@ -73,7 +73,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-tabernas-desert-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "valley",
     name: { de: "Wüste von Tabernas", hu: "Tabernas-sivatag", ro: "Deșertul Tabernas", en: "Tabernas Desert"},
     image: "/poi-images/spain-tabernas-desert-nature-v2.webp",
@@ -108,7 +108,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-ordesa-monte-perdido-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "park",
     name: { de: "Ordesa y Monte Perdido", hu: "Ordesa és Monte Perdido", ro: "Ordesa și Monte Perdido", en: "Ordesa y Monte Perdido"},
     image: "/poi-images/spain-ordesa-monte-perdido-nature-v2.webp",
@@ -143,7 +143,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-ebro-river-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "river",
     name: { de: "Ebro", hu: "Ebro", ro: "Ebro", en: "Ebro River"},
     image: "/poi-images/spain-ebro-river-nature-v2.webp",
@@ -178,7 +178,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-tagus-river-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "river",
     name: { de: "Tajo", hu: "Tajo", ro: "Tajo", en: "Tagus River"},
     image: "/poi-images/spain-tagus-river-nature-v2.webp",
@@ -213,7 +213,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-cabo-de-gata-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "park",
     name: { de: "Cabo de Gata-Níjar", hu: "Cabo de Gata-Níjar", ro: "Cabo de Gata-Níjar", en: "Cabo de Gata-Níjar"},
     image: "/poi-images/spain-cabo-de-gata-nature-v2.webp",
@@ -248,7 +248,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-aneto-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "peak",
     name: { de: "Aneto", hu: "Aneto", ro: "Aneto", en: "Aneto"},
     image: "/poi-images/spain-aneto-nature-v2.webp",
@@ -283,7 +283,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-guadarrama-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "park",
     name: { de: "Sierra de Guadarrama", hu: "Sierra de Guadarrama", ro: "Sierra de Guadarrama", en: "Sierra de Guadarrama"},
     image: "/poi-images/spain-guadarrama-nature-v2.webp",
@@ -318,7 +318,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-lake-sanabria-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "lake",
     name: { de: "Sanabria-See", hu: "Sanabria-tó", ro: "Lacul Sanabria", en: "Lake Sanabria"},
     image: "/poi-images/spain-lake-sanabria-nature-v2.webp",
@@ -353,7 +353,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-islas-atlanticas-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "park",
     name: { de: "Nationalpark Islas Atlánticas", hu: "Islas Atlánticas Nemzeti Park", ro: "Parcul Național Islas Atlánticas", en: "Atlantic Islands of Galicia National Park"},
     image: "/poi-images/spain-islas-atlanticas-nature-v2.webp",
@@ -388,7 +388,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-caminito-del-rey-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "landmark",
     name: { de: "Caminito del Rey", hu: "Caminito del Rey", ro: "Caminito del Rey", en: "Caminito del Rey"},
     image: "/poi-images/spain-caminito-del-rey-nature-v2.webp",
@@ -423,7 +423,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-las-medulas-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "landmark",
     name: { de: "Las Médulas", hu: "Las Médulas", ro: "Las Médulas", en: "Las Médulas"},
     image: "/poi-images/spain-las-medulas-nature-v2.webp",
@@ -458,7 +458,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-bardenas-reales-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "park",
     name: { de: "Bardenas Reales", hu: "Bardenas Reales", ro: "Bardenas Reales", en: "Bardenas Reales"},
     image: "/poi-images/spain-bardenas-reales-nature-v2.webp",
@@ -493,7 +493,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-montserrat-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Montserrat", hu: "Montserrat", ro: "Montserrat", en: "Montserrat"},
     image: "/poi-images/spain-montserrat-nature-v2.webp",
@@ -528,7 +528,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-drach-caves-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "landmark",
     name: { de: "Cuevas del Drach", hu: "Sárkánybarlangok", ro: "Peșterile Drach", en: "Caves of Drach"},
     image: "/poi-images/spain-drach-caves-nature-v2.webp",
@@ -563,7 +563,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-nerja-caves-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "landmark",
     name: { de: "Höhlen von Nerja", hu: "Nerjai barlangok", ro: "Peșterile din Nerja", en: "Nerja Caves"},
     image: "/poi-images/spain-nerja-caves-nature-v2.webp",
@@ -599,7 +599,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-guadalquivir-river-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "river",
     name: { de: "Guadalquivir", hu: "Guadalquivir", ro: "Guadalquivir", en: "Guadalquivir River"},
     image: "/poi-images/spain-guadalquivir-river-nature-v2.webp",
@@ -634,7 +634,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-aiguestortes-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "park",
     name: { de: "Aigüestortes i Estany de Sant Maurici", hu: "Aigüestortes i Estany de Sant Maurici", ro: "Aigüestortes i Estany de Sant Maurici", en: "Aigüestortes National Park"},
     image: "/poi-images/spain-aiguestortes-nature-v2.webp",
@@ -669,7 +669,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-taburiente-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "park",
     name: { de: "Caldera de Taburiente", hu: "Caldera de Taburiente", ro: "Caldera de Taburiente", en: "Caldera de Taburiente"},
     image: "/poi-images/spain-taburiente-nature-v2.webp",
@@ -704,7 +704,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-jiloca-valley-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "valley",
     name: { de: "Jiloca-Tal", hu: "Jiloca-völgy", ro: "Valea Jiloca", en: "Jiloca Valley"},
     image: "/poi-images/spain-jiloca-valley-nature-v2.webp",
@@ -738,7 +738,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-cueva-del-soplao-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "landmark",
     name: { de: "El Soplao", hu: "El Soplao barlang", ro: "Peștera El Soplao", en: "El Soplao Cave"},
     image: "/poi-images/spain-cueva-del-soplao-nature-v2.webp",
@@ -773,7 +773,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-nera-river-canyon-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "valley",
     name: { de: "Congost de Mont-rebei", hu: "Mont-rebei szurdok", ro: "Cheile Mont-rebei", en: "Mont-rebei Gorge"},
     image: "/poi-images/spain-nera-river-canyon-nature-v2.webp",
@@ -809,7 +809,7 @@ export const spainNatureV2: POI[] = [
 ,
   {
     id: "spain-garrotxa-volcanoes-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "park",
     name: { de: "Vulkanzone Garrotxa", hu: "Garrotxa vulkáni övezet", ro: "Zona vulcanică Garrotxa", en: "Garrotxa Volcanic Zone"},
     image: "/poi-images/spain-garrotxa-volcanoes-nature-v2.webp",
@@ -842,7 +842,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-torcal-antequera-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "landmark",
     name: { de: "El Torcal de Antequera", hu: "Torcal de Antequera", ro: "Torcal de Antequera", en: "Torcal de Antequera"},
     image: "/poi-images/spain-torcal-antequera-nature-v2.webp",
@@ -876,7 +876,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-los-gigantes-cliffs-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "landmark",
     name: { de: "Klippen von Los Gigantes", hu: "Los Gigantes sziklái", ro: "Stâncile Los Gigantes", en: "Cliffs of Los Gigantes"},
     image: "/poi-images/spain-los-gigantes-cliffs-nature-v2.webp",
@@ -910,7 +910,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-lagunas-ruidera-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "lake",
     name: { de: "Ruidera-Lagunen", hu: "Ruidera-tavak", ro: "Lagunele de la Ruidera", en: "Ruidera Lagoons"},
     image: "/poi-images/spain-lagunas-ruidera-nature-v2.webp",
@@ -943,7 +943,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-gaztelugatxe-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "landmark",
     name: { de: "Gaztelugatxe", hu: "Gaztelugatxe", ro: "Gaztelugatxe", en: "Gaztelugatxe"},
     image: "/poi-images/spain-gaztelugatxe-nature-v2.webp",
@@ -977,7 +977,7 @@ export const spainNatureV2: POI[] = [
   },
   {
     id: "spain-sil-canyon-nature-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "valley",
     name: { de: "Sil-Schlucht", hu: "Sil-kanyon", ro: "Canionul râului Sil", en: "Sil River Canyon"},
     image: "/poi-images/spain-sil-canyon-nature-v2.webp",

@@ -4,7 +4,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-villach-cities-v2",
     type: "city",
-    parent: "AT-2",
+    parent: "AT",
     name: { de: "Villach", hu: "Villach", ro: "Villach", en: "Villach" },
     coords: [13.8558, 46.6111],
     description: {
@@ -36,7 +36,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-wels-cities-v2",
     type: "city",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Wels", hu: "Wels", ro: "Wels", en: "Wels" },
     coords: [14.0289, 48.1575],
     description: {
@@ -68,7 +68,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-dornbirn-cities-v2",
     type: "city",
-    parent: "AT-8",
+    parent: "AT",
     name: { de: "Dornbirn", hu: "Dornbirn", ro: "Dornbirn", en: "Dornbirn" },
     coords: [9.7417, 47.4125],
     description: {
@@ -100,7 +100,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-steyr-cities-v2",
     type: "city",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Steyr", hu: "Steyr", ro: "Steyr", en: "Steyr" },
     coords: [14.4214, 48.0407],
     description: {
@@ -132,7 +132,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-feldkirch-cities-v2",
     type: "city",
-    parent: "AT-8",
+    parent: "AT",
     name: { de: "Feldkirch", hu: "Feldkirch", ro: "Feldkirch", en: "Feldkirch" },
     coords: [9.5989, 47.2386],
     description: {
@@ -164,7 +164,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-wiener-neustadt-cities-v2",
     type: "city",
-    parent: "AT-1",
+    parent: "AT",
     name: { de: "Wiener Neustadt", hu: "Bécsújhely", ro: "Wiener Neustadt", en: "Wiener Neustadt" },
     coords: [16.2464, 47.8153],
     description: {
@@ -196,7 +196,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-baden-cities-v2",
     type: "city",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Baden", hu: "Baden", ro: "Baden bei Wien", en: "Baden bei Wien" },
     coords: [16.2308, 48.0069],
     description: {
@@ -228,7 +228,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-wolfsberg-cities-v2",
     type: "city",
-    parent: "AT-2",
+    parent: "AT",
     name: { de: "Wolfsberg", hu: "Wolfsberg", ro: "Wolfsberg", en: "Wolfsberg" },
     coords: [14.8455, 46.8394],
     description: {
@@ -260,7 +260,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-leoben-cities-v2",
     type: "city",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Leoben", hu: "Leoben", ro: "Leoben", en: "Leoben" },
     coords: [15.0944, 47.3803],
     description: {
@@ -292,7 +292,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-krems-cities-v2",
     type: "city",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Krems an der Donau", hu: "Krems an der Donau", ro: "Krems an der Donau", en: "Krems an der Donau" },
     coords: [15.5989, 48.4111],
     description: {
@@ -324,7 +324,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-traun-cities-v2",
     type: "city",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Traun", hu: "Traun", ro: "Traun", en: "Traun" },
     coords: [14.2386, 48.2217],
     description: {
@@ -356,7 +356,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-lustenau-cities-v2",
     type: "city",
-    parent: "AT-8",
+    parent: "AT",
     name: { de: "Lustenau", hu: "Lustenau", ro: "Lustenau", en: "Lustenau" },
     coords: [9.6589, 47.4267],
     description: {
@@ -388,7 +388,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-kapfenberg-cities-v2",
     type: "city",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Kapfenberg", hu: "Kapfenberg", ro: "Kapfenberg", en: "Kapfenberg" },
     coords: [15.2889, 47.4436],
     description: {
@@ -420,7 +420,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-hallein-cities-v2",
     type: "city",
-    parent: "AT-5",
+    parent: "AT",
     name: { de: "Hallein", hu: "Hallein", ro: "Hallein", en: "Hallein" },
     coords: [13.0953, 47.6833],
     description: {
@@ -452,7 +452,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-schwechat-cities-v2",
     type: "city",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Schwechat", hu: "Schwechat", ro: "Schwechat", en: "Schwechat" },
     coords: [16.4714, 48.1389],
     description: {
@@ -484,7 +484,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-braunau-am-inn-cities-v2",
     type: "city",
-    parent: "AT-5",
+    parent: "AT",
     name: { de: "Braunau am Inn", hu: "Braunau am Inn", ro: "Braunau am Inn", en: "Braunau am Inn" },
     coords: [13.0347, 48.2583],
     description: {
@@ -516,7 +516,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-saalfelden-cities-v2",
     type: "city",
-    parent: "AT-HoheTauern",
+    parent: "AT",
     name: { de: "Saalfelden", hu: "Saalfelden", ro: "Saalfelden", en: "Saalfelden" },
     coords: [12.8481, 47.4269],
     description: {
@@ -548,7 +548,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-stockerau-cities-v2",
     type: "city",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Stockerau", hu: "Stockerau", ro: "Stockerau", en: "Stockerau" },
     coords: [16.2125, 48.3853],
     description: {
@@ -580,7 +580,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-ansfelden-cities-v2",
     type: "city",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Ansfelden", hu: "Ansfelden", ro: "Ansfelden", en: "Ansfelden" },
     coords: [14.2889, 48.2086],
     description: {
@@ -612,7 +612,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-hohenems-cities-v2",
     type: "city",
-    parent: "AT-8",
+    parent: "AT",
     name: { de: "Hohenems", hu: "Hohenems", ro: "Hohenems", en: "Hohenems" },
     coords: [9.6881, 47.3619],
     description: {
@@ -644,7 +644,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-perchtoldsdorf-cities-v2",
     type: "town",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Perchtoldsdorf", hu: "Perchtoldsdorf", ro: "Perchtoldsdorf", en: "Perchtoldsdorf" },
     coords: [16.2658, 48.1189],
     description: {
@@ -676,7 +676,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-ternitz-cities-v2",
     type: "city",
-    parent: "AT-1",
+    parent: "AT",
     name: { de: "Ternitz", hu: "Ternitz", ro: "Ternitz", en: "Ternitz" },
     coords: [16.0358, 47.7122],
     description: {
@@ -708,7 +708,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-feldkirchen-in-kaernten-cities-v2",
     type: "city",
-    parent: "AT-2",
+    parent: "AT",
     name: { de: "Feldkirchen in Kärnten", hu: "Feldkirchen in Kärnten", ro: "Feldkirchen in Kärnten", en: "Feldkirchen in Kärnten" },
     coords: [14.0911, 46.7214],
     description: {
@@ -740,7 +740,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-bludenz-cities-v2",
     type: "city",
-    parent: "AT-8",
+    parent: "AT",
     name: { de: "Bludenz", hu: "Bludenz", ro: "Bludenz", en: "Bludenz" },
     coords: [9.8219, 47.1539],
     description: {
@@ -772,7 +772,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-bad-ischl-cities-v2",
     type: "town",
-    parent: "AT-5",
+    parent: "AT",
     name: { de: "Bad Ischl", hu: "Bad Ischl", ro: "Bad Ischl", en: "Bad Ischl" },
     coords: [13.6219, 47.7111],
     description: {
@@ -804,7 +804,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-schwaz-cities-v2",
     type: "city",
-    parent: "AT-7",
+    parent: "AT",
     name: { de: "Schwaz", hu: "Schwaz", ro: "Schwaz", en: "Schwaz" },
     coords: [11.7089, 47.3486],
     description: {
@@ -836,7 +836,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-hall-in-tirol-cities-v2",
     type: "city",
-    parent: "AT-7",
+    parent: "AT",
     name: { de: "Hall in Tirol", hu: "Hall in Tirol", ro: "Hall in Tirol", en: "Hall in Tirol" },
     coords: [11.5069, 47.2817],
     description: {
@@ -868,7 +868,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-kufstein-cities-v2",
     type: "city",
-    parent: "AT-HoheTauern",
+    parent: "AT",
     name: { de: "Kufstein", hu: "Kufstein", ro: "Kufstein", en: "Kufstein" },
     coords: [12.1667, 47.5833],
     description: {
@@ -901,7 +901,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-voitsberg-cities-v2",
     type: "city",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Voitsberg", hu: "Voitsberg", ro: "Voitsberg", en: "Voitsberg" },
     coords: [15.1506, 47.0503],
     description: {
@@ -933,7 +933,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-waidhofen-an-der-thaya-cities-v2",
     type: "city",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Waidhofen an der Thaya", hu: "Waidhofen an der Thaya", ro: "Waidhofen an der Thaya", en: "Waidhofen an der Thaya" },
     coords: [15.2811, 48.8189],
     description: {
@@ -965,7 +965,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-judenburg-cities-v2",
     type: "city",
-    parent: "AT-2",
+    parent: "AT",
     name: { de: "Judenburg", hu: "Judenburg", ro: "Judenburg", en: "Judenburg" },
     coords: [14.6567, 47.1667],
     description: {
@@ -997,7 +997,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-voecklabruck-cities-v2",
     type: "city",
-    parent: "AT-5",
+    parent: "AT",
     name: { de: "Vöcklabruck", hu: "Vöcklabruck", ro: "Vöcklabruck", en: "Vöcklabruck" },
     coords: [13.655, 48.0083],
     description: {
@@ -1029,7 +1029,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-freistadt-cities-v2",
     type: "city",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Freistadt", hu: "Freistadt", ro: "Freistadt", en: "Freistadt" },
     coords: [14.505, 48.51],
     description: {
@@ -1061,7 +1061,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-zeltweg-cities-v2",
     type: "city",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Zeltweg", hu: "Zeltweg", ro: "Zeltweg", en: "Zeltweg" },
     coords: [14.7461, 47.1953],
     description: {
@@ -1093,7 +1093,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-liezen-cities-v2",
     type: "city",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Liezen", hu: "Liezen", ro: "Liezen", en: "Liezen" },
     coords: [14.2403, 47.5756],
     description: {
@@ -1125,7 +1125,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-mistelbach-cities-v2",
     type: "city",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Mistelbach", hu: "Mistelbach", ro: "Mistelbach", en: "Mistelbach" },
     coords: [16.5744, 48.5678],
     description: {
@@ -1157,7 +1157,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-bruck-an-der-mur-cities-v2",
     type: "city",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Bruck an der Mur", hu: "Bruck an der Mur", ro: "Bruck an der Mur", en: "Bruck an der Mur" },
     coords: [15.2753, 47.4064],
     description: {
@@ -1189,7 +1189,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-landeck-cities-v2",
     type: "city",
-    parent: "AT-7",
+    parent: "AT",
     name: { de: "Landeck", hu: "Landeck", ro: "Landeck", en: "Landeck" },
     coords: [10.5647, 47.1356],
     description: {
@@ -1221,7 +1221,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-weiz-cities-v2",
     type: "city",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Weiz", hu: "Weiz", ro: "Weiz", en: "Weiz" },
     coords: [15.6203, 47.2208],
     description: {
@@ -1253,7 +1253,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-imst-cities-v2",
     type: "city",
-    parent: "AT-7",
+    parent: "AT",
     name: { de: "Imst", hu: "Imst", ro: "Imst", en: "Imst" },
     coords: [10.7417, 47.2344],
     description: {
@@ -1285,7 +1285,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-hartberg-cities-v2",
     type: "city",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Hartberg", hu: "Hartberg", ro: "Hartberg", en: "Hartberg" },
     coords: [15.9686, 47.28],
     description: {
@@ -1317,7 +1317,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-bad-voslau-cities-v2",
     type: "city",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Bad Vöslau", hu: "Bad Vöslau", ro: "Bad Vöslau", en: "Bad Vöslau" },
     coords: [16.2197, 47.9658],
     description: {
@@ -1349,7 +1349,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-brunn-am-gebirge-cities-v2",
     type: "city",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Brunn am Gebirge", hu: "Brunn am Gebirge", ro: "Brunn am Gebirge", en: "Brunn am Gebirge" },
     coords: [16.2894, 48.1006],
     description: {
@@ -1381,7 +1381,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-leonding-cities-v2",
     type: "city",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Leonding", hu: "Leonding", ro: "Leonding", en: "Leonding" },
     coords: [14.25, 48.2833],
     description: {
@@ -1413,7 +1413,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-ganserndorf-cities-v2",
     type: "city",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Gänserndorf", hu: "Gänserndorf", ro: "Gänserndorf", en: "Gänserndorf" },
     coords: [16.7164, 48.3361],
     description: {
@@ -1445,7 +1445,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-tulln-an-der-donau-cities-v2",
     type: "city",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Tulln an der Donau", hu: "Tulln an der Donau", ro: "Tulln an der Donau", en: "Tulln an der Donau" },
     coords: [16.0522, 48.3306],
     description: {
@@ -1477,7 +1477,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-st-veit-an-der-glan-cities-v2",
     type: "city",
-    parent: "AT-2",
+    parent: "AT",
     name: { de: "St. Veit an der Glan", hu: "St. Veit an der Glan", ro: "St. Veit an der Glan", en: "St. Veit an der Glan" },
     coords: [14.3619, 46.7686],
     description: {
@@ -1509,7 +1509,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-hermagor-cities-v2",
     type: "city",
-    parent: "AT-HoheTauern",
+    parent: "AT",
     name: { de: "Hermagor-Pressegger See", hu: "Hermagor-Pressegger See", ro: "Hermagor-Pressegger See", en: "Hermagor-Pressegger See" },
     coords: [13.3644, 46.6267],
     description: {
@@ -1541,7 +1541,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-fehring-cities-v2",
     type: "city",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Fehring", hu: "Fehring", ro: "Fehring", en: "Fehring" },
     coords: [16.0125, 46.9456],
     description: {
@@ -1573,7 +1573,7 @@ export const austriaCitiesV2: POI[] = [
   {
     id: "austria-gleisdorf-cities-v2",
     type: "city",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Gleisdorf", hu: "Gleisdorf", ro: "Gleisdorf", en: "Gleisdorf" },
     coords: [15.7056, 47.1008],
     description: {

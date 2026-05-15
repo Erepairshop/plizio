@@ -626,5 +626,139 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
       en: ["Crossed by the Taedong River and its tributaries.", "Very fertile soil, ideal for rice cultivation.", "A densely populated area."]
     }
   }
+,
+  {
+    id: "northkorea-hamgyong-mountains-relief-v2",
+    type: "mountain",
+    name: { de: "Hamgyong-Gebirge", hu: "Hamgjong-hegység", ro: "Munții Hamgyong", en: "Hamgyong Mountains" },
+    coords: [129.0, 41.5],
+    description: {
+      de: "Das Hamgyong-Gebirge erstreckt sich entlang der Nordostküste Nordkoreas und bildet das zerklüftete Rückgrat der Region.",
+      hu: "A Hamgjong-hegység Észak-Korea északkeleti partvidékén húzódik, és a régió rögös gerincét alkotja.",
+      ro: "Munții Hamgyong se întind de-a rândul coastei de nord-est a Coreei de Nord, formând coloana vertebrală a regiunii.",
+      en: "The Hamgyong Mountains stretch along the northeastern coast of North Korea, forming the rugged backbone of the region.",
+    },
+    facts: {
+      de: ["Beinhaltet den Kwanmobong als höchsten Gipfel", "Erstreckt sich über ca. 350 Kilometer", "Besteht überwiegend aus metamorphem Gestein", "Wichtiger Lebensraum für sibirische Tiger"],
+      hu: ["Magában foglalja a legmagasabb csúcsot, a Kwanmobongot", "Körülbelül 350 kilométer hosszan húzódik", "Főként metamorf kőzetekből épül fel", "A szibériai tigris fontos élőhelye"],
+      ro: ["Include vârful Kwanmobong ca cel mai înalt punct", "Se întinde pe aproximativ 350 de kilometri", "Compus predominant din roci metamorfice", "Habitat important pentru tigrul siberian"],
+      en: ["Contains Kwanmo Peak as its highest summit", "Extends for approximately 350 kilometers", "Composed primarily of metamorphic rocks", "Important habitat for Siberian tigers"],
+    },
+    imageHint: "Snow-capped Hamgyong mountain range in North Korea",
+  },
+  {
+    id: "northkorea-kwanmo-peak-relief-v2",
+    type: "peak",
+    name: { de: "Kwanmobong", hu: "Kwanmobong", ro: "Vârful Kwanmo", en: "Kwanmo Peak" },
+    coords: [129.214, 41.516],
+    description: {
+      de: "Mit 2.540 Metern ist der Kwanmobong der höchste Gipfel des Hamgyong-Gebirges und der zweithöchste Berg des Landes.",
+      hu: "A 2540 méter magas Kwanmobong a Hamgjong-hegység legmagasabb csúcsa és az ország második legmagasabb hegye.",
+      ro: "Cu o înălțime de 2.540 de metri, Kwanmobong este cel mai înalt vârf din munții Hamgyong și al doilea ca înălțime din țară.",
+      en: "Standing at 2,540 meters, Kwanmo Peak is the highest summit of the Hamgyong Mountains and the second-highest mountain in the country.",
+    },
+    facts: {
+      de: ["Gipfelhöhe beträgt 2.540 Meter", "Befindet sich in der Provinz Hamgyong-pukto", "Granit- und Gneis-Formationen dominieren", "Zweithöchster Berg auf der koreanischen Halbinsel"],
+      hu: ["A csúcs magassága 2540 méter", "Észak-Hamgjong tartományban található", "Gránit és gneisz formációk dominálnak", "A Koreai-félsziget második legmagasabb hegye"],
+      ro: ["Înălțimea vârfului este de 2.540 metri", "Situat în provincia Hamgyong de Nord", "Dominat de formațiuni de granit și gnais", "Al doilea cel mai înalt munte din peninsula Coreeană"],
+      en: ["Summit elevation reaches 2,540 meters", "Located in North Hamgyong Province", "Granite and gneiss formations dominate", "Second highest mountain on the Korean Peninsula"],
+    },
+    imageHint: "Rugged granite peak of Mount Kwanmo",
+  },
+  {
+    id: "northkorea-ahobiryong-mountains-relief-v2",
+    type: "mountain",
+    name: { de: "Ahobiryong-Gebirge", hu: "Ahobirjong-hegység", ro: "Munții Ahobiryong", en: "Ahobiryong Mountains" },
+    coords: [126.6, 38.4],
+    description: {
+      de: "Das Ahobiryong-Gebirge ist ein Mittelgebirgszug im Süden des Landes, der für seine dichten Wälder und steilen Hänge bekannt ist.",
+      hu: "Az Ahobirjong-hegység egy középhegység az ország déli részén, amely sűrű erdőiről és meredek lejtőiről ismert.",
+      ro: "Munții Ahobiryong sunt un lanț muntos de înălțime medie în sudul țării, cunoscuți pentru pădurile dese și pantele abrupte.",
+      en: "The Ahobiryong Mountains are a mid-altitude range in the southern part of the country, known for dense forests and steep slopes.",
+    },
+    facts: {
+      de: ["Gehört zum Choguryong-Gebirgssystem", "Durchschnittliche Höhe liegt bei 800 Metern", "Reich an kristallinen Gesteinen", "Bedeutender Wasserspeicher für den Süden"],
+      hu: ["A Csogurjong-hegységrendszer része", "Átlagos magassága 800 méter körüli", "Gazdag kristályos kőzetekben", "Jelentős víztározó terület a déli részen"],
+      ro: ["Parte a sistemului muntos Choguryong", "Înălțimea medie este de aproximativ 800 de metri", "Bogat în roci cristaline vechi", "Sursă importantă de apă pentru regiunea sudică"],
+      en: ["Part of the Choguryong mountain system", "Average height is around 800 meters", "Rich in ancient crystalline rocks", "Significant water catchment area for the south"],
+    },
+    imageHint: "Dense forested slopes of Ahobiryong Mountains",
+  },
+  {
+    id: "northkorea-pukdaebong-mountains-relief-v2",
+    type: "mountain",
+    name: { de: "Pukdaebong-Gebirge", hu: "Pukdebong-hegység", ro: "Munții Pukdaebong", en: "Pukdaebong Mountains" },
+    coords: [126.9, 39.4],
+    description: {
+      de: "Dieses Gebirge fungiert als klimatische Trennlinie zwischen den feuchteren Küstengebieten und dem trockeneren Binnenland.",
+      hu: "Ez a hegység éghajlati választóvonalként funkcionál a nedvesebb tengerparti területek és a szárazabb belső vidékek között.",
+      ro: "Acești munți funcționează ca o linie de demarcație climatică între zonele de coastă umede și interiorul mai uscat.",
+      en: "This mountain range acts as a climatic dividing line between the wetter coastal areas and the drier inland regions.",
+    },
+    facts: {
+      de: ["Bildet die Wasserscheide in Zentralkorea", "Besitzt umfangreiche Kalksteinvorkommen", "Bekannt für markante Karstlandschaften", "Verbindet das Nangnim- mit dem Taebaek-Gebirge"],
+      hu: ["Vízválasztót alkot Közép-Koreában", "Jelentős mészkőlelőhelyekkel rendelkezik", "Jellegzetes karsztformációiról ismert", "Összeköti a Nangnim és a Tepek hegységet"],
+      ro: ["Formează o cumpănă a apelor în Coreea Centrală", "Deține depozite extinse de calcar", "Cunoscut pentru peisajele carstice distincte", "Conectează munții Nangnim cu munții Taebaek"],
+      en: ["Forms a watershed divide in central Korea", "Possesses extensive limestone deposits", "Known for distinct karst landscapes", "Connects the Nangnim and Taebaek ranges"],
+    },
+    imageHint: "Limestone karst formations in Pukdaebong Mountains",
+  },
+  {
+    id: "northkorea-pujonryong-mountains-relief-v2",
+    type: "mountain",
+    name: { de: "Pujonryong-Gebirge", hu: "Phudzsonrjong-hegység", ro: "Munții Pujonryong", en: "Pujonryong Mountains" },
+    coords: [127.4, 40.5],
+    description: {
+      de: "Das Pujonryong-Gebirge zeichnet sich durch seine asymmetrische Form mit einem steilen Osthang und einem sanfteren Westhang aus.",
+      hu: "A Phudzsonrjong-hegység aszimmetrikus formájával tűnik ki, meredek keleti lejtővel és lankásabb nyugati oldallal.",
+      ro: "Munții Pujonryong se disting prin forma lor asimetrică, cu o pantă estică abruptă și un versant vestic mai domol.",
+      en: "The Pujonryong Mountains are distinguished by their asymmetric shape, with a steep eastern slope and a gentler western side.",
+    },
+    facts: {
+      de: ["Teil des südlichen Randes des Kaema-Hochlandes", "Durchschnittliche Höhe von 1.500 Metern", "Fällt steil zum Japanischen Meer ab", "Quelle zahlreicher Flüsse wie dem Changjin"],
+      hu: ["A Kema-fennsík déli peremének része", "Átlagos magassága 1500 méter", "Meredeken szakad le a Japán-tenger felé", "Számos folyó, például a Csangdzsin forrásvidéke"],
+      ro: ["Parte a marginii sudice a Podișului Kaema", "Înălțime medie de 1.500 de metri", "Coboară abrupt spre Marea Japoniei", "Sursa a numeroase râuri, inclusiv Changjin"],
+      en: ["Part of the southern edge of the Kaema Highlands", "Average elevation of 1,500 meters", "Drops steeply toward the East Sea", "Source of several rivers including the Changjin"],
+    },
+    imageHint: "Steep eastern escarpment of Pujonryong Mountains",
+  },
+  {
+    id: "northkorea-hyesan-basin-relief-v2",
+    type: "valley",
+    name: { de: "Hyesan-Becken", hu: "Hjeszan-medence", ro: "Bazinul Hyesan", en: "Hyesan Basin" },
+    coords: [128.2, 41.3],
+    description: {
+      de: "Das Hyesan-Becken ist eine tektonische Senke am Oberlauf des Yalu-Flusses, die eine wichtige landwirtschaftliche Fläche bildet.",
+      hu: "A Hjeszan-medence egy tektonikus süllyedék a Jalu folyó felső szakaszánál, amely fontos mezőgazdasági területet alkot.",
+      ro: "Bazinul Hyesan este o depresiune tectonică situată la cursul superior al râului Yalu, formând o zonă agricolă importantă.",
+      en: "The Hyesan Basin is a tectonic depression located at the upper reaches of the Yalu River, forming an important agricultural area.",
+    },
+    facts: {
+      de: ["Liegt in der Provinz Ryanggang", "Umgeben vom vulkanischen Paektu-Plateau", "Durchschnittliche Seehöhe von 700 Metern", "Bekannt für extrem kalte Wintertemperaturen"],
+      hu: ["Rjanggang tartományban található", "A vulkanikus Pektu-fennsík veszi körül", "Átlagos tengerszint feletti magassága 700 méter", "Extrém hideg téli hőmérsékleteiről ismert"],
+      ro: ["Situat în provincia Ryanggang", "Înconjurat de platoul vulcanic Paektu", "Altitudine medie de 700 de metri", "Cunoscut pentru temperaturile extrem de scăzute iarna"],
+      en: ["Located in Ryanggang Province", "Surrounded by the volcanic Paektu plateau", "Average elevation of 700 meters", "Known for extremely cold winter temperatures"],
+    },
+    imageHint: "Aerial view of Hyesan Basin surrounded by mountains",
+  },
+  {
+    id: "northkorea-osong-mountain-relief-v2",
+    type: "peak",
+    name: { de: "Osongsan", hu: "Oszong-szan", ro: "Muntele Osong", en: "Mount Osong" },
+    coords: [127.35, 38.35],
+    description: {
+      de: "Der Osongsan ist ein strategisch bedeutender Berg in der Nähe der Demilitarisierten Zone mit weitem Blick über das Umland.",
+      hu: "Az Oszong-szan egy stratégiailag jelentős hegy a demilitarizált övezet közelében, széles kilátással a környező vidékre.",
+      ro: "Osongsan este un munte important din punct de vedere strategic în apropierea Zonei Demilitarizate, oferind o vedere largă asupra împrejurimilor.",
+      en: "Mount Osong is a strategically significant mountain near the Demilitarized Zone, offering a wide view over the surrounding countryside.",
+    },
+    facts: {
+      de: ["Gipfelhöhe von 1.062 Metern", "Befindet sich in der Provinz Kangwon", "Besteht hauptsächlich aus Granit", "Wichtiger Beobachtungspunkt während des Koreakriegs"],
+      hu: ["A csúcs magassága 1062 méter", "Kangvon tartományban található", "Főként gránitból épül fel", "Fontos megfigyelőpont volt a koreai háború alatt"],
+      ro: ["Înălțimea vârfului este de 1.062 metri", "Situat în provincia Kangwon", "Compus în principal din granit", "Punct de observație important în timpul Războiului din Coreea"],
+      en: ["Summit elevation of 1,062 meters", "Located in Kangwon Province", "Composed primarily of granite", "Key observation point during the Korean War"],
+    },
+    imageHint: "Strategic peak of Mount Osong near the DMZ",
+  }
 ];
 

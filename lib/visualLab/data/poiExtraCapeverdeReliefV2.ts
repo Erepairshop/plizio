@@ -662,5 +662,68 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
       en: ["Maximum elevation: up to 800 m", "Island: Santiago", "Location: northwest", "Watershed: yes", "Nearest town: Assomada", "Protected area: Serra Malagueta"],
     },
   }
+,
+  {
+    id: "capeverde-pico-da-cruz-relief-v2",
+    type: "peak",
+    name: { de: "Pico da Cruz", hu: "Pico da Cruz", ro: "Pico da Cruz", en: "Pico da Cruz" },
+    coords: [-25.0289, 17.1022],
+    description: {
+      de: "Dieser Gipfel erreicht 1.585 Meter im Osten der Insel Santo Antão. Er bietet Ausblicke auf die Cova-Caldera und die Nordküste.",
+      hu: "Ez a csúcs 1585 méter magas Santo Antão szigetének keleti felén. Kilátást nyújt a Cova-kalderára és az északi partvidékre.",
+      ro: "Acest vârf atinge 1.585 de metri în partea de est a insulei Santo Antão. Oferă priveliști spre caldera Cova și coasta de nord.",
+      en: "This peak reaches 1,585 meters on the eastern side of Santo Antão island. It overlooks the Cova caldera and the northern coastline.",
+    },
+    facts: {
+      de: ["Höhe von 1.585 Metern", "Auf der Insel Santo Antão", "Nahe dem Cova-Krater", "Teil eines Naturparks"],
+      hu: ["1585 méteres magasság", "Santo Antão szigetén", "A Cova-kráter közelében", "Természeti park része"],
+      ro: ["Înălțime de 1.585 metri", "Pe insula Santo Antão", "Lângă craterul Cova", "Parte a unui parc natural"],
+      en: ["Elevation of 1,585 meters", "Located on Santo Antão", "Near the Cova crater", "Part of a natural park"],
+    },
+    imageHint: "Pico da Cruz mountain peak Santo Antão Cape Verde with mist",
+    descriptionAdvanced: {
+      de: "Der Pico da Cruz auf der Insel Santo Antão ist ein markanter Gipfel mit einer Höhe von 1.585 Metern über dem Meeresspiegel. Er liegt im Nordwesten der Insel und ist Teil der vulkanischen Bergkette. Der Gipfel bietet eine spektakuläre Aussicht auf das Tal von Paul und die umliegenden Berge. Die Besteigung ist anspruchsvoll und führt über steile Pfade. Die Region ist bekannt für ihre vielfältige Mikroklima und grüne Vegetation.",
+      hu: "A Pico da Cruz Santo Antão szigetén található, kiemelkedő csúcs, magassága 1.585 méter. A sziget északnyugati részén fekszik, a vulkáni hegylánc része. A csúcsról lenyűgöző kilátás nyílik a Paul-völgyre és a környező hegyekre. A megmászása nehéz, meredek ösvényeken keresztül vezet. A régió változatos mikroklímájáról és zöld növényzetéről ismert.",
+      ro: "Pico da Cruz de pe insula Santo Antão este un vârf proeminent, cu o altitudine de 1.585 de metri. Situat în nord-vestul insulei, face parte din lanțul muntos vulcanic. Vârful oferă o priveliște spectaculoasă asupra văii Paul și a munților înconjurători. Ascensiunea este dificilă, pe poteci abrupte. Zona este cunoscută pentru microclimatul său variat și vegetația verde.",
+      en: "Pico da Cruz on Santo Antão Island is a prominent peak rising 1,585 meters above sea level. Located in the northwest, it is part of the volcanic mountain range. The summit offers panoramic views of the Paul Valley and surrounding peaks. The climb is challenging, with steep trails through diverse microclimates. The area is known for its lush vegetation, contrasting with the island's arid coastal zones.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.585 Meter", "Standort: Nordwesten von Santo Antão", "Geologische Formation: vulkanisch", "Aufstiegszeit: 4-6 Stunden", "Durchschnittstemperatur am Gipfel: 10°C", "Niederschlag: über 1.000 mm/Jahr"],
+      hu: ["Magasság: 1.585 méter", "Elhelyezkedés: Santo Antão északnyugati része", "Geológiai képződmény: vulkáni", "Mászási idő: 4-6 óra", "Átlaghőmérséklet a csúcson: 10°C", "Csapadék: több mint 1.000 mm/év"],
+      ro: ["Altitudine: 1.585 de metri", "Locație: nord-vestul Santo Antão", "Formațiune geologică: vulcanică", "Timp de ascensiune: 4-6 ore", "Temperatura medie la vârf: 10°C", "Precipitații: peste 1.000 mm/an"],
+      en: ["Height: 1,585 meters", "Location: northwestern Santo Antão", "Geological formation: volcanic", "Climbing time: 4-6 hours", "Average summit temperature: 10°C", "Rainfall: over 1,000 mm/year"],
+    },
+  },
+  {
+    id: "capeverde-monte-graciosa-relief-v2",
+    type: "mountain",
+    name: { de: "Monte Graciosa", hu: "Monte Graciosa", ro: "Monte Graciosa", en: "Monte Graciosa" },
+    coords: [-23.7544, 15.2811],
+    description: {
+      de: "Dieser Berg erhebt sich 645 Meter über der Stadt Tarrafal im Norden von Santiago. Er ist geprägt von Steilhängen und Basaltgestein.",
+      hu: "Ez a hegy 645 méterrel magasodik a Santiago északi részén fekvő Tarrafal fölé. Meredek lejtők és bazaltkőzetek jellemzik.",
+      ro: "Acest munte se ridică la 645 de metri deasupra orașului Tarrafal din nordul insulei Santiago. Este marcat de pante abrupte și bazalt.",
+      en: "This mountain rises 645 meters above the northern town of Tarrafal on Santiago. It is characterized by steep slopes and basaltic rock.",
+    },
+    facts: {
+      de: ["Höhe von 645 Metern", "Nördlich von Tarrafal gelegen", "Vulkanische Basaltformation", "Markante Küstensilhouette"],
+      hu: ["645 méteres magasság", "Tarrafal várostól északra", "Vulkanikus bazaltképződmény", "Jellegzetes parti sziluett"],
+      ro: ["Înălțime de 645 metri", "Situat la nord de Tarrafal", "Formațiune bazaltică vulcanică", "Siluetă costieră distinctivă"],
+      en: ["Elevation of 645 meters", "Located north of Tarrafal", "Volcanic basalt formation", "Distinctive coastal silhouette"],
+    },
+    imageHint: "Monte Graciosa mountain overlooking Tarrafal bay Santiago Cape Verde",
+    descriptionAdvanced: {
+      de: "Der Monte Graciosa auf der Insel Santiago ist ein erloschener Vulkankegel mit einer Höhe von 642 Metern. Er liegt im Nordosten der Insel und ist von landwirtschaftlich genutzten Flächen umgeben. Der Berg ist ein beliebtes Ziel für Wanderer, die einen Panoramablick auf die Küste und das Hinterland genießen. Die Hänge sind mit Buschland und vereinzelten Bäumen bewachsen. Der Monte Graciosa ist Teil eines wichtigen Wassereinzugsgebiets.",
+      hu: "A Monte Graciosa Santiago szigetén található, egy kialudt vulkáni kúp, magassága 642 méter. A sziget északkeleti részén fekszik, mezőgazdasági területekkel körülvéve. A hegy népszerű túracélpont, ahonnan panorámás kilátás nyílik a partvidékre és a belső területekre. Lejtőit bozótos és elszórt fák borítják. A Monte Graciosa fontos vízgyűjtő terület része.",
+      ro: "Monte Graciosa de pe insula Santiago este un con vulcanic stins, cu o altitudine de 642 de metri. Situat în nord-estul insulei, este înconjurat de terenuri agricole. Muntele este o destinație populară pentru drumeții, oferind vederi panoramice asupra coastei și a interiorului. Pantele sunt acoperite cu tufișuri și copaci rari. Monte Graciosa face parte dintr-o importantă zonă de captare a apei.",
+      en: "Monte Graciosa on Santiago Island is an extinct volcanic cone reaching 642 meters in elevation. Located in the northeast, it is surrounded by agricultural land. The mountain is a popular hiking spot, offering panoramic views of the coast and hinterland. Slopes are covered with scrub vegetation and scattered trees. It is part of a key watershed that supplies water to nearby communities.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 642 Meter", "Standort: Nordosten von Santiago", "Geologische Formation: erloschener Vulkankegel", "Umgebung: landwirtschaftliche Flächen", "Vegetation: Buschland, wenige Bäume", "Wassereinzugsgebiet: versorgt 5 Dörfer"],
+      hu: ["Magasság: 642 méter", "Elhelyezkedés: Santiago északkeleti része", "Geológiai képződmény: kialudt vulkáni kúp", "Környezet: mezőgazdasági területek", "Növényzet: bozótos, kevés fa", "Vízgyűjtő terület: 5 falut lát el"],
+      ro: ["Altitudine: 642 de metri", "Locație: nord-estul Santiago", "Formațiune geologică: con vulcanic stins", "Împrejurimi: terenuri agricole", "Vegetație: tufișuri, puțini copaci", "Bazin hidrografic: alimentează 5 sate"],
+      en: ["Height: 642 meters", "Location: northeastern Santiago", "Geological formation: extinct volcanic cone", "Surroundings: agricultural fields", "Vegetation: scrub, few trees", "Watershed: supplies 5 villages"],
+    },
+  }
 ];
 

@@ -779,5 +779,37 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
       en: ["Giant granite monolith.", "Offers wide view."]
     }
   }
+,
+  {
+    id: "frenchguiana-mont-belv-d-relief-v2",
+    type: "mountain",
+    name: { de: "Mont Belvédère", hu: "Mont Belvédère", ro: "Mont Belvédère", en: "Mont Belvédère" },
+    coords: [-53.2167, 3.7333],
+    description: {
+      de: "Der Mont Belvédère ist eine Erhebung im Inneren von Französisch-Guayana. Er ist Teil des stark bewaldeten Hochlandes nahe der Grenze zu Suriname.",
+      hu: "A Mont Belvédère egy kiemelkedés Francia Guyana belsejében. A Suriname határához közeli, sűrűn erdősült felföld részét képezi.",
+      ro: "Mont Belvédère este o înălțime situată în interiorul Guyanei Franceze. Face parte din platoul dens împădurit din apropierea graniței cu Surinam.",
+      en: "Mont Belvédère is an elevation located in the interior of French Guiana. It is part of the heavily forested highlands near the border with Suriname.",
+    },
+    facts: {
+      de: ["Liegt im Grenzgebiet zu Suriname", "Gehört zum zentralen Bergland", "Höhe liegt im Bereich der guyanischen Schildes", "Region ist fast unbewohnt"],
+      hu: ["A Suriname-i határ közelében fekszik", "A központi hegyvidék része", "Magassága a Guyanai-pajzshoz köthető", "A régió szinte lakatlan"],
+      ro: ["Situat în zona de graniță cu Surinam", "Parte a munților centrali", "Altitudine legată de Scutul Guyanelor", "Regiune aproape nelocuită"],
+      en: ["Located near the Suriname border", "Part of the central highlands", "Elevation linked to the Guiana Shield", "Region is nearly uninhabited"],
+    },
+    imageHint: "dense rainforest landscape French Guiana mountains",
+    descriptionAdvanced: {
+      de: "Der Mont Belvédère ist ein markanter Hügel im Norden Französisch-Guayanas, der als Aussichtspunkt über die Küstenebene und das Regenwaldgebiet dient. Mit einer Höhe von 350 Metern ist er einer der höchsten Punkte der Region. Der Gipfel ist über einen Wanderweg erreichbar, der durch dichten Wald führt. Auf dem Weg sind Brückentiere wie Brüllaffen und Tukane zu beobachten. Vom Gipfel aus bietet sich ein Panoramablick auf die Flussmündungen und die Stadt Cayenne in der Ferne. Der Mont Belvédère ist geologisch Teil des Guayana-Schildes, des ältesten Gesteins Südamerikas. In der Kolonialzeit diente der Hügel als strategischer Beobachtungsposten.",
+      hu: "A Mont Belvédère egy 350 méter magas domb Francia Guyana északi részén, amely kilátóként szolgál a környező síkságra. A csúcsra vezető ösvény a trópusi erdőben kanyarog, ahol majmok és tukánok láthatók. A domb geológiailag a Guayana-pajzs része, amely Dél-Amerika legidősebb kőzeteiből áll. A tetejéről kilátás nyílik a parti lagúnákra és a Crique Gabaret-re. A helyi legendák szerint a domb szellemek lakhelye. A francia gyarmati időkben itt volt egy őrtorony. Manapság a túrázók kedvelt célpontja. A környéken számos ritka növényfaj él.",
+      ro: "Mont Belvédère este o colină de 350 m înălțime din nordul Guyanei Franceze, cunoscută pentru priveliștea panoramică asupra coastei. Accesul se face pe un traseu de 2 km prin pădure tropicală, bogată în faună, inclusiv maimuțe urlătoare. Din punct de vedere geologic, colina face parte din Scutul Guianei, cu roci vechi de peste 2 miliarde de ani. În trecut, a fost folosită ca punct de observație de către coloniștii francezi. Astăzi, este o rezervație naturală care protejează păsările de pradă. De pe vârf se văd orașul Cayenne și Oceanul Atlantic. Zona este ideală pentru observarea apusurilor.",
+      en: "Mont Belvédère is a 350 m hill in northern French Guiana, offering sweeping views of the coastal plain and the Atlantic. It is accessible via a 2 km hiking trail through humid forest, home to howler monkeys and toucans. Geologically, it is part of the Guiana Shield, one of the oldest land formations on Earth, dating back over 2 billion years. The hill was historically used as a lookout during the colonial era. Today, it is a popular spot for sunrise hikes and birdwatching, with over 100 avian species recorded. Its summit features a small clearing with benches for visitors.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 350 m", "Wanderweglänge: 2 km", "Geologische Formation: Guayana-Schild", "Alter: 2 Milliarden Jahre", "Vogelarten: über 100", "Entfernung nach Cayenne: 15 km"],
+      hu: ["magasság: 350 m", "túraút hossza: 2 km", "geológiai kor: 2 milliárd év", "madárfajok: 100+", "tengerszint feletti magasság a bázistól: 300 m", "látogatók száma évente: 10 000"],
+      ro: ["înălțime: 350 m", "lungime traseu: 2 km", "vârstă geologică: 2 miliarde de ani", "specii de păsări: 100+", "distanța față de Cayenne: 15 km", "anul deschiderii traseului: 1985"],
+      en: ["elevation: 350 m", "trail length: 2 km", "geologic age: 2 billion years", "bird species: over 100", "distance from Cayenne: 15 km", "protected since: 1985"],
+    },
+  }
 ];
 

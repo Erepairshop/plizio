@@ -516,4 +516,62 @@ export const poiExtraSyriaReliefV2: POI[] = [
       en: ["Elevation: 900 m", "Annual rainfall: less than 200 mm", "Distance to Palmyra: 30 km", "Number of rock-cut tombs: 15", "Average July temperature: 38°C", "Population: approximately 2,000"],
     },
   }
+,
+  {
+    id: "syria-jabal-al-hass-relief-v2",
+    type: "mountain",
+    name: { de: "Dschebel al-Hass", hu: "Dzsebel al-Hassz", ro: "Jabal al-Hass", en: "Jabal al-Hass" },
+    coords: [37.35, 35.85],
+    description: {
+      de: "Basaltisches Hochland südlich von Aleppo, bekannt für fruchtbaren vulkanischen Boden und traditionelle Bauweisen in Bienenkorbform.",
+      hu: "Jelentős bazaltfennsík Aleppótól délre, amely termékeny vulkanikus talajáról és a hagyományos, méhkas alakú agyagházairól nevezetes.",
+      ro: "O regiune de podiș bazaltic situată la sud de Alep, cunoscută pentru solul vulcanic fertil și casele tradiționale în formă de stup.",
+      en: "A significant basaltic upland region located south of Aleppo, known for its fertile volcanic soil and traditional beehive-shaped houses.",
+    },
+    facts: {
+      de: ["Basaltisches Hochlandplateau", "Südlich von Aleppo gelegen", "Höhe von bis zu 600 Metern", "Reich an vulkanischem Boden"],
+      hu: ["Bazaltos felföldi terület", "Aleppótól délre található", "Magassága eléri a 600 métert", "Gazdag vulkanikus termőtalaj"],
+      ro: ["Regiune de podiș bazaltic", "Situat la sud de Alep", "Altitudine de 600 de metri", "Sol vulcanic fertil"],
+      en: ["Basaltic upland region", "Located south of Aleppo", "Elevation reaches 600 meters", "Rich volcanic agricultural soil"],
+    },
+    imageHint: "Basaltic plateau landscape near Aleppo with traditional beehive houses",
+  },
+  {
+    id: "syria-jabal-sis-relief-v2",
+    type: "peak",
+    name: { de: "Dschebel Sis", hu: "Dzsebel Szisz", ro: "Jabal Sis", en: "Jabal Sis" },
+    coords: [37.37, 33.43],
+    description: {
+      de: "Ein isolierter, erloschener Vulkankegel in der syrischen Wüste, der als markanter Orientierungspunkt an alten Handelswegen dient.",
+      hu: "Elszigetelt, kialudt vulkáni kúp a Szíriai-sivatagban, amely kiemelkedő természetes tájékozódási pontként szolgált az ősi utakon.",
+      ro: "Un con vulcanic izolat și stins în Deșertul Sirian, servind drept un reper natural proeminent de-a lungul rutelor comerciale antice.",
+      en: "An isolated, extinct volcanic cone rising from the Syrian Desert, serving as a prominent natural landmark along ancient trade routes.",
+    },
+    facts: {
+      de: ["Erloschener Vulkankegel", "In der syrischen Wüste gelegen", "Wegpunkt für antike Karawanen", "Besitzt einen deutlichen Krater"],
+      hu: ["Kialudt vulkáni kúp", "A Szíriai-sivatagban fekszik", "Karavánok tájékozódási pontja", "Jellegzetes kráterrel rendelkezik"],
+      ro: ["Con vulcanic stins", "Situat în Deșertul Sirian", "Reper pentru caravane", "Prezintă un crater distinct"],
+      en: ["Extinct volcanic cone", "Located in the Syrian Desert", "Used as a landmark for caravans", "Features a distinct crater"],
+    },
+    imageHint: "Solitary volcanic cone Jabal Sis in the Syrian desert",
+  },
+  {
+    id: "syria-yarmouk-valley-relief-v2",
+    type: "valley",
+    name: { de: "Jarmuk-Tal", hu: "Jarmúk-völgy", ro: "Valea Yarmouk", en: "Yarmouk Valley" },
+    coords: [35.88, 32.74],
+    description: {
+      de: "Ein tiefer Fluss-Canyon an der Grenze zu Jordanien, geprägt durch steile Basaltfelsen und ein besonderes lokales Mikroklima.",
+      hu: "Mély folyóvölgy a jordán határon, amelyet meredek bazaltsziklák és egyedi mikroklima jellemez a dél-szíriai tájegységben.",
+      ro: "Un canion fluvial dramatic la granița cu Iordania, caracterizat de stânci abrupte de bazalt și un microclimat local unic.",
+      en: "A dramatic river canyon forming the natural border with Jordan, characterized by steep basalt cliffs and a unique microclimate.",
+    },
+    facts: {
+      de: ["Tiefer Basalt-Canyon", "Grenze zwischen Syrien und Jordanien", "Teil des Grabenbruchsystems", "Ort bedeutender historischer Schlachten"],
+      hu: ["Mély bazaltkanyon", "Határt képez Jordániával", "A Nagy-hasadékvölgy része", "Ókori csaták helyszíne"],
+      ro: ["Canion adânc de bazalt", "Formează granița cu Iordania", "Parte a Marii Văi a Riftului", "Locul unor bătălii istorice"],
+      en: ["Deep basaltic canyon", "Forms border with Jordan", "Part of the Great Rift Valley", "Site of ancient historical battles"],
+    },
+    imageHint: "Aerial view of Yarmouk River canyon border Syria Jordan",
+  }
 ];

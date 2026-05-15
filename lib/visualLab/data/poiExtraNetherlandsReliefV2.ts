@@ -4,7 +4,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-vaalserberg-relief-v2",
     type: "peak",
-    parent: "NL-LI",
+    parent: "NL",
     name: { de: "Vaalserberg", hu: "Vaalserberg", ro: "Vaalserberg", en: "Vaalserberg" },
     coords: [6.0203, 50.7597],
     description: {
@@ -36,7 +36,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-sint-pietersberg-relief-v2",
     type: "mountain",
-    parent: "NL-LI",
+    parent: "NL",
     name: { de: "Sint-Pietersberg", hu: "Sint-Pietersberg", ro: "Sint-Pietersberg", en: "Sint-Pietersberg" },
     coords: [5.6811, 50.8228],
     description: {
@@ -68,7 +68,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-wieringen-highlands-relief-v2",
     type: "mountain",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Wieringen Hochland", hu: "Wieringen-felföld", ro: "Wieringen-platou", en: "Wieringen Highlands" },
     coords: [4.975, 52.9083],
     description: {
@@ -100,7 +100,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-posbank-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Posbank", hu: "Posbank", ro: "Posbank", en: "Posbank" },
     coords: [6.0333, 52.0167],
     description: {
@@ -132,7 +132,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-holterberg-relief-v2",
     type: "mountain",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Holterberg", hu: "Holterberg", ro: "Holterberg", en: "Holterberg" },
     coords: [6.45, 52.3167],
     description: {
@@ -164,7 +164,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-grebbeberg-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Grebbeberg", hu: "Grebbeberg", ro: "Grebbeberg", en: "Grebbeberg" },
     coords: [5.5911, 51.9564],
     description: {
@@ -196,7 +196,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-amerongse-berg-relief-v2",
     type: "mountain",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Amerongse Berg", hu: "Amerongse Berg", ro: "Amerongse Berg", en: "Amerongse Berg" },
     coords: [5.4667, 52.0],
     description: {
@@ -228,7 +228,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-lemelerberg-relief-v2",
     type: "mountain",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Lemelerberg", hu: "Lemelerberg", ro: "Lemelerberg", en: "Lemelerberg" },
     coords: [6.4333, 52.45],
     description: {
@@ -260,7 +260,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-scherpenberg-relief-v2",
     type: "mountain",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Scherpenberg", hu: "Scherpenberg", ro: "Scherpenberg", en: "Scherpenberg" },
     coords: [5.48, 52.01],
     description: {
@@ -292,7 +292,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-zonnestraal-hill-relief-v2",
     type: "mountain",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Zonnestraal Hügel", hu: "Zonnestraal-domb", ro: "Zonnestraal colină", en: "Zonnestraal Hill" },
     coords: [5.185, 52.215],
     description: {
@@ -324,7 +324,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-kootwijkerzand-relief-v2",
     type: "valley",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Kootwijkerzand", hu: "Kootwijkerzand", ro: "Kootwijkerzand", en: "Kootwijkerzand" },
     coords: [5.75, 52.1667],
     description: {
@@ -356,7 +356,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-duin-en-kruidberg-relief-v2",
     type: "mountain",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Duin- en Kruidberg", hu: "Duin- en Kruidberg", ro: "Duin- en Kruidberg", en: "Duin- en Kruidberg" },
     coords: [4.5833, 52.4167],
     description: {
@@ -388,7 +388,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-binnenveld-valley-relief-v2",
     type: "valley",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Binnenveld", hu: "Binnenveld", ro: "Binnenveld", en: "Binnenveld" },
     coords: [5.6, 52.05],
     description: {
@@ -420,7 +420,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-veluwezoom-moraine-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Veluwezoom Moräne", hu: "Veluwezoom-moréna", ro: "Veluwezoom morenă", en: "Veluwezoom Moraine" },
     coords: [6.05, 52.0333],
     description: {
@@ -452,7 +452,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-schoorlse-duinen-relief-v2",
     type: "mountain",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Schoorlse Dünen", hu: "Schoorlse-dűnék", ro: "Dunele Schoorl", en: "Schoorl Dunes" },
     coords: [4.6667, 52.6833],
     description: {
@@ -484,7 +484,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-rozenheuvel-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Rozenheuvel", hu: "Rozenheuvel", ro: "Rozenheuvel", en: "Rozenheuvel" },
     coords: [6.04, 52.022],
     description: {
@@ -516,7 +516,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-sint-jansberg-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Sint Jansberg", hu: "Sint Jansberg", ro: "Sint Jansberg", en: "Sint Jansberg" },
     coords: [5.95, 51.7167],
     description: {
@@ -548,7 +548,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-duivelsberg-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Duivelsberg", hu: "Duivelsberg", ro: "Duivelsberg", en: "Duivelsberg" },
     coords: [5.9333, 51.8167],
     description: {
@@ -580,7 +580,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-sallandse-heuvelrug-top-relief-v2",
     type: "mountain",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Sallandse Heuvelrug Gipfel", hu: "Sallandse Heuvelrug-csúcs", ro: "Sallandse Heuvelrug vârf", en: "Sallandse Heuvelrug Peak" },
     coords: [6.45, 52.35],
     description: {
@@ -612,7 +612,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-haarlemmerliede-ridges-relief-v2",
     type: "mountain",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Haarlemmerliede Rücken", hu: "Haarlemmerliede-hát", ro: "Haarlemmerliede creste", en: "Haarlemmerliede Ridges" },
     coords: [4.65, 52.3833],
     description: {
@@ -644,7 +644,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-schiermonnikoog-dune-top-relief-v2",
     type: "mountain",
-    parent: "NL-FR",
+    parent: "NL",
     name: { de: "Schiermonnikoog Dünenkamm", hu: "Schiermonnikoog-dűnegerinc", ro: "Schiermonnikoog creastă dune", en: "Schiermonnikoog Dune Ridge" },
     coords: [6.2, 53.4833],
     description: {
@@ -676,7 +676,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-texel-dune-top-relief-v2",
     type: "mountain",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Texel Dünengipfel", hu: "Texel-dűnecsúcs", ro: "Texel vârf dună", en: "Texel Dune Peak" },
     coords: [4.75, 53.1],
     description: {
@@ -708,7 +708,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-berg-en-dal-ridge-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Berg en Dal Rücken", hu: "Berg en Dal-hát", ro: "Berg en Dal creastă", en: "Berg en Dal Ridge" },
     coords: [5.9167, 51.8167],
     description: {
@@ -740,7 +740,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-geulhemmerberg-relief-v2",
     type: "mountain",
-    parent: "NL-LI",
+    parent: "NL",
     name: { de: "Geulhemmerberg", hu: "Geulhemmerberg", ro: "Geulhemmerberg", en: "Geulhemmerberg" },
     coords: [5.7833, 50.85],
     description: {
@@ -772,7 +772,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-cauberg-relief-v2",
     type: "mountain",
-    parent: "NL-LI",
+    parent: "NL",
     name: { de: "Cauberg", hu: "Cauberg", ro: "Cauberg", en: "Cauberg" },
     coords: [5.82, 50.86],
     description: {
@@ -804,7 +804,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-esberg-relief-v2",
     type: "mountain",
-    parent: "NL-NB",
+    parent: "NL",
     name: { de: "Esberg", hu: "Esberg", ro: "Esberg", en: "Esberg" },
     coords: [5.4333, 51.5833],
     description: {
@@ -836,7 +836,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-vlieberg-relief-v2",
     type: "mountain",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Vlieberg", hu: "Vlieberg", ro: "Vlieberg", en: "Vlieberg" },
     coords: [5.0833, 53.25],
     description: {
@@ -868,7 +868,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-schaelsberg-relief-v2",
     type: "mountain",
-    parent: "NL-LI",
+    parent: "NL",
     name: { de: "Schaelsberg", hu: "Schaelsberg", ro: "Schaelsberg", en: "Schaelsberg" },
     coords: [5.85, 50.86],
     description: {
@@ -900,7 +900,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-drieberg-relief-v2",
     type: "mountain",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Drieberg", hu: "Drieberg", ro: "Drieberg", en: "Drieberg" },
     coords: [5.4667, 52.05],
     description: {
@@ -932,7 +932,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-zevenheuvelen-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Zevenheuvelen", hu: "Zevenheuvelen", ro: "Zevenheuvelen", en: "Zevenheuvelen" },
     coords: [5.9167, 51.7833],
     description: {
@@ -964,7 +964,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-holterberg-summit-relief-v2",
     type: "mountain",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Holterberg Gipfel", hu: "Holterberg-csúcs", ro: "Holterberg vârf", en: "Holterberg Summit" },
     coords: [6.455, 52.32],
     description: {
@@ -996,7 +996,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-kruisberg-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Kruisberg", hu: "Kruisberg", ro: "Kruisberg", en: "Kruisberg" },
     coords: [6.25, 51.9833],
     description: {
@@ -1028,7 +1028,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-heilig-landstichting-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Heilig Landstichting Hügel", hu: "Heilig Landstichting-domb", ro: "Heilig Landstichting deal", en: "Heilig Landstichting Hill" },
     coords: [5.8667, 51.8167],
     description: {
@@ -1060,7 +1060,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-pietersberg-plateau-relief-v2",
     type: "mountain",
-    parent: "NL-LI",
+    parent: "NL",
     name: { de: "Sint-Pietersberg Plateau", hu: "Sint-Pietersberg-fennsík", ro: "Sint-Pietersberg platou", en: "Sint-Pietersberg Plateau" },
     coords: [5.6833, 50.8167],
     description: {
@@ -1092,7 +1092,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-drieberg-summit-relief-v2",
     type: "mountain",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Drieberg Gipfel", hu: "Drieberg-csúcs", ro: "Drieberg vârf", en: "Drieberg Summit" },
     coords: [5.47, 52.055],
     description: {
@@ -1124,7 +1124,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-haarlem-dune-relief-v2",
     type: "valley",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Haarlem Dünental", hu: "Haarlem-dűnevölgy", ro: "Haarlem vale dune", en: "Haarlem Dune Valley" },
     coords: [4.55, 52.3833],
     description: {
@@ -1156,7 +1156,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-oosterbeek-hill-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Oosterbeek Hügel", hu: "Oosterbeek-domb", ro: "Oosterbeek deal", en: "Oosterbeek Hill" },
     coords: [5.8333, 51.9833],
     description: {
@@ -1188,7 +1188,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-renkum-dune-hill-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Renkum Hügel", hu: "Renkum-domb", ro: "Renkum deal", en: "Renkum Hill" },
     coords: [5.7333, 51.9667],
     description: {
@@ -1220,7 +1220,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-lunteren-zand-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Lunteren Sandhügel", hu: "Lunteren-homokdomb", ro: "Lunteren deal nisip", en: "Lunteren Sand Hill" },
     coords: [5.65, 52.0833],
     description: {
@@ -1252,7 +1252,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-doornse-berg-relief-v2",
     type: "mountain",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Doornse Berg", hu: "Doornse Berg", ro: "Doornse Berg", en: "Doornse Berg" },
     coords: [5.35, 52.0333],
     description: {
@@ -1284,7 +1284,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-elspeet-heide-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Elspeet Hügel", hu: "Elspeet-domb", ro: "Elspeet deal", en: "Elspeet Hill" },
     coords: [5.7667, 52.2667],
     description: {
@@ -1316,7 +1316,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-drie-berg-top-relief-v2",
     type: "mountain",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Drie Berg Kuppe", hu: "Drie Berg-csúcs", ro: "Drie Berg vârf", en: "Drie Berg Top" },
     coords: [5.475, 52.06],
     description: {
@@ -1348,7 +1348,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-velp-heuvelrug-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Velp Hügelrücken", hu: "Velp-dombhát", ro: "Velp creastă", en: "Velp Hill Ridge" },
     coords: [5.9667, 52.0],
     description: {
@@ -1380,7 +1380,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-lunteren-berg-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Lunteren Berg", hu: "Lunteren-hegy", ro: "Lunteren munte", en: "Lunteren Hill" },
     coords: [5.6333, 52.08],
     description: {
@@ -1412,7 +1412,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-dune-peak-noord-relief-v2",
     type: "mountain",
-    parent: "NL-FR",
+    parent: "NL",
     name: { de: "Nördlicher Dünengipfel", hu: "Északi-dűnecsúcs", ro: "Vârf dună nord", en: "Northern Dune Peak" },
     coords: [5.5, 53.4],
     description: {
@@ -1444,7 +1444,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-doorn-heuvel-relief-v2",
     type: "mountain",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Doorn Hügel", hu: "Doorn-domb", ro: "Doorn deal", en: "Doorn Hill" },
     coords: [5.3333, 52.03],
     description: {
@@ -1476,7 +1476,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-velp-moraine-relief-v2",
     type: "mountain",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Velp Moränenhügel", hu: "Velp-morénadomb", ro: "Velp deal morenic", en: "Velp Moraine Hill" },
     coords: [5.98, 52.01],
     description: {
@@ -1508,7 +1508,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-scherpenzeel-ridge-relief-v2",
     type: "mountain",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Scherpenzeel Rücken", hu: "Scherpenzeel-hát", ro: "Scherpenzeel creastă", en: "Scherpenzeel Ridge" },
     coords: [5.4833, 52.0833],
     description: {
@@ -1540,7 +1540,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-baarn-dune-relief-v2",
     type: "mountain",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Baarn Sandhügel", hu: "Baarn-homokdomb", ro: "Baarn deal nisip", en: "Baarn Sand Hill" },
     coords: [5.2833, 52.2167],
     description: {
@@ -1572,7 +1572,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-laren-hill-relief-v2",
     type: "mountain",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Laren Hügel", hu: "Laren-domb", ro: "Laren deal", en: "Laren Hill" },
     coords: [5.2333, 52.25],
     description: {
@@ -1604,7 +1604,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-hilversum-moraine-relief-v2",
     type: "mountain",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Hilversum Moränenrücken", hu: "Hilversum-morénahát", ro: "Hilversum creastă morenică", en: "Hilversum Moraine Ridge" },
     coords: [5.1667, 52.22],
     description: {
@@ -1636,7 +1636,7 @@ export const netherlandsReliefV2: POI[] = [
   {
     id: "netherlands-soester-zand-relief-v2",
     type: "mountain",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Soester Sandhügel", hu: "Soester-homokdomb", ro: "Soester deal nisip", en: "Soester Sand Hill" },
     coords: [5.2833, 52.15],
     description: {

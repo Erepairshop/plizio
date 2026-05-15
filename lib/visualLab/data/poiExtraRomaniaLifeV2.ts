@@ -4,7 +4,7 @@ export const romaniaLifeV2: POI[] = [
   {
     id: "romania-parcul-national-muntii-macinului-life-v2",
     type: "park",
-    parent: "RO-BR",
+    parent: "RO",
     name: { de: "Nationalpark Măcin-Gebirge", hu: "Măcin-hegységi Nemzeti Park", ro: "Parcul Național Munții Măcinului", en: "Măcin Mountains National Park" },
     coords: [28.25, 45.1667],
     description: {
@@ -36,7 +36,7 @@ export const romaniaLifeV2: POI[] = [
   {
     id: "romania-gradina-botanica-jibou-life-v2",
     type: "park",
-    parent: "RO-SJ",
+    parent: "RO",
     name: { de: "Botanischer Garten Jibou", hu: "Zsibói Botanikus Kert", ro: "Grădina Botanică Jibou", en: "Jibou Botanical Garden" },
     coords: [23.2575, 47.2611],
     description: {
@@ -68,7 +68,7 @@ export const romaniaLifeV2: POI[] = [
   {
     id: "romania-parcul-national-semic-cheile-cara-life-v2",
     type: "park",
-    parent: "RO-CS",
+    parent: "RO",
     name: { de: "Nationalpark Semenic-Caraș-Klamm", hu: "Semenic-Krassó-szurdok Nemzeti Park", ro: "Parcul Național Semenic-Cheile Carașului", en: "Semenic-Caraș Gorges National Park" },
     coords: [21.9, 45.15],
     description: {
@@ -100,7 +100,7 @@ export const romaniaLifeV2: POI[] = [
   {
     id: "romania-rezervatia-tinovul-mohos-life-v2",
     type: "wildlife",
-    parent: "RO-CV",
+    parent: "RO",
     name: { de: "Naturschutzgebiet Tinovul Mohoș", hu: "Mohos-tőzegláp Természetvédelmi Terület", ro: "Rezervația Tinovul Mohoș", en: "Tinovul Mohoș Nature Reserve" },
     coords: [25.894, 46.128],
     description: {
@@ -132,7 +132,7 @@ export const romaniaLifeV2: POI[] = [
   {
     id: "romania-parcul-natural-balta-mica-a-brailei-life-v2",
     type: "park",
-    parent: "RO-BR",
+    parent: "RO",
     name: { de: "Naturpark Balta Mică a Brăilei", hu: "Kis-Braila-szigeti Natúrpark", ro: "Parcul Natural Balta Mică a Brăilei", en: "Balta Mică a Brăilei Natural Park" },
     coords: [27.9, 44.8],
     description: {
@@ -164,7 +164,7 @@ export const romaniaLifeV2: POI[] = [
   {
     id: "romania-rezervatia-cheile-banitei-life-v2",
     type: "wildlife",
-    parent: "RO-GJ",
+    parent: "RO",
     name: { de: "Naturschutzgebiet Bănița-Klamm", hu: "Bănița-szurdok Természetvédelmi Terület", ro: "Rezervația Cheile Băniței", en: "Bănița Gorges Nature Reserve" },
     coords: [23.27, 45.48],
     description: {

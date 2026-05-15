@@ -602,5 +602,99 @@ export const poiExtraGuatemalaEconomicV2: POI[] = [
     
     
   }
+,
+  {
+    id: "guatemala-puerto-barrios-terminal-economic-v2",
+    type: "port",
+    name: { de: "Puerto Barrios Terminal", hu: "Puerto Barrios Terminál", ro: "Terminalul Puerto Barrios", en: "Puerto Barrios Terminal" },
+    coords: [-88.5955, 15.7317],
+    description: {
+      de: "Dies ist einer der wichtigsten Tiefseehäfen an der guatemaltekischen Atlantikküste. Er dient als zentraler Umschlagplatz für Container und den Export von Agrarprodukten.",
+      hu: "Ez az egyik legfontosabb mélyvízi kikötő Guatemala atlanti partvidékén. Központi átrakodóhelyként szolgál konténerek és mezőgazdasági termékek számára.",
+      ro: "Acesta este unul dintre cele mai importante porturi de adâncime de pe coasta atlantică a Guatemalei. Servește drept hub central pentru containere și exportul de produse agricole.",
+      en: "This is one of the primary deep-water ports on Guatemala's Atlantic coast. It serves as a major hub for containerized cargo and agricultural exports.",
+    },
+    facts: {
+      de: ["Wichtigster Hafen an der Karibikküste", "Hauptausfuhrpunkt für Bananen", "Verfügt über moderne Containerkräne", "Bedeutend für den Außenhandel"],
+      hu: ["A legfontosabb kikötő a karibi parton", "Fő banánkiviteli pont", "Modern konténerdarukkal felszerelt", "Jelentős a külkereskedelemben"],
+      ro: ["Cel mai important port de la Marea Caraibilor", "Punct principal de export pentru banane", "Dotat cu macarale moderne pentru containere", "Esențial pentru comerțul exterior"],
+      en: ["Primary port on the Caribbean coast", "Major export point for bananas", "Equipped with modern container cranes", "Vital to international trade"],
+    },
+    imageHint: "Puerto Barrios cargo port at sunset",
+    descriptionAdvanced: {
+      de: "Der Puerto Barrios Terminal ist ein wichtiger Hafen an der Karibikküste Guatemalas, im Departement Izabal. Er ist der größte Hafen des Landes für den Containertransport und den Export von landwirtschaftlichen Produkten wie Kaffee, Bananen und Kardamom. Der Hafen wurde in den 1970er Jahren modernisiert und hat eine Tiefe von bis zu 12 Metern. Er ist ein wichtiger Knotenpunkt für den Handel mit Europa und Nordamerika. Der Hafen bietet auch Fährverbindungen nach Belize und Honduras.",
+      hu: "A Puerto Barrios Terminál egy fontos kikötő Guatemala karibi partján, Izabal megyében. Ez az ország legnagyobb kikötője konténerszállításra és mezőgazdasági termékek, például kávé, banán és kardamom exportjára. A kikötőt az 1970-es években modernizálták, és akár 12 méteres mélységgel rendelkezik. Fontos csomópont az európai és észak-amerikai kereskedelem számára. A kikötő kompjáratokat is kínál Belize és Honduras felé.",
+      ro: "Terminalul Puerto Barrios este un port important pe coasta Caraibelor din Guatemala, în departamentul Izabal. Este cel mai mare port al țării pentru transportul de containere și exportul de produse agricole precum cafea, banane și cardamom. Portul a fost modernizat în anii 1970 și are o adâncime de până la 12 metri. Este un nod important pentru comerțul cu Europa și America de Nord. Portul oferă și servicii de feribot către Belize și Honduras.",
+      en: "Puerto Barrios Terminal is a major port on Guatemala's Caribbean coast, in the Izabal department. It is the country's largest container port and handles exports of coffee, bananas, and cardamom. Modernized in the 1970s, the port has a depth of up to 12 meters. It serves as a crucial hub for trade with Europe and North America. Ferry services connect to Belize and Honduras.",
+    },
+    factsAdvanced: {
+      de: ["Der Hafen hat eine Kailänge von 1 km.", "Die jährliche Containerumschlagskapazität beträgt 500.000 TEU.", "Die Wassertiefe beträgt maximal 12 Meter.", "Der Hafen wurde 1975 modernisiert.", "Er exportiert jährlich 300.000 Tonnen Bananen.", "Die Entfernung zur Hauptstadt Guatemala-Stadt beträgt 300 km."],
+      hu: ["A kikötő rakpartjának hossza 1 km.", "Az éves konténerforgalom 500 000 TEU.", "A vízmélység maximum 12 méter.", "A kikötőt 1975-ben modernizálták.", "Évente 300 000 tonna banánt exportál.", "Távolság Guatemala City-től: 300 km."],
+      ro: ["Lungimea cheiului: 1 km.", "Capacitatea anuală de manipulare a containerelor: 500.000 TEU.", "Adâncimea apei: maxim 12 metri.", "Portul a fost modernizat în 1975.", "Export anual de banane: 300.000 de tone.", "Distanța până la Ciudad de Guatemala: 300 km."],
+      en: ["Quay length: 1 km.", "Annual container handling capacity: 500,000 TEU.", "Maximum water depth: 12 meters.", "Port modernized in 1975.", "Annual banana exports: 300,000 tons.", "Distance from Guatemala City: 300 km."],
+    },
+  },
+  {
+    id: "guatemala-central-market-capital-economic-v2",
+    type: "city",
+    name: { de: "Zentraler Markt von Guatemala-Stadt", hu: "Guatemalavárosi Központi Piac", ro: "Piața Centrală din Guatemala City", en: "Guatemala City Central Market" },
+    coords: [-90.5133, 14.6432],
+    description: {
+      de: "Der zentrale Markt in der Hauptstadt fungiert als Drehkreuz für den regionalen Handel mit Lebensmitteln und lokal hergestelltem Handwerk. Er ist ein bedeutender Ort für den informellen wirtschaftlichen Sektor.",
+      hu: "A fővárosi központi piac az élelmiszerek és a helyi kézműves termékek regionális kereskedelmi központja. Jelentős szerepet játszik az informális gazdasági szektorban.",
+      ro: "Piața centrală din capitală funcționează ca un nod comercial regional pentru alimente și produse artizanale locale. Este un punct important pentru sectorul economic informal.",
+      en: "The central market in the capital acts as a hub for regional trade in food and locally manufactured crafts. It is a significant site for the informal economic sector.",
+    },
+    facts: {
+      de: ["Größter Markt der Hauptstadt", "Verkaufsort für nationale Agrarprodukte", "Zentrum lokaler Handelsbeziehungen", "Täglich stark frequentiert"],
+      hu: ["A főváros legnagyobb piaca", "Nemzeti mezőgazdasági termékek eladóhelye", "A helyi kereskedelmi kapcsolatok központja", "Naponta nagy forgalmat bonyolít"],
+      ro: ["Cea mai mare piață din capitală", "Loc de vânzare pentru produse agricole naționale", "Centru al relațiilor comerciale locale", "Flux zilnic ridicat de vizitatori"],
+      en: ["Largest market in the capital", "Outlet for national agricultural products", "Center of local trade relations", "High daily foot traffic"],
+    },
+    imageHint: "Guatemala City Central Market stalls",
+    descriptionAdvanced: {
+      de: "Der Guatemala City Central Market (Mercado Central) ist ein großer öffentlicher Markt im historischen Zentrum von Guatemala-Stadt. Er wurde 1956 erbaut und bietet eine Vielzahl von Waren, darunter frische Produkte, Kunsthandwerk, Kleidung und Souvenirs. Der Markt erstreckt sich über mehrere Etagen und beherbergt Hunderte von Händlern. Er ist ein wichtiger Wirtschaftsfaktor für die Stadt und ein beliebtes Ziel für Touristen. Der Markt ist bekannt für seine günstigen Preise und die authentische Atmosphäre.",
+      hu: "A Guatemala City Central Market (Mercado Central) egy nagy nyilvános piac Guatemala City történelmi központjában. 1956-ban épült, és számos árut kínál, beleértve friss termékeket, kézműves termékeket, ruházatot és ajándéktárgyakat. A piac több emeletre terjed ki, és több száz kereskedőnek ad otthont. Fontos gazdasági tényező a város számára, és népszerű turistacélpont. A piac olcsó árairól és autentikus hangulatáról ismert.",
+      ro: "Piața Centrală din Ciudad de Guatemala (Mercado Central) este o piață publică mare situată în centrul istoric al orașului. A fost construită în 1956 și oferă o varietate de produse, inclusiv produse proaspete, artizanat, îmbrăcăminte și suveniruri. Piața se întinde pe mai multe etaje și găzduiește sute de comercianți. Este un factor economic important pentru oraș și o destinație populară pentru turiști. Piața este cunoscută pentru prețurile sale accesibile și atmosfera autentică.",
+      en: "The Guatemala City Central Market (Mercado Central) is a large public market in the historic center of Guatemala City. Built in 1956, it offers a wide array of goods including fresh produce, handicrafts, clothing, and souvenirs. Spanning multiple floors, the market houses hundreds of vendors. It is a key economic hub for the city and a popular tourist attraction known for its affordable prices and authentic atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Der Markt wurde 1956 eröffnet.", "Er beherbergt über 500 Händler.", "Die Verkaufsfläche beträgt 15.000 m².", "Täglich besuchen etwa 10.000 Menschen den Markt.", "Die durchschnittliche Miete pro Stand beträgt 500 Quetzal pro Monat.", "Der Markt ist auch bekannt für Textilien aus Maya-Tradition."],
+      hu: ["A piacot 1956-ban nyitották meg.", "Több mint 500 kereskedő működik itt.", "Az eladótér 15 000 m².", "Naponta körülbelül 10 000 ember látogatja.", "Az átlagos bérleti díj 500 quetzal havonta.", "Híres maja textíliáiról."],
+      ro: ["Piața a fost deschisă în 1956.", "Adăpostește peste 500 de comercianți.", "Suprafața de vânzare: 15.000 m².", "Aproximativ 10.000 de vizitatori zilnic.", "Chiria medie per stand: 500 quetzali pe lună.", "Renumită pentru textilele tradiționale mayașe."],
+      en: ["Market opened in 1956.", "Houses over 500 vendors.", "Sales floor area: 15,000 m².", "Approximately 10,000 daily visitors.", "Average rent per stall: 500 quetzales per month.", "Famous for Maya-textile handicrafts."],
+    },
+  },
+  {
+    id: "guatemala-palm-oil-processing-plant-economic-v2",
+    type: "factory",
+    name: { de: "Palmölverarbeitungsanlage Peten", hu: "Peténi Pálmaolaj-feldolgozó Üzem", ro: "Fabrică de procesare a uleiului de palmier Petén", en: "Peten Palm Oil Processing Plant" },
+    coords: [-90.0051, 16.9205],
+    description: {
+      de: "Diese industrielle Anlage im Norden des Landes ist auf die Extraktion und Veredelung von Palmöl spezialisiert. Sie stellt einen wichtigen Akteur in der lokalen agroindustriellen Wertschöpfungskette dar.",
+      hu: "Ez az északi ipari létesítmény pálmaolaj extrakciójára és finomítására specializálódott. Fontos szereplője a helyi agrár-ipari értékláncnak.",
+      ro: "Această facilitate industrială din nordul țării este specializată în extracția și rafinarea uleiului de palmier. Reprezintă un actor important în lanțul valoric agroindustrial local.",
+      en: "This industrial facility in the north of the country specializes in the extraction and refining of palm oil. It is a key player in the local agro-industrial value chain.",
+    },
+    facts: {
+      de: ["Große Produktionskapazität", "Exportorientierte Industrie", "Beschäftigt zahlreiche lokale Arbeiter", "Technisch fortschrittliche Extraktion"],
+      hu: ["Nagy termelési kapacitás", "Exportorientált ipar", "Számos helyi munkást foglalkoztat", "Technikailag fejlett extrakció"],
+      ro: ["Capacitate mare de producție", "Industrie orientată către export", "Angajează numeroși lucrători locali", "Extracție avansată tehnologic"],
+      en: ["Large production capacity", "Export-oriented industry", "Employs numerous local workers", "Technologically advanced extraction"],
+    },
+    imageHint: "Palm oil plantation and factory facility",
+    descriptionAdvanced: {
+      de: "Die Peten Palm Oil Processing Plant ist eine Ölmühle im Departamento Petén, Guatemala. Sie verarbeitet Palmfrüchte zu rohem Palmöl, das für die Lebensmittel- und Kosmetikindustrie verwendet wird. Die Anlage hat eine Kapazität von 50 Tonnen pro Stunde. Sie liegt in einer Region, die für ausgedehnte Palmölplantagen bekannt ist. Die Anlage schafft Arbeitsplätze für die lokale Bevölkerung, steht aber auch in der Kritik wegen Umweltauswirkungen. Die Produktion wird hauptsächlich nach Mexiko und in die USA exportiert.",
+      hu: "A Peten Palm Oil Processing Plant egy olajmalom Guatemala Petén megyéjében. A pálmagyümölcsöket nyers pálmaolajjá dolgozza fel, amelyet az élelmiszer- és kozmetikai ipar használ. Az üzem kapacitása 50 tonna óránként. A régióban kiterjedt pálmaolaj-ültetvények találhatók. Az üzem munkahelyeket teremt a helyi lakosság számára, de környezeti hatásai miatt kritika éri. A termelést főként Mexikóba és az USA-ba exportálják.",
+      ro: "Uzina de procesare a uleiului de palmier Peten este situată în departamentul Petén, Guatemala. Procesează fructe de palmier în ulei de palmier brut, utilizat în industria alimentară și cosmetică. Capacitatea instalației este de 50 de tone pe oră. Zona este cunoscută pentru plantațiile extinse de palmier uleios. Uzina creează locuri de muncă pentru populația locală, dar este criticată pentru impactul asupra mediului. Producția este exportată în principal în Mexic și SUA.",
+      en: "The Peten Palm Oil Processing Plant is a mill located in the Petén department of Guatemala. It processes palm fruits into crude palm oil used in food and cosmetics. The plant has a capacity of 50 tons per hour. Situated in a region with extensive palm oil plantations, it provides employment but faces criticism for deforestation. The majority of its output is exported to Mexico and the United States.",
+    },
+    factsAdvanced: {
+      de: ["Die Verarbeitungskapazität beträgt 50 Tonnen pro Stunde.", "Die Anlage wurde 2010 in Betrieb genommen.", "Sie beschäftigt 250 Mitarbeiter.", "Die jährliche Produktion beträgt 100.000 Tonnen Palmöl.", "Die Plantagenfläche beträgt 10.000 Hektar.", "Exportanteil: 80% der Produktion."],
+      hu: ["Az üzem kapacitása 50 tonna/óra.", "Az üzemet 2010-ben helyezték üzembe.", "250 alkalmazottat foglalkoztat.", "Az éves termelés 100 000 tonna pálmaolaj.", "Az ültetvények területe 10 000 hektár.", "A termelés 80%-át exportálják."],
+      ro: ["Capacitatea de procesare: 50 de tone pe oră.", "Uzina a fost pusă în funcțiune în 2010.", "Angajează 250 de muncitori.", "Producția anuală: 100.000 de tone de ulei de palmier.", "Suprafața plantațiilor: 10.000 de hectare.", "Exportă 80% din producție."],
+      en: ["Processing capacity: 50 tons per hour.", "Plant commissioned in 2010.", "Employs 250 workers.", "Annual production: 100,000 tons of palm oil.", "Plantation area: 10,000 hectares.", "Exports 80% of production."],
+    },
+  }
 ];
 

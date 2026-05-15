@@ -4,7 +4,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-hardegg-history-v2",
     type: "castle",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Burg Hardegg", hu: "Hardegg vára", ro: "Castelul Hardegg", en: "Hardegg Castle" },
     coords: [15.8617, 48.8519],
     description: {
@@ -36,7 +36,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-schloss-parz-history-v2",
     type: "palace",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Schloss Parz", hu: "Parz kastély", ro: "Castelul Parz", en: "Parz Castle" },
     coords: [13.9103, 48.2258],
     description: {
@@ -68,7 +68,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-finstergruen-history-v2",
     type: "castle",
-    parent: "AT-2",
+    parent: "AT",
     name: { de: "Burg Finstergrün", hu: "Finstergrün vára", ro: "Castelul Finstergrün", en: "Finstergrün Castle" },
     coords: [14.1203, 47.1147],
     description: {
@@ -100,7 +100,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-schloss-greinburg-history-v2",
     type: "castle",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Schloss Greinburg", hu: "Greinburg kastély", ro: "Castelul Greinburg", en: "Greinburg Castle" },
     coords: [14.8517, 48.2289],
     description: {
@@ -132,7 +132,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-lockenhaus-history-v2",
     type: "castle",
-    parent: "AT-1",
+    parent: "AT",
     name: { de: "Burg Lockenhaus", hu: "Léka vára", ro: "Castelul Lockenhaus", en: "Lockenhaus Castle" },
     coords: [16.4175, 47.4111],
     description: {
@@ -164,7 +164,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-tiefenbach-history-v2",
     type: "ruins",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Burgruine Tiefenbach", hu: "Tiefenbach várrom", ro: "Ruinele castelului Tiefenbach", en: "Tiefenbach Castle Ruins" },
     coords: [15.8286, 47.9625],
     description: {
@@ -196,7 +196,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-griesstein-history-v2",
     type: "ruins",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Burgruine Griesstein", hu: "Griesstein várrom", ro: "Ruinele castelului Griesstein", en: "Griesstein Castle Ruins" },
     coords: [15.6881, 47.7817],
     description: {
@@ -228,7 +228,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-raabs-an-der-thaya-history-v2",
     type: "castle",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Burg Raabs", hu: "Raabs vára", ro: "Castelul Raabs", en: "Raabs Castle" },
     coords: [15.4836, 48.8483],
     description: {
@@ -260,7 +260,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-ruine-durnstein-history-v2",
     type: "ruins",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Burgruine Dürnstein", hu: "Dürnstein várrom", ro: "Ruinele castelului Dürnstein", en: "Dürnstein Castle Ruins" },
     coords: [15.5186, 48.3975],
     description: {
@@ -292,7 +292,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-scharfeneck-history-v2",
     type: "ruins",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Burgruine Scharfeneck", hu: "Scharfeneck várrom", ro: "Ruinele castelului Scharfeneck", en: "Scharfeneck Castle Ruins" },
     coords: [16.1428, 47.9356],
     description: {
@@ -324,7 +324,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-aggstein-history-v2",
     type: "ruins",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Burgruine Aggstein", hu: "Aggstein várrom", ro: "Ruinele castelului Aggstein", en: "Aggstein Castle Ruins" },
     coords: [15.4244, 48.2475],
     description: {
@@ -356,7 +356,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-schloss-pottenbrunn-history-v2",
     type: "castle",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Wasserschloss Pottenbrunn", hu: "Pottenbrunn vízi kastély", ro: "Castelul pe apă Pottenbrunn", en: "Pottenbrunn Water Castle" },
     coords: [15.6964, 48.2253],
     description: {
@@ -388,7 +388,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-steinegg-history-v2",
     type: "ruins",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Burgruine Steinegg", hu: "Steinegg várrom", ro: "Ruinele castelului Steinegg", en: "Steinegg Castle Ruins" },
     coords: [15.6425, 48.6539],
     description: {
@@ -420,7 +420,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-oedenburg-history-v2",
     type: "ruins",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Burgruine Oedenburg", hu: "Ödenburg várrom", ro: "Ruinele castelului Oedenburg", en: "Oedenburg Castle Ruins" },
     coords: [15.7533, 48.5136],
     description: {
@@ -452,7 +452,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-rothenstein-history-v2",
     type: "ruins",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Burgruine Rothenstein", hu: "Rothenstein várrom", ro: "Ruinele castelului Rothenstein", en: "Rothenstein Castle Ruins" },
     coords: [15.9867, 48.0125],
     description: {
@@ -484,7 +484,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-schloss-falkenstein-history-v2",
     type: "ruins",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Burgruine Falkenstein", hu: "Falkenstein várrom", ro: "Ruinele castelului Falkenstein", en: "Falkenstein Castle Ruins" },
     coords: [16.5817, 48.7231],
     description: {
@@ -516,7 +516,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-hard-history-v2",
     type: "ruins",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Burgruine Hard", hu: "Hard várrom", ro: "Ruinele castelului Hard", en: "Hard Castle Ruins" },
     coords: [16.3533, 48.7183],
     description: {
@@ -548,7 +548,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-schloss-staatz-history-v2",
     type: "ruins",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Burgruine Staatz", hu: "Staatz várrom", ro: "Ruinele castelului Staatz", en: "Staatz Castle Ruins" },
     coords: [16.4864, 48.6653],
     description: {
@@ -580,7 +580,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-peilstein-history-v2",
     type: "ruins",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Burgruine Peilstein", hu: "Peilstein várrom", ro: "Ruinele castelului Peilstein", en: "Peilstein Castle Ruins" },
     coords: [16.0381, 47.9733],
     description: {
@@ -612,7 +612,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-grub-history-v2",
     type: "ruins",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Burgruine Grub", hu: "Grub várrom", ro: "Ruinele castelului Grub", en: "Grub Castle Ruins" },
     coords: [16.1425, 48.2433],
     description: {
@@ -644,7 +644,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-schloss-ebersdorf-history-v2",
     type: "castle",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Schloss Ebersdorf", hu: "Ebersdorf kastély", ro: "Castelul Ebersdorf", en: "Ebersdorf Castle" },
     coords: [16.4883, 48.1794],
     description: {
@@ -676,7 +676,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-neudegg-history-v2",
     type: "ruins",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Burgruine Neudegg", hu: "Neudegg várrom", ro: "Ruinele castelului Neudegg", en: "Neudegg Castle Ruins" },
     coords: [15.8275, 48.5133],
     description: {
@@ -708,7 +708,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-gansbach-history-v2",
     type: "ruins",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Burgruine Gansbach", hu: "Gansbach várrom", ro: "Ruinele castelului Gansbach", en: "Gansbach Castle Ruins" },
     coords: [15.4833, 48.2917],
     description: {
@@ -740,7 +740,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-schloss-vitis-history-v2",
     type: "castle",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Schloss Vitis", hu: "Vitis kastély", ro: "Castelul Vitis", en: "Vitis Castle" },
     coords: [15.2167, 48.7833],
     description: {
@@ -772,7 +772,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-ruine-weitra-history-v2",
     type: "castle",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Burg Weitra", hu: "Weitra vára", ro: "Castelul Weitra", en: "Weitra Castle" },
     coords: [14.8917, 48.6975],
     description: {
@@ -804,7 +804,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-drosendorf-history-v2",
     type: "castle",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Burg Drosendorf", hu: "Drosendorf vára", ro: "Castelul Drosendorf", en: "Drosendorf Castle" },
     coords: [15.6333, 48.8667],
     description: {
@@ -836,7 +836,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-schloss-grafenegg-history-v2",
     type: "palace",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Schloss Grafenegg", hu: "Grafenegg kastély", ro: "Castelul Grafenegg", en: "Grafenegg Castle" },
     coords: [15.7761, 48.4356],
     description: {
@@ -868,7 +868,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-ruine-kollmitz-history-v2",
     type: "ruins",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Burgruine Kollmitz", hu: "Kollmitz várrom", ro: "Ruinele castelului Kollmitz", en: "Kollmitz Castle Ruins" },
     coords: [15.4083, 48.8683],
     description: {
@@ -900,7 +900,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-schloss-wolkersdorf-history-v2",
     type: "castle",
-    parent: "AT-9",
+    parent: "AT",
     name: { de: "Schloss Wolkersdorf", hu: "Wolkersdorf kastély", ro: "Castelul Wolkersdorf", en: "Wolkersdorf Castle" },
     coords: [16.525, 48.3775],
     description: {
@@ -932,7 +932,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-ruine-hartberg-history-v2",
     type: "ruins",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Burgruine Hartberg", hu: "Hartberg várrom", ro: "Ruinele castelului Hartberg", en: "Hartberg Castle Ruins" },
     coords: [15.9686, 47.2828],
     description: {
@@ -964,7 +964,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-schloss-fischau-history-v2",
     type: "castle",
-    parent: "AT-1",
+    parent: "AT",
     name: { de: "Schloss Fischau", hu: "Fischau kastély", ro: "Castelul Fischau", en: "Fischau Castle" },
     coords: [16.1758, 47.8214],
     description: {
@@ -996,7 +996,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-ruine-scharfstein-history-v2",
     type: "ruins",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Burgruine Scharfstein", hu: "Scharfstein várrom", ro: "Ruinele castelului Scharfstein", en: "Scharfstein Castle Ruins" },
     coords: [15.6986, 47.7953],
     description: {
@@ -1028,7 +1028,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-ruine-wartenstein-history-v2",
     type: "ruins",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Burgruine Wartenstein", hu: "Wartenstein várrom", ro: "Ruinele castelului Wartenstein", en: "Wartenstein Castle Ruins" },
     coords: [15.9383, 47.6694],
     description: {
@@ -1060,7 +1060,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-schloss-muthmannsdorf-history-v2",
     type: "ruins",
-    parent: "AT-1",
+    parent: "AT",
     name: { de: "Burgruine Muthmannsdorf", hu: "Muthmannsdorf várrom", ro: "Ruinele castelului Muthmannsdorf", en: "Muthmannsdorf Castle Ruins" },
     coords: [16.1422, 47.8183],
     description: {
@@ -1092,7 +1092,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-ruine-sebenstein-history-v2",
     type: "castle",
-    parent: "AT-1",
+    parent: "AT",
     name: { de: "Burg Sebenstein", hu: "Sebenstein vára", ro: "Castelul Sebenstein", en: "Sebenstein Castle" },
     coords: [16.1758, 47.6583],
     description: {
@@ -1124,7 +1124,7 @@ export const austriaHistoryV2: POI[] = [
   {
     id: "austria-burg-ruine-schwarzenbach-history-v2",
     type: "ruins",
-    parent: "AT-1",
+    parent: "AT",
     name: { de: "Burgruine Schwarzenbach", hu: "Schwarzenbach várrom", ro: "Ruinele castelului Schwarzenbach", en: "Schwarzenbach Castle Ruins" },
     coords: [16.3417, 47.6253],
     description: {

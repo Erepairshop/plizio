@@ -4,7 +4,7 @@ export const hungaryLifeV2: POI[] = [
   {
     id: "hungary-duna-ipoly-nemzeti-park-life-v2",
     type: "park",
-    parent: "pest",
+    parent: "HU",
     name: { de: "Donau-Ipoly-Nationalpark", hu: "Duna-Ipoly Nemzeti Park", ro: "Parcul Național Dunăre-Ipoly", en: "Danube-Ipoly National Park" },
     coords: [18.9167, 47.7833],
     description: {
@@ -36,7 +36,7 @@ export const hungaryLifeV2: POI[] = [
   {
     id: "hungary-koros-maros-nemzeti-park-life-v2",
     type: "park",
-    parent: "bekes",
+    parent: "HU",
     name: { de: "Körös-Maros-Nationalpark", hu: "Körös-Maros Nemzeti Park", ro: "Parcul Național Körös-Maros", en: "Körös-Maros National Park" },
     coords: [20.9333, 46.55],
     description: {
@@ -68,7 +68,7 @@ export const hungaryLifeV2: POI[] = [
   {
     id: "hungary-szaszhalombattai-vadaspark-life-v2",
     type: "wildlife",
-    parent: "budapest",
+    parent: "HU",
     name: { de: "Wildpark Százhalombatta", hu: "Százhalombattai Vadaspark", ro: "Parcul de animale Százhalombatta", en: "Százhalombatta Wildlife Park" },
     coords: [18.9167, 47.3],
     description: {

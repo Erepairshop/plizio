@@ -739,5 +739,37 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
       en: []
     }
   }
+,
+  {
+    id: "costarica-parque-empresarial-forum-economic-v2",
+    type: "industry",
+    name: { de: "Parque Empresarial Forum", hu: "Parque Empresarial Forum", ro: "Parque Empresarial Forum", en: "Parque Empresarial Forum" },
+    coords: [-84.1842, 9.9481],
+    description: {
+      de: "Das Parque Empresarial Forum ist ein bedeutender Geschäftspark in Lindora, Santa Ana. Er beherbergt zahlreiche multinationale Unternehmen und Dienstleistungszentren.",
+      hu: "A Parque Empresarial Forum egy jelentős üzleti park Lindorában, Santa Anában. Számos multinacionális vállalatnak és szolgáltató központnak ad otthont.",
+      ro: "Parque Empresarial Forum este un important parc de afaceri situat în Lindora, Santa Ana. Acesta găzduiește numeroase companii multinaționale și centre de servicii.",
+      en: "Parque Empresarial Forum is a significant business park located in Lindora, Santa Ana. It hosts numerous multinational corporations and service centers.",
+    },
+    facts: {
+      de: ["Liegt in der Region Santa Ana.", "Zentrum für Business Process Outsourcing.", "Wichtiger Standort für multinationale Firmen.", "Fördert den Technologiesektor in Costa Rica."],
+      hu: ["Santa Ana régióban található.", "Üzleti folyamatok kiszervezésének központja.", "Fontos helyszín multinacionális cégek számára.", "Támogatja Costa Rica technológiai szektorát."],
+      ro: ["Situat în regiunea Santa Ana.", "Centru pentru externalizarea proceselor de afaceri.", "Locație cheie pentru companii multinaționale.", "Susține sectorul tehnologic din Costa Rica."],
+      en: ["Located in the Santa Ana region.", "Hub for business process outsourcing.", "Key location for multinational firms.", "Supports Costa Rica's technology sector."],
+    },
+    imageHint: "modern corporate office park buildings in Costa Rica",
+    descriptionAdvanced: {
+      de: "Parque Empresarial Forum ist ein moderner Gewerbepark in der Provinz Heredia, Costa Rica, nahe der Hauptstadt San José. Er erstreckt sich über eine Fläche von 150 Hektar und beherbergt zahlreiche internationale Unternehmen, insbesondere aus der Technologie- und Dienstleistungsbranche. Der Park bietet Büroflächen, Logistikzentren und Annehmlichkeiten wie Restaurants und Banken. Er wurde in den 2000er Jahren entwickelt und ist ein wichtiger Wirtschaftsmotor der Region. Die Infrastruktur umfasst gute Anbindung an die Autobahn.",
+      hu: "A Parque Empresarial Forum egy modern üzleti park Costa Rica-i Heredia tartományában, San José főváros közelében. Területe 150 hektár, számos nemzetközi vállalatnak ad otthont, különösen a technológiai és szolgáltató szektorban. A park irodákat, logisztikai központokat és szolgáltatásokat, például éttermeket és bankokat kínál. A 2000-es években épült, és a régió fontos gazdasági hajtóereje. Az infrastruktúra jó autópálya-kapcsolatot foglal magában.",
+      ro: "Parque Empresarial Forum este un parc de afaceri modern în provincia Heredia, Costa Rica, aproape de capitala San José. Se întinde pe 150 de hectare și găzduiește numeroase companii internaționale, în special din sectorul tehnologic și al serviciilor. Parcul oferă spații de birouri, centre logistice și facilități precum restaurante și bănci. A fost dezvoltat în anii 2000 și este un motor economic important al regiunii. Infrastructura include o bună conexiune la autostradă.",
+      en: "Parque Empresarial Forum is a modern business park in Heredia Province, Costa Rica, near San José. Spanning 150 hectares, it hosts numerous international companies, especially in technology and services. The park offers office spaces, logistics centers, and amenities like restaurants and banks. Developed in the 2000s, it is a key economic driver of the region. Infrastructure includes good highway access.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 150 Hektar", "Lage: Heredia, Costa Rica", "Entwicklung: 2000er Jahre", "Unternehmen: über 100 internationale Firmen", "Branchen: Technologie und Dienstleistungen", "Entfernung zu San José: 15 km"],
+      hu: ["Terület: 150 hektár", "Elhelyezkedés: Heredia, Costa Rica", "Fejlesztés: 2000-es évek", "Vállalatok: több mint 100 nemzetközi cég", "Ágazatok: technológia és szolgáltatások", "Távolság San Josétól: 15 km"],
+      ro: ["Suprafață: 150 hectare", "Locație: Heredia, Costa Rica", "Dezvoltare: anii 2000", "Companii: peste 100 de firme internaționale", "Sectoare: tehnologie și servicii", "Distanță față de San José: 15 km"],
+      en: ["Area: 150 hectares", "Location: Heredia, Costa Rica", "Development: 2000s", "Companies: over 100 international firms", "Sectors: technology and services", "Distance to San José: 15 km"],
+    },
+  }
 ];
 

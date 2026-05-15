@@ -4,7 +4,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-alésia-history-v2",
     type: "battlefield",
-    parent: "FR-BFC",
+    parent: "FR",
     name: { de: "Alesia", hu: "Alésia", ro: "Alesia", en: "Alesia" },
     coords: [4.5, 47.53],
     description: {
@@ -36,7 +36,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-verdun-history-v2",
     type: "battlefield",
-    parent: "FR-GES",
+    parent: "FR",
     name: { de: "Verdun", hu: "Verdun", ro: "Verdun", en: "Verdun" },
     coords: [5.38, 49.16],
     description: {
@@ -68,7 +68,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-guedelon-history-v2",
     type: "castle",
-    parent: "FR-CVL",
+    parent: "FR",
     name: { de: "Guédelon", hu: "Guédelon", ro: "Guédelon", en: "Guédelon" },
     coords: [3.15, 47.58],
     description: {
@@ -100,7 +100,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-cahors-bridge-history-v2",
     type: "bridge",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Pont Valentré", hu: "Pont Valentré", ro: "Pont Valentré", en: "Pont Valentré" },
     coords: [1.43, 44.44],
     description: {
@@ -132,7 +132,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-mont-segur-history-v2",
     type: "ruins",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Montségur", hu: "Montségur", ro: "Montségur", en: "Montségur" },
     coords: [1.83, 42.87],
     description: {
@@ -164,7 +164,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-pau-chateau-history-v2",
     type: "castle",
-    parent: "FR-NAQ",
+    parent: "FR",
     name: { de: "Château de Pau", hu: "Pau-i kastély", ro: "Castelul Pau", en: "Château de Pau" },
     coords: [-0.37, 43.29],
     description: {
@@ -196,7 +196,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-semur-en-auxois-history-v2",
     type: "town",
-    parent: "FR-BFC",
+    parent: "FR",
     name: { de: "Semur-en-Auxois", hu: "Semur-en-Auxois", ro: "Semur-en-Auxois", en: "Semur-en-Auxois" },
     coords: [4.33, 47.49],
     description: {
@@ -228,7 +228,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-chinon-fortress-history-v2",
     type: "castle",
-    parent: "FR-PDL",
+    parent: "FR",
     name: { de: "Festung Chinon", hu: "Chinoni erőd", ro: "Cetatea Chinon", en: "Fortress of Chinon" },
     coords: [0.23, 47.16],
     description: {
@@ -260,7 +260,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-orleans-house-history-v2",
     type: "museum",
-    parent: "FR-CVL",
+    parent: "FR",
     name: { de: "Maison de Jeanne d'Arc", hu: "Jeanne d'Arc háza", ro: "Casa Ioanei d'Arc", en: "House of Joan of Arc" },
     coords: [1.9, 47.9],
     description: {
@@ -292,7 +292,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-albi-cathedral-history-v2",
     type: "cathedral",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Kathedrale von Albi", hu: "Albi katedrális", ro: "Catedrala din Albi", en: "Albi Cathedral" },
     coords: [2.14, 43.92],
     description: {
@@ -324,7 +324,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-provins-history-v2",
     type: "town",
-    parent: "FR-IDF",
+    parent: "FR",
     name: { de: "Provins", hu: "Provins", ro: "Provins", en: "Provins" },
     coords: [3.3, 48.56],
     description: {
@@ -356,7 +356,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-domremy-history-v2",
     type: "village",
-    parent: "FR-GES",
+    parent: "FR",
     name: { de: "Domrémy-la-Pucelle", hu: "Domrémy-la-Pucelle", ro: "Domrémy-la-Pucelle", en: "Domrémy-la-Pucelle" },
     coords: [5.67, 48.43],
     description: {
@@ -388,7 +388,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-carmes-toulouse-history-v2",
     type: "church",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Couvent des Jacobins", hu: "Jacobins-kolostor", ro: "Mănăstirea Iacobinilor", en: "Couvent des Jacobins" },
     coords: [1.44, 43.6],
     description: {
@@ -420,7 +420,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-rocamadour-history-v2",
     type: "village",
-    parent: "FR-NAQ",
+    parent: "FR",
     name: { de: "Rocamadour", hu: "Rocamadour", ro: "Rocamadour", en: "Rocamadour" },
     coords: [1.63, 44.8],
     description: {
@@ -452,7 +452,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-aigues-mortes-history-v2",
     type: "town",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Aigues-Mortes", hu: "Aigues-Mortes", ro: "Aigues-Mortes", en: "Aigues-Mortes" },
     coords: [4.19, 43.56],
     description: {
@@ -484,7 +484,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-les-baux-history-v2",
     type: "ruins",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Les Baux-de-Provence", hu: "Les Baux-de-Provence", ro: "Les Baux-de-Provence", en: "Les Baux-de-Provence" },
     coords: [4.79, 43.74],
     description: {
@@ -516,7 +516,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-senanque-abbey-history-v2",
     type: "church",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Abtei Sénanque", hu: "Sénanque apátság", ro: "Abația Sénanque", en: "Sénanque Abbey" },
     coords: [5.18, 43.93],
     description: {
@@ -548,7 +548,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-corvey-abbey-history-v2",
     type: "church",
-    parent: "FR-BFC",
+    parent: "FR",
     name: { de: "Fontenay-Abtei", hu: "Fontenay apátság", ro: "Abația Fontenay", en: "Fontenay Abbey" },
     coords: [4.39, 47.63],
     description: {
@@ -580,7 +580,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-conques-history-v2",
     type: "village",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Conques", hu: "Conques", ro: "Conques", en: "Conques" },
     coords: [2.39, 44.59],
     description: {
@@ -612,7 +612,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-mont-st-michel-abbey-history-v2",
     type: "monument",
-    parent: "FR-BRE",
+    parent: "FR",
     name: { de: "Abtei Mont-Saint-Michel", hu: "Mont-Saint-Michel apátság", ro: "Abația Mont-Saint-Michel", en: "Mont-Saint-Michel Abbey" },
     coords: [-1.51, 48.63],
     description: {
@@ -644,7 +644,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-haut-koenigsbourg-history-v2",
     type: "castle",
-    parent: "FR-GES",
+    parent: "FR",
     name: { de: "Burg Haut-Koenigsbourg", hu: "Haut-Koenigsbourg vár", ro: "Castelul Haut-Koenigsbourg", en: "Haut-Koenigsbourg Castle" },
     coords: [7.34, 48.24],
     description: {
@@ -676,7 +676,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-fontainebleau-palace-history-v2",
     type: "palace",
-    parent: "FR-IDF",
+    parent: "FR",
     name: { de: "Schloss Fontainebleau", hu: "Fontainebleau-i kastély", ro: "Palatul Fontainebleau", en: "Palace of Fontainebleau" },
     coords: [2.7, 48.4],
     description: {
@@ -708,7 +708,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-valencay-history-v2",
     type: "castle",
-    parent: "FR-CVL",
+    parent: "FR",
     name: { de: "Schloss Valençay", hu: "Valençay kastély", ro: "Castelul Valençay", en: "Château de Valençay" },
     coords: [1.56, 47.16],
     description: {
@@ -740,7 +740,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-blois-history-v2",
     type: "castle",
-    parent: "FR-CVL",
+    parent: "FR",
     name: { de: "Schloss Blois", hu: "Blois-i kastély", ro: "Castelul Blois", en: "Château de Blois" },
     coords: [1.33, 47.58],
     description: {
@@ -772,7 +772,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-ambois-history-v2",
     type: "castle",
-    parent: "FR-CVL",
+    parent: "FR",
     name: { de: "Schloss Amboise", hu: "Amboise-i kastély", ro: "Castelul Amboise", en: "Château d'Amboise" },
     coords: [0.98, 47.41],
     description: {
@@ -804,7 +804,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-azay-le-rideau-history-v2",
     type: "castle",
-    parent: "FR-PDL",
+    parent: "FR",
     name: { de: "Schloss Azay-le-Rideau", hu: "Azay-le-Rideau kastély", ro: "Castelul Azay-le-Rideau", en: "Château d'Azay-le-Rideau" },
     coords: [0.46, 47.25],
     description: {
@@ -836,7 +836,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-carrouges-history-v2",
     type: "castle",
-    parent: "FR-NOR",
+    parent: "FR",
     name: { de: "Schloss Carrouges", hu: "Carrouges kastély", ro: "Castelul Carrouges", en: "Château de Carrouges" },
     coords: [-0.15, 48.54],
     description: {
@@ -868,7 +868,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-villandry-history-v2",
     type: "castle",
-    parent: "FR-PDL",
+    parent: "FR",
     name: { de: "Schloss Villandry", hu: "Villandry kastély", ro: "Castelul Villandry", en: "Château de Villandry" },
     coords: [0.51, 47.34],
     description: {
@@ -900,7 +900,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-saumur-history-v2",
     type: "castle",
-    parent: "FR-PDL",
+    parent: "FR",
     name: { de: "Schloss Saumur", hu: "Saumur-i kastély", ro: "Castelul Saumur", en: "Château de Saumur" },
     coords: [-0.07, 47.25],
     description: {
@@ -932,7 +932,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-valençay-talleyrand-history-v2",
     type: "museum",
-    parent: "FR-CVL",
+    parent: "FR",
     name: { de: "Museum Talleyrand", hu: "Talleyrand Múzeum", ro: "Muzeul Talleyrand", en: "Talleyrand Museum" },
     coords: [1.56, 47.16],
     description: {
@@ -964,7 +964,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-la-ferte-milon-history-v2",
     type: "ruins",
-    parent: "FR-HDF",
+    parent: "FR",
     name: { de: "Burg La Ferté-Milon", hu: "La Ferté-Milon vára", ro: "Castelul La Ferté-Milon", en: "Château de La Ferté-Milon" },
     coords: [3.12, 49.17],
     description: {
@@ -996,7 +996,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-brouage-history-v2",
     type: "town",
-    parent: "FR-NAQ",
+    parent: "FR",
     name: { de: "Brouage", hu: "Brouage", ro: "Brouage", en: "Brouage" },
     coords: [-1.06, 45.85],
     description: {
@@ -1028,7 +1028,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-caylus-history-v2",
     type: "town",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Caylus", hu: "Caylus", ro: "Caylus", en: "Caylus" },
     coords: [1.77, 44.23],
     description: {
@@ -1060,7 +1060,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-lavardin-history-v2",
     type: "village",
-    parent: "FR-CVL",
+    parent: "FR",
     name: { de: "Lavardin", hu: "Lavardin", ro: "Lavardin", en: "Lavardin" },
     coords: [0.88, 47.77],
     description: {
@@ -1092,7 +1092,7 @@ export const franceHistoryV2: POI[] = [
   {
     id: "france-mont-dore-history-v2",
     type: "town",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Mont-Dore", hu: "Mont-Dore", ro: "Mont-Dore", en: "Mont-Dore" },
     coords: [2.81, 45.57],
     description: {

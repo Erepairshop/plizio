@@ -3,7 +3,7 @@ export const spainReliefV2: POI[] = [
 
   {
     id: "spain-sierra-nevada-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Sierra Nevada", hu: "Sierra Nevada", ro: "Sierra Nevada", en: "Sierra Nevada"},
     image: "/poi-images/spain-sierra-nevada-relief-v2.webp",
@@ -38,7 +38,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-pyrenees-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Pyrenäen", hu: "Pireneusok", ro: "Munții Pirinei", en: "Pyrenees"},
     image: "/poi-images/spain-pyrenees-relief-v2.webp",
@@ -73,7 +73,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-meseta-central-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "landmark",
     name: { de: "Meseta Central", hu: "Központi-felföld", ro: "Podișul Central", en: "Meseta Central"},
     image: "/poi-images/spain-meseta-central-relief-v2.webp",
@@ -108,7 +108,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-sistema-central-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Zentralsystem", hu: "Központi-hegységrendszer", ro: "Sistemul Central", en: "Central System"},
     image: "/poi-images/spain-sistema-central-relief-v2.webp",
@@ -143,7 +143,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-sistema-iberico-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Iberisches Gebirge", hu: "Ibériai-hegység", ro: "Sistemul Iberic", en: "Iberian System"},
     image: "/poi-images/spain-sistema-iberico-relief-v2.webp",
@@ -178,7 +178,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-cordillera-cantabrica-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Kantabrisches Gebirge", hu: "Kantábriai-hegység", ro: "Munții Cantabrici", en: "Cantabrian Mountains"},
     image: "/poi-images/spain-cordillera-cantabrica-relief-v2.webp",
@@ -213,7 +213,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-sierra-morena-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Sierra Morena", hu: "Sierra Morena", ro: "Sierra Morena", en: "Sierra Morena"},
     image: "/poi-images/spain-sierra-morena-relief-v2.webp",
@@ -248,7 +248,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-depresion-del-ebro-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "valley",
     name: { de: "Ebro-Becken", hu: "Ebro-medence", ro: "Depresiunea Ebrului", en: "Ebro Basin"},
     image: "/poi-images/spain-depresion-del-ebro-relief-v2.webp",
@@ -284,7 +284,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-depresion-del-guadalquivir-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "valley",
     name: { de: "Guadalquivir-Becken", hu: "Guadalquivir-medence", ro: "Depresiunea Guadalquivir", en: "Guadalquivir Basin"},
     image: "/poi-images/spain-depresion-del-guadalquivir-relief-v2.webp",
@@ -318,7 +318,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-sierra-de-gredos-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Sierra de Gredos", hu: "Sierra de Gredos", ro: "Sierra de Gredos", en: "Sierra de Gredos"},
     image: "/poi-images/spain-sierra-de-gredos-relief-v2.webp",
@@ -353,7 +353,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-sierra-de-tramuntana-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Sierra de Tramuntana", hu: "Sierra de Tramuntana", ro: "Sierra de Tramuntana", en: "Sierra de Tramuntana"},
     image: "/poi-images/spain-sierra-de-tramuntana-relief-v2.webp",
@@ -388,7 +388,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-moncayo-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "peak",
     name: { de: "Moncayo", hu: "Moncayo", ro: "Moncayo", en: "Moncayo"},
     image: "/poi-images/spain-moncayo-relief-v2.webp",
@@ -423,7 +423,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-cabo-de-gata-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "landmark",
     name: { de: "Cabo de Gata", hu: "Cabo de Gata", ro: "Cabo de Gata", en: "Cabo de Gata"},
     image: "/poi-images/spain-cabo-de-gata-relief-v2.webp",
@@ -458,7 +458,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-sierra-de-cazorla-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Sierra de Cazorla", hu: "Sierra de Cazorla", ro: "Sierra de Cazorla", en: "Sierra de Cazorla"},
     image: "/poi-images/spain-sierra-de-cazorla-relief-v2.webp",
@@ -493,7 +493,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-montes-de-toledo-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Berge von Toledo", hu: "Toledói-hegyek", ro: "Munții Toledo", en: "Mountains of Toledo"},
     image: "/poi-images/spain-montes-de-toledo-relief-v2.webp",
@@ -528,7 +528,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-sierra-de-urbion-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Sierra de Urbión", hu: "Sierra de Urbión", ro: "Sierra de Urbión", en: "Sierra de Urbión"},
     image: "/poi-images/spain-sierra-de-urbion-relief-v2.webp",
@@ -563,7 +563,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-peñalara-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "peak",
     name: { de: "Peñalara", hu: "Peñalara", ro: "Peñalara", en: "Peñalara"},
     image: "/poi-images/spain-peñalara-relief-v2.webp",
@@ -598,7 +598,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-montes-de-leon-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Berge von León", hu: "Leóni-hegyek", ro: "Munții Leónului", en: "Mountains of León"},
     image: "/poi-images/spain-montes-de-leon-relief-v2.webp",
@@ -633,7 +633,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-aneto-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "peak",
     name: { de: "Pico Aneto", hu: "Pico Aneto", ro: "Vârful Aneto", en: "Pico Aneto"},
     image: "/poi-images/spain-aneto-relief-v2.webp",
@@ -668,7 +668,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-torre-de-cerredo-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "peak",
     name: { de: "Torre de Cerredo", hu: "Torre de Cerredo", ro: "Torre de Cerredo", en: "Torre de Cerredo"},
     image: "/poi-images/spain-torre-de-cerredo-relief-v2.webp",
@@ -703,7 +703,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-pico-almanzor-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "peak",
     name: { de: "Pico Almanzor", hu: "Pico Almanzor", ro: "Pico Almanzor", en: "Pico Almanzor"},
     image: "/poi-images/spain-pico-almanzor-relief-v2.webp",
@@ -738,7 +738,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-sierra-magina-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Sierra Mágina", hu: "Sierra Mágina", ro: "Sierra Mágina", en: "Sierra Mágina"},
     image: "/poi-images/spain-sierra-magina-relief-v2.webp",
@@ -773,7 +773,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-sierra-de-la-demanda-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Sierra de la Demanda", hu: "Sierra de la Demanda", ro: "Sierra de la Demanda", en: "Sierra de la Demanda"},
     image: "/poi-images/spain-sierra-de-la-demanda-relief-v2.webp",
@@ -809,7 +809,7 @@ export const spainReliefV2: POI[] = [
 ,
   {
     id: "spain-macizo-galaico-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Galicisches Massiv", hu: "Galiciai-masszívum", ro: "Masivul Galician", en: "Galician Massif"},
     image: "/poi-images/spain-macizo-galaico-relief-v2.webp",
@@ -842,7 +842,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-serrania-de-cuenca-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Serranía de Cuenca", hu: "Serranía de Cuenca", ro: "Serranía de Cuenca", en: "Serranía de Cuenca"},
     image: "/poi-images/spain-serrania-de-cuenca-relief-v2.webp",
@@ -876,7 +876,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-cordillera-costero-catalana-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Katalanisches Küstengebirge", hu: "Katalán-partvidéki-hegység", ro: "Cordillera Costero-Catalană", en: "Catalan Coastal Range"},
     image: "/poi-images/spain-cordillera-costero-catalana-relief-v2.webp",
@@ -909,7 +909,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-montes-vascos-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Baskisches Gebirge", hu: "Baszk-hegység", ro: "Munții Basci", en: "Basque Mountains"},
     image: "/poi-images/spain-montes-vascos-relief-v2.webp",
@@ -943,7 +943,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-sierra-de-albarracin-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Sierra de Albarracín", hu: "Sierra de Albarracín", ro: "Sierra de Albarracín", en: "Sierra de Albarracín"},
     image: "/poi-images/spain-sierra-de-albarracin-relief-v2.webp",
@@ -977,7 +977,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-serrania-de-ronda-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Serranía de Ronda", hu: "Serranía de Ronda", ro: "Serranía de Ronda", en: "Serranía de Ronda"},
     image: "/poi-images/spain-serrania-de-ronda-relief-v2.webp",
@@ -1011,7 +1011,7 @@ export const spainReliefV2: POI[] = [
   },
   {
     id: "spain-pre-pyrenees-relief-v2",
-    parent: "ES-GA",
+    parent: "ES",
     type: "mountain",
     name: { de: "Vorpyrenäen", hu: "Elő-Pireneusok", ro: "Prepirineii", en: "Pre-Pyrenees"},
     image: "/poi-images/spain-pre-pyrenees-relief-v2.webp",
@@ -1046,7 +1046,7 @@ export const spainReliefV2: POI[] = [
   {
     id: "spain-sierra-de-grazalema-relief-v2",
     type: "mountain",
-    parent: "ES-GA",
+    parent: "ES",
     name: { de: "Sierra de Grazalema", hu: "Sierra de Grazalema", ro: "Sierra de Grazalema", en: "Sierra de Grazalema" },
     coords: [-5.36, 36.75],
     description: {
@@ -1078,7 +1078,7 @@ export const spainReliefV2: POI[] = [
   {
     id: "spain-picos-de-urbion-relief-v2",
     type: "mountain",
-    parent: "ES-GA",
+    parent: "ES",
     name: { de: "Picos de Urbión", hu: "Picos de Urbión", ro: "Picos de Urbión", en: "Picos de Urbión" },
     coords: [-2.85, 42.0],
     description: {
@@ -1110,7 +1110,7 @@ export const spainReliefV2: POI[] = [
   {
     id: "spain-sierra-de-las-nieves-relief-v2",
     type: "mountain",
-    parent: "ES-GA",
+    parent: "ES",
     name: { de: "Sierra de las Nieves", hu: "Sierra de las Nieves", ro: "Sierra de las Nieves", en: "Sierra de las Nieves" },
     coords: [-5.0, 36.65],
     description: {
@@ -1142,7 +1142,7 @@ export const spainReliefV2: POI[] = [
   {
     id: "spain-macizo-de-penagolosa-relief-v2",
     type: "mountain",
-    parent: "ES-GA",
+    parent: "ES",
     name: { de: "Penyagolosa", hu: "Penyagolosa", ro: "Penyagolosa", en: "Penyagolosa" },
     coords: [-0.35, 40.23],
     description: {
@@ -1174,7 +1174,7 @@ export const spainReliefV2: POI[] = [
   {
     id: "spain-sierra-de-ayllon-relief-v2",
     type: "mountain",
-    parent: "ES-GA",
+    parent: "ES",
     name: { de: "Sierra de Ayllón", hu: "Sierra de Ayllón", ro: "Sierra de Ayllón", en: "Sierra de Ayllón" },
     coords: [-3.35, 41.15],
     description: {
@@ -1206,7 +1206,7 @@ export const spainReliefV2: POI[] = [
   {
     id: "spain-sierra-de-la-cabrera-relief-v2",
     type: "mountain",
-    parent: "ES-GA",
+    parent: "ES",
     name: { de: "Sierra de la Cabrera", hu: "Sierra de la Cabrera", ro: "Sierra de la Cabrera", en: "Sierra de la Cabrera" },
     coords: [-3.6, 40.85],
     description: {
@@ -1238,7 +1238,7 @@ export const spainReliefV2: POI[] = [
   {
     id: "spain-sierra-de-alcaraz-relief-v2",
     type: "mountain",
-    parent: "ES-GA",
+    parent: "ES",
     name: { de: "Sierra de Alcaraz", hu: "Sierra de Alcaraz", ro: "Sierra de Alcaraz", en: "Sierra de Alcaraz" },
     coords: [-2.5, 38.65],
     description: {
@@ -1270,7 +1270,7 @@ export const spainReliefV2: POI[] = [
   {
     id: "spain-sierra-de-gata-relief-v2",
     type: "mountain",
-    parent: "ES-GA",
+    parent: "ES",
     name: { de: "Sierra de Gata", hu: "Sierra de Gata", ro: "Sierra de Gata", en: "Sierra de Gata" },
     coords: [-6.65, 40.23],
     description: {
@@ -1302,7 +1302,7 @@ export const spainReliefV2: POI[] = [
   {
     id: "spain-sierra-de-segura-relief-v2",
     type: "mountain",
-    parent: "ES-GA",
+    parent: "ES",
     name: { de: "Sierra de Segura", hu: "Sierra de Segura", ro: "Sierra de Segura", en: "Sierra de Segura" },
     coords: [-2.6, 38.3],
     description: {
@@ -1334,7 +1334,7 @@ export const spainReliefV2: POI[] = [
   {
     id: "spain-sierra-de-oropesa-relief-v2",
     type: "mountain",
-    parent: "ES-GA",
+    parent: "ES",
     name: { de: "Sierra de Oropesa", hu: "Sierra de Oropesa", ro: "Sierra de Oropesa", en: "Sierra de Oropesa" },
     coords: [-5.15, 39.98],
     description: {
@@ -1366,7 +1366,7 @@ export const spainReliefV2: POI[] = [
   {
     id: "spain-sierra-de-sierra-nevada-peaks-relief-v2",
     type: "mountain",
-    parent: "ES-GA",
+    parent: "ES",
     name: { de: "Sierra Nevada Gipfel", hu: "Sierra Nevada csúcsai", ro: "Vârfurile Sierra Nevada", en: "Sierra Nevada Peaks" },
     coords: [-3.32, 37.05],
     description: {

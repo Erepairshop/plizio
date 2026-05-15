@@ -4,7 +4,7 @@ export const romaniaNatureV2: POI[] = [
   {
     id: "romania-lacul-snagov-nature-v2",
     type: "lake",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Snagov-See", hu: "Snagov-tó", ro: "Lacul Snagov", en: "Snagov Lake" },
     coords: [26.1736, 44.7175],
     description: {
@@ -36,7 +36,7 @@ export const romaniaNatureV2: POI[] = [
   {
     id: "romania-valea-vaserului-nature-v2",
     type: "valley",
-    parent: "RO-BN",
+    parent: "RO",
     name: { de: "Vaser-Tal", hu: "Vaser-völgy", ro: "Valea Vaserului", en: "Vaser Valley" },
     coords: [24.5667, 47.7333],
     description: {
@@ -68,7 +68,7 @@ export const romaniaNatureV2: POI[] = [
   {
     id: "romania-cheile-galbenei-nature-v2",
     type: "valley",
-    parent: "RO-BH",
+    parent: "RO",
     name: { de: "Galbena-Schlucht", hu: "Galbena-szurdok", ro: "Cheile Galbenei", en: "Galbena Gorges" },
     coords: [22.6736, 46.5417],
     description: {
@@ -100,7 +100,7 @@ export const romaniaNatureV2: POI[] = [
   {
     id: "romania-lacul-tasaul-nature-v2",
     type: "lake",
-    parent: "RO-CT",
+    parent: "RO",
     name: { de: "Tașaul-See", hu: "Tașaul-tó", ro: "Lacul Tașaul", en: "Tașaul Lake" },
     coords: [28.5833, 44.3167],
     description: {
@@ -132,7 +132,7 @@ export const romaniaNatureV2: POI[] = [
   {
     id: "romania-varful-letrita-nature-v2",
     type: "peak",
-    parent: "RO-BV",
+    parent: "RO",
     name: { de: "Litrița-Gipfel", hu: "Litrița-csúcs", ro: "Vârful Litrița", en: "Litrița Peak" },
     coords: [25.132, 45.419],
     description: {
@@ -164,7 +164,7 @@ export const romaniaNatureV2: POI[] = [
   {
     id: "romania-padurea-letca-nature-v2",
     type: "forest",
-    parent: "RO-SJ",
+    parent: "RO",
     name: { de: "Letca-Wald", hu: "Letca-erdő", ro: "Pădurea Letca", en: "Letca Forest" },
     coords: [23.3667, 47.3333],
     description: {

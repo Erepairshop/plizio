@@ -838,5 +838,99 @@ export const poiExtraHaitiReliefV2: POI[] = [
       en: ["Named after its jagged, iron-like coral limestone rocks.", "Features the longest stretch of undeveloped beach in the southeast.", "Home to thriving marine biodiversity and healthy reefs.", "Slated for future large-scale sustainable tourism development.", "Climate is notably drier than in the nearby highlands.", "Renowned for its heritage of traditional artisanal boat building."]
     }
   }
+,
+  {
+    id: "haiti-morne-cabaio-relief-v2",
+    type: "peak",
+    name: { de: "Morne Cabaio", hu: "Morne Cabaio", ro: "Morne Cabaio", en: "Morne Cabaio" },
+    coords: [-72.2478, 18.3375],
+    description: {
+      de: "Morne Cabaio ist ein markanter Berggipfel im Massif de la Selle in Haiti. Er erhebt sich über das umliegende Hochland südöstlich der Hauptstadt.",
+      hu: "A Morne Cabaio egy jelentős hegycsúcs Haiti Massif de la Selle hegységében. A fővárostól délkeletre emelkedik a környező felföld fölé.",
+      ro: "Morne Cabaio este un vârf muntos proeminent situat în masivul muntos Massif de la Selle din Haiti. Acesta se ridică deasupra platoului înconjurător la sud-est de capitală.",
+      en: "Morne Cabaio is a prominent mountain peak located in the Massif de la Selle range in Haiti. It rises above the surrounding highlands southeast of the capital.",
+    },
+    facts: {
+      de: ["Höhe ca. 2270 Meter", "Teil des Massif de la Selle", "Region Ouest", "Gebirgsklima"],
+      hu: ["Magassága kb. 2270 méter", "A Massif de la Selle része", "Ouest régió", "Hegyi éghajlat"],
+      ro: ["Altitudine cca. 2270 metri", "Parte a masivului Massif de la Selle", "Regiunea Ouest", "Climat montan"],
+      en: ["Elevation approx. 2270 meters", "Part of the Massif de la Selle", "Ouest region", "Mountain climate"],
+    },
+    imageHint: "mountain peak in Haiti Massif de la Selle",
+    descriptionAdvanced: {
+      de: "Der Morne Cabaio ist ein Gipfel im Massif de la Selle im Südosten Haitis. Er erreicht eine Höhe von 2.200 Metern und ist damit einer der höchsten Berge des Landes. Der Berg liegt im Département Sud-Est, nahe der Grenze zur Dominikanischen Republik. Die Hänge sind mit Nebelwald bedeckt, der reich an endemischen Pflanzen ist. In den Höhenlagen kommen Kiefernwälder vor. Der Gipfel bietet eine beeindruckende Aussicht auf das Umland. Der Berg ist Teil des Pic-Cabaio-Nationalparks. Die Temperatur auf dem Gipfel beträgt selten mehr als 20 °C. Der Berg wird oft von Wissenschaftlern zur Erforschung der Biodiversität besucht.",
+      hu: "A Morne Cabaio egy csúcs a Massif de la Selle hegységben, Haiti délkeleti részén. Magassága 2.200 méter, így az ország egyik legmagasabb hegye. A hegy a Sud-Est megyében, a Dominikai Köztársaság határa közelében található. Lejtőit köderdő borítja, amely gazdag endemikus növényekben. Magasabb régiókban fenyvesek találhatók. A csúcs lenyűgöző kilátást nyújt a környező területekre. A hegy a Pic-Cabaio Nemzeti Park része. A csúcson a hőmérséklet ritkán haladja meg a 20 °C-ot. A hegyet gyakran látogatják tudósok a biodiverzitás kutatása céljából.",
+      ro: "Morne Cabaio este un vârf în Masivul Selle din sud-estul Haiti. Atinge o altitudine de 2.200 de metri, fiind unul dintre cei mai înalți munți ai țării. Muntele este situat în departamentul Sud-Est, aproape de granița cu Republica Dominicană. Pantele sunt acoperite cu păduri de ceață, bogate în plante endemice. La altitudini mai mari se găsesc păduri de pini. Vârful oferă o vedere impresionantă asupra împrejurimilor. Muntele face parte din Parcul Național Pic Cabaio. Temperatura la vârf depășește rar 20 °C. Muntele este frecvent vizitat de oameni de știință pentru cercetarea biodiversității.",
+      en: "Morne Cabaio is a peak in the Massif de la Selle in southeastern Haiti. It reaches an elevation of 2,200 meters, making it one of the highest mountains in the country. The mountain is located in the Sud-Est department, near the border with the Dominican Republic. Its slopes are covered with cloud forest, rich in endemic plants. At higher elevations, pine forests occur. The summit offers impressive views of the surroundings. The mountain is part of the Pic Cabaio National Park. The temperature on the summit rarely exceeds 20 °C. The mountain is often visited by scientists for biodiversity research.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.200 Meter", "Teil des Nationalparks Pic Cabaio", "Durchschnittstemperatur: 16°C", "Niederschlag: 2.500 mm jährlich", "Bekannte endemische Pflanzen: 15", "Höhenlage der Kiefernwälder: ab 1.800 m"],
+      hu: ["Magasság: 2.200 méter", "A Pic Cabaio Nemzeti Park része", "Átlaghőmérséklet: 16°C", "Csapadék: 2.500 mm évente", "Ismert endemikus növények: 15", "Fenyvesek tengerszint feletti magassága: 1.800 m-től"],
+      ro: ["Altitudine: 2.200 de metri", "Parte a Parcului Național Pic Cabaio", "Temperatura medie: 16°C", "Precipitații: 2.500 mm anual", "Plante endemice cunoscute: 15", "Altitudinea pădurilor de pini: de la 1.800 m"],
+      en: ["Elevation: 2,200 meters", "Part of Pic Cabaio National Park", "Average temperature: 16°C", "Precipitation: 2,500 mm annually", "Known endemic plants: 15", "Pine forest elevation: from 1,800 m"],
+    },
+  },
+  {
+    id: "haiti-plateau-du-nord-relief-v2",
+    type: "valley",
+    name: { de: "Plateau du Nord", hu: "Plateau du Nord", ro: "Plateau du Nord", en: "Plateau du Nord" },
+    coords: [-72.1667, 19.65],
+    description: {
+      de: "Das Plateau du Nord ist eine ausgedehnte Hochebene im nördlichen Teil von Haiti. Es bildet eine geographische Grenze zwischen verschiedenen Gebirgszügen.",
+      hu: "A Plateau du Nord egy kiterjedt fennsík Haiti északi részén. Földrajzi határt képez a különböző hegyláncok között.",
+      ro: "Plateau du Nord este un platou extins situat în partea de nord a statului Haiti. Acesta formează o barieră geografică între diverse lanțuri muntoase.",
+      en: "Plateau du Nord is an extensive plateau located in the northern part of Haiti. It forms a geographical boundary between various mountain ranges.",
+    },
+    facts: {
+      de: ["Nördliche Region", "Geographische Hochebene", "Agrarregion", "Mittelhöhe"],
+      hu: ["Északi régió", "Földrajzi fennsík", "Mezőgazdasági terület", "Közepes tengerszint feletti magasság"],
+      ro: ["Regiunea de nord", "Platou geografic", "Regiune agricolă", "Altitudine medie"],
+      en: ["Northern region", "Geographical plateau", "Agricultural region", "Medium elevation"],
+    },
+    imageHint: "rolling landscape of northern Haiti plateau",
+    descriptionAdvanced: {
+      de: "Das Plateau du Nord ist eine Hochebene im Norden Haitis, die sich über die Départements Nord und Nord-Est erstreckt. Es liegt auf einer Höhe von 200 bis 400 Metern. Das Plateau wird von mehreren Flüssen durchzogen, darunter der Rivière du Limbé. Die Region ist landwirtschaftlich geprägt, mit Anbau von Bananen, Maniok und Kaffee. Die Böden sind fruchtbar, aber durch Erosion bedroht. Das Plateau ist dicht besiedelt, mit Städten wie Limbé und Plaisance. Das Klima ist tropisch, mit einer Regenzeit von Mai bis Oktober. Die Jahresdurchschnittstemperatur beträgt 26 °C. Das Plateau ist auch bekannt für seine historischen Festungen aus der Kolonialzeit.",
+      hu: "A Plateau du Nord egy fennsík Haiti északi részén, amely a Nord és Nord-Est megyékre terjed ki. Tengerszint feletti magassága 200-400 méter. A fennsíkot számos folyó szeli át, köztük a Rivière du Limbé. A régió mezőgazdasági jellegű, banán, manióka és kávé termesztésével. A talajok termékenyek, de erózió fenyegeti őket. A fennsík sűrűn lakott, olyan városokkal, mint Limbé és Plaisance. Az éghajlat trópusi, az esős évszak májustól októberig tart. Az éves átlaghőmérséklet 26 °C. A fennsík gyarmati kori történelmi erődítményeiről is ismert.",
+      ro: "Podisul de Nord (Plateau du Nord) este un platou în nordul Haiti, care se întinde în departamentele Nord și Nord-Est. Se află la o altitudine de 200 până la 400 de metri. Platoul este străbătut de mai multe râuri, printre care Rivière du Limbé. Regiunea este agricolă, cu culturi de banane, manioc și cafea. Solurile sunt fertile, dar amenințate de eroziune. Platoul este dens populat, cu orașe precum Limbé și Plaisance. Clima este tropicală, cu un sezon ploios din mai până în octombrie. Temperatura medie anuală este de 26 °C. Platoul este cunoscut și pentru fortărețele istorice din perioada colonială.",
+      en: "The Plateau du Nord is a plateau in northern Haiti, extending across the Nord and Nord-Est departments. It lies at an elevation of 200 to 400 meters. The plateau is traversed by several rivers, including the Rivière du Limbé. The region is agricultural, with cultivation of bananas, cassava, and coffee. The soils are fertile but threatened by erosion. The plateau is densely populated, with towns such as Limbé and Plaisance. The climate is tropical, with a rainy season from May to October. The average annual temperature is 26 °C. The plateau is also known for its historical fortresses from the colonial era.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 200-400 m", "Fläche: 1.200 km²", "Bevölkerungsdichte: 250 Einwohner/km²", "Jahresniederschlag: 1.500 mm", "Hauptfluss: Rivière du Limbé, Länge 60 km", "Kaffeeanbaufläche: 50 km²"],
+      hu: ["Tengerszint feletti magasság: 200-400 m", "Terület: 1.200 km²", "Népsűrűség: 250 fő/km²", "Éves csapadék: 1.500 mm", "Fő folyó: Rivière du Limbé, hossza 60 km", "Kávéültetvény területe: 50 km²"],
+      ro: ["Altitudine: 200-400 m", "Suprafață: 1.200 km²", "Densitatea populației: 250 loc./km²", "Precipitații anuale: 1.500 mm", "Râul principal: Rivière du Limbé, lungime 60 km", "Suprafața cultivată cu cafea: 50 km²"],
+      en: ["Elevation: 200-400 m", "Area: 1,200 km²", "Population density: 250 inhabitants/km²", "Annual rainfall: 1,500 mm", "Main river: Rivière du Limbé, length 60 km", "Coffee cultivation area: 50 km²"],
+    },
+  },
+  {
+    id: "haiti-morne-du-chapelet-relief-v2",
+    type: "mountain",
+    name: { de: "Morne du Chapelet", hu: "Morne du Chapelet", ro: "Morne du Chapelet", en: "Morne du Chapelet" },
+    coords: [-72.0167, 18.5167],
+    description: {
+      de: "Morne du Chapelet ist eine Bergformation im Südosten von Haiti. Sie gehört zum komplexen Relief der karibischen Insel Hispaniola.",
+      hu: "A Morne du Chapelet egy hegyképződmény Haiti délkeleti részén. Hispaniola szigetének összetett domborzatához tartozik.",
+      ro: "Morne du Chapelet este o formațiune muntoasă situată în sud-estul statului Haiti. Aceasta aparține reliefului complex al insulei Hispaniola.",
+      en: "Morne du Chapelet is a mountain formation located in the southeast of Haiti. It belongs to the complex relief of the Caribbean island of Hispaniola.",
+    },
+    facts: {
+      de: ["Südöstliche Bergkette", "Hispaniola Geologie", "Kalksteingebirge", "Natürliche Barriere"],
+      hu: ["Délkeleti hegyvonulat", "Hispaniola geológiája", "Mészkőhegység", "Természetes akadály"],
+      ro: ["Lanț muntos sud-estic", "Geologia insulei Hispaniola", "Munți de calcar", "Barieră naturală"],
+      en: ["Southeastern mountain range", "Hispaniola geology", "Limestone mountains", "Natural barrier"],
+    },
+    imageHint: "mountainous terrain in southeastern Haiti",
+    descriptionAdvanced: {
+      de: "Der Morne du Chapelet ist ein Berg im Massif de la Selle im Südosten Haitis. Er erreicht eine Höhe von 1.800 Metern. Der Berg liegt im Département Ouest, nahe der Grenze zur Dominikanischen Republik. Die Hänge sind von dichten Wäldern bedeckt, die aufgrund der Höhenlage oft in Nebel gehüllt sind. Die Region ist bekannt für ihre Vogelvielfalt, darunter der gefährdete Haiti-Schmucksittich. Der Berg ist Teil des Schutzgebiets Forêt des Pins. In den tieferen Lagen wird Landwirtschaft betrieben. Der Gipfel kann über einen Wanderweg erreicht werden, der etwa vier Stunden dauert.",
+      hu: "A Morne du Chapelet egy hegy a Massif de la Selle hegységben, Haiti délkeleti részén. Magassága 1.800 méter. A hegy az Ouest megyében, a Dominikai Köztársaság határa közelében található. Lejtőit sűrű erdő borítja, amely a magasság miatt gyakran ködbe burkolózik. A régió híres madárváltozatosságáról, köztük a veszélyeztetett haiti papagájról. A hegy a Forêt des Pins védett terület része. Az alacsonyabb területeken mezőgazdaságot folytatnak. A csúcs egy körülbelül négyórás túraúton érhető el.",
+      ro: "Morne du Chapelet este un munte în Masivul Selle din sud-estul Haiti. Atinge o altitudine de 1.800 de metri. Muntele este situat în departamentul Ouest, aproape de granița cu Republica Dominicană. Pantele sunt acoperite de păduri dese, adesea învăluite în ceață din cauza altitudinii. Regiunea este cunoscută pentru diversitatea păsărilor, inclusiv papagalul haitian pe cale de dispariție. Muntele face parte din aria protejată Forêt des Pins. La altitudini mai mici se practică agricultura. Vârful poate fi atins pe un traseu de drumeție care durează aproximativ patru ore.",
+      en: "Morne du Chapelet is a mountain in the Massif de la Selle in southeastern Haiti. It reaches an elevation of 1,800 meters. The mountain is located in the Ouest department, near the border with the Dominican Republic. Its slopes are covered with dense forests, often shrouded in mist due to the altitude. The region is known for its bird diversity, including the endangered Hispaniolan parakeet. The mountain is part of the Forêt des Pins protected area. Agriculture is practiced at lower elevations. The summit can be reached via a hiking trail that takes about four hours.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.800 Meter", "Teil des Schutzgebiets Forêt des Pins", "Wanderwegdauer: 4 Stunden", "Endemische Vogelarten: 8", "Waldfläche: 30 km²", "Jährliche Besucher: 3.000"],
+      hu: ["Magasság: 1.800 méter", "A Forêt des Pins védett terület része", "Túraútvonal időtartama: 4 óra", "Endemikus madárfajok: 8", "Erdőterület: 30 km²", "Éves látogatók: 3.000"],
+      ro: ["Altitudine: 1.800 de metri", "Parte a ariei protejate Forêt des Pins", "Durata traseului de drumeție: 4 ore", "Specii endemice de păsări: 8", "Suprafață forestieră: 30 km²", "Vizitatori anuali: 3.000"],
+      en: ["Elevation: 1,800 meters", "Part of Forêt des Pins protected area", "Hiking trail duration: 4 hours", "Endemic bird species: 8", "Forest area: 30 km²", "Annual visitors: 3,000"],
+    },
+  }
 ];
 

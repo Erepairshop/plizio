@@ -703,5 +703,68 @@ export const poiExtraJapanNatureV2: POI[] = [
       ro: ["Un parc național în Hokkaidō care prezintă vulcani, păduri și trei lacuri spectaculoase: Akan, Mashū și Kussharo.", "Se află pe teritoriul statului insular Japonia, în Pacificul de Nord.", "Are un rol în identitatea locală a regiunii.", "Este cunoscut pentru semnificația sa peisagistică sau culturală.", "Este documentat în studii locale și regionale."],
       en: ["A national park in Hokkaidō featuring volcanoes, forests, and three spectacular lakes: Akan, Mashū, and Kussharo.", "Located within the island nation of Japan in the North Pacific.", "Plays a role in the local identity of the region.", "Known for its scenic or cultural significance.", "Documented in local and regional studies."],
     }, image: "/poi-images/jp-akan-mashu-nationalpark-nature-v2.webp"},
+,
+  {
+    id: "japan-kegon-falls-nature-v2",
+    type: "landmark",
+    name: { de: "Kegon-Wasserfall", hu: "Kegon-vízesés", ro: "Cascada Kegon", en: "Kegon Falls" },
+    coords: [139.5064, 36.7361],
+    description: {
+      de: "Der Kegon-Wasserfall ist ein 97 Meter hoher Wasserfall im Nikko-Nationalpark. Er entstand durch Lavaströme, die den Daiya-Fluss aufstauten.",
+      hu: "A Kegon-vízesés egy 97 méter magas vízesés a Nikkó Nemzeti Parkban. A Nantai-hegy lávafolyama által elzárt Daiya-folyó duzzasztásával jött létre.",
+      ro: "Cascada Kegon este o cădere de apă de 97 de metri înălțime din Parcul Nikko. S-a format prin devierea râului Daiya de către fluxurile de lavă.",
+      en: "Kegon Falls is a 97-meter-high waterfall in Nikko National Park. It was formed when the Daiya River was rerouted by lava flows from Mount Nantai.",
+    },
+    facts: {
+      de: ["97 Meter Fallhöhe", "Abfluss des Chuzenji-Sees", "Einer der drei schönsten Wasserfälle Japans", "Enthält 12 kleinere Nebenwasserfälle"],
+      hu: ["97 méteres magasság", "A Csúzedzsi-tó vize táplálja", "Japán három legszebb vízesésének egyike", "12 kisebb mellékág tartozik hozzá"],
+      ro: ["97 metri înălțime", "Sursa este lacul Chuzenji", "Una dintre cele mai frumoase trei cascade", "Include 12 cascade secundare mici"],
+      en: ["97 meters total height", "Drains Lake Chuzenji", "One of Japan's top three waterfalls", "Features 12 smaller sub-falls"],
+    },
+    imageHint: "Kegon Falls Nikko Japan waterfall vertical view",
+    descriptionAdvanced: {
+      de: "Die Kegon-Wasserfälle im Nikkō-Nationalpark gehören zu den berühmtesten Wasserfällen Japans. Das Wasser stürzt aus 97 m Höhe über eine Felswand. Die Fälle entstanden durch den Ausfluss des Chūzenji-Sees. Besonders beeindruckend sind die 12 kleineren Fälle, die aus Spalten der Felswand fallen. Die Kegon-Fälle sind ein Symbol für Nikkō und ziehen ganzjährig Besucher an. Im Winter gefriert der Wasserfall teilweise. Die Umgebung ist dicht bewaldet. Der Ausblick von der Aussichtsplattform ist spektakulär.",
+      hu: "A Kegon-vízesés Nikkóban található, és Japán három leghíresebb vízesésének egyike. A víz 97 méter magasból zuhan le. A Csúzendzsi-tóból ered. A fő vízesés mellett 12 kisebb zuhatag is látható. Télen a vízesés részben befagy, ami különleges látványt nyújt. A környék erdős, a túraútvonalak könnyen megközelíthetőek. A vízesés a Nikkó Nemzeti Park része. A megvilágítás esténként romantikus hangulatot teremt.",
+      ro: "Cascada Kegon din Parcul Național Nikko este una dintre cele mai faimoase cascade din Japonia. Apa cade de la 97 m înălțime, provenind din Lacul Chuzenji. Pe lângă căderea principală, există 12 cascade mai mici. Iarna, cascada îngheață parțial. Zona este înconjurată de păduri dese. O platformă de observare oferă vederi spectaculoase. Cascada a fost formată de eroziunea vulcanică și este un simbol al regiunii Nikko.",
+      en: "Kegon Falls in Nikko National Park is one of Japan's three most beautiful waterfalls. The water plunges 97 m from Lake Chuzenji over a cliff. There are 12 smaller waterfalls emerging from rock crevices. The falls were formed by volcanic activity and erosion. In winter, parts freeze, creating icy formations. The site is accessible via an elevator to the observation deck. Kegon Falls is a designated National Treasure and attracts over 1 million visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Die Kegon-Fälle sind 97 m hoch.", "Sie entstammen dem Chūzenji-See.", "Es gibt 12 kleinere Nebenwasserfälle.", "Die Fälle gehören zu den drei schönsten Wasserfällen Japans.", "Der Chūzenji-See hat eine maximale Tiefe von 163 m.", "Die Besucherzahl übersteigt 1 Million pro Jahr."],
+      hu: ["A vízesés 97 méter magas.", "A Csúzendzsi-tóból táplálkozik.", "12 kisebb zuhatag is van.", "Japán három legszebb vízesésének egyike.", "A Csúzendzsi-tó legnagyobb mélysége 163 méter.", "Évente több mint 1 millió látogatója van."],
+      ro: ["Cascada are 97 m înălțime.", "Provine din Lacul Chuzenji.", "Există 12 cascade mai mici.", "Este una dintre cele mai frumoase trei cascade din Japonia.", "Lacul Chuzenji are o adâncime maximă de 163 m.", "Peste 1 milion de vizitatori pe an."],
+      en: ["Kegon Falls is 97 m high.", "It is fed by Lake Chuzenji.", "There are 12 smaller adjacent waterfalls.", "It is considered one of Japan's three best waterfalls.", "Lake Chuzenji has a maximum depth of 163 m.", "The falls attract over 1 million visitors annually."],
+    },
+  },
+  {
+    id: "japan-naruto-whirlpools-nature-v2",
+    type: "landmark",
+    name: { de: "Naruto-Strudel", hu: "Naruto-örvények", ro: "Vârtejurile Naruto", en: "Naruto Whirlpools" },
+    coords: [134.6514, 34.2383],
+    description: {
+      de: "Die Naruto-Strudel sind Gezeitenwirbel in der Naruto-Straße. Sie entstehen durch den Wasseraustausch zwischen dem Seto-Meer und dem Pazifik.",
+      hu: "A Naruto-örvények a Naruto-szorosban kialakuló árapály-jelenségek. A Seto-beltenger és a Csendes-óceán közötti vízmozgás hozza létre őket.",
+      ro: "Vârtejurile Naruto sunt fenomene de maree în strâmtoarea Naruto. Sunt cauzate de mișcarea apei între Marea Seto și Oceanul Pacific.",
+      en: "The Naruto Whirlpools occur in the Naruto Strait between Awaji and Shikoku. They are caused by water moving between the Seto Sea and Pacific.",
+    },
+    facts: {
+      de: ["Bis zu 20 Meter Durchmesser", "Strömungsgeschwindigkeit bis 20 km/h", "Entstehen alle sechs Stunden", "Sichtbar von der Onaruto-Brücke"],
+      hu: ["Akár 20 méteres átmérő", "20 km/h áramlási sebesség", "Hathavonta változó intenzitás", "Az Onaruto-hídról láthatóak"],
+      ro: ["Diametru de până la 20 de metri", "Viteză a curentului de 20 km/h", "Apar la fiecare șase ore", "Vizibile de pe podul Onaruto"],
+      en: ["Up to 20 meters in diameter", "Current speed reaches 20 km/h", "Occur twice daily with tides", "Visible from the Onaruto Bridge"],
+    },
+    imageHint: "Naruto Whirlpools Japan aerial view whirlpool",
+    descriptionAdvanced: {
+      de: "Die Naruto-Strudel in der Naruto-Straße zwischen Awaji und Shikoku entstehen durch die Gezeitenströmungen, die durch die schmale Meerenge mit großer Kraft strömen. Die Strudel erreichen einen Durchmesser von bis zu 30 m und sind am stärksten bei Springflut. Sie sind ein Naturphänomen und eine Touristenattraktion. Die Öffnung der Großen Naruto-Brücke ermöglicht einen Blick von oben. Bootsfahrten fahren direkt zu den Strudeln. Die Strudel variieren mit den Jahreszeiten und Gezeiten.",
+      hu: "A Naruto-örvények a Naruto-szorosban találhatók Avadzsi és Sikoku között. Az árapály erős áramlásai hozzák létre őket, átmérőjük elérheti a 30 métert. Tavasszal a nagy dagály idején a legerősebbek. A Naruto-hídról a látvány lenyűgöző. Hajókirándulásokkal közelről is megtekinthetők. Az örvények a Föld egyik legerősebb árapály-örvényének számítanak.",
+      ro: "Vârtejurile Naruto din strâmtoarea Naruto dintre Awaji și Shikoku sunt create de curenții de maree. Pot atinge 30 m diametru. Fenomenul este cel mai puternic în timpul mareelor de primăvară. Podul Naruto oferă o vedere panoramică. Excursii cu barca duc aproape de vârtejuri. Sunt considerate unele dintre cele mai puternice vârtejuri de maree din lume.",
+      en: "The Naruto Whirlpools in the Naruto Strait are a natural phenomenon caused by tidal currents. The strait is only 1.3 km wide, forcing water speeds up to 20 km/h. The whirlpools can reach diameters of 20 m, occasionally up to 30 m. They are best viewed during spring tides. The Onaruto Bridge has a pedestrian walkway with glass floors for viewing. The whirlpools are a major tourist attraction, drawing over 1 million visitors yearly.",
+    },
+    factsAdvanced: {
+      de: ["Die Strudel können einen Durchmesser von bis zu 30 m erreichen.", "Die Naruto-Straße ist 1,3 km breit.", "Die Strömungsgeschwindigkeit beträgt bis zu 20 km/h.", "Die Strudel sind bei Springflut am stärksten.", "Die Naruto-Brücke ist 1.629 m lang.", "Jährlich besuchen über 1 Million Menschen die Strudel."],
+      hu: ["Az örvények átmérője elérheti a 30 métert.", "A Naruto-szoros 1,3 km széles.", "Az áramlás sebessége elérheti a 20 km/órát.", "Tavaszi dagálykor a legerősebbek.", "A Naruto-híd hossza 1.629 méter.", "Évente több mint 1 millió turista látogat el ide."],
+      ro: ["Vârtejurile pot atinge 30 m diametru.", "Strâmtoarea Naruto are o lățime de 1,3 km.", "Curentul atinge 20 km/h.", "Ele sunt cele mai puternice la mareele de primăvară.", "Podul Naruto are 1.629 m lungime.", "Peste 1 milion de vizitatori anual."],
+      en: ["Naruto Whirlpools can reach 30 m in diameter.", "The Naruto Strait is 1.3 km wide.", "Current speeds can reach 20 km/h.", "The whirlpools are strongest during spring tides.", "The Naruto Bridge is 1,629 m long.", "Over 1 million visitors come annually."],
+    },
+  }
 ];
 

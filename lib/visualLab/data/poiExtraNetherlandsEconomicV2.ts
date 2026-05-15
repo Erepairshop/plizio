@@ -4,7 +4,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-emo-port-eems-economic-v2",
     type: "port",
-    parent: "NL-GR",
+    parent: "NL",
     name: { de: "Eemshaven", hu: "Eemshaven", ro: "Eemshaven", en: "Eemshaven" },
     coords: [6.837, 53.445],
     description: {
@@ -36,7 +36,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-brightlands-chem-economic-v2",
     type: "industry",
-    parent: "NL-LI",
+    parent: "NL",
     name: { de: "Brightlands Chemelot Campus", hu: "Brightlands Chemelot Campus", ro: "Brightlands Chemelot Campus", en: "Brightlands Chemelot Campus" },
     coords: [5.805, 50.963],
     description: {
@@ -68,7 +68,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-vdl-nedcar-economic-v2",
     type: "factory",
-    parent: "NL-LI",
+    parent: "NL",
     name: { de: "VDL Nedcar Werk", hu: "VDL Nedcar üzem", ro: "Uzina VDL Nedcar", en: "VDL Nedcar plant" },
     coords: [5.845, 50.995],
     description: {
@@ -100,7 +100,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-port-moerdijk-economic-v2",
     type: "port",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Hafen Moerdijk", hu: "Moerdijk kikötő", ro: "Portul Moerdijk", en: "Port of Moerdijk" },
     coords: [4.605, 51.685],
     description: {
@@ -132,7 +132,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-greenport-westland-economic-v2",
     type: "industry",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Greenport Westland", hu: "Greenport Westland", ro: "Greenport Westland", en: "Greenport Westland" },
     coords: [4.215, 51.985],
     description: {
@@ -164,7 +164,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-brainport-eindhoven-economic-v2",
     type: "industry",
-    parent: "NL-NB",
+    parent: "NL",
     name: { de: "Brainport Eindhoven", hu: "Brainport Eindhoven", ro: "Brainport Eindhoven", en: "Brainport Eindhoven" },
     coords: [5.463, 51.442],
     description: {
@@ -196,7 +196,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-port-vlissingen-economic-v2",
     type: "port",
-    parent: "NL-ZE",
+    parent: "NL",
     name: { de: "Hafen Vlissingen", hu: "Vlissingen kikötő", ro: "Portul Vlissingen", en: "Port of Vlissingen" },
     coords: [3.585, 51.445],
     description: {
@@ -228,7 +228,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-chem-park-delfzijl-economic-v2",
     type: "industry",
-    parent: "NL-GR",
+    parent: "NL",
     name: { de: "Chemiepark Delfzijl", hu: "Delfzijl vegyipari park", ro: "Parc chimic Delfzijl", en: "Delfzijl Chemical Park" },
     coords: [6.915, 53.335],
     description: {
@@ -260,7 +260,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-food-valley-wageningen-economic-v2",
     type: "industry",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Food Valley Wageningen", hu: "Food Valley Wageningen", ro: "Food Valley Wageningen", en: "Food Valley Wageningen" },
     coords: [5.665, 51.975],
     description: {
@@ -292,7 +292,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-port-terneuzen-economic-v2",
     type: "port",
-    parent: "NL-ZE",
+    parent: "NL",
     name: { de: "Hafen Terneuzen", hu: "Terneuzen kikötő", ro: "Portul Terneuzen", en: "Port of Terneuzen" },
     coords: [3.845, 51.335],
     description: {
@@ -324,7 +324,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-tu-delft-campus-economic-v2",
     type: "university",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "TU Delft Campus", hu: "TU Delft Campus", ro: "TU Delft Campus", en: "TU Delft Campus" },
     coords: [4.375, 52.005],
     description: {
@@ -356,7 +356,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-twente-science-park-economic-v2",
     type: "industry",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Twente Science Park", hu: "Twente Science Park", ro: "Twente Science Park", en: "Twente Science Park" },
     coords: [6.855, 52.235],
     description: {
@@ -388,7 +388,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-dutch-flower-auction-alsmeer-economic-v2",
     type: "industry",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Blumenversteigerung Aalsmeer", hu: "Aalsmeeri virágtőzsde", ro: "Licitația de flori Aalsmeer", en: "Aalsmeer Flower Auction" },
     coords: [4.775, 52.265],
     description: {
@@ -420,7 +420,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-high-tech-campus-ehv-economic-v2",
     type: "industry",
-    parent: "NL-NB",
+    parent: "NL",
     name: { de: "High Tech Campus Eindhoven", hu: "High Tech Campus Eindhoven", ro: "High Tech Campus Eindhoven", en: "High Tech Campus Eindhoven" },
     coords: [5.465, 51.405],
     description: {
@@ -452,7 +452,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-rotterdam-the-hague-airport-economic-v2",
     type: "port",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Flughafen Rotterdam Den Haag", hu: "Rotterdam-Hága repülőtér", ro: "Aeroportul Rotterdam Haga", en: "Rotterdam The Hague Airport" },
     coords: [4.435, 51.955],
     description: {
@@ -484,7 +484,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-port-harlingen-economic-v2",
     type: "port",
-    parent: "NL-FR",
+    parent: "NL",
     name: { de: "Hafen Harlingen", hu: "Harlingen kikötő", ro: "Portul Harlingen", en: "Port of Harlingen" },
     coords: [5.415, 53.175],
     description: {
@@ -516,7 +516,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-science-park-amsterdam-economic-v2",
     type: "industry",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Science Park Amsterdam", hu: "Science Park Amsterdam", ro: "Science Park Amsterdam", en: "Science Park Amsterdam" },
     coords: [4.955, 52.355],
     description: {
@@ -548,7 +548,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-port-den-helder-economic-v2",
     type: "port",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Hafen Den Helder", hu: "Den Helder kikötő", ro: "Portul Den Helder", en: "Port of Den Helder" },
     coords: [4.755, 52.965],
     description: {
@@ -580,7 +580,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-tu-eindhoven-campus-economic-v2",
     type: "university",
-    parent: "NL-NB",
+    parent: "NL",
     name: { de: "TU Eindhoven Campus", hu: "TU Eindhoven Campus", ro: "TU Eindhoven Campus", en: "TU Eindhoven Campus" },
     coords: [5.495, 51.445],
     description: {
@@ -612,7 +612,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-port-zaandam-economic-v2",
     type: "port",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Hafen Zaandam", hu: "Zaandam kikötő", ro: "Portul Zaandam", en: "Port of Zaandam" },
     coords: [4.825, 52.435],
     description: {
@@ -644,7 +644,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-maastricht-health-campus-economic-v2",
     type: "industry",
-    parent: "NL-LI",
+    parent: "NL",
     name: { de: "Maastricht Health Campus", hu: "Maastricht Health Campus", ro: "Maastricht Health Campus", en: "Maastricht Health Campus" },
     coords: [5.715, 50.835],
     description: {
@@ -676,7 +676,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-port-zwolle-economic-v2",
     type: "port",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Hafen Zwolle", hu: "Zwolle kikötő", ro: "Portul Zwolle", en: "Port of Zwolle" },
     coords: [6.095, 52.505],
     description: {
@@ -708,7 +708,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-chemical-cluster-moerdijk-economic-v2",
     type: "industry",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Chemiecluster Moerdijk", hu: "Moerdijk vegyipari klaszter", ro: "Cluster chimic Moerdijk", en: "Moerdijk Chemical Cluster" },
     coords: [4.615, 51.695],
     description: {
@@ -740,7 +740,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-port-nijmegen-economic-v2",
     type: "port",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Hafen Nijmegen", hu: "Nijmegen kikötő", ro: "Portul Nijmegen", en: "Port of Nijmegen" },
     coords: [5.855, 51.845],
     description: {
@@ -772,7 +772,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-agri-hub-venlo-economic-v2",
     type: "industry",
-    parent: "NL-LI",
+    parent: "NL",
     name: { de: "Logistikzentrum Venlo", hu: "Venlo logisztikai központ", ro: "Centru logistic Venlo", en: "Venlo Logistics Hub" },
     coords: [6.165, 51.375],
     description: {
@@ -804,7 +804,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-port-lelystad-economic-v2",
     type: "port",
-    parent: "NL-FL",
+    parent: "NL",
     name: { de: "Hafen Lelystad", hu: "Lelystad kikötő", ro: "Portul Lelystad", en: "Port of Lelystad" },
     coords: [5.455, 52.515],
     description: {
@@ -836,7 +836,7 @@ export const netherlandsEconomicV2: POI[] = [
   {
     id: "netherlands-campus-university-twente-economic-v2",
     type: "university",
-    parent: "NL-OV",
+    parent: "NL",
     name: { de: "Twente Campus", hu: "Twente Campus", ro: "Twente Campus", en: "Twente Campus" },
     coords: [6.855, 52.245],
     description: {

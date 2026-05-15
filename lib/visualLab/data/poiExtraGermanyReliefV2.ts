@@ -4,7 +4,7 @@ export const germanyReliefV2: POI[] = [
   {
     id: "germany-wimbachgries-relief-v2",
     type: "valley",
-    parent: "DE-BY",
+    parent: "DE",
     name: { de: "Wimbachgries", hu: "Wimbachgries", ro: "Wimbachgries", en: "Wimbachgries" },
     coords: [12.875, 47.575],
     description: {
@@ -36,7 +36,7 @@ export const germanyReliefV2: POI[] = [
   {
     id: "germany-feldberg-schwarzwald-relief-v2",
     type: "mountain",
-    parent: "DE-BW",
+    parent: "DE",
     name: { de: "Feldberg", hu: "Feldberg", ro: "Feldberg", en: "Feldberg" },
     coords: [8.004, 47.876],
     description: {
@@ -68,7 +68,7 @@ export const germanyReliefV2: POI[] = [
   {
     id: "germany-hoher-oddenwald-relief-v2",
     type: "mountain",
-    parent: "DE-BW",
+    parent: "DE",
     name: { de: "Katzenbuckel", hu: "Katzenbuckel", ro: "Katzenbuckel", en: "Katzenbuckel" },
     coords: [9.066, 49.467],
     description: {
@@ -100,7 +100,7 @@ export const germanyReliefV2: POI[] = [
   {
     id: "germany-kahler-asten-relief-v2",
     type: "mountain",
-    parent: "DE-NW",
+    parent: "DE",
     name: { de: "Kahler Asten", hu: "Kahler Asten", ro: "Kahler Asten", en: "Kahler Asten" },
     coords: [8.489, 51.183],
     description: {
@@ -132,7 +132,7 @@ export const germanyReliefV2: POI[] = [
   {
     id: "germany-teutoburger-wald-ridge-relief-v2",
     type: "mountain",
-    parent: "DE-NI",
+    parent: "DE",
     name: { de: "Teutoburger Wald Kamm", hu: "Teutoburgi-erdő gerinc", ro: "Creasta Teutoburger Wald", en: "Teutoburg Forest Ridge" },
     coords: [8.815, 51.921],
     description: {
@@ -164,7 +164,7 @@ export const germanyReliefV2: POI[] = [
   {
     id: "germany-donau-moos-relief-v2",
     type: "park",
-    parent: "DE-BY",
+    parent: "DE",
     name: { de: "Donaumoos", hu: "Donaumoos", ro: "Donaumoos", en: "Donaumoos" },
     coords: [11.233, 48.665],
     description: {
@@ -196,7 +196,7 @@ export const germanyReliefV2: POI[] = [
   {
     id: "germany-haardt-relief-v2",
     type: "mountain",
-    parent: "DE-HE",
+    parent: "DE",
     name: { de: "Haardt", hu: "Haardt", ro: "Haardt", en: "Haardt" },
     coords: [8.083, 49.383],
     description: {
@@ -228,7 +228,7 @@ export const germanyReliefV2: POI[] = [
   {
     id: "germany-hoher-meissner-relief-v2",
     type: "mountain",
-    parent: "DE-NI",
+    parent: "DE",
     name: { de: "Hoher Meißner", hu: "Hoher Meißner", ro: "Hoher Meißner", en: "Hoher Meißner" },
     coords: [9.851, 51.226],
     description: {
@@ -260,7 +260,7 @@ export const germanyReliefV2: POI[] = [
   {
     id: "germany-fichtelgebirge-relief-v2",
     type: "mountain",
-    parent: "DE-TH",
+    parent: "DE",
     name: { de: "Fichtelgebirge", hu: "Fichtel-hegység", ro: "Munții Fichtel", en: "Fichtel Mountains" },
     coords: [11.833, 50.05],
     description: {
@@ -292,7 +292,7 @@ export const germanyReliefV2: POI[] = [
   {
     id: "germany-teutoburger-wald-dorenther-klippen-relief-v2",
     type: "landmark",
-    parent: "DE-NW",
+    parent: "DE",
     name: { de: "Dörenther Klippen", hu: "Dörenther Klippen", ro: "Dörenther Klippen", en: "Dörenther Klippen" },
     coords: [7.742, 52.235],
     description: {
@@ -324,7 +324,7 @@ export const germanyReliefV2: POI[] = [
   {
     id: "germany-schwarzwald-hochstrasse-relief-v2",
     type: "mountain",
-    parent: "DE-BW",
+    parent: "DE",
     name: { de: "Schwarzwaldhochstraße", hu: "Schwarzwaldhochstraße", ro: "Schwarzwaldhochstraße", en: "Black Forest High Road" },
     coords: [8.233, 48.566],
     description: {
@@ -356,7 +356,7 @@ export const germanyReliefV2: POI[] = [
   {
     id: "germany-eifel-vulkaneifel-relief-v2",
     type: "mountain",
-    parent: "DE-RP",
+    parent: "DE",
     name: { de: "Vulkaneifel", hu: "Vulkaneifel", ro: "Vulkaneifel", en: "Vulkaneifel" },
     coords: [6.833, 50.15],
     description: {
@@ -388,7 +388,7 @@ export const germanyReliefV2: POI[] = [
   {
     id: "germany-hoher-westerwald-relief-v2",
     type: "mountain",
-    parent: "DE-HE",
+    parent: "DE",
     name: { de: "Hoher Westerwald", hu: "Hoher Westerwald", ro: "Hoher Westerwald", en: "High Westerwald" },
     coords: [8.083, 50.6],
     description: {

@@ -4,7 +4,7 @@ export const franceNatureV2: POI[] = [
   {
     id: "france-lac-du-salagou-nature-v2",
     type: "lake",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Lac du Salagou", hu: "Salagou-tó", ro: "Lacul Salagou", en: "Lac du Salagou" },
     coords: [3.3333, 43.6333],
     description: {
@@ -36,7 +36,7 @@ export const franceNatureV2: POI[] = [
   {
     id: "france-cirque-de-gavarnie-nature-v2",
     type: "valley",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Cirque de Gavarnie", hu: "Cirque de Gavarnie", ro: "Cirque de Gavarnie", en: "Cirque de Gavarnie" },
     coords: [-0.0039, 42.6961],
     description: {
@@ -68,7 +68,7 @@ export const franceNatureV2: POI[] = [
   {
     id: "france-foret-de-broceliande-nature-v2",
     type: "forest",
-    parent: "FR-BRE",
+    parent: "FR",
     name: { de: "Wald von Paimpont", hu: "Paimpont-erdő", ro: "Pădurea Paimpont", en: "Paimpont Forest" },
     coords: [-2.185, 48.005],
     description: {
@@ -100,7 +100,7 @@ export const franceNatureV2: POI[] = [
   {
     id: "france-col-du-tourmalet-nature-v2",
     type: "mountain",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Col du Tourmalet", hu: "Col du Tourmalet", ro: "Col du Tourmalet", en: "Col du Tourmalet" },
     coords: [0.1453, 42.9064],
     description: {
@@ -132,7 +132,7 @@ export const franceNatureV2: POI[] = [
   {
     id: "france-les-aiguilles-d-arves-nature-v2",
     type: "peak",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Aiguilles d'Arves", hu: "Aiguilles d'Arves", ro: "Aiguilles d'Arves", en: "Aiguilles d'Arves" },
     coords: [6.3, 45.1333],
     description: {
@@ -164,7 +164,7 @@ export const franceNatureV2: POI[] = [
   {
     id: "france-lac-de-sainte-croix-nature-v2",
     type: "lake",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Lac de Sainte-Croix", hu: "Lac de Sainte-Croix", ro: "Lac de Sainte-Croix", en: "Lac de Sainte-Croix" },
     coords: [6.1667, 43.7667],
     description: {
@@ -196,7 +196,7 @@ export const franceNatureV2: POI[] = [
   {
     id: "france-pic-du-midi-d-ossau-nature-v2",
     type: "peak",
-    parent: "FR-NAQ",
+    parent: "FR",
     name: { de: "Pic du Midi d'Ossau", hu: "Pic du Midi d'Ossau", ro: "Pic du Midi d'Ossau", en: "Pic du Midi d'Ossau" },
     coords: [-0.4217, 42.8392],
     description: {
@@ -228,7 +228,7 @@ export const franceNatureV2: POI[] = [
   {
     id: "france-cascade-de-gavarnie-nature-v2",
     type: "landmark",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Grande Cascade de Gavarnie", hu: "Grande Cascade de Gavarnie", ro: "Grande Cascade de Gavarnie", en: "Grande Cascade de Gavarnie" },
     coords: [0.0033, 42.6867],
     description: {
@@ -260,7 +260,7 @@ export const franceNatureV2: POI[] = [
   {
     id: "france-ile-de-brehat-nature-v2",
     type: "island",
-    parent: "FR-BRE",
+    parent: "FR",
     name: { de: "Île de Bréhat", hu: "Île de Bréhat", ro: "Île de Bréhat", en: "Île de Bréhat" },
     coords: [-3.001, 48.847],
     description: {
@@ -292,7 +292,7 @@ export const franceNatureV2: POI[] = [
   {
     id: "france-gorges-de-l-ardeche-nature-v2",
     type: "valley",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Ardèche-Schlucht", hu: "Ardèche-kanyon", ro: "Cheile Ardèche", en: "Ardèche Gorges" },
     coords: [4.4167, 44.3833],
     description: {
@@ -324,7 +324,7 @@ export const franceNatureV2: POI[] = [
   {
     id: "france-plateau-de-valensole-nature-v2",
     type: "park",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Plateau de Valensole", hu: "Valensole-fennsík", ro: "Podișul Valensole", en: "Valensole Plateau" },
     coords: [5.9833, 43.8333],
     description: {
@@ -356,7 +356,7 @@ export const franceNatureV2: POI[] = [
   {
     id: "france-massif-du-vignemale-nature-v2",
     type: "mountain",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Vignemale-Massiv", hu: "Vignemale-hegység", ro: "Masivul Vignemale", en: "Vignemale Massif" },
     coords: [-0.147, 42.775],
     description: {
@@ -388,7 +388,7 @@ export const franceNatureV2: POI[] = [
   {
     id: "france-foret-de-troncais-nature-v2",
     type: "forest",
-    parent: "FR-CVL",
+    parent: "FR",
     name: { de: "Forêt de Tronçais", hu: "Tronçais-erdő", ro: "Pădurea Tronçais", en: "Tronçais Forest" },
     coords: [2.75, 46.6667],
     description: {
@@ -420,7 +420,7 @@ export const franceNatureV2: POI[] = [
   {
     id: "france-mont-aigoual-nature-v2",
     type: "peak",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Mont Aigoual", hu: "Mont Aigoual", ro: "Mont Aigoual", en: "Mont Aigoual" },
     coords: [3.583, 44.125],
     description: {

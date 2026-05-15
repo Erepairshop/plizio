@@ -4,7 +4,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-antibes-cities-v2",
     type: "city",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Antibes", hu: "Antibes", ro: "Antibes", en: "Antibes" },
     coords: [7.1251, 43.5804],
     description: {
@@ -36,7 +36,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-dunkerque-cities-v2",
     type: "city",
-    parent: "FR-HDF",
+    parent: "FR",
     name: { de: "Dünkirchen", hu: "Dunkerque", ro: "Dunkerque", en: "Dunkirk" },
     coords: [2.3768, 51.0343],
     description: {
@@ -68,7 +68,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-ajaccio-cities-v2",
     type: "city",
-    parent: "FR-COR",
+    parent: "FR",
     name: { de: "Ajaccio", hu: "Ajaccio", ro: "Ajaccio", en: "Ajaccio" },
     coords: [8.7369, 41.9267],
     description: {
@@ -101,7 +101,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-limoges-bis-cities-v2",
     type: "city",
-    parent: "FR-NAQ",
+    parent: "FR",
     name: { de: "Limoges-sur-Vienne", hu: "Limoges-sur-Vienne", ro: "Limoges-sur-Vienne", en: "Limoges-sur-Vienne" },
     coords: [1.25, 45.83],
     description: {
@@ -133,7 +133,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-reims-cities-v2",
     type: "city",
-    parent: "FR-HDF",
+    parent: "FR",
     name: { de: "Reims", hu: "Reims", ro: "Reims", en: "Reims" },
     coords: [4.03, 49.26],
     description: {
@@ -165,7 +165,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-nantes-cities-v2",
     type: "city",
-    parent: "FR-PDL",
+    parent: "FR",
     name: { de: "Nantes", hu: "Nantes", ro: "Nantes", en: "Nantes" },
     coords: [-1.55, 47.21],
     description: {
@@ -197,7 +197,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-toulouse-cities-v2",
     type: "city",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Toulouse", hu: "Toulouse", ro: "Toulouse", en: "Toulouse" },
     coords: [1.44, 43.6],
     description: {
@@ -229,7 +229,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-nice-cities-v2",
     type: "city",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Nizza", hu: "Nizza", ro: "Nisa", en: "Nice" },
     coords: [7.26, 43.71],
     description: {
@@ -261,7 +261,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-lyon-cities-v2",
     type: "city",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Lyon", hu: "Lyon", ro: "Lyon", en: "Lyon" },
     coords: [4.83, 45.76],
     description: {
@@ -293,7 +293,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-marseille-cities-v2",
     type: "city",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Marseille", hu: "Marseille", ro: "Marsilia", en: "Marseille" },
     coords: [5.36, 43.29],
     description: {
@@ -325,7 +325,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-paris-cities-v2",
     type: "capital",
-    parent: "FR-IDF",
+    parent: "FR",
     name: { de: "Paris", hu: "Párizs", ro: "Paris", en: "Paris" },
     coords: [2.35, 48.85],
     description: {
@@ -357,7 +357,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-lille-cities-v2",
     type: "city",
-    parent: "FR-HDF",
+    parent: "FR",
     name: { de: "Lille", hu: "Lille", ro: "Lille", en: "Lille" },
     coords: [3.06, 50.63],
     description: {
@@ -389,7 +389,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-dijon-bis-cities-v2",
     type: "city",
-    parent: "FR-BFC",
+    parent: "FR",
     name: { de: "Dijon-Centre", hu: "Dijon-Centre", ro: "Dijon-Centre", en: "Dijon-Centre" },
     coords: [5.03, 47.32],
     description: {
@@ -421,7 +421,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-besancon-bis-cities-v2",
     type: "city",
-    parent: "FR-BFC",
+    parent: "FR",
     name: { de: "Besançon-Nord", hu: "Besançon-Nord", ro: "Besançon-Nord", en: "Besançon-Nord" },
     coords: [6.02, 47.25],
     description: {
@@ -453,7 +453,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-rouen-bis-cities-v2",
     type: "city",
-    parent: "FR-NOR",
+    parent: "FR",
     name: { de: "Rouen-Rive-Gauche", hu: "Rouen-Rive-Gauche", ro: "Rouen-Rive-Gauche", en: "Rouen-Rive-Gauche" },
     coords: [1.08, 49.43],
     description: {
@@ -485,7 +485,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-metz-bis-cities-v2",
     type: "city",
-    parent: "FR-GES",
+    parent: "FR",
     name: { de: "Metz-Centre", hu: "Metz-Centre", ro: "Metz-Centre", en: "Metz-Centre" },
     coords: [6.17, 49.11],
     description: {
@@ -517,7 +517,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-reims-bis-cities-v2",
     type: "city",
-    parent: "FR-HDF",
+    parent: "FR",
     name: { de: "Reims-Centre", hu: "Reims-Centre", ro: "Reims-Centre", en: "Reims-Centre" },
     coords: [4.03, 49.25],
     description: {
@@ -549,7 +549,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-amiens-bis-cities-v2",
     type: "city",
-    parent: "FR-HDF",
+    parent: "FR",
     name: { de: "Amiens-Nord", hu: "Amiens-Nord", ro: "Amiens-Nord", en: "Amiens-Nord" },
     coords: [2.3, 49.91],
     description: {
@@ -581,7 +581,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-caen-bis-cities-v2",
     type: "city",
-    parent: "FR-NOR",
+    parent: "FR",
     name: { de: "Caen-Centre", hu: "Caen-Centre", ro: "Caen-Centre", en: "Caen-Centre" },
     coords: [-0.36, 49.18],
     description: {
@@ -613,7 +613,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-angers-bis-cities-v2",
     type: "city",
-    parent: "FR-PDL",
+    parent: "FR",
     name: { de: "Angers-Centre", hu: "Angers-Centre", ro: "Angers-Centre", en: "Angers-Centre" },
     coords: [-0.56, 47.47],
     description: {
@@ -645,7 +645,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-nancy-bis-cities-v2",
     type: "city",
-    parent: "FR-GES",
+    parent: "FR",
     name: { de: "Nancy-Nord", hu: "Nancy-Nord", ro: "Nancy-Nord", en: "Nancy-Nord" },
     coords: [6.18, 48.7],
     description: {
@@ -677,7 +677,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-toulouse-bis-cities-v2",
     type: "city",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Toulouse-Centre", hu: "Toulouse-Centre", ro: "Toulouse-Centre", en: "Toulouse-Centre" },
     coords: [1.45, 43.6],
     description: {
@@ -709,7 +709,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-bordeaux-bis-cities-v2",
     type: "city",
-    parent: "FR-NAQ",
+    parent: "FR",
     name: { de: "Bordeaux-Sud", hu: "Bordeaux-Sud", ro: "Bordeaux-Sud", en: "Bordeaux-Sud" },
     coords: [-0.57, 44.81],
     description: {
@@ -741,7 +741,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-nice-bis-cities-v2",
     type: "city",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Nizza-Nord", hu: "Nizza-Nord", ro: "Nisa-Nord", en: "Nice-Nord" },
     coords: [7.26, 43.73],
     description: {
@@ -773,7 +773,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-lyon-bis-cities-v2",
     type: "city",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Lyon-Nord", hu: "Lyon-Nord", ro: "Lyon-Nord", en: "Lyon-Nord" },
     coords: [4.83, 45.78],
     description: {
@@ -805,7 +805,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-marseille-bis-cities-v2",
     type: "city",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Marseille-Nord", hu: "Marseille-Nord", ro: "Marsilia-Nord", en: "Marseille-Nord" },
     coords: [5.36, 43.33],
     description: {
@@ -837,7 +837,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-paris-bis-cities-v2",
     type: "city",
-    parent: "FR-IDF",
+    parent: "FR",
     name: { de: "Paris-Nord", hu: "Párizs-Nord", ro: "Paris-Nord", en: "Paris-Nord" },
     coords: [2.36, 48.88],
     description: {
@@ -869,7 +869,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-lille-bis-cities-v2",
     type: "city",
-    parent: "FR-HDF",
+    parent: "FR",
     name: { de: "Lille-Nord", hu: "Lille-Nord", ro: "Lille-Nord", en: "Lille-Nord" },
     coords: [3.06, 50.65],
     description: {
@@ -901,7 +901,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-grenoble-bis-cities-v2",
     type: "city",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Grenoble-Sud", hu: "Grenoble-Sud", ro: "Grenoble-Sud", en: "Grenoble-Sud" },
     coords: [5.72, 45.16],
     description: {
@@ -933,7 +933,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-nantes-bis-cities-v2",
     type: "city",
-    parent: "FR-PDL",
+    parent: "FR",
     name: { de: "Nantes-Nord", hu: "Nantes-Nord", ro: "Nantes-Nord", en: "Nantes-Nord" },
     coords: [-1.55, 47.25],
     description: {
@@ -965,7 +965,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-perpignan-bis-cities-v2",
     type: "city",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Perpignan-Nord", hu: "Perpignan-Nord", ro: "Perpignan-Nord", en: "Perpignan-Nord" },
     coords: [2.89, 42.71],
     description: {
@@ -997,7 +997,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-valence-bis-cities-v2",
     type: "city",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Valence-Nord", hu: "Valence-Nord", ro: "Valence-Nord", en: "Valence-Nord" },
     coords: [4.89, 44.95],
     description: {
@@ -1029,7 +1029,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-chambery-bis-cities-v2",
     type: "city",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Chambéry-Nord", hu: "Chambéry-Nord", ro: "Chambéry-Nord", en: "Chambéry-Nord" },
     coords: [5.92, 45.58],
     description: {
@@ -1061,7 +1061,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-mulhouse-bis-cities-v2",
     type: "city",
-    parent: "FR-GES",
+    parent: "FR",
     name: { de: "Mulhouse-Centre", hu: "Mulhouse-Centre", ro: "Mulhouse-Centre", en: "Mulhouse-Centre" },
     coords: [7.33, 47.74],
     description: {
@@ -1093,7 +1093,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-besancon-south-cities-v2",
     type: "city",
-    parent: "FR-BFC",
+    parent: "FR",
     name: { de: "Besançon-Sud", hu: "Besançon-Sud", ro: "Besançon-Sud", en: "Besançon-Sud" },
     coords: [6.02, 47.21],
     description: {
@@ -1125,7 +1125,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-poitiers-bis-cities-v2",
     type: "city",
-    parent: "FR-PDL",
+    parent: "FR",
     name: { de: "Poitiers-Nord", hu: "Poitiers-Nord", ro: "Poitiers-Nord", en: "Poitiers-Nord" },
     coords: [0.34, 46.6],
     description: {
@@ -1157,7 +1157,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-nimes-bis-cities-v2",
     type: "city",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Nîmes-Sud", hu: "Nîmes-Sud", ro: "Nîmes-Sud", en: "Nîmes-Sud" },
     coords: [4.36, 43.8],
     description: {
@@ -1189,7 +1189,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-brest-bis-cities-v2",
     type: "city",
-    parent: "FR-BRE",
+    parent: "FR",
     name: { de: "Brest-Centre", hu: "Brest-Centre", ro: "Brest-Centre", en: "Brest-Centre" },
     coords: [-4.49, 48.39],
     description: {
@@ -1221,7 +1221,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-avignon-bis-cities-v2",
     type: "city",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Avignon-Nord", hu: "Avignon-Nord", ro: "Avignon-Nord", en: "Avignon-Nord" },
     coords: [4.8, 43.96],
     description: {
@@ -1253,7 +1253,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-clermont-bis-cities-v2",
     type: "city",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Clermont-Ferrand-Nord", hu: "Clermont-Ferrand-Nord", ro: "Clermont-Ferrand-Nord", en: "Clermont-Ferrand-Nord" },
     coords: [3.08, 45.79],
     description: {
@@ -1285,7 +1285,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-tours-bis-cities-v2",
     type: "city",
-    parent: "FR-CVL",
+    parent: "FR",
     name: { de: "Tours-Nord", hu: "Tours-Nord", ro: "Tours-Nord", en: "Tours-Nord" },
     coords: [0.68, 47.41],
     description: {
@@ -1317,7 +1317,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-nancy-south-cities-v2",
     type: "city",
-    parent: "FR-GES",
+    parent: "FR",
     name: { de: "Nancy-Sud", hu: "Nancy-Sud", ro: "Nancy-Sud", en: "Nancy-Sud" },
     coords: [6.18, 48.67],
     description: {
@@ -1349,7 +1349,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-toulouse-south-cities-v2",
     type: "city",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Toulouse-Sud", hu: "Toulouse-Sud", ro: "Toulouse-Sud", en: "Toulouse-Sud" },
     coords: [1.44, 43.58],
     description: {
@@ -1381,7 +1381,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-nice-south-cities-v2",
     type: "city",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Nizza-Sud", hu: "Nizza-Sud", ro: "Nisa-Sud", en: "Nice-Sud" },
     coords: [7.26, 43.69],
     description: {
@@ -1413,7 +1413,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-lyon-south-cities-v2",
     type: "city",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Lyon-Sud", hu: "Lyon-Sud", ro: "Lyon-Sud", en: "Lyon-Sud" },
     coords: [4.83, 45.74],
     description: {
@@ -1445,7 +1445,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-marseille-south-cities-v2",
     type: "city",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Marseille-Sud", hu: "Marseille-Sud", ro: "Marsilia-Sud", en: "Marseille-Sud" },
     coords: [5.36, 43.26],
     description: {
@@ -1477,7 +1477,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-paris-south-cities-v2",
     type: "city",
-    parent: "FR-IDF",
+    parent: "FR",
     name: { de: "Paris-Sud", hu: "Párizs-Sud", ro: "Paris-Sud", en: "Paris-Sud" },
     coords: [2.36, 48.82],
     description: {
@@ -1509,7 +1509,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-lille-south-cities-v2",
     type: "city",
-    parent: "FR-HDF",
+    parent: "FR",
     name: { de: "Lille-Sud", hu: "Lille-Sud", ro: "Lille-Sud", en: "Lille-Sud" },
     coords: [3.06, 50.61],
     description: {
@@ -1541,7 +1541,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-grenoble-north-cities-v2",
     type: "city",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Grenoble-Nord", hu: "Grenoble-Nord", ro: "Grenoble-Nord", en: "Grenoble-Nord" },
     coords: [5.72, 45.2],
     description: {
@@ -1573,7 +1573,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-nantes-south-cities-v2",
     type: "city",
-    parent: "FR-PDL",
+    parent: "FR",
     name: { de: "Nantes-Sud", hu: "Nantes-Sud", ro: "Nantes-Sud", en: "Nantes-Sud" },
     coords: [-1.55, 47.19],
     description: {
@@ -1605,7 +1605,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-perpignan-south-cities-v2",
     type: "city",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Perpignan-Sud", hu: "Perpignan-Sud", ro: "Perpignan-Sud", en: "Perpignan-Sud" },
     coords: [2.89, 42.67],
     description: {
@@ -1637,7 +1637,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-valence-south-cities-v2",
     type: "city",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Valence-Sud", hu: "Valence-Sud", ro: "Valence-Sud", en: "Valence-Sud" },
     coords: [4.89, 44.91],
     description: {
@@ -1669,7 +1669,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-chambery-south-cities-v2",
     type: "city",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Chambéry-Sud", hu: "Chambéry-Sud", ro: "Chambéry-Sud", en: "Chambéry-Sud" },
     coords: [5.92, 45.54],
     description: {
@@ -1701,7 +1701,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-mulhouse-south-cities-v2",
     type: "city",
-    parent: "FR-GES",
+    parent: "FR",
     name: { de: "Mulhouse-Sud", hu: "Mulhouse-Sud", ro: "Mulhouse-Sud", en: "Mulhouse-Sud" },
     coords: [7.33, 47.72],
     description: {
@@ -1733,7 +1733,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-besancon-west-cities-v2",
     type: "city",
-    parent: "FR-BFC",
+    parent: "FR",
     name: { de: "Besançon-Ouest", hu: "Besançon-Ouest", ro: "Besançon-Ouest", en: "Besançon-Ouest" },
     coords: [6.0, 47.23],
     description: {
@@ -1765,7 +1765,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-poitiers-south-cities-v2",
     type: "city",
-    parent: "FR-PDL",
+    parent: "FR",
     name: { de: "Poitiers-Sud", hu: "Poitiers-Sud", ro: "Poitiers-Sud", en: "Poitiers-Sud" },
     coords: [0.34, 46.56],
     description: {
@@ -1797,7 +1797,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-nimes-north-cities-v2",
     type: "city",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Nîmes-Nord", hu: "Nîmes-Nord", ro: "Nîmes-Nord", en: "Nîmes-Nord" },
     coords: [4.36, 43.85],
     description: {
@@ -1829,7 +1829,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-brest-north-cities-v2",
     type: "city",
-    parent: "FR-BRE",
+    parent: "FR",
     name: { de: "Brest-Nord", hu: "Brest-Nord", ro: "Brest-Nord", en: "Brest-Nord" },
     coords: [-4.48, 48.41],
     description: {
@@ -1861,7 +1861,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-avignon-south-cities-v2",
     type: "city",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Avignon-Sud", hu: "Avignon-Sud", ro: "Avignon-Sud", en: "Avignon-Sud" },
     coords: [4.8, 43.92],
     description: {
@@ -1893,7 +1893,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-clermont-south-cities-v2",
     type: "city",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Clermont-Ferrand-Sud", hu: "Clermont-Ferrand-Sud", ro: "Clermont-Ferrand-Sud", en: "Clermont-Ferrand-Sud" },
     coords: [3.08, 45.75],
     description: {
@@ -1925,7 +1925,7 @@ export const franceCitiesV2: POI[] = [
   {
     id: "france-tours-south-cities-v2",
     type: "city",
-    parent: "FR-CVL",
+    parent: "FR",
     name: { de: "Tours-Sud", hu: "Tours-Sud", ro: "Tours-Sud", en: "Tours-Sud" },
     coords: [0.68, 47.37],
     description: {

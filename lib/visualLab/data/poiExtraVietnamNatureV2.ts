@@ -715,5 +715,25 @@ export const poiExtraVietnamNatureV2: POI[] = [
       en: ["A UNESCO Biosphere Reserve on the outskirts of Ho Chi Minh City. It is a vast wetland that was destroyed during the war and later reforested.", "Located within the Socialist Republic of Vietnam.", "Plays a role in the local identity of the region."],
     }
   }
+,
+  {
+    id: "vietnam-cham-islands-nature-v2",
+    type: "island",
+    name: { de: "Cham-Inseln", hu: "Cham-szigetek", ro: "Insulele Cham", en: "Cham Islands" },
+    coords: [108.51, 15.93],
+    description: {
+      de: "Die Cham-Inseln liegen vor Hoi An im Südchinesischen Meer. Das Gebiet ist seit 2009 ein UNESCO-Biosphärenreservat mit Korallenriffen.",
+      hu: "A Cham-szigetek Hoi An partjainál fekszenek a Dél-kínai-tengeren. A terület 2009 óta UNESCO bioszféra-rezervátum és korallokban gazdag.",
+      ro: "Insulele Cham sunt situate lângă Hoi An, în Marea Chinei de Sud. Zona este rezervație a biosferei UNESCO din 2009.",
+      en: "The Cham Islands are located off Hoi An in the South China Sea. The area has been a UNESCO Biosphere Reserve since 2009.",
+    },
+    facts: {
+      de: ["Archipel aus 8 kleinen Inseln", "Gesamtfläche von 15 Quadratkilometern", "UNESCO-Biosphärenreservat seit 2009", "Heimat von 135 verschiedenen Korallenarten"],
+      hu: ["8 kis szigetből álló szigetcsoport", "Teljes területe 15 négyzetkilométer", "2009 óta UNESCO bioszféra-rezervátum", "135 különböző korallfaj otthona"],
+      ro: ["Arhipelag format din 8 insule mici", "Suprafață totală de 15 kilometri pătrați", "Rezervație a biosferei UNESCO din 2009", "Adăpostește 135 de specii de corali"],
+      en: ["Archipelago of 8 small islands", "Total area of 15 square kilometers", "UNESCO Biosphere Reserve since 2009", "Home to 135 different species of coral"],
+    },
+    imageHint: "Hon Lao island beach and turquoise water in Cham Islands Vietnam",
+  }
 ];
 

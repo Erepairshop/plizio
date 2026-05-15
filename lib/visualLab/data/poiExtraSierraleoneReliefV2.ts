@@ -1041,4 +1041,24 @@ export const poiExtraSierraleoneReliefV2: POI[] = [
       en: ["Elevation: 350-500 m", "Area: 200 km²", "Annual rainfall: 2,200 mm", "Bird species: over 250", "Groundnut production: 3,000 t per year", "Population density: 10 inhabitants/km²"],
     },
   }
+,
+  {
+    id: "sierraleone-konkori-escarpment-relief-v2",
+    type: "mountain",
+    name: { de: "Konkori-Steilhang", hu: "Konkori-lejtő", ro: "Ecarpamentul Konkori", en: "Konkori Escarpment" },
+    coords: [-11.95, 9.42],
+    description: {
+      de: "Der Konkori-Steilhang markiert eine markante topographische Stufe in der Nordprovinz von Sierra Leone. Er bildet die Grenze zwischen den östlichen Hochlandgebieten und dem tiefer gelegenen Gelände.",
+      hu: "A Konkori-lejtő egy markáns domborzati lépcső Sierra Leone északi tartományában. Határt képez a keleti felföldi régiók és az alacsonyabban fekvő területek között.",
+      ro: "Escarpamentul Konkori marchează o treaptă topografică distinctă în provincia de nord a Sierra Leone. Acesta formează limita dintre zonele muntoase din est și terenul situat la altitudini mai joase.",
+      en: "The Konkori Escarpment marks a distinct topographic step in the Northern Province of Sierra Leone. It forms the boundary between the eastern highland regions and lower-lying terrain.",
+    },
+    facts: {
+      de: ["Gelegen in der Nordprovinz", "Topographische Trennlinie", "Nördliches Hochlandgebiet", "Wichtige geologische Formation"],
+      hu: ["Az északi tartományban található", "Domborzati választóvonal", "Északi felföldi régió", "Jelentős geológiai képződmény"],
+      ro: ["Situat în provincia de nord", "Linie de demarcație topografică", "Regiunea muntoasă nordică", "Formațiune geologică importantă"],
+      en: ["Located in the Northern Province", "Topographic dividing line", "Northern highland region", "Significant geological formation"],
+    },
+    imageHint: "rugged african escarpment landscape",
+  }
 ];

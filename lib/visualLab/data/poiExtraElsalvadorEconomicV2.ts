@@ -839,5 +839,37 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
       en: ["Part of a Ramsar-designated wetland of international importance.", "Hosts one of the most critical and successful sea turtle conservation programs in the country.", "The surrounding waters are a favorite destination for birdwatchers and kayaking enthusiasts.", "Local fishermen use specialized techniques adapted to the unique mangrove environment."]
     }
   }
+,
+  {
+    id: "elsalvador-ciudad-arce-industrial-economic-v2",
+    type: "industry",
+    name: { de: "Ciudad Arce Industriegebiet", hu: "Ciudad Arce ipari övezet", ro: "Zona industrială Ciudad Arce", en: "Ciudad Arce Industrial Zone" },
+    coords: [-89.4312, 13.8045],
+    description: {
+      de: "Ciudad Arce ist ein bedeutendes Zentrum für die Leichtindustrie und Textilherstellung in El Salvador. Die Region beherbergt zahlreiche Produktionsstätten für den Export in den US-amerikanischen Markt.",
+      hu: "Ciudad Arce El Salvador egyik jelentős könnyűipari és textilgyártó központja. A térség számos termelőüzemnek ad otthont, amelyek az amerikai piacra exportálnak.",
+      ro: "Ciudad Arce este un centru important pentru industria ușoară și producția textilă din El Salvador. Regiunea găzduiește numeroase facilități de producție destinate exportului pe piața americană.",
+      en: "Ciudad Arce is a significant center for light industry and textile manufacturing in El Salvador. The region hosts numerous production facilities serving export markets, particularly the United States.",
+    },
+    facts: {
+      de: ["Gelegen im Departamento La Libertad.", "Wichtiger Standort für Freihandelszonen.", "Fokus auf Textilien und Verpackung.", "Strategische Nähe zur Autobahn CA-1."],
+      hu: ["La Libertad megyében található.", "Fontos szabadkereskedelmi övezet.", "Textil- és csomagolóipar jellemzi.", "Stratégiai közelség a CA-1 autópályához."],
+      ro: ["Situat în departamentul La Libertad.", "Locație importantă pentru zonele libere.", "Focus pe textile și ambalaje.", "Proximitate strategică față de autostrada CA-1."],
+      en: ["Located in the La Libertad department.", "Major site for free trade zones.", "Focuses on textiles and packaging.", "Strategically near the CA-1 highway."],
+    },
+    imageHint: "industrial warehouses and factories in El Salvador landscape",
+    descriptionAdvanced: {
+      de: "Die Ciudad Arce Industriezone liegt im Departement La Libertad in El Salvador und ist ein bedeutendes industrielles Zentrum. Sie wurde in den 1990er Jahren entwickelt, um ausländische Investitionen anzuziehen. Die Zone beherbergt Fabriken der Textil-, Elektronik- und Lebensmittelverarbeitungsindustrie. Sie bietet Steueranreize und moderne Infrastruktur. Die Zone beschäftigt Tausende von Arbeitern und trägt wesentlich zur Wirtschaft des Landes bei. Sie ist Teil einer größeren Strategie zur Diversifizierung der salvadorianischen Wirtschaft weg von der Landwirtschaft.",
+      hu: "Ciudad Arce ipari övezete La Libertad megyében található, Salvador egyik fontos ipari központja. Az 1990-es években hozták létre a külföldi befektetések ösztönzésére. Az övezetben textil-, elektronikai és élelmiszer-feldolgozó üzemek működnek. Adókedvezményeket és modern infrastruktúrát kínál. Több ezer munkást foglalkoztat, és jelentős mértékben hozzájárul az ország gazdaságához. A kormány ipari diverzifikációs stratégiájának része.",
+      ro: "Zona industrială Ciudad Arce, situată în departamentul La Libertad, El Salvador, este un hub economic dezvoltat în anii 1990 pentru a atrage investiții străine. Găzduiește fabrici de textile, electronice și procesare alimentară. Oferă stimulente fiscale și infrastructură modernă. Angajează mii de muncitori și contribuie semnificativ la PIB-ul țării. Face parte din strategia de diversificare economică a El Salvadorului, reducând dependența de agricultură.",
+      en: "Ciudad Arce Industrial Zone in La Libertad Department, El Salvador, was established in the 1990s to promote foreign investment. It hosts manufacturing plants for textiles, electronics, and food processing. The zone offers tax incentives and modern infrastructure, employing thousands of workers. It has become a key economic driver, contributing to the country's GDP and export revenues. The zone is part of El Salvador's efforts to diversify its economy beyond agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1990er Jahre", "Fläche: ca. 100 Hektar", "Anzahl der Fabriken: über 50", "Beschäftigte: rund 15.000", "Steuervergünstigungen: 10-jährige Befreiung", "Exportwert: über 500 Mio. USD jährlich"],
+      hu: ["Alapítás: 1990-es évek", "Terület: kb. 100 hektár", "Gyárak száma: több mint 50", "Foglalkoztatottak: kb. 15 000", "Adókedvezmény: 10 éves mentesség", "Exportérték: évi 500 millió USD felett"],
+      ro: ["Înființare: anii 1990", "Suprafață: cca 100 ha", "Număr de fabrici: peste 50", "Angajați: aproximativ 15.000", "Scutiri fiscale: 10 ani", "Valoare export: peste 500 milioane USD anual"],
+      en: ["Established: 1990s", "Area: about 100 hectares", "Number of factories: over 50", "Employees: around 15,000", "Tax incentives: 10-year exemption", "Export value: over $500 million annually"],
+    },
+  }
 ];
 

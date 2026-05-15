@@ -1172,7 +1172,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Saint-Jean-sur-Richelieu a Richelieu folyó mentén fekszik Montrealtól délre, Québec tartomány Montérégie régiójában. Mintegy 100 000 lakosával a város a felső Richelieu-völgy gazdasági központja. 2001-ben jött létre öt település egyesüléséből, köztük a történelmi Iberville-ből. Saint-Jean a rangos Royal Military College Saint-Jean otthona, ahol a Kanadai Fegyveres Erők kétnyelvű tisztképzése zajlik. Nemzetközi hírnevét a Festival International de Montgolfières fesztiválnak köszönheti, amely Észak-Amerika egyik legnagyobb hőlégballon-eseménye. Gazdaságát a mezőgazdaság, a katonai képzés és a logisztika határozza meg. Földrajz K7 — történelmi folyóparti városok és katonai történelem.",
       ro: "Saint-Jean-sur-Richelieu se află pe râul Richelieu, la sud de Montreal, în regiunea Montérégie a provinciei Québec. Cu aproximativ 100.000 de locuitori, orașul este centrul economic al văii superioare a Richelieu. A luat naștere în 2001 prin fuziunea a cinci localități, inclusiv istorica Iberville. Saint-Jean găzduiește prestigiosul Royal Military College Saint-Jean, instituția bilingvă de formare a ofițerilor Forțelor Armate Canadiene. Faima internațională se datorează Festivalului Internațional de Montgolfières, unul dintre cele mai mari evenimente aerostatice din America de Nord. Economic, agricultura, educația militară și logistica sunt dominante. Geografie K7 — orașe istorice de pe râuri și istorie militară.",
       en: "Saint-Jean-sur-Richelieu lies along the Richelieu River south of Montreal in the Montérégie region of Québec. With around 100,000 residents, the city is the economic heart of the upper Richelieu Valley. It was created in 2001 through the merger of five municipalities, including the historic town of Iberville. Saint-Jean is home to the renowned Royal Military College Saint-Jean, the bilingual officer-training institution of the Canadian Armed Forces. International recognition comes from the annual Festival International de Montgolfières, one of North America's largest hot-air balloon gatherings. The economy is dominated by agriculture, military training, and logistics. Geography K7 — historic river towns and military history."
-    }, image: "/poi-images/saint-jean-sur-richelieu-cities-v2.webp"},
+    }, image: "/poi-images/saint-jean-sur-richelieu-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet 1665.", "Bevölkerung: ca. 96.000 (2021).", "Fläche: 225 km².", "Jährliches Heißluftballon-Festival.", "Royal Military College Saint-Jean.", "Autoroute 35 verbindet mit Montreal."],
+      hu: ["Alapítás: 1665.", "Népesség: kb. 96 000 (2021).", "Terület: 225 km².", "Éves hőlégballon-fesztivál.", "Royal Military College Saint-Jean.", "Autoroute 35 összeköti Montreallal."],
+      ro: ["Fondat în 1665.", "Populație: aprox. 96.000 (2021).", "Suprafață: 225 km².", "Festivalul anual al baloanelor cu aer cald.", "Colegiul Militar Regal Saint-Jean.", "Autostrada 35 leagă de Montreal."],
+      en: ["Founded in 1665.", "Population: approx. 96,000 (2021).", "Area: 225 km².", "Annual hot air balloon festival.", "Royal Military College Saint-Jean.", "Autoroute 35 connects to Montreal."],
+    },
+  },
   {
     id: "blainville-cities-v2",
     type: "city",
@@ -1192,7 +1199,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Blainville Montrealtól északra fekszik Québec tartomány Laurentides régiójában, és mintegy 60 000 lakosával a montreali agglomeráció egyik legtehetősebb elővárosa. A települést 1796-ban alapították, és Jean-Baptiste Céloron de Blainville francia tengerésztisztről nevezték el. Magas egy főre jutó jövedelméről, kiváló iskoláiról és családbarát környezetéről ismert. Különlegessége a Centre équestre de Blainville, Québec egyik legnagyobb lovassportközpontja, valamint számos golfpálya. Gazdaságilag Blainville profitál az A-15-ös autópályából és az exo elővárosi vonathálózat közvetlen montreali összeköttetéséből. Földrajz K7 — jómódú elővárosok és lovassport.",
       ro: "Blainville se află la nord de Montreal, în regiunea Laurentides a provinciei Québec, și, cu aproximativ 60.000 de locuitori, este una dintre cele mai prospere suburbii ale zonei metropolitane Montreal. Localitatea a fost fondată în 1796 și numită după ofițerul de marină francez Jean-Baptiste Céloron de Blainville. Se distinge printr-un venit ridicat pe cap de locuitor, școli excelente și un mediu prietenos pentru familii. Remarcabil este Centre équestre de Blainville, unul dintre cele mai mari centre ecvestre din Québec, alături de numeroase terenuri de golf. Economic, Blainville profită de autostrada A-15 și de legătura directă cu Montreal prin rețeaua de trenuri de navetă exo. Geografie K7 — suburbii prospere și sport ecvestru.",
       en: "Blainville lies north of Montreal in the Laurentides region of Québec and, with around 60,000 residents, is one of the wealthiest suburbs in Greater Montreal. The town was founded in 1796 and named after French naval officer Jean-Baptiste Céloron de Blainville. It is known for high per capita income, excellent schools, and a family-friendly environment. Notable features include the Centre équestre de Blainville, one of the largest equestrian centers in Québec, along with numerous golf courses. Economically, Blainville benefits from Highway A-15 and direct rail connections to Montreal via the exo commuter network. Geography K7 — affluent suburbs and equestrian sport."
-    }, image: "/poi-images/blainville-cities-v2.webp"},
+    }, image: "/poi-images/blainville-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet 1840.", "Bevölkerung: ca. 60.000 (2021).", "Fläche: 55 km².", "Vorort von Montreal.", "Viele Parks und Freiflächen.", "Wirtschaft: Dienstleistungen."],
+      hu: ["Alapítás: 1840.", "Népesség: kb. 60 000 (2021).", "Terület: 55 km².", "Montreal elővárosa.", "Sok park és zöldterület.", "Gazdaság: szolgáltatások."],
+      ro: ["Fondat în 1840.", "Populație: aprox. 60.000 (2021).", "Suprafață: 55 km².", "Suburbie a Montrealului.", "Multe parcuri și spații verzi.", "Economie bazată pe servicii."],
+      en: ["Founded in 1840.", "Population: approx. 60,000 (2021).", "Area: 55 km².", "Suburb of Montreal.", "Numerous parks and green spaces.", "Service-based economy."],
+    },
+  },
   {
     id: "drummondville-cities-v2",
     type: "city",
@@ -1212,7 +1226,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Drummondville a Saint-François folyó mentén fekszik Montreal és Québec City között, a Centre-du-Québec régióban. Mintegy 80 000 lakosával egy termékeny mezőgazdasági és iparterület gazdasági központja. A várost 1815-ben Frederick George Heriot skót tiszt alapította, aki az 1812-es háború veteránjait telepítette ide. Drummondville híres a Mondial des Cultures nemzetközi folklórfesztiválról, valamint a Village Québécois d'Antan szabadtéri múzeumról, amely a 19. század életét eleveníti meg. Gazdaságát a textilipar, az élelmiszer-feldolgozás és a gépgyártás dominálja. Földrajz K7 — történelmi iparvárosok és folklór.",
       ro: "Drummondville se află pe râul Saint-François, între Montreal și Québec City, în regiunea Centre-du-Québec. Cu aproximativ 80.000 de locuitori, este centrul economic al unei zone agricole și industriale fertile. Orașul a fost fondat în 1815 de ofițerul scoțian Frederick George Heriot, care a stabilit aici veterani ai războiului din 1812. Drummondville este renumit pentru Mondial des Cultures, festival internațional de folclor, și pentru Village Québécois d'Antan, un muzeu în aer liber care recreează viața secolului al XIX-lea. Economic, dominante sunt industria textilă, procesarea alimentelor și construcția de mașini. Geografie K7 — orașe industriale istorice și folclor.",
       en: "Drummondville sits on the Saint-François River between Montreal and Québec City in the Centre-du-Québec region. With around 80,000 residents, it is the economic heart of a fertile agricultural and industrial area. The town was founded in 1815 by Scottish officer Frederick George Heriot, who settled veterans of the War of 1812 here. Drummondville is famous for the Mondial des Cultures international folklore festival and the Village Québécois d'Antan, an open-air museum recreating life in the 19th century. The economy is led by textiles, food processing, and machinery. Geography K7 — historic industrial cities and folklore."
-    }, image: "/poi-images/drummondville-cities-v2.webp"},
+    }, image: "/poi-images/drummondville-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet 1815.", "Bevölkerung: ca. 80.000 (2021).", "Fläche: 260 km².", "Jährliches Ahornzucker-Festival.", "Starke Fertigungsindustrie.", "Liegt am Saint-François-Fluss."],
+      hu: ["Alapítás: 1815.", "Népesség: kb. 80 000 (2021).", "Terület: 260 km².", "Éves juharszirup-fesztivál.", "Feldolgozóipar.", "A Saint-François folyó partján."],
+      ro: ["Fondat în 1815.", "Populație: aprox. 80.000 (2021).", "Suprafață: 260 km².", "Festival anual de sirop de arțar.", "Industrie manufacturieră puternică.", "Situat pe râul Saint-François."],
+      en: ["Founded in 1815.", "Population: approx. 80,000 (2021).", "Area: 260 km².", "Annual maple syrup festival.", "Strong manufacturing sector.", "Located on the Saint-François River."],
+    },
+  },
   {
     id: "saint-hyacinthe-cities-v2",
     type: "city",
@@ -1232,7 +1253,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Saint-Hyacinthe a Yamaska folyó mentén fekszik a Montérégie régióban, körülbelül 60 kilométerre keletre Montrealtól. Mintegy 60 000 lakosával 'Kanada agrárfővárosaként' ismert, és otthont ad a Montreali Egyetem mezőgazdasági karának, valamint az Institut de technologie agroalimentaire képzőintézetnek. A város az élelmiszer-kutatás, a biofeldolgozás és az állatorvostudomány központi helyszíne. Itt található a Cité de la biotechnologie agroalimentaire, vétérinaire et agroenvironnementale kutatási és ipari park is. Saint-Hyacinthe Calixa Lavallée szülőhelye, aki a kanadai himnuszt, az 'O Canada'-t komponálta. Földrajz K7 — agrárkutatás és élelmiszeripar.",
       ro: "Saint-Hyacinthe se află pe râul Yamaska, în regiunea Montérégie, la aproximativ 60 de kilometri est de Montreal. Cu aproximativ 60.000 de locuitori, este cunoscut drept 'capitala agricolă a Canadei' și găzduiește facultatea de agricultură a Universității din Montreal, precum și Institut de technologie agroalimentaire. Orașul este un centru major pentru cercetarea alimentară, bioprocesare și medicină veterinară. Aici se află și Cité de la biotechnologie agroalimentaire, vétérinaire et agroenvironnementale, un parc de cercetare și industrial. Saint-Hyacinthe este locul de naștere al compozitorului Calixa Lavallée, autorul imnului național canadian 'O Canada'. Geografie K7 — cercetare agricolă și industria alimentară.",
       en: "Saint-Hyacinthe lies along the Yamaska River in the Montérégie region, about 60 kilometers east of Montreal. With around 60,000 residents, it is known as Canada's 'agrifood capital' and is home to the agriculture faculty of the Université de Montréal and the Institut de technologie agroalimentaire. The city is a key hub for food research, bioprocessing, and veterinary medicine, hosting the Cité de la biotechnologie agroalimentaire, vétérinaire et agroenvironnementale research and industrial park. Saint-Hyacinthe is the birthplace of composer Calixa Lavallée, who wrote Canada's national anthem 'O Canada'. Geography K7 — agricultural research and food industry."
-    }, image: "/poi-images/saint-hyacinthe-cities-v2.webp"},
+    }, image: "/poi-images/saint-hyacinthe-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet 1757.", "Bevölkerung: ca. 60.000 (2021).", "Fläche: 180 km².", "Landwirtschaftliches Zentrum.", "Milchwirtschaft und Ahornsirup.", "Yamaska-Fluss."],
+      hu: ["Alapítás: 1757.", "Népesség: kb. 60 000 (2021).", "Terület: 180 km².", "Mezőgazdasági központ.", "Tejtermékek és juharszirup.", "Yamaska folyó."],
+      ro: ["Fondat în 1757.", "Populație: aprox. 60.000 (2021).", "Suprafață: 180 km².", "Centru agricol.", "Lactate și sirop de arțar.", "Râul Yamaska."],
+      en: ["Founded in 1757.", "Population: approx. 60,000 (2021).", "Area: 180 km².", "Agricultural center.", "Dairy and maple syrup.", "Yamaska River."],
+    },
+  },
   {
     id: "mirabel-cities-v2",
     type: "city",
@@ -1252,7 +1280,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Mirabel Montrealtól északnyugatra fekszik Québec tartomány Laurentides régiójában, és mintegy 60 000 lakosával gyorsan növekvő, területre nézve igen nagy város. A települést 1971-ben hozták létre a Montréal-Mirabel repülőtér építéséhez kapcsolódóan, amelyet eredetileg Montreal főreptérének szántak, ám ma már csak teherforgalom és repülőgépgyártás zajlik itt. Mirabel a Bombardier Aviation fő telephelye, ahol a Global 7500 üzleti repülőgép és a CRJ-sorozat alkatrészei készülnek. Itt működnek a Pratt & Whitney Canada és a Bell Textron jelentős üzemei is. Földrajz K7 — repülőgépipar és repülőtéri városok.",
       ro: "Mirabel se află la nord-vest de Montreal, în regiunea Laurentides a provinciei Québec, și, cu aproximativ 60.000 de locuitori, este un oraș în creștere rapidă și foarte mare ca suprafață. Comuna a fost înființată în 1971 în legătură cu construcția aeroportului Montréal-Mirabel, gândit inițial ca aeroport principal al Montrealului, dar care astăzi servește doar transportul de marfă și industria aerospațială. Mirabel este principala bază a Bombardier Aviation, unde se asamblează jetul de afaceri Global 7500 și componente ale seriei CRJ. Pratt & Whitney Canada și Bell Textron operează și ele uzine importante aici. Geografie K7 — industria aerospațială și orașe-aeroport.",
       en: "Mirabel lies northwest of Montreal in the Laurentides region of Québec and, with around 60,000 residents, is a fast-growing city covering an exceptionally large area. The municipality was created in 1971 in connection with the construction of Montréal-Mirabel Airport, originally intended as Montreal's main airport but now serving only cargo traffic and the aerospace industry. Mirabel is the main site of Bombardier Aviation, where the Global 7500 business jet and components of the CRJ series are built. Pratt & Whitney Canada and Bell Textron also operate major plants here. Geography K7 — aerospace industry and airport cities."
-    }, image: "/poi-images/mirabel-cities-v2.webp"},
+    }, image: "/poi-images/mirabel-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet 1971.", "Bevölkerung: ca. 55.000 (2021).", "Fläche: 485 km².", "Flughafen Montréal-Mirabel.", "Weinberge und Apfelwein.", "Parc régional de la Rivière-du-Nord."],
+      hu: ["Alapítás: 1971.", "Népesség: kb. 55 000 (2021).", "Terület: 485 km².", "Montréal-Mirabel repülőtér.", "Szőlőültetvények és almabor.", "Rivière-du-Nord regionális park."],
+      ro: ["Fondat în 1971.", "Populație: aprox. 55.000 (2021).", "Suprafață: 485 km².", "Aeroportul Montréal-Mirabel.", "Podgorii și cidru.", "Parc régional de la Rivière-du-Nord."],
+      en: ["Founded in 1971.", "Population: approx. 55,000 (2021).", "Area: 485 km².", "Montréal-Mirabel Airport.", "Vineyards and cider.", "Parc régional de la Rivière-du-Nord."],
+    },
+  },
   {
     id: "granby-cities-v2",
     type: "city",
@@ -1272,7 +1307,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Granby Québec tartomány Estrie régiójában fekszik, Montrealtól mintegy 80 kilométerre keletre, a Yamaska folyó mentén. Körülbelül 70 000 lakosával a Haute-Yamaska régió gazdasági központja és a déli Eastern Townships fontos turisztikai célpontja. A városát elsősorban a granbyi állatkert tette híressé, amely Kanada egyik legrégebbi és leglátogatottabb állatkertje, 1953-ban nyílt meg, és több mint 1500 állatnak ad otthont 225 fajból. Sok látogatót vonz a Boivin-tó és természetvédelmi területe is. Gazdaságát az élelmiszer-feldolgozás, a textilipar és a turizmus dominálja. Földrajz K7 — állatkertek és turizmus.",
       ro: "Granby se află în regiunea Estrie a provinciei Québec, la aproximativ 80 de kilometri est de Montreal, pe râul Yamaska. Cu circa 70.000 de locuitori, este centrul economic al regiunii Haute-Yamaska și o destinație turistică importantă din sudul Eastern Townships. Orașul este renumit mai ales pentru Grădina Zoologică din Granby, una dintre cele mai vechi și mai vizitate din Canada, deschisă în 1953, care găzduiește peste 1.500 de animale din 225 de specii. Lacul Boivin și rezervația sa naturală atrag, de asemenea, numeroși vizitatori. Economic, dominante sunt procesarea alimentelor, textilele și turismul. Geografie K7 — grădini zoologice și turism.",
       en: "Granby lies in the Estrie region of Québec, about 80 kilometers east of Montreal, along the Yamaska River. With around 70,000 residents, it is the economic center of the Haute-Yamaska region and a major tourist destination in the southern Eastern Townships of Québec. The city is famous above all for the Granby Zoo, one of Canada's oldest and most visited zoos, opened in 1953 and home to more than 1,500 animals of 225 species. Lake Boivin and its nature reserve also attract many visitors throughout the year. Food processing, textile manufacturing, and tourism dominate the local economy. Geography K7 — zoos and rural tourism economies."
-    }, image: "/poi-images/granby-cities-v2.webp"},
+    }, image: "/poi-images/granby-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet 1859.", "Bevölkerung: ca. 70.000 (2021).", "Fläche: 150 km².", "Zoo de Granby (gegründet 1953).", "Parc national de la Yamaska.", "Fertigung: Kunststoff und Metall."],
+      hu: ["Alapítás: 1859.", "Népesség: kb. 70 000 (2021).", "Terület: 150 km².", "Granby-i Állatkert (1953).", "Yamaska Nemzeti Park.", "Műanyag- és fémipar."],
+      ro: ["Fondat în 1859.", "Populație: aprox. 70.000 (2021).", "Suprafață: 150 km².", "Grădina Zoologică Granby (fondată 1953).", "Parcul Național Yamaska.", "Producție de plastic și metal."],
+      en: ["Founded in 1859.", "Population: approx. 70,000 (2021).", "Area: 150 km².", "Granby Zoo (founded 1953).", "Parc national de la Yamaska.", "Plastics and metal manufacturing."],
+    },
+  },
   {
     id: "moose-jaw-cities-v2",
     type: "city",
@@ -1292,7 +1334,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Moose Jaw Saskatchewan déli részén fekszik, körülbelül 75 kilométerre nyugatra Reginától, a Moose Jaw folyó partján. Mintegy 35 000 lakosával a tartomány egyik legrégebbi városa, és gazdag vasúti és csempészmúlttal rendelkezik. A várost nemzetközileg a 'Tunnels of Moose Jaw' tette ismertté, egy földalatti alagútrendszer, amelyet a szesztilalom idején állítólag csempészútvonalként használtak, és ahol egyes beszámolók szerint Al Capone is üzletelt. Ma népszerű turisztikai célpont a Temple Gardens hévízfürdővel, a Mac the Moose óriásszoborral és a Royal Canadian Air Force Snowbirds műrepülő-századdal. Földrajz K7 — préri legendák és történelmi turizmus.",
       ro: "Moose Jaw se află în sudul provinciei Saskatchewan, la aproximativ 75 de kilometri vest de Regina, pe râul Moose Jaw. Cu aproximativ 35.000 de locuitori, este unul dintre cele mai vechi orașe din provincie și are o istorie bogată legată de calea ferată și de contrabandă. Faima a venit prin 'Tunnels of Moose Jaw', un sistem subteran de tuneluri folosit, conform legendei, ca rută de contrabandă în timpul prohibiției, unde, potrivit unor relatări, Al Capone ar fi făcut afaceri. Astăzi, orașul este o destinație turistică populară, cu băile termale Temple Gardens, statuia uriașă Mac the Moose și escadrila acrobatică Snowbirds a Royal Canadian Air Force. Geografie K7 — legende ale preriei și turism istoric.",
       en: "Moose Jaw lies in southern Saskatchewan about 75 kilometers west of Regina along the Moose Jaw River. With around 35,000 residents, it is one of the province's oldest cities and has a rich railway and bootlegging history. Moose Jaw became famous through the 'Tunnels of Moose Jaw', an underground tunnel system reputedly used as a smuggling route during Prohibition, where Al Capone is said to have done business. Today the city is a popular tourist destination, with the Temple Gardens hot springs, the giant Mac the Moose statue, and the Royal Canadian Air Force Snowbirds aerobatic team. Geography K7 — prairie legends and heritage tourism."
-    }, image: "/poi-images/moose-jaw-cities-v2.webp"},
+    }, image: "/poi-images/moose-jaw-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet 1882.", "Bevölkerung: ca. 34.000 (2021).", "Fläche: 50 km².", "CFB Moose Jaw (gegründet 1940).", "Tunnels of Moose Jaw Tour.", "Moose Jaw River."],
+      hu: ["Alapítás: 1882.", "Népesség: kb. 34 000 (2021).", "Terület: 50 km².", "CFB Moose Jaw (1940).", "Moose Jaw alagutak látogatóközpont.", "Moose Jaw folyó."],
+      ro: ["Fondat în 1882.", "Populație: aprox. 34.000 (2021).", "Suprafață: 50 km².", "CFB Moose Jaw (fondată 1940).", "Turul tunelurilor din Moose Jaw.", "Râul Moose Jaw."],
+      en: ["Founded in 1882.", "Population: approx. 34,000 (2021).", "Area: 50 km².", "CFB Moose Jaw (established 1940).", "Tunnels of Moose Jaw attraction.", "Moose Jaw River."],
+    },
+  },
   {
     id: "prince-albert-cities-v2",
     type: "city",
@@ -1312,7 +1361,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Prince Albert Saskatchewan északi részén fekszik az North Saskatchewan folyó mentén, és körülbelül 38 000 lakosával a tartomány harmadik legnagyobb városa. Gyakran 'az Észak kapujaként' emlegetik, mivel a préri és a boreális erdő találkozási zónájában helyezkedik el. A 19. században a város fontos csomópontja volt a prémkereskedelemnek és az erdőgazdálkodásnak. Ma az északi őslakos közösségek és bányavidékek ellátási központja. A mintegy 60 kilométerrel északra fekvő Prince Albert Nemzeti Park fontos természetvédelmi terület erdővel, tavakkal és nagy erdei bölényállománnyal. Földrajz K7 — boreális erdőzónák és északi ellátási központok.",
       ro: "Prince Albert se află în nordul provinciei Saskatchewan, pe râul North Saskatchewan, și, cu aproximativ 38.000 de locuitori, este al treilea oraș ca mărime din provincie. Este adesea numit 'poarta către Nord', fiind situat la zona de tranziție dintre prerie și pădurea boreală. În secolul al XIX-lea, orașul a fost un nod important pentru comerțul cu blănuri și silvicultură. Astăzi, este centrul de aprovizionare pentru comunitățile indigene din nord și pentru regiunile miniere. Parcul Național Prince Albert, situat la aproximativ 60 de kilometri nord, este o rezervație naturală importantă, cu păduri, lacuri și o mare turmă de bizoni de pădure. Geografie K7 — zone de pădure boreală și orașe-suport nordice.",
       en: "Prince Albert lies in northern Saskatchewan along the North Saskatchewan River and, with about 38,000 residents, is the province's third-largest city. It is often called the 'Gateway to the North', sitting at the transition zone between the prairies and the boreal forest. In the 19th century, the city was a major hub for the fur trade and forestry. Today it is the main supply center for northern Indigenous communities and mining regions. Prince Albert National Park, about 60 kilometers to the north, is an important nature reserve with forests, lakes, and a large herd of wood bison. Geography K7 — boreal forest zones and northern supply cities."
-    }, image: "/poi-images/prince-albert-cities-v2.webp"},
+    }, image: "/poi-images/prince-albert-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet 1866.", "Bevölkerung: ca. 36.000 (2021).", "Fläche: 65 km².", "North Saskatchewan River.", "Prince Albert National Park (gegründet 1928).", "Forstwirtschaft und Bergbau."],
+      hu: ["Alapítás: 1866.", "Népesség: kb. 36 000 (2021).", "Terület: 65 km².", "North Saskatchewan folyó.", "Prince Albert Nemzeti Park (1928).", "Erdészet és bányászat."],
+      ro: ["Fondat în 1866.", "Populație: aprox. 36.000 (2021).", "Suprafață: 65 km².", "Râul North Saskatchewan.", "Parcul Național Prince Albert (fondat 1928).", "Silvicultură și minerit."],
+      en: ["Founded in 1866.", "Population: approx. 36,000 (2021).", "Area: 65 km².", "North Saskatchewan River.", "Prince Albert National Park (established 1928).", "Forestry and mining."],
+    },
+  },
   {
     id: "brandon-cities-v2",
     type: "city",
@@ -1332,7 +1388,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Brandon Manitoba déli részén fekszik az Assiniboine folyó mentén, és mintegy 51 000 lakosával Winnipeg után a tartomány második legnagyobb városa. A települést 1882-ben alapították az újonnan épült Canadian Pacific vasútvonal mentén, és gyorsan a nyugat-manitobai termékeny préri kereskedelmi központjává vált. Ma Brandon fontos helyszíne az élelmiszer-feldolgozásnak (a Maple Leaf Foods Kanada egyik legnagyobb sertésfeldolgozó üzemét működteti itt), az oktatásnak (Brandon Egyetem, Assiniboine Community College) és az évente megrendezett Royal Manitoba Winter Fair vásárnak. Földrajz K7 — nyugati prériek és élelmiszer-termelés.",
       ro: "Brandon se află în sudul provinciei Manitoba, pe râul Assiniboine, și, cu aproximativ 51.000 de locuitori, este al doilea oraș ca mărime din provincie după Winnipeg. Localitatea a fost fondată în 1882 de-a lungul liniei nou construite Canadian Pacific Railway și a devenit rapid un centru comercial pentru preriile fertile din vestul Manitoba. Astăzi, Brandon este un sit important pentru procesarea alimentelor (Maple Leaf Foods operează aici una dintre cele mai mari fabrici de procesare a porcinelor din Canada), pentru educație (Brandon University, Assiniboine Community College) și pentru târgul anual Royal Manitoba Winter Fair. Geografie K7 — preriile vestice și producția alimentară.",
       en: "Brandon lies in southern Manitoba along the Assiniboine River and, with around 51,000 residents, is the province's second-largest city after Winnipeg. The town was founded in 1882 along the newly built Canadian Pacific Railway and quickly developed into a trade center for the fertile prairies of western Manitoba. Today Brandon is a major location for food processing (Maple Leaf Foods operates one of Canada's largest pork processing plants here), education (Brandon University, Assiniboine Community College), and the annual Royal Manitoba Winter Fair. Geography K7 — western prairies and food production."
-    }, image: "/poi-images/brandon-cities-v2.webp"},
+    }, image: "/poi-images/brandon-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gründung: 1882", "Einwohnerzahl (2021): ca. 49.000", "Fläche: 77,41 km²", "Höhe: 409 m", "Brandon University gegründet 1899", "CFB Shilo: 10 km östlich"],
+      hu: ["Alapítás: 1882", "Népesség: kb. 49 000 (2021)", "Terület: 77,41 km²", "Tengerszint feletti magasság: 409 m", "Brandon University: 1899-ben alapították", "CFB Shilo távolsága: 10 km"],
+      ro: ["Fondat: 1882", "Populație: aprox. 49.000 (2021)", "Suprafață: 77,41 km²", "Altitudine: 409 m", "Universitatea Brandon fondată în 1899", "Baza militară CFB Shilo la 10 km distanță"],
+      en: ["Founded: 1882", "Population: approx. 49,000 (2021)", "Area: 77.41 km²", "Elevation: 409 m", "Brandon University established 1899", "CFB Shilo located 10 km east"],
+    },
+  },
   {
     id: "north-bay-cities-v2",
     type: "city",
@@ -1352,7 +1415,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "North Bay a Nipissing-tó északi partján fekszik Ontario északkeleti részén, és mintegy 52 000 lakosával fontos regionális központ. Gyakran emlegetik 'az Észak kapujaként', mivel itt találkozik a Trans-Canada Highway és az Ontario Northland vasútvonal. North Bay a Szent Lőrinc és a Hudson-öböl vízgyűjtőit elválasztó hegyhát, a 'trapper-trekk' mentén fekszik, ami történelmileg stratégiai prémkereskedelmi állomássá tette. A városban működik a Canadian Forces Base North Bay (NORAD), amely az észak-amerikai korai riasztórendszer felügyeletének része, valamint a Nipissing University. Földrajz K7 — északi közlekedési csomópontok és védelem.",
       ro: "North Bay se află pe malul nordic al lacului Nipissing, în nord-estul provinciei Ontario, și, cu aproximativ 52.000 de locuitori, este un centru regional important. Este adesea numit 'poarta către Nord', deoarece aici se întâlnesc Trans-Canada Highway și calea ferată Ontario Northland. Orașul se află pe ruta tradițională a vânătorilor de blănuri, între bazinele Saint-Laurent și Hudson Bay, ceea ce l-a făcut istoric un avanpost strategic al comerțului cu blănuri. North Bay găzduiește Baza Forțelor Canadiene North Bay (NORAD), parte a sistemului nord-american de avertizare timpurie, și Universitatea Nipissing. Geografie K7 — noduri de transport nordice și apărare.",
       en: "North Bay sits on the north shore of Lake Nipissing in northeastern Ontario and, with around 52,000 residents, is an important regional center. It is often called the 'Gateway to the North' because the Trans-Canada Highway and the Ontario Northland Railway meet here. North Bay lies along the traditional fur traders' portage between the St. Lawrence and Hudson Bay watersheds, which made it a strategic fur trading post historically. The city hosts Canadian Forces Base North Bay (NORAD), part of the North American early-warning system, and Nipissing University. Geography K7 — northern transport hubs and defense."
-    }, image: "/poi-images/north-bay-cities-v2.webp"},
+    }, image: "/poi-images/north-bay-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 52.000", "Fläche: 319,11 km²", "Gründung: 1891", "Höhe: 205 m", "Nipissing University gegründet 1992", "NORAD-Zentrum seit 1963"],
+      hu: ["Népesség: kb. 52 000 (2021)", "Terület: 319,11 km²", "Alapítás: 1891", "Tengerszint feletti magasság: 205 m", "Nipissing University: 1992-ben alapították", "NORAD központ 1963 óta"],
+      ro: ["Populație: aprox. 52.000 (2021)", "Suprafață: 319,11 km²", "Fondat: 1891", "Altitudine: 205 m", "Universitatea Nipissing fondată în 1992", "Centrul NORAD din 1963"],
+      en: ["Population: approx. 52,000 (2021)", "Area: 319.11 km²", "Founded: 1891", "Elevation: 205 m", "Nipissing University established 1992", "NORAD centre operational since 1963"],
+    },
+  },
   {
     id: "belleville-cities-v2",
     type: "city",
@@ -1372,7 +1442,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Belleville a Bay of Quinte északi partján fekszik az Ontario-tó keleti partvidékén, Ontarióban, és mintegy 55 000 lakosával fontos regionális központ. A települést 1816-ban alapították, és Lady Arabella Gore-ról, az akkori alkormányzó feleségéről nevezték el. Belleville stratégiai helyzetben fekszik Toronto és Montreal között a 401-es főút mentén, és a Quinte régió ellátási központja. A város híres a sajttermelésről, és jelentős élelmiszer-feldolgozó iparral rendelkezik. Olyan énekesek és színészek, mint Avril Lavigne, a régióban nevelkedtek. Földrajz K7 — öblös városok és élelmiszer-feldolgozás.",
       ro: "Belleville se află pe malul nordic al golfului Quinte, pe coasta estică a lacului Ontario, în provincia Ontario, și, cu aproximativ 55.000 de locuitori, este un centru regional important. Localitatea a fost fondată în 1816 și numită după Lady Arabella Gore, soția vice-guvernatorului de atunci. Belleville se află strategic între Toronto și Montreal, de-a lungul autostrăzii 401, și servește ca centru de aprovizionare al regiunii Quinte. Orașul este renumit pentru producția de brânzeturi și găzduiește o industrie importantă de procesare a alimentelor. Cântăreți și actori precum Avril Lavigne au crescut în regiune. Geografie K7 — orașe de pe golfuri și procesare alimentară.",
       en: "Belleville lies on the north shore of the Bay of Quinte on the eastern shore of Lake Ontario in the province of Ontario and, with around 55,000 residents, is an important regional center. The town was founded in 1816 and named after Lady Arabella Gore, wife of the then lieutenant-governor. Belleville sits strategically between Toronto and Montreal along Highway 401 and serves as the supply center for the Quinte region. The city is renowned for cheese production and hosts a significant food processing industry. Singers and actors such as Avril Lavigne grew up in the region. Geography K7 — bayside cities and food processing."
-    }, image: "/poi-images/belleville-cities-v2.webp"},
+    }, image: "/poi-images/belleville-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 51.000", "Gründung: 1789", "Fläche: 247,21 km²", "Höhe: 94 m", "Loyalist College gegründet 1967", "Ahornsirup-Produktion: 25% von Ontario"],
+      hu: ["Népesség: kb. 51 000 (2021)", "Alapítás: 1789", "Terület: 247,21 km²", "Tengerszint feletti magasság: 94 m", "Loyalist College: 1967-ben alapították", "Juharszirup-termelés: Ontario 25%-a"],
+      ro: ["Populație: aprox. 51.000 (2021)", "Fondat: 1789", "Suprafață: 247,21 km²", "Altitudine: 94 m", "Colegiul Loyalist fondat în 1967", "Producție de sirop de arțar: 25% din Ontario"],
+      en: ["Population: approx. 51,000 (2021)", "Founded: 1789", "Area: 247.21 km²", "Elevation: 94 m", "Loyalist College established 1967", "Maple syrup production: 25% of Ontario's total"],
+    },
+  },
   {
     id: "sault-ste-marie-cities-v2",
     type: "city",
@@ -1392,7 +1469,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Sault Sainte-Marie, közismert nevén 'The Soo', a St. Marys folyó mentén fekszik, amely összeköti a Felső-tavat a Huron-tóval, közvetlenül a Michigan állambeli Sault Ste. Marie határán. Mintegy 73 000 lakosával Ontario egyik legrégebben európaiak által lakott települése, gyökerei a 17. századi prémkereskedelemig nyúlnak. A híres Soo Locks zsiliprendszer teszi lehetővé a hajóknak, hogy átjussanak a két tó közötti 7 méteres szintkülönbségen, és a világ egyik legforgalmasabb zsilipje. Gazdaságát az acélgyártás (Algoma Steel) és az erdőgazdálkodás dominálja. Földrajz K7 — Nagy-tavi zsilipek és határvárosok.",
       ro: "Sault Sainte-Marie, numit familial 'The Soo', se află pe râul St. Marys, care leagă lacul Superior de lacul Huron, exact la granița cu Sault Ste. Marie din statul american Michigan. Cu aproximativ 73.000 de locuitori, este una dintre cele mai vechi așezări europene din Ontario, cu rădăcini în comerțul cu blănuri din secolul al XVII-lea. Renumitele ecluze Soo Locks permit navelor să depășească diferența de nivel de 7 metri între cele două lacuri și se numără printre cele mai aglomerate ecluze din lume. Economic, dominante sunt producția de oțel (Algoma Steel) și silvicultura. Geografie K7 — ecluze ale Marilor Lacuri și orașe de frontieră.",
       en: "Sault Sainte-Marie, often shortened to 'The Soo', lies along the St. Marys River, which links Lake Superior to Lake Huron, right on the border with Sault Ste. Marie in the U.S. state of Michigan. With around 73,000 residents, it is one of the oldest European-settled places in Ontario, with roots in the 17th-century fur trade. The famous Soo Locks allow ships to cross the seven-meter difference in elevation between the two lakes and are among the busiest lock systems in the world. The economy is led by steel production (Algoma Steel) and forestry. Geography K7 — Great Lakes locks and border cities."
-    }, image: "/poi-images/sault-ste-marie-cities-v2.webp"},
+    }, image: "/poi-images/sault-ste-marie-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 73.000", "Gründung: 1887", "Fläche: 223,29 km²", "Algoma Steel gegründet 1902", "Brücke erbaut 1962", "Agawa Canyon Tour: 114 km Strecke"],
+      hu: ["Népesség: kb. 73 000 (2021)", "Alapítás: 1887", "Terület: 223,29 km²", "Algoma Steel: 1902-ben alapították", "Híd épült: 1962", "Agawa Canyon vasúti túra hossza: 114 km"],
+      ro: ["Populație: aprox. 73.000 (2021)", "Fondat: 1887", "Suprafață: 223,29 km²", "Algoma Steel fondată în 1902", "Podul construit în 1962", "Traseul trenului Agawa Canyon: 114 km"],
+      en: ["Population: approx. 73,000 (2021)", "Founded: 1887", "Area: 223.29 km²", "Algoma Steel founded 1902", "International Bridge completed 1962", "Agawa Canyon Tour route length: 114 km"],
+    },
+  },
   {
     id: "kawartha-lakes-cities-v2",
     type: "city",
@@ -1412,7 +1496,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Kawartha Lakes egy területre nézve igen nagy város Közép-Ontarióban, amely a 2001-ben végrehajtott teljes Victoria megye-fúzió eredményeként jött létre. Mintegy 80 000 lakosával túlnyomórészt vidéki jellegű, és számos kis települést foglal magában, mint Lindsay, Bobcaygeon és Fenelon Falls. A név a Trent-Severn vízi út által összekapcsolt számos tóra utal, amely népszerű nyári célpontja a torontói hajósoknak és nyaraló-tulajdonosoknak. Gazdaságát a mezőgazdaság, a turizmus és a kiskereskedelem dominálja. A Big Chute Marine Railway zsilip a maga nemében az egyik utolsó megőrzött hajóemelő a világon. Földrajz K7 — tórégiók és nyaralóturizmus.",
       ro: "Kawartha Lakes este un oraș foarte mare ca suprafață în centrul provinciei Ontario, format prin fuziunea întregului comitat Victoria în 2001. Cu aproximativ 80.000 de locuitori, este preponderent rural și cuprinde numeroase localități mici, precum Lindsay, Bobcaygeon și Fenelon Falls. Numele se referă la numeroasele lacuri legate prin canalul Trent-Severn, o destinație populară de vară pentru navigatorii și proprietarii de cabane din Toronto. Economic, dominante sunt agricultura, turismul și comerțul cu amănuntul. Ecluza Big Chute Marine Railway este una dintre ultimele de acest fel din lume. Geografie K7 — regiuni de lacuri și turism de cabană.",
       en: "Kawartha Lakes is a vast single-tier municipality in central Ontario, created in 2001 through the amalgamation of all of Victoria County. With around 80,000 residents, it is predominantly rural and includes many small communities such as Lindsay, Bobcaygeon, and Fenelon Falls. The name refers to the numerous lakes linked by the Trent-Severn Waterway, a popular summer destination for boaters and cottage owners from Toronto. Agriculture, tourism, and retail dominate the local economy. The Big Chute Marine Railway lock is one of the last of its kind in the world. Geography K7 — lake regions and cottage tourism."
-    }, image: "/poi-images/kawartha-lakes-cities-v2.webp"},
+    }, image: "/poi-images/kawartha-lakes-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 75.000", "Anzahl der Seen: über 250", "Fläche: 3.306,39 km²", "Verwaltungssitz: Lindsay", "Ken Reid Conservation Area: 200 ha", "Kawartha Settlers' Village erbaut in den 1830ern"],
+      hu: ["Népesség: kb. 75 000 (2021)", "Tavak száma: több mint 250", "Terület: 3.306,39 km²", "Közigazgatási központ: Lindsay", "Ken Reid Konzervációs Terület: 200 ha", "Kawartha Settlers' Village: 1830-as évek"],
+      ro: ["Populație: aprox. 75.000 (2021)", "Număr de lacuri: peste 250", "Suprafață: 3.306,39 km²", "Centru administrativ: Lindsay", "Zona de conservare Ken Reid: 200 ha", "Satul Kawartha Settlers' Village construit în anii 1830"],
+      en: ["Population: approx. 75,000 (2021)", "Number of lakes: over 250", "Area: 3,306.39 km²", "Administrative centre: Lindsay", "Ken Reid Conservation Area: 200 hectares", "Kawartha Settlers' Village founded 1830s"],
+    },
+  },
   {
     id: "airdrie-cities-v2",
     type: "city",
@@ -1432,7 +1523,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Airdrie körülbelül 30 kilométerre északra fekszik Calgary-tól Alberta tartományban, és mintegy 80 000 lakosával Kanada egyik leggyorsabban növekvő városa. A települést 1889-ben alapították a Calgary and Edmonton vasútvonal mentén, és a skóciai Lanarkshire-i Airdrie-ről nevezték el, ahonnan az első állomásfőnök is származott. Ma Airdrie kiaknázza kedvező fekvését a 2-es számú főúton (Queen Elizabeth II Highway), és gyorsan ingázóvárossá fejlődik Calgary felé. Gazdaságát a logisztika, a kiskereskedelem és az építőipar uralja. Földrajz K7 — ingázóvárosok és növekedés a Calgary-Edmonton folyosó mentén.",
       ro: "Airdrie se află la aproximativ 30 de kilometri nord de Calgary, în provincia Alberta, și, cu circa 80.000 de locuitori, este unul dintre cele mai rapid în creștere orașe din Canada. Localitatea a fost fondată în 1889 ca gară de-a lungul liniei Calgary and Edmonton Railway și numită după satul scoțian Airdrie din Lanarkshire, de unde provenea primul șef de gară. Astăzi, Airdrie profită de poziția sa de pe autostrada Highway 2 (Queen Elizabeth II Highway) și se transformă rapid într-un oraș-dormitor pentru Calgary. Economic, orașul se concentrează pe logistică, comerț cu amănuntul și construcții. Geografie K7 — orașe-dormitor și creștere de-a lungul coridorului Calgary-Edmonton.",
       en: "Airdrie sits about 30 kilometers north of Calgary in the province of Alberta and, with around 80,000 residents, is one of Canada's fastest-growing cities. The town was founded in 1889 as a railway station along the Calgary and Edmonton Railway and was named after Airdrie in Lanarkshire, Scotland, the home of its first stationmaster. Today Airdrie benefits from its location on Highway 2 (the Queen Elizabeth II Highway) and is rapidly developing into a commuter city for Calgary. The local economy is focused on logistics, retail, and construction. Geography K7 — commuter cities and growth along the Calgary-Edmonton corridor."
-    }, image: "/poi-images/airdrie-cities-v2.webp"},
+    }, image: "/poi-images/airdrie-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 72.000", "Gründung: 1899", "Fläche: 33,10 km²", "Höhe: 1.097 m", "Nose Creek Park: 65 ha", "Luftlinie zu Calgary: 30 km nördlich"],
+      hu: ["Népesség: kb. 72 000 (2021)", "Alapítás: 1899", "Terület: 33,10 km²", "Tengerszint feletti magasság: 1.097 m", "Nose Creek Park: 65 ha", "Távolság Calgarytól: 30 km északra"],
+      ro: ["Populație: aprox. 72.000 (2021)", "Fondat: 1899", "Suprafață: 33,10 km²", "Altitudine: 1.097 m", "Parcul Nose Creek: 65 ha", "Distanța față de Calgary: 30 km nord"],
+      en: ["Population: approx. 72,000 (2021)", "Founded: 1899", "Area: 33.10 km²", "Elevation: 1,097 m", "Nose Creek Park: 65 hectares", "Distance from Calgary: 30 km north"],
+    },
+  },
   {
     id: "wood-buffalo-fort-mcmurray-cities-v2",
     type: "city",
@@ -1452,7 +1550,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "A Regional Municipality of Wood Buffalo hatalmas területet ölel fel Alberta északkeleti részén, központja pedig Fort McMurray. Mintegy 70 000 lakosával Fort McMurray a teljes Athabasca-olajhomok régió legfontosabb városa, amely a világ egyik legnagyobb kőolaj-előfordulása. A várost körülvevő külszíni bányák bitument termelnek olajhomokból, és alapvetően meghatározzák a gazdaságot és a tájképet. Olyan vállalatok üzemeltetnek itt hatalmas létesítményeket, mint a Suncor, a Syncrude és a Canadian Natural Resources. 2016-ban egy pusztító erdőtűz súlyosan megrongálta a várost, közel 90 000 embert kellett evakuálni. Földrajz K7 — olajhomok és nyersanyaggazdaság.",
       ro: "Regional Municipality of Wood Buffalo cuprinde o suprafață imensă în nord-estul provinciei Alberta și are ca centru urban orașul Fort McMurray. Cu aproximativ 70.000 de locuitori, Fort McMurray este principalul oraș al întregii regiuni a nisipurilor petrolifere Athabasca, unul dintre cele mai mari zăcăminte de petrol din lume. Carierele deschise din jurul orașului extrag bitum din nisipurile petrolifere și definesc economia și peisajul. Companii precum Suncor, Syncrude și Canadian Natural Resources operează aici instalații uriașe. În 2016, orașul a fost grav afectat de un incendiu de pădure devastator, care a forțat evacuarea a aproape 90.000 de oameni. Geografie K7 — nisipuri petrolifere și economia resurselor.",
       en: "The Regional Municipality of Wood Buffalo covers an enormous area in northeastern Alberta and is centered on the city of Fort McMurray. With around 70,000 residents, Fort McMurray is the principal town of the entire Athabasca oil sands region, one of the largest oil deposits in the world. The open-pit mines surrounding the city extract bitumen from oil sands and dominate the economy and landscape. Companies such as Suncor, Syncrude, and Canadian Natural Resources operate massive facilities here. In 2016, a devastating wildfire severely damaged the city, forcing the evacuation of nearly 90,000 people. Geography K7 — oil sands and resource economies."
-    }, image: "/poi-images/wood-buffalo-fort-mcmurray-cities-v2.webp"},
+    }, image: "/poi-images/wood-buffalo-fort-mcmurray-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 68.000", "Gründung: 1870 (Hudson's Bay Post)", "Fläche: 59,95 km²", "Athabasca River Länge: 1.231 km", "Keyano College gegründet 1967", "Erdölproduktion: ca. 1,3 Millionen Barrel/Tag in der Region"],
+      hu: ["Népesség: kb. 68 000 (2021)", "Alapítás: 1870 (Hudson's Bay telep)", "Terület: 59,95 km²", "Athabasca folyó hossza: 1.231 km", "Keyano College: 1967-ben alapították", "Olajtermelés: kb. 1,3 millió hordó/nap a régióban"],
+      ro: ["Populație: aprox. 68.000 (2021)", "Fondat: 1870 (post Hudson's Bay)", "Suprafață: 59,95 km²", "Lungimea râului Athabasca: 1.231 km", "Colegiul Keyano fondat în 1967", "Producția de petrol: aprox. 1,3 milioane de barili/zi în regiune"],
+      en: ["Population: approx. 68,000 (2021)", "Founded: 1870 (Hudson's Bay post)", "Area: 59.95 km²", "Athabasca River length: 1,231 km", "Keyano College established 1967", "Oil production: ~1.3 million barrels/day in region"],
+    },
+  },
   {
     id: "st-johns-county-cities-v2",
     type: "city",
@@ -1472,7 +1577,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "St. John's, Newfoundland and Labrador tartomány fővárosa, az Avalon-félsziget északkeleti partján fekszik, és mintegy 110 000 lakosával (a Greater St. John's agglomerációval együtt körülbelül 220 000) Észak-Amerika egyik legrégebbi európai települése. Már 1497-ben John Cabot elérte a régiót, és a keskeny bejáratú, 'Narrows' nevű természetes kikötő évszázadokon át a tőkehalászat menedéke volt. A meredek utcák mentén sorakozó színes viktoriánus házak meghatározzák a város híres arculatát, akárcsak a Signal Hill-i Cabot Tower, ahol Marconi 1901-ben fogta az első transzatlanti rádiójelet. Gazdaságát a kőolaj, a halászat és a turizmus dominálja. Földrajz K7 — atlanti szigeti fővárosok és rádiózás-történelem.",
       ro: "St. John's, capitala provinciei Newfoundland and Labrador, se află pe coasta de nord-est a peninsulei Avalon și, cu aproximativ 110.000 de locuitori (Greater St. John's: aproximativ 220.000), este una dintre cele mai vechi așezări europene din America de Nord. Încă din 1497, John Cabot a ajuns în această regiune, iar portul natural cu intrarea îngustă numită 'Narrows' a servit timp de secole drept refugiu pentru pescuitul codului. Casele victoriene colorate de-a lungul străzilor abrupte definesc peisajul faimos al orașului, la fel ca turnul Cabot Tower de pe Signal Hill, unde Marconi a recepționat în 1901 primul semnal radio transatlantic. Economic, dominante sunt petrolul, pescuitul și turismul. Geografie K7 — capitale insulare atlantice și istoria radioului.",
       en: "St. John's, capital of the province of Newfoundland and Labrador, sits on the northeastern coast of the Avalon Peninsula and, with around 110,000 residents (Greater St. John's: about 220,000), is one of the oldest European settlements in North America. John Cabot reached the region as early as 1497, and the natural harbor with its narrow entrance, the 'Narrows', served for centuries as a haven for cod fishing. The colorful Victorian houses lining the steep streets define the city's famous look, as does the Cabot Tower on Signal Hill, where Marconi received the first transatlantic radio signal in 1901. Oil, fisheries, and tourism dominate the economy. Geography K7 — Atlantic island capitals and radio history."
-    }, image: "/poi-images/st-johns-county-cities-v2.webp"},
+    }, image: "/poi-images/st-johns-county-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 110.000", "Gründung: 16. Jahrhundert", "Fläche: 446,02 km²", "Signal Hill: 167 m Höhe", "Memorial University gegründet 1925", "Cape Spear: östlichster Punkt Nordamerikas"],
+      hu: ["Népesség: kb. 110 000 (2021)", "Alapítás: 16. század", "Terület: 446,02 km²", "Signal Hill magassága: 167 m", "Memorial University: 1925-ben alapították", "Cape Spear: Észak-Amerika legkeletibb pontja"],
+      ro: ["Populație: aprox. 110.000 (2021)", "Fondat: secolul al XVI-lea", "Suprafață: 446,02 km²", "Signal Hill: 167 m altitudine", "Memorial University fondată în 1925", "Cape Spear: cel mai estic punct al Americii de Nord"],
+      en: ["Population: approx. 110,000 (2021)", "Founded: 1500s", "Area: 446.02 km²", "Signal Hill elevation: 167 m", "Memorial University established 1925", "Cape Spear: easternmost point in North America"],
+    },
+  },
   {
     id: "clarington-cities-v2",
     type: "city",
@@ -1492,7 +1604,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Clarington Dél-Ontario Durham régiójában fekszik az Ontario-tó partján, Oshawától keletre. Mintegy 105 000 lakosával gyorsan növekvő település, amely 1973-ban Bowmanville, Newcastle, Clarke és Darlington townshipek egyesüléséből jött létre. A városban található a Darlington Nuclear Generating Station, Kanada egyik legfontosabb atomerőműve, amelyet az Ontario Power Generation üzemeltet, és Ontario áramtermelésének mintegy 20 százalékát adja. Clarington vidéki-mezőgazdasági hátországot egyesít a Toronto ingázókörzetéhez tartozó, gyorsan növekvő lakónegyedekkel. Földrajz K7 — energiatelephelyek és vidéki közigazgatási fúziók.",
       ro: "Clarington se află în regiunea Durham din sudul provinciei Ontario, pe lacul Ontario, la est de Oshawa. Cu aproximativ 105.000 de locuitori, este o comună în creștere rapidă, formată în 1973 prin fuziunea cantoanelor Bowmanville, Newcastle, Clarke și Darlington. Aici se află Darlington Nuclear Generating Station, una dintre cele mai importante centrale nucleare din Canada, operată de Ontario Power Generation, care produce aproximativ 20% din electricitatea provinciei Ontario. Clarington îmbină hinterlandul rural-agricol cu cartiere rezidențiale în creștere, în zona de navetă a Torontoului. Geografie K7 — situri energetice și fuziuni administrative rurale.",
       en: "Clarington lies in the Durham Region of southern Ontario along Lake Ontario, east of Oshawa. With around 105,000 residents, it is a fast-growing municipality created in 1973 through the amalgamation of the townships of Bowmanville, Newcastle, Clarke, and Darlington. The municipality is the site of the Darlington Nuclear Generating Station, one of Canada's most important nuclear power plants, operated by Ontario Power Generation and producing about 20 percent of Ontario's electricity. Clarington blends a rural-agricultural hinterland with rapidly growing residential neighborhoods in the Toronto commuter belt. Geography K7 — energy sites and rural administrative mergers."
-    }, image: "/poi-images/clarington-cities-v2.webp"},
+    }, image: "/poi-images/clarington-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 100.000", "Fläche: 611,75 km²", "General Motors Werk eröffnet 1965", "Darlington Provincial Park: 208 ha", "Bowmanville: ältestes Dorf 1795", "Seenlinie: ca. 15 km Ontariosee"],
+      hu: ["Népesség: kb. 100 000 (2021)", "Terület: 611,75 km²", "General Motors gyár: 1965-ben nyílt", "Darlington Tartományi Park: 208 ha", "Bowmanville: legrégebbi falu 1795-ben", "Tópart hossza: kb. 15 km az Ontario-tó mentén"],
+      ro: ["Populație: aprox. 100.000 (2021)", "Suprafață: 611,75 km²", "Fabrica General Motors deschisă în 1965", "Parcul Provincial Darlington: 208 ha", "Bowmanville: cel mai vechi sat din 1795", "Lungimea malului lacului: aprox. 15 km pe Lacul Ontario"],
+      en: ["Population: approx. 100,000 (2021)", "Area: 611.75 km²", "General Motors plant opened 1965", "Darlington Provincial Park: 208 hectares", "Bowmanville: oldest village founded 1795", "Lake Ontario shoreline: approx. 15 km"],
+    },
+  },
   {
     id: "pickering-cities-v2",
     type: "city",
@@ -1512,7 +1631,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Pickering a Durham régióban fekszik az Ontario-tó partján, körülbelül 30 kilométerre keletre Torontótól. Mintegy 100 000 lakosával fontos elővárosi települése a Greater Toronto Area keleti részének. A városban található a Pickering Nuclear Generating Station, Kanada egyik legrégebbi és legnagyobb atomerőműve, amelyet azonban a következő években fokozatosan leszerelnek. Pickering kihasználja a GO-vasút Torontóval való összeköttetését, és egyre inkább regionális lakó- és üzleti központtá válik. Figyelemre méltó a Pickering Casino Resort is, egy jelentős szórakoztató komplexum. Földrajz K7 — elővárosok és energetikai átmenet.",
       ro: "Pickering se află în regiunea Durham, pe lacul Ontario, la aproximativ 30 de kilometri est de Toronto. Cu aproximativ 100.000 de locuitori, este o suburbie importantă din estul zonei metropolitane Toronto. Orașul este sediul Pickering Nuclear Generating Station, una dintre cele mai vechi și mai mari centrale nucleare din Canada, care însă va fi dezafectată treptat în anii următori. Pickering beneficiază de legătura GO Train cu Toronto și se transformă într-un centru rezidențial și comercial regional. Remarcabil este și Pickering Casino Resort, un complex de divertisment important. Geografie K7 — suburbii și tranziție energetică.",
       en: "Pickering lies in Durham Region along Lake Ontario, about 30 kilometers east of Toronto. With around 100,000 residents, it is an important suburb in the eastern Greater Toronto Area. The city is the site of Pickering Nuclear Generating Station, one of Canada's oldest and largest nuclear plants, which is now being gradually decommissioned. Pickering benefits from the GO Train connection to Toronto and is increasingly developing into a regional residential and business hub. The Pickering Casino Resort, a major entertainment complex, is also noteworthy. Geography K7 — suburbs and the energy transition."
-    }, image: "/poi-images/pickering-cities-v2.webp"},
+    }, image: "/poi-images/pickering-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 92.000", "Kernkraftwerk Pickering: 1971 in Betrieb", "Fläche: 231,10 km²", "Pickering Museum Village: erbaut 1800er", "Lynde Shores Conservation Area: 100 ha", "Entfernung zu Toronto: 40 km östlich"],
+      hu: ["Népesség: kb. 92 000 (2021)", "Pickering Atomerőmű: 1971 óta működik", "Terület: 231,10 km²", "Pickering Museum Village: 1800-as évek", "Lynde Shores Természetvédelmi Terület: 100 ha", "Távolság Torontótól: 40 km keletre"],
+      ro: ["Populație: aprox. 92.000 (2021)", "Centrala Nucleară Pickering: operată din 1971", "Suprafață: 231,10 km²", "Satul Muzeu Pickering: construit în anii 1800", "Zona Lynde Shores: 100 ha", "Distanța față de Toronto: 40 km est"],
+      en: ["Population: approx. 92,000 (2021)", "Pickering Nuclear Station: operational since 1971", "Area: 231.10 km²", "Pickering Museum Village: built 1800s", "Lynde Shores Conservation Area: 100 ha", "Distance from Toronto: 40 km east"],
+    },
+  },
   {
     id: "ajax-cities-v2",
     type: "city",
@@ -1532,7 +1658,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Ajax a Durham régióban fekszik az Ontario-tó partján, Pickeringtől keletre, és mintegy 130 000 lakosával a Greater Toronto Area gyorsan növekvő elővárosa. A települést a második világháború idején a hatalmas Defence Industries Limited lőszergyár köré hozták létre, amely a szövetségesek számára gyártott robbanóanyagokat. Az 'Ajax' név a HMS Ajax brit hadihajóra utal, amely 1939-ben a Río de la Plata-i csatában vált híressé. Figyelemre méltó az indo-kanadai közösség jelenléte, amely a lakosság több mint egyharmadát teszi ki. Gazdaságilag Ajax profitál a logisztikából, a kiskereskedelemből és a Toronto felé irányuló ingázásból. Földrajz K7 — háborús ipari városok és elővárosok.",
       ro: "Ajax se află în regiunea Durham, pe lacul Ontario, la est de Pickering, și, cu aproximativ 130.000 de locuitori, este o suburbie în creștere rapidă a zonei metropolitane Toronto. Localitatea a luat naștere în timpul celui de-al Doilea Război Mondial în jurul uriașei fabrici de muniție Defence Industries Limited, care producea aici explozibili pentru Aliați. Numele 'Ajax' face trimitere la HMS Ajax, o navă de război britanică devenită celebră în 1939 în bătălia de la Río de la Plata. Remarcabilă este comunitatea indo-canadiană, care reprezintă peste o treime din populație. Economic, Ajax profită de logistică, comerț cu amănuntul și navetă către Toronto. Geografie K7 — orașe industriale de război și suburbii.",
       en: "Ajax lies in Durham Region along Lake Ontario, east of Pickering, and with around 130,000 residents is a rapidly growing suburb in the Greater Toronto Area. The town arose during the Second World War around the enormous Defence Industries Limited munitions plant, which produced explosives for the Allies. The name 'Ajax' refers to HMS Ajax, a British warship that became famous at the Battle of the River Plate in 1939. The Indo-Canadian community is particularly notable, making up more than a third of the population. Economically, Ajax benefits from logistics, retail, and commuting to Toronto. Geography K7 — wartime industrial towns and suburbs."
-    }, image: "/poi-images/ajax-cities-v2.webp"},
+    }, image: "/poi-images/ajax-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 120.000", "Gründung: 1941", "Fläche: 67,09 km²", "HMS Ajax: Schlachtkreuzer der Royal Navy", "Ajax Waterfront Park: 12 ha", "Greenwood Conservation Area: 200 ha"],
+      hu: ["Népesség: kb. 120 000 (2021)", "Alapítás: 1941", "Terület: 67,09 km²", "HMS Ajax: a Brit Királyi Haditengerészet csatahajója", "Ajax Waterfront Park: 12 ha", "Greenwood Természetvédelmi Terület: 200 ha"],
+      ro: ["Populație: aprox. 120.000 (2021)", "Fondat: 1941", "Suprafață: 67,09 km²", "HMS Ajax: navă de război britanică", "Parcul Ajax Waterfront: 12 ha", "Zona de Conservare Greenwood: 200 ha"],
+      en: ["Population: approx. 120,000 (2021)", "Founded: 1941", "Area: 67.09 km²", "HMS Ajax: British Royal Navy cruiser", "Ajax Waterfront Park: 12 ha", "Greenwood Conservation Area: 200 ha"],
+    },
+  },
   {
     id: "richmond-hill-cities-v2",
     type: "city",
@@ -1552,7 +1685,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Richmond Hill a York régióban fekszik Torontótól északra, és mintegy 200 000 lakosával a Greater Toronto Area egyik legnépesebb elővárosa. A települést Charles Lennoxról, Richmond 4. hercegéről és Brit-Észak-Amerika egykori főkormányzójáról nevezték el. A Yonge Street legmagasabb pontján található a David Dunlap Obszervatórium, Kanada legnagyobb optikai távcsövével. Richmond Hill kivételesen sokszínű etnikailag, kiemelkedően nagy kínai, iráni és orosz közösségekkel. Gazdaságát a csúcstechnológia, a kutatás és a kiskereskedelem dominálja, kiegészítve egy gyorsan növekvő szolgáltató szektorral. Földrajz K7 — multikulturális elővárosok és csillagászati kutatás.",
       ro: "Richmond Hill se află în regiunea York, la nord de Toronto, și, cu aproximativ 200.000 de locuitori, este una dintre cele mai populate suburbii din zona metropolitană Toronto. Orașul a fost numit după Charles Lennox, al 4-lea duce de Richmond și guvernator general al Americii de Nord britanice. Pe cel mai înalt punct al străzii Yonge se află Observatorul David Dunlap, cu cel mai mare telescop optic din Canada. Richmond Hill este extrem de divers din punct de vedere etnic, cu comunități chineze, iraniene și ruse deosebit de numeroase. Economic, orașul se concentrează pe tehnologie de vârf, cercetare și comerț cu amănuntul. Geografie K7 — suburbii multiculturale și astronomie.",
       en: "Richmond Hill lies in York Region north of Toronto and, with around 200,000 residents, is one of the most populous suburbs in the Greater Toronto Area. The town was named after Charles Lennox, 4th Duke of Richmond and Governor General of British North America. On the highest point of Yonge Street stands the David Dunlap Observatory, home to Canada's largest optical telescope. Richmond Hill is exceptionally ethnically diverse, with especially large Chinese, Iranian, and Russian communities. The economy is focused on high technology, research, and retail. Geography K7 — multicultural suburbs and astronomy."
-    }, image: "/poi-images/richmond-hill-cities-v2.webp"},
+    }, image: "/poi-images/richmond-hill-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 202.000", "Fläche: 100,95 km²", "David Dunlap Observatory: erbaut 1935", "Höhe: 200 m", "Richmond Hill Centre gebaut 2007", "Entfernung nach Toronto: 25 km nördlich"],
+      hu: ["Népesség: kb. 202 000 (2021)", "Terület: 100,95 km²", "David Dunlap Obszervatórium: 1935-ben épült", "Tengerszint feletti magasság: 200 m", "Richmond Hill Központ: 2007-ben épült", "Távolság Torontótól: 25 km északra"],
+      ro: ["Populație: aprox. 202.000 (2021)", "Suprafață: 100,95 km²", "Observatorul David Dunlap construit în 1935", "Altitudine: 200 m", "Centrul Richmond Hill construit în 2007", "Distanța față de Toronto: 25 km nord"],
+      en: ["Population: approx. 202,000 (2021)", "Area: 100.95 km²", "David Dunlap Observatory built 1935", "Elevation: 200 m", "Richmond Hill Centre built 2007", "Distance from Toronto: 25 km north"],
+    },
+  },
   {
     id: "oakville-cities-v2",
     type: "city",
@@ -1572,7 +1712,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Oakville az Ontario-tó partján fekszik Toronto és Hamilton között a Halton régióban, és mintegy 215 000 lakosával Kanada egyik legtehetősebb városa. A település a 19. században hajóépítő és kikötővárosként jött létre, és a régiót egykor uraló nagy tölgyerdőkről nevezték el. Ma Oakville több nagy kanadai vállalat székhelye, köztük a Ford Motor Company of Canada főhadiszállása, amelynek üzeme itt gyártja a Ford Edge modellt. Híresek a festői történelmi kikötőnegyedek, Bronte és Old Oakville, valamint a Glen Abbey golfpálya, Kanada egyik legrangosabb golfklubja. Földrajz K7 — jómódú városok és autógyártás.",
       ro: "Oakville se află pe malul lacului Ontario, între Toronto și Hamilton, în regiunea Halton, și, cu circa 215.000 de locuitori, este unul dintre cele mai prospere orașe din Canada. Localitatea s-a născut în secolul al XIX-lea ca oraș portuar și de construcții navale și a fost numită după pădurile mari de stejari care defineau cândva regiunea. Astăzi, Oakville este sediul mai multor companii canadiene importante, inclusiv al Ford Motor Company of Canada, a cărei uzină produce aici modelul Ford Edge. Renumite sunt și pitoreștile cartiere portuare istorice Bronte și Old Oakville, precum și terenul de golf Glen Abbey, unul dintre cele mai prestigioase din Canada. Geografie K7 — orașe prospere și producție auto.",
       en: "Oakville lies on Lake Ontario between Toronto and Hamilton in Halton Region and, with around 215,000 residents, is one of Canada's wealthiest cities. The town began in the 19th century as a shipbuilding and harbor town and was named after the great oak forests that once defined the area. Today Oakville is the headquarters of several major Canadian companies, including Ford Motor Company of Canada, whose plant here builds the Ford Edge. The picturesque historic harbor districts of Bronte and Old Oakville are also famous, as is the Glen Abbey Golf Course, one of Canada's most prestigious courses. Geography K7 — affluent cities and automotive manufacturing."
-    }, image: "/poi-images/oakville-cities-v2.webp"},
+    }, image: "/poi-images/oakville-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 215.000", "Gründung: 1827", "Fläche: 137,07 km²", "Küstenlinie: 15 km am Ontariosee", "Ford Canada Hauptsitz in Oakville", "Bronte Creek Provincial Park: 650 ha"],
+      hu: ["Népesség: kb. 215 000 (2021)", "Alapítás: 1827", "Terület: 137,07 km²", "Tópart: 15 km az Ontario-tó mentén", "Ford Canada központ Oakville-ben", "Bronte Creek Tartományi Park: 650 ha"],
+      ro: ["Populație: aprox. 215.000 (2021)", "Fondat: 1827", "Suprafață: 137,07 km²", "Litoral: 15 km pe Lacul Ontario", "Sediu Ford Canada în Oakville", "Parcul Provincial Bronte Creek: 650 ha"],
+      en: ["Population: approx. 215,000 (2021)", "Founded: 1827", "Area: 137.07 km²", "Lake Ontario shoreline: 15 km", "Ford Canada headquarters in Oakville", "Bronte Creek Provincial Park: 650 ha"],
+    },
+  },
   {
     id: "burlington-cities-v2",
     type: "city",
@@ -1592,7 +1739,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Burlington az Ontario-tó nyugati végén fekszik, Hamilton és Oakville között, a Halton régióban, és mintegy 195 000 lakosával Kanada egyik legjobban élhető városa. Hivatalosan 1958-ban kapott városi rangot, de gyökerei a Burlington-öböl partján élt sokkal korábbi lojalista településig nyúlnak vissza. Híres a Burlington Bay James N. Allan Skyway, a Burlington-csatorna felett ívelő látványos hídja. A város a Niagara-letörés lábánál található, és otthont ad a Royal Botanical Gardens létesítménynek, Kanada egyik legjelentősebb botanikus kertjének, világhírű írisz- és orgonagyűjteménnyel. Földrajz K7 — botanikus kertek és tönkpereméleti tájak.",
       ro: "Burlington se află la capătul vestic al lacului Ontario, între Hamilton și Oakville, în regiunea Halton, și, cu circa 195.000 de locuitori, este unul dintre cele mai locuibile orașe din Canada. A obținut oficial statutul de oraș în 1958, însă originile sale duc la o așezare loialistă mult mai veche pe golful Burlington. Renumit este podul Burlington Bay James N. Allan Skyway, peste canalul Burlington. Orașul se află la poalele escarpamentului Niagara și găzduiește Royal Botanical Gardens, una dintre cele mai importante grădini botanice din Canada, cu colecții renumite de iriși și liliac. Geografie K7 — grădini botanice și peisaje de escarpament.",
       en: "Burlington lies at the western end of Lake Ontario between Hamilton and Oakville in Halton Region and, with around 195,000 residents, is one of Canada's most livable cities. Officially incorporated as a city in 1958, its roots go back to a much older Loyalist settlement on Burlington Bay. The Burlington Bay James N. Allan Skyway, a striking bridge across the Burlington Canal, is a local landmark. The city sits at the foot of the Niagara Escarpment and is home to the Royal Botanical Gardens, one of Canada's most important botanical gardens, with world-famous iris and lilac collections. Geography K7 — botanical gardens and escarpment landscapes."
-    }, image: "/poi-images/burlington-cities-v2.webp"},
+    }, image: "/poi-images/burlington-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 193.000", "Gründung: 1873", "Fläche: 187,67 km²", "Royal Botanical Gardens: 1.100 ha", "Burlington Beach: 4 km lang", "Entfernung nach Toronto: 50 km südwestlich"],
+      hu: ["Népesség: kb. 193 000 (2021)", "Alapítás: 1873", "Terület: 187,67 km²", "Royal Botanical Gardens: 1.100 ha", "Burlington Beach: 4 km hosszú", "Távolság Torontótól: 50 km délnyugatra"],
+      ro: ["Populație: aprox. 193.000 (2021)", "Fondat: 1873", "Suprafață: 187,67 km²", "Grădinile Botanice Regale: 1.100 ha", "Plaja Burlington: 4 km lungime", "Distanța față de Toronto: 50 km sud-vest"],
+      en: ["Population: approx. 193,000 (2021)", "Founded: 1873", "Area: 187.67 km²", "Royal Botanical Gardens: 1,100 ha", "Burlington Beach: 4 km long", "Distance from Toronto: 50 km southwest"],
+    },
+  },
   {
     id: "cambridge-cities-v2",
     type: "city",
@@ -1612,7 +1766,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Cambridge Dél-Ontarióban fekszik a Grand folyó partján, a Waterloo régióhoz tartozik. Mintegy 140 000 lakosával a város 1973-ban jött létre Galt, Preston és Hespeler townshipek egyesüléséből. Galt a 19. században fontos skót hatás alatti ipar- és malomközpont volt, amit a mai napig őriznek a mészkőből épült épületek. Cambridge a Toronto-Waterloo innovációs folyosó része, és számos csúcstechnológiai és gépgyártó vállalatnak ad otthont, köztük a Toyota Motor Manufacturing Canada üzemének, ahol a Lexus RX-et és a Toyota RAV4-et gyártják. Galt történelmi belvárosa Kanada egyik legszebb kőváros-képét őrzi. Földrajz K7 — ipari történelem és innovációs folyosó.",
       ro: "Cambridge se află în sudul provinciei Ontario, pe râul Grand, și face parte din regiunea Waterloo. Cu aproximativ 140.000 de locuitori, orașul a fost format în 1973 prin fuziunea cantoanelor Galt, Preston și Hespeler. Galt a fost în secolul al XIX-lea un important centru industrial și de mori, marcat puternic de influența scoțiană, fapt vizibil și astăzi prin clădirile din calcar. Cambridge face parte din coridorul de inovație Toronto-Waterloo și găzduiește numeroase companii de tehnologie și inginerie mecanică, inclusiv Toyota Motor Manufacturing Canada, a cărei uzină produce aici modelele Lexus RX și Toyota RAV4. Centrul istoric din Galt este unul dintre cele mai frumoase din Canada construite din piatră. Geografie K7 — istorie industrială și coridor de inovație.",
       en: "Cambridge lies in southern Ontario along the Grand River and is part of Waterloo Region. With around 140,000 residents, the city was formed in 1973 through the merger of the towns of Galt, Preston, and Hespeler. Galt was an important Scottish-influenced industrial and milling center in the 19th century, which is still reflected in its limestone architecture. Cambridge is part of the Toronto-Waterloo Innovation Corridor and hosts many high-tech and engineering companies, including Toyota Motor Manufacturing Canada, whose plant here produces the Lexus RX and the Toyota RAV4. The historic downtown of Galt is one of Canada's most beautiful stone-built city centers. Geography K7 — industrial history and innovation corridor."
-    }, image: "/poi-images/cambridge-cities-v2.webp"},
+    }, image: "/poi-images/cambridge-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 138.000", "Gründung: 1973 (Zusammenschluss)", "Fläche: 113,74 km²", "Grand River Länge in Ontario: 280 km", "Cambridge Butterfly Conservatory: eröffnet 2000", "Historische Galt-Preston-Straße: 2 km lang"],
+      hu: ["Népesség: kb. 138 000 (2021)", "Alapítás: 1973 (egyesítés)", "Terület: 113,74 km²", "Grand folyó hossza Ontarioban: 280 km", "Cambridge Butterfly Conservatory: 2000-ben nyílt", "Történelmi Galt-Preston út: 2 km"],
+      ro: ["Populație: aprox. 138.000 (2021)", "Fondat: 1973 (fuziune)", "Suprafață: 113,74 km²", "Lungimea râului Grand în Ontario: 280 km", "Conservatorul de Fluturi Cambridge: deschis 2000", "Strada istorică Galt-Preston: 2 km lungime"],
+      en: ["Population: approx. 138,000 (2021)", "Founded: 1973 (amalgamation)", "Area: 113.74 km²", "Grand River length in Ontario: 280 km", "Cambridge Butterfly Conservatory opened 2000", "Historic Galt-Preston Street: 2 km long"],
+    },
+  },
   {
     id: "waterloo-cities-v2",
     type: "city",
@@ -1632,7 +1793,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Waterloo Dél-Ontarióban fekszik, és a szomszédos Kitchener, Cambridge városokkal együtt alkotja a Waterloo régiót. Mintegy 125 000 lakosával a város elsősorban két világhírű felsőoktatási intézményéről ismert: a Waterloo Egyetemről, amely Kanada egyik vezető kutatóegyeteme, kiváló matematikai, informatikai és kvantumszámítástechnikai kutatással, valamint a Wilfrid Laurier Egyetemről. Waterloo a Toronto-Waterloo innovációs folyosó kulcsfontosságú helyszíne, és számos technológiai vállalat otthona, köztük a BlackBerry, az OpenText és a Shopify. Itt található a Perimeter Institute for Theoretical Physics és a Quantum-Nano Centre is. Földrajz K7 — innovációs ökoszisztémák és kvantumkutatás.",
       ro: "Waterloo se află în sudul provinciei Ontario și formează, împreună cu orașele vecine Kitchener și Cambridge, regiunea Waterloo. Cu circa 125.000 de locuitori, orașul este cunoscut mai ales pentru cele două universități de renume mondial: Universitatea Waterloo, una dintre cele mai importante universități de cercetare din Canada, cu rezultate de top în matematică, informatică și calcul cuantic, și Universitatea Wilfrid Laurier. Waterloo este un centru cheie al coridorului de inovație Toronto-Waterloo și găzduiește numeroase companii de tehnologie, printre care BlackBerry, OpenText și Shopify. Aici se află și Perimeter Institute for Theoretical Physics și Quantum-Nano Centre. Geografie K7 — ecosisteme de inovație și cercetare cuantică.",
       en: "Waterloo lies in southern Ontario and, together with the neighboring cities of Kitchener and Cambridge, forms the Waterloo Region. With around 125,000 residents, the city is best known for its two world-renowned universities: the University of Waterloo, one of Canada's leading research universities with cutting-edge work in mathematics, computer science, and quantum computing, and Wilfrid Laurier University. Waterloo is a key node of the Toronto-Waterloo Innovation Corridor and home to many technology companies, including BlackBerry, OpenText, and Shopify. The Perimeter Institute for Theoretical Physics and the Quantum-Nano Centre are also based here. Geography K7 — innovation ecosystems and quantum research."
-    }, image: "/poi-images/waterloo-cities-v2.webp"},
+    }, image: "/poi-images/waterloo-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 143.000", "University of Waterloo gegründet 1957", "Fläche: 64,50 km²", "Anzahl Technologieunternehmen: über 1.000", "Waterloo Park: 111 ha", "St. Jacobs Farmers' Market: gegründet 1975"],
+      hu: ["Népesség: kb. 143 000 (2021)", "University of Waterloo: 1957-ben alapították", "Terület: 64,50 km²", "Technológiai cégek száma: több mint 1.000", "Waterloo Park: 111 ha", "St. Jacobs Piac: 1975-ben alapították"],
+      ro: ["Populație: aprox. 143.000 (2021)", "Universitatea Waterloo fondată în 1957", "Suprafață: 64,50 km²", "Număr de companii tech: peste 1.000", "Parcul Waterloo: 111 ha", "Piața St. Jacobs fondată în 1975"],
+      en: ["Population: approx. 143,000 (2021)", "University of Waterloo founded 1957", "Area: 64.50 km²", "Number of tech companies: over 1,000", "Waterloo Park: 111 ha", "St. Jacobs Farmers' Market established 1975"],
+    },
+  },
   {
     id: "halton-hills-cities-v2",
     type: "city",
@@ -1652,7 +1820,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Halton Hills a Halton régió északi részén fekszik Ontarióban, és Georgetown valamint Acton központjai alkotják. Mintegy 65 000 lakosával a város túlnyomórészt vidéki-elővárosi jellegű, és része a Toronto körüli, állandóan védett 'Greenbelt' nevű zöldövezetnek. 1974-ben jött létre Esquesing és Trafalgar townshipek egyesüléséből. Figyelemre méltó a Niagara-letörés és a Bruce Trail, amelyek itt sűrű tölgy- és juharerdőkön át vezetnek. Gazdaságilag Halton Hills a 401-es főút mentén lévő logisztikai központokból és stabil mezőgazdasági szektorából profitál. Földrajz K7 — Greenbelt és vidéki elővárosok.",
       ro: "Halton Hills se află în nordul regiunii Halton, în Ontario, și este alcătuit din nucleele principale Georgetown și Acton. Cu aproximativ 65.000 de locuitori, orașul este preponderent rural-suburban și face parte din 'Greenbelt', centura verde permanent protejată din jurul Torontoului. Localitatea a luat naștere în 1974 prin fuziunea cantoanelor Esquesing și Trafalgar. Remarcabile sunt escarpamentul Niagara și traseul Bruce Trail, care aici trec prin păduri dense de stejar și arțar. Economic, Halton Hills profită de centrele logistice de-a lungul autostrăzii 401 și de un sector agricol stabil. Geografie K7 — Greenbelt și comune suburbane rurale.",
       en: "Halton Hills lies in the northern part of Halton Region in Ontario and is centered on the cores of Georgetown and Acton. With around 65,000 residents, the town is predominantly rural-suburban in character and forms part of the Greenbelt, the permanently protected green ring around Toronto. The municipality was created in 1974 through the merger of the townships of Esquesing and Trafalgar. The Niagara Escarpment and the Bruce Trail, which here passes through dense oak and maple forests, are notable features. Economically, Halton Hills benefits from logistics hubs along Highway 401 and a stable agricultural sector. Geography K7 — Greenbelt and rural suburban communities."
-    }, image: "/poi-images/halton-hills-cities-v2.webp"},
+    }, image: "/poi-images/halton-hills-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 61.000", "Fläche: 276,43 km²", "Bruce Trail Gesamtlänge: 885 km", "Limehouse Conservation Area: 120 ha", "Georgetown gegründet 1821", "Acton Textilfabrik: 19. Jahrhundert"],
+      hu: ["Népesség: kb. 61 000 (2021)", "Terület: 276,43 km²", "Bruce Trail teljes hossza: 885 km", "Limehouse Konzervációs Terület: 120 ha", "Georgetown alapítva: 1821", "Acton textilgyár: 19. század"],
+      ro: ["Populație: aprox. 61.000 (2021)", "Suprafață: 276,43 km²", "Lungimea totală a Traseului Bruce: 885 km", "Zona Limehouse: 120 ha", "Georgetown fondat în 1821", "Fabrica textilă Acton: secolul al XIX-lea"],
+      en: ["Population: approx. 61,000 (2021)", "Area: 276.43 km²", "Bruce Trail total length: 885 km", "Limehouse Conservation Area: 120 ha", "Georgetown founded 1821", "Acton textile mill: 19th century"],
+    },
+  },
   {
     id: "milton-cities-v2",
     type: "city",
@@ -1672,7 +1847,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Milton a Halton régióban fekszik Torontótól nyugatra, és az elmúlt évtizedben többször kiérdemelte 'Kanada leggyorsabban növekvő városa' címet. Mintegy 135 000 lakosával Milton mindössze 20 év alatt vált kis townshipből modern elővárossá, elsősorban a 401-es főút és a GO-vasút Torontóval való összeköttetésének köszönhetően. A város a Niagara-letörés lábánál fekszik, és számos pihenőhelyet kínál, mint a Kelso Conservation Area és a Mount Nemo. Gazdaságilag Milton egy hatalmas CN Rail intermodális terminálból és egy virágzó logisztikai és építőiparból profitál. Földrajz K7 — növekvő városok és logisztikai központok.",
       ro: "Milton se află în regiunea Halton, la vest de Toronto, și a fost de mai multe ori, în ultimul deceniu, cel mai rapid în creștere oraș din Canada. Cu aproximativ 135.000 de locuitori, Milton s-a transformat în doar 20 de ani dintr-un mic canton într-o suburbie modernă, mai ales datorită conexiunii cu autostrada 401 și a trenului GO către Toronto. Orașul se află la poalele escarpamentului Niagara și oferă numeroase oportunități de recreere, precum Kelso Conservation Area și Mount Nemo. Economic, Milton profită de un mare terminal intermodal CN Rail și de o industrie logistică și de construcții înfloritoare. Geografie K7 — orașe în creștere și centre logistice.",
       en: "Milton lies in Halton Region west of Toronto and has repeatedly been ranked as Canada's fastest-growing city in the past decade. With around 135,000 residents, Milton has transformed in just 20 years from a small township into a modern suburb, thanks above all to its links to Highway 401 and the GO Train to Toronto. The town sits at the foot of the Niagara Escarpment and offers many recreational areas, such as Kelso Conservation Area and Mount Nemo. Economically, Milton benefits from a massive CN Rail intermodal terminal and a thriving logistics and construction sector. Geography K7 — growth cities and logistics hubs."
-    }, image: "/poi-images/milton-cities-v2.webp"},
+    }, image: "/poi-images/milton-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 132.000", "Fläche: 269,31 km²", "Kelso Conservation Area: 200 ha", "Rattlesnake Point: 150 ha", "Hilton Falls: 10 m hoher Wasserfall", "Entfernung nach Toronto: 40 km westlich"],
+      hu: ["Népesség: kb. 132 000 (2021)", "Terület: 269,31 km²", "Kelso Konzervációs Terület: 200 ha", "Rattlesnake Point: 150 ha", "Hilton-vízesés: 10 m magas", "Távolság Torontótól: 40 km nyugatra"],
+      ro: ["Populație: aprox. 132.000 (2021)", "Suprafață: 269,31 km²", "Zona Kelso: 200 ha", "Rattlesnake Point: 150 ha", "Cascada Hilton: 10 m înălțime", "Distanța față de Toronto: 40 km vest"],
+      en: ["Population: approx. 132,000 (2021)", "Area: 269.31 km²", "Kelso Conservation Area: 200 ha", "Rattlesnake Point: 150 ha", "Hilton Falls: 10 m tall waterfall", "Distance from Toronto: 40 km west"],
+    },
+  },
   {
     id: "newmarket-cities-v2",
     type: "city",
@@ -1692,7 +1874,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Newmarket a York régióban fekszik Torontótól északra, és mintegy 90 000 lakosával a régió egyik legrégebbi települése. A várost 1801-ben kvéker lojalisták alapították, akik az Egyesült Államokból érkezve a Holland folyó mentén telepedtek le. Ma a történelmi Main Street meghatározza a város arculatát, megőrzött viktoriánus épületeivel. Newmarket az egész York régió közigazgatási központja, és fontos ingázóváros a Toronto felé közlekedő GO-vasútvonal mentén. Gazdaságát a közigazgatás, a kiskereskedelem és az oktatás dominálja. A Fairy Lake Park népszerű szabadidős célpont. Földrajz K7 — történelmi lojalista városok és regionális közigazgatás.",
       ro: "Newmarket se află în regiunea York, la nord de Toronto, și, cu aproximativ 90.000 de locuitori, este una dintre cele mai vechi așezări din regiune. Localitatea a fost fondată în 1801 de loialiști quakeri veniți din Statele Unite, care s-au stabilit de-a lungul râului Holland. Astăzi, strada principală istorică, cu clădirile sale victoriene păstrate, definește peisajul orașului. Newmarket este sediul administrativ al întregii regiuni York și un important oraș de navetă de-a lungul liniei GO Train către Toronto. Economic, dominante sunt administrația, comerțul cu amănuntul și educația. Parcul Fairy Lake oferă o zonă populară de recreere. Geografie K7 — orașe loialiste istorice și administrație regională.",
       en: "Newmarket lies in York Region north of Toronto and, with around 90,000 residents, is one of the oldest settlements in the region. The town was founded in 1801 by Quaker Loyalists from the United States who settled along the Holland River. Today, the historic Main Street with its preserved Victorian buildings defines the cityscape. Newmarket is the administrative seat of the entire York Region and an important commuter town along the GO Train line to Toronto. Administration, retail, and education dominate the local economy. Fairy Lake Park is a popular recreational area. Geography K7 — historic Loyalist towns and regional administration."
-    }, image: "/poi-images/newmarket-cities-v2.webp"},
+    }, image: "/poi-images/newmarket-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 88.000", "Fläche: 38,44 km²", "Gründung: 1801 (als Siedlung)", "Fairy Lake: 8 ha", "Newmarket Riverwalk Commons: 4 km Weg", "York Region Verwaltungssitz seit 1971"],
+      hu: ["Népesség: kb. 88 000 (2021)", "Terület: 38,44 km²", "Alapítás: 1801 (település)", "Fairy Lake: 8 ha", "Newmarket Riverwalk Commons: 4 km hosszú sétány", "York Region székhelye 1971 óta"],
+      ro: ["Populație: aprox. 88.000 (2021)", "Suprafață: 38,44 km²", "Fondat: 1801 (așezare)", "Lacul Fairy: 8 ha", "Newmarket Riverwalk Commons: 4 km de traseu", "Sediu al regiunii York din 1971"],
+      en: ["Population: approx. 88,000 (2021)", "Area: 38.44 km²", "Founded: 1801 (as settlement)", "Fairy Lake: 8 ha", "Newmarket Riverwalk Commons: 4 km trail", "York Region headquarters since 1971"],
+    },
+  },
   {
     id: "caledon-cities-v2",
     type: "city",
@@ -1712,7 +1901,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Caledon Torontótól északnyugatra fekszik a Peel régióban, és területre nézve nagy, túlnyomórészt vidéki közigazgatási egység. Mintegy 80 000 lakosával számos kis faluból áll, mint Bolton, Caledon East és Inglewood. A várost erősen meghatározza a Niagara-letörés és a 'Caledon Hills' dombsága, amely a túrázás és a szabadidős kikapcsolódás paradicsoma. Caledon a Greenbelt része, és otthont ad a Bruce Trail egyes szakaszainak, valamint számos lovardának és termelői üzletnek. Gazdaságát a mezőgazdaság, a lótenyésztés és a növekvő logisztikai szektor dominálja. Földrajz K7 — tönkpereméleti tájak és vidéki kikapcsolódás.",
       ro: "Caledon se află la nord-vest de Toronto, în regiunea Peel, și este o unitate administrativă mare ca suprafață, predominant rurală. Cu aproximativ 80.000 de locuitori, este alcătuit din numeroase sate mici, precum Bolton, Caledon East și Inglewood. Orașul este puternic marcat de escarpamentul Niagara și de dealurile 'Caledon Hills', un paradis pentru drumeții și recreere. Caledon face parte din Greenbelt și găzduiește porțiuni din Bruce Trail, precum și numeroase grajduri ecvestre și magazine de fermă. Economic, dominante sunt agricultura, creșterea cailor și un sector logistic în creștere. Geografie K7 — peisaje de escarpament și recreere rurală.",
       en: "Caledon lies northwest of Toronto in Peel Region and is a large, predominantly rural municipality. With around 80,000 residents, it consists of many small villages such as Bolton, Caledon East, and Inglewood. The town is strongly defined by the Niagara Escarpment and the rolling 'Caledon Hills', a paradise for hiking and recreation. Caledon is part of the Greenbelt and includes sections of the Bruce Trail, as well as numerous horse stables and farm shops. Agriculture, horse breeding, and a growing logistics sector dominate the economy. Geography K7 — escarpment landscapes and rural recreation."
-    }, image: "/poi-images/caledon-cities-v2.webp"},
+    }, image: "/poi-images/caledon-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl (2021): ca. 76.000", "Fläche: 688,55 km²", "Bruce Trail in Caledon: 120 km", "Cheltenham Badlands: 0,4 km²", "Caledon Equestrian Park: erbaut 2007", "Höhe: 250-400 m"],
+      hu: ["Népesség: kb. 76 000 (2021)", "Terület: 688,55 km²", "Bruce Trail szakasza Caledonban: 120 km", "Cheltenham Badlands: 0,4 km²", "Caledon Equestrian Park: 2007-ben épült", "Tengerszint feletti magasság: 250-400 m"],
+      ro: ["Populație: aprox. 76.000 (2021)", "Suprafață: 688,55 km²", "Traseul Bruce în Caledon: 120 km", "Cheltenham Badlands: 0,4 km²", "Parcul Equestrian Caledon: construit în 2007", "Altitudine: 250-400 m"],
+      en: ["Population: approx. 76,000 (2021)", "Area: 688.55 km²", "Bruce Trail through Caledon: 120 km", "Cheltenham Badlands: 0.4 km²", "Caledon Equestrian Park built 2007", "Elevation: 250-400 m"],
+    },
+  },
   {
     id: "maple-ridge-cities-v2",
     type: "city",
@@ -1732,7 +1928,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Maple Ridge a vancouveri agglomeráció keleti részén, a Fraser folyó északi partján fekszik Brit Kolumbiában. Mintegy 90 000 lakosával a várost az elővárosi lakónegyedek és a kiterjedt vidéki területek sajátos keveréke jellemzi. A Coast Mountains lábánál fekszik, és otthont ad a Golden Ears Provincial Parknak, egy hatalmas természetvédelmi területnek sűrű mérsékelt övi esőerdővel, magashegyi tavakkal és havas csúcsokkal. A város gyorsan ingázóvárossá fejlődik Vancouver felé, ugyanakkor jelentős erdőgazdálkodási, lovassport- és lótenyésztési ágazata is van. Földrajz K7 — csendes-óceáni elővárosok és természeti nemzeti parkok.",
       ro: "Maple Ridge se află în partea estică a zonei metropolitane Vancouver, pe malul nordic al râului Fraser. Cu aproximativ 90.000 de locuitori, orașul îmbină cartiere rezidențiale suburbane cu zone rurale extinse. Este situat la poalele lanțului Coast Mountains și găzduiește Parcul Provincial Golden Ears, o vastă rezervație naturală cu păduri tropicale dense, lacuri montane și vârfuri înzăpezite. Orașul se transformă rapid într-un oraș-dormitor pentru Vancouver, beneficiind în același timp de un sector important de silvicultură, sport ecvestru și creșterea cailor. Geografie K7 — suburbii pacifice și parcuri naturale.",
       en: "Maple Ridge lies in the eastern Greater Vancouver area in British Columbia, on the north shore of the Fraser River. With around 90,000 residents, the town blends growing suburban residential areas with extensive rural farmlands and forests. It sits at the foot of the Coast Mountains and is home to Golden Ears Provincial Park, a huge nature park with dense temperate rainforest, alpine lakes, and snow-capped granite peaks. The city is rapidly developing into a commuter town for Vancouver while still maintaining a significant forestry, equestrian, and horse-breeding sector. Geography K7 — Pacific suburbs and provincial nature parks."
-    }, image: "/poi-images/maple-ridge-cities-v2.webp"},
+    }, image: "/poi-images/maple-ridge-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadtfläche beträgt 267,0 km².", "Die Bevölkerungsdichte liegt bei 340 Einwohnern pro km².", "Maple Ridge wurde am 7. September 1874 gegründet.", "Die höchste Erhebung ist der Golden Ears Peak mit 1.716 m.", "Der West Coast Express verkehrt seit 1995.", "Die Kanadische Volkszählung 2021 ergab 90.253 Einwohner."],
+      hu: ["A város területe 267,0 négyzetkilométer.", "A népesség 2021-ben 90.253 fő volt.", "Az első telepesek 1874-ben érkeztek.", "A Golden Ears Provincial Park területe 62.500 hektár.", "A Fraser folyó partvonala a városban 15 km hosszú.", "Az éves átlaghőmérséklet 10,4 °C."],
+      ro: ["Suprafața orașului este de 267,0 km².", "Populația în 2021 era de 90.253 locuitori.", "Orașul a fost fondat în 1874.", "Parcul Provincial Golden Ears are o suprafață de 625 km².", "Râul Fraser are o lungime totală de 1.375 km.", "Altitudinea medie este de 45 m deasupra nivelului mării."],
+      en: ["Maple Ridge covers 267.0 km².", "Population was 90,253 in 2021.", "Incorporated in 1874.", "Golden Ears Provincial Park spans 625 km².", "Fraser River runs for 15 km along the city's southern edge.", "Elevation ranges from 10 m to 1,716 m at Golden Ears Peak."],
+    },
+  },
   {
     id: "north-vancouver-cities-v2",
     type: "city",
@@ -1752,7 +1955,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "North Vancouver két önálló közigazgatási egységből áll: a City of North Vancouver-ből és a District of North Vancouver-ből, melyek együttesen mintegy 140 000 lakosúak. A Burrard-szoros északi partján fekszenek, Vancouverrel szemben, és az ikonikus Lions Gate-híd köti össze őket a belvárossal. A régió híres látványos elhelyezkedéséről a Csendes-óceán és a Coast Mountains között, közvetlen közelében síközpontokkal, mint a Grouse Mountain, a Mount Seymour és a Cypress Mountain. A Capilano-függőhíd, Kanada egyik legismertebb függőhídja, évente több mint egymillió látogatót vonz. Gazdaságát a kikötő, a hajóépítés, a turizmus és a filmipar dominálja. Földrajz K7 — hegyvidéki városok és városi természeti környezet.",
       ro: "North Vancouver este alcătuit din City of North Vancouver și District of North Vancouver, care însumează aproximativ 140.000 de locuitori. Se află pe malul nordic al strâmtorii Burrard, vizavi de orașul Vancouver, și este conectat cu centrul prin emblematicul pod Lions Gate. Regiunea este renumită pentru poziția sa spectaculoasă, între Pacific și lanțul Coast Mountains, cu stațiuni de schi precum Grouse Mountain, Mount Seymour și Cypress Mountain în imediata apropiere. Podul suspendat Capilano, unul dintre cele mai cunoscute din Canada, atrage peste un milion de vizitatori anual. Economic, dominante sunt portul, construcția de nave, turismul și industria cinematografică. Geografie K7 — orașe montane și cadre naturale urbane.",
       en: "North Vancouver consists of the City of North Vancouver and the District of North Vancouver, which together have around 140,000 residents. They lie on the north shore of Burrard Inlet, opposite the city of Vancouver, and are linked to downtown by the iconic Lions Gate Bridge. The region is famous for its spectacular setting between the Pacific Ocean and the Coast Mountains, with ski resorts such as Grouse Mountain, Mount Seymour, and Cypress Mountain right at hand. The Capilano Suspension Bridge, one of Canada's most famous suspension bridges, attracts over a million visitors a year. The port, shipbuilding, tourism, and film industry dominate the economy. Geography K7 — mountain cities and urban natural settings."
-    }, image: "/poi-images/north-vancouver-cities-v2.webp"},
+    }, image: "/poi-images/north-vancouver-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadtfläche beträgt 11,85 km².", "Die Einwohnerzahl liegt bei 54.010 (2021).", "North Vancouver (City) wurde am 10. Mai 1907 gegründet.", "Die Lynn Canyon Hängebrücke ist 50 m lang.", "Die Lonsdale Quay Market eröffnete 1989.", "Der SeaBus verkehrt seit 1977."],
+      hu: ["A város területe 11,85 négyzetkilométer.", "A lakosság 2021-ben 54 010 fő volt.", "Alapítás éve: 1907.", "A Lynn Canyon Park területe 250 hektár.", "A Lions Gate híd hossza 1,5 km.", "A Burrard Inlet mélysége átlagosan 20 m."],
+      ro: ["Suprafața orașului este de 11,85 km².", "Populația: 54.010 locuitori (2021).", "Orașul a fost încorporat în 1907.", "Podul suspendat Lynn Canyon are o lungime de 50 m.", "SeaBus a început operarea în 1977.", "Altitudinea maximă este de 150 m."],
+      en: ["Area: 11.85 km².", "Population: 54,010 (2021 census).", "Incorporated in 1907.", "Lynn Canyon suspension bridge is 50 m long.", "SeaBus ferry service started in 1977.", "Elevation ranges from sea level to 150 m."],
+    },
+  },
   {
     id: "delta-cities-v2",
     type: "city",
@@ -1772,7 +1982,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Delta a vancouveri agglomeráció déli részén, a Fraser folyó torkolati deltájában fekszik Brit Kolumbiában, és három önálló közösségből áll: Ladner, Tsawwassen és North Delta. Mintegy 110 000 lakosával a város kifejezetten termékeny mezőgazdasági talajairól ismert, amelyek a régió friss zöldségeinek nagy részét adják. Tsawwassenben található a BC Ferries fő kompkikötője, amely Vancouver-szigetre, a Sunshine Coastra és a Gulf-szigetekre közlekedik. A Boundary-öböl egyúttal a csendes-óceáni partvidék egyik legfontosabb madármegfigyelő helye, több mint 270 madárfajjal és nemzetközi védettség alatt. Földrajz K7 — torkolati mezőgazdaság és madárvonulás.",
       ro: "Delta se află în partea sudică a zonei metropolitane Vancouver, în delta râului Fraser, și este alcătuit din trei comunități distincte: Ladner, Tsawwassen și North Delta. Cu aproximativ 110.000 de locuitori, orașul este cunoscut pentru solurile sale agricole fertile, care furnizează o mare parte din legumele proaspete ale regiunii. La Tsawwassen se află principalul terminal feribot al BC Ferries, cu rute către insula Vancouver, Sunshine Coast și insulele Gulf. Golful Boundary este și unul dintre cele mai importante puncte de observare a păsărilor de pe coasta Pacificului, cu peste 270 de specii. Geografie K7 — agricultura de deltă și migrația păsărilor.",
       en: "Delta lies in the southern Greater Vancouver area at the mouth of the Fraser River and consists of three distinct communities: Ladner, Tsawwassen, and North Delta. With around 110,000 residents, the city is known for its fertile farmland, which produces much of the region's fresh vegetables. Tsawwassen is home to the main BC Ferries terminal, with routes to Vancouver Island, the Sunshine Coast, and the Gulf Islands. Boundary Bay is also one of the most important birdwatching sites along the Pacific coast, with more than 270 bird species recorded. Geography K7 — delta agriculture and bird migration."
-    }, image: "/poi-images/delta-cities-v2.webp"},
+    }, image: "/poi-images/delta-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Fläche beträgt 183,7 km².", "Einwohner: 110.006 (2021).", "Delta wurde am 10. Juni 1879 gegründet.", "Die Burns Bog erstreckt sich über 3.000 Hektar.", "Der Tsawwassen Ferry Terminal wurde 1960 eröffnet.", "Der Fraser River ist an der Mündung 2 km breit."],
+      hu: ["A város területe 183,7 négyzetkilométer.", "Népesség: 110 006 fő (2021).", "Alapítás éve: 1879.", "A Burns Bog területe 3000 hektár.", "A Tsawwassen kompterminál 1960-ban nyílt meg.", "A Fraser folyó deltája 1000 km²-es."],
+      ro: ["Suprafața: 183,7 km².", "Populație: 110.006 locuitori (2021).", "Fondat în 1879.", "Burns Bog are 3.000 ha.", "Terminalul de feribot Tsawwassen a fost deschis în 1960.", "Altitudinea medie este de 10 m."],
+      en: ["Area: 183.7 km².", "Population: 110,006 (2021 census).", "Incorporated in 1879.", "Burns Bog covers 3,000 hectares.", "Tsawwassen Ferry Terminal opened in 1960.", "Fraser River delta spans 1,000 km²."],
+    },
+  },
   {
     id: "victoriaville-cities-v2",
     type: "city",
@@ -1792,7 +2009,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Victoriaville a Centre-du-Québec régióban fekszik Montreal és Québec City között, hozzávetőleg félúton, és mintegy 47 000 lakosával a MRC d'Arthabaska gazdasági központja. A települést Viktória királynőről nevezték el, és erős hagyományokkal rendelkezik a bútor- és faipari ágazatban. A városban található Kanada egyik legnagyobb hokimúzeuma — Wilfrid Laurier korábbi kanadai miniszterelnök a közeli Saint-Lin-Laurentides-ban született, és szülőháza ma nemzeti történelmi emlékhely és múzeum. Gazdasága a sportszergyártásból (különösen korcsolyagyártás) és az élelmiszer-feldolgozásból is jelentősen profitál. Földrajz K7 — bútoripar és vidéki iparvárosok.",
       ro: "Victoriaville se află în regiunea Centre-du-Québec, între Montreal și Québec City, și, cu aproximativ 47.000 de locuitori, este centrul economic al MRC d'Arthabaska. Orașul a fost numit după regina Victoria și are o tradiție puternică în industria mobilei și a prelucrării lemnului. Aici se află și unul dintre cele mai mari muzee de hochei din Canada — fostul prim-ministru Wilfrid Laurier s-a născut în apropiata Saint-Lin-Laurentides, iar casa sa natală este astăzi muzeu național. Economic, Victoriaville profită și de producția de articole sportive (patine) și de procesarea alimentelor. Geografie K7 — producție de mobilă și orașe industriale rurale.",
       en: "Victoriaville lies in the Centre-du-Québec region between Montreal and Québec City and, with around 47,000 residents, is the economic center of the MRC d'Arthabaska. The town was named after Queen Victoria and has a strong tradition in the furniture and wood-processing industries. The city is also home to one of Canada's largest hockey museums — former Prime Minister Wilfrid Laurier was born in nearby Saint-Lin-Laurentides, where his birthplace is now a National Historic Site. Economically, Victoriaville also benefits from sporting goods manufacturing (skate production) and food processing. Geography K7 — furniture manufacturing and rural industrial towns."
-    }, image: "/poi-images/victoriaville-cities-v2.webp"},
+    }, image: "/poi-images/victoriaville-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadtfläche beträgt 83,5 km².", "Einwohner: 47.014 (2021).", "Victoriaville wurde am 1. Juli 1861 gegründet.", "Das Musée Laurier wurde 1932 eröffnet.", "Der Fluss Nicolet ist 140 km lang.", "Die Höhe über dem Meeresspiegel beträgt 135 m."],
+      hu: ["Terület: 83,5 km².", "Népesség: 47 014 fő (2021).", "Alapítás éve: 1861.", "A Musée Laurier 1932-ben nyílt meg.", "A Nicolet folyó hossza 140 km.", "Az évi átlaghőmérséklet 6,2 °C."],
+      ro: ["Suprafața: 83,5 km².", "Populație: 47.014 (2021).", "Fondat în 1861.", "Musée Laurier a fost deschis în 1932.", "Râul Nicolet are o lungime de 140 km.", "Altitudinea: 135 m."],
+      en: ["Area: 83.5 km².", "Population: 47,014 (2021).", "Incorporated in 1861.", "Musée Laurier opened in 1932.", "Nicolet River length: 140 km.", "Elevation: 135 m above sea level."],
+    },
+  },
   {
     id: "salaberry-de-valleyfield-cities-v2",
     type: "city",
@@ -1812,7 +2036,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Salaberry-de-Valleyfield a Saint-François-tó mentén fekszik, amely a Szent Lőrinc folyó kiszélesedő szakasza, Montrealtól délnyugatra a Montérégie régióban. Mintegy 42 000 lakosával a város a MRC Beauharnois-Salaberry központja. 1845-ben alapították, és Charles-Michel d'Irumberry de Salaberry-ről, az 1812-es háború hőséről nevezték el. A városban fontos belvízi kikötő található a Szent Lőrinc-tengeri út mentén, és ismert az évente megrendezett International Powerboat Regattas versenyekről. Gazdaságát a nehézipar, az alumíniumfeldolgozás és a logisztika dominálja. Földrajz K7 — belvízi kikötők és vízisport-városok.",
       ro: "Salaberry-de-Valleyfield se află pe lacul Saint-François, o porțiune lărgită a fluviului Saint-Laurent, la sud-vest de Montreal, în regiunea Montérégie. Cu aproximativ 42.000 de locuitori, orașul este centrul MRC Beauharnois-Salaberry. A fost fondat în 1845 și numit după Charles-Michel d'Irumberry de Salaberry, erou al războiului din 1812. Orașul deține un port interior important pe canalul Saint-Laurent și este renumit pentru International Powerboat Regattas, organizate anual. Economic, dominante sunt industria grea, prelucrarea aluminiului și logistica. Geografie K7 — porturi interioare și orașe ale sporturilor nautice.",
       en: "Salaberry-de-Valleyfield lies along Lac Saint-François, a widening of the St. Lawrence River, southwest of Montreal in the Montérégie region of Québec. With around 42,000 residents, the city is the administrative and economic center of the MRC Beauharnois-Salaberry. It was founded in 1845 and named after Charles-Michel d'Irumberry de Salaberry, a French-Canadian hero of the War of 1812. The city has an important inland port along the St. Lawrence Seaway and is famous for the annual International Powerboat Regattas. Heavy industry, aluminum processing, and logistics dominate the local economy. Geography K7 — inland ports and water sports cities."
-    }, image: "/poi-images/salaberry-de-valleyfield-cities-v2.webp"},
+    }, image: "/poi-images/salaberry-de-valleyfield-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Fläche: 106,0 km².", "Einwohner: 41.259 (2021).", "Gründung: 1874.", "Der Canal de Beauharnois ist 24 km lang.", "Die Stadt liegt auf 46 m Höhe.", "Die Saint-François-Inseln erstrecken sich über 3 km."],
+      hu: ["Terület: 106 km².", "Lakosság: 41 259 fő (2021).", "Alapítás: 1874.", "A Beauharnois-csatorna hossza 24 km.", "Tengerszint feletti magasság: 46 m.", "A Szent Lőrinc-folyó itt szélessége 1,5 km."],
+      ro: ["Suprafața: 106 km².", "Populație: 41.259 (2021).", "Fondat în 1874.", "Canalul Beauharnois are 24 km lungime.", "Altitudinea: 46 m.", "Lacul Saint-François are o suprafață de 26 km²."],
+      en: ["Area: 106 km².", "Population: 41,259 (2021).", "Incorporated in 1874.", "Beauharnois Canal is 24 km long.", "Elevation: 46 m.", "Lac Saint-François covers 26 km²."],
+    },
+  },
   {
     id: "saint-jerome-cities-v2",
     type: "city",
@@ -1832,7 +2063,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Saint-Jérôme körülbelül 50 kilométerre északnyugatra fekszik Montrealtól Québec tartomány Laurentides régiójában. Mintegy 80 000 lakosával a régió székhelye, és a 'Laurentides kapujaként' is emlegetik, mely az északi kedvelt természeti üdülőhely. A várost a 19. században Antoine Labelle katolikus pap támogatásával fejlesztették, aki aktívan ösztönözte a Laurentides kolonizációját. Ma Saint-Jérôme fontos oktatási központ a Université du Québec en Outaouais kihelyezett tagozatával és a Cégep de Saint-Jérôme intézménnyel. Gazdaságát az oktatás, az egészségügy és a turizmus uralja. Földrajz K7 — kapu a hegyekhez és oktatási központok.",
       ro: "Saint-Jérôme se află la aproximativ 50 de kilometri nord-vest de Montreal, în regiunea Laurentides a provinciei Québec. Cu aproximativ 80.000 de locuitori, este capitala regiunii cu același nume și este considerat 'poarta către Laurentides', renumita zonă de recreere naturală din nord. Orașul a fost dezvoltat în secolul al XIX-lea cu sprijinul preotului catolic Antoine Labelle, care a promovat activ colonizarea Laurentides. Astăzi, Saint-Jérôme este un important centru educațional, cu o filială a Université du Québec en Outaouais și cu Cégep de Saint-Jérôme. Economic, dominante sunt educația, sănătatea și turismul. Geografie K7 — poartă spre munți și centre educaționale.",
       en: "Saint-Jérôme lies about 50 kilometers northwest of Montreal in the Laurentides region of Québec. With around 80,000 residents, it is the capital of the Laurentides region and is known as the 'Gateway to the Laurentides', the popular natural recreation area to the north. The town was promoted in the 19th century by Antoine Labelle, a Catholic priest who actively encouraged the colonization of the Laurentides. Today Saint-Jérôme is an important education center, with a branch of the Université du Québec en Outaouais and the Cégep de Saint-Jérôme. Education, healthcare, and tourism dominate the economy. Geography K7 — gateways to the mountains and education hubs."
-    }, image: "/poi-images/saint-jerome-cities-v2.webp"},
+    }, image: "/poi-images/saint-jerome-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Fläche: 90,0 km².", "Einwohner: 80.213 (2021).", "Gründung: 1836.", "Das Théâtre Gilles-Vigneault hat 800 Plätze.", "Der Rivière du Nord ist 130 km lang.", "Die Höhe liegt bei 100 m."],
+      hu: ["Terület: 90 km².", "Lakosság: 80 213 fő (2021).", "Alapítás: 1836.", "A Gilles-Vigneault Színház 800 férőhelyes.", "A Rivière du Nord hossza 130 km.", "Tengerszint feletti magasság: 100 m."],
+      ro: ["Suprafața: 90 km².", "Populație: 80.213 (2021).", "Fondat în 1836.", "Teatrul Gilles-Vigneault are 800 de locuri.", "Râul Rivière du Nord are 130 km lungime.", "Altitudinea: 100 m."],
+      en: ["Area: 90 km².", "Population: 80,213 (2021).", "Incorporated in 1836.", "Théâtre Gilles-Vigneault seats 800.", "Rivière du Nord is 130 km long.", "Elevation: 100 m."],
+    },
+  },
   {
     id: "shawinigan-cities-v2",
     type: "city",
@@ -1852,7 +2090,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Shawinigan a Saint-Maurice folyó mentén fekszik a Mauricie régióban, körülbelül félúton Montreal és Québec City között. Mintegy 50 000 lakosával hagyományos iparváros, amely a 20. század elején a bőséges vízenergia révén Kanada egyik legfontosabb alumínium-, vegyi- és papíripari központjává vált. A híres Shawinigan-vízesés több vízerőművet hajt, amelyek máig működnek. A város Jean Chrétien volt kanadai miniszterelnök szülőhelye. Ma Shawinigan a turizmusra épít a Cité de l'énergie ipari tematikus parkkal és a Saint-Maurice folyó menti természeti látnivalókkal. Földrajz K7 — vízenergia és posztindusztriális átalakulás.",
       ro: "Shawinigan se află pe râul Saint-Maurice, în regiunea Mauricie, aproximativ la jumătatea drumului dintre Montreal și Québec City. Cu aproximativ 50.000 de locuitori, este un oraș industrial tradițional, care la începutul secolului al XX-lea, datorită hidroenergiei abundente, a devenit unul dintre cele mai importante centre pentru industria aluminiului, chimică și a hârtiei din Canada. Renumitele cascade Shawinigan alimentează mai multe hidrocentrale, în funcțiune și astăzi. Orașul este locul de naștere al fostului prim-ministru canadian Jean Chrétien. Astăzi, Shawinigan pariază pe turism, cu Cité de l'énergie, parc tematic industrial, și atracții naturale de-a lungul râului Saint-Maurice. Geografie K7 — hidroenergie și transformare postindustrială.",
       en: "Shawinigan lies along the Saint-Maurice River in the Mauricie region, about halfway between Montreal and Québec City. With around 50,000 residents, it is a traditional industrial city that became one of Canada's most important centers for aluminum, chemicals, and paper in the early 20th century thanks to abundant hydropower. The famous Shawinigan Falls power several hydroelectric plants that still operate today. The city is the birthplace of former Canadian Prime Minister Jean Chrétien. Today Shawinigan focuses on tourism, with the Cité de l'énergie industrial theme park and natural attractions along the Saint-Maurice River. Geography K7 — hydropower and post-industrial transformation."
-    }, image: "/poi-images/shawinigan-cities-v2.webp"},
+    }, image: "/poi-images/shawinigan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Fläche: 733,0 km².", "Einwohner: 50.012 (2021).", "Gründung: 1852.", "Der Shawinigan Falls Wasserfall ist 42 m hoch.", "Die Cité de l'Énergie wurde 2002 eröffnet.", "Der Saint-Maurice-Fluss ist 563 km lang."],
+      hu: ["Terület: 733 km².", "Lakosság: 50 012 fő (2021).", "Alapítás: 1852.", "A Shawinigan-vízesés magassága 42 m.", "A Cité de l'Énergie 2002-ben nyílt meg.", "A Saint-Maurice folyó hossza 563 km."],
+      ro: ["Suprafața: 733 km².", "Populație: 50.012 (2021).", "Fondat în 1852.", "Cascada Shawinigan Falls are 42 m înălțime.", "Cité de l'Énergie s-a deschis în 2002.", "Râul Saint-Maurice are 563 km lungime."],
+      en: ["Area: 733 km².", "Population: 50,012 (2021).", "Incorporated in 1852.", "Shawinigan Falls is 42 m high.", "Cité de l'Énergie opened in 2002.", "Saint-Maurice River is 563 km long."],
+    },
+  },
   {
     id: "rimouski-cities-v2",
     type: "city",
@@ -1872,7 +2117,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Rimouski a Szent Lőrinc folyó déli partján fekszik a Bas-Saint-Laurent régióban, Québec Citytől keletre. Mintegy 50 000 lakosával a keleti Szent Lőrinc-régió gazdasági és kulturális központja. A városban működik a Université du Québec à Rimouski és a rangos Institut maritime du Québec, amely tengerésztiszteket és tengerkutatókat képez. Híres látnivalója a Site historique maritime de la Pointe-au-Père, az Empress of Ireland Múzeummal, amely az 1914-es tragédiát idézi fel, amikor több mint 1000 ember vesztette életét — Kanada történetének legnagyobb békeidős hajószerencsétlensége. Földrajz K7 — tengerészeti oktatás és atlanti történelem.",
       ro: "Rimouski se află pe malul sudic al fluviului Saint-Laurent, în regiunea Bas-Saint-Laurent, la est de Québec City. Cu aproximativ 50.000 de locuitori, este centrul economic și cultural al regiunii estice Saint-Laurent. Orașul găzduiește Université du Québec à Rimouski și prestigiosul Institut maritime du Québec, unde sunt formați ofițeri navali și cercetători marini. Renumit este și Site historique maritime de la Pointe-au-Père, cu muzeul Empress of Ireland, care comemorează tragedia din 1914, când peste 1.000 de oameni și-au pierdut viața — cel mai mare dezastru naval în timp de pace din istoria Canadei. Geografie K7 — educație maritimă și istorie atlantică.",
       en: "Rimouski lies on the south shore of the St. Lawrence River in the Bas-Saint-Laurent region, east of Québec City. With around 50,000 residents, it is the economic and cultural center of the eastern St. Lawrence region. The city is home to the Université du Québec à Rimouski and the renowned Institut maritime du Québec, which trains naval officers and marine scientists. The Site historique maritime de la Pointe-au-Père and its Empress of Ireland Museum commemorate the 1914 tragedy in which more than 1,000 people died — the largest peacetime maritime disaster in Canadian history. Geography K7 — maritime education and Atlantic history."
-    }, image: "/poi-images/rimouski-cities-v2.webp"},
+    }, image: "/poi-images/rimouski-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Fläche: 340,0 km².", "Einwohner: 48.134 (2021).", "Gründung: 1696.", "Die Université du Québec à Rimouski wurde 1969 gegründet.", "Der Rimouski-Fluss ist 60 km lang.", "Die Stadt liegt auf 25 m Höhe."],
+      hu: ["Terület: 340 km².", "Lakosság: 48 134 fő (2021).", "Alapítás: 1696.", "A Québec-i Egyetem rimouski kampuszát 1969-ben alapították.", "A Rimouski folyó hossza 60 km.", "Tengerszint feletti magasság: 25 m."],
+      ro: ["Suprafața: 340 km².", "Populație: 48.134 (2021).", "Fondat în 1696.", "Université du Québec à Rimouski a fost fondată în 1969.", "Râul Rimouski are 60 km lungime.", "Altitudinea: 25 m."],
+      en: ["Area: 340 km².", "Population: 48,134 (2021).", "Founded in 1696.", "Université du Québec à Rimouski established in 1969.", "Rimouski River is 60 km long.", "Elevation: 25 m."],
+    },
+  },
   {
     id: "swift-current-cities-v2",
     type: "city",
@@ -1892,7 +2144,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Swift Current Saskatchewan délnyugati részén fekszik a Swift Current-patak mentén, körülbelül félúton Regina és Alberta tartomány határa között a Trans-Canada Highway mentén. Mintegy 17 000 lakosával fontos ellátási központ a környező préri régiók számára. A települést 1907-ben alapították a Canadian Pacific vasútvonal mentén, és ma a lóversenypályájáról és az évente megrendezett Frontier Days Rodeo eseményről ismert. Gazdaságát a mezőgazdaság (búza, lencse), a földgázkitermelés és a kiskereskedelem dominálja. A Mennonite Heritage Village az 1920-as évektől itt letelepedett orosz-mennonita bevándorlókra emlékeztet. Földrajz K7 — préri ellátási központok és migrációs történelem.",
       ro: "Swift Current se află în sud-vestul provinciei Saskatchewan, pe pârâul Swift Current, aproximativ la jumătatea drumului dintre Regina și granița cu Alberta, de-a lungul Trans-Canada Highway. Cu aproximativ 17.000 de locuitori, este un important centru de aprovizionare pentru regiunile preriilor înconjurătoare. Localitatea a fost fondată în 1907 de-a lungul căii ferate Canadian Pacific Railway și este cunoscută astăzi pentru hipodromul său și pentru Frontier Days Rodeo, organizat anual. Economic, dominante sunt agricultura (grâu, linte), extracția gazelor naturale și comerțul cu amănuntul. Mennonite Heritage Village amintește de imigranții ruși-mennoniți care s-au stabilit aici începând cu anii 1920. Geografie K7 — centre-suport ale preriei și istoria migrației.",
       en: "Swift Current lies in southwestern Saskatchewan along Swift Current Creek, roughly halfway between Regina and the Alberta border along the Trans-Canada Highway. With around 17,000 residents, it is an important supply center for the surrounding prairie regions. The town was founded in 1907 along the Canadian Pacific Railway and is known today for its racetrack and the annual Frontier Days Rodeo. Agriculture (wheat, lentils), natural gas extraction, and retail dominate the economy. The Mennonite Heritage Village commemorates the Russian-Mennonite immigrants who settled here from the 1920s onward. Geography K7 — prairie supply centers and migration history."
-    }, image: "/poi-images/swift-current-cities-v2.webp"},
+    }, image: "/poi-images/swift-current-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Fläche: 24,0 km².", "Einwohner: 17.358 (2021).", "Gründung: 1883.", "Der Trans-Canada Highway ist 7.821 km lang.", "Der Swift Current Creek ist 50 km lang.", "Die Höhe liegt bei 817 m."],
+      hu: ["Terület: 24 km².", "Lakosság: 17 358 fő (2021).", "Alapítás: 1883.", "A Trans-Canada Highway hossza 7821 km.", "A Swift Current Creek hossza 50 km.", "Tengerszint feletti magasság: 817 m."],
+      ro: ["Suprafața: 24 km².", "Populație: 17.358 (2021).", "Fondat în 1883.", "Autostrada Trans-Canada are 7.821 km.", "Pârâul Swift Current Creek are 50 km lungime.", "Altitudinea: 817 m."],
+      en: ["Area: 24 km².", "Population: 17,358 (2021).", "Incorporated in 1883.", "Trans-Canada Highway length: 7,821 km.", "Swift Current Creek length: 50 km.", "Elevation: 817 m."],
+    },
+  },
   {
     id: "yorkton-cities-v2",
     type: "city",
@@ -1912,7 +2171,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Yorkton Saskatchewan keleti részén fekszik, körülbelül 190 kilométerre északkeletre Reginától, és mintegy 17 000 lakosával a tartomány egyik legrégebbi ellátási központja. A települést az 1880-as években alapították, és az ontarioi York megyéről nevezték el, ahonnan a kezdeti telepesek közül sokan származtak. Yorkton híres az ukrán-kanadai kultúráról, amit számos ortodox templom, néptánccsoport és az évente megrendezett Vesna Fesztivál is bizonyít. Gazdaságában a repcefeldolgozás (étkezési olaj) dominál — az itt működő Richardson Oilseed üzem Kanada egyik legnagyobbja. Földrajz K7 — ukrán-kanadaiak és repce-feldolgozás.",
       ro: "Yorkton se află în estul provinciei Saskatchewan, la aproximativ 190 de kilometri nord-est de Regina, și, cu circa 17.000 de locuitori, este unul dintre cele mai vechi centre de aprovizionare din provincie. Localitatea a fost fondată în anii 1880 și numită după comitatul York din Ontario, locul de origine al multor coloniști timpurii. Yorkton este cunoscut pentru bogata sa cultură ucraineană-canadiană, reflectată în numeroase biserici ortodoxe, grupuri de dansuri populare și festivalul anual Vesna. Economic, dominantă este procesarea rapiței pentru ulei comestibil — uzina Richardson Oilseed este una dintre cele mai mari din Canada. Geografie K7 — ucraineni-canadieni și prelucrarea rapiței.",
       en: "Yorkton lies in eastern Saskatchewan, about 190 kilometers northeast of Regina, and with around 17,000 residents is one of the province's oldest service centers for the surrounding agricultural region. The town was founded in the 1880s and named after York County in Ontario, the original home of many early settlers. Yorkton is widely known for its rich Ukrainian-Canadian culture, reflected in numerous Orthodox churches, folk dance ensembles, and the annual Vesna Festival. Economically, canola processing dominates today — the Richardson Oilseed plant here is among the largest of its kind in Canada. Geography K7 — Ukrainian Canadians and canola processing on the prairies."
-    }, image: "/poi-images/yorkton-cities-v2.webp"},
+    }, image: "/poi-images/yorkton-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Fläche: 25,0 km².", "Einwohner: 16.120 (2021).", "Gründung: 1882.", "Die Yorkton Exhibition findet seit 1893 statt.", "Der Yorkton Creek ist 30 km lang.", "Die Höhe liegt bei 498 m."],
+      hu: ["Terület: 25 km².", "Lakosság: 16 120 fő (2021).", "Alapítás: 1882.", "A Yorkton Exhibition-t 1893 óta rendezik meg.", "A Yorkton Creek hossza 30 km.", "Tengerszint feletti magasság: 498 m."],
+      ro: ["Suprafața: 25 km².", "Populație: 16.120 (2021).", "Fondat în 1882.", "Yorkton Exhibition are loc din 1893.", "Pârâul Yorkton Creek are 30 km lungime.", "Altitudinea: 498 m."],
+      en: ["Area: 25 km².", "Population: 16,120 (2021).", "Incorporated in 1882.", "Yorkton Exhibition has been held since 1893.", "Yorkton Creek is 30 km long.", "Elevation: 498 m."],
+    },
+  },
   {
     id: "north-battleford-cities-v2",
     type: "city",
@@ -1932,7 +2198,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "North Battleford Saskatchewan nyugati részén fekszik az North Saskatchewan folyó északi partján, a testvérvárossal, Battleforddal szemben. Mintegy 14 000 lakosával fontos regionális szolgáltató központ. A régió jelentős történelmi szerepet játszott az egykori Northwest Territories fővárosaként (1876-1883), mielőtt ezt a funkciót Reginába helyezték át. Ma North Battleford a Western Development Museumról ismert, amely a préri pionírok történetét dokumentálja, valamint a környező cree és métis őslakos közösségekről. Gazdaságát a mezőgazdaság, a kiskereskedelem és az északi rezervátumok ellátása dominálja. Földrajz K7 — préri közigazgatási történelem és őslakos közösségek.",
       ro: "North Battleford se află în vestul provinciei Saskatchewan, pe malul nordic al râului North Saskatchewan, vizavi de orașul-soră Battleford. Cu aproximativ 14.000 de locuitori, este un important centru regional de servicii. Regiunea a avut un rol istoric semnificativ ca fostă capitală a teritoriilor nord-vestice (1876-1883), înainte ca această funcție să fie mutată la Regina. Astăzi, North Battleford este cunoscut pentru Western Development Museum, care documentează istoria pionierilor preriei, și pentru comunitățile indigene cree și métis din împrejurimi. Economic, dominante sunt agricultura, comerțul cu amănuntul și aprovizionarea rezervațiilor nordice. Geografie K7 — istoria administrativă a preriei și comunități indigene.",
       en: "North Battleford lies in western Saskatchewan on the north shore of the North Saskatchewan River, opposite its sister town Battleford. With around 14,000 residents, it is an important regional service center. The area played a significant historical role as the former capital of the Northwest Territories (1876-1883), before that function was moved to Regina. Today North Battleford is known for the Western Development Museum, which documents the prairie pioneers' history, and for the Cree and Métis Indigenous communities in the surrounding region. Agriculture, retail, and supply to the northern reserves dominate the economy. Geography K7 — prairie administrative history and Indigenous communities."
-    }, image: "/poi-images/north-battleford-cities-v2.webp"},
+    }, image: "/poi-images/north-battleford-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Fläche: 34,0 km².", "Einwohner: 14.315 (2021).", "Gründung: 1906.", "Der North Saskatchewan River ist 1.287 km lang.", "Der Saskatchewan Hospital wurde 1913 eröffnet.", "Die Höhe liegt bei 518 m."],
+      hu: ["Terület: 34 km².", "Lakosság: 14 315 fő (2021).", "Alapítás: 1906.", "A North Saskatchewan folyó hossza 1287 km.", "A Saskatchewan Kórház 1913-ban nyílt meg.", "Tengerszint feletti magasság: 518 m."],
+      ro: ["Suprafața: 34 km².", "Populație: 14.315 (2021).", "Fondat în 1906.", "Râul North Saskatchewan are 1.287 km lungime.", "Spitalul Saskatchewan s-a deschis în 1913.", "Altitudinea: 518 m."],
+      en: ["Area: 34 km².", "Population: 14,315 (2021).", "Incorporated in 1906.", "North Saskatchewan River is 1,287 km long.", "Saskatchewan Hospital opened in 1913.", "Elevation: 518 m."],
+    },
+  },
   {
     id: "lloydminster-cities-v2",
     type: "city",
@@ -1952,7 +2225,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Lloydminster egyedülálló város, amely pontosan Alberta és Saskatchewan tartomány határvonalán fekszik. Mintegy 32 000 lakosával Kanada egyetlen olyan városa, amely hivatalosan két tartományhoz tartozik, ám egységes közigazgatást kap. A települést 1903-ban a Barr Colonists nevű brit telepescsoport alapította, és George Lloyd tiszteletes után nevezte el. Gazdaságát a nehézkőolaj-ipar uralja: a Husky Energy (ma Cenovus) nagy nehézolaj-finomítót és upgrader-üzemet működtet itt. A város kettős identitása sajátos közigazgatási furcsaságokat eredményez — például egész Lloydmister területén Alberta forgalmi adókulcsa érvényes. Földrajz K7 — tartományhatárok és nehézkőolaj-ipar.",
       ro: "Lloydminster este un oraș unic, situat exact pe granița dintre Alberta și Saskatchewan. Cu aproximativ 32.000 de locuitori, este singurul oraș din Canada care aparține oficial a două provincii, având însă o administrație unitară. Localitatea a luat naștere în 1903 ca așezare britanică a coloniștilor Barr și a fost numită după Reverendul George Lloyd. Economic, dominantă este industria petrolului greu: Husky Energy (azi Cenovus) operează aici o mare rafinărie de petrol greu și o unitate de prelucrare. Dubla identitate a orașului generează particularități administrative — de exemplu, cota TVA din Alberta se aplică pe întreg teritoriul orașului. Geografie K7 — granițe provinciale și industria petrolului greu.",
       en: "Lloydminster is a unique city straddling exactly the border between Alberta and Saskatchewan. With around 32,000 residents, it is the only city in Canada that officially belongs to two provinces yet has a single unified administration. The town was founded in 1903 as a British settlement by the Barr Colonists and named after Reverend George Lloyd. The heavy oil industry dominates the economy: Husky Energy (now Cenovus) operates a major heavy oil refinery and upgrader here. The city's dual identity creates administrative quirks — for example, Alberta's sales tax rate applies across the entire city. Geography K7 — provincial borders and heavy oil industry."
-    }, image: "/poi-images/lloydminster-cities-v2.webp"},
+    }, image: "/poi-images/lloydminster-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Fläche: 42,0 km².", "Einwohner: 31.582 (2021).", "Gründung: 1903.", "Die Stadt liegt auf 645 m Höhe.", "Der Lloydminster Airport hat eine Startbahn von 1.829 m Länge.", "Die Ölindustrie begann 1938 in der Region."],
+      hu: ["Terület: 42 km².", "Lakosság: 31 582 fő (2021).", "Alapítás: 1903.", "Tengerszint feletti magasság: 645 m.", "A Lloydminster repülőtér kifutópályája 1829 m hosszú.", "Az olajkitermelés 1938-ban kezdődött a környéken."],
+      ro: ["Suprafața: 42 km².", "Populație: 31.582 (2021).", "Fondat în 1903.", "Altitudinea: 645 m.", "Pista aeroportului Lloydminster are 1.829 m lungime.", "Industria petrolieră a început în 1938 în regiune."],
+      en: ["Area: 42 km².", "Population: 31,582 (2021).", "Incorporated in 1903.", "Elevation: 645 m.", "Lloydminster Airport runway length: 1,829 m.", "Oil industry began in the region in 1938."],
+    },
+  },
   {
     id: "corner-brook-cities-v2",
     type: "city",
@@ -1972,7 +2252,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Corner Brook a Newfoundland sziget nyugati partján fekszik a Bay of Islands öbölben, és mintegy 19 000 lakosával Newfoundland and Labrador tartomány második legnagyobb városa. 1925-ben alapították, amikor a brit Bowater cég itt nagy papírgyárat hozott létre, amely évtizedeken át a város gazdaságának alapját képezte. Ma a Kruger Inc. üzemelteti tovább a papírgyárat. A város egyúttal a Gros Morne Nemzeti Park kapuja, amely UNESCO világörökségi helyszín, látványos fjordokkal és hegyekkel. A Memorial University of Newfoundland Grenfell Campusa itt található. Földrajz K7 — papíripar és atlanti fjordok.",
       ro: "Corner Brook se află pe coasta de vest a insulei Newfoundland, pe Bay of Islands, și, cu aproximativ 19.000 de locuitori, este al doilea cel mai mare oraș al provinciei Newfoundland and Labrador. A fost fondat în 1925 odată cu construirea unei mari fabrici de hârtie de către compania britanică Bowater, care a fost timp de decenii baza economică a orașului. Astăzi, Kruger Inc. operează fabrica de hârtie. Orașul este și poarta către Parcul Național Gros Morne, sit UNESCO, cu fiorduri și munți spectaculoși. Aici se află campusul Grenfell al Memorial University of Newfoundland. Geografie K7 — industria hârtiei și fiorduri atlantice.",
       en: "Corner Brook lies on the west coast of the island of Newfoundland along the Bay of Islands and, with around 19,000 residents, is the second-largest city in the province of Newfoundland and Labrador. It was founded in 1925 with the establishment of a major paper mill by the British company Bowater, which formed the economic backbone of the town for decades. Today Kruger Inc. operates the paper mill. The city is also the gateway to Gros Morne National Park, a UNESCO World Heritage Site with spectacular fjords and mountains. The Grenfell Campus of Memorial University of Newfoundland is based here. Geography K7 — paper industry and Atlantic fjords."
-    }, image: "/poi-images/corner-brook-cities-v2.webp"},
+    }, image: "/poi-images/corner-brook-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Fläche: 148,0 km².", "Einwohner: 20.123 (2021).", "Gründung: 1956.", "Der Humber River ist 120 km lang.", "Marble Mountain hat eine Höhe von 518 m.", "Die Papierfabrik produziert jährlich 400.000 Tonnen."],
+      hu: ["Terület: 148 km².", "Lakosság: 20 123 fő (2021).", "Alapítás: 1956.", "A Humber folyó hossza 120 km.", "A Marble Mountain magassága 518 m.", "A papírgyár éves termelése 400 000 tonna."],
+      ro: ["Suprafața: 148 km².", "Populație: 20.123 (2021).", "Fondat în 1956.", "Râul Humber are 120 km lungime.", "Marble Mountain are o altitudine de 518 m.", "Fabrica de hârtie produce 400.000 de tone anual."],
+      en: ["Area: 148 km².", "Population: 20,123 (2021).", "Incorporated in 1956.", "Humber River is 120 km long.", "Marble Mountain elevation: 518 m.", "Paper mill produces 400,000 tonnes annually."],
+    },
+  },
   {
     id: "mount-pearl-cities-v2",
     type: "city",
@@ -1992,7 +2279,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Mount Pearl közvetlenül St. John's-tól nyugatra fekszik, és Newfoundland and Labrador tartomány második legnagyobb városa, mintegy 24 000 lakossal. A település egy régi farmközösségből nőtt ki, és Sir James Pearl brit haditengerészeti tisztről nevezték el, aki a 19. század elején itt kapott földet. Mount Pearl ma modern, önálló közigazgatású és identitású lakóváros a St. John's-i agglomerációban. Gazdaságát a kiskereskedelem, a szolgáltatások és a logisztika dominálja, kihasználva a tartományi főváros közelségét. Ismertek az évente megrendezett Frosty Festival téli rendezvények. Földrajz K7 — atlanti fővárosok elővárosai.",
       ro: "Mount Pearl se află imediat la vest de St. John's și este al doilea oraș ca mărime din provincia Newfoundland and Labrador, cu aproximativ 24.000 de locuitori. Localitatea s-a format dintr-o veche comunitate agricolă, fiind numită după Sir James Pearl, ofițer de marină britanic care a primit aici pământ la începutul secolului al XIX-lea. Mount Pearl este astăzi un oraș rezidențial modern în zona metropolitană St. John's, cu administrație și identitate proprie. Economic, orașul se concentrează pe comerțul cu amănuntul, servicii și logistică, profitând de apropierea de capitala provinciei. Renumite sunt evenimentele de iarnă Frosty Festival, organizate anual. Geografie K7 — suburbii ale capitalelor atlantice.",
       en: "Mount Pearl lies just west of St. John's and is the second-largest city in the province of Newfoundland and Labrador, with around 24,000 residents. The town grew from an old farming community and was named after Sir James Pearl, a British naval officer who received land here in the early 19th century. Mount Pearl is today a modern residential city in the Greater St. John's area, with its own administration and identity. Retail, services, and logistics dominate the economy, benefiting from proximity to the provincial capital. The annual Frosty Festival winter events are well known. Geography K7 — suburbs of Atlantic capitals."
-    }, image: "/poi-images/mount-pearl-cities-v2.webp"},
+    }, image: "/poi-images/mount-pearl-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Fläche: 16,0 km².", "Einwohner: 23.012 (2021).", "Gründung: 1955.", "Der Mount Pearl Park hat eine Größe von 30 Hektar.", "Die Stadt liegt auf 100 m Höhe.", "Der Highway 1 ist 3,5 km von der Stadt entfernt."],
+      hu: ["Terület: 16 km².", "Lakosság: 23 012 fő (2021).", "Alapítás: 1955.", "A Mount Pearl Park területe 30 hektár.", "Tengerszint feletti magasság: 100 m.", "Az 1-es autópálya 3,5 km-re halad el a várostól."],
+      ro: ["Suprafața: 16 km².", "Populație: 23.012 (2021).", "Fondat în 1955.", "Parcul Mount Pearl are 30 ha.", "Altitudinea: 100 m.", "Autostrada 1 trece la 3,5 km de oraș."],
+      en: ["Area: 16 km².", "Population: 23,012 (2021).", "Incorporated in 1955.", "Mount Pearl Park covers 30 hectares.", "Elevation: 100 m.", "Highway 1 passes 3.5 km from the city."],
+    },
+  },
   {
     id: "conception-bay-south-cities-v2",
     type: "city",
@@ -2012,7 +2306,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Conception Bay South, közismert nevén CBS, a Conception Bay öböl délkeleti partján fekszik az Avalon-félszigeten, Newfoundland and Labrador tartományban. Mintegy 27 000 lakosával fontos lakóhely a St. John's-i agglomerációban, és 1973-ban jött létre kilenc kisebb part menti falu egyesüléséből, köztük Manuels, Long Pond és Kelligrews. CBS megőrzi történelmi jellegét az öböl mentén álló hagyományos halászházakkal. A Manuels River Conservation Area híres a kambriumi triobita-kövületeiről, amelyek Észak-Amerika egyik legrégebbi leletei. Gazdaságát a St. John's-i közelség és az ingázóforgalom táplálja. Földrajz K7 — kövületparkok és halászfalvak.",
       ro: "Conception Bay South, cunoscut adesea sub abrevierea CBS, se află pe malul sud-estic al golfului Conception, pe peninsula Avalon, în Newfoundland and Labrador. Cu aproximativ 27.000 de locuitori, orașul este o reședință importantă în zona metropolitană St. John's și a luat naștere în 1973 prin fuziunea a nouă sate mici de coastă, printre care Manuels, Long Pond și Kelligrews. CBS își păstrează caracterul istoric prin casele tradiționale de pescari de-a lungul golfului. Manuels River Conservation Area este renumită pentru fosilele de trilobiți din cambrian, printre cele mai vechi din America de Nord. Economic, CBS profită de apropierea de St. John's și de fluxurile de navetiști. Geografie K7 — parcuri cu fosile și sate de pescari.",
       en: "Conception Bay South, often abbreviated CBS, lies on the southeastern shore of Conception Bay on the Avalon Peninsula in Newfoundland and Labrador. With around 27,000 residents, the town is an important residential community in the Greater St. John's area and was created in 1973 through the merger of nine smaller coastal villages, including Manuels, Long Pond, and Kelligrews. CBS preserves its historic character with traditional fishing houses along the bay. The Manuels River Conservation Area is famous for Cambrian trilobite fossils, among the oldest in North America. CBS benefits economically from its proximity to St. John's and commuter flows. Geography K7 — fossil parks and fishing villages."
-    }, image: "/poi-images/conception-bay-south-cities-v2.webp"},
+    }, image: "/poi-images/conception-bay-south-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Fläche: 59,0 km².", "Einwohner: 27.124 (2021).", "Gründung: 1973.", "Die Conception Bay ist 30 km lang.", "Der Topsail Beach erstreckt sich über 1,5 km.", "Die Höhe liegt bei 25 m."],
+      hu: ["Terület: 59 km².", "Lakosság: 27 124 fő (2021).", "Alapítás: 1973.", "A Conception-öböl hossza 30 km.", "A Topsail Beach 1,5 km hosszú.", "Tengerszint feletti magasság: 25 m."],
+      ro: ["Suprafața: 59 km².", "Populație: 27.124 (2021).", "Fondat în 1973.", "Golful Conception are 30 km lungime.", "Plaja Topsail Beach are 1,5 km lungime.", "Altitudinea: 25 m."],
+      en: ["Area: 59 km².", "Population: 27,124 (2021).", "Incorporated in 1973.", "Conception Bay is 30 km long.", "Topsail Beach is 1.5 km long.", "Elevation: 25 m."],
+    },
+  },
   {
     id: "truro-cities-v2",
     type: "city",
@@ -2032,7 +2333,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Truro Nova Scotia központi részén fekszik, ahol a Salmon folyó a Fundy-öböl Cobequid-öblébe torkollik. Mintegy 12 000 lakosával fontos közlekedési csomópont a tartományban, és 'Nova Scotia hubjaként' is emlegetik, mivel itt találkozik a fő vasútvonal (CN Rail) és a 102-es valamint 104-es főutak. Híres a 'tidal bore' jelenségről a Salmon folyón — naponta kétszer az Atlanti-óceán felől érkező árhullám fut fel a folyó torkolatán. Gazdaságát az élelmiszer-feldolgozás (Stanfields fehérnemű, Frenchys használtruha) és az oktatás (Dalhousie Egyetem Mezőgazdasági Kar) dominálja. Földrajz K7 — vasúti csomópontok és árapály-jelenségek.",
       ro: "Truro se află în centrul provinciei Nova Scotia, la vărsarea râului Salmon în brațul Cobequid al golfului Fundy. Cu aproximativ 12.000 de locuitori, este un nod de transport important al provinciei și este numit 'Hub of Nova Scotia', deoarece aici se întâlnesc principalele linii feroviare (CN Rail) și autostrăzile 102 și 104. Truro este renumit pentru fenomenul de 'tidal bore' de pe râul Salmon — un val de maree care urcă din Atlantic de două ori pe zi. Economic, dominante sunt procesarea alimentelor (lenjerie Stanfields, magazine Frenchys) și educația (Facultatea de Agricultură a Universității Dalhousie). Geografie K7 — noduri feroviare și fenomene de maree.",
       en: "Truro lies in central Nova Scotia where the Salmon River flows into the Cobequid Bay arm of the Bay of Fundy. With around 12,000 residents, it is an important transport hub of the province and is known as the 'Hub of Nova Scotia', as the main rail lines (CN Rail) and Highways 102 and 104 meet here. Truro is famous for the 'tidal bore' phenomenon on the Salmon River — a wave that surges up the river from the Atlantic twice a day. Food processing (Stanfields underwear, Frenchys used clothing) and education (Dalhousie University Faculty of Agriculture) dominate the economy. Geography K7 — railway hubs and tidal phenomena."
-    }, image: "/poi-images/truro-cities-v2.webp"},
+    }, image: "/poi-images/truro-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Fläche: 34,0 km².", "Einwohner: 12.261 (2021).", "Gründung: 1875.", "Der Victoria Park hat 400 Hektar.", "Der Salmon River ist 50 km lang.", "Die Höhe liegt bei 15 m."],
+      hu: ["Terület: 34 km².", "Lakosság: 12 261 fő (2021).", "Alapítás: 1875.", "A Victoria Park területe 400 hektár.", "A Salmon folyó hossza 50 km.", "Tengerszint feletti magasság: 15 m."],
+      ro: ["Suprafața: 34 km².", "Populație: 12.261 (2021).", "Fondat în 1875.", "Parcul Victoria are 400 ha.", "Râul Salmon are 50 km lungime.", "Altitudinea: 15 m."],
+      en: ["Area: 34 km².", "Population: 12,261 (2021).", "Incorporated in 1875.", "Victoria Park covers 400 hectares.", "Salmon River is 50 km long.", "Elevation: 15 m."],
+    },
+  },
   {
     id: "new-glasgow-cities-v2",
     type: "city",
@@ -2052,7 +2360,14 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "New Glasgow Nova Scotia északi részén fekszik az East folyó mentén, körülbelül 160 kilométerre északkeletre Halifaxtól. Mintegy 9000 lakosával Pictou megye gazdasági központja, mely régió gazdag skót örökséggel rendelkezik. A települést 1788-ban skót bevándorlók alapították, és a skóciai Glasgow-ról nevezték el. A 19. században itt virágzott a vas- és acélipar, valamint a szénbányászat. Ma a régió a Northumberland-szoros menti turisztikai célpontként ismert, strandokkal és gael kultúrával. Figyelemre méltó a Stellarton Heritage Mining and Industrial Heritage Society. Földrajz K7 — skót-kanadai örökség és bányászati történelem.",
       ro: "New Glasgow se află în nordul provinciei Nova Scotia, pe râul East, la aproximativ 160 de kilometri nord-est de Halifax. Cu aproximativ 9.000 de locuitori, este centrul economic al comitatului Pictou, o regiune cu o bogată moștenire scoțiană. Localitatea a fost fondată în 1788 de coloniști scoțieni și numită după Glasgow din Scoția. În secolul al XIX-lea, aici au înflorit industria fierului și a oțelului, precum și mineritul de cărbune. Astăzi, regiunea este o destinație turistică la strâmtoarea Northumberland, cu plaje și cultură gaelică. Remarcabilă este Stellarton Heritage Mining and Industrial Heritage Society. Geografie K7 — moștenire scoțiană-canadiană și istoria mineritului.",
       en: "New Glasgow lies in northern Nova Scotia along the East River, about 160 kilometers northeast of Halifax. With around 9,000 residents, it is the economic center of Pictou County, a region with a rich Scottish heritage. The town was founded in 1788 by Scottish settlers and named after Glasgow in Scotland. In the 19th century, the iron and steel industries and coal mining flourished here. Today the region is known as a tourist destination along the Northumberland Strait, with beaches and Gaelic culture. The Stellarton Heritage Mining and Industrial Heritage Society is especially notable. Geography K7 — Scottish-Canadian heritage and mining history."
-    }, image: "/poi-images/new-glasgow-cities-v2.webp"},
+    }, image: "/poi-images/new-glasgow-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Fläche: 10,0 km².", "Einwohner: 9.075 (2021).", "Gründung: 1809.", "Der East River ist 75 km lang.", "Das Glasgow Square Theatre hat 400 Sitzplätze.", "Die Höhe liegt bei 10 m."],
+      hu: ["Terület: 10 km².", "Lakosság: 9 075 fő (2021).", "Alapítás: 1809.", "Az East River hossza 75 km.", "A Glasgow Square Színház 400 férőhelyes.", "Tengerszint feletti magasság: 10 m."],
+      ro: ["Suprafața: 10 km².", "Populație: 9.075 (2021).", "Fondat în 1809.", "Râul East River are 75 km lungime.", "Teatrul Glasgow Square are 400 de locuri.", "Altitudinea: 10 m."],
+      en: ["Area: 10 km².", "Population: 9,075 (2021).", "Incorporated in 1809.", "East River is 75 km long.", "Glasgow Square Theatre seats 400.", "Elevation: 10 m."],
+    },
+  },
   {
     id: "summerside-cities-v2",
     type: "city",
@@ -2072,7 +2387,13 @@ export const poiExtraCanadaCitiesV2: POI[] = [
       hu: "Summerside Prince Edward Island déli partján fekszik, és mintegy 16 000 lakosával Charlottetown után a tartomány második legnagyobb városa. A Northumberland-szoros mellett található, és a 19. században hajóépítő- és halászatkereskedelmi központként fejlődött. Ma Summerside fontos repülőgépipari helyszín a Slemon Park révén, egy egykori légierőtámaszpontból átalakított gazdasági parkkal. Híresek az évente megrendezett College of Piping and Celtic Performing Arts of Canada fesztiválok, amelyek a sziget gael örökségét ünneplik. Summerside környéki földeket is jellemzi a PEI-re jellemző jellegzetes vöröses talaj. Földrajz K7 — szigeti kikötővárosok és kelta örökség.",
       ro: "Summerside se află pe coasta sudică a insulei Prince Edward Island și, cu aproximativ 16.000 de locuitori, este al doilea oraș ca mărime din provincie după Charlottetown. Este situat pe strâmtoarea Northumberland și s-a dezvoltat în secolul al XIX-lea ca centru comercial pentru construcții navale și pescuit. Astăzi, Summerside este un sit important pentru industria aerospațială, cu Slemon Park, fostă bază aeriană transformată în parc economic. Renumite sunt festivalurile anuale ale College of Piping and Celtic Performing Arts of Canada, care celebrează moștenirea gaelică a insulei. Pământul roșu caracteristic insulei PEI marchează și ogoarele din jurul orașului Summerside. Geografie K7 — orașe portuare insulare și moștenire celtică.",
       en: "Summerside lies on the southern coast of Prince Edward Island and, with around 16,000 residents, is the province's second-largest city after Charlottetown. It sits on the Northumberland Strait and developed in the 19th century as a trading center for shipbuilding and fishing. Today Summerside is an important site for the aerospace industry through Slemon Park, a former air force base converted into an economic park. The annual College of Piping and Celtic Performing Arts of Canada festivals, celebrating the island's Gaelic heritage, are famous. The red soil characteristic of PEI also defines the fields around Summerside. Geography K7 — island port cities and Celtic heritage."
-    }
+    },
+    factsAdvanced: {
+      de: ["Fläche: 28,0 km².", "Einwohner: 14.751 (2021).", "Gründung: 1877.", "Der Summerside Harbour hat 4 Kais.", "Das College of Piping wurde 1995 gegründet.", "Die Northumberland Strait ist 20 km breit."],
+      hu: ["Terület: 28 km².", "Lakosság: 14 751 fő (2021).", "Alapítás: 1877.", "A Summerside kikötő 4 rakparttal rendelkezik.", "A College of Piping-t 1995-ben alapították.", "A Northumberland-szoros szélessége 20 km."],
+      ro: ["Suprafața: 28 km².", "Populație: 14.751 (2021).", "Fondat în 1877.", "Portul Summerside are 4 cheiuri.", "Colegiul de muzică a fost fondat în 1995.", "Strâmtoarea Northumberland are 20 km lățime."],
+      en: ["Area: 28 km².", "Population: 14,751 (2021).", "Incorporated in 1877.", "Summerside Harbour has 4 wharves.", "College of Piping founded in 1995.", "Northumberland Strait width: 20 km."],
+    },
   }
 ]
 

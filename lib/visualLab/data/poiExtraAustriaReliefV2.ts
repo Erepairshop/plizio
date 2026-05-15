@@ -4,7 +4,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-hochschwab-relief-v2",
     type: "mountain",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Hochschwab", hu: "Hochschwab", ro: "Hochschwab", en: "Hochschwab" },
     coords: [15.1111, 47.6083],
     description: {
@@ -36,7 +36,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-lechtaler-alpen-relief-v2",
     type: "mountain",
-    parent: "AT-8",
+    parent: "AT",
     name: { de: "Lechtaler Alpen", hu: "Lechtali-Alpok", ro: "Alpii Lechtal", en: "Lechtal Alps" },
     coords: [10.5, 47.2333],
     description: {
@@ -68,7 +68,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-ennstaler-alpen-relief-v2",
     type: "mountain",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Ennstaler Alpen", hu: "Ennstali-Alpok", ro: "Alpii Ennstal", en: "Ennstal Alps" },
     coords: [14.5833, 47.5833],
     description: {
@@ -100,7 +100,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-totes-gebirge-relief-v2",
     type: "mountain",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Totes Gebirge", hu: "Totes Gebirge", ro: "Totes Gebirge", en: "Totes Gebirge" },
     coords: [14.0, 47.6667],
     description: {
@@ -132,7 +132,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-silvretta-relief-v2",
     type: "mountain",
-    parent: "AT-8",
+    parent: "AT",
     name: { de: "Silvretta", hu: "Silvretta", ro: "Silvretta", en: "Silvretta" },
     coords: [10.15, 46.9],
     description: {
@@ -164,7 +164,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-gailtaler-alpen-relief-v2",
     type: "mountain",
-    parent: "AT-HoheTauern",
+    parent: "AT",
     name: { de: "Gailtaler Alpen", hu: "Gailtali-Alpok", ro: "Alpii Gailtal", en: "Gailtal Alps" },
     coords: [13.1, 46.7],
     description: {
@@ -196,7 +196,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-niedere-tauern-relief-v2",
     type: "mountain",
-    parent: "AT-2",
+    parent: "AT",
     name: { de: "Niedere Tauern", hu: "Alacsony-Tauern", ro: "Tauernii de Jos", en: "Lower Tauern" },
     coords: [14.1667, 47.25],
     description: {
@@ -228,7 +228,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-wechsel-relief-v2",
     type: "mountain",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Wechsel", hu: "Wechsel", ro: "Wechsel", en: "Wechsel" },
     coords: [15.8, 47.55],
     description: {
@@ -260,7 +260,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-hochpfeiler-relief-v2",
     type: "peak",
-    parent: "AT-7",
+    parent: "AT",
     name: { de: "Hochpfeiler", hu: "Hochpfeiler", ro: "Hochpfeiler", en: "Hochpfeiler" },
     coords: [11.7, 47.0167],
     description: {
@@ -292,7 +292,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-venediger-gruppe-relief-v2",
     type: "mountain",
-    parent: "AT-HoheTauern",
+    parent: "AT",
     name: { de: "Venedigergruppe", hu: "Venediger-csoport", ro: "Grupul Venediger", en: "Venediger Group" },
     coords: [12.3333, 47.1],
     description: {
@@ -324,7 +324,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-schneeberg-relief-v2",
     type: "mountain",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Schneeberg", hu: "Schneeberg", ro: "Schneeberg", en: "Schneeberg" },
     coords: [15.8, 47.75],
     description: {
@@ -356,7 +356,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-hochschwab-gipfel-relief-v2",
     type: "peak",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Hochschwab-Gipfel", hu: "Hochschwab-csúcs", ro: "Vârful Hochschwab", en: "Hochschwab Peak" },
     coords: [15.15, 47.6167],
     description: {
@@ -388,7 +388,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-dachstein-gipfel-relief-v2",
     type: "peak",
-    parent: "AT-5",
+    parent: "AT",
     name: { de: "Hoher Dachstein", hu: "Hoher Dachstein", ro: "Hoher Dachstein", en: "Hoher Dachstein" },
     coords: [13.6075, 47.4767],
     description: {
@@ -420,7 +420,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-wildspitze-relief-v2",
     type: "peak",
-    parent: "AT-7",
+    parent: "AT",
     name: { de: "Wildspitze", hu: "Wildspitze", ro: "Wildspitze", en: "Wildspitze" },
     coords: [10.8656, 46.8778],
     description: {
@@ -452,7 +452,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-piz-buin-relief-v2",
     type: "peak",
-    parent: "AT-8",
+    parent: "AT",
     name: { de: "Piz Buin", hu: "Piz Buin", ro: "Piz Buin", en: "Piz Buin" },
     coords: [10.1172, 46.8336],
     description: {
@@ -484,7 +484,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-hochkonig-gipfel-relief-v2",
     type: "peak",
-    parent: "AT-5",
+    parent: "AT",
     name: { de: "Hochkönig", hu: "Hochkönig", ro: "Hochkönig", en: "Hochkönig" },
     coords: [13.0867, 47.4244],
     description: {
@@ -516,7 +516,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-kitzsteinhorn-relief-v2",
     type: "mountain",
-    parent: "AT-HoheTauern",
+    parent: "AT",
     name: { de: "Kitzsteinhorn", hu: "Kitzsteinhorn", ro: "Kitzsteinhorn", en: "Kitzsteinhorn" },
     coords: [12.69, 47.21],
     description: {
@@ -548,7 +548,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-grimming-relief-v2",
     type: "mountain",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Grimming", hu: "Grimming", ro: "Grimming", en: "Grimming" },
     coords: [14.12, 47.53],
     description: {
@@ -580,7 +580,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-zugspitze-at-relief-v2",
     type: "peak",
-    parent: "AT-7",
+    parent: "AT",
     name: { de: "Zugspitze (Österreich)", hu: "Zugspitze (Ausztria)", ro: "Zugspitze (Austria)", en: "Zugspitze (Austria)" },
     coords: [10.985, 47.421],
     description: {
@@ -612,7 +612,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-grosser-priel-relief-v2",
     type: "peak",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Großer Priel", hu: "Großer Priel", ro: "Großer Priel", en: "Großer Priel" },
     coords: [14.122, 47.662],
     description: {
@@ -644,7 +644,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-hoher-goll-relief-v2",
     type: "mountain",
-    parent: "AT-5",
+    parent: "AT",
     name: { de: "Hoher Göll", hu: "Hoher Göll", ro: "Hoher Göll", en: "Hoher Göll" },
     coords: [13.06, 47.58],
     description: {
@@ -676,7 +676,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-almkogel-relief-v2",
     type: "mountain",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Almkogel", hu: "Almkogel", ro: "Almkogel", en: "Almkogel" },
     coords: [14.54, 47.76],
     description: {
@@ -708,7 +708,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-feuerkogel-relief-v2",
     type: "mountain",
-    parent: "AT-5",
+    parent: "AT",
     name: { de: "Feuerkogel", hu: "Feuerkogel", ro: "Feuerkogel", en: "Feuerkogel" },
     coords: [13.72, 47.81],
     description: {
@@ -740,7 +740,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-traunstein-relief-v2",
     type: "mountain",
-    parent: "AT-4",
+    parent: "AT",
     name: { de: "Traunstein", hu: "Traunstein", ro: "Traunstein", en: "Traunstein" },
     coords: [13.84, 47.85],
     description: {
@@ -772,7 +772,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-schafberg-relief-v2",
     type: "mountain",
-    parent: "AT-5",
+    parent: "AT",
     name: { de: "Schafberg", hu: "Schafberg", ro: "Schafberg", en: "Schafberg" },
     coords: [13.36, 47.74],
     description: {
@@ -804,7 +804,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-hoher-dachtein-gletscher-relief-v2",
     type: "mountain",
-    parent: "AT-5",
+    parent: "AT",
     name: { de: "Dachstein-Gletscher", hu: "Dachstein-gleccser", ro: "Ghețarul Dachstein", en: "Dachstein Glacier" },
     coords: [13.62, 47.47],
     description: {
@@ -836,7 +836,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-ansberg-relief-v2",
     type: "mountain",
-    parent: "AT-2",
+    parent: "AT",
     name: { de: "Ansberg", hu: "Ansberg", ro: "Ansberg", en: "Ansberg" },
     coords: [14.24, 47.38],
     description: {
@@ -868,7 +868,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-planneralm-relief-v2",
     type: "mountain",
-    parent: "AT-2",
+    parent: "AT",
     name: { de: "Planneralm", hu: "Planneralm", ro: "Planneralm", en: "Planneralm" },
     coords: [14.15, 47.45],
     description: {
@@ -900,7 +900,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-kaibling-relief-v2",
     type: "mountain",
-    parent: "AT-5",
+    parent: "AT",
     name: { de: "Hauser Kaibling", hu: "Hauser Kaibling", ro: "Hauser Kaibling", en: "Hauser Kaibling" },
     coords: [13.82, 47.38],
     description: {
@@ -932,7 +932,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-dachstein-west-relief-v2",
     type: "mountain",
-    parent: "AT-5",
+    parent: "AT",
     name: { de: "Dachstein-West", hu: "Dachstein-West", ro: "Dachstein-West", en: "Dachstein West" },
     coords: [13.5, 47.5],
     description: {
@@ -964,7 +964,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-murtal-alpen-relief-v2",
     type: "mountain",
-    parent: "AT-2",
+    parent: "AT",
     name: { de: "Murtaler Alpen", hu: "Murtali-Alpok", ro: "Alpii Murtal", en: "Murtal Alps" },
     coords: [14.5, 47.1],
     description: {
@@ -996,7 +996,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-radstatter-tauern-relief-v2",
     type: "mountain",
-    parent: "AT-5",
+    parent: "AT",
     name: { de: "Radstädter Tauern", hu: "Radstädti-Tauern", ro: "Tauernii Radstadt", en: "Radstadt Tauern" },
     coords: [13.6, 47.25],
     description: {
@@ -1028,7 +1028,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-schladminger-tauern-relief-v2",
     type: "mountain",
-    parent: "AT-2",
+    parent: "AT",
     name: { de: "Schladminger Tauern", hu: "Schladmingi-Tauern", ro: "Alpii Schladming Tauern", en: "Schladming Tauern" },
     coords: [13.8, 47.3],
     description: {
@@ -1060,7 +1060,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-seckauer-tauern-relief-v2",
     type: "mountain",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Seckauer Tauern", hu: "Seckaui-Tauern", ro: "Alpii Seckau Tauern", en: "Seckau Tauern" },
     coords: [14.7, 47.35],
     description: {
@@ -1092,7 +1092,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-rotsel-spitze-relief-v2",
     type: "peak",
-    parent: "AT-7",
+    parent: "AT",
     name: { de: "Rötelspitze", hu: "Rötelspitze", ro: "Rötelspitze", en: "Rötelspitze" },
     coords: [10.5, 46.85],
     description: {
@@ -1124,7 +1124,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-hohe-veitsch-relief-v2",
     type: "mountain",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Hohe Veitsch", hu: "Hohe Veitsch", ro: "Hohe Veitsch", en: "Hohe Veitsch" },
     coords: [15.5, 47.6],
     description: {
@@ -1156,7 +1156,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-herrenstein-relief-v2",
     type: "mountain",
-    parent: "AT-3",
+    parent: "AT",
     name: { de: "Herrenstein", hu: "Herrenstein", ro: "Herrenstein", en: "Herrenstein" },
     coords: [15.6, 47.7],
     description: {
@@ -1188,7 +1188,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-karmel-spitze-relief-v2",
     type: "peak",
-    parent: "AT-6",
+    parent: "AT",
     name: { de: "Karmelspitze", hu: "Karmelspitze", ro: "Karmelspitze", en: "Karmelspitze" },
     coords: [15.3, 47.4],
     description: {
@@ -1220,7 +1220,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-grosse-wildstelle-relief-v2",
     type: "mountain",
-    parent: "AT-2",
+    parent: "AT",
     name: { de: "Große Wildstelle", hu: "Große Wildstelle", ro: "Große Wildstelle", en: "Große Wildstelle" },
     coords: [13.85, 47.3],
     description: {
@@ -1252,7 +1252,7 @@ export const austriaReliefV2: POI[] = [
   {
     id: "austria-hoher-trieber-relief-v2",
     type: "mountain",
-    parent: "AT-2",
+    parent: "AT",
     name: { de: "Hoher Trieb", hu: "Hoher Trieb", ro: "Hoher Trieb", en: "Hoher Trieb" },
     coords: [14.2, 47.2],
     description: {

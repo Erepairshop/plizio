@@ -4,7 +4,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-massif-central-relief-v2",
     type: "mountain",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Zentralmassiv", hu: "Francia-középhegység", ro: "Masivul Central", en: "Massif Central" },
     coords: [3.0, 45.0],
     description: {
@@ -36,7 +36,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-puy-de-dome-relief-v2",
     type: "mountain",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Puy de Dôme", hu: "Puy de Dôme", ro: "Puy de Dôme", en: "Puy de Dôme" },
     coords: [2.9658, 45.7725],
     description: {
@@ -68,7 +68,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-grand-colombier-relief-v2",
     type: "mountain",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Grand Colombier", hu: "Grand Colombier", ro: "Grand Colombier", en: "Grand Colombier" },
     coords: [5.7958, 45.9031],
     description: {
@@ -100,7 +100,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-plateau-de-millevaches-relief-v2",
     type: "mountain",
-    parent: "FR-NAQ",
+    parent: "FR",
     name: { de: "Plateau de Millevaches", hu: "Plateau de Millevaches", ro: "Plateau de Millevaches", en: "Plateau de Millevaches" },
     coords: [2.1, 45.65],
     description: {
@@ -132,7 +132,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-mont-ventoux-relief-v2",
     type: "mountain",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Mont Ventoux", hu: "Mont Ventoux", ro: "Mont Ventoux", en: "Mont Ventoux" },
     coords: [5.2789, 44.1733],
     description: {
@@ -164,7 +164,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-vallee-de-la-loire-relief-v2",
     type: "valley",
-    parent: "FR-CVL",
+    parent: "FR",
     name: { de: "Loire-Tal", hu: "Loire-völgy", ro: "Valea Loarei", en: "Loire Valley" },
     coords: [0.6833, 47.3833],
     description: {
@@ -196,7 +196,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-massif-des-maures-relief-v2",
     type: "mountain",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Massif des Maures", hu: "Massif des Maures", ro: "Massif des Maures", en: "Massif des Maures" },
     coords: [6.3333, 43.25],
     description: {
@@ -228,7 +228,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-mont-garbi-relief-v2",
     type: "peak",
-    parent: "FR-NAQ",
+    parent: "FR",
     name: { de: "Mont Garbi", hu: "Mont Garbi", ro: "Mont Garbi", en: "Mont Garbi" },
     coords: [-0.25, 43.1],
     description: {
@@ -260,7 +260,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-plateau-de-langres-relief-v2",
     type: "mountain",
-    parent: "FR-BFC",
+    parent: "FR",
     name: { de: "Plateau von Langres", hu: "Langres-fennsík", ro: "Platoul Langres", en: "Plateau of Langres" },
     coords: [5.3333, 47.85],
     description: {
@@ -292,7 +292,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-mont-d-or-relief-v2",
     type: "mountain",
-    parent: "FR-BFC",
+    parent: "FR",
     name: { de: "Mont d'Or", hu: "Mont d'Or", ro: "Mont d'Or", en: "Mont d'Or" },
     coords: [6.36, 46.72],
     description: {
@@ -324,7 +324,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-causses-relief-v2",
     type: "mountain",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Causses", hu: "Causses", ro: "Causses", en: "Causses" },
     coords: [3.3, 44.3],
     description: {
@@ -356,7 +356,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-mont-sancy-relief-v2",
     type: "peak",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Puy de Sancy", hu: "Puy de Sancy", ro: "Puy de Sancy", en: "Puy de Sancy" },
     coords: [2.8139, 45.5283],
     description: {
@@ -388,7 +388,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-massif-du-ventoux-relief-v2",
     type: "mountain",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Ventoux-Massiv", hu: "Ventoux-hegység", ro: "Masivul Ventoux", en: "Ventoux Massif" },
     coords: [5.27, 44.17],
     description: {
@@ -420,7 +420,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-plaine-de-la-saone-relief-v2",
     type: "valley",
-    parent: "FR-BFC",
+    parent: "FR",
     name: { de: "Saône-Ebene", hu: "Saône-síkság", ro: "Câmpia Saônei", en: "Saône Plain" },
     coords: [5.1667, 47.0],
     description: {
@@ -452,7 +452,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-massif-de-la-chartreuse-relief-v2",
     type: "mountain",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Chartreuse-Massiv", hu: "Chartreuse-hegység", ro: "Masivul Chartreuse", en: "Chartreuse Massif" },
     coords: [5.8, 45.3667],
     description: {
@@ -484,7 +484,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-mont-d-or-auvergne-relief-v2",
     type: "mountain",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Monts Dore", hu: "Monts Dore", ro: "Monts Dore", en: "Monts Dore" },
     coords: [2.76, 45.56],
     description: {
@@ -516,7 +516,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-plaine-d-alsace-relief-v2",
     type: "valley",
-    parent: "FR-GES",
+    parent: "FR",
     name: { de: "Elsässische Ebene", hu: "Elzászi-síkság", ro: "Câmpia Alsaciei", en: "Alsatian Plain" },
     coords: [7.5, 48.3],
     description: {
@@ -548,7 +548,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-mont-caroux-relief-v2",
     type: "mountain",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Mont Caroux", hu: "Mont Caroux", ro: "Mont Caroux", en: "Mont Caroux" },
     coords: [2.96, 43.58],
     description: {
@@ -580,7 +580,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-massif-du-jura-relief-v2",
     type: "mountain",
-    parent: "FR-BFC",
+    parent: "FR",
     name: { de: "Jura", hu: "Jura", ro: "Jura", en: "Jura Mountains" },
     coords: [6.0, 46.5],
     description: {
@@ -612,7 +612,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-massif-de-la-sainte-baume-relief-v2",
     type: "mountain",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Massif de la Sainte-Baume", hu: "Massif de la Sainte-Baume", ro: "Masivul Sainte-Baume", en: "Sainte-Baume Massif" },
     coords: [5.75, 43.33],
     description: {
@@ -644,7 +644,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-plateau-de-larzac-relief-v2",
     type: "mountain",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Larzac", hu: "Larzac", ro: "Larzac", en: "Larzac" },
     coords: [3.16, 43.91],
     description: {
@@ -676,7 +676,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-mont-saint-baudille-relief-v2",
     type: "mountain",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Mont Saint-Baudille", hu: "Mont Saint-Baudille", ro: "Mont Saint-Baudille", en: "Mont Saint-Baudille" },
     coords: [3.48, 43.72],
     description: {
@@ -708,7 +708,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-plateau-de-beille-relief-v2",
     type: "mountain",
-    parent: "FR-OCC",
+    parent: "FR",
     name: { de: "Plateau de Beille", hu: "Plateau de Beille", ro: "Plateau de Beille", en: "Plateau de Beille" },
     coords: [1.63, 42.72],
     description: {
@@ -740,7 +740,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-col-du-galibier-relief-v2",
     type: "mountain",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Col du Galibier", hu: "Col du Galibier", ro: "Col du Galibier", en: "Col du Galibier" },
     coords: [6.4, 45.06],
     description: {
@@ -772,7 +772,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-mont-joly-relief-v2",
     type: "peak",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Mont Joly", hu: "Mont Joly", ro: "Mont Joly", en: "Mont Joly" },
     coords: [6.7, 45.83],
     description: {
@@ -804,7 +804,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-gorges-de-l-ardeche-relief-v2",
     type: "valley",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Ardèche-Schlucht", hu: "Ardèche-szurdok", ro: "Cheile Ardèche", en: "Ardeche Gorge" },
     coords: [4.41, 44.38],
     description: {
@@ -836,7 +836,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-mont-mezenc-relief-v2",
     type: "mountain",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Mont Mézenc", hu: "Mont Mézenc", ro: "Mont Mézenc", en: "Mont Mezenc" },
     coords: [4.2, 44.83],
     description: {
@@ -868,7 +868,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-plateau-de-millevaches-limousin-relief-v2",
     type: "mountain",
-    parent: "FR-NAQ",
+    parent: "FR",
     name: { de: "Millevaches-Fennsík", hu: "Millevaches-fennsík", ro: "Platoul Millevaches", en: "Millevaches Plateau" },
     coords: [2.1, 45.68],
     description: {
@@ -900,7 +900,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-mont-gervanne-relief-v2",
     type: "mountain",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Mont Gervanne", hu: "Mont Gervanne", ro: "Mont Gervanne", en: "Mont Gervanne" },
     coords: [5.16, 44.75],
     description: {
@@ -932,7 +932,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-mont-aiguille-relief-v2",
     type: "mountain",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Mont Aiguille", hu: "Mont Aiguille", ro: "Mont Aiguille", en: "Mont Aiguille" },
     coords: [5.56, 44.84],
     description: {
@@ -964,7 +964,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-massif-de-l-esterel-relief-v2",
     type: "mountain",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Esterel-Massiv", hu: "Esterel-hegység", ro: "Masivul Esterel", en: "Esterel Massif" },
     coords: [6.85, 43.48],
     description: {
@@ -996,7 +996,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-mont-gervanne-plateau-relief-v2",
     type: "mountain",
-    parent: "FR-ARA",
+    parent: "FR",
     name: { de: "Gervanne-Hochebene", hu: "Gervanne-fennsík", ro: "Platoul Gervanne", en: "Gervanne Plateau" },
     coords: [5.1, 44.78],
     description: {
@@ -1028,7 +1028,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-mont-lure-relief-v2",
     type: "mountain",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Mont Lure", hu: "Mont Lure", ro: "Mont Lure", en: "Mont Lure" },
     coords: [5.7, 44.1],
     description: {
@@ -1060,7 +1060,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-col-de-l-iseran-relief-v2",
     type: "mountain",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Col de l'Iseran", hu: "Col de l'Iseran", ro: "Col de l'Iseran", en: "Col de l'Iseran" },
     coords: [7.0, 45.43],
     description: {
@@ -1092,7 +1092,7 @@ export const franceReliefV2: POI[] = [
   {
     id: "france-mont-paradis-relief-v2",
     type: "mountain",
-    parent: "FR-PAC",
+    parent: "FR",
     name: { de: "Mont Paradis", hu: "Mont Paradis", ro: "Mont Paradis", en: "Mont Paradis" },
     coords: [5.4, 44.45],
     description: {

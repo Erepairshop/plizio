@@ -787,5 +787,25 @@ export const poiExtraRwandaLifeV2: POI[] = [
       en: ["The park opened in 2019.", "It features over 50 interactive exhibits.", "Admission is about 2 USD per child.", "The park is open daily from 9 AM to 5 PM.", "Approximately 50,000 visitors per year.", "The park occupies 5,000 m²."],
     },
   }
+,
+  {
+    id: "rwanda-nyandungu-eco-park-life-v2",
+    type: "park",
+    name: { de: "Nyandungu Eco-Park", hu: "Nyandungu Ökopark", ro: "Eco-Parcul Nyandungu", en: "Nyandungu Eco-Park" },
+    coords: [30.144, -1.948],
+    description: {
+      de: "Dieses 121 Hektar große Feuchtgebiet in Kigali dient als Schutzgebiet. Es bietet Heilgärten, Wanderwege und Lebensraum für viele Vögel.",
+      hu: "Ez a Kigali melletti 121 hektáros mocsárvidék városi menedékhely. Gyógynövénykertekkel és gazdag madárvilággal rendelkezik.",
+      ro: "Această zonă umedă din Kigali are 121 de hectare și este un sanctuar urban. Include grădini medicinale și numeroase specii de păsări.",
+      en: "This restored wetland in Kigali covers 121 hectares and serves as an urban sanctuary. It features medicinal gardens and diverse bird species.",
+    },
+    facts: {
+      de: ["Im Jahr 2022 nach der Renaturierung eröffnet", "Umfasst 121 Hektar Feuchtgebiet", "Beheimatet über 70 Vogelarten", "Verfügt über ein 10 km langes Wegenetz"],
+      hu: ["2022-ben nyitották meg a helyreállítás után", "121 hektárnyi vizes élőhelyet fed le", "Több mint 70 madárfaj otthona", "10 km hosszú gyalogút-hálózattal rendelkezik"],
+      ro: ["Inaugurat în 2022 după restaurare", "Acoperă 121 de hectare de zonă umedă", "Adăpostește peste 70 de specii de păsări", "Dispune de o rețea de poteci de 10 km"],
+      en: ["Inaugurated in 2022 after restoration", "Covers 121 hectares of wetland", "Home to over 70 bird species", "Features a 10km network of trails"],
+    },
+    imageHint: "Nyandungu Eco-Park wetland trails Kigali",
+  }
 ];
 

@@ -758,5 +758,44 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       en: ["10 hectares", "Opened in 2020", "80,000 annual visitors", "Entry fee 15 TND", "200 storage chambers in Ksar", "Pottery and weaving workshops"],
     },
   }
+,
+  {
+    id: "tunisia-kroumirie-biodiversity-life-v2",
+    type: "wildlife",
+    name: { de: "Biodiversitätsgebiet Kroumirie", hu: "Kroumirie biodiverzitási terület", ro: "Zona de biodiversitate Kroumirie", en: "Kroumirie Biodiversity Area" },
+    coords: [8.7667, 36.7833],
+    description: {
+      de: "Dieses Berggebiet im Nordwesten Tunesiens zeichnet sich durch dichte Korkeichenwälder und eine vielfältige Flora aus. Es beherbergt zahlreiche endemische Tierarten in einem feuchten Ökosystem.",
+      hu: "Ez a Tunézia északnyugati részén fekvő hegyvidék sűrű paratölgyerdőiről és változatos növényvilágáról ismert. Nedves ökoszisztémája számos endemikus állatfajnak ad otthont.",
+      ro: "Această zonă montană din nord-vestul Tunisiei se remarcă prin păduri dense de stejar de plută și o floră diversificată. Găzduiește numeroase specii endemice într-un ecosistem umed.",
+      en: "This mountainous area in northwestern Tunisia is characterized by dense cork oak forests and diverse flora. It supports numerous endemic animal species in a moist ecosystem.",
+    },
+    facts: {
+      de: ["Jährliche Niederschläge über 1000 mm", "Wichtigstes Vorkommen der Korkeiche in Tunesien", "Lebensraum für den Berberhirsch", "Höchste Waldbrandgefahr im Sommer"],
+      hu: ["Éves csapadékmennyiség 1000 mm felett", "Tunézia legfontosabb paratölgy-lelőhelye", "A berber szarvas természetes élőhelye", "Magas erdőtűzveszély nyáron"],
+      ro: ["Precipitații anuale de peste 1000 mm", "Cea mai importantă zonă cu stejar de plută din Tunisia", "Habitat pentru cerbul berber", "Risc ridicat de incendii forestiere vara"],
+      en: ["Annual rainfall exceeds 1000 mm", "Primary cork oak habitat in Tunisia", "Natural habitat for the Barbary stag", "High summer forest fire risk"],
+    },
+    imageHint: "dense cork oak forest Kroumirie Tunisia",
+  },
+  {
+    id: "tunisia-kuriat-islands-nature-life-v2",
+    type: "wildlife",
+    name: { de: "Kuriat-Inseln Schutzgebiet", hu: "Kuriat-szigetek természetvédelmi terület", ro: "Rezervația Insulelor Kuriat", en: "Kuriat Islands Marine Reserve" },
+    coords: [11.0333, 35.8083],
+    description: {
+      de: "Die vor der Küste von Monastir gelegenen Inseln sind ein wichtiges Nistgebiet für Unechte Karettschildkröten. Das umliegende marine Schutzgebiet bewahrt das fragile mediterrane Meeresleben.",
+      hu: "A Monasztír partjainál fekvő szigetek a fattyúteknősök fontos fészkelőhelyei. A környező tengeri rezervátum védi a törékeny mediterrán tengeri élővilágot.",
+      ro: "Insulele situate în largul coastelor orașului Monastir reprezintă o zonă importantă de cuibărit pentru țestoasele caretta caretta. Rezervația marină adiacentă protejează viața marină fragilă.",
+      en: "Located off the coast of Monastir, these islands are a vital nesting site for loggerhead sea turtles. The surrounding marine reserve preserves fragile Mediterranean marine life.",
+    },
+    facts: {
+      de: ["Schutzgebiet für Caretta caretta", "Unbewohnte Inselgruppe im Mittelmeer", "Überwachung durch lokale NGOs", "Begrenzter Zugang für Touristen"],
+      hu: ["Caretta caretta védett terület", "Lakatlan szigetcsoport a Földközi-tengeren", "Helyi civil szervezetek által felügyelt", "Korlátozott hozzáférés turisták számára"],
+      ro: ["Zonă protejată pentru Caretta caretta", "Arhipelag nelocuit în Marea Mediterană", "Monitorizat de ONG-uri locale", "Acces limitat pentru turiști"],
+      en: ["Conservation site for Caretta caretta", "Uninhabited archipelago in the Mediterranean", "Monitored by local NGOs", "Restricted access for tourists"],
+    },
+    imageHint: "Kuriat Islands coastal landscape",
+  }
 ];
 

@@ -930,5 +930,37 @@ export const poiExtraCubaLifeV2: POI[] = [
       en: ["Relaxation", "Leisure", "A playground for children in Matanzas.", "Located in Cuba, the largest island state in the Caribbean.", "Tropical-humid climate with distinct wet and dry seasons.", "Havana, the capital, is the country's political and cultural hub."]
     }
   }
+,
+  {
+    id: "cuba-parque-naturaleza-topes-life-v2",
+    type: "park",
+    name: { de: "Naturpark Topes de Collantes", hu: "Topes de Collantes Természetvédelmi Park", ro: "Parcul Natural Topes de Collantes", en: "Topes de Collantes Natural Park" },
+    coords: [-79.99, 21.895],
+    description: {
+      de: "Dieser Naturpark liegt im Escambray-Gebirge und schützt eine vielfältige Bergflora sowie verschiedene Wasserfälle. Er umfasst mehrere Schutzgebiete mit endemischen Baumarten und zahlreichen Vogelarten.",
+      hu: "Ez a természeti park az Escambray-hegységben található, védelmezve a változatos hegyi növényvilágot és számos vízesést. Több védett területet foglal magában endemikus fafajokkal és gazdag madárvilággal.",
+      ro: "Acest parc natural este situat în munții Escambray și protejează o floră montană diversă, precum și numeroase cascade. Acesta include mai multe arii protejate cu specii de arbori endemici și păsări.",
+      en: "This natural park is located in the Escambray Mountains and protects diverse mountain flora and several waterfalls. It includes multiple protected areas with endemic tree species and numerous bird species.",
+    },
+    facts: {
+      de: ["Liegt auf über 800 Metern Höhe.", "Bekannt für den Salto del Caburní Wasserfall.", "Beherbergt seltene Orchideenarten.", "Teil des Escambray-Gebirgsmassivs."],
+      hu: ["Több mint 800 méteres tengerszint feletti magasság.", "Ismert a Salto del Caburní vízesésről.", "Ritka orchideafajok otthona.", "Az Escambray-hegység része."],
+      ro: ["Situat la o altitudine de peste 800 de metri.", "Cunoscut pentru cascada Salto del Caburní.", "Găzduiește specii rare de orhidee.", "Face parte din masivul muntos Escambray."],
+      en: ["Located at over 800 meters elevation.", "Known for the Salto del Caburní waterfall.", "Home to rare orchid species.", "Part of the Escambray mountain range."],
+    },
+    imageHint: "Topes de Collantes mountain landscape with waterfall",
+    descriptionAdvanced: {
+      de: "Der Topes de Collantes Natural Park liegt im Escambray-Gebirge in der Provinz Sancti Spíritus, Kuba. Er wurde 1987 als Schutzgebiet ausgewiesen und umfasst 200 Quadratkilometer tropischen Bergwalds. Der Park ist bekannt für seine Wasserfälle, darunter der 75 Meter hohe Salto del Caburní. Die Flora umfasst über 100 Orchideenarten und endemische Palmen. Die Fauna ist reich an Vögeln, darunter der kubanische Trogon. Der Park bietet Wanderwege und Höhlen. Er ist ein wichtiges Wassereinzugsgebiet für die Region.",
+      hu: "A Topes de Collantes Természeti Park Kuba Sancti Spíritus tartományában található, az Escambray-hegységben. 1987-ben hozták létre, területe 200 km². A park híres vízeséseiről, köztük a 75 méteres Salto del Caburníról. Több mint 100 orchideafaj és endemikus pálmák találhatók itt. A park madárvilága sokszínű, a kubai trogon is előfordul. Gyalogösvények és barlangok várják a látogatókat. A park fontos vízgyűjtő terület.",
+      ro: "Parcul Natural Topes de Collantes este situat în Munții Escambray, provincia Sancti Spíritus, Cuba. A fost creat în 1987 și se întinde pe 200 km². Este renumit pentru cascadele sale, în special Salto del Caburní (75 m). Flora include peste 100 de specii de orhidee și palmieri endemici. Fauna include păsări precum trogonul cubanez. Parcul are trasee de drumeție și peșteri. Este o zonă importantă de captare a apei.",
+      en: "Topes de Collantes Natural Park is a protected area in the Escambray Mountains of Sancti Spíritus, Cuba. Established in 1987, it covers 200 km² of tropical forest. The park features waterfalls like Salto del Caburní (75 m) and Salto de Soroa. Its biodiversity includes over 100 orchid species and endemics like the Cuban tody. Hiking trails lead through lush vegetation and limestone caves. The park also contains coffee plantations and a small museum. It is a popular ecotourism destination.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1987", "Fläche: 200 km²", "Höchster Wasserfall: 75 Meter (Salto del Caburní)", "Orchideenarten: über 100", "Höhenlage: 400–800 m ü.M.", "Wanderwege: 15 km"],
+      hu: ["Alapítás: 1987", "Terület: 200 km²", "Legmagasabb vízesés: 75 m", "Orchideafajok: 100+", "Tengerszint feletti magasság: 400–800 m", "Túraútvonalak: 15 km"],
+      ro: ["Fondat în 1987", "Suprafață: 200 km²", "Cascada cea mai înaltă: 75 m", "Specii de orhidee: peste 100", "Altitudine: 400–800 m", "Trasee: 15 km"],
+      en: ["Established: 1987", "Area: 200 km²", "Highest waterfall: 75 m (Salto del Caburní)", "Orchid species: over 100", "Elevation: 400–800 m", "Hiking trails: 15 km"],
+    },
+  }
 ];
 

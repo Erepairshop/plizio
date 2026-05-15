@@ -4,7 +4,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-turda-cities-v2",
     type: "city",
-    parent: "RO-CJ",
+    parent: "RO",
     name: { de: "Turda", hu: "Torda", ro: "Turda", en: "Turda" },
     coords: [23.7745, 46.5709],
     description: {
@@ -36,7 +36,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-resita-cities-v2",
     type: "city",
-    parent: "RO-CS",
+    parent: "RO",
     name: { de: "Reschitza", hu: "Resicabánya", ro: "Reșița", en: "Reșița" },
     coords: [21.8897, 45.3005],
     description: {
@@ -68,7 +68,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-medias-cities-v2",
     type: "city",
-    parent: "RO-SB",
+    parent: "RO",
     name: { de: "Mediasch", hu: "Medgyes", ro: "Mediaș", en: "Mediaș" },
     coords: [24.3524, 46.1664],
     description: {
@@ -100,7 +100,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-targu-jiu-cities-v2",
     type: "city",
-    parent: "RO-GJ",
+    parent: "RO",
     name: { de: "Târgu Jiu", hu: "Zsilvásárhely", ro: "Târgu Jiu", en: "Târgu Jiu" },
     coords: [23.275, 45.035],
     description: {
@@ -132,7 +132,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-deva-cities-v2",
     type: "city",
-    parent: "RO-HD",
+    parent: "RO",
     name: { de: "Diemrich", hu: "Déva", ro: "Deva", en: "Deva" },
     coords: [22.9, 45.8833],
     description: {
@@ -164,7 +164,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-ramnicu-valcea-cities-v2",
     type: "city",
-    parent: "RO-VL",
+    parent: "RO",
     name: { de: "Râmnicu Vâlcea", hu: "Râmnicu Vâlcea", ro: "Râmnicu Vâlcea", en: "Râmnicu Vâlcea" },
     coords: [24.3667, 45.1],
     description: {
@@ -196,7 +196,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-codlea-cities-v2",
     type: "city",
-    parent: "RO-BV",
+    parent: "RO",
     name: { de: "Zeiden", hu: "Feketehalom", ro: "Codlea", en: "Codlea" },
     coords: [25.45, 45.7],
     description: {
@@ -228,7 +228,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-lupeni-cities-v2",
     type: "city",
-    parent: "RO-GJ",
+    parent: "RO",
     name: { de: "Lupeni", hu: "Lupény", ro: "Lupeni", en: "Lupeni" },
     coords: [23.23, 45.35],
     description: {
@@ -260,7 +260,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-toplita-cities-v2",
     type: "city",
-    parent: "RO-HR",
+    parent: "RO",
     name: { de: "Toplița", hu: "Maroshévíz", ro: "Toplița", en: "Toplița" },
     coords: [25.35, 46.91],
     description: {
@@ -292,7 +292,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-ovidiu-cities-v2",
     type: "city",
-    parent: "RO-CT",
+    parent: "RO",
     name: { de: "Ovidiu", hu: "Ovidiu", ro: "Ovidiu", en: "Ovidiu" },
     coords: [28.56, 44.26],
     description: {
@@ -324,7 +324,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-cisnadie-cities-v2",
     type: "city",
-    parent: "RO-SB",
+    parent: "RO",
     name: { de: "Heltau", hu: "Nagydisznód", ro: "Cisnădie", en: "Cisnădie" },
     coords: [24.15, 45.71],
     description: {
@@ -356,7 +356,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-pangrati-cities-v2",
     type: "city",
-    parent: "RO-NT",
+    parent: "RO",
     name: { de: "Pangrati", hu: "Pangrati", ro: "Pangrati", en: "Pangrati" },
     coords: [26.25, 46.9],
     description: {
@@ -388,7 +388,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-techirghiol-cities-v2",
     type: "city",
-    parent: "RO-CT",
+    parent: "RO",
     name: { de: "Techirghiol", hu: "Techirghiol", ro: "Techirghiol", en: "Techirghiol" },
     coords: [28.6, 44.06],
     description: {
@@ -420,7 +420,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-balan-cities-v2",
     type: "city",
-    parent: "RO-HR",
+    parent: "RO",
     name: { de: "Bălan", hu: "Balánbánya", ro: "Bălan", en: "Bălan" },
     coords: [25.8, 46.65],
     description: {
@@ -452,7 +452,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-ghimbav-cities-v2",
     type: "city",
-    parent: "RO-BV",
+    parent: "RO",
     name: { de: "Weidenbach", hu: "Vidombák", ro: "Ghimbav", en: "Ghimbav" },
     coords: [25.5, 45.65],
     description: {
@@ -484,7 +484,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-valenii-de-munte-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Vălenii de Munte", hu: "Vălenii de Munte", ro: "Vălenii de Munte", en: "Vălenii de Munte" },
     coords: [26.05, 45.2],
     description: {
@@ -516,7 +516,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-mizil-cities-v2",
     type: "city",
-    parent: "RO-BZ",
+    parent: "RO",
     name: { de: "Mizil", hu: "Mizil", ro: "Mizil", en: "Mizil" },
     coords: [26.43, 45.0],
     description: {
@@ -548,7 +548,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-campina-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Câmpina", hu: "Câmpina", ro: "Câmpina", en: "Câmpina" },
     coords: [25.73, 45.13],
     description: {
@@ -580,7 +580,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-baicoi-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Băicoi", hu: "Băicoi", ro: "Băicoi", en: "Băicoi" },
     coords: [25.85, 45.03],
     description: {
@@ -612,7 +612,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-breaza-cities-v2",
     type: "city",
-    parent: "RO-DB",
+    parent: "RO",
     name: { de: "Breaza", hu: "Breaza", ro: "Breaza", en: "Breaza" },
     coords: [25.66, 45.18],
     description: {
@@ -644,7 +644,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-boldesti-scaeni-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Boldești-Scăeni", hu: "Boldești-Scăeni", ro: "Boldești-Scăeni", en: "Boldești-Scăeni" },
     coords: [26.03, 45.03],
     description: {
@@ -676,7 +676,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-urlati-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Urlați", hu: "Urlați", ro: "Urlați", en: "Urlați" },
     coords: [26.23, 45.0],
     description: {
@@ -708,7 +708,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-slanic-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Slănic", hu: "Slănic", ro: "Slănic", en: "Slănic" },
     coords: [25.93, 45.23],
     description: {
@@ -740,7 +740,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-azuga-cities-v2",
     type: "city",
-    parent: "RO-BV",
+    parent: "RO",
     name: { de: "Azuga", hu: "Azuga", ro: "Azuga", en: "Azuga" },
     coords: [25.56, 45.45],
     description: {
@@ -772,7 +772,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-busteni-cities-v2",
     type: "city",
-    parent: "RO-BV",
+    parent: "RO",
     name: { de: "Bușteni", hu: "Bușteni", ro: "Bușteni", en: "Bușteni" },
     coords: [25.53, 45.41],
     description: {
@@ -804,7 +804,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-sinaia-cities-v2",
     type: "city",
-    parent: "RO-BV",
+    parent: "RO",
     name: { de: "Sinaia", hu: "Sinaia", ro: "Sinaia", en: "Sinaia" },
     coords: [25.55, 45.35],
     description: {
@@ -836,7 +836,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-plopeni-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Plopeni", hu: "Plopeni", ro: "Plopeni", en: "Plopeni" },
     coords: [25.96, 45.06],
     description: {
@@ -868,7 +868,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-cornu-cities-v2",
     type: "city",
-    parent: "RO-DB",
+    parent: "RO",
     name: { de: "Cornu", hu: "Cornu", ro: "Cornu", en: "Cornu" },
     coords: [25.7, 45.16],
     description: {
@@ -900,7 +900,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-banesti-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Bănești", hu: "Bănești", ro: "Bănești", en: "Bănești" },
     coords: [25.75, 45.1],
     description: {
@@ -932,7 +932,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-posesti-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Posești", hu: "Posești", ro: "Posești", en: "Posești" },
     coords: [26.1, 45.23],
     description: {
@@ -964,7 +964,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-drajna-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Drajna", hu: "Drajna", ro: "Drajna", en: "Drajna" },
     coords: [26.0, 45.2],
     description: {
@@ -996,7 +996,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-stefesti-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Ștefești", hu: "Ștefești", ro: "Ștefești", en: "Ștefești" },
     coords: [26.06, 45.26],
     description: {
@@ -1028,7 +1028,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-teisani-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Teișani", hu: "Teișani", ro: "Teișani", en: "Teișani" },
     coords: [26.03, 45.23],
     description: {
@@ -1060,7 +1060,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-aricestii-rahtivani-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Ariceștii Rahtivani", hu: "Ariceștii Rahtivani", ro: "Ariceștii Rahtivani", en: "Ariceștii Rahtivani" },
     coords: [25.9, 44.96],
     description: {
@@ -1092,7 +1092,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-barcanesti-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Bărcănești", hu: "Bărcănești", ro: "Bărcănești", en: "Bărcănești" },
     coords: [26.06, 44.86],
     description: {
@@ -1124,7 +1124,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-targsoru-vechi-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Târgșoru Vechi", hu: "Târgșoru Vechi", ro: "Târgșoru Vechi", en: "Târgșoru Vechi" },
     coords: [25.96, 44.9],
     description: {
@@ -1156,7 +1156,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-filipestii-de-padure-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Filipeștii de Pădure", hu: "Filipeștii de Pădure", ro: "Filipeștii de Pădure", en: "Filipeștii de Pădure" },
     coords: [25.76, 45.0],
     description: {
@@ -1188,7 +1188,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-brazi-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Brazi", hu: "Brazi", ro: "Brazi", en: "Brazi" },
     coords: [26.03, 44.86],
     description: {
@@ -1220,7 +1220,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-bucov-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Bucov", hu: "Bucov", ro: "Bucov", en: "Bucov" },
     coords: [26.06, 44.96],
     description: {
@@ -1252,7 +1252,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-valcanesti-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Vălcănești", hu: "Vălcănești", ro: "Vălcănești", en: "Vălcănești" },
     coords: [26.0, 45.13],
     description: {
@@ -1284,7 +1284,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-puchenii-mari-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Puchenii Mari", hu: "Puchenii Mari", ro: "Puchenii Mari", en: "Puchenii Mari" },
     coords: [26.03, 44.8],
     description: {
@@ -1316,7 +1316,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-blejoi-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Blejoi", hu: "Blejoi", ro: "Blejoi", en: "Blejoi" },
     coords: [26.03, 44.96],
     description: {
@@ -1348,7 +1348,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-dumbravesti-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Dumbrăvești", hu: "Dumbrăvești", ro: "Dumbrăvești", en: "Dumbrăvești" },
     coords: [26.0, 45.1],
     description: {
@@ -1380,7 +1380,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-gura-vitioarei-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Gura Vitioarei", hu: "Gura Vitioarei", ro: "Gura Vitioarei", en: "Gura Vitioarei" },
     coords: [26.06, 45.16],
     description: {
@@ -1412,7 +1412,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-cocorastii-colt-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Cocorăștii Colț", hu: "Cocorăștii Colț", ro: "Cocorăștii Colț", en: "Cocorăștii Colț" },
     coords: [25.86, 44.83],
     description: {
@@ -1444,7 +1444,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-colceag-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Colceag", hu: "Colceag", ro: "Colceag", en: "Colceag" },
     coords: [26.3, 44.96],
     description: {
@@ -1476,7 +1476,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-tomstesti-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Tomșești", hu: "Tomșești", ro: "Tomșești", en: "Tomșești" },
     coords: [26.2, 44.93],
     description: {
@@ -1508,7 +1508,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-filipeștii-de-târg-cities-v2",
     type: "city",
-    parent: "RO-PH",
+    parent: "RO",
     name: { de: "Filipeștii de Târg", hu: "Filipeștii de Târg", ro: "Filipeștii de Târg", en: "Filipeștii de Târg" },
     coords: [25.86, 44.96],
     description: {
@@ -1540,7 +1540,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-magurele-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Măgurele", hu: "Măgurele", ro: "Măgurele", en: "Măgurele" },
     coords: [26.03, 44.33],
     description: {
@@ -1572,7 +1572,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-buftea-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Buftea", hu: "Buftea", ro: "Buftea", en: "Buftea" },
     coords: [25.96, 44.56],
     description: {
@@ -1604,7 +1604,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-otopeni-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Otopeni", hu: "Otopeni", ro: "Otopeni", en: "Otopeni" },
     coords: [26.06, 44.55],
     description: {
@@ -1636,7 +1636,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-pantelimon-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Pantelimon", hu: "Pantelimon", ro: "Pantelimon", en: "Pantelimon" },
     coords: [26.2, 44.43],
     description: {
@@ -1668,7 +1668,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-popesti-leordeni-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Popești-Leordeni", hu: "Popești-Leordeni", ro: "Popești-Leordeni", en: "Popești-Leordeni" },
     coords: [26.16, 44.38],
     description: {
@@ -1700,7 +1700,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-voluntari-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Voluntari", hu: "Voluntari", ro: "Voluntari", en: "Voluntari" },
     coords: [26.16, 44.48],
     description: {
@@ -1732,7 +1732,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-bragadiru-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Bragadiru", hu: "Bragadiru", ro: "Bragadiru", en: "Bragadiru" },
     coords: [25.96, 44.36],
     description: {
@@ -1764,7 +1764,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-chitila-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Chitila", hu: "Chitila", ro: "Chitila", en: "Chitila" },
     coords: [25.96, 44.5],
     description: {
@@ -1796,7 +1796,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-darasti-ilfov-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Dărăști-Ilfov", hu: "Dărăști-Ilfov", ro: "Dărăști-Ilfov", en: "Dărăști-Ilfov" },
     coords: [26.0, 44.31],
     description: {
@@ -1828,7 +1828,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-copaceni-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Copăceni", hu: "Copăceni", ro: "Copăceni", en: "Copăceni" },
     coords: [26.06, 44.33],
     description: {
@@ -1860,7 +1860,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-1-decembrie-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "1 Decembrie", hu: "1 Decembrie", ro: "1 Decembrie", en: "1 Decembrie" },
     coords: [26.03, 44.31],
     description: {
@@ -1892,7 +1892,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-vidra-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Vidra", hu: "Vidra", ro: "Vidra", en: "Vidra" },
     coords: [26.1, 44.26],
     description: {
@@ -1924,7 +1924,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-sindrilita-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Sindrilita", hu: "Sindrilita", ro: "Sindrilita", en: "Sindrilita" },
     coords: [26.3, 44.53],
     description: {
@@ -1956,7 +1956,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-gagu-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Gagu", hu: "Gagu", ro: "Gagu", en: "Gagu" },
     coords: [26.23, 44.56],
     description: {
@@ -1988,7 +1988,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-dascalu-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Dascălu", hu: "Dascălu", ro: "Dascălu", en: "Dascălu" },
     coords: [26.2, 44.6],
     description: {
@@ -2020,7 +2020,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-mogosoaia-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Mogoșoaia", hu: "Mogoșoaia", ro: "Mogoșoaia", en: "Mogoșoaia" },
     coords: [25.96, 44.53],
     description: {
@@ -2052,7 +2052,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-peris-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Periș", hu: "Periș", ro: "Periș", en: "Periș" },
     coords: [25.96, 44.66],
     description: {
@@ -2084,7 +2084,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-snagov-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Snagov", hu: "Snagov", ro: "Snagov", en: "Snagov" },
     coords: [26.16, 44.7],
     description: {
@@ -2116,7 +2116,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-găneasa-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Găneasa", hu: "Găneasa", ro: "Găneasa", en: "Găneasa" },
     coords: [26.26, 44.5],
     description: {
@@ -2148,7 +2148,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-afumati-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Afumați", hu: "Afumați", ro: "Afumați", en: "Afumați" },
     coords: [26.2, 44.5],
     description: {
@@ -2180,7 +2180,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-stefanestii-de-jos-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Ștefăneștii de Jos", hu: "Ștefăneștii de Jos", ro: "Ștefăneștii de Jos", en: "Ștefăneștii de Jos" },
     coords: [26.16, 44.53],
     description: {
@@ -2212,7 +2212,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-tunari-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Tunari", hu: "Tunari", ro: "Tunari", en: "Tunari" },
     coords: [26.1, 44.53],
     description: {
@@ -2244,7 +2244,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-corbeanca-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Corbeanca", hu: "Corbeanca", ro: "Corbeanca", en: "Corbeanca" },
     coords: [26.03, 44.6],
     description: {
@@ -2276,7 +2276,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-balotesti-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Balotești", hu: "Balotești", ro: "Balotești", en: "Balotești" },
     coords: [26.06, 44.6],
     description: {
@@ -2308,7 +2308,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-gradistea-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Grădiștea", hu: "Grădiștea", ro: "Grădiștea", en: "Grădiștea" },
     coords: [26.26, 44.66],
     description: {
@@ -2340,7 +2340,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-nuci-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Nuci", hu: "Nuci", ro: "Nuci", en: "Nuci" },
     coords: [26.33, 44.66],
     description: {
@@ -2372,7 +2372,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-petrachioaia-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Petrăchioaia", hu: "Petrăchioaia", ro: "Petrăchioaia", en: "Petrăchioaia" },
     coords: [26.3, 44.56],
     description: {
@@ -2404,7 +2404,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-ciolpani-cities-v2",
     type: "city",
-    parent: "RO-IF",
+    parent: "RO",
     name: { de: "Ciolpani", hu: "Ciolpani", ro: "Ciolpani", en: "Ciolpani" },
     coords: [26.06, 44.7],
     description: {
@@ -2436,7 +2436,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-domnesti-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Domnești", hu: "Domnești", ro: "Domnești", en: "Domnești" },
     coords: [25.93, 44.4],
     description: {
@@ -2468,7 +2468,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-clinceni-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Clinceni", hu: "Clinceni", ro: "Clinceni", en: "Clinceni" },
     coords: [25.96, 44.36],
     description: {
@@ -2500,7 +2500,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-cornetu-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Cornetu", hu: "Cornetu", ro: "Cornetu", en: "Cornetu" },
     coords: [25.96, 44.33],
     description: {
@@ -2532,7 +2532,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-cernica-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Cernica", hu: "Cernica", ro: "Cernica", en: "Cernica" },
     coords: [26.23, 44.4],
     description: {
@@ -2564,7 +2564,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-glina-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Glina", hu: "Glina", ro: "Glina", en: "Glina" },
     coords: [26.16, 44.4],
     description: {
@@ -2596,7 +2596,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-berceni-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Berceni", hu: "Berceni", ro: "Berceni", en: "Berceni" },
     coords: [26.16, 44.33],
     description: {
@@ -2628,7 +2628,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-dragomiresti-vale-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Dragomirești-Vale", hu: "Dragomirești-Vale", ro: "Dragomirești-Vale", en: "Dragomirești-Vale" },
     coords: [25.9, 44.46],
     description: {
@@ -2660,7 +2660,7 @@ export const romaniaCitiesV2: POI[] = [
   {
     id: "romania-crevedia-cities-v2",
     type: "city",
-    parent: "RO-B",
+    parent: "RO",
     name: { de: "Crevedia", hu: "Crevedia", ro: "Crevedia", en: "Crevedia" },
     coords: [25.9, 44.56],
     description: {

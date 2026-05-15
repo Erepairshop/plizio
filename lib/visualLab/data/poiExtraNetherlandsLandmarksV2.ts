@@ -4,7 +4,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-dom-tower-utrecht-landmarks-v2",
     type: "tower",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Domturm Utrecht", hu: "Dom-torony Utrecht", ro: "Turnul Dom din Utrecht", en: "Dom Tower Utrecht" },
     coords: [5.1147, 52.0906],
     description: {
@@ -36,7 +36,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-ridderzaal-the-hague-landmarks-v2",
     type: "palace",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Rittersaal Den Haag", hu: "Lovagterem Hága", ro: "Sala Cavalerilor Haga", en: "Ridderzaal The Hague" },
     coords: [4.3125, 52.0797],
     description: {
@@ -68,7 +68,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-markthal-rotterdam-landmarks-v2",
     type: "landmark",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Markthal Rotterdam", hu: "Markthal Rotterdam", ro: "Markthal Rotterdam", en: "Markthal Rotterdam" },
     coords: [4.4842, 51.9175],
     description: {
@@ -100,7 +100,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-erasmus-house-rotterdam-landmarks-v2",
     type: "landmark",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Erasmushaus Rotterdam", hu: "Erasmus-ház Rotterdam", ro: "Casa Erasmus Rotterdam", en: "Erasmus House Rotterdam" },
     coords: [4.4795, 51.9213],
     description: {
@@ -132,7 +132,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-moco-museum-amsterdam-landmarks-v2",
     type: "museum",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Moco Museum Amsterdam", hu: "Moco Múzeum Amszterdam", ro: "Muzeul Moco Amsterdam", en: "Moco Museum Amsterdam" },
     coords: [4.8824, 52.3582],
     description: {
@@ -164,7 +164,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-westerkerk-amsterdam-landmarks-v2",
     type: "church",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Westerkerk Amsterdam", hu: "Westerkerk Amszterdam", ro: "Westerkerk Amsterdam", en: "Westerkerk Amsterdam" },
     coords: [4.8837, 52.3762],
     description: {
@@ -196,7 +196,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-tuschinski-theater-amsterdam-landmarks-v2",
     type: "theater",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Tuschinski-Theater Amsterdam", hu: "Tuschinski Színház Amszterdam", ro: "Teatrul Tuschinski Amsterdam", en: "Tuschinski Theater Amsterdam" },
     coords: [4.8932, 52.3664],
     description: {
@@ -228,7 +228,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-het-loo-palace-apeldoorn-landmarks-v2",
     type: "palace",
-    parent: "NL-GE",
+    parent: "NL",
     name: { de: "Paleis Het Loo Apeldoorn", hu: "Het Loo-palota Apeldoorn", ro: "Palatul Het Loo Apeldoorn", en: "Paleis Het Loo Apeldoorn" },
     coords: [5.9452, 52.2346],
     description: {
@@ -260,7 +260,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-st-bavo-church-haarlem-landmarks-v2",
     type: "church",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "St.-Bavo-Kirche Haarlem", hu: "St. Bavo-templom Haarlem", ro: "Biserica Sfântul Bavo Haarlem", en: "St. Bavo Church Haarlem" },
     coords: [4.6369, 52.3813],
     description: {
@@ -292,7 +292,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-pieterskerk-leiden-landmarks-v2",
     type: "church",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Pieterskerk Leiden", hu: "Pieterskerk Leiden", ro: "Pieterskerk Leiden", en: "Pieterskerk Leiden" },
     coords: [4.4908, 52.1583],
     description: {
@@ -324,7 +324,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-nemo-science-museum-amsterdam-landmarks-v2",
     type: "museum",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "NEMO Science Museum Amsterdam", hu: "NEMO Tudományos Múzeum Amszterdam", ro: "Muzeul de Știință NEMO Amsterdam", en: "NEMO Science Museum Amsterdam" },
     coords: [4.9113, 52.3751],
     description: {
@@ -356,7 +356,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-st-johns-cathedral-den-bosch-landmarks-v2",
     type: "cathedral",
-    parent: "NL-NB",
+    parent: "NL",
     name: { de: "Sankt-Johannes-Kathedrale Den Bosch", hu: "Szent János-székesegyház Den Bosch", ro: "Catedrala Sfântul Ioan Den Bosch", en: "St. John's Cathedral Den Bosch" },
     coords: [5.3089, 51.6875],
     description: {
@@ -388,7 +388,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-amsterdam-central-station-landmarks-v2",
     type: "landmark",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Bahnhof Amsterdam Centraal", hu: "Amsterdam Centraal pályaudvar", ro: "Gara Centrală Amsterdam", en: "Amsterdam Centraal Station" },
     coords: [4.9003, 52.3791],
     description: {
@@ -420,7 +420,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-van-nelle-factory-rotterdam-landmarks-v2",
     type: "factory",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Van-Nelle-Fabrik Rotterdam", hu: "Van Nelle-gyár Rotterdam", ro: "Fabrica Van Nelle Rotterdam", en: "Van Nelle Factory Rotterdam" },
     coords: [4.4367, 51.9283],
     description: {
@@ -452,7 +452,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-rotterdam-city-hall-landmarks-v2",
     type: "landmark",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Rathaus Rotterdam", hu: "Rotterdami városháza", ro: "Primăria Rotterdam", en: "Rotterdam City Hall" },
     coords: [4.4792, 51.9225],
     description: {
@@ -484,7 +484,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-st-nicholas-basilica-amsterdam-landmarks-v2",
     type: "church",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "St.-Nikolaus-Basilika Amsterdam", hu: "Szent Miklós-bazilika Amszterdam", ro: "Bazilica Sfântul Nicolae Amsterdam", en: "St. Nicholas Basilica Amsterdam" },
     coords: [4.9011, 52.3772],
     description: {
@@ -516,7 +516,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-kasteel-de-haar-utrecht-landmarks-v2",
     type: "castle",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Kasteel de Haar Utrecht", hu: "De Haar-kastély Utrecht", ro: "Castelul de Haar Utrecht", en: "Kasteel de Haar Utrecht" },
     coords: [4.9814, 52.1128],
     description: {
@@ -548,7 +548,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-militair-museum-soesterberg-landmarks-v2",
     type: "museum",
-    parent: "NL-UT",
+    parent: "NL",
     name: { de: "Nationales Militärmuseum Soesterberg", hu: "Nemzeti Katonai Múzeum Soesterberg", ro: "Muzeul Militar Național Soesterberg", en: "National Military Museum Soesterberg" },
     coords: [5.2717, 52.1275],
     description: {
@@ -580,7 +580,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-old-church-amsterdam-landmarks-v2",
     type: "church",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Oude Kerk Amsterdam", hu: "Oude Kerk Amszterdam", ro: "Oude Kerk Amsterdam", en: "Oude Kerk Amsterdam" },
     coords: [4.8986, 52.3744],
     description: {
@@ -612,7 +612,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-rotterdam-central-station-landmarks-v2",
     type: "landmark",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Bahnhof Rotterdam Centraal", hu: "Rotterdam Centraal pályaudvar", ro: "Gara Centrală Rotterdam", en: "Rotterdam Central Station" },
     coords: [4.4692, 51.925],
     description: {
@@ -644,7 +644,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-kruisherenhotel-maastricht-landmarks-v2",
     type: "landmark",
-    parent: "NL-LI",
+    parent: "NL",
     name: { de: "Kruisherenhotel Maastricht", hu: "Kruisherenhotel Maastricht", ro: "Kruisherenhotel Maastricht", en: "Kruisherenhotel Maastricht" },
     coords: [5.6917, 50.8517],
     description: {
@@ -676,7 +676,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-euromast-rotterdam-landmarks-v2",
     type: "tower",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Euromast Rotterdam", hu: "Euromast Rotterdam", ro: "Euromast Rotterdam", en: "Euromast Rotterdam" },
     coords: [4.4764, 51.9067],
     description: {
@@ -708,7 +708,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-rijksmuseum-amsterdam-landmarks-v2",
     type: "museum",
-    parent: "NL-NH",
+    parent: "NL",
     name: { de: "Rijksmuseum Amsterdam", hu: "Rijksmuseum Amszterdam", ro: "Rijksmuseum Amsterdam", en: "Rijksmuseum Amsterdam" },
     coords: [4.8851, 52.3598],
     description: {
@@ -740,7 +740,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-city-hall-leiden-landmarks-v2",
     type: "landmark",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Rathaus Leiden", hu: "Leideni városháza", ro: "Primăria Leiden", en: "Leiden City Hall" },
     coords: [4.4925, 52.1581],
     description: {
@@ -772,7 +772,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-st-laurence-church-rotterdam-landmarks-v2",
     type: "church",
-    parent: "NL-ZH",
+    parent: "NL",
     name: { de: "Sankt-Laurenz-Kirche Rotterdam", hu: "Szent Lőrinc-templom Rotterdam", ro: "Biserica Sfântul Laurențiu Rotterdam", en: "St. Laurence Church Rotterdam" },
     coords: [4.4844, 51.9211],
     description: {
@@ -804,7 +804,7 @@ export const netherlandsLandmarksV2: POI[] = [
   {
     id: "netherlands-thialf-heerenveen-landmarks-v2",
     type: "landmark",
-    parent: "NL-FR",
+    parent: "NL",
     name: { de: "Thialf Heerenveen", hu: "Thialf Heerenveen", ro: "Thialf Heerenveen", en: "Thialf Heerenveen" },
     coords: [5.9228, 52.9419],
     description: {
