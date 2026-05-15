@@ -50,21 +50,36 @@ function geographicFacts(poi: POI) {
   ].filter(Boolean) as string[];
 }
 
-export function generateStaticParams() {
+export function generateStaticParams(arg: unknown) {
+  // DIAGNOSTIC: log how Next calls us — flat (no args) vs nested (with parent params).
+  try {
+    console.error("[gSP] arg type:", typeof arg, "keys:", arg && typeof arg === "object" ? Object.keys(arg as object) : "n/a", "json:", JSON.stringify(arg).slice(0, 200));
+  } catch (e) { console.error("[gSP] log err", e); }
+  const params = (arg && typeof arg === "object" && "params" in arg) ? (arg as { params: { lang?: string; country?: string } }).params : null;
+  const parentLang = params?.lang;
+  const parentCountry = params?.country;
   const out: { lang: string; country: string; state: string; poi: string }[] = [];
-  for (const lang of SUPPORTED_LANGS) {
+  const langsToWalk = parentLang ? [parentLang] : SUPPORTED_LANGS;
+  for (const lang of langsToWalk) {
+    if (!SUPPORTED_LANGS.includes(lang as Lang)) continue;
     for (const poi of pois) {
       if (!poi || !poi.parent || poi.type === "region" || poi.type === "country") continue;
       if (!hasIndexableContent(poi)) continue;
-      const country = countrySlugFor(lang, getCountryId(poi.parent!));
-      const statePath = buildStatePath(lang, poi.parent!).split("/").filter(Boolean);
-      const poiPath = buildPoiPath(lang, poi).split("/").filter(Boolean);
+      const country = countrySlugFor(lang as Lang, getCountryId(poi.parent!));
+      if (parentCountry && country !== parentCountry) continue;
+      const statePath = buildStatePath(lang as Lang, poi.parent!).split("/").filter(Boolean);
+      const poiPath = buildPoiPath(lang as Lang, poi).split("/").filter(Boolean);
       const state = statePath[2];
       const poiSlug = poiPath[3];
-      if (!lang || !country || !state || !poiSlug) continue;
-      out.push({ lang, country, state, poi: poiSlug });
+      if (!country || !state || !poiSlug) continue;
+      if (parentLang && parentCountry) {
+        out.push({ lang, country, state, poi: poiSlug });
+      } else {
+        out.push({ lang, country, state, poi: poiSlug });
+      }
     }
   }
+  console.error("[gSP] returning", out.length, "items (parentLang=", parentLang, "parentCountry=", parentCountry, ")");
   return out;
 }
 
