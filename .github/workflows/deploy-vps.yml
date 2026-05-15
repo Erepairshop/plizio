@@ -48,7 +48,7 @@ jobs:
           NODE_OPTIONS: --max-old-space-size=12288
           NEXT_BUILD_WORKERS: '5'
           NEXT_PRIVATE_WORKER_LIMIT: '5'
-        run: npx next build
+        run: npm run build
 
       - name: Verify out/ produced
         run: test -f out/index.html && test -d out/_next
