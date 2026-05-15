@@ -53,9 +53,8 @@ function geographicFacts(poi: POI) {
 // Called by Next.js once per parent {lang, country}. Per-country slicing keeps
 // the returned param count tiny, avoiding the V8 spread-args RangeError that
 // hits when generateStaticParams returns >65k entries from a single call.
-export function generateStaticParams({ params }: { params: { lang: string; country: string } }) {
-  const lang = params.lang;
-  const countryParam = params.country;
+export async function generateStaticParams({ params }: { params: Promise<{ lang: string; country: string }> }) {
+  const { lang, country: countryParam } = await params;
   if (!SUPPORTED_LANGS.includes(lang as Lang)) return [];
   const out: { state: string; poi: string }[] = [];
   for (const poi of pois) {
