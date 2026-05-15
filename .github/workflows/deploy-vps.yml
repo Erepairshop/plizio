@@ -46,8 +46,8 @@ jobs:
       - name: Build (static export → out/)
         env:
           NODE_OPTIONS: --max-old-space-size=12288
-          NEXT_BUILD_WORKERS: '5'
-          NEXT_PRIVATE_WORKER_LIMIT: '5'
+          NEXT_BUILD_WORKERS: '2'
+          NEXT_PRIVATE_WORKER_LIMIT: '2'
         run: npm run build
 
       - name: Verify out/ produced
