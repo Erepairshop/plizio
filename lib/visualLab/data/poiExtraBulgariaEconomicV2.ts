@@ -31,8 +31,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["1882-ben nyílt az első szövőgyár.", "1935-re több mint 130 üzem működött.", "A Jantra folyó biztosította az energiát.", "Fő profilja a gyapjúszövet-gyártás.", "1910-ben indult a nagyüzemi cipőgyártás.", "Jelentős bőr- és szőrmeipari központ."],
       ro: ["Prima fabrică textilă fondată în 1882.", "Peste 130 de uzine până în 1935.", "Situat pe valea râului Iantra.", "Axat pe producția de lână.", "Industria încălțămintei inițiată în 1910.", "Fost centru major de pielărie."],
       en: ["First textile factory opened in 1882.", "Over 130 mills operating by 1935.", "Built along the Yantra River.", "Specialized in wool manufacturing.", "Large-scale shoe production started 1910.", "Major leather processing center."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-gabrovo-industry-economic-v2.webp"},
   {
     id: "bulgaria-asenovgrad-agri-economic-v2",
     type: "agriculture",
@@ -63,8 +62,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["A szőlőültetvények kb. 1.200 hektárt fednek le.", "Az éves bortermelés kb. 5 millió liter.", "A fő fajták a Mavrud és a Rubin.", "Az éghajlat mérsékelten kontinentális.", "A talajok karbonátosak.", "A szőlőtermesztés a trákokig nyúlik vissza."],
       ro: ["Podgoriile acoperă aproximativ 1.200 de hectare.", "Producția anuală de vin este de circa 5 milioane de litri.", "Principalele soiuri sunt Mavrud și Rubin.", "Clima este temperat-continentală.", "Solurile sunt carbonatice.", "Viticultura datează din perioada tracică."],
       en: ["Vineyards cover about 1,200 hectares.", "Annual wine production is around 5 million liters.", "Main varieties are Mavrud and Rubin.", "The climate is temperate continental.", "Soils are carbonate-rich.", "Viticulture dates back to Thracian times."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-asenovgrad-agri-economic-v2.webp"},
   {
     id: "bulgaria-devnya-industrial-zone-economic-v2",
     type: "industry",
@@ -95,8 +93,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["A komplexum 1954-ben létesült.", "Évi 1,5 millió tonna szóda termelés.", "A műtrágyagyártás 1974-ben indult.", "Várna kikötőjének közelsége segíti.", "Mintegy 3000 dolgozót foglalkoztat.", "A cementgyár évi 2 millió tonnát ad."],
       ro: ["Baza industrială fondată în 1954.", "Producție de 1,5 milioane tone de sodă.", "Fabrica de îngrășăminte din 1974.", "Situat aproape de portul Varna.", "Are aproximativ 3000 de angajați.", "Fabrica de ciment de 2 milioane tone."],
       en: ["Industrial complex established in 1954.", "Produces 1.5 million tonnes of soda.", "Fertilizer plant operational since 1974.", "Located near the Port of Varna.", "Employs around 3000 industrial workers.", "Cement plant capacity of 2 million tonnes."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-devnya-industrial-zone-economic-v2.webp"},
   {
     id: "bulgaria-kurdzhali-lead-zinc-economic-v2",
     type: "mine",
@@ -127,8 +124,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["A komplexum 1955-ben kezdte meg működését.", "A Keleti-Rodope érceit használta fel.", "Évi 60 000 tonna cink kapacitás.", "Kénsavgyártás is zajlott a területen.", "A régi üzem 2012-ben csődbe ment.", "A modernizáció 2014-ben vette kezdetét."],
       ro: ["Combinatul a fost deschis în 1955.", "A procesat minereuri din Rodopii de Est.", "Capacitate de 60.000 tone de zinc.", "A produs și acid sulfuric industrial.", "Fabrica veche a dat faliment în 2012.", "Eforturile de modernizare au început în 2014."],
       en: ["Complex commenced operations in 1955.", "Processed ores from Eastern Rhodopes.", "Capacity of 60,000 tonnes of zinc.", "Produced industrial sulfuric acid.", "Original plant bankrupted in 2012.", "Modernization efforts started in 2014."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-kurdzhali-lead-zinc-economic-v2.webp"},
   {
     id: "bulgaria-radnevo-lignite-economic-v2",
     type: "mine",
@@ -159,8 +155,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["240 km²-es kiterjedés", "1952-ben kezdték el kiaknázni", "3 fő külszíni bánya működik", "Hőerőművek legfőbb beszállítója"],
       ro: ["Suprafață de 240 km²", "Începerea exploatării în 1952", "3 mine principale active", "Sursă primară pentru termocentrale"],
       en: ["240 km² total mining area", "Operations started in 1952", "3 major open-cast mines", "Primary fuel source for power"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-radnevo-lignite-economic-v2.webp"},
   {
     id: "bulgaria-kremikovtsi-industrial-site-economic-v2",
     type: "industry",
@@ -191,8 +186,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["1963-ban nyitották meg", "2009-ben zárták be végleg", "12 km²-es üzemi terület", "20 000 dolgozó fénykorában"],
       ro: ["Deschidere oficială în 1963", "Închiderea fabricii în 2009", "Suprafață totală de 12 km²", "20.000 angajați în perioada de vârf"],
       en: ["Official opening in 1963", "Plant closure in 2009", "12 km² total site area", "20,000 peak employees"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-kremikovtsi-industrial-site-economic-v2.webp"},
   {
     id: "bulgaria-pirdop-copper-economic-v2",
     type: "industry",
@@ -223,8 +217,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["A rézkohó 1958-ban nyílt meg.", "Évi 380 000 tonna anódréz kapacitás.", "A régió legnagyobb rézfinomítója.", "1,3 millió tonna kénsavat is előállít.", "Az üzemet 1997-ben privatizálták.", "Több mint 800 dolgozót foglalkoztat."],
       ro: ["Topitoria a fost deschisă în 1958.", "Capacitate de 380.000 tone cupru anodic.", "Cea mai mare rafinărie de cupru din regiune.", "Produce 1,3 milioane tone acid sulfuric.", "Preluată de grupul Aurubis în 1997.", "Oferă locuri de muncă pentru 800 de angajați."],
       en: ["Smelter facility opened in 1958.", "Capacity of 380,000 tonnes anode copper.", "Largest copper refinery in the region.", "Produces 1.3 million tonnes of sulfuric acid.", "Acquired by Aurubis group in 1997.", "Employs a workforce of over 800 people."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-pirdop-copper-economic-v2.webp"},
   {
     id: "bulgaria-svishtov-port-economic-v2",
     type: "port",
@@ -255,8 +248,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["A kikötő 1881-ben kezdte meg működését.", "Bulgária legdélebbi dunai kikötője.", "Szófiától 250 kilométerre fekszik.", "Főleg szenet és fát forgalmaz.", "3000 tonnás hajókat is képes fogadni.", "Észak-Bulgária agrárexportjának központja."],
       ro: ["Operațiunile portuare au început în 1881.", "Cel mai sudic port bulgar la Dunăre.", "Situat la 250 de kilometri de Sofia.", "Punct de tranzit pentru cărbune și lemn.", "Poate primi nave de până la 3000 de tone.", "Vital pentru exporturile agricole din nord."],
       en: ["Port operations began in 1881.", "Southernmost Bulgarian port on the Danube.", "Located 250 kilometers from Sofia.", "Major transit point for coal and timber.", "Accommodates river vessels up to 3000 tonnes.", "Key to Northern Bulgaria agricultural exports."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-svishtov-port-economic-v2.webp"},
   {
     id: "bulgaria-sevlievo-industry-economic-v2",
     type: "industry",
@@ -287,8 +279,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["1934-ben alapított Vidima gyár", "3000+ dolgozó az ágazatban", "Termékek 90%-át exportálják", "Ideal Standard regionális bázisa"],
       ro: ["Fabrica Vidima fondată în 1934", "Peste 3.000 de angajați în sector", "90% din producție este exportată", "Baza regională Ideal Standard"],
       en: ["Vidima factory founded in 1934", "3,000+ employees in sector", "90% of products exported", "Ideal Standard regional base"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-sevlievo-industry-economic-v2.webp"},
   {
     id: "bulgaria-karnobat-agri-economic-v2",
     type: "agriculture",
@@ -319,8 +310,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["A mezőgazdasági terület kb. 50.000 hektár.", "Fő termények: gabona, napraforgó, szőlő.", "A régiónak hagyománya van a napraforgóolaj-gyártásban.", "Az éghajlat mérsékelt.", "A talajok termékeny fekete-tengeri talajok.", "Karnobat Burgasz megyében van."],
       ro: ["Suprafața agricolă este de aproximativ 50.000 de hectare.", "Principalele culturi: cereale, floarea-soarelui, viță de vie.", "Regiunea are o tradiție în producția de ulei de floarea-soarelui.", "Clima este temperată.", "Solurile sunt fertile de la Marea Neagră.", "Karnobat este situat în provincia Burgas."],
       en: ["Agricultural area is about 50,000 hectares.", "Main crops: cereals, sunflowers, grapes.", "Region has a tradition in sunflower oil production.", "The climate is temperate.", "Soils are fertile Black Sea soils.", "Karnobat is in Burgas Province."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-karnobat-agri-economic-v2.webp"},
   {
     id: "bulgaria-dolna-mitropoliya-economic-v2",
     type: "industry",
@@ -351,8 +341,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["10 km-re fekszik Pleventől", "Napi 500 tonna olajkapacitás", "Jelentős gabonatároló központ", "Észak-bulgáriai logisztikai csomópont"],
       ro: ["La 10 km distanță de Plevna", "Capacitate de 500t ulei zilnic", "Centru major de stocare cereale", "Nod logistic în nordul Bulgariei"],
       en: ["10 km distance from Pleven", "500t daily oil refining capacity", "Major grain storage hub", "North Bulgaria logistics node"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-dolna-mitropoliya-economic-v2.webp"},
   {
     id: "bulgaria-haskovo-textile-economic-v2",
     type: "industry",
@@ -383,8 +372,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["19. századi ipari gyökerek", "Helyi GDP 30%-a az iparból", "100+ aktív textilipari cég", "Speciális gépgyártás exportra"],
       ro: ["Rădăcini industriale din sec. XIX", "30% din PIB-ul local din industrie", "Peste 100 de firme textile", "Export de utilaje specializate"],
       en: ["19th century industrial roots", "30% of local GDP from industry", "100+ active textile firms", "Specialized machinery exports"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-haskovo-textile-economic-v2.webp"},
   {
     id: "bulgaria-kaspichan-transport-economic-v2",
     type: "industry",
@@ -415,8 +403,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["Első vasútvonal 1866-ban", "Két fővonal kereszteződése", "Roca Group gyárának helyszíne", "100 éves kerámiaipari múlt"],
       ro: ["Prima linie ferată în 1866", "Intersecția a 2 linii principale", "Locația fabricii Roca Group", "Peste 100 de ani de tradiție ceramică"],
       en: ["First railway line in 1866", "Intersection of 2 main lines", "Roca Group factory location", "100+ years of ceramic history"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-kaspichan-transport-economic-v2.webp"},
   {
     id: "bulgaria-gorni-oryahovitsa-transport-economic-v2",
     type: "industry",
@@ -447,8 +434,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["A vasútállomás 1899-ben épült.", "Észak-Bulgária legnagyobb csomópontja.", "A 2-es és 4-es vasútvonalak metszéspontja.", "Naponta több mint 100 vonatot indít.", "Kiterjedt teheráru-terminállal rendelkezik.", "1923 óta vagonjavító üzem is működik itt."],
       ro: ["Gara a fost deschisă în 1899.", "Cel mai mare nod feroviar din nord.", "Intersecția liniilor feroviare 2 și 4.", "Gestionează peste 100 de trenuri zilnic.", "Dispune de un terminal de marfă masiv.", "Atelier de reparații vagoane din 1923."],
       en: ["Railway station opened in 1899.", "Northern Bulgaria's largest junction.", "Intersection of rail lines 2 and 4.", "Handles over 100 trains on a daily basis.", "Features a massive freight terminal.", "Wagon repair workshops operate since 1923."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-gorni-oryahovitsa-transport-economic-v2.webp"},
   {
     id: "bulgaria-yambol-industry-economic-v2",
     type: "industry",
@@ -479,8 +465,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["Hidraulikagyár indulása 1970-ben", "50+ élelmiszeripari egység", "Tundzsa-folyó vízvételi forrás", "20 000+ fős ipari munkaerő"],
       ro: ["Fabrica de hidraulică din anii 70", "Peste 50 unități alimentare", "Râul Tundja ca sursă de apă", "20.000+ forță de muncă industrială"],
       en: ["Hydraulic plant started in 1970s", "50+ food processing units", "Tundzha river as water source", "20,000+ industrial workforce"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-yambol-industry-economic-v2.webp"},
   {
     id: "bulgaria-panagyurishte-optics-economic-v2",
     type: "industry",
@@ -511,8 +496,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["1971-ben alapított Opticoelectron", "500+ szakképzett mérnök", "95%-os exportarány", "ISO 9001 minősített üzem"],
       ro: ["Opticoelectron fondat în 1971", "Peste 500 de ingineri specialiști", "Cotă de export de 95%", "Fabrică certificată ISO 9001"],
       en: ["Opticoelectron founded in 1971", "500+ specialized engineers", "95% export share", "ISO 9001 certified plant"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-panagyurishte-optics-economic-v2.webp"},
   {
     id: "bulgaria-silistra-port-economic-v2",
     type: "port",
@@ -543,8 +527,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["375 km-re a Duna-torkolattól", "1,5 millió tonna kapacitás", "Ro-Ro kompterminál", "10+ horgonyzóhely teherhajóknak"],
       ro: ["375 km de la gura Dunării", "Capacitate 1,5 milioane tone", "Terminal feribot Ro-Ro", "Peste 10 dane pentru marfă"],
       en: ["375 km from Danube mouth", "1.5 million tons capacity", "Ro-Ro ferry terminal", "10+ berths for cargo ships"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-silistra-port-economic-v2.webp"},
   {
     id: "bulgaria-razgrad-pharma-economic-v2",
     type: "industry",
@@ -575,8 +558,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["1954-ben épült antibiotikumgyár", "Huvepharma befektetési helyszín", "1000+ gyógyszeripari dolgozó", "EU-GMP minősített gyártás"],
       ro: ["Fabrica de antibiotice din 1954", "Locație de investiții Huvepharma", "Peste 1.000 de specialiști pharma", "Producție certificată EU-GMP"],
       en: ["1954 Antibiotic plant built", "Huvepharma investment site", "1000+ pharmaceutical staff", "EU GMP certified production"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-razgrad-pharma-economic-v2.webp"},
   {
     id: "bulgaria-targovishte-glass-economic-v2",
     type: "industry",
@@ -607,8 +589,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["2005-ben indult Sisecam gyár", "1500+ dolgozó az üvegiparban", "600+ millió dollár összberuházás", "Export 80+ országba"],
       ro: ["Startul fabricii Sisecam în 2005", "1.500 angajați în sectorul sticlei", "Investiții de peste 600 mil. $", "Export în peste 80 de țări"],
       en: ["2005 Sisecam factory start", "1,500+ employees in glass", "$600M+ total investment", "Export to 80+ countries"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-targovishte-glass-economic-v2.webp"},
   {
     id: "bulgaria-samokov-potatoes-economic-v2",
     type: "agriculture",
@@ -639,8 +620,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["A burgonya vetésterülete kb. 3.000 hektár.", "Az éves termés kb. 60.000 tonna.", "A szamokovi burgonya védett földrajzi jelzés.", "A régió a Rila-hegység lábánál fekszik.", "Az éghajlat hűvös a magasság miatt.", "Tej- és hústermeléssel is foglalkoznak."],
       ro: ["Suprafața cultivată cu cartofi este de aproximativ 3.000 de hectare.", "Producția anuală este de circa 60.000 de tone.", "Cartoful de Samokov este o indicație geografică protejată.", "Regiunea este situată la poalele Munților Rila.", "Clima este răcoroasă datorită altitudinii.", "Regiunea produce și lactate și carne."],
       en: ["Potato area is about 3,000 hectares.", "Annual harvest is around 60,000 tonnes.", "Samokov potato is a protected geographical indication.", "Region lies at the foot of the Rila Mountains.", "Climate is cool due to elevation.", "Dairy and meat production are also practiced."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-samokov-potatoes-economic-v2.webp"},
   {
     id: "bulgaria-lovech-industry-economic-v2",
     type: "industry",
@@ -671,8 +651,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["A repülőgépgyár 1941-ben épült.", "A gépkocsigyártás 1968-ban indult.", "Több mint 304 000 Moszkvics készült itt.", "A Balkan kerékpármárka 1957-ben indult.", "A Great Wall Motors 2012-ben nyitott üzemet.", "A gyártelep több mint 40 hektáron fekszik."],
       ro: ["Fabrica de avioane fondată în 1941.", "Producția auto a început în 1968.", "Peste 304.000 de autoturisme asamblate.", "Marca de biciclete Balkan creată în 1957.", "Fabrica Great Wall Motors deschisă în 2012.", "Zona industrială acoperă 40 de hectare."],
       en: ["Aircraft factory founded in 1941.", "Automobile production started in 1968.", "Over 304,000 Moskvitch cars assembled.", "Balkan bicycle brand established in 1957.", "Great Wall Motors plant opened in 2012.", "Industrial zone spans 40 hectares."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-lovech-industry-economic-v2.webp"},
   {
     id: "bulgaria-momchilgrad-tobacco-economic-v2",
     type: "agriculture",
@@ -703,8 +682,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["A dohányföldek kb. 2.000 hektárt tesznek ki.", "Fontos fajták a Basma és a Krumovgrad.", "A régió a keleti Rodopokban van.", "A dohánytermesztés az oszmán korszakban kezdődött.", "Az éghajlat enyhe, sok napsütéssel.", "A termesztést főleg kisgazdálkodók végzik."],
       ro: ["Câmpurile de tutun acoperă aproximativ 2.000 de hectare.", "Soiurile principale sunt Basma și Krumovgrad.", "Regiunea este situată în Rodopii de Est.", "Cultura tutunului a început în perioada otomană.", "Clima este blândă, cu multe zile însorite.", "Cultivarea este realizată în principal de mici fermieri."],
       en: ["Tobacco fields cover about 2,000 hectares.", "Main varieties are Basma and Krumovgrad.", "Region is in the Eastern Rhodopes.", "Tobacco cultivation started in Ottoman times.", "Climate is mild with many sunny days.", "Grown mainly by smallholder farmers."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-momchilgrad-tobacco-economic-v2.webp"},
   {
     id: "bulgaria-sopot-machinery-economic-v2",
     type: "industry",
@@ -767,8 +745,7 @@ export const bulgariaEconomicV2: POI[] = [
       hu: ["A palackozás 1992-ben indult.", "A forrás 700 méter mélyről fakad.", "A feltörő víz hőmérséklete 44°C.", "A hazai piac 40 százalékát fedi le.", "Éves termelése meghaladja a 200 millió litert.", "A Nyugati-Rodope szívében található."],
       ro: ["Îmbutelierea a început în 1992.", "Izvorul are o adâncime de 700 metri.", "Temperatura apei atinge 44°C.", "Deține 40% din cota de piață internă.", "Producție anuală de 200 milioane litri.", "Situat în inima Rodopilor Occidentali."],
       en: ["Water bottling operations began in 1992.", "Spring originates at 700 meters depth.", "Natural water temperature is 44°C.", "Holds a 40 percent market share.", "Annual output exceeds 200 million liters.", "Located in the Western Rhodope Mountains."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-devin-mineral-economic-v2.webp"},
   {
     id: "bulgaria-eliseina-metal-economic-v2",
     type: "industry",

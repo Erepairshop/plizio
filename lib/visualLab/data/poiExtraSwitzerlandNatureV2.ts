@@ -31,8 +31,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 1004 m", "Hossz: 9 km", "Szélesség: 1 km", "Mélység: max. 34 m", "Terület: 9,5 km²", "Befolyók: Orbe, Jougnena"],
       ro: ["Altitudine: 1.004 m", "Lungime: 9 km", "Lățime: 1 km", "Adâncime maximă: 34 m", "Suprafață: 9,5 km²", "Afluenți: Orbe, Jougnena"],
       en: ["Elevation: 1,004 m", "Length: 9 km", "Width: 1 km", "Max depth: 34 m", "Area: 9.5 km²", "Inflows: Orbe, Jougnena"],
-    },
-  },
+    }, image: "/poi-images/switzerland-lac-de-joux-nature-v2.webp"},
   {
     id: "switzerland-aare-gorge-nature-v2",
     type: "landmark",
@@ -63,8 +62,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["Az Aareschlucht hossza 1400 méter.", "Legnagyobb mélysége 200 méter.", "A legszűkebb ponton a folyó szélessége mindössze 1 méter.", "A sziklafalak jura kori malm mészkőből állnak (kb. 150 millió éves).", "A vízhozam tavasszal elérheti a 100 m³/másodpercet.", "A gyalogos híd 1912-ben nyílt meg, hossza 200 méter."],
       ro: ["Cheile Aare au o lungime de 1400 de metri.", "Adâncimea maximă este de 200 de metri.", "La punctul cel mai îngust, râul are doar 1 metru lățime.", "Pereții sunt formați din calcar malm din Jurasic (aproximativ 150 milioane de ani).", "Debitul de apă poate atinge 100 m³/s primăvara.", "Pasarela pietonală a fost deschisă în 1912 și are o lungime de 200 de metri."],
       en: ["The Aare Gorge is 1,400 meters long.", "Maximum depth is 200 meters.", "At the narrowest point, the river is only 1 meter wide.", "The rock walls consist of Malm limestone from the Jurassic period (approx. 150 million years old).", "Water flow can reach 100 cubic meters per second in spring.", "The footbridge was opened in 1912 and is 200 meters long."],
-    },
-  },
+    }, image: "/poi-images/switzerland-aare-gorge-nature-v2.webp"},
   {
     id: "switzerland-valle-verzasca-nature-v2",
     type: "valley",
@@ -95,8 +93,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Verzasca-völgy 30 km hosszú.", "A Lago di Vogorno gát 220 méter magas.", "A Verzasca folyó 30 km hosszú.", "A vízgyűjtő terület 186 km².", "A völgyben több mint 30 hagyományos kőház (rustico) található.", "A James Bond filmben (GoldenEye) 1995-ben történt bungee ugrás."],
       ro: ["Valea Verzasca are o lungime de 30 km.", "Barajul Lago di Vogorno are 220 de metri înălțime.", "Râul Verzasca are 30 km lungime.", "Bazinul hidrografic este de 186 km².", "În vale există peste 30 de rustici (case tradiționale din piatră).", "Saltul cu coarda elastică din filmul James Bond „GoldenEye” a avut loc în 1995."],
       en: ["The Verzasca Valley is 30 km long.", "The Lago di Vogorno dam is 220 meters high.", "The Verzasca River is 30 km long.", "The drainage basin covers 186 km².", "There are over 30 traditional stone houses (rustici) in the valley.", "The James Bond bungee jump in 'GoldenEye' occurred in 1995."],
-    },
-  },
+    }, image: "/poi-images/switzerland-valle-verzasca-nature-v2.webp"},
   {
     id: "switzerland-grosser-aletschgletscher-nature-v2",
     type: "mountain",
@@ -127,8 +124,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Nagy Aletsch-gleccser 23 km hosszú.", "Területe 81 km².", "A jég vastagsága eléri a 900 métert.", "Térfogata hozzávetőleg 11,5 km³.", "A gleccser 1850 óta 2,5 km-t húzódott vissza.", "Szélessége elérheti az 1,5 km-t."],
       ro: ["Ghețarul Marele Aletsch are 23 km lungime.", "Acoperă o suprafață de 81 km².", "Grosimea maximă a gheții este de 900 de metri.", "Volumul ghețarului este estimat la 11,5 km³.", "Ghețarul s-a retras cu 2,5 km din 1850.", "Lățimea ghețarului atinge până la 1,5 km."],
       en: ["The Great Aletsch Glacier is 23 km long.", "It covers an area of 81 km².", "Maximum ice thickness is 900 meters.", "The glacier's volume is estimated at 11.5 km³.", "The glacier has retreated 2.5 km since 1850.", "The glacier's width reaches up to 1.5 km."],
-    },
-  },
+    }, image: "/poi-images/switzerland-grosser-aletschgletscher-nature-v2.webp"},
   {
     id: "switzerland-lac-de-gruyere-nature-v2",
     type: "lake",
@@ -159,8 +155,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Gruyère-tó területe 9,6 km².", "Térfogata 200 millió m³.", "A Rossens-gát 83 méter magas.", "A gát 320 méter hosszú.", "Az építés 1942 és 1948 között zajlott.", "A tó 677 méter tengerszint feletti magasságban van."],
       ro: ["Lacul Gruyère are o suprafață de 9,6 km².", "Volumul este de 200 de milioane de m³.", "Barajul Rossens are 83 de metri înălțime.", "Barajul are 320 de metri lungime.", "Construcția a durat între 1942 și 1948.", "Lacul este situat la o altitudine de 677 de metri."],
       en: ["Lake Gruyère covers 9.6 km².", "Its volume is 200 million m³.", "The Rossens dam is 83 meters high.", "The dam is 320 meters long.", "Construction lasted from 1942 to 1948.", "The lake is located at an elevation of 677 meters above sea level."],
-    },
-  },
+    }, image: "/poi-images/switzerland-lac-de-gruyere-nature-v2.webp"},
   {
     id: "switzerland-doubs-nature-v2",
     type: "river",
@@ -191,8 +186,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Doubs teljes hossza 453 km.", "A svájci szakasz 74 km hosszú.", "A vízgyűjtő terület 7700 km².", "A Cluse du Doubs mélysége mintegy 200 méter.", "A Doubs a Jura 945 méter magasságában ered.", "A folyó közepes vízhozama a torkolatnál 80 m³/s."],
       ro: ["Râul Doubs are o lungime totală de 453 km.", "Sectorul elvețian măsoară 74 km.", "Bazinul hidrografic este de 7.700 km².", "Cheile Cluse du Doubs au o adâncime de aproximativ 200 m.", "Doubsul izvorăște la 945 m altitudine în Jura.", "Debitul mediu la vărsare este de 80 m³/s."],
       en: ["The Doubs River is 453 km long in total.", "The Swiss section is 74 km long.", "The drainage basin covers 7,700 km².", "The Cluse du Doubs gorge is about 200 m deep.", "The Doubs originates at 945 m elevation in the Jura.", "The average flow at the mouth is 80 m³/s."],
-    },
-  },
+    }, image: "/poi-images/switzerland-doubs-nature-v2.webp"},
   {
     id: "switzerland-creux-du-van-nature-v2",
     type: "mountain",
@@ -223,8 +217,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Creux du Van átmérője 1 km.", "Mélysége 500 méter.", "A perem körüli túraút 6,5 km hosszú.", "A sziklafalak jura kori mészkőből állnak (kb. 150 millió éves).", "A Creux du Van magassága 1200 méter tengerszint felett.", "A környéken kb. 100 kőszáli kecske él."],
       ro: ["Creux du Van are un diametru de 1 km.", "Adâncimea este de 500 de metri.", "Traseul circular de pe margine are 6,5 km lungime.", "Pereții sunt formați din calcar jurasic (aproximativ 150 milioane de ani).", "Altitudinea Creux du Van este de 1.200 de metri.", "În zonă trăiesc aproximativ 100 de capre negre."],
       en: ["Creux du Van has a diameter of 1 km.", "The depth is 500 meters.", "The rim trail is 6.5 km long.", "The rock walls are made of Jurassic limestone (approx. 150 million years old).", "The elevation of Creux du Van is 1,200 meters above sea level.", "Around 100 ibex live in the region."],
-    },
-  },
+    }, image: "/poi-images/switzerland-creux-du-van-nature-v2.webp"},
   {
     id: "switzerland-lac-de-barrage-des-mauvoisin-nature-v2",
     type: "lake",
@@ -255,8 +248,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Mauvoisin-gát 250 méter magas.", "A Mauvoisin-tó térfogata 210 millió m³.", "A tó 1961 méter magasan fekszik.", "A gát 1951 és 1958 között épült.", "A gát koronája 520 méter hosszú.", "A Grand Combin 4314 méter magas."],
       ro: ["Barajul Mauvoisin are 250 de metri înălțime.", "Lacul Mauvoisin are un volum de 210 milioane m³.", "Lacul este situat la 1.961 de metri altitudine.", "Barajul a fost construit între 1951 și 1958.", "Corona barajului are 520 de metri lungime.", "Vârful Grand Combin are 4.314 metri."],
       en: ["The Mauvoisin Dam is 250 meters high.", "Lake Mauvoisin has a volume of 210 million m³.", "The lake is at an elevation of 1,961 meters.", "The dam was built between 1951 and 1958.", "The dam crest is 520 meters long.", "Grand Combin peak is 4,314 meters high."],
-    },
-  },
+    }, image: "/poi-images/switzerland-lac-de-barrage-des-mauvoisin-nature-v2.webp"},
   {
     id: "switzerland-muota-river-nature-v2",
     type: "river",
@@ -287,8 +279,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Muota 29 km hosszú.", "Vízgyűjtő területe 138 km².", "Átlagos vízhozama 4,1 m³/s.", "A Muota kb. 1500 m magasan ered.", "Brunnennél ömlik a Vierwaldstätti-tóba.", "A folyó szélessége legfeljebb 10 méter."],
       ro: ["Râul Muota are 29 km lungime.", "Bazinul hidrografic este de 138 km².", "Debitul mediu este de 4,1 m³/s.", "Muota izvorăște la aproximativ 1.500 m altitudine.", "Se varsă în Lacul Lucerna la Brunnen.", "Lățimea maximă a râului este de circa 10 metri."],
       en: ["The Muota River is 29 km long.", "The drainage basin covers 138 km².", "The average discharge is 4.1 m³/s.", "The Muota originates at about 1,500 m elevation.", "It flows into Lake Lucerne at Brunnen.", "The maximum width of the river is about 10 meters."],
-    },
-  },
+    }, image: "/poi-images/switzerland-muota-river-nature-v2.webp"},
   {
     id: "switzerland-griesgletscher-nature-v2",
     type: "mountain",
@@ -319,8 +310,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Gries-gleccser kb. 6 km hosszú.", "Területe 8 km².", "1973 óta területének több mint 30%-át elvesztette.", "A jég vastagsága eléri a 100 métert.", "A Gries-tározó 2382 méter magasan van.", "A Gries-gát 205 méter magas."],
       ro: ["Ghețarul Gries are aproximativ 6 km lungime.", "Suprafața ghețarului este de 8 km².", "Din 1973 și-a pierdut peste 30% din suprafață.", "Grosimea maximă a gheții este de 100 de metri.", "Lacul de acumulare Gries este la 2.382 m altitudine.", "Barajul lacului Gries are 205 m înălțime."],
       en: ["The Gries Glacier is about 6 km long.", "The glacier covers an area of 8 km².", "It has lost over 30% of its area since 1973.", "Maximum ice thickness is 100 meters.", "The Gries reservoir is at 2,382 meters elevation.", "The Gries dam is 205 meters high."],
-    },
-  },
+    }, image: "/poi-images/switzerland-griesgletscher-nature-v2.webp"},
   {
     id: "switzerland-lac-de-remoray-nature-v2",
     type: "lake",
@@ -351,8 +341,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Remoray-tó területe 0,7 km².", "Maximális mélysége 10 méter.", "A tó 800 méter magasan van.", "A környező lápvidék kb. 1 km².", "Több mint 100 madárfaj él a tónál.", "A tó a Doubs-ba ömlik."],
       ro: ["Lacul de Remoray are o suprafață de 0,7 km².", "Adâncimea maximă este de 10 metri.", "Lacul se află la 800 m altitudine.", "Suprafața mlaștinilor din jur este de aproximativ 1 km².", "Lacul găzduiește peste 100 de specii de păsări.", "Lacul se varsă în râul Doubs."],
       en: ["Lake Remoray covers an area of 0.7 km².", "Maximum depth is 10 meters.", "The lake is at 800 meters elevation.", "The surrounding peat bog area is about 1 km².", "The lake hosts over 100 bird species.", "Lake Remoray drains into the Doubs River."],
-    },
-  },
+    }, image: "/poi-images/switzerland-lac-de-remoray-nature-v2.webp"},
   {
     id: "switzerland-valley-of-muggio-nature-v2",
     type: "valley",
@@ -383,8 +372,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Muggio-völgy 15 km hosszú.", "Területe kb. 50 km².", "A Monte Generoso 1701 méter magas.", "Muggio falunak kb. 200 lakosa van.", "A völgy az UNESCO Ticinói völgyek bioszféra-rezervátumának része.", "A hagyományos szárazkőfalak hossza 40 km."],
       ro: ["Valea Muggio are 15 km lungime.", "Suprafața este de aproximativ 50 km².", "Monte Generoso are 1.701 m înălțime.", "Satul Muggio are aproximativ 200 de locuitori.", "Valea face parte din Rezervația Biosferei UNESCO Ticinese.", "Zidurile tradiționale de piatră uscată se întind pe 40 de km."],
       en: ["The Muggio Valley is 15 km long.", "The area is about 50 km².", "Monte Generoso is 1,701 meters high.", "The village of Muggio has about 200 inhabitants.", "The valley is part of the UNESCO Ticinese Valleys Biosphere Reserve.", "Traditional dry stone walls stretch over 40 km."],
-    },
-  },
+    }, image: "/poi-images/switzerland-valley-of-muggio-nature-v2.webp"},
   {
     id: "switzerland-val-de-travers-nature-v2",
     type: "valley",
@@ -415,8 +403,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Val-de-Travers 25 km hosszú.", "A Creux du Van 500 méter mély.", "Az Areuse-szurdok kb. 3 km hosszú.", "A völgy lakossága kb. 12.000 fő.", "Az Areuse folyó 30 km hosszú.", "Az abszintgyártás a 18. században kezdődött."],
       ro: ["Val-de-Travers are 25 km lungime.", "Creux du Van are 500 m adâncime.", "Cheile Areuse au aproximativ 3 km lungime.", "Valea are aproximativ 12.000 de locuitori.", "Râul Areuse are 30 km lungime.", "Producția de absint a început în secolul al XVIII-lea."],
       en: ["Val-de-Travers is 25 km long.", "Creux du Van is 500 m deep.", "The Areuse Gorge is about 3 km long.", "The valley has around 12,000 inhabitants.", "The Areuse River is 30 km long.", "Absinthe production started in the 18th century."],
-    },
-  },
+    }, image: "/poi-images/switzerland-val-de-travers-nature-v2.webp"},
   {
     id: "switzerland-lac-de-la-sauge-nature-v2",
     type: "lake",
@@ -447,8 +434,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Lac de la Sauge területe 0,3 km².", "Átlagos mélysége 1,5 méter.", "Több mint 250 madárfajt figyeltek meg.", "A tó 429 méter magasan van.", "A védett terület 24 hektár.", "A tavat 1975-ben fejezték be."],
       ro: ["Lacul de la Sauge are o suprafață de 0,3 km².", "Adâncimea medie este de 1,5 metri.", "Peste 250 de specii de păsări au fost observate.", "Lacul se află la 429 m altitudine.", "Aria protejată are 24 de hectare.", "Lacul a fost finalizat în 1975."],
       en: ["Lake de la Sauge covers 0.3 km².", "Average depth is 1.5 meters.", "Over 250 bird species have been recorded.", "The lake lies at 429 meters elevation.", "The protected area is 24 hectares.", "The lake was completed in 1975."],
-    },
-  },
+    }, image: "/poi-images/switzerland-lac-de-la-sauge-nature-v2.webp"},
   {
     id: "switzerland-gamsberg-nature-v2",
     type: "mountain",
@@ -479,8 +465,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Gamsberg 2385 méter magas.", "A hegy az Alpstein-masszívum része St. Gallen kantonban.", "A Gamsberg-átkelés hossza 2385 méter.", "A csúcs 2385 méter tengerszint felett van.", "A terület az UNESCO Sardona tektonika aréna része.", "A Säntis-alp 1600 méter magasan van."],
       ro: ["Gamsberg are 2.385 m înălțime.", "Muntele face parte din masivul Alpstein, cantonul St. Gallen.", "Traversarea Gamsberg are 2.385 m lungime.", "Vârful se află la 2.385 m altitudine.", "Zona face parte din UNESCO Arena Tectonica Sardona.", "Alp Säntis se află la 1.600 m altitudine."],
       en: ["Gamsberg is 2,385 meters high.", "The mountain is part of the Alpstein massif in St. Gallen.", "The Gamsberg traverse is 2,385 meters long.", "The summit is at 2,385 meters above sea level.", "The area is part of the UNESCO Sardona Tectonic Arena.", "Alp Säntis is at 1,600 meters elevation."],
-    },
-  },
+    }, image: "/poi-images/switzerland-gamsberg-nature-v2.webp"},
   {
     id: "switzerland-val-poschiavo-nature-v2",
     type: "valley",
@@ -511,8 +496,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Poschiavo-völgy kb. 20 km hosszú.", "A Lago di Poschiavo 1010 méter magasan van.", "A Poschiavino 28 km hosszú.", "A Brusio körviadukt sugara 70 méter.", "A völgy lakossága kb. 5000 fő.", "A legmagasabb pont a Bernina-hágó 2323 méteren."],
       ro: ["Valea Poschiavo are aproximativ 20 km lungime.", "Lacul Poschiavo este la 1.010 m altitudine.", "Râul Poschiavino are 28 km lungime.", "Viaductul circular Brusio are o rază de 70 m.", "Valea are aproximativ 5.000 de locuitori.", "Cel mai înalt punct este Pasul Bernina la 2.323 m."],
       en: ["Val Poschiavo is about 20 km long.", "Lago di Poschiavo is at 1,010 m elevation.", "The Poschiavino River is 28 km long.", "The Brusio circular viaduct has a radius of 70 m.", "The valley has about 5,000 inhabitants.", "The highest point is Bernina Pass at 2,323 m."],
-    },
-  },
+    }, image: "/poi-images/switzerland-val-poschiavo-nature-v2.webp"},
   {
     id: "switzerland-lac-de-letray-nature-v2",
     type: "lake",
@@ -543,8 +527,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Lac de l'Étray 1048 méter magasan van.", "Területe kb. 0,1 km².", "Maximális mélysége 8 méter.", "A tó a Haut-Jura regionális természeti park része.", "A lefolyás a Doubs-ba vezet.", "A környék több mint 20 orchideafajnak ad otthont."],
       ro: ["Lacul de l'Étray este la 1.048 m altitudine.", "Suprafața este de aproximativ 0,1 km².", "Adâncimea maximă este de 8 metri.", "Lacul face parte din Parcul Natural Regional Haut-Jura.", "Deversarea se face în râul Doubs.", "Zona adăpostește peste 20 de specii de orhidee."],
       en: ["Lake de l'Étray is at 1,048 m elevation.", "The area is about 0.1 km².", "Maximum depth is 8 meters.", "The lake is part of the Haut-Jura Regional Nature Park.", "Its outflow drains into the Doubs River.", "The surrounding area hosts over 20 orchid species."],
-    },
-  },
+    }, image: "/poi-images/switzerland-lac-de-letray-nature-v2.webp"},
   {
     id: "switzerland-val-ferret-nature-v2",
     type: "valley",
@@ -575,8 +558,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Val Ferret 15 km hosszú.", "A Ferret-gleccser kb. 5 km hosszú.", "A Grand Golliat 3236 méter magas.", "A völgy Orsières-nél kezdődik 900 méter magasan.", "A völgy falvai 1000-1200 méter között fekszenek.", "A Mont Blanc körút 170 km hosszú."],
       ro: ["Val Ferret are 15 km lungime.", "Ghețarul Ferret are aproximativ 5 km lungime.", "Grand Golliat are 3.236 m înălțime.", "Valea începe la Orsières la 900 m altitudine.", "Satele din vale sunt situate între 1.000 și 1.200 m.", "Traseul Tour du Mont-Blanc are 170 km."],
       en: ["Val Ferret is 15 km long.", "The Ferret Glacier is about 5 km long.", "Grand Golliat is 3,236 m high.", "The valley starts at Orsières at 900 m elevation.", "Village elevations range from 1,000 to 1,200 m.", "The Tour du Mont-Blanc trail is 170 km long."],
-    },
-  },
+    }, image: "/poi-images/switzerland-val-ferret-nature-v2.webp"},
   {
     id: "switzerland-lac-de-la-gryonne-nature-v2",
     type: "lake",
@@ -607,8 +589,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["A Lac de la Gryonne 1770 méter magasan van.", "Területe 0,1 km².", "A gát 15 méter magas.", "A tó Villars-sur-Ollon község része.", "A Gryonne patak 10 km hosszú.", "A Pointe d'Avençon 2026 méter magas."],
       ro: ["Lacul de la Gryonne este la 1.770 m altitudine.", "Suprafața este de 0,1 km².", "Barajul are 15 metri înălțime.", "Lacul face parte din comuna Villars-sur-Ollon.", "Pârâul Gryonne are 10 km lungime.", "Pointe d'Avençon are 2.026 m înălțime."],
       en: ["Lake de la Gryonne is at 1,770 m elevation.", "The area is 0.1 km².", "The dam is 15 meters high.", "The lake is part of the municipality of Villars-sur-Ollon.", "The Gryonne stream is 10 km long.", "Pointe d'Avençon is 2,026 m high."],
-    },
-  },
+    }, image: "/poi-images/switzerland-lac-de-la-gryonne-nature-v2.webp"},
   {
     id: "switzerland-val-d-illiez-nature-v2",
     type: "valley",
@@ -639,8 +620,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["Hossz: 25 km", "Legmagasabb pont: Col de Cou (1.920 m)", "Vièze folyó", "Champéry síterület", "Wallis kantonban található", "Champéry lakossága: kb. 1.300"],
       ro: ["Lungime: 25 km", "Cel mai înalt punct: Col de Cou (1.920 m)", "Râul Vièze", "Stațiunea de schi Champéry", "Situat în cantonul Valais", "Populația Champéry: aprox. 1.300"],
       en: ["Length: 25 km", "Highest point: Col de Cou (1,920 m)", "Vièze River", "Ski resort Champéry", "Located in Valais canton", "Population of Champéry: approx. 1,300"],
-    },
-  },
+    }, image: "/poi-images/switzerland-val-d-illiez-nature-v2.webp"},
   {
     id: "switzerland-lac-de-cleuson-nature-v2",
     type: "lake",
@@ -671,8 +651,7 @@ export const switzerlandNatureV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 2.186 m", "Gát magassága: 87 m", "Építés éve: 1951", "Térfogat: 20 millió m³", "Val de Nendazban található", "Felhasználás: áram és öntözés"],
       ro: ["Altitudine: 2.186 m", "Înălțimea barajului: 87 m", "Anul construcției: 1951", "Volum: 20 milioane m³", "Situat în Val de Nendaz", "Utilizare: electricitate și irigații"],
       en: ["Elevation: 2,186 m", "Dam height: 87 m", "Year built: 1951", "Volume: 20 million m³", "Located in Val de Nendaz", "Uses: hydroelectricity and irrigation"],
-    },
-  },
+    }, image: "/poi-images/switzerland-lac-de-cleuson-nature-v2.webp"},
   {
     id: "switzerland-val-bavona-nature-v2",
     type: "valley",

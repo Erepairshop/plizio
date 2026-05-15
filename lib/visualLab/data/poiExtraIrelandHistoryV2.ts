@@ -31,8 +31,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["1996 óta az UNESCO Világörökség része.", "A legmagasabb pontja 218 méterrel van a tenger felett.", "Pontosan 618 kőlépcső vezet fel a kolostorig.", "A szerzetesek a 12. század körül hagyták el a helyet."],
       ro: ["Inclus în Patrimoniul Mondial UNESCO din 1996.", "Cel mai înalt punct se află la 218 metri deasupra mării.", "618 trepte de piatră duc spre așezarea monastică.", "Călugării au abandonat insula în secolul al XII-lea."],
       en: ["UNESCO World Heritage site since 1996.", "The highest point is 218 meters above sea level.", "618 stone steps lead up to the monastery complex.", "Monks permanently left the island in the 12th century."],
-    },
-  },
+    }, image: "/poi-images/ireland-skellig-michael-history-v2.webp"},
   {
     id: "ireland-duncannon-fort-history-v2",
     type: "landmark",
@@ -63,8 +62,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["A 16. században épült.", "A Barrow folyónál található.", "Csillag alakú bástya.", "1950-ig katonai célokat szolgált.", "A falak vastagsága eléri az 5 métert.", "Börtönként is működött."],
       ro: ["Construit în secolul al XVI-lea.", "Situat la râul Barrow.", "Bastion în formă de stea.", "Folosit militar până în 1950.", "Ziduri groase de până la 5 m.", "A servit și ca închisoare."],
       en: ["Built in the 16th century.", "Located on the River Barrow.", "Star-shaped bastion.", "Military use until 1950.", "Walls up to 5 m thick.", "Also used as a prison."],
-    },
-  },
+    }, image: "/poi-images/ireland-duncannon-fort-history-v2.webp"},
   {
     id: "ireland-dunluce-castle-history-v2",
     type: "castle",
@@ -95,8 +93,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["Bazaltsziklán áll.", "13. századi eredetű.", "A konyha 1639-ben beszakadt.", "A MacDonnell család székhelye.", "Évi 200 000 látogató.", "C.S. Lewis ihletője."],
       ro: ["Situat pe o stâncă de bazalt.", "Originar din secolul al XIII-lea.", "Prăbușirea bucătăriei în 1639.", "Reședința familiei MacDonnell.", "200.000 de vizitatori anual.", "Inspirație pentru C.S. Lewis."],
       en: ["Built on a basalt rock.", "Origins in the 13th century.", "Kitchen collapse in 1639.", "Seat of the MacDonnells.", "200,000 visitors annually.", "Inspiration for C.S. Lewis."],
-    },
-  },
+    }, image: "/poi-images/ireland-dunluce-castle-history-v2.webp"},
   {
     id: "ireland-ferns-castle-history-v2",
     type: "castle",
@@ -127,8 +124,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["Épült a 13. században.", "Normann építészet.", "O'Byrne támadás 1379-ben.", "Cromwell-háborúk 1649-ben.", "Nemzeti emlék 1934 óta.", "Donjon magasság: 15 m."],
       ro: ["Construit în secolul al XIII-lea.", "Arhitectură normandă.", "Atac O'Byrne în 1379.", "Războaiele lui Cromwell 1649.", "Monument național din 1934.", "Înălțimea donjonului: 15 m."],
       en: ["Built in the 13th century.", "Norman architecture.", "Attacked by O'Byrne in 1379.", "Cromwellian wars 1649.", "National monument since 1934.", "Keep height: 15 m."],
-    },
-  },
+    }, image: "/poi-images/ireland-ferns-castle-history-v2.webp"},
   {
     id: "ireland-rock-of-dunamase-history-v2",
     type: "ruins",
@@ -159,8 +155,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["A vikingek 843-ban fosztották ki az eredeti erődöt", "1170-ben került normann kézbe a hódítás során", "A vár romjai ma 46 méter magas sziklán fekszenek", "Cromwell seregei 1650-ben robbantották fel a falakat", "Diarmait Mac Murchada király egyik fő székhelye volt", "A belső várudvar falai ma is jól kivehetőek"],
       ro: ["Situl este menționat în analele istorice din anul 843", "Fortăreața a fost dăruită lui Strongbow în secolul XII", "Zidurile au fost grav avariate în timpul asediului din 1650", "Înălțimea stâncii pe care este construit este de 46 metri", "Castelul a fost reconstruit de William Marshal în 1210", "Posedă o poartă de acces defensivă extrem de rară"],
       en: ["First recorded Viking raid occurred here in 843 AD", "Granted to Strongbow as part of a marriage dowry in 1170", "Slighted by Cromwellian forces in 1650 to prevent reuse", "The limestone outcrop reaches a height of 46 meters", "Restructured as a stone castle around the year 1210", "Features an inner ward, outer ward, and barbican"],
-    },
-  },
+    }, image: "/poi-images/ireland-rock-of-dunamase-history-v2.webp"},
   {
     id: "ireland-grannagh-castle-history-v2",
     type: "castle",
@@ -191,8 +186,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["13. században épült.", "A Suir folyó partján.", "Négyemeletes torony.", "1649-ben Cromwell elpusztította.", "Nemzeti műemlék.", "Torony magassága: 15 m."],
       ro: ["Construit în secolul al XIII-lea.", "Situat pe râul Suir.", "Turn cu patru etaje.", "Distrus de Cromwell în 1649.", "Monument național.", "Înălțimea turnului: 15 m."],
       en: ["Built in the 13th century.", "Located on the River Suir.", "Four-story tower.", "Destroyed by Cromwell in 1649.", "National monument.", "Tower height: 15 m."],
-    },
-  },
+    }, image: "/poi-images/ireland-grannagh-castle-history-v2.webp"},
   {
     id: "ireland-ross-castle-history-v2",
     type: "castle",
@@ -223,8 +217,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["A 15. század végén épült.", "Lough Leane partján.", "1652-ben adta meg magát Cromwellnek.", "A lakótorony 20 m magas.", "A 19. században restaurálták.", "Turisztikai látványosság."],
       ro: ["Construit la sfârșitul secolului al XV-lea.", "Situat pe Lough Leane.", "S-a predat în 1652 lui Cromwell.", "Turnul de locuit are 20 m înălțime.", "Restaurat în secolul al XIX-lea.", "Atracție turistică."],
       en: ["Built in late 15th century.", "Located on Lough Leane.", "Surrendered to Cromwell in 1652.", "Tower house 20 m high.", "Restored in the 19th century.", "Tourist attraction."],
-    },
-  },
+    }, image: "/poi-images/ireland-ross-castle-history-v2.webp"},
   {
     id: "ireland-ballymoon-castle-history-v2",
     type: "castle",
@@ -255,8 +248,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["13. századi építésű.", "Normann erődítmény.", "Négyszögletes udvar kerek tornyokkal.", "Soha nem fejezték be.", "Nemzeti műemlék.", "Falak vastagsága akár 3 m."],
       ro: ["Construit în secolul al XIII-lea.", "Fortăreață normandă.", "Curte rectangulară cu turnuri rotunde.", "Niciodată finalizat.", "Monument național.", "Ziduri groase de până la 3 m."],
       en: ["Built in the 13th century.", "Norman fortress.", "Rectangular enclosure with round towers.", "Never completed.", "National monument.", "Walls up to 3 m thick."],
-    },
-  },
+    }, image: "/poi-images/ireland-ballymoon-castle-history-v2.webp"},
   {
     id: "ireland-moydrum-castle-history-v2",
     type: "ruins",
@@ -287,8 +279,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["1814-ben épült az első Castlemaine báró számára.", "1921. július 3-án égették fel bosszúból.", "A kastély egykor 30 hálószobával rendelkezett.", "Az U2 \"The Unforgettable Fire\" albumának borítóképe."],
       ro: ["Construit în 1814 pentru primul Baron Castlemaine.", "Distrus prin incendiere la data de 3 iulie 1921.", "O replică a unei alte case nobiliare din apropiere.", "Apare pe coperta albumului U2 \"The Unforgettable Fire\"."],
       en: ["Built in 1814 for the first Baron Castlemaine.", "Burned down on July 3, 1921, during hostilities.", "Designed in the fashionable Gothic Revival style.", "Featured on the cover of U2's \"The Unforgettable Fire\"."],
-    },
-  },
+    }, image: "/poi-images/ireland-moydrum-castle-history-v2.webp"},
   {
     id: "ireland-ballycarbery-castle-history-v2",
     type: "castle",
@@ -319,8 +310,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["15. századi építésű.", "A MacCarthy klán építette.", "Kilátás a Valentia-öbölre.", "A 17. században elpusztult.", "Nemzeti műemlék.", "Háromemeletes torony."],
       ro: ["Construit în secolul al XV-lea.", "Construit de clanul MacCarthy.", "Priveliște asupra golfului Valentia.", "Distrus în secolul al XVII-lea.", "Monument național.", "Turn cu trei etaje."],
       en: ["Built in the 15th century.", "Built by the MacCarthys.", "Views of Valentia Bay.", "Destroyed in the 17th century.", "National monument.", "Three-story tower."],
-    },
-  },
+    }, image: "/poi-images/ireland-ballycarbery-castle-history-v2.webp"},
   {
     id: "ireland-monasterboice-history-v2",
     type: "ruins",
@@ -351,8 +341,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["A Muiredach-kereszt magassága 5,5 méter.", "A helyi kerek torony 28 méter magasra nyúlik.", "Szent Buite alapította a helyszínt 521 körül.", "A vikingek 968-ig tartották megszállva a területet."],
       ro: ["Crucea lui Muiredach are o înălțime de 5,5 metri.", "Turnul rotund măsoară o înălțime de 28 de metri.", "Fondată în jurul anului 521 de Sfântul Buite.", "Ocupată de vikingi până la eliberarea din anul 968."],
       en: ["Muiredach's High Cross stands 5.5 meters tall.", "The site's Round Tower reaches 28 meters in height.", "Founded around 521 AD by Saint Buite.", "The monastery was occupied by Vikings until 968 AD."],
-    },
-  },
+    }, image: "/poi-images/ireland-monasterboice-history-v2.webp"},
   {
     id: "ireland-devenish-island-history-v2",
     type: "ruins",
@@ -383,8 +372,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["Szent Molaise alapította a közösséget 563 körül", "A kerek torony tetején faragott emberfejek láthatóak", "A viking hajók 837-ben támadták meg a kolostort", "A Szűz Mária-perjelség 1430-ból származó romjai láthatóak", "A sziget területe körülbelül 70 hektárnyi területű", "15. századi kőkereszt található a templom mellett"],
       ro: ["Mănăstirea a fost întemeiată de Sfântul Molaise în 563", "Turnul rotund este construit din gresie locală fină", "Atacul vikingilor din 837 a dus la distrugeri masive", "St. Mary's Priory a fost finalizată în anul 1430", "Turnul are o cornișă decorată cu patru fețe umane", "Accesul se face exclusiv prin transport pe apă"],
       en: ["Monastic community established by St. Molaise in 563", "Round tower stands 25 meters tall with 84 internal steps", "Raided by Vikings navigating the Erne river in 837", "St. Mary's Priory dates to the mid-15th century", "Features a 15th-century high cross with intricate carvings", "The island served as a pilgrimage site for centuries"],
-    },
-  },
+    }, image: "/poi-images/ireland-devenish-island-history-v2.webp"},
   {
     id: "ireland-glendalough-history-v2",
     type: "ruins",
@@ -415,8 +403,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["Szent Kevin 618-ban halt meg, a legenda szerint 120 évesen.", "A kerek torony a 11. században épült kőből.", "A terület körülbelül 1500 hektáron fekszik.", "Az angol erők 1398-ban rombolták le a várost."],
       ro: ["Sfântul Kevin a murit în 618 la vârsta de 120 de ani.", "Turnul rotund a fost construit în secolul al XI-lea.", "Situl arheologic se întinde pe 1.500 de hectare.", "Distrus de forțele engleze în anul 1398."],
       en: ["St. Kevin died in 618 AD at the legendary age of 120.", "The Round Tower was built during the 11th century.", "The historic site covers roughly 1,500 hectares.", "Destroyed by English forces in 1398."],
-    },
-  },
+    }, image: "/poi-images/ireland-glendalough-history-v2.webp"},
   {
     id: "ireland-carrickfergus-castle-history-v2",
     type: "castle",
@@ -447,8 +434,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["1177-ben építtette John de Courcy.", "27 m magas lakótorony.", "Falak 3,5 m vastagok.", "1689-ben 18 hónapos ostrom.", "Évi 100 000 látogató.", "1928 óta állami műemlék."],
       ro: ["Construit în 1177 de John de Courcy.", "Donjon de 27 m înălțime.", "Ziduri groase de 3,5 m.", "Asediu de 18 luni în 1689.", "100.000 de vizitatori anual.", "Monument de stat din 1928."],
       en: ["Built in 1177 by John de Courcy.", "Keep 27 m high.", "Walls 3.5 m thick.", "18-month siege in 1689.", "100,000 visitors annually.", "State monument since 1928."],
-    },
-  },
+    }, image: "/poi-images/ireland-carrickfergus-castle-history-v2.webp"},
   {
     id: "ireland-ballygally-castle-history-v2",
     type: "castle",
@@ -479,8 +465,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["1625-ben építtette James Shaw.", "Ma hotel.", "28 szobával rendelkezik.", "B kategóriás műemlék.", "Lady Isabella szelleméről szóló legenda.", "2 hektáros kert."],
       ro: ["Construit în 1625 de James Shaw.", "Astăzi hotel.", "Are 28 de camere.", "Monument de grad B.", "Legenda fantomei Lady Isabella.", "2 acri de grădini."],
       en: ["Built in 1625 by James Shaw.", "Now a hotel.", "Has 28 rooms.", "Grade B listed building.", "Ghost legend of Lady Isabella.", "2 acres of gardens."],
-    },
-  },
+    }, image: "/poi-images/ireland-ballygally-castle-history-v2.webp"},
   {
     id: "ireland-enniskillen-castle-history-v2",
     type: "castle",
@@ -511,8 +496,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["A 15. század elején épült.", "30 m magas lakótorony.", "17. századi vizesbástya.", "Két múzeumnak ad otthont.", "0,5 hektár terület.", "Állami műemlék."],
       ro: ["Construit la începutul secolului al XV-lea.", "Donjon de 30 m înălțime.", "Bastion de apă din secolul al XVII-lea.", "Adăpostește două muzee.", "Suprafață de 0,5 hectare.", "Monument de stat."],
       en: ["Built in early 15th century.", "Keep 30 m high.", "17th-century water bastion.", "Houses two museums.", "Area 0.5 hectares.", "State care monument."],
-    },
-  },
+    }, image: "/poi-images/ireland-enniskillen-castle-history-v2.webp"},
   {
     id: "ireland-ballymore-eustace-history-v2",
     type: "village",
@@ -543,8 +527,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["Normann motte található.", "13. századi templom.", "1317-ben felégették.", "Lakosság: kb. 800.", "Vasútállomás 1883 óta.", "A Liffey folyó partján."],
       ro: ["Motă normandă prezentă.", "Biserică din secolul al XIII-lea.", "Ars în 1317.", "Populație: cca. 800.", "Gara din 1883.", "Pe râul Liffey."],
       en: ["Norman motte present.", "13th-century church.", "Burned in 1317.", "Population: approx. 800.", "Railway station since 1883.", "On the Liffey river."],
-    },
-  },
+    }, image: "/poi-images/ireland-ballymore-eustace-history-v2.webp"},
   {
     id: "ireland-kells-priory-history-v2",
     type: "ruins",
@@ -575,8 +558,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["1193-ban alapította Geoffrey FitzRobert.", "A romterület több mint 12 holdon terül el.", "Az erődített falak 6 fő toronnyal rendelkeznek.", "A kolostort 1540-ben, a reformáció alatt zárták be."],
       ro: ["Fondată în 1193 de către Geoffrey FitzRobert.", "Situl ocupă o suprafață de peste 12 acri de teren.", "Zidurile de apărare includ 6 turnuri principale.", "Dizolvată oficial în 1540 în timpul Reformei."],
       en: ["Founded in 1193 by Geoffrey FitzRobert.", "The site spans over 12 acres of meadow land.", "Fortified walls feature 6 distinct watch towers.", "Dissolved in 1540 during the Reformation."],
-    },
-  },
+    }, image: "/poi-images/ireland-kells-priory-history-v2.webp"},
   {
     id: "ireland-asdee-history-v2",
     type: "village",
@@ -607,8 +589,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["Lakosság: kb. 400.", "Szent Mária temploma (1837).", "A Shannon-torkolatnál.", "Halászat és mezőgazdaság.", "Közelben: Ballybunion és Ballyheigue.", "Név jelentése: 'jó gázló'."],
       ro: ["Populație: cca. 400.", "Biserica St. Mary din 1837.", "La estuarul Shannon.", "Pescuit și agricultură.", "Plaje apropiate: Ballybunion, Ballyheigue.", "Numele înseamnă 'vad bun'."],
       en: ["Population: approx. 400.", "St. Mary's Church built 1837.", "Located on Shannon Estuary.", "Fishing and agriculture.", "Nearby beaches: Ballybunion, Ballyheigue.", "Name means 'good ford'."],
-    },
-  },
+    }, image: "/poi-images/ireland-asdee-history-v2.webp"},
   {
     id: "ireland-adare-friary-history-v2",
     type: "ruins",
@@ -639,8 +620,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["Kildare grófja alapította az épületet 1316-ban", "A szerzetesek fekete ruhája után nevezték el az apátságot", "A kerengő árkádjai a 15. századból származnak", "1539-ben a kolostort a brit korona elkobozta", "1807-ben anglikán plébániatemplommá alakították át", "A templomtorony uralja az Adare Manor parkját"],
       ro: ["Construcția a început oficial în anul Domnului 1316", "Turnul central a fost înălțat în secolul al XV-lea", "A fost transformată în biserică parohială în anul 1807", "Claustrul păstrează arcadele originale din piatră", "Mănăstirea a fost abandonată forțat în anul 1539", "Situată pe malul râului Maigue în comitatul Limerick"],
       en: ["Founded by the 1st Earl of Kildare in 1316", "The central tower is a typical 15th-century addition", "The friary was formally suppressed in 1539 by the Crown", "Converted for use as an Anglican church in 1807", "The south transept contains original medieval carvings", "Located near the strategic crossing of the River Maigue"],
-    },
-  },
+    }, image: "/poi-images/ireland-adare-friary-history-v2.webp"},
   {
     id: "ireland-maynooth-castle-history-v2",
     type: "castle",
@@ -671,8 +651,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["1200 körül épült", "A Fitzgerald család székhelye volt", "1647-ben a parlamenti erők pusztították el", "A romok között található a toronyház és a várfalak", "Kildare megyében található", "A Maynooth Egyetem a vár egykori területén épült"],
       ro: ["Construit în jurul anului 1200", "Reședința familiei Fitzgerald", "Distrus în 1647 în timpul războaielor confederației irlandeze", "Ruinele includ turnul principal și porțiuni din zidul de incintă", "Situat în comitatul Kildare", "Universitatea Maynooth a fost fondată pe terenul castelului"],
       en: ["Built around 1200", "Seat of the Fitzgerald family", "Destroyed in 1647 during the Irish Confederate Wars", "Ruins include keep and curtain wall sections", "Located in County Kildare", "Maynooth University established on former castle grounds"],
-    },
-  },
+    }, image: "/poi-images/ireland-maynooth-castle-history-v2.webp"},
   {
     id: "ireland-ballymore-castle-history-v2",
     type: "castle",
@@ -703,8 +682,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["13. században épült", "Westmeath megyében található", "Az O'Melaghlin és Dalton család stratégiai bázisa", "Cromwell írországi hódítása során (1649–1653) súlyosan megrongálódott", "Jól megmaradt toronyházzal rendelkezik", "Nemzeti műemlék"],
       ro: ["Construit în secolul al XIII-lea", "Situat în comitatul Westmeath", "Bază strategică a familiilor O'Melaghlin și Dalton", "Avariat grav în timpul cuceririi Irlandei de către Cromwell (1649–1653)", "Are un turn de locuit bine conservat", "Monument național"],
       en: ["Built in the 13th century", "Located in County Westmeath", "Strategic base of O'Melaghlin and Dalton families", "Severely damaged during Cromwell's conquest of Ireland (1649–1653)", "Features a well-preserved keep", "National Monument"],
-    },
-  },
+    }, image: "/poi-images/ireland-ballymore-castle-history-v2.webp"},
   {
     id: "ireland-dunsoghly-castle-history-v2",
     type: "castle",
@@ -735,8 +713,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["1450 körül épült", "A Plunkett család építtette", "Négyszintes főtorony", "Eredeti kandallók és kőboltozat található benne", "A 17. században hagyták el", "Dublin megyében található"],
       ro: ["Construit în jurul anului 1450", "Construit de familia Plunkett", "Turn principal cu patru etaje", "Păstrează șeminee originale și o boltă de piatră", "Abandonat în secolul al XVII-lea", "Situat în comitatul Dublin"],
       en: ["Built around 1450", "Built by the Plunkett family", "Four-story main tower", "Contains original fireplaces and a stone vault", "Abandoned in the 17th century", "Located in County Dublin"],
-    },
-  },
+    }, image: "/poi-images/ireland-dunsoghly-castle-history-v2.webp"},
   {
     id: "ireland-ballybritt-castle-history-v2",
     type: "castle",
@@ -767,8 +744,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["13. században épült", "Offaly megyében található", "Stratégiai ponton, a Brosna folyó gázlójánál", "Az O'Carroll család székhelye", "Négyszögletes toronyház alapjai maradtak fenn", "Nemzeti műemlék"],
       ro: ["Construit în secolul al XIII-lea", "Situat în comitatul Offaly", "Amplasat strategic la un vad al râului Brosna", "Reședința familiei O'Carroll", "Păstrează fundațiile unui turn de locuit dreptunghiular", "Monument național"],
       en: ["Built in the 13th century", "Located in County Offaly", "Strategically positioned at a ford on the River Brosna", "Seat of the O'Carroll family", "Features foundations of a rectangular keep", "National Monument"],
-    },
-  },
+    }, image: "/poi-images/ireland-ballybritt-castle-history-v2.webp"},
   {
     id: "ireland-skreen-church-history-v2",
     type: "church",
@@ -799,8 +775,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["Ókeresztény alapítás", "Jelenlegi épület a 15. századból", "Meath megyében található", "Gótikus ablakok maradtak fenn", "Kőből készült keresztelőmedence", "Nemzeti műemlék"],
       ro: ["Fundație creștină timpurie", "Clădirea actuală din secolul al XV-lea", "Situată în comitatul Meath", "Ferestre gotice păstrate", "Cristelniță de piatră", "Monument național"],
       en: ["Early Christian foundation", "Current building from the 15th century", "Located in County Meath", "Gothic windows survive", "Stone baptismal font", "National Monument"],
-    },
-  },
+    }, image: "/poi-images/ireland-skreen-church-history-v2.webp"},
   {
     id: "ireland-ballymore-abbey-history-v2",
     type: "ruins",
@@ -831,8 +806,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["Walter de Lacy alapította az apátságot 1218-ban", "Írország egyetlen Gilbert-rendi kolostora volt", "A területen korábban egy korai ír kolostor is állt", "A 16. századi feloszlatáskor jelentős birtokai voltak", "Az épület romjai Westmeath megye szívében találhatóak", "A főoltár helye ma is felismerhető a romok között"],
       ro: ["A fost fondată oficial în preajma anului 1218", "A aparținut ordinului Gilbertin, rar în Irlanda", "Walter de Lacy a finanțat construcția inițială", "Abația a funcționat ca centru administrativ local", "Dizolvată în secolul XVI în timpul Reformei", "Zidurile groase reflectă stilul defensiv al epocii"],
       en: ["Established circa 1218 by the Norman lord Walter de Lacy", "The site housed the rare Gilbertine Order in Ireland", "Located on a significant medieval trade and military route", "Dissolved in the mid-16th century under Henry VIII", "Features remnants of a transitional Gothic architecture", "Served as a dual monastery for both monks and nuns"],
-    },
-  },
+    }, image: "/poi-images/ireland-ballymore-abbey-history-v2.webp"},
   {
     id: "ireland-dromoland-castle-history-v2",
     type: "castle",
@@ -863,8 +837,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["Eredetileg 16. századi vár", "Az O'Brien család székhelye", "19. században újították fel neogótikus stílusban", "Clare megyében található", "Ma luxusszálloda", "1,5 km²-es kertekkel körülvéve"],
       ro: ["Construit inițial ca un castel din secolul al XVI-lea", "Reședința familiei O'Brien", "Remodelat în secolul al XIX-lea în stil neogotic", "Situat în comitatul Clare", "Astăzi este un hotel de lux", "Înconjurat de grădini întinse de 1,5 km²"],
       en: ["Originally a 16th-century castle", "Seat of the O'Brien clan", "Remodeled in 19th century in neo-Gothic style", "Located in County Clare", "Now a luxury hotel", "Surrounded by 1.5 km² of gardens"],
-    },
-  },
+    }, image: "/poi-images/ireland-dromoland-castle-history-v2.webp"},
   {
     id: "ireland-ballymote-castle-history-v2",
     type: "castle",
@@ -895,8 +868,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["1300 körül épült", "Sligo megyében található", "Ötszögletű alaprajz kerek tornyokkal", "Az O'Conchobhair család támaszpontja", "1641-ben ostromolták", "Nemzeti műemlék"],
       ro: ["Construit în jurul anului 1300", "Situat în comitatul Sligo", "Plan pentagonal cu turnuri rotunde", "Bază a familiei O'Conchobhair", "Asediat în 1641", "Monument național"],
       en: ["Built around 1300", "Located in County Sligo", "Pentagonal layout with round towers", "Stronghold of O'Conchobhair family", "Besieged in 1641", "National Monument"],
-    },
-  },
+    }, image: "/poi-images/ireland-ballymote-castle-history-v2.webp"},
   {
     id: "ireland-cloughoughter-castle-history-v2",
     type: "castle",
@@ -927,8 +899,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["1200 körül épült", "Kerek torony, 20 m magas", "A Lough Oughter egy szigetén található", "Cavan megye", "1641-ben ostromolták", "Csak csónakkal megközelíthető"],
       ro: ["Construit în jurul anului 1200", "Turn rotund, înalt de 20 m", "Situat pe o insulă pe Lough Oughter", "Comitatul Cavan", "Asediat în 1641", "Accesibil doar cu barca"],
       en: ["Built around 1200", "Round tower, 20 m high", "Located on an island in Lough Oughter", "County Cavan", "Besieged in 1641", "Accessible only by boat"],
-    },
-  },
+    }, image: "/poi-images/ireland-cloughoughter-castle-history-v2.webp"},
   {
     id: "ireland-ballymore-fort-history-v2",
     type: "landmark",
@@ -959,8 +930,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["Vaskori körgyűrű-erődítmény", "Belső fennsík átmérője: kb. 30 m", "Westmeath megyében található", "4. századi római érmék kerültek elő", "Lehet, hogy normann motte volt", "Nemzeti műemlék"],
       ro: ["Fortificație circulară din Epoca Fierului", "Diametrul platoului interior: aprox. 30 m", "Situată în comitatul Westmeath", "Monede romane din sec. IV găsite", "Posibil motte normandă", "Monument național"],
       en: ["Iron Age ringfort", "Inner plateau diameter: approx. 30 m", "Located in County Westmeath", "Roman coins from 4th century found", "Possibly a Norman motte", "National Monument"],
-    },
-  },
+    }, image: "/poi-images/ireland-ballymore-fort-history-v2.webp"},
   {
     id: "ireland-ashbourne-battlefield-history-v2",
     type: "battlefield",
@@ -991,8 +961,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["A csatára 1916. április 28-án került sor.", "45 ír önkéntes küzdött 90 rendőr ellen.", "Az összecsapás nagyjából 5 órán át tartott.", "11 rendőr és 2 önkéntes vesztette életét."],
       ro: ["Bătălia a avut loc pe 28 aprilie 1916.", "45 de voluntari au luptat contra a 90 de ofițeri.", "Lupta a durat aproximativ 5 ore în total.", "11 polițiști și 2 voluntari au fost uciși în luptă."],
       en: ["The battle took place on April 28, 1916.", "45 Irish Volunteers fought 90 RIC officers.", "The engagement lasted for about 5 hours.", "11 RIC men and 2 Volunteers were killed in action."],
-    },
-  },
+    }, image: "/poi-images/ireland-ashbourne-battlefield-history-v2.webp"},
   {
     id: "ireland-ballymore-monastery-history-v2",
     type: "ruins",
@@ -1023,8 +992,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["A helyszínen már a 8. században is éltek szerzetesek", "A középkori templom romjai 15 méter hosszúak", "A területet egykor vizesárok és sánc védte", "A 17. századi háborúk alatt néptelenedett el végleg", "Több faragott sírkő maradt fenn a kolostorkertben", "A dombtetőről belátható a környező síkság"],
       ro: ["Primele așezări monahale datează din secolul VIII", "Include ruinele unei biserici parohiale medievale", "Situl a fost fortificat în perioada invaziilor", "Abandonat definitiv după campaniile din secolul XVII", "Păstrează fragmente de ancadramente de piatră sculptată", "A servit drept centru de pelerinaj local timp de secole"],
       en: ["Early Christian settlement traces date back to the 800s", "The main church ruin measures approximately 15 meters", "The site features distinct earthworks and defensive banks", "Was significantly damaged during the 1641 rebellion", "Home to several 13th-century stone grave markers", "Located on a hill offering strategic views of Westmeath"],
-    },
-  },
+    }, image: "/poi-images/ireland-ballymore-monastery-history-v2.webp"},
   {
     id: "ireland-drumboy-castle-history-v2",
     type: "castle",
@@ -1055,8 +1023,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["13. században épült", "Cavan megyében található", "Az Erne-völgy útvonalát ellenőrizte", "Az O'Rourke család székhelye", "17. században pusztult el", "Nemzeti műemlék"],
       ro: ["Construit în secolul al XIII-lea", "Situat în comitatul Cavan", "Controla o rută în valea Erne", "Reședința familiei O'Rourke", "Distrus în secolul al XVII-lea", "Monument național"],
       en: ["Built in the 13th century", "Located in County Cavan", "Controlled a route in the Erne valley", "Seat of the O'Rourke family", "Destroyed in the 17th century", "National Monument"],
-    },
-  },
+    }, image: "/poi-images/ireland-drumboy-castle-history-v2.webp"},
   {
     id: "ireland-ballymore-church-history-v2",
     type: "church",
@@ -1087,8 +1054,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["Szent Kierannak szentelve", "13. századi épület", "Westmeath megyében található", "Ókeresztény gyökerek", "12. századi kereszt a temetőben", "Nemzeti műemlék"],
       ro: ["Dedicată Sfântului Kieran", "Clădire din secolul al XIII-lea", "Situată în comitatul Westmeath", "Origini creștine timpurii", "Cruce din secolul al XII-lea în cimitir", "Monument național"],
       en: ["Dedicated to Saint Kieran", "13th-century building", "Located in County Westmeath", "Early Christian origins", "12th-century cross in cemetery", "National Monument"],
-    },
-  },
+    }, image: "/poi-images/ireland-ballymore-church-history-v2.webp"},
   {
     id: "ireland-dunnaseer-castle-history-v2",
     type: "castle",
@@ -1119,8 +1085,7 @@ export const irelandHistoryV2: POI[] = [
       hu: ["12. században épült", "Offaly megyében található", "Mesterséges domb (motte)", "Az O'Connor család támaszpontja", "14. században hagyták el", "Nemzeti műemlék"],
       ro: ["Construit în secolul al XII-lea", "Situat în comitatul Offaly", "Deal artificial (motte)", "Bază a familiei O'Connor", "Abandonat în secolul al XIV-lea", "Monument național"],
       en: ["Built in the 12th century", "Located in County Offaly", "Artificial mound (motte)", "Stronghold of O'Connor family", "Abandoned in the 14th century", "National Monument"],
-    },
-  },
+    }, image: "/poi-images/ireland-dunnaseer-castle-history-v2.webp"},
   {
     id: "ireland-kilcash-castle-history-v2",
     type: "castle",

@@ -31,8 +31,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["110 négyzetkilométer kiterjedés", "1998-as alapítási dátum", "Az Owenduff-folyó vízgyűjtője", "Slieve Carr csúcsa 721 méter magas", "Nemzetközi Sötét Égbolt Park minősítés", "1500 éves tőzegrétegek jelenléte"],
       ro: ["Suprafață totală de 11.000 hectare", "Fondat în noiembrie 1998", "Include masivul Nephin Beg", "Vârful Slieve Carr are 721 metri", "Certificat Dark Sky Park din 2016", "Conservă turbării de 5 metri adâncime"],
       en: ["11,000 hectares of protected land", "Founded on November 1, 1998", "Part of the Wild Nephin wilderness", "Slieve Carr summit at 721 meters", "International Dark Sky Park status", "Owenduff River salmon habitat"],
-    },
-  },
+    }, image: "/poi-images/ireland-ballycroy-national-park-life-v2.webp"},
   {
     id: "ireland-killarney-national-park-life-v2",
     type: "park",
@@ -63,8 +62,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["10 289 hektár összterület", "Alapítva 1932-ben", "UNESCO Bioszféra-rezervátum (1981)", "Ross-vár a 15. századból"],
       ro: ["Suprafață de 10.289 hectare", "Înființat în anul 1932", "Rezervație UNESCO din 1981", "Castelul Ross din secolul al XV-lea"],
       en: ["Covers 10,289 hectares", "Established in 1932", "UNESCO Biosphere since 1981", "Ross Castle built in 15th century"],
-    },
-  },
+    }, image: "/poi-images/ireland-killarney-national-park-life-v2.webp"},
   {
     id: "ireland-wicklow-mountains-national-park-life-v2",
     type: "park",
@@ -95,8 +93,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["200 négyzetkilométeres terület", "1991-ben alapított intézmény", "Lugnaquilla csúcs magassága 925m", "6. századi keresztény monostorhely", "A Sika szarvasok legnagyobb állománya", "Szent Kevin alapította Glendalough-t"],
       ro: ["Suprafață de 20.000 hectare", "Înființat oficial în anul 1991", "Vârful Lugnaquilla are 925 metri", "Turnul din Glendalough are 30 metri", "Traversat de vechiul Drum Militar", "Izvorul râului Liffey se află aici"],
       en: ["20,000 hectares total area", "Established officially in 1991", "Lugnaquilla reaches 925 meters", "Glendalough tower stands 30m tall", "Military Road dates back to 1801", "Home to 10 distinct bird habitats"],
-    },
-  },
+    }, image: "/poi-images/ireland-wicklow-mountains-national-park-life-v2.webp"},
   {
     id: "ireland-burren-national-park-life-v2",
     type: "park",
@@ -127,8 +124,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["15 négyzetkilométeres magterület", "1991 óta nemzeti park", "Mullaghmore csúcs 191 méter magas", "22 őshonos orchideafaj otthona", "5800 éves Poulnabrone dolmen", "UNESCO Globális Geopark minősítés"],
       ro: ["1500 hectare de zonă protejată", "Fondat în cursul anului 1991", "Vârful Mullaghmore are 191 metri", "Găzduiește 22 specii de orhidee", "Dolmenul Poulnabrone are 5800 ani", "Statut de UNESCO Global Geopark"],
       en: ["1,500 hectares of core area", "Established in 1991", "Mullaghmore summit at 191 meters", "22 species of native orchids", "Poulnabrone portal tomb 5,800 years old", "UNESCO Global Geopark member"],
-    },
-  },
+    }, image: "/poi-images/ireland-burren-national-park-life-v2.webp"},
   {
     id: "ireland-connemara-national-park-life-v2",
     type: "park",
@@ -159,8 +155,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["2000 hektár láp és hangaföld", "A Diamond Hill magassága 442 m", "Alapítva 1980-ban", "A Twelve Bens hegylánc része"],
       ro: ["2.000 hectare de turbării", "Vârful Diamond Hill are 442 m", "Înființat în anul 1980", "Parte din munții Twelve Bens"],
       en: ["2,000 hectares of bog and heath", "Diamond Hill reaches 442 meters", "Established in 1980", "Managed by National Parks Service"],
-    },
-  },
+    }, image: "/poi-images/ireland-connemara-national-park-life-v2.webp"},
   {
     id: "ireland-fota-gardens-life-v2",
     type: "park",
@@ -191,8 +186,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["11 hektáros parkterület", "A Fota House 1820 körül épült", "Több mint 70 ritka fafaj", "Fota-szigeten fekszik"],
       ro: ["11 hectare de grădini amenajate", "Casa Fota construită în 1820", "Peste 70 de specii de arbori rari", "Situată pe insula Fota"],
       en: ["11 hectares of landscaped gardens", "Fota House dating from 1820s", "Collection of 70+ rare trees", "Located on Fota Island"],
-    },
-  },
+    }, image: "/poi-images/ireland-fota-gardens-life-v2.webp"},
   {
     id: "ireland-dublin-botanic-gardens-life-v2",
     type: "park",
@@ -223,8 +217,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["19,5 hektár összterület", "Alapítva 1795-ben", "15 000 gondozott növényfaj", "Nagy Pálmaház (1884)"],
       ro: ["Suprafață totală de 19,5 hectare", "Fondată în 1795", "Găzduiește 15.000 de specii", "Marea Casă a Palmierilor (1884)"],
       en: ["19.5 hectares total area", "Founded in 1795 by John Foster", "Home to 15,000 plant species", "Great Palm House built in 1884"],
-    },
-  },
+    }, image: "/poi-images/ireland-dublin-botanic-gardens-life-v2.webp"},
   {
     id: "ireland-slieve-bloom-mountains-life-v2",
     type: "forest",
@@ -255,8 +248,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["Legmagasabb pontja 527 m", "Laois és Offaly megyékben", "Slieve Bloom Way: 56 km-es körút", "Magaslápok jellemzik", "Megalitikus sírok találhatók", "Glenbarrow-vízesés"],
       ro: ["Înălțime maximă 527 m", "Situați în Laois și Offaly", "Slieve Bloom Way: traseu circular de 56 km", "Cunoscut pentru mlaștinile înalte", "Prezența mormintelor megalitice", "Cascada Glenbarrow"],
       en: ["Maximum height 527 m", "Located in Laois and Offaly", "Slieve Bloom Way: 56 km loop trail", "Known for high bogs", "Megalithic tombs present", "Glenbarrow Waterfall"],
-    },
-  },
+    }, image: "/poi-images/ireland-slieve-bloom-mountains-life-v2.webp"},
   {
     id: "ireland-glendalough-valley-life-v2",
     type: "valley",
@@ -287,8 +279,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["6. századi kolostoralapítás", "Kerek torony kb. 30 m magas", "Két tó: Felső és Alsó tó", "Wicklow megyében található", "Poulanass-vízesés", "Spinc kilátó: 400 m"],
       ro: ["Așezare monahală din secolul al VI-lea", "Turn rotund de aprox. 30 m înălțime", "Două lacuri: Upper și Lower Lake", "Situat în comitatul Wicklow", "Cascada Poulanass", "Punct de belvedere Spinc: 400 m"],
       en: ["Monastic settlement from 6th century", "Round tower approx. 30 m high", "Two lakes: Upper and Lower Lake", "Located in County Wicklow", "Poulanass Waterfall", "Spinc viewpoint: 400 m"],
-    },
-  },
+    }, image: "/poi-images/ireland-glendalough-valley-life-v2.webp"},
   {
     id: "ireland-derryclare-wood-life-v2",
     type: "forest",
@@ -319,8 +310,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["Természetvédelmi terület a Twelve Bensben", "Galway megyében található", "Az ír nyúl élőhelye", "Mocsári tarkalepke", "Derryclare Lough tó", "Az európai nyérc élőhelye"],
       ro: ["Rezervație naturală în Twelve Bens", "Situat în comitatul Galway", "Gazdă pentru iepurele irlandez", "Fluturele Marsh Fritillary", "Derryclare Lough", "Habitat pentru dihorul european"],
       en: ["Nature reserve in the Twelve Bens", "Located in County Galway", "Home to Irish hare", "Marsh Fritillary butterfly", "Derryclare Lough", "Habitat for European polecat"],
-    },
-  },
+    }, image: "/poi-images/ireland-derryclare-wood-life-v2.webp"},
   {
     id: "ireland-bull-island-life-v2",
     type: "wildlife",
@@ -351,8 +341,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["5 km hosszú homokpad", "1821 óta formálódó sziget", "UNESCO Bioszféra-rezervátum (1981)", "180+ dokumentált madárfaj"],
       ro: ["Fâșie de nisip de 5 km", "Formată după anul 1821", "Rezervație UNESCO din 1981", "Peste 180 de specii de păsări"],
       en: ["5 km long sand spit", "Formed after Bull Wall (1821)", "UNESCO Biosphere site (1981)", "Over 180 bird species recorded"],
-    },
-  },
+    }, image: "/poi-images/ireland-bull-island-life-v2.webp"},
   {
     id: "ireland-killarney-oak-forest-life-v2",
     type: "forest",
@@ -383,8 +372,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["Killarney Nemzeti Park, Kerry megye", "Írország utolsó ősi tölgyerdői közé tartozik", "Gímszarvasok élőhelye", "UNESCO bioszféra-rezervátum", "Ír moha előfordulása", "Old Kenmare Road túraút"],
       ro: ["Parcul Național Killarney, comitatul Kerry", "Una dintre ultimele păduri seculare de stejar din Irlanda", "Habitat pentru cerb roșu", "Rezervație a Biosferei UNESCO", "Prezența mușchiului irlandez", "Traseul de drumeție Old Kenmare Road"],
       en: ["Killarney National Park, County Kerry", "One of the last ancient oak woodlands in Ireland", "Home to red deer", "UNESCO Biosphere Reserve", "Presence of Irish moss", "Old Kenmare Road hiking trail"],
-    },
-  },
+    }, image: "/poi-images/ireland-killarney-oak-forest-life-v2.webp"},
   {
     id: "ireland-lady-island-lake-life-v2",
     type: "lake",
@@ -447,8 +435,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["Lady Gregory drámaíró otthona", "Híres szignófa (rézbükk)", "400 hektár erdős terület", "Ritka időszakos tavak (turlough)"],
       ro: ["Casa scriitoarei Lady Gregory", "Celebrul Autograph Tree (fag)", "400 de hectare de habitat", "Include lacuri sezoniere (turloughs)"],
       en: ["Home of playwright Lady Gregory", "Famous Autograph Tree (Beech)", "400 hectares of diverse habitat", "Features rare seasonal turloughs"],
-    },
-  },
+    }, image: "/poi-images/ireland-coole-park-life-v2.webp"},
   {
     id: "ireland-ballycroy-mountains-life-v2",
     type: "mountain",
@@ -479,8 +466,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["A Nephin Beg-hegység hossza 25 km.", "A Nephin csúcsa 806 m magas.", "A Ballycroy Nemzeti Park területe 150 km².", "A hegység kőzetei kvarcitból és palából állnak.", "A területen több mint 20 gleccsertó található.", "Az éves csapadékmennyiség körülbelül 1600 mm."],
       ro: ["Lanțul munții Nephin Beg se întinde pe 25 km.", "Vârful Nephin are o altitudine de 806 m.", "Parcul Național Ballycroy a fost înființat în 1998 și are 150 km².", "Rocile dominante sunt cuarțitele și șisturile paleozoice.", "Există peste 20 de lacuri glaciare în zonă.", "Precipitațiile medii anuale sunt de 1600 mm."],
       en: ["The Nephin Beg Range extends 25 km in length.", "Nephin, the highest peak, stands at 806 m above sea level.", "Ballycroy National Park, established in 1998, covers 150 km².", "The range's geology consists of quartzite and shale from the Paleozoic era.", "It contains more than 20 glacial lakes.", "Average annual precipitation is approximately 1600 mm."],
-    },
-  },
+    }, image: "/poi-images/ireland-ballycroy-mountains-life-v2.webp"},
   {
     id: "ireland-glengarriff-woods-life-v2",
     type: "forest",
@@ -511,8 +497,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["A Glengarriff Woods 300 hektáron terül el.", "A terület 1950-ben lett nemzeti természetvédelmi terület.", "A tölgyfa korája meghaladja a 200 évet.", "Több mint 70 madárfaj él az erdőben.", "Az éves átlaghőmérséklet 10°C.", "Az erdő 5 km-re északnyugatra található Glengarriff falutól."],
       ro: ["Pădurea Glengarriff se întinde pe 300 ha.", "A fost declarată rezervație naturală națională în 1950.", "Stejarii au peste 200 de ani.", "Peste 70 de specii de păsări trăiesc în pădure.", "Temperatura medie anuală este de 10°C.", "Pădurea este situată la 5 km NV de satul Glengarriff."],
       en: ["Glengarriff Woods covers an area of 300 hectares.", "It was designated a National Nature Reserve in 1950.", "Some oak trees are over 200 years old.", "Over 70 bird species inhabit the woods.", "The average annual temperature is 10°C.", "It is located 5 km northwest of Glengarriff village."],
-    },
-  },
+    }, image: "/poi-images/ireland-glengarriff-woods-life-v2.webp"},
   {
     id: "ireland-slieve-league-cliffs-life-v2",
     type: "landmark",
@@ -543,8 +528,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["A sziklák magassága 601 méter.", "Az One Man's Pass hossza 600 m, szélessége 1 m.", "A kvarcit kora körülbelül 500 millió év.", "Több mint 20.000 tengerimadár fészkel itt.", "A sziklafal 5 km hosszan húzódik.", "A terület 2014-ben lett geopark."],
       ro: ["Stâncile ating 601 m înălțime.", "One Man's Pass are 600 m lungime și 1 m lățime.", "Cuarțitul datează din Cambrian, acum 500 de milioane de ani.", "Peste 20.000 de păsări marine cuibăresc aici.", "Faleza se întinde pe 5 km de coastă.", "Zona a fost desemnată geoparc în 2014."],
       en: ["The cliffs rise to 601 m above sea level.", "One Man's Pass is 600 m long and only 1 m wide.", "The quartzite rock is about 500 million years old (Cambrian).", "Over 20,000 seabirds nest on the cliffs.", "The cliff face stretches for 5 km along the coast.", "The area was designated a Geopark in 2014."],
-    },
-  },
+    }, image: "/poi-images/ireland-slieve-league-cliffs-life-v2.webp"},
   {
     id: "ireland-great-blasket-island-life-v2",
     type: "island",
@@ -575,8 +559,7 @@ export const irelandLifeV2: POI[] = [
       hu: ["A sziget hossza 5 km, szélessége 2 km.", "A legmagasabb pont a Croaghmore (285 m).", "Az utolsó lakók 1953-ban hagyták el.", "A legnagyobb népesség 1916-ban 176 fő volt.", "A sziget körülbelül 3 km-re van a parttól.", "Területe 4,5 km²."],
       ro: ["Insula are 5 km lungime și 2 km lățime.", "Cel mai înalt punct este Croaghmore, 285 m.", "Ultimii locuitori au părăsit insula în 1953.", "Populația maximă a fost de 176 de persoane în 1916.", "Insula se află la 3 km de coastă.", "Suprafața insulei este de 4,5 km²."],
       en: ["The island is 5 km long and 2 km wide.", "The highest point is Croaghmore at 285 m.", "The last inhabitants left in 1953.", "Peak population was 176 in 1916.", "It lies 3 km off the coast.", "The island area is 4.5 square kilometers."],
-    },
-  },
+    }, image: "/poi-images/ireland-great-blasket-island-life-v2.webp"},
   {
     id: "ireland-fermanagh-lakelands-life-v2",
     type: "lake",

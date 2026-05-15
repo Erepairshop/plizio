@@ -31,8 +31,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Dogana lakossága kb. 2000 fő.", "Területe mintegy 0,5 km².", "Tengerszint feletti magassága kb. 50 méter.", "A vámátkelő naponta több ezer járművet bonyolít le.", "Távolság Riminitől 15 km.", "Az 'Azzurro Bevásárlóközpont' az egyik legnagyobb az országban."],
       ro: ["Dogana are aproximativ 2.000 de locuitori.", "Suprafața este de aproximativ 0,5 km².", "Altitudinea este de circa 50 m deasupra nivelului mării.", "Punctul vamal înregistrează mii de vehicule zilnic.", "Distanța până la Rimini este de 15 km.", "Centrul comercial 'Azzurro' este unul dintre cele mai mari din țară."],
       en: ["Dogana has about 2,000 inhabitants.", "Its area is roughly 0.5 km².", "Elevation is about 50 m above sea level.", "The customs crossing handles thousands of vehicles daily.", "The distance to Rimini is 15 km.", "The 'Centro Commerciale Azzurro' shopping center is one of the largest in the country."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-dogana-cities-v2.webp"},
   {
     id: "sanmarino-falciano-cities-v2",
     type: "city",
@@ -63,8 +62,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Lakosság: 1050 fő (2020-as adat).", "Magasság: 450 méter tengerszint felett.", "A templom 1850-ben épült.", "Területe 0,5 négyzetkilométer.", "Távolság San Marino fővárostól: 5 km.", "Két élelmiszerbolt található."],
       ro: ["Populație: 1.050 (în 2020).", "Altitudine: 450 de metri deasupra nivelului mării.", "Biserica a fost construită în 1850.", "Suprafața este de 0,5 kilometri pătrați.", "Distanța până la capitala San Marino este de 5 kilometri.", "Există 2 magazine alimentare."],
       en: ["Population: 1,050 (as of 2020).", "Altitude: 450 meters above sea level.", "The church was built in 1850.", "Area is 0.5 square kilometers.", "Distance to the capital San Marino is 5 kilometers.", "There are 2 grocery stores."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-falciano-cities-v2.webp"},
   {
     id: "sanmarino-rovereta-cities-v2",
     type: "city",
@@ -95,8 +93,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Lakosság: 700 fő (2020-as adat).", "Magasság: 350 méter tengerszint felett.", "Az ipari terület 20 hektár.", "A bevásárlóközpont 2005-ben nyílt.", "5 termelőüzem van.", "A munkanélküliségi ráta 3%."],
       ro: ["Populație: 700 (în 2020).", "Altitudine: 350 de metri deasupra nivelului mării.", "Zona industrială are 20 de hectare.", "Centrul comercial a fost deschis în 2005.", "Există 5 unități de producție.", "Rata șomajului este de 3%."],
       en: ["Population: 700 (as of 2020).", "Altitude: 350 meters above sea level.", "Industrial area covers 20 hectares.", "The shopping center opened in 2005.", "There are 5 manufacturing plants.", "Unemployment rate is 3%."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-rovereta-cities-v2.webp"},
   {
     id: "sanmarino-ventoso-cities-v2",
     type: "city",
@@ -127,8 +124,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Lakosság: 300 fő (2020-as adat).", "Magasság: 600 méter tengerszint felett.", "A templom 1650-ben épült.", "A mezőgazdasági terület 2 négyzetkilométer.", "3 mezőgazdasági üzem működik.", "Az éves csapadékmennyiség átlagosan 800 mm."],
       ro: ["Populație: 300 (în 2020).", "Altitudine: 600 de metri deasupra nivelului mării.", "Biserica a fost construită în 1650.", "Suprafața agricolă este de 2 kilometri pătrați.", "Există 3 ferme.", "Precipitațiile medii anuale sunt de 800 mm."],
       en: ["Population: 300 (as of 2020).", "Altitude: 600 meters above sea level.", "The church was built in 1650.", "Agricultural area is 2 square kilometers.", "There are 3 farms.", "Average annual rainfall is 800 mm."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-ventoso-cities-v2.webp"},
   {
     id: "sanmarino-galavotto-cities-v2",
     type: "city",
@@ -223,8 +219,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 50 fő", "Távolság a fővárostól: 3 km", "Magasság: 340 m", "Mezőgazdasági terület: 0,4 km²", "Alapítás éve: kb. 1800", "Legközelebbi település: Galavotto"],
       ro: ["Populație: aprox. 50", "Distanță față de capitală: 3 km", "Altitudine: 340 m", "Suprafață agricolă: 0,4 km²", "Anul înființării: cca. 1800", "Cea mai apropiată localitate: Galavotto"],
       en: ["Population: approx. 50", "Distance to capital: 3 km", "Elevation: 340 m", "Agricultural area: 0.4 km²", "Year founded: ca. 1800", "Nearest settlement: Galavotto"],
-    },
-  },
+    }, image: "/poi-images/sanmarino-ca-berloni-cities-v2.webp"},
   {
     id: "sanmarino-ca-chiaro-cities-v2",
     type: "city",
@@ -255,8 +250,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 70 fő", "Magasság: 300 m", "Távolság az olasz határtól: 1 km", "Kápolna épült 1850-ben", "Bortermelés: évi 5000 liter", "Terület: 0,6 km²"],
       ro: ["Populație: aprox. 70", "Altitudine: 300 m", "Distanță până la granița italiană: 1 km", "Capelă construită în 1850", "Producție de vin: 5000 litri anual", "Suprafață: 0,6 km²"],
       en: ["Population: approx. 70", "Elevation: 300 m", "Distance to Italian border: 1 km", "Chapel built in 1850", "Wine production: 5,000 liters per year", "Area: 0.6 km²"],
-    },
-  },
+    }, image: "/poi-images/sanmarino-ca-chiaro-cities-v2.webp"},
   {
     id: "sanmarino-ca-dei-lanci-cities-v2",
     type: "city",
@@ -319,8 +313,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 60 fő", "Magasság: 310 m", "Ciszterna 1750-ből", "Terület: 0,5 km²", "Távolság a fővárostól: 4 km", "Zarándokút a középkor óta"],
       ro: ["Populație: aprox. 60", "Altitudine: 310 m", "Cisternă din 1750", "Suprafață: 0,5 km²", "Distanță până la capitală: 4 km", "Drum de pelerinaj din Evul Mediu"],
       en: ["Population: approx. 60", "Elevation: 310 m", "Cistern from 1750", "Area: 0.5 km²", "Distance to capital: 4 km", "Pilgrim route since Middle Ages"],
-    },
-  },
+    }, image: "/poi-images/sanmarino-ca-gallo-cities-v2.webp"},
   {
     id: "sanmarino-ca-giangi-cities-v2",
     type: "city",
@@ -351,8 +344,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 30 fő", "Magasság: 360 m", "Terület: 0,2 km²", "Távolság a vártól: 2 km", "Napraforgó-termesztés 1950 óta", "Legközelebbi falu: Galavotto"],
       ro: ["Populație: aprox. 30", "Altitudine: 360 m", "Suprafață: 0,2 km²", "Distanță până la castel: 2 km", "Cultivarea florii-soarelui din 1950", "Cel mai apropiat sat: Galavotto"],
       en: ["Population: approx. 30", "Elevation: 360 m", "Area: 0.2 km²", "Distance to castle: 2 km", "Sunflower farming since 1950", "Nearest village: Galavotto"],
-    },
-  },
+    }, image: "/poi-images/sanmarino-ca-giangi-cities-v2.webp"},
   {
     id: "sanmarino-ca-guerino-cities-v2",
     type: "city",
@@ -415,8 +407,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 35 fő", "Magasság: 340 m", "Terület: 0,2 km²", "Falunap 1900 óta", "Távolság Monte Titanótól: 3 km", "Olajbogyó-termelés: évi 2000 kg"],
       ro: ["Populație: aprox. 35", "Altitudine: 340 m", "Suprafață: 0,2 km²", "Sărbătoarea satului din 1900", "Distanță până la Monte Titano: 3 km", "Producție de măsline: 2000 kg anual"],
       en: ["Population: approx. 35", "Elevation: 340 m", "Area: 0.2 km²", "Village festival since 1900", "Distance to Monte Titano: 3 km", "Olive production: 2,000 kg per year"],
-    },
-  },
+    }, image: "/poi-images/sanmarino-ca-janni-cities-v2.webp"},
   {
     id: "sanmarino-ca-olivo-cities-v2",
     type: "city",
@@ -479,8 +470,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 45 fő", "Magasság: 290 m", "Terület: 0,3 km²", "Patak: Rio di Cà Rossi", "Távolság Fiorentinótól: 2 km", "Túraútvonal: 5 km hosszú"],
       ro: ["Populație: aprox. 45", "Altitudine: 290 m", "Suprafață: 0,3 km²", "Pârâu: Rio di Cà Rossi", "Distanță până la Fiorentino: 2 km", "Traseu de drumeție: 5 km lungime"],
       en: ["Population: approx. 45", "Elevation: 290 m", "Area: 0.3 km²", "Stream: Rio di Cà Rossi", "Distance to Fiorentino: 2 km", "Hiking trail: 5 km long"],
-    },
-  },
+    }, image: "/poi-images/sanmarino-ca-rossi-cities-v2.webp"},
   {
     id: "sanmarino-caladino-cities-v2",
     type: "city",
@@ -543,8 +533,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 65 fő", "Magasság: 300 m", "Múzeum megnyílt 1995-ben", "Terület: 0,5 km²", "Kendertermesztés 1950-ig", "Kenyersütési hagyomány 1800 óta"],
       ro: ["Populație: aprox. 65", "Altitudine: 300 m", "Muzeu deschis în 1995", "Suprafață: 0,5 km²", "Cultivarea cânepei până în 1950", "Tradiția pâinii din 1800"],
       en: ["Population: approx. 65", "Elevation: 300 m", "Museum opened in 1995", "Area: 0.5 km²", "Hemp cultivation until 1950", "Bread-baking tradition since 1800"],
-    },
-  },
+    }, image: "/poi-images/sanmarino-canepa-cities-v2.webp"},
   {
     id: "sanmarino-casole-cities-v2",
     type: "city",
@@ -575,8 +564,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 50 fő", "Magasság: 280 m", "Kápolna épült 1550-ben", "Terület: 0,4 km²", "Olajbogyó-termelés: évi 3000 kg", "Távolság a fővárostól: 7 km"],
       ro: ["Populație: aprox. 50", "Altitudine: 280 m", "Capelă construită în 1550", "Suprafață: 0,4 km²", "Producție de măsline: 3000 kg anual", "Distanță până la capitală: 7 km"],
       en: ["Population: approx. 50", "Elevation: 280 m", "Chapel built in 1550", "Area: 0.4 km²", "Olive production: 3,000 kg per year", "Distance to capital: 7 km"],
-    },
-  },
+    }, image: "/poi-images/sanmarino-casole-cities-v2.webp"},
   {
     id: "sanmarino-castellaro-cities-v2",
     type: "city",
@@ -607,8 +595,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 70 fő", "Magasság: 360 m", "Várrom 1150-ből", "Terület: 0,5 km²", "Bortermelés: évi 6.000 liter", "Távolság a fővárostól: 8 km"],
       ro: ["Populație: aprox. 70", "Altitudine: 360 m", "Ruinele castelului din 1150", "Suprafață: 0,5 km²", "Producție de vin: 6.000 litri anual", "Distanță până la capitală: 8 km"],
       en: ["Population: approx. 70", "Elevation: 360 m", "Castle ruins from 1150", "Area: 0.5 km²", "Wine production: 6,000 liters per year", "Distance to capital: 8 km"],
-    },
-  },
+    }, image: "/poi-images/sanmarino-castellaro-cities-v2.webp"},
   {
     id: "sanmarino-cerbaiola-cities-v2",
     type: "city",
@@ -639,8 +626,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 100 fő", "Magasság: 330 m", "San Rocco kápolna épült 1600-ban", "Terület: 0,8 km²", "Szőlőterület: 20 hektár", "Távolság a természetvédelmi területtől: 1 km"],
       ro: ["Populație: aprox. 100", "Altitudine: 330 m", "Capela San Rocco construită în 1600", "Suprafață: 0,8 km²", "Suprafață viticolă: 20 de hectare", "Distanță până la rezervația naturală: 1 km"],
       en: ["Population: approx. 100", "Elevation: 330 m", "Chapel of San Rocco built in 1600", "Area: 0.8 km²", "Vineyard area: 20 hectares", "Distance to nature reserve: 1 km"],
-    },
-  },
+    }, image: "/poi-images/sanmarino-cerbaiola-cities-v2.webp"},
   {
     id: "sanmarino-cerbaiola-di-sotto-cities-v2",
     type: "city",
@@ -703,8 +689,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 75 fő", "Magasság: 340 m", "Erdőterület: 1 km²", "Terület: 1,2 km²", "Forrás: Fonte di Cervara", "Távolság a fővárostól: 9 km"],
       ro: ["Populație: aprox. 75", "Altitudine: 340 m", "Suprafață forestieră: 1 km²", "Suprafață: 1,2 km²", "Izvor: Fonte di Cervara", "Distanță până la capitală: 9 km"],
       en: ["Population: approx. 75", "Elevation: 340 m", "Forest area: 1 km²", "Area: 1.2 km²", "Spring: Fonte di Cervara", "Distance to capital: 9 km"],
-    },
-  },
+    }, image: "/poi-images/sanmarino-cervara-cities-v2.webp"},
   {
     id: "sanmarino-ciampavento-cities-v2",
     type: "city",
@@ -767,8 +752,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 55 fő", "Magasság: 310 m", "Kúria épült 1650-ben", "Terület: 0,5 km²", "Szüreti fesztivál 1800 óta", "Templom épült 1550-ben"],
       ro: ["Populație: aprox. 55", "Altitudine: 310 m", "Conac construit în 1650", "Suprafață: 0,5 km²", "Festivalul recoltei din 1800", "Biserică construită în 1550"],
       en: ["Population: approx. 55", "Elevation: 310 m", "Manor house built in 1650", "Area: 0.5 km²", "Harvest festival since 1800", "Church built in 1550"],
-    },
-  },
+    }, image: "/poi-images/sanmarino-corianino-cities-v2.webp"},
   {
     id: "sanmarino-faetano-di-sotto-cities-v2",
     type: "city",
@@ -799,8 +783,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 300 méter.", "Lakosság: kb. 120 fő.", "Első írásos említés: 13. század.", "Távolság az olasz határtól: kb. 2 km.", "San Giovanni Battista templom építése: 1885.", "A település területe: 0,5 négyzetkilométer."],
       ro: ["Altitudine: 300 de metri deasupra nivelului mării.", "Populație: aproximativ 120 de locuitori.", "Prima atestare documentară: secolul al XIII-lea.", "Distanța până la granița italiană: circa 2 kilometri.", "Biserica San Giovanni Battista: construită în 1885.", "Suprafața localității: 0,5 kilometri pătrați."],
       en: ["Elevation: 300 meters above sea level.", "Population: approximately 120.", "First documented: 13th century.", "Distance to Italian border: about 2 km.", "San Giovanni Battista church built: 1885.", "Area: 0.5 square kilometers."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-faetano-di-sotto-cities-v2.webp"},
   {
     id: "sanmarino-falciano-di-sopra-cities-v2",
     type: "city",
@@ -927,8 +910,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Magasság: 420 méter.", "Lakosság: kb. 70 fő.", "Első említés: 14. század.", "Sant'Andrea templom: 13. században épült.", "Terület: 0,25 négyzetkilométer.", "Távolság az olasz parttól: kb. 12 km."],
       ro: ["Altitudine: 420 de metri.", "Populație: aproximativ 70 de locuitori.", "Prima mențiune: secolul al XIV-lea.", "Biserica Sant'Andrea: construită în secolul al XIII-lea.", "Suprafața: 0,25 kilometri pătrați.", "Distanța până la coasta italiană: circa 12 km."],
       en: ["Elevation: 420 meters.", "Population: approx. 70.", "First mentioned: 14th century.", "Sant'Andrea church: built in the 13th century.", "Area: 0.25 square kilometers.", "Distance to Italian coast: about 12 km."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-montalbo-cities-v2.webp"},
   {
     id: "sanmarino-montegiardino-di-sopra-cities-v2",
     type: "city",
@@ -1023,8 +1005,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Magasság: 350 méter.", "Lakosság: kb. 90 fő.", "Első említés: 13. század.", "Kerámiagyártás: 17. század óta.", "Santa Croce templom: 1540-ben épült.", "Terület: 0,3 négyzetkilométer."],
       ro: ["Altitudine: 350 de metri.", "Populație: aproximativ 90 de locuitori.", "Prima mențiune: secolul al XIII-lea.", "Tradiția ceramicii: din secolul al XVII-lea.", "Biserica Santa Croce: construită în 1540.", "Suprafața: 0,3 kilometri pătrați."],
       en: ["Elevation: 350 meters.", "Population: approx. 90.", "First mentioned: 13th century.", "Pottery tradition: since the 17th century.", "Santa Croce church: built in 1540.", "Area: 0.3 square kilometers."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-paderna-cities-v2.webp"},
   {
     id: "sanmarino-poggiale-cities-v2",
     type: "city",
@@ -1087,8 +1068,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Magasság: 320 méter.", "Lakosság: kb. 30 fő.", "Alapítás: 14. század.", "San Rocco kápolna: 1750-ben épült.", "Terület: 0,1 négyzetkilométer.", "Szőlőtermesztés: főként Sangiovese."],
       ro: ["Altitudine: 320 de metri.", "Populație: aproximativ 30 de locuitori.", "Fondare: secolul al XIV-lea.", "Capela San Rocco: construită în 1750.", "Suprafața: 0,1 kilometri pătrați.", "Viticultură: predominant Sangiovese."],
       en: ["Elevation: 320 meters.", "Population: approx. 30.", "Founded: 14th century.", "San Rocco chapel: built in 1750.", "Area: 0.1 square kilometers.", "Viticulture: mainly Sangiovese."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-poggio-casalino-cities-v2.webp"},
   {
     id: "sanmarino-poggio-chiurano-cities-v2",
     type: "city",
@@ -1119,8 +1099,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Magasság: 280 méter.", "Lakosság: kb. 40 fő.", "Első említés: 13. század.", "San Giovanni Battista templom: 1850-ben épült.", "Terület: 0,15 négyzetkilométer.", "Júliusi átlaghőmérséklet: 24°C."],
       ro: ["Altitudine: 280 de metri.", "Populație: aproximativ 40 de locuitori.", "Prima mențiune: secolul al XIII-lea.", "Biserica San Giovanni Battista: construită în 1850.", "Suprafața: 0,15 kilometri pătrați.", "Temperatura medie în iulie: 24°C."],
       en: ["Elevation: 280 meters.", "Population: approx. 40.", "First mentioned: 13th century.", "San Giovanni Battista church: built in 1850.", "Area: 0.15 square kilometers.", "Average July temperature: 24°C."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-poggio-chiurano-cities-v2.webp"},
   {
     id: "sanmarino-pozzetta-cities-v2",
     type: "city",
@@ -1215,8 +1194,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Magasság: 380 méter.", "Lakosság: kb. 70 fő.", "Első említés: 14. század.", "San Pietro templom: 1640-ben épült.", "Terület: 0,22 négyzetkilométer.", "Történelmi malom: 1890-ben zárt be."],
       ro: ["Altitudine: 380 de metri.", "Populație: aproximativ 70 de locuitori.", "Prima mențiune: secolul al XIV-lea.", "Biserica San Pietro: construită în 1640.", "Suprafața: 0,22 kilometri pătrați.", "Moara istorică: închisă în 1890."],
       en: ["Elevation: 380 meters.", "Population: approx. 70.", "First mentioned: 14th century.", "San Pietro church: built in 1640.", "Area: 0.22 square kilometers.", "Historic mill: closed in 1890."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-rovere-cities-v2.webp"},
   {
     id: "sanmarino-santagatha-cities-v2",
     type: "city",
@@ -1311,8 +1289,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Magasság: 340 méter.", "Lakosság: kb. 100 fő.", "Első említés: 12. század.", "San Francesco templom: 1360-ban épült.", "Terület: 0,35 négyzetkilométer.", "Távolság a Cesta erődtől: kb. 1 km."],
       ro: ["Altitudine: 340 de metri.", "Populație: aproximativ 100 de locuitori.", "Prima mențiune: secolul al XII-lea.", "Biserica San Francesco: construită în 1360.", "Suprafața: 0,35 kilometri pătrați.", "Distanța până la fortăreața Cesta: circa 1 km."],
       en: ["Elevation: 340 meters.", "Population: approx. 100.", "First mentioned: 12th century.", "San Francesco church: built in 1360.", "Area: 0.35 square kilometers.", "Distance to Cesta fortress: about 1 km."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-taverna-cities-v2.webp"},
   {
     id: "sanmarino-torraccia-cities-v2",
     type: "city",
@@ -1343,8 +1320,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Magasság: 290 méter.", "Lakosság: kb. 40 fő.", "Első említés: 13. század.", "San Rocco templom: 1720-ban épült.", "Terület: 0,12 négyzetkilométer.", "Olívaolaj-termelés: kb. 300 liter évente."],
       ro: ["Altitudine: 290 de metri.", "Populație: aproximativ 40 de locuitori.", "Prima mențiune: secolul al XIII-lea.", "Biserica San Rocco: construită în 1720.", "Suprafața: 0,12 kilometri pătrați.", "Producția de ulei de măsline: circa 300 litri pe an."],
       en: ["Elevation: 290 meters.", "Population: approx. 40.", "First mentioned: 13th century.", "San Rocco church: built in 1720.", "Area: 0.12 square kilometers.", "Olive oil production: about 300 liters per year."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-torraccia-cities-v2.webp"},
   {
     id: "sanmarino-valdragone-di-sopra-cities-v2",
     type: "city",
@@ -1375,8 +1351,7 @@ export const sanmarinoCitiesV2: POI[] = [
       hu: ["Magasság: 420 méter.", "Lakosság: kb. 60 fő.", "Első említés: 13. század.", "San Michele templom: 1550-ben épült.", "Terület: 0,18 négyzetkilométer.", "Dragone-patak hossza: kb. 8 km."],
       ro: ["Altitudine: 420 de metri.", "Populație: aproximativ 60 de locuitori.", "Prima mențiune: secolul al XIII-lea.", "Biserica San Michele: construită în 1550.", "Suprafața: 0,18 kilometri pătrați.", "Lungimea pârâului Dragone: circa 8 km."],
       en: ["Elevation: 420 meters.", "Population: approx. 60.", "First mentioned: 13th century.", "San Michele church: built in 1550.", "Area: 0.18 square kilometers.", "Length of Dragone stream: about 8 km."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-valdragone-di-sopra-cities-v2.webp"},
   {
     id: "sanmarino-valdragone-di-sotto-cities-v2",
     type: "city",

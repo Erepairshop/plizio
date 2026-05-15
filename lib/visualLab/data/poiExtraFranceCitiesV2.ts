@@ -31,8 +31,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Az i. e. 5. században alapították", "A Port Vauban 1700 hajóhellyel rendelkezik", "A Grimaldi-kastély a 12. századból való", "Picasso 1946-ban dolgozott a városban"],
       ro: ["Fondat în secolul al V-lea î.Hr.", "Port Vauban are 1.700 de locuri de acostare", "Castelul Grimaldi datează din secolul XII", "Picasso a lucrat aici în anul 1946"],
       en: ["Founded in the 5th century BC", "Port Vauban has 1,700 mooring berths", "Château Grimaldi dates to the 12th century", "Picasso worked here in the year 1946"],
-    },
-  },
+    }, image: "/poi-images/france-antibes-cities-v2.webp"},
   {
     id: "france-dunkerque-cities-v2",
     type: "city",
@@ -63,8 +62,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Franciaország harmadik legnagyobb kikötője", "1940-ben 338 226 katonát mentettek ki", "A harangtorony az UNESCO Világörökség része", "A város 90%-a elpusztult a világháborúban"],
       ro: ["Al treilea port ca mărime din Franța", "338.226 de soldați evacuați în 1940", "Turnul Beffroi este patrimoniu UNESCO", "90% din oraș a fost distrus în al Doilea Război"],
       en: ["France's third largest port", "338,226 soldiers evacuated in 1940", "The Belfry is a UNESCO World Heritage site", "90% of the city was destroyed in WWII"],
-    },
-  },
+    }, image: "/poi-images/france-dunkerque-cities-v2.webp"},
   {
     id: "france-ajaccio-cities-v2",
     type: "city",
@@ -95,8 +93,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A város területe mintegy 82 négyzetkilométer", "1492-ben alapították a genovaiak a mai helyén", "A Maison Bonaparte ma nemzeti múzeumként működik", "A 16. századi fellegvár ma is katonai terület", "Lakosainak száma megközelíti a 70 000 főt", "Éghajlata mediterrán, évi 2700 napsütéses órával"],
       ro: ["Populația orașului este de aproximativ 71.000 locuitori", "Catedrala Santa Maria Assunta a fost terminată în 1593", "Orașul este situat la o altitudine medie de 38 metri", "Este sediul Adunării Corsicane (Parlamentul regional)", "Portul Tino Rossi este principalul punct de acces naval", "Napoleon a părăsit orașul definitiv în anul 1799"],
       en: ["Established by the Republic of Genoa in 1492", "Napoleon Bonaparte was born here on August 15, 1769", "Highest elevation in the commune is 807 meters", "The city covers a total land area of 82.03 sq km", "Home to the Palais Fesch, a major fine arts museum", "The local airport is named after Napoleon Bonaparte"],
-    },
-  }
+    }, image: "/poi-images/france-ajaccio-cities-v2.webp"}
 ,
   {
     id: "france-limoges-bis-cities-v2",
@@ -160,8 +157,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A Notre-Dame katedrális 1991 óta Világörökség", "A római korban Durocortorum néven volt ismert", "Itt írták alá 1945-ben a német fegyverszünetet", "A város tengerszint feletti magassága 80-135 méter", "A champagne-i borvidék északi központja", "Híres a római kori Porte de Mars diadalívről"],
       ro: ["Catedrala are peste 2.300 de statui exterioare", "Orașul a fost distrus în proporție de 80% în Primul Război", "Palais du Tau a fost reședința arhiepiscopilor", "Reims se află la 129 km nord-est de Paris", "Aici se află mormântul Sfântului Remi (Remigius)", "Populația metropolitană depășește 320.000 locuitori"],
       en: ["The Cathedral of Notre-Dame was begun in 1211", "Germany signed the WWII surrender here in 1945", "The city covers an area of 47 square kilometers", "Home to the Roman Mars Gate, built in the 2nd century", "Saint-Remi Basilica dates back to the 11th century", "Major production center for the Champagne wine industry"],
-    },
-  },
+    }, image: "/poi-images/france-reims-cities-v2.webp"},
   {
     id: "france-nantes-cities-v2",
     type: "city",
@@ -192,8 +188,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["1828-ban itt született a híres író, Jules Verne", "A város 1992-ben kapta meg a Művészet Városa címet", "A Szent Péter és Pál katedrális 457 évig épült", "A Loire folyó mentén 50 km-re fekszik az óceántól", "Lakossága az agglomerációval együtt 650 000 fő", "Itt található az egykori LU kekszgyár kulturális központja"],
       ro: ["Castelul Ducilor de Bretania a fost renovat în 2007", "Edictul de la Nantes din 1598 a acordat libertate religioasă", "Elefantul mecanic are o înălțime de 12 metri", "Orașul a primit titlul de Capitală Verde Europeană în 2013", "Altitudinea maximă a orașului este de 52 metri", "Rețeaua de tramvai a fost prima modernă din Franța"],
       en: ["The Edict of Nantes was signed here in 1598", "Home to the Machines of the Isle of Nantes", "Total city population is approximately 318,000", "The Cathedral of St. Peter and St. Paul was started in 1434", "Nantes was the capital of Brittany until the 16th century", "The city spans across 65.19 square kilometers"],
-    },
-  },
+    }, image: "/poi-images/france-nantes-cities-v2.webp"},
   {
     id: "france-toulouse-cities-v2",
     type: "city",
@@ -224,8 +219,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Az Airbus központja itt található", "A Saint-Sernin bazilika Világörökség", "Az egyetemet 1229-ben alapították", "A Canal du Midi köti össze a Garonne-t a tengerrel"],
       ro: ["Sediul central al companiei Airbus", "Bazilica Saint-Sernin este sit UNESCO", "Universitatea a fost fondată în 1229", "Canal du Midi leagă Garonne de mare"],
       en: ["Headquarters of Airbus", "Basilica of Saint-Sernin is a UNESCO site", "University founded in 1229", "Canal du Midi links the Garonne to the sea"],
-    },
-  },
+    }, image: "/poi-images/france-toulouse-cities-v2.webp"},
   {
     id: "france-nice-cities-v2",
     type: "city",
@@ -256,8 +250,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["1860-ban csatolták Franciaországhoz", "A Promenade des Anglais 7 km hosszú", "A nizzai karnevál 1294 óta dokumentált", "UNESCO Világörökség mint téli üdülőhely"],
       ro: ["Anexată Franței în anul 1860", "Promenade des Anglais are 7 km lungime", "Carnavalul din Nisa documentat din 1294", "Sit UNESCO ca stațiune balneară de iarnă"],
       en: ["Annexed to France in 1860", "Promenade des Anglais is 7 km long", "Nice Carnival documented since 1294", "UNESCO World Heritage as a winter resort city"],
-    },
-  },
+    }, image: "/poi-images/france-nice-cities-v2.webp"},
   {
     id: "france-lyon-cities-v2",
     type: "city",
@@ -288,8 +281,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A rómaiak alapították Lugdunum néven i.e. 43-ban", "Híres a 'bouchon'-oknak nevezett helyi kisvendéglőkről", "A Lumière fivérek itt találták fel a mozit 1895-ben", "A város területén 29 híd ível át a folyókon", "A Fourvière bazilika 1872 és 1884 között épült", "Selyemipari központ volt a 16. századtól kezdve"],
       ro: ["Populația zonei metropolitane este de 2,3 milioane", "Bazilica Notre-Dame de Fourvière domină orașul", "Muzeul Confluențelor are o arhitectură futuristă", "Orașul are o suprafață de 47,87 kilometri pătrați", "Există peste 400 de traboule (pasaje acoperite)", "Interpole are sediul central în acest oraș"],
       en: ["Founded by the Romans in 43 BC as Lugdunum", "The Vieux Lyon district is a 427-hectare UNESCO site", "Birthplace of cinema (Lumière brothers, 1895)", "The city hosts the Festival of Lights every December", "The Basilica of Fourvière sits 130m above the Saône", "Lyon is the second largest metropolitan area in France"],
-    },
-  },
+    }, image: "/poi-images/france-lyon-cities-v2.webp"},
   {
     id: "france-marseille-cities-v2",
     type: "city",
@@ -320,8 +312,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["I. e. 600 körül alapították Massalia néven", "Franciaország legnagyobb kereskedelmi kikötője", "A Régi Kikötőt 2013-ban újították fel", "A Saint-Victor apátság az 5. századból való"],
       ro: ["Fondat în jurul anului 600 î.Hr. ca Massalia", "Cel mai mare port comercial al Franței", "Portul Vechi a fost modernizat în 2013", "Abația Saint-Victor datează din secolul V"],
       en: ["Founded around 600 BC as Massalia", "Largest commercial port in France", "Vieux Port was modernized in 2013", "Saint-Victor Abbey dates to the 5th century"],
-    },
-  },
+    }, image: "/poi-images/france-marseille-cities-v2.webp"},
   {
     id: "france-paris-cities-v2",
     type: "capital",
@@ -352,8 +343,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A város 20 kerületre (arrondissement) oszlik", "A Notre-Dame katedrális építése 1163-ban kezdődött", "A metróhálózat hossza meghaladja a 220 kilométert", "Itt található a világ legnagyobb művészeti múzeuma", "A Diadalív magassága 50 méter, szélessége 45 méter", "A Szajna folyón 37 híd ível át a városon belül"],
       ro: ["Populația regiunii Île-de-France este de 12 milioane", "Turnul Eiffel are o înălțime totală de 330 metri", "Primul metrou a fost inaugurat în anul 1900", "Orașul a găzduit Jocurile Olimpice în 1900, 1924 și 2024", "Centrul Pompidou deține cea mai mare colecție de artă modernă", "Grădinile Tuileries au fost create inițial în 1564"],
       en: ["The city is divided into 20 administrative districts", "The Eiffel Tower was built for the 1889 World's Fair", "The Louvre houses over 35,000 works of art", "The Seine river flows for 13 kilometers through the city", "Paris was founded by the Parisii tribe in the 3rd century BC", "The metro system consists of 16 lines and 308 stations"],
-    },
-  },
+    }, image: "/poi-images/france-paris-cities-v2.webp"},
   {
     id: "france-lille-cities-v2",
     type: "city",
@@ -384,8 +374,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A Braderie de Lille Európa legnagyobb bolhapiaca", "A szépművészeti múzeuma a második legnagyobb", "A Vauban-citadella 1667-ben épült", "Hauts-de-France régió fővárosa"],
       ro: ["Braderie de Lille este cel mai mare târg de vechituri", "Palais des Beaux-Arts este al doilea muzeu al țării", "Citadela Vauban a fost construită în 1667", "Capitala regiunii Hauts-de-France"],
       en: ["Braderie de Lille is Europe's largest flea market", "Palais des Beaux-Arts is the 2nd largest museum", "Vauban's Citadel was built in 1667", "Capital of the Hauts-de-France region"],
-    },
-  },
+    }, image: "/poi-images/france-lille-cities-v2.webp"},
   {
     id: "france-dijon-bis-cities-v2",
     type: "city",
@@ -416,8 +405,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A hercegi palota a 14. századból származik", "Az óváros az UNESCO Világörökség része", "1856 óta híres a mustárgyártásáról", "Szerencsehozó bagolyfigura a Notre-Dame templomon"],
       ro: ["Palatul Ducilor datează din secolul XIV", "Centrul istoric este în patrimoniul UNESCO", "Faimos pentru producția de muștar din 1856", "Figurina bufniței de pe biserica Notre-Dame"],
       en: ["Ducal Palace dates from the 14th century", "Historic center is a UNESCO World Heritage site", "Famous for mustard production since 1856", "Lucky owl carving on Notre-Dame Church"],
-    },
-  },
+    }, image: "/poi-images/france-dijon-bis-cities-v2.webp"},
   {
     id: "france-besancon-bis-cities-v2",
     type: "city",
@@ -448,8 +436,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A citadella az UNESCO Világörökség része", "Victor Hugo szülőhelye (1802)", "A francia óragyártás központja", "Az erődrendszer 12 km²-t fed le"],
       ro: ["Citadela este în patrimoniul UNESCO", "Locul de naștere al lui Victor Hugo (1802)", "Centrul industriei orologiere franceze", "Fortificațiile acoperă o suprafață de 12 km²"],
       en: ["The Citadel is a UNESCO World Heritage site", "Birthplace of Victor Hugo in 1802", "Capital of French watchmaking industry", "Fortifications cover a total of 12 km²"],
-    },
-  },
+    }, image: "/poi-images/france-besancon-bis-cities-v2.webp"},
   {
     id: "france-rouen-bis-cities-v2",
     type: "city",
@@ -480,8 +467,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Franciaország legmagasabb templomtornya (151 m)", "Jeanne d'Arcot itt végezték ki 1431-ben", "A Gros-Horloge egy 14. századi csillagászati óra", "Több mint 2000 fagerendás ház a központban"],
       ro: ["Cea mai înaltă turlă din Franța (151 m)", "Ioana d'Arc a fost executată aici în 1431", "Gros-Horloge este un ceas astronomic vechi", "Peste 2000 de case medievale cu bârne"],
       en: ["France's tallest church spire at 151m", "Joan of Arc was executed here in 1431", "Gros-Horloge is a 14th-century astronomical clock", "Over 2,000 half-timbered houses in the center"],
-    },
-  },
+    }, image: "/poi-images/france-rouen-bis-cities-v2.webp"},
   {
     id: "france-metz-bis-cities-v2",
     type: "city",
@@ -512,8 +498,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A katedrális 6500 m² üvegfelülettel bír", "Több mint 3000 évvel ezelőtt alapították", "A vasútállomás 1908-ban épült", "1552-ig a Német-római Birodalom része volt"],
       ro: ["Catedrala are 6.500 m² de vitralii", "Fondat cu peste 3.000 de ani în urmă", "Gara Metz-Ville a fost construită în 1908", "Parte a Sfântului Imperiu Roman până în 1552"],
       en: ["Cathedral has 6,500 m² of stained glass", "Founded over 3,000 years ago", "Metz-Ville station was built in 1908", "Part of Holy Roman Empire until 1552"],
-    },
-  },
+    }, image: "/poi-images/france-metz-bis-cities-v2.webp"},
   {
     id: "france-reims-bis-cities-v2",
     type: "city",
@@ -544,8 +529,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A központban álló katedrális tornyai 81 méter magasak", "A Place Royale téren XV. Lajos bronzszobra látható", "A Tau-palota 1991 óta része a Világörökségnek", "Itt található Franciaország egyik legrégebbi könyvtára", "Az Art Deco stílus az 1920-as évek újjáépítésének eredménye", "A központi pályaudvar mindössze 5 perc sétára van"],
       ro: ["Place d'Erlon este principala arteră pietonală", "Catedrala a fost grav avariată în septembrie 1914", "Opera din Reims a fost reconstruită în stil neoclasic", "Muzeul de Arte Frumoase deține portrete de Cranach", "În centru se află numeroase crame subterane istorice", "Altitudinea în centrul civic este de 83 metri"],
       en: ["The Gothic Cathedral of Reims is 150 meters long", "Place Royale was designed in 1757 by Jean-Gabriel Legendre", "The Palace of Tau houses the cathedral's treasury", "Reconstructed in Art Deco style after WWI destruction", "Home to the Grand Théâtre, built in the late 19th century", "The district is a hub for retail and administrative services"],
-    },
-  },
+    }, image: "/poi-images/france-reims-bis-cities-v2.webp"},
   {
     id: "france-amiens-bis-cities-v2",
     type: "city",
@@ -608,8 +592,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A caeni vár Európa egyik legnagyobb erődítménye", "Hódító Vilmost 1087-ben temették el a Szent István apátságban", "A város híres a 'caeni kő'-ről, amiből a Tower is épült", "A városháza az egykori bencés apátság épületében van", "A 14. századi Szent Péter templom tornya 76 méter magas", "A központi kikötő közvetlen csatornán át éri el a tengert"],
       ro: ["Castelul are o suprafață împrejmuită de peste 5 hectare", "Universitatea din Caen a fost fondată de regele Henric al VI-lea", "Biserica Saint-Pierre îmbină stilul gotic cu cel renascentist", "Portul de agrement are o capacitate de 92 de locuri", "Orașul a fost eliberat de aliați în iulie 1944", "Există peste 500 de hectare de spații verzi în oraș"],
       en: ["The ducal castle is one of the largest in Europe", "William the Conqueror was buried here in 1087", "The city was 75% destroyed during the Battle of Normandy", "Home to the University of Caen, established in 1432", "Built largely from 'Caen stone', a creamy limestone", "The marina connects to the English Channel via a canal"],
-    },
-  },
+    }, image: "/poi-images/france-caen-bis-cities-v2.webp"},
   {
     id: "france-angers-bis-cities-v2",
     type: "city",
@@ -640,8 +623,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A vár 17 hatalmas bástyával rendelkezik", "Az Apokalipszis-falikárpit 103 m hosszú", "A történelmi Anjou tartomány fővárosa", "A Szent Móric katedrális a 12. századból való"],
       ro: ["Castelul are 17 turnuri masive", "Tapiseria Apocalipsei are 103 m lungime", "Capitala provinciei istorice Anjou", "Catedrala Sf. Mauriciu datează din secolul XII"],
       en: ["Castle features 17 massive towers", "Apocalypse Tapestry is 103m long", "Capital of the historic Anjou province", "Saint-Maurice Cathedral dates to the 12th century"],
-    },
-  },
+    }, image: "/poi-images/france-angers-bis-cities-v2.webp"},
   {
     id: "france-nancy-bis-cities-v2",
     type: "city",
@@ -672,8 +654,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A Place Stanislas-t 1755-ben avatták fel", "A francia szecesszió egyik központja", "A lotharingiai hercegek egykori székhelye", "Jean Lamour aranyozott kovácsoltvas kapui"],
       ro: ["Place Stanislas inaugurată în 1755", "Centru al stilului Art Nouveau francez", "Fosta reședință a ducilor de Lorena", "Porți din fier forjat aurit de Jean Lamour"],
       en: ["Place Stanislas inaugurated in 1755", "A major center of French Art Nouveau", "Former capital of the Dukes of Lorraine", "Gilded ironwork gates by Jean Lamour"],
-    },
-  },
+    }, image: "/poi-images/france-nancy-bis-cities-v2.webp"},
   {
     id: "france-toulouse-bis-cities-v2",
     type: "city",
@@ -704,8 +685,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A bazilika Szent Saturninus mártír sírja fölé épült", "A Városháza (Capitole) homlokzata 128 méter hosszú", "A Garonne folyó menti rakpartok kedvelt sétányok", "Itt található az ország második legnagyobb egyeteme", "A városban több mint 50 reneszánsz palota maradt fenn", "A Pont-Neuf híd építése 88 évig tartott (1544-1632)"],
       ro: ["Bazilica Saint-Sernin a fost sfințită în anul 1096", "Piața Capitoliului are o suprafață de 12.000 mp", "Toulouse este a patra cea mai mare comună din Franța", "Mănăstirea Jacobins găzduiește moaștele Sf. Toma d'Aquino", "Canal du Midi leagă orașul de Marea Mediterană", "Altitudinea în centrul orașului este de 146 metri"],
       en: ["Home to St. Sernin Basilica, a major pilgrimage site", "The Capitole de Toulouse dates back to 1190", "Toulouse University was founded in 1229", "The city was the global capital of woad (dye) in 1500", "Pont-Neuf is the oldest bridge in the city (1632)", "Major cultural hub for the Occitanie region"],
-    },
-  },
+    }, image: "/poi-images/france-toulouse-bis-cities-v2.webp"},
   {
     id: "france-bordeaux-bis-cities-v2",
     type: "city",
@@ -736,8 +716,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A világ legnagyobb városi Világöröksége", "Itt található a világ legnagyobb víztükre", "A Cité du Vin bormúzeum 2016-ban nyílt", "A Pont de Pierre hidat Napóleon rendelte meg"],
       ro: ["Cel mai mare sit urban UNESCO din lume", "Miroir d'eau este cea mai mare oglindă de apă", "Cité du Vin a fost deschis în 2016", "Pont de Pierre comandat de Napoleon"],
       en: ["Largest urban UNESCO World Heritage site", "Miroir d'eau is the world's largest reflecting pool", "Cité du Vin opened its doors in 2016", "Pont de Pierre was commissioned by Napoleon"],
-    },
-  },
+    }, image: "/poi-images/france-bordeaux-bis-cities-v2.webp"},
   {
     id: "france-nice-bis-cities-v2",
     type: "city",
@@ -768,8 +747,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Cimiez dombja a római időkben külön város volt", "A Matisse múzeum 1963-ban nyílt meg a nagyközönség előtt", "Itt található az orosz ortodox Szent Miklós székesegyház", "A terület tengerszint feletti magassága eléri a 150 métert", "Híres a téli jazz fesztiválokról az olajfaligetben", "A kolostorkertből rálátni az egész Angyal-öbölre"],
       ro: ["Muzeul Marc Chagall se află la baza dealului Cimiez", "Ruinele romane includ amfiteatrul și băile termale", "Mănăstirea franciscană are grădini din secolul al XVI-lea", "Zona a fost destinația favorită a reginei Victoria", "Altitudinea maximă în acest sector este de 300 metri", "Bulevardul Cimiez este mărginit de palate Belle Époque"],
       en: ["Home to the Roman ruins of Cemenelum (1st century)", "The Matisse Museum houses works by the famous artist", "Features the Regina, a massive palace built for Queen Victoria", "The Franciscan Monastery garden is the oldest on the coast", "The area hosts the annual Nice Jazz Festival", "Higher elevation offers scenic views of the Mediterranean"],
-    },
-  },
+    }, image: "/poi-images/france-nice-bis-cities-v2.webp"},
   {
     id: "france-lyon-bis-cities-v2",
     type: "city",
@@ -800,8 +778,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["I. e. 43-ban alapították Lugdunum néven", "Traboule-ok: rejtett átjárók a házak között", "A Fourvière bazilika uralja a városképet", "Fényfesztivál (Fête des Lumières) minden decemberben"],
       ro: ["Fondat în 43 î.Hr. sub numele Lugdunum", "Traboules sunt pasaje pietonale ascunse", "Bazilica Fourvière domină întregul oraș", "Sărbătoarea Luminii (Fête des Lumières) în decembrie"],
       en: ["Founded in 43 BC as Lugdunum", "Traboules are unique hidden passageways", "Fourvière Basilica overlooks the city", "Festival of Lights (Fête des Lumières) in Dec."],
-    },
-  },
+    }, image: "/poi-images/france-lyon-bis-cities-v2.webp"},
   {
     id: "france-marseille-bis-cities-v2",
     type: "city",
@@ -832,8 +809,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["L'Estaque faluja a modern festészet bölcsője volt", "Itt található Franciaország legnagyobb kereskedelmi kikötője", "A környék dombjai mészkőből épülnek fel", "A 19. században híres volt a cserép- és téglagyárairól", "A terület közvetlen vasúti kapcsolattal rendelkezik Párizs felé", "A tengerszint feletti magasság itt 0 és 150 méter közötti"],
       ro: ["Portul comercial gestionează milioane de tone de marfă", "L'Estaque a inspirat peste 20 de tablouri de Cézanne", "Cartierul are o puternică tradiție a navigației", "Altitudinea în zona colinară ajunge la 220 metri", "Aici se află Gara Marseille-Saint-Charles (acces rapid)", "Zona este în curs de regenerare prin proiectul Euromed"],
       en: ["L'Estaque is known as the birthplace of modern art", "Home to one of the largest commercial ports in Europe", "Paul Cézanne painted here between 1870 and 1885", "The district was historically dominated by tile factories", "Features the impressive coastal viaducts for trains", "Highest point in the northern sector is about 250m"],
-    },
-  },
+    }, image: "/poi-images/france-marseille-bis-cities-v2.webp"},
   {
     id: "france-paris-bis-cities-v2",
     type: "city",
@@ -864,8 +840,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A Sacré-Cœur 1914-ben készült el", "A Gare du Nord Európa legforgalmasabb állomása", "A Canal Saint-Martin 4,5 km hosszú", "A Montmartre egykor önálló falu volt"],
       ro: ["Sacré-Cœur finalizată în anul 1914", "Gare du Nord este cea mai tranzitată gară", "Canalul Saint-Martin are 4,5 km lungime", "Montmartre a fost odată un sat independent"],
       en: ["Sacré-Cœur completed in 1914", "Gare du Nord is Europe's busiest station", "Canal Saint-Martin is 4.5 km long", "Montmartre was once an independent village"],
-    },
-  },
+    }, image: "/poi-images/france-paris-bis-cities-v2.webp"},
   {
     id: "france-lille-bis-cities-v2",
     type: "city",
@@ -896,8 +871,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A Vauban-erődöt 1667 és 1670 között építették", "A környék híres a vörös téglából emelt munkásnegyedeiről", "A flamand hatás az oromzatos házakon érhető tetten", "Itt található a város legnagyobb parkja, a Bois de Boulogne", "A terület tengerszint feletti magassága átlagosan 20 méter", "A Deûle-csatorna fontos víziút a teherforgalom számára"],
       ro: ["Citadela este supranumită 'Regina Citadelelor'", "Lille a fost capitala culturii europene în anul 2004", "Populația zonei metropolitane este de 1,1 milioane", "Orașul a făcut parte din Comitatul Flandrei până în 1667", "Aici se află stația internațională Lille-Europe", "Clădirile au fațade ornamentate specifice stilului baroc"],
       en: ["The Citadel was built by Vauban between 1667–1670", "Strategically located near the border with Belgium", "Lille-Nord is home to the city's main university campus", "The Deûle river was canalized for industrial transport", "Architecture features distinct Flemish step-gables", "The district is a hub for the French textile industry history"],
-    },
-  },
+    }, image: "/poi-images/france-lille-bis-cities-v2.webp"},
   {
     id: "france-grenoble-bis-cities-v2",
     type: "city",
@@ -928,8 +902,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Az 1968-as téli olimpia helyszíne", "A világ első városi drótkötélpályája (1934)", "Számos kutatóintézet székhelye", "A Bastille-erődről panorámás kilátás nyílik"],
       ro: ["Gazda Jocurilor Olimpice de iarnă din 1968", "Prima telecabină urbană din lume (1934)", "Sediul a numeroase institute de cercetare", "Fortăreața Bastille oferă vedere panoramică"],
       en: ["Host of the 1968 Winter Olympics", "World's first urban cable car built in 1934", "Home to numerous major research institutes", "Bastille fortress offers panoramic views"],
-    },
-  },
+    }, image: "/poi-images/france-grenoble-bis-cities-v2.webp"},
   {
     id: "france-nantes-bis-cities-v2",
     type: "city",
@@ -960,8 +933,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Bretagne egykori fővárosa", "A breton hercegek vára a 15. századból való", "Itt írták alá a nantes-i ediktumot 1598-ban", "A mechanikus elefánt 12 méter magas"],
       ro: ["Fosta capitală a Bretaniei", "Castelul Ducilor datează din secolul XV", "Edictul de la Nantes semnat aici în 1598", "Elefantul mecanic are 12 metri înălțime"],
       en: ["Former capital of the Duchy of Brittany", "Dukes' Castle dates to the 15th century", "Edict of Nantes signed here in 1598", "The mechanical elephant stands 12m tall"],
-    },
-  },
+    }, image: "/poi-images/france-nantes-bis-cities-v2.webp"},
   {
     id: "france-perpignan-bis-cities-v2",
     type: "city",
@@ -992,8 +964,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A Mallorcai Királyság fővárosa (1276-1344)", "A Castillet kaputorony a város jelképe", "Franciaország egyik legnaposabb városa", "A spanyol határ mindössze 30 km-re van"],
       ro: ["Capitala Regatului de Mallorca (1276-1344)", "Le Castillet este simbolul orașului", "Unul dintre cele mai însorite orașe din Franța", "Oraș de frontieră cu Spania (cca. 30 km)"],
       en: ["Capital of Kingdom of Majorca (1276-1344)", "Le Castillet is the city's iconic symbol", "One of the sunniest cities in France", "Located just 30 km from the Spanish border"],
-    },
-  },
+    }, image: "/poi-images/france-perpignan-bis-cities-v2.webp"},
   {
     id: "france-valence-bis-cities-v2",
     type: "city",
@@ -1024,8 +995,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A város pontosan a 45. szélességi körön fekszik", "A Saint-Apollinaire katedrálist 1095-ben szentelték fel", "A Park Jouvet több mint 700 fafajtának ad otthont", "Itt található Franciaország legnagyobb folyami jachtkikötője", "A város tengerszint feletti magassága 106-191 méter", "Híres a 'Suisse de Valence' nevű narancsos süteményről"],
       ro: ["Catedrala a fost reconstruită parțial în secolul al XVII-lea", "Orașul a fost o colonie romană sub numele Valentia", "Kioscul Peynet este un monument istoric iconic", "Fluviul Rhône trece prin vestul sectorului de nord", "Aici se află un important pol universitar regional", "Climatul este de tranziție între cel oceanic și mediteranean"],
       en: ["The Cathedral of Saint-Apollinaire was built in 1095", "Valence is located exactly on the 45th parallel north", "Home to the Parc Jouvet, a 7-hectare botanical garden", "The city's river port is among the busiest on the Rhône", "Famous for its three-Michelin-starred restaurant, Maison Pic", "The Roman name for the city was Valentia Julia"],
-    },
-  },
+    }, image: "/poi-images/france-valence-bis-cities-v2.webp"},
   {
     id: "france-chambery-bis-cities-v2",
     type: "city",
@@ -1056,8 +1026,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A savoyai hercegek vára (13. század)", "Híres Elefántos-kút (Fontaine des Éléphants)", "Auvergne-Rhône-Alpes régió fontos városa", "A torinói leplet egykor itt őrizték"],
       ro: ["Castelul ducilor de Savoia (sec. XIII)", "Fântâna Elefanților este simbolul orașului", "Sediul regiunii Auvergne-Rhône-Alpes", "Fost loc de păstrare al Giulgiului din Torino"],
       en: ["Castle of the Dukes of Savoy (13th century)", "Famous Elephant Fountain monument", "Part of the Auvergne-Rhône-Alpes region", "Original home of the Shroud of Turin"],
-    },
-  },
+    }, image: "/poi-images/france-chambery-bis-cities-v2.webp"},
   {
     id: "france-mulhouse-bis-cities-v2",
     type: "city",
@@ -1120,8 +1089,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A fellegvár falai 118 méterrel magasodnak a folyó fölé", "1802-ben itt született a híres író, Victor Hugo", "Az óramúzeum (Musée du Temps) a Granvelle-palotában van", "A Doubs folyó egy 4 kilométer hosszú kanyarulatot ír le", "A római kori fekete kapu (Porte Noire) a 2. századból való", "A város 1998 óta a Művészet és Történelem Városa"],
       ro: ["Citadela Vauban se întinde pe o suprafață de 12 hectare", "Victor Hugo s-a născut în casa de pe Grande Rue în 1802", "Centrul istoric este construit din piatră de Chailluz", "Aici se află singurul ceas astronomic din regiune", "Altitudinea la baza dealului este de 240 metri", "Fortificațiile au fost finalizate de francezi în 1683"],
       en: ["The Citadel was designed by Vauban in the 17th century", "Birthplace of Victor Hugo and the Lumière brothers", "The Doubs river creates a 4-kilometer-long peninsula", "Home to the Museum of Time, located in a Renaissance palace", "UNESCO World Heritage site for its military architecture", "The Roman 'Porte Noire' dates back to 175 AD"],
-    },
-  },
+    }, image: "/poi-images/france-besancon-south-cities-v2.webp"},
   {
     id: "france-poitiers-bis-cities-v2",
     type: "city",
@@ -1152,8 +1120,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A poitiers-i csata helyszíne (732)", "Szent Péter katedrális (12. század)", "Franciaország legrégebbi keresztény építménye", "A Futuroscope élménypark a közelben van"],
       ro: ["Bătălia de la Poitiers (anul 732)", "Catedrala Sfântul Petru (sec. XII)", "Cel mai vechi edificiu creștin din Franța", "Parcul tematic Futuroscope se află în apropiere"],
       en: ["Site of the Battle of Poitiers (732 AD)", "Saint-Pierre Cathedral (12th century)", "Oldest Christian building in France", "Futuroscope theme park is located nearby"],
-    },
-  },
+    }, image: "/poi-images/france-poitiers-bis-cities-v2.webp"},
   {
     id: "france-nimes-bis-cities-v2",
     type: "city",
@@ -1184,8 +1151,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Az Amfiteátrum az 1. században épült", "A Maison Carrée UNESCO Világörökség", "A denim (farmer) anyag származási helye", "A Pont du Gard vízvezeték 20 km-re van"],
       ro: ["Amfiteatrul a fost construit în secolul I", "Maison Carrée este sit UNESCO", "Locul de origine al țesăturii denim (de Nîmes)", "Pont du Gard se află la cca. 20 km distanță"],
       en: ["Arena was built in the 1st century AD", "Maison Carrée is a UNESCO World Heritage site", "Origin of denim fabric (de Nîmes)", "Pont du Gard is located about 20 km away"],
-    },
-  },
+    }, image: "/poi-images/france-nimes-bis-cities-v2.webp"},
   {
     id: "france-brest-bis-cities-v2",
     type: "city",
@@ -1216,8 +1182,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Franciaország második legnagyobb hadikikötője", "Az Océanopolis egy óriási akvárium-park", "A bresti vár ad otthont a tengerészeti múzeumnak", "1944 után modern stílusban építették újjá"],
       ro: ["Al doilea port militar al Franței", "Océanopolis este un parc acvatic uriaș", "Castelul din Brest găzduiește Muzeul Marinei", "Reconstruit în stil modern după anul 1944"],
       en: ["France's second largest naval base", "Océanopolis is a major marine science center", "Brest Castle houses the Naval Museum", "Rebuilt in modern style after 1944 destruction"],
-    },
-  },
+    }, image: "/poi-images/france-brest-bis-cities-v2.webp"},
   {
     id: "france-avignon-bis-cities-v2",
     type: "city",
@@ -1248,8 +1213,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A Pápai Palota alapterülete 15 000 négyzetméter", "A híres hídnak (Pont d'Avignon) már csak 4 íve maradt meg", "A városfalakat 39 torony és 7 kapu tagolja", "Avignon 1309 és 1377 között volt a pápák székhelye", "A Rhône folyó vízszintje itt 18 méterrel van a tenger felett", "A színházi fesztivál minden év júliusában zajlik"],
       ro: ["Palatul Papal a fost construit în mai puțin de 20 de ani", "Podul Saint-Bénézet avea inițial 22 de arcuri", "Populația orașului fortificat este de cca 15.000 locuitori", "Zidurile de apărare datează din secolul al XIV-lea", "Rocher des Doms oferă cea mai bună vedere asupra Rhône-ului", "Muzeul Petit Palais deține o colecție de pictură italiană"],
       en: ["The Palace of the Popes is 15,000 square meters in size", "The Pont d'Avignon was largely destroyed by floods in 1668", "Avignon was the seat of the Catholic Church for 68 years", "The medieval walls are reinforced by 39 defensive towers", "The Festival d'Avignon attracts 700,000 visitors annually", "A designated UNESCO World Heritage site since 1995"],
-    },
-  },
+    }, image: "/poi-images/france-avignon-bis-cities-v2.webp"},
   {
     id: "france-clermont-bis-cities-v2",
     type: "city",
@@ -1280,8 +1244,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A katedrális Volvic-lábakőből épült", "A Michelin gumiabroncsgyár székhelye", "A Puy de Dôme a legmagasabb vulkán (1465 m)", "Két város egyesülésével jött létre 1630-ban"],
       ro: ["Catedrala construită din piatră de Volvic", "Sediul central al producătorului Michelin", "Puy de Dôme este cel mai înalt vulcan (1465 m)", "Format prin fuziunea a două orașe în 1630"],
       en: ["Cathedral built from black Volvic stone", "Global headquarters of Michelin", "Puy de Dôme is 1,465m high", "Created by the merger of two cities in 1630"],
-    },
-  },
+    }, image: "/poi-images/france-clermont-bis-cities-v2.webp"},
   {
     id: "france-tours-bis-cities-v2",
     type: "city",
@@ -1376,8 +1339,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Cité de l'Espace (űrkutatási élménypark)", "A CNES űrügynökség székhelye", "A Canal du Midi UNESCO Világörökség", "A nanotechnológiai kutatások központja"],
       ro: ["Cité de l'Espace (parc tematic spațial)", "Sediul agenției spațiale CNES", "Canal du Midi este sit UNESCO", "Centru major pentru nanotehnologie"],
       en: ["Cité de l'Espace (Space City theme park)", "Home to the CNES space agency", "Canal du Midi is a UNESCO World Heritage site", "A leading hub for nanotechnology"],
-    },
-  },
+    }, image: "/poi-images/france-toulouse-south-cities-v2.webp"},
   {
     id: "france-nice-south-cities-v2",
     type: "city",
@@ -1408,8 +1370,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A Promenade des Anglais sétányt 1820-ban kezdték építeni", "Az óvárosban található a barokk Szent Reparata katedrális", "A Várdombról látható mesterséges vízesés 1885-ben készült", "Nizza 1860-ban vált véglegesen Franciaország részévé", "A tengerparti öböl neve 'Baie des Anges' (Angyalok öble)", "Híres helyi étele a socca (csicseriborsó lepény)"],
       ro: ["Promenada are o lățime medie de 30 de metri", "Piața Masséna este principalul nod urban al orașului", "Hotelul Negresco este monument istoric din 2003", "Vieux Nice datează în principal din secolele XVII-XVIII", "Portul Lympia găzduiește iahturi de lux și feriboturi", "Altitudinea la malul mării este de 0-10 metri"],
       en: ["The Promenade des Anglais was built by the English in 1822", "The historic Negresco Hotel features a pink dome", "Cours Saleya hosts a daily flower and produce market", "Nice only became part of France in 1860", "The Bay of Angels is famous for its pebble beaches", "Castle Hill rises 92 meters above the Mediterranean"],
-    },
-  },
+    }, image: "/poi-images/france-nice-south-cities-v2.webp"},
   {
     id: "france-lyon-south-cities-v2",
     type: "city",
@@ -1472,8 +1433,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Calanques Nemzeti Park (2012 óta)", "A Stade Vélodrome stadion helyszíne", "Le Corbusier híres Cité Radieuse lakóháza", "A város legnaposabb lakóövezete"],
       ro: ["Parcul Național Calanques (din 2012)", "Stadionul Vélodrome (Olympique de Marseille)", "Cité Radieuse proiectată de Le Corbusier", "Cele mai însorite cartiere ale orașului"],
       en: ["Calanques National Park created in 2012", "Home to the Stade Vélodrome stadium", "Le Corbusier's famous Cité Radieuse", "Sunniest residential districts in the city"],
-    },
-  },
+    }, image: "/poi-images/france-marseille-south-cities-v2.webp"},
   {
     id: "france-paris-south-cities-v2",
     type: "city",
@@ -1504,8 +1464,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A Tour Montparnasse 210 méter magas", "Nemzeti Könyvtár (François-Mitterrand)", "Parc Montsouris (1869-ben alakították ki)", "A párizsi katakombák egy része itt található"],
       ro: ["Turnul Montparnasse are 210 m înălțime", "Biblioteca Națională (François-Mitterrand)", "Parcul Montsouris (amenajat în 1869)", "Catacombele Parisului se află parțial aici"],
       en: ["Montparnasse Tower stands 210m tall", "National Library (François-Mitterrand)", "Parc Montsouris (created in 1869)", "Part of the Paris Catacombs located here"],
-    },
-  },
+    }, image: "/poi-images/france-paris-south-cities-v2.webp"},
   {
     id: "france-lille-south-cities-v2",
     type: "city",
@@ -1536,8 +1495,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Orvosi kutatási központ", "Botanikus kert (Jardin des Plantes)", "Számos öko-negyed fejlesztés alatt", "Egykori textilipari központ"],
       ro: ["Centru major de cercetare medicală", "Grădina Botanică (Jardin des Plantes)", "Numeroase eco-cartiere în dezvoltare", "Fost centru al industriei textile"],
       en: ["Major medical research hub", "Botanical Garden (Jardin des Plantes)", "Several eco-neighborhoods under development", "Formerly a center of the textile industry"],
-    },
-  },
+    }, image: "/poi-images/france-lille-south-cities-v2.webp"},
   {
     id: "france-grenoble-north-cities-v2",
     type: "city",
@@ -1568,8 +1526,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Az ESRF szinkrotron kerülete 844 méter.", "A város az 1968-as téli olimpia házigazdája volt.", "A régióban több mint 25 000 kutató dolgozik.", "Grenoble tengerszint feletti magassága 214 méter."],
       ro: ["Sincrotronul ESRF are o circumferință de 844 m.", "Orașul a găzduit Jocurile Olimpice de iarnă din 1968.", "Peste 25.000 de cercetători lucrează în regiune.", "Grenoble se află la o altitudine de 214 metri."],
       en: ["The ESRF synchrotron has a circumference of 844m.", "The city hosted the 1968 Winter Olympics.", "Over 25,000 researchers work in the metro area.", "Grenoble's average elevation is 214 meters."],
-    },
-  },
+    }, image: "/poi-images/france-grenoble-north-cities-v2.webp"},
   {
     id: "france-nantes-south-cities-v2",
     type: "city",
@@ -1600,8 +1557,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Trentemoult színes házai a 19. századi hagyományt őrzik", "A területet rendszeres hajójárat köti össze a központtal", "Itt található a város egyik legnagyobb kórházkomplexuma", "A negyed híres a dús növényzetéről és szűk utcáiról", "A Loire folyó árapály-jelensége itt is érezhető", "Kedvelt helyszín filmforgatásokhoz az egyedi látvány miatt"],
       ro: ["Trentemoult a inspirat decorul filmului 'La Reine Blanche'", "Navibus traversează râul în mai puțin de 10 minute", "Zona are o densitate mare de restaurante pescărești", "Sectoarele Rezé și Vertou se învecinează cu acest district", "Altitudinea medie în sectorul de sud este de 12 metri", "Spațiile verzi ocupă peste 20% din suprafața zonei"],
       en: ["Trentemoult is a former fishing village on the Loire", "Accessible from the city center via the Navibus water taxi", "Famous for its brightly painted residential facades", "Home to major medical facilities and university campuses", "The district hosts many open-air art installations", "Historically, the area was prone to Loire floods"],
-    },
-  },
+    }, image: "/poi-images/france-nantes-south-cities-v2.webp"},
   {
     id: "france-perpignan-south-cities-v2",
     type: "city",
@@ -1696,8 +1652,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Az Elefántos-kutat 1838-ban emelték a városban.", "A Savoyai-hercegek kastélya a 13. századból ered.", "A város lakossága körülbelül 59 000 fő.", "Chambéry 270 méteres tengerszint feletti magasságban van."],
       ro: ["Fântâna Elefanților a fost construită în 1838.", "Castelul Ducilor de Savoia datează din secolul XIII.", "Orașul are o populație de circa 59.000 locuitori.", "Chambéry este situat la o altitudine de 270 metri."],
       en: ["The Elephant Fountain was erected in 1838.", "The Castle of the Dukes of Savoy dates to the 13th C.", "The city population is approximately 59,000.", "Chambéry is located at an elevation of 270 meters."],
-    },
-  },
+    }, image: "/poi-images/france-chambery-south-cities-v2.webp"},
   {
     id: "france-mulhouse-south-cities-v2",
     type: "city",
@@ -1760,8 +1715,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Itt található a Temis technológiai és mikrotechnikai központ", "A negyed ad otthont a Franche-Comté Egyetem kampuszának", "A környék erdős dombjai népszerű túraútvonalakat kínálnak", "A területen számos óragyártáshoz kötődő kutatóhely működik", "A tengerszint feletti magasság itt eléri a 380 métert", "Közvetlen vasúti kapcsolat van a TGV Franche-Comté állomással"],
       ro: ["Polul tehnologic Temis este specializat în micro-nanotehnologii", "Campusul universitar La Bouloie este situat în acest sector", "Zona are acces rapid la pădurea Chailluz (1.600 hectare)", "Altitudinea medie este de 310 metri", "Există numeroase centre de cercetare biomedicală", "Cartierul este deservit de rețeaua de tramvai a orașului"],
       en: ["Home to the Temis microtechnology science park", "The University of Franche-Comté main campus is located here", "Global center for micro-mechanical engineering research", "Proximity to the Chailluz Forest offers 1,600 ha of green space", "The district is linked by the A36 'La Comtoise' highway", "Features a mix of modern residential and industrial architecture"],
-    },
-  },
+    }, image: "/poi-images/france-besancon-west-cities-v2.webp"},
   {
     id: "france-poitiers-south-cities-v2",
     type: "city",
@@ -1792,8 +1746,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A Poitiers-i Egyetemet 1431-ben alapították.", "A Notre-Dame-la-Grande templom a 11. századból való.", "A híres poitiers-i csata 732-ben zajlott le.", "A város lakossága körülbelül 90 000 fő."],
       ro: ["Universitatea din Poitiers a fost fondată în 1431.", "Notre-Dame-la-Grande datează din secolul al XI-lea.", "Bătălia de la Poitiers a avut loc în anul 732.", "Orașul are o populație de circa 90.000 de locuitori."],
       en: ["The University of Poitiers was founded in 1431.", "Notre-Dame-la-Grande dates back to the 11th century.", "The Battle of Poitiers took place in 732 AD.", "The city has approximately 90,000 residents."],
-    },
-  },
+    }, image: "/poi-images/france-poitiers-south-cities-v2.webp"},
   {
     id: "france-nimes-north-cities-v2",
     type: "city",
@@ -1824,8 +1777,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Az amfiteátrumot i.sz. 70 körül építették", "A Maison Carrée az egyetlen teljesen ép ókori római templom", "A Jardins de la Fontaine Európa egyik első nyilvános parkja", "A farmernadrág alapanyaga, a 'Denim' innen származik", "A Tour Magne torony magassága ma 32 méter", "A város tengerszint feletti magassága 31-215 méter"],
       ro: ["Amfiteatrul are 133 metri lungime și 101 metri lățime", "Maison Carrée a fost dedicată nepoților lui Augustus", "Jardins de la Fontaine ocupă 15 hectare de teren", "Orașul a fost fondat ca o colonie a veteranilor lui Caesar", "Altitudinea la baza Tour Magne este de 116 metri", "Aici se desfășoară faimoasele coride de tip Nîmes"],
       en: ["The Arena of Nîmes was built around 70 AD", "Maison Carrée is the best-preserved Roman temple in the world", "The Fountain Gardens are among the oldest public parks in Europe", "The word 'Denim' originates from 'serge de Nîmes'", "Magne Tower was originally 36 meters high in Roman times", "The historic center is a UNESCO World Heritage site"],
-    },
-  },
+    }, image: "/poi-images/france-nimes-north-cities-v2.webp"},
   {
     id: "france-brest-north-cities-v2",
     type: "city",
@@ -1856,8 +1808,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Az Oceanopolis akvárium 10 000 tengeri állatnak ad otthont", "A város az Atlanti-óceán egyik legbiztonságosabb természetes kikötője", "Itt található Franciaország egyetlen tengeri múzeuma", "A Recouvrance híd emelhető középső része 88 méter hosszú", "Brest 1944-ben szinte teljesen elpusztult a bombázásokban", "A tengerszint feletti magasság 0 és 103 méter között van"],
       ro: ["Oceanopolis are trei pavilioane: polar, tropical și temperat", "Brest este sediul multor instituții de cercetare marină", "Telecabina urbană traversează râul Penfeld din 2016", "Fortăreața Château de Brest are o istorie de 1.700 de ani", "Orașul are o precipitație anuală medie de 1.200 mm", "Populația metropolitană este de cca 210.000 locuitori"],
       en: ["Oceanopolis features 77 different aquariums", "Home to the French Atlantic naval fleet headquarters", "The Recouvrance lift bridge was built in 1954", "Brest is the 2nd most important military port in France", "First French city to implement an urban cable car system", "The city covers a land area of 49.51 square kilometers"],
-    },
-  },
+    }, image: "/poi-images/france-brest-north-cities-v2.webp"},
   {
     id: "france-avignon-south-cities-v2",
     type: "city",
@@ -1888,8 +1839,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["Itt található az Avignon-TGV szupergyorsvasút állomás", "A Durance folyó itt torkollik a Rhône folyóba", "A környék híres a sárgadinnye és a levendula termesztéséről", "A terület tengerszint feletti magassága 15-25 méter", "Itt halad át az A7-es 'Napfény' autópálya", "A városrész modern építészete éles ellentétben áll az óvárossal"],
       ro: ["Gara TGV Avignon a fost inaugurată în anul 2001", "Zona este un centru major pentru distribuția alimentară", "Vântul Mistral suflă aici cu peste 100 km/h frecvent", "Altitudinea medie în acest sector este de 19 metri", "Aici se află aeroportul regional Avignon-Provence", "Districtul este un punct de plecare spre masivul Luberon"],
       en: ["Home to the Avignon TGV high-speed railway station", "Located near the confluence of the Rhône and Durance rivers", "Major logistics hub for Provençal fruit and vegetable exports", "Direct access to the A7 motorway connecting Lyon to Marseille", "The landscape is dominated by alluvial plains and orchards", "The district hosts large-scale industrial and retail parks"],
-    },
-  },
+    }, image: "/poi-images/france-avignon-south-cities-v2.webp"},
   {
     id: "france-clermont-south-cities-v2",
     type: "city",
@@ -1920,8 +1870,7 @@ export const franceCitiesV2: POI[] = [
       hu: ["A katedrális 1248-tól épült sötét vulkáni kőzetből", "A város mellett 80 kialudt vulkáni kúp található", "A Michelin gyár múzeuma (L'Aventure Michelin) itt található", "Clermont és Ferrand városát 1630-ban egyesítették", "A tengerszint feletti magasság 321 és 602 méter között van", "A Puy de Dôme csúcsára kisvasút visz fel a közelből"],
       ro: ["Catedrala gotică are două turnuri de 108 metri înălțime", "Michelin a fost fondat aici de frații André și Édouard", "Chaîne des Puys este sit UNESCO din anul 2018", "Populația orașului este de aproximativ 147.000 locuitori", "Altitudinea medie în centrul istoric este de 358 metri", "Orașul găzduiește cel mai important festival de scurtmetraj"],
       en: ["The black Gothic cathedral was begun in 1248", "Global headquarters of the Michelin tire company", "Located at the base of the Puy de Dôme volcano (1,465m)", "Formed by the 17th-century union of Clermont and Ferrand", "The surrounding volcanic chain is a UNESCO World Heritage site", "Host to the world's leading International Short Film Festival"],
-    },
-  },
+    }, image: "/poi-images/france-clermont-south-cities-v2.webp"},
   {
     id: "france-tours-south-cities-v2",
     type: "city",

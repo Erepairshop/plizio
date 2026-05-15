@@ -31,8 +31,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Terület: több mint 10 000 m²", "Vállalatok száma: több mint 50", "Alapítás: 2001", "Bérelhető terület: változó", "Foglalkoztatottak: mintegy 1000", "A Basel Area Business & Innovation része"],
       ro: ["Suprafață: peste 10.000 m²", "Număr de companii: peste 50", "Înființare: 2001", "Suprafață de închiriat: variabilă", "Angajați: aproximativ 1.000", "Parte a rețelei Basel Area Business & Innovation"],
       en: ["Area: over 10,000 m²", "Number of companies: more than 50", "Founded: 2001", "Rentable space: variable", "Employees: around 1,000", "Part of Basel Area Business & Innovation"],
-    },
-  },
+    }, image: "/poi-images/switzerland-biotech-park-basel-economic-v2.webp"},
   {
     id: "switzerland-zurich-west-district-economic-v2",
     type: "city",
@@ -63,8 +62,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Terület: kb. 0,5 km²", "Prime Tower magassága: 126 m", "Munkahelyek száma: több mint 10 000", "Az átalakítás kezdete: 2000-es évek eleje", "Éttermek száma: több mint 50", "Népsűrűség: magas"],
       ro: ["Suprafață: aproximativ 0,5 km²", "Înălțimea Prime Tower: 126 m", "Număr de locuri de muncă: peste 10.000", "Începutul transformării: începutul anilor 2000", "Număr de restaurante: peste 50", "Densitate populațională: ridicată"],
       en: ["Area: approx. 0.5 km²", "Prime Tower height: 126 m", "Number of jobs: over 10,000", "Transformation started: early 2000s", "Number of restaurants: over 50", "Population density: high"],
-    },
-  },
+    }, image: "/poi-images/switzerland-zurich-west-district-economic-v2.webp"},
   {
     id: "switzerland-gold-refinery-ticino-economic-v2",
     type: "factory",
@@ -95,8 +93,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Éves feldolgozás: több mint 300 t arany", "Tisztaság: 99,99%", "Alkalmazottak: kb. 500", "Alapítás: 2000", "Helyszín: Mendrisio, Ticino", "Aranyrúd mérete: akár 1 kg"],
       ro: ["Prelucrare anuală: peste 300 t de aur", "Puritate: 99,99%", "Angajați: aproximativ 500", "Înființare: 2000", "Locație: Mendrisio, Ticino", "Producție de lingouri de aur: până la 1 kg"],
       en: ["Annual processing: over 300 t of gold", "Purity: 99.99%", "Employees: about 500", "Founded: 2000", "Location: Mendrisio, Ticino", "Gold bar production: up to 1 kg"],
-    },
-  },
+    }, image: "/poi-images/switzerland-gold-refinery-ticino-economic-v2.webp"},
   {
     id: "switzerland-hydro-plant-grande-dixence-economic-v2",
     type: "industry",
@@ -127,8 +124,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Gát magassága: 285 m", "Beépített kapacitás: 2 000 MW", "Éves termelés: 2 milliárd kWh", "Építési idő: 1951–1965", "Tározó területe: 4,8 km²", "Vízturbinák: 6 Pelton-turbina"],
       ro: ["Înălțimea barajului: 285 m", "Capacitate instalată: 2.000 MW", "Producție anuală: 2 miliarde kWh", "Perioada de construcție: 1951–1965", "Suprafața lacului de acumulare: 4,8 km²", "Turbine hidraulice: 6 turbine Pelton"],
       en: ["Dam height: 285 m", "Installed capacity: 2,000 MW", "Annual production: 2 billion kWh", "Construction period: 1951–1965", "Reservoir area: 4.8 km²", "Water turbines: 6 Pelton turbines"],
-    },
-  },
+    }, image: "/poi-images/switzerland-hydro-plant-grande-dixence-economic-v2.webp"},
   {
     id: "switzerland-watch-valley-le-locle-economic-v2",
     type: "factory",
@@ -159,8 +155,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["UNESCO világörökség 2009 óta", "Óramárkák száma: több mint 10", "Lakosság: kb. 10 000", "Tengerszint feletti magasság: 945 m", "Első óragyártás: 17. század", "Éves óragyártás: több mint 1 millió darab"],
       ro: ["Patrimoniu UNESCO din 2009", "Număr de mărci de ceasuri: peste 10", "Populație: circa 10.000", "Altitudine: 945 m", "Primele manufacturi de ceasuri: secolul al XVII-lea", "Producție anuală de ceasuri: peste 1 milion"],
       en: ["UNESCO World Heritage since 2009", "Number of watch brands: over 10", "Population: approx. 10,000", "Altitude: 945 m", "First watchmaking manufactory: 17th century", "Annual watch production: over 1 million pieces"],
-    },
-  },
+    }, image: "/poi-images/switzerland-watch-valley-le-locle-economic-v2.webp"},
   {
     id: "switzerland-chemical-park-monthey-economic-v2",
     type: "industry",
@@ -191,8 +186,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Terület: több mint 200 ha", "Foglalkoztatottak: kb. 2000", "Alapítás: 1910", "Termékek: poliamidok, epoxigyanták", "Vállalatok száma: több nagyvállalat", "Bevétel: több száz millió CHF"],
       ro: ["Suprafață: peste 200 ha", "Angajați: aproximativ 2.000", "Înființare: 1910", "Producție: poliamide, rășini epoxidice", "Număr de companii: mai multe mari", "Venituri: câteva sute de milioane CHF"],
       en: ["Area: over 200 ha", "Employees: around 2,000", "Founded: 1910", "Production: polyamides, epoxy resins", "Number of companies: several large", "Revenue: several hundred million CHF"],
-    },
-  },
+    }, image: "/poi-images/switzerland-chemical-park-monthey-economic-v2.webp"},
   {
     id: "switzerland-st-gallen-textile-archive-economic-v2",
     type: "industry",
@@ -223,8 +217,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Kiállított tárgyak száma: több mint 30 000", "Múzeum alapítása: 1886", "Archívum gyűjteménye: 7 millió minta", "Textilvállalatok a régióban: több mint 100", "Legrégebbi tárgy: 18. század", "Látogatók évente: kb. 20 000"],
       ro: ["Număr de exponate: peste 30.000", "Înființarea muzeului: 1886", "Colecția arhivei: 7 milioane de modele", "Companii textile în regiune: peste 100", "Cel mai vechi exponat: secolul al XVIII-lea", "Vizitatori pe an: aprox. 20.000"],
       en: ["Number of exhibits: over 30,000", "Museum founded: 1886", "Archive holdings: 7 million patterns", "Textile companies in region: over 100", "Oldest exhibit: 18th century", "Visitors per year: approx. 20,000"],
-    },
-  },
+    }, image: "/poi-images/switzerland-st-gallen-textile-archive-economic-v2.webp"},
   {
     id: "switzerland-tech-cluster-zug-economic-v2",
     type: "industry",
@@ -255,8 +248,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Vállalati sűrűség: 1 vállalat/4 fő.", "Adókulcs: effektív társasági adó kb. 11,9%.", "Induló vállalkozások száma: több mint 500.", "Zug lakossága: kb. 30.000.", "Külföldi munkavállalók aránya: 35%.", "Kanton területe: 239 km²."],
       ro: ["Densitatea companiilor: 1 companie la 4 locuitori.", "Cota de impozit: impozit pe profit efectiv de aproximativ 11,9%.", "Număr de startup-uri în cluster: peste 500.", "Populația orașului Zug: circa 30.000.", "Proporția lucrătorilor străini: 35%.", "Suprafața cantonului: 239 km²."],
       en: ["Company density: 1 company per 4 inhabitants.", "Tax rate: effective corporate tax approx. 11.9%.", "Number of startups in cluster: over 500.", "Population of Zug town: approx. 30,000.", "Foreign workforce share: 35%.", "Canton area: 239 km²."],
-    },
-  },
+    }, image: "/poi-images/switzerland-tech-cluster-zug-economic-v2.webp"},
   {
     id: "switzerland-bio-tech-biopole-lausanne-economic-v2",
     type: "industry",
@@ -287,8 +279,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Vállalatok száma: több mint 100", "Alapítás: 2004", "Terület: 20 ha", "Foglalkoztatottak: kb. 2500", "Közel a Lausanne-i Egyetemhez", "Szakosodás: onkológia, immunológia"],
       ro: ["Număr de companii: peste 100", "Înființare: 2004", "Suprafață: 20 ha", "Angajați: aproximativ 2.500", "Apropierea de Universitatea din Lausanne", "Specializare: oncologie, imunologie"],
       en: ["Number of companies: over 100", "Founded: 2004", "Area: 20 ha", "Employees: around 2,500", "Proximity to University of Lausanne", "Specialization: oncology, immunology"],
-    },
-  },
+    }, image: "/poi-images/switzerland-bio-tech-biopole-lausanne-economic-v2.webp"},
   {
     id: "switzerland-paper-mill-biberist-economic-v2",
     type: "factory",
@@ -319,8 +310,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Alapítás: 1885", "Éves termelés: több mint 200 000 t", "Foglalkoztatottak: kb. 300", "Alapanyag: hulladékpapír", "Termékek: újrahasznosított papír, karton", "Energiafogyasztás: 100 GWh évente"],
       ro: ["Înființare: 1885", "Producție anuală: peste 200.000 t", "Angajați: aproximativ 300", "Materie primă: hârtie reciclată", "Produse: hârtie reciclată, carton", "Consum energetic: 100 GWh pe an"],
       en: ["Founded: 1885", "Annual production: over 200,000 t", "Employees: about 300", "Raw material: waste paper", "Products: recycled paper, cardboard", "Energy consumption: 100 GWh per year"],
-    },
-  },
+    }, image: "/poi-images/switzerland-paper-mill-biberist-economic-v2.webp"},
   {
     id: "switzerland-engineering-hub-winterthur-economic-v2",
     type: "industry",
@@ -351,8 +341,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["MEM-vállalatok száma: több mint 100", "Ipari foglalkoztatottak: kb. 15 000", "Sulzer alapítása: 1834", "Város magassága: 450 m", "ZHAW hallgatói: több mint 12 000", "Export aránya: több mint 50%"],
       ro: ["Număr de companii MEM: peste 100", "Angajați în industrie: aproximativ 15.000", "Înființare Sulzer: 1834", "Altitudinea orașului: 450 m", "Studenți ZHAW: peste 12.000", "Cota de export: peste 50%"],
       en: ["Number of MEM companies: over 100", "Industrial employees: around 15,000", "Sulzer founded: 1834", "City elevation: 450 m", "ZHAW students: over 12,000", "Export share: over 50%"],
-    },
-  },
+    }, image: "/poi-images/switzerland-engineering-hub-winterthur-economic-v2.webp"},
   {
     id: "switzerland-tech-hub-yverdon-economic-v2",
     type: "industry",
@@ -383,8 +372,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Vállalatok száma: több mint 50", "Alapítás: 1992", "Terület: 10 ha", "Foglalkoztatottak: kb. 1000", "Szakosodás: mikrotechnológia, orvostechnika", "Közel a HEIG-VD-hez"],
       ro: ["Număr de companii: peste 50", "Înființare: 1992", "Suprafață: 10 ha", "Angajați: aproximativ 1.000", "Specializări: microtehnologie, tehnologie medicală", "Apropierea de HEIG-VD"],
       en: ["Number of companies: over 50", "Founded: 1992", "Area: 10 ha", "Employees: around 1,000", "Focus: microtechnology, medtech", "Proximity to HEIG-VD"],
-    },
-  },
+    }, image: "/poi-images/switzerland-tech-hub-yverdon-economic-v2.webp"},
   {
     id: "switzerland-solar-tech-canton-valais-economic-v2",
     type: "industry",
@@ -415,8 +403,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Napsugárzás: akár 1 600 kWh/m² évente", "Vállalatok száma: több mint 30", "Alapítás: 2010", "Éves modultermelés: 100 MWp", "Kutatási projektek: több mint 20", "Energiatermelés: 150 GWh évente"],
       ro: ["Radiație solară: până la 1.600 kWh/m² pe an", "Număr de companii: peste 30", "Înființare: 2010", "Producție anuală de module: 100 MWp", "Proiecte de cercetare: peste 20", "Producție de energie: 150 GWh pe an"],
       en: ["Solar irradiation: up to 1,600 kWh/m² per year", "Number of companies: over 30", "Founded: 2010", "Annual module production: 100 MWp", "Research projects: over 20", "Energy output: 150 GWh per year"],
-    },
-  },
+    }, image: "/poi-images/switzerland-solar-tech-canton-valais-economic-v2.webp"},
   {
     id: "switzerland-logistics-hub-olten-economic-v2",
     type: "port",
@@ -447,8 +434,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Vágányok száma az állomáson: 11", "Utasforgalom: több mint 50 000 naponta", "Áruvolumen: 5 millió t évente", "Autópálya kapcsolat: A1", "Logisztikai cégek: több mint 100", "Város területe: 12 km²"],
       ro: ["Număr de linii în gară: 11", "Trafic de călători: peste 50.000 zilnic", "Volum de marfă: 5 milioane t pe an", "Conexiune la autostradă: A1", "Companii de logistică: peste 100", "Suprafața orașului: 12 km²"],
       en: ["Number of tracks at station: 11", "Passenger traffic: over 50,000 daily", "Freight volume: 5 million t per year", "Motorway connection: A1", "Logistics companies: over 100", "Town area: 12 km²"],
-    },
-  },
+    }, image: "/poi-images/switzerland-logistics-hub-olten-economic-v2.webp"},
   {
     id: "switzerland-chocolate-factory-flawil-economic-v2",
     type: "factory",
@@ -511,8 +497,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Ipari vállalatok száma: több mint 200", "IWC alapítása: 1868", "SIG Combibloc foglalkoztatottak: 1500", "Rajna-vízesés magassága: 23 m", "Adókulcs: kb. 14%", "Város lakossága: kb. 36 000"],
       ro: ["Număr de companii industriale: peste 200", "Înființare IWC: 1868", "Angajați SIG Combibloc: 1.500", "Înălțimea Cascadei Rinului: 23 m", "Cota de impozitare: aprox. 14%", "Populația orașului: circa 36.000"],
       en: ["Number of industrial companies: over 200", "IWC founded: 1868", "SIG Combibloc employees: 1,500", "Rhine Falls height: 23 m", "Tax rate: about 14%", "City population: approx. 36,000"],
-    },
-  },
+    }, image: "/poi-images/switzerland-engineering-schaffhausen-economic-v2.webp"},
   {
     id: "switzerland-data-center-glattbrugg-economic-v2",
     type: "industry",
@@ -543,8 +528,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Terület: több mint 10 000 m²", "Tier szint: IV", "Áramellátás: redundáns", "Hűtés: indirekt szabadtéri hűtés", "Hálózati kapcsolat: 100 Gbit/s", "Üzemeltető: független szolgáltató"],
       ro: ["Suprafață: peste 10.000 m²", "Nivel Tier: IV", "Alimentare electrică: redundantă", "Răcire: răcire indirectă în aer liber", "Conexiune: 100 Gbit/s", "Operator: furnizor independent"],
       en: ["Area: over 10,000 m²", "Tier level: IV", "Power supply: redundant", "Cooling: indirect free-air cooling", "Connection: 100 Gbit/s", "Operator: independent provider"],
-    },
-  },
+    }, image: "/poi-images/switzerland-data-center-glattbrugg-economic-v2.webp"},
   {
     id: "switzerland-machinery-thun-economic-v2",
     type: "industry",
@@ -607,8 +591,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["A klaszter 25 hektáron terül el.", "Több mint 70 vállalat és kutatóintézet működik itt.", "A foglalkoztatottak száma körülbelül 3000 fő.", "Évente több mint 200 szabadalmat jegyeznek be.", "A kutatás fókusza: személyre szabott orvoslás és génterápia.", "A klaszter 2010 óta dinamikusan növekszik."],
       ro: ["Clusterul se întinde pe 25 de hectare.", "Peste 70 de companii și institute de cercetare sunt localizate aici.", "Aproximativ 3.000 de angajați lucrează în parc.", "Peste 200 de brevete sunt depuse anual.", "Domenii principale: medicină personalizată și terapie genică.", "Dezvoltarea accelerată a început în 2010."],
       en: ["The cluster covers 25 hectares.", "Over 70 companies and research institutes are located here.", "Approximately 3,000 employees work in the park.", "More than 200 patents are filed each year.", "Focus areas: personalized medicine and gene therapy.", "Rapid growth has occurred since 2010."],
-    },
-  },
+    }, image: "/poi-images/switzerland-biotech-allschwil-economic-v2.webp"},
   {
     id: "switzerland-engineering-wettingen-economic-v2",
     type: "industry",
@@ -639,8 +622,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Wettingenben kb. 50 mérnöki vállalat található.", "Az ágazat mintegy 4000 embert foglalkoztat.", "A termékek 60%-át exportálják.", "Fókuszban: hajtástechnika és hidraulika.", "Az FHNW mérnökképzést biztosít.", "Az A1 autópálya és SBB biztosítja a kapcsolatokat."],
       ro: ["Aproximativ 50 de companii de inginerie în Wettingen.", "Sectorul angajează aproximativ 4.000 de persoane.", "60% din produse sunt exportate.", "Specializare: tehnică acționări și hidraulică.", "FHNW asigură formarea inginerilor.", "Acces la autostrada A1 și calea ferată SBB."],
       en: ["About 50 engineering companies in Wettingen.", "The sector employs around 4,000 people.", "60% of products are exported.", "Specialization: drive technology and hydraulics.", "FHNW provides engineering education.", "Close to A1 motorway and SBB railway."],
-    },
-  },
+    }, image: "/poi-images/switzerland-engineering-wettingen-economic-v2.webp"},
   {
     id: "switzerland-watch-manufacturing-renens-economic-v2",
     type: "factory",
@@ -671,8 +653,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Renensben kb. 2500 ember dolgozik az óraiparban.", "Éves termelési érték meghaladja az 1,5 milliárd CHF-et.", "Audemars Piguet gyártóüzem található itt.", "Specializáció: szerkezetek és tokok gyártása.", "Helyi mikrotechnikai képzési központ működik.", "A Jura-ív óraközpontjaihoz közel helyezkedik el."],
       ro: ["Renens angajează aproximativ 2.500 de persoane în industria ceasurilor.", "Producția anuală depășește 1,5 miliarde CHF.", "Audemars Piguet are o unitate de producție aici.", "Specializare: mecanisme și carcase de precizie.", "Centru de formare în microtehnică asigură personal calificat.", "Apropiere de clusterul de ceasuri din arcul Jura."],
       en: ["Renens employs about 2,500 people in watchmaking.", "Annual production value exceeds CHF 1.5 billion.", "Audemars Piguet has a production site here.", "Specialization: high-precision movements and cases.", "Local microtechnology training center supports workforce.", "Located near the Jura Arc watch cluster."],
-    },
-  },
+    }, image: "/poi-images/switzerland-watch-manufacturing-renens-economic-v2.webp"},
   {
     id: "switzerland-agri-dairy-emmental-economic-v2",
     type: "industry",
@@ -703,8 +684,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Az Emmental évi tejtermelése kb. 150 000 tonna.", "Több mint 100 falusi sajtüzem működik.", "Az Emmentaler sajt AOP oltalom alatt áll.", "Körülbelül 5000 tejtermelő gazda szállít be.", "Az ágazat éves forgalma kb. 800 millió CHF.", "A régió adta a nevét a híres sajtnak."],
       ro: ["Producția anuală de lapte în Emmental: circa 150.000 de tone.", "Peste 100 de fabrici de brânză sătești procesează laptele.", "Brânza Emmentaler este protejată prin AOP.", "Aproximativ 5.000 de fermieri furnizează laptele.", "Cifra de afaceri anuală a sectorului: circa 800 milioane CHF.", "Regiunea dă numele brânzei Emmentaler."],
       en: ["Annual milk production in Emmental: about 150,000 tonnes.", "Over 100 village dairies process the milk.", "Emmental cheese is AOP-protected.", "Around 5,000 dairy farmers supply the dairies.", "Annual dairy sector turnover: approx. CHF 800 million.", "The region gives its name to Emmental cheese."],
-    },
-  },
+    }, image: "/poi-images/switzerland-agri-dairy-emmental-economic-v2.webp"},
   {
     id: "switzerland-engineering-muttenz-economic-v2",
     type: "industry",
@@ -735,8 +715,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["A Muttenzi Vegyipari Park 150 hektáron fekszik.", "Több mint 30 vállalat működik a parkban.", "Kb. 12 000 alkalmazott a vegyiparban és gépgyártásban.", "Főbb cégek: BASF, Syngenta, Novartis.", "Évente több millió tonna vegyi anyagot forgalmaznak.", "Termékek: finomvegyszerek, növényvédő szerek, műanyagok."],
       ro: ["Parcul Chimic Muttenz se întinde pe 150 de hectare.", "Peste 30 de companii sunt localizate în parc.", "Aproximativ 12.000 de angajați în chimie și inginerie.", "Companii cheie: BASF, Syngenta, Novartis.", "Milioane de tone de produse chimice tranzacționate anual.", "Producție de substanțe chimice fine și pesticide."],
       en: ["Muttenz Chemical Park covers 150 hectares.", "Over 30 companies are located in the park.", "Around 12,000 employees in chemicals and engineering.", "Key companies: BASF, Syngenta, Novartis.", "Millions of tonnes of chemicals handled annually.", "Production includes fine chemicals and pesticides."],
-    },
-  },
+    }, image: "/poi-images/switzerland-engineering-muttenz-economic-v2.webp"},
   {
     id: "switzerland-innovation-park-zurich-economic-v2",
     type: "industry",
@@ -767,8 +746,7 @@ export const switzerlandEconomicV2: POI[] = [
       hu: ["Az innovációs park 55 hektáron terül el.", "Több mint 100 vállalat és kb. 2000 alkalmazott található itt.", "Fókusz: dróntechnológia, robotika, kiberbiztonság.", "Swiss Drone and Robotics Centre: a világ legnagyobb polgári dróntesztelő központja.", "Teljes beruházás: 1,2 milliárd CHF, három fázisban.", "Közvetlen kapcsolat az ETH Zürich és a ZHAW intézményekkel."],
       ro: ["Parcul de inovare se întinde pe 55 de hectare.", "Peste 100 de companii cu aproximativ 2.000 de angajați.", "Domenii cheie: drone, robotică, securitate cibernetică.", "Swiss Drone and Robotics Centre – cea mai mare facilitate de testare pentru drone civile.", "Investiție totală de 1,2 miliarde CHF în trei faze.", "Acces direct la ETH Zurich și ZHAW."],
       en: ["The innovation park covers 55 hectares.", "Over 100 companies with about 2,000 employees.", "Focus: drone tech, robotics, cybersecurity.", "Swiss Drone and Robotics Centre – world's largest civil drone test facility.", "Total investment of CHF 1.2 billion in three phases.", "Direct access to ETH Zurich and ZHAW."],
-    },
-  },
+    }, image: "/poi-images/switzerland-innovation-park-zurich-economic-v2.webp"},
   {
     id: "switzerland-logistic-center-dietikon-economic-v2",
     type: "port",

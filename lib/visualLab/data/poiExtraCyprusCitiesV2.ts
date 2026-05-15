@@ -31,8 +31,7 @@ export const cyprusCitiesV2: POI[] = [
       hu: ["1986-ban nyerte el az önkormányzati rangot.", "Lakossága meghaladja a 70 000 főt.", "Itt található az ország egyik legnagyobb színháza.", "A Pedieosz-folyó parkosított szakasza szeli át."],
       ro: ["Înființată oficial ca municipalitate în 1986.", "Populația depășește 70.000 de locuitori.", "Găzduiește cel mai mare teatru municipal din țară.", "Este traversată de albia râului Pedieos."],
       en: ["Officially established as a municipality in 1986.", "Population exceeds 70,000 residents.", "Home to the largest municipal theatre in Cyprus.", "The Pedieos River flows through its territory."],
-    },
-  },
+    }, image: "/poi-images/cyprus-strovolos-cities-v2.webp"},
   {
     id: "cyprus-latsia-cities-v2",
     type: "city",
@@ -63,8 +62,7 @@ export const cyprusCitiesV2: POI[] = [
       hu: ["A 2011-es népszámlálás alapján lakossága 16 774 fő.", "A GSP Stadion 1999-ben épült és 22 859 nézőt fogad be.", "Területének nagy részét a 8,4 négyzetkilométeres Athalassa Nemzeti Park teszi ki.", "Itt működik a Nicosia General Hospital, Ciprus fő kórháza.", "Jelentős kereskedelmi központ, a Mall of Cyprus otthona.", "Nicosia központjától mintegy 7 kilométerre délre fekszik."],
       ro: ["Populația orașului era de 16.774 de locuitori în 2011.", "Stadionul GSP din Latsia are o capacitate de 22.859 locuri.", "Spitalul General Nicosia din localitate funcționează din 2006.", "Parcul Național Athalassa acoperă o suprafață de 840 de hectare.", "Este un nod comercial major, incluzând Mall of Cyprus.", "A devenit oficial municipiu independent în anul 1986."],
       en: ["Recorded a population of 16,774 during the 2011 census.", "The GSP Stadium, opened in 1999, holds 22,859 spectators.", "Athalassa National Forest Park spans 8.4 square kilometers.", "Nicosia General Hospital relocated to Latsia in 2006.", "The municipality was officially established in 1986.", "Located approximately 7 kilometers south of central Nicosia."],
-    },
-  },
+    }, image: "/poi-images/cyprus-latsia-cities-v2.webp"},
   {
     id: "cyprus-kato-polemidia-cities-v2",
     type: "city",
@@ -95,8 +93,7 @@ export const cyprusCitiesV2: POI[] = [
       hu: ["Az önkormányzati státuszt 1986-ban kapta meg.", "Lakossága megközelítőleg 22 000 fő.", "Itt található Limassol egyik fő ipari övezete.", "Közvetlenül határos az akrotiri brit bázissal."],
       ro: ["A devenit municipalitate independentă în 1986.", "Populația este de aproximativ 22.000 de persoane.", "Include zone industriale majore ale districtului.", "Se învecinează cu baza suverană britanică Akrotiri."],
       en: ["Granted municipal status in the year 1986.", "Population is approximately 22,000 residents.", "Home to a major part of the Limassol industrial zone.", "Borders the Akrotiri British Sovereign Base Area."],
-    },
-  },
+    }, image: "/poi-images/cyprus-kato-polemidia-cities-v2.webp"},
   {
     id: "cyprus-mesa-geitonia-cities-v2",
     type: "city",
@@ -127,8 +124,7 @@ export const cyprusCitiesV2: POI[] = [
       hu: ["Teljes területe mindössze 2,2 négyzetkilométer.", "1986-ban nyerte el a városi önkormányzati címet.", "Lakossága körülbelül 14 500 főre tehető.", "Számos nemzetközi hajózási vállalat központja."],
       ro: ["Suprafața totală este de doar 2,2 km².", "A fost declarată municipalitate în anul 1986.", "Are o populație de aproximativ 14.500 de locuitori.", "Găzduiește sediile multor companii maritime maritime."],
       en: ["Total land area is only about 2.2 square kilometers.", "Elevated to municipal status in 1986.", "Population is roughly 14,500 residents.", "Home to numerous international shipping companies."],
-    },
-  },
+    }, image: "/poi-images/cyprus-mesa-geitonia-cities-v2.webp"},
   {
     id: "cyprus-agi-trimithia-cities-v2",
     type: "city",

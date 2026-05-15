@@ -31,8 +31,7 @@ export const sanmarinoEconomicV2: POI[] = [
       hu: ["A Rovereta ipari park 500 000 négyzetméteren terül el.", "Több mint 40 vállalat működik a parkban.", "A park mintegy 3 000 embert foglalkoztat.", "A parkot az 1960-as években alapították.", "San Marino éves exportja meghaladja a 2 milliárd eurót.", "A Roveretában működő cégek az ország GDP-jének mintegy 20%-át termelik."],
       ro: ["Parcul industrial Rovereta se întinde pe 500.000 de metri pătrați.", "Peste 40 de companii activează în Rovereta.", "Numărul angajaților este de aproximativ 3.000.", "Rovereta a fost fondată în anii 1960.", "Exporturile anuale ale San Marino depășesc 2 miliarde de euro.", "Companiile din Rovereta contribuie cu circa 20% la PIB-ul țării."],
       en: ["Rovereta Industrial Park covers 500,000 square meters.", "Over 40 companies are based in Rovereta.", "The park employs approximately 3,000 workers.", "Rovereta was established in the 1960s.", "San Marino's annual exports exceed 2 billion euros.", "Companies in Rovereta generate about 20% of the country's GDP."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-rovereta-industrial-hub-economic-v2.webp"},
   {
     id: "sanmarino-domagnano-business-park-economic-v2",
     type: "industry",
@@ -63,8 +62,7 @@ export const sanmarinoEconomicV2: POI[] = [
       hu: ["A Domagnano Business Park 150 000 négyzetméteres.", "Több mint 30 vállalat található itt.", "A terület 80%-a kereskedelmi célokat szolgál.", "A parkot az 1990-es években hozták létre.", "San Marinóban az egy főre jutó termelékenység körülbelül 80 000 euró.", "A park gyakornoki helyeket biztosít a San Marinó-i Egyetem hallgatóinak."],
       ro: ["Parcul de Afaceri Domagnano are 150.000 de metri pătrați.", "Peste 30 de companii sunt localizate aici.", "80% din suprafață este utilizată în scop comercial.", "Parcul a fost fondat în anii 1990.", "Productivitatea per muncitor în San Marino este de aproximativ 80.000 de euro.", "Parcul oferă stagii pentru studenții Universității din San Marino."],
       en: ["Domagnano Business Park covers 150,000 square meters.", "Over 30 companies are based there.", "80% of the area is used for commercial purposes.", "The park was founded in the 1990s.", "Productivity per worker in San Marino is around 80,000 euros.", "The park provides internship opportunities for University of San Marino students."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-domagnano-business-park-economic-v2.webp"},
   {
     id: "sanmarino-faetano-agricultural-center-economic-v2",
     type: "industry",
@@ -95,8 +93,7 @@ export const sanmarinoEconomicV2: POI[] = [
       hu: ["A központ 200 hektár szántóföldet foglal magában.", "Éves olívaolaj-termelés: 500 tonna.", "Éves bortermelés: 1 000 tonna.", "150 munkavállalót foglalkoztat.", "San Marino élelmiszer-szükségletének 30%-át helyben termeli.", "A központot az 1980-as években alapították."],
       ro: ["Centrul cuprinde 200 de hectare de teren arabil.", "Producția anuală de ulei de măsline: 500 de tone.", "Producția anuală de vin: 1.000 de tone.", "Angajează 150 de muncitori.", "San Marino acoperă 30% din necesarul alimentar intern.", "Centrul a fost fondat în anii 1980."],
       en: ["The center covers 200 hectares of farmland.", "Annual olive oil production: 500 tons.", "Annual wine production: 1,000 tons.", "It employs 150 workers.", "San Marino covers 30% of its food needs domestically.", "The center was founded in the 1980s."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-faetano-agricultural-center-economic-v2.webp"},
   {
     id: "sanmarino-chiesanuova-craft-district-economic-v2",
     type: "industry",
@@ -127,8 +124,7 @@ export const sanmarinoEconomicV2: POI[] = [
       hu: ["A negyed 30 000 négyzetméteres.", "Több mint 25 műhely található itt.", "Évente 10 000 turista látogatja.", "A negyedet 2005-ben alapították.", "Éves bevétel: körülbelül 5 millió euró.", "Tagja az európai kézműves negyedek hálózatának."],
       ro: ["Districtul are 30.000 de metri pătrați.", "Peste 25 de ateliere sunt active.", "10.000 de turiști îl vizitează anual.", "Districtul a fost fondat în 2005.", "Venitul anual: circa 5 milioane de euro.", "Membru al rețelei europene de cartiere meșteșugărești."],
       en: ["The district covers 30,000 square meters.", "Over 25 workshops are located there.", "10,000 tourists visit annually.", "The district was founded in 2005.", "Annual revenue: around 5 million euros.", "Member of the European craft district network."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-chiesanuova-craft-district-economic-v2.webp"},
   {
     id: "sanmarino-serravalle-trade-hub-economic-v2",
     type: "industry",
@@ -159,8 +155,7 @@ export const sanmarinoEconomicV2: POI[] = [
       hu: ["Eladótér: 200 000 négyzetméter.", "50 üzlet és 4 bevásárlóközpont.", "Éves áruforgalom: 300 millió euró.", "Közvetlenül 2 000 főt foglalkoztat.", "Napi 15 000 vásárló.", "Fejlődés az 1970-es évektől."],
       ro: ["Suprafața de vânzare: 200.000 de metri pătrați.", "50 de magazine și 4 centre comerciale.", "Tranzacții anuale: 300 de milioane de euro.", "Angajează direct 2.000 de persoane.", "15.000 de clienți zilnic.", "Dezvoltare începând cu anii 1970."],
       en: ["Sales area: 200,000 square meters.", "50 shops and 4 shopping malls.", "Annual goods turnover: 300 million euros.", "Directly employs 2,000 people.", "15,000 daily customers.", "Development from the 1970s."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-serravalle-trade-hub-economic-v2.webp"},
   {
     id: "sanmarino-acquaviva-logistics-zone-economic-v2",
     type: "industry",
@@ -191,8 +186,7 @@ export const sanmarinoEconomicV2: POI[] = [
       hu: ["100 000 négyzetméter raktárterület.", "Megnyitás: 2010.", "Évi 500 000 tonna áruforgalom.", "500 alkalmazott.", "Kapcsolat az A14-es autópályával.", "A nemzeti logisztikai stratégia része."],
       ro: ["100.000 de metri pătrați de spațiu de depozitare.", "Deschis în 2010.", "500.000 de tone de marfă manipulate anual.", "500 de angajați.", "Conexiune la autostrada A14.", "Parte a strategiei naționale de logistică."],
       en: ["100,000 square meters of storage space.", "Opened in 2010.", "500,000 tons of freight handled annually.", "500 employees.", "Connection to the A14 motorway.", "Part of the national logistics strategy."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-acquaviva-logistics-zone-economic-v2.webp"},
   {
     id: "sanmarino-montegiardino-forestry-economic-v2",
     type: "industry",
@@ -223,8 +217,7 @@ export const sanmarinoEconomicV2: POI[] = [
       hu: ["300 hektár erdőt kezel.", "Éves fakitermelés: 2 000 köbméter.", "40 erdészt foglalkoztat.", "1995-ben alapították.", "A község területének 60%-a erdő.", "FSC-tanúsítvánnyal rendelkezik."],
       ro: ["Administrează 300 de hectare de pădure.", "Producția anuală de lemn: 2.000 de metri cubi.", "Angajează 40 de pădurari.", "Fondat în 1995.", "60% din suprafața comunei este acoperită de pădure.", "Certificat FSC."],
       en: ["Manages 300 hectares of forest.", "Annual timber production: 2,000 cubic meters.", "Employs 40 foresters.", "Founded in 1995.", "60% of municipal area is forested.", "FSC certified."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-montegiardino-forestry-economic-v2.webp"},
   {
     id: "sanmarino-borgo-maggiore-service-hub-economic-v2",
     type: "industry",
@@ -255,8 +248,7 @@ export const sanmarinoEconomicV2: POI[] = [
       hu: ["50 000 négyzetméter hasznos alapterület.", "20 vállalat található itt.", "800 alkalmazott.", "2008-ban nyílt meg.", "Átlagosan 15 négyzetméter irodaterület alkalmazottonként.", "Pénzügyi szolgáltatásokra összpontosít."],
       ro: ["50.000 de metri pătrați de suprafață utilă.", "20 de companii sunt localizate.", "800 de angajați.", "Deschis în 2008.", "15 metri pătrați de birou per angajat.", "Se concentrează pe servicii financiare."],
       en: ["50,000 square meters of floor space.", "20 companies based there.", "800 employees.", "Opened in 2008.", "15 square meters of office space per employee.", "Focus on financial services."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-borgo-maggiore-service-hub-economic-v2.webp"},
   {
     id: "sanmarino-fiorentino-manufacturing-cluster-economic-v2",
     type: "industry",

@@ -31,8 +31,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["A terület több mint 1300 hektáron terül el", "A dór stílusú Concordia-templom i.sz. 597-ben bazilika lett", "Héra temploma 38 méter hosszú és 17 méter széles", "Az UNESCO 1997-ben vette fel a világörökségi listára", "A Zeusz-templom oszlopai között 8 méteres kőalakok álltak", "A városfalak hossza eredetileg elérte a 12 kilométert"],
       ro: ["Situl cuprinde resturile a 7 temple grecești monumentale", "Templul Concordiei a fost construit între 440 și 430 î.Hr.", "Suprafața totală protejată depășește 1300 de hectare", "Akragas a fost unul dintre cele mai bogate orașe antice", "Coloanele Templului lui Hercule au 10 metri înălțime", "Inclus în patrimoniul mondial UNESCO din anul 1997"],
       en: ["The site covers roughly 1300 hectares of land", "Temple of Concordia is one of the best preserved in the world", "Founded by Greek colonists from Gela in 581 BC", "Includes the remains of the massive Temple of Olympian Zeus", "UNESCO World Heritage site designation since 1997", "The Temple of Hera retains 25 of its original 34 columns"],
-    },
-  },
+    }, image: "/poi-images/italy-valle-dei-templi-history-v2.webp"},
   {
     id: "italy-forum-romanum-history-v2",
     type: "ruins",
@@ -63,8 +62,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["A mocsaras terület lecsapolása a Kr. e. 7. században kezdődött", "A régészeti terület kiterjedése megközelítőleg 2 hektár", "A Szaturnusz-templomot Kr. e. 497-ben szentelték fel Rómában", "Az UNESCO 1980-ban nyilvánította a világörökség részévé"],
       ro: ["Utilizarea zonei ca spațiu public a început în secolul VII î.Hr.", "Suprafața totală a complexului este de aproximativ 2 hectare", "Templul lui Saturn a fost dedicat oficial în anul 497 î.Hr.", "Inclus pe lista Patrimoniului Mondial UNESCO din anul 1980"],
       en: ["Initial drainage and use of the area began in the 7th century BC", "The archaeological site covers approximately 2 hectares of land", "The Temple of Saturn was officially dedicated in 497 BC", "Designated as a UNESCO World Heritage site in 1980"],
-    },
-  },
+    }, image: "/poi-images/italy-forum-romanum-history-v2.webp"},
   {
     id: "italy-aquileia-archaeological-site-history-v2",
     type: "ruins",
@@ -95,8 +93,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["I.e. 181-ben alapították katonai kolóniaként", "A bazilika mozaikja a legnagyobb ilyen jellegű lelet Európában", "A 2. században lakossága meghaladta a 100 000 főt", "Attila hun király seregei 452-ben rombolták le", "A fórum mérete 115 méter x 57 méter volt", "Az UNESCO világörökség része 1998 óta"],
       ro: ["Fondat în 181 î.Hr. pentru a bloca avansul galilor", "Mozaicul din bazilică datează din secolul al IV-lea n.Hr.", "Portul fluvial era legat direct de Marea Adriatică", "Suprafața mozaicului este de aproximativ 760 mp", "A fost al patrulea oraș ca mărime din Italia romană", "Inclus pe lista UNESCO în anul 1998"],
       en: ["Established in 181 BC as a Latin colony", "The basilica floor features 760 square meters of mosaics", "Served as the capital of the Roman region Venetia et Histria", "Sacked by Attila the Hun in 452 AD after a long siege", "Became a UNESCO World Heritage site in 1998", "Excavations reveal a 48-meter wide ancient river port"],
-    },
-  },
+    }, image: "/poi-images/italy-aquileia-archaeological-site-history-v2.webp"},
   {
     id: "italy-piazza-dei-miracoli-history-v2",
     type: "landmark",
@@ -127,8 +124,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["1987-től UNESCO világörökség", "Dóm felszentelve 1063", "Ferde torony építése 1173-1372", "Torony magassága 56,67 m", "Dőlésszög: 3,97 fok", "Keresztelőkápolna átmérője 34,5 m"],
       ro: ["UNESCO din 1987", "Catedrala sfințită în 1063", "Turnul construit între 1173 și 1372", "Înălțimea turnului: 56,67 m", "Înclinare: 3,97 grade", "Baptisteriul: diametru 34,5 m"],
       en: ["UNESCO World Heritage since 1987", "Cathedral consecrated in 1063", "Leaning Tower built 1173-1372", "Tower height 56.67 m (low side)", "Leaning angle approx. 3.97°", "Baptistery diameter 34.5 m"],
-    },
-  },
+    }, image: "/poi-images/italy-piazza-dei-miracoli-history-v2.webp"},
   {
     id: "italy-parco-archeologico-di-ercolano-history-v2",
     type: "ruins",
@@ -159,8 +155,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["A várost 20-25 méternyi vulkáni réteg fedte be", "1709-ben fedezték fel egy kút ásása közben", "A Papirosok Villája több mint 1800 tekercset őrzött meg", "A tengerparton 300 emberi maradványt találtak", "Az UNESCO 1997-ben nyilvánította világörökséggé", "Sokkal több faanyag maradt meg itt, mint Pompejiben"],
       ro: ["Orașul a fost îngropat sub 25 de metri de material vulcanic", "Redescoperit accidental în 1709 prin săparea unui puț", "Vila Papyri adăpostea o bibliotecă de 1800 de manuscrise", "Majoritatea clădirilor aveau cel puțin două etaje", "Peste 300 de schelete găsite în zona portului antic", "Inclus în patrimoniul UNESCO din anul 1997"],
       en: ["Buried under 25 meters of volcanic material in 79 AD", "Accidentally rediscovered during well digging in 1709", "The Villa of the Papyri is 250 meters long", "Houses retain original wooden stairs and furniture", "UNESCO World Heritage site status since 1997", "Archaeologists found 300 skeletons by the ancient shore"],
-    },
-  },
+    }, image: "/poi-images/italy-parco-archeologico-di-ercolano-history-v2.webp"},
   {
     id: "italy-trulli-di-alberobello-history-v2",
     type: "village",
@@ -191,8 +186,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["1996-tól UNESCO világörökség", "Alberobellóban kb. 1500 trulli", "Legrégebbi trulli a 14. századból", "Legmagasabb tető 10 m", "Rione Monti negyedben kb. 1000 trulli", "Habarcs nélküli építés"],
       ro: ["UNESCO din 1996", "Aproximativ 1.500 de trulli", "Cele mai vechi din secolul al XIV-lea", "Înălțimea acoperișurilor până la 10 m", "Rione Monti conține circa 1.000 de trulli", "Construcție fără mortar"],
       en: ["UNESCO World Heritage since 1996", "About 1,500 trulli in Alberobello", "Earliest trulli from 14th century", "Roof heights up to 10 m", "Rione Monti contains about 1,000 trulli", "Built without mortar"],
-    },
-  },
+    }, image: "/poi-images/italy-trulli-di-alberobello-history-v2.webp"},
   {
     id: "italy-teatro-romano-di-verona-history-v2",
     type: "theater",
@@ -223,8 +217,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Építés: i.e. 1. század", "Átmérő: kb. 105 m", "Férőhely: 5000 fő", "Múzeum 1923 óta", "Színpad magassága: 30 m", "Lépcsők száma: 44"],
       ro: ["Construit în secolul I î.Hr.", "Diametru: circa 105 m", "Capacitate: 5.000 de locuri", "Muzeu din 1923", "Înălțimea scenei: 30 m", "Număr de trepte: 44"],
       en: ["Built in 1st century BC", "Diameter approx. 105 m", "Capacity about 5,000 spectators", "Museum since 1923", "Stage height approx. 30 m", "Number of steps: 44"],
-    },
-  },
+    }, image: "/poi-images/italy-teatro-romano-di-verona-history-v2.webp"},
   {
     id: "italy-palazzo-te-history-v2",
     type: "palace",
@@ -255,8 +248,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Építés: 1524-1534", "Tervező: Giulio Romano", "Sala dei Giganti freskói 1534", "Alapterület: 3000 m²", "Freskók magassága 15 m", "Szobák száma: 10"],
       ro: ["Construit între 1524-1534", "Arhitect: Giulio Romano", "Frescele din Sala dei Giganti datate 1534", "Suprafață: aproximativ 3.000 m²", "Înălțimea frescelor: 15 m", "Număr de camere: 10"],
       en: ["Built 1524-1534", "Architect: Giulio Romano", "Sala dei Giganti frescoes dated 1534", "Floor area approx. 3,000 m²", "Fresco height 15 m", "Number of rooms: 10"],
-    },
-  },
+    }, image: "/poi-images/italy-palazzo-te-history-v2.webp"},
   {
     id: "italy-nuraghe-su-nuraxi-history-v2",
     type: "ruins",
@@ -287,8 +279,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Az első építési fázis a Kr. e. 1500-as évek körül indult", "A központi lakótorony magassága eléri a 18,6 métert", "Az UNESCO 1997-ben vette fel a világörökségi helyszínek közé", "A monumentális építmény Barumini község mellett található"],
       ro: ["Prima fază a construcției a început în jurul anului 1500 î.Hr.", "Turnul central are o înălțime totală de 18,6 metri", "Sit arheologic inclus în Patrimoniul Mondial UNESCO în 1997", "Complexul este situat în apropierea localității Barumini"],
       en: ["The first phase of construction dates to around 1500 BC", "The central defensive tower stands at 18.6 meters in height", "Recognized as a UNESCO World Heritage site in 1997", "Located in the immediate vicinity of the village of Barumini"],
-    },
-  },
+    }, image: "/poi-images/italy-nuraghe-su-nuraxi-history-v2.webp"},
   {
     id: "italy-teatro-di-taormina-history-v2",
     type: "theater",
@@ -319,8 +310,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Építés: i.e. 3. század", "Átmérő: 120 m", "Férőhely: 5000", "Tengerszint feletti magasság: 200 m", "Színpad szélessége: 30 m", "Restaurálás a 19. században"],
       ro: ["Construit în secolul III î.Hr.", "Diametru: 120 m", "Capacitate: 5.000 locuri", "Altitudine: 200 m", "Lățimea scenei: 30 m", "Restaurat în secolul XIX"],
       en: ["Built in 3rd century BC", "Diameter approx. 120 m", "Capacity about 5,000", "Elevation: 200 m above sea level", "Stage width approx. 30 m", "Restored in 19th century"],
-    },
-  },
+    }, image: "/poi-images/italy-teatro-di-taormina-history-v2.webp"},
   {
     id: "italy-paestum-history-v2",
     type: "ruins",
@@ -351,8 +341,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["I.e. 600 körül alapították Poseidonia néven", "A legidősebb Hera-templom i.e. 550-ben épült", "A városfalak hossza 4750 méter", "Híres lelete a Búvár sírja falfestménye 1968-ból", "I.e. 273-ban lett római kolónia Paestum néven", "Az UNESCO 1998 óta védi a területet"],
       ro: ["Fondat în jurul anului 600 î.Hr. de coloniști greci", "Templul lui Neptun are 60 de metri lungime", "Zidurile de apărare au o lungime totală de 4,75 km", "Mormântul Scufundătorului datează din 480 î.Hr.", "A devenit colonie romană în anul 273 î.Hr.", "Patrimoniu mondial UNESCO din anul 1998"],
       en: ["Founded around 600 BC as Poseidonia", "Home to three Greek temples: two of Hera and one of Athena", "The city walls stretch for 4.75 kilometers", "Tomb of the Diver, discovered in 1968, dates to 480 BC", "UNESCO World Heritage site designation since 1998", "Fell under Roman control in 273 BC"],
-    },
-  },
+    }, image: "/poi-images/italy-paestum-history-v2.webp"},
   {
     id: "italy-villa-adrian-history-v2",
     type: "ruins",
@@ -383,8 +372,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["I.sz. 118 és 138 között épült fel", "A terület eredetileg 120 hektáron terült el", "A Canopus-medence hossza 119 méter", "Több mint 30 különálló építményből állt", "1999 óta az UNESCO világörökség része", "A Piazza d'Oro udvara 60 x 50 méteres"],
       ro: ["Construită între anii 118 și 138 n.Hr.", "Complexul se întinde pe o suprafață de 120 de hectare", "Teatrul Maritim este înconjurat de un canal circular", "Include peste 30 de clădiri monumentale", "Bazinul Canopus a fost inspirat de un canal egiptean", "Inclusă în patrimoniul UNESCO din anul 1999"],
       en: ["Constructed between 118 and 138 AD", "The site originally covered roughly 120 hectares", "Features the Canopus, a 119-meter long pool", "The Maritime Theatre has a 43-meter diameter", "UNESCO World Heritage site status since 1999", "Comprises over 30 buildings including thermal baths"],
-    },
-  },
+    }, image: "/poi-images/italy-villa-adrian-history-v2.webp"},
   {
     id: "italy-basilica-di-san-vitale-history-v2",
     type: "church",
@@ -415,8 +403,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Felszentelve 547", "Nyolcszögű alaprajz, átmérő 35 m", "Kupola magassága 28 m", "Mozaikfelület kb. 1000 m²", "Márvány Prokonnesosból", "Justinianus-mozaik a 6. századból"],
       ro: ["Sfințită în 547", "Plan octogonal, diametru 35 m", "Înălțimea cupolei 28 m", "Suprafața mozaicurilor circa 1.000 m²", "Marmură din Prokonnesos", "Mozaicul lui Iustinian din secolul VI"],
       en: ["Consecrated in 547", "Octagonal plan, diameter 35 m", "Dome height 28 m", "Mosaic area approx. 1,000 m²", "Marble from Prokonnesos", "Justinian mosaic from 6th century"],
-    },
-  },
+    }, image: "/poi-images/italy-basilica-di-san-vitale-history-v2.webp"},
   {
     id: "italy-palazzo-ducale-urbino-history-v2",
     type: "palace",
@@ -447,8 +434,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Építés kezdete 1444", "Tervezők: Laurana és Martini", "Studiolo 1476-ból", "Szobák száma: kb. 100", "Torony magassága 36 m", "Homlokzat szélessége 80 m"],
       ro: ["Construcția a început în 1444", "Arhitecți: Laurana și Martini", "Studiolo din 1476", "Număr de camere: circa 100", "Înălțimea turnului 36 m", "Lățimea fațadei 80 m"],
       en: ["Construction started 1444", "Architects: Laurana and Martini", "Studiolo dating from 1476", "Number of rooms: approx. 100", "Tower height 36 m", "Facade width 80 m"],
-    },
-  },
+    }, image: "/poi-images/italy-palazzo-ducale-urbino-history-v2.webp"},
   {
     id: "italy-tratturo-di-cappadocia-history-v2",
     type: "landmark",
@@ -479,8 +465,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Hossza kb. 100 km", "Szélessége 60 m", "Használat az ókor óta", "Regi Tratturi része", "Királyi ellenőrzés a 15. században", "Szintkülönbség akár 1500 m"],
       ro: ["Lungime: aproximativ 100 km", "Lățime: 60 m", "Folosit din antichitate", "Parte a sistemului Regi Tratturi", "Control regal în secolul XV", "Diferență de altitudine până la 1.500 m"],
       en: ["Length approx. 100 km", "Width approx. 60 m", "Use since antiquity", "Part of Regi Tratturi", "Royal control in 15th century", "Elevation change up to 1,500 m"],
-    },
-  },
+    }, image: "/poi-images/italy-tratturo-di-cappadocia-history-v2.webp"},
   {
     id: "italy-valle-di-susa-fort-history-v2",
     type: "castle",
@@ -511,8 +496,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Építés kezdete 1728", "Hossz 3 km", "Terület 1,3 millió m²", "64 bástya", "7000 lépcsőfok", "Magasság 1100-1800 m"],
       ro: ["Construcția a început în 1728", "Lungime 3 km", "Suprafață 1,3 milioane m²", "64 de bastioane", "7.000 de trepte", "Altitudine 1.100-1.800 m"],
       en: ["Construction started 1728", "Length 3 km", "Area 1.3 million m²", "64 bastions", "7,000 steps", "Elevation 1,100-1,800 m"],
-    },
-  },
+    }, image: "/poi-images/italy-valle-di-susa-fort-history-v2.webp"},
   {
     id: "italy-grotta-di-nettuno-history-v2",
     type: "landmark",
@@ -543,8 +527,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Felfedezés: 1778", "Teljes hossz 4 km", "Látogatható rész 500 m", "654 lépcsőfok", "Sóstó 2 m mély", "Hőmérséklet 14 °C"],
       ro: ["Descoperită în 1778", "Lungime totală 4 km", "Partea accesibilă 500 m", "Scări cu 654 de trepte", "Lac sărat adânc de 2 m", "Temperatură constantă 14°C"],
       en: ["Discovered in 1778", "Total length 4 km", "Accessible section 500 m", "654 steps on Escala del Cabirol", "Saltwater lake 2 m deep", "Constant temperature 14°C"],
-    },
-  },
+    }, image: "/poi-images/italy-grotta-di-nettuno-history-v2.webp"},
   {
     id: "italy-abbazia-di-fossanova-history-v2",
     type: "church",
@@ -575,8 +558,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Az apátságot 1135-ben alapították.", "A templom építése 1187-ben kezdődött.", "A templomot 1208-ban szentelték fel.", "A bazilika hossza 68 méter.", "A kerengő mérete 30x30 méter.", "Aquínói Tamás 1274-ben halt meg az apátságban."],
       ro: ["Mănăstirea a fost fondată în 1135.", "Construcția bisericii a început în 1187.", "Biserica a fost sfințită în 1208.", "Basilica are 68 de metri lungime.", "Claustrul măsoară 30x30 de metri.", "Toma de Aquino a murit aici în 1274."],
       en: ["Fossanova Abbey was founded in 1135.", "Church construction started in 1187.", "The church was consecrated in 1208.", "The basilica is 68 meters long.", "The cloister measures 30x30 meters.", "Thomas Aquinas died at the abbey in 1274."],
-    },
-  },
+    }, image: "/poi-images/italy-abbazia-di-fossanova-history-v2.webp"},
   {
     id: "italy-teatro-massimo-palermo-history-v2",
     type: "theater",
@@ -607,8 +589,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["1897-ben nyitották meg.", "Befogadóképesség: 1350 ülőhely.", "Kupola magassága: 42 méter.", "Építési idő: 22 év (1875-1897).", "Színpad szélessége: 30 méter.", "1997-ben nyitották újra a felújítás után."],
       ro: ["Deschis în 1897.", "Capacitate: 1.350 de locuri.", "Înălțimea cupolei: 42 de metri.", "Perioada de construcție: 22 de ani (1875-1897).", "Lățimea scenei: 30 de metri.", "Redeschis în 1997 după restaurare."],
       en: ["Opened in 1897.", "Seating capacity: 1,350.", "Dome height: 42 meters.", "Construction time: 22 years (1875-1897).", "Stage width: 30 meters.", "Reopened in 1997 after restoration."],
-    },
-  },
+    }, image: "/poi-images/italy-teatro-massimo-palermo-history-v2.webp"},
   {
     id: "italy-borgo-di-vico-equense-history-v2",
     type: "town",
@@ -639,8 +620,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Lakosság: kb. 8000 fő.", "Tengerszint feletti magasság: 70 méter.", "Távolság Nápolytól: 30 km.", "14. századi székesegyház.", "13. századi vár, Castello Giusso.", "Híres a bivalymozzarelláról."],
       ro: ["Populație: aproximativ 8.000.", "Altitudine: 70 de metri.", "Distanța față de Napoli: 30 km.", "Catedrală din secolul al XIV-lea.", "Castelul Giusso din secolul al XIII-lea.", "Faimos pentru mozzarella de bivoliță."],
       en: ["Population: approx. 8,000.", "Elevation: 70 meters.", "Distance from Naples: 30 km.", "Cathedral from 14th century.", "Castello Giusso from 13th century.", "Famous for buffalo mozzarella."],
-    },
-  },
+    }, image: "/poi-images/italy-borgo-di-vico-equense-history-v2.webp"},
   {
     id: "italy-templi-di-agrigento-history-v2",
     type: "landmark",
@@ -671,8 +651,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Concordia-templom: 34x16 m.", "Zeusz-templom: 113x56 m.", "UNESCO Világörökség 1997 óta.", "Juno-templom: 38 m hosszú.", "Herkules-templom: Kr.e. 6. századi.", "Park területe: 1300 hektár."],
       ro: ["Templul Concordiei: 34x16 m.", "Templul lui Zeus: 113x56 m.", "UNESCO din 1997.", "Templul Juno: 38 m lungime.", "Templul lui Hercule: din secolul VI î.Hr.", "Suprafața parcului: 1.300 ha."],
       en: ["Temple of Concordia: 34x16 m.", "Temple of Zeus: 113x56 m.", "UNESCO site since 1997.", "Temple of Juno: 38 m long.", "Temple of Hercules: 6th century BC.", "Park area: 1,300 hectares."],
-    },
-  },
+    }, image: "/poi-images/italy-templi-di-agrigento-history-v2.webp"},
   {
     id: "italy-palazzo-ducale-mantova-history-v2",
     type: "palace",
@@ -703,8 +682,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Több mint 500 szoba.", "Terület: 34.000 m².", "Építés kezdete: 14. század.", "Camera degli Sposi: 1465-1474.", "Santa Barbara kápolna: 1562.", "UNESCO Világörökség 2008 óta."],
       ro: ["Peste 500 de camere.", "Suprafață: 34.000 mp.", "Construcția a început în secolul XIV.", "Camera degli Sposi: 1465-1474.", "Capela Santa Barbara: 1562.", "UNESCO din 2008."],
       en: ["Over 500 rooms.", "Area: 34,000 m².", "Construction started in 14th century.", "Camera degli Sposi: 1465-1474.", "Santa Barbara Chapel: 1562.", "UNESCO site since 2008."],
-    },
-  },
+    }, image: "/poi-images/italy-palazzo-ducale-mantova-history-v2.webp"},
   {
     id: "italy-abbazia-di-monteoliveto-history-v2",
     type: "church",
@@ -735,8 +713,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Alapítás: 1313.", "Kerengő 36 freskóval.", "Freskók: Signorelli és Bazzi (1497-1508).", "Könyvtár: 20.000 kötet.", "Templom hossza: 45 m.", "Magasság: 300 m tengerszint felett."],
       ro: ["Fondată în 1313.", "Claustru cu 36 de fresce.", "Frescele de Signorelli și Bazzi (1497-1508).", "Bibliotecă: 20.000 de volume.", "Lungimea bisericii: 45 m.", "Altitudine: 300 m."],
       en: ["Founded in 1313.", "Cloister with 36 fresco panels.", "Frescoes by Signorelli and Bazzi (1497-1508).", "Library: 40,000 volumes.", "Church length: 45 m.", "Elevation: 300 m."],
-    },
-  },
+    }, image: "/poi-images/italy-abbazia-di-monteoliveto-history-v2.webp"},
   {
     id: "italy-teatro-di-marcello-history-v2",
     type: "theater",
@@ -767,8 +744,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Épült Kr.e. 13-11.", "Befogadóképesség: 15.000 néző.", "Átmérő: 130 méter.", "Magasság: 30 méter.", "Két árkád sor maradt fenn.", "Építőanyag: travertin és tufa."],
       ro: ["Construit 13-11 î.Hr.", "Capacitate: 15.000 spectatori.", "Diametru: 130 de metri.", "Înălțime: 30 de metri.", "Două niveluri de arcade păstrate.", "Material: travertin și tuf."],
       en: ["Built 13-11 BC.", "Capacity: 20,000 spectators.", "Diameter: 130 meters.", "Height: 30 meters.", "Two arcade tiers preserved.", "Material: travertine and tuff."],
-    },
-  },
+    }, image: "/poi-images/italy-teatro-di-marcello-history-v2.webp"},
   {
     id: "italy-borgo-di-borgo-val-di-taro-history-v2",
     type: "town",
@@ -799,8 +775,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Lakosság: kb. 7000 fő.", "Magasság: 70 m tszf.", "San Lorenzo templom: 12. század.", "A Taro völgyében.", "Parma megyében."],
       ro: ["Populație: aproximativ 7.000.", "Altitudine: 70 m.", "Biserica San Lorenzo: sec. XII.", "În valea râului Taro.", "Provincia Parma."],
       en: ["Population: approx. 7,000.", "Elevation: 70 m.", "San Lorenzo church: 12th century.", "In the Taro Valley.", "Province of Parma."],
-    },
-  },
+    }, image: "/poi-images/italy-borgo-di-borgo-val-di-taro-history-v2.webp"},
   {
     id: "italy-abbazia-di-chiaravalle-history-v2",
     type: "church",
@@ -831,8 +806,7 @@ export const italyHistoryV2: POI[] = [
       hu: ["Alapítva 1135.", "Templom magassága: 40 m.", "Harangtorony: 60 m.", "Kerengő: 13. század.", "Távolság Milánótól: 10 km.", "Híres rizs- és méztermelés."],
       ro: ["Fondată în 1135.", "Înălțimea bisericii: 40 m.", "Turn clopotniță: 60 m.", "Claustru din secolul al XIII-lea.", "Distanța față de Milano: 10 km.", "Faimos pentru producția de orez și miere."],
       en: ["Founded in 1135.", "Church height: 40 m.", "Bell tower: 60 m.", "Cloister: 13th century.", "Distance from Milan: 10 km.", "Famous for rice and honey production."],
-    },
-  },
+    }, image: "/poi-images/italy-abbazia-di-chiaravalle-history-v2.webp"},
   {
     id: "italy-palazzo-spada-history-v2",
     type: "palace",

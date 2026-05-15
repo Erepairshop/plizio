@@ -973,8 +973,7 @@ export const slovakiaLandmarksV2: POI[] = [
       hu: ["Építés: 13. század", "Stílus: gótikus, barokk átépítés", "Torony magassága: 40 m", "Hely: Svätý Jur, Szlovákia", "Freskók: középkori", "Felekezet: római katolikus"],
       ro: ["Secolul construcției: al XIII-lea", "Stil: gotic, modificări baroce", "Înălțime turn: 40 m", "Locație: Svätý Jur, Slovacia", "Fresce: medievale", "Confesiune: romano-catolică"],
       en: ["Built: 13th century", "Style: Gothic, later Baroque", "Tower height: 40 meters", "Location: Svätý Jur, Slovakia", "Frescoes: medieval", "Denomination: Roman Catholic"],
-    },
-  },
+    }, image: "/poi-images/slovakia-st-george-church-svaty-jur-landmarks-v2.webp"},
   {
     id: "slovakia-palace-of-art-bratislava-landmarks-v2",
     type: "museum",
@@ -1005,8 +1004,7 @@ export const slovakiaLandmarksV2: POI[] = [
       hu: ["Megnyitás: 2002", "Kiállítótér: 3000 m²", "Hely: Pozsony, Ružinov", "Szolgáltatások: mozi, kávézó", "Fókusz: közép- és kelet-európai modern művészet", "Stílus: kortárs"],
       ro: ["Deschis: 2002", "Spațiu expozițional: 3000 m²", "Locație: Bratislava, Ružinov", "Facilități: cinema, cafenea", "Specializare: artă modernă central și est-europeană", "Stil arhitectural: contemporan"],
       en: ["Opened: 2002", "Exhibition space: 3000 m²", "Location: Bratislava, Ružinov", "Facilities: cinema, café", "Focus: modern art of Central/Eastern Europe", "Architecture: contemporary"],
-    },
-  },
+    }, image: "/poi-images/slovakia-palace-of-art-bratislava-landmarks-v2.webp"},
   {
     id: "slovakia-st-michel-church-kosice-landmarks-v2",
     type: "church",

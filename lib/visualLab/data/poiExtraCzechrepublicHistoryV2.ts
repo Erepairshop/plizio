@@ -1008,8 +1008,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Első említés 1263", "Maximális mélység 400 m", "Aranytermelés a 16. században 500 kg évente", "Tárnák hossza 3 km a látogatók számára", "Múzeum megnyitva 1993", "Város magassága 400 m tszf."],
       ro: ["Prima mențiune 1263", "Adâncimea maximă 400 m", "Producția de aur în sec. XVI 500 kg anual", "Lungimea galeriilor pentru vizitatori 3 km", "Muzeul deschis în 1993", "Altitudinea orașului 400 m"],
       en: ["First mention 1263", "Maximum depth 400 m", "Gold production in 16th century 500 kg annually", "Visitor adit length 3 km", "Museum opened 1993", "Town elevation 400 m"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-zlate-hory-mines-history-v2.webp"},
   {
     id: "czechrepublic-svihov-castle-history-v2",
     type: "castle",
@@ -1040,8 +1039,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Épült 1360", "Víztározó 2 hektáros árokkal", "Várfalak vastagsága 3 m", "Gótikus kápolna 1500-ból", "Múzeum 1949 óta", "Éves látogatók 100.000"],
       ro: ["Construit în 1360", "Șanț de apă de 2 hectare", "Ziduri groase de 3 m", "Capela gotică din 1500", "Muzeu din 1949", "Vizitatori anual 100.000"],
       en: ["Built in 1360", "Water moat area 2 hectares", "Walls thickness 3 m", "Gothic chapel from 1500", "Museum since 1949", "Annual visitors 100,000"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-svihov-castle-history-v2.webp"},
   {
     id: "czechrepublic-vratislavice-castle-history-v2",
     type: "castle",
@@ -1072,8 +1070,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Épült 1580", "Barokk átépítés 1720", "Park területe 5 ha", "Múzeum 1960 óta", "Tengerszint feletti magasság 350 m", "Szobák száma 30"],
       ro: ["Construit în 1580", "Reconstrucție barocă 1720", "Suprafața parcului 5 ha", "Muzeu din 1960", "Altitudine 350 m", "Număr de camere 30"],
       en: ["Built in 1580", "Baroque remodeling 1720", "Park area 5 ha", "Museum since 1960", "Elevation 350 m", "Number of rooms 30"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-vratislavice-castle-history-v2.webp"},
   {
     id: "czechrepublic-lipnice-castle-history-v2",
     type: "castle",
@@ -1104,8 +1101,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Épült 1270", "Husziták ostroma 1421", "Tűzvész 1645", "Rom magassága 20 m", "Helyreállítás 1970-ben kezdődött", "Éves látogatók 50.000"],
       ro: ["Construit în 1270", "Asediul husit 1421", "Incendiu 1645", "Înălțimea ruinelor 20 m", "Restaurare începută în 1970", "Vizitatori anual 50.000"],
       en: ["Built in 1270", "Hussite siege 1421", "Fire 1645", "Ruins height 20 m", "Restoration started 1970", "Annual visitors 50,000"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-lipnice-castle-history-v2.webp"},
   {
     id: "czechrepublic-valec-chateau-history-v2",
     type: "palace",
@@ -1136,8 +1132,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A kastély 38 méter magas tornyának kupolája 1720-ból származik.", "A Szent György-templom 1725-ben épült, és 450 férőhelyes.", "A kastély kertjében 5 szökőkút található, a legmagasabb 8 méter.", "A kastély 1990 óta nyitva áll a nagyközönség előtt.", "Évente 50 000 látogató keresi fel a kastélyt.", "A kastélyban 10 kiállítóterem található, összesen 800 négyzetméteren."],
       ro: ["Castelul Valeč se află la o altitudine de 550 m deasupra mării.", "Stucaturile fațadei au fost realizate de sculptorul italian Luigi Poggi.", "Sala de bal are o suprafață de 150 mp și fresce pe tavan.", "Parcul castelului include 15 specii de arbori exotici.", "Orangeria castelului adăpostește 30 de specii de plante subtropicale.", "Restaurarea castelului a costat 2 milioane de euro (2005-2010)."],
       en: ["Valeč Chateau was built on the site of a 14th-century Gothic fortress.", "The main hall features a fresco of 30 square meters by Wenzel Lorenz Reiner.", "The Chinese pavilion in the park dates to 1790 and is 6 meters tall.", "The chateau's cellars stretch for 50 meters and were used for wine storage.", "The estate includes 200 hectares of forest and farmland.", "In the 19th century, the chateau hosted Emperor Franz Joseph I in 1841."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-valec-chateau-history-v2.webp"},
   {
     id: "czechrepublic-pribram-sve-hora-history-v2",
     type: "church",
@@ -1168,8 +1163,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A kegytemplom hossza 60 méter, szélessége 25 méter.", "A 110 lépcsőfok 1700-ban épült, 22 méter magas.", "Az ezüst oltárt 1740-ben készítette Jan Brokoff.", "A legnagyobb harang súlya 800 kg.", "A bazilikát 1978-ban nemzeti kulturális emlékké nyilvánították.", "A kápolnákban 14 stáció található a keresztút ábrázolásával."],
       ro: ["Bazilica Svatá Hora a fost declarată monument cultural național în 1958.", "Altarul de argint conține 200 kg de argint masiv.", "Cupola bazilicii are un diametru de 15 metri.", "În complex există 8 capele laterale.", "Anual se organizează 10 pelerinaje majore.", "Scara monumentală are 110 trepte și o lățime de 8 metri."],
       en: ["The Svatá Hora basilica is 58 m long, 22 m wide, and 30 m high.", "The construction began in 1670 and was completed in 1700.", "The site features a 17th-century treasury with over 200 ex-votos.", "The hill stands at 445 m above sea level.", "The basilica's three bells are named Maria, Josef, and Václav.", "The first recorded pilgrimage to Svatá Hora was in 1630."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-pribram-sve-hora-history-v2.webp"},
   {
     id: "czechrepublic-hnev-castle-history-v2",
     type: "castle",
@@ -1200,8 +1194,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A vár területe 2 hektár.", "A toronyból 12 km-es látótávolság nyílik.", "A vár 1889-es felújítását a Német Hegyi Egyesület végezte.", "A várban 5 kiállítóterem található.", "A legmagasabb szinten egy 120 fős étterem kapott helyet.", "A vár alatti szénbányászat 1999-ben szűnt meg."],
       ro: ["Castelul Hněvín are o suprafață de 0,5 ha.", "Turnul castelului are 159 de trepte.", "Castelul a fost reconstruit în 1889 după planurile arhitectului Friedrich von Schmidt.", "Lacul artificial din apropiere are 600 de hectare.", "Altitudinea dealului este de 347 m deasupra mării.", "În castel se organizează anual 20 de evenimente culturale."],
       en: ["Hněvín Castle was first mentioned in 1253, but archeological evidence suggests earlier settlement.", "The castle's tower offers views of the distant Děčín Castle, 30 km away.", "The lake near the castle, formed by flooding a mine pit, is 250 m deep.", "The castle has been used as a filming location for several movies since 2000.", "The stone used in the original castle was local basalt from the hill.", "The restoration in 1889 cost 200,000 Austrian guldens."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-hnev-castle-history-v2.webp"},
   {
     id: "czechrepublic-kunetice-castle-history-v2",
     type: "castle",
@@ -1232,8 +1225,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A vár udvarának átmérője 25 méter.", "A kvarcitbánya 1870-es években nyílt meg, és 3 millió tonna kvarcitot termelt ki.", "A várat 1645-ben elfoglalták a svédek, és 3 évig tartották.", "A vár 1990-től látogatható a nyilvánosság számára.", "A kilátóból 20 km-es körzetben lehet ellátni.", "A várban 12 termet rendeztek be múzeumi célokra."],
       ro: ["Dealul Kunětická hora are o suprafață de 40 ha.", "Turnul castelului are 20 m înălțime.", "Castelul a fost construit pe locul unei fortificații mai vechi din secolul XIII.", "Intrarea principală are o poartă gotică cu heraldică.", "În castel există un tunel de evacuare lung de 50 m.", "Anual, castelul este vizitat de 70.000 de persoane."],
       en: ["Kunětická hora Castle stands at 315 m above sea level.", "The hill's quartzite is over 600 million years old.", "The castle's well is 45 m deep and was dug in the 15th century.", "The castle was damaged by fire in 1715 and was a ruin for 150 years.", "The restoration in the 1880s cost 50,000 Czech crowns.", "The castle's armory collection includes over 200 pieces from the 15th-17th centuries."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-kunetice-castle-history-v2.webp"},
   {
     id: "czechrepublic-veve-castle-history-v2",
     type: "castle",
@@ -1264,8 +1256,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A vár területe 1,5 hektár.", "A legmagasabb torony 25 méter.", "A vár 1469-ben ellenállt Mátyás király ostromának.", "A híd hossza 20 méter, és 1550-ben épült.", "A várban látható egy 12 méteres szökőkút.", "Éves látogatottság meghaladja a 100 000 főt."],
       ro: ["Castelul are 8 turnuri de apărare.", "Zidurile au o grosime medie de 2 m.", "Capela castelului datează din secolul XIII.", "Altitudinea promontoriului este de 290 m.", "Suprafața construită este de 3.000 mp.", "Castelul a fost restaurat între 1990 și 2005 cu un cost de 10 milioane de euro."],
       en: ["Veveří Castle was first mentioned in 1225 in written records.", "The castle's highest tower is 30 m tall.", "The castle has a total of 48 rooms.", "The reservoir below the castle was created in 1940 and has a surface of 250 ha.", "The castle's wine cellar can hold 30,000 liters.", "Annual visitors exceed 120,000."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-veve-castle-history-v2.webp"},
   {
     id: "czechrepublic-kokorin-castle-history-v2",
     type: "castle",
@@ -1296,8 +1287,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A vár területe 0,8 hektár.", "A torony magassága 18 méter.", "A vár 1824 és 1830 között épült újjá.", "A várkút mélysége 8 méter, sziklába vésve.", "A Kokořínsko természetvédelmi terület 276 négyzetkilométer.", "A várban 10 kiállítóterem található."],
       ro: ["Turnul castelului are 18 m înălțime și 4 nivele.", "Castelul are 15 camere, dintre care 3 sunt deschise publicului.", "Construcția originală a costat 2.000 de groși de argint.", "Stânca pe care este construit castelul are o înălțime de 30 m.", "Parcul natural Kokořínsko are 270 km² și adăpostește 200 de peșteri.", "Anual, castelul organizează 10 evenimente tematice."],
       en: ["Kokořín Castle was built between 1318 and 1320.", "The castle's tower is 18 m high and offers a view of the surrounding landscape.", "The castle's walls are up to 1.8 m thick at the base.", "The castle has a 2-hectare park with old trees.", "In the 19th century reconstruction, 100 workers were employed.", "The castle was declared a national cultural monument in 1958."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-kokorin-castle-history-v2.webp"},
   {
     id: "czechrepublic-selmburk-castle-history-v2",
     type: "ruins",
@@ -1328,8 +1318,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["1318-as első említés", "26 méteres toronymagasság", "16. századi kiépítés", "17. századi pusztulás"],
       ro: ["1318 prima atestare", "26 metri înălțime turn", "Sec. XVI renovare", "Sec. XVII abandonat"],
       en: ["1318 first mention", "26-meter tower height", "16th-century expansion", "17th-century abandonment"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-selmburk-castle-history-v2.webp"},
   {
     id: "czechrepublic-drahlov-fortress-history-v2",
     type: "landmark",
@@ -1360,8 +1349,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Az erőd pincerendszere 2 km hosszú.", "A földszinten 4,5 méter magas mennyezet található.", "A svéd ostrom 1645-ben 3 hétig tartott.", "Az erőd államosítására 1920-ban került sor.", "A múzeum 2005-ben nyílt meg.", "A kiállítási terület 500 m²."],
       ro: ["Turnul cetății are 28 m înălțime și 8 m diametru.", "Cetatea are 6 bastioane de apărare.", "Șanțul de apărare are 10 m lățime.", "Suprafața interioară a incintei este de 1,2 ha.", "Restaurarea a costat 1,5 milioane de euro (1999-2005).", "Cetatea a fost declarată monument istoric în 1958."],
       en: ["Drahlov Fortress was first documented in 1447.", "The restored tower has five floors, with a total of 100 steps.", "The moat is 8 m wide and 4 m deep.", "The fortress houses a collection of medieval weapons including 50 swords.", "Annual visitors to the fortress are around 30,000.", "The fortress is located at an altitude of 220 m."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-drahlov-fortress-history-v2.webp"},
   {
     id: "czechrepublic-pribram-mines-history-v2",
     type: "mine",
@@ -1392,8 +1380,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A legmélyebb akna 1 600 m mély.", "Az ezüsttermelés 1550 körül 3 tonna volt évente.", "Az uránbánya 1964-ben 800 tonna uránt termelt.", "A bányák területe 15 km².", "A bányamúzeum 1950-ben nyílt meg.", "A föld alatti hőmérséklet 35 °C."],
       ro: ["Mina Vojtěch producea 1.000 de tone de uraniu pe an în anii 1980.", "Lungimea totală a galeriilor este de 300 km.", "Adâncimea maximă atinsă este de 1.600 m.", "Muzeul are o colecție de 150 de mașini miniere istorice.", "Prima mențiune a mineritului datează din 1334.", "În 1860, aici s-a extras cel mai mare bulgăre de argint nativ (500 kg)."],
       en: ["The Příbram mines were operational from the 13th century until 1990.", "The total length of underground tunnels exceeds 200 km.", "The deepest shaft, called Jarošov, is 1,600 m deep.", "The mines produced approximately 100,000 tons of uranium ore.", "The Mining Museum Příbram covers 4 hectares of exhibition space.", "In the 19th century, Příbram was the largest silver producer in Europe."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-pribram-mines-history-v2.webp"},
   {
     id: "czechrepublic-kralov-castle-history-v2",
     type: "castle",
@@ -1424,8 +1411,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A kastély 1360 és 1370 között épült.", "A torony nyolcszögletű, 15 méter átmérővel.", "A kastély 20 szobával rendelkezik.", "A freskók 1580-ból származnak.", "A kertben 50 fajta rózsa található.", "A szálloda 5 csillagos, 40 szobával."],
       ro: ["Castelul are un turn octogonal de 25 m înălțime.", "Suprafața construită este de 1.000 mp.", "Castelul a fost naționalizat în 1948.", "Restaurarea s-a încheiat în 2015, costând 3 milioane de euro.", "Capela castelului are un altar baroc din 1720.", "În parc cresc 200 de copaci bătrâni."],
       en: ["Králův Dvůr Castle was built between 1360 and 1370.", "The castle's octagonal tower is 25 m high.", "The castle has a 2-hectare English park with a small lake.", "During the 16th century, the castle housed a mint producing silver coins.", "The castle's wine cellar is 30 m long and dates from the 14th century.", "Annual visitors: around 40,000."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-kralov-castle-history-v2.webp"},
   {
     id: "czechrepublic-hradiste-u-znojma-history-v2",
     type: "ruins",
@@ -1456,8 +1442,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A terület nagysága eléri a 20 hektárt.", "A 8. és 10. század között volt aktív.", "A Dyje folyó feletti magaslaton épült.", "A Nagymorva Birodalom jelentős központja.", "Többszörös védművekkel erősítették meg.", "A 11. századra elvesztette jelentőségét."],
       ro: ["Se întinde pe o suprafață de 20 de hectare.", "A fost activă între secolele VIII și X.", "Domină valea râului Thaya (Dyje).", "Centru administrativ al Moraviei Mari.", "Descoperiri arheologice slave bogate.", "Locul actualei mănăstiri Sfântul Anton."],
       en: ["Encompassed an area of 20 hectares.", "Flourished between the 8th and 10th centuries.", "Overlooks the meandering Thaya river.", "Key stronghold of the Great Moravian Empire.", "Excavations revealed extensive Slavic burials.", "Site later occupied by a medieval priory."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-hradiste-u-znojma-history-v2.webp"},
   {
     id: "czechrepublic-zruc-castle-history-v2",
     type: "castle",
@@ -1488,8 +1473,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A kastély 13. században épült, első írásos említése 1320.", "A torony 32 méter magas, 100 lépcsőfok.", "A Kolowrat család 1620-tól 1945-ig birtokolta.", "A kastélyban 12 kiállítóterem található.", "A parkban 100 éves tölgyfák állnak.", "A kastély 1990-től látogatható."],
       ro: ["Turnul castelului are 32 m înălțime.", "Castelul are 15 camere deschise publicului.", "Parcul dendrologic are o suprafață de 3 ha.", "Capela castelului datează din 1720.", "Anual, castelul este vizitat de 50.000 de turiști.", "Râul Sázava are o lungime de 225 km în apropiere."],
       en: ["Zruč nad Sázavou Castle was first mentioned in 1320.", "The castle's tower stands at 32 m and has a diameter of 8 m.", "The castle has a collection of 2,000 archaeological objects.", "The clock on the tower was installed in 1840.", "The castle's well is 45 m deep, dug in the 16th century.", "The park features a pond of 0.5 ha."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-zruc-castle-history-v2.webp"},
   {
     id: "czechrepublic-bilina-castle-history-v2",
     type: "castle",
@@ -1520,8 +1504,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A kastély 1670 és 1680 között épült.", "A park 5 hektáros, 3 szökőkúttal.", "A patinás könyvtár 10 000 kötetet számlál.", "A porcelán kollekció 500 darabos.", "A kastély 2000-ben került vissza a Lobkowitz családhoz.", "A kastély területén egy 18. századi gyógyszertár is található."],
       ro: ["Castelul are o suprafață construită de 2.500 mp.", "Parcul are 5 ha, cu un lac de 0,5 ha.", "Castelul adăpostește o colecție de 200 de tablouri.", "Fațada principală are 50 m lungime.", "Restaurarea (1995-2000) a costat 2 milioane de euro.", "Anual, castelul primește 30.000 de vizitatori."],
       en: ["Bílina Chateau was built from 1670 to 1675.", "The chateau has 40 rooms, of which 10 are open to the public.", "The park features 5 marble fountains from Italy.", "The chateau's collection includes 200 paintings mostly from the 17th century.", "The library holds 12,000 books, including 100 rare manuscripts.", "The chateau stands at an altitude of 200 m."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-bilina-castle-history-v2.webp"},
   {
     id: "czechrepublic-cesky-sternberk-history-v2",
     type: "castle",
@@ -1552,8 +1535,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A vár 1241 és 1260 között épült.", "A torony magassága 32 méter.", "A Sternberg család birtoklása 750 éve folyamatos.", "A fegyvergyűjtemény 300 darabos.", "A várban 70 szoba található.", "A vár 1992-ben került vissza a családhoz."],
       ro: ["Castelul are un turn de 32 m înălțime.", "Zidurile groase de 2 m au fost construite din piatră locală.", "Colecția de arme include 300 de piese din secolele XIV-XIX.", "Capela castelului datează din secolul al XIV-lea.", "Castelul are o suprafață de 3.500 mp.", "Anual, este vizitat de 150.000 de turiști."],
       en: ["Český Šternberk Castle was founded in 1241 by Zdeslav of Sternberg.", "The tower is 32 m high and has walls up to 3 m thick at the base.", "The castle features a 2-hectare park with a botanical collection.", "There are 70 rooms in total, including a large knight's hall.", "The castle's armory contains 300 weapons, including a 16th-century cannon.", "The castle has been used as a filming location for over 20 movies."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-cesky-sternberk-history-v2.webp"},
   {
     id: "czechrepublic-zbiroh-castle-history-v2",
     type: "castle",
@@ -1584,8 +1566,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A kastély 1300 előtt épült.", "A torony 40 méter magas.", "A pincék 2 km hosszúak.", "A kastély 60 szobából áll.", "Rudolf császár 1590-ben látogatott ide.", "A szálloda csillagos, 4 csillagos."],
       ro: ["Castelul are 60 de camere.", "Turnul castelului are 40 m înălțime.", "Subsolurile se întind pe 1,8 km.", "Castelul a fost naționalizat în 1948.", "Restaurarea a costat 5 milioane de euro.", "Anual, castelul găzduiește 10 evenimente medievale."],
       en: ["Zbiroh Castle was first recorded in 1325.", "The castle tower is 40 m tall with 150 steps.", "The castle's cellars total 2 km in length and were used for wine storage.", "Emperor Rudolf II stayed at the castle in 1589 and 1598.", "The castle has a 3-hectare park with a pond.", "The hotel has a capacity of 60 guests."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-zbiroh-castle-history-v2.webp"},
   {
     id: "czechrepublic-rabi-castle-history-v2",
     type: "ruins",
@@ -1616,8 +1597,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Csehország legnagyobb várromja.", "Építése a 14. század elején kezdődött.", "A komplexum teljes hossza 130 méter.", "1421-ben a husziták ostromolták meg.", "Központi lakótornya 26 méter magas.", "Jan Žižka itt vakult meg teljesen 1421-ben."],
       ro: ["Cea mai mare ruină de castel din Boemia.", "Construit la începutul secolului al XIV-lea.", "Lungimea totală depășește 130 de metri.", "Asediat de armatele husite în 1420 și 1421.", "Turnul central are o înălțime de 26 de metri.", "Liderul husit Jan Žižka a orbit aici în 1421."],
       en: ["Largest castle ruin in the Bohemia region.", "Construction began in the early 14th century.", "The fortress perimeter extends over 130 meters.", "Besieged by Hussite forces in 1420 and 1421.", "Features a 26-meter-tall residential donjon.", "Hussite commander Jan Žižka lost his remaining eye here in 1421."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-rabi-castle-history-v2.webp"},
   {
     id: "czechrepublic-kralov-dvur-battlefield-history-v2",
     type: "battlefield",
@@ -1648,8 +1628,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["1866. június 29. dátum", "600 fős osztrák veszteség", "Porosz 2. hadsereg", "Elbai híd elfoglalása"],
       ro: ["29 iunie 1866 data luptei", "600 pierderi austriece", "Armata a 2-a prusacă", "Podul peste râul Elba"],
       en: ["June 29, 1866 date", "600 Austrian casualties", "Prussian 2nd Army", "Elbe bridge capture"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-kralov-dvur-battlefield-history-v2.webp"},
   {
     id: "czechrepublic-ostroh-castle-history-v2",
     type: "castle",
@@ -1680,8 +1659,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A kastély 1550 és 1570 között épült.", "A belső udvar 40 árkádos boltívvel rendelkezik.", "A kastély 50 szobás.", "A szoborpark 10 szoborral büszkélkedhet.", "A kastély 2005-ben újult meg.", "A borospince 1000 palack kapacitású."],
       ro: ["Castelul are 50 de camere.", "Curtea interioară are 40 de arcade.", "Capela castelului datează din 1720.", "Parcul are o suprafață de 2,5 ha.", "Castelul a fost naționalizat în 1945.", "Hotelul castelului are 3 stele și 25 de camere."],
       en: ["Ostroh Chateau was built in 1568.", "The arcaded courtyard measures 30 m by 20 m.", "The chateau has 50 rooms, of which 10 are guest rooms.", "The park includes a labyrinth made of hedges.", "The wine cellar holds 5,000 liters of wine.", "Annual visitors to the chateau: 20,000."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-ostroh-castle-history-v2.webp"},
   {
     id: "czechrepublic-buchlovice-palace-history-v2",
     type: "palace",
@@ -1712,8 +1690,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A kastély 1704 és 1710 között épült.", "A park 8 hektáros, tóval és sziklakerttel.", "A kastély 30 szobájából 10 látogatható.", "A festménygyűjtemény 200 darabos.", "A kastély 1945-ben lett állami tulajdon.", "Évente 40 000 látogató."],
       ro: ["Castelul are 30 de încăperi.", "Parcul are 8 ha și include un lac de 0,5 ha.", "Castelul a fost construit în 1708.", "Colecția de tapiserii cuprinde 30 de piese.", "Sera castelului are 200 mp.", "Altitudinea castelului este de 280 m."],
       en: ["Buchlovice Chateau was built from 1697 to 1710.", "The chateau park is 8 ha, with a 1 ha pond.", "The chateau has 30 rooms, 12 of which are open to the public.", "The rock garden features 50 types of alpine plants.", "The chateau was used as a film set for the 1996 movie 'The Magic of the Golden Dragon'.", "Annual attendance: 50,000."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-buchlovice-palace-history-v2.webp"},
   {
     id: "czechrepublic-hustopece-church-history-v2",
     type: "church",
@@ -1744,8 +1721,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A templom 1715 és 1720 között épült.", "A torony 52 méter magas, 150 lépcsőfok.", "A főoltár 1725-ből származik.", "Az orgona 1780-ban készült.", "A templom hossza 30 méter.", "A mandulafaültetvények 50 hektáron terülnek el."],
       ro: ["Turnul bisericii are 52 m înălțime.", "Lungimea bisericii este de 30 m.", "Orga istorică are 1.200 de tuburi.", "Altarul principal este din marmură de 2 tone.", "Biserica a fost restaurată în 1995, costând 500.000 de euro.", "Hustopeče are 3.000 de locuitori."],
       en: ["The church tower is 52 m high with a viewing platform at 40 m.", "The church was built from 1715 to 1725.", "The main altar painting measures 5 m by 3 m.", "The church's organ has 25 stops.", "The church has a capacity of 450 people.", "The town of Hustopeče, with 3,500 inhabitants, is the center of Czech almond cultivation."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-hustopece-church-history-v2.webp"},
   {
     id: "czechrepublic-drinov-fortress-history-v2",
     type: "landmark",
@@ -1776,8 +1752,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Az erőd 1436-ban szerepel először írásos emlékben.", "A domb magassága 15 m.", "A svéd támadás 1645-ben történt.", "A romok 0,5 hektáron terülnek el.", "A kőbánya 1850-ig működött.", "A terület 1980 óta védett."],
       ro: ["Fortăreața a fost construită în 1420.", "Ruinele se întind pe 0,5 ha.", "Turnul rămas are 10 m înălțime.", "Zidurile au 1,5 m grosime.", "Asediul suedez a durat 14 zile în 1645.", "Situl arheologic a fost declarat monument în 1958."],
       en: ["Dřínov Fortress was first mentioned in 1436.", "The ruin covers an area of 0.5 ha.", "The remaining tower stands at 12 m high.", "The walls are up to 2 m thick in places.", "The fortress was abandoned after a fire in 1690.", "The site is now a nature reserve covering 5 ha."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-drinov-fortress-history-v2.webp"},
   {
     id: "czechrepublic-kolinec-castle-history-v2",
     type: "castle",
@@ -1808,8 +1783,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["A kastély 1350 körül épült.", "A reneszánsz átépítés 1560-ban történt.", "A múzeum 10 teremből áll.", "A hársfa 300 éves, 20 méter magas.", "A kastélyban 25 szoba található.", "A park 1,5 hektáros."],
       ro: ["Castelul are 25 de camere.", "Turnul cu ceas are 20 m înălțime.", "Capela castelului datează din 1560.", "Colecția de porțelan cuprinde 500 de piese.", "Parcul are 1,5 ha și un iaz de 0,3 ha.", "Castelul a fost restaurat în 2010 cu sprijinul UE de 1 milion de euro."],
       en: ["Kolinec Castle was built around 1350.", "The Renaissance reconstruction was completed in 1570.", "The castle tower offers a view of the Šumava Mountains.", "The museum collection includes 2,000 ethnographic objects.", "The pond in the park is 0.3 ha and used for fish farming.", "Annual visitors: 15,000."],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-kolinec-castle-history-v2.webp"},
   {
     id: "czechrepublic-tabor-fortifications-history-v2",
     type: "landmark",
@@ -1840,8 +1814,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Építés kezdete: 1420", "Falhossz: kb. 1,5 km", "Bástyák száma: 18", "Torony magassága: 40 m", "Kapuk száma: 3", "Falvastagság: akár 3 m"],
       ro: ["Anul începerii construcției: 1420", "Lungimea zidurilor: aprox. 1,5 km", "Număr de bastioane: 18", "Înălțimea turnului: 40 m", "Număr de porți: 3", "Grosimea zidurilor: până la 3 m"],
       en: ["Construction began: 1420", "Wall length: approx. 1.5 km", "Number of bastions: 18", "Tower height: 40 m", "Number of city gates: 3", "Wall thickness: up to 3 m"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-tabor-fortifications-history-v2.webp"},
   {
     id: "czechrepublic-bechyne-castle-history-v2",
     type: "castle",
@@ -1872,8 +1845,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Első építés: 13. század", "Reneszánsz átépítés: 16. század", "Árkádos szintek száma: 3", "Magasság a folyó felett: kb. 30 m", "Lovagterem mérete: 200 m²", "Múzeum megnyitásának éve: 1954"],
       ro: ["Construcție inițială: secolul al XIII-lea", "Reconstrucție renascentistă: secolul al XVI-lea", "Număr de niveluri cu arcade: 3", "Înălțime deasupra râului: aprox. 30 m", "Dimensiunea sălii cavalerilor: 200 m²", "Anul deschiderii muzeului: 1954"],
       en: ["Original construction: 13th century", "Renaissance reconstruction: 16th century", "Number of arcade floors: 3", "Height above river: approx. 30 m", "Knight's Hall size: 200 m²", "Year museum opened: 1954"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-bechyne-castle-history-v2.webp"},
   {
     id: "czechrepublic-svihov-fortress-history-v2",
     type: "landmark",
@@ -1904,8 +1876,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Építés éve: 14. század", "Tó mérete: 6 hektár", "Védőtorony magassága: 36 m", "Falvastagság: akár 2,5 m", "Épületek száma: 12", "Helyreállítás befejezése: 1979"],
       ro: ["Anul construcției: secolul al XIV-lea", "Dimensiunea iazului: 6 hectare", "Înălțimea turnului de apărare: 36 m", "Grosimea zidurilor: până la 2,5 m", "Număr de clădiri: 12", "Restaurare finalizată: 1979"],
       en: ["Year built: 14th century", "Pond size: 6 hectares", "Donjon height: 36 m", "Wall thickness: up to 2.5 m", "Number of buildings: 12", "Restoration completed: 1979"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-svihov-fortress-history-v2.webp"},
   {
     id: "czechrepublic-trebon-fortifications-history-v2",
     type: "landmark",
@@ -1936,8 +1907,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Építési idő: 14. század", "Városkapuk száma: 2", "Tornyok száma: 5", "Fal hossza: kb. 1 km", "Fal magassága: 8 m", "Védettség: 1958 óta műemlék"],
       ro: ["Perioada de construcție: secolul al XIV-lea", "Număr de porți ale orașului: 2", "Număr de turnuri: 5", "Lungimea zidului: aprox. 1 km", "Înălțimea zidului: 8 m", "Statut de protecție: monument cultural din 1958"],
       en: ["Construction period: 14th century", "Number of city gates: 2", "Number of towers: 5", "Wall length: approx. 1 km", "Wall height: 8 m", "Protected status: cultural monument since 1958"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-trebon-fortifications-history-v2.webp"},
   {
     id: "czechrepublic-vranov-castle-history-v2",
     type: "castle",
@@ -1968,8 +1938,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Első építés: 13. század", "Barokk átépítés: 17. század", "Szikla magassága: 60 m", "Díszterem mérete: 400 m²", "Porcelángyűjtemény: több mint 1000 darab", "Múzeum megnyitásának éve: 1953"],
       ro: ["Construcție inițială: secolul al XIII-lea", "Reconstrucție barocă: secolul al XVII-lea", "Înălțimea stâncii: 60 m", "Dimensiunea sălii de festivități: 400 m²", "Colecție de porțelanuri: peste 1000 de piese", "Anul deschiderii muzeului: 1953"],
       en: ["Original construction: 13th century", "Baroque reconstruction: 17th century", "Rock height: 60 m", "Festival hall size: 400 m²", "Porcelain collection: over 1000 pieces", "Year museum opened: 1953"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-vranov-castle-history-v2.webp"},
   {
     id: "czechrepublic-cheb-fortifications-history-v2",
     type: "landmark",
@@ -2000,8 +1969,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Legrégebbi részek: 12. század", "Fal hossza: kb. 1,8 km", "Fekete Torony magassága: 52 m", "Védőtornyok száma: 20", "Városkapuk száma: 4", "Védettség: nemzeti kulturális emlék"],
       ro: ["Cele mai vechi părți: secolul al XII-lea", "Lungimea zidului: aprox. 1,8 km", "Înălțimea Turnului Negru: 52 m", "Număr de turnuri de apărare: 20", "Număr de porți ale orașului: 4", "Statut de protecție: monument cultural național"],
       en: ["Oldest parts: 12th century", "Wall length: approx. 1.8 km", "Height of Black Tower: 52 m", "Number of defensive towers: 20", "Number of city gates: 4", "Protected status: National Cultural Monument"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-cheb-fortifications-history-v2.webp"},
   {
     id: "czechrepublic-zbraslav-monastery-history-v2",
     type: "church",
@@ -2032,8 +2000,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Alapítás éve: 1292", "Alapító: II. Vencel király", "Templom befejezése: 14. század", "Barokk átépítés: 18. század", "Kolostor feloszlatása: 1785", "Műtárgyak száma a gyűjteményben: több mint 2000"],
       ro: ["Anul fondării: 1292", "Fondator: regele Václav al II-lea", "Finalizarea bisericii: secolul al XIV-lea", "Reconstrucție barocă: secolul al XVIII-lea", "Desființarea mănăstirii: 1785", "Număr de opere de artă în colecție: peste 2000"],
       en: ["Year founded: 1292", "Founder: King Wenceslaus II", "Church completion: 14th century", "Baroque reconstruction: 18th century", "Monastery dissolved: 1785", "Number of artworks in collection: over 2000"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-zbraslav-monastery-history-v2.webp"},
   {
     id: "czechrepublic-svihov-palace-history-v2",
     type: "palace",
@@ -2064,8 +2031,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Építés éve: 16. század", "Árkádívek száma: 18", "Kastélypark mérete: 5 hektár", "Felújítás befejezése: 1998", "Kiállított termek száma: 10", "Torony magassága: 30 m"],
       ro: ["Anul construcției: secolul al XVI-lea", "Număr de arcade: 18", "Dimensiunea parcului castelului: 5 hectare", "Restaurare finalizată: 1998", "Număr de camere expuse: 10", "Înălțimea turnului castelului: 30 m"],
       en: ["Year built: 16th century", "Number of arcade arches: 18", "Chateau park size: 5 hectares", "Restoration completed: 1998", "Number of exhibited rooms: 10", "Chateau tower height: 30 m"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-svihov-palace-history-v2.webp"},
   {
     id: "czechrepublic-prague-fortifications-history-v2",
     type: "landmark",
@@ -2128,8 +2094,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Építés éve: 16. század", "Belső udvar mérete: 200 m²", "Sgraffito mezők száma: 12", "Sörfőzde használat: 1710-től", "Felújítás befejezése: 1985", "Kiállítótermek száma: 8"],
       ro: ["Anul construcției: secolul al XVI-lea", "Dimensiunea curții interioare: 200 m²", "Număr de panouri sgraffito: 12", "Folosirea ca berărie: din 1710", "Restaurare finalizată: 1985", "Număr de săli de expoziție: 8"],
       en: ["Year built: 16th century", "Inner courtyard size: 200 m²", "Number of sgraffito panels: 12", "Use as brewery: from 1710", "Restoration completed: 1985", "Number of exhibition rooms: 8"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-kralov-dvur-palace-history-v2.webp"},
   {
     id: "czechrepublic-plzen-fortifications-history-v2",
     type: "landmark",
@@ -2160,8 +2125,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Építési idő: 13. század", "Tornyok száma: 27", "Városkapuk száma: 3", "Fal hossza: kb. 2 km", "Fal magassága: 10 m", "Lebontás: 19. század"],
       ro: ["Perioada de construcție: secolul al XIII-lea", "Număr de turnuri: 27", "Număr de porți ale orașului: 3", "Lungimea zidului: aprox. 2 km", "Înălțimea zidului: 10 m", "Demolare: secolul al XIX-lea"],
       en: ["Construction period: 13th century", "Number of towers: 27", "Number of city gates: 3", "Wall length: approx. 2 km", "Wall height: 10 m", "Demolition: 19th century"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-plzen-fortifications-history-v2.webp"},
   {
     id: "czechrepublic-znojmo-fortifications-history-v2",
     type: "landmark",
@@ -2224,8 +2188,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Építési idő: 13. század", "Bővítések: 14. és 16. század", "Fal magassága: 7 m", "Zderad-kapu magassága: 15 m", "Kapuk száma: 3 (eredetileg)", "Fal mai hossza: 300 m"],
       ro: ["Perioada de construcție: secolul al XIII-lea", "Extinderi: secolele XIV și XVI", "Înălțimea zidului: 7 m", "Înălțimea Porții Zderad: 15 m", "Număr de porți: 3 (inițial)", "Lungimea actuală a zidului: 300 m"],
       en: ["Construction period: 13th century", "Expansions: 14th and 16th centuries", "Wall height: 7 m", "Height of Zderad Gate: 15 m", "Number of gates: 3 (originally)", "Present wall length: 300 m"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-kromeriz-fortifications-history-v2.webp"},
   {
     id: "czechrepublic-litomerice-fortifications-history-v2",
     type: "landmark",
@@ -2256,8 +2219,7 @@ export const czechrepublicHistoryV2: POI[] = [
       hu: ["Építési idő: 13. század", "Kapuk száma: 4", "Prágai kapu magassága: 18 m", "Fal szélessége: 1,5 m", "Fal hossza: kb. 1 km", "Védettség: 1962 óta műemlék"],
       ro: ["Perioada de construcție: secolul al XIII-lea", "Număr de porți: 4", "Înălțimea Porții Praga: 18 m", "Lățimea zidului: 1,5 m", "Lungimea zidului: aprox. 1 km", "Statut de protecție: monument cultural din 1962"],
       en: ["Construction period: 13th century", "Number of gates: 4", "Height of Prague Gate: 18 m", "Wall width: 1.5 m", "Wall length: approx. 1 km", "Protected status: cultural monument since 1962"],
-    },
-  },
+    }, image: "/poi-images/czechrepublic-litomerice-fortifications-history-v2.webp"},
   {
     id: "czechrepublic-beroun-fortifications-history-v2",
     type: "landmark",

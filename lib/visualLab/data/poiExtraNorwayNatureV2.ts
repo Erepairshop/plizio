@@ -31,8 +31,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Alapítás éve: 1980", "Terület: 1.151 km²", "Legmagasabb csúcs: Galdhøpiggen (2.469 m)", "Második legmagasabb: Glittertind (2.465 m)", "Éves látogatók: kb. 300.000", "Júliusi átlaghőmérséklet: 7 °C"],
       ro: ["Anul înființării: 1980", "Suprafață: 1.151 km²", "Cel mai înalt vârf: Galdhøpiggen (2.469 m)", "Al doilea vârf: Glittertind (2.465 m)", "Vizitatori anuali: circa 300.000", "Temperatura medie iulie: 7°C"],
       en: ["Established: 1980", "Area: 1,151 km²", "Highest peak: Galdhøpiggen (2,469 m)", "Second highest: Glittertind (2,465 m)", "Annual visitors: ~300,000", "Average July temperature: 7°C"],
-    },
-  },
+    }, image: "/poi-images/norway-jotunheimen-mountains-nature-v2.webp"},
   {
     id: "norway-voringfossen-waterfall-nature-v2",
     type: "landmark",
@@ -63,8 +62,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Teljes magasság: 182 m", "Szabadesés: 145 m", "Átlagos vízhozam: 12 m³/s", "Legnagyobb tavaszi vízhozam: 150 m³/s", "Fő zuhatagok száma: 2", "Első turisztikai említés: 1820"],
       ro: ["Cădere totală: 182 m", "Cădere liberă: 145 m", "Debit mediu: 12 m³/s", "Debit maxim primăvara: 150 m³/s", "Număr de secțiuni principale: 2", "Prima mențiune turistică: 1820"],
       en: ["Total drop: 182 m", "Free fall: 145 m", "Average discharge: 12 m³/s", "Peak spring discharge: 150 m³/s", "Main sections: 2", "First tourist mention: 1820"],
-    },
-  },
+    }, image: "/poi-images/norway-voringfossen-waterfall-nature-v2.webp"},
   {
     id: "norway-hardangervidda-plateau-nature-v2",
     type: "park",
@@ -95,8 +93,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Terület: 8.000 km²", "Átlagmagasság: 1.100 m", "Rénszarvas állomány: akár 15.000 egyed", "Nemzeti park területe: 3.422 km²", "Legmagasabb pont: Sandfloegga (1.721 m)", "Vízerőművek száma: több mint 10"],
       ro: ["Suprafață: 8.000 km²", "Altitudine medie: 1.100 m", "Turma de reni: până la 15.000", "Suprafața parcului național: 3.422 km²", "Cel mai înalt punct: Sandfloegga (1.721 m)", "Număr hidrocentrale: peste 10"],
       en: ["Area: 8,000 km²", "Average elevation: 1,100 m", "Reindeer population: up to 15,000", "National park area: 3,422 km²", "Highest point: Sandfloegga (1,721 m)", "Hydroelectric plants: >10"],
-    },
-  },
+    }, image: "/poi-images/norway-hardangervidda-plateau-nature-v2.webp"},
   {
     id: "norway- Jostedalsbreen-glacier-nature-v2",
     type: "lake",
@@ -127,8 +124,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Terület: 487 km²", "Átlagos jégvastagság: 300 m", "Maximális jégvastagság: 600 m", "Nemzeti park alapításának éve: 1991", "Éves látogatók: több mint 600.000", "Területvesztés 1999 óta: kb. 10%"],
       ro: ["Suprafață: 487 km²", "Grosime medie a gheții: 300 m", "Grosime maximă: 600 m", "Anul înființării parcului național: 1991", "Vizitatori anuali: peste 600.000", "Pierdere de suprafață din 1999: ~10%"],
       en: ["Area: 487 km²", "Average ice thickness: 300 m", "Maximum ice thickness: 600 m", "National park established: 1991", "Annual visitors: >600,000", "Area loss since 1999: ~10%"],
-    },
-  },
+    }, image: "/poi-images/norway- Jostedalsbreen-glacier-nature-v2.webp"},
   {
     id: "norway-rondane-mountains-nature-v2",
     type: "mountain",
@@ -159,8 +155,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Alapítás éve: 1962", "Terület: 1.189 km²", "2.000 m feletti csúcsok száma: 10", "Legmagasabb csúcs: Rondeslottet (2.178 m)", "Júliusi átlaghőmérséklet: 9 °C", "Rondanestien hossza: 35 km"],
       ro: ["Anul înființării: 1962", "Suprafață: 1.189 km²", "Număr vârfuri peste 2.000 m: 10", "Cel mai înalt vârf: Rondeslottet (2.178 m)", "Temperatura medie iulie: 9°C", "Lungimea traseului Rondanestien: 35 km"],
       en: ["Established: 1962", "Area: 1,189 km²", "Peaks above 2,000 m: 10", "Highest peak: Rondeslottet (2,178 m)", "Average July temperature: 9°C", "Rondanestien trail length: 35 km"],
-    },
-  },
+    }, image: "/poi-images/norway-rondane-mountains-nature-v2.webp"},
   {
     id: "norway-femundsmarka-park-nature-v2",
     type: "park",
@@ -191,8 +186,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Alapítás éve: 1971", "Terület: 573 km²", "Femunden tó területe: 203 km²", "Legmagasabb pont: 900 m", "Júliusi átlaghőmérséklet: 12 °C", "Kajak útvonalak száma: több mint 10"],
       ro: ["Anul înființării: 1971", "Suprafață: 573 km²", "Suprafața lacului Femunden: 203 km²", "Altitudine maximă: 900 m", "Temperatura medie iulie: 12°C", "Trasee de canoe: peste 10"],
       en: ["Established: 1971", "Area: 573 km²", "Lake Femunden area: 203 km²", "Highest elevation: 900 m", "Average July temperature: 12°C", "Canoe routes: >10"],
-    },
-  },
+    }, image: "/poi-images/norway-femundsmarka-park-nature-v2.webp"},
   {
     id: "norway-saltfjellet-svartisen-park-nature-v2",
     type: "mountain",
@@ -223,8 +217,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Alapítás éve: 1989", "Terület: 2.109 km²", "Svartisen gleccser területe: 369 km²", "Legmagasabb pont: Ørfjellet (1.749 m)", "Gleccserágak száma: 2", "Északi-sarkkörön túli rész: kb. 50%"],
       ro: ["Anul înființării: 1989", "Suprafață: 2.109 km²", "Suprafața ghețarului Svartisen: 369 km²", "Altitudine maximă: Ørfjellet (1.749 m)", "Număr brațe glaciare: 2", "Porțiunea la nord de Cercul Polar: ~50%"],
       en: ["Established: 1989", "Area: 2,109 km²", "Svartisen glacier area: 369 km²", "Highest point: Ørfjellet (1,749 m)", "Glacier arms: 2", "Area north of Arctic Circle: ~50%"],
-    },
-  },
+    }, image: "/poi-images/norway-saltfjellet-svartisen-park-nature-v2.webp"},
   {
     id: "norway-børgefjell-park-nature-v2",
     type: "park",
@@ -255,8 +248,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Alapítás éve: 1963", "Terület: 1.447 km²", "Legmagasabb pont: Kvigtinden (1.699 m)", "Éves csapadék: 1.200 mm", "Utak száma: 0", "Rozsomák állomány: kb. 15 egyed"],
       ro: ["Anul înființării: 1963", "Suprafață: 1.447 km²", "Altitudine maximă: Kvigtinden (1.699 m)", "Precipitații anuale: 1.200 mm", "Drumuri: 0", "Populația de jder: circa 15"],
       en: ["Established: 1963", "Area: 1,447 km²", "Highest point: Kvigtinden (1,699 m)", "Annual precipitation: 1,200 mm", "Roads: 0", "Wolverine population: ~15"],
-    },
-  },
+    }, image: "/poi-images/norway-børgefjell-park-nature-v2.webp"},
   {
     id: "norway-reinheimen-park-nature-v2",
     type: "park",
@@ -287,8 +279,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Alapítás éve: 2006", "Terület: 1.969 km²", "Legmagasabb pont: Skarddalstind (2.048 m)", "Rénszarvas állomány: kb. 2.000", "Januári átlaghőmérséklet: -10 °C", "Júliusi átlaghőmérséklet: 8 °C"],
       ro: ["Anul înființării: 2006", "Suprafață: 1.969 km²", "Altitudine maximă: Skarddalstind (2.048 m)", "Populația de reni: circa 2.000", "Temperatura medie ianuarie: -10°C", "Temperatura medie iulie: 8°C"],
       en: ["Established: 2006", "Area: 1,969 km²", "Highest peak: Skarddalstind (2,048 m)", "Reindeer population: ~2,000", "Average January temperature: -10°C", "Average July temperature: 8°C"],
-    },
-  },
+    }, image: "/poi-images/norway-reinheimen-park-nature-v2.webp"},
   {
     id: "norway-breheimen-park-nature-v2",
     type: "park",
@@ -319,8 +310,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Alapítás éve: 2009", "Terület: 1.671 km²", "Legmagasabb pont: Hestbrepiggene (1.982 m)", "Fő gleccserek száma: 2", "Júliusi átlaghőmérséklet: 9 °C", "Túraútvonalak hossza: kb. 200 km"],
       ro: ["Anul înființării: 2009", "Suprafață: 1.671 km²", "Altitudine maximă: Hestbrepiggene (1.982 m)", "Număr de ghețari principali: 2", "Temperatura medie iulie: 9°C", "Lungimea traseelor: ~200 km"],
       en: ["Established: 2009", "Area: 1,671 km²", "Highest peak: Hestbrepiggene (1,982 m)", "Main glaciers: 2", "Average July temperature: 9°C", "Hiking trail length: ~200 km"],
-    },
-  },
+    }, image: "/poi-images/norway-breheimen-park-nature-v2.webp"},
   {
     id: "norway-sunndalsfjella-park-nature-v2",
     type: "mountain",
@@ -351,8 +341,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Alapítás éve: 2002", "Terület: 1.693 km²", "Legmagasabb pont: Snøhetta (2.286 m)", "Pézsmatulok állomány: kb. 300", "Betelepítés éve: 1947", "Januári átlaghőmérséklet: -10 °C"],
       ro: ["Anul înființării: 2002", "Suprafață: 1.693 km²", "Altitudine maximă: Snøhetta (2.286 m)", "Populația de boi mosc: circa 300", "Reintroducerea boilor mosc: 1947", "Temperatura medie ianuarie: -10°C"],
       en: ["Established: 2002", "Area: 1,693 km²", "Highest peak: Snøhetta (2,286 m)", "Muskox population: ~300", "Muskox reintroduction: 1947", "Average January temperature: -10°C"],
-    },
-  },
+    }, image: "/poi-images/norway-sunndalsfjella-park-nature-v2.webp"},
   {
     id: "norway-gutulia-park-nature-v2",
     type: "forest",
@@ -383,8 +372,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Terület: 23 km²", "Alapítás éve: 1968", "Legmagasabb pont: kb. 600 m tengerszint felett", "Legalacsonyabb pont: kb. 300 m", "Mohafajok száma: több mint 100", "Madárfajok száma: kb. 60"],
       ro: ["Suprafață: 23 km²", "Anul înființării: 1968", "Altitudine maximă: aproximativ 600 m", "Altitudine minimă: aproximativ 300 m", "Număr de specii de licheni: peste 200", "Populație de râs: 2-3 exemplare"],
       en: ["Area: 23 km²", "Year established: 1968", "Elevation range: 300–600 m", "Number of lichen species: over 200", "Number of moss species: over 100", "Key bird species: capercaillie (Tetrao urogallus)"],
-    },
-  },
+    }, image: "/poi-images/norway-gutulia-park-nature-v2.webp"},
   {
     id: "norway-folgefonna-park-nature-v2",
     type: "mountain",
@@ -415,8 +403,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Gleccser területe: 207 km²", "Park alapításának éve: 2005", "Legmagasabb pont: 1662 m (Déli Folgefonna csúcs)", "Jégvastagság: akár 400 m", "Vízerőművek száma, amelyeket táplál: 4", "Éves visszahúzódás: átlagosan 10-20 m 1990 óta"],
       ro: ["Suprafața ghețarului: 207 km²", "Anul înființării parcului: 2005", "Altitudine maximă: 1662 m (vârful Folgefonna de Sud)", "Grosimea gheții: până la 400 m", "Numărul de brațe principale ale ghețarului: 3", "Retragerea anuală: în medie 10-20 m începând cu 1990"],
       en: ["Glacier area: 207 km²", "Park established: 2005", "Highest point: 1,662 m (Søndre Folgefonna summit)", "Ice thickness: up to 400 m", "Number of main glacier arms: 3", "Average annual glacier retreat: 10–20 m since 1990"],
-    },
-  },
+    }, image: "/poi-images/norway-folgefonna-park-nature-v2.webp"},
   {
     id: "norway-rogaland-coastline-nature-v2",
     type: "landmark",
@@ -479,8 +466,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Hossz: 179 km", "Maximális mélység: 800 m", "Sørfjord ág hossza: 40 km", "Vøringsfossen magassága: 182 m", "Éves alma termelés a régióban: kb. 10 000 tonna", "A fjord körüli községek száma: 8"],
       ro: ["Lungime: 179 km", "Adâncime maximă: 800 m", "Lungimea brațului Sørfjord: 40 km", "Înălțimea cascadei Vøringsfossen: 182 m", "Producția anuală de mere în regiune: aprox. 10.000 tone", "Numărul de comune de-a lungul fiordului: 8"],
       en: ["Length: 179 km", "Maximum depth: 800 m", "Length of Sørfjord branch: 40 km", "Height of Vøringsfossen: 182 m", "Annual apple production in the region: approx. 10,000 tons", "Number of municipalities along the fjord: 8"],
-    },
-  },
+    }, image: "/poi-images/norway-hardangerfjord-nature-v2.webp"},
   {
     id: "norway-lunde-valley-nature-v2",
     type: "valley",
@@ -511,8 +497,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Völgy hossza: kb. 12 km", "Varden kilátó magassága: 450 m", "Éves csapadékmennyiség: 2000 mm", "Átlaghőmérséklet júliusban: 14 °C", "Lunde-tó területe: 1,2 km²", "Vízesések száma: több mint 10"],
       ro: ["Lungimea văii: aprox. 12 km", "Altitudinea punctului de belvedere Varden: 450 m", "Precipitații anuale: 2000 mm", "Temperatura medie în iulie: 14 °C", "Suprafața Lacului Lunde: 1,2 km²", "Numărul de cascade: peste 10"],
       en: ["Valley length: approx. 12 km", "Height of Varden viewpoint: 450 m", "Annual precipitation: 2,000 mm", "Average July temperature: 14 °C", "Area of Lake Lunde: 1.2 km²", "Number of waterfalls: over 10"],
-    },
-  },
+    }, image: "/poi-images/norway-lunde-valley-nature-v2.webp"},
   {
     id: "norway-skjervsfossen-waterfall-nature-v2",
     type: "landmark",
@@ -543,8 +528,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Teljes magasság: kb. 90 m", "Szélesség: 15 m", "Legmagasabb egyes zuhanás: 65 m", "Átlagos vízhozam nyáron: 5 m³/s", "Távolság a legközelebbi településtől (Skjervet): 3 km", "Parkolóhelyek száma: 20"],
       ro: ["Înălțime totală: aprox. 90 m", "Lățime: 15 m", "Cea mai înaltă treaptă: 65 m", "Debit mediu vara: 5 m³/s", "Distanța până la cea mai apropiată localitate (Skjervet): 3 km", "Număr locuri de parcare: 20"],
       en: ["Total height: approx. 90 m", "Width: 15 m", "Highest single drop: 65 m", "Average summer water flow: 5 m³/s", "Distance to nearest village (Skjervet): 3 km", "Parking spaces: 20"],
-    },
-  },
+    }, image: "/poi-images/norway-skjervsfossen-waterfall-nature-v2.webp"},
   {
     id: "norway-loen-valley-nature-v2",
     type: "valley",
@@ -575,8 +559,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Lovatnet mélysége: 157 m", "Oldevatnet mélysége: 108 m", "Loen Skylift magassága: 1011 m", "Skåla csúcsának magassága: 1848 m", "Völgy hossza: kb. 15 km", "Éves epertermelés Bévorban: 50 tonna"],
       ro: ["Adâncimea lacului Lovatnet: 157 m", "Adâncimea lacului Oldevatnet: 108 m", "Altitudinea Loen Skylift: 1011 m", "Înălțimea vârfului Skåla: 1848 m", "Lungimea văii: aprox. 15 km", "Producția anuală de căpșuni în Bévor: 50 tone"],
       en: ["Depth of Lovatnet: 157 m", "Depth of Oldevatnet: 108 m", "Height of Loen Skylift: 1,011 m", "Height of Skåla peak: 1,848 m", "Valley length: approx. 15 km", "Annual strawberry production in Bévor: 50 tons"],
-    },
-  },
+    }, image: "/poi-images/norway-loen-valley-nature-v2.webp"},
   {
     id: "norway-varanger-peninsula-nature-v2",
     type: "park",
@@ -607,8 +590,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Félsziget területe: kb. 3200 km²", "Partvonal hossza: kb. 200 km", "Legmagasabb pont: 420 m (Skipskjølen)", "Tavak száma: több mint 1000", "Lundák száma: kb. 10 000 fészkelő pár", "Községek száma: 2 (Vardø, Vadsø)"],
       ro: ["Suprafața peninsulei: aprox. 3.200 km²", "Lungimea liniei de coastă: aproximativ 200 km", "Altitudine maximă: 420 m (Skipskjølen)", "Numărul de lacuri: peste 1.000", "Populația de papagali de mare: aprox. 10.000 de perechi cuibăritoare", "Numărul de comune: 2 (Vardø, Vadsø)"],
       en: ["Peninsula area: approx. 3,200 km²", "Coastline length: about 200 km", "Highest point: 420 m (Skipskjølen)", "Number of lakes: over 1,000", "Puffin population: approx. 10,000 breeding pairs", "Number of municipalities: 2 (Vardø, Vadsø)"],
-    },
-  },
+    }, image: "/poi-images/norway-varanger-peninsula-nature-v2.webp"},
   {
     id: "norway-senja-island-nature-v2",
     type: "island",
@@ -639,8 +621,7 @@ export const norwayNatureV2: POI[] = [
       hu: ["Terület: 1590 km²", "Legmagasabb pont: 1018 m (Breitinden-hegy)", "Partvonal hossza: kb. 400 km", "Lakosság: kb. 8000", "Halászfalvak száma: 5 fő település", "Ånderdalen Nemzeti Park területe: 350 km²"],
       ro: ["Suprafață: 1.590 km²", "Altitudine maximă: 1.018 m (Muntele Breitinden)", "Lungimea liniei de coastă: aprox. 400 km", "Populație: aprox. 8.000", "Număr de sate pescărești: 5 localități principale", "Suprafața Parcului Național Ånderdalen: 350 km²"],
       en: ["Area: 1,590 km²", "Highest point: 1,018 m (Breitinden)", "Coastline length: approx. 400 km", "Population: approx. 8,000", "Number of major fishing villages: 5", "Area of Ånderdalen National Park: 350 km²"],
-    },
-  },
+    }, image: "/poi-images/norway-senja-island-nature-v2.webp"},
   {
     id: "norway-aurlandsdalen-valley-nature-v2",
     type: "valley",

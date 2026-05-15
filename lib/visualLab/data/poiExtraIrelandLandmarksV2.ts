@@ -31,8 +31,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Építés éve: 1520", "Torony magassága: 23 méter", "Helyszín: Kinvara, Galway-öböl", "Restaurálás éve: 1954", "Klán: O'Hynes és Martyn", "Funkció: Lakótorony és kulturális központ"],
       ro: ["Anul construcției: 1520", "Înălțimea turnului: 23 metri", "Locație: Kinvara, Comitatul Galway", "Clan fondator: O'Hynes", "Restaurare: 1954", "Utilizare actuală: Muzeu și evenimente"],
       en: ["Built: 1520", "Tower height: 23 meters", "Location: Kinvara, County Galway", "Restored: 1954", "Primary clan: O'Hynes", "Event type: Medieval banquets"],
-    },
-  },
+    }, image: "/poi-images/ireland-dunguaire-castle-landmarks-v2.webp"},
   {
     id: "ireland-bunratty-castle-landmarks-v2",
     type: "castle",
@@ -63,8 +62,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Épült: 1425", "Klán: McNamara és O'Brien", "Helyszín: Shannon folyó torkolata", "Gyűjtemény: 14-17. századi bútorok", "Néprajzi park területe: 10 hektár", "Vártípus: Késő középkori lakótorony"],
       ro: ["Anul finalizării: 1425", "Clan: O'Brien", "Locație: Comitatul Clare", "Piese de mobilier: peste 450 obiecte", "Parc etnografic: 10 hectare", "Acces public: din 1962"],
       en: ["Construction date: 1425", "Dominant clan: O'Brien", "Location: Bunratty, County Clare", "Restoration: 1954", "Site size: 10-hectare folk park", "Architectural style: Tower house"],
-    },
-  },
+    }, image: "/poi-images/ireland-bunratty-castle-landmarks-v2.webp"},
   {
     id: "ireland-st-marys-cathedral-landmarks-v2",
     type: "cathedral",
@@ -95,8 +93,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Alapítás éve: 1168", "Stílus: román és gótikus", "Limerick legidősebb épülete", "Egykori viking királyi palota helye"],
       ro: ["Anul fondării: 1168", "Stil: romanic și gotic", "Cea mai veche clădire din oraș", "Turnul are o înălțime de 36 metri"],
       en: ["Founded in 1168", "Style: Romanesque and Gothic", "Oldest building in Limerick", "Built on a former Viking palace site"],
-    },
-  },
+    }, image: "/poi-images/ireland-st-marys-cathedral-landmarks-v2.webp"},
   {
     id: "ireland-tall-ship-jeanie-johnston-landmarks-v2",
     type: "monument",
@@ -127,8 +124,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Másolat építése: 2002", "Hajó hossza: 52 méter", "Eredeti utak száma: 16", "Helyszín: dublini dokkok"],
       ro: ["Replica construită în: 2002", "Lungime: 52 metri", "Număr de traversări: 16", "Locație: Dublin Docklands"],
       en: ["Replica built in 2002", "Length: 52 meters", "Original voyages: 16", "Location: Dublin Docklands"],
-    },
-  },
+    }, image: "/poi-images/ireland-tall-ship-jeanie-johnston-landmarks-v2.webp"},
   {
     id: "ireland-lismore-castle-landmarks-v2",
     type: "castle",
@@ -159,8 +155,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Eredeti építés: 1185", "Tulajdonos: Devonshire hercege", "Folyó: Blackwater", "Kert területe: 7 hektár"],
       ro: ["Fondat inițial în: 1185", "Proprietar: Ducele de Devonshire", "Râul: Blackwater", "Grădini: 7 hectare"],
       en: ["Founded in 1185", "Owner: Duke of Devonshire", "River: Blackwater", "Garden size: 7 hectares"],
-    },
-  },
+    }, image: "/poi-images/ireland-lismore-castle-landmarks-v2.webp"},
   {
     id: "ireland-parkes-castle-landmarks-v2",
     type: "castle",
@@ -191,8 +186,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Építés ideje: 1610 körül", "Helyszín: Lough Gill, Leitrim", "Típus: Plantation Castle", "Restaurálás: 1980-as évek"],
       ro: ["Construit în: circa 1610", "Locație: Lough Gill, Leitrim", "Stil: Castel de plantație", "Restaurat în: anii 1980"],
       en: ["Built around 1610", "Location: Lough Gill, Leitrim", "Type: Plantation Castle", "Restored in the 1980s"],
-    },
-  },
+    }, image: "/poi-images/ireland-parkes-castle-landmarks-v2.webp"},
   {
     id: "ireland-dublin-custom-house-landmarks-v2",
     type: "landmark",
@@ -223,8 +217,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Építés: 1781–1791", "Építész: James Gandon", "Tűzvész: 1921. május 25.", "Homlokzat hossza: 114 méter"],
       ro: ["Construcție: 1781–1791", "Arhitect: James Gandon", "Incendiat în: 25 mai 1921", "Lungime fațadă: 114 metri"],
       en: ["Built: 1781–1791", "Architect: James Gandon", "Fire date: May 25, 1921", "Facade length: 114 meters"],
-    },
-  },
+    }, image: "/poi-images/ireland-dublin-custom-house-landmarks-v2.webp"},
   {
     id: "ireland-blarney-house-landmarks-v2",
     type: "palace",
@@ -255,8 +248,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Építés éve: 1874", "Stílus: Skót bárói", "Építész: John Lanyon", "Tulajdonos: Colthurst család", "Park: 60 hektáros arborétum", "Elődépület kora: 1739"],
       ro: ["Anul construcției: 1874", "Stil arhitectural: Baronial scoțian", "Arhitect: John Lanyon", "Proprietar actual: Familia Colthurst", "Grădini: 60 hectare", "Locație: Blarney, Comitatul Cork"],
       en: ["Completed: 1874", "Style: Scottish Baronial", "Architect: John Lanyon", "Family: Colthurst", "Estate size: 60 hectares", "Location: Near Blarney Castle"],
-    },
-  },
+    }, image: "/poi-images/ireland-blarney-house-landmarks-v2.webp"},
   {
     id: "ireland-eason-store-landmarks-v2",
     type: "landmark",
@@ -319,8 +311,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Felszentelés: 1965", "Kupola magassága: 44 méter", "Anyaga: Helyi mészkő", "Stílus: Reneszánsz és gótikus"],
       ro: ["Sfințire: 1965", "Înălțime dom: 44 metri", "Material: Calcar local", "Stil: Renaștere și neogotic"],
       en: ["Dedicated: 1965", "Dome height: 44 meters", "Material: Local limestone", "Style: Renaissance and Gothic"],
-    },
-  },
+    }, image: "/poi-images/ireland-cathedral-of-our-lady-landmarks-v2.webp"},
   {
     id: "ireland-bantry-house-landmarks-v2",
     type: "palace",
@@ -351,8 +342,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Eredeti építés: 1710", "Tulajdonos: White család", "Kert típusa: Olasz teraszos", "Lépcsőfokok száma: 100", "Műkincsek: Marie Antoinette kárpitjai", "Megnyitás: 1946 (elsőként Írországban)"],
       ro: ["Anul construcției: 1710", "Grădini: 7 terase", "Scări: 100 trepte (Scara spre cer)", "Proprietari: Familia White", "Locație: Bantry, West Cork", "Deschidere publică: 1946"],
       en: ["Original build: 1710", "Garden style: Italianate terraces", "Staircase: 100 steps", "Tapestries: French Aubusson", "First open to public: 1946", "County: Cork"],
-    },
-  },
+    }, image: "/poi-images/ireland-bantry-house-landmarks-v2.webp"},
   {
     id: "ireland-muckross-house-landmarks-v2",
     type: "palace",
@@ -383,8 +373,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Építés: 1843", "Szobák száma: 65", "Királyi látogatás: 1861", "Állami tulajdonba került: 1932"],
       ro: ["Anul construcției: 1843", "Număr de camere: 65", "Vizită regală: 1861", "Donat statului în: 1932"],
       en: ["Built: 1843", "Number of rooms: 65", "Royal visit: 1861", "Donated to state: 1932"],
-    },
-  },
+    }, image: "/poi-images/ireland-muckross-house-landmarks-v2.webp"},
   {
     id: "ireland-adare-manor-landmarks-v2",
     type: "palace",
@@ -415,8 +404,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Építés: 1832-1860", "Ablakok száma: 365", "Kémények száma: 52", "Stílus: Neogótikus", "Folyó: Maigue", "Helyszín: Adare, County Limerick"],
       ro: ["Perioada construcției: 1832-1860", "Număr ferestre: 365", "Număr hornuri: 52", "Arhitect: James Pain", "Râu: Maigue", "Județ: Limerick"],
       en: ["Built: 1832-1860", "Windows: 365", "Chimneys: 52", "Architectural style: Neo-Gothic", "River: Maigue", "Function: Luxury hotel and golf resort"],
-    },
-  },
+    }, image: "/poi-images/ireland-adare-manor-landmarks-v2.webp"},
   {
     id: "ireland-st-canices-cathedral-landmarks-v2",
     type: "cathedral",
@@ -447,8 +435,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Építés: 1251–1285", "Kerek torony magassága: 30 méter", "Város: Kilkenny", "Stílus: Korai angol gótika"],
       ro: ["Construcție: 1251–1285", "Înălțime turn: 30 metri", "Oraș: Kilkenny", "Stil: Gotic timpuriu englez"],
       en: ["Built: 1251–1285", "Round tower height: 30 meters", "Location: Kilkenny", "Style: Early English Gothic"],
-    },
-  },
+    }, image: "/poi-images/ireland-st-canices-cathedral-landmarks-v2.webp"},
   {
     id: "ireland-cashel-cathedral-landmarks-v2",
     type: "cathedral",
@@ -479,8 +466,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Befejezés éve: 1784", "Stílus: Georgiánus", "Könyvtár: Bolton Library", "Kötetek száma: 12.000", "Felekezet: Church of Ireland", "Ritkaság: 1486-os Dante-kiadás"],
       ro: ["Finalizată: 1784", "Stil arhitectural: Georgian", "Denominație: Biserica Irlandei", "Colecție: Biblioteca Bolton", "Număr cărți rare: 12.000", "Locație: Cashel, Tipperary"],
       en: ["Year finished: 1784", "Style: Georgian", "Diocese: Cashel and Ossory", "Library name: Bolton Library", "Collection size: 12,000 volumes", "Location: John Street, Cashel"],
-    },
-  },
+    }, image: "/poi-images/ireland-cashel-cathedral-landmarks-v2.webp"},
   {
     id: "ireland-graceland-bridge-landmarks-v2",
     type: "bridge",
@@ -511,8 +497,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Átadás éve: 1874", "Folyó: Liffey", "Anyag: Öntöttvas és kő", "Névadó: Henry Grattan", "Helyszín: Dublin központja", "Korábbi híd: Essex Bridge (1755)"],
       ro: ["Anul construcției: 1874", "Râu: Liffey", "Materiale: Fontă și granit", "Lungime: 45 metri", "Nume anterior: Podul Essex", "Locație: Dublin"],
       en: ["Year opened: 1874", "River: Liffey", "Named after: Henry Grattan", "Materials: Cast iron and granite", "Engineer: Bindon Blood Stoney", "Length: 45 meters"],
-    },
-  },
+    }, image: "/poi-images/ireland-graceland-bridge-landmarks-v2.webp"},
   {
     id: "ireland-gpo-dublin-landmarks-v2",
     type: "landmark",
@@ -543,8 +528,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Építés éve: 1814-1818", "Építész: Francis Johnston", "Stílus: Neoklasszicista", "Történelmi esemény: 1916-os felkelés", "Oszloprend: Ión", "Város: Dublin"],
       ro: ["Perioada construcției: 1814-1818", "Arhitect: Francis Johnston", "Stil: Neoclasic", "Eveniment cheie: Revolta de Paște (1916)", "Portic: 6 coloane ionice", "Locație: O'Connell Street, Dublin"],
       en: ["Opened: 1818", "Architect: Francis Johnston", "Style: Greek Revival", "Historical significance: 1916 HQ", "Column count: 6 Ionic columns", "City: Dublin"],
-    },
-  },
+    }, image: "/poi-images/ireland-gpo-dublin-landmarks-v2.webp"},
   {
     id: "ireland-national-library-landmarks-v2",
     type: "museum",
@@ -575,8 +559,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Megnyitás: 1890", "Építész: Thomas Newenham Deane", "Gyűjtemény: 10 millió+ tétel", "Helyszín: Kildare Street, Dublin"],
       ro: ["Inaugurare: 1890", "Arhitect: Thomas Newenham Deane", "Colecție: Peste 10 mil. obiecte", "Locație: Kildare Street, Dublin"],
       en: ["Opened: 1890", "Architect: Thomas Newenham Deane", "Collection: 10m+ items", "Location: Kildare Street, Dublin"],
-    },
-  },
+    }, image: "/poi-images/ireland-national-library-landmarks-v2.webp"},
   {
     id: "ireland-four-courts-landmarks-v2",
     type: "landmark",
@@ -607,8 +590,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Építés ideje: 1786-1802", "Építész: James Gandon", "Kupola átmérője: 19,5 méter", "Pusztítás: 1922 (Polgárháború)", "Helyszín: Inns Quay, Dublin", "Bíróságok: 4 eredeti bíróság"],
       ro: ["Perioada construcției: 1786-1802", "Arhitect: James Gandon", "Diametru cupolă: 19,5 metri", "Restaurare: 1932", "Locație: Malul râului Liffey", "Funcție: Curtea Supremă"],
       en: ["Construction: 1786-1802", "Architect: James Gandon", "Dome diameter: 19.5 meters", "Civil War damage: 1922", "Restoration finished: 1932", "Courts: Supreme and High Court"],
-    },
-  },
+    }, image: "/poi-images/ireland-four-courts-landmarks-v2.webp"},
   {
     id: "ireland-st-nicholas-church-landmarks-v2",
     type: "church",
@@ -639,8 +621,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["Alapítás éve: 1320", "Védőszent: Szent Miklós", "Helyszín: Galway óvárosa", "Híres látogató: Kolumbusz Kristóf (1477)", "Típus: Társaskáptalani templom", "Bővítés kora: 16. század"],
       ro: ["Anul fondării: 1320", "Sfânt protector: Sfântul Nicolae", "Locație: Galway", "Vizitator celebru: Cristofor Columb", "Statut: Biserică colegială", "Arhitectură: Gotic irlandez"],
       en: ["Founded: 1320", "Patron saint: St. Nicholas of Myra", "Location: Galway City Centre", "Columbus visit: 1477 (legendary)", "Church type: Collegiate", "Structure: Medieval cruciform"],
-    },
-  },
+    }, image: "/poi-images/ireland-st-nicholas-church-landmarks-v2.webp"},
   {
     id: "ireland-tralee-friary-landmarks-v2",
     type: "ruins",
@@ -671,8 +652,7 @@ export const irelandLandmarksV2: POI[] = [
       hu: ["1260 körül alapították", "Ferences kolostor", "Kerry megyében található", "Gótikus ablakok maradtak fenn", "Cromwell kifosztotta a 17. században", "Nemzeti műemlék"],
       ro: ["Fondată în jurul anului 1260", "Mănăstire franciscană", "Situată în comitatul Kerry", "Ferestre gotice păstrate", "Jefuită de Cromwell în sec. XVII", "Monument național"],
       en: ["Founded around 1260", "Franciscan friary", "Located in County Kerry", "Gothic windows survive", "Plundered by Cromwell in 17th century", "National Monument"],
-    },
-  },
+    }, image: "/poi-images/ireland-tralee-friary-landmarks-v2.webp"},
   {
     id: "ireland-ross-abbey-landmarks-v2",
     type: "ruins",

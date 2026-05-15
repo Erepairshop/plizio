@@ -1804,8 +1804,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-paskuqan-cities-v2.webp"},
   {
     id: "albania-rrogozhine-cities-v2",
     type: "town",
@@ -1836,8 +1835,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-rrogozhine-cities-v2.webp"},
   {
     id: "albania-dimal-cities-v2",
     type: "town",
@@ -1868,8 +1866,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-dimal-cities-v2.webp"},
   {
     id: "albania-golem-cities-v2",
     type: "town",
@@ -1900,8 +1897,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-golem-cities-v2.webp"},
   {
     id: "albania-tropoje-cities-v2",
     type: "village",
@@ -1932,8 +1928,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-tropoje-cities-v2.webp"},
   {
     id: "albania-maqellare-cities-v2",
     type: "town",
@@ -1996,8 +1991,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-vau-i-dejes-cities-v2.webp"},
   {
     id: "albania-fushe-arrez-cities-v2",
     type: "town",
@@ -2028,8 +2022,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-fushe-arrez-cities-v2.webp"},
   {
     id: "albania-klos-cities-v2",
     type: "town",
@@ -2060,8 +2053,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-klos-cities-v2.webp"},
   {
     id: "albania-leskovik-cities-v2",
     type: "town",
@@ -2092,8 +2084,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-leskovik-cities-v2.webp"},
   {
     id: "albania-milot-cities-v2",
     type: "town",
@@ -2124,8 +2115,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-milot-cities-v2.webp"},
   {
     id: "albania-novosele-cities-v2",
     type: "village",
@@ -2156,8 +2146,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-novosele-cities-v2.webp"},
   {
     id: "albania-levan-cities-v2",
     type: "town",
@@ -2188,8 +2177,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-levan-cities-v2.webp"},
   {
     id: "albania-cakran-cities-v2",
     type: "village",
@@ -2220,8 +2208,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-cakran-cities-v2.webp"},
   {
     id: "albania-libonik-cities-v2",
     type: "town",
@@ -2284,8 +2271,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-pojan-cities-v2.webp"},
   {
     id: "albania-shupenze-cities-v2",
     type: "town",
@@ -2316,8 +2302,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-shupenze-cities-v2.webp"},
   {
     id: "albania-zerqan-cities-v2",
     type: "village",
@@ -2348,8 +2333,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-zerqan-cities-v2.webp"},
   {
     id: "albania-shishtavec-cities-v2",
     type: "village",
@@ -2380,8 +2364,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-shishtavec-cities-v2.webp"},
   {
     id: "albania-bushat-cities-v2",
     type: "town",
@@ -2412,8 +2395,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-bushat-cities-v2.webp"},
   {
     id: "albania-postribe-cities-v2",
     type: "village",
@@ -2444,8 +2426,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-postribe-cities-v2.webp"},
   {
     id: "albania-velipoje-town-cities-v2",
     type: "town",
@@ -2476,8 +2457,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-velipoje-town-cities-v2.webp"},
   {
     id: "albania-tale-cities-v2",
     type: "village",
@@ -2508,8 +2488,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-tale-cities-v2.webp"},
   {
     id: "albania-bradashesh-cities-v2",
     type: "town",
@@ -2540,8 +2519,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-bradashesh-cities-v2.webp"},
   {
     id: "albania-labinot-fushe-cities-v2",
     type: "village",
@@ -2572,8 +2550,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-labinot-fushe-cities-v2.webp"},
   {
     id: "albania-poshnje-cities-v2",
     type: "village",
@@ -2636,8 +2613,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-bubullime-cities-v2.webp"},
   {
     id: "albania-karbunare-cities-v2",
     type: "village",
@@ -2700,8 +2676,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-dushk-cities-v2.webp"},
   {
     id: "albania-grabian-cities-v2",
     type: "village",
@@ -2764,8 +2739,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-zharrez-cities-v2.webp"},
   {
     id: "albania-brataj-cities-v2",
     type: "village",
@@ -2828,8 +2802,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-kote-cities-v2.webp"},
   {
     id: "albania-aliko-cities-v2",
     type: "village",
@@ -2860,8 +2833,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-aliko-cities-v2.webp"},
   {
     id: "albania-lukove-cities-v2",
     type: "village",
@@ -2892,8 +2864,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-lukove-cities-v2.webp"},
   {
     id: "albania-frasher-cities-v2",
     type: "village",
@@ -2924,8 +2895,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-frasher-cities-v2.webp"},
   {
     id: "albania-vithkuq-cities-v2",
     type: "village",
@@ -2956,8 +2926,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: [],
       ro: [],
       en: []
-    }
-  },
+    }, image: "/poi-images/albania-vithkuq-cities-v2.webp"},
   {
     id: "albania-maminas-cities-v2",
     type: "town",
@@ -3020,8 +2989,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: ["Durrës megye része", "Jelentős szőlőművelés", "Hegyvidéki tájkép", "Mesterséges tó a közelben", "Mezőgazdasági fókusz", "Helyi piacnapok"],
       ro: ["Altitudine de aproximativ 200m", "Lac de acumulare local", "Producție de vin renumită", "Districtul Durrës", "Zone de recreere montane", "Populație rurală activă"],
       en: ["Famous for local vineyards", "Located in Durrës District", "Hilly terrain features", "Close to Manëz Lake", "Traditional olive production", "Regional transit node"],
-    },
-  },
+    }, image: "/poi-images/albania-manez-cities-v2.webp"},
   {
     id: "albania-katund-i-ri-cities-v2",
     type: "town",
@@ -3052,8 +3020,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: ["Adriai-tenger közelsége", "Zöldségtermesztési központ", "Durrës megye területe", "Síkvidéki elhelyezkedés", "Öntözőrendszerek hálózata", "Exportorientált gazdaság"],
       ro: ["Lângă țărmul Mării Adriatice", "Câmpie fertilă", "Județul Durrës", "Producție mare de legume", "Climat blând maritim", "Infrastructură agricolă nouă"],
       en: ["Proximity to Adriatic coast", "Center for vegetable farming", "Located in Durrës County", "Flat alluvial plain", "Large-scale greenhouse area", "Regional supply hub"],
-    },
-  },
+    }, image: "/poi-images/albania-katund-i-ri-cities-v2.webp"},
   {
     id: "albania-xarre-cities-v2",
     type: "village",
@@ -3116,8 +3083,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: ["Drin folyó völgye", "Hatalmas vízerőmű", "Kompkikötő Fierza felé", "Shkodër megye", "Kanyonos táj", "Fontos energiaforrás"],
       ro: ["Baraj hidroenergetic major", "Lac de acumulare adânc", "Punct de plecare feribot", "Munții Albaniei de Nord", "Râul Drin", "Peisaj de tip fiord"],
       en: ["Major hydroelectric plant", "Gateway to Valbona Valley", "Drin River canyon", "Shkodër County", "Built in the 1980s", "Stunning boat route"],
-    },
-  },
+    }, image: "/poi-images/albania-koman-cities-v2.webp"},
   {
     id: "albania-vermosh-cities-v2",
     type: "village",
@@ -3148,8 +3114,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: ["Albánia legészakibb faluja", "1100 méter tengerszint feletti magasság", "Kelmend tájegység", "Montenegrói határnál", "Hegyi legelők", "Téli sportok lehetősége"],
       ro: ["Cea mai nordică așezare", "Altitudine înaltă", "Munții Prokletije", "Granița cu Muntenegru", "Turism montan", "Case tradiționale din piatră"],
       en: ["Northernmost Albanian village", "Located in Kelmend region", "Elevation over 1,100 meters", "Borders Montenegro", "Alpine trout fishing", "Heavy snowfall in winter"],
-    },
-  },
+    }, image: "/poi-images/albania-vermosh-cities-v2.webp"},
   {
     id: "albania-borie-cities-v2",
     type: "village",
@@ -3180,8 +3145,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: ["Kukës megye hegyvidéke", "Goráni etnikai csoport", "Sharr-hegység vidéke", "Hagyományos építészet", "Elszigetelt elhelyezkedés", "Kulturális fesztiválok"],
       ro: ["Sat de frontieră", "Regiunea Kukës", "Populație Gorani", "Tradiții pastorale", "Altitudine mare", "Dialect slav local"],
       en: ["Located in Kukës District", "Borders North Macedonia", "Gorani ethnic community", "Traditional mountain life", "High altitude pastures", "Rich folklore traditions"],
-    },
-  },
+    }, image: "/poi-images/albania-borie-cities-v2.webp"},
   {
     id: "albania-arapaj-cities-v2",
     type: "village",
@@ -3212,8 +3176,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: ["6. századi bazilika", "Hatalmas mozaikpadló", "Durrës vonzáskörzete", "Régészeti feltárások", "Bizánci örökség", "Kulturális műemlék"],
       ro: ["Bazilică paleocreștină", "Mozaicuri bizantine", "Județul Durrës", "Situl arheologic Arapaj", "Patrimoniu cultural", "Aproape de mare"],
       en: ["6th-century Basilica", "Expansive floor mosaics", "Located near Durrës", "Byzantine architecture", "Significant archaeological site", "Cultural monument status"],
-    },
-  },
+    }, image: "/poi-images/albania-arapaj-cities-v2.webp"},
   {
     id: "albania-kashar-cities-v2",
     type: "town",
@@ -3244,8 +3207,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: ["Tirana megye része", "Kereskedelmi parkok", "SH2-es autópálya mentén", "Gyors urbanizáció", "Logisztikai bázisok", "A főváros nyugati széle"],
       ro: ["Centru industrial major", "Lângă autostrada Tirana-Durrës", "Județul Tirana", "Dezvoltare imobiliară rapidă", "Nod logistic", "Zonă comercială"],
       en: ["Major industrial zone", "Western suburb of Tirana", "Located on SH2 highway", "High economic growth", "Logistics and trade hub", "Tirana County"],
-    },
-  },
+    }, image: "/poi-images/albania-kashar-cities-v2.webp"},
   {
     id: "albania-balldren-cities-v2",
     type: "village",
@@ -3276,8 +3238,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: ["Lezha megye területe", "Kune-Vain lagúna közelében", "Régi keresztény templom", "Mezőgazdasági közösség", "Síkvidéki táj", "Drin folyó völgye"],
       ro: ["Județul Lezha", "Aproape de laguna Kune", "Biserică istorică", "Câmpie fertilă", "Nordul Albaniei", "Zona râului Drin"],
       en: ["Located in Lezha County", "Near Kune-Vain lagoon", "Historic church site", "Fertile farmland", "Drin River proximity", "Northern coastal plain"],
-    },
-  },
+    }, image: "/poi-images/albania-balldren-cities-v2.webp"},
   {
     id: "albania-shkret-cities-v2",
     type: "village",
@@ -3308,8 +3269,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: ["Kruja szomszédságában", "Szkander-bég hegység", "Hegyi túraútvonalak", "Hagyományos életmód", "Durrës megye", "Érintetlen természet"],
       ro: ["Lângă orașul Kruja", "Munții Skanderbeg", "Peisaj montan", "Tradiții locale", "Județul Durrës", "Ecoturism rural"],
       en: ["Located near Kruja", "Skanderbeg Mountain range", "Traditional farming", "Durrës County", "Mountainous terrain", "Rural hiking destination"],
-    },
-  },
+    }, image: "/poi-images/albania-shkret-cities-v2.webp"},
   {
     id: "albania-farke-cities-v2",
     type: "town",
@@ -3340,8 +3300,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: ["Farkë-i mesterséges tó", "Tirana megye", "Exkluzív lakónegyed", "Dajti-hegy lábánál", "Szabadidős központ", "Parkosított környezet"],
       ro: ["Lac artificial mare", "Județul Tirana", "Zonă rezidențială de lux", "Parcuri recreative", "Aproape de muntele Dajti", "Piste de alergare"],
       en: ["Farkë Artificial Lake", "Tirana County", "Upscale residential zone", "Recreational park areas", "Near Mount Dajti", "Major expansion zone"],
-    },
-  },
+    }, image: "/poi-images/albania-farke-cities-v2.webp"},
   {
     id: "albania-vaqarr-cities-v2",
     type: "town",
@@ -3372,8 +3331,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: ["Tirana délnyugati kapuja", "Olívabogyó-termesztés", "Tirana megye", "Mezőgazdasági övezet", "Helyi piacok", "Dombvidéki táj"],
       ro: ["Sud-vest de Tirana", "Producție de măsline", "Județul Tirana", "Centru de aprovizionare", "Pepinieră agricolă", "Relief colinar"],
       en: ["Southwest of Tirana", "Major olive production", "Tirana County", "Agricultural focus", "Proximity to Erzen river", "Regional supply center"],
-    },
-  },
+    }, image: "/poi-images/albania-vaqarr-cities-v2.webp"},
   {
     id: "albania-balldushk-cities-v2",
     type: "village",
@@ -3404,8 +3362,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: ["Pulykatenyésztés központja", "Bio-élelmiszer termelés", "Tirana megye", "Agroturisztikai célpont", "Hagyományos falusi élet", "Dél-Tirana vidéke"],
       ro: ["Renumit pentru curcani", "Agricultură bio", "Județul Tirana", "Destinație agroturistică", "Tradiții culinare", "Zonă colinară sudică"],
       en: ["Famous for turkey farms", "Organic farming hub", "Tirana County", "Agrotourism destination", "South of Tirana", "Traditional food festivals"],
-    },
-  },
+    }, image: "/poi-images/albania-balldushk-cities-v2.webp"},
   {
     id: "albania-krrabe-cities-v2",
     type: "town",
@@ -3436,8 +3393,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: ["Egykori szénbányák", "Hegyi hágó (Krrabë)", "Tirana megye", "Sziklás domborzat", "SH3-as út mentén", "Bányászati örökség"],
       ro: ["Foste mine de cărbune", "Pasul muntos Krrabë", "Județul Tirana", "Peisaj stâncos", "Tunel rutier major", "Istorie industrială"],
       en: ["Former coal mining center", "Strategic mountain pass", "Tirana County", "Rugged mountain terrain", "New Krrabë Tunnel", "Industrial heritage site"],
-    },
-  },
+    }, image: "/poi-images/albania-krrabe-cities-v2.webp"},
   {
     id: "albania-peze-cities-v2",
     type: "village",
@@ -3468,8 +3424,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: ["A Pezë-i Konferencia dátuma 1942. szeptember 16.", "A település az Erzen-folyó völgyében helyezkedik el.", "Tiranától közúton nagyjából 20 km távolságra fekszik.", "Itt található az albán nemzeti hősök egyik emlékparkja.", "A terület kedvelt a lovaglás és a szabadtéri túrázás miatt.", "A közigazgatási egység központja Pezë e Madhe falu."],
       ro: ["Localitatea se află la o altitudine de circa 250 de metri.", "Distanța rutieră până în centrul Tiranei este de 22 km.", "Conferința din 1942 a reunit 10 delegați din diverse tabere.", "Unitatea administrativă cuprinde un număr de 10 sate.", "Economia locală se bazează pe agricultură și agroturism.", "Este traversată de drumul regional care leagă Tirana de Ndroq."],
       en: ["The historic Pezë Conference took place on Sep 16, 1942.", "It is located approximately 20 km southwest of Tirana city.", "The administrative unit covers an area of roughly 45 km².", "The Martyrs' Cemetery is a key landmark in the village center.", "The Erzen River flows through the eastern part of the area.", "Peza is a popular site for the annual 'Peza N'Fest' festival."],
-    },
-  },
+    }, image: "/poi-images/albania-peze-cities-v2.webp"},
   {
     id: "albania-zall-herr-cities-v2",
     type: "town",
@@ -3500,8 +3455,7 @@ imageHint: "Krujë Castle and old bazaar street",
       hu: ["Az albán szárazföldi erők elit bázisa található itt.", "A település a Tërkuzë-folyó partján helyezkedik el.", "9 kisebb falu tartozik ehhez a közigazgatási egységhez.", "A tengerszint feletti magassága átlagosan 150-300 méter.", "Közúton mindössze 15 percre fekszik a fővárostól.", "A területen jelentős bányászati tevékenység folyik."],
       ro: ["Găzduiește baza militară a Regimentului de Comando albanez.", "Râul Tërkuzë traversează partea sudică a localității.", "Populația unității administrative depășește 9.000 de locuitori.", "Altitudinea maximă în zonă depășește 500 de metri în est.", "Zall-Herr este compusă dintr-un total de 9 sate componente.", "Se află la mică distanță de parcul național Dajti."],
       en: ["Home to the main base of the Albanian Commando Regiment.", "The Tërkuzë River flows along the southern border.", "It consists of 9 villages, with Zall-Herr as the center.", "Located roughly 12 kilometers north of central Tirana.", "The area serves as a vital military training ground.", "Significant limestone quarries operate in the vicinity."],
-    },
-  },
+    }, image: "/poi-images/albania-zall-herr-cities-v2.webp"},
   {
     id: "albania-berxulle-cities-v2",
     type: "town",

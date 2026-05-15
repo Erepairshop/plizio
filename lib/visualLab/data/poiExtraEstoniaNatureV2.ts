@@ -63,8 +63,7 @@ export const estoniaNatureV2: POI[] = [
       hu: ["Vízesés magassága: 6,1 m", "Szélessége: 60-70 m", "Erőmű építése: 1928", "Keila-Joa kastély melletti"],
       ro: ["Înălțime de cădere: 6,1 m", "Lățime: aprox. 70 m", "Centrală din anul 1928", "Conacul Keila-Joa adiacent"],
       en: ["Drop height: 6.1 m", "Width: up to 70 m", "Power plant built in 1928", "Adjacent to Keila-Joa manor"],
-    },
-  },
+    }, image: "/poi-images/estonia-keila-waterfall-nature-v2.webp"},
   {
     id: "estonia-valgejarv-lake-nature-v2",
     type: "lake",
@@ -95,8 +94,7 @@ export const estoniaNatureV2: POI[] = [
       hu: ["A tó felszíne 0,65 négyzetkilométer", "Látótávolság a vízben gyakran 5 méter feletti", "Nissi község területén található", "A jégkorszak utáni rétegződés mintapéldája", "Védett tőzegmohaláp övezi", "Északi részén tanösvény fut körbe"],
       ro: ["Altitudinea oglinzii apei: 52 metri", "Rezervația a fost înființată în 1981", "Solul din jur este bogat în turbă", "Acces interzis cu ambarcațiuni cu motor", "Ecosistem fragil de tip taiga", "Temperatură medie a apei vara: 18 grade"],
       en: ["Total area spans 65.3 hectares", "Average depth is roughly 1.5 meters", "Located in Saue Parish, Harju County", "Nature reserve founded in early 1980s", "Home to the rare Isoetes echinospora", "Circular hiking trail length: 6.5 km"],
-    },
-  },
+    }, image: "/poi-images/estonia-valgejarv-lake-nature-v2.webp"},
   {
     id: "estonia-piusa-sandstone-nature-v2",
     type: "mountain",
@@ -127,8 +125,7 @@ export const estoniaNatureV2: POI[] = [
       hu: ["A bányászat 1922-ben kezdődött itt", "A járatok magassága eléri a 6 métert", "7 különböző denevérfaj él a barlangban", "A homokkő színe a fehértől a vörösig terjed", "Võrumaa megye egyik fő turisztikai pontja", "A kvarchomok tisztasága 99% feletti"],
       ro: ["Suprafața complexului depășește 40 hectare", "Piloni de susținere din gresie naturală", "Rezervație naturală protejată din 1981", "Situat în apropierea râului Piusa", "Adâncimea maximă a galeriilor: 10 metri", "Cel mai mare sit de hibernare din Baltica"],
       en: ["Caves cover an area of 46 hectares", "Mining ceased completely in 1970", "Sandstone layers are 350 million years old", "Home to the Pond Bat and Brandt's Bat", "Museum displays local glass industry history", "Over 200 separate cavern rooms identified"],
-    },
-  },
+    }, image: "/poi-images/estonia-piusa-sandstone-nature-v2.webp"},
   {
     id: "estonia-nava-river-nature-v2",
     type: "river",
@@ -159,8 +156,7 @@ export const estoniaNatureV2: POI[] = [
       hu: ["Folyó hossza: kb. 45 km", "Endla Természetvédelmi Terület", "Két tavat köt össze", "Karsztjelenségek jellemzik"],
       ro: ["Lungime: aprox. 45 km", "Rezervația Naturală Endla", "Conectează două lacuri", "Fenomene carstice prezente"],
       en: ["Length: approx. 45 km", "Endla Nature Reserve", "Connects two major lakes", "Karst phenomena present"],
-    },
-  },
+    }, image: "/poi-images/estonia-nava-river-nature-v2.webp"},
   {
     id: "estonia-parnu-river-nature-v2",
     type: "river",
@@ -191,8 +187,7 @@ export const estoniaNatureV2: POI[] = [
       hu: ["Hosszúság: 144 km", "Vízgyűjtő: 6920 km²", "Leghosszabb halátjáró", "16% észtországi terület"],
       ro: ["Lungime: 144 km", "Bazin: 6920 kmp", "Cea mai lungă scară de pești", "Drenează 16% din țară"],
       en: ["Length: 144 km", "Basin: 6920 sqkm", "Longest fish passage in Baltics", "Drains 16% of Estonia"],
-    },
-  },
+    }, image: "/poi-images/estonia-parnu-river-nature-v2.webp"},
   {
     id: "estonia-endla-mire-nature-v2",
     type: "forest",
@@ -223,8 +218,7 @@ export const estoniaNatureV2: POI[] = [
       hu: ["Összterület: 101,1 km²", "Alapítva: 1985-ben", "Ramsari terület 1997 óta", "8 különálló lápi tömb"],
       ro: ["Suprafață totală: 101,1 kmp", "Înființată în 1985", "Sit Ramsar din anul 1997", "8 masive de mlaștină"],
       en: ["Total area: 101.1 sqkm", "Established: 1985", "Ramsar site since 1997", "8 separate bog massifs"],
-    },
-  },
+    }, image: "/poi-images/estonia-endla-mire-nature-v2.webp"},
   {
     id: "estonia-haanja-upland-nature-v2",
     type: "mountain",
@@ -255,8 +249,7 @@ export const estoniaNatureV2: POI[] = [
       hu: ["Legmagasabb pont: 318 m", "Tavak száma: 170 felett", "Legmélyebb tó: 38 m mély", "Jégkorszaki végmoréna"],
       ro: ["Altitudine max: 318 m", "Număr de lacuri: 170+", "Cel mai adânc lac: 38 m", "Morenă glaciară terminală"],
       en: ["Highest point: 318 m", "Number of lakes: 170+", "Deepest lake: 38 m deep", "Glacial moraine formation"],
-    },
-  },
+    }, image: "/poi-images/estonia-haanja-upland-nature-v2.webp"},
   {
     id: "estonia-kollase-lake-nature-v2",
     type: "lake",
@@ -287,8 +280,7 @@ export const estoniaNatureV2: POI[] = [
       hu: ["Alam-Pedja rezervátum", "Jellemző: Vasas üledék", "Élőhely: Ártéri erdő", "Fontos fészkelőhely"],
       ro: ["Rezervația Alam-Pedja", "Caracteristică: Ape feroase", "Habitat: Pădure aluvionară", "Zonă de cuibărit păsări"],
       en: ["Alam-Pedja Nature Reserve", "Feature: Iron-rich water", "Habitat: Alluvial forest", "Key bird nesting area"],
-    },
-  },
+    }, image: "/poi-images/estonia-kollase-lake-nature-v2.webp"},
   {
     id: "estonia-vohandu-river-nature-v2",
     type: "river",
@@ -319,8 +311,7 @@ export const estoniaNatureV2: POI[] = [
       hu: ["Teljes hossz: 162 km", "38 homokkő-feltárás", "Esemény: Võhandu Maraton", "Név: Pühajõgi (Szent folyó)"],
       ro: ["Lungime totală: 162 km", "38 aflorimente de gresie", "Eveniment: Maratonul Võhandu", "Nume: Pühajõgi (Râul Sfânt)"],
       en: ["Total length: 162 km", "38 sandstone outcrops", "Event: Võhandu Marathon", "Alias: Pühajõgi (Holy River)"],
-    },
-  },
+    }, image: "/poi-images/estonia-vohandu-river-nature-v2.webp"},
   {
     id: "estonia-laeva-bog-nature-v2",
     type: "forest",
@@ -351,8 +342,7 @@ export const estoniaNatureV2: POI[] = [
       hu: ["Az Alam-Pedja része", "Fekete gólya élőhelye", "Láptípus: átmeneti láp", "Gazdag madárvilág"],
       ro: ["Parte din Alam-Pedja", "Habitat acvila țipătoare", "Tip: mlaștină de tranziție", "Avifaună diversificată"],
       en: ["Part of Alam-Pedja reserve", "Spotted Eagle habitat", "Type: transition mire", "Diverse bird population"],
-    },
-  },
+    }, image: "/poi-images/estonia-laeva-bog-nature-v2.webp"},
   {
     id: "estonia-jagal-river-nature-v2",
     type: "river",
@@ -383,8 +373,7 @@ export const estoniaNatureV2: POI[] = [
       hu: ["A vízesés szélessége 50 méter feletti", "A folyó esése a torkolatnál a legnagyobb", "13. századi krónikákban már szerepel", "Vízierőmű üzemel a folyó alsó szakaszán", "Télen a vízesés teljesen befagyhat", "Kanyonvölgyet vájt a mészkőbe"],
       ro: ["Debit mediu de apă: 12,8 m³/s", "Cursul superior trece prin mlaștini", "Cascada Jägala este numită 'Niagara Estoniei'", "Pe mal se află un fort antic din epoca fierului", "Pod suspendat situat în apropierea gurii de vărsare", "Râul alimentează rezervorul de apă din Tallinn"],
       en: ["River basin covers 1,570 square km", "Waterfall drop is exactly 8.1 meters", "Located 25 km east of Tallinn city center", "Upper course originates in Pandivere Upland", "Hydroelectric plant restored in 2002", "Popular site for ice climbing in February"],
-    },
-  },
+    }, image: "/poi-images/estonia-jagal-river-nature-v2.webp"},
   {
     id: "estonia-sirgala-forest-nature-v2",
     type: "forest",

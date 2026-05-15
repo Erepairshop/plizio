@@ -31,8 +31,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Átlagos magasság: kb. 1000 m.", "Legmagasabb csúcs: Puy de Sancy (1885 m).", "Vulkáni eredetű.", "Több régióra kiterjed.", "Vulkánjairól és szurdokairól ismert.", "Fontos vízgyűjtő."],
       ro: ["Altitudine medie: aprox. 1.000 m.", "Cel mai înalt vârf: Puy de Sancy (1.885 m).", "Origine vulcanică.", "Se întinde pe mai multe regiuni.", "Cunoscut pentru vulcani și chei.", "Bazin hidrografic important."],
       en: ["Average elevation: approx. 1,000 m.", "Highest peak: Puy de Sancy (1,885 m).", "Volcanic origin.", "Spans several regions.", "Known for volcanoes and gorges.", "Important watershed."],
-    },
-  },
+    }, image: "/poi-images/france-massif-central-relief-v2.webp"},
   {
     id: "france-puy-de-dome-relief-v2",
     type: "mountain",
@@ -63,8 +62,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Magasság: 1465 m.", "A Chaîne des Puys legfiatalabb vulkánja.", "Merkúr temploma a csúcson.", "UNESCO világörökség (Chaîne des Puys).", "Panorámás kilátás Auvergne-re.", "Népszerű túracélpont."],
       ro: ["Înălțime: 1.465 m.", "Cel mai tânăr vulcan din Chaîne des Puys.", "Templul lui Mercur pe vârf.", "Patrimoniu UNESCO (Chaîne des Puys).", "Vedere panoramică asupra Auvergnei.", "Destinație populară pentru drumeții."],
       en: ["Height: 1,465 m.", "Youngest volcano of Chaîne des Puys.", "Temple of Mercury on summit.", "UNESCO World Heritage (Chaîne des Puys).", "Panoramic view over Auvergne.", "Popular hiking destination."],
-    },
-  },
+    }, image: "/poi-images/france-puy-de-dome-relief-v2.webp"},
   {
     id: "france-grand-colombier-relief-v2",
     type: "mountain",
@@ -95,8 +93,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Magasság: 1534 m.", "A Jura legmagasabb csúcsa Franciaországban.", "Meredek lejtőiről ismert.", "Kerékpárosok körében népszerű (Tour de France).", "Kilátás a Bourget-tóra.", "Ain megyében."],
       ro: ["Înălțime: 1.534 m.", "Cel mai înalt vârf al Jurei în Franța.", "Cunoscut pentru pante abrupte.", "Popular printre bicicliști (Turul Franței).", "Vedere spre Lac du Bourget.", "În departamentul Ain."],
       en: ["Height: 1,534 m.", "Highest peak of Jura in France.", "Known for steep climbs.", "Popular with cyclists (Tour de France).", "Views of Lac du Bourget.", "In Ain department."],
-    },
-  },
+    }, image: "/poi-images/france-grand-colombier-relief-v2.webp"},
   {
     id: "france-plateau-de-millevaches-relief-v2",
     type: "mountain",
@@ -127,8 +124,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Magasság: kb. 800-1000 m.", "Három megyére terjed ki.", "Lápjairól és legelőiről ismert.", "A név jelentése 'ezer tehén'.", "Fontos vízgyűjtő.", "Limousin régióban."],
       ro: ["Altitudine: aprox. 800-1.000 m.", "Se întinde pe trei departamente.", "Cunoscut pentru mlaștini și pășuni.", "Numele înseamnă 'o mie de vaci'.", "Bazin hidrografic important.", "În regiunea Limousin."],
       en: ["Altitude: approx. 800-1,000 m.", "Spans three departments.", "Known for moors and pastures.", "Name means 'a thousand cows'.", "Important watershed.", "In Limousin region."],
-    },
-  },
+    }, image: "/poi-images/france-plateau-de-millevaches-relief-v2.webp"},
   {
     id: "france-mont-ventoux-relief-v2",
     type: "mountain",
@@ -159,8 +155,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Magasság: 1909 m.", "'Provence óriása' néven ismert.", "Kopár, holdbéli táj.", "Kerékpárosok körében népszerű (Tour de France).", "Időjárás-állomás a csúcson.", "Tom Simpson emlékműve."],
       ro: ["Înălțime: 1.909 m.", "Numit 'Uriașul Provencei'.", "Peisaj lunar sterp.", "Popular printre bicicliști (Turul Franței).", "Stație meteo pe vârf.", "Monument dedicat lui Tom Simpson."],
       en: ["Height: 1,909 m.", "Called 'Giant of Provence'.", "Barren lunar landscape.", "Popular with cyclists (Tour de France).", "Weather station on summit.", "Memorial to Tom Simpson."],
-    },
-  },
+    }, image: "/poi-images/france-mont-ventoux-relief-v2.webp"},
   {
     id: "france-vallee-de-la-loire-relief-v2",
     type: "valley",
@@ -191,8 +186,7 @@ export const franceReliefV2: POI[] = [
       hu: ["UNESCO világörökség.", "A Loire 1012 km hosszú.", "Kastélyairól és szőlőültetvényeiről ismert.", "Híres borok: Sancerre, Vouvray.", "Sully-sur-Loire-tól Chalonnes-sur-Loire-ig terjed.", "Számos reneszánsz kastély található."],
       ro: ["Patrimoniu UNESCO.", "Loara are 1.012 km lungime.", "Cunoscută pentru castele și podgorii.", "Vinuri celebre: Sancerre, Vouvray.", "Se întinde de la Sully-sur-Loire la Chalonnes-sur-Loire.", "Numeroase castele renascentiste."],
       en: ["UNESCO World Heritage.", "Loire River is 1,012 km long.", "Known for châteaux and vineyards.", "Famous wines: Sancerre, Vouvray.", "Stretches from Sully-sur-Loire to Chalonnes-sur-Loire.", "Many Renaissance châteaux."],
-    },
-  },
+    }, image: "/poi-images/france-vallee-de-la-loire-relief-v2.webp"},
   {
     id: "france-massif-des-maures-relief-v2",
     type: "mountain",
@@ -223,8 +217,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Legmagasabb pont: Signal de la Sauvette, 780 m", "Terület: kb. 300 négyzetkilométer", "Geológiai kor: variszkuszi orogenezis, kb. 300 millió éve", "Kivágott paratölgy éves mennyisége: kb. 1500 tonna", "Védett fajok száma: több mint 30", "Átlagos hőmérséklet: 12-15°C éves szinten"],
       ro: ["Cel mai înalt vârf: Signal de la Sauvette, 780 m", "Suprafață: aproximativ 300 km²", "Formarea geologică: orogeneza variscă, acum 300 milioane de ani", "Producția de plută: circa 1500 tone pe an", "Altitudinea medie: 300-500 m", "Numărul de comune incluse: 22"],
       en: ["Highest point: Signal de la Sauvette, 780 m", "Area: approximately 300 km²", "Geological origin: Variscan orogeny, ~300 million years ago", "Cork production in 19th century: over 2000 tons annually", "Population of surrounding communes: about 50,000", "Annual precipitation: 800–1000 mm"],
-    },
-  },
+    }, image: "/poi-images/france-massif-des-maures-relief-v2.webp"},
   {
     id: "france-mont-garbi-relief-v2",
     type: "peak",
@@ -255,8 +248,7 @@ export const franceReliefV2: POI[] = [
       hu: ["A tengerszint feletti magassága 2427 méter", "A Keleti-Pireneusok hegyláncának része", "Pyrénées-Orientales megyében, a Capcir-fennsíkon található", "Népszerű túraútvonalak érintik Formiguères felől"],
       ro: ["Altitudinea maximă este de 2427 de metri", "Situat în departamentul Pyrénées-Orientales", "Face parte din masivul muntos al Pirineilor Orientali", "Oferă o vedere panoramică asupra lacurilor din Capcir"],
       en: ["Maximum elevation reaches 2,427 meters above sea level", "Located in the Pyrénées-Orientales department of France", "Part of the Eastern Pyrenees mountain range", "Proximity to the Capcir plateau and its glacial lakes"],
-    },
-  },
+    }, image: "/poi-images/france-mont-garbi-relief-v2.webp"},
   {
     id: "france-plateau-de-langres-relief-v2",
     type: "mountain",
@@ -287,8 +279,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Legmagasabb pont: Haut de Baissey, 523 m", "Terület: kb. 2000 km²", "A Szajna forrása 470 m magasságban", "Langres város lakossága: 8000 fő", "Éves csapadék: 900 mm", "Átlagos téli hőmérséklet: 0-2°C"],
       ro: ["Cel mai înalt punct: Haut de Baissey, 523 m", "Suprafață: aproximativ 2000 km²", "Izvorul Senei la 470 m altitudine", "Populația orașului Langres: circa 8000 locuitori", "Precipitații anuale: 900 mm", "Temperatura medie anuală: 9°C"],
       en: ["Highest point: Haut de Baissey, 523 m", "Area: about 2000 km²", "Altitude of Seine source: 470 m", "Langres population: 8,000", "Annual rainfall: 900 mm", "Average elevation: 400 m"],
-    },
-  },
+    }, image: "/poi-images/france-plateau-de-langres-relief-v2.webp"},
   {
     id: "france-mont-d-or-relief-v2",
     type: "mountain",
@@ -319,8 +310,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Magasság: 1463 m", "Fekvés: francia-svájci határ", "A Haut-Jura Természeti Park része, területe 1500 km²", "Éves hóvastagság: több mint 2 méter", "Júliusi átlaghőmérséklet: 12°C", "Les Fourgs község lakossága: 1200 fő"],
       ro: ["Altitudine: 1463 m", "Localizare: granița Franța-Elveția", "Parte a Parcului Natural Haut-Jura (1500 km²)", "Zăpadă anuală: peste 2 m", "Temperatura medie în iulie: 12°C", "Populația comunei Les Fourgs: 1200 locuitori"],
       en: ["Elevation: 1,463 m", "Location: French-Swiss border", "Part of Haut-Jura Regional Nature Park (1,500 km²)", "Annual snowfall: over 2 m", "July average temperature: 12°C", "Population of Les Fourgs: 1,200"],
-    },
-  },
+    }, image: "/poi-images/france-mont-d-or-relief-v2.webp"},
   {
     id: "france-causses-relief-v2",
     type: "mountain",
@@ -351,8 +341,7 @@ export const franceReliefV2: POI[] = [
       hu: ["UNESCO világörökség 2011 óta", "Terület: kb. 3000 km²", "Legmélyebb szurdok: Tarn-szurdok, 600 m mély", "Éves csapadék: 600-800 mm", "Legmagasabb pont: Mont Aigoual, 1567 m", "Népsűrűség: < 15 fő/km²"],
       ro: ["Patrimoniu UNESCO din 2011", "Suprafață: circa 3000 km²", "Adâncimea maximă a cheilor: 600 m (Gorges du Tarn)", "Precipitații anuale: 600-800 mm", "Cel mai înalt punct: Mont Aigoual, 1567 m", "Densitatea populației: sub 15 locuitori/km²"],
       en: ["UNESCO World Heritage site since 2011", "Area: about 3,000 km²", "Deepest canyon: Gorges du Tarn, 600 m depth", "Annual rainfall: 600-800 mm", "Highest point: Mont Aigoual, 1,567 m", "Population density: < 15 inhabitants/km²"],
-    },
-  },
+    }, image: "/poi-images/france-causses-relief-v2.webp"},
   {
     id: "france-mont-sancy-relief-v2",
     type: "peak",
@@ -383,8 +372,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Magasság: 1885 méterrel emelkedik a tengerszint fölé.", "Elhelyezkedés: Puy-de-Dôme megye, Franciaország közepe.", "Vízrajz: A Dordogne folyó két forrásának egyesülési helye.", "Télisport: Super-Besse és Mont-Dore síközpontok otthona.", "Panoráma: Kedvező időben a Mont Blanc is látható a csúcsról.", "Természet: A Monts Dore Nemzeti Természetvédelmi Terület része."],
       ro: ["Altitudine: 1885 metri, cel mai înalt punct din Masivul Central.", "Tip: Stratovulcan format din lavă acidă și proiecții.", "Istoric: Ultima activitate vulcanică a avut loc acum 220.000 de ani.", "Acces: O telecabină urcă turiștii până la cota 1790 de metri.", "Hidrografie: Izvorul râului Dordogne se află pe versanții săi.", "Climat: Mediu montan aspru cu zăpadă persistentă pe timp de iarnă."],
       en: ["Elevation: 1,885 meters (6,184 feet) above sea level.", "Location: Situated in the Auvergne-Rhône-Alpes region.", "Origin: Formed primarily between 1 and 0.2 million years ago.", "River Source: The confluence of Dore and Dogne forms the Dordogne.", "Infrastructure: A wooden pedestrian staircase leads to the summit.", "Winter Sports: Host to one of the oldest ski resorts in France."],
-    },
-  },
+    }, image: "/poi-images/france-mont-sancy-relief-v2.webp"},
   {
     id: "france-massif-du-ventoux-relief-v2",
     type: "mountain",
@@ -447,8 +435,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Hossza: kb. 300 km", "Szélessége: 50 km", "Területe: kb. 15.000 km²", "Legmagasabb pont: 200 m alatt", "Éves csapadék: 700-900 mm", "Burgundia-Franche-Comté régió lakossága: 2,8 millió"],
       ro: ["Lungime: 300 km", "Lățime: până la 50 km", "Suprafață: 15.000 km²", "Altitudine maximă: sub 200 m", "Precipitații anuale: 700-900 mm", "Populația regiunii Bourgogne-Franche-Comté: 2,8 milioane"],
       en: ["Length: 300 km", "Width: up to 50 km", "Area: about 15,000 km²", "Maximum elevation: below 200 m", "Annual rainfall: 700-900 mm", "Population of Bourgogne-Franche-Comté region: 2.8 million"],
-    },
-  },
+    }, image: "/poi-images/france-plaine-de-la-saone-relief-v2.webp"},
   {
     id: "france-massif-de-la-chartreuse-relief-v2",
     type: "mountain",
@@ -479,8 +466,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Chamechaude, 2082 m", "Terület: kb. 700 km²", "Grande Chartreuse kolostor: alapítva 1084-ben", "Likőrgyártás 1737 óta", "Éves látogatók száma: 1 millió felett", "Mászóutak hossza: több mint 1000"],
       ro: ["Vârf: Chamechaude, 2082 m", "Suprafață: 700 km²", "Mănăstirea Grande Chartreuse: fondată în 1084", "Producerea lichiorului din 1737", "Vizitatori anual: peste 1 milion", "Trasee de alpinism: peste 1000"],
       en: ["Highest peak: Chamechaude, 2,082 m", "Area: about 700 km²", "Grande Chartreuse monastery founded: 1084", "Liqueur production since 1737", "Annual visitors: over 1 million", "Number of climbing routes: over 1,000"],
-    },
-  },
+    }, image: "/poi-images/france-massif-de-la-chartreuse-relief-v2.webp"},
   {
     id: "france-mont-d-or-auvergne-relief-v2",
     type: "mountain",
@@ -511,8 +497,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Puy de Sancy, 1885 m", "Terület: kb. 1200 km²", "Lac de Guéry: Auvergne legmagasabb tava, 1250 m", "Vulkani kúpok száma: több mint 100", "Éves hóval borított napok: 100 felett", "Termálforrások hőmérséklete: 70°C-ig"],
       ro: ["Vârf: Puy de Sancy, 1885 m", "Suprafață: 1200 km²", "Lac de Guéry: cel mai înalt lac din Auvergne, 1250 m", "Număr de conuri vulcanice: peste 100", "Zile cu zăpadă pe an: peste 100", "Temperatura izvoarelor termale: până la 70°C"],
       en: ["Highest peak: Puy de Sancy, 1,885 m", "Area: about 1,200 km²", "Lac de Guéry: highest lake in Auvergne, 1,250 m", "Number of volcanic cones: over 100", "Annual snow cover days: over 100", "Thermal spring temperature: up to 70°C"],
-    },
-  },
+    }, image: "/poi-images/france-mont-d-or-auvergne-relief-v2.webp"},
   {
     id: "france-plaine-d-alsace-relief-v2",
     type: "valley",
@@ -575,8 +560,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Magasság: 1091 m", "Elhelyezkedés: Hérault megye", "A Haut-Languedoc Természeti Park része (2600 km²)", "Januári átlaghőmérséklet: 2°C", "Éves csapadék: 1200 mm", "A park déli részének legmagasabb pontja"],
       ro: ["Altitudine: 1091 m", "Localizare: departamentul Hérault", "Parte a Parcului Natural Haut-Languedoc (2600 km²)", "Temperatura medie în ianuarie: 2°C", "Precipitații anuale: 1200 mm", "Cel mai înalt punct din sudul parcului"],
       en: ["Elevation: 1,091 m", "Location: Hérault department", "Part of Haut-Languedoc Nature Park (2,600 km²)", "Average January temp: 2°C", "Annual precipitation: 1,200 mm", "Highest point in the southern park"],
-    },
-  },
+    }, image: "/poi-images/france-mont-caroux-relief-v2.webp"},
   {
     id: "france-massif-du-jura-relief-v2",
     type: "mountain",
@@ -607,8 +591,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Hossz: kb. 360 km", "Szélesség: 50 km", "Legmagasabb csúcs: Crêt de la Neige, 1720 m", "Terület: kb. 14 000 km²", "Népesség: 1,6 millió (teljes régió)", "Éves csapadék: 1000-2000 mm"],
       ro: ["Lungime: 360 km", "Lățime: 50 km", "Vârf: Crêt de la Neige, 1720 m", "Suprafață: 14.000 km²", "Populație: 1,6 milioane (întreaga regiune)", "Precipitații anuale: 1000-2000 mm"],
       en: ["Length: 360 km", "Width: 50 km", "Highest peak: Crêt de la Neige, 1,720 m", "Area: 14,000 km²", "Population: 1.6 million (entire region)", "Annual rainfall: 1,000-2,000 mm"],
-    },
-  },
+    }, image: "/poi-images/france-massif-du-jura-relief-v2.webp"},
   {
     id: "france-massif-de-la-sainte-baume-relief-v2",
     type: "mountain",
@@ -639,8 +622,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Magasság: 1147 m", "Elhelyezkedés: Var és Bouches-du-Rhône megyék", "Természeti park területe: 85 000 ha", "Éves zarándokok száma: kb. 100 000", "Átlagos éves hőmérséklet: 10°C", "Növényfajok száma: több mint 1000"],
       ro: ["Altitudine: 1147 m", "Localizare: departamentele Var și Bouches-du-Rhône", "Suprafața parcului natural: 85.000 ha", "Pelerini anual: circa 100.000", "Temperatura medie anuală: 10°C", "Număr de specii de plante: peste 1000"],
       en: ["Elevation: 1,147 m", "Location: Var and Bouches-du-Rhône departments", "Nature park area: 85,000 ha", "Annual pilgrims: about 100,000", "Average annual temperature: 10°C", "Plant species: over 1,000"],
-    },
-  },
+    }, image: "/poi-images/france-massif-de-la-sainte-baume-relief-v2.webp"},
   {
     id: "france-plateau-de-larzac-relief-v2",
     type: "mountain",
@@ -671,8 +653,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Terület: kb. 1700 km²", "Magasság: 600-900 m (átlagosan 800 m)", "Éves csapadék: 600-800 mm", "Juhállomány: több mint 200 000", "Roquefort termelés: kb. 18 000 tonna évente", "Larzac katonai tábor: 1974-ben felszámolták"],
       ro: ["Suprafață: 1700 km²", "Altitudine: 600-900 m (medie 800 m)", "Precipitații anuale: 600-800 mm", "Efective de oi: peste 200.000", "Producția de Roquefort: 18.000 tone anual", "Tabăra militară Larzac: abandonată în 1974"],
       en: ["Area: 1,700 km²", "Average altitude: 800 m", "Annual rainfall: 600-800 mm", "Sheep population: over 200,000", "Roquefort production: 18,000 tons/year", "Military camp Larzac: abandoned in 1974"],
-    },
-  },
+    }, image: "/poi-images/france-plateau-de-larzac-relief-v2.webp"},
   {
     id: "france-mont-saint-baudille-relief-v2",
     type: "mountain",
@@ -703,8 +684,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Magasság: 1088 m", "Elhelyezkedés: Hérault megye", "Csúcsi kápolna: 11-12. században épült", "A Haut-Languedoc Természeti Park része (2600 km²)", "Júliusi átlaghőmérséklet: 18°C", "Éves csapadék: 1100 mm"],
       ro: ["Altitudine: 1088 m", "Localizare: departamentul Hérault", "Capelă pe vârf: construită în secolele XI-XII", "Parte a Parcului Natural Haut-Languedoc (2600 km²)", "Temperatura medie în iulie: 18°C", "Precipitații anuale: 1100 mm"],
       en: ["Elevation: 1,088 m", "Location: Hérault department", "Summit chapel: built in 11th-12th century", "Part of Haut-Languedoc Nature Park (2,600 km²)", "Average July temp: 18°C", "Annual precipitation: 1,100 mm"],
-    },
-  },
+    }, image: "/poi-images/france-mont-saint-baudille-relief-v2.webp"},
   {
     id: "france-plateau-de-beille-relief-v2",
     type: "mountain",
@@ -735,8 +715,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Magasság: 1800 m", "Elhelyezkedés: Ariège megye", "Síterep: 15 pálya, 35 km", "Tour de France szakasz cél: 4 alkalommal (1998, 2001, 2007, 2013)", "Januári átlaghőmérséklet: -3°C", "Terület: kb. 50 km²"],
       ro: ["Altitudine: 1800 m", "Localizare: departamentul Ariège", "Stațiune de schi: 15 pârtii, 35 km", "Sosire Turnul Franței: de 4 ori (1998, 2001, 2007, 2013)", "Temperatura medie în ianuarie: -3°C", "Suprafață: 50 km²"],
       en: ["Elevation: 1,800 m", "Location: Ariège department", "Ski resort: 15 slopes, 35 km", "Tour de France finishes: 4 times (1998, 2001, 2007, 2013)", "Average January temperature: -3°C", "Area: 50 km²"],
-    },
-  },
+    }, image: "/poi-images/france-plateau-de-beille-relief-v2.webp"},
   {
     id: "france-col-du-galibier-relief-v2",
     type: "mountain",
@@ -767,8 +746,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Magasság: 2642 m", "Első autóforgalom: 1890", "Hágóút hossza: 18 km (Maurienne-i oldal)", "Emelkedő: átlag 6,9%, max 12%", "Tour de France áthaladások: több mint 30", "Téli zárvatartás: november-május"],
       ro: ["Altitudine: 2642 m", "Primul trafic auto: 1890", "Lungimea șoselei: 18 km (partea Maurienne)", "Pantă: medie 6,9%, maxim 12%", "Număr de treceri în Turul Franței: peste 30", "Închis iarna: noiembrie-mai"],
       en: ["Elevation: 2,642 m", "First motorized traffic: 1890", "Road length: 18 km (Maurienne side)", "Gradient: average 6.9%, max 12%", "Tour de France crossings: over 30", "Winter closure: November to May"],
-    },
-  },
+    }, image: "/poi-images/france-col-du-galibier-relief-v2.webp"},
   {
     id: "france-mont-joly-relief-v2",
     type: "peak",
@@ -799,8 +777,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Legmagasabb pontja 2525 méterrel van a tengerszint felett", "Haute-Savoie megyében, a Beaufortain-masszívumban fekszik", "A csúcsról közvetlen rálátás nyílik a Mont Blanc-ra", "Télen a környező sípályarendszerek fontos része"],
       ro: ["Vârful atinge o înălțime de 2525 metri", "Situat la granița dintre stațiunile Megève și Saint-Gervais", "Face parte din punct de vedere geologic din masivul Beaufortain", "Accesibil prin numeroase trasee de drumeție și telegondole"],
       en: ["Peak elevation of 2,525 meters in the French Alps", "Located in the Haute-Savoie department", "Part of the Beaufortain Massif near the Mont Blanc area", "Famous for its 360-degree views of the surrounding valleys"],
-    },
-  },
+    }, image: "/poi-images/france-mont-joly-relief-v2.webp"},
   {
     id: "france-gorges-de-l-ardeche-relief-v2",
     type: "valley",
@@ -831,8 +808,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Hossz: 30 km", "Maximális mélység: 300 m", "Pont d'Arc: fesztáv 60 m, magasság 34 m", "Éves látogatók: 1 millió felett", "Chauvet-barlang: 36 000 éves festmények", "Védett terület: 4500 ha"],
       ro: ["Lungime: 30 km", "Adâncime maximă: 300 m", "Pont d'Arc: deschidere 60 m, înălțime 34 m", "Vizitatori anual: peste 1 milion", "Peștera Chauvet: picturi de 36.000 de ani", "Suprafața rezervației: 4500 ha"],
       en: ["Length: 30 km", "Maximum depth: 300 m", "Pont d'Arc: span 60 m, height 34 m", "Annual visitors: over 1 million", "Chauvet Cave: paintings 36,000 years old", "Protected area: 4,500 ha"],
-    },
-  },
+    }, image: "/poi-images/france-gorges-de-l-ardeche-relief-v2.webp"},
   {
     id: "france-mont-mezenc-relief-v2",
     type: "mountain",
@@ -863,8 +839,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Magasság: 1753 m", "Kőzet: fonolit", "Elhelyezkedés: Haute-Loire és Ardèche határán", "Haute-Loire megye legmagasabb pontja", "Júliusi átlaghőmérséklet: 14°C", "Éves csapadék: 1500 mm"],
       ro: ["Altitudine: 1753 m", "Rocă: fonolit", "Localizare: granița Haute-Loire/Ardèche", "Cel mai înalt punct al departamentului Haute-Loire", "Temperatura medie în iulie: 14°C", "Precipitații anuale: 1500 mm"],
       en: ["Elevation: 1,753 m", "Rock type: phonolite", "Location: border of Haute-Loire/Ardèche", "Highest point in Haute-Loire department", "Average July temperature: 14°C", "Annual rainfall: 1,500 mm"],
-    },
-  },
+    }, image: "/poi-images/france-mont-mezenc-relief-v2.webp"},
   {
     id: "france-plateau-de-millevaches-limousin-relief-v2",
     type: "mountain",
@@ -895,8 +870,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Terület: kb. 3500 km²", "Legmagasabb pont: Mont Bessou, 1023 m", "Átlagmagasság: 900 m", "Népsűrűség: 20 fő/km² alatt", "Éves csapadék: 1200-1500 mm", "Túraútvonalak hossza: 2000 km felett"],
       ro: ["Suprafață: 3500 km²", "Cel mai înalt punct: Mont Bessou, 1023 m", "Altitudine medie: 900 m", "Densitatea populației: sub 20 locuitori/km²", "Precipitații anuale: 1200-1500 mm", "Trasee de drumeție: peste 2000 km"],
       en: ["Area: 3,500 km²", "Highest point: Mont Bessou, 1,023 m", "Average altitude: 900 m", "Population density: under 20/km²", "Annual precipitation: 1,200-1,500 mm", "Hiking trails: over 2,000 km"],
-    },
-  },
+    }, image: "/poi-images/france-plateau-de-millevaches-limousin-relief-v2.webp"},
   {
     id: "france-mont-gervanne-relief-v2",
     type: "mountain",
@@ -927,8 +901,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Magasság: 1004 m", "Elhelyezkedés: Drôme megye", "Régió: Diois", "Júliusi átlaghőmérséklet: 20°C", "Éves csapadék: 800-1000 mm", "Távolság a Rhône-völgytől: kb. 20 km"],
       ro: ["Altitudine: 1004 m", "Localizare: departamentul Drôme", "Regiune: Diois", "Temperatura medie în iulie: 20°C", "Precipitații anuale: 800-1000 mm", "Distanța până la valea Ronului: 20 km"],
       en: ["Elevation: 1,004 m", "Location: Drôme department", "Region: Diois", "Average July temperature: 20°C", "Annual rainfall: 800-1,000 mm", "Distance to Rhône Valley: about 20 km"],
-    },
-  },
+    }, image: "/poi-images/france-mont-gervanne-relief-v2.webp"},
   {
     id: "france-mont-aiguille-relief-v2",
     type: "mountain",
@@ -959,8 +932,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Magasság: 2087 m", "Első megmászás: 1492, Antoine de Ville", "Kőzet: Urgon-mészkő", "Mászóutak száma: több mint 20", "Helyszín: Vercors-hegység, Franciaország", "Koordináták: 44°51′É, 5°32′K"],
       ro: ["Altitudine: 2087 m", "Prima ascensiune: 1492 de Antoine de Ville", "Rocă: calcar urgonian", "Număr de trasee: peste 20", "Locație: Masivul Vercors, Franța", "Coordonate: 44°51′N, 5°32′E"],
       en: ["Elevation: 2087 m", "First ascent: 1492 by Antoine de Ville", "Rock type: Urgonian limestone", "Number of climbing routes: over 20", "Location: Vercors Massif, France", "Coordinates: 44°51′N 5°32′E"],
-    },
-  },
+    }, image: "/poi-images/france-mont-aiguille-relief-v2.webp"},
   {
     id: "france-massif-de-l-esterel-relief-v2",
     type: "mountain",
@@ -991,8 +963,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Terület: kb. 130 km²", "Legmagasabb pont: Pic de l’Ours (618 m)", "Kőzettípus: vörös porfír (vulkanikus)", "Geológiai kor: perm", "Helyszín: Provence, Franciaország", "Túraútvonalak száma: több mint 20 kijelölt útvonal"],
       ro: ["Suprafață: cca 130 km²", "Cel mai înalt punct: Pic de l’Ours (618 m)", "Tip de rocă: porfir roșu (vulcanic)", "Epoca geologică: Permian", "Locație: Provence, Franța", "Număr de trasee: peste 20 de trasee marcate"],
       en: ["Area: approx. 130 km²", "Highest point: Pic de l’Ours (618 m)", "Rock type: red porphyry (volcanic)", "Geological period: Permian", "Location: Provence, France", "Number of hiking trails: over 20 marked routes"],
-    },
-  },
+    }, image: "/poi-images/france-massif-de-l-esterel-relief-v2.webp"},
   {
     id: "france-mont-gervanne-plateau-relief-v2",
     type: "mountain",
@@ -1055,8 +1026,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Magasság: 1826 m", "Kőzet: mészkő", "Védettség: Natura 2000", "Növényvilág: több mint 500 faj", "Állatvilág: pl. szirti sas, alpesi mormota", "Helyszín: Provence, Franciaország"],
       ro: ["Altitudine: 1826 m", "Rocă: calcar", "Statut de protecție: sit Natura 2000", "Floră: peste 500 de specii de plante", "Faună: acvila de munte, marmota alpină", "Locație: Provence, Franța"],
       en: ["Elevation: 1826 m", "Rock type: limestone", "Protected status: Natura 2000", "Flora: over 500 plant species", "Fauna: golden eagle, alpine marmot", "Location: Provence, France"],
-    },
-  },
+    }, image: "/poi-images/france-mont-lure-relief-v2.webp"},
   {
     id: "france-col-de-l-iseran-relief-v2",
     type: "mountain",
@@ -1087,8 +1057,7 @@ export const franceReliefV2: POI[] = [
       hu: ["Magasság: 2770 m", "Megnyitás éve: 1937", "Aszfaltozott hossz: kb. 48 km", "Emelkedő: maximum 10%", "Legközelebbi négyezres: Grande Casse (3855 m)", "Földrajzi hely: Savoya, Franciaország"],
       ro: ["Altitudine: 2770 m", "Anul deschiderii: 1937", "Lungime asfaltată: cca 48 km", "Pantă maximă: 10%", "Cel mai apropiat vârf de 4000 m: Grande Casse (3855 m)", "Locație: Savoia, Franța"],
       en: ["Elevation: 2770 m", "Opened: 1937", "Paved length: approx. 48 km", "Maximum gradient: 10%", "Nearest 4000 m peak: Grande Casse (3855 m)", "Location: Savoy, France"],
-    },
-  },
+    }, image: "/poi-images/france-col-de-l-iseran-relief-v2.webp"},
   {
     id: "france-mont-paradis-relief-v2",
     type: "mountain",

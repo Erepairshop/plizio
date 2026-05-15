@@ -31,8 +31,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["Mediana a 4. századból származik.", "Nagy Konstantin császár rezidenciája volt.", "A mozaikok 500 négyzetmétert fednek le.", "Az épületegyüttes egy 2 km-es vízvezetéket is magában foglal.", "1979-ben nyilvánították régészeti emlékké.", "Az ásatások a 20. században kezdődtek."],
       ro: ["Mediana datează din secolul al IV-lea d.Hr.", "A fost reședința împăratului Constantin cel Mare.", "Mozaicurile acoperă o suprafață de 500 de metri pătrați.", "Complexul include un apeduct de 2 km lungime.", "A fost declarată monument arheologic în 1979.", "Săpăturile au început în secolul al XX-lea și continuă."],
       en: ["Mediana dates from the 4th century AD.", "It was the residence of Emperor Constantine the Great.", "The mosaics cover an area of 500 square meters.", "The complex includes an aqueduct 2 km long.", "It was declared an archaeological site in 1979.", "Excavations began in the 20th century and are ongoing."],
-    },
-  },
+    }, image: "/poi-images/serbia-mediana-history-v2.webp"},
   {
     id: "serbia-bac-fortress-history-v2",
     type: "castle",
@@ -63,8 +62,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["1338 és 1342 között épült fel", "A központi lakótorony 18 méter magas", "A vár alaprajza szabálytalan ötszög", "1526-ban került oszmán kézre a mohácsi csata után", "A Duna egykori mellékága vette körül", "1948 óta kiemelt jelentőségű műemlék"],
       ro: ["Construită între anii 1338 și 1342", "Turnul central are o înălțime de 18 metri", "Incinta fortificată ocupă aproximativ 8 hectare", "Situată la 65 de kilometri de Novi Sad", "Prezintă elemente gotice și renascentiste", "A făcut parte din sistemul defensiv al Dunării"],
       en: ["Built between 1338 and 1342", "Central donjon tower stands 18 meters tall", "The site covers an area of 8 hectares", "Located 65 kilometers from Novi Sad", "Protected as a Monument of Culture of Exceptional Importance", "Architecture displays Gothic and Renaissance influences"],
-    },
-  },
+    }, image: "/poi-images/serbia-bac-fortress-history-v2.webp"},
   {
     id: "serbia-kosancic-venac-history-v2",
     type: "landmark",
@@ -95,8 +93,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["Itt találhatók a Nemzeti Könyvtár 1941-es romjai", "Ivan Kosančić rigómezei hősről nevezték el", "Itt található Belgrád legrégebbi lakóháza (1824)", "A Szent Mihály székesegyház uralja a teret", "A Száva és a Duna torkolatára néző sétány", "1971-ben nyilvánították műemléki övezetté"],
       ro: ["Găzduiește ruinele Bibliotecii Naționale din 1941", "Poartă numele eroului sârb Ivan Kosančić", "Include cea mai veche casă din Belgrad (1824)", "Catedrala Sfântul Mihail este punctul central", "Oferă o panoramă asupra confluenței Dunării", "Zonă protejată istoric din anul 1971"],
       en: ["Site of the National Library ruins from 1941", "Named after the Serbian hero Ivan Kosančić", "Home to the oldest house in Belgrade (1824)", "Features the St. Michael's Cathedral", "Overlooks the confluence of Sava and Danube", "Declared a Spatial Historic-Cultural Unit in 1971"],
-    },
-  },
+    }, image: "/poi-images/serbia-kosancic-venac-history-v2.webp"},
   {
     id: "serbia-stari-ras-history-v2",
     type: "ruins",
@@ -127,8 +124,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["Ó-Ras a 9-12. században Raszkia fővárosa volt.", "A Gradina erőd a lelőhely része.", "A Szent Péter templom a 8. századból való.", "1979 óta UNESCO világörökség.", "A lelőhely 10 km-re van Novi Pazartól.", "Az ásatások 50 épület alapját tárták fel."],
       ro: ["Stari Ras a fost capitala statului Raška între secolele IX-XII.", "Cetatea Gradina face parte din sit.", "Biserica Sfântul Petru datează din secolul al VIII-lea.", "Situl este UNESCO din 1979.", "Este situat la 10 km de Novi Pazar.", "Săpăturile au dezvelit fundațiile a 50 de clădiri."],
       en: ["Stari Ras was the capital of Raška from the 9th to 12th centuries.", "The Gradina fortress is part of the site.", "The Church of Saint Peter dates from the 8th century.", "It has been a UNESCO World Heritage site since 1979.", "The site is 10 km from Novi Pazar.", "Excavations have uncovered foundations of 50 buildings."],
-    },
-  },
+    }, image: "/poi-images/serbia-stari-ras-history-v2.webp"},
   {
     id: "serbia-pet-crkava-history-v2",
     type: "church",
@@ -159,8 +155,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["Egy illír sírhalom alapjaira épült a 9. században", "A Nemanjić-dinasztia legkorábbi koronázási helye", "A középkori rasi püspökség székhelye volt", "Freskói a 10., 12. és 13. századból származnak", "Az UNESCO világörökség része 1979 óta", "Kör alaprajzú rotunda stílusban készült"],
       ro: ["Ridicată pe ruinele unui tumul iliric", "Locul de botez al primilor regi Nemanjić", "Centrul episcopiei de Raška în evul mediu", "Frescele interioare datează din secolele X-XIII", "Inclusă în patrimoniul UNESCO în 1979", "Arhitectură de tip rotundă cu diametru de 14m"],
       en: ["Built over the ruins of an Illyrian tumulus", "Coronation site for early Nemanjić rulers", "Seat of the Raška Bishopric in the Middle Ages", "Contains frescoes from the 10th-13th centuries", "UNESCO World Heritage site since 1979", "The rotunda design is a rare Byzantine example"],
-    },
-  },
+    }, image: "/poi-images/serbia-pet-crkava-history-v2.webp"},
   {
     id: "serbia-maglic-fortress-history-v2",
     type: "castle",
@@ -191,8 +186,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["Az erőd a 13. században épült.", "Hét toronnyal rendelkezik.", "Kraljevótól 30 km-re található.", "A 15. században foglalták el a törökök.", "A falak magassága eléri a 10 métert.", "Védett kulturális műemlék."],
       ro: ["Cetatea a fost construită în secolul al XIII-lea.", "Are șapte turnuri.", "Este situată la 30 km de Kraljevo.", "A fost cucerită de otomani în secolul al XV-lea.", "Zidurile au până la 10 metri înălțime.", "Este un monument cultural protejat."],
       en: ["The fortress was built in the 13th century.", "It has seven towers.", "It is located 30 km from Kraljevo.", "It was captured by the Ottomans in the 15th century.", "The walls are up to 10 meters high.", "It is a protected cultural monument."],
-    },
-  },
+    }, image: "/poi-images/serbia-maglic-fortress-history-v2.webp"},
   {
     id: "serbia-kula-nebojsa-history-v2",
     type: "tower",
@@ -223,8 +217,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["A tornyot a 15. században építették a törökök.", "Magassága körülbelül 25 méter.", "Négyzet alaprajzú.", "Karađorđe kivégzése itt történt 1817-ben.", "A Kalemegdan erőd része.", "Ma múzeum található benne."],
       ro: ["Turnul a fost construit în secolul al XV-lea de otomani.", "Are aproximativ 25 de metri înălțime.", "Are un plan pătrat.", "Karađorđe a fost executat aici în 1817.", "Face parte din cetatea Kalemegdan.", "Astăzi găzduiește un muzeu."],
       en: ["The tower was built in the 15th century by the Ottomans.", "It is about 25 meters tall.", "It has a square plan.", "Karađorđe was executed here in 1817.", "It is part of the Kalemegdan Fortress.", "Today it houses a museum."],
-    },
-  },
+    }, image: "/poi-images/serbia-kula-nebojsa-history-v2.webp"},
   {
     id: "serbia-klisura-history-v2",
     type: "church",
@@ -255,8 +248,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["A kolostor a 13. században épült.", "Szűz Máriának van szentelve.", "A freskók a 16. századból származnak.", "A 19. században építették újjá.", "Aktív apácakolostor.", "A kolostor egy szurdokban található."],
       ro: ["Mănăstirea a fost construită în secolul al XIII-lea.", "Este dedicată Maicii Domnului.", "Frescele datează din secolul al XVI-lea.", "A fost reconstruită în secolul al XIX-lea.", "Este o mănăstire de maici activă.", "Mănăstirea este situată într-un defileu."],
       en: ["The monastery was built in the 13th century.", "It is dedicated to the Mother of God.", "The frescoes date from the 16th century.", "It was rebuilt in the 19th century.", "It is an active convent.", "The monastery is located in a gorge."],
-    },
-  },
+    }, image: "/poi-images/serbia-klisura-history-v2.webp"},
   {
     id: "serbia-pavlica-history-v2",
     type: "church",
@@ -287,8 +279,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["1381 és 1389 között épült fel", "A morvai építészeti iskola hatása érezhető", "Az alapító Musić testvérek sírhelye itt található", "Brvenik várának romjai a közelben fekszenek", "Stara Pavlica templomától alig 2 km-re található", "Freskói a koszovói csata előtti korból valók"],
       ro: ["Construită între anii 1381 și 1389", "Aparține stilului arhitectural de pe Morava", "Adăpostește mormintele ctitorilor Musić", "Situată în apropierea cetății medievale Brvenik", "Biserica Stara Pavlica se află în vecinătate", "Pictura murală este din perioada medievală"],
       en: ["Built between 1381 and 1389", "Follows the Morava architectural school style", "Contains the sarcophagi of the Musić brothers", "Located near the medieval fortress of Brvenik", "Situated 2 km from the older Stara Pavlica church", "Frescoes depict contemporary Serbian nobility"],
-    },
-  },
+    }, image: "/poi-images/serbia-pavlica-history-v2.webp"},
   {
     id: "serbia-priboj-banja-history-v2",
     type: "church",
@@ -319,8 +310,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["Az első írásos említése a 12. századból való", "A híres Banja-kincs lelőhelye (ötvösművészeti lelet)", "Fontos nemesi családok temetkezési helye volt", "Gyógyhatású termálforrások közelében épült", "A 16. században Makarije pátriárka felújíttatta", "Értékes 14. századi freskórészleteket őriz"],
       ro: ["Menționată documentar prima dată în secolul XII", "Adăpostește Tezaurul de la Banja (obiecte de aur)", "Necropolă pentru familiile nobiliare locale", "Situată lângă izvoare termale tămăduitoare", "Restaurată semnificativ în secolul al XVI-lea", "Biserica principală este dedicată Sfântului Nicolae"],
       en: ["First mentioned in records in the 12th century", "Discovery site of the Banja Treasure (gold artifacts)", "Mausoleum for high-ranking medieval noble families", "Located adjacent to healing thermal springs", "Major restoration took place in the 16th century", "The complex features the Church of St. Nicholas"],
-    },
-  },
+    }, image: "/poi-images/serbia-priboj-banja-history-v2.webp"},
   {
     id: "serbia-staro-selo-history-v2",
     type: "museum",
@@ -351,8 +341,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["50 eredeti, áttelepített faházból áll", "1980-ban alapították szabadtéri múzeumként", "A zlatibori térség kézműves hagyományait őrzi", "A terület 5 hektáron terül el", "Itt található a Szent Péter és Pál templom", "Híres a kézzel kötött sirogojnói pulóvereiről"],
       ro: ["Cuprinde 50 de gospodării autentice din lemn", "Înființat în 1980 ca muzeu etnografic", "Expune meșteșugurile tradiționale din Zlatibor", "Muzeul se întinde pe o suprafață de 5 hectare", "Include biserica Sfinților Apostoli Petru și Pavel", "Renumit pentru tricotajele specifice din Sirogojno"],
       en: ["Contains 50 authentic relocated wooden houses", "Established as an open-air museum in 1980", "Showcases the crafts of the Zlatibor Highlands", "The museum site spans 5 hectares of land", "Features the original St. Peter and Paul Church", "Birthplace of the worldwide famous Sirogojno sweaters"],
-    },
-  },
+    }, image: "/poi-images/serbia-staro-selo-history-v2.webp"},
   {
     id: "serbia-hopovo-history-v2",
     type: "church",
@@ -383,8 +372,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["Szent Pantaleon tiszteletére szentelték fel", "Mindössze 2 km-re fekszik Új-Hopovo kolostorától", "Oszmán források először 1545-ben említik", "Az 1751-es földrengés súlyos károkat okozott", "A mai templomépület 1752-ben készült el", "Egyhajós épület nyolcszögletű kupolával"],
       ro: ["Biserica este dedicată Sfântului Pantelimon", "Situată la 2 km de mănăstirea Novo Hopovo", "Menționată în documente otomane la 1545", "Afectată de un seism puternic în anul 1751", "Construcția actuală datează din anul 1752", "Arhitectură cu o singură navă și cupolă octogonală"],
       en: ["Dedicated to the Holy Martyr Pantaleon", "Located 2 km from the Novo Hopovo Monastery", "First Ottoman records mention it in 1545", "Severely damaged by an earthquake in 1751", "The current church structure was built in 1752", "Features a single-nave plan with an octagonal dome"],
-    },
-  },
+    }, image: "/poi-images/serbia-hopovo-history-v2.webp"},
   {
     id: "serbia-djurdjevi-stupovi-history-v2",
     type: "church",
@@ -415,8 +403,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["A kolostort a 12. században alapította Stefan Nemanja.", "Szent Györgynek szentelték.", "Építészete román stílusú.", "A 13. században bővítették.", "1979 óta UNESCO világörökség része.", "A harangtorony 15 méter magas."],
       ro: ["Mănăstirea a fost fondată în secolul al XII-lea de Stefan Nemanja.", "Este dedicată Sfântului Gheorghe.", "Arhitectura este romanică.", "A fost extinsă în secolul al XIII-lea.", "Face parte din patrimoniul UNESCO din 1979.", "Turnul clopotniță are 15 metri înălțime."],
       en: ["The monastery was founded in the 12th century by Stefan Nemanja.", "It is dedicated to Saint George.", "The architecture is Romanesque.", "It was expanded in the 13th century.", "It has been part of UNESCO World Heritage since 1979.", "The bell tower is 15 meters high."],
-    },
-  },
+    }, image: "/poi-images/serbia-djurdjevi-stupovi-history-v2.webp"},
   {
     id: "serbia-pec-patriarchate-history-v2",
     type: "church",
@@ -447,8 +434,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["A patriarchátus a 13-18. századig volt a pátriárkák székhelye.", "Az együttes négy templomból áll.", "A freskók a 13-14. századból származnak.", "2004 óta UNESCO világörökség.", "A Szent Apostol templom a legrégebbi, 1250 körül épült.", "A patriarchátus Peć városa közelében található."],
       ro: ["Patriarhia a fost sediul patriarhilor între secolele XIII-XVIII.", "Complexul cuprinde patru biserici.", "Frescele datează din secolele XIII-XIV.", "Face parte din patrimoniul UNESCO din 2004.", "Biserica Sfinților Apostoli este cea mai veche, construită în jurul anului 1250.", "Patriarhia este situată lângă orașul Peć."],
       en: ["The Patriarchate was the seat of Serbian patriarchs from the 13th to 18th centuries.", "The complex includes four churches.", "The frescoes date from the 13th and 14th centuries.", "It has been a UNESCO World Heritage site since 2004.", "The Church of the Holy Apostles is the oldest, built around 1250.", "The Patriarchate is located near the city of Peć."],
-    },
-  },
+    }, image: "/poi-images/serbia-pec-patriarchate-history-v2.webp"},
   {
     id: "serbia-gracanica-history-v2",
     type: "church",
@@ -479,8 +465,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["A kolostort a 14. században építtette Stefan Milutin király.", "Szűz Mária mennybevételének szentelték.", "Építészetében egy központi kupola és öt további kupola található.", "A freskók a 14. századból származnak.", "2004 óta UNESCO világörökség.", "A kolostor Pristina közelében található."],
       ro: ["Mănăstirea a fost construită în secolul al XIV-lea de regele Stefan Milutin.", "Este dedicată Adormirii Maicii Domnului.", "Arhitectura are o cupolă centrală și cinci cupole suplimentare.", "Frescele datează din secolul al XIV-lea.", "Face parte din patrimoniul UNESCO din 2004.", "Mănăstirea este situată lângă Priștina."],
       en: ["The monastery was built in the 14th century by King Stefan Milutin.", "It is dedicated to the Dormition of the Virgin.", "The architecture features a central dome and five additional domes.", "The frescoes date from the 14th century.", "It has been a UNESCO World Heritage site since 2004.", "The monastery is located near Priština."],
-    },
-  },
+    }, image: "/poi-images/serbia-gracanica-history-v2.webp"},
   {
     id: "serbia-banjska-monastery-history-v2",
     type: "church",
@@ -511,8 +496,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["A rasi építészeti iskola egyik legszebb példája", "Stefan Milutin király legfontosabb alapítványa", "Egykor Szerbia egyik leggazdagabb kolostora volt", "Koszovó északi részén, Zvečan közelében található", "A templomot Szent István vértanú tiszteletére szentelték", "A 15. században mecsetté alakították az oszmánok"],
       ro: ["Exemplu monumental al școlii de arhitectură Raška", "Ctitoria principală a regelui Stefan Milutin", "A fost una dintre cele mai bogate mănăstiri sârbe", "Situată în apropiere de Zvečan, în Kosovo", "Biserica poartă hramul Sfântului Ștefan", "Transformată în moschee în secolul al XV-lea"],
       en: ["A prime example of the Raška architectural school", "The most significant endowment of King Milutin", "Once among the wealthiest monasteries in Serbia", "Located near the town of Zvečan in Kosovo", "The church is dedicated to Saint Stephen", "Converted into a mosque during the Ottoman period"],
-    },
-  },
+    }, image: "/poi-images/serbia-banjska-monastery-history-v2.webp"},
   {
     id: "serbia-radoštica-history-v2",
     type: "church",
@@ -543,8 +527,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["Szent Száva korai életrajzaiban említik", "A szerb állam kialakulásának magterületén fekszik", "A 20. században régészeti feltárások kezdődtek", "Szerbia hegyvidéki délnyugati részén található", "Szoros kapcsolat Stefan Nemanja uralkodásával", "Fontos helyszín a középkori szerb egyháztörténetben"],
       ro: ["Menționată în biografiile vechi ale Sfântului Sava", "Situată în nucleul central al statului sârb medieval", "Săpături arheologice au avut loc în secolul XX", "Se află în zona muntoasă din sud-vestul Serbiei", "Legată istoric de domnia lui Stefan Nemanja", "Loc de cercetare pentru originile școlii Raška"],
       en: ["Mentioned in the hagiographies of Saint Sava", "Located in the core territory of medieval Serbia", "Archaeological research intensified in the 20th century", "Situated in the mountainous southwestern Serbia", "Historically associated with the reign of Stefan Nemanja", "Important site for understanding early Raška history"],
-    },
-  },
+    }, image: "/poi-images/serbia-radoštica-history-v2.webp"},
   {
     id: "serbia-studenica-history-v2",
     type: "church",
@@ -575,8 +558,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["A templom belső hossza 21 m", "A főkupola átmérője 8 m", "A freskók 60%-a a 13. századból maradt fenn", "A kolostorudvar területe 800 m²", "A harangtorony 5 harangot tartalmaz", "1204-ben a kolostort kifosztották"],
       ro: ["Altitudinea: 410 m", "Suprafața terenului: 1,5 ha", "Distanța până la Belgrad: 200 km", "Numărul de vizitatori anual: 50.000", "Înălțimea zidurilor: 8 m", "Anul sfințirii: 1196"],
       en: ["The church was completed in 1196", "The dome height is 20 m", "The iconostasis dates from the 16th century", "The refectory was built in the 13th century", "The monastery library holds 150 manuscripts", "Monument of Culture of Exceptional Importance since 1947"],
-    },
-  },
+    }, image: "/poi-images/serbia-studenica-history-v2.webp"},
   {
     id: "serbia-gradac-history-v2",
     type: "church",
@@ -607,8 +589,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["Alapítva 1275 körül", "A templom gótikus portálja 3 m magas", "A harangtorony 25 m magas", "A kolostor területe 0,8 ha", "A folyótól 50 m-re fekszik", "2000-ben újították fel"],
       ro: ["Altitudine: 380 m", "Distanța până la Brus: 5 km", "Numărul de maici: 6", "Anul fondării: 1270", "Lungimea bisericii: 18 m", "Înălțimea clopotniței: 25 m"],
       en: ["Founded in 1270 by Queen Jelena", "Church length: 18 m", "Gothic window diameter: 2 m", "Elevation: 400 m", "Restored in 1969", "Number of nuns: 5"],
-    },
-  },
+    }, image: "/poi-images/serbia-gradac-history-v2.webp"},
   {
     id: "serbia-kalenic-history-v2",
     type: "church",
@@ -639,8 +620,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["A templom hossza 25 m", "A központi kupola magassága 18 m", "Az alapítás éve 1410", "A kolostor területe 1 ha", "A freskók 120 m²-t fednek le", "A harangtorony 20 m magas"],
       ro: ["Altitudine: 250 m", "Distanța până la Rekovac: 10 km", "Numărul de călugări: 8", "Anul construirii: 1415", "Lungimea bisericii: 25 m", "Înălțimea cupolei: 18 m"],
       en: ["Construction: 1407-1415", "Number of domes: 5", "Frescoes date from 1415", "Elevation: 250 m", "Restored in 1965", "Monk population: 8"],
-    },
-  },
+    }, image: "/poi-images/serbia-kalenic-history-v2.webp"},
   {
     id: "serbia-raca-history-v2",
     type: "church",
@@ -671,8 +651,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["A templom hossza 20 m", "Az ikonosztáz 10 m széles", "A kolostorudvar területe 600 m²", "A harangtorony 22 m magas", "A kolostort 1870-ben szentelték fel", "Jelenleg 5 szerzetes él itt"],
       ro: ["Altitudine: 300 m", "Distanța până la Bajina Bašta: 3 km", "Anul reconstrucției: 1858", "Numărul de călugări: 6", "Lungimea bisericii: 20 m", "Înălțimea iconostasului: 8 m"],
       en: ["Founded in the 13th century", "Church rebuilt in 1858", "Iconostasis height: 8 m", "Elevation: 300 m", "Number of monks: 6", "Manuscripts: 200 volumes"],
-    },
-  },
+    }, image: "/poi-images/serbia-raca-history-v2.webp"},
   {
     id: "serbia-pustinja-history-v2",
     type: "church",
@@ -703,8 +682,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["Alapítva 1632", "A templom magassága 8 m", "A kolostor területe 0,5 ha", "A harangtorony 15 m magas", "A kolostorban 3 kápolna található", "2002-ben renoválták"],
       ro: ["Altitudine: 350 m", "Distanța până la Valjevo: 15 km", "Anul fondării: 1630", "Numărul de maici: 4", "Lungimea bisericii: 12 m", "Anul reconstrucției: 1835"],
       en: ["Founded around 1630", "Church length: 12 m", "Elevation: 350 m", "Rebuilt in 1835", "Number of nuns: 4", "Distance to Valjevo: 15 km"],
-    },
-  },
+    }, image: "/poi-images/serbia-pustinja-history-v2.webp"},
   {
     id: "serbia-kopo-history-v2",
     type: "church",
@@ -735,8 +713,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["A templom hossza 30 m", "A főoltár a 18. századból származik", "A kolostor területe 2 ha", "A harangtorony 35 m magas", "Évente 10.000 liter bort termelnek", "A kolostorban 5 szerzetes él"],
       ro: ["Altitudine: 80 m", "Distanța până la Novi Sad: 15 km", "Anul reconstrucției: 1725", "Suprafața podgoriilor: 20 ha", "Numărul de călugări: 10", "Biblioteca: 5000 de volume"],
       en: ["Founded in the 13th century", "Baroque church consecrated in 1725", "Vineyards: 20 ha", "Library: 5000 volumes", "Elevation: 80 m", "Monk population: 10"],
-    },
-  },
+    }, image: "/poi-images/serbia-kopo-history-v2.webp"},
   {
     id: "serbia-fenek-history-v2",
     type: "church",
@@ -767,8 +744,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["Stefan Brankovics despota alapította 1450-ben", "Jakovo falu közelében fekszik, Belgrád mellett", "Itt találkozott Karađorđe és I. Ferenc császár", "Templomát Szent Petka (Paraskeva) tiszteletére szentelték", "Az első világháborúban romba dőlt, később újjáépült", "A 18. századi ikonosztáza művészettörténeti ritkaság"],
       ro: ["Fondată de despotul Stefan Branković în 1450", "Situată lângă Jakovo, în apropiere de Belgrad", "Loc de întâlnire între Karađorđe și împăratul Francisc I", "Biserica poartă hramul Sfintei Cuvioase Parascheva", "Distrusă în Primul Război Mondial și reconstruită", "Adăpostește o catapeteasmă valoroasă din secolul XVIII"],
       en: ["Founded by Despot Stefan Branković around 1450", "Located near Jakovo village, close to Belgrade", "Meeting place of Karađorđe and Emperor Francis I", "The church is dedicated to Saint Paraskeva", "Destroyed in WWI and later fully restored", "Features a significant 18th-century iconostasis"],
-    },
-  },
+    }, image: "/poi-images/serbia-fenek-history-v2.webp"},
   {
     id: "serbia-hopovo-novo-history-v2",
     type: "church",
@@ -799,8 +775,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["A templom hossza 28 m", "A harangtorony 40 m magas", "A kolostor területe 1,2 ha", "Az ikonosztáz a 18. századból való", "A kolostorban 4 szerzetes él", "2005-ben renoválták"],
       ro: ["Altitudine: 200 m", "Distanța până la Novi Sad: 20 km", "Anul finalizării bisericii: 1750", "Numărul de călugări: 7", "Înălțimea iconostasului: 10 m", "Biblioteca: 3000 de volume"],
       en: ["Founded in the 15th century", "Baroque church completed in 1750", "Iconostasis height: 10 m", "Elevation: 200 m", "Monk population: 7", "Library: 3000 books"],
-    },
-  },
+    }, image: "/poi-images/serbia-hopovo-novo-history-v2.webp"},
   {
     id: "serbia-jazak-history-v2",
     type: "church",
@@ -831,8 +806,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["Az új kolostor építése 1736-ban kezdődött", "V. Uroš cár ereklyéinek őrzőhelye", "A Tarcal-hegység egyik eldugott völgyében fekszik", "Építészete a barokk és a szerb hagyomány ötvözete", "Az ikonosztáz Dimitrije Bačević híres munkája", "A Vajdaság egyik legfontosabb zarándokhelye"],
       ro: ["Noua mănăstire a fost ridicată în anul 1736", "Păstrează moaștele Sfântului Țar Uroš cel Slab", "Amplasată într-o vale pitorească din Fruška Gora", "Arhitectură ce îmbină barocul cu stilul tradițional", "Iconostasul a fost pictat de Dimitrije Bačević", "Unul dintre cele mai active centre monahale"],
       en: ["The current monastery was built in 1736", "Holds the relics of Holy Emperor Stefan Uroš V", "Located in a secluded valley of Fruška Gora", "Architecture blends Baroque and Raška elements", "The iconostasis was painted by Dimitrije Bačević", "One of the most visited monasteries in Vojvodina"],
-    },
-  },
+    }, image: "/poi-images/serbia-jazak-history-v2.webp"},
   {
     id: "serbia-beocin-history-v2",
     type: "church",
@@ -863,8 +837,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["A jelenlegi templom 1732-ben épült fel", "Értékes könyvtárral és kincstárral rendelkezik", "Hosszú ideig szerb püspöki rezidenciaként szolgált", "Itt található a Beocsini Szűzanya csodatevő ikonja", "A második világháború pusztításaitól megmenekült", "Hatalmas kertjét ritka növényfajok díszítik"],
       ro: ["Edificiul actual datează din anul 1732", "Deține o bibliotecă și o vistierie valoroasă", "A servit drept reședință pentru episcopii sârbi", "Adăpostește icoana făcătoare de minuni a Maicii Domnului", "A scăpat neafectată în timpul celui de-al Doilea Război Mondial", "Grădina mănăstirii este considerată monument al naturii"],
       en: ["The current church building dates back to 1732", "Houses a valuable library and treasury collection", "Used as a residence for several Serbian bishops", "Home to the miraculous Icon of the Mother of God", "Relatively undamaged during the Second World War", "The surrounding park features rare botanical species"],
-    },
-  },
+    }, image: "/poi-images/serbia-beocin-history-v2.webp"},
   {
     id: "serbia-sisatovac-history-v2",
     type: "church",
@@ -895,8 +868,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["Eredetileg Szent Miklós tiszteletére szentelték", "Itt őrizték a híres 'Šišatovac Apostol' kódexet", "1941-ben az usztasák felrobbantották a templomot", "Az újjáépítés az 1990-es években vette kezdetét", "Itt élt és alkotott a vak Filip Višnjić énekmondó", "A 18. században monumentális barokk köntöst kapott"],
       ro: ["Dedicată inițial Sfântului Ierarh Nicolae", "Faimoasă pentru manuscrisul 'Apostolul de la Šišatovac'", "Aruncată în aer în 1941 de către trupele ustașe", "Reconstrucția complexului a început după 1990", "Locul unde a fost înmormântat rapsodul Filip Višnjić", "A beneficiat de o arhitectură barocă impunătoare"],
       en: ["Originally dedicated to Saint Nicholas", "Famous for the 14th-century 'Šišatovac Apostle' manuscript", "Completely destroyed by Ustaše forces in 1941", "Full reconstruction process began in the late 1990s", "Home to the blind gusle player Filip Višnjić", "The site is a symbol of cultural resilience in Srem"],
-    },
-  },
+    }, image: "/poi-images/serbia-sisatovac-history-v2.webp"},
   {
     id: "serbia-petkovica-history-v2",
     type: "church",
@@ -927,8 +899,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["Szent Petka (Szent Paraskeva) tiszteletére szentelték", "Eredeti freskói 1588-ból maradtak fenn", "Kisméretű, egyhajós templomépület jellemzi", "A 18. században apácazárdaként működött", "Šišatovac falutól mindössze néhány kilométerre van", "A 20. század közepén jelentős restauráláson esett át"],
       ro: ["Hramul mănăstirii este Sfânta Cuvioasă Parascheva", "Păstrează picturi murale originale din anul 1588", "Biserica este de dimensiuni mici, cu o singură navă", "A funcționat ca mănăstire de maici în secolul XVIII", "Situată în proximitatea satului Šišatovac", "Restaurată parțial după distrugerile din război"],
       en: ["Dedicated to Saint Petka (Paraskeva)", "Features authentic frescoes painted in 1588", "The church is characterized by its small, single-nave plan", "Served as a nunnery during the 18th century", "Located in the vicinity of Šišatovac village", "One of the best-preserved small monasteries in the region"],
-    },
-  },
+    }, image: "/poi-images/serbia-petkovica-history-v2.webp"},
   {
     id: "serbia-divsa-history-v2",
     type: "church",
@@ -959,8 +930,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["Szent Miklós tiszteletére emelték a templomot", "Török adóösszeírásokban 1566-ban szerepel először", "1744-ben barokk stílusú átalakításon esett át", "A második világháború alatt földig rombolták", "A teljes helyreállítása 2000-re fejeződött be", "Igen értékes 18. századi ikonosztáz-töredékeket őriz"],
       ro: ["Biserica principală este dedicată Sfântului Nicolae", "Atestată documentar în scrierile otomane din 1566", "Renovată integral în stil baroc în anul 1744", "Distrusă aproape în totalitate în Al Doilea Război Mondial", "Lucrările de reconstrucție s-au finalizat în anul 2000", "Adăpostește fragmente dintr-un iconostas de secol XVIII"],
       en: ["Dedicated to the Translation of Relics of St. Nicholas", "First recorded in Ottoman defters in 1566", "Underwent extensive Baroque renovation in 1744", "Almost completely leveled during WWII", "The reconstruction of the church ended in 2000", "Located in one of the most secluded parts of the mountain"],
-    },
-  },
+    }, image: "/poi-images/serbia-divsa-history-v2.webp"},
   {
     id: "serbia-kuvezdin-history-v2",
     type: "church",
@@ -991,8 +961,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["A templom hossza 24 m", "A harangtorony 30 m magas", "A kolostor területe 1 ha", "Az ikonosztáz a 18. századból való", "A kolostorban 3 szerzetes él", "2010-ben újították fel"],
       ro: ["Altitudine: 250 m", "Distanța până la Sremska Mitrovica: 15 km", "Anul sfințirii: 1760", "Numărul de maici: 6", "Lungimea bisericii: 24 m", "Colecția de icoane: 50"],
       en: ["Founded in the 14th century", "Baroque church consecrated in 1760", "Elevation: 250 m", "Number of nuns: 6", "Restored in 1970", "Icon collection: 50 pieces"],
-    },
-  },
+    }, image: "/poi-images/serbia-kuvezdin-history-v2.webp"},
   {
     id: "serbia-privina-glava-history-v2",
     type: "church",
@@ -1023,8 +992,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["A templom hossza 22 m", "A harangtorony 35 m magas", "A kolostor területe 0,9 ha", "Az ikonosztáz a 18. századból való", "A kolostorban 5 szerzetes él", "2008-ban renoválták"],
       ro: ["Altitudine: 300 m", "Distanța până la Ilok: 10 km", "Anul sfințirii: 1740", "Numărul de călugări: 4", "Lungimea bisericii: 22 m", "Manuscrise: 100"],
       en: ["Founded in the 12th century", "Baroque church consecrated in 1740", "Elevation: 300 m", "Manuscripts: 100", "Monk population: 4", "Restored in 1950"],
-    },
-  },
+    }, image: "/poi-images/serbia-privina-glava-history-v2.webp"},
   {
     id: "serbia-raska-crkva-history-v2",
     type: "church",
@@ -1055,8 +1023,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["Stefan Nemanja uralkodása alatt alakult ki", "Jellemzője az egyhajós tér és a központi kupola", "A homlokzatokat gyakran fehér márvány borítja", "Fő példái a studenicai és a banjskai kolostorok", "A középkori szerb állam fénykorát jelképezi", "Az adriai partvidék építőmesterei is dolgoztak rajta"],
       ro: ["S-a dezvoltat sub patronajul lui Stefan Nemanja", "Caracterizată prin planul cu o singură navă și cupolă", "Fațadele sunt adesea placate cu marmură albă", "Exemple clasice sunt Studenica și Banjska", "Simbolizează unitatea statului sârb medieval", "Influențată de meșterii pietrari de la Marea Adriatică"],
       en: ["Developed during the reign of Stefan Nemanja", "Features a single-nave design with a central dome", "Facades are frequently decorated with white marble", "Key examples include Studenica and Banjska", "Reflects the political rise of the Nemanjić dynasty", "Shows clear influence from Dalmatian coastal craftsmen"],
-    },
-  },
+    }, image: "/poi-images/serbia-raska-crkva-history-v2.webp"},
   {
     id: "serbia-sopotnica-history-v2",
     type: "church",
@@ -1087,8 +1054,7 @@ export const serbiaHistoryV2: POI[] = [
       hu: ["A település temploma a 14. században épült", "A Jadovnik-hegység oldalában található", "Híres a hagyományos, terméskőből épült házairól", "A vízesések mésztufa teraszokon zúdulnak le", "Prijepolje városa mindössze 17 km-re fekszik", "Védett természeti és kulturális örökségi helyszín"],
       ro: ["Biserica locală datează din secolul al XIV-lea", "Situată pe versanții muntelui Jadovnik", "Renumită pentru arhitectura tradițională din piatră", "Cascadele s-au format pe terase de travertin", "Se află la aproximativ 17 km de Prijepolje", "Zonă protejată pentru valoarea peisagistică"],
       en: ["The village church dates back to the 14th century", "Situated on the slopes of Jadovnik Mountain", "Known for unique traditional stone masonry", "The waterfalls flow over tufa (travertine) terraces", "Located 17 kilometers from the town of Prijepolje", "Declared a protected Natural Monument of Serbia"],
-    },
-  },
+    }, image: "/poi-images/serbia-sopotnica-history-v2.webp"},
   {
     id: "serbia-konal-history-v2",
     type: "church",

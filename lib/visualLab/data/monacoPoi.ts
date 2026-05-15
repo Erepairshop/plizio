@@ -574,8 +574,7 @@ export const monacoRegionsPoi: POI[] = [
         "View of the Rock of Monaco",
         "Century-old olive trees"
       ]
-    }
-  },
+    }, image: "/poi-images/MC-001-antoinette-park.webp"},
   {
     id: "MC-001-st-charles-church",
     type: "landmark",

@@ -31,8 +31,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Éves kapacitás: 4,8 millió tonna nyersolaj", "Üzembe helyezés: 1968", "Alkalmazottak száma: kb. 1200", "Termékpaletta: több mint 50 különböző termék", "Feldolgozási mélység: 98%", "Korszerűsítési beruházások 2000 óta: 500 millió euró"],
       ro: ["Capacitate anuală: 4,8 milioane de tone de țiței", "Anul punerii în funcțiune: 1968", "Număr de angajați: aprox. 1.200", "Gamă de produse: peste 50 de produse diferite", "Adâncimea de procesare: 98%", "Investiții în modernizare din 2000: 500 milioane €"],
       en: ["Annual capacity: 4.8 million tons of crude oil", "Commissioned: 1968", "Number of employees: approx. 1,200", "Product range: over 50 different products", "Processing depth: 98%", "Modernization investments since 2000: €500 million"],
-    },
-  },
+    }, image: "/poi-images/serbia-pancevo-refinery-economic-v2.webp"},
   {
     id: "serbia-kostolac-power-plant-economic-v2",
     type: "industry",
@@ -63,8 +62,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Teljes teljesítmény: 800 MW (Kostolac A 100 MW, B 700 MW)", "Kostolac A üzembe helyezése: 1967", "Kostolac B blokkok üzembe helyezése: 1990 és 1991", "Éves szénkitermelés: kb. 12 millió tonna", "CO2-kibocsátás: évente kb. 8 millió tonna", "Foglalkoztatottak száma: kb. 2500"],
       ro: ["Capacitate totală: 800 MW (Kostolac A 100 MW, B 700 MW)", "Punerea în funcțiune Kostolac A: 1967", "Punerea în funcțiune Kostolac B: 1990 și 1991", "Producția anuală de cărbune: aprox. 12 milioane de tone", "Emisii CO2: aproximativ 8 milioane de tone pe an", "Număr de angajați: aprox. 2.500"],
       en: ["Total capacity: 800 MW (Kostolac A 100 MW, B 700 MW)", "Kostolac A commissioned: 1967", "Kostolac B units commissioned: 1990 and 1991", "Annual coal production: approx. 12 million tons", "CO2 emissions: approximately 8 million tons per year", "Number of employees: approx. 2,500"],
-    },
-  },
+    }, image: "/poi-images/serbia-kostolac-power-plant-economic-v2.webp"},
   {
     id: "serbia-zastava-kragujevac-economic-v2",
     type: "factory",
@@ -95,8 +93,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["A gyár alapításának éve: 1853", "Legmagasabb alkalmazotti létszám: több mint 50 000", "Az ipari park területe: 100 hektár", "A Zastava 101 gyártásának kezdete: 1971", "Csúcson éves termelés: 200 000 jármű", "A Fiat beruházása: 1 milliárd euró (2008)"],
       ro: ["Anul înființării fabricii: 1853", "Număr maxim de angajați: peste 50.000", "Suprafața parcului industrial: 100 de hectare", "Începutul producției Zastava 101: 1971", "Producția anuală la apogeu: 200.000 de vehicule", "Investiția Fiat: 1 miliard € (2008)"],
       en: ["Year of foundation: 1853", "Peak employment: over 50,000", "Industrial park area: 100 hectares (247 acres)", "Start of Zastava 101 production: 1971", "Peak annual production: 200,000 vehicles", "Fiat investment: €1 billion (2008)"],
-    },
-  },
+    }, image: "/poi-images/serbia-zastava-kragujevac-economic-v2.webp"},
   {
     id: "serbia-rtb-bor-mine-economic-v2",
     type: "mine",
@@ -127,8 +124,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Éves réztermelés: 30 000 tonna", "Bányászat kezdete: 1903", "Külszíni bánya mélysége: több mint 500 m", "Aranytartalom tonnánként: 0,5 g", "Foglalkoztatottak száma: kb. 5000", "Összes kitermelt érc a kezdetektől: több mint 1 milliárd tonna"],
       ro: ["Producția anuală de cupru: 30.000 de tone", "Începutul exploatării: 1903", "Adâncimea carierei: peste 500 m", "Conținut de aur per tonă de minereu: 0,5 g", "Număr de angajați: aprox. 5.000", "Volum total extras de la început: peste 1 miliard de tone de minereu"],
       en: ["Annual copper production: 30,000 tons", "Mining started: 1903", "Depth of open pit: over 500 m (1,640 ft)", "Gold content per ton of ore: 0.5 g", "Number of employees: approx. 5,000", "Total ore extracted since start: over 1 billion tons"],
-    },
-  },
+    }, image: "/poi-images/serbia-rtb-bor-mine-economic-v2.webp"},
   {
     id: "serbia-subotica-industrial-zone-economic-v2",
     type: "industry",
@@ -159,8 +155,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Terület: 400 ha", "Cégek száma: kb. 50", "Fejlesztés kezdete: 2000-es évek", "Autópálya: E75", "Szabadka lakossága: ~100 000", "Fő ágazatok: autóipari beszállítók, fémfeldolgozás"],
       ro: ["Suprafață: 400 ha", "Număr de companii: ~50", "Dezvoltare: începutul anilor 2000", "Autostradă: E75", "Populația Subotica: ~100.000", "Industrii principale: auto, metalurgie"],
       en: ["Area: 400 ha", "Number of companies: ~50", "Development started: early 2000s", "Highway: E75", "City population: 100,000", "Key sectors: automotive, metal processing"],
-    },
-  },
+    }, image: "/poi-images/serbia-subotica-industrial-zone-economic-v2.webp"},
   {
     id: "serbia-kikinda-oil-fields-economic-v2",
     type: "industry",
@@ -191,8 +186,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Napi olajtermelés: 1500 hordó", "Felfedezés éve: 1952", "Kitermelési mélység: 1500–2500 m", "Fúrások száma: több mint 200", "Földgáztermelés: 1 millió köbméter naponta", "Lelőhely mérete: becslések szerint 20 millió hordó olajegyenérték"],
       ro: ["Producție zilnică de petrol: 1.500 de barili", "Anul descoperirii: 1952", "Adâncimea de extracție: 1.500–2.500 m", "Număr de sonde: peste 200", "Producția de gaze naturale: 1 milion de metri cubi pe zi", "Dimensiunea zăcământului: estimat la 20 de milioane de barili echivalent petrol"],
       en: ["Daily oil production: 1,500 barrels", "Year of discovery: 1952", "Extraction depth: 1,500–2,500 m (4,921–8,202 ft)", "Number of wells: over 200", "Natural gas production: 1 million cubic meters per day", "Reservoir size: estimated 20 million barrels of oil equivalent"],
-    },
-  },
+    }, image: "/poi-images/serbia-kikinda-oil-fields-economic-v2.webp"},
   {
     id: "serbia-nis-electronic-industry-economic-v2",
     type: "factory",
@@ -223,8 +217,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Népesség: kb. 260.000", "Elektronikai cégek: több mint 100", "EI Niš alapítása: 1961", "Autópálya: A1", "Niši Egyetem: 1965-ben alapították", "Export: EU országok"],
       ro: ["Populație: ~260.000", "Companii de electronică: >100", "Fondarea EI Niš: 1961", "Autostradă: A1", "Universitatea din Niš: fondată 1965", "Export: către UE"],
       en: ["City population: 260,000", "Electronics companies: >100", "EI Niš founded: 1961", "Highway: A1", "University of Niš founded: 1965", "Export market: European Union"],
-    },
-  },
+    }, image: "/poi-images/serbia-nis-electronic-industry-economic-v2.webp"},
   {
     id: "serbia-zrenjanin-industrial-park-economic-v2",
     type: "industry",
@@ -255,8 +248,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Terület: 250 ha", "Megnyitás: 2006", "Cégek száma: kb. 40", "Távolság Belgrádtól: 70 km", "Nagybecskerek lakossága: ~75.000", "Fő ágazatok: autóipar, műanyag, élelmiszer"],
       ro: ["Suprafață: 250 ha", "Inaugurare: 2006", "Număr companii: ~40", "Distanță față de Belgrad: 70 km", "Populația Zrenjanin: ~75.000", "Sectoare principale: automotive, materiale plastice, alimentație"],
       en: ["Area: 250 ha", "Opened: 2006", "Number of companies: ~40", "Distance from Belgrade: 70 km", "City population: 75,000", "Key sectors: automotive, plastics, food processing"],
-    },
-  },
+    }, image: "/poi-images/serbia-zrenjanin-industrial-park-economic-v2.webp"},
   {
     id: "serbia-smederevo-steel-mill-economic-v2",
     type: "industry",
@@ -287,8 +279,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Éves kapacitás: 2,2 millió tonna acél", "Alapítás éve: 1913", "Alkalmazottak száma: kb. 5000", "HBIS Group általi átvétel: 2016", "Export aránya: a termelés több mint 80%-a", "Elhelyezkedés: a Duna partján, Belgrádtól 40 km-re"],
       ro: ["Capacitate anuală: 2,2 milioane de tone de oțel", "Anul înființării: 1913", "Număr de angajați: aprox. 5.000", "Preluare de către HBIS Group: 2016", "Cota de export: peste 80% din producție", "Locație: pe malul Dunării, la 40 km de Belgrad"],
       en: ["Annual capacity: 2.2 million tons of steel", "Year founded: 1913", "Number of employees: approx. 5,000", "Acquisition by HBIS Group: 2016", "Export share: over 80% of output", "Location: on the Danube River, 40 km (25 mi) from Belgrade"],
-    },
-  },
+    }, image: "/poi-images/serbia-smederevo-steel-mill-economic-v2.webp"},
   {
     id: "serbia-pozarevac-economic-center-economic-v2",
     type: "city",
@@ -319,8 +310,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Lakosság: kb. 45 000", "Kostolac erőmű kapacitása: ~1000 MW", "Külszíni bánya: lignit", "Autópálya: A1", "Duna: folyamkilométer 1100", "Távolság Belgrádtól: 80 km"],
       ro: ["Populație: ~45.000", "Centrala Kostolac: capacitate ~1.000 MW", "Mină: lignit la suprafață", "Autostradă: A1", "Dunăre: km fluvial 1100", "Distanță față de Belgrad: 80 km"],
       en: ["Population: 45,000", "Kostolac power plant capacity: ~1,000 MW", "Mining: lignite open-pit", "Highway: A1", "Danube river km: 1100", "Distance from Belgrade: 80 km"],
-    },
-  },
+    }, image: "/poi-images/serbia-pozarevac-economic-center-economic-v2.webp"},
   {
     id: "serbia-vrsac-industrial-zone-economic-v2",
     type: "industry",
@@ -351,8 +341,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Terület: 200 ha", "Cégek száma: több mint 30", "Fejlesztés: 2010-es évek", "Népesség: kb. 35 000", "Távolság a román határtól: 15 km", "Fő ágazatok: mezőgazdaság, élelmiszeripar"],
       ro: ["Suprafață: 200 ha", "Companii: >30", "Dezvoltare: anii 2010", "Populație: ~35.000", "Distanță față de granița română: 15 km", "Sectoare: agricultură, procesare alimentară"],
       en: ["Area: 200 ha", "Companies: >30", "Development period: 2010s", "Population: 35,000", "Distance to Romanian border: 15 km", "Key sectors: agriculture, food processing"],
-    },
-  },
+    }, image: "/poi-images/serbia-vrsac-industrial-zone-economic-v2.webp"},
   {
     id: "serbia-valjevo-industrial-hub-economic-v2",
     type: "industry",
@@ -383,8 +372,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Népesség: kb. 60 000", "Ipari park területe: 150 ha", "Ipari park alapítása: 2007", "Vállalatok száma: kb. 20", "Autópálya: A2", "Fő ágazatok: fémfeldolgozás, textil, faipar"],
       ro: ["Populație: ~60.000", "Suprafața parcului industrial: 150 ha", "Înființare parc: 2007", "Companii: ~20", "Autostradă: A2", "Sectoare: metalurgie, textile, lemn"],
       en: ["Population: 60,000", "Industrial park area: 150 ha", "Park established: 2007", "Number of companies: ~20", "Highway: A2", "Key sectors: metalworking, textiles, wood"],
-    },
-  },
+    }, image: "/poi-images/serbia-valjevo-industrial-hub-economic-v2.webp"},
   {
     id: "serbia-cacak-trade-center-economic-v2",
     type: "city",
@@ -415,8 +403,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Népesség: kb. 70 000", "Autópálya: A1", "Vasút: Belgrád–Bar", "Nagybani piac mérete: 10 ha", "Fő termékek: gyümölcs, zöldség", "Fémipar részesedése: ~30%"],
       ro: ["Populație: ~70.000", "Autostradă: A1", "Cale ferată: Belgrad–Bar", "Suprafața pieței angro: 10 ha", "Produse principale: fructe, legume", "Industria metalurgică: ~30% din economia locală"],
       en: ["Population: 70,000", "Highway: A1", "Railway: Belgrade–Bar", "Wholesale market area: 10 ha", "Main products: fruits, vegetables", "Metals sector share: ~30% of local economy"],
-    },
-  },
+    }, image: "/poi-images/serbia-cacak-trade-center-economic-v2.webp"},
   {
     id: "serbia-kraljevo-industrial-zone-economic-v2",
     type: "industry",
@@ -447,8 +434,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Terület: 300 ha", "Vállalatok száma: kb. 50", "Népesség: kb. 65 000", "Autópálya: A1", "Fő ágazat: fémfeldolgozás", "Modernizáció: 2000-es évek"],
       ro: ["Suprafață: 300 ha", "Companii: ~50", "Populație: ~65.000", "Autostradă: A1", "Industrie principală: prelucrarea metalelor", "Modernizare: anii 2000"],
       en: ["Area: 300 ha", "Companies: ~50", "Population: 65,000", "Highway: A1", "Main industry: metal processing", "Modernized: 2000s"],
-    },
-  },
+    }, image: "/poi-images/serbia-kraljevo-industrial-zone-economic-v2.webp"},
   {
     id: "serbia-vranje-textile-industry-economic-v2",
     type: "industry",
@@ -511,8 +497,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Népesség: kb. 85 000", "Fő termények: kukorica, búza, napraforgó, cukorrépa", "Élelmiszeripar: malmok, olajüzemek, cukorgyárak", "DTD-csatorna: 120 km", "Talajtípus: csernozjom", "Öntözött terület: ~30 000 ha"],
       ro: ["Populație: ~85.000", "Culturi principale: porumb, grâu, floarea-soarelui, sfeclă de zahăr", "Industrie alimentară: mori, fabrici de ulei, fabrici de zahăr", "Canal DTD: 120 km lungime", "Sol: cernoziom", "Suprafață irigată: ~30.000 ha"],
       en: ["Population: 85,000", "Main crops: maize, wheat, sunflowers, sugar beets", "Food industry: mills, oil plants, sugar refineries", "DTD canal length: 120 km", "Soil type: chernozem", "Irrigated area: ~30,000 ha"],
-    },
-  },
+    }, image: "/poi-images/serbia-sombor-agricultural-hub-economic-v2.webp"},
   {
     id: "serbia-uzice-metal-industry-economic-v2",
     type: "industry",
@@ -543,8 +528,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["A 'Metalac' üzem évi 1 millió háztartási eszközt gyárt.", "Az iparág a helyi munkaerő 30%-át foglalkoztatja.", "Užice fémipari termékeit 30 országba exportálják.", "A város területe 115 négyzetkilométer.", "2018-ban egy új galvanizáló üzemet avattak.", "A fémipari klaszter 12 vállalatot tömörít."],
       ro: ["Uzina 'Metalac' produce anual 500.000 de tone de produse din oțel.", "Sectorul metalurgic angajează 8.000 de persoane.", "Orașul Užice are o populație de 55.000 de locuitori.", "Prima fabrică de prelucrare a metalelor a fost construită în 1895.", "În 2023, emisiile au fost reduse cu 20% prin investiții în eficiență energetică.", "Industria contribuie cu 15% la PIB-ul local."],
       en: ["The 'Metalac' company produces over 1 million kitchenware items annually.", "Užice's metal industry exports to more than 30 countries.", "The sector employs approximately 7,000 workers.", "A new steel rolling mill was inaugurated in 2023, boosting capacity by 25%.", "The first metal processing plant opened in 1960.", "The industry accounts for 40% of the city's total exports."],
-    },
-  },
+    }, image: "/poi-images/serbia-uzice-metal-industry-economic-v2.webp"},
   {
     id: "serbia-sremska-mitrovica-industrial-park-economic-v2",
     type: "industry",
@@ -575,8 +559,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["A park területe 120 hektár.", "Több mint 50 vállalat működik itt.", "4.000 embert foglalkoztat.", "Az éves termelési érték 500 millió euró.", "Belgrádtól 60 km-re fekszik.", "2022-ben új autóipari alkatrészgyár nyílt 500 munkahellyel."],
       ro: ["Parcul are o suprafață de 120 de hectare.", "Găzduiește peste 50 de companii.", "Angajează aproximativ 4.000 de persoane.", "Producția anuală este de 500 de milioane de euro.", "Este situat la 60 km de Belgrad.", "O nouă fabrică de componente auto s-a deschis în 2022, creând 500 de locuri de muncă."],
       en: ["The industrial park covers 120 hectares.", "It hosts over 50 companies.", "Approximately 4,000 people are employed there.", "Annual production value is €500 million.", "It is located 60 km from Belgrade.", "A new automotive parts factory opened in 2022, creating 500 jobs."],
-    },
-  },
+    }, image: "/poi-images/serbia-sremska-mitrovica-industrial-park-economic-v2.webp"},
   {
     id: "serbia-sabac-industrial-zone-economic-v2",
     type: "industry",
@@ -607,8 +590,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Az ipari övezet 200 hektáron terül el.", "6.000 embert foglalkoztat.", "Az éves termelési érték 800 millió euró.", "A 'Zorka' gyárat 1938-ban alapították.", "Az övezet vasúti és folyami kapcsolattal rendelkezik.", "2021-ben új szennyvíztisztító telep épült."],
       ro: ["Zona industrială se întinde pe 200 de hectare.", "Angajează aproximativ 6.000 de persoane.", "Producția anuală valorează 800 de milioane de euro.", "Fabrica 'Zorka' a fost fondată în 1938.", "Zona are acces la calea ferată și la râul Sava.", "O nouă stație de epurare a fost construită în 2021."],
       en: ["The industrial zone covers 200 hectares.", "It employs approximately 6,000 workers.", "Annual production is valued at €800 million.", "The 'Zorka' chemical plant was founded in 1938.", "The zone has both rail and river transport access.", "A new wastewater treatment plant was completed in 2021."],
-    },
-  },
+    }, image: "/poi-images/serbia-sabac-industrial-zone-economic-v2.webp"},
   {
     id: "serbia-pancevo-harbor-economic-v2",
     type: "port",
@@ -639,8 +621,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["A kikötő éves kapacitása 3 millió tonna.", "A rakpart hossza 4 km.", "A raktárterület 50.000 négyzetméter.", "2022-ben 2,5 millió tonna árut kezeltek.", "A kikötő 20 km-re van Belgrádtól.", "Egy új konténerterminál épült, 200.000 TEU kapacitással."],
       ro: ["Portul are o capacitate anuală de 3 milioane de tone.", "Cheiurile au o lungime de 4 km.", "Depozitele au 50.000 de metri pătrați.", "În 2022, s-au manipulat 2,5 milioane de tone.", "Portul este situat la 20 km de Belgrad.", "Un nou terminal de containere are o capacitate de 200.000 TEU."],
       en: ["The harbor has an annual capacity of 3 million tons.", "Quay length is 4 kilometers.", "Warehouse space totals 50,000 square meters.", "In 2022, 2.5 million tons of cargo were handled.", "The port is located 20 km from Belgrade.", "A new container terminal has a capacity of 200,000 TEU."],
-    },
-  },
+    }, image: "/poi-images/serbia-pancevo-harbor-economic-v2.webp"},
   {
     id: "serbia-leskovac-textile-economic-v2",
     type: "industry",
@@ -671,8 +652,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Több mint 200 textilvállalat működik.", "Az ágazat 10.000 embert foglalkoztat.", "A 'Nitex' gyárat 1920-ban alapították.", "Az éves termelési érték 200 millió euró.", "A helyi munkaerő 30%-a textilipari dolgozó.", "2023-ban 15 millió eurót fektettek be környezetbarát technológiákba."],
       ro: ["Peste 200 de companii textile activează în Leskovac.", "Industria angajează 10.000 de muncitori.", "Fabrica 'Nitex' a fost fondată în 1920.", "Valoarea anuală a producției textile este de 200 de milioane de euro.", "30% din forța de muncă locală lucrează în textile.", "În 2023, s-au investit 15 milioane de euro în vopsire ecologică."],
       en: ["Over 200 textile companies operate in Leskovac.", "The industry employs 10,000 workers.", "The 'Nitex' factory was founded in 1920.", "Annual textile output is valued at €200 million.", "30% of the local workforce is in textiles.", "€15 million was invested in eco-friendly dyeing in 2023."],
-    },
-  },
+    }, image: "/poi-images/serbia-leskovac-textile-economic-v2.webp"},
   {
     id: "serbia-krusevac-manufacturing-hub-economic-v2",
     type: "industry",
@@ -703,8 +683,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Az ipari övezet 150 hektáron terül el.", "5.000 embert foglalkoztat.", "Az éves termelési érték 600 millió euró.", "A legnagyobb munkáltató a 'Rudnap'.", "Az A5-ös autópálya biztosítja a közlekedést.", "2023-ban új autóipari üzem nyílt 800 munkahellyel."],
       ro: ["Zona industrială are 150 de hectare.", "Angajează 5.000 de persoane.", "Producția anuală valorează 600 de milioane de euro.", "Cel mai mare angajator este 'Rudnap'.", "Autostrada A5 leagă orașul de alte centre.", "O nouă fabrică auto s-a deschis în 2023, cu 800 de locuri de muncă."],
       en: ["The industrial zone covers 150 hectares.", "It employs 5,000 workers.", "Annual production value is €600 million.", "The largest employer is 'Rudnap', producing mining equipment.", "The A5 highway provides transport links.", "A new automotive plant opened in 2023, creating 800 jobs."],
-    },
-  },
+    }, image: "/poi-images/serbia-krusevac-manufacturing-hub-economic-v2.webp"},
   {
     id: "serbia-zajecar-industrial-hub-economic-v2",
     type: "city",
@@ -767,8 +746,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["A szabadkereskedelmi övezetet 2005-ben alapították.", "Területe 100 hektár.", "2.500 embert foglalkoztat.", "Az éves forgalom 250 millió euró.", "A 'Tigar Tyres' fontos vállalat az övezetben.", "Az övezet saját vámterminállal rendelkezik."],
       ro: ["Zona liberă a fost înființată în 2005.", "Se întinde pe 100 de hectare.", "Angajează 2.500 de persoane.", "Cifra de afaceri anuală este de 250 de milioane de euro.", "'Tigar Tyres' este o companie importantă.", "Zona are propriul terminal vamal."],
       en: ["The free zone was established in 2005.", "It covers 100 hectares.", "It employs approximately 2,500 workers.", "Annual turnover is €250 million.", "'Tigar Tyres' is a major tenant.", "The zone has its own customs terminal."],
-    },
-  },
+    }, image: "/poi-images/serbia-pirot-free-zone-economic-v2.webp"},
   {
     id: "serbia-novi-sad-industrial-zone-economic-v2",
     type: "industry",
@@ -799,8 +777,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Az ipari övezet 250 hektáron terül el.", "Több mint 200 vállalat működik itt.", "8.000 embert foglalkoztat.", "Az éves forgalom 1,2 milliárd euró.", "Az övezet a Duna mellett fekszik.", "Az A1 és A3 autópályák a közelben vannak."],
       ro: ["Zona industrială acoperă 250 de hectare.", "Peste 200 de companii activează aici.", "Angajează 8.000 de persoane.", "Cifra de afaceri anuală este de 1,2 miliarde de euro.", "Zona este situată pe Dunăre.", "Autostrăzile A1 și A3 sunt în apropiere."],
       en: ["The industrial zone covers 250 hectares.", "Over 200 companies operate there.", "It employs 8,000 workers.", "Annual turnover is €1.2 billion.", "The zone is located on the Danube River.", "Highways A1 and A3 are nearby."],
-    },
-  },
+    }, image: "/poi-images/serbia-novi-sad-industrial-zone-economic-v2.webp"},
   {
     id: "serbia-prokuplje-industry-economic-v2",
     type: "city",
@@ -831,8 +808,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Az ipari övezet 50 hektáron terül el.", "2.000 embert foglalkoztat.", "Az éves termelési érték 100 millió euró.", "A legnagyobb üzem a 'Prokupac'.", "A város az A1-es autópálya mellett fekszik.", "Hűtőház-logisztikai beruházások történtek."],
       ro: ["Zona industrială are 50 de hectare.", "Angajează 2.000 de persoane.", "Producția anuală valorează 100 de milioane de euro.", "Cea mai mare fabrică este 'Prokupac'.", "Orașul este situat lângă autostrada A1.", "S-au făcut investiții în logistica lanțului frigorific."],
       en: ["The industrial zone covers 50 hectares.", "It employs 2,000 workers.", "Annual production value is €100 million.", "The largest plant is 'Prokupac'.", "The city is located near the A1 highway.", "Investments in cold chain logistics have been made."],
-    },
-  },
+    }, image: "/poi-images/serbia-prokuplje-industry-economic-v2.webp"},
   {
     id: "serbia-zrenjanin-agri-processing-economic-v2",
     type: "factory",
@@ -863,8 +839,7 @@ export const serbiaEconomicV2: POI[] = [
       hu: ["Az agráripar 4.000 embert foglalkoztat.", "Az éves export 300 millió euró.", "A régió évi 500.000 tonna gabonát termel.", "A 'Vital' olajgyár fontos üzem.", "A 'Mlekara Zrenjanin' tejüzem tejtermékeket gyárt.", "Biogázüzemek épültek az elmúlt években."],
       ro: ["Industria agricolă angajează 4.000 de persoane.", "Exporturile anuale sunt de 300 de milioane de euro.", "Regiunea produce peste 500.000 de tone de cereale anual.", "Fabrica de ulei 'Vital' este un operator important.", "Fabrica de lactate 'Mlekara Zrenjanin' procesează lapte.", "Centrale pe biogaz au fost construite recent."],
       en: ["The agri-processing industry employs 4,000 workers.", "Annual exports are valued at €300 million.", "The region produces over 500,000 tons of grain annually.", "The 'Vital' oil mill is a key facility.", "The 'Mlekara Zrenjanin' dairy processes milk.", "Biogas plants have been built in recent years."],
-    },
-  },
+    }, image: "/poi-images/serbia-zrenjanin-agri-processing-economic-v2.webp"},
   {
     id: "serbia-subotica-food-industry-economic-v2",
     type: "industry",

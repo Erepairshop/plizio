@@ -31,8 +31,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["A 13. században alapították a mükénéi görögök", "A 9. századtól kezdve fontos föníciai kereskedelmi központ", "Öt ősi templom maradványai, köztük az Astarté-szentély", "Hatalmas, 13. századi küklopszi falak veszik körül"],
       ro: ["Fondat în secolul al XIII-lea î.Hr. de grecii micenieni", "Centru comercial fenician major din secolul al IX-lea î.Hr.", "Vestigii ale cinci temple, inclusiv templul zeiței Astarte", "Ziduri de fortificație ciclopiene din epoca bronzului"],
       en: ["Founded in the 13th century BC by Mycenaean Greeks", "Major Phoenician commercial center from the 9th century BC", "Remains of five ancient temples dedicated to Astarte", "Includes impressive 13th-century cyclopean fortification walls"],
-    },
-  },
+    }, image: "/poi-images/cyprus-kition-ruins-history-v2.webp"},
   {
     id: "cyprus-idalion-ruins-history-v2",
     type: "ruins",
@@ -63,8 +62,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Kr. e. 5. századig független városkirályság", "A bronzkori rézexport egyik fő állomása", "Az Idalion-tábla Kr. e. 480-470 körül készült", "Kition hadserege Kr. e. 450-ben foglalta el", "Feltárása 1868-ban vette kezdetét", "A nyugati Akropoliszon Athéné temploma állt"],
       ro: ["Atestată istoric din secolul al VIII-lea î.Hr.", "Cunoscută pentru zăcămintele de cupru", "Regatul a fost anexat de Kition în 450 î.Hr.", "Situl arheologic ocupă o suprafață extinsă", "Tăblița de la Idalion este datată 470 î.Hr.", "Săpături sistematice inițiate de R.H. Lang în 1868"],
       en: ["Established in the Late Bronze Age (13th century BC)", "Conquered by the Phoenician city of Kition around 450 BC", "Bronze Idalion Tablet discovered in 1850 by farmers", "Tablet inscriptions deciphered the Cypriot syllabary", "Site area spans approximately 40 hectares", "Major cult center for the goddess Aphrodite"],
-    },
-  },
+    }, image: "/poi-images/cyprus-idalion-ruins-history-v2.webp"},
   {
     id: "cyprus-tamassos-ruins-history-v2",
     type: "ruins",
@@ -127,8 +125,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["A római színház egykor 4000 néző befogadására volt képes", "Hatalmas ókeresztény bazilika az 5. századból", "Itt található a híres 5. századi hattyús padlómozaik", "Ciprus tíz ősi városkirályságának egyike volt"],
       ro: ["Teatrul roman avea o capacitate de circa 4.000 de locuri", "Dispune de o bazilică creștină vastă din secolul V d.Hr.", "Găzduiește faimosul mozaic al lebedei din secolul V", "Unul dintre cele zece regate antice ale Ciprului"],
       en: ["The Roman theater seated approximately 4,000 spectators", "Features a large 5th-century AD Christian basilica", "Home to the famous 5th-century swan floor mosaic", "One of the ten ancient city-kingdoms of Cyprus"],
-    },
-  },
+    }, image: "/poi-images/cyprus-soli-ruins-history-v2.webp"},
   {
     id: "cyprus-vouni-palace-history-v2",
     type: "palace",
@@ -159,8 +156,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["A palota az i. e. 5. században épült.", "250 méter magasan fekszik.", "Az együttes 70 x 50 méteres.", "4 belső udvar található.", "Az ásatások 1928-ban kezdődtek.", "A palotát az i. e. 4. századig használták."],
       ro: ["Palatul a fost construit în secolul al V-lea î.Hr.", "Se află la o altitudine de 250 de metri.", "Complexul măsoară 70 x 50 de metri.", "Există 4 curți interioare.", "Săpăturile au început în 1928.", "Palatul a fost folosit până în secolul al IV-lea î.Hr."],
       en: ["The palace was built in the 5th century BC.", "It is at an altitude of 250 meters.", "The complex measures 70 by 50 meters.", "There are 4 inner courtyards.", "Excavations began in 1928.", "The palace was in use until the 4th century BC."],
-    },
-  },
+    }, image: "/poi-images/cyprus-vouni-palace-history-v2.webp"},
   {
     id: "cyprus-engomi-ruins-history-v2",
     type: "ruins",
@@ -191,8 +187,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Kr. e. 1600 és 1050 között élte virágkorát", "A sziget egyik legjelentősebb bronzkori kikötője", "A várost szabályos, derékszögű utcahálózat jellemezte", "Kikötője az iszaposodás miatt használhatatlanná vált", "A küklópsz falmaradványok hossza több száz méter", "Kr. e. 1050 körül egy földrengés pusztította el"],
       ro: ["Locuit intens între 1600 și 1050 î.Hr.", "Nod principal în comerțul cu cupru din Mediterana", "Rețea de străzi perpendiculare din secolul XIII î.Hr.", "Ziduri de incintă de tip ciclopic protejau așezarea", "Statueta Zeului cu Coarne descoperită aici în 1948", "Abandonat după 1050 î.Hr. în favoarea orașului Salamis"],
       en: ["Flourished during the Late Cypriot period (1600-1050 BC)", "Grid-iron street plan implemented in the 13th century BC", "Defensive walls constructed with massive Cyclopean blocks", "Famous bronze Horned God statue unearthed in 1948", "Copper smelting workshops located throughout the area", "Gradual abandonment around 1050 BC following earthquakes"],
-    },
-  },
+    }, image: "/poi-images/cyprus-engomi-ruins-history-v2.webp"},
   {
     id: "cyprus-la-cava-castle-history-v2",
     type: "castle",
@@ -223,8 +218,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["A vár építése 1220 körül kezdődött", "A falak magassága eléri a 8 métert", "A terület 2,5 hektár", "Egy négyszögletes torony maradt fenn", "Velencei átépítések a 15. században", "Régészeti ásatások 1950 óta"],
       ro: ["Construit în jurul anului 1220", "Ziduri păstrate de până la 8 metri înălțime", "Suprafață de aproximativ 2,5 hectare", "Un turn dreptunghiular rămas", "Modificări venețiene în secolul al XV-lea", "Săpături arheologice începute în anii 1950"],
       en: ["Built around 1220 AD", "Walls preserved up to 8 meters high", "Area of approximately 2.5 hectares", "One rectangular tower remains", "Venetian modifications in the 15th century", "Archaeological excavations since the 1950s"],
-    },
-  },
+    }, image: "/poi-images/cyprus-la-cava-castle-history-v2.webp"},
   {
     id: "cyprus-kantaras-castle-history-v2",
     type: "castle",
@@ -255,8 +249,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Építés a 10. században", "Tengerszint feletti magasság: 630 méter", "Falvastagság eléri a 2 métert", "A várfal hossza körülbelül 200 méter", "Egy központi torony, 15 méter magas", "A velenceiek 1570-ben hagyták el"],
       ro: ["Construit în secolul al X-lea", "Altitudine: 630 de metri deasupra nivelului mării", "Ziduri groase de până la 2 metri", "Lungimea zidurilor: aproximativ 200 de metri", "Un turn central de 15 metri înălțime", "Abandonat de venețieni în 1570"],
       en: ["Built in the 10th century AD", "Elevation: 630 meters above sea level", "Walls up to 2 meters thick", "Total length of walls about 200 meters", "Central keep 15 meters high", "Abandoned by Venetians in 1570"],
-    },
-  },
+    }, image: "/poi-images/cyprus-kantaras-castle-history-v2.webp"},
   {
     id: "cyprus-bufavento-castle-history-v2",
     type: "castle",
@@ -287,8 +280,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Építés a 11. században", "Magasság: 960 méter tengerszint felett", "Falvastagság 1,5 méter", "Ciszternák kapacitása 50.000 liter", "12. századi kápolna", "Börtönként használták 1191 és 1570 között"],
       ro: ["Construit în secolul al XI-lea", "Altitudine: 960 de metri", "Grosimea zidurilor: 1,5 metri", "Cisterne cu capacitate de 50.000 de litri", "Capelă din secolul al XII-lea", "Folosit ca închisoare între 1191 și 1570"],
       en: ["Built in the 11th century", "Elevation: 960 meters above sea level", "Wall thickness up to 1.5 meters", "Cisterns hold up to 50,000 liters", "12th-century chapel", "Used as prison from 1191 to 1570"],
-    },
-  },
+    }, image: "/poi-images/cyprus-bufavento-castle-history-v2.webp"},
   {
     id: "cyprus-paphos-odeon-history-v2",
     type: "theater",
@@ -319,8 +311,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Építés 150 körül", "Az orchestra átmérője 15 méter", "12 üléssor maradt fenn", "Befogadóképesség: 1200 fő", "Helyi mészkőből épült", "Felújítás befejezve 1970-ben"],
       ro: ["Construit în jurul anului 150 d.Hr.", "Diametrul orchestrei: 15 metri", "12 rânduri de scaune păstrate", "Capacitate: 1.200 de spectatori", "Piatră locală de calcar", "Restaurare finalizată în 1970"],
       en: ["Built around 150 AD", "Orchestra diameter: 15 meters", "12 rows of seats preserved", "Seating capacity: 1,200", "Local limestone construction", "Restoration completed in 1970"],
-    },
-  },
+    }, image: "/poi-images/cyprus-paphos-odeon-history-v2.webp"},
   {
     id: "cyprus-saranta-kolones-history-v2",
     type: "castle",
@@ -351,8 +342,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Építés a 7. században", "40 gránit oszlop", "Földrengés pusztította el 1222-ben", "Négyszögletes alaprajz 4 toronnyal", "Falvastagság 3 méter", "Ásatások 1960 óta"],
       ro: ["Construit în secolul al VII-lea", "40 de coloane de granit", "Distrus de cutremur în 1222", "Plan pătrat cu 4 turnuri", "Grosimea zidurilor: 3 metri", "Săpături din 1960"],
       en: ["Built in the 7th century", "40 granite columns originally", "Destroyed by earthquake in 1222", "Square layout with 4 towers", "Wall thickness up to 3 meters", "Excavations since 1960"],
-    },
-  },
+    }, image: "/poi-images/cyprus-saranta-kolones-history-v2.webp"},
   {
     id: "cyprus-machairas-monastery-history-v2",
     type: "church",
@@ -383,8 +373,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Alapítás a 12. században", "Magasság: 700 méter tengerszint felett", "Ikon gyűjtemény 100 darab felett", "Könyvtár 500 kézirattal", "Velencei erődfalak a 16. századból", "Kolostortemplom a 18. századból"],
       ro: ["Fondat în secolul al XII-lea", "Altitudine: 700 de metri", "Colecție de icoane peste 100 de piese", "Bibliotecă cu 500 de manuscrise", "Ziduri fortificate venețiene din secolul al XVI-lea", "Biserica mănăstirii din secolul al XVIII-lea"],
       en: ["Founded in the 12th century", "Elevation: 700 meters above sea level", "Icon collection over 100 pieces", "Library with 500 manuscripts", "Venetian fortification walls from 16th century", "Monastery church from 18th century"],
-    },
-  },
+    }, image: "/poi-images/cyprus-machairas-monastery-history-v2.webp"},
   {
     id: "cyprus-othello-tower-history-v2",
     type: "tower",
@@ -415,8 +404,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Építés a 14. században", "A torony átmérője 15 méter", "Magasság: 12 méter", "Velencei erősítés 1500-ban", "Lőrések 3 sorban", "A famagustai UNESCO világörökség része"],
       ro: ["Construit în secolul al XIV-lea", "Diametrul turnului: 15 metri", "Înălțime: 12 metri", "Întărit de venețieni în 1500", "Ambrazuri în 3 rânduri", "Parte a patrimoniului UNESCO Famagusta"],
       en: ["Built in the 14th century", "Tower diameter: 15 meters", "Height: 12 meters", "Venetian reinforcement in 1500", "Loopholes in 3 rows", "Part of Famagusta UNESCO World Heritage"],
-    },
-  },
+    }, image: "/poi-images/cyprus-othello-tower-history-v2.webp"},
   {
     id: "cyprus-kyrenia-castle-history-v2",
     type: "castle",
@@ -447,8 +435,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Építés a 7. században", "Hajóroncs i.e. 4. századból", "Falvastagság 4 méter", "Gótikus kápolna a 13. századból", "Velencei bástyák a 16. századból", "Várfal magassága 12 méter"],
       ro: ["Construit în secolul al VII-lea", "Epavă din secolul al IV-lea î.Hr.", "Grosimea zidurilor: 4 metri", "Capelă gotică din secolul al XIII-lea", "Bastioane venețiene din secolul al XVI-lea", "Înălțimea zidurilor: 12 metri"],
       en: ["Built in the 7th century", "Shipwreck from 4th century BC", "Wall thickness up to 4 meters", "Gothic chapel from 13th century", "Venetian bastions from 16th century", "Castle wall height: 12 meters"],
-    },
-  },
+    }, image: "/poi-images/cyprus-kyrenia-castle-history-v2.webp"},
   {
     id: "cyprus-salamis-ruins-history-v2",
     type: "ruins",
@@ -479,8 +466,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["A trójai háború hőse, Teukrosz alapította a legenda szerint", "Több mint ezer évig a sziget legjelentősebb városa", "A római színház nézőtere 50 üléssorból állt", "A gümnaszion hatalmas oszlopcsarnokai részben fennmaradtak", "332-ben és 342-ben pusztító földrengések rázták meg", "647-ben az arab hódítók támadásai miatt elnéptelenedett"],
       ro: ["Fondat conform tradiției în secolul XI î.Hr.", "A dominat politic și economic insula secole de-a rândul", "Teatrul roman putea găzdui peste 15.000 de spectatori", "Complexul de băi termale era decorat cu mozaicuri elaborate", "Reconstruit de împăratul Constanțiu al II-lea ca Constantia", "Distrus definitiv în 647 d.Hr. în urma incursiunilor arabe"],
       en: ["Founded circa 1100 BC by the legendary hero Teucer", "Served as the island's capital during the Hellenistic period", "Roman theater capacity estimated at 15,000 spectators", "Monumental gymnasium features towering marble columns", "Severely damaged by consecutive earthquakes in 332 and 342 AD", "Final destruction and abandonment occurred in 647 AD"],
-    },
-  },
+    }, image: "/poi-images/cyprus-salamis-ruins-history-v2.webp"},
   {
     id: "cyprus-amathus-ruins-history-v2",
     type: "ruins",
@@ -511,8 +497,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Kr. e. 1050 körül, az eteo-ciprusiak alapították", "Kikötőjét a Kr. e. 4. században jelentősen kibővítették", "Az 1865-ben megtalált, 14 tonnás kőváza a Louvre-ban van", "A hegytetőn épült Akropolisz az Aphrodité-kultusz központja", "A római korban épült agora maradványai jól láthatók", "A 7. századi arab betörések pecsételték meg a sorsát"],
       ro: ["Considerat unul dintre cele mai vechi regate din Cipru", "Portul antic din secolul IV î.Hr. se află acum sub apă", "O vază colosală din piatră de 14 tone descoperită în 1865", "Templul Afroditei de pe acropolă a fost extins la romani", "Incinta orașului includea o piață publică și terme romane", "Așezarea a fost părăsită în secolul VII d.Hr."],
       en: ["Established around 1050 BC by the indigenous Eteocypriots", "Massive Hellenistic port constructed in the 4th century BC", "Colossal 14-ton stone vase discovered on the acropolis in 1865", "Vase currently housed in the Louvre Museum in Paris", "Remains of the ancient harbor are now submerged offshore", "City gradually abandoned following Arab raids in the 7th century"],
-    },
-  },
+    }, image: "/poi-images/cyprus-amathus-ruins-history-v2.webp"},
   {
     id: "cyprus-kourion-theatre-history-v2",
     type: "theater",
@@ -543,8 +528,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Építés i.e. 2. században", "Befogadóképesség: 3500 fő", "Az orchestra átmérője 20 méter", "Római bővítés i.sz. 1. században", "Színpad magassága 5 méter", "Restaurálás 1990-ben befejezve"],
       ro: ["Construit în secolul al II-lea î.Hr.", "Capacitate: 3.500 de spectatori", "Diametrul orchestrei: 20 de metri", "Extindere romană în secolul I d.Hr.", "Înălțimea scenei: 5 metri", "Restaurare finalizată în 1990"],
       en: ["Built in the 2nd century BC", "Capacity: 3,500 spectators", "Orchestra diameter: 20 meters", "Roman expansion in 1st century AD", "Stage height: 5 meters", "Restoration completed in 1990"],
-    },
-  },
+    }, image: "/poi-images/cyprus-kourion-theatre-history-v2.webp"},
   {
     id: "cyprus-house-of-dionysos-history-v2",
     type: "ruins",
@@ -575,8 +559,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["A villa teljes alapterülete körülbelül 2000 négyzetméter", "Összesen 556 négyzetméternyi padlómozaikot tartalmaz", "A 2. században épült egy korábbi hellenisztikus villa helyén", "Az UNESCO Világörökség részét képezi 1980 óta"],
       ro: ["Suprafața totală a vilei este de aproximativ 2.000 mp", "Conține 556 de metri pătrați de mozaicuri de înaltă calitate", "Construită în secolul II d.Hr. peste o vilă elenistică", "Parte a sitului UNESCO World Heritage din Paphos"],
       en: ["Covers a total floor area of 2,000 square meters", "Contains 556 square meters of high-quality floor mosaics", "Built in the 2nd century AD over an earlier Hellenistic villa", "Part of the UNESCO World Heritage site of Paphos"],
-    },
-  },
+    }, image: "/poi-images/cyprus-house-of-dionysos-history-v2.webp"},
   {
     id: "cyprus-paphos-fort-history-v2",
     type: "castle",
@@ -607,8 +590,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Építve 1592-ben velenceiek által", "Négyszögletes alaprajz 4 toronnyal", "Falvastagság 2 méter", "Külső falak magassága 8 méter", "Oszmán bővítés 1700-ban", "Múzeum 1960 óta"],
       ro: ["Construit în 1592 de venețieni", "Plan dreptunghiular cu 4 turnuri", "Grosimea zidurilor 2 metri", "Înălțimea zidurilor exterioare: 8 metri", "Extindere otomană în 1700", "Muzeu din 1960"],
       en: ["Built in 1592 by Venetians", "Rectangular layout with 4 towers", "Wall thickness 2 meters", "Outer wall height: 8 meters", "Ottoman expansion in 1700", "Museum since 1960"],
-    },
-  },
+    }, image: "/poi-images/cyprus-paphos-fort-history-v2.webp"},
   {
     id: "cyprus-agios-nikolaos-tis-stegis-history-v2",
     type: "church",
@@ -639,8 +621,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Építés a 11. században", "Freskók a 11-17. századból", "UNESCO világörökség 1985 óta", "Meredek nyeregtető", "Kupola átmérője 6 méter", "Harangtorony magassága 10 méter"],
       ro: ["Construit în secolul al XI-lea", "Fresce din secolele XI-XVII", "Patrimoniu UNESCO din 1985", "Acoperiș înclinat", "Diametrul cupolei: 6 metri", "Înălțimea turnului clopotniță: 10 metri"],
       en: ["Built in the 11th century", "Frescoes from 11th to 17th centuries", "UNESCO World Heritage since 1985", "Steep wooden roof", "Dome diameter: 6 meters", "Bell tower height: 10 meters"],
-    },
-  },
+    }, image: "/poi-images/cyprus-agios-nikolaos-tis-stegis-history-v2.webp"},
   {
     id: "cyprus-agios-ioannis-lampadistis-history-v2",
     type: "church",
@@ -671,8 +652,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["UNESCO világörökség 1985 óta", "Magasság: 500 méter tengerszint felett", "Három templom egy tető alatt", "12. századi freskók", "Szent Herakleidios kápolna a 11. századból", "Kolostori múzeum ikonokkal"],
       ro: ["Patrimoniu UNESCO din 1985", "Altitudine: 500 de metri", "Trei biserici sub același acoperiș", "Fresce din secolul al XII-lea", "Capela Sfântului Heracleidios din secolul al XI-lea", "Muzeu al mănăstirii cu icoane"],
       en: ["UNESCO World Heritage since 1985", "Elevation: 500 meters above sea level", "Three churches under one roof", "Frescoes from the 12th century", "Chapel of St. Herakleidios from 11th century", "Monastery museum with icons"],
-    },
-  },
+    }, image: "/poi-images/cyprus-agios-ioannis-lampadistis-history-v2.webp"},
   {
     id: "cyprus-agios-sozomenos-history-v2",
     type: "ruins",
@@ -703,8 +683,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Befejezetlen gótikus Szent Mamasz-templom a 16. századból", "Bizánci sziklabarlang és remetelak a 12. századból", "A falu az 1964-es zavargások idején néptelenedett el", "Nikosziától körülbelül 12 kilométerre délre található"],
       ro: ["Biserica gotică neterminată Sf. Mamas din secolul XVI", "Chilie bizantină în peșteră datând din secolul XII", "Satul a fost abandonat în urma conflictelor din 1964", "Situat la aproximativ 12 kilometri sud de Nicosia"],
       en: ["Unfinished Gothic church of Agios Mamas from the 16th century", "Byzantine cave hermitage of St. Sozomenos from the 12th century", "Village was abandoned following the conflict in 1964", "Located approximately 12 kilometers south of Nicosia"],
-    },
-  },
+    }, image: "/poi-images/cyprus-agios-sozomenos-history-v2.webp"},
   {
     id: "cyprus-frourio-castle-history-v2",
     type: "castle",
@@ -735,8 +714,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Építés a 13. században", "Négyzet alakú torony 10 méteres oldallal", "Falvastagság 1,8 méter", "Velencei erősítés 1489-ben", "Tengerszint feletti magasság: 200 méter", "Ásatások 1970 óta"],
       ro: ["Construit în secolul al XIII-lea", "Turn pătrat de 10 metri latură", "Grosimea zidurilor: 1,8 metri", "Întărit de venețieni în 1489", "Altitudine: 200 de metri", "Săpături din 1970"],
       en: ["Built in the 13th century", "Square tower 10 meters side", "Wall thickness 1.8 meters", "Venetian reinforcement in 1489", "Height above sea: 200 meters", "Excavations since 1970"],
-    },
-  },
+    }, image: "/poi-images/cyprus-frourio-castle-history-v2.webp"},
   {
     id: "cyprus-palaipaphos-sanctuary-history-v2",
     type: "ruins",
@@ -767,8 +745,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Aphrodité eredeti kultuszhelye a Kr. e. 12. századból", "Az istennőt jelképező fekete kúpos követ őriztek itt", "A régészeti terület Kouklia falu nagy részét lefedi", "1980 óta az UNESCO Világörökség része"],
       ro: ["Sit original de cult al Afroditei din secolul al XII-lea î.Hr.", "Conține o piatră neagră conică ce reprezenta zeița", "Situl arheologic acoperă o mare parte din satul Kouklia", "Listat ca sit UNESCO World Heritage din anul 1980"],
       en: ["Original cult site of Aphrodite dating to the 12th century BC", "Features a black conical stone representing the goddess", "Archaeological site covers a large portion of Kouklia village", "Listed as a UNESCO World Heritage site since 1980"],
-    },
-  },
+    }, image: "/poi-images/cyprus-palaipaphos-sanctuary-history-v2.webp"},
   {
     id: "cyprus-larnaca-aqueduct-history-v2",
     type: "bridge",
@@ -799,8 +776,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Építés i.sz. 1. században", "Hossz: 3 kilométer", "20 megmaradt ív", "Az ívek magassága eléri a 8 métert", "Használat a 18. századig", "Anyag: mészkő és habarcs"],
       ro: ["Construit în secolul I d.Hr.", "Lungime: 3 kilometri", "20 de arcade păstrate", "Înălțimea arcadelor: până la 8 metri", "Folosit până în secolul al XVIII-lea", "Material: calcar și mortar"],
       en: ["Built in 1st century AD", "Length: 3 kilometers", "20 arches preserved", "Height of arches up to 8 meters", "Used until 18th century", "Material: limestone and mortar"],
-    },
-  },
+    }, image: "/poi-images/cyprus-larnaca-aqueduct-history-v2.webp"},
   {
     id: "cyprus-panagia-asinou-history-v2",
     type: "church",
@@ -831,8 +807,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Építve 1105-1106 között", "UNESCO világörökség 1985 óta", "Freskók 1105-ből és 1333-ból", "Keresztkupolás templom", "Kupola átmérője 4 méter", "Templom hossza 15 méter"],
       ro: ["Construit în 1105-1106", "Patrimoniu UNESCO din 1985", "Fresce din 1105 și 1333", "Biserică în cruce cu cupolă", "Diametrul cupolei: 4 metri", "Lungimea bisericii: 15 metri"],
       en: ["Built 1105-1106", "UNESCO World Heritage since 1985", "Frescoes from 1105 and 1333", "Cross-in-square church", "Dome diameter: 4 meters", "Church length: 15 meters"],
-    },
-  },
+    }, image: "/poi-images/cyprus-panagia-asinou-history-v2.webp"},
   {
     id: "cyprus-agios-ioannis-agros-history-v2",
     type: "church",
@@ -863,8 +838,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Építés a 12. században", "Kupola magassága 8 méter", "12. századi freskók", "UNESCO világörökség 1985 óta", "János-ikon a 13. századból", "Harangtorony a 19. századból"],
       ro: ["Construit în secolul al XII-lea", "Înălțimea cupolei: 8 metri", "Fresce din secolul al XII-lea", "Patrimoniu UNESCO din 1985", "Icoana Sfântului Ioan din secolul al XIII-lea", "Turn clopotniță din secolul al XIX-lea"],
       en: ["Built in the 12th century", "Dome height: 8 meters", "Frescoes from the 12th century", "UNESCO World Heritage since 1985", "Icon of John from 13th century", "Bell tower from 19th century"],
-    },
-  },
+    }, image: "/poi-images/cyprus-agios-ioannis-agros-history-v2.webp"},
   {
     id: "cyprus-panagia-podythou-history-v2",
     type: "church",
@@ -895,8 +869,7 @@ export const cyprusHistoryV2: POI[] = [
       hu: ["Építés a 15. században", "Freskók 1470-ből", "Egyhajós kupolás templom", "Hossz: 12 méter", "UNESCO világörökség 1985 óta", "Kupola átmérője 3 méter"],
       ro: ["Construit în secolul al XV-lea", "Fresce din 1470", "Biserică cu o singură navă și cupolă", "Lungime: 12 metri", "Patrimoniu UNESCO din 1985", "Diametrul cupolei: 3 metri"],
       en: ["Built in the 15th century", "Frescoes from 1470", "Single-nave domed church", "Length: 12 meters", "UNESCO World Heritage since 1985", "Dome diameter: 3 meters"],
-    },
-  },
+    }, image: "/poi-images/cyprus-panagia-podythou-history-v2.webp"},
   {
     id: "cyprus-archangelos-michael-pedoulas-history-v2",
     type: "church",

@@ -1108,8 +1108,7 @@ export const lithuaniaEconomicV2: POI[] = [
       hu: ["Az ország 5. legnagyobb városa", "Híres a Kalnapilis sörfőzdéjéről", "A mechatronikai klaszter központja", "Félúton fekszik Vilnius és Riga között", "Több mint 100 hektárnyi ipari terület", "Jelentős textil- és élelmiszeripari export"],
       ro: ["Peste 3500 de companii înregistrate", "Nod rutier crucial pe ruta Varșovia-Riga", "Gazduiește cea mai mare fabrică de sticlă", "Zonă Economică Liberă înființată în 2013", "Centru de excelență în mecatronică", "Peste 20% din PIB-ul regional provine din industrie"],
       en: ["5th largest city in Lithuania", "Key location on the Via Baltica highway", "Home to the Panevėžys Free Economic Zone", "Strong focus on electronics and cabling", "Central hub for food processing companies", "Host to the Cido Arena industrial events"],
-    },
-  },
+    }, image: "/poi-images/lithuania-panevezys-industrial-hub-economic-v2.webp"},
   {
     id: "lithuania-siauliai-technological-park-economic-v2",
     type: "industry",

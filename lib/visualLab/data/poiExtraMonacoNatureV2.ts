@@ -31,8 +31,7 @@ export const monacoNatureV2: POI[] = [
       hu: ["Létrehozva 1965-ben.", "Hosszúság: 50 méter.", "Szélesség: 10 méter.", "Homok Szardíniából importálva.", "Vízmélység maximum 3 méter.", "Móló épült 1966-ban."],
       ro: ["Creată în 1965.", "Lungime: 50 de metri.", "Lățime: 10 metri.", "Nisip importat din Sardinia.", "Adâncimea apei maximum 3 metri.", "Dig construit în 1966."],
       en: ["Created in 1965.", "Length: 50 meters.", "Width: 10 meters.", "Sand imported from Sardinia.", "Max water depth: 3 meters.", "Jetty built in 1966."],
-    },
-  },
+    }, image: "/poi-images/monaco-plage-du-solarium-nature-v2.webp"},
   {
     id: "monaco-rocher-de-monaco-nature-v2",
     type: "mountain",
@@ -127,8 +126,7 @@ export const monacoNatureV2: POI[] = [
       hu: ["1,5 km-re nyúlik a tengerbe.", "Feltöltés 1970-1980 között.", "Kikötő területe: 5 hektár.", "Magasság: 10 méter a tenger felett.", "Mélység a rakpartnál: 8 méter.", "Védett tengeri terület 1995 óta."],
       ro: ["Se întinde pe 1,5 km în mare.", "Recuperare teren 1970-1980.", "Suprafața portului: 5 hectare.", "Altitudine: 10 metri deasupra mării.", "Adâncimea apei la chei: 8 metri.", "Zonă marină protejată din 1995."],
       en: ["Extends 1.5 km into the sea.", "Land reclamation 1970-1980.", "Harbor area: 5 hectares.", "Height: 10 meters above sea level.", "Water depth at quay: 8 meters.", "Protected marine area since 1995."],
-    },
-  },
+    }, image: "/poi-images/monaco-pointe-de-fontvieille-nature-v2.webp"},
   {
     id: "monaco-colline-des-revoires-nature-v2",
     type: "mountain",
@@ -159,8 +157,7 @@ export const monacoNatureV2: POI[] = [
       hu: ["Tengerszint feletti magassága 161 méter", "A Les Révoires városnegyedben fekszik", "Közel található a Jardin Exotique-hoz", "A Mont Agel hegy lábánál helyezkedik el", "Monaco legmagasabb gyalogos útvonala", "Panorámás kilátás a Hercegségre"],
       ro: ["Altitudinea maximă este de 161 metri", "Punctul cel mai înalt din Principat", "Situat în zona de graniță cu Franța", "Panta terenului depășește adesea 15%", "Accesibil prin districtul Les Révoires", "Face parte din lanțul Alpilor Maritimi"],
       en: ["Highest elevation in Monaco at 161 m", "Located within the Les Révoires ward", "Situated on the slopes of Mont Agel", "Near the famous Exotic Garden area", "Technically a pathway, not a peak", "Coordinates: 43.7348 N, 7.4129 E"],
-    },
-  },
+    }, image: "/poi-images/monaco-colline-des-revoires-nature-v2.webp"},
   {
     id: "monaco-bassin-hercule-nature-v2",
     type: "river",
@@ -191,8 +188,7 @@ export const monacoNatureV2: POI[] = [
       hu: ["Épült 1901-ben.", "Hosszúság: 400 méter.", "Szélesség: 200 méter.", "Maximális mélység: 12 méter.", "Mólók: 1920-ban és 1950-ben épültek.", "Éves yacht kiállítás 1991 óta."],
       ro: ["Construit în 1901.", "Lungime: 400 de metri.", "Lățime: 200 de metri.", "Adâncime maximă: 12 metri.", "Diguri construite în 1920 și 1950.", "Show anual de iahturi din 1991."],
       en: ["Built in 1901.", "Length: 400 meters.", "Width: 200 meters.", "Max depth: 12 meters.", "Breakwaters built in 1920 and 1950.", "Annual Yacht Show since 1991."],
-    },
-  },
+    }, image: "/poi-images/monaco-bassin-hercule-nature-v2.webp"},
   {
     id: "monaco-promenade-camille-blanc-nature-v2",
     type: "park",
@@ -223,8 +219,7 @@ export const monacoNatureV2: POI[] = [
       hu: ["Hosszúság: 1,2 kilométer.", "Megnyitva 1914-ben.", "Camille Blanc-ról elnevezve.", "20 pálmafa ültetve.", "5 művészeti installáció.", "Magasság a tenger felett: 3 méter."],
       ro: ["Lungime: 1,2 kilometri.", "Deschisă în 1914.", "Numită după Camille Blanc.", "20 de palmieri plantați.", "5 instalații de artă.", "Altitudine deasupra mării: 3 metri."],
       en: ["Length: 1.2 kilometers.", "Opened in 1914.", "Named after Camille Blanc.", "20 palm trees planted.", "5 art installations.", "Elevation: 3 meters above sea level."],
-    },
-  },
+    }, image: "/poi-images/monaco-promenade-camille-blanc-nature-v2.webp"},
   {
     id: "monaco-esplanade-grimaldi-nature-v2",
     type: "park",
@@ -255,8 +250,7 @@ export const monacoNatureV2: POI[] = [
       hu: ["Terület: 6000 négyzetméter.", "Megnyitva 2000-ben.", "Mesterséges tó: 500 négyzetméter.", "Befogadóképesség: 5000 fő.", "Magasság: 15 méter a tenger felett.", "200 LED lámpával világítva."],
       ro: ["Suprafață: 6.000 de metri pătrați.", "Deschis în 2000.", "Lac artificial: 500 de metri pătrați.", "Capacitate: 5.000 de persoane.", "Altitudine: 15 metri deasupra mării.", "Iluminat cu 200 de lămpi LED."],
       en: ["Area: 6,000 square meters.", "Opened in 2000.", "Artificial lake: 500 square meters.", "Capacity: 5,000 people.", "Elevation: 15 meters above sea level.", "Lit with 200 LED lamps."],
-    },
-  },
+    }, image: "/poi-images/monaco-esplanade-grimaldi-nature-v2.webp"},
   {
     id: "monaco-jardin-saint-martin-nature-v2",
     type: "park",
@@ -287,8 +281,7 @@ export const monacoNatureV2: POI[] = [
       hu: ["Létrehozva 1830-ban.", "Terület: 1,5 hektár.", "Több mint 200 növényfaj.", "Zenepavilon épült 1880-ban.", "Legmagasabb pont: 60 méter a tenger felett.", "Évente 500.000 látogató."],
       ro: ["Creat în 1830.", "Suprafață: 1,5 hectare.", "Peste 200 de specii de plante.", "Foșor de muzică construit în 1880.", "Cel mai înalt punct: 60 de metri deasupra mării.", "500.000 de vizitatori anual."],
       en: ["Created in 1830.", "Area: 1.5 hectares.", "Over 200 plant species.", "Music pavilion built in 1880.", "Highest point: 60 meters above sea level.", "500,000 visitors annually."],
-    },
-  },
+    }, image: "/poi-images/monaco-jardin-saint-martin-nature-v2.webp"},
   {
     id: "monaco-anse-du-portier-nature-v2",
     type: "landmark",

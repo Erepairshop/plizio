@@ -31,8 +31,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["A 12. század közepén említik először írásos források.", "Várfala 600 méter hosszan veszi körül az épületegyüttest.", "A központi öregtorony magassága eléri a 40 métert.", "1730 óta a Khevenhüller-Metsch hercegi család tulajdona.", "Külön tárlat mutatja be Miksa mexikói császár életét.", "A vár területén három tágas belső udvar található."],
       ro: ["Prima atestare documentară a cetății datează din anul 1145.", "Zidul exterior de apărare are o lungime de 600 de metri.", "Turnul principal (donjonul) are o înălțime de 40 de metri.", "Familia princiară Khevenhüller-Metsch deține castelul din 1730.", "Găzduiește singurul muzeu dedicat lui Maximilian al Mexicului.", "Complexul este structurat pe trei niveluri de curți interioare."],
       en: ["First documented in historical records around 1145.", "The outer curtain wall spans exactly 600 meters.", "Features a massive medieval keep standing 40 meters tall.", "Owned by the Khevenhüller-Metsch family since 1730.", "Contains a unique museum about Emperor Maximilian of Mexico.", "Consists of three distinct courtyards within the walls."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-hardegg-history-v2.webp"},
   {
     id: "austria-schloss-parz-history-v2",
     type: "palace",
@@ -63,8 +62,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["A híres homlokzati freskók 1580-ban készültek.", "Az épületegyüttes egy vízikastélyból és egy tájházból áll.", "A freskók összfelülete meghaladja a 400 négyzetmétert.", "A 16. században a befolyásos Pollheim család központja volt.", "A restaurálási munkálatok 1987-ben fejeződtek be.", "A vízikastély alapjai a 14. századi gótikáig nyúlnak vissza."],
       ro: ["Frescele monumentale de pe fațadă au fost pictate în 1580.", "Include un castel de apă medieval și un conac renascentist.", "Suprafața picturilor murale este de aproximativ 400 m².", "A servit drept reședință pentru familia nobiliară Pollheim.", "Restaurarea amplă a fațadelor a avut loc în anii 1980.", "Castelul de apă original a fost ridicat în secolul al XIV-lea."],
       en: ["The iconic exterior frescoes were painted in 1580.", "Features two distinct parts: a water castle and a manor.", "Frescoed area covers approximately 400 square meters.", "Was the ancestral seat of the Pollheim family in the 1500s.", "Major restoration of the art cycle was completed in 1987.", "The moated water castle dates back to the 14th century."],
-    },
-  },
+    }, image: "/poi-images/austria-schloss-parz-history-v2.webp"},
   {
     id: "austria-burg-finstergruen-history-v2",
     type: "castle",
@@ -95,8 +93,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["A várat először 1138-ban említik a források.", "Szápáry grófnő 1901-ben kezdte meg a rekonstrukciót.", "Központi tornya jellegzetes pártázatos díszítést kapott.", "A középkorban fontos vámszedő helyként funkcionált.", "1945-ben egy tűzvész pusztított az épületben.", "Jelenleg ifjúsági szállásként és rendezvényhelyszínként üzemel."],
       ro: ["Prima mențiune documentară a castelului este din 1138.", "Reconstrucția modernă a demarat în anul 1901.", "Turnul principal are elemente arhitecturale neo-gotice.", "A fost punct vamal strategic pe drumul Radstädter Tauern.", "Un incendiu devastator a afectat structura în anul 1945.", "Funcționează în prezent ca centru de tineret și evenimente."],
       en: ["The original fortress was first mentioned in 1138.", "Romantic reconstruction started in 1901 by Countess Szápáry.", "Features a prominent keep with decorative battlements.", "Served as a toll station on the Tauern pass in the Middle Ages.", "The castle suffered significant fire damage in 1945.", "Currently used as a youth hostel and event venue."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-finstergruen-history-v2.webp"},
   {
     id: "austria-schloss-greinburg-history-v2",
     type: "castle",
@@ -127,8 +124,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["A Prüschenk fivérek építtették 1488 és 1493 között.", "Az első védelmi funkció nélküli lakókastély az Alpoktól északra.", "Belső udvarát ritka késő gótikus gyémántboltozat díszíti.", "1823 óta a Szász-Coburg-Gotha hercegi család tulajdona.", "Itt található a Felső-Ausztriai Hajózási Múzeum.", "A reneszánsz lovagterem mérete és díszítése egyedülálló."],
       ro: ["Construit între 1488 și 1493 de către frații Prüschenk.", "Primul castel rezidențial fără funcție defensivă din regiune.", "Curtea interioară prezintă bolți în diamant de stil gotic târziu.", "Proprietatea casei Saxa-Coburg și Gotha din anul 1823.", "Găzduiește Muzeul Naval al Austriei Superioare.", "Sala Cavalerilor păstrează decorul original din Renaștere."],
       en: ["Built between 1488 and 1493 by the Prüschenk brothers.", "First residential castle north of the Alps built without fortifications.", "Features rare late Gothic diamond vaulting in the courtyard.", "Owned by the House of Saxe-Coburg and Gotha since 1823.", "Home to the Upper Austrian Maritime Museum.", "Includes a magnificent Knight's Hall with Renaissance decor."],
-    },
-  },
+    }, image: "/poi-images/austria-schloss-greinburg-history-v2.webp"},
   {
     id: "austria-burg-lockenhaus-history-v2",
     type: "castle",
@@ -159,8 +155,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["A várat 1200 körül építették keleti határvédelmi célokra.", "Egy rejtélyes földalatti kultikus terem található a vár alatt.", "Több mint 250 éven át a Nádasdy család birtoka volt.", "A várkápolna 13. századi freskói ma is láthatóak.", "Báthory Erzsébet 1575-ös házassága után itt is lakott.", "Minden évben nemzetközi kamarazenei fesztiválnak ad otthont."],
       ro: ["Ridicată în jurul anului 1200 ca fortăreață de graniță.", "Include o sală de cult misterioasă atribuită Templierilor.", "A aparținut familiei Nádasdy timp de peste 250 de ani.", "Capela castelului păstrează fresce rare din secolul al XIII-lea.", "Contesa Elisabeta Báthory a locuit aici începând cu 1575.", "Găzduiește un faimos festival de muzică de cameră anual."],
       en: ["Constructed around 1200 as an eastern frontier fortress.", "Contains a mysterious subterranean cult room (Templar Hall).", "Was the seat of the powerful Nádasdy family for 250 years.", "The chapel features exceptionally preserved 13th-century frescoes.", "Elizabeth Báthory lived here following her wedding in 1575.", "Hosts a world-renowned chamber music festival every summer."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-lockenhaus-history-v2.webp"},
   {
     id: "austria-burg-tiefenbach-history-v2",
     type: "ruins",
@@ -191,8 +186,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["Első írásos említése 1150-ből származik.", "A vár 340 méteres tengerszint feletti magasságban áll.", "A belső vár területe körülbelül 450 négyzetméter.", "A Tiefenbach lovagi család ősi székhelye volt.", "A romok között egy román stílusú öregtorony alapjai láthatók.", "A 15. század után elvesztette hadi jelentőségét."],
       ro: ["Prima mențiune documentară datează din anul 1150.", "Situat la o altitudine de 340 de metri deasupra mării.", "Nucleul cetății acoperă aproximativ 450 m².", "A fost sediul familiei nobiliare Tiefenbach.", "Păstrează fragmente dintr-un turn de veghe romanic.", "A fost modernizat ultima dată în secolul al XV-lea."],
       en: ["First documented in historical records in 1150.", "Located at an elevation of 340 meters.", "The core castle covers about 450 square meters.", "Seat of the local Tiefenbach ministerial family.", "Features remains of a Romanesque keep.", "Modernized for the last time in the 15th century."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-tiefenbach-history-v2.webp"},
   {
     id: "austria-burg-griesstein-history-v2",
     type: "ruins",
@@ -223,8 +217,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["Az erődítmény 1140 körül épült.", "A romok Schollach település közelében találhatók.", "Egy meredek sziklakúpon helyezkedik el a Melk folyó felett.", "A 14. században a Zelking család tulajdonában volt.", "A várfalak néhol még ma is 6 méter magasak.", "A 17. században hagyták el véglegesen a lakói."],
       ro: ["Construit în jurul anului 1140.", "Ruinele se află în localitatea Schollach.", "Situat pe un con stâncos abrupt deasupra râului Melk.", "În secolul al XIV-lea a aparținut familiei von Zelking.", "Zidul de incintă atinge pe alocuri înălțimea de 6 metri.", "A fost abandonat definitiv în secolul al XVII-lea."],
       en: ["Constructed around the year 1140.", "The ruins are located in the municipality of Schollach.", "Perched on a steep rock above the Melk river.", "Owned by the Lords of Zelking in the 14th century.", "Surviving curtain walls reach up to 6 meters in height.", "Permanently abandoned by the 17th century."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-griesstein-history-v2.webp"},
   {
     id: "austria-burg-raabs-an-der-thaya-history-v2",
     type: "castle",
@@ -255,8 +248,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["Az első írásos említése 1100-ból származik.", "A vár nevéből ered Ausztria cseh elnevezése (Rakousko).", "Román stílusú palotaszárnnyal és gótikus kápolnával rendelkezik.", "A falak 40 méterrel magasodnak a folyó szintje fölé.", "A 12. századtól a Raabs grófok hatalmi központja volt.", "A 16. században reneszánsz stílusú kastéllyá alakították."],
       ro: ["Prima atestare scrisă datează din anul 1100.", "Numele cetății stă la baza denumirii cehe a Austriei: Rakousko.", "Cuprinde un palat romanic și o capelă gotică târzie.", "Zidurile se înalță la 40 de metri deasupra albiei râului.", "A fost reședința conților de Raabs începând cu secolul XII.", "Fortificația a fost extinsă în stil renascentist în secolul XVI."],
       en: ["First officially documented in the year 1100.", "The castle's name is the root of the Czech word for Austria.", "Features a Romanesque palace and a late Gothic chapel.", "Walls stand 40 meters above the Thaya river level.", "Was the seat of the Counts of Raabs since the 12th century.", "Upgraded from a fortress to a chateau during the 1500s."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-raabs-an-der-thaya-history-v2.webp"},
   {
     id: "austria-burg-ruine-durnstein-history-v2",
     type: "ruins",
@@ -287,8 +279,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["1140 és 1145 között épült a Kuenringek számára.", "Oroszlánszívű Richárd 1192-től 1193-ig volt itt fogoly.", "A svéd csapatok rombolták le 1645-ben.", "A vár 150 méterrel magasodik a település fölé.", "Az erőd egy alsó és egy felső várra tagozódik.", "1994 óta az UNESCO Világörökség része a Wachau-völggyel."],
       ro: ["Construită între anii 1140 și 1145.", "Richard Inimă de Leu a fost întemnițat aici în 1192-1193.", "Distrusă de trupele suedeze în anul 1645.", "Situată la 150 de metri deasupra orașului Dürnstein.", "Fortificația este împărțită în cetatea de sus și de jos.", "Face parte din patrimoniul mondial UNESCO din 1994."],
       en: ["Built between 1140 and 1145 by the Kuenringer family.", "Held King Richard I of England captive from 1192 to 1193.", "Destroyed by Swedish forces during the Thirty Years' War in 1645.", "Located 150 meters above the town of Dürnstein.", "Structured into an upper and lower fortification layout.", "Part of the UNESCO World Heritage since 1994."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-ruine-durnstein-history-v2.webp"},
   {
     id: "austria-burg-scharfeneck-history-v2",
     type: "ruins",
@@ -319,8 +310,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["1390 körül építették a Szentgyörgyi grófok.", "A Lajta-hegységben, 347 méteres magasságban található.", "Egy jellegzetes, 20 méter magas védőfallal rendelkezik.", "1555-ben egy villámcsapás okozott benne súlyos károkat.", "Ma a Mannersdorfi Natúrpark területéhez tartozik.", "A 15. században rablólovagok fészke is volt."],
       ro: ["Construit în jurul anului 1390 de conții de Sf. Gheorghe.", "Situat la o altitudine de 347 metri în munții Leitha.", "Dispune de un zid de protecție înalt de 20 de metri.", "A fost grav avariat de un fulger în anul 1555.", "Astăzi este inclus în parcul natural Mannersdorf.", "A servit drept sediu pentru cavaleri prădători în secolul XV."],
       en: ["Built around 1390 by the Counts of St. George-Bösing.", "Located at 347 meters above sea level in the Leitha range.", "Features a prominent 20-meter high shield wall.", "Severely damaged by a lightning strike in 1555.", "Now part of the Mannersdorf-Wüste Nature Park.", "Used as a hideout for robber knights in the 15th century."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-scharfeneck-history-v2.webp"},
   {
     id: "austria-burg-aggstein-history-v2",
     type: "ruins",
@@ -351,8 +341,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["A 12. század elején alapították.", "300 méterrel a Duna felett, egy sziklaélen fekszik.", "A vár hossza megközelíti a 150 métert.", "1429-ben Georg Scheck von Wald építette újjá.", "Évente több mint 50 000 látogatót fogad.", "A Kuenring rablólovagok egyik legfontosabb fészke volt."],
       ro: ["Construit la începutul secolului al XII-lea.", "Situat la 300 de metri deasupra Dunării pe o creastă.", "Incinta are o lungime de aproximativ 150 de metri.", "Reconstruit în 1429 de către Georg Scheck von Wald.", "Atrage anual peste 50.000 de vizitatori.", "Notoriu pentru cavalerii prădători Hadmar și Jörg Scheck."],
       en: ["First constructed in the early 12th century.", "Perched 300 meters above the Danube on a rocky ridge.", "The fortification stretches about 150 meters in length.", "Rebuilt in 1429 by Georg Scheck von Wald.", "Welcomes over 50,000 visitors per year.", "Infamous for the robber knights Hadmar and Jörg Scheck."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-aggstein-history-v2.webp"},
   {
     id: "austria-schloss-pottenbrunn-history-v2",
     type: "castle",
@@ -383,8 +372,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["A 16. században épült középkori alapokra.", "Jellegzetes hagymakupolája a barokk korban készült.", "Hosszú ideig a befolyásos Trautson család tulajdona volt.", "A belső terekben értékes stukkódíszítés látható.", "A kastélyt egy 12 méter széles vizesárok veszi körül.", "A 19. században több nemesi család rezidenciájaként szolgált."],
       ro: ["Construit în secolul XVI pe fundații medievale mai vechi.", "Turnul cu cupolă de tip ceapă a fost adăugat în perioada barocă.", "A aparținut celebrei familii nobiliare Trautson.", "Interiorul păstrează plafoane cu stucaturi de mare valoare.", "Este înconjurat de un șanț cu apă lat de 12 metri.", "A servit drept reședință nobiliară pe parcursul secolului XIX."],
       en: ["Built in the 16th century over medieval foundations.", "The iconic onion dome was added during the Baroque era.", "Formerly owned by the powerful Trautson noble family.", "Interior features exquisite stucco ceilings from various periods.", "Surrounded by a protective moat 12 meters in width.", "Served as a prominent aristocratic residence in the 1800s."],
-    },
-  },
+    }, image: "/poi-images/austria-schloss-pottenbrunn-history-v2.webp"},
   {
     id: "austria-burg-steinegg-history-v2",
     type: "ruins",
@@ -415,8 +403,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["Első írásos említése 1130-ból való.", "A Kamp folyó fölé nyúló sziklapárkányon fekszik.", "A kápolnában gótikus freskók nyomai láthatók.", "A 15. században a husziták támadása során pusztult el.", "Négyzet alakú öregtornyának falai 2 méter vastagok.", "A 17. század óta lakatlan és romos."],
       ro: ["Menționat documentar pentru prima dată în 1130.", "Situat pe o proeminență stâncoasă deasupra râului Kamp.", "Capela păstrează urme de fresce gotice.", "Distrus în secolul al XV-lea în timpul războaielor husite.", "Are un turn pătrat cu ziduri groase de 2 metri.", "A rămas în stare de ruină începând cu secolul al XVII-lea."],
       en: ["First documented in historical records in 1130.", "Located on a rocky outcrop above the Kamp river.", "The chapel contains remnants of Gothic frescoes.", "Destroyed by Hussite forces in the 15th century.", "Features a square keep with 2-meter thick walls.", "Has been a ruin since the 17th century."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-steinegg-history-v2.webp"},
   {
     id: "austria-burg-oedenburg-history-v2",
     type: "ruins",
@@ -447,8 +434,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["A 12. század második felében épült.", "Hadersdorf-Kammern önkormányzat területén található.", "Kettős földsáncrendszerrel védték a várat.", "Már a 14. században elhagyatottként (öde) említették.", "A belső terület körülbelül 300 négyzetméter.", "A Waldviertelbe vezető málhás utak ellenőrző pontja volt."],
       ro: ["Construit în a doua jumătate a secolului al XII-lea.", "Situat în zona administrativă Hadersdorf-Kammern.", "Prezintă un sistem dublu de valuri de pământ.", "A fost menționat ca fiind părăsit încă din secolul XIV.", "Suprafața nucleului cetății este de circa 300 m².", "A servit ca punct de control pentru drumul spre Waldviertel."],
       en: ["Built in the second half of the 12th century.", "Located in the municipality of Hadersdorf-Kammern.", "Features a double rampart system for defense.", "Already described as 'deserted' (öde) in the 14th century.", "Covers an internal area of approximately 300 m².", "Served as a checkpoint for the trade routes into Waldviertel."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-oedenburg-history-v2.webp"},
   {
     id: "austria-burg-rothenstein-history-v2",
     type: "ruins",
@@ -479,8 +465,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["Első írásos említése 1156-ból származik.", "Krumau am Kamp mezőváros közelében található.", "Egy meredek sziklaélen fekszik 360 méteres magasságban.", "A jellegzetes öregtorony ma is 12 méter magas.", "Jól konzervált román stílusú kapualjjal rendelkezik.", "A 16. században egy tűzvész pusztította el a belső épületeket."],
       ro: ["Prima mențiune documentară datează din 1156.", "Situat în apropierea comunei Krumau am Kamp.", "Poziționat pe un pinten stâncos la 360 m altitudine.", "Turnul principal (donjon) are încă 12 metri înălțime.", "Păstrează o poartă romanică bine conservată.", "A fost distrus de un incendiu în secolul al XVI-lea."],
       en: ["First documented in historical records in 1156.", "Located near the market town of Krumau am Kamp.", "Perched on a prominent rock spur at 360 meters elevation.", "The distinctive keep still stands 12 meters high.", "Features a well-preserved Romanesque gate system.", "Destroyed by a fire in the late 16th century."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-rothenstein-history-v2.webp"},
   {
     id: "austria-schloss-falkenstein-history-v2",
     type: "ruins",
@@ -511,8 +496,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["1050 körül alapította III. Henrik császár.", "A falu feletti mészkősziklákon helyezkedik el.", "A romok között egy rekonstruált fa ostromgép látható.", "1571 és 1645 között a Trautson család birtokolta.", "1645-ben harc nélkül adták át a svéd csapatoknak.", "Tiszta időben ellátni innen egészen a Kárpátokig."],
       ro: ["Fondat în jurul anului 1050 sub împăratul Henric al III-lea.", "Situat pe o stâncă de calcar deasupra satului Falkenstein.", "Găzduiește o replică a unei mașini de asediu din lemn.", "A fost în proprietatea familiei Trautson între 1571 și 1645.", "Predat fără luptă trupelor suedeze în 1645.", "Oferă vizibilitate până la Carpați în zilele senine."],
       en: ["Founded around 1050 under Emperor Henry III.", "Located on a limestone cliff above the village of Falkenstein.", "Features a reconstructed wooden siege engine on site.", "Owned by the Trautson family from 1571 to 1645.", "Surrendered without a fight to Swedish troops in 1645.", "Offers views as far as the Carpathians on clear days."],
-    },
-  },
+    }, image: "/poi-images/austria-schloss-falkenstein-history-v2.webp"},
   {
     id: "austria-burg-hard-history-v2",
     type: "ruins",
@@ -543,8 +527,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["A 12. században építették a Hard grófok.", "Alsó-Ausztria és Csehország határvidékén fekszik.", "Egy fővárból és egy kisebb elővárból állt.", "A külső várfalak helyenként 4 méter magasak.", "1425-ben a huszita háborúk alatt súlyos károkat szenvedett.", "Ma sűrű erdő borítja a romok környékét."],
       ro: ["Construit în secolul al XII-lea de conții de Hard.", "Situat în zona de frontieră dintre Austria Inferioară și Cehia.", "Cuprinde o cetate principală și o mică avanpost.", "Zidul de incintă mai are porțiuni de 4 metri înălțime.", "A fost avariat în 1425 în timpul războaielor husite.", "Se află astăzi într-o zonă de pădure densă."],
       en: ["Built in the 12th century by the Counts of Hard.", "Located near the border between Lower Austria and Czechia.", "Consists of a main castle and a small bailey.", "The curtain wall survives in sections up to 4 meters high.", "Damaged during the Hussite Wars in 1425.", "Today the ruins are hidden within a dense forest area."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-hard-history-v2.webp"},
   {
     id: "austria-schloss-staatz-history-v2",
     type: "ruins",
@@ -575,8 +558,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["A 11. században épült egy 100 méter magas sziklán.", "1645-ben a svéd hadsereg teljesen lerombolta.", "Jellegzetes öregtornya a régió egyik fő jelképe.", "A várhegy lábánál szabadtéri színpad működik.", "Fontos védmű volt az északról érkező támadások ellen.", "A romterület ma szabadon látogatható a turisták számára."],
       ro: ["Construit în secolul al XI-lea pe o stâncă de 100 m înălțime.", "Distrus definitiv de suedezi în anul 1645.", "Turnul principal proeminent este simbolul regiunii.", "Dispune de o scenă în aer liber la baza dealului cetății.", "A servit ca bastion important împotriva atacurilor din nord.", "Ruina este astăzi accesibilă gratuit vizitatorilor."],
       en: ["Built in the 11th century on a 100-meter high rock.", "Permanently destroyed by Swedish forces in 1645.", "The prominent keep is a major landmark of the region.", "Features an open-air stage at the foot of the castle hill.", "Served as a vital bulwark against invasions from the north.", "The ruins are currently open and accessible to the public."],
-    },
-  },
+    }, image: "/poi-images/austria-schloss-staatz-history-v2.webp"},
   {
     id: "austria-burg-peilstein-history-v2",
     type: "ruins",
@@ -607,8 +589,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["Első írásos említése 1130-ból származik.", "Egy román stílusú várkápolna maradványai is láthatók.", "A belső vár területe mintegy 400 négyzetméter.", "A 15. században hagyták el, ekkor indult romlásnak.", "Weiten település felett, egy erdős gerincen található.", "A falak nagy része helyi gránitkőből épült."],
       ro: ["Menționat documentar prima dată în anul 1130.", "Păstrează resturile unei capele romanice de castel.", "Nucleul cetății ocupă o suprafață de circa 400 m².", "A fost abandonat și a început să se ruineze în secolul XV.", "Situat pe o creastă împădurită deasupra localității Weiten.", "Zidurile sunt construite predominant din piatră de granit."],
       en: ["First documented in historical records in 1130.", "Features remnants of a Romanesque castle chapel.", "The core castle covers an area of about 400 m².", "Abandoned in the 15th century, leading to its decay.", "Located on a wooded ridge overlooking the town of Weiten.", "The walls are primarily constructed from local granite rock."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-peilstein-history-v2.webp"},
   {
     id: "austria-burg-grub-history-v2",
     type: "ruins",
@@ -639,8 +620,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["1080 körül alapította a Rauhenstein család.", "Három különálló lakótoronnyal rendelkezik különböző korokból.", "Az 1970-es években jelentős felújításon esett át.", "Gótikus freskókkal díszített várkápolnája van.", "Egy rejtett mellékvölgyben helyezkedik el Messernnél.", "A 16. században fontos közigazgatási központ volt."],
       ro: ["Fondat în jurul anului 1080 de familia Rauhenstein.", "Are trei turnuri de locuință din perioade diferite.", "A fost restaurat extensiv în anii 1970.", "Include o chapelă cu fresce din perioada gotică.", "Complexul este situat într-o vale laterală retrasă.", "A servit ca sediu administrativ în secolul al XVI-lea."],
       en: ["Founded around 1080 by the Tursen of Rauhenstein family.", "Features three residential towers from different eras.", "Underwent extensive restoration work in the 1970s.", "Contains a chapel with original Gothic frescoes.", "The castle is tucked away in a small side valley.", "Served as an administrative center in the 16th century."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-grub-history-v2.webp"},
   {
     id: "austria-schloss-ebersdorf-history-v2",
     type: "castle",
@@ -671,8 +651,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["1550 körül épült II. Miksa császár megrendelésére.", "Kiemelkedő szépségű barokk kápolnával rendelkezik.", "Fontos állomása volt a császári postakocsi-járatoknak.", "Napóleon 1809-ben itt rendezte be ideiglenes főhadiszállását.", "Homlokzata a 18. századi klasszicista átépítés jegyeit viseli.", "Napjainkban szociális és kulturális intézményként működik."],
       ro: ["Ridicată în jurul anului 1550 pentru împăratul Maximilian II.", "Adăpostește o capelă barocă cu elemente decorative rare.", "A funcționat ca punct de oprire pentru poșta imperială.", "Napoleon și-a stabilit cartierul general aici în anul 1809.", "Fațada a fost refăcută în stil clasicist în secolul XVIII.", "În prezent, complexul este utilizat în scopuri sociale."],
       en: ["Constructed around 1550 for Emperor Maximilian II.", "Features a significant Baroque chapel within the grounds.", "Served as a key station for the imperial postal service.", "Napoleon used the palace as headquarters in 1809.", "The facade shows major 18th-century Neoclassical updates.", "The complex is currently used for social and local services."],
-    },
-  },
+    }, image: "/poi-images/austria-schloss-ebersdorf-history-v2.webp"},
   {
     id: "austria-burg-neudegg-history-v2",
     type: "ruins",
@@ -703,8 +682,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["1180-ban említik először írásos dokumentumban.", "Pulkau település felett, a Waldviertelben található.", "A belső várat mély védőárok veszi körül.", "Egy masszív, négyzet alapú öregtorony romjai láthatók.", "A 15. században a husziták rombolták le.", "A vár területe körülbelül 40 x 25 méter."],
       ro: ["Prima mențiune documentară datează din anul 1180.", "Situat deasupra localității Pulkau în Waldviertel.", "Nucleul cetății este înconjurat de un șanț adânc.", "Păstrează resturile unui donjon masiv, pătrat.", "A fost distrus în secolul al XV-lea de către husiți.", "Dimensiunile fortificației sunt de aproximativ 40 pe 25 metri."],
       en: ["First documented in historical records in 1180.", "Located above the town of Pulkau in the Waldviertel.", "The core castle is surrounded by a deep defensive moat.", "Features remnants of a massive square-shaped keep.", "Destroyed during the Hussite raids in the 15th century.", "The site measures approximately 40 by 25 meters."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-neudegg-history-v2.webp"},
   {
     id: "austria-burg-gansbach-history-v2",
     type: "ruins",
@@ -735,8 +713,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["1120 körül alapította a Gansbach nemesi család.", "A Dunkelsteinerwald szívében helyezkedik el.", "Egy kis fővárból és gazdasági épületekből állt.", "A 14. században lerombolták és elhagyták.", "A romok egy enyhe emelkedőn találhatók.", "A régészeti leletek rövid használati időről tanúskodnak."],
       ro: ["Fondat în jurul anului 1120 de domnii de Gansbach.", "Situat în inima pădurii Dunkelsteinerwald.", "Cuprindea o mică cetate principală și clădiri anexe.", "A fost demolat și abandonat în secolul al XIV-lea.", "Ruina este situată pe o colină domoală.", "Descoperirile arheologice atestă o perioadă scurtă de utilizare."],
       en: ["Founded around 1120 by the Lords of Gansbach.", "Located in the heart of the Dunkelsteinerwald forest.", "Consisted of a small main castle and outbuildings.", "Demolished and abandoned during the 14th century.", "The ruins are situated on a gentle forest hill.", "Archaeological finds suggest a relatively short occupation."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-gansbach-history-v2.webp"},
   {
     id: "austria-schloss-vitis-history-v2",
     type: "castle",
@@ -767,8 +744,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["Első írásos említése nemesi lakként 1150-ből való.", "A 15. században a huszita támadások során megrongálódott.", "Mai formáját a reneszánsz kori átépítések során nyerte el.", "Négyszögletes alaprajzú épület jellegzetes sarokdíszítéssel.", "Várkápolnáját Szent Jakab tiszteletére szentelték fel.", "Jelenleg magántulajdonban van és lakóházként funkcionál."],
       ro: ["Atestat documentar pentru prima dată în anul 1150.", "Structura a fost afectată de invaziile husite în secolul XV.", "Aspectul actual datează în mare parte din perioada Renașterii.", "Clădirea are o formă dreptunghiulară cu ancadramente la colțuri.", "Capela castelului este dedicată Sfântului Iacob.", "Proprietatea este privată și servește drept locuință."],
       en: ["First recorded as a noble seat in the year 1150.", "Damaged during the Hussite wars in the 15th century.", "Current architectural style dates mostly to the Renaissance.", "Features a rectangular floor plan with quoined corners.", "The castle chapel is dedicated to Saint James.", "Now a privately owned and inhabited residential building."],
-    },
-  },
+    }, image: "/poi-images/austria-schloss-vitis-history-v2.webp"},
   {
     id: "austria-burg-ruine-weitra-history-v2",
     type: "castle",
@@ -799,8 +775,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["Hadmar II. von Kuenring alapította 1201 körül.", "1590 és 1606 között épült újjá reneszánsz stílusban.", "Itt található az ország legrégebbi fennmaradt kastélyszínháza.", "1607 óta a Fürstenberg hercegi család tulajdona.", "A falak között regionális sörfőzési múzeum működik.", "Kilátótornyából az egész Waldviertel vidék belátható."],
       ro: ["Fondat în 1201 de către Hadmar II von Kuenring.", "Reconstruit ca palat renascentist între 1590 și 1606.", "Găzduiește cel mai vechi teatru de castel păstrat din țară.", "Proprietate a familiei Fürstenberg din anul 1607.", "Include un muzeu dedicat tradiției fabricării berii.", "Turnul de observație oferă o panoramă asupra regiunii Waldviertel."],
       en: ["Founded around 1201 by Hadmar II of Kuenring.", "Transformed into a Renaissance palace from 1590 to 1606.", "Features the oldest preserved castle theater in Austria.", "Owned by the Princes of Fürstenberg since 1607.", "Home to a museum dedicated to regional beer brewing.", "The watchtower provides a 360-degree view of Waldviertel."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-ruine-weitra-history-v2.webp"},
   {
     id: "austria-burg-drosendorf-history-v2",
     type: "castle",
@@ -831,8 +806,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["A városfal teljes hossza 1,7 kilométer.", "A várat először a 12. században említik az oklevelek.", "1480-ban Mátyás király magyar csapatai ostromolták.", "A kastély jelenlegi homlokzata a barokk korban készült.", "Jellegzetes, késő középkori kaputoronnyal rendelkezik.", "Ma szállodaként és oktatási központként üzemel."],
       ro: ["Zidul orașului are o lungime totală de 1,7 kilometri.", "Prima mențiune a castelului datează din secolul XII.", "A fost asediat de trupele maghiare în anul 1480.", "Fațada actuală a palatului a fost realizată în stil baroc.", "Include un turn de poartă monumental din perioada medievală.", "Funcționează în prezent ca hotel și centru educațional."],
       en: ["The town's defensive walls are 1.7 kilometers long.", "The castle was first mentioned in 12th-century records.", "Besieged by Hungarian forces in the year 1480.", "The current chateau facade dates back to the Baroque era.", "Features a prominent late medieval gate tower.", "Currently operates as a hotel and educational retreat."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-drosendorf-history-v2.webp"},
   {
     id: "austria-schloss-grafenegg-history-v2",
     type: "palace",
@@ -863,8 +837,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["1840 és 1873 között épült át Tudor-gótikus stílusban.", "Pompás lovagtermét faragott famennyezet díszíti.", "A kastélypark területe eléri a 32 hektárt.", "A Metternich-Sándor hercegi család fő rezidenciája.", "2007 óta világhírű komolyzenei fesztivál helyszíne.", "Itt található a Wolkenturm nevű modern szabadtéri színpad."],
       ro: ["Reconstruit în stil gotic Tudor între 1840 și 1873.", "Sala Cavalerilor are un plafon sculptat monumental.", "Parcul domeniului se întinde pe 32 de hectare.", "Reședința principală a familiei Metternich-Sándor.", "Găzduiește un festival de muzică celebru din 2007.", "Include Wolkenturm, o scenă modernă în aer liber."],
       en: ["Remodeled in Tudor Gothic style between 1840 and 1873.", "Features a grand Knight's Hall with an ornate carved ceiling.", "The surrounding park covers a vast 32-hectare area.", "Primary seat of the princely Metternich-Sándor family.", "Site of a world-famous music festival since 2007.", "Home to the 'Wolkenturm', a unique open-air auditorium."],
-    },
-  },
+    }, image: "/poi-images/austria-schloss-grafenegg-history-v2.webp"},
   {
     id: "austria-burg-ruine-kollmitz-history-v2",
     type: "ruins",
@@ -895,8 +868,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["Első írásos említése 1135-ből származik", "A vár területe megközelítőleg 1,35 hektár", "A kerek Éhestorony falvastagsága eléri a 3 métert", "1450 körül jelentős késő gótikus bővítés történt", "A várudvar hossza meghaladja a 100 métert", "1708-ban a tetőadó miatt rombolták le a tetőket"],
       ro: ["Prima atestare documentară datează din anul 1135", "Incinta fortificată ocupă o suprafață de 13.500 m2", "Turnul rotund are o înălțime de 25 de metri", "Zidul de apărare exterior are o lungime de 100m", "A aparținut familiei nobiliare Kuenring", "Abandonat ca reședință la începutul secolului XVIII"],
       en: ["First documented mention recorded in 1135", "Total site area spans approximately 13,500 m2", "The Hunger Tower stands 25 meters tall", "Features a 100-meter long outer defensive wall", "Significant expansion occurred around the year 1450", "The castle fell into ruin after the year 1708"],
-    },
-  },
+    }, image: "/poi-images/austria-burg-ruine-kollmitz-history-v2.webp"},
   {
     id: "austria-schloss-wolkersdorf-history-v2",
     type: "castle",
@@ -927,8 +899,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["A 13. században épült eredetileg vízi várként.", "Négy épületszárnya jellegzetes négyszögletes formát ad.", "Napóleon 1809 júliusában három éjszakát töltött itt.", "1970 óta Wolkersdorf városának tulajdonában van.", "Ma zeneiskola és kortárs galéria működik benne.", "A kastélyszigetre két hídon keresztül lehet bejutni."],
       ro: ["Fondat în secolul XIII ca fortăreață de apă.", "Structură cu patru aripi dispuse într-un plan pătrat.", "Napoleon a înnoptat aici trei nopți în iulie 1809.", "Proprietate a municipalității Wolkersdorf din anul 1970.", "Găzduiește în prezent o școală de muzică și galerii de artă.", "Insula castelului este accesibilă prin intermediul a două poduri."],
       en: ["Originally built in the 13th century as a water castle.", "Features a four-wing layout around a central courtyard.", "Napoleon stayed here for three nights in July 1809.", "Owned by the municipality of Wolkersdorf since 1970.", "Now houses a music school and various exhibition spaces.", "The castle island is connected by two separate bridges."],
-    },
-  },
+    }, image: "/poi-images/austria-schloss-wolkersdorf-history-v2.webp"},
   {
     id: "austria-burg-ruine-hartberg-history-v2",
     type: "ruins",
@@ -959,8 +930,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["Ottokár őrgróf alapította 1122 környékén", "A 12. században Stájerország központi vára volt", "1572-ben a Paar család szerezte meg a tulajdont", "A reneszánsz árkádos udvar 1600-ból származik", "A várfalak vastagsága helyenként 2 méter", "1715-ben egy tűzvész súlyosan megrongálta"],
       ro: ["Fondat în anul 1122 de către Ottokar al II-lea", "Integrat în sistemul de fortificații al orașului", "Transformat în castel renascentist după 1570", "Curtea cu arcade a fost finalizată în 1600", "A servit drept reședință pentru familia Paar", "Incendiul din 1715 a distrus mare parte din acoperiș"],
       en: ["Established around 1122 by Margrave Ottokar II", "Served as a cornerstone of the city walls", "Acquired by the Paar family in the year 1572", "The Renaissance courtyard dates back to 1600", "Wall thickness reaches up to 2 meters in sectors", "A major fire struck the complex in 1715"],
-    },
-  },
+    }, image: "/poi-images/austria-burg-ruine-hartberg-history-v2.webp"},
   {
     id: "austria-schloss-fischau-history-v2",
     type: "castle",
@@ -991,8 +961,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["Az első írásos említése a 12. századból származik.", "Mai barokk arculatát a 18. század során kapta meg.", "Belsejében egy pazarul díszített díszterem található.", "A kastély közvetlenül a történelmi termálfürdő mellett áll.", "Évszázadokon át különböző nemesi családok rezidenciája volt.", "Jelenleg koncerteknek és kulturális eseményeknek ad otthont."],
       ro: ["Prima mențiune documentară apare în secolul XII.", "Forma barocă actuală a fost definitivată în secolul XVIII.", "Include o sală de banchete cu decorațiuni interioare bogate.", "Castelul este situat lângă băile termale istorice ale orașului.", "A servit drept sediu nobiliar timp de mai multe secole.", "Este utilizat astăzi pentru concerte și evenimente culturale."],
       en: ["First documented in historical texts during the 1100s.", "The current Baroque appearance dates from the 18th century.", "Contains a magnificent festive hall with ornate detail.", "Located immediately adjacent to the historic thermal baths.", "Was the seat of various noble families over many centuries.", "Now serves as a popular venue for concerts and art events."],
-    },
-  },
+    }, image: "/poi-images/austria-schloss-fischau-history-v2.webp"},
   {
     id: "austria-burg-ruine-scharfstein-history-v2",
     type: "ruins",
@@ -1023,8 +992,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["A 12. században építették a Kuenringek", "Első írásos említése 1192-ben történt", "A várrom 310 méteres tengerszint feletti magasságon áll", "I. Albert seregei rombolták le 1293-ban", "A belső vár alapterülete 30 x 15 méter", "Fontos vámszedő hely volt a Duna völgyében"],
       ro: ["Construit în secolul XII de familia Kuenring", "Menționat documentar pentru prima dată în 1192", "Situat la o altitudine de 310 metri", "Distrus de trupele imperiale în anul 1293", "Nucleul cetății are dimensiuni de 30 x 15 metri", "Controla traficul naval pe brațul Dunării"],
       en: ["Built in the 12th century by the Kuenring lords", "First historical mention dated to 1192", "The site sits at an elevation of 310 meters", "Destroyed by imperial forces around 1293", "The core castle measures 30 by 15 meters", "Positioned as a strategic toll point on the Danube"],
-    },
-  },
+    }, image: "/poi-images/austria-burg-ruine-scharfstein-history-v2.webp"},
   {
     id: "austria-burg-ruine-wartenstein-history-v2",
     type: "ruins",
@@ -1055,8 +1023,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["1130 körül építették a Formbach grófok", "1644-től a gloggnitzi kolostor tulajdona volt", "1809-ben egy villámcsapás okozott súlyos tüzet", "Liechtenstein herceg állíttatta helyre 1870 után", "Szent Györgynek szentelt várkápolnával rendelkezik", "A vár egy 515 méter magas sziklán fekszik"],
       ro: ["Ridicată în jurul anului 1130 de conții Formbach", "Aparține mănăstirii Gloggnitz din anul 1644", "Distrusă parțial de trăsnet în anul 1809", "Restaurată de prințul Liechtenstein după 1870", "Capela castelului este dedicată Sfântului Gheorghe", "Situată pe un promontoriu la 515 metri altitudine"],
       en: ["Constructed around 1130 by the Formbach counts", "Owned by Gloggnitz Abbey starting in 1644", "A lightning strike caused severe damage in 1809", "Restored by Prince Liechtenstein after 1870", "Includes a chapel dedicated to Saint George", "Located on a rocky peak at 515 meters elevation"],
-    },
-  },
+    }, image: "/poi-images/austria-burg-ruine-wartenstein-history-v2.webp"},
   {
     id: "austria-schloss-muthmannsdorf-history-v2",
     type: "ruins",
@@ -1087,8 +1054,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["Első dokumentált említése 1146-ból való", "A Muthmannsdorf lovagok egykori székhelye", "A 15. század során indult pusztulásnak", "Az alapfalak négyzetes alaprajzot mutatnak", "A falu erődtemplomának közelében található", "12. századi régészeti leletek kerültek elő"],
       ro: ["Prima mențiune documentară în anul 1146", "Sediul cavalerilor de Muthmannsdorf", "Fortificația a început să se ruineze în secolul XV", "Fundațiile indică un plan rectangular", "Situat în apropierea bisericii fortificate locale", "Artefactele descoperite datează din secolul XII"],
       en: ["First recorded mention in the year 1146", "Former seat of the Knights of Muthmannsdorf", "The site fell into decline during the 15th century", "Foundations reveal a square defensive layout", "Located near the village's historic fortified church", "Archaeological finds confirm 12th-century origins"],
-    },
-  },
+    }, image: "/poi-images/austria-schloss-muthmannsdorf-history-v2.webp"},
   {
     id: "austria-burg-ruine-sebenstein-history-v2",
     type: "castle",
@@ -1119,8 +1085,7 @@ export const austriaHistoryV2: POI[] = [
       hu: ["1050 körül épült egy stratégiai fontosságú sziklaháton.", "Jelentős középkori fegyvergyűjteménnyel rendelkezik.", "A 15. században Mátyás király seregei is elfoglalták.", "1814 óta a Liechtenstein hercegi család tulajdona.", "Jellegzetes kerek öregtornya messziről felismerhető.", "Értékes gótikus egyházművészeti kincseket őriznek itt."],
       ro: ["Ridicată în jurul anului 1050 pe o creastă stâncoasă.", "Deține o colecție impresionantă de arme medievale.", "Cetatea a fost ocupată de trupele maghiare în secolul XV.", "Proprietatea familiei Liechtenstein începând cu anul 1814.", "Turnul cilindric principal domină întreg peisajul local.", "Găzduiește exponate valoroase de artă sacră gotică."],
       en: ["Built around 1050 on a strategically vital rock ridge.", "Houses an extensive collection of authentic medieval weapons.", "The fortress was occupied by Hungarian troops in the 1400s.", "Owned by the Princely House of Liechtenstein since 1814.", "Features a prominent circular keep visible for miles.", "Contains precious examples of Gothic religious art."],
-    },
-  },
+    }, image: "/poi-images/austria-burg-ruine-sebenstein-history-v2.webp"},
   {
     id: "austria-burg-ruine-schwarzenbach-history-v2",
     type: "ruins",

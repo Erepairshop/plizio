@@ -1026,8 +1026,7 @@ export const belarusLifeV2: POI[] = [
       hu: ["A rezervátumot 1999-ben hozták létre", "Területe megközelíti a 10.000 hektárt", "15 különféle kosborfaj található a lápréteken", "A fekete gólya egyik fontos fészkelőhelye", "A tőzegréteg vastagsága helyenként 4 méter", "Több mint 70 madárfaj fészkel a területen"],
       ro: ["Rezervația a fost înființată în anul 1999", "Acoperă o suprafață de circa 10.000 hectare", "Adăpostește 15 specii rare de orhidee sălbatice", "Habitat esențial pentru barza neagră protejată", "Grosimea stratului de turbă atinge 4 metri", "Peste 70 de specii de păsări cuibăresc aici"],
       en: ["The reserve was officially founded in 1999", "Protects approximately 10,000 hectares of land", "Contains 15 different species of wild orchids", "Crucial nesting site for the rare Black Stork", "Peat layers reach depths of up to 4 meters", "Over 70 bird species recorded breeding here"],
-    },
-  },
+    }, image: "/poi-images/belarus-skryhalev-reserve-life-v2.webp"},
   {
     id: "belarus-dnieper-sozh-wetlands-life-v2",
     type: "wildlife",

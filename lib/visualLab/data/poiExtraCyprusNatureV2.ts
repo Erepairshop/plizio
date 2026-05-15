@@ -31,8 +31,7 @@ export const cyprusNatureV2: POI[] = [
       hu: ["Szikla magassága: 30 méter", "A szikla hossza: 500 méter", "Mészkő formáció", "Kiemelt tengeri teraszok", "Madárfajok: több mint 50", "Miocén kori mészkő"],
       ro: ["Înălțimea stâncii: 30 de metri", "Lungimea stâncii: 500 de metri", "Formațiune de calcar", "Terasă marină ridicată", "Specii de păsări: peste 50", "Calcar din Miocen"],
       en: ["Cliff height: 30 meters", "Cliff length: 500 meters", "Limestone formation", "Elevated marine terraces", "Bird species: over 50", "Calcareous rock from Miocene"],
-    },
-  },
+    }, image: "/poi-images/cyprus-zygi-coastal-cliff-nature-v2.webp"},
   {
     id: "cyprus-paphos-forest-gorge-nature-v2",
     type: "valley",
@@ -63,8 +62,7 @@ export const cyprusNatureV2: POI[] = [
       hu: ["60.000 hektáros kiterjedés", "A ciprusi muflon fő élőhelye", "Natura 2000-es védettség alatt áll", "Endémiás ciprusi cédrusok jelenléte"],
       ro: ["Suprafață de 60.000 de hectare", "Habitatul muflonului cipriot", "Parte a rețelei Natura 2000", "Altitudini de până la 1000 metri"],
       en: ["Area covers 60,000 hectares", "Primary habitat of Cyprus mouflon", "Part of Natura 2000 network", "Features endemic golden oak trees"],
-    },
-  },
+    }, image: "/poi-images/cyprus-paphos-forest-gorge-nature-v2.webp"},
   {
     id: "cyprus-xyliatos-forest-lake-nature-v2",
     type: "lake",
@@ -95,8 +93,7 @@ export const cyprusNatureV2: POI[] = [
       hu: ["1980-ban épült víztározó gát", "1,2 millió köbméteres kapacitás", "42 méter magas völgyzárógát", "Kedvelt kirándulóhely a természetben"],
       ro: ["Baraj finalizat în anul 1980", "Capacitate de 1,2 milioane m³", "Înălțimea barajului: 42 metri", "Destinație populară pentru drumeții"],
       en: ["Dam constructed in 1980", "Capacity of 1.2 million cubic meters", "Dam wall height is 42 meters", "Popular hiking and picnic spot"],
-    },
-  },
+    }, image: "/poi-images/cyprus-xyliatos-forest-lake-nature-v2.webp"},
   {
     id: "cyprus-limnitis-river-valley-nature-v2",
     type: "valley",
@@ -127,8 +124,7 @@ export const cyprusNatureV2: POI[] = [
       hu: ["Kb. 20 kilométer hosszú folyómeder", "Jelentős eper- és citrustermesztés", "Fontos öntözővíz-forrás a völgyben", "Az ENSZ-ütközőzóna közelében fekszik"],
       ro: ["Lungimea râului este de circa 20 km", "Zonă majoră pentru producția de căpșuni", "Irigă terenurile agricole din regiune", "Situat lângă zona tampon a ONU"],
       en: ["River length approximately 20 km", "Known for strawberry and citrus crops", "Vital for regional agricultural irrigation", "Located near the UN Buffer Zone"],
-    },
-  },
+    }, image: "/poi-images/cyprus-limnitis-river-valley-nature-v2.webp"},
   {
     id: "cyprus-stravros-tis-psokas-forest-nature-v2",
     type: "forest",
@@ -159,8 +155,7 @@ export const cyprusNatureV2: POI[] = [
       hu: ["A Páfosz-erdő szívében, 900 méteres tengerszint feletti magasságban fekszik", "A ciprusi muflon (Ovis gmelini ophion) legnagyobb populációjának otthona", "A terület évi csapadékmennyisége meghaladja a 700 millimétert", "1884-ben alapított erdészeti állomás működik a központjában", "Sűrű Pinus brutia és endemikus aranytölgy erdők borítják", "Az E4-es európai túraútvonal egyik fontos ciprusi állomása"],
       ro: ["Altitudinea stațiunii forestiere este de aproximativ 900 de metri", "Este principalul refugiu pentru muflonul cipriot, simbol național", "Flora include stejarul auriu endemic și pinul de Calabria", "Găzduiește o stație de cercetare forestieră înființată în 1884", "Zona primește peste 700 mm de precipitații anual", "Parte integrantă a rețelei europene de trasee de drumeție E4"],
       en: ["Located at an elevation of 900 meters within the Paphos Forest", "Primary conservation area for the endemic Cyprus mouflon species", "Features a historic forest station established by the British in 1884", "Dominant tree species include Calabrian pine and endemic golden oak", "Annual rainfall in this forested region exceeds 700 millimeters", "Intersected by the Cyprus section of the E4 European long-distance path"],
-    },
-  },
+    }, image: "/poi-images/cyprus-stravros-tis-psokas-forest-nature-v2.webp"},
   {
     id: "cyprus-akrotiri-peninsula-coast-nature-v2",
     type: "landmark",
@@ -223,8 +218,7 @@ export const cyprusNatureV2: POI[] = [
       hu: ["A Troodosz-hegység északi oldalán, meredek hegyoldalak között fekszik", "A Szetrachosz folyó vize táplálja a völgy gazdag növényzetét", "Ciprus legjelentősebb cseresznyetermesztő és almaültetvényes régiója", "Magasabb régióit a feketefenyő (Pinus nigra) dominálja", "Kalopanajótisz falunál kénes hőforrások törnek a felszínre", "A meredek völgyoldalakon hagyományos teraszos földművelés folyik"],
       ro: ["Situată pe pantele nordice abrupte ale masivului muntos Troodos", "Bazinul hidrografic este dominat de cursul râului Setrachos", "Valea este cel mai mare producător de cireșe din întreaga insulă", "Pădurile de la peste 1000 de metri sunt dominate de pinul negru", "Izvoarele sulfuroase de la Kalopanayiotis atrag vizitatori pentru tratamente", "Peisajul include terase agricole seculare săpate în pantele abrupte"],
       en: ["Situated on the northern flanks of the Troodos Mountain range", "The valley's ecosystem is sustained by the Setrachos River", "Recognized as the primary cherry and apple producing region of Cyprus", "High-altitude areas above 1000 meters are dominated by black pines", "Features natural sulfur springs near the village of Kalopanayiotis", "Characterized by extensive agricultural terracing on steep inclines"],
-    },
-  },
+    }, image: "/poi-images/cyprus-marathasa-valley-nature-v2.webp"},
   {
     id: "cyprus-lefkara-hills-nature-v2",
     type: "mountain",
@@ -255,8 +249,7 @@ export const cyprusNatureV2: POI[] = [
       hu: ["Átlagos tengerszint feletti magasságuk 500 és 700 méter között mozog", "A geológiai alapot világos kréta és miocén kori mészkő adja", "Jelentős szentjánoskenyér- és olívaolaj-termelő mezőgazdasági zóna", "A karsztos kőzet miatt a felszíni vízfolyások száma rendkívül alacsony", "A növényzet zömét szárazságtűrő mediterrán cserjések (garrigue) alkotják", "Földrajzi átmenetet képez a lárnakai síkság és a Troodosz-hegység között"],
       ro: ["Altitudinea medie a colinelor variază între 500 și 700 de metri", "Substratul geologic este compus din cretă și calcar de culoare deschisă", "Regiunea are o tradiție îndelungată în cultivarea roșcovilor și măslinilor", "Roca poroasă calcaroasă determină lipsa cursurilor de apă permanente", "Vegetația este adaptată la solurile subțiri și verile aride mediteraneene", "Formează un coridor ecologic între câmpia de coastă și masivul Troodos"],
       en: ["The average elevation of the hills ranges from 500 to 700 meters", "Geologically composed primarily of highly reflective white chalk and limestone", "Recognized as a major agricultural zone for carob and olive cultivation", "The porous limestone bedrock results in a lack of permanent surface water", "Ecosystem consists mainly of drought-resistant Mediterranean scrub (garrigue)", "Acts as a transitional geological zone between the coastal plain and Troodos"],
-    },
-  },
+    }, image: "/poi-images/cyprus-lefkara-hills-nature-v2.webp"},
   {
     id: "cyprus-kouris-delta-nature-v2",
     type: "landmark",

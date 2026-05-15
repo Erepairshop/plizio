@@ -31,8 +31,7 @@ export const germanyHistoryV2: POI[] = [
       hu: ["A tárgyalóterem 440 férőhelyes.", "24 vádlott állt a bíróság elé.", "A perek 218 napig tartottak.", "A bíróság négy nyelven dolgozott.", "300 000 esküt nyújtottak be.", "A Memorium 2000-ben nyílt."],
       ro: ["Sala 600 are 440 de locuri.", "Procesele au durat 218 zile.", "Au fost pronunțate 12 pedepse cu moartea.", "Palatul de Justiție are o suprafață de 20.000 m².", "Numărul de vizitatori anuali este de 200.000.", "Sala a fost renovată în 1945 pentru procese."],
       en: ["Courtroom 600 measures 25m x 16m x 7m.", "The trial began on November 20, 1945.", "403 trial sessions were held in total.", "Simultaneous interpretation was used in 4 languages.", "The Palace of Justice covers 20,000 square meters.", "Memorium Nürnberger Prozesse attracts 200,000 visitors annually."],
-    },
-  },
+    }, image: "/poi-images/germany-nuremberg-trial-hall-history-v2.webp"},
   {
     id: "germany-trier-kaiserthermen-history-v2",
     type: "ruins",
@@ -63,8 +62,7 @@ export const germanyHistoryV2: POI[] = [
       hu: ["A fürdőkomplexum 200 x 150 méteres.", "Az építkezés 300 körül kezdődött.", "A falak vastagsága 2 méter.", "A fűtés hypocaustum rendszerrel történt.", "A vízvezeték 12 km hosszú volt.", "1986 óta világörökség."],
       ro: ["Termele au dimensiunile de 200x150 metri.", "Zidurile păstrate au înălțimea de 20 de metri.", "Sistemul de încălzire avea canale subterane.", "Apeductul avea 12 km lungime.", "Termele fac parte din situl UNESCO.", "Anul începerii construcției: 300 d.Hr."],
       en: ["The Imperial Baths measure 200 by 150 meters.", "Construction started around 300 AD.", "The surviving walls reach 20 meters in height.", "The complex covers 3 hectares.", "The water supply aqueduct was 12 kilometers long.", "UNESCO designation was granted in 1986."],
-    },
-  },
+    }, image: "/poi-images/germany-trier-kaiserthermen-history-v2.webp"},
   {
     id: "germany-hambach-castle-history-v2",
     type: "castle",
@@ -95,8 +93,7 @@ export const germanyHistoryV2: POI[] = [
       hu: ["A fesztivál 1832. május 27-én volt.", "30 000 résztvevője volt.", "A várat 1090-ben említik először.", "A vár 325 méter magas dombon áll.", "200 000 látogató évente.", "A Pfalzi erdő bioszféra rezervátum."],
       ro: ["Festivalul a avut loc la 27 mai 1832.", "Participanți: 30.000 de persoane.", "Originea castelului: secolul al XI-lea.", "Înălțimea dealului: 325 m.", "Vizitatori anuali: 200.000.", "Pădurea Palatinatului: 1.771 km²."],
       en: ["The Hambach Festival occurred on May 27, 1832.", "An estimated 30,000 people attended.", "The castle was first mentioned in 1090.", "The hill's elevation is 325 meters above sea level.", "Annual visitors: approximately 200,000.", "The surrounding Palatinate Forest covers 1,771 square kilometers."],
-    },
-  },
+    }, image: "/poi-images/germany-hambach-castle-history-v2.webp"},
   {
     id: "germany-berlin-tempelhof-history-v2",
     type: "landmark",
@@ -127,8 +124,7 @@ export const germanyHistoryV2: POI[] = [
       hu: ["Tempelhof repülőteret 1923-ban nyitották meg, a mai épület 1941-ben készült el.", "A Tempelhofer Feld területe 386 hektár.", "A légihíd idején 90 másodpercenként landolt egy repülőgép.", "Az épület teljes hossza 1,2 km.", "A repülőtér három kifutópályával rendelkezett.", "2008-ban megszűnt a repülés, 2010 óta a terület nyilvános park."],
       ro: ["Aeroportul Tempelhof a fost deschis în 1923, clădirea actuală finalizată în 1941.", "Suprafața Tempelhofer Feld este de 386 de hectare.", "În timpul podului aerian, un avion ateriza la fiecare 90 de secunde.", "Clădirea are o lungime totală de 1,2 km.", "Aeroportul avea trei piste de decolare-aterizare.", "În 2008, zborurile au încetat, iar din 2010 terenul este parc public."],
       en: ["Tempelhof Airport opened in 1923; the current building was completed in 1941.", "The Tempelhofer Feld covers 386 hectares.", "During the airlift, a plane landed every 90 seconds.", "The building has a total length of 1.2 kilometers.", "The airport had three runways.", "Flight operations ceased in 2008; the field became a public park in 2010."],
-    },
-  },
+    }, image: "/poi-images/germany-berlin-tempelhof-history-v2.webp"},
   {
     id: "germany-magdeburg-cathedral-history-v2",
     type: "cathedral",
@@ -159,8 +155,7 @@ export const germanyHistoryV2: POI[] = [
       hu: ["A dóm magassága 104 méter, hossza 120 méter.", "Az alapkövet 1209-ben tették le, felszentelése 1363-ban volt.", "Az elődépület 955-ből származott.", "A hajó szélessége 32 méter.", "A bronz keresztelőmedence súlya kb. 1,5 tonna.", "A második világháborút súlyos károkkal, de nem elpusztulva vészelte át."],
       ro: ["Catedrala are 104 metri înălțime și 120 metri lungime.", "Piatra de temelie a fost pusă în 1209, iar sfințirea a avut loc în 1363.", "Construcția anterioară data din anul 955.", "Nava are o lățime de 32 de metri.", "Cristelnița de bronz cântărește aproximativ 1,5 tone.", "Catedrala a supraviețuit celui de-al Doilea Război Mondial cu daune grave, dar nu a fost distrusă."],
       en: ["The cathedral is 104 meters high and 120 meters long.", "The cornerstone was laid in 1209; consecration occurred in 1363.", "The predecessor church dated from 955.", "The nave is 32 meters wide.", "The bronze baptismal font weighs about 1.5 tons.", "The cathedral survived WWII severely damaged but not destroyed."],
-    },
-  },
+    }, image: "/poi-images/germany-magdeburg-cathedral-history-v2.webp"},
   {
     id: "germany-karlsruhe-palace-history-v2",
     type: "palace",
@@ -191,8 +186,7 @@ export const germanyHistoryV2: POI[] = [
       hu: ["A kastélyt 1715-ben építették, a várost szintén 1715-ben alapították.", "A kastélytorony magassága 56 méter.", "A kastélykert területe 73 hektár.", "Az épület 32 ablak tengellyel és 4 szárnnyal rendelkezik.", "Az újjáépítés 1945-től 1966-ig tartott.", "A Badeni Tartományi Múzeum több mint 300.000 tárgyat őriz."],
       ro: ["Palatul a fost construit în 1715, iar orașul a fost fondat tot în 1715.", "Turnul palatului are 56 de metri înălțime.", "Grădina palatului se întinde pe 73 de hectare.", "Clădirea are 32 de axe de ferestre și 4 aripi.", "Reconstrucția a durat din 1945 până în 1966.", "Muzeul de Stat din Baden deține peste 300.000 de exponate."],
       en: ["The palace was built in 1715; the city was also founded in 1715.", "The palace tower is 56 meters high.", "The palace garden covers 73 hectares.", "The building has 32 window axes and 4 wings.", "Reconstruction lasted from 1945 to 1966.", "The Baden State Museum houses over 300,000 exhibits."],
-    },
-  },
+    }, image: "/poi-images/germany-karlsruhe-palace-history-v2.webp"},
   {
     id: "germany-bonn-beethoven-house-history-v2",
     type: "museum",
@@ -223,8 +217,7 @@ export const germanyHistoryV2: POI[] = [
       hu: ["A Beethoven-ház 1889-ben nyílt meg múzeumként.", "A gyűjtemény több mint 150 eredeti kéziratot tartalmaz.", "Beethovent 1770. december 17-én keresztelték, valószínűleg előző nap született.", "Az épület 1705-ből származik.", "A múzeumban 200 férőhelyes hangversenyterem található.", "Évente mintegy 100 000 látogató érkezik."],
       ro: ["Casa Beethoven a fost deschisă ca muzeu în 1889.", "Colecția cuprinde peste 150 de manuscrise originale.", "Beethoven a fost botezat pe 17 decembrie 1770, probabil născut cu o zi înainte.", "Clădirea datează din anul 1705.", "Muzeul are o sală de concerte cu 200 de locuri.", "Aproximativ 100.000 de vizitatori sunt înregistrați anual."],
       en: ["The Beethoven House opened as a museum in 1889.", "The collection holds over 150 original manuscripts.", "Beethoven was baptized on December 17, 1770, likely born the previous day.", "The building dates from 1705.", "The museum has a concert hall with 200 seats.", "Around 100,000 visitors come annually."],
-    },
-  },
+    }, image: "/poi-images/germany-bonn-beethoven-house-history-v2.webp"},
   {
     id: "germany-worms-cathedral-history-v2",
     type: "cathedral",
@@ -255,8 +248,7 @@ export const germanyHistoryV2: POI[] = [
       hu: ["A dóm hossza 110 méter, magassága 26 méter.", "Az alapkövet 1130 körül tették le, felszentelése 1181-ben volt.", "A dóm két kórussal és négy toronnyal rendelkezik.", "A kerengő a 13. században épült.", "A worms-i birodalmi gyűlés 1521-ben ülésezett a dómban.", "A dóm 1945-ös bombázásokat jelentős károkkal vészelte át."],
       ro: ["Catedrala are 110 metri lungime și 26 de metri înălțime.", "Piatra de temelie a fost pusă în jurul anului 1130, sfințirea în 1181.", "Catedrala are două coruri și patru turnuri.", "Claustrul datează din secolul al XIII-lea.", "Dieta de la Worms s-a desfășurat în catedrală în 1521.", "Catedrala a supraviețuit bombardamentelor din 1945 cu pagube semnificative."],
       en: ["The cathedral is 110 meters long and 26 meters high.", "The cornerstone was laid around 1130; consecration in 1181.", "The cathedral has two choirs and four towers.", "The cloister dates from the 13th century.", "The Diet of Worms was held in the cathedral in 1521.", "The cathedral survived the 1945 bombings with significant damage."],
-    },
-  },
+    }, image: "/poi-images/germany-worms-cathedral-history-v2.webp"},
   {
     id: "germany-berlin-berlin-wall-memorial-history-v2",
     type: "monument",
@@ -287,8 +279,7 @@ export const germanyHistoryV2: POI[] = [
       hu: ["Az emlékhelyet 1998-ban nyitották meg.", "A terület 1,4 km hosszú.", "140 ember halt meg a berlini falnál.", "A dokumentációs központ állandó kiállítással rendelkezik.", "A Kiengesztelődés Kápolnáját 2000-ben szentelték fel.", "Évente több mint egymillió látogató."],
       ro: ["Memorialul a fost deschis în 1998.", "Zona se întinde pe 1,4 kilometri.", "140 de persoane au murit la Zidul Berlinului.", "Centrul de documentare găzduiește o expoziție permanentă.", "Capela Reconcilierii a fost sfințită în 2000.", "Peste un milion de vizitatori anual."],
       en: ["The memorial opened in 1998.", "The site is 1.4 kilometers long.", "140 people died at the Berlin Wall.", "The documentation center features a permanent exhibition.", "The Chapel of Reconciliation was consecrated in 2000.", "Over one million visitors per year."],
-    },
-  },
+    }, image: "/poi-images/germany-berlin-berlin-wall-memorial-history-v2.webp"},
   {
     id: "germany-regensburg-stone-bridge-history-v2",
     type: "bridge",

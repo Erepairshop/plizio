@@ -31,8 +31,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["Évente több mint 3 millió konténert kezel", "A Földközi-tenger egyik legmélyebb kikötője", "1995-ben kezdte meg ipari működését", "5000 méternyi rakpart áll rendelkezésre", "Közvetlen vasúti összeköttetés észak felé", "Stratégiai elhelyezkedés a Szuezi-útvonalon"],
       ro: ["Capacitate de stocare de 75.000 de containere", "Adâncime maximă a canalului de 18 metri", "Peste 1300 de angajați direcți la terminal", "Lider național în volumul de transbordare", "Suprafață totală de peste 400 de hectare", "Conexiuni cu peste 120 de porturi globale"],
       en: ["Handled 3.4 million TEUs in 2022", "18-meter depth accommodates giant ships", "Operates with 22 massive ship-to-shore cranes", "5 km of total berthing space available", "Key logistics node for the Gioia Tauro area", "Focuses on 95% transshipment activities"],
-    },
-  },
+    }, image: "/poi-images/italy-porto-di-gioia-tauro-economic-v2.webp"},
   {
     id: "italy-mirafiori-factory-economic-v2",
     type: "factory",
@@ -63,8 +62,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["1939-ben avatták fel az üzemet", "A Fiat 600-as modell itt készült először", "200 hektáros kiterjedés Torino déli részén", "Az elektromos Fiat 500e jelenlegi otthona", "Saját tesztpályával rendelkezik a tetőn", "Több mint 10 ezer alkalmazott dolgozik itt"],
       ro: ["Peste 2 milioane mp suprafață industrială", "Fondat de familia Agnelli în perioada interbelică", "Capacitate de producție de mii de unități zilnic", "Hub pentru economia circulară a Stellantis", "Include un muzeu al moștenirii industriale", "Cea mai mare fabrică de mașini din Italia"],
       en: ["Total area exceeds 2 square kilometers", "Historical home of the original Fiat 500", "Currently produces luxury Maserati models", "Focusing on sustainable EV manufacturing", "Site of a major solar panel installation", "Symbol of Turin's 20th-century urban growth"],
-    },
-  },
+    }, image: "/poi-images/italy-mirafiori-factory-economic-v2.webp"},
   {
     id: "italy-porto-di-trieste-economic-v2",
     type: "port",
@@ -95,8 +93,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["1719-ben kapott szabadkikötői jogot", "Magyarország legfontosabb tengeri kijárata", "Évi 700 ezer TEU konténerforgalom", "Kiemelt szerep a kőolajszállításban", "70%-os vasúti elszállítási arány", "Ausztria és Németország fő logisztikai partnere"],
       ro: ["Regim de port liber internațional din 1719", "Peste 400 de trenuri pe săptămână", "Terminal de petrol legat de conducta Transalpină", "Adâncimea naturală permite nave de mari dimensiuni", "Poartă de intrare pentru cafeaua în Europa", "Volum anual de peste 60 milioane tone mărfuri"],
       en: ["Established as a free port by Charles VI", "Top Italian port for total tonnage handled", "Crucial node for the Transalpine Pipeline", "Excellent 18m natural depth in the bay", "Major rail connections to Munich and Vienna", "Historic center of the European coffee trade"],
-    },
-  },
+    }, image: "/poi-images/italy-porto-di-trieste-economic-v2.webp"},
   {
     id: "italy-distretto-della-meccanica-reggio-emilia-economic-v2",
     type: "industry",
@@ -127,8 +124,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["Több mint 3000 aktív vállalkozás", "A régió exportjának 40%-át adja", "Világelső a hidraulikus szivattyúk terén", "Híres mezőgazdasági gépgyártó központ", "Fejlett kutatás-fejlesztési központok", "Saját szakirányú szakképzési rendszer"],
       ro: ["Peste 50.000 de angajați în sector", "Lider european în sisteme de irigații", "Producție majoră de tractoare și utilaje", "Cifra de afaceri depășește 10 miliarde euro", "Prezența grupului Kohler (fost Lombardini)", "Specializare în turnarea metalelor ușoare"],
       en: ["Home to 3,000+ engineering firms", "Global leader in high-pressure pumps", "Significant focus on agricultural R&D", "Direct access to the A1 motorway corridor", "Highly skilled workforce in mechatronics", "Major production of tractor gearboxes"],
-    },
-  },
+    }, image: "/poi-images/italy-distretto-della-meccanica-reggio-emilia-economic-v2.webp"},
   {
     id: "italy-zona-industriale-di-padova-economic-v2",
     type: "industry",
@@ -159,8 +155,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["1100 hektárnyi összefüggő terület", "Több mint 1300 bejegyzett vállalat", "30 ezer embert foglalkoztató központ", "Közvetlen autópálya-kapcsolat az A4-en", "Fontos vámraktárak és logisztikai bázisok", "Az 1950-es években jött létre"],
       ro: ["Suprafață de 11 milioane metri pătrați", "Peste 30.000 de locuri de muncă directe", "Terminal intermodal feroviar-rutier", "Hub major pentru comerțul angro", "Situată la intersecția a două autostrăzi", "Include parcuri științifice și tehnologice"],
       en: ["Spans over 1,100 hectares of land", "Hosts more than 1,500 diverse companies", "Employs approximately 30,000 workers", "Large scale intermodal freight station", "Crucial for the Veneto regional GDP", "Infrastructure updated for fiber optics"],
-    },
-  },
+    }, image: "/poi-images/italy-zona-industriale-di-padova-economic-v2.webp"},
   {
     id: "italy-distretto-ceramica-sassuolo-economic-v2",
     type: "industry",
@@ -223,8 +218,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["Évi 50-60 millió tonna áruforgalom", "700 hektárnyi kikötői terület", "A Lanterna világítótorony 1543-as", "Havi 500 menetrend szerinti járat"],
       ro: ["Trafic de 50-60 milioane tone anual", "Suprafață portuară de 700 hectare", "Turnul Lanterna construit în 1543", "500 de nave sosesc lunar în port"],
       en: ["Annual cargo of 50-60 million tons", "700 hectares of total port area", "Lanterna lighthouse built in 1543", "500 scheduled ship calls per month"],
-    },
-  },
+    }, image: "/poi-images/italy-porto-di-genova-economic-v2.webp"},
   {
     id: "italy-porto-di-livorno-economic-v2",
     type: "port",
@@ -255,8 +249,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["Alapítási éve 1571", "4 kilométer hosszú mólórendszer", "Piacvezető az autórakodásban", "Fő kompösszeköttetés Korzikával"],
       ro: ["Fondat oficial în anul 1571", "Instalații portuare de 4 km lungime", "Lider în tranzitul de autoturisme", "Terminal major de feribot spre Corsica"],
       en: ["Founded officially in 1571", "4 km long port facilities", "Leader in automotive transshipment", "Major ferry hub for Corsica"],
-    },
-  },
+    }, image: "/poi-images/italy-porto-di-livorno-economic-v2.webp"},
   {
     id: "italy-zona-industriale-di-bari-economic-v2",
     type: "industry",
@@ -287,8 +280,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["Dél-Olaszország legnagyobb iparterülete", "Bosch és Bridgestone gyárak helyszíne", "Fejlett mechatronikai klaszter", "Közvetlen közelség a bari repülőtérhez", "Több száz kis- és középvállalkozás", "Kiemelt élelmiszeripari feldolgozók"],
       ro: ["Găzduiește fabrici mari (Bosch, Magneti Marelli)", "Peste 600 de firme active pe platformă", "Specializare în sisteme de frânare și motoare", "Conexiune rapidă cu portul și aeroportul", "Principalul motor economic din Apulia", "Centru de cercetare în energii verzi"],
       en: ["Largest industrial area in Southern Italy", "Major production site for Bosch and Bridgestone", "Strong focus on mechatronics and tires", "Home to 600+ industrial companies", "Strategically linked to Bari's sea port", "Leader in regional mechanical exports"],
-    },
-  },
+    }, image: "/poi-images/italy-zona-industriale-di-bari-economic-v2.webp"},
   {
     id: "italy-distretto-della-moda-milano-economic-v2",
     type: "industry",
@@ -319,8 +311,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["Milánó GDP-jének 15%-át adja", "Via Montenapoleone a főutca", "A milánói divathét központja", "Több mint 1000 luxusüzlet"],
       ro: ["Generează 15% din PIB-ul orașului", "Via Montenapoleone este axa centrală", "Centrul Milan Fashion Week", "Peste 1.000 de magazine de lux"],
       en: ["Generates 15% of Milan's GDP", "Via Montenapoleone is the core street", "Center of Milan Fashion Week", "Over 1,000 luxury retail outlets"],
-    },
-  },
+    }, image: "/poi-images/italy-distretto-della-moda-milano-economic-v2.webp"},
   {
     id: "italy-porto-di-ancona-economic-v2",
     type: "port",
@@ -351,8 +342,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["Évente több mint egymillió utas fordul meg itt", "Kiemelkedő szerep a görög kompjáratokban", "Jelentős luxusjacht-gyártó bázis", "Közép-Olaszország fő tengeri kapuja", "1,4 millió négyzetméteres kikötői terület", "Fontos gabona- és olajrakodó terminál"],
       ro: ["Peste 1 milion de pasageri anual", "Hub principal pentru feriboturi spre Grecia", "Șantier naval de renume mondial (Fincantieri)", "Include terminale de mărfuri și silozuri", "Port istoric cu facilități moderne", "Acces facil la rețeaua feroviară națională"],
       en: ["Handles over 1 million ferry passengers yearly", "Top hub for routes to Greece and Albania", "Home to major Fincantieri shipyards", "Covering a surface of 1.4 million sqm", "Crucial for Adriatic container logistics", "Famous for custom luxury yacht building"],
-    },
-  },
+    }, image: "/poi-images/italy-porto-di-ancona-economic-v2.webp"},
   {
     id: "italy-zona-industriale-di-torino-economic-v2",
     type: "industry",
@@ -383,8 +373,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["Mirafiori gyár 1939 óta üzemel", "A Fiat alapítási éve 1899", "Az űrhajózási ipar központja", "2 millió négyzetméternyi üzemterület"],
       ro: ["Uzina Mirafiori deschisă în 1939", "Fondarea Fiat în anul 1899", "Centru major pentru industria aero", "2 milioane mp de platformă industrială"],
       en: ["Mirafiori plant active since 1939", "Fiat founded in 1899", "Major aerospace industry hub", "2 million sqm of industrial area"],
-    },
-  },
+    }, image: "/poi-images/italy-zona-industriale-di-torino-economic-v2.webp"},
   {
     id: "italy-polo-tecnologico-di-pisa-economic-v2",
     type: "industry",
@@ -447,8 +436,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["6 kilométernyi rakparti szakasz", "Saját konténerterminál (CICT)", "Évi több százezer utast fogad", "Fontos kőolajfinomító központ közelében", "Közvetlen kapcsolat az SS131-es úttal", "A tengeri autópályák egyik csomópontja"],
       ro: ["Adâncime maximă a apei de 16 metri", "Terminal dedicat pentru containere", "Port strategic pentru rutele Gibraltar-Suez", "Peste 30 de dane operaționale", "Infrastructură pentru nave de croazieră mari", "Centru logistic pentru exporturi sarde"],
       en: ["Boasts 6 km of operational berthing space", "Strategic mid-Mediterranean location", "Includes a dedicated cruise ship terminal", "Handles large volumes of refined oil", "Features a deep-water canal (16m)", "Crucial link for Sardinian industry"],
-    },
-  },
+    }, image: "/poi-images/italy-porto-di-cagliari-economic-v2.webp"},
   {
     id: "italy-distretto-del-mobile-brianza-economic-v2",
     type: "industry",
@@ -511,8 +499,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["12 km hosszú kikötőcsatorna", "Emilia-Romagna legnagyobb kikötője", "Az offshore energiaipar központja", "Évi 26 millió tonnás forgalom"],
       ro: ["Canal portuar lung de 12 km", "Cel mai mare port din Emilia-Romagna", "Centru pentru energie offshore", "Trafic anual de 26 milioane tone"],
       en: ["12 km long port canal", "Largest port in Emilia-Romagna", "Center for offshore energy sector", "26 million tons handled annually"],
-    },
-  },
+    }, image: "/poi-images/italy-porto-di-ravenna-economic-v2.webp"},
   {
     id: "italy-distretto-delle-calzature-marche-economic-v2",
     type: "industry",
@@ -543,8 +530,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["Több mint 3000 aktív üzem", "30 000 alkalmazott az ágazatban", "80%-os exportarány", "Központja Fermo és Macerata"],
       ro: ["Peste 3.000 de firme active", "30.000 de angajați în sector", "Rată de export de peste 80%", "Principalele centre: Fermo și Macerata"],
       en: ["Over 3,000 active companies", "30,000 employees in the sector", "80% export rate for products", "Centered in Fermo and Macerata"],
-    },
-  },
+    }, image: "/poi-images/italy-distretto-delle-calzature-marche-economic-v2.webp"},
   {
     id: "italy-zona-industriale-di-vicenza-economic-v2",
     type: "industry",
@@ -575,8 +561,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["Vicenzaoro szakvásár 1954 óta", "Az olasz arany 1/3-át itt dolgozzák fel", "Rendkívül sok kis- és középvállalat", "Erős gépipari export"],
       ro: ["Târgul Vicenzaoro fondat în 1954", "Prelucrează 1/3 din aurul Italiei", "Densitate mare de IMM-uri", "Export masiv de utilaje industriale"],
       en: ["Vicenzaoro fair active since 1954", "Processes 1/3 of Italy's gold", "High density of SME companies", "Strong industrial machinery exports"],
-    },
-  },
+    }, image: "/poi-images/italy-zona-industriale-di-vicenza-economic-v2.webp"},
   {
     id: "italy-distretto-dell-occhiale-cadore-economic-v2",
     type: "industry",
@@ -607,8 +592,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["Az olasz szemüveggyártás 80%-a", "A Luxottica alapítása itt: 1961", "90%-os világpiaci export", "Több mint 800 szakosodott cég"],
       ro: ["80% din producția de ochelari a Italiei", "Luxottica fondată aici în 1961", "90% din produse merg la export", "Peste 800 de firme specializate"],
       en: ["80% of Italian eyewear production", "Luxottica founded here in 1961", "90% export rate to global markets", "Over 800 specialized companies"],
-    },
-  },
+    }, image: "/poi-images/italy-distretto-dell-occhiale-cadore-economic-v2.webp"},
   {
     id: "italy-distretto-della-meccanica-bologna-economic-v2",
     type: "industry",
@@ -639,8 +623,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["Ferrari, Ducati, Lamborghini központja", "Világelső a csomagológépekben", "Több mint 100 000 alkalmazott", "Évi 10 milliárd euró feletti export"],
       ro: ["Sediul Ferrari, Ducati, Lamborghini", "Lider mondial în utilaje de ambalat", "Peste 100.000 de angajați", "Export de peste 10 miliarde euro"],
       en: ["Home to Ferrari, Ducati, Lamborghini", "Global leader in packaging machines", "Over 100,000 sector employees", "Exports exceeding 10 billion Euros"],
-    },
-  },
+    }, image: "/poi-images/italy-distretto-della-meccanica-bologna-economic-v2.webp"},
   {
     id: "italy-porto-di-napoli-economic-v2",
     type: "port",
@@ -671,8 +654,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["Évi 6 millió feletti utasforgalom", "A világ egyik legnagyobb utaskikötője", "300 ezer TEU konténerkapacitás", "Fontos haditengerészeti bázis is egyben", "Közvetlen kapcsolat a vasúti hálózattal", "A Capri és Ischia felé tartó hajók bázisa"],
       ro: ["Peste 6 milioane de pasageri pe an", "Al doilea port din lume după fluxul turistic", "Terminal de containere de 200.000 mp", "Infrastructură extinsă de reparații navale", "Punct nodal pentru autostrăzile mării", "Conectat direct la autostrada A1"],
       en: ["Handles over 6 million passengers annually", "One of the world's top ports for cruise traffic", "Spans 20 km of coastline in total", "Major center for ship maintenance and repair", "Key logistics base for Southern Italy", "Operational since the Greek colonial period"],
-    },
-  },
+    }, image: "/poi-images/italy-porto-di-napoli-economic-v2.webp"},
   {
     id: "italy-distretto-agroalimentare-parma-economic-v2",
     type: "industry",
@@ -703,8 +685,7 @@ export const italyEconomicV2: POI[] = [
       hu: ["EFSA székhelye 2002 óta", "A Barilla globális központja", "Sajtkonzorcium alapítása 1934", "Pármai sonka eredetvédettsége 1963"],
       ro: ["Sediul EFSA din anul 2002", "Sediul central al grupului Barilla", "Consorțiul Parmigiano creat în 1934", "Prosciutto di Parma DOP din 1963"],
       en: ["EFSA headquarters since 2002", "Global headquarters of Barilla", "Parmigiano Consortium since 1934", "Prosciutto di Parma PDO since 1963"],
-    },
-  },
+    }, image: "/poi-images/italy-distretto-agroalimentare-parma-economic-v2.webp"},
   {
     id: "italy-polo-chimico-di-ferrara-economic-v2",
     type: "industry",

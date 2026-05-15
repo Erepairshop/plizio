@@ -31,8 +31,7 @@ export const denmarkNatureV2: POI[] = [
       hu: ["76 négyzetkilométeres terület", "Északnyugat-Európa legnagyobb lápja", "2016-ban jávorszarvasok érkeztek", "Tőzegkitermelés 2006-ban állt le", "Európai bölények is élnek itt", "Jelentős szirti sas populáció"],
       ro: ["Suprafață de 76 de kilometri pătrați", "Cea mai mare turbărie din zonă", "5 elani introduși în 2016", "Extragerea turbei oprită în 2006", "Zonă protejată din 2007", "Habitat pentru vulturul de munte"],
       en: ["Covers approximately 76 square kilometers", "Largest raised bog in NW Europe", "Moose introduced in 2016", "Peat extraction ceased in 2006", "European bison introduced recently", "Protected natural area since 2007"],
-    },
-  },
+    }, image: "/poi-images/denmark-vildmose-nature-v2.webp"},
   {
     id: "denmark-skjern-aa-nature-v2",
     type: "river",
@@ -63,8 +62,7 @@ export const denmarkNatureV2: POI[] = [
       hu: ["94 kilométeres teljes hossz", "2100 km²-es vízgyűjtő terület", "Rehabilitáció 1996 és 2002 között", "Fontos lazacívóhely Dániában"],
       ro: ["Lungime totală de 94 km", "Bazin hidrografic de 2100 km²", "Renaturare între 1996 și 2002", "Loc major de depunere a icrelor"],
       en: ["Total length of 94 kilometers", "Catchment area of 2100 km²", "Restoration from 1996 to 2002", "Major Atlantic salmon habitat"],
-    },
-  },
+    }, image: "/poi-images/denmark-skjern-aa-nature-v2.webp"},
   {
     id: "denmark-tystrup-lake-nature-v2",
     type: "lake",
@@ -95,8 +93,7 @@ export const denmarkNatureV2: POI[] = [
       hu: ["Kb. 6,6 km²-es vízfelület", "19 méteres maximális mélység", "A Suså-folyórendszer része", "Védett madárrezervátum"],
       ro: ["Suprafață de circa 6,6 km²", "Adâncime maximă de 19 metri", "Parte a sistemului râului Suså", "Zonă protejată pentru păsări"],
       en: ["Surface area of 6.6 km²", "Maximum depth of 19 meters", "Part of the Suså river system", "Significant bird sanctuary"],
-    },
-  },
+    }, image: "/poi-images/denmark-tystrup-lake-nature-v2.webp"},
   {
     id: "denmark-falster-coastline-nature-v2",
     type: "landmark",
@@ -127,8 +124,7 @@ export const denmarkNatureV2: POI[] = [
       hu: ["Hossz: 80 km", "Strandok: 15 fő strand", "Madárfajok: 250", "Természetvédelmi területek: 5", "Átlagos strandszélesség: 30 méter", "Legmagasabb szikla: 20 méter"],
       ro: ["Lungime: 80 km", "Plaje: 15 plaje principale", "Specii de păsări: 250", "Rezervații naturale: 5", "Lățimea medie a plajei: 30 m", "Cea mai înaltă stâncă: 20 m"],
       en: ["Length: 80 km", "Main beaches: 15", "Bird species: 250", "Nature reserves: 5", "Average beach width: 30 m", "Highest cliff: 20 m"],
-    },
-  },
+    }, image: "/poi-images/denmark-falster-coastline-nature-v2.webp"},
   {
     id: "denmark-nors-so-nature-v2",
     type: "lake",
@@ -159,8 +155,7 @@ export const denmarkNatureV2: POI[] = [
       hu: ["3,47 km²-es vízfelület", "Ritka karszttó típus", "Luronium natans élőhelye", "A Thy Nemzeti Park része"],
       ro: ["Suprafață de 3,47 km²", "Tip rar de lac carstic", "Habitat pentru Luronium natans", "Parte a Parcului Național Thy"],
       en: ["Surface area of 3.47 km²", "Rare karst lake type", "Habitat for Luronium natans", "Part of Thy National Park"],
-    },
-  },
+    }, image: "/poi-images/denmark-nors-so-nature-v2.webp"},
   {
     id: "denmark-raabjerg-mile-nature-v2",
     type: "landmark",
@@ -191,8 +186,7 @@ export const denmarkNatureV2: POI[] = [
       hu: ["Vándorlási sebesség: 15 m/év", "Terület: 1 km²", "Magasság: 40 méter", "Kialakulás: 16. század", "Nemzeti Park: Thy, 2008", "Látogatók évente: 200.000"],
       ro: ["Viteza de migrare: 15 m/an", "Suprafață: 1 km²", "Înălțime: 40 m", "Formare: secolul al XVI-lea", "Parcul Național: Thy, fondat 2008", "Vizitatori pe an: 200.000"],
       en: ["Migration speed: 15 m/year", "Area: 1 km²", "Height: 40 m", "Formation period: 16th century", "National Park: Thy, established 2008", "Annual visitors: 200,000"],
-    },
-  },
+    }, image: "/poi-images/denmark-raabjerg-mile-nature-v2.webp"},
   {
     id: "denmark-gudenaa-delta-nature-v2",
     type: "river",
@@ -223,8 +217,7 @@ export const denmarkNatureV2: POI[] = [
       hu: ["A Randers-fjordba torkollik", "A Gudenå hossza 149 kilométer", "Fontos madárvonulási útvonal", "A vízszintet az árapály is befolyásolja", "Közép-Jylland legfőbb vízgyűjtője", "Gazdag lazac- és pisztrángállomány"],
       ro: ["Se varsă în Randers Fjord", "Râul Gudenå măsoară 149 km", "Zonă de tranzit pentru păsări migratoare", "Bazin hidrografic major în Iutlanda", "Amestec de apă dulce și sărată", "Habitat pentru somon și păstrăv"],
       en: ["Flows into the Randers Fjord", "Gudenå river is 149 km long", "Key site for migratory waterfowl", "Largest river system in Denmark", "Estuary environment with brackish water", "Supports rich salmon populations"],
-    },
-  },
+    }, image: "/poi-images/denmark-gudenaa-delta-nature-v2.webp"},
   {
     id: "denmark-hjelm-hage-nature-v2",
     type: "landmark",
@@ -255,8 +248,7 @@ export const denmarkNatureV2: POI[] = [
       hu: ["Terület: 1.000 hektár", "Madárfajok: 300", "Védettség: természetvédelmi terület", "Földnyelv hossza: 3 km", "Legmagasabb pont: 5 méter", "Látogatók évente: 50.000"],
       ro: ["Suprafață: 1.000 ha", "Specii de păsări: 300", "Statut de protecție: rezervație naturală", "Lungimea promontoriului: 3 km", "Altitudine maximă: 5 m", "Vizitatori pe an: 50.000"],
       en: ["Area: 1,000 ha", "Bird species: 300", "Protection status: nature reserve", "Headland length: 3 km", "Highest point: 5 m", "Annual visitors: 50,000"],
-    },
-  },
+    }, image: "/poi-images/denmark-hjelm-hage-nature-v2.webp"},
   {
     id: "denmark-skanderborg-lake-nature-v2",
     type: "lake",
@@ -319,8 +311,7 @@ export const denmarkNatureV2: POI[] = [
       hu: ["56 négyzetkilométeres kiterjedés", "UNESCO világörökség 2015 óta", "17. századi csillag alakú úthálózat", "Az Esrum-tó nyugati partján fekszik", "A dán királyok egykori vadászterülete", "Legmagasabb pontja a Multebjerg"],
       ro: ["Suprafață de 56 kilometri pătrați", "Patrimoniu UNESCO din 2015", "Sistem rutier de vânătoare în stea", "Situat lângă lacul Esrum", "Pădure regală în secolul al XVII-lea", "Cel mai înalt punct este Multebjerg"],
       en: ["Covers 56 square kilometers", "UNESCO World Heritage site since 2015", "Features 17th-century hunting paths", "Borders the western edge of Lake Esrum", "Historically a royal hunting ground", "Multebjerg is the highest point"],
-    },
-  },
+    }, image: "/poi-images/denmark-gribskov-nature-v2.webp"},
   {
     id: "denmark-randers-fjord-nature-v2",
     type: "landmark",
@@ -351,8 +342,7 @@ export const denmarkNatureV2: POI[] = [
       hu: ["Hosszúság: 30 km", "Szélesség: 1-3 km", "Átlagos mélység: 3-5 m", "Árapály-tartomány: kb. 0,5 m", "Vízgyűjtő terület: kb. 2.600 km²", "Randers város népessége: kb. 62.000 (2021)"],
       ro: ["Lungime: 30 km", "Lățime: 1-3 km", "Adâncime medie: 3-5 m", "Amplitudinea mareelor: aproximativ 0,5 m", "Bazin hidrografic: aproximativ 2.600 km²", "Orașul Randers: aproximativ 62.000 locuitori (2021)"],
       en: ["Length: 30 km", "Width: 1-3 km", "Average depth: 3-5 m", "Tidal range: approx. 0.5 m", "Catchment area: approx. 2,600 km²", "City of Randers: approx. 62,000 inhabitants (2021)"],
-    },
-  },
+    }, image: "/poi-images/denmark-randers-fjord-nature-v2.webp"},
   {
     id: "denmark-almindingen-forest-nature-v2",
     type: "forest",
@@ -383,8 +373,7 @@ export const denmarkNatureV2: POI[] = [
       hu: ["3800 hektáros kiterjedés", "Csúcspont: Rytterknægten (162m)", "Európai bölény projekt 2012 óta", "Dánia harmadik legnagyobb erdeje"],
       ro: ["Suprafață de 3800 hectare", "Punct maxim: Rytterknægten (162m)", "Proiect bizon european din 2012", "Al treilea cel mai mare parc forestier"],
       en: ["Covers 3800 hectares", "Highest point: Rytterknægten (162m)", "European bison project since 2012", "Denmark's third largest forest"],
-    },
-  },
+    }, image: "/poi-images/denmark-almindingen-forest-nature-v2.webp"},
   {
     id: "denmark-mariager-fjord-nature-v2",
     type: "landmark",
@@ -415,8 +404,7 @@ export const denmarkNatureV2: POI[] = [
       hu: ["Hosszúság: 40 km", "Maximális mélység: 30 m", "Legmagasabb partmagasság: 70 m", "Terület: kb. 50 km²", "Keletkezés: kb. 12.000 évvel ezelőtt", "Mariageri kolostor: alapítva 1430-ban"],
       ro: ["Lungime: 40 km", "Adâncime maximă: 30 m", "Înălțimea maximă a malurilor: 70 m", "Suprafață: aproximativ 50 km²", "Formare: acum aproximativ 12.000 de ani", "Mănăstirea Mariager: fondată în 1430"],
       en: ["Length: 40 km", "Maximum depth: 30 m", "Highest bank height: 70 m", "Area: approx. 50 km²", "Formation: about 12,000 years ago", "Mariager Monastery: founded in 1430"],
-    },
-  },
+    }, image: "/poi-images/denmark-mariager-fjord-nature-v2.webp"},
   {
     id: "denmark-skanderborg-himmelbjerget-nature-v2",
     type: "peak",
@@ -447,8 +435,7 @@ export const denmarkNatureV2: POI[] = [
       hu: ["Magasság: 147 m tszf.", "Toronymagasság: 25 m", "Épült: 1875", "Éves látogatók száma: kb. 500.000", "Közeli tavak: Julsø (1,5 km²) és Borre Sø", "Skjern Å Nemzeti Park: alapítva 2018-ban"],
       ro: ["Înălțime: 147 m deasupra nivelului mării", "Înălțimea turnului: 25 m", "Construit: 1875", "Vizitatori anual: aproximativ 500.000", "Lacuri în apropiere: Julsø (1,5 km²) și Borre Sø", "Parcul Național Skjern Å: fondat în 2018"],
       en: ["Height: 147 m above sea level", "Tower height: 25 m", "Built: 1875", "Annual visitors: approx. 500,000", "Nearby lakes: Julsø (1.5 km²) and Borre Sø", "Skjern Å National Park: established 2018"],
-    },
-  },
+    }, image: "/poi-images/denmark-skanderborg-himmelbjerget-nature-v2.webp"},
   {
     id: "denmark-limfjord-islands-nature-v2",
     type: "island",

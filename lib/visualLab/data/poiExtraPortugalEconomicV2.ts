@@ -31,8 +31,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["Az OGMA üzemet 1918-ban alapították", "Az Embraer csoport stratégiai partnere", "F-16-os vadászgépek teljes szervizelése", "Több mint 1700 magasan képzett mérnök", "Kiemelt szerep a NATO logisztikájában", "Saját repülőtér Alverca do Ribatejo-ban"],
       ro: ["Compania OGMA a fost fondată în 1918", "Parteneriat strategic cu grupul Embraer", "Centru autorizat pentru motoare Rolls-Royce", "Mentenanță pentru avioane F-16 și C-130", "Peste 1700 de angajați în cluster", "Situat la 15 km nord de Lisabona"],
       en: ["OGMA was established here in 1918", "Major maintenance hub for C-130 aircraft", "Part of the Embraer Group since 2005", "Employs over 1,700 aerospace specialists", "Authorized Rolls-Royce maintenance center", "Features a private 3,000-meter runway"],
-    },
-  },
+    }, image: "/poi-images/portugal-alverca-aerospace-economic-v2.webp"},
   {
     id: "portugal-lousa-paper-mill-economic-v2",
     type: "factory",
@@ -63,8 +62,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["A papírgyártás 1716-ban kezdődött itt", "A Prado-csoport központi üzeme", "Élelmiszeripari kartonok gyártása", "A termelés 70%-át exportálják", "A Ceira-folyó vizét hasznosítják", "Környezetbarát gyártási technológiák"],
       ro: ["Producția de hârtie a început în 1716", "Specializare în ambalaje biodegradabile", "Utilizează masa lemnoasă din regiune", "Peste 70% din producție merge la export", "Situată pe malul râului Ceira", "Tehnologii moderne de reciclare a apei"],
       en: ["Paper production started here in 1716", "Focus on high-quality packaging board", "Uses local eucalyptus and pine pulp", "Exports more than 70% of total output", "Located near the Ceira River banks", "Pioneer in sustainable paper coating"],
-    },
-  },
+    }, image: "/poi-images/portugal-lousa-paper-mill-economic-v2.webp"},
   {
     id: "portugal-marinha-grande-glass-economic-v2",
     type: "industry",
@@ -95,8 +93,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["A marinha grande-i üvegipar a 18. században kezdődött.", "Marinha Grande lakossága körülbelül 30.000 fő (2021).", "A városban több mint 100 üveggyár található.", "Az Üvegmúzeum 1996-ban nyílt meg.", "Az éves üvegtermelés meghaladja az 50.000 tonnát.", "Marinha Grande körülbelül 15 km-re fekszik Leiriától."],
       ro: ["Industria sticlei din Marinha Grande a început în secolul al XVIII-lea.", "Marinha Grande are circa 30.000 de locuitori (2021).", "Orașul găzduiește peste 100 de fabrici de sticlă.", "Muzeul Sticlei a fost deschis în 1996.", "Producția anuală de sticlă depășește 50.000 de tone.", "Marinha Grande se află la aproximativ 15 km de Leiria."],
       en: ["The glass industry in Marinha Grande began in the 18th century.", "Marinha Grande has about 30,000 inhabitants (2021).", "The town hosts over 100 glass factories.", "The Glass Museum opened in 1996.", "Annual glass production exceeds 50,000 tons.", "Marinha Grande is about 15 km from Leiria."],
-    },
-  },
+    }, image: "/poi-images/portugal-marinha-grande-glass-economic-v2.webp"},
   {
     id: "portugal-vendas-novas-food-economic-v2",
     type: "industry",
@@ -159,8 +156,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["A hajóépítés Murtosában a 19. században kezdődött.", "Murtosa lakossága körülbelül 10.000 fő (2021).", "A hajógyárak évente körülbelül 20 Moliceiro hajót építenek.", "Az Aveiroi Ria 45 km hosszan terül el.", "Murtosa az Aveiroi lagúna partján fekszik.", "A község területe 73,1 km²."],
       ro: ["Construcțiile navale din Murtosa au început în secolul al XIX-lea.", "Murtosa are circa 10.000 de locuitori (2021).", "Șantierele navale produc anual aproximativ 20 de bărci Moliceiro.", "Ria de Aveiro se întinde pe 45 km lungime.", "Murtosa este situată pe malul lagunei Aveiro.", "Municipiul are o suprafață de 73,1 km²."],
       en: ["Shipbuilding in Murtosa began in the 19th century.", "Murtosa has about 10,000 inhabitants (2021).", "The shipyards produce about 20 Moliceiro boats annually.", "Ria de Aveiro stretches over 45 km in length.", "Murtosa lies on the Aveiro lagoon.", "The municipality covers an area of 73.1 km²."],
-    },
-  },
+    }, image: "/poi-images/portugal-murtosa-shipbuilding-economic-v2.webp"},
   {
     id: "portugal-oliveira-de-azemeis-metallurgy-economic-v2",
     type: "industry",
@@ -191,8 +187,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["Több mint 200 szerszámkészítő cég", "Az északi fémipari klaszter központja", "VW és BMW beszállítói hálózat része", "90%-os exportarány a precíziós szektorban", "A CEFAMOL technológiai központ székhelye", "Kiemelkedő CNC és 3D tervezési tudás"],
       ro: ["Peste 200 de companii de profil", "Lider național în fabricarea matrițelor", "Furnizor pentru marii constructori auto", "Rată de export de aproximativ 90%", "Găzduiește centrul tehnologic CEFAMOL", "Forță de muncă înalt calificată în CNC"],
       en: ["Home to over 200 mould-making firms", "Key supplier for the European car industry", "Nearly 90% of production is exported", "Features the CEFAMOL technology center", "High density of advanced CNC machinery", "Specialized in complex plastic injection tools"],
-    },
-  },
+    }, image: "/poi-images/portugal-oliveira-de-azemeis-metallurgy-economic-v2.webp"},
   {
     id: "portugal-almeirim-logistics-economic-v2",
     type: "industry",
@@ -255,8 +250,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["A Guarda Technológiai Parkot 1998-ban alapították.", "Guarda körülbelül 1.050 méter magasan fekszik.", "A park több mint 50 vállalatnak ad otthont.", "Az A25-ös autópálya Guardát Aveiróval és Vilar Formosóval köti össze.", "Guarda lakossága körülbelül 42.000 fő (2021).", "A park 35 hektáron terül el."],
       ro: ["Parcul Tehnologic Guarda a fost înființat în 1998.", "Guarda este situată la o altitudine de aproximativ 1.050 de metri.", "Parcul găzduiește peste 50 de companii.", "Autostrada A25 leagă Guarda de Aveiro și Vilar Formoso.", "Guarda are circa 42.000 de locuitori (2021).", "Parcul se întinde pe o suprafață de 35 de hectare."],
       en: ["The Guarda Technology Park was founded in 1998.", "Guarda lies at an elevation of about 1,050 meters.", "The park hosts over 50 companies.", "The A25 motorway connects Guarda to Aveiro and Vilar Formoso.", "Guarda has about 42,000 inhabitants (2021).", "The park covers an area of 35 hectares."],
-    },
-  },
+    }, image: "/poi-images/portugal-guarda-technology-economic-v2.webp"},
   {
     id: "portugal-valenca-trade-economic-v2",
     type: "industry",
@@ -287,8 +281,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["Portugália legforgalmasabb északi határa", "Évente 5 milliónál több látogató", "A textilkereskedelem regionális központja", "Erős spanyol vásárlóerő vonzása", "Középkori alapokon nyugvó kereskedelem", "Közvetlen kapcsolat az A3-as autópályával"],
       ro: ["Principalul punct de trecere spre Spania", "Peste 5 milioane de turiști anual", "Hub pentru comerțul cu textile și piele", "Economie bazată pe fluxul dinspre Galicia", "Istoric comercial de peste 8 secole", "Legătură rutieră strategică pe ruta A3"],
       en: ["Major border crossing point to Spain", "Attracts over 5 million visitors annually", "Famous for textile and home linen retail", "Daily influx of shoppers from Galicia", "Commercial hub since the Middle Ages", "Connected via the International Bridge"],
-    },
-  },
+    }, image: "/poi-images/portugal-valenca-trade-economic-v2.webp"},
   {
     id: "portugal-viana-do-alentejo-agriculture-economic-v2",
     type: "industry",
@@ -319,8 +312,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["Az Alqueva-gát kapacitása 4.150 hm³.", "Viana do Alentejo körülbelül 150 méter magasan fekszik.", "Lakossága 2021-ben körülbelül 5600 fő volt.", "A község területe 393,7 km².", "Az olajbogyó-termesztés a régióban körülbelül 12.000 hektárt fed le.", "Viana do Alentejo az Évora kerület része."],
       ro: ["Barajul Alqueva are o capacitate de 4.150 hm³.", "Viana do Alentejo este situat la o altitudine de aproximativ 150 de metri.", "Populația era de circa 5.600 de locuitori în 2021.", "Municipiul are o suprafață de 393,7 km².", "Cultivarea măslinelor acoperă aproximativ 12.000 de hectare în regiune.", "Viana do Alentejo face parte din districtul Évora."],
       en: ["The Alqueva Dam has a capacity of 4,150 hm³.", "Viana do Alentejo lies at an elevation of about 150 meters.", "The population is around 5,600 (2021).", "The municipality covers an area of 393.7 km².", "Olive cultivation covers about 12,000 hectares in the region.", "Viana do Alentejo is part of the Évora district."],
-    },
-  },
+    }, image: "/poi-images/portugal-viana-do-alentejo-agriculture-economic-v2.webp"},
   {
     id: "portugal-esposende-fishery-economic-v2",
     type: "port",
@@ -383,8 +375,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["A kifutópálya hossza 3420 méter", "Repülőgépek szétbontása és újrahasznosítása", "A Hi Fly légitársaság bázisa", "Ideális helyszín berepülésekhez", "500 hektárnál nagyobb üzemi terület", "Dél-Portugália logisztikai reménysége"],
       ro: ["Pistă cu lungimea de 3420 de metri", "Centru pentru reciclarea aeronavelor", "Bază operațională pentru Hi Fly", "Condiții meteo optime tot anul", "Zonă industrială de 500 de hectare", "Hub logistic pentru transport cargo"],
       en: ["Features a 3,420-meter long runway", "Hub for aircraft dismantling and recycling", "Main base for Hi Fly maintenance", "Ideal for flight testing and training", "Occupies over 500 hectares of land", "Strategic cargo logistics center"],
-    },
-  },
+    }, image: "/poi-images/portugal-beja-aero-economic-v2.webp"},
   {
     id: "portugal-santar-wine-economic-v2",
     type: "industry",
@@ -415,8 +406,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["A Santar borászat 1745-ben alapult.", "Santar körülbelül 400 méter magasan fekszik.", "A szőlőültetvények 100 hektáron terülnek el.", "Santar lakossága körülbelül 8000 fő (2021).", "A Dão régióban körülbelül 20.000 hektár szőlő található.", "Santar a Guarda kerület része."],
       ro: ["Crama Santar a fost fondată în 1745.", "Santar este situat la o altitudine de aproximativ 400 de metri.", "Podgoriile se întind pe 100 de hectare.", "Populația Santarului este de circa 8.000 (2021).", "Regiunea Dão are aproximativ 20.000 de hectare de podgorii.", "Santar face parte din districtul Guarda."],
       en: ["The Santar winery was founded in 1745.", "Santar lies at an elevation of about 400 meters.", "The vineyards cover 100 hectares.", "Santar's population is about 8,000 (2021).", "The Dão region has about 20,000 hectares of vineyards.", "Santar is part of the Guarda district."],
-    },
-  },
+    }, image: "/poi-images/portugal-santar-wine-economic-v2.webp"},
   {
     id: "portugal-seia-textile-economic-v2",
     type: "factory",
@@ -447,8 +437,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["Több évszázados gyapjúfeldolgozási múlt", "A vízálló 'Burel' szövet hazája", "Modern dizájn és hagyomány ötvözése", "Helyi juhgyapjú felhasználása", "Számos textilipari manufaktúra székhelye", "Kiemelt szerep a hegyvidéki gazdaságban"],
       ro: ["Tradiție seculară în prelucrarea lânii", "Producția țesăturii impermeabile Burel", "Colaborări cu designeri internaționali", "Utilizarea lânii de la oile locale", "Hub industrial în regiunea montană", "Centru de inovație în fibre naturale"],
       en: ["Centuries-old wool processing tradition", "Main production site for Burel fabric", "Supplies major luxury fashion houses", "Uses wool from local Estrela sheep", "Key economic driver for the mountain region", "Combines artisanal methods with new tech"],
-    },
-  },
+    }, image: "/poi-images/portugal-seia-textile-economic-v2.webp"},
   {
     id: "portugal-gouveia-mining-economic-v2",
     type: "mine",
@@ -511,8 +500,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["A Ria Blades (Senvion) központi gyára", "Több mint 1000 munkahely a szektorban", "Szállítás az aveirói kikötőn keresztül", "Speciális kompozit szélkeréklapátok", "A zöld gazdaság egyik pillére", "Kiemelt ipari övezet az óceánpart közelében"],
       ro: ["Găzduiește fabrica Ria Blades", "Peste 1000 de angajați în domeniu", "Export masiv prin portul Aveiro", "Pale de turbine de mari dimensiuni", "Lider regional în tehnologii verzi", "Investiții majore în energie curată"],
       en: ["Home to the Ria Blades manufacturing plant", "Employs over 1,000 green energy workers", "Blades are exported via Aveiro's port", "Specializes in advanced composite materials", "Key player in Europe's wind energy chain", "Modern industrial zone for eco-technology"],
-    },
-  },
+    }, image: "/poi-images/portugal-vagos-renewables-economic-v2.webp"},
   {
     id: "portugal-paredes-furniture-economic-v2",
     type: "industry",
@@ -543,8 +531,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["A nemzeti bútorexport 30%-át adja", "Több mint 1200 faipari vállalkozás", "A 'Rota do Móvel' mozgalom szülőhelye", "Kiemelkedő tömörfa-megmunkálás", "Saját szakmai képzési központok", "Fő exportpiacok: Franciaország, Spanyolország"],
       ro: ["Generează 30% din exportul de mobilă", "Peste 1200 de unități de producție", "Nucleul conceptului 'Rota do Móvel'", "Expertiză în prelucrarea lemnului masiv", "Forță de muncă cu tradiție familială", "Exporturi majore către UE și America"],
       en: ["Accounts for 30% of national furniture exports", "Home to over 1,200 specialized companies", "Capital of the 'Rota do Móvel' industry brand", "Focus on high-quality solid wood products", "High concentration of master woodworkers", "Major supplier for luxury hospitality projects"],
-    },
-  },
+    }, image: "/poi-images/portugal-paredes-furniture-economic-v2.webp"},
   {
     id: "portugal-agueda-cycling-industry-economic-v2",
     type: "industry",
@@ -575,8 +562,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["Európa legnagyobb kerékpár-előállítója", "Évente több mint 2 millió gyártott egység", "A 'Portugal Bike Value' klaszter központja", "Az e-bike gyártás egyik kontinentális pillére", "Híres alkatrészgyártók (Rodi, Miranda) otthona", "Erős kutatás-fejlesztési tevékenység"],
       ro: ["Cel mai mare producător de biciclete din UE", "Peste 2 milioane de biciclete anual", "Nucleul clusterului 'Portugal Bike Value'", "Lider în fabricarea de biciclete electrice", "Concentrare mare de furnizori de componente", "Tehnologii avansate de turnare a aluminiului"],
       en: ["Largest bicycle producer in the European Union", "Annual output exceeds 2 million units", "Heart of the 'Portugal Bike Value' initiative", "Major global supplier of e-bike components", "Home to factories like Rodi and Miranda", "High degree of vertical industry integration"],
-    },
-  },
+    }, image: "/poi-images/portugal-agueda-cycling-industry-economic-v2.webp"},
   {
     id: "portugal-mirandela-olive-oil-economic-v2",
     type: "industry",
@@ -607,8 +593,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["A 'Trás-os-Montes' DOP olívaolaj hazája", "Több mint 17 000 hektár olajfaliget", "Hagyományos és modern hidegsajtolás", "Jelentős bio-tanúsított termelés", "Több mint 20 országba exportálják", "Híres az Alheira (füstölt kolbász) gyártásáról is"],
       ro: ["Capitala uleiului de măsline DOP", "Peste 17.000 de hectare de livezi", "Metode de presare la rece de înaltă calitate", "Producție importantă de ulei organic", "Exporturi în toată Uniunea Europeană", "Gastronomie bazată pe produse locale"],
       en: ["Core of the 'Trás-os-Montes' DOP olive oil", "Over 17,000 hectares of olive groves", "Advanced cold-pressing extraction units", "Leader in organic olive oil certification", "Exports to more than 20 global markets", "Also famous for the 'Alheira' smoked sausage"],
-    },
-  },
+    }, image: "/poi-images/portugal-mirandela-olive-oil-economic-v2.webp"},
   {
     id: "portugal-braganca-meat-economic-v2",
     type: "industry",
@@ -639,8 +624,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["A Bísaro sertésfajta központi tenyészhelye", "Hagyományos füstölési technológiák", "Modern, EU-szabványos feldolgozóüzemek", "A sertéseket gesztenyével is takarmányozzák", "Évente megrendezett Fumeiro-vásár", "Földrajzi árujelzős termékek (IGP)"],
       ro: ["Creșterea porcului de rasă Bísaro", "Centru major pentru produse afumate", "Unități de procesare moderne, certificate", "Alimentație naturală bazată pe castane", "Festival anual dedicat cărnii afumate", "Certificare IGP pentru cârnații locali"],
       en: ["Focus on the indigenous Bísaro pig breed", "Traditional 'fumeiro' smoking techniques", "Modern EU-certified processing plants", "Pigs are often fed with local chestnuts", "Hosts the annual Fumeiro Trade Fair", "Protected Geographical Indication (PGI) status"],
-    },
-  },
+    }, image: "/poi-images/portugal-braganca-meat-economic-v2.webp"},
   {
     id: "portugal-figueira-da-foz-cork-economic-v2",
     type: "industry",
@@ -671,8 +655,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["A Navigator Company hatalmas gyára", "Papír- és cellulózexport központja", "Ipari parafa-termékek gyártása", "Meghatározó tengeri kikötő", "Kiemelkedő faipari logisztikai bázis", "Fenntartható erdőgazdálkodási mintaprojekt"],
       ro: ["Marea fabrică a grupului Navigator", "Centru de export pentru celuloză", "Prelucrarea plutei pentru construcții", "Port maritim specializat în lemn", "Capacitate mare de stocare logistică", "Standarde înalte de sustenabilitate"],
       en: ["Host to a major Navigator Company plant", "Hub for pulp and paper global exports", "Processing center for industrial cork", "Strategic seaport for forestry products", "High-capacity wood logistics infrastructure", "Focus on sustainable forest management"],
-    },
-  },
+    }, image: "/poi-images/portugal-figueira-da-foz-cork-economic-v2.webp"},
   {
     id: "portugal-mafra-dairy-economic-v2",
     type: "industry",
@@ -703,8 +686,7 @@ export const portugalEconomicV2: POI[] = [
       hu: ["A mafrai tejüzemet 1975-ben nyitották meg.", "Mafra lakossága körülbelül 77.000 fő (2021).", "A tejfeldolgozó kapacitása napi 100.000 liter.", "A régióban körülbelül 5.000 tejelő tehén található.", "Mafra körülbelül 40 km-re északnyugatra fekszik Lisszabontól.", "A község területe 291,7 km²."],
       ro: ["Fabrica de lactate din Mafra a fost deschisă în 1975.", "Mafra are circa 77.000 de locuitori (2021).", "Capacitatea de procesare a laptelui este de 100.000 de litri pe zi.", "Regiunea are aproximativ 5.000 de vaci de lapte.", "Mafra se află la aproximativ 40 km nord-vest de Lisabona.", "Municipiul are o suprafață de 291,7 km²."],
       en: ["The Mafra dairy plant opened in 1975.", "Mafra has about 77,000 inhabitants (2021).", "The milk processing capacity is 100,000 liters per day.", "The region has about 5,000 dairy cows.", "Mafra is about 40 km northwest of Lisbon.", "The municipality covers an area of 291.7 km²."],
-    },
-  },
+    }, image: "/poi-images/portugal-mafra-dairy-economic-v2.webp"},
   {
     id: "portugal-tavira-salt-economic-v2",
     type: "industry",

@@ -926,8 +926,7 @@ export const polandReliefV2: POI[] = [
       hu: ["A Makówi-Beszkidek hossza 40 km.", "Legmagasabb csúcsa a Chełm (921 m).", "Területe körülbelül 400 km².", "A Skawa folyó a déli határ mentén 30 km-en folyik.", "Az átlagmagasság 500–700 m.", "Az erdősültség 60% körüli."],
       ro: ["Beskitul Makowski se întinde pe 40 km.", "Cel mai înalt vârf este Chełm (921 m).", "Suprafața este de circa 400 km².", "Râul Skawa curge de-a lungul graniței sudice pe 30 km.", "Altitudinea medie este de 500–700 m.", "Acoperirea forestieră este de aproximativ 60%."],
       en: ["The Maków Beskids stretch about 40 km.", "The highest peak is Chełm at 921 m.", "Area covers approximately 400 square km.", "The Skawa River runs along the southern border for 30 km.", "Average elevation is 500–700 m.", "Forest coverage is about 60%."],
-    },
-  },
+    }, image: "/poi-images/poland-beskid-makowski-relief-v2.webp"},
   {
     id: "poland-wielkopolska-lowland-relief-v2",
     type: "landmark",
@@ -958,8 +957,7 @@ export const polandReliefV2: POI[] = [
       hu: ["A Nagy-lengyel-alföld területe 40 000 km².", "A legmagasabb pont 194 m (Jarocin mellett).", "A Warta folyó hossza a síkságon 391 km.", "Több mint 200 tó található, amelyek területe meghaladja az 1 hektárt.", "A legnagyobb tó a Gopło (21 km²).", "Az éves csapadék 500–600 mm."],
       ro: ["Câmpia Poloniei Mari are o suprafață de 40.000 km².", "Altitudinea maximă este 194 m (lângă Jarocin).", "Râul Warta are 391 km lungime în câmpie.", "Există peste 200 de lacuri cu suprafața de peste 1 ha.", "Cel mai mare lac este Gopło (21 km²).", "Precipitațiile medii anuale sunt de 500–600 mm."],
       en: ["The Greater Poland Lowland covers 40,000 square km.", "Highest point is 194 m (near Jarocin).", "The Warta River is 391 km long within the lowland.", "There are over 200 lakes larger than 1 ha.", "Largest lake is Gopło at 21 km².", "Average annual precipitation is 500–600 mm."],
-    },
-  },
+    }, image: "/poi-images/poland-wielkopolska-lowland-relief-v2.webp"},
   {
     id: "poland-kaszubian-lake-district-relief-v2",
     type: "landmark",
@@ -990,8 +988,7 @@ export const polandReliefV2: POI[] = [
       hu: ["A Kashubiai-tóvidék körülbelül 3000 tóból áll.", "A legmagasabb pont a Wieżyca (329 m).", "A legnagyobb tó a Łebsko (7,9 km²).", "A tóvidék területe 3000 km².", "A Radunia folyó 83 km hosszú.", "A Słowiński Nemzeti Park részben itt található."],
       ro: ["Districtul Lacurilor Cașubiene are aproximativ 3.000 de lacuri.", "Cel mai înalt punct este Wieżyca (329 m).", "Cel mai mare lac este Łebsko (7,9 km²).", "Suprafața districtului este de circa 3.000 km².", "Râul Radunia are 83 km lungime.", "Parcul Național Słowiński se află parțial în această zonă."],
       en: ["The Kashubian Lake District contains about 3,000 lakes.", "The highest point is Wieżyca at 329 m.", "The largest lake is Łebsko covering 7.9 km².", "The district covers approximately 3,000 km².", "The Radunia River is 83 km long.", "Słowiński National Park is partially located in the region."],
-    },
-  },
+    }, image: "/poi-images/poland-kaszubian-lake-district-relief-v2.webp"},
   {
     id: "poland-swietokrzyski-ridge-relief-v2",
     type: "mountain",
@@ -1022,8 +1019,7 @@ export const polandReliefV2: POI[] = [
       hu: ["A Szentkereszt-hegyvidék hossza 70 km.", "A legmagasabb csúcs a Łysica (612 m).", "A hegység körülbelül 500 millió éves.", "A Łysa Góra magassága 593 m.", "Több mint 50 barlang található, a leghosszabb 180 m.", "A Szentkereszt Nemzeti Parkot 1950-ben alapították."],
       ro: ["Creasta Sfintei Cruci se întinde pe 70 km.", "Vârful cel mai înalt este Łysica (612 m).", "Munții datează de acum aproximativ 500 de milioane de ani.", "Łysa Góra are 593 m altitudine.", "Există peste 50 de peșteri, cea mai lungă având 180 m.", "Parcul Național Sfânta Cruce a fost înființat în 1950."],
       en: ["The Holy Cross Ridge stretches 70 km.", "The highest peak is Łysica at 612 m.", "The range formed about 500 million years ago.", "Łysa Góra mountain is 593 m high.", "There are over 50 caves, the longest being 180 m.", "The Holy Cross National Park was established in 1950."],
-    },
-  },
+    }, image: "/poi-images/poland-swietokrzyski-ridge-relief-v2.webp"},
   {
     id: "poland-beskid-wyspowy-relief-v2",
     type: "mountain",
@@ -1054,8 +1050,7 @@ export const polandReliefV2: POI[] = [
       hu: ["A Mogielica a legmagasabb csúcs (1171 m).", "A Szigetes-Beszkidek hozzávetőleg 30 km hosszú.", "Területe körülbelül 500 km².", "Az átlagmagasság 600–900 m.", "A főgerinc 8 kiemelkedő csúcsból áll.", "A térségben 15 kijelölt túraút található."],
       ro: ["Cel mai înalt vârf este Mogielica (1.171 m).", "Beskitul Insular se întinde pe aproximativ 30 km.", "Suprafața este de circa 500 km².", "Altitudinea medie este de 600–900 m.", "Creasta principală are 8 vârfuri proeminente.", "Există 15 trasee de drumeție marcate."],
       en: ["The highest peak is Mogielica at 1,171 m.", "The Island Beskids extend about 30 km.", "Area covers approximately 500 km².", "Average elevation is 600–900 m.", "The main ridge consists of 8 prominent peaks.", "There are 15 marked hiking trails in the region."],
-    },
-  },
+    }, image: "/poi-images/poland-beskid-wyspowy-relief-v2.webp"},
   {
     id: "poland-beskid-maly-peak-relief-v2",
     type: "peak",
@@ -1086,8 +1081,7 @@ export const polandReliefV2: POI[] = [
       hu: ["Magasság: 922 m", "Hegyvidék: Kis-Beszkidek", "Menhely: 1932, 8 férőhely", "Vajdaság: Kis-Lengyelország", "Kocierz felé vezető út szintkülönbsége: 600 m", "Jelzett útvonalak száma: 5"],
       ro: ["Altitudine: 922 m", "Munți: Beskizii Mici", "Adăpost: 1932, 8 locuri", "Voievodat: Polonia Mică", "Diferență de nivel pe traseul spre Kocierz: 600 m", "Număr de trasee marcate: 5"],
       en: ["Height: 922 m", "Mountain range: Little Beskids", "Shelter: 1932, 8 beds", "Voivodeship: Lesser Poland", "Elevation gain from Kocierz trail: 600 m", "Number of marked trails: 5"],
-    },
-  },
+    }, image: "/poi-images/poland-beskid-maly-peak-relief-v2.webp"},
   {
     id: "poland-pieniny-high-plateau-relief-v2",
     type: "landmark",
@@ -1118,8 +1112,7 @@ export const polandReliefV2: POI[] = [
       hu: ["A Wysoka 1050 m magas.", "A Pieniny Nemzeti Parkot 1932-ben alapították.", "A Dunajec-szurdok hossza 8 km.", "A nemzeti park területe 23,6 km².", "A Sokolicy sziklafal magassága 747 m.", "A parkban 1000-nél több növényfaj él."],
       ro: ["Vârful Wysoka are 1.050 m altitudine.", "Parcul Național Pieniny a fost fondat în 1932.", "Cheile Dunajecului au o lungime de 8 km.", "Suprafața parcului național este de 23,6 km².", "Stânca Sokolicy are 747 m înălțime.", "În parc există peste 1.000 de specii de plante."],
       en: ["The highest peak is Wysoka at 1,050 m.", "Pieniny National Park was established in 1932.", "The Dunajec Gorge is 8 km long.", "The national park covers 23.6 km².", "The highest cliff is Sokolicy at 747 m.", "Over 1,000 plant species exist in the park."],
-    },
-  },
+    }, image: "/poi-images/poland-pieniny-high-plateau-relief-v2.webp"},
   {
     id: "poland-silesian-lowland-relief-v2",
     type: "landmark",
@@ -1150,8 +1143,7 @@ export const polandReliefV2: POI[] = [
       hu: ["A Sziléziai-alföld 14 000 km² területű.", "Az Odera 200 km hosszan folyik az alföldön.", "A legnagyobb város Wrocław, 640 000 fő feletti lakossággal.", "Az átlagmagasság 140 m.", "A mezőgazdaság évente 2 millió tonna búzát termel.", "Az alföld jelentős szénkészleteket rejt."],
       ro: ["Câmpia Sileziei are 14.000 km².", "Râul Odra curge 200 km prin câmpie.", "Cel mai mare oraș este Wrocław, cu peste 640.000 locuitori.", "Altitudinea medie este de 140 m.", "Agricultura produce anual 2 milioane de tone de grâu.", "Câmpia conține zăcăminte importante de cărbune."],
       en: ["The Silesian Lowland covers 14,000 km².", "The Oder River runs 200 km through the plain.", "Largest city is Wrocław with over 640,000 inhabitants.", "Average elevation is 140 m.", "Agriculture produces 2 million tons of wheat annually.", "The lowland contains significant coal deposits."],
-    },
-  },
+    }, image: "/poi-images/poland-silesian-lowland-relief-v2.webp"},
   {
     id: "poland-beskid-makowski-peak-relief-v2",
     type: "peak",
@@ -1182,8 +1174,7 @@ export const polandReliefV2: POI[] = [
       hu: ["Magasság: 678 m", "Hegyvidék: Makówi-Beszkidek", "Kőzet: flis", "Erdősültség: 90%", "Erődmaradványok: 1944", "Távolság Maków Podhalańskitól: 3 km"],
       ro: ["Altitudine: 678 m", "Munți: Beskizii Maków", "Rocă: fliș", "Acoperire forestieră: 90%", "Ruine fortificație: 1944", "Distanța până la Maków Podhalański: 3 km"],
       en: ["Height: 678 m", "Mountain range: Maków Beskids", "Rock type: flysch", "Forest cover: 90%", "Fortification ruins: 1944", "Distance to Maków Podhalański: 3 km"],
-    },
-  },
+    }, image: "/poi-images/poland-beskid-makowski-peak-relief-v2.webp"},
   {
     id: "poland-sudetes-piedmont-relief-v2",
     type: "landmark",
@@ -1214,8 +1205,7 @@ export const polandReliefV2: POI[] = [
       hu: ["A Szudéta-előhegység szélessége 50 km.", "A legmagasabb pont a Grodziec (400 m).", "A terület körülbelül 5000 km².", "A Bystrzyca folyó 95 km hosszú.", "10 gyógyhely található termálforrásokkal.", "Az éves gyümölcstermelés 100 000 tonna."],
       ro: ["Piemontul Sudetic se întinde pe 50 km lățime.", "Cel mai înalt punct este Grodziec (400 m).", "Regiunea are aproximativ 5.000 km².", "Râul Bystrzyca are 95 km lungime.", "Există 10 stațiuni balneare cu izvoare termale.", "Producția anuală de fructe este de 100.000 de tone."],
       en: ["The Sudetes Piedmont stretches 50 km in width.", "Highest point is Grodziec at 400 m.", "The region covers about 5,000 km².", "The Bystrzyca River is 95 km long.", "There are 10 health resorts with thermal springs.", "Annual fruit production is 100,000 tons."],
-    },
-  },
+    }, image: "/poi-images/poland-sudetes-piedmont-relief-v2.webp"},
   {
     id: "poland-beskid-slaski-valley-relief-v2",
     type: "valley",
@@ -1246,8 +1236,7 @@ export const polandReliefV2: POI[] = [
       hu: ["A Visztula-völgy hossza 30 km, szélessége 5 km.", "A Visztula ezen a szakaszon 40 km hosszú.", "Żywiec városának 31 000 lakosa van.", "A Żywiec sörfőzdét 1856-ban alapították.", "A völgy 300–400 m magasan fekszik.", "A folyó vízgyűjtő területe 300 km²."],
       ro: ["Valea Vistulei are 30 km lungime și 5 km lățime.", "Vistula are o lungime de 40 km în această secțiune.", "Orașul Żywiec are 31.000 de locuitori.", "Fabrica de bere Żywiec a fost fondată în 1856.", "Valea se află la altitudini între 300 și 400 m.", "Râul are un bazin hidrografic de 300 km²."],
       en: ["The Vistula Valley is about 30 km long and 5 km wide.", "The Vistula River flows 40 km through this section.", "The town of Żywiec has 31,000 inhabitants.", "Żywiec brewery was founded in 1856.", "The valley lies at elevations between 300 and 400 m.", "The river drainage basin is 300 km²."],
-    },
-  },
+    }, image: "/poi-images/poland-beskid-slaski-valley-relief-v2.webp"},
   {
     id: "poland-lubuskie-lake-district-relief-v2",
     type: "landmark",

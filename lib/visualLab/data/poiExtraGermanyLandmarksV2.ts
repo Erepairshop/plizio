@@ -31,8 +31,7 @@ export const germanyLandmarksV2: POI[] = [
       hu: ["Az építkezés 1869-től 1886-ig tartott (befejezetlen).", "A kastély 930 méter tengerszint feletti magasságban található.", "A Bergfried (főtorony) magassága 45 méter.", "14 szoba készült el, összesen 200 volt tervezve.", "Az építés költsége kb. 6,2 millió márka volt (ma kb. 200 millió euró).", "A kastély 1913-ban nyílt meg a nagyközönség számára."],
       ro: ["Construcția a durat din 1869 până în 1886 (neterminată).", "Castelul se află la 930 de metri deasupra nivelului mării.", "Bergfried (turnul principal) are 45 de metri înălțime.", "14 camere au fost finalizate, dintr-un plan de 200.", "Costul construcției a fost de aproximativ 6,2 milioane de mărci (astăzi circa 200 de milioane de euro).", "Castelul a fost deschis publicului în 1913."],
       en: ["Construction lasted from 1869 to 1886 (unfinished).", "The castle is at 930 meters above sea level.", "The keep (Bergfried) is 45 meters high.", "14 rooms were completed, out of a planned 200.", "The building cost about 6.2 million marks (today ~€200 million).", "The castle opened to the public in 1913."],
-    },
-  },
+    }, image: "/poi-images/germany-neuschwanstein-castle-landmarks-v2.webp"},
   {
     id: "germany-frankfurt-roemerberg-landmarks-v2",
     type: "landmark",
@@ -63,8 +62,7 @@ export const germanyLandmarksV2: POI[] = [
       hu: ["A Römerberg kb. 70 méter hosszú és 40 méter széles.", "A Römer épületét 1405-ben vásárolta meg a város.", "Az Igazságosság-kutat 1543-ban állították.", "A 16. századtól kezdve itt tartották a császárkoronázásokat.", "A favázas házakat 1945 után építették újjá.", "A frankfurti karácsonyi vásár évente több mint 3 millió látogatót vonz."],
       ro: ["Römerberg are aproximativ 70 de metri lungime și 40 de metri lățime.", "Römer a fost achiziționat de oraș în 1405.", "Fântâna Justiției a fost construită în 1543.", "Începând cu secolul al XVI-lea, aici au avut loc încoronări imperiale.", "Casele cu structură de lemn au fost reconstruite după 1945.", "Târgul de Crăciun din Frankfurt atrage peste 3 milioane de vizitatori anual."],
       en: ["Römerberg is about 70 meters long and 40 meters wide.", "The Römer was purchased by the city in 1405.", "The Fountain of Justice was built in 1543.", "From the 16th century, imperial coronations were held here.", "The half-timbered houses were rebuilt after 1945.", "The Frankfurt Christmas market attracts over 3 million visitors annually."],
-    },
-  },
+    }, image: "/poi-images/germany-frankfurt-roemerberg-landmarks-v2.webp"},
   {
     id: "germany-berliner-dom-landmarks-v2",
     type: "cathedral",
@@ -127,8 +125,7 @@ export const germanyLandmarksV2: POI[] = [
       hu: ["A torony magassága 161,5 méter.", "Az alapkövet 1377-ben tették le, a tornyot 1890-ben fejezték be.", "A templomhajó 123 méter hosszú és 48 méter széles.", "A feljutáshoz 768 lépcsőfokot kell megmászni.", "Az üvegablakok felülete kb. 1 000 négyzetméter.", "A kórusülések 1474-ből származnak, Jörg Syrlin munkái."],
       ro: ["Turnul are 161,5 metri înălțime.", "Piatra de temelie a fost pusă în 1377, finalizarea turnului în 1890.", "Nava are 123 de metri lungime și 48 de metri lățime.", "Urcarea implică 768 de trepte.", "Suprafața vitraliilor este de aproximativ 1.000 de metri pătrați.", "Stranele corului datează din 1474, realizate de Jörg Syrlin."],
       en: ["The tower is 161.5 meters high.", "The cornerstone was laid in 1377, tower completed in 1890.", "The nave is 123 meters long and 48 meters wide.", "The climb has 768 steps.", "The stained glass area is about 1,000 square meters.", "The choir stalls date from 1474, created by Jörg Syrlin."],
-    },
-  },
+    }, image: "/poi-images/germany-ulmer-muenster-landmarks-v2.webp"},
   {
     id: "germany-viktoriapark-kreuzberg-landmarks-v2",
     type: "park",
@@ -159,8 +156,7 @@ export const germanyLandmarksV2: POI[] = [
       hu: ["A park területe 10 hektár.", "A Kreuzberg magassága 66 méter a tengerszint felett.", "A nemzeti emlékmű 19 méter magas.", "A vízesés esésmagassága 15 méter.", "A parkot 1888 és 1894 között építették.", "Az emlékmű 3 000 öntöttvas alkatrészből áll."],
       ro: ["Parcul are o suprafață de 10 hectare.", "Înălțimea Kreuzberg este de 66 de metri deasupra nivelului mării.", "Monumentul național are 19 metri înălțime.", "Cascada are o cădere de apă de 15 metri.", "Parcul a fost construit între 1888 și 1894.", "Monumentul este format din 3.000 de piese din fontă."],
       en: ["The park covers 10 hectares.", "The Kreuzberg height is 66 meters above sea level.", "The national monument is 19 meters high.", "The waterfall has a drop of 15 meters.", "The park was built from 1888 to 1894.", "The monument consists of 3,000 cast-iron parts."],
-    },
-  },
+    }, image: "/poi-images/germany-viktoriapark-kreuzberg-landmarks-v2.webp"},
   {
     id: "germany-achensee-kloster-landmarks-v2",
     type: "church",
@@ -191,8 +187,7 @@ export const germanyLandmarksV2: POI[] = [
       hu: ["A kolostort 1330-ban alapították.", "A kupola magassága 60 méter.", "A kolostor sörfőzdéjének éves termelése 20 000 hektoliter.", "A könyvtár 50 000 kötettel rendelkezik.", "A templom 1710 és 1740 között épült.", "A kolostorban 40 szerzetes él (2023-as adat)."],
       ro: ["Mănăstirea a fost fondată în 1330.", "Cupola are 60 de metri înălțime.", "Fabrica de bere a mănăstirii produce anual 20.000 de hectolitri.", "Biblioteca are 50.000 de volume.", "Biserica a fost construită între 1710 și 1740.", "Mănăstirea găzduiește 40 de călugări (în 2023)."],
       en: ["The monastery was founded in 1330.", "The dome height is 60 meters.", "The abbey brewery produces 20,000 hectoliters annually.", "The library holds 50,000 volumes.", "The church was built from 1710 to 1740.", "The monastery houses 40 monks (as of 2023)."],
-    },
-  },
+    }, image: "/poi-images/germany-achensee-kloster-landmarks-v2.webp"},
   {
     id: "germany-museumsinsel-berlin-landmarks-v2",
     type: "museum",
@@ -223,8 +218,7 @@ export const germanyLandmarksV2: POI[] = [
       hu: ["A Múzeum-sziget 5 múzeumból áll, 8,5 hektáron.", "A Pergamon Múzeum évente több mint 1 millió látogatót fogad.", "A Pergamon-oltár a Kr. e. 2. századból származik.", "Nofertiti mellszobra több mint 3 300 éves.", "Az Új Múzeum 2009-ben nyílt meg újra.", "A Mesterterv költsége kb. 2 milliárd euró."],
       ro: ["Insula Muzeelor cuprinde 5 muzee pe 8,5 hectare.", "Muzeul Pergamon are peste 1 milion de vizitatori anual.", "Altarul din Pergamon datează din secolul al II-lea î.Hr.", "Bustul lui Nefertiti are peste 3.300 de ani.", "Muzeul Nou a fost redeschis în 2009.", "Planul Director costă aproximativ 2 miliarde de euro."],
       en: ["Museum Island comprises 5 museums on 8.5 hectares.", "The Pergamon Museum has over 1 million visitors annually.", "The Pergamon Altar dates from the 2nd century BC.", "The Nefertiti bust is over 3,300 years old.", "The Neues Museum reopened in 2009.", "The Masterplan costs about 2 billion euros."],
-    },
-  },
+    }, image: "/poi-images/germany-museumsinsel-berlin-landmarks-v2.webp"},
   {
     id: "germany-konstanz-konzilgebaeude-landmarks-v2",
     type: "landmark",

@@ -63,8 +63,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["A Trák-alföld körülbelül 6000 négyzetkilométer területet ölel fel.", "Az átlagos magasság 168 méter a tengerszint felett.", "A síkság legmagasabb pontja 300 méter.", "Az éves csapadékmennyiség 550 mm.", "Az alföldön termelik meg Bulgária búzatermésének 40%-át.", "A népsűrűség körülbelül 80 fő négyzetkilométerenként."],
       ro: ["Câmpia Traciei se întinde pe o suprafață de aproximativ 6.000 de kilometri pătrați.", "Altitudinea medie este de 168 de metri deasupra nivelului mării.", "Cel mai înalt punct al câmpiei este de 300 de metri.", "Precipitațiile medii anuale sunt de 550 mm.", "40% din producția de grâu a Bulgariei provine din această câmpie.", "Densitatea populației este de aproximativ 80 de locuitori pe kilometru pătrat."],
       en: ["The Thracian Lowland covers about 6,000 square kilometers.", "Average elevation is 168 meters above sea level.", "The highest point of the plain is 300 meters.", "Annual rainfall is 550 mm.", "40% of Bulgaria's wheat production is grown in the plain.", "Population density is about 80 inhabitants per square kilometer."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-tracian-lowland-relief-v2.webp"},
   {
     id: "bulgaria-pirin-mountains-ridge-relief-v2",
     type: "mountain",
@@ -95,8 +94,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["A Pirin-hegység gerince 80 kilométer hosszú.", "A legmagasabb csúcs, a Vihren, 2914 méter magas.", "Több mint 100 gleccsertó található a hegységben.", "A Pirin Nemzeti Parkot 1962-ben alapították, területe 403 négyzetkilométer.", "Az éves átlaghőmérséklet 2000 méteren 2 °C.", "A parkban több mint 1300 növényfajt regisztráltak."],
       ro: ["Creasta Munților Pirin are o lungime de 80 de kilometri.", "Cel mai înalt vârf, Vihren, are 2.914 metri.", "Există peste 100 de lacuri glaciare în munți.", "Parcul Național Pirin a fost înființat în 1962 și are o suprafață de 403 kilometri pătrați.", "Temperatura medie anuală la 2.000 de metri este de 2 °C.", "În parc au fost înregistrate peste 1.300 de specii de plante."],
       en: ["The Pirin Mountain Ridge is 80 kilometers long.", "The highest peak, Vihren, measures 2,914 meters.", "There are over 100 glacial lakes in the mountains.", "Pirin National Park was established in 1962 and covers 403 square kilometers.", "Average annual temperature at 2,000 meters is 2 °C.", "Over 1,300 plant species have been recorded in the park."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-pirin-mountains-ridge-relief-v2.webp"},
   {
     id: "bulgaria-danubian-plain-relief-v2",
     type: "valley",
@@ -127,8 +125,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["A Duna-síkság 500 kilométer hosszan húzódik.", "Szélessége 30 és 100 kilométer között van.", "A síkság legmagasabb pontja 200 méter.", "Az éves csapadékmennyiség 500-600 mm.", "A régióban állítják elő Bulgária napraforgóolajának 50%-át.", "A Duna 470 kilométer hosszan határolja a síkságot északon."],
       ro: ["Câmpia Dunării se întinde pe o lungime de 500 de kilometri.", "Lățimea este cuprinsă între 30 și 100 de kilometri.", "Altitudinea maximă a câmpiei este de 200 de metri.", "Precipitațiile medii anuale sunt de 500-600 mm.", "În regiune se produce 50% din uleiul de floarea-soarelui al Bulgariei.", "Dunărea delimitează câmpia la nord pe o lungime de 470 de kilometri."],
       en: ["The Danubian Plain extends over a length of 500 kilometers.", "Width ranges between 30 and 100 kilometers.", "The maximum height of the plain is 200 meters.", "Annual precipitation is 500-600 mm.", "50% of Bulgaria's sunflower oil is produced in the region.", "The Danube borders the plain to the north for 470 kilometers."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-danubian-plain-relief-v2.webp"},
   {
     id: "bulgaria-rhodope-mountains-massif-relief-v2",
     type: "mountain",
@@ -159,8 +156,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Hossz: 240 km.", "Legmagasabb csúcs: Goljam Perelik (2191 m).", "Átlagmagasság: 800-1200 m.", "Legnagyobb barlang: Djavolskoto Garlo (Ördögtorok).", "A masszívum területe: kb. 18 000 km².", "Bulgáriára eső rész: kb. 83%."],
       ro: ["Lungime: 240 km.", "Cel mai înalt vârf: Golyam Perelik (2.191 m).", "Altitudine medie: 800-1.200 m.", "Cea mai mare peșteră: Djavolskoto Garlo (Gâtul Diavolului).", "Suprafața masivului: aproximativ 18.000 km².", "Partea din Bulgaria: circa 83%."],
       en: ["Length: 240 km.", "Highest peak: Golyam Perelik (2,191 m).", "Average elevation: 800-1,200 m.", "Largest cave: Devil's Throat Cave.", "Massif area: about 18,000 km².", "Portion in Bulgaria: roughly 83%."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-rhodope-mountains-massif-relief-v2.webp"},
   {
     id: "bulgaria-belogradchik-rocks-relief-v2",
     type: "mountain",
@@ -191,8 +187,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Terület: 90 km².", "Sziklák magassága: 10-100 méter.", "Geológiai természeti emlék 2007 óta.", "Kialakulás: kb. 200 millió éve.", "Jellegzetes sziklaformációk száma: több mint 100.", "Éves látogatók: kb. 200 000."],
       ro: ["Suprafață: 90 km².", "Înălțimea stâncilor: 10-100 de metri.", "Monument natural geologic din 2007.", "Vârsta formațiunii: aproximativ 200 de milioane de ani.", "Număr de formațiuni stâncoase distincte: peste 100.", "Vizitatori anuali: circa 200.000."],
       en: ["Area: 90 km².", "Rock height: 10-100 meters.", "Geological natural monument since 2007.", "Age: about 200 million years.", "Number of distinct rock formations: over 100.", "Annual visitors: about 200,000."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-belogradchik-rocks-relief-v2.webp"},
   {
     id: "bulgaria-vitosa-mountain-relief-v2",
     type: "mountain",
@@ -223,8 +218,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Cserni Vrah (2290 m).", "Nemzeti park alapítása: 1934.", "A nemzeti park területe: 270 km².", "Túraútvonalak száma: több mint 20.", "Síterepek: Aleko és Konyarnika.", "Endemikus növényfajok: 10."],
       ro: ["Cel mai înalt vârf: Cerni Vrah (2.290 m).", "Înființarea parcului național: 1934.", "Suprafața parcului național: 270 km².", "Număr de trasee de drumeție: peste 20.", "Stațiuni de schi: Aleko și Konyarnika.", "Specii de plante endemice: 10."],
       en: ["Highest peak: Cherni Vrah (2,290 m).", "National park established: 1934.", "National park area: 270 km².", "Hiking trails: over 20.", "Ski resorts: Aleko and Konyarnika.", "Endemic plant species: 10."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-vitosa-mountain-relief-v2.webp"},
   {
     id: "bulgaria-strumski-canyon-relief-v2",
     type: "valley",
@@ -255,8 +249,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["A szurdok hossza: kb. 20 km.", "Legmélyebb szakasz: 200 m-es sziklafalak.", "Legkeskenyebb rész: 50 m.", "E79-es út áthaladási magassága: 250 m tszf.", "Vasúti alagutak száma: 15.", "Éves csapadékmennyiség: 600 mm."],
       ro: ["Lungimea cheilor: aproximativ 20 km.", "Înălțimea maximă a pereților: 300 m.", "Lățimea minimă: 50 m.", "Altitudinea drumului E79: 250 m.", "Numărul de tuneluri feroviare: 15.", "Precipitații anuale: 600 mm."],
       en: ["Length of Kresna Gorge: about 20 km.", "Maximum cliff height: over 300 m.", "Narrowest width: approximately 50 m.", "Elevation of road E79: 250 m above sea level.", "Number of railway tunnels: 15.", "Annual precipitation in the area: 600 mm."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-strumski-canyon-relief-v2.webp"},
   {
     id: "bulgaria-sakar-mountains-relief-v2",
     type: "mountain",
@@ -287,8 +280,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Legmagasabb pont: Visegrad, 856 m.", "Terület: kb. 1200 km².", "Átlagmagasság: 400 m.", "Madárfajok száma: több mint 200.", "Éves csapadék: 500–600 mm.", "Népsűrűség: kb. 20 fő/km²."],
       ro: ["Altitudine maximă: Vârful Visegrad, 856 m.", "Suprafață: aproximativ 1.200 km².", "Altitudine medie: 400 m.", "Număr de specii de păsări: peste 200.", "Precipitații anuale: 500–600 mm.", "Densitatea populației: circa 20 locuitori/km²."],
       en: ["Highest peak: Visegrad, 856 m.", "Area: approximately 1,200 km².", "Average elevation: 400 m.", "Number of bird species: over 200.", "Annual precipitation: 500–600 mm.", "Population density: about 20 inhabitants/km²."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-sakar-mountains-relief-v2.webp"},
   {
     id: "bulgaria-strandzha-plateau-relief-v2",
     type: "mountain",
@@ -351,8 +343,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Ruen, 2251 m.", "Teljes terület: kb. 1000 km².", "Fahatár átlagmagassága: 1800 m.", "Éves csapadék: 800–1200 mm.", "2000 m feletti csúcsok száma: 10.", "Főgerinc hossza: 70 km."],
       ro: ["Altitudine maximă: Vârful Ruen, 2.251 m.", "Suprafață totală: circa 1.000 km².", "Altitudinea medie a limitei pădurii: 1.800 m.", "Precipitații anuale: 800–1.200 mm.", "Număr de vârfuri peste 2.000 m: 10.", "Lungimea crestei principale: 70 km."],
       en: ["Highest peak: Ruen, 2,251 m.", "Total area: about 1,000 km².", "Average tree line elevation: 1,800 m.", "Annual precipitation: 800–1,200 mm.", "Number of peaks over 2,000 m: 10.", "Length of main ridge: 70 km."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-osogovo-ridge-relief-v2.webp"},
   {
     id: "bulgaria-balkan-north-slopes-relief-v2",
     type: "mountain",
@@ -383,8 +374,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Északi lejtők átlagmagassága: 500–1000 m.", "Északi perem hossza: kb. 300 km.", "Legmagasabb pont a főgerincen: 1500 m.", "Éves csapadék: 700–1000 mm.", "Népsűrűség: 20 fő/km² alatt.", "Falvak száma: több mint 100."],
       ro: ["Altitudinea medie a pantelor nordice: 500–1.000 m.", "Lungimea abruptului nordic: circa 300 km.", "Altitudinea maximă pe creasta principală: 1.500 m.", "Precipitații anuale: 700–1.000 mm.", "Densitatea populației: sub 20 locuitori/km².", "Număr de sate: peste 100."],
       en: ["Average elevation of northern slopes: 500–1,000 m.", "Length of the northern escarpment: about 300 km.", "Maximum elevation on the main ridge: 1,500 m.", "Annual precipitation: 700–1,000 mm.", "Population density: below 20 inhabitants/km².", "Number of villages: over 100."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-balkan-north-slopes-relief-v2.webp"},
   {
     id: "bulgaria-vracha-karst-plateau-relief-v2",
     type: "mountain",
@@ -415,8 +405,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Fennsík területe: kb. 200 km².", "Legmagasabb pont: 600 m.", "Barlangok száma: több mint 50.", "Legmélyebb víznyelők: 100 m-ig.", "Ledenika-barlang hossza: 300 m.", "Átlagos évi hőmérséklet: 10 °C."],
       ro: ["Suprafața podișului: circa 200 km².", "Altitudine maximă: 600 m.", "Număr de peșteri: peste 50.", "Adâncimea maximă a dolinelor: 100 m.", "Lungimea Peșterii Ledenika: 300 m.", "Temperatura medie anuală: 10 °C."],
       en: ["Area of the plateau: about 200 km².", "Highest elevation: 600 m.", "Number of caves: over 50.", "Maximum sinkhole depth: 100 m.", "Length of Ledenika Cave: 300 m.", "Average annual temperature: 10 °C."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-vracha-karst-plateau-relief-v2.webp"},
   {
     id: "bulgaria-maritsa-valley-relief-v2",
     type: "valley",
@@ -447,8 +436,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Marica-völgy hossza Bulgáriában: 200 km.", "Szélesség: 10–50 km.", "Átlagmagasság: 200 m.", "Éves csapadék: 500–600 mm.", "Lakosság: több mint 1 millió.", "Mezőgazdasági terület: 5000 km²."],
       ro: ["Lungimea văii în Bulgaria: 200 km.", "Lățime: 10–50 km.", "Altitudine medie: 200 m.", "Precipitații anuale: 500–600 mm.", "Populație: peste 1 milion.", "Suprafață agricolă: 5.000 km²."],
       en: ["Length of Maritsa Valley in Bulgaria: 200 km.", "Width: 10–50 km.", "Average elevation: 200 m.", "Annual precipitation: 500–600 mm.", "Population in the valley: over 1 million.", "Agricultural land area: 5,000 km²."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-maritsa-valley-relief-v2.webp"},
   {
     id: "bulgaria-rhodope-meander-relief-v2",
     type: "valley",
@@ -479,8 +467,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Arda folyó hossza: 241 km.", "Nagy kanyarulatok száma: 12.", "Átlagos folyószélesség: 20–50 m.", "Partok magassága: akár 200 m.", "Kardzhali-vízerőmű teljesítménye: 24 MW.", "Éves vízhőmérséklet: 10 °C."],
       ro: ["Lungimea râului Arda: 241 km.", "Număr de meandre majore: 12.", "Lățimea medie a râului: 20–50 m.", "Înălțimea malurilor: până la 200 m.", "Puterea hidrocentralei Kardzhali: 24 MW.", "Temperatura anuală a apei: 10 °C."],
       en: ["Length of the Arda River: 241 km.", "Number of major meanders: 12.", "Average river width: 20–50 m.", "Bank height: up to 200 m.", "Kardzhali hydroelectric plant capacity: 24 MW.", "Average annual water temperature: 10 °C."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-rhodope-meander-relief-v2.webp"},
   {
     id: "bulgaria-central-balkan-plateau-relief-v2",
     type: "mountain",
@@ -511,8 +498,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Átlagmagasság: 1000 m.", "Terület: kb. 1000 km².", "Legmagasabb pont: 1500 m.", "Éves csapadék: 900–1200 mm.", "Falvak száma: 30.", "Nemzeti park területe: 716 km²."],
       ro: ["Altitudine medie: 1.000 m.", "Suprafață: circa 1.000 km².", "Altitudine maximă: 1.500 m.", "Precipitații anuale: 900–1.200 mm.", "Număr de sate: 30.", "Suprafața parcului național: 716 km²."],
       en: ["Average elevation: 1,000 m.", "Area: about 1,000 km².", "Highest point: 1,500 m.", "Annual precipitation: 900–1,200 mm.", "Number of villages: 30.", "Area of the national park: 716 km²."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-central-balkan-plateau-relief-v2.webp"},
   {
     id: "bulgaria-yantra-valley-relief-v2",
     type: "valley",
@@ -543,8 +529,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Jantra folyó hossza: 285 km.", "Völgy szélessége: 1–5 km.", "Völgytalp átlagmagassága: 100 m.", "Vízgyűjtő terület: 7900 km².", "Szőlőültetvények területe: 200 km².", "Városok száma a völgyben: 10."],
       ro: ["Lungimea râului Yantra: 285 km.", "Lățimea văii: 1–5 km.", "Altitudinea medie a fundului văii: 100 m.", "Bazin hidrografic: 7.900 km².", "Suprafață viticolă: 200 km².", "Număr de orașe în vale: 10."],
       en: ["Length of Yantra River: 285 km.", "Valley width: 1–5 km.", "Average valley floor elevation: 100 m.", "Drainage basin: 7,900 km².", "Vineyard area: 200 km².", "Number of cities in the valley: 10."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-yantra-valley-relief-v2.webp"},
   {
     id: "bulgaria-pirin-granite-peak-zone-relief-v2",
     type: "mountain",
@@ -575,8 +560,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Vihren, 2914 m.", "Gleccsertavak száma: több mint 30.", "Gránitzóna területe: 200 km².", "Csúcsok átlagmagassága: 2500 m.", "Cirkuszvölgyek száma: 50.", "Éves csapadék: 1000–1500 mm."],
       ro: ["Altitudine maximă: Vârful Vihren, 2.914 m.", "Număr de lacuri glaciare: peste 30.", "Suprafața zonei granitice: 200 km².", "Altitudinea medie a vârfurilor: 2.500 m.", "Număr de circuri glaciare: 50.", "Precipitații anuale: 1.000–1.500 mm."],
       en: ["Highest peak: Vihren, 2,914 m.", "Number of glacial lakes: over 30.", "Area of granite zone: 200 km².", "Average summit elevation: 2,500 m.", "Number of glacial cirques: 50.", "Annual precipitation: 1,000–1,500 mm."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-pirin-granite-peak-zone-relief-v2.webp"},
   {
     id: "bulgaria-struma-valley-relief-v2",
     type: "valley",
@@ -607,8 +591,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Struma-völgy hossza Bulgáriában: 200 km.", "Struma folyó hossza: 415 km.", "Völgy átlagos szélessége: 5 km.", "Régió lakossága: 500 000.", "Termálforrások száma: 15.", "Átlagos évi hőmérséklet: 14 °C."],
       ro: ["Lungimea văii Struma în Bulgaria: 200 km.", "Lungimea râului Struma: 415 km.", "Lățimea medie a văii: 5 km.", "Populația regiunii: 500.000.", "Număr de izvoare termale: 15.", "Temperatura medie anuală: 14 °C."],
       en: ["Length of Struma Valley in Bulgaria: 200 km.", "Length of Struma River: 415 km.", "Average valley width: 5 km.", "Population of the region: 500,000.", "Number of thermal springs: 15.", "Average annual temperature: 14 °C."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-struma-valley-relief-v2.webp"},
   {
     id: "bulgaria-rodopes-western-ridge-relief-v2",
     type: "mountain",
@@ -639,8 +622,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Goljam Perelik, 2191 m.", "Gerinc hossza: 100 km.", "Átlagmagasság: 1500 m.", "2000 m feletti csúcsok száma: 20.", "Éves hóesés: 150 nap.", "Sípályák hossza: 50 km."],
       ro: ["Altitudine maximă: Vârful Golyam Perelik, 2.191 m.", "Lungimea crestei: 100 km.", "Altitudine medie: 1.500 m.", "Număr de vârfuri peste 2.000 m: 20.", "Zăpadă anuală: 150 de zile.", "Lungimea pârtiilor de schi: 50 km."],
       en: ["Highest peak: Golyam Perelik, 2,191 m.", "Ridge length: 100 km.", "Average elevation: 1,500 m.", "Number of peaks over 2,000 m: 20.", "Annual snowfall days: 150.", "Ski slope length: 50 km."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-rodopes-western-ridge-relief-v2.webp"},
   {
     id: "bulgaria-balkan-karst-relief-v2",
     type: "mountain",
@@ -671,8 +653,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Karsztzóna területe: 500 km².", "Barlangok száma: több mint 100.", "Leghosszabb barlang: 3 km.", "Legmélyebb víznyelő: 80 m.", "Karszthegyek átlagmagassága: 800 m.", "Földalatti folyók száma: 10."],
       ro: ["Suprafața zonei carstice: 500 km².", "Număr de peșteri: peste 100.", "Lungimea celei mai lungi peșteri: 3 km.", "Adâncimea maximă a dolinelor: 80 m.", "Altitudinea medie a munților carstici: 800 m.", "Număr de râuri subterane: 10."],
       en: ["Area of karst zone: 500 km².", "Number of caves: over 100.", "Longest cave length: 3 km.", "Maximum sinkhole depth: 80 m.", "Average elevation of karst mountains: 800 m.", "Number of underground rivers: 10."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-balkan-karst-relief-v2.webp"},
   {
     id: "bulgaria-mesta-valley-relief-v2",
     type: "valley",
@@ -703,8 +684,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Meszta-völgy hossza Bulgáriában: 80 km.", "Meszta folyó hossza: 230 km.", "Átlagos szélesség: 3 km.", "Lakosság: 100 000.", "Átlagmagasság: 800 m.", "Éves csapadék: 600 mm."],
       ro: ["Lungimea văii Mesta în Bulgaria: 80 km.", "Lungimea râului Mesta: 230 km.", "Lățimea medie: 3 km.", "Populație: 100.000.", "Altitudine medie: 800 m.", "Precipitații anuale: 600 mm."],
       en: ["Length of Mesta Valley in Bulgaria: 80 km.", "Length of Mesta River: 230 km.", "Average width: 3 km.", "Population: 100,000.", "Average elevation: 800 m.", "Annual precipitation: 600 mm."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-mesta-valley-relief-v2.webp"},
   {
     id: "bulgaria-tundzha-valley-relief-v2",
     type: "valley",
@@ -735,8 +715,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Tundzsa-völgy hossza: 150 km.", "Folyó hossza: 350 km.", "Völgy szélessége: 10–30 km.", "Lakosság: 300 000.", "Átlagmagasság: 150 m.", "Éves csapadék: 500 mm."],
       ro: ["Lungimea văii Tundzha: 150 km.", "Lungimea râului: 350 km.", "Lățimea văii: 10–30 km.", "Populație: 300.000.", "Altitudine medie: 150 m.", "Precipitații anuale: 500 mm."],
       en: ["Length of Tundzha Valley: 150 km.", "River length: 350 km.", "Valley width: 10–30 km.", "Population: 300,000.", "Average elevation: 150 m.", "Annual precipitation: 500 mm."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-tundzha-valley-relief-v2.webp"},
   {
     id: "bulgaria-pirin-foothills-relief-v2",
     type: "mountain",
@@ -767,8 +746,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Magasság: 400–800 m.", "Szőlőültetvények területe: 50 km².", "Átlagos évi hőmérséklet: 12 °C.", "Borászatok száma: 20.", "Lakosság: 20 000.", "Éves napfényes órák: 2500."],
       ro: ["Altitudine: 400–800 m.", "Suprafață viticolă: 50 km².", "Temperatura medie anuală: 12 °C.", "Număr de crame: 20.", "Populație: 20.000.", "Ore de soare anuale: 2.500."],
       en: ["Elevation: 400–800 m.", "Vineyard area: 50 km².", "Average annual temperature: 12 °C.", "Number of wineries: 20.", "Population: 20,000.", "Annual sunshine hours: 2,500."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-pirin-foothills-relief-v2.webp"},
   {
     id: "bulgaria-rhodope-plateau-relief-v2",
     type: "mountain",
@@ -799,8 +777,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Átlagmagasság: 1200 m.", "Terület: 3000 km².", "Erdősültség: 80%.", "Népsűrűség: 10 fő/km².", "Átlagos csapadék: 800 mm.", "Menedékházak száma: 30."],
       ro: ["Altitudine medie: 1.200 m.", "Suprafață: 3.000 km².", "Procent de pădure: 80%.", "Densitatea populației: 10 locuitori/km².", "Precipitații medii: 800 mm.", "Număr de cabane: 30."],
       en: ["Average elevation: 1,200 m.", "Area: 3,000 km².", "Forest cover: 80%.", "Population density: 10/km².", "Average precipitation: 800 mm.", "Number of mountain huts: 30."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-rhodope-plateau-relief-v2.webp"},
   {
     id: "bulgaria-balkan-foothills-relief-v2",
     type: "mountain",
@@ -831,8 +808,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Magasság: 200–500 m.", "Előhegyek hossza: 400 km.", "Mezőgazdasági terület: 4000 km².", "Lakosság: 500 000.", "Átlagos évi hőmérséklet: 11 °C.", "Gyümölcstermelés: 200 000 tonna/év."],
       ro: ["Altitudine: 200–500 m.", "Lungimea dealurilor: 400 km.", "Suprafață agricolă: 4.000 km².", "Populație: 500.000.", "Temperatura medie anuală: 11 °C.", "Producția de fructe: 200.000 tone/an."],
       en: ["Elevation: 200–500 m.", "Length of foothills: 400 km.", "Agricultural land: 4,000 km².", "Population: 500,000.", "Average annual temperature: 11 °C.", "Fruit production: 200,000 tons/year."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-balkan-foothills-relief-v2.webp"},
   {
     id: "bulgaria-strumski-plain-relief-v2",
     type: "valley",
@@ -863,8 +839,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Síkság magassága: 200–400 m.", "Terület: 500 km².", "Lakosság: 200 000.", "Termálforrások száma: 12.", "Éves csapadék: 600 mm.", "Dohánytermelés: 5000 tonna/év."],
       ro: ["Altitudinea câmpiei: 200–400 m.", "Suprafață: 500 km².", "Populație: 200.000.", "Număr de izvoare termale: 12.", "Precipitații anuale: 600 mm.", "Producția de tutun: 5.000 tone/an."],
       en: ["Plain elevation: 200–400 m.", "Area: 500 km².", "Population: 200,000.", "Number of thermal springs: 12.", "Annual precipitation: 600 mm.", "Tobacco production: 5,000 tons/year."],
-    },
-  },
+    }, image: "/poi-images/bulgaria-strumski-plain-relief-v2.webp"},
   {
     id: "bulgaria-sredna-gora-ridge-relief-v2",
     type: "mountain",
@@ -895,8 +870,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["A Sredna Gora hossza: kb. 200 km", "Legmagasabb csúcs: Goljam Bogdan (1577 m)", "Átlagos magasság: 800-1000 m", "Terület: kb. 4500 km²", "Legnagyobb folyó: Topolnica (hossza 70 km)", "Termálforrások hőmérséklete: 35-45 °C"],
       ro: ["Lungimea Sredna Gora: aprox. 200 km", "Vârf principal: Golyam Bogdan (1577 m)", "Altitudine medie: 800-1000 m", "Suprafață: 4.500 km²", "Cea mai mare așezare: Panagyurishte (populație ~20.000)", "Resurse minerale: peste 100 de situri miniere antice"],
       en: ["Length of Sredna Gora: approx. 200 km", "Highest peak: Golyam Bogdan (1577 m)", "Average elevation: 800-1000 m", "Area: 4,500 km²", "Largest town: Panagyurishte (population ~20,000)", "Number of thermal springs: over 30"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-sredna-gora-ridge-relief-v2.webp"},
   {
     id: "bulgaria-strandzha-ridge-relief-v2",
     type: "mountain",
@@ -927,8 +901,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Legmagasabb pont: Golyamo Gradishte (710 m)", "Hossz: kb. 100 km", "Nemzeti park területe: 1161 km²", "Átlagos éves csapadék: 600-800 mm", "Legnagyobb település: Malko Tarnovo (lakosság ~2500)", "Védett növényfajok száma: 37"],
       ro: ["Altitudine maximă: 710 m (Golyamo Gradishte)", "Lungime: aprox. 100 km", "Suprafața parcului național: 1.161 km²", "Anul înființării parcului: 1995", "Precipitații medii anuale: 600-800 mm", "Numărul de peșteri: peste 50"],
       en: ["Highest point: Golyamo Gradishte (710 m)", "Length: approx. 100 km", "Nature park area: 1,161 km²", "Year park established: 1995", "Average annual rainfall: 600-800 mm", "Number of caves: over 50"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-strandzha-ridge-relief-v2.webp"},
   {
     id: "bulgaria-osogovo-valley-relief-v2",
     type: "valley",
@@ -959,8 +932,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 500-800 m", "Hossz: kb. 50 km", "Szélesség: 10-20 km", "Éves csapadék: 600-700 mm", "Januári átlaghőmérséklet: -2 °C", "Kjusztendil lakossága: kb. 40.000"],
       ro: ["Altitudine: 500-800 m", "Lungime: aprox. 50 km", "Lățime: 10-20 km", "Precipitații anuale: 600-700 mm", "Temperatura medie în ianuarie: -2 °C", "Populația orașului Kiustendil: 40.000"],
       en: ["Elevation range: 500-800 m", "Length: approx. 50 km", "Width: 10-20 km", "Annual precipitation: 600-700 mm", "Average January temperature: -2 °C", "Population of Kyustendil: 40,000"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-osogovo-valley-relief-v2.webp"},
   {
     id: "bulgaria-balkan-gorge-relief-v2",
     type: "valley",
@@ -991,8 +963,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Az Iskar-szurdok hossza: kb. 70 km", "A sziklafalak magassága: 300 m", "A Duhlata-barlang hossza: 18 km", "Barlangok száma a körzetben: több mint 100", "A vasútvonal hossza a szurdokon át: kb. 70 km", "A vasútvonal építési éve: 1899"],
       ro: ["Lungimea Cheilor Iskărului: aprox. 70 km", "Înălțimea pereților: până la 300 m", "Lungimea peșterii Duhlata: 18 km", "Numărul de peșteri din zonă: peste 100", "Lungimea căii ferate prin chei: aprox. 70 km", "Anul construirii căii ferate: 1899"],
       en: ["Length of Iskar Gorge: approx. 70 km", "Cliff height: up to 300 m", "Length of Duhlata cave: 18 km", "Number of caves in the area: over 100", "Railway length through gorge: approx. 70 km", "Year railway built: 1899"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-balkan-gorge-relief-v2.webp"},
   {
     id: "bulgaria-rhodope-foothills-relief-v2",
     type: "mountain",
@@ -1023,8 +994,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 200-600 m", "Átmeneti zóna szélessége: kb. 30 km", "Júliusi átlaghőmérséklet: 25 °C", "Éves csapadék: 500-600 mm", "Népsűrűség: kb. 50 fő/km²", "Mezőgazdasági terület aránya: 60%"],
       ro: ["Altitudine: 200-600 m", "Lățimea zonei de tranziție: aprox. 30 km", "Temperatura medie în iulie: 25 °C", "Precipitații anuale: 500-600 mm", "Densitatea populației: 50 locuitori/km²", "Procentaj teren agricol: 60%"],
       en: ["Elevation range: 200-600 m", "Width of transition zone: approx. 30 km", "Average July temperature: 25 °C", "Annual precipitation: 500-600 mm", "Population density: 50 inhabitants/km²", "Agricultural land percentage: 60%"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-rhodope-foothills-relief-v2.webp"},
   {
     id: "bulgaria-stara-planina-plateau-relief-v2",
     type: "mountain",
@@ -1055,8 +1025,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["A fennsík magassága: 1000-1500 m", "Terület: kb. 800 km²", "Januári átlaghőmérséklet: -5 °C", "Éves csapadék: 800-1000 mm", "Juhok száma: kb. 50.000", "Legnagyobb település: Teteven (10.000 lakos)"],
       ro: ["Altitudine: 1000-1500 m", "Suprafață: 800 km²", "Temperatura medie ianuarie: -5 °C", "Precipitații anuale: 800-1000 mm", "Număr de oi: aprox. 50.000", "Cel mai mare oraș: Teteven (10.000 locuitori)"],
       en: ["Altitude: 1000-1500 m", "Area: 800 km²", "Average January temperature: -5 °C", "Annual precipitation: 800-1000 mm", "Sheep population: approx. 50,000", "Largest settlement: Teteven (10,000 inhabitants)"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-stara-planina-plateau-relief-v2.webp"},
   {
     id: "bulgaria-pirin-valleys-relief-v2",
     type: "valley",
@@ -1087,8 +1056,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["A völgyek magassága: 500-1000 m", "A Mesta-völgy hossza a Pirinben: kb. 80 km", "Éves napfényes órák: 250 felett", "Bansko síliftekkel: 18 darab", "A síterep magassága: 2560 m-ig", "Januári átlaghőmérséklet: -1 °C"],
       ro: ["Altitudine văi: 500-1000 m", "Lungimea văii Mesta în Pirin: aprox. 80 km", "Zile însorite pe an: peste 250", "Număr de teleschiuri la Bansko: 18", "Altitudinea domeniului schiabil: până la 2560 m", "Temperatura medie ianuarie: -1 °C"],
       en: ["Valley elevation: 500-1000 m", "Length of Mesta valley in Pirin: approx. 80 km", "Annual sunny days: over 250", "Chairlifts in Bansko: 18", "Ski area altitude: up to 2560 m", "Average January temperature: -1 °C"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-pirin-valleys-relief-v2.webp"},
   {
     id: "bulgaria-strumski-canyon-narrow-relief-v2",
     type: "valley",
@@ -1119,8 +1087,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["A szurdok hossza: kb. 30 km", "Maximális mélység: 400 m", "Legszélesebb szakasz: kb. 50 m", "Sziklafalak magassága: 200 m-ig", "A Sztuma nyári vízhőmérséklete: 10-15 °C", "Nevestino lakossága: kb. 500"],
       ro: ["Lungimea cheilor: aprox. 30 km", "Adâncime maximă: 400 m", "Lățime minimă: 50 m", "Înălțimea pereților: până la 200 m", "Temperatura apei râului Struma vara: 10-15 °C", "Populația satului Nevestino: 500"],
       en: ["Gorge length: approx. 30 km", "Maximum depth: 400 m", "Width at narrowest: about 50 m", "Cliff height: up to 200 m", "Summer water temperature of Struma: 10-15 °C", "Population of Nevestino: about 500"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-strumski-canyon-narrow-relief-v2.webp"},
   {
     id: "bulgaria-rhodope-ridge-relief-v2",
     type: "mountain",
@@ -1183,8 +1150,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["A völgyek magassága: 400-800 m", "A Trojan-völgy hossza: kb. 40 km", "A Trojan-kolostor alapítási éve: 1600", "Méhkaptárak száma: több mint 10.000", "Trojan lakossága: kb. 20.000", "Júliusi átlaghőmérséklet: 20 °C"],
       ro: ["Altitudine văi: 400-800 m", "Lungimea Văii Troyan: aprox. 40 km", "Anul fondării Mănăstirii Troyan: 1600", "Număr de stupi: peste 10.000", "Populația orașului Troyan: 20.000", "Temperatura medie iulie: 20 °C"],
       en: ["Valley elevation: 400-800 m", "Length of Troyan valley: approx. 40 km", "Year Troyan Monastery founded: 1600", "Number of beehives: over 10,000", "Population of Troyan: 20,000", "Average July temperature: 20 °C"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-balkan-valleys-relief-v2.webp"},
   {
     id: "bulgaria-pirin-plateau-relief-v2",
     type: "mountain",
@@ -1247,8 +1213,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["A Trigrad-szurdok mélysége: 300 m", "A Trigrad-szurdok hossza: kb. 7 km", "Az Ördög-torkában lévő vízesés magassága: 42 m", "A Trigrad-Jagodina rezervátum alapításának éve: 1978", "Barlangok száma a területen: több mint 30", "Júliusi átlaghőmérséklet: 15 °C"],
       ro: ["Adâncimea Cheilor Trigrad: 300 m", "Lungimea Cheilor Trigrad: aprox. 7 km", "Înălțimea cascadei din Peștera Diavolului: 42 m", "Anul înființării rezervației Trigrad-Iagodina: 1978", "Număr de peșteri în zonă: peste 30", "Temperatura medie iulie: 15 °C"],
       en: ["Depth of Trigrad Gorge: 300 m", "Length of Trigrad Gorge: approx. 7 km", "Height of waterfall in Devil's Throat Cave: 42 m", "Year Trigrad-Yagodina reserve established: 1978", "Number of caves in area: over 30", "Average July temperature: 15 °C"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-rodope-gorge-relief-v2.webp"},
   {
     id: "bulgaria-stara-planina-ridge-relief-v2",
     type: "mountain",
@@ -1279,8 +1244,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["A főgerinc hossza: 530 km", "Legmagasabb csúcs: Botev (2376 m)", "A Közép-Balkán Nemzeti Park területe: 720 km²", "A park alapításának éve: 1991", "2000 m feletti csúcsok száma: kb. 30", "A gerinc maximális szélessége: 50 km"],
       ro: ["Lungimea crestei principale: 530 km", "Cel mai înalt vârf: Botev (2376 m)", "Suprafața Parcului Național Balcanul Central: 720 km²", "Anul înființării parcului: 1991", "Numărul vârfurilor peste 2000 m: 30", "Lățimea maximă a crestei: 50 km"],
       en: ["Length of main ridge: 530 km", "Highest peak: Botev (2376 m)", "Area of Central Balkan National Park: 720 km²", "Year park established: 1991", "Number of peaks over 2000 m: 30", "Maximum ridge width: 50 km"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-stara-planina-ridge-relief-v2.webp"},
   {
     id: "bulgaria-osogovo-ridge-high-relief-v2",
     type: "mountain",
@@ -1311,8 +1275,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["A főgerinc hossza: kb. 100 km", "Legmagasabb csúcs: Ruen (2251 m)", "Fahatár: 1800 m", "Az Oszogovo-hegység területe: kb. 1200 km²", "Januári átlaghőmérséklet: -4 °C", "2000 m feletti csúcsok száma: 5"],
       ro: ["Lungimea crestei principale: aprox. 100 km", "Cel mai înalt vârf: Ruen (2251 m)", "Limita pădurii: 1800 m", "Suprafața Munților Osogovo: 1.200 km²", "Temperatura medie ianuarie: -4 °C", "Numărul vârfurilor peste 2000 m: 5"],
       en: ["Length of main ridge: approx. 100 km", "Highest peak: Ruen (2251 m)", "Tree line: 1800 m", "Area of Osogovo Mountains: 1,200 km²", "Average January temperature: -4 °C", "Number of peaks over 2000 m: 5"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-osogovo-ridge-high-relief-v2.webp"},
   {
     id: "bulgaria-struma-basin-relief-v2",
     type: "valley",
@@ -1343,8 +1306,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["A medence magassága: 200-400 m", "Hossz: kb. 150 km", "Blagoevgrad lakossága: kb. 70.000", "Szandanszki termálforrásainak száma: több mint 20", "Éves napfényes napok Szandanszkiban: kb. 280", "Júliusi átlaghőmérséklet: 28 °C"],
       ro: ["Altitudinea bazinului: 200-400 m", "Lungime: aprox. 150 km", "Populația Blagoevgrad: 70.000", "Numărul de izvoare termale în Sandanski: peste 20", "Zile însorite pe an în Sandanski: 280", "Temperatura medie iulie: 28 °C"],
       en: ["Basin elevation: 200-400 m", "Length: approx. 150 km", "Population of Blagoevgrad: 70,000", "Number of thermal springs in Sandanski: over 20", "Annual sunny days in Sandanski: about 280", "Average July temperature: 28 °C"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-struma-basin-relief-v2.webp"},
   {
     id: "bulgaria-balkan-plateau-high-relief-v2",
     type: "mountain",
@@ -1407,8 +1369,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["A völgyek magassága: 200-500 m", "Az Arda-völgy hossza a Rodopekben: kb. 200 km", "A Kardzsali-víztározó építési éve: 1962", "Kardzsali lakossága: kb. 50.000", "Éves csapadék: 500-600 mm", "Júliusi átlaghőmérséklet: 25 °C"],
       ro: ["Altitudine văi: 200-500 m", "Lungimea văii Arda în Rodopi: aprox. 200 km", "Anul construirii barajului Kardzhali: 1962", "Populația orașului Kardzhali: 50.000", "Precipitații anuale: 500-600 mm", "Temperatura medie iulie: 25 °C"],
       en: ["Valley elevation: 200-500 m", "Length of Arda valley in Rhodopes: approx. 200 km", "Year Kardzhali Dam built: 1962", "Population of Kardzhali: 50,000", "Annual precipitation: 500-600 mm", "Average July temperature: 25 °C"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-rhodope-valleys-low-relief-v2.webp"},
   {
     id: "bulgaria-stara-planina-valleys-relief-v2",
     type: "valley",
@@ -1439,8 +1400,7 @@ export const bulgariaReliefV2: POI[] = [
       hu: ["A völgyek maximális mélysége: 1000 m", "Az Iskar-áttörés hossza: kb. 70 km", "A Belogradcsik-sziklák magassága: 200 m-ig", "Hágók száma a régióban: több mint 20", "Januári átlaghőmérséklet: -3 °C", "Belogradcsik lakossága: kb. 5.000"],
       ro: ["Adâncimea maximă a văilor: 1000 m", "Lungimea Cheilor Iskărului: aprox. 70 km", "Înălțimea stâncilor Belogradchik: până la 200 m", "Numărul trecătorilor în regiune: peste 20", "Temperatura medie ianuarie: -3 °C", "Populația Belogradchik: 5.000"],
       en: ["Maximum valley depth: 1000 m", "Length of Iskar Gorge: approx. 70 km", "Height of Belogradchik rocks: up to 200 m", "Number of passes in region: over 20", "Average January temperature: -3 °C", "Population of Belogradchik: 5,000"],
-    },
-  },
+    }, image: "/poi-images/bulgaria-stara-planina-valleys-relief-v2.webp"},
   {
     id: "bulgaria-pirin-ridge-low-relief-v2",
     type: "mountain",

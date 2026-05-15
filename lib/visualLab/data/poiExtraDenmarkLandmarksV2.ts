@@ -31,8 +31,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["Épült: 1750 és 1760 között", "Építész: Nicolai Eigtved", "Tér formája: Nyolcszögletű", "Szobor: V. Frigyes lovasszobra"],
       ro: ["Construcție: 1750-1760", "Arhitect: Nicolai Eigtved", "Piață: Formă octogonală", "Statuie: Frederic al V-lea (1771)"],
       en: ["Built: 1750-1760", "Architect: Nicolai Eigtved", "Square: Octagonal layout", "Statue: Frederick V (1771)"],
-    },
-  },
+    }, image: "/poi-images/denmark-amalienborg-palace-landmarks-v2.webp"},
   {
     id: "denmark-rosenborg-castle-landmarks-v2",
     type: "castle",
@@ -63,8 +62,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["Épült: 1606-1634", "Stílus: Holland reneszánsz", "Kincstár: Koronaékszerek", "Park: Kongens Have (12 hektár)"],
       ro: ["Construcție: 1606-1634", "Stil: Renaștere olandeză", "Tezaur: Bijuteriile Coroanei", "Parc: Kongens Have (12 hectare)"],
       en: ["Built: 1606-1634", "Style: Dutch Renaissance", "Treasure: Crown Jewels", "Park: Kongens Have (12 hectares)"],
-    },
-  },
+    }, image: "/poi-images/denmark-rosenborg-castle-landmarks-v2.webp"},
   {
     id: "denmark-christiansborg-palace-landmarks-v2",
     type: "palace",
@@ -95,8 +93,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["Torony magassága: 106 méter", "Újjáépítés: 1907-1928 között", "Kárpitok: 17 modern faliszőnyeg", "Képviselők: 179 parlamenti hely"],
       ro: ["Înălțime turn: 106 metri", "Reconstrucție: 1907-1928", "Tapiserii: 17 de Bjørn Nørgaard", "Parlament: 179 de membri"],
       en: ["Tower height: 106 meters", "Reconstruction: 1907-1928", "Tapestries: 17 by Bjørn Nørgaard", "Seats: 179 Folketing members"],
-    },
-  },
+    }, image: "/poi-images/denmark-christiansborg-palace-landmarks-v2.webp"},
   {
     id: "denmark-vor-frelsers-kirke-landmarks-v2",
     type: "church",
@@ -127,8 +124,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["Torony magassága: 90 méter", "Lépcsők: 400 (150 kívül)", "Harangjáték: 48 bronzharang", "Orgona: 1698-as barokk homlokzat"],
       ro: ["Înălțime turn: 90 metri", "Trepte: 400 (150 exterioare)", "Carillon: 48 clopote de bronz", "Orgă: Fațadă barocă din 1698"],
       en: ["Tower height: 90 meters", "Steps: 400 (150 external)", "Carillon: 48 bronze bells", "Organ: Baroque facade from 1698"],
-    },
-  },
+    }, image: "/poi-images/denmark-vor-frelsers-kirke-landmarks-v2.webp"},
   {
     id: "denmark-grundtvig-church-landmarks-v2",
     type: "church",
@@ -159,8 +155,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["A templom tornya 49 méter magas.", "Építéséhez 6 millió sárga téglát használtak fel.", "Peder Vilhelm Jensen-Klint tervezte 1913-ban.", "A főhajó 76 méter hosszú és 22 méter magas.", "Az épület 1940-ben készült el teljesen.", "A belső térben 1440 ülőhely található."],
       ro: ["Turnul vestic atinge o înălțime de 49 de metri.", "Arhitectul Peder Klint a câștigat concursul în 1913.", "Nava principală are o lungime de 76 de metri.", "S-au folosit 6 milioane de cărămizi galbene la construcție.", "Biserica a fost finalizată de fiul arhitectului în 1940.", "Capacitatea maximă a bisericii este de 1440 de locuri."],
       en: ["The west facade reaches a height of 49 meters.", "Approximately 6 million yellow bricks were used.", "The main nave is 76 meters long and 22 meters high.", "Construction lasted from 1921 until 1940.", "Peder Klint won the architectural competition in 1913.", "The church can accommodate 1,440 seated people."],
-    },
-  },
+    }, image: "/poi-images/denmark-grundtvig-church-landmarks-v2.webp"},
   {
     id: "denmark-mariager-abbey-church-landmarks-v2",
     type: "church",
@@ -223,8 +218,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["Alapítva: 1220 körül", "Felújítás: 1892 (historizáló)", "Anyaga: Vörös tégla", "Torony: Késő középkori építés"],
       ro: ["Fondată: Aproximativ 1220", "Renovare: 1892", "Material: Cărămidă roșie", "Turn: Adăugat în evul mediu târziu"],
       en: ["Founded: Around 1220", "Renovation: 1892 (Romanesque style)", "Material: Red brick", "Tower: Late medieval addition"],
-    },
-  },
+    }, image: "/poi-images/denmark-svendborg-church-landmarks-v2.webp"},
   {
     id: "denmark-odense-cathedral-landmarks-v2",
     type: "cathedral",
@@ -255,8 +249,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["Hosszúság: 62 méter", "Felszentelés: 1499-ben", "Oltár: Claus Berg (300 faragvány)", "Sírhely: IV. Kanut (meghalt 1086)"],
       ro: ["Lungime: 62 metri", "Sfințire: 1499", "Altar: Triptic de Claus Berg", "Mormânt: Regele Knud IV (d. 1086)"],
       en: ["Length: 62 meters", "Consecrated: 1499", "Altar: Claus Berg's triptych", "Burial: King Canute IV (died 1086)"],
-    },
-  },
+    }, image: "/poi-images/denmark-odense-cathedral-landmarks-v2.webp"},
   {
     id: "denmark-silkeborg-church-landmarks-v2",
     type: "church",
@@ -383,8 +376,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["A legkorábbi épületrészek a 12. századból származnak.", "A templom tornya 1616 és 1632 között épült.", "A rézzel borított toronysisak 78 méter magasságba nyúlik.", "1585 óta a koppenhágai német közösség használja.", "Az épületet jelentősen megrongálta az 1728-as városi tűzvész.", "Az 1807-es brit bombázások során is súlyos károkat szenvedett."],
       ro: ["Părțile cele mai vechi ale clădirii datează din anii 1100.", "Turnul bisericii a fost înălțat între 1616 și 1632.", "Turla din cupru are o înălțime totală de 78 de metri.", "Biserica a fost cedată comunității germane în anul 1585.", "Incendiul devastator din 1728 a distrus parțial clădirea.", "Bombardamentele din 1807 au provocat de asemenea daune majore."],
       en: ["The oldest sections of the church date to the 12th century.", "The church tower was constructed between 1616 and 1632.", "The copper-clad spire rises to a height of 78 meters.", "It has served the German-speaking congregation since 1585.", "The great fire of Copenhagen in 1728 caused extensive damage.", "The building was heavily damaged again during the 1807 bombardment."],
-    },
-  },
+    }, image: "/poi-images/denmark-sankt-petri-kirke-landmarks-v2.webp"},
   {
     id: "denmark-valdemars-castle-landmarks-v2",
     type: "castle",
@@ -415,8 +407,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["A kastélyt IV. Keresztély építtette 1639 és 1644 között.", "Niels Juel admirális 1678-ban szerezte meg az épületet.", "Az épület eredetileg reneszánsz stílusban épült.", "A 18. században barokk stílusú átalakításokon esett át.", "A kastélyhoz tartozó birtok mintegy 400 hektáron terül el.", "A komplexumban tengerészeti és vadászati múzeum működik."],
       ro: ["Construcția castelului a avut loc între 1639 și 1644.", "Amiralul Niels Juel a primit proprietatea în anul 1678.", "Clădirea a fost remodelată în stil baroc în secolul al XVIII-lea.", "Moșia castelului acoperă o suprafață de aproximativ 400 de hectare.", "Castelul este amplasat pe insula Tåsinge, având 70 km².", "În prezent găzduiește un muzeu maritim și unul de vânătoare."],
       en: ["King Christian IV commissioned the castle from 1639 to 1644.", "Naval hero Niels Juel acquired the estate in 1678.", "Originally Renaissance, it was remodeled in Baroque style in the 1750s.", "The castle estate comprises approximately 400 hectares of land.", "It is located on Tåsinge island, which spans 70 square kilometers.", "The premises now house a maritime and trophy hunting museum."],
-    },
-  },
+    }, image: "/poi-images/denmark-valdemars-castle-landmarks-v2.webp"},
   {
     id: "denmark-bolling-castle-landmarks-v2",
     type: "ruins",
@@ -447,8 +438,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["Építés ideje: 14. század", "Típus: vízivár", "Terület: 2,5 hektár", "Ásatások: 1880", "Leletek: kerámia, fegyverek", "Védettség: föld alatti műemlék"],
       ro: ["Perioada de construcție: secolul al XIV-lea", "Tip: castel de apă", "Suprafață: 2,5 ha", "Săpături: 1880", "Artefacte: ceramică, arme", "Statut: monument subteran"],
       en: ["Construction period: 14th century", "Type: water castle", "Area: 2.5 ha", "Excavations: 1880", "Finds: pottery, weapons", "Protection status: archaeological monument"],
-    },
-  },
+    }, image: "/poi-images/denmark-bolling-castle-landmarks-v2.webp"},
   {
     id: "denmark-vor-frelser-tower-landmarks-v2",
     type: "tower",
@@ -479,8 +469,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["A torony teljes magassága 90 méter.", "A híres külső csigalépcsőt 1752-ben fejezték be.", "A csúcs eléréséhez összesen 400 lépcsőfokot kell megmászni.", "Az utolsó 150 lépcsőfok az épület külső részén fut.", "A tornyot Lauritz de Thurah dán építész tervezte.", "A tetején lévő aranyozott gömbön Krisztus szobra áll."],
       ro: ["Turnul atinge o înălțime impresionantă de 90 de metri.", "Scara spiralată exterioară a fost finalizată în 1752.", "Există 400 de trepte de la bază până la vârful turnului.", "Ultimele 150 de trepte sunt situate în exterior.", "Arhitectul Lauritz de Thurah a proiectat această turlă.", "Statuia aurită a lui Hristos de pe vârf are 3 metri înălțime."],
       en: ["The tower stands at a total height of 90 meters.", "Its distinctive external spiral staircase was completed in 1752.", "There are exactly 400 steps leading to the very top.", "The final 150 steps wind around the outside of the spire.", "The spire was designed by Danish architect Lauritz de Thurah.", "The gilded globe at the summit measures 2.5 meters in diameter."],
-    },
-  },
+    }, image: "/poi-images/denmark-vor-frelser-tower-landmarks-v2.webp"},
   {
     id: "denmark-aarhus-city-hall-landmarks-v2",
     type: "landmark",
@@ -511,8 +500,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["A városházát 1941. július 2-án adták át hivatalosan.", "A jellegzetes óratorony 60 méter magas.", "Az épület homlokzatát norvég márvány borítja.", "Az építészek 1937-ben nyerték meg a tervpályázatot.", "A komplexum alapterülete megközelítőleg 19 400 négyzetméter.", "A toronyórának két, 3,2 méter átmérőjű számlapja van."],
       ro: ["Clădirea primăriei a fost inaugurată la 2 iulie 1941.", "Turnul cu ceas atinge o înălțime de 60 de metri.", "Fațada este placată cu marmură adusă din Norvegia.", "Proiectul a câștigat un concurs de arhitectură în 1937.", "Suprafața totală a clădirii este de aproximativ 19.400 mp.", "Ceasurile din turn au un diametru de 3,2 metri."],
       en: ["The city hall was officially inaugurated on July 2, 1941.", "The building's iconic clock tower is 60 meters tall.", "The exterior facade is clad in Porsgrunn marble from Norway.", "The architectural competition was won in 1937.", "The total floor area covers approximately 19,400 square meters.", "The clock faces on the tower measure 3.2 meters in diameter."],
-    },
-  },
+    }, image: "/poi-images/denmark-aarhus-city-hall-landmarks-v2.webp"},
   {
     id: "denmark-kobenhavn-borsen-landmarks-v2",
     type: "landmark",
@@ -543,8 +531,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["Épült 1619 és 1640 között", "A sárkánytorony magassága 56 méter", "Holland reneszánsz stílusú épület", "2024 áprilisában súlyos tűzvész pusztított"],
       ro: ["Construită între 1619 și 1640", "Turla are o înălțime de 56 metri", "Găzduiește Camera de Comerț daneză", "Incendiu devastator în aprilie 2024"],
       en: ["Built between 1619 and 1640", "The Dragon Spire is 56 meters high", "Dutch Renaissance architectural style", "Severe fire damage occurred in April 2024"],
-    },
-  },
+    }, image: "/poi-images/denmark-kobenhavn-borsen-landmarks-v2.webp"},
   {
     id: "denmark-kastellet-landmarks-v2",
     type: "landmark",
@@ -575,8 +562,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["Az erőd építését IV. Keresztély kezdte meg 1626-ban.", "A létesítmény alaprajza ötszögletű, öt bástyával.", "Az 1658-as svéd ostrom után Henrik Ruse holland mérnök átépítette.", "A területen található szélmalom 1847-ben épült.", "A helyőrségi templomot 1704-ben szentelték fel.", "Az erődítmény területe nagyjából 18 hektárt foglal magában."],
       ro: ["Construcția fortăreței a fost inițiată în anul 1626.", "Fortăreața are forma unui pentagon cu cinci bastioane.", "A fost reconstruită de inginerul Henrik Ruse după 1658.", "Biserica garnizoanei, Kastelskirken, a fost sfințită în 1704.", "Moara de vânt actuală de pe bastion datează din 1847.", "Complexul fortificat acoperă o suprafață de 18 hectare."],
       en: ["King Christian IV initiated the fortress construction in 1626.", "It is laid out as a continuous pentagon with five bastions.", "Dutch engineer Henrik Ruse rebuilt it following the 1658 siege.", "The garrison church, Kastelskirken, was consecrated in 1704.", "A Dutch-style windmill from 1847 stands on the King's Bastion.", "The entire citadel complex covers an area of roughly 18 hectares."],
-    },
-  },
+    }, image: "/poi-images/denmark-kastellet-landmarks-v2.webp"},
   {
     id: "denmark-roskilde-museum-landmarks-v2",
     type: "museum",
@@ -607,8 +593,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["A székhely az 1763-as Cukorház", "Jelentős középkori kerámiagyűjtemény", "A Liebe-udvar 1804-ben épült", "A ROMU múzeumi szövetség tagja"],
       ro: ["Sediul în Sukkerhuset din 1763", "Colecție vastă de ceramică locală", "Liebes Gård datează din anul 1804", "Parte a rețelei muzeale ROMU"],
       en: ["Based in the 1763 Sugar House", "Extensive medieval pottery collection", "Liebes Gård dates back to 1804", "Member of the ROMU museum group"],
-    },
-  },
+    }, image: "/poi-images/denmark-roskilde-museum-landmarks-v2.webp"},
   {
     id: "denmark-den-gamle-by-landmarks-v2",
     type: "museum",
@@ -639,8 +624,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["A szabadtéri múzeumot 1914-ben nyitották meg a nagyközönség előtt.", "Több mint 75 történelmi gerendavázas házat állítottak itt fel.", "Az épületek 20 különböző dániai településről származnak.", "A gyűjtemény legrégebbi háza körülbelül 1550-ben épült.", "A múzeum alapját egy 1597-ből származó polgármesteri ház adta.", "A múzeum területe mintegy 5 hektárt ölel fel Aarhus központjában."],
       ro: ["Muzeul în aer liber Den Gamle By a fost inaugurat în 1914.", "Colecția include peste 75 de case istorice pe structură de lemn.", "Clădirile au fost relocate din 20 de orașe daneze diferite.", "Cea mai veche structură din muzeu datează din anul 1550.", "Casa primarului din 1597 a fost prima clădire a muzeului.", "Complexul muzeal ocupă o suprafață de aproximativ 5 hectare."],
       en: ["The Den Gamle By open-air museum was established in 1914.", "It features more than 75 relocated timber-framed houses.", "The historic structures originate from 20 different Danish towns.", "The oldest building in the museum's collection dates to 1550.", "The 1597 Mayor's House was the founding structure of the museum.", "The museum grounds cover an area of approximately 5 hectares."],
-    },
-  },
+    }, image: "/poi-images/denmark-den-gamle-by-landmarks-v2.webp"},
   {
     id: "denmark-thorvaldsen-museum-landmarks-v2",
     type: "museum",
@@ -671,8 +655,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["A múzeum 1848. szeptember 18-án nyitotta meg kapuit.", "Ez volt Dánia legelső nyilvános múzeumi épülete.", "Az épületet Michael Gottlieb Bindesbøll építész tervezte.", "Bertel Thorvaldsen 1837-ben adományozta műveit Koppenhágának.", "A gyűjtemény mintegy 900 eredeti szobrot és modellt tartalmaz.", "A szobrászművész sírja a múzeum belső udvarán található."],
       ro: ["Muzeul Thorvaldsen a fost deschis pe 18 septembrie 1848.", "Este considerat primul muzeu public înființat în Danemarca.", "Clădirea a fost proiectată de arhitectul Michael Gottlieb Bindesbøll.", "Sculptorul și-a donat întreaga colecție orașului în 1837.", "Muzeul expune aproximativ 900 de opere de artă ale artistului.", "Bertel Thorvaldsen este înmormântat în curtea interioară a muzeului."],
       en: ["The Thorvaldsen Museum officially opened on September 18, 1848.", "It holds the distinction of being Denmark's first public museum.", "Architect Michael Gottlieb Bindesbøll designed the vibrant building.", "Bertel Thorvaldsen donated his works to Copenhagen in 1837.", "The museum displays roughly 900 sculptures and models by the artist.", "Thorvaldsen is buried in the courtyard at the center of the museum."],
-    },
-  },
+    }, image: "/poi-images/denmark-thorvaldsen-museum-landmarks-v2.webp"},
   {
     id: "denmark-koldinghus-ruin-landmarks-v2",
     type: "ruins",
@@ -703,8 +686,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["Építés ideje: 13. század", "Tűzvész éve: 1808", "Torony magassága: 26 méter", "Múzeum területe: 3.000 m²", "Éves látogatók: 200.000", "Védettség: nemzeti műemlék"],
       ro: ["Perioada de construcție: secolul al XIII-lea", "Anul incendiului: 1808", "Înălțimea turnului: 26 m", "Suprafața muzeului: 3.000 m²", "Vizitatori anual: 200.000", "Statut: monument național"],
       en: ["Construction period: 13th century", "Fire year: 1808", "Tower height: 26 m", "Museum area: 3,000 m²", "Annual visitors: 200,000", "Protection status: national monument"],
-    },
-  },
+    }, image: "/poi-images/denmark-koldinghus-ruin-landmarks-v2.webp"},
   {
     id: "denmark-ny-carlsberg-glyptotek-landmarks-v2",
     type: "museum",
@@ -735,8 +717,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["Megnyitva 1897-ben", "Központi télikert pálmafákkal", "Több mint 10 000 műalkotás", "Rodin és Gauguin kiemelkedő művei"],
       ro: ["Deschis publicului în anul 1897", "Grădină de iarnă centrală cu palmieri", "Peste 10.000 de obiecte de artă", "Lucrări majore de Rodin și Gauguin"],
       en: ["Opened to the public in 1897", "Central Winter Garden with palm trees", "Over 10,000 works in the collection", "Significant works by Rodin and Gauguin"],
-    },
-  },
+    }, image: "/poi-images/denmark-ny-carlsberg-glyptotek-landmarks-v2.webp"},
   {
     id: "denmark-old-bridge-little-belt-landmarks-v2",
     type: "bridge",
@@ -767,8 +748,7 @@ export const denmarkLandmarksV2: POI[] = [
       hu: ["A hidat 1935. május 14-én adták át a forgalomnak.", "A teljes acélszerkezet hossza eléri az 1178 métert.", "Az építkezési munkálatok 1929-ben vették kezdetüket.", "A legnagyobb nyílásfesztávolság 220 méter.", "A híd alatti hajózási űrszelvény magassága 33 méter.", "A szerkezeten egy vasútvonal és két közúti sáv halad át."],
       ro: ["Podul a fost inaugurat oficial pe 14 mai 1935.", "Lungimea totală a podului din oțel este de 1.178 de metri.", "Construcția acestei structuri a început în anul 1929.", "Deschiderea centrală maximă măsoară 220 de metri.", "Spațiul liber pentru navigație sub pod este de 33 de metri.", "Podul susține o linie de cale ferată și două benzi rutiere."],
       en: ["The bridge was officially inaugurated on May 14, 1935.", "The total length of the steel truss structure is 1,178 meters.", "Construction on the monumental project began in 1929.", "The longest central span of the bridge measures 220 meters.", "It provides a vertical navigation clearance of 33 meters.", "The deck carries a railway line alongside two lanes for cars."],
-    },
-  },
+    }, image: "/poi-images/denmark-old-bridge-little-belt-landmarks-v2.webp"},
   {
     id: "denmark-storebaelt-bridge-landmarks-v2",
     type: "bridge",

@@ -31,8 +31,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["Nemzeti park 1958 óta.", "Területe 227 km².", "Legmagasabb csúcs: 2255 méter.", "Több mint 1000 növényfaj.", "Több mint 200 madárfaj élőhelye.", "A park 30 km hosszú és 15 km széles."],
       ro: ["Parc național din 1958.", "Suprafață: 227 km².", "Cel mai înalt vârf: 2.255 de metri.", "Peste 1.000 de specii de plante.", "Habitat pentru peste 200 de specii de păsări.", "Parcul are 30 km lungime și 15 km lățime."],
       en: ["National park since 1958.", "Area: 227 km².", "Highest peak: 2,255 meters.", "Over 1,000 plant species.", "Habitat for over 200 bird species.", "The park is 30 km long and 15 km wide."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-galicica-life-v2.webp"},
   {
     id: "northmacedonia-pelister-life-v2",
     type: "park",
@@ -63,8 +62,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["Észak-Macedónia első nemzeti parkja, alapítva 1948-ban.", "Területe 125 km².", "Legmagasabb csúcs: 2601 méter.", "Öt gleccsertó, a legnagyobb 200 méter hosszú.", "A molika fenyő akár 500 évig is élhet.", "A park több mint 80 madárfajnak ad otthont."],
       ro: ["Primul parc național al Macedoniei de Nord, fondat în 1948.", "Suprafață: 125 km².", "Cel mai înalt vârf: 2.601 de metri.", "Cinci lacuri glaciare, cel mai mare având 200 de metri lungime.", "Pinul Molika poate trăi până la 500 de ani.", "Parcul găzduiește peste 80 de specii de păsări."],
       en: ["First national park of North Macedonia, founded in 1948.", "Area: 125 km².", "Highest peak: 2,601 meters.", "Five glacial lakes, the largest is 200 meters long.", "The Molika pine can live up to 500 years.", "The park hosts over 80 bird species."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-pelister-life-v2.webp"},
   {
     id: "northmacedonia-mavrovo-life-v2",
     type: "park",
@@ -95,8 +93,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["Észak-Macedónia legnagyobb nemzeti parkja, alapítva 1949-ben.", "Területe 788 km².", "Legmagasabb csúcs: Golem Korab (2764 m).", "A Mavrovo-tó területe 13,7 km².", "A park több mint 1000 növényfajnak ad otthont.", "A balkáni hiúz populációját 20 egyedre becsülik."],
       ro: ["Cel mai mare parc național al Macedoniei de Nord, fondat în 1949.", "Suprafață: 788 km².", "Cel mai înalt vârf: Golem Korab (2.764 m).", "Lacul Mavrovo are o suprafață de 13,7 km².", "Parcul găzduiește peste 1.000 de specii de plante.", "Populația de râs balcanic este estimată la 20 de indivizi."],
       en: ["Largest national park in North Macedonia, founded in 1949.", "Area: 788 km².", "Highest peak: Golem Korab (2,764 m).", "Lake Mavrovo has an area of 13.7 km².", "The park hosts over 1,000 plant species.", "The Balkan lynx population is estimated at 20 individuals."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-mavrovo-life-v2.webp"},
   {
     id: "northmacedonia-jasen-life-v2",
     type: "wildlife",
@@ -127,8 +124,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["Védett terület 1962 óta.", "Területe 30 km².", "A Treszka-szurdok 20 kilométer hosszú.", "A sziklafalak magassága eléri a 300 métert.", "10 barlang található a rezervátumban.", "A macedón tölgy akár 15 méter magasra is megnőhet."],
       ro: ["Arie protejată din 1962.", "Suprafață: 30 km².", "Cheile Treska au o lungime de 20 de kilometri.", "Pereții stâncoși ating înălțimi de 300 de metri.", "Există 10 peșteri în rezervație.", "Stejarul macedonean poate atinge o înălțime de 15 metri."],
       en: ["Protected area since 1962.", "Area: 30 km².", "The Treska gorge is 20 kilometers long.", "The cliffs reach heights of 300 meters.", "There are 10 caves in the reserve.", "The Macedonian oak can grow up to 15 meters tall."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-jasen-life-v2.webp"},
   {
     id: "northmacedonia-tikves-wetland-life-v2",
     type: "wildlife",
@@ -159,8 +155,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["Védett terület 2003 óta.", "Területe 55 km².", "A Tikves-tó területe 14 km².", "Több mint 600 növényfaj.", "A gát magassága 70 méter.", "A vizes élőhely 200 madárfajnak ad otthont."],
       ro: ["Arie protejată din 2003.", "Suprafață: 55 km².", "Lacul Tikveš are o suprafață de 14 km².", "Peste 600 de specii de plante.", "Barajul are 70 de metri înălțime.", "Zona umedă găzduiește 200 de specii de păsări."],
       en: ["Protected area since 2003.", "Area: 55 km².", "Lake Tikves has an area of 14 km².", "Over 600 plant species.", "The dam is 70 meters high.", "The wetland hosts 200 bird species."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-tikves-wetland-life-v2.webp"},
   {
     id: "northmacedonia-klinc-mountain-life-v2",
     type: "mountain",
@@ -191,8 +186,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["Magassága: 1543 méter.", "Az Ilinska-hegység része.", "Az erdőborítottság 70%.", "A hegy 15 kilométer hosszú.", "Legközelebbi város: Kičevo (10 km-re).", "Az átlaghőmérséklet júliusban 20 °C."],
       ro: ["Înălțime: 1.543 de metri.", "Parte a masivului Ilinska.", "Acoperire forestieră de 70%.", "Muntele are 15 kilometri lungime.", "Cel mai apropiat oraș: Kičevo (la 10 km).", "Temperatura medie în iulie este de 20 °C."],
       en: ["Height: 1,543 meters.", "Part of the Ilinska range.", "Forest cover is 70%.", "The mountain is 15 kilometers long.", "Nearest city: Kičevo (10 km away).", "Average temperature in July is 20 °C."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-klinc-mountain-life-v2.webp"},
   {
     id: "northmacedonia-kozjak-reserve-life-v2",
     type: "forest",
@@ -223,8 +217,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["Védett terület 1962 óta.", "Területe 35 km².", "A Kozjak-tó 30 km hosszú.", "A gát magassága 120 méter.", "A tó térfogata 530 millió köbméter.", "Maximális mélysége 120 méter."],
       ro: ["Arie protejată din 1962.", "Suprafață: 35 km².", "Lacul Kozjak are 30 km lungime.", "Barajul are 120 de metri înălțime.", "Lacul are un volum de 530 de milioane de metri cubi.", "Adâncimea maximă este de 120 de metri."],
       en: ["Protected area since 1962.", "Area: 35 km².", "Lake Kozjak is 30 km long.", "The dam is 120 meters high.", "The lake has a volume of 530 million cubic meters.", "Maximum depth is 120 meters."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-kozjak-reserve-life-v2.webp"},
   {
     id: "northmacedonia-dosnica-river-life-v2",
     type: "valley",
@@ -255,8 +248,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["A folyó 15 kilométer hosszú.", "A Dlaboka-vízesés 30 méter magas.", "A völgy 1200 méteres magasságban fekszik.", "Az erdőborítottság 80%.", "A folyó 600 méteren torkollik a Radikába.", "A völgy több mint 50 madárfajnak ad otthont."],
       ro: ["Râul are 15 kilometri lungime.", "Cascada Dlaboka are 30 de metri înălțime.", "Valea se află la 1.200 de metri altitudine.", "Acoperirea forestieră este de 80%.", "Râul se varsă în Radika la 600 de metri.", "Valea găzduiește peste 50 de specii de păsări."],
       en: ["The river is 15 kilometers long.", "Dlaboka waterfall is 30 meters high.", "The valley lies at 1,200 meters elevation.", "Forest cover is 80%.", "The river joins the Radika at 600 meters.", "The valley hosts over 50 bird species."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-dosnica-river-life-v2.webp"},
   {
     id: "northmacedonia-busova-mountain-life-v2",
     type: "mountain",
@@ -287,8 +279,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["Magassága: 2006 méter.", "A Galičica-hegység része.", "A mászás kb. 4 órát vesz igénybe.", "Tiszta időben a látótávolság 50 km.", "A hegy 10 km-re van Ohridtól.", "Az átlaghőmérséklet januárban -5 °C."],
       ro: ["Înălțime: 2.006 metri.", "Parte a masivului Galičica.", "Ascensiunea durează aproximativ 4 ore.", "Vizibilitatea pe vreme senină este de 50 km.", "Muntele se află la 10 km de Ohrid.", "Temperatura medie în ianuarie este de -5 °C."],
       en: ["Height: 2,006 meters.", "Part of the Galičica range.", "The climb takes about 4 hours.", "Visibility on a clear day is 50 km.", "The mountain is 10 km from Ohrid.", "Average temperature in January is -5 °C."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-busova-mountain-life-v2.webp"},
   {
     id: "northmacedonia-crn-drin-reserve-life-v2",
     type: "river",
@@ -383,8 +374,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["A szurdok hossza körülbelül 15 km.", "Legnagyobb mélysége meghaladja az 500 métert.", "A sziklák mezozoós mészkőből állnak.", "A Via Egnatia történelmileg a szurdokon át haladt.", "Több mint 30 mászóútvonal található itt.", "A Peshna-barlang hossza 128 méter."],
       ro: ["Canionul are aproximativ 15 km lungime.", "Adâncimea maximă depășește 500 m.", "Pereții sunt formați din calcar mezozoic.", "Via Egnatia trecea istoric prin canion.", "Există peste 30 de trasee de cățărare.", "Peștera Peshna are 128 m lungime."],
       en: ["The canyon is approximately 15 km long.", "Its maximum depth exceeds 500 meters.", "The walls are composed of Mesozoic limestone.", "The Via Egnatia historically passed through the canyon.", "There are over 30 climbing routes in the canyon.", "Peshna Cave is 128 meters long."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-babuna-canyon-life-v2.webp"},
   {
     id: "northmacedonia-belasica-life-v2",
     type: "mountain",
@@ -447,8 +437,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["A vizes élőhely területe 5 km².", "Több mint 200 madárfajt regisztráltak Blatóban.", "A borzas gödény körülbelül 30 párban költ itt.", "A vízmélység 0,5 és 2 méter között változik.", "Az éves csapadékmennyiség a régióban körülbelül 700 mm.", "A nádasok magassága elérheti a 3 métert."],
       ro: ["Suprafața zonei umede este de 5 km².", "Peste 200 de specii de păsări sunt înregistrate în Blato.", "Pelicanul creț cuibărește aici cu aproximativ 30 de perechi.", "Adâncimea apei variază între 0,5 și 2 metri.", "Precipitațiile anuale în regiune sunt de aproximativ 700 mm.", "Stufărișurile pot atinge 3 metri înălțime."],
       en: ["The wetland area is 5 km².", "Over 200 bird species are recorded in Blato.", "Dalmatian pelican breeds here with about 30 pairs.", "Water depth varies between 0.5 and 2 meters.", "Annual precipitation in the region is about 700 mm.", "Reed beds can reach up to 3 meters in height."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-blato-wetland-life-v2.webp"},
   {
     id: "northmacedonia-konjuh-forest-life-v2",
     type: "forest",
@@ -479,8 +468,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["Az erdő területe meghaladja a 100 km²-t.", "A tengerszint feletti magasság 400 és 1500 méter között van.", "A bükk az erdő körülbelül 70%-át teszi ki.", "Az Osogovo-imola endemikus növényfaj.", "Körülbelül 20 hiúz él az erdőben.", "Az éves fakitermelés körülbelül 5000 m³."],
       ro: ["Pădurea se întinde pe peste 100 km².", "Altitudinea variază între 400 și 1.500 de metri.", "Fagul reprezintă aproximativ 70% din speciile de arbori.", "Floarea de colț Osogovo este o specie endemică.", "Există o populație de circa 20 de râși în pădure.", "Producția anuală de lemn este de aproximativ 5.000 m³."],
       en: ["The forest covers over 100 km².", "Elevation ranges from 400 to 1,500 meters.", "Beech constitutes about 70% of tree species.", "Osogovo cornflower is an endemic plant species.", "There is a population of about 20 lynx in the forest.", "Annual timber production is approximately 5,000 m³."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-konjuh-forest-life-v2.webp"},
   {
     id: "northmacedonia-skopska-crna-gora-life-v2",
     type: "mountain",
@@ -511,8 +499,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["A hegység észak-déli irányban körülbelül 50 km hosszú.", "A legmagasabb pont a Rusina (1600 m).", "A karsztterület több mint 100 barlangot tartalmaz.", "A legsűrűbb erdők 800 és 1200 méter között találhatók.", "A Treska itt ered, hossza 40 km.", "A Sveti Pantelejmon kolostor 1156-ból származik."],
       ro: ["Munții se întind pe aproximativ 50 km de la nord la sud.", "Cel mai înalt vârf este Rusina, cu 1.600 m.", "Zona carstică are peste 100 de peșteri.", "Cele mai dese păduri se află între 800 și 1.200 m altitudine.", "Râul Treska izvorăște de aici și are 40 km lungime.", "Mănăstirea Sveti Pantelejmon datează din anul 1156."],
       en: ["The range extends about 50 km from north to south.", "The highest peak is Rusina at 1,600 m.", "The karst area contains over 100 caves.", "The densest forests are between 800 and 1,200 m altitude.", "The Treska River originates here and is 40 km long.", "Sveti Pantelejmon Monastery dates from 1156."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-skopska-crna-gora-life-v2.webp"},
   {
     id: "northmacedonia-ostrovo-island-life-v2",
     type: "lake",
@@ -543,8 +530,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["A sziget területe 0,3 km².", "A Sveti Gjorgji templom a 14. században épült.", "A sziget tengerszint feletti magassága 848 m.", "A Prespa-tó körülbelül 4,5 millió éves.", "A szigeten körülbelül 10 állandó lakos él.", "A kormorán-telep körülbelül 200 költőpárból áll."],
       ro: ["Insula are o suprafață de 0,3 km².", "Biserica Sveti Gjorgji a fost construită în secolul al XIV-lea.", "Insula se află la o altitudine de 848 m.", "Lacul Prespa are aproximativ 4,5 milioane de ani.", "Pe insulă trăiesc aproximativ 10 locuitori permanenți.", "Colonia de cormorani numără circa 200 de perechi cuibăritoare."],
       en: ["The island has an area of 0.3 km².", "Sveti Gjorgji Church was built in the 14th century.", "The island lies at 848 m above sea level.", "Lake Prespa is about 4.5 million years old.", "About 10 permanent residents live on the island.", "The cormorant colony numbers about 200 breeding pairs."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-ostrovo-island-life-v2.webp"},
   {
     id: "northmacedonia-galicnik-region-life-v2",
     type: "valley",
@@ -575,8 +561,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["Galicnik falu 1450 méter magasan fekszik.", "Az esküvői fesztivált minden év július 12-én tartják.", "A régiónak körülbelül 500 állandó lakosa van.", "A juhtenyésztés körülbelül 3000 juhot foglal magában.", "A Bistra-hegység legmagasabb pontja 2163 m.", "A kézzel szőtt szőnyegek juhgyapjúból készülnek."],
       ro: ["Satul Galicnik se află la 1.450 m altitudine.", "Festivalul nunții are loc anual pe 12 iulie.", "Regiunea are aproximativ 500 de locuitori permanenți.", "Creșterea oilor include aproximativ 3.000 de oi.", "Munții Bistra ating o altitudine de 2.163 m.", "Covoarele țesute manual sunt făcute din lână de oaie."],
       en: ["Galicnik village lies at 1,450 m altitude.", "The wedding festival is held annually on July 12.", "The region has about 500 permanent residents.", "Sheep farming includes about 3,000 sheep.", "Bistra Mountains reach a height of 2,163 m.", "Handwoven carpets are made from sheep wool."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-galicnik-region-life-v2.webp"},
   {
     id: "northmacedonia-pcinja-valley-life-v2",
     type: "valley",
@@ -607,8 +592,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["A völgy hossza 50 km.", "A völgy átlagos szélessége 5 km.", "A Pcinja folyó hossza 65 km.", "A római település a 2. századból származik.", "Az éves csapadékmennyiség körülbelül 600 mm.", "A Strumicai termálforrások hőmérséklete 28 °C."],
       ro: ["Valea se întinde pe 50 km lungime.", "Lățimea medie a văii este de 5 km.", "Râul Pcinja are o lungime de 65 km.", "Așezarea romană datează din secolul al II-lea d.Hr.", "Precipitațiile anuale sunt de aproximativ 600 mm.", "Izvoarele termale de la Strumica au o temperatură de 28 °C."],
       en: ["The valley stretches over 50 km long.", "Average width of the valley is 5 km.", "The Pcinja River is 65 km long.", "The Roman settlement dates from the 2nd century AD.", "Annual precipitation is about 600 mm.", "Thermal springs at Strumica have a temperature of 28 °C."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-pcinja-valley-life-v2.webp"},
   {
     id: "northmacedonia-serava-valley-life-v2",
     type: "valley",
@@ -639,8 +623,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["A völgy hossza körülbelül 30 km.", "A völgy területe körülbelül 150 km².", "A Serava folyó 25 km hosszú.", "A Šarena Džamija 1495-ben épült.", "Az alma termelés évente körülbelül 10.000 tonna.", "Az átlaghőmérséklet a völgyben 12 °C."],
       ro: ["Valea are aproximativ 30 km lungime.", "Suprafața văii este de circa 150 km².", "Râul Serava are o lungime de 25 km.", "Moscheea Šarena Džamija a fost construită în 1495.", "Producția de mere este de aproximativ 10.000 de tone anual.", "Temperatura medie în vale este de 12 °C."],
       en: ["The valley is about 30 km long.", "The valley area is about 150 km².", "The Serava River is 25 km long.", "Šarena Džamija was built in 1495.", "Apple production is about 10,000 tons annually.", "Average temperature in the valley is 12 °C."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-serava-valley-life-v2.webp"},
   {
     id: "northmacedonia-plackovica-peak-life-v2",
     type: "peak",
@@ -671,8 +654,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["A Plackovica-csúcs magassága 1754 m.", "A hegység hossza 40 km.", "Az erdők a terület körülbelül 80%-át borítják.", "Kratovo 600 méter magasan fekszik, 1500 lakossal.", "Az éves csapadékmennyiség átlagosan 800 mm.", "A 15. században itt ólmot és cinket bányásztak."],
       ro: ["Vârful Plackovica are o altitudine de 1.754 m.", "Munții se întind pe 40 km lungime.", "Pădurile acoperă aproximativ 80% din suprafață.", "Kratovo se află la 600 m altitudine și are 1.500 de locuitori.", "Precipitațiile medii anuale sunt de 800 mm.", "În secolul al XV-lea aici se extrăgeau plumb și zinc."],
       en: ["Plackovica Peak is 1,754 m high.", "The mountain range stretches 40 km long.", "Forests cover about 80% of the area.", "Kratovo is at 600 m altitude with 1,500 inhabitants.", "Average annual precipitation is 800 mm.", "In the 15th century, lead and zinc were mined here."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-plackovica-peak-life-v2.webp"},
   {
     id: "northmacedonia-bogovinje-lake-life-v2",
     type: "lake",
@@ -703,8 +685,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["A tavat 1972-ben hozták létre.", "A vízfelület 1,2 km².", "A maximális mélység 30 m.", "A tó körülbelül 10 millió m³ vizet tárol.", "A partvonal hossza körülbelül 8 km.", "A nyári hőmérséklet átlagosan 22 °C."],
       ro: ["Lacul a fost creat în 1972.", "Suprafața apei este de 1,2 km².", "Adâncimea maximă este de 30 m.", "Lacul stochează aproximativ 10 milioane m³ de apă.", "Lungimea malurilor este de aproximativ 8 km.", "Temperatura medie de vară este de 22 °C."],
       en: ["The lake was created in 1972.", "Water surface area is 1.2 km².", "Maximum depth is 30 meters.", "The lake stores about 10 million m³ of water.", "Shoreline length is about 8 km.", "Average summer temperature is 22 °C."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-bogovinje-lake-life-v2.webp"},
   {
     id: "northmacedonia-jakupica-mountain-life-v2",
     type: "mountain",
@@ -735,8 +716,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["A legmagasabb csúcs a Solunska Glava (2540 m).", "A hegység kelet-nyugati irányban 30 km hosszú.", "A Golemo Ezero gleccsertó 2200 m magasságban van.", "A hegységben több mint 100 endemikus növényfaj található.", "A Treska itt ered, hossza 40 km.", "Az éves átlaghőmérséklet 5 °C."],
       ro: ["Cel mai înalt vârf este Solunska Glava, 2.540 m.", "Munții se întind pe 30 km în direcția est-vest.", "Lacul glaciar Golemo Ezero se află la 2.200 m altitudine.", "Există peste 100 de specii de plante endemice în munți.", "Râul Treska izvorăște de aici și are 40 km lungime.", "Temperatura medie anuală este de 5 °C."],
       en: ["Highest peak is Solunska Glava at 2,540 m.", "The range stretches 30 km east-west.", "Glacial lake Golemo Ezero is at 2,200 m altitude.", "Over 100 endemic plant species exist in the mountains.", "The Treska River originates here, 40 km long.", "Average annual temperature is 5 °C."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-jakupica-mountain-life-v2.webp"},
   {
     id: "northmacedonia-treska-river-life-v2",
     type: "river",
@@ -799,8 +779,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["A Velivar magassága 2377 m.", "A hegység hossza 25 km.", "A fahatár körülbelül 1900 méteren van.", "Körülbelül 10 hiúz él a régióban.", "A Radika folyó itt ered, hossza 30 km.", "A nyári csúcshőmérséklet átlagosan 18 °C."],
       ro: ["Vârful Velivar are 2.377 m altitudine.", "Munții se întind pe 25 km lungime.", "Limita pădurii este la aproximativ 1.900 m.", "Există o populație de circa 10 râși în regiune.", "Râul Radika izvorăște de aici și are 30 km lungime.", "Temperatura maximă medie de vară este de 18 °C."],
       en: ["Velivar Peak is 2,377 m high.", "The range extends over 25 km length.", "The treeline is at about 1,900 m.", "There is a population of about 10 lynx in the region.", "The Radika River originates here, 30 km long.", "Average summer high temperature is 18 °C."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-stogovo-mountain-life-v2.webp"},
   {
     id: "northmacedonia-bregalnica-river-life-v2",
     type: "river",
@@ -831,8 +810,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["A Bregalnica folyó hossza 80 km.", "A vízgyűjtő terület 1500 km².", "Az éves vízhozam körülbelül 15 m³/s.", "A római bányák évente akár 5 tonna aranyat is termeltek.", "Probishtip városa 600 méter magasan fekszik.", "A régió lakossága körülbelül 50.000 fő."],
       ro: ["Râul Bregalnica are 80 km lungime.", "Bazinul hidrografic este de 1.500 km².", "Debitul anual este de aproximativ 15 m³/s.", "Minele romane produceau până la 5 tone de aur pe an.", "Orașul Probishtip se află la 600 m altitudine.", "Regiunea are o populație de circa 50.000 de locuitori."],
       en: ["The Bregalnica River is 80 km long.", "Its catchment area is 1,500 km².", "Annual flow is about 15 m³/s.", "Roman mines produced up to 5 tons of gold per year.", "Probishtip town lies at 600 m altitude.", "The region has a population of around 50,000."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-bregalnica-river-life-v2.webp"},
   {
     id: "northmacedonia-jablanica-mountain-life-v2",
     type: "mountain",
@@ -863,8 +841,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["A Jablanica-csúcs magassága 1942 m.", "A hegység hossza 20 km.", "A Podmol-i termálforrások hőmérséklete 32 °C.", "Az ólom-cink bányák évente 10.000 tonna ércet termeltek.", "Az éves csapadékmennyiség átlagosan 900 mm.", "A régió lakosságának körülbelül 80%-a mezőgazdaságból él."],
       ro: ["Cel mai înalt vârf Jablanica are 1.942 m.", "Munții se întind pe 20 km lungime.", "Izvoarele termale de la Podmol au o temperatură de 32 °C.", "Minele de plumb și zinc produceau 10.000 de tone de minereu anual.", "Precipitațiile medii anuale sunt de 900 mm.", "Aproximativ 80% din populația regiunii trăiește din agricultură."],
       en: ["Jablanica Peak is 1,942 m high.", "The mountain range extends 20 km long.", "Thermal springs at Podmol are 32 °C.", "Lead-zinc mines produced 10,000 tons of ore annually.", "Average annual precipitation is 900 mm.", "About 80% of the region's population lives from agriculture."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-jablanica-mountain-life-v2.webp"},
   {
     id: "northmacedonia-kriva-reka-valley-life-v2",
     type: "valley",
@@ -927,8 +904,7 @@ export const northmacedoniaLifeV2: POI[] = [
       hu: ["A tó teljes területe 43,1 km².", "Maximális mélysége 10 méter.", "2007 óta Ramsari védettség alatt áll.", "Több mint 200 madárfaj él itt.", "Az 1980-as években a vízszint 5 métert csökkent.", "A tó halászata évente átlagosan 50 tonna halat termel."],
       ro: ["Lacul Dojran are o suprafață totală de 43,1 km².", "Adâncimea maximă este de 10 m.", "Altitudinea: 148 m deasupra nivelului mării.", "Declarat sit Ramsar în 2007.", "Gazdă pentru peste 200 de specii de păsări.", "Nivelul apei a scăzut cu 5 m în anii 1980."],
       en: ["Total lake area: 43.1 km², with 27.3 km² in North Macedonia.", "Maximum depth: 10 m.", "Elevation: 148 m above sea level.", "Designated a Ramsar site in 2007.", "Over 200 bird species recorded.", "Water level dropped by 5 m in the 1980s due to over-extraction."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-dojran-wetland-life-v2.webp"},
   {
     id: "northmacedonia-ograzden-mountain-life-v2",
     type: "mountain",

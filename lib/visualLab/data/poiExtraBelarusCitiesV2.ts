@@ -1981,8 +1981,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["Első írásos említése 1504-ben történt.", "A helyi papírgyárat 1867-ben alapították.", "Az Ulla-folyó szeli át a települést.", "Lakossága nagyjából 7800 főt számlál.", "A Vitebszki terület közigazgatási része.", "Híres a 16. századi vallási toleranciájáról."],
       ro: ["Prima mențiune oficială datează din 1504.", "Fabrica de hârtie funcționează din 1867.", "Orașul este traversat de râul Ulla.", "Populația este de aproximativ 7.800 cetățeni.", "Aparține regiunii administrative Vitebsk.", "A deținut un rol cheie în comerțul fluvial."],
       en: ["First mentioned in written sources in 1504.", "The local paper mill was founded in 1867.", "Situated on the banks of the Ulla River.", "Total population is around 7,800 residents.", "Located within the Vitebsk Region borders.", "Significant regional hub for paper industry."],
-    },
-  },
+    }, image: "/poi-images/belarus-chashniki-cities-v2.webp"},
   {
     id: "belarus-dawhildawn-cities-v2",
     type: "city",
@@ -2045,8 +2044,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["1452-ben említik először Dovecserov néven.", "Lakossága hozzávetőlegesen 14 800 fő.", "Vasútállomás a Breszt-Homel vonalon.", "A Breszti terület déli részén található.", "1967-ben kapott hivatalos városi rangot.", "A fafeldolgozó ipar egyik központja."],
       ro: ["Menționat prima dată în 1452 (Dowecherow).", "Populația este de circa 14.800 locuitori.", "Stație feroviară pe linia Brest-Gomel.", "Situat în partea de sud a regiunii Brest.", "Statut oficial de oraș primit în 1967.", "Centru regional pentru prelucrarea lemnului."],
       en: ["First recorded in history in 1452.", "Population is approximately 14,800 people.", "Railway station on the Brest-Gomel line.", "Located in the southern Brest Region.", "Gained official city status in 1967.", "Notable hub for agriculture and food processing."],
-    },
-  },
+    }, image: "/poi-images/belarus-drahichyn-cities-v2.webp"},
   {
     id: "belarus-dyatlava-cities-v2",
     type: "city",
@@ -2077,8 +2075,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["1498-ban alapította Konsztantin Osztrogszkij.", "A Radziwiłł hercegi család tulajdona volt.", "Népessége körülbelül 7500 fő.", "18. századi barokk palota található itt.", "Szűz Mária Mennybevétele templom (1646).", "A Hrodnai terület közigazgatási egysége."],
       ro: ["Fondat în 1498 de hatmanul Constantin Ostrogski.", "Aparținut familiei princiare Radziwiłł.", "Populația numără circa 7.500 de locuitori.", "Găzduiește un palat baroc din secolul XVIII.", "Biserica Adormirea Maicii Domnului (1646).", "Situat în regiunea vestică Grodno."],
       en: ["Founded in 1498 by Konstanty Ostrogski.", "Formerly owned by the Radziwiłł family.", "Population size is about 7,500 people.", "Home to an 18th-century Baroque palace.", "Church of the Assumption built in 1646.", "Administrative center in the Grodno Region."],
-    },
-  },
+    }, image: "/poi-images/belarus-dyatlava-cities-v2.webp"},
   {
     id: "belarus-elshany-cities-v2",
     type: "city",
@@ -2109,8 +2106,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["A 16. században említik először.", "1931-ig Korolin néven volt ismert.", "Lakosainak száma nagyjából 8900 fő.", "A Zslobin-Ovrucs vasútvonal mentén fekszik.", "Híres bútorgyáráról és gépiparáról.", "A Homeli terület délnyugati részén van."],
       ro: ["Prima mențiune documentară în secolul XVI.", "Numele anterior a fost Korolin (până în 1931).", "Populația este de aproximativ 8.900 locuitori.", "Acces la calea ferată Zhlobin-Ovruch.", "Centru pentru industria de mobilă locală.", "Face parte din regiunea Gomel (sud-est)."],
       en: ["First mentioned in the 16th century.", "Named Korolin until the year 1931.", "Current population is around 8,900.", "Connected to the Zhlobin-Ovruch railway.", "Known for its furniture and food factories.", "Located in the southern Gomel Region."],
-    },
-  },
+    }, image: "/poi-images/belarus-elshany-cities-v2.webp"},
   {
     id: "belarus-glusk-cities-v2",
     type: "city",
@@ -2141,8 +2137,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["A 14. század folyamán alapították.", "A Pticsh-folyó kanyarulatában épült.", "Lakossága nagyjából 7100 főt számlál.", "Egykor a Holsanszki család vára állt itt.", "Helytörténeti múzeuma gazdag gyűjteménnyel bír.", "A Mogiljovi terület délnyugati részén van."],
       ro: ["Fondat în cursul secolului XIV.", "Amplasat pe malurile râului Ptich.", "Populația este de aproximativ 7.100 locuitori.", "A găzduit un castel al familiei Holszany.", "Orașul are un muzeu regional de etnografie.", "Situat în regiunea administrativă Mogilev."],
       en: ["Established during the 14th century.", "Situated on the scenic Ptich River.", "Population is roughly 7,100 residents.", "Site of a former castle owned by Golshany.", "Features a notable local history museum.", "Located within the Mogilev Region borders."],
-    },
-  },
+    }, image: "/poi-images/belarus-glusk-cities-v2.webp"},
   {
     id: "belarus-ivye-cities-v2",
     type: "city",
@@ -2173,8 +2168,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["A települést 1444-ben említik először.", "Itt található az ország egyetlen fa mecsetje.", "Lakosainak száma körülbelül 7700 fő.", "A fehéroroszországi tatárok kulturális központja.", "Négy vallás közös emlékműve díszíti a főteret.", "Szent Péter és Pál templom (1495-ben épült)."],
       ro: ["Prima atestare documentară în anul 1444.", "Deține singura moschee de lemn activă (1882).", "Populația numără aproximativ 7.700 locuitori.", "Centru istoric al comunității tătare belaruse.", "Găzduiește un monument al celor patru religii.", "Biserica Sf. Petru și Pavel datează din 1495."],
       en: ["First mentioned in written records in 1444.", "Features the only active wooden mosque (1882).", "Current population is about 7,700 people.", "Cultural center for the Belarusian Tatars.", "Home to a unique 'Four Religions' monument.", "St. Peter and Paul Church was built in 1495."],
-    },
-  },
+    }, image: "/poi-images/belarus-ivye-cities-v2.webp"},
   {
     id: "belarus-kletsk-cities-v2",
     type: "city",
@@ -2237,8 +2231,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["Az első említése 1581-ben történt.", "Szeszgyárát 1858-ban alapították.", "Lakossága körülbelül 16 200 fő.", "Az 'Arany Méh' nemzetközi gyermekfesztivál helyszíne.", "1867-ben épült díszes fa kúria látható itt.", "Fontos vasúti csomópont Oroszország felé."],
       ro: ["Prima atestare documentară în anul 1581.", "Fabrica de distilare funcționează din 1858.", "Populația este de aproximativ 16.200 locuitori.", "Găzduiește festivalul 'Albina de Aur'.", "Deține un conac din lemn ridicat în 1867.", "Nod feroviar spre orașul Roslavl din Rusia."],
       en: ["First mentioned in written history in 1581.", "The local distillery was founded in 1858.", "Current population is roughly 16,200.", "Host of the 'Golden Bee' youth arts festival.", "Home to a unique wooden mansion from 1867.", "Key railway link on the route to Russia."],
-    },
-  },
+    }, image: "/poi-images/belarus-klimavichy-cities-v2.webp"},
   {
     id: "belarus-lyakhavichy-cities-v2",
     type: "city",
@@ -2269,8 +2262,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["A települést 1492-ben említik először.", "Egykor bevehetetlen bástyás erőd állt itt.", "Népessége hozzávetőlegesen 10 900 fő.", "A Vedzma-folyó partján helyezkedik el.", "Konzervgyára és textilipara jelentős.", "A lengyel időkben 'Lachowicze' volt a neve."],
       ro: ["Menționat documentar pentru prima dată în 1492.", "A deținut o cetate de tip bastion imbatabilă.", "Populația actuală numără circa 10.900 locuitori.", "Situat pe malurile râului Vedzma.", "Centru pentru industria textilă și alimentară.", "Cunoscut istoric sub numele polonez Lachowicze."],
       en: ["First mentioned in records in 1492.", "Site of a former 'impregnable' bastion fortress.", "Current population is around 10,900 people.", "Built on the banks of the Vedzma River.", "Regional hub for textile and canning industry.", "Known as Lachowicze during Polish rule."],
-    },
-  },
+    }, image: "/poi-images/belarus-lyakhavichy-cities-v2.webp"},
   {
     id: "belarus-malaryta-cities-v2",
     type: "city",
@@ -2301,8 +2293,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["Első írásos említése 1566-ból való.", "Lakossága nagyjából 11 800 fő.", "A Malaryta-típusú népi hímzés hazája.", "Szent Miklós-temploma 1908-ban épült.", "Jelentős gyümölcslé- és konzervgyártás.", "A Breszt-Kovel vasútvonalon található."],
       ro: ["Atestat documentar în anul 1566.", "Populația este de aproximativ 11.800 locuitori.", "Faimos pentru stilul unic de țesut popular.", "Biserica Sfântul Nicolae ridicată în 1908.", "Centru regional pentru producția de sucuri.", "Nod feroviar pe direcția Brest-Kovel."],
       en: ["First mentioned in state records in 1566.", "Current population is roughly 11,800 residents.", "Origin of the unique Malaryta weaving pattern.", "St. Nicholas Church was built in 1908.", "Significant center for juice and food production.", "Located on the Brest-Kovel railway line."],
-    },
-  },
+    }, image: "/poi-images/belarus-malaryta-cities-v2.webp"},
   {
     id: "belarus-myadzyel-cities-v2",
     type: "city",
@@ -2333,8 +2324,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["Az első említése 1324-ben történt.", "A Naracsanszkij Nemzeti Park kapuja.", "Népessége nagyjából 7000 fő.", "Sarutlan kármelita kolostor található itt.", "Szent Szaniszló-templom (1754).", "Egykor vár állt a Myadel-tó egyik szigetén."],
       ro: ["Prima mențiune oficială datează din 1324.", "Poarta de intrare în Parcul Național Narach.", "Populația numără aproximativ 7.000 locuitori.", "Găzduiește o mănăstire a carmeliților desculți.", "Biserica Sf. Stanislav construită în 1754.", "Vechea cetate era situată pe o insulă pe lac."],
       en: ["First recorded in history in 1324.", "Main gateway to the Narachanski National Park.", "Total population is around 7,000 residents.", "Home to a 17th-century Carmelite monastery.", "St. Stanislaus Church dates back to 1754.", "Formerly featured a castle on a lake island."],
-    },
-  },
+    }, image: "/poi-images/belarus-myadzyel-cities-v2.webp"},
   {
     id: "belarus-narawlya-cities-v2",
     type: "city",
@@ -2365,8 +2355,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["A települést 1750-ben alapították.", "A Pripjaty-folyó jobb partján fekszik.", "Itt működik a 'Kraszny Mozirjanyin' édességgyár.", "19. századi klasszicista Horwatt-kastély romjai.", "Lakosainak száma megközelíti a 8100 főt.", "1986-os csernobili katasztrófa sújtotta övezet."],
       ro: ["Fondat oficial în anul 1750.", "Situat pe malul drept al râului Pripjat.", "Găzduiește fabrica de dulciuri Krasny Mozyryanin.", "Conacul familiei Horwatt datează din secolul XIX.", "Populația este de aproximativ 8.100 locuitori.", "Zona a fost afectată de dezastrul de la Cernobîl."],
       en: ["Officially established in the year 1750.", "Located on the right bank of the Pripyat River.", "Home to the famous Krasny Mozyryanin candy factory.", "The Horwatt Estate was built in the 19th century.", "Current population is around 8,100 people.", "Significantly affected by the 1986 Chernobyl disaster."],
-    },
-  },
+    }, image: "/poi-images/belarus-narawlya-cities-v2.webp"},
   {
     id: "belarus-nesvizh-cities-v2",
     type: "city",
@@ -2397,8 +2386,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["Első írásos említése 1223-ból való.", "A várkastély az UNESCO világörökség része.", "Itt alapították az első fehérorosz nyomdát.", "Isten Teste-templom (1593) az első barokk emlék.", "Lakossága hozzávetőlegesen 16 000 fő.", "A városháza (1596) a legrégebbi az országban."],
       ro: ["Menționat documentar în anul 1223.", "Castelul local este monument protejat UNESCO.", "Prima tipografie belarusă a fost deschisă aici.", "Biserica Corpus Christi (1593) este prima barocă.", "Populația numără aproximativ 16.000 locuitori.", "Primăria din 1596 este cea mai veche din țară."],
       en: ["First mentioned in records in 1223.", "The Nesvizh Castle is a UNESCO Heritage site.", "Home to the first printing house in Belarus.", "Corpus Christi Church (1593) was the first Baroque build.", "Total population is approximately 16,000 residents.", "The Town Hall (1596) is the oldest in Belarus."],
-    },
-  },
+    }, image: "/poi-images/belarus-nesvizh-cities-v2.webp"},
   {
     id: "belarus-petrykaw-cities-v2",
     type: "city",
@@ -2429,8 +2417,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["A legenda szerint 1523-ban alapították.", "Fontos folyami kikötő a Pripjaty-folyón.", "Hatalmas kálisó-feldolgozó üzem nyílt 2021-ben.", "Lakosainak száma körülbelül 10 300 fő.", "Szent Miklós-templom (1839).", "A Homeli terület nyugati részén fekszik."],
       ro: ["Fondat conform legendei în anul 1523.", "Port fluvial important pe cursul râului Pripjat.", "Combinat masiv de extragere a potasiului (2021).", "Populația este de circa 10.300 locuitori.", "Biserica Sfântul Nicolae ridicată în 1839.", "Situat în partea de vest a regiunii Gomel."],
       en: ["Founded in 1523 according to local legend.", "Significant river port on the Pripyat River.", "Site of a major new potash mining complex (2021).", "Current population is around 10,300 people.", "St. Nicholas Church was built in 1839.", "Located in the western part of Gomel Region."],
-    },
-  },
+    }, image: "/poi-images/belarus-petrykaw-cities-v2.webp"},
   {
     id: "belarus-rosony-cities-v2",
     type: "city",
@@ -2461,8 +2448,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["Az első említése 1552-ben történt.", "A partizánmozgalom bázisa volt 1941-1944 között.", "Lakosainak száma nagyjából 4600 fő.", "Híres neogótikus stílusú kastélya.", "A Roszonyi-tó partján helyezkedik el.", "Vitebszk terület legészakibb járása."],
       ro: ["Prima atestare documentară în anul 1552.", "Centru al mișcării de partizani (1941-1944).", "Populația este de aproximativ 4.600 locuitori.", "Deține un conac neogotic din cărămidă roșie.", "Orașul este situat pe malul lacului Rossony.", "Cel mai nordic district al regiunii Vitebsk."],
       en: ["First mentioned in chronicles in 1552.", "Major hub for the partisan movement (1941-44).", "Total population is roughly 4,600 residents.", "Home to a distinctive red-brick Gothic mansion.", "Situated on the shores of Lake Rossony.", "Northernmost district of the Vitebsk Region."],
-    },
-  },
+    }, image: "/poi-images/belarus-rosony-cities-v2.webp"},
   {
     id: "belarus-schuchyn-cities-v2",
     type: "city",
@@ -2493,8 +2479,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["Első írásos említése 1436-ból származik.", "Klasszicista stílusú Scipio-kastély áll itt.", "Híres volt az egykori piarista gimnáziumáról.", "Népessége megközelítőleg 15 000 fő.", "Szent Teréz-templom (épült 1827-ben).", "A tejipar egyik regionális központja."],
       ro: ["Atestat documentar pentru prima dată în 1436.", "Găzduiește Palatul Scipio în stil neoclasic.", "Fost sediu al unui colegiu piarist renumit.", "Populația este de aproximativ 15.000 locuitori.", "Biserica Sfânta Tereza ridicată în 1827.", "Centru major pentru industria lactatelor."],
       en: ["First recorded in history in 1436.", "Home to the neoclassical Scipio Palace.", "Former site of a prominent Piarist college.", "Current population is around 15,000 residents.", "St. Theresa Church was built in 1827.", "Notable regional center for dairy production."],
-    },
-  },
+    }, image: "/poi-images/belarus-schuchyn-cities-v2.webp"},
   {
     id: "belarus-slawharad-cities-v2",
     type: "city",
@@ -2525,8 +2510,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["1136-ban említik először az évkönyvek.", "1945-ig hivatalosan Propojszk volt a neve.", "A Szozs és a Pronja folyók torkolatánál fekszik.", "Lakossága nagyjából 7800 fő.", "Szeplőtelen Fogantatás templom (1793).", "A közeli 'Kék-forrás' híres zarándokhely."],
       ro: ["Atestat documentar încă din anul 1136.", "Până în 1945 s-a numit oficial Propoysk.", "Situat la confluența râurilor Sozh și Pronya.", "Populația este de circa 7.800 locuitori.", "Biserica Adormirea Maicii Domnului (1793).", "Lângă oraș se află monumentul 'Izvorul Albastru'."],
       en: ["First mentioned in historical annals in 1136.", "Named Propoysk until the year 1945.", "Located at the Sozh and Pronya river junction.", "Total population is around 7,800 people.", "Church of the Nativity of Mary built in 1793.", "Famous for the Blue Springs (Blakitnaya Krinitsa)."],
-    },
-  },
+    }, image: "/poi-images/belarus-slawharad-cities-v2.webp"},
   {
     id: "belarus-stolin-cities-v2",
     type: "city",
@@ -2557,8 +2541,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["Első írásos említése 1555-ből való.", "A hajózható Horiny-folyó partján épült.", "A város büszkesége a Mankovicsi-park.", "A Karlin-Stolin hászid dinasztia székhelye.", "Lakossága hozzávetőlegesen 12 400 fő.", "18. századi tégla zsinagóga romjai láthatók."],
       ro: ["Prima atestare documentară în anul 1555.", "Amplasat pe malul râului navigabil Horyn.", "Orașul deține Parcul istoric Mankovichi.", "Fost centru al hasidismului Karlin-Stolin.", "Populația este de aproximativ 12.400 locuitori.", "Păstrează o sinagogă rară din secolul XVIII."],
       en: ["First recorded in history in 1555.", "Located on the banks of the Horyn River.", "Home to the historic Mankovichi Landscape Park.", "Center of the Karlin-Stolin Hasidic dynasty.", "Current population is around 12,400 people.", "Features a significant 18th-century synagogue."],
-    },
-  },
+    }, image: "/poi-images/belarus-stolin-cities-v2.webp"},
   {
     id: "belarus-talachyn-cities-v2",
     type: "city",
@@ -2589,8 +2572,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["Első említése 1433-ban történt.", "Itt pihent meg Napóleon 1812-es visszavonulásakor.", "1604-ben alapított Istenanya Oltalma kolostor.", "Lakossága nagyjából 9700 főt számlál.", "Vasútállomás a Varsó-Moszkva fővonalon.", "Híres len- és burgonyatermesztő vidék."],
       ro: ["Prima mențiune oficială în anul 1433.", "Loc de staționare pentru Napoleon în 1812.", "Mănăstirea Acoperământul Maicii Domnului (1604).", "Populația este de circa 9.700 locuitori.", "Gara feroviară pe linia Varșovia-Moscova.", "Renumit pentru producția de in și cartofi."],
       en: ["First mentioned in written history in 1433.", "Napoleonic retreat site during the 1812 war.", "Home to the Holy Protection Monastery (1604).", "Total population is approximately 9,700 people.", "Major railway station on the Warsaw-Moscow line.", "Known for its flax and potato processing plants."],
-    },
-  },
+    }, image: "/poi-images/belarus-talachyn-cities-v2.webp"},
   {
     id: "belarus-turov-cities-v2",
     type: "city",
@@ -2621,8 +2603,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["Első írásos említése 980-ban történt.", "A Turaui-Pinszki Fejedelemség egykori fővárosa.", "Szent Turaui Cirill püspök és író városa.", "Híres a földből kinövő kőkeresztjeiről.", "Népessége mindössze 2700 fő körüli.", "A Pripjaty-folyó partján helyezkedik el."],
       ro: ["Menționat documentar în anul 980.", "Fosta capitală a Principatului de Turov-Pinsk.", "Orașul Sfântului Chiril de Turov (secolul XII).", "Deține celebrele cruci de piatră care 'cresc'.", "Populația actuală este de circa 2.700 locuitori.", "Situat pe malurile râului Pripjat."],
       en: ["First mentioned in chronicles in 980.", "Former capital of the Turov-Pinsk Principality.", "Home to the 12th-century scholar Kirill of Turov.", "Famous for the legendary 'growing' stone crosses.", "Current population is around 2,700 residents.", "Nestled on the banks of the Pripyat River."],
-    },
-  },
+    }, image: "/poi-images/belarus-turov-cities-v2.webp"},
   {
     id: "belarus-usda-cities-v2",
     type: "city",
@@ -2653,8 +2634,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["1450-ben említik először.", "Egyedülálló piramis alakú sírbolt (19. század).", "Számos híres belarusz író szülőhelye.", "Lakosainak száma megközelítőleg 10 200 fő.", "Szent Péter és Pál templom (1848).", "Itt található az ország egyik papírgyára."],
       ro: ["Prima atestare documentară în anul 1450.", "Deține un cavou în formă de piramidă (sec. XIX).", "Locul de naștere al multor scriitori belaruși.", "Populația este de aproximativ 10.200 locuitori.", "Biserica Sf. Petru și Pavel ridicată în 1848.", "Centru important pentru industria poligrafică."],
       en: ["First mentioned in records in 1450.", "Home to a rare 19th-century pyramid tomb.", "Birthplace of several famous Belarusian authors.", "Current population is around 10,200 people.", "St. Peter and Paul Church dates to 1848.", "Notable center for stationery and paper production."],
-    },
-  },
+    }, image: "/poi-images/belarus-usda-cities-v2.webp"},
   {
     id: "belarus-verhnyadzvinsk-cities-v2",
     type: "city",
@@ -2685,8 +2665,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["1386-ban említik először Drissza néven.", "1962-ben nevezték át Verhnyadzvinszkre.", "Fehéroroszország legészakibb városa.", "Népessége nagyjából 7300 fő.", "Szent Miklós-templom (1819) és Mária-templom.", "Híres a kiváló minőségű sajtgyártásáról."],
       ro: ["Atestat documentar în anul 1386.", "Numele oficial a fost Drissa până în 1962.", "Cel mai nordic oraș din întreg Belarusul.", "Populația numără circa 7.300 locuitori.", "Biserica Nașterea Maicii Domnului (1840).", "Renumit pentru fabrica locală de brânzeturi."],
       en: ["First recorded in history in 1386.", "Named Drissa until the official change in 1962.", "Strictly the northernmost city in Belarus.", "Current population is about 7,300 residents.", "St. Mary's Brick Church was built in 1840.", "Major hub for the regional dairy and cheese industry."],
-    },
-  },
+    }, image: "/poi-images/belarus-verhnyadzvinsk-cities-v2.webp"},
   {
     id: "belarus-vjetka-cities-v2",
     type: "city",
@@ -2717,8 +2696,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["1685-ben alapították az óhitű menekültek.", "A sajátos Vetka-stílusú ikonfestés központja.", "Itt található a Helytörténeti és Népművészeti Múzeum.", "Lakossága körülbelül 8500 fő.", "Híres a gazdagon faragott ablakkereteiről.", "A Szozs-folyó partján fekszik."],
       ro: ["Fondat în 1685 de comunitatea 'Ritului Vechi'.", "Centrul școlii unice de pictură de icoane Vetka.", "Găzduiește Muzeul de Artă Populară și Tradiții.", "Populația este de aproximativ 8.500 locuitori.", "Recunoscut pentru dantelele de lemn de la ferestre.", "Orașul este situat pe râul Sozh."],
       en: ["Founded in 1685 by Russian Old Believers.", "Center of the distinct Vetka school of icon painting.", "Home to the Museum of Old Believer Culture.", "Total population is around 8,500 people.", "Famous for intricate wooden window carvings.", "Situated on the banks of the Sozh River."],
-    },
-  },
+    }, image: "/poi-images/belarus-vjetka-cities-v2.webp"},
   {
     id: "belarus-volozhyn-cities-v2",
     type: "city",
@@ -2749,8 +2727,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["A 14. században említik először.", "Itt működött a híres jesiva (alapítva 1803-ban).", "A Tyszkiewicz-palotaegyüttes uralja a városképet.", "Lakosainak száma körülbelül 10 300 fő.", "Szent József-templom empire stílusban (1816).", "Az Islocsh-folyó és a Naliboki-erdő mellett fekszik."],
       ro: ["Prima mențiune documentară în secolul XIV.", "Sediul celebrei Ieșiva fondată în 1803.", "Deține complexul palatului Tyszkiewicz.", "Populația numără circa 10.300 locuitori.", "Biserica Sfântul Iosif în stil Empire (1816).", "Amplasat lângă râul Isloch și pădurea Naliboki."],
       en: ["First mentioned in the 14th century.", "Home to the world-famous Yeshiva (founded 1803).", "Features the neoclassical Tyszkiewicz Palace.", "Current population is around 10,300 people.", "St. Joseph Church built in Empire style (1816).", "Located near the scenic Isloch River and Naliboki Forest."],
-    },
-  },
+    }, image: "/poi-images/belarus-volozhyn-cities-v2.webp"},
   {
     id: "belarus-voranava-cities-v2",
     type: "city",
@@ -2781,8 +2758,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["1536-ban említik először az évkönyvek.", "Mindössze 1 km-re fekszik a litván határtól.", "Lakossága nagyjából 6400 fő.", "1720-ig Bloniewo néven volt ismert.", "Szent Simon és Júdás Tádé katolikus templom.", "Fontos vasútállomás a Lida-Vilniusz vonalon."],
       ro: ["Prima atestare documentară în anul 1536.", "Situat la doar 1 km de granița cu Lituania.", "Populația este de aproximativ 6.400 locuitori.", "Numele istoric a fost Bloniewo (până în 1720).", "Găzduiește biserica catolică Sfinții Simon și Iuda.", "Gara feroviară pe linia strategică Lida-Vilnius."],
       en: ["First mentioned in state annals in 1536.", "Located only 1 km from the Lithuanian border.", "Current population is around 6,400 residents.", "Originally named Bloniewo until 1720.", "Home to the Catholic Church of St. Simon and Jude.", "Key railway station on the Lida-Vilnius route."],
-    },
-  },
+    }, image: "/poi-images/belarus-voranava-cities-v2.webp"},
   {
     id: "belarus-zaslawye-cities-v2",
     type: "city",
@@ -2813,8 +2789,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["985-ben alapította I. Vlagyimir kijevi nagyfejedelem.", "Izjaszlav hercegről, Rognyeda fiáról nevezték el.", "Itt áll az 1570-ben épült Urunk Színeváltozása templom.", "Lakossága hozzávetőlegesen 17 800 fő.", "Híres a skanzen jellegű néprajzi múzeumáról.", "A középkori földsáncok ma is jól láthatóak."],
       ro: ["Fondat în anul 985 de Vladimir cel Mare.", "Numit după prințul Izyaslav, fiul Rognedei.", "Biserica Schimbarea la Față datează din 1570.", "Populația numără aproximativ 17.800 locuitori.", "Găzduiește un muzeu etnografic în aer liber.", "Păstrează valurile de apărare ale cetății vechi."],
       en: ["Founded in 985 by Prince Vladimir the Great.", "Named after Prince Izyaslav, son of Rogneda.", "Home to the fortified Transfiguration Church (1570).", "Total population is approximately 17,800 people.", "Features a major ethnographic open-air museum.", "Archaeological site includes 11th-century mounds."],
-    },
-  },
+    }, image: "/poi-images/belarus-zaslawye-cities-v2.webp"},
   {
     id: "belarus-zelva-cities-v2",
     type: "city",
@@ -2845,8 +2820,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["1258-ban említik először az évkönyvek.", "Híres volt az évente megrendezett Anna-napi lóvásárról.", "Itt található az ország egyik legnagyobb víztározója.", "Népessége nagyjából 6400 fő.", "Szentháromság-templom (épült 1913-ban).", "A Sapieha mágnáscsalád egykori birtoka volt."],
       ro: ["Prima mențiune oficială în anul 1258.", "Renumit pentru 'Târgul de cai Sfânta Ana'.", "Deține unul dintre cele mai mari lacuri de acumulare.", "Populația numără circa 6.400 locuitori.", "Biserica Sfânta Treime ridicată în 1913.", "Fost domeniu al familiei nobiliare Sapieha."],
       en: ["First recorded in history in 1258.", "Famous for the historic St. Anne's horse fair.", "Features one of the largest reservoirs in Belarus.", "Current population is around 6,400 people.", "Holy Trinity Church was built in 1913.", "Formerly owned by the powerful Sapieha family."],
-    },
-  },
+    }, image: "/poi-images/belarus-zelva-cities-v2.webp"},
   {
     id: "belarus-zhabinka-cities-v2",
     type: "city",
@@ -2877,8 +2851,7 @@ export const belarusCitiesV2: POI[] = [
       hu: ["A vasútállomást 1871-ben alapították.", "Itt működik Fehéroroszország legnagyobb cukorgyára.", "Fontos vasúti elágazás (Breszt-Minszk-Homel).", "Lakossága körülbelül 13 300 fő.", "Szent Miklós fa templom (1885).", "A Muhavec-folyó partján, Breszt szomszédságában."],
       ro: ["Stația feroviară a fost fondată în 1871.", "Găzduiește cea mai mare fabrică de zahăr din țară.", "Nod feroviar major (Brest-Minsk-Gomel).", "Populația este de circa 13.300 locuitori.", "Biserica de lemn Sf. Nicolae ridicată în 1885.", "Situat pe râul Mukhavets, lângă Brest."],
       en: ["The railway station was founded in 1871.", "Home to the largest sugar refinery in Belarus.", "Strategic railway junction (Brest-Minsk-Gomel).", "Total population is around 13,300 residents.", "St. Nicholas Wooden Church dates to 1885.", "Located on the Mukhavets River near Brest."],
-    },
-  },
+    }, image: "/poi-images/belarus-zhabinka-cities-v2.webp"},
   {
     id: "belarus-zhyrovichy-cities-v2",
     type: "city",

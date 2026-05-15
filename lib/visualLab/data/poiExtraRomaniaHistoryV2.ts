@@ -63,8 +63,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["Építési idő: 1928-1939", "Harangtorony magassága: 30 m", "Eltemetett katonák száma: 800", "Domb magassága: 800 m tszf.", "Építészeti stílus: neobizánci", "Alapkő letétele: 1928"],
       ro: ["Perioada construcției: 1928-1939", "Înălțimea turnului clopotniță: 30 m", "Număr de soldați înhumați: 800", "Altitudinea dealului: 800 m", "Stil arhitectonic: neobizantin", "Piatra de temelie: 1928"],
       en: ["Construction period: 1928-1939", "Bell tower height: 30 m", "Buried soldiers: 800", "Hill elevation: 800 m", "Architectural style: Neo-Byzantine", "Cornerstone laid: 1928"],
-    },
-  },
+    }, image: "/poi-images/romania-mausoleul-eroilor-mateias-history-v2.webp"},
   {
     id: "romania-cetatea-din-bistrita-history-v2",
     type: "ruins",
@@ -95,8 +94,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["Első építés: 13. század", "Megerősítés: 15. század (Mátyás király)", "Bekerített terület: 10 ha", "Trombitás torony magassága: 50 m", "Fennmaradt tornyok száma: 4", "Fennmaradt fal hossza: 200 m"],
       ro: ["Prima construcție: secolul al XIII-lea", "Întărită: secolul al XV-lea (Matia Corvin)", "Suprafața incintei: 10 ha", "Înălțimea Turnului Trompeților: 50 m", "Număr de turnuri păstrate: 4", "Lungimea zidului păstrat: 200 m"],
       en: ["First built: 13th century", "Reinforced: 15th century (Matthias Corvinus)", "Enclosed area: 10 ha", "Trumpeter's Tower height: 50 m", "Preserved towers: 4", "Preserved wall length: 200 m"],
-    },
-  },
+    }, image: "/poi-images/romania-cetatea-din-bistrita-history-v2.webp"},
   {
     id: "romania-palatul-vechi-curtea-domneasca-bacau-history-v2",
     type: "ruins",
@@ -127,8 +125,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["Építtető: Ștefan cel Mare (15. sz.)", "Funkció: fejedelmi rezidencia, közigazgatási központ", "Fennmaradt alapok: templom és lakóépületek", "Régészeti leletek: érmék (15-17. sz.)", "Feltárt fal hossza: 80 m", "Ásatások kezdete: 1956"],
       ro: ["Ctitor: Ștefan cel Mare (sec. XV)", "Funcție: reședință domnească, centru administrativ", "Fundații păstrate: biserică și clădiri locative", "Descoperiri arheologice: monede (sec. XV-XVII)", "Lungimea zidului dezgropat: 80 m", "Săpături începute: 1956"],
       en: ["Builder: Stephen the Great (15th c.)", "Function: princely residence, administrative center", "Surviving foundations: church and residential buildings", "Archaeological finds: coins (15th-17th c.)", "Excavated wall length: 80 m", "Excavations started: 1956"],
-    },
-  },
+    }, image: "/poi-images/romania-palatul-vechi-curtea-domneasca-bacau-history-v2.webp"},
   {
     id: "romania-biserica-fortificata-mosna-history-v2",
     type: "church",
@@ -159,8 +156,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["A 14. században épült", "15. századi freskók", "5 toronnyal ellátott védőfal", "Késő gótikus boltozat", "Barokk oltár 1750-ből", "Torony magassága: 45 méter"],
       ro: ["Construită în secolul al XIV-lea", "Fresce din secolul al XV-lea", "Zid de apărare cu 5 turnuri", "Bolți gotice târzii", "Altar baroc din 1750", "Înălțimea turnului: 45 metri"],
       en: ["Built in the 14th century", "Frescoes dating from the 15th century", "Defensive wall with 5 towers", "Late Gothic net vault", "Baroque altar from 1750", "Tower height: 45 meters"],
-    },
-  },
+    }, image: "/poi-images/romania-biserica-fortificata-mosna-history-v2.webp"},
   {
     id: "romania-castelul-teleki-gornesti-history-v2",
     type: "castle",
@@ -191,8 +187,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["Épült 1745-ben", "Építész: Andreas Mayer", "Angolkert: 5 hektár", "Szobák száma: 50", "Könyvtár: 10 000 kötet", "Kupola magassága: 20 méter"],
       ro: ["Construit în 1745", "Arhitect: Andreas Mayer", "Parcul englezesc: 5 hectare", "Număr de camere: 50", "Bibliotecă: 10.000 de volume", "Înălțimea cupolei: 20 de metri"],
       en: ["Built in 1745", "Architect: Andreas Mayer", "English garden: 5 hectares", "Number of rooms: 50", "Library: 10,000 volumes", "Dome height: 20 meters"],
-    },
-  },
+    }, image: "/poi-images/romania-castelul-teleki-gornesti-history-v2.webp"},
   {
     id: "romania-cetatea-deva-istorica-history-v2",
     type: "castle",
@@ -223,8 +218,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 378 méter", "13. században épült", "Libegő hossza: 260 méter", "Szintkülönbség a várostól: 150 méter", "1647-es robbanás", "Falvastagság: akár 3 méter"],
       ro: ["Altitudine: 378 metri deasupra nivelului mării", "Construită în secolul al XIII-lea", "Lungimea telecabinei: 260 de metri", "Diferența de nivel față de oraș: 150 de metri", "Explozia din 1647", "Grosimea zidurilor: până la 3 metri"],
       en: ["Elevation: 378 meters above sea level", "Built in the 13th century", "Cable car length: 260 meters", "Height difference from city: 150 meters", "Gunpowder explosion in 1647", "Wall thickness: up to 3 meters"],
-    },
-  },
+    }, image: "/poi-images/romania-cetatea-deva-istorica-history-v2.webp"},
   {
     id: "romania-manastirea-dobrovat-history-v2",
     type: "church",
@@ -255,8 +249,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["Alapítás éve: 1504", "Fal magassága: 6 méter", "Harangtorony magassága: 20 méter", "Apácák száma: 30", "Freskók 1550-ből", "Kolostor területe: 2 hektár"],
       ro: ["Anul fondării: 1504", "Înălțimea zidurilor: 6 metri", "Turnul clopotniță: 20 de metri înălțime", "Număr de maici: 30", "Frescele din 1550", "Suprafața mănăstirii: 2 hectare"],
       en: ["Founded in 1504", "Wall height: 6 meters", "Bell tower height: 20 meters", "Number of nuns: 30", "Frescoes from 1550", "Monastery area: 2 hectares"],
-    },
-  },
+    }, image: "/poi-images/romania-manastirea-dobrovat-history-v2.webp"},
   {
     id: "romania-cetatea-dambovita-history-v2",
     type: "ruins",
@@ -287,8 +280,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["14. században épült", "Tengerszint feletti magasság: 200 méter", "Fal hossza: 250 méter", "Tornyok száma: 4", "1462-es csata", "Régészeti leletek: kerámia és fegyverek"],
       ro: ["Construită în secolul al XIV-lea", "Altitudine: 200 de metri", "Lungimea zidurilor: 250 de metri", "Număr de turnuri: 4", "Bătălia din 1462", "Descoperiri arheologice: ceramică și arme"],
       en: ["Built in the 14th century", "Elevation: 200 meters above sea level", "Wall length: 250 meters", "Number of towers: 4", "Battle of 1462", "Archaeological finds: pottery and weapons"],
-    },
-  },
+    }, image: "/poi-images/romania-cetatea-dambovita-history-v2.webp"},
   {
     id: "romania-cetatea-rasnov-istorica-history-v2",
     type: "castle",
@@ -319,8 +311,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["13. században épült", "Kút mélysége: 146 méter", "Tengerszint feletti magasság: 650 méter", "Tornyok száma: 3", "Terület: 1500 négyzetméter", "Látogatók száma évente: 500.000"],
       ro: ["Construită în secolul al XIII-lea", "Adâncimea fântânii: 146 de metri", "Altitudine: 650 de metri", "Număr de turnuri: 3", "Suprafața: 1.500 de metri pătrați", "Vizitatori pe an: 500.000"],
       en: ["Built in the 13th century", "Well depth: 146 meters", "Elevation: 650 meters above sea level", "Number of towers: 3", "Area: 1,500 square meters", "Annual visitors: 500,000"],
-    },
-  },
+    }, image: "/poi-images/romania-cetatea-rasnov-istorica-history-v2.webp"},
   {
     id: "romania-conacul-golescu-history-v2",
     type: "palace",
@@ -351,8 +342,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["17. században épült", "Park területe: 3 hektár", "Szobák száma: 20", "Múzeumi tárgyak: 1000 darab", "Felújítás befejezve 2005-ben", "Főépület magassága: 12 méter"],
       ro: ["Construit în secolul al XVII-lea", "Suprafața parcului: 3 hectare", "Număr de camere: 20", "Exponate muzeale: 1.000", "Renovare finalizată în 2005", "Înălțimea clădirii principale: 12 metri"],
       en: ["Built in the 17th century", "Park area: 3 hectares", "Number of rooms: 20", "Museum exhibits: 1,000", "Renovation completed in 2005", "Main building height: 12 meters"],
-    },
-  },
+    }, image: "/poi-images/romania-conacul-golescu-history-v2.webp"},
   {
     id: "romania-manastirea-horezu-istorica-history-v2",
     type: "church",
@@ -383,8 +373,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["Épült 1690-ben", "UNESCO világörökség 1993 óta", "Harangtorony: 30 méter", "Szerzetesek száma: 20", "17. századi freskók", "Templom hossza: 40 méter"],
       ro: ["Construită în 1690", "Patrimoniu UNESCO din 1993", "Turnul clopotniță: 30 de metri", "Număr de călugări: 20", "Frescele din secolul al XVII-lea", "Lungimea bisericii: 40 de metri"],
       en: ["Built in 1690", "UNESCO World Heritage since 1993", "Bell tower: 30 meters", "Number of monks: 20", "17th-century frescoes", "Church length: 40 meters"],
-    },
-  },
+    }, image: "/poi-images/romania-manastirea-horezu-istorica-history-v2.webp"},
   {
     id: "romania-biserica-fortificata-calnic-history-v2",
     type: "castle",
@@ -415,8 +404,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["Építés kezdete 1269", "UNESCO világörökség 1993 óta", "Torony magassága: 25 méter", "Fal hossza: 100 méter", "Orgona 1780-ból", "Freskók száma: 5"],
       ro: ["Construită începând cu 1269", "Patrimoniu UNESCO din 1993", "Înălțimea turnului: 25 de metri", "Lungimea zidurilor: 100 de metri", "Orga din 1780", "Număr de fresce: 5"],
       en: ["Construction started in 1269", "UNESCO World Heritage since 1993", "Tower height: 25 meters", "Wall length: 100 meters", "Organ from 1780", "Number of frescoes: 5"],
-    },
-  },
+    }, image: "/poi-images/romania-biserica-fortificata-calnic-history-v2.webp"},
   {
     id: "romania-conacul-vacarescu-history-v2",
     type: "palace",
@@ -447,8 +435,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["18. században épült", "Park területe: 4 hektár", "Szobák száma: 25", "Felújítás 2008-ban", "Ienăchiță Văcărescu költő élt itt", "Torony magassága: 15 méter"],
       ro: ["Construit în secolul al XVIII-lea", "Suprafața parcului: 4 hectare", "Număr de camere: 25", "Restaurare în 2008", "Poetul Ienăchiță Văcărescu a locuit aici", "Înălțimea turnului: 15 metri"],
       en: ["Built in the 18th century", "Park area: 4 hectares", "Number of rooms: 25", "Restoration in 2008", "Poet Ienăchiță Văcărescu lived here", "Tower height: 15 meters"],
-    },
-  },
+    }, image: "/poi-images/romania-conacul-vacarescu-history-v2.webp"},
   {
     id: "romania-cetatea-cetatuia-brasov-history-v2",
     type: "castle",
@@ -479,8 +466,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["Épült 1526-ban", "Tengerszint feletti magasság: 330 méter", "Falvastagság: 1,5 méter", "Ágyúk száma: 6", "Börtönkapacitás: 50 fő", "Látogatók száma évente: 200.000"],
       ro: ["Construită în 1526", "Altitudine: 330 de metri", "Grosimea zidurilor: 1,5 metri", "Număr de tunuri: 6", "Capacitatea închisorii: 50 de persoane", "Vizitatori pe an: 200.000"],
       en: ["Built in 1526", "Elevation: 330 meters above sea level", "Wall thickness: 1.5 meters", "Number of cannons: 6", "Prison capacity: 50 people", "Annual visitors: 200,000"],
-    },
-  },
+    }, image: "/poi-images/romania-cetatea-cetatuia-brasov-history-v2.webp"},
   {
     id: "romania-conacul-bellu-history-v2",
     type: "palace",
@@ -511,8 +497,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["Épült 1860-ban", "Park területe: 10 hektár", "Szobák száma: 30", "Felújítás 2005 óta", "Torony magassága: 18 méter", "Kutatóintézet 1960 óta"],
       ro: ["Construit în 1860", "Suprafața parcului: 10 hectare", "Număr de camere: 30", "Restaurare din 2005", "Înălțimea turnului: 18 metri", "Institut de cercetare din 1960"],
       en: ["Built in 1860", "Park area: 10 hectares", "Number of rooms: 30", "Restoration since 2005", "Tower height: 18 meters", "Research institute since 1960"],
-    },
-  },
+    }, image: "/poi-images/romania-conacul-bellu-history-v2.webp"},
   {
     id: "romania-manastirea-vorona-history-v2",
     type: "church",
@@ -543,8 +528,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["Alapítás éve: 1746", "Szerzetesek száma: 15", "Templom magassága: 20 méter", "18. századi ikon", "Kolostor területe: 1,5 hektár", "Erdőterület: 50 hektár"],
       ro: ["Anul fondării: 1746", "Număr de călugări: 15", "Înălțimea bisericii: 20 de metri", "Icoană din secolul al XVIII-lea", "Suprafața mănăstirii: 1,5 hectare", "Suprafața pădurii: 50 de hectare"],
       en: ["Founded in 1746", "Number of monks: 15", "Church height: 20 meters", "18th-century miracle-working icon", "Monastery area: 1.5 hectares", "Forest area: 50 hectares"],
-    },
-  },
+    }, image: "/poi-images/romania-manastirea-vorona-history-v2.webp"},
   {
     id: "romania-conacul-malaxa-history-v2",
     type: "palace",
@@ -575,8 +559,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["Épült 1925-ben", "Építész: Petre Antonescu", "Telek területe: 1 hektár", "Szobák száma: 15", "Család acéltermelése: 100 000 tonna/év", "Kulturális központ 2010 óta"],
       ro: ["Construit în 1925", "Arhitect: Petre Antonescu", "Suprafața terenului: 1 hectar", "Număr de camere: 15", "Producția de oțel a familiei: 100.000 de tone/an", "Centru cultural din 2010"],
       en: ["Built in 1925", "Architect: Petre Antonescu", "Land area: 1 hectare", "Number of rooms: 15", "Family steel production: 100,000 tons/year", "Cultural center since 2010"],
-    },
-  },
+    }, image: "/poi-images/romania-conacul-malaxa-history-v2.webp"},
   {
     id: "romania-cetatea-histria-history-v2",
     type: "ruins",
@@ -607,8 +590,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["Alapítva Kr. e. 7. században", "Ásatások területe: 4 hektár", "Templomok száma: 3", "Fal hossza: 2 kilométer", "Múzeum alapítva 1928-ban", "Kikötő mélysége: 5 méter"],
       ro: ["Fondată în secolul al VII-lea î.Hr.", "Suprafața săpăturilor: 4 hectare", "Număr de temple: 3", "Lungimea zidurilor: 2 kilometri", "Muzeu fondat în 1928", "Adâncimea portului: 5 metri"],
       en: ["Founded in the 7th century BC", "Excavation area: 4 hectares", "Number of temples: 3", "Wall length: 2 kilometers", "Museum founded in 1928", "Harbor depth: 5 meters"],
-    },
-  },
+    }, image: "/poi-images/romania-cetatea-histria-history-v2.webp"},
   {
     id: "romania-cetatea-neamt-history-v2",
     type: "castle",
@@ -639,8 +621,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["14. században épült", "Tengerszint feletti magasság: 400 méter", "Falvastagság: 3 méter", "Tornyok száma: 6", "Terület: 2000 négyzetméter", "Látogatók száma évente: 300.000"],
       ro: ["Construită în secolul al XIV-lea", "Altitudine: 400 de metri", "Grosimea zidurilor: 3 metri", "Număr de turnuri: 6", "Suprafața: 2.000 de metri pătrați", "Vizitatori pe an: 300.000"],
       en: ["Built in the 14th century", "Elevation: 400 meters above sea level", "Wall thickness: 3 meters", "Number of towers: 6", "Area: 2,000 square meters", "Annual visitors: 300,000"],
-    },
-  },
+    }, image: "/poi-images/romania-cetatea-neamt-history-v2.webp"},
   {
     id: "romania-conacul-logofat-history-v2",
     type: "palace",
@@ -671,8 +652,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["17. században épült", "Szobák száma: 12", "Felújítás 1995-ben", "Múzeum területe: 300 négyzetméter", "Épület magassága: 10 méter", "Stílus: barokk oszmán hatásokkal"],
       ro: ["Construit în secolul al XVII-lea", "Număr de camere: 12", "Restaurare în 1995", "Suprafața muzeului: 300 de metri pătrați", "Înălțimea clădirii: 10 metri", "Stil: baroc cu influențe otomane"],
       en: ["Built in the 17th century", "Number of rooms: 12", "Restoration in 1995", "Museum area: 300 square meters", "Building height: 10 meters", "Style: Baroque with Ottoman influences"],
-    },
-  },
+    }, image: "/poi-images/romania-conacul-logofat-history-v2.webp"},
   {
     id: "romania-conacul-archim-history-v2",
     type: "palace",
@@ -703,8 +683,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["Épült 1840-ben", "Park területe: 2 hektár", "Szobák száma: 20", "Felújítás 2010-ben", "Szálloda 2012 óta", "Építész: Josef Haberfellner"],
       ro: ["Construit în 1840", "Suprafața parcului: 2 hectare", "Număr de camere: 20", "Restaurare în 2010", "Hotel din 2012", "Arhitect: Josef Haberfellner"],
       en: ["Built in 1840", "Park area: 2 hectares", "Number of rooms: 20", "Restoration in 2010", "Hotel since 2012", "Architect: Josef Haberfellner"],
-    },
-  },
+    }, image: "/poi-images/romania-conacul-archim-history-v2.webp"},
   {
     id: "romania-cetatea-capalna-history-v2",
     type: "ruins",
@@ -735,8 +714,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["Építési idő: i. e. 1. század", "A domb magassága: 500 m", "Római hódítás: i. sz. 106", "UNESCO Világörökség: 1999", "Falvastagság: 3 m-ig", "Erőd területe: kb. 0,5 ha"],
       ro: ["Construcție: secolul I î.Hr.", "Altitudine colină: 500 m", "Cucerirea de către romani: 106 d.Hr.", "UNESCO din: 1999", "Grosimea zidului: până la 3 m", "Suprafața cetății: ca. 0,5 ha"],
       en: ["Built: 1st century BC", "Hill elevation: 500 m (1,640 ft)", "Roman conquest: 106 AD", "UNESCO World Heritage since: 1999", "Wall thickness: up to 3 m (9.8 ft)", "Fortress area: approx. 0.5 ha (1.24 acres)"],
-    },
-  },
+    }, image: "/poi-images/romania-cetatea-capalna-history-v2.webp"},
   {
     id: "romania-manastirea-varatec-history-v2",
     type: "church",
@@ -767,8 +745,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["Alapítás éve: 1785", "Apácák száma: 100", "Templom magassága: 25 méter", "Ikongyűjtemény: 50 ikon", "Eminescu látogatása 1876-ban", "Kolostor területe: 3 hektár"],
       ro: ["Anul fondării: 1785", "Număr de maici: 100", "Înălțimea bisericii: 25 de metri", "Colecția de icoane: 50 de icoane", "Vizita lui Eminescu în 1876", "Suprafața mănăstirii: 3 hectare"],
       en: ["Founded in 1785", "Number of nuns: 100", "Church height: 25 meters", "Icon collection: 50 icons", "Eminescu's visit in 1876", "Monastery area: 3 hectares"],
-    },
-  },
+    }, image: "/poi-images/romania-manastirea-varatec-history-v2.webp"},
   {
     id: "romania-cetatea-poenari-history-v2",
     type: "castle",
@@ -799,8 +776,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["A Poenari erődöt a 13. században építették.", "A szikla magassága körülbelül 420 méter az Argeș folyó felett.", "A lépcsősor 1480 lépcsőfokból áll.", "III. Vlad Țepeș az 1450-es években erősítette meg a várat.", "1888-ban földcsuszamlás rongálta meg az erőd egy részét.", "Az erőd területe körülbelül 1500 négyzetméter."],
       ro: ["Cetatea Poenari a fost construită în secolul al XIII-lea.", "Înălțimea stâncii este de aproximativ 420 de metri deasupra râului Argeș.", "Scara de acces are 1480 de trepte.", "Vlad Țepeș a consolidat cetatea în secolul al XV-lea.", "O alunecare de teren în 1888 a avariat parțial cetatea.", "Suprafața cetății este de aproximativ 1500 de metri pătrați."],
       en: ["Poenari Fortress was built in the 13th century.", "The cliff height is approximately 420 meters above the Argeș River.", "The access staircase consists of 1,480 steps.", "Vlad III the Impaler reinforced the fortress in the 15th century.", "A landslide in 1888 damaged parts of the fortress.", "The fortress covers an area of about 1,500 square meters."],
-    },
-  },
+    }, image: "/poi-images/romania-cetatea-poenari-history-v2.webp"},
   {
     id: "romania-biserica-din-baba-ana-history-v2",
     type: "church",
@@ -831,8 +807,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["A templom a 18. században épült.", "Szent Györgynek van szentelve.", "Az ikonosztáz a 19. századból származik.", "Baba Ana falu lakossága körülbelül 2000 fő.", "A templom kőből és fából épült.", "A harangtorony magassága 12 méter."],
       ro: ["Biserica a fost construită în secolul al XVIII-lea.", "Este dedicată Sfântului Gheorghe.", "Catapeteasma datează din secolul al XIX-lea.", "Satul Baba Ana are aproximativ 2000 de locuitori.", "Biserica este construită din piatră și lemn.", "Înălțimea turnului clopotniță este de 12 metri."],
       en: ["The church was built in the 18th century.", "It is dedicated to Saint George.", "The iconostasis dates from the 19th century.", "Baba Ana village has a population of about 2,000.", "The church is constructed from stone and wood.", "The bell tower is 12 meters high."],
-    },
-  },
+    }, image: "/poi-images/romania-biserica-din-baba-ana-history-v2.webp"},
   {
     id: "romania-conacul-golescu-grant-history-v2",
     type: "palace",
@@ -863,8 +838,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["A kúria a 17. században épült.", "A Golescu család jelentős bojár család volt.", "A birtok területe 3 hektár.", "A parkban több mint 50 fafaj található.", "A múzeumot 1939-ben nyitották meg.", "A kúria 12 szobával rendelkezik."],
       ro: ["Conacul a fost construit în secolul al XVII-lea.", "Familia Golescu a fost o importantă familie boierească.", "Suprafața proprietății este de 3 hectare.", "Parcul conține peste 50 de specii de arbori.", "Muzeul a fost deschis în 1939.", "Conacul are 12 camere."],
       en: ["The manor was built in the 17th century.", "The Golescu family was a prominent boyar family.", "The estate covers an area of 3 hectares.", "The park contains over 50 tree species.", "The museum was opened in 1939.", "The manor has 12 rooms."],
-    },
-  },
+    }, image: "/poi-images/romania-conacul-golescu-grant-history-v2.webp"},
   {
     id: "romania-cetatea-coltesti-history-v2",
     type: "castle",
@@ -895,8 +869,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["A várat a 13. században építették.", "Tengerszint feletti magassága 500 méter.", "A falak vastagsága eléri a 3 métert.", "A várat 1661-ben rombolták le a Habsburgok.", "Az erőd területe 2000 négyzetméter.", "A torony magassága 15 méter volt."],
       ro: ["Cetatea a fost construită în secolul al XIII-lea.", "Altitudinea este de 500 de metri deasupra nivelului mării.", "Zidurile au grosimea de până la 3 metri.", "Cetatea a fost distrusă de habsburgi în 1661.", "Suprafața incintei este de 2000 de metri pătrați.", "Turnul central avea 15 metri înălțime."],
       en: ["The fortress was built in the 13th century.", "It sits at an altitude of 500 meters above sea level.", "The walls are up to 3 meters thick.", "The fortress was destroyed by the Habsburgs in 1661.", "The enclosure covers an area of 2,000 square meters.", "The central tower was 15 meters high."],
-    },
-  },
+    }, image: "/poi-images/romania-cetatea-coltesti-history-v2.webp"},
   {
     id: "romania-manastirea-bistrita-istorica-history-v2",
     type: "church",
@@ -927,8 +900,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["A kolostort a 15. században alapították.", "A templom Szent Miklósnak van szentelve.", "A freskók 1562-ből származnak.", "A kolostor tengerszint feletti magassága 350 méter.", "A harangtorony magassága 25 méter.", "A kolostor területe 2 hektár."],
       ro: ["Mănăstirea a fost fondată în secolul al XV-lea.", "Biserica este dedicată Sfântului Nicolae.", "Frescele datează din anul 1562.", "Altitudinea mănăstirii este de 350 de metri.", "Turnul clopotniță are 25 de metri înălțime.", "Suprafața ansamblului mănăstiresc este de 2 hectare."],
       en: ["The monastery was founded in the 15th century.", "The church is dedicated to Saint Nicholas.", "The frescoes date from 1562.", "The monastery is at an altitude of 350 meters.", "The bell tower is 25 meters high.", "The monastery complex covers 2 hectares."],
-    },
-  },
+    }, image: "/poi-images/romania-manastirea-bistrita-istorica-history-v2.webp"},
   {
     id: "romania-cetatea-turnu-istorica-history-v2",
     type: "ruins",
@@ -959,8 +931,7 @@ export const romaniaHistoryV2: POI[] = [
       hu: ["A várat a 13. században építették.", "Az Olt folyónál fekszik, 300 méter tengerszint feletti magasságban.", "A falak vastagsága eléri a 2,5 métert.", "A várat 1788-ban hagyták el a Habsburgok.", "Az erőd átmérője 50 méter.", "A torony magassága 20 méter volt."],
       ro: ["Cetatea a fost construită în secolul al XIII-lea.", "Este situată lângă râul Olt, la 300 de metri altitudine.", "Zidurile au grosimea de până la 2,5 metri.", "Cetatea a fost abandonată de habsburgi în 1788.", "Diametrul incintei este de 50 de metri.", "Turnul central avea 20 de metri înălțime."],
       en: ["The fortress was built in the 13th century.", "It is located by the Olt River at 300 meters elevation.", "The walls are up to 2.5 meters thick.", "The fortress was abandoned by the Habsburgs in 1788.", "The enclosure has a diameter of 50 meters.", "The central tower was 20 meters high."],
-    },
-  },
+    }, image: "/poi-images/romania-cetatea-turnu-istorica-history-v2.webp"},
   {
     id: "romania-conacul-sturza-history-v2",
     type: "palace",

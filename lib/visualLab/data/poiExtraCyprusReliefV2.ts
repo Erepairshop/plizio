@@ -31,8 +31,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Tengerszint feletti magassága 1554 méter", "A központi Pitsilia régióban található", "Vulkáni eredetű diabáz kőzet alkotja", "A Troodos UNESCO Geopark fontos része"],
       ro: ["Altitudine de 1554 metri peste nivelul mării", "Situat în regiunea muntoasă centrală Pitsilia", "Compus în principal din roci vulcanice de diabaz", "Inclus în Geoparcul Troodos protejat de UNESCO"],
       en: ["Elevation of 1,554 meters above sea level", "Located in the central Pitsilia region", "Composed mainly of volcanic diabase rock", "Part of the Troodos UNESCO Global Geopark"],
-    },
-  },
+    }, image: "/poi-images/cyprus-papoutsa-peak-relief-v2.webp"},
   {
     id: "cyprus-kionia-peak-relief-v2",
     type: "peak",
@@ -63,8 +62,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Maximális magassága 1423 méter", "A Machairas állami erdő központi része", "Fontos ciprusi rádióadók telephelye", "A Pediaios-folyó forrásvidékének közelében"],
       ro: ["Înălțime maximă de 1423 metri", "Punct central al pădurii de stat Machairas", "Găzduiește importante relee de comunicații", "Situat aproape de izvoarele râului Pediaios"],
       en: ["Maximum elevation of 1,423 meters", "Core area of the Machairas State Forest", "Site of major Cypriot broadcasting towers", "Located near the headwaters of the Pediaios River"],
-    },
-  },
+    }, image: "/poi-images/cyprus-kionia-peak-relief-v2.webp"},
   {
     id: "cyprus-adelphi-peak-relief-v2",
     type: "peak",
@@ -95,8 +93,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["A csúcs magassága 1612 méter", "A sziklás Madari-gerinc része", "A ritka ciprusi cédrus egyik élőhelye", "Fontos erdészeti tűzfigyelő állomás"],
       ro: ["Înălțimea vârfului este de 1612 metri", "Parte a crestei accidentate Madari", "Habitat pentru cedrul de Troodos rar", "Punct strategic de observație pentru incendii"],
       en: ["Peak elevation is 1,612 meters", "Part of the rugged Madari ridge system", "Habitat for the rare Troodos cedar", "Key forestry fire lookout location"],
-    },
-  },
+    }, image: "/poi-images/cyprus-adelphi-peak-relief-v2.webp"},
   {
     id: "cyprus-kornos-hill-relief-v2",
     type: "mountain",
@@ -127,8 +124,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Magasság: 196 méter", "Átmérő: 2 km", "Távolság Nicosiától: 8 km", "Túraútvonal hossza: 3 km", "Éves látogatók: kb. 30 000", "Növényzettípus: macchia"],
       ro: ["Altitudine: 196 m", "Diametru: 2 km", "Distanța față de Nicosia: 8 km", "Lungimea traseelor: 3 km", "Vizitatori anuali: ~30.000", "Tipul vegetației: maquis"],
       en: ["Height: 196 m (643 ft)", "Diameter: 2 km (1.2 mi)", "Distance from Nicosia: 8 km (5 mi)", "Trail length: 3 km (1.9 mi)", "Annual visitors: ~30,000", "Vegetation type: maquis"],
-    },
-  },
+    }, image: "/poi-images/cyprus-kornos-hill-relief-v2.webp"},
   {
     id: "cyprus-trooditissa-valley-relief-v2",
     type: "valley",
@@ -159,8 +155,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Magasság: 1500 m tszf.", "Völgy hossza: 8 km", "Kolostor kora: 13. század", "Éves csapadék: 600 mm", "Szőlőterület: 200 ha", "Túraútvonal hossza: 15 km"],
       ro: ["Altitudine: 1.500 m", "Lungimea văii: 8 km", "Vechimea mănăstirii: secolul XIII", "Precipitații anuale: 600 mm", "Suprafața viticolă: 200 ha", "Lungimea traseelor: 15 km"],
       en: ["Elevation: 1,500 m (4,900 ft)", "Valley length: 8 km (5 mi)", "Monastery age: 13th century", "Annual rainfall: 600 mm (24 in)", "Vineyard area: 200 ha (494 acres)", "Trail length: 15 km (9.3 mi)"],
-    },
-  },
+    }, image: "/poi-images/cyprus-trooditissa-valley-relief-v2.webp"},
   {
     id: "cyprus-solea-valley-relief-v2",
     type: "valley",
@@ -191,8 +186,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Völgy hossza: 20 km", "Mezőgazdasági terület: 50 km²", "Folyó hossza: 15 km", "Magasság: 200–500 m", "Völgy népessége: kb. 25 000", "Éves csapadék: 400 mm"],
       ro: ["Lungimea văii: 20 km", "Suprafața agricolă: 50 km²", "Lungimea râului: 15 km", "Altitudine: 200–500 m", "Populația văii: ~25.000", "Precipitații anuale: 400 mm"],
       en: ["Valley length: 20 km (12 mi)", "Agricultural area: 50 km² (19 sq mi)", "River length: 15 km (9.3 mi)", "Elevation: 200–500 m (656–1,640 ft)", "Valley population: ~25,000", "Annual rainfall: 400 mm (15.7 in)"],
-    },
-  },
+    }, image: "/poi-images/cyprus-solea-valley-relief-v2.webp"},
   {
     id: "cyprus-mesarya-plain-relief-v2",
     type: "valley",
@@ -223,8 +217,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Terület: 1000 km²", "Hossz: 80 km", "Szélesség: 30 km", "Átlagmagasság: 50 m", "Lakosság: kb. 500 000", "Éves csapadék: 300 mm"],
       ro: ["Suprafață: 1.000 km²", "Lungime: 80 km", "Lățime: 30 km", "Altitudine medie: 50 m", "Populație: ~500.000", "Precipitații anuale: 300 mm"],
       en: ["Area: 1,000 km² (386 sq mi)", "Length: 80 km (50 mi)", "Width: 30 km (19 mi)", "Average elevation: 50 m (164 ft)", "Population: ~500,000", "Annual rainfall: 300 mm (11.8 in)"],
-    },
-  },
+    }, image: "/poi-images/cyprus-mesarya-plain-relief-v2.webp"},
   {
     id: "cyprus-paphos-lowlands-relief-v2",
     type: "valley",
@@ -255,8 +248,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Terület: 300 km²", "Tengerpart hossza: 50 km", "Banántermelés: 10 000 t/év", "Bortermelés: 5 millió liter", "Turisták száma: 1,2 millió", "UNESCO helyszínek: 2"],
       ro: ["Suprafață: 300 km²", "Lungimea coastei: 50 km", "Producția de banane: 10.000 t/an", "Producția de vin: 5 mil. litri", "Sosiri turiști: 1,2 mil.", "Situri UNESCO: 2"],
       en: ["Area: 300 km² (116 sq mi)", "Coastline length: 50 km (31 mi)", "Banana production: 10,000 tonnes/year", "Wine production: 5 million liters/year", "Tourist arrivals: 1.2 million/year", "UNESCO sites: 2 (Paphos, Tombs of the Kings)"],
-    },
-  },
+    }, image: "/poi-images/cyprus-paphos-lowlands-relief-v2.webp"},
   {
     id: "cyprus-karpas-peninsula-relief-v2",
     type: "landmark",
@@ -287,8 +279,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Hossz: 80 km", "Szélesség: 5–15 km", "Legmagasabb pont: 200 m", "Éves látogatók: kb. 200 000", "Teknős fészkek száma: 500/év", "Vadszamarak száma: 1000"],
       ro: ["Lungime: 80 km", "Lățime: 5–15 km", "Punct maxim: 200 m", "Vizitatori anuali: ~200.000", "Cuiburi de țestoase: 500/an", "Populație măgari sălbatici: 1.000"],
       en: ["Length: 80 km (50 mi)", "Width: 5–15 km (3–9 mi)", "Highest point: 200 m (656 ft)", "Annual visitors: ~200,000", "Sea turtle nests: 500/year", "Wild donkey population: 1,000"],
-    },
-  },
+    }, image: "/poi-images/cyprus-karpas-peninsula-relief-v2.webp"},
   {
     id: "cyprus-kyrenia-mountains-relief-v2",
     type: "mountain",
@@ -319,8 +310,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Hossz: 150 km", "Legmagasabb csúcs: 1024 m", "Geológiai képződmény: krétakori mészkő", "Várak száma: 3", "Túraútvonal hossza: 50 km", "Éves látogatók: kb. 300 000"],
       ro: ["Lungime: 150 km", "Vârf maxim: 1.024 m", "Formațiune geologică: calcar cretacic", "Număr castele: 3", "Lungime trasee: 50 km", "Vizitatori anuali: ~300.000"],
       en: ["Length: 150 km (93 mi)", "Highest peak: 1,024 m (3,360 ft)", "Geology: Cretaceous limestone", "Number of castles: 3 (Kyrenia, St. Hilarion, Kantara)", "Trail length: 50 km (31 mi)", "Annual visitors: ~300,000"],
-    },
-  },
+    }, image: "/poi-images/cyprus-kyrenia-mountains-relief-v2.webp"},
   {
     id: "cyprus-pentadaktylos-peak-relief-v2",
     type: "peak",
@@ -351,8 +341,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["A csúcs magassága körülbelül 740 méter", "Masszív Hilarion-mészkő alkotja", "A teljes hegylánc névadó csúcsa", "Digenis Akritas legendája kapcsolódik hozzá"],
       ro: ["Înălțimea vârfului este de circa 740 metri", "Format din calcar masiv de tip Hilarion", "Eponim pentru întregul lanț muntos de nord", "Asociat cu legenda eroului Digenis Akritas"],
       en: ["Peak height of approximately 740 meters", "Composed of massive Hilarion limestone", "Eponymous summit for the entire mountain range", "Linked to the legend of hero Digenis Akritas"],
-    },
-  },
+    }, image: "/poi-images/cyprus-pentadaktylos-peak-relief-v2.webp"},
   {
     id: "cyprus-akkapeli-peak-relief-v2",
     type: "peak",
@@ -383,8 +372,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Meredek lejtői az erózió nyomait viselik.", "A növényzetet főként macchia és garrigue alkotja.", "Alapkőzete a tengeri eredetű üledékes kőzet.", "Számos endemikus rovarfaj él a csúcs közelében.", "A nyári hónapokban a csapadék szinte minimális.", "A hegygerinc jól látható a környező völgyekből."],
       ro: ["Roca de bază este calcarul de origine marină.", "Versanții sunt supuși unei eroziuni eoliene intense.", "Vegetația este adaptată la veri lungi și uscate.", "Adăpostește specii de șopârle specifice insulei.", "Formațiunea indică mișcări tectonice din trecut.", "Stratificarea rocilor este vizibilă pe pantele expuse."],
       en: ["Geological composition is primarily sedimentary limestone.", "The slopes feature prominent erosion gullies.", "Vegetation consists mainly of drought-tolerant scrub.", "Serves as a habitat for local avian species.", "Subject to extreme summer heat and minimal rainfall.", "The peak's topography is shaped by tectonic activity."],
-    },
-  },
+    }, image: "/poi-images/cyprus-akkapeli-peak-relief-v2.webp"},
   {
     id: "cyprus-yaila-plateau-relief-v2",
     type: "mountain",
@@ -415,8 +403,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Magasság: 1400–1600 m", "Terület: 50 km²", "Sípályák hossza: 6 km", "Gát kapacitása: 10 millió m³", "Endemikus növényfajok: 20", "Éves látogatók: kb. 500 000"],
       ro: ["Altitudine: 1.400–1.600 m", "Suprafață: 50 km²", "Pârtii de schi: 6 km lungime totală", "Capacitatea barajului: 10 mil. m³", "Specii endemice de plante: 20", "Vizitatori anuali: ~500.000"],
       en: ["Elevation: 1,400–1,600 m (4,593–5,249 ft)", "Area: 50 km² (19 sq mi)", "Ski slopes: 6 km (3.7 mi) total", "Dam capacity: 10 million m³", "Endemic plant species: 20", "Annual visitors: ~500,000"],
-    },
-  },
+    }, image: "/poi-images/cyprus-yaila-plateau-relief-v2.webp"},
   {
     id: "cyprus-kormakitis-peninsula-relief-v2",
     type: "landmark",
@@ -447,8 +434,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Hossz: 10 km", "Szélesség: 7 km", "Legmagasabb pont: 290 m", "Maronita falvak: 4", "Lakosság: kb. 2000", "Védett terület: 5 km²"],
       ro: ["Lungime: 10 km", "Lățime: 7 km", "Punct maxim: 290 m", "Sate maronite: 4", "Populație: ~2.000", "Arie protejată: 5 km²"],
       en: ["Length: 10 km (6.2 mi)", "Width: 7 km (4.3 mi)", "Highest point: 290 m (951 ft)", "Maronite villages: 4", "Population: ~2,000", "Protected area: 5 km² (1.9 sq mi)"],
-    },
-  },
+    }, image: "/poi-images/cyprus-kormakitis-peninsula-relief-v2.webp"},
   {
     id: "cyprus-akrotiri-peninsula-relief-v2",
     type: "landmark",
@@ -479,8 +465,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Terület: 108 km²", "Hossz: 10 km", "Sótó területe: 5,6 km²", "Legmagasabb pont: 80 m", "Brit katonai zóna: 75 km²", "Madárfajok: több mint 250"],
       ro: ["Suprafață: 108 km²", "Lungime: 10 km", "Suprafața lacului sărat: 5,6 km²", "Punct maxim: 80 m", "Zona militară britanică: 75 km²", "Specii de păsări: peste 250"],
       en: ["Area: 108 km² (42 sq mi)", "Length: 10 km (6.2 mi)", "Salt lake area: 5.6 km² (2.2 sq mi)", "Highest point: 80 m (262 ft)", "British military zone: 75 km² (29 sq mi)", "Bird species: over 250"],
-    },
-  },
+    }, image: "/poi-images/cyprus-akrotiri-peninsula-relief-v2.webp"},
   {
     id: "cyprus-dipkarpaz-lowlands-relief-v2",
     type: "valley",
@@ -511,8 +496,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Terület: 15 km²", "Hossz: 9 km", "Szélesség: 2 km", "Teknős fészkek száma: 300/év", "Átlagos csapadék: 300 mm", "Lakosság: kb. 3000"],
       ro: ["Suprafață: 15 km²", "Lungime: 9 km", "Lățime: 2 km", "Cuiburi de țestoase: 300/an", "Precipitații medii: 300 mm", "Populație: ~3.000"],
       en: ["Area: 15 km² (5.8 sq mi)", "Length: 9 km (5.6 mi)", "Width: 2 km (1.2 mi)", "Sea turtle nests: 300/year", "Average rainfall: 300 mm (11.8 in)", "Population: ~3,000"],
-    },
-  },
+    }, image: "/poi-images/cyprus-dipkarpaz-lowlands-relief-v2.webp"},
   {
     id: "cyprus-troodos-plateau-relief-v2",
     type: "mountain",
@@ -543,8 +527,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: 1952 m", "Terület: 600 km²", "Téli átlaghőmérséklet: 0-5°C", "Hómennyiség: 50 cm/év", "Endemikus növényfajok: 40", "Rézlelőhely: 50 millió t"],
       ro: ["Vârf maxim: 1.952 m", "Suprafață: 600 km²", "Temperatura medie iarna: 0–5°C", "Ninsori: 50 cm/an", "Specii endemice de plante: 40", "Zăcăminte de cupru: 50 mil. t"],
       en: ["Highest peak: 1,952 m (6,404 ft)", "Area: 600 km² (232 sq mi)", "Winter avg temp: 0–5°C (32–41°F)", "Snowfall: 50 cm (20 in)/year", "Endemic plant species: 40", "Copper reserves: 50 million tonnes"],
-    },
-  },
+    }, image: "/poi-images/cyprus-troodos-plateau-relief-v2.webp"},
   {
     id: "cyprus-larnaca-lowlands-relief-v2",
     type: "valley",
@@ -607,8 +590,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Terület: 400 km²", "Hossz: 60 km", "Szélesség: 10 km", "Lakosság: kb. 250 000", "Kikötői forgalom: 10 millió t/év", "Bortermelés: 20 millió liter/év"],
       ro: ["Suprafață: 400 km²", "Lungime: 60 km", "Lățime: 10 km", "Populație: ~250.000", "Trafic portuar: 10 mil. t/an", "Producție vin: 20 mil. litri/an"],
       en: ["Area: 400 km² (154 sq mi)", "Length: 60 km (37 mi)", "Width: 10 km (6.2 mi)", "Population: ~250,000", "Port traffic: 10 million tonnes/year", "Wine production: 20 million liters/year"],
-    },
-  },
+    }, image: "/poi-images/cyprus-limassol-lowlands-relief-v2.webp"},
   {
     id: "cyprus-dierona-valley-relief-v2",
     type: "valley",
@@ -639,8 +621,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Völgy hossza: 8 km", "Magasság: 300–600 m", "Patak hossza: 10 km", "Túraútvonal hossza: 4 km", "Madárfajok: 150", "Lakosság: kb. 500"],
       ro: ["Lungimea văii: 8 km", "Altitudine: 300–600 m", "Lungimea pârâului: 10 km", "Lungimea traseelor: 4 km", "Specii de păsări: 150", "Populație: ~500"],
       en: ["Valley length: 8 km (5 mi)", "Elevation: 300–600 m (984–2,133 ft)", "River length: 10 km (6.2 mi)", "Trail length: 4 km (2.5 mi)", "Bird species: 150", "Population: ~500"],
-    },
-  },
+    }, image: "/poi-images/cyprus-dierona-valley-relief-v2.webp"},
   {
     id: "cyprus-farma-peak-relief-v2",
     type: "peak",
@@ -671,8 +652,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["A nyugati Kerínia-hegyháton található", "A régióra jellemző mészkőgeológia", "Magassága kb. 700 méter a tengerszint felett", "Jellemző mediterrán makkia növényzet övezi"],
       ro: ["Situat în creasta vestică a Munților Kyrenia", "Geologie calcaroasă specifică regiunii", "Altitudine de aproximativ 700 metri", "Înconjurat de vegetație mediteraneană de tip maquis"],
       en: ["Located in the western Kyrenia ridge", "Typical limestone geology of the range", "Elevation of approximately 700 meters", "Surrounded by Mediterranean scrub vegetation"],
-    },
-  },
+    }, image: "/poi-images/cyprus-farma-peak-relief-v2.webp"},
   {
     id: "cyprus-spilia-valley-relief-v2",
     type: "valley",
@@ -703,8 +683,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["A Spilia-völgy területe körülbelül 45 négyzetkilométer.", "A völgy legmagasabb pontja 1 400 méter.", "A Kakopetria faluban található Agios Nikolaos templom a 11. századból származik.", "Évente átlagosan 600 mm csapadék hull a völgyben.", "A helyi mandulaültetvények 50 hektárt foglalnak el.", "A völgyben 8 termálforrás található, átlagos hőmérsékletük 38 °C."],
       ro: ["Valea Spilia face parte din Parcul Național Troodos, întins pe 9.147 de hectare.", "Altitudinea medie a văii este de 800 de metri.", "Aici trăiesc 15 specii de păsări protejate, inclusiv vulturul egiptean.", "Râul Spilia are o lungime de 8 km și un debit mediu de 0,5 m³/s.", "În zonă au fost identificate 30 de peșteri, dintre care 5 sunt accesibile publicului.", "Temperatura medie anuală este de 18 °C, cu minime de 5 °C iarna."],
       en: ["Spilia Valley covers an area of approximately 35 km².", "The highest peak in the valley is Mount Olympos at 1,952 m, but the valley floor is around 600 m.", "The village of Spilia was first mentioned in Byzantine records in 1105.", "The valley's almond trees produce about 200 tons of almonds annually.", "There are 12 Byzantine churches in the valley, most built between the 11th and 16th centuries.", "The copper mines in the valley operated until the early 20th century, with peak production of 5,000 tons in 1905."],
-    },
-  },
+    }, image: "/poi-images/cyprus-spilia-valley-relief-v2.webp"},
   {
     id: "cyprus-platania-valley-relief-v2",
     type: "valley",
@@ -735,8 +714,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["A Platania-völgy hossza 8 km, szélessége pedig 2 km.", "A strandon a víz hőmérséklete nyáron eléri a 28 °C-ot.", "A völgyben 3 kolostor található: Agios Georgios, Agios Theodoros és Agia Marina.", "A ciprusi tulipán (Tulipa cypria) csak ezen a területen honos.", "Évente 200 000 turista látogat a Platania-strandra.", "A halászflotta 15 hajóból áll, éves fogása 500 tonna."],
       ro: ["Valea Platania are o altitudine maximă de 150 m deasupra mării.", "Suprafața văii este de 18 km².", "Aici se află situl arheologic Carpasia, fondat în secolul VII î.Hr.", "Apa subterană are o duritate de 300 mg/l CaCO3.", "Populația văii este de aproximativ 800 de locuitori.", "În vale cresc 60 de specii de plante medicinale."],
       en: ["Platania Valley covers 12 km² of the Karpas Peninsula.", "The valley's coastline stretches for 5 km with several sandy beaches.", "The Apostolos Andreas monastery was built in the 15th century and restored in the 19th.", "The valley hosts over 100 species of birds, including the Cyprus warbler.", "Carob tree groves produce 300 tons of carob pods each year.", "The average summer temperature is 32°C, with mild winters around 15°C."],
-    },
-  },
+    }, image: "/poi-images/cyprus-platania-valley-relief-v2.webp"},
   {
     id: "cyprus-karkotis-valley-relief-v2",
     type: "valley",
@@ -767,8 +745,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Hossza kb. 15 km", "Az öntözőrendszereket a 14. század óta dokumentálják", "A rézlelőhelyeket i.e. 2000-től bányászták", "Átlagos szélesség 1,5 km", "Tengerszint feletti magasság 50-650 m", "Éves csapadékmennyiség kb. 400 mm"],
       ro: ["Lungime aprox. 15 km", "Sistemele de irigații documentate din secolul al XIV-lea", "Exploatarea cuprului începând cu 2000 î.Hr.", "Lățimea medie de 1,5 km", "Altitudine între 50 m și 650 m", "Precipitații anuale de cca. 400 mm"],
       en: ["Length approx. 15 km", "Irrigation systems documented since the 14th century", "Copper mining since 2000 BC", "Average width 1.5 km", "Elevation range 50–650 m", "Annual rainfall approx. 400 mm"],
-    },
-  },
+    }, image: "/poi-images/cyprus-karkotis-valley-relief-v2.webp"},
   {
     id: "cyprus-xeros-valley-relief-v2",
     type: "valley",
@@ -863,8 +840,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Hossza kb. 18 km", "Vízimalmok a 17. századból", "Agios Neophytos kolostor alapítva 1159-ben", "Szőlő termőterület 800 ha", "Népsűrűség 50 fő/km² alatt", "Régészeti leletek i.e. 3000-ből"],
       ro: ["Lungime aprox. 18 km", "Morile de apă din secolul al XVII-lea", "Mănăstirea Agios Neophytos fondată în 1159", "Suprafața viticolă 800 ha", "Densitatea populației sub 50 loc./km²", "Descoperiri arheologice din 3000 î.Hr."],
       en: ["Length approx. 18 km", "Water mills from the 17th century", "Agios Neophytos monastery founded 1159", "Vineyard area 800 ha", "Population density under 50/km²", "Archaeological finds from 3000 BC"],
-    },
-  },
+    }, image: "/poi-images/cyprus-ezousa-valley-relief-v2.webp"},
   {
     id: "cyprus-gourri-valley-relief-v2",
     type: "valley",
@@ -895,8 +871,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Hossza kb. 8 km", "Tengerszint feletti magasság 800-1.200 m", "Azbesztbányák 1980-ig aktívak", "Fenyőerdő borítja a terület 70%-át", "Gourri falu lakossága 200 fő alatt", "Az UNESCO Troodos Geopark része"],
       ro: ["Lungime aprox. 8 km", "Altitudine 800–1.200 m", "Mine de azbest active până în 1980", "Pădurea de pini acoperă 70% din suprafață", "Satul Gourri are sub 200 de locuitori", "Parte a Geoparcului Troodos UNESCO"],
       en: ["Length approx. 8 km", "Elevation 800–1,200 m", "Asbestos mines active until 1980", "Pine forest covers 70% of area", "Gourri village population under 200", "Part of UNESCO Troodos Geopark"],
-    },
-  },
+    }, image: "/poi-images/cyprus-gourri-valley-relief-v2.webp"},
   {
     id: "cyprus-ayios-theodoros-valley-relief-v2",
     type: "valley",
@@ -927,8 +902,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Hossza kb. 10 km", "Magasság 50 m alatt", "Ayios Theodoros lakossága kb. 550", "Bizánci templom a 12. századból", "Sóstavak területe 2 km²", "Éves zöldségtermés 5.000 t"],
       ro: ["Lungime aprox. 10 km", "Altitudine sub 50 m", "Populația satului Ayios Theodoros cca. 550", "Biserica bizantină din secolul al XII-lea", "Suprafața lacurilor sărate 2 km²", "Recolta anuală de legume 5.000 t"],
       en: ["Length approx. 10 km", "Elevation under 50 m", "Population of Ayios Theodoros c. 550", "Byzantine church from 12th century", "Salt lake area 2 km²", "Annual vegetable yield 5,000 t"],
-    },
-  },
+    }, image: "/poi-images/cyprus-ayios-theodoros-valley-relief-v2.webp"},
   {
     id: "cyprus-pedieos-valley-relief-v2",
     type: "valley",
@@ -959,8 +933,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Hossza kb. 50 km", "Folyó hossza 100 km (mellékfolyókkal)", "Magasság 0-300 m", "Völgy lakossága kb. 300.000", "Vízgyűjtő terület 600 km²", "Urbanizációs ráta 5% évtizedenként"],
       ro: ["Lungime aprox. 50 km", "Lungimea râului 100 km (inclusiv afluenți)", "Altitudine 0–300 m", "Populația văii cca. 300.000", "Suprafața bazinului 600 km²", "Rata de urbanizare 5% pe deceniu"],
       en: ["Length approx. 50 km", "River length 100 km (incl. tributaries)", "Elevation 0–300 m", "Valley population c. 300,000", "Watershed area 600 km²", "Urbanization rate 5% per decade"],
-    },
-  },
+    }, image: "/poi-images/cyprus-pedieos-valley-relief-v2.webp"},
   {
     id: "cyprus-gialias-valley-relief-v2",
     type: "valley",
@@ -1023,8 +996,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Hossza kb. 10 km", "Magasság 200-500 m", "Kőhidak a 19. századból", "Kathikas bortermelés évi 500.000 palack", "Vízimalom a 18. századból", "Túraútvonal hossza 5 km"],
       ro: ["Lungime aprox. 10 km", "Altitudine 200–500 m", "Poduri de piatră din secolul al XIX-lea", "Producția de vin Kathikas 500.000 de sticle anual", "Moara de apă din secolul al XVIII-lea", "Lungimea traseului de drumeție 5 km"],
       en: ["Length approx. 10 km", "Elevation 200–500 m", "Stone bridges from the 19th century", "Kathikas wine production 500,000 bottles annually", "Water mill from the 18th century", "Hiking trail length 5 km"],
-    },
-  },
+    }, image: "/poi-images/cyprus-serrachis-valley-relief-v2.webp"},
   {
     id: "cyprus-akamas-highlands-relief-v2",
     type: "mountain",
@@ -1055,8 +1027,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Átlagmagasság 600 m", "Nemzeti park területe 230 km²", "Endemikus növényfajok 32", "Muflon populáció kb. 500", "Legmagasabb pont 700 m", "Szurdokok mélysége akár 200 m"],
       ro: ["Altitudine medie 600 m", "Suprafața parcului național 230 km²", "Specii endemice de plante 32", "Populația de muflon cca. 500", "Cel mai înalt punct 700 m", "Chei adânci de până la 200 m"],
       en: ["Average elevation 600 m", "National park area 230 km²", "Endemic plant species 32", "Mouflon population c. 500", "Highest point 700 m", "Gorges up to 200 m deep"],
-    },
-  },
+    }, image: "/poi-images/cyprus-akamas-highlands-relief-v2.webp"},
   {
     id: "cyprus-laona-plateau-relief-v2",
     type: "mountain",
@@ -1087,8 +1058,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Terület kb. 30 km²", "Átlagmagasság 400 m", "Karsztbarlangok 15 dokumentált", "Endemikus orchidea 6 faj", "Bizánci kápolnák a 12. századból", "Éves csapadék 350 mm"],
       ro: ["Suprafață cca. 30 km²", "Altitudine medie 400 m", "Peșteri carstice 15 documentate", "Specii endemice de orhidee 6", "Capele bizantine din secolul al XII-lea", "Precipitații anuale 350 mm"],
       en: ["Area c. 30 km²", "Average elevation 400 m", "Documented karst caves 15", "Endemic orchid species 6", "Byzantine chapels from 12th century", "Annual rainfall 350 mm"],
-    },
-  },
+    }, image: "/poi-images/cyprus-laona-plateau-relief-v2.webp"},
   {
     id: "cyprus-troodos-foothills-relief-v2",
     type: "mountain",
@@ -1119,8 +1089,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Terület kb. 400 km²", "Magasság 300-800 m", "Commandaria bor a 12. század óta", "UNESCO templomok 10", "Erdőterület 60%", "Lakosság kb. 50.000"],
       ro: ["Suprafață cca. 400 km²", "Altitudine 300–800 m", "Vin Commandaria din secolul al XII-lea", "Biserici UNESCO 10", "Suprafața împădurită 60%", "Populație cca. 50.000"],
       en: ["Area c. 400 km²", "Elevation 300–800 m", "Commandaria wine since 12th century", "UNESCO churches 10", "Forest cover 60%", "Population c. 50,000"],
-    },
-  },
+    }, image: "/poi-images/cyprus-troodos-foothills-relief-v2.webp"},
   {
     id: "cyprus-kassianes-hill-relief-v2",
     type: "mountain",
@@ -1183,8 +1152,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Magasság 689 m", "Kolostor alapítva 327-ben", "Kolostor területe 2.000 m²", "Larnaca körzet legmagasabb pontja", "Éves zarándokok 50.000", "Kereszt ereklye a 4. század óta"],
       ro: ["Înălțime 689 m", "Mănăstire fondată în 327 d.Hr.", "Suprafața mănăstirii 2.000 m²", "Cel mai înalt punct din districtul Larnaca", "Pelerini anual 50.000", "Rămășița crucii din secolul al IV-lea"],
       en: ["Height 689 m", "Monastery founded 327 AD", "Monastery area 2,000 m²", "Highest point in Larnaca district", "Annual pilgrims 50,000", "Cross relic since 4th century"],
-    },
-  },
+    }, image: "/poi-images/cyprus-stavrovouni-mountain-relief-v2.webp"},
   {
     id: "cyprus-aetomouti-hill-relief-v2",
     type: "mountain",
@@ -1215,8 +1183,7 @@ export const cyprusReliefV2: POI[] = [
       hu: ["Magasság 520 m", "Természetvédelmi terület 5 km²", "Madárfajok 80 regisztrált", "Római romok a 2. századból", "Túraútvonal hossza 4 km", "Látótávolság 30 km tiszta napokon"],
       ro: ["Înălțime 520 m", "Suprafața rezervației 5 km²", "Specii de păsări 80 înregistrate", "Ruine romane din secolul al II-lea", "Lungime traseu drumeție 4 km", "Vizibilitate 30 km în zile senine"],
       en: ["Height 520 m", "Nature reserve area 5 km²", "Bird species 80 recorded", "Roman ruins from 2nd century", "Hiking trail length 4 km", "Visibility 30 km on clear days"],
-    },
-  },
+    }, image: "/poi-images/cyprus-aetomouti-hill-relief-v2.webp"},
   {
     id: "cyprus-krasochoria-hills-relief-v2",
     type: "mountain",

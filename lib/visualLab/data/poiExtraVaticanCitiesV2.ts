@@ -1256,8 +1256,7 @@ imageHint: "Santa Maria della Pietà in Campo Santo Teutonico",
       hu: ["Épült: 1964", "Befogadóképesség: 6.000 fő", "Magasság: 25 m", "Terület: 3.000 m²", "Építész: Giuseppe Vaccaro", "Költség: 5 millió líra"],
       ro: ["Construit în 1964", "Capacitate: 6.000 de persoane", "Înălțime: 25 m", "Suprafață: 3.000 m²", "Arhitect: Giuseppe Vaccaro", "Cost: 5 milioane de lire"],
       en: ["Built in 1964", "Capacity: 6,000 people", "Height: 25 m", "Area: 3,000 m²", "Architect: Giuseppe Vaccaro", "Cost: 5 million lire"],
-    },
-  }
+    }, image: "/poi-images/vatican-palazzo-di-san-pio-x-cities-v2.webp"}
 ,
   {
     id: "vatican-bunker-access-cities-v2",
@@ -1321,8 +1320,7 @@ imageHint: "Santa Maria della Pietà in Campo Santo Teutonico",
       hu: ["Tervezve: 1657", "Alkotó: Gian Lorenzo Bernini", "Anyag: travertin", "Magasság: 4 m", "Szélesség: 2,5 m", "Vízátfolyás: 10 liter másodpercenként"],
       ro: ["Proiectată în 1657", "Creator: Gian Lorenzo Bernini", "Material: travertin", "Înălțime: 4 m", "Lățime: 2,5 m", "Debit de apă: 10 litri pe secundă"],
       en: ["Designed in 1657", "Creator: Gian Lorenzo Bernini", "Material: Travertine", "Height: 4 m", "Width: 2.5 m", "Water flow: 10 liters per second"],
-    },
-  },
+    }, image: "/poi-images/vatican-fountain-of-the-galley-cities-v2.webp"},
   {
     id: "vatican-storage-annex-cities-v2",
     type: "industry",

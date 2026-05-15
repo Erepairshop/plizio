@@ -31,8 +31,7 @@ export const italyLandmarksV2: POI[] = [
       hu: ["Építése 1228-ban kezdődött", "2000 óta világörökség", "28 freskó Giotto ciklusában", "Szent Ferenc nyughelye"],
       ro: ["Construcție între 1228-1253", "Patrimoniu UNESCO din 2000", "28 de fresce de Giotto", "Mormântul Sfântului Francisc"],
       en: ["Built between 1228 and 1253", "UNESCO site since 2000", "28 Giotto fresco panels", "Burial place of St. Francis"],
-    },
-  },
+    }, image: "/poi-images/italy-basilica-di-san-francesco-assisi-landmarks-v2.webp"},
   {
     id: "italy-teatro-la-fenice-landmarks-v2",
     type: "theater",
@@ -63,8 +62,7 @@ export const italyLandmarksV2: POI[] = [
       hu: ["Az operaház neve magyarul Főnix Színházat jelent", "1851-ben itt mutatták be először Giuseppe Verdi Rigolettoját", "Az 1996-os tűz után Aldo Rossi tervei alapján építették újjá", "A nézőtér befogadóképessége jelenleg körülbelül 1000 fő", "A belső díszítés az 1837-es empire stílust követi hűen", "A színházat 2003 decemberében nyitották meg újra gálakoncerttel"],
       ro: ["Inaugurarea oficială a avut loc la 16 mai 1792", "Aici au avut loc premierele mondiale pentru cinci opere de Verdi", "Incendiul din 1996 a fost provocat intenționat de doi electricieni", "Reconstrucția a respectat deviza „cum a fost, unde a fost”", "Tavanul sălii principale este decorat cu picturi alegorice", "Arhitectul Aldo Rossi a coordonat reconstrucția finalizată în 2003"],
       en: ["The theatre was founded in 1792 by the Nobile Società", "World premiere location for Rossini's Tancredi in 1813", "Destroyed by arson in 1996, leading to a 7-year reconstruction", "The main auditorium features elaborate 19th-century stuccowork", "It was the first major opera house to be lit by gas in 1844", "The site originally housed the San Benedetto Theatre"],
-    },
-  },
+    }, image: "/poi-images/italy-teatro-la-fenice-landmarks-v2.webp"},
   {
     id: "italy-mole-antonelliana-landmarks-v2",
     type: "tower",
@@ -95,8 +93,7 @@ export const italyLandmarksV2: POI[] = [
       hu: ["Az épületet eredetileg zsinagógának szánta a zsidó közösség", "1889-es befejezésekor a világ legmagasabb téglaépülete volt", "Alessandro Antonelli építész 90 évesen halt meg a befejezés előtt", "A 85 méter magas teraszról belátható az egész Alpok vonulata", "A belső térben 2000-ben nyílt meg a Nemzeti Filmmúzeum", "A kupola külső falán a Fibonacci-számok világítanak neonfényben"],
       ro: ["Construcția a durat 26 de ani, între 1863 și 1889", "Fundația clădirii este realizată integral din zidărie de cărămidă", "Liftul panoramic central este suspendat prin cabluri de oțel", "Vârful clădirii a fost lovit de un trăsnet distructiv în 1904", "Clădirea apare pe reversul monedei de 2 eurocenți din Italia", "Muzeul cinematografiei expune peste 7.000 de filme vechi"],
       en: ["Total height of 167.5 meters (549 feet) to the tip", "Completed in 1889, the same year as the Eiffel Tower", "Originally commissioned by the Jewish community of Turin", "The spire features a statue of a winged genie at the top", "Home to one of the world's most visited cinema museums", "The panoramic balcony is located at 85 meters height"],
-    },
-  },
+    }, image: "/poi-images/italy-mole-antonelliana-landmarks-v2.webp"},
   {
     id: "italy-abbazia-di-san-galgano-landmarks-v2",
     type: "ruins",
@@ -127,8 +124,7 @@ export const italyLandmarksV2: POI[] = [
       hu: ["Építés kezdete: 1218.", "Templom: 69 m hosszú, 21 m széles.", "Tetőszerkezet beomlott 1789-ben.", "Montesiepi kápolna kőbe szúrt karddal.", "Egykori ciszterci apátság.", "Toszkánában."],
       ro: ["Construcția a început în 1218.", "Biserica: 69 m lungime, 21 m lățime.", "Acoperișul s-a prăbușit în 1789.", "Capela Montesiepi cu sabia în piatră.", "Fostă mănăstire cisterciană.", "În Toscana."],
       en: ["Construction started in 1218.", "Church: 69 m long, 21 m wide.", "Roof collapsed in 1789.", "Montesiepi chapel with sword in stone.", "Former Cistercian abbey.", "In Tuscany."],
-    },
-  },
+    }, image: "/poi-images/italy-abbazia-di-san-galgano-landmarks-v2.webp"},
   {
     id: "italy-palazzo-chiericati-landmarks-v2",
     type: "palace",
@@ -159,8 +155,7 @@ export const italyLandmarksV2: POI[] = [
       hu: ["Tervezése 1550-ben kezdődött", "Befejezés a 17. század végén", "Vicenza világörökségi része", "A Városi Múzeum székhelye"],
       ro: ["Proiectat în anul 1550", "Finalizat în secolul al XVII-lea", "Inclus în patrimoniul UNESCO", "Sediul Muzeului Civic"],
       en: ["Designed in 1550", "Completed in the 17th century", "Part of UNESCO heritage", "Houses the Civic Museum"],
-    },
-  },
+    }, image: "/poi-images/italy-palazzo-chiericati-landmarks-v2.webp"},
   {
     id: "italy-duomo-di-milano-landmarks-v2",
     type: "cathedral",
@@ -191,8 +186,7 @@ export const italyLandmarksV2: POI[] = [
       hu: ["Ez a világ ötödik legnagyobb keresztény temploma", "A tetőteraszon 135 kőcsipkés torony és fiatorony található", "Az aranyozott Madonnina-szobrot 1774-ben helyezték el a csúcson", "A dóm építéséhez külön csatornát ástak a márvány szállítására", "Belső terét 52 hatalmas oszlop osztja öt hajóra", "Napóleon Bonapartét itt koronázták olasz királlyá 1805-ben"],
       ro: ["Catedrala are o suprafață totală de 11.700 de metri pătrați", "Marmura de Candoglia este extrasă exclusiv pentru acest dom", "Există peste 2.300 de statui amplasate doar pe exterior", "Vitraliile corului sunt printre cele mai mari din lume", "Acoperișul este accesibil turiștilor pentru vizitarea teraselor", "Lungimea fațadei principale este de 67,9 metri"],
       en: ["The cathedral features exactly 135 spires and pinnacles", "It took 579 years to complete the entire construction", "The Madonnina statue is 4.16 meters tall and gilded in gold", "Inside, a red light marks the spot of a Holy Nail relic", "Total interior floor area reaches 11,700 square meters", "The structure is supported by 52 massive interior pillars"],
-    },
-  },
+    }, image: "/poi-images/italy-duomo-di-milano-landmarks-v2.webp"},
   {
     id: "italy-tempio-malatestiano-landmarks-v2",
     type: "cathedral",
@@ -223,8 +217,7 @@ export const italyLandmarksV2: POI[] = [
       hu: ["Az átépítés 1450-ben indult", "Építész: Leon Battista Alberti", "Giotto feszülete (1312 körül)", "Piero della Francesca freskója"],
       ro: ["Reconstrucție din 1450", "Arhitect Leon Battista Alberti", "Crucifix de Giotto (c. 1312)", "Frescă de Piero della Francesca"],
       en: ["Reconstruction started in 1450", "Architect Leon Battista Alberti", "Giotto crucifix from c. 1312", "Piero della Francesca fresco"],
-    },
-  },
+    }, image: "/poi-images/italy-tempio-malatestiano-landmarks-v2.webp"},
   {
     id: "italy-basilica-san-zeno-verona-landmarks-v2",
     type: "church",
@@ -255,8 +248,7 @@ export const italyLandmarksV2: POI[] = [
       hu: ["Épült 1120 és 1138 között", "48 bronzpanel a kapun", "Mantegna oltárképe (1459)", "72 méter magas harangtorony"],
       ro: ["Construită între 1120-1138", "48 de panouri de bronz la poartă", "Altar de Mantegna (1459)", "Turnul are 72 de metri înălțime"],
       en: ["Built between 1120 and 1138", "48 bronze panels on the doors", "Mantegna altarpiece (1459)", "Bell tower is 72 meters high"],
-    },
-  },
+    }, image: "/poi-images/italy-basilica-san-zeno-verona-landmarks-v2.webp"},
   {
     id: "italy-basilica-di-san-giorgio-maggiore-landmarks-v2",
     type: "church",
@@ -287,8 +279,7 @@ export const italyLandmarksV2: POI[] = [
       hu: ["Építése 1566-ban kezdődött", "Építész: Andrea Palladio", "Tintoretto: Az utolsó vacsora", "75 méter magas harangtorony"],
       ro: ["Construcție începută în 1566", "Arhitect Andrea Palladio", "Ultima Cină de Tintoretto", "Campanila are 75 de metri"],
       en: ["Construction began in 1566", "Architect Andrea Palladio", "Tintoretto's Last Supper", "Bell tower is 75 meters high"],
-    },
-  },
+    }, image: "/poi-images/italy-basilica-di-san-giorgio-maggiore-landmarks-v2.webp"},
   {
     id: "italy-abbazia-di-fossanova-landmarks-v2",
     type: "church",

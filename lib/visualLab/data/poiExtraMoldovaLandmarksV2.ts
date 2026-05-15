@@ -858,8 +858,7 @@ export const moldovaLandmarksV2: POI[] = [
         hu: ["1861-ben alapították a Neamț-kolostor szerzetesei.", "A 69 méter magas harangtorony a legmagasabb Moldovában.", "A komplexum négy különálló templomból áll.", "A szovjet korszakban bezárták, 1990-ben nyitották meg újra.", "Papnevelde is működik benne.", "Orosz-bizánci építészeti stílus jellemzi.", "Chițcani faluban, a Dnyeszter partján található."],
         ro: ["Fondată în 1861 de călugări de la Mănăstirea Neamț.", "Clopotnița de 69 de metri este cea mai înaltă din Moldova.", "Complexul include patru biserici separate.", "A fost închisă în perioada sovietică și redeschisă în 1990.", "Găzduiește un seminar teologic.", "Arhitectură în stil ruso-bizantin.", "Situată în satul Chițcani, pe malul Nistrului."],
         en: ["Founded in 1861 by monks from Neamț Monastery.", "The 69-meter bell tower is the tallest in Moldova.", "The complex includes four separate churches.", "Was closed during the Soviet era and reopened in 1990.", "It hosts a theological seminary.", "Architecture is in the Russian-Byzantine style.", "Located in the village of Chițcani on the Dniester river."]
-    }
-  },
+    }, image: "/poi-images/moldova-noul-neamt-monastery-landmarks-v2.webp"},
   {
     id: "moldova-chisinau-circus-landmarks-v2",
     parent: "MD",

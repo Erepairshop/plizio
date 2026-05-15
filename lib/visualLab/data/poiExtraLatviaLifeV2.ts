@@ -31,8 +31,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["1921-ben alapították", "Területe nagyjából 163 km²", "A Zilie kalni magassága 35 m", "Kolka-fok találkozási pontja", "Fontos madárvonulási útvonal", "Balti-tenger partvidéki sávja"],
       ro: ["Fondat oficial în anul 1921", "Suprafață totală de 16.300 ha", "Include Dealurile Albastre", "Punctul terminus Capul Kolka", "Peste 6000 de specii de nevertebrate", "Climat maritim temperat"],
       en: ["Established in 1921", "Total area of 163 square km", "Features 35m high Blue Hills", "Home to Cape Kolka lighthouse", "Strategic bird migration corridor", "Includes marine protected zones"],
-    },
-  },
+    }, image: "/poi-images/latvia-slitere-national-park-life-v2.webp"},
   {
     id: "latvia-teici-nature-reserve-life-v2",
     type: "wildlife",
@@ -63,8 +62,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["19 779 hektár az összterülete", "Alapítási éve 1982", "Baltikum legnagyobb mocsara", "180 madárfaj fészkelőhelye"],
       ro: ["Suprafață de 19.779 hectare", "Fondată în anul 1982", "Cea mai mare mlaștină baltică", "Peste 180 specii de păsări"],
       en: ["Area of 19,779 hectares", "Established in 1982", "Largest bog in the Baltics", "Over 180 bird species recorded"],
-    },
-  },
+    }, image: "/poi-images/latvia-teici-nature-reserve-life-v2.webp"},
   {
     id: "latvia-krustkalni-nature-reserve-life-v2",
     type: "forest",
@@ -95,8 +93,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["1977-ben alapították", "Terület: 2820 hektár", "Legmagasabb pont: 165 m tszf.", "Kb. 30 km kijelölt túraút", "Barnamedvék előfordulása (10-15 egyed)", "Több mint 100 madárfajt figyeltek meg"],
       ro: ["Fondată în 1977", "Suprafață: 2.820 hectare", "Cel mai înalt punct: 165 m deasupra nivelului mării", "Aproximativ 30 km de trasee marcate", "Prezența urșilor bruni (10-15 indivizi)", "Peste 100 de specii de păsări observate"],
       en: ["Established in 1977", "Area: 2,820 hectares", "Highest point: 165 m above sea level", "About 30 km of marked hiking trails", "Brown bears present (10-15 individuals)", "Over 100 bird species observed"],
-    },
-  },
+    }, image: "/poi-images/latvia-krustkalni-nature-reserve-life-v2.webp"},
   {
     id: "latvia-grieze-nature-park-life-v2",
     type: "park",
@@ -159,8 +156,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["2003-ban kapott parki rangot", "1999-ben érkeztek az első lovak", "250-nél több megfigyelt madárfaj", "1200 hektáros Pape-tó területe"],
       ro: ["Parc natural din anul 2003", "Cai reintroduși în 1999", "Peste 250 specii de păsări", "Lacul Pape are 1200 hectare"],
       en: ["Established as a park in 2003", "Horses reintroduced in 1999", "Over 250 bird species recorded", "1,200 hectare Pape Lake area"],
-    },
-  },
+    }, image: "/poi-images/latvia-pape-nature-park-life-v2.webp"},
   {
     id: "latvia-daugavas-loki-nature-park-life-v2",
     type: "river",
@@ -191,8 +187,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["1990-ben természeti parkká nyilvánították", "Terület: 12 130 hektár", "A védett folyókanyarulatok hossza: 30 km", "Legmagasabb pont: 90 m tszf.", "38 halfaj előfordulása", "Több mint 200 madárfajt regisztráltak"],
       ro: ["Înființat în 1990 ca parc natural", "Suprafață: 12.130 hectare", "Lungimea meandrelor protejate: 30 km", "Cel mai înalt punct: 90 m deasupra nivelului mării", "Prezența a 38 de specii de pești", "Peste 200 de specii de păsări înregistrate"],
       en: ["Established as a nature park in 1990", "Area: 12,130 hectares", "Length of protected river bends: 30 km", "Highest point: 90 m above sea level", "38 fish species present", "Over 200 bird species recorded"],
-    },
-  },
+    }, image: "/poi-images/latvia-daugavas-loki-nature-park-life-v2.webp"},
   {
     id: "latvia-dune-reserve-life-v2",
     type: "park",
@@ -223,8 +218,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["Szürke dűnék övezet", "100 évnél idősebb fenyőerdők", "Partvonal stabilizáló szerep", "Homoki nád és egyéb füvek", "Ritka bogárfajok élőhelye", "Balti-tengeri sós pára hatása"],
       ro: ["Dune gri cu vegetație fixă", "Păduri de pini seculari", "Controlul eroziunii marine", "Habitate prioritare europene", "Prezența tritonului cu creastă", "Zonă de repaus pentru păsări"],
       en: ["Protection of gray dune zones", "Pine trees over 100 years old", "Natural coastal barrier system", "Rare Baltic flora species", "Insect biodiversity hotspot", "Sandy soil nutrient dynamics"],
-    },
-  },
+    }, image: "/poi-images/latvia-dune-reserve-life-v2.webp"},
   {
     id: "latvia-cinis-forest-reserve-life-v2",
     type: "forest",
@@ -255,8 +249,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["1957-ben alapították", "Terület: 163 hektár", "Fák kora akár 250 év", "Mind a nyolc hazai harkályfaj előfordul", "Holtfavolumen: több mint 50 m³/ha", "Több mint 200 gombafajt azonosítottak"],
       ro: ["Fondată în 1957", "Suprafață: 163 hectare", "Vârsta arborilor de până la 250 de ani", "Toate cele opt specii de ciocănitori prezente", "Volum de lemn mort: peste 50 m³/ha", "Peste 200 de specii de ciuperci identificate"],
       en: ["Established in 1957", "Area: 163 hectares", "Tree age up to 250 years", "All eight native woodpecker species present", "Dead wood volume: over 50 m³/ha", "Over 200 fungal species identified"],
-    },
-  },
+    }, image: "/poi-images/latvia-cinis-forest-reserve-life-v2.webp"},
   {
     id: "latvia-lubans-wetland-reserve-life-v2",
     type: "lake",
@@ -287,8 +280,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["Ramsari terület 1998 óta", "Terület: 9800 hektár", "Lubāns-tó: 25,8 km²", "Legnagyobb tómélység: 3,5 m", "Több mint 200 madárfajt regisztráltak", "Szibériai nőszirom állomány: kb. 5000 tö"],
       ro: ["Sit Ramsar din 1998", "Suprafață: 9.800 hectare", "Lacul Lubāns: 25,8 km²", "Adâncimea maximă a lacului: 3,5 m", "Peste 200 de specii de păsări înregistrate", "Populație de iris siberian: aproximativ 5.000 de exemplare"],
       en: ["Ramsar site since 1998", "Area: 9,800 hectares", "Lake Lubāns: 25.8 km²", "Maximum lake depth: 3.5 m", "Over 200 bird species recorded", "Siberian iris population: ca. 5,000 specimens"],
-    },
-  },
+    }, image: "/poi-images/latvia-lubans-wetland-reserve-life-v2.webp"},
   {
     id: "latvia-abava-valley-nature-park-life-v2",
     type: "park",
@@ -319,8 +311,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["Összterülete 14 932 hektár", "Sabilei szőlőhegy (Guinness)", "Abavas rumba 2 m-es vízesés", "Māras kambari barlangrendszer", "50 km-es folyószakasz", "Mészkő és dolomit sziklák"],
       ro: ["Suprafață de 14.932 hectare", "Podgoria Sabile (record mondial)", "Cascada Abavas Rumba (2m)", "Peșterile Māras kambari", "Râul parcurge 50 km în sit", "Formațiuni de dolomită"],
       en: ["Total area of 14,932 hectares", "Sabile Vineyard (northernmost)", "Abavas Rumba waterfall (2m)", "Māras kambari sand caves", "50 km of protected river path", "Devonian dolomite outcrops"],
-    },
-  },
+    }, image: "/poi-images/latvia-abava-valley-nature-park-life-v2.webp"},
   {
     id: "latvia-engure-lake-nature-park-life-v2",
     type: "lake",
@@ -351,8 +342,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["1998-ban alapították", "Terület: 12 600 hektár", "Tófelület: 44,6 km²", "Legnagyobb tómélység: 2,1 m", "Ramsari terület 2000 óta", "Ornitológiai kutatás 1957 óta"],
       ro: ["Fondat în 1998", "Suprafață: 12.600 hectare", "Suprafața lacului: 44,6 km²", "Adâncimea maximă a lacului: 2,1 m", "Sit Ramsar din 2000", "Cercetare ornitologică din 1957"],
       en: ["Established in 1998", "Area: 12,600 hectares", "Lake area: 44.6 km²", "Maximum lake depth: 2.1 m", "Ramsar site since 2000", "Ornithological research since 1957"],
-    },
-  },
+    }, image: "/poi-images/latvia-engure-lake-nature-park-life-v2.webp"},
   {
     id: "latvia-kanieris-lake-nature-park-life-v2",
     type: "lake",
@@ -383,8 +373,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["1998-ban alapították", "Terület: 4300 hektár", "Tófelület: 12,8 km²", "Legnagyobb tómélység: 1,5 m", "Bölömbika fészkelő párok: kb. 10", "Rétisas fészkelő párok: 3-5"],
       ro: ["Fondat în 1998", "Suprafață: 4.300 de hectare", "Suprafața lacului: 12,8 km²", "Adâncimea maximă a lacului: 1,5 m", "Perechi cuibăritoare de stârc: aproximativ 10", "Perechi cuibăritoare de codalb: 3-5"],
       en: ["Established in 1998", "Area: 4,300 hectares", "Lake area: 12.8 km²", "Maximum lake depth: 1.5 m", "Breeding pairs of bittern: ca. 10", "Breeding pairs of white-tailed eagle: 3-5"],
-    },
-  },
+    }, image: "/poi-images/latvia-kanieris-lake-nature-park-life-v2.webp"},
   {
     id: "latvia-burtnieks-lake-nature-park-life-v2",
     type: "lake",
@@ -415,8 +404,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["2001-ben alapították", "Terület: 10 300 hektár", "Tófelület: 40,2 km²", "Legnagyobb tómélység: 3,3 m", "Halászsas fészkelő párok: kb. 15", "Szigetek száma a tóban: 3"],
       ro: ["Fondat în 2001", "Suprafață: 10.300 de hectare", "Suprafața lacului: 40,2 km²", "Adâncimea maximă a lacului: 3,3 m", "Perechi cuibăritoare de vultur pescar: aproximativ 15", "Numărul de insule din lac: 3"],
       en: ["Established in 2001", "Area: 10,300 hectares", "Lake area: 40.2 km²", "Maximum lake depth: 3.3 m", "Osprey breeding pairs: ca. 15", "Number of islands in the lake: 3"],
-    },
-  },
+    }, image: "/poi-images/latvia-burtnieks-lake-nature-park-life-v2.webp"},
   {
     id: "latvia-razna-national-park-life-v2",
     type: "park",
@@ -447,8 +435,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["59 615 hektár a teljes terület", "2007-es hivatalos alapítás", "57,5 km² a tó vízfelülete", "Latgale régióban található"],
       ro: ["59.615 hectare suprafață totală", "Înființat oficial în 2007", "Lacul are 57,5 km² suprafață", "Situat în regiunea Latgale"],
       en: ["Total area of 59,615 hectares", "Established in 2007", "Lake surface area 57.5 km²", "Located in the Latgale region"],
-    },
-  },
+    }, image: "/poi-images/latvia-razna-national-park-life-v2.webp"},
   {
     id: "latvia-gauja-nature-trail-life-v2",
     type: "park",
@@ -479,8 +466,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["Az útvonal hossza kb. 5 km", "Vörös devon homokkő falak", "Sziklák magassága eléri a 20 m-t", "Gūtmaņala barlang közelsége", "400 millió éves kőzetek", "Sigulda környéki szakasz"],
       ro: ["Lungime traseu: aprox. 5 km", "Gresie roșie din perioada Devon", "Înălțime faleze: până la 20 m", "Peștera Gūtmaņala în apropiere", "Roci vechi de 400 mil. ani", "Regiunea turistică Sigulda"],
       en: ["Trail length approximately 5 km", "Red Devonian sandstone cliffs", "Cliff height up to 20 meters", "Near Gutman's Cave system", "400 million year old formations", "Located in Sigulda district"],
-    },
-  },
+    }, image: "/poi-images/latvia-gauja-nature-trail-life-v2.webp"},
   {
     id: "latvia-moricsala-nature-reserve-life-v2",
     type: "forest",
@@ -543,8 +529,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["127 méter magas a domb", "1977 óta védett terület", "Valmiera városa közelében fekszik", "Ősi balti kultikus helyszín"],
       ro: ["Înălțimea dealului este de 127 m", "Statut de protecție din 1977", "Lângă orașul Valmiera", "Sit de cult antic al balților"],
       en: ["Hill peak at 127 meters", "Protected status since 1977", "Located near the city Valmiera", "Site of an ancient Baltic cult"],
-    },
-  },
+    }, image: "/poi-images/latvia-zilaiskalns-nature-park-life-v2.webp"},
   {
     id: "latvia-dviete-floodplain-nature-park-life-v2",
     type: "river",
@@ -575,8 +560,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["1991-ben alapították", "Terület: 3600 hektár", "Túraút hossza: 15 km", "Több mint 150 madárfajt figyeltek meg", "Évente 10 000 átvonuló lúd", "Legmagasabb pont: 40 m tszf."],
       ro: ["Fondat în 1991", "Suprafață: 3.600 de hectare", "Lungimea traseului de drumeție: 15 km", "Peste 150 de specii de păsări observate", "10.000 de gâște care migrează anual", "Cel mai înalt punct: 40 m deasupra nivelului mării"],
       en: ["Established in 1991", "Area: 3,600 hectares", "Hiking trail length: 15 km", "Over 150 bird species observed", "10,000 geese migrating annually", "Highest point: 40 m above sea level"],
-    },
-  },
+    }, image: "/poi-images/latvia-dviete-floodplain-nature-park-life-v2.webp"},
   {
     id: "latvia-liepaja-lake-nature-reserve-life-v2",
     type: "lake",
@@ -607,8 +591,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["1977-ben alapították", "Terület: 4600 hektár", "Tófelület: 37,5 km²", "Legnagyobb tómélység: 2,0 m", "Több mint 180 madárfajt regisztráltak", "Balti-tengerhez vezető csatorna hossza: 2,5 km"],
       ro: ["Fondată în 1977", "Suprafață: 4.600 de hectare", "Suprafața lacului: 37,5 km²", "Adâncimea maximă a lacului: 2,0 m", "Peste 180 de specii de păsări înregistrate", "Lungimea canalului către Marea Baltică: 2,5 km"],
       en: ["Established in 1977", "Area: 4,600 hectares", "Lake area: 37.5 km²", "Maximum lake depth: 2.0 m", "Over 180 bird species recorded", "Channel to Baltic Sea: 2.5 km long"],
-    },
-  },
+    }, image: "/poi-images/latvia-liepaja-lake-nature-reserve-life-v2.webp"},
   {
     id: "latvia-garkalnes-forest-nature-park-life-v2",
     type: "forest",
@@ -639,8 +622,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["1991-ben alapították", "Terület: 2100 hektár", "Túrautak hossza: 30 km", "Legmagasabb pont: 30 m tszf.", "Faállomány: 80% fenyő, 20% luc", "Szarvasok állománya: kb. 100 egyed"],
       ro: ["Fondat în 1991", "Suprafață: 2.100 de hectare", "Lungimea traseelor de drumeție: 30 km", "Cel mai înalt punct: 30 m deasupra nivelului mării", "Compoziția arborilor: 80% pin, 20% molid", "Populație de cerb: aproximativ 100 de indivizi"],
       en: ["Established in 1991", "Area: 2,100 hectares", "Length of hiking trails: 30 km", "Highest point: 30 m above sea level", "Tree composition: 80% pine, 20% spruce", "Red deer population: ca. 100 individuals"],
-    },
-  },
+    }, image: "/poi-images/latvia-garkalnes-forest-nature-park-life-v2.webp"},
   {
     id: "latvia-valmiera-nature-site-life-v2",
     type: "park",
@@ -671,8 +653,7 @@ export const latviaLifeV2: POI[] = [
       hu: ["Partmagasság elérheti a 15 m-t", "Gauja meredek városi partja", "Érzékek Parkja (2013-as nyitás)", "10 km-nyi kiépített sétaút", "80 hektárnyi természetes zóna", "Városi erdő ökoszisztéma"],
       ro: ["Înălțime maluri: 15 metri", "Segment urban al râului Gauja", "Parcul Simțurilor (fondat 2013)", "Peste 10 km de trasee marcate", "Stejari și pini seculari", "Suprafață de aproximativ 80 ha"],
       en: ["Bank height up to 15 meters", "Gauja steep banks in city", "Park of Senses (est. 2013)", "10 km of recreational paths", "Old-growth oak tree clusters", "Covers 80 hectares of land"],
-    },
-  },
+    }, image: "/poi-images/latvia-valmiera-nature-site-life-v2.webp"},
   {
     id: "latvia-kemeru-moor-life-v2",
     type: "park",

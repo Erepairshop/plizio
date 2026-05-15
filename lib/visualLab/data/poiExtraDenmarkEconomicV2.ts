@@ -63,8 +63,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["1933-ban alapította Mads Clausen", "Központja Als szigetén, Dél-Jütlandban van", "Világszerte több mint 40 000 alkalmazott", "Fókuszban az okos energia és az e-mobilitás"],
       ro: ["Fondată în 1933 de către Mads Clausen", "Sediul central pe insula Als din Iutlanda de Sud", "Peste 40.000 de angajați la nivel mondial", "Focus pe soluții de energie inteligentă și mobilitate"],
       en: ["Founded in 1933 by Mads Clausen", "Headquarters on Als island in South Jutland", "Over 40,000 employees globally in total", "Focus on smart energy and e-mobility solutions"],
-    },
-  },
+    }, image: "/poi-images/denmark-danfoss-nordborg-economic-v2.webp"},
   {
     id: "denmark-vestas-aarhus-economic-v2",
     type: "industry",
@@ -95,8 +94,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["1945-ben alapították Lem Videbæk néven", "Több mint 160 GW beépített kapacitás világszerte", "Aarhus régió legnagyobb magánmunkáltatója", "Szárazföldi és tengeri szélparkokra szakosodott"],
       ro: ["Fondată în 1945 sub numele Lem Videbæk", "Capacitate instalată de peste 160 GW în lume", "Cel mai mare angajator privat din regiunea Aarhus", "Specializare în energie eoliană onshore și offshore"],
       en: ["Founded in 1945 as Lem Videbæk", "Installed capacity of over 160 GW globally", "Largest private employer in the Aarhus region", "Specializes in onshore and offshore wind power"],
-    },
-  },
+    }, image: "/poi-images/denmark-vestas-aarhus-economic-v2.webp"},
   {
     id: "denmark-grundfos-bjerringbro-economic-v2",
     type: "factory",
@@ -127,8 +125,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["1945-ben alapította Poul Due Jensen", "Évente több mint 16 millió szivattyút gyárt", "Kb. 50%-os piaci részesedés a keringetőkben", "A Poul Due Jensen Alapítvány tulajdonában van"],
       ro: ["Fondată în 1945 de Poul Due Jensen", "Produce peste 16 milioane de pompe anual", "Deține aprox. 50% din piața pompelor de circulație", "Proprietate a Fundației Poul Due Jensen"],
       en: ["Founded in 1945 by Poul Due Jensen", "Produces over 16 million pumps annually", "Holds approx. 50% market share in circulators", "Owned by the Poul Due Jensen Foundation"],
-    },
-  },
+    }, image: "/poi-images/denmark-grundfos-bjerringbro-economic-v2.webp"},
   {
     id: "denmark-port-hirtshals-economic-v2",
     type: "port",
@@ -159,8 +156,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["Az Északi-tenger jelentős halászkikötője", "A Color Line és Fjord Line kompok terminálja", "Évente több mint 2 millió utas fordul meg itt", "A zöld kikötői logisztika központjává fejlesztik"],
       ro: ["Port pescăresc major la Marea Nordului", "Terminal pentru feriboturile Color Line și Fjord Line", "Punct de tranzit pentru 2 mil. pasageri anual", "Dezvoltare ca centru pentru logistică portuară verde"],
       en: ["Major fishing port on the North Sea", "Terminal for Color Line and Fjord Line ferries", "Handles over 2 million passengers annually", "Developing into a hub for green port logistics"],
-    },
-  },
+    }, image: "/poi-images/denmark-port-hirtshals-economic-v2.webp"},
   {
     id: "denmark-carlsberg-byen-economic-v2",
     type: "city",
@@ -191,8 +187,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["Terület: 33 hektár", "Építés kezdete: 2008", "Tervezett lakások: 3000", "Tervezett munkahelyek: 5000", "Utolsó szakasz befejezése: 2024", "Építészek: többek között Henning Larsen Architects"],
       ro: ["Suprafață: 33 de hectare", "Începutul construcției: 2008", "Locuințe planificate: 3.000", "Locuri de muncă planificate: 5.000", "Finalizarea ultimei faze: 2024", "Arhitecți: printre alții, Henning Larsen Architects"],
       en: ["Area: 33 hectares", "Construction start: 2008", "Planned homes: 3,000", "Planned jobs: 5,000", "Last phase completion: 2024", "Architects: including Henning Larsen Architects"],
-    },
-  },
+    }, image: "/poi-images/denmark-carlsberg-byen-economic-v2.webp"},
   {
     id: "denmark-danish-crown-randers-economic-v2",
     type: "industry",
@@ -223,8 +218,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["A vágóhíd heti 100 000 sertés feldolgozására képes.", "A komplexum alapterülete meghaladja a 82 000 négyzetmétert.", "2014-ben adták át a forgalomnak.", "Több mint 900 dolgozót foglalkoztat a régióban.", "Naponta mintegy 200 hűtőkamion hagyja el a telephelyet.", "A hús 90 százaléka azonnal exportra kerül."],
       ro: ["Capacitatea săptămânală atinge 100.000 de porcine.", "A fost inaugurat oficial în anul 2014.", "Ocupă o suprafață totală de 82.000 de metri pătrați.", "Peste 900 de angajați lucrează în trei schimburi.", "Aproximativ 200 de camioane transportă carne zilnic.", "Temperatura internă este menținută la 3 grade Celsius."],
       en: ["Processes up to 100,000 pigs every single week.", "The massive facility covers 82,000 square meters.", "Opened for operation in 2014 as a high-tech plant.", "Employs a workforce of over 900 skilled people.", "More than 200 cargo trucks depart the site daily.", "Roughly 90 percent of output is designated for export."],
-    },
-  },
+    }, image: "/poi-images/denmark-danish-crown-randers-economic-v2.webp"},
   {
     id: "denmark-billund-airport-economic-v2",
     type: "port",
@@ -255,8 +249,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["Évente közel 4 millió utas fordul meg a terminálokban.", "A fő kifutópálya hossza eléri a 3100 métert.", "A légikikötőt 1964-ben alapította a Lego vállalat.", "Éves áruforgalma mintegy 74 000 tonna.", "A repülőtér 16 utashíddal szolgálja ki a járatokat.", "Több mint 120 nemzetközi célállomásra indulnak gépek."],
       ro: ["Aproape 4 milioane de pasageri tranzitează anual terminalul.", "Pista principală are o lungime de 3.100 de metri.", "Fondat în 1964 pentru a susține fabrica Lego.", "Gestionează aproximativ 74.000 de tone de marfă anual.", "Dispune de 16 porți de îmbarcare cu punți directe.", "Peste 120 de rute aeriene operează de aici."],
       en: ["Handles nearly 4 million passengers on an annual basis.", "Features a single runway measuring 3,100 meters in length.", "Established by the Lego Group in the year 1964.", "Processes around 74,000 tons of air freight every year.", "Equipped with 16 jet bridges for direct boarding.", "Connects directly to over 120 international destinations."],
-    },
-  },
+    }, image: "/poi-images/denmark-billund-airport-economic-v2.webp"},
   {
     id: "denmark-aarhus-university-park-economic-v2",
     type: "university",
@@ -319,8 +312,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["Az együttműködés 1972-ben kezdődött", "Több mint 25 különböző anyagáramot integrál", "Kb. 25%-kal csökkenti a vízfogyasztást", "A körforgásos gazdaság globális mintaképe"],
       ro: ["Colaborare stabilită încă din anul 1972", "Peste 25 de fluxuri diferite de materiale", "Reduce consumul de apă cu aproximativ 25%", "Model global pentru economia circulară"],
       en: ["Collaboration established since 1972", "Integrates over 25 different material streams", "Reduces water consumption by approx. 25%", "Global role model for circular economy"],
-    },
-  },
+    }, image: "/poi-images/denmark-kalundborg-symbiosis-economic-v2.webp"},
   {
     id: "denmark-arcon-sunmark-soenderborg-economic-v2",
     type: "industry",
@@ -351,8 +343,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["A vállalat 1974-ben kezdte meg működését a napenergia iparban.", "Akár 13 négyzetméteres óriáskollektorokat is gyártanak.", "Éves termelési kapacitásuk 1,5 millió négyzetméter.", "A gyárüzem területe meghaladja a 20 000 négyzetmétert.", "A rendszerek 95 Celsius-fokos vizet állítanak elő.", "Több mint 15 országban telepítettek már távfűtő hálózatot."],
       ro: ["Compania a fost fondată în anul 1974.", "Asamblează panouri solare gigant de 13 metri pătrați.", "Capacitatea anuală este de 1,5 milioane metri pătrați de panouri.", "Unitatea de producție se întinde pe 20.000 de metri pătrați.", "Sistemele pot încălzi apa până la 95 de grade Celsius.", "Au proiecte operaționale în peste 15 state europene."],
       en: ["Established in 1974 to pioneer large-scale solar thermal tech.", "Manufactures massive solar panels up to 13 square meters.", "Can produce 1.5 million square meters of panels yearly.", "The manufacturing facility spans 20,000 square meters.", "Systems heat water to temperatures reaching 95 Celsius.", "Has successfully delivered projects in over 15 countries."],
-    },
-  },
+    }, image: "/poi-images/denmark-arcon-sunmark-soenderborg-economic-v2.webp"},
   {
     id: "denmark-frichs-aarhus-economic-v2",
     type: "factory",
@@ -383,8 +374,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["Gépgyárként alapították 1854-ben", "Itt készült az első dán gőzmozdony", "Dízelmozdonyokat exportált az egész világba", "Tengeri motorok karbantartó központja"],
       ro: ["Fondată în 1854 ca fabrică de mașini", "A construit prima locomotivă cu abur daneză", "A exportat locomotive diesel în întreaga lume", "Centru pentru întreținerea motoarelor maritime"],
       en: ["Founded in 1854 as a machine factory", "Built the first Danish steam locomotive", "Exported diesel locomotives worldwide", "Current hub for maritime engine maintenance"],
-    },
-  },
+    }, image: "/poi-images/denmark-frichs-aarhus-economic-v2.webp"},
   {
     id: "denmark-bramming-energy-economic-v2",
     type: "industry",
@@ -415,8 +405,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["Olyan nagy cégek otthona, mint a Logstor", "Szigetelt csővezeték-rendszerekre fókuszál", "A távhőhálózatok fontos exportőre", "A jütlandi energiahálózat szerves része"],
       ro: ["Găzduiește companii mari precum Logstor", "Focus pe sisteme de conducte izolate", "Exportator major pentru rețele termice", "Parte a rețelei energetice din Iutlanda"],
       en: ["Home to major companies like Logstor", "Focus on pre-insulated pipe systems", "Key exporter for district heating networks", "Part of the Jutland energy industry cluster"],
-    },
-  },
+    }, image: "/poi-images/denmark-bramming-energy-economic-v2.webp"},
   {
     id: "denmark-kolding-logistics-economic-v2",
     type: "industry",
@@ -447,8 +436,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["A park területe több mint 150 hektárt foglal magában.", "Az E45-ös és E20-as autópályák csomópontjában található.", "Több mint 40 szállítmányozási cég működik a területen.", "A raktárkapacitás meghaladja a 400 000 négyzetmétert.", "Naponta mintegy 5000 kamion halad át a központon.", "A komplexum építése az 1990-es évek végén kezdődött."],
       ro: ["Se întinde pe o suprafață de peste 150 de hectare.", "Amplasat la intersecția vitală a autostrăzilor E45 și E20.", "Găzduiește operațiunile a peste 40 de firme de logistică.", "Aproximativ 5.000 de camioane trec zilnic pe aici.", "Spațiile de depozitare depășesc 400.000 de metri pătrați.", "A fost inaugurat la sfârșitul anilor 1990."],
       en: ["The massive logistics park spans more than 150 hectares.", "Situated exactly at the junction of the E45 and E20 highways.", "Houses distribution centers for over 40 logistics firms.", "Records a daily traffic volume of around 5,000 heavy trucks.", "Offers over 400,000 square meters of covered warehouse space.", "Began significant development in the late 1990s."],
-    },
-  },
+    }, image: "/poi-images/denmark-kolding-logistics-economic-v2.webp"},
   {
     id: "denmark-novonordisk-hillerod-economic-v2",
     type: "factory",
@@ -479,8 +467,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["Inzulinbeadó eszközök (penek) gyártása", "Milliárdos beruházások a telephelyen", "Modern robotika és MI alkalmazása", "A világ legszigorúbb tisztatéri előírásai"],
       ro: ["Specializare în dispozitive medicale (pen-uri)", "Investiții de miliarde la acest punct de lucru", "Utilizarea roboticii moderne și a IA", "Cele mai stricte standarde de camere curate"],
       en: ["Specializes in device production (insulin pens)", "Multi-billion DKK investments in the site", "Uses state-of-the-art robotics and AI", "Strictest cleanroom standards in the world"],
-    },
-  },
+    }, image: "/poi-images/denmark-novonordisk-hillerod-economic-v2.webp"},
   {
     id: "denmark-esbjerg-energy-port-economic-v2",
     type: "port",
@@ -511,8 +498,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["Dánia legnagyobb északi-tengeri kikötője", "Évente több mint 4 GW szélenergia-kapacitás", "Olaj- és gázfúró tornyok szervizbázisa", "A tervezett energia-sziget központja"],
       ro: ["Cel mai mare port danez la Marea Nordului", "Manipulează peste 4 GW de eoliene anual", "Bază pentru întreținerea platformelor de petrol", "Centru pentru viitoarea insulă energetică"],
       en: ["Largest Danish port on the North Sea", "Handles over 4 GW of wind capacity annually", "Base for North Sea oil and gas maintenance", "Hub for the planned artificial energy island"],
-    },
-  },
+    }, image: "/poi-images/denmark-esbjerg-energy-port-economic-v2.webp"},
   {
     id: "denmark-danisco-nakskov-economic-v2",
     type: "factory",
@@ -575,8 +561,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["Vállalatok száma: kb. 300", "Létrehozott munkahelyek: > 2000", "Fókuszterületek: fintech, egészségügyi tech, tiszta energia", "Alapítás éve: 2015", "Partnerek: Aarhusi Egyetem, Aarhus kikötője", "Terület: kb. 20 000 m²"],
       ro: ["Număr companii: aprox. 300", "Locuri de muncă create: > 2.000", "Domenii principale: fintech, sănătate, energie curată", "An înființare: 2015", "Parteneri: Universitatea Aarhus, Portul Aarhus", "Suprafață: aprox. 20.000 m²"],
       en: ["Number of companies: approx. 300", "Jobs created: > 2,000", "Focus areas: fintech, health tech, clean energy", "Founded: 2015", "Partners: Aarhus University, Port of Aarhus", "Area: approx. 20,000 m²"],
-    },
-  },
+    }, image: "/poi-images/denmark-aarhus-tech-hub-economic-v2.webp"},
   {
     id: "denmark-odsherred-agri-economic-v2",
     type: "industry",
@@ -607,8 +592,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["A régióban mintegy 15 000 hektáron folyik intenzív termelés.", "A Lammefjord répa 1996-ban kapott oltalom alatt álló eredetmegjelölést.", "A termőterület akár 7 méterrel a tengerszint alatt fekszik.", "Évente 25 000 tonna sárgarépát takarítanak be a térségben.", "A gazdag talaj a lecsapolt tengerfenékből származik.", "Több mint 100 gazdaság foglalkozik zöldségtermesztéssel."],
       ro: ["Agricultura acoperă aproximativ 15.000 de hectare în zonă.", "Morcovul de Lammefjord are indicație geografică protejată din 1996.", "Terenul agricol coboară până la 7 metri sub nivelul mării.", "Producția anuală de morcovi atinge 25.000 de tone.", "Solul extrem de fertil este fostul fund al mării secate.", "Peste 100 de ferme activează în această regiune specifică."],
       en: ["Covers approximately 15,000 hectares of active farmland.", "Lammefjord carrots received EU protected status in 1996.", "Cultivation occurs up to 7 meters below sea level.", "Farmers harvest around 25,000 tons of carrots annually.", "The nutrient-rich soil consists of reclaimed seabed.", "More than 100 commercial farms operate within the region."],
-    },
-  },
+    }, image: "/poi-images/denmark-odsherred-agri-economic-v2.webp"},
   {
     id: "denmark-svendborg-shipyard-economic-v2",
     type: "industry",
@@ -639,8 +623,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["A hajógyárat 1907-ben alapították Fyn szigetén.", "Két úszódokkja akár 160 méter hosszú hajókat is fogad.", "A legnagyobb daru 100 tonna teherbírású.", "Évente mintegy 150 hajó javítását és karbantartását végzik.", "Az ipartelep területe eléri az 50 000 négyzetmétert.", "Körülbelül 120 állandó szakmunkást foglalkoztat a vállalat."],
       ro: ["Șantierul a fost fondat în anul 1907 pe insula Funen.", "Deține două docuri plutitoare pentru nave de 160 de metri.", "Macaralele sale principale pot ridica până la 100 de tone.", "Efectuează anual în jur de 150 de reparații navale majore.", "Complexul industrial se întinde pe 50.000 de metri pătrați.", "Are un personal permanent de 120 de specialiști."],
       en: ["Originally established on the island of Funen in 1907.", "Operates two floating docks for vessels up to 160 meters.", "The main heavy-duty cranes can lift up to 100 tons.", "Completes roughly 150 major ship repair projects yearly.", "The shipyard facility occupies 50,000 square meters.", "Maintains a full-time workforce of 120 maritime specialists."],
-    },
-  },
+    }, image: "/poi-images/denmark-svendborg-shipyard-economic-v2.webp"},
   {
     id: "denmark-bornholm-power-economic-v2",
     type: "industry",
@@ -671,8 +654,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["A tervek szerint 2030-ra 3 gigawatt tengeri szélenergiát integrál.", "Kapacitása akár 3 millió háztartás áramellátására is elegendő.", "Egy 47 kilométeres tengeralatti kábel köti össze Svédországgal.", "A sziget 2025-re teljesen szénhidrogén-semlegessé kíván válni.", "Egy 1000 megawattos Power-to-X üzem építését is tervezik.", "A projekt a teljes, 588 négyzetkilométeres szigetet átfogja."],
       ro: ["Va integra 3 gigawați de energie eoliană offshore până în 2030.", "Va putea alimenta cu energie electrică 3 milioane de case.", "Un cablu submarin de 47 km conectează insula de Suedia.", "Insula vizează neutralitatea completă a emisiilor de carbon până în 2025.", "Include planuri pentru o unitate Power-to-X de 1.000 megawați.", "Inițiativa acoperă întreaga insulă de 588 kilometri pătrați."],
       en: ["Planned to integrate 3 gigawatts of offshore wind by 2030.", "Designed to supply green electricity to 3 million homes.", "A 47-kilometer submarine cable connects the grid to Sweden.", "Aims for complete island-wide carbon neutrality by 2025.", "Includes the development of a 1,000-megawatt Power-to-X plant.", "The energy project spans the entire 588-square-kilometer island."],
-    },
-  },
+    }, image: "/poi-images/denmark-bornholm-power-economic-v2.webp"},
   {
     id: "denmark-green-lab-skive-economic-v2",
     type: "industry",
@@ -703,8 +685,7 @@ export const denmarkEconomicV2: POI[] = [
       hu: ["Az innovatív ipari parkot 2019-ben nyitották meg.", "A komplexum 60 hektáros területen biztosít helyet a cégeknek.", "Egy 12 megawattos biogázüzem is működik a területen.", "A 24 megawattos elektrolizáló zöld hidrogént állít elő.", "Egy 2,5 kilométeres csőrendszer osztja el a hulladékhőt.", "Évente 60 000 tonnával csökkentik a helyi szén-dioxid-kibocsátást."],
       ro: ["Parcul eco-industrial a fost deschis oficial în 2019.", "Se întinde pe o suprafață dezvoltată de 60 de hectare.", "Include o centrală de biogaz cu o capacitate de 12 megawați.", "O instalație de 24 megawați produce hidrogen verde.", "O conductă de 2,5 km distribuie căldura reziduală între fabrici.", "Evită emisia a 60.000 de tone de dioxid de carbon anual."],
       en: ["The innovative eco-industrial park was officially opened in 2019.", "Spans 60 hectares of land dedicated to sustainable businesses.", "Features an integrated 12-megawatt biogas production facility.", "A 24-megawatt electrolysis plant generates green hydrogen.", "A 2.5-kilometer pipeline system shares waste heat internally.", "Reduces local carbon dioxide emissions by 60,000 tons annually."],
-    },
-  },
+    }, image: "/poi-images/denmark-green-lab-skive-economic-v2.webp"},
   {
     id: "denmark-fredericia-port-economic-v2",
     type: "port",

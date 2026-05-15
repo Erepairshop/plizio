@@ -937,8 +937,7 @@ export const bosniaherzegovinaLifeV2: POI[] = [
       hu: ["Kelet-Boszniában, Bijeljina városa közelében található", "A pannon síkság ritka kocsányos tölgyeseit védi", "Több mint 40 különböző őshonos madárfaj otthona", "Hivatalosan botanikai természeti emlékké nyilvánították"],
       ro: ["Situat în estul țării, în apropierea orașului Bijeljina", "Protejează arborete rare de stejar pedunculat din Câmpia Panonică", "Găzduiește peste 40 de specii diferite de păsări indigene", "Clasificat oficial ca monument botanic al naturii"],
       en: ["Located in eastern Bosnia near the city of Bijeljina", "Protects rare pedunculate oak stands of the Pannonian basin", "Home to over 40 different species of native birds", "Officially designated as a botanical monument of nature"],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-stari-gaj-life-v2.webp"},
   {
     id: "bosniaherzegovina-velika-suma-life-v2",
     type: "forest",

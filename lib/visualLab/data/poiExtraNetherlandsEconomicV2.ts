@@ -31,8 +31,7 @@ export const netherlandsEconomicV2: POI[] = [
       hu: ["Eemshaven az 1970-es években épült.", "A kikötő maximális vízmélysége 14 méter.", "Teljes területe 2000 hektár.", "Az eemshaveni szénerőmű kapacitása 1560 MW.", "A kikötő akár 100 000 tonnás hajókat is fogad.", "Több adatközpont is található itt, összesen 200 MW teljesítménnyel."],
       ro: ["Eemshaven a fost dezvoltat în anii 1970.", "Adâncimea maximă a apei este de 14 metri.", "Suprafața totală: 2.000 de hectare.", "Centrala pe cărbune Eemshaven are o capacitate de 1.560 MW.", "Portul poate primi nave de până la 100.000 de tone.", "Eemshaven găzduiește centre de date cu o putere totală de 200 MW."],
       en: ["Eemshaven was developed in the 1970s.", "Maximum water depth: 14 meters.", "Total port area: 2,000 hectares.", "Eemshaven coal power plant capacity: 1,560 MW.", "Port can handle ships up to 100,000 tons.", "Data centers in Eemshaven have a combined power capacity of 200 MW."],
-    },
-  },
+    }, image: "/poi-images/netherlands-emo-port-eems-economic-v2.webp"},
   {
     id: "netherlands-brightlands-chem-economic-v2",
     type: "industry",
@@ -63,8 +62,7 @@ export const netherlandsEconomicV2: POI[] = [
       hu: ["A Brightlands Chemelot Campus területe 100 hektár.", "Több mint 1000 tudós és kutató dolgozik itt.", "A campuson több mint 100 cég és startup található.", "A kísérleti üzem tonnás nagyságrendű gyártást tesz lehetővé.", "A Brightlands 200 millió eurót fektetett a laborinfrastruktúrába.", "Sittard-Geleen a holland-belga-német hármas határ közelében fekszik."],
       ro: ["Brightlands Chemelot Campus se întinde pe 100 de hectare.", "Peste 1.000 de oameni de știință lucrează aici.", "Campusul găzduiește peste 100 de companii și startup-uri.", "Instalația pilot permite producția la scară de tone.", "Brightlands a investit 200 de milioane de euro în infrastructura de laborator.", "Sittard-Geleen este situat aproape de granița cu Belgia și Germania."],
       en: ["Brightlands Chemelot Campus covers an area of 100 hectares.", "Over 1,000 scientists and researchers work on campus.", "The campus hosts more than 100 companies and startups.", "The pilot plant enables ton-scale production trials.", "Brightlands invested €200 million in laboratory infrastructure.", "Sittard-Geleen is located near the Dutch-Belgian-German border."],
-    },
-  },
+    }, image: "/poi-images/netherlands-brightlands-chem-economic-v2.webp"},
   {
     id: "netherlands-vdl-nedcar-economic-v2",
     type: "factory",
@@ -95,8 +93,7 @@ export const netherlandsEconomicV2: POI[] = [
       hu: ["A VDL Nedcar 1968-ban nyílt meg DAF-gyárként.", "Az éves gyártási kapacitás 200 000 jármű.", "Az üzem mintegy 4000 embert foglalkoztat (2023).", "A gyár területe 1,2 millió négyzetméter.", "A VDL Nedcar 2022 óta gyártja a BMW Mini Cabrio-t.", "2019-ben 117 000 jármű készült itt."],
       ro: ["VDL Nedcar a fost deschis în 1968 ca fabrică DAF.", "Capacitatea anuală de producție: 200.000 de vehicule.", "Fabrica angajează aproximativ 4.000 de persoane (2023).", "Suprafața totală a fabricii: 1,2 milioane de metri pătrați.", "VDL Nedcar produce Mini Cabrio pentru BMW din 2022.", "În 2019, au fost fabricate 117.000 de vehicule."],
       en: ["VDL Nedcar opened in 1968 as a DAF car plant.", "Annual production capacity: 200,000 vehicles.", "The plant employs around 4,000 people (2023).", "Factory site area: 1.2 million square meters.", "VDL Nedcar has produced the BMW Mini Cabrio since 2022.", "In 2019, 117,000 vehicles were manufactured."],
-    },
-  },
+    }, image: "/poi-images/netherlands-vdl-nedcar-economic-v2.webp"},
   {
     id: "netherlands-port-moerdijk-economic-v2",
     type: "port",
@@ -159,8 +156,7 @@ export const netherlandsEconomicV2: POI[] = [
       hu: ["A Greenport Westland 2500 hektár üvegházat foglal magában.", "Az éves termelési érték meghaladja a 6 milliárd eurót.", "A klaszter mintegy 25 000 embert foglalkoztat.", "Westland a holland zöldségek és gyümölcsök 40%-át termeli.", "Egy üvegház átlagos mérete 1,5 hektár.", "Az üvegházak éves energiafogyasztása 3000 MW."],
       ro: ["Greenport Westland cuprinde 2.500 de hectare de sere.", "Valoarea anuală a producției depășește 6 miliarde de euro.", "Clusterul angajează aproximativ 25.000 de persoane.", "Westland produce 40% din legumele și fructele olandeze.", "Dimensiunea medie a unei sere este de 1,5 hectare.", "Consumul anual de energie al serelor este de 3.000 MW."],
       en: ["Greenport Westland has 2,500 hectares of greenhouses.", "Annual production value exceeds €6 billion.", "The cluster employs about 25,000 workers.", "Westland produces 40% of Dutch vegetables and fruits.", "Average greenhouse size: 1.5 hectares.", "Annual energy consumption of greenhouses: 3,000 MW."],
-    },
-  },
+    }, image: "/poi-images/netherlands-greenport-westland-economic-v2.webp"},
   {
     id: "netherlands-brainport-eindhoven-economic-v2",
     type: "industry",
@@ -223,8 +219,7 @@ export const netherlandsEconomicV2: POI[] = [
       hu: ["A vlissingeni kikötő vízmélysége eléri a 17 métert.", "Éves forgalma mintegy 30 millió tonna.", "Az LNG-terminál kapacitása évi 8 milliárd köbméter.", "A Damen Shiprepair hajógyár 2 db 250 méteres szárazdokkal rendelkezik.", "Vlissingen a Westerschelde mentén fekszik, ahol a folyó mélysége 15 méter.", "A kikötő közvetlenül több mint 10 000 embert foglalkoztat."],
       ro: ["Portul Vlissingen are o adâncime a apei de până la 17 metri.", "Traficul anual este de aproximativ 30 de milioane de tone.", "Terminalul GNL are o capacitate de 8 miliarde de metri cubi pe an.", "Șantierul naval Damen Shiprepair are 2 docuri uscate de 250 de metri lungime.", "Vlissingen este situat pe Westerschelde, unde râul are o adâncime de 15 metri.", "Portul angajează direct peste 10.000 de persoane."],
       en: ["Port of Vlissingen water depth up to 17 meters.", "Annual throughput: approximately 30 million tonnes.", "LNG terminal capacity: 8 billion cubic meters per year.", "Damen Shiprepair yard features 2 dry docks of 250 meters each.", "Vlissingen lies on the Westerschelde, which has a depth of 15 meters.", "The port directly employs over 10,000 people."],
-    },
-  },
+    }, image: "/poi-images/netherlands-port-vlissingen-economic-v2.webp"},
   {
     id: "netherlands-chem-park-delfzijl-economic-v2",
     type: "industry",
@@ -287,8 +282,7 @@ export const netherlandsEconomicV2: POI[] = [
       hu: ["A Food Valley több mint 200 vállalatot és kutatóintézetet foglal magában.", "A klaszter mintegy 16 000 kutatót foglalkoztat.", "A Wageningeni Egyetemnek 13 000 hallgatója van.", "Évente több mint 1000 szabadalmat nyújtanak be az élelmiszeriparban.", "A régió élelmiszeripari ágazata évi 60 milliárd eurót termel.", "A régióban a legmagasabb az élelmiszer-tudósok sűrűsége négyzetkilométerenként."],
       ro: ["Food Valley include peste 200 de companii și institute de cercetare.", "Clusterul angajează aproximativ 16.000 de cercetători.", "Universitatea Wageningen are 13.000 de studenți.", "Anual se depun peste 1.000 de brevete în domeniul alimentar.", "Sectorul alimentar regional generează 60 de miliarde de euro anual.", "Regiunea are cea mai mare densitate de oameni de știință în alimentație pe kilometru pătrat."],
       en: ["Food Valley includes over 200 companies and research institutes.", "The cluster employs around 16,000 researchers.", "Wageningen University & Research has 13,000 students.", "Over 1,000 patents are filed annually in the food sector.", "The region's food sector generates €60 billion annually.", "Region has the highest density of food scientists per square kilometer."],
-    },
-  },
+    }, image: "/poi-images/netherlands-food-valley-wageningen-economic-v2.webp"},
   {
     id: "netherlands-port-terneuzen-economic-v2",
     type: "port",
@@ -383,8 +377,7 @@ export const netherlandsEconomicV2: POI[] = [
       hu: ["A Twente Science Park 100 hektáron terül el.", "Több mint 600 vállalat található itt.", "A park mintegy 10 000 embert foglalkoztat.", "A Twentei Egyetemnek 9000 hallgatója van.", "A parkot az 1990-es években alapították.", "Évente több mint 100 startup jön létre itt."],
       ro: ["Twente Science Park se întinde pe 100 de hectare.", "Peste 600 de companii sunt localizate în parc.", "Parcul angajează aproximativ 10.000 de persoane.", "Universitatea Twente are 9.000 de studenți.", "Parcul a fost fondat în anii 1990.", "Anual, peste 100 de startup-uri sunt create aici."],
       en: ["Twente Science Park covers 100 hectares.", "Over 600 companies are located in the park.", "The park employs around 10,000 people.", "University of Twente has 9,000 students.", "The park was founded in the 1990s.", "Over 100 startups are created annually."],
-    },
-  },
+    }, image: "/poi-images/netherlands-twente-science-park-economic-v2.webp"},
   {
     id: "netherlands-dutch-flower-auction-alsmeer-economic-v2",
     type: "industry",
@@ -447,8 +440,7 @@ export const netherlandsEconomicV2: POI[] = [
       hu: ["A High Tech Campus Eindhoven több mint 250 vállalatot foglal magában.", "8000 kutató dolgozik a campuson.", "A campust 2003-ban alapította a Philips.", "Az iroda- és laborfelület 300 000 m².", "A campus saját adatközponttal rendelkezik, 10 MW kapacitással.", "Több mint 30 spin-off vállalat jött létre itt."],
       ro: ["High Tech Campus Eindhoven găzduiește peste 250 de companii.", "8.000 de cercetători lucrează pe campus.", "Campusul a fost fondat în 2003 de Philips.", "Suprafața birourilor și laboratoarelor: 300.000 m².", "Campusul are propriul centru de date de 10 MW.", "Peste 30 de companii spin-off au fost create aici."],
       en: ["High Tech Campus Eindhoven hosts over 250 companies.", "8,000 researchers work on campus.", "Founded in 2003 by Philips.", "Office and lab space: 300,000 m².", "Campus has its own data center with 10 MW capacity.", "Over 30 spin-off companies have been created here."],
-    },
-  },
+    }, image: "/poi-images/netherlands-high-tech-campus-ehv-economic-v2.webp"},
   {
     id: "netherlands-rotterdam-the-hague-airport-economic-v2",
     type: "port",
@@ -479,8 +471,7 @@ export const netherlandsEconomicV2: POI[] = [
       hu: ["A Rotterdam The Hague Airport kifutópályája 2200 méter hosszú.", "Évente mintegy 2 millió utast kezel (2019-es adat).", "A repülőteret 1956-ban nyitották meg.", "Rotterdammtól 6 km-re északnyugatra található.", "A repülőtér területe 1000 hektár.", "Körülbelül 20 légitársaság használja a repülőteret."],
       ro: ["Aeroportul Rotterdam Haga are o pistă de 2.200 de metri.", "Traficul anual de pasageri este de circa 2 milioane (2019).", "Aeroportul a fost deschis în 1956.", "Se află la 6 km nord-vest de Rotterdam.", "Suprafața aeroportului: 1.000 de hectare.", "Approximativ 20 de companii aeriene operează la acest aeroport."],
       en: ["Rotterdam The Hague Airport runway length: 2,200 meters.", "Annual passenger traffic: ~2 million (2019 data).", "The airport opened in 1956.", "Located 6 km northwest of Rotterdam.", "Airport area: 1,000 hectares.", "About 20 airlines serve the airport."],
-    },
-  },
+    }, image: "/poi-images/netherlands-rotterdam-the-hague-airport-economic-v2.webp"},
   {
     id: "netherlands-port-harlingen-economic-v2",
     type: "port",
@@ -543,8 +534,7 @@ export const netherlandsEconomicV2: POI[] = [
       hu: ["Terület: 70 hektár", "Alapítás éve: 1990", "Vállalatok száma: 150", "Foglalkoztatottak: több mint 5.000", "Kutatóintézetek: 3 egyetemi intézet", "Éves konferenciák: több mint 50"],
       ro: ["Suprafață: 70 de hectare", "An înființare: 1990", "Număr de companii: 150", "Angajați: peste 5.000", "Institute de cercetare: 3 institute universitare", "Conferințe anuale: peste 50"],
       en: ["Area: 70 hectares", "Established: 1990", "Number of companies: 150", "Employees: over 5,000", "Research institutes: 3 university institutes", "Annual conferences: over 50"],
-    },
-  },
+    }, image: "/poi-images/netherlands-science-park-amsterdam-economic-v2.webp"},
   {
     id: "netherlands-port-den-helder-economic-v2",
     type: "port",
@@ -639,8 +629,7 @@ export const netherlandsEconomicV2: POI[] = [
       hu: ["Éves forgalom: 2 millió tonna", "Rakpart hossza: 1,2 km", "Vízmélység: 5 méter", "Kikötőhelyek száma: 10", "Fő áruk: fa, papír, építőanyag", "Fenntarthatósági beruházások: 2020-tól"],
       ro: ["Tonaj anual: 2 milioane de tone", "Lungimea cheiului: 1,2 km", "Adâncimea apei: 5 metri", "Număr de dane: 10", "Mărfuri principale: lemn, hârtie, materiale de construcție", "Investiții sustenabile: din 2020"],
       en: ["Annual throughput: 2 million tonnes", "Quay length: 1.2 km", "Water depth: 5 meters", "Berths: 10", "Main cargoes: timber, paper, building materials", "Sustainability investments: since 2020"],
-    },
-  },
+    }, image: "/poi-images/netherlands-port-zaandam-economic-v2.webp"},
   {
     id: "netherlands-maastricht-health-campus-economic-v2",
     type: "industry",
@@ -703,8 +692,7 @@ export const netherlandsEconomicV2: POI[] = [
       hu: ["Éves forgalom: 1,5 millió tonna", "Konténerterminál: van", "Rakpart hossza: 2 km", "Vízmélység: 4,5 méter", "Közvetlen foglalkoztatottak: 500", "Megnyitás: 1960"],
       ro: ["Tonaj anual: 1,5 milioane de tone", "Terminal de containere: da", "Lungimea cheiurilor: 2 km", "Adâncimea apei: 4,5 metri", "Angajați direcți: 500", "Deschis: 1960"],
       en: ["Annual throughput: 1.5 million tonnes", "Container terminal: yes", "Quay length: 2 km", "Water depth: 4.5 meters", "Direct employees: 500", "Opened: 1960"],
-    },
-  },
+    }, image: "/poi-images/netherlands-port-zwolle-economic-v2.webp"},
   {
     id: "netherlands-chemical-cluster-moerdijk-economic-v2",
     type: "industry",
@@ -735,8 +723,7 @@ export const netherlandsEconomicV2: POI[] = [
       hu: ["Terület: 300 hektár", "Foglalkoztatottak: 5.000", "Éves etiléntermelés: 1 millió tonna", "Csővezeték-hálózat: 100 km", "Fő vállalatok: 10", "Alapítás éve: 1960"],
       ro: ["Suprafață: 300 de hectare", "Angajați: 5.000", "Producție anuală de etilenă: 1 milion de tone", "Rețea de conducte: 100 km", "Companii principale: 10", "An înființare: 1960"],
       en: ["Area: 300 hectares", "Employees: 5,000", "Annual ethylene production: 1 million tonnes", "Pipeline network: 100 km", "Main companies: 10", "Founded: 1960"],
-    },
-  },
+    }, image: "/poi-images/netherlands-chemical-cluster-moerdijk-economic-v2.webp"},
   {
     id: "netherlands-port-nijmegen-economic-v2",
     type: "port",
@@ -767,8 +754,7 @@ export const netherlandsEconomicV2: POI[] = [
       hu: ["Éves forgalom: 3 millió tonna", "Vízmélység: 6 méter", "Rakpart hossza: 3 km", "Konténerterminál: van", "Tárolóterület: 50.000 m²", "Első kikötő: i.e. 1. század"],
       ro: ["Tonaj anual: 3 milioane de tone", "Adâncimea apei: 6 metri", "Lungimea cheiului: 3 km", "Terminal de containere: da", "Suprafață de depozitare: 50.000 m²", "Primul port: secolul I î.Hr."],
       en: ["Annual throughput: 3 million tonnes", "Water depth: 6 meters", "Quay length: 3 km", "Container terminal: yes", "Storage area: 50,000 m²", "First port: 1st century BC"],
-    },
-  },
+    }, image: "/poi-images/netherlands-port-nijmegen-economic-v2.webp"},
   {
     id: "netherlands-agri-hub-venlo-economic-v2",
     type: "industry",

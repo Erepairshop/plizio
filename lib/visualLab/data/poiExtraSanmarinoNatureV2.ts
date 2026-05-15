@@ -31,8 +31,7 @@ export const sanmarinoNatureV2: POI[] = [
       hu: ["A Marano-patak hossza 15 km.", "Az Ausába torkollik.", "Vízgyűjtő területe a Marano-völgy.", "Vízminőségét rendszeresen ellenőrzik.", "Halfajták: sebes pisztráng, folyami rák.", "A Natura 2000 hálózat része."],
       ro: ["Lungimea pârâului Marano: 15 km.", "Se varsă în Ausa.", "Bazinul hidrografic: Valea Marano.", "Calitatea apei este monitorizată periodic.", "Specii de pești: păstrăv de pârâu, rac de râu.", "Face parte din rețeaua Natura 2000."],
       en: ["Length: 15 km.", "Flows into the Ausa River.", "Watershed: Marano Valley.", "Regular water quality monitoring.", "Fish species: brown trout, crayfish.", "Part of Natura 2000."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-torrente-marano-nature-v2.webp"},
   {
     id: "sanmarino-canyon-torrente-cailungo-nature-v2",
     type: "valley",
@@ -63,8 +62,7 @@ export const sanmarinoNatureV2: POI[] = [
       hu: ["A szurdok hossza 2 km.", "Mélysége eléri az 50 métert.", "A falakban vándorsólymok fészkelnek.", "A peremen túraút vezet.", "A geológiai képződmény jura kori.", "Egy LIFE projekt része."],
       ro: ["Lungimea canionului: 2 km.", "Adâncime maximă: 50 m.", "Pereții sunt loc de cuibărit pentru șoimul călător.", "Există un traseu de drumeție pe margine.", "Formațiunea datează din Jurasic.", "Parte a unui proiect LIFE."],
       en: ["Length: 2 km.", "Depth: up to 50 m.", "Nesting site for peregrine falcons.", "Hiking trail along rim.", "Jurassic geological formation.", "Part of a LIFE project."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-canyon-torrente-cailungo-nature-v2.webp"},
   {
     id: "sanmarino-bosco-di-monte-giardino-nature-v2",
     type: "forest",
@@ -95,8 +93,7 @@ export const sanmarinoNatureV2: POI[] = [
       hu: ["Az erdő területe 100 hektár.", "1985 óta védett.", "Magassága 400–600 méter.", "Lakói: őzek, vaddisznók, harkályok.", "A tanösvény hossza 5 km.", "Évi 2.000 látogató."],
       ro: ["Pădurea are 100 de hectare.", "Protejată din 1985.", "Altitudine: 400–600 m.", "Faună: căprioare, mistreți, ciocănitori.", "Traseul didactic are 5 km.", "2.000 de vizitatori anual."],
       en: ["Area: 100 hectares.", "Protected since 1985.", "Elevation: 400–600 m.", "Wildlife: roe deer, wild boar, woodpeckers.", "Nature trail length: 5 km.", "Annual visitors: 2,000."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-bosco-di-monte-giardino-nature-v2.webp"},
   {
     id: "sanmarino-sorgente-acquaviva-nature-v2",
     type: "lake",
@@ -127,8 +124,7 @@ export const sanmarinoNatureV2: POI[] = [
       hu: ["Hozam: 20 liter/másodperc.", "Hőmérséklet: 12 °C.", "Ivóvízellátásra használják.", "Acquaviva községben található.", "A Marano-patakot táplálja.", "Egy LIFE projekt része."],
       ro: ["Debit: 20 l/s.", "Temperatură: 12 °C.", "Folosită pentru apă potabilă.", "Situată în comuna Acquaviva.", "Alimentează pârâul Marano.", "Parte a unui proiect LIFE."],
       en: ["Flow rate: 20 L/s.", "Temperature: 12 °C.", "Used for drinking water.", "Located in Acquaviva.", "Feeds the Marano stream.", "Part of a LIFE project."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-sorgente-acquaviva-nature-v2.webp"},
   {
     id: "sanmarino-costone-roccioso-faetano-nature-v2",
     type: "mountain",
@@ -159,8 +155,7 @@ export const sanmarinoNatureV2: POI[] = [
       hu: ["Magasság: 80 méter.", "Hossz: 300 méter.", "Vándorsólymok fészkelőhelye.", "Népszerű mászóhely.", "A macchia ritka növényeket rejt.", "Természeti emlékként védett."],
       ro: ["Înălțime: 80 m.", "Lungime: 300 m.", "Loc de cuibărit pentru șoimul călător.", "Zonă populară de cățărare.", "Macchia adăpostește plante rare.", "Protejat ca monument natural."],
       en: ["Height: 80 m.", "Length: 300 m.", "Nesting site for peregrine falcons.", "Popular climbing area.", "Macchia with rare plants.", "Protected as natural monument."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-costone-roccioso-faetano-nature-v2.webp"},
   {
     id: "sanmarino-valle-rio-san-marino-nature-v2",
     type: "valley",
@@ -255,8 +250,7 @@ export const sanmarinoNatureV2: POI[] = [
       hu: ["Hossz: 8 km.", "A Monte Titanóról ered.", "Szezonális vízhozam.", "Szalamandrák élnek a mederben.", "Parti növényzet: fűz, éger.", "Egy LIFE projekt része."],
       ro: ["Lungime: 8 km.", "Izvorăște din Monte Titano.", "Debit sezonier.", "Salamandra de foc în albie.", "Vegetație de mal: sălcii, arini.", "Parte a unui proiect LIFE."],
       en: ["Length: 8 km.", "Source: Monte Titano.", "Seasonal flow.", "Fire salamander habitat.", "Riparian willows and alders.", "Part of a LIFE project."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-torrente-ausa-alta-nature-v2.webp"},
   {
     id: "sanmarino-bosco-di-serravalle-nature-v2",
     type: "forest",
@@ -287,8 +281,7 @@ export const sanmarinoNatureV2: POI[] = [
       hu: ["Terület: 60 hektár.", "Magasság: 200–350 méter.", "1990 óta pihenőterület.", "3 km hosszú körút.", "Évi 4.000 látogató.", "Mókusok élőhelye."],
       ro: ["Suprafață: 60 de hectare.", "Altitudine: 200–350 m.", "Desemnată zonă de recreere în 1990.", "Traseu circular de 3 km.", "4.000 de vizitatori anual.", "Habitat pentru veverițe."],
       en: ["Area: 60 hectares.", "Elevation: 200–350 m.", "Recreational area since 1990.", "3 km circular trail.", "Annual visitors: 4,000.", "Squirrel habitat."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-bosco-di-serravalle-nature-v2.webp"},
   {
     id: "sanmarino-crinale-fiorentino-nature-v2",
     type: "peak",
@@ -319,8 +312,7 @@ export const sanmarinoNatureV2: POI[] = [
       hu: ["Hossz: 5 km.", "Magasság: 500–700 méter.", "Szélturbinák helyszíne.", "Ritka növények élőhelye.", "Fontos madár élőhely.", "Siklóernyősök kedvelt helye."],
       ro: ["Lungime: 5 km.", "Altitudine: 500–700 m.", "Amplasament de turbine eoliene.", "Habitat pentru plante rare.", "Important habitat pentru păsări.", "Popular printre parapantiști."],
       en: ["Length: 5 km.", "Elevation: 500–700 m.", "Wind turbine location.", "Rare plant habitat.", "Important bird habitat.", "Popular for paragliding."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-crinale-fiorentino-nature-v2.webp"},
   {
     id: "sanmarino-valle-di-borgo-maggiore-nature-v2",
     type: "valley",
@@ -351,8 +343,7 @@ export const sanmarinoNatureV2: POI[] = [
       hu: ["A völgy hossza 12 km.", "Szőlő- és olajfaültetvények.", "Történelmi falvak, köztük Borgo Maggiore.", "A Rio San Marino folyik át rajta.", "Népszerű kerékpáros úti cél.", "Teraszok és szárazkőfalak."],
       ro: ["Lungimea văii: 12 km.", "Agricultură: vii și măslini.", "Sate istorice, inclusiv Borgo Maggiore.", "Pârâul Rio San Marino o traversează.", "Populară pentru ciclism.", "Terasse și ziduri de piatră uscată."],
       en: ["Valley length: 12 km.", "Agriculture: vineyards, olive groves.", "Historic villages including Borgo Maggiore.", "Rio San Marino flows through.", "Popular for cycling.", "Terraces and dry stone walls."],
-    },
-  },
+    }, image: "/poi-images/sanmarino-valle-di-borgo-maggiore-nature-v2.webp"},
   {
     id: "sanmarino-sorgente-faetano-nature-v2",
     type: "lake",

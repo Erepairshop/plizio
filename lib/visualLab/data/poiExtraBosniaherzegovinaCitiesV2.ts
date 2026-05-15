@@ -2647,8 +2647,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       hu: ["A település átlagos tengerszint feletti magassága 818 méter.", "A helyi ortodox templomot a 15. században alapították.", "A Čajničei Istenanya ikon a 16. század óta vonzza a zarándokokat.", "Közvetlenül a montenegrói államhatár mentén fekszik.", "Első írásos említése az 1400-as évek végére tehető.", "Körülbelül 4000 lakos él a közigazgatási területen."],
       ro: ["Altitudinea medie a localității este de aproximativ 818 metri.", "Biserica Adormirea Maicii Domnului datează din secolul al XV-lea.", "Icoana Maicii Domnului din Čajniče atrage credincioșii ortodocși.", "Se află în entitatea Republika Srpska, aproape de Muntenegru.", "Orașul a fost menționat documentar pentru prima dată în 1477.", "Populația comunei este de sub 5.000 de locuitori."],
       en: ["Situated at an elevation of 818 meters in the eastern mountains.", "The local Orthodox church was originally built in the 15th century.", "Houses the famous 16th-century icon of the Mother of God.", "Functions as a border municipality with Montenegro.", "First historical records of the settlement date back to 1477.", "The municipal population is approximately 4,000 residents."],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-cajnice-cities-v2.webp"},
   {
     id: "bosniaherzegovina-focaca-cities-v2",
     type: "city",
@@ -2711,8 +2710,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       hu: ["Termálforrásairól ismert", "Nemzetközi iskolák székhelye", "Közelség a Szarajevói repülőtérhez", "Magasság kb. 490 méter"],
       ro: ["Cunoscută pentru izvoare termale", "Sediu al școlilor internaționale", "Proximitate față de Aeroportul Sarajevo", "Altitudine aprox. 490 metri"],
       en: ["Known for thermal springs", "Home to international schools", "Proximity to Sarajevo Airport", "Elevation approx. 490 meters"],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-ilidza-cities-v2.webp"},
   {
     id: "bosniaherzegovina-istocnistari-cities-v2",
     type: "city",
@@ -2775,8 +2773,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       hu: ["A község kiterjedése hozzávetőlegesen 85 négyzetkilométer.", "A daytoni béke hozta létre 1995-ben Trnovo megosztásával.", "Istočno Sarajevo déli részét képezi közigazgatásilag.", "A teljes lakosságszám nem éri el az 1500 főt.", "A Jahorina és a Treskavica hegységek ölelik körül.", "Gazdasága elsősorban a fakitermelésre és mezőgazdaságra épül."],
       ro: ["Suprafața administrativă se ridică la 85 de kilometri pătrați.", "Formată în 1995 prin Acordul de la Dayton din vechiul Trnovo.", "Aparține de structura municipală Istočno Sarajevo.", "Populația este estimată la mai puțin de 1.500 de persoane.", "Este flancată de masivele muntoase Jahorina și Treskavica.", "Exploatarea forestieră este principala activitate economică."],
       en: ["The municipal territory spans approximately 85 square kilometers.", "Formed in 1995 when the pre-war Trnovo municipality was divided.", "Constitutes the southern part of the City of Istočno Sarajevo.", "Maintains a sparsely distributed population under 1,500.", "Bordered by the prominent Jahorina and Treskavica mountain ranges.", "The local economy is heavily reliant on timber and agriculture."],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-istocnitrnovo-cities-v2.webp"},
   {
     id: "bosniaherzegovina-jezero-cities-v2",
     type: "city",
@@ -2807,8 +2804,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       hu: ["A Pliva folyónak a Pliva-tóba torkollásánál helyezkedik el.", "A marsi Jezero krátert 2007-ben nevezték el a városról.", "A lakosságszám mindössze 1100 fő körül mozog.", "A daytoni egyezmény Jajce területéből hasította ki a községet.", "2021-ben a Perseverance rover a városról elnevezett kráterben landolt.", "A település neve a helyi nyelveken 'tavat' jelent."],
       ro: ["Se află la vărsarea râului Pliva în Lacul Pliva.", "Craterul marțian Jezero poartă numele acestui oraș din 2007.", "Populația localității este de aproximativ 1.140 de persoane.", "S-a desprins din comuna Jajce conform Acordului de la Dayton.", "Roverul Perseverance a asolizat în craterul Jezero în 2021.", "Numele orașului se traduce prin 'lac' în limbile slave."],
       en: ["Situated where the Pliva River flows into the Great Pliva Lake.", "The Jezero crater on Mars was officially named after it in 2007.", "The municipality is home to approximately 1,140 residents.", "Formed from the pre-war Jajce municipality by the 1995 Dayton Agreement.", "NASA's Perseverance rover landed in the eponymous crater in 2021.", "The name 'Jezero' directly translates to 'lake' in Slavic languages."],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-jezero-cities-v2.webp"},
   {
     id: "bosniaherzegovina-kakanj-selo-cities-v2",
     type: "city",
@@ -2871,8 +2867,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       hu: ["A Kupresi-mező átlagos tengerszint feletti magassága 1190 méter.", "Első okleveles említése a 15. század közepéről, 1461-ből származik.", "A községben megközelítőleg 5000 lakos él állandó jelleggel.", "A Stožer és a Čajuša síközpontok számos turistát vonzzanak.", "Telei rendkívül hidegek, tartós és vastag hótakaróval.", "A kiterjedt fennsíkot intenzív állattartásra és legeltetésre használják."],
       ro: ["Platoul Kupres se află la o altitudine medie de 1.190 de metri.", "Prima mențiune documentară a așezării datează din 1461.", "Populația comunei numără aproximativ 5.000 de rezidenți.", "Include centrele de schi Stožer și Čajuša.", "Clima se caracterizează prin ierni geroase și strat gros de zăpadă.", "Terenurile de pe platou sunt utilizate intens pentru pășunat."],
       en: ["The Kupres plateau sits at an average elevation of 1,190 meters.", "The town was first documented in historical records in 1461.", "The total municipal population is approximately 5,000 residents.", "Hosts popular ski resorts including Stožer and Čajuša.", "The climate is characterized by severe winters and prolonged snow cover.", "Large areas of the karst plain are utilized for livestock grazing."],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-kupres-cities-v2.webp"},
   {
     id: "bosniaherzegovina-lukavica-cities-v2",
     type: "city",
@@ -2903,8 +2898,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       hu: ["Itt található az Istočno Sarajevo-i Egyetem központi kampusza.", "Közvetlenül határos a bosnyák főváros, Szarajevó területével.", "A városrészben működik az Istočno Sarajevo-i önkormányzat.", "1995 óta a régió egyik leggyorsabban növekvő lakónegyede.", "Több fontos közintézmény és egyetemi kar kapott helyet a területen.", "Eredetileg egy ritkán lakott peremvárosi település volt."],
       ro: ["Găzduiește sediul central al Universității din Istočno Sarajevo.", "Se învecinează direct cu entitatea Cantonului Sarajevo.", "Aici funcționează administrația principală a orașului Istočno Sarajevo.", "Populația a crescut semnificativ după Acordul de la Dayton din 1995.", "Multe instituții educaționale sunt concentrate în acest cartier.", "Înainte de 1992, era o simplă așezare suburbană agricolă."],
       en: ["Serves as the main campus location for the University of Istočno Sarajevo.", "Directly borders the Sarajevo Canton in the Federation entity.", "Houses the primary administrative offices of the City of Istočno Sarajevo.", "Experienced significant demographic growth following the 1995 peace agreement.", "Contains multiple regional government buildings and academic faculties.", "Historically, it was a minor suburban and agricultural settlement."],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-lukavica-cities-v2.webp"},
   {
     id: "bosniaherzegovina-nevesinje-cities-v2",
     type: "city",
@@ -2935,8 +2929,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       hu: ["A Nevesinjei-mezőn fekszik, mintegy 900 méteres tengerszint feletti magasságban.", "A 'nevesinjei puska' néven ismert felkelés 1875 nyarán robbant ki.", "A települést a 13. században említik először az írásos források.", "A közigazgatási területén mintegy 13 000 lakos él.", "A helyi mezőgazdaság alapját a hegyvidéki juhtenyésztés adja.", "A Velež-hegység markáns éghajlati választóvonalat képez a térségben."],
       ro: ["Se află pe Câmpia Nevesinje, la o altitudine de aproape 900 de metri.", "Răscoala cunoscută sub numele de 'Pușca din Nevesinje' a început în 1875.", "Așezarea este menționată în documente încă din secolul al XIII-lea.", "Populația comunei este estimată la 13.000 de locuitori.", "Creșterea ovinelor este principala ramură agricolă a regiunii.", "Lanțul montan Velež domină peisajul la vestul orașului."],
       en: ["Located on the Nevesinje field at an elevation of approximately 900 meters.", "The 1875 'Nevesinje gun' rebellion triggered the wider Great Eastern Crisis.", "First historical references to the settlement date back to the 13th century.", "The municipal area has a population of roughly 13,000 residents.", "The local economy relies heavily on traditional livestock farming.", "The Velež mountain range separates the town from the Mediterranean climate."],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-nevesinje-cities-v2.webp"},
   {
     id: "bosniaherzegovina-novisehir-cities-v2",
     type: "city",
@@ -2967,8 +2960,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       hu: ["A település a Bosna folyó völgyének közelében fekszik.", "A régió a középkorban jelentős vasfeldolgozó központ volt.", "Legfontosabb műemléke egy 16. században épült oszmán dzsámi.", "Közigazgatásilag a szomszédos Maglaj városához tartozik.", "Állandó lakosainak száma nagyjából 1500 fő.", "A területen áthaladtak a történelmi boszniai kereskedelmi útvonalak."],
       ro: ["Așezarea este situată în apropierea văii râului Bosna.", "Istoric, zona a fost un centru important pentru prelucrarea fierului.", "Găzduiește o moschee otomană construită în secolul al XVI-lea.", "Face parte din structura administrativă a comunei Maglaj.", "Populația satului se situează în jurul a 1.500 de locuitori.", "Păstrează urme ale vechilor rute comerciale medievale."],
       en: ["Located near the Bosna River valley in central Bosnia.", "The surrounding area was historically known for iron processing.", "Features a prominent Ottoman mosque dating back to the 16th century.", "Administratively incorporated into the Maglaj municipality.", "The village maintains a population of approximately 1,500 residents.", "Situated along the historical medieval trade routes of the region."],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-novisehir-cities-v2.webp"},
   {
     id: "bosniaherzegovina-opstinatrnovo-cities-v2",
     type: "city",
@@ -2999,8 +2991,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       hu: ["Hegyvidéki község", "Igman-hegység közelsége", "Falusias szerkezet", "Szarajevótól délre"],
       ro: ["Municipalitate montană", "Proximitatea masivului Igman", "Structură rurală", "La sud de Sarajevo"],
       en: ["Mountainous municipality", "Proximity to the Igman massif", "Rural structure", "South of Sarajevo"],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-opstinatrnovo-cities-v2.webp"},
   {
     id: "bosniaherzegovina-ozren-cities-v2",
     type: "city",
@@ -3031,8 +3022,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       hu: ["Ilijaš közelében", "Dombos erdős táj", "Erdőgazdálkodási hagyomány", "Természetközeli elhelyezkedés"],
       ro: ["Situat lângă Ilijaš", "Peisaj forestier deluros", "Tradiție silvică", "Poziționare naturală"],
       en: ["Located near Ilijaš", "Hilly forest landscape", "Forestry tradition", "Natural location"],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-ozren-cities-v2.webp"},
   {
     id: "bosniaherzegovina-petrovic-cities-v2",
     type: "city",
@@ -3095,8 +3085,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       hu: ["Kis település", "Dombos régió", "Szétszórt lakottság", "Vidéki térség"],
       ro: ["Așezare mică", "Regiune deluroasă", "Așezare dispersată", "Zonă rurală"],
       en: ["Small settlement", "Hilly region", "Scattered settlement", "Rural area"],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-roca-cities-v2.webp"},
   {
     id: "bosniaherzegovina-sipovo-centar-cities-v2",
     type: "city",
@@ -3159,8 +3148,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       hu: ["A tešanji erőd területe meghaladja a 6300 négyzetmétert.", "A 17. századi oszmán óratorony (Sahat-kula) máig működik.", "A török uralom alatt a térség legjelentősebb kézműves központja volt.", "A Ferhad-bég dzsámi 1563-as építése óta a város ékessége.", "A központi belterület mintegy 5500 lakost számlál.", "Itt található a bosnyák költő, Musa Ćazim Ćatić síremléke."],
       ro: ["Cetatea Tešanj se întinde pe o suprafață de aproape 6.300 de metri pătrați.", "Turnul cu ceas (Sahat-kula) a fost construit în secolul al XVII-lea.", "Orașul s-a dezvoltat ca un prosper centru meșteșugăresc otoman.", "Moscheea Ferhad-Beg datează din anul 1563.", "Populația așezării centrale este de aproximativ 5.500 de locuitori.", "Poetul național bosniac Musa Ćazim Ćatić este înmormântat aici."],
       en: ["The Tešanj fortress covers an extensive area of nearly 6,300 square meters.", "The town's Ottoman clock tower (Sahat-kula) was erected in the 17th century.", "Historically served as a vibrant mercantile center during the Ottoman era.", "The central Ferhad-Beg Mosque was completed in 1563.", "The urban settlement has a population of roughly 5,500 people.", "The grave of the prominent Bosnian poet Musa Ćazim Ćatić is located here."],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-tesanj-naselje-cities-v2.webp"},
   {
     id: "bosniaherzegovina-tihovici-cities-v2",
     type: "city",
@@ -3191,8 +3179,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       hu: ["Vogošća közelében", "Szarajevótól északra", "Nyugodt völgyi fekvés", "Kisebb városrész"],
       ro: ["Lângă Vogošća", "La nord de Sarajevo", "Poziție liniștită în vale", "Localitate mică"],
       en: ["Near Vogošća", "North of Sarajevo", "Quiet valley location", "Small settlement"],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-tihovici-cities-v2.webp"},
   {
     id: "bosniaherzegovina-usora-cities-v2",
     type: "city",
@@ -3223,8 +3210,7 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
       hu: ["Zenica-Doboj kanton", "Termékeny völgy", "Gazdasági központ", "Történelmi közlekedési útvonal"],
       ro: ["Cantonul Zenica-Doboj", "Vale fertilă", "Hub economic", "Rută istorică de transport"],
       en: ["Zenica-Doboj Canton", "Fertile valley", "Economic hub", "Historic transport route"],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-usora-cities-v2.webp"},
   {
     id: "bosniaherzegovina-vlasenica-naselje-cities-v2",
     type: "city",

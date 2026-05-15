@@ -31,8 +31,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["A legmagasabb csúcs a Pico da Nevosa (1546 m).", "A nemzeti parkot 1971-ben alapították, területe 680 km².", "A Caniçada-tó területe 5,5 km².", "Az éves csapadék meghaladja a 1800 mm-t.", "A Serra az ibériai farkas utolsó portugál populációjának ad otthont.", "A PR7 túraút hossza 10 km."],
       ro: ["Cel mai înalt vârf este Pico da Nevosa, cu 1.546 de metri.", "Parcul național a fost înființat în 1971 și acoperă 695 de kilometri pătrați.", "Lacul de acumulare Caniçada are o suprafață de 6 kilometri pătrați.", "Precipitațiile anuale depășesc 2.000 mm.", "Serra adăpostește ultima populație de lup iberic din Portugalia.", "Traseul de drumeție PR7 are 12 kilometri."],
       en: ["The highest peak is Pico da Nevosa at 1,546 meters.", "The national park was established in 1971 and covers 695 square kilometers.", "Lake Caniçada reservoir has an area of 6 square kilometers.", "Annual rainfall exceeds 2,000 mm.", "The Serra hosts the last population of Iberian wolf in Portugal.", "The PR7 hiking trail is 12 kilometers long."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-do-geres-relief-v2.webp"},
   {
     id: "portugal-serra-do-aco-relief-v2",
     type: "mountain",
@@ -63,8 +62,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["A legmagasabb csúcs a Pico da Cebola, 1.340 méter.", "A Serra do Açor hossza 20 kilométer.", "A palaképződmények több mint 300 millió évesek.", "A régióban évi 400 csapadékos nap van.", "A terület 15.000 hektár védett területet foglal magában.", "Több mint 150 madárfajt regisztráltak a Serra do Açorban."],
       ro: ["Cel mai înalt vârf este Pico da Cebola, cu 1.340 de metri.", "Serra do Açor se întinde pe 20 de kilometri lungime.", "Formațiunile de șist au peste 300 de milioane de ani.", "Regiunea are 400 de zile cu precipitații pe an.", "Zona cuprinde 15.000 de hectare de arie protejată.", "Peste 150 de specii de păsări au fost înregistrate în Serra do Açor."],
       en: ["The highest peak is Pico da Cebola at 1,340 meters.", "Serra do Açor extends 20 kilometers in length.", "The schist formations are over 300 million years old.", "The region has 400 precipitation days per year.", "The area covers 15,000 hectares of protected land.", "Over 150 bird species have been recorded in Serra do Açor."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-do-aco-relief-v2.webp"},
   {
     id: "portugal-serra-de-monchique-relief-v2",
     type: "mountain",
@@ -95,8 +93,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["A Fóia 902 méterével az Algarve legmagasabb pontja.", "A hegység vulkanikus eredetű a perm időszakból.", "Az éves átlaghőmérséklet 16°C.", "A Serra de Monchique-ban több mint 30 termálforrás található.", "A paratölgyállomány 10.000 hektárt fed le.", "Évente körülbelül 200.000 turista látogat a régióba."],
       ro: ["Fóia, cu 902 metri, este cel mai înalt punct din Algarve.", "Munții sunt de origine vulcanică din Permian.", "Temperatura medie anuală este de 16°C.", "Există peste 30 de izvoare termale în Serra de Monchique.", "Pădurea de stejar de plută acoperă 10.000 de hectare.", "Aproximativ 200.000 de turiști vizitează regiunea anual."],
       en: ["Fóia at 902 meters is the highest point in the Algarve.", "The range is of volcanic origin from the Permian.", "Average annual temperature is 16°C.", "There are over 30 hot springs in Serra de Monchique.", "Cork oak forest covers 10,000 hectares.", "About 200,000 tourists visit the region annually."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-de-monchique-relief-v2.webp"},
   {
     id: "portugal-serra-do-caramulo-v2-relief-v2",
     type: "mountain",
@@ -159,8 +156,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: 1228 méter tengerszint felett.", "A hegység hossza: 10 km.", "A terület 4000 hektárt ölel fel.", "Az éves csapadékmennyiség 1200 mm.", "Az átlaghőmérséklet 15°C.", "200 madárfaj él itt."],
       ro: ["Cel mai înalt vârf: 1.228 de metri deasupra nivelului mării.", "Lungimea lanțului: 10 kilometri.", "Zona cuprinde 4.000 de hectare.", "Precipitațiile anuale sunt de 1.200 mm.", "Temperatura medie este de 15°C.", "Există 200 de specii de păsări."],
       en: ["Highest peak: 1,228 meters above sea level.", "Length of the range: 10 kilometers.", "The area covers 4,000 hectares.", "Annual rainfall is 1,200 mm.", "Average temperature is 15°C.", "There are 200 bird species."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-da-gardunha-relief-v2.webp"},
   {
     id: "portugal-serra-de-montejunto-relief-v2",
     type: "mountain",
@@ -191,8 +187,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: 666 m tengerszint felett", "Természeti Park területe: kb. 5000 hektár", "Park alapítása: 2004", "Átlagos évi csapadék: 800-1000 mm", "Itt található Portugália egyik legrégebbi jégvermét (18. század)", "A hegyvonulat hossza: kb. 15 km"],
       ro: ["Altitudine maximă: 666 m", "Suprafața parcului natural: 5.000 ha", "Anul înființării parcului: 2004", "A fost sursă de gheață pentru Lisabona în secolul al XVIII-lea", "Mănăstire dominicană construită în secolul al XVI-lea", "Aproximativ 150 de specii de păsări"],
       en: ["Highest elevation: 666 m (2,185 ft)", "Protected area size: 5,000 ha (12,355 acres)", "Natural Park established: 2004", "Dominican monastery built: 16th century", "Ice factory operational: 18th century", "Number of bird species: over 150"],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-de-montejunto-relief-v2.webp"},
   {
     id: "portugal-serra-de-valongo-relief-v2",
     type: "mountain",
@@ -223,8 +218,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: Monte Crasto, 702 m.", "A terület a Porto-i metropolita része, 15 km-re a várostól.", "A park 2012-ben jött létre.", "A hegyvonulat hossza: kb. 20 km.", "Éves csapadék: 1200 mm.", "Legközelebbi nagyváros: Porto, 15 km."],
       ro: ["Altitudine maximă: 702 m la Monte Crasto.", "Suprafața parcului: aproximativ 60 km².", "Distanța față de Porto: 15 km.", "Populația orașului Valongo: circa 10.000 locuitori.", "Precipitații anuale: 1.200 mm.", "Anul înființării parcului: 2012."],
       en: ["Highest elevation: 702 m at Monte Crasto.", "Protected area size: 60 km² (Parque das Serras do Porto).", "Roman gold mining activity dating from 1st century BC.", "Distance from Porto: 15 km.", "Average annual precipitation: 1,200 mm.", "Population of Valongo (town): approximately 10,000 (2011 census)."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-de-valongo-relief-v2.webp"},
   {
     id: "portugal-serra-da-arada-relief-v2",
     type: "mountain",
@@ -255,8 +249,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: Caramulo, 1075 m.", "Terület: kb. 200 km².", "Termálforrások hőmérséklete: 68 °C-ig.", "Éves csapadék: 1500 mm.", "Arouca lakossága: kb. 5000 fő.", "Natura 2000 védettség: 1998 óta."],
       ro: ["Altitudine maximă: 1.075 m la Caramulo.", "Suprafața: aproximativ 200 km².", "Temperatura izvoarelor termale: până la 68 °C.", "Precipitații anuale: 1.500 mm.", "Populația localității Arouca: circa 5.000.", "Statut de protecție: Natura 2000 din 1998."],
       en: ["Highest peak: Caramulo, 1,075 m.", "Area: approximately 200 km².", "Thermal spring temperature: up to 68 °C.", "Annual rainfall: 1,500 mm.", "Population of Arouca (town): about 5,000.", "Natura 2000 designation: 1998."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-da-arada-relief-v2.webp"},
   {
     id: "portugal-serra-do-alturas-relief-v2",
     type: "mountain",
@@ -287,8 +280,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: kb. 950 m.", "Terület: kb. 150 km².", "Középkori várrom: Castelo de Monforte, 13. sz.", "Évi csapadék: 700 mm.", "Népsűrűség: < 10 fő/km².", "Nemzetközi Douro Természeti Park része, 1998."],
       ro: ["Altitudine maximă: aproximativ 950 m.", "Suprafața: circa 150 km².", "Ruine de castel medieval: Castelo de Monforte, secolul XIII.", "Precipitații anuale: 700 mm.", "Densitatea populației: < 10 loc./km².", "Parte a Parcului Natural Douro Internațional, 1998."],
       en: ["Highest point: approximately 950 m.", "Area: about 150 km².", "Medieval castle ruin: Castelo de Monforte, 13th century.", "Annual precipitation: 700 mm.", "Population density: < 10 per km².", "Part of Douro International Nature Park, established 1998."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-do-alturas-relief-v2.webp"},
   {
     id: "portugal-serra-da-lapa-relief-v2",
     type: "mountain",
@@ -319,8 +311,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: kb. 950 m.", "Zarándoktemplom: Santuário da Nossa Senhora da Lapa, épült 1700-ban.", "Éves csapadék: 1200 mm.", "Lapa falu lakossága: kb. 200 fő.", "Gránit kor: több mint 500 millió év.", "Barlang: Gruta da Lapa, hossza kb. 500 m."],
       ro: ["Altitudine maximă: aproximativ 950 m.", "Sanctuarul: Santuário da Nossa Senhora da Lapa, construit în 1700.", "Precipitații anuale: 1.200 mm.", "Populația satului Lapa: circa 200 locuitori.", "Vechimea granitului: peste 500 milioane de ani.", "Peștera: Gruta da Lapa, lungime aprox. 500 m."],
       en: ["Highest elevation: approximately 950 m.", "Sanctuary: Santuário da Nossa Senhora da Lapa, built in 1700.", "Annual rainfall: 1,200 mm.", "Population of Lapa village: around 200.", "Granite age: over 500 million years.", "Cave system: Gruta da Lapa, about 500 m long."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-da-lapa-relief-v2.webp"},
   {
     id: "portugal-serra-do-espinhaço-relief-v2",
     type: "mountain",
@@ -351,8 +342,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Cabeço da Forca, kb. 1020 m.", "Montesinho Természeti Park területe: 750 km².", "Farkasok Portugáliában: kb. 300 egyed (sok itt).", "Januári átlaghőmérséklet: 2 °C.", "Éves csapadék: 800 mm.", "Falvak száma a hegységben: kb. 20."],
       ro: ["Vârf maxim: Cabeço da Forca, aprox. 1.020 m.", "Suprafața Parcului Natural Montesinho: 750 km².", "Populația de lupi în Portugalia: circa 300 (mulți aici).", "Temperatura medie în ianuarie: 2 °C.", "Precipitații anuale: 800 mm.", "Numărul satelor din lanț: aproximativ 20."],
       en: ["Highest peak: Cabeço da Forca, about 1,020 m.", "Montesinho Natural Park area: 750 km².", "Wolf population in Portugal: around 300 individuals (many in this region).", "Average January temperature: 2 °C.", "Annual precipitation: 800 mm.", "Number of villages in the range: about 20."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-do-espinhaço-relief-v2.webp"},
   {
     id: "portugal-serra-do-montemuro-relief-v2",
     type: "mountain",
@@ -383,8 +373,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Pena de Águia, 1382 m.", "Terület: kb. 300 km².", "Legmagasabban fekvő falu: Covelo do Monte, 1100 m.", "Éves csapadék: 1600 mm.", "Montemuro község lakossága: kb. 1500 fő.", "Római település: Castro de Montemuro, i.e. 1. század."],
       ro: ["Vârf maxim: Pena de Águia, 1.382 m.", "Suprafața: aproximativ 300 km².", "Satul cel mai înalt: Covelo do Monte, 1.100 m.", "Precipitații anuale: 1.600 mm.", "Populația comunei Montemuro: circa 1.500.", "Așezare romană: Castro de Montemuro, sec. I î.Hr."],
       en: ["Highest peak: Pena de Águia, 1,382 m.", "Area: approximately 300 km².", "Highest village: Covelo do Monte at 1,100 m.", "Annual rainfall: 1,600 mm.", "Population of Montemuro parish: about 1,500.", "Roman settlement: Castro de Montemuro, 1st century BC."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-do-montemuro-relief-v2.webp"},
   {
     id: "portugal-serra-do-bussaco-relief-v2",
     type: "mountain",
@@ -415,8 +404,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: Cruz Alta, 547 m.", "Fafajok száma az erdőben: több mint 700.", "Palace Hotel do Bussaco épült: 1907.", "Bussacói csata: 1810. szeptember 27.", "Erdő területe: 105 ha.", "Legmagasabb fa: Mamutfenyő, 45 m."],
       ro: ["Punctul cel mai înalt: Cruz Alta, 547 m.", "Numărul speciilor de arbori din pădure: peste 700.", "Palace Hotel do Bussaco construit: 1907.", "Bătălia de la Bussaco: 27 septembrie 1810.", "Suprafața pădurii: 105 ha.", "Cel mai înalt copac: Sequoia, 45 m."],
       en: ["Highest point: Cruz Alta, 547 m.", "Number of tree species in the forest: over 700.", "Palace Hotel do Bussaco built: 1907.", "Battle of Bussaco: 27 September 1810.", "Forest area: 105 ha.", "Tallest tree: Sequoia, 45 m."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-do-bussaco-relief-v2.webp"},
   {
     id: "portugal-serra-de-santana-relief-v2",
     type: "mountain",
@@ -447,8 +435,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Pico das Pedras, kb. 1600 m.", "UNESCO világörökség: Laurisilva, 1999 óta.", "Éves csapadék: több mint 2500 mm.", "Levada-túraútvonalak hossza a szigeten: több mint 200 km.", "Santana község lakossága: kb. 8000 fő.", "Átlaghőmérséklet: 18 °C."],
       ro: ["Vârf maxim: Pico das Pedras, aprox. 1.600 m.", "Patrimoniu UNESCO: Laurisilva, din 1999.", "Precipitații anuale: peste 2.500 mm.", "Lungimea traseelor Levada pe insulă: peste 200 km.", "Populația municipiului Santana: circa 8.000.", "Temperatura medie: 18 °C."],
       en: ["Highest peak: Pico das Pedras, about 1,600 m.", "UNESCO World Heritage: Laurisilva, since 1999.", "Annual rainfall: over 2,500 mm.", "Length of Levada hiking trails on the island: over 200 km.", "Population of Santana municipality: approx. 8,000.", "Average temperature: 18 °C."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-de-santana-relief-v2.webp"},
   {
     id: "portugal-serra-do-caldeiro-relief-v2",
     type: "mountain",
@@ -479,8 +466,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: kb. 800 m.", "Gesztenyetermelés: évi több mint 500 tonna.", "Hóesés: átlagosan 20 nap évente.", "Vasbányák: történelmi, 1900-ig működtek.", "Terület: kb. 100 km².", "Régió lakossága: < 500 fő."],
       ro: ["Altitudine maximă: aprox. 800 m.", "Producția de castane: peste 500 de tone anual.", "Zăpadă: în medie 20 de zile pe an.", "Mine de fier: istorice, operate până în 1900.", "Suprafața: circa 100 km².", "Populația regiunii: sub 500 locuitori."],
       en: ["Highest point: about 800 m.", "Chestnut production: over 500 tons annually.", "Snowfall: average 20 days per year.", "Iron mines: historical, operated until 1900.", "Area: approximately 100 km².", "Population of the region: less than 500."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-do-caldeiro-relief-v2.webp"},
   {
     id: "portugal-serra-de-fafe-relief-v2",
     type: "mountain",
@@ -511,8 +497,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: kb. 700 m.", "Fafe város lakossága: kb. 14.000 fő.", "Vízesések száma: több mint 10.", "Éves csapadék: 1800 mm.", "Textilgyárak: több mint 100 a 19. században.", "Község területe: 200 km²."],
       ro: ["Altitudine maximă: aprox. 700 m.", "Populația orașului Fafe: circa 14.000.", "Numărul de cascade: peste 10.", "Precipitații anuale: 1.800 mm.", "Fabrici textile: peste 100 în sec. XIX.", "Suprafața municipiului: 200 km²."],
       en: ["Highest point: about 700 m.", "Population of Fafe (town): about 14,000.", "Number of waterfalls: over 10.", "Annual rainfall: 1,800 mm.", "Textile factories: over 100 in the 19th century.", "Municipality area: 200 km²."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-de-fafe-relief-v2.webp"},
   {
     id: "portugal-serra-do-larouco-relief-v2",
     type: "mountain",
@@ -543,8 +528,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Pico do Larouco, 1527 m.", "Rangsor: Portugália második legmagasabb hegye.", "Téli hóvastagság: akár 1 m.", "Éves csapadék: 2000 mm.", "Népsűrűség: < 5 fő/km².", "Hegygerinc hossza: kb. 15 km."],
       ro: ["Vârf maxim: Pico do Larouco, 1.527 m.", "Clasament: al doilea cel mai înalt munte din Portugalia.", "Strat de zăpadă în iarnă: până la 1 m.", "Precipitații anuale: 2.000 mm.", "Densitatea populației: < 5 loc./km².", "Lungimea crestei: aproximativ 15 km."],
       en: ["Highest peak: Pico do Larouco, 1,527 m.", "Rank: second highest mountain in Portugal.", "Snow depth in winter: up to 1 m.", "Annual precipitation: 2,000 mm.", "Population density: less than 5 per km².", "Length of the ridge: about 15 km."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-do-larouco-relief-v2.webp"},
   {
     id: "portugal-serra-do-coris-relief-v2",
     type: "mountain",
@@ -575,8 +559,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: kb. 600 m.", "UNESCO Geopark: Naturtejo, 2014 óta.", "Higanybányák: 1994-ig működtek.", "Palafalvak száma: 5.", "Éves napfényórák: több mint 2800.", "Régió lakossága: kb. 1000 fő."],
       ro: ["Altitudine maximă: aprox. 600 m.", "Geoparcul UNESCO: Naturtejo, din 2014.", "Mine de mercur: operate până în 1994.", "Numărul satelor de șist: 5.", "Ore anuale de soare: peste 2.800.", "Populația regiunii: circa 1.000."],
       en: ["Highest point: about 600 m.", "UNESCO Geopark: Naturtejo, since 2014.", "Mercury mines: operated until 1994.", "Number of slate villages: 5.", "Annual sunshine hours: over 2,800.", "Population of the region: about 1,000."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-do-coris-relief-v2.webp"},
   {
     id: "portugal-serra-da-peneda-relief-v2",
     type: "mountain",
@@ -607,8 +590,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Serra da Peneda, 1340 m.", "Peneda-Gerês Nemzeti Park: alapítva 1971, területe 703 km².", "Garrano lovak: kb. 300 példány a parkban.", "Éves csapadék: 2500 mm.", "Átlaghőmérséklet: 10 °C.", "Falvak száma a parkban: kb. 100."],
       ro: ["Vârf maxim: Serra da Peneda, 1.340 m.", "Parcul Național Peneda-Gerês: fondat în 1971, suprafață 703 km².", "Cai Garrano: aproximativ 300 de exemplare în parc.", "Precipitații anuale: 2.500 mm.", "Temperatura medie: 10 °C.", "Numărul satelor din parc: circa 100."],
       en: ["Highest peak: Serra da Peneda, 1,340 m.", "Peneda-Gerês National Park: founded 1971, area 703 km².", "Garrano horses: about 300 specimens in the park.", "Annual rainfall: 2,500 mm.", "Average temperature: 10 °C.", "Number of villages in the park: approximately 100."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-da-peneda-relief-v2.webp"},
   {
     id: "portugal-serra-da-estrela-plateau-relief-v2",
     type: "mountain",
@@ -639,8 +621,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Torre, 1993 m.", "Gleccsertó: Lagoa Comprida, területe 0,2 km².", "Sípálya: 4 pálya, hossza kb. 7 km.", "Éves csapadék: 2500 mm.", "Hóborítottság: 150 nap évente.", "Sajttermelés: Queijo da Serra, évi 500 tonna."],
       ro: ["Vârf maxim: Torre, 1.993 m.", "Lac glaciar: Lagoa Comprida, suprafață 0,2 km².", "Stațiune de schi: 4 pârtii, lungime totală de cca. 7 km.", "Precipitații anuale: 2.500 mm.", "Acoperire de zăpadă: 150 de zile pe an.", "Producția de brânză: Queijo da Serra, 500 tone anual."],
       en: ["Highest peak: Torre, 1,993 m.", "Glacial lake: Lagoa Comprida, area 0.2 km².", "Ski resort: 4 slopes, total length about 7 km.", "Annual precipitation: 2,500 mm.", "Snow cover: 150 days per year.", "Cheese production: Queijo da Serra, 500 tons annually."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-da-estrela-plateau-relief-v2.webp"},
   {
     id: "portugal-serra-de-sao-mamede-relief-v2",
     type: "mountain",
@@ -671,8 +652,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Pico de São Mamede, 1025 m.", "Természeti Park területe: 650 km².", "1385-ös csata: Aljubarrota-i csata (a szélesebb régióban).", "Olívaolaj-termelés: évi 10.000 tonna.", "Portalegre lakossága: kb. 15.000 fő.", "Marvão vára 860 m magasan."],
       ro: ["Vârf maxim: Pico de São Mamede, 1.025 m.", "Parcul Natural: 650 km².", "Bătălia din 1385: Bătălia de la Aljubarrota (în regiune).", "Producția de ulei de măsline: 10.000 tone anual.", "Populația orașului Portalegre: circa 15.000.", "Castelul Marvão: altitudine de 860 m."],
       en: ["Highest peak: Pico de São Mamede, 1,025 m.", "Nature park size: 650 km².", "1385 battle: Battle of Aljubarrota (in the wider region).", "Olive oil production: 10,000 tons annually.", "Population of Portalegre: about 15,000.", "Marvão castle altitude: 860 m."],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-de-sao-mamede-relief-v2.webp"},
   {
     id: "portugal-serra-da-gralheira-relief-v2",
     type: "mountain",
@@ -735,8 +715,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: kb. 1200 m", "Montesinho Természeti Park része (alapítva 1979)", "Fő kőzetek: gránit és pala", "Itt él az ibériai farkas (Canis lupus signatus)", "Évi csapadékátlag: 1200 mm", "Hagyományos palatetős házak"],
       ro: ["Altitudine maximă: aproximativ 1200 m", "Parte a Parcului Natural Montesinho (fondat 1979)", "Roci principale: granit și șist", "Habitat pentru lupul iberic (Canis lupus signatus)", "Precipitații medii anuale: 1200 mm", "Case tradiționale cu acoperiș de șist"],
       en: ["Highest peak: ca. 1,200 m (3,937 ft)", "Part of Montesinho Natural Park (est. 1979)", "Main rock types: granite and schist", "Iberian wolf presence: Canis lupus signatus", "Average annual rainfall: 1,200 mm", "Traditional houses with schist roofs"],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-da-nogueira-relief-v2.webp"},
   {
     id: "portugal-serra-da-lousa-north-relief-v2",
     type: "mountain",
@@ -767,8 +746,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Trevim, 1204 m", "Coimbrától való távolság: kb. 25 km", "Fő kőzetek: kvarcit és pala", "Híres palafalvak: Talasnal, Gondramaz", "Nyári átlaghőmérséklet: 20°C", "Erdőterület: kb. 15.000 hektár"],
       ro: ["Cel mai înalt vârf: Trevim, 1.204 m", "Distanța față de Coimbra: cca 25 km", "Roci principale: cuarțit și șist", "Sate de șist celebre: Talasnal, Gondramaz", "Temperatura medie de vară: 20°C", "Suprafața forestieră: cca 15.000 ha"],
       en: ["Highest peak: Trevim at 1,204 m (3,950 ft)", "Distance to Coimbra: 25 km (16 mi)", "Main rock types: quartzite and schist", "Famous schist villages: Talasnal, Gondramaz", "Average summer temperature: 20°C (68°F)", "Forest area: approx. 15,000 ha (37,066 acres)"],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-da-lousa-north-relief-v2.webp"},
   {
     id: "portugal-serra-do-alturas-west-relief-v2",
     type: "mountain",
@@ -799,8 +777,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Nyugati szakasz hossza: kb. 20 km", "Maximális magasság: kb. 600 m", "Fő kőzetek: pala és homokkő", "Megalitikus sírok száma: legalább 5", "Évi csapadékmennyiség: 600 mm", "Távolság a legközelebbi várostól (Beja): kb. 40 km"],
       ro: ["Lungimea sectorului vestic: cca 20 km", "Altitudine maximă: cca 600 m", "Roci principale: șist și grauwacke", "Număr de morminte megalitice: cel puțin 5", "Precipitații medii anuale: 600 mm", "Distanța până la cel mai apropiat oraș (Beja): cca 40 km"],
       en: ["Length of western section: approx. 20 km (12 mi)", "Maximum elevation: ca. 600 m (1,969 ft)", "Main rock types: schist and greywacke", "Number of megalithic tombs: at least 5", "Average annual rainfall: 600 mm (23.6 in)", "Distance to nearest city (Beja): ca. 40 km (25 mi)"],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-do-alturas-west-relief-v2.webp"},
   {
     id: "portugal-serra-da-nogueira-east-relief-v2",
     type: "mountain",
@@ -831,8 +808,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: 1300 m felett", "Keleti szakasz hossza: kb. 15 km", "Fő kőzet: gránit", "A Rio Sabor több mellékfolyójának forrásvidéke", "Vadmacska (Felis silvestris) előfordulása", "Téli átlaghőmérséklet: 5°C"],
       ro: ["Cel mai înalt vârf: peste 1.300 m", "Lungimea sectorului estic: cca 15 km", "Roca principală: granit", "Zonă de obârșie pentru mai mulți afluenți ai râului Sabor", "Prezența pisicii sălbatice (Felis silvestris)", "Temperatura medie de iarnă: 5°C"],
       en: ["Highest peak: over 1,300 m (4,265 ft)", "Length of eastern section: approx. 15 km (9 mi)", "Main rock: granite", "Headwaters of several Sabor River tributaries", "Wildcat presence (Felis silvestris)", "Average winter temperature: 5°C (41°F)"],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-da-nogueira-east-relief-v2.webp"},
   {
     id: "portugal-serra-do-maroi-south-relief-v2",
     type: "mountain",
@@ -863,8 +839,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: 1.190 m", "Terület: 78 km²", "Éves átlaghőmérséklet: 11°C", "Éves csapadék: 1.500 mm", "Településsűrűség: 18 fő/km²", "Legnagyobb falu: Maroi (250 lakos)"],
       ro: ["Altitudine maximă: 1.180 m", "Suprafață: 82 km²", "Temperatura medie anuală: 11,5°C", "Precipitații anuale: 1.550 mm", "Densitatea populației: 12 locuitori/km²", "Cel mai mare sat: Maroi (280 locuitori)"],
       en: ["Highest point: 1,200 m", "Area: 80 km²", "Average annual temperature: 11°C", "Annual precipitation: 1,600 mm", "Population density: 14/km²", "Largest settlement: Maroi (270 inhabitants)"],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-do-maroi-south-relief-v2.webp"},
   {
     id: "portugal-serra-de-monchique-north-relief-v2",
     type: "mountain",
@@ -895,8 +870,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: 790 m", "Terület: 115 km²", "Éves átlaghőmérséklet: 14°C", "Éves csapadék: 1.100 mm", "Források száma: 25", "Fő termény: citrusfélék (45% mezőgazdaság)"],
       ro: ["Altitudine maximă: 800 m", "Suprafață: 118 km²", "Temperatura medie anuală: 14,5°C", "Precipitații anuale: 1.150 mm", "Număr de izvoare: 28", "Culturi principale: citrice (48% din agricultură)"],
       en: ["Highest point: 805 m", "Area: 118 km²", "Average annual temperature: 14°C", "Annual precipitation: 1,200 mm", "Number of springs: 30", "Main crop: citrus fruits (50% of agriculture)"],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-de-monchique-north-relief-v2.webp"},
   {
     id: "portugal-serra-do-caramulo-east-relief-v2",
     type: "mountain",
@@ -927,8 +901,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: 1.030 m", "Terület: 145 km²", "Éves átlaghőmérséklet: 12°C", "Éves csapadék: 1.350 mm", "Termálforrások: 2", "Falvak magassága: 550-780 m"],
       ro: ["Altitudine maximă: 1.040 m", "Suprafață: 148 km²", "Temperatura medie anuală: 12,5°C", "Precipitații anuale: 1.380 mm", "Izvoare termale: 3", "Altitudinea satelor: 580-790 m"],
       en: ["Highest point: 1,045 m", "Area: 150 km²", "Average annual temperature: 12°C", "Annual precipitation: 1,400 mm", "Thermal springs: 3 known", "Village altitudes: 600-800 m"],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-do-caramulo-east-relief-v2.webp"},
   {
     id: "portugal-serra-da-gardunha-south-relief-v2",
     type: "mountain",
@@ -959,8 +932,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: 900 m", "Terület: 90 km²", "Szőlőterület: 10 km²", "Juhállomány: 4.500", "Éves átlaghőmérséklet: 13,5°C", "Éves csapadék: 1.050 mm"],
       ro: ["Altitudine maximă: 908 m", "Suprafață: 92 km²", "Suprafață viticolă: 11 km²", "Efective de oi: 4.800", "Temperatura medie anuală: 13°C", "Precipitații anuale: 1.080 mm"],
       en: ["Highest point: 912 m", "Area: 95 km²", "Vineyard area: 12 km²", "Sheep population: 5,000", "Average annual temperature: 13°C", "Annual precipitation: 1,100 mm"],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-da-gardunha-south-relief-v2.webp"},
   {
     id: "portugal-serra-da-nogueira-north-relief-v2",
     type: "mountain",
@@ -1023,8 +995,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: 580 m", "Terület: 175 km²", "Méhészeti telepek: 110", "Juhállomány: 7.500", "Éves átlaghőmérséklet: 15,5°C", "Éves csapadék: 750 mm"],
       ro: ["Altitudine maximă: 585 m", "Suprafață: 178 km²", "Stupine: 115", "Efective de oi: 7.800", "Temperatura medie anuală: 15°C", "Precipitații anuale: 780 mm"],
       en: ["Highest point: 589 m", "Area: 180 km²", "Beehives: 120", "Sheep population: 8,000", "Average annual temperature: 15°C", "Annual precipitation: 800 mm"],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-do-caldeirao-east-relief-v2.webp"},
   {
     id: "portugal-serra-do-montemuro-south-relief-v2",
     type: "mountain",
@@ -1055,8 +1026,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: 1.298 m", "Terület: 135 km²", "Burgonyaterület: 18 km²", "Éves átlaghőmérséklet: 8°C", "Éves csapadék: 1.450 mm", "Lápok magassága: 950 m felett"],
       ro: ["Altitudine maximă: 1.302 m", "Suprafață: 138 km²", "Suprafață cultivată cu cartofi: 19 km²", "Temperatura medie anuală: 8,5°C", "Precipitații anuale: 1.480 mm", "Altitudinea mlaștinilor: peste 980 m"],
       en: ["Highest point: 1,305 m", "Area: 140 km²", "Potato cultivation area: 20 km²", "Average annual temperature: 8°C", "Annual precipitation: 1,500 mm", "Peat bog altitude: above 1,000 m"],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-do-montemuro-south-relief-v2.webp"},
   {
     id: "portugal-serra-da-gralheira-north-relief-v2",
     type: "mountain",
@@ -1087,8 +1057,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: 1.175 m", "Terület: 105 km²", "Palafalvak száma: 4", "Broa termelés: évi 9 tonna", "Éves átlaghőmérséklet: 10°C", "Éves csapadék: 1.400 mm"],
       ro: ["Altitudine maximă: 1.182 m", "Suprafață: 108 km²", "Număr de sate de șist: 5", "Producție de broa: 9,5 tone anual", "Temperatura medie anuală: 10,5°C", "Precipitații anuale: 1.420 mm"],
       en: ["Highest point: 1,187 m", "Area: 110 km²", "Number of schist villages: 5", "Annual broa production: 10 tons", "Average annual temperature: 10°C", "Annual precipitation: 1,450 mm"],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-da-gralheira-north-relief-v2.webp"},
   {
     id: "portugal-serra-do-maroi-east-relief-v2",
     type: "mountain",
@@ -1119,8 +1088,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: 1.085 m", "Terület: 125 km²", "Szélturbinák: 52", "Éves áramtermelés: 115 GWh", "Éves átlaghőmérséklet: 10°C", "Éves csapadék: 1.350 mm"],
       ro: ["Altitudine maximă: 1.092 m", "Suprafață: 128 km²", "Turbine eoliene: 53", "Producție anuală de electricitate: 118 GWh", "Temperatura medie anuală: 10,5°C", "Precipitații anuale: 1.380 mm"],
       en: ["Highest point: 1,098 m", "Area: 130 km²", "Wind turbines: 55", "Annual electricity production: 120 GWh", "Average annual temperature: 10°C", "Annual precipitation: 1,400 mm"],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-do-maroi-east-relief-v2.webp"},
   {
     id: "portugal-serra-de-fafe-west-relief-v2",
     type: "mountain",
@@ -1151,8 +1119,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: 695 m", "Terület: 85 km²", "Szőlőterület: 7 km²", "Kukoricaterület: 14 km²", "Éves átlaghőmérséklet: 13°C", "Éves csapadék: 1.150 mm"],
       ro: ["Altitudine maximă: 705 m", "Suprafață: 88 km²", "Suprafață viticolă: 7,5 km²", "Suprafață de porumb: 14,5 km²", "Temperatura medie anuală: 13,5°C", "Precipitații anuale: 1.180 mm"],
       en: ["Highest point: 710 m", "Area: 90 km²", "Vineyard area: 8 km²", "Maize area: 15 km²", "Average annual temperature: 13°C", "Annual precipitation: 1,200 mm"],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-de-fafe-west-relief-v2.webp"},
   {
     id: "portugal-serra-do-caramulo-south-relief-v2",
     type: "mountain",
@@ -1183,8 +1150,7 @@ export const portugalReliefV2: POI[] = [
       hu: ["Legmagasabb pont: 905 m", "Terület: 95 km²", "Termálforrások: 3", "Víz hőmérséklete: 38°C", "Éves átlaghőmérséklet: 12°C", "Éves csapadék: 1.300 mm"],
       ro: ["Altitudine maximă: 908 m", "Suprafață: 98 km²", "Izvoare termale: 4", "Temperatura apei: până la 39°C", "Temperatura medie anuală: 12,5°C", "Precipitații anuale: 1.320 mm"],
       en: ["Highest point: 912 m", "Area: 100 km²", "Thermal springs: 4", "Water temperature: up to 40°C", "Average annual temperature: 12°C", "Annual precipitation: 1,350 mm"],
-    },
-  },
+    }, image: "/poi-images/portugal-serra-do-caramulo-south-relief-v2.webp"},
   {
     id: "portugal-serra-da-gardunha-north-relief-v2",
     type: "mountain",

@@ -159,8 +159,7 @@ export const estoniaEconomicV2: POI[] = [
       hu: ["A gyár 2004-ben esett át teljes modernizáción", "Évente 12 000 köbméter fát dolgoznak fel", "A termékek 90 százalékát Svédországba exportálják", "A csarnok alapterülete meghaladja a 9000 négyzetmétert", "150 helyi lakosnak biztosít folyamatos munkát", "A szállítási idő átlagosan 14 nap egy egységre"],
       ro: ["Complexul a fost inaugurat oficial în 2001", "Produce peste 400 de structuri prefabricate anual", "Exporturile generează 15 milioane de euro anual", "Utilizează lemn din pădurile certificate FSC", "Hala principală are o suprafață de 7.500 metri pătrați", "Linia de asamblare funcționează cu 110 angajați"],
       en: ["Facility established operations in early 2000", "Manufactures up to 600 modular units per year", "Exports account for 88 percent of total revenue", "Consumes 15,000 cubic meters of local timber annually", "Employs 135 workers from surrounding municipalities", "Indoor manufacturing space covers 10,000 square meters"],
-    },
-  },
+    }, image: "/poi-images/estonia-asker-bo-factory-v2.webp"},
   {
     id: "estonia-voru-furniture-v2",
     type: "industry",
@@ -191,8 +190,7 @@ export const estoniaEconomicV2: POI[] = [
       hu: ["A helyi fafeldolgozó ipar 1960 óta folyamatosan bővül", "Évente 30 000 köbméter alapanyagot használnak fel", "Az iparág 450 embernek ad munkát a régióban", "A bevételek 80 százaléka külföldi piacokról származik", "A gyárak területe meghaladja a 15 000 négyzetmétert", "2015-ben új CNC gépeket telepítettek az üzemekben"],
       ro: ["Tradiția prelucrării lemnului datează din anii 1940", "Peste 20.000 de metri cubi de lemn procesați anual", "Sectorul angajează aproximativ 350 de lucrători locali", "Valoarea exporturilor depășește 25 milioane de euro", "Utilizează 60% lemn de mesteacăn din pădurile estoniene", "Suprafața totală a fabricilor este de 12.000 metri pătrați"],
       en: ["Furniture manufacturing began industrializing in 1955", "Processes 28,000 cubic meters of solid wood annually", "Sector provides employment for over 400 residents", "Generates 35 million euros in annual export revenue", "Shipments reach 20 different international markets", "Combined factory floor space totals 18,000 square meters"],
-    },
-  },
+    }, image: "/poi-images/estonia-voru-furniture-v2.webp"},
   {
     id: "estonia-tehnopol-science-v2",
     type: "university",
@@ -223,8 +221,7 @@ export const estoniaEconomicV2: POI[] = [
       hu: ["2003-ban alapították.", "Több mint 200 cég található itt.", "2.000 embert foglalkoztat.", "Területe 14 hektár.", "Itt van a Skype kutatóközpontja.", "Évente több mint 30 startup indul."],
       ro: ["Fondat în 2003.", "Adăpostește peste 200 de companii.", "Angajează peste 2.000 de persoane.", "Suprafața de 14 hectare.", "Include centrul de cercetare Skype.", "Incubează peste 30 de startup-uri anual."],
       en: ["Founded in 2003.", "Hosts over 200 companies.", "Employs more than 2,000 people.", "Covers an area of 14 hectares.", "Houses the Skype research center.", "Incubates over 30 startups annually."],
-    },
-  },
+    }, image: "/poi-images/estonia-tehnopol-science-v2.webp"},
   {
     id: "estonia-kunda-cement-v2",
     type: "factory",
@@ -255,8 +252,7 @@ export const estoniaEconomicV2: POI[] = [
       hu: ["A Kunda Nordic Tsement üzemelteti", "Cementgyártás kezdete: 1870", "Saját kikötő a Finn-öböl partján", "Helyi bányászatú mészkövet használ"],
       ro: ["Operată de Kunda Nordic Tsement", "Producție de ciment din 1870", "Port industrial propriu la Golful Finic", "Utilizează calcar extras local"],
       en: ["Operated by Kunda Nordic Tsement", "Cement production since 1870", "Private industrial port on the Gulf", "Uses locally quarried limestone"],
-    },
-  },
+    }, image: "/poi-images/estonia-kunda-cement-v2.webp"},
   {
     id: "estonia-parnu-food-v2",
     type: "industry",
@@ -287,8 +283,7 @@ export const estoniaEconomicV2: POI[] = [
       hu: ["Az észt halászat központja", "Nagy tejüzemek telephelye", "Erős exportfókusz az EU felé", "Délnyugat-Észtország fő munkaadója"],
       ro: ["Centrul pescuitului estonian", "Găzduiește fabrici mari de lactate", "Focus pe exportul către piața UE", "Angajator major în sud-vestul țării"],
       en: ["Hub of Estonian fishing industry", "Home to major dairy facilities", "Strong export focus to EU markets", "Key employer in Southwest Estonia"],
-    },
-  },
+    }, image: "/poi-images/estonia-parnu-food-v2.webp"},
   {
     id: "estonia-valga-logistics-v2",
     type: "port",
@@ -319,8 +314,7 @@ export const estoniaEconomicV2: POI[] = [
       hu: ["Az állomás eredeti épületét 1889-ben adták át", "Több mint 12 vágány szolgálja ki a teherforgalmat", "Évente 1,5 millió tonna árut raknak itt át", "Napi 35 tehervonat halad át a határon", "A logisztikai központ 200 főt foglalkoztat", "A raktárkapacitás eléri a 10 000 négyzetmétert"],
       ro: ["Stația feroviară a fost deschisă oficial în 1889", "Complexul feroviar se întinde pe 14 kilometri de șine", "Gestionează anual peste 1,8 milioane tone de marfă", "Tranzitată zilnic de 30 de garnituri de marfă", "Terminalul de containere are o capacitate de 5.000 TEU", "Clădirea principală a fost modernizată în 2015"],
       en: ["Railway station complex initially constructed in 1889", "Marshalling yard features 16 operational tracks", "Processes approximately 2.2 million tons of cargo yearly", "Handles an average of 38 freight trains every 24 hours", "Storage and transfer facilities span 12,000 square meters", "Passenger terminal handled 150,000 travelers in 2019"],
-    },
-  },
+    }, image: "/poi-images/estonia-valga-logistics-v2.webp"},
   {
     id: "estonia-tartu-science-park-v2",
     type: "university",
@@ -479,8 +473,7 @@ export const estoniaEconomicV2: POI[] = [
       hu: ["A Tere AS vállalat fő telephelye", "Tejpor-exportra szakosodott üzem", "Modern feldolgozási technológia", "Regionális gazdaszövetkezetek bázisa"],
       ro: ["Locația principală a firmei Tere AS", "Specializată în export de lapte praf", "Facilități de procesare moderne", "Bază pentru cooperativele agricole"],
       en: ["Main facility of Tere AS company", "Specializes in milk powder export", "State-of-the-art processing units", "Base for regional farm cooperatives"],
-    },
-  },
+    }, image: "/poi-images/estonia-polva-dairy-v2.webp"},
   {
     id: "estonia-haapsalu-textile-v2",
     type: "industry",
@@ -511,8 +504,7 @@ export const estoniaEconomicV2: POI[] = [
       hu: ["A finomkötés hagyománya az 1800-as évekig nyúlik vissza", "A gépesített üzemek évi 450 000 darabot gyártanak", "A termékek 75 százaléka Svédországba kerül", "A textilipar 220 főnek biztosít megélhetést", "Évente 120 tonna fonalat dolgoznak fel", "2016-ban digitális kötőgépeket helyeztek üzembe"],
       ro: ["Tradiția dantelei din Haapsalu a început în secolul 19", "Liniile moderne produc 480.000 de articole anual", "Exporturile către Finlanda însumează 60% din total", "Sectorul are 230 de angajați calificați", "Se consumă 140 de tone de materie primă textilă pe an", "Sistemele de tăiere cu laser au fost adăugate în 2015"],
       en: ["Local textile craftsmanship origins recognized since 1800s", "Modern facilities manufacture 500,000 garments annually", "Exports to Scandinavian markets comprise 70 percent of sales", "Industry employs approximately 240 specialized workers", "Processes over 150 tons of organic cotton thread yearly", "Automated pattern-cutting technology implemented in 2014"],
-    },
-  },
+    }, image: "/poi-images/estonia-haapsalu-textile-v2.webp"},
   {
     id: "estonia-narva-logistics-v2",
     type: "port",
@@ -543,8 +535,7 @@ export const estoniaEconomicV2: POI[] = [
       hu: ["Az EU legkeletibb határpontja", "A Balti ES ipari park székhelye", "Kiemelt vasúti határátkelőhely", "Fémmegmunkálásra szakosodott cégek"],
       ro: ["Cel mai estic punct de frontieră UE", "Sediul parcului industrial Balti ES", "Punct major de trecere feroviară", "Specializare în prelucrarea metalelor"],
       en: ["Easternmost border point of the EU", "Home to Balti ES Industrial Park", "Major railway border crossing", "Specialization in metalworking"],
-    },
-  },
+    }, image: "/poi-images/estonia-narva-logistics-v2.webp"},
   {
     id: "estonia-muuga-terminal-v2",
     type: "port",
@@ -575,8 +566,7 @@ export const estoniaEconomicV2: POI[] = [
       hu: ["A teherkikötő 1986-ban kezdte meg működését", "18 méteres mélysége lehetővé teszi nagy hajók fogadását", "Évi áruforgalma eléri a 22 millió tonnát", "29 kikötőhelye összesen 5,9 kilométer hosszú", "Az ömlesztettáru-terminál 100 000 tonna kapacitású", "A szárazföldi logisztikai park 500 hektáron terül el"],
       ro: ["Portul a fost dat în folosință în anul 1986", "Adâncimea apei ajunge la un maxim de 18 metri", "Manipulează anual aproximativ 21 milioane tone de marfă", "Are 29 de dane cu o lungime totală de 5.900 metri", "Terminalul de cereale are o capacitate de 300.000 tone", "Suprafața terestră a portului este de 524 hectare"],
       en: ["Port operations officially commenced in 1986", "Features a maximum berth depth of 18 meters", "Handles an annual cargo volume of 20 million tons", "Equipped with 29 commercial berths totaling 5.9 kilometers", "Liquid bulk terminal stores up to 1.5 million cubic meters", "Port territory spans 524 hectares of industrial land"],
-    },
-  },
+    }, image: "/poi-images/estonia-muuga-terminal-v2.webp"},
   {
     id: "estonia-kardla-port-v2",
     type: "port",
@@ -639,8 +629,7 @@ export const estoniaEconomicV2: POI[] = [
       hu: ["Az ipari terület fejlesztése 2002-ben indult meg", "40 hektáros területen helyezkedik el", "Jelenleg 45 cég működtet itt központot", "A park 1100 ember számára biztosít munkahelyet", "A raktárak összesített területe 45 000 négyzetméter", "Közvetlen csatlakozás a Via Baltica autópályához"],
       ro: ["Dezvoltarea parcului a început în anul 2002", "Se întinde pe o suprafață de 40 de hectare", "Găzduiește operațiunile a 48 de firme diferite", "Numărul total de angajați depășește 1.150", "Spațiile logistice însumează 48.000 metri pătrați", "Situat la doar 15 kilometri distanță de Tallinn"],
       en: ["Industrial zone development initiated in 2002", "Spans a total land area of 40 hectares", "Accommodates operations for over 50 tenant companies", "Workforce within the park exceeds 1,200 individuals", "Offers 50,000 square meters of modern warehouse space", "Positioned exactly 15 kilometers from Tallinn city center"],
-    },
-  },
+    }, image: "/poi-images/estonia-saue-business-v2.webp"},
   {
     id: "estonia-sindi-industry-v2",
     type: "industry",

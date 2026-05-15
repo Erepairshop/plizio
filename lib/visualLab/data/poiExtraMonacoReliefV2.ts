@@ -95,8 +95,7 @@ export const monacoReliefV2: POI[] = [
       hu: ["A félsziget területe 6 hektár.", "A partvonal hossza 1,2 km.", "A feltöltés során 500 000 m³ követ használtak fel.", "A kikötő védelmében 3 hullámtörőt építettek.", "A Stade Louis II atlétikai pályája 400 méteres.", "A promontórium alatt egy 800 méteres alagút halad."],
       ro: ["Promontoriul are o altitudine maximă de 12 metri.", "Eroziunea marină a creat stânci verticale de până la 8 metri.", "Portul Fontvieille a fost construit între 1971 și 1973.", "Suprafața totală a zonei rezidențiale este de 4 hectare.", "Pe promontoriu se află un parc de 2 hectare.", "Adâncimea apei la capătul promontoriului este de 15 metri."],
       en: ["The promontory is composed of limestone from the Jurassic period, around 150 million years old.", "It was originally a small island before being connected to the mainland by land reclamation.", "The land reclamation project added 5.5 hectares of new land.", "The Stade Louis II features a unique underground parking for 2,500 cars.", "The promontory offers views of the Mediterranean and the Port of Fontvieille.", "Average wave height reduction by the promontory is 60%."],
-    },
-  },
+    }, image: "/poi-images/monaco-promontoire-de-fontvieille-relief-v2.webp"},
   {
     id: "monaco-plateau-de-la-condamine-relief-v2",
     type: "valley",
@@ -127,8 +126,7 @@ export const monacoReliefV2: POI[] = [
       hu: ["A fennsík átlagos magassága 48 méter.", "Területe 0,2 km².", "Itt található Monaco legforgalmasabb bevásárlóutcája.", "A fennsíkon 5 szálloda található, összesen 2000 szobával.", "A Condamine-i piac 1880 óta működik.", "A fennsík alatt 2 km hosszú alagútrendszer húzódik."],
       ro: ["Altitudinea maximă a platoului este de 55 de metri.", "Populația cartierului este de aproximativ 10.000 de locuitori.", "Bulevardul des Moulins are 14 treceri de pietoni.", "Centrul comercial Métropole are 80 de magazine.", "Pe platou se află sediul Băncii Naționale a Monaco-ului.", "Strada principală a platoului are o pantă de 2%."],
       en: ["The plateau was originally a coastal terrace formed during the Pleistocene.", "It is connected to Monte Carlo by the Boulevard des Moulins, built in 1900.", "The Condamine Market, established in 1880, sells over 200 products daily.", "The population of the plateau is about 12,000.", "The Métropole shopping center covers 12,000 m².", "The plateau's soil is composed of 5 meters of fill over limestone bedrock."],
-    },
-  },
+    }, image: "/poi-images/monaco-plateau-de-la-condamine-relief-v2.webp"},
   {
     id: "monaco-crête-de-saint-michel-relief-v2",
     type: "mountain",
@@ -159,8 +157,7 @@ export const monacoReliefV2: POI[] = [
       hu: ["A gerinc átlagos szélessége 50 méter.", "Tengerszint feletti magassága 160-180 méter között változik.", "Az útvonal 3 pihenőhelyet biztosít padokkal.", "A gerincen 20 növényfaj él, köztük endemikus orchideák.", "Az éves csapadékmennyiség a gerincen 800 mm.", "A gerincet 1995-ben nyilvánították védett területté."],
       ro: ["Creasta are o cădere verticală de 100 de metri spre sud.", "Traseul de drumeție are 1,8 km lungime.", "Altitudinea minimă este de 120 de metri.", "Roca de bază este calcarul din Jurasic, cu vârsta de 150 de milioane de ani.", "Pe creastă cresc pini de Alep (Pinus halepensis).", "Vizibilitatea de pe creastă poate atinge 50 km în zilele senine."],
       en: ["The ridge is part of the Alpine foothills, formed during the Miocene epoch.", "It provides a natural boundary between Monaco and France.", "The hiking trail features 5 viewpoints with interpretive signs.", "Wildlife includes the rare Hermann's tortoise (Testudo hermanni).", "The ridge has a microclimate with 10% more rainfall than the coast.", "It is used for paragliding in certain wind conditions."],
-    },
-  },
+    }, image: "/poi-images/monaco-crête-de-saint-michel-relief-v2.webp"},
   {
     id: "monaco-colline-des-moneghetti-relief-v2",
     type: "mountain",
@@ -191,8 +188,7 @@ export const monacoReliefV2: POI[] = [
       hu: ["A domb tengerszint feletti magassága 115-125 méter között van.", "A Princesse Grace Kórház 500 ágyas.", "Moneghetti területe 0,15 km².", "A dombon 3 park található, összesen 2 hektáron.", "Az utak teljes hossza a dombon 8 km.", "A domb alatt egy 1 km hosszú alagút vezet."],
       ro: ["Dealul are un volum estimat de 3 milioane de m³ de rocă.", "Spitalul Princesse Grace are un heliport pe acoperiș.", "Panta maximă a străzilor este de 30%.", "Cartierul are 12 clădiri cu peste 10 etaje.", "Pe deal se află o stație de pompare a apei cu o capacitate de 500 m³/h.", "Dealul este traversat de linia de autobuz 4."],
       en: ["The hill was named after the Monegasque family Moneghetti, who owned land here in the 18th century.", "Princess Grace Hospital has 500 beds and employs 1,500 staff.", "The hill's bedrock is from the Jurassic period, about 160 million years old.", "There are 8 bus stops on the hill serving 3 bus lines.", "The hill features the Parc de la Colline, a 1.2-hectare park with playgrounds.", "Property built on the hill required foundations up to 20 meters deep."],
-    },
-  },
+    }, image: "/poi-images/monaco-colline-des-moneghetti-relief-v2.webp"},
   {
     id: "monaco-vallon-de-sainte-devote-relief-v2",
     type: "valley",
@@ -255,8 +251,7 @@ export const monacoReliefV2: POI[] = [
       hu: ["A partsáv területe 2,5 hektár.", "A strand homokját 1970-ben hozták Svájcból.", "A partsávon 4 szálloda található.", "A hullámtörők hossza egyenként 100 méter.", "A partsáv népsűrűsége 20 000 fő/km².", "A partsáv alatt 2 km hosszú szennyvízcsatorna húzódik."],
       ro: ["Lățimea fâșiei variază între 30 și 70 de metri.", "Plaja are nisip fin, cu granulația de 0,2 mm.", "Pe fâșie se află 8 restaurante.", "Adâncimea apei la 100 m de țărm este de 5 metri.", "Fâșia a fost extinsă cu 1 hectar în 1990.", "Temperatura medie a apei vara este de 25°C."],
       en: ["The strip was originally a natural beach that was heavily modified in the 1960s.", "Larvotto Beach is 200 meters long and 30 meters wide.", "The strip is home to the Fairmont Monte Carlo hotel, opened in 1975.", "Breakwaters extend 80 meters into the sea.", "The coastal strip receives over 1 million tourists annually.", "The strip has an elevation of 2 to 5 meters above sea level."],
-    },
-  },
+    }, image: "/poi-images/monaco-côte-du-larvotto-relief-v2.webp"},
   {
     id: "monaco-escarpement-de-la-roque-relief-v2",
     type: "mountain",
@@ -287,8 +282,7 @@ export const monacoReliefV2: POI[] = [
       hu: ["A sziklafal dőlésszöge eléri a 80 fokot.", "A múzeum 100 méterre van a sziklafal tetejétől.", "A fal alatt egy 200 méteres alagút halad.", "A dolomit rétegek vastagsága 10 méter.", "A sziklafal évente 500 000 látogatót vonz.", "A falon fészkel a vándorsólyom (Falco peregrinus)."],
       ro: ["Altitudinea maximă a escarpării este de 45 de metri.", "Stânca are o bază de 100 de metri lățime.", "Muzeul Oceanografic are un acvariu cu 4.000 de pești.", "Escarparea este orientată spre sud-vest.", "Pe stâncă se află o statuie a lui Jacques Cousteau.", "Roca are o duritate de 4 pe scara Mohs."],
       en: ["The escarpment was first fortified in the 13th century as part of the city walls.", "The Oceanographic Museum was founded by Prince Albert I in 1910.", "The cliff face is home to the only natural cave in Monaco, the Grotte de l'Observatoire.", "The escarpment has been reinforced with steel anchors to prevent rockfalls.", "It offers views of the Mediterranean and the Port of Fontvieille.", "The cliff's rock is dolomite, which is more resistant to weathering than limestone."],
-    },
-  },
+    }, image: "/poi-images/monaco-escarpement-de-la-roque-relief-v2.webp"},
   {
     id: "monaco-plateau-du-casino-relief-v2",
     type: "mountain",
@@ -383,8 +377,7 @@ export const monacoReliefV2: POI[] = [
       hu: ["A domb jelenlegi területe 2 hektár.", "A barlangok egyike ma a Kaszinó borospincéje.", "A kitermelt kőzetet az útépítéshez használták fel.", "A domb lábánál halad el a Boulevard des Moulins.", "A dombon található a Japánkert, 1994-ben létesítve.", "A domb geológiai kora jura, 150 millió év."],
       ro: ["Dealul avea o pantă naturală de 35 de grade.", "Excavarea a redus înălțimea cu 60 de metri.", "Pe deal se află statuia lui Louis II.", "Grădina cazinoului are 3.000 de plante.", "Dealul este străbătut de tunelul pietonal de 200 m.", "În deal se află o cisternă de apă de 500 m³."],
       en: ["The hill was originally covered in olive groves and vineyards.", "The Casino's gardens were designed by landscaper Édouard André.", "The hill's limestone was used in the construction of the Casino.", "A cave on the hill was used as a wine cellar since the 19th century.", "The hill was the site of the first Monte Carlo Grand Prix in 1929.", "The remnant of the hill is now a public park called Jardins du Casino."],
-    },
-  },
+    }, image: "/poi-images/monaco-colline-des-spélugues-relief-v2.webp"},
   {
     id: "monaco-canyon-urbain-condamine-relief-v2",
     type: "valley",
@@ -415,8 +408,7 @@ export const monacoReliefV2: POI[] = [
       hu: ["A kanyon átlagos mélysége 25 méter.", "Az épületek homlokzata 100 méter magas.", "A kanyonban 200 üzlet található.", "A szélsebesség a kanyonban 50%-kal alacsonyabb.", "A kanyonban 3 aluljáró van.", "A kanyon éjszakai kivilágítása 100 lámpát használ."],
       ro: ["Canionul are o suprafață construită de 15.000 m².", "Lățimea la nivelul solului este de 10 metri.", "Clădirea cea mai înaltă are 80 de metri.", "Temperatura medie în canion este cu 2°C mai mică decât în zonele deschise.", "Canionul găzduiește 2 hoteluri de 5 stele.", "Strada Rue Grimaldi are o pantă de 8%."],
       en: ["The canyon effect reduces wind speeds by an average of 40%.", "The buildings create a 'heat sink' effect, cooling the area in summer.", "The canyon was designated as a shopping precinct in 1970.", "Pedestrian traffic in the canyon is up to 10,000 people per hour.", "The canyon's facades are made of glass and steel, reflecting light.", "The canyon is named after the main street, Rue Grimaldi."],
-    },
-  },
+    }, image: "/poi-images/monaco-canyon-urbain-condamine-relief-v2.webp"},
   {
     id: "monaco-promontoire-de-saint-antoine-relief-v2",
     type: "mountain",
@@ -447,8 +439,7 @@ export const monacoReliefV2: POI[] = [
       hu: ["A félsziget térfogata 150 000 m³.", "A gyalogút hossza 500 méter.", "A parkban 100 fa található.", "A hullámtörő 50 méter hosszú beton elemekből áll.", "A félsziget 5 méter mélyen nyúlik a tengerfenékbe.", "Évente 300 000 turista látogat ide."],
       ro: ["Peninsula are o suprafață de 1 hectar.", "Statuia Sfântului Anton este din bronz, turnată în 1976.", "Promenada are balustrade din oțel inoxidabil.", "Adâncimea apei lângă peninsulă este de 8 metri.", "Peninsula are 2 pontoane pentru bărci.", "Iluminatul public are 20 de stâlpi solari."],
       en: ["The headland was built using 100,000 tons of rock from the nearby quarry.", "It provides 200 meters of waterfront promenade.", "The park features Mediterranean plants such as oleander and palm trees.", "It offers views of the Port of Fontvieille and the Mediterranean.", "The headland is named after the chapel of Saint-Antoine that once stood nearby.", "It is a popular spot for fishing and jogging."],
-    },
-  },
+    }, image: "/poi-images/monaco-promontoire-de-saint-antoine-relief-v2.webp"},
   {
     id: "monaco-colline-des-beausoleil-relief-v2",
     type: "mountain",
@@ -479,8 +470,7 @@ export const monacoReliefV2: POI[] = [
       hu: ["A domb területe 2 km².", "A dombon 5 kilátóhely található.", "A Boulevard des Moulins szintkülönbsége 50 méter.", "A házak átlagos magassága 4 emelet.", "A domb alatti alagút 500 méter hosszú.", "A domb növényzete mediterrán, olajfákkal."],
       ro: ["Dealul are o altitudine maximă de 210 metri.", "Panta medie este de 15%.", "Populația dealului este de aproximativ 5.000 de locuitori.", "Pe deal se află un castel de apă cu o capacitate de 1.000 m³.", "Dealul este traversat de 3 linii de autobuz.", "Pe deal există o școală primară construită în 1885."],
       en: ["The hill was part of the original territory of Monaco before the 1861 treaty with France.", "It is named after the French town Beausoleil, which means 'beautiful sun'.", "The hill's elevation provides a natural boundary between Monaco and France.", "There are 12 streets that climb the hill from Monaco.", "The hill has several gardens and parks totaling 5 hectares.", "Property on the hill is more affordable than in Monaco proper."],
-    },
-  },
+    }, image: "/poi-images/monaco-colline-des-beausoleil-relief-v2.webp"},
   {
     id: "monaco-terrasse-des-jardins-relief-v2",
     type: "mountain",
@@ -511,8 +501,7 @@ export const monacoReliefV2: POI[] = [
       hu: ["A terasz hossza 100 méter, szélessége 50 méter.", "A kertekben 200 növényfaj található.", "A teraszról 360°-os kilátás nyílik.", "Az építési költség 10 millió euró volt.", "A teraszon 5 szökőkút található.", "A terasz este kivilágított, 50 lámpával."],
       ro: ["Terasa are o suprafață de 5.000 m².", "Grădina conține un labirint de 100 m².", "Fântânile aruncă apă până la 3 metri înălțime.", "Terasa este accesibilă prin 2 lifturi și 1 scară.", "Pe terasă se află un chioșc de înghețată.", "Terasa este deschisă non-stop."],
       en: ["The terrace is built on a structure that houses a shopping mall below.", "It features a 200-meter-long promenade lined with palm trees.", "The gardens include a children's playground of 500 m².", "The terrace is used for public events such as concerts and markets.", "It provides free Wi-Fi to visitors.", "The terrace's design won an architectural award in 1996."],
-    },
-  },
+    }, image: "/poi-images/monaco-terrasse-des-jardins-relief-v2.webp"},
   {
     id: "monaco-depression-de-la-condamine-relief-v2",
     type: "valley",
@@ -543,8 +532,7 @@ export const monacoReliefV2: POI[] = [
       hu: ["A mélyedés területe 5 hektár.", "A vasútállomás forgalma napi 10 000 utas.", "A mélyedésben 10 buszmegálló van.", "Az egykori patak medre ma csatorna.", "A mélyedés talaja alluviális lerakódás.", "A mélyedésben 5 szálloda található."],
       ro: ["Depresiunea are o altitudine medie de 5 metri.", "Gara are 4 linii și 2 peroane.", "În depresiune se află sediul companiei de taximetre.", "Depresiunea este străbătută de 3 străzi principale.", "Adâncimea maximă a depresiunii este de 25 de metri.", "În depresiune se află o stație de pompare a apei pluviale."],
       en: ["The depression was originally a marshland before being drained in the 19th century.", "The railway station handles TGV and regional trains to Nice and Ventimiglia.", "The depression is subject to occasional flooding during heavy rain.", "It is home to the University of Monaco's business school.", "The depression's soil is mainly clay and silt.", "The area was known as 'La Condamine' from the Latin 'condominium'."],
-    },
-  },
+    }, image: "/poi-images/monaco-depression-de-la-condamine-relief-v2.webp"},
   {
     id: "monaco-plateau-de-fontvieille-relief-v2",
     type: "mountain",
@@ -607,8 +595,7 @@ export const monacoReliefV2: POI[] = [
       hu: ["A fal alatti alagút 1930-ban épült.", "A falon 4 sziklamászó útvonal található.", "A fal tetején sétány húzódik.", "A fal aljában 2 barlangbejárat van.", "A fal geológiai rétegei jól láthatóak.", "A fal védett természeti emlék 1998 óta."],
       ro: ["Stânca are o bază de 50 de metri lățime.", "Tunelul are 2 benzi de circulație.", "Eroziunea avansează cu 1 mm pe an.", "Pe stâncă cresc plante halofile.", "Stânca este orientată spre sud-est.", "Temperatura stâncii vara atinge 40°C."],
       en: ["The escarpment was first recorded in 1860 during the construction of the Monte Carlo Casino.", "It provides a natural barrier against coastal erosion.", "The cliff face is illuminated at night with LED lights.", "It is a popular spot for geologists studying the Jurassic limestone.", "The escarpment is home to a colony of Mediterranean gulls (Larus michahellis).", "A staircase cut into the rock connects the plateau to the beach."],
-    },
-  },
+    }, image: "/poi-images/monaco-escarpement-de-monte-carlo-relief-v2.webp"},
   {
     id: "monaco-colline-des-serres-relief-v2",
     type: "mountain",

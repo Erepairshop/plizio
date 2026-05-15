@@ -31,8 +31,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["Magasság: 2878 méter a tengerszint felett", "Helyszín: Ordino egyházközség északi része", "Határ: Természetes határvonal Franciaországgal", "Látnivaló: Panoráma a Tristaina-tórendszerre", "Kőzet: Jellemzően kristályos pala építi fel", "Túra: Közepes nehézségű alpesi útvonalon elérhető"],
       ro: ["Altitudine: 2878 metri deasupra nivelului mării", "Localizare: Parohia Ordino, la granița franceză", "Hidrologie: Domină cele trei lacuri de munte Tristaina", "Geologie: Structură formată din șisturi cristaline", "Acces: Traseu marcat din stațiunea de schi Arcalis", "Biodiversitate: Habitat pentru capre negre și marmote"],
       en: ["Elevation: 2878 meters above sea level", "Location: Border peak between Andorra and France", "Parish: Situated within the Ordino district", "Features: Panoramic views of Tristaina glacial cirque", "Geology: Composed mainly of metamorphic rocks", "Hiking: Accessible via a steep trail from Arcalis"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-de-tristaina-relief-v2.webp"},
   {
     id: "andorra-pic-de-creveta-relief-v2",
     type: "peak",
@@ -63,8 +62,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["Magasság: 2382 méter a tengerszint felett", "Helyszín: Encamp egyházközség keleti széle", "Hágó: A Port d Envalira közelében magasodik", "Síközpont: A Grandvalira területéhez kapcsolódik", "Kilátás: Tiszta időben látható a francia Ariège", "Terep: Füves lejtők és sziklás gerincek váltakoznak"],
       ro: ["Altitudine: 2382 metri deasupra nivelului mării", "Localizare: Sectorul estic, lângă Pasul Envalira", "Parohie: Teritoriul administrativ al Encamp", "Proximitate: Situat lângă orașul Pas de la Casa", "Relief: Culme montană cu pante moderate", "Activități: Drumeții accesibile în sezonul estival"],
       en: ["Elevation: 2382 meters above sea level", "Location: Eastern Andorra, near Envalira Pass", "Parish: Located in the Encamp jurisdiction", "Border: Close proximity to the French frontier", "View: Overlooks the highest road pass in Pyrenees", "Activity: Popular for hiking and winter ski touring"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-de-creveta-relief-v2.webp"},
   {
     id: "andorra-serra-de-l-obaga-relief-v2",
     type: "mountain",
@@ -95,8 +93,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["Elnevezés: A katalán obaga jelentése árnyékos oldal", "Erdőtípus: Hegyi fenyő és jegenyefenyő állományok", "Klíma: Hűvösebb és párásabb a déli lejtőknél", "Ökológia: Fontos vadon élő állatok fészkelőhelye", "Magasság: 1800 és 2400 méter között húzódik", "Hasznosítás: Hagyományos fakitermelés és vadászat"],
       ro: ["Semnificație: Numele indică versantul umbrit al muntelui", "Flora: Păduri masive de Pinus uncinata", "Microclimat: Temperaturi mai scăzute pe tot parcursul anului", "Geografie: Formează bariera naturală între văi", "Sol: Bogat în humus datorită umidității ridicate", "Trasee: Rute umbrite ideale pentru drumeții de vară"],
       en: ["Etymology: Obaga means shady side in Catalan", "Forestry: Densely populated by mountain pine trees", "Environment: Higher humidity levels than sunny slopes", "Range: Part of the central Pyrenean foothills", "Wildlife: Important corridor for Pyrenean chamois", "Topography: Steep north-facing mountain flanks"],
-    },
-  },
+    }, image: "/poi-images/andorra-serra-de-l-obaga-relief-v2.webp"},
   {
     id: "andorra-pic-de-bastenies-relief-v2",
     type: "peak",
@@ -127,8 +124,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["Magasság: 2726 méter a tengerszint felett", "Helyszín: Ordino egyházközség északnyugati sarka", "Hegylánc: Az Arcalis-masszívum egyik meghatározó tagja", "Kőzet: Kemény gránit és kristályos palák", "Megközelítés: Hosszú menetidő a legközelebbi úttól", "Környezet: Érintetlen, vadregényes alpesi táj"],
       ro: ["Altitudine: 2726 metri deasupra nivelului mării", "Localizare: Nord-vestul parohiei Ordino", "Geologie: Creastă formată din roci magmatice vechi", "Accesibilitate: Traseu alpin nemarcat în porțiunea finală", "Vedere: Panoramă spre vârful Comapedrosa", "Climat: Expus vânturilor puternice dinspre Atlantic"],
       en: ["Elevation: 2726 meters above sea level", "Location: Northwestern corner of Ordino parish", "Geology: Dominance of granite and igneous rock", "Route: Involves technical scrambling on the ridge", "Scenery: Unspoiled wilderness far from urban areas", "Peak: Situated near the Port de Rat mountain pass"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-de-bastenies-relief-v2.webp"},
   {
     id: "andorra-pic-de-la-font-negra-relief-v2",
     type: "peak",
@@ -159,8 +155,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["Magasság: 2830 méter a tengerszint felett", "Határvonal: Andorra és Franciaország osztozik rajta", "Egyházközség: Encamp területéhez tartozik", "Név jelentése: Fekete-forrás-csúcs", "Geológia: Jellegzetes sötétszürke pala és gneisz", "Téli sport: Fontos tájékozódási pont a síelőknek"],
       ro: ["Altitudine: 2830 metri deasupra nivelului mării", "Graniță: Punct de frontieră între Andorra și Franța", "Parohie: Aparține administrativ de Encamp", "Etimologie: Numele provine de la izvoarele locale", "Compoziție: Roci sedimentare de culoare închisă", "Peisaj: Domină stațiunea de schi de mare altitudine"],
       en: ["Elevation: 2830 meters above sea level", "Border: Situated on the line with France", "Parish: Part of the Encamp municipality", "Name: Translates to Peak of the Black Spring", "Geology: Dark-toned slate and metamorphic rock", "Context: Overlooks the Pas de la Casa ski resort"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-de-la-font-negra-relief-v2.webp"},
   {
     id: "andorra-pic-de-cataperdis-relief-v2",
     type: "peak",
@@ -191,8 +186,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["Magasság: 2805 méter a tengerszint felett", "Helyszín: Ordino egyházközség, Arcalis szektor", "Szomszédság: A Pic de Tristaina közvetlen közelében", "Kialakulás: Negyedidőszaki gleccserek formálták", "Túra: Meredek, de technikailag nem nehéz útvonal", "Panoráma: Belátni az egész északi völgyrendszert"],
       ro: ["Altitudine: 2805 metri deasupra nivelului mării", "Localizare: Parohia Ordino, zona Arcalis", "Geomorfologie: Abrupturi stâncoase și circuri glaciare", "Acces: Urmează creasta de la Port de l Arpa", "Vârful vecin: Pic de Tristaina spre nord-est", "Mediu: Zonă protejată cu ecosistem alpin fragil"],
       en: ["Elevation: 2805 meters above sea level", "Location: Within the Ordino mountain range", "Proximity: Neighboring the Pic de Tristaina", "Geomorphology: Defined by Quaternary glaciation", "Hiking: Challenging walk with 360-degree views", "Environment: High alpine tundra and rock fields"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-de-cataperdis-relief-v2.webp"},
   {
     id: "andorra-pic-d-arcalis-relief-v2",
     type: "peak",
@@ -223,8 +217,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["Magasság: 2776 méter a tengerszint felett", "Helyszín: Ordino egyházközség északi része", "Hírnév: A Freeride World Tour egyik állomása", "Geológia: Erősen erodált kristályos kőzetváz", "Síközpont: Az Ordino Arcalis sípályák felett áll", "Túra: A csúcsgerincről rálátni a Tristaina-tavakra"],
       ro: ["Altitudine: 2776 metri deasupra nivelului mării", "Importanță: Simbol al parohiei Ordino", "Evenimente: Găzduiește competiții de schi extrem", "Acces: Legături prin telegondolă până la bază", "Relief: Versanți abrupți ideali pentru sporturi de iarnă", "Vizibilitate: Vedere spre masivul muntos Comapedrosa"],
       en: ["Elevation: 2776 meters above sea level", "Significance: Iconic peak for the Ordino Arcalis area", "Parish: Located in the northern parish of Ordino", "Events: Venue for international freeride events", "Topography: Sharp pyramidal shape with steep flanks", "Context: Key destination for off-piste enthusiasts"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-d-arcalis-relief-v2.webp"},
   {
     id: "andorra-pic-de-serra-secca-relief-v2",
     type: "peak",
@@ -255,8 +248,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["Tengerszint feletti magassága 2715 méter", "A déli határgerinc egyik fontos pontja", "Alapkőzete uralkodóan kristályos palából áll", "A Madriu-völgy természetvédelmi területén van", "Gyalogosan a spanyol oldalról is megközelíthető", "A csúcsról látható a Comapedrosa tömbje"],
       ro: ["Altitudinea maximă este de 2715 metri", "Situat în masivul muntos al Pirineilor", "Face parte din patrimoniul mondial UNESCO", "Rocile predominante sunt ardezia și șistul", "Frontieră naturală între Andorra și Spania", "Accesibil pe trasee de drumeție dificile"],
       en: ["Elevation reaches 2715 meters high", "Located on the Andorra-Spain border line", "Composed mainly of metamorphic schist rock", "Part of the UNESCO Madriu-Claror area", "Southwestern point of the Pyrenean ridge", "Provides 360-degree views of the peaks"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-de-serra-secca-relief-v2.webp"},
   {
     id: "andorra-pic-de-la-mina-relief-v2",
     type: "peak",
@@ -287,8 +279,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["A csúcs magassága 2707 méter", "A Grandvalira síterület közvetlen közelében van", "Kőzetösszetétele vasban gazdag ásványokat rejt", "Franciaország és Andorra határán fekszik", "A Port d'Envalira hágótól induló túraútvonal", "A hegység keleti részének egyik jelképe"],
       ro: ["Înălțimea vârfului este de 2707 metri", "Localizat în estul parohiei Encamp", "Numele face referire la exploatările miniere", "Graniță naturală între Franța și Spania", "Acces facil din pasul rutier Envalira", "Versanții sunt acoperiți de grohotișuri"],
       en: ["Peak elevation is 2707 meters above sea", "Situated in the eastern Encamp parish", "Name indicates ancient iron mining sites", "Border peak between Andorra and France", "Commonly accessed via Port d'Envalira pass", "Surrounded by popular ski slopes today"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-de-la-mina-relief-v2.webp"},
   {
     id: "andorra-pic-de-saloria-relief-v2",
     type: "peak",
@@ -319,8 +310,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["Legmagasabb pontja 2490 méter", "Andorra és Spanyolország természetes határa", "A Salòria-hegység központi tömbjének része", "Kőzete főként paleozoos üledékes kőzet", "Népszerű túracélpont a tavaszi időszakban", "A Sant Julià de Lòria körzet felett áll"],
       ro: ["Atinge o înălțime de 2490 metri", "Situat pe linia de frontieră cu Spania", "Parte integrantă a masivului Salòria", "Structură geologică formată din calcare", "Traseu marcat pentru drumeții montane", "Vârf strategic pentru observații meteo"],
       en: ["Max elevation reaches 2490 meters", "Border peak between Spain and Andorra", "Part of the wider Salòria mountain range", "Geology consists of Paleozoic sediments", "Popular for ridge hiking and trekking", "Provides views of the Alt Urgell valley"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-de-saloria-relief-v2.webp"},
   {
     id: "andorra-serra-de-ensagents-relief-v2",
     type: "mountain",
@@ -351,8 +341,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["A gerinc magassága meghaladja a 2800 métert", "Az Encamp egyházközség területén fekszik", "Három jelentős glaciális tó található itt", "Fő kőzetalkotója a gránit és a gneisz", "Az Ensagents-menedékház érintésével elérhető", "Zergepopulációja miatt védett terület"],
       ro: ["Creasta depășește altitudinea de 2800 metri", "Situată în parohia centrală Encamp", "Include trei lacuri de origine glaciară", "Dominată de formațiuni de granit și gnais", "Traseul trece pe lângă refugiul Ensagents", "Zonă de habitat pentru caprele negre"],
       en: ["Ridge peaks exceed 2800 meters height", "Located within the Encamp parish borders", "Features three major glacial 'estanys'", "Composed of granite and gneiss bedrock", "Home to the Ensagents mountain refuge", "Important sanctuary for Pyrenean chamois"],
-    },
-  },
+    }, image: "/poi-images/andorra-serra-de-ensagents-relief-v2.webp"},
   {
     id: "andorra-pic-de-les-broues-relief-v2",
     type: "peak",
@@ -415,8 +404,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["A csúcs magassága 2662 méter", "Andorra és Franciaország határhegye", "Kemény metamorf kőzetek alkotják", "Nincsenek jelzett, tömegek által használt utak", "A szirti sas egyik fészkelőhelye a környéken", "Hófoltok gyakran júliusig megmaradnak"],
       ro: ["Altitudinea vârfului este de 2662 metri", "Situat la frontiera franco-andorrană", "Compus din roci metamorfice dure", "Lipsesc traseele marcate comerciale", "Zonă de cuibărit pentru acvila de munte", "Zăpada persistă până în luna iulie"],
       en: ["Summit elevation reaches 2662 meters", "Located on the French-Andorran border", "Formed from tough metamorphic rock", "No marked commercial trails to the top", "Habitat for the rare Golden Eagle", "Snow patches often remain until July"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-de-raco-gaudre-relief-v2.webp"},
   {
     id: "andorra-serra-de-l-estanyo-relief-v2",
     type: "mountain",
@@ -447,8 +435,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["Legmagasabb pontja 2915 méter", "Ordino egyházközség területén fekszik", "Itt található az ország egyik legmélyebb tava", "Alapkőzete szilikátos összetételű", "A gerincen való átkelés nagy tapasztalatot igényel", "Látható innen a spanyolországi Aneto-csúcs"],
       ro: ["Punctul culminant are 2915 metri", "Situată în parohia Ordino", "Găzduiește unul dintre cele mai adânci lacuri", "Geologie dominată de roci silicatice", "Traversarea crestei este tehnică", "Vizibilitate până la vârful Aneto din Spania"],
       en: ["Highest point reaches 2915 meters", "Located within the Ordino parish", "Home to one of the deepest mountain lakes", "Geology dominated by silicate rocks", "Offers a challenging ridge scramble", "Aneto peak in Spain is visible from here"],
-    },
-  },
+    }, image: "/poi-images/andorra-serra-de-l-estanyo-relief-v2.webp"},
   {
     id: "andorra-pic-d-aixeus-relief-v2",
     type: "peak",
@@ -479,8 +466,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["A csúcs magassága 2658 méter", "Arinsal faluja közelében fekszik", "Az Aixeus-tavak veszik körül a tömböt", "Kőzete uralkodóan kristályos pala", "Kedvelt nyári magashegyi túracélpont", "A spanyol Vall Ferrera völgy szomszédságában"],
       ro: ["Înălțimea este de 2658 metri", "Situat în apropierea satului Arinsal", "Înconjurat de lacurile glaciare Aixeus", "Roca predominantă este șistul cristalin", "Destinație majoră pentru trasee de vară", "Frontieră cu valea Vall Ferrera din Spania"],
       en: ["Peak stands at 2658 meters high", "Located near the village of Arinsal", "Circled by the glacial Aixeus lakes", "Rock composition is mainly schist", "Popular destination for summer hiking", "Borders the Vall Ferrera valley in Spain"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-d-aixeus-relief-v2.webp"},
   {
     id: "andorra-pic-de-comaloforno-relief-v2",
     type: "peak",
@@ -511,8 +497,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["Tengerszint feletti magassága 3029 méter", "A Besiberri-masszívum része", "Az Alta Ribagorça régió legmagasabb pontja", "Anyaga masszív gránitkőzet", "Andorrából gyakran látható a nyugati távolban", "Extrém sziklamászók számára kihívást jelent"],
       ro: ["Altitudinea maximă este de 3029 metri", "Face parte din masivul Besiberri", "Cel mai înalt vârf din Alta Ribagorça", "Format din roci granitice masive", "Vizibil din Andorra spre direcția vest", "Destinație pentru alpinism de mare altitudine"],
       en: ["Elevation reaches 3029 meters high", "Part of the Besiberri mountain massif", "Highest peak in the Alta Ribagorça area", "Composed of massive granite bedrock", "Clearly visible westward from Andorra", "Target for technical high-altitude climbers"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-de-comaloforno-relief-v2.webp"},
   {
     id: "andorra-pic-de-tor-relief-v2",
     type: "peak",
@@ -543,8 +528,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["Tengerszint feletti magassága 2470 méter", "Andorra és Spanyolország határán fekszik", "A Vall de Setúria völgyhöz tartozik", "Talaja és kőzete főként palás", "Korábban fontos dohánycsempész útvonal volt", "Számos mormotakolónia él a lejtőkön"],
       ro: ["Altitudinea este de 2470 metri", "Situat la granița dintre Spania și Andorra", "Face parte din zona Vall de Setúria", "Substratul este format din ardezie", "Ruta istorică pentru contrabanda cu tutun", "Adăpostește numeroase colonii de marmote"],
       en: ["Peak elevation is 2470 meters", "Located on the Andorra-Spain border", "Part of the Vall de Setúria region", "Soil and rock are primarily schistose", "Historical route for tobacco smuggling", "Home to many alpine marmot colonies"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-de-tor-relief-v2.webp"},
   {
     id: "andorra-pic-de-la-canal-de-riba-relief-v2",
     type: "peak",
@@ -575,8 +559,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["Magassága megközelítőleg 2300 méter", "A kőzetrétegek erősen megdőltek", "La Massana egyházközséghez tartozik", "Neve a meredek 'canals' csatornákra utal", "Lejtői tavasszal gyakran instabilak", "Pireneusi zergék gyakori előfordulási helye"],
       ro: ["Altitudinea este de aproximativ 2300 metri", "Straturile geologice sunt puternic înclinate", "Situat în parohia La Massana", "Numele provine de la jgheaburile (canals) sale", "Versanții sunt adesea instabili primăvara", "Habitat natural pentru capra neagră"],
       en: ["Elevation is approximately 2300 meters", "Geological strata are steeply inclined", "Located in the La Massana parish", "Named after the steep 'canals' or gullies", "Slopes are often unstable in springtime", "Frequent sightings of Pyrenean chamois"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-de-la-canal-de-riba-relief-v2.webp"},
   {
     id: "andorra-pic-de-la-sella-relief-v2",
     type: "peak",
@@ -607,8 +590,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["A csúcs magassága 2446 méter", "Andorra délnyugati részén található", "Paleozoos kőzetek építik fel", "Nevét a hegyi nyeregről (Sella) kapta", "A határvonal pontosan a gerincen fut", "Kilátás az Os de Civís völgyre"],
       ro: ["Înălțimea vârfului este de 2446 metri", "Localizat în sud-vestul Andorrei", "Compus din roci de vârstă paleozoică", "Numele provine de la forma de șa (sella)", "Linia de frontieră trece chiar prin creastă", "Panoramă spre valea Os de Civís"],
       en: ["Summit elevation is 2446 meters", "Located in southwestern Andorra", "Formed from Paleozoic geological rocks", "Name derives from the mountain saddle", "The border line runs exactly along the ridge", "Overlooks the Os de Civís valley in Spain"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-de-la-sella-relief-v2.webp"},
   {
     id: "andorra-pic-de-les-pedrusques-relief-v2",
     type: "peak",
@@ -639,8 +621,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["Magassága 2815 méter", "A keleti határhegység része", "Alapkőzete instabil kristályos pala", "Neve jelentése: 'köves hely'", "A helyi topográfia egyik fontos pontja", "A laza kőfolyások miatt nehezen megközelíthető"],
       ro: ["Atinge altitudinea de 2815 metri", "Parte a lanțului muntos estic", "Substrat din roci șistoase instabile", "Numele semnifică 'loc cu multe pietre'", "Punct strategic pentru topografia locală", "Acces dificil din cauza grohotișului mobil"],
       en: ["Summit reaches 2815 meters", "Part of the eastern border range", "Substrate consists of unstable schist", "Name translates to 'place of stones'", "Key point for local topographic surveys", "Difficult access due to loose scree slopes"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-de-les-pedrusques-relief-v2.webp"},
   {
     id: "andorra-pic-de-la-capa-relief-v2",
     type: "peak",
@@ -671,8 +652,7 @@ export const andorraReliefV2: POI[] = [
       hu: ["Legmagasabb pontja 2572 méter", "La Massana egyházközség területén van", "Kilátás nyílik a Vallnord síközpontra", "Jellegzetes süvegszerű alakjáról ismert", "Kőzetösszetétele karbonátos kőzeteket is tartalmaz", "Nyáron a siklóernyősök kedvelt indulóhelye"],
       ro: ["Altitudinea maximă este de 2572 metri", "Situat în parohia La Massana", "Vedere spre stațiunea de schi Vallnord", "Cunoscut pentru forma sa de cupolă", "Geologia prezintă influențe calcaroase", "Punct de lansare pentru parapantă vara"],
       en: ["Max elevation is 2572 meters", "Located in the La Massana parish", "Offers views of Vallnord ski area", "Known for its distinctive cap-like shape", "Geology includes carbonate rock layers", "Popular launch site for paragliders in summer"],
-    },
-  },
+    }, image: "/poi-images/andorra-pic-de-la-capa-relief-v2.webp"},
   {
     id: "andorra-serra-del-padern-relief-v2",
     type: "mountain",

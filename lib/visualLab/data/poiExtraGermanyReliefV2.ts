@@ -31,8 +31,7 @@ export const germanyReliefV2: POI[] = [
       hu: ["A Wimbachgries kb. 1 200 méter magasan fekszik.", "A Wimbachgrieshütte 1 327 méteren található.", "A kar hossza 2 kilométer.", "A kar legmagasabb pontja a Watzmann (2 713 m).", "A terület 15 négyzetkilométer nagyságú.", "A törmelékkúp magassága kb. 400 méter."],
       ro: ["Wimbachgries se află la aproximativ 1.200 de metri altitudine.", "Cabana Wimbachgrieshütte este la 1.327 de metri.", "Circul glaciar se întinde pe 2 kilometri lungime.", "Cel mai înalt punct al circului este Watzmann (2.713 m).", "Zona are 15 kilometri pătrați.", "Conul de grohotiș are aproximativ 400 de metri înălțime."],
       en: ["Wimbachgries lies at about 1,200 meters elevation.", "Wimbachgrieshütte is at 1,327 meters.", "The cirque extends over 2 kilometers in length.", "The highest point of the cirque is Watzmann (2,713 m).", "The area is 15 square kilometers.", "The debris cone is about 400 meters high."],
-    },
-  },
+    }, image: "/poi-images/germany-wimbachgries-relief-v2.webp"},
   {
     id: "germany-feldberg-schwarzwald-relief-v2",
     type: "mountain",
@@ -63,8 +62,7 @@ export const germanyReliefV2: POI[] = [
       hu: ["A Feldberg magassága 1 493 méter.", "A síterep 30 km pályával rendelkezik.", "A Feldsee 1 107 méteren fekszik.", "A természetvédelmi terület 4 225 hektár.", "A legmagasabb hőmérsékletet 2003-ban mérték, 30,5 °C.", "A Feldberg 6 felvonóval rendelkezik."],
       ro: ["Feldberg are 1.493 de metri înălțime.", "Domeniul schiabil are 30 de kilometri de pârtii.", "Lacul Feldsee este la 1.107 metri.", "Rezervația naturală are 4.225 de hectare.", "Cea mai ridicată temperatură a fost înregistrată în 2003, 30,5 °C.", "Feldberg are 6 teleschiuri."],
       en: ["Feldberg is 1,493 meters high.", "The ski area has 30 kilometers of slopes.", "Feldsee lake lies at 1,107 meters.", "The nature reserve covers 4,225 hectares.", "The highest temperature recorded was 30.5 °C in 2003.", "Feldberg has 6 ski lifts."],
-    },
-  },
+    }, image: "/poi-images/germany-feldberg-schwarzwald-relief-v2.webp"},
   {
     id: "germany-hoher-oddenwald-relief-v2",
     type: "mountain",
@@ -95,8 +93,7 @@ export const germanyReliefV2: POI[] = [
       hu: ["A Katzenbuckel magassága 626 méter.", "A Katzenbuckelturm 33 méter magas.", "A vulkán a harmadidőszakban (kb. 50 millió éve) aludt ki.", "A kráter átmérője kb. 600 méter.", "A terület 2 000 hektár.", "A Katzenbuckel a Bergstraße-Odenwald Geo-Természeti Park része."],
       ro: ["Katzenbuckel are 626 de metri înălțime.", "Turnul Katzenbuckelturm are 33 de metri.", "Vulcanul s-a stins în Terțiar (acum circa 50 de milioane de ani).", "Diametrul craterului este de aproximativ 600 de metri.", "Zona se întinde pe 2.000 de hectare.", "Katzenbuckel face parte din Geo-Parcul Natural Bergstraße-Odenwald."],
       en: ["Katzenbuckel is 626 meters high.", "Katzenbuckelturm tower is 33 meters high.", "The volcano went extinct in the Tertiary (about 50 million years ago).", "The crater diameter is about 600 meters.", "The area covers 2,000 hectares.", "Katzenbuckel is part of the Bergstraße-Odenwald Geo-Nature Park."],
-    },
-  },
+    }, image: "/poi-images/germany-hoher-oddenwald-relief-v2.webp"},
   {
     id: "germany-kahler-asten-relief-v2",
     type: "mountain",
@@ -127,8 +124,7 @@ export const germanyReliefV2: POI[] = [
       hu: ["A Kahler Asten magassága 841,9 méter.", "A fennsík kb. 800 méter magasan fekszik.", "A kilátótorony 12 méter magas.", "A Lenne folyó a Kahler Astenben ered kb. 800 méteren.", "A Kahler Asten természetvédelmi terület 67 hektár.", "A legnagyobb mért hóvastagság 120 cm volt."],
       ro: ["Kahler Asten are 841,9 metri înălțime.", "Podișul se află la aproximativ 800 de metri.", "Turnul de observație are 12 metri.", "Râul Lenne izvorăște din Kahler Asten la circa 800 de metri.", "Rezervația naturală Kahler Asten are 67 de hectare.", "Cea mai mare grosime a stratului de zăpadă măsurată a fost de 120 cm."],
       en: ["Kahler Asten is 841.9 meters high.", "The plateau lies at about 800 meters.", "The observation tower is 12 meters high.", "The Lenne river rises at Kahler Asten at about 800 meters.", "The Kahler Asten nature reserve is 67 hectares.", "The highest measured snow depth was 120 cm."],
-    },
-  },
+    }, image: "/poi-images/germany-kahler-asten-relief-v2.webp"},
   {
     id: "germany-teutoburger-wald-ridge-relief-v2",
     type: "mountain",
@@ -159,8 +155,7 @@ export const germanyReliefV2: POI[] = [
       hu: ["A hegység 150 km hosszú.", "Legmagasabb pontja a Barnacken (446 m).", "A varusi csata Kr. e. 9-ben volt.", "A Hermann-szobor 53 méter magas.", "Az Externsteine 37,5 méter magas.", "Az éves csapadékmennyiség 1.200 mm."],
       ro: ["Lungimea crestei: 150 km.", "Altitudinea maximă: 446 m (Barnacken).", "Monumentul Hermann: 53 m înălțime.", "Externsteine: 37,5 m înălțime.", "Precipitații anuale: 800-1.200 mm.", "Parcul natural TERRA.vita: 1.500 km²."],
       en: ["Teutoburg Forest extends for 150 kilometers.", "Highest point: Barnacken at 446 meters above sea level.", "Hermannsdenkmal height: 53 meters.", "Externsteine maximum height: 37.5 meters.", "Annual precipitation ranges from 800 to 1,200 mm.", "TERRA.vita Nature Park covers 1,500 square kilometers."],
-    },
-  },
+    }, image: "/poi-images/germany-teutoburger-wald-ridge-relief-v2.webp"},
   {
     id: "germany-donau-moos-relief-v2",
     type: "park",
@@ -191,8 +186,7 @@ export const germanyReliefV2: POI[] = [
       hu: ["A Donaumoos Bajorország legnagyobb összefüggő lápja, területe 180 négyzetkilométer.", "A tőzegréteg vastagsága helyenként eléri a 6 métert.", "Több mint 250 kilométer lecsapolóárkot ástak a 19. század óta.", "A láp évente mintegy 150 000 tonna CO2-t tárol.", "12 veszélyeztetett madárfaj él itt, köztük a bíbic.", "A szisztematikus lecsapolás 1825-ben kezdődött I. Lajos bajor király idején."],
       ro: ["Donaumoos este cea mai mare mlaștină compactă din sudul Germaniei, cu 180 km².", "Grosimea turbei atinge 6 metri în zonele centrale.", "Peste 250 km de canale de drenaj au fost construite începând cu secolul al XIX-lea.", "Mlaștina stochează anual circa 150.000 de tone de CO2.", "Adăpostește 12 specii de păsări amenințate, inclusiv nagâțul.", "Drenarea sistematică a început în 1825 sub regele Ludwig I al Bavariei."],
       en: ["The Donaumoos is the largest contiguous moorland in southern Germany, covering 180 km².", "Peat depth reaches up to 6 meters in the center, but has decreased by 30% due to extraction.", "Over 250 km of drainage ditches were dug across the area since the 19th century.", "The bog stores approximately 150,000 tons of CO2 annually.", "It is home to 12 threatened bird species, including the northern lapwing.", "Systematic cultivation began in 1825 under King Ludwig I of Bavaria."],
-    },
-  },
+    }, image: "/poi-images/germany-donau-moos-relief-v2.webp"},
   {
     id: "germany-haardt-relief-v2",
     type: "mountain",
@@ -223,8 +217,7 @@ export const germanyReliefV2: POI[] = [
       hu: ["A Haardt legmagasabb pontja a Kalmit, 673 méterrel a tengerszint felett.", "A hegygerinc hossza körülbelül 80 kilométer.", "A Teufelsstein egy jellegzetes vörös homokkő szikla, magassága 15 méter.", "A Haardt alkotja a geológiai határt a Felső-Rajnai-árokhoz.", "A Kalmition egy 27 méter magas kilátótorony áll, 1975-ből.", "A Német Borút 85 kilométer hosszan halad a Haardt mentén."],
       ro: ["Cel mai înalt punct al Haardt este Kalmit, cu 673 de metri deasupra nivelului mării.", "Lanțul muntos se întinde pe aproximativ 80 de kilometri.", "Teufelsstein este o stâncă proeminentă de gresie roșie, înaltă de 15 metri.", "Haardt formează granița geologică cu Grabenul Rinului Superior.", "Pe Kalmit se află un turn de observație de 27 de metri, construit în 1975.", "Drumul Vinului German se întinde pe 85 de kilometri de-a lungul Haardt."],
       en: ["The highest point of the Haardt is the Kalmit at 673 meters above sea level.", "The mountain range extends for about 80 kilometers.", "The Teufelsstein is a prominent red sandstone rock formation, 15 meters high.", "The Haardt forms the geological boundary with the Upper Rhine Graben.", "On the Kalmit, there is a 27-meter-high observation tower built in 1975.", "The German Wine Route runs for 85 kilometers along the Haardt."],
-    },
-  },
+    }, image: "/poi-images/germany-haardt-relief-v2.webp"},
   {
     id: "germany-hoher-meissner-relief-v2",
     type: "mountain",
@@ -255,8 +248,7 @@ export const germanyReliefV2: POI[] = [
       hu: ["A Hoher Meißner magassága 753,6 méter a tengerszint felett.", "A Meißner-láp 200 hektáros, Hessen egyik legnagyobb magaslápja.", "A Kaiser-Wilhelm-torony 1896-ban épült, magassága 27 méter.", "A bazaltkúp a miocénben, mintegy 20 millió évvel ezelőtt keletkezett.", "A Hoher Meißner természetvédelmi terület 1054 hektár.", "A Frau-Holle-tó mélysége eléri a 2 métert."],
       ro: ["Hoher Meißner atinge o altitudine de 753,6 metri deasupra nivelului mării.", "Meißner Moor se întinde pe 200 de hectare, fiind una dintre cele mai mari mlaștini înalte din Hesse.", "Turnul Kaiser Wilhelm a fost inaugurat în 1896 și are 27 de metri înălțime.", "Conul de bazalt s-a format în Miocen, acum aproximativ 20 de milioane de ani.", "Rezervația naturală Hoher Meißner are o suprafață de 1.054 de hectare.", "Iazul Frau-Holle are o adâncime de până la 2 metri."],
       en: ["The Hoher Meißner reaches an elevation of 753.6 meters above sea level.", "The Meißner Moor covers 200 hectares, one of the largest raised bogs in Hesse.", "The Kaiser Wilhelm Tower was inaugurated in 1896 and is 27 meters high.", "The basalt cone formed in the Miocene epoch about 20 million years ago.", "The Hoher Meißner nature reserve spans 1,054 hectares.", "The Frau-Holle Pond has a depth of up to 2 meters."],
-    },
-  },
+    }, image: "/poi-images/germany-hoher-meissner-relief-v2.webp"},
   {
     id: "germany-fichtelgebirge-relief-v2",
     type: "mountain",
@@ -287,8 +279,7 @@ export const germanyReliefV2: POI[] = [
       hu: ["A Schneeberg a Fichtelgebirge legmagasabb csúcsa, 1053 méter.", "A Luisenburg-sziklaútvesztő 15 hektáros gránittömbökből álló sziklamező.", "A Fichtelgebirge négy folyórendszer forrásvidéke: Majna, Eger, Naab és Saale.", "A bányászat története a 12. századig nyúlik vissza, ónt és ezüstöt bányásztak.", "Az Ochsenkopf síterepén egy 3,5 km hosszú pálya található.", "A Fichtelgebirge természeti park területe 1020 négyzetkilométer."],
       ro: ["Vârful Schneeberg, cu 1.053 m, este cel mai înalt din Fichtelgebirge.", "Labirintul de Stânci Luisenburg este o mare de blocuri de granit pe 15 hectare.", "Fichtelgebirge este izvorul a patru sisteme fluviale: Main, Eger, Naab și Saale.", "Exploatarea minieră datează din secolul al XII-lea, pentru staniu și argint.", "Stațiunea de schi Ochsenkopf are o pistă de 3,5 km.", "Parcul Natural Fichtelgebirge se întinde pe 1.020 km²."],
       en: ["Schneeberg is the highest peak in the Fichtel Mountains at 1,053 meters.", "The Luisenburg Rock Labyrinth is a 15-hectare boulder field of granite blocks.", "The Fichtel Mountains are the source of four river systems: Main, Eger, Naab, and Saale.", "Mining history dates back to the 12th century, with tin and silver extraction.", "The Ochsenkopf ski area features a 3.5 km long downhill run.", "The Fichtelgebirge Nature Park covers 1,020 square kilometers."],
-    },
-  },
+    }, image: "/poi-images/germany-fichtelgebirge-relief-v2.webp"},
   {
     id: "germany-teutoburger-wald-dorenther-klippen-relief-v2",
     type: "landmark",
@@ -319,8 +310,7 @@ export const germanyReliefV2: POI[] = [
       hu: ["A Dörenther Klippen hossza 1,5 kilométer.", "A legmagasabb szikla 30 méter magas.", "A Fliegender Fels becsült súlya 1500 tonna.", "Az Osning-homokkő réteg vastagsága eléri a 80 métert.", "Több mint 100 mászóút található a sziklákon.", "A területet 1926-ban nyilvánították természetvédelmi területté."],
       ro: ["Dörenther Klippen se întinde pe o lungime de 1,5 kilometri.", "Înălțimea maximă a stâncilor este de 30 de metri.", "Fliegender Fels cântărește aproximativ 1.500 de tone.", "Stratul de gresie Osning atinge o grosime de până la 80 de metri.", "Există peste 100 de trasee de cățărare pe stânci.", "Zona a fost declarată rezervație naturală în 1926."],
       en: ["The Dörenther Klippen stretch over 1.5 kilometers in length.", "The highest cliff reaches a height of 30 meters.", "The Fliegender Fels is estimated to weigh 1,500 tons.", "The Osning Sandstone layer is up to 80 meters thick.", "There are over 100 climbing routes on the cliffs.", "The area was designated a nature reserve in 1926."],
-    },
-  },
+    }, image: "/poi-images/germany-teutoburger-wald-dorenther-klippen-relief-v2.webp"},
   {
     id: "germany-schwarzwald-hochstrasse-relief-v2",
     type: "mountain",
@@ -351,8 +341,7 @@ export const germanyReliefV2: POI[] = [
       hu: ["A Schwarzwald-Hochstraße hossza 60 kilométer.", "Az út legmagasabb pontja 1040 méteren van a Ruhesteinnél.", "A Hornisgrinde 1163 méterével az Észak-Feketeerdő legmagasabb csúcsa.", "A Mummelsee mélysége 17 méter, 1039 méteres magasságban fekszik.", "Az utat 1933 és 1938 között építették.", "Évente mintegy 1,5 millió látogató használja a Hochstraßét."],
       ro: ["Drumul Înalt al Pădurii Negre are 60 de kilometri lungime.", "Cel mai înalt punct al traseului este la 1.040 m, la Ruhestein.", "Hornisgrinde, cu 1.163 m, este cel mai înalt munte din Pădurea Neagră de Nord.", "Lacul Mummelsee are 17 metri adâncime și este situat la 1.039 m altitudine.", "Drumul a fost construit între 1933 și 1938.", "Aproximativ 1,5 milioane de vizitatori folosesc acest drum anual."],
       en: ["The Black Forest High Road is 60 kilometers long.", "The highest point of the route is at 1,040 meters at Ruhestein.", "Hornisgrinde, at 1,163 m, is the highest mountain in the Northern Black Forest.", "Mummelsee lake is 17 meters deep and located at 1,039 m elevation.", "The road was built between 1933 and 1938.", "About 1.5 million visitors use the High Road annually."],
-    },
-  },
+    }, image: "/poi-images/germany-schwarzwald-hochstrasse-relief-v2.webp"},
   {
     id: "germany-eifel-vulkaneifel-relief-v2",
     type: "mountain",
@@ -383,8 +372,7 @@ export const germanyReliefV2: POI[] = [
       hu: ["A Vulkaneifel legmagasabb pontja a Hohe Acht, 746 méter.", "Az Ulmener Maar 38 méteres mélységével az Eifel legmélyebb maárja.", "Az utolsó vulkánkitörés az Eifelben mintegy 11 000 évvel ezelőtt történt.", "A Vulkaneifel körülbelül 250 vulkáni kúpot és 70 maárt foglal magában.", "2002 óta a régió UNESCO Globális Geopark.", "Az Eifelsteig egy 313 kilométeres távú gyalogút, amely átszeli a Vulkaneifelt."],
       ro: ["Cel mai înalt punct din Vulkaneifel este Hohe Acht, cu 746 m.", "Ulmener Maar are o adâncime de 38 m, fiind cel mai adânc maar din Eifel.", "Ultima erupție vulcanică din Eifel a avut loc acum aproximativ 11.000 de ani.", "Vulkaneifel cuprinde circa 250 de conuri vulcanice și 70 de maare.", "Din 2002, regiunea este un Geoparc Global UNESCO.", "Eifelsteig este un traseu de drumeție de 313 km care traversează Vulkaneifel."],
       en: ["The highest elevation in the Vulkaneifel is Hohe Acht at 746 meters.", "The Ulmener Maar is 38 meters deep, the deepest maar in the Eifel.", "The last volcanic eruption in the Eifel occurred about 11,000 years ago.", "The Vulkaneifel contains about 250 volcanic cones and 70 maars.", "Since 2002, the region has been a UNESCO Global Geopark.", "The Eifelsteig is a 313 km long-distance hiking trail that crosses the Vulkaneifel."],
-    },
-  },
+    }, image: "/poi-images/germany-eifel-vulkaneifel-relief-v2.webp"},
   {
     id: "germany-hoher-westerwald-relief-v2",
     type: "mountain",

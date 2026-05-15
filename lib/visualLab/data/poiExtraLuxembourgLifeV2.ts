@@ -1026,7 +1026,7 @@ imageHint: "Mirador Steinfort nature center building",
     "Nahe dem städtischen Ballungsraum gelegen",
     "Entwickelt für die Naherholung",
     "Wanderwege mit Informationstafeln"
-]},
+], image: "/poi-images/luxembourg-kuebebierg-life-v2.webp"},
   {
     id: "luxembourg-jardin-botanique-life-v2",
     parent: "LU",

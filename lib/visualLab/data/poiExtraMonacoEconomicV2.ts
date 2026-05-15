@@ -31,8 +31,7 @@ export const monacoEconomicV2: POI[] = [
       hu: ["1976-os alapítási dátum", "Székhelye a Fontvieille heliport", "5-7 perces út a nizzai repülőtérig", "AS350 és AS355 típusú gépek", "Több mint 45 állandó alkalmazott", "Exkluzív VIP charter szolgáltatások"],
       ro: ["Înființată oficial în mai 1976", "Zboruri programate la fiecare 20 min", "Peste 10 elicoptere în dotare", "Servicii vamale directe la aterizare", "Peste 100.000 de mișcări anuale", "Partener oficial al evenimentelor F1"],
       en: ["Established May 1976 by Patrick Rossi", "Headquartered at Monaco Heliport", "Average flight time of 7 minutes", "Regular shuttle to Nice Côte d'Azur", "Fleet consists of Airbus Helicopters", "Vital link for business logistics"],
-    },
-  },
+    }, image: "/poi-images/monaco-heli-air-monaco-economic-v2.webp"},
   {
     id: "monaco-monaco-telecom-economic-v2",
     type: "industry",
@@ -127,8 +126,7 @@ export const monacoEconomicV2: POI[] = [
       hu: ["Alapítás éve: 1998", "Társasági adó: 25%", "Kiszolgált vállalkozások: 500+", "Munkanélküliség: 2%", "GDP: 7,2 milliárd euró", "Látogatók száma évente: 10 millió"],
       ro: ["An înființare: 1998", "Impozit pe profit: 25%", "Companii asistate: peste 500", "PIB pe cap de locuitor: 185.000 €", "Șomaj: 2%", "Investiții străine directe: 500 mil. €"],
       en: ["Year founded: 1998", "Corporate tax rate: 25% (since 2023)", "Companies assisted: 500+", "GDP per capita: €185,000", "Unemployment: 2%", "Annual visitors: 10 million"],
-    },
-  },
+    }, image: "/poi-images/monaco-bureau-economic-expansion-economic-v2.webp"},
   {
     id: "monaco-st-devote-logistics-economic-v2",
     type: "industry",

@@ -1037,8 +1037,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       hu: ["A Todor körülbelül 1.500 méter magas", "A Todor 20 kilométer hosszúságban terül el", "A Todor gazdag vadállatokban", "A Todor egy népszerű turisztikai célpont", "A természetes éves átlaghőmérséklet a Todorban körülbelül 9 fok Celsius", "Az éves csapadékmennyiség a Todorban körülbelül 900 milliméter"],
       ro: ["Todorul are o înălțime de aproximativ 1.500 de metri", "Todorul se întinde pe o lungime de aproximativ 20 de kilometri", "Todorul este bogată în animale sălbatice", "Muntele Todor este o destinație turistică populară", "Temperatura medie anuală din Todor este de aproximativ 9 grade Celsius", "Cantitatea anuală de precipitații din Todor este de aproximativ 900 de milimetri"],
       en: ["The Todor mountain range is approximately 1,500 meters high", "The Todor stretches over a distance of about 20 kilometers", "The Todor is rich in wildlife", "The Todor mountain range is a popular tourist destination", "The average annual temperature in the Todor is about 9 degrees Celsius", "The annual precipitation in the Todor is about 900 millimeters"],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-todor-relief-v2.webp"},
   {
     id: "bosniaherzegovina-vlasulja-relief-v2",
     type: "peak",
@@ -1069,8 +1068,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       hu: ["2337 méteres tengerszint feletti magasság.", "A Volujak-hegység abszolút legmagasabb pontja.", "Bosznia-Hercegovina és Montenegró határán fekszik.", "Geológiailag főként mezozoikumi mészkőből épül fel."],
       ro: ["Altitudine maximă de 2337 metri peste nivelul mării.", "Cel mai înalt vârf din masivul muntos Volujak.", "Situat geografic în cadrul lanțului Alpilor Dinarici.", "Accesul principal se face prin pasul montan Papin Do."],
       en: ["Elevation of 2,337 meters above sea level.", "Highest peak in the entire Volujak mountain massif.", "Located directly on the border with Montenegro.", "Part of the wider Sutjeska National Park ecosystem."],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-vlasulja-relief-v2.webp"},
   {
     id: "bosniaherzegovina-cincar-planina-relief-v2",
     type: "mountain",
@@ -1101,8 +1099,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       hu: ["A Cincar Planina körülbelül 2.000 méter magas", "A Cincar Planina 40 kilométer hosszúságban terül el", "A Cincar Planina gazdag ásványokban", "A Cincar Planina egy népszerű turisztikai célpont", "A természetes éves átlaghőmérséklet a Cincar Planinában körülbelül 6 fok Celsius", "Az éves csapadékmennyiség a Cincar Planinában körülbelül 1.200 milliméter"],
       ro: ["Cincar Planina are o înălțime de aproximativ 2.000 de metri", "Cincar Planina se întinde pe o lungime de aproximativ 40 de kilometri", "Cincar Planina este bogată în minerale", "Munții Cincar Planina sunt o destinație turistică populară", "Temperatura medie anuală din Cincar Planina este de aproximativ 6 grade Celsius", "Cantitatea anuală de precipitații din Cincar Planina este de aproximativ 1.200 de milimetri"],
       en: ["The Cincar Planina mountain range is approximately 2,000 meters high", "The Cincar Planina stretches over a distance of about 40 kilometers", "The Cincar Planina is rich in minerals", "The Cincar Planina mountain range is a popular tourist destination", "The average annual temperature in the Cincar Planina is about 6 degrees Celsius", "The annual precipitation in the Cincar Planina is about 1,200 millimeters"],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-cincar-planina-relief-v2.webp"},
   {
     id: "bosniaherzegovina-stare-planine-relief-v2",
     type: "mountain",
@@ -1165,8 +1162,7 @@ export const bosniaherzegovinaReliefV2: POI[] = [
       hu: ["A Bjela Gora területe mintegy 150 km²", "A régió lakossága mintegy 3.000 fő", "A régió legmagasabb pontja mintegy 1.500 méter", "A Bjela Gora gazdag szén- és érckészletekben", "A régió átlagos évi csapadékmennyisége mintegy 1.500 mm", "A Bjela Gora fontos része a boszniai erdőökoszisztémának"],
       ro: ["Bjela Gora au o suprafață de aproximativ 150 km²", "Regiunea are o populație de aproximativ 3.000 de locuitori", "Punctul cel mai înalt din regiune este de aproximativ 1.500 de metri", "Bjela Gora sunt bogate în zăcăminte de cărbune și minereuri", "Regiunea are o cantitate medie anuală de precipitații de aproximativ 1.500 mm", "Bjela Gora sunt o parte importantă a ecosistemului forestier din Bosnia"],
       en: ["The Bjela Gora have an area of approximately 150 km²", "The region has a population of approximately 3,000 inhabitants", "The highest point in the region is approximately 1,500 meters high", "The Bjela Gora are rich in coal and ore deposits", "The region has an average annual precipitation of approximately 1,500 mm", "The Bjela Gora are an important part of the Bosnian forest ecosystem"],
-    },
-  },
+    }, image: "/poi-images/bosniaherzegovina-bjela-gora-relief-v2.webp"},
   {
     id: "bosniaherzegovina-vrtoce-relief-v2",
     type: "valley",

@@ -1883,8 +1883,7 @@ export const moldovaCitiesV2: POI[] = [
       hu: ["Az emberi lakossÃ¡g kÃ¶rÃ¼lbelÃ¼l 13.000 fÅ‘.", "A vÃ¡ros rÃ¶vid tÃ¡volsÃ¡gra van RumÃ¡nia hatÃ¡rÃ¡tÃ³l.", "A hely ismert a legyhogyszerkezeti gazdasÃ¡grÃ³l Ã©s tradicionÃ¡lis mÅ±szertechnikÃ¡krÃ³l.", "Az elsÅ‘ Ã­rÃ¡sbeli emlÃ­tÃ©se 1452-ben tÃ¶rtÃ©nt."],
       ro: ["PopulaÈ›ia comunei este de aproximativ 13.000 de locuitori.", "BrÄƒneÈ™ti se aflÄƒ la scurtÄƒ distanÈ›Äƒ de graniÈ›a cu RomÃ¢nia.", "Localitatea este cunoscutÄƒ pentru agricultura sa ruralÄƒ È™i muncile sale tradiÈ›ionale.", "A fost menÈ›ionatÄƒ pentru prima datÄƒ Ã®n anul 1452."],
       en: ["The population is approximately 13,000 people.", "BrÄƒneÈ™ti lies close to the Romanian border.", "It is known for its rural agriculture and traditional crafts.", "First mentioned in historical records in 1452."],
-    },
-  },
+    }, image: "/poi-images/moldova-brani-te-city-v2.webp"},
   {
     id: "moldova-vatra-city-v2",
     type: "city",
@@ -1915,8 +1914,7 @@ export const moldovaCitiesV2: POI[] = [
       hu: ["Chișinău városi körzetének része", "A Ghidighici-víztározó 1963-ban épült", "1991-ben vette fel a Vatra nevet", "Átlagos tengerszint feletti magasság 40 m", "Közel 3.500 lakosa van a városnak", "Fontos építőanyag-ipari központ"],
       ro: ["Face parte din municipiul Chișinău", "Situat la 7 km vest de capitală", "Lacul Ghidighici are volumul de 40 mln m³", "Localitatea a purtat anterior numele Ghidighici", "Altitudinea orașului este de circa 40 metri", "Găzduiește întreprinderi de vinificație"],
       en: ["Located 7 km west of Chișinău city", "Bordered by the 8.8 sq km Ghidighici lake", "Renamed from Ghidighici to Vatra in 1991", "Average elevation is 40 meters", "Population is approximately 3,500 people", "Site of major construction material factories"],
-    },
-  },
+    }, image: "/poi-images/moldova-vatra-city-v2.webp"},
   {
     id: "moldova-fale-tii-noi-city-v2",
     type: "city",

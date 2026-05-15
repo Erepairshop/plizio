@@ -31,8 +31,7 @@ export const montenegroCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 1500", "Magasság: 60 m", "Távolság Podgoricától: 15 km", "Folyó: Zeta", "Erőd: oszmán", "Templom: 19. század"],
       ro: ["Populație: aprox. 1.500", "Altitudine: 60 m", "Distanță de Podgorica: 15 km", "Râu: Zeta", "Fortăreață: otomană", "Biserică: secolul al XIX-lea"],
       en: ["Population: approx. 1,500", "Elevation: 60 m", "Distance from Podgorica: 15 km", "River: Zeta", "Fortress: Ottoman", "Church: 19th century"],
-    },
-  },
+    }, image: "/poi-images/montenegro-spuz-cities-v2.webp"},
   {
     id: "montenegro-golubovci-cities-v2",
     type: "city",
@@ -63,8 +62,7 @@ export const montenegroCitiesV2: POI[] = [
       hu: ["Zeta község székhelye", "Podgoricától 15 km-re délre", "Itt található a nemzetközi reptér", "Mezőgazdasági központ", "Tengerszint feletti magasság: 33 m", "2022-ben vált önálló községgé"],
       ro: ["Sediul primăriei Zeta", "Altitudine medie: 33 metri", "Găzduiește Aeroportul Podgorica", "Populație oraș: cca. 3.110 loc.", "Soluri fertile de tip aluvionar", "Nod feroviar pe linia Belgrad-Bar"],
       en: ["Administrative seat of Zeta", "Elevation: 33 meters", "Home to Podgorica Airport (TGD)", "Located in the Zeta Plain", "Key agricultural producer", "Connected to the Belgrade-Bar railway"],
-    },
-  },
+    }, image: "/poi-images/montenegro-golubovci-cities-v2.webp"},
   {
     id: "montenegro-tuzi-cities-v2",
     type: "city",
@@ -95,8 +93,7 @@ export const montenegroCitiesV2: POI[] = [
       hu: ["Terület: kb. 240 km²", "Lakosság: kb. 12 000 fő (2011)", "Tengerszint feletti magasság: 50 m", "Községgé válás: 2018", "Podgoricától való távolság: 12 km", "Átlaghőmérséklet: 15 °C"],
       ro: ["Suprafață: aproximativ 240 km²", "Populație: circa 12.000 (2011)", "Altitudine: 50 m deasupra nivelului mării", "Înființare municipiu: 2018", "Distanța până la Podgorica: 12 km", "Temperatura medie: 15 °C"],
       en: ["Area: approx. 240 km²", "Population: about 12,000 (2011 census)", "Elevation: 50 m above sea level", "Municipality established: 2018", "Distance to Podgorica: 12 km", "Average temperature: 15 °C"],
-    },
-  },
+    }, image: "/poi-images/montenegro-tuzi-cities-v2.webp"},
   {
     id: "montenegro-petnjica-cities-v2",
     type: "city",
@@ -127,8 +124,7 @@ export const montenegroCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 5000 fő (2011)", "Tengerszint feletti magasság: 650 m", "Községgé válás: 2014", "Terület: kb. 170 km²", "Beranétól való távolság: 15 km", "Átlaghőmérséklet: 9 °C"],
       ro: ["Populație: circa 5.000 (2011)", "Altitudine: 650 m", "Înființare municipiu: 2014", "Suprafață: aproximativ 170 km²", "Distanța până la Berane: 15 km", "Temperatura medie: 9 °C"],
       en: ["Population: about 5,000 (2011)", "Elevation: 650 m", "Municipality established: 2014", "Area: approx. 170 km²", "Distance to Berane: 15 km", "Average temperature: 9 °C"],
-    },
-  },
+    }, image: "/poi-images/montenegro-petnjica-cities-v2.webp"},
   {
     id: "montenegro-gusinje-cities-v2",
     type: "city",

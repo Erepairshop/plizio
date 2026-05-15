@@ -126,8 +126,7 @@ export const serbiaRivers: POI[] = [
       hu: ["Legfontosabb folyó", "Átfolyik Belgrádon", "Vaskapu", "Határfolyó", "Hajózási útvonal"],
       ro: ["Cel mai important râu", "Curge prin Belgrad", "Porțile de Fier", "Râu de frontieră", "Cale navigabilă"],
       en: ["Most important river", "Flows through Belgrade", "Iron Gates", "Border river", "Navigable waterway"]
-    }
-  },
+    }, image: "/poi-images/river-danube-serbia.webp"},
   {
     id: "river-sava",
     type: "river",

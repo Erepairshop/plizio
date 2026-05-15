@@ -31,8 +31,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["2002-ben alapították Ausztria 6. nemzeti parkjaként", "Területe megközelítőleg 11.000 hektár", "A legmagasabb csúcs a Hochtor (2369 m)", "Az Enns folyó 16 km hosszú szurdokot alkot", "Több mint 50 különböző orchideafaj él itt", "Népszerű helyszín a hegymászók számára"],
       ro: ["Înființat în 2002 ca al șaselea parc național", "Suprafață totală de aproximativ 110 km pătrați", "Altitudinea maximă este vârful Hochtor (2369 m)", "Râul Enns străbate un defileu de 16 km lungime", "Adăpostește peste 50 de specii de orhidee", "Sediul administrației se află în Admont"],
       en: ["Established in 2002 in the state of Styria", "Covers an area of 110 square kilometers", "The highest peak is the Hochtor at 2,369 meters", "Home to over 50 species of wild orchids", "Features a 16-kilometer-long river gorge", "Managed from the town of Admont"],
-    },
-  },
+    }, image: "/poi-images/austria-nationalpark-gesaeuse-life-v2.webp"},
   {
     id: "austria-wildpark-schwarzenberg-life-v2",
     type: "wildlife",
@@ -63,8 +62,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["A Murau-Murtal régióban található", "A hazai vadfajok bemutatására fókuszál", "Gímszarvasok, dámvadak és muflonok láthatók", "Gyermekbarát simogató állatkerttel rendelkezik", "Egy történelmi udvarház adja a hátteret", "Egész évben látogatható túraútvonalak"],
       ro: ["Situat în regiunea muntoasă Murau-Murtal", "Se concentrează pe specii de animale locale", "Găzduiește cerbi roșii, căprioare și mufloni", "Include o zonă specială pentru copii", "Cadrul este oferit de o fermă istorică", "Trasee de drumeție deschise tot anul"],
       en: ["Located in the Murau-Murtal holiday region", "Focuses on native European wildlife species", "Features enclosures for red deer and mouflon", "Includes a petting zoo area for younger visitors", "Set against the backdrop of a historic estate", "Walking trails are accessible year-round"],
-    },
-  },
+    }, image: "/poi-images/austria-wildpark-schwarzenberg-life-v2.webp"},
   {
     id: "austria-botanischer-garten-linz-life-v2",
     type: "park",
@@ -95,8 +93,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["A kert területe kb. 4,2 hektár", "Körülbelül 10.000 növényfajnak ad otthont", "Világszinten jelentős kaktuszgyűjtemény", "Sziklakertet és rózsakertet is tartalmaz", "Ezen a helyszínen 1952-ben nyílt meg", "Gyakori helyszíne szabadtéri koncerteknek"],
       ro: ["Suprafață totală de aproximativ 4,2 hectare", "Găzduiește circa 10.000 de specii de plante", "Colecție de cactuși de importanță europeană", "Include o grădină de trandafiri și un alpinariu", "Deschisă la această locație în anul 1952", "Gazdă pentru expoziții tematice și concerte"],
       en: ["Covers an area of 4.2 hectares in Linz", "Home to approximately 10,000 plant species", "Houses a globally significant cactus collection", "Includes an extensive rock garden and rosary", "Opened at its current location in 1952", "Hosts various outdoor cultural events"],
-    },
-  },
+    }, image: "/poi-images/austria-botanischer-garten-linz-life-v2.webp"},
   {
     id: "austria-wildpark-tirol-life-v2",
     type: "wildlife",
@@ -127,8 +124,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["Tirol legnagyobb szabadkifutós vadasparkja", "Több mint 200 állat él a területen", "Naponta látványos vadetetést tartanak", "Híres forgatási helyszín (pl. Hegyi doktor)", "Pazar kilátás nyílik a Kitzbüheli-Alpokra", "Jakok és lámák is láthatók a parkban"],
       ro: ["Cea mai mare incintă în aer liber din Tirol", "Adăpostește peste 200 de exemplare de animale", "Sesiuni zilnice de hrănire a animalelor", "Locație celebră pentru filmări TV locale", "Ofertă vedere spre Alpii Kitzbühel", "Găzduiește specii exotice precum iaci și lame"],
       en: ["Largest open-air wildlife park in Tyrol", "Home to more than 200 individual animals", "Daily commented wildlife feeding sessions", "Used as a filming location for various TV series", "Stunning views of the Kitzbühel Alps", "Features yaks, llamas, and snowy owls"],
-    },
-  },
+    }, image: "/poi-images/austria-wildpark-tirol-life-v2.webp"},
   {
     id: "austria-zoologischer-garten-salzburg-life-v2",
     type: "wildlife",
@@ -159,8 +155,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["Területe kb. 14 hektár a kastélyparknál", "Körülbelül 1500 állat él a parkban", "Fő tematikája Eurázsia és Afrika állatvilága", "Különleges éjszakai ház repülőkutyákkal", "Tágas kifutó a szélesszájú orrszarvúknak", "A történelmi Hellbrunni kastélypark része"],
       ro: ["Suprafață de circa 14 hectare lângă palat", "Găzduiește un efectiv de 1500 de animale", "Focus pe faună din Eurasia și Africa", "Casă specială pentru animale nocturne", "Incinte moderne pentru rinoceri albi", "Integrată în parcul istoric Hellbrunn"],
       en: ["Covers 14 hectares near Hellbrunn Palace", "Home to approximately 1,500 animals", "Strong focus on Eurasian and African fauna", "Features a walk-in nocturnal house", "Notable enclosure for white rhinoceroses", "Part of the historic Hellbrunn landscape"],
-    },
-  },
+    }, image: "/poi-images/austria-zoologischer-garten-salzburg-life-v2.webp"},
   {
     id: "austria-nationalpark-hohe-tauern-neukirchen-life-v2",
     type: "park",
@@ -191,8 +186,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["Interaktív 'Nemzeti Park Világok' kiállítás", "360 fokos panorámamozi természetfilmekkel", "A Magas-Tauern gleccservilágának modellje", "Részletes infók a Großvenediger csúcsról", "A magashegyi ökológiára összpontosít", "Vezetett rangertúrák kiindulópontja"],
       ro: ["Expoziție interactivă numită 'Lumea Parcului'", "Cinema la 360 de grade cu imagini din natură", "Machetă detaliată a ghețarilor Hohe Tauern", "Informații despre vârful Großvenediger", "Focus pe ecologia de înaltă munte", "Punct de plecare pentru tururi cu rangeri"],
       en: ["Features the interactive 'National Park Worlds'", "360-degree cinema showing nature films", "Large-scale model of the glacier world", "Detailed info on the Großvenediger peak", "Focuses on high-altitude mountain ecology", "Main hub for guided ranger excursions"],
-    },
-  },
+    }, image: "/poi-images/austria-nationalpark-hohe-tauern-neukirchen-life-v2.webp"},
   {
     id: "austria-naturpark-sölktäler-life-v2",
     type: "park",
@@ -223,8 +217,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["Területe kb. 288 négyzetkilométer", "Legmagasabb pontja a Knallstein (2599 m)", "Több mint 30 tengerszem található itt", "Aktív hagyományos alpesi gazdálkodás", "A park központja a Großsölk-kastély", "Natura 2000 védettségű terület"],
       ro: ["Suprafață de aproximativ 288 km pătrați", "Cea mai înaltă cotă: vârful Knallstein (2599 m)", "Include peste 30 de lacuri glaciare", "Practică activă a păstoritului tradițional", "Administrația are sediul în castelul Großsölk", "Parte din rețeaua europeană Natura 2000"],
       en: ["Covers an area of 288 square kilometers", "The highest point is the Knallstein (2,599 m)", "Contains over 30 high-altitude alpine lakes", "Traditional alpine farming is still practiced", "Headquarters located in Großsölk Castle", "Designated as a Natura 2000 protected site"],
-    },
-  },
+    }, image: "/poi-images/austria-naturpark-sölktäler-life-v2.webp"},
   {
     id: "austria-botanischer-garten-wien-life-v2",
     type: "park",
@@ -255,8 +248,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["1754-ben alapították orvosi füvészkertként", "Kb. 8 hektáros terület a belváros közelében", "Körülbelül 11.500 növényfaj látható itt", "Történelmi jelentőségű üvegházak", "A Bécsi Egyetem tudományos részlege", "Közvetlenül határos a Belvedere kertjével"],
       ro: ["Fondată în 1754 ca grădină de plante medicinale", "Ocupă circa 8 hectare în districtul 3", "Adăpostește aproximativ 11.500 de specii", "Include sere istorice de mare valoare", "Administrată de Universitatea din Viena", "Se învecinează direct cu grădinile Belvedere"],
       en: ["Established in 1754 for medicinal studies", "Covers 8 hectares in Vienna's 3rd district", "Home to roughly 11,500 different plant species", "Features significant historic greenhouses", "Maintained by the University of Vienna", "Located right next to the Belvedere gardens"],
-    },
-  },
+    }, image: "/poi-images/austria-botanischer-garten-wien-life-v2.webp"},
   {
     id: "austria-naturpark-tiroler-lech-life-v2",
     type: "park",
@@ -319,8 +311,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["Peter Rosegger szülőföldjén található", "Kőszáli kecskék, szarvasok és zergék lakják", "Túraútvonalak az 'Erdei haza' tájain", "Az alpli erdei iskola közelében fekszik", "Kb. 1100 méteres tengerszint feletti magasság", "A stájer hegyi élővilágra fókuszál"],
       ro: ["Situat în regiunea natală a lui Peter Rosegger", "Găzduiește capre negre, cerbi și căpriori", "Trasee prin peisajul 'Waldheimat'", "Aproape de școala istorică din pădure Alpl", "Altitudine de aproximativ 1100 metri", "Prezintă fauna montană specifică Stiriei"],
       en: ["Located in Peter Rosegger's home region", "Home to ibex, red deer, and chamois", "Hiking trails through the 'forest homeland'", "Near the historic Alpl Forest School", "Situated at 1,100 meters above sea level", "Focuses on Styrian mountain wildlife"],
-    },
-  },
+    }, image: "/poi-images/austria-wildpark-glaschütte-life-v2.webp"},
   {
     id: "austria-botanischer-garten-klagenfurt-life-v2",
     type: "park",
@@ -351,8 +342,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["Egy történelmi kőbányában alakították ki", "Karintiai hegyi növények speciális gyűjteménye", "Jelentős kaktuszház található a területen", "Közvetlenül a Bányászati Múzeum mellett van", "Külön részleg a gyógynövények számára", "A tartományi botanikai osztály kezeli"],
       ro: ["Amenajată într-o fostă carieră de piatră", "Colecție specială de plante montane din Carintia", "Include o seră de cactuși remarcabilă", "Situată lângă Muzeul Mineritului", "Secțiune dedicată plantelor medicinale", "Administrată de departamentul de botanică"],
       en: ["Built within a historic stone quarry", "Special collection of Carinthian mountain flora", "Features a significant cactus greenhouse", "Located adjacent to the Mining Museum", "Dedicated section for medicinal herbs", "Managed by the state botanical department"],
-    },
-  },
+    }, image: "/poi-images/austria-botanischer-garten-klagenfurt-life-v2.webp"},
   {
     id: "austria-naturpark-oetztal-life-v2",
     type: "park",
@@ -383,8 +373,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["Területe kb. 510 négyzetkilométer", "67 gleccser található a védett területen", "Legmagasabb csúcsa a Wildspitze (3770 m)", "Natura 2000-es védettségű zónákat tartalmaz", "Régi öntözőrendszerek (Waale) láthatók", "Információs központ Oetz falujában"],
       ro: ["Suprafață de aproximativ 510 km pătrați", "Include 67 de ghețari în zona protejată", "Cel mai înalt vârf: Wildspitze (3770 m)", "Cuprinde situri din rețeaua Natura 2000", "Sistem vechi de irigații (Waale) conservat", "Centru de informare în localitatea Oetz"],
       en: ["Covers an area of 510 square kilometers", "Contains 67 glaciers within its borders", "The highest peak is the Wildspitze (3,770 m)", "Includes several Natura 2000 protected sites", "Preserves ancient irrigation channels (Waale)", "Main visitor center is located in Oetz"],
-    },
-  },
+    }, image: "/poi-images/austria-naturpark-oetztal-life-v2.webp"},
   {
     id: "austria-wildpark-ernstbrunn-life-v2",
     type: "wildlife",
@@ -415,8 +404,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["A neves Wolf Science Center székhelye", "Kutyák és farkasok összehasonlító kutatása", "Ritka háziállatfajták is láthatók itt", "A Leiser Berge dombjai között fekszik", "Vezetett túrák a farkasok kifutóihoz", "Nagy kalandjátszótér várja a gyerekeket"],
       ro: ["Găzduiește renumitul Wolf Science Center", "Focus pe cercetarea comparativă câini-lupi", "Adăpostește rase rare de animale domestice", "Situat în dealurile blânde Leiser Berge", "Tururi ghidate la incintele lupilor", "Include un mare loc de joacă pentru copii"],
       en: ["Home to the renowned Wolf Science Center", "Focuses on comparative dog and wolf research", "Preserves rare breeds of domestic animals", "Set in the rolling hills of the Leiser Berge", "Offers guided tours to wolf enclosures", "Features a large adventure playground"],
-    },
-  },
+    }, image: "/poi-images/austria-wildpark-ernstbrunn-life-v2.webp"},
   {
     id: "austria-naturpark-geschriebenstein-life-v2",
     type: "park",
@@ -447,8 +435,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["Burgenland legmagasabb pontja (884 m)", "Határon átnyúló védett terület (AT-HU)", "Kilátótorony közvetlenül az államhatáron", "Földtörténeti tanösvény várja a látogatókat", "Jelentős szelídgesztenye-erdők találhatók itt", "Számos jelzett hegyikerékpáros útvonal"],
       ro: ["Cea mai înaltă cotă din Burgenland (884 m)", "Rezervație transfrontalieră (Austria-Ungaria)", "Turn de observație situat chiar pe graniță", "Traseu educativ despre istoria geologică", "Păduri vaste de castani comestibili", "Numeroase trasee pentru mountain bike"],
       en: ["Highest peak in Burgenland at 884 meters", "Cross-border protected area with Hungary", "Observation tower located exactly on the border", "Educational trail on regional geological history", "Home to extensive sweet chestnut forests", "Features many marked mountain bike trails"],
-    },
-  },
+    }, image: "/poi-images/austria-naturpark-geschriebenstein-life-v2.webp"},
   {
     id: "austria-alpenzoo-innsbruck-life-v2",
     type: "wildlife",
@@ -479,8 +466,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["750 méteres tengerszint feletti magasság", "Körülbelül 2000 alpesi állat él itt", "A világ legnagyobb édesvízi hidegvizes akváriuma", "A ritka tarvarjú tenyésztési központja", "Sziklasasok és szakállas saskeselyűk lakják", "A Hungerburgbahn vasúttal is elérhető"],
       ro: ["Situată la 750 de metri deasupra mării", "Adăpostește circa 2000 de animale alpine", "Deține cel mai mare acvariu de apă rece", "Centru de reproducere pentru ibisul chel", "Incinte pentru acvile de munte și zăgani", "Accesibilă cu funicularul Hungerburgbahn"],
       en: ["Located at 750 meters above sea level", "Home to approximately 2,000 alpine animals", "Houses the world's largest cold-water aquarium", "Breeding station for the rare Northern Bald Ibis", "Features golden eagles and bearded vultures", "Accessible via the Hungerburg funicular"],
-    },
-  },
+    }, image: "/poi-images/austria-alpenzoo-innsbruck-life-v2.webp"},
   {
     id: "austria-naturpark-karwendel-life-v2",
     type: "park",
@@ -511,8 +497,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["Területe kb. 727 négyzetkilométer", "Egész Ausztria legrégebbi natúrparkja", "Több mint 100 madárfaj fészkel itt", "Híres a 'Großer Ahornboden' juharerdőről", "Tizenegy különböző részleges védett zóna", "Tirol legnagyobb őserdő-maradványai"],
       ro: ["Suprafață de aproximativ 727 km pătrați", "Cel mai vechi parc natural din Austria", "Peste 100 de specii de păsări cuibăresc aici", "Faimos pentru platoul 'Großer Ahornboden'", "Cuprinde unsprezece zone speciale protejate", "Cea mai mare pondere de păduri virgine din Tirol"],
       en: ["Covers an area of 727 square kilometers", "The oldest nature park in all of Austria", "Habitat for over 100 breeding bird species", "Famous for the 'Großer Ahornboden' maple grove", "Consists of eleven distinct protected zones", "Contains the largest primary forests in Tyrol"],
-    },
-  },
+    }, image: "/poi-images/austria-naturpark-karwendel-life-v2.webp"},
   {
     id: "austria-wildpark-grünau-life-v2",
     type: "wildlife",
@@ -543,8 +528,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["Körülbelül 60 hektárnyi erdő és mező", "Híres a nyári lúddal végzett kutatásokról", "Hatalmas kifutók medvék és farkasok számára", "Európai bölények és hiúzok is láthatók", "Egész évben nyitva tartó kirándulóhely", "A Konrad Lorenz Kutatóállomás székhelye"],
       ro: ["Suprafață de circa 60 de hectare", "Faimos pentru cercetările pe gâștele cenușii", "Incinte vaste pentru urși bruni și lupi", "Adăpostește zimbri europeni și lincși", "Destinație turistică deschisă tot anul", "Sediul centrului de cercetare Konrad Lorenz"],
       en: ["Covers 60 hectares of forest and meadows", "Famous for research on greylag geese", "Spacious enclosures for brown bears and wolves", "Home to European bison and lynx", "Popular year-round excursion destination", "Site of the Konrad Lorenz Research Station"],
-    },
-  },
+    }, image: "/poi-images/austria-wildpark-grünau-life-v2.webp"},
   {
     id: "austria-botanischer-garten-graz-life-v2",
     type: "park",
@@ -575,8 +559,7 @@ export const austriaLifeV2: POI[] = [
       hu: ["Futurisztikus kialakítású üvegházak", "Négy klímazóna: trópusi, szubtrópusi, mediterrán, hideg", "A grazi Karl-Franzens Egyetem része", "Ritka pozsgás növények gyűjteménye", "A látogatókertekbe a belépés ingyenes", "A Geidorf negyed villái között található"],
       ro: ["Sere cu design futurist premiat", "Patru zone: tropicală, subtropicală, mediteraneană, rece", "Parte a Universității Karl-Franzens din Graz", "Găzduiește colecții rare de plante suculente", "Accesul în grădinile exterioare este gratuit", "Situată în cartierul rezidențial Geidorf"],
       en: ["Features futuristically designed greenhouses", "Four climate zones: Tropical, Subtropical, Med, Cold", "Maintained by the University of Graz", "Houses significant succulent collections", "General admission to gardens is free of charge", "Located in the elegant Geidorf district"],
-    },
-  },
+    }, image: "/poi-images/austria-botanischer-garten-graz-life-v2.webp"},
   {
     id: "austria-naturpark-leiser-berge-life-v2",
     type: "park",

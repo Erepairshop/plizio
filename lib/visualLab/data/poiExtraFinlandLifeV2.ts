@@ -31,8 +31,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Alapítva 2005-ben", "Teljes területe 142 km²", "A Noitatunturi csúcs 540 m magas", "Működő ametisztbánya található itt"],
       ro: ["Fondat în anul 2005", "Suprafață totală de 142 km²", "Vârful Noitatunturi are 540 m", "Adăpostește o mină de ametist"],
       en: ["Established in 2005", "Total area of 142 km²", "Noitatunturi peak is 540 m high", "Contains a working amethyst mine"],
-    },
-  },
+    }, image: "/poi-images/finland-pyhax-luosto-life-v2.webp"},
   {
     id: "finland-helsinki-zoo-life-v2",
     type: "wildlife",
@@ -63,8 +62,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Alapítás éve: 1889", "Helyszín: Korkeasaari-sziget", "Állatfajok száma: kb. 150", "Kiemelt faj: Hópárduc", "Növényfajok száma: 1000 felett", "Elérhetőség: Komppal vagy hídon"],
       ro: ["Anul înființării: 1889", "Locație: Insula Korkeasaari", "Număr de specii: 150", "Focus: Specii boreale și arctice", "Program: Deschis tot anul", "Acces: Pod pietonal sau feribot"],
       en: ["Founded: 1889", "Location: Korkeasaari Island", "Number of species: 150", "Notable resident: Amur leopard", "Plant species: Over 1,000", "Area: 22 hectares"],
-    },
-  },
+    }, image: "/poi-images/finland-helsinki-zoo-life-v2.webp"},
   {
     id: "finland-patvinsuo-life-v2",
     type: "park",
@@ -95,8 +93,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Alapítva: 1982-ben", "Terület: 105 négyzetkilométer", "Túraútvonalak hossza: 80 km", "Legnagyobb tó: Suomunjärvi", "Jellemző állat: Barnamedve", "Környezet: Északi tőzeglápok"],
       ro: ["Anul înființării: 1982", "Suprafață: 105 km²", "Trasee marcate: 80 km", "Lac principal: Suomunjärvi", "Faună emblematică: Ursul brun", "Ecosistem: Mlaștini oligotrofe"],
       en: ["Established: 1982", "Total area: 105 sq km", "Hiking trails: 80 km", "Central lake: Suomunjärvi", "Key species: Brown bear", "Terrain: Sandy eskers and mires"],
-    },
-  },
+    }, image: "/poi-images/finland-patvinsuo-life-v2.webp"},
   {
     id: "finland-helvetinjarvi-life-v2",
     type: "park",
@@ -127,8 +124,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Létrehozva: 1982-ben", "Terület: 49,8 km²", "Fő látványosság: Helvetinkolu", "Sziklafal magassága: 40 m", "Túraútvonalak: 40 km", "Régió: Pirkanmaa"],
       ro: ["Anul înființării: 1982", "Suprafață: 49,8 km²", "Defileu celebru: Helvetinkolu", "Înălțime stânci: 40 metri", "Rețea de poteci: 40 km", "Județ: Ruovesi"],
       en: ["Established: 1982", "Area: 49.8 sq km", "Main gorge: Helvetinkolu", "Cliff height: 40 meters", "Trail network: 40 km", "Region: Pirkanmaa"],
-    },
-  },
+    }, image: "/poi-images/finland-helvetinjarvi-life-v2.webp"},
   {
     id: "finland-lemmenjoki-life-v2",
     type: "park",
@@ -159,8 +155,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Legnagyobb park 2850 km²-en", "Alapítva 1956-ban", "A számi kultúra fontos vidéke", "Több mint 60 km túraútvonal"],
       ro: ["Cel mai mare parc (2850 km²)", "Fondat în anul 1956", "Parte din patria poporului Sámi", "Peste 60 km de trasee marcate"],
       en: ["Largest park at 2850 km²", "Established in 1956", "Part of the Sámi homeland", "Over 60 km of river valley trails"],
-    },
-  },
+    }, image: "/poi-images/finland-lemmenjoki-life-v2.webp"},
   {
     id: "finland-seitseminen-life-v2",
     type: "park",
@@ -191,8 +186,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Alapítás éve: 1982", "Terület: 45,5 km²", "Legidősebb rész: Multiharju", "Fenyők kora: 400 év", "Történelmi hely: Kovero tanya", "Gyalogtúrák: 60 km"],
       ro: ["Anul înființării: 1982", "Suprafață: 45,5 km²", "Pădure veche: Multiharju", "Vârsta arborilor: 400 ani", "Fermă istorică: Kovero", "Lungime trasee: 60 km"],
       en: ["Established: 1982", "Total area: 45.5 sq km", "Oldest forest: Multiharju", "Pine tree age: 400 years", "Heritage site: Kovero farm", "Trails: 60 km"],
-    },
-  },
+    }, image: "/poi-images/finland-seitseminen-life-v2.webp"},
   {
     id: "finland-tiilikkajarvi-life-v2",
     type: "park",
@@ -223,8 +217,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Területe 18 km²", "Alapítva 1982-ben", "Híres a Venäjänhiekka strandról", "Határkő látható 1595-ből"],
       ro: ["Suprafață de 18 km²", "Fondat în anul 1982", "Faimos pentru plaja Venäjänhiekka", "Piatră de hotar din anul 1595"],
       en: ["Area of 18 km²", "Established in 1982", "Famous for Venäjänhiekka beach", "Boundary stone from 1595 exists"],
-    },
-  },
+    }, image: "/poi-images/finland-tiilikkajarvi-life-v2.webp"},
   {
     id: "finland-iso-jarvi-life-v2",
     type: "park",
@@ -255,8 +248,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Alapítva: 1982", "Terület: 19 km²", "Fő emlős: Hód", "Erdei kunyhó: Heretty", "Geológia: Vetődési völgyek", "Ösvények hossza: 30 km"],
       ro: ["Anul înființării: 1982", "Suprafață: 19 km²", "Specie cheie: Castorul", "Clădire istorică: Heretty", "Relief: Văi de falie", "Trasee: 30 km"],
       en: ["Established: 1982", "Area: 19 sq km", "Key mammal: Beaver", "Historic cabin: Heretty", "Terrain: Fault valleys", "Hiking routes: 30 km"],
-    },
-  },
+    }, image: "/poi-images/finland-iso-jarvi-life-v2.webp"},
   {
     id: "finland-kolovesi-life-v2",
     type: "park",
@@ -287,8 +279,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Területe 23 km²", "Alapítva 1990-ben", "Saimaa-gyűrűsfóka élőhelye", "Ukkonvuori kőkorszaki rajzok"],
       ro: ["Suprafață de 23 km²", "Fondat în anul 1990", "Protejează foca de Saimaa", "Picturi rupestre la Ukkonvuori"],
       en: ["Area of 23 km²", "Established in 1990", "Saimaa ringed seal habitat", "Ukkonvuori Stone Age paintings"],
-    },
-  },
+    }, image: "/poi-images/finland-kolovesi-life-v2.webp"},
   {
     id: "finland-hiidenportti-life-v2",
     type: "park",
@@ -319,8 +310,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Területe 45 km²", "Alapítva 1982-ben", "A szurdok hossza 1 km", "Ritka ragadozómadarak fészkelnek"],
       ro: ["Suprafață de 45 km²", "Fondat în anul 1982", "Defileu lung de 1 km", "Adăpostește răpitoare rare"],
       en: ["Area of 45 km²", "Established in 1982", "The gorge is 1 km long", "Home to rare birds of prey"],
-    },
-  },
+    }, image: "/poi-images/finland-hiidenportti-life-v2.webp"},
   {
     id: "finland-torronsuo-life-v2",
     type: "park",
@@ -351,8 +341,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Létrehozva: 1990-ben", "Terület: 25,5 km²", "Tőzegvastagság: 12 m", "Fő madárfaj: Daru", "Település: Tammela", "Kilátóhely: Kilamo torony"],
       ro: ["Anul înființării: 1990", "Suprafață: 25,5 km²", "Adâncime turbă: 12 m", "Păsări: Cocori", "Locație: Tammela", "Observator: Turnul Kilamo"],
       en: ["Established: 1990", "Area: 25.5 sq km", "Peat depth: 12 meters", "Key bird: Crane", "Location: Tammela", "Viewing tower: Kilamo"],
-    },
-  },
+    }, image: "/poi-images/finland-torronsuo-life-v2.webp"},
   {
     id: "finland-pallas-yllastunturi-life-v2",
     type: "park",
@@ -383,8 +372,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Területe 1020 km²", "Alapítva 2005-ben", "Taivaskero csúcs (807 m)", "Több mint 500 km túraútvonal"],
       ro: ["Suprafață de 1020 km²", "Fondat în anul 2005", "Vârful Taivaskero (807 m)", "Peste 500 km de trasee"],
       en: ["Area of 1020 km²", "Established in 2005", "Taivaskero peak (807 m)", "Over 500 km of summer trails"],
-    },
-  },
+    }, image: "/poi-images/finland-pallas-yllastunturi-life-v2.webp"},
   {
     id: "finland-peurasaari-wildlife-life-v2",
     type: "wildlife",
@@ -415,8 +403,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["A Botteni-öböl partján fekszik", "Költöző madarak pihenőhelye", "Ritka északi kankalin élőhelye", "Tanösvények a parti erdőben"],
       ro: ["Situat în Golful Botnic", "Popas vital pentru păsări", "Găzduiește primula arctică", "Trasee prin păduri de coastă"],
       en: ["Located on the Gulf of Bothnia", "Key bird migration stopover", "Home to the Primula nutans", "Nature trails through forests"],
-    },
-  },
+    }, image: "/poi-images/finland-peurasaari-wildlife-life-v2.webp"},
   {
     id: "finland-siikaneva-mire-life-v2",
     type: "park",
@@ -447,8 +434,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Típus: Lápkomplexum", "Régió: Pirkanmaa", "Védettség: Natura 2000", "Tanösvény: 10 km", "Madárfaj: Aranylile", "Növényzet: Tőzegmoha"],
       ro: ["Tip: Complex mlăștinos", "Regiune: Pirkanmaa", "Statut: Sit Natura 2000", "Traseu: 10 km circular", "Faună: Păsări limicole", "Flora: Mușchi de turbă"],
       en: ["Type: Mire complex", "Region: Pirkanmaa", "Protection: Natura 2000", "Nature trail: 10 km loop", "Bird species: Golden plover", "Dominant flora: Sphagnum"],
-    },
-  },
+    }, image: "/poi-images/finland-siikaneva-mire-life-v2.webp"},
   {
     id: "finland-laajalahti-reserve-life-v2",
     type: "wildlife",
@@ -479,8 +465,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Terület: 1,9 km²", "Helyszín: Espoo", "Madárfajok száma: 300+", "Látogatóközpont: Villa Elfvik", "Tanösvény: 2,9 km", "Típus: Parti vizes élőhely"],
       ro: ["Suprafață: 1,9 km²", "Locație: Golful Espoo", "Specii păsări: Peste 300", "Centru vizitare: Villa Elfvik", "Traseu educativ: 2,9 km", "Ecosistem: Golf puțin adânc"],
       en: ["Area: 1.9 sq km", "Location: Espoo/Helsinki", "Bird species: 300+ recorded", "Nature center: Villa Elfvik", "Trail length: 2.9 km", "Habitat: Coastal wetland"],
-    },
-  },
+    }, image: "/poi-images/finland-laajalahti-reserve-life-v2.webp"},
   {
     id: "finland-liminganlahti-life-v2",
     type: "wildlife",
@@ -511,8 +496,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Ramsar-terület 2004 óta", "160 fészkelő madárfaj", "8 madármegfigyelő torony", "Természetvédelmi látogatóközpont"],
       ro: ["Sit Ramsar din anul 2004", "Peste 160 specii cuibăresc", "8 turnuri de observare", "Centru de educație ecologică"],
       en: ["Ramsar site since 2004", "Over 160 breeding bird species", "8 birdwatching towers available", "Major nature education center"],
-    },
-  },
+    }, image: "/poi-images/finland-liminganlahti-life-v2.webp"},
   {
     id: "finland-heinola-bird-park-life-v2",
     type: "wildlife",
@@ -543,8 +527,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Alapítás: 1963-ban", "Cél: Madármentés", "Egyedek száma: kb. 200", "Belépés: Ingyenes", "Helyszín: Heinola belvárosa", "Különlegesség: Papagájház"],
       ro: ["Anul înființării: 1963", "Rol: Sanctuar aviar", "Număr exemplare: cca. 200", "Acces: Gratuit", "Locație: Central Heinola", "Atracție: Casa Papagalilor"],
       en: ["Founded: 1963", "Function: Bird sanctuary", "Bird count: Approx. 200", "Entry: Free of charge", "Location: Heinola center", "Feature: Parrot house"],
-    },
-  },
+    }, image: "/poi-images/finland-heinola-bird-park-life-v2.webp"},
   {
     id: "finland-botanical-garden-oulu-life-v2",
     type: "park",
@@ -575,8 +558,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Az Oulu-i Egyetem része", "Több mint 4000 növényfaj", "Rómeó üvegház (16 m magas)", "A világ egyik legészakibb kertje"],
       ro: ["Parte a Universității Oulu", "Peste 4000 specii de plante", "Sera Romeo (16 m înălțime)", "Cea mai nordică grădină de gen"],
       en: ["Part of Oulu University", "Over 4000 plant species", "Romeo greenhouse (16 m high)", "One of the northernmost gardens"],
-    },
-  },
+    }, image: "/poi-images/finland-botanical-garden-oulu-life-v2.webp"},
   {
     id: "finland-kotka-sapokka-park-life-v2",
     type: "park",
@@ -607,8 +589,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["20 méter magas vízesés", "100+ lámpás éjszakai fények", "Környezetvédelmi nívódíj", "Több mint 100 növényfaj"],
       ro: ["Cascadă de 20 m înălțime", "Peste 100 de lumini nocturne", "Premiu pentru design ecologic", "Peste 100 specii de plante"],
       en: ["20-meter high waterfall", "Illuminated by 100+ lamps", "Environmental construction award", "Over 100 species of plants"],
-    },
-  },
+    }, image: "/poi-images/finland-kotka-sapokka-park-life-v2.webp"},
   {
     id: "finland-nuuksio-national-park-life-v2",
     type: "park",
@@ -639,8 +620,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Létrehozva: 1994-ben", "Terület: 45 km²", "Címerállat: Repülőmókus", "Tavak száma: 40 felett", "Látogatóközpont: Haltia", "Közelség: 30 km Helsinkitől"],
       ro: ["Anul înființării: 1994", "Suprafață: 45 km²", "Specie simbol: Veverița zburătoare", "Număr lacuri: Peste 40", "Centru vizitare: Haltia", "Trasee marcate: 33 km"],
       en: ["Established: 1994", "Total area: 45 sq km", "Emblem: Flying squirrel", "Lakes: Over 40", "Nature center: Haltia", "Trails: 33 km"],
-    },
-  },
+    }, image: "/poi-images/finland-nuuksio-national-park-life-v2.webp"},
   {
     id: "finland-sipoonkorpi-life-v2",
     type: "park",
@@ -671,8 +651,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Területe 18,5 km²", "Alapítva 2011-ben", "Legmagasabb pontja 80 m", "20 km-nél több túraútvonal"],
       ro: ["Suprafață de 18,5 km²", "Fondat în anul 2011", "Cel mai înalt punct (80 m)", "Peste 20 km de trasee"],
       en: ["Area of 18.5 km²", "Established in 2011", "Highest point at 80 m", "Over 20 km of marked trails"],
-    },
-  },
+    }, image: "/poi-images/finland-sipoonkorpi-life-v2.webp"},
   {
     id: "finland-hossa-national-park-life-v2",
     type: "park",
@@ -703,8 +682,7 @@ export const finlandLifeV2: POI[] = [
       hu: ["Finnország 40. nemzeti parkja", "Alapítva 2017-ben", "4000 éves sziklarajzok", "Több mint 90 km túraútvonal"],
       ro: ["Al 40-lea parc național", "Fondat în anul 2017", "Picturi vechi de 4000 de ani", "Peste 90 km de trasee"],
       en: ["Finland's 40th national park", "Established in 2017", "4000-year-old rock paintings", "Over 90 km of hiking trails"],
-    },
-  },
+    }, image: "/poi-images/finland-hossa-national-park-life-v2.webp"},
   {
     id: "finland-reovesi-wildlife-life-v2",
     type: "wildlife",

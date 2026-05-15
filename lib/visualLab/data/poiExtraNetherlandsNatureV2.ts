@@ -31,8 +31,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["1930-ban alapították, Hollandia első nemzeti parkja", "Terület: 5 600 hektár (56 km²)", "Legmagasabb pont: 110 m tengerszint felett", "Gímszarvas sűrűség: kb. 2 egyed/100 hektár", "Túrautak hossza: több mint 100 km", "Évente 1,5 millió látogató"],
       ro: ["Înființat în 1930, primul parc național din Țările de Jos", "Suprafață: 5.600 de hectare (56 km²)", "Altitudine maximă: 110 m deasupra nivelului mării", "Densitatea cerbului roșu: circa 2 indivizi la 100 ha", "Trasee de drumeție: peste 100 km", "1,5 milioane de vizitatori anual"],
       en: ["Established in 1930 as the first national park in the Netherlands", "Area: 5,600 hectares (56 km²)", "Highest point: 110 m above sea level", "Red deer density: approx. 2 animals per 100 ha", "Hiking trails: over 100 km", "Annual visitors: 1.5 million"],
-    },
-  },
+    }, image: "/poi-images/netherlands-veluwezoom-nature-v2.webp"},
   {
     id: "netherlands-oostvaardersplassen-nature-v2",
     type: "wildlife",
@@ -63,8 +62,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 5 600 hektár (56 km²)", "Az 1960-as években jött létre az elgátolás után", "Kb. 4000 konik ló él itt", "Gulipán költőpárok: több mint 1000", "A Natura 2000 hálózat része", "Évente 500 000 látogató"],
       ro: ["Suprafață: 5.600 de hectare (56 km²)", "Format în anii 1960 după îndiguire", "Aproximativ 4.000 de cai Konik", "Perechi cuibăritoare de ciocârlie de mare: peste 1.000", "Parte a rețelei Natura 2000", "500.000 de vizitatori anual"],
       en: ["Area: 5,600 hectares (56 km²)", "Formed in the 1960s after damming", "Approx. 4,000 Konik horses", "Breeding pairs of avocet: over 1,000", "Part of Natura 2000 network", "Annual visitors: 500,000"],
-    },
-  },
+    }, image: "/poi-images/netherlands-oostvaardersplassen-nature-v2.webp"},
   {
     id: "netherlands-schiermonnikoog-nature-v2",
     type: "island",
@@ -95,8 +93,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Sziget területe: 72 km².", "Nemzeti park 1989 óta.", "Lakosság: körülbelül 1 000 fő.", "Éves látogatók száma: mintegy 300 000.", "Árapályövezet területe: 40 km².", "Áttelelő örvös ludak: több mint 10 000."],
       ro: ["Suprafața insulei: 72 km².", "Parc național din 1989.", "Populație: aproximativ 1.000 de locuitori.", "Vizitatori anual: circa 300.000.", "Zone de maree: 40 km².", "Gâște de gâtul inelat iernante: peste 10.000."],
       en: ["Island area: 72 km².", "National park since 1989.", "Population: approximately 1,000.", "Annual visitors: about 300,000.", "Tidal flat area: 40 km².", "Wintering brent geese: over 10,000."],
-    },
-  },
+    }, image: "/poi-images/netherlands-schiermonnikoog-nature-v2.webp"},
   {
     id: "netherlands-loonse-en-drunense-duinen-nature-v2",
     type: "park",
@@ -127,8 +124,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 4000 hektár.", "Legmagasabb dűne: 30 méter.", "Éves látogatók: több mint 2 millió.", "Átlagos szélsebesség: 5 m/s.", "Kialakulás kezdete: 10 000 éve.", "Ritka faj: erdei pacsirta (Lullula arborea)."],
       ro: ["Suprafață: 4.000 de hectare.", "Înălțimea maximă a dunelor: 30 de metri.", "Vizitatori anual: peste 2 milioane.", "Viteza medie a vântului: 5 m/s.", "Începutul formării: acum 10.000 de ani.", "Specie rară: ciocârlia de pădure (Lullula arborea)."],
       en: ["Area: 4,000 hectares.", "Highest dune: up to 30 meters.", "Annual visitors: over 2 million.", "Average wind speed: 5 m/s.", "Formation began: 10,000 years ago.", "Rare species: woodlark (Lullula arborea)."],
-    },
-  },
+    }, image: "/poi-images/netherlands-loonse-en-drunense-duinen-nature-v2.webp"},
   {
     id: "netherlands-sallandse-heuvelrug-nature-v2",
     type: "park",
@@ -159,8 +155,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Hossz: körülbelül 35 kilométer.", "Legmagasabb pont: Koninklijke Hoogte, 75 m NAP felett.", "Nemzeti park 2004 óta.", "Nemzeti park területe: 5000 hektár.", "Úthálózat: több mint 150 kilométer.", "Madárfaj: lappantyú (Caprimulgus europaeus)."],
       ro: ["Lungime: aproximativ 35 de kilometri.", "Cel mai înalt punct: Koninklijke Hoogte, 75 m deasupra NAP.", "Parc național din 2004.", "Suprafața parcului național: 5.000 de hectare.", "Rețea de trasee: peste 150 de kilometri.", "Specie de pasăre: caprimulg (Caprimulgus europaeus)."],
       en: ["Length: about 35 kilometers.", "Highest point: Koninklijke Hoogte, 75 m above NAP.", "National park since 2004.", "National park area: 5,000 hectares.", "Trail network: over 150 kilometers.", "Bird species: nightjar (Caprimulgus europaeus)."],
-    },
-  },
+    }, image: "/poi-images/netherlands-sallandse-heuvelrug-nature-v2.webp"},
   {
     id: "netherlands-weerribben-wieden-nature-v2",
     type: "lake",
@@ -191,8 +186,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 10 000 hektár (100 km²)", "Nádaratás: évente 1 200 hektár", "Barna rétihéja költőpárok: kb. 50", "Kenuzható útvonal: 150 km", "Nemzeti park része 2009 óta", "Évente 200 000 látogató"],
       ro: ["Suprafață: 10.000 de hectare (100 km²)", "Cositul stufului: 1.200 ha anual", "Perechi cuibăritoare de erete de stuf: circa 50", "Trasee de canoe: 150 km", "Parte a parcului național din 2009", "200.000 de vizitatori anual"],
       en: ["Area: 10,000 hectares (100 km²)", "Reed cutting: 1,200 ha annually", "Breeding pairs of marsh harrier: about 50", "Canoe routes: 150 km", "Part of national park since 2009", "Annual visitors: 200,000"],
-    },
-  },
+    }, image: "/poi-images/netherlands-weerribben-wieden-nature-v2.webp"},
   {
     id: "netherlands-dwingelderveld-nature-v2",
     type: "park",
@@ -223,8 +217,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 3 700 hektár (37 km²)", "Tőzegvastagság: akár 6 m", "Nagy goda költőpárok: kb. 30", "Birkaállomány: 400 juh", "Túraútvonal: 50 km", "Évente 60 000 látogató"],
       ro: ["Suprafață: 3.700 de hectare (37 km²)", "Grosimea turbei: până la 6 m", "Perechi cuibăritoare de nagâț: circa 30", "Turmă de oi: 400 de oi de miriște", "Trasee de drumeție: 50 km", "60.000 de vizitatori anual"],
       en: ["Area: 3,700 hectares (37 km²)", "Peat depth: up to 6 meters", "Breeding pairs of curlew: about 30", "Sheep flock: 400 heath sheep", "Hiking trails: 50 km", "Annual visitors: 60,000"],
-    },
-  },
+    }, image: "/poi-images/netherlands-dwingelderveld-nature-v2.webp"},
   {
     id: "netherlands-lauwersmeer-nature-v2",
     type: "lake",
@@ -255,8 +248,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 9 000 hektár (90 km²)", "1969-ben jött létre az elgátolás után", "Maximális vízmélység: 4 m", "Pihenő ludak: akár 100 000 télen", "Túraútvonal: 120 km", "Évente 300 000 látogató"],
       ro: ["Suprafață: 9.000 de hectare (90 km²)", "Format în 1969 după îndiguire", "Adâncime maximă a apei: 4 m", "Gâște în odihnă: până la 100.000 iarna", "Trasee de drumeție: 120 km", "300.000 de vizitatori anual"],
       en: ["Area: 9,000 hectares (90 km²)", "Created in 1969 after damming", "Maximum water depth: 4 m", "Resting geese: up to 100,000 in winter", "Hiking trails: 120 km", "Annual visitors: 300,000"],
-    },
-  },
+    }, image: "/poi-images/netherlands-lauwersmeer-nature-v2.webp"},
   {
     id: "netherlands-kennemer-duinen-nature-v2",
     type: "park",
@@ -287,8 +279,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 5 400 hektár (54 km²)", "Legmagasabb dűne: 30 m", "Ivóvíz-kitermelés: évi 10 millió m³", "Madárfajok: több mint 100 költőfaj", "Túraútvonal: 70 km", "Évente 1,2 millió látogató"],
       ro: ["Suprafață: 5.400 de hectare (54 km²)", "Cea mai înaltă dună: 30 m", "Extracție apă potabilă: 10 milioane m³ anual", "Specii de păsări: peste 100 cuibăritoare", "Trasee de drumeție: 70 km", "1,2 milioane de vizitatori anual"],
       en: ["Area: 5,400 hectares (54 km²)", "Highest dune: 30 m", "Drinking water extraction: 10 million m³ annually", "Bird species: over 100 breeding species", "Hiking trails: 70 km", "Annual visitors: 1.2 million"],
-    },
-  },
+    }, image: "/poi-images/netherlands-kennemer-duinen-nature-v2.webp"},
   {
     id: "netherlands-geulvallei-nature-v2",
     type: "valley",
@@ -383,8 +374,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 2 500 hektár (25 km²)", "Megnyitás: 2010", "Vízisport terület: 200 hektár tó", "Madárfajok: több mint 150", "Megfigyelőtornyok: 3", "Évente 1 millió látogató"],
       ro: ["Suprafață: 2.500 de hectare (25 km²)", "Inaugurare: 2010", "Suprafață pentru sporturi nautice: 200 ha lac", "Specii de păsări: peste 150 observate", "Turnuri de observație: 3", "1 milion de vizitatori anual"],
       en: ["Area: 2,500 hectares (25 km²)", "Opened: 2010", "Water sports area: 200 ha lake", "Bird species: over 150 observed", "Observation towers: 3", "Annual visitors: 1 million"],
-    },
-  },
+    }, image: "/poi-images/netherlands-waterdunen-nature-v2.webp"},
   {
     id: "netherlands-vlietlanden-nature-v2",
     type: "lake",
@@ -415,8 +405,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 2 000 hektár (20 km²)", "Az 1970-es évek homokkitermeléséből jött létre", "Vízimadarak: több mint 30 000 télen", "Vízisport terület: 400 hektár", "Túraútvonal: 25 km", "Évente 600 000 látogató"],
       ro: ["Suprafață: 2.000 de hectare (20 km²)", "Format prin extragerea de nisip în anii 1970", "Păsări de apă: peste 30.000 iarna", "Suprafață pentru sporturi nautice: 400 ha", "Trasee de drumeție: 25 km", "600.000 de vizitatori anual"],
       en: ["Area: 2,000 hectares (20 km²)", "Created by sand extraction in the 1970s", "Waterbirds: over 30,000 in winter", "Water sports area: 400 ha", "Hiking trails: 25 km", "Annual visitors: 600,000"],
-    },
-  },
+    }, image: "/poi-images/netherlands-vlietlanden-nature-v2.webp"},
   {
     id: "netherlands-oostelijk-vechtplassen-nature-v2",
     type: "lake",
@@ -447,8 +436,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 2 500 hektár (25 km²)", "Tőzegkitermelés: 17. század", "Vízimadarak: 100 költőfaj", "Kenuzható útvonal: 50 km", "Látogatóközpont: Loosdrecht", "Évente 250 000 látogató"],
       ro: ["Suprafață: 2.500 de hectare (25 km²)", "Exploatarea turbei: secolul XVII", "Păsări de apă: 100 de specii cuibăritoare", "Trasee de canoe: 50 km", "Centru de vizitare: Loosdrecht", "250.000 de vizitatori anual"],
       en: ["Area: 2,500 hectares (25 km²)", "Peat extraction: 17th century", "Waterbirds: 100 breeding species", "Canoe routes: 50 km", "Visitor center: Loosdrecht", "Annual visitors: 250,000"],
-    },
-  },
+    }, image: "/poi-images/netherlands-oostelijk-vechtplassen-nature-v2.webp"},
   {
     id: "netherlands-kampina-nature-v2",
     type: "park",
@@ -479,8 +467,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Teljes terület: 1200 hektár.", "A De Loonse en Drunense Duinen Nemzeti Park része.", "Növényfaj: harmatfű (Drosera).", "Állatfaj: nyuszt (Martes martes).", "Középkori hasznosítás: közös legelő.", "Folyó: Beerze."],
       ro: ["Suprafață totală: 1.200 de hectare.", "Parte a Parcului Național De Loonse en Drunense Duinen.", "Specie de plantă: roua cerului (Drosera).", "Specie animală: jderul de copac (Martes martes).", "Utilizare medievală: pășune comunală.", "Curs de apă: Beerze."],
       en: ["Total area: 1,200 hectares.", "Part of De Loonse en Drunense Duinen National Park.", "Plant species: sundew (Drosera).", "Animal species: pine marten (Martes martes).", "Medieval use: common pasture.", "Stream: Beerze."],
-    },
-  },
+    }, image: "/poi-images/netherlands-kampina-nature-v2.webp"},
   {
     id: "netherlands-zwin-nature-v2",
     type: "park",
@@ -511,8 +498,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 1,25 km².", "Kialakulás a 12. században.", "Éves látogatók: mintegy 200 000.", "Madárfaj: kanalasgém (Platalea leucorodia).", "Sós réti növény: sziksófű (Salicornia).", "Egykori bruggei kikötő."],
       ro: ["Suprafață: 1,25 km².", "Formare în secolul al XII-lea.", "Vizitatori anual: aproximativ 200.000.", "Specie de pasăre: lopătar (Platalea leucorodia).", "Plantă de sare: salsulă (Salicornia).", "Fost port pentru Bruges."],
       en: ["Area: 1.25 km².", "Formed in the 12th century.", "Annual visitors: about 200,000.", "Bird species: Eurasian spoonbill (Platalea leucorodia).", "Salt marsh plant: glasswort (Salicornia).", "Former harbor for Bruges."],
-    },
-  },
+    }, image: "/poi-images/netherlands-zwin-nature-v2.webp"},
   {
     id: "netherlands-dune-meijendel-nature-v2",
     type: "park",
@@ -543,8 +529,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 2000 hektár", "Legmagasabb dűne: kb. 40 méter tengerszint felett", "Kialakulás: kb. 1000 évvel ezelőtt", "Fészkelő madárfajok: több mint 60", "Ivóvíztermelés: évi 100 millió köbméter", "Éves látogatók száma: kb. 3 millió"],
       ro: ["Suprafață: 2.000 de hectare", "Înălțimea maximă a dunelor: aproximativ 40 de metri", "Formare: acum aproximativ 1.000 de ani", "Specii de păsări cuibăritoare: peste 60", "Producție de apă potabilă: 100 de milioane de metri cubi pe an", "Vizitatori pe an: circa 3 milioane"],
       en: ["Area: 2,000 hectares", "Highest dune: approximately 40 meters above sea level", "Formation: around 1,000 years ago", "Breeding bird species: over 60", "Drinking water production: 100 million cubic meters per year", "Annual visitors: approximately 3 million"],
-    },
-  },
+    }, image: "/poi-images/netherlands-dune-meijendel-nature-v2.webp"},
   {
     id: "netherlands-wieden-nature-v2",
     type: "lake",
@@ -575,8 +560,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: kb. 6000 hektár", "Tőzegkitermelés: 16-19. század", "Tavak mélysége: akár 2 méter", "Fészkelő madárfajok: több mint 100", "Csatornák hossza: kb. 150 km", "Szitakötőfajok száma: 40"],
       ro: ["Suprafață: circa 6.000 de hectare", "Extracția turbei: secolele XVI-XIX", "Adâncimea lacurilor: până la 2 metri", "Specii de păsări cuibăritoare: peste 100", "Lungimea canalelor: aproximativ 150 de kilometri", "Număr de specii de libelule: 40"],
       en: ["Area: approximately 6,000 hectares", "Peat extraction: 16th to 19th century", "Lake depth: up to 2 meters", "Breeding bird species: over 100", "Length of canals: about 150 kilometers", "Dragonfly species: 40"],
-    },
-  },
+    }, image: "/poi-images/netherlands-wieden-nature-v2.webp"},
   {
     id: "netherlands-bossen-van-schouwen-nature-v2",
     type: "forest",
@@ -639,8 +623,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 1500 hektár", "Tengerszint feletti magasság: 10 méter", "Tőzegkitermelés: középkortól a 20. századig", "Ramsari státusz: 1980", "Fészkelő madárpárok száma: évi kb. 50.000", "Túraútvonal hossza: 15 km"],
       ro: ["Suprafață: 1.500 de hectare", "Altitudine: 10 metri deasupra nivelului mării", "Extracția turbei: din Evul Mediu până în secolul XX", "Desemnare Ramsar: 1980", "Perechi de păsări cuibăritoare: aproximativ 50.000 anual", "Traseu de drumeție: 15 km de trasee marcate"],
       en: ["Area: 1,500 hectares", "Elevation: 10 meters above sea level", "Peat extraction: Middle Ages until 20th century", "Ramsar designation: 1980", "Breeding bird pairs: about 50,000 annually", "Hiking trail: 15 km of marked routes"],
-    },
-  },
+    }, image: "/poi-images/netherlands-groote-peel-nature-v2.webp"},
   {
     id: "netherlands-schoorlse-duinen-nature-v2",
     type: "park",
@@ -671,8 +654,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 1800 hektár", "Legmagasabb dűne: 60 méter", "Szélesség: akár 5 km", "Fészkelő madárfajok: 30", "Túraútvonal: 40 km jelzett út", "Látogatóközpont: 1995 óta nyitva"],
       ro: ["Suprafață: 1.800 de hectare", "Înălțimea maximă a dunelor: 60 de metri", "Lățime: până la 5 kilometri", "Specii de păsări cuibăritoare: 30", "Trasee de drumeție: 40 km de rute marcate", "Centrul de vizitare: deschis din 1995"],
       en: ["Area: 1,800 hectares", "Highest dune: 60 meters", "Width: up to 5 kilometers", "Breeding bird species: 30", "Hiking trails: 40 km of marked routes", "Visitor center: opened in 1995"],
-    },
-  },
+    }, image: "/poi-images/netherlands-schoorlse-duinen-nature-v2.webp"},
   {
     id: "netherlands-salentse-bos-nature-v2",
     type: "forest",
@@ -703,8 +685,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 300 hektár", "Legmagasabb pont: 15 méter tengerszint felett", "Kastély építése: 18. század (1730)", "Fafajok: 3 fő faj", "Patak hossza: 2 km", "Éves látogatók: kb. 200.000"],
       ro: ["Suprafață: 300 de hectare", "Altitudine maximă: 15 metri deasupra nivelului mării", "Construcția conacului: secolul al XVIII-lea (1730)", "Specii de arbori: 3 specii principale", "Lungimea pârâului: 2 kilometri", "Vizitatori pe an: circa 200.000"],
       en: ["Area: 300 hectares", "Highest point: 15 meters above sea level", "Estate built: 18th century (1730)", "Tree species: 3 main species", "Stream length: 2 kilometers", "Annual visitors: approximately 200,000"],
-    },
-  },
+    }, image: "/poi-images/netherlands-salentse-bos-nature-v2.webp"},
   {
     id: "netherlands-bergse-plas-nature-v2",
     type: "lake",
@@ -735,8 +716,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 100 hektár", "Maximális mélység: 40 méter", "Kialakulás: 1960-as évek", "Térfogat: kb. 20 millió köbméter", "Nyári vízhőmérséklet: akár 22°C", "Halfajok száma: 15"],
       ro: ["Suprafață: 100 de hectare", "Adâncime maximă: 40 de metri", "Formare: anii 1960", "Volum: aproximativ 20 de milioane de metri cubi", "Temperatura apei vara: până la 22°C", "Număr de specii de pești: 15"],
       en: ["Area: 100 hectares", "Maximum depth: 40 meters", "Formation: 1960s", "Volume: about 20 million cubic meters", "Summer water temperature: up to 22°C", "Number of fish species: 15"],
-    },
-  },
+    }, image: "/poi-images/netherlands-bergse-plas-nature-v2.webp"},
   {
     id: "netherlands-maasduinen-nature-v2",
     type: "park",
@@ -767,8 +747,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 4500 hektár", "Nemzeti Park: 1996-ban alapították", "Legmagasabb dűne: 30 méter tengerszint felett", "Növényfajok száma: 400", "Madárfajok: 150", "Túraútvonal: 100 km jelzett út"],
       ro: ["Suprafață: 4.500 de hectare", "Parcul Național: înființat în 1996", "Înălțimea maximă a dunelor: 30 de metri", "Număr de specii de plante: 400", "Specii de păsări: 150", "Traseu de drumeție: 100 km de rute marcate"],
       en: ["Area: 4,500 hectares", "National Park established: 1996", "Highest dune: 30 meters above sea level", "Number of plant species: 400", "Bird species: 150", "Hiking trail: 100 km of marked routes"],
-    },
-  },
+    }, image: "/poi-images/netherlands-maasduinen-nature-v2.webp"},
   {
     id: "netherlands-polder-arkemheen-nature-v2",
     type: "park",
@@ -799,8 +778,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 5000 hektár", "Gátépítés: 1350 után", "Tengerszint alatti magasság: 0-1 méter", "Fészkelő madárpárok: 10.000 évente", "Szürke ludak száma télen: 20.000", "Árkok hossza: 150 km"],
       ro: ["Suprafață: 5.000 de hectare", "Îndiguire: după 1350", "Altitudine: 0 până la 1 metru sub nivelul mării", "Perechi de păsări cuibăritoare: 10.000 anual", "Gâște cenușii iernante: 20.000", "Lungimea canalelor: 150 de kilometri"],
       en: ["Area: 5,000 hectares", "Diking: after 1350", "Elevation: 0 to 1 meter below sea level", "Breeding bird pairs: 10,000 annually", "Wintering greylag geese: 20,000", "Ditch length: 150 kilometers"],
-    },
-  },
+    }, image: "/poi-images/netherlands-polder-arkemheen-nature-v2.webp"},
   {
     id: "netherlands-kruisbergse-bos-nature-v2",
     type: "forest",
@@ -831,8 +809,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 600 hektár", "Legmagasabb pont: 40 méter tengerszint felett", "Sánc: 17. század (1672)", "Hanga terület: 100 hektár", "Kilátótorony magassága: 15 méter", "Túraútvonal: 20 km jelzett út"],
       ro: ["Suprafață: 600 de hectare", "Altitudine maximă: 40 de metri", "Fortificație: secolul al XVII-lea (1672)", "Suprafață de landă: 100 de hectare", "Înălțimea turnului de observație: 15 metri", "Traseu de drumeție: 20 km de rute marcate"],
       en: ["Area: 600 hectares", "Highest point: 40 meters above sea level", "Rampart: 17th century (1672)", "Heathland area: 100 hectares", "Observation tower height: 15 meters", "Hiking trail: 20 km of marked routes"],
-    },
-  },
+    }, image: "/poi-images/netherlands-kruisbergse-bos-nature-v2.webp"},
   {
     id: "netherlands-dwingelo-nature-v2",
     type: "park",
@@ -863,8 +840,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 1600 hektár", "Legmagasabb pont: 12 méter tengerszint felett", "Tőzeg mélysége: akár 2 méter", "Juhnyájak: 3 nyáj, összesen 600 állat", "Madárfajok: több mint 80 fészkelő faj", "Rádiótávcső átmérője: 25 méter"],
       ro: ["Suprafață: 1.600 de hectare", "Altitudine maximă: 12 metri", "Adâncimea turbei: până la 2 metri", "Turme de oi: 3 turme, 600 de oi", "Specii de păsări: peste 80 de specii cuibăritoare", "Diametrul radiotelescopului: 25 de metri"],
       en: ["Area: 1,600 hectares", "Highest point: 12 meters above sea level", "Peat depth: up to 2 meters", "Sheep flocks: 3 flocks totaling 600 sheep", "Bird species: over 80 breeding species", "Radio telescope diameter: 25 meters"],
-    },
-  },
+    }, image: "/poi-images/netherlands-dwingelo-nature-v2.webp"},
   {
     id: "netherlands-oostwaard-nature-v2",
     type: "park",
@@ -895,8 +871,7 @@ export const netherlandsNatureV2: POI[] = [
       hu: ["Terület: 2000 hektár", "Szárazzá tétel: 1950-es évek", "Átlagos tengerszint alatti magasság: 4 méter", "Vízimadár fajok: 50", "Téli ludak: 30.000 évente", "Szarvasmarha állomány: 500 egyed"],
       ro: ["Suprafață: 2.000 de hectare", "Uscare: anii 1950", "Altitudine: medie de 4 metri sub nivelul mării", "Specii de păsări acvatice: 50", "Gâște iernante: 30.000 pe an", "Efectiv de bovine: 500 de capete"],
       en: ["Area: 2,000 hectares", "Drainage: 1950s", "Elevation: average 4 meters below sea level", "Waterbird species: 50", "Wintering geese: 30,000 annually", "Cattle stock: 500 head"],
-    },
-  },
+    }, image: "/poi-images/netherlands-oostwaard-nature-v2.webp"},
   {
     id: "netherlands-boschplaat-nature-v2",
     type: "park",

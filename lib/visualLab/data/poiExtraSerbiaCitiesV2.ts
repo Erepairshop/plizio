@@ -31,8 +31,7 @@ export const serbiaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 15 000 (város), 37 000 (község)", "Tengerszint feletti magasság: 440 m", "A község területe: 827 km²", "A Belgrád–Bar vasútvonal hossza a városon áthaladva: 30 km", "A város első említése: 1274", "Textilgyárak száma: 5 nagy üzem"],
       ro: ["Populație: aprox. 15.000 (oraș), 37.000 (municipiu)", "Altitudine: 440 m deasupra nivelului mării", "Suprafața municipiului: 827 km²", "Lungimea căii ferate Belgrad–Bar prin oraș: 30 km", "Prima mențiune a orașului: 1274", "Numărul de fabrici textile: 5 unități mari"],
       en: ["Population: approx. 15,000 (town), 37,000 (municipality)", "Elevation: 440 m (1,444 ft) above sea level", "Municipality area: 827 km² (319 sq mi)", "Length of Belgrade–Bar railway through town: 30 km (19 mi)", "First mentioned: 1274", "Number of textile factories: 5 major plants"],
-    },
-  },
+    }, image: "/poi-images/serbia-prijepolje-cities-v2.webp"},
   {
     id: "serbia-loznica-cities-v2",
     type: "city",
@@ -63,8 +62,7 @@ export const serbiaCitiesV2: POI[] = [
       hu: ["1317-ben említik először írásban", "142 méteres tengerszint feletti magasság", "79 134 fős községi lakosság", "Vuk Karadžić szülőhelye közelében", "Jadarit ásványkincs lelőhelye", "A Gučevo-hegy lábánál fekszik"],
       ro: ["Atestat documentar în anul 1317", "Altitudine medie de 142 metri", "Populație municipală de 79.134 locuitori", "Zăcăminte masive de jadarit în zonă", "Proximitate față de râul Drina", "Muntele Gučevo atinge 779 m înălțime"],
       en: ["First historical mention in 1317", "Elevation: 142 meters above sea level", "Municipality population: 79,134", "Home to unique Jadarite lithium deposits", "Located on the banks of the Drina river", "Includes the historic Tronoša Monastery"],
-    },
-  },
+    }, image: "/poi-images/serbia-loznica-cities-v2.webp"},
   {
     id: "serbia-vladicin-han-cities-v2",
     type: "city",

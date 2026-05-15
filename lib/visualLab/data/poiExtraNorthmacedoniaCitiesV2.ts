@@ -31,8 +31,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       hu: ["Magasság: 1.350 m", "Lakosság: 5.500", "Alapítás: 14. század", "Makedonium épült: 1974", "Éves turisták: 30.000", "Hagyományos házak: 200"],
       ro: ["Altitudine: 1.350 m", "Populație: 5.500", "Fondat în secolul al XIV-lea", "Makedonium construit în 1974", "Turiști anual: 30.000", "Case tradiționale: 200"],
       en: ["Elevation: 1,350 m", "Population: 5,500", "Founded in the 14th century", "Makedonium built in 1974", "Annual tourists: 30,000", "Traditional houses: 200"],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-krusevo-cities-v2.webp"},
   {
     id: "northmacedonia-radovis-cities-v2",
     type: "city",
@@ -63,8 +62,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       hu: ["Lakosság: 16.000", "Magasság: 350 m", "Rizstermelés: 10.000 t évente", "Termálforrások: 3", "Római település: Kr.u. 2. század", "Őszi vásár: 1970 óta"],
       ro: ["Populație: 16.000", "Altitudine: 350 m", "Producția de orez: 10.000 t anual", "Izvoare termale: 3", "Așezare romană: secolul al II-lea d.Hr.", "Târg de toamnă: din 1970"],
       en: ["Population: 16,000", "Elevation: 350 m", "Rice production: 10,000 t annually", "Thermal springs: 3", "Roman settlement: 2nd century AD", "Autumn fair: since 1970"],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-radovis-cities-v2.webp"},
   {
     id: "northmacedonia-kriva-palanka-cities-v2",
     type: "city",
@@ -95,8 +93,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       hu: ["Első említés: 1633.", "Lakosság: 20 000 (2021).", "Tengerszint feletti magasság: 700 m.", "Város területe: 480 km².", "Általános iskolák száma: 4.", "Távolság Szkopjétól: 90 km."],
       ro: ["Prima mențiune: 1633.", "Populație: 20.000 (2021).", "Altitudine: 700 m deasupra nivelului mării.", "Suprafața orașului: 480 km².", "Număr de școli primare: 4.", "Distanța față de Skopje: 90 km."],
       en: ["First mentioned in 1633.", "Population: 20,000 (2021).", "Elevation: 700 m (2,297 ft) above sea level.", "Town area: 480 km².", "Number of primary schools: 4.", "Distance from capital Skopje: 90 km (56 mi)."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-kriva-palanka-cities-v2.webp"},
   {
     id: "northmacedonia-valandovo-cities-v2",
     type: "city",
@@ -127,8 +124,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       hu: ["Lakosság: 4.000", "Magasság: 150 m", "Termálforrások: 5", "Gyümölcstermelés: 8.000 t évente", "Illír település: Kr.e. 4. század", "Valandovo fesztivál 1960 óta"],
       ro: ["Populație: 4.000", "Altitudine: 150 m", "Izvoare termale: 5", "Producția de fructe: 8.000 t anual", "Așezare iliră: secolul al IV-lea î.Hr.", "Festivalul Valandovo din 1960"],
       en: ["Population: 4,000", "Elevation: 150 m", "Thermal springs: 5", "Fruit production: 8,000 t annually", "Illyrian settlement: 4th century BC", "Valandovo Festival since 1960"],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-valandovo-cities-v2.webp"},
   {
     id: "northmacedonia-pehcovo-cities-v2",
     type: "city",
@@ -191,8 +187,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       hu: ["Berovo lakossága 2021-ben kb. 7.000 fő.", "A város 850 méter magasan fekszik.", "A Berovo-tó 0,5 km² területű, 1965-ben létesült.", "A Szent Illés-kolostor a 19. században épült.", "A Berovo Nyár fesztivált 1995 óta rendezik.", "A város évi átlaghőmérséklete 10°C."],
       ro: ["Populația orașului Berovo este de aproximativ 7.000 de locuitori.", "Altitudinea medie este de 850 m.", "Lacul Berovo are o suprafață de 0,5 km² și o adâncime maximă de 15 m.", "Biserica Sfântul Arhanghel Mihail a fost construită în 1860.", "Berovo se află la 150 km de Skopje.", "Precipitațiile anuale sunt de aproximativ 700 mm."],
       en: ["Berovo's population is about 7,000 as of 2021.", "It lies at an elevation of 850 m in the Maleševo Mountains.", "Berovo Lake was created in 1965 and spans 0.5 km².", "The Church of St. Michael the Archangel dates from 1860.", "Annual precipitation is around 700 mm.", "Distance to Skopje is 150 km."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-berovo-cities-v2.webp"},
   {
     id: "northmacedonia-sveti-nikole-cities-v2",
     type: "city",
@@ -223,8 +218,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       hu: ["Sveti Nikole lakossága kb. 13.000 fő.", "A város 290 m magasan fekszik.", "Első említése 1313-ból származik.", "Bargala régészeti lelőhely a 4. századból való.", "Az évi középhőmérséklet 13°C.", "A község területe 483 km²."],
       ro: ["Populația orașului Sveti Nikole este de aproximativ 13.000 de locuitori.", "Altitudinea este de 290 m.", "Prima mențiune documentară datează din 1313.", "Situl arheologic Bargala datează din secolul al IV-lea.", "Temperatura medie anuală este de 13°C.", "Suprafața municipiului este de 483 km²."],
       en: ["Population is about 13,000 (2021 census).", "Sveti Nikole lies at 290 m elevation.", "First mentioned in written records in 1313.", "Bargala archaeological site dates from the 4th century.", "Average annual temperature is 13°C.", "Municipality area is 483 km²."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-sveti-nikole-cities-v2.webp"},
   {
     id: "northmacedonia-vinica-cities-v2",
     type: "city",
@@ -255,8 +249,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       hu: ["Vinica lakossága kb. 10.000 fő.", "A város 400 m magasan fekszik.", "A Vinica-erőd a 4. századból származik.", "Évente 2 millió tetőcserepet gyártanak.", "A község területe 435 km².", "Távolság Kočanitól: 15 km."],
       ro: ["Populația orașului Vinica este de aproximativ 10.000 de locuitori.", "Altitudinea este de 400 m.", "Cetatea Vinica datează din secolul al IV-lea d.Hr.", "Producția anuală de țigle ceramice este de 2 milioane de unități.", "Suprafața municipiului este de 435 km².", "Distanța până la Kočani este de 15 km."],
       en: ["Population is about 10,000.", "Elevation is 400 m.", "Vinica Fortress dates from the 4th century AD.", "Annual ceramic tile production reaches 2 million units.", "Municipality area is 435 km².", "Distance to Kočani is 15 km."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-vinica-cities-v2.webp"},
   {
     id: "northmacedonia-demirkapija-cities-v2",
     type: "city",
@@ -287,8 +280,7 @@ export const northmacedoniaCitiesV2: POI[] = [
       hu: ["Demir Kapija lakossága kb. 3.000 fő.", "A szurdok 6 km hosszú és 100 m mély.", "Prosek erődje a 12. századból származik.", "A város 115 m magasan fekszik.", "Az A1-es autópálya áthalad a városon.", "Az évi középhőmérséklet 14°C."],
       ro: ["Populația orașului Demir Kapija este de aproximativ 3.000 de locuitori.", "Defileul are 6 km lungime și pereți de până la 100 m.", "Cetatea Prosek datează din secolul al XII-lea.", "Altitudinea este de 115 m.", "Autostrada A1 traversează orașul.", "Temperatura medie anuală este de 14°C."],
       en: ["Population is approximately 3,000.", "The gorge is 6 km long with cliffs up to 100 m.", "Prosek Fortress dates from the 12th century.", "Elevation is 115 m.", "Highway A1 passes through the town.", "Average annual temperature is 14°C."],
-    },
-  },
+    }, image: "/poi-images/northmacedonia-demirkapija-cities-v2.webp"},
   {
     id: "northmacedonia-kratovo-cities-v2",
     type: "city",

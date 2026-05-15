@@ -1263,8 +1263,7 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
       hu: ["Megnyitás éve: 1962", "Építész: Patroklos Karantinos", "Itt látható a derveni kratér", "Szindoszi aranyleletek gyűjteménye"],
       ro: ["Inaugurat în anul 1962", "Arhitect: Patroklos Karantinos", "Expune celebrul crater din Derveni", "Tezaur de aur din mormintele Sindos"],
       en: ["Opened in 1962", "Architect: Patroklos Karantinos", "Derveni Krater on display", "Gold treasures from Sindos graves"],
-    },
-  }
+    }, image: "/poi-images/greece-archaeological-museum-thessaloniki-landmarks-v2.webp"}
 ,
   {
     id: "greece-temple-athena-nike-landmarks-v2",
