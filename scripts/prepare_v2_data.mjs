@@ -79,18 +79,15 @@ for (const poi of all) {
 }
 console.log(`Parent-fix: ${fixed} POIs updated`);
 
-// === STEP 4: Write JSON in CHUNKS (one big array causes Webpack/Turbopack stack overflow) ===
+// === STEP 4: Write JSON in CHUNKS (fixed 11 chunks; empty padding if fewer POIs) ===
+// allCountryPois.ts imports 11 fixed chunk filenames, so we ALWAYS write 11.
 const CHUNK_SIZE = 5000;
-const numChunks = Math.ceil(all.length / CHUNK_SIZE);
-const indexList = [];
-for (let i = 0; i < numChunks; i++) {
+const FIXED_CHUNKS = 11;
+for (let i = 0; i < FIXED_CHUNKS; i++) {
   const chunk = all.slice(i * CHUNK_SIZE, (i + 1) * CHUNK_SIZE);
   const name = `_all_v2_pois_${String(i).padStart(2, "0")}.json`;
   const fp = path.join(DATA, name);
   fs.writeFileSync(fp, JSON.stringify(chunk));
-  indexList.push(name);
   console.log(`  chunk ${i}: ${chunk.length} POIs → ${name} (${(fs.statSync(fp).size / 1024 / 1024).toFixed(1)} MB)`);
 }
-// Write an index file so allCountryPois.ts can import deterministically
-fs.writeFileSync(path.join(DATA, "_all_v2_pois_index.json"), JSON.stringify(indexList));
-console.log(`\nTotal: ${all.length} POIs across ${numChunks} chunks`);
+console.log(`\nTotal: ${all.length} POIs across ${FIXED_CHUNKS} fixed chunks`);
