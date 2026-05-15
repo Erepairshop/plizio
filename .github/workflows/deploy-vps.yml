@@ -40,10 +40,10 @@ jobs:
 
       - run: npm ci
 
-      - name: Generate V2 POI JSON (avoids V8 stack overflow)
+      - name: Generate V2 POI JSON
         run: npx tsx scripts/prepare_v2_data.mjs
 
-      - name: Build (static export → out/)
+      - name: Build (Next runtime — ISR/dynamic)
         env:
           NODE_OPTIONS: --max-old-space-size=12288 --require=./scripts/v8_apply_patch.js
           NEXT_BUILD_WORKERS: '2'
@@ -51,37 +51,63 @@ jobs:
           GSP_LIMIT: '50000'
         run: npm run build
 
-      - name: Verify out/ produced
-        run: test -f out/index.html && test -d out/_next
+      - name: Verify .next/ produced
+        run: test -d .next/server && test -f .next/BUILD_ID
 
-      - name: Local atomic release + activate
+      - name: Atomic release + PM2 reload
         run: |
           set -euo pipefail
           TS=$(date -u +%Y%m%d-%H%M%S)
           REL_DIR="${{ env.RELEASE_BASE }}/releases/${TS}"
           mkdir -p "$REL_DIR"
-          # Fast local copy — runner is on the same VPS as the deploy target
-          cp -a out/. "$REL_DIR"/
-          test -f "$REL_DIR/index.html" && test -d "$REL_DIR/_next"
-          # Ensure www-data can traverse + read
-          chmod 755 "$REL_DIR"
+          # Copy runtime artifacts only (.next + public + package.json + ecosystem)
+          cp -a .next "$REL_DIR"/
+          cp -a public "$REL_DIR"/ 2>/dev/null || mkdir "$REL_DIR/public"
+          cp package.json "$REL_DIR"/
+          cp package-lock.json "$REL_DIR"/
+          cp ecosystem.config.js "$REL_DIR"/
+          # node_modules: install fresh in release dir (production only)
+          (cd "$REL_DIR" && npm ci --omit=dev --no-audit --no-fund --prefer-offline)
+          # Permissions
           find "$REL_DIR" -type d -exec chmod 755 {} +
           find "$REL_DIR" -type f -exec chmod 644 {} +
-          # Atomic symlink swap (rename(2) is atomic on POSIX)
+          chmod -R +x "$REL_DIR/node_modules/.bin" 2>/dev/null || true
+          # Atomic symlink swap
           ln -sfn "$REL_DIR" "${{ env.RELEASE_BASE }}/current.new"
           mv -Tf "${{ env.RELEASE_BASE }}/current.new" "${{ env.RELEASE_BASE }}/current"
+          # PM2 reload (zero-downtime); if not yet started, start it
+          mkdir -p "${{ env.RELEASE_BASE }}/logs"
+          if pm2 describe plizio > /dev/null 2>&1; then
+            pm2 reload plizio --update-env
+          else
+            pm2 start "${{ env.RELEASE_BASE }}/current/ecosystem.config.js"
+            pm2 save
+          fi
           # Prune old releases — keep newest N
           ls -1dt "${{ env.RELEASE_BASE }}"/releases/*/ 2>/dev/null \
             | tail -n +$((${{ env.KEEP_RELEASES }} + 1)) | xargs -r rm -rf
-          # Reload nginx (passwordless sudo configured)
+          # Update nginx config if changed (proxy_pass to Next :3000)
+          if ! cmp -s deploy/nginx/plizio.conf /etc/nginx/sites-enabled/plizio.conf 2>/dev/null; then
+            sudo cp deploy/nginx/plizio.conf /etc/nginx/sites-enabled/plizio.conf
+            sudo nginx -t
+          fi
           sudo systemctl reload nginx
           echo "DEPLOYED: $REL_DIR"
 
       - name: Smoke test
         run: |
           set -euo pipefail
-          STATUS=$(curl -sS -o /tmp/out.html -w "%{http_code}" http://localhost/)
-          echo "HTTP $STATUS"
+          # Wait for PM2 process to bind to :3000
+          for i in 1 2 3 4 5 6 7 8 9 10; do
+            if curl -sf http://localhost:3000/ -o /dev/null; then break; fi
+            sleep 2
+          done
+          STATUS=$(curl -sS -o /tmp/out.html -w "%{http_code}" http://localhost:3000/)
+          echo "Next :3000 → HTTP $STATUS"
           test "$STATUS" = "200"
+          # Public via nginx
+          STATUS2=$(curl -sS -o /tmp/out2.html -w "%{http_code}" http://localhost/)
+          echo "Nginx :80 → HTTP $STATUS2"
+          test "$STATUS2" = "200"
           head -c 200 /tmp/out.html
           echo

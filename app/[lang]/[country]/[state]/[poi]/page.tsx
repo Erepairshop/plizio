@@ -38,7 +38,11 @@ import { getPoiImage } from "@/lib/seo/resolvePoiImage";
 import { getLearnMoreSuggestion, learnMoreCtaCopy } from "@/lib/seo/poiLearnMore";
 import { getFaqForPoi } from "@/lib/visualLab/data/faq";
 
-export const dynamicParams = false;
+// Hybrid ISR: pre-render top N (GSP_LIMIT) POI URLs at build, render the long-tail
+// on first request and cache 24h. dynamicParams=true allows on-demand rendering of
+// any valid POI URL not in the pre-rendered set.
+export const dynamicParams = true;
+export const revalidate = 86400;
 
 type Params = { lang: string; country: string; state: string; poi: string };
 
