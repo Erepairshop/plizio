@@ -863,7 +863,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Alapítás éve: 1780", "Harangtorony magassága: 25 méter", "Freskók száma: 12 jelenet", "Kolostorterület nagysága: 0,5 hektár", "Újranyitás éve: 1992", "Szerzetesek száma: 15 (2023-ban)"],
       ro: ["Anul fundației: 1780", "Înălțimea turnului clopotniță: 25 de metri", "Număr de fresce: 12 scene", "Suprafața terenului mănăstirii: 0,5 hectare", "Anul redeschiderii: 1992", "Număr de călugări: 15 (în 2023)"],
       en: ["Year founded: 1780", "Bell tower height: 25 meters", "Number of frescoes: 12 scenes", "Monastery grounds area: 0.5 hectares", "Year of reopening: 1992", "Number of monks: 15 (as of 2023)"],
-    }, image: "/poi-images/moldova-calaras-monastery-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-tiras-archaeological-site-history-v2",
     type: "ruins",
@@ -894,7 +895,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["3. evezred korai talÃ¡latok", "KerÃ¡mia darabok felfedezÃ©se", "Egy Ã³kori telepÃ¼lÃ©s maradvÃ¡nyai", "Ã–rÃ¶kÃ­thetÅ‘ eredmÃ©nyek a helyi tÃ¶rtÃ©net tanulmÃ¡nyozÃ¡sÃ¡ban"],
       ro: ["Articole din secolul al III-lea Ã®.Hr.", "Descoperiri de obiecte ceramice", "Resturi ale unei vechi colonii", "Locuri relevante pentru studiile istoriei locale"],
       en: ["Artifacts from the early 3rd millennium BCE", "Discovery of ceramic pieces", "Remnants of an ancient settlement", "Highly significant sites for local history studies"],
-    }, image: "/poi-images/moldova-tiras-archaeological-site-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-solonceni-ancient-ruins-history-v2",
     type: "ruins",
@@ -925,7 +927,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Kr. e. 4. évezredi eredet", "Rezina járás területén fekszik", "Cucuteni-Tripolje leletek", "50 hektáros kiterjedés", "Dnyeszter-parti fekvés", "Dák erődítmény nyomai"],
       ro: ["Datare din mileniul IV î.Hr.", "Raionul Rezina, malul Nistrului", "Cultura Cucuteni-Tripolie", "Suprafață de circa 50 hectare", "Vestigii geto-dacice identificate", "Unelte din silex și ceramică"],
       en: ["Origins date to 4000 BC", "Located in Rezina district", "Tripoli culture settlement", "Covers nearly 50 hectares", "Strategic Dniester river bank", "Rich in prehistoric ceramics"],
-    }, image: "/poi-images/moldova-solonceni-ancient-ruins-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-rauta-fortification-history-v2",
     type: "battlefield",
@@ -956,7 +959,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["14. századi építési időszak", "A Răut folyó kanyarulatánál", "3 méter mély védőárkok", "Középkori katonai erőd", "Földsáncos védelmi rendszer", "Közép-Moldva stratégiai pontja"],
       ro: ["Datată în secolul al XIV-lea", "Amplasată pe cursul Răutului", "Șanțuri de apărare de 3 metri", "Sistem defensiv din pământ", "Punct de control militar", "Arhitectură defensivă medievală"],
       en: ["Built in the 14th century", "Located along the Răut river", "3-meter deep defensive ditches", "Medieval military fortification", "Earthen rampart structures", "Strategic central Moldova site"],
-    }, image: "/poi-images/moldova-rauta-fortification-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-biserica-veche-history-v2",
     type: "church",
@@ -1019,7 +1023,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Építés éve: 1836", "Szobák száma: 25", "Kupola magassága: 12 méter", "Park területe: 3 hektár", "Kisajátítás éve: 1940", "Restaurálás költsége: 1,5 millió euró (becsült)"],
       ro: ["Anul construcției: 1836", "Număr de camere: 25", "Înălțimea cupolei: 12 metri", "Suprafața parcului: 3 hectare", "Anul exproprierii: 1940", "Costul restaurării: 1,5 milioane de euro (estimat)"],
       en: ["Year built: 1836", "Number of rooms: 25", "Dome height: 12 meters", "Park area: 3 hectares", "Year of expropriation: 1940", "Restoration cost: 1.5 million euros (estimated)"],
-    }, image: "/poi-images/moldova-valea-mare-mansion-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-dancu-burial-mounds-history-v2",
     type: "battlefield",
@@ -1050,7 +1055,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Szkíta és szarmata eredet", "8 méter magas halomsírok", "Hâncești járás területe", "Kurgán típusú temetkezés", "Ékszerleletek a sírokból", "Vaskori régészeti komplexum"],
       ro: ["Origini scitice și sarmatice", "Înălțime maximă de 8 metri", "Localizați în raionul Hâncești", "Tip de înhumare kurgan", "Cofete funerare cu inventar", "Datare în epoca fierului"],
       en: ["Scythian and Sarmatian origin", "Mounds up to 8 meters high", "Located in Hâncești district", "Kurgan burial style", "Grave goods like jewelry found", "Iron Age dating period"],
-    }, image: "/poi-images/moldova-dancu-burial-mounds-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-codru-museum-history-v2",
     type: "museum",
@@ -1081,7 +1087,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Alapítás éve: 1976", "Kiállítási tárgyak száma: több mint 10 000", "Kiállítótermek száma: 5", "Múzeumépület területe: 800 négyzetméter", "Régészeti leletek száma: 2000", "Éves látogatók száma: 15 000"],
       ro: ["Anul fondării: 1976", "Număr de exponate: peste 10.000", "Număr de săli de expoziție: 5", "Suprafața clădirii muzeului: 800 de metri pătrați", "Număr de piese arheologice: 2.000", "Număr de vizitatori anual: 15.000"],
       en: ["Year founded: 1976", "Number of exhibits: over 10,000", "Number of exhibition halls: 5", "Museum building area: 800 square meters", "Number of archaeological artifacts: 2,000", "Annual visitors: 15,000"],
-    }, image: "/poi-images/moldova-codru-museum-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-basarabeasca-old-rail-history-v2",
     type: "museum",
@@ -1112,7 +1119,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Építés éve: 1877", "Peronok hossza: 200 méter", "Fogadóépület magassága: 10 méter", "Eredeti vágányok száma: 4", "Személyforgalom megszűnése: 1998", "Műemlékké nyilvánítás: 2004"],
       ro: ["Anul construcției: 1877", "Lungimea peroanelor: 200 de metri", "Înălțimea clădirii gării: 10 metri", "Număr inițial de linii: 4", "Încetarea circulației de călători: 1998", "Înscrierea ca monument cultural: 2004"],
       en: ["Year built: 1877", "Length of platforms: 200 meters", "Height of station building: 10 meters", "Original number of tracks: 4", "Cessation of passenger service: 1998", "Registration as cultural monument: 2004"],
-    }, image: "/poi-images/moldova-basarabeasca-old-rail-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-glodeni-manor-history-v2",
     type: "palace",
@@ -1175,7 +1183,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Építés éve: 1820", "Kupola magassága: 15 méter", "Harangtorony magassága: 22 méter", "Harangok száma: 3", "Restaurálás éve: 1998", "Befogadóképesség: 500 fő"],
       ro: ["Anul construcției: 1820", "Înălțimea cupolei: 15 metri", "Înălțimea turnului clopotniță: 22 de metri", "Număr de clopote: 3", "Anul restaurării: 1998", "Capacitatea de persoane: 500"],
       en: ["Year built: 1820", "Dome height: 15 meters", "Bell tower height: 22 meters", "Number of bells: 3", "Restoration year: 1998", "Capacity: 500 people"],
-    }, image: "/poi-images/moldova-falesti-church-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-cantemir-memorial-history-v2",
     type: "monument",
@@ -1238,7 +1247,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Felavatás éve: 1975", "Obeliszk magassága: 12 méter", "Anyag: beton és gránit", "Össztömeg: 15 tonna", "Felújítás éve: 2014", "Bevésett nevek száma: 360"],
       ro: ["Anul inaugurării: 1975", "Înălțimea obeliscului: 12 metri", "Material: beton și granit", "Greutatea totală: 15 tone", "Anul renovării: 2014", "Număr de nume gravate: 360"],
       en: ["Year of inauguration: 1975", "Obelisk height: 12 meters", "Material: concrete and granite", "Total weight: 15 tons", "Renovation year: 2014", "Number of engraved names: 360"],
-    }, image: "/poi-images/moldova-crasnoe-monument-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-camenca-old-water-tower-history-v2",
     type: "tower",
@@ -1269,7 +1279,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Építés éve: 1910", "Magasság: 20 méter", "Tartály űrtartalma: 200 köbméter", "Falazat: tégla", "Leállítás éve: 1978", "Restaurálás éve: 2008"],
       ro: ["Anul construcției: 1910", "Înălțime: 20 de metri", "Volumul rezervorului: 200 de metri cubi", "Zidărie: cărămidă", "Anul dezafectării: 1978", "Anul restaurării: 2008"],
       en: ["Year built: 1910", "Height: 20 meters", "Tank volume: 200 cubic meters", "Masonry: brick", "Decommission year: 1978", "Restoration year: 2008"],
-    }, image: "/poi-images/moldova-camenca-old-water-tower-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-slobozia-church-history-v2",
     type: "church",
@@ -1300,7 +1311,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Építés éve: 1812", "Magasság: 10 méter", "Építőanyag: 80 köbméter tölgyfa", "Harangtorony magassága: 8 méter", "Bezárás éve: 1948", "Restaurálás éve: 1995"],
       ro: ["Anul construcției: 1812", "Înălțime: 10 metri", "Cherestea: 80 de metri cubi de stejar", "Înălțimea turnului clopotniță: 8 metri", "Anul închiderii: 1948", "Anul restaurării: 1995"],
       en: ["Year built: 1812", "Height: 10 meters", "Timber used: 80 cubic meters of oak", "Bell tower height: 8 meters", "Year of closure: 1948", "Restoration year: 1995"],
-    }, image: "/poi-images/moldova-slobozia-church-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-codru-estate-history-v2",
     type: "palace",
@@ -1331,7 +1343,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Az istálló építési éve: 1832", "A park területe: 40 hektár", "A család birtoklási időszaka: 1823–1940", "A kastély szobáinak száma: 24", "A mezőgazdasági kísérleti állomás alapításának éve: 1951", "A homlokzat hossza: 45 méter"],
       ro: ["Suprafața totală a domeniului: 120 de hectare", "Anul construirii conacului: 1825", "Numărul de coloane la intrare: 6", "Anul naționalizării: 1940", "Numărul de specii de arbori din parc: 62", "Înălțimea clădirii principale: 15 metri"],
       en: ["Main building constructed in 1825", "Estate area: 120 hectares", "Portico features 6 Ionic columns", "Estate nationalized in 1940", "Park contains 62 tree species", "Main building height: 15 meters"],
-    }, image: "/poi-images/moldova-codru-estate-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-cricova-archives-history-v2",
     type: "museum",
@@ -1426,7 +1439,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Az Arany Horda központja", "100 hektáros városi terület", "Ialoveni járás helyszíne", "Kőből épült közfürdők", "Fejlett kerámiaipar nyomai", "14. századi ezüstpénzek"],
       ro: ["Centru al Hoardei de Aur", "Situl ocupă 100 hectare", "Situat în raionul Ialoveni", "Băi publice din piatră", "Sistem de apeducte medieval", "Monede din secolul al XIV-lea"],
       en: ["Golden Horde regional hub", "100-hectare archaeological site", "Ialoveni district location", "Ruins of stone public baths", "Medieval water supply pipes", "14th-century coinage found"],
-    }, image: "/poi-images/moldova-costesti-fort-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-biruinta-history-center-history-v2",
     type: "museum",
@@ -1489,7 +1503,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Ungheni járás területén", "4-6. századi rétegek", "Földbe vájt veremházak", "12 hektáros park terület", "Fazekas kemencék maradványai", "Népvándorlás kori emlékek"],
       ro: ["Situat în raionul Ungheni", "Niveluri din secolele IV-VI", "Locuințe de tip bordei", "Suprafață de 12 hectare", "Cuptoare pentru ars ceramică", "Obiecte din epoca migrațiilor"],
       en: ["Located in Ungheni district", "4th-6th century layers", "Semi-subterranean pit-houses", "12-hectare park area", "Ancient pottery kilns", "Migration period evidence"],
-    }, image: "/poi-images/moldova-cornesti-archaeology-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-frunza-church-history-v2",
     type: "church",
@@ -1520,7 +1535,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Építés éve: 1756", "Harangtorony magassága: 18 méter", "A templom alapterülete: 120 m²", "A 19. századi freskók száma: 12", "Védetté nyilvánítás éve: 1990", "Távolság a legközelebbi várostól: 15 km"],
       ro: ["Anul construcției: 1756", "Înălțimea turnului clopotniță: 18 metri", "Suprafața bisericii: 120 m²", "Numărul de fresce din secolul al XIX-lea: 12", "Anul declarării ca monument istoric: 1990", "Distanța până la cel mai apropiat oraș: 15 km"],
       en: ["Built in 1756", "Bell tower height: 18 meters", "Church area: 120 m²", "Frescoes from 19th century: 12", "Listed monument in 1990", "Distance to nearest town: 15 km"],
-    }, image: "/poi-images/moldova-frunza-church-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-ghindesti-manor-history-v2",
     type: "palace",
@@ -1551,7 +1567,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Építés éve: 1820 körül", "Szobák száma: 20", "Park területe: 5 hektár", "Egzotikus fafajok száma: 10", "Iskolakénti működés évei: 1950–1990", "Tető felújításának éve: 2015"],
       ro: ["Anul construcției: circa 1820", "Numărul de camere: 20", "Suprafața parcului: 5 hectare", "Numărul de specii de arbori exotici: 10", "Perioada ca școală: 1950–1990", "Anul restaurării acoperișului: 2015"],
       en: ["Built around 1820", "Number of rooms: 20", "Park area: 5 hectares", "Exotic tree species: 10", "Used as school: 1950–1990", "Roof restoration year: 2015"],
-    }, image: "/poi-images/moldova-ghindesti-manor-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-iargara-heritage-history-v2",
     type: "museum",
@@ -1582,7 +1599,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Legrégebbi leletek: Kr. e. 4. évezred", "Ásatási helyek száma: 5", "Templom építési éve: 1750", "Kúria építési éve: 1860", "Védetté nyilvánítás éve: 2005", "Védett terület nagysága: 10 ha"],
       ro: ["Cele mai vechi descoperiri: mileniul IV î.Hr.", "Numărul de situri arheologice: 5", "Anul construirii bisericii: 1750", "Anul construirii conacului: 1860", "Anul declarării ca monument: 2005", "Suprafața zonei protejate: 10 ha"],
       en: ["Oldest finds: 4th millennium BC", "Archaeological sites: 5", "Church built: 1750", "Manor built: 1860", "Listed in 2005", "Protected area: 10 ha"],
-    }, image: "/poi-images/moldova-iargara-heritage-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-maiac-memorial-history-v2",
     type: "monument",
@@ -1613,7 +1631,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Építés éve: 1975", "Obelisz magassága: 15 méter", "Tömegsírok száma: 5", "Eltemetett áldozatok száma: 2000", "Felújítás éve: 2001", "Távolság a legközelebbi falutól: 2 km"],
       ro: ["Anul construcției: 1975", "Înălțimea obeliscului: 15 metri", "Numărul de gropi comune: 5", "Numărul victimelor înhumate: 2.000", "Anul renovării: 2001", "Distanța până la cel mai apropiat sat: 2 km"],
       en: ["Built in 1975", "Obelisk height: 15 meters", "Mass graves: 5", "Victims buried: 2,000", "Renovated in 2001", "Distance to nearest village: 2 km"],
-    }, image: "/poi-images/moldova-maiac-memorial-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-marculesti-archaeology-history-v2",
     type: "ruins",
@@ -1644,7 +1663,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Florești járás északi része", "Újkőkorszaki település", "Vonaldíszes kerámia kultúra", "Kőből készült sarlók", "Több korszakos lelőhely", "Korai földművelés nyomai"],
       ro: ["Amplasat în raionul Florești", "Așezare neolitică timpurie", "Cultura ceramicii liniare", "Seceri din piatră șlefuită", "Sit arheologic stratificat", "Primele dovezi de agricultură"],
       en: ["Located in Florești district", "Neolithic settlement site", "Linear Pottery culture", "Polished stone sickle finds", "Multi-layered archaeology", "Early farming documentation"],
-    }, image: "/poi-images/moldova-marculesti-archaeology-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-lipcani-old-district-history-v2",
     type: "museum",
@@ -1675,7 +1695,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Zsinagógák építési ideje: 1870–1900", "Legmagasabb zsinagóga magassága: 20 méter", "Felújított épületek száma: 12", "Lipcani lakossága 1900-ban: 15 000", "Zsidó lakosság aránya 1910-ben: 60%", "Távolság a határtól: 5 km"],
       ro: ["Perioada construirii sinagogilor: 1870–1900", "Înălțimea celei mai înalte sinagogi: 20 de metri", "Numărul de clădiri restaurate: 12", "Populația Lipcaniului în 1900: 15.000", "Procentul populației evreiești în 1910: 60%", "Distanța până la frontieră: 5 km"],
       en: ["Synagogues built: 1870–1900", "Tallest synagogue height: 20 meters", "Restored buildings: 12", "Lipcani population in 1900: 15,000", "Jewish population share in 1910: 60%", "Distance to border: 5 km"],
-    }, image: "/poi-images/moldova-lipcani-old-district-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-bucovat-manor-history-v2",
     type: "palace",
@@ -1738,7 +1759,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Alapítás éve: 1970", "Kiállítások: több mint 5.000", "Kiállítási terület: 400 m²", "Helyszín: Tvardița, Taraclia rajon", "Fő téma: bolgár kisebbség Besszarábiában", "Éves látogatók: kb. 3.000"],
       ro: ["Anul înființării: 1970", "Exponate: peste 5.000", "Suprafața expozițională: 400 m²", "Locație: Tvardița, raionul Taraclia", "Tema principală: minoritatea bulgară din Basarabia", "Vizitatori anuali: aproximativ 3.000"],
       en: ["Year founded: 1970", "Exhibits: over 5,000", "Exhibition space: 400 m²", "Location: Tvardița, Taraclia district", "Main theme: Bulgarian minority in Bessarabia", "Annual visitors: about 3,000"],
-    }, image: "/poi-images/moldova-tvardita-museum-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-vadul-lui-voda-park-history-v2",
     type: "park",
@@ -1769,7 +1791,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Park területe: 50 hektár", "Fafajok száma: 100", "Sétányok hossza: 5 km", "Létesítés éve: 1850", "Múzeum megnyitása: 1995", "Felújítás éve: 2010"],
       ro: ["Suprafața parcului: 50 de hectare", "Numărul de specii de arbori: 100", "Lungimea aleilor: 5 km", "Anul amenajării: 1850", "Anul deschiderii muzeului: 1995", "Anul renovării: 2010"],
       en: ["Park area: 50 hectares", "Tree species: 100", "Avenue length: 5 km", "Established in 1850", "Museum opened in 1995", "Renovated in 2010"],
-    }, image: "/poi-images/moldova-vadul-lui-voda-park-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-grigoriopol-church-history-v2",
     type: "church",
@@ -1832,7 +1855,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Város alapításának éve: 1856", "Történelmi épületek száma: 80", "Vasútépítés éve: 1877", "Legmagasabb épület: 15 méter", "Népesség 1900-ban: 5000", "Főutca hossza: 1,2 km"],
       ro: ["Anul fondării orașului: 1856", "Numărul de clădiri istorice: 80", "Anul construirii căii ferate: 1877", "Cea mai înaltă clădire: 15 metri", "Populația în 1900: 5.000", "Lungimea străzii principale: 1,2 km"],
       en: ["Town founded in 1856", "Historic buildings: 80", "Railway built in 1877", "Tallest building: 15 meters", "Population in 1900: 5,000", "Main street length: 1.2 km"],
-    }, image: "/poi-images/moldova-basarabeasca-old-city-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-cimislia-history-collection-history-v2",
     type: "museum",
@@ -1959,7 +1983,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Építés éve: 15. század", "Magasság: 12 méter", "Alapterület: 6×6 méter", "Falvastagság: 1,5 méter", "Elhagyás éve: 1750", "Éves látogatók: 10 000"],
       ro: ["Anul construirii: secolul al XV-lea", "Înălțimea: 12 metri", "Dimensiunea bazei: 6×6 metri", "Grosimea pereților: 1,5 metri", "Anul abandonării: 1750", "Vizitatori pe an: 10.000"],
       en: ["Built in 15th century", "Height: 12 meters", "Base: 6×6 meters", "Wall thickness: 1.5 meters", "Abandoned in 1750", "Annual visitors: 10,000"],
-    }, image: "/poi-images/moldova-rezina-old-tower-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-riscani-church-history-v2",
     type: "church",
@@ -2022,7 +2047,8 @@ export const moldovaHistoryV2: POI[] = [
       hu: ["Alapítás éve: 1985", "Tárgyak száma: 12 000", "Kiállítási terület: 600 m²", "Néprajzi darabok száma: 5000", "Éves látogatók: 7000", "Műhelyek száma évente: 20"],
       ro: ["Anul înființării: 1985", "Numărul de obiecte: 12.000", "Suprafața expozițională: 600 m²", "Numărul de piese etnografice: 5.000", "Vizitatori pe an: 7.000", "Numărul de ateliere organizate anual: 20"],
       en: ["Founded in 1985", "Objects: 12,000", "Exhibition space: 600 m²", "Ethnographic pieces: 5,000", "Annual visitors: 7,000", "Workshops per year: 20"],
-    }, image: "/poi-images/moldova-singerei-museum-history-v2.webp"},
+    },
+  },
   {
     id: "moldova-ocnita-old-manor-history-v2",
     type: "palace",

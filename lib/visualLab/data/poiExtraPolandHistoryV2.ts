@@ -989,7 +989,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["A torony a 14. században épült.", "Magassága 32 m.", "A torony egy 50 m átmérőjű szigeten áll.", "A Gopło-tó területe 21,8 km².", "A vár a 13. században épült.", "Popiel király legendája a 12. századból származik."],
       ro: ["Turnul a fost construit în secolul al XIV-lea.", "Înălțimea este de 32 m.", "Turnul se află pe o insulă cu diametrul de 50 m.", "Lacul Gopło are o suprafață de 21,8 km².", "Castelul a fost construit în secolul al XIII-lea.", "Legenda regelui Popiel datează din secolul al XII-lea."],
       en: ["The tower was built in the 14th century.", "Height is 32 m.", "The tower stands on an island 50 m in diameter.", "Lake Gopło covers 21.8 km².", "The castle was built in the 13th century.", "The legend of King Popiel dates from the 12th century."],
-    }, image: "/poi-images/poland-kruszwica-mouse-tower-history-v2.webp"},
+    },
+  },
   {
     id: "poland-kwidzyn-cathedral-complex-history-v2",
     type: "cathedral",
@@ -1020,7 +1021,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["A székesegyház a 14. században épült.", "A vár tornya 60 m magas.", "A vár építése 1325-ben kezdődött.", "A székesegyház 80 m hosszú.", "A pomesániai egyházmegyét 1243-ban alapították.", "A komplexum 1945 óta lengyel kézen van."],
       ro: ["Catedrala a fost construită în secolul al XIV-lea.", "Turnul castelului are 60 m înălțime.", "Construcția castelului a început în 1325.", "Catedrala are 80 m lungime.", "Dieceza de Pomesania a fost fondată în 1243.", "Complexul este în mâini poloneze din 1945."],
       en: ["The cathedral was built in the 14th century.", "The castle tower is 60 m high.", "Construction of the castle began in 1325.", "The cathedral is 80 m long.", "The Diocese of Pomesania was founded in 1243.", "The complex has been in Polish hands since 1945."],
-    }, image: "/poi-images/poland-kwidzyn-cathedral-complex-history-v2.webp"},
+    },
+  },
   {
     id: "poland-piotrkow-trybunalski-old-town-history-v2",
     type: "city",
@@ -1051,7 +1053,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Városi rang 1304-től", "Óváros területe: 0,5 km²", "Magasság: 200 m tengerszint felett", "Lakosság: 72 000 fő (2022)", "Országgyűlések száma: 23", "Piactér mérete: 100 × 80 m"],
       ro: ["Orașul a primit drepturi în 1304", "Suprafața orașului vechi: 0,5 km²", "Altitudine: 200 m", "Populație: 72.000 (2022)", "Număr de diete găzduite: 23", "Piața centrală: 100 m × 80 m"],
       en: ["City rights granted in 1304 (Magdeburg Law)", "Old town area: approx. 0.5 km²", "Elevation: 200 m above sea level", "Population of Piotrków Trybunalski: 72,000 (2022)", "Hosted 23 sessions of the Polish parliament between 1400 and 1600", "Main square dimensions: 100 m by 80 m"],
-    }, image: "/poi-images/poland-piotrkow-trybunalski-old-town-history-v2.webp"},
+    },
+  },
   {
     id: "poland-chelmno-defensive-walls-history-v2",
     type: "ruins",
@@ -1082,7 +1085,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Építés ideje: 13. század", "Eredeti hossz: 1500 m", "Tornyok száma: 23", "Kapuk száma: 3", "Fennmaradt magasság: 7 m", "Város alapítása: 1233"],
       ro: ["Perioada de construcție: secolul al XIII-lea", "Lungimea originală: 1.500 m", "Număr de turnuri: 23", "Număr de porți: 3", "Înălțimea păstrată: până la 7 m", "Fondarea orașului: 1233"],
       en: ["Construction period: 13th century", "Original length: 1,500 meters", "Number of towers: 23", "Number of gates: 3", "Preserved height: up to 7 meters", "Town founded: 1233"],
-    }, image: "/poi-images/poland-chelmno-defensive-walls-history-v2.webp"},
+    },
+  },
   {
     id: "poland-rogow-arboretum-history-v2",
     type: "park",
@@ -1113,7 +1117,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Alapítás éve: 1925", "Terület: 40 ha", "Taxonok száma: több mint 4500", "Éves látogatók: kb. 50 000", "Tulajdonos: Varsói Élettudományi Egyetem", "Tengerszint feletti magasság: 200 m"],
       ro: ["Anul înființării: 1925", "Suprafață: 40 ha", "Număr de taxoni: peste 4.500", "Vizitatori anuali: aprox. 50.000", "Aparține de: Universitatea de Științe ale Vieții din Varșovia", "Altitudine: 200 m"],
       en: ["Year established: 1925", "Area: 40 hectares", "Number of taxa: over 4,500", "Annual visitors: approximately 50,000", "Affiliated with: Warsaw University of Life Sciences", "Elevation: 200 m above sea level"],
-    }, image: "/poi-images/poland-rogow-arboretum-history-v2.webp"},
+    },
+  },
   {
     id: "poland-nieborow-palace-history-v2",
     type: "palace",
@@ -1176,7 +1181,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Alapítás: 1778", "Terület: 28 ha", "Alkotó: Helena Radziwiłł", "Építmények száma: 6", "Felújítás kezdete: 1960-as évek", "Múzeum része: 1945 óta"],
       ro: ["Înființare: 1778", "Suprafață: 28 ha", "Creat de: Helena Radziwiłł", "Număr de structuri: 6", "Începutul restaurării: anii 1960", "Parte a muzeului Nieborów: din 1945"],
       en: ["Established: 1778", "Area: 28 hectares", "Creator: Helena Radziwiłł", "Number of structures: 6", "Restoration began: 1960s", "Part of Nieborów Museum since: 1945"],
-    }, image: "/poi-images/poland-arkadia-park-history-v2.webp"},
+    },
+  },
   {
     id: "poland-brzeg-castle-history-v2",
     type: "castle",
@@ -1207,7 +1213,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Első említés: 1311", "Reneszánsz átépítés: 1540–1560", "Herceg: II. Frigyes liegnitzi", "Múzeum: 1979 óta", "Kiállítótermek száma: 14", "Főtorony magassága: 42 m"],
       ro: ["Prima mențiune: 1311", "Reconstrucție renascentistă: 1540–1560", "Ducele: Frederic al II-lea de Liegnitz", "Muzeu din: 1979", "Număr de săli de expoziție: 14", "Înălțimea turnului principal: 42 m"],
       en: ["First mentioned: 1311", "Renaissance reconstruction: 1540–1560", "Duke: Frederick II of Legnica", "Museum since: 1979", "Number of exhibition rooms: 14", "Main tower height: 42 m"],
-    }, image: "/poi-images/poland-brzeg-castle-history-v2.webp"},
+    },
+  },
   {
     id: "poland-koscian-old-town-history-v2",
     type: "town",
@@ -1302,7 +1309,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Építtető: Nagy Kázmér", "Építési idő: 1350–1360", "Torony magassága: 30 m", "Múzeum: 1970 óta", "Vizesárok szélessége: 10 m", "Bővítés: 15. század"],
       ro: ["Construit de: Cazimir cel Mare", "Perioada construcției: 1350–1360", "Înălțimea turnului: 30 m", "Muzeu din: 1970", "Lățimea șanțului: 10 m", "Extindere: secolul al XV-lea"],
       en: ["Built by: Casimir the Great", "Construction period: 1350–1360", "Tower height: 30 m", "Museum since: 1970", "Moat width: 10 m", "Expansion: 15th century"],
-    }, image: "/poi-images/poland-leczyca-royal-castle-history-v2.webp"},
+    },
+  },
   {
     id: "poland-plock-cathedral-history-v2",
     type: "cathedral",
@@ -1333,7 +1341,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Építés: 1130–1140", "Hossz: 65 m", "Főtorony magassága: 60 m", "Bronzkapu: 12. század, 2,7 × 3,5 m", "Sírok száma: 2 uralkodó", "Restaurálás: 1903"],
       ro: ["Construcție: 1130–1140", "Lungime: 65 m", "Înălțimea turnului principal: 60 m", "Poarta de bronz: secolul al XII-lea, 2,7 m × 3,5 m", "Morminte: 2 domnitori", "Restaurare: 1903"],
       en: ["Built: 1130–1140", "Length: 65 m", "Main tower height: 60 m", "Bronze door: 12th century, 2.7 m by 3.5 m", "Tombs: 2 rulers", "Restoration: 1903"],
-    }, image: "/poi-images/poland-plock-cathedral-history-v2.webp"},
+    },
+  },
   {
     id: "poland-strzegom-basilica-history-v2",
     type: "church",
@@ -1396,7 +1405,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Építés: 1740–1760", "Építész: Ephraim Schröger", "Szobák száma: 40", "Park területe: 5 ha", "Restaurálás: 1950-es évek", "Prímás székhelye: 1821 óta"],
       ro: ["Construcție: 1740–1760", "Arhitect: Ephraim Schröger", "Număr de camere: 40", "Suprafața parcului: 5 ha", "Restaurare: anii 1950", "Sediu al primatului din: 1821"],
       en: ["Built: 1740–1760", "Architect: Ephraim Schröger", "Number of rooms: 40", "Park area: 5 ha", "Restoration: 1950s", "Seat of Primate since: 1821"],
-    }, image: "/poi-images/poland-gniezno-archiepiscopal-palace-history-v2.webp"},
+    },
+  },
   {
     id: "poland-koscian-basilica-history-v2",
     type: "church",
@@ -1491,7 +1501,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Építés: 1560–1590", "Magasság a folyó felett: 50 m", "Szobák: 60", "Park területe: 15 ha", "Szálloda: 1995 óta", "Múzeum: 2000 óta"],
       ro: ["Construcție: 1560–1590", "Înălțime deasupra râului: 50 m", "Camere: 60", "Suprafața parcului: 15 ha", "Hotel din: 1995", "Muzeu din: 2000"],
       en: ["Built: 1560–1590", "Height above river: 50 m", "Rooms: 60", "Park area: 15 ha", "Hotel since: 1995", "Museum since: 2000"],
-    }, image: "/poi-images/poland-tarnobrzeg-castle-history-v2.webp"},
+    },
+  },
   {
     id: "poland-wieliczka-historical-salt-works-history-v2",
     type: "mine",
@@ -1522,7 +1533,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Kitermelés kezdete: 13. század", "Maximális mélység: 327 m", "Szintek száma: 9", "Kápolnák: több mint 20", "UNESCO világörökség: 1978", "Éves látogatók: 1,2 millió"],
       ro: ["Începutul exploatării: secolul al XIII-lea", "Adâncime maximă: 327 m", "Număr de niveluri: 9", "Capele: peste 20", "Patrimoniu UNESCO: 1978", "Vizitatori anuali: 1,2 milioane"],
       en: ["Mining began: 13th century", "Maximum depth: 327 m", "Number of levels: 9", "Chapels: over 20", "UNESCO World Heritage: 1978", "Annual visitors: 1.2 million"],
-    }, image: "/poi-images/poland-wieliczka-historical-salt-works-history-v2.webp"},
+    },
+  },
   {
     id: "poland-chojnice-old-town-history-v2",
     type: "town",
@@ -1553,7 +1565,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Városi jog: 1321", "Fennmaradt falszakasz: 1200 m", "Megmaradt tornyok: 7", "Piactér: 90 × 70 m", "Templomtorony magassága: 60 m", "Hanza-tagság: 15. század"],
       ro: ["Drepturi de oraș: 1321", "Zid păstrat: 1.200 m", "Turnuri păstrate: 7", "Piața: 90 × 70 m", "Înălțimea turnului bisericii: 60 m", "Membru al Ligii Hanseatice: secolul al XV-lea"],
       en: ["Town rights: 1321", "Preserved wall length: 1,200 m", "Surviving towers: 7", "Market square: 90 m by 70 m", "Church tower height: 60 m", "Hanseatic membership: 15th century"],
-    }, image: "/poi-images/poland-chojnice-old-town-history-v2.webp"},
+    },
+  },
   {
     id: "poland-kolo-castle-history-v2",
     type: "ruins",
@@ -1584,7 +1597,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Építés: 1350–1370", "Sziget területe: 2 ha", "Falvastagság: 2 m", "Toronymagasság: 25 m", "Múzeum: 1980 óta", "Pusztulás: 1655"],
       ro: ["Construcție: 1350–1370", "Suprafața insulei: 2 ha", "Grosimea zidurilor: 2 m", "Înălțimea turnului: 25 m", "Muzeu din: 1980", "Distrugere: 1655"],
       en: ["Built: 1350–1370", "Island area: 2 ha", "Wall thickness: 2 m", "Tower height: 25 m", "Museum since: 1980", "Destruction: 1655"],
-    }, image: "/poi-images/poland-kolo-castle-history-v2.webp"},
+    },
+  },
   {
     id: "poland-glogow-castle-history-v2",
     type: "castle",
@@ -1615,7 +1629,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Első említés: 1250", "Reneszánsz átépítés: 1540–1560", "Főépület magassága: 15 m", "Múzeumterület: 2000 m²", "Újjáépítés: 1960-as évek", "Kulturális központ: 1990 óta"],
       ro: ["Prima mențiune: 1250", "Reconstrucție renascentistă: 1540–1560", "Înălțimea corpului principal: 15 m", "Suprafața muzeului: 2.000 m²", "Reconstrucție: anii 1960", "Centru cultural din: 1990"],
       en: ["First mentioned: 1250", "Renaissance remodeling: 1540–1560", "Main building height: 15 m", "Museum area: 2,000 m²", "Rebuilt: 1960s", "Cultural center since: 1990"],
-    }, image: "/poi-images/poland-glogow-castle-history-v2.webp"},
+    },
+  },
   {
     id: "poland-krosno-old-town-history-v2",
     type: "town",
@@ -1678,7 +1693,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Épült a 14. században, első említése 1388-ból.", "A főtornyok magassága: 28 méter.", "A vár területe: kb. 2,3 hektár.", "1656-ban pusztult el a svéd invázió során.", "A helyreállítási munkák 1960-ban kezdődtek.", "Az árok átmérője: 12 méter."],
       ro: ["Construit în secolul al XIV-lea, prima mențiune în 1388.", "Înălțimea turnurilor principale: 28 de metri.", "Suprafața castelului: aproximativ 2,3 hectare.", "Distrus în 1656 în timpul invaziei suedeze.", "Lucrările de restaurare au început în 1960.", "Diametrul șanțului: 12 metri."],
       en: ["Built in the 14th century, first mentioned in 1388.", "Height of main towers: 28 meters.", "Castle area: approx. 2.3 hectares.", "Destroyed in 1656 during the Swedish invasion.", "Restoration works began in 1960.", "Diameter of the moat: 12 meters."],
-    }, image: "/poi-images/poland-czersk-castle-history-v2.webp"},
+    },
+  },
   {
     id: "poland-nysa-old-town-history-v2",
     type: "town",
@@ -1709,7 +1725,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Első írásos említés: 1223.", "Lakossága (2020): kb. 44 000 fő.", "A városháza tornyának magassága: 63 méter.", "Történelmi templomok száma: 16.", "Az óváros területe: 0,8 km².", "A pusztulás éve: 1945 (a háború vége)."],
       ro: ["Prima mențiune documentară: 1223.", "Populație (2020): aproximativ 44.000.", "Înălțimea turnului primăriei: 63 de metri.", "Numărul bisericilor istorice: 16.", "Suprafața orașului vechi: 0,8 km².", "Anul distrugerii: 1945 (sfârșitul războiului)."],
       en: ["First documented mention: 1223.", "Population (2020): approx. 44,000.", "Height of town hall tower: 63 meters.", "Number of historic churches: 16.", "Area of old town: 0.8 km².", "Year of destruction: 1945 (end of war)."],
-    }, image: "/poi-images/poland-nysa-old-town-history-v2.webp"},
+    },
+  },
   {
     id: "poland-legnica-old-town-history-v2",
     type: "city",
@@ -1740,7 +1757,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Városi jogok: 1264.", "Lakosság (2020): kb. 100 000 fő.", "Főtér mérete: 120 x 80 méter.", "Gótikus városháza épült 1507-ben.", "Szent Péter és Pál-székesegyház hossza: 72 méter.", "Liegnitzi csata: 1241. április 9."],
       ro: ["Drepturi de oraș: 1264.", "Populație (2020): aproximativ 100.000.", "Dimensiunea pieței: 120 x 80 metri.", "Primăria gotică construită în 1507.", "Lungimea Catedralei Sf. Petru și Pavel: 72 de metri.", "Bătălia de la Liegnitz: 9 aprilie 1241."],
       en: ["Town rights granted: 1264.", "Population (2020): approx. 100,000.", "Market square dimensions: 120 x 80 meters.", "Gothic town hall built in 1507.", "Length of St. Peter and Paul Cathedral: 72 meters.", "Battle of Legnica: April 9, 1241."],
-    }, image: "/poi-images/poland-legnica-old-town-history-v2.webp"},
+    },
+  },
   {
     id: "poland-kalisz-cathedral-history-v2",
     type: "cathedral",
@@ -1771,7 +1789,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["A templom első említése: 1106.", "Főtorony magassága: 72 méter.", "A hajó hossza: 58 méter.", "Szent Család kegykép: 15. század.", "Kápolnák száma: 12.", "Az 1945 utáni újjáépítés 1970-ben fejeződött be."],
       ro: ["Prima mențiune a bisericii: 1106.", "Înălțimea turnului principal: 72 de metri.", "Lungimea navei: 58 de metri.", "Icoana Sfintei Familii: secolul al XV-lea.", "Numărul capelelor: 12.", "Reconstrucția după 1945 finalizată în 1970."],
       en: ["First mention of the church: 1106.", "Height of main tower: 72 meters.", "Length of nave: 58 meters.", "Miraculous image of Holy Family: 15th century.", "Number of chapels: 12.", "Post-1945 reconstruction completed in 1970."],
-    }, image: "/poi-images/poland-kalisz-cathedral-history-v2.webp"},
+    },
+  },
   {
     id: "poland-slupsk-castle-history-v2",
     type: "castle",
@@ -1834,7 +1853,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Rekonstrukció 2002-től, befejezve 2008-ban.", "Sziget területe: 1,5 hektár.", "Főépület magassága: 15 méter.", "Szobák száma a kastélyban: 30.", "Mesterséges szigetre épült.", "Éves múzeumlátogatók: kb. 50 000."],
       ro: ["Reconstrucție din 2002, finalizată în 2008.", "Suprafața insulei: 1,5 hectare.", "Înălțimea clădirii principale: 15 metri.", "Numărul camerelor din castel: 30.", "Construit pe o insulă artificială.", "Vizitatori anuali la muzeu: aproximativ 50.000."],
       en: ["Reconstruction from 2002, completed in 2008.", "Island area: 1.5 hectares.", "Height of main building: 15 meters.", "Number of rooms in the castle: 30.", "Built on an artificial island.", "Annual museum visitors: approx. 50,000."],
-    }, image: "/poi-images/poland-tykocin-castle-history-v2.webp"},
+    },
+  },
   {
     id: "poland-kedzierzyn-old-town-history-v2",
     type: "town",
@@ -1865,7 +1885,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Városi jog: 1280.", "Kędzierzyn lakossága (2010): kb. 13 000 fő.", "Főtér mérete: 90 x 70 méter.", "Szent Miklós-templom magassága: 45 méter.", "A település első említése: 1223.", "Odera-kikötő éves forgalma: 500 000 tonna."],
       ro: ["Drepturile de oraș: 1280.", "Populația Kędzierzyn (2010): aproximativ 13.000.", "Dimensiunea pieței: 90 x 70 de metri.", "Înălțimea Bisericii Sf. Nicolae: 45 de metri.", "Prima mențiune a așezării: 1223.", "Portul Oder: trafic anual de 500.000 de tone."],
       en: ["Town rights: 1280.", "Population of Kędzierzyn (2010): approx. 13,000.", "Market square dimensions: 90 x 70 meters.", "Height of St. Nicholas Church: 45 meters.", "First mention of settlement: 1223.", "Oder port: annual turnover 500,000 tons."],
-    }, image: "/poi-images/poland-kedzierzyn-old-town-history-v2.webp"},
+    },
+  },
   {
     id: "poland-cieszyn-castle-hill-history-v2",
     type: "castle",
@@ -1896,7 +1917,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Szent Miklós-rotunda: épült 1050-ben.", "Piast-torony magassága: 25 méter.", "Várhegy magassága: 45 méter az Olza felett.", "Első történelmi említés: 1155.", "Ásatások 1960 óta.", "Éves látogatók száma: kb. 100 000."],
       ro: ["Rotonda Sf. Nicolae: construită în 1050.", "Turnul Piast: înălțime 25 de metri.", "Înălțimea dealului castelului: 45 de metri deasupra râului Olza.", "Prima mențiune istorică: 1155.", "Săpături arheologice din 1960.", "Vizitatori anuali: aproximativ 100.000."],
       en: ["Rotunda of St. Nicholas: built 1050.", "Piast Tower: height 25 meters.", "Castle Hill elevation: 45 meters above Olza River.", "First historical mention: 1155.", "Excavations since 1960.", "Annual visitors: approx. 100,000."],
-    }, image: "/poi-images/poland-cieszyn-castle-hill-history-v2.webp"},
+    },
+  },
   {
     id: "poland-krakow-barbican-history-v2",
     type: "tower",
@@ -1927,7 +1949,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Építési idő: 1498-1499.", "Külső átmérő: 24,4 méter.", "Magasság: 10 méter.", "Tornyok száma: 7.", "Lőrések száma: 130.", "Múzeumlátogatók 2019-ben: 250 000."],
       ro: ["Perioada de construcție: 1498-1499.", "Diametrul exterior: 24,4 metri.", "Înălțime: 10 metri.", "Numărul turnurilor: 7.", "Ambrazuri: 130.", "Vizitatori ai muzeului în 2019: 250.000."],
       en: ["Construction period: 1498-1499.", "External diameter: 24.4 meters.", "Height: 10 meters.", "Number of towers: 7.", "Loopholes: 130.", "Museum visitors 2019: 250,000."],
-    }, image: "/poi-images/poland-krakow-barbican-history-v2.webp"},
+    },
+  },
   {
     id: "poland-gniezno-cathedral-complex-history-v2",
     type: "cathedral",
@@ -1990,7 +2013,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Városi jog: 1254.", "Bytom lakossága (2020): kb. 170 000 fő.", "Mária-templom magassága: 58 méter.", "Főtér területe: 0,5 hektár.", "Első említés éve: 1136.", "Történelmi polgárházak száma: 45."],
       ro: ["Drepturi de oraș: 1254.", "Populația Bytom (2020): aproximativ 170.000.", "Înălțimea bisericii Sf. Maria: 58 de metri.", "Suprafața pieței: 0,5 hectare.", "Anul primei mențiuni: 1136.", "Numărul caselor burgheze istorice: 45."],
       en: ["Town rights: 1254.", "Population of Bytom (2020): approx. 170,000.", "Height of St. Mary's Church: 58 meters.", "Market square area: 0.5 hectares.", "Year of first mention: 1136.", "Number of historic burgher houses: 45."],
-    }, image: "/poi-images/poland-bytom-old-town-history-v2.webp"},
+    },
+  },
   {
     id: "poland-kalisz-basilica-history-v2",
     type: "church",
@@ -2021,7 +2045,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Építési idő: 1682-1700.", "Kupola átmérője: 16 méter.", "Főtorony magassága: 48 méter.", "Karl Dankwart freskói: 1705-1708.", "Basilica minor 1934 óta.", "Orgona 1760-ból."],
       ro: ["Perioada de construcție: 1682-1700.", "Diametrul cupolei: 16 metri.", "Înălțimea turnului principal: 48 de metri.", "Frescele lui Karl Dankwart: 1705-1708.", "Basilică minoră din 1934.", "Orga din 1760."],
       en: ["Construction period: 1682-1700.", "Dome diameter: 16 meters.", "Height of main tower: 48 meters.", "Frescoes by Karl Dankwart: 1705-1708.", "Minor basilica since 1934.", "Organ from 1760."],
-    }, image: "/poi-images/poland-kalisz-basilica-history-v2.webp"},
+    },
+  },
   {
     id: "poland-tarnow-cathedral-history-v2",
     type: "cathedral",
@@ -2052,7 +2077,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Építési idő: 1400-1440.", "Torony építése 1853-ban befejeződött.", "Torony magassága: 72 méter.", "Hajó hossza: 55 méter.", "Szárnyas oltár: 1520-1530.", "Tarnówi egyházmegye alapítva: 1786."],
       ro: ["Perioada de construcție: 1400-1440.", "Construcția turnului finalizată în 1853.", "Înălțimea turnului: 72 de metri.", "Lungimea navei: 55 de metri.", "Retabloul: 1520-1530.", "Dieceza de Tarnów fondată: 1786."],
       en: ["Construction period: 1400-1440.", "Tower completed in 1853.", "Tower height: 72 meters.", "Length of nave: 55 meters.", "Winged altarpiece: 1520-1530.", "Diocese of Tarnów established: 1786."],
-    }, image: "/poi-images/poland-tarnow-cathedral-history-v2.webp"},
+    },
+  },
   {
     id: "poland-nysa-fortifications-history-v2",
     type: "ruins",
@@ -2083,7 +2109,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Az első bástyák építése: 1630.", "Fennmaradt falak hossza: 2,5 km.", "Szent Hedvig-bástya magassága: 12 méter.", "Az 1741-es ostrom 3 hétig tartott.", "Erődöt 1810-ben adták fel.", "Fennmaradt kapuk száma: 2."],
       ro: ["Construcția primelor bastioane: 1630.", "Lungimea zidurilor păstrate: 2,5 km.", "Înălțimea Bastionului Sf. Hedwiga: 12 metri.", "Asediul din 1741 a durat 3 săptămâni.", "Fortăreața abandonată în 1810.", "Numărul porților păstrate: 2."],
       en: ["Construction of first bastions: 1630.", "Length of preserved walls: 2.5 km.", "Height of St. Hedwig Bastion: 12 meters.", "Siege of 1741 lasted 3 weeks.", "Fortress abandoned in 1810.", "Number of preserved gates: 2."],
-    }, image: "/poi-images/poland-nysa-fortifications-history-v2.webp"},
+    },
+  },
   {
     id: "poland-gniezno-old-town-history-v2",
     type: "city",
@@ -2114,7 +2141,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Város alapítása: 8. század.", "Érsekség alapítva: 1000.", "Városháza építve 1550-ben.", "Főtér mérete: 100 x 100 méter.", "Gniezno lakossága (2020): 68 000 fő.", "Óváros újjáépítése: 1950-1970."],
       ro: ["Fondarea orașului: secolul al VIII-lea.", "Arhiepiscopia fondată: 1000.", "Primăria construită 1550.", "Dimensiunea pieței: 100 x 100 metri.", "Populație Gniezno (2020): 68.000.", "Restaurarea orașului vechi: 1950-1970."],
       en: ["City founded: 8th century.", "Archbishopric established: 1000.", "Town hall built 1550.", "Market square dimensions: 100 x 100 meters.", "Population of Gniezno (2020): 68,000.", "Old town reconstruction: 1950-1970."],
-    }, image: "/poi-images/poland-gniezno-old-town-history-v2.webp"},
+    },
+  },
   {
     id: "poland-kwidzyn-old-town-history-v2",
     type: "town",
@@ -2209,7 +2237,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Építési idő: 1834-1850.", "Erődök száma: 4.", "Sáncok magassága: 8 méter.", "1807-es ostrom 30 napig tartott.", "Táborként használva 1939-től.", "Erődterület nagysága: 120 hektár."],
       ro: ["Perioada de construcție: 1834-1850.", "Numărul forturilor: 4.", "Înălțimea valurilor: 8 metri.", "Asediul din 1807 a durat 30 de zile.", "Folosită ca lagăr din 1939.", "Suprafața fortăreței: 120 de hectare."],
       en: ["Construction period: 1834-1850.", "Number of forts: 4.", "Height of ramparts: 8 meters.", "Siege of 1807 lasted 30 days.", "Used as camp from 1939.", "Fortress area: 120 hectares."],
-    }, image: "/poi-images/poland-kedzierzyn-kozle-fortress-history-v2.webp"},
+    },
+  },
   {
     id: "poland-cieszyn-old-town-history-v2",
     type: "town",
@@ -2240,7 +2269,8 @@ export const polandHistoryV2: POI[] = [
       hu: ["Városi jog: 1155 (első említés).", "Városháza épült 1496-ban.", "Városháza tér magassága: 30 méter az Olza felett.", "Cieszyn lakossága (2020): 35 000 fő.", "Történelmi házak a Rynek-en: 22.", "Határátkelő Csehországba: gyalogos híd."],
       ro: ["Drepturi de oraș: 1155 (prima mențiune).", "Primăria construită în 1496.", "Altitudinea pieței primăriei: 30 de metri deasupra râului Olza.", "Populația Cieszyn (2020): 35.000.", "Numărul caselor istorice de pe Rynek: 22.", "Trecere de frontieră către Cehia: pod pietonal."],
       en: ["Town rights: 1155 (first mentioned).", "Town hall built in 1496.", "Elevation of town hall square: 30 meters above Olza.", "Population of Cieszyn (2020): 35,000.", "Number of historic houses on Rynek: 22.", "Border crossing to Czech Republic: footbridge."],
-    }, image: "/poi-images/poland-cieszyn-old-town-history-v2.webp"},
+    },
+  },
   {
     id: "poland-tykocin-old-town-history-v2",
     type: "town",

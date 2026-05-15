@@ -31,7 +31,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["Magasság: 600-900 m tszf.", "A Lovćen Nemzeti Park része", "Terület: kb. 50 km²", "Több mint 100 barlangot rejt", "Szirti sas populáció: 5-10 pár", "Éves csapadék: 3000 mm"],
       ro: ["Altitudine: 600-900 m", "Parte a Parcului Național Lovćen", "Suprafață: aprox. 50 km²", "Conține peste 100 de peșteri", "Populația de acvilă de stâncă: 5-10 perechi", "Precipitații anuale: 3000 mm"],
       en: ["Elevation: 600-900 m", "Part of Lovćen National Park", "Area: approx 50 km²", "Contains over 100 caves", "Golden eagle population: 5-10 pairs", "Annual precipitation: 3000 mm"],
-    }, image: "/poi-images/montenegro-cetinje-karst-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-sutorman-wildlife-life-v2",
     type: "wildlife",
@@ -62,7 +63,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["Alapítás éve: 1950", "Terület: 120 km²", "Magasság: 800-1500 m", "Medvepopuláció: kb. 30 egyed", "Madárfajok: több mint 100", "Natura 2000 része"],
       ro: ["Înființată în 1950", "Suprafață: 120 km²", "Altitudine: 800-1500 m", "Populație de urși: aprox. 30", "Specii de păsări: peste 100", "Parte a rețelei Natura 2000"],
       en: ["Established 1950", "Area: 120 km²", "Elevation: 800-1500 m", "Bear population: approx 30 individuals", "Bird species: over 100", "Part of Natura 2000 network"],
-    }, image: "/poi-images/montenegro-sutorman-wildlife-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-crno-jezero-eco-life-v2",
     type: "lake",
@@ -93,7 +95,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["Magasság: 1416 m", "Maximális mélység: 49 m", "Terület: 0,5 km²", "Kialakulása: 10 000 éve", "Nyári vízhőmérséklet: 15 °C", "Környező erdő: 80% lucfenyő"],
       ro: ["Altitudine: 1.416 m", "Adâncime maximă: 49 m", "Suprafață: 0,5 km²", "Format acum 10.000 ani", "Temperatura apei vara: 15 °C", "Pădurea înconjurătoare: 80% molid"],
       en: ["Elevation: 1,416 m", "Max depth: 49 m", "Area: 0.5 km²", "Formed 10,000 years ago", "Summer water temperature: 15 °C", "Surrounding forest: 80% spruce"],
-    }, image: "/poi-images/montenegro-crno-jezero-eco-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-sinjajevina-biodiversity-life-v2",
     type: "forest",
@@ -124,7 +127,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["Átlagmagasság: 1800 m", "Terület: 200 km²", "Endemikus növények: 15 faj", "Zerge populáció: kb. 500", "Az Európai Zöld Öv része", "Éves csapadék: 2500 mm"],
       ro: ["Altitudine medie: 1.800 m", "Suprafață: 200 km²", "Plante endemice: 15 specii", "Populație de capre negre: aprox. 500", "Parte a Centurii Verzi Europene", "Precipitații anuale: 2500 mm"],
       en: ["Average elevation: 1,800 m", "Area: 200 km²", "Endemic plants: 15 species", "Chamois population: approx 500", "Part of European Green Belt", "Annual precipitation: 2500 mm"],
-    }, image: "/poi-images/montenegro-sinjajevina-biodiversity-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-dajbabe-wetlands-life-v2",
     type: "park",
@@ -155,7 +159,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["Védetté nyilvánítva: 1995", "Terület: 150 ha", "Madárfajok: több mint 200", "Vonuló madarak: akár 10 000 egyed", "Vízmélység: 2 m", "Nádas szélessége: 50-100 m"],
       ro: ["Desemnată arie protejată: 1995", "Suprafață: 150 ha", "Specii de păsări: peste 200", "Păsări migratoare: până la 10.000", "Adâncimea apei: până la 2 m", "Lățimea stufărișului: 50-100 m"],
       en: ["Protected since 1995", "Area: 150 hectares", "Bird species: over 200", "Migratory stopover: up to 10,000 individuals", "Water depth: up to 2 meters", "Reed bed width: 50-100 meters"],
-    }, image: "/poi-images/montenegro-dajbabe-wetlands-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-vjeternik-peak-life-v2",
     type: "peak",
@@ -186,7 +191,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["Legmagasabb csúcs: 2100 m", "Természeti park 2015 óta", "Terület: 80 km²", "Zerge populáció: kb. 300", "Szélsebesség: akár 100 km/h", "A Prokletije-hegység része"],
       ro: ["Cel mai înalt vârf: 2.100 m", "Parc natural din 2015", "Suprafață: 80 km²", "Populație de capre negre: aprox. 300", "Viteza vântului: până la 100 km/h", "Parte a Munților Prokletije"],
       en: ["Highest peak: 2,100 m", "Nature park since 2015", "Area: 80 km²", "Chamois population: approx 300", "Wind speed: up to 100 km/h", "Part of Prokletije Mountains"],
-    }, image: "/poi-images/montenegro-vjeternik-peak-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-skadarsko-eco-life-v2",
     type: "wildlife",
@@ -249,7 +255,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A Rumija-erdő mintegy 4.500 hektáron terül el.", "A Rumija-csúcs magassága 1.593 méter.", "Több mint 300 növényfaj él itt, köztük 20 endemikus.", "A magyaltölgy (Quercus ilex) akár 15 méteres magasságot is elér.", "Az éves csapadékmennyiség átlagosan 1.200 mm.", "1.200 hektár 2010 óta természetvédelmi terület."],
       ro: ["Pădurea Rumija se întinde pe aproximativ 4.500 de hectare.", "Vârful Rumija atinge 1.593 de metri altitudine.", "Există peste 300 de specii de plante, dintre care 20 endemice.", "Stejarul de stâncă (Quercus ilex) atinge aici înălțimi de până la 15 metri.", "Precipitațiile medii anuale sunt de 1.200 mm.", "1.200 de hectare sunt protejate ca monument al naturii din 2010."],
       en: ["The Rumija forest covers approximately 4,500 hectares.", "The highest peak, Rumija, reaches 1,593 meters above sea level.", "Over 300 plant species are recorded, including 20 endemic taxa.", "Holm oak (Quercus ilex) can grow up to 15 meters tall in this area.", "Mean annual precipitation is around 1,200 mm.", "Since 2010, 1,200 hectares have been protected as a natural monument."],
-    }, image: "/poi-images/montenegro-rumija-forest-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-ljubovic-green-life-v2",
     type: "park",
@@ -280,7 +287,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A park területe 150 hektár.", "A feketefenyők átlagmagassága 25 méter.", "Több mint 200 edényes növényfajt regisztráltak.", "Az éves látogatók száma körülbelül 50.000.", "A park létesítése 1953-ban kezdődött.", "Az éves középhőmérséklet 11°C."],
       ro: ["Parcul se întinde pe 150 de hectare.", "Înălțimea medie a pinilor negri este de 25 de metri.", "Peste 200 de specii de plante vasculare au fost înregistrate.", "Numărul anual de vizitatori este de aproximativ 50.000.", "Amenajarea parcului a început în 1953.", "Temperatura medie anuală este de 11°C."],
       en: ["The park covers 150 hectares.", "Average height of Austrian pines is 25 meters.", "Over 200 vascular plant species have been recorded.", "Annual visitor count is approximately 50,000.", "Park development started in 1953.", "Mean annual temperature is 11°C."],
-    }, image: "/poi-images/montenegro-ljubovic-green-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-mrtvica-wildlife-life-v2",
     type: "valley",
@@ -311,7 +319,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A szurdok hossza körülbelül 12 kilométer.", "A maximális mélység 800 méter.", "Több mint 150 madárfajt figyeltek meg.", "A lucfenyők magassága elérheti a 40 métert.", "A szurdok átlagos szélessége 200 méter.", "A terület 1995 óta természetvédelmi terület."],
       ro: ["Canionul are aproximativ 12 kilometri lungime.", "Adâncimea maximă este de 800 de metri.", "Peste 150 de specii de păsări au fost observate.", "Molidul atinge înălțimi de până la 40 de metri.", "Lățimea medie a canionului este de 200 de metri.", "Zona este protejată din 1995 ca rezervație naturală."],
       en: ["The canyon is approximately 12 km long.", "Maximum depth is 800 meters.", "Over 150 bird species have been observed.", "Spruce trees can reach heights of up to 40 meters.", "Average canyon width is 200 meters.", "The area has been a protected nature reserve since 1995."],
-    }, image: "/poi-images/montenegro-mrtvica-wildlife-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-cicevo-forest-life-v2",
     type: "forest",
@@ -342,7 +351,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["Az erdő területe 80 hektár.", "A legidősebb tölgy törzskerülete 5,5 méter.", "Több mint 120 növényfajt azonosítottak.", "A tölgyek átlagmagassága 25 méter.", "A terület 2005 óta védett.", "Az éves csapadékmennyiség 1.500 mm."],
       ro: ["Pădurea se întinde pe 80 de hectare.", "Cel mai bătrân stejar are circumferința trunchiului de 5,5 metri.", "Peste 120 de specii de plante au fost identificate.", "Înălțimea medie a stejarilor este de 25 de metri.", "Zona a fost protejată din 2005.", "Precipitațiile anuale sunt de 1.500 mm."],
       en: ["The forest covers 80 hectares.", "The oldest oak has a trunk circumference of 5.5 meters.", "Over 120 plant species have been identified.", "Average height of oaks is 25 meters.", "The area has been protected since 2005.", "Annual precipitation is 1,500 mm."],
-    }, image: "/poi-images/montenegro-cicevo-forest-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-zupa-wild-life-v2",
     type: "wildlife",
@@ -373,7 +383,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A terület nagysága mintegy 5.000 hektár.", "A magasság 600 és 900 méter között változik.", "Több mint 180 madárfajt regisztráltak.", "15 különböző orchideafaj található.", "A fő folyó a Župa, 20 km hosszú.", "Az éves középhőmérséklet 12°C."],
       ro: ["Suprafața este de aproximativ 5.000 de hectare.", "Altitudinea variază între 600 și 900 de metri.", "Peste 180 de specii de păsări au fost înregistrate.", "Există 15 specii de orhidee.", "Râul principal este Župa, cu o lungime de 20 km.", "Temperatura medie anuală este de 12°C."],
       en: ["The area covers about 5,000 hectares.", "Elevation ranges from 600 to 900 meters.", "Over 180 bird species have been recorded.", "There are 15 species of orchids.", "The main river, Župa, is 20 km long.", "Mean annual temperature is 12°C."],
-    }, image: "/poi-images/montenegro-zupa-wild-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-plav-wetland-life-v2",
     type: "lake",
@@ -404,7 +415,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A Plav-tó területe 1,9 km².", "A maximális mélység 9 méter.", "Több mint 50 vízinövényfaj él itt.", "A nádasok 30 hektárt borítanak.", "A tó szintje 900 méterrel van a tenger felett.", "A víz hőmérséklete nyáron eléri a 22°C-t."],
       ro: ["Lacul Plav are o suprafață de 1,9 km².", "Adâncimea maximă este de 9 metri.", "Există peste 50 de specii de plante acvatice.", "Stufărișul acoperă 30 de hectare.", "Nivelul lacului este la 900 m altitudine.", "Temperatura apei atinge 22°C vara."],
       en: ["Plav Lake has an area of 1.9 km².", "Maximum depth is 9 meters.", "Over 50 aquatic plant species are present.", "Reed beds cover 30 hectares.", "Lake surface elevation is 900 m.", "Water temperature reaches 22°C in summer."],
-    }, image: "/poi-images/montenegro-plav-wetland-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-biogradska-eco-life-v2",
     type: "forest",
@@ -435,7 +447,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A rezervátum területe 1.600 hektár.", "A legidősebb fa egy 500 éves bükk.", "A Biograd-tó területe 0,3 km².", "A parkban 86 fafaj található.", "Az éves csapadékmennyiség 2.500 mm.", "A nemzeti parkot 1952-ben alapították."],
       ro: ["Rezervația se întinde pe 1.600 de hectare.", "Cel mai bătrân copac este un fag de 500 de ani.", "Lacul Biograd are o suprafață de 0,3 km².", "Există 86 de specii de arbori în parc.", "Precipitațiile anuale sunt de 2.500 mm.", "Parcul național a fost înființat în 1952."],
       en: ["The reserve covers 1,600 hectares.", "The oldest tree is a 500-year-old beech.", "Lake Biograd has an area of 0.3 km².", "There are 86 tree species in the park.", "Annual precipitation is 2,500 mm.", "The national park was established in 1952."],
-    }, image: "/poi-images/montenegro-biogradska-eco-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-orjen-flora-life-v2",
     type: "mountain",
@@ -466,7 +479,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A legmagasabb pont a Zubački Kabao 1.894 m.", "2.200 növényfajt számoltak össze.", "40 faj a Dinári-hegység endemikus növénye.", "Az éves csapadékmennyiség a partvidéken 4.500 mm.", "Az Orjen több mint 50 karsztbarlanggal rendelkezik.", "A fahatár körülbelül 1.600 méteren húzódik."],
       ro: ["Cel mai înalt vârf este Zubački Kabao, cu 1.894 m.", "Au fost înregistrate 2.200 de specii de plante.", "40 de specii sunt endemice alpinelor Dinarice.", "Precipitațiile medii anuale sunt de 4.500 mm pe coastă.", "Orjen are peste 50 de peșteri carstice.", "Limita pădurii este la aproximativ 1.600 m."],
       en: ["The highest peak is Zubački Kabao at 1,894 m.", "2,200 plant species have been recorded.", "40 species are endemic to the Dinaric Alps.", "Mean annual precipitation is 4,500 mm on the coast.", "Orjen has over 50 karst caves.", "The treeline lies at about 1,600 m."],
-    }, image: "/poi-images/montenegro-orjen-flora-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-krnovo-plateau-life-v2",
     type: "park",
@@ -497,7 +511,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A fennsík területe 30 km².", "A magasság 1.400 és 1.600 m között van.", "10 kis gleccsertó található.", "A júliusi átlaghőmérséklet 15°C.", "Több mint 300 növényfajt azonosítottak.", "A legelőkön mintegy 2.000 juh legel."],
       ro: ["Podisul se întinde pe 30 km².", "Altitudinea variază între 1.400 și 1.600 m.", "Există 10 lacuri glaciare mici.", "Temperatura medie în iulie este de 15°C.", "Peste 300 de specii de plante au fost identificate.", "Efectivele de oi pe pășuni sunt de aproximativ 2.000 de capete."],
       en: ["The plateau covers 30 km².", "Elevation ranges from 1,400 to 1,600 m.", "There are 10 small glacial lakes.", "Average July temperature is 15°C.", "Over 300 plant species have been identified.", "Sheep numbers on pastures are around 2,000 head."],
-    }, image: "/poi-images/montenegro-krnovo-plateau-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-solila-wetland-life-v2",
     type: "wildlife",
@@ -528,7 +543,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A vizes élőhely 150 hektárt borít.", "Több mint 100 madárfajt figyeltek meg.", "A maximális vízmélység 1,5 méter.", "Évente akár 10.000 vízimadár telel itt.", "A sótartalom 20 és 35 ppt között van.", "A terület 2001 óta Natura 2000 védettség alatt áll."],
       ro: ["Zona umedă acoperă 150 de hectare.", "Peste 100 de specii de păsări au fost observate.", "Adâncimea maximă a apei este de 1,5 metri.", "Până la 10.000 de păsări acvatice iernează anual.", "Salinitatea variază între 20 și 35 ppt.", "Zona este protejată prin rețeaua Natura 2000 din 2001."],
       en: ["The wetland covers 150 hectares.", "Over 100 bird species have been observed.", "Maximum water depth is 1.5 meters.", "Up to 10,000 waterfowl winter annually.", "Salinity ranges between 20 and 35 ppt.", "The area has been a Natura 2000 site since 2001."],
-    }, image: "/poi-images/montenegro-solila-wetland-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-piva-canyon-life-v2",
     type: "valley",
@@ -559,7 +575,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A kanyon hossza 33 kilométer.", "A maximális mélység 1.200 méter.", "A Piva folyó hossza 150 km.", "A folyó átlagos vízhozama 50 m³/s.", "A területen 25 endemikus növényfaj él.", "A feketefenyők magassága elérheti a 35 métert."],
       ro: ["Canionul are 33 de kilometri lungime.", "Adâncimea maximă este de 1.200 de metri.", "Râul Piva are o lungime de 150 km.", "Debitul mediu al râului este de 50 m³/s.", "Există 25 de specii endemice de plante în zonă.", "Pinul negru atinge înălțimi de până la 35 de metri."],
       en: ["The canyon is 33 km long.", "Maximum depth is 1,200 meters.", "The Piva River is 150 km long.", "Average river discharge is 50 m³/s.", "There are 25 endemic plant species in the area.", "Black pine can reach heights of up to 35 meters."],
-    }, image: "/poi-images/montenegro-piva-canyon-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-bjelasica-forest-life-v2",
     type: "forest",
@@ -590,7 +607,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A maradványterület mintegy 1.000 hektár.", "A legmagasabb csúcs a Crna Glava 2.139 m.", "A régióban 7 gleccsertó található.", "Több mint 200 mohafajt azonosítottak.", "Az éves csapadékmennyiség 2.000 mm.", "Egyes jegenye- és lucfenyők 50 méter magasra nőnek."],
       ro: ["Suprafața rămasă este de aproximativ 1.000 de hectare.", "Cel mai înalt vârf este Crna Glava, cu 2.139 m.", "Există 7 lacuri glaciare în regiune.", "Peste 200 de specii de mușchi au fost identificate.", "Precipitațiile anuale sunt de 2.000 mm.", "Unii brazi ating înălțimi de 50 de metri."],
       en: ["The remnant area is about 1,000 hectares.", "The highest peak is Crna Glava at 2,139 m.", "There are 7 glacial lakes in the region.", "Over 200 moss species have been identified.", "Annual precipitation is 2,000 mm.", "Some fir trees reach heights of 50 meters."],
-    }, image: "/poi-images/montenegro-bjelasica-forest-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-durmitor-flora-life-v2",
     type: "park",
@@ -621,7 +639,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A nemzeti parkban 1.300 növényfajt regisztráltak.", "80 faj a Dinári-hegység endemikus növénye.", "A legmagasabb pont a Bobotov Kuk 2.523 m.", "A fahatár körülbelül 1.800 méteren van.", "A parkban 18 gleccsertó található.", "Az éves csapadékmennyiség a völgyekben 1.800 mm, a magaslatokon 3.000 mm."],
       ro: ["În parc au fost înregistrate 1.300 de specii de plante.", "80 de specii sunt endemice alpinelor Dinarice.", "Cel mai înalt vârf este Bobotov Kuk cu 2.523 m.", "Limita pădurii este la aproximativ 1.800 m.", "Există 18 lacuri glaciare în parc.", "Precipitațiile anuale sunt de 1.800 mm în văi, 3.000 mm la altitudini mari."],
       en: ["The park has recorded 1,300 plant species.", "80 species are endemic to the Dinaric Alps.", "Highest peak is Bobotov Kuk at 2,523 m.", "The treeline is at about 1,800 m.", "There are 18 glacial lakes in the park.", "Annual precipitation ranges from 1,800 mm in valleys to 3,000 mm at high elevations."],
-    }, image: "/poi-images/montenegro-durmitor-flora-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-tara-canyon-wildlife-life-v2",
     type: "wildlife",
@@ -652,7 +671,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A kanyon hossza 82 kilométer.", "A maximális mélység 1.300 méter.", "A Tara folyó hossza 144 km.", "A régióban 50 emlősfaj él.", "Az erdők magassága eléri a 2.000 métert.", "Az éves látogatók száma 100.000."],
       ro: ["Canionul are 82 de kilometri lungime.", "Adâncimea maximă este de 1.300 de metri.", "Râul Tara are o lungime de 144 km.", "Există 50 de specii de mamifere în regiune.", "Pădurile se întind până la 2.000 m altitudine.", "Numărul anual de vizitatori este de 100.000."],
       en: ["The canyon is 82 km long.", "Maximum depth is 1,300 meters.", "The Tara River is 144 km long.", "There are 50 mammal species in the region.", "Forests range up to 2,000 m elevation.", "Annual visitor count is 100,000."],
-    }, image: "/poi-images/montenegro-tara-canyon-wildlife-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-kotor-bay-nature-life-v2",
     type: "forest",
@@ -683,7 +703,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["Az öböl partvonala 107 km hosszú.", "A legmagasabb hegyek elérik az 1.700 métert.", "A régióban 1.200 növényfaj található.", "20 közülük endemikus.", "Az éves csapadékmennyiség átlagosan 2.000 mm.", "Az olajfák akár 2.000 évesek is lehetnek."],
       ro: ["Golful are o linie de coastă de 107 km.", "Cei mai înalți munți din jur ating 1.700 m.", "În regiune există 1.200 de specii de plante.", "20 dintre acestea sunt endemice.", "Precipitațiile medii anuale sunt de 2.000 mm.", "Măslinii pot avea până la 2.000 de ani."],
       en: ["The bay has a coastline of 107 km.", "Highest mountains around the bay reach 1,700 m.", "There are 1,200 plant species in the region.", "20 of them are endemic.", "Mean annual precipitation is 2,000 mm.", "Olive trees can be up to 2,000 years old."],
-    }, image: "/poi-images/montenegro-kotor-bay-nature-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-cetinje-botanical-life-v2",
     type: "park",
@@ -714,7 +735,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A kert területe 5 hektár.", "Több mint 500 növényfaj található.", "A gyűjtemény 50 fafajt tartalmaz.", "A kertet 1895-ben alapították.", "A legidősebb magnólia 130 éves.", "Évente 20.000 látogató keresi fel a kertet."],
       ro: ["Grădina se întinde pe 5 hectare.", "Există peste 500 de specii de plante.", "Colecția include 50 de specii de arbori.", "Grădina a fost fondată în 1895.", "Cel mai bătrân magnol are 130 de ani.", "20.000 de persoane vizitează anual grădina."],
       en: ["The garden covers 5 hectares.", "There are over 500 plant species.", "The collection includes 50 tree species.", "The garden was founded in 1895.", "The oldest magnolia is 130 years old.", "20,000 people visit the garden annually."],
-    }, image: "/poi-images/montenegro-cetinje-botanical-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-durmitor-bear-life-v2",
     type: "wildlife",
@@ -745,7 +767,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A medvepopuláció a Durmitorban 50 egyed.", "A hímek átlagos súlya 250 kg.", "A védett terület nagysága 390 km².", "A parkban 30 medvebarlang található.", "A nőstények évente 2-3 kölyköt hoznak a világra.", "A parkot 1952-ben alapították."],
       ro: ["Populația de urși din Durmitor este de 50 de indivizi.", "Greutatea medie a masculilor este de 250 kg.", "Suprafața ariei protejate este de 390 km².", "Există 30 de peșteri de urs în parc.", "Ursoaicele nasc 2-3 pui pe an.", "Parcul a fost fondat în 1952."],
       en: ["The bear population in Durmitor is 50 individuals.", "Average weight of males is 250 kg.", "Protected area size is 390 km².", "There are 30 bear dens in the park.", "Female bears give birth to 2-3 cubs annually.", "The park was founded in 1952."],
-    }, image: "/poi-images/montenegro-durmitor-bear-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-valdanos-olive-life-v2",
     type: "forest",
@@ -776,7 +799,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["Az olajfaliget 40 hektáron terül el.", "80.000 olajfa található.", "A legidősebb fa 2.000 éves.", "Az éves olajtermelés 150.000 liter.", "A fák 50 méteres tengerszint feletti magasságban állnak.", "A régió évi 2.800 óra napsütést élvez."],
       ro: ["Plantația de măslini se întinde pe 40 de hectare.", "Există 80.000 de măslini.", "Cel mai bătrân copac are 2.000 de ani.", "Producția anuală de ulei este de 150.000 de litri.", "Copacii sunt la o altitudine de 50 m.", "Regiunea beneficiază de 2.800 de ore de soare pe an."],
       en: ["The olive grove covers 40 hectares.", "There are 80,000 olive trees.", "The oldest tree is 2,000 years old.", "Annual oil production is 150,000 liters.", "Trees stand at an elevation of 50 m.", "The region enjoys 2,800 hours of sunshine per year."],
-    }, image: "/poi-images/montenegro-valdanos-olive-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-komovi-alpine-life-v2",
     type: "mountain",
@@ -807,7 +831,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A legmagasabb csúcs a Komovi 2.460 m.", "A rétek 50 km²-t borítanak.", "A régióban 60 endemikus növényfaj él.", "A júliusi átlaghőmérséklet 12°C.", "Az éves csapadékmennyiség 1.500 mm.", "Az orchideafajok száma 25."],
       ro: ["Cel mai înalt vârf este Komovi, cu 2.460 m.", "Pajiștile acoperă 50 km².", "Există 60 de specii endemice de plante în regiune.", "Temperatura medie în iulie este de 12°C.", "Precipitațiile anuale sunt de 1.500 mm.", "Orhideele includ 25 de specii."],
       en: ["The highest peak is Komovi at 2,460 m.", "Meadows cover 50 km².", "There are 60 endemic plant species in the region.", "Average July temperature is 12°C.", "Annual precipitation is 1,500 mm.", "Orchid flora includes 25 species."],
-    }, image: "/poi-images/montenegro-komovi-alpine-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-cetinje-cave-life-v2",
     type: "landmark",
@@ -838,7 +863,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["A Lipska-barlang 2,5 km hosszú.", "Az állandó hőmérséklet 10°C.", "20 barlangi bogárfaj található.", "A legnagyobb cseppkő 10 m hosszú.", "A barlangot 1960-ban nyitották meg a látogatók előtt.", "Évente 30.000 ember keresi fel a barlangot."],
       ro: ["Peștera Lipska are o lungime de 2,5 km.", "Temperatura constantă este de 10°C.", "Există 20 de specii de gândaci cavernicoli.", "Cea mai mare stalactită are 10 m lungime.", "Peștera a fost deschisă publicului în 1960.", "30.000 de persoane vizitează anual peștera."],
       en: ["Lipska Cave is 2.5 km long.", "Constant temperature is 10°C.", "There are 20 cave beetle species.", "The largest stalactite is 10 m long.", "The cave was opened to visitors in 1960.", "30,000 people visit the cave annually."],
-    }, image: "/poi-images/montenegro-cetinje-cave-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-adabo-wildlife-life-v2",
     type: "wildlife",
@@ -869,7 +895,8 @@ export const montenegroLifeV2: POI[] = [
       hu: ["Terület: 15 négyzetkilométer", "Vízmélység: 1-5 méter", "Madárfajok száma: több mint 200", "Védetté nyilvánítás: 2021", "Torkolat hossza: 4 km", "Átlagos nyári hőmérséklet: 25°C"],
       ro: ["Suprafață: aproximativ 15 km²", "Adâncimea apei: 1-5 m", "Numărul de specii de păsări: peste 200", "Anul protecției: 2021", "Lungimea estuarului: 4 km", "Temperatura medie de vară: 25°C"],
       en: ["Area: approx. 15 km²", "Water depth: 1-5 m", "Number of bird species: over 200", "Protected since: 2021", "Estuary length: 4 km", "Average summer temperature: 25°C"],
-    }, image: "/poi-images/montenegro-adabo-wildlife-life-v2.webp"},
+    },
+  },
   {
     id: "montenegro-kucka-korita-flora-life-v2",
     type: "park",

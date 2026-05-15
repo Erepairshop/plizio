@@ -31,7 +31,8 @@ export const andorraNatureV2: POI[] = [
       hu: ["A csúcs magassága pontosan 2740 méter", "Andorra földrajzi középpontjához közel fekszik", "A déli csúcs a leglátogatottabb a túrázók körében", "Mészkőből felépülő, látványos sziklás vonulatok", "Télen népszerű helyszín a sítúrázók számára", "Kilátás nyílik az Estanyó és Serrera csúcsokra is"],
       ro: ["Altitudinea maximă este de 2.740 de metri", "Face legătura între parohiile Ordino și Canillo", "Format din trei culmi distincte pe creasta centrală", "Structură geologică predominant calcaroasă", "Traseul clasic pornește de la cota 1.980 metri", "Vizibilitate până la masivul Maladeta în zile senine"],
       en: ["Elevation reaches 2,740 meters above sea level", "Located exactly between Ordino and Canillo parishes", "Comprised of three summits along a north-south ridge", "Notable for its bright limestone rock formations", "Popular hiking trail starts at the Ordino mountain pass", "Offers a complete view of the Andorran Pyrenees"],
-    }, image: "/poi-images/andorra-pic-de-casamanya-nature-v2.webp"},
+    },
+  },
   {
     id: "andorra-estany-de-jucla-nature-v2",
     type: "lake",
@@ -62,7 +63,8 @@ export const andorraNatureV2: POI[] = [
       hu: ["Felszíne 21,3 hektár kiterjedésű", "2295 méteres tengerszint feletti magasság", "A víztükröt mesterséges gát emeli meg", "Az Incles-gleccservölgyben fekszik", "Közeli menedékház 50 fő befogadására", "Francia határvonal a közvetlen közelben"],
       ro: ["Suprafață totală de 21,3 hectare", "Altitudine record de 2295 metri", "Lac de baraj natural și artificial", "Situat în parohia administrativă Canillo", "Acces pe traseul montan marcat GRP", "Adăpostește specii de păstrăv indigen"],
       en: ["Surface area of 21.3 hectares", "Elevation of 2,295 meters above sea level", "Largest body of water in the country", "Located at the head of Incles Valley", "Adjacent refuge with 50 sleeping spots", "Surrounded by peaks up to 2,775 meters"],
-    }, image: "/poi-images/andorra-estany-de-jucla-nature-v2.webp"},
+    },
+  },
   {
     id: "andorra-cirque-de-pessons-nature-v2",
     type: "lake",
@@ -93,7 +95,8 @@ export const andorraNatureV2: POI[] = [
       hu: ["Andorra legnagyobb jégkorszaki katlana", "Több mint 20 tóból álló tórendszer", "Montmalús csúcs magassága 2781 méter", "Encamp közigazgatási területén fekszik", "Gleccser vájta gránitformációk", "Havasi törpefenyőerdők 2100 m felett"],
       ro: ["Cel mai mare circ glaciar din Andorra", "Sistem complex de peste 20 de lacuri", "Altitudinea bazei este de 2300 metri", "Vârful Montmalús atinge 2781 metri", "Acces facil din stațiunea Grau Roig", "Ecosistem protejat de tip subalpin"],
       en: ["Largest glacial cirque in the country", "Chain of more than 20 alpine lakes", "Base altitude starts at 2,300 meters", "Peak Montmalús reaches 2,781 meters", "Located within Encamp parish", "Classic example of granite erosion"],
-    }, image: "/poi-images/andorra-cirque-de-pessons-nature-v2.webp"},
+    },
+  },
   {
     id: "andorra-pic-de-l-estanyo-nature-v2",
     type: "peak",
@@ -124,7 +127,8 @@ export const andorraNatureV2: POI[] = [
       hu: ["2915 méteres magasságával az ország 4. legmagasabbja", "A Vall de Sorteny Természeti Park ékköve", "Nevét a lábánál fekvő Estanyó-tóról kapta", "Gleccser vájta völgyek és cirkuszvölgyek veszik körül", "A csúcsról belátható a Rialb és a Ransol völgye", "Gazdag flóra, több mint 700 növényfaj a parkban"],
       ro: ["Vârful măsoară 2.915 metri înălțime totală", "Situat în parohia Ordino, zona de nord a țării", "Vecin cu lacul glaciar Estanyó situat la 2.339 metri", "Traseu marcat ce necesită o bună condiție fizică", "Face parte dintr-o rezervație botanică protejată", "Peisaj dominat de grohotișuri și pajiști alpine"],
       en: ["Stands at an elevation of 2,915 meters", "Located in the Sorteny Valley Natural Park", "Named after the Estanyó glacial lake below the peak", "One of the seven peaks in Andorra above 2,900m", "Habitat for the rare Pyrenean brook newt", "Panoramic views include the Pic de la Serrera"],
-    }, image: "/poi-images/andorra-pic-de-l-estanyo-nature-v2.webp"},
+    },
+  },
   {
     id: "andorra-pic-de-font-blanca-nature-v2",
     type: "peak",
@@ -155,7 +159,8 @@ export const andorraNatureV2: POI[] = [
       hu: ["A csúcs magassága 2903 méter a tengerszint felett", "Andorra és a francia Ariège megye határán fekszik", "A Rialb-völgy gleccserformái övezik a hegyet", "Gyakran látogatott célpont sítúrázók és alpinisták által", "A környező csúcsok közül kiemelkedik meredekségével", "A csúcsról látható az Estany de Soulcem tározó"],
       ro: ["Înălțimea vârfului este de 2.903 metri", "Marchează frontiera dintre Andorra și Franța", "Accesul principal se face prin valea Rialb", "Pante nordice abrupte, ideale pentru schi de tură", "Formațiuni de granit specifice Pirineilor Axiali", "Panorama cuprinde masivul francez Bassiès"],
       en: ["Reaches a total height of 2,903 meters", "Forms part of the border with the French Ariège", "Known as Pic de Rialb in local Catalan maps", "Considered a classic peak for ski mountaineering", "Located at the northern end of the Ordino parish", "Provides views of the Soulcem dam in France"],
-    }, image: "/poi-images/andorra-pic-de-font-blanca-nature-v2.webp"},
+    },
+  },
   {
     id: "andorra-estany-de-les-abelletes-nature-v2",
     type: "lake",
@@ -186,7 +191,8 @@ export const andorraNatureV2: POI[] = [
       hu: ["2258 méteres tengerszint feletti magasság", "A határvonal a tó közepén húzódik", "Az Ariège folyó fő forrásvidéke", "Maximális mélysége 15 méter körüli", "Engedélyezett horgászati helyszín", "Pas de la Casa település felett fekszik"],
       ro: ["Altitudine oficială de 2258 metri", "Împărțit egal între Franța și Andorra", "Sursa principală a râului Ariège", "Adâncime maximă de 15 metri", "Habitat natural pentru păstrăvul brun", "Aproape de stațiunea Pas de la Casa"],
       en: ["Elevation of 2,258 meters above sea level", "Shared border between Andorra and France", "Primary source of the Ariège River", "Maximum water depth of 15 meters", "Popular spot for high-altitude fishing", "Located near the town of Pas de la Casa"],
-    }, image: "/poi-images/andorra-estany-de-les-abelletes-nature-v2.webp"},
+    },
+  },
   {
     id: "andorra-bosc-de-la-devesa-nature-v2",
     type: "forest",
@@ -217,7 +223,8 @@ export const andorraNatureV2: POI[] = [
       hu: ["Havasi törpefenyő és feketefenyő erdő", "A Comapedrosa Natúrpark védett övezete", "Átlagos tengerszint feletti magasság 1900 m", "Védett siketfajd populáció otthona", "Sűrű rhododendronos aljnövényzet", "Arinsal település közvetlen közelében"],
       ro: ["Pădure de Pinus uncinata (pin negru)", "Integrată în Parcul Natural Comapedrosa", "Altitudine medie de 1900 metri", "Refugiu pentru cocoșul de munte", "Suprafață forestieră de 150 hectare", "Floră bogată în rododendron și afine"],
       en: ["Dominated by Pinus uncinata trees", "Part of the Comapedrosa Nature Park", "Elevation range 1,800 to 2,100 meters", "Habitat for the rare capercaillie bird", "Extensive growth of wild rhododendrons", "Located in the steep Arinsal valley"],
-    }, image: "/poi-images/andorra-bosc-de-la-devesa-nature-v2.webp"},
+    },
+  },
   {
     id: "andorra-pic-de-la-portelleta-nature-v2",
     type: "peak",
@@ -248,7 +255,8 @@ export const andorraNatureV2: POI[] = [
       hu: ["A hegy magassága 2905 méter a tengerszint felett", "Spanyolországban Tossa Plana de Lles néven ismert", "A Madriu-Perafita-Claror völgyet uraló legmagasabb csúcs", "Az UNESCO kulturális táj részeként védett terület", "Könnyen elérhető a spanyol Lles de Cerdanya felől", "Gránitból álló hatalmas tömbök jellemzik a csúcsot"],
       ro: ["Altitudinea este de 2.905 metri", "Situat pe linia de demarcație dintre Andorra și Spania", "Cunoscut și sub numele de Tossa Plana de Lles", "Punct culminant al văii UNESCO Madriu-Perafita-Claror", "Accesibil prin circurile glaciare Perafita și Setut", "Vederi deschise spre munții Cadí-Moixeró"],
       en: ["Height is 2,905 meters above sea level", "Border peak between Andorra and Spain (Lérida)", "Also known as Tossa Plana de Lles in Spain", "Highest point of the Madriu-Perafita-Claror UNESCO site", "Features large glacial cirques on its northern face", "Commanding views of the Cerdanya plains to the south"],
-    }, image: "/poi-images/andorra-pic-de-la-portelleta-nature-v2.webp"},
+    },
+  },
   {
     id: "andorra-estanys-de-la-vall-del-riu-nature-v2",
     type: "lake",
@@ -311,7 +319,8 @@ export const andorraNatureV2: POI[] = [
       hu: ["Magassága 2644 méter, az ország déli részén", "Sötét színű metamorf kőzetek alkotják a felszínt", "Sant Julià de Lòria egyházközség legfontosabb csúcsa", "A La Rabassa sífutóközpont közelében található", "UNESCO által védett völgyrendszer déli kapuja", "Népszerű terepjárós és hegyikerékpáros útvonal"],
       ro: ["Vârful are o altitudine de 2.644 metri", "Numele provine de la șisturile negre proeminente", "Situat în parohia Sant Julià de Lòria", "Acces ușor prin platoul alpin La Rabassa", "Zona este inclusă în situl UNESCO Madriu", "Oferă vederi spre valea spaniolă a râului Segre"],
       en: ["Elevation is 2,644 meters above sea level", "Named 'Black Peak' due to the dark schist rock", "Primary summit of the Sant Julià de Lòria parish", "Accessible via forest tracks from Naturland/La Rabassa", "Borders the Madriu-Perafita-Claror UNESCO valley", "Known for its high-altitude plateau landscape"],
-    }, image: "/poi-images/andorra-pic-negre-de-claror-nature-v2.webp"},
+    },
+  },
   {
     id: "andorra-estany-de-cabana-sorda-nature-v2",
     type: "lake",
@@ -342,7 +351,8 @@ export const andorraNatureV2: POI[] = [
       hu: ["2295 méteres tengerszint feletti magasság", "20 fős hegyi menedékház (Refugi)", "Az Incles-völgy északi oldalán fekszik", "Szinte tökéletes kör alakú tómeder", "Gleccsererózió által kivájt gránitfalak", "Közepes nehézségű gyalogtúra célpont"],
       ro: ["Altitudine de 2295 metri deasupra mării", "Refugiu montan neasistat cu 20 de locuri", "Formă circulară aproape geometrică", "Diferență de nivel de 480 m de la drum", "Origine glaciară din perioada cuaternară", "Situat în parohia Canillo, valea Incles"],
       en: ["Elevation of 2,295 meters above sea level", "Mountain refuge capacity of 20 people", "Distinctive circular shoreline shape", "Vertical climb of 480 meters from road", "Glacial basin carved from granite bedrock", "Key stop on the GRP circular hiking trail"],
-    }, image: "/poi-images/andorra-estany-de-cabana-sorda-nature-v2.webp"},
+    },
+  },
   {
     id: "andorra-pic-de-medacorba-nature-v2",
     type: "peak",
@@ -373,7 +383,8 @@ export const andorraNatureV2: POI[] = [
       hu: ["Magassága 2914 méter, hármas határpont a hegyen", "Andorra, Franciaország és Spanyolország osztozik rajta", "A La Massana egyházközség északnyugati csücskében van", "Technikai nehézséget jelentő, sziklás gerincút vezet fel", "Kilátás nyílik a közeli Baiau-tavakra és gleccserkatlanokra", "A Comapedrosa Nemzeti Park peremén fekszik"],
       ro: ["Vârful atinge o cotă de 2.914 metri", "Punct de frontieră triplu: AD, FR, ES", "Situat în extremitatea vestică a parohiei La Massana", "Traseu alpin tehnic cu porțiuni de grohotiș și stâncă", "Domină circul glaciar Baiau din Spania", "Face parte din masivul Comapedrosa-Medacorba"],
       en: ["Elevation: 2,914 meters, a strategic tripoint", "Meeting point of Andorra, France, and Spain", "Located in the western part of La Massana parish", "Requires scrambling skills to reach the summit", "Overlooks the glacial Baiau lakes in Catalonia", "A key geographical pillar of the Pyrenean range"],
-    }, image: "/poi-images/andorra-pic-de-medacorba-nature-v2.webp"},
+    },
+  },
   {
     id: "andorra-pic-de-sanfonts-nature-v2",
     type: "peak",

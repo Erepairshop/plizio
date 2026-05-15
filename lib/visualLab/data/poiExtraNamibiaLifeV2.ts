@@ -931,25 +931,5 @@ export const poiExtraNamibiaLifeV2: POI[] = [
     
     
   }
-,
-  {
-    id: "namibia-khaudum-national-park-life-v2",
-    type: "wildlife",
-    name: { de: "Khaudum-Nationalpark", hu: "Khaudum Nemzeti Park", ro: "Parcul Național Khaudum", en: "Khaudum National Park" },
-    coords: [20.7333, -18.5833],
-    description: {
-      de: "Der Khaudum-Nationalpark ist ein abgelegenes Wildreservat im Nordosten Namibias, das für seine unberührte Wildnis bekannt ist. Er beherbergt große Elefantenherden und ist nur mit 4x4-Fahrzeugen erreichbar.",
-      hu: "A Khaudum Nemzeti Park egy távoli vadrezervátum Namíbia északkeleti részén, amely érintetlen vadonjáról híres. Hatalmas elefántcsordáknak ad otthont, és csak 4x4-es járművekkel közelíthető meg.",
-      ro: "Parcul Național Khaudum este o rezervație izolată din nord-estul Namibiei, renumită pentru sălbăticia sa pură. Găzduiește turme mari de elefanți și este accesibil doar cu vehicule de teren 4x4.",
-      en: "Khaudum National Park is a remote wildlife reserve in northeastern Namibia, famous for its pristine wilderness. It is home to large elephant herds and is accessible only by 4x4 vehicles.",
-    },
-    facts: {
-      de: ["Gründungsjahr: 1989", "Fläche: ca. 3.842 Quadratkilometer", "Keine Zäune ermöglichen freie Tierwanderungen", "Nur für erfahrene 4x4-Fahrer empfohlen"],
-      hu: ["Alapítás éve: 1989", "Területe: kb. 3842 négyzetkilométer", "A kerítések hiánya lehetővé teszi a vándorlást", "Csak tapasztalt 4x4-es vezetőknek ajánlott"],
-      ro: ["Anul înființării: 1989", "Suprafață: aproximativ 3.842 kilometri pătrați", "Absența gardurilor permite migrația liberă", "Recomandat doar șoferilor experimentați de 4x4"],
-      en: ["Established in 1989", "Area: approximately 3,842 square kilometers", "Lack of fences allows for free wildlife migration", "Recommended only for experienced 4x4 drivers"],
-    },
-    imageHint: "Elephants at a natural water pan in Khaudum National Park Namibia",
-  }
 ];
 

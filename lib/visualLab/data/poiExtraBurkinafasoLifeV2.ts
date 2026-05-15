@@ -785,37 +785,5 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
       en: ["Cultivated area: 600,000 ha", "Annual production: 900,000 t", "Average yield: 1.5 t/ha", "Season: June to November", "SR21 variety widely used", "Export: 50,000 t (2020)"],
     },
   }
-,
-  {
-    id: "burkinafaso-kabore-tambi-national-park-life-v2",
-    type: "park",
-    name: { de: "Nationalpark Kaboré Tambi", hu: "Kaboré Tambi Nemzeti Park", ro: "Parcul Național Kaboré Tambi", en: "Kaboré Tambi National Park" },
-    coords: [-1.25, 11.5833],
-    description: {
-      de: "Dieser Nationalpark liegt zwischen Ouagadougou und Pô am Roten Volta. Er schützt Galeriewälder und dient als wichtiger Lebensraum für Elefanten.",
-      hu: "Ez a nemzeti park Ouagadougou és Pô között terül el a Vörös-Volta mentén. Galériaerdőket védelmez és fontos elefánt-élőhely.",
-      ro: "Acest parc național este situat între Ouagadougou și Pô, de-a lungul Voltei Roșii. Protejează păduri-galerie și habitate pentru elefanți.",
-      en: "This national park is located between Ouagadougou and Pô along the Red Volta. It protects gallery forests and is a major elephant habitat.",
-    },
-    facts: {
-      de: ["1976 als Nationalpark Pô gegründet.", "1991 zu Ehren des Rangers Kaboré Tambi umbenannt.", "Erstreckt sich über ca. 1.555 Quadratkilometer.", "Beherbergt Elefanten, Paviane und 200 Vogelarten."],
-      hu: ["1976-ban alapították Pô Nemzeti Park néven.", "1991-ben nevezték át Kaboré Tambi vadőr tiszteletére.", "Területe megközelítőleg 1555 négyzetkilométer.", "Elefántoknak, páviánoknak és 200 madárfajnak ad otthont."],
-      ro: ["Fondat în 1976 sub numele de Parcul Național Pô.", "Redenumit în 1991 în onoarea rangerului Kaboré Tambi.", "Acoperă o suprafață de aproximativ 1.555 km pătrați.", "Găzduiește elefanți, babuini și 200 de specii de păsări."],
-      en: ["Established in 1976 as Pô National Park.", "Renamed in 1991 after ranger Kaboré Tambi.", "Covers an area of about 1,555 square kilometers.", "Home to elephants, baboons, and 200 bird species."],
-    },
-    imageHint: "Kabore Tambi National Park landscape with savannah and Red Volta river",
-    descriptionAdvanced: {
-      de: "Der Kaboré Tambi Nationalpark, 1976 als Po-Nationalpark gegründet, liegt im Süden Burkina Fasos an der Grenze zu Ghana. Er umfasst 1.550 km² Savanne, Galeriewälder und die Wasserfälle von Sinu. Der Park ist bekannt für seine Elefantenpopulation von etwa 500 Tieren sowie Antilopen, Paviane und Löwen. Benannt wurde er nach dem ehemaligen Präsidenten Noël Kaboré Tambi. Er ist ein wichtiges Ziel für Ökotourismus. Die Trockenzeit von November bis Mai ist die beste Reisezeit.",
-      hu: "A Kaboré Tambi Nemzeti Parkot 1976-ban alapították Po Nemzeti Park néven, Burkina Faso déli részén, Ghana határán. Területe 1550 km² szavannát, galériaerdőket és a Sinu-vízesést foglal magában. Híres elefántállományáról (kb. 500 egyed), valamint antilopok, páviánok és oroszlánok élőhelye. Névadója Noël Kaboré Tambi volt elnök. Fontos ökoturisztikai célpont. A legjobb látogatási időszak novembertől májusig tart.",
-      ro: "Parcul Național Kaboré Tambi, înființat în 1976 ca Parcul Național Po, se află în sudul Burkina Faso, la granița cu Ghana. Cuprinde 1.550 km² de savană, păduri de galerie și cascadele Sinu. Este cunoscut pentru populația de circa 500 de elefanți, antilope, babuini și lei. A fost redenumit în onoarea fostului președinte Noël Kaboré Tambi. Este o destinație majoră de ecoturism. Sezonul secetos (noiembrie-mai) este optim pentru vizite.",
-      en: "Kaboré Tambi National Park, originally established as Po National Park in 1976, is located in southern Burkina Faso along the Ghana border. Covering 1,550 km², its landscape includes savanna, gallery forests, and the Sinu Waterfalls. The park is home to a significant elephant population of around 500, along with antelopes, baboons, and lions. It was renamed after former President Noël Kaboré Tambi. A key ecotourism site, the park offers wildlife viewing and hiking. The dry season from November to May is the best time to visit.",
-    },
-    factsAdvanced: {
-      de: ["Gegründet 1976, Fläche 1.550 km²", "Elefantenpopulation: ca. 500 Tiere", "Höchster Punkt: 300 m über dem Meeresspiegel", "Wasserfälle von Sinu mit 15 m Fallhöhe", "Jährliche Besucherzahl: rund 5.000 Touristen", "Der Park beherbergt 280 Vogelarten"],
-      hu: ["1976-ban alapították, területe 1550 km²", "Elefántpopuláció: kb. 500 egyed", "Legmagasabb pont: 300 m tengerszint felett", "Sinu-vízesés 15 méter magas", "Éves látogatószám: kb. 5000 turista", "280 madárfaj él a parkban"],
-      ro: ["Înființat în 1976, suprafață 1.550 km²", "Populație de elefanți: circa 500 de exemplare", "Altitudine maximă: 300 m", "Cascadele Sinu au o cădere de 15 m", "Număr anual de vizitatori: aproximativ 5.000", "Adăpostește 280 de specii de păsări"],
-      en: ["Established in 1976, area 1,550 km²", "Elephant population: approximately 500", "Highest elevation: 300 m above sea level", "Sinu Waterfalls with a 15 m drop", "Annual visitors: around 5,000 tourists", "Home to 280 bird species"],
-    },
-  }
 ];
 

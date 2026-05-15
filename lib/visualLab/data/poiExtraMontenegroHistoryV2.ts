@@ -31,7 +31,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Doclea a 2. században élte fénykorát.", "A városban működött egy 30 méter hosszú bazilika.", "A vízvezeték hossza 10 km volt.", "Az amfiteátrum 2000 fő befogadására volt alkalmas.", "A keresztény közösség a 4. században jelent meg.", "A település területe 15 hektár volt."],
       ro: ["Doclea se întindea pe 20 de hectare.", "Apeductul orașului avea 12 km lungime.", "Sediul episcopal datează din secolul V.", "Monedele emise local purtau inscripția DIOCL.", "Porțile orașului aveau 8 m înălțime.", "Săpăturile arheologice au început în 1890."],
       en: ["Founded under Emperor Tiberius (14-37 AD).", "Covered an area of 25 hectares.", "Had its own mint producing bronze coins.", "Public baths covered 1,500 square meters.", "The forum measured 80 by 60 meters.", "Located 3 km north of Podgorica."],
-    }, image: "/poi-images/montenegro-doclea-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-medun-history-v2",
     type: "ruins",
@@ -62,7 +63,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Kr. e. 4. századi alapítás", "13 km-re fekszik Podgoricától", "Illír Labeát törzsi központ", "480 méter tengerszint feletti magasság", "Ciklopfalak hatalmas kövekből", "1971-ben nyílt meg a helyi múzeum"],
       ro: ["Fondat în secolul IV î.Hr.", "Situat la 480 m altitudine", "La 13 km distanță de Podgorica", "Ziduri ciclopice bine conservate", "Muzeul memorial Marko Miljanov", "Atestat ca orașul antic Meteon"],
       en: ["Founded in 4th century BC", "480 meters above sea level", "Located 13 km from Podgorica", "Cyclopean masonry construction", "Birthplace of Marko Miljanov", "Ancient capital of the Labeates"],
-    }, image: "/poi-images/montenegro-medun-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-zuta-greda-history-v2",
     type: "battlefield",
@@ -125,7 +127,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Az erőd három szintből áll.", "Fala 2 méter vastag.", "1840-1860 között épült.", "A Kotori-öböl bejáratánál található.", "Tengerszint feletti magassága: 50 m.", "Az erőd ma elhagyatott."],
       ro: ["Construită între 1840 și 1860.", "Zidurile au 2 m grosime.", "Altitudinea: 50 m deasupra mării.", "Plan rectangular cu latura de 30 m.", "Folosită de garnizoana austriacă.", "Accesibil pe jos de pe plajă."],
       en: ["Built 1840-1860 by Austro-Hungarian Empire.", "Wall thickness: 2 m.", "Elevation: 50 m above sea level.", "Total area: 1,200 square meters.", "Had a garrison of 150 soldiers.", "Abandoned in 1918."],
-    }, image: "/poi-images/montenegro-zanjice-fort-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-obostnik-history-v2",
     type: "castle",
@@ -156,7 +159,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Bronzkori rétegek is találhatók.", "A kőfalak vastagsága 2 méter.", "Egy 5 méter mély ciszterna került elő.", "A római erődítmény a 2. századból származik.", "A lelőhely területe 2 hektár.", "A település a 4. században néptelenedett el."],
       ro: ["Situl datează din epoca bronzului (1200 î.Hr.).", "Zidurile ilirice sunt din piatră uscată.", "Altitudinea dealului: 150 m.", "Suprafața: 1,5 ha.", "Monede romane din secolul II d.Hr. descoperite.", "Abandonat în jurul anului 400 d.Hr."],
       en: ["First settled in Bronze Age, 1200 BC.", "Cyclopean walls up to 2 m thick.", "Hill height: 150 m.", "Site area: 2 ha.", "Cistern depth: 5 m.", "Abandoned circa 400 AD."],
-    }, image: "/poi-images/montenegro-obostnik-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-vranjina-history-v2",
     type: "monument",
@@ -187,7 +191,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["A kolostort a Nemanjić-dinasztia alapította.", "A sziget területe 0,3 km².", "A kolostor könyvtára értékes kéziratokat őrzött.", "A sziget a Skutari-tóban található.", "A törökök a 15. században rombolták le.", "Ma madárrezervátum."],
       ro: ["Mănăstirea datează din secolul XIII.", "Lungimea insulei: 0,5 km.", "Altitudinea insulei: 10 m deasupra lacului.", "Dedicată Sfântului Nicolae.", "Distrusă în secolul XV de otomani.", "Parte a Parcului Național Lacul Skadar."],
       en: ["Monastery founded in 1260 by King Stefan Uroš I.", "Island length: 500 m.", "Area: 0.3 km².", "Nesting site for over 50 bird species.", "Monastery had a scriptorium with 200 manuscripts.", "Accessible by boat from the village of Vranjina."],
-    }, image: "/poi-images/montenegro-vranjina-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-tvrđava-goražda-history-v2",
     type: "castle",
@@ -250,7 +255,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["1880-1900 között épült.", "Föld alatti létesítmények hálózata.", "A falak vastagsága 3 méter.", "Laktanya, konyha és kórház is volt benne.", "A jugoszláv hadsereg használta.", "50 szoba található benne."],
       ro: ["Construită între 1880-1900.", "Ziduri groase de 3 m.", "Suprafață: 5000 m².", "Capacitate: 500 de soldați.", "50 de încăperi subterane.", "Folosită de armata iugoslavă până în 1990."],
       en: ["Construction: 1880-1900.", "Wall thickness: up to 3 m.", "Total area: 5,000 m².", "Capacity: 500 soldiers.", "Rooms: over 50.", "Decommissioned in 1991."],
-    }, image: "/poi-images/montenegro-vrmac-fort-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-starigrad-ulcinj-history-v2",
     type: "ruins",
@@ -313,7 +319,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Kr. e. 5. századi első említés", "400 éves velencei uralom", "1979-es pusztító földrengés utáni újjáépítés", "19. századi Citadella erőd", "450 méter hosszú várfalrendszer", "6 középkori templom az óvárosban"],
       ro: ["Menționat în secolul V î.Hr.", "400 de ani de stăpânire venețiană", "Restaurat după cutremurul din 1979", "Citadelă construită în secolul XIX", "Ziduri lungi de 450 de metri", "Adăpostește 6 biserici istorice"],
       en: ["Mentioned in 5th century BC", "400 years of Venetian administration", "Extensive 1979 earthquake restoration", "Citadel dates to the 19th century", "450-meter long defensive walls", "Home to 6 medieval churches"],
-    }, image: "/poi-images/montenegro-stari-grad-budva-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-arza-fort-history-v2",
     type: "castle",
@@ -344,7 +351,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["1850 körül épült.", "Két ágyúállással rendelkezik.", "Helyi mészkőből készült.", "Tengerszint feletti magasság: 20 m.", "30 fős helyőrséggel rendelkezett.", "Az öböl bejáratát védte."],
       ro: ["Construită în jurul anului 1850.", "Două platforme pentru tunuri.", "Piatră calcaroasă locală.", "Altitudinea: 20 m deasupra mării.", "Garnizoană: 30 de soldați.", "Accesibil pe un drum de 500 m."],
       en: ["Built circa 1850.", "Two gun emplacements.", "Limestone construction.", "Elevation: 20 m above sea level.", "Garrison: 30 soldiers.", "Hike distance: 500 m."],
-    }, image: "/poi-images/montenegro-arza-fort-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-gradina-history-v2",
     type: "ruins",
@@ -375,7 +383,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Szisztematikus ásatások 1972 óta", "9. századi bazilika romjai", "12 km távolságra Danilovgradtól", "Duklja uralkodóinak székhelye", "Kora középkori kerámialeletek", "Fontos lelőhely a Zeta-völgyben"],
       ro: ["Săpături începute în anul 1972", "Ruinele unei bazilici din sec. IX", "Localizat la 12 km de Danilovgrad", "Fostă reședință regală în Duklja", "Descoperiri de ceramică medievală", "Poziție strategică în valea Zeta"],
       en: ["Excavations active since 1972", "Ruins of a 9th-century basilica", "Located 12 km from Danilovgrad", "Royal residence of Doclean rulers", "Abundant early medieval pottery", "Situated within the Zeta Valley"],
-    }, image: "/poi-images/montenegro-gradina-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-manastir-rezevici-history-v2",
     type: "church",
@@ -406,7 +415,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["14. századi alapítású.", "15. századi freskók találhatóak.", "Udvarán 400 éves olajfa áll.", "A törökök többször lerombolták.", "19. században újjáépítették.", "A kolostorban szerzetesek élnek."],
       ro: ["Fondată în secolul XIV.", "Fresce din secolul XV.", "Măslin vechi de 400 de ani.", "Distrusă de otomani în secolul XVII.", "Reconstruită în 1860.", "Adăpostește 5 călugări."],
       en: ["Founded in the 14th century.", "Frescoes dated 1490.", "Distance from Petrovac: 3 km.", "Bell tower height: 15 m.", "Monastery museum has 50 icons.", "Active monastic community."],
-    }, image: "/poi-images/montenegro-manastir-rezevici-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-manastir-praskvica-history-v2",
     type: "church",
@@ -437,7 +447,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["12. századi alapítású.", "Könyvtára 300 kéziratot tartalmaz.", "A templom 1750-ben épült.", "A kolostor udvarán ciszterna van.", "Tivattól 5 km-re található.", "Ma apácák lakják."],
       ro: ["Fondată în secolul XII.", "Bibliotecă cu 300 de manuscrise.", "Biserica construită în 1750.", "Distrusă de otomani în 1570.", "Situată la 5 km de Tivat.", "Adăpostește 4 călugărițe."],
       en: ["Founded in the 12th century.", "Library: 300 manuscripts.", "Church built in 1750.", "Distance from Tivat: 5 km.", "Destroyed by Ottomans in 1570.", "Now a convent with 4 nuns."],
-    }, image: "/poi-images/montenegro-manastir-praskvica-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-manastir-podlastva-history-v2",
     type: "church",
@@ -468,7 +479,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["14. században épült.", "A törökök lerombolták.", "A 19. században építették újjá.", "A templom ikonjai a 19. századból származnak.", "Ma lakatlan.", "Közelében barlang található."],
       ro: ["Fondată în secolul XIV.", "Biserica reconstruită în 1830.", "Distrusă de otomani în secolul XVII.", "Situată la 4 km de Petrovac.", "Icoane din secolul XIX.", "Peștera remiților în apropiere."],
       en: ["Founded in the 14th century.", "Rebuilt in 1830.", "Distance from Petrovac: 4 km.", "Stone iconostasis.", "Olive trees over 300 years old.", "Unoccupied; occasional services."],
-    }, image: "/poi-images/montenegro-manastir-podlastva-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-zupa-monastery-history-v2",
     type: "church",
@@ -499,7 +511,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["13. századi alapítású.", "Freskói a 14. századból származnak.", "Keresztkupolás templom.", "1463-ban pusztították el a törökök.", "Nikšićtől 10 km-re található.", "Régészeti feltárás zajlik."],
       ro: ["Fondată în secolul XIII.", "Fresce din secolul XIV.", "Distrusă în 1463 de otomani.", "Distanță față de Nikšić: 10 km.", "Plan în cruce cu dom.", "Sit arheologic important."],
       en: ["Founded in the 13th century.", "Frescoes from the 14th century.", "Destroyed in 1463.", "Distance from Nikšić: 10 km.", "Dome diameter: 10 m.", "Protected cultural monument."],
-    }, image: "/poi-images/montenegro-zupa-monastery-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-manastir-kom-history-v2",
     type: "church",
@@ -530,7 +543,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["14. századi alapítású.", "A törökök 1455-ben rombolták le.", "1650-ben építették újjá.", "Az ikonosztáz 1720-ból származik.", "Danilovgradtól 5 km-re található.", "Ma 3 szerzetes él itt."],
       ro: ["Fondată în secolul XIV.", "Distrusă în 1455 de otomani.", "Reconstruită în 1650.", "Catapeteasma din 1720.", "Distanță de Danilovgrad: 5 km.", "Comunitate de 3 călugări."],
       en: ["Founded in the 14th century.", "Destroyed in 1455.", "Rebuilt in 1650.", "Iconostasis dated 1720.", "Distance from Danilovgrad: 5 km.", "Active with 3 monks."],
-    }, image: "/poi-images/montenegro-manastir-kom-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-manastir-starceva-gorica-history-v2",
     type: "church",
@@ -561,7 +575,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["14. századi alapítású.", "A templom 1710-ben épült.", "A sziget 2 hektáros.", "1470-ben rombolták le a törökök.", "Csak hajóval közelíthető meg.", "Ma apácák lakják."],
       ro: ["Fondată în secolul XIV.", "Biserica construită în 1710.", "Insula are 2 ha.", "Distrusă în 1470 de otomani.", "Accesibilă cu barca (3 km).", "Mănăstire de maici (5 călugărițe)."],
       en: ["Founded in the 14th century.", "Church built in 1710.", "Island area: 2 ha.", "Destroyed in 1470.", "Distance to shore: 3 km.", "Nunnery with 5 nuns."],
-    }, image: "/poi-images/montenegro-manastir-starceva-gorica-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-manastir-beska-history-v2",
     type: "church",
@@ -592,7 +607,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["14. században alapították.", "Szent Györgynek szentelték.", "A templom 1550-ben épült.", "A sziget 1,5 hektáros.", "1450-ben rombolták le a törökök.", "Szőlőt művelnek a szigeten."],
       ro: ["Fondată în secolul XIV.", "Biserica construită în 1550.", "Insula de 1,5 ha.", "Distrusă în 1450.", "Produce vin din propriile vii.", "Accesibilă cu barca (4 km)."],
       en: ["Founded in the 14th century.", "Church built in 1550.", "Island area: 1.5 ha.", "Destroyed in 1450.", "Wine production from own vineyards.", "Boat access, 4 km from shore."],
-    }, image: "/poi-images/montenegro-manastir-beska-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-tvrđava-besac-history-v2",
     type: "castle",
@@ -623,7 +639,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["15. századi oszmán építésű.", "Negyzet alaprajz, 4 torony.", "Falvastagság: 2 méter.", "Tengerszint feletti magasság: 30 m.", "1880-ban korszerűsítették.", "Virpazartól 1 km-re található."],
       ro: ["Construită în secolul XV de otomani.", "Plan dreptunghiular cu 4 turnuri.", "Ziduri groase de 2 m.", "Altitudinea deasupra lacului: 30 m.", "Modernizată în 1880 de austrieci.", "Distanță de Virpazar: 1 km."],
       en: ["Built in the 15th century by Ottomans.", "Rectangular plan with 4 towers.", "Wall thickness: 2 m.", "Elevation above lake: 30 m.", "Modernized in 1880.", "Distance from Virpazar: 1 km."],
-    }, image: "/poi-images/montenegro-tvrđava-besac-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-manastir-dobrilovina-history-v2",
     type: "church",
@@ -654,7 +671,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["1590-ben alapították.", "Szent Miklósnak szentelték.", "1780-ban rombolták le a törökök.", "1850-ben építették újjá.", "Mojkovactól 10 km-re található.", "Ma 4 szerzetes él itt."],
       ro: ["Fondată în 1590.", "Biserica reconstruită în 1850.", "Distrusă în 1780 de otomani.", "Catapeteasmă din lemn.", "Distanță de Mojkovac: 10 km.", "Comunitate de 4 călugări."],
       en: ["Founded in 1590.", "Church rebuilt in 1850.", "Destroyed in 1780.", "Wooden iconostasis.", "Distance from Mojkovac: 10 km.", "Monks: 4."],
-    }, image: "/poi-images/montenegro-manastir-dobrilovina-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-manastir-brezovic-history-v2",
     type: "church",
@@ -685,7 +703,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["1620-ban alapították.", "Szent Györgynek szentelték.", "1740-ben lerombolták.", "1820-ban építették újjá.", "Beranétől 5 km-re található.", "Ma 3 szerzetes él itt."],
       ro: ["Fondată în 1620.", "Biserica reconstruită în 1820.", "Distrusă în 1740.", "Turn clopotniță de 15 m.", "Distanță de Berane: 5 km.", "3 călugări."],
       en: ["Founded in 1620.", "Rebuilt in 1820.", "Destroyed in 1740.", "Bell tower height: 15 m.", "Distance from Berane: 5 km.", "Active monastic community."],
-    }, image: "/poi-images/montenegro-manastir-brezovic-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-manastir-zlatica-history-v2",
     type: "church",
@@ -716,7 +735,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["1580-ban alapították.", "A Szentháromságnak szentelték.", "1760-ban rombolták le a törökök.", "1860-ban újjáépítették.", "Mojkovactól 8 km-re található.", "Ma 3 szerzetes él itt."],
       ro: ["Fondată în 1580.", "Biserica reconstruită în 1860.", "Distrusă în 1760.", "Catapeteasmă din lemn sculptat.", "Distanță de Mojkovac: 8 km.", "3 călugări."],
       en: ["Founded in 1580.", "Rebuilt in 1860.", "Destroyed in 1760.", "Wooden carved iconostasis.", "Distance from Mojkovac: 8 km.", "Active monastery with 3 monks."],
-    }, image: "/poi-images/montenegro-manastir-zlatica-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-tvrđava-lesendro-history-v2",
     type: "ruins",
@@ -747,7 +767,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["A sziget területe: kb. 0,5 hektár", "Építés éve: kb. 1570", "Falak magassága: akár 8 méter", "Távolság Bar városától: 12 km", "Tornyok száma: 4", "Maximális legénység: kb. 200 katona"],
       ro: ["Suprafața insulei: aprox. 0,5 ha", "Anul construcției: cca. 1570", "Înălțimea zidurilor: până la 8 m", "Distanța până la orașul Bar: 12 km", "Numărul de turnuri: 4", "Capacitatea maximă: cca. 200 de soldați"],
       en: ["Island area: approx. 0.5 hectares", "Year built: ca. 1570", "Wall height: up to 8 meters", "Distance from Bar: 12 km", "Number of towers: 4", "Maximum garrison: ca. 200 soldiers"],
-    }, image: "/poi-images/montenegro-tvrđava-lesendro-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-manastir-celija-piperska-history-v2",
     type: "church",
@@ -778,7 +799,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 650 m", "Építés éve: 1620", "Ikonok száma: 15", "Kolostor területe: 0,3 hektár", "Távolság Podgoricától: 20 km", "Szerzetesek száma 2023-ban: 4"],
       ro: ["Altitudine: 650 m", "Anul construcției: 1620", "Număr de icoane: 15", "Suprafața mănăstirii: 0,3 ha", "Distanța până la Podgorica: 20 km", "Călugări în 2023: 4"],
       en: ["Altitude: 650 m", "Year built: 1620", "Number of icons: 15", "Monastery area: 0.3 ha", "Distance to Podgorica: 20 km", "Monks in 2023: 4"],
-    }, image: "/poi-images/montenegro-manastir-celija-piperska-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-tvrđava-haj-nehaj-history-v2",
     type: "castle",
@@ -809,7 +831,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 150 m", "Építés éve: 1540", "Falak hossza: 500 m", "Erőd területe: 1,2 hektár", "Távolság a strandtól: 1 km", "Bástyák száma: 3"],
       ro: ["Altitudine față de nivelul mării: 150 m", "Anul construcției: 1540", "Lungimea zidurilor: 500 m", "Suprafața cetății: 1,2 ha", "Distanța până la plajă: 1 km", "Numărul de bastioane: 3"],
       en: ["Height above sea: 150 m", "Year built: 1540", "Length of walls: 500 m", "Fortress area: 1.2 ha", "Distance to beach: 1 km", "Number of bastions: 3"],
-    }, image: "/poi-images/montenegro-tvrđava-haj-nehaj-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-manastir-savina-history-v2",
     type: "church",
@@ -840,7 +863,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 80 m", "Kis templom építési éve: 1030", "Nagy templom építési éve: 1777", "Könyvtár könyveinek száma: 5000", "Harangtorony magassága: 25 m", "1979-es földrengés kárai: 70% megsemmisült"],
       ro: ["Altitudine: 80 m", "Anul construirii bisericii mici: 1030", "Anul construirii bisericii mari: 1777", "Numărul de cărți din bibliotecă: 5000", "Înălțimea turnului clopotniță: 25 m", "Pagubele cutremurului din 1979: 70% distrus"],
       en: ["Altitude: 80 m", "Year of small church: 1030", "Year of large church: 1777", "Number of books in library: 5000", "Bell tower height: 25 m", "1979 earthquake damage: 70% destroyed"],
-    }, image: "/poi-images/montenegro-manastir-savina-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-manastir-gradiste-history-v2",
     type: "church",
@@ -871,7 +895,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Építés éve: 1240", "Tengerszint feletti magasság: 200 m", "Kolostor területe: 0,5 hektár", "Freskók száma: 12", "Távolság Petrovactól: 3 km", "Olajfák a kolostorkertben: 150"],
       ro: ["Anul construcției: 1240", "Altitudine: 200 m", "Suprafața mănăstirii: 0,5 ha", "Numărul de fresce: 12", "Distanța până la Petrovac: 3 km", "Numărul de măslini din grădina mănăstirii: 150"],
       en: ["Year built: 1240", "Height above sea: 200 m", "Monastery area: 0.5 ha", "Number of frescoes: 12", "Distance to Petrovac: 3 km", "Olive trees in monastery garden: 150"],
-    }, image: "/poi-images/montenegro-manastir-gradiste-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-tvrđava-marsal-marmont-history-v2",
     type: "castle",
@@ -902,7 +927,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Építés éve: 1808", "Tengerszint feletti magasság: 450 m", "Erődfalak hossza: 600 m", "Terület: 2 hektár", "Távolság Tivattól: 4 km", "Bástyák száma: 5"],
       ro: ["Anul construcției: 1808", "Altitudine: 450 m", "Lungimea zidurilor cetății: 600 m", "Suprafață: 2 ha", "Distanța până la Tivat: 4 km", "Numărul de bastioane: 5"],
       en: ["Year built: 1808", "Altitude: 450 m", "Length of fortress walls: 600 m", "Area: 2 ha", "Distance to Tivat: 4 km", "Number of bastions: 5"],
-    }, image: "/poi-images/montenegro-tvrđava-marsal-marmont-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-stari-grad-bar-history-v2",
     type: "ruins",
@@ -933,7 +959,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Több mint 600 romos építmény", "17. századi oszmán vízvezeték", "1878-as ostrom után néptelenedett el", "4 km-re fekszik a mai tengerparttól", "Sahat-kula óratorony a város jelképe", "Bizánci és velencei várfalak"],
       ro: ["Peste 600 de structuri în ruine", "Apeduct otoman din secolul XVII", "Oraș abandonat complet după 1878", "Situat la 4 km de linia țărmului", "Turnul Sahat-kula din era otomană", "Sistem de fortificații bizantin"],
       en: ["Contains over 600 ruined buildings", "17th-century Ottoman aqueduct", "Abandoned following the 1878 siege", "Located 4 km inland from the coast", "Iconic Sahat-kula Clock Tower", "Layered Byzantine fortifications"],
-    }, image: "/poi-images/montenegro-stari-grad-bar-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-manastir-ostros-history-v2",
     type: "church",
@@ -964,7 +991,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Építés éve: 1450", "Tengerszint feletti magasság: 300 m", "Távolság a Szkutari-tótól: 5 km", "Freskók száma: 8", "Kolostor területe: 0,2 hektár", "Szőlőtőkék a kolostorban: 200"],
       ro: ["Anul construcției: 1450", "Altitudine: 300 m", "Distanța până la Lacul Skadar: 5 km", "Numărul de fresce: 8", "Suprafața mănăstirii: 0,2 ha", "Viță de vie în mănăstire: 200"],
       en: ["Year built: 1450", "Altitude: 300 m", "Distance to Lake Skadar: 5 km", "Number of frescoes: 8", "Monastery area: 0.2 ha", "Vine stocks at monastery: 200"],
-    }, image: "/poi-images/montenegro-manastir-ostros-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-tvrđava-spanjola-history-v2",
     type: "castle",
@@ -995,7 +1023,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Építés éve: 1539", "Tengerszint feletti magasság: 120 m", "Falak vastagsága: akár 3 m", "Terület: 0,8 hektár", "Tornyok száma: 5", "Ciszternák űrtartalma: 200.000 liter"],
       ro: ["Anul construcției: 1539", "Altitudine: 120 m", "Grosimea zidurilor: până la 3 m", "Suprafață: 0,8 ha", "Numărul de turnuri: 5", "Capacitatea cisternelor: 200.000 litri"],
       en: ["Year built: 1539", "Altitude: 120 m", "Wall thickness: up to 3 m", "Area: 0.8 ha", "Number of towers: 5", "Cistern capacity: 200,000 liters"],
-    }, image: "/poi-images/montenegro-tvrđava-spanjola-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-manastir-vracina-gora-history-v2",
     type: "church",
@@ -1026,7 +1055,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Építés éve: 1350", "Tengerszint feletti magasság: 800 m", "Távolság Nikšićtől: 15 km", "Freskók száma: 6", "Kolostor területe: 0,15 hektár", "Harangtorony magassága: 18 m"],
       ro: ["Anul construcției: 1350", "Altitudine: 800 m", "Distanța până la Nikšić: 15 km", "Numărul de fresce: 6", "Suprafața mănăstirii: 0,15 ha", "Înălțimea turnului clopotniță: 18 m"],
       en: ["Year built: 1350", "Altitude: 800 m", "Distance to Nikšić: 15 km", "Number of frescoes: 6", "Monastery area: 0.15 ha", "Bell tower height: 18 m"],
-    }, image: "/poi-images/montenegro-manastir-vracina-gora-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-tvrđava-grahovo-history-v2",
     type: "castle",
@@ -1057,7 +1087,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Építés éve: 1850", "Tengerszint feletti magasság: 900 m", "Terület: 1,5 hektár", "Falak hossza: 400 m", "Távolság a határtól: 5 km", "Laktanya helyiségeinek száma: 20"],
       ro: ["Anul construcției: 1850", "Altitudine: 900 m", "Suprafață: 1,5 ha", "Lungimea zidurilor: 400 m", "Distanța până la graniță: 5 km", "Numărul de încăperi din cazarmă: 20"],
       en: ["Year built: 1850", "Altitude: 900 m", "Area: 1.5 ha", "Length of walls: 400 m", "Distance to border: 5 km", "Number of rooms in barracks: 20"],
-    }, image: "/poi-images/montenegro-tvrđava-grahovo-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-stari-grad-risan-history-v2",
     type: "ruins",
@@ -1088,7 +1119,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Kr. e. 4. századi alapítás", "Teuta illír királynő fővárosa", "2. századi római padlómozaikok", "Hüpnosz isten ritka ábrázolása", "Önálló illír pénzverde működött", "A Kotori-öböl legősibb városa"],
       ro: ["Fondat în secolul IV î.Hr.", "Capitala regatului reginei Teuta", "Mozaicuri romane din secolul II", "Reprezentarea rară a zeului Hypnos", "Centru de monetărie iliră antică", "Cea mai veche așezare din Boka"],
       en: ["Founded in 4th century BC", "Capital of the Illyrian Queen Teuta", "2nd-century Roman floor mosaics", "Unique depiction of the god Hypnos", "Site of an ancient Illyrian mint", "Oldest settlement in Boka Bay"],
-    }, image: "/poi-images/montenegro-stari-grad-risan-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-tvrđava-kanli-kula-gornja-history-v2",
     type: "castle",
@@ -1119,7 +1151,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Építés éve: 1550", "Torony magassága: 20 m", "Erőd területe: 0,3 hektár", "Falak vastagsága: 2,5 m", "Ciszternák száma: 2", "Éves látogatók: kb. 100.000"],
       ro: ["Anul construcției: 1550", "Înălțimea turnului: 20 m", "Suprafața cetății: 0,3 ha", "Grosimea zidurilor: 2,5 m", "Numărul cisternelor: 2", "Vizitatori anual: cca. 100.000"],
       en: ["Year built: 1550", "Tower height: 20 m", "Fortress area: 0.3 ha", "Wall thickness: 2.5 m", "Number of cisterns: 2", "Annual visitors: ca. 100,000"],
-    }, image: "/poi-images/montenegro-tvrđava-kanli-kula-gornja-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-manastir-komovi-history-v2",
     type: "church",
@@ -1150,7 +1183,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Építés éve: 1230", "Tengerszint feletti magasság: 1500 m", "Távolság Andrijevicától: 10 km", "Freskók száma: 10", "Kolostor területe: 0,1 hektár", "Legmagasabb csúcs a Komoviban: 2461 m"],
       ro: ["Anul construcției: 1230", "Altitudine: 1500 m", "Distanța până la Andrijevica: 10 km", "Numărul de fresce: 10", "Suprafața mănăstirii: 0,1 ha", "Cel mai înalt vârf din Komovi: 2461 m"],
       en: ["Year built: 1230", "Altitude: 1500 m", "Distance to Andrijevica: 10 km", "Number of frescoes: 10", "Monastery area: 0.1 ha", "Highest peak in Komovi: 2461 m"],
-    }, image: "/poi-images/montenegro-manastir-komovi-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-tvrđava-vrmac-gornja-history-v2",
     type: "castle",
@@ -1181,7 +1215,8 @@ export const montenegroHistoryV2: POI[] = [
       hu: ["Építés éve: 1860", "Tengerszint feletti magasság: 700 m", "Ágyúplatformok száma: 6", "Árkok hossza: 300 m", "Távolság Tivattól: 3 km", "Legmagasabb pont a Vrmacon: 780 m"],
       ro: ["Anul construcției: 1860", "Altitudine: 700 m", "Numărul platformelor de tunuri: 6", "Lungimea șanțurilor: 300 m", "Distanța până la Tivat: 3 km", "Cel mai înalt punct pe Vrmac: 780 m"],
       en: ["Year built: 1860", "Altitude: 700 m", "Number of gun platforms: 6", "Length of ditches: 300 m", "Distance to Tivat: 3 km", "Highest point on Vrmac: 780 m"],
-    }, image: "/poi-images/montenegro-tvrđava-vrmac-gornja-history-v2.webp"},
+    },
+  },
   {
     id: "montenegro-manastir-donja-briska-history-v2",
     type: "church",

@@ -1033,7 +1033,8 @@ export const belarusLandmarksV2: POI[] = [
       hu: ["1794-ben szentelték fel", "Hagyományos háromosztatú hajó", "Az óhitű közösség központja", "Fémszegek nélkül épült fel", "Védett nemzeti műemlék", "A Szozs-folyó partján fekszik"],
       ro: ["Sfințită în anul 1794", "Structură din trei corpuri", "Comunitate de rit vechi", "Ridicată fără cuie de metal", "Statut de monument național", "Amplasată pe malul râului Soj"],
       en: ["Consecrated in 1794", "Traditional three-log structure", "Old Believer congregation", "Built without metal nails", "National heritage status", "Located on the Sozh River bank"],
-    }, image: "/poi-images/belarus-church-of-st-elias-gomel-landmarks-v2.webp"},
+    },
+  },
   {
     id: "belarus-vitebsk-art-museum-landmarks-v2",
     type: "museum",

@@ -31,7 +31,8 @@ export const portugalLandmarksV2: POI[] = [
       hu: ["Építés: 1747–1794", "Építész: Mateus Vicente de Oliveira", "Kert terület: 12 ha", "Szobák: 40", "Tűz: 1934", "Éves látogatók: 200.000"],
       ro: ["Construit între 1747 și 1794", "Arhitect: Mateus Vicente de Oliveira", "Suprafața grădinii: 12 ha", "Camere: 40", "Incendiu: 1934", "Vizitatori pe an: 200.000"],
       en: ["Built: 1747–1794", "Architect: Mateus Vicente de Oliveira", "Garden area: 12 ha", "Rooms: 40", "Fire: 1934", "Annual visitors: 200,000"],
-    }, image: "/poi-images/portugal-palacio-de-queluz-landmarks-v2.webp"},
+    },
+  },
   {
     id: "portugal-igreja-do-carmo-landmarks-v2",
     type: "church",
@@ -62,7 +63,8 @@ export const portugalLandmarksV2: POI[] = [
       hu: ["1389-ben alapította Nuno Álvares Pereira", "Az 1755-ös földrengés pusztította el", "A lisszaboni Régészeti Múzeum helyszíne", "Gótikus stílusú kőfaragványok gyűjteménye", "A templomhajó hossza eredetileg 70 méter", "Itt található a rendalapító síremléke"],
       ro: ["Fondată de cavalerul Nuno Álvares Pereira", "Distrusă parțial în cutremurul din 1755", "Găzduiește sarcofage romane și medievale", "Situată în cartierul Chiado din Lisabona", "Exponate din perioada paleolitică și neolitică", "Stil arhitectural gotic pur portughez"],
       en: ["Established in 1389 by a noble knight", "Roof collapsed during the 1755 earthquake", "Houses the Carmo Archaeological Museum", "Contains unique pre-Columbian mummies", "Located in the high Chiado district", "The nave remains open to the elements"],
-    }, image: "/poi-images/portugal-igreja-do-carmo-landmarks-v2.webp"},
+    },
+  },
   {
     id: "portugal-palacio-monserrate-landmarks-v2",
     type: "palace",
@@ -93,7 +95,8 @@ export const portugalLandmarksV2: POI[] = [
       hu: ["1858-ban épült Sir Francis Cook számára", "James Knowles brit építész tervezte", "3000 növényfaj a botanikus kertben", "A park területe eléri az 50 hektárt", "UNESCO Világörökségi helyszín Sintrában", "Indiai és mór építészeti motívumok"],
       ro: ["Construit în 1858 de Sir Francis Cook", "Arhitectură de James Knowles Junior", "Grădină botanică pe 50 de hectare", "Include peste 3000 de specii vegetale", "Parte a patrimoniului mondial UNESCO", "Mix de stiluri gotic, indian și maur"],
       en: ["Commissioned by Sir Francis Cook in 1858", "Designed by architect James Knowles Jr", "Awarded European Garden Award in 2013", "Park spans approximately 50 hectares", "Features a famous rose garden and ruins", "Exhibits intricate alabaster interior work"],
-    }, image: "/poi-images/portugal-palacio-monserrate-landmarks-v2.webp"},
+    },
+  },
   {
     id: "portugal-castelo-de-guimaraes-landmarks-v2",
     type: "castle",
@@ -124,7 +127,8 @@ export const portugalLandmarksV2: POI[] = [
       hu: ["Mumadona Dias alapította a 10. században", "I. Alfonz portugál király születési helye", "Nyolc téglalap alakú bástya védi", "A központi lakótorony 27 méter magas", "1910 óta nemzeti örökség része", "Gránit sziklára épült védelmi rendszer"],
       ro: ["Fondat de Mumadona Dias în secolul X", "Locul de naștere al regelui Afonso Henriques", "Fortificație cu opt turnuri de apărare", "Donjonul central are 27 de metri înălțime", "Monument național începând cu anul 1910", "Situat pe colina Monte Largo din Guimarães"],
       en: ["Built in the 10th century by Mumadona Dias", "Birthplace of King Afonso Henriques in 1109", "Features 8 distinct rectangular towers", "Central keep tower stands 27 meters tall", "National Monument status granted in 1910", "UNESCO World Heritage site since 2001"],
-    }, image: "/poi-images/portugal-castelo-de-guimaraes-landmarks-v2.webp"},
+    },
+  },
   {
     id: "portugal-mosteiro-de-leca-do-balio-landmarks-v2",
     type: "church",
@@ -155,7 +159,8 @@ export const portugalLandmarksV2: POI[] = [
       hu: ["A 14. században épült át erődítménnyé", "A máltai lovagrend portugál székhelye volt", "I. Ferdinánd király itt házasodott 1372-ben", "A templomtorony magassága 28 méter", "Gótikus stílusú kőfaragványok a belsőben", "Nemzeti emlékmű címet kapott 1910-ben"],
       ro: ["Reconstruită în secolul XIV de Frei Estêvão", "Sediul Ordinului Cavalerilor de Malta", "Gazda nunții regale în anul 1372", "Turn de apărare cu înălțime de 28 metri", "Stil arhitectural romanic târziu și gotic", "Localizată în parohia Leça do Balio"],
       en: ["Reconstructed in the 14th century", "Commandery of the Knights Hospitaller", "Site of Ferdinand I's wedding in 1372", "Main tower stands at 28 meters height", "Blends Romanesque and Gothic elements", "Designated a National Monument in 1910"],
-    }, image: "/poi-images/portugal-mosteiro-de-leca-do-balio-landmarks-v2.webp"},
+    },
+  },
   {
     id: "portugal-palacio-estoi-landmarks-v2",
     type: "palace",
@@ -218,7 +223,8 @@ export const portugalLandmarksV2: POI[] = [
       hu: ["A torony magassága pontosan 75,6 méter", "Nicolau Nasoni olasz építész műve", "Az építkezés 1763-ban fejeződött be", "225 lépcsőfok vezet a kilátószintre", "Barokk stílusú vallási épületegyüttes", "Porto városának legmagasabb pontja"],
       ro: ["Înălțime totală de 75,6 metri liniari", "Finalizat oficial în anul 1763", "Arhitect de origine italiană Nicolau Nasoni", "Scară interioară cu 225 de trepte", "Construit integral din granit local", "Monument Național din anul 1910"],
       en: ["Tower height is exactly 75.6 meters", "Construction finished in July 1763", "Designed by Italian architect Nicolau Nasoni", "Requires climbing 225 stone steps", "Made of solid local granite stone", "Offers a 360-degree view of Porto"],
-    }, image: "/poi-images/portugal-torre-de-clerigos-landmarks-v2.webp"},
+    },
+  },
   {
     id: "portugal-palacio-nacional-ajuda-landmarks-v2",
     type: "palace",
@@ -249,7 +255,8 @@ export const portugalLandmarksV2: POI[] = [
       hu: ["1802-ben kezdték el az építkezést", "Neoklasszicista stílusú királyi palota", "A királyi család székhelye 1910-ig", "Itt őrizik a portugál koronázási ékszereket", "A trónterem hossza meghaladja a 20 métert", "38 terem látogatható a nagyközönség számára"],
       ro: ["Construcție începută în anul 1802", "Stil arhitectural neoclasic monumental", "Reședință regală oficială până în 1910", "Găzduiește Muzeul Tezaurului Regal", "Sala tronului păstrează decorul original", "Fațada principală are 150 de metri"],
       en: ["Construction started in 1802 in Ajuda", "Official royal residence from 1861 to 1910", "Houses the Royal Treasure Museum", "Features a 150-meter long main facade", "38 rooms are currently open to visitors", "Designated a National Monument in 1910"],
-    }, image: "/poi-images/portugal-palacio-nacional-ajuda-landmarks-v2.webp"},
+    },
+  },
   {
     id: "portugal-mosteiro-de-tibaes-landmarks-v2",
     type: "church",
@@ -280,7 +287,8 @@ export const portugalLandmarksV2: POI[] = [
       hu: ["Alapítása a 6. századig nyúlik vissza", "A bencés rend anyaháza volt 1834-ig", "Kiemelkedő rokokó oltárképek a templomban", "Négy különböző belső kerengője van", "Braga kerületében, Mire de Tibães-ben", "Híres az aranyozott fafaragásairól"],
       ro: ["Fondată inițial în secolul VI d.Hr.", "Sediul ordinului benedictin până în 1834", "Capodoperă a stilului baroc și rococo", "Complexul are patru claustre distincte", "Grădini terasate cu fântâni ornamentale", "Situată în Mire de Tibães, lângă Braga"],
       en: ["Original monastery dates to the 6th century", "Motherhouse of Benedictines until 1834", "Features masterworks of gilded woodwork", "The complex contains 4 distinct cloisters", "Includes a vast staircase and gardens", "National Monument status since 1944"],
-    }, image: "/poi-images/portugal-mosteiro-de-tibaes-landmarks-v2.webp"},
+    },
+  },
   {
     id: "portugal-palacio-mateus-landmarks-v2",
     type: "palace",
@@ -311,7 +319,8 @@ export const portugalLandmarksV2: POI[] = [
       hu: ["Az 1740-es években épült barokk stílusban", "Nicolau Nasoni építésznek tulajdonítják", "35 méter hosszú cédrus-alagút a kertben", "A Mateus Rosé bor címkéjén szerepel", "Híres könyvtára 6000 kötetet őriz", "Vila Real közelében található kastély"],
       ro: ["Construit în deceniul 1740 (stil baroc)", "Atribuit arhitectului Nicolau Nasoni", "Grădini franceze cu tunel de cedri", "Sediul Fundației Casa de Mateus", "Fațada apare pe eticheta vinului Mateus", "Monument național din anul 1910"],
       en: ["Constructed in the 1740s for the Alcaides", "Attributed to architect Nicolau Nasoni", "Features a famous 35-meter cedar tunnel", "Gardens are among the finest in Europe", "Library contains over 6,000 volumes", "Located in Mateus parish, Vila Real"],
-    }, image: "/poi-images/portugal-palacio-mateus-landmarks-v2.webp"},
+    },
+  },
   {
     id: "portugal-igreja-sao-fransisco-landmarks-v2",
     type: "church",
@@ -342,7 +351,8 @@ export const portugalLandmarksV2: POI[] = [
       hu: ["A templomot a 14. században alapították, az első ferences kolostort 1244-ben építették.", "Az aranyozott fafaragások több mint 200 kg aranyat tartalmaznak.", "A templomhajó 28 méter hosszú, 14 méter széles és 16 méter magas.", "A harangtorony 45 méter magas, 1760-ban épült.", "A kriptában körülbelül 80 sír található a 17-18. századból.", "Évente mintegy 250 000 látogató keresi fel."],
       ro: ["Biserica a fost fondată în secolul al XIII-lea, între 1244 și 1250.", "Lucrările de aurire interioare conțin aproximativ 250 kg de aur.", "Nava bisericii măsoară 30 m lungime, 15 m lățime și 18 m înălțime.", "Turnul clopotniță are 50 m înălțime, construit în 1750.", "Cripta adăpostește peste 120 de morminte din perioada secolelor XVII-XIX.", "Biserica atrage anual peste 280.000 de vizitatori."],
       en: ["The church was founded in the 13th century, between 1244 and 1250.", "The gilded woodwork (talha dourada) uses approximately 300 kg of gold leaf.", "The nave is 30 meters long, 15 meters wide, and 18 meters high.", "The bell tower is 50 meters tall, added in the 18th century.", "The crypt contains over 100 tombs from the 17th to 19th centuries.", "The church welcomes over 300,000 visitors annually."],
-    }, image: "/poi-images/portugal-igreja-sao-fransisco-landmarks-v2.webp"},
+    },
+  },
   {
     id: "portugal-palacio-de-sao-bento-landmarks-v2",
     type: "palace",
@@ -373,7 +383,8 @@ export const portugalLandmarksV2: POI[] = [
       hu: ["1598-ban alapították bencés kolostorként", "1834 óta a portugál parlament székhelye", "A neoklasszicista homlokzat 1940-ben készült", "Négy allegorikus szobor díszíti a bejáratot", "A belső tanácsterem félköríves alakú", "Az épület hossza eléri a 100 métert"],
       ro: ["Fondat în 1598 ca mănăstire benedictină", "Sediul Parlamentului începând cu 1834", "Fațadă neoclasică lungă de 100 metri", "Patru statui pe frontispiciu (Adevăr, Justiție)", "Situat în parohia Estrela din Lisabona", "Monument Național din anul 2002"],
       en: ["Established as a monastery in 1598", "Seat of Parliament since 1834", "Neoclassical facade added in the 1930s", "Features 4 statues representing virtues", "The building is 100 meters long", "Official residence of the Prime Minister"],
-    }, image: "/poi-images/portugal-palacio-de-sao-bento-landmarks-v2.webp"},
+    },
+  },
   {
     id: "portugal-teatro-nacional-sao-carlos-landmarks-v2",
     type: "theater",
@@ -404,7 +415,8 @@ export const portugalLandmarksV2: POI[] = [
       hu: ["1793. június 30-án avatták fel", "José da Costa e Silva építész tervezte", "Befogadóképessége 1200 fő körüli", "Hat emeletnyi páholy található benne", "A lisszaboni Chiado negyed központja", "Rokokó stílusú gazdag belső díszítés"],
       ro: ["Inaugurat la 30 iunie 1793", "Proiectat de arhitectul José da Costa e Silva", "Capacitate totală de 1200 de locuri", "Structură cu șase niveluri de loje", "Situat în cartierul Chiado din Lisabona", "Singurul teatru de operă din Portugalia"],
       en: ["Inaugurated on June 30, 1793", "Designed by architect José da Costa e Silva", "Seating capacity of approximately 1,200", "Features 6 levels of seating boxes", "Located in the historic Chiado district", "Interior reflects luxurious Rococo taste"],
-    }, image: "/poi-images/portugal-teatro-nacional-sao-carlos-landmarks-v2.webp"},
+    },
+  },
   {
     id: "portugal-castelo-de-figueira-da-foz-landmarks-v2",
     type: "castle",
@@ -435,7 +447,8 @@ export const portugalLandmarksV2: POI[] = [
       hu: ["Az erőd 1645 és 1650 között épült.", "A falak vastagsága az alapoknál 7 méter.", "Az erőd területe körülbelül 2 hektár.", "A legmagasabb bástya 14 méterrel emelkedik a tenger fölé.", "A múzeumban több mint 400 tárgy található a helyi halászatról.", "Évente kb. 40 000 turista látogatja."],
       ro: ["Fortăreața a fost construită între 1645 și 1650.", "Zidurile au o grosime de 8 metri la bază.", "Fortăreața se întinde pe o suprafață de 2,3 hectare.", "Cel mai înalt bastion are 15 metri deasupra mării.", "Muzeul expune peste 450 de artefacte legate de pescuit.", "Atrage anual aproximativ 45.000 de vizitatori."],
       en: ["The fortress was built between 1645 and 1650.", "The walls are 8 meters thick at the base.", "The fortress covers an area of about 2.5 hectares.", "The highest bastion rises 15 meters above sea level.", "The museum displays over 500 exhibits on local fishing history.", "Approximately 50,000 tourists visit annually."],
-    }, image: "/poi-images/portugal-castelo-de-figueira-da-foz-landmarks-v2.webp"},
+    },
+  },
   {
     id: "portugal-ponte-de-dom-pedro-landmarks-v2",
     type: "bridge",
@@ -466,7 +479,8 @@ export const portugalLandmarksV2: POI[] = [
       hu: ["1876 és 1881 között épült vasból", "Teljes hossza eléri az 1213 métert", "A Tejo folyó felett ível át Santarémnél", "V. Péter portugál királyról nevezték el", "Rácsos tartószerkezetű mérnöki mű", "A Ribatejo régió fontos jelképe"],
       ro: ["Construcție realizată între 1876-1881", "Lungime totală de 1213 metri liniari", "Traversează cursul fluviului Tejo", "Structură metalică din grinzi cu zăbrele", "Numit în onoarea regelui Pedro al V-lea", "Punct strategic de trecere în Santarém"],
       en: ["Completed in 1881 after 5 years work", "Total length is 1,213 meters", "Spans the Tagus (Tejo) River", "Constructed using iron lattice girders", "Named in honor of King Pedro V", "Key transport link in Santarém district"],
-    }, image: "/poi-images/portugal-ponte-de-dom-pedro-landmarks-v2.webp"},
+    },
+  },
   {
     id: "portugal-palacio-valadares-landmarks-v2",
     type: "palace",
@@ -497,7 +511,8 @@ export const portugalLandmarksV2: POI[] = [
       hu: ["Az 1755-ös földrengés után épült újjá", "Az első egyetem (Estudos Gerais) helye", "Lisszabon történelmi városközpontjában", "Pombal-stílusú építészeti elemek", "Gazdag azulejo-csempe díszítés", "A Valadares grófok egykori rezidenciája"],
       ro: ["Reconstruit integral după anul 1755", "Situat pe situl primei universități (1290)", "Aproape de Catedrala Sé din Lisabona", "Stil arhitectural pombalin sobru", "Interioare cu panouri de azulejos", "Reședință nobiliară din secolul XVIII"],
       en: ["Rebuilt after the 1755 earthquake", "Site of the first university (1290)", "Located steps from Lisbon Cathedral", "Displays classic Pombaline architecture", "Contains fine 18th-century tile panels", "Former home of the Counts of Valadares"],
-    }, image: "/poi-images/portugal-palacio-valadares-landmarks-v2.webp"},
+    },
+  },
   {
     id: "portugal-igreja-do-santo-condestavel-landmarks-v2",
     type: "church",
@@ -528,7 +543,8 @@ export const portugalLandmarksV2: POI[] = [
       hu: ["A templom 1951 és 1954 között épült.", "Az alapkövet 1949. november 6-án tették le.", "A kupola átmérője 20 méter.", "A harangtorony magassága 38 méter.", "A mozaikok területe 450 négyzetméter.", "A templom 1100 hívő befogadására alkalmas."],
       ro: ["Biserica a fost construită între 1951 și 1954.", "Piatra de temelie a fost pusă la 6 noiembrie 1949.", "Cupola are un diametru de 20 de metri.", "Turnul clopotniță are 40 de metri înălțime.", "Mozaicurile acoperă o suprafață de 500 de metri pătrați.", "Biserica poate găzdui 1.200 de credincioși."],
       en: ["The church was built between 1951 and 1954.", "The cornerstone was laid on November 6, 1949.", "The dome has a diameter of 20 meters.", "The bell tower is 40 meters tall.", "The mosaics cover an area of 500 square meters.", "The church can accommodate 1,200 worshippers."],
-    }, image: "/poi-images/portugal-igreja-do-santo-condestavel-landmarks-v2.webp"},
+    },
+  },
   {
     id: "portugal-palacio-do-freixo-landmarks-v2",
     type: "palace",

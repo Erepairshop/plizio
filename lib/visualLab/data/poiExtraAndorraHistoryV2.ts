@@ -31,7 +31,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 1126 m", "Építési időszak: 9. század", "Védelmi funkció: Vizigót castrum", "Harangtorony: Kör alaprajzú", "Restaurálás: 1980-as évek", "Helyszín: Andorra la Vella közelében"],
       ro: ["Altitudine: 1126 metri", "Datarea bisericii: secolul IX", "Turnul clopotniță: 7 metri înălțime", "Sistem defensiv: Ziduri de incintă", "Origine: Castrum din epoca romană", "Acces: Potecă montană abruptă"],
       en: ["Altitude: 1126 meters", "Church date: 9th century", "Architecture: Pre-Romanesque", "Bell tower: Circular design", "Archaeology: Late Roman castrum", "Restoration: Completed in 1980"],
-    }, image: "/poi-images/andorra-sant-vicenc-d-enclar-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-pont-de-la-margineda-history-v2",
     type: "bridge",
@@ -94,7 +95,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["1164. január 23-án szentelték", "Lombard építészeti hatás", "Négyszögletes harangtorony", "Les Bons negyed része", "Középkori védelmi falak", "Román stílusú hajó"],
       ro: ["Sfințită în anul 1164", "Stil romanic lombard", "Turn clopotniță pătrat", "Complexul istoric Les Bons", "Picturi murale din sec. XII", "Naos dreptunghiular"],
       en: ["Consecrated Jan 23, 1164", "Lombard Romanesque style", "Square bell tower", "Les Bons defense complex", "Original murals in MNAC", "Single rectangular nave"],
-    }, image: "/poi-images/andorra-sant-roma-de-les-bons-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-farga-rossell-history-v2",
     type: "industry",
@@ -125,7 +127,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["1842 és 1846 között épült", "La Massana völgyében", "Hidraulikus nagykalapács", "Hagyományos vasfinomítás", "2003-ban nyílt múzeum", "Vízkerék hajtotta fújtató"],
       ro: ["Construită între 1842-1846", "Locație: La Massana", "Ciocan hidraulic funcțional", "Procesul catalan de forjare", "Centru de interpretare", "Două roți hidraulice"],
       en: ["Built between 1842-1846", "Located in La Massana", "Hydraulic tilt hammer", "Catalan forge method", "Museum opened in 2003", "Original water wheels"],
-    }, image: "/poi-images/andorra-farga-rossell-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-casa-d-areny-plandolit-history-v2",
     type: "palace",
@@ -156,7 +159,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["1633-ban újjáépített ház", "Areny-Plandolit család", "Gazdag magánkönyvtár", "Házon belüli színházterem", "Nemesi lakosztályok", "Angolkert az épületnél"],
       ro: ["Reconstruită în 1633", "Familia nobiliară locală", "Bibliotecă istorică vastă", "Sală de teatru privată", "Mobilier original din sec. XIX", "Grădini botanice proprii"],
       en: ["Reconstructed in 1633", "Noble Plandolit family", "Extensive private library", "Internal private theatre", "Original 19th-century decor", "English-style gardens"],
-    }, image: "/poi-images/andorra-casa-d-areny-plandolit-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-sant-marti-de-la-cortinada-history-v2",
     type: "church",
@@ -187,7 +191,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["12. századi alapítás", "17-18. századi bővítés", "Helyi kovácsoltvas rácsok", "La Cortinada mestere", "Négy barokk oltárkép", "Kétszintes harangtorony"],
       ro: ["Origine în secolul XII", "Extensii baroce sec. XVII", "Grilaje din fier de la farge", "Picturi murale originale", "Patru retabluri baroce", "Turn clopotniță pătrat"],
       en: ["Original 12th-century build", "17th-18th century expansion", "Local ironwork screens", "Master of La Cortinada murals", "Four Baroque altarpieces", "Square bell tower"],
-    }, image: "/poi-images/andorra-sant-marti-de-la-cortinada-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-sant-miquel-d-engolasters-history-v2",
     type: "church",
@@ -218,7 +223,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["12. századi építés", "Karcsú lombard torony", "17 méter magas harangtorony", "Freskók a barcelonai MNAC-ban", "Engolasters-tó közelében", "Félköríves apszis"],
       ro: ["Construită în sec. XII", "Turn în stil lombard", "Înălțime turn: 17 metri", "Picturi originale la MNAC", "Vedere spre Escaldes", "Zidărie din piatră brută"],
       en: ["Built in the 12th century", "Lombard bell tower", "17-meter tower height", "Murals kept in MNAC", "Near Engolasters Lake", "Semi-circular apse"],
-    }, image: "/poi-images/andorra-sant-miquel-d-engolasters-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-pont-de-sant-antoni-de-la-grella-history-v2",
     type: "bridge",
@@ -249,7 +255,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["Középkori eredetű", "Valira del Nord folyó felett", "La Massana szurdokában", "Szent Antal kápolna mellette", "Egyetlen régi útvonal", "Terméskő boltív"],
       ro: ["Construcție medievală", "Peste Valira del Nord", "Lângă portalul tunelului", "Capela Sant Antoni adiacentă", "Singura cale veche de acces", "Structură cu un singur arc"],
       en: ["Medieval stone construction", "Spans Valira del Nord", "Next to modern tunnel", "Adjacent to small chapel", "Sole historical access route", "Single arch design"],
-    }, image: "/poi-images/andorra-pont-de-sant-antoni-de-la-grella-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-casa-rull-history-v2",
     type: "museum",
@@ -280,7 +287,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["1723-ban épült újjá", "Háromszintes lakóépület", "Hagyományos gazdálkodási eszközök", "Sispony falu központja", "Néprajzi gyűjtemény", "Perich család otthona"],
       ro: ["Reconstruită în 1723", "Trei niveluri locuibile", "Muzeu etnografic local", "Situată în Sispony", "Familia Perich proprietară", "Arhitectură rurală autentică"],
       en: ["Rebuilt in 1723", "Three levels of living space", "Ethnographic museum", "Located in Sispony", "Home of the Perich family", "Traditional rural architecture"],
-    }, image: "/poi-images/andorra-casa-rull-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-eglesia-de-sant-esteve-history-v2",
     type: "church",
@@ -311,7 +319,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["12. századi alapok", "Andorra la Vella főtemploma", "1940-es évek bővítése", "Eredeti román apszis", "Josep Oromí festményei", "Modern építészeti elemek"],
       ro: ["Origine în secolul XII", "Biserica parohială principală", "Extindere majoră în 1940", "Absidă romanică păstrată", "Picturi de Josep Oromí", "Inima centrului istoric"],
       en: ["Original 12th-century core", "Capital's parish church", "Expanded in the 1940s", "Original Romanesque apse", "Paintings by Josep Oromí", "Historic center location"],
-    }, image: "/poi-images/andorra-eglesia-de-sant-esteve-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-sant-serni-de-nagol-history-v2",
     type: "church",
@@ -342,7 +351,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["1055-ben szentelték fel", "Sziklaszirten elhelyezkedés", "Ősi román falfestmények", "Sant Julià de Lòria felett", "Egyszerű hajós szerkezet", "Andorra egyik legrégebbi temploma"],
       ro: ["Sfințită în anul 1055", "Amplasare pe pisc stâncos", "Picturi murale din sec. XI", "Vedere spre Sant Julià", "Structură foarte simplă", "Monument istoric național"],
       en: ["Consecrated in 1055", "Rocky outcrop location", "11th-century murals", "Overlooks Sant Julià valley", "Single nave structure", "Among oldest in Andorra"],
-    }, image: "/poi-images/andorra-sant-serni-de-nagol-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-sant-climent-de-pal-history-v2",
     type: "church",
@@ -373,7 +383,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["11-12. századi építés", "Háromszintes harangtorony", "Ikerablakos kiképzés", "Pal védett falujában", "Gránit keresztelőkút", "1709-es barokk oltárkép"],
       ro: ["Secolele XI-XII", "Turn cu trei niveluri", "Ferestre geminate lombarde", "Situată în satul Pal", "Botezător din granit", "Retablu baroc din 1709"],
       en: ["Built 11th-12th century", "Three-story bell tower", "Twin mullioned windows", "Located in historic Pal", "Granite baptismal font", "1709 Baroque altarpiece"],
-    }, image: "/poi-images/andorra-sant-climent-de-pal-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-casa-cristo-history-v2",
     type: "museum",
@@ -404,7 +415,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["19. század végi épület", "Három szűk lakószint", "Hagyományos nyitott tűzhely", "Földnélküli parasztok élete", "Eredeti berendezési tárgyak", "1995 óta látogatható"],
       ro: ["Construită la finele sec. XIX", "Trei etaje înguste", "Vatră tradițională deschisă", "Viața țăranilor săraci", "Mobilier original păstrat", "Deschis ca muzeu în 1995"],
       en: ["Late 19th-century build", "Three narrow floors", "Traditional open hearth", "Landless peasant history", "Original household items", "Museum since 1995"],
-    }, image: "/poi-images/andorra-casa-cristo-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-pont-dels-escalls-history-v2",
     type: "bridge",
@@ -467,7 +479,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["13. századi építmény", "Négyszögletes alaprajz", "Les Bons erődítmény része", "Védelmi célú torony", "Encamp völgyére néz", "Középkori megfigyelőpont"],
       ro: ["Construit în secolul XIII", "Plan de formă pătrată", "Parte din castelul Les Bons", "Arhitectură de apărare", "Vedere panoramică Encamp", "Post de observație vechi"],
       en: ["Built in the 13th century", "Square floor plan", "Part of Les Bons fortress", "Defensive architecture", "Overlooks Encamp valley", "Strategic watchtower"],
-    }, image: "/poi-images/andorra-torre-dels-moros-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-radio-andorra-building-history-v2",
     type: "monument",
@@ -530,7 +543,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["12. századi alapokra épült", "17-19. századi bővítések", "5 barokk oltárkép látható", "Fájdalmas Szűzanya szobor", "Helyi kovácsoltvas rácsok", "Ordino fő plébániatemploma"],
       ro: ["Origini în secolul al XII-lea", "Extinderi în secolele XVII-XIX", "Conține 5 retabluri baroce", "Statuia Maicii Domnului", "Localizată în satul Ordino", "Arhitectură religioasă montană"],
       en: ["Romanesque core from 12th c.", "Renovated 17th-19th centuries", "Houses 5 Baroque altarpieces", "Our Lady of Sorrows statue", "Traditional Andorran ironwork", "Located in Ordino old town"],
-    }, image: "/poi-images/andorra-sant-corneli-i-sant-cebria-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-mina-de-llorts-history-v2",
     type: "mine",
@@ -561,7 +575,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["1842 és 1845 között üzemelt", "30 méter hosszú bányajárat", "A Vasútvonal egyik állomása", "1430 méteres tengerszint felett", "Kézi erővel vájt kőzetfalak", "Llorts faluja mellett található"],
       ro: ["Funcțională între 1842-1845", "Galerie lungă de 30 metri", "Parte integrantă din Ruta Fierului", "Altitudine de 1430 metri", "Sursă de minereu pentru forje", "Deschisă turismului în 1999"],
       en: ["Active from 1842 to 1845", "Gallery length of 30 meters", "Part of the Pyrenean Iron Route", "Altitude: 1430 meters", "Manual extraction methods", "Guided tours available since 1999"],
-    }, image: "/poi-images/andorra-mina-de-llorts-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-balma-de-la-margineda-history-v2",
     type: "ruins",
@@ -592,7 +607,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["Korszak: Mezolitikum", "Kezdeti lakottság: i.e. 10.000", "Tengerszint feletti magasság: 970 m", "Leletek: Mikrolit kőeszközök", "Rétegtan: 10 különböző szint", "Típus: Szikla alatti menedék"],
       ro: ["Vechime: Aproximativ 12.000 ani", "Locație: Malul drept al Valirei", "Perioadă: Epipaleolitic", "Unelte: Piatră cioplită (silex)", "Altitudine: 970 metri", "Importanță: Sit de referință regional"],
       en: ["Age: 12,000 years old", "Period: Epipaleolithic to Neolithic", "Altitude: 970 meters", "Key finds: Lithic industry tools", "Excavator: Jean Guilaine", "Discovery: 1970s investigations"],
-    }, image: "/poi-images/andorra-balma-de-la-margineda-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-sant-pere-de-l-aldosa-history-v2",
     type: "church",
@@ -623,7 +639,8 @@ export const andorraHistoryV2: POI[] = [
       hu: ["Épült 1690 körül", "18. századi barokk oltár", "Négyszögletes alaprajz", "Helyi pala és kőfalak", "Szent Péter tiszteletére", "L'Aldosa de la Massana faluja"],
       ro: ["Edificată în jurul anului 1690", "Retablu baroc din sec. XVIII", "Plan dreptunghiular simplu", "Clopotniță de tip paravan", "Dedicată Sfântului Petru", "Situată în parohia La Massana"],
       en: ["Constructed circa 1690", "18th-century Baroque altar", "Rectangular nave design", "Classical bell gable feature", "Dedicated to Saint Peter", "Located in L'Aldosa village"],
-    }, image: "/poi-images/andorra-sant-pere-de-l-aldosa-history-v2.webp"},
+    },
+  },
   {
     id: "andorra-creu-grossa-history-v2",
     type: "monument",

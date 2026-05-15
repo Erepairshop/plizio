@@ -31,7 +31,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["Üzembe helyezés: 1996", "Éves kapacitás: 140 milliárd köbméter", "Alkalmazottak száma: kb. 150", "Exportvezeték: Rømledning Németországba", "Rømledning hossza: 1 200 km", "Feldolgozott mezők: Troll, Kvitebjørn"],
       ro: ["Anul punerii în funcțiune: 1996", "Capacitate anuală: 140 miliarde metri cubi", "Număr de angajați: aproximativ 150", "Conductă de export: Rømledning către Germania", "Lungimea conductei Rømledning: 1.200 km", "Câmpuri de gaze procesate: Troll, Kvitebjørn"],
       en: ["Commissioned: 1996", "Annual capacity: 140 billion cubic meters", "Number of employees: approx. 150", "Export pipeline: Rømledning to Germany", "Length of Rømledning: 1,200 km", "Gas fields processed: Troll, Kvitebjørn"],
-    }, image: "/poi-images/norway-kollsnes-gas-plant-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-karmoy-aluminum-plant-economic-v2",
     type: "factory",
@@ -62,7 +63,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["Üzembe helyezés: 1967", "Éves termelés: 350 000 tonna", "Alkalmazottak száma: kb. 1 000", "Tulajdonos: Norsk Hydro", "Energiaforrás: vízerőmű", "Helyszín: Karmøy község"],
       ro: ["Anul punerii în funcțiune: 1967", "Producție anuală: 350.000 tone", "Număr de angajați: aproximativ 1.000", "Proprietar: Norsk Hydro", "Sursa de energie: hidroelectrică", "Locație: comuna Karmøy"],
       en: ["Commissioned: 1967", "Annual production: 350,000 tonnes", "Number of employees: approx. 1,000", "Owner: Norsk Hydro", "Energy source: hydropower", "Location: Karmøy municipality"],
-    }, image: "/poi-images/norway-karmoy-aluminum-plant-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-orkanger-industry-park-economic-v2",
     type: "industry",
@@ -93,7 +95,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["Kialakítás: 1960-as évek", "Vállalatok száma: 20", "Alkalmazottak száma: kb. 1 500", "Fő termék: szilícium, ferrozötvözetek", "Legközelebbi város: Orkanger", "Energiaforrás: vízerőmű"],
       ro: ["Dezvoltare: anii 1960", "Număr de companii: 20", "Număr de angajați: aproximativ 1.500", "Produs principal: siliciu, feroaliaje", "Orașul cel mai apropiat: Orkanger", "Sursa de energie: hidroelectrică"],
       en: ["Developed: 1960s", "Number of companies: 20", "Number of employees: approx. 1,500", "Main products: silicon, ferroalloys", "Nearest city: Orkanger", "Energy source: hydropower"],
-    }, image: "/poi-images/norway-orkanger-industry-park-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-glomfjord-industrial-site-economic-v2",
     type: "industry",
@@ -188,7 +191,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["A farm területe 1,5 négyzetkilométer.", "A lazacok átlagos vágósúlya 5 kg.", "Az éves takarmányfelhasználás 30 000 tonna.", "A farm 2010-ben kezdte meg a termelést.", "A termelés 80%-át exportálják az EU-ba.", "A farmon 30 tengeri ketrec üzemel."],
       ro: ["Producția anuală este de 22.000 de tone.", "Ferma are 30 de cuști plutitoare.", "Adâncimea cuștilor este de 20 de metri.", "Temperatura apei variază între 4 și 12 °C.", "Rata de supraviețuire a peștilor este de 95%.", "Ferma angajează 200 de persoane."],
       en: ["Annual production is 22,000 tonnes.", "There are 30 sea cages.", "Each cage measures 30 metres in diameter.", "Average harvest weight is 5 kg.", "The farm uses 30,000 tonnes of feed annually.", "The facility has an ASC certification."],
-    }, image: "/poi-images/norway-hitra-salmon-farm-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-narvik-port-terminal-economic-v2",
     type: "port",
@@ -219,7 +223,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["A kikötő mélysége 18 méter.", "Az éves áruforgalom 22 millió tonna.", "A rakodókapacitás 10 000 tonna/óra.", "A vasútvonal hossza 168 km.", "A kikötő területe 120 hektár.", "A beruházások összege 2019-ben 50 millió euró volt."],
       ro: ["Adâncimea portului este de 18 metri.", "Traficul anual de minereu este de 22 de milioane de tone.", "Viteza de încărcare este de 10.000 de tone pe oră.", "Lungimea căii ferate de minereu este de 168 km.", "Suprafața terminalului este de 120 de hectare.", "Costul modernizării din 2019 a fost de 50 de milioane de euro."],
       en: ["Port depth is 18 metres.", "Annual iron ore throughput is 22 million tonnes.", "Loading rate is 10,000 tonnes per hour.", "Railway length is 168 km.", "Terminal area is 120 hectares.", "2019 investment was €50 million."],
-    }, image: "/poi-images/norway-narvik-port-terminal-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-molde-industrial-cluster-economic-v2",
     type: "industry",
@@ -250,7 +255,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["A klaszter 150 vállalatot foglal magában.", "Az alkalmazottak száma 4000.", "Az export aránya 60%.", "A klaszter éves forgalma 1,2 milliárd euró.", "Az egyetem 10 közös kutatási projektben vesz részt.", "A klaszter 5 ágazatot ölel fel."],
       ro: ["Clusterul cuprinde 150 de companii.", "Numărul de angajați este de 4.000.", "Exporturile reprezintă 60%.", "Cifra de afaceri anuală este de 1,2 miliarde de euro.", "Universitatea Molde contribuie la 10 proiecte de cercetare.", "Clusterul activează în 5 sectoare distincte."],
       en: ["150 companies form the cluster.", "Employment: 4,000 people.", "Export share: 60%.", "Annual turnover: €1.2 billion.", "10 joint research projects with the university.", "The cluster covers 5 industrial sectors."],
-    }, image: "/poi-images/norway-molde-industrial-cluster-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-kongsvinger-business-park-economic-v2",
     type: "industry",
@@ -281,7 +287,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["A park területe 250 hektár.", "80 vállalat található itt.", "A foglalkoztatottak száma 2000.", "A park az E16-os út mellett fekszik.", "A repülőtér 80 km-re van.", "Az adókedvezmény 10%."],
       ro: ["Parcul se întinde pe 250 de hectare.", "Numărul de companii: 80.", "Locuri de muncă: 2.000.", "Distanța până la aeroport: 80 km.", "Reducerea impozitului este de 10%.", "Parcul are 3 hoteluri în apropiere."],
       en: ["Area: 250 hectares.", "80 companies located.", "2,000 employees.", "80 km to Oslo Airport.", "Tax reduction: 10%.", "3 hotels nearby."],
-    }, image: "/poi-images/norway-kongsvinger-business-park-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-stord-maritime-industry-economic-v2",
     type: "industry",
@@ -312,7 +319,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["A hajógyár területe 1,2 km².", "3000 alkalmazott dolgozik itt.", "A daru teherbírása 1000 tonna.", "A kikötő mélysége 15 méter.", "A hajógyár 1847-ben nyílt meg.", "Az éves acélfeldolgozás 50 000 tonna."],
       ro: ["Suprafața șantierului: 1,2 km².", "3.000 de angajați.", "Macara de 1.000 de tone.", "Adâncimea portului: 15 metri.", "Șantierul funcționează din 1847.", "Prelucrare anuală de oțel: 50.000 de tone."],
       en: ["Yard area: 1.2 km².", "Employees: 3,000.", "Crane capacity: 1,000 tonnes.", "Water depth: 15 metres.", "Established: 1847.", "Annual steel processing: 50,000 tonnes."],
-    }, image: "/poi-images/norway-stord-maritime-industry-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-sunndalsora-aluminum-plant-economic-v2",
     type: "factory",
@@ -343,7 +351,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["Az éves termelés 400 000 tonna.", "A gyár 1100 főt foglalkoztat.", "A szén-dioxid-kibocsátás 70%-kal alacsonyabb az európai átlagnál.", "Az éves energiafelhasználás 6 TWh.", "AP3X típusú elektrolizáló cellákat használnak.", "A gyár 1954-ben kezdte meg a termelést."],
       ro: ["Producția anuală: 400.000 de tone.", "Angajați: 1.100.", "Emisiile de CO2 sunt cu 70% sub media europeană.", "Consumul anual de energie: 6 TWh.", "Tehnologia: celule AP3X.", "Anul înființării: 1954."],
       en: ["Annual production: 400,000 tonnes.", "Employees: 1,100.", "CO2 emissions 70% below European average.", "Annual energy consumption: 6 TWh.", "AP3X cell technology.", "Founded in 1954."],
-    }, image: "/poi-images/norway-sunndalsora-aluminum-plant-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-fredrikstad-industrial-zone-economic-v2",
     type: "industry",
@@ -406,7 +415,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["Az éves alumíniumtermelés 200 000 tonna.", "A parkban 1000 ember dolgozik.", "Az ipari park 1955-ben nyílt meg.", "A kikötőben 3 dokk található.", "Az éves energiafelhasználás 3 TWh.", "A gyár ISO 14001 tanúsítvánnyal rendelkezik."],
       ro: ["Producția de aluminiu: 200.000 de tone/an.", "Angajați: 1.000.", "Parcul a fost inaugurat în 1955.", "Portul are 3 cheiuri.", "Consum anual de energie: 3 TWh.", "Certificare ISO 14001."],
       en: ["Aluminium output: 200,000 tonnes/year.", "Employees: 1,000.", "Park opened in 1955.", "Port has 3 berths.", "Annual energy use: 3 TWh.", "ISO 14001 certified."],
-    }, image: "/poi-images/norway-mosjoen-industrial-park-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-moss-logistics-hub-economic-v2",
     type: "industry",
@@ -437,7 +447,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["A kikötő éves forgalma 1,5 millió tonna.", "A raktárterület 200 000 m².", "6 daru üzemel a kikötőben.", "A kikötő mélysége 12 méter.", "A reptér 60 km-re van.", "A központ 500 embert foglalkoztat."],
       ro: ["Trafic portuar: 1,5 milioane de tone/an.", "Suprafață depozite: 200.000 m².", "6 macarale în port.", "Adâncimea portului: 12 metri.", "Aeroportul la 60 km.", "500 de angajați în hub."],
       en: ["Port traffic: 1.5 million tonnes/year.", "Warehouse area: 200,000 m².", "6 port cranes.", "Port depth: 12 metres.", "60 km to Oslo Airport.", "500 employees at the hub."],
-    }, image: "/poi-images/norway-moss-logistics-hub-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-skien-industrial-site-economic-v2",
     type: "industry",
@@ -500,7 +511,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["A klaszter 100 vállalatból áll.", "2000 ember dolgozik benne.", "A Norsk Hydro-t 1905-ben alapították Notoddenben.", "Az UNESCO világörökségi helyszín 5 épületből áll.", "2022-ben 10 000 tonna kapacitású akkumulátor-újrahasznosító üzem nyílt.", "Az egyetem 15 kutatási projektben vesz részt."],
       ro: ["100 de companii în cluster.", "2.000 de angajați.", "Norsk Hydro a fost fondată în 1905 la Notodden.", "Situl UNESCO cuprinde 5 clădiri.", "În 2022 s-a deschis o fabrică de reciclare a bateriilor de 10.000 de tone.", "Universitatea are 15 proiecte de cercetare în cluster."],
       en: ["100 companies in the cluster.", "2,000 employees.", "Norsk Hydro founded in 1905 in Notodden.", "UNESCO site includes 5 buildings.", "2022 battery recycling plant: 10,000 tonnes capacity.", "University runs 15 research projects within the cluster."],
-    }, image: "/poi-images/norway-notodden-industrial-cluster-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-hammerfest-gas-terminal-economic-v2",
     type: "industry",
@@ -563,7 +575,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["Az éves termelés 1,2 millió tonna.", "A gyár 250 főt foglalkoztat.", "1920-ban nyílt meg.", "A CO2-leválasztó évi 200 000 tonna kapacitású.", "A terület 30 hektár.", "A gyár ISO 50001 tanúsított."],
       ro: ["Producție anuală: 1,2 milioane de tone.", "Angajați: 250.", "Fabrica a fost deschisă în 1920.", "Instalația de captare CO2: 200.000 de tone/an.", "Suprafața sitului: 30 de hectare.", "Certificare ISO 50001."],
       en: ["Annual production: 1.2 million tonnes.", "Employees: 250.", "Opened in 1920.", "CO2 capture plant capacity: 200,000 tonnes/year.", "Site area: 30 hectares.", "ISO 50001 certified."],
-    }, image: "/poi-images/norway-brevik-cement-plant-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-karmsund-port-economic-v2",
     type: "port",
@@ -594,7 +607,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["A kikötő mélysége 14 méter.", "Az éves áruforgalom 5 millió tonna.", "10 dokk áll rendelkezésre.", "Az olajtároló kapacitása 1 millió köbméter.", "A kikötő éjjel-nappal üzemel.", "200 fő dolgozik a kikötőben."],
       ro: ["Adâncimea portului: 14 metri.", "Trafic anual: 5 milioane de tone.", "10 cheiuri.", "Capacitate de stocare petrol: 1 milion de metri cubi.", "Portul funcționează 24/7.", "200 de angajați."],
       en: ["Port depth: 14 metres.", "Annual cargo: 5 million tonnes.", "10 berths.", "Oil storage capacity: 1 million m³.", "Port operates 24/7.", "200 employees."],
-    }, image: "/poi-images/norway-karmsund-port-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-finnsnes-industry-hub-economic-v2",
     type: "industry",
@@ -625,7 +639,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["A kikötő éves halfogása 20 000 tonna.", "A hajógyár 3 szárazdokkal rendelkezik.", "A Tromsói Egyetem tengerbiológiai központot üzemeltet itt.", "Az ipari szektorban 1500 fő dolgozik.", "Finnsnes lakossága 4500 fő.", "2023-ban új halfeldolgozó üzem nyílt."],
       ro: ["Portul pescuit: 20.000 de tone/an.", "Șantierul naval are 3 docuri uscate.", "Universitatea Tromsø are un centru de biologie marină aici.", "Angajați în industrie: 1.500.", "Populația Finnsnes: 4.500 locuitori.", "O nouă fabrică de prelucrare a peștelui a fost deschisă în 2023."],
       en: ["Port handles 20,000 tonnes of fish/year.", "Shipyard has 3 dry docks.", "University of Tromsø runs a marine biology centre here.", "Industrial employment: 1,500.", "Population of Finnsnes: 4,500.", "New fish processing plant opened in 2023."],
-    }, image: "/poi-images/norway-finnsnes-industry-hub-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-narvik-logistic-center-economic-v2",
     type: "industry",
@@ -656,7 +671,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["A raktárterület 50 000 m².", "300 alkalmazott dolgozik itt.", "Az éves konténerforgalom 20 000 TEU.", "A hűtőház kapacitását 2022-ben 10 000 m²-re bővítették.", "A központ éjjel-nappal üzemel.", "A beruházás összege 40 millió euró."],
       ro: ["Suprafața depozit: 50.000 m².", "300 de angajați.", "Trafic de containere: 20.000 TEU/an.", "Spațiul frigorific a fost extins la 10.000 m² în 2022.", "Centrul este deschis 24/7.", "Investiție: 40 de milioane de euro."],
       en: ["Warehouse area: 50,000 m².", "300 employees.", "Container throughput: 20,000 TEU/year.", "Cold storage expanded to 10,000 m² in 2022.", "Centre operates 24/7.", "Investment: €40 million."],
-    }, image: "/poi-images/norway-narvik-logistic-center-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-odda-industrial-site-economic-v2",
     type: "industry",
@@ -687,7 +703,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["Az éves cinktermelés 150 000 tonna.", "A gyár 500 főt alkalmaz.", "Az ipari tevékenység 1908-ban kezdődött.", "A vízerőmű teljesítménye 30 MW.", "A kikötő mélysége 15 méter.", "A környezetvédelmi beruházások összege 50 millió euró."],
       ro: ["Producția de zinc: 150.000 de tone/an.", "Angajați: 500.", "Activitatea industrială a început în 1908.", "Centrala hidroelectrică are 30 MW.", "Adâncimea portului: 15 metri.", "Investiții de mediu: 50 de milioane de euro."],
       en: ["Zinc production: 150,000 tonnes/year.", "Employees: 500.", "Industrial activity started in 1908.", "Hydropower plant capacity: 30 MW.", "Port depth: 15 metres.", "Environmental investments: €50 million."],
-    }, image: "/poi-images/norway-odda-industrial-site-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-trondheim-tech-park-economic-v2",
     type: "industry",
@@ -718,7 +735,8 @@ export const norwayEconomicV2: POI[] = [
       hu: ["200 vállalat található a parkban.", "5000 ember dolgozik itt.", "A park területe 30 hektár.", "A parkot 1995-ben alapították.", "2022-ben 20 startup számára nyílt inkubátorház.", "10 közös labor működik az egyetemmel és a SINTEF-fel."],
       ro: ["200 de companii în parc.", "5.000 de angajați.", "Suprafața: 30 de hectare.", "Parcul a fost fondat în 1995.", "În 2022, s-a deschis un incubator cu 20 de start-upuri.", "10 laboratoare comune cu NTNU și SINTEF."],
       en: ["200 companies in the park.", "5,000 employees.", "Area: 30 hectares.", "Park founded in 1995.", "2022 incubator with 20 startups.", "10 joint labs with NTNU and SINTEF."],
-    }, image: "/poi-images/norway-trondheim-tech-park-economic-v2.webp"},
+    },
+  },
   {
     id: "norway-elverum-industry-hub-economic-v2",
     type: "industry",

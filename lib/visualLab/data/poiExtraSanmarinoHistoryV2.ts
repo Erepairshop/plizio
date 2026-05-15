@@ -95,7 +95,8 @@ export const sanmarinoHistoryV2: POI[] = [
       hu: ["1882-ben emelték.", "4 méter magas márványszobor.", "Isztriai kő talapzat.", "Helyszín: Piazza Garibaldi.", "Garibaldi 1849-ben látogatott San Marinóba.", "Szobrász: Stefano Galletti."],
       ro: ["Ridicat în 1882.", "Statuie de marmură de 4 metri.", "Soclul din piatră istriană.", "Amplasare: Piazza Garibaldi.", "Garibaldi a vizitat San Marino în 1849.", "Sculptor: Stefano Galletti."],
       en: ["Erected in 1882.", "4-meter tall marble statue.", "Base made of Istrian stone.", "Location: Piazza Garibaldi.", "Garibaldi visited San Marino in 1849.", "Sculptor: Stefano Galletti."],
-    }, image: "/poi-images/sanmarino-monumento-garibaldi-history-v2.webp"},
+    },
+  },
   {
     id: "sanmarino-chiesa-san-pietro-history-v2",
     type: "church",
@@ -126,7 +127,8 @@ export const sanmarinoHistoryV2: POI[] = [
       hu: ["A 12. században épült.", "Román stílus.", "14. századi freskók.", "Szent Péter ereklyéje.", "Barokkosítás a 18. században.", "Műemléki védelem 1925 óta."],
       ro: ["Construită în secolul al XII-lea.", "Stil romanic.", "Fresce din secolul al XIV-lea.", "Relicvă a Sfântului Petru.", "Barocizată în secolul al XVIII-lea.", "Protejată din 1925."],
       en: ["Built in the 12th century.", "Romanesque style.", "14th-century frescoes.", "Relic of Saint Peter.", "Baroqueized in the 18th century.", "Protected monument since 1925."],
-    }, image: "/poi-images/sanmarino-chiesa-san-pietro-history-v2.webp"},
+    },
+  },
   {
     id: "sanmarino-ex-convento-san-francesco-history-v2",
     type: "monument",
@@ -157,7 +159,8 @@ export const sanmarinoHistoryV2: POI[] = [
       hu: ["1361-ben alapították.", "Szekularizáció 1805-ben.", "15. századi fából készült feszület.", "16. századi freskók a kolostorudvaron.", "3 000 kötetes könyvtár.", "Ma szakrális művészeti múzeum."],
       ro: ["Fondată în 1361.", "Secularizare în 1805.", "Crucifix de lemn din secolul al XV-lea.", "Fresce din secolul al XVI-lea în claustru.", "Bibliotecă cu 3.000 de volume.", "Astăzi muzeu de artă sacră."],
       en: ["Founded in 1361.", "Secularized in 1805.", "Wooden crucifix from the 15th century.", "16th-century frescoes in the cloister.", "Library of 3,000 volumes.", "Today a museum of sacred art."],
-    }, image: "/poi-images/sanmarino-ex-convento-san-francesco-history-v2.webp"},
+    },
+  },
   {
     id: "sanmarino-porto-franco-storico-history-v2",
     type: "landmark",
@@ -188,7 +191,8 @@ export const sanmarinoHistoryV2: POI[] = [
       hu: ["A 16. században épült.", "Első említés 1597-ben.", "Magasság: 8 méter.", "Szélesség: 4 méter.", "Restaurálva 1925-ben.", "A városfal része."],
       ro: ["Construită în secolul al XVI-lea.", "Prima mențiune în 1597.", "Înălțime: 8 metri.", "Lățime: 4 metri.", "Restaurată în 1925.", "Parte a zidului cetății."],
       en: ["Built in the 16th century.", "First mentioned in 1597.", "Height: 8 meters.", "Width: 4 meters.", "Restored in 1925.", "Part of the city walls."],
-    }, image: "/poi-images/sanmarino-porto-franco-storico-history-v2.webp"},
+    },
+  },
   {
     id: "sanmarino-piazza-titano-history-v2",
     type: "landmark",

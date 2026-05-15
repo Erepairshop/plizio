@@ -31,7 +31,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["A gleccser területe 487 km².", "A jég vastagsága legfeljebb 600 méter.", "A parkot 1991-ben hozták létre.", "A legmagasabb pont a Høgste Breakulen (1957 m).", "Több mint 50 gleccsernyelv található.", "A park területe 1315 km²."],
       ro: ["Ghețarul acoperă 487 km².", "Grosimea maximă a gheții este de 600 de metri.", "Parcul a fost înființat în 1991.", "Cel mai înalt punct este Høgste Breakulen (1957 m).", "Există peste 50 de limbi glaciare.", "Parcul are o suprafață de 1315 km²."],
       en: ["Glacier covers 487 km².", "Maximum ice thickness is 600 m.", "Park established in 1991.", "Highest point is Høgste Breakulen at 1957 m.", "Over 50 glacier tongues.", "Park area is 1315 km²."],
-    }, image: "/poi-images/norway-jostedalsbreen-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-reisa-national-park-life-v2",
     type: "park",
@@ -62,7 +63,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["A parkot 1986-ban alapították.", "Területe 803 km².", "A Reisa-vízesés 65 méter magas.", "A legmagasabb pont 1238 m.", "Több mint 200 növényfaj található.", "A szurdok 12 kilométer hosszú."],
       ro: ["Parcul a fost înființat în 1986.", "Suprafața este de 803 km².", "Cascada Reisa are o înălțime de 65 de metri.", "Cel mai înalt punct este 1238 m.", "Există peste 200 de specii de plante.", "Canionul are 12 kilometri lungime."],
       en: ["Park established in 1986.", "Area: 803 km².", "Reisa waterfall drops 65 meters.", "Highest point: 1238 m.", "Over 200 plant species.", "Canyon is 12 km long."],
-    }, image: "/poi-images/norway-reisa-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-dividalen-national-park-life-v2",
     type: "park",
@@ -93,7 +95,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["A parkot 1971-ben alapították.", "Területe 753 km².", "A legmagasabb pont 1684 m.", "A Divi folyó 45 km hosszú.", "A parkban mintegy 300 jávorszarvas él.", "A fenyőerdők akár 500 évesek is lehetnek."],
       ro: ["Parcul a fost înființat în 1971.", "Suprafața este de 753 km².", "Cel mai înalt punct: 1684 m.", "Râul Divi are 45 km lungime.", "În parc trăiesc aproximativ 300 de elani.", "Pădurile de pini au până la 500 de ani vechime."],
       en: ["Park established in 1971.", "Area: 753 km².", "Highest point: 1684 m.", "Divi River is 45 km long.", "Approximately 300 moose live in the park.", "Pine forests up to 500 years old."],
-    }, image: "/poi-images/norway-dividalen-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-hardangervidda-wildlife-v2",
     type: "wildlife",
@@ -124,7 +127,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["A fennsík 8.000 km² területű.", "A legmagasabb pont 1.883 m.", "Körülbelül 10.000 rénszarvas él itt.", "A parkot 1981-ben alapították.", "A nemzeti park területe 3.422 km².", "Több mint 500 tó található."],
       ro: ["Platoul are 8.000 km².", "Cel mai înalt punct are 1.883 m.", "Aproximativ 10.000 de reni trăiesc aici.", "Parcul a fost înființat în 1981.", "Suprafața parcului național este de 3.422 km².", "Există peste 500 de lacuri."],
       en: ["Plateau area: 8,000 km².", "Highest point: 1,883 m.", "About 10,000 reindeer live here.", "Park established in 1981.", "National park area: 3,422 km².", "Over 500 lakes."],
-    }, image: "/poi-images/norway-hardangervidda-wildlife-v2.webp"},
+    },
+  },
   {
     id: "norway-ytre-hvaler-national-park-life-v2",
     type: "park",
@@ -155,7 +159,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["A parkot 2009-ben alapították.", "Területe 354 km², melynek 90%-a víz.", "55 sziget és szigetecske található.", "A legmélyebb pont 120 méter.", "A legnagyobb sziget Hvaler.", "A partvonal hossza 180 km."],
       ro: ["Parcul a fost înființat în 2009.", "Suprafața este de 354 km², dintre care 90% apă.", "Există 55 de insule și insulițe.", "Cel mai adânc punct: 120 de metri.", "Cea mai mare insulă: Hvaler.", "Lungimea coastei: 180 km."],
       en: ["Park established in 2009.", "Area: 354 km², 90% water.", "55 islands and islets.", "Deepest point: 120 meters.", "Largest island: Hvaler.", "Coastline length: 180 km."],
-    }, image: "/poi-images/norway-ytre-hvaler-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-folgefonna-national-park-life-v2",
     type: "park",
@@ -186,7 +191,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["A gleccser 207 km² területet fed le.", "A jég maximális vastagsága 400 méter.", "A parkot 2005-ben alapították.", "A legmagasabb pont 1.662 m.", "A park területe 826 km².", "A gleccser évente 10 métert veszít vastagságából."],
       ro: ["Ghețarul acoperă 207 km².", "Grosimea maximă a gheții: 400 m.", "Parcul a fost înființat în 2005.", "Cel mai înalt punct: 1.662 m.", "Suprafața parcului: 826 km².", "Ghețarul pierde 10 m grosime pe an."],
       en: ["Glacier covers 207 km².", "Maximum ice thickness: 400 m.", "Park established in 2005.", "Highest point: 1,662 m.", "Park area: 826 km².", "Glacier loses 10 m thickness annually."],
-    }, image: "/poi-images/norway-folgefonna-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-børgefjell-national-park-life-v2",
     type: "park",
@@ -217,7 +223,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["A parkot 1971-ben alapították.", "Területe 1.447 km².", "A legmagasabb pont 1.705 m.", "200 tó található.", "A legmélyebb tó 40 méter mély.", "A parkban 500 rénszarvas él."],
       ro: ["Parcul a fost înființat în 1971.", "Suprafața: 1.447 km².", "Cel mai înalt punct: 1.705 m.", "Există 200 de lacuri.", "Cea mai mare adâncime a unui lac: 40 m.", "Parcul găzduiește 500 de reni."],
       en: ["Park established in 1971.", "Area: 1,447 km².", "Highest point: 1,705 m.", "200 lakes.", "Deepest lake: 40 m.", "Park hosts 500 reindeer."],
-    }, image: "/poi-images/norway-børgefjell-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-femundsmarka-national-park-life-v2",
     type: "park",
@@ -248,7 +255,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["A parkot 1971-ben alapították.", "Területe 597 km².", "A Femunden-tó 203 km² területű.", "A tó legnagyobb mélysége 130 m.", "A legmagasabb pont 1.000 m.", "A parkban 100 km jelzett túraút van."],
       ro: ["Parcul a fost înființat în 1971.", "Suprafața: 597 km².", "Lacul Femunden are 203 km².", "Adâncimea maximă a lacului: 130 m.", "Cel mai înalt punct: 1.000 m.", "Parcul are 100 km de trasee marcate."],
       en: ["Park established in 1971.", "Area: 597 km².", "Lake Femunden covers 203 km².", "Maximum lake depth: 130 m.", "Highest point: 1,000 m.", "100 km of marked hiking trails."],
-    }, image: "/poi-images/norway-femundsmarka-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-saltfjellet-svartisen-national-park-life-v2",
     type: "park",
@@ -279,7 +287,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["A gleccser területe 370 km².", "A jég maximális vastagsága 550 méter.", "A parkot 1989-ben alapították.", "A park területe 2.102 km².", "A legmagasabb pont 1.592 m.", "Több mint 100 barlang található."],
       ro: ["Ghețarul acoperă 370 km².", "Grosimea maximă a gheții: 550 m.", "Parcul a fost înființat în 1989.", "Suprafața parcului: 2.102 km².", "Cel mai înalt punct: 1.592 m.", "Există peste 100 de peșteri."],
       en: ["Glacier covers 370 km².", "Maximum ice thickness: 550 m.", "Park established in 1989.", "Park area: 2,102 km².", "Highest point: 1,592 m.", "Over 100 caves."],
-    }, image: "/poi-images/norway-saltfjellet-svartisen-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-breheimen-national-park-life-v2",
     type: "park",
@@ -310,7 +319,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["A parkot 2009-ben alapították.", "Területe 1.672 km².", "A legmagasabb csúcs 2.208 m.", "4 fő gleccser található.", "A legnagyobb jégvastagság 300 m.", "A parkban 150 km jelzett út van."],
       ro: ["Parcul a fost înființat în 2009.", "Suprafața: 1.672 km².", "Cel mai înalt vârf: 2.208 m.", "Există 4 ghețari principali.", "Grosimea maximă a gheții: 300 m.", "Parcul are 150 km de trasee marcate."],
       en: ["Park established in 2009.", "Area: 1,672 km².", "Highest peak: 2,208 m.", "4 main glaciers.", "Maximum ice thickness: 300 m.", "150 km of marked trails."],
-    }, image: "/poi-images/norway-breheimen-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-ovre-pasvik-national-park-life-v2",
     type: "park",
@@ -341,7 +351,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["A parkot 1971-ben alapították.", "Területe 119 km².", "A legmagasabb pont 135 m.", "200 madárfaj él itt.", "A Pasvik folyó 100 km hosszú.", "A júliusi átlaghőmérséklet 13°C."],
       ro: ["Parcul a fost înființat în 1971.", "Suprafața: 119 km².", "Cel mai înalt punct: 135 m.", "200 de specii de păsări.", "Râul Pasvik are 100 km lungime.", "Temperatura medie în iulie: 13°C."],
       en: ["Park established in 1971.", "Area: 119 km².", "Highest point: 135 m.", "200 bird species.", "Pasvik River is 100 km long.", "Average July temperature: 13°C."],
-    }, image: "/poi-images/norway-ovre-pasvik-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-sunndalsfjella-dovrefjell-national-park-life-v2",
     type: "park",
@@ -372,7 +383,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["A parkot 2002-ben alapították.", "Területe 1.693 km².", "A legmagasabb pont a Snøhetta (2.286 m).", "Körülbelül 200 pézsmatulok él itt.", "100 madárfaj található.", "A hótakaró évente 200 napig marad."],
       ro: ["Parcul a fost înființat în 2002.", "Suprafața: 1.693 km².", "Cel mai înalt punct: Snøhetta (2.286 m).", "Aproximativ 200 de boi moscati trăiesc aici.", "100 de specii de păsări.", "Stratul de zăpadă persistă 200 de zile pe an."],
       en: ["Park established in 2002.", "Area: 1,693 km².", "Highest point: Snøhetta at 2,286 m.", "About 200 musk oxen live here.", "100 bird species.", "Snow cover lasts 200 days per year."],
-    }, image: "/poi-images/norway-sunndalsfjella-dovrefjell-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-rondane-national-park-life-v2",
     type: "park",
@@ -403,7 +415,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["A parkot 1962-ben alapították.", "Területe 963 km².", "A legmagasabb csúcs a Rondeslottet (2.178 m).", "10 csúcs magasabb 2000 méternél.", "A rénszarvas állomány kb. 2000 egyed.", "A park területét 2003-ban bővítették."],
       ro: ["Parcul a fost fondat în 1962.", "Suprafața: 963 km².", "Cel mai înalt vârf: Rondeslottet (2.178 m).", "10 vârfuri peste 2000 de metri.", "Populația de reni: aproximativ 2000 de animale.", "Parcul a fost extins în 2003."],
       en: ["Park established in 1962.", "Area: 963 km².", "Highest peak: Rondeslottet at 2,178 m.", "10 peaks over 2000 meters.", "Reindeer population: about 2000 animals.", "Park area expanded in 2003."],
-    }, image: "/poi-images/norway-rondane-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-lan-national-park-life-v2",
     type: "park",
@@ -434,7 +447,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["A parkot 2009-ben alapították.", "Területe 1.827 km².", "A legmagasabb pont 1.592 m.", "A Visten-fjord 15 km hosszú.", "100 km jelzett túraút van.", "30 emlősfaj él a parkban."],
       ro: ["Parcul a fost înființat în 2009.", "Suprafața: 1.827 km².", "Cel mai înalt punct: 1.592 m.", "Fiordul Visten are 15 km lungime.", "100 km de trasee marcate.", "30 de specii de mamifere."],
       en: ["Park established in 2009.", "Area: 1,827 km².", "Highest point: 1,592 m.", "Vistenfjord is 15 km long.", "100 km of marked trails.", "30 mammal species."],
-    }, image: "/poi-images/norway-lan-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-varangerhalvoya-national-park-life-v2",
     type: "park",
@@ -465,7 +479,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["A parkot 2009-ben alapították.", "Területe 1.804 km².", "A partvonal 200 km hosszú.", "100 madárfaj él itt.", "A legmagasabb pont 450 m.", "A vastagcsőrű lumma legnagyobb telepe itt fészkel."],
       ro: ["Parcul a fost înființat în 2009.", "Suprafața: 1.804 km².", "Coasta are 200 km lungime.", "100 de specii de păsări.", "Cel mai înalt punct: 450 m.", "Cea mai mare colonie de ura de mare cu cioc gros cuibărește aici."],
       en: ["Park established in 2009.", "Area: 1,804 km².", "Coastline: 200 km.", "100 bird species.", "Highest point: 450 m.", "Largest colony of thick-billed murre breeds here."],
-    }, image: "/poi-images/norway-varangerhalvoya-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-rauma-river-life-v2",
     type: "river",
@@ -496,7 +511,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["Hossz: 68 km", "Vízgyűjtő terület: 1.210 km²", "Átlagos vízhozam: 40 m³/s", "Legnagyobb tavaszi vízhozam: 300 m³/s", "Éves lazacfogás: 1.500 kg", "Kylling híd hossza: 187 méter"],
       ro: ["Lungime: 68 km", "Bazin hidrografic: 1.210 km²", "Debit mediu: 40 m³/s", "Debit maxim primăvara: 300 m³/s", "Captură anuală de somon: 1.500 kg", "Podul Kylling: 187 m lungime"],
       en: ["Length: 68 km", "Catchment area: 1,210 km²", "Average discharge: 40 m³/s", "Peak spring discharge: 300 m³/s", "Annual salmon catch: 1,500 kg", "Raumabanen railway opened: 1924"],
-    }, image: "/poi-images/norway-rauma-river-life-v2.webp"},
+    },
+  },
   {
     id: "norway-dovre-national-park-life-v2",
     type: "park",
@@ -527,7 +543,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["Alapítás éve: 2003", "Terület: 289 km²", "Legmagasabb pont: Fokstuguhøi (1.452 m)", "Pézsmatulok állomány: kb. 300 egyed", "Betelepítés éve: 1947", "Júliusi átlaghőmérséklet: 10 °C"],
       ro: ["Anul înființării: 2003", "Suprafață: 289 km²", "Altitudine maximă: Fokstuguhøi (1.452 m)", "Populația de boi mosc: circa 300", "Reintroducerea boilor mosc: 1947", "Temperatura medie iulie: 10°C"],
       en: ["Established: 2003", "Area: 289 km²", "Highest point: Fokstuguhøi (1,452 m)", "Muskox population: ~300", "Muskox reintroduction: 1947", "Average July temperature: 10°C"],
-    }, image: "/poi-images/norway-dovre-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-skjervs-nature-life-v2",
     type: "park",
@@ -558,7 +575,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["Alapítás éve: 1983", "Terület: 4,8 km²", "Költő madárpárok száma: több mint 10.000", "Januári átlaghőmérséklet: -5 °C", "Júliusi átlaghőmérséklet: 12 °C", "Legmagasabb pont: 120 m"],
       ro: ["Anul înființării: 1983", "Suprafață: 4,8 km²", "Perechi de păsări cuibăritoare: peste 10.000", "Temperatura medie ianuarie: -5°C", "Temperatura medie iulie: 12°C", "Altitudine maximă: 120 m"],
       en: ["Established: 1983", "Area: 4.8 km²", "Breeding seabird pairs: >10,000", "Average January temperature: -5°C", "Average July temperature: 12°C", "Highest point: 120 m"],
-    }, image: "/poi-images/norway-skjervs-nature-life-v2.webp"},
+    },
+  },
   {
     id: "norway-blafjell-skjækerfjella-national-park-life-v2",
     type: "park",
@@ -589,7 +607,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["Alapítás éve: 2004", "Terület: 1.924 km²", "Legmagasabb pont: Blåfjell (1.142 m)", "Barnamedve állomány: kb. 20 egyed", "Namsen folyó hossza: 210 km", "Régészeti lelőhelyek száma: több mint 100"],
       ro: ["Anul înființării: 2004", "Suprafață: 1.924 km²", "Altitudine maximă: Blåfjell (1.142 m)", "Populația de urși bruni: circa 20", "Lungimea râului Namsen: 210 km", "Situri arheologice: peste 100"],
       en: ["Established: 2004", "Area: 1,924 km²", "Highest point: Blåfjell (1,142 m)", "Brown bear population: ~20", "Namsen River length: 210 km", "Archaeological sites: >100"],
-    }, image: "/poi-images/norway-blafjell-skjækerfjella-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-reinheimen-national-park-life-v2",
     type: "park",
@@ -620,7 +639,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["Alapítás éve: 2006", "Terület: 1.969 km²", "Legmagasabb pont: Skarddalstind (2.048 m)", "Éves csapadék: 1.500 mm", "Rénszarvas állomány: kb. 2.000 egyed", "Kiépített utak száma: 0"],
       ro: ["Anul înființării: 2006", "Suprafață: 1.969 km²", "Altitudine maximă: Skarddalstind (2.048 m)", "Precipitații anuale: 1.500 mm", "Populația de reni: circa 2.000", "Drumuri amenajate: 0"],
       en: ["Established: 2006", "Area: 1,969 km²", "Highest point: Skarddalstind (2,048 m)", "Annual precipitation: 1,500 mm", "Wild reindeer population: ~2,000", "Maintained trails: 0"],
-    }, image: "/poi-images/norway-reinheimen-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-forollhogna-national-park-life-v2",
     type: "park",
@@ -651,7 +671,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["Alapítás éve: 2001", "Terület: 1.062 km²", "Tavak száma: több mint 300", "Legmagasabb pont: Forollhogna (1.302 m)", "Rozsomák állomány: kb. 10 egyed", "Júliusi átlaghőmérséklet: 11 °C"],
       ro: ["Anul înființării: 2001", "Suprafață: 1.062 km²", "Număr de lacuri: peste 300", "Altitudine maximă: Forollhogna (1.302 m)", "Populația de jder: circa 10", "Temperatura medie iulie: 11°C"],
       en: ["Established: 2001", "Area: 1,062 km²", "Number of lakes: >300", "Highest point: Forollhogna (1,302 m)", "Wolverine population: ~10", "Average July temperature: 11°C"],
-    }, image: "/poi-images/norway-forollhogna-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-langsua-national-park-life-v2",
     type: "park",
@@ -682,7 +703,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["Alapítás éve: 2011", "Terület: 1.096 km²", "Legmagasabb pont: Nørdre Siksjøen (1.426 m)", "Øvre Langsua tó hossza: 5 km", "Madárfajok száma: több mint 100", "Januári átlaghőmérséklet: -8 °C"],
       ro: ["Anul înființării: 2011", "Suprafață: 1.096 km²", "Altitudine maximă: Nørdre Siksjøen (1.426 m)", "Lungimea lacului Øvre Langsua: 5 km", "Specii de păsări: peste 100", "Temperatura medie ianuarie: -8°C"],
       en: ["Established: 2011", "Area: 1,096 km²", "Highest point: Nørdre Siksjøen (1,426 m)", "Lake Øvre Langsua length: 5 km", "Bird species: >100", "Average January temperature: -8°C"],
-    }, image: "/poi-images/norway-langsua-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-gutulia-national-park-life-v2",
     type: "park",
@@ -713,7 +735,8 @@ export const norwayLifeV2: POI[] = [
       hu: ["Alapítás éve: 1968", "Terület: 23 km²", "Legmagasabb pont: 1.200 m", "Legöregebb fa kora: 500 év", "Kiépített utak száma: 0", "Femundsmarka-Gutulia védett terület része: 1971 óta"],
       ro: ["Anul înființării: 1968", "Suprafață: 23 km²", "Altitudine maximă: 1.200 m", "Vârsta maximă a copacilor: 500 ani", "Trasee amenajate: 0", "Parte a ariei protejate Femundsmarka-Gutulia: din 1971"],
       en: ["Established: 1968", "Area: 23 km²", "Highest point: 1,200 m", "Maximum tree age: 500 years", "Maintained trails: 0", "Part of Femundsmarka-Gutulia protected area: since 1971"],
-    }, image: "/poi-images/norway-gutulia-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "norway-stabbursdalen-national-park-life-v2",
     type: "park",

@@ -31,7 +31,8 @@ export const austriaEconomicV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 433 m", "Terület: 15,59 km²", "Lakosság: kb. 12 500 fő", "Vöckla-folyó menti fekvés", "Gazdasági vonzáskörzet: Hausruckviertel", "Első írásos említés: 1134"],
       ro: ["Altitudine: 433 m", "Suprafață: 15,59 km²", "Populație: aprox. 12.500 locuitori", "Prima atestare documentară: 1134", "Capitală de district în Hausruckviertel", "Traversat de râul Vöckla"],
       en: ["Elevation: 433 meters", "Total area: 15.59 sq km", "Population: ~12,500", "First mentioned in 1134", "Regional administrative center", "Located on the Vöckla River"],
-    }, image: "/poi-images/austria-vocklabruck-economic-v2.webp"},
+    },
+  },
   {
     id: "austria-ried-im-innkreis-economic-v2",
     type: "city",
@@ -62,7 +63,8 @@ export const austriaEconomicV2: POI[] = [
       hu: ["Terület: 6,77 km²", "Lakosság: kb. 12 500 fő", "FACC központ (repülőgépipar)", "Fischer Sports székhelye", "Rieder Messe alapítása: 1867", "Gazdasági központ az Innviertelben"],
       ro: ["Suprafață: 6,77 km²", "Populație: aprox. 12.500 locuitori", "Sediu central FACC (aviație)", "Sediu Fischer Sports", "Târgul Rieder Messe fondat în 1867", "Centru economic în Innviertel"],
       en: ["Total area: 6.77 sq km", "Population: ~12,500", "Headquarters of FACC AG", "Headquarters of Fischer Sports", "Rieder Messe fair founded 1867", "Core city of the Innviertel region"],
-    }, image: "/poi-images/austria-ried-im-innkreis-economic-v2.webp"},
+    },
+  },
   {
     id: "austria-bad-wimsbach-economic-v2",
     type: "village",
@@ -93,7 +95,8 @@ export const austriaEconomicV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 387 m", "Terület: 24,0 km²", "Lakosság: kb. 2 500 fő", "Gyógyfürdő 1945 óta", "Az Almtal-völgyben fekszik", "Neydharting tőzegláp központ"],
       ro: ["Altitudine: 387 m", "Suprafață: 24,0 km²", "Populație: aprox. 2.500 locuitori", "Stațiune balneară din 1945", "Situat în valea râului Alm", "Centru terapeutic cu turbă"],
       en: ["Elevation: 387 meters", "Total area: 24.0 sq km", "Population: ~2,500", "Spa operations since 1945", "Located in the Alm Valley", "Specialized in moor mud therapy"],
-    }, image: "/poi-images/austria-bad-wimsbach-economic-v2.webp"},
+    },
+  },
   {
     id: "austria-feldbach-economic-v2",
     type: "city",
@@ -124,7 +127,8 @@ export const austriaEconomicV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 282 m", "Terület: 67,13 km²", "Lakosság: kb. 13 500 fő", "Rába-folyó menti fekvés", "Stájer Vulkánvidék központja", "Vasúti csomópont"],
       ro: ["Altitudine: 282 m", "Suprafață: 67,13 km²", "Populație: aprox. 13.500 locuitori", "Situat pe râul Raab", "Centrul regiunii Vulkanland", "Nod feroviar regional"],
       en: ["Elevation: 282 meters", "Total area: 67.13 sq km", "Population: ~13,500", "Located on the Raab River", "Capital of Styrian Vulkanland", "Key railway junction"],
-    }, image: "/poi-images/austria-feldbach-economic-v2.webp"},
+    },
+  },
   {
     id: "austria-liezen-logistics-economic-v2",
     type: "industry",
@@ -219,7 +223,8 @@ export const austriaEconomicV2: POI[] = [
       hu: ["A kiállítási terület 85.000 m², ebből 30.000 m² fedett csarnok.", "Itt rendezik meg az 'Austrian Boat Show' nevű nagyszabású hajókiállítást.", "Európa egyik legnagyobb kertészeti kiállításának ad otthont minden évben.", "A létesítmény 9 modern csarnokkal rendelkezik a Duna közelében.", "Évente több mint 300.000 látogatót vonz a városba a vásári szezon.", "Közvetlen vasúti és közúti kapcsolat Bécs irányába."],
       ro: ["Suprafață totală de 85.000 m², cu 30.000 m² spații interioare moderne.", "Găzduiește 'Austrian Boat Show', cel mai mare eveniment nautic din regiune.", "Cunoscut pentru târgul anual de flori, cel mai mare de acest tip din Europa.", "Complexul include 9 pavilioane expoziționale, inclusiv Donauhalle.", "Generează venituri semnificative pentru turismul din Austria Inferioară.", "Capacitate de parcare pentru peste 7.000 de autoturisme lângă locație."],
       en: ["Total grounds of 85,000 m², including 30,000 m² of indoor hall space.", "Annual host of the 'Austrian Boat Show', a premier nautical event.", "Site of Europe's largest flower and garden exhibition every summer.", "Features 9 modern halls, with the Donauhalle being the centerpiece.", "Attracts over 300,000 visitors per year across various industries.", "Key economic driver for the Tulln region and Lower Austria."],
-    }, image: "/poi-images/austria-tulln-trade-economic-v2.webp"},
+    },
+  },
   {
     id: "austria-amstetten-industry-economic-v2",
     type: "industry",
@@ -250,7 +255,8 @@ export const austriaEconomicV2: POI[] = [
       hu: ["Itt található a Doka GmbH, a zsaluzórendszerek világpiaci vezetőjének központja.", "Az Umdasch-csoport a járás legjelentősebb munkaadója.", "A gépipar és a fémmegmunkálás a helyi gazdaság alappillére.", "Kiváló közlekedési kapcsolatok az A1-es autópálya mentén.", "Jelentős faipari és papíripari kapacitások a Mostviertel szívében.", "Az Amstetteni Ipari Negyed több mint 10.000 embernek ad munkát."],
       ro: ["Sediul central al Doka GmbH, lider mondial în sisteme de cofrare.", "Grupul Umdasch este cel mai mare angajator din districtul Amstetten.", "Hub industrial specializat în inginerie mecanică și prelucrarea lemnului.", "Acces direct la autostrada A1, facilitând exporturile spre Germania.", "Prezența unor importante fabrici de procesare a hârtiei.", "Peste 10.000 de locuri de muncă generate în parcul industrial local."],
       en: ["Global headquarters of Doka GmbH, a leader in formwork systems.", "Umdasch Group serves as the region's largest private employer.", "Focus on high-tech mechanical engineering and metal processing.", "Strategic location on the A1 motorway and Westbahn rail line.", "Major center for wood processing and paper manufacturing industries.", "High export rate driven by globally active local corporations."],
-    }, image: "/poi-images/austria-amstetten-industry-economic-v2.webp"},
+    },
+  },
   {
     id: "austria-worgl-logistics-economic-v2",
     type: "industry",
@@ -281,7 +287,8 @@ export const austriaEconomicV2: POI[] = [
       hu: ["Európa egyik legnagyobb 'Gördülő Országút' (ROLA) terminálja.", "Stratégiai fekvés az Inntal autópálya (A12) és a Brenner-tengely mentén.", "Fontos vasúti csomópont Innsbruck, Salzburg és München között.", "Évente több tízezer kamiont szállítanak innen vonattal a Brenner-hágón át.", "Tiroli logisztikai cégek és raktárbázisok központja.", "A város történelmileg híres az 1932-es helyi pénzkísérletéről."],
       ro: ["Unul dintre cele mai mari terminale ROLA (Rollende Landstraße) din Europa.", "Poziție strategică pe autostrada A12 și coridorul spre Pasul Brenner.", "Nod feroviar vital între Innsbruck, Salzburg și München.", "Transferă anual mii de camioane de pe șosea pe calea ferată pentru tranzit.", "Centru major de distribuție pentru mărfuri în Tirolul de Jos.", "Wörgl este celebru pentru experimentul economic 'Freigeld' din 1932."],
       en: ["Host to one of Europe's largest terminals for the Rolling Highway (ROLA).", "Key location on the Inn Valley motorway A12 near the Brenner Pass.", "Crucial railway junction linking Innsbruck, Salzburg, and Munich.", "Loads tens of thousands of trucks onto trains annually to reduce road transit.", "Central business hub for freight forwarders in the Tyrolean Unterland.", "Historically famous for the 1932 'Wörgl Miracle' local currency experiment."],
-    }, image: "/poi-images/austria-worgl-logistics-economic-v2.webp"},
+    },
+  },
   {
     id: "austria-spittal-economy-economic-v2",
     type: "industry",
@@ -312,7 +319,8 @@ export const austriaEconomicV2: POI[] = [
       hu: ["A STRABAG és más neves építőipari óriások bölcsője és székhelye.", "A Dráva- és Möll-völgy legfontosabb kereskedelmi és piaci városa.", "Itt működik a Karintiai Alkalmazott Tudományok Egyetemének egyik központja.", "Kiemelt vasútállomás a Tauern-vasútvonalon Salzburg felé.", "A Millstatti-tó közelsége miatt a turizmus kiemelt bevételi forrás.", "Felső-Karintia közigazgatási és oktatási központja."],
       ro: ["Locul de fondare al gigantului din construcții STRABAG.", "Principalul centru comercial pentru văile Drava, Lieser și Möll.", "Găzduiește Universitatea de Științe Aplicate din Carintia (Fachhochschule).", "Stație feroviară importantă pe ruta Tauern spre Salzburg.", "Turismul este dezvoltat datorită proximității de lacul Millstätter.", "Capitala administrativă a districtului Spittal an der Drau."],
       en: ["Historical birthplace and headquarters location for STRABAG construction.", "Central trade hub for the Drava, Lieser, and Möll valleys.", "Home to the Carinthia University of Applied Sciences (Engineering/Business).", "Major stop on the Tauern Railway line connecting to Salzburg.", "Strong tourism sector due to proximity to Lake Millstatt.", "Administrative center for the second largest district in Carinthia."],
-    }, image: "/poi-images/austria-spittal-economy-economic-v2.webp"},
+    },
+  },
   {
     id: "austria-bischofshofen-industrial-economic-v2",
     type: "industry",

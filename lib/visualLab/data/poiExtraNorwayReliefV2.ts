@@ -31,7 +31,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Magasság: 2286 m", "Kiemelkedés: 1675 m", "Első mászás: 1798 (Jens Esmark?)", "Normál útvonal hossza: 22 km (oda-vissza)", "Geológiai összetétel: gneisz és gránit", "Éves mászások száma: kb. 5000"],
       ro: ["Altitudine: 2.286 m", "Proeminență: 1.675 m", "Prima ascensiune: 1798 (Jens Esmark?)", "Lungimea rutei normale: 22 km (dus-întors)", "Compoziție geologică: gneiss și granit", "Număr anual de ascensiuni: aprox. 5.000"],
       en: ["Height: 2,286 m", "Prominence: 1,675 m", "First ascent: 1798 (Jens Esmark?)", "Length of normal route: 22 km (round trip)", "Geological composition: gneiss and granite", "Annual ascents: approx. 5,000"],
-    }, image: "/poi-images/norway-snøhetta-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-trollveggen-cliff-relief-v2",
     type: "mountain",
@@ -62,7 +63,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Maximális magasság: 1700 m", "Függőleges fal magassága: 1100 m", "Mászóútvonalak száma: több mint 50", "Első átmenő mászás: 1958 (Arne Randers Heen)", "Geológia: gránit", "Base jumping tiltása: 1986"],
       ro: ["Înălțime maximă: 1.700 m", "Înălțimea peretelui vertical: 1.100 m", "Numărul de rute de cățărare: peste 50", "Prima ascensiune completă: 1958 (Arne Randers Heen)", "Geologie: granit", "Interzicerea base jumping-ului: 1986"],
       en: ["Maximum height: 1,700 m", "Height of vertical wall: 1,100 m", "Number of climbing routes: over 50", "First continuous ascent: 1958 (Arne Randers Heen)", "Geology: granite", "Base jumping ban: 1986"],
-    }, image: "/poi-images/norway-trollveggen-cliff-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-hallingskarvet-plateau-relief-v2",
     type: "mountain",
@@ -93,7 +95,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Legmagasabb pont: 1933 m (Folarskardnuten)", "Fennsík hossza: 30 km", "Nemzeti Park alapítása: 2006", "Nemzeti Park területe: 450 km²", "Legmagasabb csúcs: Folarskardnuten", "Éves csapadékmennyiség: 800 mm"],
       ro: ["Altitudine maximă: 1.933 m (Folarskardnuten)", "Lungimea platoului: 30 km", "Anul înființării parcului național: 2006", "Suprafața parcului național: 450 km²", "Cel mai înalt vârf: Folarskardnuten", "Precipitații anuale: 800 mm"],
       en: ["Highest point: 1,933 m (Folarskardnuten)", "Plateau length: 30 km", "National park established: 2006", "National park area: 450 km²", "Highest summit: Folarskardnuten", "Annual precipitation: 800 mm"],
-    }, image: "/poi-images/norway-hallingskarvet-plateau-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-besseggen-ridge-relief-v2",
     type: "mountain",
@@ -124,7 +127,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Útvonal hossza: 15 km", "Legmagasabb pont: 1743 m (Veslfjellet)", "Minimális szélesség: 0,5 m", "Szintkülönbség: 1500 m", "Gjende területe: 14,1 km²", "Bessvatnet területe: 4,5 km²"],
       ro: ["Lungimea traseului: 15 km", "Altitudine maximă: 1.743 m (Veslfjellet)", "Lățime minimă: 0,5 m", "Diferență de nivel: 1.500 m", "Suprafața lacului Gjende: 14,1 km²", "Suprafața lacului Bessvatnet: 4,5 km²"],
       en: ["Trail length: 15 km", "Highest point: 1,743 m (Veslfjellet)", "Minimum width: 0.5 m", "Elevation gain: 1,500 m", "Area of Lake Gjende: 14.1 km²", "Area of Lake Bessvatnet: 4.5 km²"],
-    }, image: "/poi-images/norway-besseggen-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-trolltunga-cliff-relief-v2",
     type: "landmark",
@@ -155,7 +159,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Magasság a tó felett: 1100 m", "Kinyúlás hossza: 10 m", "Túraútvonal teljes hossza: 28 km (oda-vissza)", "Átlagos menetidő: 10-12 óra", "Útvonal legmagasabb pontja: 1200 m", "Éves látogatók száma: kb. 100 000"],
       ro: ["Altitudine deasupra lacului: 1.100 m", "Lungimea proeminenței: 10 m", "Lungimea totală a traseului: 28 km (dus-întors)", "Timp mediu de drumeție: 10-12 ore", "Altitudinea maximă pe traseu: 1.200 m", "Vizitatori anuali: aprox. 100.000"],
       en: ["Elevation above lake: 1,100 m", "Overhang length: 10 m", "Total hike distance: 28 km (round trip)", "Average hiking time: 10-12 hours", "Highest point on trail: 1,200 m", "Annual visitors: approx. 100,000"],
-    }, image: "/poi-images/norway-trolltunga-cliff-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-gaustatoppen-peak-relief-v2",
     type: "peak",
@@ -186,7 +191,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Magasság: 1883 m", "Látótávolság: akár 1000 km (60 000 km²)", "Gaustabanen sikló hossza: 1200 m", "Sikló legmagasabb pontja: 1800 m", "Első ismert mászás: ismeretlen, de 1800-ban már használták", "Átlagos januári hőmérséklet: -8 °C"],
       ro: ["Altitudine: 1.883 m", "Vizibilitate: până la 1.000 km (pe 60.000 km²)", "Lungimea telecabinei Gaustabanen: 1.200 m", "Altitudinea maximă a telecabinei: 1.800 m", "Prima ascensiune: necunoscută, dar folosită de fermieri în 1800", "Temperatura medie în ianuarie: -8 °C"],
       en: ["Height: 1,883 m", "Visibility range: up to 1,000 km (over 60,000 km²)", "Length of Gaustabanen cable car: 1,200 m", "Highest point of cable car: 1,800 m", "First ascent: unknown, but used by farmers since 1800", "Average January temperature: -8 °C"],
-    }, image: "/poi-images/norway-gaustatoppen-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-skala-peak-relief-v2",
     type: "peak",
@@ -217,7 +223,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Magasság: 1848 m", "Szintkülönbség a kiindulóponttól: 1300 m", "Távolság a csúcsig: kb. 6 km (egy irány)", "A menedékház alapításának éve: 1896", "A menedékház férőhelyeinek száma: 20", "Átlagos mászási idő: 4-5 óra"],
       ro: ["Altitudine: 1.848 m", "Diferență de nivel față de punctul de plecare: 1.300 m", "Distanța până la vârf: aprox. 6 km (dus)", "Anul înființării cabanei: 1896", "Numărul de locuri de cazare în cabană: 20", "Timp mediu de ascensiune: 4-5 ore"],
       en: ["Height: 1,848 m", "Elevation gain from trailhead: 1,300 m", "Distance to summit: approx. 6 km (one way)", "Year lodge established: 1896", "Number of beds in lodge: 20", "Average ascent time: 4-5 hours"],
-    }, image: "/poi-images/norway-skala-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-blatinden-peak-relief-v2",
     type: "peak",
@@ -248,7 +255,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Magasság: 1172 m", "Geológia: pala (kékes)", "Feljutás hossza: kb. 3 km (egy irány)", "Szintkülönbség: 500 m", "Romsdalseggen útvonal része (teljes hossz 10 km)", "Legközelebbi város: Åndalsnes, 10 km"],
       ro: ["Altitudine: 1.172 m", "Geologie: ardezie (albastruie)", "Lungimea ascensiunii: aprox. 3 km (dus)", "Diferență de nivel: 500 m", "Parte a traseului Romsdalseggen (lungime totală 10 km)", "Localitatea cea mai apropiată: Åndalsnes, la 10 km"],
       en: ["Height: 1,172 m", "Geology: slate (bluish)", "Ascent length: approx. 3 km (one way)", "Elevation gain: 500 m", "Part of Romsdalseggen route (total 10 km)", "Nearest town: Åndalsnes, 10 km away"],
-    }, image: "/poi-images/norway-blatinden-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-dovrefjell-plateau-relief-v2",
     type: "mountain",
@@ -279,7 +287,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: 2286 m (Snøhetta)", "Nemzeti Park területe: 1693 km²", "Alapítás éve: 2002", "Pézsmatulkok száma: kb. 300", "Átlagos téli hőmérséklet: -10 °C", "King túraútvonal hossza (Dovrefjell): 50 km"],
       ro: ["Altitudine maximă: 2.286 m (Snøhetta)", "Suprafața parcului național: 1.693 km²", "Anul înființării: 2002", "Numărul de boi moscați: aprox. 300", "Temperatura medie de iarnă: -10 °C", "Lungimea traseului King (Dovrefjell): 50 km"],
       en: ["Highest peak: 2,286 m (Snøhetta)", "Area of national park: 1,693 km²", "Established: 2002", "Number of musk oxen: approx. 300", "Average winter temperature: -10 °C", "Length of King's Trail (Dovrefjell): 50 km"],
-    }, image: "/poi-images/norway-dovrefjell-plateau-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-fjørtoftfjellet-peak-relief-v2",
     type: "peak",
@@ -374,7 +383,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Magasság: 1023 m", "Elhelyezkedés: Troms og Finnmark, Norvégia", "Kőzet: pala és gneisz", "Kulturális jelentőség: sámán szent hely", "Katonai felhasználás: radarállomás a II. világháborúban", "Csapadék: kb. 800 mm évente"],
       ro: ["Altitudine: 1.023 m", "Locație: Troms og Finnmark, Norvegia", "Rocă: șist și gneis", "Semnificație culturală: loc sacru pentru sami", "Utilizare militară: stație radar în al II-lea Război Mondial", "Precipitații: cca 800 mm anual"],
       en: ["Elevation: 1,023 m (3,356 ft)", "Location: Troms og Finnmark, Norway", "Rock type: Schist and gneiss", "Cultural significance: Sacred site for the Sami", "Military use: Radar station during WWII", "Annual precipitation: ca. 800 mm"],
-    }, image: "/poi-images/norway-skjervsfjellet-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-slogen-peak-relief-v2",
     type: "peak",
@@ -405,7 +415,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Magasság: 1564 m", "Falmagasság: 600 m (keleti fal)", "Kőzet: gránit és kvarcit", "Elhelyezkedés: Sunnmøre, Norvégia", "Szomszédos fjord: Hjørundfjord", "Csapadék: akár 2000 mm évente"],
       ro: ["Altitudine: 1.564 m", "Înălțimea peretelui: 600 m (peretele estic)", "Rocă: granit și cuarțit", "Locație: Sunnmøre, Norvegia", "Fiordul vecin: Hjørundfjord", "Precipitații: până la 2000 mm anual"],
       en: ["Elevation: 1,564 m (5,131 ft)", "East face height: 600 m (1,969 ft)", "Rock type: Granite and quartzite", "Location: Sunnmøre, Norway", "Adjacent fjord: Hjørundfjord", "Annual precipitation: up to 2,000 mm"],
-    }, image: "/poi-images/norway-slogen-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-breheimen-mountains-relief-v2",
     type: "mountain",
@@ -436,7 +447,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Hossz: kb. 100 km", "Legmagasabb csúcs: Hestbrepiggen (2172 m)", "Nemzeti park: Breheimen (2009 óta)", "Gleccserek: Harbardsbreen (12 km²)", "Geológia: prekambriumi gneisz", "Nemzeti park területe: 1671 km²"],
       ro: ["Lungime: cca 100 km", "Cel mai înalt vârf: Hestbrepiggen (2.172 m)", "Parcul național: Breheimen (din 2009)", "Ghețari: Harbardsbreen (12 km²)", "Geologie: gnais precambrian", "Suprafața parcului național: 1.671 km²"],
       en: ["Length: approximately 100 km", "Highest peak: Hestbrepiggen (2,172 m / 7,126 ft)", "National park: Breheimen (established 2009)", "Glacier: Harbardsbreen (12 km² / 4.6 sq mi)", "Geology: Precambrian gneiss", "National park area: 1,671 km² (645 sq mi)"],
-    }, image: "/poi-images/norway-breheimen-mountains-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-sunndalsfjella-mountains-relief-v2",
     type: "mountain",
@@ -467,7 +479,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Skarven (1706 m)", "Folyó: Driva", "Gazdaság: alumíniumkohó Sunndalsøra (400.000 t/év)", "Csapadék: kb. 1500 mm évente", "Geológia: gneisz és pala", "Vízerő: kb. 200 GWh évente"],
       ro: ["Cel mai înalt vârf: Skarven (1.706 m)", "Râul: Driva", "Economie: topitorie de aluminiu la Sunndalsøra (400.000 t/an)", "Precipitații: cca 1500 mm anual", "Geologie: gnais și șist", "Hidroenergie: cca 200 GWh anual"],
       en: ["Highest peak: Skarven (1,706 m / 5,597 ft)", "River: Driva", "Economy: Aluminum smelter in Sunndalsøra (400,000 t/yr)", "Annual precipitation: ca. 1,500 mm", "Geology: Gneiss and schist", "Hydroelectricity: ca. 200 GWh per year"],
-    }, image: "/poi-images/norway-sunndalsfjella-mountains-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-reinheimen-mountains-relief-v2",
     type: "mountain",
@@ -498,7 +511,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Storhøi (1971 m)", "Nemzeti park alapítva: 2006", "Terület: 1969 km²", "Vadon élő állatok: rénszarvas (kb. 600 db), rozsomák", "Túraútvonal: Reinheimen-ösvény (120 km)", "Geológia: prekambriumi gneisz és kvarcit"],
       ro: ["Cel mai înalt vârf: Storhøi (1.971 m)", "Parcul național înființat: 2006", "Suprafață: 1.969 km²", "Faună: reni (cca 600 de animale), jderi", "Traseu de drumeție: Reinheimen Trail (120 km)", "Geologie: gnais precambrian și cuarțit"],
       en: ["Highest peak: Storhøi (1,971 m / 6,467 ft)", "National park established: 2006", "Area: 1,969 km² (760 sq mi)", "Wildlife: Wild reindeer (ca. 600), wolverines", "Long-distance trail: Reinheimen Trail (120 km / 75 mi)", "Geology: Precambrian gneiss and quartzite"],
-    }, image: "/poi-images/norway-reinheimen-mountains-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-fjellheisen-relief-v2",
     type: "peak",
@@ -529,7 +543,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Nyitás: 1961", "Felső állomás magassága: 420 m", "A sikló hossza: 1039 m", "Szintkülönbség: 300 m", "Éves látogatók: több mint 200 000", "Lépcső: Sherpatrappa 1204 lépcsőfokkal"],
       ro: ["Inaugurare: 1961", "Înălțimea stației superioare: 420 m", "Lungimea telefericului: 1.039 m", "Diferență de nivel: 300 m", "Vizitatori anual: peste 200.000", "Scări: Sherpatrappa cu 1.204 trepte"],
       en: ["Opened: 1961", "Upper station elevation: 420 m (1,378 ft)", "Cable car length: 1,039 m (3,409 ft)", "Elevation gain: 300 m (984 ft)", "Annual visitors: over 200,000", "Stairs: Sherpatrappa with 1,204 steps"],
-    }, image: "/poi-images/norway-fjellheisen-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-stetind-mountain-relief-v2",
     type: "peak",
@@ -560,7 +575,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Magasság: 1387 m", "Norvégia nemzeti hegye 2004 óta", "Kőzet: gránit", "Első mászás: 1910", "Elhelyezkedés: Tysfjord közelében", "Gjerta útvonal nehézségi foka: 5.8"],
       ro: ["Altitudine: 1.387 m", "Muntele național al Norvegiei din 2004", "Rocă: granit", "Prima ascensiune: 1910", "Locație: lângă Tysfjord", "Dificultatea rutei 'Gjerta': 5.8"],
       en: ["Elevation: 1,387 m (4,551 ft)", "National mountain of Norway since 2004", "Rock type: Granite", "First ascent: 1910", "Location: near Tysfjord", "Route difficulty 'Gjerta': 5.8 (YDS)"],
-    }, image: "/poi-images/norway-stetind-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-trolltindene-peaks-relief-v2",
     type: "mountain",
@@ -591,7 +607,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Store Trolltind (1788 m)", "Trollstigen-hágó: 11 hajtűkanyar, 1936-ban nyitva", "Hágó magassága: 858 m", "Kőzet: gránit", "Éves látogatók: több mint 600 000", "Mászóút: 'Trollveg' (nehézségi fok 5.9)"],
       ro: ["Cel mai înalt vârf: Store Trolltind (1.788 m)", "Pasul Trollstigen: 11 curbe strânse, deschis în 1936", "Înălțimea pasului: 858 m", "Rocă: granit", "Vizitatori anual: peste 600.000", "Rută de alpinism: 'Trollveg' (dificultate 5.9)"],
       en: ["Highest peak: Store Trolltind (1,788 m / 5,866 ft)", "Trollstigen pass: 11 hairpin bends, opened 1936", "Pass elevation: 858 m (2,815 ft)", "Rock type: Granite", "Annual visitors: over 600,000", "Climbing route: 'Trollveg' (grade 5.9)"],
-    }, image: "/poi-images/norway-trolltindene-peaks-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-hallingdal-valley-relief-v2",
     type: "valley",
@@ -622,7 +639,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Hossz: kb. 200 km", "Folyó: Hallingdalselva", "Fő város: Geilo (síközpont)", "Mezőgazdaság: árpa, burgonya", "Lakosság: kb. 20 000", "Geilo látogatói: több mint 500 000 évente"],
       ro: ["Lungime: cca 200 km", "Râul: Hallingdalselva", "Oraș principal: Geilo (stațiune de schi)", "Agricultură: orz, cartofi", "Populație: cca 20.000", "Vizitatori la Geilo: peste 500.000 anual"],
       en: ["Length: approximately 200 km (124 mi)", "River: Hallingdalselva", "Main town: Geilo (ski resort)", "Agriculture: barley, potatoes", "Population: ca. 20,000", "Geilo visitors: over 500,000 annually"],
-    }, image: "/poi-images/norway-hallingdal-valley-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-gudbrandsdalen-valley-relief-v2",
     type: "valley",
@@ -653,7 +671,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Hossz: kb. 230 km", "Folyó: Gudbrandsdalslågen (átlagos vízhozam 200 m³/s)", "Történelmi épület: Ringebu stavkirke (kb. 1220)", "1994-es olimpia: Hafjell házigazda", "Lakosság: kb. 40 000", "Csapadék: kb. 750 mm évente (alsó völgy)"],
       ro: ["Lungime: cca 230 km", "Râul: Gudbrandsdalslågen (debit mediu 200 m³/s)", "Construcție istorică: Biserica de lemn Ringebu (cca 1220)", "Jocurile Olimpice 1994: Hafjell a fost gazdă", "Populație: cca 40.000", "Precipitații: cca 750 mm anual (valea inferioară)"],
       en: ["Length: approximately 230 km (143 mi)", "River: Gudbrandsdalslågen (average discharge 200 m³/s)", "Historic building: Ringebu Stave Church (c. 1220)", "1994 Olympics: Hafjell hosted alpine events", "Population: ca. 40,000", "Precipitation: ca. 750 mm annually (lower valley)"],
-    }, image: "/poi-images/norway-gudbrandsdalen-valley-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-frafjord-valley-relief-v2",
     type: "valley",
@@ -684,7 +703,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Vízesés: Månafossen (92 m esés)", "Völgy hossza: kb. 20 km", "Gazdaság: juhtenyésztés", "Tározó: Frafjordvatnet (vízerőmű, 10 MW)", "Kőzet: metamorf pala", "Csapadék: több mint 2000 mm évente"],
       ro: ["Cascadă: Månafossen (92 m diferență de nivel)", "Lungimea văii: cca 20 km", "Economie: creșterea oilor", "Lac de acumulare: Frafjordvatnet (hidrocentrală, 10 MW)", "Rocă: șist metamorfic", "Precipitații: peste 2000 mm anual"],
       en: ["Waterfall: Månafossen (92 m / 302 ft drop)", "Valley length: approximately 20 km (12 mi)", "Economy: sheep farming", "Reservoir: Frafjordvatnet (hydropower, 10 MW)", "Rock type: Metamorphic schist", "Annual precipitation: over 2,000 mm"],
-    }, image: "/poi-images/norway-frafjord-valley-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-setesdal-valley-relief-v2",
     type: "valley",
@@ -715,7 +735,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Hossz: kb. 200 km", "Folyó: Otra (245 km hosszú, átlagos vízhozam 150 m³/s)", "Bányászat: Evje nikkelbánya (2000 t/év)", "Síközpont: Hovden 35 pályával", "Csapadék: kb. 1000 mm évente", "Népsűrűség: kb. 5 fő/km²"],
       ro: ["Lungime: cca 200 km", "Râul: Otra (245 km lungime, debit mediu 150 m³/s)", "Exploatare minieră: mina de nichel Evje (2.000 t/an)", "Stațiune de schi: Hovden cu 35 de pârtii", "Precipitații: cca 1000 mm anual", "Densitatea populației: cca 5 locuitori/km²"],
       en: ["Length: approximately 200 km (124 mi)", "River: Otra (245 km / 152 mi long, average discharge 150 m³/s)", "Mining: Evje nickel mine (2,000 tonnes/yr)", "Ski resort: Hovden with 35 slopes", "Annual precipitation: ca. 1,000 mm", "Population density: ca. 5 people per km²"],
-    }, image: "/poi-images/norway-setesdal-valley-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-omsenfjellet-peak-relief-v2",
     type: "mountain",
@@ -778,7 +799,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Snøhetta (2286 m)", "Nemzeti park: Dovrefjell (1974 óta, 1893 km²)", "Vadon élő állatok: pézsmatulok (kb. 2000 db)", "Rézbánya: Kvikne (1630-1912 között üzemelt)", "Norvég mottó: 'Enige og tro inntil Dovre faller'", "Januári átlaghőmérséklet: -10°C"],
       ro: ["Cel mai înalt vârf: Snøhetta (2.286 m)", "Parcul național: Dovrefjell (din 1974, 1.893 km²)", "Faună: bou moscat (cca 2.000 de exemplare)", "Mina de cupru: Kvikne (a funcționat între 1630-1912)", "Motto-ul Norvegiei: 'Enige og tro inntil Dovre faller'", "Temperatura medie în ianuarie: -10°C"],
       en: ["Highest peak: Snøhetta (2,286 m / 7,500 ft)", "National park: Dovrefjell (since 1974, 1,893 km² / 731 sq mi)", "Wildlife: Musk ox (ca. 2,000 individuals)", "Copper mine: Kvikne (operated 1630-1912)", "Norwegian motto: 'Enige og tro inntil Dovre faller'", "January average temperature: -10°C (14°F)"],
-    }, image: "/poi-images/norway-dovre-mountains-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-namdalen-valley-relief-v2",
     type: "valley",
@@ -809,7 +831,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Hossz: kb. 150 km", "Folyó: Namsen (210 km hosszú, éves lazacfogás kb. 20 t)", "Fő város: Namsos (kb. 12 000 lakos)", "Mezőgazdaság: tejtermelés", "Népsűrűség: kb. 6 fő/km²", "Csapadék: kb. 900 mm évente"],
       ro: ["Lungime: cca 150 km", "Râul: Namsen (210 km lungime, captură anuală de somon cca 20 t)", "Oraș principal: Namsos (cca 12.000 locuitori)", "Agricultură: creșterea bovinelor de lapte", "Densitatea populației: cca 6 locuitori/km²", "Precipitații: cca 900 mm anual"],
       en: ["Length: approximately 150 km (93 mi)", "River: Namsen (210 km / 130 mi long, annual salmon catch ca. 20 tonnes)", "Main town: Namsos (population ca. 12,000)", "Agriculture: Dairy farming", "Population density: ca. 6 people per km²", "Annual precipitation: ca. 900 mm"],
-    }, image: "/poi-images/norway-namdalen-valley-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-telemark-highlands-relief-v2",
     type: "mountain",
@@ -872,7 +895,8 @@ export const norwayReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Hermannsdalstinden (1029 m)", "Sziget: Moskenesøy, Lofoten", "Kőzet: gránit és gneisz", "A sziget lakossága: kb. 1000", "Fő gazdasági ág: tőkehalhalászat", "Csapadék: több mint 2000 mm évente"],
       ro: ["Cel mai înalt vârf: Hermannsdalstinden (1.029 m)", "Insulă: Moskenesøy, Lofoten", "Rocă: granit și gnais", "Populația insulei: cca 1.000", "Activitate economică principală: pescuitul de cod", "Precipitații: peste 2000 mm anual"],
       en: ["Highest peak: Hermannsdalstinden (1,029 m / 3,376 ft)", "Island: Moskenesøy, Lofoten", "Rock type: Granite and gneiss", "Island population: ca. 1,000", "Main economy: Cod fishing", "Annual precipitation: over 2,000 mm"],
-    }, image: "/poi-images/norway-moskenesoy-mountains-relief-v2.webp"},
+    },
+  },
   {
     id: "norway-vegahavet-relief-v2",
     type: "mountain",

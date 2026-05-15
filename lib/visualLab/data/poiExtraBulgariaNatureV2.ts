@@ -31,7 +31,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["Alapítás éve: 1991.", "Terület: 716 km².", "Legmagasabb csúcs: Botev (2376 m).", "Túraútvonalak száma: 20.", "Védett növényfajok: több mint 1000.", "A Natura 2000 hálózat része."],
       ro: ["Anul fondării: 1991.", "Suprafață: 716 km².", "Cel mai înalt vârf: Botev (2.376 m).", "Număr de trasee de drumeție: 20.", "Specii de plante protejate: peste 1.000.", "Parte a rețelei Natura 2000."],
       en: ["Established: 1991.", "Area: 716 km².", "Highest peak: Botev (2,376 m).", "Number of hiking trails: 20.", "Protected plant species: over 1,000.", "Part of Natura 2000 network."],
-    }, image: "/poi-images/bulgaria-central-balkan-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-strandzha-nature-v2",
     type: "park",
@@ -62,7 +63,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["A természeti parkot 1995-ben alapították, területe 1161 négyzetkilométer.", "A park legmagasabb pontja a Gradishte csúcs 709 méterrel.", "Több mint 1500 növényfaj található a parkban.", "Az éves csapadékmennyiség körülbelül 700 mm.", "35 emlősfajt mutattak ki a parkban.", "Az átlagos nyári hőmérséklet 22 °C."],
       ro: ["Parcul natural a fost înființat în 1995 și acoperă 1.161 de kilometri pătrați.", "Cel mai înalt punct din parc este vârful Gradishte, cu 709 metri.", "Există peste 1.500 de specii de plante în parc.", "Precipitațiile medii anuale sunt de aproximativ 700 mm.", "35 de specii de mamifere au fost înregistrate în parc.", "Temperatura medie de vară este de 22 °C."],
       en: ["The nature park was established in 1995 and covers 1,161 square kilometers.", "The highest point in the park is Gradishte peak at 709 meters.", "There are over 1,500 plant species in the park.", "Average annual rainfall is about 700 mm.", "35 mammal species have been recorded in the park.", "Average summer temperature is 22 °C."],
-    }, image: "/poi-images/bulgaria-strandzha-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-devetashka-cave-nature-v2",
     type: "landmark",
@@ -93,7 +95,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["A barlang körülbelül 2000 méter hosszú.", "A legnagyobb terem 200 méter hosszú, 50 méter széles és 30 méter magas.", "A barlang mennyezetén egy 70 méter átmérőjű természetes nyílás található.", "15 denevérfajt mutattak ki a barlangban.", "A barlang hőmérséklete állandóan 14 °C.", "A páratartalom átlagosan 90%."],
       ro: ["Peștera are o lungime de aproximativ 2.000 de metri.", "Cea mai mare cameră are 200 de metri lungime, 50 de metri lățime și 30 de metri înălțime.", "Peștera are o deschidere naturală în tavan cu un diametru de 70 de metri.", "Au fost identificate 15 specii de lilieci în peșteră.", "Temperatura din peșteră este constantă de 14 °C.", "Umiditatea este în medie de 90%."],
       en: ["The cave is about 2,000 meters long.", "The largest chamber is 200 meters long, 50 meters wide, and 30 meters high.", "The cave has a natural ceiling opening with a diameter of 70 meters.", "15 bat species have been recorded in the cave.", "The cave temperature is constant at 14 °C.", "Humidity averages 90%."],
-    }, image: "/poi-images/bulgaria-devetashka-cave-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-osam-river-nature-v2",
     type: "river",
@@ -124,7 +127,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["Teljes hossza: 314 km", "Vízgyűjtő területe: 2824 km²", "A Fekete- és Fehér-Oszam egyesülése", "Fontos átszelt város: Lovecs"],
       ro: ["Lungime totală: 314 km", "Bazin hidrografic: 2.824 km²", "Format din Osămul Alb și cel Negru", "Oraș principal traversat: Loveci"],
       en: ["Total length: 314 km", "Drainage basin: 2,824 km²", "Formed by Beli and Cherni Osam", "Major city on banks: Lovech"],
-    }, image: "/poi-images/bulgaria-osam-river-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-yantra-river-nature-v2",
     type: "river",
@@ -155,7 +159,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["Hossza: 285 kilométer", "Vízgyűjtő medence: 7862 km²", "Forrás: Uzana (1340 m)", "Híres kanyarulatok Veliko Tarnovónál"],
       ro: ["Lungime: 285 kilometri", "Suprafață bazin: 7.862 km²", "Izvor: Uzana în Munții Balcani", "Meandre celebre în Veliko Tărnovo"],
       en: ["Length: 285 kilometers", "Basin area: 7,862 km²", "Source: Uzana (1,340 m altitude)", "Famous for Tarnovo's deep meanders"],
-    }, image: "/poi-images/bulgaria-yantra-river-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-batak-dam-nature-v2",
     type: "lake",
@@ -186,7 +191,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["1959-ben épült", "22 km²-es felszín", "1108 m tengerszint feletti magasság", "309 millió m³ térfogat", "Rodope-hegység", "Vízierőművek ellátója"],
       ro: ["Inaugurat în 1959", "Suprafață de 22 km²", "Altitudine de 1108 m", "Volum de 309 milioane m³", "Situat în Munții Rodopi", "Alimentează hidrocentrale"],
       en: ["Completed in 1959", "Covers 22 square kilometers", "Elevation of 1,108 meters", "309 million m³ capacity", "Located in the Rhodopes", "Powers local hydroelectric plants"],
-    }, image: "/poi-images/bulgaria-batak-dam-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-kamchia-river-nature-v2",
     type: "river",
@@ -217,7 +223,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["Hossza: 244,5 kilométer", "Torkolat: Fekete-tenger", "UNESCO bioszféra-rezervátum", "Sűrű Longoz-típusú ártéri erdők"],
       ro: ["Lungime: 244,5 kilometri", "Vărsare: Marea Neagră", "Rezervație UNESCO din 1977", "Păduri dense de tip Longoz"],
       en: ["Length: 244.5 kilometers", "Mouth: Black Sea", "UNESCO Biosphere Reserve", "Home to dense Longoz forests"],
-    }, image: "/poi-images/bulgaria-kamchia-river-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-iskar-gorge-nature-v2",
     type: "valley",
@@ -248,7 +255,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["156 km hosszú", "Keresztezi a Balkán-hegységet", "Mészkő sziklafalak", "Akár 500 m mély", "Szófia-Mezdra vasútvonal", "Triász kori kőzetek"],
       ro: ["Lungime de 156 km", "Traversează Balcanii", "Formațiuni din calcar", "Pereți de până la 500 m", "Rută feroviară importantă", "Roci din perioada triasică"],
       en: ["156 kilometers long", "Cuts across the Balkans", "Limestone rock formations", "Cliffs up to 500m high", "Key Sofia-Mezdra railway route", "Triassic geological layers"],
-    }, image: "/poi-images/bulgaria-iskar-gorge-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-vracha-karst-nature-v2",
     type: "mountain",
@@ -279,7 +287,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["1989-es alapítás", "288 km² terület", "Több mint 500 barlang", "400 méteres sziklafalak", "Balkán-hegység része", "Ledenika-barlang található itt"],
       ro: ["Înființată în anul 1989", "Suprafață de 288 km²", "Peste 500 de peșteri", "Pereți de stâncă de 400 m", "Situată în Munții Balcani", "Include peștera Ledenika"],
       en: ["Established in 1989", "Covers 288 square kilometers", "Contains over 500 caves", "400-meter vertical cliffs", "Part of the Balkan Mountains", "Home to Ledenika cave"],
-    }, image: "/poi-images/bulgaria-vracha-karst-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-rosen-mountain-nature-v2",
     type: "mountain",
@@ -310,7 +319,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["Akár 400 m-es magasság", "Burgasz város közelében", "Meden Rid gerinc része", "Történelmi rézbányászat", "Vulkanikus eredetű kőzetek", "Sűrűn erdősült táj"],
       ro: ["Altitudini de până la 400 m", "Situat lângă Burgas", "Parte a crestei Meden Rid", "Extracție istorică de cupru", "Origine vulcanică", "Zonă puternic împădurită"],
       en: ["Elevations reaching 400 m", "Located near Burgas", "Part of the Meden Rid ridge", "Historic copper mining area", "Volcanic rock origins", "Dense forest coverage"],
-    }, image: "/poi-images/bulgaria-rosen-mountain-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-tundzha-river-nature-v2",
     type: "river",
@@ -341,7 +351,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["390 km teljes hossz", "2083 m magas forrásvidék", "Balkán-hegységi eredet", "Bulgária és Törökország", "A Marica folyóba torkollik", "8429 km² vízgyűjtő terület"],
       ro: ["Lungime totală de 390 km", "Izvor la 2083 m altitudine", "Originar din Munții Balcani", "Curge prin Bulgaria și Turcia", "Afluent al râului Marița", "Bazin hidrografic de 8429 km²"],
       en: ["390 kilometers in length", "Source at 2,083m elevation", "Originates in Balkan Mountains", "Flows through Bulgaria and Turkey", "Tributary of Maritsa River", "8,429 km² drainage basin"],
-    }, image: "/poi-images/bulgaria-tundzha-river-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-mesta-river-nature-v2",
     type: "river",
@@ -372,7 +383,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["Teljes hossza: 273 km", "Bulgáriai szakasz: 126 km", "Görög neve: Nesztosz", "Torkolat: Égei-tenger"],
       ro: ["Lungime totală: 273 km", "Sector bulgăresc: 126 km", "Denumire grecească: Nestos", "Vărsare: Marea Egee"],
       en: ["Total length: 273 km", "Length in Bulgaria: 126 km", "Known as Nestos in Greece", "Mouth: Aegean Sea"],
-    }, image: "/poi-images/bulgaria-mesta-river-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-armin-river-nature-v2",
     type: "river",
@@ -403,7 +415,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["Bulgáriai hossza: 241 km", "Kardzsali-gát: 103 m magas", "Középkori Ördög-híd (16. sz.)", "Forrás: Arda-csúcs (Rodopé)"],
       ro: ["Lungime în Bulgaria: 241 km", "Barajul Kărdjali: 103 m înălțime", "Podul Diavolului (sec. XVI)", "Izvor: Vârful Arda (Rodopi)"],
       en: ["Length in Bulgaria: 241 km", "Kardzhali Dam: 103m high", "Medieval Devil's Bridge (16th c.)", "Source: Arda Peak (Rhodopes)"],
-    }, image: "/poi-images/bulgaria-armin-river-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-vitosha-peak-nature-v2",
     type: "peak",
@@ -434,7 +447,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["A Cherni Vrah 2290 méter magas.", "A meteorológiai állomást 1935-ben építették.", "A Vitosha Természeti Parkot 1934-ben alapították, ez a legrégebbi Bulgáriában.", "Az átlagos hőmérséklet a csúcson januárban -1 °C, júliusban 10 °C.", "Az éves csapadékmennyiség a csúcson körülbelül 1000 mm.", "A csúcshoz vezető jelzett túraútvonalak teljes hossza meghaladja a 20 kilométert."],
       ro: ["Cherni Vrah are o altitudine de 2.290 de metri.", "Stația meteorologică a fost construită în 1935.", "Parcul Natural Vitosha a fost înființat în 1934, fiind cel mai vechi din Bulgaria.", "Temperatura medie pe vârf este de -1 °C în ianuarie și 10 °C în iulie.", "Precipitațiile medii anuale pe vârf sunt de aproximativ 1.000 mm.", "Traseele marcate către vârf au o lungime totală de peste 20 de kilometri."],
       en: ["Cherni Vrah is 2,290 meters high.", "The meteorological station was built in 1935.", "Vitosha Nature Park was established in 1934, the oldest in Bulgaria.", "Average temperature on the summit is -1 °C in January and 10 °C in July.", "Annual precipitation on the summit is about 1,000 mm.", "Marked hiking trails to the summit total over 20 kilometers in length."],
-    }, image: "/poi-images/bulgaria-vitosha-peak-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-pirin-peaks-nature-v2",
     type: "mountain",
@@ -497,7 +511,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["Teljes hossza: 480 km", "Vízgyűjtő: 53 000 km²", "A Balkán-belső leghosszabb folyója", "Forrás: Rila-hegység (Marica-tavak)"],
       ro: ["Lungime totală: 480 km", "Bazin hidrografic: 53.000 km²", "Cel mai lung râu interior balcanic", "Izvor: Munții Rila (Lacurile Marița)"],
       en: ["Total length: 480 km", "Drainage basin: 53,000 km²", "Longest river in Balkan interior", "Source: Rila (Maritsa Lakes)"],
-    }, image: "/poi-images/bulgaria-maritsa-river-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-struma-river-nature-v2",
     type: "river",
@@ -528,7 +543,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["415 km-es hosszúság", "A Vitosa hegységben ered", "2180 m tengerszint feletti forrás", "Az Égei-tengerbe ömlik", "17330 km²-es vízgyűjtő", "Kreszna-szurdok kialakítója"],
       ro: ["Lungime de 415 kilometri", "Izvorăște din Munții Vitoșa", "Altitudinea sursei: 2180 m", "Se varsă în Marea Egee", "Bazin de 17330 km²", "Formează Defileul Kresna"],
       en: ["415 kilometers long", "Source in Vitosha Mountains", "2,180 meters starting elevation", "Empties into the Aegean Sea", "17,330 km² drainage basin", "Forms the Kresna Gorge"],
-    }, image: "/poi-images/bulgaria-struma-river-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-krushuna-waterfalls-nature-v2",
     type: "landmark",
@@ -559,7 +575,8 @@ export const bulgariaNatureV2: POI[] = [
       hu: ["A legmagasabb kaszkád 15 méter magas.", "A víz hőmérséklete egész évben körülbelül 8-10 °C.", "A vízesések összesen 8 lépcsőből állnak.", "Az éves látogatószám meghaladja a 100 000 főt.", "A környező erdők több mint 200 növényfajnak adnak otthont.", "A közeli barlangok hőmérséklete állandó 12 °C."],
       ro: ["Cea mai înaltă cascadă are 15 metri înălțime.", "Temperatura apei este constantă pe tot parcursul anului, în jur de 8-10 °C.", "Cascadele sunt formate din 8 trepte în total.", "Numărul anual de vizitatori depășește 100.000.", "Pădurile din jur adăpostesc peste 200 de specii de plante.", "Peșterile din apropiere au o temperatură constantă de 12 °C."],
       en: ["The highest cascade is 15 meters tall.", "Water temperature is around 8-10 °C year-round.", "The waterfalls consist of 8 steps in total.", "Annual visitor numbers exceed 100,000.", "The surrounding forests host over 200 plant species.", "Nearby caves have a constant temperature of 12 °C."],
-    }, image: "/poi-images/bulgaria-krushuna-waterfalls-nature-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-devin-springs-nature-v2",
     type: "landmark",

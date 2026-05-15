@@ -785,25 +785,5 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
       en: ["The project was founded in 1997.", "It houses about 20 cheetahs.", "Tours last approximately 1 hour.", "The cheetah can reach speeds up to 110 km/h.", "The population in South Africa is under 1,000 animals.", "Cheetah Outreach works with 50 local farms."],
     },
   }
-,
-  {
-    id: "southafrica-hluhluwe-imfolozi-life-v2",
-    type: "wildlife",
-    name: { de: "Hluhluwe-iMfolozi-Park", hu: "Hluhluwe–iMfolozi Park", ro: "Parcul Hluhluwe–iMfolozi", en: "Hluhluwe–iMfolozi Park" },
-    coords: [31.952, -28.219],
-    description: {
-      de: "Dies ist Afrikas ältestes Naturschutzgebiet, das 1895 gegründet wurde. Es ist weltberühmt für die Rettung der Breitmaulnashörner.",
-      hu: "Ez Afrika legrégebbi természetvédelmi területe, amelyet 1895-ben alapítottak. Világhírű a szélesszájú orrszarvúk megmentéséről.",
-      ro: "Aceasta este cea mai veche rezervație naturală din Africa, fondată în 1895. Este faimoasă pentru salvarea rinocerului alb.",
-      en: "This is Africa's oldest proclaimed nature reserve, established in 1895. It is internationally famous for saving the white rhino.",
-    },
-    facts: {
-      de: ["Gegründet 1895 als königliches Jagdgebiet.", "Umfasst 96.000 Hektar hügeliges Gelände.", "Beherbergt die größte Breitmaulnashorn-Population.", "Rettete Nashörner in den 1950ern vor dem Aussterben."],
-      hu: ["1895-ben alapították királyi vadászterületként.", "96 000 hektárnyi dombos területet foglal el.", "Itt él a világ legnagyobb fehér orrszarvú populációja.", "Az 1950-es években mentette meg a fajt a kihalástól."],
-      ro: ["Înființat în 1895 ca teren de vânătoare regal.", "Acoperă 96.000 de hectare de relief deluros.", "Adăpostește cea mai mare populație de rinoceri albi.", "A salvat rinocerul alb de la extincție în anii 1950."],
-      en: ["Established in 1895 as a royal hunting ground.", "Encompasses 96,000 hectares of hilly wilderness.", "Home to the world's largest white rhino population.", "Saved the white rhino from extinction in the 1950s."],
-    },
-    imageHint: "White rhino standing in the grassy hills of Hluhluwe–iMfolozi Park",
-  }
 ];
 

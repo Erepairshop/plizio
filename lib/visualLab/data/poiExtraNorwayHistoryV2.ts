@@ -31,7 +31,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["1180 körül épült", "Magasság: 15 m", "Hosszúság: 30 m", "Felhasznált fa: kb. 1000 m³ fenyő", "Évi látogatók: kb. 120 000", "1944 óta műemlék"],
       ro: ["Construită în jurul anului 1180", "Înălțime: 15 m", "Lungime: 30 m", "Lemn folosit: circa 1000 m³ de pin", "Vizitatori anual: aprox. 120.000", "Protejată din 1944"],
       en: ["Built around 1180", "Height: 15 m", "Length: 30 m", "Wood used: ca. 1000 m³ of pine", "Annual visitors: ca. 120,000", "Listed as protected since 1944"],
-    }, image: "/poi-images/norway-borgund-stave-church-history-v2.webp"},
+    },
+  },
   {
     id: "norway-festningen-oslo-fortress-history-v2",
     type: "castle",
@@ -62,7 +63,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Építés kezdete: 1299 körül", "Terület: 0,12 km²", "Legmagasabb torony: 25 m", "Falvastagság: akár 4 m", "Múzeumlátogatók: évi 200 000", "1897 óta nyilvános"],
       ro: ["Construcție începută în jurul anului 1299", "Suprafață: 0,12 km²", "Turnul cel mai înalt: 25 m", "Grosimea zidurilor: până la 4 m", "Vizitatori muzeu: circa 200.000 anual", "Deschis publicului din 1897"],
       en: ["Construction started circa 1299", "Area: 0.12 km²", "Tallest tower: 25 m", "Wall thickness: up to 4 m", "Museum visitors: ca. 200,000 annually", "Opened to public in 1897"],
-    }, image: "/poi-images/norway-festningen-oslo-fortress-history-v2.webp"},
+    },
+  },
   {
     id: "norway-nidaros-pilgrimage-path-history-v2",
     type: "landmark",
@@ -125,7 +127,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Virágkor: 1820-1850", "15 épületből áll", "Terület: 0,05 km²", "Éves látogatók: kb. 20 000", "Erasmus Zahl 1877-ben hunyt el", "Múzeumi besorolás: 1931 óta"],
       ro: ["Perioada de glorie: 1820-1850", "Cuprinde 15 clădiri", "Suprafața: 0,05 km²", "Vizitatori anual: circa 20.000", "Erasmus Zahl a murit în 1877", "Muzeu din 1931"],
       en: ["Peak period 1820-1850", "Consists of 15 buildings", "Area: 0.05 km²", "Annual visitors: ca. 20,000", "Erasmus Zahl died in 1877", "Museum status since 1931"],
-    }, image: "/poi-images/norway-kjerringoy-trading-post-history-v2.webp"},
+    },
+  },
   {
     id: "norway-eidsvoll-manor-history-v2",
     type: "museum",
@@ -156,7 +159,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Épült: 1765", "A birtok területe: 0,04 km²", "112 küldött ülésezett 1814-ben", "Alkotmány aláírása: 1814. május 17.", "Éves látogatók: kb. 50 000", "Múzeum 1964 óta"],
       ro: ["Construit în 1765", "Suprafața domeniului: 0,04 km²", "112 delegați s-au întrunit în 1814", "Constituția semnată la 17 mai 1814", "Vizitatori anual: circa 50.000", "Muzeu din 1964"],
       en: ["Built in 1765", "Estate area: 0.04 km²", "112 delegates gathered in 1814", "Constitution signed on 17 May 1814", "Annual visitors: ca. 50,000", "Museum since 1964"],
-    }, image: "/poi-images/norway-eidsvoll-manor-history-v2.webp"},
+    },
+  },
   {
     id: "norway-henningsvaer-fishing-village-history-v2",
     type: "village",
@@ -187,7 +191,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Lakosság a 15. század óta", "Lakosság: kb. 500", "Szigetek száma: 5", "Szárított hal termelés: évi kb. 1000 tonna", "Hidak száma: 7", "Henningsvær stadion (futballpálya) 2005-ben épült"],
       ro: ["Așezare din secolul al XV-lea", "Populație: circa 500", "Număr de insule: 5", "Producție pește uscat: circa 1.000 tone anual", "Poduri: 7", "Stadionul Henningsvær (teren de fotbal) construit în 2005"],
       en: ["Settlement since 15th century", "Population: ca. 500", "Number of islands: 5", "Dried fish production: ca. 1,000 tonnes annually", "Bridges: 7", "Henningsvær football field built in 2005"],
-    }, image: "/poi-images/norway-henningsvaer-fishing-village-history-v2.webp"},
+    },
+  },
   {
     id: "norway-trollkyrkja-cave-history-v2",
     type: "ruins",
@@ -218,7 +223,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Barlangrendszer felfedezése: 1926", "Teljes hossz: kb. 200 m", "Főkamra magassága: 20 m", "Barlang hőmérséklete: 4-6 °C", "Vízesés magassága: 15 m", "Éves látogatók: kb. 5 000"],
       ro: ["Sistemul de peșteri descoperit în 1926", "Lungime totală: circa 200 m", "Înălțimea camerei principale: 20 m", "Temperatura în peșteră: 4-6 °C", "Înălțimea cascadei: 15 m", "Vizitatori anual: circa 5.000"],
       en: ["Cave system discovered in 1926", "Total length: ca. 200 m", "Height of main chamber: 20 m", "Cave temperature: 4-6 °C", "Waterfall height: 15 m", "Annual visitors: ca. 5,000"],
-    }, image: "/poi-images/norway-trollkyrkja-cave-history-v2.webp"},
+    },
+  },
   {
     id: "norway-oslo-cathedral-history-v2",
     type: "cathedral",
@@ -249,7 +255,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Felszentelve: 1697", "Hossz: 60 m", "Szélesség: 28 m", "Torony magassága: 42 m", "Orgona: 1990, Ryde & Berg", "Ülőhelyek: 1 200"],
       ro: ["Sfințită în 1697", "Lungime: 60 m", "Lățime: 28 m", "Înălțimea turnului: 42 m", "Orga: 1990, Ryde & Berg", "Locuri: 1.200"],
       en: ["Consecrated in 1697", "Length: 60 m", "Width: 28 m", "Tower height: 42 m", "Organ: 1990 by Ryde & Berg", "Seating capacity: 1,200"],
-    }, image: "/poi-images/norway-oslo-cathedral-history-v2.webp"},
+    },
+  },
   {
     id: "norway-skudenes-old-town-history-v2",
     type: "town",
@@ -312,7 +319,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Épült: 1942-1943", "Ágyúk hatótávolsága: 15 km", "Bunkerek száma: 8", "Legénység: kb. 200 katona", "Múzeum megnyitása: 1995", "Tengerszint feletti magasság: 80 m"],
       ro: ["Construit în 1942-1943", "Raza de acțiune a tunurilor: 15 km", "Număr de buncăre: 8", "Garnizoana: circa 200 soldați", "Deschidere muzeu: 1995", "Altitudine: 80 m deasupra mării"],
       en: ["Built 1942-1943", "Gun range: 15 km", "Number of bunkers: 8", "Garrison: ca. 200 soldiers", "Museum opened: 1995", "Altitude: 80 m above sea level"],
-    }, image: "/poi-images/norway-ulfstind-fortification-history-v2.webp"},
+    },
+  },
   {
     id: "norway-stave-church-heddal-history-v2",
     type: "church",
@@ -343,7 +351,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["1200 körül épült", "Magasság: 29 m", "Hossz: 24 m", "Szélesség: 16 m", "Ülőhelyek: 300", "Harangtorony magassága: 26 m"],
       ro: ["Construită în jurul anului 1200", "Înălțime: 29 m", "Lungime: 24 m", "Lățime: 16 m", "Locuri: 300", "Înălțimea turnului clopotniță: 26 m"],
       en: ["Built around 1200", "Height: 29 m", "Length: 24 m", "Width: 16 m", "Seating capacity: 300", "Bell tower height: 26 m"],
-    }, image: "/poi-images/norway-stave-church-heddal-history-v2.webp"},
+    },
+  },
   {
     id: "norway-trondheim-archbishop-palace-history-v2",
     type: "palace",
@@ -374,7 +383,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Építés ideje: 12. század (1152 körül)", "Falvastagság: akár 2,5 m", "Alapterület: 0,02 km²", "Restaurálás: 1966-1969", "Kiállítási tárgyak: 300 felett", "Éves látogatók: kb. 80 000"],
       ro: ["Construcție: secolul al XII-lea (cca. 1152)", "Grosime ziduri: până la 2,5 m", "Suprafață: 0,02 km²", "Restaurat 1966-1969", "Obiecte expuse: peste 300", "Vizitatori anual: circa 80.000"],
       en: ["Construction: 12th century (ca. 1152)", "Wall thickness: up to 2.5 m", "Ground area: 0.02 km²", "Restored 1966-1969", "Exhibits: over 300", "Annual visitors: ca. 80,000"],
-    }, image: "/poi-images/norway-trondheim-archbishop-palace-history-v2.webp"},
+    },
+  },
   {
     id: "norway-gamle-stavanger-history-v2",
     type: "town",
@@ -437,7 +447,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Épült: 1876", "Magasság: 22 m", "Anyaga: öntöttvas", "Automatizálás: 1998", "Éves látogatók: kb. 10 000", "Fényszóró hatótávolsága: 22 tengeri mérföld"],
       ro: ["Construit în 1876", "Înălțime: 22 m", "Construcție din fontă", "Automatizat în 1998", "Vizitatori anual: circa 10.000", "Raza farului: 22 mile marine"],
       en: ["Built in 1876", "Height: 22 m", "Material: cast iron", "Automated in 1998", "Annual visitors: ca. 10,000", "Lighthouse range: 22 nautical miles"],
-    }, image: "/poi-images/norway-alnes-lighthouse-history-v2.webp"},
+    },
+  },
   {
     id: "norway-hjemmeluft-rock-carvings-history-v2",
     type: "landmark",
@@ -468,7 +479,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Ábrák száma: 6 000 felett", "Legrégebbi metszet: kb. i.e. 4200", "UNESCO világörökség 1985 óta", "Védett terület: 0,5 km²", "Legmagasabb ábra: 1,2 m", "Kőzet: homokkő"],
       ro: ["Număr de figuri: peste 6.000", "Cea mai veche gravură: cca. 4200 î.Hr.", "Patrimoniu UNESCO din 1985", "Suprafața protejată: 0,5 km²", "Cea mai înaltă figură: 1,2 m", "Tip rocă: gresie"],
       en: ["Number of figures: over 6,000", "Oldest carving: ca. 4200 BC", "UNESCO World Heritage since 1985", "Protected area: 0.5 km²", "Tallest figure: 1.2 m", "Rock type: sandstone"],
-    }, image: "/poi-images/norway-hjemmeluft-rock-carvings-history-v2.webp"},
+    },
+  },
   {
     id: "norway-reine-church-history-v2",
     type: "church",
@@ -499,7 +511,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Épült: 1896", "Anyaga: fa", "Ülőhelyek: 300", "Torony magassága: 25 m", "Felújítva: 1958", "Tengerszint feletti magasság: 8 m"],
       ro: ["Construită în 1896", "Material: lemn", "Locuri: 300", "Înălțimea turnului: 25 m", "Renovată în 1958", "Altitudine: 8 m deasupra mării"],
       en: ["Built in 1896", "Material: wood", "Seating capacity: 300", "Spire height: 25 m", "Renovated in 1958", "Altitude: 8 m above sea level"],
-    }, image: "/poi-images/norway-reine-church-history-v2.webp"},
+    },
+  },
   {
     id: "norway-kvinesdal-church-history-v2",
     type: "church",
@@ -562,7 +575,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Felszentelve: 1957", "Építész: Arnstein Arneberg", "Harangtorony magassága: 50 m", "Ülőhelyek: 620", "Orgona: 1967, 40 regiszter", "Hajó hossza: 60 m"],
       ro: ["Sfințită în 1957", "Arhitect: Arnstein Arneberg", "Înălțimea turnului clopotniță: 50 m", "Locuri: 620", "Orga: 1967, 40 de registre", "Lungimea navei: 60 m"],
       en: ["Consecrated in 1957", "Architect: Arnstein Arneberg", "Bell tower height: 50 m", "Seating capacity: 620", "Organ: 1967, 40 ranks", "Nave length: 60 m"],
-    }, image: "/poi-images/norway-molde-cathedral-history-v2.webp"},
+    },
+  },
   {
     id: "norway-gamle-tromso-history-v2",
     type: "town",
@@ -657,7 +671,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["A tűzvész 1904-ben 850 épületet semmisített meg.", "Az újjáépítés mindössze három évig tartott (1905–1907).", "Körülbelül 50 építész vett részt a munkálatokban.", "A homlokzatokon több mint 100 különböző ornamentika található.", "Ålesund négy szigeten helyezkedik el.", "A negyed körülbelül 500 szecessziós épületből áll."],
       ro: ["Incendiul din 1904 a distrus 850 de clădiri.", "Reconstrucția a durat doar trei ani (1905–1907).", "Aproximativ 50 de arhitecți au participat la proiect.", "Fațadele prezintă peste 100 de ornamente distincte.", "Orașul Ålesund se întinde pe patru insule.", "Cartierul Art Nouveau cuprinde circa 500 de clădiri."],
       en: ["The 1904 fire destroyed 850 buildings.", "Reconstruction took only three years, from 1905 to 1907.", "About 50 different architects contributed to the designs.", "The facades feature over 100 unique decorative motifs.", "Ålesund is spread across four islands: Aspøya, Nørvøya, Heissa, and Oksnøya.", "The district contains approximately 500 Art Nouveau buildings."],
-    }, image: "/poi-images/norway-alesund-art-nouveau-history-v2.webp"},
+    },
+  },
   {
     id: "norway-bodo-cathedral-history-v2",
     type: "cathedral",
@@ -688,7 +703,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Felszentelve: 1956.", "Építészek: Gudolf Blakstad és Herman Munthe-Kaas.", "Befogadóképesség: kb. 900 fő.", "Orgonaregiszterek száma: 40.", "Elődje (1888) 1940. május 27-én semmisült meg.", "Anyaga: beton és tégla."],
       ro: ["Sfințită în 1956.", "Arhitecți: Gudolf Blakstad și Herman Munthe-Kaas.", "Capacitate: aproximativ 900 de locuri.", "Orga are 40 de registre.", "Biserica anterioară (1888) a fost distrusă la 27 mai 1940.", "Materiale: beton și cărămidă."],
       en: ["Consecrated in 1956.", "Architects: Gudolf Blakstad and Herman Munthe-Kaas.", "Seating capacity: approx. 900.", "Organ with 40 ranks.", "Predecessor church (1888) destroyed 27 May 1940.", "Construction materials: concrete and brick."],
-    }, image: "/poi-images/norway-bodo-cathedral-history-v2.webp"},
+    },
+  },
   {
     id: "norway-drammen-museum-history-v2",
     type: "museum",
@@ -719,7 +735,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["A múzeumot 1909-ben alapították.", "A területen 25 történelmi épület található 12 hektáron.", "A gyűjtemény 50 000 tárgyat ölel fel.", "A legrégebbi malom 1760-ból származik.", "A Tangen Gård 1790-ben épült.", "2019-ben a látogatók száma 38 000 volt."],
       ro: ["Muzeul a fost fondat în 1909.", "Include 25 de clădiri istorice pe 12 hectare.", "Colecția numără 50.000 de obiecte.", "Cea mai veche moară datează din 1760.", "Tangen Gård a fost construit în 1790.", "În 2019, muzeul a avut 38.000 de vizitatori."],
       en: ["Founded in 1909.", "The museum site covers 12 hectares with 25 historic buildings.", "Collection includes 50,000 artifacts.", "The oldest mill dates from 1760.", "Tangen Gård manor was built in 1790.", "Annual visitor count: ca. 38,000 (2019)."],
-    }, image: "/poi-images/norway-drammen-museum-history-v2.webp"},
+    },
+  },
   {
     id: "norway-tonsberg-fortress-history-v2",
     type: "castle",
@@ -782,7 +799,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Megnyitva: 1964.", "Kiállítási terület: kb. 1500 m².", "Helyszín: egykori narviki vasútállomás.", "Könyvtár 5000 kötettel.", "Narviki csata: 1940. április 9. – június 8.", "Polgári áldozatok száma Narvikban: 106."],
       ro: ["Deschis: 1964.", "Suprafață expozițională: aproximativ 1.500 m².", "Locație: fosta gară din Narvik.", "Bibliotecă cu peste 5.000 de volume.", "Bătălia de la Narvik: 9 aprilie – 8 iunie 1940.", "Numărul victimelor civile la Narvik: 106."],
       en: ["Opened: 1964.", "Exhibition area: approx. 1,500 m².", "Location: former Narvik railway station.", "Library with over 5,000 books.", "Battle of Narvik: 9 April – 8 June 1940.", "Civilian casualties in Narvik: 106."],
-    }, image: "/poi-images/norway-narvik-war-museum-history-v2.webp"},
+    },
+  },
   {
     id: "norway-alta-museum-history-v2",
     type: "museum",
@@ -813,7 +831,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Megnyitva: 1984.", "Éves látogatószám: kb. 100.000.", "UNESCO világörökség 1985 óta.", "Kiállított sziklarajzok száma: több mint 6.000.", "Múzeum területe: 1,2 km².", "Tengerszint feletti magasság: 50 m."],
       ro: ["Deschis: 1984.", "Vizitatori anual: aproximativ 100.000.", "Patrimoniu UNESCO din 1985.", "Număr de petroglife expuse: peste 6.000.", "Suprafața muzeului: 1,2 km².", "Altitudine: 50 m deasupra nivelului mării."],
       en: ["Opened: 1984.", "Annual visitors: approx. 100,000.", "UNESCO World Heritage status since 1985.", "Rock carvings on display: over 6,000.", "Museum area: 1.2 km².", "Elevation: 50 m above sea level."],
-    }, image: "/poi-images/norway-alta-museum-history-v2.webp"},
+    },
+  },
   {
     id: "norway-hammerfest-meridian-history-v2",
     type: "monument",
@@ -844,7 +863,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["UNESCO világörökség 2005 óta.", "Pont magassága: 65 m tengerszint felett.", "Mérési időszak: 1816-1855.", "Kőoszlopot 1850-ben állítottak.", "Összes pont az ívben: 265.", "Norvégiában 4 pont található."],
       ro: ["Patrimoniu UNESCO din 2005.", "Altitudinea punctului: 65 m deasupra nivelului mării.", "Perioada măsurătorilor: 1816–1855.", "Stâlp de piatră ridicat în 1850.", "Numărul total de puncte din arc: 265.", "Norvegia are 4 puncte."],
       en: ["UNESCO World Heritage since 2005.", "Elevation of point: 65 m above sea level.", "Survey period: 1816–1855.", "Stone pillar erected in 1850.", "Total points in the arc: 265.", "Norway hosts 4 of the 265 points."],
-    }, image: "/poi-images/norway-hammerfest-meridian-history-v2.webp"},
+    },
+  },
   {
     id: "norway-kristiansand-old-town-history-v2",
     type: "town",
@@ -939,7 +959,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["A múzeumot 1904-ben alapították.", "200 történelmi épületet foglal magában.", "A fatemplom 1250 körül épült.", "A terület 14 hektáros.", "A gyűjtemény 50 000 tárgyból áll.", "Évente 150 000 látogató keresi fel."],
       ro: ["Muzeul a fost fondat în 1904.", "Include 200 de clădiri istorice.", "Biserica de lemn datează din jurul anului 1250.", "Terenul muzeului are 14 ha.", "Colecția cuprinde 50.000 de obiecte.", "Numărul anual de vizitatori: 150.000."],
       en: ["Founded in 1904.", "200 historic buildings on site.", "The stave church dates from around 1250.", "Site area: 14 hectares.", "Collection holds 50,000 artifacts.", "Annual visitors: 150,000."],
-    }, image: "/poi-images/norway-lillehammer-museum-history-v2.webp"},
+    },
+  },
   {
     id: "norway-larvik-museum-history-v2",
     type: "museum",
@@ -970,7 +991,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Múzeum alapítva: 1916.", "Herrengård kúria épült 1764-ben.", "Larvik Glasværk működött 1855-1938.", "Thor Heyerdahl született 1914. október 6-án.", "Bálnavadász flotta Larvikban: akár 30 hajó (1920-as évek).", "Botanikus kert 500 növényfajjal."],
       ro: ["Muzeul fondat în 1916.", "Conacul Herrengård construit în 1764.", "Larvik Glasværk activ între 1855-1938.", "Thor Heyerdahl născut la 6 octombrie 1914.", "Flota de vânătoare de balene: până la 30 de nave (anii 1920).", "Grădină botanică cu 500 de specii de plante."],
       en: ["Museum founded in 1916.", "Herrengård manor built in 1764.", "Larvik Glassworks operated 1855–1938.", "Thor Heyerdahl born 6 October 1914.", "Whaling fleet in Larvik: up to 30 ships (1920s).", "Botanical garden with 500 plant species."],
-    }, image: "/poi-images/norway-larvik-museum-history-v2.webp"},
+    },
+  },
   {
     id: "norway-flekkefjord-old-town-history-v2",
     type: "town",
@@ -1033,7 +1055,8 @@ export const norwayHistoryV2: POI[] = [
       hu: ["Félszigeten fekszik a kikötőben.", "Nagy tűzvész: 1868. augusztus 12.", "Legrégebbi ház: 17. századi.", "Védett épületek száma: több mint 100.", "Cölöpök magassága: akár 2 méter a víz felett.", "Területe: kb. 0,3 km²."],
       ro: ["Situat pe o peninsulă în port.", "Incendiu mare: 12 august 1868.", "Cea mai veche casă: din secolul al XVII-lea.", "Număr de clădiri protejate: peste 100.", "Înălțimea pilonilor: până la 2 m deasupra apei.", "Suprafața Tyholmen: circa 0,3 km²."],
       en: ["Located on a peninsula in the harbour.", "Great fire on 12 August 1868.", "Oldest house: from the 17th century.", "Number of protected buildings: over 100.", "Piling height: up to 2 m above water.", "Area of Tyholmen: approx. 0.3 km²."],
-    }, image: "/poi-images/norway-arendal-tyholmen-history-v2.webp"},
+    },
+  },
   {
     id: "norway-horten-naval-history-v2",
     type: "museum",

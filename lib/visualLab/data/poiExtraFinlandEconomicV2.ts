@@ -31,7 +31,8 @@ export const finlandEconomicV2: POI[] = [
       hu: ["Több mint 50 000 m² raktárfelület", "Stratégiai elhelyezkedés az 51-es út mentén", "200 kamionos dokkolóhely kapacitás", "24 órás üzemmód a fővárosi régióért"],
       ro: ["Peste 50.000 m² de spații de depozitare", "Locație strategică pe autostrada 51", "Capacitate de 200 de puncte de andocare", "Operare 24/7 pentru regiunea capitalei"],
       en: ["Over 50,000 m² of warehouse space", "Strategic location on Highway 51", "Capacity for 200 truck docking bays", "24/7 operation serving the capital region"],
-    }, image: "/poi-images/finland-kirkkonummi-logistics-v2.webp"},
+    },
+  },
   {
     id: "finland-kemi-bioproduct-plant-v2",
     type: "factory",
@@ -62,7 +63,8 @@ export const finlandEconomicV2: POI[] = [
       hu: ["2,02 milliárd eurós beruházás", "1,5 millió tonna éves kapacitás", "Saját megújuló energiát használ", "Kemi kikötőjén keresztül exportál", "800 közvetlen munkahelyet teremt", "Tallolajat és tärpentint is gyárt"],
       ro: ["Investiție totală de 2,02 mld. EUR", "Producție: 1,5 mil. tone celuloză", "Funcționează fără combustibili fosili", "Generează 2,5% din curentul național", "Portul Kemi asigură logistica", "Inaugurată oficial în septembrie 2023"],
       en: ["Investment cost: 2.02 billion EUR", "Pulp capacity: 1.5 million tonnes", "Carbon-neutral production process", "Generates 2.0 TWh surplus energy", "Uses 7.6 million m3 of wood yearly", "Produces tall oil and turpentine"],
-    }, image: "/poi-images/finland-kemi-bioproduct-plant-v2.webp"},
+    },
+  },
   {
     id: "finland-hanko-port-logistics-v2",
     type: "port",
@@ -93,7 +95,8 @@ export const finlandEconomicV2: POI[] = [
       hu: ["Legdélebbi finn kikötőváros", "Jégmentes kikötő télen is", "Fő profil a Ro-Ro szállítmányozás", "Évente több százezer autó érkezik", "Közvetlen vasúti kapcsolat Helsinki felé", "Területe meghaladja a 100 hektárt"],
       ro: ["Cel mai sudic port finlandez", "Navigație fără gheață 365 de zile", "Specializat în trafic de tip Ro-Ro", "Terminal major de import auto", "Trafic anual: 5 milioane de tone", "Conexiune directă cu portul Rostock"],
       en: ["Southernmost port in Finland", "Ice-free conditions all winter", "Primary hub for automotive imports", "Focus on Ro-Ro and container traffic", "Over 100 hectares of storage area", "Daily ferry links to Central Europe"],
-    }, image: "/poi-images/finland-hanko-port-logistics-v2.webp"},
+    },
+  },
   {
     id: "finland-sipoo-data-center-v2",
     type: "industry",
@@ -124,7 +127,8 @@ export const finlandEconomicV2: POI[] = [
       hu: ["1,1 alatti PUE-érték (energiahatékonyság)", "Közvetlen üvegszálas kapcsolat Észtországba", "100%-ban megújuló energiával működik", "Csatlakozás Sipoo távhőhálózatához"],
       ro: ["Valoare PUE sub 1,1 atinsă", "Conexiune directă prin fibră spre Estonia", "Funcționare 100% cu energie regenerabilă", "Conexiune la rețeaua termică din Sipoo"],
       en: ["PUE value below 1.1 achieved", "Direct fiber optic link to Estonia", "Operates on 100% renewable energy", "Integrated with Sipoo's heating grid"],
-    }, image: "/poi-images/finland-sipoo-data-center-v2.webp"},
+    },
+  },
   {
     id: "finland-seinajoki-food-hub-v2",
     type: "industry",
@@ -155,7 +159,8 @@ export const finlandEconomicV2: POI[] = [
       hu: ["Az Atria, Finnország legnagyobb cége itt székel", "Több mint 2000 dolgozó az ágazatban", "Évi több millió kilogrammnyi termelés", "A finn agrárkutatás központi helyszíne"],
       ro: ["Sediul Atria, cea mai mare companie locală", "Peste 2.000 de angajați în sector", "Milioane de kilograme produse anual", "Centru de cercetare agricolă finlandeză"],
       en: ["Headquarters of Atria, a major Nordic firm", "Over 2,000 employees in the food sector", "Millions of kilograms of output annually", "Core center for Finnish agro-research"],
-    }, image: "/poi-images/finland-seinajoki-food-hub-v2.webp"},
+    },
+  },
   {
     id: "finland-pyhajoki-energy-zone-v2",
     type: "industry",
@@ -186,7 +191,8 @@ export const finlandEconomicV2: POI[] = [
       hu: ["Hanhikivi-félszigeten található", "Jelentős tengeri szélparkok", "Évi több gigawattóra termelés", "Kiemelt ipari fejlesztési övezet", "Botteni-öböl keleti partján fekszik", "Erős villamosenergia-hálózati pont"],
       ro: ["Situat în peninsula Hanhikivi", "Capacitate eoliană de top în Nord", "Punct nodal în rețeaua națională", "Acces maritim strategic la port", "Focus pe energie regenerabilă", "Investiții în rețele de înaltă tensiune"],
       en: ["Located on Hanhikivi peninsula", "Major wind energy production site", "Key link in the Nordic power grid", "Baltic Sea coastal infrastructure", "Transitioning to green hydrogen R&D", "Site of large-scale civil engineering"],
-    }, image: "/poi-images/finland-pyhajoki-energy-zone-v2.webp"},
+    },
+  },
   {
     id: "finland-harjavalta-metal-works-v2",
     type: "industry",
@@ -217,7 +223,8 @@ export const finlandEconomicV2: POI[] = [
       hu: ["1944-ben alapították (Imatrából áthelyezve)", "Az EU legnagyobb nikkel-finomítója", "Nagy tisztaságú nikkelszulfát gyártása", "Közvetlen vasúti összeköttetés"],
       ro: ["Fondată în 1944 (mutată din Imatra)", "Cea mai mare rafinărie de nichel din UE", "Producție de sulfat de nichel de înaltă puritate", "Conexiune feroviară directă"],
       en: ["Founded in 1944 (moved from Imatra)", "Largest nickel refinery in the EU", "Produces high-purity nickel sulfate", "Direct connection to the national rail network"],
-    }, image: "/poi-images/finland-harjavalta-metal-works-v2.webp"},
+    },
+  },
   {
     id: "finland-kilpilahti-industrial-park-v2",
     type: "industry",
@@ -248,7 +255,8 @@ export const finlandEconomicV2: POI[] = [
       hu: ["Észak-Európa legnagyobb vegyipari telepe", "13 négyzetkilométeres terület", "Neste fő finomítójának székhelye", "Saját mélyvízi tartályhajó kikötő", "Évi 10 millió tonnás kapacitás", "40 különálló cég telephelye"],
       ro: ["Cel mai mare cluster chimic nordic", "Suprafață: 1.300 de hectare", "Peste 3.500 de angajați în parc", "Port dedicat pentru produse petroliere", "Rafinărie de înaltă complexitate", "Lider în motorină regenerabilă"],
       en: ["Largest Nordic petrochemical hub", "Area covers 13 square kilometers", "Hosts over 40 industrial companies", "Dedicated oil harbor on the coast", "10 million tons annual refining cap", "Leading site for circular economy"],
-    }, image: "/poi-images/finland-kilpilahti-industrial-park-v2.webp"},
+    },
+  },
   {
     id: "finland-oulu-tech-hub-v2",
     type: "industry",
@@ -311,7 +319,8 @@ export const finlandEconomicV2: POI[] = [
       hu: ["Több mint 50 hektáros üzemi terület", "A világ legnagyobb autókompjainak építése", "A Squadron 2020 projekt fő beszállítója", "A jelenlegi formájában 2014-ben alakult"],
       ro: ["Peste 50 de hectare de zonă industrială", "Constructor de feriboturi gigant", "Furnizor principal pentru proiectul Squadron 2020", "Fondat în forma actuală în anul 2014"],
       en: ["Over 50 hectares of shipyard area", "Built some of the world's largest ferries", "Primary contractor for Squadron 2020", "Established in its current form in 2014"],
-    }, image: "/poi-images/finland-rauma-shipyard-v2.webp"},
+    },
+  },
   {
     id: "finland-kokkola-chem-park-v2",
     type: "industry",
@@ -342,7 +351,8 @@ export const finlandEconomicV2: POI[] = [
       hu: ["Több mint 70 betelepült vállalat", "2300 közvetlen munkahely a parkban", "Finnország legnagyobb tranzitkikötője", "A kobalt- és lítiumfinomítás központja"],
       ro: ["Peste 70 de companii rezidente", "2.300 de locuri de muncă directe în parc", "Cel mai mare port de tranzit din Finlanda", "Centru de rafinare a cobaltului și litiului"],
       en: ["Over 70 companies based in the park", "2,300 direct jobs on the premises", "Finland's largest transit port by volume", "Hub for cobalt and lithium refining"],
-    }, image: "/poi-images/finland-kokkola-chem-park-v2.webp"},
+    },
+  },
   {
     id: "finland-jyvaskyla-tech-factory-v2",
     type: "factory",
@@ -373,7 +383,8 @@ export const finlandEconomicV2: POI[] = [
       hu: ["A Valmet papírgépgyárának otthona", "Közép-Finnország ipari központja", "Világelső a papírgyártó technológiában", "Bioenergia-kutatási klaszter", "Modern technológiai parkok", "Jelentős gépészeti szakemberképzés"],
       ro: ["Unități de producție Valmet", "Lider în tehnologia mașinilor de hârtie", "Centru de excelență în bioeconomie", "Locație strategică în Finlanda Centrală", "Exportator global de utilaje grele", "Hub pentru inovație în energie"],
       en: ["Home to Valmet manufacturing units", "World leader in paper machine tech", "Central Finland industrial powerhouse", "Focus on bio-based circular economy", "High density of engineering companies", "Hub for energy efficiency research"],
-    }, image: "/poi-images/finland-jyvaskyla-tech-factory-v2.webp"},
+    },
+  },
   {
     id: "finland-tampere-industrial-hub-v2",
     type: "industry",
@@ -436,7 +447,8 @@ export const finlandEconomicV2: POI[] = [
       hu: ["A Lahti Cleantech Park 2015-ben nyílt meg.", "Lahti városa 2025-re szénsemlegességet kíván elérni.", "A parkban több mint 30 vállalat és kutatóintézet működik.", "A biogázüzem évente mintegy 100 GWh energiát termel.", "A távfűtési rendszert több mint 90%-ban megújuló forrásokból táplálják.", "Évente több mint 10 nemzetközi konferenciát rendeznek."],
       ro: ["Lahti Cleantech Park a fost deschis în 2015.", "Orașul Lahti își propune neutralitatea climatică până în 2025.", "Parcul găzduiește peste 30 de companii și institute de cercetare.", "Instalația de biogaz produce aproximativ 100 GWh anual.", "Sistemul de termoficare este alimentat cu peste 90% din surse regenerabile.", "Peste 10 conferințe internaționale au loc anual."],
       en: ["Lahti Cleantech Park opened in 2015.", "Lahti city aims for carbon neutrality by 2025.", "The park hosts over 30 companies and research institutes.", "The biogas plant produces about 100 GWh annually.", "The district heating system is over 90% powered by renewables.", "Over 10 international conferences are held annually."],
-    }, image: "/poi-images/finland-lahti-cleantech-park-v2.webp"},
+    },
+  },
   {
     id: "finland-joensuu-forestry-center-v2",
     type: "industry",
@@ -531,7 +543,8 @@ export const finlandEconomicV2: POI[] = [
       hu: ["A Meyer Turku hajógyár otthona", "Itt épülnek a világ legnagyobb hajói", "Élettudományi és gyógyszeripari központ", "400-nál több technológiai vállalat", "Fenntartható tengeri megoldások", "Turku Science Park klaszter"],
       ro: ["Sediul șantierului naval Meyer Turku", "Construiește nave de croazieră gigant", "Hub major în industria farmaceutică", "Peste 400 de companii în Science Park", "Focus pe propulsie marină cu GNL", "Centru de cercetare biotehnologică"],
       en: ["Home to Meyer Turku shipyard", "Builds world's largest cruise ships", "Major Finnish life sciences hub", "Over 400 companies in Turku Science Park", "Leader in sustainable maritime tech", "Focus on biotech and drug development"],
-    }, image: "/poi-images/finland-turku-innovation-district-v2.webp"},
+    },
+  },
   {
     id: "finland-vaasa-energy-cluster-v2",
     type: "industry",
@@ -562,7 +575,8 @@ export const finlandEconomicV2: POI[] = [
       hu: ["Észak-Európa legnagyobb energiaklasztere", "A Wärtsilä és az ABB bázisa", "Az export aránya meghaladja a 80%-ot", "Okos hálózati kutatások központja", "Akkumulátorgyártási óriásprojektek", "Több mint 160 tagvállalat"],
       ro: ["Cel mai mare cluster de energie nordic", "Baza companiilor Wärtsilä și ABB", "Cota de export: peste 80% din producție", "Centru pentru tehnologii de rețea smart", "Proiecte masive pentru baterii electrice", "Include peste 160 de companii membre"],
       en: ["Largest energy cluster in the Nordics", "Key base for Wärtsilä and ABB", "Export rate exceeds 80% of output", "Hub for smart grid and storage tech", "Developing large-scale battery factories", "Network of over 160 companies"],
-    }, image: "/poi-images/finland-vaasa-energy-cluster-v2.webp"},
+    },
+  },
   {
     id: "finland-vantaa-logistics-hub-v2",
     type: "industry",
@@ -593,7 +607,8 @@ export const finlandEconomicV2: POI[] = [
       hu: ["Helsinki-Vantaa repülőtéri csomópont", "A Finnair Cargo bázisa", "A nemzeti posta (Posti) központja", "Közvetlen kapcsolat a III. körgyűrűvel", "Több mint 100 logisztikai cég", "Évi több százezer tonna légi áru"],
       ro: ["Hub aviatic la Aeroportul Helsinki", "Sediul central pentru Finnair Cargo", "Centrul principal de distribuție Posti", "Acces direct la autostrada Ring III", "Peste 100 de operatori logistici", "Cel mai modern terminal cargo nordic"],
       en: ["Helsinki-Vantaa Airport gateway", "Base for Finnair Cargo operations", "Primary Posti distribution center", "Strategic location on Ring III road", "Hosts over 100 logistics firms", "Largest air cargo hub in the country"],
-    }, image: "/poi-images/finland-vantaa-logistics-hub-v2.webp"},
+    },
+  },
   {
     id: "finland-imatra-industry-zone-v2",
     type: "industry",

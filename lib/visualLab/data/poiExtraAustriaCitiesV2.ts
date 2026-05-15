@@ -31,7 +31,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Lakossága megközelíti a 65 000 főt", "Területe: 134,9 négyzetkilométer", "Tengerszint feletti magassága: 501 m", "A város 1240-ben kapott városjogot", "Közelében fekszik az Ossiacher See", "A Dráva partján fekvő fontos kikötőhely"],
       ro: ["Populație: aproximativ 65.000 locuitori", "Suprafață totală: 134,9 km²", "Altitudine medie: 501 metri", "Atestat documentar din secolul al IX-lea", "Găzduiește sedii majore de microelectronică", "Nod rutier crucial între Austria și Italia"],
       en: ["Population: roughly 65,000 residents", "Total area: 134.9 square kilometers", "Elevation: 501 meters above sea level", "Granted city rights in the year 1240", "Located at the Drava and Gail confluence", "Home to a major high-tech industrial park"],
-    }, image: "/poi-images/austria-villach-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-wels-cities-v2",
     type: "city",
@@ -62,7 +63,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Lakossága kb. 64 000 fő", "Területe: 45,92 négyzetkilométer", "Római neve Municipium Ovilava volt", "Híres az évenkénti Welsi Vásárról", "A Traun folyó északi partján terül el", "Fontos megújuló energiaipari központ"],
       ro: ["Populație actuală: circa 64.000", "Suprafață: 45,92 km²", "Capitală provincială în timpul Romei", "Găzduiește târguri internaționale anuale", "Nod feroviar pe linia Westbahn", "Altitudinea centrului: 317 metri"],
       en: ["Population: approx. 64,000 residents", "Land area: 45.92 square kilometers", "Elevation: 317 meters above sea level", "Former Roman capital of Noricum Ripense", "Major hub for agricultural technology", "Hosts the International Energy Efficiency Days"],
-    }, image: "/poi-images/austria-wels-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-dornbirn-cities-v2",
     type: "city",
@@ -93,7 +95,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Lakossága meghaladja az 51 000 főt", "Területe: 120,97 négyzetkilométer", "A Vorarlbergi Főiskola székhelye", "Legmagasabb pontja 1463 méter", "Itt található a világ legnagyobb Rolls-Royce múzeuma", "A Karren-hegyre kabinos felvonó visz fel"],
       ro: ["Populație: peste 51.000 locuitori", "Suprafață: 120,97 km²", "Centru administrativ major în Vorarlberg", "Găzduiește Muzeul Rolls-Royce", "Altitudine medie: 437 metri", "Rappenlochschlucht este cel mai mare defileu local"],
       en: ["Population: approx. 51,000 residents", "Total area: 120.97 square kilometers", "Highest peak: Hochälpele at 1,463m", "Main center for the Austrian textile trade", "Home to the Vorarlberg University of Applied Sciences", "The Karren cable car reaches 976 meters"],
-    }, image: "/poi-images/austria-dornbirn-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-steyr-cities-v2",
     type: "city",
@@ -124,7 +127,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Lakossága kb. 38 000 fő", "Területe: 26,56 négyzetkilométer", "Alapításának éve 980 körülre tehető", "Itt található a világ legnagyobb BMW motorgyára", "A Bummerlhaus a város leghíresebb gótikus háza", "Keresztelő Szent János-plébániatemploma 1443-ban épült"],
       ro: ["Populație: 38.000 locuitori", "Suprafață: 26,56 km²", "Orașul a fost fondat în jurul anului 980", "Găzduiește o fabrică majoră de motoare BMW", "Piața centrală (Stadtplatz) este de tip gotic", "Confluența râurilor este vizibilă din centru"],
       en: ["Population: approx. 38,000 residents", "Total area: 26.56 square kilometers", "Founded in the late 10th century", "Major production site for BMW engines", "The Bummerlhaus is a Gothic landmark", "Elevation of the city center: 310 meters"],
-    }, image: "/poi-images/austria-steyr-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-feldkirch-cities-v2",
     type: "city",
@@ -155,7 +159,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Lakossága kb. 35 000 fő", "Területe: 34,35 négyzetkilométer", "A Schattenburg vára 1200 körül épült", "Itt található a Feldkirchi Egyházmegye központja", "Híres az évenkénti Poolbar zenei fesztiválról", "Az Ill folyó szeli át a várost"],
       ro: ["Populație: circa 35.000 locuitori", "Suprafață: 34,35 km²", "Castelul Schattenburg datează din 1200", "Sediul Episcopiei de Feldkirch", "Cea mai vestică localitate urbană austriacă", "Altitudine: 458 metri"],
       en: ["Population: approx. 35,000 residents", "Total area: 34.35 square kilometers", "Schattenburg Castle built around 1200", "Home to the Diocese of Feldkirch", "Host of the annual Poolbar music festival", "Bordering the Principality of Liechtenstein"],
-    }, image: "/poi-images/austria-feldkirch-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-wiener-neustadt-cities-v2",
     type: "city",
@@ -186,7 +191,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Lakossága kb. 48 000 fő", "Területe: 60,96 négyzetkilométer", "A Theresianum Katonai Akadémia 1751-ben alakult", "Fontos repülőgépipari központ (Diamond Aircraft)", "A gótikus dómot 1279-ben szentelték fel", "Itt található a MedAustron rákkutató központ"],
       ro: ["Populație: 48.000 locuitori", "Suprafață: 60,96 km²", "Academia Militară a fost înființată în 1751", "Catedrala locală datează din secolul al XIII-lea", "Centru feroviar major în sudul Austriei Inferioare", "Găzduiește sediul Diamond Aircraft"],
       en: ["Population: approx. 48,000 residents", "Total area: 60.96 square kilometers", "Military Academy founded by Maria Theresa in 1751", "Hub for the Austrian aerospace industry", "The Romanesque-Gothic cathedral was finished in 1279", "Located 50 km south of Vienna"],
-    }, image: "/poi-images/austria-wiener-neustadt-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-baden-cities-v2",
     type: "city",
@@ -217,7 +223,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Lakossága kb. 26 000 fő", "Területe: 26,89 négyzetkilométer", "Az UNESCO Világörökség része 2021 óta", "Itt működik Közép-Európa legnagyobb kaszinója", "14 kénes forrás fakad a város területén", "Beethoven több nyarat is itt töltött"],
       ro: ["Populație: aproximativ 26.000", "Suprafață: 26,89 km²", "Inclus în Patrimoniul Mondial UNESCO în 2021", "Găzduiește cel mai mare cazinou din regiune", "Celebru pentru grădina de trandafiri (Rosarium)", "A fost reședința de vară a lui Francisc I"],
       en: ["Population: approx. 26,000 residents", "Total area: 26.89 square kilometers", "UNESCO World Heritage site (Great Spas of Europe)", "Home to Central Europe's largest casino", "Contains 14 different thermal springs", "The Rosarium features over 30,000 roses"],
-    }, image: "/poi-images/austria-baden-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-wolfsberg-cities-v2",
     type: "city",
@@ -248,7 +255,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Lakossága kb. 25 000 fő", "Területe: 278,3 négyzetkilométer", "A kastélyt 1846-ban építették át Tudor-stílusban", "A város területe kiterjed a 2140 méteres hegyekre", "Karintia harmadik legnagyobb városa", "A Lavant folyó partján fekszik"],
       ro: ["Populație: 25.000 locuitori", "Suprafață vastă: 278,3 km²", "Castelul Wolfsberg a fost renovat în 1846", "Altitudinea maximă în district: 2.140 m", "Centru agricol și industrial al Văii Lavant", "Orașul a primit drepturi de piață în 1289"],
       en: ["Population: approx. 25,000 residents", "Total area: 278.3 square kilometers", "Wolfsberg Castle rebuilt in Tudor style in 1846", "Third-largest city in Carinthia by population", "Lies on the river Lavant", "Surrounded by peaks reaching 2,140 meters"],
-    }, image: "/poi-images/austria-wolfsberg-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-leoben-cities-v2",
     type: "city",
@@ -279,7 +287,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Lakossága kb. 24 500 fő", "Területe: 107,7 négyzetkilométer", "Itt található a neves Bányászati Egyetem", "A Gösser sörgyár a város Göss negyedében működik", "Jelképe a 'Gombatorony' (Schwammerlturm)", "A Mura folyó kanyarulatában épült"],
       ro: ["Populație: 24.500 locuitori", "Suprafață: 107,7 km²", "Găzduiește Universitatea de Resurse Montane", "Berea Gösser este produsă aici din 1860", "Turnul 'Schwammerlturm' este simbolul local", "Centru metalurgic major pentru voestalpine"],
       en: ["Population: approx. 24,500 residents", "Total area: 107.7 square kilometers", "Home to the Montanuniversität (Mining University)", "Birthplace of Gösser beer in the Göss Abbey", "The 'Mushroom Tower' is the city's landmark", "Located on the Mur river loop"],
-    }, image: "/poi-images/austria-leoben-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-krems-cities-v2",
     type: "city",
@@ -310,7 +319,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Lakossága kb. 25 000 fő", "Területe: 51,61 négyzetkilométer", "Első írásos említése 995-ből származik", "Az UNESCO Wachau kultúrtáj része", "A Dunai Egyetem Krems székhelye", "A Steiner Tor a város egyetlen megmaradt kapuja"],
       ro: ["Populație: 25.000 locuitori", "Suprafață: 51,61 km²", "Orașul este menționat prima dată în 995", "Inclus în patrimoniul UNESCO din 2000", "Găzduiește Universitatea Dunăreană Krems", "Poarta Steiner este simbolul fortificațiilor vechi"],
       en: ["Population: approx. 25,000 residents", "Total area: 51.61 square kilometers", "First documented in the year 995 AD", "UNESCO World Heritage site since 2000", "Center for high-quality Grüner Veltliner wine", "Home to the Danube University Krems"],
-    }, image: "/poi-images/austria-krems-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-traun-cities-v2",
     type: "city",
@@ -341,7 +351,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Lakossága kb. 25 000 fő", "Területe: 15,49 négyzetkilométer", "Városi rangot 1973-ban kapott", "A Traun-kastély ma kulturális rendezvényközpont", "Felső-Ausztria 5. legnagyobb városa", "Fontos papíripari központ"],
       ro: ["Populație: 25.000 locuitori", "Suprafață: 15,49 km²", "A primit statut de oraș în 1973", "Castelul Traun datează din secolul al XII-lea", "Nod industrial major lângă Linz", "Altitudine medie: 273 metri"],
       en: ["Population: approx. 25,000 residents", "Total area: 15.49 square kilometers", "Became a city officially in 1973", "Traun Castle hosts major regional festivals", "Strategically located near Linz Airport", "Lies 273 meters above sea level"],
-    }, image: "/poi-images/austria-traun-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-lustenau-cities-v2",
     type: "city",
@@ -372,7 +383,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Lakossága kb. 23 800 fő", "Területe: 22,26 négyzetkilométer", "Ausztria legnépesebb mezővárosa", "A világhírű 'Lustenauer Stickerei' központja", "A Rajna menti síkságon, 404 méteren fekszik", "Saját futballcsapata van az osztrák Bundesligában"],
       ro: ["Populație: circa 23.800 locuitori", "Suprafață: 22,26 km²", "Cea mai populată comună 'Marktgemeinde'", "Exportă broderii în peste 100 de țări", "Altitudine: 404 metri", "Situat în vestul extrem al Austriei"],
       en: ["Population: approx. 23,800 residents", "Total area: 22.26 square kilometers", "Largest market town in Austria", "Global hub for high-quality lace and embroidery", "Located on the river Rhine", "Home to the football club Austria Lustenau"],
-    }, image: "/poi-images/austria-lustenau-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-kapfenberg-cities-v2",
     type: "city",
@@ -403,7 +415,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Lakossága kb. 22 000 fő", "Területe: 81,62 négyzetkilométer", "A voestalpine Böhler acélművek központja", "Oberkapfenberg vára a 12. századból való", "Repülőgép- és űripari alkatrészeket is gyártanak", "A Mürz folyó szeli át a várost"],
       ro: ["Populație: 22.000 locuitori", "Suprafață: 81,62 km²", "Principalul angajator este voestalpine Böhler", "Castelul Oberkapfenberg găzduiește șoimărit", "Altitudine: 502 metri", "Nod feroviar important pe linia Südbahn"],
       en: ["Population: approx. 22,000 residents", "Total area: 81.62 square kilometers", "Global leader in special steel manufacturing", "Oberkapfenberg Castle dates to the 1100s", "Located at 502 meters elevation", "Major focus on aerospace technology"],
-    }, image: "/poi-images/austria-kapfenberg-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-hallein-cities-v2",
     type: "city",
@@ -434,7 +447,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Lakossága kb. 21 500 fő", "Területe: 26,98 négyzetkilométer", "Itt található a világ legrégebbi látogatható sóbányája", "Európa egyik legjelentősebb Kelta Múzeuma itt van", "Itt élt és halt meg Franz Xaver Gruber (Csendes éj)", "A Salzach folyó kettészeli a várost"],
       ro: ["Populație: 21.500 locuitori", "Suprafață: 26,98 km²", "Exploatarea sării a început acum 2500 de ani", "Găzduiește Muzeul Celților", "Franz Xaver Gruber a compus 'Silent Night' aici", "Altitudine: 447 metri"],
       en: ["Population: approx. 21,500 residents", "Total area: 26.98 square kilometers", "Home to the world's oldest salt mine for tours", "Major Celtic Museum showcasing Iron Age finds", "Burial place of Silent Night composer F.X. Gruber", "Lies on the Salzach river south of Salzburg"],
-    }, image: "/poi-images/austria-hallein-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-schwechat-cities-v2",
     type: "city",
@@ -465,7 +479,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Lakossága kb. 21 000 fő", "Területe: 44,76 négyzetkilométer", "Itt található a Bécs-Schwechati nemzetközi repülőtér", "Az OMV legnagyobb finomítója üzemel itt", "1632 óta főznek itt sört", "A római korban lovassági tábor (Ala Nova) állt itt"],
       ro: ["Populație: 21.000 locuitori", "Suprafață: 44,76 km²", "Aeroportul Viena este situat în acest oraș", "Găzduiește rafinăria principală a grupului OMV", "Are o tradiție de berărit din 1632", "Altitudine medie: 162 metri"],
       en: ["Population: approx. 21,000 residents", "Total area: 44.76 square kilometers", "Home to Vienna International Airport (VIE)", "Site of the OMV oil refinery", "Established brewing tradition since 1632", "Built on the site of Roman fort Ala Nova"],
-    }, image: "/poi-images/austria-schwechat-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-braunau-am-inn-cities-v2",
     type: "city",
@@ -496,7 +511,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 351 m", "Terület: 24,84 km²", "Lakosság: kb. 17 500 fő", "Városi rangot 1260-ban kapott", "A gótikus főtér hossza 150 méter", "Közvetlen határátkelő Németország felé"],
       ro: ["Altitudine: 351 metri", "Suprafață: 24,84 km²", "Populație: aprox. 17.500 locuitori", "Drepturi de oraș din anul 1260", "Turnul bisericii are 87 de metri", "Situat la granița cu Bavaria, Germania"],
       en: ["Elevation: 351 m above sea level", "Total area: 24.84 km²", "Population: ~17,500", "City status granted in 1260", "Church tower height: 87 meters", "Located directly on the German border"],
-    }, image: "/poi-images/austria-braunau-am-inn-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-saalfelden-cities-v2",
     type: "city",
@@ -527,7 +543,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 744 m", "Terület: 118,34 km²", "Lakosság: kb. 16 800 fő", "Salzburg tartomány 3. legnagyobb városa", "Nemzetközi Jazzfesztivál 1978 óta", "Közlekedési csomópont a Pinzgau-ban"],
       ro: ["Altitudine: 744 metri", "Suprafață: 118,34 km²", "Populație: aprox. 16.800 locuitori", "Al treilea oraș ca mărime din Salzburg", "Festival de jazz fondat în 1978", "Situat în bazinul râului Saalach"],
       en: ["Elevation: 744 m above sea level", "Total area: 118.34 km²", "Population: ~16,800", "3rd largest city in Salzburg state", "Famous jazz festival held since 1978", "Located in the Saalfelden Basin"],
-    }, image: "/poi-images/austria-saalfelden-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-stockerau-cities-v2",
     type: "city",
@@ -558,7 +575,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 176 m", "Terület: 37,41 km²", "Lakosság: kb. 16 900 fő", "A Weinviertel legnagyobb városa", "Városi rang elnyerése: 1893", "Nikolaus Lenau költő itt élt"],
       ro: ["Altitudine: 176 metri", "Suprafață: 37,41 km²", "Populație: aprox. 16.900 locuitori", "Cel mai mare oraș din Weinviertel", "Drepturi de oraș din anul 1893", "Cunoscut sub numele de Lenaustadt"],
       en: ["Elevation: 176 m above sea level", "Total area: 37.41 km²", "Population: ~16,900", "Largest town in the Weinviertel", "City status since 1893", "Associated with poet Nikolaus Lenau"],
-    }, image: "/poi-images/austria-stockerau-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-ansfelden-cities-v2",
     type: "city",
@@ -589,7 +607,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 289 m", "Terület: 31,33 km²", "Lakosság: kb. 17 200 fő", "Anton Bruckner szülőhelye", "Városi rang elnyerése: 1988", "Fontos autópálya-csomópont (A1, A25)"],
       ro: ["Altitudine: 289 metri", "Suprafață: 31,33 km²", "Populație: aprox. 17.200 locuitori", "Locul de naștere al lui Anton Bruckner", "Oraș din anul 1988", "Nod rutier major între A1 și A25"],
       en: ["Elevation: 289 m above sea level", "Total area: 31.33 km²", "Population: ~17,200", "Birthplace of Anton Bruckner", "City status granted in 1988", "Major junction of A1 and A25 highways"],
-    }, image: "/poi-images/austria-ansfelden-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-hohenems-cities-v2",
     type: "city",
@@ -620,7 +639,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 432 m", "Terület: 29,17 km²", "Lakosság: kb. 17 000 fő", "Hohenems-palota (reneszánsz)", "Ausztria egyik legjobb zsidó múzeuma", "Svájci határ menti elhelyezkedés"],
       ro: ["Altitudine: 432 metri", "Suprafață: 29,17 km²", "Populație: aprox. 17.000 locuitori", "Găzduiește Palatul Hohenems", "Muzeu Evreiesc de importanță națională", "Situat la granița cu Elveția"],
       en: ["Elevation: 432 m above sea level", "Total area: 29.17 km²", "Population: ~17,000", "Home to the Renaissance Palace", "Famous Jewish Museum location", "Bordering Switzerland in the Rhine Valley"],
-    }, image: "/poi-images/austria-hohenems-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-perchtoldsdorf-cities-v2",
     type: "town",
@@ -651,7 +671,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 265 m", "Terület: 12,6 km²", "Lakosság: kb. 15 000 fő", "Jelképe a 60 méteres őrtorony", "Híres Heuriger borozóiról", "Közvetlenül Bécs déli határán"],
       ro: ["Altitudine: 265 metri", "Suprafață: 12,6 km²", "Populație: aprox. 15.000 locuitori", "Turn de apărare înalt de 60 m", "Celebră pentru cultura locală a vinului", "Situată la limita sudică a Vienei"],
       en: ["Elevation: 265 m above sea level", "Total area: 12.6 km²", "Population: ~15,000", "Landmark: 60-meter fortified tower", "Famed for its 'Heuriger' wine taverns", "Located directly south of Vienna"],
-    }, image: "/poi-images/austria-perchtoldsdorf-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-ternitz-cities-v2",
     type: "city",
@@ -682,7 +703,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 393 m", "Terület: 65,34 km²", "Lakosság: kb. 14 600 fő", "Jelentős acél- és gépipar", "Több község egyesüléséből jött létre", "A Schwarza folyó völgyében fekszik"],
       ro: ["Altitudine: 393 metri", "Suprafață: 65,34 km²", "Populație: aprox. 14.600 locuitori", "Centru major al industriei oțelului", "Oraș format din mai multe sate", "Situat pe malul râului Schwarza"],
       en: ["Elevation: 393 m above sea level", "Total area: 65.34 km²", "Population: ~14,600", "Key location for the steel industry", "Composed of several merged districts", "Situated along the Schwarza river"],
-    }, image: "/poi-images/austria-ternitz-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-feldkirchen-in-kaernten-cities-v2",
     type: "city",
@@ -713,7 +735,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 554 m", "Terület: 77,49 km²", "Lakosság: kb. 14 400 fő", "Járási székhely (Bezirkshauptstadt)", "Az Ossiachi-tó szomszédságában", "A Tiebel folyó mentén fekszik"],
       ro: ["Altitudine: 554 metri", "Suprafață: 77,49 km²", "Populație: aprox. 14.400 locuitori", "Reședință de district în Carintia", "Proximitate față de Lacul Ossiach", "Oraș comercial pe râul Tiebel"],
       en: ["Elevation: 554 m above sea level", "Total area: 77.49 km²", "Population: ~14,400", "Capital of the Feldkirchen district", "Close proximity to Lake Ossiach", "Historical trade town on the Tiebel"],
-    }, image: "/poi-images/austria-feldkirchen-in-kaernten-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-bludenz-cities-v2",
     type: "city",
@@ -744,7 +767,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 587 m", "Terület: 30,0 km²", "Lakosság: kb. 15 000 fő", "Itt gyártják a Milka csokoládét", "Öt alpesi völgy csomópontja", "Középkori árkádos óváros"],
       ro: ["Altitudine: 587 metri", "Suprafață: 30,0 km²", "Populație: aprox. 15.000 locuitori", "Sediul fabricii de ciocolată Milka", "Punct de întâlnire pentru 5 văi", "Nucleu istoric cu arcade specifice"],
       en: ["Elevation: 587 m above sea level", "Total area: 30.0 km²", "Population: ~15,000", "Production site of Milka chocolate", "Hub connecting five alpine valleys", "Historical town center with arcades"],
-    }, image: "/poi-images/austria-bludenz-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-bad-ischl-cities-v2",
     type: "town",
@@ -775,7 +799,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 468 m", "Terület: 162,8 km²", "Lakosság: kb. 14 200 fő", "Itt található a Császárvilla", "Európa Kulturális Fővárosa 2024", "Híres a Zauner cukrászdáról"],
       ro: ["Altitudine: 468 metri", "Suprafață: 162,8 km²", "Populație: aprox. 14.200 locuitori", "Găzduiește Kaiservilla (Vila Imperială)", "Capitală Culturală Europeană în 2024", "Renumit pentru cofetăria Zauner"],
       en: ["Elevation: 468 m above sea level", "Total area: 162.8 km²", "Population: ~14,200", "Home to the Imperial Villa", "European Capital of Culture 2024", "Famous for the Zauner pastry shop"],
-    }, image: "/poi-images/austria-bad-ischl-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-schwaz-cities-v2",
     type: "city",
@@ -806,7 +831,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 545 m", "Terület: 20,17 km²", "Lakosság: kb. 14 200 fő", "Beceneve: Ezüstváros", "Látogatható ezüstbánya", "1500 körül a birodalom 2. legnagyobb városa"],
       ro: ["Altitudine: 545 metri", "Suprafață: 20,17 km²", "Populație: aprox. 14.200 locuitori", "Supranumit Orașul Argintului", "Mină de argint deschisă vizitatorilor", "Al doilea oraș din imperiu în secolul XVI"],
       en: ["Elevation: 545 m above sea level", "Total area: 20.17 km²", "Population: ~14,200", "Nicknamed the 'Silver City'", "Home to a famous silver show mine", "Second largest city in the empire c. 1500"],
-    }, image: "/poi-images/austria-schwaz-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-hall-in-tirol-cities-v2",
     type: "city",
@@ -837,7 +863,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 574 m", "Terület: 5,54 km²", "Lakosság: kb. 14 300 fő", "Híres pénzverde (Hasegg-vár)", "Nyugat-Ausztria legnagyobb óvárosa", "Korábbi neve: Solbad Hall"],
       ro: ["Altitudine: 574 metri", "Suprafață: 5,54 km²", "Populație: aprox. 14.300 locuitori", "Renumită monetărie istorică (Hasegg)", "Cel mai mare nucleu vechi din Tirol", "Fost centru de exploatare a sării"],
       en: ["Elevation: 574 m above sea level", "Total area: 5.54 km²", "Population: ~14,300", "Major historical minting site", "Largest old town in Western Austria", "Formerly known as Solbad Hall"],
-    }, image: "/poi-images/austria-hall-in-tirol-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-kufstein-cities-v2",
     type: "city",
@@ -868,7 +895,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 499 m", "Terület: 39,37 km²", "Lakosság: kb. 19 600 fő", "Itt van a világ legnagyobb szabadtéri orgonája", "Jelképe a kufsteini erőd", "A híres Kufstein-dal tette ismertté"],
       ro: ["Altitudine: 499 metri", "Suprafață: 39,37 km²", "Populație: aprox. 19.600 locuitori", "Cea mai mare orgă în aer liber din lume", "Simbol: Cetatea Kufstein", "Celebrat în faimosul cântec Kufsteinlied"],
       en: ["Elevation: 499 m above sea level", "Total area: 39.37 km²", "Population: ~19,600", "Home to the world's largest outdoor organ", "Landmark: Kufstein Fortress", "Immortalized in the popular 'Kufsteinlied'"],
-    }, image: "/poi-images/austria-kufstein-cities-v2.webp"}
+    },
+  }
 ,
   {
     id: "austria-voitsberg-cities-v2",
@@ -932,7 +960,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 510 m", "Terület: 46,03 km²", "Lakosság: kb. 5 500 fő", "Ausztria legészakibb járási székhelye", "A Waldviertel központi városa", "Híres a waldvierteli szövőiparról"],
       ro: ["Altitudine: 510 metri", "Suprafață: 46,03 km²", "Populație: aprox. 5.500 locuitori", "Cea mai nordică reședință de district", "Situat în centrul regiunii Waldviertel", "Important centru al industriei textile"],
       en: ["Elevation: 510 m above sea level", "Total area: 46.03 km²", "Population: ~5,500", "Northernmost district capital in Austria", "Central hub of the Waldviertel region", "Known for local textile manufacturing"],
-    }, image: "/poi-images/austria-waidhofen-an-der-thaya-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-judenburg-cities-v2",
     type: "city",
@@ -963,7 +992,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["1074-ben említik először", "Mura folyó partján fekszik", "13. századi városfalak", "Felső-Stájerország része", "9.611 lakos", "42,22 km² terület"],
       ro: ["Altitudine 732 m", "Prima atestare în 1074", "Situat în districtul Murtal", "Turnul are 75 metri", "Populație cca 9.600", "Suprafață 42,22 km²"],
       en: ["Founded in 1074", "Elevation 732 meters", "Population around 9,600", "Located on Mur river", "Town tower built 1449", "42.22 sq km area"],
-    }, image: "/poi-images/austria-judenburg-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-voecklabruck-cities-v2",
     type: "city",
@@ -994,7 +1024,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["433 méter tengerszint felett", "12.518 lakos (2023)", "Felső-Ausztria tartomány", "Kapu a Salzkammerguthoz", "15,59 négyzetkilométer", "Vöckla folyó"],
       ro: ["Altitudine 433 m", "Populație 12.518", "Districtul Vöcklabruck", "Turnul de jos are fresce", "Fondat în secolul XII", "Suprafață 15,6 km²"],
       en: ["Elevation 433 m", "Population 12,518", "Located in Upper Austria", "Near Attersee lake", "Medieval town square", "Area 15.59 sq km"],
-    }, image: "/poi-images/austria-voecklabruck-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-freistadt-cities-v2",
     type: "city",
@@ -1025,7 +1056,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["560 méteres magasság", "7.909 lakos", "1220-ban kapott városjogot", "Mühlviertel központja", "33,88 km² terület", "Gótikus plébániatemplom"],
       ro: ["Altitudine 560 m", "Populație cca 7.900", "Fondat în anul 1220", "Ziduri de fortificație", "Districtul Freistadt", "Suprafață 33,9 km²"],
       en: ["Elevation 560 m", "Chartered in 1220", "Population 7,909", "Medieval fortifications", "Upper Austria region", "33.88 sq km area"],
-    }, image: "/poi-images/austria-freistadt-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-zeltweg-cities-v2",
     type: "city",
@@ -1056,7 +1088,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["673 méter magasság", "6.953 lakos", "1874-ben önálló község", "Mura-völgyi iparváros", "16,33 négyzetkilométer", "Katonai repülőtér"],
       ro: ["Altitudine 673 m", "Populație 6.953", "Înființat ca oraș în 1966", "Aeroport militar activ", "Districtul Murtal", "Suprafață 16,3 km²"],
       en: ["Elevation 673 m", "Population 6,953", "Major aviation hub", "Near Red Bull Ring", "Styria province", "16.33 sq km area"],
-    }, image: "/poi-images/austria-zeltweg-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-liezen-cities-v2",
     type: "city",
@@ -1087,7 +1120,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["664 méter magasság", "8.251 lakos", "Enns folyó völgye", "1947 óta város", "Felső-Stájerország", "91,72 négyzetkilométer"],
       ro: ["Altitudine 664 m", "Populație 8.251", "Districtul Liezen", "Valea râului Enns", "Centru administrativ", "Suprafață 91,7 km²"],
       en: ["Elevation 664 m", "Population 8,251", "District capital", "Enns valley location", "Industrial center", "Area 91.72 sq km"],
-    }, image: "/poi-images/austria-liezen-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-mistelbach-cities-v2",
     type: "city",
@@ -1118,7 +1152,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["190 méter tengerszint felett", "11.665 lakos", "Zaya folyó partján", "Jelentős bortermelés", "131,38 négyzetkilométer", "Gótikus templom"],
       ro: ["Altitudine 190 m", "Populație 11.665", "Regiunea Weinviertel", "Fondat în secolul XI", "Districtul Mistelbach", "Suprafață 131,4 km²"],
       en: ["Elevation 190 m", "Population 11,665", "Located in Lower Austria", "Wine production center", "131.38 sq km area", "Established 11th century"],
-    }, image: "/poi-images/austria-mistelbach-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-bruck-an-der-mur-cities-v2",
     type: "city",
@@ -1149,7 +1184,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["491 méter magasság", "15.970 lakos", "Mura és Mürz találkozása", "1263-ban városi rang", "Vasúti csomópont", "47,54 négyzetkilométer"],
       ro: ["Altitudine 491 m", "Populație 15.970", "Confluența Mur-Mürz", "Nod feroviar major", "Districtul Bruck-Mürzzuschlag", "Suprafață 47,5 km²"],
       en: ["Elevation 491 m", "Population 15,970", "Important railway hub", "Confluence of two rivers", "Styrian province", "47.54 sq km area"],
-    }, image: "/poi-images/austria-bruck-an-der-mur-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-landeck-cities-v2",
     type: "city",
@@ -1180,7 +1216,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["817 méter magasság", "7.540 lakos", "Inn és Sanna találkozása", "Tirol nyugati része", "15,87 négyzetkilométer", "Arlberg-vasútvonal"],
       ro: ["Altitudine 817 m", "Populație 7.540", "Castelul Landeck", "Districtul Landeck", "Râul Inn", "Suprafață 15,9 km²"],
       en: ["Elevation 817 m", "Population 7,540", "Tyrolean Alps location", "Arlberg gateway", "Castle from 13th century", "15.87 sq km area"],
-    }, image: "/poi-images/austria-landeck-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-weiz-cities-v2",
     type: "city",
@@ -1211,7 +1248,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["479 méter magasság", "11.952 lakos", "Energiatechnológiai központ", "1932 óta város", "17,50 négyzetkilométer", "Barokk zarándoktemplom"],
       ro: ["Altitudine 479 m", "Populație 11.952", "Districtul Weiz", "Centru energetic major", "Fondat în secolul XII", "Suprafață 17,5 km²"],
       en: ["Elevation 479 m", "Population 11,952", "Major industrial base", "Located in East Styria", "Modern innovation hub", "17.5 sq km area"],
-    }, image: "/poi-images/austria-weiz-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-imst-cities-v2",
     type: "city",
@@ -1242,7 +1280,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["827 méter magasság", "11.135 lakos", "Schemenlaufen fesztivál", "Inn-völgy felső szakasza", "113,38 négyzetkilométer", "1299-ben említik"],
       ro: ["Altitudine 827 m", "Populație 11.135", "Patrimoniu UNESCO", "Districtul Imst", "Fondat în secolul XIII", "Suprafață 113,4 km²"],
       en: ["Elevation 827 m", "Population 11,135", "Famous carnival town", "Located in Tyrol", "40 historic fountains", "113.38 sq km area"],
-    }, image: "/poi-images/austria-imst-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-hartberg-cities-v2",
     type: "city",
@@ -1273,7 +1312,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["359 méter magasság", "6.713 lakos", "Ringkogel-kilátó a közelben", "1122-ben alapították", "Stájerország keleti része", "21,58 négyzetkilométer"],
       ro: ["Altitudine 359 m", "Populație 6.713", "Fondat în 1122", "Districtul Hartberg-Fürstenfeld", "Capelă romanică", "Suprafață 21,6 km²"],
       en: ["Elevation 359 m", "Population 6,713", "Founded in 1122", "Historic old town", "East Styria region", "21.58 sq km area"],
-    }, image: "/poi-images/austria-hartberg-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-bad-voslau-cities-v2",
     type: "city",
@@ -1304,7 +1344,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["276 méter magasság", "12.396 lakos", "1954 óta város", "Thermalbad Vöslau fürdő", "Alsó-Ausztria", "38,74 négyzetkilométer"],
       ro: ["Altitudine 276 m", "Populație 12.396", "Stațiune balneară", "Districtul Baden", "Apă minerală Vöslauer", "Suprafață 38,7 km²"],
       en: ["Elevation 276 m", "Population 12,396", "Famous spa resort", "Lower Austria province", "Wine growing region", "38.74 sq km area"],
-    }, image: "/poi-images/austria-bad-voslau-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-brunn-am-gebirge-cities-v2",
     type: "city",
@@ -1335,7 +1376,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["221 méter magasság", "12.218 lakos", "Bécsi-erdő peremén", "7,26 négyzetkilométer terület", "Szecessziós házak", "Neolitikus leletek"],
       ro: ["Altitudine 221 m", "Populație 12.218", "Lângă Viena", "Districtul Mödling", "Stil arhitectural Art Nouveau", "Suprafață 7,3 km²"],
       en: ["Elevation 221 m", "Population 12,218", "Industrial and residential", "Neolithic settlements", "Lower Austria", "7.26 sq km area"],
-    }, image: "/poi-images/austria-brunn-am-gebirge-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-leonding-cities-v2",
     type: "city",
@@ -1366,7 +1408,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["287 méter magasság", "29.129 lakos", "Linz agglomerációja", "1975 óta város", "24,05 négyzetkilométer terület", "Kürnberger-erdő"],
       ro: ["Altitudine 287 m", "Populație 29.129", "Statut de oraș din 1975", "Districtul Linz-Land", "Economie dezvoltată", "Suprafață 24,1 km²"],
       en: ["Elevation 287 m", "Population 29,129", "Upper Austria region", "Bordering Linz", "Rapid urban growth", "24.05 sq km area"],
-    }, image: "/poi-images/austria-leonding-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-ganserndorf-cities-v2",
     type: "city",
@@ -1397,7 +1440,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["167 méter magasság", "12.012 lakos", "Marchfeld központja", "1958 óta város", "30,56 négyzetkilométer terület", "Fontos vasúti csomópont"],
       ro: ["Altitudine 167 m", "Populație 12.012", "Districtul Gänserndorf", "Centru în Marchfeld", "Calea ferată de Nord", "Suprafață 30,6 km²"],
       en: ["Elevation 167 m", "Population 12,012", "Lower Austria", "Important railway hub", "Agricultural center", "30.56 sq km area"],
-    }, image: "/poi-images/austria-ganserndorf-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-tulln-an-der-donau-cities-v2",
     type: "city",
@@ -1428,7 +1472,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magassága 180 méter", "A római időkben Comagena néven volt ismert", "Itt található Európa első ökológiai kertkiállítása", "A Nibelung-szökőkút a város egyik fő látványossága", "A városi plébániatemplom román stílusú kapuval bír", "Fontos dunai kikötőhely a Bécs felé tartó úton"],
       ro: ["Populația orașului este de aproximativ 16.900 locuitori", "Suprafața administrativă acoperă circa 72 km²", "Muzeul Egon Schiele este găzduit în fosta închisoare", "Găzduiește anual cel mai mare târg de flori din Austria", "Turnul Roman (Römerturm) datează din secolul al IV-lea", "Orașul este situat la 40 km nord-vest de Viena"],
       en: ["Elevation is 180 meters above sea level", "Home to the Aubad, a large natural swimming lake", "The Nibelungenlied monument commemorates the epic poem", "Status as a municipality since the 13th century", "Host city for the International Garden Fair Tulln", "Features a 17th-century Minorite monastery complex"],
-    }, image: "/poi-images/austria-tulln-an-der-donau-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-st-veit-an-der-glan-cities-v2",
     type: "city",
@@ -1459,7 +1504,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["A város tengerszint feletti magassága 482 méter", "1518-ig ez volt Karintia tartományi fővárosa", "A főtéren található a Szent Vitus-plébániatemplom", "A városháza belső udvara árkádos kialakítású", "Középkori városfala több szakaszon ma is áll", "A Wiesenmarkt Ausztria egyik legrégebbi népünnepélye"],
       ro: ["Orașul numără aproximativ 12.900 de locuitori", "Altitudinea medie este de 482 metri", "Castelul Hochosterwitz se află la doar 10 km distanță", "Piața principală are o lungime de peste 200 de metri", "A fost centru monetar important în perioada ducatului", "Găzduiește Muzeul Transporturilor (Verkehrsmuseum)"],
       en: ["Located at an elevation of 482 meters", "The town hall features an ornate Renaissance portal", "First documented as a city in the year 1224", "Famous for its historic plague column in the square", "Annual Wiesenmarkt attracts over 100,000 visitors", "Birthplace of the writer Gert Jonke"],
-    }, image: "/poi-images/austria-st-veit-an-der-glan-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-hermagor-cities-v2",
     type: "city",
@@ -1490,7 +1536,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["A város központja 602 méteres magasságban fekszik", "A Pressegger See vize nyáron elérheti a 28 fokot", "Nassfeld síterepén 110 kilométernyi pálya található", "A település első írásos említése 1163-ból származik", "Fontos közigazgatási központ a Gail-völgyben", "A város környéke híres a Gailtali szalonnáról"],
       ro: ["Hermagor numără în jur de 6.900 de locuitori", "Altitudinea medie în vale este de 602 metri", "Include 33 de sate în unitatea sa administrativă", "Pressegger See este supranumit Ochiul Gail-ului", "Sectorul turistic oferă peste 1 milion de înnoptări", "Stațiunea Nassfeld ajunge la 2.000 metri altitudine"],
       en: ["Elevation of the town center is 602 meters", "The lake reaches temperatures up to 28°C in summer", "Total municipality area covers 186.84 km²", "Nassfeld offers the longest cable car in the Alps", "Strategic location on the route to the Plöcken Pass", "Host to the annual Gailtal Bacon Festival"],
-    }, image: "/poi-images/austria-hermagor-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-fehring-cities-v2",
     type: "city",
@@ -1521,7 +1568,8 @@ export const austriaCitiesV2: POI[] = [
       hu: ["Tengerszint feletti magassága 272 méter", "A Tabor-erődítmény 12 bástyával rendelkezett", "Vasúti csatlakozás Graz és Szentgotthárd felé", "A település 1265-ben tűnik fel az oklevelekben", "Híres a bortermeléséről és a pincenegyedéről", "A plébániatemplomot Szent Annának szentelték"],
       ro: ["Populația este de aproximativ 7.200 de locuitori", "Altitudinea în valea Raab este de 272 metri", "Complexul Tabor este unul dintre cele mai bine păstrate", "Economia se bazează pe servicii și agricultură", "Localitatea a primit drepturi de oraș în 1962", "Găzduiește festivaluri de jazz și artă contemporană"],
       en: ["Located at an elevation of 272 meters", "Strategic railway junction for the Styrian East Line", "The Tabor complex dates back to the late Middle Ages", "Population density is roughly 83 people per km²", "First historical mention dates to 1265 as Borin", "Known for its thermal springs in the surrounding area"],
-    }, image: "/poi-images/austria-fehring-cities-v2.webp"},
+    },
+  },
   {
     id: "austria-gleisdorf-cities-v2",
     type: "city",

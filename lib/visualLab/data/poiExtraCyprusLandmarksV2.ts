@@ -31,7 +31,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["A 19. században épült, az oszmán fennhatóság idején.", "Építészete az iszlám építőművészet klasszikus elemeit ötvözi.", "Az épület jellegzetessége a karcsú, magasba törő minaret.", "A történelmi sólepárló helyek közvetlen közelében található."],
       ro: ["Construită în secolul al XIX-lea, în timpul dominației otomane.", "Arhitectura prezintă elemente clasice ale artei islamice.", "Clădirea are un minaret distinctiv și zvelt.", "Se află în apropierea unor situri istorice de extracție a sării."],
       en: ["Built in the 19th century during the Ottoman rule.", "The architecture displays classic elements of Islamic art.", "The building features a distinctive and slender minaret.", "It is located near historical salt production sites."],
-    }, image: "/poi-images/cyprus-alaas-mosque-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-panagia-angeloktisti-landmarks-v2",
     type: "church",
@@ -62,7 +63,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["Mária-mozaikja a kora keresztény művészet egyik ritka kincse.", "A mai épület nagy része a 11. századból származik.", "Egy korábbi, kora keresztény bazilika romjaira épült.", "A templom szerepel az UNESCO világörökségi várólistáján."],
       ro: ["Mozaicul cu Maria este unul dintre cele mai rare din epoca creștină.", "Structura actuală datează în mare parte din secolul al XI-lea.", "A fost ridicată peste ruinele unei bazilici creștine timpurii.", "Biserica se află pe lista tentativă a Patrimoniului Mondial UNESCO."],
       en: ["The mosaic of Mary is one of the rarest from the early Christian era.", "The current structure dates mostly from the 11th century.", "It was erected over the ruins of an early Christian basilica.", "The church is on the UNESCO World Heritage tentative list."],
-    }, image: "/poi-images/cyprus-panagia-angeloktisti-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-agios-georgios-pegeia-landmarks-v2",
     type: "church",
@@ -93,7 +95,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["Mozaikpadlói összetett mértani és virágmintákat ábrázolnak.", "Feltártak itt egy kőből készült, kör alakú keresztelőkápolnát is.", "A települést a 7. századi arab betörések után hagyták el.", "Agios Georgios a mai napig a helyi vallásos tisztelet központja."],
       ro: ["Podelele de mozaic prezintă modele geometrice și florale complexe.", "A fost scos la lumină un baptisteriu circular din piatră.", "Așezarea a fost abandonată în secolul VII după raidurile arabe.", "Agios Georgios rămâne un centru local de venerație până astăzi."],
       en: ["The mosaic floors show complex geometric and floral patterns.", "A circular stone baptistery was uncovered at the site.", "The settlement was abandoned in the 7th century after Arab raids.", "Agios Georgios remains a local center of worship to this day."],
-    }, image: "/poi-images/cyprus-agios-georgios-pegeia-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-fatih-mosque-larnaca-landmarks-v2",
     type: "landmark",
@@ -124,7 +127,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["Eredetileg a 13. században épült katolikus templom", "Az 1570-es években építették hozzá a minaretet", "Larnaka tengerparti sétánya mellett helyezkedik el", "A ciprusi gótika és az oszmán stílus keveréke", "A belső térben őrzik az eredeti kőoszlopokat", "A város muszlim közösségének fő imahelye"],
       ro: ["Convertită oficial în moschee în anul 1571", "Minaretul otoman a fost adăugat structurii gotice", "Fundația clădirii datează din secolul al XIII-lea", "Poziționată strategic lângă fortul din Larnaca", "Include o fântână tradițională pentru abluțiune", "Capacitatea spațiului interior depășește 250 de locuri"],
       en: ["Originally constructed as a Latin church in the 13th century", "Converted to an Islamic place of worship in 1571", "Features an Ottoman minaret added to a Gothic base", "Located adjacent to the historic Larnaca Fort", "Contains a traditional ablution fountain in the courtyard", "Built of local limestone characteristic of the region"],
-    }, image: "/poi-images/cyprus-fatih-mosque-larnaca-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-agios-neophytos-monastery-landmarks-v2",
     type: "landmark",
@@ -155,7 +159,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["A kolostort 1159-ben alapította a remete Neophytos.", "A barlang freskói a 12. és 15. század közötti időszakból valók.", "A múzeum ritka kéziratokat és értékes ikonokat mutat be.", "A kolostor főtemploma csak a 15. században készült el."],
       ro: ["Fondată în anul 1159 de către sihastrul Neofit.", "Frescele din peșteră datează din secolele XII până la XV.", "Muzeul mănăstirii expune manuscrise rare și icoane vechi.", "Biserica principală a mănăstirii a fost construită în secolul XV."],
       en: ["Founded in the year 1159 by the hermit Neophytos.", "The frescoes in the cave date from the 12th to 15th centuries.", "The monastery museum displays rare manuscripts and icons.", "The main church of the monastery was built in the 15th century."],
-    }, image: "/poi-images/cyprus-agios-neophytos-monastery-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-agios-sozomenos-ruins-landmarks-v2",
     type: "ruins",
@@ -186,7 +191,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["Bizánci kortól lakott", "Elhagyás a 16. században", "12. századi templom", "A település területe 5 hektár", "14. századi erőd", "Ásatások 1980 óta"],
       ro: ["Locuit din perioada bizantină", "Abandonat în secolul al XVI-lea", "Biserică din secolul al XII-lea", "Suprafața așezării: 5 hectare", "Fortăreață din secolul al XIV-lea", "Săpături din 1980"],
       en: ["Inhabited since Byzantine times", "Abandoned in the 16th century", "12th-century church", "Settlement area: 5 hectares", "14th-century fort", "Excavations since 1980"],
-    }, image: "/poi-images/cyprus-agios-sozomenos-ruins-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-agios-andronikos-church-landmarks-v2",
     type: "church",
@@ -217,7 +223,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["Klasszikus, mészkőből készült dongaboltozattal rendelkezik.", "Az oszmán korszakban Zuhuri-mecsetként használták.", "Freskótöredékei a spirituális sokszínűségről tanúskodnak.", "A templomot a 19. században alaposan restaurálták."],
       ro: ["Dispune de o boltă în leagăn clasică din piatră de calcar.", "A fost folosită ca Moscheea Zuhuri în timpul erei otomane.", "Conține fragmente de frescă ce atestă diversitatea spirituală.", "Biserica a fost restaurată integral în secolul al XIX-lea."],
       en: ["Features a classical barrel vault made of limestone.", "Was used as the Zuhuri Mosque during the Ottoman period.", "Contains fresco remains witnessing spiritual diversity.", "The church was extensively restored in the 19th century."],
-    }, image: "/poi-images/cyprus-agios-andronikos-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-philippides-tower-landmarks-v2",
     type: "tower",
@@ -248,7 +255,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["Az épületet az 1990-es évek végén adták át.", "Magassága meghaladja az 50 métert az utcaszint felett.", "A torony nemzeti pénzügyi vállalatok székhelyéül szolgál.", "Nicosia egyik legforgalmasabb sugárútján helyezkedik el."],
       ro: ["Clădirea a fost finalizată la sfârșitul anilor 1990.", "Atinge o înălțime de peste 50 de metri deasupra străzii.", "Turnul servește ca sediu pentru companii financiare naționale.", "Se află pe unul dintre cele mai circulate bulevarde din Nicosia."],
       en: ["The building was completed in the late 1990s.", "It reaches a height of over 50 meters above street level.", "The tower serves as headquarters for national financial firms.", "It is located on one of Nicosia's busiest avenues."],
-    }, image: "/poi-images/cyprus-philippides-tower-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-panagia-chrysaliniotissa-landmarks-v2",
     type: "church",
@@ -279,7 +287,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["Eredeti alapítása Kr. u. 450-re vezethető vissza.", "A 11. században alapvető újjáépítésen esett át.", "Ritka bizánci ikonok jelentős gyűjteményét őrzi.", "A velencei falakon belüli legrégebbi lakónegyedben található."],
       ro: ["Fundația originală datează din anul 450 d.Hr.", "A fost reconstruită fundamental în secolul al XI-lea.", "Adăpostește o colecție importantă de icoane bizantine rare.", "Se află în cel mai vechi cartier locuit din interiorul zidurilor."],
       en: ["The original foundation dates back to 450 AD.", "It was fundamentally rebuilt in the 11th century.", "Houses a significant collection of rare Byzantine icons.", "Located in the oldest inhabited quarter within the walls."],
-    }, image: "/poi-images/cyprus-panagia-chrysaliniotissa-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-venetian-walls-nikosia-landmarks-v2",
     type: "landmark",
@@ -310,7 +319,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["A városfal kerülete pontosan 5 kilométer.", "Tizenegy szív alakú bástya erősíti a védelmi rendszert.", "A híres hadmérnök, Giulio Savorgnano tervezte.", "Korábban három főkapu biztosította a bejutást a városba."],
       ro: ["Zidul are o circumferință de exact 5 kilometri.", "Unsprezece bastioane în formă de inimă întăresc apărarea.", "Proiectate de faimosul inginer Giulio Savorgnano.", "Trei porți principale permiteau accesul în oraș în trecut."],
       en: ["The wall has a circumference of exactly 5 kilometers.", "Eleven heart-shaped bastions reinforce the defensive system.", "Designed by the famous engineer Giulio Savorgnano.", "Three main gates previously allowed access to the city."],
-    }, image: "/poi-images/cyprus-venetian-walls-nikosia-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-agios-ioannis-cathedral-landmarks-v2",
     type: "cathedral",
@@ -373,7 +383,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["A jelenlegi épületet 1872-ben fejezték be.", "Udvari mauzóleuma ciprusi mártírok földi maradványait őrzi.", "Egy középkori apácakolostor egykori helyén emelték.", "A templom értékes kéziratokat tartalmazó könyvtárral rendelkezik."],
       ro: ["Construcția actuală a fost finalizată în anul 1872.", "Mausoleul din curte adăpostește oasele martirilor ciprioți.", "A fost ridicată pe locul unei mănăstiri medievale de maici.", "Biserica găzduiește o bibliotecă cu manuscrise de preț."],
       en: ["The current building was completed in the year 1872.", "The courtyard mausoleum holds the remains of Cypriot martyrs.", "It was built on the site of a medieval nunnery.", "The church houses a library with valuable manuscripts."],
-    }, image: "/poi-images/cyprus-phaneromeni-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-dervish-pasha-mansion-landmarks-v2",
     type: "museum",
@@ -404,7 +415,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["A 19. század elején épült Nicosia központjában", "A földszint kőből, az emelet vályogból és fából készült", "1988-ban nyitotta meg kapuit néprajzi múzeumként", "Külön részleg mutatja be az oszmán hímzéseket", "A belső udvar hagyományos ciprusi stílusú", "Egykor az első ciprusi török újság szerkesztőjéé volt"],
       ro: ["Construit la începutul secolului al XIX-lea", "Parterul este din piatră, iar etajul din chirpici", "A devenit muzeu etnografic în anul 1988", "Situat în cartierul tradițional Arabahmet din Nicosia", "Prezintă mobilier otoman din secolele XVIII-XIX", "Curtea interioară include o grădină cu fântână"],
       en: ["Constructed in the early 19th century", "Belonged to the publisher of the first Turkish Cypriot newspaper", "Opened to the public as an ethnographic museum in 1988", "The lower level is built entirely of yellow sandstone", "Upper floors feature mudbrick and timber-framed walls", "Located in the walled city's Arabahmet neighborhood"],
-    }, image: "/poi-images/cyprus-dervish-pasha-mansion-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-byzantine-museum-landmarks-v2",
     type: "museum",
@@ -435,7 +447,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["Több mint 230 ikont mutat be a 9. és 19. század közötti időből.", "Ritka, 10. századi freskótöredékeket is tartalmaz.", "A múzeum a Makariosz Kulturális Alapítvány részét képezi.", "Értékes liturgikus edényeket és aranyhímzéses ruhákat őriz."],
       ro: ["Expune peste 230 de icoane din secolele IX până în XIX.", "Conține fragmente rare de frescă din secolul al X-lea.", "Muzeul face parte din Fundația Culturală Makarios.", "Deține vase liturgice prețioase și veșminte brodate cu aur."],
       en: ["Displays over 230 icons from the 9th to the 19th centuries.", "Contains rare fragments of frescoes from the 10th century.", "The museum is part of the Makarios Cultural Foundation.", "Possesses valuable liturgical vessels and gold-embroidered vestments."],
-    }, image: "/poi-images/cyprus-byzantine-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-leventis-municipal-museum-landmarks-v2",
     type: "museum",
@@ -498,7 +511,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["Eredetileg 'Porta Giuliana' néven ismerték a tervező tiszteletére.", "Belső tereiben kiváló akusztikájú nagytermek találhatók.", "Ma fontos városi kulturális központként és kiállítóhelyként működik.", "Alagútja elég széles volt szekerek és katonai szállítások számára."],
       ro: ["A fost numită inițial 'Porta Giuliana' în onoarea proiectantului.", "Complexul include o sală mare cu o acustică excelentă.", "Servește astăzi ca centru cultural urban important pentru expoziții.", "Tunelul este destul de larg pentru căruțe și transporturi militare."],
       en: ["Was originally called 'Porta Giuliana' in honor of the designer.", "The site includes a large hall with excellent acoustics.", "Now serves as an important municipal cultural center for exhibitions.", "The tunnel passage is wide enough for wagons and military transports."],
-    }, image: "/poi-images/cyprus-famagusta-gate-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-archbishop-palace-landmarks-v2",
     type: "palace",
@@ -529,7 +543,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["1956 és 1960 között épült helyi homokkőből.", "Előtte Makariosz érsek 10 méter magas bronzszobra áll.", "Az épületben hivatali szobák és egy magánkápolna is található.", "Az együttes velencei és bizánci stílusjegyeket ötvöz."],
       ro: ["Ridicată între 1956 și 1960 din gresie locală.", "O statuie de bronz de 10 metri a Arhiepiscopului Makarios III stă în față.", "Clădirea adăpostește birourile oficiale și o capelă privată.", "Complexul îmbină elemente de stil venețian și bizantin."],
       en: ["Erected between 1956 and 1960 using local sandstone.", "A 10-meter high bronze statue of Archbishop Makarios III stands in front.", "The building houses the official offices and a private chapel.", "The complex combines Venetian and Byzantine style elements."],
-    }, image: "/poi-images/cyprus-archbishop-palace-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-omerye-mosque-landmarks-v2",
     type: "landmark",
@@ -560,7 +575,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["A 14. századi Mária-templom gótikus stílusban épült", "Az 1570-es nicosiai ostrom során az épület súlyosan megsérült", "A felújítás során egy 25 méter magas minaretet emeltek", "I. Omár kalifa emlékére kapta jelenlegi nevét", "A templom eredeti vízköpőit beépítették az új falakba", "A déli oldalon egy 16. századi oszmán fürdő található"],
       ro: ["Fundația datează din secolul al XIV-lea", "Transformată în moschee după cucerirea otomană din 1571", "Numele provine de la califul Umar ibn al-Khattab", "Minaretul de piatră a fost adăugat la sfârșitul secolului XVI", "Structura principală păstrează arcele gotice originale", "Complexul include băile publice Omerye adiacente"],
       en: ["Originally built as a 14th-century Augustinian monastery", "Heavily damaged during the 1570 Ottoman siege of Nicosia", "Converted into a mosque in 1571 by Lala Mustafa Pasha", "Named in honor of the 7th-century Caliph Umar", "Features a prominent stone minaret added in the late 1500s", "Original Gothic rib vaulting remains visible inside"],
-    }, image: "/poi-images/cyprus-omerye-mosque-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-paphos-gate-landmarks-v2",
     type: "landmark",
@@ -591,7 +607,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["Eredetileg 'Porta San Domenico' néven ismerték.", "A városfal egyik legmagasabb pontján helyezkedik el.", "Közelében található a katolikus Szent Kereszt-templom.", "A kaput 1567-ben emelték a velencei építők."],
       ro: ["Era cunoscută inițial sub numele de 'Porta San Domenico'.", "Se află într-unul dintre cele mai înalte puncte ale zidului.", "În apropiere se găsește biserica catolică a Sfintei Cruci.", "Poarta a fost ridicată de venețieni în anul 1567."],
       en: ["Was originally known as 'Porta San Domenico'.", "Located at one of the highest points of the city wall.", "The Catholic Holy Cross Church is situated nearby.", "The gate was erected by the Venetians in the year 1567."],
-    }, image: "/poi-images/cyprus-paphos-gate-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-church-of-st-kassianos-landmarks-v2",
     type: "church",
@@ -622,7 +639,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["A jelenlegi épület a 18. század közepéről származik.", "Értékes ezüst ereklyetartót őriz a szent maradványaival.", "A templom a történelmi Chrysaliniotissa negyed része.", "Belső terét finom kidolgozású ikonográfiai alkotások díszítik."],
       ro: ["Structura actuală datează de la mijlocul secolului al XVIII-lea.", "Păstrează o raclă de argint valoroasă cu moaștele sfântului.", "Biserica aparține cartierului istoric Chrysaliniotissa.", "Se remarcă prin iconografii fine în interior."],
       en: ["The current structure dates from the mid-18th century.", "Preserves a valuable silver shrine with the saint's relics.", "The church belongs to the historic Chrysaliniotissa quarter.", "It is distinguished by fine iconographies in the interior."],
-    }, image: "/poi-images/cyprus-church-of-st-kassianos-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-makarios-cultural-foundation-landmarks-v2",
     type: "museum",
@@ -653,7 +671,8 @@ export const cyprusLandmarksV2: POI[] = [
       hu: ["1978-ban alapította III. Makariosz érsek.", "Itt található a város jelentős Bizánci Múzeuma.", "Könyvtára több mint 30 000 ritka kötetet és térképet tartalmaz.", "Öt évszázad európai festészetét bemutató galériákkal rendelkezik."],
       ro: ["Fondată în anul 1978 de Arhiepiscopul Makarios III.", "Găzduiește importantul Muzeu Bizantin al orașului.", "Biblioteca cuprinde peste 30.000 de volume și hărți rare.", "Dispune de galerii cu pictură europeană din cinci secole."],
       en: ["Founded in 1978 by Archbishop Makarios III.", "Houses the city's significant Byzantine Museum.", "The library includes over 30,000 rare volumes and maps.", "Features galleries with European painting from five centuries."],
-    }, image: "/poi-images/cyprus-makarios-cultural-foundation-landmarks-v2.webp"},
+    },
+  },
   {
     id: "cyprus-agios-nikolaos-church-landmarks-v2",
     type: "church",

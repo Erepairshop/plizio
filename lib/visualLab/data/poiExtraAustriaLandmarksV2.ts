@@ -31,7 +31,8 @@ export const austriaLandmarksV2: POI[] = [
       hu: ["1250 körül épült", "A lakótorony 22 méter magas", "Első írásos említése 1262-ből", "1645-ben új tulajdonoshoz került", "2 méter vastag védőfalak", "A 20. században restaurálták"],
       ro: ["Construit în jurul anului 1250", "Turnul principal are 22 metri", "Menționat documentar în 1262", "Vândut unei familii nobiliare în 1645", "Ziduri de incintă groase de 2 m", "Restaurat integral după 1900"],
       en: ["Established around 1250", "Keep height is 22 meters", "First documented in 1262", "Major ownership change in 1645", "Walls are 2 meters thick", "Restoration completed in 1920"],
-    }, image: "/poi-images/austria-burg-gudenstein-landmarks-v2.webp"},
+    },
+  },
   {
     id: "austria-kloster-seckau-landmarks-v2",
     type: "cathedral",
@@ -62,7 +63,8 @@ export const austriaLandmarksV2: POI[] = [
       hu: ["1140-ben alapították", "A mauzóleum 1587-ben épült", "1782-ig püspöki székhely volt", "A bazilika hossza 65 méter", "Tornyai 47 méter magasak", "1883 óta bencés tulajdon"],
       ro: ["Fondată în anul 1140", "Mausoleu finalizat după 1587", "Sediu episcopal până în 1782", "Lungimea bazilicii este de 65 m", "Două turnuri de 47 metri", "Ordinul benedictin revine în 1883"],
       en: ["Founded in 1140", "Mausoleum construction started 1587", "Episcopal seat until 1782", "Basilica length: 65 meters", "Two towers at 47 meters height", "Benedictine ownership since 1883"],
-    }, image: "/poi-images/austria-kloster-seckau-landmarks-v2.webp"},
+    },
+  },
   {
     id: "austria-stadtturm-wels-landmarks-v2",
     type: "tower",
@@ -125,7 +127,8 @@ export const austriaLandmarksV2: POI[] = [
       hu: ["Alapítás éve kb. 740", "Bécs legrégebbi üvegablakai", "Harangjai 1280-ból származnak", "1276-ban tűzvész pusztította", "12. századi román torony", "A középkori sókikötőnél fekszik"],
       ro: ["Fondată în jurul anului 740", "Cele mai vechi vitralii din Viena", "Clopote turnate în anul 1280", "Afectată de incendiu în 1276", "Turn romanic din secolul XII", "Situată lângă vechiul port de sare"],
       en: ["Founded around 740 AD", "Oldest stained glass in Vienna", "Bells dating to 1280", "Major fire damage in 1276", "Romanesque tower from 12th century", "Located in the former salt market"],
-    }, image: "/poi-images/austria-kirche-st-ruprecht-landmarks-v2.webp"},
+    },
+  },
   {
     id: "austria-burg-glanegg-landmarks-v2",
     type: "castle",
@@ -156,7 +159,8 @@ export const austriaLandmarksV2: POI[] = [
       hu: ["1121-ben említik először", "A belső vár területe 1500 m²", "1473-tól Habsburg birtok", "1840-ben villámcsapás rombolta le", "1996 óta tart a rekonstrukció", "38 méter hosszú palotaépület"],
       ro: ["Prima atestare în 1121", "Suprafața nucleului: 1500 m²", "Proprietate habsburgică din 1473", "Lovită de trăsnet în 1840", "Eforturi de restaurare din 1996", "Palatul are o lungime de 38 m"],
       en: ["First documented in 1121", "Core castle area: 1,500 m²", "Habsburg property from 1473", "Struck by lightning in 1840", "Restoration active since 1996", "Great hall is 38 meters long"],
-    }, image: "/poi-images/austria-burg-glanegg-landmarks-v2.webp"},
+    },
+  },
   {
     id: "austria-schloss-lamberg-landmarks-v2",
     type: "palace",
@@ -187,7 +191,8 @@ export const austriaLandmarksV2: POI[] = [
       hu: ["A vár alapítása 980 körül", "Barokk átépítés 1727 után", "1938-ig a Lamberg grófoké volt", "Angolstílusú kastélyparkkal bír", "Ma házasságkötő teremként működik", "Több mint 100 díszes szoba"],
       ro: ["Origini în jurul anului 980", "Reconstruit baroc după 1727", "Deținut de familia Lamberg până în 1938", "Parc amenajat în stil englezesc", "Găzduiește în prezent oficiul stării civile", "Peste 100 de camere somptuoase"],
       en: ["Original fortress from 980 AD", "Baroque redesign after 1727 fire", "Lamberg family owned until 1938", "Features an English landscape park", "Current use: Registry office", "Contains over 100 grand rooms"],
-    }, image: "/poi-images/austria-schloss-lamberg-landmarks-v2.webp"},
+    },
+  },
   {
     id: "austria-kirche-st-anna-landmarks-v2",
     type: "church",

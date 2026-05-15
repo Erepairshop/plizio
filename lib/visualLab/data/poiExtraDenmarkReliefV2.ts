@@ -31,7 +31,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["172,54 méteres teljes magassággal rendelkezik a halmokkal.", "A természetes talajszint pontosan 170,77 méter.", "Jylland keleti részének dombságán helyezkedik el.", "Három bronzkori temetkezési halom koronázza meg.", "A jégkorszak végi gleccserek hordaléka alakította ki.", "Horsens község közigazgatási területéhez tartozik."],
       ro: ["Altitudinea totală ajunge la exact 172,54 metri.", "Baza naturală măsoară 170,77 metri deasupra mării.", "Găzduiește trei tumuli datând din Epoca Bronzului.", "Relieful a fost format de ghețari în glaciațiunea Weichsel.", "Este situat în partea de est a Peninsulei Iutlanda.", "Aparține de teritoriul administrativ Horsens Kommune."],
       en: ["Reaches a total elevation of exactly 172.54 meters.", "The natural terrain elevation is 170.77 meters.", "Features three distinct burial mounds from the Bronze Age.", "Formed by glacial deposits during the Weichselian glaciation.", "Located within the administrative borders of Horsens.", "Part of the prominent East Jutland ridge system."],
-    }, image: "/poi-images/denmark-yding-skovhoj-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-ejer-bavnehoj-relief-v2",
     type: "peak",
@@ -62,7 +63,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["A halom természetes magassága pontosan 170,89 méter.", "A csúcson lévő téglatorony 13 méter magasra nyúlik.", "Az emlékművet az 1924-es év során építették fel.", "Dél-Jylland 1920-as visszacsatolásának állít emléket.", "A weichseli eljegesedés morénahordaléka hozta létre.", "Skanderborg község területén fekszik Jyllandban."],
       ro: ["Altitudinea naturală a reliefului este de 170,89 metri.", "Pe vârf se află un turn de cărămidă de 13 metri înălțime.", "Construcția turnului a fost finalizată în anul 1924.", "Comemorează reunificarea cu Iutlanda de Sud din 1920.", "Este al treilea cel mai înalt punct natural danez.", "Relieful este dominat de sedimente glaciare masive."],
       en: ["The natural elevation reaches precisely 170.89 meters.", "A 13-meter tall memorial tower stands on the summit.", "The brick observation tower was completed in 1924.", "Commemorates the 1920 reunification of Southern Jutland.", "Formed from thick layers of Weichselian glacial till.", "Situated in Skanderborg Municipality in eastern Jutland."],
-    }, image: "/poi-images/denmark-ejer-bavnehoj-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-rind-bakkekam-relief-v2",
     type: "valley",
@@ -93,7 +95,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Magasság: 95 m tszf.", "Gerinc hossza: kb. 3 km", "Távolság Herningtől: 5 km", "Rind Banke természetvédelmi terület: 150 ha", "Túraútvonalak: 15 km jelölt útvonal", "Növényzet: főként tűlevelű erdő és hanga"],
       ro: ["Înălțime: 95 m deasupra nivelului mării", "Lungimea crestei: aproximativ 3 km", "Distanța până la Herning: 5 km", "Rezervația Rind Banke: 150 ha", "Trasee de drumeție: 15 km de trasee marcate", "Vegetație: predominant pădure de conifere și peisaj de mlaștină"],
       en: ["Height: 95 m above sea level", "Ridge length: approx. 3 km", "Distance to Herning: 5 km", "Rind Banke reserve: 150 ha", "Hiking trails: 15 km of marked routes", "Vegetation: predominantly coniferous forest and heathland"],
-    }, image: "/poi-images/denmark-rind-bakkekam-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-syv-hoje-relief-v2",
     type: "peak",
@@ -124,7 +127,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["A név jelentése szó szerinti fordításban Hét Halom.", "A halmok keletkezése a dán bronzkorra tehető.", "A fennsík magassága megközelíti a 100 métert.", "A talajszerkezet főként morénahomokból és agyagból áll.", "Őskori rituális temetkezési központként funkcionált.", "A domborzatot jégkorszak végi olvadékvizek alakították."],
       ro: ["Numele formațiunii se traduce prin Cele Șapte Movile.", "Movilele au fost create în Epoca Bronzului nordic.", "Platoul se ridică la 100 de metri deasupra mării.", "Solul conține argilă glaciară și nisip stratificat.", "A funcționat ca loc de înmormântare preistoric.", "Eroziunea postglaciară a modelat marginile platoului."],
       en: ["The site's name directly translates to Seven Barrows.", "The mounds originate from the Nordic Bronze Age.", "Situated on a plateau reaching 100 meters in elevation.", "Composed of layered glacial sand, gravel, and clay.", "Served as an important prehistoric ritual landscape.", "Shaped extensively by late-glacial meltwater processes."],
-    }, image: "/poi-images/denmark-syv-hoje-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-skamlingsbanken-relief-v2",
     type: "peak",
@@ -155,7 +159,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Legmagasabb tengerszint feletti pontja 113 méter.", "Dél-Jylland legmagasabb természetes domborzati formája.", "Történelmi népgyűléseket tartottak itt 1843-1844-ben.", "Kolding és Christiansfeld települések között fekszik.", "Egy 16 méteres emlékoszlopot állítottak rajta 1863-ban.", "A Kis-Bælt gleccser végmorénája hozta létre."],
       ro: ["Vârful are o altitudine maximă de 113 metri.", "Este cea mai înaltă cotă naturală din Iutlanda de Sud.", "A găzduit adunări populare majore între 1843 și 1844.", "Este situat între Kolding și așezarea Christiansfeld.", "Un obelisc înalt de 16 metri a fost ridicat în 1863.", "Format din sedimentele terminale ale ghețarului Micul Belt."],
       en: ["The peak reaches a maximum elevation of 113 meters.", "Recognized as the highest point in Southern Jutland.", "Hosted massive democratic assemblies from 1843 to 1844.", "Located geographically between Kolding and Christiansfeld.", "Features a 16-meter granite obelisk erected in 1863.", "Formed by the terminal moraine of the Little Belt glacier."],
-    }, image: "/poi-images/denmark-skamlingsbanken-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-knudshoved-odde-relief-v2",
     type: "landmark",
@@ -186,7 +191,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["A félsziget hossza: kb. 3 km", "Védett terület: 200 ha", "Legmagasabb dűne: 10 m", "Madárfajok: több mint 150 regisztrált", "Árapály-tartomány: akár 0,5 m", "Távolság Nyborgtól: 8 km"],
       ro: ["Lungimea peninsulei: aproximativ 3 km", "Suprafața rezervației: 200 ha", "Cea mai înaltă dună: 10 m", "Specii de păsări: peste 150 înregistrate", "Amplitudinea mareelor: până la 0,5 m", "Distanța până la Nyborg: 8 km"],
       en: ["Peninsula length: approx. 3 km", "Reserve area: 200 ha", "Highest dune: 10 m", "Bird species: over 150 recorded", "Tidal range: up to 0.5 m", "Distance to Nyborg: 8 km"],
-    }, image: "/poi-images/denmark-knudshoved-odde-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-helgenaes-relief-v2",
     type: "landmark",
@@ -217,7 +223,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["A félsziget hossza: 10 km", "Legmagasabb pont: 80 m tszf.", "Terület: kb. 40 km²", "Partvonal hossza: 25 km", "Madárfajok: több mint 200 regisztrált", "Mészkő előfordulások: a felszín kb. 10%-a"],
       ro: ["Lungimea peninsulei: 10 km", "Cel mai înalt punct: 80 m deasupra nivelului mării", "Suprafață: aproximativ 40 km²", "Lungimea coastei: 25 km", "Specii de păsări: peste 200 înregistrate", "Depozite de calcar: aproximativ 10% din suprafață"],
       en: ["Peninsula length: 10 km", "Highest point: 80 m above sea level", "Area: approx. 40 km²", "Coastline length: 25 km", "Bird species: over 200 recorded", "Limestone deposits: about 10% of surface"],
-    }, image: "/poi-images/denmark-helgenaes-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-agard-strand-relief-v2",
     type: "landmark",
@@ -248,7 +255,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Strand hossza: 2 km", "Dűnemagasság: akár 15 m", "Távolság Fjerritslevtől: 3 km", "Víz hőmérséklete augusztusban: kb. 18°C", "Kempingek száma: 2", "Tőzegkitermelés: 1950-ig folyt"],
       ro: ["Lungimea plajei: 2 km", "Înălțimea dunelor: până la 15 m", "Distanța până la Fjerritslev: 3 km", "Temperatura apei în august: aproximativ 18°C", "Număr de campinguri: 2", "Extracția turbei: efectuată până în 1950"],
       en: ["Beach length: 2 km", "Dune height: up to 15 m", "Distance to Fjerritslev: 3 km", "Water temperature in August: approx. 18°C", "Number of campsites: 2", "Peat extraction: operated until 1950"],
-    }, image: "/poi-images/denmark-agard-strand-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-vogns-hoje-relief-v2",
     type: "peak",
@@ -279,7 +287,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["A legmagasabb pontja mintegy 55 méter magasan van.", "Észak-Jylland Vendsyssel nevű területén fekszik.", "Talaja többségében jégkorszaki homokhordalékból áll.", "Több vaskori település nyomait tárták fel a területen.", "Az atlanti parti szelek erős eróziós hatást gyakorolnak rá.", "A dombot nagyrészt tűlevelű erdők borítják be."],
       ro: ["Vârful principal atinge aproximativ 55 de metri.", "Este localizat în regiunea nordică Vendsyssel.", "Format predominant din nisipuri și pietrișuri glaciare.", "Conține vestigii arheologice din Epoca Fierului nordic.", "Este supus eroziunii constante a vânturilor atlantice.", "Vegetația este dominată de plantații de conifere."],
       en: ["The highest crest reaches approximately 55 meters.", "Located in the northern Danish region of Vendsyssel.", "Composed primarily of coarse glacial sand deposits.", "Contains archaeological traces of Iron Age settlements.", "Exposed to significant erosion from Atlantic wind patterns.", "Covered largely by managed coniferous forest plantations."],
-    }, image: "/poi-images/denmark-vogns-hoje-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-mols-kyst-relief-v2",
     type: "landmark",
@@ -310,7 +319,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Partvonal hossza: kb. 15 km", "Nemzeti Park területe: 180 km²", "Legmagasabb szikla: 50 m", "Nemzeti Park alapítási éve: 2009", "Növényfajok: több mint 300", "Halfajok az öbölben: 40"],
       ro: ["Lungimea coastei: aproximativ 15 km", "Suprafața parcului național: 180 km²", "Înălțimea maximă a falezei: 50 m", "Anul înființării parcului național: 2009", "Specii de plante: peste 300", "Specii de pești în golf: 40"],
       en: ["Coastline length: approx. 15 km", "National park area: 180 km²", "Highest cliff: 50 m", "National park established: 2009", "Plant species: over 300", "Fish species in the bay: 40"],
-    }, image: "/poi-images/denmark-mols-kyst-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-kragelund-bakke-relief-v2",
     type: "peak",
@@ -341,7 +351,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Kb. 80 méteres magasság", "Silkeborgi tóvidék", "Jégkorszaki moréna", "Homokos talajszerkezet"],
       ro: ["Înălțime aprox. 80 m", "Districtul lacurilor Silkeborg", "Origine glaciară", "Sol predominant nisipos"],
       en: ["Approx. 80m elevation", "Silkeborg Lake District", "Glacial moraine formation", "Sandy soil composition"],
-    }, image: "/poi-images/denmark-kragelund-bakke-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-fakse-kalkbrud-relief-v2",
     type: "landmark",
@@ -372,7 +383,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Mélység: 100 m", "Átmérő: 1,5 km", "Működési idő: 1854-1980", "Szirtek magassága: akár 40 m", "Fosszíliák: Dániai korszak, kb. 65 millió éves", "Tó területe: kb. 0,2 km²"],
       ro: ["Adâncime: 100 m", "Diametru: 1,5 km", "Perioada de funcționare: 1854-1980", "Înălțimea stâncilor: până la 40 m", "Fosile: Danian, vechi de aproximativ 65 de milioane de ani", "Suprafața lacului: aproximativ 0,2 km²"],
       en: ["Depth: 100 m", "Diameter: 1.5 km", "Operation period: 1854-1980", "Cliff height: up to 40 m", "Fossils: Danian, about 65 million years old", "Lake area: approx. 0.2 km²"],
-    }, image: "/poi-images/denmark-fakse-kalkbrud-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-stendyssen-relief-v2",
     type: "peak",
@@ -403,7 +415,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Kr. e. 3500 körül épült", "Megalitikus kőépítmény", "Újkőkorszaki műemlék", "Rituális temetkezési hely"],
       ro: ["Construit în cca. 3500 î.Hr.", "Structură megalitică", "Monument neolitic", "Sit funerar ritualic"],
       en: ["Built around 3500 BC", "Megalithic stone circle", "Neolithic monument", "Ritual burial site"],
-    }, image: "/poi-images/denmark-stendyssen-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-jyske-as-relief-v2",
     type: "peak",
@@ -434,7 +447,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["A dombvonulat teljes hossza megközelíti a 40 kilométert.", "A Knøsen nevű legmagasabb pontja pontosan 136 méter.", "A weichseli eljegesedés peremmorénájaként alakult ki.", "Fontos vízválasztó vonalat képez Észak-Jylland régiójában.", "A vonulat szélessége 2 és 5 kilométer között változik.", "Bükkösök és mély olvadékvíz-völgyek szabdalják fel."],
       ro: ["Se întinde pe o lungime totală de aproape 40 de kilometri.", "Vârful maxim Knøsen măsoară exact 136 de metri.", "S-a format ca o morenă de margine în glaciațiunea Weichsel.", "Acționează ca o cumpănă a apelor în nordul Iutlandei.", "Lățimea formațiunii variază între 2 și 5 kilometri.", "Este fragmentat de văi adânci create de apele de topire."],
       en: ["The ridge extends for a total length of nearly 40 kilometers.", "Its highest point, Knøsen, measures exactly 136 meters.", "Originated as a massive terminal moraine during the Ice Age.", "Serves as the primary drainage divide in North Jutland.", "The width of the ridge varies between 2 and 5 kilometers.", "Characterized by beech forests and deep meltwater valleys."],
-    }, image: "/poi-images/denmark-jyske-as-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-knudshoved-relief-v2",
     type: "landmark",
@@ -465,7 +479,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["A földnyelv hossza: 2 km", "Világítótorony épült: 1902", "Tűzmagasság: 13 m", "Fókafaj: közönséges fóka (Phoca vitulina)", "Távolság Nyborgtól: 5 km", "Vízmélység: akár 20 m"],
       ro: ["Lungimea capului: 2 km", "Far construit: 1902", "Înălțimea focală: 13 m", "Specie de focă: focă comună (Phoca vitulina)", "Distanța până la Nyborg: 5 km", "Adâncimea apei: până la 20 m"],
       en: ["Headland length: 2 km", "Lighthouse built: 1902", "Focal height: 13 m", "Seal species: harbor seal (Phoca vitulina)", "Distance to Nyborg: 5 km", "Water depth: up to 20 m"],
-    }, image: "/poi-images/denmark-knudshoved-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-borre-bakkekam-relief-v2",
     type: "peak",
@@ -496,7 +511,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Földtanilag Møn szigetének szerkezeti rendszeréhez tartozik.", "Az alapkőzet több mint 70 millió éves írókrétából áll.", "A legmagasabb részei elérik a 143 métert a régióban.", "A jégkorszaki gleccserek nyomása gyűrte fel a rétegeket.", "Mészben gazdag talaja ritka orchideafajoknak ad otthont.", "A domboldalak meredeken lejtenek a Balti-tenger irányába."],
       ro: ["Aparține sistemului geologic asociat cu insula Møn.", "Substratul este format din cretă veche de 70 de milioane de ani.", "Altitudinile maxime din zonă ajung la 143 de metri.", "Straturile au fost cutate de forța masivă a ghețarilor.", "Solul calcaros permite creșterea unor specii rare de orhidee.", "Pantele coboară abrupt spre țărmul Mării Baltice."],
       en: ["Geologically linked to the chalk formations of Møn island.", "The bedrock consists of 70-million-year-old Cretaceous chalk.", "Local peaks in the region reach elevations up to 143 meters.", "The strata were folded upward by massive glacial pressure.", "The highly calcareous soils support rare terrestrial orchids.", "The eastern flanks slope steeply toward the Baltic Sea."],
-    }, image: "/poi-images/denmark-borre-bakkekam-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-aars-hoje-relief-v2",
     type: "peak",
@@ -559,7 +575,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["55 millió éves rétegek", "Vulkáni hamucsíkok", "Moler (diatomaföld)", "Limfjord elhelyezkedés"],
       ro: ["Vechime 55 mil. ani", "Straturi de cenușă vulcanică", "Argilă tip Moler", "Locație în Limfjord"],
       en: ["55 million years old", "Volcanic ash layers", "Mo-clay (moler)", "Limfjord location"],
-    }, image: "/poi-images/denmark-fur-bakke-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-dovre-hoje-relief-v2",
     type: "peak",
@@ -590,7 +607,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["A dombtetők magassága 40 és 60 méter között mozog.", "A jégtakaró alatti olvadékvizek hordalékából jöttek létre.", "A talaj tápanyagban szegény és erősen vízáteresztő.", "Kame- vagy óz-típusú glaciális formakincset képviselnek.", "Bizonyos részein ipari kavicsbányászatot folytatnak.", "A természetes növénytakarót leginkább pusztai hanga alkotja."],
       ro: ["Vârfurile ating altitudini cuprinse între 40 și 60 de metri.", "Formate de fluxurile de apă de topire de sub calota glaciară.", "Solul este permeabil și sărac în substanțe nutritive.", "Prezintă caracteristicile unui peisaj glaciar de tip kame.", "Unele sectoare sunt exploatate pentru extracția pietrișului.", "Vegetația naturală primară este dominată de iarbă neagră."],
       en: ["The hilltops range in elevation between 40 and 60 meters.", "Formed by subglacial meltwater carrying heavy sediment loads.", "The soil structure is highly drained and nutrient-poor.", "Exhibits characteristics typical of esker or kame topography.", "Selected areas are currently utilized for gravel extraction.", "The natural land cover consists primarily of heather scrub."],
-    }, image: "/poi-images/denmark-dovre-hoje-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-boserup-relief-v2",
     type: "landmark",
@@ -621,7 +639,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Terület: 300 ha", "Legmagasabb pont: 60 m tszf.", "Fafajok: bükk (70%), tölgy (20%)", "Vadállomány: dámszarvas, őz, róka", "Távolság Roskildétől: 3 km", "Túraútvonalak: 15 km"],
       ro: ["Suprafață: 300 ha", "Cel mai înalt punct: 60 m deasupra nivelului mării", "Specii de copaci: fag (70%), stejar (20%)", "Faună: căprioară, cerb lopătar, vulpe", "Distanța până la Roskilde: 3 km", "Trasee de drumeție: 15 km"],
       en: ["Area: 300 ha", "Highest point: 60 m above sea level", "Tree species: beech (70%), oak (20%)", "Wildlife: fallow deer, roe deer, fox", "Distance to Roskilde: 3 km", "Hiking trails: 15 km"],
-    }, image: "/poi-images/denmark-boserup-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-skovbjerg-relief-v2",
     type: "peak",
@@ -684,7 +703,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Hosszúság: 20 km", "Minimális szélesség: 200 m", "Maximális dűnemagasság: 20 m", "Madárfajok: több mint 100 költőfaj", "Harboøre lakossága: kb. 1.500", "Út: 181-es út"],
       ro: ["Lungime: 20 km", "Lățime minimă: 200 m", "Înălțimea maximă a dunelor: 20 m", "Specii de păsări: peste 100 de specii cuibăritoare", "Populația Harboøre: aproximativ 1.500", "Drum: Ruta 181"],
       en: ["Length: 20 km", "Minimum width: 200 m", "Maximum dune height: 20 m", "Bird species: over 100 breeding species", "Harboøre population: approx. 1,500", "Road: Route 181"],
-    }, image: "/poi-images/denmark-harboore-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-frøbjerg-relief-v2",
     type: "peak",
@@ -715,7 +735,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["131 méteres magasság", "Fünen szigete", "Történelmi őrtűzhely", "Emlékhely a csúcson"],
       ro: ["Înălțime 131 m", "Insula Funen", "Deal de semnalizare", "Sit memorial pe vârf"],
       en: ["131m elevation", "Funen island", "Historical beacon hill", "Memorial site at peak"],
-    }, image: "/poi-images/denmark-frøbjerg-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-tvilum-relief-v2",
     type: "peak",
@@ -746,7 +767,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Gudenå folyó völgye", "Jégkorszaki olvadékvíz", "Meredek rézsűk", "Közép-Jütland"],
       ro: ["Valea râului Gudenå", "Apă de topire glaciară", "Pante abrupte", "Iutlanda Centrală"],
       en: ["Gudenå river valley", "Glacial meltwater origin", "Steep terrain", "Central Jutland"],
-    }, image: "/poi-images/denmark-tvilum-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-skjold-relief-v2",
     type: "peak",
@@ -777,7 +799,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["A dombgerincek magassága meghaladja az 50 métert.", "Aarhus város nyugati elővárosi övezetében található.", "A belföldi jégtakaró alatti alagútvölgyként keletkezett.", "A völgyet elhalt jégtömbök által hagyott mélyedések tagolják.", "A Skjoldhøjkilen zöld folyosóként funkcionál a városban.", "A lejtőkön összetett homok- és agyagrétegződés figyelhető meg."],
       ro: ["Crestele dealurilor depășesc altitudinea de 50 de metri.", "Este situat în zona suburbană vestică a orașului Aarhus.", "S-a format ca o vale tunel sub calota glaciară.", "Valea este marcată de depresiuni lăsate de blocurile de gheață moartă.", "Sectorul Skjoldhøjkilen servește drept coridor ecologic verde.", "Versanții prezintă o stratificare complexă de nisip și argilă."],
       en: ["The ridge crests reach elevations exceeding 50 meters.", "Located in the western suburban outskirts of Aarhus municipality.", "Formed dynamically as a subglacial tunnel valley under the ice sheet.", "The valley floor is dotted with kettle holes from dead ice.", "The Skjoldhøjkilen area functions as a vital urban greenbelt.", "The slopes exhibit complex stratification of glacial clay and sand."],
-    }, image: "/poi-images/denmark-skjold-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-vognserup-relief-v2",
     type: "valley",
@@ -808,7 +831,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Terület: 600 ha", "Tó területe: 20 ha", "Legmagasabb pont: 80 m tszf.", "Fafajok: tölgy (40%), bükk (30%)", "Vadállomány: őz, vaddisznó", "Túraútvonalak: 20 km"],
       ro: ["Suprafață: 600 ha", "Suprafața lacului: 20 ha", "Cel mai înalt punct: 80 m deasupra nivelului mării", "Specii de copaci: stejar (40%), fag (30%)", "Faună: căprioară, mistreț", "Trasee de drumeție: 20 km"],
       en: ["Area: 600 ha", "Lake area: 20 ha", "Highest point: 80 m above sea level", "Tree species: oak (40%), beech (30%)", "Wildlife: roe deer, wild boar", "Hiking trails: 20 km"],
-    }, image: "/poi-images/denmark-vognserup-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-mols-bjerge-relief-v2",
     type: "mountain",
@@ -839,7 +863,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Legmagasabb pont: Agri Bavnehøj (137 m)", "Nemzeti Park területe: 180 km²", "Keletkezés: kb. 12.000 évvel ezelőtt", "Növényfajok: több mint 400", "Túraútvonalak: 100 km", "Éves látogatók: kb. 1,5 millió"],
       ro: ["Cel mai înalt punct: Agri Bavnehøj (137 m)", "Suprafața parcului național: 180 km²", "Formare: acum aproximativ 12.000 de ani", "Specii de plante: peste 400", "Trasee de drumeție: 100 km", "Vizitatori anual: aproximativ 1,5 milioane"],
       en: ["Highest point: Agri Bavnehøj (137 m)", "National park area: 180 km²", "Formation: about 12,000 years ago", "Plant species: over 400", "Hiking trails: 100 km", "Annual visitors: approx. 1.5 million"],
-    }, image: "/poi-images/denmark-mols-bjerge-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-knuds-hoje-relief-v2",
     type: "peak",
@@ -902,7 +927,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["A gerinc körülbelül 35 méterre emelkedik a tengerszint fölé.", "Jylland homokos nyugati partvidékének vízgyűjtőjén fekszik.", "Jégkorszaki olvadékvizek által lerakott homokból áll.", "Felszínét több helyen fiatalabb szárazföldi dűnék fedik.", "Homoki zab és telepített fenyvesek kötik meg a talaját.", "Jelentős történelmi futóhomok-erózió nyomait viseli magán."],
       ro: ["Creasta se ridică la aproximativ 35 de metri deasupra mării.", "Este situată în zona coastei vestice nisipoase a Iutlandei.", "Compusă din nisipuri depuse de apele de topire glaciare.", "Suprafața este adesea acoperită de dune continentale migratoare.", "Este stabilizată cu iarbă de plajă și plantații de pin.", "Păstrează urme severe de eroziune istorică eoliană."],
       en: ["The ridge rises approximately 35 meters above sea level.", "Situated in the catchment of Jutland's sandy western coastline.", "Constructed purely from Ice Age meltwater sand deposits.", "The surface is frequently overlaid by migrating inland dunes.", "Stabilized currently by marram grass and pine plantations.", "Exhibits severe historical scarring from windblown sand erosion."],
-    }, image: "/poi-images/denmark-aal-bakke-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-bindslev-relief-v2",
     type: "peak",
@@ -933,7 +959,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Észak-Jütland", "Uggerby Å folyó", "Posztglaciális emelkedés", "Dűnehomok rétegek"],
       ro: ["Iutlanda de Nord", "Râul Uggerby Å", "Ridicare postglaciară", "Depozite de nisip"],
       en: ["North Jutland", "Uggerby Å river", "Post-glacial rebound", "Sand dune deposits"],
-    }, image: "/poi-images/denmark-bindslev-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-gribskov-bakke-relief-v2",
     type: "peak",
@@ -964,7 +991,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Gribskov erdő", "Sjælland szigete", "UNESCO örökség közelében", "Morénavidék"],
       ro: ["Pădurea Gribskov", "Insula Sealand", "Lângă sit UNESCO", "Relief de morenă"],
       en: ["Gribskov forest", "Zealand island", "Near UNESCO site", "Moraine landscape"],
-    }, image: "/poi-images/denmark-gribskov-bakke-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-fureso-bakke-relief-v2",
     type: "peak",
@@ -995,7 +1023,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Furesø mélysége: 37m", "Alagútvölgy-rendszer", "Észak-Sjælland", "Erdős moréna"],
       ro: ["Adâncime Furesø: 37 m", "Sistem de văi glaciare", "Sealand de Nord", "Morenă împădurită"],
       en: ["Furesø depth: 37m", "Tunnel valley system", "North Zealand", "Forested moraine"],
-    }, image: "/poi-images/denmark-fureso-bakke-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-bronshoj-relief-v2",
     type: "peak",
@@ -1026,7 +1055,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Koppenhágai kerület", "Végmoréna", "Carlstad tábor 1658", "Városi magaslat"],
       ro: ["Cartier din Copenhaga", "Morenă terminală", "Tabăra Carlstad 1658", "Punct înalt urban"],
       en: ["Copenhagen district", "Terminal moraine", "Carlstad camp 1658", "Urban high point"],
-    }, image: "/poi-images/denmark-bronshoj-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-slagelse-bakke-relief-v2",
     type: "peak",
@@ -1057,7 +1087,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["A dombtetők magassága 40 és 70 méter között alakul.", "A nagy Sjælland sziget nyugati régiójában terül el.", "Az altalajt vastag, jégkorszaki fenékmoréna-réteg alkotja.", "A talajok kiemelkedően magas mezőgazdasági hozamot adnak.", "A Bælt-tengeri jégár formálta a weichseli glaciális során.", "A domborzat enyhén hullámos, lefolyástalan mélyedésekkel."],
       ro: ["Vârfurile dealurilor ating altitudini de 40 până la 70 de metri.", "Se află în partea de vest a marii insule Zeelanda.", "Substratul este format dintr-un strat gros de argilă glaciară.", "Solurile generează randamente agricole extrem de ridicate.", "A fost modelat de curentul glaciar Baelthav în perioada Weichsel.", "Relieful este ușor ondulat, cu depresiuni fără scurgere."],
       en: ["The rolling hilltops reach elevations of 40 to 70 meters.", "Located in the western agricultural district of Zealand island.", "The subsoil consists of a thick, nutrient-rich till layer.", "The soils yield some of the highest crop volumes in the country.", "Modeled by the Baelthav ice stream during the Weichselian period.", "The terrain features gentle undulations with closed depressions."],
-    }, image: "/poi-images/denmark-slagelse-bakke-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-soro-bakke-relief-v2",
     type: "peak",
@@ -1088,7 +1119,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Sorø környékének legmagasabb pontja eléri a 80 métert.", "A dombok a 2,1 négyzetkilométeres Sorø Sø tavat övezik.", "A tájat mély, jégtakaró alatti olvadékvíz-vályúk szelik át.", "A lejtőket sűrű lombhullató erdők (pl. Sorø Sønderskov) borítják.", "A weichseli jégkorszak végén olvadó holtjég alakította ki.", "A meredek partszakaszok erősen tömörödött morénaagyagból állnak."],
       ro: ["Cea mai înaltă cotă din jurul orașului Sorø atinge 80 de metri.", "Dealurile încadrează Lacul Sorø, cu o suprafață de 2,1 km².", "Peisajul este traversat de șanțuri subglaciare adânci.", "Pădurile dense de foioase (ex. Sorø Sønderskov) acoperă pantele.", "S-a format prin topirea blocurilor de gheață la finalul glaciațiunii Weichsel.", "Malurile abrupte sunt constituite din argilă glaciară compactată."],
       en: ["The highest elevation around Sorø reaches approximately 80 meters.", "The hills completely encircle the 2.1-square-kilometer Sorø Lake.", "The landscape is intersected by deep subglacial tunnel valleys.", "Dense deciduous forests, like Sorø Sønderskov, cover the slopes.", "Formed by melting dead ice at the end of the Weichselian glaciation.", "The steep shoreline slopes consist of highly compacted glacial till."],
-    }, image: "/poi-images/denmark-soro-bakke-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-roskilde-bakke-relief-v2",
     type: "peak",
@@ -1183,7 +1215,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Észak-Sjælland legmagasabb pontja a 91 méteres Maglebjerg.", "A domborzat nagy része a Kongernes Nordsjælland Nemzeti Parkba esik.", "Az altalaj vastag jégkorszaki olvadékvíz-homokrétegeket tartalmaz.", "Az Arresø melletti Muldbjerge dombvidéke 50 méter körüli magasságú.", "Ez a dombvonulat duzzasztja fel Dánia legnagyobb tavát, az Arresøt.", "A tájat jelentősen tagolják a jégkorszaki holtjég-mélyedések."],
       ro: ["Cel mai înalt punct din nordul Zeelandei este Maglebjerg, la 91 de metri.", "O mare parte din dealuri se află în Parcul Național Kongernes Nordsjælland.", "Substratul prezintă straturi groase de nisip aduse de apele de topire.", "Dealurile Muldbjerge de lângă Arresø ating aproximativ 50 de metri.", "Creasta deluroasă blochează drenajul, formând cel mai mare lac danez, Arresø.", "Relieful este puternic marcat de depresiuni glaciare tip kettle."],
       en: ["The highest point in North Zealand is Maglebjerg, reaching 91 meters.", "Much of the elevated terrain falls within Kongernes Nordsjælland National Park.", "The subsoil contains massive sand layers deposited by glacial meltwater.", "The Muldbjerge hills near Lake Arresø reach an elevation of 50 meters.", "This hill ridge naturally dams Arresø, Denmark's largest freshwater lake.", "The topography is heavily punctuated by glacial kettle hole depressions."],
-    }, image: "/poi-images/denmark-nordsjaelland-bakke-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-kalundborg-bakke-relief-v2",
     type: "peak",
@@ -1278,7 +1311,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Mogenstrup Ås", "10 km hosszúság", "Kavicskészlet", "Dél-Sjælland"],
       ro: ["Mogenstrup Ås", "Lungime 10 km", "Resurse de pietriș", "Sealand de Sud"],
       en: ["Mogenstrup Ås", "10km length", "Gravel resources", "South Zealand"],
-    }, image: "/poi-images/denmark-naestved-bakke-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-vordingborg-relief-v2",
     type: "peak",
@@ -1309,7 +1343,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Libatorony (Gåsetårnet)", "14. század", "IV. Valdemár király", "Stratégiai partvidék"],
       ro: ["Turnul Gâștei", "Secolul XIV", "Regele Valdemar IV", "Locație strategică"],
       en: ["Goose Tower", "14th century", "King Valdemar IV", "Strategic coastal site"],
-    }, image: "/poi-images/denmark-vordingborg-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-falster-bakke-relief-v2",
     type: "peak",
@@ -1340,7 +1375,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Falster szigetének legmagasabb pontja a Bavnehøj, mindössze 44 méterrel.", "A sziget nagyrészt egy lapos, egybefüggő fenékmoréna-fennsíkból áll.", "A keleti partvonalon több helyen aktív sziklafal-erózió zajlik.", "Az agyagos talaj rendkívül kedvező a cukorrépa termesztésére.", "A Halskov Vænge erdő számos kőkorszaki megalitikus sírt rejt.", "A parti erdőségek lombkoronája sokszor közvetlenül a balti partig ér."],
       ro: ["Cel mai înalt punct de pe Falster este Bavnehøj, cu doar 44 de metri.", "Insula este formată predominant dintr-un platou plat de morenă de bază.", "Coasta de est prezintă sectoare cu eroziune activă a falezelor.", "Solul argilos este extrem de fertil pentru cultivarea sfeclei de zahăr.", "Pădurea Halskov Vænge conține numeroase morminte megalitice din Epoca Pietrei.", "Pădurile de coastă se extind adesea până pe plaja Mării Baltice."],
       en: ["The highest point on Falster island is Bavnehøj at merely 44 meters.", "The island consists primarily of a remarkably flat ground moraine plateau.", "The eastern coastline features localized areas of active cliff erosion.", "The heavy clay soil is exceptionally fertile for sugar beet cultivation.", "Halskov Vænge forest contains numerous Stone Age megalithic tombs.", "The coastal deciduous forests frequently extend directly to the Baltic shore."],
-    }, image: "/poi-images/denmark-falster-bakke-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-lolland-bakke-relief-v2",
     type: "peak",
@@ -1371,7 +1407,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Ravnsby Bakker", "Lolland szigete", "Holtjég-táj", "30 méteres magasság"],
       ro: ["Ravnsby Bakker", "Insula Lolland", "Relief de gheață moartă", "Înălțime 30 m"],
       en: ["Ravnsby Bakker", "Lolland island", "Dead-ice landscape", "30m elevation"],
-    }, image: "/poi-images/denmark-lolland-bakke-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-bornholm-bakke-relief-v2",
     type: "peak",
@@ -1402,7 +1439,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["A 162 méteres Rytterknægten a sziget legmagasabb domborzati pontja.", "Az alapkőzet több mint 1,4 milliárd éves, szilárd gránitból áll.", "Az északi partvonal meredek, sziklás letörésekkel zuhan a tengerbe.", "Dánia többi részével ellentétben nem fedi vastag jégkorszaki üledék.", "Az Almindingen erdő borítja a sziget legmagasabb sziklás platóit.", "A domborzatot mély tektonikus hasadékvölgyek (pl. Ekkodalen) szabdalják."],
       ro: ["Rytterknægten este cel mai înalt punct al insulei, măsurând 162 de metri.", "Substratul este format din granit solid cu o vechime de 1,4 miliarde de ani.", "Coasta nordică coboară abrupt în mare formând faleze stâncoase.", "Spre deosebire de restul Danemarcei, nu are sedimente glaciare groase.", "Pădurea Almindingen acoperă zonele stâncoase cele mai înalte.", "Relieful prezintă văi de falie tectonică adânci (de exemplu, Ekkodalen)."],
       en: ["Rytterknægten stands as the island's highest point at exactly 162 meters.", "The bedrock consists of solid granite over 1.4 billion years old.", "The northern coastline drops precipitously into the sea as rocky cliffs.", "Lacks the thick glacial sediment cover found throughout the rest of Denmark.", "The Almindingen forest broadly covers the highest rocky elevations.", "The terrain is fractured by deep tectonic rift valleys like Ekkodalen."],
-    }, image: "/poi-images/denmark-bornholm-bakke-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-alssund-relief-v2",
     type: "peak",
@@ -1433,7 +1471,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["Dybbøl Banke", "1864-es háború", "Alssund-szoros", "Stratégiai sáncok"],
       ro: ["Dybbøl Banke", "Războiul din 1864", "Strâmtoarea Alssund", "Fortificații strategice"],
       en: ["Dybbøl Banke", "1864 war", "Alssund strait", "Strategic redoubts"],
-    }, image: "/poi-images/denmark-alssund-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-aero-bakke-relief-v2",
     type: "peak",
@@ -1464,7 +1503,8 @@ export const denmarkReliefV2: POI[] = [
       hu: ["A sziget legmagasabb kiemelkedése a 68 méter magas Synneshøj.", "A híres Voderup Klint egy teraszosan lecsúszott, egyedi agyagpart.", "A déli sziklafalak több mint 30 méter mélyen szakadnak a Balti-tengerbe.", "A jégkorszaki tájat jéggátas tavak lerakódásai formálták.", "A magaslatok védelmet nyújtanak az északi kikötővárosoknak a viharoktól.", "A morénavidéket az olvadékvizek történelmileg erősen kimosták."],
       ro: ["Cel mai înalt punct al insulei este Synneshøj, măsurând 68 de metri.", "Faleza Voderup Klint este o coastă terasată unică formată prin alunecări.", "Falezele de argilă se prăbușesc 30 de metri direct în Marea Baltică.", "Relieful glaciar este dominat de sedimente din lacuri de baraj glaciar.", "Aceste înălțimi protejează orașele-port din nord de furtunile marine.", "Peisajul morenic a fost intens spălat și modelat de apele de topire."],
       en: ["The island's highest geographical point is Synneshøj at 68 meters.", "The famous Voderup Klint features uniquely terraced coastal landslides.", "The southern clay cliffs drop more than 30 meters into the Baltic Sea.", "The glacial terrain is heavily influenced by ice-dammed lake deposits.", "These central elevations protect the northern harbor towns from storms.", "The underlying moraine landscape was heavily scoured by meltwater."],
-    }, image: "/poi-images/denmark-aero-bakke-relief-v2.webp"},
+    },
+  },
   {
     id: "denmark-lango-bakke-relief-v2",
     type: "peak",

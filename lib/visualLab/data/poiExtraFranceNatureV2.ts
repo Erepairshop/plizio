@@ -31,7 +31,8 @@ export const franceNatureV2: POI[] = [
       hu: ["Építés éve: 1969", "Vízfelület: 750 hektár", "Max. mélység: 45 méter", "Kőzet: vörös perm ruffe"],
       ro: ["An construcție: 1969", "Suprafață: 750 hectare", "Adâncime max: 45 metri", "Rocă: ruffe permiene"],
       en: ["Year built: 1969", "Surface area: 750 hectares", "Max depth: 45 meters", "Rock type: Permian ruffe"],
-    }, image: "/poi-images/france-lac-du-salagou-nature-v2.webp"},
+    },
+  },
   {
     id: "france-cirque-de-gavarnie-nature-v2",
     type: "valley",
@@ -62,7 +63,8 @@ export const franceNatureV2: POI[] = [
       hu: ["Legmagasabb pontja 3248 méter", "A vízesés 422 méter magas", "1997 óta az UNESCO Világörökség része", "A sziklafal magassága 1500 méter", "Victor Hugo szerint a természet kolosszuma", "Mészkő alapkőzet építi fel"],
       ro: ["Înscris în Patrimoniul UNESCO în 1997", "Altitudinea cascadei este de 422 m", "Peretele stâncos are 1500 m înălțime", "Lățimea circului depășește 3 km", "Face parte din Parcul Național Pirinei", "Vârful Marboré are 3248 m"],
       en: ["UNESCO World Heritage status from 1997", "Waterfall drop of 422 meters", "Total wall height of 1500 meters", "Cirque diameter of 3000 meters", "Located within Pyrenees National Park", "Highest surrounding peak is 3248 m"],
-    }, image: "/poi-images/france-cirque-de-gavarnie-nature-v2.webp"},
+    },
+  },
   {
     id: "france-foret-de-broceliande-nature-v2",
     type: "forest",
@@ -93,7 +95,8 @@ export const franceNatureV2: POI[] = [
       hu: ["Terület: 7000 hektár", "Legmagasabb pont: 256 m", "Látnivaló: Aranyfa", "Helyszín: Visszatérés nélküli völgy"],
       ro: ["Suprafață: 7000 hectare", "Punct maxim: 256 metri", "Atracție: Copacul de Aur", "Locație: Valea fără Întoarcere"],
       en: ["Area: 7,000 hectares", "Highest point: 256 meters", "Attraction: The Golden Tree", "Legendary site: Val sans Retour"],
-    }, image: "/poi-images/france-foret-de-broceliande-nature-v2.webp"},
+    },
+  },
   {
     id: "france-col-du-tourmalet-nature-v2",
     type: "mountain",
@@ -124,7 +127,8 @@ export const franceNatureV2: POI[] = [
       hu: ["Magasság: 2115 méter", "Első Tour-szereplés: 1910", "Átlagos meredekség: 7,4%", "Nyugati emelkedő: 19 km"],
       ro: ["Înălțime: 2115 metri", "Prima trecere Turul Franței: 1910", "Pantă medie: 7,4%", "Lungime urcare vest: 19 km"],
       en: ["Elevation: 2,115 meters", "First TdF crossing: 1910", "Average grade: 7.4%", "West climb length: 19 km"],
-    }, image: "/poi-images/france-col-du-tourmalet-nature-v2.webp"},
+    },
+  },
   {
     id: "france-les-aiguilles-d-arves-nature-v2",
     type: "peak",
@@ -155,7 +159,8 @@ export const franceNatureV2: POI[] = [
       hu: ["Három fő csúcs: Méridionale (3514 m), Centrale (3513 m), Septentrionale (3364 m).", "A Les Écrins Nemzeti Park része.", "Hegymászók körében népszerű.", "Jellegzetes sziklatűk.", "A francia Alpokban található.", "Savoie megyében."],
       ro: ["Trei vârfuri principale: Méridionale (3.514 m), Centrale (3.513 m), Septentrionale (3.364 m).", "Parte a Parcului Național Les Écrins.", "Destinație populară pentru alpiniști.", "Ace stâncoase distinctive.", "Situat în Alpii francezi.", "În departamentul Savoie."],
       en: ["Three main summits: Méridionale (3,514 m), Centrale (3,513 m), Septentrionale (3,364 m).", "Part of Les Écrins National Park.", "Popular destination for mountaineers.", "Distinctive rock needles.", "Located in the French Alps.", "In the Savoie department."],
-    }, image: "/poi-images/france-les-aiguilles-d-arves-nature-v2.webp"},
+    },
+  },
   {
     id: "france-lac-de-sainte-croix-nature-v2",
     type: "lake",
@@ -186,7 +191,8 @@ export const franceNatureV2: POI[] = [
       hu: ["A tó felülete 2200 hektár", "1974-ben töltötték fel teljesen", "Legnagyobb mélysége 90 méter", "Les Salles-sur-Verdon falut elárasztották", "A gát magassága 95 méter", "A tározó 760 millió m³ vizet tart"],
       ro: ["Suprafața luciului de apă 22 km²", "Adâncimea maximă atinge 90 m", "Finalizarea barajului în anul 1974", "Volum total de 760 milioane m³", "Alimentează canalul de Provence", "Situat la altitudinea de 477 m"],
       en: ["Reservoir surface area of 22 km²", "Maximum depth reaches 90 meters", "Dam construction completed in 1974", "Holds 760 million cubic meters of water", "Replaced the old village of Les Salles", "Primary source for Provence irrigation"],
-    }, image: "/poi-images/france-lac-de-sainte-croix-nature-v2.webp"},
+    },
+  },
   {
     id: "france-pic-du-midi-d-ossau-nature-v2",
     type: "peak",
@@ -217,7 +223,8 @@ export const franceNatureV2: POI[] = [
       hu: ["Magasság: 2884 m.", "Vulkánra emlékeztető alak.", "A Pireneusok Nemzeti Parkban.", "Túrázók és mászók körében népszerű.", "Panorámás kilátás a csúcsról.", "Pyrénées-Atlantiques megyében."],
       ro: ["Înălțime: 2.884 m.", "Formă distinctivă asemănătoare unui vulcan.", "În Parcul Național al Pirineilor.", "Popular printre drumeți și alpiniști.", "Vedere panoramică de pe vârf.", "În departamentul Pyrénées-Atlantiques."],
       en: ["Height: 2,884 m.", "Distinctive shape like a volcano.", "In the Pyrenees National Park.", "Popular with hikers and climbers.", "Panoramic view from summit.", "In the Pyrénées-Atlantiques department."],
-    }, image: "/poi-images/france-pic-du-midi-d-ossau-nature-v2.webp"},
+    },
+  },
   {
     id: "france-cascade-de-gavarnie-nature-v2",
     type: "landmark",
@@ -248,7 +255,8 @@ export const franceNatureV2: POI[] = [
       hu: ["Magasság: 422 m.", "Európa egyik legmagasabb vízesése.", "A Gavarnie-i kárban (UNESCO világörökség).", "Gleccserolvadék táplálja.", "Népszerű túracélpont.", "Hautes-Pyrénées megyében."],
       ro: ["Înălțime de cădere: 422 m.", "Una dintre cele mai înalte cascade din Europa.", "În Cirque de Gavarnie (UNESCO).", "Alimentată de apa de topire a ghețarului.", "Destinație populară pentru drumeții.", "În departamentul Hautes-Pyrénées."],
       en: ["Drop height: 422 m.", "One of highest waterfalls in Europe.", "In Cirque de Gavarnie (UNESCO World Heritage).", "Fed by glacial meltwater.", "Popular hiking destination.", "In Hautes-Pyrénées department."],
-    }, image: "/poi-images/france-cascade-de-gavarnie-nature-v2.webp"},
+    },
+  },
   {
     id: "france-ile-de-brehat-nature-v2",
     type: "island",
@@ -279,7 +287,8 @@ export const franceNatureV2: POI[] = [
       hu: ["Összterület: 3,1 km2", "Lakosság: kb. 350 fő", "Jellegzetesség: Paon világítótorony", "Partvonal: 9,5 km"],
       ro: ["Suprafață totală: 3,1 km2", "Populație: aprox. 350", "Simbol: Farul Paon", "Lungime coastă: 9,5 km"],
       en: ["Total area: 3.1 km2", "Population: approx. 350", "Landmark: Paon Lighthouse", "Coastline: 9.5 km"],
-    }, image: "/poi-images/france-ile-de-brehat-nature-v2.webp"},
+    },
+  },
   {
     id: "france-gorges-de-l-ardeche-nature-v2",
     type: "valley",
@@ -310,7 +319,8 @@ export const franceNatureV2: POI[] = [
       hu: ["Kanyon hossza: 30 km", "Pont d'Arc magassága: 54 m", "Természetvédelmi terület: 1980", "Fő sport: kenuzás"],
       ro: ["Lungime canion: 30 km", "Înălțime Pont d'Arc: 54 metri", "Rezervație din: 1980", "Activitate: canotaj"],
       en: ["Canyon length: 30 km", "Pont d'Arc height: 54 meters", "Nature reserve since: 1980", "Activity: Canoeing"],
-    }, image: "/poi-images/france-gorges-de-l-ardeche-nature-v2.webp"},
+    },
+  },
   {
     id: "france-plateau-de-valensole-nature-v2",
     type: "park",
@@ -341,7 +351,8 @@ export const franceNatureV2: POI[] = [
       hu: ["Magasság: kb. 500-600 m.", "Híres levendulamezőiről.", "Mezőgazdaság: levendula, gabona, juh.", "Provence-Alpes-Côte d'Azur régióban.", "Alpes-de-Haute-Provence megyében.", "Nyáron népszerű fotótéma."],
       ro: ["Altitudine: aprox. 500-600 m.", "Faimos pentru câmpurile de levănțică.", "Agricultură: levănțică, cereale, oi.", "În regiunea Provence-Alpes-Côte d'Azur.", "În departamentul Alpes-de-Haute-Provence.", "Popular pentru fotografii vara."],
       en: ["Altitude: approx. 500-600 m.", "Famous for lavender fields.", "Agriculture: lavender, cereals, sheep.", "In Provence-Alpes-Côte d'Azur region.", "In Alpes-de-Haute-Provence department.", "Popular photo spot in summer."],
-    }, image: "/poi-images/france-plateau-de-valensole-nature-v2.webp"},
+    },
+  },
   {
     id: "france-massif-du-vignemale-nature-v2",
     type: "mountain",
@@ -372,7 +383,8 @@ export const franceNatureV2: POI[] = [
       hu: ["Pique Longue magasság: 3298 m", "Gleccser: Ossoue", "Első megmászás: 1792", "Látnivaló: Russell-barlangok"],
       ro: ["Înălțime Pique Longue: 3298 m", "Ghețar: Ossoue", "Prima ascensiune: 1792", "Atracție: Peșterile Russell"],
       en: ["Pique Longue height: 3,298 m", "Glacier: Ossoue", "First ascent: 1792", "Feature: Russell Caves"],
-    }, image: "/poi-images/france-massif-du-vignemale-nature-v2.webp"},
+    },
+  },
   {
     id: "france-foret-de-troncais-nature-v2",
     type: "forest",
@@ -403,7 +415,8 @@ export const franceNatureV2: POI[] = [
       hu: ["Teljes területe 10 600 hektár", "Jean-Baptiste Colbert újította meg", "Híres tölgyei 350-400 évesek", "A faanyag kora 200 év kitermeléskor", "Allier megye északi részén található", "Évi 40 000 köbméter faanyag kitermelés"],
       ro: ["Suprafața totală de 10.600 hectare", "Pădure de stat administrată de ONF", "Plantări masive începute în anul 1670", "Stejari seculari de peste 350 de ani", "Sursă pentru butoaie de vin de elită", "Altitudine între 200 și 440 metri"],
       en: ["Covers 10,600 hectares of territory", "Colbert's naval reform began in 1670", "Home to oaks over 350 years old", "Dominant species is the Sessile oak", "Designated as a Foret d'Exception", "Soil composed of sand and silica clay"],
-    }, image: "/poi-images/france-foret-de-troncais-nature-v2.webp"},
+    },
+  },
   {
     id: "france-mont-aigoual-nature-v2",
     type: "peak",

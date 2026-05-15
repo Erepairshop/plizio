@@ -31,7 +31,8 @@ export const maltaNatureV2: POI[] = [
       hu: ["300 méter hosszú tengeri benyúlás", "Gozo északi partján található", "Vízbe vájt sólepárlók a szomszédban", "Népszerű sznorkelező és búvárhelyszín", "Għasri falu völgyében fekszik", "Keskeny, meredek sziklafalak szegélyezik"],
       ro: ["Canion natural pe insula Gozo", "Lungime de aproximativ 300 metri", "Plajă mică cu pietriș la capătul golfului", "Peștera submersă Cathedral Cave în apropiere", "Saline tradiționale săpate în stâncă", "Acces facil prin valea Ghasri"],
       en: ["Winding sea canyon in Gozo", "Approximately 300 metres long", "Small pebbly beach at the inlet", "Popular for snorkeling and diving", "Nearby 18th-century rock-cut salt pans", "Accessible from the village of Ghasri"],
-    }, image: "/poi-images/malta-wied-il-ghasri-canyon-nature-v2.webp"},
+    },
+  },
   {
     id: "malta-xrobb-l-ghagin-coastal-park-nature-v2",
     type: "park",
@@ -62,7 +63,8 @@ export const maltaNatureV2: POI[] = [
       hu: ["A park terÃ¼lete kÃ¶rÃ¼lbelÃ¼l 74 hektÃ¡ros.", "20 milliÃ³ Ã©vvel ezelÅ‘tti vulkÃ¡n maradvÃ¡nyai felfedezhetÅ‘ek itt.", "Szerves rÃ©sze a tornaszerszegek szaporodÃ¡sÃ¡hoz.", "KÃ¶rÃ¼lbelÃ¼l Ã¶t nÃ¶vÃ©nyfaj van, amely csak ez a terÃ¼let talÃ¡lhatÃ³ meg."],
       ro: ["Parcul acoperÄƒ o suprafaÈ›Äƒ de aproximativ 74 de hectare.", "IatÄƒ resturile vulcanelor cu peste 20 milioane de ani.", "Este un loc important pentru depunerea ouelor de careÈ›i.", "ExistÄƒ aproximativ cinci specii de plante endemice."],
       en: ["The park covers an area of approximately 74 hectares.", "Fossils of volcanoes over 20 million years old have been found here.", "It is a significant nesting site for sea turtles.", "Approximately five plant species are endemic to this area."],
-    }, image: "/poi-images/malta-xrobb-l-ghagin-coastal-park-nature-v2.webp"},
+    },
+  },
   {
     id: "malta-l-ahrax-tal-mellieha-forest-nature-v2",
     type: "forest",
@@ -93,7 +95,8 @@ export const maltaNatureV2: POI[] = [
       hu: ["Málta északi erdős övezete", "Kijelölt kempingezőhelyek találhatók itt", "Szeplőtelen Fogantatás kápolna a közelben", "Mellieħa városhoz tartozó terület", "Aleppo-fenyők és mediterrán bozótos", "Közel a híres Coral Lagoon barlanghoz"],
       ro: ["Zonă împădurită în regiunea Mellieha", "Spațiu oficial permis pentru camping", "Capela Imaculata Concepție din 1847", "Vedere panoramică spre insula Comino", "Proiecte active de reîmpădurire locale", "Faleze calcaroase de coastă spectaculoase"],
       en: ["Located in the Mellieha region", "Official designated camping area", "Immaculate Conception Chapel nearby", "Features a high limestone plateau", "One of the few wooded areas in Malta", "Home to various migratory bird species"],
-    }, image: "/poi-images/malta-l-ahrax-tal-mellieha-forest-nature-v2.webp"},
+    },
+  },
   {
     id: "malta-qammieh-point-headland-nature-v2",
     type: "mountain",
@@ -156,7 +159,8 @@ export const maltaNatureV2: POI[] = [
       hu: ["Mellieħa körzetében található", "Endemikus növényfajok élőhelye", "Védett természeti terület Máltán", "Hagyományos mezőgazdasági művelés alatt"],
       ro: ["Situată în districtul Mellieħa", "Habitate pentru plante endemice", "Parte a rețelei de protecție a naturii din Malta", "Utilizare agricolă tradițională"],
       en: ["Located in the district of Mellieħa", "Habit for endemic plant species", "Part of the Maltese nature protection network", "Subject to traditional agricultural use"],
-    }, image: "/poi-images/malta-mistra-valley-nature-v2.webp"},
+    },
+  },
   {
     id: "malta-ta-cenc-cliffs-nature-v2",
     type: "mountain",

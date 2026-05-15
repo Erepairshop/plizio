@@ -960,7 +960,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["14. században épült", "Hrvoje Vukčić birtoka", "A Vrbanja-folyó felett", "Védelmi vonal része volt"],
       ro: ["Construit în secolul XIV", "Proprietatea lui Hrvoje Vukčić", "Locație peste râul Vrbanja", "Parte a liniei de apărare"],
       en: ["Built in the 14th century", "Owned by Hrvoje Vukčić", "Located above Vrbanja river", "Part of a defense line"],
-    }, image: "/poi-images/bosniaherzegovina-kotor-varos-old-town-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-komsic-necropolis-history-v2",
     type: "ruins",
@@ -1023,7 +1024,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["14-16. századi időszak", "Összesen 35 monolitikus kő", "Akár 5 tonnás sírkövek", "Fegyvereket ábrázoló domborművek", "Helyi mészkőből faragva", "Közepes állapotban megőrzött"],
       ro: ["Perioada: sec. XIV - XVI", "Numără 35 de monoliți", "Greutate de până la 5 tone", "Reliefuri cu arme și călăreți", "Cioplit din calcar local", "Stare de conservare moderată"],
       en: ["Active 14th to 16th century", "Contains 35 monolithic blocks", "Stones weigh up to 5 tons", "Features weapon bas-reliefs", "Carved from local limestone", "Moderately preserved condition"],
-    }, image: "/poi-images/bosniaherzegovina-mihaljevic-necropolis-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-gradac-archaeological-site-history-v2",
     type: "ruins",
@@ -1054,7 +1056,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["Illír várfalmaradványok", "Római érmeleletek", "Tengerszint felett 560 m", "Vaskori kerámiatöredékek"],
       ro: ["Resturi de fortificații ilire", "Monede romane descoperite", "Altitudine: 560 m n.m.", "Ceramică din epoca fierului"],
       en: ["Illyrian hillfort remains", "Roman coin discoveries", "Altitude: 560 m a.s.l.", "Iron Age pottery shards"],
-    }, image: "/poi-images/bosniaherzegovina-gradac-archaeological-site-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-veletovo-fortress-history-v2",
     type: "ruins",
@@ -1085,7 +1088,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["15. századi eredet", "Kereskedelmi utak ellenőrzése", "Masszív kőfalak", "Višegrad város közelsége"],
       ro: ["Origine în secolul XV", "Controlul rutelor comerciale", "Ziduri masive de piatră", "Proximitate de Višegrad"],
       en: ["15th-century origin", "Trade route control", "Massive stone walls", "Near the town of Višegrad"],
-    }, image: "/poi-images/bosniaherzegovina-veletovo-fortress-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-vratnica-tumulus-history-v2",
     type: "ruins",
@@ -1116,7 +1120,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["30 méteres átmérő", "Körülbelül 5 méter magas", "Két koncentrikus kör", "Kőtömbökből álló szerkezet"],
       ro: ["Diametru: 30 metri", "Înălțime: aprox. 5 metri", "Două cercuri concentrice", "Construcție din blocuri de piatră"],
       en: ["Diameter: 30 meters", "Height: approx. 5 meters", "Two concentric circles", "Stone block construction"],
-    }, image: "/poi-images/bosniaherzegovina-vratnica-tumulus-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-hrastov-do-necropolis-history-v2",
     type: "ruins",
@@ -1147,7 +1152,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["24 stećak sírkövet tartalmaz", "Keresztekkel díszített", "14-15. századi keltezés", "UNESCO Világörökség része"],
       ro: ["Conține 24 de Stećci", "Decorațiuni cu cruci", "Datare: sec. XIV-XV", "Statut de patrimoniu UNESCO"],
       en: ["Contains 24 Stećci", "Decorated with crosses", "Dated to 14th-15th century", "UNESCO World Heritage status"],
-    }, image: "/poi-images/bosniaherzegovina-hrastov-do-necropolis-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-blagaj-fortress-history-v2",
     type: "ruins",
@@ -1178,7 +1184,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["310 méter tengerszint felett", "12 méter magas falak", "Oszmán hódítás 1466-ban", "Terület: 2 hektár"],
       ro: ["Altitudine: 310 m n.m.", "Ziduri de până la 12 m", "Cucerită de otomani în 1466", "Suprafață: 2 hectare"],
       en: ["Altitude: 310 m a.s.l.", "Walls up to 12 m high", "Ottoman conquest in 1466", "Area: 2 hectares"],
-    }, image: "/poi-images/bosniaherzegovina-blagaj-fortress-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-stari-grad-kljuc-history-v2",
     type: "ruins",
@@ -1241,7 +1248,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["58 történelmi stećak kő", "14. században jött létre", "Nyeregtetős (sljemenjak) forma", "Virágmotívumos díszítések", "1200 négyzetméteren terül el", "Védett nemzeti örökség része"],
       ro: ["Numără 58 de stećci istorice", "Datate din secolul al XIV-lea", "Formă predominantă de acoperiș", "Ornamente florale vizibile", "Suprafață de 1200 metri pătrați", "Parte a patrimoniului național"],
       en: ["Contains 58 historic stećci", "Established in the 14th century", "Gabled (sljemenjak) shapes rule", "Notable floral carving details", "Spreads across 1200 square meters", "Protected national heritage site"],
-    }, image: "/poi-images/bosniaherzegovina-kamenica-necropolis-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-sokol-grad-history-v2",
     type: "ruins",
@@ -1272,7 +1280,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["Első említése 1357-ben", "Hrvoje Vukčić birtoka", "1521-ben oszmán kézre került", "Romok 600 méteres magasságban"],
       ro: ["Menționată prima dată în 1357", "Proprietatea lui Hrvoje Vukčić", "Căzută sub otomani în 1521", "Ruine la 600 m altitudine"],
       en: ["First mentioned in 1357", "Owned by Hrvoje Vukčić", "Fell to Ottomans in 1521", "Ruins at 600 m altitude"],
-    }, image: "/poi-images/bosniaherzegovina-sokol-grad-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-teocak-fortress-history-v2",
     type: "ruins",
@@ -1335,7 +1344,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["Első említése 1404-ben", "A Jajcei Bánság része", "Őrtorony romjai megmaradtak", "10 km-re Banja Lukától"],
       ro: ["Prima mențiune în 1404", "Parte a Banatului de Jajce", "Ruină de turn păstrată", "Locație la 10 km de Banja Luka"],
       en: ["First mentioned in 1404", "Part of the Banate of Jajce", "Watchtower ruin preserved", "Located 10 km from Banja Luka"],
-    }, image: "/poi-images/bosniaherzegovina-zvecaj-fortress-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-mijat-kuca-history-v2",
     type: "ruins",
@@ -1366,7 +1376,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["Mijat Tomić (1610-1656)", "Barlang mint búvóhely", "A Čvrsnica-masszívumban", "Népdalok gyakori témája"],
       ro: ["Mijat Tomić (1610-1656)", "Peșteră ca refugiu", "Locație în masivul Čvrsnica", "Subiect al cântecelor populare"],
       en: ["Mijat Tomić (1610-1656)", "Cave used as a hideout", "Located in Čvrsnica massif", "Subject of many folk songs"],
-    }, image: "/poi-images/bosniaherzegovina-mijat-kuca-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-veliki-kastel-history-v2",
     type: "ruins",
@@ -1397,7 +1408,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["Épült a 15. század során", "Két méter vastag védőfalak", "Négyszögletes központi mag", "Nemesi rezidenciaként funkcionált", "1800 négyzetméter alapterület", "Beépített esővízgyűjtő ciszterna"],
       ro: ["Construit în secolul XV", "Ziduri cu grosime de 2 metri", "Nucleu central dreptunghiular", "A servit drept reședință", "Suprafață totală de 1800 m²", "Sistem integrat de cisterne"],
       en: ["Erected in the 15th century", "Features two-meter thick walls", "Rectangular inner bailey", "Functioned as noble housing", "Total area is 1800 square meters", "Integrated rainwater cistern"],
-    }, image: "/poi-images/bosniaherzegovina-veliki-kastel-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-krupac-necropolis-history-v2",
     type: "ruins",
@@ -1428,7 +1440,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["Több mint 30 sírkő", "Szarkofág és lap alakúak", "14. századi keltezés", "A Željeznica-folyó közelében"],
       ro: ["Peste 30 de pietre funerare", "Forme de sarcofag și placă", "Datare: secolul XIV", "Lângă râul Željeznica"],
       en: ["Over 30 tombstones", "Sarcophagus and slab forms", "Dated to the 14th century", "Near the Željeznica River"],
-    }, image: "/poi-images/bosniaherzegovina-krupac-necropolis-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-stari-grad-dubovac-history-v2",
     type: "ruins",
@@ -1491,7 +1504,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["A kolostort 1377-ben alapították", "A kolostor egy fontos példa a középkori architektúrára", "A kolostor területe 10.000 négyzetméter", "A kolostor egy fontos része a boszniai kultúrának", "A kolostort 2000-ben újították fel", "A kolostor az UNESCO világörökségének része"],
       ro: ["Mănăstirea a fost fondată în anul 1377", "Mănăstirea este un exemplu important al arhitecturii medievale", "Mănăstirea are o suprafață de 10.000 de metri pătrați", "Mănăstirea este o parte importantă a culturii bosniace", "Mănăstirea a fost renovată în anul 2000", "Mănăstirea este parte a patrimoniului UNESCO"],
       en: ["The monastery was founded in 1377", "The monastery is an important example of medieval architecture", "The monastery has an area of 10,000 square meters", "The monastery is an important part of Bosnian culture", "The monastery was renovated in 2000", "The monastery is a UNESCO World Heritage Site"],
-    }, image: "/poi-images/bosniaherzegovina-dabar-monastery-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-gornja-skakava-history-v2",
     type: "village",
@@ -1522,7 +1536,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["Gornja Skakava területe mintegy 10 négyzetkilométer", "A lakosság száma körülbelül 500 fő", "A település tengerszint feletti magassága mintegy 500 méter", "Gornja Skakava éves átlaghőmérséklete 10 fok Celsius", "Az éves csapadékmennyiség mintegy 800 milliméter", "A legközelebbi nagyváros Banja Luka, mintegy 20 kilométerre"],
       ro: ["Suprafața localității Gornja Skakava este de aproximativ 10 kilometri pătrați", "Populația numără aproximativ 500 de locuitori", "Localitatea se află la o altitudine de aproximativ 500 de metri deasupra nivelului mării", "Gornja Skakava are o temperatură medie anuală de 10 grade Celsius", "Cantitatea anuală de precipitații este de aproximativ 800 de milimetri", "Cel mai apropiat oraș mare este Banja Luka, la aproximativ 20 de kilometri"],
       en: ["The area of Gornja Skakava is approximately 10 square kilometers", "The population is around 500 people", "The village is situated at an altitude of approximately 500 meters above sea level", "Gornja Skakava has an average annual temperature of 10 degrees Celsius", "The annual precipitation is approximately 800 millimeters", "The nearest large city is Banja Luka, approximately 20 kilometers away"],
-    }, image: "/poi-images/bosniaherzegovina-gornja-skakava-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-zmajevac-fortress-history-v2",
     type: "ruins",
@@ -1553,7 +1568,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["1400 körül építették", "A név sárkányhelyet jelent", "Völgyet uraló panoráma", "Korai riasztórendszer", "2200 négyzetméteres terület", "Két külső udvarral rendelkezik"],
       ro: ["Construită în jurul anului 1400", "Numele se traduce Locul Dragonului", "Vedere panoramică asupra văii", "Sistem de avertizare militară", "Suprafață de 2200 de metri pătrați", "Include două curți exterioare"],
       en: ["Constructed around 1400", "Name translates to Dragon's Place", "Dominates the valley view", "Acted as early warning system", "Covers 2200 square meters", "Features two distinct courtyards"],
-    }, image: "/poi-images/bosniaherzegovina-zmajevac-fortress-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-gracanica-old-clock-tower-history-v2",
     type: "tower",
@@ -1584,7 +1600,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["Az órátorony körülbelül 20 méter magas", "A tornyot a 16. században építették", "Gračanica városának lakossága körülbelül 15.000 fő", "Az órátorony a történelmi városfal része", "Gračanica városa tengerszint feletti magassága körülbelül 200 méter", "Az órátorony egy népszerű turisztikai célpont"],
       ro: ["Turnul cu ceas are o înălțime de aproximativ 20 de metri", "Turnul a fost construit în secolul al XVI-lea", "Orașul Gračanica are o populație de aproximativ 15.000 de locuitori", "Turnul cu ceas este parte a zidului istoric al orașului", "Orașul Gračanica se află la o altitudine de aproximativ 200 de metri deasupra nivelului mării", "Turnul cu ceas este o destinație turistică populară"],
       en: ["The clock tower is approximately 20 meters high", "The tower was built in the 16th century", "The city of Gračanica has a population of around 15,000 people", "The clock tower is part of the historical city walls", "The city of Gračanica is situated at an altitude of approximately 200 meters above sea level", "The clock tower is a popular tourist destination"],
-    }, image: "/poi-images/bosniaherzegovina-gracanica-old-clock-tower-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-sokolac-necropolis-history-v2",
     type: "ruins",
@@ -1615,7 +1632,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["15. századból származik", "64 nagy stećakot tartalmaz", "Bosančica (bosnyák cirill) írás", "Nemesek származását igazolja", "Néhány kő 2 méternél is hosszabb", "Fokozottan védett történelmi övezet"],
       ro: ["Datează din secolul XV", "Include 64 de stećci mari", "Inscripții în Bosančica", "Atestă linii nobiliare", "Unele depășesc 2 metri lungime", "Zonă istorică protejată"],
       en: ["Dates to the 15th century", "Contains 64 massive stećci", "Features Bosančica inscriptions", "Documents noble lineages", "Some stones exceed 2 meters length", "Protected historical zone"],
-    }, image: "/poi-images/bosniaherzegovina-sokolac-necropolis-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-vitez-fortress-ruins-history-v2",
     type: "ruins",
@@ -1646,7 +1664,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["14. századi alapítás", "A Lašva-völgyet felügyelte", "Poligonális toronyalapok", "3 méter magas falmaradványok", "550 méteres magasságban fekszik", "A 18. században részben elbontották"],
       ro: ["Fondată în secolul XIV", "Supraveghea valea Lašva", "Baza turnului poligonală", "Resturi de ziduri de 3 metri", "Altitudine de 550 metri", "Demontată parțial în sec. XVIII"],
       en: ["Founded in the 14th century", "Overlooked the Lašva Valley", "Polygonal watchtower bases", "Wall remnants stand 3 meters", "Situated at 550 meters elevation", "Partially dismantled in 18th century"],
-    }, image: "/poi-images/bosniaherzegovina-vitez-fortress-ruins-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-stari-grad-bistri-history-v2",
     type: "ruins",
@@ -1677,7 +1696,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["A Bistrica-folyó partján", "Az erőd a város felett állt", "14. századi említés", "Öt torony romjai láthatók"],
       ro: ["Locație pe râul Bistrica", "Cetate deasupra orașului", "Menționată în secolul XIV", "Ruinele a cinci turnuri"],
       en: ["Located on Bistrica River", "Fortress above the town", "Mentioned in 14th century", "Ruins of five towers remain"],
-    }, image: "/poi-images/bosniaherzegovina-stari-grad-bistri-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-kamenica-fortress-history-v2",
     type: "ruins",
@@ -1740,7 +1760,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["A Mikulić család birtoka", "Kiterjedt külső falrendszer", "Stratégiai dombtetői fekvés", "Az Una védelmi vonal része"],
       ro: ["Proprietatea familiei Mikulić", "Ziduri exterioare extinse", "Poziție strategică pe deal", "Parte a apărării râului Una"],
       en: ["Owned by Mikulić family", "Extensive outer walls", "Strategic hilltop location", "Part of the Una defense line"],
-    }, image: "/poi-images/bosniaherzegovina-vrnograc-fortress-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-stari-grad-sarajevsko-polje-history-v2",
     type: "ruins",
@@ -1771,7 +1792,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["A középkori Vrhbosna", "Vrhbosna plébánia központja", "Sírkőleletek (stećak)", "A Miljacka torkolata közelében"],
       ro: ["Vrhbosna medievală", "Centrul parohiei Vrhbosna", "Descoperiri de Stećci", "Lângă gura râului Miljacka"],
       en: ["Medieval Vrhbosna", "Center of Vrhbosna parish", "Stećci tombstone finds", "Near Miljacka confluence"],
-    }, image: "/poi-images/bosniaherzegovina-stari-grad-sarajevsko-polje-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-bistarac-fortress-history-v2",
     type: "ruins",
@@ -1802,7 +1824,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["Helyi közigazgatási központ", "300 méteres dombon fekszik", "15. századi érmeleletek", "Ovális alaprajzú erődítmény", "Körülbelül 60 méteres átmérő", "Kerámia műhelyek nyomai"],
       ro: ["Centru administrativ local", "Situat pe o colină de 300 m", "Descoperiri de monede din sec. XV", "Formă ovală a fortăreței", "Diametru de aproximativ 60 de metri", "Urme ale atelierelor de ceramică"],
       en: ["Local administrative center", "Situated on a 300m high hill", "15th-century coin hoards found", "Oval fortress layout", "Roughly 60 meters in diameter", "Traces of pottery workshops"],
-    }, image: "/poi-images/bosniaherzegovina-bistarac-fortress-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-stari-grad-zepce-history-v2",
     type: "ruins",
@@ -1833,7 +1856,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["1458. okt. 14-i említés", "A Bosna-folyó partján", "A királyi birtok része", "Stratégiai kereskedelmi hely"],
       ro: ["Menționat la 14 oct. 1458", "Locație pe râul Bosna", "Parte a domeniului regal", "Loc comercial strategic"],
       en: ["Mentioned Oct 14, 1458", "Located on Bosna River", "Part of the royal domain", "Strategic trading location"],
-    }, image: "/poi-images/bosniaherzegovina-stari-grad-zepce-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-stari-grad-foca-history-v2",
     type: "ruins",
@@ -1896,7 +1920,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["14. századi építés", "A Drina-hágók ellenőrzése", "A neve követ jelent", "Helyi nemesi családoké"],
       ro: ["Construită în secolul XIV", "Controlul pasurilor Drinei", "Numele înseamnă piatră", "Proprietatea nobilimii locale"],
       en: ["Built in the 14th century", "Control of Drina passes", "Name translates to Stone", "Owned by local noble families"],
-    }, image: "/poi-images/bosniaherzegovina-kamen-fortress-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-stari-grad-trnovo-history-v2",
     type: "ruins",
@@ -1927,7 +1952,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["Karavánszeráj helyszíne", "814 m tengerszint felett", "Középkori stećak sírkövek", "A Treskavica-hegy közelében"],
       ro: ["Loc de caravanserai", "Altitudine: 814 m n.m.", "Monumente Stećci", "Aproape de muntele Treskavica"],
       en: ["Site of a caravanserai", "Altitude: 814 m a.s.l.", "Medieval Stećci monuments", "Near Treskavica mountain"],
-    }, image: "/poi-images/bosniaherzegovina-stari-grad-trnovo-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-kamen-archaeological-site-history-v2",
     type: "ruins",
@@ -1958,7 +1984,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["Bronzkori leletegyüttesek", "Illír műtárgyakat találtak", "Római kori alapok láthatók", "1500 m²-es ásatási terület", "Rézszerszámokat azonosítottak", "Az első kutatások 1968-ban indultak"],
       ro: ["Descoperiri din Epoca Bronzului", "Artefacte ilire excavate", "Fundații romane prezente", "Zonă de excavare de 1500 m²", "Unelte de cupru conservate", "Primele cercetări în 1968"],
       en: ["Bronze Age artifacts found", "Illyrian tools discovered", "Roman building foundations present", "Excavation area of 1500 square meters", "Copper implements safely secured", "Initial excavations began in 1968"],
-    }, image: "/poi-images/bosniaherzegovina-kamen-archaeological-site-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-stari-grad-visegrad-history-v2",
     type: "ruins",
@@ -1989,7 +2016,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["A Pavlović család székhelye", "Pavlovina-erőd romjai", "14. századi említés", "A Drina-völgy ellenőrzése"],
       ro: ["Sediul familiei Pavlović", "Ruinele cetății Pavlovina", "Menționat în secolul XIV", "Controlul văii râului Drina"],
       en: ["Seat of the Pavlović family", "Pavlovina fortress ruins", "Mentioned in the 14th century", "Control of the Drina valley"],
-    }, image: "/poi-images/bosniaherzegovina-stari-grad-visegrad-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-kamen-fortress-ruins-history-v2",
     type: "ruins",
@@ -2020,7 +2048,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["Felvonóhíd maradványai", "Központi ciszterna megmaradt", "16. századi elhagyatottság", "Sziklakiszögellésen fekszik"],
       ro: ["Resturi de pod mobil", "Cisternă centrală păstrată", "Abandonată în secolul XVI", "Situată pe un promontoriu"],
       en: ["Remains of a drawbridge", "Central cistern preserved", "Abandoned in the 16th century", "Located on a rocky outcrop"],
-    }, image: "/poi-images/bosniaherzegovina-kamen-fortress-ruins-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-stari-grad-vlasenica-history-v2",
     type: "ruins",
@@ -2083,7 +2112,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["680 méter magas hegycsúcson", "Falvak védelmét szolgálta", "Aktív használat a 15. században", "1,2 méter vastag kőfalak", "Nagyjából 1000 m² kiterjedés", "Mára erdő nőtte be a romokat"],
       ro: ["Vârf montan la 680 m altitudine", "Funcție de protecție rurală", "Activă în secolul al XV-lea", "Ziduri de piatră de 1,2 metri", "Suprafață de aproximativ 1000 m²", "În prezent acoperită de vegetație"],
       en: ["Located on a 680m high peak", "Provided rural village protection", "Active during the 15th century", "Stone walls are 1.2 meters thick", "Base area roughly 1000 square meters", "Currently overgrown by forest"],
-    }, image: "/poi-images/bosniaherzegovina-kamen-fortress-site-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-stari-grad-sipovo-history-v2",
     type: "ruins",
@@ -2114,7 +2144,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["Római mauzóleum-leletek", "A Via Militaris mentén", "Közeli Sokol-erőd", "A Pliva-források mellett"],
       ro: ["Descoperiri de mausoleu roman", "Locație pe Via Militaris", "Cetatea medievală Sokol", "Lângă izvoarele Plivei"],
       en: ["Roman mausoleum finds", "Located on Via Militaris", "Nearby Sokol fortress", "Near the Pliva springs"],
-    }, image: "/poi-images/bosniaherzegovina-stari-grad-sipovo-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-stari-grad-gacko-history-v2",
     type: "ruins",
@@ -2145,7 +2176,8 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
       hu: ["1276-os említés", "Sandalj Hranić birtoka", "940 m tengerszint felett", "Fontos karavánállomás"],
       ro: ["Menționat în 1276", "Proprietatea lui Sandalj Hranić", "Altitudine: 940 m n.m.", "Stație de caravană"],
       en: ["Mentioned in 1276", "Owned by Sandalj Hranić", "Altitude: 940 m a.s.l.", "Major caravan station"],
-    }, image: "/poi-images/bosniaherzegovina-stari-grad-gacko-history-v2.webp"},
+    },
+  },
   {
     id: "bosniaherzegovina-stari-grad-odzak-history-v2",
     type: "ruins",

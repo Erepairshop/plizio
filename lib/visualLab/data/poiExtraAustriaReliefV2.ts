@@ -31,7 +31,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Legmagasabb pont: 2277 m", "Terület: 400 km²", "Vármegye: Stájerország", "Kőzet: triász mészkő", "Vízforrás: Bécsi távvezeték", "Állatvilág: jelentős zergeállomány"],
       ro: ["Altitudine max: 2277 m", "Suprafață: 400 km²", "Land: Stiria", "Tip rocă: calcar", "Resurse: apă potabilă pt Viena", "Biodiversitate: populații de capre negre"],
       en: ["Max elevation: 2277 m", "Area: 400 sq km", "State: Styria", "Geology: Limestone karst", "Water: Supplies Vienna & Graz", "Wildlife: Large chamois population"],
-    }, image: "/poi-images/austria-hochschwab-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-lechtaler-alpen-relief-v2",
     type: "mountain",
@@ -62,7 +63,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Parseierspitze", "Magasság: 3036 m", "Hosszúság: kb. 60 km", "Kőzet: dolomit és mészkő", "Tartomány: Tirol és Vorarlberg", "Státusz: legmagasabb mészkővonulat"],
       ro: ["Vârf maxim: Parseierspitze", "Altitudine: 3036 m", "Lungime: 60 km", "Geologie: dolomită principală", "Regiune: Tirol, Vorarlberg", "Record: singura grupă de peste 3000m"],
       en: ["Highest peak: Parseierspitze", "Elevation: 3036 m", "Length: approx. 60 km", "Rock type: Main Dolomite", "States: Tyrol, Vorarlberg", "Fact: Only 3000m peaks in Northern Limestone Alps"],
-    }, image: "/poi-images/austria-lechtaler-alpen-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-ennstaler-alpen-relief-v2",
     type: "mountain",
@@ -93,7 +95,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Hochtor", "Magasság: 2369 m", "Nemzeti park: Gesäuse", "Fő folyó: Enns", "Kőzet: dachsteini mészkő", "Régió: Felső-Stájerország"],
       ro: ["Cel mai înalt vârf: Hochtor", "Altitudine: 2369 m", "Parc Național: Gesäuse", "Râu principal: Enns", "Geologie: calcar de Dachstein", "Localizare: Stiria central-nordică"],
       en: ["Highest peak: Hochtor", "Elevation: 2369 m", "National Park: Gesäuse (est. 2002)", "River: Enns", "Rock type: Dachstein limestone", "Location: Northern Limestone Alps"],
-    }, image: "/poi-images/austria-ennstaler-alpen-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-totes-gebirge-relief-v2",
     type: "mountain",
@@ -124,7 +127,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Großer Priel", "Magasság: 2515 m", "Terület: kb. 1130 km²", "Típus: karsztfennsík", "Határok: Stájerország, Felső-Ausztria", "Név eredete: vízhiányos, élettelen felszín"],
       ro: ["Vârf maxim: Großer Priel", "Altitudine: 2515 m", "Suprafață: 1130 km²", "Record: cel mai mare platou carstic", "Localizare: Austria Superioară, Stiria", "Climă: precipitații mari, sol arid"],
       en: ["Highest peak: Großer Priel", "Elevation: 2515 m", "Area: approx. 1130 sq km", "Feature: Largest karst plateau", "States: Styria, Upper Austria", "Name: 'Dead Mountains' due to aridity"],
-    }, image: "/poi-images/austria-totes-gebirge-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-silvretta-relief-v2",
     type: "mountain",
@@ -155,7 +159,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Piz Linard", "Magasság: 3411 m", "Osztrák csúcs: Piz Buin (3312 m)", "Gleccserterület: kb. 40 km²", "Kőzet: kristályos kőzetek", "Hágó: Silvretta-Hochalpenstraße"],
       ro: ["Cel mai înalt vârf: Piz Linard", "Altitudine: 3411 m", "Vârf austriac: Piz Buin (3312 m)", "Suprafață ghețari: 40 km²", "Geologie: gneis, granit", "Acces: Silvretta Hochalpenstraße"],
       en: ["Highest peak: Piz Linard", "Elevation: 3411 m", "Austrian peak: Piz Buin (3312 m)", "Glacier area: approx. 40 sq km", "Rock: Crystalline gneiss/granite", "Location: Tyrol, Vorarlberg, Switzerland"],
-    }, image: "/poi-images/austria-silvretta-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-gailtaler-alpen-relief-v2",
     type: "mountain",
@@ -186,7 +191,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Große Sandspitze", "Magasság: 2770 m", "Részegység: Lienzi-Dolomitok", "Völgyek: Dráva és Gail", "Tó: Weißensee", "Régió: Karintia, Kelet-Tirol"],
       ro: ["Vârf maxim: Große Sandspitze", "Altitudine: 2770 m", "Subgrup: Dolomiții Lienz", "Râuri limitrofe: Drava, Gail", "Lac faimos: Weißensee", "Localizare: Alpii Calcaroși de Sud"],
       en: ["Highest peak: Große Sandspitze", "Elevation: 2770 m", "Subgroup: Lienz Dolomites", "Rivers: Drava, Gail", "Lake: Weißensee (highest swim lake)", "Range: Southern Limestone Alps"],
-    }, image: "/poi-images/austria-gailtaler-alpen-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-niedere-tauern-relief-v2",
     type: "mountain",
@@ -217,7 +223,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Hochgolling", "Magasság: 2863 m", "Részegységek: Schladmingi-, Radstadti-Tauern stb.", "Kőzet: kristályos palák", "Vízválasztó: Enns és Mura", "Tartomány: Salzburg és Stájerország"],
       ro: ["Vârf maxim: Hochgolling", "Altitudine: 2863 m", "Subdiviziuni: Schladminger, Radstädter Tauern", "Geologie: șisturi, gneis", "Cumpăna apelor: Enns și Mur", "Regiune: Salzburg, Stiria"],
       en: ["Highest peak: Hochgolling", "Elevation: 2863 m", "Subgroups: Schladminger, Radstädter Tauern", "Rock: Crystalline schists", "Water divide: Enns and Mur rivers", "States: Salzburg, Styria"],
-    }, image: "/poi-images/austria-niedere-tauern-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-wechsel-relief-v2",
     type: "mountain",
@@ -248,7 +255,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Legmagasabb pont: Hochwechsel", "Magasság: 1743 m", "Hossz: kb. 15 km", "Kőzet: gneisz és csillámpala", "Határ: Alsó-Ausztria/Stájerország", "Jellemző: hagyományos alpesi legelők (Schwaigen)"],
       ro: ["Vârf maxim: Hochwechsel", "Altitudine: 1743 m", "Lungime: 15 km", "Tip rocă: gneis, șist", "Pas montan: Wechselpass", "Activitate: drumeții accesibile, pășuni alpine"],
       en: ["Highest point: Hochwechsel", "Elevation: 1743 m", "Length: approx. 15 km", "Geology: Gneiss and mica schist", "Borders: Lower Austria and Styria", "Feature: Rolling alpine meadows ('Schwaigen')"],
-    }, image: "/poi-images/austria-wechsel-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-hochpfeiler-relief-v2",
     type: "peak",
@@ -279,7 +287,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 3510 m", "Hegység: Zillervölgyi-Alpok", "Első megmászás: 1865 (Paul Grohmann)", "Helyszín: osztrák-olasz határ", "Rang: a csoport legmagasabbja", "Északi fal: hírhedt jeges útvonal"],
       ro: ["Altitudine: 3510 m", "Masiv: Alpii Zillertal", "Prima ascensiune: 1865", "Localizare: Granița Tirol / Tirolul de Sud", "Statut: Cel mai înalt din grupă", "Peretele Nordic: traseu clasic de gheață"],
       en: ["Elevation: 3510 m", "Range: Zillertal Alps", "First ascent: 1865 (Paul Grohmann)", "Location: Border Tyrol (AT) / South Tyrol (IT)", "Rank: Highest in the range", "North Face: Iconic ice climbing route"],
-    }, image: "/poi-images/austria-hochpfeiler-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-venediger-gruppe-relief-v2",
     type: "mountain",
@@ -310,7 +319,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Großvenediger", "Magasság: 3657 m", "Régió: Kelet-Tirol, Salzburg", "Gleccser: Obersulzbachkees", "Nemzeti park: Magas-Tauern", "Kőzet: központi gneisz"],
       ro: ["Vârf maxim: Großvenediger", "Altitudine: 3657 m", "Regiune: Tirolul de Est, Salzburg", "Ghețar major: Obersulzbachkees", "Parc Național: Hohe Tauern", "Geologie: gneis central"],
       en: ["Highest peak: Großvenediger", "Elevation: 3657 m", "States: East Tyrol, Salzburg", "Glacier: Obersulzbachkees", "National Park: Hohe Tauern", "Rock: Central gneiss"],
-    }, image: "/poi-images/austria-venediger-gruppe-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-schneeberg-relief-v2",
     type: "mountain",
@@ -341,7 +351,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Legmagasabb pont: Klosterwappen", "Magasság: 2076 m", "Vasút: Schneebergbahn (fogaskerekű)", "Vízforrás: I. Bécsi távvezeték", "Típus: karszthegység", "Távolság Bécstől: kb. 80 km"],
       ro: ["Vârf maxim: Klosterwappen", "Altitudine: 2076 m", "Tren: Schneebergbahn (cremalieră)", "Resursă: Prima conductă de apă a Vienei", "Geologie: calcar", "Localizare: Austria Inferioară"],
       en: ["Highest peak: Klosterwappen", "Elevation: 2076 m", "Railway: Schneebergbahn (rack railway)", "Water source: 1st Vienna Spring Pipeline", "Range: Northern Limestone Alps", "Proximity: 80 km from Vienna"],
-    }, image: "/poi-images/austria-schneeberg-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-hochschwab-gipfel-relief-v2",
     type: "peak",
@@ -372,7 +383,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 2277 m", "Hegység: Hochschwab-csoport", "Dominancia: 26,1 km", "Menedékház: Schiestlhaus", "Tartomány: Stájerország", "Jellemző: karsztcsúcs"],
       ro: ["Altitudine: 2277 m", "Masiv: Grupul Hochschwab", "Prominență: 1051 m", "Refugiu: Schiestlhaus", "Localizare: Stiria", "Acces: Trasee de drumeție alpine"],
       en: ["Elevation: 2277 m", "Range: Hochschwab Group", "Dominance: 26.1 km", "Mountain hut: Schiestlhaus", "State: Styria", "Type: Karst summit"],
-    }, image: "/poi-images/austria-hochschwab-gipfel-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-dachstein-gipfel-relief-v2",
     type: "peak",
@@ -403,7 +415,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 2995 m", "Hegység: Dachstein-hegység", "Határ: Felső-Ausztria, Stájerország", "Déli fal: kb. 1000 m függőleges fal", "Világörökség: UNESCO Hallstatt-Dachstein", "Első megmászás: 1832"],
       ro: ["Altitudine: 2995 m", "Masiv: Munții Dachstein", "Graniță: Austria Sup., Stiria", "Peretele Sudic: 1000 m înălțime", "Statut UNESCO: Hallstatt-Dachstein", "Prima ascensiune: 1832"],
       en: ["Elevation: 2995 m", "Range: Dachstein Mountains", "States: Upper Austria, Styria", "South Face: 1,000 m vertical drop", "UNESCO site: Hallstatt-Dachstein", "First ascent: 1832"],
-    }, image: "/poi-images/austria-dachstein-gipfel-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-wildspitze-relief-v2",
     type: "peak",
@@ -434,7 +447,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 3768 m", "Hegység: Ötztali-Alpok", "Tartomány: Tirol", "Gleccserek: Taschach-, Vernagt- és Mitterkarferner", "Első megmászás: 1848", "Rang: Ausztria 2. legmagasabb csúcsa"],
       ro: ["Altitudine: 3768 m", "Masiv: Alpii Ötztal", "Land: Tirol", "Ghețari: Taschachferner, Vernagtferner", "Prima ascensiune: 1848", "Poziție: Al doilea din Austria"],
       en: ["Elevation: 3768 m", "Range: Ötztal Alps", "State: Tyrol", "Glaciers: Taschach, Vernagt, Mitterkar", "First ascent: 1848", "Rank: 2nd highest in Austria"],
-    }, image: "/poi-images/austria-wildspitze-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-piz-buin-relief-v2",
     type: "peak",
@@ -465,7 +479,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 3312 m", "Hegység: Silvretta", "Tartomány: Vorarlberg", "Első megmászás: 1865", "Gleccser: Ochsentaler Gletscher", "Név jelentése: 'Ökör-csúcs' (romans nyelven)"],
       ro: ["Altitudine: 3312 m", "Masiv: Silvretta", "Land: Vorarlberg", "Prima ascensiune: 1865", "Ghețar principal: Ochsentaler", "Etimologie: 'Cap de bou' în retoromană"],
       en: ["Elevation: 3312 m", "Range: Silvretta", "State: Vorarlberg", "First ascent: 1865", "Glacier: Ochsentaler Glacier", "Etymology: Romansh for 'Ox Peak'"],
-    }, image: "/poi-images/austria-piz-buin-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-hochkonig-gipfel-relief-v2",
     type: "peak",
@@ -496,7 +511,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 2941 m", "Hegység: Berchtesgadeni-Alpok", "Gleccser: Übergossene Alm", "Menedékház: Matrashaus", "Tartomány: Salzburg", "Kőzet: dachsteini mészkő"],
       ro: ["Altitudine: 2941 m", "Masiv: Alpii Berchtesgaden", "Ghețar: Übergossene Alm", "Refugiu: Matrashaus", "Localizare: Salzburg", "Geologie: calcar de Dachstein"],
       en: ["Elevation: 2941 m", "Range: Berchtesgaden Alps", "Glacier: Übergossene Alm", "Mountain hut: Matrashaus", "State: Salzburg", "Rock: Dachstein limestone"],
-    }, image: "/poi-images/austria-hochkonig-gipfel-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-kitzsteinhorn-relief-v2",
     type: "mountain",
@@ -527,7 +543,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 3203 m", "Hegység: Glockner-csoport", "Helyszín: Salzburg tartomány", "Gleccser: Schmiedingerkees", "Rekord: első osztrák gleccser-síterep", "Központ: Kaprun"],
       ro: ["Altitudine: 3203 m", "Masiv: Grupul Glockner", "Localizare: Salzburg", "Ghețar: Schmiedingerkees", "Istoric: prima stațiune de schi pe ghețar", "Acces: Telegondolă Kaprun"],
       en: ["Elevation: 3203 m", "Range: Glockner Group", "State: Salzburg", "Glacier: Schmiedingerkees", "History: First glacier ski area (1965)", "Access: Kaprun cable cars"],
-    }, image: "/poi-images/austria-kitzsteinhorn-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-grimming-relief-v2",
     type: "mountain",
@@ -558,7 +575,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 2351 m", "Hegység: Dachstein-csoport (keleti vég)", "Helyszín: Stájerország", "Kiemelkedés: rendkívül markáns, elszigetelt", "Első megmászás: 1841", "Becenév: Stájerország legmagasabb (vélt) hegye"],
       ro: ["Altitudine: 2351 m", "Masiv: Munții Dachstein", "Localizare: Stiria", "Prominență: Foarte ridicată", "Prima ascensiune: 1841", "Supranume: Mons Styriae Altissimus"],
       en: ["Elevation: 2351 m", "Range: Dachstein foothills", "Location: Styria (Enns valley)", "Dominance: 11.5 km", "First ascent: 1841", "Nickname: The high mountain of Styria"],
-    }, image: "/poi-images/austria-grimming-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-zugspitze-at-relief-v2",
     type: "peak",
@@ -589,7 +607,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 2962 m", "Hegység: Wetterstein-hegység", "Határ: Tirol (AT) / Bajorország (DE)", "Felvonó: Tiroler Zugspitzbahn", "Éghajlat: alpesi, gyakori köddel", "Történelem: 1926-ban nyílt az első felvonó"],
       ro: ["Altitudine: 2962 m", "Masiv: Wetterstein", "Graniță: Tirol (AT) / Bavaria (DE)", "Telegondolă: Tiroler Zugspitzbahn", "Vârf: Accesibil din ambele țări", "Atractie: Terasa panoramică de pe vârf"],
       en: ["Elevation: 2962 m", "Range: Wetterstein Mountains", "Border: Tyrol (AT) / Bavaria (DE)", "Cable car: Tyrolean Zugspitzbahn", "Geology: Wetterstein limestone", "Fact: Austria's highest point in Wetterstein"],
-    }, image: "/poi-images/austria-zugspitze-at-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-grosser-priel-relief-v2",
     type: "peak",
@@ -620,7 +639,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 2515 m", "Hegység: Holt-hegység", "Tartomány: Felső-Ausztria", "Kereszt: 8 méter magas, piros", "Menedékház: Prielschutzhaus", "Via ferrata: Bert Rinesch (nehéz út)"],
       ro: ["Altitudine: 2515 m", "Masiv: Totes Gebirge", "Land: Austria Superioară", "Crucea de vârf: 8 m înălțime", "Refugiu: Prielschutzhaus", "Traseu: Bert-Rinesch-Klettersteig"],
       en: ["Elevation: 2515 m", "Range: Totes Gebirge", "State: Upper Austria", "Summit cross: 8 m high, red color", "Mountain hut: Prielschutzhaus", "Climb: Longest via ferrata in Austria"],
-    }, image: "/poi-images/austria-grosser-priel-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-hoher-goll-relief-v2",
     type: "mountain",
@@ -651,7 +671,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 2522 m", "Hegység: Berchtesgadeni-Alpok", "Határ: Salzburg (AT) / Bajorország (DE)", "Völgy: Salzach-völgy fölött", "Kőzet: dachsteini mészkő", "Útvonal: Mannl-klettersteig"],
       ro: ["Altitudine: 2522 m", "Masiv: Alpii Berchtesgaden", "Localizare: Granița AT/DE", "Vederea: Lacul Königssee", "Geologie: calcar", "Traseu: Mannlgrat via ferrata"],
       en: ["Elevation: 2522 m", "Range: Berchtesgaden Alps", "Border: Salzburg (AT) / Bavaria (DE)", "Prominence: 788 m", "Rock: Dachstein limestone", "View: Overlooks Königssee & Salzburg"],
-    }, image: "/poi-images/austria-hoher-goll-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-almkogel-relief-v2",
     type: "mountain",
@@ -682,7 +703,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 1513 m", "Hegység: Felső-ausztriai-Alpok", "Helyszín: Großraming közelében", "Menedékház: Ennser Hütte", "Nemzeti park: Kalkalpen szomszédsága", "Jellemző: könnyű túraútvonalak"],
       ro: ["Altitudine: 1513 m", "Masiv: Prealpii Austriei Superioare", "Localizare: Lângă Großraming", "Refugiu: Ennser Hütte", "Proximitate: Parcul Național Kalkalpen", "Acces: Trasee de familie"],
       en: ["Elevation: 1513 m", "Range: Upper Austrian Prealps", "Location: Near Enns Valley", "Mountain hut: Ennser Hütte", "Park: Near Kalkalpen National Park", "Type: Family-friendly hiking peak"],
-    }, image: "/poi-images/austria-almkogel-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-feuerkogel-relief-v2",
     type: "mountain",
@@ -713,7 +735,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 1592 m", "Hegység: Höllengebirge", "Helyszín: Salzkammergut", "Felvonó: Feuerkogel-Seilbahn", "Történelem: Ausztria első 'sífaluja'", "Kilátás: Traunsee és Dachstein"],
       ro: ["Altitudine: 1592 m", "Masiv: Höllengebirge", "Localizare: Ebensee, Salzkammergut", "Telecabină: Inaugurată în 1927", "Statut: Unul dintre cele mai însorite platouri", "Vedere: Lacul Traunsee"],
       en: ["Elevation: 1592 m", "Range: Höllengebirge", "Location: Lake Traunsee", "Cable car: Since 1927", "Fact: First 'ski village' concept in AT", "Visibility: Excellent views of Dachstein"],
-    }, image: "/poi-images/austria-feuerkogel-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-traunstein-relief-v2",
     type: "mountain",
@@ -744,7 +767,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 1691 m", "Hegység: Felső-ausztriai-Alpok", "Város: Gmunden", "Becenév: Salzkammergut őrzője", "Menedékházak: Gmundner Hütte, Traunsteinhaus", "Nehézség: technikás sziklás ösvények"],
       ro: ["Altitudine: 1691 m", "Masiv: Prealpii Austriei Superioare", "Localizare: Lacul Traunsee", "Simbol: Reper vizual pt Salzkammergut", "Refugii: Gmundner Hütte, Traunsteinhaus", "Dificultate: Trasee alpine expuse"],
       en: ["Elevation: 1691 m", "Range: Upper Austrian Prealps", "Location: Gmunden / Traunsee", "Nickname: Guardian of Salzkammergut", "Shelters: Gmundner Hut, Traunsteinhaus", "Terrain: Steep limestone rocks"],
-    }, image: "/poi-images/austria-traunstein-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-schafberg-relief-v2",
     type: "mountain",
@@ -775,7 +799,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 1783 m", "Hegység: Salzkammergut-hegység", "Vasút: Schafbergbahn (fogaskerekű 1893-tól)", "Panoráma: akár 13 tó látható", "Szálloda: Haus Schafbergspitze (1862-ből)", "Határ: Salzburg / Felső-Ausztria"],
       ro: ["Altitudine: 1783 m", "Masiv: Munții Salzkammergut", "Tren: Schafbergbahn (cremalieră din 1893)", "Vedere: Se pot vedea până la 13 lacuri", "Cazare: Cel mai vechi hotel montan din AT", "Localizare: Granița Salzburg/OÖ"],
       en: ["Elevation: 1783 m", "Range: Salzkammergut Mountains", "Railway: Schafbergbahn (rack railway since 1893)", "View: Up to 13 lakes visible", "Hotel: Schafbergspitze (founded 1862)", "States: Salzburg / Upper Austria"],
-    }, image: "/poi-images/austria-schafberg-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-hoher-dachtein-gletscher-relief-v2",
     type: "mountain",
@@ -806,7 +831,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Fő gleccser: Hallstatti-gleccser", "Terület: kb. 3 km²", "Magasság: 2200 - 2900 m", "Látnivaló: Jégpalota, Skywalk", "Régió: Stájerország / Felső-Ausztria", "Státusz: UNESCO Világörökség"],
       ro: ["Ghețar principal: Hallstätter Gletscher", "Suprafață: aprox. 3 km²", "Altitudine: 2200 - 2900 m", "Atracții: Skywalk, Palatul de Gheață", "Localizare: Deasupra localității Hallstatt", "Statut: Sit UNESCO"],
       en: ["Main glacier: Hallstätter Glacier", "Area: approx. 3 sq km", "Elevation: 2200 - 2900 m", "Attractions: Ice Palace, Suspension Bridge", "State: Styria / Upper Austria", "UNESCO: World Heritage Status"],
-    }, image: "/poi-images/austria-hoher-dachtein-gletscher-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-ansberg-relief-v2",
     type: "mountain",
@@ -837,7 +863,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Régió: Waldviertel", "Magasság: kb. 800 - 900 m", "Alapkőzet: gránit és gneisz", "Tartomány: Alsó-Ausztria", "Tevékenység: erdőgazdálkodás, túrázás", "Jellemző: érintetlen természeti környezet"],
       ro: ["Regiune: Waldviertel", "Altitudine: aprox. 800 - 900 m", "Geologie: platou de granit și gneis", "Land: Austria Inferioară", "Utilizare: silvicultură, turism rural", "Climat: temperat, montan jos"],
       en: ["Region: Waldviertel", "Elevation: approx. 800 - 900 m", "Geology: Granite/Gneiss plateau", "State: Lower Austria", "Usage: Forestry and hiking", "Feature: Peaceful rural landscape"],
-    }, image: "/poi-images/austria-ansberg-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-planneralm-relief-v2",
     type: "mountain",
@@ -868,7 +895,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 1600 m", "Hegység: Rottenmanni-Tauern", "Jellemző: 100% természetes hó", "Különlegesség: törpefenyőolaj lepárló", "Település: Donnersbach", "Szezon: decembertől április végéig"],
       ro: ["Altitudine: 1600 m", "Masiv: Rottenmanner Tauern", "Specific: Stațiune cu zăpadă naturală", "Produs local: Ulei de jneapăn", "Localizare: Stiria", "Activități: Schi, tir cu arcul, drumeții"],
       en: ["Elevation: 1600 m", "Range: Rottenmanner Tauern", "Key feature: Natural snow resort", "Industry: Pine oil distillery", "State: Styria", "Leisure: Skiing, hiking, archery"],
-    }, image: "/poi-images/austria-planneralm-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-kaibling-relief-v2",
     type: "mountain",
@@ -899,7 +927,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 2015 m", "Hegység: Schladmingi-Tauern", "Síközpont: Schladming 4-hegy", "Helyszín: Haus im Ennstal", "Érdekesség: kb. 800 juh legel nyáron", "Pályák: világkupa minőség"],
       ro: ["Altitudine: 2015 m", "Masiv: Schladminger Tauern", "Domeniu schiabil: 4-Berge-Skischaukel", "Localizare: Stiria (Haus im Ennstal)", "Fauna: Pășune pt 800 de oi vara", "Calitate: Pârtii premiate internațional"],
       en: ["Elevation: 2015 m", "Range: Schladminger Tauern", "Ski area: 4-Mountain Ski Swing", "Location: Haus im Ennstal, Styria", "Feature: Summer grazing for 800 sheep", "Slopes: World Cup quality"],
-    }, image: "/poi-images/austria-kaibling-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-dachstein-west-relief-v2",
     type: "mountain",
@@ -930,7 +959,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magasság: 780 - 1620 m", "Régió: Salzkammergut / Tennengau", "Fő hegy: Gosaukamm", "Települések: Gosau, Russbach, Annaberg", "Típus: családi sí- és túrarégió", "Kőzet: mészkő"],
       ro: ["Altitudine: 780 - 1620 m", "Regiune: Tennengau / Salzkammergut", "Vârf simbolic: Gosaukamm", "Sate: Gosau, Russbach, Annaberg", "Turism: Stațiune ideală pt familii", "Geologie: Alpii Calcaroși de Nord"],
       en: ["Elevation: 780 - 1620 m", "Region: Inner Salzkammergut / Tennengau", "Range: Gosaukamm", "Towns: Gosau, Russbach, Annaberg", "Focus: Family-friendly sports", "States: Salzburg and Upper Austria"],
-    }, image: "/poi-images/austria-dachstein-west-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-murtal-alpen-relief-v2",
     type: "mountain",
@@ -961,7 +991,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Legmagasabb pontja a Geierhaupt (2417 m)", "Stájerország tartományban fekszik", "Kristályos palából épül fel", "A Mura és az Enns vízválasztója", "Magában foglalja a Seckaui-Alpokat", "Számos jelzett turistaútvonal szeli át"],
       ro: ["Vârful principal: Geierhaupt (2417 m)", "Situat în regiunea Stiria de Sus", "Compoziție din roci cristaline vechi", "Diviziune între bazinele Mur și Enns", "Include subgrupa Seckauer Tauern", "Zonă protejată pentru fauna alpină"],
       en: ["Highest peak: Geierhaupt at 2,417 m", "Located in the province of Styria", "Composed of metamorphic crystalline rock", "Watershed between Mur and Enns rivers", "Part of the Niedere Tauern system", "Extensive network of mountain huts"],
-    }, image: "/poi-images/austria-murtal-alpen-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-radstatter-tauern-relief-v2",
     type: "mountain",
@@ -992,7 +1023,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Weißeck (2711 m)", "Radstadti hágó magassága: 1738 m", "Dolomitból és mészkőből álló falak", "Obertauern síközpont központja", "Az Alacsony-Tauern nyugati része", "Az Enns-völgytől délre található"],
       ro: ["Vârful Weißeck atinge 2.711 m", "Pasul Radstädter Tauern: 1.738 m", "Prezența rocilor calcaroase și dolomite", "Stațiunea Obertauern este în centru", "Face parte din grupa Niedere Tauern", "Izvorul râului Enns este în apropiere"],
       en: ["Highest peak: Weißeck (2,711 m)", "Tauern Pass elevation: 1,738 m", "Mix of limestone and crystalline rocks", "Home to Obertauern ski resort", "Westernmost part of Niedere Tauern", "Strategic Alpine crossing point"],
-    }, image: "/poi-images/austria-radstatter-tauern-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-schladminger-tauern-relief-v2",
     type: "mountain",
@@ -1023,7 +1055,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Hochgolling (2862 m)", "Több mint 300 tengerszem található", "Riesach-vízesés: 70 méter magas", "Gránit és gneisz alapkőzet", "A Központi-Alpok keleti tagja", "Klafferkessel gleccservölgyi tavak"],
       ro: ["Vârful Hochgolling: 2.862 m", "Peste 300 de lacuri glaciare montane", "Cascada Riesach: cădere de 70 m", "Format din granit și gnais", "Situat în Alpii Orientali Centrali", "Centru major de schi alpin"],
       en: ["Highest peak: Hochgolling (2,862 m)", "Over 300 mountain lakes present", "Riesachfall is the highest waterfall", "Composed of granite and gneiss", "Central Eastern Alps sub-group", "Klafferkessel high-alpine lake plateau"],
-    }, image: "/poi-images/austria-schladminger-tauern-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-seckauer-tauern-relief-v2",
     type: "mountain",
@@ -1054,7 +1087,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Legmagasabb pont: Geierhaupt (2417 m)", "Seckaui apátság a hegység lábánál", "Metamorf kristályos kőzetalap", "Kevéssé kiépített turisztikai infrastruktúra", "Hochreichart (2416 m) fontos csúcs", "Az Alacsony-Tauern keleti vége"],
       ro: ["Vârful principal: Geierhaupt (2417 m)", "Abația Seckau situată la poale", "Substrat din roci metamorfice", "Regiune cu turism de nișă", "Vârful Hochreichart are 2.416 m", "Limita estică a masivului Tauern"],
       en: ["Highest peak: Geierhaupt (2,417 m)", "Seckau Abbey located at the base", "Metamorphic crystalline rock base", "Pristine nature with low tourist traffic", "Hochreichart (2,416 m) is a key summit", "Easternmost part of Niedere Tauern"],
-    }, image: "/poi-images/austria-seckauer-tauern-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-rotsel-spitze-relief-v2",
     type: "peak",
@@ -1085,7 +1119,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magassága kb. 2470 méter", "A Schladmingi-Tauern része", "Vas-oxidos kőzetösszetétel", "Ursprungalm felől közelíthető meg", "Kilátás a Dachstein-masszívumra", "Kedvelt nyári túracélpont"],
       ro: ["Altitudine: aprox. 2.470 m", "Situat în grupa Schladminger Tauern", "Roci bogate în oxizi de fier", "Accesibil dinspre Ursprungalm", "Vedere spre masivul Dachstein", "Traseu popular de drumeție montană"],
       en: ["Elevation: approx. 2,470 m", "Part of the Schladming Tauern", "Named after red iron oxide ores", "Start point usually Ursprungalm", "Panoramic view of the Dachstein", "Moderate hiking difficulty"],
-    }, image: "/poi-images/austria-rotsel-spitze-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-hohe-veitsch-relief-v2",
     type: "mountain",
@@ -1116,7 +1151,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magassága: 1981 méter", "A Mürzstegi-Alpok legmagasabbja", "Graf-Meran-Haus menedékház (1832 m)", "Karsztos mészkőfennsík", "Brunnalm síterep a déli oldalon", "Kiváló sítúrázó helyszín"],
       ro: ["Altitudine: 1.981 m", "Cel mai înalt vârf din Alpii Mürzsteg", "Refugiul Graf-Meran-Haus (1.832 m)", "Platou calcaros carstificat", "Domeniul schiabil Brunnalm la sud", "Destinație majoră pentru schi de tură"],
       en: ["Elevation: 1,981 m", "Highest peak of Mürzsteg Alps", "Graf-Meran-Haus hut (1,832 m)", "Karstic limestone plateau surface", "Brunnalm ski area on south slope", "Popular year-round hiking goal"],
-    }, image: "/poi-images/austria-hohe-veitsch-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-herrenstein-relief-v2",
     type: "mountain",
@@ -1147,7 +1183,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["A Rax-Schneeberg csoport tagja", "Mészkő sziklaformáció", "A Preiner Gscheid közelében fekszik", "Alpin mászások kedvelt helyszíne", "Magassága kb. 1400 méter", "Alsó-Ausztria és Stájerország határa"],
       ro: ["Parte din grupul Rax-Schneeberg", "Formațiune stâncoasă calcaroasă", "Situat lângă pasul Preiner Gscheid", "Popular pentru alpinism tehnic", "Altitudine: aprox. 1.400 m", "Limita dintre Austria Inferioară și Stiria"],
       en: ["Part of Rax-Schneeberg group", "Limestone rock formation", "Located near Preiner Gscheid pass", "Known for rock climbing routes", "Elevation approx. 1,400 m", "Borders Lower Austria and Styria"],
-    }, image: "/poi-images/austria-herrenstein-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-karmel-spitze-relief-v2",
     type: "peak",
@@ -1210,7 +1247,8 @@ export const austriaReliefV2: POI[] = [
       hu: ["Magassága: 2747 méter", "Legmagasabb kizárólag stájer csúcs", "A Schladmingi-Tauern része", "Hatalmas északi sziklafal", "Kristályos gneiszpala kőzet", "Első turista mászás: 1810"],
       ro: ["Altitudine: 2.747 m", "Cel mai înalt vârf integral în Stiria", "Masivul Schladminger Tauern", "Perete nordic impunător", "Compoziție din șisturi gnaisice", "Prima ascensiune turistică: 1810"],
       en: ["Elevation: 2,747 m", "Highest peak fully in Styria", "Schladming Tauern range", "Massive north face structure", "Crystalline gneiss-schist rock", "First documented ascent in 1810"],
-    }, image: "/poi-images/austria-grosse-wildstelle-relief-v2.webp"},
+    },
+  },
   {
     id: "austria-hoher-trieber-relief-v2",
     type: "mountain",

@@ -31,7 +31,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["1888. május 1-jén nyílt meg", "Területe megközelítőleg 12 hektár", "Több mint 800 állat 250 fajból", "1984-ben költözött a jelenlegi helyére"],
       ro: ["Deschisă la 1 mai 1888", "Suprafață de aproximativ 12 hectare", "Peste 800 de animale din 250 de specii", "Mutată în locația actuală în 1984"],
       en: ["Opened on May 1, 1888", "Area of approximately 12 hectares", "Over 800 individual animals from 250 species", "Relocated to its current site in 1984"],
-    }, image: "/poi-images/bulgaria-sofia-zoo-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-balchik-botanical-garden-life-v2",
     type: "park",
@@ -62,7 +63,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["1955-ben alapították", "Több mint 2000 különböző növényfaj", "Európa második legnagyobb kaktuszgyűjteménye", "A park teljes területe 6,5 hektár"],
       ro: ["Înființată în anul 1955", "Peste 2000 de specii diferite de plante", "A doua cea mai mare colecție de cactuși din Europa", "Suprafața parcului este de 6,5 hectare"],
       en: ["Founded in 1955", "Home to over 2000 plant species", "Second largest cactus collection in Europe", "The park covers an area of 6.5 hectares"],
-    }, image: "/poi-images/bulgaria-balchik-botanical-garden-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-srebarna-reserve-life-v2",
     type: "wildlife",
@@ -93,7 +95,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["1948-ban nyilvánították védetté", "Kiterjedése nagyjából 6 négyzetkilométer", "1983-ban került a világörökségi listára", "99 madárfaj fészkel a területen", "Via Pontica vonulási útvonal része", "A tó átlagos mélysége csupán 2 méter"],
       ro: ["Protejată oficial încă din anul 1948", "Suprafața totală este de aproximativ 600 ha", "Listată de UNESCO ca sit natural în 1983", "Găzduiește o colonie de pelicani creți", "Aflată pe ruta de migrație Via Pontica", "Adâncimea apei variază între 1 și 3 metri"],
       en: ["Established as a reserve in 1948", "Covers an area of 600 hectares", "Inscribed as UNESCO World Heritage in 1983", "Supports around 100 breeding bird species", "Located along the Via Pontica migration flyway", "Lake depth ranges from 1 to 3 meters"],
-    }, image: "/poi-images/bulgaria-srebarna-reserve-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-vitosha-nature-park-life-v2",
     type: "park",
@@ -124,7 +127,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["1934-ben nyilvánították nemzeti parkká", "Teljes területe 27 079 hektár", "Legmagasabb pontja a Cserni-vráh (2290 m)", "61 ritka mohafajnak ad otthont"],
       ro: ["Declarat parc național în 1934", "Suprafață totală de 27.079 hectare", "Cel mai înalt punct: Cerni Vrah (2290 m)", "Adăpostește 61 de specii rare de mușchi"],
       en: ["Declared a national park in 1934", "Total area of 27,079 hectares", "Highest peak is Cherni Vrah at 2290m", "Home to 61 rare moss species"],
-    }, image: "/poi-images/bulgaria-vitosha-nature-park-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-rusenski-lom-park-life-v2",
     type: "park",
@@ -155,7 +159,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["1970. február 26-án alapították", "A védett terület nagysága 3408 hektár", "Ruszétól mintegy 20 km-re délre fekszik", "22 denevérfaj él a helyi barlangokban", "Karsztos folyóvölgyeket foglal magába", "Veszélyeztetett dögkeselyűk költőhelye"],
       ro: ["Declarat parc natural în anul 1970", "Suprafața totală atinge 3408 hectare", "Situat la 20 km distanță de orașul Ruse", "Refugiu pentru 22 de specii de lilieci", "Relieful este dominat de canioane carstice", "Include habitate pentru vulturul egiptean"],
       en: ["Established on February 26, 1970", "Total protected area is 3408 hectares", "Situated 20 km south of the city of Ruse", "Provides habitat for 22 bat species", "Features prominent karst limestone canyons", "Important nesting site for Egyptian vultures"],
-    }, image: "/poi-images/bulgaria-rusenski-lom-park-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-silkosia-reserve-life-v2",
     type: "forest",
@@ -186,7 +191,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["Alapítva: 1970.", "Terület: 400 hektár.", "Magassági tartomány: 600-1200 m.", "100 növényfaj található.", "Fekete gólya: 5 költőpár.", "A rezervátum hossza: 10 km."],
       ro: ["Fondată în 1970.", "Suprafață: 400 ha.", "Altitudine: 600-1200 m.", "100 de specii de plante.", "Barza neagră: 5 perechi cuibăritoare.", "Lungime rezervație: 10 km."],
       en: ["Established in 1970.", "Area: 400 hectares.", "Elevation: 600-1200 m.", "100 plant species.", "Black stork: 5 breeding pairs.", "Reserve length: 10 km."],
-    }, image: "/poi-images/bulgaria-silkosia-reserve-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-belitsa-bear-park-life-v2",
     type: "wildlife",
@@ -217,7 +223,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["2000 novemberében nyílt meg", "Területe 120 000 négyzetméter", "12 különálló szektorból áll", "A Négy Mancs alapítvány finanszírozza"],
       ro: ["Deschis în noiembrie 2000", "Suprafață de 120.000 de metri pătrați", "Compus din 12 sectoare separate", "Finanțat de fundația Vier Pfoten"],
       en: ["Opened in November 2000", "Area of 120,000 square meters", "Consists of 12 separate sectors", "Funded by the Four Paws Foundation"],
-    }, image: "/poi-images/bulgaria-belitsa-bear-park-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-vratza-karst-life-v2",
     type: "park",
@@ -312,7 +319,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["Több mint 500 növényfaj.", "30 endemikus faj.", "Magasság: 600-1500 m.", "50 orchideafaj.", "Éves csapadék: 2000 mm.", "A nemzeti park területe: 71.000 ha."],
       ro: ["Peste 500 de specii de plante.", "30 de specii endemice.", "Altitudine: 600-1500 m.", "50 de specii de orhidee.", "Precipitații anuale: 2000 mm.", "Parcul Național are 71.000 ha."],
       en: ["Over 500 plant species.", "30 endemic species.", "Elevation: 600-1500 m.", "50 orchid species.", "Annual precipitation: 2000 mm.", "National park area: 71,000 ha."],
-    }, image: "/poi-images/bulgaria-kalofer-botanical-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-deliorman-forest-life-v2",
     type: "forest",
@@ -343,7 +351,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["Terület: 1000 km².", "Legmagasabb pont: 300 m.", "200 madárfaj.", "A tölgyek magassága elérheti a 25 m-t.", "Évi csapadék: 600 mm.", "50 emlősfaj él itt."],
       ro: ["Suprafață: 1000 km².", "Altitudine maximă: 300 m.", "200 de specii de păsări.", "Stejari de până la 25 m înălțime.", "Precipitații anuale: 600 mm.", "50 de specii de mamifere."],
       en: ["Area: 1000 km².", "Highest point: 300 m.", "200 bird species.", "Oaks up to 25 m tall.", "Annual rainfall: 600 mm.", "50 mammal species."],
-    }, image: "/poi-images/bulgaria-deliorman-forest-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-rosen-park-life-v2",
     type: "park",
@@ -374,7 +383,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["Bulgária termeli a világ rózsaolajának 70%-át", "A betakarítás május és június között zajlik", "1 kg olajhoz 3500 kg szirom szükséges", "Az első rózsaünnepet 1903-ban tartották"],
       ro: ["Bulgaria produce 70% din uleiul de trandafir mondial", "Recoltarea are loc între mai și iunie", "Sunt necesare 3500 kg de petale pentru 1 kg de ulei", "Primul festival al rozelor a avut loc în 1903"],
       en: ["Bulgaria produces 70% of the world's rose oil", "Harvesting takes place between May and June", "3500 kg of petals are needed for 1 kg of oil", "The first Rose Festival was held in 1903"],
-    }, image: "/poi-images/bulgaria-rosen-park-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-pomorie-lake-life-v2",
     type: "lake",
@@ -405,7 +415,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["A tó területe körülbelül 8 négyzetkilométer.", "A sótartalom elérheti a 120 grammot literenként.", "A gyógyiszap lerakódásait az 1950-es évek óta használják orvosi célokra.", "Évente mintegy 40 000 tonna tengeri sót termelnek ki.", "A maximális mélység mindössze 2 méter.", "Több mint 250 madárfajt figyeltek meg a területen."],
       ro: ["Lacul acoperă o suprafață de aproximativ 8 kilometri pătrați.", "Concentrația de sare atinge până la 120 de grame pe litru.", "Depozitele de nămol terapeutic sunt utilizate medical din anii 1950.", "Anual se extrag aproximativ 40.000 de tone de sare marină.", "Adâncimea maximă este de numai 2 metri.", "Peste 250 de specii de păsări au fost înregistrate în zonă."],
       en: ["The lake covers an area of about 8 square kilometers.", "Salinity reaches up to 120 grams per liter.", "Therapeutic mud deposits have been used medically since the 1950s.", "Approximately 40,000 tons of sea salt are extracted annually.", "Maximum depth is only about 2 meters.", "Over 250 bird species have been recorded in the area."],
-    }, image: "/poi-images/bulgaria-pomorie-lake-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-kamchia-reserve-life-v2",
     type: "forest",
@@ -436,7 +447,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["A rezervátum körülbelül 10 négyzetkilométer területet foglal el.", "Az ártéri erdők 70%-ban kocsányos tölgyből és mézgás égerből állnak.", "Évente több mint 30 000 vonuló madár pihen itt.", "A folyótorkolat szélessége körülbelül 1 kilométer.", "Az éves átlagos csapadékmennyiség 450 mm.", "Legalább 260 növényfajt azonosítottak a rezervátumban."],
       ro: ["Rezervația se întinde pe o suprafață de aproximativ 10 kilometri pătrați.", "Pădurile de luncă sunt compuse în proporție de 70% din stejar pedunculat și arin negru.", "Peste 30.000 de păsări migratoare se opresc aici anual.", "Gura de vărsare a râului are o lățime de aproximativ 1 kilometru.", "Precipitațiile medii anuale sunt de 450 mm.", "Cel puțin 260 de specii de plante au fost identificate în rezervație."],
       en: ["The reserve covers an area of about 10 square kilometers.", "The floodplain forests consist of 70% pedunculate oak and black alder.", "Over 30,000 migratory birds stop here annually.", "The river mouth is approximately 1 kilometer wide.", "Average annual rainfall is 450 mm.", "At least 260 plant species have been identified in the reserve."],
-    }, image: "/poi-images/bulgaria-kamchia-reserve-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-bistritsa-forest-life-v2",
     type: "forest",
@@ -467,7 +479,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["Az erdő körülbelül 15 négyzetkilométer területet ölel fel.", "A bükkfák akár 200 éves kort is elérhetnek.", "A barna medvék populációját a Rila-hegységben körülbelül 100 egyedre becsülik.", "Az éves átlagos csapadékmennyiség 800 mm.", "Az erdő legmagasabb pontja 1500 méterrel van a tengerszint felett.", "Több mint 300 gombafajt regisztráltak az erdőben."],
       ro: ["Pădurea se întinde pe o suprafață de aproximativ 15 kilometri pătrați.", "Fagii pot atinge vârsta de până la 200 de ani.", "Populația de urși bruni din Munții Rila este estimată la aproximativ 100 de exemplare.", "Precipitațiile medii anuale sunt de 800 mm.", "Cel mai înalt punct din pădure se află la 1.500 de metri deasupra nivelului mării.", "Peste 300 de specii de ciuperci au fost înregistrate în pădure."],
       en: ["The forest covers an area of about 15 square kilometers.", "Beech trees can reach up to 200 years of age.", "The brown bear population in the Rila Mountains is estimated at around 100 individuals.", "Average annual rainfall is 800 mm.", "The highest point in the forest is at 1,500 meters above sea level.", "Over 300 fungal species have been recorded in the forest."],
-    }, image: "/poi-images/bulgaria-bistritsa-forest-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-shar-planina-nature-park-life-v2",
     type: "park",
@@ -498,7 +511,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["Legmagasabb csúcsa a Titov Vrv (2747 m)", "Területe kb. 1600 négyzetkilométer", "147 lepkefajnak ad otthont", "Több mint 2000 különböző növényfaj"],
       ro: ["Cel mai înalt vârf: Titov Vrv (2747 m)", "Suprafață de aproximativ 1600 km pătrați", "Adăpostește 147 de specii de fluturi", "Peste 2000 de specii de plante diferite"],
       en: ["Highest peak is Titov Vrv at 2747m", "Area of approximately 1600 square kilometers", "Home to 147 species of butterflies", "Contains over 2000 different plant species"],
-    }, image: "/poi-images/bulgaria-shar-planina-nature-park-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-dyavolsko-garloto-life-v2",
     type: "wildlife",
@@ -529,7 +543,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["Legmagasabb földalatti vízesés (42 m)", "A főcsarnok 110 méter hosszú", "A víz hőmérséklete állandó 8 fok", "301 meredek lépcsőfok vezet a kijárathoz"],
       ro: ["Cea mai înaltă cascadă subterană (42 m)", "Sala principală are 110 metri lungime", "Temperatura apei este constantă la 8 grade", "Scară cu 301 trepte abrupte spre ieșire"],
       en: ["Highest underground waterfall at 42m", "The main hall is 110 meters long", "Water temperature is constant at 8 degrees", "A staircase with 301 steep steps leads to the exit"],
-    }, image: "/poi-images/bulgaria-dyavolsko-garloto-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-yagodina-karst-life-v2",
     type: "mountain",
@@ -560,7 +575,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["A Jagodina-barlang 8,5 kilométer hosszú.", "A barlang hőmérséklete állandóan körülbelül 10 °C.", "A régióban több mint 40 barlangot fedeztek fel.", "A karsztfennsíkok átlagos magassága 1200 méter.", "Az éves csapadékmennyiség körülbelül 600 mm.", "A legmélyebb szurdok mélysége eléri a 200 métert."],
       ro: ["Peștera Iagodina are o lungime de 8,5 kilometri.", "Temperatura din peșteră este constantă, în jur de 10 °C.", "În regiune au fost descoperite peste 40 de peșteri.", "Altitudinea medie a platourilor carstice este de 1.200 de metri.", "Precipitațiile medii anuale sunt de aproximativ 600 mm.", "Cel mai adânc chei atinge o adâncime de 200 de metri."],
       en: ["Yagodina Cave is 8.5 kilometers long.", "The cave temperature is constant at about 10 °C.", "Over 40 caves have been discovered in the region.", "Average elevation of the karst plateaus is 1,200 meters.", "Annual precipitation is about 600 mm.", "The deepest gorge reaches a depth of 200 meters."],
-    }, image: "/poi-images/bulgaria-yagodina-karst-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-zlatni-pyasatsi-park-life-v2",
     type: "park",
@@ -591,7 +607,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["1943-ban nyilvánították védetté", "1320 hektáros területtel rendelkezik", "Várna városa közelében helyezkedik el", "A legmagasabb pontja 269 méteres tengerszint feletti", "Védett lombhullató erdőtársulásokat őriz", "A park hossza nagyjából 9,2 kilométer"],
       ro: ["Declarat arie naturală protejată în 1943", "Suprafața totală măsoară 1320 hectare", "Aflat în apropierea orașului de coastă Varna", "Altitudinea maximă este de 269 metri", "Păstrează păduri dese de foioase", "Lungimea parcului se întinde pe 9,2 kilometri"],
       en: ["Established as a park in 1943", "Total protected area is 1320 hectares", "Situated close to the coastal city of Varna", "Maximum elevation reaches 269 meters", "Preserves dense broadleaved forests", "Park length stretches approximately 9.2 kilometers"],
-    }, image: "/poi-images/bulgaria-zlatni-pyasatsi-park-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-stara-planina-ridge-life-v2",
     type: "mountain",
@@ -654,7 +671,8 @@ export const bulgariaLifeV2: POI[] = [
       hu: ["A vizes élőhelyek körülbelül 30 négyzetkilométer területet fednek le.", "Körülbelül 200 madárfajt regisztráltak itt.", "Az átlagos vízmélység 1-2 méter.", "A Marica folyó itt körülbelül 100 méter széles.", "Az éves csapadékmennyiség 500 mm.", "Legalább 15 halfaj él a vizekben."],
       ro: ["Zonele umede acoperă o suprafață de aproximativ 30 de kilometri pătrați.", "Aproximativ 200 de specii de păsări au fost înregistrate aici.", "Adâncimea medie a apei este de 1-2 metri.", "Râul Marița are în acest punct o lățime de aproximativ 100 de metri.", "Precipitațiile medii anuale sunt de 500 mm.", "Cel puțin 15 specii de pești trăiesc în ape."],
       en: ["The wetlands cover an area of about 30 square kilometers.", "Around 200 bird species have been recorded here.", "Average water depth is 1-2 meters.", "The Maritsa River is about 100 meters wide at this point.", "Annual precipitation is 500 mm.", "At least 15 fish species inhabit the waters."],
-    }, image: "/poi-images/bulgaria-maritsa-wetlands-life-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-dobrudzha-steppe-life-v2",
     type: "forest",

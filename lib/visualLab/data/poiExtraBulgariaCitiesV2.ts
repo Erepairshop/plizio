@@ -31,7 +31,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 90 000 fő", "Tengerszint feletti magasság: 116 m", "Alapítás: thrák idők", "Panoráma magassága: 47 m"],
       ro: ["Populație: cca. 90.000", "Altitudine: 116 m", "Fondat: Epoca tracică", "Înălțime Panoramă: 47 m"],
       en: ["Population: approx. 90,000", "Elevation: 116 m", "Founded: Thracian era", "Panorama height: 47 m"],
-    }, image: "/poi-images/bulgaria-pleven-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-gabrovo-cities-v2",
     type: "city",
@@ -62,7 +63,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["1835-ben nyílt meg az első modern bolgár iskola.", "A város területe 233 négyzetkilométer.", "A Jantra folyó szeli ketté a települést.", "A Szokolovszki kolostor 15 km-re található.", "Népessége 2021-ben 51 000 fő körül volt.", "A Bolgár Nemzeti Újjászületés egyik központja."],
       ro: ["Populația orașului era de 51.881 locuitori în 2021.", "Declarat oraș oficial în anul 1860.", "Găzduiește Muzeul Umorului și Satirei, fondat în 1972.", "Situat la o altitudine de 392 metri.", "Cunoscut drept „Manchesterul bulgăresc” în secolul XIX.", "Aflat pe ruta pasului Șipka din Munții Balcani."],
       en: ["Elevation is approximately 392 meters above sea level.", "Home to the Aprilov National High School, founded 1835.", "Known internationally for the House of Humour and Satire.", "The municipality covers an area of 555.57 square kilometers.", "Population dropped from 76,000 in 1992 to about 51,000.", "Key textile manufacturing hub during the 19th century."],
-    }, image: "/poi-images/bulgaria-gabrovo-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-yambol-cities-v2",
     type: "city",
@@ -93,7 +95,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 65 000 fő", "Folyó: Tundzsa", "Kabile távolsága: 10 km", "Alapítás: i.sz. 293"],
       ro: ["Populație: cca. 65.000", "Râu: Tundzha", "Distanță Kabile: 10 km", "Fondat: 293 d.Hr."],
       en: ["Population: approx. 65,000", "River: Tundzha", "Kabile distance: 10 km", "Founded: 293 AD"],
-    }, image: "/poi-images/bulgaria-yambol-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-kardzhali-cities-v2",
     type: "city",
@@ -124,7 +127,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 45 000 fő", "Víztározó: Kardzhali-gát", "Folyó: Arda", "Perperikon: 15 km-re"],
       ro: ["Populație: cca. 45.000", "Baraj: Kardzhali", "Râu: Arda", "Distanță Perperikon: 15 km"],
       en: ["Population: approx. 45,000", "Reservoir: Kardzhali Dam", "River: Arda", "Perperikon distance: 15 km"],
-    }, image: "/poi-images/bulgaria-kardzhali-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-smolyan-cities-v2",
     type: "city",
@@ -155,7 +159,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Tsz. feletti magasság: 1 010 m", "Lakosság: kb. 27 000 fő", "Hegység: Rodope", "Síterep: Pamporovo"],
       ro: ["Altitudine: 1.010 m", "Populație: cca. 27.000", "Munți: Rodopi", "Stațiune: Pamporovo"],
       en: ["Elevation: 1,010 m", "Population: approx. 27,000", "Range: Rhodopes", "Ski resort: Pamporovo"],
-    }, image: "/poi-images/bulgaria-smolyan-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-targovishte-cities-v2",
     type: "city",
@@ -186,7 +191,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 35 000 fő", "Alapítás: 16. század", "Várna távolsága: 120 km", "Régió: Északkelet-Bulgária"],
       ro: ["Populație: cca. 35.000", "Fondat: Secolul XVI", "Distanță Varna: 120 km", "Regiune: Bulgaria de NE"],
       en: ["Population: approx. 35,000", "Founded: 16th century", "Varna distance: 120 km", "Region: NE Bulgaria"],
-    }, image: "/poi-images/bulgaria-targovishte-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-silistra-cities-v2",
     type: "city",
@@ -217,7 +223,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Az ókori Durostorum a Kr. u. 1. században épült.", "Szilisztra 1913 és 1940 között Romániához tartozott.", "A Duna déli partján, 15 méteres tengerszint feletti magasságban fekszik.", "A város lakossága 2021-ben megközelítőleg 30 000 fő volt.", "A Srebarna Természetvédelmi Terület a közelében található.", "Jelentős mezőgazdasági és kikötői központ."],
       ro: ["A fost parte a României Mari (județul Durostor) între 1913 și 1940.", "Castrul roman Durostorum a fost fondat în 29 d.Hr.", "Tratatul de la Craiova (1940) a returnat orașul Bulgariei.", "Populația orașului era de aproximativ 30.175 în 2021.", "Situat la o altitudine medie de 15 metri.", "Cetatea otomană Medjidi Tabia domină orașul."],
       en: ["Established as the Roman military camp Durostorum in 29 AD.", "Administered by Romania from 1913 until 1940.", "Located directly on the southern bank of the Danube.", "Population stands at around 30,000 residents as of 2021.", "Srebarna Nature Reserve is 16 kilometers west of the city.", "Elevation is just 15 meters above sea level."],
-    }, image: "/poi-images/bulgaria-silistra-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-razgrad-cities-v2",
     type: "city",
@@ -248,7 +255,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 30 000 fő", "Ókori város: Abritus", "Óratorony éve: 1864", "Régió: Ludogorie"],
       ro: ["Populație: cca. 30.000", "Oraș antic: Abritus", "Turn ceas: 1864", "Regiune: Ludogorie"],
       en: ["Population: approx. 30,000", "Ancient city: Abritus", "Clock tower: 1864", "Region: Ludogorie"],
-    }, image: "/poi-images/bulgaria-razgrad-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-lovech-cities-v2",
     type: "city",
@@ -279,7 +287,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Vasil Levski 1869-ben itt alapította a Belső Forradalmi Szervezetet.", "A fedett hidat 1925-ben egy tűzvész pusztította el, majd újjáépítették.", "Az Oszam folyó völgyében fekszik, 200 m tengerszint feletti magasságban.", "Lakossága 2021-ben 30 000 fő alá csökkent.", "A Hiszarja erődítmény romjai a város fölé magasodnak.", "Gépipari és bőrgyártó központ."],
       ro: ["Podul acoperit peste râul Osam a fost construit în 1874.", "Populația orașului era de circa 28.767 locuitori în 2021.", "Altitudinea medie este de 200 de metri deasupra nivelului mării.", "Vasil Levski a făcut din Loveci centrul mișcării revoluționare în 1869.", "Cetatea Hisarya a fost un important bastion medieval.", "Suprafața municipalității depășește 946 kilometri pătrați."],
       en: ["The Covered Bridge was originally built in 1874 by Kolyu Ficheto.", "Vasil Levski established his revolutionary headquarters here in 1869.", "Located at an elevation of 200 meters along the Osam River.", "Population was recorded at 28,767 in the 2021 census.", "The Hisarya Fortress over the town dates to the Middle Ages.", "Lovech was known as Melta in ancient Thracian times."],
-    }, image: "/poi-images/bulgaria-lovech-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-montana-cities-v2",
     type: "city",
@@ -310,7 +319,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Az ókorban a rómaiak Castra ad Montanesium néven alapítottak itt tábort.", "1993-ban kapta vissza történelmi eredetű nevét, a Montanát.", "A város tengerszint feletti magassága 135 méter.", "Az Ogosta víztározó 1986-ban épült a város határában.", "Népessége 2021-ben 36 000 fő körül alakult.", "A város Ferdinand néven is ismert volt 1890 és 1945 között."],
       ro: ["Orașul a fost redenumit din Mihailovgrad în Montana în anul 1993.", "Așezarea romană originală se numea Castra ad Montanesium.", "Populația număra aproximativ 36.000 de locuitori în 2021.", "Altitudinea medie este de 135 metri deasupra nivelului mării.", "Lacul de acumulare Ogosta este unul dintre cele mai mari din Bulgaria.", "Între 1890 și 1945 a purtat numele țarului Ferdinand I."],
       en: ["Founded by the Romans as Castra ad Montanesium in 160 AD.", "Called Ferdinand from 1890 to 1945, and Mihaylovgrad until 1993.", "The city sits at an elevation of 135 meters above sea level.", "Population was roughly 36,000 in the 2021 census.", "The Ogosta Reservoir, built in 1986, holds 506 million cubic meters.", "Located 113 kilometers northwest of the capital Sofia."],
-    }, image: "/poi-images/bulgaria-montana-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-kharmanli-cities-v2",
     type: "city",
@@ -341,7 +351,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A várost 1510 táján egy oszmán karavánszeráj köré építették.", "A név a török 'harman' (szérű) szóból származik.", "A Marica folyóhoz közeli település 60 m magasan fekszik.", "Népessége 2021-ben 18 000 fő körül volt.", "A Krumovica folyó itt torkollik a Maricába.", "A borászat és a dohánytermesztés hagyományosan jelentős."],
       ro: ["Numele derivă din cuvântul turcesc 'harman' (arie de treierat).", "Orașul s-a dezvoltat în jurul unui han otoman construit în 1510.", "Populația era de aproximativ 18.000 de locuitori în 2021.", "Altitudinea este de doar 60 de metri deasupra mării.", "Podul otoman cu boltă din anul 1585 a rezistat până astăzi.", "Regiunea este renumită pentru culturile de viță de vie."],
       en: ["Established around an Ottoman caravanserai built in 1510.", "The town's name originates from the Turkish word for threshing floor.", "Located at an elevation of 60 meters in the Maritsa valley.", "Population was recorded at roughly 18,000 in 2021.", "Features a preserved arched Ottoman bridge constructed in 1585.", "Situated on the main transport corridor connecting Europe and Asia."],
-    }, image: "/poi-images/bulgaria-kharmanli-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-svishtov-cities-v2",
     type: "city",
@@ -372,7 +383,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 25 000 fő", "Helyszín: Duna-part", "Akadémia alapítva: 1936", "Felszabadulás: 1877"],
       ro: ["Populație: cca. 25.000", "Locație: Malul Dunării", "Academie fondată: 1936", "Eliberare: 1877"],
       en: ["Population: approx. 25,000", "Location: Danube bank", "Academy founded: 1936", "Liberation: 1877"],
-    }, image: "/poi-images/bulgaria-svishtov-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-asenovgrad-cities-v2",
     type: "city",
@@ -403,7 +415,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A település 1934-ig a Szanimaka nevet viselte.", "II. Aszen cár erődítménye a 13. században épült a város felett.", "A lakosság száma 2021-ben 49 000 fő körül volt.", "A város tengerszint feletti magassága 269 méter.", "A helyi Mavrud borfajta termelésének legfőbb központja.", "Több mint 40 történelmi kápolna található a területén."],
       ro: ["Numele a fost schimbat din Stanimaka în Asenovgrad în 1934.", "Populația sa număra 48.966 de locuitori în 2021.", "Cetatea lui Asan domină peisajul montan la sud de oraș.", "Altitudinea orașului este de 269 de metri.", "Este renumit pentru vinul de origine controlată Mavrud.", "Găzduiește peste 40 de biserici și capele ortodoxe vechi."],
       en: ["The city was officially known as Stanimaka until 1934.", "Asen's Fortress, expanded in the 13th century, is 2 km south.", "Elevation is 269 meters above sea level.", "Population was registered at 48,966 in the 2021 census.", "A prominent center for the production of Mavrud red wine.", "Features over 40 distinct chapels and monasteries in its vicinity."],
-    }, image: "/poi-images/bulgaria-asenovgrad-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-dupnitsa-cities-v2",
     type: "city",
@@ -434,7 +447,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A várost 1948 és 1990 között Sztanke Dimitrovnak hívták.", "Dupnica 500 méter magasan fekszik a Rila-hegység északi peremén.", "Lakossága 2021-ben 33 000 fő körül mozgott.", "A Dzserma és a Bisztrica folyók völgyében helyezkedik el.", "Egykor Bulgária legnagyobb gyógyszergyárának adott otthont.", "A 20. században a bolgár dohányipar legfőbb központja volt."],
       ro: ["Orașul s-a numit Stanke Dimitrov între 1948 și 1990.", "Populația era de aproximativ 33.000 locuitori în 2021.", "Altitudinea este de 500 de metri deasupra nivelului mării.", "A fost un centru major al producției și procesării tutunului.", "Râurile Djerman și Bistrița traversează localitatea.", "Se află la intersecția principalelor rute către Grecia."],
       en: ["Renamed Stanke Dimitrov between 1948 and 1990 during the communist era.", "Situated at an elevation of 500 meters at the foot of Rila.", "Population recorded at 33,000 during the 2021 census.", "Historically dominated by the tobacco and pharmaceutical industries.", "The Dzherman River flows directly through the city center.", "Located 50 kilometers south of the capital, Sofia."],
-    }, image: "/poi-images/bulgaria-dupnitsa-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-petrich-cities-v2",
     type: "city",
@@ -465,7 +479,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A Belasica hegység északi lejtőjén, 168 méter magasan fekszik.", "Népessége 2021-ben 28 000 főt tett ki.", "A közeli Heraclea Sintica ókori romjai 2002 óta látogathatók.", "A régióban a meleg klíma miatt kivit és gránátalmát termesztenek.", "A görög és az észak-macedón határ találkozásánál helyezkedik el.", "A híres látnok, Baba Vanga is itt élt évtizedekig."],
       ro: ["Petrici este situat la doar 168 de metri deasupra mării.", "Populația orașului era de circa 28.000 de persoane în 2021.", "Se află la poalele nordice ale masivului Belasița.", "Ruinele orașului antic Heraclea Sintica se află la 10 km distanță.", "Celebra clarvăzătoare Baba Vanga și-a petrecut mare parte din viață aici.", "Clima permite cultivarea arahidelor și a kiwi-ului."],
       en: ["Elevation is 168 meters above sea level.", "Population was approximately 28,000 according to the 2021 census.", "Sits at the northern foothills of the Belasitsa mountain range.", "The ancient Macedonian city of Heraclea Sintica is located nearby.", "Famous mystic Baba Vanga resided in Petrich for much of her life.", "Agricultural center producing peaches, kiwi, and tobacco."],
-    }, image: "/poi-images/bulgaria-petrich-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-koprivshtitsa-cities-v2",
     type: "city",
@@ -496,7 +511,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Koprivstica 1060 méter tengerszint feletti magasságban fekszik.", "Az 1876-os áprilisi felkelés itt vette kezdetét Todor Kableskov vezetésével.", "Népessége az 1880-as évekbeli 12 000-ről napjainkra 2000 fő alá esett.", "Több mint 380 építészeti és történelmi műemlékkel rendelkezik.", "Ötévente itt rendezik a Bolgár Nemzeti Folklór Fesztivált 1965 óta.", "A Topolnica folyó szeli ketté a települést."],
       ro: ["Este locul unde a izbucnit Răscoala din Aprilie în 1876.", "Orașul are o altitudine de 1.060 de metri.", "Populația sa era de sub 2.000 de locuitori în 2021.", "Peste 380 de case și monumente istorice au fost conservate aici.", "Găzduiește un festival național de folclor la fiecare cinci ani.", "Aici s-au născut scriitorul Liuben Karavelov și poetul Dimcho Debelianov."],
       en: ["Elevation is 1,060 meters within the Sredna Gora mountain range.", "Population dropped to just under 2,000 residents by 2021.", "Site of the first shot fired in the April Uprising of 1876.", "Features 388 protected historical and architectural monuments.", "Hosts the National Festival of Bulgarian Folklore every five years.", "Birthplace of numerous Bulgarian poets and revolutionaries."],
-    }, image: "/poi-images/bulgaria-koprivshtitsa-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-kavarna-cities-v2",
     type: "city",
@@ -527,7 +543,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 11 000 fő", "Ókori név: Bizon", "Kaliakra-fok: 12 km-re", "Part: Fekete-tenger"],
       ro: ["Populație: cca. 11.000", "Nume antic: Bizon", "Cap Kaliakra: 12 km", "Țărm: Marea Neagră"],
       en: ["Population: approx. 11,000", "Ancient name: Bizon", "Cape Kaliakra: 12 km", "Coast: Black Sea"],
-    }, image: "/poi-images/bulgaria-kavarna-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-banya-cities-v2",
     type: "city",
@@ -558,7 +575,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Banja 290 méteres tengerszint feletti magasságban helyezkedik el.", "A település 72 meleg vizű ásványvízforrással rendelkezik.", "A források hőmérséklete 35 és 51 Celsius-fok közötti.", "A lakosság száma nagyjából 3000 fő.", "A bolgár cári családnak egykor nyári rezidenciája volt itt.", "A gyógyiszapkezelések is népszerűek a városban."],
       ro: ["Altitudinea stațiunii este de 290 de metri.", "Populația este de aproximativ 3.000 de locuitori.", "Are 72 de izvoare minerale termale naturale.", "Temperaturile apei variază între 35°C și 51°C.", "Fostul rege Boris al III-lea deținea o reședință de vară aici.", "Aparține administrativ de municipalitatea Karlovo."],
       en: ["Located at an elevation of 290 meters in the Karlovo valley.", "Features exactly 72 distinct thermal mineral springs.", "Water temperatures range from 35°C to 51°C.", "Population is roughly 3,000 residents.", "Served as a summer retreat for the Bulgarian royal family.", "A major center for balneotherapy and mud treatments."],
-    }, image: "/poi-images/bulgaria-banya-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-melnik-cities-v2",
     type: "city",
@@ -589,7 +607,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Népessége 2021-ben nem érte el a 200 főt.", "A 437 méter magasan fekvő város borászati hagyományai ősiek.", "A Melniki piramisok természetes homokkő formációk.", "Az 1754-ben épült Kordopulov-ház a Balkán legnagyobb korabeli lakóháza.", "A 19. században még húszezer lakosa volt a településnek.", "A Szveti Antonij templom a város egyik legrégebbi emléke."],
       ro: ["Populația stabilă a scăzut sub 200 de locuitori în 2021.", "Altitudinea este de 437 de metri în munții Pirin.", "Orașul a avut o populație de peste 20.000 în secolul XIX.", "Casa Kordopulov, construită în 1754, are pivnițe uriașe de vin.", "Piramidele din Melnik sunt formațiuni naturale de gresie.", "Winston Churchill era un client celebru al vinului de Melnik."],
       en: ["Population is under 200, making it Bulgaria's smallest town.", "Elevation is 437 meters in the southwestern Pirin Mountains.", "Surrounded by the natural Melnik Earth Pyramids.", "The Kordopulov House (1754) is a marvel of Revival architecture.", "Famous for producing the robust Broad Leaved Melnik red wine.", "In the 19th century, the town had over 20,000 inhabitants."],
-    }, image: "/poi-images/bulgaria-melnik-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-tryavna-cities-v2",
     type: "city",
@@ -620,7 +639,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 8 500 fő", "Óratorony éve: 1814", "Hegység: Balkán", "Kézművesség: fafaragás"],
       ro: ["Populație: cca. 8.500", "Turn ceas: 1814", "Munți: Balcani", "Meșteșug: Sculptură lemn"],
       en: ["Population: approx. 8,500", "Clock tower: 1814", "Range: Balkan Mountains", "Craft: Woodcarving"],
-    }, image: "/poi-images/bulgaria-tryavna-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-chiprovtsi-cities-v2",
     type: "city",
@@ -651,7 +671,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 1 600 fő", "UNESCO örökség: szőnyegek", "Felkelés: 1688", "Helyszín: Nyugat-Balkán"],
       ro: ["Populație: cca. 1.600", "Patrimoniu UNESCO: Covoare", "Răscoală: 1688", "Locație: Balcanii de Vest"],
       en: ["Population: approx. 1,600", "UNESCO heritage: Carpets", "Uprising: 1688", "Location: Western Balkans"],
-    }, image: "/poi-images/bulgaria-chiprovtsi-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-devnya-cities-v2",
     type: "city",
@@ -682,7 +703,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 8 000 fő", "Ókori név: Marcianopolis", "Múzeum: mozaikok", "Várna távolsága: 25 km"],
       ro: ["Populație: cca. 8.000", "Nume antic: Marcianopolis", "Muzeu: Mozaicuri", "Distanță Varna: 25 km"],
       en: ["Population: approx. 8,000", "Ancient name: Marcianopolis", "Museum: Mosaics", "Varna distance: 25 km"],
-    }, image: "/poi-images/bulgaria-devnya-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-samokov-cities-v2",
     type: "city",
@@ -713,7 +735,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Szamokov 950 méter tengerszint feletti magasságban helyezkedik el.", "Nevét a vízi meghajtású vaskalapácsokról (szamokov) kapta.", "Lakossága 2021-ben 25 000 fő körül alakult.", "A Borovec síközpont 10 kilométerre fekszik innen.", "Az Iszkar folyó a Rila-hegységből indulva folyik át a városon.", "A 18. században híres ikonfestő iskola működött a városban."],
       ro: ["Altitudinea medie a orașului este de 950 de metri.", "Numele derivă de la ciocanele hidraulice pentru prelucrarea fierului.", "Populația era de aproximativ 25.000 de locuitori în 2021.", "Stațiunea de schi Borovets este la doar 10 km distanță.", "Găzduiește Marea Fântână Otomană din 1662.", "Școala de pictură de la Samokov a dominat secolul XIX în Bulgaria."],
       en: ["Sits at an elevation of 950 meters in the Samokov Valley.", "Population was recorded at 25,000 in the 2021 census.", "The town's name translates to 'mechanical hammer' in Slavic.", "Major gateway to the Borovets ski resort 10 kilometers away.", "The Iskar River, Bulgaria's longest, flows through the town.", "Center of the renowned Samokov Art School in the 18th century."],
-    }, image: "/poi-images/bulgaria-samokov-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-balchik-cities-v2",
     type: "city",
@@ -744,7 +767,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 11 500 fő", "Palota építése: 1924-1936", "Kert területe: 6,5 ha", "Part: Észak-Fekete-tenger"],
       ro: ["Populație: cca. 11.500", "Construcție castel: 1924-1936", "Suprafață grădină: 6,5 ha", "Locație: Dobrogea"],
       en: ["Population: approx. 11,500", "Palace built: 1924-1936", "Garden area: 6.5 ha", "Coast: North Black Sea"],
-    }, image: "/poi-images/bulgaria-balchik-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-etropole-cities-v2",
     type: "city",
@@ -775,7 +799,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A 550 méter magasan fekvő város lakossága 10 000 fő.", "A trákok óta bányásznak a környéken rezet és ezüstöt.", "A 15 méter magas óratorony 1710-ben épült.", "Az Etropole kolostor (Szveta Troica) a 12. századból származik.", "A Varovicec vízesés a város szomszédságában található.", "A 16. században saját irodalmi és másolóiskolája működött."],
       ro: ["Altitudinea orașului este de 550 de metri.", "Populația număra aproximativ 10.000 de locuitori în 2021.", "Exploatarea cuprului și a aurului are rădăcini trace antice.", "Mănăstirea Sfânta Treime (Etropole) se află la 5 km distanță.", "Turnul cu Ceas, construit în 1710, este simbolul orașului.", "Aici s-a dezvoltat o școală de caligrafie în secolul XVI."],
       en: ["Elevation is roughly 550 meters in the Balkan Mountains.", "Population was recorded at 10,000 in the 2021 census.", "Copper and silver mining dates back to Thracian times.", "The Etropole Clock Tower was originally erected in 1710.", "The Varovitets Waterfall drops 15 meters near the local monastery.", "Historically significant for the Etropole Literary School (16th century)."],
-    }, image: "/poi-images/bulgaria-etropole-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-razlog-cities-v2",
     type: "city",
@@ -806,7 +831,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 12 000 fő", "Helyszín: magasföldi völgy", "Magasság: 812 m", "Szomszédos város: Banszko"],
       ro: ["Populație: cca. 12.000", "Locație: Vale înaltă", "Altitudine: 812 m", "Oraș vecin: Bansko"],
       en: ["Population: approx. 12,000", "Location: High valley", "Elevation: 812 m", "Neighboring city: Bansko"],
-    }, image: "/poi-images/bulgaria-razlog-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-nova-zagora-cities-v2",
     type: "city",
@@ -837,7 +863,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 22 000 fő", "Helyszín: Thrák-alföld", "Karanovo-halom: 10 km-re", "Alapítás: 13. század"],
       ro: ["Populație: cca. 22.000", "Locație: Câmpia Traciei", "Tumul Karanovo: 10 km", "Fondat: Secolul XIII"],
       en: ["Population: approx. 22,000", "Location: Thracian Plain", "Karanovo mound: 10 km", "Founded: 13th century"],
-    }, image: "/poi-images/bulgaria-nova-zagora-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-byala-cities-v2",
     type: "city",
@@ -868,7 +895,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Bjala 54 méteres tengerszint feletti magasságban fekszik.", "A 276 méter hosszú kőhidat 1867-ben adták át.", "A hidat Midhat pasa megbízásából építette Koljo Ficseto.", "A lakosság száma megközelítőleg 8000 fő.", "Az 1877–78-as orosz-török háború alatt főhadiszállás volt itt.", "A város nevét viselő óratorony 1872-ben épült."],
       ro: ["Podul Byala peste râul Yantra are o lungime de 276 metri.", "Arhitectul Kolyu Ficheto a finalizat construcția podului în 1867.", "Populația orașului era de circa 8.000 locuitori în 2021.", "Altitudinea este de doar 54 de metri.", "Țarul Alexandru al II-lea al Rusiei a avut cartierul general aici în 1877.", "Biserica Sfântul Gheorghe datează din perioada Renașterii Naționale."],
       en: ["The iconic Byala Bridge over the Yantra is 276 meters long.", "The bridge was commissioned in 1865 and finished in 1867.", "Population was recorded at approximately 8,000 in 2021.", "Elevation is 54 meters in the Danubian Plain.", "Served as a Russian command post during the 1877-1878 war.", "The municipal clock tower was constructed in 1872."],
-    }, image: "/poi-images/bulgaria-byala-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-elkhovo-cities-v2",
     type: "city",
@@ -899,7 +927,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A tengerszint feletti magasság 106 méter a városban.", "A római időkben a település neve Orudica volt.", "Népessége 2021-ben 9000 fő körül alakult.", "A helyi Néprajzi Múzeum Bulgária egyik legfontosabb vidéki gyűjteménye.", "A Tundzsa folyó gazdag élővilággal rendelkezik a régióban.", "Az 1950-es évekig jelentős textilipari kapacitása volt."],
       ro: ["Altitudinea orașului este de 106 metri.", "Așezarea antică tracică purta numele Oruditsa.", "Populația era de aproximativ 9.000 de locuitori în 2021.", "Muzeul Etnografic local expune peste 22.000 de artefacte.", "Rezervația naturală Dolna Topchia protejează valea Tundjei.", "Se află la 38 km de granița cu Turcia (Lesovo)."],
       en: ["Elevation is 106 meters in the Tundzha River basin.", "Population was approximately 9,000 according to the 2021 census.", "Historically known as Oruditsa during the Thracian period.", "The Elhovo Ethnographic Museum features over 22,000 regional exhibits.", "The Lower Tundzha Gorge provides a habitat for rare bird species.", "Located just 38 kilometers north of the Turkish border."],
-    }, image: "/poi-images/bulgaria-elkhovo-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-svilengrad-cities-v2",
     type: "city",
@@ -930,7 +959,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A város nevét történelmi selyemhernyó-tenyésztése (svila) ihlette.", "A Musztafa pasa kőhidat 1529-ben építette a híres Szinán építész.", "A város tengerszint feletti magassága 60 méter.", "A lakosság száma 2021-ben 17 000 fő volt.", "Gyakran említik a Balkán Las Vegas-aként a sok kaszinó miatt.", "A Kapitan Andreevo határátkelőhely Európa egyik legforgalmasabb pontja."],
       ro: ["Podul Vechi (Mustafa Pașa) de 295 metri a fost construit în 1529.", "Altitudinea orașului este de doar 60 de metri.", "Populația sa se menține la aproximativ 17.000 de locuitori.", "Datorită jocurilor de noroc la frontieră, e supranumit „Las Vegas-ul Balcanilor”.", "Punctul vamal Kapitan Andreevo procesează mii de camioane zilnic.", "În trecut era un centru renumit pentru producția de mătase."],
       en: ["The Old Bridge over the Maritsa was designed by Mimar Sinan in 1529.", "Elevation is 60 meters above sea level.", "Population was recorded at roughly 17,000 in 2021.", "Key crossing point for the European route E80 and the Orient Express route.", "Currently known for a burgeoning casino and entertainment industry.", "The town's name derives from the Bulgarian word for silk."],
-    }, image: "/poi-images/bulgaria-svilengrad-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-omurtag-cities-v2",
     type: "city",
@@ -961,7 +991,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 7 500 fő", "Névfelvétel: 1934", "Magasság: 525 m", "Régió: Targovishte"],
       ro: ["Populație: cca. 7.500", "Nume din: 1934", "Altitudine: 525 m", "Regiune: Targovishte"],
       en: ["Population: approx. 7,500", "Named since: 1934", "Elevation: 525 m", "Region: Targovishte"],
-    }, image: "/poi-images/bulgaria-omurtag-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-straldzha-cities-v2",
     type: "city",
@@ -992,7 +1023,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A település 140 méteres magasságban található.", "A lakosság száma 5500 fő körül alakult 2021-ben.", "A Sztraldzsa-mocsarat az 1920-as években csapolták le.", "A közelben 77 °C-os termálvízforrások is fakadnak.", "Hivatalosan 1969-ben kapott városi rangot.", "A régióban a kukutyini (Kukorevo) és sztraldzsai népzene világhírű."],
       ro: ["Altitudinea așezării este de 140 de metri.", "Populația era de aproximativ 5.500 de locuitori în 2021.", "Mlaștina Straldja, cea mai mare mlaștină continentală, a fost desecată în 1920.", "Izvoare termale cu apă de până la 77°C se găsesc în apropiere.", "Orașul a fost declarat oficial în anul 1969.", "Este un important nod feroviar pe ruta Sofia-Burgas."],
       en: ["Elevation is 140 meters in the southeastern plain.", "Population was recorded at 5,500 during the 2021 census.", "The Straldzha Swamp was entirely drained for agriculture in the 1920s.", "Thermal springs nearby reach temperatures up to 77°C.", "Officially granted town status relatively late, in 1969.", "Serves as a transit point on the railway line connecting Sofia and Burgas."],
-    }, image: "/poi-images/bulgaria-straldzha-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-popovo-cities-v2",
     type: "city",
@@ -1023,7 +1055,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Popovo 210 méter tengerszint feletti magasságban fekszik.", "Lakossága 2021-ben 13 000 fő körül mozgott.", "A római kori Kovachevsko kale erőd romjai 6 km-re találhatók.", "A 19. században a város az orosz csapatok bázisaként szolgált.", "1883-ban kapott hivatalosan városi rangot.", "Az agrárvidék legfőbb terménye a napraforgó és a kukorica."],
       ro: ["Altitudinea medie a orașului este de 210 metri.", "Populația înregistrată în 2021 era de aproximativ 13.000 de locuitori.", "Fortăreața romană târzie Kovachevsko kale a fost excavată în apropiere.", "Orașul a primit acest statut administrativ în anul 1883.", "Găzduiește un festival anual de teatru în luna iunie.", "Așezarea a fost arsă în timpul războiului Ruso-Turc și apoi reconstruită."],
       en: ["Elevation is 210 meters in the eastern Danubian Plain.", "Population recorded at approximately 13,000 in 2021.", "Granted official town status by decree in 1883.", "The massive 4th-century Roman fort Kovachevsko kale is 6 km away.", "Known historically as the 'White Town' for its light-colored architecture.", "Serves as the administrative center of Popovo Municipality."],
-    }, image: "/poi-images/bulgaria-popovo-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-lyaskovets-cities-v2",
     type: "city",
@@ -1054,7 +1087,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Ljaszkovec tengerszint feletti magassága 170 méter.", "Népessége 2021-ben 7000 fő körül alakult.", "A helyiek a 18. század óta híres kertészek és zöldségtermesztők voltak.", "A város nevét a mogyoróbokrokról ('ljeszka') kapta.", "Az Arbanaszi-fennsík keleti peremén helyezkedik el.", "A város egyetlen múzeuma a Balkán kertészetének történetét mutatja be."],
       ro: ["Altitudinea localității este de 170 de metri.", "Populația era de aproximativ 7.000 de locuitori în 2021.", "Mănăstirea Sf. Petru și Pavel din secolul XIV veghează asupra orașului.", "Muzeul Grădinăritului documentează exportul de legume bulgărești în Europa.", "Numele derivă de la abundența arbuștilor de alun (leska).", "Regiunea produce vin spumant de înaltă calitate."],
       en: ["Elevation is 170 meters at the edge of the Danubian Plain.", "Population was recorded at roughly 7,000 during the 2021 census.", "Home to the unique Museum of Market Gardening founded in 1993.", "The Sts. Peter and Paul Monastery overlooks the town from the nearby cliffs.", "The town's name originates from the Slavic word for hazelnut bush.", "Local wineries are famed for producing traditional sparkling wines."],
-    }, image: "/poi-images/bulgaria-lyaskovets-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-batenberg-cities-v2",
     type: "town",
@@ -1085,7 +1119,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Személy: I. Sándor herceg", "Uralkodás: 1879-1886", "Jelentőség: államalapító", "Helyszín: Szófia (tér)"],
       ro: ["Persoană: Principele Alexandru I", "Domnie: 1879-1886", "Semnificație: Fondator stat", "Centru: Sofia (Piață)"],
       en: ["Person: Prince Alexander I", "Reign: 1879-1886", "Significance: State founder", "Location: Sofia (Square)"],
-    }, image: "/poi-images/bulgaria-batenberg-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-kalofer-cities-v2",
     type: "city",
@@ -1116,7 +1151,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A Tundzsa folyó mentén, 600 méteres magasságban fekszik.", "Lakossága 2021-ben 2500 fő volt.", "A helyi csipkeverés (kaloferi csipke) Brüsszelből eredő hagyomány.", "Vízkeresztkor (január 6.) a férfiak a jeges Tundzsában táncolnak.", "A Botev-csúcs (2376 m) meghódításának legfőbb kiindulópontja.", "Hriszto Botev szülőháza ma nemzeti múzeum."],
       ro: ["Altitudinea este de 600 de metri în valea Tundja.", "Populația a scăzut la circa 2.500 de locuitori.", "Poetul și revoluționarul Hristo Botev s-a născut aici în 1848.", "Cunoscut pentru „horo-ul” pe gheață în apele râului de Bobotează.", "Femeile locale practică o formă tradițională rară de dantelărie.", "Este poarta principală spre Parcul Național Balcanii Centrali."],
       en: ["Elevation is 600 meters along the banks of the Tundzha River.", "Population was recorded at approximately 2,500 in 2021.", "Birthplace of the famed Bulgarian poet and revolutionary Hristo Botev.", "Known for the traditional icy men's dance in the river on Epiphany.", "Local artisans maintain a 19th-century tradition of Brussels-style lacemaking.", "Serves as the main basecamp for hikes to Botev Peak (2,376 m)."],
-    }, image: "/poi-images/bulgaria-kalofer-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-pirdop-cities-v2",
     type: "city",
@@ -1147,7 +1183,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 7 000 fő", "Ipar: rézkohászat", "Helyszín: hegyközi völgy", "Magasság: 670 m"],
       ro: ["Populație: cca. 7.000", "Industrie: Metalurgia cuprului", "Locație: Vale intramontană", "Altitudine: 670 m"],
       en: ["Population: approx. 7,000", "Industry: Copper smelting", "Location: Intermontane valley", "Elevation: 670 m"],
-    }, image: "/poi-images/bulgaria-pirdop-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-belene-cities-v2",
     type: "city",
@@ -1178,7 +1215,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 7 000 fő", "Natúrpark: Persina", "Helyszín: dunai szigetek", "Projekt: Belene Atomerőmű"],
       ro: ["Populație: cca. 7.000", "Parc natural: Persina", "Locație: Insule dunărene", "Proiect: Centrala Belene"],
       en: ["Population: approx. 7,000", "Nature park: Persina", "Location: Danube islands", "Project: Belene NPP"],
-    }, image: "/poi-images/bulgaria-belene-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-kovachevtsi-cities-v2",
     type: "town",
@@ -1209,7 +1247,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Régió: Pernik", "Híres szülött: Georgi Dimitrov", "Víz: Pchela-víztározó", "Szófia távolsága: 55 km"],
       ro: ["Regiune: Pernik", "Personalitate: Georgi Dimitrov", "Lac: Pchela", "Distanță Sofia: 55 km"],
       en: ["Region: Pernik", "Figure: Georgi Dimitrov", "Water: Pchela Reservoir", "Sofia distance: 55 km"],
-    }, image: "/poi-images/bulgaria-kovachevtsi-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-vrantsa-cities-v2",
     type: "town",
@@ -1240,7 +1279,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 50 000 fő", "Barlang: Ledenika", "Szurdok: Vracata (sziklák)", "Régió: Északnyugat-Bulgária"],
       ro: ["Populație: cca. 50.000", "Peșteră: Ledenika", "Defileu: Vratsata", "Regiune: Bulgaria de NV"],
       en: ["Population: approx. 50,000", "Cave: Ledenika", "Gorge: Vratsata (cliffs)", "Region: NW Bulgaria"],
-    }, image: "/poi-images/bulgaria-vrantsa-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-yabulkovo-cities-v2",
     type: "town",
@@ -1303,7 +1343,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A falu a Balkán-hegységben, 700 méter feletti magasságban fekszik.", "A legenda szerint egy de Boeuf nevű francia kereszteslovag alapította.", "Népessége az 1000 főt sem éri el.", "A közeli Szklalja-vízesés 85 méteres magasságból zuhan alá.", "Ivan Vazov bolgár író gyakran merített ihletet a helyből.", "Gara Bov (Bov vasútállomás) a falu alatt, a folyóparton fekszik."],
       ro: ["Satul se află la peste 700 de metri altitudine pe versanți.", "Populația este sub 1.000 de locuitori, în scădere continuă.", "Tradiția spune că a fost fondat în 1206 de cavalerul francez de Boeuf.", "Cascada Skaklya, cu o cădere de 85 metri, se află pe traseul ecologic local.", "Scriitorul Ivan Vazov a dedicat povestiri acestor meleaguri.", "Linia de cale ferată Sofia-Mezdra trece prin stația Gara Bov."],
       en: ["Located at an elevation exceeding 700 meters above the Iskar Gorge.", "Population is under 1,000, spread between the village and train station.", "Legend attributes its founding to a 13th-century crusader named de Boeuf.", "The nearby Skaklya Waterfall is one of Bulgaria's highest at 85 meters.", "Features an eco-trail dedicated to national writer Ivan Vazov.", "Located approximately 50 kilometers north of Sofia."],
-    }, image: "/poi-images/bulgaria-bov-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-golyamo-selo-cities-v2",
     type: "town",
@@ -1334,7 +1375,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Kistérség: Bobov Dol", "Régió: Kyustendil", "Gazdaság: szén és energia", "Lakosság: kb. 450 fő"],
       ro: ["Comună: Bobov Dol", "Regiune: Kyustendil", "Economie: Cărbune & Energie", "Populație: cca. 450"],
       en: ["Municipality: Bobov Dol", "Region: Kyustendil", "Economy: Coal & Energy", "Population: approx. 450"],
-    }, image: "/poi-images/bulgaria-golyamo-selo-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-dobroslavtsi-cities-v2",
     type: "town",
@@ -1365,7 +1407,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Régió: Szófia város", "Egykori funkció: légibázis", "Lakosság: kb. 1 100 fő", "Szófia távolsága: 15 km"],
       ro: ["Regiune: Sofia-Oraș", "Utilizare istorică: Bază aeriană", "Populație: cca. 1.100", "Distanță Sofia: 15 km"],
       en: ["Region: Sofia City", "Historical use: Airbase", "Population: approx. 1,100", "Sofia distance: 15 km"],
-    }, image: "/poi-images/bulgaria-dobroslavtsi-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-kresna-cities-v2",
     type: "city",
@@ -1396,7 +1439,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A tengerszint feletti magasság 170 méter a városban.", "Lakossága 3500 fő körül volt 2021-ben.", "A 18 km hosszú Kreszna-szoros Bulgária egyik leggazdagabb élőhelye.", "1878-ban az Oszmán Birodalom elleni felkelés központja volt.", "Meleg klímája ideális a szőlő- és őszibarack-termesztéshez.", "A Sztruma folyón gyakran szerveznek vadvízi evezést."],
       ro: ["Altitudinea orașului este de doar 170 de metri.", "Populația era de aproximativ 3.500 de locuitori în 2021.", "Defileul Kresna are 18 km și adăpostește zeci de specii endemice.", "Răscoala Kresna-Razlog din 1878 a început în această zonă.", "Râul Struma oferă cel mai bun rafting din Bulgaria.", "Regiunea este dominată de influențe climatice mediteraneene."],
       en: ["Elevation is 170 meters in the Struma River valley.", "Population was recorded at approximately 3,500 in 2021.", "The adjacent 18-kilometer Kresna Gorge is a Natura 2000 protected site.", "Site of the Kresna-Razlog uprising against Ottoman rule in 1878.", "Mediterranean climate allows for extensive peach and vineyard cultivation.", "A major domestic hub for whitewater rafting and kayaking."],
-    }, image: "/poi-images/bulgaria-kresna-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-valchedram-cities-v2",
     type: "city",
@@ -1459,7 +1503,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Jagodina 1173 méteres tengerszint feletti magasságban fekszik.", "Népessége mintegy 400 fő.", "A 10,5 km hosszú Jagodina-barlang Bulgária egyik leghosszabb barlangja.", "Az 'Saskzem' (Orlovo oko) kilátó 1563 méter magasan épült egy sziklára.", "A falu a festői Bujnovo-szurdok része.", "A helyiek hagyományosan juhtenyésztéssel és turizmussal foglalkoznak."],
       ro: ["Altitudinea satului este de 1.173 de metri în munții Rodopi.", "Populația este de doar 400 de locuitori.", "Peștera Yagodina se întinde pe trei niveluri și 10,5 km.", "Platforma suspendată „Ochiul Vulturului” e montată la 1.563 m altitudine.", "Traseul trece prin defileul Buynovo, foarte îngust și spectaculos.", "În peșteră se oficiază frecvent ceremonii de căsătorie."],
       en: ["Elevation is 1,173 meters deep in the Western Rhodope Mountains.", "Population stands at around 400 residents.", "The Yagodina Cave is 10.5 kilometers long, spanning three levels.", "The Eagle's Eye panoramic platform is perched at 1,563 meters.", "Reached via the spectacular and narrow Buynovo Gorge.", "New Year's Eve is traditionally celebrated by locals inside the cave."],
-    }, image: "/poi-images/bulgaria-yagodina-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-bobrek-cities-v2",
     type: "town",
@@ -1490,7 +1535,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Típus: tó / helynév", "Helyszín: Rila-hegység", "Magasság (tó): 2 282 m", "Jelentése: Vese (alak)"],
       ro: ["Tip: Lac / Toponim", "Locație: Munții Rila", "Altitudine (lac): 2.282 m", "Semnificație: Rinichi (formă)"],
       en: ["Type: Lake / Toponym", "Location: Rila Mountains", "Elevation (lake): 2,282 m", "Meaning: Kidney (shape)"],
-    }, image: "/poi-images/bulgaria-bobrek-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-chernomorets-cities-v2",
     type: "city",
@@ -1521,7 +1567,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 2 200 fő", "Helyszín: Burgaszi-öböl", "Part: Fekete-tenger", "Szozopol távolsága: 8 km"],
       ro: ["Populație: cca. 2.200", "Locație: Golful Burgas", "Țărm: Marea Neagră", "Distanță Sozopol: 8 km"],
       en: ["Population: approx. 2,200", "Location: Gulf of Burgas", "Coast: Black Sea", "Sozopol distance: 8 km"],
-    }, image: "/poi-images/bulgaria-chernomorets-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-banya-razlog-cities-v2",
     type: "town",
@@ -1552,7 +1599,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Termálforrások: 72", "Hőmérséklet: 37-57 °C", "Magasság: 800 m", "Helyszín: Pirin és Rila között"],
       ro: ["Izvoare termale: 72", "Temperatură: 37-57 °C", "Altitudine: 800 m", "Locație: Între Pirin și Rila"],
       en: ["Thermal springs: 72", "Temperature: 37-57 °C", "Elevation: 800 m", "Location: Between Pirin & Rila"],
-    }, image: "/poi-images/bulgaria-banya-razlog-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-klisura-cities-v2",
     type: "city",
@@ -1583,7 +1631,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A város 696 méter magasan fekszik a Sztrjama folyó völgye felett.", "Népessége 2021-ben alig érte el az 1000 főt.", "Az 1876-os felkelés leverésekor az oszmán csapatok földig rombolták.", "A Borimeska-emlékmű egy felkelő ágyúst ábrázol a város felett.", "A Rózsa-völgy legnyugatibb fekvésű települése.", "Történelmi Múzeuma őrzi az eredeti cseresznyefa ágyúk másolatait."],
       ro: ["Altitudinea este de 696 de metri la poalele Balcanilor.", "Populația este de aproximativ 1.000 de locuitori.", "A fost complet incendiată de forțele otomane în aprilie 1876.", "Monumentul lui Borimeshka domină dealul din apropierea orașului.", "Se află la extremitatea vestică a faimoasei Văi a Trandafirilor.", "Muzeul local expune tunurile din lemn de cireș folosite de rebeli."],
       en: ["Elevation is 696 meters at the western end of the Rose Valley.", "Population dropped to approximately 1,000 residents by 2021.", "Completely destroyed by Ottoman irregulars during the 1876 uprising.", "The massive Borimeshka monument commemorates the local rebels.", "Cultivation of Rosa damascena is a traditional local industry.", "Features authentic reconstructions of cherry-wood cannons."],
-    }, image: "/poi-images/bulgaria-klisura-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-panagyurishte-cities-v2",
     type: "city",
@@ -1614,7 +1663,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A 6,16 kg súlyú, színarany trák kincset 1949-ben találták meg.", "A város az 1876-os áprilisi felkelés egyik fő bázisa volt.", "A tengerszint feletti magassága 540 méter.", "Népessége 2021-ben nagyjából 15 000 fő volt.", "Az Aszarel-Medet rézbánya a Balkán legnagyobb fejtése.", "Az Oboriste történelmi emlékhely a város közelében fekszik."],
       ro: ["Tezaurul de aur a fost descoperit din întâmplare în 1949.", "Cele 9 vase de aur curat cântăresc în total 6,16 kg.", "A fost capitala de facto a Răscoalei din Aprilie 1876.", "Altitudinea orașului este de 540 de metri.", "Populația era de circa 15.000 de locuitori în 2021.", "Complexul minier Asarel-Medet extrage cupru în apropiere."],
       en: ["The Thracian gold treasure (6.16 kg of 24-carat gold) was found in 1949.", "Served as the epicenter of the April Uprising against Ottoman rule in 1876.", "Elevation is 540 meters in the Sredna Gora mountain range.", "Population was roughly 15,000 according to the 2021 census.", "The local Asarel-Medet copper mine is the largest in the Balkans.", "Raina Knyaginya embroidered the flag for the 1876 rebellion here."],
-    }, image: "/poi-images/bulgaria-panagyurishte-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-batanovtsi-cities-v2",
     type: "city",
@@ -1645,7 +1695,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Batanovci 664 méteres tengerszint feletti magasságban fekszik.", "Népessége 2021-ben 2000 fő körül volt.", "Bulgária első cementgyára itt kezdte meg működését 1914-ben.", "A kommunizmus alatt (1950–1992) Temelkovo néven ismerték.", "A Sztruma folyó átszeli a települést.", "A 20. században fontos szénbányászati kiegészítő ipar működött itt."],
       ro: ["Altitudinea este de 664 de metri în valea Struma.", "Populația era de doar 2.000 de locuitori în 2021.", "Prima fabrică de ciment din Bulgaria s-a deschis aici în 1914.", "A purtat numele Temelkovo în perioada 1950–1992.", "Industria s-a prăbușit după anii 1990, reducând mult populația.", "Se află la doar 8 kilometri de orașul Pernik."],
       en: ["Elevation is 664 meters in the upper Struma River valley.", "Population dropped to approximately 2,000 by 2021.", "Home to Bulgaria's very first cement factory, built in 1914.", "Officially named Temelkovo from 1950 until 1992.", "Deindustrialization in the 1990s led to severe population decline.", "Serves as a transit point on the railway line to Kulata."],
-    }, image: "/poi-images/bulgaria-batanovtsi-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-kustendil-cities-v2",
     type: "city",
@@ -1676,7 +1727,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 40 000 fő", "Ókori név: Pautalia", "Alapítás: i.e. 5. század", "Ásványvíz: 74 °C"],
       ro: ["Populație: cca. 40.000", "Nume antic: Pautalia", "Fondat: Secolul V î.Hr.", "Apa minerală: 74 °C"],
       en: ["Population: approx. 40,000", "Ancient name: Pautalia", "Founded: 5th century BC", "Mineral water: 74 °C"],
-    }, image: "/poi-images/bulgaria-kustendil-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-belovo-cities-v2",
     type: "city",
@@ -1707,7 +1759,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A tengerszint feletti magasság 320 méter.", "Népessége 3500 fő körül alakult 2021-ben.", "A belovói papírgyárat 1900-ban alapították svájci és bolgár tőkéből.", "A közeli Golyamo Belovo faluban egy 6. századi bazilika romjai állnak.", "A termálforrások vize eléri a 42 Celsius-fokot.", "A Jadenica folyó itt torkollik a Maricába."],
       ro: ["Altitudinea este de 320 de metri.", "Populația era de aproximativ 3.500 de locuitori în 2021.", "Fabrica locală de hârtie a fost inaugurată în anul 1900.", "Ruinele unei bazilici din secolul VI se găsesc la sud de oraș.", "Izvoarele minerale din zonă ating temperaturi de 42°C.", "Defileul Yadenitsa separă munții Rila de Rodopi lângă oraș."],
       en: ["Elevation is 320 meters at the western end of the Thracian Plain.", "Population was recorded at roughly 3,500 in 2021.", "The Belovo Paper Mill, established in 1900, is a major employer.", "Ruins of a large 6th-century Byzantine basilica are located nearby.", "Thermal mineral waters flow at a natural temperature of 42°C.", "Serves as a starting point for hiking trails into the Rila Mountains."],
-    }, image: "/poi-images/bulgaria-belovo-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-breshnik-cities-v2",
     type: "city",
@@ -1738,7 +1791,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A város 755 méteres tengerszint feletti magasságban fekszik.", "Népessége 2021-ben 3500 fő körül volt.", "A 'Zseljazna Voda' (vasvíz) forrás magas vastartalmú ásványvíz.", "A Garvan sziklán ősi, trák megalitikus szentély romjai találhatók.", "A Szveta Petka templom a 15. századból származik.", "A város egy erdős, hegyes medencében terül el."],
       ro: ["Altitudinea este de 755 de metri în depresiunea Pernik.", "Populația număra aproximativ 3.500 de locuitori în 2021.", "Izvorul „Jelezna Voda” este faimos pentru conținutul ridicat de fier.", "Biserica Sfânta Petka a fost construită în secolul XV.", "Ruinele unui sanctuar megalitic se află pe dealul Garvan.", "Tradiția măștilor Surva este extrem de populară în satele din jur."],
       en: ["Elevation is 755 meters in the valleys west of Sofia.", "Population was approximately 3,500 during the 2021 census.", "The local 'Zhelyazna Voda' spring is exceptionally rich in iron ions.", "The 15th-century Church of St. Petka is a local cultural monument.", "An ancient Thracian megalithic temple sits on the nearby Garvan Hill.", "Located 50 kilometers west of the national capital, Sofia."],
-    }, image: "/poi-images/bulgaria-breshnik-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-bratsigovo-cities-v2",
     type: "city",
@@ -1769,7 +1823,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 4 000 fő", "Esemény: Áprilisi felkelés", "Óratorony éve: 1835", "Régió: Pazardzhik"],
       ro: ["Populație: cca. 4.000", "Eveniment: Răscoala din Aprilie", "Turn ceas: 1835", "Regiune: Pazardzhik"],
       en: ["Population: approx. 4,000", "Event: April Uprising", "Clock tower: 1835", "Region: Pazardzhik"],
-    }, image: "/poi-images/bulgaria-bratsigovo-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-buhovo-cities-v2",
     type: "town",
@@ -1800,7 +1855,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 2 700 fő", "Helyszín: Szófia város régió", "Gazdaság: egykori bányászat", "Kolostor: Szt. Mária Magdolna"],
       ro: ["Populație: cca. 2.700", "Locație: Regiunea Sofia", "Economie: Fost minerit", "Mănăstire: Sf. Maria Magdalena"],
       en: ["Population: approx. 2,700", "Location: Sofia City region", "Economy: Former mining", "Monastery: St. Mary Magdalene"],
-    }, image: "/poi-images/bulgaria-buhovo-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-batenberg-varna-cities-v2",
     type: "town",
@@ -1863,7 +1919,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 3 000 fő", "Funkció: vasúti csomópont", "Régió: Shumen", "Pliszka távolsága: 7 km"],
       ro: ["Populație: cca. 3.000", "Funcție: Nod feroviar", "Regiune: Shumen", "Distanță Pliska: 7 km"],
       en: ["Population: approx. 3,000", "Function: Railway junction", "Region: Shumen", "Pliska distance: 7 km"],
-    }, image: "/poi-images/bulgaria-kaspichan-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-zlatograd-cities-v2",
     type: "city",
@@ -1894,7 +1951,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A Rodope-hegység egyik legdélibb fekvésű bolgár városa.", "Mindössze 2 kilométerre található a görög államhatártól.", "Több mint 100 védett műemléképület található a központban.", "Tengerszint feletti magassága megközelítőleg 420 méter.", "A város neve magyarul 'Aranyváros'-t jelent.", "A helyi postahivatal 1834-ben kezdte meg működését."],
       ro: ["Se află în extremitatea sudică a Munților Rodopi.", "Distanța până la granița elenă este de doar 2 kilometri.", "Complexul etnografic include peste 100 de clădiri restaurate.", "Altitudinea medie a orașului este de 420 metri.", "Până în 1934, localitatea purta numele de Daridere.", "Biserica Adormirea Maicii Domnului datează din 1834."],
       en: ["Located in the Smolyan Province of southern Bulgaria.", "Positioned approximately 2 kilometers from the Greek border.", "The Ethnographic Areal Complex features 100+ Revival-era houses.", "Sits at an elevation of 420 meters (1,378 feet) above sea level.", "Known as Daridere until it was renamed Zlatograd in 1934.", "The town's oldest church was constructed in 1834."],
-    }, image: "/poi-images/bulgaria-zlatograd-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-suvorovo-cities-v2",
     type: "city",
@@ -1925,7 +1983,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 4 500 fő", "Történelmi esemény: 1774-es csata", "Régió: Várna", "Névfelvétel: 1934"],
       ro: ["Populație: cca. 4.500", "Eveniment istoric: Bătălia din 1774", "Regiune: Varna", "Nume din: 1934"],
       en: ["Population: approx. 4,500", "Historic event: 1774 Battle", "Region: Varna", "Named since: 1934"],
-    }, image: "/poi-images/bulgaria-suvorovo-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-devin-cities-v2",
     type: "city",
@@ -1956,7 +2015,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Magasság: 710 m", "Lakosok: ~6.000", "Vízhőmérséklet: akár 76°C", "Folyó: Vacsa"],
       ro: ["Altitudine: 710 m", "Locuitori: ~6.000", "Temperatura apei: până la 76°C", "Râu: Vacha"],
       en: ["Elevation: 710 m", "Population: ~6,000", "Water temp: up to 76°C", "River: Vacha"],
-    }, image: "/poi-images/bulgaria-devin-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-banya-nebeska-cities-v2",
     type: "town",
@@ -1987,7 +2047,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Régió: Szófia", "Távolság Szamokovtól: 15 km", "Gazdaság: Szántóföldi művelés", "Táj: Dombos"],
       ro: ["Regiune: Sofia", "Distanța Samokov: 15 km", "Economie: Agricultură", "Peisaj: Deluros"],
       en: ["Region: Sofia", "Dist to Samokov: 15 km", "Econ: Crop farming", "Landscape: Hilly"],
-    }, image: "/poi-images/bulgaria-banya-nebeska-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-topolovgrad-cities-v2",
     type: "city",
@@ -2018,7 +2079,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Hegység: Sakar", "Híres a dolmenekről", "Termék: Vörösbor", "Régió: Haszkovó"],
       ro: ["Munți: Sakar", "Faimos pentru: Dolmene", "Produs: Vin roșu", "Regiune: Haskovo"],
       en: ["Mountain: Sakar", "Famous for: Dolmens", "Product: Red wine", "Region: Haskovo"],
-    }, image: "/poi-images/bulgaria-topolovgrad-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-banya-varna-cities-v2",
     type: "town",
@@ -2049,7 +2111,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Régió: Várna", "Távolság Várnától: 25 km", "Éghajlat: Tengeri", "Termény: Napraforgó"],
       ro: ["Regiune: Varna", "Distanța Varna: 25 km", "Climat: Maritim", "Cultură: Floarea-soarelui"],
       en: ["Region: Varna", "Dist to Varna: 25 km", "Climate: Maritime", "Crop: Sunflower"],
-    }, image: "/poi-images/bulgaria-banya-varna-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-sarnitsa-cities-v2",
     type: "city",
@@ -2080,7 +2143,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A település 1200 méteres tengerszint feletti magasságban fekszik.", "2003. január 1-jén kapott hivatalos városi státuszt.", "A Doszpat-víztározó partvidéke népszerű horgászhely.", "Erdészeti és faipari vállalatok adják a helyi munkahelyek zömét.", "Önálló kistérségként 2015. január 1. óta működik.", "A lakosság döntő többsége pomák (bolgár muszlim)."],
       ro: ["Așezarea este situată la o altitudine de 1.200 de metri.", "A primit statutul oficial de oraș la 1 ianuarie 2003.", "Se află pe malul lacului Dospat, extins pe 19 km lungime.", "Economia locală depinde în proporție de 80% de prelucrarea lemnului.", "Comuna Sărnița s-a desprins din Velingrad în 2015.", "Majoritatea celor 3.500 de locuitori sunt musulmani bulgari."],
       en: ["Situated at an altitude of approximately 1,200 meters.", "Officially recognized as a town on January 1, 2003.", "Borders the Dospat Reservoir, which spans 19 kilometers.", "The local municipality was established on January 1, 2015.", "Timber processing is the primary industrial activity.", "The town has a population of roughly 3,500 people."],
-    }, image: "/poi-images/bulgaria-sarnitsa-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-banya-stara-zagora-cities-v2",
     type: "town",
@@ -2111,7 +2175,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["A helyi termálvíz hőmérséklete meghaladja a 40 °C-ot.", "A víz ásványianyag-tartalma különösen ízületi panaszokra jó.", "A Szredna Gora hegység déli lankáin terül el.", "Régészeti leletek bizonyítják az ókori trák jelenlétet.", "Több modern szanatórium épült a településen az elmúlt évtizedben.", "Tengerszint feletti magassága hozzávetőlegesen 300 méter."],
       ro: ["Temperatura apelor termale depășește frecvent 40 de grade Celsius.", "Apele sunt bogate în sulf și indicate pentru afecțiuni reumatismale.", "Localitatea se află pe versantul sudic al Munților Sredna Gora.", "Artefacte tracice descoperite atestă utilizarea antică a izvoarelor.", "Numărul clinicilor de recuperare a crescut semnificativ din 2010.", "Altitudinea stațiunii este de aproximativ 300 de metri."],
       en: ["Mineral springs output water exceeding 40°C (104°F).", "The water is historically used for treating musculoskeletal disorders.", "Positioned on the southern slopes of the Sredna Gora range.", "Archaeological evidence points to ancient Thracian habitation.", "Recent investments have expanded the local spa tourism sector.", "The town sits at an average elevation of 300 meters."],
-    }, image: "/poi-images/bulgaria-banya-stara-zagora-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-batanovtsi-rural-cities-v2",
     type: "town",
@@ -2142,7 +2207,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Folyó: Sztruma", "Régió: Pernik", "Városi rang: 1974 óta", "Távolság Szófia: 35 km"],
       ro: ["Râu: Struma", "Regiune: Pernik", "Statut oraș: din 1974", "Distanța Sofia: 35 km"],
       en: ["River: Struma", "Region: Pernik", "Town status: since 1974", "Dist to Sofia: 35 km"],
-    }, image: "/poi-images/bulgaria-batanovtsi-rural-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-sapareva-banya-cities-v2",
     type: "city",
@@ -2173,7 +2239,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Gejzír: 103°C", "Szökőkút: 18 m magas", "Magasság: 750 m", "Felfedezés: 1957"],
       ro: ["Gheizer: 103°C", "Fântână: 18 m înălțime", "Altitudine: 750 m", "Descoperire: 1957"],
       en: ["Geyser temp: 103°C", "Gush height: 18 m", "Elevation: 750 m", "Discovery: 1957"],
-    }, image: "/poi-images/bulgaria-sapareva-banya-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-batenberg-pazardzhik-cities-v2",
     type: "town",
@@ -2236,7 +2303,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Fennsík: Dobrudzsa", "Max. magasság: 317 m", "Fő termény: Búza", "Lakosok: ~3.000"],
       ro: ["Platou: Dobrogea", "Alt. maximă: 317 m", "Cultură princ.: Grâu", "Locuitori: ~3.000"],
       en: ["Plateau: Dobruja", "Max alt: 317 m", "Main crop: Wheat", "Population: ~3,000"],
-    }, image: "/poi-images/bulgaria-valchi-dol-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-banya-pazardzhik-cities-v2",
     type: "town",
@@ -2331,7 +2399,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Vármegye: Burgasz", "Parti távolság: 20 km", "Talaj: Csernozjom", "Gazdaság: Gyümölcs"],
       ro: ["Provincie: Burgas", "Distanța coastă: 20 km", "Sol: Cernoziom", "Economie: Pomicultură"],
       en: ["Province: Burgas", "Dist to coast: 20 km", "Soil: Chernozem", "Econ: Orchards"],
-    }, image: "/poi-images/bulgaria-banya-burgas-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-batenberg-lovech-cities-v2",
     type: "town",
@@ -2650,7 +2719,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Vármegye: Burgasz", "Napospart: 15 km", "Erőforrás: Termálvíz", "Magasság: ~100 m"],
       ro: ["Provincie: Burgas", "Sunny Beach: 15 km", "Resursă: Apă termală", "Altitudine: ~100 m"],
       en: ["Province: Burgas", "Sunny Beach: 15 km", "Resource: Thermal water", "Elevation: ~100 m"],
-    }, image: "/poi-images/bulgaria-banya-burgas-2-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-batenberg-pazardzhik-2-cities-v2",
     type: "town",
@@ -2777,7 +2847,8 @@ export const bulgariaCitiesV2: POI[] = [
       hu: ["Ennek a zónának az átlagos tengerszint feletti magassága 550 méter.", "A kecske- és juhtartás a legelterjedtebb mezőgazdasági ágazat.", "Ebben a magasságban a tölgyeseket sűrű bükkerdők váltják fel.", "A területet számos apró, névtelen hegyi patak szeli át.", "A köves, vékony termőrétegű talaj alkalmatlan a szántóföldi művelésre.", "A pásztorok ma is az oszmán időkben kiépített köves ösvényeket használják."],
       ro: ["Altitudinea medie a acestui sector este de aproximativ 550 de metri.", "Creșterea caprinelor și ovinelor domină economia agrară locală.", "Pădurile dese de fag înlocuiesc stejarul la această altitudine.", "Zona este brăzdată de numeroase pâraie montane cu debit variabil.", "Solul pietros și subțire face agricultura clasică imposibilă.", "Ciobanii locali utilizează cărări de piatră datând din perioada otomană."],
       en: ["The average elevation of this specific cadastral zone is 550 meters.", "Goat and sheep grazing dominate the local agrarian output.", "Dense beech forests begin to replace oak timber at this altitude.", "The zone is intersected by numerous small, unnamed mountain streams.", "Rocky and thin soil profiles render traditional crop farming impossible.", "Local shepherds utilize historic stone paths dating to the Ottoman era."],
-    }, image: "/poi-images/bulgaria-banya-lovech-2-cities-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-batenberg-vtarnovo-2-cities-v2",
     type: "town",

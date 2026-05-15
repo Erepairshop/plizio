@@ -31,7 +31,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: kb. 50 m", "Terület: 5 km²", "Olajfák száma: több mint 2000", "Villa épült: 1934", "Strandok száma: 3", "Éves napsütéses órák: 2500"],
       ro: ["Altitudine: aprox. 50 m", "Suprafață: 5 km²", "Măslini: peste 2.000", "Vila construită: 1934", "Număr de plaje: 3", "Ore de soare anuale: 2.500"],
       en: ["Elevation: approx. 50 m", "Area: 5 km²", "Olive trees: over 2,000", "Villa built: 1934", "Number of beaches: 3", "Annual sunshine hours: 2,500"],
-    }, image: "/poi-images/montenegro-milocer-plateau-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-vraca-peak-relief-v2",
     type: "peak",
@@ -62,7 +63,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 1874 m", "Éves csapadék: >5000 mm", "Endemikus növényfajok: 10", "Az Orjen-hegység része", "Kilátás a Kotori-öbölre", "Hóborítás májusig"],
       ro: ["Altitudine: 1.874 m", "Precipitații anuale: >5.000 mm", "Specii endemice de plante: 10", "Parte a Munților Orjen", "Vedere asupra Golfului Kotor", "Zăpadă până în mai"],
       en: ["Elevation: 1,874 m", "Annual precipitation: >5,000 mm", "Endemic plant species: 10", "Part of Orjen Mountains", "Overlooks Bay of Kotor", "Snow cover until May"],
-    }, image: "/poi-images/montenegro-vraca-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-pusto-polje-plateau-relief-v2",
     type: "mountain",
@@ -93,7 +95,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: kb. 1400 m", "Terület: 10 km²", "Talajtípus: mészkő", "Népsűrűség: <5 fő/km²", "Kunyhók: 20 hagyományos", "Vízgyűjtő: Tara és Lim"],
       ro: ["Altitudine: aprox. 1.400 m", "Suprafață: 10 km²", "Tip sol: calcaros", "Densitate populație: <5 loc./km²", "Colibe: 20 tradiționale", "Bazin hidrografic: Tara și Lim"],
       en: ["Elevation: approx. 1,400 m", "Area: 10 km²", "Soil type: limestone", "Population density: <5 per km²", "Shepherd huts: 20 traditional", "Watershed: Tara and Lim"],
-    }, image: "/poi-images/montenegro-pusto-polje-plateau-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-stavor-hill-relief-v2",
     type: "mountain",
@@ -156,7 +159,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 2122 m", "Kőzet: mészkő/dolomit", "Erdőborítás: 70%", "Állatfajok: zerge, vaddisznó", "Gleccserkár: 3", "Hóborítás: novembertől májusig"],
       ro: ["Altitudine: 2.122 m", "Rocă: calcar/dolomit", "Acoperire forestieră: 70%", "Specii animale: capră neagră, mistreț", "Circuri glaciare: 3", "Zăpadă: noiembrie până în mai"],
       en: ["Elevation: 2,122 m", "Rock type: limestone/dolomite", "Forest cover: 70%", "Animal species: chamois, wild boar", "Glacial cirques: 3", "Snow cover: November to May"],
-    }, image: "/poi-images/montenegro-zeletin-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-vjeternik-ridge-relief-v2",
     type: "peak",
@@ -187,7 +191,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Hossz: 8 km", "Maximális magasság: 2300 m", "Szélsebesség: >100 km/h", "Mászóutak: 15", "Madárfajok: vándorsólyom, szirti sas", "A Durmitor Nemzeti Park része"],
       ro: ["Lungime: 8 km", "Altitudine maximă: 2.300 m", "Viteza vântului: >100 km/h", "Trasee de alpinism: 15", "Specii de păsări: șoim călător, acvilă de munte", "Parte a Parcului Național Durmitor"],
       en: ["Length: 8 km", "Maximum elevation: 2,300 m", "Wind speed: >100 km/h", "Climbing routes: 15", "Bird species: peregrine falcon, golden eagle", "Part of Durmitor National Park"],
-    }, image: "/poi-images/montenegro-vjeternik-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-lise-peak-relief-v2",
     type: "peak",
@@ -250,7 +255,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 1945 m", "Összeköti a Tara és Komarnica völgyét", "Távolság Žabljaktól: 5 km", "Túraútvonalak: 3 jelzett", "Rovarok száma: több mint 500", "Júliusi átlaghőmérséklet: 12°C"],
       ro: ["Altitudine: 1.945 m", "Leagă văile Tara și Komarnica", "Distanța de Žabljak: 5 km", "Trasee de drumeție: 3 marcate", "Specii de insecte: peste 500", "Temperatura medie în iulie: 12°C"],
       en: ["Elevation: 1,945 m", "Connects Tara and Komarnica valleys", "Distance to Žabljak: 5 km", "Hiking trails: 3 marked", "Insect species: over 500", "Average July temperature: 12°C"],
-    }, image: "/poi-images/montenegro-krstac-saddle-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-vojnik-range-relief-v2",
     type: "mountain",
@@ -281,7 +287,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Hossz: 15 km", "Legmagasabb csúcs: 1984 m (Vojnik)", "Erdőborítás: 85%", "Folyók vízgyűjtője: Piva, Tara", "Nagyragadozók: medve, farkas, hiúz", "Karsztforrások száma: 10"],
       ro: ["Lungime: 15 km", "Cel mai înalt vârf: 1.984 m (Vojnik)", "Acoperire forestieră: 85%", "Bazin hidrografic: Piva, Tara", "Mari carnivore: urs, lup, râs", "Număr de izvoare carstice: 10"],
       en: ["Length: 15 km", "Highest peak: 1,984 m (Vojnik)", "Forest cover: 85%", "Watershed: Piva, Tara rivers", "Large carnivores: bear, wolf, lynx", "Karst springs: 10"],
-    }, image: "/poi-images/montenegro-vojnik-range-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-cicevo-plain-relief-v2",
     type: "valley",
@@ -312,7 +319,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: kb. 10 m", "Terület: 50 km²", "Népesség: 20 000 (Ulcinj)", "Mezőgazdaság: olajbogyó, füge, citrusfélék", "Sólepárlók: 2 (3 km²)", "Éves napos napok: 260"],
       ro: ["Altitudine: aprox. 10 m", "Suprafață: 50 km²", "Populație: 20.000 (Ulcinj)", "Agricultură: măsline, smochine, citrice", "Saline: 2 (3 km²)", "Zile însorite anuale: 260"],
       en: ["Elevation: approx. 10 m", "Area: 50 km²", "Population: 20,000 (Ulcinj)", "Agriculture: olives, figs, citrus", "Salt pans: 2 (3 km²)", "Annual sunny days: 260"],
-    }, image: "/poi-images/montenegro-cicevo-plain-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-golija-mountain-relief-v2",
     type: "mountain",
@@ -343,7 +351,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 1892 m", "A Biogradska Gora Nemzeti Park területe: 54 km²", "A parkot 1952-ben alapították", "Legközelebbi város: Kolašin (7 km)", "A masszívum legmagasabb csúcsa: Crna Glava (2139 m)", "Évi átlagos hótakaró: 120 nap"],
       ro: ["Altitudine: 1.892 m", "Parcul Național Biogradska Gora a fost fondat în 1952", "Suprafața parcului: 54 km²", "Cel mai apropiat oraș: Kolašin (7 km)", "Cel mai înalt vârf din masiv: Crna Glava (2.139 m)", "Zăpadă medie anuală: 120 de zile"],
       en: ["Elevation: 1,892 m", "Part of Biogradska Gora National Park (established 1952)", "Park area: 54 km²", "Nearest city: Kolašin (7 km away)", "Highest peak in the massif: Crna Glava (2,139 m)", "Average annual snow cover: 120 days"],
-    }, image: "/poi-images/montenegro-golija-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-budoš-range-relief-v2",
     type: "mountain",
@@ -374,7 +383,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["A vonulat hossza: 15 km", "Legmagasabb pont: 1739 m", "Kőzet: mezozoos mészkő és dolomit", "Vízgyűjtő: Morača folyó", "Fenyőerdő aránya: 40%", "Éves csapadék: kb. 2500 mm"],
       ro: ["Lungimea crestei: 15 km", "Altitudinea maximă: 1.739 m", "Roca: calcar și dolomit mezozoic", "Aparține bazinului râului Morača", "Procentaj de pădure de conifere: 40%", "Precipitații anuale: aproximativ 2.500 mm"],
       en: ["Length of the ridge: 15 km", "Highest point: 1,739 m", "Rock type: Mesozoic limestone and dolomite", "Part of the Morača River watershed", "Coniferous forest coverage: 40%", "Annual precipitation: approx. 2,500 mm"],
-    }, image: "/poi-images/montenegro-budoš-range-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-hum-peak-relief-v2",
     type: "peak",
@@ -405,7 +415,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 1412 m", "Község: Nikšić", "Kőzet: karsztos mészkő", "Legközelebbi tó: Bilećko-tó (5 km)", "Átlagos éves hőmérséklet: 10,5 °C", "Bauxitbányászat a régióban az 1950-es évek óta"],
       ro: ["Altitudine: 1.412 m", "Comuna: Nikšić", "Roca: calcar carstic", "Cel mai apropiat lac: Lacul Bilećko (5 km)", "Temperatura medie anuală: 10,5 °C", "Exploatarea bauxitei în regiune din anii 1950"],
       en: ["Elevation: 1,412 m", "Municipality: Nikšić", "Rock type: Karst limestone", "Nearest lake: Bilećko Lake (5 km away)", "Average annual temperature: 10.5 °C", "Bauxite mining in region since the 1950s"],
-    }, image: "/poi-images/montenegro-hum-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-kapa-moracka-relief-v2",
     type: "peak",
@@ -436,7 +447,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 2226 m", "Nemzeti Park: Biogradska Gora (1952 óta)", "Kőzet: mészkő és dolomit", "Első ismert megmászás: 1930-as években helyi vadászok", "Átlagos téli hóvastagság: 2 m", "Endemikus növényfajok száma a masszívumban: legalább 5"],
       ro: ["Altitudine: 2.226 m", "Parcul Național: Biogradska Gora (din 1952)", "Roca: calcar și dolomit", "Prima ascensiune cunoscută: anii 1930 de vânători locali", "Grosimea medie a zăpezii iarna: 2 m", "Număr de specii endemice de plante în masiv: cel puțin 5"],
       en: ["Elevation: 2,226 m", "National Park: Biogradska Gora (since 1952)", "Rock type: limestone and dolomite", "First known ascent: 1930s by local hunters", "Average snow depth in winter: 2 m", "Number of endemic plant species in the massif: at least 5"],
-    }, image: "/poi-images/montenegro-kapa-moracka-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-durmitor-sedlo-relief-v2",
     type: "valley",
@@ -467,7 +479,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: kb. 2000 m", "Nemzeti Park: Durmitor (1952 óta)", "UNESCO világörökség 1980 óta", "Legközelebbi tó: Crno Jezero (2 km)", "A nyereg hossza: kb. 500 m", "Átlagos nyári hőmérséklet: 12 °C"],
       ro: ["Altitudine: aproximativ 2.000 m", "Parcul Național: Durmitor (din 1952)", "Patrimoniu UNESCO din 1980", "Cel mai apropiat lac: Crno Jezero (2 km)", "Lungimea șeii: aproximativ 500 m", "Temperatura medie de vară: 12 °C"],
       en: ["Elevation: approx. 2,000 m", "National Park: Durmitor (since 1952)", "UNESCO World Heritage since 1980", "Nearest lake: Crno Jezero (2 km)", "Length of the saddle: approx. 500 m", "Average summer temperature: 12 °C"],
-    }, image: "/poi-images/montenegro-durmitor-sedlo-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-velji-vrh-peak-relief-v2",
     type: "peak",
@@ -498,7 +511,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 1940 m", "Masszívum: Orjen", "Kőzet: krétakori mészkő", "Éves csapadék: akár 5000 mm", "Távolság a Kotori-öböltől: 15 km légvonalban", "Első ismert megmászás: ismeretlen, de a 19. században osztrák térképészek mérték fel"],
       ro: ["Altitudine: 1.940 m", "Masivul: Orjen", "Roca: calcar cretacic", "Precipitații anuale: până la 5.000 mm", "Distanța până la Golful Kotor: 15 km în linie dreaptă", "Prima ascensiune cunoscută: necunoscută, dar cartografiată de austrieci în secolul al XIX-lea"],
       en: ["Elevation: 1,940 m", "Massif: Orjen", "Rock type: Cretaceous limestone", "Annual precipitation: up to 5,000 mm", "Distance to Bay of Kotor: 15 km in straight line", "First recorded ascent: unknown, but surveyed by Austrian cartographers in the 19th century"],
-    }, image: "/poi-images/montenegro-velji-vrh-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-planinica-plateau-relief-v2",
     type: "mountain",
@@ -529,7 +543,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Átlagos magasság: 1800 m", "Terület: kb. 30 km²", "Nemzeti Park: Prokletije (2009 óta)", "Legmagasabb pont a fennsíkon: 2100 m", "Víznyelők száma: több mint 200", "Éves csapadék: kb. 2000 mm"],
       ro: ["Altitudine medie: 1.800 m", "Suprafață: aproximativ 30 km²", "Parcul Național: Prokletije (din 2009)", "Cel mai înalt punct de pe platou: 2.100 m", "Număr de doline: peste 200", "Precipitații anuale: aproximativ 2.000 mm"],
       en: ["Average elevation: 1,800 m", "Area: approx. 30 km²", "National Park: Prokletije (since 2009)", "Highest point on plateau: 2,100 m", "Number of sinkholes: over 200", "Annual precipitation: approx. 2,000 mm"],
-    }, image: "/poi-images/montenegro-planinica-plateau-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-sutorman-pass-relief-v2",
     type: "valley",
@@ -560,7 +575,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: kb. 900 m", "A hágóút hossza: 15 km", "A Rumija legmagasabb csúcsa: 1594 m", "Éves járműforgalom: kb. 500.000", "Átlagos emelkedés: 8%", "Az út első dokumentált építése: 19. század, osztrák-magyar igazgatás alatt"],
       ro: ["Altitudine: aproximativ 900 m", "Lungimea drumului de trecătoare: 15 km", "Cel mai înalt vârf al Rumijei: 1.594 m", "Trafic anual de vehicule: aproximativ 500.000", "Pantă medie: 8%", "Prima construcție documentată a drumului: secolul al XIX-lea sub administrația austro-ungară"],
       en: ["Elevation: approx. 900 m", "Length of pass road: 15 km", "Highest peak of Rumija: 1,594 m", "Annual vehicle traffic: approx. 500,000", "Average gradient: 8%", "First documented road construction: 19th century under Austro-Hungarian administration"],
-    }, image: "/poi-images/montenegro-sutorman-pass-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-lisac-hill-relief-v2",
     type: "mountain",
@@ -591,7 +607,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 1352 m", "Legközelebbi város: Danilovgrad (8 km)", "Kőzet: mészkő és flis", "Erdőborítottság: a domb 70%-a", "Átlagos januári hőmérséklet: 2 °C", "Túraútvonalak száma: 4 jelzett útvonal"],
       ro: ["Altitudine: 1.352 m", "Cel mai apropiat oraș: Danilovgrad (8 km)", "Roca: calcar și fliș", "Acoperire forestieră: 70% din suprafața dealului", "Temperatura medie în ianuarie: 2 °C", "Număr de trasee de drumeție: 4 rute marcate"],
       en: ["Elevation: 1,352 m", "Nearest city: Danilovgrad (8 km)", "Rock type: limestone and flysch", "Forest cover: 70% of the hill area", "Average January temperature: 2 °C", "Number of hiking trails: 4 marked routes"],
-    }, image: "/poi-images/montenegro-lisac-hill-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-vlaška-peak-relief-v2",
     type: "peak",
@@ -622,7 +639,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 1893 m", "Község: Pljevlja", "Legközelebbi folyó: Čehotina (3 km)", "Szénkészlet a régióban: becslések szerint 500 millió tonna", "Éves csapadék: kb. 1200 mm", "Átlagos téli hóvastagság: 80 cm"],
       ro: ["Altitudine: 1.893 m", "Comuna: Pljevlja", "Cel mai apropiat râu: Čehotina (3 km)", "Rezervele de cărbune din regiune: estimate la 500 milioane de tone", "Precipitații anuale: aproximativ 1.200 mm", "Grosimea medie a zăpezii iarna: 80 cm"],
       en: ["Elevation: 1,893 m", "Municipality: Pljevlja", "Nearest river: Čehotina (3 km away)", "Coal reserves in region: estimated 500 million tons", "Annual precipitation: approx. 1,200 mm", "Average snow depth in winter: 80 cm"],
-    }, image: "/poi-images/montenegro-vlaška-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-vranjak-pasture-relief-v2",
     type: "mountain",
@@ -653,7 +671,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: kb. 1800 m", "Használati idő: június-szeptember (120 nap)", "Terület: kb. 5 km²", "Szezonális kunyhók száma: 15", "Tejtermelés szezononként: kb. 50.000 liter", "Távolság a Crno Jezero-tótól: 6 km"],
       ro: ["Altitudine: aproximativ 1.800 m", "Perioada de utilizare: iunie-septembrie (120 de zile)", "Suprafață: aproximativ 5 km²", "Număr de colibe sezoniere: 15", "Producția de lapte pe sezon: aproximativ 50.000 de litri", "Distanța până la Crno Jezero: 6 km"],
       en: ["Elevation: approx. 1,800 m", "Usage period: June to September (120 days)", "Area: approx. 5 km²", "Number of seasonal huts: 15", "Milk production per season: approx. 50,000 liters", "Distance to Crno Jezero: 6 km"],
-    }, image: "/poi-images/montenegro-vranjak-pasture-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-masna-luka-valley-relief-v2",
     type: "valley",
@@ -684,7 +703,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["A völgy hossza: 8 km", "Legközelebbi város: Foča (Bosznia, 20 km)", "Folyó: Tara", "Átlagos völgyszélesség: 500 m", "Legmagasabb pont a völgy felett: 1200 m", "Éves turisták száma: kb. 10.000"],
       ro: ["Lungimea văii: 8 km", "Cel mai apropiat oraș: Foča (Bosnia, 20 km)", "Râul: Tara", "Lățimea medie a văii: 500 m", "Cel mai înalt punct deasupra văii: 1.200 m", "Turisti anual: aproximativ 10.000"],
       en: ["Length of valley: 8 km", "Nearest city: Foča (Bosnia, 20 km away)", "River: Tara", "Average valley width: 500 m", "Highest point above valley: 1,200 m", "Annual tourists: approx. 10,000"],
-    }, image: "/poi-images/montenegro-masna-luka-valley-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-kucka-korita-relief-v2",
     type: "mountain",
@@ -715,7 +735,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: kb. 1000 m", "Község: Cetinje", "A medence területe: 12 km²", "Átlagos éves hőmérséklet: 9 °C", "Lakosság: kb. 200 fő a környező településeken", "Fő termény: burgonya (éves termés kb. 1000 tonna)"],
       ro: ["Altitudine: aproximativ 1.000 m", "Comuna: Cetinje", "Suprafața depresiunii: 12 km²", "Temperatura medie anuală: 9 °C", "Populație: aproximativ 200 de locuitori în satele din jur", "Cultura principală: cartofi (recoltă anuală de aprox. 1.000 de tone)"],
       en: ["Elevation: approx. 1,000 m", "Municipality: Cetinje", "Area of depression: 12 km²", "Average annual temperature: 9 °C", "Population: approx. 200 in surrounding hamlets", "Main crop: potatoes (annual yield approx. 1,000 tons)"],
-    }, image: "/poi-images/montenegro-kucka-korita-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-grebaje-valley-relief-v2",
     type: "valley",
@@ -746,7 +767,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Hossz: 10 km", "Nemzeti Park: Prokletije (2009 óta)", "Legmagasabb sziklafal: 500 m", "Folyó: Grebaja (hossza 12 km)", "Mászóutak száma: több mint 50", "Átlagos nyári hőmérséklet: 15 °C"],
       ro: ["Lungime: 10 km", "Parcul Național: Prokletije (din 2009)", "Cel mai înalt perete de stâncă: 500 m", "Râul: Grebaja (lungime 12 km)", "Număr de trasee de cățărare: peste 50", "Temperatura medie de vară: 15 °C"],
       en: ["Length: 10 km", "National Park: Prokletije (since 2009)", "Highest cliff face: 500 m", "River: Grebaja (length 12 km)", "Number of climbing routes: over 50", "Average summer temperature: 15 °C"],
-    }, image: "/poi-images/montenegro-grebaje-valley-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-trojan-peak-relief-v2",
     type: "peak",
@@ -777,7 +799,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 1957 m", "Masszívum: Durmitor", "Nemzeti Park: Durmitor (1952 óta)", "Távolság a Crno Jezero-tótól: 3 km", "Nehézségi fok: mászás UIAA II-ig", "Endemikus növények száma a területen: 8"],
       ro: ["Altitudine: 1.957 m", "Masivul: Durmitor", "Parcul Național: Durmitor (din 1952)", "Distanța până la Crno Jezero: 3 km", "Grad de dificultate: cățărare până la UIAA II", "Număr de plante endemice în zonă: 8"],
       en: ["Elevation: 1,957 m", "Massif: Durmitor", "National Park: Durmitor (since 1952)", "Distance to Crno Jezero: 3 km", "Difficulty: scrambling up to UIAA II", "Number of endemic plants in the area: 8"],
-    }, image: "/poi-images/montenegro-trojan-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-lunjin-hill-relief-v2",
     type: "mountain",
@@ -808,7 +831,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 1280 m", "Legközelebbi város: Bar (12 km)", "Kőzet: mészkő", "Erdősültség: 60%", "Átlagos augusztusi hőmérséklet: 22 °C", "Jelzett túraútvonalak száma: 3"],
       ro: ["Altitudine: 1.280 m", "Cel mai apropiat oraș: Bar (12 km)", "Roca: calcar", "Acoperire forestieră: 60%", "Temperatura medie în august: 22 °C", "Număr de trasee de drumeție marcate: 3"],
       en: ["Elevation: 1,280 m", "Nearest city: Bar (12 km away)", "Rock type: limestone", "Forest cover: 60%", "Average August temperature: 22 °C", "Number of marked hiking trails: 3"],
-    }, image: "/poi-images/montenegro-lunjin-hill-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-savardak-pass-relief-v2",
     type: "valley",
@@ -839,7 +863,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: kb. 1600 m", "Község: Berane", "A hágóút hossza: 12 km", "Átlagos emelkedés: 6%", "Legközelebbi város: Berane (25 km)", "Éves forgalom: kb. 50.000 jármű"],
       ro: ["Altitudine: aproximativ 1.600 m", "Comuna: Berane", "Lungimea drumului de trecătoare: 12 km", "Pantă medie: 6%", "Cel mai apropiat oraș: Berane (25 km)", "Trafic anual: aproximativ 50.000 de vehicule"],
       en: ["Elevation: approx. 1,600 m", "Municipality: Berane", "Length of pass road: 12 km", "Average gradient: 6%", "Nearest city: Berane (25 km away)", "Annual traffic: approx. 50,000 vehicles"],
-    }, image: "/poi-images/montenegro-savardak-pass-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-vlahinja-peak-relief-v2",
     type: "peak",
@@ -870,7 +895,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 1820 m", "Hegység: Bjelasica", "Nemzeti Park: Biogradska Gora", "Távolság a Lim folyótól: 5 km", "Erdőborítottság: a hegy 80%-a", "Madárfajok száma a parkban: 150"],
       ro: ["Altitudine: 1.820 m", "Munții: Bjelasica", "Parcul Național: Biogradska Gora", "Distanța până la râul Lim: 5 km", "Acoperire forestieră: 80% din suprafața muntelui", "Număr de specii de păsări în parc: 150"],
       en: ["Elevation: 1,820 m", "Mountain range: Bjelasica", "National Park: Biogradska Gora", "Distance to Lim River: 5 km", "Forest cover: 80% of the mountain area", "Number of bird species in the park: 150"],
-    }, image: "/poi-images/montenegro-vlahinja-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-kik-peak-relief-v2",
     type: "peak",
@@ -901,7 +927,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 1642 m", "Legközelebbi víztározó: Piva (880 millió m³)", "Község: Plužine", "Vízerőmű: Piva (teljesítmény 307 MW)", "Éves látogatók száma: 20.000", "Távolság a Durmitor Nemzeti Parktól: 15 km"],
       ro: ["Altitudine: 1.642 m", "Cel mai apropiat lac de acumulare: Piva (volum 880 milioane m³)", "Comuna: Plužine", "Centrală hidroelectrică: Piva (putere 307 MW)", "Vizitatori anuali: 20.000", "Distanța până la Parcul Național Durmitor: 15 km"],
       en: ["Elevation: 1,642 m", "Nearest reservoir: Piva (volume 880 million m³)", "Municipality: Plužine", "Hydropower plant: Piva (capacity 307 MW)", "Annual visitors: 20,000", "Distance to Durmitor National Park: 15 km"],
-    }, image: "/poi-images/montenegro-kik-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-zavoj-valley-relief-v2",
     type: "valley",
@@ -932,7 +959,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["A völgy hossza: 15 km", "Folyó: Zeta (hossza 86 km)", "Község: Nikšić", "Szőlőterület: 200 ha", "Éves szőlőtermés: kb. 1500 tonna", "Régészeti lelőhely: barlangrajzok a Lipa-barlangban (kb. 10.000 éves)"],
       ro: ["Lungimea văii: 15 km", "Râul: Zeta (lungime 86 km)", "Comuna: Nikšić", "Suprafață viticolă: 200 ha", "Recoltă anuală de struguri: aproximativ 1.500 de tone", "Sit arheologic: picturi rupestre în Peștera Lipa (vechime de cca. 10.000 de ani)"],
       en: ["Length of valley: 15 km", "River: Zeta (length 86 km)", "Municipality: Nikšić", "Vineyard area: 200 ha", "Annual grape harvest: approx. 1,500 tons", "Archaeological site: cave paintings in Lipa Cave (age approx. 10,000 years)"],
-    }, image: "/poi-images/montenegro-zavoj-valley-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-brada-peak-relief-v2",
     type: "peak",
@@ -963,7 +991,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Első ismert mászás: 1920, osztrák hegymászók által", "Magasság: 2450 m", "Megközelítés: Zabljak városától 8 km gyalogút", "A Durmitor Nemzeti Park területe: 390 km²", "Legközelebbi menedékház: 2,5 km-re a csúcstól", "A csúcs alatti karsztos fennsík magassága: 2200 m"],
       ro: ["Altitudine: 2.450 m", "Biodiversitate: peste 200 de specii de plante vasculare în parc", "Faună: 40 de specii de mamifere, inclusiv capra neagră (Rupicapra rupicapra)", "Anul înființării parcului: 1952", "Precipitații medii anuale: 2000 mm", "Temperatura medie în iulie: 10°C"],
       en: ["Elevation: 2,450 m (8,038 ft)", "First recorded ascent: 1920 by Austrian climbers", "Part of Durmitor National Park (established 1952)", "Annual visitors to Durmitor: ~100,000", "Distance from Žabljak: 8 km (5 mi) trail", "Prominence: 320 m (1,050 ft)"],
-    }, image: "/poi-images/montenegro-brada-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-zupa-plateau-relief-v2",
     type: "mountain",
@@ -994,7 +1023,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 1.200-1.500 m", "Legmagasabb pont: Gradište-hegy (1.560 m)", "Híres sajt: pljevalja sajt (éves termelés: kb. 500 tonna)", "Nemanjić-dinasztia uralma: 12. század", "Középkori templomok száma: 5", "Kerékpárutak hossza: 200 km"],
       ro: ["Altitudine medie: 1.300 m", "Suprafață: ~400 km²", "Numărul de sate: 30", "Biserica Sf. Petru: secolul XIII", "Producția anuală de brânză: 300 de tone", "Populație: aproximativ 2.000 de locuitori"],
       en: ["Average elevation: 1,300 m (4,265 ft)", "Area: ~400 km² (154 sq mi)", "Annual precipitation: ~3,000 mm (118 in)", "Main crops: potatoes, rye, oats", "Zeta River source: springs at 1,200 m", "Number of villages: 30+"],
-    }, image: "/poi-images/montenegro-zupa-plateau-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-visoki-vrh-relief-v2",
     type: "peak",
@@ -1025,7 +1055,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 2.820 m", "Első mászás: 1896, magyar kutatók", "Legközelebbi város: Andrijevica (25 km)", "Gleccsertavak: Lipsko-tó (1.800 m), Dolino-tó (1.650 m)", "A Komovi-hegység területe: 120 km²", "Medvepopuláció a környéken: 40-50 egyed"],
       ro: ["Altitudine: 2.820 m", "Prima ascensiune: 1896 de cercetători maghiari", "Roci: sedimentare paleozoice și șisturi metamorfice", "Lacuri glaciare: 5 principale", "Satul Trešnjica: bază de plecare la 1.200 m", "Lacul Lipsko: altitudine 1.800 m"],
       en: ["Elevation: 2,820 m (9,252 ft)", "First ascent: 1896 by Hungarian scientists", "Parent range: Komovi Mountains", "Number of glacial lakes: 5", "Closest city: Andrijevica (25 km / 15.5 mi)", "Rock type: limestone and dolomite"],
-    }, image: "/poi-images/montenegro-visoki-vrh-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-vratlo-pass-relief-v2",
     type: "valley",
@@ -1056,7 +1087,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 1.850 m", "Biogradska Gora NP területe: 54 km²", "Biogradsko-tó: 1.094 m tengerszint felett", "Téli hóvastagság: akár 2 m", "Történelmi használat: Római Birodalom (Kr.u. 1. század)", "Távolság Kolašintól: 35 km"],
       ro: ["Altitudine: 1.850 m", "Parcul Național Biogradska Gora: înființat 1952", "Suprafața parcului: 54 km²", "Lacul Biogradsko: 1.094 m altitudine", "Drumul R13: lungime totală 80 km", "Populația de râs balcanic: estimată 40 de indivizi"],
       en: ["Elevation: 1,850 m (6,070 ft)", "Part of R13 road", "Distance to Berane: 30 km (18.6 mi)", "Biogradska Gora NP: established 1952, 54 km² (20.8 sq mi)", "Max snow depth: 3 m (9.8 ft)", "Balkan lynx population: ~30 individuals"],
-    }, image: "/poi-images/montenegro-vratlo-pass-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-govedji-vrh-relief-v2",
     type: "peak",
@@ -1087,7 +1119,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 2.100 m", "Biogradsko-tó magassága: 1.094 m", "Nemzeti Park létrehozása: 1952", "Pásztor szállások (katun) száma: 12", "Ribizli gyűjtés: évi 5 tonna", "Távolság Kolašintól: 20 km"],
       ro: ["Altitudine: 2.100 m", "Lacul Pešića: altitudine 1.700 m", "Parcul Național Biogradska Gora: 54 km²", "Distanța până la Kolašin: 20 km", "Specie de cocoș de munte: Tetrao urogallus", "Populație de urși bruni în parc: 15-20"],
       en: ["Elevation: 2,100 m (6,890 ft)", "Part of: Bjelasica Mountain Range", "Distance to Kolašin: 20 km (12.4 mi)", "Biogradska Gora NP area: 54 km² (20.8 sq mi)", "Glacial lake Pešića: 1,700 m (5,577 ft)", "Main economic activity: livestock grazing"],
-    }, image: "/poi-images/montenegro-govedji-vrh-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-jelovica-valley-relief-v2",
     type: "valley",
@@ -1118,7 +1151,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Völgy hossza: 15 km", "Szurdok mélysége: 500 m", "Lipska-barlang hossza: 2 km", "Podgorica távolság: 40 km", "Kőhíd építésének éve: 1660 körül", "Campanula dinarica: endemikus növényfaj"],
       ro: ["Lungimea văii: 15 km", "Înălțimea pereților: 500 m", "Peștera Lipska: 2 km lungime", "Distanța până la Podgorica: 40 km", "Populația satului Jelovica: 200 locuitori", "Râul Suvoda: debit mediu 1,5 m³/s"],
       en: ["Valley length: 15 km (9.3 mi)", "Cliff height: up to 500 m (1,640 ft)", "River: Suvoda", "Distance to Podgorica: 40 km (24.9 mi)", "Cave: Lipska Cave, 2 km (1.2 mi) long", "Average valley floor elevation: 800 m (2,625 ft)"],
-    }, image: "/poi-images/montenegro-jelovica-valley-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-sjerogošte-relief-v2",
     type: "valley",
@@ -1149,7 +1183,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Tengerszint feletti magasság: 1000-1500 m", "Legmagasabb csúcs: Štit (1800 m)", "Termálforrás hőmérséklete: 40°C", "Crnojević-kolostor építése: 1450 körül", "Lakosság: 500 fő", "Vadászterület területe: 200 km²"],
       ro: ["Altitudine: 1.000-1.500 m", "Vârf: Štit (1.800 m)", "Izvoare termale: 40°C", "Mănăstirea Crnojevića: secolul XV", "Populație: 500 locuitori", "Suprafață împădurită: 80%"],
       en: ["Elevation range: 1,000-1,500 m (3,281-4,921 ft)", "Highest point: Štit (1,800 m / 5,906 ft)", "Thermal springs temperature: up to 40°C (104°F)", "Crnojević Monastery: built in 15th century", "Population: ~500", "Forest cover: 80% of area"],
-    }, image: "/poi-images/montenegro-sjerogošte-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-stog-peak-relief-v2",
     type: "peak",
@@ -1180,7 +1215,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 2.405 m", "Fekete-tó magassága: 1.448 m", "Fekete-tó mélysége: 50 m", "Sípálya hossza: 12 km", "Nemzeti Park területe: 390 km²", "Nemzeti Park alapítva: 1952"],
       ro: ["Altitudine: 2.405 m", "Lacul Negru: altitudine 1.448 m", "Adâncimea lacului: 50 m", "Lungimea pârtiilor de schi: 12 km", "Parcul Național Durmitor: 390 km²", "Anul înființării parcului: 1952"],
       en: ["Elevation: 2,405 m (7,890 ft)", "Parent range: Durmitor", "Black Lake (Crno Jezero): 1,448 m (4,751 ft), depth 50 m (164 ft)", "Ski slopes: 12 km (7.5 mi)", "Durmitor National Park area: 390 km² (150.6 sq mi)", "Park established: 1952"],
-    }, image: "/poi-images/montenegro-stog-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-grbaja-pass-relief-v2",
     type: "valley",
@@ -1211,7 +1247,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 1.720 m", "Maglić-hegy magassága: 2.386 m", "Távolság Plužinétől: 30 km", "Út típusa: földút", "Bosnyák határtól: 5 km", "Maglić Nemzeti Park távolsága: 15 km"],
       ro: ["Altitudine: 1.720 m", "Drum: pietriș (doar 4x4)", "Distanța până la Plužine: 30 km", "Vârful Maglić: 2.386 m", "Granita cu Bosnia: 5 km", "Parcul Național Sutjeska: 15 km"],
       en: ["Elevation: 1,720 m (5,643 ft)", "Road type: gravel (4x4 only)", "Distance to Plužine: 30 km (18.6 mi)", "Mount Maglić: 2,386 m (7,828 ft)", "Border with Bosnia: 5 km (3.1 mi)", "Nearest national park: Sutjeska (Bosnia)"],
-    }, image: "/poi-images/montenegro-grbaja-pass-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-zelena-glava-relief-v2",
     type: "peak",
@@ -1242,7 +1279,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Magasság: 2.190 m", "Biogradsko-tó területe: 0,5 km²", "Nemzeti Park területe: 54 km²", "Nemzeti Park alapítva: 1952", "Legmagasabb csúcs a Bjelasicában: Zekova Glava (2.216 m)", "Áfonya termés évente: 10 tonna"],
       ro: ["Altitudine: 2.190 m", "Lacul Biogradsko: suprafață 0,5 km²", "Parcul Național Biogradska Gora: 54 km²", "Anul înființării parcului: 1952", "Vârful Zekova Glava: 2.216 m", "Trasee marcate: 8"],
       en: ["Elevation: 2,190 m (7,185 ft)", "Lake Biograd: 1,094 m (3,589 ft), area 0.5 km² (0.19 sq mi)", "Biogradska Gora NP: 54 km² (20.8 sq mi)", "Park established: 1952", "Highest peak in Bjelasica: Zekova Glava (2,216 m / 7,270 ft)", "Marked hiking trails: 8"],
-    }, image: "/poi-images/montenegro-zelena-glava-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-zavoj-peak-relief-v2",
     type: "peak",
@@ -1273,7 +1311,8 @@ export const montenegroReliefV2: POI[] = [
       hu: [],
       ro: [],
       en: [],
-    }, image: "/poi-images/montenegro-zavoj-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-bjelasica-ridge-relief-v2",
     type: "mountain",
@@ -1304,7 +1343,8 @@ export const montenegroReliefV2: POI[] = [
       hu: ["Gerinc hossza: 30 km", "Legmagasabb csúcs: Zekova Glava (2.216 m)", "Biogradsko-tó területe: 0,5 km²", "Sípálya hossza: 12 km", "Kolašin magassága: 1.000 m", "Jaramazova-ösvény: történelmi kereskedelmi út a 18. századból"],
       ro: ["Lungimea crestei: 30 km", "Vârf: Zekova Glava (2.216 m)", "Lacul Biogradsko: 0,5 km²", "Pârtii de schi: 12 km", "Parcul Național: 54 km²", "Kolašin: altitudine 1.000 m"],
       en: ["Ridge length: 30 km (18.6 mi)", "Highest peak: Zekova Glava (2,216 m / 7,270 ft)", "Biogradsko Lake area: 0.5 km² (0.19 sq mi)", "Ski slopes: 12 km (7.5 mi)", "Biogradska Gora NP area: 54 km² (20.8 sq mi)", "Kolašin elevation: 1,000 m (3,281 ft)"],
-    }, image: "/poi-images/montenegro-bjelasica-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "montenegro-vlahinja-ridge-relief-v2",
     type: "mountain",

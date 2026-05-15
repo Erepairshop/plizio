@@ -972,7 +972,8 @@ export const czechrepublicLifeV2: POI[] = [
       hu: ["Megnyitása: 1939. május 1.", "Mintegy 300 állatfaj otthona", "6 hektáros bemutatóterület", "A palearktikus fauna szakértője"],
       ro: ["Deschis la 1 mai 1939", "Circa 300 de specii de animale", "Suprafață de aproximativ 6 hectare", "Focus pe fauna regiunii palearctice"],
       en: ["Opened on May 1, 1939", "Home to around 300 animal species", "Occupies an area of 6 hectares", "Specializes in Palearctic region fauna"],
-    }, image: "/poi-images/czechrepublic-hluboka-zoo-life-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-prague-botanical-garden-troja-life-v2",
     type: "park",
@@ -1003,7 +1004,8 @@ export const czechrepublicLifeV2: POI[] = [
       hu: ["30 hektáros teljes területen fekszik", "1969-ben hozták létre hivatalosan", "1992-ben nyitották meg a nagyközönség előtt", "A Fata Morgana üvegház 130 méter hosszú", "2004-ben adták át a trópusi üvegházat", "Több mint 15 000 növényfajt gondoznak itt"],
       ro: ["Acoperă o suprafață de 30 de hectare", "Fondată oficial în anul 1969", "Deschisă publicului larg în 1992", "Sera Fata Morgana are o lungime de 130 de metri", "Sera tropicală a fost inaugurată în 2004", "Găzduiește podgoria istorică Sfânta Clara"],
       en: ["Encompasses a 30-hectare area", "Officially established in 1969", "Opened to the general public in 1992", "Fata Morgana greenhouse spans 130 meters", "The tropical greenhouse opened in 2004", "Cultivates over 15,000 species of plants"],
-    }, image: "/poi-images/czechrepublic-prague-botanical-garden-troja-life-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-bilichov-nature-reserve-life-v2",
     type: "forest",

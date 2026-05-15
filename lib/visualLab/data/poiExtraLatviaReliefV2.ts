@@ -31,7 +31,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 185 m", "Kialakulás: kb. 15.000 éve", "Része a Lettföldi-felvidéknek", "Tó a domb alatt: Lūznava-tó", "Fák: fenyők és nyírek", "Közelben: Lūznava település"],
       ro: ["Altitudine: 185 m", "Formare: acum cca. 15.000 de ani", "Parte a Podișului Letgall", "Lac la bază: Lacul Lūznava", "Vegetație: pini și mesteceni", "Localitatea apropiată: Lūznava"],
       en: ["Height: 185 m above sea level", "Formed: about 15,000 years ago", "Part of: Latgale Upland", "Lake at base: Lake Lūznava", "Forest composition: pine and birch", "Nearest village: Lūznava"],
-    }, image: "/poi-images/latvia-luznava-hill-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-smiltene-ridge-relief-v2",
     type: "mountain",
@@ -62,7 +63,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Hossz: 15 km", "Max magasság: 120 m", "Kialakulás: végmoréna", "Vízválasztó: Daugava / Gauja", "Közelben: Smiltene", "Erdősültség: kb. 40%"],
       ro: ["Lungime: 15 km", "Altitudine maximă: 120 m", "Formare: morenă terminală", "Cumpănă de ape: Daugava / Gauja", "Oraș apropiat: Smiltene", "Acoperire forestieră: aprox. 40%"],
       en: ["Length: 15 km", "Maximum height: 120 m", "Formation: terminal moraine", "Watershed: Daugava / Gauja", "Nearest town: Smiltene", "Forest cover: approx. 40%"],
-    }, image: "/poi-images/latvia-smiltene-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-aukstais-kalns-relief-v2",
     type: "mountain",
@@ -93,7 +95,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 217 m", "Régió: Augšzeme", "Kilátótorony: van", "Fák: lucfenyő, nyír", "Talaj: homokos agyag", "Közelben: Ilūkste"],
       ro: ["Altitudine: 217 m", "Regiune: Augšzeme", "Turn de observație: da", "Vegetație: molid, mesteacăn", "Sol: argilă nisipoasă", "Oraș apropiat: Ilūkste"],
       en: ["Height: 217 m", "Region: Augšzeme", "Observation tower: yes", "Tree cover: spruce and birch", "Soil: sandy clay", "Nearest town: Ilūkste"],
-    }, image: "/poi-images/latvia-aukstais-kalns-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-baltais-kalns-relief-v2",
     type: "mountain",
@@ -124,7 +127,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 201 m", "Régió: Vidzeme", "Név: homokkőről", "Kőbánya: van", "Közelben: Cēsis", "Geológia: homokkő"],
       ro: ["Altitudine: 201 m", "Regiune: Vidzeme", "Nume: de la gresia albă", "Carieră: da", "Oraș apropiat: Cēsis", "Geologie: gresie"],
       en: ["Height: 201 m", "Region: Vidzeme", "Name origin: white sandstone", "Quarry: present", "Nearest city: Cēsis", "Geology: sandstone outcrops"],
-    }, image: "/poi-images/latvia-baltais-kalns-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-iecalas-pauguraine-relief-v2",
     type: "mountain",
@@ -187,7 +191,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Hossz: 12 km", "Max magasság: 170 m", "Természeti park alapítva: 2005", "Fafajok: lucfenyő, erdeifenyő", "Vízgyűjtő szerep", "Közelben: Dundaga"],
       ro: ["Lungime: 12 km", "Altitudine max: 170 m", "Parcul natural fondat: 2005", "Vegetație: molid, pin", "Rol hidrologic: alimentare ape subterane", "Oraș apropiat: Dundaga"],
       en: ["Length: 12 km", "Maximum height: 170 m", "Nature park founded: 2005", "Tree cover: spruce and pine", "Hydrological role: groundwater recharge", "Nearest town: Dundaga"],
-    }, image: "/poi-images/latvia-zilaiskalns-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-augstzeme-highland-relief-v2",
     type: "mountain",
@@ -218,7 +223,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Terület: kb. 600 km²", "Átlagmagasság: 150 m", "Legmagasabb csúcs: 217 m", "Tavak száma: több mint 50", "Gazdaság: erdészet, mezőgazdaság", "Védettség: nincs nemzeti park"],
       ro: ["Suprafață: aprox. 600 km²", "Altitudine medie: 150 m", "Vârf: Aukstais Kalns 217 m", "Număr lacuri: peste 50", "Economie: silvicultură, agricultură", "Protecție: niciun parc național"],
       en: ["Area: about 600 km²", "Average elevation: 150 m", "Highest peak: Aukstais Kalns (217 m)", "Number of lakes: over 50", "Economy: forestry and agriculture", "Protected status: none"],
-    }, image: "/poi-images/latvia-augstzeme-highland-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-brivkalni-hill-relief-v2",
     type: "mountain",
@@ -249,7 +255,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 78 m", "Régió: Zemgale", "Közelben: Jelgava", "Kilátótorony: van", "Anyag: homok, kavics", "Hasznosítás: rekreáció"],
       ro: ["Altitudine: 78 m", "Regiune: Zemgale", "Oraș apropiat: Jelgava", "Turn de observație: da", "Material: nisip, pietriș", "Utilizare: agrement"],
       en: ["Height: 78 m", "Region: Zemgale", "Nearest city: Jelgava", "Observation tower: yes", "Material: sand and gravel", "Use: recreation area"],
-    }, image: "/poi-images/latvia-brivkalni-hill-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-daugavas-loki-ridge-relief-v2",
     type: "mountain",
@@ -280,7 +287,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Max magasság: 130 m", "Kőzet: devoni homokkő", "Természeti park: Daugavas Loki", "Folyó: Daugava", "Tevékenységek: kajakozás", "Történelmi hely: Koknese"],
       ro: ["Altitudine max: 130 m", "Rocă: gresie devoniană", "Parcul natural: Daugavas Loki", "Râu: Daugava", "Activități: canoe", "Sit istoric: Koknese"],
       en: ["Maximum height: 130 m", "Rock type: Devonian sandstone", "Nature park: Daugavas Loki", "River: Daugava", "Activities: canoeing", "Historic site: Koknese"],
-    }, image: "/poi-images/latvia-daugavas-loki-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-galdnieki-hill-relief-v2",
     type: "mountain",
@@ -311,7 +319,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 156 m", "Régió: Vidzeme", "Közelben: Galdnieki falu", "Fák: fenyők", "Források: több", "Név jelentése: asztalos"],
       ro: ["Altitudine: 156 m", "Regiune: Vidzeme", "Sat apropiat: Galdnieki", "Vegetație: pini", "Izvoare: multiple", "Sens nume: tâmplar"],
       en: ["Height: 156 m", "Region: Vidzeme", "Nearest village: Galdnieki", "Tree cover: pines", "Springs: several", "Name meaning: carpenter"],
-    }, image: "/poi-images/latvia-galdnieki-hill-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-kristapils-mound-relief-v2",
     type: "mountain",
@@ -342,7 +351,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 135 m", "Régió: Lettföld", "Közelben: Rēzekne", "Műemlék: várhely", "Kor: kora középkor", "Látható: sáncok"],
       ro: ["Altitudine: 135 m", "Regiune: Latgale", "Oraș apropiat: Rēzekne", "Monument: fortificație", "Epocă: medieval timpuriu", "Vestigii: valuri de pământ"],
       en: ["Height: 135 m", "Region: Latgale", "Nearest city: Rēzekne", "Designation: hillfort", "Period: Early Middle Ages", "Remains: earth ramparts"],
-    }, image: "/poi-images/latvia-kristapils-mound-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-sauka-ridge-relief-v2",
     type: "mountain",
@@ -373,7 +383,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Hossz: 10 km", "Max magasság: 145 m", "Határ közeli: Észtország", "Folyók: Gauja, Pededze", "Védettség: Natura 2000", "Tó: Sauka-tó"],
       ro: ["Lungime: 10 km", "Altitudine max: 145 m", "Aproape de granița cu Estonia", "Râuri: Gauja, Pededze", "Protecție: Natura 2000", "Lac: Sauka"],
       en: ["Length: 10 km", "Maximum height: 145 m", "Near border: Estonia", "Rivers: Gauja, Pededze", "Protected area: Natura 2000", "Lake: Sauka"],
-    }, image: "/poi-images/latvia-sauka-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-priedaine-hill-relief-v2",
     type: "mountain",
@@ -404,7 +415,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 66 m", "Régió: Nyugat-Lettország", "Közelben: Liepāja", "Kilátó: régi víztorony", "Kilátás: Balti-tenger", "Név jelentése: fenyves"],
       ro: ["Altitudine: 66 m", "Regiune: vestul Letoniei", "Oraș apropiat: Liepāja", "Turn de observație: turn de apă vechi", "Vedere: Marea Baltică", "Sens nume: pădurice de pini"],
       en: ["Height: 66 m", "Region: Western Latvia", "Nearest city: Liepāja", "Observation tower: old water tower", "View: Baltic Sea", "Name meaning: pine grove"],
-    }, image: "/poi-images/latvia-priedaine-hill-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-alksne-mound-relief-v2",
     type: "mountain",
@@ -435,7 +447,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 112 m", "Régió: Lettföld", "Tó: Alksne-tó", "Fák: nyír, lucfenyő", "Név: éger", "Lett szó: alksnis"],
       ro: ["Altitudine: 112 m", "Regiune: Latgale", "Lac: Lacul Alksne", "Vegetație: mesteacăn, molid", "Etimologie: arin", "Cuvânt leton: alksnis"],
       en: ["Height: 112 m", "Region: Latgale", "Lake: Lake Alksne", "Tree cover: birch, spruce", "Name origin: alder tree", "Latvian word: alksnis"],
-    }, image: "/poi-images/latvia-alksne-mound-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-targale-hill-relief-v2",
     type: "mountain",
@@ -466,7 +479,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 75 m", "Régió: Kurzeme", "Közelben: Tārgale falu", "Fák: tölgy, fenyő", "Talaj: moréna", "Templom: 17. század"],
       ro: ["Altitudine: 75 m", "Regiune: Kurzeme", "Sat apropiat: Tārgale", "Vegetație: stejari, pini", "Sol: morenă", "Biserică: secolul XVII"],
       en: ["Height: 75 m", "Region: Kurzeme", "Nearest village: Tārgale", "Tree cover: oaks and pines", "Soil type: moraine", "Historic church: 17th century"],
-    }, image: "/poi-images/latvia-targale-hill-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-zuras-ridge-relief-v2",
     type: "mountain",
@@ -497,7 +511,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Hossz: 8 km", "Max magasság: 95 m", "Tó: Zūras-tó (1,5 km²)", "Kialakulás: végmoréna", "Vízkémia: meszes", "Tevékenység: horgászat"],
       ro: ["Lungime: 8 km", "Altitudine max: 95 m", "Lac: Zūras (1,5 km²)", "Formare: morenă terminală", "Chimie apă: calcaroasă", "Activitate: pescuit"],
       en: ["Length: 8 km", "Maximum height: 95 m", "Lake: Zūras Lake (1.5 km²)", "Formation: terminal moraine", "Water chemistry: calcareous", "Activity: fishing"],
-    }, image: "/poi-images/latvia-zuras-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-puze-hill-relief-v2",
     type: "mountain",
@@ -560,7 +575,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Hossz: 6 km", "Max magasság: 85 m", "Tó: Usma-tó (13 km²)", "Nemzeti park: Slītere", "Kilátótorony: van", "Turizmus: nyaralók"],
       ro: ["Lungime: 6 km", "Altitudine max: 85 m", "Lac: Usma (13 km²)", "Parcul național: Slītere", "Turn de observație: da", "Turism: cabane"],
       en: ["Length: 6 km", "Maximum height: 85 m", "Lake: Lake Usma (13 km²)", "National park: Slītere", "Observation tower: yes", "Tourism: holiday cottages"],
-    }, image: "/poi-images/latvia-usma-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-eleja-flat-relief-v2",
     type: "mountain",
@@ -591,7 +607,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Terület: kb. 250 km²", "Átlagmagasság: 15 m tengerszint felett", "Legmagasabb pont: 22 m", "Kialakulás: Weichsel-glaciális (kb. 12 000 éve)", "Talajtípus: homokos vályog", "Éves csapadék: 600 mm"],
       ro: ["Suprafață: aproximativ 250 km²", "Altitudine medie: 15 m deasupra nivelului mării", "Altitudine maximă: 22 m", "Formare: Glaciarul Weichsel (acum cca 12.000 de ani)", "Tip sol: lut nisipos", "Precipitații anuale: 600 mm"],
       en: ["Area: approx. 250 km²", "Average elevation: 15 m above sea level", "Highest point: 22 m", "Formation: Weichselian glaciation (c. 12,000 years ago)", "Soil type: sandy loam", "Annual precipitation: 600 mm"],
-    }, image: "/poi-images/latvia-eleja-flat-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-berze-rise-relief-v2",
     type: "mountain",
@@ -622,7 +639,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Hossz: kb. 30 km", "Magasság: 80-100 m tszf.", "Relatív magasság: 20-30 m", "Geológia: végmoréna kavics és homok", "Erdősültség: 70%", "Védettség: Natura 2000 terület"],
       ro: ["Lungime: aproximativ 30 km", "Altitudine: 80-100 m deasupra nivelului mării", "Diferență de nivel față de câmpie: 20-30 m", "Geologie: pietriș și nisip din morene terminale", "Acoperire forestieră: 70%", "Statut de protecție: sit Natura 2000"],
       en: ["Length: approx. 30 km", "Elevation: 80-100 m above sea level", "Relative relief: 20-30 m above plains", "Geology: gravel and sand from terminal moraines", "Forest cover: 70%", "Protected status: Natura 2000 site"],
-    }, image: "/poi-images/latvia-berze-rise-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-zante-hill-relief-v2",
     type: "mountain",
@@ -653,7 +671,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 112 m tszf.", "Hossz: kb. 5 km", "Szélesség: 1-2 km", "Kialakulás: Weichsel-glaciális (végmoréna)", "Erdősültség: 80% vegyes erdő", "Legközelebbi települések: Zante (2 km), Ēdole (4 km)"],
       ro: ["Altitudine: 112 m deasupra nivelului mării", "Lungime: aprox. 5 km", "Lățime: 1-2 km", "Formare: Glaciarul Weichsel (morenă terminală)", "Acoperire forestieră: 80% pădure mixtă", "Localități apropiate: Zante (2 km), Ēdole (4 km)"],
       en: ["Elevation: 112 m above sea level", "Length: approx. 5 km", "Width: 1-2 km", "Formation: Weichselian glaciation (terminal moraine)", "Forest cover: 80% mixed forest", "Nearest settlements: Zante (2 km), Ēdole (4 km)"],
-    }, image: "/poi-images/latvia-zante-hill-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-zirni-hill-relief-v2",
     type: "mountain",
@@ -684,7 +703,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 98 m tszf.", "Átmérő: 0,5 km", "Kőzet: gránit és morénatörmelék", "Zirņi-tó területe: 2 ha", "10 km hosszú morénavonulat része", "Fő termény: burgonya"],
       ro: ["Altitudine: 98 m deasupra nivelului mării", "Diametru: 0,5 km", "Rocă: granit și resturi morenice", "Suprafața lacului Zirņi: 2 ha", "Parte a unui șir morenic de 10 km", "Cultură principală: cartofi"],
       en: ["Elevation: 98 m above sea level", "Diameter: 0.5 km", "Rock type: granite and moraine debris", "Lake Zirņi area: 2 ha", "Part of a 10 km moraine chain", "Main crop: potatoes"],
-    }, image: "/poi-images/latvia-zirni-hill-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-kursisi-hill-relief-v2",
     type: "mountain",
@@ -715,7 +735,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 105 m tszf.", "Relatív magasság: 30 m", "Erdősültség: erdeifenyő", "Közeli tavak száma: 5", "Távolság a Balti-tengertől: 25 km", "Védettség: Natura 2000 terület 'Kursīši' része"],
       ro: ["Altitudine: 105 m deasupra nivelului mării", "Diferență de nivel: 30 m", "Acoperire forestieră: pin", "Număr de lacuri în apropiere: 5", "Distanța până la Marea Baltică: 25 km", "Statut de protecție: parte a sitului Natura 2000 'Kursīši'"],
       en: ["Elevation: 105 m above sea level", "Relative height: 30 m", "Forest cover: pine", "Number of nearby lakes: 5", "Distance to Baltic Sea: 25 km", "Protected status: part of Natura 2000 site 'Kursīši'"],
-    }, image: "/poi-images/latvia-kursisi-hill-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-ezere-ridge-relief-v2",
     type: "mountain",
@@ -746,7 +767,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Hossz: 15 km", "Maximális magasság: 120 m tszf.", "Szélesség: 200-500 m", "Anyag: kavics és homok", "Ezere-tó területe: 3,5 ha", "Vízválasztó: Lielupe/Venta"],
       ro: ["Lungime: 15 km", "Altitudine maximă: 120 m deasupra nivelului mării", "Lățime: 200-500 m", "Material: pietriș și nisip", "Suprafața lacului Ezere: 3,5 ha", "Cumpănă a apelor: Lielupe/Venta"],
       en: ["Length: 15 km", "Maximum height: 120 m above sea level", "Width: 200-500 m", "Material: gravel and sand", "Lake Ezere area: 3.5 ha", "Watershed: Lielupe/Venta"],
-    }, image: "/poi-images/latvia-ezere-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-nica-plain-relief-v2",
     type: "mountain",
@@ -809,7 +831,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Hossz: 12 km", "Magasság: 40-50 m tszf.", "Relatív magasság: 30-40 m", "Anyag: homok és kavics", "Védett terület: Rucavas meži (80 km²)", "Dűnék száma: 5"],
       ro: ["Lungime: 12 km", "Altitudine: 40-50 m deasupra nivelului mării", "Diferență de nivel: 30-40 m", "Material: nisip și pietriș", "Arie protejată: Rucavas meži (80 km²)", "Număr de dune: 5"],
       en: ["Length: 12 km", "Elevation: 40-50 m above sea level", "Relative height: 30-40 m", "Material: sand and gravel", "Protected area: Rucavas meži (80 km²)", "Number of dunes: 5"],
-    }, image: "/poi-images/latvia-rucava-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-kaleti-rise-relief-v2",
     type: "mountain",
@@ -840,7 +863,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Maximális magasság: 70 m tszf.", "Hossz: 8 km", "Szélesség: 1 km", "Anyag: hordalékos agyag, homokkő", "Kúriák száma: 4", "Vízválasztó: Bārta/Sventāja"],
       ro: ["Altitudine maximă: 70 m deasupra nivelului mării", "Lungime: 8 km", "Lățime: 1 km", "Material: marnă de transport, gresie", "Număr de conace: 4", "Cumpănă a apelor: Bārta/Sventāja"],
       en: ["Maximum height: 70 m above sea level", "Length: 8 km", "Width: 1 km", "Material: glacial till, sandstone", "Number of manor houses: 4", "Watershed: Bārta/Sventāja"],
-    }, image: "/poi-images/latvia-kaleti-rise-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-embute-valley-relief-v2",
     type: "valley",
@@ -871,7 +895,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Hossz: 10 km", "Mélység: akár 50 m", "Kőzet: devoni homokkő", "Flóra: 5 orchideafaj", "Patak: Embūte (15 km hosszú)", "Történelmi vár: Embūte (13. század)"],
       ro: ["Lungime: 10 km", "Adâncime: până la 50 m", "Rocă: gresie devoniană", "Floră: 5 specii de orhidee", "Pârâu: Embūte (15 km lungime)", "Castel istoric: Embūte (sec. XIII)"],
       en: ["Length: 10 km", "Depth: up to 50 m", "Rock type: Devonian sandstone", "Flora: 5 orchid species", "Stream: Embūte (15 km long)", "Historic castle: Embūte (13th century)"],
-    }, image: "/poi-images/latvia-embute-valley-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-laid-hill-relief-v2",
     type: "mountain",
@@ -902,7 +927,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 88 m tszf.", "Hossz: 2 km", "Szélesség: 0,5 km", "Tájolás: észak-dél", "Anyag: hordalékos agyag", "Történelmi malom: Laidi, 1850-ben épült"],
       ro: ["Altitudine: 88 m deasupra nivelului mării", "Lungime: 2 km", "Lățime: 0,5 km", "Orientare: nord-sud", "Material: marnă de transport", "Moara istorică: Laidi, construită în 1850"],
       en: ["Elevation: 88 m above sea level", "Length: 2 km", "Width: 0.5 km", "Orientation: north-south", "Material: glacial till", "Historic mill: Laidi, built 1850"],
-    }, image: "/poi-images/latvia-laid-hill-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-alsunga-rise-relief-v2",
     type: "mountain",
@@ -933,7 +959,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 60 m tszf.", "Hossz: 6 km", "Szélesség: 2 km", "Kialakulás: Weichsel-alapmoréna", "Templom: barokk, 1698-ban épült", "Fő termény: rozs"],
       ro: ["Altitudine: 60 m deasupra nivelului mării", "Lungime: 6 km", "Lățime: 2 km", "Formare: morenă de bază Weichsel", "Biserică: barocă, construită în 1698", "Cultură principală: secară"],
       en: ["Elevation: 60 m above sea level", "Length: 6 km", "Width: 2 km", "Formation: Weichselian ground moraine", "Church: Baroque, built 1698", "Main crop: rye"],
-    }, image: "/poi-images/latvia-alsunga-rise-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-gudenieki-rise-relief-v2",
     type: "mountain",
@@ -964,7 +991,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 75 m tszf.", "Hossz: 9 km", "Szélesség: 3 km", "Anyag: kavics és homok", "Védett terület: Gudenieki (Natura 2000)", "Fő termények: zab és burgonya"],
       ro: ["Altitudine: 75 m deasupra nivelului mării", "Lungime: 9 km", "Lățime: 3 km", "Material: pietriș și nisip", "Arie protejată: Gudenieki (Natura 2000)", "Culturi principale: ovăz și cartofi"],
       en: ["Elevation: 75 m above sea level", "Length: 9 km", "Width: 3 km", "Material: gravel and sand", "Protected area: Gudenieki (Natura 2000)", "Main crops: oats and potatoes"],
-    }, image: "/poi-images/latvia-gudenieki-rise-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-pelci-ridge-relief-v2",
     type: "mountain",
@@ -995,7 +1023,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 110 m tszf.", "Hossz: 7 km", "Szélesség: 300 m", "Anyag: cementált kavics és homok", "Kráterlápok száma: 3", "Távolság Kuldīgától: 15 km"],
       ro: ["Altitudine: 110 m deasupra nivelului mării", "Lungime: 7 km", "Lățime: 300 m", "Material: pietrișuri și nisipuri cimentate", "Număr de turbării: 3", "Distanța până la Kuldīga: 15 km"],
       en: ["Elevation: 110 m above sea level", "Length: 7 km", "Width: 300 m", "Material: cemented gravels and sands", "Number of kettle bogs: 3", "Distance to Kuldīga: 15 km"],
-    }, image: "/poi-images/latvia-pelci-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-ugale-hill-relief-v2",
     type: "mountain",
@@ -1026,7 +1055,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 95 m tszf.", "Hossz: 3 km", "Szélesség: 1 km", "Tájolás: kelet-nyugat", "Fő termények: búza, cukorrépa", "Templom: evangélikus, 1760-ban épült"],
       ro: ["Altitudine: 95 m deasupra nivelului mării", "Lungime: 3 km", "Lățime: 1 km", "Orientare: est-vest", "Culturi principale: grâu, sfeclă de zahăr", "Biserică: luterană, construită în 1760"],
       en: ["Elevation: 95 m above sea level", "Length: 3 km", "Width: 1 km", "Orientation: east-west", "Main crops: wheat, sugar beet", "Church: Lutheran, built 1760"],
-    }, image: "/poi-images/latvia-ugale-hill-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-zuras-mound-relief-v2",
     type: "mountain",
@@ -1057,7 +1087,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 108 m tszf.", "Átmérő: 1,5 km", "Fafaj: tölgy (70%)", "Kőtömbök: kvarcit", "Erődítmény kora: 10. század", "Hasznosítás: vadászterület (500 ha)"],
       ro: ["Altitudine: 108 m deasupra nivelului mării", "Diametru: 1,5 km", "Specie arbore: stejar (70%)", "Blocuri de piatră: cuarțit", "Vârsta fortificației: secolul al X-lea", "Utilizare: teren de vânătoare (500 ha)"],
       en: ["Elevation: 108 m above sea level", "Diameter: 1.5 km", "Tree species: oak (70%)", "Rock boulders: quartzite", "Age of hillfort: 10th century", "Use: hunting ground (500 ha)"],
-    }, image: "/poi-images/latvia-zuras-mound-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-eleja-ridge-relief-v2",
     type: "mountain",
@@ -1088,7 +1119,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Hossz: 10 km", "Maximális magasság: 85 m tszf.", "Szélesség: 500-800 m", "Anyag: homok és kavics", "Kavicsbányák száma: 4", "Vízválasztó: Lielupe/Mūsa"],
       ro: ["Lungime: 10 km", "Altitudine maximă: 85 m deasupra nivelului mării", "Lățime: 500-800 m", "Material: nisip și pietriș", "Număr de cariere de pietriș: 4", "Cumpănă a apelor: Lielupe/Mūsa"],
       en: ["Length: 10 km", "Maximum height: 85 m above sea level", "Width: 500-800 m", "Material: sand and gravel", "Number of gravel pits: 4", "Watershed: Lielupe/Mūsa"],
-    }, image: "/poi-images/latvia-eleja-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-auce-ridge-relief-v2",
     type: "mountain",
@@ -1119,7 +1151,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Hossz: 12 km", "Maximális magasság: 90 m tszf.", "Szélesség: 400-700 m", "Anyag: rétegzett homok és kavics", "Auce kastély: 1845-ben épült", "Védettség: európai biotóp"],
       ro: ["Lungime: 12 km", "Altitudine maximă: 90 m deasupra nivelului mării", "Lățime: 400-700 m", "Material: nisip și pietriș stratificat", "Castelul Auce: construit în 1845", "Statut de protecție: biotop european"],
       en: ["Length: 12 km", "Maximum height: 90 m above sea level", "Width: 400-700 m", "Material: stratified sand and gravel", "Auce Castle: built 1845", "Protected status: European biotope"],
-    }, image: "/poi-images/latvia-auce-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-berze-ridge-relief-v2",
     type: "mountain",
@@ -1150,7 +1183,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Hossz: 15 km", "Magasság: 80-100 m tszf.", "Szélesség: 300-500 m", "Anyag: kavics és homok", "Tavak száma: 3", "Védett terület: Bērze Természeti Park (50 km²)"],
       ro: ["Lungime: 15 km", "Altitudine: 80-100 m deasupra nivelului mării", "Lățime: 300-500 m", "Material: pietriș și nisip", "Număr de lacuri: 3", "Arie protejată: Parcul Natural Bērze (50 km²)"],
       en: ["Length: 15 km", "Elevation: 80-100 m above sea level", "Width: 300-500 m", "Material: gravel and sand", "Number of lakes: 3", "Protected area: Bērze Nature Park (50 km²)"],
-    }, image: "/poi-images/latvia-berze-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-vane-hill-relief-v2",
     type: "mountain",
@@ -1181,7 +1215,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magasság: 102 m tszf.", "Hossz: 2,5 km", "Szélesség: 0,8 km", "Tájolás: ÉNy-DK", "Kápolna: 1875-ben épült", "Kúria: Vāne (18. század)"],
       ro: ["Altitudine: 102 m deasupra nivelului mării", "Lungime: 2,5 km", "Lățime: 0,8 km", "Orientare: NV-SE", "Capela: construită în 1875", "Conac: Vāne (sec. XVIII)"],
       en: ["Elevation: 102 m above sea level", "Length: 2.5 km", "Width: 0.8 km", "Orientation: NW-SE", "Chapel: built 1875", "Manor house: Vāne (18th century)"],
-    }, image: "/poi-images/latvia-vane-hill-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-zante-ridge-relief-v2",
     type: "mountain",
@@ -1212,7 +1247,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["12 km hosszú morénahát", "Legmagasabb pontja 175 m", "A Kur-vidék része", "A Weichsel-glaciáció alatt keletkezett", "Venta és Lielupe vízválasztója", "Területének 80%-a erdő"],
       ro: ["Lungime de 12 km", "Altitudine maximă 175 m", "Parte a Câmpiei Curlandei", "Format în glaciațiunea Vistulei", "Cumpănă de ape între Venta și Lielupe", "80% acoperit de păduri"],
       en: ["Length: 12 km", "Maximum elevation: 175 m", "Part of Kurzeme Upland", "Formed during the Weichselian glaciation", "Watershed between Venta and Lielupe rivers", "Forest cover: 80%"],
-    }, image: "/poi-images/latvia-zante-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-zirni-ridge-relief-v2",
     type: "mountain",
@@ -1243,7 +1279,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Hosszúsága 8 km", "Legmagasabb pont 168 m", "Szélessége max. 300 m", "A Zirņi természeti park része", "1999 óta védett", "Ritka orchideafajok élőhelye"],
       ro: ["Lungime 8 km", "Altitudine maximă 168 m", "Lățime max. 300 m", "Parte a Parcului Natural Zirņi", "Protejat din 1999", "Adăpostește orhidee rare"],
       en: ["Length: 8 km", "Maximum elevation: 168 m", "Maximum width: 300 m", "Part of Zirņi Nature Park", "Protected since 1999", "Home to rare orchid species"],
-    }, image: "/poi-images/latvia-zirni-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-ezere-hill-relief-v2",
     type: "mountain",
@@ -1274,7 +1311,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magassága 197 m", "Litván határ közelében", "Végső moréna", "19. századi kilátótorony", "Ezere természetvédelmi terület része", "Lejtőszög akár 15 fok"],
       ro: ["Altitudine 197 m", "Aproape de granița cu Lituania", "Morenă terminală", "Turn de observație din sec. XIX", "Parte a Rezervației Naturale Ezere", "Pantă de până la 15 grade"],
       en: ["Elevation: 197 m", "Near the Lithuanian border", "Terminal moraine", "19th-century observation tower", "Part of Ezere Nature Reserve", "Slope gradient up to 15°"],
-    }, image: "/poi-images/latvia-ezere-hill-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-kaleti-ridge-relief-v2",
     type: "mountain",
@@ -1305,7 +1343,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Legmagasabb pont 190 m", "Hossza 15 km", "Több párhuzamos moréna", "Kalēti védett terület része", "Történelmileg juhtartás", "Fenyér- és hangás növényzet"],
       ro: ["Altitudine maximă 190 m", "Lungime 15 km", "Morene paralele multiple", "Parte a ariei protejate Kalēti", "Pășunat istoric de oi", "Vegetație de landă cu ienupăr"],
       en: ["Max elevation: 190 m", "Length: 15 km", "Multiple parallel moraines", "Part of Kalēti Protected Area", "Historically sheep grazing", "Heathland with juniper"],
-    }, image: "/poi-images/latvia-kaleti-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-galdnieki-ridge-relief-v2",
     type: "mountain",
@@ -1336,7 +1375,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magassága 202 m", "Hossza 20 km", "Szélessége 500 m", "Talsi természeti park része", "Történelmi borostyánbányászat", "Bükk- és lucfenyő-erdők"],
       ro: ["Altitudine 202 m", "Lungime 20 km", "Lățime până la 500 m", "Parte a Parcului Natural Talsi", "Exploatare istorică de chihlimbar", "Păduri de fag și molid"],
       en: ["Elevation: 202 m", "Length: 20 km", "Width up to 500 m", "Part of Talsi Nature Park", "Historic amber mining", "Beech and spruce forests"],
-    }, image: "/poi-images/latvia-galdnieki-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-laid-ridge-relief-v2",
     type: "mountain",
@@ -1367,7 +1407,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Hossza 15 km", "Legmagasabb pont 185 m", "Drumlin-mező", "Mezőgazdasági hasznosítás", "Zemgale része", "Kelet-nyugati irányítás"],
       ro: ["Lungime 15 km", "Altitudine maximă 185 m", "Câmp de drumlini", "Utilizare agricolă", "Parte a Semigalliei", "Aliniere est-vest"],
       en: ["Length: 15 km", "Max elevation: 185 m", "Drumlin field", "Agricultural use", "Part of Semigallia", "East-west alignment"],
-    }, image: "/poi-images/latvia-laid-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-pelci-hill-relief-v2",
     type: "mountain",
@@ -1398,7 +1439,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magassága 112 m", "Ventspilistől 5 km-re keletre", "Végső moréna homokból és kavicsból", "Fából készült kilátó a csúcson", "Helyi rekreációs terület", "Pleisztocén feltárások"],
       ro: ["Altitudine 112 m", "5 km est de Ventspils", "Morenă terminală de nisip și pietriș", "Turn de lemn pe vârf", "Zonă de recreere locală", "Aflorimente pleistocene"],
       en: ["Elevation: 112 m", "5 km east of Ventspils", "Terminal moraine of sand/gravel", "Wooden tower at summit", "Local recreation area", "Pleistocene exposures"],
-    }, image: "/poi-images/latvia-pelci-hill-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-gudenieki-ridge-relief-v2",
     type: "mountain",
@@ -1429,7 +1471,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Hossza 10 km", "Legmagasabb pont 178 m", "Alapmoréna-dombság", "Mezőgazdaság (burgonya, rozs)", "Történelmi Gudenieki egyházközség", "Középkori kereskedelmi út"],
       ro: ["Lungime 10 km", "Altitudine maximă 178 m", "Morenă de bază", "Agricultură (cartofi, secară)", "Fosta parohie Gudenieki", "Drum comercial medieval"],
       en: ["Length: 10 km", "Max elevation: 178 m", "Ground moraine landscape", "Agriculture (potatoes, rye)", "Historic Gudenieki parish", "Medieval trade route"],
-    }, image: "/poi-images/latvia-gudenieki-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-vane-ridge-relief-v2",
     type: "mountain",
@@ -1460,7 +1503,8 @@ export const latviaReliefV2: POI[] = [
       hu: ["Magassága 194 m", "Hossza 12 km", "Végső moréna", "19. századi háromszögelési pont", "Fontos vízgyűjtő terület", "Történelmi szénégetés"],
       ro: ["Altitudine 194 m", "Lungime 12 km", "Morenă terminală", "Punct trigonometric din sec. XIX", "Bazin hidrografic important", "Producție istorică de cărbune"],
       en: ["Elevation: 194 m", "Length: 12 km", "Terminal moraine", "19th-century trigonometric point", "Important watershed", "Historic charcoal production"],
-    }, image: "/poi-images/latvia-vane-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "latvia-stende-ridge-relief-v2",
     type: "mountain",

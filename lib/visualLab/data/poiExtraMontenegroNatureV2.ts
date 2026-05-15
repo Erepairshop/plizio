@@ -31,7 +31,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["Mélység: akár 800 m", "Hossz: 12 km", "Legmagasabb vízesés: 30 m", "Madárfajok száma: több mint 100", "Folyó hossza: 25 km", "Geológiai képződmény: jura mészkő"],
       ro: ["Adâncime: până la 800 m", "Lungime: 12 km", "Cea mai înaltă cascadă: 30 m", "Număr de specii de păsări: peste 100", "Lungimea râului: 25 km", "Formațiune geologică: calcar jurasic"],
       en: ["Depth: up to 800 m", "Length: 12 km", "Highest waterfall: 30 m", "Bird species: over 100", "River length: 25 km", "Geological formation: Jurassic limestone"],
-    }, image: "/poi-images/montenegro-canyon-susica-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-canyon-komarnica-nature-v2",
     type: "valley",
@@ -62,7 +63,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["1965-ben tárták fel az első expedícióval", "A kanyon hossza pontosan 3,5 kilométer", "A legszűkebb pontja mindössze 1 méter", "A Komarnica folyó alakította ki évezredek alatt", "A sziklafalak magassága eléri a 400 métert", "Csak speciális kanyonozó felszereléssel járható"],
       ro: ["Prima explorare documentată în 1965", "Lungimea totală a secțiunii este de 3,5 km", "Lățimea minimă a canionului este de 1 metru", "Săpat în rocă calcaroasă de râul Komarnica", "Pereții verticali depășesc 400 metri înălțime", "Accesul este permis doar cu ghid autorizat"],
       en: ["First successfully explored in 1965", "Total length of the gorge is 3.5 km", "Narrowest sections are under 1 meter wide", "Formed by the erosive force of Komarnica River", "Cliff walls reach heights of up to 450 meters", "Last conquered canyon in the European continent"],
-    }, image: "/poi-images/montenegro-canyon-komarnica-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-canyon-grlja-nature-v2",
     type: "valley",
@@ -93,7 +95,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["A Prokletije Nemzeti Park területén fekszik", "Egy 15 méter magas vízeséssel zárul a szakasz", "Az Oko Skakavice karsztforrás táplálja vízzel", "Vusanje falu közvetlen közelében található", "A szurdok hossza körülbelül 500 méter", "A víz hőmérséklete nyáron sem haladja meg a 7 fokot"],
       ro: ["Situat în masivul muntos Prokletije", "Cascada finală are o cădere de 15 metri", "Sursa de apă este izvorul carstic Oko Skakavice", "Accesibil din localitatea rurală Vusanje", "Lungimea canionului este de circa 500 metri", "Roca predominantă este calcarul stratificat"],
       en: ["Situated within Prokletije National Park", "Features a 15-meter high final waterfall", "Water source is the karst eye Oko Skakavice", "Located at an altitude of 1,000 meters", "The canyon section spans about 500 meters", "Characterized by extremely cold river water"],
-    }, image: "/poi-images/montenegro-canyon-grlja-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-vrh-bobotov-kuk-nature-v2",
     type: "peak",
@@ -124,7 +127,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["Tengerszint feletti magassága 2523 méter", "A Durmitor Nemzeti Park legmagasabb csúcsa", "Első hivatalos megmászása 1883-ban történt", "A csúcsról látható az albániai Prokletije is", "Különleges, gyűrt mészkőrétegek alkotják", "Évente több ezer túrázó hódítja meg"],
       ro: ["Altitudinea maximă este de 2.523 metri", "Face parte din patrimoniul mondial UNESCO", "Prima ascensiune montană datată în 1883", "Vizibilitate până la Marea Adriatică în zile senine", "Structură geologică formată din calcar și dolomit", "Punct de pornire principal din stațiunea Žabljak"],
       en: ["Reaches a peak elevation of 2,523 meters", "Located in the center of Durmitor National Park", "First recorded ascent by Oscar Baumann in 1883", "Offers views of the Tara River Canyon", "Composed of folded sedimentary limestone", "A key destination for Balkan mountaineering"],
-    }, image: "/poi-images/montenegro-vrh-bobotov-kuk-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-vrh-zla-kolata-nature-v2",
     type: "peak",
@@ -155,7 +159,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["Magasság: 2534 m", "Első mászás: 1884", "Északi fal magassága: 800 m", "Gleccsertavak: több mint 20", "Kőzettípus: mészkő/dolomit", "Nemzeti park: 2009 óta"],
       ro: ["Altitudine: 2.534 m", "Prima ascensiune: 1884", "Înălțimea feței nordice: 800 m", "Lacuri glaciare: peste 20", "Tip rocă: calcar/dolomit", "Parcul național din: 2009"],
       en: ["Elevation: 2,534 m", "First ascent: 1884", "North face height: 800 m", "Glacial lakes: over 20", "Rock type: limestone/dolomite", "National park since: 2009"],
-    }, image: "/poi-images/montenegro-vrh-zla-kolata-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-jezero-biogradsko-nature-v2",
     type: "lake",
@@ -186,7 +191,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["A tó 1094 méteres magasságban található", "Területe megközelítőleg 23 hektár", "Maximális mélysége eléri a 12 métert", "A nemzeti parkot 1952-ben alapították", "Körülötte Európa egyik utolsó őserdője áll", "A Biogradska folyó a fő vízutánpótlása"],
       ro: ["Altitudinea oglinzii apei este de 1.094 m", "Adâncimea maximă a lacului este de 12,1 m", "Suprafața totală a apei este de 23 de hectare", "Pădurea înconjurătoare are exemplare de 500 ani", "Temperatură medie a apei vara este de 17°C", "Sursă principală de apă este râul Biogradska"],
       en: ["Located at an elevation of 1,094 meters", "Maximum recorded water depth is 12.1 meters", "Surface area covers 228,500 square meters", "Protected since King Nikola's decree in 1878", "Home to diverse endemic trout species", "Surrounded by one of Europe's last virgin forests"],
-    }, image: "/poi-images/montenegro-jezero-biogradsko-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-jezero-kapetanovo-nature-v2",
     type: "lake",
@@ -217,7 +223,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["1678 méteres tengerszint feletti magasság", "A tó hossza körülbelül 480 méter", "Legmélyebb pontja 37 méter mélyen van", "A Morača-hegység központi részén fekszik", "Gleccser eredetű, természetes állóvíz", "A környező sziklák 2000 méter fölé nyúlnak"],
       ro: ["Altitudinea lacului este de 1.678 metri", "Adâncimea maximă atinge pragul de 37 metri", "Lungimea totală a lacului este de 480 metri", "Lac de origine glaciară din perioada pleistocen", "Popularea cu pești a fost făcută artificial", "Accesibil prin drumuri forestiere dinspre Nikšić"],
       en: ["Altitude of the lake is 1,678 meters", "Maximum depth is recorded at 37 meters", "Total length measures 480 meters", "Glacial origin from the Last Ice Age", "Located in the heart of Morača Mountains", "Used as a seasonal base for mountain shepherds"],
-    }, image: "/poi-images/montenegro-jezero-kapetanovo-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-jezero-trnovacko-nature-v2",
     type: "lake",
@@ -248,7 +255,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["Világhírű a szabályos szív alakja miatt", "1517 méteres magasságban terül el", "Maximális mélysége 9 méter körül van", "A tó hossza eléri a 700 métert", "A Maglić-hegy (2386 m) tövében fekszik", "Télen vastag jégréteg borítja a felszínét"],
       ro: ["Formă naturală unică de inimă", "Altitudinea la care se află este de 1.517 m", "Adâncimea apei este relativ mică, de 9 m", "Lățimea maximă a lacului este de 400 m", "Înconjurat de vârfuri ce depășesc 2.300 m", "Vizibil cel mai bine de pe muntele Maglić"],
       en: ["Famous for its distinct heart-shaped outline", "Elevation is 1,517 meters above sea level", "Maximum water depth is 9 meters", "Lake length is approximately 700 meters", "Located at the foot of Mount Maglić", "Accessible only via hiking trails"],
-    }, image: "/poi-images/montenegro-jezero-trnovacko-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-rijeka-cehotina-nature-v2",
     type: "river",
@@ -279,7 +287,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["Hossz: 125 km", "Vízgyűjtő terület: 1300 km²", "Átlagos vízhozam: 25 m³/s", "Forrás magassága: 1800 m", "Torkolat magassága: 400 m", "Nyári vízhőmérséklet: 18°C"],
       ro: ["Lungime: 125 km", "Bazin hidrografic: 1.300 km²", "Debit mediu: 25 m³/s", "Altitudinea izvorului: 1.800 m", "Altitudinea vărsării: 400 m", "Temperatura apei vara: 18°C"],
       en: ["Length: 125 km", "Catchment area: 1,300 km²", "Average discharge: 25 m³/s", "Source elevation: 1,800 m", "Mouth elevation: 400 m", "Summer water temperature: 18°C"],
-    }, image: "/poi-images/montenegro-rijeka-cehotina-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-rijeka-lim-nature-v2",
     type: "river",
@@ -310,7 +319,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["Hossz: 220 km", "Vízgyűjtő terület: 5930 km²", "Vízhozam: 120 m³/s", "Forrás: Prokletije, 1500 m", "Torkolat: Drina, 250 m", "Halfajok száma: 30"],
       ro: ["Lungime: 220 km", "Bazin hidrografic: 5.930 km²", "Debit: 120 m³/s", "Izvor: Prokletije, 1.500 m", "Vărsare: Drina, 250 m", "Număr de specii de pești: 30"],
       en: ["Length: 220 km", "Watershed: 5,930 km²", "Average discharge: 120 m³/s", "Source elevation: 1,500 m", "Mouth elevation: 250 m", "Fish species: 30"],
-    }, image: "/poi-images/montenegro-rijeka-lim-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-otok-sveti-nikola-nature-v2",
     type: "island",
@@ -341,7 +351,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["Terület: 0,36 km²", "Legmagasabb pont: 145 m", "Távolság a parttól: 1 km", "Strand hossza: 500 m", "Madárfajok száma: 15", "Védetté nyilvánítás: 1968"],
       ro: ["Suprafață: 0,36 km²", "Cel mai înalt punct: 145 m", "Distanța de coastă: 1 km", "Lungimea plajei: 500 m", "Specii de păsări: 15", "Protejat din: 1968"],
       en: ["Area: 0.36 km²", "Highest point: 145 m", "Distance from coast: 1 km", "Beach length: 500 m", "Bird species: 15", "Protected since: 1968"],
-    }, image: "/poi-images/montenegro-otok-sveti-nikola-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-gora-orjen-nature-v2",
     type: "mountain",
@@ -372,7 +383,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["Legmagasabb csúcsa a Zubački kabao (1894 m)", "Crkvice falu évi 5000 mm csapadékot is kap", "A hegység területe 400 négyzetkilométer", "Jellegzetes növénye a páncélfenyő", "A karsztosodás mértéke itt a legnagyobb", "A Kotori-öböl északi fala alkotja"],
       ro: ["Altitudinea maximă este de 1.894 metri", "Deține recordul european de precipitații anuale", "Suprafața masivului este de 400 km²", "Adăpostește specia endemică Pinus heldreichii", "Relief marcat de doline și câmpuri de lapiezuri", "Vizibilitate spre Dubrovnik în zile senine"],
       en: ["Highest peak is Zubački kabao at 1,894 meters", "Crkvice receives over 5,000 mm of rain annually", "The mountain range covers 400 square kilometers", "Home to the endemic Bosnian pine species", "Most developed karst landscape in the Balkans", "Strategically overlooks the Bay of Kotor"],
-    }, image: "/poi-images/montenegro-gora-orjen-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-sumetina-gora-nature-v2",
     type: "valley",
@@ -403,7 +415,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["Az átlagos magasság 1600 méter a tengerszint felett", "A fennsík hossza eléri a 40 kilométert", "Területe nagyjából 450 négyzetkilométer", "A Balkán legnagyobb hegyi legelője", "A Tara és Morača kanyonok között fekszik", "Hagyományos pásztorkodás zajlik a területen"],
       ro: ["Altitudinea medie este de 1.600 metri", "Lungimea totală a platoului este de 40 km", "Suprafața pășunilor este de 450 km²", "Cea mai mare zonă de pășunat din Balcani", "Situat între râurile Tara și Morača", "Peisaj dominat de ierburi alpine și roci"],
       en: ["Average elevation is 1,600 meters above sea level", "Stretches for 40 kilometers in length", "Covers an area of 450 square kilometers", "Largest mountain grassland in the Balkans", "Bordered by the Tara and Morača canyons", "Home to the seasonal Savina Voda lake"],
-    }, image: "/poi-images/montenegro-sumetina-gora-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-rijeka-piva-nature-v2",
     type: "river",
@@ -434,7 +447,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["A Mratinje-gát magassága 220 méter", "A duzzasztott tó hossza 42 kilométer", "A tó legnagyobb mélysége 188 méter", "A kanyon fala helyenként 1200 méteres", "A Tara folyóval egyesülve alkotja a Drinát", "Kristálytiszta, iható minőségű vize van"],
       ro: ["Barajul Mratinje are o înălțime de 220 m", "Lacul de acumulare are o lungime de 42 km", "Adâncimea maximă a lacului este de 188 m", "Canionul râului atinge 1.200 m adâncime", "Râul formează Drina la confluența cu Tara", "Mănăstirea Piva a fost mutată piatră cu piatră"],
       en: ["Mratinje Dam is 220 meters high", "Piva Lake extends for 42 kilometers", "Maximum reservoir depth is 188 meters", "Canyon depth reaches up to 1,200 meters", "Confluence with Tara River forms the Drina", "River known for its vibrant turquoise color"],
-    }, image: "/poi-images/montenegro-rijeka-piva-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-gora-lovcen-nature-v2",
     type: "mountain",
@@ -465,7 +479,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["A legmagasabb csúcs a Štirovnik (1749 m)", "1952-ben alapították a nemzeti parkot", "A mauzóleumhoz 461 lépcsőfok vezet fel", "Területe körülbelül 6220 hektár", "Több mint 1300 növényfaj él a hegyen", "Cetinje történelmi városa a hegy lábánál fekszik"],
       ro: ["Vârful cel mai înalt este Štirovnik (1.749 m)", "Parc Național înființat în anul 1952", "Mausoleul lui Njegoš se află la 1.657 m", "Scara spre mausoleu are 461 de trepte", "Suprafața parcului este de 6.220 hectare", "Punct strategic cu vedere spre Golful Kotor"],
       en: ["Highest peak Štirovnik stands at 1,749 meters", "Established as a National Park in 1952", "Njegoš Mausoleum is located at 1,657 meters", "The summit is reached via 461 stone steps", "Total park area covers 6,220 hectares", "Features a road with 25 famous serpentines"],
-    }, image: "/poi-images/montenegro-gora-lovcen-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-jezero-plavsko-nature-v2",
     type: "lake",
@@ -496,7 +511,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["Magasság: 906 m", "Hossz: 3,5 km", "Szélesség: 1 km", "Maximális mélység: 9 m", "Vízhőmérséklet augusztusban: 22°C", "Kezletkezés: glaciális"],
       ro: ["Altitudine: 906 m", "Lungime: 3,5 km", "Lățime: 1 km", "Adâncime maximă: 9 m", "Temperatura apei în august: 22°C", "Formare: glaciară"],
       en: ["Elevation: 906 m", "Length: 3.5 km", "Width: 1 km", "Maximum depth: 9 m", "Summer water temperature: 22°C", "Formation: glacial"],
-    }, image: "/poi-images/montenegro-jezero-plavsko-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-gora-komovi-nature-v2",
     type: "mountain",
@@ -527,7 +543,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["Masszívum hossza: 25 km", "Legmagasabb csúcs: 2487 m (Kom Kučki)", "Második legmagasabb: 2469 m", "Gleccsertavak: 5", "Nemzeti park: Biogradska Gora", "Éves csapadék: 2000 mm"],
       ro: ["Lungimea masivului: 25 km", "Cel mai înalt vârf: 2.487 m (Kom Kučki)", "Al doilea cel mai înalt: 2.469 m", "Lacuri glaciare: 5", "Parcul național: Biogradska Gora", "Precipitații anuale: 2.000 mm"],
       en: ["Massif length: 25 km", "Highest peak: 2,487 m (Kom Kučki)", "Second highest: 2,469 m", "Glacial lakes: 5", "National park: Biogradska Gora", "Annual precipitation: 2,000 mm"],
-    }, image: "/poi-images/montenegro-gora-komovi-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-kanjon-mrtvica-nature-v2",
     type: "valley",
@@ -558,7 +575,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["A sziklafalak magassága eléri az 1100 métert", "A Morača folyó egyik legfontosabb mellékvize", "Danilo herceg 1858-ban építtetett itt kőhidat", "Itt található a Kívánságok Kapuja sziklaív", "A Mrtvičke Grede ösvényt katonák vájták a falba", "A túraútvonal hossza oda-vissza 12-15 km"],
       ro: ["Adâncimea canionului ajunge la 1.100 metri", "Afluent principal al râului Morača", "Podul de piatră Danilov construit în 1858", "Poteca Mrtvičke Grede săpată direct în stâncă", "Formațiune naturală numită Poarta Dorințelor", "Traseu marcat de aproximativ 12 kilometri"],
       en: ["Maximum canyon depth is 1,100 meters", "Direct tributary to the Morača River", "Stone bridge Danilov Most dates back to 1858", "Mrtvičke Grede trail carved into the cliff", "Features the Gate of Wishes rock formation", "Hike distance is roughly 12 kilometers long"],
-    }, image: "/poi-images/montenegro-kanjon-mrtvica-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-otok-mamula-nature-v2",
     type: "island",
@@ -589,7 +607,8 @@ export const montenegroNatureV2: POI[] = [
       hu: ["Az erőd építése 1853-ban fejeződött be", "A sziget átmérője mindössze 200 méter", "Lazar Mamula tábornokról kapta a nevét", "A sziget eredeti, helyi neve Lastavica", "A Kotori-öböl tengeri bejáratát védte", "Ma luxusszállodaként üzemel a terület"],
       ro: ["Fortăreața a fost finalizată în 1853", "Diametrul insulei este de aproximativ 200 m", "Numită după generalul Lazar Mamula", "Numele geografic al insulei este Lastavica", "A servit drept închisoare politică în trecut", "Construcție circulară din blocuri masive de piatră"],
       en: ["The fortress was completed in 1853", "The island diameter is exactly 200 meters", "Named after General Lazarus von Mamula", "Original island name is Lastavica (Swallow)", "Guarded the entrance to the Bay of Kotor", "Built using high-quality local limestone"],
-    }, image: "/poi-images/montenegro-otok-mamula-nature-v2.webp"},
+    },
+  },
   {
     id: "montenegro-vrh-durmitor-valovito-nature-v2",
     type: "lake",

@@ -31,7 +31,8 @@ export const italyNatureV2: POI[] = [
       hu: ["Területe: megközelítőleg 128 km2", "Legnagyobb mélysége: mindössze 6 méter", "Szigetek száma: 3 (Polvese, Maggiore, Minore)", "Típusa: lefolyástalan tektonikus tó", "Partvonal hossza: körülbelül 45 kilométer", "Védett terület: Trasimeno Regionális Park"],
       ro: ["Suprafață totală: 128 km pătrați", "Adâncime medie: aproximativ 4 metri", "Localizare: Provincia Perugia, Umbria", "Sursă de apă: precipitații și afluenți mici", "Ecosistem: zonă umedă de importanță europeană", "Faună: peste 200 de specii de păsări migratoare"],
       en: ["Surface area: 128 square kilometers", "Maximum depth: 6 meters (20 feet)", "Islands: Polvese is the largest at 70 hectares", "Elevation: 258 meters above sea level", "Water volume: 0.59 cubic kilometers", "Geology: Tectonic origin, formed 5 million years ago"],
-    }, image: "/poi-images/italy-lago-trasimeno-nature-v2.webp"},
+    },
+  },
   {
     id: "italy-fiume-adige-nature-v2",
     type: "river",
@@ -62,7 +63,8 @@ export const italyNatureV2: POI[] = [
       hu: ["Hossz: 410 km", "Vízgyűjtő terület: 12 100 km²", "Forrás: Reschen-hágó (1550 m)", "Olaszország 2. leghosszabb folyója"],
       ro: ["Lungime totală: 410 km", "Bazin hidrografic: 12.100 km²", "Izvor: Pasul Resia (1.550 m)", "Al doilea cel mai lung râu din Italia"],
       en: ["Length: 410 km", "Basin area: 12,100 km²", "Source: Reschen Pass (1,550 m)", "Italy's second longest river"],
-    }, image: "/poi-images/italy-fiume-adige-nature-v2.webp"},
+    },
+  },
   {
     id: "italy-monte-rosa-nature-v2",
     type: "mountain",
@@ -93,7 +95,8 @@ export const italyNatureV2: POI[] = [
       hu: ["Legmagasabb csúcs: Dufour-csúcs (4634 m)", "Csúcsok száma: 10 csúcs 4000 méter felett", "Híres fal: Macugnaga-fal (2400 m függőleges)", "Gleccserek: Lys-gleccser, Grenz-gleccser", "Kutatóállomás: Regina Margherita (legmagasabb Európában)", "Kőzetösszetétel: gneisz és gránit"],
       ro: ["Înălțime maximă: 4634 metri (Dufourspitze)", "Versantul italian: Macugnaga și Alagna Valsesia", "Record: Cea mai înaltă cabană din Europa (4554 m)", "Masiv: Alpii Pennini, masiv de tip cristalofilian", "Ghețari: Suprafață totală de peste 100 km2", "Traseu: Tour del Monte Rosa (peste 160 km)"],
       en: ["Highest peak: Dufourspitze at 4,634 meters", "Peaks over 4000m: 10 distinct summits", "East Face: 2,400 meters high, largest in the Alps", "Border: Divides Piedmont, Aosta Valley, and Valais", "First ascent: Charles Hudson and party in 1855", "Mountain hut: Capanna Margherita built in 1893"],
-    }, image: "/poi-images/italy-monte-rosa-nature-v2.webp"},
+    },
+  },
   {
     id: "italy-parco-nazionale-stelvio-nature-v2",
     type: "park",
@@ -124,7 +127,8 @@ export const italyNatureV2: POI[] = [
       hu: ["Terület: 134.000 hektár.", "Legmagasabb csúcs: Ortler (3.905 m).", "Alapítva: 1935.", "Stelvio-hágó: 48 kanyar.", "Túraútvonalak: több mint 1.500 km.", "Három régió."],
       ro: ["Suprafață: 134.000 de hectare.", "Cel mai înalt vârf: Ortler (3.905 m).", "Înființat în 1935.", "Pasul Stelvio: 48 de serpentine.", "Trasee de drumeție: peste 1.500 km.", "Trei regiuni."],
       en: ["Area: 134,000 hectares.", "Highest peak: Ortler (3,905 m).", "Established in 1935.", "Stelvio Pass: 48 hairpin turns.", "Hiking trails: over 1,500 km.", "Three regions."],
-    }, image: "/poi-images/italy-parco-nazionale-stelvio-nature-v2.webp"},
+    },
+  },
   {
     id: "italy-gran-sasso-nature-v2",
     type: "mountain",
@@ -155,7 +159,8 @@ export const italyNatureV2: POI[] = [
       hu: ["Legmagasabb pont: 2912 m", "Gleccser: Calderone", "Nemzeti park alapítása: 1991", "Régió: Abruzzo"],
       ro: ["Altitudine maximă: 2.912 m", "Ghețar: Calderone", "Parc Național din 1991", "Regiune: Abruzzo"],
       en: ["Highest peak: 2,912 m", "Glacier: Calderone", "National Park since 1991", "Region: Abruzzo"],
-    }, image: "/poi-images/italy-gran-sasso-nature-v2.webp"},
+    },
+  },
   {
     id: "italy-fiume-po-nature-v2",
     type: "river",
@@ -186,7 +191,8 @@ export const italyNatureV2: POI[] = [
       hu: ["Hosszúság: 652 kilométer", "Vízgyűjtő terület: 71 000 km2 felett", "Forrás: Monviso hegy, Cotti-Alpok", "Átlagos vízhozam: 1540 m3 másodpercenként", "Mellékfolyók száma: 141 jelentősebb ág", "Torkolat: 5 fő ágra szakadó delta"],
       ro: ["Lungime totală: 652 kilometri", "Bazin hidrografic: 15% din suprafața Italiei", "Orașe traversate: Torino, Piacenza, Cremona", "Debitul maxim: Poate depăși 13.000 m3/s în inundații", "Delta: Suprafață de 380 km pătrați", "Ecosistem: Peste 370 de specii de păsări în deltă"],
       en: ["Length: 652 kilometers (405 miles)", "Drainage basin: 74,000 square kilometers", "Source elevation: 2,022 meters at Monviso", "Mouth: Adriatic Sea via 5 main branches", "Agricultural impact: Provides 35% of Italy's GDP", "UNESCO status: Po Delta Biosphere Reserve"],
-    }, image: "/poi-images/italy-fiume-po-nature-v2.webp"},
+    },
+  },
   {
     id: "italy-arcipelago-la-maddalena-nature-v2",
     type: "island",
@@ -217,7 +223,8 @@ export const italyNatureV2: POI[] = [
       hu: ["Fő szigetek száma: 7 nagyobb lakott/látogatható", "Park alapítása: 1994, az első Szardínián", "Tengeri terület: 15 000 hektárnál több", "Budelli sziget: Világhírű rózsaszín homok", "Történelem: Garibaldi utolsó lakhelye (Caprera)", "Állatvilág: Delfinek és tengeri teknősök"],
       ro: ["Insule principale: La Maddalena, Caprera, Budelli", "Suprafață terestră: 51 km pătrați", "Coastă: 180 km de țărm stâncos și plaje", "Parcul Național: Înființat în ianuarie 1994", "Spiaggia Rosa: Nisip colorat de microorganisme", "Acces: Doar prin feribot din Palau"],
       en: ["Main islands: 7 large and 55 tiny islets", "Total area: 5,134 hectares of land", "Highest peak: 146 meters on La Maddalena", "Budelli's Pink Beach: Closed to tourists since 1994", "Caprera Island: Home to Giuseppe Garibaldi's tomb", "Marine protection: Established as a National Park in 1994"],
-    }, image: "/poi-images/italy-arcipelago-la-maddalena-nature-v2.webp"},
+    },
+  },
   {
     id: "italy-val-di-fassa-nature-v2",
     type: "valley",
@@ -248,7 +255,8 @@ export const italyNatureV2: POI[] = [
       hu: ["Fő folyója: Avisio", "Beszélt nyelv: ladin", "Környező hegyek: Sella, Marmolada", "Elhelyezkedés: Trentino"],
       ro: ["Râu principal: Avisio", "Limba vorbită: ladină", "Masive montane: Sella, Marmolada", "Locație: Provincia Trento"],
       en: ["Main river: Avisio", "Native language: Ladin", "Surrounded by: Sella & Marmolada", "Location: Trentino province"],
-    }, image: "/poi-images/italy-val-di-fassa-nature-v2.webp"},
+    },
+  },
   {
     id: "italy-gola-di-gola-rossa-nature-v2",
     type: "valley",
@@ -279,7 +287,8 @@ export const italyNatureV2: POI[] = [
       hu: ["Kőzet: mészkő", "Folyó: Sentino", "Régió: Marche", "Barlangrendszer: Frasassi"],
       ro: ["Tip de rocă: calcar", "Râu: Sentino", "Regiune: Marche", "Sistem de peșteri: Frasassi"],
       en: ["Rock type: Limestone", "River: Sentino", "Region: Marche", "Cave system: Frasassi"],
-    }, image: "/poi-images/italy-gola-di-gola-rossa-nature-v2.webp"},
+    },
+  },
   {
     id: "italy-fiume-arno-nature-v2",
     type: "river",
@@ -310,7 +319,8 @@ export const italyNatureV2: POI[] = [
       hu: ["Hossz: 241 km", "Forrás: Monte Falterona", "Torkolat: Ligur-tenger", "Nagy árvíz éve: 1966"],
       ro: ["Lungime: 241 km", "Izvor: Muntele Falterona", "Gura de vărsare: Marea Ligurică", "Anul inundației majore: 1966"],
       en: ["Length: 241 km", "Source: Monte Falterona", "Mouth: Ligurian Sea", "Great Flood year: 1966"],
-    }, image: "/poi-images/italy-fiume-arno-nature-v2.webp"},
+    },
+  },
   {
     id: "italy-foresta-umbra-nature-v2",
     type: "forest",
@@ -341,7 +351,8 @@ export const italyNatureV2: POI[] = [
       hu: ["Területe: kb. 10 000 hektár", "Növényvilág: Több mint 65 orchideafaj", "UNESCO cím: Ősbükkösök védelme (2017)", "Tengerszint feletti magasság: 800 méter körüli", "Klíma: Hűvös és nedves mikroklíma", "Fauna: Európai őz és ritka harkályfajok"],
       ro: ["Suprafață: 10.000 hectare de pădure mixtă", "Vârsta copacilor: Fagi de peste 350 de ani", "Localizare: Parcul Național Gargano, Puglia", "Biodiversitate: 2.000 de specii de plante", "Patrimoniu UNESCO: Inclus din iulie 2017", "Relief: Carstic, cu doline și peșteri ascunse"],
       en: ["Area: 10,000 hectares of primary forest", "Highest point: Monte Sfilzi (832 meters)", "Orchids: Over 60 wild species recorded here", "Tree height: Beeches reach up to 45 meters", "UNESCO Site: Part of Ancient Beech Forests", "Protection: Core area of Gargano National Park"],
-    }, image: "/poi-images/italy-foresta-umbra-nature-v2.webp"},
+    },
+  },
   {
     id: "italy-cascate-delle-marmore-nature-v2",
     type: "landmark",

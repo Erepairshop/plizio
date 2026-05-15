@@ -31,7 +31,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["A stobi földpiramisok akár 12 méter magasak.", "Kb. 0,3 km² területet fednek le.", "Homokos és agyagos üledékekből állnak.", "Természeti emlékek.", "A piramisok erózió révén jöttek létre.", "Délnyugat-Bulgáriában, Stob közelében vannak."],
       ro: ["Piramidele de pământ de la Stob au până la 12 metri înălțime.", "Acoperă o suprafață de aproximativ 0,3 km².", "Formațiunile sunt compuse din nisip și argilă.", "Sunt monumente ale naturii.", "Piramidele s-au format prin eroziune.", "Sunt situate în sud-vestul Bulgariei, lângă Stob."],
       en: ["Stob Earth Pyramids reach up to 12 meters in height.", "They cover an area of about 0.3 km².", "The formations are made of sand and clay.", "They are a natural monument.", "The pyramids formed through erosion.", "They are located in southwestern Bulgaria near Stob."],
-    }, image: "/poi-images/bulgaria-stob-pyramids-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-kalofer-monastery-history-v2",
     type: "church",
@@ -62,7 +63,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["Alapítás: 13. század.", "A mai templom 1854-ben épült.", "A freskók 1855-ben készültek.", "Tengerszint feletti magasság: 600 m.", "Hriszto Botev 1860-63 között élt itt.", "Az ikongyűjtemény 50 ikont tartalmaz."],
       ro: ["Fondat în secolul al XIII-lea.", "Biserica actuală construită în 1854.", "Frescele datează din 1855.", "Altitudine: 600 m.", "Hristo Botev a trăit aici între 1860-1863.", "Colecția de icoane: 50 de piese."],
       en: ["Founded in the 13th century.", "Current church built in 1854.", "Frescoes painted in 1855.", "Altitude: 600 m.", "Hristo Botev lived here 1860-1863.", "Icon collection: 50 icons."],
-    }, image: "/poi-images/bulgaria-kalofer-monastery-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-mezek-fortress-history-v2",
     type: "castle",
@@ -93,7 +95,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["12. században épült.", "A falak vastagsága eléri a 3 métert.", "Területe 2,5 hektár.", "A legmagasabb torony 15 m magas volt.", "Régészeti feltárás 1970-ben kezdődött.", "Tengerszint feletti magasság: 300 m."],
       ro: ["Construit în secolul al XII-lea.", "Ziduri groase de 3 m.", "Suprafață: 2,5 ha.", "Turnul cel mai înalt: 15 m.", "Săpături arheologice începute în 1970.", "Altitudine: 300 m."],
       en: ["Built in the 12th century.", "Walls up to 3 m thick.", "Area: 2.5 hectares.", "Highest tower: 15 m.", "Archaeological excavations began in 1970.", "Altitude: 300 m."],
-    }, image: "/poi-images/bulgaria-mezek-fortress-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-magura-cave-paintings-history-v2",
     type: "ruins",
@@ -124,7 +127,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["Több mint 750 egyedi őskori barlangrajz található itt.", "A festményekhez helyi denevérguanót használtak.", "A legrégebbi rajzok Kr. e. 8000 körül készültek.", "Egy ritka, 366 napos őskori naptárat is ábrázolnak.", "A barlang teljes hossza megközelíti a 2500 métert.", "Az ábrák vadászatot és vallási rítusokat mutatnak be."],
       ro: ["Peștera conține peste 750 de picturi rupestre preistorice.", "Realizate exclusiv din guano de liliac fosilizat.", "Datarea picturilor variază între 8000 și 1200 î.Hr.", "Includ un calendar solar antic cu 366 de zile.", "Galeriile peșterii au o lungime totală de 2,5 kilometri.", "Scenele reprezintă vânători, animale și ritualuri sacre."],
       en: ["Features over 750 prehistoric paintings on the walls.", "Dating ranges extensively from 8000 to 1200 BC.", "Paintings were uniquely created using bat guano.", "Includes a prehistoric solar calendar with 366 days.", "The cave network extends for approximately 2500 meters.", "Depicts early Bronze Age hunting and fertility dances."],
-    }, image: "/poi-images/bulgaria-magura-cave-paintings-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-kabile-archaeological-site-history-v2",
     type: "ruins",
@@ -155,7 +159,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["A terület kiterjedése 600 dekár", "Az i. e. 4. században alapították", "Római regionális központ státusz", "Artemisz-szentély a sziklatetőn"],
       ro: ["Suprafață totală de circa 60 hectare", "Fondat în secolul al IV-lea î.Hr.", "Statut de centru regional roman", "Sanctuar al Artemisei pe stâncă"],
       en: ["Total area of about 600 decares", "Established in the 4th century BC", "Roman status as a regional center", "Sanctuary of Artemis on the rock peak"],
-    }, image: "/poi-images/bulgaria-kabile-archaeological-site-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-shumen-fortress-history-v2",
     type: "castle",
@@ -186,7 +191,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["Első említés: 5. század.", "Virágkor: 14. század.", "A domb magassága: 250 méter tengerszint felett.", "Az erőd területe: kb. 1 hektár.", "Helyreállított tornyok: 4.", "Múzeumi kiállítás: 1982 óta."],
       ro: ["Prima mențiune: secolul al V-lea.", "Perioada de glorie: secolul al XIV-lea.", "Altitudinea dealului: 250 de metri deasupra nivelului mării.", "Suprafața cetății: aproximativ 1 hectar.", "Turnuri reconstruite: 4.", "Expoziție muzeală: din 1982."],
       en: ["First mentioned: 5th century.", "Peak period: 14th century.", "Hill elevation: 250 meters above sea level.", "Fortress area: about 1 hectare.", "Restored towers: 4.", "Museum exhibition: since 1982."],
-    }, image: "/poi-images/bulgaria-shumen-fortress-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-perushtitsa-monument-history-v2",
     type: "monument",
@@ -217,7 +223,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["Felavatás: 1976. április 20.", "Torony magassága: 30 m.", "Súlya: 500 tonna.", "A felkelés 1876. április 20-án kezdődött.", "Perusticában 300 felkelő halt meg.", "Tervező: Krum Damjanow."],
       ro: ["Inaugurat la 20 aprilie 1976.", "Turnul are 30 m înălțime.", "Greutate: 500 tone.", "Răscoala a început la 20 aprilie 1876.", "În Peruștița au murit 300 de răsculați.", "Proiectat de Krum Damyanov."],
       en: ["Unveiled on 20 April 1976.", "Tower height: 30 m.", "Weight: 500 tons.", "Uprising began on 20 April 1876.", "300 rebels died in Perushtitsa.", "Designed by Krum Damyanov."],
-    }, image: "/poi-images/bulgaria-perushtitsa-monument-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-kustendil-roman-baths-history-v2",
     type: "ruins",
@@ -248,7 +255,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["Kb. 1000 négyzetméteres alapterület", "Az i. sz. 2-3. századból származik", "Hat fő fűtött terem maradványa", "74 fokos természetes forrásvíz"],
       ro: ["Suprafață de circa 1000 mp", "Datate în secolele II-III d.Hr.", "Șase săli principale încălzite", "Apă la 74°C din izvoare naturale"],
       en: ["Total area of ~1000 square meters", "Dated to the 2nd-3rd century AD", "Six main heated halls identified", "Uses 74°C natural mineral water"],
-    }, image: "/poi-images/bulgaria-kustendil-roman-baths-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-pliska-ruins-history-v2",
     type: "ruins",
@@ -279,7 +287,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["23 négyzetkilométeres külső város", "Fővárosi rang: i. sz. 681–893", "A Nagy Bazilika hossza 100 méter", "Padlófűtéses tróntermi palota"],
       ro: ["Suprafață de 23 kmp (orașul exterior)", "Capitală între 681 și 893 d.Hr.", "Marea Basilică are 100 metri lungime", "Palat al tronului cu hipocaust"],
       en: ["Total area of 23 sq km (Outer City)", "Capital period: 681–893 AD", "Great Basilica is 100 meters long", "Throne palace featured underfloor heating"],
-    }, image: "/poi-images/bulgaria-pliska-ruins-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-preslav-ruins-history-v2",
     type: "ruins",
@@ -310,7 +319,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["Fővárosi rang: i. sz. 893–972", "Egyedi Arany-templom (Kerektemplom)", "Patleina kolostori kerámiaikonok", "10 méter magas fehér kőfalak"],
       ro: ["Capitală între 893 și 972 d.Hr.", "Faimoasa Biserică Rotundă de Aur", "Icoane ceramice de la Patleina", "Ziduri de piatră albă de 10 metri"],
       en: ["Capital period: 893–972 AD", "Unique Round Church (Golden Church)", "Patleina monastery ceramic icons", "10-meter high white stone walls"],
-    }, image: "/poi-images/bulgaria-preslav-ruins-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-lovetsh-covered-bridge-history-v2",
     type: "bridge",
@@ -341,7 +351,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["A híd 1872-1874 között épült.", "A híd 84 méter hosszú.", "A híd hat boltívből áll.", "A híd helyi kövekből készült.", "A híd az Osam folyót szeli át.", "A híd a Balkán egyik legrégebbi fedett hídja."],
       ro: ["Podul a fost construit între 1872-1874.", "Podul are o lungime de 84 de metri.", "Podul este format din șase bolți.", "Podul a fost construit din pietre locale.", "Podul traversează râul Osam.", "Podul este una dintre cele mai vechi poduri acoperite din Balcani."],
       en: ["The bridge was built between 1872-1874.", "The bridge is 84 meters long.", "The bridge consists of six arches.", "The bridge was constructed from local stones.", "The bridge spans the Osam River.", "The bridge is one of the oldest covered bridges in the Balkans."],
-    }, image: "/poi-images/bulgaria-lovetsh-covered-bridge-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-dobrich-ethnographic-history-v2",
     type: "museum",
@@ -372,7 +383,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["A néprajzi ház 1964-ben alakult.", "A kiállítás több mint 500 tárgyat tartalmaz.", "A múzeum egy 19. századi régi házban található.", "A gyűjtemény hagyományos ruhákat és ékszereket tartalmaz.", "A múzeum több nyelven kínál idegenvezetést.", "A kiállítás rendszeresen frissül és bővül."],
       ro: ["Casa etnografică a fost înființată în 1964.", "Expoziția cuprinde peste 500 de exponate.", "Muzeul este situat într-o casă veche din secolul al XIX-lea.", "Colecția cuprinde îmbrăcăminte tradițională și bijuterii.", "Muzeul oferă tururi ghidate în mai multe limbi.", "Expoziția este actualizată și extinsă în mod regulat."],
       en: ["The Ethnographic House was established in 1964.", "The exhibition features over 500 exhibits.", "The museum is located in an old house from the 19th century.", "The collection includes traditional clothing and jewelry.", "The museum offers guided tours in several languages.", "The exhibition is regularly updated and expanded."],
-    }, image: "/poi-images/bulgaria-dobrich-ethnographic-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-varna-roman-thermae-history-v2",
     type: "ruins",
@@ -403,7 +415,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["A 2. század végén épült az ókori Odesszoszban.", "A fürdőkomplexum területe meghaladja a 7000 m2-t.", "A Balkán-félsziget legnagyobb ókori közfürdője.", "Az épület falai helyenként 22 méter magasságig állnak.", "Kifinomult padlófűtéses hipokausztum rendszerrel épült.", "A 3. század végéig szolgált aktív közösségi térként."],
       ro: ["Construite la sfârșitul secolului al II-lea d.Hr.", "Se întind pe o suprafață de peste 7000 de metri pătrați.", "Sunt cele mai mari băi romane din regiunea balcanică.", "Zidurile masive de piatră se înalță până la 22 de metri.", "Dețineau un sistem complex de încălzire prin pardoseală.", "Au funcționat activ până la sfârșitul secolului al III-lea."],
       en: ["Built in the late 2nd century AD in ancient Odessos.", "The entire complex covers over 7000 square meters.", "Ranked as the fourth largest Roman baths in Europe.", "Surviving masonry walls reach up to 22 meters in height.", "Equipped with an advanced subterranean hypocaust system.", "Remained in continuous use until the late 3rd century."],
-    }, image: "/poi-images/bulgaria-varna-roman-thermae-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-zheravna-architectural-history-v2",
     type: "village",
@@ -434,7 +447,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["A Zheravna építészeti rezervátum több mint 200 házból áll.", "A házak a 18. és 19. században épültek.", "A település a hagyományos bolgár építészet példája.", "A házak meredek tetőkkel és fából készült erkélyekkel rendelkeznek.", "A homlokzatok díszesek.", "A rezervátum egy népszerű turisztikai célpont."],
       ro: ["Rezervația arhitecturală Zheravna constă din peste 200 de case.", "Casele au fost construite în secolele XVIII și XIX.", "Așezarea este un exemplu al arhitecturii tradiționale bulgare.", "Casele au acoperișuri înclinate și balcoane din lemn.", "Fațadele caselor sunt decorate.", "Rezervația este o destinație turistică populară."],
       en: ["The Zheravna Architectural Reserve consists of over 200 houses.", "The houses were built in the 18th and 19th centuries.", "The settlement is an example of traditional Bulgarian architecture.", "The houses have steep roofs and wooden balconies.", "The facades of the houses are ornate.", "The reserve is a popular tourist destination."],
-    }, image: "/poi-images/bulgaria-zheravna-architectural-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-batenberg-mausoleum-history-v2",
     type: "monument",
@@ -465,7 +479,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["A mauzóleum 1897-ben épült.", "A mauzóleum a neoklasszikus építészet példája.", "A mauzóleum márványból és gránitból készült.", "A mauzóleum tartalmazza I. Sándor és felesége sírját.", "A mauzóleum Szófiában, Bulgária fővárosában található.", "A mauzóleum egy emlékmű, amely a bolgár első cárjának állít emléket."],
       ro: ["Mausoleul a fost construit în 1897.", "Mausoleul este un exemplu al arhitecturii neoclasiciste.", "Mausoleul este realizat din marmură și granit.", "Mausoleul conține mormântul lui Alexandru I și al soției sale.", "Mausoleul se află în Sofia, capitala Bulgariei.", "Mausoleul este un monument dedicat primului țar al Bulgariei."],
       en: ["The mausoleum was built in 1897.", "The mausoleum is an example of neoclassical architecture.", "The mausoleum is made of marble and granite.", "The mausoleum contains the tomb of Alexander I and his wife.", "The mausoleum is located in Sofia, the capital of Bulgaria.", "The mausoleum is a monument dedicated to the first Bulgarian tsar."],
-    }, image: "/poi-images/bulgaria-batenberg-mausoleum-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-svishtov-clock-tower-history-v2",
     type: "tower",
@@ -496,7 +511,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["Az óratorony a 19. században épült.", "A torony 18 méter magas.", "A torony négyzet alapú.", "A torony panorámás kilátást nyújt a környező tájra.", "A torony az oszmán építészet bolgárországi példája.", "A torony Szvisztov városában található."],
       ro: ["Turnul cu ceas a fost construit în secolul al XIX-lea.", "Turnul are o înălțime de 18 metri.", "Turnul are o bază pătrată.", "Turnul oferă o vedere panoramică asupra peisajului înconjurător.", "Turnul este un exemplu al arhitecturii otomane din Bulgaria.", "Turnul se află în orașul Svishtov."],
       en: ["The clock tower was built in the 19th century.", "The tower is 18 meters high.", "The tower has a square base.", "The tower offers a panoramic view of the surrounding landscape.", "The tower is an example of Ottoman architecture in Bulgaria.", "The tower is located in the town of Svishtov."],
-    }, image: "/poi-images/bulgaria-svishtov-clock-tower-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-asenov-fortress-history-v2",
     type: "castle",
@@ -527,7 +543,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["Az erőd a 11. században épült.", "Az erőd az Aszenovgrád város közelében található.", "Az erőd a bizánci építészet bolgárországi példája.", "Az erőd panorámás kilátást nyújt a környező tájra.", "Az erőd egy népszerű turisztikai célpont.", "Az erőd gazdag történelemmel rendelkezik."],
       ro: ["Cetatea a fost construită în secolul al XI-lea.", "Cetatea se află în apropierea orașului Asenovgrad.", "Cetatea este un exemplu al arhitecturii bizantine din Bulgaria.", "Cetatea oferă o vedere panoramică asupra peisajului înconjurător.", "Cetatea este o destinație turistică populară.", "Cetatea are o istorie bogată."],
       en: ["The fortress was built in the 11th century.", "The fortress is located near the town of Asenovgrad.", "The fortress is an example of Byzantine architecture in Bulgaria.", "The fortress offers a panoramic view of the surrounding landscape.", "The fortress is a popular tourist destination.", "The fortress has a rich history."],
-    }, image: "/poi-images/bulgaria-asenov-fortress-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-panagyurishte-gold-treasure-history-v2",
     type: "museum",
@@ -558,7 +575,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["Az aranykincs 1949-ben került elő.", "A kincs kilenc aranyedényből áll.", "Az edényeket az i. e. 4. és 3. században készítették.", "A kincs a trák kultúra példája.", "A kincs betekintést nyújt az ókori trákok történelmébe és mindennapi életébe.", "A kincs fontos része a bolgár kulturális örökségnek."],
       ro: ["Comoara de aur a fost descoperită în 1949.", "Comoara constă din nouă vase de aur.", "Vasele au fost create în secolele IV și III î.Hr.", "Comoara este un exemplu al culturii tracice.", "Comoara oferă o perspectivă asupra istoriei și vieții de zi cu zi a tracilor antici.", "Comoara este o parte importantă a patrimoniului cultural bulgar."],
       en: ["The gold treasure was discovered in 1949.", "The treasure consists of nine golden vessels.", "The vessels were created in the 4th and 3rd centuries BC.", "The treasure is an example of Thracian culture.", "The treasure provides insight into the history and daily life of the ancient Thracians.", "The treasure is an important part of Bulgaria's cultural heritage."],
-    }, image: "/poi-images/bulgaria-panagyurishte-gold-treasure-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-nesebar-ruins-history-v2",
     type: "ruins",
@@ -589,7 +607,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["Több mint 40 dokumentált templom", "UNESCO világörökség 1983 óta", "Alapítva i. e. 1000 körül", "400 méteres földszoros köti össze"],
       ro: ["Peste 40 de biserici documentate", "Sit UNESCO din anul 1983", "Fondat în jurul anului 1000 î.Hr.", "Legat prin istm lung de 400 m"],
       en: ["Over 40 documented churches", "UNESCO World Heritage since 1983", "Founded as Melsambria ~1000 BC", "Connected by 400m narrow isthmus"],
-    }, image: "/poi-images/bulgaria-nesebar-ruins-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-shipka-memorial-history-v2",
     type: "monument",
@@ -620,7 +639,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["Az emlékmű 1885-ben épült.", "Az emlékmű a Shipka-hegyen található.", "Az emlékmű a bolgár építészet példája.", "Az emlékmű panorámás kilátást nyújt a környező tájra.", "Az emlékmű egy népszerű turisztikai célpont.", "Az emlékmű fontos része a bolgár történelemnek."],
       ro: ["Monumentul a fost construit în 1885.", "Monumentul se află pe muntele Shipka.", "Monumentul este un exemplu al arhitecturii bulgare.", "Monumentul oferă o vedere panoramică asupra peisajului înconjurător.", "Monumentul este o destinație turistică populară.", "Monumentul este o parte importantă a istoriei bulgare."],
       en: ["The memorial was built in 1885.", "The memorial is located on Mount Shipka.", "The memorial is an example of Bulgarian architecture.", "The memorial offers a panoramic view of the surrounding landscape.", "The memorial is a popular tourist destination.", "The memorial is an important part of Bulgarian history."],
-    }, image: "/poi-images/bulgaria-shipka-memorial-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-koprivshtitsa-history-house-v2",
     type: "museum",
@@ -651,7 +671,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["A történelmi ház a 19. században épült.", "A ház a hagyományos bolgár építészet példája.", "A ház egy átfogó gyűjteményt tartalmaz.", "A kiállítások a koprivshtitsai lakosok életét mutatják be a 19. században.", "A ház egy múzeum, amely a város történelmét és kultúráját mutatja be.", "A ház egy népszerű turisztikai célpont."],
       ro: ["Casa istorică a fost construită în secolul al XIX-lea.", "Casa este un exemplu al arhitecturii tradiționale bulgare.", "Casa conține o colecție cuprinzătoare de exponate.", "Exponatele arată viața locuitorilor din Koprivshtitsa în secolul al XIX-lea.", "Casa este un muzeu care prezintă istoria și cultura orașului.", "Casa este o destinație turistică populară."],
       en: ["The historical house was built in the 19th century.", "The house is an example of traditional Bulgarian architecture.", "The house contains a comprehensive collection of exhibits.", "The exhibits show the life of the inhabitants of Koprivshtitsa in the 19th century.", "The house is a museum that presents the history and culture of the town.", "The house is a popular tourist destination."],
-    }, image: "/poi-images/bulgaria-koprivshtitsa-history-house-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-veliko-tarnovo-art-history-v2",
     type: "city",
@@ -682,7 +703,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["A művészeti negyed a cáreveti erőd közelében található.", "A negyed számos látnivalót kínál.", "A negyed a bolgár építészet példája.", "A negyed betekintést nyújt a város történelmébe és kultúrájába.", "A negyed egy népszerű turisztikai célpont.", "A negyed fontos része a város történelmének."],
       ro: ["Cartierul artistic se află în apropierea fortăreței Tsarevets.", "Cartierul oferă o varietate de atracții.", "Cartierul este un exemplu al arhitecturii bulgare.", "Cartierul oferă o perspectivă asupra istoriei și culturii orașului.", "Cartierul este o destinație turistică populară.", "Cartierul este o parte importantă a istoriei orașului."],
       en: ["The art quarter is located near the Tsarevets Fortress.", "The quarter offers a variety of attractions.", "The quarter is an example of Bulgarian architecture.", "The quarter provides an insight into the history and culture of the town.", "The quarter is a popular tourist destination.", "The quarter is an important part of the town's history."],
-    }, image: "/poi-images/bulgaria-veliko-tarnovo-art-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-nikopolis-ad-istrum-history-v2",
     type: "ruins",
@@ -713,7 +735,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["Alapító: Marcus Ulpius Traianus", "Épült i. sz. 101–106 között", "A Roszica és Jantra folyóknál", "Összetett földalatti csatornahálózat"],
       ro: ["Fondator: Marcus Ulpius Traianus", "Construit între 101-106 d.Hr.", "La confluența râurilor Rosița și Iantra", "Sistem complex de canalizare subterană"],
       en: ["Founder: Marcus Ulpius Traianus", "Built between 101-106 AD", "Near Rositsa and Yantra rivers", "Complex underground sewage system"],
-    }, image: "/poi-images/bulgaria-nikopolis-ad-istrum-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-aladzha-monastery-history-v2",
     type: "church",
@@ -744,7 +767,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["Az Aladzsa kolostor a 12. században alakult.", "A kolostor a város közelében található.", "A kolostor a bizánci építészet bolgárországi példája.", "A kolostor ismert lenyűgöző sziklaformációiról.", "A kolostor gazdag történelemmel rendelkezik.", "A kolostor egy népszerű turisztikai célpont."],
       ro: ["Mănăstirea Aladzha a fost fondată în secolul al XII-lea.", "Mănăstirea se află în apropierea orașului Varna.", "Mănăstirea este un exemplu al arhitecturii bizantine din Bulgaria.", "Mănăstirea este cunoscută pentru formațiunile sale de stâncă impresionante.", "Mănăstirea are o istorie bogată.", "Mănăstirea este o destinație turistică populară."],
       en: ["The Aladzha Monastery was founded in the 12th century.", "The monastery is located near the city of Varna.", "The monastery is an example of Byzantine architecture in Bulgaria.", "The monastery is known for its impressive rock formations.", "The monastery has a rich history.", "The monastery is a popular tourist destination."],
-    }, image: "/poi-images/bulgaria-aladzha-monastery-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-ivanovo-rock-churches-history-v2",
     type: "church",
@@ -775,7 +799,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["Az ivanovói sziklatemplomok középkori templomok.", "A templomok a város közelében találhatók.", "A templomok a bizánci építészet bolgárországi példái.", "A templomok ismertek lenyűgöző freskóikról.", "A templomok gazdag történelemmel rendelkeznek.", "A templomok az UNESCO világörökség részét képezik."],
       ro: ["Bisericile de stâncă de la Ivanovo sunt biserici medievale.", "Bisericile se află în apropierea orașului Ruse.", "Bisericile sunt un exemplu al arhitecturii bizantine din Bulgaria.", "Bisericile sunt cunoscute pentru frescele lor impresionante.", "Bisericile au o istorie bogată.", "Bisericile sunt parte a patrimoniului mondial UNESCO."],
       en: ["The Ivanovo Rock Churches are medieval churches.", "The churches are located near the city of Ruse.", "The churches are an example of Byzantine architecture in Bulgaria.", "The churches are known for their impressive frescoes.", "The churches have a rich history.", "The churches are a UNESCO World Heritage Site."],
-    }, image: "/poi-images/bulgaria-ivanovo-rock-churches-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-drjanovo-monastery-history-v2",
     type: "church",
@@ -806,7 +831,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["A drjanovói kolostor a 12. században alakult.", "A kolostor a város közelében található.", "A kolostor a bizánci építészet bolgárországi példája.", "A kolostor ismert lenyűgöző sziklaformációiról.", "A kolostor gazdag történelemmel rendelkezik.", "A kolostor egy népszerű turisztikai célpont."],
       ro: ["Mănăstirea Drjanovo a fost fondată în secolul al XII-lea.", "Mănăstirea se află în apropierea orașului Gabrovo.", "Mănăstirea este un exemplu al arhitecturii bizantine din Bulgaria.", "Mănăstirea este cunoscută pentru formațiunile sale de stâncă impresionante.", "Mănăstirea are o istorie bogată.", "Mănăstirea este o destinație turistică populară."],
       en: ["The Drjanovo Monastery was founded in the 12th century.", "The monastery is located near the city of Gabrovo.", "The monastery is an example of Byzantine architecture in Bulgaria.", "The monastery is known for its impressive rock formations.", "The monastery has a rich history.", "The monastery is a popular tourist destination."],
-    }, image: "/poi-images/bulgaria-drjanovo-monastery-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-sveti-nikola-fortress-history-v2",
     type: "castle",
@@ -837,7 +863,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["A Szent Miklós erőd a 14. században épült.", "Az erőd egy szigeten található a Dunán.", "Az erőd a bizánci építészet bolgárországi példája.", "Az erőd ismert lenyűgöző falairól.", "Az erőd gazdag történelemmel rendelkezik.", "Az erőd egy népszerű turisztikai célpont."],
       ro: ["Cetatea Sfântul Nicolae a fost construită în secolul al XIV-lea.", "Cetatea se află pe o insulă în Dunăre.", "Cetatea este un exemplu al arhitecturii bizantine din Bulgaria.", "Cetatea este cunoscută pentru zidurile sale impresionante.", "Cetatea are o istorie bogată.", "Cetatea este o destinație turistică populară."],
       en: ["The Sveti Nikola Fortress was built in the 14th century.", "The fortress is located on an island in the Danube River.", "The fortress is an example of Byzantine architecture in Bulgaria.", "The fortress is known for its impressive walls.", "The fortress has a rich history.", "The fortress is a popular tourist destination."],
-    }, image: "/poi-images/bulgaria-sveti-nikola-fortress-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-krumovo-monument-history-v2",
     type: "monument",
@@ -868,7 +895,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["A krumovói emlékmű a bolgár kán Krumnak állít emléket.", "Az emlékmű a krumovói város közelében található.", "Az emlékmű a bolgár építészet példája.", "Az emlékmű ismert lenyűgöző méreteiről.", "Az emlékmű gazdag történelemmel rendelkezik.", "Az emlékmű egy népszerű turisztikai célpont."],
       ro: ["Monumentul de la Krumovo este dedicat hanului bulgar Krum.", "Monumentul se află în apropierea orașului Krumovo.", "Monumentul este un exemplu al arhitecturii bulgare.", "Monumentul este cunoscut pentru dimensiunile sale impresionante.", "Monumentul are o istorie bogată.", "Monumentul este o destinație turistică populară."],
       en: ["The Krumovo Monument is dedicated to the Bulgarian khan Krum.", "The monument is located near the town of Krumovo.", "The monument is an example of Bulgarian architecture.", "The monument is known for its impressive dimensions.", "The monument has a rich history.", "The monument is a popular tourist destination."],
-    }, image: "/poi-images/bulgaria-krumovo-monument-history-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-vratza-history-museum-v2",
     type: "museum",
@@ -899,7 +927,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["Alapítás éve: 1930.", "Helyszín: Vraca, Bulgária.", "Legfontosabb kiállítási tárgy: Vracai arany (trák).", "Kiállítási tárgyak száma: több mint 100 000.", "Épület: 19. századi.", "Éves látogatók száma: kb. 50 000."],
       ro: ["Anul fondării: 1930.", "Locație: Vrața, Bulgaria.", "Cel mai important exponat: Aurul de Vrața (trac).", "Număr de exponate: peste 100.000.", "Clădire din secolul al XIX-lea.", "Vizitatori anuali: aproximativ 50.000."],
       en: ["Founded: 1930.", "Location: Vratsa, Bulgaria.", "Key exhibit: Vratsa Gold (Thracian).", "Number of exhibits: over 100,000.", "Building: 19th-century.", "Annual visitors: approximately 50,000."],
-    }, image: "/poi-images/bulgaria-vratza-history-museum-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-stara-zagora-antiquity-v2",
     type: "ruins",
@@ -930,7 +959,8 @@ export const bulgariaHistoryV2: POI[] = [
       hu: ["Római név: Augusta Traiana", "A fórum átmérője 50 méter", "2000 fős befogadóképességű színház", "4. századi mozaikok az Operánál"],
       ro: ["Nume roman: Augusta Traiana", "Forum cu diametru de 50 metri", "Teatru pentru 2000 spectatori", "Mozaicuri valoroase din secolul IV"],
       en: ["Roman name: Augusta Traiana", "Forum measures 50m in diameter", "Theater capacity: 2000 spectators", "4th-century mosaics at Opera site"],
-    }, image: "/poi-images/bulgaria-stara-zagora-antiquity-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-silistra-roman-fort-history-v2",
     type: "ruins",

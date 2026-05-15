@@ -31,7 +31,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["A kikötő medencéje 15 méter mély merülést tesz lehetővé", "Az új konténerterminál 80 millió euróból épült fel", "2022-ben adták át a legmodernebb rakodóegységeket", "A régió gyógyszergyárainak elsődleges logisztikai bázisa", "Rendszeres kompjáratok indulnak Roscoff és Santander felé", "A Corki Kikötői Hatóság felügyelete alá tartozik"],
       ro: ["Adâncimea apei permite accesul navelor de mare tonaj", "Terminalul de containere a fost modernizat recent în 2022", "Proiectul de expansiune a costat aproximativ 80 milioane euro", "Punct critic pentru lanțul de aprovizionare farmaceutic", "Conectează sudul Irlandei cu porturile europene continentale", "Capacitate anuală de procesare de mii de containere"],
       en: ["Deep-water berth offers a minimum depth of 15 meters", "A new 80 million euro container terminal opened in 2022", "Handles over 200,000 TEU units per year at full capacity", "Primary export point for the local Life Sciences cluster", "Operates regular Ro-Ro services to mainland Europe", "Strategic location within the world's second largest harbor"],
-    }, image: "/poi-images/ireland-ringaskiddy-port-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-ballymahon-fiber-economic-v2",
     type: "industry",
@@ -62,7 +63,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["2016-os projektindítás", "40 millió eurós beruházás", "Írország mértani közepe", "100 Gbps adatátviteli sebesség"],
       ro: ["Planificare începută în 2016", "Investiție de 40 milioane euro", "Locație centrală în Irlanda", "Conexiune fibră de 100 Gbps"],
       en: ["Planning started in 2016", "€40M total investment", "Geographic center of Ireland", "100 Gbps fiber connectivity"],
-    }, image: "/poi-images/ireland-ballymahon-fiber-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-rosslare-harbour-economic-v2",
     type: "port",
@@ -93,7 +95,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["1906-os kikötőnyitás", "Napi 12 kompindítás", "15 méteres merülési mélység", "Évi 500.000 utasforgalom"],
       ro: ["Deschis oficial în 1906", "12 plecări zilnice de feribot", "Adâncime de pescaj de 15 m", "500.000 de pasageri anual"],
       en: ["Opened in 1906", "12 daily ferry sailings", "15m maximum draft depth", "500,000 annual passengers"],
-    }, image: "/poi-images/ireland-rosslare-harbour-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-maynooth-research-park-economic-v2",
     type: "industry",
@@ -124,7 +127,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["Az M4-es autópálya mentén, stratégiai helyen fekszik", "Szoros tudományos partnerség a Maynooth Egyetemmel", "Olyan óriáscégek telephelye, mint a Schneider Electric", "A szoftverfejlesztés és a pénzügyi technológia központja", "Modern irodai infrastruktúra 30 hektáros területen", "Több mint 1500 diplomás szakember foglalkoztatója"],
       ro: ["Amplasat strategic pe ruta Dublin-Galway (coridorul M4)", "Colaborare activă cu cercetătorii Universității Maynooth", "Găzduiește sedii pentru corporații internaționale majore", "Specializat în dezvoltare software și soluții energetice", "Inaugurat pentru a sprijini creșterea economică regională", "Facilități moderne de birouri și laboratoare de cercetare"],
       en: ["Key hub within the Kildare technology ecosystem", "Features companies like Schneider Electric and Intel-linked firms", "Leverages academic talent from the nearby university campus", "Total site area covers approximately 30 hectares", "Established to promote R&D investment in the Leinster region", "Employs over 1,500 people in high-value sectors"],
-    }, image: "/poi-images/ireland-maynooth-research-park-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-fermoy-agri-hub-economic-v2",
     type: "industry",
@@ -187,7 +191,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["50 hektáros alapterület", "15 km-re Dublin központjától", "Több mint 80 aktív vállalat", "24 órás biztonsági szolgálat"],
       ro: ["Suprafață de 50 de hectare", "15 km distanță de Dublin", "Peste 80 de companii active", "Servicii de pază non-stop"],
       en: ["50 hectares total area", "15km from Dublin city", "80+ active companies", "24/7 security monitoring"],
-    }, image: "/poi-images/ireland-ashbourne-business-park-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-newbridge-manufacturing-economic-v2",
     type: "industry",
@@ -218,7 +223,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["1992-es nagyberuházás", "2.500 közvetlen alkalmazott", "Évi 1,2 milliárd euró export", "Több mint 40 hektáros telephely"],
       ro: ["Expansiune majoră în 1992", "2.500 de angajați direcți", "Export anual de 1,2 mld. €", "Sit industrial de peste 40 ha"],
       en: ["Major expansion in 1992", "2,500 direct employees", "€1.2B annual export value", "100+ acre industrial site"],
-    }, image: "/poi-images/ireland-newbridge-manufacturing-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-sligo-industrial-park-economic-v2",
     type: "industry",
@@ -249,7 +255,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["Az amerikai Abbott vállalat egyik legnagyobb európai bázisa", "Több mint 3000 ember dolgozik az egészségügyi iparágban", "Világelsők a szívgyógyászati eszközök gyártásában", "Az AbbVie gyógyszergyár jelentős kutatási kapacitással bír", "A Finisklin Industrial Estate a város legfontosabb zónája", "Az Atlanti Gazdasági Folyosó kulcsfontosságú állomása"],
       ro: ["Prezență masivă a corporației Abbott din anul 1974", "Peste 3.000 de angajați în clusterul de tehnologie medicală", "Specializat în producția de stenturi și catetere cardiace", "Facilități de producție avansate pentru compania AbbVie", "Centru regional desemnat pentru investiții străine directe", "Infrastructură modernă susținută de agenția IDA Ireland"],
       en: ["Abbott has maintained a presence here since 1974", "Over 3,000 people employed in the MedTech sector locally", "A global production site for advanced cardiac catheters", "Hosts significant R&D operations for AbbVie pharma", "Strategically located within the Finisklin Business Park", "Key regional hub for the IDA's foreign investment drive"],
-    }, image: "/poi-images/ireland-sligo-industrial-park-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-nenagh-agri-economic-v2",
     type: "industry",
@@ -280,7 +287,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["Az Arrabawn szövetkezet központi székhelye itt található", "Naponta több millió liter tejet dolgoznak fel a gyárban", "Írország egyik legnagyobb tejpor-előállító bázisa", "Jelentős húsüzemek működnek a város ipari övezetében", "Történelmi mezőgazdasági vásárváros Tipperary-ben", "A Mid-West régió agrárlogisztikai csomópontja"],
       ro: ["Sediul central al cooperativei Arrabawn se află aici", "Capacitate de procesare a laptelui la scară industrială", "Exportă produse lactate în peste 30 de țări", "Include facilități mari de ambalare a produselor din carne", "Economia locală depinde în proporție de 60% de agricultură", "Nod feroviar și rutier pentru transportul mărfurilor agricole"],
       en: ["Headquarters of the Arrabawn Co-operative Society", "Processes vast quantities of milk from local dairy farms", "Major producer of casein and skim milk powder for export", "Hosts substantial ABP Food Group meat processing sites", "Historically a major market town for North Tipperary", "Key employer with hundreds of jobs in food manufacturing"],
-    }, image: "/poi-images/ireland-nenagh-agri-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-mullingar-business-hub-economic-v2",
     type: "industry",
@@ -311,7 +319,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["1980-as években alapították", "40 km-es távolság Athlone-tól", "150 aktív üzleti egység", "80 millió eurós bevétel"],
       ro: ["Fondat în anii 1980", "40 km distanță de Athlone", "150 de unități comerciale", "Contribuție de 80 mil. €"],
       en: ["Founded in the 1980s", "40km from Athlone hub", "150+ active business units", "€80M regional contribution"],
-    }, image: "/poi-images/ireland-mullingar-business-hub-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-ennis-commercial-zone-economic-v2",
     type: "industry",
@@ -342,7 +351,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["Városi jogok 1216 óta", "25.000 fős népességbázis", "10 helyi ipari park", "15%-os éves kereskedelmi nő"],
       ro: ["Cartă orășenească din 1216", "Bază de 25.000 de locuitori", "10 parcuri industriale locale", "Creștere de 15% în retail"],
       en: ["Town charter since 1216", "25,000 population base", "10 local industrial parks", "15% retail sector growth"],
-    }, image: "/poi-images/ireland-ennis-commercial-zone-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-carlow-technology-park-economic-v2",
     type: "industry",
@@ -373,7 +383,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["2003-as alapítási év", "100 kutatói munkahely", "15 aktív tech vállalat", "40 hektáros kampusz terület"],
       ro: ["Înființat în anul 2003", "100 de posturi de cercetare", "15 firme tehnologice active", "Campus de 40 de hectare"],
       en: ["Established in 2003", "100+ onsite research posts", "15 active technology firms", "40-hectare campus site"],
-    }, image: "/poi-images/ireland-carlow-technology-park-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-wexford-port-economic-v2",
     type: "port",
@@ -404,7 +415,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["A Rosslare Europort a leggyorsabb kapu Európa felé", "Közvetlen kompjáratok Franciaországba és Spanyolországba", "A tengeri szélerőművek telepítésének logisztikai bázisa", "Híres a hagyományos kagylóhalászatáról és exportjáról", "Jelentős infrastruktúra-fejlesztés zajlik a Brexit óta", "Délkelet-Írország elsődleges autóimportőri központja"],
       ro: ["Rosslare Europort este cel mai apropiat port de Franța", "Creștere masivă a traficului direct spre UE după Brexit", "Centru logistic pentru parcurile eoliene din Marea Irlandei", "Istorie lungă în pescuitul comercial de scoici", "Investiții majore în noi terminale de descărcare", "Facilitează importul de vehicule și mărfuri generale"],
       en: ["Rosslare Europort is Ireland's main gateway to Europe", "Operates frequent freight routes to France and Spain", "Developing into a hub for offshore wind construction", "Wexford Quay is famous for its commercial mussel fishing", "Significant post-Brexit expansion of customs facilities", "Handles over 15% of national roll-on roll-off traffic"],
-    }, image: "/poi-images/ireland-wexford-port-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-athlone-business-zone-economic-v2",
     type: "industry",
@@ -435,7 +447,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["Az Ericsson globális kutató-fejlesztő központja itt található", "Több mint 1200 szoftverfejlesztő dolgozik a városban", "A távközlési iparág egyik legfontosabb ír bázisa", "A Thermo Fisher Scientific (PPD) klinikai kutatóhelye", "Az M6-os autópálya központi elhelyezkedést biztosít", "Szoros együttműködés a Technological University of the Shannon-nal"],
       ro: ["Găzduiește un centru masiv de R&D al companiei Ericsson", "Peste 1.000 de specialiști IT lucrează în parcul local", "Punct strategic pentru logistica națională datorită locației", "Prezență puternică a companiei PPD în bio-farma", "Beneficiază de talentul studenților de la universitatea TUS", "Hub regional pentru servicii financiare și tehnologice"],
       en: ["Features a major R&D campus for Ericsson telecommunications", "Employs over 1,200 software engineers in the local area", "Home to PPD (Thermo Fisher Scientific) clinical labs", "Situated at the midpoint of the M6 Dublin-Galway motorway", "Key base for the Technological University of the Shannon", "Attracts high levels of IDA foreign direct investment"],
-    }, image: "/poi-images/ireland-athlone-business-zone-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-tralee-enterprise-park-economic-v2",
     type: "industry",
@@ -466,7 +479,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["1995-ös megnyitás", "60 aktív vállalkozás", "12 km-re a Kerry reptértől", "500 közvetlen munkahely"],
       ro: ["Deschis în anul 1995", "60 de afaceri active", "12 km de Aeroportul Kerry", "500 de locuri de muncă locale"],
       en: ["Opened in 1995", "60 active businesses", "12km from Kerry Airport", "500+ local jobs supported"],
-    }, image: "/poi-images/ireland-tralee-enterprise-park-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-dundalk-industrial-zone-economic-v2",
     type: "industry",
@@ -497,7 +511,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["A WuXi Biologics hatalmas gyártóegysége itt működik", "A PayPal európai szolgáltató központjának székhelye", "Egyetlen biopharma projekt 325 millió eurós befektetést hozott", "Híres a precíziós gépgyártásáról és mérnöki iparáról", "A Dundalk Technológiai Intézet biztosítja a szakember-utánpótlást", "Kiemelt szerep a határon átnyúló kereskedelemben"],
       ro: ["Adăpostește facilitatea gigant de biotehnologie WuXi", "Sediul PayPal pentru operațiuni europene majore", "Investiție de peste 300 milioane euro în noul campus farma", "Istorie bogată în industria berii și a tutunului", "Acces direct la porturile din Dublin și Greenore", "Pol de inovare susținut de institutul tehnologic local DkIT"],
       en: ["Home to the massive WuXi Biologics manufacturing plant", "Hosts a large-scale PayPal operations center", "Recent biopharma investments exceeded 325 million euro", "Strategically located halfway between Dublin and Belfast", "Strong engineering tradition with modern tech refocus", "Key link in the cross-border trade between Ireland and UK"],
-    }, image: "/poi-images/ireland-dundalk-industrial-zone-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-ballina-industrial-area-economic-v2",
     type: "industry",
@@ -528,7 +543,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["1970-es években épült ki", "1.200 ipari munkahely", "3 nagy gyógyszergyári üzem", "Évi 500 millió euró export"],
       ro: ["Dezvoltată din anii 1970", "1.200 de joburi industriale", "3 mari uzine farmaceutice", "Export de 500 mil. € anual"],
       en: ["1970s initial development", "1,200 industrial jobs", "3 large pharmaceutical plants", "€500M annual export value"],
-    }, image: "/poi-images/ireland-ballina-industrial-area-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-waterford-industrial-estate-economic-v2",
     type: "industry",
@@ -559,7 +575,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["A Bausch + Lomb legnagyobb európai gyártóbázisa", "Naponta több millió kontaktlencsét gyártanak itt", "A Sanofi gyógyszergyár jelentős részlegét is itt találjuk", "Az 1960-as években hozták létre az ipar fejlesztésére", "A régió legnagyobb foglalkoztatója több ezer munkahellyel", "Közvetlen kapcsolat a Belview mélyvízi kikötővel"],
       ro: ["Găzduiește cea mai mare fabrică Bausch + Lomb din Europa", "Peste 1.500 de angajați produc lentile de contact", "Unitate majoră de producție pentru gigantul Sanofi", "Înființat în anii '60 ca primul parc industrial regional", "Specializat în bio-tehnologie și dispozitive optice", "Motorul economic principal al sud-estului Irlandei"],
       en: ["Hosts the largest Bausch + Lomb facility in Europe", "Employs over 1,500 people in contact lens manufacturing", "Significant pharmaceutical presence from Sanofi Genzyme", "Established in 1966 as a flagship IDA industrial park", "Produces medical products exported to over 80 countries", "Synergy with the Southeast Technological University"],
-    }, image: "/poi-images/ireland-waterford-industrial-estate-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-westport-business-park-economic-v2",
     type: "industry",
@@ -590,7 +607,8 @@ export const irelandEconomicV2: POI[] = [
       hu: ["Az Allergan (ma AbbVie) 1977 óta működik a városban", "Több mint 1300 embert foglalkoztatnak a gyárban", "A világ Botox-termelésének központi helyszíne", "Jelentős kutatás-fejlesztési központ Mayo megyében", "Írország egyik legsikeresebb regionális ipari projektje", "Modern steril gyártási technológiák alkalmazása"],
       ro: ["Prezența companiei Allergan (AbbVie) din anul 1977", "Peste 1.300 de angajați într-o comunitate mică", "Sursă globală principală pentru producția de Botox", "Facilități avansate de cercetare clinică și biologics", "Cel mai mare angajator privat din vestul Irlandei", "Standarde înalte de producție în mediu steril"],
       en: ["Home to Allergan (now AbbVie) operations since 1977", "Employs over 1,300 people in the Westport facility", "Supplies a huge percentage of the global Botox market", "Features a state-of-the-art $160m biologics plant", "Crucial economic driver for the County Mayo region", "Unique blend of high-end industry and heritage tourism"],
-    }, image: "/poi-images/ireland-westport-business-park-economic-v2.webp"},
+    },
+  },
   {
     id: "ireland-tullamore-industrial-zone-economic-v2",
     type: "industry",

@@ -31,7 +31,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["Építés éve: 1965", "Hosszúság: 370 m", "Magasság a folyó felett: 80 m", "Tara-szurdok mélysége: 1300 m", "Útpálya szélessége: 7,5 m", "Maximális teherbírás: 40 tonna"],
       ro: ["Anul construcției: 1965", "Lungime: 370 m", "Înălțimea deasupra râului: 80 m", "Adâncimea defileului Tara: 1300 m", "Lățimea drumului: 7,5 m", "Capacitatea maximă de încărcare: 40 tone"],
       en: ["Year built: 1965", "Length: 370 m", "Height above river: 80 m", "Depth of Tara Canyon: 1300 m", "Roadway width: 7.5 m", "Maximum load capacity: 40 tons"],
-    }, image: "/poi-images/montenegro-sastavci-bridge-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-nikola-church-landmarks-v2",
     type: "church",
@@ -62,7 +63,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["Építés éve: 1735", "Harangtorony magassága: 30 m", "Templom hossza: 25 m", "Templom szélessége: 12 m", "Ikonok száma az ikonosztázon: 20", "Ikonosztáz magassága: 8 m"],
       ro: ["Anul construcției: 1735", "Înălțimea turnului clopotniță: 30 m", "Lungimea bisericii: 25 m", "Lățimea bisericii: 12 m", "Numărul de icoane pe catapeteasmă: 20", "Înălțimea catapetesmei: 8 m"],
       en: ["Year built: 1735", "Bell tower height: 30 m", "Church length: 25 m", "Church width: 12 m", "Number of icons on iconostasis: 20", "Iconostasis height: 8 m"],
-    }, image: "/poi-images/montenegro-nikola-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-budva-citadel-landmarks-v2",
     type: "castle",
@@ -125,7 +127,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["Velencei köztársaság építtette", "Középkori neve Castel Lastva volt", "Ma emlékmúzeum működik benne", "A 16. században fontos vámhely volt", "A kikötő északi végén helyezkedik el", "Teraszáról rálátni a nyílt tengerre"],
       ro: ["Construită în secolul al XVI-lea", "Nume original: Castel Lastva", "Adăpostește un muzeu de artă locală", "Poziționată pe o stâncă de calcar", "Vedere directă spre insula Katič", "Zidurile sunt din piatră de talie"],
       en: ["Built during the 16th century", "Original name was Castel Lastva", "Served as a lazaretto for sailors", "Strategic port defense fortification", "Houses a small memorial gallery", "Offers views of the Adriatic horizon"],
-    }, image: "/poi-images/montenegro-petrovac-fort-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-niksic-cathedral-landmarks-v2",
     type: "cathedral",
@@ -156,7 +159,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["Építési idő: 1995-2004", "Felszentelés: 2004. augusztus 1.", "Kupola magassága: 35 m", "Befogadóképesség: 3000 fő", "Alapterület: 1500 m²", "Harangok száma: 8"],
       ro: ["Perioada de construcție: 1995-2004", "Sfințire: 1 august 2004", "Înălțimea cupolei: 35 m", "Capacitate: 3000 de persoane", "Suprafața la sol: 1500 m²", "Numărul de clopote: 8"],
       en: ["Construction period: 1995-2004", "Consecration: 1 August 2004", "Dome height: 35 m", "Capacity: 3000 people", "Ground area: 1500 m²", "Number of bells: 8"],
-    }, image: "/poi-images/montenegro-niksic-cathedral-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-bar-king-palace-landmarks-v2",
     type: "palace",
@@ -187,7 +191,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["1885-ben fejezték be az építést", "I. Miklós király nyári rezidenciája", "Ma Városi Múzeumként üzemel", "Gazdag botanikus kert veszi körül", "Tengerészeti gyűjtemény látható itt", "Bar tengerparti sétányán található"],
       ro: ["Finalizat în anul 1885", "Arhitectură în stil neoclasic", "Găzduiește Muzeul Regional Bar", "Include un parc cu plante exotice", "Reședința de vară a regelui Nikola", "Deține colecții numismatice rare"],
       en: ["Built in 1885 by King Nikola I", "Houses the Local History Museum", "Features a large ballroom inside", "Surrounded by a botanical garden", "Displays 19th-century royal costumes", "Located on the Bar waterfront"],
-    }, image: "/poi-images/montenegro-bar-king-palace-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-kotor-clock-tower-landmarks-v2",
     type: "tower",
@@ -218,7 +223,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["1602-ben épült a főtéren", "Barokk és gótikus stílusjegyek", "A Fegyverek terén helyezkedik el", "Híres szégyenoszlop áll előtte", "Az 1979-es földrengést túlélte", "Kotor óvárosának egyik jelképe"],
       ro: ["Construit în anul 1602", "Situat în Piața Armelor", "Stil mixt baroc și gotic", "Prezintă o înclinație structurală", "Coloana infamiei se află la bază", "Restaurat după cutremurul din 1979"],
       en: ["Erected in the year 1602", "Located in the Square of Arms", "Features two clock faces", "Survives the 1979 earthquake", "A pillar of shame stands nearby", "Built with local carved stone"],
-    }, image: "/poi-images/montenegro-kotor-clock-tower-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-cetinje-museum-landmarks-v2",
     type: "museum",
@@ -249,7 +255,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["Alapítás éve: 1896", "Tárgyak száma: több mint 100.000", "Múzeum területe: 5000 m²", "Osztályok száma: 3", "Palota magassága: 15 m", "Éves látogatók: kb. 50.000"],
       ro: ["Anul înființării: 1896", "Numărul de obiecte: peste 100.000", "Suprafața muzeului: 5000 m²", "Numărul de secții: 3", "Înălțimea palatului: 15 m", "Vizitatori pe an: cca. 50.000"],
       en: ["Year founded: 1896", "Number of objects: over 100,000", "Museum area: 5000 m²", "Number of departments: 3", "Palace height: 15 m", "Annual visitors: ca. 50,000"],
-    }, image: "/poi-images/montenegro-cetinje-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-ulcinj-mosque-landmarks-v2",
     type: "church",
@@ -280,7 +287,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["1719-ben alapították", "Pristan negyedben található", "Egyedülálló törökfürdő tartozik hozzá", "Oszmán építészeti stílus", "Kılıç Ali pasa építtette", "Minaretje messziről látható"],
       ro: ["Anul construcției: 1719", "Singura moschee cu hamam inclus", "Stil arhitectural otoman", "Situată în apropierea mării", "Ctitorită de amiralul Kılıç Ali", "Monument de importanță națională"],
       en: ["Built in the year 1719", "Includes a Turkish hammam", "Ottoman architectural design", "Located in the Pristan area", "Named after Pasha Kılıç Ali", "Cultural heritage of Ulcinj"],
-    }, image: "/poi-images/montenegro-ulcinj-mosque-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-st-tryphon-cathedral-landmarks-v2",
     type: "cathedral",
@@ -343,7 +351,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["Magassága 15 méter", "Építés éve: 1730", "Óramű Velencéből érkezett", "Harang öntve 1730-ban", "Felújítás éve: 1965", "UNESCO világörökség része 1979 óta"],
       ro: ["Înălțime: 15 metri", "Construit în 1730", "Mecanism de ceas din Veneția", "Clopot turnat în 1730", "Restaurat în 1965", "Parte a patrimoniului UNESCO din 1979"],
       en: ["Height: 15 meters", "Built in 1730", "Clock mechanism from Venice", "Bell cast in 1730", "Restored in 1965", "UNESCO World Heritage site since 1979"],
-    }, image: "/poi-images/montenegro-perast-tower-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-biljarda-museum-landmarks-v2",
     type: "museum",
@@ -406,7 +415,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["1382-ben alapították", "Tvrtko bosnyák király építtette", "Szabadtéri mozi üzemel benne", "Stratégiai tengeri védmű", "Velencei és osztrák módosítások", "Közvetlenül a tengerparton áll"],
       ro: ["Fondată în anul 1382", "Construită de regele Tvrtko I", "Găzduiește un cinematograf de vară", "Ziduri groase din piatră locală", "Extinsă de venețieni în secolul XVI", "Acces direct din promenada maritimă"],
       en: ["Established in 1382", "Built by King Tvrtko I", "Now used as an open-air cinema", "Venetian fortress modifications", "Guards the entrance to the Bay", "Strategic coastal defense point"],
-    }, image: "/poi-images/montenegro-herceg-novi-fort-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-ostrog-lower-church-landmarks-v2",
     type: "church",
@@ -437,7 +447,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["1824-ben épült", "A Szentháromság tiszteletére emelték", "A szerzetesek lakóépülete itt van", "Zarándokok pihenőhelye", "800 méterrel a tengerszint felett", "Gazdag belső freskódíszítés"],
       ro: ["Anul construcției: 1824", "Biserica Sfânta Treime", "Reședința comunității monahale", "Altitudine de aproximativ 800m", "Punct de plecare spre mănăstirea de sus", "Picturi murale bine conservate"],
       en: ["Completed in 1824", "Church of the Holy Trinity", "Primary residence for monks", "Located 800m above sea level", "Part of the Ostrog complex", "Features 19th-century frescoes"],
-    }, image: "/poi-images/montenegro-ostrog-lower-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-sveti-stefan-landmark-landmarks-v2",
     type: "landmark",
@@ -468,7 +479,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["A 15. században alapították", "Egykor erődített halászfalu volt", "Tombolo köti össze a szárazfölddel", "A Paštrovići törzs építtette", "Három templom található a szigeten", "Az 1950-es évek óta luxusszálló"],
       ro: ["Fondat în secolul al XV-lea", "Fost sat pescăresc fortificat", "Legat de mal printr-un tombolo", "Include trei biserici ortodoxe", "Ctitorit de tribul Paštrovići", "Transformat în hotel de lux în 1950"],
       en: ["Founded in the 15th century", "Former fortified fishing village", "Connected by a narrow causeway", "Features three small churches", "Built by the Paštrovići tribe", "Became a luxury hotel in 1950s"],
-    }, image: "/poi-images/montenegro-sveti-stefan-landmark-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-petrovac-mosaic-landmarks-v2",
     type: "ruins",
@@ -499,7 +511,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["Felfedezés éve: 1950-es évek", "Kor: 2–4. század", "Villa rustica része", "Mozaik mérete: kb. 50 m²", "Anyaga: színes kavicsok", "Jelenet: Thészeusz és Minotaurusz"],
       ro: ["Descoperit în anii 1950", "Datare: secolele II-IV d.Hr.", "Parte a unei vile rustica", "Suprafața mozaicului: aprox. 50 m²", "Material: pietricele colorate", "Scena: Tezeu și Minotaurul"],
       en: ["Discovered in the 1950s", "Dated 2nd-4th century AD", "Part of a Roman villa rustica", "Mosaic area: approx 50 m²", "Material: colored pebbles", "Depicts Theseus and Minotaur"],
-    }, image: "/poi-images/montenegro-petrovac-mosaic-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-podgorica-st-george-landmarks-v2",
     type: "church",
@@ -562,7 +575,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["Épült a 17. században", "Barokk stílus", "Tengerparti elhelyezkedés", "17. századi freskók", "Felújítás 2002–2005 között", "Jelenleg kulturális központ"],
       ro: ["construit în secolul al XVII-lea", "Stil baroc", "Amplasare pe malul mării", "Fresce originale din secolul XVII", "Restaurat în 2002–2005", "Acum centru cultural"],
       en: ["Built in 17th century", "Baroque style", "Seaside location", "Original 17th-century frescoes", "Restored 2002–2005", "Now a cultural center"],
-    }, image: "/poi-images/montenegro-tivat-buja-palace-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-kotor-napoleon-landmarks-v2",
     type: "theater",
@@ -593,7 +607,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["1810-ben alapították", "Francia megszállás alatt épült", "Egykori velencei fegyvertár volt", "A régió első kőszínháza", "Kotor óvárosában található", "Ma szállodaként funkcionál"],
       ro: ["Fondat în anul 1810", "Construit în timpul lui Napoleon", "Fost arsenal venețian din sec. XVIII", "Primul teatru permanent din zonă", "Situat în centrul istoric Kotor", "Fațadă originală din piatră"],
       en: ["Founded in the year 1810", "Built under French occupation", "Formerly a Venetian arsenal", "First permanent theater in region", "Located within the Old Town", "Currently serves as a hotel"],
-    }, image: "/poi-images/montenegro-kotor-napoleon-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-moraca-bridge-landmarks-v2",
     type: "bridge",
@@ -656,7 +671,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["Építés éve: 1867", "I. Nikola király rezidenciája", "Stílus: historizmus", "Ma Nemzeti Múzeum", "Királyság kikiáltása: 1910", "Park területe: 2 ha"],
       ro: ["Construit în 1867", "Reședința regelui Nikola I", "Stil istoricist", "Acum Muzeul Național", "Proclamarea Regatului în 1910", "Parcul: 2 hectare"],
       en: ["Built in 1867", "Residence of King Nikola I", "Historicist style", "Now National Museum", "Kingdom proclaimed in 1910", "Park area: 2 hectares"],
-    }, image: "/poi-images/montenegro-cetinje-king-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-herceg-novi-clock-landmarks-v2",
     type: "tower",
@@ -719,7 +735,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["Magasság: 2,5 méter", "Anyaga: bronz", "Készült 1985-ben", "Alkotó: Gradimir Aleksić", "Helye: tengerparti szikla", "Súlya: kb. 500 kg"],
       ro: ["Înălțime: 2,5 metri", "Material: bronz", "Creată în 1985", "Sculptor: Gradimir Aleksić", "Amplasare: stâncă pe coastă", "Greutate: aprox. 500 kg"],
       en: ["Height: 2.5 meters", "Material: bronze", "Created in 1985", "Artist: Gradimir Aleksić", "Location: coastal rock", "Weight: approx 500 kg"],
-    }, image: "/poi-images/montenegro-budva-ballet-landmark-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-niksic-king-palace-landmarks-v2",
     type: "palace",
@@ -750,7 +767,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["Épült a 19. században", "Neoklasszicista stílus", "I. Nikola nyári rezidenciája", "Ma Városi Múzeum", "Park területe: 3 ha", "Bálterem: 200 m²"],
       ro: ["Construit în secolul al XIX-lea", "Stil neoclasic", "Reședință de vară a regelui Nikola", "Acum Muzeul Orășenesc", "Parcul: 3 hectare", "Sala de bal: 200 m²"],
       en: ["Built in 19th century", "Neoclassical style", "Summer residence of King Nikola", "Now city museum", "Park area: 3 hectares", "Ballroom: 200 m²"],
-    }, image: "/poi-images/montenegro-niksic-king-palace-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-kotor-cathedral-relief-landmarks-v2",
     type: "monument",
@@ -781,7 +799,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["14. századi alkotások", "Ezüst és arany ötvösmunka", "Szent Trifun életét ábrázolják", "Helyi ötvösmesterek remekművei", "A székesegyház főoltárán láthatók", "UNESCO világörökség része"],
       ro: ["Datate în secolul al XIV-lea", "Realizate din argint și aur", "Reprezintă scene hagiografice", "Exemplu de artă metalurgică locală", "Situate în absida catedralei", "Păstrate în tezaurul istoric"],
       en: ["Crafted in the 14th century", "Made of silver and gold", "Depicts Saint Tryphon's life", "Examples of Kotor goldsmithing", "Located in St. Tryphon Cathedral", "High artistic and religious value"],
-    }, image: "/poi-images/montenegro-kotor-cathedral-relief-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-perast-st-nicholas-landmarks-v2",
     type: "church",
@@ -812,7 +831,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["Épült a 17. században", "Harangtorony magassága: 55 méter", "Torony elkészült: 1691", "Márványoltárok", "Francesco Trevisani festményei", "UNESCO világörökség 1979 óta"],
       ro: ["Construită în secolul al XVII-lea", "Înălțimea turnului: 55 metri", "Turn finalizat în 1691", "Altare de marmură", "Picturi de Francesco Trevisani", "Patrimoniu UNESCO din 1979"],
       en: ["Built in 17th century", "Bell tower height: 55 meters", "Tower completed in 1691", "Marble altars", "Paintings by Francesco Trevisani", "UNESCO World Heritage since 1979"],
-    }, image: "/poi-images/montenegro-perast-st-nicholas-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-ulcinj-fortress-landmarks-v2",
     type: "castle",
@@ -843,7 +863,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["Fal magassága: 10 méter", "Bizánci alapok", "Oszmán bővítés a 16. században", "Terület: kb. 2 ha", "17. századi mecset", "Tengerre nyíló kilátás"],
       ro: ["Înălțimea zidurilor: 10 metri", "Origine bizantină", "Extindere otomană în secolul XVI", "Suprafață: aprox. 2 ha", "Moschee din secolul XVII", "Vedere panoramică asupra mării"],
       en: ["Wall height up to 10 meters", "Byzantine origin", "Ottoman expansion in 16th century", "Area: approx 2 hectares", "Contains a 17th-century mosque", "Panoramic sea view"],
-    }, image: "/poi-images/montenegro-ulcinj-fortress-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-podgorica-old-clock-landmarks-v2",
     type: "tower",
@@ -906,7 +927,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["A templom alapkövét 1190 körül rakták le", "Hum fejedelme, Miroslav volt az építtető", "Itt őrizték évszázadokig a Miroszláv-kódexet", "A kódex 362 pergamenlapból álló kézirat", "Az épület ötvözi a bizánci és román stílust", "A freskók töredékei a 14. századból valók"],
       ro: ["Construcția a fost finalizată în jurul anului 1190", "Ctitorul a fost prințul Miroslav, fratele lui Nemanja", "Biserica a găzduit cel mai vechi manuscris sârb", "Evangheliarul de la 1180 are 362 de pagini", "Arhitectura prezintă influențe bizantine timpurii", "Inclusă în patrimoniul cultural protejat național"],
       en: ["Foundation laid in approximately 1190", "Founded by Prince Miroslav of Hum", "Original site of the 1180 Miroslav Gospel", "Features a mix of Romanesque and Byzantine styles", "UNESCO Memory of the World site connection", "Significant 19th-century structural renovations"],
-    }, image: "/poi-images/montenegro-bijelo-polje-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-kotor-walls-landmarks-v2",
     type: "landmark",
@@ -937,7 +959,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["Hossz: 4,5 km", "Magasság: 260 m", "Építés kezdete: 9. század", "Vastagság: 16 m", "Lépcsők: kb. 1350", "UNESCO világörökség 1979 óta"],
       ro: ["Lungime: 4,5 km", "Altitudine: 260 m", "Construcție începută în secolul IX", "Grosime: până la 16 m", "Trepte: aproximativ 1350", "Patrimoniu UNESCO din 1979"],
       en: ["Length: 4.5 km", "Elevation: up to 260 m", "Construction started in 9th century", "Thickness up to 16 m", "Steps: about 1,350", "UNESCO since 1979"],
-    }, image: "/poi-images/montenegro-kotor-walls-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-budva-church-tri-landmarks-v2",
     type: "church",
@@ -968,7 +991,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["Épült a 19. században", "Szerb-bizánci stílus", "Kupola magassága: 15 m", "Ikonosztáz 20 ikonnal", "Freskók festve az 1930-as években", "Elhelyezkedés: Budva óvárosa"],
       ro: ["Construită în secolul al XIX-lea", "Stil sârbo-bizantin", "Înălțimea cupolei: 15 metri", "Iconostas cu 20 de icoane", "Fresce pictate în anii 1930", "Amplasare: orașul vechi Budva"],
       en: ["Built in 19th century", "Serbian-Byzantine style", "Dome height: 15 meters", "Iconostasis with 20 icons", "Frescoes painted in 1930s", "Location: Budva Old Town"],
-    }, image: "/poi-images/montenegro-budva-church-tri-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-cetinje-vladika-landmarks-v2",
     type: "palace",
@@ -1063,7 +1087,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["Az építkezés 1569-ben fejeződött be", "A minaret magassága eléri a 42 métert", "Husein-pasa Boljanić adományából épült", "A belső teret 16. századi arabeszkek díszítik", "Itt található egy 1571-es díszes Korán", "A kupola átmérője megközelíti a 10 métert"],
       ro: ["Edificiul a fost finalizat în anul 1569", "Minaretul are o înălțime totală de 42 de metri", "Fondator a fost vizirul Husein Pașa Boljanić", "Planul clădirii este un pătrat de 13x13 metri", "Adăpostește un manuscris rar al Coranului", "Decorat cu picturi murale otomane autentice"],
       en: ["Construction completed in the year 1569", "Minaret height measures 42 meters", "Founded by Husein-Pasha Boljanić", "Structure sits on a 13 by 13 meter base", "Contains a valuable Quran manuscript from 1571", "Features intricate interior floral decorations"],
-    }, image: "/poi-images/montenegro-pljevlja-mosque-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-podgorica-st-nicolas-landmarks-v2",
     type: "church",
@@ -1094,7 +1119,8 @@ export const montenegroLandmarksV2: POI[] = [
       hu: ["A Gorica-hegy lábánál helyezkedik el", "A jelenlegi kőépület a 19. századból való", "Podgorica egyik legfontosabb ortodox helyszíne", "Az ikonok 1881-ben készültek el", "A templomkertben régi síremlékek láthatók", "Hagyományos kőfaragási technikával épült"],
       ro: ["Localizată la poalele dealului Gorica", "Structura actuală datează din secolul XIX", "Lăcaș de cult de rit ortodox sârb", "Iconostasul a fost pictat în anul 1881", "Înconjurată de un cimitir istoric local", "Arhitectură sobră din piatră masivă"],
       en: ["Located at the foot of Gorica Hill", "Current structure dates to the 19th century", "Primary Orthodox landmark in Podgorica", "Iconostasis completed in the year 1881", "Features a surrounding historic cemetery", "Built using traditional heavy stone masonry"],
-    }, image: "/poi-images/montenegro-podgorica-st-nicolas-landmarks-v2.webp"},
+    },
+  },
   {
     id: "montenegro-budva-st-john-landmarks-v2",
     type: "church",

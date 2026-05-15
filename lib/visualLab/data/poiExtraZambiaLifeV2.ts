@@ -749,25 +749,5 @@ export const poiExtraZambiaLifeV2: POI[] = [
       en: ["Founded in 2008.", "Area: 5 hectares.", "Located on the west bank of the Zambezi River.", "Approximately 3,000 annual visitors.", "Programs on river ecology and water quality.", "Collaborates with schools and universities."],
     },
   }
-,
-  {
-    id: "zambia-liuwa-plain-national-park-life-v2",
-    type: "wildlife",
-    name: { de: "Liuwa-Plain-Nationalpark", hu: "Liuwa Plain Nemzeti Park", ro: "Parcul Național Liuwa Plain", en: "Liuwa Plain National Park" },
-    coords: [22.56, -14.47],
-    description: {
-      de: "Dieser abgelegene Park beherbergt die zweitgrößte Gnu-Wanderung Afrikas. Er erstreckt sich über 3.660 Quadratkilometer in der Westprovinz.",
-      hu: "Ez a távoli park Afrika második legnagyobb gnú-vándorlásáról ismert. A Nyugati tartományban fekvő terület 3660 négyzetkilométer kiterjedésű.",
-      ro: "Acest parc izolat găzduiește a doua cea mai mare migrație de gnu din Africa. Se întinde pe 3.660 km pătrați în Provincia de Vest.",
-      en: "Located in Western Province, this park hosts Africa's second largest wildebeest migration. It covers 3,660 square kilometers of vast grasslands.",
-    },
-    facts: {
-      de: ["Er beherbergt die jährliche Wanderung zehntausender Gnus.", "Der Park war einst das Jagdrevier des Lozi-Königs (Litunga).", "Er wurde durch Lady Liuwa bekannt, eine jahrelang einsame Löwin.", "Das Gelände besteht aus saisonal überfluteten Kalahari-Sandebeben."],
-      hu: ["Itt zajlik több tízezer gnú éves vándorlása a síkságokon.", "A park egykor a lozi király, a Litunga vadászterülete volt.", "Híressé vált Lady Liuwa oroszlánról, aki évekig egyedül élt.", "A területet szezonálisan elárasztott Kalahári-homoksíkságok alkotják."],
-      ro: ["Găzduiește migrația anuală a zeci de mii de antilope gnu.", "Parcul a fost cândva terenul de vânătoare al regelui Lozi.", "A devenit faimos pentru Lady Liuwa, o leoaică ce a trăit singură.", "Terenul constă din câmpii de nisip Kalahari inundate sezonier."],
-      en: ["It hosts the annual migration of tens of thousands of wildebeest.", "The park was once the hunting ground of the Lozi Litunga (King).", "It became famous for Lady Liuwa, a lioness that lived alone.", "The terrain consists of seasonally flooded Kalahari sand plains."],
-    },
-    imageHint: "Wildebeest migration across Liuwa Plain grasslands in Zambia",
-  }
 ];
 

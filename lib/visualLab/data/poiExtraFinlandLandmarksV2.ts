@@ -63,7 +63,8 @@ export const finlandLandmarksV2: POI[] = [
       hu: ["Épült: 1909-ben", "Tervező: W. G. Palmqvist", "Oltárkép éve: 1912", "Befogadóképesség: 300 fő"],
       ro: ["Anul construcției: 1909", "Arhitect: W. G. Palmqvist", "Pictură altar din 1912", "Capacitate: 300 locuri"],
       en: ["Completed in 1909", "Architect: W. G. Palmqvist", "Altarpiece from 1912", "Capacity of 300 people"],
-    }, image: "/poi-images/finland-pyhanta-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "finland-ruovesi-church-landmarks-v2",
     type: "church",
@@ -126,7 +127,8 @@ export const finlandLandmarksV2: POI[] = [
       hu: ["1882-ben szentelték fel", "L. I. Lindqvist tervezte", "Pop-art freskók 1972-ből", "Pellervo Lukumies alkotása", "Közép-Finnországban fekszik", "Faszerkezetes épület"],
       ro: ["Construită în 1882", "Arhitect L. I. Lindqvist", "Picturi pop-art din 1972", "Pellervo Lukumies (artist)", "Stil neogotic exterior", "Situată în Finlanda Centrală"],
       en: ["Completed in 1882", "Architect L. I. Lindqvist", "Pop-art ceiling art 1972", "Artist Pellervo Lukumies", "Wooden structure", "Central Finland location"],
-    }, image: "/poi-images/finland-toivakka-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "finland-kauhajoki-church-landmarks-v2",
     type: "church",
@@ -317,7 +319,8 @@ export const finlandLandmarksV2: POI[] = [
       hu: ["1814-ben fejezték be", "Tervező: Charles Bassi", "Empire stílusú", "1500 ülőhely", "A Puula-tó partján", "Különálló harangtorony"],
       ro: ["Finalizată în 1814", "Arhitect Charles Bassi", "Stil Empire", "Capacitate 1500 persoane", "Malul lacului Puula", "Clopotniță separată"],
       en: ["Completed in 1814", "Designed by Charles Bassi", "Empire style features", "Seats 1500 people", "On Lake Puula shore", "Separate bell tower"],
-    }, image: "/poi-images/finland-kangasniemi-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "finland-kannus-church-landmarks-v2",
     type: "church",
@@ -444,7 +447,8 @@ export const finlandLandmarksV2: POI[] = [
       hu: ["2004-ben készült el", "Anssi Lassila tervezte", "50.000 kézzel készült zsindely", "Nincsenek benne fémszegek", "Hagyományos kátrányozás", "Építészeti díjas projekt"],
       ro: ["Finalizată în 2004", "Arhitect Anssi Lassila", "50.000 de șindrile manuale", "Fără cuie de metal", "Finisaj cu smoală tradițională", "Premiul pentru Construcții din Lemn"],
       en: ["Completed in 2004", "Architect Anssi Lassila", "50,000 handmade shingles", "No modern nails used", "Traditional tar coating", "Wood Architecture Prize 2004"],
-    }, image: "/poi-images/finland-karlaby-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "finland-karstula-church-landmarks-v2",
     type: "church",
@@ -571,7 +575,8 @@ export const finlandLandmarksV2: POI[] = [
       hu: ["Épült: 1950-ben", "Helyszín: Kittilä, Lappföld", "Háború utáni újjáépítés", "Stílus: Egyszerű modern"],
       ro: ["Finalizată în 1950", "Locație: Kittilä, Laponia", "Construcție postbelică", "Stil: Modern simplu"],
       en: ["Completed in 1950", "Location: Kittilä, Lapland", "Post-war reconstruction", "Style: Modernist"],
-    }, image: "/poi-images/finland-kaukonen-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "finland-keitele-church-landmarks-v2",
     type: "church",
@@ -602,7 +607,8 @@ export const finlandLandmarksV2: POI[] = [
       hu: ["Épült: 1876-ban", "Tervező: A. H. Dalström", "Anyaga: Fa", "Régió: Észak-Savo"],
       ro: ["Construită în 1876", "Arhitect: A. H. Dalström", "Material: Lemn", "Regiune: Savo de Nord"],
       en: ["Completed in 1876", "Architect: A. H. Dalström", "Material: Wood", "Region: Northern Savonia"],
-    }, image: "/poi-images/finland-keitele-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "finland-kellokoski-church-landmarks-v2",
     type: "church",
@@ -665,7 +671,8 @@ export const finlandLandmarksV2: POI[] = [
       hu: ["1950-ben szentelték fel", "Bertel Liljequist tervezte", "850 férőhely", "A harangtorony 1774-ből maradt", "Lappföldi régió", "A régi templom 1944-ben égett le"],
       ro: ["Sfințită în 1950", "Arhitect Bertel Liljequist", "Capacitate 850 locuri", "Clopotniță din 1774 (originală)", "Situată în Laponia", "Vechea biserică distrusă în 1944"],
       en: ["Consecrated in 1950", "Architect Bertel Liljequist", "Seats 850 worshippers", "Original 1774 bell tower remains", "Located in Lapland", "Predecessor destroyed in 1944"],
-    }, image: "/poi-images/finland-kemijarvi-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "finland-kempele-church-landmarks-v2",
     type: "church",
@@ -728,7 +735,8 @@ export const finlandLandmarksV2: POI[] = [
       hu: ["1847-ben épült", "A világ legnagyobb fatemploma", "3.000 ülőhely", "Hosszúsága 45 méter", "Kupolamagasság: 27 méter", "A. F. Granstedt tervezte"],
       ro: ["Finalizată în 1847", "Cea mai mare biserică de lemn", "Peste 3000 de locuri", "Lungime: 45 metri", "Înălțime cupolă: 27 metri", "Arhitect A. F. Granstedt"],
       en: ["Completed in 1847", "Largest wooden church globally", "3,000 sitting capacity", "Length 45 meters", "Dome height 27 meters", "Architect A. F. Granstedt"],
-    }, image: "/poi-images/finland-kerimaki-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "finland-kesalahti-church-landmarks-v2",
     type: "church",
@@ -791,7 +799,8 @@ export const finlandLandmarksV2: POI[] = [
       hu: ["Épült: 1950-ben", "Helyszín: Taivalkoski", "Funkció: Temetői kápolna", "Stílus: Északi modern"],
       ro: ["Finalizată în 1950", "Locație: Taivalkoski", "Funcție: Capelă cimitir", "Stil: Modern nordic"],
       en: ["Completed in 1950", "Location: Taivalkoski", "Function: Cemetery chapel", "Style: Nordic modern"],
-    }, image: "/poi-images/finland-keskilahti-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "finland-kestila-church-landmarks-v2",
     type: "church",
@@ -822,7 +831,8 @@ export const finlandLandmarksV2: POI[] = [
       hu: ["Épült: 1855-ben", "Tervező: Ernst Lohrmann", "Anyaga: Fa", "Típus: Kereszttemplom"],
       ro: ["Anul construcției: 1855", "Arhitect: Ernst Lohrmann", "Material: Lemn", "Formă: Cruce greacă"],
       en: ["Completed in 1855", "Architect: Ernst Lohrmann", "Material: Wood", "Type: Cross church"],
-    }, image: "/poi-images/finland-kestila-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "finland-kesava-church-landmarks-v2",
     type: "church",
@@ -853,7 +863,8 @@ export const finlandLandmarksV2: POI[] = [
       hu: ["Felszentelés éve: 1950", "Építész: Aulis Blomstedt", "Harangtorony épült: 1836", "Anyaga: Vörös tégla"],
       ro: ["Anul sfințirii: 1950", "Arhitect: Aulis Blomstedt", "Clopotniță construită în 1836", "Material: Cărămidă roșie"],
       en: ["Church completed in 1950", "Architect: Aulis Blomstedt", "Bell tower dates to 1836", "Construction: Red brick"],
-    }, image: "/poi-images/finland-kesava-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "finland-keuruu-church-landmarks-v2",
     type: "church",
@@ -884,7 +895,8 @@ export const finlandLandmarksV2: POI[] = [
       hu: ["Építési idő: 1756–1759", "Építőmester: Antti Hakola", "Barokk festmények: 1782–1785", "Befogadóképesség: 450 fő"],
       ro: ["Construcție: 1756–1759", "Constructor: Antti Hakola", "Picturi baroce: 1782–1785", "Capacitate: cca. 450 persoane"],
       en: ["Built: 1756–1759", "Master builder: Antti Hakola", "Murals painted: 1782–1785", "Capacity: approx. 450 people"],
-    }, image: "/poi-images/finland-keuruu-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "finland-kialajärvi-church-landmarks-v2",
     type: "church",
@@ -915,7 +927,8 @@ export const finlandLandmarksV2: POI[] = [
       hu: ["Régió: Kainuu (Suomussalmi)", "Stílus: Vidéki faépítészet", "Egyházközség: Suomussalmi", "Funkció: Imaház és falusi templom"],
       ro: ["Regiune: Kainuu (Suomussalmi)", "Stil: Arhitectură rurală în lemn", "Parohie: Suomussalmi", "Funcție: Casă de rugăciune"],
       en: ["Region: Kainuu (Suomussalmi)", "Style: Rural wooden architecture", "Parish: Suomussalmi", "Function: Village prayer house"],
-    }, image: "/poi-images/finland-kialajärvi-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "finland-kiikoinen-church-landmarks-v2",
     type: "church",
@@ -946,7 +959,8 @@ export const finlandLandmarksV2: POI[] = [
       hu: ["Építés éve: 1851", "Építész: P. J. Gylich", "Stílus: Keresztalakú fatemplom", "Orgonát készítették: 1951"],
       ro: ["Anul construcției: 1851", "Arhitect: P. J. Gylich", "Stil: Biserică de lemn în cruce", "Orga instalată în 1951"],
       en: ["Year of construction: 1851", "Architect: P. J. Gylich", "Style: Wooden cruciform", "Organ built in 1951"],
-    }, image: "/poi-images/finland-kiikoinen-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "finland-kiiminki-church-landmarks-v2",
     type: "church",

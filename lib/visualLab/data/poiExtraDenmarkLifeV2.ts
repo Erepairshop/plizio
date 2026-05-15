@@ -31,7 +31,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["2008-ban alapították", "Területe 244 négyzetkilométer", "Dánia legnagyobb gímszarvas-állománya", "A 'Dán vadon' néven ismert"],
       ro: ["Fondat în anul 2008", "Suprafață de 244 km²", "Cea mai mare populație de cerbi", "Peste 200 km de trasee marcare"],
       en: ["Established in 2008", "Area of 244 square kilometers", "Home to Denmark's largest red deer", "Nicknamed the 'Danish Wilderness'"],
-    }, image: "/poi-images/denmark-thy-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-mols-bjerge-national-park-life-v2",
     type: "park",
@@ -62,7 +63,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["Legmagasabb pontja 137 méter", "2009-ben nyitották meg", "180 négyzetkilométeres terület", "Ritka hangyaboglárka élőhelye"],
       ro: ["Punct maxim Agri Bue la 137 m", "Înființat în anul 2009", "Suprafață de 180 km²", "Adăpostește specii rare de fluturi"],
       en: ["Highest point Agri Bue (137 m)", "Established in 2009", "180 square kilometers area", "Home to rare Alcon Blue butterflies"],
-    }, image: "/poi-images/denmark-mols-bjerge-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-skjoldungernes-land-national-park-life-v2",
     type: "park",
@@ -93,7 +95,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["2015-ben hozták létre", "170 négyzetkilométeres terület", "Több mint 30 tó található itt", "Viking kori régészeti lelőhelyek"],
       ro: ["Deschis în anul 2015", "Suprafață de 170 km²", "Include peste 30 de lacuri", "Peisaj istoric din epoca vikingilor"],
       en: ["Established in 2015", "170 square kilometers area", "Over 30 lakes within its limits", "Contains Viking-era heritage sites"],
-    }, image: "/poi-images/denmark-skjoldungernes-land-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-kongernes-nordsjaelland-national-park-life-v2",
     type: "park",
@@ -124,7 +127,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["262,5 km² területű", "2018-ban nyitották meg", "Magában foglalja Gribskovot", "Az Arresø tó területe", "Az Esrum Sø tó területe", "Észak-Zélandon fekszik"],
       ro: ["Suprafață de 262,5 km²", "Fondat în anul 2018", "Include pădurea Gribskov", "Include lacul Arresø", "Include lacul Esrum", "Situat în regiunea Hovedstaden"],
       en: ["Covers 262.5 km²", "Established in 2018", "Includes Gribskov forest", "Includes Lake Arresø", "Includes Lake Esrum Sø", "Located in Hovedstaden region"],
-    }, image: "/poi-images/denmark-kongernes-nordsjaelland-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-vadehavet-national-park-life-v2",
     type: "wildlife",
@@ -155,7 +159,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["2010-ben alapították", "Területe 1466 négyzetkilométer", "2014 óta UNESCO-helyszín", "12 millió költöző madár pihenője"],
       ro: ["Înființat în anul 2010", "Suprafață masivă de 1.466 km²", "Situl UNESCO din anul 2014", "Găzduiește 12 milioane de păsări"],
       en: ["Established in 2010", "Area of 1,466 square kilometers", "UNESCO World Heritage since 2014", "Hub for 12 million migratory birds"],
-    }, image: "/poi-images/denmark-vadehavet-national-park-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-copenhagen-zoo-life-v2",
     type: "wildlife",
@@ -186,7 +191,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["1859. szeptember 20-án nyílt", "Több mint 4000 állat lakja", "264 különböző faj látható", "Híres fa kilátótornya van"],
       ro: ["Deschisă la 20 septembrie 1859", "Peste 4.000 de animale prezente", "Găzduiește 264 de specii", "Turn de observație din lemn iconic"],
       en: ["Opened September 20, 1859", "Home to over 4,000 animals", "264 different species present", "Iconic wooden observation tower"],
-    }, image: "/poi-images/denmark-copenhagen-zoo-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-givskud-zoo-life-v2",
     type: "wildlife",
@@ -217,7 +223,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["1969-ben alapították", "Dánia legnagyobb oroszlánfalkája", "Több mint 700 állat él itt", "Több kilométeres szafari útvonal"],
       ro: ["Fondat în anul 1969", "Cel mai mare grup de lei din țară", "Peste 700 de animale în total", "Traseu safari de câțiva kilometri"],
       en: ["Established in 1969", "Denmark's largest lion pride", "Home to over 700 animals", "Multi-kilometer safari driving route"],
-    }, image: "/poi-images/denmark-givskud-zoo-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-odense-zoo-life-v2",
     type: "wildlife",
@@ -248,7 +255,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["1930-ban alapították", "3,6 hektáros terület", "2000 állat él itt", "147 különböző faj", "Funen szigetén található", "Évi 350 ezer látogató"],
       ro: ["Înființată în 1930", "Suprafață de 3,6 hectare", "Găzduiește 2000 de animale", "Aproximativ 147 de specii", "Situată pe insula Funen", "350.000 de vizitatori anual"],
       en: ["Established in 1930", "Covers 3.6 hectares", "Houses 2000 animals", "Features 147 species", "Located on Funen island", "350,000 annual visitors"],
-    }, image: "/poi-images/denmark-odense-zoo-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-aalborg-zoo-life-v2",
     type: "wildlife",
@@ -279,7 +287,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["1935 áprilisában nyílt meg", "Területe 8,5 hektár", "Több mint 1500 állat lakja", "Évi 375 000 látogatót fogad"],
       ro: ["Deschisă în aprilie 1935", "Suprafață de 8,5 hectare", "Peste 1.500 de animale găzduite", "Record de 375.000 vizitatori anual"],
       en: ["Opened in April 1935", "Covers 8.5 hectares of land", "Home to over 1,500 animals", "Record of 375,000 annual visitors"],
-    }, image: "/poi-images/denmark-aalborg-zoo-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-botanical-garden-copenhagen-life-v2",
     type: "park",
@@ -310,7 +319,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["1600-ban alapították először", "13 000 növényfaj gyűjteménye", "27 történelmi üvegház", "A Természettudományi Múzeum része"],
       ro: ["Prima fondare în anul 1600", "Colecție de 13.000 de specii", "Deține 27 de sere istorice", "Parte a Muzeului de Istorie Naturală"],
       en: ["First established in 1600", "Home to 13,000 plant species", "Contains 27 historic glasshouses", "Part of Natural History Museum"],
-    }, image: "/poi-images/denmark-botanical-garden-copenhagen-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-aarhus-botanical-garden-life-v2",
     type: "park",
@@ -341,7 +351,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["1873-ban nyílt meg", "21,5 hektáros terület", "Aarhus központjában van", "Trópusi üvegházzal rendelkezik", "Dán növények gyűjteménye", "Ingyenesen látogatható"],
       ro: ["Înființată în 1873", "Suprafață de 21,5 hectare", "Situată în orașul Aarhus", "Include sere tropicale", "Găzduiește un ierbar", "Intrare publică gratuită"],
       en: ["Established in 1873", "Covers 21.5 hectares", "Located in Aarhus", "Features tropical greenhouses", "Contains a herbarium", "Free public admission"],
-    }, image: "/poi-images/denmark-aarhus-botanical-garden-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-skanderborg-lake-district-life-v2",
     type: "lake",
@@ -372,7 +383,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["Legnagyobb tó: Skanderborgi-tó, 9 km²", "Tavak száma: 5", "Kialakulás: jégkorszak", "Sétautak: 50 km", "Éves fesztivál: Skanderborg Fesztivál", "Látogatók évente: 100.000"],
       ro: ["Cel mai mare lac: Lacul Skanderborg, 9 km²", "Număr de lacuri: 5", "Formare: era glaciară", "Trasee de drumeție: 50 km", "Festival anual: Festivalul Skanderborg", "Vizitatori pe an: 100.000"],
       en: ["Largest lake: Lake Skanderborg, 9 km²", "Number of lakes: 5", "Formation: Ice Age", "Hiking trails: 50 km", "Annual festival: Skanderborg Festival", "Visitors per year: 100,000"],
-    }, image: "/poi-images/denmark-skanderborg-lake-district-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-silkeborg-lakes-life-v2",
     type: "lake",
@@ -403,7 +415,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["Legnagyobb tó: Silkeborg Hosszú-tó, 22 km hosszú", "Teljes terület: 40 km²", "Csatornák hossza: 15 km", "Nyári vízhőmérséklet: 20 °C", "Túraútvonalak: 100 km", "Madárfajok: 200"],
       ro: ["Cel mai mare lac: Lacul Lung Silkeborg, 22 km lungime", "Suprafață totală: 40 km²", "Lungimea canalelor: 15 km", "Temperatura apei vara: 20 °C", "Trasee de drumeție: 100 km", "Specii de păsări: 200"],
       en: ["Largest lake: Silkeborg Long Lake, 22 km long", "Total area: 40 km²", "Canal length: 15 km", "Summer water temperature: 20 °C", "Hiking trail network: 100 km", "Bird species: 200"],
-    }, image: "/poi-images/denmark-silkeborg-lakes-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-ertholmene-wildlife-life-v2",
     type: "wildlife",
@@ -434,7 +447,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["39 hektáros teljes terület", "Mintegy 90 állandó lakos", "1684-ben alapított erőd", "Bornholmtól keletre fekszik", "Legnagyobb szigete Christiansø", "Autómentes övezet"],
       ro: ["Suprafață de 39 hectare", "Aproximativ 90 de locuitori", "Fortificată în 1684", "Situată la est de Bornholm", "Insula principală Christiansø", "Fără trafic auto"],
       en: ["Covers 39 hectares", "Around 90 residents", "Fortress built in 1684", "East of Bornholm", "Main island Christiansø", "Car-free environment"],
-    }, image: "/poi-images/denmark-ertholmene-wildlife-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-marselisborg-forest-life-v2",
     type: "forest",
@@ -465,7 +479,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["Terület: 1.200 hektár", "Fő fafajok: bükk, tölgy", "Sétautak: 30 km", "Kerékpárutak: 20 km", "Kastély építési éve: 1902", "Látogatók évente: 500.000"],
       ro: ["Suprafață: 1.200 ha", "Specii principale de arbori: fag, stejar", "Trasee de drumeție: 30 km", "Trasee de ciclism: 20 km", "Anul construcției castelului: 1902", "Vizitatori pe an: 500.000"],
       en: ["Area: 1,200 ha", "Main tree species: beech, oak", "Hiking trails: 30 km", "Biking trails: 20 km", "Palace construction year: 1902", "Visitors annually: 500,000"],
-    }, image: "/poi-images/denmark-marselisborg-forest-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-randers-rainforest-life-v2",
     type: "wildlife",
@@ -496,7 +511,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["1996-ban nyitotta meg kapuit", "3600 m² fedett terület", "250 állatfaj él itt", "Három geodéziai kupola", "Randers városában található", "Dél-amerikai biom"],
       ro: ["Deschisă în 1996", "Suprafață de 3600 m²", "Găzduiește 250 de specii", "Trei domuri geodezice", "Situată în orașul Randers", "Reproduce biomuri tropicale"],
       en: ["Opened in 1996", "Covers 3600 m²", "Houses 250 animal species", "Three geodesic domes", "Located in Randers", "Features tropical biomes"],
-    }, image: "/poi-images/denmark-randers-rainforest-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-skjern-aa-delta-life-v2",
     type: "wildlife",
@@ -527,7 +543,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["A helyreállítás 2002-ben zárult", "Területe 2200 hektár", "Dánia legbővizűbb folyója", "Kiemelt vidravédelmi terület"],
       ro: ["Restaurat în anul 2002", "Suprafață de 2.200 de hectare", "Cel mai mare râu ca volum", "Sanctuar important pentru vidre"],
       en: ["Restoration completed in 2002", "Covers 2,200 hectares of land", "Denmark's largest river by volume", "Crucial sanctuary for otters"],
-    }, image: "/poi-images/denmark-skjern-aa-delta-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-tisvilde-hegn-forest-life-v2",
     type: "forest",
@@ -558,7 +575,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["Alapítás éve: 1913", "Terület: 1.500 hektár", "Fő fafaj: fenyő", "Túraútvonalak: 25 km", "Tó az erdőben: Tisvilde Sø, 0,5 km²", "Legmagasabb pont: 32 méter"],
       ro: ["Anul înființării: 1913", "Suprafață: 1.500 ha", "Specie principală: pin", "Trasee de drumeție: 25 km", "Lac în pădure: Tisvilde Sø, 0,5 km²", "Altitudine maximă: 32 m"],
       en: ["Year established: 1913", "Area: 1,500 ha", "Main tree species: pine", "Hiking trails: 25 km", "Lake in forest: Tisvilde Sø, 0.5 km²", "Highest elevation: 32 m"],
-    }, image: "/poi-images/denmark-tisvilde-hegn-forest-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-mols-bjerge-forest-life-v2",
     type: "forest",
@@ -589,7 +607,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["Terület: 2.500 hektár", "Legmagasabb pont: 137 méter (Mols Bjerge)", "Nemzeti Park: Mols Bjerge, 2009", "Túraútvonalak: 60 km", "Fafajok: 20", "Védett növényfajok: 15"],
       ro: ["Suprafață: 2.500 ha", "Cel mai înalt punct: 137 m (Mols Bjerge)", "Parcul Național: Mols Bjerge, 2009", "Trasee de drumeție: 60 km", "Specii de arbori: 20", "Specii protejate de plante: 15"],
       en: ["Area: 2,500 ha", "Highest point: 137 m (Mols Bjerge)", "National Park: Mols Bjerge, established 2009", "Hiking trail network: 60 km", "Tree species: 20", "Protected plant species: 15"],
-    }, image: "/poi-images/denmark-mols-bjerge-forest-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-amager-fælled-life-v2",
     type: "park",
@@ -620,7 +639,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["223 hektáros terület", "Korábban katonai gyakorlótér volt", "Több mint 300 növényfaj", "Ritka tarajos gőték élőhelye"],
       ro: ["Suprafață de 223 de hectare", "Fost teren pentru exerciții militare", "Peste 300 de specii de plante", "Habitat pentru tritonul cu creastă"],
       en: ["Covers 223 hectares of land", "Former military training ground", "Home to 300+ plant species", "Habitat for the crested newt"],
-    }, image: "/poi-images/denmark-amager-fælled-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-fur-island-nature-life-v2",
     type: "wildlife",
@@ -651,7 +671,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["A sziklák 55 millió évesek", "Területe 22 négyzetkilométer", "UNESCO várakozólistás helyszín", "Kovaföld bányászatáról ismert"],
       ro: ["Vârsta falezei: 55 mil. ani", "Suprafață de 22 km²", "Candidat la patrimoniul UNESCO", "Zăcăminte unice de pământ de diatomee"],
       en: ["Cliffs are 55 million years old", "Island area of 22 square km", "UNESCO tentative list site", "Known for unique diatomite deposits"],
-    }, image: "/poi-images/denmark-fur-island-nature-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-harrild-hede-nature-life-v2",
     type: "park",
@@ -682,7 +703,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["Körülbelül 900 hektáros terület", "Közép-Jütland legnagyobb pusztája", "A Holtum Å folyóvölgye szeli át", "Rétisasok is megfigyelhetőek itt"],
       ro: ["Suprafață de aprox. 900 hectare", "Cea mai mare landă din Jutlanda", "Include valea râului Holtum Å", "Se pot observa vulturi codalb"],
       en: ["Covers approx. 900 hectares", "Largest heath in Central Jutland", "Includes the Holtum Å river valley", "White-tailed eagles spotted here"],
-    }, image: "/poi-images/denmark-harrild-hede-nature-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-roskilde-fjord-wildlife-life-v2",
     type: "wildlife",
@@ -713,7 +735,8 @@ export const denmarkLifeV2: POI[] = [
       hu: ["Több mint 30 apró sziget", "Fontos csérfélék költőhelye", "123 négyzetkilométeres vízfelület", "UNESCO Bioszféra-rezervátum"],
       ro: ["Peste 30 de insule mici", "Zonă de cuibărit pentru chirighițe", "Suprafață de 123 km² de apă", "Rezervație a Biosferei UNESCO"],
       en: ["Over 30 small islands within", "Vital breeding ground for terns", "Water area of 123 square km", "UNESCO Biosphere Reserve site"],
-    }, image: "/poi-images/denmark-roskilde-fjord-wildlife-life-v2.webp"},
+    },
+  },
   {
     id: "denmark-bornholm-nature-wildlife-v2",
     type: "wildlife",

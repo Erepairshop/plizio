@@ -63,7 +63,8 @@ export const irelandNatureV2: POI[] = [
       hu: ["A tó felszíne körülbelül 13 négyzetkilométer.", "Ez a tó az Erne-folyó hivatalos forrásvidéke.", "Inchmore szigetén ősi templomromok találhatóak.", "Híres horgászhely, különösen csuka és pisztráng miatt."],
       ro: ["Suprafața lacului este de circa 13 km pătrați.", "Lacul este sursa oficială a râului Erne.", "Găzduiește ruinele unei biserici vechi pe Inchmore.", "Este o destinație celebră pentru pescuitul de știucă."],
       en: ["Surface area covers approximately 13 sq km.", "The lake is the official source of the River Erne.", "Contains the ruins of an ancient church on Inchmore.", "Renowned destination for pike and trout fishing."],
-    }, image: "/poi-images/ireland-lough-gowna-nature-v2.webp"},
+    },
+  },
   {
     id: "ireland-river-suir-nature-v2",
     type: "river",
@@ -94,7 +95,8 @@ export const irelandNatureV2: POI[] = [
       hu: ["A folyó teljes hossza 185 kilométer.", "Vízgyűjtő területe nagyjából 3610 km².", "Az árapály hatása Carrick-on-Suir városáig tart.", "Híres a folyóban élő nagy sebes pisztráng állományról."],
       ro: ["Lungimea totală a râului este de 185 kilometri.", "Bazinul hidrografic acoperă circa 3.610 km pătrați.", "Influența mareei ajunge până la Carrick-on-Suir.", "Este renumit pentru populația de păstrăv indigen."],
       en: ["Total length of the river is 185 kilometers.", "The catchment area covers about 3,610 sq km.", "Tidal influence extends up to Carrick-on-Suir.", "Famous for its large population of wild brown trout."],
-    }, image: "/poi-images/ireland-river-suir-nature-v2.webp"},
+    },
+  },
   {
     id: "ireland-slieve-anierin-nature-v2",
     type: "mountain",
@@ -125,7 +127,8 @@ export const irelandNatureV2: POI[] = [
       hu: ["Csúcsa 585 méterrel magasodik a tengerszint fölé.", "Kőzeteit főként homokkő és pala alkotja.", "A 17. és 19. század között vasércet bányásztak itt.", "Tetejéről tiszta időben 7 különböző megye is látható."],
       ro: ["Vârful se află la 585 metri deasupra mării.", "Muntele este format din gresie și șisturi.", "S-a extras fier de aici între secolele XVII și XIX.", "Oferă panorame spre 7 comitate diferite de pe vârf."],
       en: ["Summit elevation is 585 meters above sea level.", "Formed primarily from sandstone and shale.", "Iron was mined here between the 17th and 19th centuries.", "Offers views of 7 different counties from the top."],
-    }, image: "/poi-images/ireland-slieve-anierin-nature-v2.webp"},
+    },
+  },
   {
     id: "ireland-galtee-mountains-nature-v2",
     type: "mountain",
@@ -156,7 +159,8 @@ export const irelandNatureV2: POI[] = [
       hu: ["A Galtymore csúcsa 919 méteres magasságig ér.", "A vonulat hossza keletről nyugatra 20 kilométer.", "Öt gleccser vájta tó található a hegységben.", "A kőzetrétegek a vörös homokkő korszakából valók.", "Tipperary és Limerick megyék határán fekszik.", "A hegyoldalakon jelentős tőzeglápok találhatók."],
       ro: ["Vârful Galtymore atinge o înălțime de 919 metri.", "Munții se întind pe o distanță de 20 kilometri.", "Relieful este compus în principal din gresie roșie.", "Există cinci lacuri glaciare majore în masiv.", "Pantele nordice sunt marcate de stânci abrupte.", "Lanțul muntos este cel mai înalt din interiorul insulei."],
       en: ["Galtymore is the highest peak at 919 meters.", "The range extends for approximately 20 kilometers.", "It consists primarily of Old Red Sandstone rocks.", "Five glacial corrie lakes are located in the range.", "The mountains formed during the Variscan orogeny.", "Mitchelstown Caves are located at the southern base."],
-    }, image: "/poi-images/ireland-galtee-mountains-nature-v2.webp"},
+    },
+  },
   {
     id: "ireland-river-lagan-nature-v2",
     type: "river",
@@ -187,7 +191,8 @@ export const irelandNatureV2: POI[] = [
       hu: ["A folyó teljes hossza körülbelül 60 kilométer.", "A Slieve Croob hegy északi oldalán ered.", "Belfastnál ömlik az Ír-tenger Belfast Lough öblébe.", "A folyó mentén épült ki a Lagan Navigation csatorna.", "Az 1994-ben átadott gátrendszer szabályozza a szintet.", "A folyó vízgyűjtő területe 600 négyzetkilométer."],
       ro: ["Râul are o lungime totală de 60 de kilometri.", "Izvorul se află pe muntele Slieve Croob din Down.", "Se varsă în mare prin estuarul Belfast Lough.", "Canalul Lagan Navigation a fost finalizat în 1763.", "Barajul Lagan Weir a fost construit în anul 1994.", "Râul separă comitatele Antrim și Down în Belfast."],
       en: ["The river flows for a total of 60 kilometers.", "The source is at Slieve Croob in County Down.", "It reaches the sea at the Belfast Lough estuary.", "The Lagan Navigation was constructed from 1763.", "The Lagan Weir was completed in 1994 to control flow.", "It drains a catchment area of 609 square kilometers."],
-    }, image: "/poi-images/ireland-river-lagan-nature-v2.webp"},
+    },
+  },
   {
     id: "ireland-lough-ergne-nature-v2",
     type: "lake",
@@ -218,7 +223,8 @@ export const irelandNatureV2: POI[] = [
       hu: ["Az alsó Lough Erne tóban 134 különálló sziget van.", "Az alsó tó felszíne körülbelül 110 négyzetkilométer.", "A Devenish-szigeten egy 12. századi kerek torony áll.", "Észak-Írország második legnagyobb tórendszere."],
       ro: ["Lower Lough Erne conține 134 de insule individuale.", "Suprafața lacului inferior este de circa 110 km pătrați.", "Pe insula Devenish există un turn rotund din sec. XII.", "Este al doilea cel mai mare lac din Irlanda de Nord."],
       en: ["Lower Lough Erne contains 134 individual islands.", "The lower lake surface area is about 110 sq km.", "Devenish Island hosts a 12th-century round tower.", "It is the second largest lake system in Northern Ireland."],
-    }, image: "/poi-images/ireland-lough-ergne-nature-v2.webp"},
+    },
+  },
   {
     id: "ireland-macgillycuddy-reeks-nature-v2",
     type: "mountain",

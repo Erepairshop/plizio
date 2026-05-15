@@ -31,7 +31,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Lakosság: 32.000 fő (2023).", "Területe: 363 km².", "A Jazz Fesztivált 1961 óta rendezik meg.", "Legmagasabb hegy: Molden, 1000 m.", "A Moldefjord hossza 10 km.", "Az Atlanti-óceáni út 8 km hosszú."],
       ro: ["Populație: 32.000 (2023).", "Suprafață: 363 km².", "Festivalul de Jazz: început în 1961, anual în iulie.", "Cel mai înalt munte: Molden, 1.000 m.", "Fiordul Molde: lungime 10 km.", "Drumul Atlantic: 8 km de șosea panoramică."],
       en: ["Population: 32,000 (2023).", "Area: 363 km² (140 sq mi).", "Molde International Jazz Festival: founded 1961, annual in July.", "Highest peak: Molden, 1,000 m (3,281 ft).", "Moldefjord: length 10 km (6 mi).", "Atlantic Road: 8 km (5 mi) scenic route."],
-    }, image: "/poi-images/norway-molde-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-hamar-cities-v2",
     type: "city",
@@ -62,7 +63,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Lakosság: 32.000 fő (2023).", "Mjøsa-tó: 362 km², legnagyobb mélysége 449 m.", "A Hamar-székesegyház romja a 12. századból.", "Vikingskipet: 10.000 ülőhely.", "1994-es téli olimpia: gyorskorcsolya Hamarban.", "Távolság Oslótól: 130 km."],
       ro: ["Populație: 32.000 (2023).", "Lacul Mjøsa: 362 km², adâncime maximă 449 m.", "Ruinele Catedralei Hamar: secolul al XII-lea.", "Vikingskipet: 10.000 de locuri.", "Jocurile Olimpice din 1994: patinaj viteză la Hamar.", "Distanța până la Oslo: 130 km."],
       en: ["Population: 32,000 (2023).", "Lake Mjøsa: 362 km² (140 sq mi), max depth 449 m.", "Hamar Cathedral ruins: from the 12th century.", "Vikingskipet hall: 10,000 seats.", "1994 Winter Olympics: speed skating events held here.", "Distance to Oslo: 130 km (81 mi)."],
-    }, image: "/poi-images/norway-hamar-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-sarpsborg-cities-v2",
     type: "city",
@@ -93,7 +95,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Alapítás éve: 1016, Szent Olaf király által.", "Lakosság: kb. 55.000 fő (2023).", "Sarpefossen vízesés magassága: 22 méter.", "Glomma folyó hossza: 621 km.", "Fő iparágak: papír, vegyipar, élelmiszer.", "Távolság Oslótól: 100 km."],
       ro: ["Anul fondării: 1016, de regele Olaf cel Sfânt.", "Populație: circa 55.000 (2023).", "Înălțimea cascadei Sarpefossen: 22 m.", "Lungimea râului Glomma: 621 km.", "Industrii principale: hârtie, chimicale, alimentară.", "Distanța față de Oslo: 100 km."],
       en: ["Founded in 1016 by King Olaf the Saint.", "Population: approx. 55,000 (2023).", "Sarpefossen waterfall height: 22 m.", "Glomma River length: 621 km.", "Key industries: paper, chemicals, food processing.", "Distance from Oslo: 100 km."],
-    }, image: "/poi-images/norway-sarpsborg-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-skien-cities-v2",
     type: "city",
@@ -124,7 +127,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 55.000 fő (2023).", "Henrik Ibsen szülővárosa (1828).", "Skien-csatorna hossza: 105 km (a Telemark-csatorna része).", "Tengerszint feletti magasság: 6 m.", "Városi rangot kapott: 1358, dán uralom alatt.", "Skienselva folyó hossza: 100 km."],
       ro: ["Populație: circa 55.000 (2023).", "Orașul natal al lui Henrik Ibsen (1828).", "Lungimea Canalului Skien: 105 km (parte a Canalului Telemark).", "Altitudine: 6 m deasupra nivelului mării.", "Fondat ca oraș în 1358 sub dominație daneză.", "Lungimea râului Skienselva: 100 km."],
       en: ["Population: approx. 55,000 (2023).", "Birthplace of Henrik Ibsen (1828).", "Length of Skien Canal: 105 km (part of Telemark Canal).", "Elevation: 6 m above sea level.", "City status granted in 1358 under Danish rule.", "Length of Skienselva River: 100 km."],
-    }, image: "/poi-images/norway-skien-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-haugesund-cities-v2",
     type: "city",
@@ -155,7 +159,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 37.000 fő (2023).", "Tengerszint feletti magasság: 0 m a kikötőben.", "Alapítás: 1854, kereskedelmi település.", "Kikötői forgalom: évi 10 millió tonna felett.", "Ibsen-díj és filmfesztivál 1973 óta.", "Távolság Stavangertől: 72 km."],
       ro: ["Populație: circa 37.000 (2023).", "Altitudine: 0 m în zona portuară.", "Fondat: 1854 ca punct comercial.", "Trafic portuar: peste 10 milioane de tone anual.", "Festivalul Norvegian de Film are loc din 1973.", "Distanța față de Stavanger: 72 km."],
       en: ["Population: approx. 37,000 (2023).", "Elevation: 0 m in harbor area.", "Founded: 1854 as a trading post.", "Port cargo volume: over 10 million tonnes annually.", "Norwegian Film Festival established 1973.", "Distance from Stavanger: 72 km."],
-    }, image: "/poi-images/norway-haugesund-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-moss-cities-v2",
     type: "city",
@@ -186,7 +191,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 33.000 fő (2023).", "Távolság Oslótól: 60 km.", "Moss Papírgyár alapítva 1706.", "Verne bánya: vasércbányászat 1780-1966.", "Kompjárat Helsingørbe, Dániába (85 km).", "Mossi templom épült 1771."],
       ro: ["Populație: circa 33.000 (2023).", "Distanța față de Oslo: 60 km.", "Fabrica de hârtie Moss fondată în 1706.", "Mina Verne: exploatare de fier între 1780 și 1966.", "Feribotul către Helsingør, Danemarca (distanță 85 km).", "Biserica Moss construită în 1771."],
       en: ["Population: approx. 33,000 (2023).", "Distance from Oslo: 60 km.", "Moss Paper Mill founded in 1706.", "Verne Mine operated for iron ore from 1780 to 1966.", "Ferry connection to Helsingør, Denmark (85 km).", "Moss Church built in 1771."],
-    }, image: "/poi-images/norway-moss-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-sandefjord-cities-v2",
     type: "city",
@@ -217,7 +223,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 47.000 (2023)", "Terület: 121 km²", "Bálnavadászati Múzeum alapítva: 1918", "Legmagasabb pont: Vardåsen, 324 m", "Kikötő mélysége: 22 m", "Gokstad hajó mérete: 23,8 m hosszú"],
       ro: ["Populație: 47.000 (2023)", "Suprafață: 121 km²", "Muzeul Vânătorii de Balene fondat în 1918", "Altitudine maximă: Vardåsen, 324 m", "Lungimea cheiului portuar: 1.200 m", "Numărul de insule: 4"],
       en: ["Population: 47,000 (2023)", "Area: 121 km²", "Whaling Museum established 1918", "Highest point: Vardåsen, 324 m above sea level", "Port depth: 22 m", "Number of registered ships: 150"],
-    }, image: "/poi-images/norway-sandefjord-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-arendal-cities-v2",
     type: "city",
@@ -248,7 +255,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 45.000 (2023)", "Terület: 270 km² (szigetekkel)", "Legmagasabb pont: Høgevarde, 302 m", "Yachtkikötő férőhelye: 1.200 hajó", "Jazzfesztivál indulása: 1997", "Fehér házak száma: több mint 100"],
       ro: ["Populație: 45.000 (2023)", "Suprafață: 270 km²", "Port construit în 1300 (prima mențiune)", "Număr de insule locuite: 4", "Lungimea podului Arendal: 1.300 m", "Adâncimea portului: 15 m"],
       en: ["Population: 45,000 (2023)", "Area: 270 km²", "Oldest building: Arendal Town Hall (1812)", "Number of islands: over 100", "Length of waterfront promenade: 3.5 km", "Seaport depth: 15 m"],
-    }, image: "/poi-images/norway-arendal-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-larvik-cities-v2",
     type: "city",
@@ -279,7 +287,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 48.000 (2023)", "Terület: 530 km²", "Larvik Herregård épült: 1670", "Jégbarlang mélysége: 30 m", "Farris ásványvíz palackozás kezdete: 1907", "Kompjáratok száma naponta: 4"],
       ro: ["Populație: 48.000 (2023)", "Suprafață: 530 km²", "Conacul Larvik construit în 1670", "Peștera de gheață: 30 m adâncime", "Biserica are 1.200 de locuri", "Izvorul Farris descoperit în 1906"],
       en: ["Population: 48,000 (2023)", "Area: 530 km²", "Larvik Herregård built 1670", "Ice cave depth: 30 m", "Ferry crossings daily: 4", "Farris water export volume: 20 million litres/year"],
-    }, image: "/poi-images/norway-larvik-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-kristiansund-cities-v2",
     type: "city",
@@ -310,7 +319,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 24.000 (2023)", "Terület: 87 km²", "Alapítás: 1742", "Hidak száma: 5", "Operafesztivál kezdete: 1992", "Legmélyebb kikötő: 40 m"],
       ro: ["Populație: 24.000 (2023)", "Suprafață: 87 km²", "Fondat: 1742", "Număr de poduri: 5", "Festival de operă din 1992", "Adâncimea maximă a portului: 40 m"],
       en: ["Population: 24,000 (2023)", "Area: 87 km² (land area)", "Year founded: 1742", "Number of bridges: 5", "Opera festival starts: 1992", "Port depth: 40 m at quay"],
-    }, image: "/poi-images/norway-kristiansund-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-eidsvoll-cities-v2",
     type: "city",
@@ -341,7 +351,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 25.000 (2023)", "Terület: 456 km²", "Alkotmány aláírása: 1814. május 17.", "Mjøsa-tó területe: 362 km²", "Eidsvoll-ház épült: 1770", "Templom épült: 1150 körül"],
       ro: ["Populație: 25.000 (2023)", "Suprafață: 456 km²", "Constituția semnată la 17 mai 1814", "Lacul Mjøsa: 362 km²", "Eidsvoll Manor construit în 1770", "Biserica construită în jurul anului 1150"],
       en: ["Population: 25,000 (2023)", "Area: 456 km²", "Constitution signed on May 17, 1814", "Lake Mjøsa area: 362 km²", "Eidsvoll Manor built 1770", "Church built around 1150"],
-    }, image: "/poi-images/norway-eidsvoll-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-horten-cities-v2",
     type: "city",
@@ -372,7 +383,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 27.000 (2023)", "Terület: 70 km²", "Haditengerészeti bázis 1850-től", "Tengerészeti Múzeum nyitva: 1853", "Komputazás Mossba: 15 perc", "Legmagasabb pont: Brårudåsen, 120 m"],
       ro: ["Populație: 27.000 (2023)", "Suprafață: 70 km²", "Baza navală înființată în 1850", "Muzeul Naval deschis în 1853", "Durata feribotului către Moss: 15 minute", "Altitudine maximă: Brårudåsen, 120 m"],
       en: ["Population: 27,000 (2023)", "Area: 70 km²", "Naval base established 1850", "Naval Museum opened 1853", "Ferry to Moss: 15 minutes", "Highest point: Brårudåsen, 120 m"],
-    }, image: "/poi-images/norway-horten-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-skedsmokorset-cities-v2",
     type: "city",
@@ -403,7 +415,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 2.000 (2023)", "Távolság Oslótól: 20 km", "E6 autópálya: 6 sávos", "Repülőtér távolsága: 15 km", "Templom épült: 1871", "Ipari terület: 50 hektár"],
       ro: ["Populație: 2.000 (2023)", "Distanța până la Oslo: 20 km", "Drumul E6: 6 benzi", "Aeroportul Oslo: 15 km", "Biserica Skedsmo construită în 1871", "Suprafață industrială: 50 ha"],
       en: ["Population: 2,000 (2023)", "Distance to Oslo: 20 km", "E6 highway: 6 lanes", "Distance to airport: 15 km", "Skedsmo Church built 1871", "Industrial area: 50 ha"],
-    }, image: "/poi-images/norway-skedsmokorset-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-lillestrom-cities-v2",
     type: "city",
@@ -434,7 +447,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 14.000 (2023)", "Terület: 15 km²", "Strømmen Storsenter: 200 üzlet", "Vasútállomás: 1854", "Távolság Oslótól: 20 km", "Legmagasabb pont: 120 m"],
       ro: ["Populație: 14.000 (2023)", "Suprafață: 15 km²", "Strømmen Storsenter: 200 magazine", "Gara Lillestrøm deschisă în 1854", "Distanța până la Oslo: 20 km", "Altitudine maximă: 120 m"],
       en: ["Population: 14,000 (2023)", "Area: 15 km²", "Strømmen Storsenter: 200 shops", "Lillestrøm station opened 1854", "Distance to Oslo: 20 km", "Highest point: 120 m"],
-    }, image: "/poi-images/norway-lillestrom-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-gjøvik-cities-v2",
     type: "city",
@@ -465,7 +479,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 30.000 (2023)", "Terület: 672 km²", "Olimpiai csarnok épült: 1993", "Jégcsarnok térfogata: 53.000 m³", "Üvegmúzeum nyitva: 1995", "Legnagyobb templom: 500 férőhely"],
       ro: ["Populație: 30.000 (2023)", "Suprafață: 672 km²", "Sala olimpică construită în 1993", "Volumul patinoarului: 53.000 m³", "Muzeul sticlei deschis în 1995", "Biserica principală: 500 de locuri"],
       en: ["Population: 30,000 (2023)", "Area: 672 km²", "Olympic hall built 1993", "Ice rink volume: 53,000 m³", "Glass museum opened 1995", "Main church capacity: 500"],
-    }, image: "/poi-images/norway-gjøvik-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-kongsberg-cities-v2",
     type: "city",
@@ -496,7 +511,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 27.000 (2023)", "Terület: 792 km²", "Ezüstbányászat: 1623–1958", "Legmélyebb akna: 1.000 m", "Templom épült: 1761", "Kitermelt ezüst: 1.300 tonna"],
       ro: ["Populație: 27.000 (2023)", "Suprafață: 792 km²", "Exploatarea argintului 1623–1958", "Adâncimea maximă a minei: 1.000 m", "Biserica construită în 1761", "Argint extras: 1.300 de tone"],
       en: ["Population: 27,000 (2023)", "Area: 792 km²", "Silver mining 1623–1958", "Deepest mine: 1,000 m", "Church built 1761", "Total silver production: 1,300 tonnes"],
-    }, image: "/poi-images/norway-kongsberg-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-stjordal-cities-v2",
     type: "city",
@@ -527,7 +543,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 24.000 (2023)", "Terület: 938 km²", "Repülőtér távolsága: 5 km", "Templom épült: 1180", "Legmagasabb hegy: Storheia, 804 m", "Partvonal hossza: 50 km"],
       ro: ["Populație: 24.000 (2023)", "Suprafață: 938 km²", "Aeroportul Trondheim la 5 km", "Biserica construită în 1180", "Cel mai înalt munte: Storheia, 804 m", "Lungimea coastei: 50 km"],
       en: ["Population: 24,000 (2023)", "Area: 938 km²", "Trondheim Airport: 5 km away", "Church built 1180", "Highest mountain: Storheia, 804 m", "Coastline length: 50 km"],
-    }, image: "/poi-images/norway-stjordal-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-steinkjer-cities-v2",
     type: "city",
@@ -558,7 +575,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 24.000 (2023)", "Terület: 1.564 km²", "Templom épült: 1865", "Legmagasabb pont: Gjersvikfjellet, 1.000 m", "Leghosszabb folyó: Steinkjerelva, 30 km", "Tavak száma: több mint 100"],
       ro: ["Populație: 24.000 (2023)", "Suprafață: 1.564 km²", "Biserica construită în 1865", "Altitudine maximă: Gjersvikfjellet, 1.000 m", "Cel mai lung râu: Steinkjerelva, 30 km", "Număr de lacuri: peste 100"],
       en: ["Population: 24,000 (2023)", "Area: 1,564 km²", "Church built 1865", "Highest point: Gjersvikfjellet, 1,000 m", "Longest river: Steinkjerelva, 30 km", "Number of lakes: over 100"],
-    }, image: "/poi-images/norway-steinkjer-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-namsos-cities-v2",
     type: "city",
@@ -589,7 +607,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 13.000 (2023)", "Terület: 777 km²", "Namsen folyó hossza: 210 km", "Kikötő épült: 1845", "Városi jog: 1845", "Jazzfesztivál 1985 óta"],
       ro: ["Populație: 13.000 (2023)", "Suprafață: 777 km²", "Râul Namsen: 210 km lungime", "Port construit în 1845", "Oraș charter în 1845", "Festival de jazz din 1985"],
       en: ["Population: 13,000 (2023)", "Area: 777 km²", "Namsen river: 210 km long", "Port built 1845", "Town charter 1845", "Jazz festival since 1985"],
-    }, image: "/poi-images/norway-namsos-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-mosjoen-cities-v2",
     type: "city",
@@ -620,7 +639,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 10.000 (2023)", "Terület: 1.300 km²", "Városi jog: 1875", "Alumíniumgyár 1958 óta", "Legmagasabb pont: Kvitfjellet, 1.000 m", "Børgefjell Nemzeti Park: 1.447 km²"],
       ro: ["Populație: 10.000 (2023)", "Suprafață: 1.300 km²", "Oraș charter 1875", "Uzina de aluminiu din 1958", "Altitudine maximă: Kvitfjellet, 1.000 m", "Parcul Național Børgefjell: 1.447 km²"],
       en: ["Population: 10,000 (2023)", "Area: 1,300 km²", "Town charter 1875", "Aluminium plant since 1958", "Highest point: Kvitfjellet, 1,000 m", "Børgefjell National Park: 1,447 km²"],
-    }, image: "/poi-images/norway-mosjoen-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-mo-i-rana-cities-v2",
     type: "city",
@@ -651,7 +671,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 18.000 (2023)", "Terület: 1.500 km²", "Acélgyár épült: 1955", "Svartisen gleccser: 370 km²", "Legmagasabb hegy: Mofjellet, 600 m", "E12-es alagút: 5 km"],
       ro: ["Populație: 18.000 (2023)", "Suprafață: 1.500 km²", "Uzina de oțel construită în 1955", "Ghețarul Svartisen: 370 km²", "Cel mai înalt munte: Mofjellet, 600 m", "Tunelul E12: 5 km"],
       en: ["Population: 18,000 (2023)", "Area: 1,500 km²", "Steel mill built 1955", "Svartisen glacier: 370 km²", "Highest peak: Mofjellet, 600 m", "E12 tunnel: 5 km long"],
-    }, image: "/poi-images/norway-mo-i-rana-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-farsund-cities-v2",
     type: "city",
@@ -682,7 +703,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 10.000 (2023)", "Terület: 262 km²", "Kikötő alapítva: 16. század", "Legnagyobb sziget: Hidra", "Scott született: 1874", "Templom épült: 1879"],
       ro: ["Populație: 10.000 (2023)", "Suprafață: 262 km²", "Port fondat în secolul al XVI-lea", "Cea mai mare insulă: Hidra", "Scott născut în 1874", "Biserica construită în 1879"],
       en: ["Population: 10,000 (2023)", "Area: 262 km²", "Port founded in the 16th century", "Largest island: Hidra", "Scott born 1874", "Church built 1879"],
-    }, image: "/poi-images/norway-farsund-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-flekkefjord-cities-v2",
     type: "city",
@@ -713,7 +735,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 9.000 (2023)", "Terület: 543 km²", "Városi jog: 1842", "Templom épült: 1833", "Legmagasabb pont: 300 m", "Szigetek száma: több mint 50"],
       ro: ["Populație: 9.000 (2023)", "Suprafață: 543 km²", "Oraș charter 1842", "Biserica construită în 1833", "Altitudine maximă: 300 m", "Număr de insule: peste 50"],
       en: ["Population: 9,000 (2023)", "Area: 543 km²", "Town charter 1842", "Church built 1833", "Highest point: 300 m", "Number of islands: over 50"],
-    }, image: "/poi-images/norway-flekkefjord-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-odda-cities-v2",
     type: "city",
@@ -744,7 +767,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 7.000 (2023)", "Terület: 1.300 km²", "Ipar 1908-tól", "Trolltunga magassága: 1.100 m", "Folgefonna gleccser: 207 km²", "Templom épült: 1870"],
       ro: ["Populație: 7.000 (2023)", "Suprafață: 1.300 km²", "Industria din 1908", "Trolltunga: 1.100 m altitudine", "Ghețarul Folgefonna: 207 km²", "Biserica construită în 1870"],
       en: ["Population: 7,000 (2023)", "Area: 1,300 km²", "Industry start: 1908", "Trolltunga elevation: 1,100 m", "Folgefonna glacier: 207 km²", "Church built 1870"],
-    }, image: "/poi-images/norway-odda-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-førde-cities-v2",
     type: "city",
@@ -775,7 +799,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 13.000 (2023)", "Terület: 1.300 km²", "Førdefjord hossza: 40 km", "Legmagasabb hegy: Snøfjellet, 1.600 m", "Kulturház épült: 2000", "Jostedalsbreen NP: 1.310 km²"],
       ro: ["Populație: 13.000 (2023)", "Suprafață: 1.300 km²", "Fiordul Førde: 40 km lungime", "Cel mai înalt munte: Snøfjellet, 1.600 m", "Casa de cultură construită în 2000", "Parcul Național Jostedalsbreen: 1.310 km²"],
       en: ["Population: 13,000 (2023)", "Area: 1,300 km²", "Førdefjord length: 40 km", "Highest mountain: Snøfjellet, 1,600 m", "Culture house built 2000", "Jostedalsbreen NP: 1,310 km²"],
-    }, image: "/poi-images/norway-førde-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-måløy-cities-v2",
     type: "city",
@@ -806,7 +831,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: 5.000 (2023)", "Terület: 60 km²", "Måløy-i csata: 1941", "Halfeldolgozás 1900 óta", "Híd épült: 1973", "Legmagasabb pont: 200 m"],
       ro: ["Populație: 5.000 (2023)", "Suprafață: 60 km²", "Bătălia de la Måløy 1941", "Procesarea peștelui din 1900", "Pod construit în 1973", "Altitudine maximă: 200 m"],
       en: ["Population: 5,000 (2023)", "Area: 60 km²", "Battle of Måløy 1941", "Fish processing since 1900", "Bridge built 1973", "Highest point: 200 m"],
-    }, image: "/poi-images/norway-måløy-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-brønnøysund-cities-v2",
     type: "city",
@@ -837,7 +863,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Brønnøysund lakossága körülbelül 5000 fő (2021)", "A Brønnøysund-híd 1979-ben készült el, hossza 550 m", "A repülőtér a központtól 2 km-re északkeletre található", "A város területe 3,4 km²", "A legmagasabb hőmérséklet 32,0 °C volt 2018 júliusában", "Évente körülbelül 200 esős nap van"],
       ro: ["Brønnøysund are aproximativ 5.000 de locuitori (2021)", "Podul Brønnøysund a fost deschis în 1979 și are 550 m lungime", "Aeroportul este situat la 2 km nord-est de centrul orașului", "Suprafața orașului este de 3,4 km²", "Temperatura maximă a fost de 32,0 °C în iulie 2018", "Regiunea are aproximativ 200 de zile ploioase pe an"],
       en: ["Brønnøysund has a population of about 5,000 (2021)", "The Brønnøysund Bridge opened in 1979 and is 550 m long", "The airport is located 2 km northeast of the city center", "The town area is 3.4 km²", "The highest recorded temperature was 32.0 °C in July 2018", "The region experiences about 200 rainy days annually"],
-    }, image: "/poi-images/norway-brønnøysund-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-sandnessjoen-cities-v2",
     type: "city",
@@ -868,7 +895,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Sandnessjøen lakossága körülbelül 6000 fő (2021)", "A Hét Nővér csúcsai 800-1072 méter magasak", "A kikötőt 1793-ban alapították", "A város területe 2,2 km²", "A repülőtér 1975-ben nyílt meg", "Az éves átlaghőmérséklet 5,5 °C"],
       ro: ["Sandnessjøen are aproximativ 6.000 de locuitori (2021)", "Vârfurile Celor Șapte Surori au între 800 și 1.072 m", "Portul a fost fondat în 1793", "Suprafața orașului este de 2,2 km²", "Aeroportul Sandnessjøen a fost deschis în 1975", "Temperatura medie anuală este de 5,5 °C"],
       en: ["Sandnessjøen has a population of about 6,000 (2021)", "The Seven Sisters peaks range from 800 to 1,072 meters", "The port was founded in 1793", "The town area is 2.2 km²", "Sandnessjøen Airport opened in 1975", "The average annual temperature is 5.5 °C"],
-    }, image: "/poi-images/norway-sandnessjoen-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-vadsø-cities-v2",
     type: "city",
@@ -899,7 +927,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Vadsø lakossága körülbelül 5200 fő (2021)", "A repülőtér 1974-ben nyílt meg", "A város területe 3,4 km²", "A Vadsøya híd 310 m hosszú", "Az átlagos júliusi hőmérséklet 12,5 °C", "Vadsø a 70. szélességi fokon fekszik"],
       ro: ["Vadsø are aproximativ 5.200 de locuitori (2021)", "Aeroportul Vadsø a fost deschis în 1974", "Suprafața orașului este de 3,4 km²", "Podul Vadsøya are 310 m lungime", "Temperatura medie în iulie este de 12,5 °C", "Vadsø se află la latitudinea 70° N"],
       en: ["Vadsø has a population of about 5,200 (2021)", "Vadsø Airport opened in 1974", "The town area is 3.4 km²", "The Vadsøya Bridge is 310 m long", "The average July temperature is 12.5 °C", "Vadsø is located at 70° north latitude"],
-    }, image: "/poi-images/norway-vadsø-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-hammerfest-cities-v2",
     type: "city",
@@ -930,7 +959,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Hammerfest lakossága körülbelül 7500 fő (2021)", "A várost 1789-ben alapították", "Az 1890-es tűzvész az épületek 90%-át elpusztította", "A Snehvit LNG-üzemet 2007-ben helyezték üzembe", "Az átlagos téli hőmérséklet -5 °C", "Hammerfest az északi szélesség 70°39'-én fekszik"],
       ro: ["Hammerfest are aproximativ 7.500 de locuitori (2021)", "Orașul a fost fondat în 1789", "Incendiul din 1890 a distrus 90% din clădiri", "Instalația LNG Snehvit a fost pusă în funcțiune în 2007", "Temperatura medie de iarnă este de -5 °C", "Hammerfest se află la 70°39' latitudine nordică"],
       en: ["Hammerfest has a population of about 7,500 (2021)", "The town was founded in 1789", "The fire of 1890 destroyed 90% of buildings", "The Snehvit LNG plant started operations in 2007", "The average winter temperature is -5 °C", "Hammerfest is located at 70°39' north latitude"],
-    }, image: "/poi-images/norway-hammerfest-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-kirkenes-cities-v2",
     type: "city",
@@ -961,7 +991,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Kirkenes lakossága körülbelül 3500 fő (2021)", "A Sydvaranger bánya évi 3 millió tonna vasércet termelt", "A kikötő vízmélysége 10 méter", "A várost 1944-ben a német csapatok felgyújtották", "A repülőtér 1963-ban nyílt meg", "Az orosz határ 15 km-re van"],
       ro: ["Kirkenes are aproximativ 3.500 de locuitori (2021)", "Mina Sydvaranger producea 3 milioane de tone de minereu de fier pe an", "Portul are o adâncime de 10 metri", "Orașul a fost incendiat de trupele germane în 1944", "Aeroportul Kirkenes a fost deschis în 1963", "Granița cu Rusia este la 15 km distanță"],
       en: ["Kirkenes has a population of about 3,500 (2021)", "The Sydvaranger mine produced 3 million tons of iron ore annually", "The harbor has a water depth of 10 meters", "The town was burned by German troops in 1944", "Kirkenes Airport opened in 1963", "The Russian border is 15 km away"],
-    }, image: "/poi-images/norway-kirkenes-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-bardufoss-cities-v2",
     type: "city",
@@ -992,7 +1023,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Bardufoss lakossága körülbelül 2000 fő (2021)", "A repülőtér 1938-ban nyílt meg", "A Bardufoss légibázis 1940 óta működik", "A kifutópálya hossza 2200 m", "A Målselva folyó 145 km hosszú", "Az átlagos júliusi hőmérséklet 14 °C"],
       ro: ["Bardufoss are aproximativ 2.000 de locuitori (2021)", "Aeroportul Bardufoss a fost deschis în 1938", "Baza aeriană Bardufoss funcționează din 1940", "Pista are 2.200 m lungime", "Râul Målselva are 145 km lungime", "Temperatura medie în iulie este de 14 °C"],
       en: ["Bardufoss has a population of about 2,000 (2021)", "Bardufoss Airport opened in 1938", "Bardufoss Air Base has been operating since 1940", "The runway is 2,200 m long", "The Målselva River is 145 km long", "The average July temperature is 14 °C"],
-    }, image: "/poi-images/norway-bardufoss-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-finnsnes-cities-v2",
     type: "city",
@@ -1023,7 +1055,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Finnsnes lakossága körülbelül 4500 fő (2021)", "A Gisundbrua hidat 1972-ben nyitották meg, hossza 1500 m", "Senja területe 1586 km²", "A finnssnesi templomot 1979-ben szentelték fel", "A Finnsnes-fjord 12 km hosszú", "Az átlagos téli hőmérséklet -2 °C"],
       ro: ["Finnsnes are aproximativ 4.500 de locuitori (2021)", "Podul Gisundbrua a fost deschis în 1972 și are 1.500 m lungime", "Senja are o suprafață de 1.586 km²", "Biserica Finnsnes a fost sfințită în 1979", "Fiordul Finnsnes are 12 km lungime", "Temperatura medie de iarnă este de -2 °C"],
       en: ["Finnsnes has a population of about 4,500 (2021)", "The Gisundbrua bridge opened in 1972 and is 1,500 m long", "Senja has an area of 1,586 km²", "Finnsnes Church was consecrated in 1979", "The Finnsnesfjord is 12 km long", "The average winter temperature is -2 °C"],
-    }, image: "/poi-images/norway-finnsnes-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-harstad-cities-v2",
     type: "city",
@@ -1054,7 +1087,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Harstad lakossága körülbelül 23.000 fő (2021)", "A Trondenes templom 1250 körül épült", "A kikötő mélysége eléri a 25 métert", "A Harstad/Narvik repülőtér 1959-ben nyílt meg", "A város területe 4,5 km²", "Az átlagos júliusi hőmérséklet 13 °C"],
       ro: ["Harstad are aproximativ 23.000 de locuitori (2021)", "Biserica Trondenes a fost construită în jurul anului 1250", "Portul are o adâncime de până la 25 de metri", "Aeroportul Harstad/Narvik a fost deschis în 1959", "Suprafața orașului este de 4,5 km²", "Temperatura medie în iulie este de 13 °C"],
       en: ["Harstad has a population of about 23,000 (2021)", "Trondenes Church was built around 1250", "The harbor has a depth of up to 25 meters", "Harstad/Narvik Airport opened in 1959", "The town area is 4.5 km²", "The average July temperature is 13 °C"],
-    }, image: "/poi-images/norway-harstad-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-sortland-cities-v2",
     type: "city",
@@ -1085,7 +1119,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Sortland lakossága körülbelül 5000 fő (2021)", "A házakat 1998-tól festették kékre", "A kikötő rakpartjának hossza 500 m", "A Sortland híd 700 m hosszú", "A város területe 2,8 km²", "Az éves átlaghőmérséklet 5 °C"],
       ro: ["Sortland are aproximativ 5.000 de locuitori (2021)", "Casele au fost vopsite în albastru începând cu 1998", "Portul are o lungime a cheiului de 500 de metri", "Podul Sortland are 700 m lungime", "Suprafața orașului este de 2,8 km²", "Temperatura medie anuală este de 5 °C"],
       en: ["Sortland has a population of about 5,000 (2021)", "The houses have been painted blue since 1998", "The harbor has a quay length of 500 meters", "Sortland Bridge is 700 m long", "The town area is 2.8 km²", "The average annual temperature is 5 °C"],
-    }, image: "/poi-images/norway-sortland-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-svolvaer-cities-v2",
     type: "city",
@@ -1116,7 +1151,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Svolvær lakossága körülbelül 4500 fő (2021)", "A Svolvær-székesegyházat 1934-ben építették", "A kikötő vízmélysége 8 méter", "A Svolvær repülőtér 1972-ben nyílt meg", "A város területe 2,1 km²", "Az átlagos júliusi hőmérséklet 12,5 °C"],
       ro: ["Svolvær are aproximativ 4.500 de locuitori (2021)", "Catedrala Svolvær a fost construită în 1934", "Portul are o adâncime de 8 metri", "Aeroportul Svolvær a fost deschis în 1972", "Suprafața orașului este de 2,1 km²", "Temperatura medie în iulie este de 12,5 °C"],
       en: ["Svolvær has a population of about 4,500 (2021)", "Svolvær Cathedral was built in 1934", "The harbor has a water depth of 8 meters", "Svolvær Airport opened in 1972", "The town area is 2.1 km²", "The average July temperature is 12.5 °C"],
-    }, image: "/poi-images/norway-svolvaer-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-leknes-cities-v2",
     type: "city",
@@ -1147,7 +1183,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Leknes lakossága körülbelül 3000 fő (2021)", "A Leknes repülőtér 1972-ben nyílt meg", "A leknesi templomot 1994-ben szentelték fel", "A város területe 1,8 km²", "A Leknes-fjord 8 km hosszú", "Az átlagos téli hőmérséklet -1 °C"],
       ro: ["Leknes are aproximativ 3.000 de locuitori (2021)", "Aeroportul Leknes a fost deschis în 1972", "Biserica Leknes a fost sfințită în 1994", "Suprafața orașului este de 1,8 km²", "Fiordul Leknes are 8 km lungime", "Temperatura medie de iarnă este de -1 °C"],
       en: ["Leknes has a population of about 3,000 (2021)", "Leknes Airport opened in 1972", "Leknes Church was consecrated in 1994", "The town area is 1.8 km²", "The Leknesfjord is 8 km long", "The average winter temperature is -1 °C"],
-    }, image: "/poi-images/norway-leknes-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-andenes-cities-v2",
     type: "city",
@@ -1178,7 +1215,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Andenes lakossága körülbelül 2500 fő (2021)", "Az Andøya rakétabázist 1962-ben alapították", "Az Andenes világítótorony 40 méter magas", "A kikötő rakpartjának hossza 300 m", "A város területe 1,5 km²", "Az átlagos júliusi hőmérséklet 11 °C"],
       ro: ["Andenes are aproximativ 2.500 de locuitori (2021)", "Baza de rachete Andøya a fost fondată în 1962", "Farul Andenes are 40 de metri înălțime", "Portul are o lungime a cheiului de 300 de metri", "Suprafața orașului este de 1,5 km²", "Temperatura medie în iulie este de 11 °C"],
       en: ["Andenes has a population of about 2,500 (2021)", "The Andøya Rocket Range was established in 1962", "Andenes Lighthouse is 40 meters tall", "The harbor has a quay length of 300 meters", "The town area is 1.5 km²", "The average July temperature is 11 °C"],
-    }, image: "/poi-images/norway-andenes-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-setermoen-cities-v2",
     type: "city",
@@ -1209,7 +1247,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Setermoen lakossága körülbelül 2000 fő (2021)", "A Bardu helyőrséget 1898-ban alapították", "A Harckocsimúzeum 1995-ben nyílt meg", "A Barduelva folyó 50 km hosszú", "A város területe 1,2 km²", "Az átlagos téli hőmérséklet -8 °C"],
       ro: ["Setermoen are aproximativ 2.000 de locuitori (2021)", "Garnizoana Bardu a fost fondată în 1898", "Muzeul Tancurilor a fost deschis în 1995", "Râul Barduelva are 50 km lungime", "Suprafața orașului este de 1,2 km²", "Temperatura medie de iarnă este de -8 °C"],
       en: ["Setermoen has a population of about 2,000 (2021)", "The Bardu Garrison was established in 1898", "The Tank Museum opened in 1995", "The Barduelva River is 50 km long", "The town area is 1.2 km²", "The average winter temperature is -8 °C"],
-    }, image: "/poi-images/norway-setermoen-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-skjervøy-cities-v2",
     type: "city",
@@ -1240,7 +1279,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Skjervøy lakossága körülbelül 2800 fő (2021)", "A skjervøy-i templomot 1965-ben szentelték fel", "A kikötő vízmélysége 6 méter", "Skjervøy szigete 10 km hosszú", "A repülőtér kifutópályája 800 m hosszú", "Az átlagos júliusi hőmérséklet 12 °C"],
       ro: ["Skjervøy are aproximativ 2.800 de locuitori (2021)", "Biserica Skjervøy a fost sfințită în 1965", "Portul are o adâncime de 6 metri", "Insula Skjervøy are 10 km lungime", "Pista aeroportului are 800 de metri", "Temperatura medie în iulie este de 12 °C"],
       en: ["Skjervøy has a population of about 2,800 (2021)", "Skjervøy Church was consecrated in 1965", "The harbor has a water depth of 6 meters", "Skjervøy island is 10 km long", "The airport runway is 800 meters long", "The average July temperature is 12 °C"],
-    }, image: "/poi-images/norway-skjervøy-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-lakselv-cities-v2",
     type: "city",
@@ -1271,7 +1311,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Lakselv lakossága körülbelül 2300 fő (2021)", "A Lakselv repülőtér 1975-ben nyílt meg", "A Lakselva folyó 45 km hosszú", "A város területe 1,4 km²", "A Számi Parlamentet 1989-ben alapították", "Az átlagos júliusi hőmérséklet 13 °C"],
       ro: ["Lakselv are aproximativ 2.300 de locuitori (2021)", "Aeroportul Lakselv a fost deschis în 1975", "Râul Lakselva are 45 km lungime", "Suprafața orașului este de 1,4 km²", "Parlamentul Sami a fost fondat în 1989", "Temperatura medie în iulie este de 13 °C"],
       en: ["Lakselv has a population of about 2,300 (2021)", "Lakselv Airport opened in 1975", "The Lakselva River is 45 km long", "The town area is 1.4 km²", "The Sami Parliament was established in 1989", "The average July temperature is 13 °C"],
-    }, image: "/poi-images/norway-lakselv-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-honningsvåg-cities-v2",
     type: "city",
@@ -1302,7 +1343,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Honningsvåg lakossága körülbelül 2400 fő (2021)", "A Honningsvåg repülőtér 1977-ben nyílt meg", "A város az északi szélesség 71°-án fekszik", "A kikötő rakpartjának hossza 400 m", "A Nordkapp magassága 307 méter", "Az átlagos júliusi hőmérséklet 10 °C"],
       ro: ["Honningsvåg are aproximativ 2.400 de locuitori (2021)", "Aeroportul Honningsvåg a fost deschis în 1977", "Orașul este situat la 71° latitudine nordică", "Portul are o lungime a cheiului de 400 de metri", "Stânca Nordkapp are 307 metri înălțime", "Temperatura medie în iulie este de 10 °C"],
       en: ["Honningsvåg has a population of about 2,400 (2021)", "Honningsvåg Airport opened in 1977", "The town is located at 71° north latitude", "The harbor has a quay length of 400 meters", "The North Cape cliff is 307 meters high", "The average July temperature is 10 °C"],
-    }, image: "/poi-images/norway-honningsvåg-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-reine-cities-v2",
     type: "city",
@@ -1333,7 +1375,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Reine lakossága körülbelül 300 fő (2021)", "A Reinebringen 447 méter magas", "A halászkunyhók a 19. századból származnak", "A kikötő vízmélysége 5 méter", "A város területe 0,4 km²", "Az átlagos júliusi hőmérséklet 12 °C"],
       ro: ["Reine are aproximativ 300 de locuitori (2021)", "Reinebringen are 447 de metri înălțime", "Căsuțele pescarilor datează din secolul al XIX-lea", "Portul are o adâncime de 5 metri", "Suprafața satului este de 0,4 km²", "Temperatura medie în iulie este de 12 °C"],
       en: ["Reine has a population of about 300 (2021)", "Reinebringen is 447 meters high", "The fishermen's cabins date from the 19th century", "The harbor has a water depth of 5 meters", "The village area is 0.4 km²", "The average July temperature is 12 °C"],
-    }, image: "/poi-images/norway-reine-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-hemavan-cities-v2",
     type: "city",
@@ -1364,7 +1407,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Hemavan lakossága körülbelül 400 fő (2021)", "A Hemavan repülőtér 1999-ben nyílt meg", "A síterep 15 pályával rendelkezik", "A legmagasabb pont 1100 méter", "A város területe 0,6 km²", "Az átlagos téli hőmérséklet -10 °C"],
       ro: ["Hemavan are aproximativ 400 de locuitori (2021)", "Aeroportul Hemavan a fost deschis în 1999", "Stațiunea de schi are 15 pârtii", "Cel mai înalt punct este de 1.100 de metri", "Suprafața orașului este de 0,6 km²", "Temperatura medie de iarnă este de -10 °C"],
       en: ["Hemavan has a population of about 400 (2021)", "Hemavan Airport opened in 1999", "The ski resort has 15 slopes", "The highest point is 1,100 meters", "The town area is 0.6 km²", "The average winter temperature is -10 °C"],
-    }, image: "/poi-images/norway-hemavan-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-brønnøy-cities-v2",
     type: "city",
@@ -1395,7 +1439,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Brønnøy község lakossága körülbelül 7500 fő (2021)", "A község területe 1043 km²", "Vega szigete 2004 óta az UNESCO világörökség része", "A Brønnøy templomot 1870-ben építették", "A legmagasabb hegy 1406 méter", "Az átlagos júliusi hőmérséklet 13 °C"],
       ro: ["Comuna Brønnøy are aproximativ 7.500 de locuitori (2021)", "Suprafața comunei este de 1.043 km²", "Insula Vega face parte din Patrimoniul UNESCO din 2004", "Biserica Brønnøy a fost construită în 1870", "Cel mai înalt munte are 1.406 metri", "Temperatura medie în iulie este de 13 °C"],
       en: ["Brønnøy municipality has about 7,500 inhabitants (2021)", "The municipality area is 1,043 km²", "Vega island has been a UNESCO World Heritage site since 2004", "Brønnøy Church was built in 1870", "The highest mountain is 1,406 meters", "The average July temperature is 13 °C"],
-    }, image: "/poi-images/norway-brønnøy-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-porsgrunn-cities-v2",
     type: "city",
@@ -1426,7 +1471,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Porsgrunn lakossága körülbelül 22.000 fő (2021)", "A Porsgrunds Porselænsfabrik 1885-ben alakult", "A kikötő rakpartjának hossza 1000 m", "A város területe 6,8 km²", "Az átlagos júliusi hőmérséklet 16 °C", "Porsgrunn 30 km-re délnyugatra fekszik Skientől"],
       ro: ["Porsgrunn are aproximativ 22.000 de locuitori (2021)", "Fabrica de porțelan Porsgrund a fost fondată în 1885", "Portul are o lungime a cheiului de 1.000 de metri", "Suprafața orașului este de 6,8 km²", "Temperatura medie în iulie este de 16 °C", "Porsgrunn este situat la 30 km sud-vest de Skien"],
       en: ["Porsgrunn has a population of about 22,000 (2021)", "The Porsgrund Porcelain Factory was founded in 1885", "The harbor has a quay length of 1,000 meters", "The town area is 6.8 km²", "The average July temperature is 16 °C", "Porsgrunn is located 30 km southwest of Skien"],
-    }, image: "/poi-images/norway-porsgrunn-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-kragero-cities-v2",
     type: "city",
@@ -1457,7 +1503,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Kragerø lakossága kb. 5300 fő (2023).", "A város területe 6,5 km².", "A legmagasabb pont 302 méter tengerszint feletti magasságban van.", "A kragerøi templom 1871-ben épült.", "A júliusi átlaghőmérséklet 15 °C.", "A város 1566-ban kapott városi jogokat."],
       ro: ["Populația orașului Kragerø este de aproximativ 5.300 de locuitori (2023).", "Suprafața orașului este de 6,5 km².", "Cel mai înalt punct al municipalității este la 302 metri deasupra nivelului mării.", "Biserica din Kragerø datează din 1871.", "Temperatura medie în iulie este de 15 °C.", "Kragerø a primit statutul de oraș în 1566."],
       en: ["Kragerø was granted town status in 1566.", "Population is approximately 5,300 (2023).", "Area is 6.5 km².", "Highest point is 302 meters above sea level.", "Kragerø Church dates from 1871.", "Average July temperature is 15 °C."],
-    }, image: "/poi-images/norway-kragero-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-risør-cities-v2",
     type: "city",
@@ -1488,7 +1535,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Risør lakossága kb. 6800 fő (2023).", "A város területe 2,9 km².", "A risøri világítótorony 1847-ben épült.", "A fahajó fesztivált 1984 óta rendezik meg.", "Az éves átlaghőmérséklet 7,2 °C.", "A várost 1625-ben alapították."],
       ro: ["Populația Risør este de aproximativ 6.800 de locuitori (2023).", "Suprafața orașului este de 2,9 km².", "Farul din Risør a fost construit în 1847.", "Festivalul bărcilor de lemn are loc din 1984.", "Temperatura medie anuală este de 7,2 °C.", "Risør a fost fondat în 1625."],
       en: ["Risør was founded in 1625.", "Population is about 6,800 (2023).", "Area is 2.9 km².", "Risør Lighthouse was built in 1847.", "The Wooden Boat Festival started in 1984.", "Average annual temperature is 7.2 °C."],
-    }, image: "/poi-images/norway-risør-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-tvedestrand-cities-v2",
     type: "city",
@@ -1519,7 +1567,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Tvedestrand 1997-ben kapott városi jogokat.", "A lakosság kb. 2000 fő (2023).", "A város területe 1,8 km².", "A tvedestrandi templom 1843-ban épült.", "Az éves csapadékmennyiség átlagosan 1200 mm.", "A kikötőt a 18. században építették."],
       ro: ["Tvedestrand a primit statutul de oraș în 1997.", "Populația este de aproximativ 2.000 de locuitori (2023).", "Suprafața orașului este de 1,8 km².", "Biserica din Tvedestrand a fost construită în 1843.", "Precipitațiile medii anuale sunt de 1.200 mm.", "Portul a fost construit în secolul al XVIII-lea."],
       en: ["Tvedestrand was granted town status in 1997.", "Population is about 2,000 (2023).", "Area is 1.8 km².", "Tvedestrand Church was built in 1843.", "Average annual precipitation is 1,200 mm.", "The port was established in the 18th century."],
-    }, image: "/poi-images/norway-tvedestrand-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-grimstad-cities-v2",
     type: "city",
@@ -1550,7 +1599,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Ibsen 1828-ban született Grimstadban.", "A lakosság kb. 13.000 fő (2023).", "Az Agderi Egyetemnek itt kb. 2000 hallgatója van.", "A város területe 8,6 km².", "A kikötő Dél-Norvégia egyik legrégebbi kikötője.", "A grimstadi templom 1852-ben épült."],
       ro: ["Henrik Ibsen s-a născut în Grimstad în 1828.", "Populația este de aproximativ 13.000 de locuitori (2023).", "Universitatea Agder are aici un campus cu aproximativ 2.000 de studenți.", "Suprafața orașului este de 8,6 km².", "Portul este unul dintre cele mai vechi din sudul Norvegiei.", "Biserica din Grimstad datează din 1852."],
       en: ["Henrik Ibsen was born in Grimstad in 1828.", "Population is about 13,000 (2023).", "University of Agder campus has around 2,000 students.", "Area is 8.6 km².", "The port is one of the oldest in southern Norway.", "Grimstad Church dates from 1852."],
-    }, image: "/poi-images/norway-grimstad-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-lillesand-cities-v2",
     type: "city",
@@ -1581,7 +1631,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Lillesandot 1821-ben alapították.", "A lakosság kb. 9500 fő (2023).", "A város területe 8,1 km².", "A kikötő akár 300 hajó befogadására alkalmas.", "A lillesandi templom 1849-ben épült.", "A nyári átlagos vízhőmérséklet 18 °C."],
       ro: ["Lillesand a fost fondat în 1821.", "Populația este de aproximativ 9.500 de locuitori (2023).", "Suprafața orașului este de 8,1 km².", "Portul poate găzdui până la 300 de bărci.", "Biserica din Lillesand a fost construită în 1849.", "Temperatura medie a apei vara este de 18 °C."],
       en: ["Lillesand was founded in 1821.", "Population is about 9,500 (2023).", "Area is 8.1 km².", "The harbor can accommodate up to 300 boats.", "Lillesand Church was built in 1849.", "Average summer water temperature is 18 °C."],
-    }, image: "/poi-images/norway-lillesand-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-vennesla-cities-v2",
     type: "city",
@@ -1612,7 +1663,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Vennesla 2001-ben kapott városi jogokat.", "A lakosság kb. 14.000 fő (2023).", "A város területe 10,2 km².", "A vasútállomást 1895-ben nyitották meg.", "A Vennesla vízerőmű teljesítménye 20 MW.", "A venneslai templom 1860-ban épült."],
       ro: ["Vennesla a primit statutul de oraș în 2001.", "Populația este de aproximativ 14.000 de locuitori (2023).", "Suprafața orașului este de 10,2 km².", "Gara a fost deschisă în 1895.", "Centrala hidroelectrică Vennesla are o capacitate de 20 MW.", "Biserica din Vennesla datează din 1860."],
       en: ["Vennesla was granted town status in 2001.", "Population is about 14,000 (2023).", "Area is 10.2 km².", "The railway station opened in 1895.", "Vennesla hydropower plant has a capacity of 20 MW.", "Vennesla Church dates from 1860."],
-    }, image: "/poi-images/norway-vennesla-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-mandal-cities-v2",
     type: "city",
@@ -1643,7 +1695,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Mandal 1779-ben alapították.", "A lakosság kb. 11.000 fő (2023).", "A város területe 8,4 km².", "A Sjøsanden strand 800 méter hosszú.", "A mandali templom 1821-ben épült.", "A júliusi átlaghőmérséklet 16 °C."],
       ro: ["Mandal a fost fondat în 1779.", "Populația este de aproximativ 11.000 de locuitori (2023).", "Suprafața orașului este de 8,4 km².", "Plaja Sjøsanden are 800 de metri lungime.", "Biserica din Mandal a fost construită în 1821.", "Temperatura medie în iulie este de 16 °C."],
       en: ["Mandal was founded in 1779.", "Population is about 11,000 (2023).", "Area is 8.4 km².", "Sjøsanden beach is 800 meters long.", "Mandal Church was built in 1821.", "Average July temperature is 16 °C."],
-    }, image: "/poi-images/norway-mandal-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-lyngdal-cities-v2",
     type: "city",
@@ -1674,7 +1727,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Lyngdal 1838-ban alapították.", "A lakosság kb. 5200 fő (2023).", "A város területe 6,3 km².", "A lyngdali templom 1850-ben épült.", "A Lyngdals-fjord 20 km hosszú.", "Az éves csapadékmennyiség átlagosan 1500 mm."],
       ro: ["Lyngdal a fost fondat în 1838.", "Populația este de aproximativ 5.200 de locuitori (2023).", "Suprafața orașului este de 6,3 km².", "Biserica din Lyngdal a fost construită în 1850.", "Fiordul Lyngdalsfjord are 20 de kilometri lungime.", "Precipitațiile medii anuale sunt de 1.500 mm."],
       en: ["Lyngdal was founded in 1838.", "Population is about 5,200 (2023).", "Area is 6.3 km².", "Lyngdal Church was built in 1850.", "Lyngdalsfjord is 20 km long.", "Average annual precipitation is 1,500 mm."],
-    }, image: "/poi-images/norway-lyngdal-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-sogndal-cities-v2",
     type: "city",
@@ -1705,7 +1759,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Sogndal lakossága kb. 8000 fő (2023).", "A város a Sogne-fjord partján fekszik, amely Norvégia leghosszabb fjordja (204 km).", "A Belső-Norvégiai Egyetemnek itt kb. 1500 hallgatója van.", "A sogndali templom 1925-ben épült.", "A januári átlaghőmérséklet -2 °C.", "Sogndalt 1260-ban említik először írásban."],
       ro: ["Sogndal are aproximativ 8.000 de locuitori (2023).", "Orașul este situat pe Sognefjord, cel mai lung fiord al Norvegiei (204 km).", "Universitatea Innlandet are aici aproximativ 1.500 de studenți.", "Biserica din Sogndal datează din 1925.", "Temperatura medie în ianuarie este de -2 °C.", "Sogndal a fost menționat pentru prima dată în 1260."],
       en: ["Sogndal has about 8,000 inhabitants (2023).", "The town lies on Sognefjord, Norway's longest fjord (204 km).", "Innlandet University has around 1,500 students here.", "Sogndal Church dates from 1925.", "Average January temperature is -2 °C.", "Sogndal was first mentioned in 1260."],
-    }, image: "/poi-images/norway-sogndal-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-stryn-cities-v2",
     type: "city",
@@ -1736,7 +1791,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Stryn lakossága kb. 7200 fő (2023).", "A Jostedalsbreen gleccser területe 487 km².", "A stryni templom 1843-ban épült.", "A Nord-fjord 106 km hosszú.", "A júliusi átlaghőmérséklet 14 °C.", "Stryn 1849-ben kapott kereskedelmi jogokat."],
       ro: ["Stryn are aproximativ 7.200 de locuitori (2023).", "Ghețarul Jostedalsbreen are o suprafață de 487 km².", "Biserica din Stryn a fost construită în 1843.", "Fiordul Nordfjord are o lungime de 106 kilometri.", "Temperatura medie în iulie este de 14 °C.", "Stryn a primit privilegii comerciale în 1849."],
       en: ["Stryn has about 7,200 inhabitants (2023).", "Jostedalsbreen glacier covers 487 km².", "Stryn Church was built in 1843.", "Nordfjord is 106 km long.", "Average July temperature is 14 °C.", "Stryn received trading privileges in 1849."],
-    }, image: "/poi-images/norway-stryn-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-ulvik-cities-v2",
     type: "city",
@@ -1767,7 +1823,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Ulvik lakossága kb. 1100 fő (2023).", "A község területe 56,4 km².", "A Hardanger-fjord 179 km hosszú.", "Az ulviki templom 1858-ban épült.", "A januári átlaghőmérséklet -1 °C.", "A gyümölcstermesztés a mezőgazdasági terület 70%-át fedi le."],
       ro: ["Ulvik are aproximativ 1.100 de locuitori (2023).", "Suprafața municipalității este de 56,4 km².", "Fiordul Hardangerfjord are o lungime de 179 de kilometri.", "Biserica din Ulvik a fost construită în 1858.", "Temperatura medie în ianuarie este de -1 °C.", "Cultivarea fructelor acoperă 70% din suprafața agricolă."],
       en: ["Ulvik has about 1,100 inhabitants (2023).", "Municipality area is 56.4 km².", "Hardangerfjord is 179 km long.", "Ulvik Church was built in 1858.", "Average January temperature is -1 °C.", "Fruit growing covers 70% of agricultural land."],
-    }, image: "/poi-images/norway-ulvik-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-voss-cities-v2",
     type: "city",
@@ -1798,7 +1855,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Voss lakossága kb. 6500 fő (2023).", "A város 54 méter tengerszint feletti magasságban fekszik.", "A Voss-templom (Vangskyrkja) 1277-ből származik.", "Az éves Vossajazz Fesztivált 1973 óta rendezik meg.", "A Vosso folyó 40 km hosszú.", "A Voss Resort síterep 9 felvonóval és 30 pályával rendelkezik."],
       ro: ["Voss are aproximativ 6.500 de locuitori (2023).", "Orașul este situat la 54 de metri deasupra nivelului mării.", "Biserica Voss (Vangskyrkja) datează din 1277.", "Festivalul anual Vossajazz are loc din 1973.", "Râul Vosso are 40 de kilometri lungime.", "Stațiunea de schi Voss Resort are 9 teleschiuri și 30 de pârtii."],
       en: ["Voss has about 6,500 inhabitants (2023).", "The town lies at 54 meters above sea level.", "Voss Church (Vangskyrkja) dates from 1277.", "The annual Vossajazz Festival has been held since 1973.", "The river Vosso is 40 km long.", "Voss Resort ski area has 9 lifts and 30 slopes."],
-    }, image: "/poi-images/norway-voss-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-karmøy-cities-v2",
     type: "city",
@@ -1829,7 +1887,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Karmøy lakossága kb. 42.000 fő (2023).", "A sziget területe 229 km².", "A mongstadi olajfinomító Norvégia legnagyobbja, napi 240.000 hordó kapacitással.", "A karmøy-i rúnakő a 10. századból származik.", "Az avaldsnesi templom a 13. században épült.", "A legmagasabb pont a Håland, 95 méter."],
       ro: ["Karmøy are aproximativ 42.000 de locuitori (2023).", "Insula are o suprafață de 229 km².", "Rafinăria Mongstad este cea mai mare din Norvegia, cu o capacitate de 240.000 de barili pe zi.", "Piatra runică de Karmøy datează din secolul al X-lea.", "Biserica din Avaldsnes a fost construită în secolul al XIII-lea.", "Cel mai înalt punct este Håland, cu 95 de metri."],
       en: ["Karmøy has about 42,000 inhabitants (2023).", "The island has an area of 229 km².", "Mongstad refinery is Norway's largest, with a capacity of 240,000 barrels per day.", "The Karmøy runestone dates from the 10th century.", "Avaldsnes Church was built in the 13th century.", "The highest point is Håland at 95 meters."],
-    }, image: "/poi-images/norway-karmøy-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-kopervik-cities-v2",
     type: "city",
@@ -1860,7 +1919,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Kopervik 1866-ban alapították.", "A lakosság kb. 12.000 fő (2023).", "A város területe 7,2 km².", "A koperviki kikötő Rogaland egyik legnagyobb halászkikötője.", "A koperviki templom 1870-ben épült.", "A Kopervik Fesztivált 1992 óta rendezik meg."],
       ro: ["Kopervik a fost fondat în 1866.", "Populația este de aproximativ 12.000 de locuitori (2023).", "Suprafața orașului este de 7,2 km².", "Portul Kopervik este unul dintre cele mai mari porturi de pescuit din Rogaland.", "Biserica din Kopervik a fost construită în 1870.", "Festivalul Kopervik are loc din 1992."],
       en: ["Kopervik was founded in 1866.", "Population is about 12,000 (2023).", "Area is 7.2 km².", "Kopervik harbor is one of the largest fishing ports in Rogaland.", "Kopervik Church was built in 1870.", "The Kopervik Festival has been held since 1992."],
-    }, image: "/poi-images/norway-kopervik-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-skudeneshavn-cities-v2",
     type: "city",
@@ -1891,7 +1951,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Skudeneshavn lakossága kb. 3500 fő (2023).", "A várost 1723-ban alapították.", "Területe 2,1 km².", "Az éves Skudeneshavn Fesztivált 1995 óta rendezik meg.", "A skudeneshavni templom 1856-ban épült.", "A kikötő 150 szabadidős hajó befogadására alkalmas."],
       ro: ["Skudeneshavn are aproximativ 3.500 de locuitori (2023).", "Orașul a fost fondat în 1723.", "Suprafața este de 2,1 km².", "Festivalul anual Skudeneshavn are loc din 1995.", "Biserica din Skudeneshavn a fost construită în 1856.", "Portul poate găzdui 150 de ambarcațiuni de agrement."],
       en: ["Skudeneshavn has about 3,500 inhabitants (2023).", "The town was founded in 1723.", "Area is 2.1 km².", "The annual Skudeneshavn Festival has been held since 1995.", "Skudeneshavn Church was built in 1856.", "The harbor can accommodate 150 leisure boats."],
-    }, image: "/poi-images/norway-skudeneshavn-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-eigerøy-cities-v2",
     type: "city",
@@ -1922,7 +1983,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Az Eigerøy világítótorony 1856-ban épült.", "A torony 27 méter magas.", "A sziget területe 19,8 km².", "Eigerøy lakossága kb. 1200 fő (2023).", "Az Eigerøy híd 1973-ban nyílt meg.", "A legmagasabb pont a Litlafjellet, 120 méter."],
       ro: ["Farul Eigerøy Fyr a fost construit în 1856.", "Farul are o înălțime de 27 de metri.", "Insula are o suprafață de 19,8 km².", "Eigerøy are aproximativ 1.200 de locuitori (2023).", "Podul către Eigerøy a fost deschis în 1973.", "Cel mai înalt punct este Litlafjellet, cu 120 de metri."],
       en: ["Eigerøy Fyr lighthouse was built in 1856.", "The lighthouse is 27 meters tall.", "The island has an area of 19.8 km².", "Eigerøy has about 1,200 inhabitants (2023).", "The bridge to Eigerøy opened in 1973.", "The highest point is Litlafjellet at 120 meters."],
-    }, image: "/poi-images/norway-eigerøy-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-egersund-cities-v2",
     type: "city",
@@ -1953,7 +2015,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Egersund 1798-ban alapították.", "A lakosság kb. 11.000 fő (2023).", "A város területe 8,5 km².", "Az Egersund Fayance gyár 1979-ig működött.", "Az egersundi kikötő Norvégia egyik legnagyobb halászkikötője.", "Az egersundi templom 1868-ban épült."],
       ro: ["Egersund a fost fondat în 1798.", "Populația este de aproximativ 11.000 de locuitori (2023).", "Suprafața orașului este de 8,5 km².", "Fabrica de faianță Egersund a funcționat până în 1979.", "Portul Egersund este unul dintre cele mai mari porturi de pescuit din Norvegia.", "Biserica din Egersund a fost construită în 1868."],
       en: ["Egersund was founded in 1798.", "Population is about 11,000 (2023).", "Area is 8.5 km².", "The Egersund Fayance factory operated until 1979.", "Egersund harbor is one of Norway's largest fishing ports.", "Egersund Church was built in 1868."],
-    }, image: "/poi-images/norway-egersund-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-bryne-cities-v2",
     type: "city",
@@ -1984,7 +2047,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Bryne lakossága kb. 12.000 fő (2023).", "A várost 1878-ban kapcsolták be a vasúti hálózatba.", "Területe 9,7 km².", "Arne Næss 1912-ben született Bryne-ben.", "A bryne-i templom 1895-ben épült.", "A Bryne Fesztivált 1990 óta rendezik meg."],
       ro: ["Bryne are aproximativ 12.000 de locuitori (2023).", "Orașul a fost conectat la calea ferată în 1878.", "Suprafața este de 9,7 km².", "Arne Næss s-a născut în Bryne în 1912.", "Biserica din Bryne a fost construită în 1895.", "Festivalul Bryne are loc din 1990."],
       en: ["Bryne has about 12,000 inhabitants (2023).", "The town was connected to the railway in 1878.", "Area is 9.7 km².", "Arne Næss was born in Bryne in 1912.", "Bryne Church was built in 1895.", "The Bryne Festival has been held since 1990."],
-    }, image: "/poi-images/norway-bryne-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-kleppe-cities-v2",
     type: "city",
@@ -2015,7 +2079,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Kleppe lakossága kb. 8500 fő (2023).", "A város területe 5,3 km².", "Klepp községet 1838-ban alapították.", "A kleppe-i templom 1860-ban épült.", "A legközelebbi strand 3 km-re található.", "A júliusi átlaghőmérséklet 16 °C."],
       ro: ["Kleppe are aproximativ 8.500 de locuitori (2023).", "Suprafața orașului este de 5,3 km².", "Municipalitatea Klepp a fost fondată în 1838.", "Biserica din Kleppe a fost construită în 1860.", "Cea mai apropiată plajă este la 3 km distanță.", "Temperatura medie în iulie este de 16 °C."],
       en: ["Kleppe has about 8,500 inhabitants (2023).", "Area is 5.3 km².", "Klepp municipality was founded in 1838.", "Kleppe Church was built in 1860.", "The nearest beach is 3 km away.", "Average July temperature is 16 °C."],
-    }, image: "/poi-images/norway-kleppe-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-sola-cities-v2",
     type: "city",
@@ -2046,7 +2111,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Sola lakossága kb. 27.000 fő (2023).", "A Stavangeri repülőtér Norvégia második legnagyobb repülőtere, évi 4 millió utassal.", "A Sola templom (Sola kyrkje) a 11. századból származik.", "A Solastranden strand 2,5 km hosszú.", "A Sola Régészeti Múzeum 1996-ban nyílt meg.", "Sola község területe 69 km²."],
       ro: ["Sola are aproximativ 27.000 de locuitori (2023).", "Aeroportul Stavanger este al doilea ca mărime din Norvegia, cu peste 4 milioane de pasageri anual.", "Biserica Sola (Sola kyrkje) datează din secolul al XI-lea.", "Plaja Solastranden are o lungime de 2,5 km.", "Muzeul Arheologic Sola a fost deschis în 1996.", "Suprafața municipalității Sola este de 69 km²."],
       en: ["Sola has about 27,000 inhabitants (2023).", "Stavanger Airport is Norway's second largest with over 4 million passengers annually.", "Sola Church (Sola kyrkje) dates from the 11th century.", "Solastranden beach is 2.5 km long.", "Sola Archaeological Museum opened in 1996.", "Area of Sola municipality is 69 km²."],
-    }, image: "/poi-images/norway-sola-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-randaberg-cities-v2",
     type: "city",
@@ -2077,7 +2143,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Terület: 25 km²", "Népesség: kb. 10 000 fő (2023)", "Legmagasabb pont: 100 m tengerszint felett", "Randaberg templom építése: 13. század", "Védett természeti területek száma: 3", "Mezőgazdasági terület aránya: 40%"],
       ro: ["Suprafață: 25 km²", "Populație: aproximativ 10.000 locuitori", "Altitudine maximă: 100 m", "Numărul de situri arheologice: peste 50", "Anul înființării comunei: 1838", "Distanța până la Stavanger: 15 km"],
       en: ["Area: 25 km²", "Population: approx. 10,000 (2023)", "Highest point: 100 m above sea level", "Year established as municipality: 1838", "Number of archaeological sites: over 50", "Distance to Stavanger: 15 km"],
-    }, image: "/poi-images/norway-randaberg-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-tysvær-cities-v2",
     type: "city",
@@ -2108,7 +2175,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Terület: 420 km²", "Népesség: kb. 11 000 fő (2023)", "Legmagasabb pont: 600 m", "Tysværi templom építése: 13. század", "Fjære-kilátó magassága: 200 m", "E39 autópálya hossza a községben: 30 km"],
       ro: ["Suprafață: 420 km²", "Populație: aproximativ 11.000 locuitori", "Altitudine maximă: 600 m", "Număr de lacuri: peste 50", "Lungimea coastei: 150 km", "Distanța până la Haugesund: 20 km"],
       en: ["Area: 420 km²", "Population: approx. 11,000 (2023)", "Highest point: 600 m above sea level", "Number of lakes: over 50", "Coastline length: 150 km", "Distance to Haugesund: 20 km"],
-    }, image: "/poi-images/norway-tysvær-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-vindafjord-cities-v2",
     type: "city",
@@ -2139,7 +2207,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Terület: 620 km²", "Népesség: kb. 8 500 fő (2023)", "Legmagasabb pont: 800 m", "Vindafjord templom építése: 1650", "Vízesések száma: 10", "Halfeldolgozó üzemek száma: 3"],
       ro: ["Suprafață: 620 km²", "Populație: aproximativ 8.500 locuitori", "Altitudine maximă: 800 m", "Număr de centrale hidroelectrice: 5", "Anul construirii bisericii Vindafjord: 1650", "Lungimea fiordului Vindafjord: 30 km"],
       en: ["Area: 620 km²", "Population: approx. 8,500 (2023)", "Highest point: 800 m above sea level", "Number of hydroelectric plants: 5", "Year built of Vindafjord Church: 1650", "Length of Vindafjord: 30 km"],
-    }, image: "/poi-images/norway-vindafjord-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-sauda-cities-v2",
     type: "city",
@@ -2170,7 +2239,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Terület: 620 km²", "Népesség: kb. 4 600 fő (2023)", "Legmagasabb pont: 1 600 m", "Sauda Smelteverk alapítása: 1915", "Folgefonna gleccser területe: 220 km²", "Sauda Színház befogadóképessége: 300 fő"],
       ro: ["Suprafață: 620 km²", "Populație: aproximativ 4.600 locuitori", "Altitudine maximă: 1.600 m", "Anul înființării Sauda Smelteverk: 1915", "Producția anuală de feromangan: 200.000 tone", "Lungimea fiordului Saudafjord: 10 km"],
       en: ["Area: 620 km²", "Population: approx. 4,600 (2023)", "Highest point: 1,600 m above sea level", "Year established of Sauda Smelteverk: 1915", "Annual ferromanganese production: 200,000 tonnes", "Length of Saudafjord: 10 km"],
-    }, image: "/poi-images/norway-sauda-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-suldal-cities-v2",
     type: "city",
@@ -2201,7 +2271,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Terület: 1 540 km²", "Népesség: kb. 3 800 fő (2023)", "Legmagasabb pont: 1 500 m", "Suldalsvatnet-tó mélysége: 380 m", "Suldal templom építése: 1650", "Vízerőművek száma: 6"],
       ro: ["Suprafață: 1.540 km²", "Populație: aproximativ 3.800 locuitori", "Altitudine maximă: 1.500 m", "Adâncimea lacului Suldalsvatnet: 380 m", "Număr de centrale hidroelectrice: 6", "Lungimea fiordului Suldalsfjord: 20 km"],
       en: ["Area: 1,540 km²", "Population: approx. 3,800 (2023)", "Highest point: 1,500 m above sea level", "Depth of Suldalsvatnet lake: 380 m", "Number of hydroelectric plants: 6", "Length of Suldalsfjord: 20 km"],
-    }, image: "/poi-images/norway-suldal-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-hjelmeland-cities-v2",
     type: "city",
@@ -2232,7 +2303,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Terület: 1 060 km²", "Népesség: kb. 2 600 fő (2023)", "Legmagasabb pont: 1 200 m", "Viking leletek száma: 100", "Hjelmeland templom építése: 1750", "Idse-fjord hossza: 15 km"],
       ro: ["Suprafață: 1.060 km²", "Populație: aproximativ 2.600 locuitori", "Altitudine maximă: 1.200 m", "Număr de situri arheologice: 20", "Anul construirii bisericii Hjelmeland: 1750", "Lungimea fiordului Idsefjord: 15 km"],
       en: ["Area: 1,060 km²", "Population: approx. 2,600 (2023)", "Highest point: 1,200 m above sea level", "Number of archaeological sites: 20", "Year built of Hjelmeland Church: 1750", "Length of Idsefjord: 15 km"],
-    }, image: "/poi-images/norway-hjelmeland-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-forsand-cities-v2",
     type: "city",
@@ -2263,7 +2335,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Terület: 842 km²", "Népesség: kb. 1 200 fő (2019)", "Preikestolen magassága: 604 m", "Éves látogatók száma: 300 000", "Lyse-fjord hossza: 42 km", "Sandnes-hez csatolás éve: 2020"],
       ro: ["Suprafață: 842 km²", "Populație înainte de fuziune: aproximativ 1.200 (2019)", "Înălțimea Preikestolen: 604 m deasupra fiordului", "Numărul anual de vizitatori la Preikestolen: 300.000", "Lungimea fiordului Lysefjord: 42 km", "Anul fuziunii cu Sandnes: 2020"],
       en: ["Area: 842 km²", "Pre-merger population: approx. 1,200 (2019)", "Height of Preikestolen: 604 m above Lysefjord", "Annual visitors to Preikestolen: 300,000", "Length of Lysefjord: 42 km", "Year of merger with Sandnes: 2020"],
-    }, image: "/poi-images/norway-forsand-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-kvitsøy-cities-v2",
     type: "city",
@@ -2294,7 +2367,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Terület: 6 km²", "Népesség: kb. 500 fő (2023)", "Kvitsøy templom építése: 12. század", "Világítótorony magassága: 25 m", "Szigetek száma: 100", "Távolság Stavangertől: 20 km (komp)"],
       ro: ["Suprafață: 6 km²", "Populație: aproximativ 500 locuitori", "Anul construirii bisericii Kvitsøy: secolul al XII-lea", "Înălțimea farului: 25 m", "Număr de insule: 100", "Distanța până la Stavanger: 20 km (feribot)"],
       en: ["Area: 6 km²", "Population: approx. 500 (2023)", "Year built of Kvitsøy Church: 12th century", "Height of lighthouse: 25 m", "Number of islands: 100", "Distance to Stavanger: 20 km (ferry)"],
-    }, image: "/poi-images/norway-kvitsøy-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-bokn-cities-v2",
     type: "city",
@@ -2325,7 +2399,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Terület: 47 km²", "Népesség: kb. 860 fő (2023)", "Bokn templom építése: 1845", "Ognøya világítótorony magassága: 20 m", "Fő szigetek száma: 2", "Távolság Stavangertől: 30 km"],
       ro: ["Suprafață: 47 km²", "Populație: aproximativ 860 locuitori", "Anul construirii bisericii Bokn: 1845", "Înălțimea farului Ognøya: 20 m", "Număr de insule principale: 2", "Distanța până la Stavanger: 30 km"],
       en: ["Area: 47 km²", "Population: approx. 860 (2023)", "Year built of Bokn Church: 1845", "Height of Ognøya lighthouse: 20 m", "Number of main islands: 2", "Distance to Stavanger: 30 km"],
-    }, image: "/poi-images/norway-bokn-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-utsira-cities-v2",
     type: "city",
@@ -2356,7 +2431,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Terület: 6 km²", "Népesség: kb. 200 fő (2023)", "Szélturbinák száma: 10", "Világítótorony magassága: 15 m", "Utsira templom építése: 1700", "Madárfajok száma: több mint 300"],
       ro: ["Suprafață: 6 km²", "Populație: aproximativ 200 locuitori", "Număr de turbine eoliene: 10", "Înălțimea farului: 15 m", "Anul construirii bisericii Utsira: 1700", "Specii de păsări observate anual: peste 300"],
       en: ["Area: 6 km²", "Population: approx. 200 (2023)", "Number of wind turbines: 10", "Height of lighthouse: 15 m", "Year built of Utsira Church: 1700", "Annual bird species sighted: over 300"],
-    }, image: "/poi-images/norway-utsira-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-skjold-cities-v2",
     type: "city",
@@ -2387,7 +2463,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: kb. 1 000 fő (2023)", "Skjold templom építése: 1650", "Skjolda-fjord hossza: 10 km", "Távolság Aksdaltól: 15 km", "Legmagasabb pont: 200 m", "Mezőgazdasági üzemek száma: 30"],
       ro: ["Populație: aproximativ 1.000 de locuitori", "Anul construirii bisericii Skjold: 1650", "Lungimea fiordului Skjoldafjord: 10 km", "Distanța până la Aksdal: 15 km", "Altitudine maximă: 200 m", "Număr de ferme agricole: 30"],
       en: ["Population: approx. 1,000 (2023)", "Year built of Skjold Church: 1650", "Length of Skjoldafjord: 10 km", "Distance to Aksdal: 15 km", "Highest point: 200 m", "Number of farms: 30"],
-    }, image: "/poi-images/norway-skjold-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-sveio-cities-v2",
     type: "city",
@@ -2418,7 +2495,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Terület: 245 km²", "Népesség: kb. 5 200 fő (2023)", "Sveio templom építése: 12. század", "Ryvarden világítótorony magassága: 30 m", "Partvonal hossza: 80 km", "Strandok száma: 10"],
       ro: ["Suprafață: 245 km²", "Populație: aproximativ 5.200 locuitori", "Anul construirii bisericii Sveio: secolul al XII-lea", "Înălțimea farului Ryvarden: 30 m", "Lungimea coastei: 80 km", "Număr de plaje: 10"],
       en: ["Area: 245 km²", "Population: approx. 5,200 (2023)", "Year built of Sveio Church: 12th century", "Height of Ryvarden lighthouse: 30 m", "Coastline length: 80 km", "Number of beaches: 10"],
-    }, image: "/poi-images/norway-sveio-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-eta-cities-v2",
     type: "city",
@@ -2449,7 +2527,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Terület: 735 km²", "Népesség: kb. 4 000 fő (2023)", "Etne templom építése: 1650", "Vízerőművek száma: 4", "Etne-fjord hossza: 15 km", "Éves lazacfogás az Etneelva-ban: 5 tonna"],
       ro: ["Suprafață: 735 km²", "Populație: aproximativ 4.000 locuitori", "Anul construirii bisericii Etne: 1650", "Număr de centrale hidroelectrice: 4", "Lungimea fiordului Etnefjord: 15 km", "Captură anuală de somon în râul Etneelva: 5 tone"],
       en: ["Area: 735 km²", "Population: approx. 4,000 (2023)", "Year built of Etne Church: 1650", "Number of hydroelectric plants: 4", "Length of Etnefjord: 15 km", "Annual salmon catch in Etneelva: 5 tonnes"],
-    }, image: "/poi-images/norway-eta-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-skånevik-cities-v2",
     type: "city",
@@ -2480,7 +2559,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: kb. 500 fő (2023)", "Skånevik templom építése: 13. század", "Skånevik-fjord hossza: 8 km", "Távolság Etne-től: 10 km", "Legmagasabb pont: 300 m", "Szálláshelyek száma: 5"],
       ro: ["Populație: aproximativ 500 de locuitori", "Anul construirii bisericii Skånevik: secolul al XIII-lea", "Lungimea fiordului Skånevikfjord: 8 km", "Distanța până la Etne: 10 km", "Altitudine maximă: 300 m", "Număr de unități de cazare: 5"],
       en: ["Population: approx. 500 (2023)", "Year built of Skånevik Church: 13th century", "Length of Skånevikfjord: 8 km", "Distance to Etne: 10 km", "Highest point: 300 m", "Number of accommodation establishments: 5"],
-    }, image: "/poi-images/norway-skånevik-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-rosendal-cities-v2",
     type: "city",
@@ -2511,7 +2591,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: kb. 1 000 fő (2023)", "Rosendal kastély építése: 1665", "Steinsdalsfossen vízesés magassága: 50 m", "Rosendal-fjord hossza: 10 km", "Távolság Bergentől: 100 km", "Éves koncertek száma: 20"],
       ro: ["Populație: aproximativ 1.000 de locuitori", "Anul construirii castelului Rosendal: 1665", "Înălțimea cascadei Steinsdalsfossen: 50 m", "Lungimea fiordului Rosendal: 10 km", "Distanța până la Bergen: 100 km", "Număr de concerte anuale: 20"],
       en: ["Population: approx. 1,000 (2023)", "Year built of Rosendal Manor: 1665", "Height of Steinsdalsfossen waterfall: 50 m", "Length of Rosendal fjord: 10 km", "Distance to Bergen: 100 km", "Annual concerts: 20"],
-    }, image: "/poi-images/norway-rosendal-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-husnes-cities-v2",
     type: "city",
@@ -2542,7 +2623,8 @@ export const norwayCitiesV2: POI[] = [
       hu: ["Népesség: kb. 2 000 fő (2023)", "Alumíniummű megnyitása: 1965", "Éves alumíniumtermelés: 150 000 tonna", "Husnes templom építése: 1850", "Kikötő mélysége: 10 m", "Távolság Bergentől: 80 km"],
       ro: ["Populație: aproximativ 2.000 de locuitori", "Anul deschiderii fabricii de aluminiu: 1965", "Producția anuală de aluminiu: 150.000 tone", "Anul construirii bisericii Husnes: 1850", "Adâncimea portului: 10 m", "Distanța până la Bergen: 80 km"],
       en: ["Population: approx. 2,000 (2023)", "Opening of aluminum plant: 1965", "Annual aluminum production: 150,000 tonnes", "Year built of Husnes Church: 1850", "Depth of port: 10 m", "Distance to Bergen: 80 km"],
-    }, image: "/poi-images/norway-husnes-cities-v2.webp"},
+    },
+  },
   {
     id: "norway-kvinnherad-cities-v2",
     type: "city",

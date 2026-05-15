@@ -31,7 +31,8 @@ export const maltaReliefV2: POI[] = [
       hu: ["Hossz: kb. 5 km", "Magasság: akár 150 m", "Kőzet: korallmészkő (miocén)", "Növényzet: macchia", "Régészet: föníciai, római", "Védettség: Natura 2000"],
       ro: ["Lungime: aprox. 5 km", "Înălțime: până la 150 m", "Rocă: calcar coralifer (miocen)", "Vegetație: macchie", "Arheologie: feniciană, romană", "Statut de protecție: Natura 2000"],
       en: ["Length: approx. 5 km", "Height: up to 150 m", "Rock: coral limestone (Miocene)", "Vegetation: maquis", "Archaeology: Phoenician, Roman", "Protected status: Natura 2000"],
-    }, image: "/poi-images/malta-tal-balal-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "malta-wardija-highland-relief-v2",
     type: "mountain",
@@ -62,7 +63,8 @@ export const maltaReliefV2: POI[] = [
       hu: ["Terület: kb. 8 km²", "Magasság: akár 120 m", "Kőzet: mészkő, márga", "Mezőgazdaság: olajfaligetek, teraszok", "Madármegfigyelés: népszerű", "Történelmi tornyok: lovagkor"],
       ro: ["Suprafață: aprox. 8 km²", "Înălțime: până la 120 m", "Roci: calcar, marnă", "Agricultură: livezi de măslini, terase", "Observarea păsărilor: populară", "Turnuri istorice: perioada cavalerilor"],
       en: ["Area: approx. 8 km²", "Height: up to 120 m", "Rock: limestone, marl", "Agriculture: olive groves, terraces", "Birdwatching: popular", "Historic towers: Knights period"],
-    }, image: "/poi-images/malta-wardija-highland-relief-v2.webp"},
+    },
+  },
   {
     id: "malta-ta-cenc-plateau-relief-v2",
     type: "mountain",
@@ -125,7 +127,8 @@ export const maltaReliefV2: POI[] = [
       hu: ["Hossz: kb. 4 km", "Magasság: akár 130 m", "Kőzet: korallmészkő", "Növényzet: macchia", "Kilátás: Mellieħa-öböl", "Római villa: romok"],
       ro: ["Lungime: aprox. 4 km", "Înălțime: până la 130 m", "Rocă: calcar coralifer", "Vegetație: macchie", "Priveliște: Golful Mellieħa", "Vila romană: ruine"],
       en: ["Length: approx. 4 km", "Height: up to 130 m", "Rock: coral limestone", "Vegetation: maquis", "View: Mellieħa Bay", "Roman villa: remains"],
-    }, image: "/poi-images/malta-il-qortin-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "malta-ta-gordan-hill-relief-v2",
     type: "peak",
@@ -220,7 +223,8 @@ export const maltaReliefV2: POI[] = [
       hu: ["Legmagasabb sziklamagasság: 80 méter", "Kőzet kora: kb. 28 millió év (oligocén)", "Sziklavonal hossza: körülbelül 1,5 kilométer", "Földközi-tengeri vészmadár fészkelőpárjainak száma: több mint 200", "Átlagos eróziós ráta: 0,5 cm évente", "Vízmélység közvetlenül a sziklák előtt: akár 30 méter"],
       ro: ["Înălțimea maximă a stâncilor: 80 de metri", "Vârsta rocii: aproximativ 28 de milioane de ani (Oligocen)", "Lungimea liniei de stâncă: circa 1,5 kilometri", "Număr de perechi cuibăritoare de pufin mediteranean: peste 200", "Rata medie de eroziune: 0,5 cm pe an", "Adâncimea apei direct în fața stâncilor: până la 30 de metri"],
       en: ["Maximum cliff height: 80 meters", "Rock age: approximately 28 million years (Oligocene)", "Length of cliff line: about 1.5 kilometers", "Number of breeding pairs of Mediterranean shearwater: over 200", "Average erosion rate: 0.5 cm per year", "Water depth directly in front of cliffs: up to 30 meters"],
-    }, image: "/poi-images/malta-ras-il-wahx-cliffs-relief-v2.webp"},
+    },
+  },
   {
     id: "malta-il-bidnija-ridge-relief-v2",
     type: "mountain",
@@ -251,7 +255,8 @@ export const maltaReliefV2: POI[] = [
       hu: ["Gerinc hossza: 4 kilométer", "Maximális magasság: 150 méter tengerszint felett", "Gerinc szélessége: 200-400 méter", "Korallmészkő kora: 20-25 millió év", "Teraszos földek száma: több mint 100", "Távolság a Mellieħa-öböltől: 3 kilométer"],
       ro: ["Lungimea crestei: 4 kilometri", "Înălțime maximă: 150 de metri deasupra nivelului mării", "Lățimea crestei: 200-400 de metri", "Vârsta calcarului coralifer: 20-25 de milioane de ani", "Număr de terase agricole: peste 100", "Distanța până la golful Mellieħa: 3 kilometri"],
       en: ["Ridge length: 4 kilometers", "Maximum elevation: 150 meters above sea level", "Ridge width: 200-400 meters", "Age of coralline limestone: 20-25 million years", "Number of terraced fields: over 100", "Distance to Mellieħa Bay: 3 kilometers"],
-    }, image: "/poi-images/malta-il-bidnija-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "malta-ta-cieda-hill-relief-v2",
     type: "peak",
@@ -314,7 +319,8 @@ export const maltaReliefV2: POI[] = [
       hu: ["Gerinc hossza: 2,8 kilométer", "Magasság: 80-120 méter", "Szélesség: 50-150 méter", "Éves csapadékmennyiség: 550 mm", "Endemikus növényfajok száma: 5", "Átlaghőmérséklet augusztusban: 30°C"],
       ro: ["Lungimea crestei: 2,8 kilometri", "Înălțime: 80-120 de metri", "Lățime: 50-150 de metri", "Precipitații anuale: 550 mm", "Număr de specii de plante endemice: 5", "Temperatura medie în august: 30°C"],
       en: ["Ridge length: 2.8 kilometers", "Height: 80-120 meters", "Width: 50-150 meters", "Annual rainfall: 550 mm", "Number of endemic plant species: 5", "Average temperature in August: 30°C"],
-    }, image: "/poi-images/malta-il-ghazzenin-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "malta-ta-pinu-hill-relief-v2",
     type: "peak",
@@ -377,7 +383,8 @@ export const maltaReliefV2: POI[] = [
       hu: ["Magasság: 200 méter tengerszint felett", "Terület: 2,3 négyzetkilométer", "Szélturbinák száma: 4", "Szélturbinák teljesítménye: összesen 8 MW", "Száraz völgyek mélysége: akár 60 méter", "Népsűrűség: 0 fő (lakatlan)"],
       ro: ["Altitudine: 200 de metri deasupra nivelului mării", "Suprafață: 2,3 kilometri pătrați", "Număr de turbine eoliene: 4", "Puterea turbinelor eoliene: 8 MW total", "Adâncimea văilor uscate: până la 60 de metri", "Densitatea populației: 0 locuitori (ne locuit)"],
       en: ["Elevation: 200 meters above sea level", "Area: 2.3 square kilometers", "Number of wind turbines: 4", "Wind turbine capacity: 8 MW total", "Depth of dry valleys: up to 60 meters", "Population density: 0 (uninhabited)"],
-    }, image: "/poi-images/malta-il-ghallies-plateau-relief-v2.webp"},
+    },
+  },
   {
     id: "malta-ta-cinc-hill-relief-v2",
     type: "peak",
@@ -440,7 +447,8 @@ export const maltaReliefV2: POI[] = [
       hu: ["Hossz: 1,8 kilométer", "Maximális magasság: 90 méter", "Töbrök száma: 7", "Távolság Cominótól: 2 kilométer (légvonalban)", "Karsztterület nagysága: 0,3 négyzetkilométer", "Erőd építési éve: 1880"],
       ro: ["Lungime: 1,8 kilometri", "Înălțime maximă: 90 de metri", "Număr de doline: 7", "Distanța până la Comino: 2 kilometri (linie dreaptă)", "Suprafața carstică: 0,3 kilometri pătrați", "Anul construcției fortului: 1880"],
       en: ["Length: 1.8 kilometers", "Maximum height: 90 meters", "Number of sinkholes: 7", "Distance to Comino: 2 kilometers (as crow flies)", "Karst area: 0.3 square kilometers", "Year of fort construction: 1880"],
-    }, image: "/poi-images/malta-il-mistra-ridge-relief-v2.webp"},
+    },
+  },
   {
     id: "malta-ras-il-pellegrin-relief-v2",
     type: "mountain",
@@ -471,7 +479,8 @@ export const maltaReliefV2: POI[] = [
       hu: ["Fennsík területe: 1,1 négyzetkilométer", "Sziklafalak magassága: akár 60 méter", "Ideiglenes vízmedencék száma: 12", "Tengerszint feletti magasság: 80-100 méter", "Távolság a legközelebbi várostól (Mġarr): 5 kilométer", "Történelmi őrtornyok száma: 2"],
       ro: ["Suprafața platoului: 1,1 kilometri pătrați", "Înălțimea stâncilor: până la 60 de metri", "Număr de bazine de apă temporare: 12", "Altitudine deasupra nivelului mării: 80-100 de metri", "Distanța până la cel mai apropiat oraș (Mġarr): 5 kilometri", "Număr de turnuri de pază istorice: 2"],
       en: ["Plateau area: 1.1 square kilometers", "Cliff height: up to 60 meters", "Number of temporary water pools: 12", "Elevation above sea level: 80-100 meters", "Distance to nearest town (Mġarr): 5 kilometers", "Number of historical watchtowers: 2"],
-    }, image: "/poi-images/malta-ras-il-pellegrin-relief-v2.webp"},
+    },
+  },
   {
     id: "malta-ta-l-aghara-hill-relief-v2",
     type: "peak",
@@ -598,7 +607,8 @@ export const maltaReliefV2: POI[] = [
       hu: ["Geológiailag globigerinás mészkő jellemzi", "Természetes erózió által formált csúcs", "Stratégiai jelentőségű domborzati pont", "A máltai karsztvidék része"],
       ro: ["Caracterizat geologic prin calcar globigerinic", "Culme modelată prin eroziune naturală", "Poziție topografică strategică", "Parte a peisajului carstic maltez"],
       en: ["Geologically defined by Globigerina limestone", "Summit shaped by natural erosion", "Strategically located elevation", "Component of the Maltese karst landscape"],
-    }, image: "/poi-images/malta-il-qlajja-hill-relief-v2.webp"},
+    },
+  },
   {
     id: "malta-ta-randu-hill-relief-v2",
     type: "peak",

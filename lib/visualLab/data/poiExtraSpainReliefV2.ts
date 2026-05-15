@@ -1105,7 +1105,8 @@ export const spainReliefV2: POI[] = [
       hu: ["A legmagasabb csúcs az Urbión, 2.228 méter.", "A hegység területe 350 négyzetkilométer.", "Több mint 20 gleccsertó található a régióban.", "A természeti parkot 1997-ben hozták létre.", "A bükkös erdők akár 200 évesek is lehetnek.", "A csúcsok átlagos magassága 2.000 méter."],
       ro: ["Cel mai înalt vârf este Urbión, cu 2.228 de metri.", "Masivul acoperă 350 de kilometri pătrați.", "Peste 20 de lacuri glaciare există în regiune.", "Parcul natural a fost înființat în 1997.", "Pădurile de fag au până la 200 de ani vechime.", "Înălțimea medie a vârfurilor este de 2.000 de metri."],
       en: ["The highest peak is Urbión at 2,228 meters.", "The massif covers 350 square kilometers.", "There are over 20 glacial lakes in the region.", "The natural park was established in 1997.", "Beech forests are up to 200 years old.", "The average peak height is 2,000 meters."],
-    }, image: "/poi-images/spain-picos-de-urbion-relief-v2.webp"},
+    },
+  },
   {
     id: "spain-sierra-de-las-nieves-relief-v2",
     type: "mountain",
@@ -1136,7 +1137,8 @@ export const spainReliefV2: POI[] = [
       hu: ["A parkot 1989-ben hozták létre.", "A Torrecilla 1.919 méter magas.", "A Pinsapo fák akár 30 méter magasra is megnőhetnek.", "Körülbelül 2.000 hektár Pinsapo erdő található.", "Az éves csapadékmennyiség 1.000 mm.", "A park területe 180 négyzetkilométer."],
       ro: ["Parcul a fost înființat în 1989.", "Vârful Torrecilla are 1.919 de metri.", "Brazil de Pinsapo pot atinge 30 de metri înălțime.", "Există aproximativ 2.000 de hectare de păduri de Pinsapo.", "Precipitațiile anuale sunt de 1.000 mm.", "Parcul acoperă 180 km²."],
       en: ["The park was established in 1989.", "Torrecilla peak is 1,919 meters high.", "Pinsapo trees can grow up to 30 meters tall.", "There are about 2,000 hectares of Pinsapo forests.", "Annual rainfall is 1,000 mm.", "The park covers 180 square kilometers."],
-    }, image: "/poi-images/spain-sierra-de-las-nieves-relief-v2.webp"},
+    },
+  },
   {
     id: "spain-macizo-de-penagolosa-relief-v2",
     type: "mountain",
@@ -1167,7 +1169,8 @@ export const spainReliefV2: POI[] = [
       hu: ["A csúcs 1.813 méter magas.", "A természeti parkot 2006-ban hozták létre.", "A hegység területe 1.100 hektár.", "Az éves látogatók száma meghaladja az 50.000-et.", "Több mint 20 jelzett túraútvonal van.", "A csúcson a téli hőmérséklet -10°C is lehet."],
       ro: ["Vârful are 1.813 metri.", "Parcul natural a fost înființat în 2006.", "Masivul acoperă 1.100 de hectare.", "Numărul anual de vizitatori depășește 50.000.", "Există peste 20 de trasee de drumeție marcate.", "Temperatura pe vârf poate atinge -10°C iarna."],
       en: ["The peak is 1,813 meters high.", "The natural park was established in 2006.", "The massif covers 1,100 hectares.", "Annual visitors exceed 50,000.", "There are over 20 marked hiking trails.", "Winter temperatures on the peak can reach -10°C."],
-    }, image: "/poi-images/spain-macizo-de-penagolosa-relief-v2.webp"},
+    },
+  },
   {
     id: "spain-sierra-de-ayllon-relief-v2",
     type: "mountain",
@@ -1198,7 +1201,8 @@ export const spainReliefV2: POI[] = [
       hu: ["A Pico del Lobo 2.272 méter magas.", "A természeti parkot 2011-ben hozták létre.", "A csúcsok átlagos magassága 1.800 méter.", "Több mint 150 madárfaj található a parkban.", "A régió éves csapadékmennyisége 1.200 mm.", "A park területe 320 négyzetkilométer."],
       ro: ["Pico del Lobo are 2.272 de metri.", "Parcul natural a fost înființat în 2011.", "Înălțimea medie a vârfurilor este de 1.800 de metri.", "Peste 150 de specii de păsări există în parc.", "Regiunea primește 1.200 mm precipitații anual.", "Parcul are o suprafață de 320 km²."],
       en: ["Pico del Lobo is 2,272 meters high.", "The natural park was established in 2011.", "The average peak height is 1,800 meters.", "Over 150 bird species are found in the park.", "The region receives 1,200 mm of precipitation annually.", "The park has an area of 320 square kilometers."],
-    }, image: "/poi-images/spain-sierra-de-ayllon-relief-v2.webp"},
+    },
+  },
   {
     id: "spain-sierra-de-la-cabrera-relief-v2",
     type: "mountain",
@@ -1229,7 +1233,8 @@ export const spainReliefV2: POI[] = [
       hu: ["A Cancho Largo 2.002 méter magas.", "A parkot 1990-ben hozták létre.", "A hegység területe 400 négyzetkilométer.", "A farkas populációt 50 egyedre becsülik.", "Az éves csapadékmennyiség 800 mm.", "90 madárfaj él a parkban."],
       ro: ["Cancho Largo are 2.002 metri.", "Parcul a fost înființat în 1990.", "Masivul acoperă 400 km².", "Populația de lupi este estimată la 50 de exemplare.", "Precipitațiile anuale sunt de 800 mm.", "Există 90 de specii de păsări în parc."],
       en: ["Cancho Largo is 2,002 meters high.", "The park was established in 1990.", "The massif covers 400 square kilometers.", "The wolf population is estimated at 50 animals.", "Annual rainfall is 800 mm.", "There are 90 bird species in the park."],
-    }, image: "/poi-images/spain-sierra-de-la-cabrera-relief-v2.webp"},
+    },
+  },
   {
     id: "spain-sierra-de-alcaraz-relief-v2",
     type: "mountain",
@@ -1260,7 +1265,8 @@ export const spainReliefV2: POI[] = [
       hu: ["A Pico de Almenara 1.843 méter magas.", "A természeti parkot 2000-ben hozták létre.", "A park legmagasabb pontja 1.843 méter.", "Több mint 100 madárfaj él itt.", "Az éves csapadékmennyiség 600 mm.", "A park területe 120 négyzetkilométer."],
       ro: ["Pico de Almenara are 1.843 de metri.", "Parcul natural a fost înființat în 2000.", "Altitudinea maximă a parcului este de 1.843 de metri.", "Peste 100 de specii de păsări există.", "Precipitațiile anuale sunt de 600 mm.", "Parcul acoperă o suprafață de 120 km²."],
       en: ["Pico de Almenara is 1,843 meters high.", "The natural park was established in 2000.", "The maximum altitude of the park is 1,843 meters.", "Over 100 bird species are found.", "Annual rainfall is 600 mm.", "The park covers an area of 120 square kilometers."],
-    }, image: "/poi-images/spain-sierra-de-alcaraz-relief-v2.webp"},
+    },
+  },
   {
     id: "spain-sierra-de-gata-relief-v2",
     type: "mountain",
@@ -1291,7 +1297,8 @@ export const spainReliefV2: POI[] = [
       hu: ["A legmagasabb csúcs a La Hastiala, 1.192 méter.", "A parkot 1997-ben hozták létre.", "A park területe 150 négyzetkilométer.", "A fekete gólya populációja 10 pár.", "Az éves csapadékmennyiség 1.100 mm.", "20 falu található a park területén."],
       ro: ["Cel mai înalt vârf este La Hastiala, cu 1.192 de metri.", "Parcul a fost înființat în 1997.", "Parcul acoperă 150 km².", "Populația de barză neagră este de 10 perechi.", "Precipitațiile anuale sunt de 1.100 mm.", "Există 20 de sate în aria parcului."],
       en: ["The highest peak is La Hastiala at 1,192 meters.", "The park was established in 1997.", "The park covers 150 square kilometers.", "The black stork population is 10 pairs.", "Annual rainfall is 1,100 mm.", "There are 20 villages within the park area."],
-    }, image: "/poi-images/spain-sierra-de-gata-relief-v2.webp"},
+    },
+  },
   {
     id: "spain-sierra-de-segura-relief-v2",
     type: "mountain",
@@ -1322,7 +1329,8 @@ export const spainReliefV2: POI[] = [
       hu: ["A legmagasabb csúcs a Las Villas, 1.831 méter.", "A természeti parkot 1998-ban hozták létre.", "Területe 500 négyzetkilométer.", "Az olíva termelés eléri a 100.000 tonnát évente.", "150 madárfaj él a parkban.", "Az átlagos magasság 1.000 méter."],
       ro: ["Cel mai înalt vârf este Las Villas, la 1.831 de metri.", "Parcul natural a fost înființat în 1998.", "Suprafața este de 500 km².", "Producția de măsline ajunge la 100.000 de tone anual.", "Există 150 de specii de păsări în parc.", "Altitudinea medie este de 1.000 de metri."],
       en: ["The highest peak is Las Villas at 1,831 meters.", "The natural park was established in 1998.", "The area is 500 square kilometers.", "Olive production reaches 100,000 tons annually.", "There are 150 bird species in the park.", "The average elevation is 1,000 meters."],
-    }, image: "/poi-images/spain-sierra-de-segura-relief-v2.webp"},
+    },
+  },
   {
     id: "spain-sierra-de-oropesa-relief-v2",
     type: "mountain",
@@ -1353,7 +1361,8 @@ export const spainReliefV2: POI[] = [
       hu: ["A Cerro de la Higuera 1.120 méter magas.", "A parkot 1995-ben hozták létre.", "Területe 250 négyzetkilométer.", "Az oropesai vár a 15. századból származik.", "80 madárfaj él a parkban.", "Az éves csapadékmennyiség 500 mm."],
       ro: ["Cerro de la Higuera are 1.120 de metri.", "Parcul a fost înființat în 1995.", "Suprafața este de 250 km².", "Castelul Oropesa datează din secolul al XV-lea.", "Există 80 de specii de păsări în parc.", "Precipitațiile anuale sunt de 500 mm."],
       en: ["Cerro de la Higuera is 1,120 meters high.", "The park was established in 1995.", "The area is 250 square kilometers.", "The Castle of Oropesa dates from the 15th century.", "There are 80 bird species in the park.", "Annual rainfall is 500 mm."],
-    }, image: "/poi-images/spain-sierra-de-oropesa-relief-v2.webp"},
+    },
+  },
   {
     id: "spain-sierra-de-sierra-nevada-peaks-relief-v2",
     type: "mountain",

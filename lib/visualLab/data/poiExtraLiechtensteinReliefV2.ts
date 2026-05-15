@@ -31,7 +31,8 @@ export const liechtensteinReliefV2: POI[] = [
       hu: ["Tengerszint feletti magassága 2286 méter", "A Rätikon-hegység egyik látványos csúcsa", "Természetes határ Liechtenstein és Ausztria között", "Triesenberg község délkeleti irányában található"],
       ro: ["Înălțime: 2286 metri deasupra nivelului mării", "Face parte din grupul montan Rätikon", "Vârf de frontieră între Liechtenstein și Austria", "Situat la sud-est de municipalitatea Triesenberg"],
       en: ["Elevation: 2286 meters above sea level", "Part of the Rätikon mountain range", "Border peak between Liechtenstein and Austria", "Located southeast of the village of Triesenberg"],
-    }, image: "/poi-images/liechtenstein-ochsenkopf-relief-v2.webp"},
+    },
+  },
   {
     id: "liechtenstein-scheienkopf-relief-v2",
     type: "peak",
@@ -62,7 +63,8 @@ export const liechtensteinReliefV2: POI[] = [
       hu: ["2159 méteres tengerszint feletti magasság", "Liechtenstein és Ausztria határvonalán áll", "A Rätikon-hegység keleti részéhez tartozik", "A csúcsról látszanak a Vorarlbergi-Alpok", "Triász időszaki mészkőből épül fel", "Gyakori kiindulópont Malbun települése"],
       ro: ["Altitudinea maximă este de 2159 de metri", "Situat la granița cu provincia Vorarlberg", "Muntele face parte din lanțul muntos Rätikon", "Compoziția geologică este predominant calcaroasă", "Vizibilitate excelentă spre valea Rinului", "Accesibil prin trasee montane de dificultate medie"],
       en: ["Stands at an elevation of 2,159 meters", "Located on the border with Austria", "Member of the Rätikon mountain group", "Primary rock type is Triassic limestone", "Accessible via trails from the village of Malbun", "Features a prominent summit cross"],
-    }, image: "/poi-images/liechtenstein-scheienkopf-relief-v2.webp"},
+    },
+  },
   {
     id: "liechtenstein-nospitz-relief-v2",
     type: "peak",
@@ -93,7 +95,8 @@ export const liechtensteinReliefV2: POI[] = [
       hu: ["Tengerszint feletti magassága 2091 méter", "A Samina-völgy feletti gerincen helyezkedik el", "Központi fekvésű csúcs a hercegségben", "Flórája gazdag havasi gyopárban és enciánban", "Könnyen elérhető a Kulm-hágó irányából", "Az Alpok középső vonulatához tartozik"],
       ro: ["Atinge înălțimea de 2091 metri deasupra mării", "Situat deasupra văii râului Samina", "Face parte din ramura centrală a Rätikonului", "Versanții sunt acoperiți cu pajiști alpine", "Importante formațiuni de roci sedimentare", "Panorama cuprinde culmile din estul țării"],
       en: ["Summit elevation of 2,091 meters", "Positioned above the scenic Samina Valley", "Central peak within the Rätikon range", "Noted for its diverse alpine vegetation", "Close proximity to the historic Kulm Pass", "Part of the Northern Limestone Alps"],
-    }, image: "/poi-images/liechtenstein-nospitz-relief-v2.webp"},
+    },
+  },
   {
     id: "liechtenstein-pizol-vorberge-relief-v2",
     type: "mountain",
@@ -124,7 +127,8 @@ export const liechtensteinReliefV2: POI[] = [
       hu: ["Túraútvonalak hossza: 120 km", "Legmagasabb csúcs: 2.226 m", "Éves átlaghőmérséklet: 3 °C", "Védett növényfajok: 12", "Éves látogatószám: 80.000 fő", "Legrégebbi kunyhó építési éve: 1925"],
       ro: ["Suprafața totală: 60 km²", "Altitudinea medie: 1.800 m", "Precipitații anuale: 1.600 mm", "Specii de păsări: 70", "Lacuri glaciare: 5", "Lungimea totală a râurilor: 30 km"],
       en: ["Highest peak: 2,204 m", "Protected area: 50 km²", "Average July temperature: 12°C", "Glacier retreat since 1850: 70%", "Number of hiking trails: 15", "Oldest settlement in foothills: 13th century"],
-    }, image: "/poi-images/liechtenstein-pizol-vorberge-relief-v2.webp"},
+    },
+  },
   {
     id: "liechtenstein-hochwang-relief-v2",
     type: "mountain",

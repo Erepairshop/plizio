@@ -31,7 +31,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Terület: 4300 hektár", "Alapítás éve: 2002", "Legmagasabb dűne: 15 méter (Hoge Berg)", "Éves látogatók száma: 1,5 millió", "UNESCO Világörökség része (Watt-tenger)", "Túraútvonalak hossza: több mint 30 km"],
       ro: ["Suprafață: 4.300 ha", "Anul înființării: 2002", "Înălțimea maximă a dunelor: 30 m", "Vizitatori anuali: ~1,5 milioane", "Parte a Patrimoniului Mondial UNESCO Marea Wadden", "Trasee de drumeție: peste 30 km"],
       en: ["Area: 4,300 hectares", "Established: 2002", "Highest dune: 30 m above sea level", "Annual visitors: 1.5 million", "Part of Wadden Sea UNESCO World Heritage", "Hiking trails: over 30 km"],
-    }, image: "/poi-images/netherlands-nationaal-park-duinen-van-texel-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-artis-amsterdam-royal-zoo-life-v2",
     type: "wildlife",
@@ -62,7 +63,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Alapítás éve: 1838", "Terület: 14 hektár", "Állatfajok száma: 900", "Éves látogatók: 1,4 millió", "Növényfajok: több mint 7000", "Akvárium építési éve: 1882"],
       ro: ["Anul fondării: 1838", "Suprafață: 14 ha", "Specii de animale: ~900", "Vizitatori anuali: 1,4 milioane", "Specii de plante: peste 7.000", "Acvariu construit în: 1882"],
       en: ["Founded: 1838", "Area: 14 hectares", "Animal species: ~900", "Annual visitors: 1.4 million", "Plant species: over 7,000", "Aquarium built: 1882"],
-    }, image: "/poi-images/netherlands-artis-amsterdam-royal-zoo-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-rotterdam-blijdorp-zoo-life-v2",
     type: "wildlife",
@@ -93,7 +95,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Megnyitás éve: 1857", "Terület: 28 hektár", "Állatok száma: több mint 2000", "Fajok: 250", "Éves látogatók: 1,5 millió", "Oceanium: cápák és ráják"],
       ro: ["Anul deschiderii: 1857", "Suprafață: 28 ha", "Animale: peste 2.000", "Specii: 250", "Vizitatori anuali: 1,5 milioane", "Oceanium: rechini și raie"],
       en: ["Opened: 1857", "Area: 28 hectares", "Animals: over 2,000", "Species: 250", "Annual visitors: 1.5 million", "Oceanium: shark and ray exhibit"],
-    }, image: "/poi-images/netherlands-rotterdam-blijdorp-zoo-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-hortus-botanicus-leiden-life-v2",
     type: "park",
@@ -124,7 +127,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Alapítás éve: 1590", "Terület: 2,5 hektár", "Növényfajok: 10 000 felett", "Éves látogatók: 200 000", "Hollandia legrégebbi botanikus kertje", "Victoria amazonica (óriás tündérrózsa)"],
       ro: ["Anul fondării: 1590", "Suprafață: 2,5 ha", "Specii de plante: peste 10.000", "Vizitatori anuali: 200.000", "Cea mai veche grădină botanică din Olanda", "Faimoasă pentru Victoria amazonica"],
       en: ["Founded: 1590", "Area: 2.5 hectares", "Plant species: over 10,000", "Annual visitors: 200,000", "Oldest botanical garden in the Netherlands", "Famous for Victoria amazonica"],
-    }, image: "/poi-images/netherlands-hortus-botanicus-leiden-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-nationaal-park-drentsche-aa-life-v2",
     type: "park",
@@ -155,7 +159,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Alapítás éve: 2002", "Terület: 100 km²", "Növényfajok: 500 felett", "Natura 2000 része", "Bíbic fészkelőhely", "Túraútvonalak hossza: 150 km"],
       ro: ["Anul înființării: 2002", "Suprafață: 100 km²", "Specii de plante: peste 500", "Parte a rețelei Natura 2000", "Păsări importante: fluierar de mlaștină", "Trasee de drumeție: 150 km"],
       en: ["Established: 2002", "Area: 100 km²", "Plant species: over 500", "Part of Natura 2000", "Breeding bird: lapwing", "Hiking trails: 150 km"],
-    }, image: "/poi-images/netherlands-nationaal-park-drentsche-aa-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-burgers-zoo-arnhem-life-v2",
     type: "wildlife",
@@ -186,7 +191,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Megnyitás éve: 1913", "Terület: 45 hektár", "Állatok: 2000 felett", "Fajok: 300", "Éves látogatók: 1,5 millió", "Burgers‘ Bush: 3 hektáros trópusi esőerdő"],
       ro: ["Anul deschiderii: 1913", "Suprafață: 45 ha", "Animale: peste 2.000", "Specii: 300", "Vizitatori anuali: 1,5 milioane", "Burgers‘ Bush: 3 hectare de pădure tropicală acoperită"],
       en: ["Opened: 1913", "Area: 45 hectares", "Animals: over 2,000", "Species: 300", "Annual visitors: 1.5 million", "Burgers‘ Bush: 3 ha covered rainforest"],
-    }, image: "/poi-images/netherlands-burgers-zoo-arnhem-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-utrecht-botanical-gardens-life-v2",
     type: "park",
@@ -217,7 +223,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Alapítás éve: 1639", "Helyszín 1964 óta: Fort Hoofddijk", "Növényfajok: 50 000 felett", "Éves látogatók: 150 000", "Üvegházak: több klímazóna", "Tematikus kertek: alpinum, gyógynövénykert, kaktuszok"],
       ro: ["Anul fondării: 1639", "Locație actuală din 1964", "Specii de plante: peste 50.000", "Vizitatori anuali: 150.000", "Sere cu climate diferite", "Grădini tematice: alpin, plante medicinale, cactuși"],
       en: ["Founded: 1639", "Location since 1964: Fort Hoofddijk", "Plant species: over 50,000", "Annual visitors: 150,000", "Greenhouses: multiple climate zones", "Thematic gardens: alpine, herb, cactus"],
-    }, image: "/poi-images/netherlands-utrecht-botanical-gardens-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-nationaal-park-nieuwer-land-life-v2",
     type: "park",
@@ -248,7 +255,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Alapítás éve: 2018", "Terület: 28 000 hektár", "Részek: Lepelaarplassen, Oostvaardersplassen, Marker Wadden", "Létrejött: IJsselmeer lecsapolása", "Madárfajok: 300 felett", "Szabadon élő állatok: konik lovak, heck marhák"],
       ro: ["Anul înființării: 2018", "Suprafață: 28.000 ha", "Componente: Lepelaarplassen, Oostvaardersplassen, Marker Wadden", "Creat pe terenuri desecate din IJsselmeer", "Specii de păsări: peste 300", "Animale în libertate: cai Konik, bovine Heck"],
       en: ["Established: 2018", "Area: 28,000 hectares", "Components: Lepelaarplassen, Oostvaardersplassen, Marker Wadden", "Created from IJsselmeer reclamation", "Bird species: over 300", "Free-roaming animals: Konik horses, Heck cattle"],
-    }, image: "/poi-images/netherlands-nationaal-park-nieuwer-land-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-wildlands-adventure-zoo-emmen-life-v2",
     type: "wildlife",
@@ -279,7 +287,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Megnyitás éve: 2016", "Terület: 22 hektár", "Állatok: kb. 2000", "Fajok: 200", "Éves látogatók: 1,2 millió", "Tematikus területek: Jungola, Nortica, Serenga, Animazia"],
       ro: ["Anul deschiderii: 2016", "Suprafață: 22 ha", "Animale: aprox. 2.000", "Specii: 200", "Vizitatori anuali: 1,2 milioane", "Zone tematice: Jungola, Nortica, Serenga, Animazia"],
       en: ["Opened: 2016", "Area: 22 hectares", "Animals: approx. 2,000", "Species: 200", "Annual visitors: 1.2 million", "Themed areas: Jungola, Nortica, Serenga, Animazia"],
-    }, image: "/poi-images/netherlands-wildlands-adventure-zoo-emmen-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-oude-geulvallei-life-v2",
     type: "valley",
@@ -310,7 +319,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Terület: 12 km²", "Védett terület", "Szabadon kanyargó Geul patak", "Madarak: jégmadár, fekete gólya", "Növény: sárga papucskosbor", "Natura 2000 terület"],
       ro: ["Suprafață: 12 km²", "Arie protejată", "Râul Geul meandru liber", "Păsări: pescăruș albastru, barză neagră", "Plantă: papucul doamnei galben", "Parte a rețelei Natura 2000"],
       en: ["Area: 12 km²", "Protected area", "Freely meandering Geul river", "Birds: kingfisher, black stork", "Plant: yellow lady's slipper orchid", "Natura 2000 site"],
-    }, image: "/poi-images/netherlands-oude-geulvallei-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-hortus-botanicus-amsterdam-life-v2",
     type: "park",
@@ -341,7 +351,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Alapítás éve: 1638", "Terület: 1,2 hektár", "Növényfajok: 6000 felett", "Éves látogatók: 175 000", "Történelmi üvegház: Sikkelkas (1919)", "Gyűjtemények: pozsgások, orchideák"],
       ro: ["Anul fondării: 1638", "Suprafață: 1,2 ha", "Specii de plante: peste 6.000", "Vizitatori anuali: 175.000", "Sera istorică: Sikkelkas (1919)", "Colecții: suculente, orhidee"],
       en: ["Founded: 1638", "Area: 1.2 hectares", "Plant species: over 6,000", "Annual visitors: 175,000", "Historical greenhouse: Sikkelkas (1919)", "Collections: succulents, orchids"],
-    }, image: "/poi-images/netherlands-hortus-botanicus-amsterdam-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-nationaal-park-uilenhorst-life-v2",
     type: "park",
@@ -372,7 +383,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Alapítás éve: 2006", "Terület: 15 km²", "A Watt-tenger védett területének része", "Madarak: kanalasgém, gulipán", "Emlősök: gímszarvas, róka", "Kilátótornyok: több"],
       ro: ["Anul înființării: 2006", "Suprafață: 15 km²", "Parte a zonei protejate a Mării Wadden", "Păsări: lopătar, piciorong", "Mamifere: cerb, vulpe", "Turnuri de observație: mai multe"],
       en: ["Established: 2006", "Area: 15 km²", "Part of Wadden Sea protected area", "Birds: spoonbill, avocet", "Mammals: red deer, fox", "Observation towers: multiple"],
-    }, image: "/poi-images/netherlands-nationaal-park-uilenhorst-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-arkemheen-polder-life-v2",
     type: "park",
@@ -403,7 +415,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Terület: 5000 hektár", "Kiszáritás: 1957", "Madár: nagy lilik", "Növény: békalencse", "Natura 2000 terület", "Kerékpáros és gyalogutak"],
       ro: ["Suprafață: 5.000 ha", "Desecat în: 1957", "Pasăre: gâscă de iarnă", "Plantă: broscariță", "Sit Natura 2000", "Trasee de ciclism și drumeție"],
       en: ["Area: 5,000 hectares", "Reclaimed: 1957", "Bird: greater white-fronted goose", "Plant: frogbit", "Natura 2000 site", "Bike and hiking trails"],
-    }, image: "/poi-images/netherlands-arkemheen-polder-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-nationaal-park-oosterschelde-life-v2",
     type: "park",
@@ -434,7 +447,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Alapítás éve: 2002", "Terület: 37 000 hektár", "Hollandia legnagyobb tengeri védett területe", "Tengeri élővilág: osztriga, kagyló, fóka", "Éves látogatók: 500 000", "A Deltaművek része"],
       ro: ["Anul înființării: 2002", "Suprafață: 37.000 ha", "Cea mai mare arie marină protejată din Olanda", "Faună marină: stridii, midii, foci", "Vizitatori anuali: 500.000", "Parte a lucrărilor Delta"],
       en: ["Established: 2002", "Area: 37,000 hectares", "Largest marine protected area in Netherlands", "Marine life: oysters, mussels, seals", "Annual visitors: 500,000", "Part of Delta Works"],
-    }, image: "/poi-images/netherlands-nationaal-park-oosterschelde-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-botanical-garden-rotterdam-life-v2",
     type: "park",
@@ -465,7 +479,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Alapítás éve: 1820", "Terület: 8 hektár", "Fa- és cserjefajok: 4000 felett", "Éves látogatók: 60 000", "Fókusz: tölgyek, rododendronok, tűlevelűek", "Rendszertani elrendezés"],
       ro: ["Anul fondării: 1820", "Suprafață: 8 ha", "Specii de arbori și arbuști: peste 4.000", "Vizitatori anuali: 60.000", "Accent pe: stejari, rododendroni, conifere", "Aranjare sistematică"],
       en: ["Founded: 1820", "Area: 8 hectares", "Tree and shrub species: over 4,000", "Annual visitors: 60,000", "Focus: oaks, rhododendrons, conifers", "Systematic layout"],
-    }, image: "/poi-images/netherlands-botanical-garden-rotterdam-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-nationaal-park-maasduinen-life-v2",
     type: "park",
@@ -496,7 +511,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Alapítás éve: 1998", "Terület: 4000 hektár", "Keletkezés: jégkorszak", "Állatok: keresztes vipera, lappantyú", "Legészakibb belföldi dűnék", "Natura 2000 terület"],
       ro: ["Anul înființării: 1998", "Suprafață: 4.000 ha", "Formare: ultima glaciațiune", "Animale: viperă cu corn, caprimulg", "Cele mai nordice dune interioare", "Sit Natura 2000"],
       en: ["Established: 1998", "Area: 4,000 hectares", "Formed during last Ice Age", "Animals: adder, nightjar", "Northernmost inland dunes", "Natura 2000 site"],
-    }, image: "/poi-images/netherlands-nationaal-park-maasduinen-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-nationaal-park-sallandse-heuvelrug-life-v2",
     type: "park",
@@ -527,7 +543,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Alapítás éve: 2004", "Terület: 5000 hektár", "Legmagasabb pont: 75 m", "Geológia: Saale-jégkorszak végmorénája", "Madarak: erdei pityer, csipkefaj", "Natura 2000 terület"],
       ro: ["Anul înființării: 2004", "Suprafață: 5.000 ha", "Cel mai înalt punct: 75 m", "Geologie: morenă terminală glaciară Saale", "Păsări: fâsă de pădure, ciocârlie de pădure", "Sit Natura 2000"],
       en: ["Established: 2004", "Area: 5,000 hectares", "Highest point: 75 m", "Geology: terminal moraine from Saale glaciation", "Birds: tree pipit, woodlark", "Natura 2000 site"],
-    }, image: "/poi-images/netherlands-nationaal-park-sallandse-heuvelrug-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-de-hoge-veluwe-wildlife-life-v2",
     type: "park",
@@ -558,7 +575,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Alapítás éve: 1935", "Terület: 5400 hektár", "Nagyemlősök: gímszarvas, vaddisznó, őz", "Múzeum: Kröller-Müller Van Gogh-gyűjtemény", "Éves látogatók: 600 000", "Kerékpárutak: 40 km"],
       ro: ["Anul fondării: 1935", "Suprafață: 5.400 ha", "Mamifere mari: cerb, mistreț, căprior", "Muzeu: Kröller-Müller cu colecție Van Gogh", "Vizitatori anuali: 600.000", "Piste de biciclete: 40 km"],
       en: ["Founded: 1935", "Area: 5,400 hectares", "Large mammals: red deer, wild boar, roe deer", "Museum: Kröller-Müller with Van Gogh collection", "Annual visitors: 600,000", "Cycling paths: 40 km"],
-    }, image: "/poi-images/netherlands-de-hoge-veluwe-wildlife-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-zwin-nature-reserve-life-v2",
     type: "park",
@@ -589,7 +607,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Terület: 1,25 km²", "Fekvés: belga határ", "Madarak: gulipán, sarki csér", "Keletkezés: tengerág homokosodása", "Natura 2000 terület", "Növények: sóballagó, sziki árnika"],
       ro: ["Suprafață: 1,25 km²", "Locație: granița cu Belgia", "Păsări: piciorong, chiră de mare", "Formare: colmatarea unui braț marin", "Sit Natura 2000", "Plante: salicornia, aster de mare"],
       en: ["Area: 1.25 km²", "Location: Belgian border", "Birds: pied avocet, Arctic tern", "Formed by silting of sea inlet", "Natura 2000 site", "Plants: glasswort, sea aster"],
-    }, image: "/poi-images/netherlands-zwin-nature-reserve-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-nationaal-park-lauwersmeer-life-v2",
     type: "park",
@@ -620,7 +639,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Alapítás éve: 2003", "Terület: 9000 hektár", "Elgátolás: 1969", "Madarak: kanalasgém, bütykös ásólúd, rétisas", "Natura 2000 terület", "Tevékenységek: kerékpár, túrázás, csónakázás"],
       ro: ["Anul înființării: 2003", "Suprafață: 9.000 ha", "Îndiguire: 1969 (Marea Lauwers)", "Păsări: lopătar, rață cu ciuf, codalb", "Sit Natura 2000", "Activități: ciclism, drumeții, barca"],
       en: ["Established: 2003", "Area: 9,000 hectares", "Closure of Lauwers Sea: 1969", "Birds: spoonbill, shelduck, white-tailed eagle", "Natura 2000 site", "Activities: cycling, hiking, boating"],
-    }, image: "/poi-images/netherlands-nationaal-park-lauwersmeer-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-botanic-garden-delft-life-v2",
     type: "park",
@@ -683,7 +703,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Terület: 10 000 hektár (100 km²)", "2009-ben nyilvánították nemzeti parkká", "A hollandi rétisasok legnagyobb sűrűsége itt található", "Több mint 400 növényfaj él a területen", "A tőzegkitermelés az 1960-as években ért véget", "Évente 300 000 látogató"],
       ro: ["Suprafață: 10.000 de hectare (100 km²)", "Desemnat parc național în 2009", "Cea mai mare densitate de codalbi din Țările de Jos", "Peste 400 de specii de plante în zonă", "Exploatarea turbei s-a încheiat în anii 1960", "300.000 de vizitatori anual"],
       en: ["Area: 10,000 hectares (100 km²)", "Established as national park in 2009", "Highest density of white-tailed eagles in the Netherlands", "Over 400 plant species recorded", "Peat extraction ceased in the 1960s", "Annual visitors: 300,000"],
-    }, image: "/poi-images/netherlands-nationaal-park-weerribben-wieden-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-nationaal-park-dwingelderveld-life-v2",
     type: "park",
@@ -714,7 +735,8 @@ export const netherlandsLifeV2: POI[] = [
       hu: ["Terület: 3 700 hektár (37 km²)", "1991 óta nemzeti park", "Legmagasabb pont: 20 m a tengerszint felett", "12 szitakötőfaj él itt", "Évente kb. 50 000 látogató", "Kb. 400 juhból álló nyáj"],
       ro: ["Suprafață: 3.700 de hectare (37 km²)", "Desemnat parc național din 1991", "Punctul cel mai înalt: 20 m deasupra nivelului mării", "Prezența a 12 specii de libelule", "Circa 50.000 de vizitatori anual", "Turmă de oi de aproximativ 400 de animale"],
       en: ["Area: 3,700 hectares (37 km²)", "Established as national park in 1991", "Highest point: 20 m above sea level", "Home to 12 dragonfly species", "Annual visitors: approx. 50,000", "Heath sheep flock of about 400 animals"],
-    }, image: "/poi-images/netherlands-nationaal-park-dwingelderveld-life-v2.webp"},
+    },
+  },
   {
     id: "netherlands-botanic-garden-groningen-life-v2",
     type: "park",

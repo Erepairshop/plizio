@@ -31,7 +31,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Lakosság: kb. 150 000", "Pader-forrás: 4000 l/s", "Püspökség alapítása: 795", "Szent Liborius-székesegyház: 11. sz.", "Egyetem alapítva: 1972", "Hallgatói létszám: kb. 20 000"],
       ro: ["Populație: circa 150.000", "Izvorul Pader: 4.000 l/s", "Înființarea episcopiei: 795", "Catedrala Sf. Liborius: sec. XI", "Universitatea fondată: 1972", "Studenți: circa 20.000"],
       en: ["Population: approx. 150,000", "Pader Spring: 4,000 l/s", "Bishopric founded: 795", "St. Liborius Cathedral: 11th century", "University founded: 1972", "Students: approx. 20,000"],
-    }, image: "/poi-images/germany-paderborn-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-reutlingen-cities-v2",
     type: "city",
@@ -62,7 +63,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Reutlingenben 115 000 ember él.", "A Reutlingeni Műszaki Egyetem 6000 hallgatóval rendelkezik.", "A város területe 87 km².", "Az évi átlaghőmérséklet 9,5 °C.", "A városban 20 multinacionális cég található.", "A munkanélküliségi ráta 2,8% (2023)."],
       ro: ["Populația orașului Reutlingen este de 115.000 de locuitori.", "PIB-ul pe cap de locuitor depășește 50.000 de euro.", "Suprafața parcurilor industriale este de 200 de hectare.", "Capacitatea de producție a parcurilor solare este de 10 MW.", "Numărul de companii locale este de aproximativ 10.000.", "Rata șomajului este sub 3%."],
       en: ["Reutlingen covers an area of 87 square kilometers.", "The city's highest point, Achalm, is 706 meters above sea level.", "The Echaz River is 10 kilometers long within the city limits.", "Reutlingen has 4 nature reserves covering 500 hectares.", "The annual precipitation is 800 mm.", "The city park, Stadtpark, spans 30 hectares."],
-    }, image: "/poi-images/germany-reutlingen-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-plauen-cities-v2",
     type: "city",
@@ -93,7 +95,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Plauen lakossága 64 000 fő.", "A csipkegyártás a 17. században kezdődött.", "1989-ben itt indult a hétfői tüntetéssorozat.", "A Vogtland Múzeum 12. századi kastélyban működik.", "Az évi átlaghőmérséklet 8,5 °C.", "A város területén folyik át a Weiße Elster."],
       ro: ["Populația orașului Plauen este de 64.000 de locuitori.", "Suprafața orașului este de 102 km².", "Rata șomajului este de 6%.", "Parcul tehnologic găzduiește 50 de firme.", "Lungimea traseelor de bicicletă este de 300 km.", "Înălțimea medie este de 350 m deasupra nivelului mării."],
       en: ["Plauen covers an area of 102 square kilometers.", "The city's elevation is approximately 350 meters above sea level.", "The White Elster River flows 18 kilometers through the city.", "Plauen has 4 museums, including a lace museum.", "The city park, Bürgerpark Syrdal, covers 50 hectares.", "Annual precipitation averages 700 mm."],
-    }, image: "/poi-images/germany-plauen-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-brandenburg-cities-v2",
     type: "city",
@@ -124,7 +127,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Brandenburg lakossága 72 000 fő.", "A várost 1170-ben alapították.", "A dóm legmagasabb tornya 82 méter.", "A Havel folyó hossza 40 km a város területén.", "A város 22 híddal rendelkezik.", "Az évi átlaghőmérséklet 9,2 °C."],
       ro: ["Populația orașului Brandenburg an der Havel este de 72.000 de locuitori.", "Suprafața orașului este de 229 km².", "Domul are o înălțime de 82 de metri.", "Lungimea pistei de biciclete este de 200 km.", "Parcul eolian produce 50 MW de energie.", "Rata șomajului este de 8,2%."],
       en: ["Brandenburg an der Havel covers 229 square kilometers.", "The city elevation is 32 meters above sea level.", "The Havel River is 40 kilometers long within the city limits.", "Brandenburg has 4 nature reserves totalling 1,500 hectares.", "The annual precipitation is 600 mm.", "The city has 22 bridges over the Havel and tributaries."],
-    }, image: "/poi-images/germany-brandenburg-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-hof-cities-v2",
     type: "city",
@@ -155,7 +159,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Hof lakossága 44 000 fő.", "A várost 1214-ben alapították.", "A város területe 58 km².", "Az éves átlaghőmérséklet 8 °C.", "A Hofer Bierbrauerei évi 50 000 hektolitert termel.", "A teherpályaudvar napi 500 tehervonatot kezel."],
       ro: ["Populația orașului Hof este de 44.000 de locuitori.", "Rata șomajului este de 4%.", "Suprafața orașului este de 58 km².", "Târgul Hofmesse atrage 200 de expozanți.", "Numărul de companii logistice depășește 100.", "Autostrada A9 trece pe lângă oraș."],
       en: ["Hof covers an area of 58 square kilometers.", "The city elevation ranges from 500 to 650 meters above sea level.", "The Saale River flows 13 kilometers through Hof.", "Hof has 3 nature reserves covering 900 hectares.", "Annual precipitation is 750 mm.", "The Fichtel Mountains reach altitudes over 1,000 meters near Hof."],
-    }, image: "/poi-images/germany-hof-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-bottrop-cities-v2",
     type: "city",
@@ -186,7 +191,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Bottrop lakossága 117 000 fő.", "A város területe 100 km².", "A Tetraeder 60 méter magas.", "Az utolsó szénbánya 2018-ban zárt be.", "A városban 150 km kerékpárút van.", "A zöldterületek aránya 20%."],
       ro: ["Populația orașului Bottrop este de 117.000 de locuitori.", "Rata șomajului este de 7,5%.", "Suprafața parcului tehnologic este de 20 de hectare.", "Lungimea pistelor de biciclete este de 150 km.", "Numărul de startup-uri în parcul tehnologic este de 30.", "Producția de energie regenerabilă este de 50 GWh anual."],
       en: ["Bottrop covers an area of 100 square kilometers.", "The city's lowest point is 26 meters above sea level.", "The Emscher River flows 8 kilometers through Bottrop.", "Bottrop has 3 lakes covering 60 hectares.", "The coal mine Prosper-Haniel reached a depth of 1,200 meters.", "The Tetraeder observation deck is at 60 meters height."],
-    }, image: "/poi-images/germany-bottrop-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-fulda-cities-v2",
     type: "city",
@@ -217,7 +223,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Fulda lakossága 68 000 fő.", "A város területe 104 km².", "A dóm magassága 65 méter.", "Szent Bonifác sírját évente 100 000 zarándok keresi fel.", "A Vonderau Múzeum 100 000 tárggyal rendelkezik.", "Az évi átlaghőmérséklet 9 °C."],
       ro: ["Populația orașului Fulda este de 68.000 de locuitori.", "Parcările pentru biciclete au 1.000 de locuri.", "Parcul tehnologic găzduiește 50 de firme IT.", "Numărul de înnoptări turistice anual este de 1,2 milioane.", "Universitatea de Științe Aplicate are 6.000 de studenți.", "Rata șomajului este de 4,5%."],
       en: ["Fulda covers an area of 104 square kilometers.", "The city elevation is 250 meters above sea level.", "The Fulda River is 18 kilometers long within the city limits.", "The Rhön Biosphere Reserve covers 2,400 square kilometers.", "Annual precipitation in Fulda averages 650 mm.", "The Milseburg volcanic peak reaches 835 meters."],
-    }, image: "/poi-images/germany-fulda-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-speyer-cities-v2",
     type: "city",
@@ -248,7 +255,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["A dóm hossza 134 méter, szélessége 33 méter.", "A város első írásos említése 496-ból való.", "Speyerben 1529-ben tartották a birodalmi gyűlést.", "A dóm tornyának magassága 71 méter.", "A város területe 42,6 km².", "A Technikai Múzeumban egy Concorde is ki van állítva."],
       ro: ["Catedrala are 134 m lungime și 33 m lățime.", "Speyer a fost distrusă în 1689 de trupele franceze.", "Orașul se întinde pe 42,6 km².", "Populația actuală este de aproximativ 50.000.", "Muzeul de Tehnică include un avion Boeing 747.", "În 1030 a început construcția catedralei."],
       en: ["Speyer Cathedral was consecrated in 1061 and measures 134 m in length.", "The cathedral's towers reach 71 m in height.", "Speyer was granted city rights in 1294.", "The city has an area of 42.6 km².", "The Technik Museum displays over 60 vintage aircraft.", "The 1529 Diet of Speyer resulted in the Protestation of the Princes."],
-    }, image: "/poi-images/germany-speyer-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-bamberg-cities-v2",
     type: "city",
@@ -279,7 +287,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["A dómot 1237-ben szentelték fel.", "A város a 18. században 24 sörfőzdével rendelkezett.", "Bamberg területe 54,6 km².", "A Bamberger Reiter szobor magassága 1,8 méter.", "Az egyetemet 1647-ben alapították.", "A Regnitz folyó hossza itt 6 km."],
       ro: ["Catedrala a fost finalizată în 1237.", "Orașul vechi are 2.400 de monumente istorice.", "Bamberg are 9 fabrici de bere active.", "Suprafața orașului este de 54,6 km².", "Primăria a fost construită pe o insulă artificială.", "Universitatea a fost fondată în 1647."],
       en: ["Bamberg Cathedral was completed in 1237.", "The old town has been a UNESCO site since 1993.", "Bamberg has nine breweries within city limits.", "The city covers an area of 54.6 km².", "The historic town hall was built in 1462 on an artificial island.", "The Bamberg Rider statue dates to around 1235."],
-    }, image: "/poi-images/germany-bamberg-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-solingen-cities-v2",
     type: "city",
@@ -310,7 +319,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Solingenben 160.000 lakos él.", "A Német Késmúzeum 1904-ben nyílt meg.", "A Müngsteni híd 107 méter magas.", "A város területe 89,5 km².", "A pengék kivitele meghaladja az 1 milliárd eurót évente.", "A legrégebbi fennmaradt kés a 15. századból származik."],
       ro: ["Solingen are 160.000 de locuitori.", "Muzeul German al cuțitelor a fost fondat în 1904.", "Podul Müngsten are 107 m înălțime și 465 m lungime.", "Suprafața orașului este de 89,5 km².", "Exportul de tacâmuri depășește 1 miliard de euro anual.", "Cel mai vechi cuțit păstrat datează din secolul al XV-lea."],
       en: ["Solingen has a population of 160,000 as of 2023.", "The German Blade Museum was founded in 1904.", "Müngsten Bridge is 107 m high and 465 m long.", "The city covers an area of 89.5 km².", "Annual cutlery exports exceed 1 billion euros.", "The oldest preserved knife dates from the 15th century."],
-    }, image: "/poi-images/germany-solingen-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-siegen-cities-v2",
     type: "city",
@@ -341,7 +351,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Siegenben kb. 100.000 lakos él.", "Az egyetemet 1972-ben alapították.", "A Felső várat 1250-ben említik először.", "A vasbányászat 1965-ben szűnt meg.", "Rubens 1577-ben született Siegenben.", "A város területe 114,7 km²."],
       ro: ["Siegen are aproximativ 100.000 de locuitori.", "Universitatea a fost fondată în 1972.", "Cetatea de Sus datează din secolul al XIII-lea.", "Mineritul de fier a încetat în 1965.", "Rubens s-a născut în Siegen în 1577.", "Suprafața orașului este de 114,7 km²."],
       en: ["Siegen's population is approximately 100,000 (2023).", "The University of Siegen was founded in 1972.", "Upper Castle was first mentioned in 1250.", "Iron ore mining ceased in 1965.", "Peter Paul Rubens was born in Siegen in 1577.", "The city area is 114.7 km²."],
-    }, image: "/poi-images/germany-siegen-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-cuxhaven-cities-v2",
     type: "city",
@@ -372,7 +383,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Cuxhavenben 50.000 lakos él.", "A Kugelbake 30 méter magas.", "A halászati kikötőt 1890-ben nyitották meg.", "Cuxhaven ad otthont a Német Tengerészeti Központnak.", "A partszakasz 15 km homokos strandot foglal magában.", "Az árapálysíkság 2009 óta UNESCO világörökség."],
       ro: ["Cuxhaven are 50.000 de locuitori.", "Kugelbake are o înălțime de 30 m.", "Portul de pescuit a fost deschis în 1890.", "Orașul găzduiește Centrul Maritim German.", "Linia de coastă include 15 km de plajă cu nisip.", "Zona de maree este patrimoniu UNESCO din 2009."],
       en: ["Cuxhaven has a population of 50,000 as of 2023.", "The Kugelbake stands 30 m tall, built in 1704.", "The fishing port was opened in 1890.", "Cuxhaven hosts the German Maritime Centre.", "The coastline features 15 km of sandy beach.", "The Wadden Sea has been a UNESCO site since 2009."],
-    }, image: "/poi-images/germany-cuxhaven-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-cloppenburg-cities-v2",
     type: "city",
@@ -403,7 +415,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["A Múzeumfalut 1934-ben nyitották meg.", "Cloppenburg lakossága 35.000 fő.", "A város területe 70,6 km².", "A Szent András-templomot 1463-ban építették.", "A járásnak 170.000 lakosa van.", "A várost 1297-ben említik először."],
       ro: ["Muzeul Satului a fost deschis în 1934.", "Cloppenburg are 35.000 de locuitori.", "Suprafața orașului este de 70,6 km².", "Biserica Sf. Andrei a fost construită în 1463.", "Districtul Cloppenburg are 170.000 de locuitori.", "Prima mențiune a orașului este din 1297."],
       en: ["The Museum Village opened in 1934.", "Cloppenburg's population is 35,000 as of 2023.", "The city covers 70.6 km².", "St. Andrew's Church was built in 1463.", "Cloppenburg district has 170,000 residents.", "The city was first mentioned in 1297."],
-    }, image: "/poi-images/germany-cloppenburg-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-emden-cities-v2",
     type: "city",
@@ -434,7 +447,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Emden lakossága kb. 50.000 fő.", "A kikötő Németország harmadik legnagyobb északi-tengeri kikötője.", "A városházát 1574-ben építették.", "A Volkswagen-gyár 10.000 embert foglalkoztat.", "Emdent 1494-ben említik először városként.", "A város területe 112,5 km²."],
       ro: ["Emden are aproximativ 50.000 de locuitori.", "Portul este al treilea cel mai mare port german la Marea Nordului.", "Primăria a fost construită în 1574.", "Fabrica Volkswagen din Emden angajează 10.000 de persoane.", "Emden a fost menționat ca oraș în 1494.", "Suprafața orașului este de 112,5 km²."],
       en: ["Emden has about 50,000 inhabitants.", "The port is Germany's third largest North Sea harbor.", "The town hall was built in 1574.", "The Volkswagen plant employs 10,000 people.", "Emden was first mentioned as a city in 1494.", "The city area is 112.5 km²."],
-    }, image: "/poi-images/germany-emden-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-meissen-cities-v2",
     type: "city",
@@ -465,7 +479,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["A meisseni porcelán gyártása 1710-ben kezdődött.", "Az Albrechtsburgot 1471 és 1525 között építették.", "A meisseni dóm építése 1260 körül kezdődött.", "Meißen lakossága 28.000 fő.", "A város területe 30,9 km².", "A szőlőültetvények kb. 300 hektáron terülnek el."],
       ro: ["Porțelanul de Meissen este produs din 1710.", "Albrechtsburg a fost construit între 1471 și 1525.", "Catedrala din Meißen a început în jurul anului 1260.", "Meißen are 28.000 de locuitori.", "Suprafața orașului este de 30,9 km².", "Podgoriile acoperă aproximativ 300 de hectare."],
       en: ["Meissen porcelain has been produced since 1710.", "Albrechtsburg was built between 1471 and 1525.", "Meißen Cathedral construction began around 1260.", "Meißen has 28,000 inhabitants as of 2023.", "The city area covers 30.9 km².", "Vineyards occupy about 300 hectares of land."],
-    }, image: "/poi-images/germany-meissen-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-baden-baden-cities-v2",
     type: "city",
@@ -496,7 +511,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Baden-Baden lakossága 55.000 fő.", "A termálforrások hőmérséklete 68 °C.", "A Kurhaust 1824-ben nyitották meg.", "A kaszinó 1838 óta működik.", "A Festspielhaus 2.500 férőhelyes.", "A város területe 140,2 km²."],
       ro: ["Baden-Baden are 55.000 de locuitori.", "Izvoarele termale au o temperatură de 68°C.", "Kurhaus a fost deschis în 1824.", "Cazinoul funcționează din 1838.", "Festspielhaus are 2.500 de locuri.", "Suprafața orașului este de 140,2 km²."],
       en: ["Baden-Baden has 55,000 inhabitants (2023).", "The thermal springs reach 68°C.", "Kurhaus was opened in 1824.", "The casino has been operating since 1838.", "Festspielhaus seats 2,500 people.", "The city covers 140.2 km²."],
-    }, image: "/poi-images/germany-baden-baden-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-arnsberg-cities-v2",
     type: "city",
@@ -527,7 +543,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Arnsbergben kb. 75.000 lakos él.", "Az Arnsbergi várat a 12. században építették.", "A várost 1036-ban említik először.", "Az Arnsbergi erdő 400 km² kiterjedésű.", "A Szent Lőrinc-templomot 1660-ban szentelték fel.", "A város területe 193,4 km²."],
       ro: ["Arnsberg are aproximativ 75.000 de locuitori.", "Castelul Arnsberg a fost construit în secolul al XII-lea.", "Orașul a fost menționat pentru prima dată în 1036.", "Pădurea Arnsberg are 400 km².", "Biserica Sf. Laurențiu a fost sfințită în 1660.", "Suprafața orașului este de 193,4 km²."],
       en: ["Arnsberg has about 75,000 inhabitants as of 2023.", "Arnsberg Castle was built in the 12th century.", "The city was first mentioned in 1036.", "Arnsberg Forest covers 400 km².", "St. Lawrence's Church was consecrated in 1660.", "The city area is 193.4 km²."],
-    }, image: "/poi-images/germany-arnsberg-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-speyer-2-cities-v2",
     type: "city",
@@ -558,7 +575,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Dormagen lakossága 63.000 fő.", "A Bayer-telepet 1917-ben alapították.", "A várost 1276-ban említik először.", "A Szent Mihály-templomot 1491-ben építették.", "Dormagen Neusstól 7 km-re északra fekszik.", "A város területe 85,4 km²."],
       ro: ["Dormagen are 63.000 de locuitori.", "Fabrica Bayer din Dormagen a fost fondată în 1917.", "Orașul a fost menționat pentru prima dată în 1276.", "Biserica Sf. Mihail a fost construită în 1491.", "Dormagen se află la 7 km nord de Neuss.", "Suprafața orașului este de 85,4 km²."],
       en: ["Dormagen has 63,000 inhabitants as of 2023.", "The Bayer plant in Dormagen was founded in 1917.", "The city was first mentioned in 1276.", "St. Michael's Church was built in 1491.", "Dormagen is 7 km north of Neuss.", "The city area is 85.4 km²."],
-    }, image: "/poi-images/germany-speyer-2-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-landshut-cities-v2",
     type: "city",
@@ -589,7 +607,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Landshut lakossága 75.000 fő.", "A Szent Márton-templom tornya 130,6 méter magas.", "A Trausnitz várat 1204-ben építették.", "A landshuti esküvőt 1475 óta rendezik meg.", "A város területe 73,3 km².", "Landshut 393 méter tengerszint feletti magasságban fekszik."],
       ro: ["Landshut are 75.000 de locuitori.", "Turnul Bisericii Sf. Martin are 130,6 m înălțime.", "Castelul Trausnitz a fost construit în 1204.", "Nunta Landshut are loc din 1475.", "Suprafața orașului este de 73,3 km².", "Landshut se află la 393 m altitudine."],
       en: ["Landshut's population is 75,000 as of 2023.", "St. Martin's Church tower is 130.6 m high.", "Trausnitz Castle was built in 1204.", "The Landshut Wedding has been celebrated since 1475.", "The city area is 73.3 km².", "Landshut is situated at 393 m above sea level."],
-    }, image: "/poi-images/germany-landshut-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-offenburg-cities-v2",
     type: "city",
@@ -620,7 +639,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Offenburg lakossága 60.000 fő.", "A várost 1148-ban említik először.", "A városházát 1743-ban építették.", "Offenburg 166 méter tengerszint felett van.", "A város területe 78,4 km².", "Az Europapark Rust 10 km-re található."],
       ro: ["Offenburg are 60.000 de locuitori.", "Orașul a fost menționat pentru prima dată în 1148.", "Primăria a fost construită în 1743.", "Offenburg se află la 166 m altitudine.", "Suprafața orașului este de 78,4 km².", "Parcul Europa din Rust este la 10 km distanță."],
       en: ["Offenburg has 60,000 inhabitants as of 2023.", "The city was first mentioned in 1148.", "The town hall was built in 1743.", "Offenburg is at 166 m above sea level.", "The city area is 78.4 km².", "Europa-Park Rust is 10 km away."],
-    }, image: "/poi-images/germany-offenburg-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-arnsberg-2-cities-v2",
     type: "city",
@@ -651,7 +671,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Velbert lakossága 82.000 fő.", "A várost 871-ben említik először.", "A nevigesi Bergisches Münstert 1968-ban szentelték fel.", "Velbert a német biztonságtechnikai ipar központja.", "A város területe 74,9 km².", "A történelmi favázas ház a 17. századból származik."],
       ro: ["Velbert are 82.000 de locuitori.", "Orașul a fost menționat pentru prima dată în 871.", "Domul Bergischer din Neviges a fost sfințit în 1968.", "Velbert este sediul industriei germane de securitate.", "Suprafața orașului este de 74,9 km².", "Casa istorică cu jumătate de lemn datează din secolul al XVII-lea."],
       en: ["Velbert has 82,000 inhabitants as of 2023.", "The city was first mentioned in 871.", "The Bergischer Dom in Neviges was consecrated in 1968.", "Velbert is the seat of the German security industry.", "The city area is 74.9 km².", "The historic half-timbered house dates from the 17th century."],
-    }, image: "/poi-images/germany-arnsberg-2-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-ludenscheid-cities-v2",
     type: "city",
@@ -682,7 +703,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Lüdenscheid lakossága 72.000 fő.", "A Megváltó-templomot 1906-ban szentelték fel.", "A várost 1067-ben említik először.", "A város területe 86,8 km².", "Lüdenscheid 420 méter tengerszint felett van.", "Az alkalmazott tudományok főiskoláját 1971-ben alapították."],
       ro: ["Lüdenscheid are 72.000 de locuitori.", "Biserica Erlöserkirche a fost sfințită în 1906.", "Orașul a fost menționat pentru prima dată în 1067.", "Suprafața orașului este de 86,8 km².", "Lüdenscheid se află la 420 m altitudine.", "Universitatea de științe aplicate a fost fondată în 1971."],
       en: ["Lüdenscheid has 72,000 inhabitants as of 2023.", "Erlöserkirche was consecrated in 1906.", "The city was first mentioned in 1067.", "The city area is 86.8 km².", "Lüdenscheid is at 420 m above sea level.", "The university of applied sciences was founded in 1971."],
-    }, image: "/poi-images/germany-ludenscheid-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-dinslaken-cities-v2",
     type: "city",
@@ -713,7 +735,8 @@ export const germanyCitiesV2: POI[] = [
       hu: ["Dinslaken lakossága 66.000 fő.", "A várost 1125-ben említik először.", "A bányászat 1992-ben fejeződött be.", "A történelmi városházát 1649-ben építették.", "A város területe 47,7 km².", "A Rotbach-tó 12 hektáros."],
       ro: ["Dinslaken are 66.000 de locuitori.", "Orașul a fost menționat pentru prima dată în 1125.", "Mineritul s-a încheiat în 1992.", "Primăria istorică a fost construită în 1649.", "Suprafața orașului este de 47,7 km².", "Lacul Rotbach are 12 ha."],
       en: ["Dinslaken has 66,000 inhabitants as of 2023.", "The city was first mentioned in 1125.", "Mining ended in 1992.", "The historic town hall was built in 1649.", "The city area is 47.7 km².", "Rotbach Lake covers 12 hectares."],
-    }, image: "/poi-images/germany-dinslaken-cities-v2.webp"},
+    },
+  },
   {
     id: "germany-ratingen-cities-v2",
     type: "city",

@@ -31,7 +31,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 2169 m", "Rang: Szerbia harmadik legmagasabb hegye", "Elhelyezkedés: bolgár határ", "Hegység: Stara Planina", "Hóban gazdag időszak: november–május", "Legközelebbi város: Pirot, 50 km"],
       ro: ["Altitudine: 2169 m", "Rang: al treilea munte ca înălțime din Serbia", "Locație: granița cu Bulgaria", "Lanț muntos: Stara Planina", "Perioada de zăpadă: noiembrie–mai", "Cel mai apropiat oraș: Pirot, 50 km"],
       en: ["Elevation: 2169 m", "Rank: third highest mountain in Serbia", "Location: border with Bulgaria", "Mountain range: Stara Planina", "Snow cover: November to May", "Nearest town: Pirot, 50 km"],
-    }, image: "/poi-images/serbia-midzor-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-pancic-peak-relief-v2",
     type: "peak",
@@ -62,7 +63,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 2017 m", "Elhelyezkedés: Kopaonik, Közép-Szerbia", "Nemzeti Park: Kopaonik", "Sípályák: 25 km", "Névadó: Josif Pančić (1814-1888)", "Legközelebbi város: Raška, 30 km"],
       ro: ["Altitudine: 2017 m", "Locație: Kopaonik, centrul Serbiei", "Parcul Național: Kopaonik", "Pârtii de schi: 25 km", "Denumit după: Josif Pančić (1814-1888)", "Cel mai apropiat oraș: Raška, 30 km"],
       en: ["Elevation: 2017 m", "Location: Kopaonik, central Serbia", "National Park: Kopaonik", "Ski slopes: 25 km", "Named after: Josif Pančić (1814-1888)", "Nearest town: Raška, 30 km"],
-    }, image: "/poi-images/serbia-pancic-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-rudenik-mountain-relief-v2",
     type: "mountain",
@@ -93,7 +95,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1130 m", "Legmagasabb csúcs: Cvijić", "Bányászat a római kor óta", "Fémek: ólom, cink, réz, ezüst", "Középkori várromok a csúcson", "Távolság Gornji Milanovactól: 15 km"],
       ro: ["Altitudine: 1130 m", "Vârf principal: Cvijić", "Exploatare minieră din epoca romană", "Metale: plumb, zinc, cupru, argint", "Ruinele unei cetăți medievale pe vârf", "Distanța față de Gornji Milanovac: 15 km"],
       en: ["Elevation: 1130 m", "Highest point: Cvijić Peak", "Mining since Roman era", "Minerals: lead, zinc, copper, silver", "Medieval fortress ruins on summit", "Distance from Gornji Milanovac: 15 km"],
-    }, image: "/poi-images/serbia-rudenik-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-bukulja-mountain-relief-v2",
     type: "mountain",
@@ -124,7 +127,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 696 m", "Elhelyezkedés: Aranđelovac mellett", "Termálforrások: Bukovička Banja", "Ércek: barit, ólom", "Erdősültség: több mint 70%", "Távolság Belgrádtól: 60 km"],
       ro: ["Altitudine: 696 m", "Locație: lângă Aranđelovac", "Izvoare termale: Bukovička Banja", "Minereuri: barit, plumb", "Acoperire forestieră: peste 70%", "Distanță față de Belgrad: 60 km"],
       en: ["Elevation: 696 m", "Location: near Aranđelovac", "Thermal springs: Bukovička Banja", "Ores: barite, lead", "Forest cover: over 70%", "Distance from Belgrade: 60 km"],
-    }, image: "/poi-images/serbia-bukulja-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-vince-peak-relief-v2",
     type: "peak",
@@ -155,7 +159,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1404 m", "Hegység: Homolje", "Legközelebbi város: Kučevo (15 km)", "Erdősültség: sűrű", "Karsztbarlangok: több", "Homolje legmagasabb pontja: 1404 m"],
       ro: ["Altitudine: 1404 m", "Lanț muntos: Homolje", "Cel mai apropiat oraș: Kučevo (15 km)", "Acoperire forestieră: densă", "Peșteri carstice: mai multe", "Cel mai înalt punct al Homolje: 1404 m"],
       en: ["Elevation: 1404 m", "Mountain range: Homolje", "Nearest town: Kučevo (15 km)", "Forest cover: dense", "Karst caves: several", "Highest point of Homolje: 1404 m"],
-    }, image: "/poi-images/serbia-vince-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-bukovik-mountain-relief-v2",
     type: "mountain",
@@ -186,7 +191,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 894 m", "Elhelyezkedés: Boljevac mellett", "Tea: Rtanj-tea (Teucrium flavum)", "Erdősültség: sűrű", "Kolostor: Bukovik", "Távolság Zaječartól: 25 km"],
       ro: ["Altitudine: 894 m", "Locație: lângă Boljevac", "Ceai: Ceai de Rtanj (Teucrium flavum)", "Acoperire forestieră: densă", "Mănăstire: Bukovik", "Distanță față de Zaječar: 25 km"],
       en: ["Elevation: 894 m", "Location: near Boljevac", "Tea: Rtanj tea (Teucrium flavum)", "Forest cover: dense", "Monastery: Bukovik", "Distance from Zaječar: 25 km"],
-    }, image: "/poi-images/serbia-bukovik-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-crni-vrh-peak-relief-v2",
     type: "peak",
@@ -217,7 +223,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1296 m", "Hegység: Deli Jovan", "Védett terület: Miroč Természeti Park", "Legközelebbi város: Donji Milanovac (8 km)", "Kilátás: Duna és Đerdap-szurdok", "Bányászat: réz, arany"],
       ro: ["Altitudine: 1296 m", "Lanț muntos: Deli Jovan", "Arie protejată: Parcul Natural Miroč", "Cel mai apropiat oraș: Donji Milanovac (8 km)", "Priveliște: Dunărea și Cheile Đerdap", "Exploatări miniere: cupru, aur"],
       en: ["Elevation: 1296 m", "Mountain range: Deli Jovan", "Protected area: Miroč Nature Park", "Nearest town: Donji Milanovac (8 km)", "View: Danube and Đerdap Gorge", "Mining: copper, gold"],
-    }, image: "/poi-images/serbia-crni-vrh-peak-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-selicevica-mountain-relief-v2",
     type: "mountain",
@@ -248,7 +255,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1277 m", "Hegység: Homolje", "Jelentős barlang: Ravniština", "Állatvilág: barnamedve, farkas", "Erdősültség: több mint 80%", "Legközelebbi város: Kučevo (20 km)"],
       ro: ["Altitudine: 1277 m", "Lanț muntos: Homolje", "Peșteră importantă: Ravniština", "Faună: urs brun, lup", "Acoperire forestieră: peste 80%", "Cel mai apropiat oraș: Kučevo (20 km)"],
       en: ["Elevation: 1277 m", "Mountain range: Homolje", "Notable cave: Ravniština", "Wildlife: brown bear, wolf", "Forest cover: over 80%", "Nearest town: Kučevo (20 km)"],
-    }, image: "/poi-images/serbia-selicevica-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-jastrebac-gipfel-relief-v2",
     type: "peak",
@@ -279,7 +287,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1492 m", "Hegység: Jastrebac", "TV-torony: van", "Túraútvonalak: 5 jelzett út", "Látótávolság: tiszta időben akár 50 km", "Legközelebbi város: Aleksandrovac (20 km)"],
       ro: ["Altitudine: 1492 m", "Lanț muntos: Jastrebac", "Turn de TV: prezent", "Trasee de drumeție: 5 trasee marcate", "Vizibilitate: până la 50 km pe vreme senină", "Cel mai apropiat oraș: Aleksandrovac (20 km)"],
       en: ["Elevation: 1492 m", "Mountain range: Jastrebac", "TV tower: present", "Hiking trails: 5 marked routes", "Visibility: up to 50 km in clear weather", "Nearest town: Aleksandrovac (20 km)"],
-    }, image: "/poi-images/serbia-jastrebac-gipfel-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-maljen-mountain-relief-v2",
     type: "mountain",
@@ -310,7 +319,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1097 m", "Elhelyezkedés: Nyugat-Szerbia", "Síközpont: Divčibare (1,5 km pálya)", "Erdősültség: több mint 70%", "Forrás: Gradac folyó", "Legközelebbi város: Valjevo (30 km)"],
       ro: ["Altitudine: 1097 m", "Locație: vestul Serbiei", "Stațiune de schi: Divčibare (1,5 km pârtii)", "Acoperire forestieră: peste 70%", "Izvor: râul Gradac", "Cel mai apropiat oraș: Valjevo (30 km)"],
       en: ["Elevation: 1097 m", "Location: western Serbia", "Ski resort: Divčibare (1.5 km slopes)", "Forest cover: over 70%", "Spring: Gradac River", "Nearest town: Valjevo (30 km)"],
-    }, image: "/poi-images/serbia-maljen-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-golija-jankov-kamen-relief-v2",
     type: "peak",
@@ -341,7 +351,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1833 m", "Hegység: Golija", "UNESCO bioszféra rezervátum: Golija-Studenica", "Endemikus növény: Golija-szegfű", "Legközelebbi város: Novi Pazar (30 km)", "Studenica kolostor: 15 km"],
       ro: ["Altitudine: 1833 m", "Lanț muntos: Golija", "Rezervația Biosferei UNESCO: Golija-Studenica", "Plantă endemică: garoafa de Golija", "Cel mai apropiat oraș: Novi Pazar (30 km)", "Mănăstirea Studenica: 15 km distanță"],
       en: ["Elevation: 1833 m", "Mountain range: Golija", "UNESCO Biosphere Reserve: Golija-Studenica", "Endemic plant: Golija carnation", "Nearest town: Novi Pazar (30 km)", "Studenica Monastery: 15 km away"],
-    }, image: "/poi-images/serbia-golija-jankov-kamen-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-zlatar-mountain-relief-v2",
     type: "mountain",
@@ -372,7 +383,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1625 m (Goleš)", "Elhelyezkedés: Délnyugat-Szerbia", "Természeti Park: Zlatar", "Tó: Uvac-tó (víztározó)", "Madárfaj: fakókeselyű", "Legközelebbi város: Nova Varoš (15 km)"],
       ro: ["Altitudine: 1625 m (Goleš)", "Locație: sud-vestul Serbiei", "Parcul Natural: Zlatar", "Lac: Lacul Uvac (de acumulare)", "Pasăre: vulturul monahal", "Cel mai apropiat oraș: Nova Varoš (15 km)"],
       en: ["Elevation: 1625 m (Goleš)", "Location: southwestern Serbia", "Nature Park: Zlatar", "Lake: Uvac Lake (reservoir)", "Bird species: griffon vulture", "Nearest town: Nova Varoš (15 km)"],
-    }, image: "/poi-images/serbia-zlatar-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-rogozna-mountain-relief-v2",
     type: "mountain",
@@ -403,7 +415,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["A hegység hossza: kb. 30 km", "Legmagasabb csúcs: Crni Vrh, 1479 m", "Rogozna Természeti Park területe: 22.000 ha", "Éves magnéziumbányászat: kb. 200.000 t", "Endemikus növényfajok száma: legalább 5", "Régi olvasztókemencék magassága: akár 2 m"],
       ro: ["Lungimea masivului: aprox. 30 km", "Cel mai înalt vârf: Crni Vrh, 1.479 m", "Suprafața Parcului Natural Rogozna: 22.000 ha", "Producția anuală de magnezit: cca. 200.000 t", "Numărul speciilor de plante endemice: cel puțin 5", "Înălțimea vechilor cuptoare de topire: până la 2 m"],
       en: ["Length of the mountain range: approx. 30 km", "Highest peak: Crni Vrh, 1,479 m", "Area of Rogozna Nature Park: 22,000 ha", "Annual magnesite production: approx. 200,000 t", "Number of endemic plant species: at least 5", "Height of old smelting furnaces: up to 2 m"],
-    }, image: "/poi-images/serbia-rogozna-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-kopaonik-gobelja-relief-v2",
     type: "peak",
@@ -434,7 +447,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1917 m", "Kopaonik Nemzeti Park területe: 11.810 ha", "Jelölt túraútvonalak száma: több mint 30", "Júliusi átlaghőmérséklet: 15 °C", "Éves csapadékmennyiség: kb. 1000 mm", "Endemikus növényfajok száma: legalább 10"],
       ro: ["Altitudine: 1.917 m", "Parcul Național Kopaonik: suprafață 11.810 ha", "Număr de trasee marcate: peste 30", "Temperatura medie în iulie: 15 °C", "Precipitații anuale: cca. 1.000 mm", "Specii de plante endemice: cel puțin 10"],
       en: ["Elevation: 1,917 m", "Kopaonik National Park area: 11,810 ha", "Number of marked hiking trails: over 30", "Average July temperature: 15 °C", "Annual precipitation: approx. 1,000 mm", "Endemic plant species: at least 10"],
-    }, image: "/poi-images/serbia-kopaonik-gobelja-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-suva-planina-trem-relief-v2",
     type: "peak",
@@ -465,7 +479,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1810 m", "Suva Planina masszívum hossza: kb. 20 km", "Sziklamászó útvonalak száma: több mint 50", "Legmélyebb szurdok: 300 m", "Éves csapadékmennyiség: 700 mm", "Ritka növényfajok száma: legalább 3"],
       ro: ["Altitudine: 1.810 m", "Lungimea masivului Suva Planina: cca. 20 km", "Număr de trasee de alpinism: peste 50", "Cea mai adâncă cheie: 300 m", "Precipitații anuale: 700 mm", "Specii rare de plante: cel puțin 3"],
       en: ["Elevation: 1,810 m", "Length of Suva Planina massif: approx. 20 km", "Number of climbing routes: over 50", "Deepest gorge: 300 m", "Annual precipitation: 700 mm", "Rare plant species: at least 3"],
-    }, image: "/poi-images/serbia-suva-planina-trem-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-fruska-gora-brankovac-relief-v2",
     type: "mountain",
@@ -496,7 +511,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Nemzeti park területe: 25.525 ha", "Legmagasabb pont: Crveni Čot, 539 m", "Kolostorok száma: 16", "Éves látogatók száma: kb. 500.000", "Madárfajok száma: több mint 200", "Túraútvonalak hossza: több mint 200 km"],
       ro: ["Suprafața parcului național: 25.525 ha", "Cel mai înalt punct: Crveni Čot, 539 m", "Număr de mănăstiri: 16", "Vizitatori anuali: cca. 500.000", "Număr de specii de păsări: peste 200", "Lungimea traseelor de drumeție: peste 200 km"],
       en: ["National park area: 25,525 ha", "Highest point: Crveni Čot, 539 m", "Number of monasteries: 16", "Annual visitors: approx. 500,000", "Number of bird species: over 200", "Length of hiking trails: over 200 km"],
-    }, image: "/poi-images/serbia-fruska-gora-brankovac-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-radan-mountain-relief-v2",
     type: "mountain",
@@ -527,7 +543,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Legmagasabb pont: Šopot, 1409 m", "A hegység hossza: kb. 25 km", "Termálforrások hőmérséklete: akár 38 °C", "Gyógyfürdők éves látogatószáma: kb. 100.000", "Endemikus növényfajok száma: 4", "Átlagos csapadékmennyiség: 800 mm"],
       ro: ["Cel mai înalt vârf: Šopot, 1.409 m", "Lungimea masivului: cca. 25 km", "Temperatura izvoarelor termale: până la 38 °C", "Vizitatori anuali ai stațiunilor: cca. 100.000", "Număr de specii endemice de plante: 4", "Precipitații medii: 800 mm"],
       en: ["Highest peak: Šopot, 1,409 m", "Length of the range: approx. 25 km", "Temperature of thermal springs: up to 38 °C", "Annual visitors to spa towns: approx. 100,000", "Number of endemic plant species: 4", "Average precipitation: 800 mm"],
-    }, image: "/poi-images/serbia-radan-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-beljanica-mountain-relief-v2",
     type: "mountain",
@@ -558,7 +575,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Veliki Krš, 1339 m", "Beljanica-barlang hossza: több mint 2000 m", "Legmélyebb töbrök: akár 50 m", "Védett terület nagysága: 5000 ha", "Barlangok száma: több mint 30", "Júliusi átlaghőmérséklet: 18 °C"],
       ro: ["Cel mai înalt vârf: Veliki Krš, 1.339 m", "Lungimea Peșterii Beljanica: peste 2.000 m", "Cele mai adânci doline: până la 50 m", "Suprafața ariei protejate: 5.000 ha", "Număr de peșteri: peste 30", "Temperatura medie în iulie: 18 °C"],
       en: ["Highest peak: Veliki Krš, 1,339 m", "Length of Beljanica Cave: over 2,000 m", "Deepest sinkholes: up to 50 m", "Area of protected area: 5,000 ha", "Number of caves: over 30", "Average July temperature: 18 °C"],
-    }, image: "/poi-images/serbia-beljanica-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-stolica-mountain-relief-v2",
     type: "peak",
@@ -589,7 +607,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1156 m", "A Miroč-hegység része", "Távolság a Dunától: kb. 5 km", "Homokkő sziklák magassága: akár 100 m", "Madárfajok száma: több mint 100", "Éves csapadékmennyiség: 650 mm"],
       ro: ["Altitudine: 1.156 m", "Parte a Munților Miroč", "Distanța până la Dunăre: cca. 5 km", "Înălțimea stâncilor de gresie: până la 100 m", "Număr de specii de păsări: peste 100", "Precipitații anuale: 650 mm"],
       en: ["Elevation: 1,156 m", "Part of Miroč Mountains", "Distance to Danube: approx. 5 km", "Height of sandstone cliffs: up to 100 m", "Number of bird species: over 100", "Annual precipitation: 650 mm"],
-    }, image: "/poi-images/serbia-stolica-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-povlen-mountain-relief-v2",
     type: "mountain",
@@ -620,7 +639,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Veliki Povlen, 1301 m", "Barlangok száma: több mint 60", "Endemikus növényfajok száma: legalább 3", "Védett terület nagysága: 10.000 ha", "Leghíresebb barlang hossza: 500 m", "Januári átlaghőmérséklet: -2 °C"],
       ro: ["Cel mai înalt vârf: Veliki Povlen, 1.301 m", "Număr de peșteri: peste 60", "Specii endemice de plante: cel puțin 3", "Suprafața ariei protejate: 10.000 ha", "Lungimea celei mai cunoscute peșteri: 500 m", "Temperatura medie în ianuarie: -2 °C"],
       en: ["Highest peak: Veliki Povlen, 1,301 m", "Number of caves: over 60", "Endemic plant species: at least 3", "Area of protected area: 10,000 ha", "Length of most famous cave: 500 m", "Average January temperature: -2 °C"],
-    }, image: "/poi-images/serbia-povlen-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-tara-zboriste-relief-v2",
     type: "peak",
@@ -683,7 +703,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Tornik magassága: 1496 m", "Sípályák teljes hossza: 8 km", "Felvonó kapacitása: 1500 fő/óra", "Éves hóborítottság: több mint 100 nap", "Júliusi átlaghőmérséklet: 17 °C", "Zlatibor szállodáinak száma: több mint 50"],
       ro: ["Altitudinea Tornik: 1.496 m", "Lungimea totală a pârtiilor: 8 km", "Capacitatea telecabinei: 1.500 persoane/oră", "Zile cu strat de zăpadă anual: peste 100", "Temperatura medie în iulie: 17 °C", "Număr de hoteluri în Zlatibor: peste 50"],
       en: ["Elevation of Tornik: 1,496 m", "Total length of ski slopes: 8 km", "Cable car capacity: 1,500 persons/hour", "Annual snow cover days: over 100", "Average July temperature: 17 °C", "Number of hotels in Zlatibor: over 50"],
-    }, image: "/poi-images/serbia-zlatibor-tornik-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-kosmaj-mountain-relief-v2",
     type: "mountain",
@@ -778,7 +799,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["A fennsík magassága: kb. 1200 m", "Vlasina-tó területe: 16,5 km²", "A tó maximális mélysége: 22 m", "Éves csapadékmennyiség: 900 mm", "Madárfajok száma: több mint 150", "Júliusi átlaghőmérséklet: 14 °C"],
       ro: ["Altitudinea platoului: cca. 1.200 m", "Suprafața lacului Vlasina: 16,5 km²", "Adâncimea maximă a lacului: 22 m", "Precipitații anuale: 900 mm", "Număr de specii de păsări: peste 150", "Temperatura medie în iulie: 14 °C"],
       en: ["Plateau elevation: approx. 1,200 m", "Area of Lake Vlasina: 16.5 km²", "Maximum lake depth: 22 m", "Annual precipitation: 900 mm", "Number of bird species: over 150", "Average July temperature: 14 °C"],
-    }, image: "/poi-images/serbia-vlasina-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-ozren-mountain-relief-v2",
     type: "mountain",
@@ -809,7 +831,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Leskovi, 1180 m", "A hegység hossza: kb. 30 km", "Ásványvízforrások hőmérséklete: akár 28 °C", "Gyógyfürdők éves látogatószáma: kb. 50.000", "Erdősültség: 80%", "Templomromok száma: 5"],
       ro: ["Cel mai înalt vârf: Leskovi, 1.180 m", "Lungimea masivului: cca. 30 km", "Temperatura izvoarelor minerale: până la 28 °C", "Vizitatori anuali ai stațiunilor: cca. 50.000", "Acoperire forestieră: 80%", "Număr de ruine de biserici: 5"],
       en: ["Highest peak: Leskovi, 1,180 m", "Length of the range: approx. 30 km", "Temperature of mineral springs: up to 28 °C", "Annual visitors to spa towns: approx. 50,000", "Forest cover: 80%", "Number of church ruins: 5"],
-    }, image: "/poi-images/serbia-ozren-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-raska-planina-relief-v2",
     type: "mountain",
@@ -872,7 +895,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Crni Vrh, 1099 m", "A hegység hossza: kb. 20 km", "Éves vadászati engedélyek: 200", "Túraútvonalak száma: 10", "Júliusi átlaghőmérséklet: 20 °C", "Vadászterület nagysága: 10.000 ha"],
       ro: ["Cel mai înalt vârf: Crni Vrh, 1.099 m", "Lungimea masivului: cca. 20 km", "Permise de vânătoare anuale: 200", "Număr de trasee de drumeție: 10", "Temperatura medie în iulie: 20 °C", "Suprafața terenului de vânătoare: 10.000 ha"],
       en: ["Highest peak: Crni Vrh, 1,099 m", "Length of the range: approx. 20 km", "Annual hunting permits: 200", "Number of hiking trails: 10", "Average July temperature: 20 °C", "Hunting ground area: 10,000 ha"],
-    }, image: "/poi-images/serbia-jastrebac-mali-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-vrteska-mountain-relief-v2",
     type: "mountain",
@@ -903,7 +927,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1262 m", "Távolság Zaječartól: kb. 15 km", "Római lelőhelyek száma: 3", "Homokkő sziklák magassága: akár 50 m", "Éves csapadékmennyiség: 700 mm", "Januári átlaghőmérséklet: -1 °C"],
       ro: ["Altitudine: 1.262 m", "Distanța față de Zaječar: cca. 15 km", "Număr de situri romane: 3", "Înălțimea stâncilor de gresie: până la 50 m", "Precipitații anuale: 700 mm", "Temperatura medie în ianuarie: -1 °C"],
       en: ["Elevation: 1,262 m", "Distance from Zaječar: approx. 15 km", "Number of Roman sites: 3", "Height of sandstone cliffs: up to 50 m", "Annual precipitation: 700 mm", "Average January temperature: -1 °C"],
-    }, image: "/poi-images/serbia-vrteska-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-zeljin-mountain-relief-v2",
     type: "mountain",
@@ -934,7 +959,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Željin, 1785 m", "A Kopaonik-masszívum része", "Erdőterület nagysága: 8000 ha", "Éves csapadékmennyiség: 1000 mm", "Túraútvonalak száma: 8", "Júliusi átlaghőmérséklet: 14 °C"],
       ro: ["Cel mai înalt vârf: Željin, 1.785 m", "Parte a masivului Kopaonik", "Suprafața pădurii: 8.000 ha", "Precipitații anuale: 1.000 mm", "Număr de trasee de drumeție: 8", "Temperatura medie în iulie: 14 °C"],
       en: ["Highest peak: Željin, 1,785 m", "Part of Kopaonik massif", "Forest area: 8,000 ha", "Annual precipitation: 1,000 mm", "Number of hiking trails: 8", "Average July temperature: 14 °C"],
-    }, image: "/poi-images/serbia-zeljin-mountain-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-bukulja-gipfel-relief-v2",
     type: "peak",
@@ -965,7 +991,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 693 m", "Televíziós torony magassága: 50 m", "Éves látogatók száma: kb. 100.000", "Védett terület nagysága: 2000 ha", "Ásványvízforrások hőmérséklete: 10 °C", "Távolság Belgrádtól: kb. 60 km"],
       ro: ["Altitudine: 693 m", "Înălțimea turnului de televiziune: 50 m", "Vizitatori anuali: cca. 100.000", "Suprafața ariei protejate: 2.000 ha", "Temperatura izvoarelor minerale: 10 °C", "Distanța față de Belgrad: cca. 60 km"],
       en: ["Elevation: 693 m", "Height of TV tower: 50 m", "Annual visitors: approx. 100,000", "Area of protected area: 2,000 ha", "Temperature of mineral springs: 10 °C", "Distance from Belgrade: approx. 60 km"],
-    }, image: "/poi-images/serbia-bukulja-gipfel-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-stara-planina-kordzino-relief-v2",
     type: "mountain",
@@ -1060,7 +1087,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1.665 m", "Kőzettípus: andezit", "Legközelebbi város: Raška (7 km)", "Átlagos csapadék: 800 mm/év", "Endemikus növényfajok száma: 12", "Túraútvonal hossza a csúcsig: 4,5 km"],
       ro: ["Altitudine: 1.665 m", "Tip rocă: andezit", "Cel mai apropiat oraș: Raška (7 km)", "Precipitații medii: 800 mm/an", "Număr de specii endemice de plante: 12", "Lungimea traseului de drumeție până la vârf: 4,5 km"],
       en: ["Elevation: 1,665 m", "Rock type: andesite", "Nearest town: Raška (7 km)", "Average annual rainfall: 800 mm", "Endemic plant species: 12", "Hiking trail length to summit: 4.5 km"],
-    }, image: "/poi-images/serbia-raska-crni-vrh-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-kopaonik-suncana-dolina-relief-v2",
     type: "valley",
@@ -1091,7 +1119,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Völgy magassága: 1.500-1.800 m", "Sífelvonók száma: 8", "Pályák teljes hossza: 12 km a völgyben", "Átlagos hóvastagság februárban: 80 cm", "Szezon: december-április", "Nyári maximum hőmérséklet: 25 °C"],
       ro: ["Altitudinea văii: 1.500-1.800 m", "Număr de teleschiuri: 8", "Lungime totală a pârtiilor: 12 km în vale", "Grosimea medie a zăpezii în februarie: 80 cm", "Sezon: decembrie-aprilie", "Temperatura maximă de vară: 25 °C"],
       en: ["Valley elevation: 1,500-1,800 m", "Number of ski lifts: 8", "Total slope length in valley: 12 km", "Average snow depth in February: 80 cm", "Season: December to April", "Summer maximum temperature: 25 °C"],
-    }, image: "/poi-images/serbia-kopaonik-suncana-dolina-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-kopaonik-krcmar-relief-v2",
     type: "peak",
@@ -1122,7 +1151,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1.589 m", "Karszt területe: kb. 5 km²", "Távolság a legközelebbi úttól: 3 km", "Átlagos lejtés: 35°", "Források száma: 7", "Fahatár: 1.600 m"],
       ro: ["Altitudine: 1.589 m", "Suprafața carstică: aprox. 5 km²", "Distanța până la cel mai apropiat drum: 3 km", "Panta medie: 35°", "Numărul de izvoare: 7", "Limita arborilor: 1.600 m"],
       en: ["Elevation: 1,589 m", "Karst area: approx. 5 km²", "Distance to nearest road: 3 km", "Average slope gradient: 35°", "Number of springs: 7", "Tree line: 1,600 m"],
-    }, image: "/poi-images/serbia-kopaonik-krcmar-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-stara-planina-bratin-vrh-relief-v2",
     type: "peak",
@@ -1153,7 +1183,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1.743 m", "A Sztara Planina hossza: 75 km", "Védett terület nagysága: 340 km²", "Balkáni zergék száma: kb. 200", "A hegység legmagasabb pontja: Midžor (2.169 m)", "Éves csapadékmennyiség: 1.200 mm"],
       ro: ["Altitudine: 1.743 m", "Lungimea Munților Stara Planina: 75 km", "Suprafața ariei protejate: 340 km²", "Numărul de capre negre balcanice: aprox. 200", "Cel mai înalt vârf: Midžor (2.169 m)", "Precipitații anuale: 1.200 mm"],
       en: ["Elevation: 1,743 m", "Length of Stara Planina range: 75 km", "Protected area size: 340 km²", "Balkan chamois population: approx. 200", "Highest peak of range: Midžor (2,169 m)", "Annual precipitation: 1,200 mm"],
-    }, image: "/poi-images/serbia-stara-planina-bratin-vrh-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-tara-veliki-stolac-relief-v2",
     type: "peak",
@@ -1184,7 +1215,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1.652 m", "Nemzeti park területe: 192 km²", "Bioszféra-rezervátum éve: 1998", "Drina-szurdok hossza: 35 km", "Növényfajok száma: 1.200", "Éves átlaghőmérséklet: 8 °C"],
       ro: ["Altitudine: 1.652 m", "Suprafața parcului național: 192 km²", "Rezervația biosferei din: 1998", "Lungimea defileului Drinei: 35 km", "Număr de specii de plante: 1.200", "Temperatura medie anuală: 8 °C"],
       en: ["Elevation: 1,652 m", "National park area: 192 km²", "Biosphere reserve since: 1998", "Length of Drina Canyon: 35 km", "Number of plant species: 1,200", "Average annual temperature: 8 °C"],
-    }, image: "/poi-images/serbia-tara-veliki-stolac-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-zlatibor-cicot-relief-v2",
     type: "mountain",
@@ -1247,7 +1279,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1.420 m", "Barlangok száma: 15", "Források magnéziumtartalma: akár 300 mg/L", "Karszt terület: 8 km²", "Átlagos téli hőmérséklet: -2 °C", "Legközelebbi település: Lipa (3 km)"],
       ro: ["Altitudine: 1.420 m", "Număr de peșteri: 15", "Conținutul de magneziu al izvoarelor: până la 300 mg/L", "Suprafața carstică: 8 km²", "Temperatura medie de iarnă: -2 °C", "Cea mai apropiată localitate: Lipa (3 km)"],
       en: ["Elevation: 1,420 m", "Number of caves: 15", "Magnesium content in springs: up to 300 mg/L", "Karst area: 8 km²", "Average winter temperature: -2 °C", "Nearest settlement: Lipa (3 km)"],
-    }, image: "/poi-images/serbia-kopaonik-vucak-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-stara-planina-cuka-relief-v2",
     type: "peak",
@@ -1278,7 +1311,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 1.820 m", "Kőzettípus: mészkő", "Mászóútvonalak száma: 12", "Leghosszabb útvonal hossza: 250 m", "Távolság Gostuša falutól: 4 km", "Szirti sas fészkelőpárjai: 3"],
       ro: ["Altitudine: 1.820 m", "Tip rocă: calcar", "Număr de trasee de cățărare: 12", "Lungimea celui mai lung traseu: 250 m", "Distanța până la satul Gostuša: 4 km", "Cuiburi de vultur de stâncă: 3"],
       en: ["Elevation: 1,820 m", "Rock type: limestone", "Number of climbing routes: 12", "Length of longest route: 250 m", "Distance to village Gostuša: 4 km", "Breeding pairs of golden eagle: 3"],
-    }, image: "/poi-images/serbia-stara-planina-cuka-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-tara-bijela-stijena-relief-v2",
     type: "peak",
@@ -1309,7 +1343,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Sziklafal magassága: 350 m", "Átlagos falmeredekség: 80°", "Mászóútvonalak száma: 20", "Távolság a legközelebbi parkolótól: 2 km", "Magasság a Drina szintje felett: 200 m", "A mészkő kora: jura"],
       ro: ["Înălțimea peretelui stâncos: 350 m", "Panta medie a peretelui: 80°", "Număr de trasee de cățărare: 20", "Distanța până la cea mai apropiată parcare: 2 km", "Înălțimea deasupra nivelului Drinei: 200 m", "Vârsta calcarului: Jurasic"],
       en: ["Height of rock wall: 350 m", "Average wall steepness: 80°", "Number of climbing routes: 20", "Distance to nearest parking: 2 km", "Height above Drina level: 200 m", "Age of limestone: Jurassic"],
-    }, image: "/poi-images/serbia-tara-bijela-stijena-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-zlatibor-gruda-relief-v2",
     type: "mountain",
@@ -1340,7 +1375,8 @@ export const serbiaReliefV2: POI[] = [
       hu: ["Magasság: 980 m", "Hagyományos faházak száma: 30", "Távolság Sirogojnotól: 3 km", "Átlagos éves hőmérséklet: 10 °C", "Egy juh hústermelése: 20 kg/év", "Múzeumlátogatók száma évente: 50.000"],
       ro: ["Altitudine: 980 m", "Număr de case tradiționale din lemn: 30", "Distanța până la Sirogojno: 3 km", "Temperatura medie anuală: 10 °C", "Producția de carne per oaie: 20 kg/an", "Vizitatori anuali ai muzeului: 50.000"],
       en: ["Elevation: 980 m", "Number of traditional wooden houses: 30", "Distance to Sirogojno: 3 km", "Average annual temperature: 10 °C", "Meat production per sheep: 20 kg/year", "Annual museum visitors: 50,000"],
-    }, image: "/poi-images/serbia-zlatibor-gruda-relief-v2.webp"},
+    },
+  },
   {
     id: "serbia-kopaonik-vucak-zapad-relief-v2",
     type: "mountain",

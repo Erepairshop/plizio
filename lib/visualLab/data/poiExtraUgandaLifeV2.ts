@@ -785,25 +785,5 @@ export const poiExtraUgandaLifeV2: POI[] = [
       en: ["Area: 2,275 km²", "Established: 1964", "Reintroduced species: black rhino, African wild dog", "Habitat: dry savannah", "Bird species: over 200", "Major threat: poaching, overgrazing"],
     },
   }
-,
-  {
-    id: "uganda-mabira-forest-life-v2",
-    type: "forest",
-    name: { de: "Mabira-Wald", hu: "Mabira-erdő", ro: "Pădurea Mabira", en: "Mabira Forest" },
-    coords: [32.9667, 0.3833],
-    description: {
-      de: "Mabira-Wald ist ein 300 km² großer Regenwald in Zentraluganda. Er schützt den Uganda-Mangaben und über 300 verschiedene Vogelarten.",
-      hu: "A Mabira-erdő egy 300 km²-es esőerdő Közép-Ugandában. Otthont ad az endemikus ugandai mangábénak és több mint 300 különböző madárfajnak.",
-      ro: "Pădurea Mabira este o pădure tropicală de 300 km² din centrul Ugandei. Protejează mangabeiul ugandez endemic și peste 300 de specii de păsări.",
-      en: "Mabira Forest is a 300 km² rainforest in Central Uganda. It protects the endemic Uganda Mangabey and over 300 different bird species.",
-    },
-    facts: {
-      de: ["1932 zum Schutzgebiet erklärt", "Beherbergt 312 Baumarten", "Heimat des endemischen Uganda-Mangaben", "Beherbergt 25 % der Vogelarten Ugandas"],
-      hu: ["1932-ben nyilvánították védetté", "312 fafajnak ad otthont", "Az endemikus ugandai mangábé élőhelye", "Uganda madárfajainak 25%-át tartalmazza"],
-      ro: ["Declarată rezervație în 1932", "Adăpostește 312 specii de arbori", "Habitat pentru mangabeiul ugandez endemic", "Conține 25% din speciile de păsări din Uganda"],
-      en: ["Gazetted as a reserve in 1932", "Home to 312 tree species", "Host to the endemic Uganda Mangabey", "Contains 25% of Uganda's bird species"],
-    },
-    imageHint: "Mabira Forest canopy lush green rainforest Uganda",
-  }
 ];
 

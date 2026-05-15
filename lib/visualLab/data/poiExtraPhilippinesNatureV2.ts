@@ -843,25 +843,5 @@ image: "/poi-images/ph-davao-gulf-nature-v2.webp"
     
     
   }
-,
-  {
-    id: "philippines-kayangan-lake-nature-v2",
-    type: "lake",
-    name: { de: "Kayangan-See", hu: "Kayangan-tó", ro: "Lacul Kayangan", en: "Kayangan Lake" },
-    coords: [120.2267, 11.9472],
-    description: {
-      de: "Der Kayangan-See ist ein kristallklarer See auf der Insel Coron in Palawan. Er besteht zu 70 % aus Süßwasser und ist von steilen Kalksteinfelsen umgeben.",
-      hu: "A Kayangan-tó egy kristálytiszta vízű tó Coron szigetén, Palawan tartományban. Vize 70%-ban édesvízből áll, meredek mészkősziklák ölelik körbe.",
-      ro: "Lacul Kayangan este un corp de apă cristalin situat pe insula Coron din Palawan. Este format majoritar din apă dulce și înconjurat de stânci calcaroase.",
-      en: "Kayangan Lake is a crystal-clear body of water on Coron Island in Palawan. It consists of 70% freshwater and is surrounded by steep limestone karst cliffs.",
-    },
-    facts: {
-      de: ["Er gilt als der sauberste See der Philippinen und einer der saubersten in Asien.", "Der See liegt im angestammten Gebiet des indigenen Volkes der Tagbanwa.", "Die umliegenden Felsformationen bestehen aus etwa 250 Millionen Jahre altem Kalkstein.", "Ein 360 Stufen langer Pfad führt zum berühmten Aussichtspunkt über der Bucht."],
-      hu: ["Gyakran emlegetik a Fülöp-szigetek és egész Ázsia legtisztább tavaként.", "A tó az őshonos tagbanwa nép szent és védett területén fekszik.", "A környező sziklák perm időszaki mészkőből állnak, koruk 250 millió év.", "A látogatóknak 360 lépcsőfokot kell megmászniuk a tónál lévő ikonikus kilátóhoz."],
-      ro: ["Este considerat cel mai curat lac din Filipine și unul dintre cele mai curate din Asia.", "Lacul se află în domeniul ancestral al populației indigene Tagbanwa.", "Stâncile calcaroase din jur datează din perioada Permian, având 250 milioane de ani.", "O potecă cu 360 de trepte oferă acces la cel mai fotografiat punct de belvedere."],
-      en: ["It is consistently cited as the cleanest lake in the Philippines and all of Asia.", "The lake is part of the ancestral domain of the indigenous Tagbanwa people.", "The surrounding limestone karst formations date back 250 million years to the Permian.", "Visitors climb a 360-step trail to reach the iconic viewpoint overlooking the bay."],
-    },
-    imageHint: "Kayangan Lake Coron Palawan turquoise water limestone cliffs",
-  }
 ];
 

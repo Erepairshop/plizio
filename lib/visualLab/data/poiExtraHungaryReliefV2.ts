@@ -31,7 +31,8 @@ export const hungaryReliefV2: POI[] = [
       hu: ["A medence 150-200 m tengerszint feletti magasságban fekszik.", "Az évi középhőmérséklet 9,5 °C.", "Csapadék évente kb. 550 mm.", "A Tarna-patak vezeti le a vizeket.", "Területe hozzávetőleg 150 km².", "Mezőgazdaság: szőlő, búza, kukorica."],
       ro: ["Bazinul se află la 150-200 m altitudine.", "Temperatura medie anuală este de 9,5°C.", "Precipitații anuale: aprox. 550 mm.", "Drenajul este asigurat de râul Tarna.", "Suprafața este de aproximativ 150 km².", "Agricultură: viță de vie, grâu, porumb."],
       en: ["The basin lies at 150-200 m elevation.", "Average annual temperature is 9.5°C.", "Annual precipitation: approx. 550 mm.", "Drainage by the Tarna River.", "Area is approximately 150 km².", "Agriculture: wine, wheat, corn."],
-    }, image: "/poi-images/hungary-haromszegi-medence-relief-v2.webp"},
+    },
+  },
   {
     id: "hungary-cserehati-dombsag-relief-v2",
     type: "mountain",
@@ -62,7 +63,8 @@ export const hungaryReliefV2: POI[] = [
       hu: ["A dombság területe 800 km².", "Magasság: 200-300 m.", "Erdőborítottság: csak 20%.", "Népsűrűség: 40 fő/km².", "Napraforgó- és gabonatermesztés.", "Híres a vadgyümölcsöseiről."],
       ro: ["Dealurile acoperă 800 km².", "Altitudini: 200-300 m.", "Acoperire forestieră: doar 20%.", "Densitatea populației: 40 loc/km².", "Culturi de floarea-soarelui și cereale.", "Faimoase pentru livezile sălbatice."],
       en: ["The hills cover 800 km².", "Elevations: 200-300 m.", "Forest cover: only 20%.", "Population density: 40 per km².", "Sunflower and cereal cultivation.", "Famous for wild fruit orchards."],
-    }, image: "/poi-images/hungary-cserehati-dombsag-relief-v2.webp"},
+    },
+  },
   {
     id: "hungary-szaraz-domb-relief-v2",
     type: "peak",

@@ -95,7 +95,8 @@ export const andorraEconomicV2: POI[] = [
       hu: ["2022-ben adták át a közönségnek", "A spanyol határ mentén található", "Fókuszban az újrahasznosított anyagok", "Andorra legnagyobb bevásárlóközpontja", "Környezetbarát építészeti megoldások", "Több mint 100 nemzetközi márka"],
       ro: ["Inaugurat oficial în 2022", "Suprafață de peste 27.000 mp", "Localizat în Sant Julià de Lòria", "Arhitectură bazată pe sustenabilitate", "Zonă extinsă de food court", "Principalul punct de shopping la frontieră"],
       en: ["Opened its doors in 2022", "27,000 square meters of floor space", "Focus on circular economy principles", "Largest mall in the Principality", "Strategically located near Spain", "Extensive rooftop terrace area"],
-    }, image: "/poi-images/andorra-epizen-mall-economic-v2.webp"},
+    },
+  },
   {
     id: "andorra-pyrenees-store-economic-v2",
     type: "landmark",
@@ -126,7 +127,8 @@ export const andorraEconomicV2: POI[] = [
       hu: ["1930 óta üzemel folyamatosan", "Andorra la Vella központjában van", "Híres az ínyenc élelmiszerboltjáról", "Saját hűségprogram 1970 óta", "Több emeletnyi prémium divatcikk", "A hercegség legrégebbi áruháza"],
       ro: ["Fondat în perioada interbelică, 1930", "Situat pe principala arteră comercială", "Secțiune dedicată produselor gourmet", "Peste 150 de branduri de lux", "Servicii personalizate de shopping", "Punct major de atracție turistică"],
       en: ["Established in 1930", "Located on Avinguda Meritxell", "Famous for its gourmet food cellar", "Pioneer of luxury retail in Andorra", "Features a dedicated tech section", "Major employer in the capital city"],
-    }, image: "/poi-images/andorra-pyrenees-store-economic-v2.webp"},
+    },
+  },
   {
     id: "andorra-iron-route-mine-economic-v2",
     type: "mine",
@@ -157,7 +159,8 @@ export const andorraEconomicV2: POI[] = [
       hu: ["A bánya tárnája 30 méter mélyen nyúlik be", "Siderit és hematit ércet bányásztak itt", "A bányászat szezonális jelleggel folyt", "A vasút hiánya miatt állati erővel szállítottak", "A 19. század közepén zárt be végleg", "Ma ipari műemlék és látogatható helyszín"],
       ro: ["Exploatare de fier activă timp de trei secole", "Galeria vizitabilă are o lungime de 30 metri", "Zăcământul conține în principal siderit", "Fierul era prelucrat în forje catalane", "Producția a scăzut după Revoluția Industrială", "Include sculpturi moderne în aer liber"],
       en: ["Open for extraction primarily in summer months", "Depth of the accessible gallery is 30 meters", "Part of the UNESCO Iron Route in the Pyrenees", "Iron was exported to nearby Spanish regions", "Mine ceased commercial operations in late 1800s", "Preserves 19th-century mining tools and methods"],
-    }, image: "/poi-images/andorra-iron-route-mine-economic-v2.webp"},
+    },
+  },
   {
     id: "andorra-river-mall-economic-v2",
     type: "landmark",
@@ -188,7 +191,8 @@ export const andorraEconomicV2: POI[] = [
       hu: ["A CG-1 főút mentén fekszik", "Jelentős irodakomplexum tartozik hozzá", "Népszerű a spanyol vásárlók körében", "Hatalmas mélygarázzsal rendelkezik", "Saját logisztikai központot üzemeltet", "Kedvezményes üzemanyag-állomás"],
       ro: ["Localizat pe ruta CG-1", "Include un hypermarket de mari dimensiuni", "Centru administrativ pentru companii", "Peste 500 de locuri de parcare", "Prețuri atractive la produse de import", "Infrastructură modernă de afaceri"],
       en: ["Major retail hub near Spanish border", "Combines shopping with office spaces", "Located in Sant Julià de Lòria", "Extensive selection of imported goods", "Primary stop for cross-border shoppers", "Integrated financial service points"],
-    }, image: "/poi-images/andorra-river-mall-economic-v2.webp"},
+    },
+  },
   {
     id: "andorra-franco-customs-economic-v2",
     type: "landmark",
@@ -219,7 +223,8 @@ export const andorraEconomicV2: POI[] = [
       hu: ["Európa egyik legmagasabb vámhelye", "Franciaország felé biztosít átjárást", "Szigorú vámellenőrzés zajlik itt", "A francia turisták fő belépési pontja", "2000 méter tengerszint feletti magasság", "Jelentős adóbevételt generál az államnak"],
       ro: ["Punct de trecere către Franța", "Altitudine de peste 2000 de metri", "Gestionează cotele de produse scutite", "Sursă majoră de venituri vamale", "Funcționare permanentă pentru tranzit", "Control riguros al mărfurilor comerciale"],
       en: ["High-altitude border crossing", "Primary link to the French market", "Regulates duty-free export limits", "Essential for national tax revenue", "Located in the town of Pas de la Casa", "Handles millions of transit vehicles"],
-    }, image: "/poi-images/andorra-franco-customs-economic-v2.webp"},
+    },
+  },
   {
     id: "andorra-reig-factory-economic-v2",
     type: "factory",
@@ -250,7 +255,8 @@ export const andorraEconomicV2: POI[] = [
       hu: ["A gyárat 1909-ben alapították", "Andorra legfontosabb iparága volt a dohány", "A múzeum interaktív módon mutatja be a gyártást", "A dohányt a környező teraszos mezőkön termesztették", "A Reig család ma is befolyásos üzleti kör", "Kézi és gépi sodrási technikákat is alkalmaztak"],
       ro: ["Înființată în 1909 de Julià Reig i Roig", "A funcționat ca fabrică până în anii 2000", "Producția anuală atingea milioane de unități", "Clădirea păstrează arhitectura industrială originală", "Exporturile vizau în special piața spaniolă", "Muzeul a fost deschis publicului în 2003"],
       en: ["Established in 1909 by the Reig family", "Transitioned into a museum in the early 21st century", "Focuses on 'puros' (cigars) and cigarette brands", "Tobacco was the primary cash crop of the valleys", "The site features original processing machinery", "Located in the southern parish of Sant Julià"],
-    }, image: "/poi-images/andorra-reig-factory-economic-v2.webp"},
+    },
+  },
   {
     id: "andorra-prat-creu-finance-economic-v2",
     type: "landmark",
@@ -281,7 +287,8 @@ export const andorraEconomicV2: POI[] = [
       hu: ["A legtöbb andorrai bank székhelye", "Andorra la Vella kormányzati negyede", "Itt található a pénzügyi felügyelet", "A privátbanki szolgáltatások központja", "Kiemelt biztonsági zóna", "Fontos infrastrukturális csomópont"],
       ro: ["Sediul central al băncilor majore", "Zona administrativă a capitalei", "Include autoritatea de supraveghere", "Hub pentru servicii de private banking", "Arhitectură modernă de birouri", "Centru de reglementare economică"],
       en: ["Home to Andorra's top financial firms", "Located in the heart of the capital", "Focus on international private wealth", "Administrative hub for bank regulations", "Proximity to government buildings", "Key driver of national GDP"],
-    }, image: "/poi-images/andorra-prat-creu-finance-economic-v2.webp"},
+    },
+  },
   {
     id: "andorra-escaldes-cogeneration-economic-v2",
     type: "industry",
@@ -312,7 +319,8 @@ export const andorraEconomicV2: POI[] = [
       hu: ["A FEDA Ecoterm divíziója üzemelteti", "Csökkenti az importált energiafüggőséget", "Meleg vizet és fűtést szolgáltat a városnak", "Kiemelkedő, 80% feletti energiahatékonyság", "A hálózat hossza több kilométer", "Főleg közintézményeket és kórházakat lát el"],
       ro: ["Sistem inaugurat pentru optimizarea termică", "Reduce emisiile de gaze cu efect de seră", "Capacitate termică de câteva megawați", "Alimentează zona centrală Escaldes", "Investiție majoră în tehnologie verde", "Monitorizare digitală a consumului urban"],
       en: ["Operates as a high-efficiency district heating plant", "Uses natural gas to generate electricity and heat", "Serves the densest urban areas of Andorra", "Connected to the national electric grid", "Strategic asset for the Energy Transition Plan", "Managed by the national utility company FEDA"],
-    }, image: "/poi-images/andorra-escaldes-cogeneration-economic-v2.webp"},
+    },
+  },
   {
     id: "andorra-congress-center-economic-v2",
     type: "landmark",
@@ -343,7 +351,8 @@ export const andorraEconomicV2: POI[] = [
       hu: ["900 fős nagyteremmel rendelkezik", "4200 négyzetméternyi hasznos terület", "Itt tartják a legfontosabb állami üléseket", "Andorra la Vella központjában található", "Modern audiovizuális felszereltség", "Évente több száz eseményt lát vendégül"],
       ro: ["Capacitate de 900 de locuri în auditoriu", "Peste 4.000 mp de spațiu versatil", "Gazdă pentru summit-uri diplomatice", "Localizat central în capitală", "Dotări tehnice de ultimă generație", "Pilon al turismului de afaceri"],
       en: ["Auditorium capacity of 900 people", "Over 4,000 square meters of space", "Key venue for international summits", "Features specialized press rooms", "Located in Andorra la Vella", "Hub for professional networking"],
-    }, image: "/poi-images/andorra-congress-center-economic-v2.webp"},
+    },
+  },
   {
     id: "andorra-galland-factory-economic-v2",
     type: "factory",
@@ -374,7 +383,8 @@ export const andorraEconomicV2: POI[] = [
       hu: ["Precíziós fémalkatrészek gyártása", "Főleg az európai piacokra exportálnak", "Encamp ipari övezetében helyezkedik el", "Saját tervező és mérnöki gárdával rendelkezik", "High-tech gyártósorok jellemzik", "Fontos szerep a nem-turisztikai GDP-ben"],
       ro: ["Localizată în parohia Encamp", "Produce piese de înaltă precizie prin așchiere", "Echipată cu tehnologie robotizată modernă", "Angajează ingineri calificați locali", "Standarde stricte de control al calității", "Unul dintre puținii mari exportatori industriali"],
       en: ["Focuses on high-precision mechanical engineering", "Major industrial site in the Encamp parish", "Supplies parts for the automotive and energy sectors", "Utilizes advanced automated CNC machinery", "Key player in Andorra's industrial diversification", "Maintains high international quality certifications"],
-    }, image: "/poi-images/andorra-galland-factory-economic-v2.webp"},
+    },
+  },
   {
     id: "andorra-textile-mill-economic-v2",
     type: "factory",
@@ -405,7 +415,8 @@ export const andorraEconomicV2: POI[] = [
       hu: ["A Valira folyó vize hajtotta a gépeket", "Híres volt a tartós, meleg gyapjútakaróiról", "A 19. században érte el virágkorát", "Helyi gránitból épült ipari épület", "A legelők és az ipar kapcsolatát szimbolizálja", "Sokáig az egyik legtöbb nőt foglalkoztató hely"],
       ro: ["Folosea forța hidraulică a râului Valira d'Orient", "Producție axată pe pături și stofe groase", "Clădire construită cu zidărie de granit local", "Mecanizarea a început în a doua jumătate a sec. XIX", "Reprezenta principala industrie textilă montană", "Conservată ca patrimoniu de arhitectură civilă"],
       en: ["Powered by water turbines from the Valira river", "Specialized in heavy blankets and coarse cloth", "Operational peak during the 19th and early 20th centuries", "Features traditional mountain masonry architecture", "Essential for the survival of the pastoral economy", "The site is located near the thermal springs"],
-    }, image: "/poi-images/andorra-textile-mill-economic-v2.webp"},
+    },
+  },
   {
     id: "andorra-sant-julia-logistics-economic-v2",
     type: "industry",

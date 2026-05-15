@@ -31,7 +31,8 @@ export const austriaNatureV2: POI[] = [
       hu: ["Tengerszint feletti magassága 1530 méter", "Karintia legnagyobb síközpontja található itt", "A hágó útja 15 hajtűkanyart tartalmaz", "A Wulfenia carinthiaca virág egyetlen élőhelye", "Az első világháborúban fontos védelmi vonal volt", "Az éves csapadékmennyiség meghaladja a 2000 mm-t"],
       ro: ["Altitudine maximă: 1530 metri", "Face legătura între valea Gail și valea Canale", "Panta maximă a drumului este de 12%", "Găzduiește floarea rară Wulfenia carinthiaca", "Este deschis traficului rutier tot anul", "Regiunea primește peste 2500 ore de soare pe an"],
       en: ["Summit elevation: 1,530 meters (5,020 ft)", "Connects Carinthia (AT) with Friuli (IT)", "Home to the rare blue Wulfenia flower", "Features over 110 kilometers of ski slopes", "The pass road has a maximum gradient of 12%", "Average annual snowfall can exceed 7 meters"],
-    }, image: "/poi-images/austria-nassfeld-pass-nature-v2.webp"},
+    },
+  },
   {
     id: "austria-gosausee-nature-v2",
     type: "lake",
@@ -62,7 +63,8 @@ export const austriaNatureV2: POI[] = [
       hu: ["A tó maximális mélysége 82 méter", "933 méteres tengerszint feletti magasság", "A Dachstein-gleccser táplálja vízzel", "A partvonal hossza kb. 4,2 kilométer", "A víz átlátszósága eléri a 10-15 métert", "Természetvédelmi terület 1923 óta"],
       ro: ["Adâncime maximă: 82 metri", "Altitudinea oglinzii apei: 933 metri", "Suprafața lacului principal: 58 hectare", "Temperatură maximă a apei: 17°C", "Alimentat prin izvoare subterane carstice", "Vizibilitatea sub apă depășește 10 metri"],
       en: ["Maximum depth reaches 82 meters", "Located at 933 meters above sea level", "Total surface area: approx. 58 hectares", "Protected natural monument since 1923", "Water is of drinking quality standard", "The lake basin was formed by a glacier"],
-    }, image: "/poi-images/austria-gosausee-nature-v2.webp"},
+    },
+  },
   {
     id: "austria-grosser-rieserferner-nature-v2",
     type: "mountain",
@@ -93,7 +95,8 @@ export const austriaNatureV2: POI[] = [
       hu: ["A Rieserferner-csoport legnagyobb gleccsere", "A Hochgall-csúcs északi oldalán található", "Átlagos magassága 2800-3300 méter", "A Naturpark Rieserferner-Ahrn része", "Jelentős jégveszteség az 1850-es évek óta", "Kristályos kőzeteken, gneiszen fekszik"],
       ro: ["Cel mai mare ghețar din grupul Rieserferner", "Situat la baza vârfului Hochgall (3436 m)", "Face parte din parcul natural transfrontalier", "Altitudine medie: peste 2900 metri", "S-a retras cu peste 500m în ultimul secol", "Sursă de apă pentru râul Reinbach"],
       en: ["Largest glacier in the Rieserferner Group", "Northern exposure preserves the ice mass", "Located within a protected Nature Park", "The glacier ice is hundreds of years old", "Maximum elevation: approx. 3,400 meters", "Crucial indicator for regional climate change"],
-    }, image: "/poi-images/austria-grosser-rieserferner-nature-v2.webp"},
+    },
+  },
   {
     id: "austria-oetscher-nature-v2",
     type: "mountain",
@@ -124,7 +127,8 @@ export const austriaNatureV2: POI[] = [
       hu: ["A hegycsúcs magassága 1893 méter", "Az Ötscher-Tormäuer natúrpark központja", "A mészkőhegyben 200-nál több barlang van", "Az Ötscher-barlang 575 méter mély", "A vidék Ausztria egyik legcsapadékosabb helye", "Ritka havasi gyopár is nyílik a szikláin"],
       ro: ["Înălțime maximă: 1893 metri", "Supranumit 'Muntele Tată' al regiunii", "Canionul Ötschergräben are 5 km lungime", "Peștera Ötscherhöhle are o lungime de 650 m", "Regiunea adăpostește urși bruni sălbatici", "Structură geologică din calcar triasic"],
       en: ["Elevation: 1,893 meters (6,211 ft)", "Often called the 'Grand Canyon of Austria'", "Home to the Ötscher-Tormäuer Nature Park", "Rich in limestone caves and sinkholes", "Highest peak in the Ybbstal Alps", "First recorded ascent date: unknown"],
-    }, image: "/poi-images/austria-oetscher-nature-v2.webp"},
+    },
+  },
   {
     id: "austria-feistritz-river-nature-v2",
     type: "river",
@@ -155,7 +159,8 @@ export const austriaNatureV2: POI[] = [
       hu: ["A folyó hossza körülbelül 115 kilométer", "A Stuhleck-hegy közelében ered", "Vízgyűjtő területe 1120 négyzetkilométer", "A Feistritz-szurdok 2,5 km hosszú szakasz", "Számos középkori vár áll a partján", "Tiszta vize alkalmas pisztránghorgászatra"],
       ro: ["Lungime totală: 115 kilometri", "Sursă: Alpii Fischbach la 1782 metri", "Debitul mediu: aprox. 10 m³/s", "Traversează defileul Feistritzklamm", "Afluent pe partea dreaptă al râului Lafnitz", "Alimentează mai multe microhidrocentrale"],
       en: ["Total length: approx. 115 kilometers", "Source elevation: 1,782 meters", "Basin area: 1,120 square kilometers", "Features the protected Feistritz Gorge", "Primary fish species: Brown Trout", "Tributary to the Lafnitz river system"],
-    }, image: "/poi-images/austria-feistritz-river-nature-v2.webp"},
+    },
+  },
   {
     id: "austria-luenersee-nature-v2",
     type: "lake",
@@ -186,7 +191,8 @@ export const austriaNatureV2: POI[] = [
       hu: ["Tengerszint feletti magassága 1970 méter", "Maximális mélysége 139 méter", "A víztározó kapacitása 78 millió m³", "A Schesaplana-csúcs lábánál fekszik", "Kötélpályával érhető el a völgyből", "A gát magassága 28 méter"],
       ro: ["Altitudine: 1970 metri", "Adâncime maximă: 139 metri", "Capacitate stocare: 78,3 milioane m³", "Baraj construit în anii 1950", "Suprafața lacului: 1,55 km²", "Legat prin telecabină de Brandnertal"],
       en: ["Elevation: 1,970 meters above sea level", "Maximum water depth: 139 meters", "Surface area: approx. 1.55 sq km", "Capacity: 78.3 million cubic meters", "Main peak nearby: Schesaplana (2,965 m)", "Winner of '9 places, 9 treasures' in 2019"],
-    }, image: "/poi-images/austria-luenersee-nature-v2.webp"},
+    },
+  },
   {
     id: "austria-styrian-salza-nature-v2",
     type: "river",
@@ -217,7 +223,8 @@ export const austriaNatureV2: POI[] = [
       hu: ["A folyó hossza 88 kilométer", "A II. bécsi távvezeték fő forrása", "Vízminősége az 1-es (legjobb) kategóriájú", "A Palfau-szurdok fala 100 méter magas", "Nincs rajta egyetlen duzzasztógát sem", "Ausztria legnépszerűbb rafting-helyszíne"],
       ro: ["Lungime: 88 kilometri", "Vărsare în râul Enns la Großreifling", "Cea mai curată apă potabilă din Austria", "Alimentează apeductul Vienei", "Lipsit de baraje sau intervenții umane", "Secțiune de rafting de gradul I-III"],
       en: ["Total length: 88 kilometers", "Confluence with Enns River at 446 m", "Provides drinking water for Vienna", "The Palfau Gorge features 100m walls", "One of the last free-flowing Alpine rivers", "Home to the rare European Grayling fish"],
-    }, image: "/poi-images/austria-styrian-salza-nature-v2.webp"},
+    },
+  },
   {
     id: "austria-hochkonig-nature-v2",
     type: "mountain",
@@ -248,7 +255,8 @@ export const austriaNatureV2: POI[] = [
       hu: ["Csúcsmagassága 2941 méter", "A Berchtesgadeni-Alpok legmagasabbja", "Az Übergossene Alm gleccser borítja", "A Matrashaus menedékház áll a csúcson", "Régebben jelentős rézbányászat folyt itt", "Déli fala 1000 méteres függőleges szikla"],
       ro: ["Altitudine maximă: 2941 metri", "Masiv din calcar de Dachstein", "Găzduiește ghețarul Übergossene Alm", "Refugiul Matrashaus se află pe vârf", "Peste 1500 m diferență de nivel la urcare", "Zonă protejată în cadrul rețelei Natura 2000"],
       en: ["Summit elevation: 2,941 meters", "Prominence: 2,181 meters (ranked 6th in Alps)", "Home to the 'Übergossene Alm' plateau glacier", "The Matrashaus is located exactly on the peak", "Famous for its 1,000-meter south face", "Primary rock type: Dachstein limestone"],
-    }, image: "/poi-images/austria-hochkonig-nature-v2.webp"},
+    },
+  },
   {
     id: "austria-wilder-kaiser-nature-v2",
     type: "mountain",
@@ -279,7 +287,8 @@ export const austriaNatureV2: POI[] = [
       hu: ["Legmagasabb csúcsa az Ellmauer Halt (2344 m)", "Fő kőzete a triász kori Wetterstein-mészkő", "1963 óta természetvédelmi terület", "Híres csúcsai: Totenkirchl, Fleischbank", "A hegymászás egyik bölcsője az Alpokban", "A hegység szélessége kb. 8-10 kilométer"],
       ro: ["Cel mai înalt vârf: Ellmauer Halt (2344 m)", "Masiv compus din calcar de Wetterstein", "Rezervație naturală din anul 1963", "Lungimea totală a lanțului: aprox. 20 km", "Peste 40 de refugii și cabane montane", "Pereți de escaladă cu înălțime de 800m"],
       en: ["Highest peak: Ellmauer Halt (2,344 m)", "Made of Triassic Wetterstein limestone", "Nature reserve status since 1963", "Renowned for its 800-meter vertical faces", "First climbers reached the peaks in 1840s", "Features the famous 'Kaiserschützensteig'"],
-    }, image: "/poi-images/austria-wilder-kaiser-nature-v2.webp"},
+    },
+  },
   {
     id: "austria-tiroler-lech-nature-v2",
     type: "river",

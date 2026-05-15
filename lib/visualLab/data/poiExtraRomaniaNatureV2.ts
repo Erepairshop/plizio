@@ -31,7 +31,8 @@ export const romaniaNatureV2: POI[] = [
       hu: ["A tó Bukaresttől 40 km-re északra található.", "Területe körülbelül 5,5 négyzetkilométer.", "Maximális mélysége 9 méter.", "A szigeten áll a 14. századi Snagov-kolostor.", "A tavat tölgy- és hársfaerdők veszik körül.", "Vízi sportok és horgászat népszerű."],
       ro: ["Lacul este situat la 40 km nord de București.", "Suprafața este de aproximativ 5,5 km².", "Adâncimea maximă este de 9 metri.", "Pe insulă se află Mănăstirea Snagov, din secolul al XIV-lea.", "Lacul este înconjurat de păduri de stejar și tei.", "Activități populare: sporturi nautice și pescuit."],
       en: ["The lake is 40 km north of Bucharest.", "Area is approximately 5.5 km².", "Maximum depth is 9 meters.", "The island houses the 14th-century Snagov Monastery.", "Surrounded by oak and linden forests.", "Popular for water sports and fishing."],
-    }, image: "/poi-images/romania-lacul-snagov-nature-v2.webp"},
+    },
+  },
   {
     id: "romania-valea-vaserului-nature-v2",
     type: "valley",
@@ -62,7 +63,8 @@ export const romaniaNatureV2: POI[] = [
       hu: ["A keskeny nyomtávú vasút hossza 43 km.", "A Vaser folyó mentén halad.", "A völgy a Máramarosi-hegységben található.", "A vasutat eredetileg faszállításra építették.", "Az erdőket bükk és fenyő uralja.", "Az állatvilág medvéket, szarvasokat és vaddisznókat foglal magában."],
       ro: ["Calea ferată îngustă are 43 de kilometri lungime.", "Traseul urmează cursul râului Vaser.", "Valea este situată în Munții Maramureșului.", "Calea ferată a fost construită pentru transportul lemnului.", "Pădurile sunt dominate de fag și molid.", "Fauna include urși, cerbi și mistreți."],
       en: ["The narrow-gauge railway is 43 km long.", "The route follows the Vaser River.", "The valley is located in the Maramureș Mountains.", "The railway was built for timber transport.", "Forests are dominated by beech and spruce.", "Wildlife includes bears, deer, and wild boars."],
-    }, image: "/poi-images/romania-valea-vaserului-nature-v2.webp"},
+    },
+  },
   {
     id: "romania-cheile-galbenei-nature-v2",
     type: "valley",
@@ -93,7 +95,8 @@ export const romaniaNatureV2: POI[] = [
       hu: ["A szurdok hossza mintegy 1,5 km.", "Maximális mélysége 60 méter.", "A Galbena-patak alakította ki.", "A kárpáti harangvirág itt él.", "A terület a Trascău-hegységben található.", "Közelben Colțești és Râmeț vára."],
       ro: ["Cheile au o lungime de aproximativ 1,5 km.", "Adâncimea maximă este de 60 de metri.", "Au fost săpate de pârâul Galbena.", "Clopoțelul de munte crește aici.", "Zona este situată în Munții Trascău.", "În apropiere sunt cetățile Colțești și Râmeț."],
       en: ["The gorge is about 1.5 km long.", "Maximum depth is 60 meters.", "Carved by the Galbena River.", "Carpathian bellflower grows here.", "Located in the Trascău Mountains.", "Nearby Colțești and Râmeț fortresses."],
-    }, image: "/poi-images/romania-cheile-galbenei-nature-v2.webp"},
+    },
+  },
   {
     id: "romania-lacul-tasaul-nature-v2",
     type: "lake",
@@ -124,7 +127,8 @@ export const romaniaNatureV2: POI[] = [
       hu: ["A tó 15 km-re van a Fekete-tenger partjától.", "Területe körülbelül 23,5 négyzetkilométer.", "Maximális mélysége 4 méter.", "A tó vize brakkvíz.", "Pelikánok és gémek előfordulnak.", "Fontos madárvonulási terület."],
       ro: ["Lacul se află la 15 km de țărmul Mării Negre.", "Suprafața este de aproximativ 23,5 km².", "Adâncimea maximă este de 4 metri.", "Apa lacului este sălcie.", "Pelicani și stârci sunt prezenți.", "Lacul este important pentru păsări migratoare."],
       en: ["The lake is 15 km from the Black Sea coast.", "Area is approximately 23.5 km².", "Maximum depth is 4 meters.", "The lake is brackish.", "Pelicans and herons are present.", "Important migratory bird stopover."],
-    }, image: "/poi-images/romania-lacul-tasaul-nature-v2.webp"},
+    },
+  },
   {
     id: "romania-varful-letrita-nature-v2",
     type: "peak",
@@ -155,7 +159,8 @@ export const romaniaNatureV2: POI[] = [
       hu: ["A csúcs magassága 1 942 méter.", "A Radnai-havasokban található.", "A havasi gyopár megtalálható a régióban.", "A csúcsról panorámás kilátás nyílik.", "Közelben van a Pietrosul Rodnei rezervátum.", "Túrázás és mászás népszerű."],
       ro: ["Vârful are o altitudine de 1.942 de metri.", "Se află în Munții Rodnei.", "Floarea de colț crește în regiune.", "Oferă o panoramă largă.", "În apropiere se află rezervația Pietrosul Rodnei.", "Drumeții și alpinism sunt populare."],
       en: ["Peak height is 1,942 meters.", "Located in the Rodna Mountains.", "Edelweiss grows in the region.", "Offers panoramic views.", "Nearby is Pietrosul Rodnei reserve.", "Hiking and mountaineering are popular."],
-    }, image: "/poi-images/romania-varful-letrita-nature-v2.webp"},
+    },
+  },
   {
     id: "romania-padurea-letca-nature-v2",
     type: "forest",

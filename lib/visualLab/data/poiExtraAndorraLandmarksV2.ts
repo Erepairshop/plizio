@@ -31,7 +31,8 @@ export const andorraLandmarksV2: POI[] = [
       hu: ["Felszentelés éve: 1055", "Stílus: Korai román", "Tengerszint feletti magasság: 1150 m", "Alaprajz: Egyhajós szerkezet", "Belső tér: Eredeti középkori oltárkép", "Elhelyezkedés: Stratégiai sziklakiszögellés"],
       ro: ["Anul sfințirii: 1055", "Stil: Romanic timpuriu", "Altitudine: 1150 metri", "Structură: Navă dreptunghiulară simplă", "Element cheie: Picturi murale din secolul XI", "Locație: Sant Julià de Lòria"],
       en: ["Consecration year: 1055", "Style: Early Romanesque", "Elevation: 1,150 meters", "Architecture: Simple rectangular nave", "Murals: Original 11th-century frescoes", "Location: Promontory above Nagol"],
-    }, image: "/poi-images/andorra-sant-cerni-nagol-landmarks-v2.webp"},
+    },
+  },
   {
     id: "andorra-santa-eulalia-encamp-landmarks-v2",
     type: "church",
@@ -62,7 +63,8 @@ export const andorraLandmarksV2: POI[] = [
       hu: ["Torony magassága: 23 méter", "Építési korszak: 11-12. század", "Bővítés: 17. és 20. századi átalakítás", "Műtárgy: Romanikus keresztelőmedence", "Stílus: Lombard hatású torony", "Védőszent: Barcelonai Szent Eulália"],
       ro: ["Înălțime turn: 23 metri", "Perioadă construcție: Sec. XI-XII", "Modificări: Extinderi în secolul XVII", "Obiect de artă: Retablu baroc", "Ferestre: Bifore lombarde", "Localitate: Encamp"],
       en: ["Tower height: 23 meters", "Date: 11th-12th century", "Modifications: Enlarged in the 1600s", "Feature: Tallest tower in Andorra", "Artifact: Romanesque granite font", "Style: Lombard architecture"],
-    }, image: "/poi-images/andorra-santa-eulalia-encamp-landmarks-v2.webp"},
+    },
+  },
   {
     id: "andorra-sant-serni-canillo-landmarks-v2",
     type: "church",
@@ -93,7 +95,8 @@ export const andorraLandmarksV2: POI[] = [
       hu: ["Építési időszak: 17-18. század", "Eredet: 12. századi alapok", "Főoltár: Barokk stílusú (17. sz.)", "Keresztelőmedence: Faragott gránit", "Település: Canillo központja", "Építészeti stílus: Vallási barokk"],
       ro: ["Perioadă: Secolele XVII-XVIII", "Bază: Structură romanică din sec. XII", "Retablu: Lemn sculptat și aurit", "Material: Piatră de râu și mortar", "Localizare: Canillo", "Hram: Sfântul Sernin"],
       en: ["Current structure: 17th-18th century", "Origins: 12th-century foundation", "Altarpiece: Baroque (17th century)", "Artifact: Romanesque stone font", "Location: Canillo parish", "Dedication: Saint Sernin"],
-    }, image: "/poi-images/andorra-sant-serni-canillo-landmarks-v2.webp"},
+    },
+  },
   {
     id: "andorra-sant-esteve-vella-landmarks-v2",
     type: "church",
@@ -124,7 +127,8 @@ export const andorraLandmarksV2: POI[] = [
       hu: ["Alapítás: 12. század", "Modern bővítés: 1940-es évek", "Építész: Josep Puig i Cadafalch", "Falfestmények: Részben múzeumban (Barcelona)", "Helyszín: A főváros óvárosa", "Különlegesség: Gránit homlokzat"],
       ro: ["Origine: Secolul al XII-lea", "Extindere: Anii 1940", "Arhitect: Josep Puig i Cadafalch", "Locație: Andorra la Vella", "Artă: Fresce romanice originale", "Turn: Clopotniță pătrată"],
       en: ["Origin: 12th century", "Modern expansion: 1940s", "Architect: Josep Puig i Cadafalch", "Location: Old Quarter of the capital", "Murals: Some displayed in MNAC", "Style: Romanesque and Modernist"],
-    }, image: "/poi-images/andorra-sant-esteve-vella-landmarks-v2.webp"},
+    },
+  },
   {
     id: "andorra-sant-cristofol-anyos-landmarks-v2",
     type: "church",
@@ -155,7 +159,8 @@ export const andorraLandmarksV2: POI[] = [
       hu: ["Építés éve: 12. század", "Bővítés: 16. századi átalakítás", "Tengerszint feletti magasság: 1310 m", "Alaprajz: Négyzet alakú hajó", "Freskók: 16. századi barokk művek", "Védőszent: Szent Kristóf"],
       ro: ["Datare: Secolul al XII-lea", "Modificări: Secolul al XVI-lea", "Altitudine: 1310 metri", "Absidă: Semicirculară", "Pictură: Reprezentări ale Sf. Cristofor", "Locație: La Massana, Anyós"],
       en: ["Date: 12th century", "Expansion: 16th century", "Elevation: 1,310 meters", "Plan: Square nave", "Murals: 16th-century baroque", "Location: Cliff edge in Anyós"],
-    }, image: "/poi-images/andorra-sant-cristofol-anyos-landmarks-v2.webp"},
+    },
+  },
   {
     id: "andorra-sant-iscle-massana-landmarks-v2",
     type: "church",
@@ -186,7 +191,8 @@ export const andorraLandmarksV2: POI[] = [
       hu: ["Építési korszak: 17. század", "Stílus: Barokk", "Műtárgyak: Öt barokk oltárkép", "Torony: Négyszögletes harangtorony", "Helyszín: La Massana főtere", "Védőszentek: Szent Acisclus és Viktória"],
       ro: ["Perioadă: Secolul al XVII-lea", "Stil: Baroc religios", "Obiecte: 5 retabluri din sec. XVIII", "Turn: Bază pătrată", "Localizare: La Massana", "Elemente: Fundații medievale păstrate"],
       en: ["Date: 17th century", "Style: Baroque", "Altarpieces: Five 18th-century works", "Bell tower: Square structure", "Location: La Massana town center", "Patrons: St. Acisclus and St. Victoria"],
-    }, image: "/poi-images/andorra-sant-iscle-massana-landmarks-v2.webp"},
+    },
+  },
   {
     id: "andorra-museu-postal-landmarks-v2",
     type: "museum",
@@ -217,7 +223,8 @@ export const andorraLandmarksV2: POI[] = [
       hu: ["1982-ben alapították Ordino városában", "A Borda del Ransol történelmi házban található", "Több mint 50 000 bélyegből álló gyűjtemény", "Bemutatja a kettős postai rendszert (FR/ES)", "Régi postai kézbesítő kerékpárok láthatók", "Interaktív audiovizuális tárlatvezetés"],
       ro: ["Fondat în anul 1982 în localitatea Ordino", "Locație: Clădirea istorică Borda del Ransol", "Colecție de peste 50.000 de mărci poștale", "Prezintă sistemul poștal dual (FR/ES)", "Include biciclete istorice de livrare", "Prezentări audiovizuale interactive"],
       en: ["Founded in 1982 in the town of Ordino", "Located in the historic Borda del Ransol", "Collection of over 50,000 unique stamps", "Details the dual postal system (FR/ES)", "Exhibits historic mail delivery bicycles", "Interactive audiovisual tour available"],
-    }, image: "/poi-images/andorra-museu-postal-landmarks-v2.webp"},
+    },
+  },
   {
     id: "andorra-museu-miniatura-landmarks-v2",
     type: "museum",
@@ -248,7 +255,8 @@ export const andorraLandmarksV2: POI[] = [
       hu: ["Művész: Az ukrán Nyikolaj Szjadrisztij", "Anyagok: Arany, platina és gyümölcsmagok", "Megtekintés: Kizárólag mikroszkóppal lehetséges", "Híres mű: Egy rózsa egy üreges hajszálban", "Helyszín: Ordino falu központja", "Technika: Világelső mikroművészeti alkotások"],
       ro: ["Artist: Ucraineanul Nicolai Siadristyi", "Materiale: Aur, platină și semințe de fructe", "Vizualizare: Posibilă doar prin microscop", "Piesă rară: O roză într-un fir de păr gol", "Locație: Centrul satului Ordino", "Tehnică: Artă microminiaturală de vârf"],
       en: ["Artist: Ukrainian master Nicolai Siadristyi", "Materials: Gold, platinum, and fruit seeds", "Viewing: Requires specialized microscopes", "Key piece: A rose inside a hollowed hair", "Location: Village center of Ordino", "Craft: World-leading micro-miniature art"],
-    }, image: "/poi-images/andorra-museu-miniatura-landmarks-v2.webp"},
+    },
+  },
   {
     id: "andorra-museu-automobil-landmarks-v2",
     type: "museum",
@@ -279,7 +287,8 @@ export const andorraLandmarksV2: POI[] = [
       hu: ["Helyszín: Encamp központjában található", "Gyűjtemény: Kb. 80 autó és 60 motor", "Legrégebbi darab: Pinette gőzgép (1885)", "Kerékpárok: Több mint 100 történelmi modell", "Fókusz: Fejlődés 1885-től 1970-ig", "Besorolás: Európa egyik legfontosabb tárlata"],
       ro: ["Locație: Satul Encamp, pe strada principală", "Colecție: Aproximativ 80 mașini și 60 motociclete", "Cea mai veche piesă: Mașina cu aburi Pinette (1885)", "Biciclete: Peste 100 de modele istorice", "Focus: Evoluția de la 1885 până în 1970", "Statut: Una dintre cele mai bune colecții europene"],
       en: ["Location: Encamp village on the main road", "Collection: Around 80 cars and 60 motorbikes", "Oldest item: Pinette steam engine from 1885", "Bicycles: Over 100 historical models shown", "Scope: Automotive progress from 1885 to 1970", "Status: Among Europe's finest motor museums"],
-    }, image: "/poi-images/andorra-museu-automobil-landmarks-v2.webp"},
+    },
+  },
   {
     id: "andorra-casa-rull-landmarks-v2",
     type: "museum",
@@ -310,7 +319,8 @@ export const andorraLandmarksV2: POI[] = [
       hu: ["Helyszín: A festői Sispony faluja", "Korszak: Tipikus 19. századi lakóház", "Múzeumként üzemel: 2000 óta látogatható", "Szerkezet: Három emelet és egy tetőtér", "Cél: Egy gazdag parasztcsalád lakóhelye", "Jellemző: Eredeti bútorok és munkaeszközök"],
       ro: ["Locație: Satul pitoresc Sispony", "Epocă: Casă tipică din secolul al XIX-lea", "Statut: Deschis ca muzeu în anul 2000", "Structură: Trei etaje plus mansarda", "Scop: Locuința unei familii înstărite de fermieri", "Caracteristică: Mobilier și unelte originale"],
       en: ["Location: The picturesque village of Sispony", "Period: Typical 19th-century mountain house", "Status: Opened as a museum in 2000", "Structure: Three main floors and an attic", "Context: Residence of a wealthy farming family", "Highlight: Original furnishings and farm tools"],
-    }, image: "/poi-images/andorra-casa-rull-landmarks-v2.webp"},
+    },
+  },
   {
     id: "andorra-museu-thyssen-landmarks-v2",
     type: "museum",
@@ -341,7 +351,8 @@ export const andorraLandmarksV2: POI[] = [
       hu: ["Megnyitás: 2017-ben avatták fel", "Helyszín: Escaldes-Engordany alsó része", "Épület: Az egykori Hostal Valira gránitépülete", "Koncepció: Évente változó tematikus kiállítások", "Igazgató: Guillermo Cervera (a bárónő unokaöccse)", "Technológia: Interaktív érintőképernyők segítik a látogatót"],
       ro: ["Deschidere: Inaugurat în anul 2017", "Locație: Partea inferioară din Escaldes-Engordany", "Clădire: Fostul Hostal Valira (arhitectură de granit)", "Concept: Expoziții tematice care se schimbă anual", "Director: Guillermo Cervera (nepotul baronesei)", "Dotări: Ecrane interactive pentru experiență imersivă"],
       en: ["Opening: Inaugurated in early 2017", "Location: Lower Escaldes-Engordany area", "Building: Former Hostal Valira (granite architecture)", "Concept: Annual rotating monographic exhibitions", "Director: Guillermo Cervera (Baroness's nephew)", "Technology: Features interactive touch screens"],
-    }, image: "/poi-images/andorra-museu-thyssen-landmarks-v2.webp"},
+    },
+  },
   {
     id: "andorra-museu-moto-landmarks-v2",
     type: "museum",
@@ -372,7 +383,8 @@ export const andorraLandmarksV2: POI[] = [
       hu: ["Helyszín: Canillo falu, Meritxell közelében", "Kiállított tárgyak: Több mint 150 motorkerékpár", "Időszak: Modellek 1896-tól napjainkig", "Ritkaság: Egyedi prototípusok és versenymotorok", "Érdekesség: Andorra legelső motorkerékpárja", "Környezet: Egy felújított régi pajtában található"],
       ro: ["Locație: Satul Canillo, lângă Meritxell", "Exponate: Peste 150 de motociclete diverse", "Perioadă: Modele din 1896 până în prezent", "Rarități: Prototipuri unice și motociclete de curse", "Fapt divers: Prima motocicletă sosită în Andorra", "Ambiantă: Situat într-o fostă șură restaurată"],
       en: ["Location: Canillo village near Meritxell shrine", "Exhibits: Over 150 different motorcycles", "Era: Covers models from 1896 to today", "Rarity: Features unique prototypes and racing bikes", "Highlight: The very first motorcycle in Andorra", "Setting: Housed in a beautifully restored barn"],
-    }, image: "/poi-images/andorra-museu-moto-landmarks-v2.webp"},
+    },
+  },
   {
     id: "andorra-caee-museum-landmarks-v2",
     type: "museum",
@@ -403,7 +415,8 @@ export const andorraLandmarksV2: POI[] = [
       hu: ["Teljes név: Escaldes-Engordany Művészeti Központ", "Fő művész: Josep Viladomat szobrászművész", "Gyűjtemény: Román kori templomok makettjei", "Épület: Egykori mozi és színház épülete", "Helyszín: Avenida Carlemany, Escaldes", "Események: Rendszeres időszaki művészeti tárlatok"],
       ro: ["Nume complet: Centrul de Artă Escaldes-Engordany", "Artist principal: Sculptorul Josep Viladomat", "Colecție: Machete ale bisericilor romanice", "Clădire: Fost cinematograf și teatru local", "Locație: Avenida Carlemany, Escaldes", "Activități: Expoziții temporare de artă frecvente"],
       en: ["Full Name: Escaldes-Engordany Art Center", "Primary Artist: Sculptor Josep Viladomat", "Collection: Models of Romanesque churches", "Building: Former cinema and theater structure", "Location: Avenida Carlemany, Escaldes", "Program: Frequent temporary art exhibitions"],
-    }, image: "/poi-images/andorra-caee-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "andorra-pont-sant-antoni-landmarks-v2",
     type: "bridge",
@@ -434,7 +447,8 @@ export const andorraLandmarksV2: POI[] = [
       hu: ["Stílus: Román kori építészet (rekonstruált)", "Folyó: A Valira del Nord felett ível át", "Névadó: A közeli Sant Antoni-kápolna", "Jelentőség: Történelmi stratégiai átkelőhely", "Állapot: Árvízkárok után gondosan helyreállítva", "Helyszín: A La Massana-völgy bejáratánál"],
       ro: ["Stil: Arhitectură romanică (reconstruită)", "Râu: Traversează Valira del Nord", "Eponim: Capela Sant Antoni din apropiere", "Importanță: Punct strategic istoric de trecere", "Stare: Restaurat după daunele cauzate de inundații", "Locație: Intrarea în valea La Massana"],
       en: ["Style: Romanesque architecture (reconstructed)", "River: Spans the Valira del Nord river", "Namesake: Nearby Chapel of Sant Antoni", "Significance: Historic strategic mountain pass", "Condition: Carefully restored after flood damage", "Location: At the entrance to La Massana valley"],
-    }, image: "/poi-images/andorra-pont-sant-antoni-landmarks-v2.webp"},
+    },
+  },
   {
     id: "andorra-pont-escalls-landmarks-v2",
     type: "bridge",
@@ -465,7 +479,8 @@ export const andorraLandmarksV2: POI[] = [
       hu: ["Dátum: A késő középkorban épült", "Esemény: A Pariatges-egyezmény helyszíne (1278)", "Építészet: Egyetlen félköríves kőív", "Folyó: A Valira d'Orient felett ível át", "Besorolás: Nemzeti jelentőségű kulturális örökség", "Környezet: Idyllikus szurdok a város szélén"],
       ro: ["Dată: Construit în perioada medievală", "Eveniment: Locul semnării tratatelor Pariatges (1278)", "Arhitectură: Un singur arc semicircular de piatră", "Râu: Traversează râul Valira d'Orient", "Statut: Bun de interes cultural național", "Cadru: Situat într-un defileu pitoresc"],
       en: ["Date: Constructed during the High Middle Ages", "Event: Site of the 1278 Pariatges agreements", "Architecture: Features a single semicircular arch", "River: Spans the Valira d'Orient branch", "Status: Asset of National Cultural Interest", "Setting: Located in a scenic gorge setting"],
-    }, image: "/poi-images/andorra-pont-escalls-landmarks-v2.webp"},
+    },
+  },
   {
     id: "andorra-caldea-building-landmarks-v2",
     type: "landmark",
@@ -496,7 +511,8 @@ export const andorraLandmarksV2: POI[] = [
       hu: ["Építész: Jean-Michel Ruols tervezte", "Torony magassága: 80 méteres csúcs", "Megnyitás: 1994 óta várja a vendégeket", "Koncepció: 'Thermoludic' (szórakoztató termál) fürdő", "Vízforrás: 70°C-os természetes termálvíz", "Dizájn: Avantgárd tükörüveg piramis szerkezet"],
       ro: ["Arhitect: Proiectat de Jean-Michel Ruols", "Înălțime turn: Atinge 80 de metri", "Deschidere: Funcționează din anul 1994", "Concept: Centru termoludic (agrement termal)", "Sursă apă: Izvoare naturale de 70°C", "Design: Piramidă avangardistă din sticlă reflectorizantă"],
       en: ["Architect: Designed by Jean-Michel Ruols", "Tower Height: Reaches a height of 80 meters", "Opening: Operational since the year 1994", "Concept: Pioneered the 'Thermoludic' leisure spa", "Water Source: Natural springs at 70°C", "Design: Features an avant-garde mirrored pyramid"],
-    }, image: "/poi-images/andorra-caldea-building-landmarks-v2.webp"},
+    },
+  },
   {
     id: "andorra-consell-general-landmarks-v2",
     type: "landmark",

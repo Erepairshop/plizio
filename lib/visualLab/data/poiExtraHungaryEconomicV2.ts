@@ -31,7 +31,8 @@ export const hungaryEconomicV2: POI[] = [
       hu: ["Terület: 2 km²", "Megnyitás éve: 2015", "Vállalatok száma: 30", "Éves áruforgalom: 500.000 t", "Raktárterület: 200.000 m²", "Vasúti kapcsolat: 5 km"],
       ro: ["Suprafață: 2 km²", "Anul deschiderii: 2015", "Număr de companii: 30", "Volum anual de marfă: 500.000 t", "Suprafață depozite: 200.000 m²", "Lungimea căii ferate: 5 km"],
       en: ["Area: 2 km²", "Opened: 2015", "Companies: 30", "Annual throughput: 500,000 tonnes", "Warehouse space: 200,000 m²", "Rail siding: 5 km"],
-    }, image: "/poi-images/hungary-ikreny-logistics-economic-v2.webp"},
+    },
+  },
   {
     id: "hungary-szekesfehervar-electronics-economic-v2",
     type: "industry",
@@ -62,7 +63,8 @@ export const hungaryEconomicV2: POI[] = [
       hu: ["Terület: 1,5 km²", "Alapítás éve: 2008", "Éves termelés: 2 millió komponens", "Alkalmazottak: 5.000", "Befektetés: 500 M €", "Export arány: 80%"],
       ro: ["Suprafață: 1,5 km²", "Anul înființării: 2008", "Producție anuală: 2 milioane de componente", "Angajați: 5.000", "Investiție: 500 milioane EUR", "Rata de export: 80%"],
       en: ["Area: 1.5 km²", "Founded: 2008", "Production: 2 million components/year", "Employees: 5,000", "Investment: €500 million", "Export rate: 80%"],
-    }, image: "/poi-images/hungary-szekesfehervar-electronics-economic-v2.webp"},
+    },
+  },
   {
     id: "hungary-tiszafoldvar-agro-economic-v2",
     type: "factory",
@@ -93,7 +95,8 @@ export const hungaryEconomicV2: POI[] = [
       hu: ["Feldolgozási kapacitás: 100.000 t/év", "Bővítés éve: 2003", "Alkalmazottak: 300", "Biogáz üzem: 2 MW", "Tárolókapacitás: 50.000 t", "Termőterület: 20.000 ha"],
       ro: ["Capacitate de procesare: 100.000 t/an", "Anul extinderii: 2003", "Angajați: 300", "Instalație biogaz: 2 MW", "Capacitate depozitare: 50.000 t", "Suprafață cultivată: 20.000 ha"],
       en: ["Processing capacity: 100,000 tonnes/year", "Expansion year: 2003", "Employees: 300", "Biogas plant: 2 MW", "Storage capacity: 50,000 tonnes", "Cultivated area: 20,000 ha"],
-    }, image: "/poi-images/hungary-tiszafoldvar-agro-economic-v2.webp"},
+    },
+  },
   {
     id: "hungary-szentgotthard-automotive-v2",
     type: "factory",
@@ -156,7 +159,8 @@ export const hungaryEconomicV2: POI[] = [
       hu: ["Éves forgalom: 1 Mt", "Építés éve: 1952", "Modernizálás: 2000", "Daruk: 10", "Rakpart hossza: 2 km", "Tárolóterület: 100.000 m²"],
       ro: ["Volum anual: 1 Mt", "Anul construirii: 1952", "Modernizare: 2000", "Macarale: 10", "Lungime cheiuri: 2 km", "Suprafață depozitare: 100.000 m²"],
       en: ["Annual throughput: 1 million tonnes", "Built: 1952", "Modernized: 2000", "Cranes: 10", "Quay length: 2 km", "Storage area: 100,000 m²"],
-    }, image: "/poi-images/hungary-duna-ujvaros-port-economic-v2.webp"},
+    },
+  },
   {
     id: "hungary-szolnok-chemical-economic-v2",
     type: "industry",
@@ -187,7 +191,8 @@ export const hungaryEconomicV2: POI[] = [
       hu: ["A gyár 1952-ben kezdte meg működését.", "Több mint 1200 munkavállalót foglalkoztat.", "A telephely területe 45 hektár.", "Az éves termelési kapacitás 500 000 tonna.", "2005 óta egy német vegyipari csoport része.", "Környezetvédelmi beruházások összege 30 millió euró."],
       ro: ["Uzina a fost fondată în anul 1952.", "Angajează peste 1.200 de muncitori.", "Suprafața fabricii este de 45 de hectare.", "Capacitatea anuală de producție este de 500.000 de tone.", "Din 2005 aparține unui concern chimic german.", "Investițiile în protecția mediului au totalizat 30 de milioane de euro."],
       en: ["The plant was established in 1952.", "It employs over 1,200 workers.", "The facility covers 45 hectares.", "Annual production capacity is 500,000 tons.", "It has been part of a German chemical group since 2005.", "Environmental investments totaled 30 million euros."],
-    }, image: "/poi-images/hungary-szolnok-chemical-economic-v2.webp"},
+    },
+  },
   {
     id: "hungary-budapest-tech-corridor-economic-v2",
     type: "industry",

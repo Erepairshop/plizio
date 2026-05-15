@@ -643,36 +643,4 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
       en: ["Forms the massive, virtually impenetrable international border with China.", "It is by far the longest continuous mountain chain in the entire Tian Shan system.", "The average crest elevation sits at an extreme 4,500 to 5,000 meters.", "The absolute highest distinct peak in the range is Dankova Peak (5,982 m).", "Numerous icy summits and remote glacial valleys remain completely unexplored.", "Dominated visually by gigantic glacier systems and an unforgiving Arctic climate."]
     }
   }
-,
-  {
-    id: "kyrgyzstan-kyrgyz-ala-too-relief-v2",
-    type: "mountain",
-    name: { de: "Kirgisischer Alatau", hu: "Kirgiz-Alatau", ro: "Munții Ala-Too Kirghiz", en: "Kyrgyz Ala-Too Range" },
-    coords: [74.5167, 42.4833],
-    description: {
-      de: "Der Kirgisische Alatau ist ein Gebirgszug im nördlichen Tienschan. Er erstreckt sich über 450 km und begrenzt das Tschüi-Tal im Süden.",
-      hu: "A Kirgiz-Alatau az Északi-Tien-san hegylánca, amely 450 km hosszan nyúlik el. A Csu-völgy déli határát alkotja és 4850 méter fölé magasodik.",
-      ro: "Munții Ala-Too Kirghiz reprezintă un lanț muntos din nordul Tian-Șan. Se întinde pe 450 km și atinge altitudini de peste 4.850 de metri.",
-      en: "The Kyrgyz Ala-Too is a major range in the northern Tien Shan, stretching 450 kilometers. It forms the southern boundary of the Chuy Valley.",
-    },
-    facts: {
-      de: ["Der höchste Punkt ist die Alamedin-Spitze mit 4.855 Metern.", "Das Gebirge beherbergt über 500 einzelne Gletscher.", "Es besteht hauptsächlich aus paläozoischem Sedimentgestein.", "Die Kette bildet die Wasserscheide für das Tschüi-Becken."],
-      hu: ["Legmagasabb pontja az Alamedin-csúcs, 4855 méterrel.", "Több mint 500 gleccser található a magashegyi zónákban.", "Főleg paleozoikumi üledékes kőzetekből épül fel.", "Elsődleges vízválasztóként szolgál a Csu-folyó medencéjében."],
-      ro: ["Cel mai înalt punct este vârful Alamedin la 4.855 metri.", "Munții adăpostesc peste 500 de ghețari individuali.", "Sunt compuși în principal din roci sedimentare paleozoice.", "Lanțul formează principala cumpănă de ape pentru bazinul Chuy."],
-      en: ["Highest point is Alamedin Peak at 4,855 meters.", "Contains over 500 glaciers in its high-altitude zones.", "Composed primarily of Paleozoic sedimentary rocks.", "Forms the primary watershed for the Chuy river basin."],
-    },
-    imageHint: "Kyrgyz Ala-Too mountain range snow capped peaks south of Bishkek",
-    descriptionAdvanced: {
-      de: "Das Kyrgyz-Alatau-Gebirge erstreckt sich über 375 km entlang der Nordseite des Tian-Shan-Systems in Kirgisistan. Es bildet die natürliche Grenze zwischen der Tschüi-Ebene im Norden und dem inneren Tian-Shan. Der höchste Gipfel, der Pik Semjonow-Tjan-Schanski, erreicht 4.895 m. Die Bergkette ist durch tiefe Schluchten und Gletscher geprägt, wobei der Karakol-Gletscher einer der größten ist. Die Region ist bekannt für ihre alpine Flora und Fauna, darunter Schneeleoparden und Steinböcke. Geologisch besteht das Gebirge hauptsächlich aus paläozoischen Schiefern und Graniten. Die nördlichen Hänge sind dichter bewaldet mit Fichten und Wacholder, während die südlichen trockener sind. Zahlreiche Flüsse wie der Ala-Artscha entspringen hier und versorgen die Hauptstadt Bischkek mit Wasser.",
-      hu: "A Kirgiz-Alatau-hegység a Tien-san északi peremén húzódik, 375 km hosszan. A hegylánc választja el a Csüi-völgyet a belső Tien-santól. Legmagasabb csúcsa a Szemjonov-Tjansanszkij-csúcs (4895 m). A hegység gazdag történelmi jelentőséggel bír, mivel a Selyemút egyik ága itt haladt át, összekötve a steppéket a Fergana-völggyel. A 20. században a szovjet időkben a hegységben bányászat folyt, ólmot, cinket és uránt termeltek ki. A térségben számos magashegyi tó található, mint a Kultor és az Ala-Köl. A helyi lakosság hagyományosan nomád pásztorkodást folytat, nyáron a magasabb legelőkre hajtva állataikat. A hegység fontos vízforrás, a Csüi folyó itt ered.",
-      ro: "Munții Kyrgyz Ala-Too fac parte din sistemul Tian Shan, având o lungime de aproximativ 375 km. Aceștia sunt formați în principal din roci metamorfice și magmatice, cu vârfuri ce depășesc 4.800 m. Din punct de vedere cultural, regiunea este locuită de păstori nomazi kirgizi, care își pasc turmele de capre și oi pe pajiștile alpine. O atracție turistică importantă este Parcul Național Ala-Archa, situat la doar 40 km de Bișkek, care oferă trasee de drumeție și alpinism. Economia locală se bazează pe turismul ecologic și pe agricultura de subzistență. Clima este continentală, cu ierni geroase și veri răcoroase. Biodiversitatea include specii rare precum barza neagră și vulturul bărbos.",
-      en: "The Kyrgyz Ala-Too Range, part of the Tian Shan mountain system, stretches 375 km across northern Kyrgyzstan. It acts as a climatic barrier, trapping moisture from the west and creating a rain shadow effect. The range's highest point is Peak Semenov-Tian-Shansky at 4,895 m. Over 400 glaciers cover about 650 km², feeding rivers like the Ala-Archa and Chuy. The area is rich in mineral deposits, including coal, lead, and rare earth elements. Soviet-era mining left environmental scars, but recent conservation efforts focus on reforestation. The Ala-Archa National Park, established in 1976, protects the ecosystem and offers hiking trails. The range's northern slopes are covered with spruce forests, while the south is arid steppe. Snow leopards and ibex inhabit the high altitudes.",
-    },
-    factsAdvanced: {
-      de: ["Länge: 375 km", "Höchster Gipfel: Pik Semjonow-Tjan-Schanski, 4.895 m", "Anzahl der Gletscher: über 400", "Vergletscherte Fläche: ca. 650 km²", "Nationalpark Ala-Archa gegründet: 1976", "Durchschnittliche Höhe der Baumgrenze: 2.800 m"],
-      hu: ["Legmagasabb csúcs: 4895 m", "Hossz: 375 km", "Gleccserek száma: több mint 400", "Bányászati tevékenység a 20. században: ólom, cink, urán", "Ala-Archa Nemzeti Park távolsága Biskektől: 40 km", "A Csüi folyó hossza: 350 km"],
-      ro: ["Lungime: 375 km", "Altitudine maximă: 4.895 m", "Parcul Național Ala-Archa: înființat în 1976", "Suprafața glaciară: 650 km²", "Numărul de ghețari: peste 400", "Distanța de la Bișkek la parc: 40 km"],
-      en: ["Length: 375 km", "Highest peak: Semenov-Tian-Shansky, 4,895 m", "Number of glaciers: over 400", "Glaciated area: approximately 650 km²", "Ala-Archa National Park established: 1976", "Population of snow leopards in the range: estimated 30-40 individuals"],
-    },
-  }
 ];

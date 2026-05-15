@@ -31,7 +31,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["A csúcs magassága 2 519 méter.", "A Parâng-hegységben található (Déli-Kárpátok).", "Gleccsertavak vannak a környéken.", "A mászás nehéz.", "Közelben Petroșani és Lupeni síközpontok.", "Panorámás kilátás nyílik a csúcsról."],
       ro: ["Vârful are 2.519 metri altitudine.", "Se află în Munții Parâng (Carpații Meridionali).", "Există lacuri glaciare în zonă.", "Ascensiunea este dificilă.", "În apropiere se află stațiunile de schi Petroșani și Lupeni.", "Oferă o panoramă largă."],
       en: ["Peak height is 2,519 meters.", "Located in the Parâng Mountains (Southern Carpathians).", "Glacial lakes are present in the area.", "The ascent is challenging.", "Nearby ski resorts: Petroșani and Lupeni.", "Offers panoramic views from the summit."],
-    }, image: "/poi-images/romania-parangul-mare-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-papusa-relief-v2",
     type: "peak",
@@ -62,7 +63,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["A csúcs 1 853 méter magas.", "A Radnai-havasokban található.", "Tágas havasi legelők vannak.", "Tárnics és havasi rózsa nő itt.", "Közelben van a Băile Rodna-gyógyforrás.", "Jó kilátás nyílik a Pietrosul Rodnei-re."],
       ro: ["Vârful are 1.853 de metri.", "Se află în Munții Rodnei.", "Există pășuni alpine întinse.", "Gențiană și smirdar cresc aici.", "În apropiere este izvorul Băile Rodna.", "Oferă o vedere bună asupra masivului Pietrosul Rodnei."],
       en: ["Peak height is 1,853 meters.", "Located in the Rodna Mountains.", "Expansive alpine meadows.", "Gentians and rhododendrons grow here.", "Nearby Băile Rodna mineral spring.", "Good view of Pietrosul Rodnei massif."],
-    }, image: "/poi-images/romania-vfrful-papusa-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-podisul-getic-relief-v2",
     type: "landmark",
@@ -93,7 +95,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["A fennsík területe mintegy 16 000 négyzetkilométer.", "Átlagmagassága 500 méter.", "A Déli-Kárpátok és a Havasalföldi-síkság között fekszik.", "Az Olt és az Argeș folyók szelik át.", "A mezőgazdaság a fő tevékenység.", "Számos kolostor és erőd található."],
       ro: ["Podișul se întinde pe aproximativ 16.000 de km².", "Altitudinea medie este de 500 de metri.", "Se află între Carpații Meridionali și Câmpia Română.", "Râurile Olt și Argeș îl străbat.", "Agricultura este principala activitate.", "Există multe mănăstiri și cetăți."],
       en: ["The plateau covers about 16,000 km².", "Average elevation is 500 meters.", "Located between the Southern Carpathians and the Wallachian Plain.", "Crossed by rivers Olt and Argeș.", "Agriculture is the primary land use.", "Numerous monasteries and fortresses."],
-    }, image: "/poi-images/romania-podisul-getic-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-omu-bucegi-relief-v2",
     type: "peak",
@@ -124,7 +127,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["A csúcs magassága 2 505 méter.", "A Bucsecs-hegység legmagasabb csúcsa.", "A meteorológiai állomás 1904-ben épült.", "Kilátás a Fogarasi-havasokra és a Havasalföldre.", "A havasi gyopár előfordul.", "Busteni felől a Jepii Mici útvonalon lehet feljutni."],
       ro: ["Vârful are 2.505 metri.", "Cel mai înalt vârf din Munții Bucegi.", "Stația meteorologică a fost construită în 1904.", "Priveliște spre Munții Făgăraș și Câmpia Română.", "Floarea de colț crește în zonă.", "Ascensiune din Busteni prin Jepii Mici."],
       en: ["Peak height is 2,505 meters.", "Highest peak in the Bucegi Mountains.", "Meteorological station built in 1904.", "Views of Făgăraș Mountains and Wallachian Plain.", "Edelweiss grows in the area.", "Climb via Busteni and Jepii Mici route."],
-    }, image: "/poi-images/romania-vfrful-omu-bucegi-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-petrosu-relief-v2",
     type: "peak",
@@ -155,7 +159,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["A csúcs 2 303 méter magas.", "A Radnai-havasok legmagasabb csúcsa.", "Része a Pietrosul Rodnei Bioszféra-rezervátumnak.", "A közelben található a Lala Mare gleccsertó.", "Gazdag alpesi növényzet.", "Kilátás a Máramaros régióra."],
       ro: ["Vârful are 2.303 metri.", "Cel mai înalt vârf al Munților Rodnei.", "Face parte din Rezervația Biosferei Pietrosul Rodnei.", "Lacul glaciar Lala Mare este în apropiere.", "Flora alpină bogată.", "Panoramă asupra regiunii Maramureș."],
       en: ["Peak height is 2,303 meters.", "Highest peak in the Rodna Mountains.", "Part of Pietrosul Rodnei Biosphere Reserve.", "Glacial lake Lala Mare nearby.", "Rich alpine flora.", "Views over Maramureș region."],
-    }, image: "/poi-images/romania-vfrful-petrosu-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-podisul-transilvaniei-relief-v2",
     type: "landmark",
@@ -218,7 +223,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["A csúcs 2 017 méter magas.", "A Radnai-havasokban található.", "Meredek sziklás formációiról ismert.", "Kilátás a Pietrosul Rodnei masszívumra.", "Közelben van a Lespezi-tó.", "Hegymászás és túrázás népszerű."],
       ro: ["Vârful are 2.017 metri.", "Se află în Munții Rodnei.", "Cunoscut pentru formațiuni stâncoase accidentate.", "Vedere spre masivul Pietrosul Rodnei.", "În apropiere este Lacul Lespezi.", "Popular pentru alpinism și drumeții."],
       en: ["Peak height is 2,017 meters.", "Located in the Rodna Mountains.", "Known for rugged rock formations.", "View of Pietrosul Rodnei massif.", "Lake Lespezi nearby.", "Popular for mountaineering and hiking."],
-    }, image: "/poi-images/romania-vfrful-lespezi-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-vanatarea-lui-buteanu-relief-v2",
     type: "peak",
@@ -249,7 +255,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["A csúcs 2 507 méter magas.", "A Fogarasi-havasokban található.", "Buteanu rablóról elnevezve.", "A főgerinc része.", "Kilátás a környező háromezresekre.", "Közelben van a Bâlea-tó és a Transzfogarasi út."],
       ro: ["Vârful are 2.507 metri.", "Situat în Munții Făgăraș.", "Numit după haiducul Buteanu.", "Parte a crestei principale.", "Oferă priveliști spre ceilalți peste 2.500 m.", "Lacul Bâlea și Transfăgărășanul în apropiere."],
       en: ["Peak height is 2,507 meters.", "Located in the Făgăraș Mountains.", "Named after outlaw Buteanu.", "Part of the main ridge.", "Views of surrounding 2,500+ m peaks.", "Nearby Bâlea Lake and Transfăgărășan road."],
-    }, image: "/poi-images/romania-vfrful-vanatarea-lui-buteanu-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-parangul-mic-relief-v2",
     type: "peak",
@@ -280,7 +287,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["A csúcs 2 474 méter magas.", "A Parâng-hegységben található.", "A legmagasabb Parângul Mare közelében.", "Meredek lejtők.", "Alpesi növényzet.", "Kilátás a Zsil-völgyre."],
       ro: ["Vârful are 2.474 de metri.", "Situat în Munții Parâng.", "Lângă cel mai înalt vârf, Parângul Mare.", "Pante abrupte.", "Vegetație alpină.", "Vedere spre valea Jiului."],
       en: ["Peak height is 2,474 meters.", "Located in the Parâng Mountains.", "Near highest peak Parângul Mare.", "Steep slopes.", "Alpine vegetation.", "View of Jiu Valley."],
-    }, image: "/poi-images/romania-vfrful-parangul-mic-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-muntii-capatanii-relief-v2",
     type: "mountain",
@@ -311,7 +319,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["A hegység hossza mintegy 40 kilométer.", "Legmagasabb pontja a Muntele Căpățâna, 2 130 méter.", "Az Olt és a Lotru folyók között helyezkedik el.", "Sűrű bükk- és fenyőerdők.", "Medvék, farkasok és hiúzok élőhelye.", "Több barlang és vízesés található."],
       ro: ["Lanțul muntos se întinde pe aproximativ 40 de kilometri.", "Altitudinea maximă este de 2.130 de metri (Vârful Muntele Căpățâna).", "Situat între râurile Olt și Lotru.", "Păduri dese de fag și molid.", "Habitat pentru urși, lupi și râși.", "Există mai multe peșteri și cascade."],
       en: ["The range stretches about 40 km.", "Highest peak is Muntele Căpățâna at 2,130 meters.", "Located between the Olt and Lotru rivers.", "Dense beech and spruce forests.", "Habitat for bears, wolves, and lynxes.", "Several caves and waterfalls exist."],
-    }, image: "/poi-images/romania-muntii-capatanii-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-lespezi-capatanii-relief-v2",
     type: "peak",
@@ -374,7 +383,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1.937 méter", "Hegység: Parâng", "Kőzet: gneisz és csillámpala", "Gleccsertavak száma: 3", "Fahatár: kb. 1.800 m", "Első ismert megmászása: 1880"],
       ro: ["Altitudine: 1.937 m", "Munte: Parâng", "Rocă: gnais și șist micaceu", "Număr de lacuri glaciare: 3", "Limită pădure: cca. 1.800 m", "Prima ascensiune cunoscută: 1880"],
       en: ["Elevation: 1,937 m", "Mountain range: Parâng", "Rock type: gneiss and mica schist", "Number of glacial lakes: 3", "Tree line: approx. 1,800 m", "First known ascent: 1880"],
-    }, image: "/poi-images/romania-vfrful-pades-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-parangul-mare-v2-relief-v2",
     type: "peak",
@@ -405,7 +415,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 2.519 méter", "Hegység: Parâng", "Kőzet: kristályos pala és magmás kőzet", "Meteorológiai állomás 1950 óta", "Nemzeti park: Parâng", "Gleccsertavak száma: 5"],
       ro: ["Altitudine: 2.519 m", "Munte: Parâng", "Rocă: șist cristalin și rocă magmatică", "Stație meteorologică din 1950", "Parcul Național Parâng", "Lacuri glaciare: 5 în apropiere"],
       en: ["Elevation: 2,519 m", "Mountain range: Parâng", "Rock type: crystalline schist and igneous rock", "Weather station since 1950", "National park: Parâng", "Glacial lakes: 5 nearby"],
-    }, image: "/poi-images/romania-vfrful-parangul-mare-v2-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-carja-relief-v2",
     type: "peak",
@@ -436,7 +447,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1.950 méter", "Hegység: Parâng", "Kőzet: gneisz", "Cârja-tó területe: 2.500 m²", "Védettség: nemzeti parkon kívül", "Emelkedési idő: kb. 4 óra a völgyből"],
       ro: ["Altitudine: 1.950 m", "Munte: Parâng", "Rocă: gnais", "Suprafața Lacului Cârja: 2.500 m²", "Statut protejat: în afara parcului național", "Timp de ascensiune: cca. 4 ore din vale"],
       en: ["Elevation: 1,950 m", "Mountain range: Parâng", "Rock type: gneiss", "Lake Cârja area: 2,500 m²", "Protected status: outside national park", "Climbing time: approx. 4 hours from valley"],
-    }, image: "/poi-images/romania-vfrful-carja-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-sura-relief-v2",
     type: "peak",
@@ -467,7 +479,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1.870 méter", "Hegység: Parâng", "Kőzet: csillámpala", "Legközelebbi menedékház: Iezerul (2 km)", "Állatfaj: mormota (Marmota marmota)", "Patak: Șura-patak, a Lotru mellékfolyója"],
       ro: ["Altitudine: 1.870 m", "Munte: Parâng", "Rocă: șist micaceu", "Cabana cea mai apropiată: Cabana Iezerul, 2 km", "Faună: marmotă (Marmota marmota)", "Pârâu: Pârâul Șura, afluent al Lotrului"],
       en: ["Elevation: 1,870 m", "Mountain range: Parâng", "Rock type: mica schist", "Nearest hut: Iezerul Hut, 2 km away", "Wildlife: alpine marmot (Marmota marmota)", "Stream: Șura Stream, tributary of Lotru"],
-    }, image: "/poi-images/romania-vfrful-sura-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-buteanu-relief-v2",
     type: "peak",
@@ -498,7 +511,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 2.507 méter", "Hegység: Fogarasi-havasok", "Kőzet: kristályos pala és mészkő", "Bâlea-tó: 2.034 méter magasan", "Transzfogarasi út: 15 km-re", "Első ismert megmászása: 1870"],
       ro: ["Altitudine: 2.507 m", "Munte: Făgăraș", "Rocă: șist cristalin și calcar", "Lacul Bâlea: altitudine 2.034 m", "Transfăgărășan: la 15 km", "Prima ascensiune cunoscută: 1870"],
       en: ["Elevation: 2,507 m", "Mountain range: Făgăraș", "Rock type: crystalline schist and limestone", "Lake Bâlea: elevation 2,034 m", "Transfăgărășan highway: 15 km away", "First known ascent: 1870"],
-    }, image: "/poi-images/romania-vfrful-buteanu-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-muntii-bihor-relief-v2",
     type: "mountain",
@@ -529,7 +543,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Terület: kb. 2.100 km²", "Legmagasabb pont: Curcubăta Mare (1.849 m)", "Kőzet: mészkő és dolomit", "Nemzeti park: Apuseni Nemzeti Park (76.000 ha)", "Barlangok száma: több mint 100", "Fő folyó: Sebes-Körös"],
       ro: ["Suprafață: cca. 2.100 km²", "Cel mai înalt vârf: Curcubăta Mare (1.849 m)", "Rocă: calcar și dolomit", "Parcul Național Apuseni: 76.000 ha", "Număr peșteri: peste 100", "Râul principal: Crișul Repede"],
       en: ["Area: approx. 2,100 km²", "Highest peak: Curcubăta Mare (1,849 m)", "Rock type: limestone and dolomite", "National park: Apuseni National Park (76,000 ha)", "Number of caves: over 100", "Main river: Crișul Repede"],
-    }, image: "/poi-images/romania-muntii-bihor-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-curcubata-mare-relief-v2",
     type: "peak",
@@ -560,7 +575,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1.849 méter", "Hegység: Bihar (Apuseni)", "Kőzet: mészkő", "Nemzeti park: Apuseni", "Jégbarlang: 1.000 m² jégréteg", "Első ismert megmászása: ismeretlen"],
       ro: ["Altitudine: 1.849 m", "Munte: Bihor (Apuseni)", "Rocă: calcar", "Parcul Național Apuseni", "Peștera Scărișoara: 1.000 m² strat de gheață", "Prima ascensiune: necunoscută"],
       en: ["Elevation: 1,849 m", "Mountain range: Bihor (Apuseni)", "Rock type: limestone", "National park: Apuseni", "Scărișoara Cave: 1,000 m² ice sheet", "First ascent: unknown"],
-    }, image: "/poi-images/romania-vfrful-curcubata-mare-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-muntii-gutai-relief-v2",
     type: "mountain",
@@ -623,7 +639,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Hossz: kb. 2 km", "Magasság: kb. 2.200 m", "Kőzet: konglomerátum", "Nemzeti park: Bucsecs", "Távolság a Szfinxtől: 1 km", "Kialakulása: kréta időszak"],
       ro: ["Lungime: cca. 2 km", "Altitudine: cca. 2.200 m", "Rocă: conglomerat", "Parcul Natural Bucegi", "Distanța până la Sfinx: 1 km", "Formare: Cretacic"],
       en: ["Length: approx. 2 km", "Elevation: approx. 2,200 m", "Rock type: conglomerate", "Protected area: Bucegi Natural Park", "Distance to Sphinx: 1 km", "Formation period: Cretaceous"],
-    }, image: "/poi-images/romania-vfrful-creasta-cocosului-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-tibles-relief-v2",
     type: "peak",
@@ -654,7 +671,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1.839 méter", "Hegység: Țibleș", "Kőzet: kristályos pala és flis", "Erdőtípus: luc és jegenyefenyő", "Legközelebbi város: Borșa, 15 km", "Menedékházak száma: 2"],
       ro: ["Altitudine: 1.839 m", "Munte: Țibleș", "Rocă: șist cristalin și fliș", "Tip pădure: molid și brad", "Oraș apropiat: Borșa, 15 km", "Cabane: 2 în zonă"],
       en: ["Elevation: 1,839 m", "Mountain range: Țibleș", "Rock type: crystalline schist and flysch", "Forest type: spruce and fir", "Nearest town: Borșa, 15 km", "Mountain huts: 2 in the area"],
-    }, image: "/poi-images/romania-vfrful-tibles-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-farcau-relief-v2",
     type: "peak",
@@ -685,7 +703,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1.958 méter", "Hegység: Radnai-havasok", "Kőzet: metamorf pala és gránit", "Nemzeti park: Radnai (47.000 ha)", "Északi fal: 600 m szintkülönbség", "Csúcskereszt: 1990 óta"],
       ro: ["Altitudine: 1.958 m", "Munte: Rodna", "Rocă: șist metamorfic și granit", "Parcul Național Rodna (47.000 ha)", "Peretele nordic: 600 m diferență de nivel", "Cruce pe vârf: din 1990"],
       en: ["Elevation: 1,958 m", "Mountain range: Rodna", "Rock type: metamorphic schist and granite", "National park: Rodna (47,000 ha)", "North face: 600 m height difference", "Summit cross: since 1990"],
-    }, image: "/poi-images/romania-vfrful-farcau-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-mihailecu-relief-v2",
     type: "peak",
@@ -716,7 +735,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 2.458 méter", "Hegység: Retyezát", "Kőzet: kristályos pala és gránit", "Nemzeti park: Retyezát (43.000 ha)", "Bucura-tó: 11 ha terület", "UNESCO státusz: 1979 óta"],
       ro: ["Altitudine: 2.458 m", "Munte: Retezat", "Rocă: șist cristalin și granit", "Parcul Național Retezat (43.000 ha)", "Lacul Bucura: 11 ha suprafață", "Statut UNESCO: din 1979"],
       en: ["Elevation: 2,458 m", "Mountain range: Retezat", "Rock type: crystalline schist and granite", "National park: Retezat (43,000 ha)", "Lake Bucura: 11 ha area", "UNESCO status: since 1979"],
-    }, image: "/poi-images/romania-vfrful-mihailecu-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-muntii-calimani-relief-v2",
     type: "mountain",
@@ -747,7 +767,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Terület: kb. 2.400 km²", "Legmagasabb pont: Pietrosul Călimani (2.100 m)", "Kőzet: andezit és bazalt", "Nemzeti park: Kelemen (33.000 ha)", "Vadlovak: kb. 100 egyed", "Utolsó vulkánkitörés: kb. 2 millió éve"],
       ro: ["Suprafață: cca. 2.400 km²", "Cel mai înalt vârf: Pietrosul Călimani (2.100 m)", "Rocă: andezit și bazalt", "Parcul Național Călimani (33.000 ha)", "Cai sălbatici: cca. 100 de exemplare", "Ultima erupție: acum cca. 2 milioane de ani"],
       en: ["Area: approx. 2,400 km²", "Highest peak: Pietrosul Călimani (2,100 m)", "Rock type: andesite and basalt", "National park: Călimani (33,000 ha)", "Wild horses: about 100 individuals", "Last eruption: about 2 million years ago"],
-    }, image: "/poi-images/romania-muntii-calimani-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-pietrosul-calimani-relief-v2",
     type: "peak",
@@ -778,7 +799,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 2.100 méter", "Hegység: Kelemen-havasok", "Kőzet: andezit és bazalt", "Nemzeti park: Kelemen", "Vulkántípus: rétegvulkán", "Kor: pliocén"],
       ro: ["Altitudine: 2.100 m", "Munte: Călimani", "Rocă: andezit și bazalt", "Parcul Național Călimani", "Tip vulcan: stratovulcan", "Vârstă: Pliocen"],
       en: ["Elevation: 2,100 m", "Mountain range: Călimani", "Rock type: andesite and basalt", "National park: Călimani", "Volcano type: stratovolcano", "Age: Pliocene"],
-    }, image: "/poi-images/romania-vfrful-pietrosul-calimani-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-stanca-relief-v2",
     type: "peak",
@@ -809,7 +831,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1.870 méter", "Hegység: Radnai-havasok", "Kőzet: metamorf kőzet", "Nemzeti park: Radna", "Nehézség: klettersteig B", "Növény: havasi gyopár (Leontopodium alpinum)"],
       ro: ["Altitudine: 1.870 m", "Munte: Rodna", "Rocă: rocă metamorfică", "Parcul Național Rodna", "Dificultate: via ferrata B", "Plantă: floare de colț (Leontopodium alpinum)"],
       en: ["Elevation: 1,870 m", "Mountain range: Rodna", "Rock type: metamorphic rock", "National park: Rodna", "Difficulty: via ferrata grade B", "Plant: edelweiss (Leontopodium alpinum)"],
-    }, image: "/poi-images/romania-vfrful-stanca-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-racu-relief-v2",
     type: "peak",
@@ -840,7 +863,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 2.526 méter", "Hegység: Fogarasi-havasok", "Kőzet: kristályos pala", "Răcu-tó: 2.200 méter magasan", "Nemzeti park: Fogaras (3.000 km²)", "Legközelebbi település: Cârțișoara, 12 km"],
       ro: ["Altitudine: 2.526 m", "Munte: Făgăraș", "Rocă: șist cristalin", "Lacul Răcu: altitudine 2.200 m", "Parcul Național Făgăraș (3.000 km²)", "Localitate apropiată: Cârțișoara, 12 km"],
       en: ["Elevation: 2,526 m", "Mountain range: Făgăraș", "Rock type: crystalline schist", "Lake Răcu: elevation 2,200 m", "National park: Făgăraș (3,000 km²)", "Nearest settlement: Cârțișoara, 12 km away"],
-    }, image: "/poi-images/romania-vfrful-racu-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-ihnat-relief-v2",
     type: "peak",
@@ -871,7 +895,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1.870 méter", "Hegység: Máramarosi-havasok", "Kőzet: flis és homokkő", "Menedékház: Ihnat menedékház 1.400 m-en", "Távolság Máramarosszigettől: 25 km", "Túra idő: 3 óra a völgyből"],
       ro: ["Altitudine: 1.870 m", "Munte: Maramureș", "Rocă: fliș și gresie", "Cabana Ihnat: 1.400 m", "Distanța de la Sighetu Marmației: 25 km", "Timp de drumeție: 3 ore din vale"],
       en: ["Elevation: 1,870 m", "Mountain range: Maramureș", "Rock type: flysch and sandstone", "Mountain hut: Cabana Ihnat at 1,400 m", "Distance from Sighetu Marmației: 25 km", "Hiking time: 3 hours from valley"],
-    }, image: "/poi-images/romania-vfrful-ihnat-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-negoiu-unguresc-relief-v2",
     type: "peak",
@@ -902,7 +927,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 2.504 méter", "Hegység: Fogarasi-havasok", "Kőzet: kristályos pala", "Gleccsertavak száma: 4 a közelben", "Nemzeti park: Fogaras", "Nehézség: via ferrata C"],
       ro: ["Altitudine: 2.504 m", "Munte: Făgăraș", "Rocă: șist cristalin", "Număr lacuri glaciare: 4 în apropiere", "Parcul Național Făgăraș", "Dificultate: via ferrata C"],
       en: ["Elevation: 2,504 m", "Mountain range: Făgăraș", "Rock type: crystalline schist", "Number of glacial lakes: 4 nearby", "National park: Făgăraș", "Difficulty: via ferrata grade C"],
-    }, image: "/poi-images/romania-vfrful-negoiu-unguresc-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-muntii-gurghiu-relief-v2",
     type: "mountain",
@@ -933,7 +959,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Terület: kb. 1.500 km²", "Legmagasabb pont: Saca Mare (1.776 m)", "Kőzet: andezit és bazalt", "Ásványvízforrások: több mint 50", "Madárrezervátum: Görgény (200 ha)", "Legközelebbi város: Szászrégen, 15 km"],
       ro: ["Suprafață: cca. 1.500 km²", "Cel mai înalt vârf: Saca Mare (1.776 m)", "Rocă: andezit și bazalt", "Izvoare minerale: peste 50", "Rezervație ornitologică: Gurghiu (200 ha)", "Oraș apropiat: Reghin, 15 km"],
       en: ["Area: approx. 1,500 km²", "Highest peak: Saca Mare (1,776 m)", "Rock type: andesite and basalt", "Mineral springs: over 50", "Bird reserve: Gurghiu (200 ha)", "Nearest town: Reghin, 15 km"],
-    }, image: "/poi-images/romania-muntii-gurghiu-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-saca-relief-v2",
     type: "peak",
@@ -964,7 +991,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1776 m", "Vulkáni kőzet: andezit és bazalt", "A Hargita-hegység része", "Legközelebbi város: Băile Tușnad (~10 km)", "Havasi rétek 1600 m felett", "Natura 2000 terület 2007 óta"],
       ro: ["Altitudine: 1.776 m", "Roci vulcanice: andezit și bazalt", "Parte a Munților Harghita", "Orașul cel mai apropiat: Băile Tușnad (~10 km)", "Pajiști alpine de la 1.600 m", "Sit Natura 2000 din 2007"],
       en: ["Elevation: 1,776 m", "Rock type: volcanic (andesite, basalt)", "Part of Harghita Mountains", "Nearest town: Băile Tușnad (~10 km)", "Alpine meadows above 1,600 m", "Natura 2000 site since 2007"],
-    }, image: "/poi-images/romania-vfrful-saca-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-batrana-gurghiu-relief-v2",
     type: "peak",
@@ -995,7 +1023,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1754 m", "A Görgényi-havasok második legmagasabb csúcsa", "Vulkáni eredetű (miocén)", "Uralkodó fafaj: lucfenyő (Picea abies)", "Legközelebbi település: Gurghiu", "Natura 2000 hálózat része"],
       ro: ["Altitudine: 1.754 m", "Al doilea cel mai înalt vârf din Munții Gurghiu", "Origine vulcanică (Miocen)", "Specie forestieră dominantă: molid (Picea abies)", "Localitatea cea mai apropiată: Gurghiu", "Parte a rețelei Natura 2000"],
       en: ["Elevation: 1,754 m", "Second highest peak of Gurghiu Mountains", "Volcanic origin (Miocene)", "Dominant tree species: spruce (Picea abies)", "Nearest settlement: Gurghiu", "Part of Natura 2000 network"],
-    }, image: "/poi-images/romania-vfrful-batrana-gurghiu-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-bucsina-relief-v2",
     type: "peak",
@@ -1026,7 +1055,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1850 m", "A Radnai-havasokban található", "Kőzet: kristályos pala", "Állatfaj: zerge (Rupicapra rupicapra)", "Történeti vas- és mangánbányászat", "Legközelebbi település: Borșa"],
       ro: ["Altitudine: 1.850 m", "Situat în Munții Rodnei", "Roci: șisturi cristaline", "Specie de faună: capră neagră (Rupicapra rupicapra)", "Exploatări miniere istorice de fier și mangan", "Localitatea cea mai apropiată: Borșa"],
       en: ["Elevation: 1,850 m", "Located in Rodna Mountains", "Rock type: crystalline schists", "Animal species: chamois (Rupicapra rupicapra)", "Historical iron and manganese mining", "Nearest town: Borșa"],
-    }, image: "/poi-images/romania-vfrful-bucsina-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-fancel-relief-v2",
     type: "peak",
@@ -1057,7 +1087,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1684 m", "Vulkáni lánc része", "Erdőhatár kb. 1500 m", "Állatfaj: vaddisznó (Sus scrofa)", "Juhlegeltetés", "Legközelebbi város: Csíkszereda"],
       ro: ["Altitudine: 1.684 m", "Parte a unui lanț vulcanic", "Limita pădurii la ~1.500 m", "Specie de faună: mistreț (Sus scrofa)", "Pășunatul oilor", "Orașul cel mai apropiat: Miercurea Ciuc"],
       en: ["Elevation: 1,684 m", "Part of a volcanic chain", "Tree line at ~1,500 m", "Animal species: wild boar (Sus scrofa)", "Sheep grazing", "Nearest city: Miercurea Ciuc"],
-    }, image: "/poi-images/romania-vfrful-fancel-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-muntii-harghita-relief-v2",
     type: "mountain",
@@ -1120,7 +1151,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1801 m", "A Hargita-hegység legmagasabb csúcsa", "Kőzet: andezit és bazalt", "Erdőhatár kb. 1700 m", "Legközelebbi település: Băile Tușnad (kb. 8 km)", "Nehézségi szint: közepes-nehéz"],
       ro: ["Altitudine: 1.801 m", "Cel mai înalt vârf din Munții Harghita", "Roci: andezit și bazalt", "Limita pădurii la ~1.700 m", "Localitatea cea mai apropiată: Băile Tușnad (~8 km)", "Dificultatea traseului: medie spre dificilă"],
       en: ["Elevation: 1,801 m", "Highest peak of Harghita Mountains", "Rock type: andesite and basalt", "Tree line at ~1,700 m", "Nearest settlement: Băile Tușnad (~8 km)", "Trail difficulty: moderate to hard"],
-    }, image: "/poi-images/romania-madarasi-hargita-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-socarau-relief-v2",
     type: "peak",
@@ -1151,7 +1183,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1843 m", "Kőzet: csillámpala, gneisz", "A Radnai-havasok része", "Állatfaj: szirti sas (Aquila chrysaetos)", "Történeti mangánbányászat", "Legközelebbi falvak: Borșa, Moisei"],
       ro: ["Altitudine: 1.843 m", "Roci: șisturi micacee, gneisuri", "Parte a Munților Rodnei", "Specie de faună: acvilă de munte (Aquila chrysaetos)", "Exploatări istorice de mangan", "Localități apropiate: Borșa, Moisei"],
       en: ["Elevation: 1,843 m", "Rock: mica schist, gneiss", "Part of Rodna Mountains", "Animal species: golden eagle (Aquila chrysaetos)", "Historical manganese mining", "Nearby villages: Borșa, Moisei"],
-    }, image: "/poi-images/romania-vfrful-socarau-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-fagul-inalt-relief-v2",
     type: "peak",
@@ -1182,7 +1215,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 2492 m", "Kőzet: konglomerátum", "A Bucsecs-hegységben található", "Állatfaj: mormota (Marmota marmota)", "Kiindulópont: Babele menedékház (2206 m)", "Szintkülönbség: 286 m"],
       ro: ["Altitudine: 2.492 m", "Roci: conglomerat", "Situat în Munții Bucegi", "Specie de faună: marmotă (Marmota marmota)", "Punct de plecare: Cabana Babele (2.206 m)", "Diferență de nivel: 286 m"],
       en: ["Elevation: 2,492 m", "Rock type: conglomerate", "Located in Bucegi Mountains", "Animal species: marmot (Marmota marmota)", "Starting point: Babele Hut (2,206 m)", "Elevation gain: 286 m"],
-    }, image: "/poi-images/romania-vfrful-fagul-inalt-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-racoasa-relief-v2",
     type: "peak",
@@ -1213,7 +1247,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1763 m", "Kőzet: flis (homokkő, agyagpala)", "A Vrancea-hegység része", "Szeizmikus zóna: Vrancea", "Legközelebbi falvak: Nereju, Tulnici", "Erdőborítottság: >80%"],
       ro: ["Altitudine: 1.763 m", "Roci: fliș (gresii, argile)", "Parte a Munților Vrancei", "Zonă seismică: Vrancea", "Sate apropiate: Nereju, Tulnici", "Acoperire forestieră: >80%"],
       en: ["Elevation: 1,763 m", "Rock type: flysch (sandstone, shale)", "Part of Vrancea Mountains", "Seismic zone: Vrancea", "Nearby villages: Nereju, Tulnici", "Forest cover: >80%"],
-    }, image: "/poi-images/romania-vfrful-racoasa-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-piatra-secuiului-relief-v2",
     type: "peak",
@@ -1244,7 +1279,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1128 m", "Kőzet: jura mészkő", "Mászóutak száma: több mint 30", "Védett növény: havasi gyopár", "Legközelebbi falu: Colțești", "A Natura 2000 Torockói-hegység része"],
       ro: ["Altitudine: 1.128 m", "Roci: calcare jurasice", "Număr de trasee de escaladă: peste 30", "Plantă protejată: floarea de colț", "Satul cel mai apropiat: Colțești", "Parte a sitului Natura 2000 Trascău"],
       en: ["Elevation: 1,128 m", "Rock: Jurassic limestone", "Number of climbing routes: over 30", "Protected plant: edelweiss", "Nearest village: Colțești", "Part of Trascău Natura 2000 site"],
-    }, image: "/poi-images/romania-piatra-secuiului-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-bedeleu-relief-v2",
     type: "peak",
@@ -1275,7 +1311,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1428 m", "Kőzet: mészkő, dolomit (triász)", "Karsztjelenségek: barlangok, töbrök", "Történeti bányászat: vas, réz", "Legközelebbi település: Colțești", "Kilátás az Aranyos-völgyre"],
       ro: ["Altitudine: 1.428 m", "Roci: calcare, dolomite (Triasic)", "Fenomene carstice: peșteri, doline", "Exploatări miniere istorice: fier, cupru", "Localitatea cea mai apropiată: Colțești", "Priveliște asupra Văii Arieșului"],
       en: ["Elevation: 1,428 m", "Rock: limestone, dolomite (Triassic)", "Karst features: caves, sinkholes", "Historical mining: iron, copper", "Nearest settlement: Colțești", "View over Arieș Valley"],
-    }, image: "/poi-images/romania-vfrful-bedeleu-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-muntii-varatec-relief-v2",
     type: "mountain",
@@ -1306,7 +1343,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Vărătec (1200 m)", "Kőzet: homokkő, konglomerátum (kréta)", "Híres kolostor: Neamț-kolostor (alapítva 1497)", "Legközelebbi város: Târgu Neamț (kb. 10 km)", "Erdőborítottság: kb. 60%", "A hegység hossza: kb. 30 km"],
       ro: ["Cel mai înalt vârf: Vărătec (1.200 m)", "Roci: gresii, conglomerate (Cretacic)", "Mănăstire cunoscută: Neamț (fondată 1497)", "Orașul cel mai apropiat: Târgu Neamț (~10 km)", "Acoperire forestieră: ~60%", "Lungimea lanțului: ~30 km"],
       en: ["Highest peak: Vărătec (1,200 m)", "Rock: sandstone, conglomerate (Cretaceous)", "Famous monastery: Neamț (founded 1497)", "Nearest city: Târgu Neamț (~10 km)", "Forest cover: ~60%", "Length of range: ~30 km"],
-    }, image: "/poi-images/romania-muntii-varatec-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-varatec-relief-v2",
     type: "peak",
@@ -1337,7 +1375,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1200 m", "A Vărătec-hegység legmagasabb csúcsa", "Kőzet: homokkő, konglomerátum (kréta)", "Kiindulópont: Târgu Neamț (kb. 10 km)", "Történelmi vár: Neamț-vár (kb. 5 km)", "Túraidő: kb. 3 óra felmenet"],
       ro: ["Altitudine: 1.200 m", "Cel mai înalt vârf al Munților Vărătec", "Roci: gresii, conglomerate (Cretacic)", "Punct de plecare: Târgu Neamț (~10 km)", "Cetate istorică: Cetatea Neamț (~5 km)", "Timp de drumeție: ~3 ore ascensiune"],
       en: ["Elevation: 1,200 m", "Highest peak of Vărătec Mountains", "Rock: sandstone, conglomerate (Cretaceous)", "Starting point: Târgu Neamț (~10 km)", "Historic fortress: Cetatea Neamț (~5 km away)", "Hiking time: ~3 hours ascent"],
-    }, image: "/poi-images/romania-vfrful-varatec-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-pleasa-relief-v2",
     type: "peak",
@@ -1368,7 +1407,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 2492 m", "Kőzet: konglomerátum", "A Bucsecs-masszívum része", "Állatfaj: mormota", "Legközelebbi menedékház: Babele (2206 m)", "Szintkülönbség: 286 m"],
       ro: ["Altitudine: 2.492 m", "Roci: conglomerat", "Parte a Masivului Bucegi", "Specie de faună: marmotă", "Cabana cea mai apropiată: Babele (2.206 m)", "Diferență de nivel: 286 m"],
       en: ["Elevation: 2,492 m", "Rock type: conglomerate", "Part of Bucegi Massif", "Animal species: marmot", "Nearest hut: Babele (2,206 m)", "Elevation gain: 286 m"],
-    }, image: "/poi-images/romania-vfrful-pleasa-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-panciu-relief-v2",
     type: "peak",
@@ -1431,7 +1471,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 2458 m", "Kőzet: konglomerátum", "A Bucsecs-fennsík része", "Állatfaj: zerge (Rupicapra rupicapra)", "Legközelebbi menedékház: Babele (2206 m)", "Út: Hősök útja (hossza kb. 3 km)"],
       ro: ["Altitudine: 2.458 m", "Roci: conglomerat", "Parte a Platoului Bucegi", "Specie de faună: capră neagră (Rupicapra rupicapra)", "Cabana cea mai apropiată: Babele (2.206 m)", "Drum: Drumul Eroilor (lungime ~3 km)"],
       en: ["Elevation: 2,458 m", "Rock type: conglomerate", "Part of Bucegi Plateau", "Animal species: chamois (Rupicapra rupicapra)", "Nearest hut: Babele (2,206 m)", "Trail: Heroes' Trail (length ~3 km)"],
-    }, image: "/poi-images/romania-vfrful-gorgonu-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-muntii-metaliferi-relief-v2",
     type: "mountain",
@@ -1462,7 +1503,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Legmagasabb csúcs: Detunata Goală (1377 m)", "Kőzet: andezit, dácit (tercier)", "Történeti bányászat: arany, ezüst, réz, cink", "Római bányászat kimutatható", "Fontos városok: Brad, Abrud", "A hegység hossza: kb. 60 km"],
       ro: ["Cel mai înalt vârf: Detunata Goală (1.377 m)", "Roci: andezit, dacit (Terțiar)", "Exploatări miniere istorice: aur, argint, cupru, zinc", "Minerit roman atestat", "Orașe importante: Brad, Abrud", "Lungimea lanțului: ~60 km"],
       en: ["Highest peak: Detunata Goală (1,377 m)", "Rock: andesite, dacite (Tertiary)", "Historical mining: gold, silver, copper, zinc", "Roman mining attested", "Important towns: Brad, Abrud", "Length of range: ~60 km"],
-    }, image: "/poi-images/romania-muntii-metaliferi-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-detunata-goala-relief-v2",
     type: "peak",
@@ -1493,7 +1535,8 @@ export const romaniaReliefV2: POI[] = [
       hu: ["Magasság: 1377 m", "A Metaliferi-hegység legmagasabb csúcsa", "Kőzet: andezit, dácit", "Vulkáni eredetű (kialudt)", "Történeti aranybányászat a régióban", "Legközelebbi település: Bucium (kb. 10 km)"],
       ro: ["Altitudine: 1.377 m", "Cel mai înalt vârf al Munților Metaliferi", "Roci: andezit, dacit", "Origine vulcanică (stins)", "Exploatări istorice de aur în regiune", "Localitatea cea mai apropiată: Bucium (~10 km)"],
       en: ["Elevation: 1,377 m", "Highest peak of Metaliferi Mountains", "Rock: andesite, dacite", "Volcanic origin (extinct)", "Historical gold mining in region", "Nearest settlement: Bucium (~10 km)"],
-    }, image: "/poi-images/romania-vfrful-detunata-goala-relief-v2.webp"},
+    },
+  },
   {
     id: "romania-vfrful-detunata-flocoasa-relief-v2",
     type: "peak",

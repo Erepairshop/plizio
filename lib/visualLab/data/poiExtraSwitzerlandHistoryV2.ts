@@ -31,7 +31,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["A 11. században épült.", "23 méterrel magasodik a Rajna-vízesés fölé.", "Étterem és látogatóközpont működik benne.", "Gótikus palota és védőtorony található.", "A Rajna-vízesés 150 méter széles.", "Műemlékvédelem alatt áll."],
       ro: ["Construit în secolul al XI-lea.", "Se înalță la 23 de metri deasupra Cascadei Rinului.", "Castelul găzduiește un restaurant și centru de vizitare.", "Palat gotic și turn de apărare păstrate.", "Cascada Rinului are 150 de metri lățime.", "Monument protejat din secolul XX."],
       en: ["Built in the 11th century.", "Rises 23 meters above the Rhine Falls.", "Houses a restaurant and visitor center.", "Gothic palace and keep preserved.", "Rhine Falls are 150 meters wide.", "Listed as a heritage monument."],
-    }, image: "/poi-images/switzerland-laufen-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-habsburg-castle-history-v2",
     type: "castle",
@@ -62,7 +63,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1020 körül épült.", "A Habsburg-dinasztia törzsvára.", "Területe 3500 négyzetméter.", "Évente 50 000 látogató.", "Lakótorony és körítőfal megmaradt.", "Kilátóterasz az Aare völgyére."],
       ro: ["Construit în jurul anului 1020.", "Cetatea de origine a dinastiei Habsburg.", "Suprafață de 3.500 de metri pătrați.", "50.000 de vizitatori anual.", "Turnul de locuit și zidul de incintă păstrate.", "Platformă de observație cu vedere spre valea Aare."],
       en: ["Built around 1020.", "Ancestral seat of the Habsburg dynasty.", "Area of 3,500 square meters.", "50,000 visitors annually.", "Residential tower and curtain wall preserved.", "Observation platform overlooking Aare valley."],
-    }, image: "/poi-images/switzerland-habsburg-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-valere-basilica-history-v2",
     type: "church",
@@ -93,7 +95,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["12/13. században épült.", "Itt található a világ legrégebbi működő orgonája (1435).", "UNESCO világörökség része.", "Hosszúsága 40 m, szélessége 15 m.", "Panorámakilátás Sittenre és a Rhône-síkságra.", "Belső freskók és gótikus szobrok."],
       ro: ["Construit în secolele XII/XIII.", "Adăpostește cea mai veche orgă funcțională (1435).", "Parte a patrimoniului UNESCO.", "Lungime 40 m, lățime 15 m.", "Vedere panoramică spre Sion și câmpia Ronului.", "Fresce și sculpturi gotice în interior."],
       en: ["Built in the 12th/13th century.", "Houses the oldest playable organ (1435).", "UNESCO World Heritage site.", "Length 40 m, width 15 m.", "Panoramic view of Sion and Rhone plain.", "Frescoes and Gothic sculptures inside."],
-    }, image: "/poi-images/switzerland-valere-basilica-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-granson-castle-history-v2",
     type: "castle",
@@ -124,7 +127,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["A 11. században épült.", "Az 1476-os grandsoni csata helyszíne.", "Védőtorony 30 méter magas.", "Kút 40 méter mély.", "Fegyver- és páncélmúzeum.", "Évi 100 000 látogató felett."],
       ro: ["Construit în secolul al XI-lea.", "Bătălia de la Grandson (1476).", "Turnul de apărare: 30 m înălțime.", "Fântână adâncă de 40 m.", "Muzeu de arme și armuri.", "Peste 100.000 de vizitatori anual."],
       en: ["Built in the 11th century.", "Battle of Grandson in 1476.", "Keep 30 meters high.", "Well 40 meters deep.", "Museum of arms and armor.", "Over 100,000 visitors annually."],
-    }, image: "/poi-images/switzerland-granson-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-rapperswil-castle-history-v2",
     type: "castle",
@@ -155,7 +159,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1200 körül épült.", "Itt található a Lengyel Múzeum.", "Védőtoronyból kilátás a tóra és az Alpokra.", "Rapperswilben több mint 15 000 rózsatő van.", "A rapperswili grófok egykori lakhelye.", "Népszerű esküvői helyszín."],
       ro: ["Construit în jurul anului 1200.", "Adăpostește Muzeul Polonez.", "Turnul de apărare cu vedere la lac și Alpi.", "Rapperswil are peste 15.000 de tufe de trandafiri.", "Fosta reședință a conților de Rapperswil.", "Locație populară pentru nunți."],
       en: ["Built around 1200.", "Houses the Polish Museum.", "Keep offers views of Lake Zurich and Alps.", "Rapperswil has over 15,000 rose bushes.", "Former residence of the Counts of Rapperswil.", "Popular wedding venue today."],
-    }, image: "/poi-images/switzerland-rapperswil-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-chateau-de-chillon-history-v2",
     type: "castle",
@@ -218,7 +223,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1658–1678 között épült.", "Három jellegzetes torony.", "Hosszúsága 70 méter.", "Botanikus kert tartozik hozzá.", "Múzeum és önkormányzati irodák.", "A Simplon-kereskedelem központja."],
       ro: ["Construit între 1658 și 1678.", "Trei turnuri distinctive.", "Lungime 70 de metri.", "Grădină botanică inclusă.", "Muzeu și birouri administrative.", "Centru al comerțului peste Pasul Simplon."],
       en: ["Built 1658–1678.", "Three distinctive towers.", "Length 70 meters.", "Includes a botanical garden.", "Houses museum and municipal offices.", "Center for Simplon Pass trade."],
-    }, image: "/poi-images/switzerland-stockalper-palace-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-murten-walls-history-v2",
     type: "ruins",
@@ -249,7 +255,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["13. században épült.", "Fal hossza: 1,2 km.", "Védőtorony: Pulverturm.", "Az 1476-os murteni csata után erősítve.", "Bástyasétány járható.", "Óváros műemlékvédelem alatt."],
       ro: ["Construit în secolul al XIII-lea.", "Lungimea zidului: 1,2 km.", "Turn de apărare: Turnul Pulberii.", "Întărit după Bătălia de la Murten (1476).", "Calea de strajă accesibilă.", "Orașul vechi monument protejat."],
       en: ["Built in the 13th century.", "Wall length: 1.2 km.", "Defensive tower: Powder Tower.", "Reinforced after Battle of Murten (1476).", "Battlement walk accessible.", "Old town under heritage protection."],
-    }, image: "/poi-images/switzerland-murten-walls-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-augst-roman-site-history-v2",
     type: "ruins",
@@ -280,7 +287,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["Alapítva Kr. e. 44 körül.", "Feltárási terület 70 hektár.", "Színház 8000 ülőhellyel.", "Városfal 4 km hosszú.", "Kaiseraugsti ezüstkincs.", "Évi 100 000 látogató felett."],
       ro: ["Fondat în jurul anului 44 î.Hr.", "Suprafața sitului: 70 de hectare.", "Teatru cu 8.000 de locuri.", "Zidul orașului: 4 km lungime.", "Tezaurul de argint de la Kaiseraugst.", "Peste 100.000 de vizitatori anual."],
       en: ["Founded around 44 BC.", "Site area: 70 hectares.", "Theater with 8,000 seats.", "City wall 4 km long.", "Kaiseraugst silver treasure.", "Over 100,000 visitors annually."],
-    }, image: "/poi-images/switzerland-augst-roman-site-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-thun-castle-history-v2",
     type: "castle",
@@ -311,7 +319,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["12. században építették a zähringeni hercegek.", "Védőtorony 35 méter magas.", "Lovagterem gótikus freskókkal.", "Történelmi múzeum a kastélyban.", "Évi 120 000 látogató.", "1429-től berni helytartók székhelye."],
       ro: ["Construit în secolul al XII-lea de către ducii de Zähringen.", "Turnul de apărare: 35 m înălțime.", "Sala cavalerilor cu fresce gotice.", "Muzeu istoric în castel.", "120.000 de vizitatori anual.", "Sediu al guvernatorilor bernesi după 1429."],
       en: ["Built in the 12th century by Zähringen dukes.", "Keep 35 meters high.", "Knight's Hall with Gothic frescoes.", "Historical museum in the castle.", "120,000 visitors annually.", "Seat of Bernese bailiffs after 1429."],
-    }, image: "/poi-images/switzerland-thun-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-gruyeres-walls-history-v2",
     type: "ruins",
@@ -342,7 +351,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["13. században épült.", "Falhossz kb. 800 méter.", "Védőtorony: Tour de la Velle.", "Két városkapu.", "Óváros autómentes.", "Évi 1,5 millió turista."],
       ro: ["Construit în secolul al XIII-lea.", "Lungimea zidurilor: circa 800 m.", "Turn de apărare: Tour de la Velle.", "Două porți ale orașului.", "Centru istoric pietonal.", "1,5 milioane de turiști anual."],
       en: ["Built in the 13th century.", "Wall length about 800 meters.", "Defensive tower: Tour de la Velle.", "Two city gates.", "Car-free old town.", "1.5 million tourists annually."],
-    }, image: "/poi-images/switzerland-gruyeres-walls-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-castelgrande-addition-history-v2",
     type: "castle",
@@ -373,7 +383,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["Bellinzona három vára közül a legnagyobb.", "UNESCO világörökség.", "Falak vastagsága akár 7 méter.", "Belső udvar (Cortile) a 13. századból.", "A 15. században a milánói hercegek bővítették.", "Ma étterem és múzeum található benne."],
       ro: ["Cel mai mare dintre cele trei castele din Bellinzona.", "Patrimoniu UNESCO.", "Ziduri groase de până la 7 metri.", "Curtea (Cortile) din secolul al XIII-lea.", "Extins în secolul al XV-lea de ducii de Milano.", "Astăzi găzduiește restaurant și muzeu."],
       en: ["Largest of Bellinzona's three castles.", "UNESCO World Heritage site.", "Walls up to 7 meters thick.", "Cortile (courtyard) from 13th century.", "Expanded in 15th century by Milanese dukes.", "Today houses a restaurant and museum."],
-    }, image: "/poi-images/switzerland-castelgrande-addition-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-nideck-ruins-history-v2",
     type: "ruins",
@@ -404,7 +415,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["Épült 1150 körül", "Várfok magassága: kb. 20 m", "1375-ben tűzvész pusztította el", "Tengerszint feletti magasság: 460 m", "Udvar területe: kb. 800 m²", "1975 óta védett"],
       ro: ["Construit în jurul anului 1150", "Înălțimea turnului: aprox. 20 m", "Distrus în 1375 de un incendiu", "Altitudine: 460 m deasupra nivelului mării", "Suprafața curții: aprox. 800 m²", "Protejat din 1975"],
       en: ["Built around 1150 CE", "Keep height: approx. 20 m", "Destroyed by fire in 1375", "Elevation: 460 m above sea level", "Courtyard area: approx. 800 m²", "Protected as monument since 1975"],
-    }, image: "/poi-images/switzerland-nideck-ruins-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-frauenfeld-castle-history-v2",
     type: "castle",
@@ -435,7 +447,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1230-ban épült vízivárként", "Torony magassága: 45 m", "Múzeumi terület: 1.200 m²", "1998-ban felújítva", "Tengerszint felett: 370 m", "16. századi freskók"],
       ro: ["Construit în 1230 ca fortăreață pe apă", "Înălțimea turnului: 45 m", "Suprafața muzeului: 1.200 m²", "Renovat în 1998", "Altitudine: 370 m", "Fresce din secolul al XVI-lea"],
       en: ["Built 1230 as a moated castle", "Tower height: 45 m", "Museum area: 1,200 m²", "Renovated in 1998", "Elevation: 370 m", "16th-century frescoes"],
-    }, image: "/poi-images/switzerland-frauenfeld-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-werdegg-castle-history-v2",
     type: "ruins",
@@ -466,7 +479,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1150 körül épült", "Magaslati vár 420 m tszf.", "Külső fal vastagsága: 3 m", "Alapterület: kb. 50×30 m", "A 14. században pusztult el", "Első írásos említés 1245"],
       ro: ["Construit în jurul anului 1150", "Castel de înălțime la 420 m alt.", "Grosimea zidului de scut: 3 m", "Suprafață: aprox. 50×30 m", "Distrus în secolul al XIV-lea", "Prima mențiune documentară 1245"],
       en: ["Built around 1150", "Hilltop castle at 420 m elevation", "Shield wall thickness: 3 m", "Area: approx. 50×30 m", "Destroyed in the 14th century", "First mentioned in 1245"],
-    }, image: "/poi-images/switzerland-werdegg-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-kyburg-castle-history-v2",
     type: "castle",
@@ -497,7 +511,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1027-ben épült", "Várfok magassága: 32 m", "Múzeumi terület: 1.500 m²", "Tengerszint felett: 530 m", "Éves látogatók: kb. 50.000", "12. századi ablakok"],
       ro: ["Construit în 1027", "Înălțimea turnului: 32 m", "Suprafața muzeului: 1.500 m²", "Altitudine: 530 m", "Vizitatori anual: aprox. 50.000", "Ferestre din secolul al XII-lea"],
       en: ["Built in 1027", "Keep height: 32 m", "Museum area: 1,500 m²", "Elevation: 530 m", "Annual visitors: approx. 50,000", "12th-century windows"],
-    }, image: "/poi-images/switzerland-kyburg-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-hallwyl-castle-history-v2",
     type: "castle",
@@ -528,7 +543,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1170 körül épült", "Sziget mérete: kb. 2,5 ha", "Vizesárok szélessége: 15 m", "Múzeumi terület: 1.000 m²", "2019-ben 35.000 látogató", "2005-2008 között felújítva"],
       ro: ["Construit în jurul anului 1170", "Suprafața insulei: aprox. 2,5 ha", "Lățimea șanțului: 15 m", "Suprafața muzeului: 1.000 m²", "Vizitatori în 2019: 35.000", "Restaurat 2005-2008"],
       en: ["Built around 1170", "Island size: approx. 2.5 ha", "Moat width: 15 m", "Museum area: 1,000 m²", "Visitors in 2019: 35,000", "Restored 2005-2008"],
-    }, image: "/poi-images/switzerland-hallwyl-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-habsburg-tower-history-v2",
     type: "tower",
@@ -559,7 +575,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1020 körül épült", "Torony magassága: 22 m", "Falvastagság: 2,5 m", "Tengerszint felett: 500 m", "Múzeum alapítva 2001", "Ablak mérete: 1,2×2 m"],
       ro: ["Construit în jurul anului 1020", "Înălțimea turnului: 22 m", "Grosimea zidului: 2,5 m", "Altitudine: 500 m", "Muzeu înființat în 2001", "Dimensiunea ferestrei: 1,2×2 m"],
       en: ["Built around 1020", "Tower height: 22 m", "Wall thickness: 2.5 m", "Elevation: 500 m", "Museum founded in 2001", "Window size: 1.2×2 m"],
-    }, image: "/poi-images/switzerland-habsburg-tower-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-lenzburg-castle-history-v2",
     type: "castle",
@@ -590,7 +607,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1050 körül épült", "Várfok magassága: 35 m", "Múzeumi terület: 2.000 m²", "Tengerszint felett: 450 m", "Éves látogatók: kb. 100.000", "Legrégebbi falak a 10. századból"],
       ro: ["Construit în jurul anului 1050", "Înălțimea turnului: 35 m", "Suprafața muzeului: 2.000 m²", "Altitudine: 450 m", "Vizitatori anual: aprox. 100.000", "Cele mai vechi ziduri din secolul al X-lea"],
       en: ["Built around 1050", "Keep height: 35 m", "Museum area: 2,000 m²", "Elevation: 450 m", "Annual visitors: approx. 100,000", "Oldest wall parts from the 10th century"],
-    }, image: "/poi-images/switzerland-lenzburg-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-neuchatel-castle-history-v2",
     type: "castle",
@@ -621,7 +639,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1140 körül épült", "Várfok magassága: 25 m", "Kápolna felszentelve 1250", "Tengerszint felett: 530 m", "Múzeumi terület: 800 m²", "Rózsaablak átmérője: 2 m"],
       ro: ["Construit în jurul anului 1140", "Înălțimea turnului: 25 m", "Capelă sfințită în 1250", "Altitudine: 530 m", "Suprafața muzeului: 800 m²", "Diametrul rozacei: 2 m"],
       en: ["Built around 1140", "Keep height: 25 m", "Chapel consecrated in 1250", "Elevation: 530 m", "Museum area: 800 m²", "Rose window diameter: 2 m"],
-    }, image: "/poi-images/switzerland-neuchatel-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-valangin-castle-history-v2",
     type: "castle",
@@ -652,7 +671,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1150 körül épült", "Várfok magassága: 23 m", "Múzeum 1954 óta", "Tengerszint felett: 760 m", "Alépítmény falvastagsága: 2,8 m", "Árok szélessége: 8 m"],
       ro: ["Construit în jurul anului 1150", "Înălțimea turnului: 23 m", "Muzeu din 1954", "Altitudine: 760 m", "Grosimea zidului de bază: 2,8 m", "Lățimea șanțului: 8 m"],
       en: ["Built around 1150", "Keep height: 23 m", "Museum since 1954", "Elevation: 760 m", "Lower wall thickness: 2.8 m", "Ditch width: 8 m"],
-    }, image: "/poi-images/switzerland-valangin-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-saint-ursanne-walls-history-v2",
     type: "ruins",
@@ -683,7 +703,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1250-től épült", "Falak magassága: 6-10 m", "Fennmaradt tornyok száma: 4", "Megmaradt fal hossza: kb. 600 m", "Porte Saint-Jean a 14. sz.-ban épült", "Kőfejtő: helyi mészkő"],
       ro: ["Construit de la 1250", "Înălțimea zidurilor: 6-10 m", "Număr de turnuri păstrate: 4", "Lungimea zidului păstrat: aprox. 600 m", "Porte Saint-Jean construit în sec. XIV", "Carieră: calcar local"],
       en: ["Built from 1250", "Wall height: 6-10 m", "Number of preserved towers: 4", "Length of preserved wall: approx. 600 m", "Porte Saint-Jean built in 14th cen.", "Quarry: local limestone"],
-    }, image: "/poi-images/switzerland-saint-ursanne-walls-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-porrentruy-castle-history-v2",
     type: "castle",
@@ -714,7 +735,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1271-ben épült", "Torony magassága: 30 m (Tour Réfous)", "Múzeumi terület: 1.200 m²", "Tengerszint felett: 430 m", "Kápolna felszentelve 1302", "Park területe: 1,5 ha"],
       ro: ["Construit în 1271", "Înălțimea turnului: 30 m (Tour Réfous)", "Suprafața muzeului: 1.200 m²", "Altitudine: 430 m", "Capelă sfințită în 1302", "Suprafața parcului: 1,5 ha"],
       en: ["Built in 1271", "Tower height: 30 m (Tour Réfous)", "Museum area: 1,200 m²", "Elevation: 430 m", "Chapel consecrated in 1302", "Park area: 1.5 ha"],
-    }, image: "/poi-images/switzerland-porrentruy-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-delémont-walls-history-v2",
     type: "ruins",
@@ -745,7 +767,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1250-től épült", "Falak magassága: max. 8 m", "Fennmaradt tornyok száma: 3", "Megmaradt fal hossza: kb. 400 m", "Tour de l'Horloge magassága: 25 m", "19. sz.-ban elbontva: kb. 70%"],
       ro: ["Construit de la 1250", "Înălțimea zidurilor: max. 8 m", "Număr de turnuri păstrate: 3", "Lungimea zidului păstrat: aprox. 400 m", "Înălțimea Tour de l'Horloge: 25 m", "Demolat în sec. XIX: aprox. 70%"],
       en: ["Built from 1250", "Wall height: max. 8 m", "Number of preserved towers: 3", "Length of preserved wall: approx. 400 m", "Tour de l'Horloge height: 25 m", "Demolished in 19th cen.: approx. 70%"],
-    }, image: "/poi-images/switzerland-delémont-walls-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-sargans-castle-history-v2",
     type: "castle",
@@ -776,7 +799,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1280-ban épült", "Várfok magassága: 28 m", "Múzeumi terület: 1.000 m²", "Tengerszint felett: 470 m", "Kápolna felszentelve 1305", "2020-ban 25.000 látogató"],
       ro: ["Construit în 1280", "Înălțimea turnului: 28 m", "Suprafața muzeului: 1.000 m²", "Altitudine: 470 m", "Capelă sfințită în 1305", "Vizitatori în 2020: 25.000"],
       en: ["Built in 1280", "Keep height: 28 m", "Museum area: 1,000 m²", "Elevation: 470 m", "Chapel consecrated in 1305", "Visitors in 2020: 25,000"],
-    }, image: "/poi-images/switzerland-sargans-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-werdenberg-castle-history-v2",
     type: "castle",
@@ -807,7 +831,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1230-ban épült", "Torony magassága: 18 m", "Múzeumi terület: 600 m²", "Tengerszint felett: 490 m", "14. századi freskók", "Szőlőterület a kastély körül: 2 ha"],
       ro: ["Construit în 1230", "Înălțimea turnului: 18 m", "Suprafața muzeului: 600 m²", "Altitudine: 490 m", "Fresce din secolul al XIV-lea", "Suprafața viticolă din jur: 2 ha"],
       en: ["Built in 1230", "Tower height: 18 m", "Museum area: 600 m²", "Elevation: 490 m", "Frescoes from the 14th century", "Vineyard area around castle: 2 ha"],
-    }, image: "/poi-images/switzerland-werdenberg-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-neu-falkenstein-history-v2",
     type: "ruins",
@@ -838,7 +863,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1180 körül épült", "Szintkülönbség: 80 m a völgytalp felett", "Torony magassága: még 12 m", "1499-ben pusztult el", "Tengerszint felett: 620 m", "Első említés 1240"],
       ro: ["Construit în jurul anului 1180", "Diferență de nivel: 80 m deasupra fundului văii", "Înălțimea turnului: încă 12 m", "Distrus în 1499", "Altitudine: 620 m", "Prima mențiune 1240"],
       en: ["Built around 1180", "Height difference: 80 m above valley floor", "Keep height: still 12 m", "Destroyed in 1499", "Elevation: 620 m", "First mentioned in 1240"],
-    }, image: "/poi-images/switzerland-neu-falkenstein-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-dorneck-castle-history-v2",
     type: "ruins",
@@ -869,7 +895,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1260-ban épült", "Torony magassága: még 15 m", "Elpusztult 1499? (burgundi háború)", "Tengerszint felett: 380 m", "Falvastagság: 2 m", "Árok: 6 m széles"],
       ro: ["Construit în 1260", "Înălțimea turnului: încă 15 m", "Distrus în 1499? (Războaiele burgunde)", "Altitudine: 380 m", "Grosimea zidului: 2 m", "Șanț: 6 m lățime"],
       en: ["Built in 1260", "Keep height: still 15 m", "Destroyed in 1499? (Burgundian Wars)", "Elevation: 380 m", "Wall thickness: 2 m", "Ditch: 6 m wide"],
-    }, image: "/poi-images/switzerland-dorneck-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-riedburg-history-v2",
     type: "ruins",
@@ -900,7 +927,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1150 körül épült", "A 14. században pusztult el", "Megmaradt fal magassága: max. 2 m", "Tengerszint felett: 520 m", "Alapterület: kb. 40×25 m", "Első említés 1245"],
       ro: ["Construit în jurul anului 1150", "Distrus în secolul al XIV-lea", "Înălțimea zidului păstrat: max. 2 m", "Altitudine: 520 m", "Suprafață: aprox. 40×25 m", "Prima mențiune 1245"],
       en: ["Built around 1150", "Destroyed in 14th century", "Remaining wall height: max. 2 m", "Elevation: 520 m", "Area: approx. 40×25 m", "First mentioned in 1245"],
-    }, image: "/poi-images/switzerland-riedburg-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-falkenstein-v2-history-v2",
     type: "ruins",
@@ -931,7 +959,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1080 körül épült", "Torony magassága: még 10 m", "1375-ben pusztult el", "Tengerszint felett: 580 m", "Falmaradványok hossza: kb. 60 m", "Első említés 1120"],
       ro: ["Construit în jurul anului 1080", "Înălțimea turnului: încă 10 m", "Distrus în 1375", "Altitudine: 580 m", "Lungimea zidurilor rămase: aprox. 60 m", "Prima mențiune 1120"],
       en: ["Built around 1080", "Keep height: still 10 m", "Destroyed in 1375", "Elevation: 580 m", "Remaining wall length: approx. 60 m", "First mentioned in 1120"],
-    }, image: "/poi-images/switzerland-falkenstein-v2-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-laufenburg-castle-history-v2",
     type: "ruins",
@@ -994,7 +1023,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["1150 körül épült", "Torony magassága: még 8 m", "A 15. században pusztult el", "Tengerszint felett: 560 m", "Alapterület: kb. 30×20 m", "Első említés 1215"],
       ro: ["Construit în jurul anului 1150", "Înălțimea turnului: încă 8 m", "Distrus în secolul al XV-lea", "Altitudine: 560 m", "Suprafață: aprox. 30×20 m", "Prima mențiune 1215"],
       en: ["Built around 1150", "Keep height: still 8 m", "Destroyed in 15th century", "Elevation: 560 m", "Area: approx. 30×20 m", "First mentioned in 1215"],
-    }, image: "/poi-images/switzerland-stein-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-bottmingen-castle-history-v2",
     type: "castle",
@@ -1025,7 +1055,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["Első említés: 1318", "Reneszánsz átépítés: 16. század", "Várárok szélessége: kb. 10 méter", "Barokk stukkók: 18. század", "Községi tulajdonba került: 1922", "Kápolna freskók: 15. század"],
       ro: ["Prima mențiune documentară: 1318", "Turnul rotund de scară: secolul al XVI-lea", "Lățimea șanțului: circa 10 metri", "Interior barocizat: secolul al XVIII-lea", "Proprietatea comunei din 1922", "Frescele capelei: secolul al XV-lea"],
       en: ["First documented mention: 1318", "Round stair tower built in the 16th century", "Moat width: approximately 10 meters", "Baroque interior modifications in the 18th century", "Acquired by the municipality in 1922", "Chapel frescoes date from the 15th century"],
-    }, image: "/poi-images/switzerland-bottmingen-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-arburg-fortress-history-v2",
     type: "castle",
@@ -1056,7 +1087,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["Eredeti vár: 11. század", "Kerek donjon magassága: 22 m (12. század)", "Habsburg uralom: 13. századtól", "Svájci elfoglalás: 1415", "Műemléki védelem: 1926", "Hadtörténeti múzeum: 1941 óta"],
       ro: ["Castel original din secolul al XI-lea", "Donjon circular din secolul al XII-lea, înălțime: 22 m", "Stăpânirea Habsburgilor din secolul al XIII-lea", "Cucerirea de către Confederație: 1415", "Monument protejat din 1926", "Muzeul fortificațiilor istorice din 1941"],
       en: ["Original castle built in the 11th century", "12th-century round keep, height: 22 m", "Habsburg rule from the 13th century", "Conquered by the Swiss Confederacy in 1415", "Listed as a heritage site in 1926", "Museum of Historical Fortifications since 1941"],
-    }, image: "/poi-images/switzerland-arburg-fortress-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-gutenburg-history-v2",
     type: "ruins",
@@ -1087,7 +1119,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["Építés: valószínűleg 11. század", "Négyzet alakú donjon, oldalhossz kb. 10 m", "Kyburg grófok birtoka a 13. században", "Az 1476-os burgundi háború után pusztult el", "Ma donjon és gyűrűfal maradványai", "Védett műemlék"],
       ro: ["Construit probabil în secolul al XI-lea", "Donjon pătrat cu latura de circa 10 m", "Trecut la conții de Kyburg în secolul al XIII-lea", "Decădere după Războiul Burgundian din 1476", "Astăzi rămășițe de ziduri ale donjonului și incintei", "Monument cultural protejat"],
       en: ["Built probably in the 11th century", "Square keep with side length approx. 10 m", "Passed to the Counts of Kyburg in the 13th century", "Declined after the Burgundian War of 1476", "Remaining walls of keep and curtain wall today", "Protected cultural monument"],
-    }, image: "/poi-images/switzerland-gutenburg-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-haldenstein-history-v2",
     type: "ruins",
@@ -1118,7 +1151,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["Építés: 12. század", "Donjon magassága: kb. 15 m", "Bővítés: 14. század", "Elhagyás: 17. század", "Regionális jelentőségű kulturális örökség", "Leletek: középkori kerámia és fegyverek"],
       ro: ["Construit în secolul al XII-lea", "Înălțimea donjonului: circa 15 m", "Extindere în secolul al XIV-lea", "Abandonat în secolul al XVII-lea", "Bun cultural de importanță regională", "Descoperiri: ceramică medievală și arme"],
       en: ["Built in the 12th century", "Keep height: approx. 15 m", "Expanded in the 14th century", "Abandoned in the 17th century", "Cultural property of regional significance", "Finds: medieval pottery and weapons"],
-    }, image: "/poi-images/switzerland-haldenstein-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-castels-castle-history-v2",
     type: "ruins",
@@ -1149,7 +1183,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["Építés: 12. század", "Donjon magassága: kb. 18 m", "Négyzet alaprajz, oldalhossz 8 m", "Pusztulás: 15. század", "Leletek: középkori érmék és kerámia", "Védett műemlék"],
       ro: ["Construit în secolul al XII-lea", "Înălțimea donjonului: circa 18 m", "Plan pătrat cu latura de 8 m", "Distrus în secolul al XV-lea", "Descoperiri: monede și ceramică medievală", "Monument cultural protejat"],
       en: ["Built in the 12th century", "Keep height: approx. 18 m", "Square layout with side of 8 m", "Destroyed in the 15th century", "Finds: medieval coins and pottery", "Protected cultural monument"],
-    }, image: "/poi-images/switzerland-castels-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-sax-castle-history-v2",
     type: "ruins",
@@ -1180,7 +1215,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["Építés: 12. század", "Donjon magassága: kb. 20 m", "Téglalap alaprajz: 10 x 12 m", "Tűzvész a 17. században, elhagyás", "Nemzeti jelentőségű kulturális örökség", "Szabadon látogatható"],
       ro: ["Construit în secolul al XII-lea", "Înălțimea donjonului: circa 20 m", "Plan dreptunghiular: 10 x 12 m", "Incendiu în secolul al XVII-lea ducând la abandon", "Bun cultural de importanță națională", "Acces liber"],
       en: ["Built in the 12th century", "Keep height: approx. 20 m", "Rectangular plan: 10 x 12 m", "Fire in the 17th century led to abandonment", "Cultural property of national importance", "Free access"],
-    }, image: "/poi-images/switzerland-sax-castle-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-grunfels-history-v2",
     type: "ruins",
@@ -1211,7 +1247,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["Építés: 13. század", "Donjon magassága: kb. 16 m", "Négyzet alaprajz, oldalhossz 9 m", "Pusztulás a 15. században, majd újjáépítés", "Végleges romba dőlés a 17. században", "Leletek: középkori szerszámok és fegyverek"],
       ro: ["Construit în secolul al XIII-lea", "Înălțimea donjonului: circa 16 m", "Plan pătrat cu latura de 9 m", "Distrus în secolul al XV-lea, reconstruit", "Decădere finală în secolul al XVII-lea", "Descoperiri: unelte și arme medievale"],
       en: ["Built in the 13th century", "Keep height: approx. 16 m", "Square plan with side of 9 m", "Destroyed in the 15th century and rebuilt", "Final decay in the 17th century", "Finds: medieval tools and weapons"],
-    }, image: "/poi-images/switzerland-grunfels-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-neuburg-history-v2",
     type: "ruins",
@@ -1242,7 +1279,8 @@ export const switzerlandHistoryV2: POI[] = [
       hu: ["Építés: 11. század", "Donjon magassága: kb. 14 m", "Négyzet alaprajz, oldalhossz 10 m", "Habsburg várnagyi székhely a 13. században", "Svájci pusztítás a 15. században", "Leletek: lakóépület-alapok és ciszterna"],
       ro: ["Construit în secolul al XI-lea", "Înălțimea donjonului: circa 14 m", "Plan pătrat cu latura de 10 m", "Reședință de vogt habsburgic în secolul al XIII-lea", "Distrus de Confederație în secolul al XV-lea", "Descoperiri: fundații de locuințe și cisternă"],
       en: ["Built in the 11th century", "Keep height: approx. 14 m", "Square plan with side of 10 m", "Habsburg bailiff's seat in the 13th century", "Destroyed by the Swiss Confederacy in the 15th century", "Finds: foundations of residential buildings and cistern"],
-    }, image: "/poi-images/switzerland-neuburg-history-v2.webp"},
+    },
+  },
   {
     id: "switzerland-glattburg-history-v2",
     type: "ruins",

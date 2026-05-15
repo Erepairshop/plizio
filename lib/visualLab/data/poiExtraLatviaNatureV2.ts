@@ -31,7 +31,8 @@ export const latviaNatureV2: POI[] = [
       hu: ["Felszíne körülbelül 1,3 km²", "Legnagyobb mélysége 2,7 méter", "Tengerszint feletti magassága 3,2 m", "Talsi közigazgatási körzetben fekszik", "Eutrofizálódott vízfelület", "Valdemārpils városa mellett található"],
       ro: ["Suprafață de aproximativ 1,3 km²", "Adâncimea maximă este de 2,7 metri", "Altitudine de 3,2 metri peste nivelul mării", "Situat în municipalitatea Talsi", "Lac cu statut eutrofic", "Localizat lângă orașul Valdemārpils"],
       en: ["Surface area of approx. 1.3 km²", "Maximum depth reaches 2.7 meters", "Located 3.2 meters above sea level", "Part of the Talsi Municipality", "Classified as an eutrophic lake", "Situated near the town of Valdemārpils"],
-    }, image: "/poi-images/latvia-lubezers-lake-nature-v2.webp"},
+    },
+  },
   {
     id: "latvia-pededze-river-nature-v2",
     type: "river",
@@ -62,7 +63,8 @@ export const latviaNatureV2: POI[] = [
       hu: ["Teljes hossza 159 kilométer", "Lettországban 131 km hosszan folyik", "Vízgyűjtő területe 1690 km²", "Az Aiviekste folyóba torkollik", "Forrása az észt Haanja-hátságon van", "Pededzes leja természetvédelmi terület"],
       ro: ["Lungime totală de 159 kilometri", "131 kilometri pe teritoriul Letoniei", "Bazin hidrografic de 1690 km²", "Afluent al râului Aiviekste", "Izvorăște din podișul Haanja, Estonia", "Rezervația naturală Valea Pededze"],
       en: ["Total length of 159 kilometers", "131 kilometers flow within Latvia", "Basin area covers 1690 km²", "Major tributary of the Aiviekste river", "Originates in the Haanja Upland, Estonia", "Home to the Pededzes leja nature reserve"],
-    }, image: "/poi-images/latvia-pededze-river-nature-v2.webp"},
+    },
+  },
   {
     id: "latvia-mezole-forest-nature-v2",
     type: "forest",
@@ -93,7 +95,8 @@ export const latviaNatureV2: POI[] = [
       hu: ["Smiltene körzetében helyezkedik el", "A Natura 2000 hálózat része", "Jelentős őserdő-maradványok lelőhelye", "Fekete gólyák fontos fészkelőhelye", "Ritka zuzmófajok nagy populációja", "Az Észak-vidzemei bioszféra-rezervátum része"],
       ro: ["Situat în municipalitatea Smiltene", "Face parte din rețeaua Natura 2000", "Conține fragmente de pădure virgină", "Habitat pentru barza neagră", "Populații mari de licheni rari", "Zona de dealuri din nordul Letoniei"],
       en: ["Located in the Smiltene Municipality", "Member of the Natura 2000 network", "Features fragments of old-growth forests", "Nesting site for the black stork", "Rich in rare moss and lichen species", "Part of the North Vidzeme biosphere"],
-    }, image: "/poi-images/latvia-mezole-forest-nature-v2.webp"},
+    },
+  },
   {
     id: "latvia-daugava-delta-nature-v2",
     type: "park",
@@ -124,7 +127,8 @@ export const latviaNatureV2: POI[] = [
       hu: ["Torkolat területe: kb. 15 000 ha", "Daugava hossza: 1020 km", "Éves üledéklerakódás: 2 millió tonna", "Több mint 200 madárfaj dokumentált", "Fontos csuka ívóhely", "Szigetek száma a deltában: több mint 50"],
       ro: ["Suprafața estuare: aproximativ 15.000 ha", "Lungimea râului Daugava: 1.020 km", "Încărcătura anuală de sedimente: 2 milioane de tone", "Peste 200 de specii de păsări documentate", "Loc important de depunere a icrelor pentru știucă", "Număr de insule în deltă: peste 50"],
       en: ["Estuary area: ca. 15,000 ha", "Length of Daugava: 1,020 km", "Annual sediment load: 2 million tonnes", "Over 200 bird species documented", "Important spawning ground for pike", "Number of islands in delta: over 50"],
-    }, image: "/poi-images/latvia-daugava-delta-nature-v2.webp"},
+    },
+  },
   {
     id: "latvia-salaca-valley-nature-v2",
     type: "valley",
@@ -155,7 +159,8 @@ export const latviaNatureV2: POI[] = [
       hu: ["A folyó hossza 96 km", "Devon kori homokkőfalak", "Fontos lazacívóhely", "Vidzeme rezervátum része"],
       ro: ["Lungimea râului este de 96 km", "Stânci din gresie devoniană", "Loc major de depunere a icrelor", "Parte din Rezervația Vidzeme"],
       en: ["River length is 96 km", "Devonian sandstone cliffs", "Major salmon spawning site", "Part of North Vidzeme Reserve"],
-    }, image: "/poi-images/latvia-salaca-valley-nature-v2.webp"},
+    },
+  },
   {
     id: "latvia-pape-lake-nature-v2",
     type: "lake",
@@ -186,7 +191,8 @@ export const latviaNatureV2: POI[] = [
       hu: ["A tó területe 1205 hektár", "Átlagos mélysége mindössze 0,5 m", "Fontos madárvonulási útvonal", "Visszatelepített vadlovak élnek itt"],
       ro: ["Suprafața lacului: 1205 hectare", "Adâncime medie de doar 0,5 m", "Rută majoră de migrație a păsărilor", "Program de reintroducere a bizonilor"],
       en: ["Lake area is 1205 hectares", "Average depth only 0.5 meters", "Major bird migration route", "Wild horse reintroduction site"],
-    }, image: "/poi-images/latvia-pape-lake-nature-v2.webp"},
+    },
+  },
   {
     id: "latvia-gauja-delta-nature-v2",
     type: "park",
@@ -217,7 +223,8 @@ export const latviaNatureV2: POI[] = [
       hu: ["Torkolat területe: kb. 200 ha", "Gauja hossza: 452 km", "Strand hossza: 3 km", "Nyári vízhőmérséklet: akár 20 °C", "Tengeri töviskóró előfordulása", "Horgászrekordok: lazac akár 15 kg"],
       ro: ["Suprafața estuare: aproximativ 200 ha", "Lungimea râului Gauja: 452 km", "Lungimea plajei: 3 km", "Temperatura apei vara: până la 20 °C", "Prezența ciulinului de mare", "Recorduri de pescuit: somon de până la 15 kg"],
       en: ["Estuary area: ca. 200 ha", "Length of Gauja: 452 km", "Beach length: 3 km", "Summer water temperature: up to 20 °C", "Presence of sea holly", "Fishing records: salmon up to 15 kg"],
-    }, image: "/poi-images/latvia-gauja-delta-nature-v2.webp"},
+    },
+  },
   {
     id: "latvia-zelts-forest-nature-v2",
     type: "forest",
@@ -248,7 +255,8 @@ export const latviaNatureV2: POI[] = [
       hu: ["Kurzeme történelmi régióban fekszik", "A lett állami erdészet (LVM) kezeli", "Vegyes erdő magas fenyőaránnyal", "Kuldīga városának közelében található", "Jégkorszaki talajformák jellemzik", "Kedvelt vadász- és gombászterület"],
       ro: ["Situat în regiunea istorică Kurzeme", "Administrat de Romsilva letonă (LVM)", "Pădure mixtă cu mulți coniferi", "Localizat în apropierea orașului Kuldīga", "Soluri formate în perioada glaciară", "Zonă populară pentru vânătoare și drumeții"],
       en: ["Located in the Kurzeme region", "Managed by Latvia's State Forests (LVM)", "Mixed forest with dominant conifers", "Situated near the town of Kuldīga", "Characterized by glacial soil deposits", "Popular site for hunting and foraging"],
-    }, image: "/poi-images/latvia-zelts-forest-nature-v2.webp"},
+    },
+  },
   {
     id: "latvia-usmas-lake-nature-v2",
     type: "lake",
@@ -279,7 +287,8 @@ export const latviaNatureV2: POI[] = [
       hu: ["Területe 38,9 négyzetkilométer", "Maximális mélysége 27 méter", "Összesen 10 sziget található rajta", "A Viskūžu-sziget területe 4,2 km²", "Lettország 6. legnagyobb tava", "Moricsala rezervátum 1912 óta védett"],
       ro: ["Suprafață de 38,9 kilometri pătrați", "Adâncime maximă de 27 metri", "Conține un total de 10 insule", "Insula Viskūžu are 4,2 km²", "Al șaselea lac ca mărime din Letonia", "Rezervația Moricsala fondată în 1912"],
       en: ["Surface area of 38.9 square kilometers", "Maximum depth reaches 27 meters", "Contains a total of 10 islands", "Viskūžu Island covers 4.2 km²", "Sixth largest lake in Latvia", "Moricsala Reserve established in 1912"],
-    }, image: "/poi-images/latvia-usmas-lake-nature-v2.webp"},
+    },
+  },
   {
     id: "latvia-abavas-rumba-nature-v2",
     type: "landmark",
@@ -310,7 +319,8 @@ export const latviaNatureV2: POI[] = [
       hu: ["Magasság: 2,5 m", "Szélesség: 30 m", "Devon időszakban keletkezett (300 millió éve)", "Tavaszi vízhozam: akár 50 m³/s", "1977 óta védett geológiai emlék", "Távolság Sabile városától: 5 km"],
       ro: ["Înălțime: 2,5 m", "Lățime: 30 m", "Formată în Devonian (acum 300 de milioane de ani)", "Debit de apă primăvara: până la 50 m³/s", "Protejată ca monument geologic din 1977", "Distanța de la orașul Sabile: 5 km"],
       en: ["Height: 2.5 m", "Width: 30 m", "Formed in Devonian (300 million years ago)", "Spring water flow: up to 50 m³/s", "Protected as geological monument since 1977", "Distance to Sabile town: 5 km"],
-    }, image: "/poi-images/latvia-abavas-rumba-nature-v2.webp"},
+    },
+  },
   {
     id: "latvia-engures-shore-nature-v2",
     type: "park",
@@ -341,7 +351,8 @@ export const latviaNatureV2: POI[] = [
       hu: ["A partvonal hossza: 12 km", "A természeti park területe: 12.000 ha", "Legmagasabb dűne: 10 m", "Park alapításának éve: 1998", "Nyári vízhőmérséklet: 18°C", "Sirály költőpárok száma: 10.000+"],
       ro: ["Lungimea coastei: 12 km", "Suprafața parcului: 12.000 ha", "Înălțimea maximă a dunelor: 10 m", "Anul înființării parcului: 1998", "Temperatura apei vara: 17°C", "Colonii de pescăruși cu cap negru: peste 10.000 perechi"],
       en: ["Coastline length: 12 km", "Park area: 12,000 ha", "Maximum dune height: 10 m", "Year park established: 1998", "Summer water temperature: 17°C", "Black-headed gull breeding pairs: over 10,000"],
-    }, image: "/poi-images/latvia-engures-shore-nature-v2.webp"},
+    },
+  },
   {
     id: "latvia-mezotnes-park-nature-v2",
     type: "park",
@@ -372,7 +383,8 @@ export const latviaNatureV2: POI[] = [
       hu: ["Park területe: 25 ha", "Fafajok száma: 40+", "Kastély építési éve: 1908", "Park alapításának éve: 1906", "Stílus: angol tájpark", "Tó mérete: kb. 1,5 ha"],
       ro: ["Suprafața parcului: 25 ha", "Numărul de specii de arbori: peste 40", "Anul construirii conacului: 1908", "Anul înființării parcului: 1906", "Stil: peisagistic englezesc", "Suprafața iazului: aprox. 1,5 ha"],
       en: ["Park area: 25 ha", "Tree species count: over 40", "Manor house built: 1908", "Park established: 1906", "Style: English landscape garden", "Pond area: approx. 1.5 ha"],
-    }, image: "/poi-images/latvia-mezotnes-park-nature-v2.webp"},
+    },
+  },
   {
     id: "latvia-lubans-shore-nature-v2",
     type: "lake",

@@ -31,7 +31,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["Vercingetorix i.e. 52-ben adta meg magát", "6,6 méter magas rézszobor a csúcson", "2012-ben nyílt meg a látogatóközpont", "300 ezer fős gall felmentő sereg", "Julius Caesar Commentarii de Bello Gallico", "Alise-Sainte-Reine falu mellett"],
       ro: ["Asediul a durat aproximativ 6 săptămâni", "Fortificația exterioară de 21 km lungime", "Situl se află în departamentul Côte-d'Or", "Săpăturile au început sub Napoleon al III-lea", "Zeci de mii de arme descoperite", "Muzeu arheologic modern la bază"],
       en: ["Battle site of the Gallic Wars in 52 BC", "Alesia Museum Park covers 6,500 m2", "Circumvallation and contravallation lines", "Julius Caesar's decisive tactical victory", "Bronze statue erected in 1865", "Mont Auxois rises 150 m above the plain"],
-    }, image: "/poi-images/france-alésia-history-v2.webp"},
+    },
+  },
   {
     id: "france-verdun-history-v2",
     type: "battlefield",
@@ -62,7 +63,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A csata időtartama: 300 nap", "Verduni szerződés éve: 843", "Douaumont-i osszárium: 130 000 katona", "A vörös zóna területe: 17 000 hektár"],
       ro: ["Durata bătăliei: 300 de zile", "Tratatul de la Verdun: anul 843", "Oasuarul Douaumont: 130.000 de soldați", "Suprafața zonei roșii: 17.000 ha"],
       en: ["Duration of the battle: 300 days", "Treaty of Verdun: year 843", "Douaumont Ossuary: 130,000 soldiers", "Red Zone area: 17,000 hectares"],
-    }, image: "/poi-images/france-verdun-history-v2.webp"},
+    },
+  },
   {
     id: "france-guedelon-history-v2",
     type: "castle",
@@ -93,7 +95,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A projekt 1997-ben kezdődött.", "A vár területe 40 hektár.", "A vár várható befejezése 2030.", "Évente több mint 300.000 látogató.", "Több mint 30 hagyományos mesterséget alkalmaznak.", "A főtorony magassága 25 m."],
       ro: ["Proiectul a început în 1997.", "Castelul se întinde pe 40 de hectare.", "Finalizarea estimată: 2030.", "Peste 300.000 de vizitatori anual.", "Se folosesc peste 30 de meserii tradiționale.", "Turnul principal are 25 m înălțime."],
       en: ["Project started in 1997.", "Castle site covers 40 hectares.", "Expected completion by 2030.", "Over 300,000 visitors per year.", "More than 30 traditional crafts are used.", "The main tower is 25 m high."],
-    }, image: "/poi-images/france-guedelon-history-v2.webp"},
+    },
+  },
   {
     id: "france-cahors-bridge-history-v2",
     type: "bridge",
@@ -124,7 +127,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["Építési idő: 1308-1350.", "Hossza: 172 méter.", "Szélessége: 6 méter.", "Ívek száma: 6.", "Tornyok magassága: 35 méter.", "UNESCO világörökség 1998 óta."],
       ro: ["Construit între 1308 și 1350.", "Lungime: 172 m.", "Lățime: 6 m.", "Număr de arcuri: 6.", "Înălțimea turnurilor: 35 m.", "UNESCO din 1998."],
       en: ["Construction period: 1308-1350.", "Length: 172 m.", "Width: 6 m.", "Number of arches: 6.", "Tower height: 35 m.", "UNESCO World Heritage since 1998."],
-    }, image: "/poi-images/france-cahors-bridge-history-v2.webp"},
+    },
+  },
   {
     id: "france-mont-segur-history-v2",
     type: "ruins",
@@ -155,7 +159,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["1244. március 16-án esett el a vár", "Prat dels Cremats: a máglyák helyszíne", "A vár hossza körülbelül 45 méter", "Légvonalban 20 km-re Foix városától", "Évente ezrek látogatják napfordulókor", "A jelenlegi vár III. típusú erődítmény"],
       ro: ["Altitudinea maximă de 1207 metri", "Ultimul bastion al credinței catare", "Ziduri cu o grosime de peste 2 metri", "Accesul se face pe o potecă abruptă", "Masacrul a avut loc după 10 luni de asediu", "Castelul a fost inclus pe lista monumentelor"],
       en: ["Siege lasted from May 1243 to March 1244", "215 believers burned alive on 16 March", "Castle rebuilt by Guy I de Lévis", "Perched on a pog (rocky peak) at 1207m", "Solar alignment during the summer solstice", "Archaeological museum in the village below"],
-    }, image: "/poi-images/france-mont-segur-history-v2.webp"},
+    },
+  },
   {
     id: "france-pau-chateau-history-v2",
     type: "castle",
@@ -186,7 +191,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A kastély első írásos említése 1070-ből származik.", "IV. Henrik 1553. december 13-án született itt.", "A kastélypark területe 15 hektár.", "A teknőspáncél bölcső a 16. századból való.", "A múzeum gyűjteménye több mint 30 000 tárgyat számlál.", "A déli szárnyat a 19. században újították fel."],
       ro: ["Castelul este menționat pentru prima dată în secolul al XI-lea.", "Henric al IV-lea s-a născut aici la 13 decembrie 1553.", "Proprietatea se întinde pe aproximativ 15 hectare.", "Leagănul din carapace de broască țestoasă datează din secolul al XVI-lea.", "Muzeul deține peste 30.000 de exponate.", "Aripa de sud a fost restaurată în secolul al XIX-lea."],
       en: ["The castle was first mentioned in the 11th century.", "Henry IV was born here on December 13, 1553.", "The estate covers approximately 15 hectares.", "The tortoise-shell cradle dates from the 16th century.", "The museum houses over 30,000 artifacts.", "The south wing was restored in the 19th century."],
-    }, image: "/poi-images/france-pau-chateau-history-v2.webp"},
+    },
+  },
   {
     id: "france-semur-en-auxois-history-v2",
     type: "town",
@@ -217,7 +223,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A város tengerszint feletti magassága 286 méter.", "A kastély a 13. századból származik.", "A városfalak hossza 1,5 kilométer.", "A Notre-Dame-templom 1220 és 1260 között épült.", "A vár legmagasabb tornya 45 méter.", "Semur lakossága körülbelül 4000 fő."],
       ro: ["Orașul se află la o altitudine de 286 de metri deasupra nivelului mării.", "Castelul datează din secolul al XIII-lea.", "Zidurile orașului se întind pe 1,5 kilometri.", "Biserica Notre-Dame a fost construită între 1220 și 1260.", "Cel mai înalt turn al cetății are 45 de metri.", "Semur are aproximativ 4.000 de locuitori."],
       en: ["The town is situated at 286 meters above sea level.", "The castle dates from the 13th century.", "The city walls stretch for 1.5 kilometers.", "Notre-Dame Collegiate Church was built between 1220 and 1260.", "The highest tower of the fortress is 45 meters tall.", "Semur has a population of about 4,000."],
-    }, image: "/poi-images/france-semur-en-auxois-history-v2.webp"},
+    },
+  },
   {
     id: "france-chinon-fortress-history-v2",
     type: "castle",
@@ -248,7 +255,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["Az erőd a 12. században épült.", "A terület 20 hektárt ölel fel.", "A főtorony magassága 30 méter.", "Jeanne d’Arc 1429. március 6-án találkozott VII. Károllyal.", "Az erőd 13 toronnyal rendelkezik.", "A falak hossza 1,5 kilométer."],
       ro: ["Fortăreața a fost construită începând cu secolul al XII-lea.", "Complexul se întinde pe 20 de hectare.", "Donjonul are 30 de metri înălțime.", "Ioana d’Arc l-a întâlnit pe Carol al VII-lea la 6 martie 1429.", "Cetatea are 13 turnuri.", "Lungimea zidurilor este de 1,5 kilometri."],
       en: ["The fortress was built from the 12th century onward.", "The complex covers 20 hectares.", "The keep is 30 meters high.", "Joan of Arc met Charles VII on March 6, 1429.", "The fortress has 13 towers.", "The wall length is 1.5 kilometers."],
-    }, image: "/poi-images/france-chinon-fortress-history-v2.webp"},
+    },
+  },
   {
     id: "france-orleans-house-history-v2",
     type: "museum",
@@ -279,7 +287,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["Az eredeti ház a 15. századból származott.", "Jeanne d’Arc 1429. április 29. és május 9. között lakott itt.", "A házat 1940-ben bombázás pusztította el.", "Az újjáépítés 1965-ben fejeződött be.", "A múzeum 1974-ben nyílt meg.", "Az épület magassága 15 méter."],
       ro: ["Casa originală data din secolul al XV-lea.", "Ioana d’Arc a locuit aici între 29 aprilie și 9 mai 1429.", "Casa a fost distrusă de bombardamente în 1940.", "Reconstrucția a fost finalizată în 1965.", "Muzeul a fost deschis în 1974.", "Clădirea are 15 metri înălțime."],
       en: ["The original house dated from the 15th century.", "Joan of Arc stayed here from April 29 to May 9, 1429.", "The house was destroyed by bombing in 1940.", "Reconstruction was completed in 1965.", "The museum opened in 1974.", "The building is 15 meters high."],
-    }, image: "/poi-images/france-orleans-house-history-v2.webp"},
+    },
+  },
   {
     id: "france-albi-cathedral-history-v2",
     type: "cathedral",
@@ -310,7 +319,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A székesegyház hossza 113 méter.", "A hajó magassága 30 méter.", "A harangtorony 78 méter magas.", "Az építkezés csaknem 200 évig tartott.", "Az orgona 3500 sípot tartalmaz.", "A freskók 18 000 négyzetmétert fednek le."],
       ro: ["Catedrala are o lungime de 113 metri.", "Nava principală are 30 de metri înălțime.", "Turnul clopotniță atinge 78 de metri.", "Construcția a durat aproape 200 de ani.", "Orga are 3.500 de tuburi.", "Frescele acoperă 18.000 de metri pătrați."],
       en: ["The cathedral is 113 meters long.", "The nave is 30 meters high.", "The bell tower reaches 78 meters.", "Construction lasted nearly 200 years.", "The organ has 3,500 pipes.", "The frescoes cover 18,000 square meters."],
-    }, image: "/poi-images/france-albi-cathedral-history-v2.webp"},
+    },
+  },
   {
     id: "france-provins-history-v2",
     type: "town",
@@ -341,7 +351,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A városfalak hossza 1,2 kilométer.", "A Caesar-torony 44 méter magas.", "A földalatti járatok 10 kilométer hosszan húzódnak.", "A provinsi vásárok 1124-től 1320-ig zajlottak.", "A város lakossága körülbelül 12 000 fő.", "Provins 2001 óta az UNESCO Világörökség része."],
       ro: ["Zidurile orașului au o lungime de 1,2 kilometri.", "Turnul Caesar are 44 de metri înălțime.", "Galeriile subterane se întind pe 10 kilometri.", "Târgurile din Provins au avut loc între 1124 și 1320.", "Orașul are aproximativ 12.000 de locuitori.", "Provins este Patrimoniu Mondial UNESCO din 2001."],
       en: ["The city walls are 1.2 kilometers long.", "The Caesar Tower is 44 meters high.", "The underground passages extend for 10 kilometers.", "The fairs of Provins were held from 1124 to 1320.", "The town has about 12,000 inhabitants.", "Provins has been a UNESCO World Heritage Site since 2001."],
-    }, image: "/poi-images/france-provins-history-v2.webp"},
+    },
+  },
   {
     id: "france-domremy-history-v2",
     type: "village",
@@ -372,7 +383,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["Jeanne d’Arc 1412. január 6-án született Domrémyben.", "A szülőház a 15. századból való.", "A falunak körülbelül 140 lakosa van.", "A Saint-Rémy-templom a 15. században épült.", "Jeanne d’Arc szobrát 1891-ben állították fel.", "Domrémy 275 méter magasan fekszik."],
       ro: ["Ioana d’Arc s-a născut la 6 ianuarie 1412 în Domrémy.", "Casa natală datează din secolul al XV-lea.", "Satul are aproximativ 140 de locuitori.", "Biserica Saint-Rémy a fost construită în secolul al XV-lea.", "O statuie a Ioanei d’Arc a fost ridicată în 1891.", "Domrémy se află la o altitudine de 275 de metri."],
       en: ["Joan of Arc was born on January 6, 1412 in Domrémy.", "The birthplace house dates from the 15th century.", "The village has about 140 inhabitants.", "The Saint-Rémy church was built in the 15th century.", "A statue of Joan of Arc was erected in 1891.", "Domrémy is situated at 275 meters elevation."],
-    }, image: "/poi-images/france-domremy-history-v2.webp"},
+    },
+  },
   {
     id: "france-carmes-toulouse-history-v2",
     type: "church",
@@ -403,7 +415,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["Az építkezés 1229-ben kezdődött.", "A templom hossza 100 méter.", "A hajó szélessége 22 méter.", "A pálmafa boltozat 22 bordával rendelkezik.", "Aquinói Szent Tamás ereklyéi 1369-ben kerültek ide.", "A kerengő a 14. századból való."],
       ro: ["Construcția a început în 1229.", "Biserica are 100 de metri lungime.", "Nava are 22 de metri lățime.", "Bolțul palmier are 22 de nervuri.", "Relicvele Sfântului Toma de Aquino au ajuns aici în 1369.", "Claustrul datează din secolul al XIV-lea."],
       en: ["Construction began in 1229.", "The church is 100 meters long.", "The nave is 22 meters wide.", "The palm-tree vault has 22 ribs.", "The relics of Thomas Aquinas arrived here in 1369.", "The cloister dates from the 14th century."],
-    }, image: "/poi-images/france-carmes-toulouse-history-v2.webp"},
+    },
+  },
   {
     id: "france-rocamadour-history-v2",
     type: "village",
@@ -434,7 +447,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A falu tengerszint feletti magassága 279 méter.", "A Nagy Lépcső 216 lépcsőfokból áll.", "A Saint-Sauveur-templom a 12. századból való.", "Szent Amadour ereklyéit 1166 óta tisztelik.", "Rocamadour lakossága körülbelül 600 fő.", "A települést évente több mint 1 millió zarándok látogatja."],
       ro: ["Satul se află la o altitudine de 279 de metri.", "Scara Mare are 216 trepte.", "Biserica Saint-Sauveur datează din secolul al XII-lea.", "Relicvele Sfântului Amadour sunt venerate din 1166.", "Rocamadour are aproximativ 600 de locuitori.", "Locul este vizitat anual de peste 1 milion de pelerini."],
       en: ["The village sits at an elevation of 279 meters.", "The Great Staircase has 216 steps.", "The Saint-Sauveur church dates from the 12th century.", "The relics of Saint Amadour have been venerated since 1166.", "Rocamadour has about 600 inhabitants.", "The site receives over 1 million pilgrims annually."],
-    }, image: "/poi-images/france-rocamadour-history-v2.webp"},
+    },
+  },
   {
     id: "france-aigues-mortes-history-v2",
     type: "town",
@@ -465,7 +479,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A várost 1240-ben alapították.", "A városfalak 1,6 km hosszúak.", "A Tour de Constance 30 m magas.", "A sólepárlók évente 500.000 tonna sót termelnek.", "A városfalak területe 24 hektár.", "A lakosság mintegy 8.000 fő."],
       ro: ["Orașul a fost fondat în 1240.", "Zidurile orașului au 1,6 km lungime.", "Turnul Tour de Constance are 30 m înălțime.", "Salinele produc 500.000 de tone de sare pe an.", "Suprafața zidurilor este de 24 de hectare.", "Populația este de aproximativ 8.000 de locuitori."],
       en: ["The city was founded in 1240.", "City walls are 1.6 km long.", "Tour de Constance is 30 m high.", "Salt pans produce 500,000 tons of salt per year.", "The walled area is 24 hectares.", "Population is about 8,000."],
-    }, image: "/poi-images/france-aigues-mortes-history-v2.webp"},
+    },
+  },
   {
     id: "france-les-baux-history-v2",
     type: "ruins",
@@ -496,7 +511,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A szirt magassága: 245 méter", "A várrom területe: 7 hektár", "A falu lakossága: kb. 350 fő", "A vár építése: 11-13. század"],
       ro: ["Înălțimea stâncii: 245 metri", "Suprafața ruinelor: 7 hectare", "Populația satului: aprox. 350 loc.", "Construcția castelului: sec. XI-XIII"],
       en: ["Rock outcrop height: 245 meters", "Fortress ruin area: 7 hectares", "Village population: approx. 350", "Castle construction: 11th-13th c."],
-    }, image: "/poi-images/france-les-baux-history-v2.webp"},
+    },
+  },
   {
     id: "france-senanque-abbey-history-v2",
     type: "church",
@@ -527,7 +543,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["Az apátságot 1148-ban alapították.", "A templom hossza 50 méter.", "A kerengő a 12. századból való.", "A szerzetesek 1988 óta laknak újra a kolostorban.", "A levendulamezők 10 hektáron terülnek el.", "A kolostor 250 méter magasan fekszik."],
       ro: ["Mănăstirea a fost fondată în 1148.", "Biserica are 50 de metri lungime.", "Claustrul datează din secolul al XII-lea.", "Călugării locuiesc din nou în mănăstire din 1988.", "Câmpurile de lavandă se întind pe 10 hectare.", "Mănăstirea se află la o altitudine de 250 de metri."],
       en: ["The abbey was founded in 1148.", "The church is 50 meters long.", "The cloister dates from the 12th century.", "Monks have been living here again since 1988.", "The lavender fields cover 10 hectares.", "The abbey is located at 250 meters altitude."],
-    }, image: "/poi-images/france-senanque-abbey-history-v2.webp"},
+    },
+  },
   {
     id: "france-corvey-abbey-history-v2",
     type: "church",
@@ -558,7 +575,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["Az apátságot 1118-ban alapították.", "A templom hossza 66 méter.", "A kerengő a 12. századból való.", "A vízimalom 1150-ből származik.", "Fontenay-t 1118-tól 1791-ig lakták.", "Az apátság 1981-ben lett UNESCO Világörökség."],
       ro: ["Mănăstirea a fost fondată în 1118.", "Biserica are 66 de metri lungime.", "Claustrul datează din secolul al XII-lea.", "Moara de apă datează din 1150.", "Fontenay a fost locuită din 1118 până în 1791.", "Mănăstirea este Patrimoniu UNESCO din 1981."],
       en: ["The abbey was founded in 1118.", "The church is 66 meters long.", "The cloister dates from the 12th century.", "The water mill dates from 1150.", "Fontenay was inhabited from 1118 to 1791.", "The abbey became a UNESCO site in 1981."],
-    }, image: "/poi-images/france-corvey-abbey-history-v2.webp"},
+    },
+  },
   {
     id: "france-conques-history-v2",
     type: "village",
@@ -589,7 +607,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["Az apátsági templom 1050-1130 között épült.", "Az ereklyetartó a 9. századból származik.", "A boltozat magassága 20 m.", "A lakosságszám 250 fő.", "Conques 250 m tengerszint feletti magasságban fekszik.", "A Szent Jakab-út 500 km-re van Santiagótól."],
       ro: ["Biserica abațială a fost construită între 1050 și 1130.", "Relicvarul datează din secolul al IX-lea.", "Înălțimea bolții este de 20 m.", "Populația este de 250 de locuitori.", "Conques este la 250 m altitudine.", "Drumul de pelerinaj are 500 km până la Santiago."],
       en: ["The abbey church was built 1050-1130.", "The reliquary dates from the 9th century.", "Vault height is 20 m.", "Population is 250.", "Conques is at 250 m elevation.", "The pilgrimage route is 500 km to Santiago."],
-    }, image: "/poi-images/france-conques-history-v2.webp"},
+    },
+  },
   {
     id: "france-mont-st-michel-abbey-history-v2",
     type: "monument",
@@ -620,7 +639,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["Az apátságot 966-ban alapították.", "A hegy magassága 80 méter.", "Az árapály mértéke elérheti a 15 métert.", "Az apátság hossza 100 méter.", "A kerengő a 13. századból való.", "Évente körülbelül 3 millió ember látogatja meg a Mont-Saint-Michel-t."],
       ro: ["Mănăstirea a fost fondată în 966.", "Stânca are 80 de metri înălțime.", "Diferența de maree poate ajunge la 15 metri.", "Mănăstirea are 100 de metri lungime.", "Claustrul datează din secolul al XIII-lea.", "Aproximativ 3 milioane de persoane vizitează Mont-Saint-Michel anual."],
       en: ["The abbey was founded in 966.", "The mount is 80 meters high.", "The tidal range can reach up to 15 meters.", "The abbey is 100 meters long.", "The cloister dates from the 13th century.", "About 3 million people visit Mont-Saint-Michel annually."],
-    }, image: "/poi-images/france-mont-st-michel-abbey-history-v2.webp"},
+    },
+  },
   {
     id: "france-haut-koenigsbourg-history-v2",
     type: "castle",
@@ -651,7 +671,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A vár 757 méter magasan fekszik.", "A falak vastagsága elérheti a 3 métert.", "A főtorony 40 méter magas.", "A restaurálás 2,5 millió aranymárkába került.", "A vár 15 toronnyal rendelkezik.", "Évente több mint 500 000 látogató érkezik."],
       ro: ["Castelul se află la o altitudine de 757 de metri.", "Grosimea zidurilor poate ajunge la 3 metri.", "Donjonul are 40 de metri înălțime.", "Restaurarea a costat 2,5 milioane de mărci de aur.", "Castelul are 15 turnuri.", "Peste 500.000 de vizitatori vin anual."],
       en: ["The castle is located at 757 meters elevation.", "The walls are up to 3 meters thick.", "The keep is 40 meters high.", "The restoration cost 2.5 million gold marks.", "The castle has 15 towers.", "Over 500,000 visitors come annually."],
-    }, image: "/poi-images/france-haut-koenigsbourg-history-v2.webp"},
+    },
+  },
   {
     id: "france-fontainebleau-palace-history-v2",
     type: "palace",
@@ -682,7 +703,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A palota 1500 szobával rendelkezik.", "Területe 130 hektár.", "A fontainebleau-i erdő 25 000 hektáron terül el.", "I. Ferenc 1528-tól kezdte átépíteni.", "A Grand Parterre a 17. században létesült.", "Fontainebleau 1981 óta UNESCO Világörökség."],
       ro: ["Palatul are 1.500 de camere.", "Suprafața este de 130 de hectare.", "Pădurea Fontainebleau se întinde pe 25.000 de hectare.", "Francisc I a început renovarea în 1528.", "Grand Parterre a fost amenajat în secolul al XVII-lea.", "Fontainebleau este Patrimoniu UNESCO din 1981."],
       en: ["The palace has 1,500 rooms.", "The estate covers 130 hectares.", "The Forest of Fontainebleau spans 25,000 hectares.", "Francis I began remodeling in 1528.", "The Grand Parterre was laid out in the 17th century.", "Fontainebleau has been a UNESCO site since 1981."],
-    }, image: "/poi-images/france-fontainebleau-palace-history-v2.webp"},
+    },
+  },
   {
     id: "france-valencay-history-v2",
     type: "castle",
@@ -713,7 +735,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A kastély a 16. században épült.", "Talleyrand 1803-tól 1838-ig lakott itt.", "A park területe 40 hektár.", "A kastélynak 130 szobája van.", "A homlokzat hossza 80 méter.", "Valençay 1975 óta múzeum."],
       ro: ["Castelul a fost construit în secolul al XVI-lea.", "Talleyrand a locuit aici între 1803 și 1838.", "Parcul se întinde pe 40 de hectare.", "Castelul are 130 de camere.", "Fațada are 80 de metri lungime.", "Valençay este muzeu din 1975."],
       en: ["The château was built in the 16th century.", "Talleyrand lived here from 1803 to 1838.", "The park covers 40 hectares.", "The château has 130 rooms.", "The facade is 80 meters long.", "Valençay has been a museum since 1975."],
-    }, image: "/poi-images/france-valencay-history-v2.webp"},
+    },
+  },
   {
     id: "france-blois-history-v2",
     type: "castle",
@@ -744,7 +767,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A kastély a 13. századtól épült.", "I. Ferenc szárnya 1515–1524 között épült.", "Guise hercegét 1588. december 23-án gyilkolták meg.", "A kastélynak 564 szobája van.", "A csigalépcső magassága 30 méter.", "Blois 1840 óta történelmi műemlék."],
       ro: ["Castelul a fost construit începând cu secolul al XIII-lea.", "Aripa lui Francisc I a fost construită între 1515 și 1524.", "Ducele de Guise a fost asasinat la 23 decembrie 1588.", "Castelul are 564 de camere.", "Scara în spirală are 30 de metri înălțime.", "Blois este monument istoric din 1840."],
       en: ["The château was built from the 13th century onward.", "The Francis I wing was built 1515–1524.", "The Duke of Guise was assassinated on December 23, 1588.", "The château has 564 rooms.", "The spiral staircase is 30 meters high.", "Blois has been a historic monument since 1840."],
-    }, image: "/poi-images/france-blois-history-v2.webp"},
+    },
+  },
   {
     id: "france-ambois-history-v2",
     type: "castle",
@@ -775,7 +799,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A várat a 11. században alapították.", "Leonardo da Vinci 1519-ben halt meg, és itt temették el.", "A Saint-Hubert-kápolna 1491–1496 között épült.", "A főtorony 20 méter magas.", "A vár 80 szobával rendelkezik.", "Amboise 1840 óta történelmi műemlék."],
       ro: ["Castelul a fost fondat în secolul al XI-lea.", "Leonardo da Vinci a murit în 1519 și a fost înmormântat aici.", "Capela Saint-Hubert a fost construită între 1491 și 1496.", "Donjonul are 20 de metri înălțime.", "Castelul are 80 de camere.", "Amboise este monument istoric din 1840."],
       en: ["The castle was founded in the 11th century.", "Leonardo da Vinci died in 1519 and is buried here.", "The Saint-Hubert Chapel was built 1491–1496.", "The keep is 20 meters high.", "The castle has 80 rooms.", "Amboise has been a historic monument since 1840."],
-    }, image: "/poi-images/france-ambois-history-v2.webp"},
+    },
+  },
   {
     id: "france-azay-le-rideau-history-v2",
     type: "castle",
@@ -806,7 +831,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["Az építkezés 1518-ban kezdődött és 1527-ben fejeződött be.", "A kastélynak 45 szobája van.", "A park területe 8 hektár.", "A vizesárok szélessége 10 méter.", "A kastély hossza 50 méter.", "Azay-le-Rideau 1905 óta múzeum."],
       ro: ["Construcția a început în 1518 și s-a terminat în 1527.", "Castelul are 45 de camere.", "Parcul are o suprafață de 8 hectare.", "Șanțul cu apă are 10 metri lățime.", "Castelul are 50 de metri lungime.", "Azay-le-Rideau este muzeu din 1905."],
       en: ["Construction began in 1518 and ended in 1527.", "The château has 45 rooms.", "The park covers 8 hectares.", "The moat is 10 meters wide.", "The château is 50 meters long.", "Azay-le-Rideau has been a museum since 1905."],
-    }, image: "/poi-images/france-azay-le-rideau-history-v2.webp"},
+    },
+  },
   {
     id: "france-carrouges-history-v2",
     type: "castle",
@@ -837,7 +863,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A 14. században épült, a 15. és 16. században bővítették.", "Négy torony és egy kaputorony található.", "Vizesárok övezi.", "1947-ben műemlékké nyilvánították.", "Normandiában található.", "Bútor- és faliszőnyeg-gyűjteménnyel rendelkezik."],
       ro: ["Construit în secolul al XIV-lea, extins în secolele al XV-lea și al XVI-lea.", "Patru turnuri și un turn de poartă.", "Înconjurat de un șanț cu apă.", "Clasificat monument istoric în 1947.", "Situat în regiunea Normandia.", "Adăpostește o colecție de mobilă și tapiserii."],
       en: ["Built in the 14th century, expanded in the 15th and 16th centuries.", "Four towers and a gatehouse.", "Surrounded by a moat.", "Classified as a historic monument in 1947.", "Located in the Normandy region.", "Houses a collection of furniture and tapestries."],
-    }, image: "/poi-images/france-carrouges-history-v2.webp"},
+    },
+  },
   {
     id: "france-villandry-history-v2",
     type: "castle",
@@ -868,7 +895,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A 16. században épült.", "A 18. és 20. században felújították.", "Híres reneszánsz kertjei geometrikus mintázatúak.", "1934-ben műemlékké nyilvánították.", "A Loire-völgyben található.", "Dr. Joachim Carvallo restaurálta a 20. században."],
       ro: ["Construit în secolul al XVI-lea.", "Restaurat în secolele al XVIII-lea și al XX-lea.", "Grădini renascentiste celebre cu modele geometrice.", "Clasificat monument istoric în 1934.", "Situat în Valea Loarei.", "Dr. Joachim Carvallo l-a restaurat în secolul al XX-lea."],
       en: ["Built in the 16th century.", "Renovated in the 18th and 20th centuries.", "Famous Renaissance gardens with geometric patterns.", "Classified as a historic monument in 1934.", "Located in the Loire Valley.", "Dr. Joachim Carvallo restored it in the 20th century."],
-    }, image: "/poi-images/france-villandry-history-v2.webp"},
+    },
+  },
   {
     id: "france-saumur-history-v2",
     type: "castle",
@@ -899,7 +927,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A 10. században erődítményként kezdődött.", "A 13. században IX. Lajos újjáépítette.", "Hat torony és központi donjon.", "A 16. században reneszánsz stílusban átépítették.", "A Művészeti és Történeti Múzeumot (Musée d'Art et d'Histoire) működteti benne.", "A Loire-völgyben található."],
       ro: ["A început ca fortăreață în secolul al X-lea.", "Reconstruit de Ludovic al IX-lea în secolul al XIII-lea.", "Șase turnuri și un donjon central.", "Remodelat în stil renascentist în secolul al XVI-lea.", "Adăpostește Muzeul de Artă și Istorie.", "Situat în Valea Loarei."],
       en: ["Began as a fortress in the 10th century.", "Rebuilt by Louis IX in the 13th century.", "Six towers and a central keep.", "Remodeled in Renaissance style in the 16th century.", "Houses the Musée d'Art et d'Histoire.", "Located in the Loire Valley."],
-    }, image: "/poi-images/france-saumur-history-v2.webp"},
+    },
+  },
   {
     id: "france-valençay-talleyrand-history-v2",
     type: "museum",
@@ -930,7 +959,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["Charles-Maurice de Talleyrand-Périgord-nak szentelve.", "Kastély a 16. században épült.", "Talleyrand 1803-tól 1838-ig élt itt.", "Múzeum személyes tárgyakkal és bútorokkal.", "Valençay-nál, a Loire-völgyben található.", "A kastély műemlék."],
       ro: ["Dedicat lui Charles-Maurice de Talleyrand-Périgord.", "Castel construit în secolul al XVI-lea.", "Talleyrand a locuit aici între 1803 și 1838.", "Muzeu cu obiecte personale și mobilier.", "Situat în Valea Loarei lângă Valençay.", "Castelul este monument istoric."],
       en: ["Dedicated to Charles-Maurice de Talleyrand-Périgord.", "Castle built in the 16th century.", "Talleyrand lived here from 1803 to 1838.", "Museum with personal items and furniture.", "Located in the Loire Valley near Valençay.", "Castle is a historic monument."],
-    }, image: "/poi-images/france-valençay-talleyrand-history-v2.webp"},
+    },
+  },
   {
     id: "france-la-ferte-milon-history-v2",
     type: "ruins",
@@ -961,7 +991,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["Az építkezés kezdete: 1393", "A főhomlokzat hossza: 102 méter", "A falak magassága: 28 méter", "Dombormű: Szűz Mária megkoronázása"],
       ro: ["Începutul construcției: 1393", "Lungimea fațadei: 102 metri", "Înălțimea zidurilor: 28 metri", "Basorelief: Încoronarea Fecioarei Maria"],
       en: ["Construction started: 1393", "Facade length: 102 meters", "Wall height: 28 meters", "Relief: Coronation of the Virgin"],
-    }, image: "/poi-images/france-la-ferte-milon-history-v2.webp"},
+    },
+  },
   {
     id: "france-brouage-history-v2",
     type: "town",
@@ -992,7 +1023,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["A 16. században alapították.", "Fontos kikötő volt a sókereskedelemben.", "Városfalak és bástyák megőrződtek.", "Stratégiai jelentőségű a vallásháborúk alatt.", "Ma történelmi műemlék.", "Az Écorce et Batellerie Múzeum található benne."],
       ro: ["Fondat în secolul al XVI-lea.", "A fost un port important pentru comerțul cu sare.", "Zidurile și bastioanele sunt conservate.", "Importanță strategică în timpul războaielor religioase.", "Astăzi monument istoric.", "Adăpostește Muzeul de Ecorce și Batellerie."],
       en: ["Founded in the 16th century.", "Was an important port for the salt trade.", "Town walls and bastions are preserved.", "Strategic importance during the Wars of Religion.", "Today a historic monument.", "Houses the Musée de l'Écorce et de la Batellerie."],
-    }, image: "/poi-images/france-brouage-history-v2.webp"},
+    },
+  },
   {
     id: "france-caylus-history-v2",
     type: "town",
@@ -1023,7 +1055,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["Középkori község Okcitániában.", "A Bonnette folyó partján fekszik.", "Saint-Jean-Baptiste templom a 12. századból.", "Place de la Halle piactérrel.", "Egy 12. századi vár romjai.", "A régió híres szarvasgomba termesztéséről."],
       ro: ["Comună medievală în Occitania.", "Situată pe râul Bonnette.", "Biserica Saint-Jean-Baptiste din secolul al XII-lea.", "Place de la Halle cu piață.", "Ruinele unui castel din secolul al XII-lea.", "Regiunea cunoscută pentru cultivarea trufelor."],
       en: ["Medieval commune in Occitanie.", "Located on the Bonnette River.", "Saint-Jean-Baptiste church from the 12th century.", "Place de la Halle with market hall.", "Ruins of a 12th-century castle.", "Region known for truffle cultivation."],
-    }, image: "/poi-images/france-caylus-history-v2.webp"},
+    },
+  },
   {
     id: "france-lavardin-history-v2",
     type: "village",
@@ -1054,7 +1087,8 @@ export const franceHistoryV2: POI[] = [
       hu: ["11. századi várrom.", "Saint-Genest román stílusú templom.", "A Loir folyó partján fekszik.", "Szőlőültetvények veszik körül.", "A százéves háborúban pusztult el.", "Híres utcai festményeiről (murales)."],
       ro: ["Ruinele castelului din secolul al XI-lea.", "Biserica romanică Saint-Genest.", "Situat pe râul Loir.", "Înconjurat de podgorii.", "Distrus în Războiul de 100 de Ani.", "Cunoscut pentru picturile stradale (murales)."],
       en: ["Castle ruins from the 11th century.", "Romanesque church of Saint-Genest.", "Located on the Loir River.", "Surrounded by vineyards.", "Destroyed in the Hundred Years' War.", "Known for street paintings (murales)."],
-    }, image: "/poi-images/france-lavardin-history-v2.webp"},
+    },
+  },
   {
     id: "france-mont-dore-history-v2",
     type: "town",

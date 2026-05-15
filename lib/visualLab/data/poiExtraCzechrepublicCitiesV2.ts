@@ -2410,7 +2410,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["1356-os első említés", "440 m tengerszint feletti magasság", "Zlíni régió", "4900 lakos"],
       ro: ["Prima atestare în 1356", "Altitudine 440 m", "Regiunea Zlín", "4900 de locuitori"],
       en: ["First mentioned in 1356", "Altitude 440 m", "Zlín Region", "4900 inhabitants"],
-    }, image: "/poi-images/czechrepublic-valasske-klobouky-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-jesenik-cities-v2",
     type: "city",
@@ -2441,7 +2442,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["1267-ben alapították", "1822 óta fürdőváros", "11000 lakos", "Jeseníky-hegység"],
       ro: ["Fondat în 1267", "Stațiune din 1822", "11000 de locuitori", "Munții Jeseníky"],
       en: ["Founded in 1267", "Spa town since 1822", "11000 inhabitants", "Jeseníky Mountains"],
-    }, image: "/poi-images/czechrepublic-jesenik-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-novy-jicin-cities-v2",
     type: "city",
@@ -2472,7 +2474,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["1313-ban alapították", "Műemléki terület 1967-től", "23000 lakos", "Kalapmúzeum"],
       ro: ["Fondat în 1313", "Rezervație istorică din 1967", "23000 locuitori", "Muzeul pălăriilor"],
       en: ["Founded in 1313", "Heritage site since 1967", "23000 inhabitants", "Hat museum"],
-    }, image: "/poi-images/czechrepublic-novy-jicin-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-hronov-cities-v2",
     type: "city",
@@ -2503,7 +2506,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["1359-es első említés", "364 m magasság", "Hradec Králové-i régió", "Színjátszó fesztivál"],
       ro: ["Atestat în 1359", "Altitudine 364 m", "Regiunea Hradec Králové", "Festival de teatru"],
       en: ["First mentioned 1359", "Altitude 364 m", "Hradec Králové Region", "Theatre festival"],
-    }, image: "/poi-images/czechrepublic-hronov-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-roznove-pod-radhostem-cities-v2",
     type: "city",
@@ -2534,7 +2538,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["A város lakossága körülbelül 16 ezer fő.", "Az 1129 méter magas Radhošť hegy lábánál fekszik.", "A Rožnovská Bečva folyó szeli át a települést.", "Az első írásos említése 1267-ből származik.", "A Walachiai Szabadtéri Múzeum 1925-ben nyílt meg.", "A 19. században klimatikus gyógyhelyként is ismert volt."],
       ro: ["Orașul are o populație de aproximativ 16.200 de persoane.", "Muzeul în aer liber a fost înființat în anul 1925.", "Este situat pe râul Rožnovská Bečva.", "Prima documentare istorică a orașului datează din 1267.", "Muntele Radhošť din vecinătate atinge 1129 de metri.", "Dezvoltarea timpurie a fost legată de producția de sticlă și țesături."],
       en: ["The population of the town is roughly 16,200.", "The Wallachian Open Air Museum was founded in 1925.", "It is located at the foot of the 1129m tall Radhošť mountain.", "The Rožnovská Bečva river flows directly through the town.", "First written records of the settlement date back to 1267.", "In the 19th century, it was known as a climatic spa town."],
-    }, image: "/poi-images/czechrepublic-roznove-pod-radhostem-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-frydlant-cities-v2",
     type: "city",
@@ -2565,7 +2570,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["A város népessége nagyjából 7500 fő.", "A Smědá folyó partján fekszik a lengyel határ közelében.", "Albrecht von Wallenstein 1620-ban szerezte meg a birtokot.", "A várkastély legrégebbi részei a 13. századból valók.", "A neoreneszánsz városháza 1896-ban készült el.", "1278-ban említik először írásos források."],
       ro: ["Frýdlant are o populație de aproximativ 7.500 de locuitori.", "Este situat în nordul Boemiei, aproape de Polonia.", "Castelul Frýdlant este o combinație de fortăreață și palat renascentist.", "Albrecht von Wallenstein a condus ducatul între 1627 și 1634.", "Râul Smědá traversează centrul orașului.", "Primăria orașului a fost construită între 1893 și 1896."],
       en: ["The town has a population of approximately 7,500.", "Located in the Liberec Region near the Polish border.", "The historic Frýdlant Castle dates back to the 13th century.", "Albrecht von Wallenstein acquired the estate in 1620.", "The Smědá river flows through the town.", "The Neo-Renaissance town hall was completed in 1896."],
-    }, image: "/poi-images/czechrepublic-frydlant-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-turnov-cities-v2",
     type: "city",
@@ -2596,7 +2602,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["A település lakossága mintegy 14 500 fő.", "Turnovot 1272-ben alapították a Markvartice család tagjai.", "A Jizera folyó szeli ketté a várost.", "A 16. század óta az ékszeripar jelentős központja.", "A város a 400 km²-es Cseh Paradicsom geopark központja.", "A Valdštejn vár romjai a város közelében találhatók."],
       ro: ["Orașul are o populație de aproximativ 14.500 de locuitori.", "A fost fondat în anul 1272 de nobilimea locală.", "Este situat pe râul Jizera.", "Muzeul Paradisului Boemian expune pietre prețioase locale.", "Tradiția prelucrării granatului a început în secolul al XVI-lea.", "Turnov servește ca poartă către rezervația naturală Paradisul Boemian."],
       en: ["Turnov has a population of around 14,500 residents.", "The town was founded in 1272 by the Markvartice family.", "It is located on the Jizera river in the Liberec Region.", "A center for cutting and polishing Bohemian garnet since the 1500s.", "The Museum of the Bohemian Paradise is located in the town.", "Turnov is the starting point for exploring the 400 sq km Bohemian Paradise."],
-    }, image: "/poi-images/czechrepublic-turnov-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-usti-nad-orlici-cities-v2",
     type: "city",
@@ -2627,7 +2634,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["A lakosság száma megközelítőleg 14 000 fő.", "A város az 1241-es évek körül jött létre.", "A Tichá Orlice és a Třebovka folyók találkozásánál fekszik.", "1845-ben csatlakozott a Prága-Olmütz vasútvonalhoz.", "A 19. században jelentős textilipari központtá vált.", "Történelmi központja 1990 óta városi műemlékvédelmi zóna."],
       ro: ["Ústí nad Orlicí are o populație de aproximativ 14.000 de locuitori.", "Orașul a fost fondat în jurul anului 1241.", "Se află la convergența râurilor Třebovka și Tichá Orlice.", "Conexiunea feroviară cu Praga a fost deschisă în 1845.", "Vechea clădire a gării din 1874 a fost salvată de la demolare.", "Timp de decenii, orașul a fost poreclit „Manchesterul Boemiei” pentru textile."],
       en: ["The town has a population of roughly 14,000 residents.", "Founded around 1241 during the colonization by Wilhelm of Dürnholz.", "Located at the confluence of the Třebovka and Tichá Orlice rivers.", "The railway line connecting to Prague opened in 1845.", "The historic passenger railway station building dates from 1874.", "The town historically thrived on its large-scale textile industry."],
-    }, image: "/poi-images/czechrepublic-usti-nad-orlici-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-dvur-kralove-nad-labem-cities-v2",
     type: "city",
@@ -2658,7 +2666,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["A város lakossága mintegy 15 000 fő.", "Az első írásos említése 1270-ből származik.", "Az Elba (Labe) folyó völgyében fekszik.", "A helyi szafaripark 1946 óta fogadja a látogatókat.", "Az állatkert fókuszában az afrikai patás állatok védelme áll.", "Történelmileg egykor a cseh királynék birtoka volt."],
       ro: ["Orașul are o populație de aproximativ 15.000 de locuitori.", "A fost menționat pentru prima dată într-un document din 1270.", "Este traversat de cursul superior al fluviului Elba.", "Parcul Safari Dvůr Králové a fost fondat în 1946.", "Grădina zoologică are una dintre cele mai mari colecții de animale africane din Europa.", "Orașul are un istoric puternic în producția de materiale textile."],
       en: ["The town has a population of approximately 15,000 residents.", "The first written mention of the settlement dates to 1270.", "It is situated on the upper course of the Elbe river.", "The Safari Park Dvůr Králové was established in 1946.", "The zoo is a major center for captive breeding of African ungulates.", "The town was historically a dowry town of the Bohemian queens."],
-    }, image: "/poi-images/czechrepublic-dvur-kralove-nad-labem-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-semily-cities-v2",
     type: "city",
@@ -2689,7 +2698,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["1352-es első említés", "318 m magasság", "Libereci régió", "8300 lakos"],
       ro: ["Atestat în 1352", "Altitudine 318 m", "Regiunea Liberec", "8300 de locuitori"],
       en: ["First mentioned 1352", "Altitude 318 m", "Liberec Region", "8300 inhabitants"],
-    }, image: "/poi-images/czechrepublic-semily-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-benatky-nad-jizerou-cities-v2",
     type: "city",
@@ -2720,7 +2730,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["A település lakossága körülbelül 7500 fő.", "A Jizera folyó partján fekszik, Prágától 40 km-re.", "A 11. században már oklevelek is említik a helyet.", "A várkastély reneszánsz stílusú építése 1525-ben kezdődött.", "Tycho Brahe csillagvizsgálót rendezett be itt 1599-ben.", "Johannes Kepler is dolgozott itt egy rövid ideig 1600-ban."],
       ro: ["Populația orașului se ridică la aproximativ 7.500 de persoane.", "Se află la 40 de kilometri nord-est de capitala Praga.", "Orașul a fost atestat documentar în secolul al XI-lea.", "Castelul renascentist a fost construit începând cu anul 1525.", "Astronomul Tycho Brahe a trăit și lucrat la castel în 1599.", "Johannes Kepler l-a vizitat pe Brahe aici pentru colaborare științifică."],
       en: ["The town has a population of roughly 7,500 residents.", "It is located on the Jizera river, 40 km northeast of Prague.", "First historical records of the town date back to the 11th century.", "The Renaissance castle was built starting in 1525.", "Astronomer Tycho Brahe established an observatory here in 1599.", "Johannes Kepler joined Brahe at this location in 1600."],
-    }, image: "/poi-images/czechrepublic-benatky-nad-jizerou-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-rumburk-cities-v2",
     type: "city",
@@ -2751,7 +2762,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["1298-as első említés", "Loretói kápolna 1704-ből", "Ústí régió", "11000 lakos"],
       ro: ["Atestat în 1298", "Capela Loreta din 1704", "Regiunea Ústí", "11000 locuitori"],
       en: ["First mentioned 1298", "Loreto Chapel from 1704", "Ústí Region", "11000 inhabitants"],
-    }, image: "/poi-images/czechrepublic-rumburk-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-kralupy-nad-vltavou-cities-v2",
     type: "city",
@@ -2782,7 +2794,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["A lakosság száma megközelítőleg 18 000 fő.", "A Moldva (Vltava) folyó szeli át a várost.", "A vasúti csatlakozás 1850-ben készült el.", "Kralupy 1902-ben kapott hivatalos városi rangot.", "A város kőolajfinomítója (ČEPRO, MERO) nemzeti jelentőségű.", "Jaroslav Seifert Nobel-díjas cseh költő nyughelye a helyi temetőben van."],
       ro: ["Kralupy nad Vltavou are aproximativ 18.000 de locuitori.", "Orașul se află pe malurile râului Vltava.", "Calea ferată a ajuns în localitate în anul 1850.", "Statutul de oraș a fost obținut oficial în 1902.", "Orașul găzduiește o rafinărie majoră de petrol și o fabrică de cauciuc sintetic.", "Mormântul poetului Jaroslav Seifert, laureat Nobel, se află aici."],
       en: ["The town has a population of approximately 18,000.", "It is situated on both banks of the Vltava river.", "The pivotal railway line opened in 1850.", "Kralupy officially gained town privileges in 1902.", "The town is home to a major oil refinery and synthetic rubber plant.", "Nobel laureate poet Jaroslav Seifert is buried in the town's cemetery."],
-    }, image: "/poi-images/czechrepublic-kralupy-nad-vltavou-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-velke-mezirici-cities-v2",
     type: "city",
@@ -2813,7 +2826,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["A település lakossága mintegy 11 500 fő.", "Első ismert írásos említése 1197-ből származik.", "Az Oslava és a Balinka folyók találkozási pontja.", "A 77 méter magas Vysočina hidat 1978-ban adták át a forgalomnak.", "A D1-es autópálya hídja 425 méter hosszan ível a völgy felett.", "A helyi várkastély alapjai a román kori építészet jegyeit viselik."],
       ro: ["Populația orașului numără în jur de 11.500 de locuitori.", "Prima mențiune documentară a așezării este din 1197.", "Râurile Oslava și Balinka se unesc în centrul orașului.", "Podul autostrăzii Vysočina a fost inaugurat în 1978.", "Podul are 425 metri lungime și se înalță la 77 metri deasupra văii.", "Castelul orașului a fost inițial o fortăreață romanică."],
       en: ["The town has a population of approximately 11,500 residents.", "First explicitly mentioned in historical records in 1197.", "Positioned at the confluence of the Oslava and Balinka rivers.", "The D1 highway bridge (Vysočina bridge) was opened in 1978.", "The bridge is 425 meters long and 77 meters high.", "The town's castle evolved from an original Romanesque fortress."],
-    }, image: "/poi-images/czechrepublic-velke-mezirici-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-cesky-brod-cities-v2",
     type: "city",
@@ -2844,7 +2858,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["A település lakossága mintegy 7000 fő.", "A 12. században alapították egy fontos kereskedelmi útvonal mentén.", "A gótikus Szent Gothárd-templomot a 14. században építették.", "A huszita háborúkat lezáró 1434-es lipany-i csata helyszíne a közelben található.", "A középkori városfalak több szakasza ma is áll.", "Prága központjától mintegy 30 kilométerre keletre fekszik."],
       ro: ["Orașul are o populație de aproximativ 7.000 de locuitori.", "A fost fondat de episcopul de Praga în secolul al XII-lea.", "Biserica gotică Sfântul Gothard datează din secolul al XIV-lea.", "Bătălia de la Lipany a avut loc la câțiva kilometri de oraș în 1434.", "Zidurile medievale de apărare s-au păstrat parțial până astăzi.", "Český Brod se află la aproximativ 30 km est de Praga."],
       en: ["The town has a population of around 7,000 residents.", "Founded in the 12th century by the Bishop of Prague.", "The Gothic Church of St. Gothard was built in the 14th century.", "The nearby Battle of Lipany took place in 1434.", "Significant sections of the medieval town walls remain intact.", "Located roughly 30 kilometers east of the capital, Prague."],
-    }, image: "/poi-images/czechrepublic-cesky-brod-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-velvary-cities-v2",
     type: "city",
@@ -2875,7 +2890,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["Királyi város 1282-től", "Prágai-kapu 1594-ből", "Közép-csehországi régió", "3000 lakos"],
       ro: ["Oraș regal din 1282", "Poarta Praga din 1594", "Boemia Centrală", "3000 de locuitori"],
       en: ["Royal town since 1282", "Prague Gate from 1594", "Central Bohemia", "3000 inhabitants"],
-    }, image: "/poi-images/czechrepublic-velvary-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-zdice-cities-v2",
     type: "city",
@@ -2906,7 +2922,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["A lakosság száma körülbelül 4100 fő.", "Az első okleveles említése 1148-ból származik.", "A Litavka folyó szeli át a települést.", "A Prága és Plzeň közötti vasútvonal meghatározó állomása.", "Hivatalosan 1994-ben nyilvánították várossá.", "A helyi vasúti fűtőházban katonai- és közlekedési múzeum működik."],
       ro: ["Populația orașului Zdice este de aproximativ 4.100 de locuitori.", "Atestarea documentară a așezării datează din anul 1148.", "Orașul este așezat pe râul Litavka.", "Gara Zdice este un punct major pe linia feroviară Praga-Plzeň.", "Localitatea a obținut oficial statutul de oraș abia în 1994.", "Un muzeu de vehicule istorice feroviare și militare funcționează în vechiul depou."],
       en: ["Zdice has a population of approximately 4,100 residents.", "The first written record of the settlement is from 1148.", "The town is situated along the Litavka river.", "It functions as a railway hub on the main line connecting Prague and Plzeň.", "The settlement was officially granted town status in 1994.", "The town features a museum of historic railway and military vehicles."],
-    }, image: "/poi-images/czechrepublic-zdice-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-frydlant-nad-ostravici-cities-v2",
     type: "city",
@@ -2937,7 +2954,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["A település lakossága mintegy 9900 fő.", "Az Ostravice folyó völgyében, a Morva-Sziléziai Beszkidek lábánál található.", "Első ismert írásos említése 1395-ből származik.", "A 17. század közepétől indult meg a helyi vasérc feldolgozása.", "A 19. században zománcárugyártásáról vált ismertté.", "Kedvelt kiindulópontja a Lysá hora csúcsra induló túráknak."],
       ro: ["Populația orașului se apropie de 9.900 de locuitori.", "Orașul este situat pe râul Ostravice, sub Munții Beskizi.", "Prima mențiune scrisă a fost realizată în 1395.", "Extracția și prelucrarea fierului a început în secolul al XVII-lea.", "Industria emailului s-a dezvoltat masiv aici în secolul al XIX-lea.", "Orașul este o poartă către cel mai înalt vârf din Beskizi, Lysá hora."],
       en: ["The town has a population of approximately 9,900 residents.", "Located along the Ostravice river at the foot of the Moravian-Silesian Beskids.", "First written evidence of the settlement dates to 1395.", "Ironworks were established in the area during the 17th century.", "The town became known for large-scale enamelware production in the 1800s.", "It is a popular starting point for hiking to Lysá hora mountain."],
-    }, image: "/poi-images/czechrepublic-frydlant-nad-ostravici-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-sobotka-cities-v2",
     type: "city",
@@ -2968,7 +2986,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["1318-as első említés", "Humprecht-kastély", "Hradec Králové-i régió", "2400 lakos"],
       ro: ["Atestat în 1318", "Castelul Humprecht", "Regiunea Hradec Králové", "2400 locuitori"],
       en: ["First mentioned 1318", "Humprecht Castle", "Hradec Králové Region", "2400 inhabitants"],
-    }, image: "/poi-images/czechrepublic-sobotka-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-vyssi-brod-cities-v2",
     type: "city",
@@ -2999,7 +3018,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["Csehország legdélebbi városa, közel az osztrák határhoz.", "A lakosság száma megközelítőleg 2500 fő.", "A Moldva (Vltava) folyó felső szakaszán fekszik.", "A ciszterci apátságot 1259-ben alapította a Rosenberg család.", "A kolostor könyvtára mintegy 70 000 értékes kötetet őriz.", "Népszerű a vízitúrázók körében, innen indulnak a Moldván lefelé."],
       ro: ["Este cel mai sudic oraș din întreaga Republică Cehă.", "Are o populație restrânsă de aproximativ 2.500 de locuitori.", "Așezarea este străbătută de râul Vltava.", "Mănăstirea cisterciană a fost fondată în 1259 de familia Rožmberk.", "Biblioteca mănăstirii găzduiește peste 70.000 de volume istorice.", "Cea mai veche piesă de artă locală este o pictură madonă din secolul al XIV-lea."],
       en: ["Vyšší Brod holds the title of the southernmost town in the Czech Republic.", "The town has a population of roughly 2,500 residents.", "It is situated on the upper course of the Vltava river.", "The Vyšší Brod Monastery was founded by the Rosenberg family in 1259.", "The monastery library contains over 70,000 historic volumes.", "The town is a highly popular starting point for canoeing on the Vltava."],
-    }, image: "/poi-images/czechrepublic-vyssi-brod-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-horice-cities-v2",
     type: "city",
@@ -3030,7 +3050,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["A település lakossága mintegy 8500 fő.", "Az első írásos említése 1143-ból származik.", "Az Állami Kőfaragó- és Szobrásziskolát 1884-ben alapították.", "A 'Hořické trubičky' ostyát 1812 óta készítik helyi recept alapján.", "A Gothard-hegyen nagyszabású kőszobor-park tekinthető meg.", "A város ad otthont a 'Gustav Havel 300 kanyarja' motorversenynek."],
       ro: ["Populația orașului Hořice este de aproximativ 8.500 de locuitori.", "Atestarea documentară a așezării este din anul 1143.", "Școala de sculptură în piatră funcționează fără întrerupere din 1884.", "Rulourile dulci 'Hořické trubičky' sunt produse din 1812.", "Cursele anuale de motociclete '300 Curbe Gustav Havel' se țin pe străzile orașului.", "Dealul Gothard găzduiește zeci de sculpturi moderne din gresie."],
       en: ["The town has a population of approximately 8,500 residents.", "The first historical mention of Hořice is from 1143.", "A specialized school for stone sculpture was established in 1884.", "The local sweet wafer rolls, 'Hořické trubičky', date back to 1812.", "The '300 Curves of Gustav Havel' motorcycle road race is held here annually.", "The Gothard hill features a permanent outdoor exhibition of stone sculptures."],
-    }, image: "/poi-images/czechrepublic-horice-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-hustopece-cities-v2",
     type: "city",
@@ -3061,7 +3082,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["A település lakossága megközelítőleg 6000 fő.", "Az első okleveles említése 1249-ből származik.", "A helyi mandulaültetvényeken mintegy 50 ezer fa található.", "A modern Szent Vencel-templomot 1994-ben szentelték fel.", "A Velké Pavlovice-i borvidék egyik meghatározó városa.", "A neoreneszánsz stílusú városháza 1906-ban épült."],
       ro: ["Orașul are o populație de aproximativ 6.000 de locuitori.", "A fost atestat documentar pentru prima dată în anul 1249.", "Livezile de migdali conțin aproape 50.000 de arbori.", "Biserica Sfântul Wenceslas are o arhitectură modernă unică, finalizată în 1994.", "Este un nod principal în sub-regiunea viticolă Velké Pavlovice.", "Turnul modern al bisericii are 52 de metri înălțime."],
       en: ["Hustopeče has a population of approximately 6,000 residents.", "The first written mention of the town occurred in 1249.", "The local almond orchards span 50 hectares with tens of thousands of trees.", "The uniquely modern St. Wenceslas Church was consecrated in 1994.", "It is a central hub for the Velké Pavlovice wine subregion.", "The town hall was rebuilt in the Neo-Renaissance style in 1906."],
-    }, image: "/poi-images/czechrepublic-hustopece-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-kadan-cities-v2",
     type: "city",
@@ -3092,7 +3114,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["1183-ban alapították", "Műemléki terület 1978-tól", "18000 lakos", "Katova ulička"],
       ro: ["Fondat în 1183", "Rezervație istorică din 1978", "18000 locuitori", "Strada Călăului"],
       en: ["Founded in 1183", "Heritage site since 1978", "18000 inhabitants", "Executioner's Lane"],
-    }, image: "/poi-images/czechrepublic-kadan-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-pacov-cities-v2",
     type: "city",
@@ -3123,7 +3146,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["1316-os első említés", "FIM alapítás 1904", "Vysočina régió", "Antonín Sova múzeum"],
       ro: ["Atestat în 1316", "Fondarea FIM în 1904", "Regiunea Vysočina", "Muzeul Antonín Sova"],
       en: ["First mentioned 1316", "FIM founded 1904", "Vysočina Region", "Antonín Sova Museum"],
-    }, image: "/poi-images/czechrepublic-pacov-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-hranice-na-morave-cities-v2",
     type: "city",
@@ -3154,7 +3178,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["1169-es első említés", "Hranicei-szakadék (473m+)", "Olomouci régió", "18000 lakos"],
       ro: ["Atestat în 1169", "Abisul Hranice (473m+)", "Regiunea Olomouc", "18000 locuitori"],
       en: ["First mentioned 1169", "Hranice Abyss (473m+)", "Olomouc Region", "18000 inhabitants"],
-    }, image: "/poi-images/czechrepublic-hranice-na-morave-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-zamberk-cities-v2",
     type: "city",
@@ -3185,7 +3210,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["A lakosság száma megközelítőleg 6000 fő.", "A Divoká Orlice folyó szeli át a települést.", "Az első ismert írásos említése 1332-ből származik.", "Prokop Diviš 1698-ban látta meg itt a napvilágot.", "A helyi múzeumban egy 1813-ból származó gyógyszertár is megtekinthető.", "A Tyrš-torony (Tyršova rozhledna) 1932-ben épült kilátó."],
       ro: ["Orașul numără o populație de aproximativ 6.000 de locuitori.", "Este situat în valea râului Divoká Orlice.", "A fost menționat pentru prima dată în documente din 1332.", "Prokop Diviš, pionier al electricității, s-a născut aici în 1698.", "Muzeul orășenesc include o farmacie originală datând din 1813.", "Turnul de observație Tyrš a fost construit în anul 1932."],
       en: ["The town has a population of approximately 6,000 residents.", "Located on the banks of the Divoká Orlice river.", "The first written record of Žamberk dates back to 1332.", "Inventor and scientist Prokop Diviš was born in the town in 1698.", "The town museum features a preserved pharmacy interior from 1813.", "The 20-meter high Tyrš observation tower was built in 1932."],
-    }, image: "/poi-images/czechrepublic-zamberk-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-klimkovice-cities-v2",
     type: "city",
@@ -3216,7 +3242,8 @@ export const czechrepublicCitiesV2: POI[] = [
       hu: ["1373-as első említés", "Jódos-brómos fürdő", "Morva-sziléziai régió", "Klimkovicei kastély"],
       ro: ["Atestat în 1373", "Băi cu iod și brom", "Silezia Moravă", "Castelul Klimkovice"],
       en: ["First mentioned 1373", "Iodine-bromine spa", "Moravian-Silesian Region", "Klimkovice Castle"],
-    }, image: "/poi-images/czechrepublic-klimkovice-cities-v2.webp"},
+    },
+  },
   {
     id: "czechrepublic-pribor-cities-v2",
     type: "city",

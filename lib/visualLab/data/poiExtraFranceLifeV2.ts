@@ -31,7 +31,8 @@ export const franceLifeV2: POI[] = [
       hu: ["Alapítás éve: 1970", "Területe megközelítőleg 93 700 hektár", "A Mont Lozère csúcsa 1699 méter magas", "2400 növényfaj él a területén", "1980-ban telepítették vissza a fakó keselyűt", "2011 óta az UNESCO Világörökség része"],
       ro: ["Înființat oficial în 2 septembrie 1970", "Suprafața zonei centrale este de 937 km2", "Vârful Mont Lozère atinge 1699 metri", "Adăpostește peste 11.000 de specii de animale", "Peste 2400 de specii florale inventariate", "Relief format predominant din șist și calcar"],
       en: ["Established on September 2, 1970", "Covers a core area of 93,700 hectares", "Mont Lozère is the highest point at 1,699 m", "Home to 2,400 recorded plant species", "Griffon vultures reintroduced in the 1980s", "Designated a UNESCO Biosphere Reserve in 1985"],
-    }, image: "/poi-images/france-cevennes-np-life-v2.webp"},
+    },
+  },
   {
     id: "france-port-cros-np-life-v2",
     type: "park",
@@ -62,7 +63,8 @@ export const franceLifeV2: POI[] = [
       hu: ["Alapítva: 1963. december 14-én", "A szárazföldi rész 700 hektár", "A tengeri védett terület 1288 hektár", "Védett Posidonia tengerifű mezők", "Szigorúan korlátozott látogatószám", "A Mont Vinaigre a legmagasabb pont (194 m)"],
       ro: ["Fondat în 1963 ca prim parc marin european", "Suprafața terestră este de circa 700 hectare", "Zona marină protejată are 1288 hectare", "Adăpostește rarisima bufniță pitică", "Interdicție totală pentru fumat și pescuit", "Punctul maxim are o înălțime de 194 metri"],
       en: ["Founded on December 14, 1963", "Land area covers approximately 700 hectares", "Marine protected zone spans 1,288 hectares", "Protects vital Posidonia oceanica meadows", "Home to the rare Scops owl", "Highest elevation is 194 meters on Port-Cros"],
-    }, image: "/poi-images/france-port-cros-np-life-v2.webp"},
+    },
+  },
   {
     id: "france-ecrins-np-life-v2",
     type: "park",
@@ -93,7 +95,8 @@ export const franceLifeV2: POI[] = [
       hu: ["Alapítás éve: 1973", "Legmagasabb pont: Barre des Écrins (4102 m)", "Központi zónájának területe 91 800 hektár", "Több mint 40 gleccser található itt", "1800 növényfaj él a park területén", "700 km hosszúságú jelzett túraútvonal"],
       ro: ["Înființat oficial în 27 martie 1973", "Altitudinea maximă: 4102 m (Barre des Écrins)", "Suprafața zonei centrale: 91.800 hectare", "Peste 40 de ghețari activi în prezent", "Adăpostește aproximativ 1800 specii florale", "Rețea de peste 700 km de poteci marcate"],
       en: ["Established on March 27, 1973", "Highest peak is Barre des Écrins at 4,102 m", "Core area spans 91,800 hectares", "Contains over 40 distinct glaciers", "Home to 1,800 different plant species", "Maintains over 700 km of marked footpaths"],
-    }, image: "/poi-images/france-ecrins-np-life-v2.webp"},
+    },
+  },
   {
     id: "france-foret-brosse-life-v2",
     type: "forest",
@@ -124,7 +127,8 @@ export const franceLifeV2: POI[] = [
       hu: ["Körülbelül 22 000 hektár.", "Homokkő szikláiról ismert.", "Bioszféra-rezervátum.", "Mászók és túrázók körében népszerű.", "Fontainebleau-i kastély a szélén.", "Vadászat és erdőgazdálkodás."],
       ro: ["Aproximativ 22.000 de hectare.", "Cunoscut pentru stâncile de gresie.", "Rezervație a biosferei.", "Popular printre alpiniști și drumeți.", "Castelul Fontainebleau la margine.", "Vânătoare și silvicultură."],
       en: ["Covers about 22,000 hectares.", "Known for sandstone rocks.", "Biosphere reserve.", "Popular with climbers and hikers.", "Château de Fontainebleau at edge.", "Hunting and forestry."],
-    }, image: "/poi-images/france-foret-brosse-life-v2.webp"},
+    },
+  },
   {
     id: "france-jardin-botanique-lyon-life-v2",
     type: "park",
@@ -155,7 +159,8 @@ export const franceLifeV2: POI[] = [
       hu: ["Alapítva 1857-ben (mai helyén)", "15 000 különböző növényfaj", "6500 m² összterületű üvegházak", "8 hektáros összterület a parkban"],
       ro: ["Fondată în 1857 (locația actuală)", "15.000 de specii de plante", "Sere cu o suprafață de 6.500 m²", "Suprafață totală de 8 hectare"],
       en: ["Founded in 1857 (current location)", "15,000 different plant species", "6,500 m² of greenhouse facilities", "8 hectares of total area"],
-    }, image: "/poi-images/france-jardin-botanique-lyon-life-v2.webp"},
+    },
+  },
   {
     id: "france-marais-poitevin-life-v2",
     type: "park",
@@ -186,7 +191,8 @@ export const franceLifeV2: POI[] = [
       hu: ["A terület összesen 100 000 hektár", "70%-a lecsapolt, mezőgazdasági terület", "Mintegy 8200 km hosszú csatornahálózat", "Az európai vidra fontos élőhelye", "A szerzetesek kezdték el csapolni a 11. században", "Regionális natúrpark minősítés: 1979"],
       ro: ["Suprafață totală de aproximativ 100.000 ha", "70% din zonă constă în mlaștini desecate", "Rețea de canale de peste 8200 km lungime", "Habitat crucial pentru vidra europeană", "Amenajările au început în secolul al XI-lea", "Desemnat Parc Natural Regional în 1979"],
       en: ["Total surface area of 100,000 hectares", "70% consists of reclaimed dry marshes", "Network of over 8,200 km of canals", "Primary habitat for the European otter", "Reclamation started by monks in the 11th century", "Designated a Regional Natural Park in 1979"],
-    }, image: "/poi-images/france-marais-poitevin-life-v2.webp"},
+    },
+  },
   {
     id: "france-reserve-camargue-life-v2",
     type: "wildlife",
@@ -217,7 +223,8 @@ export const franceLifeV2: POI[] = [
       hu: ["13 117 hektáros központi magterület", "Hivatalosan 1927-ben alapították", "Több mint 270 dokumentált madárfaj", "1977 óta UNESCO bioszféra-rezervátum"],
       ro: ["13.117 hectare de zonă protejată", "Fondată oficial în anul 1927", "Peste 270 de specii de păsări", "Rezervație a Biosferei UNESCO din 1977"],
       en: ["13,117 hectares of core protected area", "Officially established in 1927", "Over 270 documented bird species", "UNESCO Biosphere Reserve since 1977"],
-    }, image: "/poi-images/france-reserve-camargue-life-v2.webp"},
+    },
+  },
   {
     id: "france-vanoise-np-life-v2",
     type: "park",
@@ -248,7 +255,8 @@ export const franceLifeV2: POI[] = [
       hu: ["Alapítva: 1963. július 6-án", "Legmagasabb csúcs: Grande Casse (3855 m)", "A központi zóna területe 52 800 hektár", "Több mint 2500 kőszáli kecske él itt", "107 hegycsúcs magasabb 3000 méternél", "Közös határa van az olasz Gran Paradiso parkkal"],
       ro: ["Creat la data de 6 iulie 1963", "Vârful maxim: Grande Casse (3855 m)", "Suprafața zonei de protecție: 528 km2", "Populație de peste 2500 de capre alpine", "Peste 100 de vârfuri depășesc 3000 m", "Înfrățit cu Parcul Național Gran Paradiso"],
       en: ["Founded on July 6, 1963", "Highest summit is Grande Casse at 3,855 m", "Core protected area spans 528 km2", "Home to over 2,500 Alpine ibexes", "Features 107 peaks exceeding 3,000 meters", "Adjoins Italy's Gran Paradiso National Park"],
-    }, image: "/poi-images/france-vanoise-np-life-v2.webp"},
+    },
+  },
   {
     id: "france-guadeloupe-np-life-v2",
     type: "park",
@@ -279,7 +287,8 @@ export const franceLifeV2: POI[] = [
       hu: ["1989. február 20-án alapították", "17 300 hektár központi terület", "A La Soufrière vulkán 1467 m magas", "1992 óta UNESCO bioszféra-rezervátum"],
       ro: ["Fondat la 20 februarie 1989", "17.300 hectare de zonă centrală", "Vulcanul La Soufrière are 1.467 m", "Rezervație a Biosferei UNESCO din 1992"],
       en: ["Established on February 20, 1989", "17,300 hectares of core area", "La Soufrière volcano is 1,467 m high", "UNESCO Biosphere Reserve since 1992"],
-    }, image: "/poi-images/france-guadeloupe-np-life-v2.webp"},
+    },
+  },
   {
     id: "france-reunion-np-life-v2",
     type: "park",
@@ -342,7 +351,8 @@ export const franceLifeV2: POI[] = [
       hu: ["Területe kb. 3,4 millió hektár", "2007. február 27-én alapították", "Több mint 1200 különböző fafaj", "Kb. 700 madárfaj él a területén"],
       ro: ["Suprafață de circa 3,4 milioane hectare", "Fondat la 27 februarie 2007", "Peste 1.200 de specii de arbori", "Găzduește aproximativ 700 de păsări"],
       en: ["Area of approximately 3.4 million hectares", "Established on February 27, 2007", "Over 1,200 different tree species", "Home to about 700 bird species"],
-    }, image: "/poi-images/france-guyane-amazonienne-life-v2.webp"},
+    },
+  },
   {
     id: "france-jardin-plantes-paris-life-v2",
     type: "park",
@@ -373,7 +383,8 @@ export const franceLifeV2: POI[] = [
       hu: ["28 hektáros parkterület Párizsban", "Az állatkert 1794-ben nyílt meg", "Több mint 2000 növény az alpesi kertben", "4 nagy történelmi üvegház látható"],
       ro: ["Teren de 28 de hectare în Paris", "Menajeria a fost deschisă în 1794", "Peste 2.000 de plante în grădina alpină", "4 sere istorice monumentale"],
       en: ["28-hectare park grounds in Paris", "Menagerie was opened in 1794", "Over 2,000 plants in the Alpine garden", "4 large historic greenhouses"],
-    }, image: "/poi-images/france-jardin-plantes-paris-life-v2.webp"},
+    },
+  },
   {
     id: "france-reserve-sept-iles-life-v2",
     type: "wildlife",
@@ -404,7 +415,8 @@ export const franceLifeV2: POI[] = [
       hu: ["Alapítás éve: 1912", "5 fő szigetből és több sziklából áll", "Körülbelül 20 000 szula-pár fészkel itt", "Bretagne legnagyobb tengeri rezervátuma", "Szürke fókák állandó lakóhelye", "A Rouzic-szigetre tilos a belépés"],
       ro: ["Rezervație creată în anul 1912", "Compusă din 5 insule principale și stânci", "Găzduiește circa 20.000 de perechi de gâște de mare", "Cea mai mare rezervă marină din Bretania", "Sanctuar pentru foca gri de Atlantic", "Accesul pe insula Rouzic este strict interzis"],
       en: ["Established as a sanctuary in 1912", "Consists of 5 main islands and rocky islets", "Hosts roughly 20,000 pairs of Northern gannets", "Largest marine reserve in the Brittany region", "Permanent habitat for Atlantic grey seals", "Landing on Rouzic island is strictly prohibited"],
-    }, image: "/poi-images/france-reserve-sept-iles-life-v2.webp"},
+    },
+  },
   {
     id: "france-jardin-luxembourg-life-v2",
     type: "park",
@@ -435,7 +447,8 @@ export const franceLifeV2: POI[] = [
       hu: ["Építése 1612-ben kezdődött meg", "25 hektáros összterület a városban", "Több mint 100 szobor az egész parkban", "A Szenátus székhelye a palotában"],
       ro: ["Creat începând cu anul 1612", "Suprafață totală de 25 de hectare", "Peste 100 de statui în tot parcul", "Sediul Senatului în palatul parcului"],
       en: ["Created starting from 1612", "25 hectares of total area in Paris", "Over 100 statues throughout the park", "Seat of the Senate in the palace"],
-    }, image: "/poi-images/france-jardin-luxembourg-life-v2.webp"},
+    },
+  },
   {
     id: "france-jardin-tuileries-life-v2",
     type: "park",
@@ -466,7 +479,8 @@ export const franceLifeV2: POI[] = [
       hu: ["Medici Katalin alapította 1564-ben", "Területe körülbelül 28 hektár", "André Le Nôtre tervezte át 1664-ben", "Itt található a híres Orangerie múzeum", "Több mint 200 szobor díszíti a parkot", "Az UNESCO Világörökség része 1991 óta"],
       ro: ["Creată de Caterina de Medici în 1564", "Suprafața totală este de 28 hectare", "Reamenajată de André Le Nôtre în 1664", "Găzduiește prestigiosul Muzeu Orangerie", "Peste 200 de statui și sculpturi expuse", "Parte a sitului UNESCO de pe malul Senei"],
       en: ["Commissioned by Catherine de' Medici in 1564", "Spans approximately 28 hectares", "Redesigned by André Le Nôtre in 1664", "Home to the Musée de l'Orangerie", "Features more than 200 statues and sculptures", "UNESCO World Heritage site since 1991"],
-    }, image: "/poi-images/france-jardin-tuileries-life-v2.webp"},
+    },
+  },
   {
     id: "france-reserve-hauts-plateaux-life-v2",
     type: "park",
@@ -497,7 +511,8 @@ export const franceLifeV2: POI[] = [
       hu: ["A védett terület 17 000 hektár", "Az anyaország legnagyobb rezervátuma", "Nincsenek közutak vagy elektromos vezetékek", "Havasi mormoták és fajdok élőhelye", "Legmagasabb pont: Grand Veymont (2341 m)", "Alapítva: 1985. február 27-én"],
       ro: ["Suprafață totală de 17.000 hectare", "Cea mai întinsă rezervație din Franța metropolitană", "Absența totală a drumurilor și electricității", "Adăpostește marmote și cocoși de munte", "Altitudinea maximă: Grand Veymont (2341 m)", "Fondată oficial la 27 februarie 1985"],
       en: ["Total protected area of 17,000 hectares", "Largest nature reserve in metropolitan France", "No public roads or power lines within borders", "Sanctuary for marmots and black grouse", "Highest elevation is Grand Veymont (2,341 m)", "Established on February 27, 1985"],
-    }, image: "/poi-images/france-reserve-hauts-plateaux-life-v2.webp"},
+    },
+  },
   {
     id: "france-jardin-biologique-life-v2",
     type: "park",
@@ -528,7 +543,8 @@ export const franceLifeV2: POI[] = [
       hu: ["A jobb parti kert 2003-ban nyílt meg", "Területe megközelítőleg 4 hektár", "11 különböző ökológiai tájegységet mutat be", "Hatalmas trópusi növényház található itt", "Délnyugat-Franciaország flórájára fókuszál", "Vizes élőhelyén 300 vízinövényfaj látható"],
       ro: ["Grădină nouă deschisă pe malul drept în 2003", "Suprafața grădinii este de 4 hectare", "Include 11 peisaje ecologice diferite", "Sere tropicale de 750 de metri pătrați", "Accent pe speciile din bazinul Aquitaniei", "Colecție de peste 300 de plante acvatice"],
       en: ["New garden opened on the right bank in 2003", "Covers an area of 4 hectares", "Features 11 distinct ecological landscapes", "Includes a 750 m2 tropical greenhouse", "Focuses on flora of the Aquitaine basin", "Water garden contains over 300 aquatic species"],
-    }, image: "/poi-images/france-jardin-biologique-life-v2.webp"},
+    },
+  },
   {
     id: "france-reserve-bauges-life-v2",
     type: "park",
@@ -559,7 +575,8 @@ export const franceLifeV2: POI[] = [
       hu: ["Regionális park 1995 óta létezik", "2011 óta UNESCO Globális Geopark", "Kb. 90 000 hektáros parkterület", "Több mint 500 zerge él a területen"],
       ro: ["Parc regional înființat în 1995", "Geoparc Global UNESCO din 2011", "Circa 90.000 de hectare de parc", "Adăpostește peste 500 de capre negre"],
       en: ["Regional park existing since 1995", "UNESCO Global Geopark since 2011", "Around 90,000 hectares of park area", "Home to over 500 chamois"],
-    }, image: "/poi-images/france-reserve-bauges-life-v2.webp"},
+    },
+  },
   {
     id: "france-parc-floral-paris-life-v2",
     type: "park",

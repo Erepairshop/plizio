@@ -31,7 +31,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Megnyitás: 2021", "Jellingi kövek: 10. századi rúnakövek", "UNESCO Világörökség: 1994 óta", "Építészet: fa és üveg", "Kiállítási terület: 1200 m²", "Éves látogatók (2022): kb. 100 000"],
       ro: ["Deschidere: 2021", "Pietrele de la Jelling: pietre runice din sec. X", "Patrimoniu UNESCO din: 1994", "Arhitectură: lemn și sticlă", "Suprafață expozițională: 1.200 m²", "Vizitatori pe an (2022): aprox. 100.000"],
       en: ["Opening: 2021", "Jelling stones: runestones from the 10th century", "UNESCO World Heritage since: 1994", "Architecture: wood and glass", "Exhibition area: 1,200 m²", "Annual visitors (2022): approx. 100,000"],
-    }, image: "/poi-images/denmark-kongernes-jelling-center-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-borreby-castle-history-v2",
     type: "castle",
@@ -62,7 +63,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Építési idő: 1550-1560", "Stílus: reneszánsz", "Vizesárok: igen, körbefutó", "Szobák száma: kb. 30", "Park területe: 15 hektár", "Jelenlegi használat: rendezvények"],
       ro: ["Perioada construcției: 1550–1560", "Stil: Renaștere", "Șanț cu apă: da, înconjurător", "Camere: aprox. 30", "Suprafața parcului: 15 hectare", "Utilizare actuală: evenimente"],
       en: ["Construction period: 1550–1560", "Style: Renaissance", "Moated: yes, encircling", "Rooms: approx. 30", "Park area: 15 hectares", "Current use: events"],
-    }, image: "/poi-images/denmark-borreby-castle-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-svendborg-history-museum-v2",
     type: "museum",
@@ -93,7 +95,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Alapítás: 1918", "Gyűjtemény: > 50 000 tárgy", "Hajóroncs: 14. század (kereskedelmi hajó)", "Épület: 19. század", "Gyermek belépő: ingyenes", "Éves látogatók: kb. 30 000"],
       ro: ["Înființare: 1918", "Colecție: > 50.000 de obiecte", "Epavă: secolul al XIV-lea (navă comercială)", "Clădire: secolul al XIX-lea", "Intrare copii: gratuită", "Vizitatori anuali: aprox. 30.000"],
       en: ["Founded: 1918", "Collection: > 50,000 objects", "Shipwreck: 14th century (merchant ship)", "Building: 19th century", "Children admission: free", "Annual visitors: approx. 30,000"],
-    }, image: "/poi-images/denmark-svendborg-history-museum-v2.webp"},
+    },
+  },
   {
     id: "denmark-spottrup-castle-history-v2",
     type: "castle",
@@ -124,7 +127,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Építési idő: 16. század eleje", "Vizesárok: igen, körbefutó", "Tornyok: 2", "Birtok mérete: 40 hektár", "Múzeum: 1940 óta", "Éves látogatók: kb. 50 000"],
       ro: ["Perioada construcției: începutul secolului al XVI-lea", "Șanț cu apă: da, înconjurător", "Turnuri: 2", "Dimensiunea domeniului: 40 de hectare", "Muzeu din: 1940", "Vizitatori anuali: aprox. 50.000"],
       en: ["Construction period: early 16th century", "Moated: yes, encircling", "Towers: 2", "Estate size: 40 hectares", "Museum since: 1940", "Annual visitors: approx. 50,000"],
-    }, image: "/poi-images/denmark-spottrup-castle-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-viking-ring-fortress-aggersborg-history-v2",
     type: "ruins",
@@ -155,7 +159,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["A belső átmérő pontosan 240 méter", "Körülbelül 5000 köbméter tölgyfát használtak fel", "I. (Kékfogú) Harald uralkodása alatt készült", "Az erődítmény 12 blokkra és 48 házra oszlott"],
       ro: ["Diametrul interior măsoară 240 de metri", "Construită în anul 980 sub Harald Dinte Albastru", "Controla traficul naval prin strâmtoarea Limfjord", "Cuprindea 48 de case lungi de tip viking"],
       en: ["Internal diameter of exactly 240 meters", "Constructed around 980 AD by Harald Bluetooth", "Strategic location controlling the Limfjord", "Contained 48 longhouses in a geometric layout"],
-    }, image: "/poi-images/denmark-viking-ring-fortress-aggersborg-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-dragsholm-castle-history-v2",
     type: "castle",
@@ -186,7 +191,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Legrégebbi részek: 13. század", "Torony építése: 16. század", "Szobák: 75", "Híres fogoly: Bothwell grófja (James Hepburn)", "Szálloda: 1970 óta", "Park területe: 20 hektár"],
       ro: ["Cele mai vechi părți: secolul al XIII-lea", "Construcția turnului: secolul al XVI-lea", "Camere: 75", "Deținut celebru: James Hepburn, al 4-lea Conte de Bothwell", "Funcționare ca hotel din: 1970", "Suprafața parcului: 20 de hectare"],
       en: ["Oldest parts: 13th century", "Tower built: 16th century", "Rooms: 75", "Famous prisoner: James Hepburn, 4th Earl of Bothwell", "Hotel operation since: 1970", "Park area: 20 hectares"],
-    }, image: "/poi-images/denmark-dragsholm-castle-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-nysoe-manor-history-v2",
     type: "landmark",
@@ -217,7 +223,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Építés éve: 1673", "Stílus: barokk", "Múzeum: Thorvaldsen Múzeum (1838 óta)", "Gyűjtemény: > 100 szobor", "Kert: angol tájpark (5 hektár)", "Éves látogatók: kb. 20 000"],
       ro: ["Anul construirii: 1673", "Stil: baroc", "Muzeu: Muzeul Thorvaldsen (din 1838)", "Colecție: > 100 de sculpturi", "Grădină: parc peisagistic englezesc (5 hectare)", "Vizitatori pe an: aprox. 20.000"],
       en: ["Year built: 1673", "Style: Baroque", "Museum: Thorvaldsen Museum (since 1838)", "Collection: > 100 sculptures", "Garden: English landscape garden (5 hectares)", "Annual visitors: approx. 20,000"],
-    }, image: "/poi-images/denmark-nysoe-manor-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-viking-ring-fortress-fyrkat-history-v2",
     type: "ruins",
@@ -248,7 +255,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Belső átmérője pontosan 120 méter", "16 darab, egyenként 28,5 méteres hosszúház", "A sáncok magassága elérte a 4 métert", "A közeli temetőben 30 viking sírt tártak fel"],
       ro: ["Diametrul interior este de 120 de metri", "Găzduia 16 case lungi cu lungimea de 28,5 metri", "Fortificația a fost ridicată în jurul anului 980", "Cimitirul adiacent conține 30 de morminte vikinge"],
       en: ["Inner diameter measures 120 meters", "Featured 16 longhouses, each 28.5 meters long", "Constructed around the year 980 AD", "Archaeologists found 30 graves in the cemetery"],
-    }, image: "/poi-images/denmark-viking-ring-fortress-fyrkat-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-viborg-cathedral-history-v2",
     type: "cathedral",
@@ -279,7 +287,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Felszentelés: 1876", "Stílus: neoromán", "Torony magassága: 66 m", "Freskók: Joakim Skovgaard (1901-1913)", "Orgon registerek: 76", "Kripta: 12. század"],
       ro: ["Sfințire: 1876", "Stil: neoromanic", "Înălțime turn: 66 m", "Fresce: Joakim Skovgaard (1901–1913)", "Orgă: 76 de registre", "Criptă: secolul al XII-lea"],
       en: ["Consecration: 1876", "Style: Neo-Romanesque", "Tower height: 66 m", "Frescoes: Joakim Skovgaard (1901–1913)", "Organ: 76 stops", "Crypt: 12th century"],
-    }, image: "/poi-images/denmark-viborg-cathedral-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-hjerl-hede-history-v2",
     type: "museum",
@@ -310,7 +319,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Alapítás: 1930", "Terület: 35 hektár", "Épületek száma: > 30", "Legrégebbi épület: 17. század", "Éves látogatók: kb. 50 000", "Hanga táj: 150 hektár védett terület"],
       ro: ["Fondare: 1930", "Suprafață: 35 de hectare", "Număr clădiri: > 30", "Cea mai veche clădire: secolul al XVII-lea", "Vizitatori anuali: aprox. 50.000", "Peisaj de pădure și mlaștini: 150 de hectare arie protejată"],
       en: ["Founded: 1930", "Area: 35 hectares", "Number of buildings: > 30", "Oldest building: 17th century", "Annual visitors: approx. 50,000", "Heathland: 150 hectares protected area"],
-    }, image: "/poi-images/denmark-hjerl-hede-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-old-town-aarhus-history-v2",
     type: "museum",
@@ -373,7 +383,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Építési idő: 1641-1644", "Stílus: barokk", "Építtető: IV. Keresztély", "Múzeum: vadászati és erdészeti múzeum", "Park: 25 hektár", "Narancsház: 18. század"],
       ro: ["Perioada construcției: 1641–1644", "Stil: baroc", "Constructor: Christian al IV-lea", "Muzeu: muzeul vânătorii și silviculturii", "Parcul: 25 de hectare", "Orangerie: secolul al XVIII-lea"],
       en: ["Construction period: 1641–1644", "Style: Baroque", "Builder: Christian IV", "Museum: hunting and forestry museum", "Park: 25 hectares", "Orangery: 18th century"],
-    }, image: "/poi-images/denmark-valdemars-castle-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-voergaard-castle-history-v2",
     type: "castle",
@@ -404,7 +415,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Ingeborg Skeel építtette 1578-1590 között", "Vizesárkok szélessége: 15 méter", "Gyűjtemény: több mint 100 festmény a 16-19. századból", "Belső alapterület: kb. 2500 négyzetméter", "Saroktornyok magassága: 25 méter", "1947 óta állami tulajdonban"],
       ro: ["Construit între 1578-1590 pentru Ingeborg Skeel", "Lățimea șanțurilor cu apă: până la 15 metri", "Colecția include peste 100 de picturi din secolele XVI-XIX", "Suprafața interioară: cca. 2500 de metri pătrați", "Înălțimea turnurilor de colț: aprox. 25 de metri", "În proprietatea statului danez din 1947"],
       en: ["Construction period: 1578-1590 for Ingeborg Skeel", "Width of moats: up to 15 meters", "Collection includes over 100 paintings from the 16th-19th centuries", "Interior floor area: approximately 2,500 square meters", "Height of corner towers: about 25 meters", "Owned by the Danish state since 1947"],
-    }, image: "/poi-images/denmark-voergaard-castle-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-knud-rasmussen-house-history-v2",
     type: "museum",
@@ -435,7 +447,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["1917-ben épült Knud Rasmussen lakóházaként", "Hét Thule-expedíció 1912 és 1933 között", "Rasmussen 1933. december 21-én hunyt el", "Ház területe: kb. 200 négyzetméter", "1939 óta múzeum", "Könyvtár: több mint 5000 kötet az Északi-sarkvidékről"],
       ro: ["Construită în 1917 ca locuință pentru Knud Rasmussen", "Șapte expediții Thule între 1912 și 1933", "Rasmussen a murit pe 21 decembrie 1933", "Suprafața casei: cca. 200 de metri pătrați", "Muzeu din 1939", "Biblioteca cuprinde peste 5.000 de volume despre Arctica"],
       en: ["Built in 1917 as a residence for Knud Rasmussen", "Seven Thule Expeditions between 1912 and 1933", "Rasmussen died on 21 December 1933", "House area: approximately 200 square meters", "Museum since 1939", "Library contains over 5,000 volumes on the Arctic"],
-    }, image: "/poi-images/denmark-knud-rasmussen-house-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-trelleborg-history-museum-v2",
     type: "museum",
@@ -466,7 +479,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Erőd átmérője: 136 méter", "Épült 980 körül Harald Kékfogú alatt", "Hosszúházak száma: 16", "Feltárás: 1935-1942", "Sánc magassága eredetileg: kb. 5 méter", "UNESCO jelölés: 1995"],
       ro: ["Diametrul cetății: 136 de metri", "Construită în jurul anului 980 sub Harald Dinte Albastră", "Numărul de case lungi: 16", "Excavată între 1935-1942", "Înălțimea inițială a valului: cca. 5 metri", "Nominalizare UNESCO: 1995"],
       en: ["Diameter of fortress: 136 meters", "Built around 980 AD under Harald Bluetooth", "Number of longhouses: 16", "Excavation period: 1935-1942", "Original height of rampart: ca. 5 meters", "UNESCO nomination: 1995"],
-    }, image: "/poi-images/denmark-trelleborg-history-museum-v2.webp"},
+    },
+  },
   {
     id: "denmark-gl-estrup-history-v2",
     type: "castle",
@@ -497,7 +511,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Eredetileg 14. századi vár", "16. században kastéllyá alakították", "Múzeum megnyitása: 1986", "Mezőgazdasági múzeum alapterülete: kb. 5000 m²", "Vizesárok szélessége: 10 méterig", "Barokk kert: 1700 körül kialakítva"],
       ro: ["Construit inițial în secolul al XIV-lea ca fortăreață", "Transformare în conac în secolul al XVI-lea", "Muzeul deschis în 1986", "Suprafața muzeului agricol: cca. 5.000 m²", "Lățimea șanțului cu apă: până la 10 metri", "Grădina barocă amenajată în jurul anului 1700"],
       en: ["Originally built in the 14th century as a fortress", "Converted into manor house in the 16th century", "Museum opened in 1986", "Agricultural museum floor area: ca. 5,000 m²", "Moat width: up to 10 meters", "Baroque garden laid out around 1700"],
-    }, image: "/poi-images/denmark-gl-estrup-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-aarhus-cathedral-history-v2",
     type: "cathedral",
@@ -528,7 +543,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Teljes hossz: 93 méter", "Torony magassága: 96 méter", "Építés kezdete: 1200 körül", "Gótikus átépítés: 15. század", "Orgona 1730-ból (1700 síp)", "Aranyoltár: 15. századi aranyozott tölgy"],
       ro: ["Lungime totală: 93 de metri", "Înălțimea turnului: 96 de metri", "Începutul construcției: în jurul anului 1200", "Reconstructie gotică în secolul al XV-lea", "Orga din 1730 (1700 de tuburi)", "Altarul din lemn de stejar aurit (sec. XV)"],
       en: ["Total length: 93 meters", "Tower height: 96 meters", "Construction started around 1200", "Gothic reconstruction in the 15th century", "Organ from 1730 (1700 pipes)", "Altar of gilded oak (15th century)"],
-    }, image: "/poi-images/denmark-aarhus-cathedral-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-knudshoved-fort-history-v2",
     type: "ruins",
@@ -591,7 +607,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Öt hajót emeltek ki 1962-ben", "A hajók a 11. századból származnak", "Múzeum megnyitása: 1969", "Legnagyobb hajó: 30 méter hosszú", "Csarnok területe: kb. 4000 négyzetméter", "Éves látogatók: kb. 200 000"],
       ro: ["Cinci nave recuperate în 1962", "Navele datează din secolul al XI-lea", "Muzeul deschis în 1969", "Cea mai mare navă: 30 de metri lungime", "Suprafața sălii: cca. 4.000 m²", "Vizitatori anuali: aproximativ 200.000"],
       en: ["Five ships recovered in 1962", "Ships from the 11th century", "Museum opened in 1969", "Largest ship: 30 meters long", "Hall area: approximately 4,000 sq m", "Annual visitors: about 200,000"],
-    }, image: "/poi-images/denmark-roskilde-viking-ship-museum-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-liselund-castle-history-v2",
     type: "castle",
@@ -622,7 +639,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Épült 1792-1795 között", "Építész: Joseph Guione", "Park mérete: kb. 15 hektár", "Szobák száma: 12", "Kínai pavilon: 1794-ben épült", "1973 óta múzeum"],
       ro: ["Construit între 1792-1795", "Arhitect: Joseph Guione", "Dimensiunea parcului: cca. 15 hectare", "Numărul de camere: 12", "Pavilionul chinezesc construit în 1794", "Muzeu din 1973"],
       en: ["Built 1792-1795", "Architect: Joseph Guione", "Park size: approximately 15 hectares", "Number of rooms: 12", "Chinese pavilion built in 1794", "Museum since 1973"],
-    }, image: "/poi-images/denmark-liselund-castle-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-esbjerg-water-tower-history-v2",
     type: "tower",
@@ -685,7 +703,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Építés: 12. század", "Helyszín: Fyn, Dánia", "Bővítés: 13. század, VI. Erik", "Funkció: királyi rezidencia, országgyűlés, börtön", "Felújítás: 20. század", "Jelenleg: múzeum"],
       ro: ["Construcție: sec. XII", "Locație: Funen, Danemarca", "Extindere: sec. XIII de Erik VI", "Funcție: reședință regală, dietă, închisoare", "Restaurare: sec. XX", "Astăzi: muzeu"],
       en: ["Built: 12th century (c. 1170)", "Location: Funen, Denmark", "Expansion: 13th century under King Eric VI", "Functions: royal residence, parliament, prison", "Restoration: 20th century", "Current use: museum"],
-    }, image: "/poi-images/denmark-nyborg-castle-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-hammel-water-mill-history-v2",
     type: "landmark",
@@ -716,7 +735,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Építés: 19. század", "Helyszín: Hammel, Dánia", "Hajtás: vízenergia", "Funkció: gabonaőrlő malom", "Felújítás: 1960", "Jelenleg: műszaki múzeum"],
       ro: ["An construcție: sec. XIX", "Locație: Hammel, Danemarca", "Sursă de energie: apă", "Funcție: măcinat cereale", "Restaurare: 1960", "Actual: muzeu tehnic"],
       en: ["Built: 19th century", "Location: Hammel, Denmark", "Power source: water", "Function: grain milling", "Restored: 1960", "Current use: technical museum"],
-    }, image: "/poi-images/denmark-hammel-water-mill-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-gammel-estrup-manor-history-v2",
     type: "museum",
@@ -747,7 +767,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Építés: 16. század", "Stílus: reneszánsz", "Építtető: Brok család", "Bővítés: Skeel család", "Jelenlegi funkció: arisztokrata múzeum, mezőgazdasági múzeum", "Park: barokk"],
       ro: ["Construcție: sec. XVI", "Stil: renascentist", "Fondatori: familia Brok", "Extindere: familia Skeel", "Folosință actuală: muzeu al nobilimii, muzeu agricol", "Parcul: baroc"],
       en: ["Built: 16th century", "Style: Renaissance", "Original builder: Brok family", "Expansion: Skeel family", "Current use: aristocracy museum, agricultural museum", "Park: Baroque"],
-    }, image: "/poi-images/denmark-gammel-estrup-manor-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-holmens-church-history-v2",
     type: "church",
@@ -778,7 +799,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Építés: 1619", "Építész: Nicolas Tessin", "Stílus: holland reneszánsz", "Eredeti funkció: horgonykovács műhely", "Temetkezési hely: Niels Juel", "Helyszín: Koppenhága"],
       ro: ["An construcție: 1619", "Arhitect: Nicolas Tessin", "Stil: renascentist olandez", "Funcție originală: forjă ancore", "Loc de înmormântare: Niels Juel", "Locație: Copenhaga, Danemarca"],
       en: ["Built: 1619", "Architect: Nicolas Tessin", "Style: Dutch Renaissance", "Original use: anchor forge", "Burial site: Niels Juel", "Location: Copenhagen, Denmark"],
-    }, image: "/poi-images/denmark-holmens-church-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-kristiansfeld-history-v2",
     type: "museum",
@@ -841,7 +863,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["1805-ben épült szülőház", "Múzeum megnyitása: 1905", "Évi 200.000 látogató", "2021-es felújítás", "Kiállítási terület: 2.500 m²", "Gyűjtemény: 10.000 tárgy"],
       ro: ["Casă natală construită în 1805", "Muzeu deschis în 1905", "200.000 vizitatori anual", "Modernizare finalizată în 2021", "Suprafață expozițională: 2.500 m²", "Colecție: 10.000 obiecte"],
       en: ["Birthplace built in 1805", "Museum opened in 1905", "200,000 visitors annually", "Renovation completed in 2021", "Exhibition area of 2,500 m²", "Collection of 10,000 items"],
-    }, image: "/poi-images/denmark-hans-christian-andersen-house-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-kalundborg-church-history-v2",
     type: "church",
@@ -936,7 +959,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Megnyitva 1988", "Kiállítási terület 3.000 m²", "Gyűjtemény 1.000 mű", "Szoborpark 2 hektár", "Évi 100.000 látogató", "Építész: Poul Kjærholm"],
       ro: ["Deschis în 1988", "Suprafață expozițională 3.000 m²", "Colecție: 1.000 de lucrări", "Parcul de sculpturi: 2 ha", "100.000 de vizitatori anual", "Arhitect: Poul Kjærholm"],
       en: ["Opened in 1988", "Exhibition area 3,000 m²", "Collection: 1,000 works", "Sculpture park: 2 hectares", "100,000 visitors annually", "Architect: Poul Kjærholm"],
-    }, image: "/poi-images/denmark-trapholt-museum-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-faaborg-museum-history-v2",
     type: "museum",
@@ -999,7 +1023,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Alapítva 1161", "Téglatemplom", "Hossz 60 m", "Királysírok: 4", "Akusztika híres", "Műemlék 1880 óta"],
       ro: ["Fondată în 1161", "Biserică de cărămidă", "Lungime 60 m", "Morminte regale: 4", "Acustică renumită", "Monument cultural din 1880"],
       en: ["Founded in 1161", "Brick church", "Length 60 m", "Royal tombs: 4", "Famous acoustics", "Cultural monument since 1880"],
-    }, image: "/poi-images/denmark-soro-monastery-church-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-børsen-history-v2",
     type: "landmark",
@@ -1030,7 +1055,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Épült 1619–1640", "Építész: Lorenz van Steenwinckel", "Torony magasság 56 m", "Anyag: tégla és homokkő", "Hossz 75 m", "Műemlék 1918 óta"],
       ro: ["Construit 1619–1640", "Arhitect: Lorenz van Steenwinckel", "Înălțimea turnului 56 m", "Material: cărămidă și gresie", "Lungime 75 m", "Monument cultural din 1918"],
       en: ["Built 1619–1640", "Architect: Lorenz van Steenwinckel", "Spire height 56 m", "Material: brick and sandstone", "Length 75 m", "Cultural monument since 1918"],
-    }, image: "/poi-images/denmark-børsen-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-stenstrup-mill-history-v2",
     type: "landmark",
@@ -1061,7 +1087,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["A malom építésének éve: 1824", "Vízikerék átmérője: 6,2 méter", "Az épület magassága: 12,5 méter", "Eredeti funkció: gabonamalom", "Őrlők száma: 2", "Felújítás éve: 1987"],
       ro: ["Anul construcției: 1824", "Diametrul roții de apă: 6,2 metri", "Înălțimea clădirii: 12,5 metri", "Funcția originală: moară de cereale", "Numărul de pietre de moară: 2", "Anul restaurării: 1987"],
       en: ["Year of construction: 1824", "Waterwheel diameter: 6.2 m", "Building height: 12.5 m", "Original use: grain mill", "Number of millstones: 2", "Restoration year: 1987"],
-    }, image: "/poi-images/denmark-stenstrup-mill-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-skanderborg-castle-ruins-history-v2",
     type: "ruins",
@@ -1092,7 +1119,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["A 12. század végén emelték az első erődítményt a helyszínen", "IV. Keresztély dán király itt töltötte ifjúságát", "A komplexumot 1767-ben elárverezték építőanyagnak", "A napjainkban is álló megmaradt templom 1572-ből származik", "Egyetlen kör alakú torony maradt fenn az eredeti védművekből", "A szomszédos tó felületének kiterjedése eléri a 8,6 négyzetkilométert"],
       ro: ["Ridicarea fortăreței medievale a început în secolul al XII-lea", "Extinderea renascentistă a complexului s-a finalizat în 1560", "Palatul principal avea o lungime de aproximativ 60 de metri", "Biserica castelului a supraviețuit demolării ordonate în 1767", "În secolul XVI au fost adăugate 4 turnuri noi de colț", "Lacul adiacent castelului acoperă o suprafață totală de 8.6 km²"],
       en: ["Established as a royal fortress during the 12th century", "Converted to a Renaissance hunting lodge starting in 1560", "King Christian IV resided here extensively during his youth", "Sold and primarily demolished for building stone in 1767", "The surviving brick castle church dates back to 1572", "Located on a small peninsula in the 8.6 km² Skanderborg Lake"],
-    }, image: "/poi-images/denmark-skanderborg-castle-ruins-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-viking-stone-stenstrup-history-v2",
     type: "monument",
@@ -1123,7 +1151,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Magasság: 2,1 méter", "Anyag: gránit", "Felfedezés éve: 1852", "Felirat: Tóki harcos emlékére", "Keltezés: 10. század", "Helyszín: eredeti helyén"],
       ro: ["Înălțime: 2,1 metri", "Material: granit", "Anul descoperirii: 1852", "Inscripție: comemorarea războinicului Tóki", "Datare: secolul al X-lea", "Locație: locul original"],
       en: ["Height: 2.1 m", "Material: granite", "Discovery year: 1852", "Inscription: commemorates warrior Tóki", "Dating: 10th century", "Location: original site"],
-    }, image: "/poi-images/denmark-viking-stone-stenstrup-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-odense-cathedral-history-v2",
     type: "cathedral",
@@ -1154,7 +1183,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Építés ideje: 13. század", "Torony magassága: 70 méter", "Hajó hossza: 52 méter", "Boltív magassága: 22 méter", "Szent Knut ereklyéjének éve: 1100", "Harangok száma: 5"],
       ro: ["Perioada de construcție: secolul al XIII-lea", "Înălțimea turnului: 70 m", "Lungimea navei: 52 m", "Înălțimea bolții: 22 m", "Anul relicvei Sfântului Knud: 1100", "Număr de clopote: 5"],
       en: ["Construction period: 13th century", "Tower height: 70 m", "Nave length: 52 m", "Vault height: 22 m", "Year of St. Knud's relic: 1100", "Number of bells: 5"],
-    }, image: "/poi-images/denmark-odense-cathedral-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-kolding-old-bridge-history-v2",
     type: "bridge",
@@ -1185,7 +1215,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Építés éve: 1901", "Hossz: 125 méter", "Ívek száma: 3", "Anyag: acélrácsos szerkezet", "Víz feletti magasság: 8 méter", "Szélesség: 5,5 méter"],
       ro: ["Anul construcției: 1901", "Lungime: 125 m", "Număr de arcuri: 3", "Material: oțel cu zăbrele", "Înălțime deasupra apei: 8 m", "Lățime: 5,5 m"],
       en: ["Year built: 1901", "Length: 125 m", "Number of arches: 3", "Material: steel truss", "Height above water: 8 m", "Width: 5.5 m"],
-    }, image: "/poi-images/denmark-kolding-old-bridge-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-svendborg-church-history-v2",
     type: "church",
@@ -1216,7 +1247,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Építés ideje: 13. század", "Torony magassága: 63 méter", "Hajó hossza: 45 méter", "Hajó szélessége: 15 méter", "Freskók száma: 12", "Felújítás a 19. században: 1860"],
       ro: ["Perioada de construcție: secolul al XIII-lea", "Înălțimea turnului: 63 m", "Lungimea navei: 45 m", "Lățimea navei: 15 m", "Număr de fresce: 12", "Renovare în secolul al XIX-lea: 1860"],
       en: ["Construction period: 13th century", "Tower height: 63 m", "Nave length: 45 m", "Nave width: 15 m", "Number of frescoes: 12", "19th-century renovation: 1860"],
-    }, image: "/poi-images/denmark-svendborg-church-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-aarhus-theater-history-v2",
     type: "theater",
@@ -1247,7 +1279,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Megnyitás éve: 1916", "Ülőhelyek száma: 1.400", "Színpadok száma: 3", "Építészeti stílus: szecesszió", "Éves előadások száma: 300+", "Színpadtorony magassága: 25 méter"],
       ro: ["Anul deschiderii: 1916", "Număr de locuri: 1.400", "Număr de scene: 3", "Stil arhitectural: Art Nouveau", "Spectacole anuale: 300+", "Înălțimea turnului scenei: 25 m"],
       en: ["Opening year: 1916", "Seating capacity: 1,400", "Number of stages: 3", "Architectural style: Art Nouveau", "Annual performances: 300+", "Stage tower height: 25 m"],
-    }, image: "/poi-images/denmark-aarhus-theater-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-hvidovre-church-history-v2",
     type: "church",
@@ -1278,7 +1311,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Építés ideje: 12. század", "Anyag: terméskő", "Torony hozzáadása: 15. század", "Torony magassága: 30 méter", "Freskók száma: 8", "Védettség: műemlék"],
       ro: ["Perioada de construcție: secolul al XII-lea", "Material: piatră de câmp", "Adăugarea turnului: secolul al XV-lea", "Înălțimea turnului: 30 m", "Număr de fresce: 8", "Statut de protecție: monument cultural"],
       en: ["Construction period: 12th century", "Material: fieldstone", "Tower added: 15th century", "Tower height: 30 m", "Number of lime paintings: 8", "Protection status: cultural monument"],
-    }, image: "/poi-images/denmark-hvidovre-church-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-skagen-church-history-v2",
     type: "church",
@@ -1341,7 +1375,8 @@ export const denmarkHistoryV2: POI[] = [
       hu: ["Magasság: 2,85 méter", "Súly: 9 tonna", "Keltezés: 9. század", "Felirat: Ragnhild", "Írás: ófuthark", "Felfedezés éve: 1802"],
       ro: ["Înălțime: 2,85 m", "Greutate: 9 tone", "Datare: secolul al IX-lea", "Inscripție: Ragnhild", "Scriere: futhark vechi", "Anul descoperirii: 1802"],
       en: ["Height: 2.85 m", "Weight: 9 tons", "Dating: 9th century", "Inscription: Ragnhild", "Script: Elder Futhark", "Discovery year: 1802"],
-    }, image: "/poi-images/denmark-viking-stone-glavendrup-history-v2.webp"},
+    },
+  },
   {
     id: "denmark-kolding-st-nicolai-church-history-v2",
     type: "church",

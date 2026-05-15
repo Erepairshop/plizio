@@ -31,7 +31,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1863-as befejezés", "Jan Nevole tervezte", "Romantikus stílus", "Egyetemi rektorátus", "10 000 m2 terület", "Nemzeti kulturális kincs"],
       ro: ["Finalizat în 1863", "Stil arhitectural romantic", "Arhitect Jan Nevole", "Sediul Universității", "Donat de Mișa Anastasijević", "Monument de cultură"],
       en: ["Completed in 1863", "Architect Jan Nevole", "Romanticist style", "University Rectorate", "Cultural heritage site", "Gift to the nation"],
-    }, image: "/poi-images/serbia-kapetan-misa-palace-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-serbian-national-museum-landmarks-v2",
     type: "museum",
@@ -62,7 +63,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1844-es alapítás", "1903-as épület", "400 000 kiállítási tárgy", "A Köztársaság téren áll", "2018-as újranyitás", "Európai mesterművek"],
       ro: ["Fondat în 1844", "Clădire din 1903", "400.000 de piese", "Piața Republicii", "Renovare majoră 2018", "Galerie de artă europeană"],
       en: ["Founded in 1844", "Current building 1903", "400,000 artifacts", "Republic Square location", "Reopened in 2018", "Masterpieces collection"],
-    }, image: "/poi-images/serbia-serbian-national-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-subotica-city-hall-landmarks-v2",
     type: "palace",
@@ -125,7 +127,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1941-es befejezés", "40 000 katona nyughelye", "Kolubarai csata emléke", "Szerb-bizánci stílus", "Ivan Afanaszjev építész", "Lazarevac jelképe"],
       ro: ["Construită 1938-1941", "40.000 de oseminte", "Bătălia de la Kolubara", "Stil sârbo-bizantin", "Arhitect Ivan Afanasjev", "Monument clasa I"],
       en: ["Built 1938-1941", "40,000 fallen soldiers", "Kolubara Battle memorial", "Serbo-Byzantine style", "Ivan Afanasjev architect", "Lazarevac town center"],
-    }, image: "/poi-images/serbia-lazarevac-memorial-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-golubac-fortress-gate-landmarks-v2",
     type: "landmark",
@@ -156,7 +159,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["A vár 9 toronnyal rendelkezik", "A kapu boltíve 4 m magas", "A vár területe 0,5 ha", "A Duna itt 1 km széles", "A kaput 1870-ben restaurálták", "Évente 80.000 látogató"],
       ro: ["Altitudine: 50 m deasupra Dunării", "Anul construirii: 1345", "Lățimea porții: 5 m", "Înălțimea turnurilor: 20 m", "Numărul de turnuri: 9", "Vizitatori anual: 100.000"],
       en: ["Built in the 14th century", "Gate width: 5 m, height: 8 m", "Flanking towers: 20 m tall", "Elevation: 50 m above Danube", "Annual visitors: 100,000", "UNESCO World Heritage since 2017"],
-    }, image: "/poi-images/serbia-golubac-fortress-gate-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-prizren-stone-bridge-landmarks-v2",
     type: "bridge",
@@ -219,7 +223,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["A színház 8.000 m² alapterületű", "A nézőtér 3 szintből áll", "Évente 300 előadást tartanak", "A színház 500 alkalmazottat foglalkoztat", "Az épület 25 m magas", "1990-ben újították fel"],
       ro: ["Anul construirii: 1869", "Capacitate: 1000 de locuri", "Numărul de ansambluri: 3", "Renovări: 1922, 1989", "Înălțimea clădirii: 25 m", "Suprafață: 8.000 m²"],
       en: ["Built in 1869", "Seating capacity: 1,000", "Three ensembles: Opera, Ballet, Drama", "Renovations in 1922 and 1989", "Building height: 25 m", "Area: 8,000 m²"],
-    }, image: "/poi-images/serbia-belgrade-national-theater-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-kragujevac-old-parliament-landmarks-v2",
     type: "landmark",
@@ -282,7 +287,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["A palota 10.000 m² alapterületű", "A kupola magassága 30 m", "A palotában 150 szoba található", "Az építés költsége 2 millió aranykorona volt", "1914-ben súlyosan megsérült", "2000-ben újították fel"],
       ro: ["Anul construirii: 1884", "Arhitect: Aleksandar Bugarski", "Suprafață: 10.000 m²", "Număr de camere: 150", "Înălțimea cupolei: 30 m", "Renovare: 2000"],
       en: ["Built in 1884", "Architect: Aleksandar Bugarski", "Floor area: 10,000 m²", "Number of rooms: 150", "Dome height: 30 m", "Renovation: 2000"],
-    }, image: "/poi-images/serbia-stari-dvor-belgrade-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-niš-fortress-landmarks-v2",
     type: "landmark",
@@ -313,7 +319,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1723-as befejezés", "22 hektár terület", "A Nišava partján", "Római alapok", "Isztambuli kapu", "Nišville Jazz Fesztivál"],
       ro: ["Finalizată în 1723", "Suprafață 22 hectare", "Malul râului Nișava", "Fundații romane", "Poarta Stambul", "Festivalul de Jazz Nișville"],
       en: ["Completed in 1723", "22 hectares area", "Nišava river bank", "Roman foundations", "Stambul Gate", "Nišville Jazz Festival site"],
-    }, image: "/poi-images/serbia-niš-fortress-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-kralj-petar-statue-landmarks-v2",
     type: "monument",
@@ -344,7 +351,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["A szobor lova 3 m magas", "A szobor bronzból készült", "A talapzaton 4 dombormű található", "A szobor 1980-ban készült", "A király élt 1844-1921", "A szobor a Duna felé néz"],
       ro: ["Anul dezvelirii: 1980", "Înălțimea statuii: 5 m", "Material: bronz", "Regele a domnit 1903-1918", "Soclul: piatră, 2 m", "Greutatea: 3 tone"],
       en: ["Unveiled 1980", "Material: bronze", "Height: 5 m", "Pedestal height: 2 m", "King's reign: 1903-1918", "Weight: 3 tonnes"],
-    }, image: "/poi-images/serbia-kralj-petar-statue-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-subotica-synagogue-landmarks-v2",
     type: "landmark",
@@ -375,7 +383,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["A zsinagóga 50 m hosszú", "A kupola átmérője 20 m", "Az épület 1000 m² alapterületű", "A belső tér 25 m magas", "A felújítás költsége 10 millió euró volt", "2010 óta kulturális központ"],
       ro: ["Anul construirii: 1901-1902", "Arhitecți: Komor și Jakab", "Înălțimea cupolei: 40 m", "Suprafață: 1.000 m²", "Capacitate: 500 de locuri", "Restaurare: 2010"],
       en: ["Built 1901-1902", "Architects: Komor and Jakab", "Dome height: 40 m", "Stained glass area: 200 m²", "Seating capacity: 500", "Restored 2010"],
-    }, image: "/poi-images/serbia-subotica-synagogue-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-smederevo-church-landmarks-v2",
     type: "church",
@@ -406,7 +415,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["A templom 800 férőhelyes", "A harangtoronyban 3 harang van", "A freskók 1880-ban készültek", "A templom területe 700 m²", "A kupola átmérője 12 m", "A templomot 1990-ben szentelték fel"],
       ro: ["Anul construirii: 1850-1860", "Lungime: 35 m", "Înălțimea cupolei: 25 m", "Înălțimea clopotniței: 30 m", "Capacitate: 800 de locuri", "Renovare: 1990"],
       en: ["Built 1850-1860", "Length: 35 m", "Dome height: 25 m", "Bell tower: 30 m", "Seating capacity: 800", "Iconostasis from 1870"],
-    }, image: "/poi-images/serbia-smederevo-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-valjevo-museum-landmarks-v2",
     type: "museum",
@@ -437,7 +447,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1795-ös épület", "Valjevo legrégebbi háza", "1804-es események", "Történelmi börtön", "Regionális gyűjtemény", "Oszmán-szerb stílus"],
       ro: ["Construit în 1795", "Cea mai veche casă", "Răscoala din 1804", "Închisoare istorică", "Muzeu regional", "Arhitectură balcanică"],
       en: ["Built in 1795", "Oldest house in Valjevo", "1804 Uprising link", "Historic prison site", "Regional museum", "Balkan vernacular style"],
-    }, image: "/poi-images/serbia-valjevo-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-vrsac-tower-landmarks-v2",
     type: "tower",
@@ -468,7 +479,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["A torony 10 emeletes", "A falvastagság 1,5 m", "A toronyból 3 megye látható", "A torony 1896 óta kilátó", "A torony 50 lépcsőfokkal rendelkezik", "2010-ben újították fel"],
       ro: ["Anul construirii: secolul al XIII-lea", "Înălțime: 40 m", "Altitudine: 300 m", "Restaurare: 1895", "Diametru: 8 m", "Vizitatori anual: 20.000"],
       en: ["Built in the 13th century", "Height: 40 m", "Elevation: 300 m above sea level", "Restored in 1895", "Diameter: 8 m", "Annual visitors: 20,000"],
-    }, image: "/poi-images/serbia-vrsac-tower-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-zajecar-museum-landmarks-v2",
     type: "museum",
@@ -499,7 +511,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["A múzeumban 3 állandó kiállítás van", "A régészeti gyűjtemény 20.000 tárgyból áll", "A múzeum 1970-ben költözött jelenlegi helyére", "A múzeum könyvtára 5.000 kötetet tartalmaz", "A múzeum nyitva tartása: kedd-vasárnap 10-18", "A múzeum udvarán római kori kőtár található"],
       ro: ["Anul înființării: 1951", "Număr de obiecte: 50.000", "Patru secții", "Vizitatori anual: 15.000", "Suprafață: 1.000 m²", "Taxă de intrare: 200 RSD"],
       en: ["Founded 1951", "Collection: 50,000 objects", "Four departments", "Annual visitors: 15,000", "Area: 1,000 m²", "Entrance fee: 200 RSD"],
-    }, image: "/poi-images/serbia-zajecar-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-pirot-momcilov-grad-landmarks-v2",
     type: "castle",
@@ -562,7 +575,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["A palota 2.000 m² alapterületű", "A belső udvar 200 m²", "A palotában 20 szoba van", "Az építés költsége 1 millió korona volt", "A tetőt cserepek borítják", "2010-ben újították fel"],
       ro: ["Anul construirii: 1904", "Arhitecți: Komor și Jakab", "Suprafață: 2.000 m²", "Număr de camere: 20", "Vitralii Zsolnay", "Restaurare: 2000"],
       en: ["Built in 1904", "Architects: Komor and Jakab", "Floor area: 2,000 m²", "Number of rooms: 20", "Stained glass by Zsolnay", "Restored 2000"],
-    }, image: "/poi-images/serbia-subotica-raichle-palace-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-belgrade-ethnographic-museum-landmarks-v2",
     type: "museum",
@@ -593,7 +607,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1901-es alapítás", "160 000 tárgy", "Egykori tőzsde épülete", "Belgrád, Diák tér", "Népviseleti gyűjtemény", "Kulturális örökség"],
       ro: ["Fondat în 1901", "160.000 de obiecte", "Fosta Bursă de Valori", "Piața Studenților", "Colecție de costume", "Cercetare etnologică"],
       en: ["Founded in 1901", "160,000 items", "Former Stock Exchange", "Students' Square location", "Traditional costumes", "Folk life research"],
-    }, image: "/poi-images/serbia-belgrade-ethnographic-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-uzice-old-hydroelectric-plant-landmarks-v2",
     type: "landmark",
@@ -624,7 +639,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1900-as építés", "Đetinja folyó", "Tesla váltóáramú elve", "Szerbia első erőműve", "Múzeum 1970 óta", "Siemens berendezések"],
       ro: ["Construită în 1900", "Râul Đetinja", "Principiile lui Tesla", "Prima din Serbia", "Muzeu din 1970", "Echipamente Siemens"],
       en: ["Built in 1900", "Đetinja River site", "Tesla AC system", "Serbia's first plant", "Museum since 1970", "Original Siemens gear"],
-    }, image: "/poi-images/serbia-uzice-old-hydroelectric-plant-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-cacak-national-museum-landmarks-v2",
     type: "museum",
@@ -655,7 +671,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1952-es alapítás", "Vármegyeháza épülete", "Régészeti leletek", "Kőkortól napjainkig", "Hadži Prodan felkelés", "Čačak jelképe"],
       ro: ["Fondat în 1952", "Clădire administrativă", "Descoperiri arheologice", "Din neolitic în prezent", "Răscoala lui Prodan", "Centrul orașului Čačak"],
       en: ["Founded in 1952", "Former district hall", "Archaeological finds", "Stone Age to modern", "Hadži Prodan revolt", "Čačak city center"],
-    }, image: "/poi-images/serbia-cacak-national-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-krusevac-lazarev-grad-landmarks-v2",
     type: "landmark",
@@ -686,7 +703,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1371-es építés", "Lázár fejedelem vára", "Lazarica-templom", "Szerbia fővárosa volt", "Donjon-torony romjai", "Kruševac történelmi magja"],
       ro: ["Construită în 1371", "Prințul Lazăr", "Biserica Lazarica", "Capitala Serbiei", "Ruinele turnului Donjon", "Centrul Kruševac"],
       en: ["Built in 1371", "Prince Lazar's capital", "Lazarica Church", "Medieval capital city", "Donjon tower ruins", "Kruševac landmark"],
-    }, image: "/poi-images/serbia-krusevac-lazarev-grad-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-subotica-national-theater-landmarks-v2",
     type: "theater",
@@ -717,7 +735,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1854-es építés", "Legrégebbi kőszínház", "Korinthoszi oszlopok", "Klasszicista stílus", "2007-es felújítás", "Kulturális emlékhely"],
       ro: ["Construit în 1854", "Cel mai vechi teatru", "Coloane corintice", "Stil neoclasic", "Renovare majoră 2007", "Simbol local"],
       en: ["Built in 1854", "Oldest stone theater", "Corinthian columns", "Neoclassical style", "Restoration since 2007", "Cultural heritage site"],
-    }, image: "/poi-images/serbia-subotica-national-theater-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-belgrade-terazije-fountain-landmarks-v2",
     type: "monument",
@@ -748,7 +767,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["A szökőkutat 1860-ban avatták fel.", "A tér 1200 négyzetméteres területen fekszik.", "A szökőkút magassága 4,5 méter.", "A madárkalitka átmérője 0,8 méter.", "A szökőkút 2012-es felújítása 15 millió dinárba került.", "A Hotel Moskva 1906-ban épült a tér mellett."],
       ro: ["Fântâna a fost construită în 1860.", "Coloana centrală are 4,5 metri înălțime.", "Bazinul fântânii are o suprafață de 36 de metri pătrați.", "Restaurarea din 2012 a costat 15 milioane de dinari sârbești.", "Fântâana făcea parte din primul sistem de apă al Belgradului.", "Hotelul Moskva din apropiere datează din 1906."],
       en: ["The fountain was built in 1860.", "Its central column is 4.5 meters tall.", "The basin covers an area of 36 square meters.", "The 2012 renovation cost 15 million Serbian dinars.", "It was part of Belgrade's first piped water system.", "Nearby Hotel Moskva was constructed in 1906."],
-    }, image: "/poi-images/serbia-belgrade-terazije-fountain-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-negotin-mokranjac-museum-landmarks-v2",
     type: "museum",
@@ -779,7 +799,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["Stevan Mokranjac háza", "Zeneszerző múzeuma", "Negotin központja", "19. századi ház", "Eredeti kották", "Mokranjac-napok helyszíne"],
       ro: ["Casa Stevan Mokranjac", "Muzeu de muzică", "Centrul Negotin", "Secolul al XIX-lea", "Manuscrise muzicale", "Festivalul Mokranjčevi dani"],
       en: ["Stevan Mokranjac house", "Composer's museum", "Negotin town center", "19th-century building", "Original scores", "Mokranjac Days festival"],
-    }, image: "/poi-images/serbia-negotin-mokranjac-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-topola-karadjordje-church-landmarks-v2",
     type: "church",
@@ -810,7 +831,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1811-es építés", "Karađorđe Petrović", "Topolai épületegyüttes", "Karađorđević-ház", "Hagyományos freskók", "Történelmi emlékhely"],
       ro: ["Ctitorită în 1811", "Karađorđe Petrović", "Complexul Topola", "Dinastia Karađorđević", "Stil tradițional", "Fresce interioare"],
       en: ["Built in 1811", "Karađorđe Petrović", "Topola complex", "Karađorđević dynasty", "Balkan style", "Original frescoes"],
-    }, image: "/poi-images/serbia-topola-karadjordje-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-zrenjanin-city-hall-landmarks-v2",
     type: "palace",
@@ -841,7 +863,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1820-as építés", "Neobarokk stílus", "1887-es átépítés", "Róth Miksa üvegablakai", "Városháza park", "Bánság központja"],
       ro: ["Construită în 1820", "Stil neobaroc", "Refăcută în 1887", "Vitralii artistice", "Centrul Zrenjanin", "Parcul primăriei"],
       en: ["Built in 1820", "Neo-Baroque style", "Redesign in 1887", "Stained glass art", "Zrenjanin center", "Adjacent city park"],
-    }, image: "/poi-images/serbia-zrenjanin-city-hall-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-smederevo-library-landmarks-v2",
     type: "landmark",
@@ -872,7 +895,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["A könyvtárat 1866-ban alapították.", "Az épület 1880-ban épült.", "Az állomány 200.000 dokumentumból áll.", "Évente 10.000 látogatót fogad.", "A könyvtár alapterülete 1.500 négyzetméter.", "Legrégebbi könyve 1701-ből való."],
       ro: ["Biblioteca a fost fondată în 1866.", "Clădirea datează din 1880.", "Colecția include 200.000 de volume.", "Biblioteca are o suprafață de 1.500 m².", "Primește 10.000 de vizitatori anual.", "Cea mai veche carte datează din 1701."],
       en: ["The library was founded in 1866.", "The building was constructed in 1880.", "It houses over 200,000 items.", "The library area is 1,500 square meters.", "It receives 10,000 visitors annually.", "The oldest book dates from 1701."],
-    }, image: "/poi-images/serbia-smederevo-library-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-vranje-konak-pasin-landmarks-v2",
     type: "palace",
@@ -903,7 +927,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1765-ös építés", "Raif-pasa konakja", "Oszmán építészet", "Két külön épület", "Vranje Nemzeti Múzeum", "Hárem és Szelamluk"],
       ro: ["Construit în 1765", "Reședința lui Raif Pașa", "Stil otoman", "Două clădiri separate", "Muzeul Național Vranje", "Haremlik și Selamluk"],
       en: ["Built in 1765", "Raif Pasha's residence", "Ottoman architecture", "Two distinct buildings", "Vranje National Museum", "Haremlik and Salamluk"],
-    }, image: "/poi-images/serbia-vranje-konak-pasin-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-nis-skull-tower-monument-landmarks-v2",
     type: "monument",
@@ -934,7 +959,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1809-ben épült", "Čegari csata után", "Eredetileg 952 koponya", "Ma 58 koponya látható", "Niš történelmi emléke", "Kápolnával védve"],
       ro: ["Construit în 1809", "Bătălia de la Čegar", "952 cranii inițial", "58 cranii rămase", "Monument istoric Niș", "Capele de protecție"],
       en: ["Built in 1809", "Battle of Čegar link", "952 original skulls", "58 skulls remaining", "Niš unique monument", "Protected chapel site"],
-    }, image: "/poi-images/serbia-nis-skull-tower-monument-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-sombor-county-hall-landmarks-v2",
     type: "palace",
@@ -965,7 +991,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["Az épület 1882-ben készült el.", "Magassága a toronnyal együtt 45 méter.", "A homlokzaton 12 allegorikus szobor található.", "A nagyterem 200 négyzetméter.", "Az építési költség 400.000 forint volt.", "1985-ben műemlékké nyilvánították."],
       ro: ["Construit în 1882.", "Înălțimea totală este de 45 de metri.", "Fațada are 12 sculpturi alegorice.", "Sala Mare are 200 m².", "Costul construcției a fost de 400.000 de guldeni.", "A fost declarat monument cultural în 1985."],
       en: ["Completed in 1882.", "Height including tower is 45 meters.", "Facade features 12 allegorical sculptures.", "The Great Hall measures 200 square meters.", "Construction cost 400,000 gulden.", "Listed as a cultural monument in 1985."],
-    }, image: "/poi-images/serbia-sombor-county-hall-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-valjevo-old-bridge-landmarks-v2",
     type: "bridge",
@@ -996,7 +1023,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["19. századi építés", "Kolubara folyó", "Faragott kőhíd", "Valjevo jelképe", "Kereskedelmi útvonal", "Ipari műemlék"],
       ro: ["Secolul al XIX-lea", "Râul Kolubara", "Pod din piatră", "Simbolul Valjevo", "Rute comerciale vechi", "Monument protejat"],
       en: ["19th-century build", "Kolubara River", "Stone masonry", "Valjevo landmark", "Historic trade route", "Engineering heritage"],
-    }, image: "/poi-images/serbia-valjevo-old-bridge-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-belgrade-beogradjanka-landmarks-v2",
     type: "tower",
@@ -1027,7 +1055,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1974-es átadás", "101 méter magas", "Branko Pešić építész", "24 emelet", "Belgrád szimbóluma", "Modernista stílus"],
       ro: ["Finalizat în 1974", "Înălțime 101 metri", "Arhitect Branko Pešić", "24 de etaje", "Simbol al Belgradului", "Stil modernist"],
       en: ["Completed in 1974", "101 meters high", "Branko Pešić architect", "24 floors", "Belgrade skyline icon", "Modernist architecture"],
-    }, image: "/poi-images/serbia-belgrade-beogradjanka-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-kragujevac-amidza-konak-landmarks-v2",
     type: "landmark",
@@ -1058,7 +1087,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1800 körül épült.", "Alapterülete 300 négyzetméter.", "A tető hagyományos cserepes.", "A múzeum 500 tárgyat mutat be.", "Az 1970-es felújítás 2 millió dinárba került.", "Kragujevac legrégebbi épülete."],
       ro: ["Construit în jurul anului 1800.", "Suprafața este de 300 m².", "Acoperișul este din țiglă tradițională.", "Muzeul expune 500 de obiecte.", "Restaurarea din 1970 a costat 2 milioane de dinari.", "Este cea mai veche clădire din Kragujevac."],
       en: ["Built around 1800.", "Floor area of 300 square meters.", "Roof covered with traditional tiles.", "Museum displays 500 exhibits.", "1970 restoration cost 2 million dinars.", "Oldest surviving building in Kragujevac."],
-    }, image: "/poi-images/serbia-kragujevac-amidza-konak-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-nis-national-theater-landmarks-v2",
     type: "theater",
@@ -1089,7 +1119,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1887-es alapítás", "1939-es épület", "Sinđelić tér", "Klasszicista elemek", "Niš kulturális magja", "600 férőhely"],
       ro: ["Fondat în 1887", "Clădire din 1939", "Piața Sinđelić", "Elemente neoclasice", "Inima culturală a Nișului", "Capacitate 600 locuri"],
       en: ["Founded in 1887", "Building from 1939", "Sinđelić Square", "Neoclassical elements", "Niš cultural hub", "600 seat capacity"],
-    }, image: "/poi-images/serbia-nis-national-theater-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-subotica-city-library-landmarks-v2",
     type: "landmark",
@@ -1152,7 +1183,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1950-ben alapították.", "50.000 tárgyból áll a gyűjtemény.", "Az épület 1882-ben épült iskolaként.", "A régészeti részleg 10.000 leletet mutat be.", "Évente 20.000 látogatót fogad.", "A legrégebbi tárgyak az újkőkorból származnak."],
       ro: ["Fondat în 1950.", "Colecția conține 50.000 de obiecte.", "Clădirea a fost construită ca școală în 1882.", "Secția arheologică expune 10.000 de artefacte.", "Primește 20.000 de vizitatori anual.", "Cele mai vechi exponate datează din neolitic."],
       en: ["Founded in 1950.", "Collection includes 50,000 items.", "Building originally a school built in 1882.", "Archaeological section displays 10,000 artifacts.", "Attracts 20,000 visitors annually.", "Oldest exhibits date from the Neolithic."],
-    }, image: "/poi-images/serbia-kraljevo-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-uzice-museum-landmarks-v2",
     type: "museum",
@@ -1183,7 +1215,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1946-os alapítás", "Partizánközpont 1941-ben", "Két épületből áll", "Užicei Köztársaság", "Római kori leletek", "Világháborús emlékek"],
       ro: ["Fondat în 1946", "Cartier general 1941", "Două corpuri de clădire", "Republica Užice", "Colecții antice", "Istorie modernă"],
       en: ["Founded in 1946", "Partisan HQ in 1941", "Two distinct buildings", "Užice Republic site", "Ancient artifacts", "WWII memorial site"],
-    }, image: "/poi-images/serbia-uzice-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-pancevo-national-museum-landmarks-v2",
     type: "museum",
@@ -1246,7 +1279,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1947-ben alapították.", "30.000 tárgyat őriz.", "Az épület 1860-ból származik.", "A római gyűjtemény 5.000 leletből áll.", "A képtár 200 festményt mutat be.", "Évente 15.000 látogató."],
       ro: ["Fondat în 1947.", "Deține 30.000 de obiecte.", "Clădirea datează din 1860.", "Colecția romană include 5.000 de artefacte.", "Galeria de pictură are 200 de lucrări.", "Vizitatori anuali: 15.000."],
       en: ["Founded in 1947.", "Holds 30,000 exhibits.", "Building dates from 1860.", "Roman collection has 5,000 artifacts.", "Art gallery displays 200 works.", "Annual visitors: 15,000."],
-    }, image: "/poi-images/serbia-pozarevac-national-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-zrenjanin-museum-landmarks-v2",
     type: "museum",
@@ -1277,7 +1311,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1894-es építés", "Pénzügyi palota", "Bánsági történelem", "Gazdag régészeti leletek", "Zrenjanin főtere", "Eklektikus stílus"],
       ro: ["Construit în 1894", "Fost Palat al Finanțelor", "Istoria Banatului", "Piese arheologice", "Centrul Zrenjanin", "Stil eclectic"],
       en: ["Built in 1894", "Former Finance Palace", "Banat region history", "Archaeological finds", "Zrenjanin city center", "Eclectic architecture"],
-    }, image: "/poi-images/serbia-zrenjanin-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-sremska-mitrovica-museum-landmarks-v2",
     type: "museum",
@@ -1308,7 +1343,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["Sirmium öröksége", "Római mozaikok", "Aranypénz-leletek", "1946-os alapítás", "Sremska Mitrovica", "Császárvárosi emlékek"],
       ro: ["Moștenirea Sirmium", "Mozaicuri romane", "Tezaur de aur", "Fondat în 1946", "Sremska Mitrovica", "Istorie imperială"],
       en: ["Sirmium heritage", "Roman mosaics", "Gold coin hoard", "Founded in 1946", "Sremska Mitrovica", "Imperial city history"],
-    }, image: "/poi-images/serbia-sremska-mitrovica-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-belgrade-vojni-muzej-landmarks-v2",
     type: "museum",
@@ -1339,7 +1375,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1878-ban alapították.", "30.000 feletti tárgyi gyűjtemény.", "A kiállítóterület 1.500 négyzetméter.", "A legrégebbi tárgy egy 4. századi római sisak.", "A gyűjtemény 10.000 lőfegyvert tartalmaz.", "Évente 100.000 látogató."],
       ro: ["Fondat în 1878.", "Peste 30.000 de exponate.", "Suprafața expozițională: 1.500 m².", "Cel mai vechi exponat: coif roman din secolul al IV-lea.", "Colecția include 10.000 de arme de foc.", "100.000 de vizitatori anual."],
       en: ["Founded in 1878.", "Holds over 30,000 exhibits.", "Exhibition area: 1,500 sq m.", "Oldest exhibit: Roman helmet from 4th century.", "Collection includes 10,000 firearms.", "100,000 visitors annually."],
-    }, image: "/poi-images/serbia-belgrade-vojni-muzej-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-kraljevo-monastery-zica-landmarks-v2",
     type: "church",
@@ -1370,7 +1407,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1208-as alapítás", "Vörös homlokzat", "Koronázótemplom", "Stefan Nemanjić alapította", "Raszkai stílus", "Kraljevo mellett"],
       ro: ["Fondată în 1208", "Culoare roșie distinctă", "Loc de încoronare", "Ctitor Ștefan Nemanjić", "Stilul Raška", "Lângă Kraljevo"],
       en: ["Founded in 1208", "Distinct red facade", "Coronation church", "Stefan Nemanjić founder", "Raška school style", "Near Kraljevo"],
-    }, image: "/poi-images/serbia-kraljevo-monastery-zica-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-subotica-city-museum-landmarks-v2",
     type: "museum",
@@ -1433,7 +1471,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1947-ben alapították.", "20.000 tárgyat őriz.", "Az épület 1850-ben épült.", "A szőnyeggyűjtemény 400 darabból áll.", "A régészeti részleg 5.000 leletet mutat be.", "Évente 10.000 látogató."],
       ro: ["Fondat în 1947.", "Colecția are 20.000 de obiecte.", "Clădirea datează din 1850.", "Colecția de covoare include 400 de piese.", "Secția arheologică expune 5.000 de artefacte.", "10.000 de vizitatori anual."],
       en: ["Founded in 1947.", "Collection holds 20,000 objects.", "Building dates from 1850.", "Carpet collection has 400 pieces.", "Archaeological section displays 5,000 artifacts.", "10,000 visitors annually."],
-    }, image: "/poi-images/serbia-pirot-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-cacak-art-gallery-landmarks-v2",
     type: "museum",
@@ -1464,7 +1503,8 @@ export const serbiaLandmarksV2: POI[] = [
       hu: ["1961. május 31-én alapították az intézményt.", "Az 1911-ben emelt épület egykor iskolaként működött.", "Nadežda Petrović festőnő 1873-ban született Čačakban.", "A gyűjtemény 400-nál is több értékes műtárgyat számlál.", "1960 óta rendezik meg itt a rangos művészeti emlékestet.", "A galéria 6 különböző tematikus gyűjteményt kezel."],
       ro: ["Fondată oficial la data de 31 mai 1961.", "Clădirea istorică a fost construită în anul 1911.", "Poartă numele pictoriței Nadežda Petrović (1873-1915).", "Expoziția de tip bienală a debutat în anul 1960.", "Patrimoniul cuprinde peste 400 de exponate valoroase.", "Este situată în centrul orașului Čačak, pe strada Cara Dušana."],
       en: ["Established on May 31, 1961, in the city of Čačak.", "Housed in a landmark building constructed in 1911.", "Honors Nadežda Petrović, a pioneer of Serbian modernism.", "The gallery collection exceeds 400 individual pieces.", "Hosting the biennial art memorial event since 1960.", "Classified as a cultural monument of great importance."],
-    }, image: "/poi-images/serbia-cacak-art-gallery-landmarks-v2.webp"},
+    },
+  },
   {
     id: "serbia-leskovac-national-museum-landmarks-v2",
     type: "museum",

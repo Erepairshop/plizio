@@ -1097,7 +1097,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Építési kor: 14. század", "Állam: Litván Nagyfejedelemség", "Típus: Várrom", "Régió: Grodno környéke", "Anyaga: Mezei kő és tégla", "Pusztulás: 17. századi háborúk"],
       ro: ["Secol: al XIV-lea", "Stat: Marele Ducat al Lituaniei", "Statut: Sit arheologic", "Regiune: Grodno", "Material: Piatră de râu", "Declin: Secolul al XVII-lea"],
       en: ["Era: 14th century", "State: Grand Duchy of Lithuania", "Status: Archaeological site", "Region: Grodno Oblast", "Materials: Fieldstone and brick", "Destruction: 17th century"],
-    }, image: "/poi-images/belarus-loysk-castle-ruins-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-polotsk-st-euphrosyne-history-v2",
     type: "church",
@@ -1128,7 +1129,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Alapítás: 1125", "Alapító: Szent Eufrozina", "Freskók kora: 12. század", "Helyszín: Polack", "Típus: Ortodox kolostor", "Főtemplom: Megváltó-templom"],
       ro: ["An fondare: 1125", "Fondator: Sf. Efrosinia", "Fresce: Secolul al XII-lea", "Oraș: Polotsk", "Tip: Mănăstire ortodoxă", "Relicvă: Crucea Sf. Efrosinia"],
       en: ["Founded: 1125", "Founder: Saint Euphrosyne", "Frescoes: 12th century", "Location: Polotsk", "Type: Orthodox monastery", "Main building: Transfiguration Church"],
-    }, image: "/poi-images/belarus-polotsk-st-euphrosyne-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-gomel-old-church-history-v2",
     type: "cathedral",
@@ -1159,7 +1161,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Építési évek: 1809–1819", "Építész: John Clark", "Stílus: Klasszicizmus", "Helyszín: Gomel", "Folyó: Szozs partján", "Megrendelő: Rumjancev gróf"],
       ro: ["Perioadă: 1809–1819", "Arhitect: John Clark", "Stil: Neoclasic", "Locație: Gomel", "Râu: Sozh", "Ctitor: Nikolai Rumyanțev"],
       en: ["Built: 1809–1819", "Architect: John Clark", "Style: Neoclassical", "Location: Gomel", "River: Sozh bank", "Patron: Count Rumyantsev"],
-    }, image: "/poi-images/belarus-gomel-old-church-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-turov-cathedral-ruins-history-v2",
     type: "ruins",
@@ -1190,7 +1193,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Építés kora: 1170-es évek", "Pusztulás éve: 1230", "Ok: Földrengés", "Alapméret: 28 x 17 méter", "Helyszín: Turov", "Múzeum megnyitása: 1990-es évek"],
       ro: ["Secol: al XII-lea", "Distrugere: 1230", "Cauză: Cutremur", "Dimensiuni bază: 28 x 17 m", "Locație: Turov", "Descoperire: 1963"],
       en: ["Era: 12th century", "Destruction: 1230", "Cause: Earthquake", "Foundation size: 28 x 17 m", "Location: Turov", "Discovery year: 1963"],
-    }, image: "/poi-images/belarus-turov-cathedral-ruins-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-lida-synagogue-history-v2",
     type: "church",
@@ -1221,7 +1225,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Korszak: 19. század", "Helyszín: Lida", "Típus: Zsidó imaház", "Pusztulás: II. világháború", "Közösség: Lida zsidósága", "Jelentőség: Oktatási központ"],
       ro: ["Secol: al XIX-lea", "Oraș: Lida", "Religie: Mozaică", "Statut: Clădire istorică", "Declin: Al Doilea Război Mondial", "Cultură: Iudaică"],
       en: ["Era: 19th century", "City: Lida", "Religion: Judaism", "Status: Destroyed in WWII", "Community: Litvak Jews", "Significance: Cultural center"],
-    }, image: "/poi-images/belarus-lida-synagogue-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-novogrudok-mosque-history-v2",
     type: "church",
@@ -1284,7 +1289,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Alapítás: 1581", "Alapító: Báthory István", "Stílus: Barokk", "Helyszín: Polack", "Rang: Egyetemi rang (1812)", "Jelenleg: Állami Egyetem"],
       ro: ["An fondare: 1581", "Fondator: Ștefan Báthory", "Stil: Baroc", "Oraș: Polotsk", "Statut: Universitate din 1812", "Funcție actuală: Educațională"],
       en: ["Founded: 1581", "Founder: Stephen Báthory", "Style: Baroque", "Location: Polotsk", "Status: Academy from 1812", "Current use: State University"],
-    }, image: "/poi-images/belarus-polotsk-jesuit-college-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-minsk-kalvariya-cemetery-history-v2",
     type: "monument",
@@ -1347,7 +1353,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Feltárás: 1968–1981", "Kora: 13. század", "Épületek: 28 faház", "Mélység: 4 méter a föld alatt", "Helyszín: Breszti erőd", "Típus: Régészeti park"],
       ro: ["Excavare: 1968–1981", "Perioadă: Secolul al XIII-lea", "Structuri: 28 clădiri de lemn", "Adâncime: 4 metri", "Locație: Cetatea Brest", "Suprafață: 2400 m²"],
       en: ["Excavation: 1968–1981", "Era: 13th century", "Structures: 28 log cabins", "Depth: 4 meters", "Location: Brest Fortress", "Museum area: 2,400 m²"],
-    }, image: "/poi-images/belarus-brest-archaeological-museum-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-horki-agricultural-history-v2",
     type: "university",
@@ -1410,7 +1417,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Építés: 19. század", "Stílus: Klasszicizmus", "Típus: Nemesi kúria", "Helyszín: Sklyary", "Kert: Tájképi park", "Anyag: Vegyes falazat"],
       ro: ["Secol: al XIX-lea", "Stil: Neoclasic", "Tip: Conac nobiliar", "Locație: Sklyary", "Grădină: Parc peisagistic", "Material: Cărămidă și piatră"],
       en: ["Era: 19th century", "Style: Neoclassical", "Type: Manor house", "Location: Sklyary", "Park: English-style landscape", "Status: Regional monument"],
-    }, image: "/poi-images/belarus-sklyary-manor-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-minsk-pishchalauski-castle-history-v2",
     type: "castle",
@@ -1441,7 +1449,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Építés éve: 1825", "Tervező: Rudolf Piscsala", "Stílus: Neogótika", "Funkció: Börtön (Minszki vár)", "Város: Minszk", "Tornyok: 4 kerek bástya"],
       ro: ["An construcție: 1825", "Arhitect: Rudolf Pishchala", "Stil: Neogotic", "Funcție: Închisoare", "Oraș: Minsk", "Număr turnuri: 4"],
       en: ["Year built: 1825", "Architect: Rudolf Pishchala", "Style: Neo-Gothic", "Function: Prison", "Location: Minsk", "Structure: 4 corner towers"],
-    }, image: "/poi-images/belarus-minsk-pishchalauski-castle-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-braslaw-church-history-v2",
     type: "church",
@@ -1504,7 +1513,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Folyó: Szviszlocs", "Korszak: 19. század", "Típus: Vízimalom", "Város: Minszk", "Funkció: Gabonamalom", "Jelleg: Ipartörténeti emlék"],
       ro: ["Râu: Svisloch", "Perioadă: Secolul al XIX-lea", "Tip: Moară de apă", "Oraș: Minsk", "Utilizare: Măcinarea cerealelor", "Statut: Patrimoniu industrial"],
       en: ["River: Svisloch", "Era: 19th century", "Type: Water mill", "Location: Minsk", "Industry: Flour milling", "Status: Industrial monument"],
-    }, image: "/poi-images/belarus-minsk-svisloch-mill-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-stolin-palace-history-v2",
     type: "palace",
@@ -1535,7 +1545,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Tulajdonos: Radziwill család", "Helyszín: Mankevicsi park", "Pusztulás: II. világháború", "Város: Stolin", "Kerttípus: Angolpark", "Terület: ~30 hektár"],
       ro: ["Proprietar: Familia Radziwill", "Locație: Parcul Mankeviczy", "Distrugere: Al Doilea Război Mondial", "Oraș: Stolin", "Tip parc: Peisagistic", "Statut: Monument al naturii"],
       en: ["Owner: Radziwill family", "Location: Mankeviczy Park", "Destruction: World War II", "City: Stolin", "Park type: Landscape park", "Size: ~30 hectares"],
-    }, image: "/poi-images/belarus-stolin-palace-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-vetka-museum-history-v2",
     type: "museum",
@@ -1566,7 +1577,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Alapítás: 1978", "Téma: Óhitűek kultúrája", "Tárgyak száma: >10.000", "Város: Vetka", "Fő kincs: Kéziratos könyvek", "Épület: Grosikov-ház"],
       ro: ["An fondare: 1978", "Tematică: Vechi credincioși", "Exponate: Peste 10.000", "Oraș: Vetka", "Colecție: Icoane și manuscrise", "Sediul: Casa negustorului Groshikov"],
       en: ["Founded: 1978", "Focus: Old Believer culture", "Items: Over 10,000", "Location: Vetka", "Collection: Manuscripts and icons", "Building: Former Groshikov house"],
-    }, image: "/poi-images/belarus-vetka-museum-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-zaslawye-castle-mounds-history-v2",
     type: "ruins",
@@ -1597,7 +1609,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Építés: 16. század", "Típus: Bástyás erőd", "Birtokos: Glebovics család", "Város: Zaslawye", "Látnivaló: Megváltó-templom", "Állapot: Jó állapotú földsáncok"],
       ro: ["Secol: al XVI-lea", "Tip: Fortăreață cu bastioane", "Ctitor: Familia Glebovich", "Oraș: Zaslawye", "Obiectiv: Biserica Schimbării la Față", "Înălțime valuri: Până la 3 metri"],
       en: ["Era: 16th century", "Type: Bastion fortress", "Builder: Glebovich family", "Location: Zaslawye", "Enclosure: Transfiguration Church", "Status: Archaeological monument"],
-    }, image: "/poi-images/belarus-zaslawye-castle-mounds-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-voranava-church-history-v2",
     type: "church",
@@ -1628,7 +1641,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Védőszent: Szent Kázmér", "Stílus: Neogótika", "Épült: 20. század eleje", "Helyszín: Voranava", "Anyaga: Vörös tégla", "Vallás: Katolikus"],
       ro: ["Hram: Sf. Cazimir", "Stil: Neogotic", "Construcție: sec. XX", "Locație: Voranava", "Material: Cărămidă roșie", "Confesiune: Catolică"],
       en: ["Patron: St. Casimir", "Style: Neo-Gothic", "Built: early 20th century", "Location: Voranava", "Material: Red brick", "Religion: Catholic"],
-    }, image: "/poi-images/belarus-voranava-church-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-masty-old-mill-history-v2",
     type: "industry",
@@ -1659,7 +1673,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Épült: 19. század vége", "Típus: Vízimalom", "Helyszín: Masty", "Folyó: Nyeman", "Anyaga: Kő és fa", "Funkció: Gabonafeldolgozás"],
       ro: ["Construcție: finele sec. XIX", "Tip: Moară de apă", "Locație: Masty", "Râu: Niemen", "Material: Piatră și lemn", "Utilizare: Măcinat cereale"],
       en: ["Built: late 19th century", "Type: Water mill", "Location: Masty", "River: Neman", "Material: Stone and wood", "Function: Flour production"],
-    }, image: "/poi-images/belarus-masty-old-mill-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-kletsk-church-history-v2",
     type: "church",
@@ -1690,7 +1705,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Alapítás: 1683", "Stílus: Barokk", "Helyszín: Kleck", "Rend: Domonkosok", "Típus: Ortodox templom", "Állapot: Műemlék"],
       ro: ["Fondată: 1683", "Stil: Baroc", "Locație: Kletsk", "Ctitor: Ordinul Dominican", "Statut: Patrimoniu cultural", "Material: Piatră"],
       en: ["Founded: 1683", "Style: Baroque", "Location: Kletsk", "Order: Dominican (orig.)", "Status: Cultural heritage", "Material: Stone"],
-    }, image: "/poi-images/belarus-kletsk-church-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-pruzhany-palace-history-v2",
     type: "palace",
@@ -1721,7 +1737,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Épült: kb. 1840", "Stílus: Neoreneszánsz", "Helyszín: Pruzhany", "Építész: F.M. Lanz", "Mai funkció: Múzeum", "Kert: Angolpark"],
       ro: ["Construit: cca. 1840", "Stil: Neorenascentist", "Locație: Pruzhany", "Arhitect: F.M. Lanz", "Funcție: Muzeu local", "Grădină: Parc englezesc"],
       en: ["Built: approx. 1840", "Style: Italianate / Neo-Renaissance", "Location: Pruzhany", "Architect: F.M. Lanz", "Current use: Museum", "Garden: English park"],
-    }, image: "/poi-images/belarus-pruzhany-palace-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-lyakhavichy-church-history-v2",
     type: "church",
@@ -1752,7 +1769,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Épült: 1907", "Stílus: Eklektika", "Védőszent: Szent József", "Helyszín: Ljakhavicsi", "Anyaga: Kő", "Vallás: Katolikus"],
       ro: ["Anul construcției: 1907", "Stil: Eclectic", "Hram: Sf. Iosif", "Locație: Lyakhavichy", "Material: Piatră", "Confesiune: Catolică"],
       en: ["Built: 1907", "Style: Eclectic", "Patron: St. Joseph", "Location: Lyakhavichy", "Material: Stone", "Religion: Catholic"],
-    }, image: "/poi-images/belarus-lyakhavichy-church-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-stowbtsy-castle-history-v2",
     type: "ruins",
@@ -1783,7 +1801,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Időszak: 16–18. század", "Folyó: Nyeman", "Helyszín: Sztovbci", "Funkció: Kereskedelmi erőd", "Állapot: Romok", "Jelleg: Stratégiai pont"],
       ro: ["Perioadă: sec. XVI–XVIII", "Râu: Niemen", "Locație: Stowbtsy", "Funcție: Fort de control", "Statut: Ruine", "Importanță: Nod comercial"],
       en: ["Period: 16th–18th century", "River: Neman", "Location: Stowbtsy", "Function: Trading fortress", "Status: Ruins", "Type: Strategic post"],
-    }, image: "/poi-images/belarus-stowbtsy-castle-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-hlybokaye-church-history-v2",
     type: "cathedral",
@@ -1814,7 +1833,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Alapítás: 1639", "Stílus: Vilniusi barokk", "Helyszín: Hlybokaye", "Eredete: Karmelita kolostor", "Építtető: Joseph Korsak", "Rang: Székesegyház"],
       ro: ["Fondată: 1639", "Stil: Baroc de Vilnius", "Locație: Hlybokaye", "Origine: Mănăstire carmelită", "Ctitor: Joseph Korsak", "Tip: Catedrală"],
       en: ["Founded: 1639", "Style: Vilnian Baroque", "Location: Hlybokaye", "Origin: Carmelite monastery", "Founder: Joseph Korsak", "Type: Cathedral"],
-    }, image: "/poi-images/belarus-hlybokaye-church-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-lepiel-church-history-v2",
     type: "church",
@@ -1845,7 +1865,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Épült: 1876", "Stílus: Klasszicista", "Anyaga: Sárga tégla", "Védőszent: Szent Kázmér", "Helyszín: Lepel", "Vallás: Katolikus"],
       ro: ["Anul construcției: 1876", "Stil: Neoclasic", "Material: Cărămidă galbenă", "Hram: Sf. Cazimir", "Locație: Lepel", "Confesiune: Catolică"],
       en: ["Built: 1876", "Style: Neoclassical", "Material: Yellow brick", "Patron: St. Casimir", "Location: Lepiel", "Religion: Catholic"],
-    }, image: "/poi-images/belarus-lepiel-church-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-ivanava-church-history-v2",
     type: "church",
@@ -1876,7 +1897,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Épült: 1848", "Stílus: Klasszicista", "Helyszín: Iwanawa", "Típus: Katolikus templom", "Anyaga: Kő", "Régió: Polézia"],
       ro: ["Anul construcției: 1848", "Stil: Neoclasic", "Locație: Ivanava", "Tip: Biserică catolică", "Material: Piatră", "Regiune: Polesia"],
       en: ["Built: 1848", "Style: Neoclassical", "Location: Ivanava", "Type: Catholic church", "Material: Stone", "Region: Polesia"],
-    }, image: "/poi-images/belarus-ivanava-church-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-slutsk-gymnasium-history-v2",
     type: "university",
@@ -1907,7 +1929,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Alapítás: 1617", "Rang: Belarusz legidősebb iskolája", "Helyszín: Szluck", "Alapító: Janusz Radziwill", "Profil: Klasszikus oktatás", "Jelleg: Kulturális műemlék"],
       ro: ["Fondat: 1617", "Record: Cea mai veche școală", "Locație: Slutsk", "Ctitor: Janusz Radziwill", "Profil: Umanist", "Statut: Monument istoric"],
       en: ["Founded: 1617", "Record: Oldest school in Belarus", "Location: Slutsk", "Founder: Janusz Radziwill", "Type: Classical Gymnasium", "Status: Historic landmark"],
-    }, image: "/poi-images/belarus-slutsk-gymnasium-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-kastsyukovichy-church-history-v2",
     type: "church",
@@ -1938,7 +1961,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Időszak: 19. század", "Anyaga: Vörös tégla", "Helyszín: Kasztyukovicsi", "Stílus: Historizáló", "Funkció: Vallási központ", "Típus: Ortodox templom"],
       ro: ["Perioadă: sec. XIX", "Material: Cărămidă roșie", "Locație: Kastsyukovichy", "Stil: Eclectic", "Importanță: Centru regional", "Tip: Biserică ortodoxă"],
       en: ["Period: 19th century", "Material: Red brick", "Location: Kastsyukovichy", "Style: Historicist", "Significance: Regional landmark", "Type: Orthodox church"],
-    }, image: "/poi-images/belarus-kastsyukovichy-church-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-volozhyn-palace-history-v2",
     type: "palace",
@@ -1969,7 +1993,8 @@ export const belarusHistoryV2: POI[] = [
       hu: ["Épült: 1803–1806", "Tulajdonos: Tyiszkievics gróf", "Stílus: Klasszicizmus", "Helyszín: Valozsin", "Építész: Koszlovszki", "Állapot: Jó állapotú"],
       ro: ["Construcție: 1803–1806", "Proprietar: Contele Tyszkiewicz", "Stil: Clasicism", "Locație: Volozhyn", "Arhitect: Koslovsky", "Statut: Bine conservat"],
       en: ["Built: 1803–1806", "Owner: Count Tyszkiewicz", "Style: Neoclassical", "Location: Volozhyn", "Architect: Koslovsky", "Status: Well-preserved"],
-    }, image: "/poi-images/belarus-volozhyn-palace-history-v2.webp"},
+    },
+  },
   {
     id: "belarus-vileyka-church-history-v2",
     type: "church",

@@ -31,7 +31,8 @@ export const monacoCitiesV2: POI[] = [
       hu: ["Francia határ menti elhelyezkedés", "A Jardin Exotique negyed része", "Modern lakóépületek jellemzik", "Főbb fejlesztések az 1970-es években", "Rálátás a hercegi kikötőre", "Tengerszint feletti jelentős magasság"],
       ro: ["Situat la granița cu Beausoleil", "Subdiviziune a Jardin Exotique", "Predomină ansamblurile rezidențiale", "Dezvoltare majoră în anii 1970", "Axă vizuală spre Port Hercule", "Poziție înaltă deasupra coastei"],
       en: ["Located on the border of Beausoleil", "Part of the Jardin Exotique ward", "Modern residential apartment blocks", "Main development in the 1970s era", "Clear sightlines to Port Hercule", "Elevated position above sea level"],
-    }, image: "/poi-images/monaco-jardin-val-thore-cities-v2.webp"},
+    },
+  },
   {
     id: "monaco-les-revoires-cities-v2",
     type: "city",
@@ -62,7 +63,8 @@ export const monacoCitiesV2: POI[] = [
       hu: ["Monaco legmagasabb pontja, 161 m", "Teljes területe mindössze 0,075 km²", "A hercegség legmeredekebb lejtője", "Itt található az Egzotikus Kert", "Népessége kb. 2500 fő", "Számos luxusingatlan helyszíne"],
       ro: ["Cel mai înalt punct din Monaco, 161 m", "Suprafața totală este de 0,075 km²", "Cea mai abruptă zonă a principatului", "Găzduiește Jardin Exotique", "Populație de aproximativ 2.500 loc.", "Locația unor reședințe de lux"],
       en: ["Highest point in Monaco at 161m", "Total land area is 0.075 km2", "Steepest incline in the Principality", "Home to the famous Exotic Garden", "Population approx 2,500 residents", "Site of multiple luxury residences"],
-    }, image: "/poi-images/monaco-les-revoires-cities-v2.webp"},
+    },
+  },
   {
     id: "monaco-moneghetti-cities-v2",
     type: "city",

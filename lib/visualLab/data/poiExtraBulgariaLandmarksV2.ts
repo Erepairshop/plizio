@@ -31,7 +31,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["1083-ban alapította Grigorij Pakurianosz", "Körülbelül 400 méteres tengerszint feletti magasság", "A főtemplom 1604-ben épült", "Több mint 100 szerzetes élt itt a 14. században", "A refektórium freskói 1643-ból származnak", "A legkisebb kápolna a 12. századból való"],
       ro: ["Fondată în anul 1083", "Aflată la o altitudine de 400 metri", "Biserica principală datează din 1604", "Al doilea complex monahal ca mărime din țară", "Frescele trapezei finalizate în 1643", "Găzduiește o icoană de argint din 1311"],
       en: ["Established in 1083 AD", "Located at 400 meters above sea level", "Main church constructed in 1604", "Ossuary features 12th-century frescoes", "Dining room murals painted in 1643", "Contains an 11th-century Georgian manuscript"],
-    }, image: "/poi-images/bulgaria-bachkovo-monastery-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-thracian-tomb-sveshtari-landmarks-v2",
     type: "landmark",
@@ -62,7 +63,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["1982-ben fedezték fel a régészek", "Kr. e. 3. században épült", "1985-ben került az UNESCO listájára", "A sírhalom magassága 11,5 méter", "10 faragott kariatida díszíti a falakat", "A domb átmérője eléri a 70 métert"],
       ro: ["Descoperit în anul 1982", "Datează din secolul III î.Hr.", "Inclus pe lista UNESCO în 1985", "Zece cariatide decorează camera centrală", "Tumulul funerar are 11,5 metri înălțime", "Diametrul bazei tumulului este de 70 metri"],
       en: ["Discovered during excavations in 1982", "Constructed during the 3rd century BC", "Added to UNESCO World Heritage in 1985", "Tomb mound reaches 11.5 meters high", "Base diameter measures exactly 70 meters", "Features 10 carved limestone caryatids"],
-    }, image: "/poi-images/bulgaria-thracian-tomb-sveshtari-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-koprinka-dam-monument-landmarks-v2",
     type: "landmark",
@@ -93,7 +95,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["1947 és 1954 között épült", "Maximális mélysége 44 méter", "Tározókapacitás: 140 millió m³", "A gát hossza 610 méter"],
       ro: ["Construit între 1947 și 1954", "Adâncime maximă de 44 metri", "Volum de apă: 140 mil. m³", "Lungimea barajului: 610 metri"],
       en: ["Built between 1947 and 1954", "Maximum depth of 44 meters", "Storage volume: 140 million m³", "Dam wall length: 610 meters"],
-    }, image: "/poi-images/bulgaria-koprinka-dam-monument-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-shipka-memorial-church-landmarks-v2",
     type: "church",
@@ -124,7 +127,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["1885 és 1902 között zajlott az építése", "A harangtorony 53 méter magasra nyúlik", "A legnagyobb harang súlya 11 643 kilogramm", "Összesen 17 harang található a toronyban", "30 tonna katonai töltényhüvelyt olvasztottak be", "1970-ben nyilvánították műemlékké"],
       ro: ["Construcția a durat din 1885 până în 1902", "Turnul principal are o înălțime de 53 metri", "Cel mai mare clopot cântărește 11.643 kg", "Un total de 17 clopote în turn", "Clopotele turnate din 30 tone de cartușe", "Declarat monument cultural în anul 1970"],
       en: ["Construction spanned from 1885 to 1902", "Main bell tower stands 53 meters tall", "Heaviest bell weighs exactly 11,643 kg", "Tower houses a total of 17 bells", "Bells cast from 30 tons of military casings", "Official national monument status granted in 1970"],
-    }, image: "/poi-images/bulgaria-shipka-memorial-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-rzhava-monastery-landmarks-v2",
     type: "church",
@@ -155,7 +159,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["Alapítása a 12. századra tehető", "Tengerszint feletti magassága 1000 méter körüli", "A 19. században szinte teljesen újjáépítették", "A főépület hossza 14 méter, szélessége 7 méter", "1884-ből származnak a belső falfestmények", "Az oszmán időkben többször is megrongálódott"],
       ro: ["Fondată probabil în secolul al XII-lea", "Situată la aproximativ 1000 de metri altitudine", "Reconstruită substanțial în secolul al XIX-lea", "Biserica are dimensiuni de 14 pe 7 metri", "Frescele actuale au fost pictate în 1884", "Distrusă și refăcută de mai multe ori"],
       en: ["Believed to be founded in the 12th century", "Situated at an elevation of nearly 1,000 meters", "Major reconstruction completed in the 19th century", "Main church structure measures 14 by 7 meters", "Interior frescoes were completed in 1884", "Suffered multiple destructions during Ottoman rule"],
-    }, image: "/poi-images/bulgaria-rzhava-monastery-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-basarbovo-monastery-landmarks-v2",
     type: "church",
@@ -186,7 +191,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["1431-ben említik először az adólajstromok", "Bulgária egyetlen máig működő sziklakolostora", "50 méter magasan van a mészkőfalban", "Baszarbovói Szent Demeter a 17. században élt itt", "A jelenlegi templom a 19. században épült", "1978-ban kapott műemléki védelmet"],
       ro: ["Menționată prima dată în 1431", "Singura mănăstire rupestră activă din Bulgaria", "Complexul este situat la 50 de metri înălțime", "Sfântul Dimitrie cel Nou a trăit aici în sec. 17", "Biserica principală extinsă în secolul 19", "Declarată monument arheologic în 1978"],
       en: ["First mentioned in tax registers in 1431", "Only active rock monastery in modern Bulgaria", "Carved into cliffs 50 meters above ground", "Saint Dimitar of Basarbovo lived here in the 1600s", "Present church structure dates to the 19th century", "Protected as an archaeological monument since 1978"],
-    }, image: "/poi-images/bulgaria-basarbovo-monastery-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-rozhen-monastery-landmarks-v2",
     type: "church",
@@ -217,7 +223,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["1050 méteres magasságban fekszik", "Főtemploma 1600-ban épült", "150 darab 18. századi ikont őriz", "Melnik városától 6 km-re található"],
       ro: ["Altitudine de 1.050 metri", "Biserica principală construită în 1600", "Deține 150 de icoane din sec. XVIII", "Situată la 6 km de Melnik"],
       en: ["Elevation of 1,050 meters", "Main church built in 1600", "Houses 150 icons from the 18th c.", "Located 6 km from Melnik"],
-    }, image: "/poi-images/bulgaria-rozhen-monastery-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-vitosha-boyana-waterfall-landmarks-v2",
     type: "landmark",
@@ -248,7 +255,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["A vízesés magassága 25 méter", "1260 méteres tengerszint feletti magasság", "A Bojana-folyó táplálja", "Szófiából 3 órás túrával elérhető"],
       ro: ["Înălțimea căderii: 25 metri", "Altitudine de 1.260 metri", "Formată pe râul Boyana", "3 ore de drumeție din Sofia"],
       en: ["Drop height: 25 meters", "Elevation of 1,260 meters", "Formed by the Boyana River", "3-hour hike from Sofia"],
-    }, image: "/poi-images/bulgaria-vitosha-boyana-waterfall-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-pernik-fortress-ruins-landmarks-v2",
     type: "ruins",
@@ -279,7 +287,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["9. században épült.", "A várfalak vastagsága 3 m.", "Terület: 1,5 hektár.", "1396-ban pusztították el az oszmánok.", "Feltárások 1960 óta.", "A palota alapterülete 300 m²."],
       ro: ["Construit în secolul al IX-lea.", "Ziduri groase de 3 m.", "Suprafață: 1,5 ha.", "Distrusă în 1396 de otomani.", "Săpături începute în 1960.", "Palatul avea 300 m²."],
       en: ["Built in the 9th century.", "Wall thickness: 3 m.", "Area: 1.5 hectares.", "Destroyed in 1396 by Ottomans.", "Excavations since 1960.", "Palace area: 300 m²."],
-    }, image: "/poi-images/bulgaria-pernik-fortress-ruins-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-tsar-samuil-monument-landmarks-v2",
     type: "monument",
@@ -310,7 +319,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["A szobor magassága 6,2 méter", "Szobrász: Alexander Hajtov", "Halálának 1000. évfordulójára készült", "A Szent Szófia-templom mellett áll"],
       ro: ["Înălțimea statuii: 6,2 metri", "Sculptor: Alexander Haitov", "Ridicată la 1000 de ani de la moarte", "Locație lângă biserica Sf. Sofia"],
       en: ["Statue height: 6.2 meters", "Sculptor: Alexander Haitov", "Marked the 1000th death anniversary", "Located near St. Sophia Church"],
-    }, image: "/poi-images/bulgaria-tsar-samuil-monument-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-kalofer-hristo-botev-landmarks-v2",
     type: "monument",
@@ -341,7 +351,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["Gránitból készült szobor", "Az emlékmű magassága 14,5 méter", "1986-ban avatták fel", "Több mint 400 lépcső vezet fel"],
       ro: ["Statuie realizată din granit", "Înălțimea monumentului: 14,5 metri", "Inaugurat în anul 1986", "Peste 400 de trepte până la vârf"],
       en: ["Statue made of granite", "Monument height: 14.5 meters", "Inaugurated in 1986", "Over 400 steps lead to the top"],
-    }, image: "/poi-images/bulgaria-kalofer-hristo-botev-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-st-george-cathedral-plovdiv-landmarks-v2",
     type: "church",
@@ -372,7 +383,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["1848-ban fejezték be az építését", "Aranyozott ikonosztázzal rendelkezik", "A harangtorony magassága 31 méter", "A plovdivi metropolita székhelye"],
       ro: ["Finalizată în anul 1848", "Deține un iconostas aurit", "Înălțimea clopotniței: 31 metri", "Sediul mitropoliei din Plovdiv"],
       en: ["Completed in 1848", "Features a gilded iconostasis", "Bell tower height: 31 meters", "Seat of the Plovdiv Metropolis"],
-    }, image: "/poi-images/bulgaria-st-george-cathedral-plovdiv-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-st-archangel-michael-church-landmarks-v2",
     type: "church",
@@ -403,7 +415,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["1819-ben építették újjá", "Faragott ikonosztáz 1839-ből", "Trjavna legrégebbi temploma", "Az Aszen-dinasztia alapította"],
       ro: ["Reconstruită în anul 1819", "Iconostas sculptat din 1839", "Cea mai veche biserică din Tryavna", "Ctitorie a dinastiei Asan"],
       en: ["Rebuilt in 1819", "Carved iconostasis from 1839", "Oldest church in Tryavna", "Foundation of the Asen dynasty"],
-    }, image: "/poi-images/bulgaria-st-archangel-michael-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-varna-dormition-cathedral-landmarks-v2",
     type: "cathedral",
@@ -434,7 +447,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["Sándor fejedelem tette le az alapkövet", "Bulgária második legnagyobb temploma", "Kupoláit arany borítja", "1886-ban nyitották meg"],
       ro: ["Piatra de temelie pusă de principele Alexandru", "A doua cea mai mare biserică din țară", "Cupolele sunt suflate cu aur", "Inaugurată în anul 1886"],
       en: ["Foundation stone laid by Prince Alexander", "Second largest church in Bulgaria", "Domes are plated with gold", "Opened in 1886"],
-    }, image: "/poi-images/bulgaria-varna-dormition-cathedral-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-veliko-tarnovo-art-gallery-landmarks-v2",
     type: "museum",
@@ -465,7 +479,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["1934-ben nyitották meg", "Több mint 5000 kiállítási tárgy", "Neoreneszánsz stílusú épület", "Borisz Denev festőről nevezték el"],
       ro: ["Deschisă în anul 1934", "Deține peste 5.000 de exponate", "Clădire în stil neorenascentist", "Numită după pictorul Boris Denev"],
       en: ["Opened in 1934", "Houses over 5,000 exhibits", "Neo-Renaissance style building", "Named after painter Boris Denev"],
-    }, image: "/poi-images/bulgaria-veliko-tarnovo-art-gallery-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-st-nedelya-church-sofia-landmarks-v2",
     type: "church",
@@ -496,7 +511,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["Az eredeti fatemplom a 10. századból származott", "A jelenlegi kőépületet 1863-ban adták át", "1925. április 16-án terrortámadás érte", "A központi kupola magassága 30 méter", "A templomhajó hossza eléri a 30 métert", "A belső freskókat 1971 és 1973 között újították fel"],
       ro: ["Biserica originală de lemn din secolul X", "Construcția de piatră a fost terminată în 1863", "Ținta unui atentat cu bombă în aprilie 1925", "Cupola centrală are o înălțime de 30 de metri", "Lungimea totală a navei este de 30 de metri", "Picturile murale restaurate integral în 1973"],
       en: ["Original wooden structure dates to the 10th century", "Stone construction completed in 1863", "Target of a major bombing on April 16, 1925", "Current central dome rises exactly 30 meters", "Building footprint spans 30 meters in length", "Interior murals fully restored between 1971 and 1973"],
-    }, image: "/poi-images/bulgaria-st-nedelya-church-sofia-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-rila-monastery-entrance-landmarks-v2",
     type: "landmark",
@@ -527,7 +543,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["Két fő kapu: Dupnica és Szamokov", "UNESCO világörökség 1983 óta", "A kapuk tömör tölgyfából készültek", "A falak magassága elérheti a 24 métert"],
       ro: ["Două porți: Dupnitsa și Samokov", "Patrimoniu UNESCO din 1983", "Porți din stejar masiv", "Ziduri de până la 24 metri înălțime"],
       en: ["Two main gates: Dupnitsa and Samokov", "UNESCO Heritage site since 1983", "Gates made of solid oak", "Walls reach up to 24 meters high"],
-    }, image: "/poi-images/bulgaria-rila-monastery-entrance-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-banya-mineral-baths-landmarks-v2",
     type: "landmark",
@@ -558,7 +575,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["Összesen 72 termálforrás található a területen", "A források vízhőmérséklete eléri az 58 °C-ot", "A legkorábbi római fürdők a 3. századból valók", "800 méteres tengerszint feletti magasság", "A fennmaradt törökfürdő a 16. században épült", "Magas kén- és fluortartalmú ásványvíz"],
       ro: ["Sistemul captează 72 de izvoare naturale", "Temperatura maximă a apei atinge 58 °C", "Vestigii ale băilor romane din secolul III", "Situată la o altitudine de 800 de metri", "Baia turcească tradițională din secolul XVI", "Ape recunoscute pentru conținutul de sulf"],
       en: ["Complex draws from 72 natural thermal springs", "Water temperatures can reach up to 58 °C", "Roman bath ruins date back to the 3rd century", "Located at an elevation of roughly 800 meters", "Preserved Turkish bath constructed in the 1500s", "Rich in sulfur, fluorine, and dissolved minerals"],
-    }, image: "/poi-images/bulgaria-banya-mineral-baths-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-st-panteleimon-church-landmarks-v2",
     type: "church",
@@ -589,7 +607,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["A 11. század végén vagy a 12. században épült", "Bizánci stílusú, téglából emelt központi épület", "A falak vastagsága eléri az 1,2 métert", "Az orvosok védőszentjéről nevezték el", "1966 óta élvez műemléki védelmet", "A 19. század során jelentős felújításon esett át"],
       ro: ["Construită la sfârșitul sec. 11 sau începutul sec. 12", "Structură centrală bizantină din cărămidă", "Grosimea pereților exteriori este de 1,2 metri", "Dedicată patronului spiritual al medicilor", "Declarată monument cultural național în 1966", "A suferit restaurări parțiale în secolul XIX"],
       en: ["Constructed in the late 11th or early 12th century", "Features classic Byzantine brickwork architecture", "Exterior support walls measure 1.2 meters thick", "Named after the patron saint of medical doctors", "Granted national monument protection in 1966", "Underwent significant restorations during the 19th century"],
-    }, image: "/poi-images/bulgaria-st-panteleimon-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-dobrich-history-museum-landmarks-v2",
     type: "museum",
@@ -620,7 +639,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["A múzeumot hivatalosan 1953-ban alapították", "Több mint 160 000 műtárgyat őriznek itt", "Az első állandó kiállítás 1960-ban nyílt meg", "6000 év régészeti leleteit mutatja be", "Fő fókusza Dél-Dobrudzsa történelme", "Különleges neolitikumi kerámiagyűjteménnyel rendelkezik"],
       ro: ["Muzeul a fost fondat în anul 1953", "Găzduiește o colecție de peste 160.000 de piese", "Prima expoziție permanentă deschisă în 1960", "Acoperă 6.000 de ani de istorie a regiunii", "Se concentrează pe evoluția Dobrogei de Sud", "Include o colecție valoroasă de ceramică preistorică"],
       en: ["Officially established as an institution in 1953", "Preserves a collection of over 160,000 artifacts", "First permanent public exhibition opened in 1960", "Showcases items spanning 6,000 years of history", "Primary focus on the Southern Dobruja region", "Houses a rare collection of prehistoric pottery"],
-    }, image: "/poi-images/bulgaria-dobrich-history-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-st-apostles-church-landmarks-v2",
     type: "church",
@@ -651,7 +671,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["Épült a 18. században", "Kőből és téglából készült", "Egyhajós szerkezetű templom", "A neszebari félszigeten található"],
       ro: ["Construită în secolul al XVIII-lea", "Realizată din piatră și cărămidă", "Arhitectură cu o singură navă", "Situată pe peninsula Nesebar"],
       en: ["Built in the 18th century", "Constructed of stone and brick", "Single-nave structure", "Located on the Nesebar peninsula"],
-    }, image: "/poi-images/bulgaria-st-apostles-church-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-vratza-history-museum-landmarks-v2",
     type: "museum",
@@ -682,7 +703,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["A rogozeni kincs 165 edényből áll", "Az ezüst össztömege 20 kg", "A múzeumot 1953-ban alapították", "Trák arany ékszereket is őriz"],
       ro: ["Tezaurul Rogozen are 165 de vase", "Greutatea totală a argintului: 20 kg", "Muzeu fondat în anul 1953", "Deține bijuterii din aur tracice"],
       en: ["Rogozen Treasure has 165 vessels", "Total silver weight: 20 kg", "Museum founded in 1953", "Houses Thracian gold jewelry"],
-    }, image: "/poi-images/bulgaria-vratza-history-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-kardzhali-museum-landmarks-v2",
     type: "museum",
@@ -713,7 +735,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["Építész: Alexander Pomerancev", "Épült az 1920-as és 30-as években", "Több mint 30 000 kiállítási tárgy", "Egy hatalmas park veszi körül"],
       ro: ["Arhitect: Alexander Pomerantsev", "Construit în anii 1920-1930", "Peste 30.000 de exponate", "Înconjurat de un parc vast"],
       en: ["Architect: Alexander Pomerantsev", "Built in the 1920s-1930s", "Over 30,000 exhibits", "Surrounded by a large park"],
-    }, image: "/poi-images/bulgaria-kardzhali-museum-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-yambol-bezisten-landmarks-v2",
     type: "landmark",
@@ -744,7 +767,8 @@ export const bulgariaLandmarksV2: POI[] = [
       hu: ["A 15. században épült", "12 masszív kupolával rendelkezik", "Az épület hossza 55 méter", "Egyetlen ilyen típusú épület Bulgáriában"],
       ro: ["Construit în secolul al XV-lea", "Are 12 cupole masive", "Lungimea clădirii: 55 metri", "Singura structură de acest tip din țară"],
       en: ["Built in the 15th century", "Features 12 massive domes", "Building length: 55 meters", "Only structure of its kind in Bulgaria"],
-    }, image: "/poi-images/bulgaria-yambol-bezisten-landmarks-v2.webp"},
+    },
+  },
   {
     id: "bulgaria-stara-zagora-history-museum-landmarks-v2",
     type: "museum",
