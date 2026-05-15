@@ -52,6 +52,19 @@ jobs:
       - name: Verify out/ produced
         run: test -f out/index.html && test -d out/_next
 
+      - name: Generate POI HTML overlay (all 152K, overwrites Next POI pages)
+        env:
+          OUT_DIR: out
+          GEN_LIMIT: '0'
+        run: npx tsx scripts/generate-poi-html.mts
+
+      - name: Verify HTML overlay
+        run: |
+          set -euo pipefail
+          COUNT=$(find out -path "*/poi-static" -prune -o -mindepth 4 -name "index.html" -print | wc -l)
+          echo "POI HTML count: $COUNT"
+          test "$COUNT" -gt 100000
+
       - name: Atomic static release + nginx reload
         run: |
           set -euo pipefail
