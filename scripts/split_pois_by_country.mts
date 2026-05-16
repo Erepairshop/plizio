@@ -18,17 +18,48 @@ fs.mkdirSync(OUT, { recursive: true });
 // Pull build helpers + the fully-deduped POI list (V1 + V2 combined).
 import * as _slugs from "../lib/seo/slugs";
 const s: any = (_slugs as any).default ?? _slugs;
-const { buildPoiPath, buildStatePath, SUPPORTED_LANGS, pois: allPois } = s;
+const { buildPoiPath, buildStatePath, SUPPORTED_LANGS, pois: allPois, getCountryId } = s;
 console.log(`Combined POIs (V1+V2 deduped): ${allPois.length}`);
 
+// Map ISO2_TO_COUNTRY's countryId values back to ISO codes for cc bucketing.
+const COUNTRY_TO_ISO2: Record<string, string> = {
+  germany: "DE", hungary: "HU", romania: "RO", poland: "PL", austria: "AT",
+  switzerland: "CH", liechtenstein: "LI", italy: "IT", france: "FR", spain: "ES",
+  portugal: "PT", netherlands: "NL", belgium: "BE", luxembourg: "LU", denmark: "DK",
+  sweden: "SE", norway: "NO", finland: "FI", iceland: "IS", ireland: "IE",
+  uk: "GB", czechia: "CZ", slovakia: "SK", slovenia: "SI", croatia: "HR",
+  serbia: "RS", bosnia: "BA", montenegro: "ME", northmacedonia: "MK",
+  kosovo: "XK", albania: "AL", greece: "GR", bulgaria: "BG", moldova: "MD",
+  ukraine: "UA", belarus: "BY", russia: "RU", estonia: "EE", latvia: "LV",
+  lithuania: "LT", malta: "MT", cyprus: "CY", monaco: "MC", andorra: "AD",
+  sanmarino: "SM", vatican: "VA",
+};
+
+function resolveCC(parent: string): string | null {
+  // 1) Direct ISO2/3: "HU", "HU-CS", "USA", "USA-NY"
+  const first = parent.split("-")[0];
+  if (first && first.length >= 2 && first.length <= 3 && first === first.toUpperCase()) {
+    return first;
+  }
+  // 2) Legacy lowercase parent ("csongrad-csanad", "budapest", "fejer"): try getCountryId
+  try {
+    const cid = getCountryId(parent);
+    const iso = COUNTRY_TO_ISO2[cid];
+    if (iso) return iso;
+  } catch { /* ignore */ }
+  return null;
+}
+
 const byCountry: Record<string, any[]> = {};
+let skipped = 0;
 for (const p of allPois) {
   if (!p?.parent) continue;
   if (p.type === "country" || p.type === "region") continue;
-  const cc = p.parent.split("-")[0];
-  if (!cc || cc.length > 4) continue;
+  const cc = resolveCC(p.parent);
+  if (!cc) { skipped++; continue; }
   (byCountry[cc] = byCountry[cc] || []).push(p);
 }
+console.log(`Bucketed into ${Object.keys(byCountry).length} countries, ${skipped} skipped (unresolvable parent)`);
 
 let totalBytes = 0;
 const sizes: [string, number, number][] = [];
