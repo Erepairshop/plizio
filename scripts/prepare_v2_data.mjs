@@ -41,26 +41,35 @@ function nearestState(cc, lng, lat) {
   return best;
 }
 
-// === STEP 2: Load all V2 POI files via dynamic import ===
+// === STEP 2: Load all V2 POI files via dynamic import (dedup by id, first-wins) ===
 const files = fs.readdirSync(DATA)
   .filter((f) => /^poiExtra.*V2\.ts$/.test(f) && !f.includes(".bak"))
   .sort();
 console.log(`Loading ${files.length} V2 files...`);
 
 const all = [];
+const seenIds = new Set();
 let loaded = 0;
+let dupSkipped = 0;
 for (const f of files) {
   try {
     const mod = await import(pathToFileURL(path.join(DATA, f)).href);
     const arrName = Object.keys(mod).find((k) => k !== "default" && Array.isArray(mod[k]));
     if (!arrName) continue;
-    for (const p of mod[arrName]) all.push(p);
+    for (const p of mod[arrName]) {
+      if (p && p.id) {
+        if (seenIds.has(p.id)) { dupSkipped++; continue; }
+        seenIds.add(p.id);
+      }
+      all.push(p);
+    }
     loaded++;
-    if (loaded % 200 === 0) console.log(`  [${loaded}/${files.length}] +${all.length} POIs`);
+    if (loaded % 200 === 0) console.log(`  [${loaded}/${files.length}] +${all.length} POIs (skipped ${dupSkipped} dups)`);
   } catch (e) {
     console.warn(`  ${f}: ERR ${String(e).slice(0, 120)}`);
   }
 }
+console.log(`Dedup: skipped ${dupSkipped} duplicate-id POIs during aggregation`);
 
 // === STEP 3: Fix country-only parents ===
 let fixed = 0;
