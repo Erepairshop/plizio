@@ -236,12 +236,17 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   {
     const advFacts = (poi as { factsAdvanced?: Record<string, string[]> }).factsAdvanced;
     const baseFacts = poi.facts as Record<string, string[]> | undefined;
-    const pool: string[] = [
+    // Pick from user-lang only; fall back to DE ONLY if user-lang has nothing.
+    let pool: string[] = [
       ...((advFacts?.[lang] as string[] | undefined) ?? []),
-      ...((advFacts?.de as string[] | undefined) ?? []),
       ...((baseFacts?.[lang] as string[] | undefined) ?? []),
-      ...((baseFacts?.de as string[] | undefined) ?? []),
     ].filter((s) => typeof s === "string" && s.length > 20);
+    if (pool.length === 0) {
+      pool = [
+        ...((advFacts?.de as string[] | undefined) ?? []),
+        ...((baseFacts?.de as string[] | undefined) ?? []),
+      ].filter((s) => typeof s === "string" && s.length > 20);
+    }
     if (pool.length > 0) {
       const idx = Array.from(poi.id).reduce((a, c) => a + c.charCodeAt(0), 0) % pool.length;
       didYouKnowHtml = `<aside class="plz-dyk"><h3>${I("didYouKnow", lang)}</h3><p>${escapeHtml(pool[idx])}</p></aside>`;
