@@ -111,50 +111,16 @@ export const bosniaPois: POI[] = [
     coords: [17.1910, 44.7722],
     parent: "BA-004",
     descriptionAdvanced: {
-      de: "Banja Luka, bekannt als 'Stadt des Grüns', zeichnet sich durch ihre zahlreichen Alleen, Parks und Gärten aus. Der Fluss Vrbas, der die Stadt durchquert, ist ein Zentrum für Abenteuersportarten wie Rafting und Kajakfahren. Das historische Kastel, eine Festung mit römischen Wurzeln, dominiert das Stadtbild am Flussufer. Ein weiteres markantes Wahrzeichen ist die serbisch-orthodoxe Christ-Erlöser-Kathedrale mit ihren beeindruckenden goldenen Kuppeln. Die Stadt ist auch für den Trappistenkäse bekannt, der im nahegelegenen Kloster Mariastern nach einem geheimen Rezept hergestellt wird.",
-      hu: "Banja Luka, a \\\"zöld város\\\", széles sugárútjairól, parkjairól és a Vrbas folyóról ismert, mely a rafting és kajakozás kedvelőinek paradicsoma. A város történelmi magja a római alapokon nyugvó Kastel erőd, amely a folyóparton emelkedik. A modern városképet a Megváltó Krisztus-székesegyház aranykupolái határozzák meg. Banja Luka gasztronómiájának híres terméke a trappista sajt, melyet a közeli Mária Csillaga kolostorban készítenek egy titkos recept alapján. A város a Vrbas folyón közlekedő, egyedi 'dajak' csónakokról is ismert. Történelem K7 – Középkori várak és erődítmények.",
-      ro: "Banja Luka, cunoscut drept \\\"orașul verde\\\", se remarcă prin bulevardele sale largi, parcuri și râul Vrbas, un paradis pentru pasionații de rafting și caiac. Nucleul istoric al orașului este fortăreața Kastel, cu fundații romane, ce domină malul râului. Peisajul modern este definit de cupolele aurii ale Catedralei Ortodoxe Sârbe 'Hristos Mântuitorul'. Un produs gastronomic renumit este brânza trapistă, produsă la mănăstirea din apropiere, Mariastern, după o rețetă secretă. Orașul este faimos și pentru bărcile unice 'dajak', specifice râului Vrbas. Istorie K7 – Castele și fortărețe medievale.",
-      en: "Banja Luka, known as the 'City of Greenery,' is distinguished by its numerous avenues, parks, and gardens. The Vrbas River, which flows through the city, is a hub for adventure sports like rafting and kayaking. The historic Kastel Fortress, with Roman origins, dominates the cityscape on the riverbank. Another prominent landmark is the Serbian Orthodox Cathedral of Christ the Saviour with its impressive golden domes. The city is also famous for its Trappist cheese, produced at the nearby Mariastern Monastery according to a secret recipe. History K7 – Medieval Castles and Fortifications."
+      de: "Banja Luka ist die zweitgrößte Stadt von Bosnien und Herzegowina und das administrative Zentrum der Republika Srpska. Sie liegt im Nordwesten des Landes am Fluss Vrbas, der für seine grüne Farbe und die Möglichkeiten zum Rafting bekannt ist. Die Stadt wird oft als 'Stadt des Grüns' bezeichnet, da sie über zahlreiche Parks und Alleen mit über 10.000 Bäumen verfügt. Ein historisches Highlight ist die Festung Kastel, deren Ursprünge bis in die römische Zeit zurückreichen und die heute als Veranstaltungsort für Kulturfestivals dient. Die Architektur der Stadt ist eine Mischung aus osmanischen Einflüssen, österreichisch-ungarischem Stil und modernen Bauten. Besonders sehenswert ist die wiederaufgebaute Ferhadija-Moschee, ein Meisterwerk der osmanischen Baukunst aus dem 16. Jahrhundert. Banja Luka ist zudem ein bedeutendes Bildungszentrum mit einer traditionsreichen Universität und einer lebendigen Studentenszene, die das Stadtbild prägt.",
+      hu: "Banja Luka Bosznia-Hercegovina második legnagyobb városa és a Szerb Köztársaság adminisztratív központja. Az ország északnyugati részén, az Orbász (Vrbas) folyó partján fekszik, amely zöld színéről és vadvízi evezési lehetőségeiről ismert. A várost gyakran nevezik a 'zöld városnak', mivel számos parkkal és több mint 10 000 fával díszített sugárúttal rendelkezik. Történelmi látnivalói közül kiemelkedik a Kastel-erőd, amelynek eredete a római korig nyúlik vissza, ma pedig kulturális fesztiválok helyszíne. Az építészetben az oszmán hatások, az osztrák-magyar stílus és a modern épületek keverednek. Különösen figyelemre méltó az újjáépített Ferhadija-mecset, amely a 16. századi oszmán építészet remekműve. Banja Luka emellett jelentős oktatási központ is, nagy múltú egyetemmel és pezsgő diákélettel, amely meghatározza a város hangulatát.",
+      ro: "Banja Luka este al doilea oraș ca mărime din Bosnia și Herțegovina și centrul administrativ al Republicii Srpska. Este situat în nord-vestul țării, pe râul Vrbas, cunoscut pentru culoarea sa verde și oportunitățile de rafting. Orașul este adesea supranumit „orașul verde”, deoarece dispune de numeroase parcuri și bulevarde cu peste 10.000 de arbori. Un punct istoric de atracție este Cetatea Kastel, ale cărei origini datează din epoca romană și care astăzi servește ca loc de desfășurare pentru festivaluri culturale. Arhitectura orașului este un amestec de influențe otomane, stil austro-ungar și clădiri moderne. Deosebit de remarcabilă este Moscheea Ferhadija reconstruită, o capodoperă a arhitecturii otomane din secolul al XVI-lea. Banja Luka este, de asemenea, un centru educațional important, cu o universitate cu tradiție și o viață studențească vibrantă, care marchează aspectul orașului.",
+      en: "Banja Luka is the second-largest city in Bosnia and Herzegovina and serves as the administrative center of the Republika Srpska. Located in the northwest of the country on the Vrbas River, it is famous for the river's emerald green water and rafting opportunities. The city is often referred to as the 'City of Greenery' due to its numerous parks and avenues lined with over 10,000 trees. A historical highlight is the Kastel Fortress, with origins dating back to Roman times, which now serves as a venue for various cultural festivals. The city's architecture is a unique blend of Ottoman influences, Austro-Hungarian styles, and modern structures. Particularly noteworthy is the rebuilt Ferhadija Mosque, a 16th-century masterpiece of Ottoman architecture. Banja Luka is also a significant educational center, boasting a historic university and a lively student population that shapes the city's atmosphere.",
     },
     factsAdvanced: {
-      de: [
-        "Die Festung Kastel ist das älteste Monument der Stadt und steht auf den Fundamenten einer römischen Siedlung.",
-        "Der Fluss Vrbas ist Heimat des einzigartigen 'Dajak'-Bootes, das mit einem langen Stab navigiert wird.",
-        "Ein schweres Erdbeben im Jahr 1969 zerstörte große Teile der Stadt und führte zu einem umfassenden Wiederaufbau.",
-        "Die Ferhadija-Moschee, ein Meisterwerk osmanischer Baukunst, wurde nach ihrer Zerstörung 1993 vollständig rekonstruiert und 2016 wiedereröffnet.",
-        "Banja Luka veranstaltet jährlich die 'Kestenijada', ein beliebtes Fest zu Ehren der Kastanie.",
-        "Das nahegelegene Kloster Mariastern war einst die größte Trappistenabtei der Welt."
-      ],
-      hu: [
-        "A Kastel erőd a város legrégebbi műemléke, római kori település alapjaira épült.",
-        "A Vrbas folyó ad otthont az egyedi 'dajak' csónaknak, melyet egy hosszú rúddal hajtanak.",
-        "Egy 1969-es pusztító földrengés után a város jelentős részét újjá kellett építeni.",
-        "A Ferhadija mecsetet, az oszmán építészet remekművét, 1993-as lerombolása után teljes mértékben újjáépítették és 2016-ban nyitották meg újra.",
-        "A város minden ősszel megrendezi a 'Kestenijada' nevű gesztenyeünnepet.",
-        "A közeli Mária Csillaga (Mariastern) kolostor egykor a világ legnagyobb trappista apátsága volt.",
-        "Banja Luka neve a 'bán fürdője' kifejezésből ered, utalva a környék gyógyvizeire.",
-        "A városban található a Kortárs Művészeti Múzeum, amely a régió modern művészeinek ad otthont."
-      ],
-      ro: [
-        "Fortăreața Kastel este cel mai vechi monument al orașului, construită pe fundațiile unei așezări romane.",
-        "Râul Vrbas este casa bărcii unice 'dajak', navigată cu ajutorul unei prăjini lungi.",
-        "Un cutremur devastator din 1969 a distrus o mare parte a orașului, necesitând o reconstrucție amplă.",
-        "Moscheea Ferhadija, o capodoperă a arhitecturii otomane, a fost complet reconstruită și redeschisă în 2016 după distrugerea sa din 1993.",
-        "Orașul găzduiește anual 'Kestenijada', un popular festival dedicat castanelor.",
-        "Mănăstirea Mariastern din apropiere a fost cândva cea mai mare abație trapistă din lume.",
-        "Numele Banja Luka provine de la expresia 'baia banului', referindu-se la apele termale din zonă.",
-        "Orașul găzduiește Muzeul de Artă Contemporană, care prezintă artiști moderni din regiune."
-      ],
-      en: [
-        "Kastel Fortress is the oldest monument in the city, built on the foundations of a Roman settlement.",
-        "The Vrbas river is home to the unique 'dajak' boat, which is navigated with a long pole.",
-        "A severe earthquake in 1969 destroyed large parts of the city, leading to extensive reconstruction.",
-        "The Ferhadija Mosque, a masterpiece of Ottoman architecture, was fully reconstructed and reopened in 2016 after its destruction in 1993.",
-        "Banja Luka hosts the annual 'Kestenijada,' a popular festival in honor of the chestnut.",
-        "The nearby Mariastern Monastery was once the largest Trappist abbey in the world.",
-        "The name Banja Luka originates from the term 'ban's bath,' referring to the area's thermal waters.",
-        "The city is home to the Museum of Contemporary Art, which showcases modern artists from the region."
-      ]
+      de: ["Zweitgrößte Stadt in Bosnien und Herzegowina", "Hauptstadt und Sitz der Regierung der Republika Srpska", "Gelegen am Ufer des Flusses Vrbas", "Heimat der Festung Kastel mit römischen Fundamenten", "Wiederaufbau der Ferhadija-Moschee wurde 2016 abgeschlossen", "Bekannt für den 'Dajak', ein traditionelles schmales Boot"],
+      hu: ["Bosznia-Hercegovina második legnagyobb városa", "A Szerb Köztársaság fővárosa és kormányzati székhelye", "Az Orbász (Vrbas) folyó partján fekszik", "Itt található a római alapokra épült Kastel-erőd", "A Ferhadija-mecset újjáépítése 2016-ban fejeződött be", "Híres a 'Dajak'-ról, amely egy hagyományos keskeny csónak"],
+      ro: ["Al doilea oraș ca mărime din Bosnia și Herțegovina", "Capitala și sediul guvernului Republicii Srpska", "Situat pe malurile râului Vrbas", "Găzduiește Cetatea Kastel cu fundații romane", "Reconstrucția Moscheii Ferhadija a fost finalizată în 2016", "Cunoscut pentru „Dajak”, o barcă tradițională îngustă"],
+      en: ["Second-largest city in Bosnia and Herzegovina", "Capital and seat of government of the Republika Srpska", "Situated on the banks of the Vrbas River", "Home to the Kastel Fortress with Roman origins", "Reconstruction of the Ferhadija Mosque was completed in 2016", "Famous for the 'Dajak', a unique traditional river boat"],
     }, image: "/poi-images/ba-banjaluka.webp"},
   {
     id: "ba-mostar",
@@ -169,50 +135,16 @@ export const bosniaPois: POI[] = [
     coords: [17.8078, 43.3438],
     parent: "BA-001",
     descriptionAdvanced: {
-      de: "Mostar, das kulturelle Zentrum der Herzegowina, ist weltberühmt für seine ikonische 'Stari Most' (Alte Brücke). Dieses Meisterwerk osmanischer Baukunst, nach seiner Zerstörung 1993 wiederaufgebaut, ist ein starkes Symbol der Versöhnung. Die Altstadt mit ihren gepflasterten Gassen und dem alten Basar erstreckt sich zu beiden Seiten des smaragdgrünen Flusses Neretva. Mostar ist eine Stadt der Kontraste, in der osmanische Architektur auf österreichisch-ungarische Fassaden trifft und das Minarett einer Moschee neben dem Glockenturm einer Franziskanerkirche in den Himmel ragt.",
-      hu: "Mostar, Hercegovina kulturális központja, a smaragdzöld Neretva folyó partján fekszik. A város szimbóluma a Stari Most, az Öreg híd, az oszmán építészet 16. századi remeke. Az 1993-ban lerombolt, majd újjáépített híd ma a megbékélés és az összefogás jelképe, az UNESCO Világörökség része. Az óváros macskaköves utcái és a régi bazár (čaršija) a keleti mesék világába repítik a látogatót. Mostar a kontrasztok városa, ahol a minaretek sziluettje a ferences templom harangtornyával alkot egyedi panorámát. Fizika K7 – Erő és egyensúly, hídépítés.",
-      ro: "Mostar, centrul cultural al Herțegovinei, este renumit la nivel mondial pentru emblematicul său 'Stari Most' (Podul Vechi). Această capodoperă a arhitecturii otomane, reconstruită după distrugerea din 1993, este un puternic simbol al reconcilierii. Orașul vechi, cu străzile sale pietruite și vechiul bazar, se întinde de ambele părți ale râului Neretva, de un verde smarald. Mostar este un oraș al contrastelor, unde arhitectura otomană întâlnește fațade austro-ungare, iar minaretul unei moschei se înalță lângă clopotnița unei biserici franciscane. Fizică K7 – Forță și echilibru, construcția de poduri.",
-      en: "Mostar, the cultural heart of Herzegovina, is world-famous for its iconic 'Stari Most' (Old Bridge). This masterpiece of Ottoman architecture, rebuilt after its destruction in 1993, is a powerful symbol of reconciliation. The old town, with its cobbled streets and ancient bazaar, stretches along both sides of the emerald-green Neretva River. Mostar is a city of contrasts, where Ottoman architecture meets Austro-Hungarian facades, and the minaret of a mosque soars into the sky next to the bell tower of a Franciscan church. Physics K7 – Force and Equilibrium, Bridge Construction."
+      de: "Mostar ist das kulturelle und wirtschaftliche Zentrum der Herzegowina und liegt malerisch am Fluss Neretva. Das Wahrzeichen der Stadt ist die Stari Most (Alte Brücke), eine im 16. Jahrhundert von den Osmanen errichtete Bogenbrücke, die 1993 im Bosnienkrieg zerstört und 2004 originalgetreu wiederaufgebaut wurde. Die Brücke gehört heute zum UNESCO-Welterbe und ist weltberühmt für die Brückenspringer, die sich aus über 20 Metern Höhe in die eiskalte Neretva stürzen. Die Altstadt von Mostar besticht durch ihre kopfsteingepflasterten Gassen, traditionellen Basare und historischen Moscheen wie die Koski-Mehmed-Pascha-Moschee. Das Klima in Mostar ist mediterran geprägt, was die Region zu einem wichtigen Weinbaugebiet macht. Die Stadt spiegelt die bewegte Geschichte der Region wider, in der sich orientalische und okzidentale Einflüsse auf engstem Raum vermischen. Mostar ist zudem ein wichtiger Verkehrsknotenpunkt auf dem Weg von Sarajevo an die Adriaküste.",
+      hu: "Mostar Hercegovina kulturális és gazdasági központja, amely festői környezetben, a Neretva folyó mentén fekszik. A város jelképe az Öreg híd (Stari Most), egy 16. századi oszmán íves híd, amelyet 1993-ban a délszláv háborúban leromboltak, majd 2004-ben hűen újjáépítettek. A híd ma az UNESCO Világörökség része, és világhírű a hídúgróiról, akik több mint 20 méter magasból vetik magukat a jéghideg Neretvába. Mostar óvárosa macskaköves utcáival, hagyományos bazárjaival és történelmi mecsetjeivel, mint például a Koski Mehmed-pasa mecset, nyűgözi le a látogatókat. A város éghajlata mediterrán, ami a régiót fontos borvidékké teszi. Mostar tükrözi a régió viharos történelmét, ahol a keleti és nyugati hatások kis helyen keverednek. A város emellett fontos közlekedési csomópont a Szarajevóból az adriai tengerpart felé vezető úton.",
+      ro: "Mostar este centrul cultural și economic al Herțegovinei, situat pitoresc pe râul Neretva. Simbolul orașului este Stari Most (Podul Vechi), un pod în arc construit de otomani în secolul al XVI-lea, care a fost distrus în 1993 în timpul războiului din Bosnia și reconstruit fidel originalului în 2004. Astăzi, podul face parte din Patrimoniul Mondial UNESCO și este renumit în întreaga lume pentru săritorii de pe pod, care se aruncă în apele reci ale Neretvei de la o înălțime de peste 20 de metri. Orașul vechi din Mostar impresionează prin străzile sale pavate cu piatră cubică, bazarurile tradiționale și moscheile istorice, precum Moscheea Koski Mehmed Pașa. Clima din Mostar este de tip mediteranean, ceea ce face din regiune o zonă viticolă importantă. Orașul reflectă istoria zbuciumată a regiunii, în care influențele orientale și occidentale se amestecă într-un spațiu restrâns. Mostar este, de asemenea, un nod de transport important pe drumul de la Sarajevo către coasta Adriaticii.",
+      en: "Mostar is the cultural and economic capital of Herzegovina, picturesquely situated on the banks of the Neretva River. The city's most famous landmark is the Stari Most (Old Bridge), a 16th-century Ottoman arched bridge that was destroyed in 1993 during the Bosnian War and faithfully reconstructed in 2004. Now a UNESCO World Heritage site, the bridge is globally renowned for its traditional divers who leap from a height of over 20 meters into the freezing Neretva. Mostar's old town charms visitors with its cobblestone streets, traditional bazaars, and historic mosques like the Koski Mehmed Pasha Mosque. The city's climate is distinctly Mediterranean, making the surrounding region a prominent wine-producing area. Mostar reflects the turbulent history of the region, where Oriental and Western influences blend seamlessly within a small area. Additionally, the city serves as a vital transport link between Sarajevo and the Adriatic coast.",
     },
     factsAdvanced: {
-      de: [
-        "Die Stari Most wurde ursprünglich zwischen 1557 und 1566 vom osmanischen Architekten Mimar Hayruddin erbaut.",
-        "Die Tradition der waghalsigen Brückensprünge in die kalte Neretva ist über 450 Jahre alt.",
-        "Der Name 'Mostar' leitet sich von den 'mostari' ab, den Brückenwächtern, die die Brücke im Mittelalter bewachten.",
-        "Die Stadt zählt zu den sonnigsten und heißesten Orten in ganz Bosnien und Herzegowina.",
-        "Das Muslibegović-Haus ist ein erhaltenes osmanisches Wohnhaus, das als Museum und Hotel dient.",
-        "Die Neretva gehört zu den kältesten Flüssen der Welt; ihre Sommertemperatur übersteigt selten 8°C."
-      ],
-      hu: [
-        "A Stari Most hidat 1557 és 1566 között építette Mimar Hayruddin, a híres Szinán tanítványa.",
-        "A hídról való ugrás a hideg Neretvába több mint 450 éves hagyományra tekint vissza.",
-        "Mostar neve a 'mostari' szóból ered, ami 'hídőröket' jelent, akik a középkorban a hidat őrizték.",
-        "A város Bosznia-Hercegovina egyik legnaposabb és legmelegebb helye.",
-        "A Muslibegović-ház egy fennmaradt oszmán lakóház, amely ma múzeumként és szállodaként működik.",
-        "A Neretva a világ egyik leghidegebb folyója, nyári vízhőmérséklete ritkán haladja meg a 8°C-ot.",
-        "A híd 456 faragott kőtömbből épült.",
-        "Az újjáépítés során a híd eredeti köveinek nagy részét kiemelték a folyóból és újra felhasználták."
-      ],
-      ro: [
-        "Stari Most a fost construit inițial între 1557 și 1566 de către arhitectul otoman Mimar Hayruddin.",
-        "Tradiția săriturilor îndrăznețe de pe pod în apa rece a Neretvei are peste 450 de ani.",
-        "Numele 'Mostar' derivă din 'mostari', paznicii podului care îl păzeau în Evul Mediu.",
-        "Orașul este unul dintre cele mai însorite și mai calde locuri din Bosnia și Herțegovina.",
-        "Casa Muslibegović este o casă otomană conservată, care servește drept muzeu și hotel.",
-        "Râul Neretva este unul dintre cele mai reci din lume; temperatura sa vara rareori depășește 8°C.",
-        "Podul a fost construit din 456 de blocuri de piatră sculptată.",
-        "În timpul reconstrucției, majoritatea pietrelor originale ale podului au fost recuperate din râu și reutilizate."
-      ],
-      en: [
-        "Stari Most was originally built between 1557 and 1566 by the Ottoman architect Mimar Hayruddin.",
-        "The tradition of daring bridge dives into the cold Neretva River is over 450 years old.",
-        "The name 'Mostar' is derived from the 'mostari,' the bridge keepers who guarded the bridge in the Middle Ages.",
-        "The city is one of the sunniest and hottest places in all of Bosnia and Herzegovina.",
-        "The Muslibegović House is a preserved Ottoman residential house that serves as a museum and hotel.",
-        "The Neretva is one of the coldest rivers in the world; its summer temperature rarely exceeds 8°C (46°F).",
-        "The bridge was constructed from 456 carved stone blocks.",
-        "During the reconstruction, most of the original stones of the bridge were recovered from the river and reused."
-      ]
+      de: ["Wahrzeichen Stari Most ist seit 2005 UNESCO-Welterbe", "Brücke wurde ursprünglich 1566 von Mimar Hayruddin erbaut", "Gelegen am Fluss Neretva, einem der kältesten Flüsse der Welt", "Höhe der Alten Brücke beträgt etwa 24 Meter", "Historisches Zentrum der Region Herzegowina", "Einer der heißesten Orte in Bosnien und Herzegowina im Sommer"],
+      hu: ["A jelképes Öreg híd 2005 óta az UNESCO Világörökség része", "A hidat eredetileg 1566-ban Mimar Hayruddin építette", "A Neretva folyó mentén fekszik, amely a világ egyik leghidegebb folyója", "Az Öreg híd magassága körülbelül 24 méter", "Hercegovina régió történelmi és kulturális központja", "Nyáron Bosznia-Hercegovina egyik legforróbb városa"],
+      ro: ["Simbolul Stari Most este inclus în Patrimoniul UNESCO din 2005", "Podul a fost construit inițial în 1566 de Mimar Hayruddin", "Situat pe râul Neretva, unul dintre cele mai reci râuri din lume", "Înălțimea Podului Vechi este de aproximativ 24 de metri", "Centrul istoric al regiunii Herțegovina", "Una dintre cele mai fierbinți locații din Bosnia și Herțegovina vara"],
+      en: ["The iconic Stari Most has been a UNESCO World Heritage site since 2005", "The bridge was originally completed in 1566 by Mimar Hayruddin", "Located on the Neretva River, known as one of the coldest rivers globally", "The Old Bridge stands approximately 24 meters above the water", "Historical and cultural center of the Herzegovina region", "Ranks as one of the hottest cities in Bosnia and Herzegovina during summer"],
     }, image: "/poi-images/ba-mostar.webp"},
   {
     id: "ba-tuzla",
@@ -227,50 +159,16 @@ export const bosniaPois: POI[] = [
     coords: [18.6670, 44.5328],
     parent: "BA-015",
     descriptionAdvanced: {
-      de: "Tuzla, dessen Name vom türkischen Wort für Salz abgeleitet ist, ist einzigartig in Europa für seine Salzseen im Stadtzentrum. Die Pannonischen Seen sind ein künstlich angelegter Komplex, der es den Bewohnern und Besuchern ermöglicht, Strandleben mitten in der Stadt zu genießen. Diese Besonderheit resultiert aus dem massiven Salzlager unter der Stadt, das seit Jahrhunderten abgebaut wird. Neben seiner Salzgeschichte ist Tuzla ein wichtiges Industrie- und Kulturzentrum mit einer lebendigen Kunst- und Musikszene. Die Stadt hat eine lange Tradition der multiethnischen Toleranz bewahrt.",
-      hu: "Tuzla, melynek neve a török 'tuz' (só) szóból származik, Európában egyedülálló módon a városközpontjában található sóstavakkal rendelkezik. A Pannon-tavak egy mesterséges tórendszer, amely a város alatt húzódó hatalmas sólelőhelynek köszönhető. Ez a geológiai adottság tette Tuzlát évszázadokon át a sóbányászat központjává, de ez okozta a város egyes részeinek süllyedését is. A tavak létrehozásával ezt a problemă de mediu orvosolták, egyúttal egyedülálló városi strandot teremtve. Tuzla ma fontos ipari és kulturális központ. Kémia K8 – Oldatok és sók.",
-      ro: "Tuzla, al cărui nume derivă din cuvântul turcesc pentru sare, este unic în Europa pentru lacurile sale sărate din centrul orașului. Lacurile Panonice sunt un complex artificial care permite locuitorilor și vizitatorilor să se bucure de o plajă în mijlocul orașului. Această caracteristică provine din zăcământul masiv de sare de sub oraș, exploatat de secole. Pe lângă istoria sa legată de sare, Tuzla este un important centru industrial și cultural, cu o scenă artistică și muzicală vibrantă. Orașul a păstrat o lungă tradiție de toleranță multietnică. Chimie K8 – Soluții și săruri.",
-      en: "Tuzla, whose name is derived from the Turkish word for salt, is unique in Europe for its salt lakes in the city center. The Pannonian Lakes are a man-made complex that allows residents and visitors to enjoy beach life in the middle of the city. This feature is a result of the massive salt deposit beneath the city, which has been mined for centuries. This geological condition has made Tuzla a center of salt mining for centuries, but it has also caused parts of the city to sink. The creation of the lakes has remedied this environmental problem while also creating a unique urban beach. Today, Tuzla is an important industrial and cultural center. Chemistry K8 – Solutions and Salts."
+      de: "Tuzla ist die drittgrößte Stadt von Bosnien und Herzegowina und ein bedeutendes industrielles Zentrum im Nordosten des Landes. Der Name der Stadt leitet sich vom türkischen Wort 'tuz' für Salz ab, was auf die jahrtausendealte Tradition der Salzgewinnung hinweist. Eine einzigartige Besonderheit ist der Pannonische See im Stadtzentrum, ein künstlich angelegter Salzsee, der Tuzla zu einem beliebten Kurort macht. Wirtschaftlich ist die Region durch den Kohlebergbau und die chemische Industrie geprägt, beherbergt aber auch eines der größten Wärmekraftwerke des Balkans. Tuzla ist bekannt für seine multikulturelle Atmosphäre und galt während des Bosnienkriegs als eine der wenigen Städte, in der das friedliche Zusammenleben der verschiedenen Ethnien gewahrt blieb. Die Universität von Tuzla ist eine der größten des Landes und trägt maßgeblich zur jungen und dynamischen Atmosphäre der Stadt bei. Das Stadtzentrum bietet zudem zahlreiche Denkmäler und eine charmante Fußgängerzone.",
+      hu: "Tuzla Bosznia-Hercegovina harmadik legnagyobb városa és az ország északkeleti részének jelentős ipari központja. A város neve a török 'tuz' (só) szóból származik, ami a sóbányászat több évezredes hagyományára utal. Egyedülálló különlegessége a városközpontban található Pannónia-tó, egy mesterséges sós tó, amely Tuzlát népszerű üdülőhellyé teszi. Gazdaságilag a régiót a szénbányászat és a vegyipar határozza meg, itt található a Balkán egyik legnagyobb hőerőműve is. Tuzla híres multikulturális légköréről, és a délszláv háború alatt azon kevés városok egyike volt, ahol sikerült megőrizni a különböző etnikumok békés együttélését. A Tuzlai Egyetem az ország egyik legnagyobbja, és jelentősen hozzájárul a város fiatalos és dinamikus hangulatához. A városközpont számos emlékművet és egy hangulatos sétálóutcát is kínál.",
+      ro: "Tuzla este al treilea oraș ca mărime din Bosnia și Herțegovina și un centru industrial important în nord-estul țării. Numele orașului derivă din cuvântul turcesc „tuz”, care înseamnă sare, făcând referire la tradiția milenară a extracției de sare. O caracteristică unică este Lacul Panonic din centrul orașului, un lac sărat artificial, care transformă Tuzla într-o stațiune balneară populară. Din punct de vedere economic, regiunea este marcată de mineritul cărbunelui și industria chimică, găzduind, de asemenea, una dintre cele mai mari termocentrale din Balcani. Tuzla este cunoscută pentru atmosfera sa multiculturală și a fost considerată unul dintre puținele orașe în care conviețuirea pașnică a diferitelor etnii a fost menținută în timpul războiului din Bosnia. Universitatea din Tuzla este una dintre cele mai mari din țară și contribuie semnificativ la atmosfera tânără și dinamică a orașului. Centrul orașului oferă, de asemenea, numeroase monumente și o zonă pietonală fermecătoare.",
+      en: "Tuzla is the third-largest city in Bosnia and Herzegovina and a major industrial hub located in the northeastern part of the country. Its name is derived from the Turkish word 'tuz', meaning salt, reflecting a salt-mining tradition that dates back thousands of years. A unique feature of the city is the Pannonian Lakes in the city center—artificial salt lakes that have made Tuzla a popular spa and tourist destination. Economically, the region is defined by coal mining and the chemical industry, and it hosts one of the largest thermal power plants in the Balkans. Tuzla is renowned for its multicultural spirit and was one of the few cities that managed to preserve ethnic coexistence during the Bosnian War. The University of Tuzla is one of the largest in the country, contributing to a youthful and dynamic urban atmosphere. The city center also offers various monuments and a charming pedestrian zone.",
     },
     factsAdvanced: {
-      de: [
-        "Tuzla ist die einzige Stadt in Europa mit Salzseen und einem öffentlichen Strand im Stadtzentrum.",
-        "Der Name 'Tuzla' stammt vom osmanisch-türkischen Wort 'tuz' für Salz.",
-        "Unter der Stadt befindet sich ein riesiger Salzstock, der zu Bodensenkungen im Stadtgebiet geführt hat.",
-        "Die Pannonischen Seen wurden geschaffen, um die durch den Salzabbau verursachten ökologischen Schäden zu kompensieren.",
-        "Die Stadt war Schauplatz eines der schlimmsten Massaker des Bosnienkrieges im Mai 1995.",
-        "Tuzla beherbergt eine der ältesten Dampflokomotiven Europas, die heute als Denkmal dient."
-      ],
-      hu: [
-        "Tuzla az egyetlen város Európában, amelynek központjában sóstavak és nyilvános strand található.",
-        "A város neve az oszmán-török 'tuz' szóból ered, ami sót jelent.",
-        "A város alatt egy hatalmas sókészlet található, ami a talaj süllyedéséhez vezetett.",
-        "A Pannon-tavakat a sóbányászat okozta ökológiai károk enyhítésére hozták létre.",
-        "A városban található Európa egyik legrégebbi gőzmozdonya, amely ma emlékműként szolgál.",
-        "A boszniai háború egyik legtragikusabb mészárlása a tuzlai Kapija negyedben történt 1995-ben.",
-        "A sókitermelés hagyománya a neolitikumig nyúlik vissza a régióban.",
-        "Tuzla régóta a multietnikus tolerancia bástyája Boszniában."
-      ],
-      ro: [
-        "Tuzla este singurul oraș din Europa cu lacuri sărate și o plajă publică în centrul orașului.",
-        "Numele 'Tuzla' provine din cuvântul turcesc otoman 'tuz', care înseamnă sare.",
-        "Sub oraș se află un zăcământ imens de sare, care a dus la scufundarea unor zone ale orașului.",
-        "Lacurile Panonice au fost create pentru a compensa daunele ecologice cauzate de extracția sării.",
-        "Orașul a fost scena unuia dintre cele mai grave masacre ale războiului din Bosnia, în mai 1995.",
-        "Tuzla găzduiește una dintre cele mai vechi locomotive cu aburi din Europa, care acum servește drept monument.",
-        "Tradiția extragerii sării în regiune datează din neolitic.",
-        "Tuzla este de mult timp un bastion al toleranței multietnice în Bosnia."
-      ],
-      en: [
-        "Tuzla is the only city in Europe with salt lakes and a public beach in its center.",
-        "The name 'Tuzla' comes from the Ottoman Turkish word 'tuz' for salt.",
-        "A huge salt deposit is located under the city, which has led to soil subsidence.",
-        "The Pannonian Lakes were created to mitigate the ecological damage caused by salt mining.",
-        "The city is home to one of Europe's oldest steam locomotives, now a monument.",
-        "One of the most tragic massacres of the Bosnian War took place in Tuzla's Kapija district in 1995.",
-        "The tradition of salt extraction in the region dates back to the Neolithic period.",
-        "Tuzla has long been a bastion of multi-ethnic tolerance in Bosnia."
-      ]
+      de: ["Drittgrößte Stadt in Bosnien und Herzegowina", "Besitzt die einzigen Salzseen Europas in einem Stadtzentrum", "Tradition der Salzgewinnung seit der Jungsteinzeit (Neolithikum)", "Standort eines der größten Wärmekraftwerke im Westbalkan", "Name leitet sich vom türkischen Wort für Salz ('tuz') ab", "Wichtiges Zentrum der chemischen Industrie und des Bergbaus"],
+      hu: ["Bosznia-Hercegovina harmadik legnagyobb városa", "Itt találhatók Európa egyetlen sós tavai egy városközpontban", "A sóbányászat hagyománya az újkőkorszakig (neolitikum) nyúlik vissza", "A Nyugat-Balkán egyik legnagyobb hőerőművének helyszíne", "Neve a török só szóból ('tuz') származik", "A vegyipar és a bányászat fontos központja"],
+      ro: ["Al treilea oraș ca mărime din Bosnia și Herțegovina", "Deține singurele lacuri sărate din Europa situate într-un centru urban", "Tradiția extracției de sare datează din epoca neolitică", "Locația uneia dintre cele mai mari termocentrale din Balcanii de Vest", "Numele provine din cuvântul turcesc pentru sare („tuz”)", "Centru important al industriei chimice și al mineritului"],
+      en: ["Third-largest city in Bosnia and Herzegovina", "Home to Europe's only salt lakes located in a city center", "Salt extraction traditions date back to the Neolithic era", "Site of one of the largest thermal power plants in the Western Balkans", "The city's name is derived from the Turkish word for salt ('tuz')", "Major hub for the regional chemical industry and coal mining"],
     }, image: "/poi-images/ba-tuzla.webp"},
   {
     id: "ba-zenica",
@@ -285,50 +183,16 @@ export const bosniaPois: POI[] = [
     coords: [17.9040, 44.2017],
     parent: "BA-014",
     descriptionAdvanced: {
-      de: "Zenica ist das industrielle Herz von Bosnien und Herzegowina, geprägt durch seine lange Geschichte in der Stahlproduktion. Die Stadt liegt im Tal des Flusses Bosna und ist von Hügeln und Bergen umgeben. Obwohl oft als reine Industriestadt wahrgenommen, besitzt Zenica auch kulturelle Schätze wie das Stadtmuseum, eine mittelalterliche Festung namens Vranduk in der Nähe und eine osmanische Moschee. Das moderne Fußballstadion Bilino Polje ist ein nationales Symbol und die Heimstätte der bosnischen Nationalmannschaft. Die Stadt durchläuft derzeit einen Wandel, um ihre industrielle Vergangenheit mit einer grüneren Zukunft zu verbinden.",
-      hu: "Zenica Bosznia-Hercegovina ipari szíve, amelyet régóta acélgyártása határoz meg. A Boszna folyó völgyében fekvő várost hegyek veszik körül. Bár ipari jellege domináns, Zenica kulturális kincsekkel is büszkélkedhet, mint például a Városi Múzeum és a közeli Vranduk középkori erődje. A modern Bilino Polje stadion a bosnyák labdarúgó-válogatott otthona, és a nemzeti öntudat fontos szimbóluma. Zenica jelenleg átalakulóban van, ipari múltját igyekszik egy zöldebb, fenntarthatóbb jövővel ötvözni. Történelem K8 – Az ipari forradalom hatásai.",
-      ro: "Zenica este inima industrială a Bosniei și Herțegovinei, marcată de lunga sa istorie în producția de oțel. Orașul este situat în valea râului Bosna și este înconjurat de dealuri și munți. Deși adesea perceput doar ca un oraș industrial, Zenica deține și comori culturale precum Muzeul Orașului, o fortăreață medievală numită Vranduk în apropiere și o moschee otomană. Stadionul modern de fotbal Bilino Polje este un simbol național și casa echipei naționale a Bosniei. Orașul trece în prezent printr-o transformare, încercând să îmbine trecutul său industrial cu un viitor mai ecologic. Istorie K8 – Efectele revoluției industriale.",
-      en: "Zenica is the industrial heart of Bosnia and Herzegovina, defined by its long history of steel production. Situated in the valley of the Bosna river, the city is surrounded by hills. While its industrial character is dominant, Zenica also boasts cultural treasures such as the City Museum and the nearby medieval fortress of Vranduk. The modern Bilino Polje stadium is the home of the Bosnian national football team and an important symbol of national identity. Zenica is currently undergoing a transformation, striving to combine its industrial past with a greener, more sustainable future. History K8 – The Impacts of the Industrial Revolution."
+      de: "Zenica ist die viertgrößte Stadt von Bosnien und Herzegowina und liegt etwa 70 Kilometer nördlich der Hauptstadt Sarajevo im Tal des Flusses Bosna. Die Stadt ist weltweit vor allem als industrielles Zentrum bekannt, da sich hier eines der größten Stahlwerke Südosteuropas befindet, das 1892 während der österreichisch-ungarischen Herrschaft gegründet wurde. Historisch gesehen reicht die Besiedlung jedoch bis in die Römerzeit zurück, wovon die Ausgrabungen der antiken Siedlung Bistua Nova im Vorort Bilmišće zeugen. Im Mittelalter war die Region ein wichtiger Sitz der bosnischen Herrscher und diente zeitweise als administratives Zentrum unter Ban Kulin. Die Geographie der Stadt wird durch das umliegende zerklüftete Gebirge geprägt, wobei Berge wie der Lisac und der Vepar das Panorama bestimmen. Trotz ihres industriellen Rufs bietet Zenica mit dem Nationaltheater und dem Stadtmuseum bedeutende kulturelle Einrichtungen für den Kanton Zenica-Doboj.",
+      hu: "Zenica Bosznia-Hercegovina negyedik legnagyobb városa, amely Szarajevótól mintegy 70 kilométerre északra, a Boszna folyó völgyében fekszik. A település elsősorban ipari központként ismert, itt található Délkelet-Európa egyik legnagyobb acélműve, amelyet még 1892-ben, az osztrák-magyar fennhatóság idején alapítottak. Történelme azonban jóval korábbra nyúlik vissza, hiszen a római korban itt állt Bistua Nova települése, amelynek romjai ma is láthatóak Bilmišće városrészben. A középkorban a környék a bosnyák uralkodók, köztük Kulin bán egyik fontos székhelye volt, és stratégiai szerepet töltött be a kereskedelmi útvonalak védelmében. A várost meredek hegyek veszik körül, mint például a Lisac és a Vepar, amelyek meghatározzák a környék mikroklímáját és látképét. Zenica ma jelentős kulturális csomópont is, ahol a Nemzeti Színház és a Városi Múzeum őrzi a régió sokszínű örökségét.",
+      ro: "Zenica este al patrulea oraș ca mărime din Bosnia și Herțegovina, situat la aproximativ 70 de kilometri nord de Sarajevo, în valea râului Bosna. Orașul este cunoscut la nivel internațional în principal ca un centru industrial major, găzduind una dintre cele mai mari oțelării din Europa de Sud-Est, fondată în 1892 în timpul administrației austro-ungare. Din punct de vedere istoric, așezarea datează încă din epoca romană, fapt confirmat de descoperirile arheologice ale așezării Bistua Nova din suburbia Bilmišće. În perioada medievală, zona a fost un punct strategic important pentru conducătorii bosniaci, fiind sediul Banului Kulin în secolul al XII-lea. Geografia orașului este dominată de lanțuri muntoase înalte, precum Lisac și Vepar, care încadrează bazinul industrial. În ciuda profilului său metalurgic, Zenica dispune de instituții culturale remarcabile, printre care Teatrul Național și Muzeul Orașului, care reflectă evoluția regiunii.",
+      en: "Zenica is the fourth-largest city in Bosnia and Herzegovina, situated approximately 70 kilometers north of Sarajevo in the fertile valley of the Bosna River. The city is globally recognized as a major industrial hub, being home to one of Southeast Europe's largest steelworks, established in 1892 during the Austro-Hungarian period. Historically, the area has been inhabited since Roman times, evidenced by the archaeological remains of the ancient settlement Bistua Nova found in the Bilmišće suburb. During the Middle Ages, Zenica served as a significant political seat for Bosnian rulers, particularly during the reign of Ban Kulin in the 12th century. The city's geography is characterized by the surrounding rugged mountains, with peaks like Lisac and Vepar defining its scenic backdrop. Despite its industrial reputation, Zenica maintains a vibrant cultural scene with the National Theatre and the City Museum serving as key institutions for the Zenica-Doboj Canton.",
     },
     factsAdvanced: {
-      de: [
-        "Das Stahlwerk von Zenica war einst eines der größten auf dem Balkan und beschäftigte über 20.000 Menschen.",
-        "Das Bilino Polje Stadion gilt als 'uneinnehmbare Festung' für die bosnische Fußballnationalmannschaft, die hier selten verliert.",
-        "In der Nähe von Zenica befindet sich die mittelalterliche Festung Vranduk, die einst als Sitz bosnischer Könige diente.",
-        "Die Stadt war im Mittelalter unter dem Namen 'Bilinum' bekannt.",
-        "Das Stadtmuseum von Zenica beherbergt Artefakte, die bis in die illyrische und römische Zeit zurückreichen.",
-        "Zenica hat eine der ältesten Musikschulen des Landes."
-      ],
-      hu: [
-        "A zenicai acélmű egykor a Balkán egyik legnagyobbja volt, több mint 20 000 embert foglalkoztatva.",
-        "A Bilino Polje stadiont a bosnyák labdarúgó-válogatott 'bevehetetlen erődítményének' tartják, mivel itt ritkán szenvednek vereséget.",
-        "Zenica közelében található a középkori Vranduk erődje, amely egykor bosnyák királyok székhelye volt.",
-        "A város a középkorban 'Bilinum' néven volt ismert.",
-        "A Városi Múzeum gyűjteménye az illír és római korig visszanyúló leleteket is bemutat.",
-        "Zenica ad otthont az ország egyik legrégebbi zeneiskolájának.",
-        "A városban található a Szinán bég által építtetett Szultán Ahmed mecset.",
-        "Zenica börtöne a legnagyobb az országban."
-      ],
-      ro: [
-        "Oțelăria din Zenica a fost cândva una dintre cele mai mari din Balcani, angajând peste 20.000 de oameni.",
-        "Stadionul Bilino Polje este considerat o 'fortăreață inexpugnabilă' pentru echipa națională de fotbal a Bosniei, care rareori pierde aici.",
-        "În apropiere de Zenica se află fortăreața medievală Vranduk, care a servit odată drept reședință a regilor bosniaci.",
-        "Orașul era cunoscut în Evul Mediu sub numele de 'Bilinum'.",
-        "Muzeul Orașului Zenica găzduiește artefacte datând din perioadele iliră și romană.",
-        "Zenica are una dintre cele mai vechi școli de muzică din țară.",
-        "În oraș se află Moscheea Sultan Ahmed, construită de Sinan-beg.",
-        "Închisoarea din Zenica este cea mai mare din țară."
-      ],
-      en: [
-        "The Zenica steelworks was once one of the largest in the Balkans, employing over 20,000 people.",
-        "The Bilino Polje stadium is considered an 'impregnable fortress' for the Bosnian national football team, as they rarely lose there.",
-        "Near Zenica lies the medieval Vranduk fortress, which once served as the seat of Bosnian kings.",
-        "In the Middle Ages, the city was known as 'Bilinum'.",
-        "The City Museum's collection includes artifacts dating back to the Illyrian and Roman periods.",
-        "Zenica is home to one of the country's oldest music schools.",
-        "The city contains the Sultan Ahmed Mosque, built by Sinan-beg.",
-        "Zenica's prison is the largest in the country."
-      ]
+      de: ["Das Stahlwerk ArcelorMittal Zenica wurde bereits im Jahr 1892 in Betrieb genommen.", "Zenica liegt auf einer durchschnittlichen Höhe von 316 Metern über dem Meeresspiegel.", "Die antike römische Siedlung Bistua Nova befand sich auf dem heutigen Stadtgebiet.", "Das Nationaltheater von Zenica wurde 1950 als professionelle Bühne gegründet.", "Die Stadt ist der Verwaltungssitz des Kantons Zenica-Doboj in der Föderation.", "Der nahegelegene Berg Lisac erreicht eine maximale Höhe von 1.302 Metern."],
+      hu: ["A zenicai acélművet 1892-ben alapították, és ma is a város legnagyobb foglalkoztatója.", "A település átlagos tengerszint feletti magassága 316 méter a Boszna folyó völgyében.", "A római kori Bistua Nova település maradványai a mai Bilmišće negyedben találhatóak.", "A Zenicai Nemzeti Színház 1950 óta működik hivatásos kulturális intézményként.", "A város a Zenica-Doboj kanton közigazgatási központja és legnépesebb városa.", "A várost övező Lisac-hegy legmagasabb pontja eléri az 1302 méteres magasságot."],
+      ro: ["Oțelăria ArcelorMittal din Zenica a fost pusă în funcțiune în anul 1892.", "Orașul este situat la o altitudine medie de 316 metri deasupra nivelului mării.", "Vestigiile antice ale așezării romane Bistua Nova se află în perimetrul orașului actual.", "Teatrul Național din Zenica a fost inaugurat ca instituție profesionistă în anul 1950.", "Zenica servește drept centru administrativ al Cantonului Zenica-Doboj.", "Muntele Lisac, care domină panorama orașului, are o înălțime de 1.302 metri."],
+      en: ["The ArcelorMittal Zenica steelworks was originally founded in the year 1892.", "Zenica sits at an average elevation of 316 meters above sea level in the Bosna valley.", "The ancient Roman settlement of Bistua Nova was located within the modern city limits.", "The National Theatre of Zenica was established as a professional institution in 1950.", "The city is the administrative capital of the Zenica-Doboj Canton in the Federation.", "Mount Lisac, overlooking the city, reaches a maximum elevation of 1,302 meters."],
     }, image: "/poi-images/ba-zenica.webp"},
   {
     id: "ba-bihac",
@@ -343,39 +207,16 @@ export const bosniaPois: POI[] = [
     coords: [15.8708, 44.8169],
     parent: "BA-005",
     descriptionAdvanced: {
-      de: "Bihać liegt am Ufer des smaragdgrünen Flusses Una, einem der reinsten und schönsten Flüsse der Region. Die Stadt ist das Zentrum des Nationalparks Una und ein Paradies für Naturliebhaber und Abenteuersportler. Rafting, Kajakfahren und Angeln sind hier sehr beliebte Aktivitäten. Die historische Kapitänsburg und die Fethija-Moschee, ursprünglich eine gotische Kirche, zeugen von der reichen und wechselvollen Geschichte der Stadt. Bihać war auch Sitz des ersten antifaschistischen Parlaments (AVNOJ) im Zweiten Weltkrieg, was seine historische Bedeutung unterstreicht.",
-      hu: "",
-      ro: "Bihać se află pe malurile râului Una, de un verde smarald, unul dintre cele mai curate și frumoase râuri din regiune. Orașul este centrul Parcului Național Una și un paradis pentru iubitorii de natură și sporturi de aventură. Raftingul, caiac-canoe și pescuitul sunt activități foarte populare aici. Turnul istoric al Căpitanului și Moscheea Fethija, inițial o biserică gotică, mărturisesc istoria bogată și diversă a orașului. Bihać a fost, de asemenea, sediul primului parlament antifascist (AVNOJ) în timpul celui de-Al Doilea Război Mondial, ceea ce subliniază importanța sa istorică.",
-      en: "Bihać lies on the banks of the emerald-green Una River, one of the purest and most beautiful rivers in the region. The city is the center of the Una National Park and a paradise for nature lovers and adventure sports enthusiasts. Rafting, kayaking, and fishing are very popular activities here. The historic Captain's Tower and the Fethija Mosque, originally a Gothic church, bear witness to the city's rich and varied history. Bihać was also the seat of the first Anti-Fascist Council (AVNOJ) in World War II, which underscores its historical importance. Biology K7 - River Ecosystems."
+      de: "Bihać ist eine historische Stadt im Nordwesten von Bosnien und Herzegowina, gelegen am smaragdgrünen Fluss Una nahe der kroatischen Grenze. Die Stadt wurde erstmals im Jahr 1260 in einer Urkunde des ungarisch-kroatischen Königs Béla IV. erwähnt und entwickelte sich schnell zu einer bedeutenden königlichen Festung. Ein markantes Wahrzeichen ist die Fethija-Moschee, die ursprünglich im 13. Jahrhundert als katholische St.-Antonius-Kirche im gotischen Stil erbaut und nach der osmanischen Eroberung 1592 umgewandelt wurde. Während des Zweiten Weltkriegs erlangte Bihać Bedeutung als Schauplatz der ersten Sitzung des AVNOJ im Jahr 1942, was zur Gründung des jugoslawischen Staates beitrug. Die Umgebung ist durch den Una-Nationalpark geprägt, der für seine spektakulären Wasserfälle wie den Štrbački buk bekannt ist. Heute ist Bihać das administrative und kulturelle Zentrum des Kantons Una-Sana und ein wichtiger Bildungsstandort mit einer eigenen Universität.",
+      hu: "Bihać Bosznia-Hercegovina északnyugati részén, az Una folyó partján, a horvát határ közelében fekvő történelmi város. Első írásos említése 1260-ból származik IV. Béla magyar király egy adománylevelében, és a középkorban fontos szabad királyi városként, valamint végvárként funkcionált. A város egyik legkülönlegesebb műemléke a Fethija-mecset, amely eredetileg a 13. században épült gótikus stílusú Szent Antal-templomként, majd 1592-ben, az oszmán hódítás után alakították át mecsetté. A második világháború idején Bihać kulcsszerepet játszott, hiszen 1942-ben itt tartották az AVNOJ első ülését, amely meghatározta a későbbi Jugoszlávia politikai alapjait. A város természeti környezetét az Una Nemzeti Park határozza meg, amely híres vízeséseiről és érintetlen folyópartjairól. Modern központként Bihać az Una-Sana kanton székhelye, ahol az egyetem és számos kulturális intézmény biztosítja a régió fejlődését.",
+      ro: "Bihać este un oraș istoric situat în nord-vestul Bosniei și Herțegovinei, pe malurile râului Una, în apropierea frontierei cu Croația. Prima atestare documentară a orașului datează din anul 1260, într-un hrisov al regelui Béla al IV-lea al Ungariei, fiind ulterior o importantă fortăreață regală medievală. Un reper arhitectural unic este Moscheea Fethija, construită inițial în secolul al XIII-lea ca biserică gotică dedicată Sfântului Anton, transformată după cucerirea otomană din 1592. În timpul celui de-al Doilea Război Mondial, orașul a găzduit prima sesiune a AVNOJ în 1942, un eveniment crucial pentru formarea viitoarei federații iugoslave. Împrejurimile orașului sunt dominate de Parcul Național Una, renumit pentru cascadele sale spectaculoase, precum Štrbački buk. În prezent, Bihać este centrul administrativ al Cantonului Una-Sana, găzduind o universitate de prestigiu și numeroase festivaluri culturale internaționale.",
+      en: "Bihać is a historic city in northwestern Bosnia and Herzegovina, nestled on the banks of the emerald Una River near the Croatian border. The city was first mentioned in 1260 in a charter by King Béla IV of Hungary and grew into a vital royal fortress and free city during the Middle Ages. A unique architectural landmark is the Fethija Mosque, which was originally constructed in the 13th century as the Gothic Church of St. Anthony before being converted after the Ottoman conquest in 1592. Bihać gained significant political importance during World War II when it hosted the first session of AVNOJ in 1942, a milestone in the creation of the Yugoslav state. The city is the gateway to the Una National Park, famous for its stunning travertine waterfalls and pristine river landscapes. Today, Bihać serves as the administrative capital of the Una-Sana Canton and remains a central hub for education and tourism in the region.",
     },
     factsAdvanced: {
-      de: [
-        "Bihać liegt am Fluss Una, dessen Name angeblich von einem römischen Soldaten stammt, der ausrief: 'Una!', was 'die Einzige' bedeutet.",
-        "Die Fethija-Moschee wurde im 13. Jahrhundert als gotische Kirche des Heiligen Antonius erbaut.",
-        "Der Nationalpark Una ist bekannt für seine spektakulären Wasserfälle, darunter der Štrbački Buk.",
-        "In Bihać fand 1942 die erste Sitzung des Antifaschistischen Rates der Nationalen Befreiung Jugoslawiens (AVNOJ) statt.",
-        "Die Region um Bihać ist reich an mittelalterlichen Festungsruinen.",
-        "Bihać ist ein beliebtes Ziel für die internationale Una-Regatta, ein jährliches mehrtägiges Kajak- und Rafting-Event."
-      ],
-      hu: [],
-      ro: [
-        "Bihać este situat pe râul Una, al cărui nume se spune că provine de la un soldat roman care a exclamat 'Una!', adică 'unica'.",
-        "Moscheea Fethija a fost construită în secolul al XIII-lea ca biserică gotică dedicată Sfântului Anton.",
-        "Parcul Național Una este cunoscut pentru cascadele sale spectaculoase, inclusiv Štrbački Buk.",
-        "În 1942, la Bihać a avut loc prima sesiune a Consiliului Antifascist de Eliberare Națională a Iugoslaviei (AVNOJ).",
-        "Regiunea din jurul orașului Bihać este bogată în ruine de cetăți medievale.",
-        "Bihać este o destinație populară pentru Regata Internațională Una, un eveniment anual de caiac și rafting de mai multe zile."
-      ],
-      en: [
-        "Bihać is located on the Una River, whose name is said to have come from a Roman soldier who exclaimed 'Una!', meaning 'the one and only'.",
-        "The Fethija Mosque was built in the 13th century as the Gothic Church of Saint Anthony.",
-        "Una National Park is known for its spectacular waterfalls, including Štrbački Buk.",
-        "In 1942, Bihać hosted the first session of the Anti-Fascist Council of National Liberation of Yugoslavia (AVNOJ).",
-        "The region around Bihać is rich in medieval fortress ruins.",
-        "Bihać is a popular destination for the International Una Regatta, an annual multi-day kayaking and rafting event.",
-        "The Captain's Tower, a remnant of the old fortifications, now serves as a city museum.",
-        "The city was a free royal city of the medieval Kingdom of Hungary."
-      ]
+      de: ["Bihać wurde im Jahr 1260 erstmals in einer Urkunde des Königs Béla IV. erwähnt.", "Die Fethija-Moschee ist die einzige erhaltene Kirche im gotischen Stil in Bosnien.", "Im Jahr 1592 wurde die Stadt nach langer Belagerung durch das Osmanische Reich erobert.", "Die erste Sitzung des AVNOJ fand am 26. und 27. November 1942 in Bihać statt.", "Der nahegelegene Wasserfall Štrbački buk hat eine beeindruckende Höhe von 24,5 Metern.", "Bihać ist der Sitz der 1997 gegründeten Universität von Bihać."],
+      hu: ["Bihać első írásos említése IV. Béla király 1260-as adománylevelében szerepel.", "A Fethija-mecset az egyetlen gótikus stílusú épület Boszniában, amely templomból lett mecset.", "Az oszmán seregek 1592-ben foglalták el a várost a Habsburgoktól.", "Az AVNOJ első történelmi ülését 1942. november 26-án tartották a városban.", "Az Una folyón található Štrbački buk vízesés magassága eléri a 24,5 métert.", "A Bihaći Egyetemet 1997-ben alapították a régió felsőoktatási központjaként."],
+      ro: ["Bihać a fost menționat pentru prima dată într-un document regal în anul 1260.", "Moscheea Fethija este considerată singura structură gotică religioasă păstrată în țară.", "Imperiul Otoman a cucerit cetatea Bihać în anul 1592, după numeroase asedii.", "Prima sesiune a AVNOJ a avut loc la Bihać între 26 și 27 noiembrie 1942.", "Cascada Štrbački buk din apropiere are o cădere verticală de 24,5 metri.", "Universitatea din Bihać a fost înființată oficial în anul 1997."],
+      en: ["Bihać was first documented in 1260 in a charter issued by King Béla IV.", "The Fethija Mosque is the only remaining Gothic-style religious building in Bosnia.", "The Ottoman Empire captured the city from the Habsburgs in the year 1592.", "The first session of AVNOJ was held in Bihać on November 26 and 27, 1942.", "The Štrbački buk waterfall on the Una River reaches a height of 24.5 meters.", "The University of Bihać was established in 1997 as a regional educational hub."],
     }, image: "/poi-images/ba-bihac.webp"},
   {
     id: "ba-starimost",
@@ -390,39 +231,16 @@ export const bosniaPois: POI[] = [
     coords: [17.8150, 43.3373],
     parent: "BA-001",
     descriptionAdvanced: {
-      de: "Die Stari Most (Alte Brücke) ist das unverkennbare Wahrzeichen von Mostar und ein Meisterwerk der osmanischen Baukunst. Sie wurde im 16. Jahrhundert erbaut und überspannt elegant den Fluss Neretva. Die Brücke wurde 1993 im Bosnienkrieg zerstört und in einem aufwändigen internationalen Projekt originalgetreu wiederaufgebaut und 2004 wiedereröffnet. Heute steht sie als UNESCO-Weltkulturerbe und als Symbol für die internationale Zusammenarbeit und die Versöhnung der verschiedenen Kulturen der Stadt. Die Brücke ist auch die Bühne für die berühmten Mostarer Brückenspringer.",
-      hu: "",
-      ro: "Stari Most (Podul Vechi) este simbolul inconfundabil al orașului Mostar și o capodoperă a arhitecturii otomane. Construit în secolul al XVI-lea, traversează elegant râul Neretva. Podul a fost distrus în 1993, în timpul războiului din Bosnia, și reconstruit fidel într-un proiect internațional complex, fiind redeschis în 2004. Astăzi, este sit al Patrimoniului Mondial UNESCO și un simbol al cooperării internaționale și al reconcilierii între diversele culturi ale orașului. Podul este, de asemenea, scena faimoaselor sărituri de la Mostar.",
-      en: "The Stari Most (Old Bridge) is the unmistakable landmark of Mostar and a masterpiece of Ottoman engineering. Built in the 16th century, it elegantly spans the Neretva River. The bridge was destroyed in the Bosnian War in 1993 and was faithfully rebuilt in a complex international project, reopening in 2004. Today, it stands as a UNESCO World Heritage site and a symbol of international cooperation and the reconciliation of the city's diverse cultures. The bridge is also the stage for the famous Mostar bridge divers. Physics K7 - Structural Engineering and Gravity."
+      de: "Die Stari Most, oder Alte Brücke, ist das ikonische Wahrzeichen der Stadt Mostar und ein Meisterwerk der osmanischen Architektur in Bosnien und Herzegowina. Sie wurde zwischen 1557 und 1566 vom Architekten Mimar Hayruddin, einem Schüler des berühmten Sinan, im Auftrag von Sultan Süleyman dem Prächtigen erbaut. Die Brücke überspannt die Neretva mit einem einzigen, 28,7 Meter breiten Bogen und war zur Zeit ihrer Fertigstellung eine technologische Sensation. Während des Bosnienkrieges wurde die Brücke am 9. November 1993 durch gezielten Beschuss zerstört, was weltweit Entsetzen auslöste. Nach dem Krieg wurde sie unter Verwendung originaler Steine und traditioneller osmanischer Bautechniken originalgetreu rekonstruiert und am 23. Juli 2004 feierlich wiedereröffnet. Seit 2005 gehört die Brücke zusammen mit der Altstadt von Mostar zum UNESCO-Welterbe und symbolisiert heute die Versöhnung zwischen den Kulturen.",
+      hu: "A Stari Most, vagyis az Öreg híd Mostar városának jelképe és az oszmán építészet egyik legkiemelkedőbb alkotása Bosznia-Hercegovinában. A hidat 1557 és 1566 között építették Mimar Hayruddin építész vezetésével, aki a híres Szinán mester tanítványa volt, I. Szulejmán szultán megbízásából. A Neretva folyó felett átívelő, 28,7 méter széles kőív építésekor technológiai csodának számított, mivel nem használtak hozzá hagyományos pilléreket a mederben. A boszniai háború során, 1993. november 9-én a híd a tüzérségi támadások következtében összeomlott, ami a kulturális örökség elleni pusztítás szimbólumává vált. A háború után nemzetközi összefogással, az eredeti kövek felhasználásával és hagyományos módszerekkel újjáépítették, majd 2004. július 23-án adták át. 2005 óta az UNESCO Világörökség része, és ma a népek közötti megbékélés és az újrakezdés jelképeként tisztelik.",
+      ro: "Stari Most, sau Podul Vechi, este simbolul emblematic al orașului Mostar și o capodoperă a arhitecturii otomane din secolul al XVI-lea. Podul a fost construit între anii 1557 și 1566 de către arhitectul Mimar Hayruddin, un discipol al celebrului Mimar Sinan, la ordinul sultanului Soliman Magnificul. Cu o deschidere a arcului de 28,7 metri peste râul Neretva, structura a reprezentat o realizare inginerească fără precedent pentru acea epocă. În timpul conflictului armat din Bosnia, pe data de 9 noiembrie 1993, podul a fost distrus complet de bombardamente, provocând o pierdere culturală imensă. Reconstrucția sa a început după război, folosind tehnici tradiționale și blocuri de piatră extrase din aceeași carieră ca cele originale, fiind reinaugurat la 23 iulie 2004. Din anul 2005, podul și centrul vechi al orașului Mostar sunt incluse în patrimoniul mondial UNESCO ca simbol al reconcilierii.",
+      en: "The Stari Most, or Old Bridge, is the iconic landmark of Mostar and a masterpiece of Ottoman engineering in Bosnia and Herzegovina. Commissioned by Sultan Suleiman the Magnificent, it was built between 1557 and 1566 by the architect Mimar Hayruddin, a student of the legendary Sinan. The single-arch stone bridge spans 28.7 meters across the Neretva River and was considered a technological marvel of its time due to its height and width. Tragically, on November 9, 1993, during the Bosnian War, the bridge was destroyed by artillery fire, leading to international condemnation. Following the conflict, an extensive reconstruction project using traditional methods and original materials was undertaken, leading to its grand reopening on July 23, 2004. In 2005, the bridge and its surrounding historic district were inscribed as a UNESCO World Heritage site, representing unity and the enduring spirit of the local community.",
     },
     factsAdvanced: {
-      de: [
-        "Die Brücke wurde von Mimar Hayruddin, einem Schüler des berühmten osmanischen Architekten Sinan, entworfen.",
-        "Für ihren Bau wurden 456 Steinblöcke verwendet.",
-        "Die Brücke ist 29 Meter lang, 20 Meter hoch und hat keinen Mittelpfeiler.",
-        "Nach ihrer Zerstörung wurden viele der ursprünglichen Steine aus dem Fluss geborgen und für den Wiederaufbau verwendet.",
-        "Der Wiederaufbau kostete etwa 15,5 Millionen US-Dollar.",
-        "Die Brücke und die Altstadt von Mostar wurden 2005 in die Liste des UNESCO-Weltkulturerbes aufgenommen."
-      ],
-      hu: [],
-      ro: [
-        "Podul a fost proiectat de Mimar Hayruddin, un elev al celebrului arhitect otoman Sinan.",
-        "La construcția sa au fost folosite 456 de blocuri de piatră.",
-        "Podul are o lungime de 29 de metri, o înălțime de 20 de metri și nu are pilon central.",
-        "După distrugerea sa, multe dintre pietrele originale au fost recuperate din râu și folosite la reconstrucție.",
-        "Reconstrucția a costat aproximativ 15,5 milioane de dolari SUA.",
-        "Podul și centrul vechi al orașului Mostar au fost incluse pe lista Patrimoniului Mondial UNESCO în 2005."
-      ],
-      en: [
-        "The bridge was designed by Mimar Hayruddin, a student of the famous Ottoman architect Sinan.",
-        "456 blocks of stone were used in its construction.",
-        "The bridge has a span of 29 meters, is 20 meters high, and has no central pier.",
-        "After its destruction, many of the original stones were recovered from the river and used in the reconstruction.",
-        "The reconstruction cost approximately 15.5 million US dollars.",
-        "The bridge and the old city of Mostar were added to the UNESCO World Heritage list in 2005.",
-        "The bridge's arch was made of local Tenelija stone.",
-        "According to legend, the mortar was held together with egg whites."
-      ]
+      de: ["Die Brücke wurde im Jahr 1566 nach neunjähriger Bauzeit fertiggestellt.", "Der Bogen hat eine Spannweite von 28,7 Metern und eine Höhe von 24 Metern.", "Die Zerstörung der Brücke erfolgte am 9. November 1993 während des Krieges.", "Für die Rekonstruktion wurden 1.088 Steinblöcke aus lokalem Tenelija-Stein verwendet.", "Die offizielle Wiedereröffnung fand am 23. Juli 2004 statt.", "Seit 2005 steht die Brücke auf der Liste des UNESCO-Welterbes."],
+      hu: ["A híd kilenc évig tartó építés után, 1566-ban készült el teljesen.", "A kőív fesztávolsága 28,7 méter, legmagasabb pontja 24 méterrel van a víz felett.", "A hidat 1993. november 9-én rombolták le a tüzérségi lövések.", "Az újjáépítéshez 1088 darab faragott Tenelija mészkőtömböt használtak fel.", "A híd ünnepélyes újranyitására 2004. július 23-án került sor.", "Az UNESCO 2005-ben vette fel a hidat és környékét a Világörökségi listára."],
+      ro: ["Podul a fost finalizat în anul 1566, după o perioadă de construcție de 9 ani.", "Arcul podului are o lățime de 28,7 metri și o înălțime de 24 de metri.", "Distrugerea totală a podului a avut loc în dimineața zilei de 9 noiembrie 1993.", "Reconstrucția a implicat utilizarea a 1.088 de blocuri de piatră tradițională Tenelija.", "Ceremonia oficială de reinaugurare a avut loc pe data de 23 iulie 2004.", "UNESCO a inclus situl în lista Patrimoniului Mondial în anul 2005."],
+      en: ["The bridge was completed in 1566 after nine years of intensive construction.", "The arch has a span of 28.7 meters and rises 24 meters above the river level.", "The bridge was completely destroyed by artillery on November 9, 1993.", "Exactly 1,088 blocks of local Tenelija stone were used for the reconstruction.", "The official reopening ceremony was held on July 23, 2004.", "It was designated as a UNESCO World Heritage site in the year 2005."],
     }, image: "/poi-images/ba-starimost.webp"},
   {
     id: "ba-visegrad",
@@ -437,39 +255,16 @@ export const bosniaPois: POI[] = [
     coords: [19.2881, 43.7825],
     parent: "BA-012",
     descriptionAdvanced: {
-      de: "Die Mehmed-Paša-Sokolović-Brücke in Višegrad ist ein herausragendes Beispiel osmanischer Monumentalarchitektur und Ingenieurskunst. Sie wurde im späten 16. Jahrhundert auf Anweisung des Großwesirs Mehmed Paša Sokolović erbaut und vom Hofarchitekten Mimar Sinan entworfen. Die Brücke mit ihren elf Bögen überspannt majestätisch den Fluss Drina. Weltweite Berühmtheit erlangte sie durch den Roman 'Die Brücke über die Drina' des jugoslawischen Nobelpreisträgers Ivo Andrić, in dem die Brücke als stummer Zeuge der Geschichte der Region dient. Seit 2007 gehört sie zum UNESCO-Weltkulturerbe.",
-      hu: "",
-      ro: "Podul Mehmed Paša Sokolović din Višegrad este un exemplu remarcabil de arhitectură monumentală și inginerie otomană. A fost construit la sfârșitul secolului al XVI-lea la ordinul Marelui Vizir Mehmed Paša Sokolović și proiectat de arhitectul curții, Mimar Sinan. Podul, cu cele unsprezece arce ale sale, traversează maiestuos râul Drina. A devenit celebru la nivel mondial datorită romanului 'E un pod pe Drina...' al laureatului iugoslav al Premiului Nobel, Ivo Andrić, în care podul servește ca martor tăcut al istoriei regiunii. Din 2007, este inclus în Patrimoniul Mondial UNESCO.",
-      en: "The Mehmed Paša Sokolović Bridge in Višegrad is an outstanding example of Ottoman monumental architecture and engineering. It was built in the late 16th century on the orders of Grand Vizier Mehmed Paša Sokolović and designed by the court architect Mimar Sinan. With its eleven arches, the bridge majestically spans the Drina River. It gained worldwide fame through the novel 'The Bridge on the Drina' by Yugoslav Nobel laureate Ivo Andrić, in which the bridge serves as a silent witness to the region's history. It has been a UNESCO World Heritage site since 2007. Literature K9 - Symbolism in Fiction."
+      de: "Die Mehmed-Paša-Sokolović-Brücke in Višegrad ist ein architektonisches Juwel aus dem 16. Jahrhundert, das die Drina im Osten von Bosnien und Herzegowina überspannt. Sie wurde im Auftrag des Großwesirs Mehmed Paša Sokolović vom berühmten osmanischen Hofarchitekten Mimar Sinan entworfen und im Jahr 1577 fertiggestellt. Die Brücke besteht aus elf eleganten Spitzbögen und erstreckt sich über eine Gesamtlänge von fast 180 Metern. Historisch gesehen war sie ein entscheidendes Glied an der Handelsstraße zwischen Sarajevo und Konstantinopel. Weltweite Berühmtheit erlangte das Bauwerk durch den Roman 'Die Brücke über die Drina' des Literaturnobelpreisträgers Ivo Andrić, der die Geschichte der Region über Jahrhunderte hinweg anhand der Brücke erzählt. Aufgrund ihrer außergewöhnlichen architektonischen und historischen Bedeutung wurde die Brücke im Jahr 2007 in die Liste des UNESCO-Welterbes aufgenommen. Sie gilt als eines der bedeutendsten Beispiele osmanischer Ingenieurskunst auf dem Balkan.",
+      hu: "A višegradi Szokollu Mehmed pasa hídja a 16. századi oszmán építészet egyik legszebb példája, amely a Drina folyón ível át Kelet-Bosznia-Hercegovinában. A hidat Szokollu Mehmed nagyvezír megbízásából a kor leghíresebb építésze, Mimar Szinán tervezte, és 1577-ben fejezték be az építését. A szerkezet tizenegy csúcsíves kőívből áll, teljes hossza pedig megközelíti a 180 métert. Történelmileg alapvető fontosságú volt a Szarajevó és Konstantinápoly közötti kereskedelmi útvonal biztosításában. A híd világhírnevét Ivo Andrić Nobel-díjas író 'Híd a Drinán' című regényének köszönheti, amely a híd sorsán keresztül mutatja be a régió viharos évszázadait. Rendkívüli építészeti és történeti jelentősége elismeréseként 2007-ben felvették az UNESCO Világörökség listájára. A híd ma is lenyűgöző látványt nyújt, és fontos turisztikai célpont a folyó partján.",
+      ro: "Podul Mehmed Paša Sokolović din Višegrad este o capodoperă a arhitecturii otomane din secolul al XVI-lea, care traversează râul Drina în estul Bosniei și Herțegovinei. Proiectat de renumitul arhitect imperial Mimar Sinan la comanda Marelui Vizir Mehmed Paša Sokolović, podul a fost finalizat în anul 1577. Structura este compusă din 11 arcuri ascuțite elegante și se întinde pe o lungime totală de aproape 180 de metri. Din punct de vedere istoric, podul a reprezentat o legătură vitală pe ruta comercială dintre Sarajevo și Constantinopol. Acesta a devenit celebru la nivel mondial datorită romanului 'E un pod pe Drina', scris de laureatul Premiului Nobel pentru Literatură, Ivo Andrić, care descrie istoria regiunii prin prisma podului. În anul 2007, podul a fost inclus în lista Patrimoniului Mondial UNESCO datorită valorii sale arhitecturale excepționale și integrității sale istorice.",
+      en: "The Mehmed Paša Sokolović Bridge in Višegrad is an architectural jewel of the 16th century, spanning the Drina River in eastern Bosnia and Herzegovina. Commissioned by Grand Vizier Mehmed Paša Sokolović, it was designed by the celebrated Ottoman court architect Mimar Sinan and completed in 1577. The bridge consists of 11 elegant pointed arches and extends over a total length of nearly 180 meters. Historically, it served as a crucial link on the trade route connecting Sarajevo with Constantinople. The structure gained worldwide literary fame through the novel 'The Bridge on the Drina' by Nobel laureate Ivo Andrić, which chronicles the region's history over four centuries centered around the bridge. In recognition of its outstanding architectural and historical significance, the bridge was inscribed on the UNESCO World Heritage list in 2007. It remains one of the finest examples of Ottoman bridge architecture in the Balkan Peninsula.",
     },
     factsAdvanced: {
-      de: [
-        "Die Brücke wurde zwischen 1571 und 1577 erbaut.",
-        "Sie ist etwa 180 Meter lang und ruht auf elf Steinbögen.",
-        "Die Brücke wurde durch den Roman 'Die Brücke über die Drina' von Ivo Andrić literarisch unsterblich gemacht.",
-        "In der Mitte der Brücke befindet sich ein Sofa (eine steinerne Sitzgelegenheit) und ein Portal mit Inschriften.",
-        "Während des Ersten und Zweiten Weltkriegs wurden Teile der Brücke beschädigt, aber später wiederhergestellt.",
-        "Der Bau der Brücke war eine Hommage des Großwesirs an seine Heimatregion."
-      ],
-      hu: [],
-      ro: [
-        "Podul a fost construit între 1571 și 1577.",
-        "Are o lungime de aproximativ 180 de metri și se sprijină pe unsprezece arce de piatră.",
-        "Podul a fost imortalizat literar prin romanul 'E un pod pe Drina...' de Ivo Andrić.",
-        "În mijlocul podului există o canapea (o bancă de piatră) și un portal cu inscripții.",
-        "Părți ale podului au fost avariate în timpul Primului și celui de-Al Doilea Război Mondial, dar ulterior restaurate.",
-        "Construcția podului a fost un omagiu adus de Marele Vizir regiunii sale natale."
-      ],
-      en: [
-        "The bridge was constructed between 1571 and 1577.",
-        "It is approximately 180 meters long and rests on eleven stone arches.",
-        "The bridge was immortalized in literature by Ivo Andrić's novel 'The Bridge on the Drina'.",
-        "In the middle of the bridge, there is a sofa (a stone seating area) and a portal with inscriptions.",
-        "Parts of the bridge were damaged during World War I and World War II but were later restored.",
-        "The construction of the bridge was a tribute by the Grand Vizier to his home region.",
-        "The Grand Vizier himself was taken from the region as a child as part of the Ottoman 'devşirme' system.",
-        "The central pier, known as the 'kapija' (gate), served as a meeting point for centuries."
-      ]
+      de: ["Die Brücke wurde im Jahr 1577 nach mehrjähriger Bauzeit fertiggestellt.", "Sie besitzt insgesamt 11 Bögen mit einer Spannweite von 11 bis 15 Metern.", "Die Gesamtlänge der Brücke beträgt genau 179,5 Meter.", "Mimar Sinan, der Architekt, gilt als der bedeutendste Baumeister des Osmanischen Reiches.", "Das Bauwerk wurde im Jahr 2007 in die Liste des UNESCO-Welterbes aufgenommen.", "Die Brücke ist das zentrale Motiv im berühmten Roman von Ivo Andrić."],
+      hu: ["A híd építése 1577-ben fejeződött be Szokollu Mehmed pasa megbízásából.", "A szerkezet 11 kőívvel rendelkezik, amelyek fesztávolsága 11 és 15 méter között változik.", "A híd teljes hossza 179,5 méter a Drina folyó két partja között.", "Mimar Szinán, a híd tervezője az oszmán építészettörténet legnagyobb alakja.", "Az UNESCO 2007-ben nyilvánította a hidat a Világörökség részévé.", "Ivo Andrić Nobel-díjas műve tette a hidat a világirodalom részévé."],
+      ro: ["Construcția podului a fost finalizată oficial în anul 1577.", "Podul are 11 arcuri principale, cu deschideri cuprinse între 11 și 15 metri.", "Lungimea totală a structurii este de 179,5 metri peste albia râului Drina.", "Arhitectul Mimar Sinan a proiectat podul la apogeul carierei sale imperiale.", "Situl a fost inclus în lista Patrimoniului Mondial UNESCO în anul 2007.", "Podul este piesa centrală a romanului premiat cu Nobel al lui Ivo Andrić."],
+      en: ["The bridge was officially completed in 1577 after several years of construction.", "It features 11 masonry arches with spans ranging from 11 to 15 meters.", "The total length of the stone structure is exactly 179.5 meters.", "Mimar Sinan, the chief Ottoman architect, designed this bridge at his prime.", "UNESCO added the bridge to its World Heritage list in the year 2007.", "The bridge is the namesake and central setting of Ivo Andrić's Nobel-winning novel."],
     }, image: "/poi-images/ba-visegrad.webp"},
   {
     id: "ba-jajce",
@@ -484,40 +279,17 @@ export const bosniaPois: POI[] = [
     coords: [17.2694, 44.3384],
     parent: "BA-013",
     descriptionAdvanced: {
-      de: "Jajce ist eine Stadt von außergewöhnlicher historischer Bedeutung und natürlicher Schönheit. Sie war einst die Hauptstadt des mittelalterlichen bosnischen Königreichs. Über der Stadt thront eine imposante Festung, die von den bosnischen Königen erbaut wurde. Das einzigartige Merkmal von Jajce ist der spektakuläre Pliva-Wasserfall, wo der Fluss Pliva in den Vrbas stürzt – direkt im Herzen der Stadt. Jajce ist auch der Ort, an dem 1943 in der zweiten Sitzung des AVNOJ das föderale Jugoslawien gegründet wurde. Die Stadt ist ein Freilichtmuseum mit Katakomben, Tempeln und historischen Gebäuden.",
-      hu: "",
-      ro: "Jajce este un oraș de o importanță istorică și o frumusețe naturală excepționale. A fost odată capitala regatului medieval bosniac. Deasupra orașului se înalță o fortăreață impunătoare, construită de regii bosniaci. Caracteristica unică a orașului Jajce este spectaculoasa cascadă Pliva, unde râul Pliva se varsă în Vrbas – chiar în inima orașului. Jajce este, de asemenea, locul unde, în 1943, la a doua sesiune a AVNOJ, a fost fondată Iugoslavia federală. Orașul este un muzeu în aer liber, cu catacombe, temple și clădiri istorice.",
-      en: "Jajce is a city of exceptional historical importance and natural beauty. It was once the capital of the medieval Bosnian Kingdom. An imposing fortress, built by Bosnian kings, towers above the city. The unique feature of Jajce is the spectacular Pliva Waterfall, where the Pliva River plunges into the Vrbas River right in the heart of the city. Jajce is also the place where, in 1943, the federal Yugoslavia was founded during the second session of AVNOJ. The city is an open-air museum with catacombs, temples, and historic buildings. World History K8 - Formation of Nations."
+      de: "Jajce ist eine einzigartige Stadt in Zentralbosnien, die für ihre spektakuläre Verbindung von Geschichte und Natur bekannt ist. Im Herzen der Stadt stürzt der Fluss Pliva über einen 22 Meter hohen Wasserfall in den Vrbas, was Jajce zu einer der wenigen Städte weltweit mit einem Wasserfall im Zentrum macht. Historisch war Jajce die Hauptstadt des mittelalterlichen bosnischen Königreichs und der Ort, an dem der letzte bosnische König, Stjepan Tomašević, im Jahr 1463 hingerichtet wurde. Die über der Stadt thronende Festung bietet einen weiten Blick über das Tal und zeugt von der strategischen Bedeutung des Ortes. Unterhalb der Festung befinden sich rätselhafte Katakomben, eine unterirdische Kirche aus dem 14. Jahrhundert. Im 20. Jahrhundert erlangte die Stadt erneut Bedeutung, als hier 1943 während der zweiten Sitzung des AVNOJ die Grundlagen für das sozialistische Jugoslawien geschaffen wurden.",
+      hu: "Jajce Közép-Bosznia egyik legkülönlegesebb városa, ahol a történelem és a természet látványosan fonódik össze. A városközpontban a Pliva folyó egy 22 méter magas vízesésen keresztül ömlik az alatta folyó Vrbasba, ami világszerte ritka látványosságnak számít. Jajce a középkori Bosnyák Királyság utolsó székhelye volt, ahol 1463-ban az utolsó bosnyák királyt, Tomašević Istvánt kivégezték az oszmán hódítás idején. A város felett magasodó vár és a masszív városfalak a középkori védelmi rendszer erejét hirdetik. A föld alatt különleges, 14. századi katakombák és egy sziklába vájt templom található, amelyeket a Hrvatinić nemesi család építtetett. A modern történelemben is fontos szerepet kapott a város, hiszen 1943-ban itt tartották az AVNOJ második ülését, amely lefektette a szövetségi Jugoszlávia államszervezetének alapjait.",
+      ro: "Jajce este un oraș spectaculos din centrul Bosniei, faimos pentru simbioza unică între patrimoniul istoric și frumusețea naturală. Chiar în centrul orașului, râul Pliva formează o cascadă impresionantă de 22 de metri înălțime la confluența cu râul Vrbas, oferind un peisaj urban unic în lume. Din punct de vedere istoric, Jajce a servit drept capitală a Regatului Bosniei, fiind locul unde ultimul rege bosniac, Stjepan Tomašević, a fost executat de otomani în 1463. Cetatea Jajce, situată pe un deal dominant, păstrează ziduri medievale masive și oferă o perspectivă panoramică asupra văii. Sub fortificații se află catacombe enigmatice și o biserică subterană datând din secolul al XIV-lea. În perioada contemporană, orașul a găzduit a doua sesiune a AVNOJ în 1943, eveniment politic major care a marcat fondarea federației iugoslave moderne.",
+      en: "Jajce is a remarkable historic town in central Bosnia, renowned for the spectacular meeting of history and nature at its core. At the heart of the town, the Pliva River plunges over a 22-meter-high waterfall into the Vrbas River, making Jajce one of the few towns in the world with a waterfall in its center. Historically, Jajce served as the capital of the medieval Kingdom of Bosnia and was the site of the execution of the last Bosnian king, Stjepan Tomašević, in 1463. The imposing fortress overlooking the town offers breathtaking views and stands as a testament to its strategic military importance over the centuries. Below the citadel lie mysterious catacombs and an underground church dating back to the late 14th century. In 1943, Jajce became a pivotal site in modern history when it hosted the second session of AVNOJ, where the foundations of the post-WWII Yugoslav state were laid.",
     },
     factsAdvanced: {
-      de: [
-        "Jajce war die letzte Hauptstadt des mittelalterlichen bosnischen Königreichs vor dessen Fall an die Osmanen 1463.",
-        "Der Pliva-Wasserfall ist über 20 Meter hoch und einer der wenigen Wasserfälle der Welt, die sich im Zentrum einer Stadt befinden.",
-        "Hier wurde der letzte bosnische König, Stjepan Tomašević, gekrönt und später hingerichtet.",
-        "Die mittelalterlichen Katakomben von Jajce wurden im 15. Jahrhundert in den Fels gehauen.",
-        "In Jajce wurde 1943 die Gründung des sozialistischen Jugoslawiens beschlossen.",
-        "In der Nähe der Stadt befinden sich die Pliva-Seen mit ihren berühmten kleinen Holzwassermühlen."
-      ],
-      hu: [],
-      ro: [
-        "Jajce a fost ultima capitală a regatului medieval bosniac înainte de căderea sa în mâinile otomanilor în 1463.",
-        "Cascada Pliva are peste 20 de metri înălțime și este una dintre puținele cascade din lume situate în centrul unui oraș.",
-        "Aici a fost încoronat și, mai târziu, executat ultimul rege bosniac, Stjepan Tomašević.",
-        "Catacombele medievale din Jajce au fost săpate în stâncă în secolul al XV-lea.",
-        "În 1943, la Jajce s-a decis fondarea Iugoslaviei socialiste.",
-        "În apropierea orașului se află Lacurile Pliva, cu faimoasele lor mori de apă mici din lemn."
-      ],
-      en: [
-        "Jajce was the last capital of the medieval Bosnian Kingdom before its fall to the Ottomans in 1463.",
-        "The Pliva Waterfall is over 20 meters high and one of the few waterfalls in the world located in a city center.",
-        "The last Bosnian king, Stjepan Tomašević, was crowned and later executed here.",
-        "The medieval catacombs of Jajce were carved into the rock in the 15th century.",
-        "The founding of socialist Yugoslavia was decided in Jajce in 1943.",
-        "Near the city are the Pliva Lakes with their famous small wooden watermills.",
-        "The city's coat of arms of the Kotromanić dynasty is preserved in the catacombs.",
-        "A temple dedicated to the god Mithras, dating from the 4th century, was discovered here."
-      ]
-    }
+      de: ["Der Pliva-Wasserfall im Stadtzentrum hat eine Fallhöhe von etwa 22 Metern.", "Jajce war im 15. Jahrhundert die letzte Residenz der bosnischen Könige.", "Die Festung von Jajce wurde ursprünglich im 14. Jahrhundert erbaut.", "Die unterirdischen Katakomben wurden um das Jahr 1400 in den Fels gehauen.", "Die zweite AVNOJ-Sitzung fand am 29. November 1943 in der Stadt statt.", "Nahe der Stadt befinden sich historische Wassermühlen aus der osmanischen Zeit."],
+      hu: ["A Pliva-vízesés magassága körülbelül 22 méter, közvetlenül a város szívében.", "A település a 15. században a Bosnyák Királyság utolsó fővárosaként szolgált.", "A jajcei várat eredetileg a 14. században építtette Hrvoje Vukčić Hrvatinić.", "A vár alatt található katakombák és a templom 1400 körül készültek el.", "1943. november 29-én itt alakult meg a Jugoszláv Népfelszabadító Antifasiszta Tanács.", "A közeli Pliva-tavakon 20 darab apró, fából készült középkori vízimalom látható."],
+      ro: ["Cascada Pliva din centrul orașului are o înălțime de aproximativ 22 de metri.", "Orașul a fost ultima reședință a regilor Bosniei înainte de căderea din 1463.", "Cetatea Jajce a fost construită inițial în secolul al XIV-lea pe culmea dealului.", "Catacombele din Jajce au fost sculptate în stâncă în jurul anului 1400.", "Sesiunea istorică a AVNOJ a avut loc în oraș la data de 29 noiembrie 1943.", "Complexul de mori de apă de pe lacul Pliva datează din perioada otomană."],
+      en: ["The Pliva waterfall in the town center drops approximately 22 meters high.", "Jajce was the last capital of the Bosnian Kingdom in the mid-15th century.", "The fortress of Jajce was originally commissioned in the 14th century.", "The mysterious underground catacombs were carved into rock around 1400.", "The second session of AVNOJ was held in Jajce on November 29, 1943.", "A collection of 20 small wooden watermills from the Ottoman era sits nearby."],
+    },
   },
   {
     id: "ba-travnik",
@@ -532,39 +304,16 @@ export const bosniaPois: POI[] = [
     coords: [17.6653, 44.2281],
     parent: "BA-013",
     descriptionAdvanced: {
-      de: "Travnik, einst die Hauptstadt der osmanischen Wesire in Bosnien, ist eine Stadt reich an Geschichte und Kultur. Über der Stadt thront die beeindruckende mittelalterliche Festung, die einen atemberaubenden Blick über das Lašva-Tal bietet. Travnik wird oft als 'Stadt der Wesire' bezeichnet, da sie fast 150 Jahre lang der Sitz von 77 osmanischen Gouverneuren war. Die Stadt ist auch der Geburtsort des Nobelpreisträgers Ivo Andrić. Die bunte Moschee (Šarena Džamija) und die beiden Uhrtürme aus osmanischer Zeit sind weitere wichtige Wahrzeichen.",
-      hu: "",
-      ro: "Travnik, odinioară capitala vizirilor otomani din Bosnia, este un oraș bogat în istorie și cultură. Deasupra orașului se înalță impresionanta fortăreață medievală, care oferă o priveliște uluitoare asupra văii Lašva. Travnik este adesea numit 'Orașul Vizirilor', deoarece a fost reședința a 77 de guvernatori otomani timp de aproape 150 de ani. Orașul este, de asemenea, locul de naștere al laureatului Nobel Ivo Andrić. Moscheea Colorată (Šarena Džamija) și cele două turnuri cu ceas din perioada otomană sunt alte repere importante.",
-      en: "Travnik, once the capital of the Ottoman viziers in Bosnia, is a city rich in history and culture. The impressive medieval fortress towers over the city, offering a breathtaking view of the Lašva Valley. Travnik is often called the 'City of Viziers' as it was the seat of 77 Ottoman governors for nearly 150 years. The city is also the birthplace of Nobel laureate Ivo Andrić. The Colored Mosque (Šarena Džamija) and the two Ottoman-era clock towers are other important landmarks. History K8 - Ottoman Empire in Europe."
+      de: "Travnik, oft als die Stadt der Wesire bezeichnet, liegt im Herzen von Bosnien und Herzegowina und war zwischen 1699 und 1850 die Residenzstadt der osmanischen Statthalter. Die Stadt wird von einer gut erhaltenen mittelalterlichen Festung aus dem 15. Jahrhundert dominiert, die unter König Tvrtko II. erbaut wurde. Travnik ist berühmt für seine reiche osmanische Architektur, darunter zwei Uhrtürme – die einzige Stadt in Bosnien mit dieser Besonderheit – und zahlreiche Moscheen wie die bunte Šarena Džamija. Ein weiteres Highlight ist die Plava Voda, eine starke Karstquelle mit malerischen Cafés direkt am Wasser. Die Stadt ist auch der Geburtsort des Literaturnobelpreisträgers Ivo Andrić, dessen Geburtshaus heute als Museum dient. Die geografische Lage im schmalen Tal des Flusses Lašva, umgeben von den Bergen Vlašić, verleiht Travnik eine besondere Atmosphäre und macht es zu einem wichtigen Zentrum für Tourismus und Landwirtschaft.",
+      hu: "Travnik, amelyet gyakran a vezírek városaként emlegetnek, Közép-Bosznia szívében fekszik, és 1699 és 1850 között az oszmán helytartók székhelye volt. A várost egy impozáns, 15. századi középkori vár uralja, amelyet még II. Tvrtko király idején kezdtek építeni a Lašva-völgy védelmére. Travnik különlegessége, hogy ez az egyetlen város Boszniában, amely két óratoronnyal is rendelkezik, és számos mecsetje közül kiemelkedik a gazdagon díszített Színes-mecset (Šarena Džamija). A természet szerelmeseit a Plava Voda (Kék Víz) karsztforrás vonzza, amelynek partján hagyományos éttermek és kávézók sorakoznak. A város büszke szülöttje Ivo Andrić Nobel-díjas író, akinek szülőháza ma emlékmúzeumként látogatható. A települést északról a Vlašić-hegy határolja, amely híres juhsajtjáról és téli sportközpontjáról, jelentősen hozzájárulva a régió gazdasági és turisztikai életéhez.",
+      ro: "Travnik, adesea numit orașul vizirilor, este situat în inima Bosniei și Herțegovinei și a servit drept capitală administrativă a vizirilor otomani între 1699 și 1850. Orașul este dominat de o cetate medievală din secolul al XV-lea, construită în timpul domniei regelui Tvrtko al II-lea pentru a supraveghea valea râului Lašva. Travnik este renumit pentru arhitectura sa otomană autentică, fiind singurul oraș din țară care deține două turnuri cu ceas (Sahat-kula) și numeroase moschei decorate, precum Šarena Džamija. Un reper natural deosebit este Plava Voda, un izvor carstic cu apă cristalină care traversează o parte a orașului vechi. Orașul este, de asemenea, locul de naștere al laureatului Premiului Nobel, Ivo Andrić, a cărui casă memorială este acum un muzeu important. Poziția sa la poalele muntelui Vlašić îi conferă un climat alpin plăcut și oportunități excelente pentru turism montan și producția tradițională de brânză.",
+      en: "Travnik, often referred to as the City of Viziers, is located in central Bosnia and served as the residence of Ottoman governors between 1699 and 1850. The town is dominated by a well-preserved 15th-century medieval fortress, originally built during the reign of King Tvrtko II to secure the Lašva Valley. Travnik is unique in Bosnia for having two Ottoman clock towers and is home to the beautifully decorated Painted Mosque (Šarena Džamija). A natural highlight is the Plava Voda (Blue Water) spring, a powerful karst source surrounded by traditional restaurants and greenery. The town is also the birthplace of Nobel laureate Ivo Andrić, and his birth house has been preserved as a prominent museum. Nestled between the slopes of Mount Vlašić and the Lašva River, Travnik offers a rich blend of cultural heritage and alpine scenery, making it a key destination for both history enthusiasts and nature lovers.",
     },
     factsAdvanced: {
-      de: [
-        "Travnik war von 1699 bis 1851 die Residenz des osmanischen Wesirs von Bosnien.",
-        "Die Stadt ist bekannt für ihren 'Travnički sir', einen schafskäseähnlichen Käse.",
-        "Der Nobelpreisträger für Literatur, Ivo Andrić, wurde 1892 in Travnik geboren; sein Geburtshaus ist heute ein Museum.",
-        "Travnik ist eine der wenigen Städte der Welt mit zwei Uhrtürmen aus der osmanischen Ära.",
-        "Die bunte Moschee (Šarena Džamija) ist bekannt für ihre ungewöhnlichen floralen Wandmalereien an der Außenseite.",
-        "Die Festung von Travnik stammt aus dem 15. Jahrhundert, aus der Zeit vor der osmanischen Eroberung."
-      ],
-      hu: [],
-      ro: [
-        "Travnik a fost reședința vizirului otoman al Bosniei între 1699 și 1851.",
-        "Orașul este cunoscut pentru 'Travnički sir', o brânză asemănătoare cu cea de oaie.",
-        "Laureatul Premiului Nobel pentru Literatură, Ivo Andrić, s-a născut la Travnik în 1892; casa sa natală este astăzi muzeu.",
-        "Travnik este unul dintre puținele orașe din lume cu două turnuri cu ceas din epoca otomană.",
-        "Moscheea Colorată (Šarena Džamija) este renumită pentru picturile murale florale neobișnuite de pe exterior.",
-        "Fortăreața din Travnik datează din secolul al XV-lea, din perioada pre-otomană."
-      ],
-      en: [
-        "From 1699 to 1851, Travnik was the residence of the Ottoman vizier of Bosnia.",
-        "The city is known for its 'Travnički sir,' a sheep's milk-like cheese.",
-        "Nobel Prize laureate for literature, Ivo Andrić, was born in Travnik in 1892; his birthplace is now a museum.",
-        "Travnik is one of the few cities in the world with two Ottoman-era clock towers.",
-        "The Colored Mosque (Šarena Džamija) is known for its unusual floral murals on the exterior.",
-        "The Travnik fortress dates back to the 15th century, from the pre-Ottoman era.",
-        "The city served as the setting for Andrić's novel 'Travnik Chronicle' (also known as 'Bosnian Chronicle').",
-        "It was briefly the capital of the Bosnian Eyalet."
-      ]
+      de: ["Travnik war von 1699 bis 1850 der Hauptsitz der osmanischen Wesire.", "Die mittelalterliche Festung wurde im 15. Jahrhundert unter bosnischen Königen erbaut.", "Es ist die einzige Stadt in Bosnien und Herzegowina mit zwei osmanischen Uhrtürmen.", "Die bunte Moschee (Šarena Džamija) wurde im Jahr 1816 in ihrer heutigen Form erbaut.", "Der Literaturnobelpreisträger Ivo Andrić wurde hier am 9. Oktober 1892 geboren.", "Der nahegelegene Berg Vlašić ist berühmt für seinen bis zu 1.943 Meter hohen Gipfel."],
+      hu: ["Travnik 1699 és 1850 között az oszmán birodalmi vizírek székhelye volt.", "A város felett álló várat a 15. században építették védelmi célokból.", "Ez az egyetlen boszniai város, amelynek két történelmi óratornya is van.", "A híres Šarena Džamija (Színes-mecset) mai formáját 1816-ban kapta.", "Ivo Andrić Nobel-díjas író 1892. október 9-én született a városban.", "A várost övező Vlašić-hegy legmagasabb pontja, az Opaljenik 1943 méter magas."],
+      ro: ["Travnik a fost reședința vizirilor otomani timp de 151 de ani (1699-1850).", "Cetatea medievală de pe deal a fost construită inițial în secolul al XV-lea.", "Este singurul oraș din Bosnia care deține două turnuri cu ceas din epoca otomană.", "Moscheea Colorată (Šarena Džamija) a fost reconstruită în forma actuală în 1816.", "Scriitorul Ivo Andrić, laureat Nobel, s-a născut la Travnik în anul 1892.", "Muntele Vlašić din vecinătate atinge o altitudine maximă de 1.943 de metri."],
+      en: ["Travnik served as the capital for Ottoman Viziers from 1699 to 1850.", "The town's medieval fortress was originally built in the 15th century.", "It is the only city in Bosnia and Herzegovina with two distinct clock towers.", "The famous Painted Mosque (Šarena Džamija) dates back to its 1816 reconstruction.", "Nobel Prize winner Ivo Andrić was born in Travnik on October 9, 1892.", "Mount Vlašić, a major nearby peak, reaches an elevation of 1,943 meters."],
     }, image: "/poi-images/ba-travnik.webp"},
   {
     id: "ba-bascarsija",
@@ -579,39 +328,16 @@ export const bosniaPois: POI[] = [
     coords: [18.4312, 43.8597],
     parent: "BA-017",
     descriptionAdvanced: {
-      de: "Die Baščaršija ist das Herz und die Seele von Sarajevo. Dieser alte osmanische Basar aus dem 15. Jahrhundert ist ein Labyrinth aus engen, gepflasterten Gassen, gefüllt mit dem Klang von hämmernden Kupferschmieden, dem Duft von frisch gebrühtem bosnischem Kaffee und gegrillten Ćevapi. Das Zentrum des Platzes bildet der Sebilj, ein hölzerner Brunnen im maurischen Stil, der ein beliebter Treffpunkt ist. Die Baščaršija ist in verschiedene Handwerkszünfte unterteilt, in denen seit Jahrhunderten traditionelle Waren hergestellt und verkauft werden.",
-      hu: "",
-      ro: "Baščaršija este inima și sufletul orașului Sarajevo. Acest vechi bazar otoman din secolul al XV-lea este un labirint de străduțe înguste, pavate cu piatră, pline de sunetul ciocanelor arămarilor, de aroma cafelei bosniace proaspăt preparate și de mirosul de ćevapi la grătar. Centrul pieței este marcat de Sebilj, o fântână din lemn în stil maur, un loc de întâlnire popular. Baščaršija este împărțită în diverse bresle meșteșugărești, unde produsele tradiționale sunt fabricate și vândute de secole.",
-      en: "Baščaršija is the heart and soul of Sarajevo. This old Ottoman bazaar from the 15th century is a labyrinth of narrow, cobbled streets, filled with the sound of hammering coppersmiths, the aroma of freshly brewed Bosnian coffee, and grilled Ćevapi. The center of the square is marked by the Sebilj, a wooden fountain in a pseudo-Moorish style, which is a popular meeting point. Baščaršija is divided into various craft guilds, where traditional goods have been produced and sold for centuries. Social Studies K6 - Trade and Markets."
+      de: "Baščaršija ist das historische und kulturelle Herz von Sarajevo und eines der bekanntesten Beispiele für ein osmanisches Basarviertel auf dem Balkan. Es wurde im 15. Jahrhundert von Isa-beg Ishaković gegründet und im 16. Jahrhundert unter der Herrschaft von Gazi Husrev-beg erheblich erweitert. Das Viertel ist geprägt von engen Gassen, traditionellen Handwerkshäusern und bedeutenden religiösen Gebäuden wie der Gazi-Husrev-beg-Moschee, der Alten Orthodoxen Kirche und der alten Synagoge. Ein zentrales Symbol ist der Sebilj, ein hölzerner Brunnen im osmanischen Stil auf dem Hauptplatz, der 1753 errichtet wurde. Baščaršija war einst ein riesiger Marktplatz mit über 12.000 Geschäften und 80 verschiedenen Handwerkszweigen. Heute ist es das touristische Zentrum der Stadt, bekannt für seine kulinarischen Spezialitäten wie Ćevapi und bosnischen Kaffee sowie für die lebendige Atmosphäre, die den Osten und den Westen miteinander verbindet.",
+      hu: "A Baščaršija Szarajevó történelmi és kulturális központja, az oszmán kori bazárnegyed legszebb példája a Balkánon. A negyedet a 15. században alapította Isa-beg Ishaković, majd a 16. században Gazi Husrev-bég uralkodása alatt nyerte el maihoz hasonló kiterjedését. A szűk, macskaköves utcákat hagyományos kézműves műhelyek, rézművesek és ékszerészek boltjai szegélyezik, amelyek ma is az ősi technikákat alkalmazzák. A terület központi szimbóluma a Sebilj, az 1753-ban épült díszes fa közkút, amely a bazár főterén áll. A negyedben találhatóak a város legfontosabb szakrális épületei, köztük a Gazi Husrev-bég mecset és a régi ortodox templom, jelképezve Szarajevó multikulturális jellegét. Ma a Baščaršija a város turisztikai szíve, ahol a látogatók megkóstolhatják a híres cevapi-t és a hagyományos bosnyák kávét az évszázados falak között.",
+      ro: "Baščaršija reprezintă nucleul istoric și cultural al orașului Sarajevo, fiind cel mai vechi bazar din regiunea Balcanilor, datând din secolul al XV-lea. Fondat de Isa-beg Ishaković și extins semnificativ în secolul al XVI-lea de către Gazi Husrev-beg, acest cartier păstrează atmosfera autentică a unei piețe otomane tradiționale. Străzile înguste sunt pavate cu piatră și adăpostesc ateliere de meșteșugari, fierari și cofetării vechi care servesc delicatese locale. Piesa centrală a bazarului este Sebilj, o fântână publică din lemn construită în stil otoman în anul 1753, situată în piața principală. Zona este, de asemenea, un centru al diversității religioase, găzduind Moscheea Gazi Husrev-beg, Biserica Veche Ortodoxă și sinagoga evreiască în imediata apropiere. Astăzi, Baščaršija este principala atracție turistică a capitalei, oferind o experiență culinară și senzorială unică la intersecția culturilor orientale și occidentale.",
+      en: "Baščaršija is the historic heart and cultural center of Sarajevo, serving as a prime example of an Ottoman-era bazaar district in the Balkans. Founded in the 15th century by Isa-beg Ishaković and greatly expanded in the 16th century under Gazi Husrev-beg, it remains the city's most vibrant area. The district is characterized by its narrow cobbled streets, traditional craft shops, and significant religious structures, including the monumental Gazi Husrev-beg Mosque and the Old Orthodox Church. The most iconic symbol of the area is the Sebilj, an ornate wooden public fountain built in 1753 located in the main square. Historically, Baščaršija was a massive trading hub with thousands of shops organized by trade guilds. Today, it is a bustling tourist destination famous for its traditional Bosnian coffee houses and local culinary specialties like ćevapi, embodying Sarajevo's unique blend of Eastern and Western influences.",
     },
     factsAdvanced: {
-      de: [
-        "Die Baščaršija wurde 1462 von Isa-Beg Ishaković, dem Gründer von Sarajevo, angelegt.",
-        "Der Name leitet sich von den türkischen Wörtern 'baş' (Haupt) und 'çarşı' (Markt) ab.",
-        "Ein großes Feuer im 19. Jahrhundert zerstörte etwa die Hälfte des ursprünglichen Basars.",
-        "Der Sebilj-Brunnen im Zentrum des Platzes wurde ursprünglich 1753 erbaut und 1891 in seiner heutigen Form neu gestaltet.",
-        "Die Kazandžiluk (Kupferschmiedestraße) ist eine der berühmtesten Gassen, in der traditionelle Kupferwaren hergestellt werden.",
-        "Eine Legende besagt, dass jeder, der aus dem Sebilj-Brunnen trinkt, eines Tages nach Sarajevo zurückkehren wird."
-      ],
-      hu: [],
-      ro: [
-        "Baščaršija a fost fondată în 1462 de Isa-Beg Ishaković, fondatorul orașului Sarajevo.",
-        "Numele derivă din cuvintele turcești 'baș' (principal) și 'çarșı' (piață).",
-        "Un incendiu major din secolul al XIX-lea a distrus aproximativ jumătate din bazarul original.",
-        "Fântâna Sebilj din centrul pieței a fost construită inițial în 1753 și refăcută în forma sa actuală în 1891.",
-        "Kazandžiluk (strada arămarilor) este una dintre cele mai faimoase alei, unde se produc articole tradiționale din cupru.",
-        "O legendă spune că oricine bea apă din fântâna Sebilj se va întoarce într-o zi la Sarajevo."
-      ],
-      en: [
-        "Baščaršija was founded in 1462 by Isa-Beg Ishaković, the founder of Sarajevo.",
-        "The name derives from the Turkish words 'baş' (main/head) and 'çarşı' (market).",
-        "A major fire in the 19th century destroyed about half of the original bazaar.",
-        "The Sebilj fountain in the center of the square was originally built in 1753 and redesigned to its current form in 1891.",
-        "Kazandžiluk (Coppersmith Street) is one of the most famous alleys, where traditional copper goods are made.",
-        "A legend says that whoever drinks from the Sebilj fountain will one day return to Sarajevo.",
-        "At its peak, the bazaar had dozens of different crafts, each with its own street.",
-        "The streets are still paved with the original cobblestones."
-      ]
+      de: ["Baščaršija wurde im Jahr 1462 vom Stadtgründer Isa-beg Ishaković angelegt.", "Der hölzerne Sebilj-Brunnen auf dem Hauptplatz wurde 1753 erbaut.", "Im 16. Jahrhundert gab es im Basarviertel über 12.000 kleine Läden.", "Die Gazi-Husrev-beg-Moschee ist die größte historische Moschee des Landes.", "Das Viertel beherbergt die älteste orthodoxe Kirche Sarajevos aus dem 16. Jahrhundert.", "Der Name stammt aus dem Türkischen und bedeutet 'Hauptmarktplatz'."],
+      hu: ["A Baščaršiját 1462-ben alapította Isa-beg Ishaković, Szarajevó városalapítója.", "A főtéren álló ikonikus Sebilj-kutat eredeti formájában 1753-ban emelték.", "A 16. századi aranykorban több mint 12 000 üzlet működött a negyedben.", "A Gazi Husrev-bég mecsetet 1531-ben fejezték be, és ma is az ország legnagyobbja.", "A negyedben található az 1539-ben épült régi szerb ortodox templom.", "A terület neve a török 'baş' (fej/fő) és 'çarşı' (bazár) szavakból ered."],
+      ro: ["Baščaršija a fost înființată în anul 1462 de către Isa-beg Ishaković.", "Fântâna Sebilj, simbolul pieței centrale, a fost construită în anul 1753.", "În perioada sa de glorie din secolul XVI, bazarul număra peste 12.000 de unități.", "Moscheea Gazi Husrev-beg a fost finalizată în anul 1531 în stil clasic otoman.", "Vechia Biserică Ortodoxă din acest cartier datează din secolul al XVI-lea.", "Denumirea derivă din limba turcă și se traduce prin 'Piața Principală'."],
+      en: ["Baščaršija was established in 1462 by Sarajevo's founder, Isa-beg Ishaković.", "The iconic wooden Sebilj fountain in the square was constructed in 1753.", "At its peak in the 16th century, the bazaar held over 12,000 individual shops.", "The Gazi Husrev-beg Mosque was completed in 1531 and remains a major site.", "The district contains the Old Orthodox Church, which was built in 1539.", "The name is derived from Turkish, meaning 'head' or 'main marketplace'."],
     }, image: "/poi-images/ba-bascarsija.webp"},
   {
     id: "ba-srebrenik",
@@ -626,39 +352,16 @@ export const bosniaPois: POI[] = [
     coords: [18.5303, 44.7061],
     parent: "BA-015",
     descriptionAdvanced: {
-      de: "Die Festung Srebrenik, auch bekannt als Gradina, ist eine der am besten erhaltenen und eindrucksvollsten mittelalterlichen Festungen in Bosnien und Herzegowina. Sie thront dramatisch auf einem steilen Felsen über der umliegenden Landschaft. Die Festung war der Sitz des mittelalterlichen bosnischen Bans und Königs Stjepan II Kotromanić. Die erste schriftliche Erwähnung stammt aus dem Jahr 1333 in einer Charta, die Stjepan II. der Republik Dubrovnik ausstellte. Die Festung mit ihren hohen Mauern, Türmen und dem Palast ist ein beeindruckendes Zeugnis der mittelalterlichen bosnischen Macht.",
-      hu: "",
-      ro: "Cetatea Srebrenik, cunoscută și sub numele de Gradina, este una dintre cele mai bine conservate și impresionante cetăți medievale din Bosnia și Herțegovina. Se înalță dramatic pe o stâncă abruptă, dominând peisajul înconjurător. Cetatea a fost reședința banului și regelui medieval bosniac Stjepan II Kotromanić. Prima mențiune scrisă datează din 1333, într-o cartă emisă de Stjepan al II-lea pentru Republica Dubrovnik. Cetatea, cu zidurile sale înalte, turnurile și palatul, este o mărturie impresionantă a puterii medievale bosniace.",
-      en: "Srebrenik Fortress, also known as Gradina, is one of the best-preserved and most impressive medieval fortresses in Bosnia and Herzegovina. It sits dramatically on a steep rock overlooking the surrounding landscape. The fortress was the seat of the medieval Bosnian Ban and King Stjepan II Kotromanić. The first written mention dates from 1333 in a charter issued by Stjepan II to the Republic of Dubrovnik. With its high walls, towers, and palace, the fortress is an impressive testament to medieval Bosnian power. History K7 - Medieval Kingdoms."
+      de: "Die Festung Srebrenik ist eine der am besten erhaltenen mittelalterlichen Burganlagen in Bosnien und Herzegowina und thront spektakulär auf einem steilen Felsen in der Nähe der Stadt Srebrenik. Sie wurde erstmals im Jahr 1333 in einer Urkunde des bosnischen Bans Stjepan II. Kotromanić erwähnt und diente als wichtige Residenz der bosnischen Herrscher. Die strategische Lage bot eine hervorragende Verteidigungsposition über dem Tal des Flusses Tinja und kontrollierte die Wege zwischen dem Landesinneren und der Pannonischen Tiefebene. Die Architektur der Burg besteht aus einem Oberbau mit einem massiven quadratischen Turm und einem Unterbau, die durch Brücken und steile Pfade miteinander verbunden sind. Über Jahrhunderte war Srebrenik ein Zankapfel zwischen dem bosnischen Königreich, Ungarn und dem Osmanischen Reich, wobei sie mehrfach den Besitzer wechselte. Heute ist die Festung ein nationales Denkmal und zieht Besucher durch ihre dramatische Silhouette und die gut erhaltene Bausubstanz an.",
+      hu: "Srebrenik vára Bosznia-Hercegovina egyik legjobb állapotban fennmaradt középkori erődítménye, amely drámai módon emelkedik egy meredek sziklaszirtre Srebrenik városa mellett. Első írásos említése 1333-ból származik, amikor Kotromanić II. István bosnyák bán itt írta alá a Raguzával kötött szerződését. Az erődítmény stratégiai elhelyezkedése lehetővé tette a Tinja folyó völgyének és a magyar határ felé vezető utaknak a teljes ellenőrzését. A vár három fő részből áll: egy masszív lakótoronnyal rendelkező felső várból, egy középső és egy alsó szintből, amelyeket meredek sziklába vágott utak kötnek össze. A történelem során a vár többször is gazdát cserélt a bosnyák, a magyar és az oszmán erők között, és fontos szerepet játszott Mátyás király észak-boszniai hadjárataiban is. Ma nemzeti műemlékként látogatható, és Bosznia egyik legnépszerűbb középkori helyszíne a turisták körében.",
+      ro: "Cetatea Srebrenik este una dintre cele mai bine conservate fortificații medievale din Bosnia și Herțegovina, situată spectaculos pe o stâncă abruptă lângă orașul cu același nume. Menționată pentru prima dată în anul 1333 într-un document al banului bosniac Stjepan al II-lea Kotromanić, cetatea a servit drept reședință regală și punct strategic defensiv. Poziția sa geografică domina valea râului Tinja, controlând rutele comerciale și militare dintre regiunile muntoase și câmpia Panonică. Arhitectura complexului cuprinde un oraș superior cu un turn principal masiv și fortificații inferioare conectate prin poduri mobile și căi de acces sculptate în piatră. De-a lungul secolelor, cetatea a fost disputată între Regatul Bosniei, Regatul Ungariei și Imperiul Otoman, trecând succesiv prin perioade de asediu și reconstrucție. În prezent, Srebrenik este clasificată drept monument național și reprezintă un reper esențial pentru înțelegerea istoriei feudale a regiunii.",
+      en: "Srebrenik Fortress is one of the best-preserved medieval castles in Bosnia and Herzegovina, perched dramatically atop a steep rock near the town of Srebrenik. First mentioned in 1333 in a treaty signed by the Bosnian Ban Stjepan II Kotromanić, it served as a vital strategic residence for Bosnian rulers. Its geographical position offered an unparalleled defensive advantage over the Tinja River valley, controlling the key passage between the hinterland and the Pannonian plains. The fortress architecture consists of an upper town with a massive square tower and a lower defensive complex, connected by bridges and narrow rock-cut paths. For centuries, Srebrenik was a point of contention between the Kingdom of Bosnia, Hungary, and the Ottoman Empire, changing hands multiple times during military campaigns. Today, the fortress is protected as a national monument and is celebrated as one of the most picturesque medieval sites in the Balkans.",
     },
     factsAdvanced: {
-      de: [
-        "Srebrenik wurde erstmals 1333 urkundlich erwähnt.",
-        "Sie war die Geburtsstätte von Tvrtko I., dem ersten bosnischen König.",
-        "Die Festung liegt auf einem isolierten Felskegel, der nur über eine Brücke zugänglich ist.",
-        "Sie gilt als eine der am schwersten einzunehmenden Festungen des mittelalterlichen Bosniens.",
-        "Der Name 'Srebrenik' leitet sich vom slawischen Wort für Silber ('srebro') ab, was auf nahegelegene Minen hindeutet.",
-        "Die Charta von 1333 ist eines der ältesten erhaltenen Dokumente des mittelalterlichen bosnischen Staates."
-      ],
-      hu: [],
-      ro: [
-        "Srebrenik a fost menționată pentru prima dată într-un document în 1333.",
-        "A fost locul de naștere al lui Tvrtko I, primul rege bosniac.",
-        "Cetatea este situată pe un con de stâncă izolat, accesibil doar printr-un pod.",
-        "Este considerată una dintre cele mai greu de cucerit cetăți din Bosnia medievală.",
-        "Numele 'Srebrenik' derivă din cuvântul slav pentru argint ('srebro'), sugerând existența unor mine în apropiere.",
-        "Carta din 1333 este unul dintre cele mai vechi documente păstrate ale statului medieval bosniac."
-      ],
-      en: [
-        "Srebrenik was first mentioned in a document in 1333.",
-        "It was the birthplace of Tvrtko I, the first Bosnian king.",
-        "The fortress is situated on an isolated cone-shaped rock, accessible only by a bridge.",
-        "It is considered one of the most difficult to conquer fortresses of medieval Bosnia.",
-        "The name 'Srebrenik' is derived from the Slavic word for silver ('srebro'), suggesting nearby mines.",
-        "The Charter of 1333 is one of the oldest surviving documents of the medieval Bosnian state.",
-        "It was the seat of the powerful Hrvatinić noble family.",
-        "The fortress consists of a lower town, upper town, and a citadel."
-      ]
+      de: ["Die Festung wurde im Jahr 1333 erstmals urkundlich erwähnt.", "Sie war die Residenz von Ban Stjepan II. Kotromanić, dem Onkel des ersten Königs.", "Die Burg liegt auf einem steilen Felsen in 403 Metern Höhe über dem Meeresspiegel.", "Der Zugang zur Burg erfolgt heute über eine feste Brücke über eine tiefe Schlucht.", "Die Osmanen eroberten die Festung im Jahr 1512 endgültig.", "Srebrenik gilt als die am besten erhaltene mittelalterliche Burg in Nordost-Bosnien."],
+      hu: ["Srebrenik várát először 1333-ban említik Kotromanić II. István bán oklevelében.", "Az erődítmény egy meredek szikla tetején, 403 méteres magasságban található.", "A vár a középkorban a bosnyák bánok egyik legfontosabb székhelye volt.", "Mátyás király magyar seregei 1464-ben visszafoglalták a várat az oszmánoktól.", "A vár végleges oszmán fennhatóság alá 1512-ben került.", "Ma Bosznia-Hercegovina nemzeti műemléke és fontos turisztikai látványossága."],
+      ro: ["Cetatea a fost atestată documentar pentru prima dată în anul 1333.", "A servit drept sediu politic pentru Banul Stjepan al II-lea Kotromanić.", "Fortificația este situată pe o stâncă izolată la o altitudine de 403 metri.", "Accesul în cetate se face printr-un pod care traversează o prăpastie adâncă.", "Imperiul Otoman a preluat controlul definitiv asupra cetății în anul 1512.", "Srebrenik este considerată cea mai bine conservată cetate medievală din țară."],
+      en: ["The fortress was first mentioned in a royal document in the year 1333.", "It was the primary residence of Ban Stjepan II Kotromanić in the 14th century.", "The structure sits on a dramatic limestone cliff 403 meters above sea level.", "A wooden bridge across a deep chasm provides the only access to the entrance.", "The Ottoman Empire finally captured the fortress in the year 1512.", "It is recognized as the best-preserved medieval castle in northeastern Bosnia."],
     }, image: "/poi-images/ba-srebrenik.webp"},
   {
     id: "ba-blagaj",
@@ -673,39 +376,16 @@ export const bosniaPois: POI[] = [
     coords: [17.8964, 43.2568],
     parent: "BA-001",
     descriptionAdvanced: {
-      de: "Die Blagaj Tekija (Tekke) ist ein Derwischkloster, das sich an einer der malerischsten Stellen des Landes befindet. Es ist harmonisch in die Landschaft am Fuße einer hohen Klippe gebaut, direkt neben der Karstquelle des Flusses Buna. Die Buna entspringt hier aus einer Höhle und ist eine der stärksten Quellen Europas. Das Kloster wurde im 16. Jahrhundert für die Sufi-Derwische erbaut und ist ein Ort der spirituellen Einkehr und Meditation. Die Kombination aus natürlicher Schönheit und historischer Architektur macht Blagaj zu einem der meistbesuchten Orte in Bosnien und Herzegowina.",
-      hu: "",
-      ro: "Blagaj Tekke este o mănăstire de derviși situată într-unul dintre cele mai pitorești locuri din țară. Este construită armonios în peisaj, la poalele unei stânci înalte, chiar lângă izvorul carstic al râului Buna. Buna izvorăște aici dintr-o peșteră și este unul dintre cele mai puternice izvoare din Europa. Mănăstirea a fost construită în secolul al XVI-lea pentru dervișii sufi și este un loc de reculegere spirituală și meditație. Combinația dintre frumusețea naturală și arhitectura istorică face din Blagaj unul dintre cele mai vizitate locuri din Bosnia și Herțegovina.",
-      en: "The Blagaj Tekke is a Dervish monastery located in one of the country's most picturesque spots. It is harmoniously built into the landscape at the foot of a high cliff, right next to the karst spring of the Buna River. The Buna emerges from a cave here and is one of the strongest springs in Europe. The monastery was built in the 16th century for Sufi Dervishes and is a place of spiritual retreat and meditation. The combination of natural beauty and historical architecture makes Blagaj one of the most visited places in Bosnia and Herzegovina. Geography K6 - Karst Landscapes."
+      de: "Das Blagaj Tekke, ein dervisch-Kloster aus dem frühen 16. Jahrhundert, liegt malerisch an der Quelle des Flusses Buna in Herzegowina. Das Kloster wurde für den Bektaschi-Orden erbaut und ist ein herausragendes Beispiel für die Verbindung von osmanischer Architektur mit der natürlichen Umgebung. Die Quelle der Buna ist eine der größten und stärksten Karstquellen Europas, die aus einer 200 Meter hohen Felswand entspringt. Das Tekke-Gebäude zeichnet sich durch seine charakteristischen Holzelemente und Steinmauern aus, die sich harmonisch an die Klippen schmiegen. Historisch war es ein Zentrum für spirituelle Übungen und Meditation und zieht auch heute noch Pilger und Touristen gleichermaßen an. Neben der religiösen Bedeutung bietet Blagaj eine faszinierende Naturkulisse mit türkisfarbenem Wasser und einer kühlen Atmosphäre selbst im heißen herzegowinischen Sommer. In der Nähe befinden sich zudem die Ruinen der mittelalterlichen Festung von Herzog Stjepan Vukčić Kosača.",
+      hu: "A blagaji dervis kolostor (Tekija) a 16. század elején épült az oszmán építészet és a természet tökéletes harmóniájának jelképeként. A Buna folyó forrásánál fekvő épületegyüttest a bektasi dervisek számára emelték egy hatalmas, 200 méter magas sziklafal tövében. A Buna-forrás Európa egyik legnagyobb és legbővizűbb karsztforrása, amely percenként több ezer köbméter vizet zúdít a felszínre közvetlenül a kolostor mellé. Az épület stílusa az oszmán barokk elemeit ötvözi a helyi kőépítészettel, jellegzetes faerkélyei és belső udvarai a meditációt szolgálják. A helyszín évszázadok óta fontos spirituális központ, ahol ma is láthatóak a dervis sírok és a szertartások termei. Blagaj nemcsak vallási szempontból jelentős, hanem lenyűgöző természeti látványossága miatt is az egyik leglátogatottabb helyszín Hercegovinában, Szarajevó és Mostar közelében. A sziklafal tetején a középkori Stjepan herceg várának romjai koronázzák meg a látképet.",
+      ro: "Blagaj Tekke, o mănăstire de derviși construită la începutul secolului al XVI-lea, este situată spectaculos la izvorul râului Buna în regiunea Herțegovina. Edificiul a fost ridicat pentru ordinul Bektashi și reprezintă o fuziune remarcabilă între arhitectura otomană și mediul natural stâncos. Izvorul râului Buna este unul dintre cele mai mari și mai puternice izvoare carstice din Europa, țâșnind dintr-o peșteră situată la baza unei stânci de 200 de metri înălțime. Structura Tekke-ului este realizată din piatră și lemn, cu balcoane sculptate care oferă o vedere directă asupra apelor turcoaz. Din punct de vedere istoric, mănăstirea a fost un centru important de meditație și rugăciune, păstrându-și rolul spiritual până în prezent. Blagaj atrage numeroși vizitatori datorită climatului său răcoros și peisajului dramatic, fiind completat de ruinele fortăreței medievale a lui Herceg Stjepan situate pe culmea muntelui de deasupra izvorului.",
+      en: "The Blagaj Tekke is a 16th-century Dervish monastery situated at the breathtaking source of the Buna River in the heart of Herzegovina. Built for the Bektashi order, this architectural complex is a unique blend of Ottoman building traditions and the surrounding karst landscape. The Buna spring is one of Europe's largest and most powerful karstic springs, emerging from a cave at the base of a towering 200-meter-high cliff. The Tekke building features distinct wooden balconies and white stone walls that harmonize perfectly with the natural cave entrance and rushing water. Historically, it served as a center for Sufi spiritual practices and meditation, and it remains a significant place for pilgrims and travelers today. Beyond its religious importance, Blagaj offers a serene atmosphere with its turquoise waters and the nearby ruins of the medieval fortress of Duke Stjepan Vukčić Kosača overlooking the valley.",
     },
     factsAdvanced: {
-      de: [
-        "Die Tekke wurde um 1520 erbaut.",
-        "Die Buna-Quelle hat eine durchschnittliche Schüttung von 43.000 Litern pro Sekunde.",
-        "Das Wasser der Buna-Quelle ist extrem kalt und trinkbar.",
-        "Die Tekke ist ein wichtiges Monument der frühen osmanischen Architektur in der Region.",
-        "Das Ensemble umfasst ein Mausoleum (türbe) und ein Gästehaus (musafirhana).",
-        "Blagaj war auch der Standort einer mittelalterlichen Festung, die über der Klippe thront."
-      ],
-      hu: [],
-      ro: [
-        "Tekke a fost construită în jurul anului 1520.",
-        "Izvorul râului Buna are un debit mediu de 43.000 de litri pe secundă.",
-        "Apa izvorului Buna este extrem de rece și potabilă.",
-        "Tekke este un monument important al arhitecturii otomane timpurii din regiune.",
-        "Ansamblul include un mausoleu (türbe) și o casă de oaspeți (musafirhana).",
-        "Blagaj a fost, de asemenea, locația unei cetăți medievale, care se înalță deasupra stâncii."
-      ],
-      en: [
-        "The Tekke was built around 1520.",
-        "The Buna spring has an average discharge of 43,000 liters per second.",
-        "The water of the Buna spring is extremely cold and potable.",
-        "The Tekke is an important monument of early Ottoman architecture in the region.",
-        "The complex includes a mausoleum (türbe) and a guesthouse (musafirhana).",
-        "Blagaj was also the site of a medieval fortress, which is perched above the cliff.",
-        "The monastery is believed to hold the tomb of Sari Saltuk, a 13th-century Bektashi mystic.",
-        "The current building is a mix of Ottoman and Mediterranean architectural styles."
-      ]
+      de: ["Das Kloster wurde um das Jahr 1520 für den Bektaschi-Orden erbaut.", "Die Buna-Quelle liefert durchschnittlich 43.000 Liter Wasser pro Sekunde.", "Die Felswand über dem Kloster hat eine beeindruckende Höhe von 200 Metern.", "Im Inneren des Tekke befinden sich zwei Gräber berühmter Dervische.", "Das Gebäude kombiniert osmanische Architektur mit lokalen herzegowinischen Elementen.", "Auf dem Hügel über der Quelle liegt die mittelalterliche Festung Stjepan grad."],
+      hu: ["A kolostort 1520 körül építették a bektasi dervisek számára.", "A Buna-forrás hozama elérheti a másodpercenkénti 43 000 litert is.", "A kolostor épülete közvetlenül egy 200 méter magas sziklafal tövében áll.", "A Tekija épületében dervis szentek (Sari Saltuk és Ačik-paša) sírjai találhatók.", "A Buna folyó vize egész évben állandó, 10 Celsius-fok körüli hőmérsékletű.", "A sziklafal tetején álló erőd Stjepan Vukčić Kosača herceg székhelye volt."],
+      ro: ["Mănăstirea a fost construită în jurul anului 1520 pentru ordinul Bektashi.", "Izvorul râului Buna are un debit mediu de 43.000 de litri de apă pe secundă.", "Stânca de deasupra clădirii Tekke se înalță la o cotă de 200 de metri.", "Interiorul mănăstirii adăpostește mausoleele (turbe) a doi derviși celebri.", "Blagaj a fost centrul politic al regiunii sub domnia lui Herceg Stjepan.", "Situl este propus pentru includerea în Patrimoniul Mondial UNESCO."],
+      en: ["The monastery was established around 1520 for the Sufi Bektashi order.", "The Buna spring produces an average of 43,000 liters of water per second.", "The limestone cliff face above the site rises exactly 200 meters high.", "The Tekke houses the tombs of two revered dervishes, Sari Saltuk and Açik Paşa.", "The water emerging from the cave maintains a constant temperature of 10°C.", "The medieval fortress Stjepan-grad overlooks the entire spring complex."],
     }, image: "/poi-images/ba-blagaj.webp"},
   {
     id: "ba-pocitelj",
@@ -720,39 +400,16 @@ export const bosniaPois: POI[] = [
     coords: [17.7317, 43.1340],
     parent: "BA-001",
     descriptionAdvanced: {
-      de: "Počitelj ist ein befestigtes Dorf aus Stein, das sich amphitheatralisch an einem Hang über dem Fluss Neretva erhebt. Dieses einzigartige Freilichtmuseum wurde im Mittelalter erbaut und während der osmanischen Zeit erweitert. Zu den markantesten Bauten gehören die Festung (Kula), die einen Panoramablick bietet, die Šišman-Ibrahim-Paša-Moschee und ein Uhrturm. Ein Spaziergang durch die steilen, gepflasterten Gassen von Počitelj ist wie eine Reise in die Vergangenheit. Das Dorf wurde im Krieg schwer beschädigt, aber größtenteils restauriert und steht auf der Vorschlagsliste für das UNESCO-Weltkulturerbe.",
-      hu: "",
-      ro: "Počitelj este un sat fortificat din piatră, care se înalță ca un amfiteatru pe o pantă deasupra râului Neretva. Acest muzeu unic în aer liber a fost construit în Evul Mediu și extins în perioada otomană. Printre cele mai remarcabile clădiri se numără fortăreața (Kula), care oferă o vedere panoramică, Moscheea Šišman Ibrahim Paša și un turn cu ceas. O plimbare pe străzile abrupte și pavate din Počitelj este ca o călătorie înapoi în timp. Satul a fost grav avariat în timpul războiului, dar în mare parte restaurat și se află pe lista tentativă a Patrimoniului Mondial UNESCO.",
-      en: "Počitelj is a fortified stone village that rises like an amphitheater on a slope above the Neretva River. This unique open-air museum was built in the Middle Ages and expanded during the Ottoman period. Among the most notable buildings are the fortress (Kula), which offers panoramic views, the Šišman Ibrahim Pasha Mosque, and a clock tower. A walk through the steep, cobbled streets of Počitelj is like a journey back in time. The village was heavily damaged in the war but has been largely restored and is on the tentative list for UNESCO World Heritage status. Art History K8 - Ottoman Architecture."
+      de: "Počitelj ist eine historische befestigte Stadt am linken Ufer der Neretva, etwa 30 Kilometer südlich von Mostar. Die Siedlung ist ein faszinierendes Freilichtmuseum, das mittelalterliche und osmanische Architekturstile auf einzigartige Weise verbindet. Die Stadt wurde ursprünglich im 14. Jahrhundert unter dem bosnischen König Tvrtko I. gegründet und später von den Osmanen zu einer wichtigen Festung gegen die Venezianer ausgebaut. Zu den herausragenden Bauwerken gehören die Šišman-Ibrahim-Paša-Moschee aus dem 16. Jahrhundert, der markante Uhrturm (Sahat-kula) und die Gavrankapetanović-Häuser. Počitelj liegt terrassenförmig an einem steilen Hang und bietet von seinen Befestigungsanlagen aus einen weiten Blick über das Neretva-Tal. Trotz der Zerstörungen während des Bosnienkrieges wurde die Stadt weitgehend restauriert und steht heute auf der Tentativliste für das UNESCO-Welterbe. Sie ist auch als Sitz einer der ältesten Künstlerkolonien in Südosteuropa bekannt.",
+      hu: "Počitelj egy festői történelmi város Bosznia-Hercegovina déli részén, a Neretva folyó bal partján, mintegy 30 kilométerre Mostartól. A település egyedülálló szabadtéri múzeumként funkcionál, ahol a középkori magyar és bosnyák erődépítészet keveredik az oszmán városépítészettel. A várost eredetileg I. Tvrtko bosnyák király alapította a 14. században, majd a 15. század végén került oszmán kézre, akik fontos határvédelmi bástyává fejlesztették a velenceiek ellen. Legfontosabb műemlékei közé tartozik a Šišman Ibrahim-pasa mecset, az 1563-ban épült medresze (vallási iskola) és a város felett őrködő masszív óratorony. A városka fehér kövekből épült házai teraszosan helyezkednek el a meredek hegyoldalban, ami lenyűgöző panorámát nyújt a folyó völgyére. Počitelj ma is lakott, és híres nemzetközi művésztelepéről, amely évtizedek óta vonzza a festőket és szobrászokat a világ minden tájáról.",
+      ro: "Počitelj este un oraș-cetate istoric situat pe malul stâng al râului Neretva, la aproximativ 30 de kilometri sud de Mostar. Așezarea este considerată un muzeu în aer liber, oferind un amestec rar de arhitectură medievală și otomană conservată exemplar. Fondat inițial în secolul al XIV-lea de regele bosniac Tvrtko I, Počitelj a devenit ulterior o avanpost strategic otoman utilizat pentru a supraveghea mișcările trupelor venețiene. Printre atracțiile principale se numără Moscheea Šišman Ibrahim-paša, construită în 1563, și turnul cu ceas (Sahat-kula) care domină orizontul localității. Orașul este construit în trepte pe un versant abrupt, oferind perspective vizuale dramatice asupra văii Neretvei din vârful turnului Gavrakapetanović. Deși a suferit daune în timpul conflictului din anii 1990, situl a fost restaurat și se află pe lista tentativă UNESCO, fiind renumit și pentru găzduirea uneia dintre cele mai vechi colonii de artiști din Europa de Sud-Est.",
+      en: "Počitelj is a historic fortified town located on the left bank of the Neretva River, about 30 kilometers south of Mostar. This unique settlement serves as an open-air museum, showcasing a remarkable blend of medieval and Ottoman architectural styles. Originally established in the 14th century by the Bosnian King Tvrtko I, it was later expanded by the Ottomans into a vital strategic fortress to defend against Venetian incursions. Key architectural highlights include the Šišman Ibrahim-paša Mosque from 1563, the iconic Clock Tower (Sahat-kula), and the traditional Gavrankapetanović stone houses. The town is terraced into a steep hillside, offering commanding views of the Neretva Valley from its upper defensive walls. Despite damage during the 1990s conflict, Počitelj has been extensively restored and is currently on the UNESCO tentative list, also being famous for hosting one of the longest-running artist colonies in Southeast Europe.",
     },
     factsAdvanced: {
-      de: [
-        "Počitelj wurde erstmals 1444 urkundlich erwähnt.",
-        "Die Festung wurde vom ungarischen König Matthias Corvinus ausgebaut, um sich gegen die Osmanen zu verteidigen.",
-        "Die Šišman-Ibrahim-Paša-Moschee wurde 1563 erbaut und ist bekannt für ihre besondere Akustik.",
-        "Das Dorf war strategisch wichtig, da es den Zugang zum Neretva-Tal kontrollierte.",
-        "Počitelj beherbergt die älteste Kunstkolonie in Südosteuropa, die seit 1964 aktiv ist.",
-        "Die Gavrankapetanović-Haus ist ein typisches Beispiel für die osmanische Wohnarchitektur in der Region."
-      ],
-      hu: [],
-      ro: [
-        "Počitelj a fost menționat pentru prima dată într-un document în 1444.",
-        "Cetatea a fost extinsă de regele ungar Matei Corvin pentru a se apăra împotriva otomanilor.",
-        "Moscheea Šišman Ibrahim Paša a fost construită în 1563 și este cunoscută pentru acustica sa specială.",
-        "Satul a fost important din punct de vedere strategic, controlând accesul la valea Neretvei.",
-        "Počitelj găzduiește cea mai veche colonie de artă din sud-estul Europei, activă din 1964.",
-        "Casa Gavrankapetanović este un exemplu tipic de arhitectură rezidențială otomană din regiune."
-      ],
-      en: [
-        "Počitelj was first mentioned in a document in 1444.",
-        "The fortress was expanded by the Hungarian King Matthias Corvinus to defend against the Ottomans.",
-        "The Šišman Ibrahim Pasha Mosque was built in 1563 and is known for its special acoustics.",
-        "The village was strategically important as it controlled access to the Neretva Valley.",
-        "Počitelj is home to the oldest art colony in Southeast Europe, active since 1964.",
-        "The Gavrankapetanović House is a typical example of Ottoman residential architecture in the region.",
-        "The clock tower was built in the late 17th century.",
-        "The entire historic urban site of Počitelj is a designated National Monument of Bosnia and Herzegovina."
-      ]
+      de: ["Počitelj wurde erstmals im Jahr 1444 urkundlich erwähnt.", "Die Šišman-Ibrahim-Paša-Moschee wurde im Jahr 1563 erbaut.", "Der Uhrturm der Stadt wurde nach dem Jahr 1664 im osmanischen Stil errichtet.", "Die Stadt war ein wichtiger Stützpunkt des ungarischen Königs Matthias Corvinus.", "Die Künstlerkolonie von Počitelj wurde bereits im Jahr 1964 gegründet.", "Počitelj steht seit 2007 auf der Tentativliste für das UNESCO-Welterbe."],
+      hu: ["A várost írásban először 1444-ben említették egy oklevélben.", "A Šišman Ibrahim-pasa mecset 1563-ban készült el kupolás stílusban.", "A város feletti óratorony (Sahat-kula) 1664 után épült fel.", "Mátyás király idején a magyarok megerősítették a várat a törökök ellen.", "A település 1964 óta ad otthont Délkelet-Európa egyik legrégebbi művésztelepének.", "Počitelj 2007 óta szerepel az UNESCO Világörökségi várományos listáján."],
+      ro: ["Prima mențiune documentară a orașului Počitelj datează din anul 1444.", "Moscheea Šišman Ibrahim-paša a fost finalizată în anul 1563.", "Turnul cu ceas (Sahat-kula) a fost ridicat după anul 1664 de autoritățile locale.", "Regele maghiar Matei Corvin a fortificat orașul împotriva expansiunii otomane.", "Colonia internațională de artiști a fost înființată oficial în anul 1964.", "Situl este inclus pe lista indicativă UNESCO pentru patrimoniul mondial din 2007."],
+      en: ["Počitelj was first recorded in historical documents in the year 1444.", "The Šišman Ibrahim-paša Mosque was completed in 1563 in Ottoman style.", "The town's distinctive Clock Tower was built sometime after 1664.", "King Matthias Corvinus of Hungary fortified the town against the Turks.", "The Počitelj Artist Colony has been active since its founding in 1964.", "The town has been on the UNESCO tentative list since the year 2007."],
     }, image: "/poi-images/ba-pocitelj.webp"},
   {
     id: "ba-kravica",
@@ -767,39 +424,16 @@ export const bosniaPois: POI[] = [
     coords: [17.6083, 43.1581],
     parent: "BA-011",
     descriptionAdvanced: {
-      de: "Die Kravica-Wasserfälle sind ein atemberaubendes Naturphänomen in der Herzegowina. Wie ein Mini-Niagara stürzt der Fluss Trebižat hier in einem breiten, über 120 Meter langen Halbkreis 28 Meter in die Tiefe und bildet einen smaragdgrünen See. Die Wasserfälle sind von üppiger Vegetation, Feigenbäumen und Pappeln umgeben. Im Sommer ist der See ein beliebter Bade- und Picknickplatz für Einheimische und Touristen. Die ständige Gischt erzeugt ein Mikroklima, das die Umgebung kühl und erfrischend hält. Kravica ist ein perfektes Beispiel für die wilde und unberührte Karstlandschaft der Herzegowina.",
-      hu: "",
-      ro: "Cascadele Kravica sunt un fenomen natural uluitor în Herțegovina. Ca o mini-Niagara, râul Trebižat se prăbușește aici de la o înălțime de 28 de metri într-un semicerc larg de peste 120 de metri, formând un lac de un verde smarald. Cascadele sunt înconjurate de vegetație luxuriantă, smochini și plopi. Vara, lacul este un loc popular pentru înot și picnic pentru localnici și turiști. Aburul constant creează un microclimat care menține zona răcoroasă și revigorantă. Kravica este un exemplu perfect al peisajului carstic sălbatic și neatins din Herțegovina.",
-      en: "The Kravica waterfalls are a stunning natural phenomenon in Herzegovina. Like a mini-Niagara, the Trebižat River cascades here from a height of 28 meters in a wide semicircle over 120 meters long, forming an emerald-green lake. The falls are surrounded by lush vegetation, fig trees, and poplars. In the summer, the lake is a popular spot for swimming and picnics for both locals and tourists. The constant spray creates a microclimate that keeps the surroundings cool and refreshing. Kravica is a perfect example of the wild and untouched karst landscape of Herzegovina. Earth Science K5 - Water Cycles and Landforms."
+      de: "Der Kravica-Wasserfall liegt am Fluss Trebižat im Herzen der Herzegowina und gilt als eines der beeindruckendsten Naturdenkmäler von Bosnien und Herzegowina. Die Kaskaden stürzen aus einer Höhe von etwa 25 Metern über eine halbkreisförmige Kalktuffwand, die eine Breite von rund 120 Metern erreicht. Am Fuße der Fälle bildet sich ein glasklarer, smaragdgrüner See, der von üppiger Vegetation wie Feigenbäumen und Pappeln umgeben ist. Geologisch gesehen handelt es sich um ein typisches Karstphänomen, bei dem sich über Jahrtausende Travertin-Barrieren gebildet haben. In der Vergangenheit wurden die Wasserfälle zum Betrieb zahlreicher Wassermühlen genutzt, von denen heute noch einige Ruinen als Zeugen der traditionellen Architektur erhalten sind. Der Ort ist besonders in den Sommermonaten ein bedeutendes Ziel für den Ökotourismus und bietet Einblicke in die unberührte Flora der Region. Heute ist Kravica als Naturdenkmal geschützt und dient als wichtiger Erholungsraum für Einheimische und internationale Besucher gleichermaßen.",
+      hu: "A Kravica-vízesés Bosznia-Hercegovina délnyugati részén, a Trebižat-folyó mentén elterülő karsztvidék egyik leglenyűgözőbb természeti látványossága. A vízesés egy hatalmas, körülbelül 120 méter szélességű mésztufa-amfiteátrumon keresztül zúdul alá, ahol a víz mintegy 25 méteres magasságból hullik egy smaragdzöld színű tóba. Ez a geológiai képződmény évezredek során jött létre a vízben oldott kalcium-karbonát lerakódásával, amely fokozatosan építette fel a ma látható travertin gátakat. A környék vegetációja rendkívül gazdag és dús, köszönhetően a bőséges nedvességnek és a mediterrán éghajlatnak, így a területet gyakran nevezik a \"Hercegovinai oázisnak\" is. A történelmi időkben a vízesés erejét gabonamalmok hajtására használták fel, amelyek romjai a mai napig emlékeztetnek a hagyományos vidéki életmódra. Napjainkban a helyszín szigorúan védett természeti emlékhely, amely évente több százezer látogatót vonz, és fontos szerepet játszik a régió ökoturizmusában és környezeti nevelésében. A hűsítő víz és a páratlan panoráma miatt a helyi turizmus egyik sarokköve.",
+      ro: "Cascada Kravica este unul dintre cele mai spectaculoase fenomene naturale din Bosnia și Herțegovina, fiind situată pe râul Trebižat, în regiunea Herțegovinei. Cascada se revarsă peste o barieră de travertin semicirculară cu o lățime de aproximativ 120 de metri, apa căzând de la o înălțime de circa 25 de metri într-un lac de smarald. Acest monument al naturii s-a format prin depunerea continuă a carbonatului de calciu, proces specific regiunilor carstice care creează praguri naturale impunătoare. Vegetația din jurul cascadei este luxuriantă, incluzând smochini, plopi și plante acvatice diverse, oferind un peisaj de o rară frumusețe în climatul mediteranean local. În trecut, forța apei a fost utilizată pentru acționarea morilor de apă, ale căror vestigii pot fi observate și astăzi, oferind o perspectivă asupra arhitecturii tradiționale rurale. Kravica reprezintă o destinație majoră pentru ecoturism, fiind protejată prin lege pentru a conserva biodiversitatea și integritatea geologică a sitului. Astăzi, zona este amenajată pentru vizitatori, oferind trasee de plimbare și zone de recreere în mijlocul naturii sălbatice.",
+      en: "The Kravica Waterfall is a magnificent natural monument located on the Trebižat River in the heart of Herzegovina, near the town of Ljubuški. It is characterized by a semicircular amphitheater of tufa limestone that spans approximately 120 meters in width, with water cascading from a height of about 25 meters. This karst phenomenon resulted from the accumulation of travertine barriers over thousands of years, creating a stunning emerald lake at the base of the falls. The surrounding ecosystem is remarkably lush, featuring a variety of Mediterranean flora such as fig trees, poplars, and diverse aquatic vegetation. Historically, the area was vital for the local community, as the falls powered several traditional watermills, some of which remain preserved as cultural landmarks today. As a protected natural site, Kravica serves as a key destination for eco-tourism in Bosnia and Herzegovina, offering a unique blend of geological history and biological diversity. During the summer, the site becomes a popular swimming destination, drawing thousands of visitors to its refreshing waters.",
     },
     factsAdvanced: {
-      de: [
-        "Die Wasserfälle sind etwa 28 Meter hoch und erstrecken sich über eine Breite von 120 Metern.",
-        "Sie liegen am Fluss Trebižat, der neunmal unter der Erde verschwindet und wieder auftaucht.",
-        "Kravica ist eine Tuffsteinkaskade, die durch die Ablagerung von Kalziumkarbonat entstanden ist.",
-        "Die Wassermenge variiert stark je nach Jahreszeit; im Frühling sind die Wasserfälle am spektakulärsten.",
-        "Unterhalb des Hauptfalls gibt es mehrere kleinere Fälle und Stromschnellen.",
-        "In der Nähe des Wasserfalls befanden sich früher mehrere Wassermühlen."
-      ],
-      hu: [],
-      ro: [
-        "Cascadele au o înălțime de aproximativ 28 de metri și se întind pe o lățime de 120 de metri.",
-        "Sunt situate pe râul Trebižat, care dispare și reapare de nouă ori sub pământ.",
-        "Kravica este o cascadă de tuf, formată prin depunerea de carbonat de calciu.",
-        "Debitul apei variază foarte mult în funcție de anotimp; primăvara, cascadele sunt cele mai spectaculoase.",
-        "Sub cascada principală există mai multe cascade și praguri mai mici.",
-        "În apropierea cascadei existau în trecut mai multe mori de apă."
-      ],
-      en: [
-        "The waterfalls are about 28 meters high and stretch over a width of 120 meters.",
-        "They are located on the Trebižat River, which disappears and reappears underground nine times.",
-        "Kravica is a tufa cascade, formed by the deposition of calcium carbonate.",
-        "The water volume varies greatly depending on the season; the falls are most spectacular in spring.",
-        "Below the main fall, there are several smaller falls and rapids.",
-        "Near the waterfall, there were once several watermills.",
-        "Unlike many waterfalls, swimming is permitted in the lake below the falls.",
-        "The area is protected as a natural monument."
-      ]
+      de: ["Die Fallhöhe des Wassers beträgt etwa 25 Meter", "Das Tuffstein-Amphitheater ist ca. 120 Meter breit", "Der Wasserfall befindet sich am Fluss Trebižat", "Geologische Formation durch Travertin-Ablagerungen", "Entfernung zur Stadt Mostar beträgt etwa 40 Kilometer", "Historische Nutzung durch zahlreiche Wassermühlen"],
+      hu: ["A vízesés teljes magassága kb. 25 méter", "A mésztufa-ív szélessége eléri a 120 métert", "A Trebižat-folyó táplálja a vízesést", "A képződmény évezredes mésztufa-lerakódás eredménye", "Mostar városától kb. 40 kilométerre fekszik", "A múltban több vízimalom is működött a területen"],
+      ro: ["Înălțimea căderii de apă este de aproximativ 25 m", "Lățimea amfiteatrului de travertin este de 120 m", "Cascada este situată pe cursul râului Trebižat", "Formată prin depuneri milenare de carbonat de calciu", "Distanța față de orașul Mostar este de circa 40 km", "Utilizată istoric pentru acționarea morilor de apă"],
+      en: ["The height of the waterfall is approximately 25 meters", "The tufa amphitheater spans about 120 meters in width", "Located on the course of the Trebižat River", "Geological formation created by travertine deposits", "Distance from the city of Mostar is about 40 kilometers", "Historically utilized for numerous watermills"],
     }, image: "/poi-images/ba-kravica.webp"},
   {
     id: "ba-una",
@@ -814,39 +448,16 @@ export const bosniaPois: POI[] = [
     coords: [16.0967, 44.5947],
     parent: "BA-005",
     descriptionAdvanced: {
-      de: "Der Nationalpark Una, gegründet 2008, ist der jüngste der drei Nationalparks in Bosnien und Herzegowina. Er wurde zum Schutz des Oberlaufs des Flusses Una sowie der Flüsse Unac und Krka geschaffen. Der Park ist bekannt für seine atemberaubenden Tuffstein-Wasserfälle, Kaskaden und Stromschnellen, darunter der berühmte Štrbački Buk und die Martin-Brod-Wasserfälle. Die reiche Biodiversität umfasst über 170 Pflanzenarten und mehr als 30 Fischarten. Der Park ist ein Paradies für Outdoor-Aktivitäten wie Rafting, Kajakfahren, Wandern und Fliegenfischen in einer weitgehend unberührten Naturlandschaft.",
-      hu: "",
-      ro: "Parcul Național Una, înființat în 2008, este cel mai recent dintre cele trei parcuri naționale din Bosnia și Herțegovina. A fost creat pentru a proteja cursul superior al râului Una, precum și râurile Unac și Krka. Parcul este cunoscut pentru cascadele sale uimitoare de tuf, pragurile și repezișurile, inclusiv faimosul Štrbački Buk și cascadele de la Martin Brod. Biodiversitatea bogată include peste 170 de specii de plante și mai mult de 30 de specii de pești. Parcul este un paradis pentru activități în aer liber precum rafting, caiac-canoe, drumeții și pescuit cu musca într-un peisaj natural în mare parte neatins.",
-      en: "Una National Park, established in 2008, is the youngest of the three national parks in Bosnia and Herzegovina. It was created to protect the upper course of the Una River, as well as the Unac and Krka rivers. The park is renowned for its breathtaking tufa waterfalls, cascades, and rapids, including the famous Štrbački Buk and the Martin Brod waterfalls. Its rich biodiversity includes over 170 plant species and more than 30 species of fish. The park is a paradise for outdoor activities such as rafting, kayaking, hiking, and fly fishing in a largely untouched natural landscape. Environmental Science K9 - Conservation and Biodiversity."
+      de: "Der Nationalpark Una wurde im Jahr 2008 gegründet und erstreckt sich über den nordwestlichen Teil von Bosnien und Herzegowina in der Nähe der Stadt Bihać. Er umfasst das Tal des Oberlaufs der Flüsse Una und Unac und schützt eine einzigartige Flusslandschaft mit spektakulären Wasserfällen und Schluchten. Das bekannteste Highlight des Parks ist der Štrbački buk, ein 24,5 Meter hoher Wasserfall, der durch tektonische Bewegungen und Kalkablagerungen entstanden ist. Die Region ist bekannt für ihre außergewöhnliche Biodiversität, darunter zahlreiche endemische Pflanzenarten und eine reiche Fischfauna, die besonders bei Fliegenfischern beliebt ist. Historisch gesehen war das Una-Tal bereits in der Antike besiedelt, wovon Ruinen römischer Siedlungen und mittelalterliche Festungen wie Ostrovica zeugen. Der Park spielt eine zentrale Rolle für den nachhaltigen Tourismus in der Region und bietet Aktivitäten wie Rafting, Wandern und Naturfotografie an. Die Erhaltung der Wasserqualität der Una, die für ihre charakteristische smaragdgrüne Farbe bekannt ist, steht im Mittelpunkt der Schutzbemühungen.",
+      hu: "Az Una Nemzeti Parkot 2008-ban alapították, és Bosznia-Hercegovina északnyugati részén, Bihać városa közelében terül el. A park az Una és az Unac folyók felső szakaszát és völgyét foglalja magában, megőrizve a régió egyedülálló folyómenti ökoszisztémáját és látványos vízeséseit. A terület legnevezetesebb látványossága a Štrbački buk, amely egy 24,5 méter magas, lenyűgöző vízesésrendszer, de a Martin Brod-i vízesések is hasonlóan jelentősek. A folyó vize híres tisztaságáról és különleges smaragdzöld színéről, amely a karsztvidéki kőzeteknek és a gazdag ásványianyag-tartalomnak köszönhető. A park területe gazdag történelmi emlékekben is, hiszen már az illírek és a rómaiak idején is lakott volt, a középkorban pedig fontos erődítmények, például Ostrovica védték a völgyet. A biodiverzitás kiemelkedő, számos ritka növény- és állatfaj talál itt menedéket, köztük a vidra és különféle ragadozó madarak. Napjainkban a park a vadvízi evezés és a horgászturizmus nemzetközileg elismert központja, miközben szigorú természetvédelmi szabályok óvják a táj érintetlenségét.",
+      ro: "Parcul Național Una a fost înființat în anul 2008 și este situat în partea de nord-vest a Bosniei și Herțegovinei, în apropierea orașului Bihać. Parcul cuprinde valea superioară a râului Una și a afluentului său Unac, protejând un peisaj fluvial unic, marcat de cascade impresionante și defilee adânci. Principala atracție a parcului este Štrbački buk, o cascadă spectaculoasă cu o înălțime de 24,5 metri, formată prin procese tectonice și depuneri de tuf calcaros. Regiunea este renumită pentru biodiversitatea sa excepțională, adăpostind numeroase specii endemice de plante și o faună piscicolă bogată, fiind o destinație de top pentru pescuitul la muscă. Istoric, valea râului Una a fost locuită încă din antichitate, vestigii precum cetatea medievală Ostrovica atestând importanța strategică a zonei de-a lungul secolelor. Parcul promovează turismul durabil, oferind facilități pentru rafting, drumeții și observarea naturii, protejând în același timp puritatea apelor. Culoarea smarald a râului Una rămâne simbolul acestei arii protejate, atrăgând anual mii de entuziaști ai naturii.",
+      en: "Una National Park, established in 2008, is located in the northwestern part of Bosnia and Herzegovina near the city of Bihać. The park covers the upper reaches of the Una and Unac rivers, preserving a unique fluvial landscape characterized by dramatic waterfalls and deep canyons. The most famous landmark within the park is Štrbački buk, a 24.5-meter high waterfall formed by tectonic activity and limestone deposits. The region is celebrated for its extraordinary biodiversity, including numerous endemic plant species and a rich aquatic fauna that makes it a world-class destination for fly fishing. Historically, the Una valley has been inhabited since ancient times, with ruins of Roman settlements and medieval fortresses like Ostrovica dotting the landscape. The park plays a crucial role in regional sustainable tourism, offering activities such as rafting, hiking, and nature photography while maintaining strict conservation standards. The pristine quality of the water, known for its distinct emerald green hue, is a primary focus of the park's environmental protection efforts.",
     },
     factsAdvanced: {
-      de: [
-        "Der Štrbački Buk ist mit 24,5 Metern der höchste und spektakulärste Wasserfall im Nationalpark.",
-        "Der Name 'Una' soll von römischen Soldaten stammen, die die Schönheit des Flusses als 'die Einzige' (una) beschrieben.",
-        "Im Parkgebiet gibt es zahlreiche archäologische Stätten, darunter römische Ruinen und mittelalterliche Festungen.",
-        "Der Fluss Unac verschwindet in einer tiefen Karstschlucht, bevor er in die Una mündet.",
-        "Der Park ist ein Hotspot der Biodiversität und Heimat seltener Tierarten wie dem Luchs und Braunbären.",
-        "Die Martin-Brod-Wasserfälle sind ein Komplex aus zahlreichen Kaskaden und Kanälen, die sich über eine Länge von 800 Metern erstrecken."
-      ],
-      hu: [],
-      ro: [
-        "Štrbački Buk, cu o înălțime de 24,5 metri, este cea mai înaltă și spectaculoasă cascadă din parcul național.",
-        "Numele 'Una' se spune că provine de la soldații romani care au descris frumusețea râului ca fiind 'unica' (una).",
-        "În zona parcului există numeroase situri arheologice, inclusiv ruine romane și cetăți medievale.",
-        "Râul Unac dispare într-un canion carstic adânc înainte de a se vărsa în Una.",
-        "Parcul este un punct fierbinte al biodiversității și adăpostește specii rare de animale precum râsul și ursul brun.",
-        "Cascadele de la Martin Brod sunt un complex de numeroase cascade și canale care se întind pe o lungime de 800 de metri."
-      ],
-      en: [
-        "Štrbački Buk, at 24.5 meters, is the highest and most spectacular waterfall in the national park.",
-        "The name 'Una' is said to have come from Roman soldiers who described the river's beauty as 'the one and only' (una).",
-        "The park area contains numerous archaeological sites, including Roman ruins and medieval fortresses.",
-        "The Unac River disappears into a deep karst canyon before flowing into the Una.",
-        "The park is a biodiversity hotspot, home to rare species like the lynx and brown bear.",
-        "The Martin Brod waterfalls are a complex of numerous cascades and channels stretching over 800 meters.",
-        "The park protects one of the largest populations of the endangered Huchen (Danube Salmon) in the world.",
-        "The park is part of the larger Dinaric Alps ecosystem."
-      ]
+      de: ["Nationalpark-Status seit dem Jahr 2008", "Štrbački buk erreicht eine Höhe von 24,5 Metern", "Gesamtfläche des Parks beträgt ca. 198 km²", "Schützt die Flüsse Una und den Nebenfluss Unac", "Beherbergt die mittelalterliche Festung Ostrovica", "Wichtiges Zentrum für internationales Rafting"],
+      hu: ["A nemzeti parkot 2008-ban hozták létre", "A Štrbački buk vízesés magassága 24,5 méter", "A park teljes területe kb. 198 négyzetkilométer", "Az Una és az Unac folyók völgyét foglalja magában", "Itt található Ostrovica középkori vára", "Nemzetközi vadvízi evezős versenyek helyszíne"],
+      ro: ["Statut de parc național obținut în anul 2008", "Cascada Štrbački buk are o înălțime de 24,5 m", "Suprafața totală a parcului este de circa 198 km²", "Include cursurile râurilor Una și Unac", "Adăpostește ruinele cetății medievale Ostrovica", "Destinație majoră pentru rafting și pescuit"],
+      en: ["National Park status granted in the year 2008", "Štrbački buk waterfall stands at 24.5 meters high", "Total area of the park is approximately 198 sq km", "Protects the valleys of the Una and Unac rivers", "Contains the medieval Ostrovica fortress", "Major center for international rafting events"],
     }, image: "/poi-images/ba-una.webp"},
   {
     id: "ba-sutjeska",
@@ -861,39 +472,16 @@ export const bosniaPois: POI[] = [
     coords: [18.6872, 43.3444],
     parent: "BA-003",
     descriptionAdvanced: {
-      de: "Der Nationalpark Sutjeska ist der älteste und größte Nationalpark in Bosnien und Herzegowina, gegründet 1962. Er schützt eine der wildesten und ursprünglichsten Berglandschaften Europas. Im Park befindet sich der Perućica, einer der letzten Urwälder Europas, sowie der Maglić, mit 2.386 Metern der höchste Gipfel des Landes. Der Park ist auch ein Ort von großer historischer Bedeutung, da hier 1943 die entscheidende Schlacht an der Sutjeska im Zweiten Weltkrieg stattfand. Ein monumentales Denkmal im Tal der Helden erinnert an die gefallenen Partisanen. Der Park bietet unberührte Natur, tiefe Schluchten, kristallklare Bergseen und eine reiche Tierwelt.",
-      hu: "",
-      ro: "Parcul Național Sutjeska este cel mai vechi și cel mai mare parc național din Bosnia și Herțegovina, fondat în 1962. Protejează unul dintre cele mai sălbatice și mai originale peisaje montane din Europa. În parc se află Perućica, una dintre ultimele păduri virgine din Europa, precum și Maglić, cel mai înalt vârf din țară, cu 2.386 de metri. Parcul are și o mare importanță istorică, aici având loc în 1943 bătălia decisivă de la Sutjeska din Al Doilea Război Mondial. Un monument grandios în Valea Eroilor comemorează partizanii căzuți. Parcul oferă natură neatinsă, canioane adânci, lacuri montane cristaline și o faună bogată.",
-      en: "Sutjeska National Park is the oldest and largest national park in Bosnia and Herzegovina, founded in 1962. It protects one of Europe's wildest and most pristine mountain landscapes. The park contains Perućica, one of the last primeval forests in Europe, as well as Maglić, the country's highest peak at 2,386 meters. The park is also a place of great historical significance, as the decisive Battle of the Sutjeska took place here in 1943 during World War II. A monumental memorial in the Valley of Heroes commemorates the fallen partisans. The park offers untouched nature, deep canyons, crystal-clear mountain lakes, and rich wildlife. History K9 - World War II in the Balkans."
+      de: "Der Nationalpark Sutjeska ist der älteste und größte Nationalpark in Bosnien und Herzegowina und wurde im Jahr 1962 gegründet. Er beherbergt den höchsten Gipfel des Landes, den Maglić, der eine Höhe von 2386 Metern erreicht, und grenzt an die Republik Montenegro. Ein besonderes Juwel des Parks ist Perućica, einer der letzten beiden Urwälder Europas, in dem jahrhundertealte Buchen und Fichten in einem völlig unberührten Ökosystem gedeihen. Inmitten dieses Urwaldes stürzt der Skakavac-Wasserfall beeindruckende 75 Meter in die Tiefe. Geschichtlich ist der Park als Schauplatz der Schlacht an der Sutjeska im Jahr 1943 bekannt, einer entscheidenden Auseinandersetzung während des Zweiten Weltkriegs, an die ein monumentales Denkmal des Bildhauers Miodrag Živković erinnert. Die Landschaft ist geprägt von schroffen Gebirgszügen, eiszeitlichen Seen wie dem Donje Bare und tiefen Schluchten, die eine außergewöhnliche Vielfalt an Flora und Fauna beherbergen. Wanderer und Bergsteiger finden hier anspruchsvolle Routen und eine wilde, ursprüngliche Natur, die unter strengem Schutz steht. Der Park ist nicht nur ein Naturreservoir, sondern auch ein bedeutender Ort der europäischen Zeitgeschichte.",
+      hu: "A Sutjeska Nemzeti Park Bosznia-Hercegovina legrégebbi és legnagyobb kiterjedésű nemzeti parkja, amelyet 1962-ben alapítottak az ország délkeleti részén. Itt található az ország legmagasabb pontja, a 2386 méter magas Maglić-hegy, amely a túrázók és hegymászók kedvelt célpontja. A park legértékesebb része a Perućica őserdő, amely Európa egyik utolsó érintetlen erdősége, ahol több száz éves bükkök és fenyők alkotnak zárt ökoszisztémát. Az őserdő mélyén zúdul alá a 75 méter magas Skakavac-vízesés, amely a régió egyik legmagasabbja. Történelmi szempontból a park a második világháborús sutjeskai csata (1943) helyszíneként ismert, amelynek emlékét Miodrag Živković monumentális szobra őrzi Tjentište völgyében. A tájat gleccsereredetű tavak, mély szurdokok és változatos alpesi növényvilág jellemzi, ahol barna medvék és farkasok is szabadon élnek. A park nemzetközi jelentőségét mind természeti értékei, mind kulturális öröksége megerősíti, így az UNESCO világörökségi várományosi listáján is szerepel. A látogatók számára kijelölt tanösvények és hegyi menedékházak teszik lehetővé a vadon felfedezését a fenntarthatóság jegyében.",
+      ro: "Parcul Național Sutjeska este cel mai vechi și cel mai mare parc național din Bosnia și Herțegovina, fiind înființat în anul 1962. Acesta adăpostește cel mai înalt vârf din țară, muntele Maglić, care atinge o altitudine de 2386 de metri la granița cu Muntenegru. O componentă esențială a parcului este pădurea virgină Perućica, una dintre ultimele două astfel de păduri rămase în Europa, unde se găsesc exemplare de fagi și molizi vechi de peste 300 de ani. În interiorul acestei păduri se află cascada Skakavac, care are o cădere verticală impresionantă de 75 de metri. Din punct de vedere istoric, parcul este faimos pentru Bătălia de pe Sutjeska din 1943, un moment crucial al Rezistenței din al Doilea Război Mondial, comemorat printr-un monument grandios realizat de Miodrag Živković. Peisajul este completat de lacuri glaciare precum Donje Bare și de o biodiversitate remarcabilă, incluzând urși bruni și lupi. Sutjeska reprezintă o destinație de referință pentru alpinism și ecoturism, oferind o incursiune într-o natură sălbatică și nealterată de activitatea umană.",
+      en: "Sutjeska National Park is the oldest and largest national park in Bosnia and Herzegovina, established in 1962 in the southeastern part of the country. It is home to the nation's highest peak, Maglić, which rises to 2,386 meters on the border with Montenegro. A crown jewel of the park is the Perućica primeval forest, one of the last two remaining old-growth forests in Europe, featuring beech and spruce trees over 300 years old. Deep within this forest lies the Skakavac waterfall, which plunges 75 meters into a lush canyon. Historically, the park is renowned as the site of the Battle of the Sutjeska in 1943, a pivotal WWII conflict commemorated by a massive monument designed by Miodrag Živković. The landscape is characterized by rugged mountain ranges, glacial lakes such as Donje Bare, and diverse wildlife including brown bears and wolves. Sutjeska is a premier destination for hiking and mountaineering, offering a rare glimpse into a truly wild and preserved European ecosystem. The park's significance combines unique geological features with profound cultural and historical heritage.",
     },
     factsAdvanced: {
-      de: [
-        "Der Perućica-Urwald ist seit 1954 ein streng geschütztes Naturreservat.",
-        "Im Park befindet sich der 75 Meter hohe Skakavac-Wasserfall.",
-        "Der Maglić, der höchste Berg des Landes, liegt direkt an der Grenze zu Montenegro.",
-        "Das 'Tal der Helden' beherbergt ein monumentales Denkmal für die Schlacht an der Sutjeska.",
-        "Der Park ist Heimat für Braunbären, Wölfe, Gämsen und über 300 Vogelarten.",
-        "Der Trnovačko-See, bekannt für seine Herzform, liegt direkt außerhalb der Parkgrenzen, ist aber ein beliebtes Wanderziel."
-      ],
-      hu: [],
-      ro: [
-        "Pădurea virgină Perućica este o rezervație naturală strict protejată din 1954.",
-        "În parc se află cascada Skakavac, înaltă de 75 de metri.",
-        "Maglić, cel mai înalt munte din țară, se află chiar la granița cu Muntenegru.",
-        "\\\"Valea Eroilor\\\" găzduiește un monument grandios dedicat Bătăliei de la Sutjeska.",
-        "Parcul este habitat pentru urși bruni, lupi, capre negre și peste 300 de specii de păsări.",
-        "Lacul Trnovačko, cunoscut pentru forma sa de inimă, se află chiar în afara limitelor parcului, dar este o destinație populară pentru drumeții."
-      ],
-      en: [
-        "The Perućica primeval forest has been a strictly protected nature reserve since 1954.",
-        "The park contains the 75-meter high Skakavac Waterfall.",
-        "Mount Maglić, the country's highest mountain, is located right on the border with Montenegro.",
-        "The 'Valley of Heroes' houses a monumental memorial to the Battle of the Sutjeska.",
-        "The park is home to brown bears, wolves, chamois, and over 300 species of birds.",
-        "Trnovačko Lake, known for its heart shape, is just outside the park's borders but is a popular hiking destination.",
-        "Some trees in Perućica are over 300 years old.",
-        "The monumental memorial consists of two massive, wing-like stone slabs."
-      ]
+      de: ["Gegründet im Jahr 1962 als erster Nationalpark", "Beherbergt den Maglić, den höchsten Gipfel (2386 m)", "Enthält den Urwald Perućica (ca. 1434 Hektar)", "Skakavac-Wasserfall hat eine Höhe von 75 Metern", "Ort der Schlacht an der Sutjeska im Jahr 1943", "Schutzgebiet für Braunbären, Wölfe und Steinadler"],
+      hu: ["1962-ben alapították, az ország legrégebbi parkja", "Itt van a legmagasabb csúcs, a Maglić (2386 m)", "A Perućica őserdő területe kb. 1434 hektár", "A Skakavac-vízesés magassága 75 méter", "Az 1943-as sutjeskai csata történelmi helyszíne", "Gleccsereredetű tavak találhatóak a hegyekben"],
+      ro: ["Înființat în 1962, fiind cel mai vechi din țară", "Vârful Maglić este cel mai înalt punct (2386 m)", "Include pădurea virgină Perućica (1434 hectare)", "Cascada Skakavac are o înălțime de 75 metri", "Locul Bătăliei de pe Sutjeska din anul 1943", "Adăpostește numeroase lacuri de origine glaciară"],
+      en: ["Established in 1962 as the country's first NP", "Home to Maglić, the highest peak at 2,386m", "Contains Perućica, a 1,434-hectare primeval forest", "Skakavac waterfall features a 75-meter drop", "Site of the famous Battle of Sutjeska in 1943", "Protected habitat for brown bears and wolves"],
     }, image: "/poi-images/ba-sutjeska.webp"},
   {
     id: "ba-pliva",
@@ -908,39 +496,16 @@ export const bosniaPois: POI[] = [
     coords: [17.2289, 44.3486],
     parent: "BA-013",
     descriptionAdvanced: {
-      de: "Die Pliva-Seen, der Große und der Kleine Pliva-See, liegen in unmittelbarer Nähe der Stadt Jajce. Sie sind bekannt für ihre ruhige Schönheit und die einzigartigen hölzernen Wassermühlen, die zwischen den beiden Seen auf Tuffsteinbarrieren errichtet wurden. Diese kleinen Mühlen aus der Zeit des österreichisch-ungarischen Kaiserreichs dienten einst den örtlichen Bauern zum Mahlen von Getreide. Heute sind sie ein nationales Denkmal und eine beliebte atracție turistică. Die Seen selbst sind ideal für Kajakfahren, Kanufahren, Angeln und Entspannung in der Natur.",
-      hu: "",
-      ro: "Lacurile Pliva, Lacul Mare și Lacul Mic, sunt situate în imediata apropiere a orașului Jajce. Sunt cunoscute pentru frumusețea lor liniștită și pentru morile de apă unice din lemn, construite pe bariere de tuf între cele două lacuri. Aceste mori mici, datând din perioada Imperiului Austro-Ungar, serveau odinioară fermierilor locali pentru măcinarea cerealelor. Astăzi, ele sunt un monument național și o atracție turistică populară. Lacurile în sine sunt ideale pentru caiac-canoe, pescuit și relaxare în natură.",
-      en: "The Pliva Lakes, Great and Small Pliva Lake, are located in the immediate vicinity of the city of Jajce. They are known for their serene beauty and the unique wooden watermills built on tufa barriers between the two lakes. These small mills from the time of the Austro-Hungarian Empire once served local farmers for grinding grain. Today, they are a national monument and a popular tourist attraction. The lakes themselves are ideal for kayaking, canoeing, fishing, and relaxing in nature. Technology K6 - Simple Machines and Water Power."
+      de: "Die Pliva-Seen liegen in unmittelbarer Nähe der historischen Stadt Jajce und bestehen aus dem Großen und dem Kleinen Pliva-See. Sie entstanden durch die Aufstauung des Flusses Pliva, der kurz darauf im Stadtzentrum von Jajce in einem spektakulären Wasserfall in die Vrbas stürzt. Eine weltweit bekannte Besonderheit der Seen sind die sogenannten \"Mlinčići\", eine Gruppe von etwa 20 kleinen Holzwassermühlen, die auf Kalktuffbarrieren errichtet wurden und aus der osmanischen Zeit stammen. Diese Mühlen wurden früher zum Mahlen von Getreide genutzt und stellen heute ein bedeutendes kulturhistorisches Denkmal dar. Die Seen bieten aufgrund ihrer konstanten Wassertemperatur und geringen Strömung ideale Bedingungen für den Wassersport; so fanden hier im Jahr 1963 die ersten Kanu-Weltmeisterschaften auf Fließgewässern statt. Die Umgebung ist von dichten Wäldern und sanften Hügeln geprägt, was den Ort zu einem beliebten Ausflugsziel für Wanderer und Fischer macht. Die Kombination aus natürlicher Schönheit und traditioneller Ingenieurskunst macht die Pliva-Seen zu einem einzigartigen Zeugnis der regionalen Geschichte. In den letzten Jahren wurden die Mühlen aufwendig restauriert, um dieses Erbe für zukünftige Generationen zu bewahren.",
+      hu: "A Pliva-tavak Jajce történelmi városa közelében találhatóak, és Bosznia-Hercegovina egyik legkedveltebb üdülőhelyét alkotják. A tavak a Pliva-folyó természetes felduzzadásával jöttek létre, amely később Jajce központjában egy látványos vízeséssel torkollik a Vrbas-folyóba. A terület legkülönlegesebb látnivalója a \"Mlinčići\" néven ismert vízimalom-csoport, amely körülbelül 20 kisméretű, fából készült malomból áll. Ezeket a malmokat az oszmán időkben építették a mésztufa gátakra, és egykor gabonaőrlésre használták őket, ma pedig védett kulturális emlékként szolgálnak. A tavak vize rendkívül tiszta és nyugodt, ami kiváló feltételeket biztosít a vízi sportokhoz; nem véletlen, hogy 1963-ban itt rendezték meg az első kajak-kenu világbajnokságot. A környéket dús erdők és gyalogutak veszik körül, ahol a látogatók horgászhatnak, csónakázhatnak vagy piknikezhetnek a természet lágy ölén. A Nagy- és a Kis-Pliva-tó közöetti terület geológiai szempontból is izgalmas, hiszen a folyamatos travertin-képződés alakítja a tájat. Ez a helyszín a természet és a népi építészet tökéletes szimbiózisát mutatja be, amely Jajce városának történelmi jelentőségét is növeli.",
+      ro: "Lacurile Pliva sunt situate în imediata apropiere a orașului istoric Jajce și reprezintă una dintre cele mai frumoase zone de agrement din Bosnia și Herțegovina. Acestea s-au format prin acumularea apelor râului Pliva, care ulterior se varsă în râul Vrbas printr-o cascadă spectaculoasă chiar în centrul orașului Jajce. O trăsătură distinctivă a acestor lacuri este complexul de mori de apă cunoscute sub numele de \"Mlinčići\", compus din aproximativ 20 de mici mori de lemn datând din perioada otomană. Construite pe praguri de travertin între lacul mare și cel mic, aceste mori erau folosite în trecut pentru măcinarea grânelor și sunt astăzi protejate ca monument cultural. Lacurile oferă condiții excelente pentru sporturile nautice datorită densității ridicate a apei și absenței curenților puternici, găzduind în 1963 primul Campionat Mondial de Caiac-Canoe. Peisajul înconjurător este dominat de păduri foioase și trasee pitorești, fiind o destinație populară pentru pescuit și recreere în familie. Restaurarea recentă a morilor a contribuit la conservarea acestui sit unic, care îmbină ingineria tradițională cu frumusețea naturală a carstului.",
+      en: "The Pliva Lakes are located near the historic town of Jajce and consist of the Great and Small Pliva Lakes, formed by the natural flow of the Pliva River. The river eventually reaches the center of Jajce, where it plunges into the Vrbas River in a spectacular 22-meter high waterfall. A globally unique feature of the lakes is the \"Mlinčići\" complex, a group of about 20 small wooden watermills built on travertine barriers during the Ottoman period. These mills were historically used for grinding grain and now serve as an important cultural and historical monument representing traditional regional architecture. Due to the water's specific density and calm surface, the lakes provide ideal conditions for water sports, having hosted the first Kayak-Canoe World Championships in 1963. The surrounding area is characterized by lush forests and scenic walking paths, making it a favorite spot for fishing, boating, and picnics. The integration of traditional craftsmanship with the stunning karst landscape makes Pliva Lakes a standout destination in Bosnia and Herzegovina. The site remains a protected heritage area, carefully managed to preserve both its ecological and historical value.",
     },
     factsAdvanced: {
-      de: [
-        "Die Wassermühlen stammen aus der österreichisch-ungarischen Zeit und sind über 100 Jahre alt.",
-        "Es gab ursprünglich etwa 24 Mühlen, von denen die meisten restauriert wurden.",
-        "Der Große Pliva-See ist etwa 3,3 km lang und wird für internationale Kajak- und Kanuwettbewerbe genutzt.",
-        "Die Seen entstanden durch die natürliche Aufstauung des Flusses Pliva durch Tuffsteinablagerungen.",
-        "Die Mühlen sind auf kleinen Tuffinseln zwischen den Seen gebaut.",
-        "Die Seen sind reich an Fisch, insbesondere an Forellen und Äschen."
-      ],
-      hu: [],
-      ro: [
-        "Morile de apă datează din perioada austro-ungară și au peste 100 de ani.",
-        "Inițial au existat aproximativ 24 de mori, majoritatea fiind restaurate.",
-        "Lacul Mare Pliva are o lungime de aproximativ 3,3 km și este folosit pentru competiții internaționale de caiac-canoe.",
-        "Lacurile s-au format prin bararea naturală a râului Pliva de către depozite de tuf.",
-        "Morile sunt construite pe mici insule de tuf între lacuri.",
-        "Lacurile sunt bogate în pește, în special păstrăv și lipan."
-      ],
-      en: [
-        "The watermills date back to the Austro-Hungarian period and are over 100 years old.",
-        "There were originally about 24 mills, most of which have been restored.",
-        "The Great Pliva Lake is about 3.3 km long and is used for international kayaking and canoeing competitions.",
-        "The lakes were formed by the natural damming of the Pliva River by tufa deposits.",
-        "The mills are built on small tufa islands between the lakes.",
-        "The lakes are rich in fish, especially trout and grayling.",
-        "The complex of mills is often referred to as 'Mlinčići'.",
-        "The water levels of the lakes are regulated for a nearby hydroelectric power plant."
-      ]
+      de: ["Besteht aus dem Großen und Kleinen Pliva-See", "Beherbergt ca. 20 historische Wassermühlen (Mlinčići)", "Mühlen stammen aus der Zeit der osmanischen Herrschaft", "Austragungsort der Kanu-WM im Jahr 1963", "Der Große Pliva-See ist etwa 3,3 Kilometer lang", "Gelegen auf einer Höhe von 424 Metern über dem Meer"],
+      hu: ["A Nagy- és a Kis-Pliva-tóból áll a tórendszer", "Kb. 20 apró, fából készült vízimalom található itt", "A malmok az oszmán birodalom idejéből származnak", "1963-ban itt rendezték a kajak-kenu világbajnokságot", "A Nagy-Pliva-tó hossza körülbelül 3,3 kilométer", "A tengerszint feletti magassága 424 méter"],
+      ro: ["Format din două lacuri principale: Mare și Mic", "Adăpostește 20 de mori de apă istorice (Mlinčići)", "Morile datează din perioada administrației otomane", "Gazda Campionatului Mondial de Caiac-Canoe în 1963", "Lungimea Lacului Pliva Mare este de circa 3,3 km", "Situat la o altitudine de 424 de metri"],
+      en: ["Consists of the Great and Small Pliva Lakes", "Features approximately 20 historical watermills", "The mills date back to the Ottoman Empire period", "Site of the Kayak-Canoe World Championships in 1963", "The Great Pliva Lake is about 3.3 kilometers long", "Located at an elevation of 424 meters above sea level"],
     }, image: "/poi-images/ba-pliva.webp"},
   {
     id: "ba-jahorina",
@@ -955,39 +520,16 @@ export const bosniaPois: POI[] = [
     coords: [18.5636, 43.7381],
     parent: "BA-016",
     descriptionAdvanced: {
-      de: "Der Berg Jahorina ist Teil der Dinarischen Alpen und eines der größten und modernsten Skigebiete auf dem Balkan. Er erlangte internationale Bekanntheit als Austragungsort der alpinen Skiwettbewerbe der Frauen bei den Olympischen Winterspielen 1984 in Sarajevo. Mit über 40 Kilometern Pisten unterschiedlicher Schwierigkeitsgrade, modernen Liften und Beschneiungsanlagen zieht Jahorina Wintersportler aus ganz Europa an. Im Sommer verwandelt sich der Berg in ein beliebtes Ziel für Wanderer, Mountainbiker und Naturliebhaber, die die kühle Bergluft und die Panoramablicke genießen.",
-      hu: "",
-      ro: "Muntele Jahorina face parte din Alpii Dinarici și este una dintre cele mai mari și mai moderne stațiuni de schi din Balcani. A devenit cunoscut la nivel internațional ca gazdă a competițiilor de schi alpin feminin la Jocurile Olimpice de iarnă din 1984 de la Sarajevo. Cu peste 40 de kilometri de pârtii de diferite dificultăți, teleschiuri moderne și instalații de zăpadă artificială, Jahorina atrage sportivi de iarnă din toată Europa. Vara, muntele se transformă într-o destinație populară pentru drumeți, cicliști montani și iubitori de natură care se bucură de aerul răcoros de munte și de priveliștile panoramice.",
-      en: "Mount Jahorina is part of the Dinaric Alps and one of the largest and most modern ski resorts in the Balkans. It gained international fame as the venue for the women's alpine skiing events at the 1984 Winter Olympics in Sarajevo. With over 40 kilometers of slopes of varying difficulty, modern lifts, and snowmaking systems, Jahorina attracts winter sports enthusiasts from all over Europe. In summer, the mountain transforms into a popular destination for hikers, mountain bikers, and nature lovers who enjoy the cool mountain air and panoramic views. Physical Education K8 - Winter Sports."
+      de: "Jahorina ist ein bedeutendes Gebirgsmassiv innerhalb der Dinarischen Alpen im Südosten von Bosnien und Herzegowina, unweit von Sarajevo. Der höchste Gipfel ist die Ogorjelica mit einer Höhe von 1916 Metern, von wo aus man einen weiten Blick über die benachbarten Berge wie Trebević und Igman hat. Weltweite Bekanntheit erlangte das Gebirge als Austragungsort der Olympischen Winterspiele 1984, bei denen hier die alpinen Skiwettbewerbe der Frauen stattfanden. Die klimatischen Bedingungen sorgen für eine lange Schneesicherheit, was Jahorina zu einem der führenden Wintersportzentren in Südosteuropa macht. Neben den modernen Skipisten bietet die Region auch im Sommer zahlreiche Aktivitäten wie Mountainbiking, Wandern und Paragliding an. Historisch gesehen war das Gebirge schon früh touristisch erschlossen, wobei der erste Skilift bereits im Jahr 1952 in Betrieb genommen wurde. Die Vegetation ist geprägt von dichten Nadelwäldern und weiten Almwiesen, die eine vielfältige Tierwelt beherbergen. Heute ist Jahorina ein modernes Tourismuszentrum mit zahlreichen Hotels und gastronomischen Einrichtungen, das sowohl Sportler als auch Erholungssuchende anzieht.",
+      hu: "Jahorina Bosznia-Hercegovina egyik legismertebb hegysége a Dinári-Alpok láncolatában, amely Szarajevótól mindössze 28 kilométerre található. Legmagasabb pontja az Ogorjelica-csúcs, amely 1916 méteres magasságával lenyűgöző panorámát nyújt a környékbeli hegyekre és völgyekre. A hegy nemzetközi hírnevét az 1984-es téli olimpiai játékoknak köszönheti, ahol itt rendezték meg a női alpesi síversenyeket. A kedvező éghajlat és a bőséges hóesés miatt Jahorina a Balkán egyik legnépszerűbb téli sportközpontjává vált, több mint 20 kilométernyi sípályával rendelkezik. A síszezon mellett a nyári turizmus is jelentős, hiszen a hegy kiváló terepet biztosít a túrázáshoz, a hegyi kerékpározáshoz és a siklóernyőzéshez. Történelmileg a terület már az 1920-as években is kedvelt kirándulóhely volt, az első modern sífelvonót pedig 1952-ben adták át. A tájat sűrű fenyvesek és gazdag alpesi rétek jellemzik, ahol számos ritka növényfaj is megtalálható. Napjainkban Jahorina folyamatos fejlesztéseken megy keresztül, hogy megfeleljen a modern turizmus igényeinek, miközben megőrzi természetes báját.",
+      ro: "Jahorina este un masiv montan situat în Alpii Dinarici, în partea de sud-est a Bosniei și Herțegovinei, la doar 28 de kilometri de Sarajevo. Cel mai înalt vârf al său este Ogorjelica, atingând o altitudine de 1916 metri, oferind o panoramă vastă asupra regiunii muntoase înconjurătoare. Muntele a devenit faimos la nivel mondial ca gazdă a Jocurilor Olimpice de Iarnă din 1984, aici desfășurându-se probele feminine de schi alpin. Datorită condițiilor climatice favorabile și a stratului generos de zăpadă, Jahorina este unul dintre cele mai importante centre de sporturi de iarnă din Balcani. Pe lângă facilitățile pentru schi, masivul atrage turiști și în sezonul estival pentru activități precum drumeții, ciclism montan și parapantă. Din punct de vedere istoric, dezvoltarea turistică a început devreme, primul telescaun fiind inaugurat în anul 1952. Vegetația este diversă, fiind dominată de păduri de conifere și pajiști alpine care adăpostesc o faună variată. În prezent, stațiunea beneficiază de investiții majore în infrastructură, oferind numeroase opțiuni de cazare și agrement pentru turiștii internaționali.",
+      en: "Jahorina is a prominent mountain range within the Dinaric Alps, located in southeastern Bosnia and Herzegovina, just 28 kilometers from Sarajevo. Its highest peak, Ogorjelica, reaches an elevation of 1,916 meters, providing breathtaking views of the neighboring Trebević and Igman mountains. The mountain gained international fame as a key venue for the 1984 Winter Olympics, hosting the women's alpine skiing competitions. Thanks to favorable climatic conditions and reliable snowfall, Jahorina has developed into one of the leading winter sports centers in Southeast Europe. Beyond the ski season, the mountain offers a wealth of summer activities, including mountain biking, hiking, and paragliding. Historically, the area saw early tourism development, with the first modern ski lift being operational as early as 1952. The landscape is characterized by dense coniferous forests and expansive alpine meadows, home to a diverse range of flora and fauna. Today, Jahorina continues to modernize its infrastructure, attracting both professional athletes and leisure travelers with its high-quality slopes and hospitality services.",
     },
     factsAdvanced: {
-      de: [
-        "Während der Olympischen Winterspiele 1984 fanden hier die Wettbewerbe im Riesenslalom, Slalom und in der Abfahrt der Frauen statt.",
-        "Der höchste Gipfel der Jahorina ist der Ogorjelica mit 1.916 Metern.",
-        "Das Skigebiet verfügt über moderne Gondel- und Sessellifte.",
-        "Jahorina liegt nur etwa 30 Kilometer von der Hauptstadt Sarajevo entfernt.",
-        "Die durchschnittliche Schneedecke beträgt von Dezember bis März über 100 cm.",
-        "Der Berg ist auch für seine endemische Flora bekannt."
-      ],
-      hu: [],
-      ro: [
-        "În timpul Jocurilor Olimpice de iarnă din 1984, aici au avut loc competițiile feminine de slalom uriaș, slalom și coborâre.",
-        "Cel mai înalt vârf al Jahorinei este Ogorjelica, cu 1.916 metri.",
-        "Stațiunea de schi dispune de telegondole și telescaune moderne.",
-        "Jahorina se află la doar aproximativ 30 de kilometri de capitala Sarajevo.",
-        "Stratul mediu de zăpadă este de peste 100 cm din decembrie până în martie.",
-        "Muntele este, de asemenea, cunoscut pentru flora sa endemică."
-      ],
-      en: [
-        "During the 1984 Winter Olympics, the women's giant slalom, slalom, and downhill competitions were held here.",
-        "The highest peak of Jahorina is Ogorjelica at 1,916 meters.",
-        "The ski resort has modern gondolas and chairlifts.",
-        "Jahorina is located only about 30 kilometers from the capital, Sarajevo.",
-        "The average snow depth from December to March is over 100 cm.",
-        "The mountain is also known for its endemic flora, including a specific type of maple.",
-        "The ski resort is one of the most affordable in Europe.",
-        "Many of the Olympic facilities were damaged during the war but have since been rebuilt and modernized."
-      ]
+      de: ["Höchster Gipfel Ogorjelica liegt bei 1916 Metern", "Austragungsort der Olympischen Winterspiele 1984", "Entfernung zur Landeshauptstadt Sarajevo ca. 28 km", "Gehört zum Gebirgszug der Dinarischen Alpen", "Erster Skilift wurde bereits 1952 in Betrieb genommen", "Bietet über 20 Kilometer präparierte Skipisten"],
+      hu: ["Legmagasabb pontja az Ogorjelica (1916 m)", "Az 1984-es téli olimpia egyik fontos helyszíne", "Szarajevó központjától való távolsága 28 km", "A Dinári-Alpok hegységrendszeréhez tartozik", "Az első sífelvonót 1952-ben adták át a hegyen", "Több mint 20 km kijelölt sípályával rendelkezik"],
+      ro: ["Cel mai înalt vârf, Ogorjelica, are 1916 metri", "Gazdă a Jocurilor Olimpice de Iarnă din anul 1984", "Situat la o distanță de 28 km de capitala Sarajevo", "Face parte din lanțul muntos al Alpilor Dinarici", "Primul telescaun a fost inaugurat în anul 1952", "Dispune de peste 20 km de pârtii de schi amenajate"],
+      en: ["The highest peak, Ogorjelica, stands at 1,916m", "Venue for the 1984 Winter Olympic Games", "Located 28km away from the capital city Sarajevo", "Part of the Dinaric Alps mountain range", "First ski lift was put into operation in 1952", "Offers more than 20 kilometers of ski runs"],
     }, image: "/poi-images/ba-jahorina.webp"},
   {
     id: "ba-medjugorje",
@@ -1002,39 +544,16 @@ export const bosniaPois: POI[] = [
     coords: [17.6756, 43.1908],
     parent: "BA-011",
     descriptionAdvanced: {
-      de: "Međugorje ist seit 1981 zu einem der bekanntesten katholischen Wallfahrtsorte der Welt geworden. An diesem Datum berichteten sechs Jugendliche von Erscheinungen der Jungfrau Maria auf dem Erscheinungsberg (Podbrdo). Obwohl der Vatikan die Erscheinungen noch nicht offiziell anerkannt hat, zieht der Ort jährlich Millionen von Pilgern an. Zentrale Punkte der Wallfahrt sind die St.-Jakobus-Kirche, der Erscheinungsberg und der Kreuzberg (Križevac). Die Atmosphäre in Međugorje ist von Gebet und Spiritualität geprägt. Der Ort hat sich von einem armen Bauerndorf zu einem Zentrum mit zahlreichen Hotels und religiösen Geschäften entwickelt.",
-      hu: "",
-      ro: "Međugorje a devenit unul dintre cele mai faimoase locuri de pelerinaj catolic din lume începând cu 1981. La acea dată, șase tineri au raportat apariții ale Fecioarei Maria pe Dealul Aparițiilor (Podbrdo). Deși Vaticanul nu a recunoscut încă oficial aparițiile, locul atrage milioane de pelerini anual. Punctele centrale ale pelerinajului sunt Biserica Sf. Iacob, Dealul Aparițiilor și Dealul Crucii (Križevac). Atmosfera din Međugorje este una de rugăciune și spiritualitate. Localitatea s-a transformat dintr-un sat sărac de fermieri într-un centru cu numeroase hoteluri și magazine cu articole religioase.",
-      en: "Medjugorje has become one of the most famous Catholic pilgrimage sites in the world since 1981. On that date, six young people reported apparitions of the Virgin Mary on Apparition Hill (Podbrdo). Although the Vatican has not yet officially recognized the apparitions, the site attracts millions of pilgrims annually. Central points of the pilgrimage are the Church of St. James, Apparition Hill, and Cross Mountain (Križevac). The atmosphere in Medjugorje is one of prayer and spirituality. The town has transformed from a poor farming village into a center with numerous hotels and religious shops. Religious Studies K9 - Modern Pilgrimages."
+      de: "Medjugorje ist ein weltweit bekannter katholischer Wallfahrtsort in der Gemeinde Čitluk im Süden von Bosnien und Herzegowina. Die religiöse Bedeutung des Ortes begann am 24. Juni 1981, als sechs Jugendliche berichteten, ihnen sei auf dem Berg Crnica die Jungfrau Maria erschienen. Seitdem hat sich das einst kleine Dorf zu einem der meistbesuchten Pilgerziele der Welt entwickelt, das jährlich Millionen von Gläubigen anzieht. Zu den wichtigsten Stätten gehören der Erscheinungsberg (Podbrdo), der Kreuzberg (Križevac) mit seinem 1933 errichteten Monumentalkreuz und die Pfarrkirche St. Jakobus. Obwohl die katholische Kirche die Erscheinungen noch untersucht, wurde Medjugorje im Jahr 2019 vom Vatikan offiziell als Wallfahrtsort für organisierte Pilgerfahrten zugelassen. Die Atmosphäre ist geprägt von Gebet, religiösen Feiern und dem jährlichen Jugendfestival \"Mladifest\", das Zehntausende Teilnehmer aus aller Welt versammelt. Geografisch liegt der Ort in einer fruchtbaren Weinbauregion, die auch für ihre traditionelle herzegowinische Gastfreundschaft bekannt ist. Medjugorje hat die lokale Wirtschaft und Infrastruktur grundlegend verändert und ist heute ein Symbol für den spirituellen Tourismus in Südosteuropa.",
+      hu: "Medjugorje egy világszerte ismert katolikus zarándokhely Bosznia-Hercegovina déli részén, Hercegovina szívében, a Čitluk község területén. A település hírneve 1981. június 24-én kezdődött, amikor hat helyi fiatal arról számolt be, hogy a Crnica-hegyen megjelent nekik a Szűz Anya, akit azóta is \"Béke Királynőjeként\" tisztelnek. Az egykori kis falu azóta a világ egyik legjelentősebb spirituális központjává vált, amely évente több millió zarándokot fogad a világ minden tájáról. A legfontosabb helyszínek közé tartozik a Jelenések hegye (Podbrdo), a Kereszt-hegy (Križevac) a tetején lévő hatalmas betonkereszttel, valamint a Szent Jakab-plébániatemplom. 2019-ben a Vatikán hivatalosan is engedélyezte a szervezett zarándoklatokat a helyszínre, elismerve annak pasztorális fontosságát. A településen minden évben megrendezik a nemzetközi ifjúsági találkozót (Mladifest), amely fiatalok tízezreit vonzza. A környező vidék híres a szőlőtermesztésről és a borászatról, így a zarándokok a lelki élmények mellett a helyi gasztronómiával is megismerkedhetnek. Medjugorje fejlődése alapjaiban változtatta meg a régiót, modern infrastruktúrát és virágzó idegenforgalmat hozva létre.",
+      ro: "Medjugorje este un renumit loc de pelerinaj catolic situat în municipalitatea Čitluk din sudul Bosniei și Herțegovinei. Semnificația religioasă a localității a început la 24 iunie 1981, când șase tineri au raportat apariții ale Fecioarei Maria pe dealul Crnica, eveniment care a transformat satul într-un centru spiritual global. De atunci, milioane de pelerini vizitează anual situl, făcându-l una dintre cele mai populare destinații religioase din lume. Punctele centrale de interes includ Dealul Aparițiilor (Podbrdo), Muntele Crucii (Križevac) – unde se află o cruce monumentală ridicată în 1933 – și Biserica parohială Sfântul Iacob. În anul 2019, Vaticanul a autorizat oficial pelerinajele organizate la Medjugorje, recunoscând importanța pastorală a locului pentru credincioși. Atmosfera este dominată de rugăciune și evenimente precum Festivalul Tineretului (Mladifest), care reunește zeci de mii de participanți internaționali în fiecare vară. Din punct de vedere geografic, regiunea este cunoscută pentru viticultură și climatul blând, oferind o ambianță serenă vizitatorilor. Dezvoltarea localității a impulsionat economia regională, transformând Medjugorje într-un pilon al turismului spiritual din Balcani.",
+      en: "Medjugorje is a world-renowned Catholic pilgrimage site located in the Čitluk municipality in southern Bosnia and Herzegovina. The town's religious significance dates back to June 24, 1981, when six local youths reported seeing apparitions of the Virgin Mary on Crnica Hill. Since then, the once-small village has transformed into one of the most visited spiritual centers in the world, attracting millions of faithful annually. Key locations for visitors include Apparition Hill (Podbrdo), Cross Mountain (Križevac) with its monumental 1933 cross, and St. James Parish Church. In 2019, the Vatican officially authorized organized pilgrimages to Medjugorje, acknowledging its pastoral importance to the Catholic community. The town is known for its atmosphere of prayer and large-scale events like the annual Youth Festival (Mladifest), which gathers tens of thousands of participants globally. Geographically situated in a fertile wine-growing region, the area is also celebrated for its traditional Herzegovinian hospitality and local produce. Medjugorje has fundamentally altered the regional economy and infrastructure, serving as a cornerstone of religious tourism in Southeast Europe.",
     },
     factsAdvanced: {
-      de: [
-        "Die angeblichen Erscheinungen der Jungfrau Maria begannen am 24. Juni 1981.",
-        "Der Vatikan hat die übernatürliche Natur der Erscheinungen nicht bestätigt, aber seit 2019 offizielle Pilgerfahrten erlaubt.",
-        "Der Kreuzberg (Križevac) wurde 1934 mit einem großen Betonkreuz zum Gedenken an 1900 Jahre seit Jesu Tod errichtet.",
-        "Jährlich besuchen schätzungsweise über eine Million Pilger den Ort.",
-        "Der Name 'Međugorje' bedeutet 'zwischen den Bergen'.",
-        "Die Pfarrei wird von Franziskanermönchen betreut."
-      ],
-      hu: [],
-      ro: [
-        "Pretinsele apariții ale Fecioarei Maria au început la 24 iunie 1981.",
-        "Vaticanul nu a confirmat natura supranaturală a aparițiilor, dar a permis pelerinaje oficiale din 2019.",
-        "Dealul Crucii (Križevac) a fost ridicat în 1934 cu o cruce mare de beton pentru a comemora 1900 de ani de la moartea lui Iisus.",
-        "Se estimează că peste un milion de pelerini vizitează anual localitatea.",
-        "Numele 'Međugorje' înseamnă 'între munți'.",
-        "Parohia este administrată de călugări franciscani."
-      ],
-      en: [
-        "The alleged apparitions of the Virgin Mary began on June 24, 1981.",
-        "The Vatican has not confirmed the supernatural nature of the apparitions but has authorized official pilgrimages since 2019.",
-        "Cross Mountain (Križevac) was erected in 1934 with a large concrete cross to commemorate 1900 years since the death of Jesus.",
-        "An estimated one million pilgrims visit the site annually.",
-        "The name 'Međugorje' means 'between the mountains'.",
-        "The parish is administered by Franciscan friars.",
-        "The visionaries claim to still receive messages from the Virgin Mary.",
-        "An international youth festival is held here every summer, attracting tens of thousands of young people."
-      ]
+      de: ["Erste berichtete Erscheinung am 24. Juni 1981", "Gelegen in der Gemeinde Čitluk in der Herzegowina", "Das Betonkreuz auf dem Križevac wurde 1933 errichtet", "Über 40 Millionen Pilger besuchten den Ort bisher", "Offizielle Zulassung von Wallfahrten durch den Vatikan 2019", "Jährliches Jugendfestival Mladifest im August"],
+      hu: ["Az első jelenések 1981. június 24-én kezdődtek", "Hercegovinában, Čitluk községben található", "A Križevac-hegy keresztjét 1933-ban építették", "Eddig több mint 40 millió zarándok kereste fel", "A Vatikán 2019-ben engedélyezte a zarándoklatokat", "A Mladifest ifjúsági fesztivál helyszíne minden évben"],
+      ro: ["Primele apariții raportate la 24 iunie 1981", "Situat în municipalitatea Čitluk, regiunea Herțegovina", "Crucea de pe muntele Križevac a fost ridicată în 1933", "Peste 40 de milioane de pelerini au vizitat locul", "Pelerinajele au fost autorizate de Vatican în 2019", "Gazda festivalului anual al tineretului Mladifest"],
+      en: ["First reported apparition occurred on June 24, 1981", "Located in the Čitluk municipality of Herzegovina", "The cross on Križevac mountain was built in 1933", "Over 40 million pilgrims have visited the site to date", "Pilgrimages officially authorized by the Vatican in 2019", "Hosts the annual Mladifest youth festival in August"],
     }, image: "/poi-images/ba-medjugorje.webp"},
   {
     id: "ba-film-festival",
@@ -1049,39 +568,16 @@ export const bosniaPois: POI[] = [
     coords: [18.4135, 43.8560],
     parent: "BA-017",
     descriptionAdvanced: {
-      de: "Das Sarajevo Film Festival wurde 1995 während der Belagerung der Stadt ins Leben gerufen, als ein Akt des kulturellen Widerstands und des Trotzes. Seitdem hat es sich zum führenden Filmfestival in Südosteuropa entwickelt und zieht jedes Jahr im August internationale Stars und Filmemacher an. Das Festival hat sich darauf spezialisiert, Filme und Talente aus der Region zu fördern und zu entdecken. Das Hauptprogramm findet im Nationaltheater statt, aber Vorführungen werden in der ganzen Stadt, einschließlich eines großen Freiluftkinos, gezeigt. Das 'Herz von Sarajevo' ist der Hauptpreis des Festivals.",
-      hu: "",
-      ro: "Festivalul de Film de la Sarajevo a fost lansat în 1995, în timpul asediului orașului, ca un act de rezistență culturală și sfidare. De atunci, a devenit cel mai important festival de film din Europa de Sud-Est, atrăgând vedete internaționale și cineaști în fiecare an, în luna august. Festivalul este specializat în promovarea și descoperirea de filme și talente din regiune. Programul principal are loc la Teatrul Național, dar proiecțiile se desfășoară în tot orașul, inclusiv într-un mare cinematograf în aer liber. 'Inima orașului Sarajevo' este premiul principal al festivalului.",
-      en: "The Sarajevo Film Festival was launched in 1995 during the siege of the city, as an act of cultural resistance and defiance. It has since become the leading film festival in Southeast Europe, attracting international stars and filmmakers every August. The festival specializes in promoting and discovering films and talent from the region. The main program takes place at the National Theatre, but screenings are held throughout the city, including at a large open-air cinema. The 'Heart of Sarajevo' is the festival's main award. Arts & Culture K9 - Film and Society."
+      de: "Das Sarajevo Film Festival (SFF) ist das größte und bedeutendste Filmfestival in Südosteuropa und findet jährlich im August in der Hauptstadt Bosnien und Herzegowinas statt. Es wurde im Jahr 1995 gegründet, noch während der Belagerung Sarajevos im Bosnienkrieg, als Akt des kulturellen Widerstands und der Hoffnung. Ziel war es damals, das kulturelle Leben der Stadt trotz der schwierigen Umstände aufrechtzuerhalten und den Bewohnern einen Ausblick auf die Welt zu geben. Heute zieht das Festival über 100.000 Besucher aus aller Welt an und präsentiert hunderte von Filmen aus verschiedenen Genres. Der Hauptpreis des Festivals ist das \"Herz von Sarajevo\" (Srce Sarajeva), das für den besten Spielfilm, den besten Regisseur sowie die besten Schauspieler verliehen wird. Das Festival hat Sarajevo zu einer UNESCO-Stadt des Films gemacht und dient als wichtige Plattform für Filmemacher aus der Region, um internationale Anerkennung zu finden. Zahlreiche Hollywood-Größen wie Robert De Niro, Angelina Jolie und Brad Pitt haben das Festival bereits besucht und dessen Bedeutung unterstrichen. Neben dem Filmprogramm bietet das SFF zahlreiche Workshops, Vorträge und Networking-Events für die Filmindustrie an und prägt das sommerliche Lebensgefühl der Stadt nachhaltig.",
+      hu: "A Szarajevói Filmfesztivál (Sarajevo Film Festival, SFF) Délkelet-Európa legnagyobb és legbefolyásosabb filmművészeti eseménye, amelyet minden év augusztusában rendeznek meg Bosznia-Hercegovina fővárosában. A fesztivált 1995-ben alapították, még Szarajevó ostroma idején, a kulturális ellenállás és a remény jelképeként. Az alapítók célja az volt, hogy a háborús pusztítás közepette is fenntartsák a város szellemi életét és kapcsolatot teremtsenek a nemzetközi művészvilággal. Mára az esemény évente több mint 100 000 látogatót vonz, és a régió filmművészetének legfontosabb bemutatkozó helyévé vált. A fesztivál fődíja a \"Szarajevó Szíve\" (Srce Sarajeva), amelyet a legjobb játékfilmnek, rendezőnek és színészeknek ítélnek oda. A rendezvénynek köszönhetően Szarajevó elnyerte az UNESCO \"A film városa\" címet, elismerve a város elkötelezettségét a filmművészet iránt. Olyan világsztárok fordultak meg itt az évek során, mint Robert De Niro, Angelina Jolie vagy Wim Wenders. A fesztivál nemcsak a vetítésekről szól, hanem fontos szakmai platform is (CineLink), amely segíti a balkáni és közép-európai filmtervek megvalósulását. Az esemény ideje alatt a város lüktető kulturális központtá válik, ahol az utcai koncertek és a szabadtéri mozik felejthetetlen hangulatot árasztanak.",
+      ro: "Festivalul de Film de la Sarajevo (SFF) este cel mai mare și cel mai influent festival de film din sud-estul Europei, desfășurându-se anual în luna august în capitala Bosniei și Herțegovinei. A fost fondat în anul 1995, în timpul asediului orașului Sarajevo din perioada războiului bosniac, ca un act de rezistență culturală și solidaritate umană. Inițial, festivalul a fost organizat în condiții extrem de dificile, oferind locuitorilor o fereastră către lumea exterioară prin intermediul cinematografiei. În prezent, festivalul atrage peste 100.000 de vizitatori și prezintă sute de producții internaționale și regionale în fiecare ediție. Premiul principal este \"Inima orașului Sarajevo\" (Srce Sarajeva), acordat pentru cel mai bun lungmetraj, cel mai bun regizor și cele mai bune interpretări actoricești. Succesul festivalului a contribuit la desemnarea orașului Sarajevo ca Oraș UNESCO al Filmului în anul 2019. Personalități marcante ale cinematografiei mondiale, precum Robert De Niro, Angelina Jolie și Brad Pitt, au onorat festivalul cu prezența lor, confirmându-i prestigiul global. Pe lângă proiecțiile de gală, festivalul include platforme de dezvoltare industrială, cum ar fi CineLink, sprijinind tinerii cineaști din Balcani. SFF este astăzi un simbol al renașterii culturale și al spiritului cosmopolit al orașului.",
+      en: "The Sarajevo Film Festival (SFF) is the largest and most prestigious film festival in Southeast Europe, held annually every August in the capital of Bosnia and Herzegovina. It was founded in 1995 during the Siege of Sarajevo as an act of cultural resistance and a message of hope amid the Bosnian War. At its inception, the festival aimed to maintain the city's intellectual life and provide citizens with a connection to the global arts community despite the conflict. Today, it attracts over 100,000 visitors from around the world and showcases hundreds of films across various categories. The main award is the \"Heart of Sarajevo\" (Srce Sarajeva), presented for best feature film, best director, and best acting performances. The festival's global impact led to Sarajevo being designated as a UNESCO City of Film in 2019. Renowned international stars such as Robert De Niro, Angelina Jolie, and Brad Pitt have attended, highlighting its significance in the global film circuit. Beyond screenings, the festival hosts industry programs like CineLink, fostering regional cinematic development. The SFF has become a symbol of the city's cultural rebirth and its enduring cosmopolitan spirit.",
     },
     factsAdvanced: {
-      de: [
-        "Das erste Festival fand 1995 statt, als die Stadt noch unter Belagerung stand.",
-        "Es zieht jährlich über 100.000 Besucher an.",
-        "Viele internationale Stars wie Robert De Niro, Angelina Jolie und Brad Pitt haben das Festival besucht.",
-        "Das Festival ist eine wichtige Plattform für Filmemacher aus Südosteuropa.",
-        "Der Hauptpreis, das 'Herz von Sarajevo', wurde vom französischen Designer agnès b. entworfen.",
-        "Das Festival hat maßgeblich zur Wiederbelebung des kulturellen Lebens in Sarajevo nach dem Krieg beigetragen."
-      ],
-      hu: [],
-      ro: [
-        "Primul festival a avut loc în 1995, când orașul era încă sub asediu.",
-        "Atrage anual peste 100.000 de vizitatori.",
-        "Multe vedete internaționale, precum Robert De Niro, Angelina Jolie și Brad Pitt, au vizitat festivalul.",
-        "Festivalul este o platformă importantă pentru cineaștii din Europa de Sud-Est.",
-        "Premiul principal, 'Inima orașului Sarajevo', a fost proiectat de designerul francez agnès b.",
-        "Festivalul a contribuit în mod semnificativ la revitalizarea vieții culturale din Sarajevo după război."
-      ],
-      en: [
-        "The first festival was held in 1995, while the city was still under siege.",
-        "It attracts over 100,000 visitors annually.",
-        "Many international stars such as Robert De Niro, Angelina Jolie, and Brad Pitt have attended the festival.",
-        "The festival is a major platform for filmmakers from Southeast Europe.",
-        "The main award, the 'Heart of Sarajevo,' was designed by French designer agnès b.",
-        "The festival has been instrumental in reviving cultural life in post-war Sarajevo.",
-        "Its 'Talents Sarajevo' program is a networking and training platform for emerging film professionals.",
-        "The open-air cinema can seat up to 3,000 people."
-      ]
+      de: ["Gegründet im Jahr 1995 während der Belagerung Sarajevos", "Hauptpreis ist das Herz von Sarajevo (Srce Sarajeva)", "Über 100.000 Besucher besuchen das Festival jährlich", "Sarajevo ist seit 2019 eine UNESCO-Stadt des Films", "Findet traditionell im August in der Hauptstadt statt", "Plattform für über 200 Filme aus 60 Ländern jährlich"],
+      hu: ["1995-ben alapították Szarajevó ostroma idején", "A fesztivál fődíja a Szarajevó Szíve (Srce Sarajeva)", "Évente több mint 100 000 látogatót vonz az esemény", "Szarajevó 2019 óta az UNESCO A film városa tagja", "Minden évben augusztusban tartják meg a fesztivált", "A CineLink szakmai program segíti a régió filmeseit"],
+      ro: ["Fondat în 1995, în timpul asediului orașului Sarajevo", "Premiul principal este Inima orașului Sarajevo", "Atrage anual peste 100.000 de spectatori și turiști", "Sarajevo este Oraș UNESCO al Filmului din anul 2019", "Se desfășoară în fiecare an în luna august", "Prezintă anual sute de filme din peste 60 de țări"],
+      en: ["Founded in 1995 during the Siege of Sarajevo", "The main award is the Heart of Sarajevo", "Attracts more than 100,000 visitors annually", "Sarajevo became a UNESCO City of Film in 2019", "Traditionally held in August in the capital city", "Showcases films from over 60 countries each year"],
     }, image: "/poi-images/ba-film-festival.webp"},
   {
     id: "ba-blidinje",
@@ -1096,39 +592,16 @@ export const bosniaPois: POI[] = [
     coords: [17.5855, 43.6064],
     parent: "BA-011",
     descriptionAdvanced: {
-      de: "Der Naturpark Blidinje ist eine einzigartige Hochebene, umgeben von den hohen Gipfeln der Berge Čvrsnica und Vran. Der Park wurde 1995 gegründet, um die unberührte Natur, die geomorphologischen Besonderheiten und die reiche Kulturgeschichte zu schützen. Im Zentrum des Parks liegt der Blidinje-See, ein Gletschersee. Der Park ist bekannt für seine endemische Flora, insbesondere die bosnische Kiefer (Pinus heldreichii var. leucodermis). Ein weiteres wichtiges Merkmal sind die zahlreichen mittelalterlichen Grabsteine, bekannt als 'stećci', die an mehreren Standorten im Park verstreut sind.",
-      hu: "",
-      ro: "Parcul Natural Blidinje este un platou înalt unic, înconjurat de vârfurile înalte ale munților Čvrsnica și Vran. Parcul a fost înființat în 1995 pentru a proteja natura neatinsă, particularitățile geomorfologice și bogata istorie culturală. În centrul parcului se află Lacul Blidinje, un lac glaciar. Parcul este cunoscut pentru flora sa endemică, în special pentru pinul bosniac (Pinus heldreichii var. leucodermis). O altă caracteristică importantă o reprezintă numeroasele pietre funerare medievale, cunoscute sub numele de 'stećci', care sunt împrăștiate în mai multe locații din parc.",
-      en: "Blidinje Nature Park is a unique high plateau surrounded by the high peaks of the Čvrsnica and Vran mountains. The park was founded in 1995 to protect the untouched nature, geomorphological features, and rich cultural history. In the center of the park lies Blidinje Lake, a glacial lake. The park is known for its endemic flora, especially the Bosnian pine (Pinus heldreichii var. leucodermis). Another important feature is the numerous medieval tombstones, known as 'stećci,' scattered throughout several locations in the park. Biology K7 - Mountain Ecosystems."
+      de: "Der Naturpark Blidinje wurde im Jahr 1995 gegründet und erstreckt sich über eine Fläche von rund 358 Quadratkilometern in der zentralen Herzegowina. Er liegt auf einem Hochplateau zwischen den beeindruckenden Gebirgsmassiven Čvrsnica, Vran und Čabulja. Das Herzstück des Parks ist der Blidinje-See, der größte Hochgebirgssee in Bosnien und Herzegowina, der sich auf einer Höhe von 1184 Metern über dem Meeresspiegel befindet. Ein besonderes kulturelles Highlight ist die Nekropole Dugo Polje, die zum UNESCO-Weltkulturerbe gehört und über 150 mittelalterliche Grabsteine, sogenannte Stećci, beherbergt. Geologisch ist der Park durch markante Karstphänomene wie Höhlen, Dolinen und die markante Felsformation Hajdučka Vrata geprägt. Die Flora ist außerordentlich vielfältig und umfasst unter anderem die seltene Schlangenhaut-Kiefer (Pinus heldreichii), die in der Region Masna Luka ein Schutzgebiet findet. Dort befindet sich auch ein Franziskanerkloster mit einer bedeutenden Kunstgalerie und Bibliothek. Der Park bietet im Winter Möglichkeiten für den Skisport im Skizentrum Risovac und im Sommer ideale Bedingungen für Wanderungen und botanische Erkundungen. Die Kombination aus unberührter alpiner Natur und reichem mittelalterlichem Erbe macht Blidinje zu einem einzigartigen Rückzugsort.",
+      hu: "A Blidinje Natúrparkot 1995-ben hozták létre, és körülbelül 358 négyzetkilométeren terül el Hercegovina központi részén, a Čvrsnica és a Vran-hegységek közötti fennsíkon. A park központi eleme a Blidinje-tó, amely az ország legnagyobb magashegyi tava, 1184 méteres tengerszint feletti magasságban található. A terület kiemelkedő kulturális értéke a Dugo Polje nekropolisz, amely az UNESCO világörökség része, és több mint 150 középkori sírkövet (stećak) őriz. A park változatos domborzatát látványos karsztformák, barlangok és olyan ikonikus sziklaképződmények jellemzik, mint a Hajdučka Vrata (Hajdú-kapu), amely egy természetes kőív a Čvrsnica-hegyen. Növényvilága rendkívül gazdag, itt található a ritka páncélfenyő egyik legjelentősebb állománya, különösen Masna Luka környékén. Ebben a völgyben kapott helyet a ferences rendi kolostor is, amely galériájával és könyvtárával a régió egyik szellemi központja. Blidinje télen a Risovac síközpontnak köszönhetően vonzza a sportolókat, nyáron pedig a túrázók és a botanikusok paradicsoma. A park érintetlen vadonja és a történelmi emlékek összefonódása egyedülálló élményt nyújt a látogatóknak.",
+      ro: "Parcul Natural Blidinje a fost înființat în anul 1995 și se întinde pe o suprafață de aproximativ 358 km² în partea centrală a Herțegovinei. Acesta este situat pe un platou înalt, fiind delimitat de masivele muntoase Čvrsnica, Vran și Čabulja. Elementul central al parcului este Lacul Blidinje, cel mai mare lac montan din Bosnia și Herțegovina, aflat la o altitudine de 1184 metri. Un punct de interes cultural major este necropola Dugo Polje, inclusă în Patrimoniul Mondial UNESCO, care adăpostește peste 150 de stećci (pietre funerare medievale). Relieful parcului este marcat de fenomene carstice spectaculoase, cum ar fi peșterile și arcul natural de piatră Hajdučka Vrata de pe muntele Čvrsnica. Biodiversitatea este remarcabilă, parcul adăpostind specii rare precum pinul de munte (Pinus heldreichii) în zona protejată Masna Luka. În acest sit se află și o mănăstire franciscană care găzduiește o galerie de artă și o bibliotecă valoroasă. Blidinje oferă facilități pentru schi în stațiunea Risovac pe timpul iernii și numeroase trasee de drumeție vara. Parcul reprezintă un amestec armonios de peisaje alpine sălbatice și vestigii istorice medievale.",
+      en: "Blidinje Nature Park was established in 1995 and covers an area of approximately 358 square kilometers in central Herzegovina. It is situated on a high plateau between the prominent mountain massifs of Čvrsnica, Vran, and Čabulja. The heart of the park is Blidinje Lake, the largest mountain lake in Bosnia and Herzegovina, positioned at an altitude of 1,184 meters above sea level. A significant cultural highlight is the Dugo Polje necropolis, a UNESCO World Heritage site containing over 150 medieval tombstones known as stećci. The park's terrain is characterized by dramatic karst features, including caves and the iconic Hajdučka Vrata (Outlaw's Gate) natural stone arch on Mount Čvrsnica. The flora is exceptionally diverse, notably featuring the rare Bosnian pine (Pinus heldreichii) in the Masna Luka protected area. This area also houses a Franciscan monastery with an important art gallery and library. The park offers skiing opportunities at the Risovac center during winter and ideal conditions for hiking and botanical exploration in summer. Blidinje provides a unique combination of pristine alpine nature and rich medieval cultural heritage.",
     },
     factsAdvanced: {
-      de: [
-        "Der Park wurde 1995 zum Schutz der Natur und des Kulturerbes gegründet.",
-        "Die Nekropole von Dugo Polje mit ihren 150 'stećci' ist ein nationales Denkmal.",
-        "Die Hajdučka Republika Mijata Tomića, eine humorvolle Mikronation, wurde innerhalb des Parks ausgerufen.",
-        "Der Masna Luka ist ein besonderes Waldreservat innerhalb des Parks.",
-        "Der Blidinje-See ist der größte Bergsee in Bosnien und Herzegowina.",
-        "Die bosnische Kiefer ist ein Symbol des Parks und bildet an den Hängen der Čvrsnica dichte Wälder."
-      ],
-      hu: [],
-      ro: [
-        "Parcul a fost înființat în 1995 pentru a proteja natura și patrimoniul cultural.",
-        "Necropola de la Dugo Polje, cu cele 150 de 'stećci' ale sale, este un monument național.",
-        "Hajdučka Republika Mijata Tomića, o micronațiune umoristică, a fost proclamată în interiorul parcului.",
-        "Masna Luka este o rezervație forestieră specială în cadrul parcului.",
-        "Lacul Blidinje este cel mai mare lac montan din Bosnia și Herțegovina.",
-        "Pinul bosniac este un simbol al parcului și formează păduri dese pe versanții muntelui Čvrsnica."
-      ],
-      en: [
-        "The park was established in 1995 to protect nature and cultural heritage.",
-        "The Dugo Polje necropolis with its 150 'stećci' is a national monument.",
-        "The Hajdučka Republika Mijata Tomića, a humorous micronation, was proclaimed within the park.",
-        "Masna Luka is a special forest reserve within the park.",
-        "Blidinje Lake is the largest mountain lake in Bosnia and Herzegovina.",
-        "The Bosnian pine is a symbol of the park and forms dense forests on the slopes of Čvrsnica mountain.",
-        "The park is a popular destination for hiking, skiing, and alpinism.",
-        "Diva Grabovica, a canyon within the park, is a challenging destination for climbers."
-      ]
+      de: ["Gründung des Naturparks am 30. April 1995", "Der Blidinje-See liegt auf 1184 Metern Höhe", "Nekropole Dugo Polje gehört zum UNESCO-Welterbe", "Gesamtfläche des Parks umfasst ca. 358 km²", "Höchster Gipfel Pločno erreicht 2228 Meter", "Schutzgebiet für die seltene Schlangenhaut-Kiefer"],
+      hu: ["A natúrparkot 1995. április 30-án alapították", "A Blidinje-tó 1184 méterrel a tengerszint felett van", "A Dugo Polje nekropolisz UNESCO világörökségi helyszín", "A park teljes területe körülbelül 358 km²", "A legmagasabb csúcs, a Pločno 2228 méter magas", "Itt található a ritka páncélfenyő egyik élőhelye"],
+      ro: ["Înființat ca parc natural la 30 aprilie 1995", "Lacul Blidinje este situat la 1184 m altitudine", "Necropola Dugo Polje este sit al Patrimoniului UNESCO", "Suprafața totală a parcului este de circa 358 km²", "Vârful Pločno este cel mai înalt punct (2228 m)", "Adăpostește specii rare de pin endemic în Masna Luka"],
+      en: ["Nature Park status granted on April 30, 1995", "Blidinje Lake is located at 1,184 meters altitude", "Dugo Polje necropolis is a UNESCO World Heritage site", "Total park area covers approximately 358 sq km", "Highest peak Pločno rises to 2,228 meters", "Home to the rare and endemic Bosnian Pine species"],
     }, image: "/poi-images/ba-blidinje.webp"},
   {
     id: "ba-trebinje",
@@ -1143,39 +616,16 @@ export const bosniaPois: POI[] = [
     coords: [18.3436, 42.7114],
     parent: "BA-002",
     descriptionAdvanced: {
-      de: "Trebinje, die Stadt der Sonne und des Weins, ist die südlichste Stadt des Landes. Sie liegt am Fluss Trebišnjica und zeichnet sich durch ein mediterranes Flair aus. Die malerische Altstadt ist von einer Stadtmauer umgeben und beherbergt die Osman-Paša-Moschee und eine katholische Kathedrale. Über der Stadt thront der Hügel Crkvina mit dem Kloster Hercegovačka Gračanica, das eine exakte Kopie des gleichnamigen Klosters im Kosovo ist und einen atemberaubenden Blick auf die Stadt und das Tal bietet. Die Region ist berühmt für ihre Weinkeller und die autochthonen Rebsorten Žilavka und Vranac.",
-      hu: "",
-      ro: "Trebinje, orașul soarelui și al vinului, este cel mai sudic oraș din țară. Este situat pe râul Trebišnjica și se caracterizează printr-o atmosferă mediteraneană. Centrul vechi pitoresc este înconjurat de un zid de apărare și găzduiește Moscheea Osman Paša și o catedrală catolică. Deasupra orașului se înalță dealul Crkvina cu Mănăstirea Hercegovačka Gračanica, o copie exactă a mănăstirii omonime din Kosovo, oferind o priveliște uluitoare asupra orașului și a văii. Regiunea este renumită pentru cramele sale și pentru soiurile autohtone de struguri Žilavka și Vranac.",
-      en: "Trebinje, the city of sun and wine, is the southernmost city in the country. It is situated on the Trebišnjica river and is characterized by a Mediterranean flair. The picturesque old town is surrounded by a city wall and houses the Osman-Paša Mosque and a Catholic cathedral. Above the city, Crkvina hill is home to the Hercegovačka Gračanica monastery, an exact copy of the monastery of the same name in Kosovo, offering a breathtaking view of the city and valley. The region is famous for its wine cellars and the indigenous grape varieties Žilavka and Vranac. Geography K8 - Viticulture and Climate."
+      de: "Trebinje ist die südlichste Stadt in Bosnien und Herzegowina und liegt in der historischen Region Herzegowina, nahe der Grenzen zu Kroatien und Montenegro. Die Stadt wird vom Fluss Trebišnjica durchquert, einem der längsten Versickerungsflüsse der Welt, der für sein außergewöhnlich klares Wasser bekannt ist. Ein architektonisches Highlight ist die Arslanagić-Brücke, ein Meisterwerk osmanischer Baukunst aus dem Jahr 1574, das ursprünglich an einer anderen Stelle stand und später originalgetreu versetzt wurde. Über der Stadt thront das Kloster Hercegovačka Gračanica auf dem Hügel Crkvina, in dem der berühmte Dichter Jovan Dučić bestattet ist. Das Stadtzentrum ist geprägt von einer charmanten Altstadt (Kastel) und dem zentralen Platz mit seinen über hundert Jahre alten Platanen, die im Sommer Schatten spenden. Das mediterrane Klima begünstigt den Weinanbau und die Produktion von hochwertigem Olivenöl, was Trebinje zu einem Zentrum der regionalen Gastronomie macht. Historisch gesehen war die Stadt aufgrund ihrer strategischen Lage am Handelsweg von der Adria ins Landesinnere von großer Bedeutung. Heute ist Trebinje ein beliebtes Ziel für Reisende, die eine entspannte Atmosphäre und reiche Kulturgeschichte abseits der großen Touristenpfade suchen.",
+      hu: "Trebinje Bosznia-Hercegovina legdélibb városa, amely Hercegovina régióban, a horvát és montenegrói határ közvetlen közelében fekszik. A várost a Trebišnjica-folyó szeli ketté, amely a világ egyik leghosszabb búvófolyója, és tisztasága mellett partjának festői látványáról is híres. A város jelképe az 1574-ben épült Arslanagić-híd, az oszmán hídépítészet remekműve, amelyet az 1970-es években eredeti formájában helyeztek át mai helyére. A város feletti Crkvina-dombon áll a Hercegovačka Gračanica kolostor, ahonnan csodálatos kilátás nyílik az egész völgyre, és ahol a neves költő, Jovan Dučić nyugszik. Trebinje belvárosa mediterrán hangulatú, híres a főtéren álló hatalmas platánfáiról, amelyek több mint száz évesek és a helyi társasági élet központját alkotják. A környék kiváló bortermelő vidék, ahol olyan őshonos fajtákat termesztenek, mint a Žilavka és a Vranac. A város történelme a római időkig nyúlik vissza, a középkorban pedig fontos kereskedelmi csomópont volt az Adria és a szárazföld között. Ma Trebinje a kultúra és a nyugalom városa, amely egyre népszerűbb a turisták körében kedvező klímája és autentikus hercegovinai vendégszeretete miatt.",
+      ro: "Trebinje este cel mai sudic oraș din Bosnia și Herțegovina, fiind situat în regiunea Herțegovina, foarte aproape de granițele cu Croația și Muntenegru. Orașul este traversat de râul Trebišnjica, unul dintre cele mai lungi râuri subterane din lume, renumit pentru puritatea apelor sale. Un punct de referință arhitectural este Podul Arslanagić, o capodoperă a ingineriei otomane construită în anul 1574, care a fost mutat și reconstruit piatră cu piatră pe actualul amplasament. Pe dealul Crkvina deasupra orașului se află mănăstirea Hercegovačka Gračanica, unde este înmormântat celebrul poet Jovan Dučić, oferind totodată o panoramă spectaculoasă. Centrul orașului este dominat de o piață centrală umbrită de platani vechi de peste un secol, elemente emblematice ale atmosferei mediteraneene locale. Climatul cald favorizează viticultura și producția de ulei de măsline, Trebinje fiind recunoscut pentru cramele sale de calitate și gastronomia tradițională. Istoric, orașul a avut o importanță strategică pe rutele comerciale dintre Marea Adriatică și interiorul Peninsulei Balcanice. Astăzi, Trebinje atrage vizitatori prin farmecul său autentic, arhitectura veche și ritmul relaxat al vieții cotidiene.",
+      en: "Trebinje is the southernmost city in Bosnia and Herzegovina, nestled in the historical region of Herzegovina near the borders with Croatia and Montenegro. The city is defined by the Trebišnjica River, one of the world's longest sinking rivers, known for its crystalline waters and scenic embankments. An architectural landmark of great significance is the Arslanagić Bridge, a masterpiece of Ottoman engineering built in 1574, which was later moved and reconstructed at its current site. Perched on Crkvina Hill overlooking the city is the Hercegovačka Gračanica monastery, the final resting place of the famous poet Jovan Dučić. The city center boasts a Mediterranean charm, characterized by its central square lined with century-old plane trees that provide a natural canopy for local cafes. The warm climate makes the region ideal for viticulture and olive oil production, establishing Trebinje as a prominent hub for regional gastronomy and wine tasting. Historically, the city served as a vital trade link between the Adriatic coast and the Balkan interior. Today, Trebinje is a favored destination for those seeking authentic culture and historical depth in a tranquil setting.",
     },
     factsAdvanced: {
-      de: [
-        "Trebinje hat durchschnittlich 260 Sonnentage im Jahr.",
-        "Der Fluss Trebišnjica war einst der längste unterirdische Fluss Europas, bevor er reguliert wurde.",
-        "Die Arslanagić-Brücke, ein Meisterwerk osmanischer Baukunst, wurde Stein für Stein an ihren heutigen Standort versetzt, um sie vor einem Stausee zu retten.",
-        "Das Kloster Hercegovačka Gračanica wurde 2000 als Erfüllung des letzten Wunsches des Dichters Jovan Dučić erbaut.",
-        "Unter der Altstadt fließt ein Teil der Trebišnjica unterirdisch.",
-        "In der Nähe befindet sich das serbisch-orthodoxe Kloster Tvrdoš aus dem 15. Jahrhundert, das für seine Weinproduktion bekannt ist."
-      ],
-      hu: [],
-      ro: [
-        "Trebinje are în medie 260 de zile însorite pe an.",
-        "Râul Trebišnjica a fost odată cel mai lung râu subteran din Europa, înainte de a fi regularizat.",
-        "Podul Arslanagić, o capodoperă a arhitecturii otomane, a fost mutat piatră cu piatră pe locația sa actuală pentru a-l salva de un lac de acumulare.",
-        "Mănăstirea Hercegovačka Gračanica a fost construită în anul 2000 ca împlinire a ultimei dorințe a poetului Jovan Dučić.",
-        "O parte din râul Trebišnjica curge subteran pe sub orașul vechi.",
-        "În apropiere se află mănăstirea ortodoxă sârbă Tvrdoš din secolul al XV-lea, renumită pentru producția sa de vin."
-      ],
-      en: [
-        "Trebinje has an average of 260 sunny days per year.",
-        "The Trebišnjica river was once the longest sinking river in Europe before it was regulated.",
-        "The Arslanagić Bridge, a masterpiece of Ottoman architecture, was moved stone by stone to its current location to save it from a reservoir.",
-        "The Hercegovačka Gračanica monastery was built in 2000 as the fulfillment of the last wish of poet Jovan Dučić.",
-        "Part of the Trebišnjica river flows underground beneath the old town.",
-        "The 15th-century Serbian Orthodox Tvrdoš Monastery, known for its wine production, is located nearby.",
-        "The city is only 28 km from the famous city of Dubrovnik in Croatia.",
-        "The city's old town is known as Kastel."
-      ]
+      de: ["Die Arslanagić-Brücke wurde im Jahr 1574 erbaut", "Die Trebišnjica ist ca. 187 Kilometer lang (inkl. unterirdisch)", "Hercegovačka Gračanica wurde im Jahr 2000 fertiggestellt", "Berühmte Platanen im Zentrum sind über 120 Jahre alt", "Einwohnerzahl der Stadt beträgt etwa 30.000 Personen", "Historische Stadtmauern stammen aus der osmanischen Zeit"],
+      hu: ["Az Arslanagić-híd építése 1574-ben fejeződött be", "A Trebišnjica-folyó teljes hossza kb. 187 kilométer", "A Hercegovačka Gračanica kolostor 2000-ben épült", "A városközpont platánfái több mint 120 évesek", "A város lakossága körülbelül 30 000 fő", "A városfalak az oszmán korszakban nyerték el formájukat"],
+      ro: ["Podul Arslanagić a fost finalizat în anul 1574", "Râul Trebišnjica are o lungime totală de 187 km", "Hercegovačka Gračanica a fost construită în anul 2000", "Platanii din centrul orașului au o vechime de peste 120 ani", "Populația orașului este de aproximativ 30.000 locuitori", "Zidurile cetății vechi datează din perioada otomană"],
+      en: ["The Arslanagić Bridge was completed in 1574", "The Trebišnjica River has a total length of 187km", "Hercegovačka Gračanica was built in the year 2000", "Century-old plane trees in the center are over 120 years old", "The city's population is approximately 30,000 people", "Historical city walls date back to the Ottoman period"],
     }, image: "/poi-images/ba-trebinje.webp"},
   {
     id: "ba-vranduk",
@@ -1190,39 +640,16 @@ export const bosniaPois: POI[] = [
     coords: [17.9042, 44.2925],
     parent: "BA-014",
     descriptionAdvanced: {
-      de: "Die Festung Vranduk, etwa 10 km von Zenica entfernt, ist eine der am besten erhaltenen mittelalterlichen Festungen in Bosnien. Sie liegt strategisch günstig in einer Schleife des Flusses Bosna und bewachte einst den wichtigen Handelsweg vom Pannonischen Becken zur Adria. Vranduk war eine königliche Burg und diente zeitweise als Sitz des bosnischen Königs Stjepan Tomaš. Innerhalb der Festungsmauern befindet sich eine kleine osmanische Moschee, die nach der Eroberung durch die Osmanen erbaut wurde. Heute ist die Festung ein Museum, das Einblicke in das mittelalterliche Leben in Bosnien bietet.",
-      hu: "",
-      ro: "Cetatea Vranduk, la aproximativ 10 km de Zenica, este una dintre cele mai bine conservate cetăți medievale din Bosnia. Este situată strategic într-o buclă a râului Bosna și păzea odinioară importanta rută comercială de la Bazinul Panonic la Marea Adriatică. Vranduk a fost un castel regal și a servit temporar ca reședință a regelui bosniac Stjepan Tomaš. În interiorul zidurilor cetății se află o mică moschee otomană, construită după cucerirea otomană. Astăzi, cetatea este un muzeu care oferă o perspectivă asupra vieții medievale din Bosnia.",
-      en: "The Vranduk fortress, about 10 km from Zenica, is one of the best-preserved medieval fortresses in Bosnia. It is strategically located in a loop of the Bosna River and once guarded the important trade route from the Pannonian Basin to the Adriatic Sea. Vranduk was a royal castle and at times served as the seat of the Bosnian King Stjepan Tomaš. Within the fortress walls is a small Ottoman mosque, built after the Ottoman conquest. Today, the fortress is a museum that offers insights into medieval life in Bosnia. History K7 - Fortifications and Trade Routes."
+      de: "Die Festung Vranduk liegt etwa 10 Kilometer nördlich von Zenica auf einem strategisch günstigen Felsen über dem Fluss Bosna. Sie gilt als eine der besterhaltenen mittelalterlichen Befestigungsanlagen des Landes und wurde erstmals in einer Urkunde aus dem Jahr 1410 erwähnt. Während des 15. Jahrhunderts diente Vranduk als eine der Residenzen der bosnischen Könige, darunter Stjepan Ostoja und Tvrtko II., und war ein wichtiges administratives sowie militärisches Zentrum des Königreichs. Die Architektur ist durch einen markanten Hauptturm, den Bergfried, und massive Verteidigungsmauern geprägt, die den Zugang zum Flusstal kontrollierten. Nach der osmanischen Eroberung im Jahr 1463 behielt die Festung ihre militärische Bedeutung bei und wurde kontinuierlich ausgebaut. Im Inneren der Anlage befindet sich eine kleine Moschee, die an der Stelle einer ehemaligen christlichen Kirche errichtet wurde. Heute beherbergt das Areal ein Museum, das wertvolle Exponate zur mittelalterlichen Geschichte Bosniens sowie zur traditionellen Lebensweise der Region präsentiert. Als nationales Denkmal zieht Vranduk Geschichtsinteressierte an und dient als Kulisse für kulturelle Veranstaltungen, die das historische Erbe lebendig halten. Die malerische Lage in der Bosna-Schlucht macht Vranduk zu einem bedeutenden touristischen Ziel in Zentralland.",
+      hu: "Vranduk vára Bosznia-Hercegovina egyik legépebben maradt középkori erődítménye, amely Zenicától mintegy 10 kilométerre északra, a Boszna-folyó feletti sziklaszirten magasodik. Az erődöt először 1410-ben említik írásos források, és stratégiai fekvése miatt a középkori Bosnyák Királyság egyik kulcsfontosságú védelmi pontja volt. A 15. század során több bosnyák király, köztük II. Tvrtko és Stjepan Tomaš rezidenciájaként szolgált, ahol fontos diplomáciai és katonai döntések születtek. Az erőd építészeti stílusa a gótikus elemeket ötvözi a masszív védelmi struktúrákkal, központjában a 15 méter magas öregtorony áll. Az oszmán hódítás után, 1463-ban a vár megőrizte katonai funkcióját, és falai között egy kisméretű mecsetet is emeltek a korábbi templom helyén. Ma az erődítmény múzeumként működik, ahol a látogatók megismerhetik a középkori Bosznia történelmét, fegyvereit és mindennapi életét. Vranduk faluja is megőrizte tradicionális képét, így a látogatók egy igazi időutazáson vehetnek részt. A vár nemzeti műemlékvédelem alatt áll, és fontos helyszíne a helyi kulturális fesztiváloknak és történelmi játékoknak.",
+      ro: "Cetatea Vranduk este situată la aproximativ 10 kilometri nord de Zenica, pe o stâncă strategică deasupra râului Bosna, fiind una dintre cele mai bine conservate fortificații medievale din țară. Prima mențiune documentară a cetății datează din 11 martie 1410, în perioada de apogeu a Regatului Bosniei. În secolul al XV-lea, Vranduk a servit drept reședință pentru regii bosniaci, inclusiv Stjepan Ostoja și Tvrtko II, fiind un centru administrativ și militar vital. Arhitectura cetății este dominată de un turn principal masiv și ziduri de apărare impunătoare care controlau accesul prin valea râului Bosna. După cucerirea otomană din 1463, fortăreața și-a păstrat rolul strategic, fiind extinsă și adaptată noilor tehnici militare. În incinta cetății a fost construită o mică moschee pe locul unei vechi biserici creștine, reflectând schimbările culturale ale epocii. În prezent, situl găzduiește un muzeu cu exponate valoroase legate de istoria medievală și viața tradițională din regiune. Desemnată monument național în 2004, cetatea Vranduk este un punct de atracție major pentru turiștii interesați de patrimoniul istoric al Balcanilor.",
+      en: "Vranduk Fortress is situated about 10 kilometers north of Zenica on a strategic cliff overlooking the Bosna River, standing as one of the best-preserved medieval fortifications in the country. The fortress was first mentioned in historical documents on March 11, 1410, during the height of the Bosnian Kingdom. Throughout the 15th century, Vranduk served as one of the residences for Bosnian kings, including Stjepan Ostoja and Tvrtko II, and functioned as a crucial administrative and military hub. Its architecture features a prominent keep (main tower) and formidable defensive walls designed to control movement through the Bosna River valley. Following the Ottoman conquest in 1463, the fortress maintained its military significance and underwent several expansions and modifications. Inside the walls, a small mosque was constructed on the foundation of a former Christian church, symbolizing the region's complex cultural history. Today, the site operates as a museum showcasing medieval artifacts and traditional lifestyle exhibits. Declared a national monument in 2004, Vranduk continues to attract history enthusiasts and hosts cultural events that celebrate Bosnia's medieval heritage.",
     },
     factsAdvanced: {
-      de: [
-        "Vranduk wurde erstmals 1410 urkundlich erwähnt.",
-        "Die Festung war der einzige Ort in Bosnien, der sich 1463 erfolgreich gegen die osmanische Invasion verteidigte, wenn auch nur vorübergehend.",
-        "Innerhalb der Mauern befindet sich eine Moschee, die zu Ehren von Sultan Mehmed II, dem Eroberer, erbaut wurde.",
-        "Die Mauern der Festung sind bis zu 3 Meter dick.",
-        "Der Name 'Vranduk' leitet sich möglicherweise vom Wort 'vrata' (Tor) ab, was seine Rolle als 'Tor zu Bosnien' unterstreicht.",
-        "Die Festung und das darunter liegende Dorf sind als Nationaldenkmal geschützt."
-      ],
-      hu: [],
-      ro: [
-        "Vranduk a fost menționat pentru prima dată într-un document în 1410.",
-        "Cetatea a fost singurul loc din Bosnia care s-a apărat cu succes împotriva invaziei otomane în 1463, deși doar temporar.",
-        "În interiorul zidurilor se află o moschee construită în onoarea sultanului Mahomed al II-lea Cuceritorul.",
-        "Zidurile cetății au o grosime de până la 3 metri.",
-        "Numele 'Vranduk' ar putea deriva de la cuvântul 'vrata' (poartă), subliniind rolul său de 'poartă a Bosniei'.",
-        "Cetatea și satul de la poalele sale sunt protejate ca monument național."
-      ],
-      en: [
-        "Vranduk was first mentioned in a document in 1410.",
-        "The fortress was the only place in Bosnia that successfully defended against the Ottoman invasion in 1463, albeit temporarily.",
-        "Within the walls is a mosque built in honor of Sultan Mehmed II the Conqueror.",
-        "The walls of the fortress are up to 3 meters thick.",
-        "The name 'Vranduk' may derive from the word 'vrata' (gate), highlighting its role as the 'gate of Bosnia'.",
-        "The fortress and the village below are protected as a national monument.",
-        "The fortress was also the seat of the Bosnian king Stjepan Tomašević.",
-        "A small museum within the fortress displays medieval artifacts."
-      ]
+      de: ["Erste urkundliche Erwähnung am 11. März 1410", "Liegt ca. 10 Kilometer nördlich der Stadt Zenica", "Diente als Residenz für König Stjepan Ostoja", "Hauptturm hat eine Höhe von etwa 15 Metern", "Eroberung durch das Osmanische Reich im Jahr 1463", "Ernennung zum nationalen Denkmal im Jahr 2004"],
+      hu: ["Első írásos említése 1410. március 11-én történt", "Zenica városától kb. 10 kilométerre északra fekszik", "Stjepan Ostoja bosnyák király egyik székhelye volt", "A vár központi tornyának magassága 15 méter", "Az Oszmán Birodalom 1463-ban foglalta el a várat", "2004-ben nyilvánították nemzeti műemlékké"],
+      ro: ["Prima mențiune documentară la 11 martie 1410", "Situată la 10 kilometri nord de orașul Zenica", "A fost reședința regelui bosniac Stjepan Ostoja", "Turnul principal al cetății are o înălțime de 15 m", "Cucerită de Imperiul Otoman în anul 1463", "Declarată monument național în cursul anului 2004"],
+      en: ["First mentioned in documents on March 11, 1410", "Located 10 kilometers north of the city of Zenica", "Served as a residence for King Stjepan Ostoja", "The main tower of the fortress is 15 meters high", "Conquered by the Ottoman Empire in the year 1463", "Designated as a national monument in 2004"],
     }, image: "/poi-images/ba-vranduk.webp"},
   {
     id: "ba-hutovo-blato",
@@ -1237,39 +664,16 @@ export const bosniaPois: POI[] = [
     coords: [17.7816, 43.0566],
     parent: "BA-001",
     descriptionAdvanced: {
-      de: "Hutovo Blato ist ein einzigartiges Sumpfgebiet und Naturpark in der Herzegowina. Es besteht aus mehreren miteinander verbundenen Seen, die vom unterirdischen Flusssystem des Trebišnjica gespeist werden. Das Gebiet ist vor allem als eines der größten Winterquartiere für Zugvögel auf dem Balkan bekannt. Über 240 Vogelarten wurden hier registriert, was es zu einem Paradies für Ornithologen macht. Eine Bootsfahrt durch die schilfbewachsenen Kanäle bietet die Möglichkeit, die reiche Vogelwelt und die üppige Sumpfvegetation aus nächster Nähe zu erleben. Hutovo Blato ist ein wichtiges Feuchtgebiet von internationaler Bedeutung gemäß der Ramsar-Konvention.",
-      hu: "",
-      ro: "Hutovo Blato este o zonă umedă unică și un parc natural în Herțegovina. Este format din mai multe lacuri interconectate, alimentate de sistemul fluvial subteran al râului Trebišnjica. Zona este cunoscută în principal ca unul dintre cele mai mari cartiere de iernare pentru păsările migratoare din Balcani. Au fost înregistrate peste 240 de specii de păsări, ceea ce o face un paradis pentru ornitologi. O plimbare cu barca prin canalele acoperite de stuf oferă ocazia de a experimenta de aproape bogata avifaună și vegetația luxuriantă a mlaștinii. Hutovo Blato este o zonă umedă importantă de importanță internațională conform Convenției Ramsar.",
-      en: "Hutovo Blato is a unique wetland and nature park in Herzegovina. It consists of several interconnected lakes fed by the underground river system of the Trebišnjica. The area is best known as one of the largest wintering grounds for migratory birds in the Balkans. Over 240 bird species have been recorded here, making it a paradise for ornithologists. A boat trip through the reed-lined channels offers the opportunity to experience the rich birdlife and lush marsh vegetation up close. Hutovo Blato is an important wetland of international importance under the Ramsar Convention. Biology K9 - Wetland Ecosystems and Bird Migration."
+      de: "Der Naturpark Hutovo Blato ist ein bedeutendes Sumpf- und Vogelschutzgebiet im Süden von Bosnien und Herzegowina, unweit der Stadt Čapljina. Das im Jahr 1995 gegründete Reservat erstreckt sich über eine Fläche von rund 7411 Hektar und besteht aus einem komplexen System von Sümpfen, Seen und dem Fluss Krupa. Es gilt als eines der wichtigsten Überwinterungsgebiete für Zugvögel auf dem Balkan, wobei bisher über 240 verschiedene Vogelarten dokumentiert wurden. Eine hydrologische Besonderheit ist der Fluss Krupa, der keine eigene Quelle besitzt, sondern aus dem Deransko-See abfließt und je nach Wasserstand der Neretva seine Fließrichtung ändern kann. Das Gebiet ist durch ein mediterranes Klima geprägt, das eine reiche Flora mit über 600 Pflanzenarten sowie zahlreiche endemische Fischarten begünstigt. Seit 2001 steht der Park auf der Liste der international bedeutenden Feuchtgebiete nach der Ramsar-Konvention.",
+      hu: "A Hutovo Blato Természetvédelmi Park Bosznia-Hercegovina déli részén, Čapljina városa és a horvát határ közelében található fontos mocsári élőhely és madárrezervátum. Az 1995-ben alapított park mintegy 7411 hektáros területet ölel fel, amely tavakból, mocsarakból és a Krupa-folyó által táplált vizes élőhelyekből áll. A Balkán-félsziget egyik legjelentősebb madárvonulási állomása, ahol eddig több mint 240 madárfajt figyeltek meg a kutatók. Különleges hidrológiai jelenség a Krupa-folyó, amelynek nincs saját forrása, hanem a Deransko-tóból ered, és a Neretva vízállásától függően képes megváltoztatni folyási irányát. A mediterrán éghajlat kedvez a gazdag flórának, több mint 600 növényfaj és számos endemikus halfaj él a területen. A park 2001 óta szerepel a nemzetközi jelentőségű vizes élőhelyek listáján a Ramsari Egyezmény keretében.",
+      ro: "Parcul Natural Hutovo Blato este o rezervație ornitologică și zonă mlaștină situată în partea de sud a Bosniei și Herțegovinei, în apropierea orașului Čapljina. Înființat în anul 1995, parcul acoperă o suprafață de aproximativ 7411 hectare și este compus dintr-un sistem complex de lacuri și mlaștini formate de râul Krupa. Este recunoscut ca fiind unul dintre cele mai importante habitate pentru păsările migratoare din Balcani, adăpostind peste 240 de specii diferite pe parcursul anului. O curiozitate hidrologică a zonei este râul Krupa, care nu are un izvor propriu, ci curge din lacul Deransko, având capacitatea rară de a-și schimba direcția de curgere în funcție de nivelul râului Neretva. Climatul mediteranean favorizează o biodiversitate bogată, incluzând peste 600 de specii de plante și numeroși pești endemici. Din 2001, rezervația este protejată prin Convenția Ramsar ca zonă umedă de importanță internațională.",
+      en: "Hutovo Blato Nature Park is a significant marshland and bird reserve located in southern Bosnia and Herzegovina, near the town of Čapljina and the Croatian border. Established in 1995, the park spans approximately 7,411 hectares and consists of a complex network of swamps, lakes, and the Krupa River. It is widely recognized as one of the most vital wintering grounds for migratory birds in the Balkans, with over 240 species documented within its borders. A unique hydrological feature is the Krupa River, which has no traditional source but flows out of Deransko Lake and can reverse its flow depending on the water level of the Neretva River. The Mediterranean climate supports a diverse ecosystem, including over 600 plant species and several endemic fish species. Since 2001, the area has been designated as a wetland of international importance under the Ramsar Convention.",
     },
     factsAdvanced: {
-      de: [
-        "Hutovo Blato ist eines der größten Vogelschutzgebiete in Südosteuropa.",
-        "Das Gebiet liegt auf einem der vier Hauptzugwege für Vögel aus Nord- und Mitteleuropa nach Asien und Afrika.",
-        "Es wurden über 240 Vogelarten und 163 Fischarten im Park dokumentiert.",
-        "Das Sumpfgebiet wird durch den unterirdischen Fluss Trebišnjica gespeist.",
-        "Seit 2001 ist es als Feuchtgebiet von internationaler Bedeutung nach der Ramsar-Konvention geschützt.",
-        "Die durchschnittliche Tiefe der Seen beträgt nur 1-2 Meter."
-      ],
-      hu: [],
-      ro: [
-        "Hutovo Blato este una dintre cele mai mari rezervații ornitologice din sud-estul Europei.",
-        "Zona este situată pe una dintre cele patru rute principale de migrație a păsărilor din nordul și centrul Europei către Asia și Africa.",
-        "Au fost documentate peste 240 de specii de păsări și 163 de specii de pești în parc.",
-        "Mlaștina este alimentată de râul subteran Trebišnjica.",
-        "Din 2001, este protejată ca zonă umedă de importanță internațională în cadrul Convenției Ramsar.",
-        "Adâncimea medie a lacurilor este de doar 1-2 metri."
-      ],
-      en: [
-        "Hutovo Blato is one of the largest bird reserves in Southeast Europe.",
-        "The area is located on one of the four major bird migration routes from Northern and Central Europe to Asia and Africa.",
-        "Over 240 bird species and 163 fish species have been documented in the park.",
-        "The marshland is fed by the underground Trebišnjica river.",
-        "Since 2001, it has been protected as a wetland of international importance under the Ramsar Convention.",
-        "The average depth of the lakes is only 1-2 meters.",
-        "The park is home to a large population of eels.",
-        "It is the only place in the country where you can see water lilies in their natural habitat."
-      ]
+      de: ["Der Park wurde im Jahr 1995 offiziell zum Naturpark erklärt.", "Die Gesamtfläche des Reservats beträgt etwa 7411 Hektar.", "Über 240 verschiedene Vogelarten nutzen das Gebiet als Lebensraum oder Rastplatz.", "Der Fluss Krupa ist 9 Kilometer lang und verbindet das Sumpfgebiet mit der Neretva.", "Im Jahr 2001 wurde das Gebiet in die Liste der Ramsar-Konvention aufgenommen.", "Die Flora umfasst mehr als 600 verschiedene Pflanzenarten."],
+      hu: ["A parkot hivatalosan 1995-ben nyilvánították természetvédelmi területté.", "A rezervátum teljes területe körülbelül 7411 hektár.", "Több mint 240 madárfaj használja a területet fészkelő- vagy pihenőhelyként.", "A Krupa-folyó 9 kilométer hosszú, és összeköti a mocsárvilágot a Neretvával.", "2001-ben vették fel a nemzetközi jelentőségű vizes élőhelyek (Ramsar) listájára.", "A területen több mint 600 különböző növényfaj található meg."],
+      ro: ["Parcul a fost declarat oficial rezervație naturală în anul 1995.", "Suprafața totală a rezervației este de aproximativ 7411 hectare.", "Peste 240 de specii de păsări utilizează zona ca habitat sau loc de popas.", "Râul Krupa are o lungime de 9 kilometri și face legătura între mocsle și Neretva.", "În anul 2001, zona a fost inclusă pe lista Convenției Ramsar.", "Flora locală cuprinde peste 600 de specii diferite de plante."],
+      en: ["The park was officially declared a protected nature park in 1995.", "The total area of the reserve is approximately 7,411 hectares.", "More than 240 different bird species use the area for nesting or resting.", "The Krupa River is 9 kilometers long and connects the wetlands to the Neretva.", "In 2001, the site was added to the Ramsar list of internationally important wetlands.", "The flora of the park includes more than 600 different plant species."],
     }, image: "/poi-images/ba-hutovo-blato.webp"},
   {
     id: "ba-doboj",
@@ -1284,48 +688,16 @@ export const bosniaPois: POI[] = [
     coords: [18.0833, 44.7333],
     parent: "BA-006",
     descriptionAdvanced: {
-      de: "Doboj ist ein strategisch wichtiger Verkehrsknotenpunkt im Norden von Bosnien und Herzegowina, am Zusammenfluss der Flüsse Bosna und Spreča. Die Stadt wird von einer imposanten mittelalterlichen Festung aus dem 13. Jahrhundert dominiert, die auf einem Hügel über der Stadt thront. Die Festung von Doboj bietet einen weiten Blick über die Region und ist Schauplatz zahlreicher kultureller Veranstaltungen. Die Stadt hat eine lange Geschichte als Handels- und Militärzentrum. 2014 wurde Doboj von einer katastrophalen Überschwemmung heimgesucht, hat sich aber seitdem wieder erholt.",
-      hu: "Doboj stratégiailag fontos közlekedési csomópont Bosznia-Hercegovina északi részén, a Boszna és a Spreča folyók összefolyásánál. A város fölött egy impozáns, 13. századi középkori erődítmény emelkedik egy dombon. A doboji vár széles kilátást nyújt a régióra, és számos kulturális eseménynek ad otthont. A város hosszú múltra tekint vissza kereskedelmi és katonai központként. 2014-ben Dobojt katasztrofális árvíz sújtotta, de azóta helyreállt. Történelem K7 – Végvárrendszer a középkorban.",
-      ro: "Doboj este un nod de transport important din punct de vedere strategic în nordul Bosniei și Herțegovinei, la confluența râurilor Bosna și Spreča. Orașul este dominat de o impunătoare cetate medievală din secolul al XIII-lea, care tronează pe un deal deasupra orașului. Cetatea Doboj oferă o vedere panoramică asupra regiunii și este scena a numeroase evenimente culturale. Orașul are o istorie lungă ca centru comercial și militar. În 2014, Doboj a fost lovit de o inundație catastrofală, dar de atunci și-a revenit.",
-      en: "Doboj is a strategically important transport hub in the north of Bosnia and Herzegovina, at the confluence of the Bosna and Spreča rivers. The city is dominated by an imposing 13th-century medieval fortress that sits on a hill above the town. The Doboj Fortress offers a wide view of the region and is the scene of numerous cultural events. The city has a long history as a commercial and military center. In 2014, Doboj was hit by a catastrophic flood, but has since recovered. History K7 - The Border Fortress System in the Middle Ages."
+      de: "Doboj ist eine strategisch wichtige Stadt im Norden von Bosnien und Herzegowina und liegt am Zusammenfluss der Flüsse Bosna, Usora und Spreča. Die erste urkundliche Erwähnung der Stadt stammt aus dem Jahr 1415, wobei die Festung Gradina bereits im 13. Jahrhundert auf einem Hügel über dem Tal errichtet wurde. Diese Festung war über Jahrhunderte ein zentraler Verteidigungspunkt gegen osmanische und österreichisch-ungarische Angriffe und prägt bis heute das Stadtbild. Während der Zeit Jugoslawiens entwickelte sich Doboj zu einem der wichtigsten Eisenbahnknotenpunkte des Landes, was der Stadt wirtschaftliche Bedeutung im Industriesektor verlieh. Neben den historischen Ruinen ist Doboj für seine religiöse Vielfalt bekannt, die sich in den verschiedenen Moscheen, Kirchen und einer Synagoge widerspiegelt. Die Stadt dient als administratives Zentrum der Region und ist ein wichtiger Verkehrsknotenpunkt für Reisende in Richtung Sarajevo oder Banja Luka.",
+      hu: "Doboj stratégiai jelentőségű város Bosznia-Hercegovina északi részén, a Bosna, az Usora és a Spreča folyók találkozásánál. A város első írásos említése 1415-ből származik, bár a völgy feletti dombon magasodó Gradina erőd már a 13. században felépült. Az erődítmény évszázadokon át kulcsfontosságú védelmi pont volt az oszmán és az osztrák-magyar hadjáratok során, és mindmáig meghatározza a város látképét. Jugoszlávia idején Doboj az ország egyik legfontosabb vasúti csomópontjává fejlődött, ami jelentős gazdasági fellendülést és iparosodást hozott a régiónak. A történelmi romok mellett a város vallási sokszínűségéről is ismert, amelyet mecsetek, ortodox és katolikus templomok, valamint egy zsinagóga jelenléte igazol. A település ma fontos adminisztratív és közlekedési központ, amely összeköti az ország északi és déli területeit.",
+      ro: "Doboj este un oraș cu o importanță strategică deosebită situat în nordul Bosniei și Herțegovinei, la confluența râurilor Bosna, Usora și Spreča. Prima mențiune documentară a orașului datează din anul 1415, deși fortăreața Gradina a fost construită pe dealul de deasupra văii încă din secolul al XIII-lea. Această cetate a servit timp de secole ca punct defensiv central împotriva incursiunilor otomane și austro-ungare, rămânând până astăzi simbolul principal al localității. În perioada iugoslavă, Doboj a devenit unul dintre cele mai mari noduri feroviare din țară, fapt ce a stimulat dezvoltarea industrială și economică a regiunii. Pe lângă vestigiile istorice, orașul este cunoscut pentru diversitatea sa religioasă, găzduind moschei, biserici ortodoxe și catolice, precum și o sinagogă. Astăzi, Doboj funcționează ca un centru administrativ regional și un punct vital de tranzit între Sarajevo și Banja Luka.",
+      en: "Doboj is a strategically located city in northern Bosnia and Herzegovina, situated at the confluence of the Bosna, Usora, and Spreča rivers. The city was first mentioned in historical documents in 1415, although the Gradina fortress, which overlooks the valley, dates back to the 13th century. For centuries, this fortress served as a crucial defensive position against Ottoman and Austro-Hungarian advances and remains the most prominent landmark of the city. During the Yugoslav era, Doboj evolved into one of the country's most important railway hubs, driving significant industrial and economic growth. Beyond its historical ruins, the city is noted for its religious diversity, featuring mosques, Orthodox and Catholic churches, and a synagogue. Today, Doboj serves as a regional administrative center and a vital transportation link connecting the northern and southern parts of the country.",
     },
     factsAdvanced: {
-      de: [
-        "Die Festung von Doboj wurde im frühen 13. Jahrhundert erbaut und war eine der stärksten Festungen im mittelalterlichen Bosnien.",
-        "Doboj ist ein wichtiger Eisenbahnknotenpunkt, der Sarajevo mit dem Norden des Landes und Europa verbindet.",
-        "Unterhalb der Festung wurden Reste eines römischen Militärlagers (Castrum) gefunden.",
-        "Die Stadt wurde bei der großen Überschwemmung im Mai 2014 fast vollständig überflutet.",
-        "Der Name 'Doboj' wurde erstmals 1415 in einer Urkunde der Republik Dubrovnik erwähnt.",
-        "Jedes Jahr im Juni findet auf der Festung ein Kultur- und Musikfestival statt."
-      ],
-      hu: [
-        "A doboji várat a 13. század elején építették, és a középkori Bosznia egyik legerősebb erődítménye volt.",
-        "Doboj fontos vasúti csomópont, amely összeköti Szarajevót az ország északi részével és Európával.",
-        "A vár alatt egy római katonai tábor (castrum) maradványait találták meg.",
-        "A várost a 2014. májusi nagy árvíz szinte teljesen elárasztotta.",
-        "A 'Doboj' nevet először 1415-ben említik a Raguzai Köztársaság egyik oklevelében.",
-        "Minden év júniusában kulturális és zenei fesztivált rendeznek a várban.",
-        "A vár ma a város legfontosabb szimbóluma és turisztikai látványossága.",
-        "A legenda szerint a vár neve a 'doba' (kor) szóból ered, utalva a különböző korok egymásra rétegződésére."
-      ],
-      ro: [
-        "Cetatea Doboj a fost construită la începutul secolului al XIII-lea și a fost una dintre cele mai puternice cetăți din Bosnia medievală.",
-        "Doboj este un nod feroviar important, care leagă Sarajevo de nordul țării și de Europa.",
-        "Sub cetate au fost găsite rămășițele unui castru militar roman.",
-        "Orașul a fost aproape complet inundat în timpul inundațiilor masive din mai 2014.",
-        "Numele 'Doboj' a fost menționat pentru prima dată în 1415 într-o cartă a Republicii Dubrovnik.",
-        "În fiecare an, în iunie, la cetate are loc un festival cultural și muzical."
-      ],
-      en: [
-        "The Doboj fortress was built in the early 13th century and was one of the strongest fortresses in medieval Bosnia.",
-        "Doboj is a major railway junction connecting Sarajevo with the north of the country and Europe.",
-        "Remains of a Roman military camp (castrum) have been found below the fortress.",
-        "The city was almost completely flooded during the great flood in May 2014.",
-        "The name 'Doboj' was first mentioned in 1415 in a charter of the Republic of Dubrovnik.",
-        "A cultural and music festival is held at the fortress every June.",
-        "The fortress is today the most important symbol and tourist attraction of the city.",
-        "According to legend, the name of the fortress comes from the word 'doba' (age), referring to the layering of different eras."
-      ]
+      de: ["Die Stadt wurde erstmals im Jahr 1415 urkundlich erwähnt.", "Die Festung Gradina stammt ursprünglich aus dem 13. Jahrhundert.", "Doboj liegt am Zusammenfluss von drei Flüssen: Bosna, Usora und Spreča.", "Die Stadt war der wichtigste Eisenbahnknotenpunkt im ehemaligen Jugoslawien.", "Die Festung wurde im Jahr 2005 zum nationalen Denkmal erklärt.", "Das städtische Museum bewahrt Funde aus der Steinzeit bis zur Neuzeit auf."],
+      hu: ["A várost először 1415-ben említik írásos források.", "A Gradina erőd eredeti részei a 13. századból származnak.", "Doboj három folyó, a Bosna, az Usora és a Spreča találkozásánál fekszik.", "A város az egykori Jugoszlávia legfontosabb vasúti csomópontja volt.", "Az erődítményt 2005-ben nyilvánították nemzeti műemlékké.", "A városi múzeum kőkorszaki leleteket is őriz a környékről."],
+      ro: ["Orașul a fost menționat documentar pentru prima dată în anul 1415.", "Fortăreața Gradina datează inițial din secolul al XIII-lea.", "Doboj este situat la confluența râurilor Bosna, Usora și Spreča.", "Localitatea a fost cel mai important nod feroviar din fosta Iugoslavie.", "Cetatea a fost declarată monument național în anul 2005.", "Muzeul regional din Doboj deține exponate din epoca pietrei până în prezent."],
+      en: ["The city was first documented in historical records in 1415.", "The Gradina fortress originally dates back to the 13th century.", "Doboj is located at the confluence of the Bosna, Usora, and Spreča rivers.", "The city was the most important railway junction in former Yugoslavia.", "The fortress was designated as a national monument in 2005.", "The local museum houses archaeological finds from the Stone Age onwards."],
     }, image: "/poi-images/ba-doboj.webp"},
   {
     id: "ba-prijedor",
@@ -1452,48 +824,16 @@ export const bosniaPois: POI[] = [
     coords: [18.2885, 42.7161],
     parent: "BA-002",
     descriptionAdvanced: {
-      de: "Das serbisch-orthodoxe Kloster Tvrdoš liegt malerisch auf den Felsen über dem rechten Ufer des Flusses Trebišnjica, nur wenige Kilometer von Trebinje entfernt. Das Kloster wurde im späten 15. Jahrhundert auf den Fundamenten einer römischen Kirche aus dem 4. Jahrhundert erbaut. Tvrdoš ist heute nicht nur ein wichtiges spirituelles Zentrum, sondern auch eines der bekanntesten Weingüter der Region. Die Mönche setzen hier eine jahrhundertealte Weinbautradition fort und produzieren preisgekrönte Weine, insbesondere aus den Rebsorten Vranac und Žilavka. Die alten Weinkeller können von Besuchern besichtigt werden.",
-      hu: "A szerb ortodox Tvrdoš kolostor festői környezetben, a Trebišnjica folyó jobb partja feletti sziklákon fekszik, mindössze néhány kilométerre Trebinjétől. A kolostort a 15. század végén építették egy 4. századi római templom alapjaira. A Tvrdoš ma nemcsak fontos spirituális központ, hanem a régió egyik legismertebb borászata is. A szerzetesek itt egy évszázados borászati hagyományt folytatnak, és díjnyertes borokat termelnek, különösen a Vranac és a Žilavka szőlőfajtákból. A régi borospincék látogathatók. Történelem K6 – Kolostorok és gazdálkodás.",
-      ro: "Mănăstirea ortodoxă sârbă Tvrdoš este situată pitoresc pe stâncile de pe malul drept al râului Trebišnjica, la doar câțiva kilometri de Trebinje. Mănăstirea a fost construită la sfârșitul secolului al XV-lea pe fundațiile unei biserici romane din secolul al IV-lea. Astăzi, Tvrdoš nu este doar un important centru spiritual, ci și una dintre cele mai renumite crame din regiune. Călugării continuă aici o tradiție viticolă veche de secole, producând vinuri premiate, în special din soiurile Vranac și Žilavka. Pivnițele vechi pot fi vizitate.",
-      en: "The Serbian Orthodox monastery of Tvrdoš is picturesquely situated on the rocks above the right bank of the Trebišnjica River, just a few kilometers from Trebinje. The monastery was built in the late 15th century on the foundations of a 4th-century Roman church. Today, Tvrdoš is not only an important spiritual center, but also one of the most famous wineries in the region. The monks here continue a centuries-old winemaking tradition, producing award-winning wines, especially from the Vranac and Žilavka grape varieties. The old wine cellars can be visited. History K6 – Monasteries and Farming."
+      de: "Das Kloster Tvrdoš ist ein bedeutendes serbisch-orthodoxes Kloster in der Nähe der Stadt Trebinje im Süden von Bosnien und Herzegowina. Es wurde der Legende nach bereits im 4. Jahrhundert vom römischen Kaiser Konstantin dem Großen und seiner Mutter Helena gegründet, während die heutigen Fundamente auf das 15. Jahrhundert zurückgehen. Das Kloster war über Jahrhunderte ein kulturelles und spirituelles Zentrum der Region und diente zeitweise als Sitz der Metropoliten von Herzegowina. Tvrdoš ist weltweit bekannt für seine lange Tradition im Weinbau, wobei die Mönche die Klostereigenen Weinberge nutzen, um preisgekrönte Weine in alten Steinkellern aus dem 15. Jahrhundert auszubauen. Die Klosterkirche ist der Himmelfahrt der Jungfrau Maria gewidmet und beherbergt wertvolle Fresken sowie die Reliquie der Hand der Heiligen Helena. Trotz mehrfacher Zerstörungen in Kriegen wurde das Kloster stets wieder aufgebaut und ist heute ein wichtiger Pilgerort und touristisches Highlight der Weinroute Herzegowinas.",
+      hu: "A Tvrdoš-kolostor jelentős szerb ortodox monostor Trebinje városa közelében, Bosznia-Hercegovina déli részén. A legenda szerint az eredeti templomot a 4. században alapította Nagy Konstantin római császár és édesanyja, Szent Ilona, bár a jelenlegi alapok a 15. századból származnak. A kolostor évszázadokon át a régió kulturális és szellemi központjaként működött, és egy időben a hercegovinai metropoliták székhelye is volt. Tvrdoš világszerte ismert hosszú borászati hagyományairól; a szerzetesek a kolostor saját szőlőültetvényeinek terméséből készítenek díjnyertes borokat a 15. századi kőpincékben. A kolostortemplomot Szűz Mária mennybemenetelének szentelték, és értékes freskóknak, valamint Szent Ilona kézereklyéjének ad otthont. Annak ellenére, hogy a történelem során többször lerombolták, a monostort mindig újjáépítették, és ma fontos zarándokhely, valamint a hercegovinai borút egyik legfontosabb állomása.",
+      ro: "Mănăstirea Tvrdoš este o importantă mănăstire ortodoxă sârbă situată în apropierea orașului Trebinje, în sudul Bosniei și Herțegovinei. Conform legendei, a fost ctitorită în secolul al IV-lea de împăratul roman Constantin cel Mare și mama sa Elena, deși fundațiile actuale datează din secolul al XV-lea. Mănăstirea a servit timp de secole ca centru cultural și spiritual al regiunii, fiind pentru o perioadă sediul mitropoliților de Herțegovina. Tvrdoš este renumită la nivel mondial pentru tradiția sa seculară în viticultură, călugării producând vinuri premiate în vechile pivnițe de piatră care datează tot din secolul al XV-lea. Biserica mănăstirii este dedicată Adormirii Maicii Domnului și adăpostește fresce valoroase, precum și relicva mâinii Sfintei Elena. Deși a fost distrusă de mai multe ori în timpul conflictelor istorice, mănăstirea a fost reconstruită de fiecare dată, fiind astăzi un loc de pelerinaj major și un punct cheie pe ruta vinului din Herțegovina.",
+      en: "Tvrdoš Monastery is a significant Serbian Orthodox monastery located near the city of Trebinje in southern Bosnia and Herzegovina. Legend attributes its founding to the 4th century by the Roman Emperor Constantine the Great and his mother Helena, though the current foundations date back to the 15th century. For centuries, the monastery served as the cultural and spiritual hub of the region and was once the seat of the Metropolitans of Herzegovina. Tvrdoš is internationally renowned for its long-standing winemaking tradition, with monks producing award-winning wines in ancient stone cellars that date back to the 15th century. The monastery church is dedicated to the Dormition of the Mother of God and houses precious frescoes and the hand relic of Saint Helena. Despite being destroyed multiple times throughout history, the monastery was always rebuilt and remains a major pilgrimage site and a highlight of the Herzegovinian wine route.",
     },
     factsAdvanced: {
-      de: [
-        "Das Kloster steht auf den Fundamenten einer Kirche aus dem 4. Jahrhundert, was es zu einem der ältesten christlichen Orte der Region macht.",
-        "Es wurde im 17. Jahrhundert von den Venezianern zerstört und später wieder aufgebaut.",
-        "Der Heilige Basilius von Ostrog, einer der wichtigsten Heiligen der serbisch-orthodoxen Kirche, lebte hier als Mönch.",
-        "Die Mönche von Tvrdoš bewirtschaften Weinberge und produzieren international anerkannte Weine.",
-        "Ein Glasboden in der heutigen Kirche gibt den Blick auf die Fundamente der römischen Kirche frei.",
-        "Der Weinkeller des Klosters ist in alten Steingewölben untergebracht."
-      ],
-      hu: [
-        "A kolostor egy 4. századi templom alapjaira épült, ami a régió egyik legrégebbi keresztény helyévé teszi.",
-        "A 17. században a velenceiek lerombolták, de később újjáépítették.",
-        "Szent Vazul, a szerb ortodox egyház egyik legfontosabb szentje, itt élt szerzetesként.",
-        "A tvrdoši szerzetesek szőlőültetvényeket művelnek és nemzetközileg elismert borokat termelnek.",
-        "A mai templom üvegpadlója betekintést enged a római templom alapjaiba.",
-        "A kolostor borospincéje régi kőboltozatokban kapott helyet.",
-        "A kolostor híres a kiváló minőségű mézéről is.",
-        "A legenda szerint a kolostort I. Konstantin császár és anyja, Heléna alapította."
-      ],
-      ro: [
-        "Mănăstirea se află pe fundațiile unei biserici din secolul al IV-lea, fiind unul dintre cele mai vechi locuri creștine din regiune.",
-        "A fost distrusă de venețieni în secolul al XVII-lea și ulterior reconstruită.",
-        "Sfântul Vasile din Ostrog, unul dintre cei mai importanți sfinți ai Bisericii Ortodoxe Sârbe, a trăit aici ca monah.",
-        "Călugării de la Tvrdoš cultivă viță de vie și produc vinuri recunoscute internațional.",
-        "O podea de sticlă în biserica actuală permite vizualizarea fundațiilor bisericii romane.",
-        "Pivnița mănăstirii este amenajată în beciuri vechi de piatră."
-      ],
-      en: [
-        "The monastery stands on the foundations of a 4th-century church, making it one of the oldest Christian sites in the region.",
-        "It was destroyed by the Venetians in the 17th century and later rebuilt.",
-        "Saint Basil of Ostrog, one of the most important saints of the Serbian Orthodox Church, lived here as a monk.",
-        "The monks of Tvrdoš cultivate vineyards and produce internationally recognized wines.",
-        "A glass floor in the current church allows a view of the foundations of the Roman church.",
-        "The monastery's wine cellar is housed in old stone vaults.",
-        "The monastery is also famous for its high-quality honey.",
-        "According to legend, the monastery was founded by Emperor Constantine I and his mother, Helena."
-      ]
+      de: ["Die ursprüngliche Gründung wird dem 4. Jahrhundert zugeschrieben.", "Die heutigen Klostergebäude stammen größtenteils aus dem 15. Jahrhundert.", "Das Kloster beherbergt Steinkeller aus dem Jahr 1509 für die Weinlagerung.", "Tvrdoš ist der Ort, an dem der Heilige Vasilije Ostroški seine Tonsur erhielt.", "Die Hand der Heiligen Helena wird im Kloster als Reliquie aufbewahrt.", "Das Kloster liegt nur etwa 4 Kilometer westlich von Trebinje."],
+      hu: ["Az eredeti alapítást a 4. századra vezetik vissza.", "A jelenlegi kolostorépületek nagy része a 15. századból származik.", "A monostor 1509-ből származó kőpincékkel rendelkezik a bor érleléséhez.", "Itt tett szerzetesi fogadalmat Szent Vazul (Vasilije Ostroški).", "Szent Ilona kézereklyéjét a kolostorban őrzik.", "A kolostor mindössze 4 kilométerre nyugatra fekszik Trebinjétől."],
+      ro: ["Fondarea originală este atribuită secolului al IV-lea.", "Clădirile actuale ale mănăstirii datează în mare parte din secolul al XV-lea.", "Mănăstirea dispune de pivnițe de piatră din anul 1509 pentru depozitarea vinului.", "Tvrdoš este locul unde Sfântul Vasile de Ostrog a primit tunderea în monahism.", "Mâna Sfintei Elena este păstrată ca relicvă în incinta mănăstirii.", "Mănăstirea se află la doar 4 kilometri vest de orașul Trebinje."],
+      en: ["The original foundation is traditionally attributed to the 4th century.", "The current monastery buildings mostly date from the 15th century.", "The monastery features stone wine cellars dating back to 1509.", "Saint Basil of Ostrog received his monastic tonsure at Tvrdoš.", "The hand relic of Saint Helena is kept within the monastery.", "The monastery is located approximately 4 kilometers west of Trebinje."],
     }, image: "/poi-images/ba-tvrkos.webp"},
   {
     id: "ba-bjelasnica",
@@ -1508,48 +848,16 @@ export const bosniaPois: POI[] = [
     coords: [18.2572, 43.7042],
     parent: "BA-017",
     descriptionAdvanced: {
-      de: "Der Berg Bjelašnica, dessen Name 'Weißer Berg' bedeutet, gehört zu den Dinarischen Alpen und ist ein beliebtes Ziel für Wintersportler und Wanderer. Er erlangte Berühmtheit als Austragungsort der alpinen Skiwettbewerbe der Männer bei den Olympischen Winterspielen 1984 in Sarajevo. Der Gipfel ist bekannt für sein raues, unvorhersehbares Wetter. Auf dem Gipfel befindet sich eine Wetterstation, die während der Olympischen Spiele eine wichtige Rolle spielte. Neben dem Skifahren bietet Bjelašnica im Sommer zahlreiche Wanderwege, die zu traditionellen Bergdörfern wie Lukomir führen.",
-      hu: "A Bjelašnica hegy, melynek neve 'Fehér hegyet' jelent, a Dinári-hegységhez tartozik, és a téli sportolók és túrázók kedvelt célpontja. Az 1984-es szarajevói téli olimpia férfi alpesi síszámainak helyszíneként vált híressé. A csúcs zord, kiszámíthatatlan időjárásáról ismert. A csúcson egy meteorológiai állomás található, amely az olimpia idején fontos szerepet játszott. A síelés mellett a Bjelašnica nyáron számos túraútvonalat kínál, amelyek hagyományos hegyi falvakba, például Lukomirba vezetnek. Földrajz K7 – Időjárás és éghajlat a hegyekben.",
-      ro: "Muntele Bjelašnica, al cărui nume înseamnă \\\"Muntele Alb\\\", aparține Alpilor Dinarici și este o destinație populară pentru sportivii de iarnă și drumeți. A devenit faimos ca loc de desfășurare a competițiilor de schi alpin masculin la Jocurile Olimpice de iarnă din 1984 de la Sarajevo. Vârful este cunoscut pentru vremea sa aspră și imprevizibilă. Pe vârf se află o stație meteorologică care a jucat un rol important în timpul Jocurilor Olimpice. Pe lângă schi, Bjelašnica oferă numeroase trasee de drumeție vara, care duc la sate montane tradiționale precum Lukomir.",
-      en: "Mount Bjelašnica, whose name means 'White Mountain,' is part of the Dinaric Alps and a popular destination for winter sports enthusiasts and hikers. It became famous as the venue for the men's alpine skiing events at the 1984 Winter Olympics in Sarajevo. The peak is known for its harsh, unpredictable weather. At the summit is a meteorological station that played an important role during the Olympics. In addition to skiing, Bjelašnica offers numerous hiking trails in summer that lead to traditional mountain villages like Lukomir. Geography K7 - Weather and Climate in the Mountains."
+      de: "Die Bjelašnica ist ein markantes Gebirgsmassiv in Zentral-Bosnien und Herzegowina, südwestlich von Sarajevo gelegen. Mit einer maximalen Höhe von 2067 Metern am Gipfel Opservatorija ist sie bekannt für ihre extremen Wetterbedingungen und ihre Bedeutung als Austragungsort der Olympischen Winterspiele 1984. Während der Spiele fanden hier die Wettbewerbe im alpinen Skisport der Männer statt, was zur Entwicklung einer erstklassigen Skisport-Infrastruktur führte. Auf dem Gipfel befindet sich eine meteorologische Station, die bereits im Jahr 1894 unter österreichisch-ungarischer Verwaltung errichtet wurde und die erste ihrer Art auf dem Balkan war. Das Gebirge ist geprägt durch Karstlandschaften, tiefe Schluchten und weite Plateaus, die eine einzigartige Flora und Fauna beherbergen. Neben dem Wintersport bietet die Bjelašnica im Sommer zahlreiche Möglichkeiten für Wanderungen, Mountainbiking und den Besuch traditioneller Bergdörfer wie Lukomir. Die Nähe zu Sarajevo macht sie zu einem wichtigen Erholungsgebiet für die Hauptstadtbewohner und internationale Touristen.",
+      hu: "A Bjelašnica egy jellegzetes hegység Közép-Bosznia-Hercegovinában, Szarajevótól délnyugatra. Legmagasabb pontja a 2067 méteres Opservatorija-csúcs, amely szélsőséges időjárási körülményeiről és az 1984-es téli olimpiai játékok helyszíneként vált ismertté. Az olimpia idején itt rendezték a férfi alpesi síversenyeket, ami jelentős infrastruktúra-fejlesztést eredményezett a területen. A csúcson található egy meteorológiai állomás, amelyet még 1894-ben, az osztrák-magyar fennhatóság idején építettek, és az első ilyen létesítmény volt a Balkánon. A hegységet karsztvidékek, mély szurdokok és tágas fennsíkok jellemzik, amelyek egyedülálló flórának és faunának adnak otthont. A téli sportok mellett a Bjelašnica nyáron is népszerű túrázási, hegyi kerékpározási célpont, és lehetőséget nyújt az olyan hagyományos hegyi falvak felkeresésére, mint Lukomir. Szarajevóhoz való közelsége miatt a fővárosiak és a nemzetközi turisták egyik legfontosabb üdülőhelye.",
+      ro: "Muntele Bjelašnica este un masiv montan proeminent din centrul Bosniei și Herțegovinei, situat la sud-vest de Sarajevo. Având o înălțime maximă de 2067 metri pe vârful Opservatorija, acesta este renumit pentru condițiile sale meteorologice extreme și pentru rolul de gazdă a Jocurilor Olimpice de Iarnă din 1984. În timpul olimpiadei, aici s-au desfășurat probele masculine de schi alpin, fapt ce a dus la dezvoltarea unei infrastructuri sportive de nivel mondial. Pe vârf se află o stație meteorologică construită în anul 1894, în perioada administrației austro-ungare, fiind prima de acest gen din Balcani. Peisajul este caracterizat prin formațiuni carstice, defilee adânci și platouri întinse care adăpostesc o floră și o faună unică. Pe lângă sporturile de iarnă, Bjelašnica oferă numeroase trasee de drumeție și mountain biking pe timp de vară, precum și acces la sate tradiționale izolate, cum este Lukomir. Apropierea de Sarajevo îl face o zonă de recreere vitală pentru locuitorii capitalei și turiștii străini.",
+      en: "Bjelašnica is a prominent mountain range in central Bosnia and Herzegovina, located southwest of Sarajevo. Reaching a maximum elevation of 2,067 meters at the Opservatorija peak, it is famous for its extreme weather conditions and its role as a venue for the 1984 Winter Olympics. During the games, it hosted the men's alpine skiing events, which spurred the development of world-class skiing infrastructure. At the summit stands a meteorological station established in 1894 under Austro-Hungarian rule, making it the first of its kind in the Balkans. The mountain landscape is defined by karst features, deep canyons, and vast plateaus that host unique flora and fauna. Beyond winter sports, Bjelašnica offers numerous opportunities for hiking, mountain biking, and visiting traditional mountain villages like Lukomir during the summer. Its proximity to Sarajevo makes it an essential recreational hub for both locals and international visitors.",
     },
     factsAdvanced: {
-      de: [
-        "Der höchste Gipfel der Bjelašnica, auch Bjelašnica genannt, ist 2.067 Meter hoch.",
-        "Hier fanden die alpinen Skiwettbewerbe der Männer während der Olympischen Winterspiele 1984 statt.",
-        "Auf dem Gipfel befindet sich eine permanent besetzte meteorologische Station.",
-        "Der Berg ist bekannt für seine extremen Wetterbedingungen und starken Winde.",
-        "Am Fuße des Berges liegt das olympische Dorf Babin Do.",
-        "Bjelašnica ist ein Karstgebirge mit zahlreichen Dolinen, Höhlen und unterirdischen Flüssen."
-      ],
-      hu: [
-        "A Bjelašnica legmagasabb csúcsa, szintén Bjelašnica néven, 2067 méter magas.",
-        "Itt rendezték a férfi alpesi síversenyeket az 1984-es téli olimpia alatt.",
-        "A csúcson egy állandó személyzettel ellátott meteorológiai állomás működik.",
-        "A hegy extrém időjárási viszonyairól és erős szeleliről ismert.",
-        "A hegy lábánál fekszik az olimpiai falu, Babin Do.",
-        "A Bjelašnica egy karszthegység, számos dolinával, barlanggal és föld alatti folyóval.",
-        "A hegy a nevét a hosszan tartó hótakaróról kapta.",
-        "A hegyen található az Umoljani falu, amely a sárkánylegendájáról híres."
-      ],
-      ro: [
-        "Cel mai înalt vârf al masivului Bjelašnica, numit tot Bjelašnica, are 2.067 de metri înălțime.",
-        "Aici au avut loc competițiile de schi alpin masculin în timpul Jocurilor Olimpice de iarnă din 1984.",
-        "Pe vârf se află o stație meteorologică permanentă.",
-        "Muntele este cunoscut pentru condițiile sale meteorologice extreme și vânturile puternice.",
-        "La poalele muntelui se află satul olimpic Babin Do.",
-        "Bjelašnica este un munte carstic cu numeroase doline, peșteri și râuri subterane."
-      ],
-      en: [
-        "The highest peak of Bjelašnica, also called Bjelašnica, is 2,067 meters high.",
-        "The men's alpine skiing competitions were held here during the 1984 Winter Olympics.",
-        "There is a permanently staffed meteorological station at the summit.",
-        "The mountain is known for its extreme weather conditions and strong winds.",
-        "At the foot of the mountain is the Olympic village of Babin Do.",
-        "Bjelašnica is a karst mountain with numerous sinkholes, caves, and underground rivers.",
-        "The mountain gets its name from the long-lasting snow cover.",
-        "The village of Umoljani, famous for its dragon legend, is located on the mountain."
-      ]
+      de: ["Der höchste Gipfel der Bjelašnica ist der Opservatorija mit 2067 Metern.", "Hier fanden bei den Olympischen Winterspielen 1984 die alpinen Männerwettbewerbe statt.", "Die meteorologische Station auf dem Gipfel wurde im Jahr 1894 in Betrieb genommen.", "Der Name 'Bjelašnica' leitet sich vom slawischen Wort für 'weiß' ab (wegen des Schnees).", "Das Gebirge gehört zum Gebzug der Dinariden in Südosteuropa.", "Die Skisaison dauert hier oft von Dezember bis in den Monat April."],
+      hu: ["A Bjelašnica legmagasabb csúcsa az Opservatorija, amely 2067 méter magas.", "Itt rendezték meg az 1984-es téli olimpia férfi alpesi síversenyeit.", "A csúcson lévő meteorológiai állomást 1894-ben helyezték üzembe.", "A hegység neve a szláv 'fehér' szóból ered, a hótakaróra utalva.", "A hegység a Dinári-hegység vonulatának része Délkelet-Európában.", "A síszezon itt gyakran decembertől egészen áprilisig tart."],
+      ro: ["Cel mai înalt vârf din Bjelašnica este Opservatorija, având 2067 metri.", "Aici s-au desfășurat competițiile masculine de schi alpin la Olimpiada din 1984.", "Stația meteorologică de pe vârf a fost pusă în funcțiune în anul 1894.", "Numele 'Bjelašnica' derivă din cuvântul slav pentru 'alb', datorită zăpezii.", "Masivul face parte din lanțul Munților Alpi Dinari din sud-estul Europei.", "Sezonul de schi aici durează adesea din decembrie până în luna aprilie."],
+      en: ["The highest peak of Bjelašnica is Opservatorija at 2,067 meters.", "It hosted the men's alpine skiing events during the 1984 Winter Olympics.", "The meteorological station at the summit began operations in 1894.", "The name 'Bjelašnica' comes from the Slavic word for 'white' due to its snow cover.", "The mountain range is part of the Dinaric Alps in Southeastern Europe.", "The skiing season here often lasts from December until the month of April."],
     }, image: "/poi-images/ba-bjelasnica.webp"},
   {
     id: "ba-perucica",
@@ -1620,49 +928,17 @@ export const bosniaPois: POI[] = [
     coords: [18.1022, 44.5458],
     parent: "BA-006",
     descriptionAdvanced: {
-      de: "Die Festung Maglaj ist eine gut erhaltene mittelalterliche Festung, die majestätisch auf einem Hügel über der gleichnamigen Stadt und dem Fluss Bosna thront. Sie wurde erstmals im 15. Jahrhundert erwähnt und spielte eine wichtige Rolle bei der Verteidigung des mittelalterlichen bosnischen Königreichs. Die Festung ist bekannt für ihren markanten Uhrturm (Sahat-kula) und die Jusuf-paša-Moschee (Kuršumlija) innerhalb ihrer Mauern, die beide aus der osmanischen Zeit stammen. Die Festung bietet einen hervorragenden strategischen Überblick über das Bosna-Tal und ist heute ein Wahrzeichen der Stadt Maglaj.",
-      hu: "Maglaj vára egy jó állapotban fennmaradt középkori erődítmény, amely fenségesen trónol egy dombon a névadó város és a Boszna folyó felett. Először a 15. században említik, és fontos szerepet játszott a középkori bosnyák királyság védelmében. Az erőd híres jellegzetes óratornyáról (Sahat-kula) és a falain belül található Jusuf pasa (Kuršumlija) mecsetről, amelyek mindketten az oszmán korból származnak. A vár kiváló stratégiai áttekintést nyújt a Boszna-völgyre, és ma Maglaj városának jelképe. Történelem K7 – Várépítészet.",
-      ro: "Cetatea Maglaj este o fortăreață medievală bine conservată, care tronează maiestuos pe un deal deasupra orașului omonim și a râului Bosna. A fost menționată pentru prima dată în secolul al XV-lea și a jucat un rol important în apărarea regatului medieval bosniac. Cetatea este cunoscută pentru turnul său cu ceas proeminent (Sahat-kula) și pentru Moscheea Jusuf-paša (Kuršumlija) din interiorul zidurilor sale, ambele datând din perioada otomană. Fortăreața oferă o excelentă vedere strategică asupra văii Bosnei și este astăzi un simbol al orașului Maglaj.",
-      en: "The Maglaj fortress is a well-preserved medieval fortress that sits majestically on a hill above the town of the same name and the Bosna River. It was first mentioned in the 15th century and played an important role in the defense of the medieval Bosnian kingdom. The fortress is known for its distinctive clock tower (Sahat-kula) and the Jusuf-paša Mosque (Kuršumlija) within its walls, both of which date from the Ottoman period. The fortress offers an excellent strategic overview of the Bosna Valley and is today a landmark of the city of Maglaj. History K7 - Fortress Architecture."
+      de: "Die Festung von Maglaj ist eine der besterhaltenen mittelalterlichen Burganlagen in Bosnien und Herzegowina und thront auf einem Felsvorsprung über dem Fluss Bosna. Ihre Ursprünge reichen wahrscheinlich bis in das 13. Jahrhundert zurück, wobei sie im Laufe der Jahrhunderte durch die Osmanen und die Österreicher erweitert und verstärkt wurde. Die Anlage besteht aus einer Oberburg mit massiven Türmen und einer Unterburg, die strategisch so angelegt wurde, dass sie den gesamten Schiffsverkehr und die Handelswege im Bosna-Tal kontrollieren konnte. Innerhalb der Mauern befinden sich Überreste von Kasernen, Munitionslagern und einer kleinen Moschee, die die wechselvolle religiöse Geschichte des Ortes widerspiegeln. Maglaj war im Mittelalter ein wichtiger Sitz des bosnischen Adels und spielte eine Schlüsselrolle in den Kriegen gegen das Osmanische Reich im 15. Jahrhundert. Heute dient die Festung als Kulturdenkmal und bietet Besuchern einen weitreichenden Ausblick über die historische Altstadt und das umliegende Gebirge. Jährlich finden auf dem Gelände kulturelle Veranstaltungen statt, die die Traditionen der Region lebendig halten.",
+      hu: "Maglaj vára Bosznia-Hercegovina egyik legjobb állapotban fennmaradt középkori erődítménye, amely a Bosna-folyó feletti sziklaszirten magasodik. Eredete valószínűleg a 13. századig nyúlik vissza, majd az évszázadok során az oszmánok és az osztrákok is bővítették és megerősítették. Az épületegyüttes egy masszív tornyokkal rendelkező felső várból és egy alsó várból áll, amelyet stratégiailag úgy alakítottak ki, hogy ellenőrizhesse a Bosna-völgy hajóforgalmát és kereskedelmi útjait. A falakon belül kaszárnyák, lőszerraktárak és egy kis mecset maradványai is megtalálhatók, tükrözve a hely változatos vallási múltját. Maglaj a középkorban a bosnyák nemesség fontos székhelye volt, és kulcsszerepet játszott a 15. századi oszmánellenes háborúkban. Ma az erődítmény kulturális műemlékként szolgál, és látványos kilátást nyújt a történelmi óvárosra és a környező hegyekre. A területen évente tartanak kulturális rendezvényeket, amelyek a régió hagyományait ápolják.",
+      ro: "Cetatea din Maglaj este una dintre cele mai bine conservate fortificații medievale din Bosnia și Herțegovina, fiind cocoțată pe o proeminență stâncoasă deasupra râului Bosna. Originile sale datează probabil din secolul al XIII-lea, complexul fiind extins și consolidat ulterior de otomani și austrieci. Fortificația cuprinde o cetate superioară cu turnuri masive și o cetate inferioară, poziționată strategic pentru a controla traficul fluvial și rutele comerciale de pe valea râului Bosna. În incinta zidurilor se găsesc vestigii ale unor cazărmi, depozite de muniție și ale unei mici moschei, reflectând istoria religioasă diversă a locației. În Evul Mediu, Maglaj a fost o reședință importantă a nobilimii bosniace și a jucat un rol cheie în conflictele împotriva Imperiului Otoman din secolul al XV-lea. Astăzi, cetatea funcționează ca monument cultural și oferă vizitatorilor o panoramă spectaculoasă asupra orașului vechi și a munților învecinați. Anual, aici sunt organizate evenimente culturale care promovează tradițiile locale.",
+      en: "Maglaj Fortress is one of the best-preserved medieval fortifications in Bosnia and Herzegovina, perched on a rocky outcrop overlooking the Bosna River. Its origins likely date back to the 13th century, with subsequent expansions and reinforcements carried out by both Ottoman and Austrian forces over the centuries. The complex consists of an upper fortress with massive towers and a lower fortress, strategically designed to control river traffic and trade routes along the Bosna Valley. Within its walls lie the remains of barracks, ammunition stores, and a small mosque, reflecting the site's varied religious history. During the Middle Ages, Maglaj was an important seat for Bosnian nobility and played a crucial role in the 15th-century wars against the Ottoman Empire. Today, the fortress serves as a cultural monument and offers visitors a sweeping view of the historic old town and the surrounding mountains. It annually hosts cultural events that celebrate the region's heritage.",
     },
     factsAdvanced: {
-      de: [
-        "Maglaj wurde erstmals 1408 in einer Charta des ungarischen Königs Sigismund erwähnt.",
-        "Die Jusuf-paša (Kuršumlija) Moschee innerhalb der Festung wurde 1560 erbaut.",
-        "Der Uhrturm wurde im 17. Jahrhundert hinzugefügt und ist eines der Wahrzeichen der Stadt.",
-        "Die Festung kontrollierte den wichtigen Handelsweg entlang des Flusses Bosna.",
-        "Die Festung und die Altstadt von Maglaj sind als Nationaldenkmal von Bosnien und Herzegowina geschützt.",
-        "Der Name 'Maglaj' leitet sich vom slawischen Wort für Nebel ('magla') ab."
-      ],
-      hu: [
-        "Maglajt először 1408-ban említik Zsigmond magyar király egyik oklevelében.",
-        "A várban található Jusuf pasa (Kuršumlija) mecsetet 1560-ban építették.",
-        "Az óratornyot a 17. században adták hozzá, és a város egyik jelképe.",
-        "Az erőd a Boszna folyó menti fontos kereskedelmi útvonalat ellenőrizte.",
-        "A vár és Maglaj óvárosa Bosznia-Hercegovina nemzeti emlékműveként védett.",
-        "A 'Maglaj' név a szláv 'magla' (köd) szóból ered.",
-        "A 2014-es nagy árvíz a várat is elérte, de azóta helyreállították.",
-        "A várban évente kulturális eseményeket és fesztiválokat rendeznek."
-      ],
-      ro: [
-        "Maglaj a fost menționat pentru prima dată în 1408 într-o cartă a regelui maghiar Sigismund.",
-        "Moscheea Jusuf-paša (Kuršumlija) din interiorul cetății a fost construită în 1560.",
-        "Turnul cu ceas a fost adăugat în secolul al XVII-lea și este unul dintre simbolurile orașului.",
-        "Cetatea controla importanta rută comercială de-a lungul râului Bosna.",
-        "Cetatea și orașul vechi Maglaj sunt protejate ca monument național al Bosniei și Herțegovinei.",
-        "Numele 'Maglaj' derivă din cuvântul slav pentru ceață ('magla')."
-      ],
-      en: [
-        "Maglaj was first mentioned in 1408 in a charter of the Hungarian King Sigismund.",
-        "The Jusuf-paša (Kuršumlija) Mosque inside the fortress was built in 1560.",
-        "The clock tower was added in the 17th century and is one of the city's landmarks.",
-        "The fortress controlled the important trade route along the Bosna River.",
-        "The fortress and the old town of Maglaj are protected as a National Monument of Bosnia and Herzegovina.",
-        "The name 'Maglaj' is derived from the Slavic word for fog ('magla').",
-        "The great flood of 2014 also reached the fortress, but it has since been restored.",
-        "Cultural events and festivals are held annually in the fortress."
-      ]
-    }
+      de: ["Die Festung wurde erstmals im Jahr 1408 in einer Charta erwähnt.", "Sie liegt auf einem steilen Felsen direkt am Ufer des Flusses Bosna.", "Im Jahr 1697 wurde die Burg während des Großen Türkenkrieges belagert.", "Die Anlage beherbergt den markanten quadratischen 'Sahat-kula' (Uhrturm).", "Im Jahr 2005 wurde sie zum nationalen Denkmal Bosnien und Herzegowinas erklärt.", "Die Festung besteht aus fünf Türmen und massiven Verbindungsmauern."],
+      hu: ["A várat először 1408-ban említik egy királyi oklevélben.", "A vár egy meredek sziklán fekszik, közvetlenül a Bosna-folyó partján.", "1697-ben a nagy török háború idején az erődítményt ostrom alá vették.", "A komplexum részét képezi a jellegzetes négyszögletes Sahat-kula (óra-torony).", "2005-ben nyilvánították Bosznia-Hercegovina nemzeti műemlékévé.", "Az erődítmény öt toronyból és masszív összekötő falakból áll."],
+      ro: ["Cetatea a fost menționată documentar pentru prima dată într-o cartă din 1408.", "Este situată pe o stâncă abruptă chiar pe malul râului Bosna.", "În anul 1697, cetatea a fost asediată în timpul Marelui Război Turcesc.", "Ansamblul găzduiește celebrul 'Sahat-kula' (turnul cu ceas) cu formă pătrată.", "În 2005, a fost declarată monument național al Bosniei și Herțegovinei.", "Fortificația este compusă din cinci turnuri și ziduri de legătură masive."],
+      en: ["The fortress was first mentioned in a royal charter in 1408.", "It is situated on a steep rock directly on the banks of the Bosna River.", "In 1697, the fortress was besieged during the Great Turkish War.", "The complex includes the distinctive square Sahat-kula (clock tower).", "In 2005, it was designated as a national monument of Bosnia and Herzegovina.", "The fortress consists of five towers and massive connecting walls."],
+    },
   },
   {
     id: "ba-orasje",
@@ -1677,48 +953,16 @@ export const bosniaPois: POI[] = [
     coords: [18.6925, 45.0322],
     parent: "BA-007",
     descriptionAdvanced: {
-      de: "Orašje ist eine kleine Stadt und Gemeinde im Posavina-Kanton, direkt an der Grenze zu Kroatien. Die Stadt liegt am Südufer des Flusses Save, der hier die natürliche Grenze bildet. Orašje ist ein wichtiges regionales Zentrum für Landwirtschaft und Handel. Die Stadt ist bekannt für ihre entspannte Atmosphäre und die Gastfreundschaft ihrer Bewohner. Die Nähe zu Kroatien und die Lage an der Save prägen das Leben und die Kultur der Stadt. Jedes Jahr im September findet hier eine beliebte Motorrad-Show statt, die Biker aus der ganzen Region anzieht.",
-      hu: "Orašje egy kisváros és község a Posavina kantonban, közvetlenül a horvát határon. A város a Száva folyó déli partján fekszik, amely itt a természetes határt képezi. Orašje fontos regionális mezőgazdasági és kereskedelmi központ. A város ismert a laza légköréről és lakóinak vendégszeretetéről. Horvátország közelsége és a Száva menti fekvés meghatározza a város életét és kultúráját. Minden év szeptemberében népszerű motoros bemutatót tartanak itt, amely a régió minden részéről vonzza a motorosokat. Földrajz K8 – Határ menti régiók.",
-      ro: "Orašje este un mic oraș și o comună în cantonul Posavina, chiar la granița cu Croația. Orașul este situat pe malul sudic al râului Sava, care formează aici granița naturală. Orašje este un important centru regional pentru agricultură și comerț. Orașul este cunoscut pentru atmosfera sa relaxată și ospitalitatea locuitorilor săi. Apropierea de Croația și locația pe râul Sava modelează viața și cultura orașului. În fiecare an, în septembrie, aici are loc un popular show de motociclete, care atrage motocicliști din întreaga regiune.",
-      en: "Orašje is a small town and municipality in the Posavina canton, right on the border with Croatia. The town is located on the south bank of the Sava River, which forms the natural border here. Orašje is an important regional center for agriculture and trade. The city is known for its relaxed atmosphere and the hospitality of its residents. The proximity to Croatia and the location on the Sava shape the life and culture of the city. Every year in September, a popular motorcycle show is held here, attracting bikers from all over the region. Geography K8 - Border Regions."
+      de: "Orašje ist eine Grenzstadt im Norden von Bosnien und Herzegowina und liegt direkt am Ufer der Save, die die natürliche Grenze zu Kroatien bildet. Die Stadt wurde im 19. Jahrhundert, genauer gesagt im Jahr 1862, als planmäßige Siedlung für muslimische Flüchtlinge aus Serbien gegründet und trug ursprünglich den Namen Azizija. Das Stadtbild ist durch eine schachbrettartige Straßenführung geprägt, was für die damalige Zeit eine moderne urbane Konzeption darstellte. Heute ist Orašje das administrative Zentrum des Kantons Posavina und ein wichtiger wirtschaftlicher Umschlagplatz aufgrund des Grenzübergangs mit einer großen Brücke über die Save. Die Region ist bekannt für ihre fruchtbaren Böden und die intensive Landwirtschaft, insbesondere den Anbau von Getreide und Industriepflanzen. Kulturell ist Orašje für das jährliche Filmfestival 'Dani hrvatskog filma' bekannt, das seit 1995 stattfindet und zahlreiche Kulturschaffende aus der Region anzieht. Die Stadt verbindet eine ruhige Atmosphäre am Flussufer mit der Dynamik eines wichtigen Grenzpostens zwischen der Europäischen Union und Bosnien.",
+      hu: "Orašje határváros Bosznia-Hercegovina északi részén, közvetlenül a Száva-folyó partján, amely a természetes határt képezi Horvátország felé. A várost a 19. században, pontosabban 1862-ben alapították tervezett településként a Szerbiából menekülő muszlim lakosság számára, és eredetileg az Azizija nevet viselte. A település szerkezetét a sakktáblaszerű utcahálózat jellemzi, ami a korszak modern városépítészeti koncepcióját tükrözte. Ma Orašje a Posavinai kanton adminisztratív központja és fontos gazdasági csomópont a Száván átívelő nagy híd és a határátkelőhely miatt. A régió termékeny földjeiről és intenzív mezőgazdaságáról ismert, különösen a gabonafélék és ipari növények termesztése jelentős. Kulturális szempontból az 1995 óta megrendezett 'Dani hrvatskog filma' filmfesztivál teszi ismertté, amely a régió számos művészét vonzza. A város ötvözi a folyóparti nyugodt hangulatot az Európai Unió és Bosznia közötti fontos határállomás dinamizmusával.",
+      ro: "Orašje este un oraș de frontieră situat în nordul Bosniei și Herțegovinei, chiar pe malul râului Sava, care formează granița naturală cu Croația. Orașul a fost fondat în secolul al XIX-lea, mai exact în anul 1862, ca o așezare planificată pentru refugiații musulmani din Serbia, purtând inițial numele de Azizija. Structura urbană se remarcă printr-o rețea de străzi în formă de tablă de șah, ceea ce reprezenta o concepție modernă pentru acea perioadă. Astăzi, Orașje este centrul administrativ al Cantonului Posavina și un punct economic vital datorită punctului de trecere a frontierei și podului impunător peste Sava. Regiunea este renumită pentru solurile sale fertile și agricultura intensivă, în special cultivarea cerealelor și a plantelor industriale. Din punct de vedere cultural, Orașje este cunoscut pentru festivalul anual 'Zilele Filmului Croat', care se desfășoară din 1995 și atrage numeroși artiști. Orașul îmbină atmosfera liniștită de pe malul râului cu dinamismul unui punct de tranzit major între Uniunea Europeană și Bosnia.",
+      en: "Orašje is a border town in northern Bosnia and Herzegovina, situated directly on the banks of the Sava River, which forms the natural border with Croatia. The town was founded in the 19th century, specifically in 1862, as a planned settlement for Muslim refugees from Serbia and was originally named Azizija. Its urban layout is characterized by a grid-like street system, representing a modern urban planning concept for its time. Today, Orašje serves as the administrative center of the Posavina Canton and is a significant economic hub due to its border crossing and the large bridge spanning the Sava. The region is known for its fertile soil and intensive agriculture, particularly the cultivation of grains and industrial crops. Culturally, Orašje is famous for the 'Days of Croatian Film' festival, held annually since 1995, attracting numerous filmmakers from the region. The town blends a peaceful riverside atmosphere with the dynamism of a major transit point between the European Union and Bosnia.",
     },
     factsAdvanced: {
-      de: [
-        "Orašje liegt in der fruchtbaren Posavina-Region, die für ihre Landwirtschaft bekannt ist.",
-        "Der Fluss Save ist eine der Hauptverkehrsadern und bildet die Grenze zu Kroatien (und damit zur EU).",
-        "Die Stadt wurde während des Bosnienkrieges schwer verteidigt und nie eingenommen.",
-        "Das jährliche internationale Motorradtreffen 'Moto Show' ist eine der größten Veranstaltungen der Stadt.",
-        "In der Umgebung wird viel Tabak, Mais und Weizen angebaut.",
-        "Orašje wurde offiziell 1863 gegründet, obwohl die Besiedlung der Region viel älter ist."
-      ],
-      hu: [
-        "Orašje a termékeny Posavina régióban található, amely mezőgazdaságáról ismert.",
-        "A Száva folyó az egyik fő közlekedési útvonal, és határt képez Horvátországgal (és így az EU-val).",
-        "A várost a boszniai háború alatt keményen védték és soha nem foglalták el.",
-        "Az évente megrendezett nemzetközi motoros találkozó, a 'Moto Show', a város egyik legnagyobb eseménye.",
-        "A környéken sok dohányt, kukoricát és búzát termesztenek.",
-        "Orašjét hivatalosan 1863-ban alapították, bár a régió betelepülése sokkal régebbi.",
-        "A város a híres 'Orašjei szilvapálinka' szülőhelye.",
-        "A helyi futballklub, a HNK Orašje, egyszer megnyerte a boszniai kupát."
-      ],
-      ro: [
-        "Orašje este situat în regiunea fertilă Posavina, cunoscută pentru agricultura sa.",
-        "Râul Sava este una dintre principalele căi de transport și formează granița cu Croația (și, prin urmare, cu UE).",
-        "Orașul a fost apărat cu îndârjire în timpul războiului din Bosnia și nu a fost niciodată cucerit.",
-        "Întâlnirea internațională anuală de motociclete 'Moto Show' este unul dintre cele mai mari evenimente ale orașului.",
-        "În zonă se cultivă mult tutun, porumb și grâu.",
-        "Orašje a fost fondat oficial în 1863, deși așezarea în regiune este mult mai veche."
-      ],
-      en: [
-        "Orašje is located in the fertile Posavina region, known for its agriculture.",
-        "The Sava River is one of the main transport arteries and forms the border with Croatia (and thus the EU).",
-        "The city was heavily defended during the Bosnian War and was never captured.",
-        "The annual international motorcycle meeting, the 'Moto Show,' is one of the city's biggest events.",
-        "Much tobacco, corn, and wheat are grown in the area.",
-        "Orašje was officially founded in 1863, although the settlement of the region is much older.",
-        "The town is the birthplace of the famous 'Orašje plum brandy'.",
-        "The local football club, HNK Orašje, once won the Bosnian Cup."
-      ]
+      de: ["Orašje wurde offiziell im Jahr 1862 gegründet.", "Der ursprüngliche Name der Stadt war Azizija, benannt nach Sultan Abdülaziz.", "Die Stadt liegt im Durchschnitt auf einer Höhe von 80 Metern über dem Meer.", "Die Save-Brücke in Orašje ist eine wichtige Verbindung zur Autobahn A3 in Kroatien.", "Das Filmfestival 'Dani hrvatskog filma' wurde von Ivo Gregurević initiiert.", "Orašje ist der Hauptort des Kantons Posavina innerhalb der Föderation."],
+      hu: ["Orašjét hivatalosan 1862-ben alapították.", "A város eredeti neve Azizija volt, Abdülaziz szultán után.", "A település átlagosan 80 méteres tengerszint feletti magasságban fekszik.", "Az orašjei Száva-híd fontos összeköttetést biztosít a horvátországi A3-as autópályához.", "A 'Dani hrvatskog filma' filmfesztivált Ivo Gregurević színész alapította.", "Orašje a Posavinai kanton székhelye a Bosznia-hercegovinai Föderáción belül."],
+      ro: ["Orašje a fost fondat oficial în anul 1862.", "Numele original al orașului a fost Azizija, după sultanul Abdülaziz.", "Orașul este situat la o altitudine medie de 80 de metri deasupra mării.", "Podul peste Sava din Orašje este o legătură vitală cu autostrada A3 din Croația.", "Festivalul de film 'Zilele Filmului Croat' a fost inițiat de actorul Ivo Gregurević.", "Orašje este reședința Cantonului Posavina din cadrul Federației."],
+      en: ["Orašje was officially established in 1862.", "The town's original name was Azizija, named after Sultan Abdülaziz.", "The town is situated at an average elevation of 80 meters above sea level.", "The bridge over the Sava in Orašje is a key link to the A3 highway in Croatia.", "The 'Days of Croatian Film' festival was initiated by actor Ivo Gregurević.", "Orašje is the main administrative center of the Posavina Canton."],
     }, image: "/poi-images/ba-orasje.webp"},
   {
     id: "ba-savariver",
@@ -1733,48 +977,16 @@ export const bosniaPois: POI[] = [
     coords: [18.6000, 45.0500],
     parent: "BA-007",
     descriptionAdvanced: {
-      de: "Der Fluss Save ist ein rechter Nebenfluss der Donau und einer der wichtigsten Flüsse Südosteuropas. Er bildet die natürliche Nordgrenze von Bosnien und Herzegowina zu Kroatien. Der Fluss ist eine bedeutende Wasserstraße und eine reiche Quelle für die Biodiversität. Die Auenlandschaften entlang der Save sind wichtige Lebensräume für zahlreiche Vogel- und Fischarten. Städte wie Orašje und Brčko liegen an seinen Ufern. Der Fluss spielt eine entscheidende Rolle für die Landwirtschaft in der fruchtbaren Posavina-Ebene.",
-      hu: "A Száva folyó a Duna jobb oldali mellékfolyója és Délkelet-Európa egyik legfontosabb folyója. Bosznia-Hercegovina és Horvátország természetes északi határát képezi. A folyó fontos vízi út és gazdag biodiverzitás forrása. A Száva menti árterek fontos élőhelyet biztosítanak számos madár- és halfaj számára. Olyan városok, mint Orašje és Brčko, a partjain fekszenek. A folyó döntő szerepet játszik a termékeny Posavina síkság mezőgazdaságában. Hidrológia K7 – Folyók és vízgyűjtő területek.",
-      ro: "Râul Sava este un afluent de dreapta al Dunării și unul dintre cele mai importante râuri din Europa de Sud-Est. Formează granița naturală de nord a Bosniei și Herțegovinei cu Croația. Râul este o cale navigabilă importantă și o sursă bogată de biodiversitate. Luncile inundabile de-a lungul Savei sunt habitate importante pentru numeroase specii de păsări și pești. Orașe precum Orašje și Brčko sunt situate pe malurile sale. Râul joacă un rol crucial pentru agricultură în câmpia fertilă Posavina.",
-      en: "The Sava River is a right tributary of the Danube and one of the most important rivers in Southeast Europe. It forms the natural northern border of Bosnia and Herzegovina with Croatia. The river is a major waterway and a rich source of biodiversity. The floodplains along the Sava are important habitats for numerous bird and fish species. Cities like Orašje and Brčko are located on its banks. The river plays a crucial role in agriculture in the fertile Posavina plain. Hydrology K7 - Rivers and Watersheds."
+      de: "Die Save ist einer der längsten Flüsse in Südosteuropa und bildet die gesamte nördliche Grenze von Bosnien und Herzegowina zu Kroatien. Sie entsteht in Slowenien aus dem Zusammenfluss von Save-Dolinka und Save-Bohinjka und mündet in Belgrad in die Donau. Für Bosnien ist der Fluss von enormer wirtschaftlicher und ökologischer Bedeutung, da er das fruchtbare Posavina-Tal bewässert und als wichtige internationale Wasserstraße dient. Die Save-Häfen in Brčko, Šamac und Brod sind zentrale Logistikknotenpunkte für den Binnenhandel der Region. Entlang ihres Laufs finden sich ausgedehnte Auenlandschaften und Feuchtgebiete, die eine hohe Biodiversität aufweisen und wichtige Rückzugsräume für Wasservögel bieten. Historisch gesehen war die Save stets eine bedeutende Grenze zwischen verschiedenen Imperien, darunter das Osmanische Reich und die Habsburgermonarchie. Heute wird die nachhaltige Nutzung und der Schutz des Flusses durch die Internationale Save-Kommission koordiniert, um die Wasserqualität und den Hochwasserschutz zu verbessern.",
+      hu: "A Száva Délkelet-Európa egyik leghosszabb folyója, amely Bosznia-Hercegovina teljes északi határát alkotja Horvátország felé. Szlovéniában ered a Sava Dolinka és a Sava Bohinjka összefolyásából, és Belgrádnál torkollik a Dunába. Bosznia számára a folyó óriási gazdasági és ökológiai jelentőséggel bír, mivel öntözi a termékeny Posavina-völgyet, és fontos nemzetközi vízi útként szolgál. Brčko, Šamac és Brod szávai kikötői központi logisztikai csomópontok a régió belkereskedelme számára. A folyó mentén kiterjedt ártéri erdők és vizes élőhelyek találhatók, amelyek nagy biodiverzitással rendelkeznek, és fontos pihenőhelyet jelentenek a vízimadarak számára. Történelmileg a Száva mindig is jelentős határvonal volt a különböző birodalmak, köztük az Oszmán Birodalom és a Habsburg Monarchia között. Napjainkban a folyó fenntartható használatát és védelmét a Nemzetközi Száva-bizottság koordinálja a vízminőség javítása és az árvízvédelem érdekében.",
+      ro: "Râul Sava este unul dintre cele mai lungi cursuri de apă din sud-estul Europei, formând întreaga graniță de nord a Bosniei și Herțegovinei cu Croația. Izvorăște în Slovenia din confluența brațelor Sava Dolinka și Sava Bohinjka, vărsându-se în Dunăre la Belgrad. Pentru Bosnia, râul are o importanță economică și ecologică imensă, irigând valea fertilă Posavina și servind drept cale navigabilă internațională majoră. Porturile de pe Sava din Brčko, Šamac și Brod sunt noduri logistice centrale pentru comerțul intern și regional. De-a lungul cursului său se găsesc lunci întinse și zone umede care adăpostesc o biodiversitate ridicată, oferind refugii esențiale pentru păsările de apă. Din punct de vedere istoric, Sava a reprezentat întotdeauna o frontieră semnificativă între mari imperii, precum Imperiul Otoman și Monarhia Habsburgică. Astăzi, utilizarea durabilă și protecția râului sunt coordonate de Comisia Internațională a Savei, pentru a îmbunătăți calitatea apei și protecția împotriva inundațiilor.",
+      en: "The Sava River is one of the longest rivers in Southeastern Europe, forming the entire northern border of Bosnia and Herzegovina with Croatia. It originates in Slovenia at the confluence of the Sava Dolinka and Sava Bohinjka and flows into the Danube in Belgrade. For Bosnia, the river holds immense economic and ecological significance, as it irrigates the fertile Posavina Valley and serves as a vital international waterway. The Sava ports in Brčko, Šamac, and Brod are central logistics hubs for the region's inland trade. Along its course, extensive floodplains and wetlands host high biodiversity and provide essential habitats for waterfowl. Historically, the Sava has always been a significant border between various empires, including the Ottoman Empire and the Habsburg Monarchy. Today, the sustainable use and protection of the river are coordinated by the International Sava River Basin Commission to improve water quality and flood management.",
     },
     factsAdvanced: {
-      de: [
-        "Die Save ist mit 945 km Länge der längste Nebenfluss der Donau nach Einzugsgebiet.",
-        "Sie ist einer der wenigen großen Flüsse in Europa ohne Wasserkraftwerke an seinem Unterlauf.",
-        "Der Fluss bildet die Grenze zwischen Bosnien und Herzegowina und Kroatien auf einer Länge von über 330 km.",
-        "Die Save-Auen sind wichtige Rastplätze für Zugvögel.",
-        "Im Jahr 2014 verursachte ein extremes Hochwasser der Save verheerende Überschwemmungen in der Region.",
-        "Der Fluss ist auf einem Großteil seiner Länge schiffbar."
-      ],
-      hu: [
-        "A Száva 945 km-es hosszával a Duna leghosszabb mellékfolyója a vízgyűjtő területét tekintve.",
-        "Egyike azon kevés nagy európai folyóknak, amelyek alsó szakaszán nincsenek vízerőművek.",
-        "A folyó több mint 330 km hosszan képezi a határt Bosznia-Hercegovina és Horvátország között.",
-        "A Száva árterei fontos pihenőhelyek a vonuló madarak számára.",
-        "2014-ben a Száva extrém áradása pusztító árvizeket okozott a régióban.",
-        "A folyó nagy részén hajózható.",
-        "A Száva medencéje négy országon (Szlovénia, Horvátország, Bosznia-Hercegovina és Szerbia) osztozik.",
-        "A folyó mentén található a Lonjsko Polje Natúrpark Horvátországban, Európa egyik legnagyobb védett ártere."
-      ],
-      ro: [
-        "Cu o lungime de 945 km, Sava este cel mai lung afluent al Dunării ca bazin hidrografic.",
-        "Este unul dintre puținele râuri mari din Europa fără hidrocentrale pe cursul său inferior.",
-        "Râul formează granița dintre Bosnia și Herțegovina și Croația pe o lungime de peste 330 km.",
-        "Luncile inundabile ale Savei sunt locuri importante de popas pentru păsările migratoare.",
-        "În 2014, o viitură extremă a râului Sava a provocat inundații devastatoare în regiune.",
-        "Râul este navigabil pe o mare parte din lungimea sa."
-      ],
-      en: [
-        "With a length of 945 km, the Sava is the longest tributary of the Danube by catchment area.",
-        "It is one of the few large rivers in Europe without hydroelectric power plants on its lower course.",
-        "The river forms the border between Bosnia and Herzegovina and Croatia for over 330 km.",
-        "The Sava floodplains are important resting places for migratory birds.",
-        "In 2014, an extreme flood of the Sava caused devastating floods in the region.",
-        "The river is navigable for much of its length.",
-        "The Sava basin is shared by four countries (Slovenia, Croatia, Bosnia and Herzegovina, and Serbia).",
-        "Along the river is the Lonjsko Polje Nature Park in Croatia, one of the largest protected floodplains in Europe."
-      ]
+      de: ["Die Gesamtlänge der Save beträgt etwa 945 Kilometer.", "In Bosnien und Herzegowina bildet sie eine Grenzlinie von rund 300 Kilometern.", "Die Save ist der größte rechte Nebenfluss der Donau.", "Der Hafen von Brčko ist der einzige internationale Flusshafen des Landes.", "Das Einzugsgebiet der Save umfasst eine Fläche von ca. 97.713 km².", "Die Save mündet bei Belgrad auf einer Höhe von 68 Metern in die Donau."],
+      hu: ["A Száva teljes hossza körülbelül 945 kilométer.", "Bosznia-Hercegovinában mintegy 300 kilométer hosszan alkot határvonalat.", "A Száva a Duna legnagyobb vízhozamú jobb oldali mellékfolyója.", "Brčko kikötője az ország egyetlen nemzetközi folyami kikötője.", "A Száva vízgyűjtő területe körülbelül 97 713 négyzetkilométer.", "A Száva Belgrádnál, 68 méteres magasságban torkollik a Dunába."],
+      ro: ["Lungimea totală a râului Sava este de aproximativ 945 de kilometri.", "În Bosnia și Herțegovina, acesta formează o linie de frontieră de circa 300 km.", "Sava este cel mai mare afluent de dreapta al Dunării ca volum de apă.", "Portul din Brčko este singurul port fluvial internațional din țară.", "Bazinul hidrografic al Savei acoperă o suprafață de circa 97.713 km².", "Sava se varsă în Dunăre la Belgrad, la o altitudine de 68 de metri."],
+      en: ["The total length of the Sava River is approximately 945 kilometers.", "In Bosnia and Herzegovina, it forms a border line of about 300 kilometers.", "The Sava is the largest right-bank tributary of the Danube by discharge.", "The Port of Brčko is the country's only international river port.", "The Sava river basin covers an area of approximately 97,713 square kilometers.", "The Sava joins the Danube in Belgrade at an elevation of 68 meters."],
     }, image: "/poi-images/ba-savariver.webp"},
   {
     id: "ba-brcko",
@@ -1789,48 +1001,16 @@ export const bosniaPois: POI[] = [
     coords: [18.8108, 44.8783],
     parent: "BA-008",
     descriptionAdvanced: {
-      de: "Brčko ist eine Stadt mit einem einzigartigen politischen Status in Bosnien und Herzegowina. Sie ist der Sitz des selbstverwalteten Brčko-Distrikts, der ein Kondominium beider Entitäten, der Föderation Bosnien und Herzegowina und der Republika Srpska, ist. Die Stadt liegt strategisch günstig am Fluss Save und verfügt über den einzigen Binnenhafen des Landes. Dies macht sie zu einem wichtigen Handels- und Logistikzentrum. Das Stadtbild wird von Gebäuden aus der österreichisch-ungarischen Zeit geprägt, darunter das prächtige Rathaus im pseudo-maurischen Stil.",
-      hu: "Brčko egy egyedülálló politikai státuszú város Bosznia-Hercegovinában. Az önkormányzattal rendelkező Brčkói Körzet székhelye, amely mindkét entitás, a Bosznia-hercegovinai Föderáció és a Szerb Köztársaság közös tulajdona. A város stratégiailag kedvező helyen, a Száva folyó partján fekszik, és az ország egyetlen belvízi kikötőjével rendelkezik. Ez fontos kereskedelmi és logisztikai központtá teszi. A városképet osztrák-magyar korabeli épületek határozzák meg, köztük a pompás, pszeudo-mór stílusú városháza. Politika K8 – Államformák és közigazgatás.",
-      ro: "Brčko este un oraș cu un statut politic unic în Bosnia și Herțegovina. Este sediul districtului autonom Brčko, care este un condominiu al ambelor entități, Federația Bosniei și Herțegovinei și Republika Srpska. Orașul este situat strategic pe râul Sava și are singurul port intern al țării. Acest lucru îl face un important centru comercial și logistic. Peisajul urban este marcat de clădiri din perioada austro-ungară, inclusiv de primăria magnifică în stil pseudo-maur.",
-      en: "Brčko is a city with a unique political status in Bosnia and Herzegovina. It is the seat of the self-governing Brčko District, which is a condominium of both entities, the Federation of Bosnia and Herzegovina and the Republika Srpska. The city is strategically located on the Sava River and has the country's only inland port. This makes it an important commercial and logistics center. The cityscape is marked by buildings from the Austro-Hungarian period, including the magnificent pseudo-Moorish style city hall. Politics K8 - Forms of Government and Administration."
+      de: "Brčko ist eine bedeutende Hafenstadt im Nordosten von Bosnien und Herzegowina und nimmt eine völkerrechtliche Sonderstellung als neutraler Distrikt ein. Direkt am Ufer der Save gelegen, fungiert die Stadt als wichtigster Flusshafen des Landes und als zentraler Handelsknotenpunkt zwischen Bosnien, Kroatien und Serbien. Die Geschichte von Brčko ist eng mit dem Flusshandel verknüpft, was im 19. Jahrhundert unter österreichisch-ungarischer Verwaltung zu einer schnellen urbanen und industriellen Entwicklung führte. Eine Besonderheit ist der Status des Brčko-Distrikts, der nach dem Dayton-Abkommen im Jahr 1999 als Kondominium beider Entitäten geschaffen wurde und direkt dem Staat untersteht. Das Stadtbild wird durch eine Mischung aus osmanischer Architektur, repräsentativen Gebäuden der Donaumonarchie und modernen Bauten geprägt. Zu den bekanntesten Wahrzeichen zählt das Rathaus im pseudo-maurischen Stil, das den multikulturellen Charakter der Stadt symbolisiert. Wirtschaftlich profitiert Brčko von seiner Freihandelszone und seiner Lage an wichtigen europäischen Verkehrskorridoren.",
+      hu: "Brčko jelentős kikötőváros Bosznia-Hercegovina északkeleti részén, amely nemzetközi jogi szempontból különleges státuszú, semleges körzetként működik. Közvetlenül a Száva-folyó partján fekszik, és az ország legfontosabb folyami kikötőjeként, valamint Bosznia, Horvátország és Szerbia közötti kereskedelmi csomópontként szolgál. Brčko történelme szorosan összefonódik a folyami kereskedelemmel, ami a 19. században, az osztrák-magyar fennhatóság alatt gyors városfejlesztéshez és iparosodáshoz vezetett. Különlegessége a Brčko Körzet státusza, amelyet az 1999-es daytoni döntés értelmében mindkét entitás közös felügyelete alá helyeztek, és közvetlenül az államnak van alárendelve. A városkép az oszmán építészet, a Duna-menti monarchia reprezentatív épületei és a modern építmények keveréke. Legismertebb jelképe a pszeudomór stílusú városháza, amely a város multikulturális jellegét szimbolizálja. Gazdaságilag Brčko profitál szabadkereskedelmi övezetéből és a fontos európai közlekedési folyosók mentén elfoglalt helyzetéből.",
+      ro: "Brčko este un oraș portuar important din nord-estul Bosniei și Herțegovinei, având un statut juridic special de district neutru sub administrație internațională. Situat direct pe malul râului Sava, orașul funcționează ca cel mai mare port fluvial al țării și ca un nod comercial central între Bosnia, Croația și Serbia. Istoria orașului Brčko este strâns legată de comerțul fluvial, care a stimulat o dezvoltare urbană și industrială rapidă în secolul al XIX-lea, sub administrația austro-ungară. O particularitate majoră este statutul Districtului Brčko, creat în 1999 în urma acordurilor de la Dayton ca un condominiu al ambelor entități, aflat sub autoritatea directă a statului. Arhitectura orașului reflectă un amestec între stilul otoman, clădirile reprezentative ale monarhiei dunărene și construcțiile moderne. Unul dintre cele mai emblematice repere este primăria construită în stil pseudo-maur, care simbolizează caracterul multicultural al urbei. Din punct de vedere economic, Brčko beneficiază de o zonă de liber schimb și de poziția sa pe coridoarele europene de transport.",
+      en: "Brčko is a significant port city in northeastern Bosnia and Herzegovina, unique for its special legal status as a neutral district. Situated directly on the banks of the Sava River, the city serves as the country's most important river port and a central trade hub between Bosnia, Croatia, and Serbia. The history of Brčko is deeply intertwined with river trade, which led to rapid urban and industrial growth in the 19th century under Austro-Hungarian administration. A defining feature is the status of the Brčko District, established in 1999 following the Dayton Agreement as a condominium of both entities, directly under state authority. The cityscape is characterized by a blend of Ottoman architecture, representative buildings from the Danube Monarchy, and modern structures. Among its most famous landmarks is the City Hall, built in a pseudo-Moorish style, symbolizing the city's multicultural heritage. Economically, Brčko thrives due to its free trade zone and its location along key European transport corridors.",
     },
     factsAdvanced: {
-      de: [
-        "Der Brčko-Distrikt wurde 2000 nach einem internationalen Schiedsverfahren eingerichtet.",
-        "Brčko hat den einzigen Flusshafen in Bosnien und Herzegowina.",
-        "Die Stadt liegt an der Mündung des Flusses Brka in die Save.",
-        "Das Rathaus von Brčko, erbaut 1892, ist ein herausragendes Beispiel für pseudo-maurische Architektur.",
-        "Der Distrikt hat seine eigene Regierung, Polizei und Justiz.",
-        "Aufgrund seiner strategischen Lage war Brčko im Bosnienkrieg heftig umkämpft."
-      ],
-      hu: [
-        "A Brčkói Körzetet 2000-ben hozták létre egy nemzetközi választottbírósági eljárás után.",
-        "Brčkóban található Bosznia-Hercegovina egyetlen folyami kikötője.",
-        "A város a Brka folyó Szávába való torkolatánál fekszik.",
-        "A brčkói városháza, amely 1892-ben épült, a pszeudo-mór építészet kiemelkedő példája.",
-        "A körzetnek saját kormánya, rendőrsége és igazságszolgáltatása van.",
-        "Stratégiai fekvése miatt Brčko a boszniai háborúban heves harcok színtere volt.",
-        "A város a 'Brčkoi Nyár' nevű kulturális fesztiválnak ad otthont.",
-        "A körzet a multietnikus együttélés modelljeként szolgál az országban."
-      ],
-      ro: [
-        "Districtul Brčko a fost înființat în 2000 în urma unui arbitraj internațional.",
-        "Brčko are singurul port fluvial din Bosnia și Herțegovina.",
-        "Orașul este situat la confluența râului Brka cu Sava.",
-        "Primăria din Brčko, construită în 1892, este un exemplu remarcabil de arhitectură pseudo-maurică.",
-        "Districtul are propriul guvern, poliție și sistem judiciar.",
-        "Datorită poziției sale strategice, Brčko a fost intens disputat în timpul războiului din Bosnia."
-      ],
-      en: [
-        "The Brčko District was established in 2000 after an international arbitration.",
-        "Brčko has the only river port in Bosnia and Herzegovina.",
-        "The city is located at the confluence of the Brka and Sava rivers.",
-        "The Brčko City Hall, built in 1892, is an outstanding example of pseudo-Moorish architecture.",
-        "The district has its own government, police, and judiciary.",
-        "Due to its strategic location, Brčko was heavily contested during the Bosnian War.",
-        "The city hosts the 'Brčko Summer' cultural festival.",
-        "The district serves as a model for multi-ethnic coexistence in the country."
-      ]
+      de: ["Der Brčko-Distrikt wurde offiziell am 8. März 2000 proklamiert.", "Die Stadt beherbergt den einzigen Binnenhafen des Landes mit Krananlagen.", "Das pseudo-maurische Rathaus wurde im Jahr 1892 fertiggestellt.", "Brčko liegt auf einer Höhe von 92 Metern über dem Meeresspiegel.", "Die Brücke über die Save verbindet Brčko mit Gunja in Kroatien.", "Die Stadt hat eine lange Tradition im Export von Pflaumen und Getreide."],
+      hu: ["A Brčko Körzetet hivatalosan 2000. március 8-án kiáltották ki.", "A város ad otthont az ország egyetlen darukkal felszerelt folyami kikötőjének.", "A pszeudomór stílusú városháza 1892-ben készült el.", "Brčko 92 méteres tengerszint feletti magasságban fekszik.", "A Száván átívelő híd összeköti Brčkót a horvátországi Gunjával.", "A város hosszú múltra tekint vissza a szilva- és gabonakivitel terén."],
+      ro: ["Districtul Brčko a fost proclamat oficial la data de 8 martie 2000.", "Orașul găzduiește singurul port fluvial dotat cu macarale din țară.", "Primăria în stil pseudo-maur a fost finalizată în anul 1892.", "Brčko este situat la o altitudine de 92 de metri deasupra mării.", "Podul peste Sava face legătura între Brčko și localitatea Gunja din Croația.", "Orașul are o tradiție îndelungată în exportul de prune și cereale."],
+      en: ["The Brčko District was officially proclaimed on March 8, 2000.", "The city hosts the country's only inland port equipped with cranes.", "The pseudo-Moorish City Hall was completed in 1892.", "Brčko is situated at an elevation of 92 meters above sea level.", "The bridge across the Sava connects Brčko with Gunja in Croatia.", "The city has a long history of exporting plums and grains."],
     }, image: "/poi-images/ba-brcko.webp"},
   {
     id: "ba-vijecnica-brcko",
@@ -1845,49 +1025,17 @@ export const bosniaPois: POI[] = [
     coords: [18.8139, 44.8767],
     parent: "BA-008",
     descriptionAdvanced: {
-      de: "Das Rathaus von Brčko ist eines der schönsten und repräsentativsten Gebäude der österreichisch-ungarischen Architektur in Bosnien und Herzegowina. Es wurde 1892 nach den Plänen des Architekten Aleksandar Vitek erbaut und ist ein herausragendes Beispiel des pseudo-maurischen Stils, der von der islamischen Kunst Spaniens und Nordafrikas inspiriert ist. Mit seiner kunstvollen Fassade, den Bögen und Ornamenten ist es das Wahrzeichen der Stadt. Heute beherbergt das Gebäude die Stadtverwaltung und eine Kunstgalerie.",
-      hu: "A brčkói városháza az osztrák-magyar építészet egyik legszebb és legreprezentatívabb épülete Bosznia-Hercegovinában. 1892-ben épült Aleksandar Vitek építész tervei alapján, és a pszeudo-mór stílus kiemelkedő példája, amelyet Spanyolország és Észak-Afrika iszlám művészete ihletett. Művészi homlokzatával, íveivel és díszítéseivel a város jelképe. Ma az épület a városi közigazgatásnak és egy művészeti galériának ad otthont. Művészettörténet K8 – Eklektikus építészeti stílusok.",
-      ro: "Primăria din Brčko este una dintre cele mai frumoase și reprezentative clădiri ale arhitecturii austro-ungare din Bosnia și Herțegovina. A fost construită în 1892 după planurile arhitectului Aleksandar Vitek și este un exemplu remarcabil al stilului pseudo-maur, inspirat de arta islamică din Spania și Africa de Nord. Cu fațada sa elaborată, arcadele și ornamentele, este simbolul orașului. Astăzi, clădirea găzduiește administrația orașului și o galerie de artă.",
-      en: "The Brčko City Hall is one of the most beautiful and representative buildings of Austro-Hungarian architecture in Bosnia and Herzegovina. It was built in 1892 according to the plans of the architect Aleksandar Vitek and is an outstanding example of the pseudo-Moorish style, inspired by the Islamic art of Spain and North Africa. With its ornate facade, arches, and ornaments, it is the landmark of the city. Today, the building houses the city administration and an art gallery. Art History K8 - Eclectic Architectural Styles."
+      de: "Das Rathaus von Brčko, auch Vijećnica genannt, ist eines der prächtigsten Bauwerke der Stadt und ein herausragendes Beispiel für die pseudo-maurische Architektur in Bosnien und Herzegowina. Es wurde in den Jahren 1890 bis 1892 nach den Entwürfen der Architekten Alexander Wittek und Ćiril Iveković errichtet, die auch für das berühmte Rathaus in Sarajevo verantwortlich zeichneten. Das Gebäude zeichnet sich durch seine reich verzierte Fassade, Hufeisenbögen und die Verwendung von farbigen Keramikelementen aus, die typisch für den orientalistischen Stil der österreichisch-ungarischen Zeit waren. Ursprünglich als Sitz der Stadtverwaltung und Sparkasse konzipiert, diente es über die Jahrzehnte verschiedenen administrativen Zwecken und beherbergt heute die Regierung des Brčko-Distrikts. Die Innenarchitektur ist ebenso beeindruckend, mit einer zentralen Halle, prächtigen Treppenaufgängen und kunstvollen Glasmalereien. Nach umfangreichen Restaurierungsarbeiten erstrahlt das Gebäude heute wieder in seinem ursprünglichen Glanz und gilt als das kulturelle und administrative Wahrzeichen der Region. Es steht als nationales Denkmal unter besonderem Schutz und repräsentiert die Verbindung orientalischer und europäischer Einflüsse.",
+      hu: "A brčkói városháza, más néven Vijećnica, a város egyik legpompásabb épülete, és a pszeudomór építészet kiemelkedő példája Bosznia-Hercegovinában. 1890 és 1892 között épült Alexander Wittek és Ćiril Iveković építészek tervei alapján, akik a híres szarajevói városháza tervezésében is részt vettek. Az épületet gazdagon díszített homlokzat, patkó alakú ívek és színes kerámiaelemek jellemzik, amelyek az osztrák-magyar korszak orientalista stílusának tipikus jegyei. Eredetileg a városvezetés és a takarékpénztár székhelyének szánták, az évtizedek során különböző adminisztratív célokat szolgált, ma pedig a Brčko Körzet kormányának ad otthont. A belső tér kialakítása szintén lenyűgöző: központi csarnok, díszes lépcsőházak és művészi üvegfestmények díszítik. Az átfogó restaurálási munkálatok után az épület ma ismét eredeti fényében tündököl, és a régió kulturális és közigazgatási jelképeként tartják számon. Nemzeti műemlékként különleges védelmet élvez, és az orientális, valamint az európai hatások összefonódását jelképezi.",
+      ro: "Primăria din Brčko, cunoscută și sub numele de Vijećnica, este una dintre cele mai spectaculoase clădiri din oraș și un exemplu remarcabil de arhitectură pseudo-maură din Bosnia și Herțegovina. A fost construită între anii 1890 și 1892, după planurile arhitecților Alexander Wittek și Ćiril Iveković, aceiași care au proiectat faimoasa Vijećnica din Sarajevo. Clădirea se remarcă prin fațada sa bogat decorată, arcurile în formă de potcoavă și utilizarea elementelor ceramice colorate, specifice stilului orientalist din perioada austro-ungară. Concepută inițial ca sediu al administrației orașului și al unei bănci de economii, a servit de-a lungul deceniilor diverselor scopuri administrative, găzduind astăzi Guvernul Districtului Brčko. Arhitectura interioară este la fel de impresionantă, cu o hală centrală vastă, scări monumentale și vitralii artistice. După ample lucrări de restaurare, clădirea strălucește astăzi din nou în splendoarea sa originală, fiind considerată simbolul cultural și administrativ al regiunii. Este protejată ca monument național și reprezintă fuziunea dintre influențele orientale și cele europene.",
+      en: "The Brčko City Hall, also known as Vijećnica, is one of the most magnificent buildings in the city and an outstanding example of pseudo-Moorish architecture in Bosnia and Herzegovina. It was constructed between 1890 and 1892 based on designs by architects Alexander Wittek and Ćiril Iveković, who were also responsible for the famous City Hall in Sarajevo. The building is distinguished by its richly decorated facade, horseshoe arches, and the use of colored ceramic elements, typical of the Orientalist style prevalent during the Austro-Hungarian period. Originally conceived as the seat of the municipal administration and a savings bank, it has served various administrative purposes over the decades and currently houses the Government of the Brčko District. The interior architecture is equally impressive, featuring a central hall, grand staircases, and artistic stained-glass windows. Following extensive restoration work, the building now stands in its original splendor and is considered the cultural and administrative landmark of the region. It is protected as a national monument, representing the blending of Oriental and European influences.",
     },
     factsAdvanced: {
-      de: [
-        "Das Gebäude wurde 1892 fertiggestellt.",
-        "Es wurde vom kroatischen Architekten Aleksandar Vitek entworfen, der auch an der Vijećnica in Sarajevo mitarbeitete.",
-        "Der pseudo-maurische Stil war in der österreichisch-ungarischen Zeit in Bosnien sehr beliebt.",
-        "Das Gebäude wurde während des Krieges beschädigt, aber danach sorgfältig restauriert.",
-        "Es steht im Zentrum der Stadt und ist ein nationales Denkmal.",
-        "Die Fassade ist mit Elementen aus Gips, Keramik und Schmiedeeisen verziert."
-      ],
-      hu: [
-        "Az épület 1892-ben készült el.",
-        "A horvát építész, Aleksandar Vitek tervezte, aki a szarajevói Vijećnicán is dolgozott.",
-        "A pszeudo-mór stílus nagyon népszerű volt Boszniában az osztrák-magyar időkben.",
-        "Az épületet a háború alatt megrongálták, de utána gondosan restaurálták.",
-        "A város központjában áll és nemzeti emlékmű.",
-        "A homlokzatot gipsz-, kerámia- és kovácsoltvas elemek díszítik.",
-        "Az épület belső tere is gazdagon díszített.",
-        "A városháza a város kulturális és társadalmi életének központja."
-      ],
-      ro: [
-        "Clădirea a fost finalizată în 1892.",
-        "A fost proiectată de arhitectul croat Aleksandar Vitek, care a lucrat și la Vijećnica din Sarajevo.",
-        "Stilul pseudo-maur a fost foarte popular în Bosnia în perioada austro-ungară.",
-        "Clădirea a fost avariată în timpul războiului, dar ulterior restaurată cu grijă.",
-        "Se află în centrul orașului și este un monument național.",
-        "Fațada este decorată cu elemente din ipsos, ceramică și fier forjat."
-      ],
-      en: [
-        "The building was completed in 1892.",
-        "It was designed by the Croatian architect Aleksandar Vitek, who also worked on the Vijećnica in Sarajevo.",
-        "The pseudo-Moorish style was very popular in Bosnia during the Austro-Hungarian period.",
-        "The building was damaged during the war but was carefully restored afterwards.",
-        "It is located in the city center and is a national monument.",
-        "The facade is decorated with elements of plaster, ceramics, and wrought iron.",
-        "The interior of the building is also richly decorated.",
-        "The city hall is the center of the city's cultural and social life."
-      ]
-    }
+      de: ["Die Bauzeit des Rathauses betrug nur zwei Jahre, von 1890 bis 1892.", "Der Architekt Alexander Wittek entwarf auch das Rathaus in Sarajevo.", "Das Gebäude wurde im pseudo-maurischen (orientalistischen) Stil errichtet.", "Im Jahr 2004 wurde die Vijećnica zum nationalen Denkmal erklärt.", "Die Fassade zeigt typische horizontale rot-gelbe Farbschichten.", "Heute befindet sich hier der Sitz des Bürgermeisters des Brčko-Distrikts."],
+      hu: ["A városháza építése mindössze két évig, 1890-től 1892-ig tartott.", "Alexander Wittek építész tervezte a szarajevói városházát is.", "Az épület pszeudomór (orientalista) stílusban épült.", "2004-ben a Vijećnicát nemzeti műemlékké nyilvánították.", "A homlokzaton a jellegzetes vízszintes piros-sárga csíkozás látható.", "Ma itt található a Brčko Körzet polgármesterének hivatala."],
+      ro: ["Durata construcției primăriei a fost de doar doi ani, între 1890 și 1892.", "Arhitectul Alexander Wittek a proiectat și primăria din Sarajevo.", "Clădirea a fost ridicată în stilul pseudo-maur (orientalist).", "În anul 2004, Vijećnica a fost declarată monument național.", "Fațada prezintă straturi orizontale tipice de culori roșu și galben.", "Astăzi, aici se află sediul primarului Districtului Brčko."],
+      en: ["The construction of the City Hall took only two years, from 1890 to 1892.", "Architect Alexander Wittek also designed the City Hall in Sarajevo.", "The building was constructed in the pseudo-Moorish (Orientalist) style.", "In 2004, the Vijećnica was designated as a national monument.", "The facade features characteristic horizontal red and yellow color bands.", "Today, it serves as the seat of the Mayor of the Brčko District."],
+    },
   },
   {
     id: "ba-bijeljina",
@@ -1902,48 +1050,16 @@ export const bosniaPois: POI[] = [
     coords: [19.2139, 44.7589],
     parent: "BA-009",
     descriptionAdvanced: {
-      de: "Bijeljina ist das Zentrum der fruchtbaren Semberija-Ebene, die oft als die 'Kornkammer' Bosniens bezeichnet wird. Die Stadt ist ein wichtiges landwirtschaftliches und zunehmend auch wirtschaftliches Zentrum im Osten der Republika Srpska. In der Nähe der Stadt befindet sich das Ethno-Dorf Stanišići, ein beliebter Touristenkomplex, der das traditionelle Leben der Region nachbildet. Das Stadtzentrum von Bijeljina wird von einem modernen Platz und dem Rathaus dominiert, aber auch ältere Gebäude wie die Atik-Moschee und das serbisch-orthodoxe Kloster Tavna in der Umgebung zeugen von der Geschichte der Region.",
-      hu: "Bijeljina a termékeny Semberija-síkság központja, amelyet gyakran Bosznia 'éléskamrájának' neveznek. A város fontos mezőgazdasági és egyre inkább gazdasági központ a Szerb Köztársaság keleti részén. A város közelében található a Stanišići etnofalu, egy népszerű turisztikai komplexum, amely a régió hagyományos életét mutatja be. Bijeljina városközpontját egy modern tér és a városháza uralja, de régebbi épületek, mint az Atik-mecset és a közeli szerb ortodox Tavna kolostor is tanúskodnak a régió történelméről. Földrajz K6 – Mezőgazdasági tájak.",
-      ro: "Bijeljina este centrul câmpiei fertile Semberija, adesea numită 'grânarul' Bosniei. Orașul este un important centru agricol și, din ce în ce mai mult, economic în estul Republicii Srpska. În apropierea orașului se află Satul Etno Stanišići, un complex turistic popular care recreează viața tradițională a regiunii. Centrul orașului Bijeljina este dominat de o piață modernă și de primărie, dar și clădiri mai vechi, cum ar fi Moscheea Atik și mănăstirea ortodoxă sârbă Tavna din apropiere, mărturisesc istoria regiunii.",
-      en: "Bijeljina is the center of the fertile Semberija plain, often called the 'granary' of Bosnia. The city is an important agricultural and increasingly economic center in the east of Republika Srpska. Near the city is the Stanišići Ethno Village, a popular tourist complex that recreates the traditional life of the region. Bijeljina's city center is dominated by a modern square and the city hall, but older buildings such as the Atik Mosque and the nearby Serbian Orthodox Tavna Monastery also testify to the region's history. Geography K6 - Agricultural Landscapes."
+      de: "Bijeljina ist eine dynamisch wachsende Stadt im Nordosten von Bosnien und Herzegowina und dient als Zentrum der fruchtbaren Semberija-Ebene. Gelegen zwischen den Flüssen Drina und Save, hat sich die Stadt zu einem wichtigen landwirtschaftlichen und handelspolitischen Standort entwickelt. Die erste schriftliche Erwähnung von Bijeljina stammt aus dem Jahr 1446, wobei die Stadt vor allem während der osmanischen und später der österreichisch-ungarischen Zeit an Bedeutung gewann. In den letzten Jahrzehnten erlebte die Stadt ein starkes Bevölkerungswachstum und eine moderne urbane Transformation, was sie zur zweitgrößten Stadt in der Republika Srpska machte. Zu den kulturellen Sehenswürdigkeiten zählen das Kloster Tavna in der Umgebung und das städtische Museum im historischen Rathaus. Ein moderner Anziehungspunkt ist das Ethno-Dorf Stanišići am Stadtrand, das die traditionelle Architektur der Region zeigt. Bijeljina ist zudem für sein Thermalbad Dvorovi bekannt, das über heilkräftiges Wasser verfügt. Die Stadt ist ein wichtiger Verkehrsknotenpunkt für Reisende in Richtung Serbien.",
+      hu: "Bijeljina dinamikusan fejlődő város Bosznia-Hercegovina északkeleti részén, a termékeny Semberija-síkság központja. A Drina és a Száva folyók között elhelyezkedő település fontos mezőgazdasági és kereskedelmi központtá vált a régióban. Bijeljina első írásos említése 1446-ból származik, jelentősége pedig különösen az oszmán, majd később az osztrák-magyar fennhatóság idején nőtt meg. Az utóbbi évtizedekben a város jelentős népességnövekedésen és modern városi átalakuláson ment keresztül, így a Boszniai Szerb Köztársaság második legnagyobb városává vált. A kulturális látnivalók közé tartozik a környéken található Tavna-kolostor, valamint a történelmi városházában működő városi múzeum. Modern turisztikai célpont a város szélén található Stanišići etnofalu, amely a régió hagyományos építészetét mutatja be. Bijeljina a gyógyvizéről híres Dvorovi termálfürdőjéről is ismert. A város fontos közlekedési csomópont a Szerbia felé tartók számára.",
+      ro: "Bijeljina este un oraș cu o creștere dinamică situat în nord-estul Bosniei și Herțegovinei, fiind centrul fertil al câmpiei Semberija. Poziționat între râurile Drina și Sava, orașul s-a dezvoltat ca un hub agricol și comercial major în regiune. Prima mențiune scrisă despre Bijeljina datează din anul 1446, importanța localității crescând semnificativ în perioada otomană și ulterior sub administrația austro-ungară. În ultimele decenii, orașul a cunoscut o expansiune demografică rapidă și o transformare urbană modernă, devenind al doilea oraș ca mărime din Republica Srpska. Printre atracțiile culturale se numără mănăstirea Tavna din apropiere și muzeul orășenesc situat în vechea primărie istorică. Un punct modern de atracție este satul etno Stanišići de la periferie, care expune arhitectura tradițională a regiunii. Bijeljina este, de asemenea, cunoscută pentru stațiunea balneară Dvorovi, care deține ape termale cu proprietăți curative. Orașul reprezintă un nod de transport esențial pentru tranzitul către Serbia.",
+      en: "Bijeljina is a dynamically growing city in northeastern Bosnia and Herzegovina, serving as the hub of the fertile Semberija plain. Situated between the Drina and Sava rivers, the city has evolved into a major agricultural and commercial center in the region. The first written mention of Bijeljina dates back to 1446, with the town gaining importance during the Ottoman period and later under Austro-Hungarian administration. In recent decades, the city has experienced significant population growth and modern urban transformation, making it the second-largest city in the Republika Srpska. Cultural highlights include the nearby Tavna Monastery and the municipal museum located in the historic town hall. A modern attraction on the outskirts is the Stanišići Ethno Village, which showcases the region's traditional architecture. Bijeljina is also known for the Dvorovi thermal spa, featuring healing mineral waters. The city is a vital transportation node for travelers heading towards Serbia.",
     },
     factsAdvanced: {
-      de: [
-        "Bijeljina liegt in der Semberija-Ebene, einer der fruchtbarsten Regionen des Landes.",
-        "Die Stadt ist ein wichtiger Produzent von Gemüse, insbesondere von Kohl, der für die Herstellung von Sauerkraut berühmt ist.",
-        "Das Ethno-Dorf Stanišići ist eine der meistbesuchten Touristenattraktionen in Bosnien und Herzegowina.",
-        "Das Kloster Tavna in der Nähe ist eines der ältesten Klöster der Region und stammt aus dem 14. Jahrhundert.",
-        "Die Atik-Moschee wurde im 16. Jahrhundert erbaut und ist die älteste Moschee der Stadt.",
-        "Bijeljina hat in den letzten Jahrzehnten ein starkes Bevölkerungswachstum erlebt."
-      ],
-      hu: [
-        "Bijeljina a Semberija-síkságon fekszik, az ország egyik legtermékenyebb régiójában.",
-        "A város fontos zöldségtermelő, különösen a savanyú káposzta készítéséről híres káposztáról.",
-        "A Stanišići etnofalu Bosznia-Hercegovina egyik leglátogatottabb turisztikai látványossága.",
-        "A közeli Tavna kolostor a régió egyik legrégebbi kolostora, a 14. századból származik.",
-        "Az Atik-mecset a 16. században épült és a város legrégebbi mecsete.",
-        "Bijeljina az elmúlt évtizedekben erőteljes népességnövekedést élt át.",
-        "A város ad otthont a Semberija Múzeumnak, amely a régió régészeti és néprajzi örökségét mutatja be.",
-        "A városban született Filip Višnjić, a híres szerb népdalénekes."
-      ],
-      ro: [
-        "Bijeljina este situată în câmpia Semberija, una dintre cele mai fertile regiuni ale țării.",
-        "Orașul este un important producător de legume, în special de varză, renumită pentru producția de varză murată.",
-        "Satul Etno Stanišići este una dintre cele mai vizitate atracții turistice din Bosnia și Herțegovina.",
-        "Mănăstirea Tavna din apropiere este una dintre cele mai vechi mănăstiri din regiune, datând din secolul al XIV-lea.",
-        "Moscheea Atik a fost construită în secolul al XVI-lea și este cea mai veche moschee din oraș.",
-        "Bijeljina a cunoscut o creștere demografică puternică în ultimele decenii."
-      ],
-      en: [
-        "Bijeljina is located in the Semberija plain, one of the most fertile regions in the country.",
-        "The city is a major producer of vegetables, especially cabbage, which is famous for making sauerkraut.",
-        "The Stanišići Ethno Village is one of the most visited tourist attractions in Bosnia and Herzegovina.",
-        "The nearby Tavna Monastery is one of the oldest monasteries in the region, dating from the 14th century.",
-        "The Atik Mosque was built in the 16th century and is the oldest mosque in the city.",
-        "Bijeljina has experienced strong population growth in recent decades.",
-        "The city is home to the Semberija Museum, which displays the archaeological and ethnographic heritage of the region.",
-        "Filip Višnjić, the famous Serbian gusle player, was born in the city."
-      ]
+      de: ["Die Stadt wurde erstmals im Jahr 1446 urkundlich erwähnt.", "Bijeljina liegt im Zentrum der Semberija, dem größten Flachland des Landes.", "Das städtische Museum wurde im Jahr 1970 gegründet.", "Die Stadt liegt etwa 6 Kilometer von der Grenze zu Serbien entfernt.", "Das Bad Dvorovi nutzt Thermalwasser mit einer Temperatur von 75 °C.", "Bijeljina ist der Sitz der Diözese Zvornik-Tuzla der serbisch-orthodoxen Kirche."],
+      hu: ["A várost először 1446-ban említik írásos források.", "Bijeljina a Semberija központjában, az ország legnagyobb síkságán fekszik.", "A városi múzeumot 1970-ben alapították.", "A város mindössze 6 kilométerre fekszik a szerb határtól.", "Dvorovi fürdője 75 °C-os termálvizet használ a kezelésekhez.", "Bijeljina a Szerb Ortodox Egyház Zvornik-Tuzla-i egyházmegyéjének székhelye."],
+      ro: ["Orașul a fost menționat documentar pentru prima dată în anul 1446.", "Bijeljina se află în centrul Semberija, cea mai mare câmpie din țară.", "Muzeul municipal din Bijeljina a fost fondat în anul 1970.", "Orașul este situat la aproximativ 6 kilometri de granița cu Serbia.", "Stațiunea Dvorovi utilizează apă termală cu o temperatură de 75 °C.", "Bijeljina este sediul Eparhiei de Zvornik și Tuzla a Bisericii Ortodoxe Sârbe."],
+      en: ["The city was first mentioned in historical records in 1446.", "Bijeljina is located in the center of Semberija, the country's largest plain.", "The municipal museum was established in 1970.", "The city is located approximately 6 kilometers from the border with Serbia.", "The Dvorovi spa uses thermal water with a temperature of 75°C.", "Bijeljina is the seat of the Eparchy of Zvornik and Tuzla of the Serbian Orthodox Church."],
     }, image: "/poi-images/ba-bijeljina.webp"},
   {
     id: "ba-stanisici",
@@ -1958,48 +1074,16 @@ export const bosniaPois: POI[] = [
     coords: [19.2667, 44.7833],
     parent: "BA-009",
     descriptionAdvanced: {
-      de: "Das Ethno-Dorf Stanišići, in der Nähe von Bijeljina gelegen, ist ein faszinierender Komplex, der Besucher auf eine Reise in die Vergangenheit mitnimmt. Das Dorf wurde von Boris Stanišić aus Leidenschaft für die traditionelle Lebensweise der Region erbaut. Es besteht aus zwei Teilen: einem weltlichen Teil mit Holzhäusern, Mühlen und Werkstätten, die aus verschiedenen Teilen Bosniens hierher gebracht wurden, und einem spirituellen Teil mit einer Nachbildung des Klosters des Heiligen Nikolaus. Der Komplex umfasst auch Seen, ein Hotel und Restaurants und ist eine der beliebtesten Touristenattraktionen des Landes.",
-      hu: "A Stanišići etnofalu, amely Bijeljina közelében található, egy lenyűgöző komplexum, amely visszarepíti a látogatókat a múltba. A falut Boris Stanišić építtette a régió hagyományos életmódja iránti szenvedélyéből. Két részből áll: egy világi részből faházakkal, malmokkal és műhelyekkel, amelyeket Bosznia különböző részeiről hoztak ide, és egy spirituális részből, a Szent Miklós kolostor másolatával. A komplexum tavakat, szállodát és éttermeket is magában foglal, és az ország egyik legnépszerűbb turisztikai látványossága. Néprajz K5 – Népi építészet.",
-      ro: "Satul Etno Stanišići, situat lângă Bijeljina, este un complex fascinant care îi poartă pe vizitatori într-o călătorie înapoi în timp. Satul a fost construit de Boris Stanišić din pasiune pentru modul de viață tradițional al regiunii. Este format din două părți: o parte laică, cu case din lemn, mori și ateliere aduse din diferite părți ale Bosniei, și o parte spirituală, cu o replică a Mănăstirii Sf. Nicolae. Complexul include, de asemenea, lacuri, un hotel și restaurante și este una dintre cele mai populare atracții turistice ale țării.",
-      en: "The Stanišići Ethno Village, located near Bijeljina, is a fascinating complex that takes visitors on a journey into the past. The village was built by Boris Stanišić out of a passion for the traditional way of life in the region. It consists of two parts: a secular part with wooden houses, mills, and workshops brought from different parts of Bosnia, and a spiritual part with a replica of the Monastery of St. Nicholas. The complex also includes lakes, a hotel, and restaurants, and is one of the country's most popular tourist attractions. Ethnography K5 - Folk Architecture."
+      de: "Das Ethno-Dorf Stanišići ist ein einzigartiger touristischer Komplex am Rande der Stadt Bijeljina, der im Jahr 2003 gegründet wurde. Die Anlage wurde geschaffen, um die traditionelle Architektur und Lebensweise der Menschen in Zentralbosnien und den Bergen der Region zu bewahren und erlebbar zu machen. Der Komplex besteht aus zwei Teilen: Einem weltlichen Teil mit originalgetreu rekonstruierten Holzhäusern, Wassermühlen und einer Schmiede sowie einem geistlichen Teil mit einer Steinkirche, die dem Heiligen Nikolaus gewidmet ist. Viele der Gebäude wurden an ihren ursprünglichen Standorten abgebaut und in Stanišići wieder aufgebaut, um die Authentizität zu gewährleisten. Die künstlich angelegten Seen und Kanäle sind durch Steinbrücken verbunden, die den Brücken in Visegrad und Mostar nachempfunden sind. Neben dem musealen Charakter bietet das Dorf moderne Hotels, Restaurants mit lokaler Küche und Kongresszentren. Es ist ein bedeutendes Beispiel für die Revitalisierung von Kulturerbe durch privaten Tourismus und zieht jährlich zehntausende Besucher aus dem In- und Ausland an.",
+      hu: "A Stanišići etnofalu egy különleges turisztikai komplexum Bijeljina város szélén, amelyet 2003-ban alapítottak. A létesítményt azzal a céllal hozták létre, hogy megőrizze és bemutassa Közép-Bosznia és a hegyvidéki területek hagyományos építészetét és életmódját. A komplexum két részből áll: egy világi részből, ahol eredeti módon rekonstruált faházak, vízimalmok és egy kovácsműhely található, valamint egy szakrális részből, egy Szent Miklósnak szentelt kőtemplommal. Számos épületet eredeti helyén bontottak szét, majd Stanišići-ben építettek újjá a hitelesség érdekében. A mesterséges tavakat és csatornákat kőhidak kötik össze, amelyeket a visegrádi és a mostari hidak mintájára alakítottak ki. A múzeumi jelleg mellett a falu modern szállodákkal, helyi konyhát kínáló éttermekkel és kongresszusi központokkal is rendelkezik. A kulturális örökség magánturizmus révén történő revitalizációjának jelentős példája, amely évente több tízezer látogatót vonz.",
+      ro: "Satul etno Stanišići este un complex turistic unic situat la marginea orașului Bijeljina, fondat în anul 2003. Facilitatea a fost creată pentru a conserva și a oferi o experiență directă asupra arhitecturii tradiționale și modului de viață al oamenilor din Bosnia centrală și din zonele montane. Complexul este împărțit în două secțiuni: una laică, cu case din lemn reconstruite fidel, mori de apă și o fierărie, și una spirituală, care include o biserică din piatră dedicată Sfântului Nicolae. Multe dintre clădiri au fost dezasamblate de la locațiile lor originale și reconstruite în Stanišići pentru a garanta autenticitatea ansamblului. Lacurile și canalele artificiale sunt legate prin poduri de piatră care imită celebrele poduri din Višegrad și Mostar. Pe lângă caracterul său de muzeu în aer liber, satul oferă hoteluri moderne, restaurante cu specific local și centre de conferințe. Reprezintă un exemplu major de revitalizare a patrimoniului cultural prin turism privat, atrăgând anual zeci de mii de vizitatori din țară și din străinătate.",
+      en: "Stanišići Ethno Village is a unique tourist complex on the outskirts of Bijeljina, established in 2003. The site was created to preserve and showcase the traditional architecture and lifestyle of the people from central Bosnia and the surrounding mountainous regions. The complex is divided into two parts: a secular section featuring faithfully reconstructed wooden houses, watermills, and a blacksmith shop, and a spiritual section with a stone church dedicated to Saint Nicholas. Many of the buildings were dismantled from their original locations and rebuilt in Stanišići to ensure authenticity. Artificial lakes and canals are connected by stone bridges modeled after the famous bridges in Višegrad and Mostar. Beyond its museum-like character, the village offers modern hotels, restaurants serving local cuisine, and conference centers. It is a prime example of cultural heritage revitalization through private tourism, attracting tens of thousands of visitors annually from across the region.",
     },
     factsAdvanced: {
-      de: [
-        "Das Dorf wurde im Jahr 2003 eröffnet.",
-        "Alle Gebäude im Dorf sind authentisch und wurden von ihren ursprünglichen Standorten hierher transportiert.",
-        "Der Komplex erstreckt sich über eine Fläche von etwa 15 Hektar.",
-        "Im Dorf gibt es mehrere Wassermühlen und eine Windmühle.",
-        "Die Klosterkirche des Heiligen Nikolaus ist eine exakte Kopie eines mittelalterlichen serbischen Klosters.",
-        "Der Komplex beherbergt auch ein kleines Museum mit traditionellen Werkzeugen und Artefakten."
-      ],
-      hu: [
-        "A falut 2003-ban nyitották meg.",
-        "A faluban található összes épület eredeti, és eredeti helyükről szállították ide őket.",
-        "A komplexum körülbelül 15 hektáros területen fekszik.",
-        "A faluban több vízimalom és egy szélmalom is található.",
-        "A Szent Miklós kolostortemplom egy középkori szerb kolostor pontos másolata.",
-        "A komplexum egy kis múzeumnak is otthont ad, ahol hagyományos szerszámokat és tárgyakat mutatnak be.",
-        "A tavakon hattyúk és vadkacsák úszkálnak.",
-        "A falu a hagyományos bosnyák konyha remekeit kínálja."
-      ],
-      ro: [
-        "Satul a fost deschis în 2003.",
-        "Toate clădirile din sat sunt autentice și au fost transportate aici de la locațiile lor originale.",
-        "Complexul se întinde pe o suprafață de aproximativ 15 hectare.",
-        "În sat există mai multe mori de apă și o moară de vânt.",
-        "Biserica mănăstirii Sf. Nicolae este o copie exactă a unei mănăstiri medievale sârbești.",
-        "Complexul găzduiește și un mic muzeu cu unelte și artefacte tradiționale."
-      ],
-      en: [
-        "The village was opened in 2003.",
-        "All buildings in the village are authentic and were transported here from their original locations.",
-        "The complex covers an area of about 15 hectares.",
-        "There are several watermills and a windmill in the village.",
-        "The monastery church of St. Nicholas is an exact replica of a medieval Serbian monastery.",
-        "The complex also houses a small museum with traditional tools and artifacts.",
-        "Swans and wild ducks swim on the lakes.",
-        "The village offers masterpieces of traditional Bosnian cuisine."
-      ]
+      de: ["Die Anlage wurde im Jahr 2003 durch die Familie Stanišić gegründet.", "Der religiöse Teil umfasst eine Nachbildung des Klosters Kumanica.", "Das Dorf verfügt über drei funktionsfähige Wassermühlen aus dem 19. Jahrhundert.", "Die Steinbrücken sind originalgetreue Kopien historischer Brücken in Bosnien.", "Es gibt ein eigenes Museum, das die Geschichte der ländlichen Bevölkerung zeigt.", "Die Anlage umfasst zwei künstliche Seen und mehrere Bachläufe."],
+      hu: ["A komplexumot 2003-ban alapította a Stanišić család.", "A szakrális rész tartalmazza a Kumanica-kolostor másolatát.", "A faluban három működőképes, 19. századi vízimalom található.", "A kőhidak híres boszniai történelmi hidak hű másolatai.", "A faluban saját múzeum mutatja be a vidéki lakosság életét.", "A területen két mesterséges tó és több patak is található."],
+      ro: ["Complexul a fost fondat în anul 2003 de către familia Stanišić.", "Secțiunea religioasă include o replică a mănăstirii Kumanica.", "Satul dispune de trei mori de apă funcționale din secolul al XIX-lea.", "Podurile de piatră sunt copii fidele ale podurilor istorice din Bosnia.", "Există un muzeu propriu care prezintă istoria populației rurale.", "Ansamblul cuprinde două lacuri artificiale și mai multe cursuri de apă."],
+      en: ["The complex was established in 2003 by the Stanišić family.", "The spiritual section includes a replica of the Kumanica Monastery.", "The village features three functional watermills from the 19th century.", "The stone bridges are faithful copies of historical bridges in Bosnia.", "It has its own museum showcasing the history of the rural population.", "The site includes two artificial lakes and several stream courses."],
     }, image: "/poi-images/ba-stanisici.webp"},
   {
     id: "ba-livno",
@@ -2014,48 +1098,16 @@ export const bosniaPois: POI[] = [
     coords: [17.0078, 43.8269],
     parent: "BA-010",
     descriptionAdvanced: {
-      de: "Livno ist eine historische Stadt, die in der weitläufigen Karstebene Livanjsko Polje liegt. Die Stadt ist berühmt für ihren Käse, den 'Livanjski sir', der seit über 100 Jahren nach einem ähnlichen Rezept wie Gruyère hergestellt wird. Eine weitere Attraktion der Region sind die Herden von Wildpferden, die frei auf dem Cincar-Plateau umherstreifen. Die Altstadt von Livno hat einen orientalischen Charakter mit der Dukatareva-Moschee und einem Uhrturm. In der Nähe befindet sich der riesige Buško-See, ein Paradies für Angler und Wassersportler.",
-      hu: "Livno egy történelmi város, amely a tágas Livanjsko Polje karsztmezőn fekszik. A város híres sajtjáról, a 'Livanjski sir'-ről, amelyet több mint 100 éve a Gruyère-hez hasonló recept alapján készítenek. A régió másik vonzereje a vadlovak csordái, amelyek szabadon legelésznek a Cincar-fennsíkon. Livno óvárosa keleti karakterű, a Dukatareva-mecsettel és egy óratoronnyal. A közelben található a hatalmas Buško-tó, a horgászok és a vízi sportok kedvelőinek paradicsoma. Állattan K6 – Vadon élő állatok.",
-      ro: "Livno este un oraș istoric situat în vasta câmpie carstică Livanjsko Polje. Orașul este renumit pentru brânza sa, 'Livanjski sir', care este produsă de peste 100 de ani după o rețetă similară cu cea a brânzei Gruyère. O altă atracție a regiunii sunt turmele de cai sălbatici care cutreieră liber pe platoul Cincar. Centrul vechi al orașului Livno are un caracter oriental, cu Moscheea Dukatareva și un turn cu ceas. În apropiere se află imensul lac Buško, un paradis pentru pescari și pasionații de sporturi nautice.",
-      en: "Livno is a historic town located in the vast Livanjsko Polje karst field. The town is famous for its cheese, 'Livanjski sir,' which has been produced for over 100 years using a recipe similar to Gruyère. Another attraction of the region are the herds of wild horses that roam freely on the Cincar plateau. The old town of Livno has an oriental character with the Dukatareva Mosque and a clock tower. Nearby is the huge Buško Lake, a paradise for anglers and water sports enthusiasts. Zoology K6 - Wild Animals."
+      de: "Livno ist eine historische Stadt im Westen von Bosnien und Herzegowina und liegt am Rande des Livanjsko Polje, dem größten Karstfeld der Welt. Die erste schriftliche Erwähnung der Stadt datiert auf das Jahr 892 in einer Charta des kroatischen Herzogs Mutimir. Livno hat eine reiche Geschichte, die von illyrischen Stämmen über die Römerzeit bis hin zur osmanischen und österreichisch-ungarischen Verwaltung reicht. Ein Wahrzeichen der Stadt ist der Uhrturm (Sahat-kula) aus dem 16. Jahrhundert und die Dumuman-Quelle des Flusses Bistrica, die direkt aus einem Höhlensystem am Fuße des Berges Bašajkovac entspringt. Eine einzigartige Naturattraktion der Region sind die über 800 Wildpferde, die seit Jahrzehnten auf dem Hochplateau Krug oberhalb der Stadt frei leben. Livno ist zudem weltweit bekannt für seinen traditionellen Livno-Käse, dessen Produktion bis in das 19. Jahrhundert zurückreicht. Die Stadt dient als administratives Zentrum des Kantons 10 und verbindet alpine Berglandschaften mit mediterranen Einflüssen.",
+      hu: "Livno történelmi város Bosznia-Hercegovina nyugati részén, a Livanjsko polje, a világ legnagyobb karsztmezőjének szélén fekszik. A város első írásos említése 892-ből származik, Mutimir horvát fejedelem egyik oklevelében. Livno gazdag múltra tekint vissza, amely az illír törzsektől a római koron át az oszmán és az osztrák-magyar fennhatóságig terjed. A város jelképei közé tartozik a 16. századi óratorony (Sahat-kula) és a Bistrica-folyó Duman-forrása, amely közvetlenül a Bašajkovac-hegy lábánál lévő barlangrendszerből tör elő. A régió egyedülálló természeti látványossága az a több mint 800 vadló, amely évtizedek óta szabadon él a város feletti Krug-fennsíkon. Livno világszerte ismert hagyományos sajtjáról is, amelynek készítése a 19. századig nyúlik vissza. A település a 10-es kanton adminisztratív központja, ahol az alpesi hegyvidéki tájak mediterrán hatásokkal találkoznak.",
+      ro: "Livno este un oraș istoric din vestul Bosniei și Herțegovinei, situat la marginea Livanjsko Polje, cel mai mare câmp carstic din lume. Prima mențiune scrisă a orașului datează din anul 892, într-o cartă a ducelui croat Mutimir. Livno are o istorie bogată, care se întinde de la triburile ilire și perioada romană până la administrațiile otomană și austro-ungară. Un simbol al orașului este turnul cu ceas (Sahat-kula) din secolul al XVI-lea și izvorul Duman al râului Bistrica, care țâșnește direct dintr-un sistem de peșteri de la poalele muntelui Bašajkovac. O atracție naturală unică în regiune sunt cei peste 800 de cai sălbatici care trăiesc liberi de decenii pe platoul înalt Krug, deasupra orașului. De asemenea, Livno este faimos la nivel mondial pentru brânza sa tradițională, a cărei producție datează din secolul al XIX-lea. Orașul funcționează ca centru administrativ al Cantonului 10, îmbinând peisajele montane alpine cu influențe climatice mediteraneene.",
+      en: "Livno is a historic city in western Bosnia and Herzegovina, situated at the edge of Livanjsko Polje, the largest karst field in the world. The city was first mentioned in historical documents in 892 in a charter by the Croatian Duke Mutimir. Livno boasts a rich heritage that spans from Illyrian tribes and Roman times to the Ottoman and Austro-Hungarian periods. Prominent landmarks include the 16th-century Sahat-kula (clock tower) and the Duman source of the Bistrica River, which emerges directly from a cave system at the foot of Bašajkovac Mountain. A unique natural attraction of the region is the population of over 800 wild horses that have roamed free on the Krug plateau above the city for decades. Livno is also world-renowned for its traditional Livno cheese, with production methods dating back to the 19th century. The city serves as the administrative center of Canton 10, blending alpine mountain landscapes with Mediterranean influences.",
     },
     factsAdvanced: {
-      de: [
-        "Livanjsko Polje ist eine der größten Karstebenen (polje) der Welt.",
-        "Der 'Livanjski sir' (Livno-Käse) wird seit der österreichisch-ungarischen Zeit hergestellt.",
-        "Auf dem Cincar-Plateau leben über 700 Wildpferde, eine der größten Populationen in Europa.",
-        "Livno wurde erstmals 892 in einer Urkunde des kroatischen Herzogs Muncimir erwähnt.",
-        "Der Fluss Bistrica entspringt direkt unterhalb der Altstadt.",
-        "In Livno befindet sich eine Galerie des berühmten Malers Gabrijel Jurkić."
-      ],
-      hu: [
-        "A Livanjsko Polje a világ egyik legnagyobb karsztmezője (polje).",
-        "A 'Livanjski sir'-t (livnói sajt) az osztrák-magyar idők óta készítik.",
-        "A Cincar-fennsíkon több mint 700 vadló él, Európa egyik legnagyobb populációja.",
-        "Livnót először 892-ben említik Muncimir horvát fejedelem egyik oklevelében.",
-        "A Bistrica folyó közvetlenül az óváros alatt ered.",
-        "Livnóban található Gabrijel Jurkić híres festő galériája.",
-        "A város a középkori horvát királyság fontos központja volt.",
-        "A környék tele van középkori 'stećak' sírkövekkel."
-      ],
-      ro: [
-        "Livanjsko Polje este una dintre cele mai mari câmpii carstice (polje) din lume.",
-        "Brânza 'Livanjski sir' este produsă încă din perioada austro-ungară.",
-        "Pe platoul Cincar trăiesc peste 700 de cai sălbatici, una dintre cele mai mari populații din Europa.",
-        "Livno a fost menționat pentru prima dată în 892 într-o cartă a ducelui croat Muncimir.",
-        "Râul Bistrica izvorăște chiar de sub orașul vechi.",
-        "În Livno se află o galerie a celebrului pictor Gabrijel Jurkić."
-      ],
-      en: [
-        "Livanjsko Polje is one of the largest karst fields (polje) in the world.",
-        "The 'Livanjski sir' (Livno cheese) has been produced since the Austro-Hungarian era.",
-        "Over 700 wild horses live on the Cincar plateau, one of the largest populations in Europe.",
-        "Livno was first mentioned in 892 in a charter of the Croatian Duke Muncimir.",
-        "The Bistrica river rises directly below the old town.",
-        "Livno is home to a gallery of the famous painter Gabrijel Jurkić.",
-        "The city was an important center of the medieval Croatian kingdom.",
-        "The area is full of medieval 'stećak' tombstones."
-      ]
+      de: ["Die Stadt wurde erstmals am 28. September 892 urkundlich erwähnt.", "Livanjsko Polje hat eine Gesamtfläche von etwa 458 Quadratkilometern.", "Über 800 Wildpferde leben auf dem nahegelegenen Krug-Plateau.", "Der Uhrturm von Livno wurde während der osmanischen Zeit im 16. Jahrhundert erbaut.", "Der Fluss Bistrica ist nur etwa 3 Kilometer lang, bevor er versinkt.", "Livno-Käse wird traditionell aus einer Mischung von Schaf- und Kuhmilch hergestellt."],
+      hu: ["A várost először 892. szeptember 28-án említik oklevélben.", "A Livanjsko polje teljes területe körülbelül 458 négyzetkilométer.", "Több mint 800 vadló él szabadon a közeli Krug-fennsíkon.", "A livnói óratorony az oszmán időkben, a 16. században épült.", "A Bistrica-folyó mindössze 3 kilométer hosszú, mielőtt a föld alá bukna.", "A livnói sajtot hagyományosan juh- és tehéntej keverékéből készítik."],
+      ro: ["Orașul a fost menționat documentar pentru prima dată la 28 septembrie 892.", "Livanjsko Polje are o suprafață totală de aproximativ 458 de kilometri pătrați.", "Peste 800 de cai sălbatici trăiesc liberi pe platoul Krug din apropiere.", "Turnul cu ceas din Livno a fost construit în perioada otomană, în secolul al XVI-lea.", "Râul Bistrica are o lungime de doar circa 3 kilometri înainte de a se pierde.", "Brânza de Livno este produsă tradițional dintr-un amestec de lapte de oaie și vacă."],
+      en: ["The city was first documented on September 28, 892.", "Livanjsko Polje spans a total area of approximately 458 square kilometers.", "More than 800 wild horses live freely on the nearby Krug plateau.", "The Livno clock tower was built during the Ottoman period in the 16th century.", "The Bistrica River is only about 3 kilometers long before it sinks underground.", "Livno cheese is traditionally made from a mixture of sheep's and cow's milk."],
     }, image: "/poi-images/ba-livno.webp"},
   {
     id: "ba-busko",
@@ -2070,48 +1122,16 @@ export const bosniaPois: POI[] = [
     coords: [17.0500, 43.6333],
     parent: "BA-010",
     descriptionAdvanced: {
-      de: "Der Buško-See, auch Buško Blato genannt, ist einer der größten Stauseen in Europa. Er liegt auf einer Höhe von über 700 Metern im Südwesten von Bosnien und Herzegowina, an der Grenze zu Kroatien. Der See wurde in den 1970er Jahren zur Stromerzeugung für ein Wasserkraftwerk in Kroatien angelegt. Er ist ein beliebtes Ziel für Angler, da er reich an Karpfen, Hechten und anderen Fischarten ist. Die weite Wasserfläche und die umliegenden Berge bieten eine beeindruckende Landschaft, die auch bei Windsurfern beliebt ist.",
-      hu: "A Buško-tó, más néven Buško Blato, Európa egyik legnagyobb víztározója. Több mint 700 méteres magasságban fekszik Bosznia-Hercegovina délnyugati részén, a horvát határ mellett. A tavat az 1970-es években hozták létre egy horvátországi vízerőmű áramtermelése céljából. Népszerű célpont a horgászok számára, mivel gazdag pontyban, csukában és más halfajokban. A hatalmas vízfelület és a környező hegyek lenyűgöző tájat kínálnak, amely a szörfösök körében is népszerű. Földrajz K9 – Vízenergia és környezeti hatásai.",
-      ro: "Lacul Buško, numit și Buško Blato, este unul dintre cele mai mari lacuri de acumulare din Europa. Este situat la o altitudine de peste 700 de metri în sud-vestul Bosniei și Herțegovinei, la granița cu Croația. Lacul a fost creat în anii 1970 pentru a genera electricitate pentru o hidrocentrală din Croația. Este o destinație populară pentru pescari, fiind bogat în crap, știucă și alte specii de pești. Vasta întindere de apă și munții din jur oferă un peisaj impresionant, popular și printre practicanții de windsurfing.",
-      en: "Buško Lake, also called Buško Blato, is one of the largest reservoirs in Europe. It is located at an altitude of over 700 meters in the southwest of Bosnia and Herzegovina, on the border with Croatia. The lake was created in the 1970s to generate electricity for a hydroelectric power plant in Croatia. It is a popular destination for anglers, as it is rich in carp, pike, and other fish species. The vast expanse of water and the surrounding mountains offer a stunning landscape that is also popular with windsurfers. Geography K9 - Hydropower and its Environmental Impacts."
+      de: "Der Buško-See, auch bekannt als Buško Blato, ist einer der größten künstlichen Stauseen in Europa und liegt im südwestlichen Teil von Bosnien und Herzegowina an der Grenze zu Kroatien. Er entstand in den 1970er Jahren durch die Flutung eines Karstfeldes auf einer Höhe von 716 Metern über dem Meeresspiegel, um das Wasserkraftwerk Orlovac zu speisen. Die Wasserfläche erstreckt sich über etwa 55 Quadratkilometer und das Becken hat ein Fassungsvermögen von rund 800 Millionen Kubikmetern. Geografisch liegt der See im Einzugsgebiet des Flusses Cetina und wird hauptsächlich durch Niederschläge und kleinere Karstquellen gespeist. Neben seiner industriellen Bedeutung für die Energiegewinnung hat sich der See zu einem wichtigen Lebensraum für verschiedene Fischarten entwickelt, darunter die endemische Adria-Elritze. In der Umgebung befinden sich zahlreiche archäologische Fundstätten aus der illyrischen und römischen Zeit, die von einer langen Siedlungsgeschichte zeugen. Heute wird der See zunehmend für Freizeitaktivitäten wie Angeln, Segeln und Tourismus genutzt, wobei das milde Klima der Region Besucher anzieht.",
+      hu: "A Buško-tó, más néven Buško Blato, Európa egyik legnagyobb mesterséges tározója, Bosznia-Hercegovina délnyugati részén, a horvát határ közelében található. Az 1970-es években hozták létre egy karsztmező elárasztásával 716 méteres tengerszint feletti magasságban, elsődleges célja az Orlovac vízerőmű vízellátásának biztosítása volt. A tó vízfelülete körülbelül 55 négyzetkilométer, tárolókapacitása pedig eléri a 800 millió köbmétert, ami meghatározó szerepet tölt be a régió energiagazdálkodásában. Földrajzi szempontból a Cetina folyó vízgyűjtő területéhez tartozik, vízutánpótlását főként csapadék és kisebb karsztforrások biztosítják. Az ipari hasznosítás mellett a tó gazdag ökoszisztémával rendelkezik, számos halfaj, köztük az endemikus adriai cselle élőhelye. A tó környékén végzett régészeti feltárások illír és római kori leleteket hoztak felszínre, igazolva a terület évezredes lakottságát. Napjainkban a rekreációs lehetőségek, például a horgászat és a vitorlázás révén a turizmus is egyre jelentősebbé válik a térségben.",
+      ro: "Lacul Buško, cunoscut și sub numele de Buško Blato, este unul dintre cele mai mari rezervoare artificiale din Europa, situat în partea de sud-vest a Bosniei și Herțegovinei, lângă granița cu Croația. Acesta a fost creat în anii 1970 prin inundarea unui câmp carstic la o altitudine de 716 metri deasupra nivelului mării, pentru a alimenta hidrocentrala Orlovac. Suprafața apei se întinde pe aproximativ 55 de kilometri pătrați, iar bazinul are o capacitate de stocare de circa 800 de milioane de metri cubi de apă. Din punct de vedere geografic, lacul aparține bazinului hidrografic al râului Cetina și este alimentat în principal de precipitații și izvoare carstice locale. Pe lângă importanța sa industrială, lacul a devenit un habitat crucial pentru diverse specii de pești, inclusiv pentru plevușca adriatică endemică. În jurul lacului se află numeroase situri arheologice care datează din perioadele iliră și romană, demonstrând o istorie lungă a așezărilor umane în zonă. În prezent, lacul este utilizat tot mai mult pentru activități recreative precum pescuitul, navigația și turismul, profitând de climatul blând al regiunii.",
+      en: "Buško Lake, also known as Buško Blato, is one of the largest artificial reservoirs in Europe, located in the southwestern part of Bosnia and Herzegovina near the Croatian border. It was created in the 1970s by flooding a karst field at an altitude of 716 meters above sea level to supply the Orlovac hydroelectric power plant. The water surface covers approximately 55 square kilometers, and the basin has a storage capacity of around 800 million cubic meters. Geographically, the lake belongs to the Cetina river basin and is primarily fed by precipitation and smaller local karst springs. Beyond its industrial significance for energy production, the lake has become an important habitat for various fish species, including the endemic Adriatic minnow. Numerous archaeological sites from the Illyrian and Roman periods are located around the lake, testifying to a long history of human settlement in the area. Today, the lake is increasingly used for recreational activities such as fishing, sailing, and tourism, benefiting from the region's mild Mediterranean-influenced climate.",
     },
     factsAdvanced: {
-      de: [
-        "Der See hat eine Fläche von etwa 55,8 Quadratkilometern.",
-        "Er wurde in den 1970er Jahren durch die Überflutung eines Teils des Livanjsko Polje geschaffen.",
-        "Das Wasser des Sees wird zur Stromerzeugung im Wasserkraftwerk Orlovac in Kroatien genutzt.",
-        "Der See liegt auf einer Höhe von 716 Metern über dem Meeresspiegel.",
-        "Er ist ein wichtiger Lebensraum für verschiedene Vogelarten.",
-        "Der Name 'Buško Blato' bedeutet 'Buško-Sumpf' und bezieht sich auf das ursprüngliche Sumpfgebiet."
-      ],
-      hu: [
-        "A tó területe körülbelül 55,8 négyzetkilométer.",
-        "Az 1970-es években a Livanjsko Polje egy részének elárasztásával hozták létre.",
-        "A tó vizét a horvátországi Orlovac vízerőműben használják áramtermelésre.",
-        "A tó 716 méter tengerszint feletti magasságban fekszik.",
-        "Fontos élőhelye különböző madárfajoknak.",
-        "A 'Buško Blato' név 'Buško mocsarat' jelent, utalva az eredeti mocsárvidékre.",
-        "A tó egyharmada Bosznia-Hercegovinához, kétharmada pedig Horvátországhoz tartozik.",
-        "A tó népszerű a vitorlázók és a kajakozók körében is."
-      ],
-      ro: [
-        "Lacul are o suprafață de aproximativ 55,8 kilometri pătrați.",
-        "A fost creat în anii 1970 prin inundarea unei părți a Livanjsko Polje.",
-        "Apa lacului este folosită pentru a genera electricitate la hidrocentrala Orlovac din Croația.",
-        "Lacul este situat la o altitudine de 716 metri deasupra nivelului mării.",
-        "Este un habitat important pentru diverse specii de păsări.",
-        "Numele 'Buško Blato' înseamnă 'Mlaștina Buško' și se referă la zona mlăștinoasă originală."
-      ],
-      en: [
-        "The lake has an area of about 55.8 square kilometers.",
-        "It was created in the 1970s by flooding part of the Livanjsko Polje.",
-        "The lake's water is used to generate electricity at the Orlovac hydroelectric power plant in Croatia.",
-        "The lake is located at an altitude of 716 meters above sea level.",
-        "It is an important habitat for various bird species.",
-        "The name 'Buško Blato' means 'Buško-Sumpf' and refers to the original marshland.",
-        "One-third of the lake belongs to Bosnia and Herzegovina and two-thirds to Croatia.",
-        "The lake is also popular with sailors and kayakers."
-      ]
+      de: ["Baujahr: 1974 abgeschlossen", "Fläche: 55,8 km²", "Maximale Tiefe: 13 Meter", "Höhe: 716 m ü. M.", "Kapazität: 800 Mio. m³", "Wasserkraftwerk: Orlovac (Kroatien)"],
+      hu: ["Befejezés éve: 1974", "Felszíni terület: 55,8 km²", "Maximális mélység: 13 méter", "Magasság: 716 m tengerszint felett", "Kapacitás: 800 millió m³", "Erőmű: Orlovac (Horvátország)"],
+      ro: ["Anul finalizării: 1974", "Suprafață: 55,8 km²", "Adâncime maximă: 13 metri", "Altitudine: 716 m", "Capacitate: 800 mil. m³", "Centrală electrică: Orlovac (Croația)"],
+      en: ["Completion year: 1974", "Surface area: 55.8 km²", "Maximum depth: 13 meters", "Elevation: 716 m above sea level", "Capacity: 800 million m³", "Power plant: Orlovac (Croatia)"],
     }, image: "/poi-images/ba-busko.webp"},
   {
     id: "ba-andricgrad",
@@ -2126,48 +1146,16 @@ export const bosniaPois: POI[] = [
     coords: [19.2928, 43.7856],
     parent: "BA-012",
     descriptionAdvanced: {
-      de: "Andrićgrad, auch bekannt als 'Steinstadt', ist ein Kultur- und Tourismusprojekt in Višegrad. Es wurde auf Initiative des Filmregisseurs Emir Kusturica erbaut und ist dem jugoslawischen Nobelpreisträgers Ivo Andrić gewidmet. Die Stadt aus Stein befindet sich auf einer Halbinsel am Zusammenfluss der Flüsse Drina und Rzav, in der Nähe der berühmten Mehmed-Paša-Sokolović-Brücke. Andrićgrad ist eine Mischung aus verschiedenen architektonischen Stilen, die die Geschichte von Višegrad widerspiegeln, von byzantinisch über osmanisch bis hin zu klassizistisch. Es beherbergt ein Theater, ein Kino, ein Institut, Galerien und Restaurants.",
-      hu: "Az Andrićgrad, más néven 'Kőváros', egy kulturális és turisztikai projekt Višegradban. Emir Kusturica filmrendező kezdeményezésére épült, és a jugoszláv Nobel-díjas Ivo Andrićnak szentelték. A kőváros egy félszigeten található a Drina és a Rzav folyók összefolyásánál, a híres Szokollu Mehmed pasa hídja közelében. Az Andrićgrad különböző építészeti stílusok keveréke, amelyek Višegrad történelmét tükrözik, a bizáncitól az oszmánon át a klasszicistáig. Színházat, mozit, intézetet, galériákat és éttermeket foglal magában. Irodalom K9 – Irodalmi emlékhelyek.",
-      ro: "Andrićgrad, cunoscut și sub numele de 'Orașul de Piatră', este un proiect cultural și turistic în Višegrad. A fost construit la inițiativa regizorului Emir Kusturica și este dedicat laureatului iugoslav al Premiului Nobel, Ivo Andrić. Orașul de piatră este situat pe o peninsulă la confluența râurilor Drina și Rzav, în apropierea faimosului pod Mehmed Paša Sokolović. Andrićgrad este un amestec de diferite stiluri arhitecturale care reflectă istoria Višegradului, de la bizantin la otoman și clasicist. Acesta găzduiește un teatru, un cinematograf, un institut, galerii și restaurante.",
-      en: "Andrićgrad, also known as 'Stone Town,' is a cultural and tourism project in Višegrad. It was built on the initiative of film director Emir Kusturica and is dedicated to the Yugoslav Nobel laureate Ivo Andrić. The stone town is located on a peninsula at the confluence of the Drina and Rzav rivers, near the famous Mehmed Paša Sokolović Bridge. Andrićgrad is a mixture of different architectural styles that reflect the history of Višegrad, from Byzantine to Ottoman to Classicist. It houses a theater, a cinema, an institute, galleries, and restaurants. Literature K9 - Literary Memorials."
+      de: "Andrićgrad, auch als Steinstadt bekannt, ist ein kulturelles Zentrum und ein Stadtbezirk in Višegrad, Bosnien und Herzegowina, das vom Regisseur Emir Kusturica entworfen wurde. Der Komplex ist dem Nobelpreisträger Ivo Andrić gewidmet und wurde zwischen 2011 und 2014 auf einer Halbinsel am Zusammenfluss der Flüsse Drina und Rzav errichtet. Die Architektur ist eine eklektische Mischung aus verschiedenen Epochen der bosnischen Geschichte, darunter der byzantinische Stil, die osmanische Zeit und die Renaissance. Ziel des Projekts war es, eine fiktive Geschichte der Stadt nachzubilden, die nie existierte, aber die kulturelle Identität der Region widerspiegelt. Innerhalb des Komplexes befinden sich ein Rathaus, eine Kirche, ein Institut für slawische Studien, ein Kino und verschiedene gastronomische Einrichtungen. Andrićgrad dient als Drehort, kultureller Treffpunkt und bedeutendes Touristenziel in der Nähe der berühmten Mehmed-Paša-Sokolović-Brücke. Jährlich finden hier Literaturfestivals und wissenschaftliche Konferenzen statt, die das Erbe von Ivo Andrić lebendig halten. Die Einweihung fand am 28. Juni 2014 statt, dem 100. Jahrestag des Attentats von Sarajevo.",
+      hu: "Andrićgrad, más néven Kőváros, egy kulturális központ és városrész Višegradban, Bosznia-Hercegovinában, amelyet Emir Kusturica filmrendező álmodott meg. A komplexumot a Nobel-díjas írónak, Ivo Andrićnak szentelték, és 2011 és 2014 között épült fel a Drina és a Rzav folyók összefolyásánál található félszigeten. Az építészeti stílus a boszniai történelem különböző korszakait ötvözi, beleértve a bizánci, az oszmán és a reneszánsz elemeket. A projekt célja egy olyan fiktív városi történelem életre keltése volt, amely a valóságban sosem létezett, de hűen tükrözi a régió kulturális identitását. A területen városháza, templom, szláv tanulmányok intézete, mozi és számos vendéglátóegység található. Andrićgrad forgatási helyszínként, kulturális találkozóhelyként és fontos turisztikai célpontként funkcionál a híres Mehmed pasa Sokolović-híd közelében. Évente irodalmi fesztiváloknak és tudományos konferenciáknak ad otthont, amelyek Ivo Andrić örökségét ápolják. A hivatalos megnyitót 2014. június 28-án tartották, a szarajevói merénylet 100. évfordulóján.",
+      ro: "Andrićgrad, cunoscut și sub numele de Orașul de Piatră, este un centru cultural și un cartier din Višegrad, Bosnia și Herțegovina, proiectat de regizorul Emir Kusturica. Complexul este dedicat laureatului Premiului Nobel, Ivo Andrić, și a fost construit între 2011 și 2014 pe o peninsulă situată la confluența râurilor Drina și Rzav. Arhitectura reprezintă un amestec eclectic de diferite perioade din istoria Bosniei, incluzând stilul bizantin, perioada otomană și Renașterea. Scopul proiectului a fost de a recrea o istorie fictivă a orașului, care nu a existat niciodată, dar care reflectă identitatea culturală a regiunii. În cadrul complexului se află o primărie, o biserică, un institut de studii slave, un cinematograf și diverse unități gastronomice. Andrićgrad servește ca locație de filmare, punct de întâlnire cultural și o destinație turistică importantă lângă celebrul pod Mehmed Paša Sokolović. Anual, aici au loc festivaluri literare și conferințe științifice care mențin vie moștenirea lui Ivo Andrić. Inaugurarea oficială a avut loc pe 28 iunie 2014, la împlinirea a 100 de ani de la atentatul de la Sarajevo.",
+      en: "Andrićgrad, also known as Stone Town, is a cultural center and district in Višegrad, Bosnia and Herzegovina, designed by filmmaker Emir Kusturica. The complex is dedicated to the Nobel Prize-winning author Ivo Andrić and was constructed between 2011 and 2014 on a peninsula at the confluence of the Drina and Rzav rivers. The architecture is an eclectic mix of various periods of Bosnian history, including Byzantine, Ottoman, and Renaissance styles. The project's goal was to recreate a fictional urban history that never existed but reflects the region's cultural identity. Within the complex are a town hall, a church, an institute for Slavic studies, a cinema, and various dining facilities. Andrićgrad serves as a filming location, a cultural hub, and a significant tourist destination near the famous Mehmed Paša Sokolović Bridge. It annually hosts literary festivals and scientific conferences that preserve the legacy of Ivo Andrić. The official opening took place on June 28, 2014, marking the 100th anniversary of the assassination in Sarajevo.",
     },
     factsAdvanced: {
-      de: [
-        "Andrićgrad wurde offiziell am 28. Juni 2014, dem 100. Jahrestag des Attentats von Sarajevo, eröffnet.",
-        "Das Projekt wurde vom Filmregisseur Emir Kusturica initiiert und mitfinanziert.",
-        "Die Stadt ist dem einzigen jugoslawischen Nobelpreisträger für Literatur, Ivo Andrić, gewidmet.",
-        "In der Stadt steht eine Statue von Ivo Andrić sowie eine von Petar II. Petrović-Njegoš.",
-        "Andrićgrad wurde als Kulisse für Kusturicas Film 'On the Milky Road' verwendet.",
-        "Der Komplex soll eine Nachbildung der historischen Stadt darstellen, wie sie in Andrićs Romanen beschrieben wird."
-      ],
-      hu: [
-        "Az Andrićgradot hivatalosan 2014. június 28-án, a szarajevói merénylet 100. évfordulóján nyitották meg.",
-        "A projektet Emir Kusturica filmrendező kezdeményezte és társfinanszírozta.",
-        "A város az egyetlen jugoszláv irodalmi Nobel-díjasnak, Ivo Andrićnak van szentelve.",
-        "A városban Ivo Andrić, valamint II. Petar Petrović-Njegoš szobra is áll.",
-        "Az Andrićgradot Kusturica 'A Tejúton' című filmjének díszleteként használták.",
-        "A komplexum a történelmi város másolata, ahogyan azt Andrić regényeiben leírta.",
-        "A városban található az Andrić Intézet, amely a humán tudományokkal foglalkozik.",
-        "A főutca, a 'Mlada Bosna' (Ifjú Bosznia), a szarajevói merényletet elkövető szervezetről kapta a nevét."
-      ],
-      ro: [
-        "Andrićgrad a fost inaugurat oficial la 28 iunie 2014, la 100 de ani de la asasinarea de la Sarajevo.",
-        "Proiectul a fost inițiat și co-finanțat de regizorul Emir Kusturica.",
-        "Orașul este dedicat singurului laureat iugoslav al Premiului Nobel pentru Literatură, Ivo Andrić.",
-        "În oraș se află o statuie a lui Ivo Andrić, precum și una a lui Petar al II-lea Petrović-Njegoš.",
-        "Andrićgrad a fost folosit ca platou de filmare pentru filmul lui Kusturica 'Pe Calea Lactee'.",
-        "Complexul este menit să fie o replică a orașului istoric, așa cum este descris în romanele lui Andrić."
-      ],
-      en: [
-        "Andrićgrad was officially opened on June 28, 2014, the 100th anniversary of the assassination in Sarajevo.",
-        "The project was initiated and co-financed by film director Emir Kusturica.",
-        "The city is dedicated to the only Yugoslav Nobel laureate for literature, Ivo Andrić.",
-        "In the city there is a statue of Ivo Andrić as well as one of Petar II Petrović-Njegoš.",
-        "Andrićgrad was used as a set for Kusturica's film 'On the Milky Road'.",
-        "The complex is intended to be a replica of the historic city as described in Andrić's novels.",
-        "The city is home to the Andrić Institute, which deals with the humanities.",
-        "The main street, 'Mlada Bosna' (Young Bosnia), is named after the organization that carried out the assassination in Sarajevo."
-      ]
+      de: ["Baubeginn: 28. Juni 2011", "Eröffnung: 28. Juni 2014", "Gründer: Emir Kusturica", "Lage: Halbinsel zwischen Drina und Rzav", "Stilmix: Byzantinisch, Osmanisch, Renaissance", "Widmung: Ivo Andrić (Nobelpreis 1961)"],
+      hu: ["Építés kezdete: 2011. június 28.", "Átadás éve: 2014", "Alapító: Emir Kusturica", "Helyszín: Drina-Rzav összefolyása", "Stílusok: Bizánci, Oszmán, Reneszánsz", "Névadó: Ivo Andrić (Nobel-díj 1961)"],
+      ro: ["Începerea construcției: 28 iunie 2011", "Inaugurare: 2014", "Fondator: Emir Kusturica", "Locație: Peninsulă Drina-Rzav", "Stiluri: Bizantin, Otoman, Renaștere", "Dedicat: Ivo Andrić (Premiul Nobel 1961)"],
+      en: ["Construction start: June 28, 2011", "Inauguration: 2014", "Founder: Emir Kusturica", "Location: Peninsula between Drina and Rzav", "Styles: Byzantine, Ottoman, Renaissance", "Dedicated to: Ivo Andrić (Nobel Prize 1961)"],
     }, image: "/poi-images/ba-andricgrad.webp"},
   {
     id: "ba-orlovaca",
@@ -2182,48 +1170,16 @@ export const bosniaPois: POI[] = [
     coords: [18.5750, 43.8167],
     parent: "BA-017",
     descriptionAdvanced: {
-      de: "Die Orlovača-Höhle ist ein beeindruckendes Karsthöhlensystem in der Nähe von Pale. Sie ist eine der längsten Höhlen in Bosnien und Herzegowina mit einem bisher erforschten Tunnelsystem von über 2.500 Metern. Ein Teil der Höhle ist für Touristen zugänglich und enthüllt eine unterirdische Welt voller prächtiger Stalaktiten, Stalagmiten und anderer Höhlenformationen in verschiedenen Farben und Formen. In der Höhle wurden Knochen von Höhlenbären gefunden, die auf ein Alter von über 16.000 Jahren geschätzt werden. Die konstante Temperatur in der Höhle beträgt das ganze Jahr über etwa 9°C.",
-      hu: "Az Orlovača-barlang egy lenyűgöző karsztbarlang-rendszer Pale közelében. Bosznia-Hercegovina egyik leghosszabb barlangja, eddig több mint 2500 méter hosszú alagútrendszerrel. A barlang egy része látogatható, és egy föld alatti világot tár fel, amely tele van csodálatos cseppkövekkel és más barlangi képződményekkel, különböző színekben és formákban. A barlangban több mint 16 000 évesre becsült barlangi medve csontokat találtak. A barlang állandó hőmérséklete egész évben körülbelül 9°C. Geológia K7 – Karsztjelenségek.",
-      ro: "Peștera Orlovača este un sistem impresionant de peșteri carstice lângă Pale. Este una dintre cele mai lungi peșteri din Bosnia și Herțegovina, cu un sistem de tuneluri explorat până acum de peste 2.500 de metri. O parte a peșterii este accesibilă turiștilor și dezvăluie o lume subterană plină de stalactite, stalagmite și alte formațiuni de peșteră magnifice, de diferite culori și forme. În peșteră au fost găsite oase de urs de peșteră, estimate la o vechime de peste 16.000 de ani. Temperatura constantă în peșteră este de aproximativ 9°C pe tot parcursul anului.",
-      en: "The Orlovača cave is an impressive karst cave system near Pale. It is one of the longest caves in Bosnia and Herzegovina, with a tunnel system explored so far of over 2,500 meters. A part of the cave is accessible to tourists and reveals an underground world full of magnificent stalactites, stalagmites, and other cave formations in various colors and shapes. Cave bear bones, estimated to be over 16,000 years old, have been found in the cave. The constant temperature in the cave is about 9°C throughout the year. Geology K7 - Karst Phenomena."
+      de: "Die Orlovača-Höhle, gelegen in der Nähe von Pale bei Sarajevo, ist eines der bedeutendsten speleologischen Objekte in Bosnien und Herzegowina. Das Höhlensystem erstreckt sich über eine Gesamtlänge von etwa 2.500 Metern, wovon rund 560 Meter für Touristen zugänglich sind. Die Höhle zeichnet sich durch eine außergewöhnliche Vielfalt an Tropfsteinformationen aus, darunter Stalaktiten, Stalagmiten und filigrane Kalzit-Sinter. Wissenschaftliche Untersuchungen haben ergeben, dass die Höhle einst ein Lebensraum für den ausgestorbenen Höhlenbären (Ursus spelaeus) war, dessen Skelettreste hier gefunden wurden und über 16.000 Jahre alt sind. Die konstante Innentemperatur beträgt das ganze Jahr über etwa 8,8 Grad Celsius bei einer Luftfeuchtigkeit von fast 100 Prozent. Neben den paläontologischen Funden wurden auch Überreste aus der Jungsteinzeit entdeckt, was auf eine sehr frühe menschliche Präsenz hinweist. Die Höhle wurde 2002 offiziell für den Tourismus geöffnet und ist durch gut ausgebaute Wege und moderne Beleuchtung erschlossen. Die Umgebung der Höhle bietet zudem malerische Wanderwege und eine reiche Flora und Fauna im Romanija-Gebirge.",
+      hu: "Az Orlovača-barlang, amely Pale közelében, Szarajevótól nem messze található, Bosznia-Hercegovina egyik legjelentősebb szpeleológiai helyszíne. A barlangrendszer teljes hossza körülbelül 2500 méter, amelyből mintegy 560 métert nyitottak meg a látogatók előtt. A barlang rendkívül gazdag cseppkőképződményekben, sztalaktitok, sztalagmitok és finom kalcit-szinterek díszítik a járatait. A tudományos kutatások bebizonyították, hogy a barlang egykor a mára kihalt barlangi medve (Ursus spelaeus) élőhelye volt; az itt talált csontmaradványok több mint 16 000 évesek. A belső hőmérséklet egész évben állandó, körülbelül 8,8 Celsius-fok, a páratartalom pedig megközelíti a 100 százalékot. A paleontológiai leletek mellett újkőkori maradványokat is feltártak, ami a korai emberi jelenlétre utal a térségben. A barlangot 2002-ben nyitották meg hivatalosan a turizmus számára, kiépített utakkal és modern világítással felszerelve. A barlang környéke a Romanija-hegység festői túraútvonalaival és gazdag növényvilágával várja a természetjárókat.",
+      ro: "Peștera Orlovača, situată lângă Pale, în apropierea orașului Sarajevo, este unul dintre cele mai importante obiective speologice din Bosnia și Herțegovina. Sistemul cavernicol se întinde pe o lungime totală de aproximativ 2.500 de metri, dintre care circa 560 de metri sunt accesibili turiștilor. Peștera se remarcă printr-o varietate excepțională de formațiuni carstice, inclusiv stalactite, stalagmite și coloane de calcit delicate. Cercetările științifice au demonstrat că peștera a fost odată habitatul ursului de peșteră (Ursus spelaeus), dispărut în prezent, ale cărui rămășițe scheletice găsite aici au o vechime de peste 16.000 de ani. Temperatura internă constantă este de aproximativ 8,8 grade Celsius pe tot parcursul anului, cu o umiditate de aproape 100%. Pe lângă descoperirile paleontologice, au fost găsite și vestigii din perioada neolitică, sugerând o prezență umană timpurie. Peștera a fost deschisă oficial pentru turism în anul 2002, fiind dotată cu poteci amenajate și iluminat modern. Împrejurimile peșterii oferă trasee de drumeție pitorești și o floră și faună bogată în munții Romanija.",
+      en: "Orlovača Cave, located near Pale and close to Sarajevo, is one of the most significant speleological sites in Bosnia and Herzegovina. The cave system spans a total length of approximately 2,500 meters, of which about 560 meters are accessible to tourists. The cave is characterized by an extraordinary variety of dripstone formations, including stalactites, stalagmites, and delicate calcite sinter. Scientific research has confirmed that the cave was once a habitat for the extinct cave bear (Ursus spelaeus), with skeletal remains found here dating back more than 16,000 years. The internal temperature remains constant year-round at approximately 8.8 degrees Celsius, with humidity levels near 100 percent. In addition to paleontological finds, Neolithic remains have been discovered, indicating a very early human presence in the area. The cave was officially opened to tourism in 2002, featuring well-maintained paths and modern lighting. The surrounding area in the Romanija Mountains offers picturesque hiking trails and a rich variety of flora and fauna.",
     },
     factsAdvanced: {
-      de: [
-        "Die erforschte Länge der Höhle beträgt über 2.500 Meter, wovon 560 Meter für Touristen zugänglich sind.",
-        "In der Höhle wurden Überreste von Höhlenbären (Ursus spelaeus) gefunden.",
-        "Sie ist reich an verschiedenen Höhlenornamenten, die durch die langsame Ablagerung von Kalzit entstanden sind.",
-        "Die Höhle ist ein wichtiger Lebensraum für mehrere Fledermausarten.",
-        "Die konstante Temperatur in der Höhle liegt bei 8,8 °C und die Luftfeuchtigkeit bei über 90%.",
-        "Am Eingang der Höhle befindet sich ein kleines Museum."
-      ],
-      hu: [
-        "A barlang feltárt hossza több mint 2500 méter, amelyből 560 méter látogatható.",
-        "A barlangban barlangi medve (Ursus spelaeus) maradványait találták.",
-        "Gazdag különböző barlangi díszekben, amelyek a kalcit lassú lerakódásával jöttek létre.",
-        "A barlang fontos élőhelye több denevérfajnak.",
-        "A barlang állandó hőmérséklete 8,8 °C, a páratartalom pedig több mint 90%.",
-        "A barlang bejáratánál egy kis múzeum található.",
-        "A barlangot a Sinjeva folyó hozta létre.",
-        "A barlangot a helyiek régóta ismerték, de csak a 20. század végén kutatták szisztematikusan."
-      ],
-      ro: [
-        "Lungimea explorată a peșterii este de peste 2.500 de metri, din care 560 de metri sunt accesibili turiștilor.",
-        "În peșteră au fost găsite rămășițe de urs de peșteră (Ursus spelaeus).",
-        "Este bogată în diverse ornamente de peșteră, formate prin depunerea lentă a calcitei.",
-        "Peștera este un habitat important pentru mai multe specii de lilieci.",
-        "Temperatura constantă în peșteră este de 8,8 °C, iar umiditatea de peste 90%.",
-        "La intrarea în peșteră se află un mic muzeu."
-      ],
-      en: [
-        "The explored length of the cave is over 2,500 meters, of which 560 meters are accessible to tourists.",
-        "Remains of cave bears (Ursus spelaeus) have been found in the cave.",
-        "It is rich in various cave ornaments formed by the slow deposition of calcite.",
-        "The cave is an important habitat for several species of bats.",
-        "The constant temperature in the cave is 8.8 °C and the humidity is over 90%.",
-        "There is a small museum at the entrance of the cave.",
-        "The cave was created by the Sinjeva River.",
-        "The cave was long known to locals, but was only systematically explored in the late 20th century."
-      ]
+      de: ["Gesamtlänge: ca. 2.500 Meter", "Touristische Route: 560 Meter", "Temperatur: konstant 8,8 °C", "Alter der Bärenfunde: >16.000 Jahre", "Eröffnung für Touristen: 2002", "Lage: Romanija-Gebirge"],
+      hu: ["Teljes hossz: kb. 2500 méter", "Látogatható szakasz: 560 méter", "Hőmérséklet: állandó 8,8 °C", "Medveleletek kora: >16 000 év", "Megnyitás éve: 2002", "Helyszín: Romanija-hegység"],
+      ro: ["Lungime totală: cca. 2.500 metri", "Traseu turistic: 560 metri", "Temperatură: constantă 8,8 °C", "Vârsta resturilor de urs: >16.000 ani", "Deschidere turistică: 2002", "Localizare: Munții Romanija"],
+      en: ["Total length: approx. 2,500 meters", "Tourist route: 560 meters", "Temperature: constant 8.8°C", "Age of bear remains: >16,000 years", "Opening year: 2002", "Location: Romanija Mountains"],
     }, image: "/poi-images/ba-orlovaca.webp"},
   {
     id: "ba-gorazde",
@@ -2238,48 +1194,16 @@ export const bosniaPois: POI[] = [
     coords: [18.9742, 43.6669],
     parent: "BA-002",
     descriptionAdvanced: {
-      de: "Goražde ist eine Stadt im Osten Bosniens, die sich entlang des smaragdgrünen Flusses Drina erstreckt. Die Stadt erlangte während des Bosnienkrieges große Bekanntheit, als sie eine von nur drei bosnischen Enklaven war, die der Belagerung durch die Armee der Republika Srpska standhielten. Diese Zeit des Widerstands prägt die Identität der Stadt bis heute. Goražde ist von Bergen umgeben und liegt in einer malerischen Landschaft. Die Drina bietet Möglichkeiten zum Angeln und Kajakfahren. Die Stadt ist ein Symbol für Widerstandsfähigkeit und den Überlebenswillen ihrer Bewohner.",
-      hu: "Goražde egy város Kelet-Boszniában, amely a smaragdzöld Drina folyó mentén húzódik. A város a boszniai háború alatt vált ismertté, amikor egyike volt annak a három bosnyák enklávénak, amely ellenállt a Szerb Köztársaság hadseregének ostromának. Az ellenállás ezen időszaka a mai napig meghatározza a város identitását. Goraždét hegyek veszik körül, és festői tájban fekszik. A Drina lehetőséget kínál horgászatra és kajakozásra. A város az ellenálló képesség és lakóinak túlélési akaratának szimbóluma. Történelem K9 – A délszláv háborúk.",
-      ro: "Goražde este un oraș în estul Bosniei, care se întinde de-a lungul râului Drina de un verde smarald. Orașul a devenit cunoscut în timpul războiului din Bosnia, când a fost una dintre cele doar trei enclave bosniace care au rezistat asediului armatei Republicii Srpska. Această perioadă de rezistență marchează identitatea orașului până în prezent. Goražde este înconjurat de munți și este situat într-un peisaj pitoresc. Râul Drina oferă oportunități pentru pescuit și caiac-canoe. Orașul este un simbol al rezistenței și al voinței de supraviețuire a locuitorilor săi.",
-      en: "Goražde is a town in eastern Bosnia, stretching along the emerald-green Drina River. The town became widely known during the Bosnian War when it was one of only three Bosnian enclaves to resist the siege by the Army of Republika Srpska. This period of resistance continues to shape the city's identity today. Goražde is surrounded by mountains and set in a picturesque landscape. The Drina River offers opportunities for fishing and kayaking. The city is a symbol of resilience and the will of its inhabitants to survive. History K9 - The Yugoslav Wars."
+      de: "Goražde ist eine strategisch wichtige Stadt im Osten von Bosnien und Herzegowina, die am Ufer des Flusses Drina liegt. Die Stadt hat eine lange Geschichte, die bis in die Römerzeit zurückreicht, und war im Mittelalter ein bedeutendes Handelszentrum an der Route nach Dubrovnik. Während der osmanischen Herrschaft entwickelte sich Goražde zu einem wichtigen Verwaltungszentrum, was sich in der Architektur der Altstadt widerspiegelt. Bekanntheit erlangte die Stadt insbesondere während des Bosnienkrieges (1992–1995), als sie eine der wenigen UN-Schutzzonen im Osten war, die dem Druck standhielten. Die industrielle Entwicklung von Goražde ist bemerkenswert, insbesondere in den Bereichen Metallverarbeitung und Rüstungsindustrie, was der Stadt den Ruf eines wirtschaftlichen Zentrums der Region einbrachte. Ein kulturelles Highlight ist die Brücke über die Drina, die ein Symbol für Widerstand und Wiederaufbau ist. Heute ist Goražde ein lebendiges Zentrum mit Bildungs- und Kultureinrichtungen, das jährlich das Internationale Freundschaftsfestival ausrichtet. Die natürliche Umgebung bietet Möglichkeiten für Wassersport auf der Drina und Wanderungen in den umliegenden Bergen.",
+      hu: "Goražde Bosznia-Hercegovina keleti részén, a Drina folyó partján fekvő stratégiai fontosságú város. Története a római korig nyúlik vissza, a középkorban pedig fontos kereskedelmi csomópont volt a Dubrovnik felé vezető útvonalon. Az oszmán uralom idején a város jelentős közigazgatási központtá fejlődött, amelynek emlékeit az óváros építészete ma is őrzi. A város különösen a boszniai háború (1992–1995) idején vált ismertté, mint az egyik olyan ENSZ-védett övezet, amely sikeresen ellenállt az ostromnak. Goražde ipari fejlődése figyelemre méltó, különösen a fémfeldolgozás és a hadiipar területén, ami a régió gazdasági motorjává tette. Kulturális szempontból kiemelkedő a Drina feletti híd, amely az ellenállás és az újjáépítés szimbólumává vált. Napjainkban Goražde vibráló központ oktatási és kulturális intézményekkel, itt rendezik meg évente a Nemzetközi Barátság Fesztivált is. A környék kiváló lehetőségeket nyújt a vadvízi evezésre a Drinán és a természetjárásra a környező hegyekben.",
+      ro: "Goražde este un oraș de importanță strategică în estul Bosniei și Herțegovinei, situat pe malurile râului Drina. Orașul are o istorie îndelungată care datează din epoca romană, fiind în perioada medievală un centru comercial important pe ruta către Dubrovnik. În timpul stăpânirii otomane, Goražde s-a dezvoltat ca un centru administrativ relevant, aspect reflectat în arhitectura centrului vechi. Orașul a devenit cunoscut în mod special în timpul Războiului din Bosnia (1992–1995), fiind una dintre puținele zone protejate de ONU din est care a rezistat asediului. Dezvoltarea industrială a orașului este remarcabilă, în special în sectoarele prelucrării metalelor și industriei de apărare, ceea ce i-a adus reputația de motor economic al regiunii. Un punct de atracție culturală este podul peste Drina, simbol al rezistenței și reconstrucției. Astăzi, Goražde este un centru vibrant cu instituții educaționale și culturale, găzduind anual Festivalul Internațional al Prieteniei. Împrejurimile naturale oferă oportunități pentru sporturi nautice pe Drina și drumeții în munții din jur.",
+      en: "Goražde is a strategically important city in eastern Bosnia and Herzegovina, situated on the banks of the Drina River. The city has a long history dating back to Roman times and was a significant trading center in the Middle Ages on the route to Dubrovnik. During Ottoman rule, Goražde developed into an important administrative hub, reflected in the architecture of its old town. The city gained particular international recognition during the Bosnian War (1992–1995) as one of the few UN-protected enclaves in the east that successfully resisted siege. Goražde's industrial development is notable, especially in metal processing and the defense industry, earning it a reputation as an economic engine for the region. A cultural highlight is the bridge across the Drina, which stands as a symbol of resistance and reconstruction. Today, Goražde is a vibrant center with educational and cultural institutions, hosting the annual International Friendship Festival. The natural environment offers opportunities for water sports on the Drina and hiking in the surrounding mountains.",
     },
     factsAdvanced: {
-      de: [
-        "Goražde war während des Bosnienkrieges (1992-1995) eine von der UN geschützte 'Sicherheitszone'.",
-        "Die Stadt war fast vier Jahre lang belagert und wurde über einen Bergpfad versorgt.",
-        "Der Fluss Drina ist bekannt für die Huchenfischerei, eine große Lachsart.",
-        "In der Nähe befindet sich die Kirche des Heiligen Georg in Sopotnica, die aus dem 15. Jahrhundert stammt.",
-        "Goražde ist heute der Verwaltungssitz des Kantons Bosnisches Podrinje.",
-        "Die Wirtschaft der Stadt stützt sich auf die Metallverarbeitungs- und Chemieindustrie."
-      ],
-      hu: [
-        "Goražde a boszniai háború (1992-1995) alatt az ENSZ által védett 'biztonsági zóna' volt.",
-        "A várost közel négy évig ostromolták, és egy hegyi ösvényen keresztül látták el.",
-        "A Drina folyó a galóca-horgászatról ismert, amely egy nagy lazacféle.",
-        "A közelben található a 15. századi Szent György-templom Sopotnicában.",
-        "Goražde ma a Boszniai Podrinje kanton közigazgatási központja.",
-        "A város gazdasága a fémfeldolgozó- és vegyiparra támaszkodik.",
-        "A városban minden évben megrendezik a 'Drinai Regatta' evezősversenyt.",
-        "A háború alatt a városban működött egy improvizált 'háborús mozi'."
-      ],
-      ro: [
-        "Goražde a fost o 'zonă de siguranță' protejată de ONU în timpul războiului din Bosnia (1992-1995).",
-        "Orașul a fost asediat timp de aproape patru ani și a fost aprovizionat printr-o potecă montană.",
-        "Râul Drina este cunoscut pentru pescuitul la lostriță, o specie mare de somon.",
-        "În apropiere se află Biserica Sf. Gheorghe din Sopotnica, datând din secolul al XV-lea.",
-        "Goražde este astăzi sediul administrativ al Cantonului Podrinje Bosniac.",
-        "Economia orașului se bazează pe industria metalurgică și chimică."
-      ],
-      en: [
-        "Goražde was a UN-protected 'safe area' during the Bosnian War (1992-1995).",
-        "The city was under siege for nearly four years and was supplied via a mountain path.",
-        "The Drina River is known for Huchen (Danube salmon) fishing.",
-        "Nearby is the Church of St. George in Sopotnica, dating from the 15th century.",
-        "Goražde is now the administrative seat of the Bosnian-Podrinje Canton.",
-        "The city's economy relies on the metal-processing and chemical industries.",
-        "The 'Drina Regatta' rowing event is held in the city every year.",
-        "During the war, an improvised 'war cinema' operated in the city."
-      ]
+      de: ["Fluss: Drina", "Besonderheit: UN-Schutzzone 1992-1995", "Wirtschaft: Zentrum der Metallindustrie", "Festival: Internationales Freundschaftsfestival", "Ersterwähnung: 1379 in Ragusa-Dokumenten", "Region: Kanton Bosnisches Podrinje"],
+      hu: ["Folyó: Drina", "Történelmi státusz: ENSZ védett övezet (1992-1995)", "Gazdaság: Fémipari központ", "Esemény: Nemzetközi Barátság Fesztivál", "Első említés: 1379", "Közigazgatás: Boszniai Podrinje kanton"],
+      ro: ["Râu: Drina", "Statut istoric: Zonă protejată ONU (1992-1995)", "Economie: Centru al industriei metalurgice", "Eveniment: Festivalul Internațional al Prieteniei", "Prima atestare: 1379", "Regiune: Cantonul Podrinje Bosniac"],
+      en: ["River: Drina", "Historical status: UN safe area (1992-1995)", "Economy: Metal industry hub", "Event: International Friendship Festival", "First mention: 1379", "Region: Bosnian-Podrinje Canton"],
     }, image: "/poi-images/ba-gorazde.webp"},
   {
     id: "ba-gorazde-bridge",
@@ -2294,49 +1218,17 @@ export const bosniaPois: POI[] = [
     coords: [18.9750, 43.6675],
     parent: "BA-002",
     descriptionAdvanced: {
-      de: "Die Brücken von Goražde sind mehr als nur Strukturen, die die beiden Ufer der Drina verbinden. Sie sind Lebensadern und soziale Treffpunkte. Während der Belagerung waren die Brücken entscheidend für die Verteidigung und den Zusammenhalt der Stadt. Heute sind sie Symbole für die Verbindung und den Wiederaufbau. Im Sommer versammeln sich die Einheimischen an den Brücken und am Flussufer, um zu schwimmen, Kontakte zu knüpfen und an Veranstaltungen teilzunehmen. Die Brücken bieten einen malerischen Blick auf den Fluss und die umliegende Stadt.",
-      hu: "Goražde hídjai többek, mint a Drina két partját összekötő építmények. Életvonalak és társadalmi találkozóhelyek. Az ostrom alatt a hidak döntő fontosságúak voltak a város védelmében és összetartásában. Ma az összeköttetés és az újjáépítés szimbólumai. Nyáron a helyiek a hidaknál és a folyóparton gyűlnek össze úszni, társasági életet élni és rendezvényeken részt venni. A hidak festői kilátást nyújtanak a folyóra és a környező városra. Építészet K7 – Hidak és közösségek.",
-      ro: "Podurile din Goražde sunt mai mult decât simple structuri care leagă cele două maluri ale Drinei. Ele sunt artere vitale și puncte de întâlnire socială. În timpul asediului, podurile au fost cruciale pentru apărarea și coeziunea orașului. Astăzi, ele sunt simboluri ale legăturii și reconstrucției. Vara, localnicii se adună la poduri și pe malul râului pentru a înota, a socializa și a participa la evenimente. Podurile oferă o priveliște pitorească asupra râului și a orașului înconjurător.",
-      en: "The bridges of Goražde are more than just structures connecting the two banks of the Drina. They are lifelines and social meeting points. During the siege, the bridges were crucial for the city's defense and cohesion. Today, they are symbols of connection and reconstruction. In the summer, locals gather at the bridges and on the riverbanks to swim, socialize, and participate in events. The bridges offer a picturesque view of the river and the surrounding city. Architecture K7 - Bridges and Communities."
+      de: "Die Brücke in Goražde, insbesondere die provisorische 'Brücke unter der Brücke' während des Bosnienkrieges, ist ein weltweit einzigartiges Symbol menschlicher Genialität und Überlebenswillens. Während der Belagerung von 1992 bis 1995 bauten die Bewohner unterhalb der zerstörten Hauptbrücke einen geheimen Steg, um sich vor Scharfschützen und Artilleriebeschuss zu schützen. Dieser Übergang war die einzige Verbindung zwischen den beiden Ufern der Drina und ermöglichte den Transport von Lebensmitteln, Medikamenten und Verwundeten. Die heutige Brücke, oft nach Radoslav Koso benannt, wurde nach dem Krieg als moderne Stahlbetonkonstruktion wiederaufgebaut und ist ein zentraler Verkehrsknotenpunkt der Stadt. Sie verbindet nicht nur die Stadtteile, sondern erinnert auch an die schwere Zeit des Widerstands. Ein Denkmal in der Nähe ehrt die Opfer der Belagerung und unterstreicht die historische Bedeutung des Ortes. Die Brücke bietet zudem einen weiten Blick über die Drina und ist ein beliebter Treffpunkt für Einheimische und Besucher. Ihre Architektur fügt sich funktional in das Stadtbild ein und symbolisiert die Normalisierung des Lebens nach dem Konflikt.",
+      hu: "A goraždei híd, különösen a boszniai háború idején épült ideiglenes 'híd a híd alatt', az emberi találékonyság és a túlélési vágy világszerte egyedülálló szimbóluma. Az 1992 és 1995 közötti ostrom idején a lakosok a lerombolt főhíd alatt egy titkos pallót építettek, hogy megvédjék magukat a mesterlövészektől és a tüzérségi tűztől. Ez az átjáró volt az egyetlen összeköttetés a Drina két partja között, lehetővé téve az élelmiszer, a gyógyszerek és a sebesültek szállítását. A mai híd, amelyet gyakran Radoslav Kosóról neveznek el, a háború után modern vasbeton szerkezetként épült újjá, és a város központi közlekedési csomópontja. Nemcsak a városrészeket köti össze, hanem emléket állít az ellenállás nehéz időszakának is. A közelben található emlékmű az ostrom áldozatai előtt tiszteleg, hangsúlyozva a helyszín történelmi jelentőségét. A hídról tágas kilátás nyílik a Drinára, és kedvelt találkozóhely a helyiek és a látogatók számára. Építészete funkcionálisan illeszkedik a városképbe, szimbolizálva az élet normalizálódását a konfliktus után.",
+      ro: "Podul din Goražde, în special provizoriul 'pod de sub pod' construit în timpul Războiului din Bosnia, este un simbol unic la nivel mondial al ingeniozității umane și al dorinței de supraviețuire. În timpul asediului din perioada 1992-1995, locuitorii au construit o pasarelă secretă sub structura podului principal distrus, pentru a se proteja de lunetiști și bombardamente. Această trecere era singura legătură între cele două maluri ale râului Drina, permițând transportul alimentelor, medicamentelor și răniților. Podul actual, adesea numit după Radoslav Koso, a fost reconstruit după război ca o structură modernă din beton armat și este un nod de trafic central al orașului. Acesta nu doar conectează cartierele, ci reamintește și de perioada dificilă a rezistenței. Un monument situat în apropiere onorează victimele asediului și subliniază importanța istorică a locului. Podul oferă, de asemenea, o vedere panoramică asupra râului Drina și este un loc de întâlnire popular pentru localnici și vizitatori. Arhitectura sa se integrează funcțional în peisajul urban, simbolizând normalizarea vieții după conflict.",
+      en: "The bridge in Goražde, particularly the improvised 'bridge under the bridge' built during the Bosnian War, is a globally unique symbol of human ingenuity and the will to survive. During the siege from 1992 to 1995, residents constructed a secret walkway beneath the destroyed main bridge to shield themselves from snipers and artillery fire. This passage was the only link between the two banks of the Drina River, enabling the transport of food, medicine, and the wounded. The current bridge, often named after Radoslav Koso, was rebuilt after the war as a modern reinforced concrete structure and serves as a central traffic hub for the city. It not only connects the districts but also commemorates the difficult period of resistance. A nearby monument honors the victims of the siege, emphasizing the site's historical significance. The bridge offers a wide view over the Drina and is a popular meeting point for locals and visitors. Its architecture integrates functionally into the cityscape, symbolizing the normalization of life following the conflict.",
     },
     factsAdvanced: {
-      de: [
-        "Eine der Hauptbrücken wurde während des Krieges zerstört und später wiederaufgebaut.",
-        "Die Brücken sind ein zentraler Bestandteil der jährlichen Drina-Regatta.",
-        "Sie verbinden die beiden Hauptteile der Stadt.",
-        "Die Ufer um die Brücken sind im Sommer beliebte Bade- und Erholungsorte.",
-        "Von den Brücken aus hat man einen guten Blick auf die Stromschnellen der Drina.",
-        "Die Brücken dienen als Treffpunkt für junge Leute."
-      ],
-      hu: [
-        "Az egyik fő hidat a háború alatt lerombolták, majd később újjáépítették.",
-        "A hidak a minden évben megrendezett Drina Regatta központi elemei.",
-        "Összekötik a város két fő részét.",
-        "A hidak körüli partok nyáron népszerű fürdő- és üdülőhelyek.",
-        "A hidakról jó kilátás nyílik a Drina zúgóira.",
-        "A hidak a fiatalok találkozóhelyéül szolgálnak.",
-        "A 'Híd a Drinán' kifejezés a városban az összetartozás szinonimájává vált.",
-        "A hidak alatti pillérek a folyó erejének tanúi."
-      ],
-      ro: [
-        "Unul dintre podurile principale a fost distrus în timpul războiului și ulterior reconstruit.",
-        "Podurile sunt o parte centrală a Regatei anuale de pe Drina.",
-        "Ele leagă cele două părți principale ale orașului.",
-        "Malurile din jurul podurilor sunt locuri populare de scăldat și recreere în timpul verii.",
-        "De pe poduri se poate admira o priveliște bună asupra repezișurilor Drinei.",
-        "Podurile servesc drept loc de întâlnire pentru tineri."
-      ],
-      en: [
-        "One of the main bridges was destroyed during the war and later rebuilt.",
-        "The bridges are a central part of the annual Drina Regatta.",
-        "They connect the two main parts of the city.",
-        "The banks around the bridges are popular swimming and recreation spots in the summer.",
-        "From the bridges, one can get a good view of the Drina's rapids.",
-        "The bridges serve as a meeting point for young people.",
-        "The phrase 'Bridge on the Drina' has become synonymous with community in the town.",
-        "The pillars beneath the bridges are a testament to the river's power."
-      ]
-    }
+      de: ["Name: Radoslav-Koso-Brücke", "Kriegsmerkmal: 'Brücke unter der Brücke'", "Zweck: Schutz vor Scharfschützen (1992-95)", "Fluss: Drina", "Material: Stahlbeton (Wiederaufbau)", "Bedeutung: Strategische Verbindung"],
+      hu: ["Név: Radoslav Koso híd", "Háborús emlék: 'Híd a híd alatt'", "Funkció: Védelem a lövészektől (1992-95)", "Folyó: Drina", "Anyaga: Vasbeton (újjáépítés után)", "Szerep: Stratégiai összeköttetés"],
+      ro: ["Nume: Podul Radoslav Koso", "Caracteristică de război: 'Podul de sub pod'", "Scop: Protecție contra lunetiștilor (1992-95)", "Râu: Drina", "Material: Beton armat (reconstruit)", "Semnificație: Conexiune strategică"],
+      en: ["Name: Radoslav Koso Bridge", "Wartime feature: 'Bridge under the bridge'", "Purpose: Sniper protection (1992-95)", "River: Drina", "Material: Reinforced concrete (rebuilt)", "Significance: Strategic connection"],
+    },
   }
 ];
 

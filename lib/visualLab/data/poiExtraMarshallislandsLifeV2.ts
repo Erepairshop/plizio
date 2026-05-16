@@ -19,6 +19,18 @@ export const marshallislandsLifeV2: POI[] = [
       en: ["Land area of approximately 0.5 square kilometers", "Primary nesting site for Green sea turtles", "Home to large colonies of boobies and terns", "Proposed as a nature reserve since the 1970s"],
     },
     imageHint: "Aerial view of a pristine coral atoll with turquoise lagoon",
+    descriptionAdvanced: {
+      de: "Das Bikar-Atoll ist ein unbewohntes Naturschutzgebiet im Norden der Marshallinseln, das für seine außergewöhnliche biologische Vielfalt bekannt ist. Es dient als einer der wichtigsten Nistplätze für die grüne Meeresschildkröte im gesamten Pazifik. Die isolierte Lage und der Schutzstatus machen es zu einem unberührten Refugium für seltene Seevögel und marine Arten.",
+      hu: "A Bikar-atoll egy lakatlan természetvédelmi terület a Marshall-szigetek északi részén, amely kivételes biológiai sokféleségéről ismert. A csendes-óceáni térség egyik legfontosabb fészkelőhelye a közönséges levesteknős számára. Elszigetelt fekvése és védett státusza érintetlen menedékké teszi a ritka tengeri madarak és tengeri fajok számára.",
+      ro: "Atolul Bikar este o rezervație naturală nelocuită din nordul Insulelor Marshall, cunoscută pentru biodiversitatea sa excepțională. Servește ca unul dintre cele mai importante locuri de cuibărit pentru broasca țestoasă verde din întregul Pacific. Locația izolată și statutul de protecție îl fac un refugiu nealterat pentru păsări marine rare.",
+      en: "Bikar Atoll is an uninhabited nature reserve in the northern Marshall Islands, renowned for its extraordinary biological diversity. It serves as one of the most important nesting sites for the green sea turtle in the entire Pacific. Its isolated location and protected status make it a pristine sanctuary for rare seabirds and marine species.",
+    },
+    factsAdvanced: {
+      de: ["Eines der kleinsten Atolle der Marshallinseln", "Hauptnistplatz der Suppenschildkröte (Chelonia mydas)", "Beherbergt große Kolonien von Rotfußtölpeln", "Kein permanenter Zugang zu Süßwasser vorhanden", "Lagune ist fast vollständig vom Riff umschlossen", "Traditionell ein geschütztes Gebiet (Mo) der lokalen Häuptlinge"],
+      hu: ["A Marshall-szigetek egyik legkisebb atollja", "A közönséges levesteknős fő fészkelőhelye", "Hatalmas piroslábú szula kolóniáknak ad otthont", "Nincs állandó édesvízforrás a szigeten", "A lagúnát szinte teljesen körülzárja a zátony", "Hagyományosan a helyi törzsfők által védett terület (Mo)"],
+      ro: ["Unul dintre cei mai mici atoli din Insulele Marshall", "Locul principal de cuibărit pentru țestoasa verde", "Găzduiește colonii mari de corbi de mare cu picioare roșii", "Nu există neresurse permanente de apă dulce", "Laguna este aproape complet închisă de recif", "Tradițional o zonă protejată (Mo) de către căpeteniile locale"],
+      en: ["One of the smallest atolls in the Marshall Islands", "Primary nesting ground for the green sea turtle (Chelonia mydas)", "Home to large colonies of red-footed boobies", "Lacks any permanent sources of fresh water", "The lagoon is almost entirely enclosed by the reef", "Traditionally designated as a protected area (Mo) by local chiefs"],
+    },
   },
   {
     id: "marshallislands-bokak-atoll-life-v2",
@@ -38,6 +50,18 @@ export const marshallislandsLifeV2: POI[] = [
       en: ["Northernmost atoll of the Ratak Chain", "Home to 26 different species of birds", "No permanent fresh water source exists", "Vegetation shows extreme salt tolerance"],
     },
     imageHint: "Remote sandy atoll with sparse tropical vegetation",
+    descriptionAdvanced: {
+      de: "Das Bokak-Atoll, auch als Taongi bekannt, ist das nördlichste Atoll der Marshallinseln und zeichnet sich durch ein semiarides Klima aus. Die Vegetation ist an die trockenen Bedingungen angepasst, was Bokak ökologisch von den südlicheren Atollen abhebt. Es ist ein bedeutendes Schutzgebiet für Seevögel und beherbergt eine nahezu unberührte Korallenriff-Gemeinschaft.",
+      hu: "A Bokak-atoll, más néven Taongi, a Marshall-szigetek legészakibb atollja, amelyet félsivatagi éghajlat jellemez. A növényzet alkalmazkodott a száraz körülményekhez, ami ökológiailag megkülönbözteti Bokakot a délebbi atolloktól. Jelentős védett terület a tengeri madarak számára, és szinte érintetlen korallzátony-közösséggel rendelkezik.",
+      ro: "Atolul Bokak, cunoscut și sub numele de Taongi, este cel mai nordic atol al Insulelor Marshall și se caracterizează printr-un climat semiarid. Vegetația este adaptată la condițiile uscate, ceea ce diferențiază Bokak din punct de vedere ecologic de atolii sudici. Este o zonă protejată importantă pentru păsările marine.",
+      en: "Bokak Atoll, also known as Taongi, is the northernmost atoll of the Marshall Islands and is characterized by a semi-arid climate. Its vegetation is adapted to dry conditions, which ecologically distinguishes Bokak from the more southern atolls. It is a significant protected area for seabirds and hosts a nearly pristine coral reef community.",
+    },
+    factsAdvanced: {
+      de: ["Nördlichster Punkt der Republik Marshallinseln", "Vorkommen seltener Pflanzen wie Pisonia grandis", "Brutplatz für über 20 verschiedene Vogelarten", "Einzigartiges Ökosystem ohne invasive Nagetiere", "Lagune liegt etwa 1 Meter über dem Meeresspiegel", "Eingeschränkter Wasseraustausch führt zu hoher Salinität"],
+      hu: ["A Marshall-szigetek Köztársaság legészakibb pontja", "Olyan ritka növények fordulnak elő itt, mint a Pisonia grandis", "Több mint 20 különböző madárfaj költőhelye", "Egyedülálló ökoszisztéma invazív rágcsálók nélkül", "A lagúna kb. 1 méterrel a tengerszint felett helyezkedik el", "A korlátozott vízcsere magas sótartalmat eredményez"],
+      ro: ["Cel mai nordic punct al Republicii Insulelor Marshall", "Prezența unor plante rare precum Pisonia grandis", "Loc de cuibărit pentru peste 20 de specii diferite de păsări", "Ecosistem unic, lipsit de rozătoare invazive", "Laguna se află la aproximativ 1 metru deasupra nivelului mării", "Schimbul limitat de apă duce la o salinitate ridicată"],
+      en: ["Northernmost point of the Republic of the Marshall Islands", "Presence of rare plants such as the Pisonia grandis", "Breeding ground for over 20 different species of birds", "Unique ecosystem characterized by the absence of invasive rodents", "The lagoon surface is about 1 meter above sea level", "Limited water exchange leads to higher lagoon salinity"],
+    },
   },
   {
     id: "marshallislands-ailinginae-atoll-life-v2",
@@ -57,6 +81,18 @@ export const marshallislandsLifeV2: POI[] = [
       en: ["Consists of 25 small islets", "UNESCO World Heritage site since 2010", "Critical habitat for reef sharks", "Minimal human impact since 1954"],
     },
     imageHint: "Pristine coral reef underwater with tropical fish",
+    descriptionAdvanced: {
+      de: "Das Ailinginae-Atoll ist ein unbewohntes Atoll in der Ralik-Kette, das seit den Kernwaffentests von 1954 keine permanente Bevölkerung mehr aufweist. Die Natur hat sich das Gebiet zurückerobert, was zu einer hohen Dichte an Meereslebewesen und intakten Riffsystemen geführt hat. Es bietet Wissenschaftlern eine seltene Gelegenheit, die Erholung von Ökosystemen in einer strahlungsbelasteten Umgebung zu untersuchen.",
+      hu: "Az Ailinginae-atoll a Ralik-lánchoz tartozó lakatlan atoll, amely az 1954-es atomfegyver-kísérletek óta nem rendelkezik állandó lakossággal. A természet visszahódította a területet, ami a tengeri élővilág nagy sűrűségéhez és ép zátonyrendszerekhez vezetett. Ritka lehetőséget kínál a tudósoknak az ökoszisztémák sugárterhelés utáni regenerációjának tanulmányozására.",
+      ro: "Atolul Ailinginae este un atol nelocuit din lanțul Ralik care, de la testele nucleare din 1954, nu mai are o populație permanentă. Natura a recuperat zona, ducând la o densitate mare de viață marină și sisteme de recife intacte. Oferă oamenilor de știință o ocazie rară de a studia recuperarea ecosistemelor.",
+      en: "Ailinginae Atoll is an uninhabited atoll in the Ralik Chain that has lacked a permanent population since the 1954 nuclear tests. Nature has reclaimed the area, resulting in a high density of marine life and intact reef systems. It offers scientists a rare opportunity to study ecosystem recovery in a historically radiation-impacted environment.",
+    },
+    factsAdvanced: {
+      de: ["Evakuierung der Bevölkerung am 3. März 1954", "Besteht aus 25 kleinen Inseln (Motus)", "Teil des Welterbe-Nomierungsprozesses für Kernwaffentestgebiete", "Reichhaltige Vorkommen von Riesenmuscheln in der Lagune", "Wichtiger Transitpunkt für wandernde Walhai-Populationen", "Gesamtlandfläche beträgt nur ca. 2,8 Quadratkilometer"],
+      hu: ["A lakosság evakuálása 1954. március 3-án történt", "25 kis szigetből (motu) áll", "Az atomkísérleti helyszínek világörökségi jelölési folyamatának része", "Gazdag óriáskagyló-állomány a lagúnában", "Fontos áthaladási pont a vándorló cápák számára", "A teljes szárazföldi terület mindössze kb. 2,8 négyzetkilométer"],
+      ro: ["Evacuarea populației a avut loc pe 3 martie 1954", "Format din 25 de insule mici (motu)", "Parte a procesului de nominalizare UNESCO pentru situri nucleare", "Populații bogate de scoici gigant în lagună", "Punct important de tranzit pentru populațiile de rechini-balenă", "Suprafața terestră totală este de doar aproximativ 2,8 km pătrați"],
+      en: ["Evacuation of the resident population on March 3, 1954", "Comprised of 25 small islets (motus)", "Part of the World Heritage nomination process for nuclear sites", "Abundant populations of giant clams (Tridacna) in the lagoon", "Key transit point for migratory whale shark populations", "Total land area is only approximately 2.8 square kilometers"],
+    },
   },
   {
     id: "marshallislands-jemo-island-life-v2",
@@ -76,6 +112,18 @@ export const marshallislandsLifeV2: POI[] = [
       en: ["Total land area of only 0.16 square kilometers", "Traditionally protected as a reserve by chiefs", "Dense Pisonia forests cover the island", "Large populations of hermit crabs"],
     },
     imageHint: "Small lush tropical island surrounded by deep blue ocean",
+    descriptionAdvanced: {
+      de: "Jemo Island ist eine kleine, unbewohnte Koralleninsel in der Ratak-Kette der Marshallinseln. Sie ist traditionell das Privateigentum der Iroij (Oberhäupter) der Ratak-Kette und wird nur gelegentlich für die Ernte von Kopra und Eiern besucht. Die Insel dient als wichtiges Brutgebiet für die Grüne Meeresschildkröte und verschiedene Seevögel.",
+      hu: "Jemo-sziget egy apró, lakatlan korallsziget a Marshall-szigetek Ratak-láncában. Tradicionálisan a Ratak-lánc főnökeinek (Iroij) magántulajdona, akiket csak alkalmanként látogatnak meg kopra és tojásgyűjtés céljából. A sziget a zöld tengeri teknősök és számos tengeri madárfaj kiemelt fészkelőhelye.",
+      ro: "Insula Jemo este o insulă mică de corali, nelocuită, situată în lanțul Ratak al Insulelor Marshall. În mod tradițional, este proprietatea privată a liderilor Iroij din lanțul Ratak și este vizitată doar ocazional pentru recoltarea de copră și ouă. Insula servește ca loc important de cuibărit pentru broasca țestoasă verde și diverse păsări marine.",
+      en: "Jemo Island is a small, uninhabited coral island in the Ratak Chain of the Marshall Islands. It is traditionally the private property of the Iroij (high chiefs) of the Ratak Chain and is only visited occasionally for harvesting copra and eggs. The island serves as a critical nesting site for the green sea turtle and various marine bird species.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von nur 0,16 Quadratkilometern", "Teil der östlichen Ratak-Kette", "Eigentum der High Chiefs von Ratak", "Wichtiges Brutgebiet der Grünen Meeresschildkröte", "Nur mit dem Boot bei ruhiger See erreichbar", "Keine permanente menschliche Besiedlung vorhanden"],
+      hu: ["Teljes területe mindössze 0,16 négyzetkilométer", "A Marshall-szigetek keleti Ratak-láncának része", "A Ratak-lánc főnökeinek örökletes magántulajdona", "A zöld tengeri teknősök védett fészkelőhelye", "Csak csónakkal érhető el nyugodt tengeri körülmények között", "Nincs állandó lakossága vagy infrastruktúrája"],
+      ro: ["Suprafață totală de doar 0,16 kilometri pătrați", "Parte a lanțului estic Ratak al insulelor", "Proprietate privată a marilor șefi din Ratak", "Zonă critică de reproducere pentru țestoasa verde", "Accesibilă doar cu barca în condiții de mare calmă", "Nu există așezări umane permanente pe insulă"],
+      en: ["Land area of only 0.16 square kilometers", "Part of the eastern Ratak Chain of islands", "Private property of the High Chiefs of Ratak", "Crucial nesting ground for green sea turtles", "Accessible only by boat during calm sea conditions", "No permanent human settlement or infrastructure"],
+    },
   },
   {
     id: "marshallislands-erikub-atoll-life-v2",
@@ -95,6 +143,18 @@ export const marshallislandsLifeV2: POI[] = [
       en: ["Consists of 6 main islets", "Peak nesting season is June to September", "Presence of rare coconut crabs", "Significant stopover for migratory birds"],
     },
     imageHint: "Sea turtle tracks on a white sand tropical beach",
+    descriptionAdvanced: {
+      de: "Das Erikub-Atoll ist ein unbewohntes Korallenatoll in der Ratak-Kette, das sich in unmittelbarer Nähe zum bevölkerten Wotje-Atoll befindet. Es besteht aus 14 kleinen Inseln, die eine zentrale Lagune umschließen. Aufgrund der fehlenden Besiedlung hat sich hier eine ungestörte Meeresfauna erhalten, die regelmäßig von Bewohnern benachbarter Atolle zur Ressourcenbeschaffung genutzt wird.",
+      hu: "Az Erikub-atoll egy lakatlan korallzátony a Ratak-láncban, amely a sűrűn lakott Wotje-atoll közvetlen közelében fekszik. 14 apró szigetből áll, amelyek egy központi lagúnát zárnak körbe. Az állandó lakosság hiánya miatt háborítatlan tengeri fauna maradt fenn, amelyet a szomszédos atollok lakói rendszeresen felkeresnek erőforrásokért.",
+      ro: "Atolul Erikub este un atol de corali nelocuit din lanțul Ratak, situat în imediata apropiere a atolului populat Wotje. Este format din 14 insule mici care înconjoară o lagună centrală. Din cauza lipsei așezărilor, aici s-a păstrat o faună marină neperturbată, care este utilizată regulat de locuitorii atolurilor vecine pentru resurse.",
+      en: "Erikub Atoll is an uninhabited coral atoll in the Ratak Chain, located in close proximity to the populated Wotje Atoll. It consists of 14 small islands surrounding a central lagoon. Due to the lack of settlement, an undisturbed marine fauna has been preserved here, which is regularly visited by residents of neighboring atolls for resource gathering.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus insgesamt 14 einzelnen Inseln", "Gesamtlandfläche beträgt 1,53 Quadratkilometer", "Die zentrale Lagune umfasst 230 Quadratkilometer", "Gehört zur Ratak-Kette der Marshallinseln", "Unbewohntes Naturschutzgebiet für Meereslebewesen", "Häufiger Nistplatz für Meeresschildkröten"],
+      hu: ["Összesen 14 különálló sziget alkotja", "A szárazföldi terület összesen 1,53 négyzetkilométer", "A központi lagúna területe 230 négyzetkilométer", "A Marshall-szigetek Ratak-láncához tartozik", "Lakatlan természetvédelmi terület a tengeri élővilág számára", "A tengeri teknősök gyakori fészkelőhelye"],
+      ro: ["Compus dintr-un total de 14 insule individuale", "Suprafața terestră totală este de 1,53 kilometri pătrați", "Laguna centrală ocupă 230 de kilometri pătrați", "Aparține lanțului Ratak al Insulelor Marshall", "Zonă naturală nelocuită pentru fauna marină", "Loc de cuibărit frecvent pentru țestoasele marine"],
+      en: ["Comprises a total of 14 individual islands", "Total land area is 1.53 square kilometers", "The central lagoon covers 230 square kilometers", "Belongs to the Ratak Chain of the Marshall Islands", "Uninhabited natural sanctuary for marine life", "Frequent nesting site for marine turtles"],
+    },
   },
   {
     id: "marshallislands-taka-atoll-life-v2",
@@ -114,6 +174,18 @@ export const marshallislandsLifeV2: POI[] = [
       en: ["Land area of just 0.57 square kilometers", "Close ecological link with Utirik Atoll", "Hosts colonies of sooty terns", "Crystal clear waters with high fish biomass"],
     },
     imageHint: "Large group of seabirds flying over a tropical reef",
+    descriptionAdvanced: {
+      de: "Taka Atoll ist ein kleines, unbewohntes Atoll in der Ratak-Kette der Marshallinseln, nördlich des Utirik-Atolls gelegen. Es umfasst sechs kleine Inseln, die eine flache Lagune umgeben. Das Atoll ist als Vogelschutzgebiet bekannt und beherbergt bedeutende Kolonien von Seevögeln, während die Gewässer reich an Rifffischen und Schildkröten sind.",
+      hu: "A Taka-atoll egy kis méretű, lakatlan korallzátony a Marshall-szigetek Ratak-láncában, az Utirik-atollól északra. Hat apró sziget alkotja, amelyek egy sekély lagúnát fognak közre. Az atoll madárrezervátumként ismert, jelentős tengeri madárkolóniáknak ad otthont, míg vizei zátonyhalakban és teknősökben gazdagok.",
+      ro: "Atolul Taka este un atol mic, nelocuit, din lanțul Ratak al Insulelor Marshall, situat la nord de atolul Utirik. Cuprinde șase insule mici care înconjoară o lagună puțin adâncă. Atolul este cunoscut ca sanctuar al păsărilor, găzduind colonii importante de păsări marine, în timp ce apele sunt bogate în pești de recif și țestoase.",
+      en: "Taka Atoll is a small, uninhabited atoll in the Ratak Chain of the Marshall Islands, located north of Utirik Atoll. It comprises six small islands surrounding a shallow lagoon. The atoll is known as a bird sanctuary, hosting significant colonies of marine birds, while its waters are rich in reef fish and turtles.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus 6 kleinen Inseln", "Landfläche beträgt etwa 0,57 Quadratkilometer", "Lagunenfläche umfasst rund 93 Quadratkilometer", "Nördlicher Teil der Ratak-Inselkette", "Wichtiges Habitat für die Rußseeschwalbe", "Besuch durch Utirik-Bewohner zur Nahrungssuche"],
+      hu: ["6 apró sziget alkotja a zátonyt", "A szárazföldi terület kb. 0,57 négyzetkilométer", "A lagúna területe megközelítőleg 93 négyzetkilométer", "A Ratak-szigetlánc északi részén található", "A füstös csérek egyik fontos élőhelye", "Az Utirik-lakók rendszeresen látogatják élelemszerzésért"],
+      ro: ["Format din 6 insule de dimensiuni mici", "Suprafața terestră este de aproximativ 0,57 km pătrați", "Suprafața lagunei este de circa 93 km pătrați", "Situat în partea de nord a lanțului Ratak", "Habitat important pentru chirghița funinginoasă", "Vizitat de locuitorii din Utirik pentru hrană"],
+      en: ["Consists of 6 small islands", "Total land area is about 0.57 square kilometers", "Lagoon area covers approximately 93 square kilometers", "Located in the northern Ratak Chain", "Important habitat for the sooty tern", "Visited by Utirik residents for food gathering"],
+    },
   },
   {
     id: "marshallislands-jaluit-conservation-area-life-v2",
@@ -133,6 +205,18 @@ export const marshallislandsLifeV2: POI[] = [
       en: ["First Ramsar site in the Marshall Islands (2004)", "Protects four different species of mangroves", "Habitat for the threatened Micronesian Imperial Pigeon", "Supports sustainable local community fishing"],
     },
     imageHint: "Dense mangrove forest at the edge of a tropical lagoon",
+    descriptionAdvanced: {
+      de: "Das Jaluit-Naturschutzgebiet im südlichen Jaluit-Atoll ist das erste Ramsar-Gebiet der Marshallinseln. Es schützt ein komplexes Ökosystem aus Mangroven, Korallenriffen und Seegraswiesen, die zahlreichen bedrohten Arten als Lebensraum dienen. Die Region ist besonders wichtig für die Erhaltung der Biodiversität und die nachhaltige Nutzung der Ressourcen durch die lokale Bevölkerung.",
+      hu: "A Jaluit Természetvédelmi Terület a déli Jaluit-atollon található, és a Marshall-szigetek első Ramsari területe. Mangroveerdőkből, korallzátonyokból és tengerifű-mezőkből álló komplex ökoszisztémát véd, amely számos veszélyeztetett fajnak ad otthont. A régió kiemelt jelentőségű a biodiverzitás megőrzése és a helyi lakosság fenntartható erőforrás-használata szempontjából.",
+      ro: "Aria de Conservare Jaluit, situată în atolul sudic Jaluit, este primul sit Ramsar din Insulele Marshall. Protejează un ecosistem complex de mangrove, recife de corali și pajiști marine care servesc drept habitat pentru numeroase specii amenințate. Regiunea este deosebit de importantă pentru conservarea biodiversității și utilizarea durabilă a resurselor de către populația locală.",
+      en: "The Jaluit Conservation Area in the southern Jaluit Atoll is the first Ramsar site in the Marshall Islands. It protects a complex ecosystem of mangroves, coral reefs, and seagrass beds that serve as habitats for numerous threatened species. The region is particularly important for biodiversity conservation and sustainable resource use by the local population.",
+    },
+    factsAdvanced: {
+      de: ["Erstes Ramsar-Gebiet der Marshallinseln seit 2004", "Umfasst eine Fläche von 690 Hektar", "Beherbergt 7 verschiedene Mangrovenarten", "Schutzgebiet für die Grüne Meeresschildkröte", "Wichtiger Brutplatz für zahlreiche Seevögel", "Unterstützt nachhaltige lokale Fischereipraktiken"],
+      hu: ["A Marshall-szigetek első Ramsari területe 2004 óta", "A védett terület 690 hektárt foglal el", "7 különböző mangrovefaj található meg itt", "Védett élőhely a zöld tengeri teknősök számára", "Számos tengeri madár kiemelt fészkelőhelye", "Támogatja a helyi fenntartható halászati módszereket"],
+      ro: ["Primul sit Ramsar din Insulele Marshall din 2004", "Acoperă o suprafață de 690 de hectare", "Găzduiește 7 specii diferite de mangrove", "Zonă de protecție pentru țestoasa verde", "Loc important de cuibărit pentru păsări marine", "Susține practicile locale de pescuit durabil"],
+      en: ["First Ramsar site in Marshall Islands since 2004", "Covers an area of 690 hectares", "Home to 7 different species of mangroves", "Protected habitat for the green sea turtle", "Important nesting site for numerous seabirds", "Supports sustainable local fishing practices"],
+    },
   },
   {
     id: "marshallislands-laura-mangroves-life-v2",

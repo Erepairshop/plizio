@@ -19,6 +19,18 @@ export const micronesiaHistoryV2: POI[] = [
       en: ["Built between 1200 and 1500 AD.", "Consists of nearly 100 artificial islets.", "UNESCO World Heritage Site since 2016.", "Walls are made of heavy basalt columns."],
     },
     imageHint: "Nan Madol ancient stone ruins on water",
+    descriptionAdvanced: {
+      de: "Nan Madol ist eine antike Ruinenstadt vor der Ostküste von Pohnpei, die aus über 100 künstlichen Inseln besteht. Sie war das zeremonielle und politische Zentrum der Saudeleur-Dynastie bis etwa 1628. Die monumentale Architektur aus Basaltsäulen und Korallenfüllungen gilt als ingenieurtechnisches Meisterwerk der pazifischen Geschichte.",
+      hu: "Nan Madol egy ősi romváros Pohnpei keleti partjainál, amely több mint 100 mesterséges szigetből áll. A Saudeleur-dinasztia szertartási és politikai központja volt körülbelül 1628-ig. A bazaltoszlopokból és koralltöltésből álló monumentális építészet a csendes-óceáni történelem mérnöki remekművének számít.",
+      ro: "Nan Madol este un oraș antic în ruine situat pe coasta de est a insulei Pohnpei, format din peste 100 de insule artificiale. A fost centrul ceremonial și politic al dinastiei Saudeleur până în jurul anului 1628. Arhitectura monumentală din coloane de bazalt și umplutură de corali este considerată o capodoperă inginerească.",
+      en: "Nan Madol is an ancient ruined city off the eastern coast of Pohnpei, consisting of over 100 artificial islands. It served as the ceremonial and political seat of the Saudeleur Dynasty until approximately 1628. The monumental architecture, built from basalt columns and coral fill, is considered an engineering masterpiece of Pacific history.",
+    },
+    factsAdvanced: {
+      de: ["Nan Madol wurde 2016 zum UNESCO-Weltkulturerbe erklärt.", "Die Stadt wurde zwischen 1200 und 1500 n. Chr. erbaut.", "Wegen ihres Kanalsystems wird sie oft als Venedig des Pazifiks bezeichnet.", "Einige beim Bau verwendete Basaltsteine wiegen bis zu 50 Tonnen.", "Die Stätte erstreckt sich über eine Fläche von etwa 18 Quadratkilometern.", "Nan Douwas ist die prominenteste Struktur und diente als königliche Grabstätte."],
+      hu: ["Nan Madolt 2016-ban az UNESCO Világörökség részévé nyilvánították.", "A várost i.sz. 1200 és 1500 között építették.", "Csatornahálózata miatt gyakran a Csendes-óceán Velencéjeként emlegetik.", "Az építéshez használt egyes bazaltkövek súlya eléri az 50 tonnát.", "A helyszín körülbelül 18 négyzetkilométeres területet foglal el.", "Nan Douwas a legjelentősebb építmény, amely királyi temetkezőhely volt."],
+      ro: ["Nan Madol a fost desemnat sit UNESCO în anul 2016.", "Orașul a fost construit între anii 1200 și 1500 d.Hr.", "Este adesea numit Veneția Pacificului datorită rețelei sale de canale.", "Unele pietre de bazalt folosite în construcție cântăresc până la 50 de tone.", "Situl se întinde pe o suprafață de aproximativ 18 kilometri pătrați.", "Nan Douwas este cea mai proeminentă structură, servind ca morp de regal."],
+      en: ["Nan Madol was designated a UNESCO World Heritage site in 2016.", "The city was constructed between 1200 and 1500 AD.", "It is often referred to as the Venice of the Pacific due to its network of canals.", "Some basalt stones used in construction weigh up to 50 tons.", "The site covers an area of approximately 18 square kilometers.", "Nan Douwas is the most prominent structure, serving as a royal mortuary."],
+    },
   },
   {
     id: "micronesia-lelu-ruins-history-v2",
@@ -38,6 +50,18 @@ export const micronesiaHistoryV2: POI[] = [
       en: ["Built around the 14th century AD.", "Contains tombs of high-ranking chiefs.", "Largely abandoned in the 19th century.", "Walls reach up to 6 meters in height."],
     },
     imageHint: "Lelu ruins basalt stone walls Kosrae",
+    descriptionAdvanced: {
+      de: "Die Lelu-Ruinen auf der Insel Kosrae sind die Überreste einer bedeutenden prähistorischen Stadt, die im 14. und 15. Jahrhundert ihre Blütezeit erlebte. Die Stadt war das Zentrum eines stark geschichteten Häuptlingstums, das die gesamte Insel Kosrae kontrollierte. Die Bauweise ähnelt Nan Madol, verwendet jedoch massivere Mauern.",
+      hu: "A Kosrae szigetén található Lelu-romok egy jelentős őskori város maradványai, amely a 14. és 15. században érte el virágkorát. A város egy erősen rétegzett törzsfőnökség központja volt, amely az egész szigetet irányította. Az építési mód hasonlít Nan Madolhoz, de masszívabb falakat alkalmaz.",
+      ro: "Ruinele Lelu de pe insula Kosrae sunt vestigiile unui oraș preistoric important care a înflorit în secolele al XIV-lea și al XV-lea. Orașul a fost centrul unei căpetenii puternic stratificate care controla întreaga insulă Kosrae. Stilul de construcție seamănă cu cel din Nan Madol, dar folosește ziduri mai masive.",
+      en: "The Lelu Ruins on Kosrae Island are the remains of a significant prehistoric city that flourished during the 14th and 15th centuries. The city was the center of a highly stratified chiefdom that controlled the entire island of Kosrae. The construction style is similar to Nan Madol but utilizes more massive walls made of large basalt blocks.",
+    },
+    factsAdvanced: {
+      de: ["Lelu war die Residenz des Tokosra, des obersten Herrschers von Kosrae.", "Die Stadt wurde auf der Insel Lelu erbaut, die ursprünglich vom Festland getrennt war.", "Die Mauern in Lelu erreichen an einigen Stellen Höhen von bis zu 6 Metern.", "Europäische Entdecker dokumentierten die Ruinen erstmals im frühen 19. Jahrhundert.", "Die Stätte umfasst königliche Gräber, Wohnviertel und heilige Bereiche.", "Der Niedergang begann nach dem Kontakt mit westlichen Krankheiten Mitte der 1800er."],
+      hu: ["Lelu a Tokosra, Kosrae legfőbb uralkodójának lakhelye volt.", "A város Lelu szigetén épült, amely eredetileg különvált a főszigettől.", "Lelu falai egyes helyeken elérik a 6 méteres magasságot.", "Az európai felfedezők a 19. század elején dokumentálták először a romokat.", "A helyszín királyi sírokat, lakónegyedeket és szent területeket foglal magában.", "Hanyatlása az 1800-as évek közepén, a nyugati betegségek megjelenése után kezdődött."],
+      ro: ["Lelu a fost reședința Tokosra, conducătorul suprem al Kosrae.", "Orașul a fost construit pe insula Lelu, care era separată de insula principală.", "Zidurile din Lelu ating înălțimi de până la 6 metri în unele locuri.", "Exploratorii europeni au documentat prima dată ruinele la începutul secolului XIX.", "Situl include morminte regale, cartiere de locuit și zone sacre.", "A intrat în declin după contactul cu bolile occidentale la mijlocul anilor 1800."],
+      en: ["Lelu was the residence of the Tokosra, the supreme ruler of Kosrae.", "The city was built on Lelu Island, which was originally separated from the main island.", "Walls in Lelu reach heights of up to 6 meters in some places.", "European explorers first documented the ruins in the early 19th century.", "The site includes royal tombs, living quarters, and sacred areas.", "It fell into decline following contact with Western diseases in the mid-1800s."],
+    },
   },
   {
     id: "micronesia-spanish-wall-history-v2",
@@ -57,6 +81,18 @@ export const micronesiaHistoryV2: POI[] = [
       en: ["Built in 1887 by Spanish colonizers.", "Part of the former Fort Alphonso XIII.", "Located today within a public city park.", "Significant evidence of European presence."],
     },
     imageHint: "Spanish Wall ruins Kolonia Pohnpei",
+    descriptionAdvanced: {
+      de: "Die Spanische Mauer in Kolonia auf Pohnpei wurde 1887 als Teil des Fort Alphonso XIII errichtet. Sie diente als administratives und defensives Zentrum der spanischen Kolonialverwaltung auf den östlichen Karolinen. Heute stehen die Überreste der Mauer als bedeutendes historisches Zeugnis der kurzen, aber prägenden spanischen Ära in Mikronesien.",
+      hu: "A pohnpei-i Koloniában található Spanyol fal 1887-ben épült az Alphonso XIII erőd részeként. A spanyol gyarmati kormányzat adminisztratív és védelmi központjaként szolgált a Keleti-Karolina-szigeteken. Ma a fal maradványai a Mikronéziában töltött rövid, de meghatározó spanyol korszak jelentős történelmi emlékének számítanak.",
+      ro: "Zidul Spaniol din Kolonia, Pohnpei, a fost construit în 1887 ca parte a Fortului Alphonso XIII. A servit drept centru administrativ și defensiv pentru guvernul colonial spaniol din Insulele Caroline de Est. Astăzi, resturile zidului rămân un reper istoric semnificativ al erei spaniole scurte, dar de impact, în Micronezia.",
+      en: "The Spanish Wall in Kolonia, Pohnpei, was constructed in 1887 as part of Fort Alphonso XIII. It served as the administrative and defensive center for the Spanish colonial government in the Eastern Caroline Islands. Today, the remnants of the wall stand as a significant historical marker of the brief but impactful Spanish era in Micronesia.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1887.", "Teil des ehemaligen Fort Alphonso XIII.", "Verwendete Korallenblöcke als Baumaterial.", "Ursprünglich über 2 Meter hoch.", "Schützte die Residenz des spanischen Gouverneurs.", "Befindet sich im Stadtzentrum von Kolonia."],
+      hu: ["1887-ben épült.", "Az egykori Alphonso XIII erőd része.", "Építéséhez koralltömböket használtak.", "Eredetileg több mint 2 méter magas volt.", "A spanyol kormányzó rezidenciáját védte.", "Kolonia városközpontjában található."],
+      ro: ["Construit în anul 1887.", "Parte a fostului Fort Alphonso XIII.", "S-au folosit blocuri de corali ca material.", "Înălțime originală de peste 2 metri.", "Proteja reședința guvernatorului spaniol.", "Situat în centrul orașului Kolonia."],
+      en: ["Constructed in the year 1887.", "Part of the former Fort Alphonso XIII.", "Used coral blocks as building material.", "Originally over 2 meters high.", "Protected the Spanish governor's residence.", "Located in the town center of Kolonia."],
+    },
   },
   {
     id: "micronesia-chuuk-lagoon-wrecks-history-v2",
@@ -76,6 +112,18 @@ export const micronesiaHistoryV2: POI[] = [
       en: ["Sunk during Operation Hailstone in 1944.", "Over 50 ships and 250 aircraft on the seabed.", "The lagoon was Japan's most vital base.", "Recognized as an official war grave."],
     },
     imageHint: "Underwater shipwreck Chuuk Lagoon diving",
+    descriptionAdvanced: {
+      de: "Die Wracks der Chuuk-Lagune sind die Überreste einer massiven japanischen Flotte, die 1944 während der Operation Hailstone versenkt wurde. Über 50 Schiffe und 250 Flugzeuge liegen auf dem Meeresboden und bilden eines der weltweit größten Unterwassermuseen. Die Stätte ist sowohl ein bedeutendes Tauchziel als auch ein offizielles Kriegsgrab.",
+      hu: "A Chuuk-lagúna roncsai egy hatalmas japán flotta maradványai, amelyet 1944-ben süllyesztettek el a Hailstone hadművelet során. Több mint 50 hajó és 250 repülőgép fekszik a tengerfenéken, a világ egyik legnagyobb víz alatti múzeumát alkotva. A helyszín egyszerre jelentős búvárparadicsom és hivatalos katonai sírhely.",
+      ro: "Epavele din Laguna Chuuk sunt rămășițele unei flote japoneze masive scufundate în 1944 în timpul Operațiunii Hailstone. Peste 50 de nave și 250 de avioane zac pe fundul mării, formând unul dintre cele mai mari muzee subacvatice din lume. Locul este atât o destinație majoră de scufundări, cât și un mormânt de război oficial.",
+      en: "The Chuuk Lagoon Wrecks are the remains of a massive Japanese fleet sunk in 1944 during Operation Hailstone. Over 50 ships and 250 aircraft lie on the seabed, forming one of the world's largest underwater museums. The site serves as both a major diving destination and an official war grave.",
+    },
+    factsAdvanced: {
+      de: ["Versunken am 17. und 18. Februar 1944.", "Über 50 japanische Schiffe wurden zerstört.", "Beinhaltet das berühmte Wrack der Fujikawa Maru.", "Operation Hailstone war ein US-Luftangriff.", "Wassertiefen variieren von 5 bis 60 Metern.", "Gilt als offizielles japanisches Kriegsgrab."],
+      hu: ["1944. február 17-én és 18-án süllyedtek el.", "Több mint 50 japán hajó semmisült meg.", "Itt található a híres Fujikawa Maru roncsa.", "A Hailstone hadművelet amerikai légitámadás volt.", "A vízmélység 5 és 60 méter között változik.", "Hivatalos japán háborús sírhelynek minősül."],
+      ro: ["Scufundate pe 17 și 18 februarie 1944.", "Peste 50 de nave japoneze au fost distruse.", "Include celebra epavă a navei Fujikawa Maru.", "Operațiunea Hailstone a fost un atac aerian al SUA.", "Adâncimile variază între 5 și 60 de metri.", "Considerat cimitir de război oficial japonez."],
+      en: ["Sunk on February 17 and 18, 1944.", "Over 50 Japanese ships were destroyed.", "Includes the famous wreck of the Fujikawa Maru.", "Operation Hailstone was a US aerial assault.", "Water depths vary from 5 to 60 meters.", "Recognized as an official Japanese war grave."],
+    },
   },
   {
     id: "micronesia-yap-stone-money-banks-history-v2",
@@ -95,6 +143,18 @@ export const micronesiaHistoryV2: POI[] = [
       en: ["The stones were originally quarried in Palau.", "Value is based on size and history.", "Some stones weigh several tons.", "They are still used today for ceremonial trades."],
     },
     imageHint: "Yap stone money Rai standing in village",
+    descriptionAdvanced: {
+      de: "Die Steingeldbanken von Yap präsentieren die berühmten Rai-Steine, riesige Kalksteinscheiben, die über Jahrhunderte als Währung dienten. Diese Steine wurden ursprünglich im 400 km entfernten Palau abgebaut und unter großen Gefahren mit Kanus transportiert. Ihr Wert bemisst sich nicht nur nach der Größe, sondern vor allem nach der Geschichte und dem Risiko ihres Transports.",
+      hu: "A yapi kőpénzbankok a híres Rai-köveket mutatják be, amelyek hatalmas mészkőkorongok, és évszázadokon át fizetőeszközként szolgáltak. Ezeket a köveket eredetileg a 400 km-re lévő Palaun bányászták, és nagy veszélyek árán, kenukkal szállították ide. Értéküket nemcsak méretük, hanem történetük és a szállításuk kockázata határozza meg.",
+      ro: "Băncile de bani de piatră din Yap prezintă faimoasele pietre Rai, discuri uriașe de calcar care au servit drept monedă timp de secole. Aceste pietre au fost extrase inițial din Palau, aflat la 400 km distanță, și transportate cu canoe în condiții periculoase. Valoarea lor este determinată nu doar de mărime, ci și de istoria și riscul transportului lor.",
+      en: "The Yap Stone Money Banks showcase the famous Rai stones, massive limestone discs used as currency for centuries. These stones were originally quarried in Palau, 400 km away, and transported via canoes under perilous conditions. Their value is determined not only by size but also by the history and risk associated with their transport.",
+    },
+    factsAdvanced: {
+      de: ["Die Steine bestehen aus Aragonit oder Kalzit.", "Größte Steine haben 4 Meter Durchmesser.", "Bänke befinden sich oft in der Nähe von Männerhäusern.", "Der Besitz wechselt, ohne den Stein zu bewegen.", "Wurden bis in das frühe 20. Jahrhundert genutzt.", "Auf Yap gibt es über 6.000 registrierte Steine."],
+      hu: ["A kövek aragonitból vagy kalcitból állnak.", "A legnagyobbak átmérője eléri a 4 métert.", "A bankok gyakran férfiházak közelében vannak.", "A tulajdonjog változik, a kő mozgatása nélkül.", "A 20. század elejéig használták őket.", "Yapon több mint 6000 regisztrált kő található."],
+      ro: ["Pietrele sunt din aragonit sau calcit.", "Cele mai mari au 4 metri în diametru.", "Băncile sunt adesea lângă casele bărbaților.", "Proprietatea se schimbă fără a mișca piatra.", "Au fost folosite până la începutul secolului XX.", "Există peste 6.000 de pietre înregistrate în Yap."],
+      en: ["The stones are made of aragonite or calcite.", "Largest stones reach 4 meters in diameter.", "Banks are often located near village men's houses.", "Ownership changes without moving the stone.", "Used as primary currency until the early 20th century.", "There are over 6,000 registered stones on Yap."],
+    },
   },
   {
     id: "micronesia-sokehs-rock-history-v2",
@@ -114,6 +174,18 @@ export const micronesiaHistoryV2: POI[] = [
       en: ["Site of the uprising against German administration.", "Home to Japanese gun emplacements from WWII.", "Provides a panoramic view over Kolonia.", "The rebels were eventually exiled to Palau."],
     },
     imageHint: "Sokehs Rock mountain Pohnpei",
+    descriptionAdvanced: {
+      de: "Sokehs Rock, auch als Paipalap bekannt, ist eine markante Basaltformation auf Pohnpei mit einer Höhe von 191 Metern. Er spielte eine zentrale Rolle während des Sokehs-Aufstands gegen die deutsche Kolonialherrschaft im Jahr 1910. Die Klippen bieten nicht nur eine strategische Aussicht, sondern sind auch ein wichtiges kulturelles Symbol für den Widerstand der Pohnpeianer.",
+      hu: "A Sokehs-szikla, más néven Paipalap, egy jellegzetes bazaltképződmény Pohnpeiben, magassága 191 méter. Központi szerepet játszott az 1910-es Sokehs-lázadásban a német gyarmati uralom ellen. A sziklák nemcsak stratégiai kilátást nyújtanak, hanem a pohnpei-i ellenállás fontos kulturális szimbólumai is.",
+      ro: "Stânca Sokehs, cunoscută și sub numele de Paipalap, este o formațiune de bazalt proeminentă din Pohnpei, cu o înălțime de 191 de metri. A jucat un rol central în timpul Rebeliunii Sokehs împotriva dominației coloniale germane în 1910. Stâncile oferă nu doar o vedere strategică, ci sunt și un simbol cultural important al rezistenței localnicilor.",
+      en: "Sokehs Rock, also known as Paipalap, is a prominent basalt formation on Pohnpei standing 191 meters high. It played a central role during the Sokehs Rebellion against German colonial rule in 1910. The cliffs not only offer a strategic vantage point but also serve as a key cultural symbol of Pohnpeian resistance.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe beträgt 191 Meter.", "Besteht aus vulkanischem Basaltgestein.", "Sokehs-Aufstand begann im Oktober 1910.", "Gipfel beherbergt japanische WKII-Artillerie.", "Wanderweg führt zu historischen Befestigungen.", "Wahrzeichen der Insel Pohnpei."],
+      hu: ["Maximális magassága 191 méter.", "Vulkanikus bazaltkőzetből áll.", "A Sokehs-lázadás 1910 októberében kezdődött.", "A csúcson japán második világháborús ágyúk vannak.", "Túraösvény vezet a történelmi erődítményekhez.", "Pohnpei szigetének legismertebb jelképe."],
+      ro: ["Înălțimea maximă este de 191 de metri.", "Formată din rocă bazaltică vulcanică.", "Rebeliunea Sokehs a început în octombrie 1910.", "Vârful găzduiește artilerie japoneză din al Doilea Război Mondial.", "Traseul duce la fortificații istorice.", "Punct de reper iconic al insulei Pohnpei."],
+      en: ["Maximum height is 191 meters.", "Composed of volcanic basalt rock.", "The Sokehs Rebellion began in October 1910.", "Summit houses Japanese WWII artillery pieces.", "Hiking trail leads to historical fortifications.", "Iconic landmark of Pohnpei island."],
+    },
   },
   {
     id: "micronesia-menke-ruins-history-v2",
@@ -133,6 +205,18 @@ export const micronesiaHistoryV2: POI[] = [
       en: ["Oldest archaeological site on Kosrae.", "Center of the Sinlaku religion before missionaries.", "Consists of stone platforms and chambers.", "Accessible only via a rainforest hike."],
     },
     imageHint: "Ancient stone ruins in jungle Kosrae",
+    descriptionAdvanced: {
+      de: "Die Menke-Ruinen auf Kosrae sind ein antiker religiöser Ort, der der Göttin Sinlaku gewidmet war. Die Stätte umfasst basaltische Plattformen und Mauern, die tief im Regenwald verborgen liegen. Sinlaku war die letzte traditionelle Gottheit, bevor das Christentum in der Mitte des 19. Jahrhunderts die Insel erreichte, und die Ruinen gelten als ihr letzter Zufluchtsort.",
+      hu: "A kosrae-i Menke-romok egy ősi vallási helyszín, amelyet Sinlaku istennőnek szenteltek. A terület bazaltplatformokat és falakat foglal magában, amelyek mélyen az esőerdőben rejtőznek. Sinlaku volt az utolsó hagyományos istenség, mielőtt a kereszténység a 19. század közepén elérte a szigetet, a romok pedig az utolsó menedékhelyének számítanak.",
+      ro: "Ruinele Menke din Kosrae sunt un sit religios antic dedicat zeiței Sinlaku. Situl cuprinde platforme și ziduri de bazalt ascunse adânc în pădurea tropicală. Sinlaku a fost ultima divinitate tradițională înainte ca creștinismul să ajungă pe insulă la mijlocul secolului al XIX-lea, iar ruinele sunt considerate ultimul ei refugiu.",
+      en: "The Menke Ruins on Kosrae are an ancient religious site dedicated to the goddess Sinlaku. The site features basalt platforms and walls hidden deep within the rainforest. Sinlaku was the last traditional deity before Christianity reached the island in the mid-19th century, and the ruins are considered her final refuge.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich im Menke-Tal auf Kosrae.", "Zentrum der Verehrung der Göttin Sinlaku.", "Bauweise nutzt massives Basaltgestein.", "Um 1850 wurde der Kult aufgegeben.", "Ruinen liegen in dichtem Dschungelgebiet.", "Wichtiger Ort für traditionelle Heilkunde."],
+      hu: ["A kosrae-i Menke-völgyben található.", "Sinlaku istennő imádatának központja volt.", "Építéséhez tömör bazaltot használtak.", "A kultusz 1850 körül szűnt meg.", "A romok sűrű dzsungelben fekszenek.", "A hagyományos gyógyászat fontos helyszíne."],
+      ro: ["Situat în Valea Menke din Kosrae.", "Centrul venerării zeiței Sinlaku.", "Construcția folosește rocă bazaltică masivă.", "Cultul a fost abandonat în jurul anului 1850.", "Ruinele sunt situate în junglă densă.", "Loc important pentru medicina tradițională."],
+      en: ["Located in the Menke Valley on Kosrae.", "Center of worship for the goddess Sinlaku.", "Construction utilizes massive basalt stones.", "The cult was abandoned around 1850.", "Ruins are situated in dense jungle terrain.", "Important site for traditional herbal medicine."],
+    },
   },
   {
     id: "micronesia-japanese-radio-station-history-v2",
@@ -152,6 +236,18 @@ export const micronesiaHistoryV2: POI[] = [
       en: ["Built in the 1930s.", "Massive concrete building in Art Deco style.", "Heavily damaged by US bombs in 1944.", "Serves today as a historical monument."],
     },
     imageHint: "Damaged Japanese radio station building Kolonia",
+    descriptionAdvanced: {
+      de: "Die japanische Funkstation in Sapwalap auf Pohnpei war eine strategische Kommunikationseinrichtung während des Zweiten Weltkriegs. Die massiven Betonruinen zeugen von der intensiven Militarisierung der Insel durch Japan in den 1930er und 40er Jahren. Trotz schwerer Bombardierungen durch alliierte Streitkräfte sind die Strukturen weitgehend erhalten geblieben und dienen heute als historisches Mahnmal.",
+      hu: "A pohnpei-i Sapwalapban található japán rádióállomás stratégiai kommunikációs létesítmény volt a második világháború alatt. A masszív betonromok Japán 1930-as és 40-es évekbeli intenzív militarizációjáról tanúskodnak. A szövetséges erők súlyos bombázásai ellenére a szerkezetek nagyrészt épségben maradtak, és ma történelmi mementóként szolgálnak.",
+      ro: "Stația radio japoneză din Sapwalap, Pohnpei, a fost o facilitate de comunicații strategică în timpul celui de-al Doilea Război Mondial. Ruinele masive de beton atestă militarizarea intensă a insulei de către Japonia în anii 1930 și 1940. În ciuda bombardamentelor grele ale forțelor aliate, structurile au rămas în mare parte intacte și servesc astăzi ca memorial istoric.",
+      en: "The Japanese Radio Station in Sapwalap, Pohnpei, was a strategic communication facility during World War II. The massive concrete ruins testify to Japan's intensive militarization of the island in the 1930s and 40s. Despite heavy bombing by Allied forces, the structures remain largely intact and serve today as a historical memorial.",
+    },
+    factsAdvanced: {
+      de: ["In den frühen 1940er Jahren erbaut.", "Verwendete extrem dicken Stahlbeton.", "Zentrale für Funk- und Telegrafendienste.", "Wurde 1944 von US-Bombern angegriffen.", "Befindet sich im Distrikt Madolenihmw.", "Strukturen zeigen noch Einschlaglöcher."],
+      hu: ["Az 1940-es évek elején épült.", "Rendkívül vastag vasbetont használtak.", "Rádió- és távírószolgáltatások központja.", "1944-ben amerikai bombatámadás érte.", "Madolenihmw körzetében található.", "A falakon ma is látszanak a becsapódási nyomok."],
+      ro: ["Construită la începutul anilor 1940.", "S-a folosit beton armat extrem de gros.", "Centru pentru servicii radio și telegrafice.", "Atacată de bombardierele americane în 1944.", "Situată în districtul Madolenihmw.", "Structurile prezintă încă urme de impact."],
+      en: ["Constructed in the early 1940s.", "Utilized extremely thick reinforced concrete.", "Center for radio and telegraph services.", "Targeted by US bombers in 1944.", "Located in the Madolenihmw district.", "Structures still show shell impact marks."],
+    },
   },
   {
     id: "micronesia-bechiyal-cultural-village-history-v2",
@@ -171,6 +267,18 @@ export const micronesiaHistoryV2: POI[] = [
       en: ["Famous for the oldest men's house on Yap.", "Traditional construction without metal nails.", "Listed on the Register of Historic Places.", "The paths are paved with coral stones."],
     },
     imageHint: "Traditional Yapese meeting house Bechiyal",
+    descriptionAdvanced: {
+      de: "Das Kulturdorf Bechiyal auf Yap bewahrt die traditionelle Architektur und Lebensweise der yapi-insulaner. Besonders bekannt ist es für sein prachtvolles Faluw, ein traditionelles Männerhaus direkt an der Küste. Das Dorf dient als lebendiges Museum, in dem alte Techniken des Bootsbaus und der Weberei sowie die sozialen Hierarchien der Inselgemeinschaft veranschaulicht werden.",
+      hu: "A yapi Bechiyal skanzen a szigetlakók hagyományos építészetét és életmódját őrzi. Különösen híres pompás Faluw-járól, amely egy közvetlenül a parton álló hagyományos férfiház. A falu élő múzeumként szolgál, ahol bemutatják a hajóépítés és szövés ősi technikáit, valamint a sziget közösségének társadalmi hierarchiáját.",
+      ro: "Satul cultural Bechiyal din Yap păstrează arhitectura tradițională și modul de viață al insularilor. Este cunoscut în special pentru Faluw-ul său splendid, o casă tradițională a bărbaților situată chiar pe coastă. Satul servește ca un muzeu viu unde sunt ilustrate tehnici vechi de construcție a bărcilor și de țesut, precum și ierarhiile sociale ale comunității.",
+      en: "Bechiyal Cultural Village on Yap preserves the traditional architecture and way of life of the Yapese people. It is especially famous for its magnificent Faluw, a traditional men's house situated right on the coast. The village serves as a living museum, illustrating ancient boat-building and weaving techniques as well as the social hierarchies of the island community.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich auf der Insel Maap.", "Beherbergt ein historisches Männerhaus (Faluw).", "Erbaut nach traditionellen Bindetechniken.", "Keine Nägel in der Konstruktion verwendet.", "Ausgestellt wird dort auch Steingeld (Rai).", "Zählt zu den ältesten Dörfern der Region."],
+      hu: ["Maap szigetén található.", "Itt látható egy történelmi férfiház (Faluw).", "Hagyományos kötési technikákkal épült.", "Az építéshez nem használtak szegeket.", "Kőpénzeket (Rai) is kiállítanak itt.", "A régió egyik legrégebbi falujának számít."],
+      ro: ["Situat pe insula Maap.", "Găzduiește o casă istorică a bărbaților (Faluw).", "Construit folosind tehnici tradiționale de legare.", "Nu s-au folosit cuie în construcție.", "Sunt expuși și bani de piatră (Rai).", "Considerat unul dintre cele mai vechi sate din regiune."],
+      en: ["Located on Maap Island.", "Features a historic men's house (Faluw).", "Built using traditional lashing techniques.", "No nails were used in the construction.", "Stone money (Rai) is displayed here.", "Considered one of the oldest villages in the region."],
+    },
   },
   {
     id: "micronesia-tamilyog-stone-money-bank-history-v2",
@@ -190,6 +298,18 @@ export const micronesiaHistoryV2: POI[] = [
       en: ["Contains stones over 2 meters in diameter.", "Stones were transported by canoe from Palau.", "Ownership changes are passed down orally.", "Significant ceremonial site for local clans."],
     },
     imageHint: "Large stone money discs on jungle path Yap",
+    descriptionAdvanced: {
+      de: "Die Tamilyog-Steingeldbank in Rull auf Yap ist eine der bedeutendsten Sammlungen von Rai-Steinen auf der Insel. Diese riesigen Kalksteinscheiben sind entlang der traditionellen Steinpfade aufgereiht und repräsentieren den Reichtum lokaler Familien. Die Stätte bietet einen tiefen Einblick in das komplexe soziale und wirtschaftliche System, das in Yap trotz moderner Einflüsse weiterhin respektiert wird.",
+      hu: "A yapi Rullban található Tamilyog kőpénzbank a Rai-kövek egyik legjelentősebb gyűjteménye a szigeten. Ezek a hatalmas mészkőkorongok a hagyományos kőösvények mentén sorakoznak, és a helyi családok gazdagságát jelképezik. A helyszín mély betekintést nyújt abba a komplex társadalmi és gazdasági rendszerbe, amelyet Yapon a modern hatások ellenére ma is tisztelnek.",
+      ro: "Banca de bani de piatră Tamilyog din Rull, Yap, este una dintre cele mai importante colecții de pietre Rai de pe insulă. Aceste discuri uriașe de calcar sunt aliniate de-a lungul potecilor tradiționale de piatră și reprezintă bogăția familiilor locale. Situl oferă o perspectivă profundă asupra sistemului social și economic complex care continuă să fie respectat în Yap.",
+      en: "The Tamilyog Stone Money Bank in Rull, Yap, is one of the most significant collections of Rai stones on the island. These massive limestone discs are lined up along traditional stone paths and represent the wealth of local families. The site offers deep insight into the complex social and economic system that continues to be respected in Yap despite modern influences.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich in der Gemeinde Rull.", "Einige Steine sind mehrere hundert Jahre alt.", "Steine wurden aus Palau herantransportiert.", "Die Bank liegt an einem Steinpfad.", "Rai-Steine dienen als zeremonielle Währung.", "Wird oft für Clan-Transaktionen genutzt."],
+      hu: ["Rull községben található.", "Némelyik kő több száz éves.", "A köveket Palauról szállították ide.", "A bank egy kőösvény mentén fekszik.", "A Rai-kövek ceremoniális fizetőeszközök.", "Gyakran használják klánok közötti ügyletekhez."],
+      ro: ["Situat în municipalitatea Rull.", "Unele pietre au o vechime de sute de ani.", "Pietrele au fost transportate din Palau.", "Banca este situată lângă o potecă de piatră.", "Pietrele Rai servesc ca monedă ceremonială.", "Folosit adesea pentru tranzacții între clanuri."],
+      en: ["Located in the Rull municipality.", "Some stones are several hundred years old.", "Stones were transported from Palau.", "The bank is situated along a stone path.", "Rai stones serve as ceremonial currency.", "Frequently used for clan-level transactions."],
+    },
   },
   {
     id: "micronesia-wiir-ruins-history-v2",
@@ -209,6 +329,18 @@ export const micronesiaHistoryV2: POI[] = [
       en: ["Constructed from basalt and coral stone.", "Typical of pre-colonial local architecture.", "Often associated with ancient burial sites.", "Partially overgrown by dense vegetation."],
     },
     imageHint: "Ancient stone platforms ruins Chuuk",
+    descriptionAdvanced: {
+      de: "Die Wiir-Ruinen auf der Insel Tonoas (Chuuk) sind Überreste einer antiken basaltischen Wohnanlage eines chuukesischen Häuptlings. Die Stätte umfasst monumentale Plattformen und Terrassen, die auf eine hoch entwickelte soziale Struktur in vor-kolonialer Zeit hinweisen. In der lokalen Mythologie ist der Ort eng mit den Legenden der Gründungsväter von Chuuk verbunden.",
+      hu: "A Tonoas-szigeten (Chuuk) található Wiir-romok egy ősi chuuki főnöki bazalt lakókomplexum maradványai. A helyszín monumentális platformokat és teraszokat foglal magában, amelyek a gyarmatosítás előtti kor fejlett társadalmi szerkezetére utalnak. A helyi mitológiában a terület szorosan kötődik Chuuk alapító atyáinak legendáihoz.",
+      ro: "Ruinele Wiir de pe insula Tonoas (Chuuk) sunt rămășițele unui complex rezidențial antic de bazalt al unui șef din Chuuk. Situl cuprinde platforme și terase monumentale care indică o structură socială sofisticată în perioada precolonială. În mitologia locală, locul este strâns legat de legendele părinților fondatori ai Chuuk-ului.",
+      en: "The Wiir Ruins on Tonoas Island (Chuuk) are the remains of an ancient basaltic residential complex of a Chuukese chief. The site includes monumental platforms and terraces that point to a highly developed social structure in pre-colonial times. In local mythology, the location is closely linked to the legends of the founding fathers of Chuuk.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich auf der Insel Tonoas.", "Besteht aus massiven Basalt-Plattformen.", "Einst Residenz hoher chuukesischer Häuptlinge.", "Datierung weist auf die vor-koloniale Ära hin.", "Insel hieß unter japanischer Herrschaft Dublon.", "Ort bietet Ausblick auf die Lagune."],
+      hu: ["Tonoas szigetén található.", "Masszív bazaltplatformokból áll.", "Egykor magas rangú chuuki főnökök rezidenciája.", "A gyarmatosítás előtti korszakból származik.", "A sziget japán neve Dublon volt.", "A helyszínről kilátás nyílik a lagúnára."],
+      ro: ["Situat pe insula Tonoas.", "Format din platforme masive de bazalt.", "A fost reședința unor șefi de rang înalt din Chuuk.", "Datat în perioada precolonială.", "Insula a fost numită Dublon sub stăpânire japoneză.", "Locul oferă o vedere panoramică asupra lagunei."],
+      en: ["Located on Tonoas Island.", "Composed of massive basalt platforms.", "Former residence of high Chuukese chiefs.", "Dates back to the pre-colonial era.", "The island was named Dublon during Japanese rule.", "Site offers a strategic view over the lagoon."],
+    },
   },
   {
     id: "micronesia-sapwuahfik-massacre-site-history-v2",
@@ -228,6 +360,18 @@ export const micronesiaHistoryV2: POI[] = [
       en: ["Carried out by the crew of the ship 'Lambreton'.", "Led to a complete repopulation of the island.", "A turning point in the atoll's history.", "Maintained today as a sacred memorial site."],
     },
     imageHint: "Sapwuahfik atoll memorial beach",
+    descriptionAdvanced: {
+      de: "Die Sapwuahfik-Massaker-Stätte auf dem Ngatik-Atoll erinnert an das tragische Ereignis von 1837, bei dem fast alle männlichen Bewohner von der Besatzung des Schiffes Lamino getötet wurden. Angeführt vom britischen Kapitän Hart, führte der Konflikt zur fast vollständigen Auslöschung der ursprünglichen Kultur des Atolls. Heute ist die Stätte ein wichtiger Ort des Gedenkens für die Nachkommen der Überlebenden.",
+      hu: "A Ngatik-atollon található Sapwuahfik mészárlás helyszíne az 1837-es tragikus eseményre emlékeztet, amikor a Lamino hajó legénysége szinte az összes férfit megölte. A brit Hart kapitány vezette konfliktus az atoll eredeti kultúrájának majdnem teljes pusztulásához vezetett. Ma a helyszín fontos emlékhely a túlélők leszármazottai számára.",
+      ro: "Locul masacrului din Sapwuahfik de pe atolul Ngatik comemorează evenimentul tragic din 1837, când aproape toți bărbații au fost uciși de echipajul navei Lamino. Condus de căpitanul britanic Hart, conflictul a dus la distrugerea aproape totală a culturii originale a atolului. Astăzi, situl este un loc important de memorie pentru descendenții supraviețuitorilor.",
+      en: "The Sapwuahfik Massacre Site on Ngatik Atoll commemorates the tragic event of 1837 when almost all male inhabitants were killed by the crew of the ship Lamino. Led by British Captain Hart, the conflict led to the near-total destruction of the atoll's original culture. Today, the site serves as an important place of remembrance for the descendants of the survivors.",
+    },
+    factsAdvanced: {
+      de: ["Massaker ereignete sich im Juli 1837.", "Das Atoll war damals als Ngatik bekannt.", "Angreifer kamen auf dem Schiff Lamino.", "Kapitän C.H. Hart leitete den Angriff.", "Ziel war der Raub von Schildpatt.", "Führte zur Neubesiedlung durch Pohnpeianer."],
+      hu: ["A mészárlás 1837 júliusában történt.", "Az atollt akkoriban Ngatiknak hívták.", "A támadók a Lamino nevű hajóval érkeztek.", "C.H. Hart kapitány vezette a támadást.", "A cél a teknőspáncél megszerzése volt.", "Ezután pohnpeiek telepedtek le a szigeten."],
+      ro: ["Masacrul a avut loc în iulie 1837.", "Atolul era cunoscut atunci sub numele de Ngatik.", "Atacatorii au sosit pe nava Lamino.", "Căpitanul C.H. Hart a condus atacul.", "Scopul a fost jefuirea de carapace de țestoasă.", "A dus la repopularea cu oameni din Pohnpei."],
+      en: ["The massacre occurred in July 1837.", "The atoll was then known as Ngatik.", "Attackers arrived on the vessel Lamino.", "Captain C.H. Hart directed the assault.", "Goal was to seize turtle shells (tortoiseshell).", "Led to resettlement by Pohnpeian people."],
+    },
   },
   {
     id: "micronesia-nantaku-communication-center-history-v2",
@@ -247,6 +391,18 @@ export const micronesiaHistoryV2: POI[] = [
       en: ["Part of an extensive tunnel system.", "Withstood heavy Allied aerial bombardments.", "Technical details are still visible inside.", "Key destination for military historians."],
     },
     imageHint: "Concrete Japanese WWII bunker Chuuk",
+    descriptionAdvanced: {
+      de: "Das Nantaku-Kommunikationszentrum auf dem Berg Sapuk (Weno, Chuuk) war ein wichtiger japanischer Beobachtungs- und Funkstützpunkt. Die massiven Betonbunker und die Überreste eines Leuchtturms dienten der Überwachung der Lagunenzufahrten während des Zweiten Weltkriegs. Von diesem strategischen Punkt aus koordinierte das japanische Militär die Verteidigung gegen alliierte Luftangriffe.",
+      hu: "A Weno szigetén (Chuuk) található Nantaku kommunikációs központ a Sapuk-hegyen egy fontos japán megfigyelő- és rádióbázis volt. A masszív betonbunkerek és egy világítótorony maradványai a lagúna bejáratainak ellenőrzését szolgálták a második világháború alatt. Erről a stratégiai pontról koordinálta a japán hadsereg a szövetséges légitámadások elleni védelmet.",
+      ro: "Centrul de comunicații Nantaku de pe Muntele Sapuk (Weno, Chuuk) a fost o importantă bază japoneză de observare și radio. Buncărele masive de beton și resturile unui far au servit la monitorizarea intrărilor în lagună în timpul celui de-al Doilea Război Mondial. Din acest punct strategic, armata japoneză a coordonat apărarea împotriva atacurilor aeriene aliate.",
+      en: "The Nantaku Communication Center on Mount Sapuk (Weno, Chuuk) was a key Japanese observation and radio base. The massive concrete bunkers and remains of a lighthouse served to monitor lagoon entrances during World War II. From this strategic point, the Japanese military coordinated defense against Allied air raids.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich auf dem Mount Sapuk (Weno).", "Erbaut in den 1930er Jahren.", "Beinhaltet Bunker und einen Leuchtturm.", "Diente der Überwachung der Nord-Passage.", "Japanische Geschütze sind noch vor Ort.", "Wichtiges Ziel alliierter Bombenangriffe."],
+      hu: ["A Sapuk-hegyen található (Weno).", "Az 1930-as években épült.", "Bunkereket és egy világítótornyot is tartalmaz.", "Az északi átjáró megfigyelésére szolgált.", "Japán ágyúk ma is láthatók a helyszínen.", "A szövetséges bombázások egyik fő célpontja."],
+      ro: ["Situat pe Muntele Sapuk (Weno).", "Construit în anii 1930.", "Include buncăre și un far.", "A servit la monitorizarea Pasajului de Nord.", "Tunuri japoneze sunt încă prezente la fața locului.", "O țintă majoră a bombardamentelor aliate."],
+      en: ["Located on Mount Sapuk, Weno Island.", "Constructed in the 1930s.", "Features bunkers and a lighthouse.", "Used for monitoring the North Passage.", "Japanese coastal guns are still on-site.", "Major target for Allied bombing missions."],
+    },
   },
   {
     id: "micronesia-paliikir-historical-base-history-v2",
@@ -266,5 +422,17 @@ export const micronesiaHistoryV2: POI[] = [
       en: ["Once the site of numerous aircraft hangars.", "The current city was built over the base site.", "Many Japanese relics were found during construction.", "Paliikir became the official capital in 1989."],
     },
     imageHint: "Paliikir government buildings Pohnpei landscape",
+    descriptionAdvanced: {
+      de: "Der historische Stützpunkt Paliikir auf Pohnpei war während des Zweiten Weltkriegs ein bedeutender japanischer Luftwaffenstützpunkt. Die Stätte umfasste Startbahnen, Hangars und Verteidigungsanlagen, die strategisch im Norden der Insel angelegt wurden. Nach dem Krieg verfielen die Anlagen, doch heute bildet das Gebiet den Kern von Palikir, dem Regierungssitz der Föderierten Staaten von Mikronesien.",
+      hu: "A pohnpei-i Paliikir történelmi bázis jelentős japán légibázis volt a második világháború alatt. A helyszín kifutópályákat, hangárokat és védelmi létesítményeket foglalt magában, amelyeket stratégiailag a sziget északi részén alakítottak ki. A háború után a létesítmények pusztulásnak indultak, de ma ez a terület alkotja Palikirt, a Mikronéziai Szövetségi Államok kormányzati központját.",
+      ro: "Baza istorică Paliikir din Pohnpei a fost o bază aeriană japoneză semnificativă în timpul celui de-al Doilea Război Mondial. Situl cuprindea piste, hangare și instalații defensive amplasate strategic în nordul insulei. După război, facilitățile s-au degradat, dar astăzi zona formează nucleul Palikir-ului, sediul guvernului Statelor Federate ale Microneziei.",
+      en: "The Paliikir Historical Base on Pohnpei was a significant Japanese airbase during World War II. The site included airstrips, hangars, and defensive installations strategically placed in the north of the island. After the war, the facilities fell into ruin, but today the area forms the core of Palikir, the capital of the Federated States of Micronesia.",
+    },
+    factsAdvanced: {
+      de: ["Wurde als japanischer Militärflughafen erbaut.", "Beherbergte zahlreiche Kampfflugzeuge.", "Wurde 1944 durch US-Angriffe neutralisiert.", "In der Nähe befinden sich versunkene Panzer.", "1989 wurde dort das Regierungszentrum eröffnet.", "Basaltruinen sind teils noch sichtbar."],
+      hu: ["Japán katonai repülőtérnek épült.", "Számos vadászgép állomásozott itt.", "1944-ben amerikai támadások bénították meg.", "A közelben elsüllyedt harckocsik is találhatók.", "1989-ben nyílt meg itt a kormányzati negyed.", "Bazaltromok részben ma is láthatók."],
+      ro: ["Construită ca aeroport militar japonez.", "A găzduit numeroase avioane de vânătoare.", "Neutralizată de atacurile SUA în 1944.", "În apropiere se află tancuri scufundate.", "Centrul guvernamental a fost deschis aici în 1989.", "Ruine de bazalt sunt încă parțial vizibile."],
+      en: ["Built as a Japanese military airfield.", "Housed numerous fighter aircraft.", "Neutralized by US attacks in 1944.", "Sunken tanks are located in the vicinity.", "Government center was established here in 1989.", "Some basalt ruins remain visible today."],
+    },
   }
 ];

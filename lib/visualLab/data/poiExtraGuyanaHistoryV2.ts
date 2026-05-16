@@ -72,7 +72,20 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       hu: ["A neve azt jelenti: \\\"Mindenen átnéző\\\".", "Egykor Essequibo gyarmat központja volt."],
       ro: ["Numele înseamnă \\\"Privește peste tot\\\".", "A fost cândva centrul coloniei Essequibo."],
       en: ["The name translates to \\\"See over all\\\".", "It was once the center of the Essequibo colony."]
-    }, image: "/poi-images/gy-kyk-over-al-history-v2.webp"}, {
+    }, image: "/poi-images/gy-kyk-over-al-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Fort Kyk-Over-Al war eine niederländische Festung aus dem 17. Jahrhundert in der Kolonie Essequibo, dem heutigen Guyana. Es liegt auf einer kleinen Insel am Zusammenfluss der Flüsse Cuyuni, Mazaruni und Essequibo. Der Name bedeutet auf Niederländisch „Blick über alles“, was die strategische Lage verdeutlicht. Das Fort diente über ein Jahrhundert lang als administratives Zentrum der niederländischen Westindien-Kompanie.",
+      hu: "Fort Kyk-Over-Al egy 17. századi holland erőd volt az Essequibo kolóniában, a mai Guyana területén. Egy kis szigeten épült a Cuyuni, a Mazaruni és az Essequibo folyók találkozásánál. Neve hollandul annyit tesz: „Kilátás mindenre”, utalva stratégiai elhelyezkedésére. Több mint egy évszázadon át a Holland Nyugat-indiai Társaság közigazgatási központjaként szolgált.",
+      ro: "Fort Kyk-Over-Al a fost o fortăreață olandeză din secolul al XVII-lea în colonia Essequibo, actuala Guyana. Este situată pe o mică insulă la confluența râurilor Cuyuni, Mazaruni și Essequibo. Numele înseamnă „Vedere peste tot” în olandeză, evidențiind poziția sa strategică. Timp de peste un secol, a servit drept centru administrativ al Companiei Olandeze a Indiilor de Vest.",
+      en: "Fort Kyk-Over-Al was a 17th-century Dutch fort in the Essequibo colony, present-day Guyana. It is located on a small island at the confluence of the Cuyuni, Mazaruni, and Essequibo rivers. The name translates from Dutch as 'See over all,' reflecting its strategic vantage point. For over a century, the fort served as the administrative headquarters for the Dutch West India Company in the region.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut um das Jahr 1616", "Sitz des Gouverneurs der Kolonie Essequibo", "Gelegen am Zusammenfluss von drei großen Flüssen", "1748 als administratives Zentrum aufgegeben", "Heute sind nur noch Ruinen des Ziegelmauerwerks erhalten", "Insel hat eine Fläche von nur etwa 1,5 Hektar"],
+      hu: ["1616 körül építették a hollandok", "Az Essequibo-gyarmat kormányzójának székhelye volt", "Három nagy folyó összefolyásánál fekszik", "1748-ban szűnt meg közigazgatási központ lenni", "Mára csak a téglafalak romjai maradtak meg", "A sziget területe mindössze 1,5 hektár"],
+      ro: ["Construit în jurul anului 1616", "Sediul guvernatorului coloniei Essequibo", "Situat la confluența a trei râuri majore", "Abandonat ca centru administrativ în 1748", "Astăzi se mai păstrează doar ruinele porții de cărămidă", "Insula are o suprafață de aproximativ 1,5 hectare"],
+      en: ["Built around 1616 by the Dutch", "Seat of government for the Essequibo colony", "Located at the junction of the Cuyuni, Mazaruni, and Essequibo", "Abandoned as an administrative center in 1748", "Only the brick ruins of the main gateway remain today", "The island covers an area of roughly 1.5 hectares"],
+    },
+  }, {
     id: "gy-fort-nassau-history-v2",
     type: "historical",
     parent: "GY-EB",

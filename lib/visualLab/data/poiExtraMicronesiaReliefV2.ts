@@ -19,6 +19,18 @@ export const micronesiaReliefV2: POI[] = [
       en: ["178 meters elevation", "Highest point of Yap State", "Central mountain ridge", "Composed of metamorphic rock"],
     },
     imageHint: "Mount Tabiwol Yap island landscape",
+    descriptionAdvanced: {
+      de: "Der Mount Tabiwol ist die höchste Erhebung der Hauptinsel von Yap. Obwohl er im Vergleich zu anderen pazifischen Gipfeln niedrig ist, bietet er einen Panoramablick über die Lagune und die umliegenden Dörfer. Der Berg ist von tropischem Wald bedeckt und beherbergt Überreste aus der Zeit der japanischen Besatzung. Wanderwege führen Besucher durch eine vielfältige Flora zum Gipfel.",
+      hu: "A Tabiwol-hegy Yap főszigetének legmagasabb pontja. Bár más csendes-óceáni csúcsokhoz képest alacsony, panorámás kilátást nyújt a lagúnára és a környező falvakra. A hegyet trópusi erdő borítja, és a japán megszállás idejéből származó maradványok is megtalálhatók rajta. Turistaútvonalak vezetnek a csúcsra a változatos flórán keresztül.",
+      ro: "Muntele Tabiwol este cel mai înalt punct de pe insula principală Yap. Deși are o altitudine modestă în comparație cu alte vârfuri pacifice, oferă o vedere panoramică asupra lagunei și satelor din jur. Muntele este acoperit de pădure tropicală și conține vestigii din perioada ocupației japoneze. Traseele de drumeție duc vizitatorii spre vârf printr-o floră diversă.",
+      en: "Mount Tabiwol is the highest elevation on the main island of Yap. Although modest in height compared to other Pacific peaks, it offers panoramic views of the surrounding lagoon and traditional villages. The mountain is blanketed in tropical forest and contains historical remnants from the Japanese occupation period. Hiking trails guide visitors through diverse flora to the summit.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt von Yap mit 178 Metern über dem Meer", "Standort ehemaliger japanischer Flugabwehrstellungen", "Gipfel bietet Sicht auf die vier Gemeinden von Yap", "Flora umfasst seltene Orchideen und Farne", "Wanderung zum Gipfel dauert etwa 45 Minuten", "Wichtiger Ort für lokale Funk- und Kommunikationsanlagen"],
+      hu: ["Yap legmagasabb pontja, 178 méterrel a tengerszint felett", "Egykori japán légvédelmi állások helyszíne", "A csúcsról Yap mind a négy községe belátható", "Flórája ritka orchideákat és páfrányokat tartalmaz", "A túra a csúcsra körülbelül 45 percet vesz igénybe", "Fontos helyszín a helyi rádió- és kommunikációs tornyoknak"],
+      ro: ["Cel mai înalt punct din Yap, având 178 de metri", "Locație pentru foste poziții antiaeriene japoneze", "Vârful oferă vedere spre cele patru municipalități", "Flora include orhidee rare și ferigi endemice", "Drumeția până la vârf durează aproximativ 45 de minute", "Găzduiește facilități importante de comunicații"],
+      en: ["Highest point on Yap, rising 178 meters above sea level", "Site of former Japanese anti-aircraft installations", "The summit provides views of Yap's four municipalities", "Flora includes rare orchids and tropical ferns", "The hike to the summit takes approximately 45 minutes", "Host to critical local radio and communication towers"],
+    },
   },
   {
     id: "micronesia-mount-ngihnen-relief-v2",
@@ -38,6 +50,18 @@ export const micronesiaReliefV2: POI[] = [
       en: ["772 meters elevation", "Second highest peak in FSM", "Dense rainforest coverage", "Near Mount Nanlaud summit"],
     },
     imageHint: "Mount Ngihnen Pohnpei central highlands",
+    descriptionAdvanced: {
+      de: "Der Mount Ngihnen ist einer der markanten Gipfel auf der Insel Pohnpei. Er ist Teil des zerklüfteten vulkanischen Zentrums der Insel, das für seine extrem hohen Niederschlagsraten bekannt ist. Der Berg ist fast ständig in Wolken gehüllt, was zur Entstehung einzigartiger Nebelwälder geführt hat. Die Hänge sind steil und mit endemischen Pflanzenarten bewachsen, die nur in diesem Mikroklima gedeihen.",
+      hu: "A Ngihnen-hegy Pohnpei szigetének egyik jellegzetes csúcsa. A sziget szaggatott vulkáni központjának része, amely rendkívül magas csapadékmennyiségéről ismert. A hegyet szinte folyamatosan felhők borítják, ami egyedülálló köderdők kialakulásához vezetett. A meredek lejtőket olyan endemikus növényfajok borítják, amelyek csak ebben a mikroklímában élnek meg.",
+      ro: "Muntele Ngihnen este unul dintre vârfurile proeminente de pe insula Pohnpei. Face parte din centrul vulcanic accidentat al insulei, regiune cunoscută pentru precipitațiile extrem de ridicate. Muntele este aproape permanent acoperit de nori, favorizând formarea unor păduri de ceață unice. Versanții sunt abrupți și acoperiți cu specii de plante endemice.",
+      en: "Mount Ngihnen is one of the prominent peaks on the island of Pohnpei. It is part of the island's rugged volcanic interior, a region known for receiving some of the highest rainfall levels on Earth. The peak is frequently shrouded in clouds, sustaining a unique cloud forest ecosystem. Its steep slopes are home to endemic plant species that thrive only in this specific microclimate.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zu den niederschlagsreichsten Orten der Welt", "Gipfelregion ist Heimat der endemischen Pohnpei-Palme", "Besteht aus massivem vulkanischem Basaltgestein", "Teil der zentralen Gebirgskette von Pohnpei", "Wichtiger Wasserspeicher für die Flüsse der Insel", "Aufstieg ist aufgrund ständiger Nässe sehr anspruchsvoll"],
+      hu: ["A világ egyik legcsapadékosabb helyének számít", "A csúcs környéke az endemikus pohnpei-pálma otthona", "Masszív vulkanikus bazaltkőzetből épül fel", "Pohnpei központi hegyláncának egyik fontos tagja", "A sziget folyóinak legfontosabb vízutánpótlási forrása", "A megmászása a folyamatos nedvesség miatt nehéz"],
+      ro: ["Considerat unul dintre cele mai umede locuri de pe Glob", "Zona de vârf găzduiește palmierul endemic de Pohnpei", "Format din roci masive de bazalt vulcanic", "Parte a lanțului muntos central de pe insulă", "Sursă vitală de apă pentru râurile din Pohnpei", "Ascensiunea este dificilă din cauza umidității constante"],
+      en: ["Considered one of the wettest locations on Earth", "The summit area hosts the endemic Pohnpei palm tree", "Formed from massive volcanic basalt rock formations", "Part of the rugged central mountain range of Pohnpei", "A vital watershed for the island's many rivers", "Climbing is challenging due to constant wet conditions"],
+    },
   },
   {
     id: "micronesia-sleeping-lady-relief-v2",
@@ -57,6 +81,18 @@ export const micronesiaReliefV2: POI[] = [
       en: ["Part of the Mount Leluh ridge", "Visible from Tofol town", "Important local cultural icon", "Distinctive volcanic profile"],
     },
     imageHint: "Kosrae Sleeping Lady mountain silhouette",
+    descriptionAdvanced: {
+      de: "Die 'Sleeping Lady' ist eine ikonische Gebirgsformation auf Kosrae, deren Silhouette an eine liegende Frau erinnert. Sie erstreckt sich über das Zentrum der Insel und ist von fast jedem Küstenpunkt aus sichtbar. Lokale Legenden erzählen von einer mythischen Gestalt, die sich hier zur Ruhe legte. Die Formation besteht aus mehreren bewaldeten Gipfeln, darunter der Mount Mutunte.",
+      hu: "A 'Sleeping Lady' (Alvó Hölgy) egy ikonikus hegyformáció Kosrae szigetén, amelynek sziluettje egy fekvő nőre emlékeztet. A sziget központjában húzódik, és szinte minden part menti pontról jól látható. A helyi legendák egy mitikus alakról mesélnek, aki itt tért nyugovóra. A formáció több erdős csúcsból áll, köztük a Mutunte-hegyből.",
+      ro: "'Sleeping Lady' este o formațiune muntoasă iconică din Kosrae, a cărei siluetă seamănă cu o femeie întinsă. Se întinde în centrul insulei și este vizibilă din aproape orice punct de pe coastă. Legendele locale vorbesc despre o figură mitică ce s-a întins aici pentru a se odihni. Formațiunea include mai multe vârfuri, printre care muntele Mutunte.",
+      en: "The 'Sleeping Lady' is an iconic mountain formation on Kosrae, named for its striking silhouette resembling a reclining woman. Stretching across the island's interior, it is visible from nearly every coastal vantage point. Local legends recount the tale of a mythical figure who chose this spot for eternal rest. The formation comprises several lush peaks, including Mount Mutunte.",
+    },
+    factsAdvanced: {
+      de: ["Die Formation umfasst den 589 Meter hohen Mount Mutunte", "Symbolfigur der Insel und oft in der Kunst dargestellt", "Silhouette ist besonders deutlich von Lelu aus sichtbar", "Besteht aus vulkanischem Gestein der letzten Millionen Jahre", "Dichte Regenwälder bedecken den gesamten 'Körper'", "Wichtigstes Wahrzeichen für die Identität der Kosraer"],
+      hu: ["A formáció része az 589 méter magas Mutunte-hegy", "A sziget szimbóluma, gyakran ábrázolják a művészetben", "A sziluett különösen tisztán látszik Lelu irányából", "Az elmúlt évmilliók vulkáni tevékenysége alakította ki", "Sűrű esőerdő borítja a teljes 'testet'", "A kosraei nép identitásának legfontosabb jelképe"],
+      ro: ["Formațiunea include muntele Mutunte de 589 de metri", "Simbol al insulei, reprezentat frecvent în artă", "Silueta este vizibilă cel mai clar din zona Lelu", "Formată din roci vulcanice în ultimele milioane de ani", "Păduri tropicale dense acoperă întreaga siluetă", "Cel mai important punct de reper cultural pentru localnici"],
+      en: ["The formation includes Mount Mutunte, rising 589 meters", "Central symbol of the island featured in local art", "The silhouette is most distinct when viewed from Lelu", "Formed by volcanic activity millions of years ago", "Dense rainforests cover the entire mountain profile", "Primary landmark for the cultural identity of Kosrae"],
+    },
   },
   {
     id: "micronesia-mount-teroken-relief-v2",
@@ -76,6 +112,18 @@ export const micronesiaReliefV2: POI[] = [
       en: ["364 meters elevation", "Highest point of Weno Island", "Site of Japanese war caves", "Volcanic hill terrain"],
     },
     imageHint: "Mount Teroken Weno Island Chuuk",
+    descriptionAdvanced: {
+      de: "Der Mount Teroken ist der höchste Berg auf der Insel Weno im Bundesstaat Chuuk. Er ist bekannt für seine strategische Bedeutung während des Zweiten Weltkriegs, als die Japaner Tunnel und Geschützstellungen in seine Flanken gruben. Wanderer können heute die historischen Relikte erkunden und den Ausblick auf die Chuuk-Lagune genießen. Der Berg ist steil und von Sekundärwald bewachsen.",
+      hu: "A Teroken-hegy Weno szigetének legmagasabb pontja Chuuk államban. A második világháború alatti stratégiai jelentőségéről ismert, amikor a japánok alagutakat és ágyúállásokat fúrtak az oldalaiba. A túrázók ma felfedezhetik a történelmi ereklyéket, és élvezhetik a Chuuk-lagúnára nyíló kilátást. A hegy meredek, és másodlagos erdő borítja.",
+      ro: "Muntele Teroken este cel mai înalt munte de pe insula Weno, în statul Chuuk. Este cunoscut pentru importanța sa strategică în al Doilea Război Mondial, când japonezii au săpat tuneluri și poziții de artilerie în versanții săi. Astăzi, turiștii pot explora vestigiile istorice și se pot bucura de vederea asupra Lagunei Chuuk. Muntele este abrupt și împădurit.",
+      en: "Mount Teroken is the highest peak on Weno Island in Chuuk State. It is renowned for its strategic importance during World War II, when Japanese forces excavated tunnels and gun emplacements into its slopes. Hikers today can explore these historical relics while enjoying sweeping views of the vast Chuuk Lagoon. The mountain features steep terrain covered in secondary forest growth.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel von Weno mit ca. 364 Metern", "Enthält zahlreiche japanische Tunnel aus dem Jahr 1944", "Bietet 360-Grad-Blick über die gesamte Chuuk-Lagune", "Wanderweg beginnt oft in der Nähe des Dorfes Sapuk", "Vulkanischer Ursprung mit Basaltformationen", "Wichtiger Standort für Fernmeldeantennen"],
+      hu: ["Weno legmagasabb csúcsa, kb. 364 méteres magassággal", "Számos 1944-ből származó japán alagutat tartalmaz", "360 fokos panorámát nyújt a teljes Chuuk-lagúnára", "A túraútvonal gyakran Sapuk falu közeléből indul", "Vulkáni eredetű, markáns bazaltképződményekkel", "Fontos távközlési antennák találhatók a csúcsán"],
+      ro: ["Cel mai înalt vârf din Weno, având circa 364 metri", "Adăpostește numeroase tuneluri japoneze din 1944", "Oferă o panoramă de 360 de grade asupra lagunei", "Traseul pornește de obicei din apropierea satului Sapuk", "Origine vulcanică cu formațiuni de bazalt vizibile", "Locație strategică pentru antene de telecomunicații"],
+      en: ["Highest peak on Weno island, at approx. 364 meters", "Contains numerous Japanese tunnels built in 1944", "Provides a 360-degree view over the Chuuk Lagoon", "The hiking trail often begins near Sapuk village", "Volcanic in origin with prominent basalt formations", "Strategically located for telecommunication towers"],
+    },
   },
   {
     id: "micronesia-mount-oma-relief-v2",
@@ -95,6 +143,18 @@ export const micronesiaReliefV2: POI[] = [
       en: ["476 meters elevation", "Deep in Kosrae rainforest", "Volcanic basalt rock", "Popular trekking destination"],
     },
     imageHint: "Mount Oma Kosrae jungle peak",
+    descriptionAdvanced: {
+      de: "Der Mount Oma ist eine markante Erhebung auf der Insel Kosrae, die für ihre dichte Vegetation und die archäologischen Stätten in ihrer Nähe bekannt ist. Der Berg ist Teil des vulkanischen Rückgrats der Insel und weist steile Abhänge auf. In den tieferen Lagen finden sich Spuren alter Siedlungen und landwirtschaftlicher Terrassen. Er ist ein wichtiges Ziel für naturkundliche Wanderungen.",
+      hu: "Az Oma-hegy Kosrae szigetének egyik jellegzetes magaslata, amely sűrű növényzetéről és a közelében található régészeti lelőhelyekről ismert. A hegy a sziget vulkanikus gerincének része, és meredek lejtők jellemzik. Az alacsonyabb szinteken ősi települések és mezőgazdasági teraszok nyomai találhatók. A természetjáró túrák kedvelt célpontja.",
+      ro: "Muntele Oma este o înălțime proeminentă de pe insula Kosrae, cunoscută pentru vegetația sa densă și siturile arheologice din proximitate. Muntele face parte din coloana vertebrală vulcanică a insulei și prezintă pante abrupte. În zonele mai joase se găsesc urme ale vechilor așezări și terase agricole. Este o destinație importantă pentru drumeții.",
+      en: "Mount Oma is a distinctive peak on the island of Kosrae, noted for its dense tropical vegetation and proximity to ancient archaeological sites. Part of the island's volcanic backbone, the mountain features rugged terrain and steep slopes. Traces of prehistoric settlements and agricultural terraces can be found in the lower elevations. It is a popular destination for nature-focused trekking.",
+    },
+    factsAdvanced: {
+      de: ["Erreicht eine Höhe von 476 Metern über dem Meer", "Wanderwege führen durch unberührten Regenwald", "In der Nähe befinden sich die Menke-Ruinen", "Heimat für viele endemische Vogelarten von Kosrae", "Besteht aus geologisch altem vulkanischem Material", "Wichtiger Teil des Wassereinzugsgebiets der Insel"],
+      hu: ["A tengerszint felett 476 méteres magasságot ér el", "A túraútvonalak érintetlen esőerdőkön vezetnek át", "A közelében találhatók a híres Menke-romok", "Kosrae számos endemikus madárfajának otthona", "Geológiailag ősi vulkáni anyagokból épül fel", "A sziget vízgyűjtő területének fontos része"],
+      ro: ["Atinge o altitudine de 476 de metri deasupra mării", "Traseele de drumeție traversează pădurea virgină", "Ruinele Menke se află în imediata sa apropiere", "Găzduiește multe specii de păsări endemice din Kosrae", "Format din materiale vulcanice vechi din punct de vedere geologic", "Parte esențială a bazinului hidrografic al insulei"],
+      en: ["Reaches an elevation of 476 meters above sea level", "Hiking trails traverse through pristine rainforest", "Located near the significant ancient Menke Ruins", "Habitat for many of Kosrae's endemic bird species", "Composed of geologically ancient volcanic material", "Forms a crucial part of the island's watershed system"],
+    },
   },
   {
     id: "micronesia-dolohmwar-relief-v2",
@@ -114,5 +174,17 @@ export const micronesiaReliefV2: POI[] = [
       en: ["Elevation approximately 760m", "Part of the central highlands", "Dense tropical vegetation", "Located in Pohnpei State"],
     },
     imageHint: "Dolohmwar Pohnpei mountain ridge",
+    descriptionAdvanced: {
+      de: "Der Dolohmwar, auch als Mount Nahna Laud bekannt, ist der höchste Gipfel der Insel Pohnpei und der gesamten Föderierten Staaten von Mikronesien. Er liegt im zerklüfteten Zentrum der Insel und ist fast ständig von dichten Wolken umhüllt. Das Gebiet erhält einige der weltweit höchsten Niederschlagsmengen. Aufgrund der extremen Feuchtigkeit beherbergt der Berg seltene Nebelwald-Ökosysteme.",
+      hu: "A Dolohmwar, más néven Nahna Laud, Pohnpei szigetének és a Mikronéziai Szövetségi Államoknak a legmagasabb pontja. A sziget szaggatott központjában található, és szinte folyamatosan sűrű felhők borítják. Ez a terület a világ egyik legcsapadékosabb pontja. A rendkívüli nedvességnek köszönhetően a hegy ritka köderdő-ökoszisztémáknak ad otthont.",
+      ro: "Dolohmwar, cunoscut și sub numele de Muntele Nahna Laud, este cel mai înalt vârf de pe insula Pohnpei și din Statele Federate ale Microneziei. Este situat în centrul accidentat al insulei și este aproape constant învăluit în nori denși. Zona primește unele dintre cele mai mari cantități de precipitații din lume, găzduind ecosisteme rare.",
+      en: "Dolohmwar, also known as Mount Nahna Laud, is the highest peak on Pohnpei and the entire Federated States of Micronesia. Located in the island's rugged interior, it is nearly perpetually shrouded in dense clouds. The area receives some of the highest annual rainfall levels recorded globally. This extreme humidity sustains rare and fragile cloud forest ecosystems at its summit.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt der Föderierten Staaten mit 791 Metern", "Jahresniederschlag übersteigt oft 8000 Millimeter", "Name bedeutet in der Landessprache 'Großer Berg'", "Besteht aus massiven vulkanischen Gesteinsformationen", "Kernzone eines bedeutenden Wasserschutzgebiets", "Nur über schwierige, oft schlammige Pfade erreichbar"],
+      hu: ["A Szövetségi Államok legmagasabb pontja, 791 méter", "Az éves csapadékmennyiség gyakran meghaladja a 8000 mm-t", "Neve a helyi nyelven 'Nagy Hegyet' jelent", "Masszív vulkanikus kőzetformációkból épül fel", "Egy jelentős vízvédelmi terület központi zónája", "Csak nehéz, gyakran sáros ösvényeken érhető el"],
+      ro: ["Cel mai înalt punct din țară, având 791 de metri", "Precipitațiile anuale depășesc adesea 8000 mm", "Numele înseamnă 'Muntele Mare' în limba locală", "Format din structuri masive de rocă vulcanică", "Zona centrală a unei importante rezervații hidrologice", "Accesibil doar prin poteci dificile și noroioase"],
+      en: ["Highest point in the FSM, rising to 791 meters", "Annual rainfall often exceeds 8,000 millimeters", "The name translates to 'Great Mountain' in Pohnpeian", "Formed from massive volcanic rock structures", "The core zone of a major watershed forest reserve", "Accessible only via strenuous and often muddy trails"],
+    },
   }
 ];

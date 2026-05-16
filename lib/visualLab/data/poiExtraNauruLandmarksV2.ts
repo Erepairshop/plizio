@@ -19,6 +19,18 @@ export const nauruLandmarksV2: POI[] = [
       en: ["Seat of the unicameral parliament", "Located in the Yaren government district", "Consists of 19 elected members", "Built in the late 20th century"],
     },
     imageHint: "Parliament House of Nauru in Yaren district",
+    descriptionAdvanced: {
+      de: "Das Parlamentsgebäude von Nauru ist der Sitz der Legislative des Landes und befindet sich im Distrikt Yaren. In diesem modernen Gebäude finden die Parlamentssitzungen statt, in denen wichtige Gesetze und Richtlinien debattiert werden. Es ist ein Symbol für die Souveränität Naurus und sein 1968 etabliertes demokratisches System. Das Gebäude liegt zentral in der Nähe anderer Regierungsbüros.",
+      hu: "A naurui Parlament az ország törvényhozó ágának székhelye, amely a Yaren kerületben található. Ez a modern építmény ad otthont a parlamenti üléseknek, ahol a kritikus nemzeti törvényekről és politikákról döntenek. Nauru szuverenitásának és az 1968-as függetlenedés után kiépült demokratikus rendszernek a jelképe. Az épület központi elhelyezkedésű, más kormányzati irodák közelében található.",
+      ro: "Casa Parlamentului din Nauru este sediul puterii legislative a națiunii, situată în districtul Yaren. Această structură modernă servește ca loc de desfășurare a sesiunilor parlamentare unde sunt dezbătute legile și politicile naționale. Este un simbol al suveranității statului Nauru și al sistemului său democratic stabilit după 1968. Clădirea este poziționată central, aproape de alte birouri oficiale.",
+      en: "The Parliament House of Nauru is the seat of the nation's legislative branch, located in the Yaren District. This modern structure serves as the site for parliamentary sessions where critical national laws and policies are debated. It is a symbol of Nauru's sovereignty and its democratic system established after gaining independence in 1968. The building is centrally positioned near other offices.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich im Distrikt Yaren", "Sitz des nauruischen Parlaments", "Ort der nationalen Gesetzgebung", "Symbol der Souveränität seit 1968", "Moderne Regierungsarchitektur", "In der Nähe des Flughafens gelegen"],
+      hu: ["Yaren kerületben található", "A naurui parlament székhelye", "A nemzeti törvényhozás helyszíne", "A szuverenitás szimbóluma 1968 óta", "Modern kormányzati építészet", "A nemzetközi repülőtér közelében van"],
+      ro: ["Situată în districtul Yaren", "Sediul Parlamentului din Nauru", "Locul legislaturii naționale", "Simbol al suveranității din 1968", "Arhitectură guvernamentală modernă", "Aproape de aeroportul internațional"],
+      en: ["Located in the Yaren District", "Seat of the Nauruan Parliament", "Site of national lawmaking", "Symbol of sovereignty since 1968", "Modern government architecture", "Proximity to the international airport"],
+    },
   },
   {
     id: "nauru-museum-landmarks-v2",
@@ -38,6 +50,18 @@ export const nauruLandmarksV2: POI[] = [
       en: ["Displays traditional Nauruan art", "Houses relics of the Japanese occupation", "Documents the colonial history", "Serves as the main cultural center"],
     },
     imageHint: "Nauru National Museum with historical artifacts",
+    descriptionAdvanced: {
+      de: "Das Nauru-Museum ist die wichtigste Institution zur Bewahrung des kulturellen und industriellen Erbes der Insel. In Yaren gelegen, konzentrieren sich seine Exponate auf die Geschichte des Phosphatabbaus und die Auswirkungen des Zweiten Weltkriegs. Das Museum zeigt zudem traditionelle Artefakte, die den Lebensstil des nauruischen Volkes widerspiegeln. Es ist eine wichtige Bildungsressource.",
+      hu: "A Nauru Múzeum az elsődleges intézmény, amely a sziget kulturális és ipari örökségének megőrzésével foglalkozik. A Yarenben található kiállítások a foszfátbányászat történetére és a második világháború nemzetre gyakorolt hatására összpontosítanak. A múzeum hagyományos tárgyakat is bemutat, amelyek a naurui nép egyedi életmódját tükrözik. Alapvető oktatási forrás a látogatók számára.",
+      ro: "Muzeul Nauru este principala instituție dedicată conservării moștenirii culturale și industriale a insulei. Situat în Yaren, exponatele sale se concentrează pe istoria mineritului de fosfat și pe impactul celui de-al Doilea Război Mondial. Muzeul expune, de asemenea, artefacte tradiționale care reflectă stilul de viață unic al poporului nauruan. Este o resursă educațională esențială.",
+      en: "The Nauru Museum is the primary institution dedicated to preserving the cultural and industrial heritage of the island. Located in Yaren, its exhibits focus on the history of phosphate mining and the significant impact of World War II on the nation. The museum also displays traditional artifacts that reflect the unique lifestyle of the Nauruan people. It is an essential educational resource.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich im Distrikt Yaren", "Dem nauruischen Erbe gewidmet", "Zeigt Exponate zum Zweiten Weltkrieg", "Präsentiert die Bergbaugeschichte", "Stellt traditionelle Inselartefakte aus", "Wichtiges kulturelles Bildungszentrum"],
+      hu: ["Yaren kerületben található", "A naurui örökségnek szentelve", "Második világháborús kiállítások", "Bemutatja a foszfátbányászatot", "Hagyományos szigeti tárgyakat mutat be", "Fontos oktatási és kulturális központ"],
+      ro: ["Situat în districtul Yaren", "Dedicat moștenirii nauruane", "Prezintă exponate din al Doilea Război", "Expune istoria minelor de fosfat", "Afișează artefacte tradiționale", "Centru cultural și educațional important"],
+      en: ["Located in the Yaren District", "Dedicated to Nauruan heritage", "Features WWII historical exhibits", "Showcases phosphate mining history", "Displays traditional island artifacts", "Important educational cultural center"],
+    },
   },
   {
     id: "nauru-command-ridge-landmarks-v2",
@@ -57,6 +81,18 @@ export const nauruLandmarksV2: POI[] = [
       en: ["Highest point on the island", "Former Japanese observation post", "Features two large 12.7cm guns", "Overlooks the phosphate plateau"],
     },
     imageHint: "Command Ridge Nauru with WWII Japanese guns",
+    descriptionAdvanced: {
+      de: "Command Ridge ist der höchste Punkt auf Nauru und erreicht eine Höhe von 71 Metern über dem Meeresspiegel. Während des Zweiten Weltkriegs nutzten die japanischen Besatzungskräfte den Hügel als strategischen Beobachtungsposten und Militärbunker. Heute können Besucher noch verrostete Flugabwehrkanonen und Überreste der Befestigungen sehen. Der Bergrücken bietet einen Panoramablick über die Insel.",
+      hu: "A Command Ridge Nauru legmagasabb pontja, 71 méterrel a tengerszint felett. A második világháború alatt a megszálló japán erők stratégiai megfigyelőpontként és katonai bunkerként használták. Ma a látogatók még mindig láthatják a rozsdás légvédelmi ágyúkat és a háborús erődítmények maradványait. A dombtetőről panorámás kilátás nyílik a szigetre és a környező Csendes-óceánra.",
+      ro: "Command Ridge este cel mai înalt punct din Nauru, atingând o altitudine de 71 de metri deasupra nivelului mării. În timpul celui de-al Doilea Război Mondial, a fost folosit de forțele japoneze ca punct strategic de observație și buncăr militar. Astăzi, vizitatorii pot vedea tunuri antiaeriene ruginite și rămășițe ale fortificațiilor. Creasta oferă o vedere panoramică asupra întregii insule.",
+      en: "Command Ridge is the highest point on Nauru, reaching an elevation of 71 meters above sea level. During World War II, it was used by the occupying Japanese forces as a strategic observation post and military bunker. Today, visitors can still see rusted anti-aircraft guns and remnants of the wartime fortifications. The ridge offers a panoramic view of the island and the surrounding Pacific Ocean.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt mit 71 Metern", "Japanischer Militärposten im 2. WK", "Strategischer Aussichtspunkt", "Enthält verrostete Flugabwehrkanonen", "Befindet sich im Distrikt Aiwo", "Panoramablick über die Insel"],
+      hu: ["Legmagasabb pont, 71 méter", "Japán katonai poszt a 2. vh. alatt", "Stratégiai megfigyelőhely", "Rozsdás légvédelmi ágyúkat tartalmaz", "Aiwo kerületben található", "Panorámás kilátás a szigetre"],
+      ro: ["Cel mai înalt punct, 71 de metri", "Post militar japonez din al Doilea Război", "Punct strategic de observație", "Conține tunuri antiaeriene ruginite", "Situat în districtul Aiwo", "Vedere panoramică asupra insulei"],
+      en: ["Highest point at 71 meters", "WWII Japanese military post", "Strategic observation viewpoint", "Contains rusted anti-aircraft guns", "Located in the Aiwo District", "Panoramic views of the island"],
+    },
   },
   {
     id: "nauru-phosphate-cantilever-landmarks-v2",
@@ -76,6 +112,18 @@ export const nauruLandmarksV2: POI[] = [
       en: ["Most important industrial landmark", "Allows loading without a deep harbor", "Two large cantilevers exist on the coast", "Dominates the Aiwo district skyline"],
     },
     imageHint: "Nauru phosphate cantilever loading structure",
+    descriptionAdvanced: {
+      de: "Der Phosphat-Cantilever ist eine massive Industriestruktur, die dazu dient, abgebautes Phosphat direkt auf Schiffe zu laden. An der Küste von Aiwo gelegen, repräsentiert er seit über einem Jahrhundert den wichtigsten Wirtschaftsfaktor Naurus. Diese Ingenieurleistung ermöglichte das Beladen großer Schiffe trotz des steilen Meeresabfalls. Er bleibt ein prägendes Merkmal der Küstenlinie der Insel.",
+      hu: "A foszfát-kantilever egy hatalmas ipari szerkezet, amellyel a kibányászott foszfátot közvetlenül a hajókra rakodják. Aiwo partján található, és több mint egy évszázada Nauru elsődleges gazdasági mozgatórugóját képviseli. Ez a mérnöki bravúr lehetővé tette a nagy hajók megrakodását a part közeli meredek tengeri letörés ellenére. A partvonal meghatározó eleme és a naurui ipar jelképe maradt.",
+      ro: "Cantileverul de fosfat este o structură industrială masivă folosită pentru a încărca fosfatul minat direct pe nave. Situat pe coasta din Aiwo, acesta reprezintă principalul motor economic al Nauru de peste un secol. Această realizare inginerească a permis încărcarea navelor mari în ciuda adâncimii abrupte a oceanului lângă țărm. Rămâne o trăsătură dominantă a coastei și un simbol al industriei.",
+      en: "The Phosphate Cantilever is a massive industrial structure used to load mined phosphate directly onto ships. Situated on the coast of Aiwo, it represents the primary economic driver of Nauru for over a century. The engineering feat allowed large vessels to be loaded despite the steep ocean drop-off near the shore. It remains a dominant feature of the coastline and a symbol of Nauru's industry.",
+    },
+    factsAdvanced: {
+      de: ["Massives Ladesystem für Schiffe", "An der Küste von Aiwo gelegen", "Symbol der Phosphatindustrie", "Ingenieurlösung für tiefes Wasser", "Seit den frühen 1900er Jahren aktiv", "Prägendes Wahrzeichen der Insel"],
+      hu: ["Hatalmas rakodórendszer hajókhoz", "Aiwo partvonalán található", "A foszfátipar szimbóluma", "Mérnöki megoldás a mély vízhez", "Az 1900-as évek eleje óta üzemel", "A sziget meghatározó nevezetessége"],
+      ro: ["Sistem masiv de încărcare pentru nave", "Situat pe linia de coastă din Aiwo", "Simbol al industriei de fosfat", "Soluție inginerească pentru ape adânci", "Operațional de la începutul anilor 1900", "Reper dominant al insulei"],
+      en: ["Massive loading system for ships", "Located on the Aiwo coastline", "Symbol of the phosphate industry", "Engineering solution for deep water", "Operational since the early 1900s", "Dominant landmark of the island"],
+    },
   },
   {
     id: "nauru-civic-centre-landmarks-v2",
@@ -95,6 +143,18 @@ export const nauruLandmarksV2: POI[] = [
       en: ["Venue for government meetings", "Located near the coastal road", "Houses offices and conference rooms", "Hub of economic life in Aiwo"],
     },
     imageHint: "Aiwo Civic Centre building Nauru",
+    descriptionAdvanced: {
+      de: "Das Aiwo Civic Centre dient als zentraler Knotenpunkt für Gemeinschaftsdienste und die öffentliche Verwaltung auf Nauru. Es beherbergt verschiedene Regierungsbüros, eine öffentliche Bibliothek sowie Räume für lokale Veranstaltungen. Das Zentrum ist ein Treffpunkt für Einwohner und bietet eine wichtige soziale Infrastruktur. Durch die Lage im Distrikt Aiwo ist es für die Bevölkerung gut erreichbar.",
+      hu: "Az Aiwo Polgári Központ a közösségi szolgáltatások és a közigazgatás központi csomópontjaként szolgál Naurun. Számos kormányzati irodának, egy nyilvános könyvtárnak, valamint helyi rendezvényeknek és találkozóknak ad otthont. A központ a lakosok találkozóhelye, amely alapvető szociális és adminisztratív infrastruktúrát biztosít. Aiwo kerületben elfoglalt helye könnyen elérhetővé teszi mindenki számára.",
+      ro: "Centrul Civic Aiwo servește ca hub central pentru serviciile comunitare și administrația publică din Nauru. Acesta găzduiește diverse birouri guvernamentale, o bibliotecă publică și spații pentru evenimente locale. Centrul este un loc de întâlnire pentru rezidenți, oferind infrastructură socială și administrativă esențială. Locația sa în districtul Aiwo îl face foarte accesibil pentru populație.",
+      en: "The Aiwo Civic Centre serves as a central hub for community services and public administration on Nauru. It hosts various government offices, a public library, and spaces for local events and meetings. The center is a gathering place for residents, providing essential social and administrative infrastructure. Its location in the busy Aiwo District makes it highly accessible for the population.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich im Distrikt Aiwo", "Zentrum für Gemeinschaftsdienste", "Beherbergt die öffentliche Bibliothek", "Ort für lokale Regierungstreffen", "Verwaltungs- und Sozialzentrum", "Öffentlich zugängliche Einrichtung"],
+      hu: ["Aiwo kerületben található", "Közösségi szolgáltatások központja", "A nemzeti könyvtár otthona", "Helyi kormányzati ülések helyszíne", "Adminisztratív és szociális központ", "Könnyen elérhető közintézmény"],
+      ro: ["Situat în districtul Aiwo", "Hub pentru servicii comunitare", "Găzduiește biblioteca publică națională", "Loc pentru întâlniri guvernamentale", "Centru administrativ și social", "Facilitate publică accesibilă"],
+      en: ["Located in the Aiwo District", "Hub for community services", "Houses the national public library", "Venue for local government meetings", "Administrative and social center", "Accessible public facility"],
+    },
   },
   {
     id: "nauru-yaren-police-station-landmarks-v2",
@@ -114,6 +174,18 @@ export const nauruLandmarksV2: POI[] = [
       en: ["Headquarters of Nauru Police Force", "Responsible for the entire island", "Key administrative institution", "Located within the government hub"],
     },
     imageHint: "Nauru Police Force headquarters in Yaren",
+    descriptionAdvanced: {
+      de: "Die Polizeistation von Yaren ist das Hauptquartier der Strafverfolgungsbehörden auf der Insel Nauru. Sie befindet sich im Hauptstadtdistrikt Yaren und gewährleistet die öffentliche Sicherheit sowie die Notfallversorgung. Die Station ist für die Aufrechterhaltung der Ordnung und die Abstimmung mit anderen Justizeinrichtungen zuständig. Ihre Präsenz ist für die rechtliche Infrastruktur wichtig.",
+      hu: "A yareni rendőrkapitányság a rendfenntartó erők elsődleges központja Nauru szigetén. A fővárosi Yaren kerületben található, biztosítja a közbiztonságot és kezeli a lakosság segélyhívásait. A kapitányság felelős a rend fenntartásáért és a más igazságügyi intézményekkel való koordinációért. Jelenléte létfontosságú a közösség számára, tükrözve a sziget jogi infrastruktúráját.",
+      ro: "Secția de Poliție Yaren este sediul principal pentru aplicarea legii pe insula Nauru. Situată în districtul capitală Yaren, aceasta asigură siguranța publică și gestionează răspunsurile de urgență pentru populație. Secția este responsabilă pentru menținerea ordinii și coordonarea cu alte instituții judiciare. Prezența sa este vitală pentru comunitate, reflectând infrastructura juridică a insulei.",
+      en: "The Yaren Police Station is the primary headquarters for law enforcement on the island of Nauru. Located in the capital district of Yaren, it ensures public safety and manages emergency responses for the population. The station is responsible for maintaining order and coordinating with other judicial institutions. Its presence is vital for the community, reflecting the island's legal infrastructure.",
+    },
+    factsAdvanced: {
+      de: ["Hauptquartier der Strafverfolgung", "Befindet sich im Distrikt Yaren", "Zentrum für öffentliche Sicherheit", "Koordiniert Notfalleinsätze", "In der Nähe von Regierungsbüros", "Zuständig für die Justizpflege"],
+      hu: ["A fő rendfenntartó központ", "Yaren kerületben található", "A közbiztonság szigeti központja", "Koordinálja a vészhelyzeti válaszokat", "Kormányzati irodák közelében van", "Felelős az igazságügyi rendért"],
+      ro: ["Sediul principal al poliției", "Situat în districtul Yaren", "Centru pentru siguranța publică", "Coordonează răspunsurile de urgență", "Aproape de birourile guvernamentale", "Responsabil pentru ordinea judiciară"],
+      en: ["Main law enforcement headquarters", "Located in the Yaren District", "Center for island-wide public safety", "Coordinates emergency responses", "Close to other government offices", "Responsible for judicial maintenance"],
+    },
   },
   {
     id: "nauru-menen-hotel-landmarks-v2",
@@ -133,6 +205,18 @@ export const nauruLandmarksV2: POI[] = [
       en: ["Features 119 guest rooms", "Constructed in the year 1969", "Overlooks the scenic Anibare Bay", "Contains conference facilities"],
     },
     imageHint: "Menen Hotel Nauru exterior and coastline",
+    descriptionAdvanced: {
+      de: "Das Menen Hotel ist die größte und bekannteste Unterkunft auf Nauru und liegt an der Ostküste. Das staatliche Hotel beherbergte seit der Blütezeit des Phosphatabbaus internationale Würdenträger und Besucher. Mit über 100 Zimmern bietet es eine wichtige Infrastruktur für Konferenzen und Tourismus. Es bietet Ausblicke auf die Anibare-Bucht und dient als sozialer Treffpunkt der Insel.",
+      hu: "A Menen Hotel Nauru legnagyobb és legismertebb szálláshelye, amely a keleti parton található. Az állami tulajdonban lévő szálloda a foszfátkorszak csúcsa óta fogad nemzetközi méltóságokat és látogatókat. Több mint 100 szobával rendelkezik, és alapvető infrastruktúrát biztosít konferenciákhoz és a turizmushoz. Kilátást nyújt az Anibare-öbölre, és fontos társadalmi csomópontként szolgál.",
+      ro: "Hotelul Menen este cea mai mare și mai proeminentă unitate de cazare din Nauru, situată pe coasta de est. Deținut de stat, acesta a găzduit demnitari internaționali încă din perioada de vârf a mineritului de fosfat. Hotelul are peste 100 de camere și oferă infrastructură esențială pentru conferințe și turism. Oferă vedere spre Golful Anibare și servește ca punct de reper social pe insulă.",
+      en: "The Menen Hotel is the largest and most prominent accommodation facility on Nauru, located on the eastern coast. Owned by the state, it has hosted international dignitaries and visitors since the peak of the phosphate era. The hotel features over 100 rooms and provides essential infrastructure for conferences and tourism. It offers views of the Anibare Bay and serves as a social landmark.",
+    },
+    factsAdvanced: {
+      de: ["Größtes Hotel auf der Insel", "Befindet sich im Distrikt Meneng", "Unterkunft in Staatsbesitz", "Verfügt über mehr als 100 Zimmer", "Blick auf die Anibare-Bucht", "Hauptort für internationale Gäste"],
+      hu: ["A sziget legnagyobb szállodája", "Meneng kerületben található", "Állami tulajdonú szálláshely", "Több mint 100 szobával rendelkezik", "Kilátás az Anibare-öbölre", "A nemzetközi vendégek fő helyszíne"],
+      ro: ["Cel mai mare hotel de pe insulă", "Situat în districtul Meneng", "Unitate de cazare deținută de stat", "Dispune de peste 100 de camere", "Vedere spre Golful Anibare", "Locul principal pentru oaspeți străini"],
+      en: ["Largest hotel on the island", "Located in the Meneng District", "State-owned accommodation", "Features more than 100 rooms", "Views overlooking Anibare Bay", "Primary venue for international guests"],
+    },
   },
   {
     id: "nauru-airport-terminal-landmarks-v2",
@@ -152,6 +236,18 @@ export const nauruLandmarksV2: POI[] = [
       en: ["Home base of Nauru Airlines", "The island's only airstrip", "Terminal is opposite the parliament", "Crucial for island supplies"],
     },
     imageHint: "Nauru International Airport terminal building",
+    descriptionAdvanced: {
+      de: "Das Flughafenterminal von Nauru ist das einzige internationale Tor zur Republik Nauru und befindet sich im Distrikt Yaren. Die Start- und Landebahn wurde ursprünglich im Zweiten Weltkrieg gebaut und später für kommerzielle Jets ausgebaut. Es dient als Basis für die nationale Fluggesellschaft Nauru Airlines. Das Terminal ist eine entscheidende Verbindung für den Reiseverkehr und den Handel.",
+      hu: "A naurui repülőtéri terminál a Naurui Köztársaság egyetlen nemzetközi kapuja, amely a Yaren kerületben található. A kifutópályát eredetileg a második világháború alatt építették, és azóta korszerűsítették a kereskedelmi repülőgépek fogadására. Ez a nemzeti légitársaság, a Nauru Airlines bázisa, amely összeköti a szigetet a szomszédos országokkal. A terminál kritikus fontosságú az utazás és kereskedelem számára.",
+      ro: "Terminalul Aeroportului Nauru este singura poartă internațională către Republica Nauru, situată în districtul Yaren. Pista aeroportului a fost construită inițial în timpul celui de-al Doilea Război Mondial și ulterior modernizată. Servește ca bază pentru compania națională, Nauru Airlines, conectând insula cu vecinii săi. Terminalul este o legătură critică pentru călătorii și comerț.",
+      en: "The Nauru Airport Terminal is the sole international gateway to the Republic of Nauru, located in the Yaren District. The airport runway was originally constructed during World War II and has since been upgraded to handle commercial jet aircraft. It serves as the base for the national carrier, Nauru Airlines, connecting the island to neighbors. The terminal is a critical link for travel and trade.",
+    },
+    factsAdvanced: {
+      de: ["Einziger internationaler Flughafen", "Befindet sich im Distrikt Yaren", "Basis für Nauru Airlines", "Startbahn im 2. Weltkrieg gebaut", "Für kommerzielle Jets ausgebaut", "Wichtige Verbindung für die Insel"],
+      hu: ["Nauru egyetlen nemzetközi repülőtere", "Yaren kerületben található", "A Nauru Airlines bázisa", "A kifutó a 2. vh. alatt épült", "Kereskedelmi gépekhez korszerűsítve", "Létfontosságú kapcsolat a szigetnek"],
+      ro: ["Singurul aeroport internațional", "Situat în districtul Yaren", "Baza pentru Nauru Airlines", "Pistă construită în al Doilea Război", "Modernizat pentru avioane comerciale", "Legătură vitală pentru conectivitate"],
+      en: ["Sole international airport in Nauru", "Located in the Yaren District", "Base for Nauru Airlines", "Runway built during World War II", "Upgraded for commercial jet aircraft", "Vital link for island connectivity"],
+    },
   },
   {
     id: "nauru-moqua-well-landmarks-v2",
@@ -171,6 +267,18 @@ export const nauruLandmarksV2: POI[] = [
       en: ["Located in the Yaren district", "Part of a complex cave system", "Used during World War II", "Consists of clear, brackish water"],
     },
     imageHint: "Moqua Well underground lake Nauru",
+    descriptionAdvanced: {
+      de: "Der Moqua Well ist ein unterirdischer See in der Moqua-Höhle im Distrikt Yaren. Er stellt eine der wenigen natürlichen Süßwasserquellen auf der Koralleninsel Nauru dar. Das Becken befindet sich unterhalb des Plateaus und ist Teil eines verzweigten Kalksteinhöhlensystems. Während des Zweiten Weltkriegs wurde das Reservoir intensiv zur Wasserversorgung der Bevölkerung genutzt.",
+      hu: "A Moqua Well egy föld alatti édesvízforrás a Moqua-barlangban, Yaren körzetében. Ez a természetes karsztképződmény Nauru kevés édesvízkészletének egyike, amely a sziget mészkőrétegei alatt húzódik. A medence átmérője körülbelül 5 méter, és fontos hidrogeológiai szerepet tölt be. A második világháború alatt stratégiai fontosságú ivóvízforrásként szolgált.",
+      ro: "Moqua Well este un lac subteran situat în peștera Moqua din districtul Yaren. Reprezintă una dintre puținele surse naturale de apă dulce din statul insular Nauru, fiind format într-o cavitate calcaroasă. Bazinul are un diametru de aproximativ 5 metri și este conectat la un sistem complex de galerii. În timpul celui de-al Doilea Război Mondial, a fost o resursă vitală pentru locuitori.",
+      en: "Moqua Well is an underground freshwater lake located within the Moqua Caves in the Yaren District. It is one of the primary natural freshwater sources on the island of Nauru, situated beneath the limestone plateau. The pool spans approximately 5 meters in diameter and is linked to an extensive cave network. During World War II, it was a critical resource for the local population.",
+    },
+    factsAdvanced: {
+      de: ["Lage im Distrikt Yaren", "Teil des Moqua-Höhlensystems", "Durchmesser von ca. 5 Metern", "Natürliches Süßwasserreservoir", "Wichtige Ressource im Zweiten Weltkrieg", "Geologische Kalksteinformation"],
+      hu: ["Yaren körzetében található", "A Moqua-barlangrendszer része", "Kb. 5 méter átmérőjű medence", "Természetes édesvízforrás", "Stratégiai szerep 1942-1945 között", "Mészkő alapkőzetben alakult ki"],
+      ro: ["Localizat în districtul Yaren", "Parte a sistemului de peșteri Moqua", "Diametru de aproximativ 5 metri", "Sursă naturală de apă dulce", "Utilizat intens în perioada 1942-1945", "Formațiune geologică de calcar"],
+      en: ["Located in Yaren District", "Part of the Moqua Caves system", "Approximately 5 meters in diameter", "Natural freshwater reservoir", "Critical supply during World War II", "Geological limestone formation"],
+    },
   },
   {
     id: "nauru-japanese-prison-ruins-landmarks-v2",
@@ -190,6 +298,18 @@ export const nauruLandmarksV2: POI[] = [
       en: ["Located in the north of the island", "Shows concrete structures of occupiers", "Part of Nauru's historical heritage", "Used between 1942 and 1945"],
     },
     imageHint: "Japanese Prison ruins World War II Nauru",
+    descriptionAdvanced: {
+      de: "Die Ruinen des japanischen Gefängnisses stammen aus der Zeit der Besatzung Naurus im Zweiten Weltkrieg zwischen 1942 und 1945. Die Überreste bestehen hauptsächlich aus verstärktem Beton und befinden sich im Landesinneren der Insel. Diese historischen Strukturen zeugen von der militärischen Präsenz und den harten Bedingungen während des Pazifikkrieges. Heute sind sie ein Mahnmal für die dunkle Geschichte der Region.",
+      hu: "A japán börtönromok Nauru 1942 és 1945 közötti megszállásának idejéből származnak. A betonból készült építmények maradványai a sziget belső részén találhatók, és a csendes-óceáni hadszíntér katonai építészetét tükrözik. A helyszín a kényszermunka és a háborús foglyok sorsának állít emléket. A megmaradt cellák és falak ma fontos történelmi emlékhelyek.",
+      ro: "Ruinele închisorii japoneze datează din perioada ocupației insulei Nauru în timpul celui de-al Doilea Război Mondial, între 1942 și 1945. Structurile sunt construite din beton armat și sunt situate în interiorul insulei. Aceste vestigii reflectă prezența militară niponă și condițiile aspre de detenție din timpul conflictului. Astăzi, situl servește ca memorial istoric al acelei epoci.",
+      en: "The Japanese Prison Ruins date back to the occupation of Nauru during World War II, specifically between 1942 and 1945. The remnants consist primarily of reinforced concrete structures located in the island's interior. These ruins provide physical evidence of the military presence and the harsh conditions endured during the Pacific War. They now serve as a historical memorial of the occupation era.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut während der Besatzung 1942-1945", "Material aus verstärktem Beton", "Standort im Inselinneren", "Überreste von Gefängniszellen sichtbar", "Teil der japanischen Verteidigungsanlagen", "Zeugnis der Zwangsarbeit auf Nauru"],
+      hu: ["1942 és 1945 között épült", "Megerősített betonból készült", "A sziget belső fennsíkján található", "Látható börtöncellák maradványai", "A japán védelmi vonal része volt", "A kényszermunka egyik helyszíne"],
+      ro: ["Construită între anii 1942 și 1945", "Structură din beton armat", "Situată în interiorul insulei", "Resturi vizibile de celule și ziduri", "Parte a complexului militar japonez", "Monument al perioadei de ocupație"],
+      en: ["Built during the 1942-1945 occupation", "Constructed of reinforced concrete", "Located in the island's interior", "Remnants of prison cells visible", "Part of the Japanese defense network", "Evidence of forced labor on Nauru"],
+    },
   },
   {
     id: "nauru-state-house-landmarks-v2",
@@ -209,6 +329,18 @@ export const nauruLandmarksV2: POI[] = [
       en: ["Seat of the head of state", "Located in the Meneng district", "Used for official state functions", "Representative architecture of the island"],
     },
     imageHint: "Nauru State House presidential residence",
+    descriptionAdvanced: {
+      de: "Das State House in Nauru ist die offizielle Residenz des Präsidenten und befindet sich im Distrikt Meneng. Das ursprüngliche Gebäude wurde im Jahr 2003 bei einem Brand zerstört und später wiederaufgebaut. Es dient nicht nur als Wohnsitz, sondern auch für zeremonielle Anlässe und offizielle Staatsbesuche. Die Architektur ist funktional und an das tropische Klima der Region angepasst.",
+      hu: "A naurui State House az elnök hivatalos rezidenciája, amely Meneng körzetében található. Az eredeti épület 2003-ban egy tűzvészben megsemmisült, majd később újjáépítették. A létesítmény nemcsak lakóhelyként szolgál, hanem diplomáciai fogadások és állami ünnepségek helyszíne is. Építészeti stílusa igazodik a csendes-óceáni trópusi éghajlathoz.",
+      ro: "State House din Nauru este reședința oficială a președintelui și se află în districtul Meneng. Clădirea originală a fost distrusă de un incendiu în anul 2003 și ulterior reconstruită. Servește drept locuință oficială și spațiu pentru ceremoniile diplomatice și vizitele de stat. Arhitectura sa este adaptată condițiilor climatice tropicale specifice Pacificului.",
+      en: "The State House in Nauru is the official residence of the President, located in the Meneng District. The original structure was destroyed by fire in 2003 and has since been rebuilt to fulfill its administrative role. It serves as both a residence and a venue for official state functions and diplomatic receptions. The architecture is designed to accommodate the tropical climate of the island.",
+    },
+    factsAdvanced: {
+      de: ["Amtssitz des Präsidenten von Nauru", "Lage im Distrikt Meneng", "Zerstörung durch Brand im Jahr 2003", "Zentrum für Staatszeremonien", "Wiederaufbau nach den Unruhen", "Nahe der Südküste der Insel"],
+      hu: ["Nauru elnökének hivatalos lakhelye", "Meneng körzetében helyezkedik el", "Az eredeti épület 2003-ban leégett", "Diplomáciai események központja", "A tűzvész után újjáépítették", "A sziget déli partjának közelében van"],
+      ro: ["Reședința oficială a președintelui", "Situată în districtul Meneng", "Distrusă de incendiu în 2003", "Gazdă pentru ceremonii de stat", "Reconstruită după evenimentele politice", "Aproape de coasta sudică a insulei"],
+      en: ["Official residence of the President", "Located in the Meneng District", "Original building burned down in 2003", "Venue for state ceremonies", "Rebuilt following political unrest", "Situated near the southern coast"],
+    },
   },
   {
     id: "nauru-general-hospital-landmarks-v2",
@@ -228,6 +360,18 @@ export const nauruLandmarksV2: POI[] = [
       en: ["Largest medical facility on the island", "Located in the Denigomodu district", "Key part of local infrastructure", "Center of healthcare services"],
     },
     imageHint: "Nauru General Hospital building in Denigomodu",
+    descriptionAdvanced: {
+      de: "Das Nauru General Hospital im Distrikt Denigomodu ist die zentrale medizinische Einrichtung des Inselstaates. Es entstand durch die Zusammenlegung des staatlichen Nauru General Hospital und des ehemaligen Hospitals der Republic of Nauru Phosphate Corporation. Das Krankenhaus bietet grundlegende medizinische Versorgung und spezialisierte Dienstleistungen für die gesamte Bevölkerung. Es ist eine der wichtigsten Infrastrukturen für die öffentliche Gesundheit auf Nauru.",
+      hu: "A naurui központi kórház Denigomodu körzetében található, és az ország elsődleges egészségügyi intézménye. Az intézmény a korábbi állami kórház és a foszfáttársaság kórházának összevonásával jött létre. Alapvető és szakorvosi ellátást nyújt a sziget teljes lakossága számára. Az épület kulcsfontosságú szerepet játszik Nauru népegészségügyi hálózatában.",
+      ro: "Spitalul General din Nauru, situat în districtul Denigomodu, este principala unitate medicală a statului. A fost format prin fuziunea dintre spitalul de stat și cel administrat anterior de corporația de fosfați. Oferă asistență medicală generală și servicii specializate pentru toți cetățenii insulei. Reprezintă cel mai important punct de infrastructură sanitară publică din Nauru.",
+      en: "The Nauru General Hospital, located in the Denigomodu District, is the primary medical facility for the nation. It was formed through the merger of the government-run hospital and the former phosphate corporation facility. The hospital provides essential healthcare services and specialized medical care to the entire population. It remains a cornerstone of public health infrastructure on the island.",
+    },
+    factsAdvanced: {
+      de: ["Zentrale Klinik im Distrikt Denigomodu", "Zusammenschluss zweier früherer Kliniken", "Wichtigster Gesundheitsdienstleister Naurus", "Bietet Notaufnahme und Fachmedizin", "Teil der staatlichen Infrastruktur", "Versorgt ca. 11.000 Einwohner"],
+      hu: ["Denigomodu körzetben található", "Két korábbi kórház egyesítésével jött létre", "Nauru legfontosabb egészségügyi központja", "Sürgősségi és szakellátást is biztosít", "Állami fenntartású intézmény", "Kb. 11 000 lakos ellátásáért felel"],
+      ro: ["Localizat în districtul Denigomodu", "Rezultat din fuziunea a două spitale", "Principalul centru medical din țară", "Include servicii de urgență", "Administrat de Ministerul Sănătății", "Deservește aproximativ 11.000 de locuitori"],
+      en: ["Primary hospital in Denigomodu District", "Formed by the merger of two facilities", "Central hub for healthcare in Nauru", "Provides emergency and specialist care", "Government-operated institution", "Serves a population of about 11,000"],
+    },
   },
   {
     id: "nauru-central-pacific-bank-landmarks-v2",
@@ -247,6 +391,18 @@ export const nauruLandmarksV2: POI[] = [
       en: ["Only commercial bank on the island", "Located in the Aiwo district", "Key for local financial transactions", "Distinctive multi-story building"],
     },
     imageHint: "Central Pacific Bank building Nauru Aiwo",
+    descriptionAdvanced: {
+      de: "Die Central Pacific Bank ist das wichtigste Finanzinstitut in Nauru und hat ihren Sitz im Distrikt Aiwo. Gegründet wurde sie, um die finanziellen Transaktionen der Republik und der Bevölkerung zu verwalten. Das Gebäude stellt ein funktionales Verwaltungszentrum in der wirtschaftlich aktiven Zone der Insel dar. Die Bank spielt eine entscheidende Rolle bei der Verwaltung der nationalen Währungsreserven und des Geldverkehrs.",
+      hu: "A Central Pacific Bank Nauru központi pénzintézete, amely Aiwo körzetében található. Azért hozták létre, hogy kezelje a köztársaság pénzügyi tranzakcióit és a lakossági banki igényeket. Az épület a sziget egyik fontos gazdasági és adminisztratív központja. A bank meghatározó szerepet játszik a nemzeti valutaforgalom és a pénzügyi stabilitás fenntartásában.",
+      ro: "Banca Central Pacific este principala instituție financiară din Nauru, având sediul în districtul Aiwo. A fost înființată pentru a gestiona tranzacțiile financiare ale republicii și nevoile bancare ale populației. Clădirea reprezintă un punct administrativ cheie în zona economică a insulei. Banca are un rol decisiv în coordonarea fluxurilor monetare și a rezervelor naționale.",
+      en: "The Central Pacific Bank is the primary financial institution in Nauru, headquartered in the Aiwo District. It was established to manage the republic's financial transactions and provide banking services to the local community. The building serves as a key administrative hub within the island's commercial zone. The bank plays a vital role in overseeing national monetary flows and fiscal management.",
+    },
+    factsAdvanced: {
+      de: ["Hauptsitz im Distrikt Aiwo", "Zentrales Finanzinstitut Naurus", "Verwaltet staatliche Transaktionen", "Wirtschaftliches Zentrum der Insel", "Gegründet in der Unabhängigkeitsära", "Wichtiger Arbeitgeber im Finanzsektor"],
+      hu: ["Aiwo körzetben található", "Nauru központi pénzintézete", "Állami pénzügyi tranzakciókat kezel", "A sziget egyik gazdasági csomópontja", "A függetlenség utáni korszakban alakult", "Fontos szereplő a helyi bankszektorban"],
+      ro: ["Sediul central în districtul Aiwo", "Principala instituție bancară din Nauru", "Gestionează fondurile guvernamentale", "Centru economic important al insulei", "Fondată în perioada post-independență", "Rol cheie în stabilitatea monetară"],
+      en: ["Headquartered in Aiwo District", "Nauru's primary financial institution", "Manages government transactions", "Commercial hub of the island", "Established in the post-independence era", "Key entity in the local banking sector"],
+    },
   },
   {
     id: "nauru-post-office-landmarks-v2",
@@ -266,6 +422,18 @@ export const nauruLandmarksV2: POI[] = [
       en: ["Headquarters of Naoero Postal Services", "Popular with philatelists worldwide", "Located near the Civic Centre", "Main hub for postal delivery"],
     },
     imageHint: "Nauru Post Office building in Aiwo",
+    descriptionAdvanced: {
+      de: "Das Postamt von Nauru befindet sich im Distrikt Aiwo und ist das logistische Zentrum für den Postverkehr der Insel. Es wurde bereits 1908 während der deutschen Kolonialzeit als offizielle Einrichtung etabliert. Neben der Briefzustellung ist das Amt für die Ausgabe der für Sammler weltweit bekannten nauruischen Briefmarken zuständig. Das Gebäude ist ein wichtiger Anlaufpunkt für die Kommunikation mit der Außenwelt.",
+      hu: "A naurui postahivatal Aiwo körzetében található, és a sziget nemzetközi és belföldi küldeményeinek központja. Az intézményt még 1908-ban, a német gyarmati időszakban alapították. A postai szolgáltatások mellett itt történik a gyűjtők körében világszerte népszerű naurui bélyegek kibocsátása is. Az épület elengedhetetlen szerepet tölt be a sziget külvilággal való kapcsolattartásában.",
+      ro: "Oficiul Poștal din Nauru este situat în districtul Aiwo și servește drept centru logistic pentru comunicațiile insulei. A fost înființat în anul 1908, în timpul perioadei coloniale germane. Pe lângă distribuția corespondenței, instituția este responsabilă pentru emiterea timbrelor nauruene, apreciate de filateliștii din întreaga lume. Clădirea este un punct esențial pentru legătura cu exteriorul.",
+      en: "The Nauru Post Office is located in the Aiwo District and serves as the island's central hub for domestic and international mail. It was established in 1908 during the German colonial period. In addition to mail delivery, the office is responsible for issuing Nauruan postage stamps, which are highly regarded by philatelists worldwide. The building remains a vital link for communication between Nauru and the rest of the world.",
+    },
+    factsAdvanced: {
+      de: ["Lage im Distrikt Aiwo", "Gegründet im Jahr 1908", "Zentrale für den Postversand", "Ausgabe nauruischer Briefmarken", "Wichtiger Punkt für den Export", "Verbindung zum internationalen Netz"],
+      hu: ["Aiwo körzetben található", "1908-ban alapították", "A postai logisztika központja", "Naurui bélyegek kibocsátóhelye", "Népszerű a filatelisták körében", "Nemzetközi kommunikációs kapocs"],
+      ro: ["Situat în districtul Aiwo", "Fondat în anul 1908", "Centru pentru logistica poștală", "Emitent al timbrelor nauruene", "Punct de interes pentru filateliști", "Legătură cu rețeaua internațională"],
+      en: ["Located in Aiwo District", "Established in 1908", "Hub for postal logistics", "Issuer of Nauruan postage stamps", "Renowned among global philatelists", "Vital link for international mail"],
+    },
   },
   {
     id: "nauru-cantilever-two-landmarks-v2",
@@ -285,5 +453,17 @@ export const nauruLandmarksV2: POI[] = [
       en: ["Part of the Phosphate Corporation infrastructure", "Engineering landmark of the island", "Visible from many locations in Aiwo", "Built to increase export capacity"],
     },
     imageHint: "Nauru second phosphate cantilever offshore",
+    descriptionAdvanced: {
+      de: "Der zweite Ausleger (Second Cantilever) in Aiwo ist eine markante Landmarke, die für die Beladung von Phosphatschiffen gebaut wurde. Diese massiven Stahlkonstruktionen ermöglichten es Schiffen, außerhalb der gefährlichen Riffe zu ankern, während das Phosphat über Förderbänder direkt in die Laderäume transportiert wurde. Der Ausleger symbolisiert die wirtschaftliche Blütezeit Naurus durch den Bergbau. Heute ist er ein eindrucksvolles industrielles Denkmal an der Küste.",
+      hu: "Az Aiwo partjainál található második rakodókar (Second Cantilever) a foszfátexport egyik legfontosabb technikai építménye. Ez a hatalmas acélszerkezet lehetővé tette, hogy a hajók a veszélyes zátonyokon kívül horgonyozzanak, miközben a foszfátot futószalagokon közvetlenül a rakterükbe juttatták. A szerkezet Nauru bányászati virágkorának szimbóluma. Ma ipari műemlékként magasodik a partvonal felett.",
+      ro: "Al doilea cantilever din Aiwo este o structură industrială emblematică, utilizată pentru încărcarea navelor cu fosfat. Această construcție masivă din oțel a permis vapoarelor să ancoreze în afara recifelor periculoase, în timp ce fosfatul era transportat prin benzi rulante direct în cală. Cantileverul simbolizează epoca de aur a mineritului din Nauru. Astăzi rămâne un monument industrial impresionant pe coasta insulei.",
+      en: "The Second Cantilever in Aiwo is a prominent industrial landmark built for loading phosphate onto transport ships. These massive steel structures allowed vessels to moor outside the dangerous reefs while phosphate was moved directly into their holds via conveyors. The cantilever symbolizes Nauru's economic peak driven by the mining industry. Today, it stands as an imposing industrial monument along the coastline.",
+    },
+    factsAdvanced: {
+      de: ["Stahlkonstruktion im Distrikt Aiwo", "Erbaut für den Phosphat-Export", "Ermöglicht Beladung über dem Riff", "Wahrzeichen der Industrie-Ära", "Teil der Nauru Phosphate Corporation", "Wichtig für die Bergbaugeschichte"],
+      hu: ["Aiwo körzet partján található", "Foszfátszállító hajók rakodására épült", "Átnyúlik a tengerparti zátonyokon", "Nauru ipari múltjának jelképe", "Az 1950-es években modernizálták", "Acélból készült mérnöki műalkotás"],
+      ro: ["Structură metalică în districtul Aiwo", "Construită pentru exportul de fosfat", "Permite încărcarea peste recif", "Simbol al erei miniere din Nauru", "Operată de Nauru Phosphate Corporation", "Monument industrial de mari dimensiuni"],
+      en: ["Steel structure in Aiwo District", "Built for phosphate shipping", "Allows loading beyond the coral reef", "Icon of Nauru's industrial era", "Operated by Nauru Phosphate Corporation", "Monumental engineering landmark"],
+    },
   }
 ];

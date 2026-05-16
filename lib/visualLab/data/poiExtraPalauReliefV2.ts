@@ -19,6 +19,18 @@ export const palauReliefV2: POI[] = [
       en: ["Characterized by bauxite-rich soils.", "Contains the largest watershed in Palau.", "Primarily composed of volcanic rock.", "Home to several endemic bird species."],
     },
     imageHint: "Babeldaob Island highlands rolling hills Palau",
+    descriptionAdvanced: {
+      de: "Das Hochland von Babeldaob bildet das vulkanische Herzstück der größten Insel Palaus. Es ist geprägt durch hügeliges Gelände, das von dichten Regenwäldern und Savannen bedeckt ist. Im Gegensatz zu den kalksteinbasierten Rock Islands besteht dieses Gebiet aus altem vulkanischem Gestein, das durch Erosion fruchtbare Böden für die Landwirtschaft und komplexe Flusssysteme hervorgebracht hat.",
+      hu: "Babeldaob felvidéke Palau legnagyobb szigetének vulkanikus szívét alkotja. A dombos terepet sűrű esőerdők és szavannák borítják. Ellentétben a mészkő alapú Szikla-szigetekkel, ez a terület ősi vulkáni kőzetekből épül fel, amelyek az erózió révén termékeny talajt biztosítanak a mezőgazdasághoz és összetett folyórendszereket hoztak létre.",
+      ro: "Ținuturile înalte din Babeldaob formează nucleul vulcanic al celei mai mari insule din Palau. Terenul deluros este acoperit de păduri tropicale dense și savane. Spre deosebire de Insulele de Piatră formate din calcar, această zonă este compusă din roci vulcanice vechi, care prin eroziune au creat soluri fertile pentru agricultură și sisteme fluviale complexe.",
+      en: "The highlands of Babeldaob form the volcanic heart of Palau's largest island. The hilly terrain is covered by dense rainforests and savannas. Unlike the limestone-based Rock Islands, this area consists of ancient volcanic rock which, through erosion, has produced fertile soils for agriculture and complex river systems.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Mount Ngerchelchuus (242 m)", "Geologie: Vulkanisches Gestein (Basalt/Andesit)", "Inselanteil: Macht ca. 70 % der Landesfläche aus", "Vegetation: Mix aus Urwald und Grasland", "Bedeutung: Hauptquelle für Süßwasser in Palau", "Besonderheit: Standort der antiken Steinterrassen"],
+      hu: ["Legmagasabb pont: Mount Ngerchelchuus (242 m)", "Geológia: vulkáni kőzet (bazalt és andezit)", "Területi arány: az ország területének kb. 70%-a", "Növényzet: őserdő és füves területek elegye", "Jelentőség: Palau legfőbb édesvízforrása", "Különlegesség: ősi kőteraszok találhatók itt"],
+      ro: ["Cea mai mare altitudine: Muntele Ngerchelchuus (242 m)", "Geologie: rocă vulcanică (bazalt și andezit)", "Proporția teritoriului: cca. 70% din suprafața țării", "Vegetație: amestec de junglă și pajiști", "Importanță: sursa principală de apă dulce din Palau", "Curiozitate: sit al teraselor antice de piatră"],
+      en: ["Highest elevation: Mount Ngerchelchuus (242 m)", "Geology: volcanic rock (basalt and andesite)", "Territorial share: approx. 70% of Palau's land area", "Vegetation: mix of rainforest and grassland", "Significance: Palau's main source of freshwater", "Feature: site of ancient stone terraces"],
+    },
   },
   {
     id: "palau-rock-islands-relief-v2",
@@ -38,6 +50,18 @@ export const palauReliefV2: POI[] = [
       en: ["UNESCO World Heritage site since 2012.", "Consists of over 200 limestone islands.", "Undercut by bioerosion at the waterline.", "Features numerous marine lakes."],
     },
     imageHint: "Rock Islands Chelbacheb Palau limestone formations aerial view",
+    descriptionAdvanced: {
+      de: "Die Rock Islands, lokal Chelbacheb genannt, sind eine Ansammlung von über 200 pilzförmigen Kalksteininseln, die aus dem türkisfarbenen Wasser der Lagune ragen. Diese geologischen Formationen entstanden durch tektonische Hebung und die anschließende Erosion durch Wellen und Organismen an der Wasserlinie. Seit 2012 gehören sie zum UNESCO-Welterbe und sind berühmt für ihre marinen Seen, darunter der Jellyfish Lake.",
+      hu: "A Szikla-szigetek, helyi nevén Chelbacheb, több mint 200 gomba alakú mészkősziget együttese, amelyek a lagúna türkizkék vizéből emelkednek ki. Ezek a geológiai képződmények tektonikus emelkedés, majd a hullámok és élőlények okozta erózió révén jöttek létre. 2012 óta az UNESCO Világörökség részei, és híresek tengeri tavaikról, köztük a Medúza-tóról.",
+      ro: "Insulele de Piatră, numite local Chelbacheb, reprezintă un grup de peste 200 de insule calcaroase în formă de ciupercă ce răsar din apele turcoaz ale lagunei. Aceste formațiuni geologice au apărut prin ridicare tectonică și eroziunea ulterioară cauzată de valuri la nivelul apei. Din 2012, fac parte din Patrimoniul Mondial UNESCO, fiind celebre pentru lacurile marine, inclusiv Lacul Meduzelor.",
+      en: "The Rock Islands, locally known as Chelbacheb, are a collection of over 200 mushroom-shaped limestone islands rising from the turquoise waters of the lagoon. These geological formations were created by tectonic uplift followed by erosion from waves and organisms at the waterline. Since 2012, they have been a UNESCO World Heritage site, famous for their marine lakes, including Jellyfish Lake.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe seit: 2012", "Anzahl der Inseln: über 200 bis 300", "Höchster Punkt: ca. 200 Meter", "Besonderheit: Pilzform durch biologische Erosion", "Marine Seen: über 50 isolierte Salzwasserseen", "Lage: Südlich von Koror in der Hauptlagune"],
+      hu: ["UNESCO Világörökség: 2012 óta", "Szigetek száma: 200 és 300 között", "Legmagasabb pont: kb. 200 méter", "Jellemző: biológiai erózió okozta gombaforma", "Tengeri tavak: több mint 50 izolált sós vizű tó", "Elhelyezkedés: Korortól délre, a fő lagúnában"],
+      ro: ["Patrimoniu UNESCO din: 2012", "Numărul insulelor: între 200 și 300", "Altitudine maximă: cca. 200 metri", "Caracteristică: formă de ciupercă prin eroziune biologică", "Lacuri marine: peste 50 de lacuri sărate izolate", "Locație: la sud de Koror, în laguna principală"],
+      en: ["UNESCO World Heritage since: 2012", "Number of islands: between 200 and 300", "Highest point: approximately 200 meters", "Feature: mushroom shape due to biological erosion", "Marine lakes: over 50 isolated saltwater lakes", "Location: south of Koror in the main lagoon"],
+    },
   },
   {
     id: "palau-bloody-nose-ridge-relief-v2",
@@ -57,6 +81,18 @@ export const palauReliefV2: POI[] = [
       en: ["Steepest terrain on Peleliu Island.", "Composed of jagged coral limestone.", "Site of intense combat in 1944.", "Contains many natural caves."],
     },
     imageHint: "Bloody Nose Ridge Peleliu Palau limestone ridges",
+    descriptionAdvanced: {
+      de: "Bloody Nose Ridge, offiziell Umurbrogol Mountain, war Schauplatz einer der blutigsten Schlachten des Pazifikkriegs auf der Insel Peleliu im Jahr 1944. Die zerklüftete Kalksteinformation ist von hunderten natürlichen und künstlich erweiterten Höhlen durchzogen, die den japanischen Verteidigern Schutz boten. Heute dient das Gelände als Mahnmal und ist mit zahlreichen Kriegsüberresten und Denkmälern übersät.",
+      hu: "A Bloody Nose Ridge (Hivatalos nevén Umurbrogol-hegy) a csendes-óceáni háború egyik legvéresebb ütközetének helyszíne volt Peleliu szigetén 1944-ben. A szaggatott mészkőképződményt több száz természetes és mesterségesen bővített barlang hálózza be, amelyek védelmet nyújtottak a japán védőknek. Ma a terület emlékhelyként szolgál, és számos háborús maradvány, valamint emlékmű található itt.",
+      ro: "Bloody Nose Ridge, oficial Muntele Umurbrogol, a fost locul uneia dintre cele mai sângeroase bătălii din Războiul din Pacific, pe insula Peleliu, în 1944. Formațiunea calcaroasă accidentată este străbătută de sute de peșteri naturale și extinse artificial, care au oferit protecție apărătorilor japonezi. Astăzi, zona servește ca loc memorial, fiind presărată cu numeroase relicve de război și monumente.",
+      en: "Bloody Nose Ridge, officially Umurbrogol Mountain, was the site of one of the bloodiest battles in the Pacific War on Peleliu Island in 1944. The rugged limestone formation is honeycombed with hundreds of natural and artificially expanded caves that provided cover for Japanese defenders. Today, the area serves as a memorial site and is scattered with numerous war relics and monuments.",
+    },
+    factsAdvanced: {
+      de: ["Schlachtdatum: September bis November 1944", "Lage: Peleliu Island", "Höhe: ca. 75 Meter über dem Meer", "Besonderheit: Hunderte befestigte Höhlen", "Denkmäler: Sowohl US-amerikanische als auch japanische", "Kriegsgerät: Panzerwracks und Kanonen noch sichtbar"],
+      hu: ["A csata ideje: 1944. szeptember-november", "Helyszín: Peleliu-sziget", "Magasság: kb. 75 méter a tengerszint felett", "Jellemző: több száz megerősített barlang", "Emlékművek: amerikai és japán egyaránt található", "Hadi maradványok: harckocsi roncsok és ágyúk láthatók"],
+      ro: ["Data bătăliei: septembrie - noiembrie 1944", "Locație: Insula Peleliu", "Înălțime: cca. 75 metri peste nivelul mării", "Caracteristică: sute de peșteri fortificate", "Monumente: atât americane, cât și japoneze", "Echipament: epave de tancuri și tunuri vizibile"],
+      en: ["Battle date: September to November 1944", "Location: Peleliu Island", "Elevation: approx. 75 meters above sea level", "Feature: hundreds of fortified caves", "Monuments: both U.S. and Japanese markers", "War relics: tank wrecks and artillery still present"],
+    },
   },
   {
     id: "palau-ngerekebesang-hill-relief-v2",
@@ -76,6 +112,18 @@ export const palauReliefV2: POI[] = [
       en: ["Highest point of Ngerekebesang Island.", "Strategically important during World War II.", "Features remains of Japanese fortifications.", "Offers panoramic views of Koror."],
     },
     imageHint: "Ngerekebesang Hill Palau tropical landscape",
+    descriptionAdvanced: {
+      de: "Der Ngerekebesang Hill ist die höchste Erhebung auf der gleichnamigen Insel im Staat Koror. Während der japanischen Mandatszeit diente der Hügel als strategischer Stützpunkt und Kommunikationszentrum, wovon heute noch Ruinen und Bunker zeugen. Von seinem Gipfel bietet sich ein Panoramablick über die Stadt Koror und die umliegenden Rock Islands.",
+      hu: "A Ngerekebesang-domb az azonos nevű sziget legmagasabb pontja Koror államban. A japán mandátum idején a domb stratégiai bázisként és kommunikációs központként szolgált, amiről ma is romok és bunkerek tanúskodnak. A csúcsáról panorámás kilátás nyílik Koror városára és a környező Szikla-szigetekre.",
+      ro: "Dealul Ngerekebesang este cel mai înalt punct de pe insula cu același nume din statul Koror. În timpul mandatului japonez, dealul a servit ca bază strategică și centru de comunicații, mărturie stând și astăzi ruinele și buncărele rămase. De pe vârful său, se deschide o vedere panoramică asupra orașului Koror și a Insulelor de Piatră învecinate.",
+      en: "Ngerekebesang Hill is the highest elevation on the island of the same name in Koror State. During the Japanese mandate period, the hill served as a strategic base and communications center, with ruins and bunkers still visible today. Its summit offers a panoramic view of Koror City and the surrounding Rock Islands.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Ngerekebesang Island, Koror", "Höhe: ca. 100 Meter", "Historische Nutzung: Japanisches Hauptquartier (WWII)", "Infrastruktur: Standort von Sendeanlagen", "Zugang: Wanderweg führt zum Gipfel", "Sichtbarkeit: Blick auf Meyuns und Malakal"],
+      hu: ["Helyszín: Ngerekebesang-sziget, Koror", "Magasság: kb. 100 méter", "Történelmi szerep: japán parancsnokság (II. vh.)", "Infrastruktúra: rádióadó tornyok helyszíne", "Megközelítés: gyalogösvény vezet fel", "Kilátás: belátni Meyuns és Malakal részeit"],
+      ro: ["Locație: Insula Ngerekebesang, Koror", "Înălțime: cca. 100 metri", "Utilizare istorică: sediu japonez (al doilea război mondial)", "Infrastructură: locația unor turnuri de transmisie", "Acces: potecă de drumeție către vârf", "Vizibilitate: vedere spre Meyuns și Malakal"],
+      en: ["Location: Ngerekebesang Island, Koror", "Elevation: approx. 100 meters", "Historical use: Japanese headquarters (WWII)", "Infrastructure: site of transmission towers", "Access: hiking trail leads to the summit", "Visibility: view of Meyuns and Malakal"],
+    },
   },
   {
     id: "palau-malakal-peak-relief-v2",
@@ -95,6 +143,18 @@ export const palauReliefV2: POI[] = [
       en: ["Elevation of approximately 124 meters.", "Overlooks the main harbor of Palau.", "Geologically distinct volcanic formation.", "Popular hiking spot for tourists."],
     },
     imageHint: "Malakal Peak view over Malakal harbor Palau",
+    descriptionAdvanced: {
+      de: "Malakal Peak ist die markante Erhebung auf Malakal Island, die den Haupthafen von Palau überragt. Der Hügel ist vulkanischen Ursprungs und beherbergt wichtige Telekommunikationsanlagen für das Land. Aufgrund seiner strategischen Lage am Eingang zur Koror-Bucht war er historisch von großer militärischer Bedeutung für die Verteidigung des Hafens.",
+      hu: "A Malakal Peak a Malakal-sziget jellegzetes magaslata, amely Palau fő kikötője fölé magasodik. A domb vulkáni eredetű, és az ország fontos távközlési létesítményeinek ad helyet. A Koror-öböl bejáratánál elfoglalt stratégiai helyzete miatt történelmileg nagy katonai jelentőséggel bírt a kikötő védelmében.",
+      ro: "Vârful Malakal este proeminența distinctivă de pe insula Malakal, care domină portul principal din Palau. Dealul este de origine vulcanică și găzduiește facilități importante de telecomunicații pentru țară. Datorită poziției sale strategice la intrarea în golful Koror, a avut istoric o mare importanță militară pentru apărarea portului.",
+      en: "Malakal Peak is the prominent elevation on Malakal Island, overlooking Palau's main harbor. The hill is of volcanic origin and hosts vital telecommunications facilities for the nation. Due to its strategic position at the entrance to Koror Bay, it historically held great military significance for the defense of the port.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 124 Meter", "Lage: Malakal Island, Koror", "Funktion: Standort von Mobilfunk- und Radiotürmen", "Umgebung: Direkt über dem Haupthafen von Palau", "Geologie: Teil der vulkanischen Zone von Koror", "Zugang: Straße führt teilweise hinauf"],
+      hu: ["Magasság: kb. 124 méter", "Helyszín: Malakal-sziget, Koror", "Funkció: mobilhálózati és rádiótornyok helyszíne", "Környezet: közvetlenül a fő kikötő felett található", "Geológia: Koror vulkáni zónájának része", "Megközelítés: részben aszfaltozott út vezet fel"],
+      ro: ["Înălțime: cca. 124 metri", "Locație: Insula Malakal, Koror", "Funcție: locația unor turnuri radio și GSM", "Cadru: situat direct deasupra portului principal", "Geologie: parte a zonei vulcanice din Koror", "Acces: drum parțial asfaltat către vârf"],
+      en: ["Elevation: approx. 124 meters", "Location: Malakal Island, Koror", "Function: site of mobile and radio towers", "Surroundings: directly above Palau's main port", "Geology: part of the Koror volcanic zone", "Access: road leads partially to the top"],
+    },
   },
   {
     id: "palau-angaur-hills-relief-v2",
@@ -114,6 +174,18 @@ export const palauReliefV2: POI[] = [
       en: ["Formed by uplifted ancient reefs.", "Max elevation around 40 meters.", "Significant during the Battle of Angaur.", "Contains abandoned mining infrastructure."],
     },
     imageHint: "Angaur Island hills and coast Palau",
+    descriptionAdvanced: {
+      de: "Die Hügel von Angaur auf der südlichsten Insel der palauischen Hauptgruppe bestehen primär aus Kalkstein und waren einst ein Zentrum des Phosphatabbaus. Während des Zweiten Weltkriegs waren sie schwer umkämpft, da sie strategische Beobachtungspunkte boten. Heute sind die Hügel von Sekundärwald bewachsen, in dem verwilderte Makaken leben, die während der deutschen Kolonialzeit eingeführt wurden.",
+      hu: "Angaur dombjai a palaui főszigetcsoport legdélibbi tagján találhatók, elsősorban mészkőből épülnek fel, és egykor a foszfátbányászat központjai voltak. A második világháború alatt súlyos harcok helyszínei voltak stratégiai megfigyelőpontjaik miatt. Ma a dombokat másodlagos erdő borítja, ahol a német gyarmati időkben betelepített makákók élnek vadon.",
+      ro: "Dealurile din Angaur, situate pe cea mai sudică insulă din grupul principal palauan, sunt compuse în principal din calcar și au fost cândva un centru al minieritului de fosfați. În timpul celui de-al Doilea Război Mondial, au fost scena unor lupte grele datorită punctelor strategice de observație. Astăzi, dealurile sunt acoperite de păduri secundare unde trăiesc macaci sălbăticiți, introduși în perioada colonială germană.",
+      en: "The Angaur Hills, located on the southernmost island of Palau's main group, consist primarily of limestone and were once a hub for phosphate mining. During World War II, they were heavily contested as they offered strategic observation points. Today, the hills are covered in secondary forest inhabited by feral macaques, which were introduced during the German colonial era.",
+    },
+    factsAdvanced: {
+      de: ["Hauptressource: Phosphat (bis 1955 abgebaut)", "Tierwelt: Lebensraum für Javaneraffen (Makaken)", "Geschichte: Schlacht um Angaur (September 1944)", "Höhe: ca. 40 bis 60 Meter", "Infrastruktur: Zahlreiche verlassene Minenstollen", "Geologie: Korallenkalkstein-Formation"],
+      hu: ["Fő erőforrás: foszfát (1955-ig bányászták)", "Vadvilág: jávai makákók élőhelye", "Történelem: angauri csata (1944. szeptember)", "Magasság: kb. 40-60 méter", "Infrastruktúra: számos elhagyatott bányaalagút", "Geológia: korallmészkő képződmény"],
+      ro: ["Resursa principală: fosfat (minat până în 1955)", "Faună: habitat pentru macaci javanezi", "Istorie: Bătălia de la Angaur (septembrie 1944)", "Înălțime: cca. 40-60 metri", "Infrastructură: numeroase tuneluri miniere abandonate", "Geologie: formațiune de calcar coraligen"],
+      en: ["Main resource: phosphate (mined until 1955)", "Wildlife: habitat for crab-eating macaques", "History: Battle of Angaur (September 1944)", "Elevation: approx. 40 to 60 meters", "Infrastructure: numerous abandoned mine shafts", "Geology: coral limestone formation"],
+    },
   },
   {
     id: "palau-ngardok-basin-relief-v2",
@@ -133,6 +205,18 @@ export const palauReliefV2: POI[] = [
       en: ["Natural depression on Babeldaob Island.", "Contains a 15-hectare freshwater lake.", "Strictly protected as a nature reserve.", "Habitat for the rare Palau crocodile."],
     },
     imageHint: "Lake Ngardok basin Babeldaob Palau freshwater lake",
+    descriptionAdvanced: {
+      de: "Das Ngardok-Becken im Osten von Babeldaob beherbergt den Lake Ngardok, den größten natürlichen Süßwassersee in ganz Mikronesien. Das Becken dient als entscheidendes Wassereinzugsgebiet und schützt seltene Süßwasserökosysteme inmitten des tropischen Regenwaldes. Es bietet Lebensraum für das endemische Palauer Salzwasserkrokodil und ist ein wichtiger Rastplatz für Zugvögel.",
+      hu: "Babeldaob keleti részén található Ngardok-medence ad otthont a Ngardok-tónak, amely egész Mikronézia legnagyobb természetes édesvízi tava. A medence döntő fontosságú vízgyűjtő területként szolgál, és ritka édesvízi ökoszisztémákat véd a trópusi esőerdők közepén. Élőhelyet biztosít az endemikus palaui krokodilnak, és fontos pihenőhely a költöző madarak számára.",
+      ro: "Bazinul Ngardok din estul insulei Babeldaob găzduiește Lacul Ngardok, cel mai mare lac natural cu apă dulce din întreaga Micronezie. Bazinul servește ca un bazin hidrografic crucial și protejează ecosisteme rare de apă dulce în mijlocul pădurii tropicale. Oferă habitat pentru crocodilul de Palau endemic și este un loc important de popas pentru păsările migratoare.",
+      en: "The Ngardok Basin in eastern Babeldaob hosts Lake Ngardok, the largest natural freshwater lake in all of Micronesia. The basin serves as a crucial watershed and protects rare freshwater ecosystems amidst the tropical rainforest. It provides habitat for the endemic Palauan crocodile and is an important resting site for migratory birds.",
+    },
+    factsAdvanced: {
+      de: ["Fläche des Schutzgebiets: ca. 7 km²", "Gewässer: Lake Ngardok (größter See Mikronesiens)", "Höhe: ca. 30 Meter über dem Meeresspiegel", "Tierwelt: Vorkommen des Leistenkrokodils", "Vogelwelt: Wichtiges Gebiet für den Palau-Fächerschwanz", "Schutzstatus: International anerkanntes RAMSAR-Gebiet"],
+      hu: ["A védett terület nagysága: kb. 7 km²", "Vízfelület: Ngardok-tó (Mikronézia legnagyobb tava)", "Tengerszint feletti magasság: kb. 30 méter", "Vadvilág: bordás krokodilok populációja", "Madárvilág: a palaui legyezőfarkú fontos területe", "Státusz: nemzetközileg elismert RAMSAR-terület"],
+      ro: ["Suprafața ariei protejate: cca. 7 km²", "Corp de apă: Lacul Ngardok (cel mai mare din Micronezia)", "Altitudine: cca. 30 metri peste nivelul mării", "Faună: prezența crocodilului de apă sărată", "Ornitologie: zonă importantă pentru evantaiul de Palau", "Statut: sit RAMSAR recunoscut internațional"],
+      en: ["Conservation area size: approx. 7 km²", "Water body: Lake Ngardok (largest lake in Micronesia)", "Elevation: approx. 30 meters above sea level", "Wildlife: population of saltwater crocodiles", "Birds: Important area for the Palau Fantail", "Status: internationally recognized RAMSAR site"],
+    },
   },
   {
     id: "palau-ngerukewid-cliffs-relief-v2",
@@ -152,5 +236,17 @@ export const palauReliefV2: POI[] = [
       en: ["Part of the Seventy Islands Reserve.", "Steep karst limestone walls.", "Formed by long-term erosion processes.", "Strictly protected, uninhabited area."],
     },
     imageHint: "Ngerukewid Islands Seventy Islands Palau limestone cliffs",
+    descriptionAdvanced: {
+      de: "Die Ngerukewid-Klippen, oft als Seventy Islands bezeichnet, sind eine streng geschützte Gruppe von Kalksteininseln innerhalb der Rock Islands. Die steilen, weißen Klippen ragen markant aus dem Meer und sind für die Öffentlichkeit unzugänglich, um die dortigen unberührten Korallenriffe und Vogelkolonien zu bewahren. Sie stellen eines der am besten erhaltenen Beispiele für ein mikronesisches Korallenkalkstein-Ökosystem dar.",
+      hu: "A Ngerukewid-sziklák, gyakran Seventy Islands néven ismertek, a Szikla-szigetek egy szigorúan védett csoportját alkotják. A meredek, fehér sziklák látványosan emelkednek ki a tengerből, és a látogatók elől elzártak az érintetlen korallzátonyok és madárkolóniák védelme érdekében. Ezek a mikronéziai korallmészkő-ökoszisztéma egyik legjobban megőrzött példáját képviselik.",
+      ro: "Stâncile Ngerukewid, cunoscute adesea sub numele de Seventy Islands, reprezintă un grup de insule calcaroase strict protejate din cadrul Insulelor de Piatră. Stâncile abrupte și albe răsar proeminent din mare și sunt închise publicului pentru a conserva recifele de corali intacte și coloniile de păsări. Ele constituie unul dintre cele mai bine conservate exemple de ecosistem calcaros coraligen din Micronezia.",
+      en: "The Ngerukewid Cliffs, often referred to as the Seventy Islands, are a strictly protected group of limestone islands within the Rock Islands. The steep, white cliffs rise prominently from the sea and are off-limits to the public to preserve the pristine coral reefs and bird colonies. They represent one of the best-preserved examples of a Micronesian coral limestone ecosystem.",
+    },
+    factsAdvanced: {
+      de: ["Status: Strenges Naturschutzgebiet (Seventy Islands)", "Besonderheit: Betreten ist streng verboten", "Inselanzahl: ca. 70 kleine Kalksteinformationen", "Gegründet: Erster Nationalpark Palaus (1956)", "Ökologie: Nistplatz für den Keilschwanz-Sturmtaucher", "Sichtbarkeit: Meist nur aus der Luft (Rundflüge)"],
+      hu: ["Státusz: szigorú természetvédelmi terület", "Korlátozás: a szigetekre lépni szigorúan tilos", "Szigetek száma: kb. 70 apró mészkőképződmény", "Alapítás: Palau első nemzeti parkja (1956)", "Ökológia: az ékfarkú vészmadár fészkelőhelye", "Láthatóság: többnyire csak a levegőből látható"],
+      ro: ["Statut: rezervație naturală strictă", "Restricție: accesul pe insule este strict interzis", "Număr de insule: cca. 70 de formațiuni calcaroase", "Înființare: primul parc național din Palau (1956)", "Ecologie: loc de cuibărit pentru furtunarul de mare", "Vizibilitate: de obicei observabile doar din aer"],
+      en: ["Status: Strict Nature Reserve (Seventy Islands)", "Restriction: landing on the islands is strictly forbidden", "Number of islands: approx. 70 small limestone formations", "Established: Palau's first national park (1956)", "Ecology: nesting site for the Wedge-tailed Shearwater", "Visibility: mostly viewed only from the air"],
+    },
   }
 ];

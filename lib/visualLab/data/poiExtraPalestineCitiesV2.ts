@@ -19,6 +19,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["UNESCO World Heritage since 1981", "Home to the Church of the Holy Sepulchre", "Area of approximately 70 km²", "Historic center of the region"],
     },
     imageHint: "Dome of the Rock and Old City of Jerusalem",
+    descriptionAdvanced: {
+      de: "Ostjerusalem ist der historische und kulturelle Kern Jerusalems und umfasst die Altstadt mit ihren bedeutenden religiösen Heiligtümern. Zu den wichtigsten Stätten zählen der Tempelberg mit dem Felsendom und der Al-Aqsa-Moschee sowie die Grabeskirche und die Klagemauer. Die Stadt ist von zentraler Bedeutung für das palästinensische Erbe und wird international als besetztes Gebiet angesehen.",
+      hu: "Kelet-Jeruzsálem Jeruzsálem történelmi és kulturális magja, amely magában foglalja az Óvárost és annak jelentős vallási szentélyeit. A legfontosabb helyszínek közé tartozik a Templom-hegy a Sziklamecsettel és az Al-Aksza-mecsettel, valamint a Szent Sír-templom és a Siratófal. A város központi jelentőségű a palesztin örökség szempontjából, nemzetközileg pedig megszállt területnek minősül.",
+      ro: "Ierusalimul de Est reprezintă nucleul istoric și cultural al orașului, cuprinzând Orașul Vechi cu sanctuarele sale religioase semnificative. Printre cele mai importante situri se numără Muntele Templului cu Cupola Stâncii și Moscheea Al-Aqsa, precum și Biserica Sfântului Mormânt și Zidul Plângerii. Orașul este de o importanță centrală pentru patrimoniul palestinian și este considerat internațional teritoriu ocupat.",
+      en: "East Jerusalem is the historical and cultural heart of the city, encompassing the Old City and its significant religious shrines. Key sites include the Temple Mount with the Dome of the Rock and Al-Aqsa Mosque, as well as the Church of the Holy Sepulchre and the Western Wall. The city is of central importance to Palestinian heritage and is internationally regarded as occupied territory.",
+    },
+    factsAdvanced: {
+      de: ["Altstadt: Seit 1981 UNESCO-Weltkulturerbe", "Bedeutende Moschee: Al-Aqsa (drittheiligste Stätte)", "Historisches Tor: Damaskustor als Haupteingang", "Lage: Östlich der Grünen Linie von 1949", "Kulturelles Zentrum: Orient House (geschlossen 2001)", "Sehenswürdigkeit: Ölberg mit Panoramablick"],
+      hu: ["Óváros: 1981 óta UNESCO Világörökség", "Jelentős mecset: Al-Aksza (a harmadik legszentebb)", "Történelmi kapu: Damaszkuszi kapu (fő bejárat)", "Elhelyezkedés: az 1949-es zöld vonaltól keletre", "Kulturális központ: Orient House (2001-ben lezárva)", "Látnivaló: Olajfák hegye panorámás kilátással"],
+      ro: ["Orașul Vechi: patrimoniu UNESCO din 1981", "Moschee majoră: Al-Aqsa (al treilea loc sfânt)", "Poartă istorică: Poarta Damascului (intrarea principală)", "Locație: la est de Linia Verde din 1949", "Centru cultural: Orient House (închis în 2001)", "Punct de interes: Muntele Măslinilor"],
+      en: ["Old City: UNESCO World Heritage site since 1981", "Major mosque: Al-Aqsa (third holiest site)", "Historic gate: Damascus Gate is the main entrance", "Location: east of the 1949 Green Line", "Cultural hub: Orient House (closed in 2001)", "Landmark: Mount of Olives with panoramic views"],
+    },
   },
   {
     id: "palestine-gaza-city-cities-v2",
@@ -38,6 +50,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Founded around 1500 BCE", "Port city on the Mediterranean", "Seat of several universities", "Major economic center"],
     },
     imageHint: "Gaza City skyline with Mediterranean coast",
+    descriptionAdvanced: {
+      de: "Gaza-Stadt ist die größte Stadt im Gazastreifen und eine der ältesten kontinuierlich bewohnten Städte der Welt. Aufgrund ihrer Lage am Mittelmeer war sie historisch ein bedeutender Knotenpunkt für den Handel zwischen Ägypten und der Levante. Die Stadt beherbergt die Große Omari-Moschee und hat in den letzten Jahrzehnten unter massiven Zerstörungen durch bewaffnete Konflikte gelitten.",
+      hu: "Gázaváros a Gázai övezet legnagyobb városa, és a világ egyik legrégebbi, folyamatosan lakott települése. Mediterrán fekvésének köszönhetően történelmileg fontos kereskedelmi csomópont volt Egyiptom és a Levante között. A város ad otthont a Nagy Omari-mecsetnek, az elmúlt évtizedekben pedig súlyos pusztításokat szenvedett el a fegyveres konfliktusok következtében.",
+      ro: "Orașul Gaza este cea mai mare așezare din Fâșia Gaza și unul dintre cele mai vechi orașe locuite continuu din lume. Datorită locației sale la Marea Mediterană, a fost istoric un nod comercial vital între Egipt și Levant. Orașul găzduiește Marea Moschee Omari și a suferit distrugeri masive în ultimele decenii din cauza conflictelor armate.",
+      en: "Gaza City is the largest city in the Gaza Strip and one of the oldest continuously inhabited cities in the world. Due to its location on the Mediterranean Sea, it was historically a vital trade hub between Egypt and the Levant. The city is home to the Great Omari Mosque and has suffered massive destruction in recent decades due to armed conflicts.",
+    },
+    factsAdvanced: {
+      de: ["Geschichte: Besiedelt seit mindestens 1500 v. Chr.", "Religiöse Stätte: Große Omari-Moschee (einst Kirche)", "Bevölkerungsdichte: Gehört zu den höchsten weltweit", "Infrastruktur: Standort der Al-Azhar-Universität", "Wirtschaft: Historisch bekannt für Töpferwaren", "Hafen: Strategischer Mittelmeerzugang seit der Antike"],
+      hu: ["Történelem: lakott legalább i. e. 1500 óta", "Vallási helyszín: Nagy Omari-mecset (korábban templom)", "Népsűrűség: a világ egyik legmagasabbja", "Infrastruktúra: az Al-Azhar Egyetem székhelye", "Gazdaság: történelmileg híres a kerámiáiról", "Kikötő: stratégiai földközi-tengeri kijárat az ókor óta"],
+      ro: ["Istorie: locuit cel puțin din anul 1500 î.Hr.", "Situl religios: Marea Moschee Omari (fostă biserică)", "Densitate: una dintre cele mai mari din lume", "Infrastructură: sediul Universității Al-Azhar", "Economie: renumit istoric pentru olărit", "Port: acces strategic la Mediterană din antichitate"],
+      en: ["History: inhabited since at least 1500 BCE", "Religious site: Great Omari Mosque (formerly a church)", "Density: among the highest in the world", "Infrastructure: home to Al-Azhar University", "Economy: historically famous for pottery", "Port: strategic Mediterranean gateway since antiquity"],
+    },
   },
   {
     id: "palestine-hebron-cities-v2",
@@ -57,6 +81,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Center of the glass industry", "Old City is a UNESCO site", "Home to over 200,000 people", "Significant religious pilgrimage site"],
     },
     imageHint: "Cave of the Patriarchs in Hebron",
+    descriptionAdvanced: {
+      de: "Hebron, auch als Al-Khalil bekannt, liegt im südlichen Westjordanland und ist eine der ältesten kontinuierlich bewohnten Städte der Welt. Die Stadt beherbergt die Höhle der Patriarchen, die für Juden, Christen und Muslime als Grabstätte biblischer Figuren heilig ist. Seit 2017 gehört die Altstadt von Hebron zum UNESCO-Weltkulturerbe. Die Stadt ist ein bedeutendes wirtschaftliches Zentrum, bekannt für ihre traditionelle Glas- und Keramikindustrie.",
+      hu: "Hebron, más néven Al-Khalil, Ciszjordánia déli részén fekszik, és a világ egyik legrégebben lakott városa. A település legfontosabb helyszíne a Pátriárkák sírja, amely a zsidók, keresztények és muszlimok számára egyaránt szent hely. 2017 óta Hebron óvárosa az UNESCO Világörökség része. A város ma is fontos gazdasági központ, amely híres hagyományos üvegfúvó művészetéről és kerámiaiparáról.",
+      ro: "Hebron, cunoscut și sub numele de Al-Khalil, este situat în sudul Cisiordaniei și este unul dintre cele mai vechi orașe locuite continuu din lume. Orașul găzduiește Peștera Patriarhilor, un loc sacru pentru evrei, creștini și musulmani ca loc de înmormântare al figurilor biblice. Din 2017, centrul vechi al Hebronului este inclus în Patrimoniul Mondial UNESCO. Hebron este un centru economic major, renumit pentru industria sa tradițională de sticlărie și ceramică.",
+      en: "Hebron, also known as Al-Khalil, is located in the southern West Bank and is one of the oldest continuously inhabited cities in the world. The city is home to the Cave of the Patriarchs, which is holy to Jews, Christians, and Muslims as the burial site of biblical figures. Since 2017, the Old City of Hebron has been listed as a UNESCO World Heritage site. It serves as a major economic hub, known for its traditional glass and ceramic industries.",
+    },
+    factsAdvanced: {
+      de: ["Seit über 5000 Jahren kontinuierlich bewohnt", "UNESCO-Weltkulturerbe seit dem Jahr 2017", "Heimat der Ibrahimi-Moschee (Grab der Patriarchen)", "Liegt auf einer Höhe von etwa 930 Metern", "Bevölkerung von über 200.000 Einwohnern", "Seit 1997 in die Sektoren H1 und H2 unterteilt"],
+      hu: ["Több mint 5000 éve folyamatosan lakott terület", "Az UNESCO Világörökség része 2017 óta", "Itt található az Ibrahimi-mecset (Pátriárkák sírja)", "Átlagos tengerszint feletti magassága 930 méter", "Lakossága meghaladja a 200 000 főt", "1997 óta H1 és H2 szektorokra van osztva"],
+      ro: ["Locuit continuu de peste 5000 de ani", "Patrimoniu Mondial UNESCO din anul 2017", "Găzduiește Moscheea Ibrahimi (Peștera Patriarhilor)", "Situat la o altitudine de aproximativ 930 metri", "Populația depășește 200.000 de locuitori", "Divizat în sectoarele H1 și H2 din anul 1997"],
+      en: ["Inhabited for over 5,000 years", "UNESCO World Heritage site since 2017", "Home to the Ibrahimi Mosque (Cave of the Patriarchs)", "Elevation is approximately 930 meters above sea level", "Population exceeds 200,000 residents", "Divided into sectors H1 and H2 since 1997"],
+    },
   },
   {
     id: "palestine-nablus-cities-v2",
@@ -76,6 +112,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Founded as Neapolis in 72 CE", "Famous for Knafeh sweets", "Home to An-Najah University", "Center of olive oil soap industry"],
     },
     imageHint: "Old City of Nablus with clock tower",
+    descriptionAdvanced: {
+      de: "Nablus liegt im nördlichen Westjordanland in einem Tal zwischen den Bergen Ebal und Gerizim. Die Stadt wurde im Jahr 72 n. Chr. von den Römern als Neapolis gegründet und bewahrt bis heute eine bedeutende Altstadt mit traditionellen Märkten. Nablus ist berühmt für seine Olivenölseife und die Süßspeise Kanafeh. Zudem ist die Stadt die Heimat einer kleinen samaritanischen Gemeinde, die auf dem angrenzenden Berg Gerizim lebt.",
+      hu: "Nablusz Ciszjordánia északi részén, az Ebál-hegy és a Garizim-hegy közötti völgyben található. A várost a rómaiak alapították i.sz. 72-ben Neapolis néven, és ma is jelentős óvárossal rendelkezik. Nablusz híres az olívaolajból készülő szappanjáról és a népszerű Kanafeh édességről. A város mellett, a Garizim-hegyen él a világ egyik utolsó szamaritánus közössége.",
+      ro: "Nablus este situat în nordul Cisiordaniei, într-o vale între munții Ebal și Gerizim. Orașul a fost fondat de romani în anul 72 d.Hr. sub numele de Neapolis și păstrează un centru vechi semnificativ cu piețe tradiționale. Nablus este faimos pentru săpunul său din ulei de măsline și pentru desertul Kanafeh. De asemenea, orașul este căminul unei mici comunități samaritene care trăiește pe muntele Gerizim.",
+      en: "Nablus is located in the northern West Bank, nestled in a valley between Mount Ebal and Mount Gerizim. Founded by the Romans in 72 AD as Neapolis, the city retains a significant Old City with traditional markets and architecture. Nablus is famous for its olive oil soap and the sweet pastry known as Kanafeh. It is also home to a small Samaritan community that resides on the adjacent Mount Gerizim.",
+    },
+    factsAdvanced: {
+      de: ["Im Jahr 72 n. Chr. von Vespasian gegründet", "Liegt zwischen den Bergen Ebal und Gerizim", "Heimat der samaritanischen Gemeinde auf dem Berg Gerizim", "Sitz der An-Najah National University (gegründet 1918)", "Bekannt für die Produktion von Olivenölseife", "Gilt als kulturelles Zentrum für die Süßspeise Kanafeh"],
+      hu: ["I.sz. 72-ben alapította Vespasianus császár", "Az Ebál és a Garizim hegyek között fekszik", "A szamaritánus közösség lakóhelye a Garizim-hegyen", "Az An-Najah Nemzeti Egyetem székhelye (1918)", "Híres az olívaolaj-szappan készítéséről", "A Közel-Kelet Kanafeh fővárosának tekintik"],
+      ro: ["Fondat în anul 72 d.Hr. de împăratul Vespasian", "Situat între munții Ebal și Gerizim", "Căminul comunității samaritene de pe muntele Gerizim", "Sediul Universității Naționale An-Najah (1918)", "Cunoscut pentru producția de săpun din ulei de măsline", "Considerat capitala gastronomică a desertului Kanafeh"],
+      en: ["Founded in 72 AD by Emperor Vespasian", "Located between Mount Ebal and Mount Gerizim", "Home to the Samaritan community on Mount Gerizim", "Site of An-Najah National University, founded in 1918", "Famous for its traditional olive oil soap production", "Known as the culinary capital for Kanafeh pastry"],
+    },
   },
   {
     id: "palestine-khan-yunis-cities-v2",
@@ -95,6 +143,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Founded by Emir Yunus al-Nuzuri", "Second largest city in Gaza Strip", "Major market for citrus fruits", "Historic Mamluk fortress site"],
     },
     imageHint: "Khan Yunis city center and market",
+    descriptionAdvanced: {
+      de: "Khan Yunis ist die zweitgrößte Stadt im Gazastreifen und dient als wichtiges landwirtschaftliches und kommerzielles Zentrum. Die Stadt wurde im 14. Jahrhundert um eine Karawanserei (Khan) herum gegründet, die vom mamlukischen Emir Yunus al-Nozi errichtet wurde. Khan Yunis liegt nur wenige Kilometer von der Mittelmeerküste entfernt und ist von fruchtbarem Land umgeben. Die Region ist besonders bekannt für den Anbau von Zitrusfrüchten und Mandeln.",
+      hu: "Hán Júnisz a Gázai övezet második legnagyobb városa, amely fontos mezőgazdasági és kereskedelmi központ. A várost a 14. században alapították egy karavánszeráj (hán) körül, amelyet Junusz al-Nozi mamlúk emír építtetett. Hán Júnisz néhány kilométerre fekszik a Földközi-tenger partjától, termékeny földek övezik. A régió különösen híres a citrusfélék és a mandula termesztéséről.",
+      ro: "Khan Yunis este al doilea oraș ca mărime din Fâșia Gaza și servește ca un important centru agricol și comercial. Orașul a fost fondat în secolul al XIV-la în jurul unui caravanserai (khan) construit de emirul mameluc Yunus al-Nozi. Khan Yunis este situat la câțiva kilometri de coasta Mediteranei și este înconjurat de terenuri fertile. Regiunea este cunoscută în special pentru cultivarea citricelor și a migdalilor.",
+      en: "Khan Yunis is the second-largest city in the Gaza Strip and serves as a vital agricultural and commercial hub. The city was established in the 14th century around a caravanserai (khan) built by the Mamluk Emir Yunus al-Nozi. Located just a few kilometers from the Mediterranean coast, Khan Yunis is surrounded by fertile land. The region is particularly well-known for its production of citrus fruits and almonds.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1387 von Emir Yunus al-Nozi", "Besitzt eine Karawanserei aus der Mamlukenzeit", "Zweitgrößte Stadt innerhalb des Gazastreifens", "Wichtiges Zentrum für Zitrus- und Mandelproduktion", "Liegt etwa 4 Kilometer von der Mittelmeerküste entfernt", "Historischer Haltepunkt an der Handelsstraße nach Ägypten"],
+      hu: ["1387-ben alapította Junusz al-Nozi emír", "Mamlúk-kori karavánszeráj található a központjában", "A Gázai övezet második legnépesebb városa", "A citrus- és mandulatermesztés központja", "Körülbelül 4 kilométerre fekszik a tengertől", "Történelmi pihenőhely az Egyiptomba vezető úton"],
+      ro: ["Fondat în anul 1387 de emirul Yunus al-Nozi", "Găzduiește un caravanserai din perioada mamelucă", "Al doilea cel mai populat oraș din Fâșia Gaza", "Centru major pentru producția de citrice și migdale", "Situat la aproximativ 4 kilometri de coasta Mediteranei", "Punct istoric de oprire pe ruta comercială spre Egipt"],
+      en: ["Established in 1387 by Emir Yunus al-Nozi", "Features a 14th-century Mamluk caravanserai", "Second largest city in the Gaza Strip", "Major center for citrus and almond production", "Located 4 kilometers from the Mediterranean coast", "Historic transit point on the trade route to Egypt"],
+    },
   },
   {
     id: "palestine-jabalia-cities-v2",
@@ -114,6 +174,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Famous for Byzantine mosaics", "Largest refugee camp in Gaza", "Fertile surrounding farmland", "Near the Mediterranean coast"],
     },
     imageHint: "Byzantine church mosaics in Jabalia",
+    descriptionAdvanced: {
+      de: "Jabalia liegt im nördlichen Gazastreifen und umfasst sowohl die ursprüngliche Stadt als auch das größte Flüchtlingslager Palästinas. Die Region hat eine lange Geschichte, die bis in die byzantinische Zeit zurückreicht, was durch archäologische Funde wie eine antike Kirche belegt wird. Jabalia ist bekannt für seine hohe Bevölkerungsdichte und seine Nähe zum Grenzübergang Erez. Die Stadt spielt eine zentrale Rolle im wirtschaftlichen und sozialen Gefüge des nördlichen Sektors.",
+      hu: "Dzsabalija a Gázai övezet északi részén található, és magában foglalja az eredeti várost, valamint Palesztina legnagyobb menekülttáborát. A régió hosszú múltra tekint vissza, amely a bizánci korig nyúlik, amit egy 5. századi templom romjai is bizonyítanak. Dzsabalija rendkívül sűrűn lakott terület, amely közel fekszik az erezi határátkelőhöz. A város központi szerepet játszik az övezet északi részének gazdasági életében.",
+      ro: "Jabalia este situată în nordul Fâșiei Gaza și cuprinde atât orașul original, cât și cea mai mare tabără de refugiați din Palestina. Regiunea are o istorie lungă care datează din perioada bizantină, dovadă fiind ruinele unei biserici antice. Jabalia este cunoscută pentru densitatea sa ridicată a populației și proximitatea față de punctul de trecere Erez. Orașul joacă un rol central în structura economică a sectorului nordic.",
+      en: "Jabalia is located in the northern Gaza Strip and encompasses both the original town and the largest refugee camp in Palestine. The region has a long history dating back to the Byzantine era, evidenced by archaeological finds such as an ancient church. Jabalia is known for its high population density and its proximity to the Erez crossing. The city plays a central role in the economic and social fabric of the northern sector.",
+    },
+    factsAdvanced: {
+      de: ["Heimat des größten Flüchtlingslagers in Palästina", "Ruinen einer byzantinischen Kirche aus dem 5. Jahrhundert", "Ort des Beginns der Ersten Intifada im Jahr 1987", "Liegt im Gouvernement Nordgaza", "Direkte Nähe zum Grenzübergang Erez nach Israel", "Die Bevölkerung besteht zu einem Großteil aus Flüchtlingen"],
+      hu: ["Itt található Palesztina legnagyobb menekülttábora", "Egy 5. századi bizánci templom romjai láthatók itt", "Az első intifáda 1987-es kiindulópontja", "Észak-Gáza kormányzóságának része", "Közvetlenül az erezi határátkelő mellett fekszik", "A lakosság jelentős része menekült státuszú"],
+      ro: ["Găzduiește cea mai mare tabără de refugiați din Palestina", "Ruinele unei biserici bizantine din secolul al V-lea", "Locul de unde a început Prima Intifadă în 1987", "Situată în Guvernoratul Gaza de Nord", "Proximitate directă față de punctul de trecere Erez", "Populația este formată majoritar din refugiați"],
+      en: ["Home to the largest refugee camp in Palestine", "Ruins of a 5th-century Byzantine church on site", "Starting point of the First Intifada in 1987", "Located within the North Gaza Governorate", "Immediate proximity to the Erez border crossing", "Population consists largely of registered refugees"],
+    },
   },
   {
     id: "palestine-rafah-cities-v2",
@@ -133,6 +205,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Only border crossing to Egypt", "Site of a former international airport", "Ancient city since Pharaonic times", "Divided city due to the border"],
     },
     imageHint: "Rafah border crossing and city",
+    descriptionAdvanced: {
+      de: "Rafah ist die südlichste Stadt im Gazastreifen und liegt direkt an der Grenze zu Ägypten. Sie ist international bekannt als Standort des einzigen Grenzübergangs zwischen Gaza und Ägypten, der nicht direkt von Israel kontrolliert wird. Die Geschichte von Rafah reicht Jahrtausende zurück; sie war Schauplatz bedeutender Schlachten in der Antike. Heute ist die Stadt ein wichtiges Handelszentrum, obwohl sie stark von der politischen Lage an der Grenze geprägt ist.",
+      hu: "Rafah a Gázai övezet legdélebbi városa, közvetlenül az egyiptomi határon fekszik. Nemzetközileg leginkább az Egyiptom és Gáza közötti egyetlen olyan határátkelőről ismert, amelyet nem Izrael ellenőriz közvetlenül. Rafah története évezredekre nyúlik vissza; az ókorban jelentős csaták helyszíne volt. Napjainkban a város fontos kereskedelmi pont, bár fejlődését erősen meghatározza a határ menti politikai helyzet.",
+      ro: "Rafah este cel mai sudic oraș din Fâșia Gaza, situat direct la granița cu Egiptul. Este cunoscut la nivel internațional ca locația singurului punct de trecere între Gaza și Egipt care nu este controlat direct de Israel. Istoria orașului Rafah se întinde pe mii de ani, fiind locul unor bătălii importante în antichitate. Astăzi, orașul este un punct comercial vital, deși este puternic afectat de situația politică de la frontieră.",
+      en: "Rafah is the southernmost city in the Gaza Strip, situated directly on the border with Egypt. It is internationally known as the site of the only border crossing between Gaza and Egypt that is not directly controlled by Israel. Rafah's history stretches back thousands of years; it was the site of major battles in antiquity. Today, the city serves as a vital commercial link, although its development is heavily influenced by the political situation at the border.",
+    },
+    factsAdvanced: {
+      de: ["Südlichste Stadt des Gazastreifens an der Grenze", "Standort des strategischen Rafah-Grenzübergangs", "Ort der Schlacht von Raphia im Jahr 217 v. Chr.", "Historisch als Sharuhen bei den Ägyptern bekannt", "Wurde 1982 durch die Grenzziehung in zwei Teile geteilt", "Wichtiger Anbauort für Nelken und Erdbeeren"],
+      hu: ["A Gázai övezet legdélebbi városa az egyiptomi határon", "Itt található a stratégiai jelentőségű rafahi átkelő", "Az i.e. 217-es raphiai csata helyszíne", "Az ókori egyiptomiak Sharuhen néven ismerték", "1982-ben a határ kijelölésekor két részre szakadt", "Fontos mezőgazdasági terület szegfű és eper számára"],
+      ro: ["Cel mai sudic oraș din Fâșia Gaza la granița cu Egiptul", "Locația punctului strategic de trecere Rafah", "Locul bătăliei de la Raphia din anul 217 î.Hr.", "Cunoscut istoric sub numele de Sharuhen de către egipteni", "Divizat în două părți în 1982 la stabilirea graniței", "Centru important pentru cultivarea garoafelor și căpșunilor"],
+      en: ["Southernmost city of the Gaza Strip on the border", "Site of the strategic Rafah Border Crossing", "Location of the Battle of Raphia in 217 BC", "Historically known to Ancient Egyptians as Sharuhen", "Divided into two parts in 1982 after the border treaty", "Major production area for carnations and strawberries"],
+    },
   },
   {
     id: "palestine-tulkarm-cities-v2",
@@ -152,6 +236,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Name means 'mountain of vineyards'", "Home to Kadoorie University", "Former major railway junction", "Center for textile manufacturing"],
     },
     imageHint: "Tulkarm city view and university",
+    descriptionAdvanced: {
+      de: "Tulkarm liegt im nordwestlichen Westjordanland am Rande der Scharon-Ebene, direkt an der Grünen Linie. Die Stadt ist ein bedeutendes landwirtschaftliches Zentrum, das von fruchtbaren Böden profitiert, auf denen vor allem Zitrusfrüchte und Erdbeeren gedeihen. Historisch war Tulkarm ein wichtiger Eisenbahnknotenpunkt der Palästina-Eisenbahn, der Haifa mit Ägypten verband. Heute beherbergt die Stadt die Kadoorie-Universität, eine der ältesten Bildungseinrichtungen der Region.",
+      hu: "Tulkarm Ciszjordánia északnyugati részén, a Saron-síkság szélén, közvetlenül a zöld vonal mentén található. A város jelentős mezőgazdasági központ, amely a termékeny talajnak köszönhetően elsősorban citrusfélék és eper termesztéséből él. Történelmileg Tulkarm a palesztin vasúthálózat fontos csomópontja volt, amely Haifát kötötte össze Egyiptommal. Ma a város ad otthont a Kadoorie Egyetemnek, a régió egyik legrégebbi oktatási intézményének.",
+      ro: "Tulkarm este situat în nord-vestul Cisiordaniei, la marginea câmpiei Sharon, chiar lângă Linia Verde. Orașul este un centru agricol important, beneficiind de soluri fertile unde se cultivă în principal citrice și căpșuni. Istoric, Tulkarm a fost un nod feroviar major al Căilor Ferate Palestiniene, legând Haifa de Egipt. Astăzi, orașul găzduiește Universitatea Kadoorie, una dintre cele mai vechi instituții de învățământ din regiune.",
+      en: "Tulkarm is located in the northwestern West Bank on the edge of the Sharon plain, directly adjacent to the Green Line. The city is a major agricultural hub, benefiting from fertile soils where citrus fruits and strawberries are primary crops. Historically, Tulkarm was a key railway junction of the Palestine Railways, connecting Haifa with Egypt. Today, the city is home to Kadoorie University, one of the oldest educational institutions in the region.",
+    },
+    factsAdvanced: {
+      de: ["Wichtiger Eisenbahnknotenpunkt der britischen Mandatszeit", "Sitz der Kadoorie-Universität, gegründet 1930", "Liegt am westlichen Rand des samaritischen Hügellandes", "Bekannt für fruchtbares Land und Zitrusplantagen", "Unmittelbare Nähe zur israelischen Stadt Netanja", "Historischer Handelsplatz zwischen Küste und Binnenland"],
+      hu: ["A brit mandátum idején fontos vasúti csomópont volt", "A Kadoorie Egyetem székhelye, amelyet 1930-ban alapítottak", "A szamaritánus dombvidék nyugati szélén fekszik", "Híres termékeny földjeiről és citrusligeteiről", "Közvetlen közelben fekszik az izraeli Netánja városhoz", "Történelmi kereskedelmi kapu a partvidék és a belső területek között"],
+      ro: ["Nod feroviar important în timpul mandatului britanic", "Sediul Universității Kadoorie, fondată în 1930", "Situat la marginea vestică a dealurilor Samariei", "Cunoscut pentru solul fertil și livezile de citrice", "Proximitate imediată față de orașul israelian Netanya", "Punct istoric de schimb comercial între coastă și interior"],
+      en: ["Major railway junction during the British Mandate era", "Home to Kadoorie University, established in 1930", "Located on the western edge of the Samaritan highlands", "Renowned for its fertile land and citrus groves", "Immediate proximity to the Israeli city of Netanya", "Historic trading post between the coast and the interior"],
+    },
   },
   {
     id: "palestine-qalqilya-cities-v2",
@@ -171,6 +267,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Home to Palestine's only zoo", "Center of fruit cultivation", "Very high population density", "Founded in ancient times"],
     },
     imageHint: "Qalqilya Zoo and agricultural fields",
+    descriptionAdvanced: {
+      de: "Qalqilya liegt im Westjordanland an seiner engsten Stelle zum Mittelmeer und ist fast vollständig von der israelischen Sperranlage umgeben. Trotz dieser isolierten Lage ist die Stadt ein produktives landwirtschaftliches Zentrum, berühmt für den Anbau von Guaven und Zitrusfrüchten. Eine Besonderheit ist der Zoo von Qalqilya, der einzige im Westjordanland, der auch ein Naturkundemuseum beherbergt. Die Stadt hat eine der höchsten Bevölkerungsdichten im gesamten Westjordanland.",
+      hu: "Kalkilja Ciszjordánia azon pontján fekszik, ahol a terület a legközelebb van a Földközi-tengerhez, és szinte teljesen körbeveszi az izraeli biztonsági fal. Az izolált helyzet ellenére a város termékeny mezőgazdasági központ, amely híres a guáva és a citrusfélék termesztéséről. Különlegessége a kalkiljai állatkert, amely az egyetlen ilyen intézmény Ciszjordániában, és természettudományi múzeumnak is otthont ad.",
+      ro: "Qalqilya este situată în Cisiordania, în punctul cel mai apropiat de Marea Mediterană, fiind aproape complet înconjurată de bariera de separare israeliană. În ciuda acestei izolări, orașul este un centru agricol productiv, faimos pentru cultivarea guavelor și a citricelor. O caracteristică unică este grădina zoologică din Qalqilya, singura din Cisiordania, care găzduiește și un muzeu de istorie naturală. Orașul are una dintre cele mai mari densități ale populației.",
+      en: "Qalqilya is located in the West Bank at its narrowest point to the Mediterranean Sea and is almost entirely surrounded by the Israeli separation barrier. Despite this isolation, the city remains a productive agricultural center, famous for its guava and citrus groves. A unique feature is the Qalqilya Zoo, the only one in the West Bank, which also houses a natural history museum. The city has one of the highest population densities in the region.",
+    },
+    factsAdvanced: {
+      de: ["Fast vollständig von der Sperranlage umgeben", "Beherbergt den einzigen Zoo im Westjordanland", "Führendes Zentrum für den Guavenanbau in Palästina", "Liegt nur etwa 14 Kilometer vom Mittelmeer entfernt", "Hohe Bevölkerungsdichte auf kleiner Stadtfläche", "Historisch wichtiges Agrarzentrum der Region"],
+      hu: ["Szinte teljesen körbeveszi az elválasztó fal", "Itt található Ciszjordánia egyetlen állatkertje", "Palesztina vezető guávatermesztő központja", "Mindössze 14 kilométerre fekszik a Földközi-tengertől", "Rendkívül nagy népsűrűség jellemzi", "A régió történelmileg fontos agrárközpontja"],
+      ro: ["Aproape complet încercuit de bariera de separare", "Găzduiește singura grădină zoologică din Cisiordania", "Centru principal pentru cultivarea guavelor în Palestina", "Situat la doar 14 kilometri de Marea Mediterană", "Densitate a populației foarte ridicată pe o suprafață mică", "Centru agrar istoric important al regiunii"],
+      en: ["Almost entirely encircled by the separation barrier", "Home to the only zoo in the West Bank", "Leading center for guava production in Palestine", "Located only about 14 kilometers from the Mediterranean Sea", "One of the most densely populated cities in the West Bank", "Historically significant agricultural hub of the region"],
+    },
   },
   {
     id: "palestine-jenin-cities-v2",
@@ -190,6 +298,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Known as the 'garden of the region'", "Ancient En-Gannim", "Home to the Arab American University", "Famous for olive oil production"],
     },
     imageHint: "Jenin city landscape and hills",
+    descriptionAdvanced: {
+      de: "Jenin liegt im äußersten Norden des Westjordanlands am südlichen Rand der Marj Ibn Amer-Ebene. Die Stadt blickt auf eine jahrtausendealte Geschichte zurück und wird oft mit dem biblischen En-Ganim identifiziert. Jenin ist ein bedeutendes landwirtschaftliches Zentrum für das Umland und bekannt für seinen lebhaften Markt. In der Nähe befindet sich die Burqin-Kirche, die als eine der ältesten Kirchen der Welt gilt und mit der Heilung der Zehn Aussätzigen in Verbindung gebracht wird.",
+      hu: "Dzsenín Ciszjordánia legészakibb részén, a Marj Ibn Amer-síkság déli szélén található. A város több évezredes múltra tekint vissza, gyakran azonosítják a bibliai En-Ganim településsel. Dzsenín a környező mezőgazdasági területek fontos kereskedelmi központja, híres nyüzsgő piacáról. A közelben található a Burqin-templom, amely a világ egyik legrégebbi keresztény temploma, és a tíz leprás meggyógyításának helyszínéhez kötik.",
+      ro: "Jenin este situat în nordul extrem al Cisiordaniei, la marginea sudică a câmpiei Marj Ibn Amer. Orașul are o istorie de mii de ani și este adesea identificat cu localitatea biblică En-Ganim. Jenin este un centru agricol vital pentru zona înconjurătoare și este cunoscut pentru piețele sale animate. În apropiere se află Biserica Burqin, considerată una dintre cele mai vechi biserici din lume, asociată cu vindecarea celor zece leproși.",
+      en: "Jenin is located in the far north of the West Bank at the southern edge of the Marj Ibn Amer plain. The city has a history spanning millennia and is often identified with the biblical town of En-Ganim. Jenin serves as a major agricultural center for the surrounding countryside and is known for its vibrant markets. Nearby is the Burqin Church, considered one of the oldest churches in the world, associated with the healing of the ten lepers.",
+    },
+    factsAdvanced: {
+      de: ["Identifiziert mit dem biblischen Ort En-Ganim", "Liegt am Rande der fruchtbaren Ebene Marj Ibn Amer", "Heimat der Burqin-Kirche aus dem 4. Jahrhundert", "Wichtiger Markt für Agrarprodukte aus dem Norden", "Das Flüchtlingslager Jenin wurde 1953 gegründet", "Historischer Verbindungspunkt zwischen Galiläa und Samaria"],
+      hu: ["A bibliai En-Ganim településsel azonosítják", "A termékeny Marj Ibn Amer-síkság szélén fekszik", "Itt található a 4. századi Burqin-templom", "Észak-Palesztina fontos agrárkereskedelmi központja", "A dzseníni menekülttábort 1953-ban alapították", "Történelmi összekötő pont Galilea és Szamária között"],
+      ro: ["Identificat cu localitatea biblică En-Ganim", "Situat la marginea câmpiei fertile Marj Ibn Amer", "Găzduiește Biserica Burqin din secolul al IV-lea", "Piață majoră pentru produsele agricole din nord", "Tabăra de refugiați Jenin a fost înființată în 1953", "Punct istoric de legătură între Galileea și Samaria"],
+      en: ["Identified with the biblical site of En-Ganim", "Located on the edge of the fertile Marj Ibn Amer plain", "Home to the 4th-century Burqin Church", "Major market for agricultural products in the north", "Jenin refugee camp was established in 1953", "Historic transit point between Galilee and Samaria"],
+    },
   },
   {
     id: "palestine-beit-hanoun-cities-v2",
@@ -209,6 +329,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Historic Mamluk mosque", "Near the Erez border crossing", "Agricultural export zone", "Founded in ancient times"],
     },
     imageHint: "Beit Hanoun orchards and mosque",
+    descriptionAdvanced: {
+      de: "Beit Hanoun liegt im nordöstlichen Gazastreifen, nahe der Grenze zu Israel und dem Grenzübergang Erez. Die Stadt ist nach dem philisterischen König Hanun benannt und hat eine tief verwurzelte landwirtschaftliche Tradition, insbesondere im Anbau von Zitrusfrüchten. Eine historische Sehenswürdigkeit ist die Al-Nasr-Moschee, die 1239 zur Erinnerung an einen Sieg über die Kreuzfahrer errichtet wurde. Aufgrund ihrer Grenzlage ist die Stadt oft von regionalen Konflikten betroffen.",
+      hu: "Bét Hanún a Gázai övezet északkeleti részén fekszik, közel az izraeli határhoz és az erezi átkelőhöz. A város a filiszteus Hanun királyról kapta a nevét, és mélyen gyökerező mezőgazdasági hagyományokkal rendelkezik, különösen a citrusfélék termesztése terén. Történelmi látnivalója az Al-Nasr-mecset, amelyet 1239-ben építettek a keresztesek feletti győzelem emlékére. Határ menti elhelyezkedése miatt a város gyakran érintett a regionális konfliktusokban.",
+      ro: "Beit Hanoun este situat în nord-estul Fâșiei Gaza, aproape de granița cu Israel și de punctul de trecere Erez. Orașul poartă numele regelui filistean Hanun și are o tradiție agricolă adânc înrădăcinată, în special în cultivarea citricelor. Un obiectiv istoric important este Moscheea Al-Nasr, construită în 1239 pentru a comemora o victorie asupra cruciaților. Datorită poziției sale la frontieră, orașul este adesea afectat de conflictele regionale.",
+      en: "Beit Hanoun is located in the northeastern Gaza Strip, close to the border with Israel and the Erez crossing. Named after the Philistine King Hanun, the city has a deep agricultural tradition, particularly in citrus fruit production. A key historical site is the Al-Nasr Mosque, built in 1239 to commemorate a victory over the Crusaders. Because of its border location, the city is frequently impacted by regional conflicts.",
+    },
+    factsAdvanced: {
+      de: ["Benannt nach dem antiken Philisterkönig Hanun", "Die Al-Nasr-Moschee stammt aus dem Jahr 1239", "Nördlichste Stadt innerhalb des Gazastreifens", "Bedeutendes Zentrum für den Anbau von Orangen", "Liegt in unmittelbarer Nähe zum Erez-Terminal", "Historisch bekannt für ihre Obstgärten und Brunnen"],
+      hu: ["Az ókori filiszteus királyról, Hanunról nevezték el", "Az Al-Nasr-mecset 1239-ből származik", "A Gázai övezet legészakibb városa", "Jelentős narancstermesztő központ", "Közvetlenül az erezi terminál mellett fekszik", "Történelmileg híres gyümölcsöskertjeiről és kútjairól"],
+      ro: ["Numit după vechiul rege filistean Hanun", "Moscheea Al-Nasr datează din anul 1239", "Cel mai nordic oraș din Fâșia Gaza", "Centru important pentru cultivarea portocalilor", "Situat în imediata apropiere a terminalului Erez", "Cunoscut istoric pentru livezile și fântânile sale"],
+      en: ["Named after the ancient Philistine King Hanun", "The Al-Nasr Mosque dates back to 1239", "Northernmost city within the Gaza Strip", "Significant center for orange production", "Located in immediate proximity to the Erez terminal", "Historically famous for its orchards and wells"],
+    },
   },
   {
     id: "palestine-beit-lahiya-cities-v2",
@@ -228,6 +360,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Center of strawberry farming", "Ancient ruins in the vicinity", "Near the Mediterranean coast", "Important irrigation systems"],
     },
     imageHint: "Beit Lahiya strawberry fields",
+    descriptionAdvanced: {
+      de: "Beit Lahiya liegt im Norden des Gazastreifens an der Mittelmeerküste und ist von markanten Sanddünen umgeben. Die Stadt ist weithin bekannt für ihre hochwertige landwirtschaftliche Produktion, insbesondere für Erdbeeren, die für den Export bestimmt sind. Archäologische Ausgrabungen haben Überreste aus der byzantinischen Zeit ans Licht gebracht, darunter einen beeindruckenden Mosaikboden. Die Küstenlage prägt das Mikroklima und macht die Region zu einer der fruchtbarsten in Gaza.",
+      hu: "Bét Lahija a Gázai övezet északi részén, a Földközi-tenger partján fekszik, jellegzetes homokdűnékkel körülvéve. A város híres kiváló minőségű mezőgazdasági termékeiről, különösen az exportra szánt szamócáról. A régészeti feltárások bizánci kori maradványokat, többek között egy lenyűgöző mozaikpadlót hoztak felszínre a területen. A tengerparti elhelyezkedés kedvező mikroklímát biztosít, így a régió Gáza egyik legtermékenyebb területe.",
+      ro: "Beit Lahiya este situat în nordul Fâșiei Gaza, pe coasta Mediteranei, fiind înconjurat de dune de nisip distinctive. Orașul este renumit pentru producția sa agricolă de înaltă calitate, în special pentru căpșunile destinate exportului. Săpăturile arheologice au scos la lumină vestigii din perioada bizantină, inclusiv un pavaj de mozaic impresionant. Locația de coastă modelează microclimatul, făcând regiunea una dintre cele mai fertile din Gaza.",
+      en: "Beit Lahiya is located in the northern Gaza Strip along the Mediterranean coast, surrounded by prominent sand dunes. The city is widely renowned for its high-quality agricultural output, particularly strawberries produced for export. Archaeological excavations have revealed remains from the Byzantine era, including an impressive mosaic floor. Its coastal position shapes the local microclimate, making the area one of the most fertile in Gaza.",
+    },
+    factsAdvanced: {
+      de: ["Berühmt für den Export von hochwertigen Erdbeeren", "Beherbergt byzantinische Mosaikböden aus dem 5. Jahrhundert", "Umgeben von weitläufigen Sanddünen im Norden", "Liegt direkt an der Küste des Mittelmeers", "Wichtiger Produzent von Beeren und Zitrusfrüchten", "Der Name bedeutet Haus des Müßiggangs oder der Ruhe"],
+      hu: ["Híres a kiváló minőségű exporteperről", "5. századi bizánci mozaikpadló található itt", "Északról kiterjedt homokdűnék övezik", "Közvetlenül a Földközi-tenger partján fekszik", "Bogyós gyümölcsök és citrusfélék fontos termelője", "Neve a tétlenség vagy a pihenés házát jelenti"],
+      ro: ["Faimos pentru exportul de căpșuni de calitate superioară", "Găzduiește pavaje de mozaic bizantin din secolul al V-lea", "Înconjurat de dune de nisip extinse în partea de nord", "Situat direct pe coasta Mării Mediterane", "Producător major de fructe de pădure și citrice", "Numele se traduce prin Casa trândăviei sau a odihnei"],
+      en: ["Famous for exporting premium quality strawberries", "Home to 5th-century Byzantine mosaic floors", "Surrounded by extensive sand dunes to the north", "Located directly on the Mediterranean coast", "Key producer of berries and citrus fruits", "The name translates to House of Leisure or Rest"],
+    },
   },
   {
     id: "palestine-deir-al-balah-cities-v2",
@@ -247,6 +391,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Largest date producer in Gaza", "Site of a Byzantine monastery", "Important archaeological findings", "Beautiful Mediterranean beaches"],
     },
     imageHint: "Date palm groves in Deir al-Balah",
+    descriptionAdvanced: {
+      de: "Deir al-Balah liegt im zentralen Gazastreifen und ist nach den zahlreichen Dattelpalmen benannt, die das Stadtbild prägen. Die Stadt hat eine bedeutende christliche Vergangenheit und wurde auf dem Gelände eines Klosters aus dem 4. Jahrhundert errichtet, das dem Heiligen Hilarion gewidmet war. Als eine der ältesten Siedlungen in Gaza ist sie für ihre archäologischen Stätten bekannt, darunter phönizische Gräber. Die Landwirtschaft, insbesondere die Dattelproduktion, bleibt der wichtigste Wirtschaftszweig.",
+      hu: "Deir al-Balah a Gázai övezet középső részén található, nevét a városképet meghatározó számos datolyapálmáról kapta. A város jelentős keresztény múlttal rendelkezik, egy 4. századi kolostor helyére épült, amelyet Szent Hilarionnak szenteltek. Gáza egyik legrégebbi településeként régészeti lelőhelyeiről is híres, többek között föníciai sírokat is feltártak itt. A mezőgazdaság, különösen a datolyatermesztés, ma is a legfontosabb gazdasági ágazat.",
+      ro: "Deir al-Balah este situat în centrul Fâșiei Gaza și este numit după numeroșii curmali care definesc peisajul orașului. Orașul are un trecut creștin semnificativ, fiind construit pe locul unei mănăstiri din secolul al IV-lea dedicată Sfântului Hilarion. Fiind una dintre cele mai vechi așezări din Gaza, este cunoscut pentru siturile sale arheologice, inclusiv morminte feniciene. Agricultura, în special producția de curmale, rămâne principala ramură economică.",
+      en: "Deir al-Balah is located in the central Gaza Strip and is named after the numerous date palms that characterize the city's landscape. The city has a significant Christian history, built on the site of a 4th-century monastery dedicated to Saint Hilarion. As one of the oldest settlements in Gaza, it is known for its archaeological sites, including Phoenician graves. Agriculture, especially date production, remains the primary economic sector.",
+    },
+    factsAdvanced: {
+      de: ["Name bedeutet übersetzt Kloster der Datteln", "Standort des Klosters des Heiligen Hilarion (4. Jh.)", "Wichtigstes Zentrum für Dattelproduktion in Gaza", "Archäologische Fundstätte phönizischer Anthropoid-Sarkophage", "Eine der ältesten kontinuierlich bewohnten Städte in Gaza", "Liegt etwa auf halbem Weg zwischen Gaza-Stadt und Khan Yunis"],
+      hu: ["A név jelentése: a datolyák monostora", "Itt állt Szent Hilarion 4. századi kolostora", "A gázai datolyatermesztés legfontosabb központja", "Föníciai ember alakú szarkofágokat találtak itt", "Gáza egyik legrégebbi folyamatosan lakott városa", "Körülbelül félúton fekszik Gáza városa és Hán Júnisz között"],
+      ro: ["Numele se traduce prin Mănăstirea Curmalelor", "Locația mănăstirii Sfântului Ilarion (sec. IV)", "Cel mai important centru de producție a curmalelor din Gaza", "Situl descoperirii unor sarcofage feniciene antropoide", "Unul dintre cele mai vechi orașe locuite continuu din Gaza", "Situat la jumătatea distanței între Gaza și Khan Yunis"],
+      en: ["The name translates to Monastery of the Dates", "Site of the Monastery of St. Hilarion (4th century)", "Main center for date production in the Gaza Strip", "Location of discovered Phoenician anthropoid sarcophagi", "One of the oldest continuously inhabited cities in Gaza", "Located halfway between Gaza City and Khan Yunis"],
+    },
   },
   {
     id: "palestine-jericho-cities-v2",
@@ -266,6 +422,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Lowest city on Earth", "Known for the Mount of Temptation", "Famous for bananas and dates", "Archaeological site of Tell es-Sultan"],
     },
     imageHint: "Jericho city oasis and Mount of Temptation",
+    descriptionAdvanced: {
+      de: "Jericho liegt im Jordantal im Westjordanland und gilt als die älteste kontinuierlich bewohnte Stadt der Welt. Die Stadt befindet sich etwa 258 Meter unter dem Meeresspiegel und ist damit die tiefstgelegene Stadt der Erde. Jericho ist berühmt für seine archäologischen Schätze, wie den Tel es-Sultan und den prachtvollen Hisham-Palast aus der Umayyaden-Zeit. Dank der ganzjährig warmen Temperaturen und zahlreicher Quellen ist die Region eine grüne Oase, bekannt für Bananen und Zitrusfrüchte.",
+      hu: "Jerikó a Jordán-völgyben, Ciszjordániában található, és a világ legrégebbi, folyamatosan lakott városaként tartják számon. A település körülbelül 258 méterrel a tengerszint alatt fekszik, ezzel a Föld legmélyebben elhelyezkedő városa. Jerikó híres régészeti kincseiről, mint például Tell es-Sultan és az omajjád kori Hisám-palota. Az egész évben meleg éghajlatnak és a forrásoknak köszönhetően a régió zöld oázis, híres banán- és citrusültetvényeiről.",
+      ro: "Ierihon este situat în Valea Iordanului din Cisiordania și este considerat cel mai vechi oraș locuit continuu din lume. Orașul se află la aproximativ 258 de metri sub nivelul mării, fiind orașul situat la cea mai joasă altitudine de pe Pământ. Ierihon este faimos pentru comorile sale arheologice, precum Tel es-Sultan și magnificul Palat al lui Hisham din perioada umayyadă. Datorită temperaturilor calde și izvoarelor, regiunea este o oază verde, renumită pentru banane și citrice.",
+      en: "Jericho is located in the Jordan Valley of the West Bank and is widely considered the oldest continuously inhabited city in the world. Situated approximately 258 meters below sea level, it is the lowest-lying city on Earth. Jericho is famous for its archaeological treasures, such as Tel es-Sultan and the magnificent 8th-century Hisham's Palace. Thanks to its year-round warm climate and abundant springs, the area is a green oasis known for its banana and citrus production.",
+    },
+    factsAdvanced: {
+      de: ["Älteste kontinuierlich bewohnte Stadt der Welt (9000 v. Chr.)", "Liegt 258 Meter unter dem Meeresspiegel", "Besitzt mit Tel es-Sultan den ältesten Turm der Welt", "Standort des prachtvollen Hisham-Palastes (8. Jahrhundert)", "Bekannt als Stadt der Palmen in biblischen Texten", "Der Berg der Versuchung liegt unmittelbar westlich der Stadt"],
+      hu: ["A világ legrégebbi, folyamatosan lakott városa (i.e. 9000)", "258 méterrel a tengerszint alatt fekszik", "Itt található a világ legrégebbi tornya (Tell es-Sultan)", "Az omajjád kori Hisám-palota helyszíne (8. század)", "A bibliai szövegekben a pálmák városaként említik", "A Kísértés hegye közvetlenül a várostól nyugatra emelkedik"],
+      ro: ["Cel mai vechi oraș locuit continuu din lume (9000 î.Hr.)", "Situat la 258 de metri sub nivelul mării", "Găzduiește cel mai vechi turn din lume la Tel es-Sultan", "Locația Palatului lui Hisham din secolul al VIII-lea", "Cunoscut ca Orașul Palmierilor în textele biblice", "Muntele Ispitirii este situat imediat la vest de oraș"],
+      en: ["Oldest continuously inhabited city in the world (9000 BC)", "Situated 258 meters below sea level", "Home to the world's oldest tower at Tel es-Sultan", "Site of the 8th-century Umayyad Hisham's Palace", "Known as the City of Palm Trees in biblical texts", "The Mount of Temptation is located just west of the city"],
+    },
   },
   {
     id: "palestine-beit-jala-cities-v2",
@@ -285,6 +453,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Home to St. Nicholas Church", "Center of olive oil production", "Significant educational institutions", "Hilly landscape"],
     },
     imageHint: "Beit Jala old town and olive trees",
+    descriptionAdvanced: {
+      de: "Beit Jala liegt auf einem Hügel im Westjordanland, unmittelbar westlich von Bethlehem. Die Stadt ist bekannt für ihre historische christliche Bevölkerung und ihre traditionelle Architektur aus lokalem Kalkstein. Beit Jala ist berühmt für die Produktion von hochwertigem Olivenöl und beherbergt das renommierte Cremisan-Kloster mit seinem Weingut. Die Stadt bietet weite Ausblicke über die umliegenden Täler und bewahrt trotz moderner Entwicklung ihren kulturellen Charakter.",
+      hu: "Bét Dzsala egy dombtetőn fekszik Ciszjordániában, közvetlenül Betlehemtől nyugatra. A város híres történelmi keresztény lakosságáról és a helyi mészkőből készült hagyományos építészetéről. Bét Dzsala elismert a kiváló minőségű olívaolajáról, és itt található a neves Cremisan-kolostor a hozzá tartozó borászattal. A város tágas kilátást nyújt a környező völgyekre, és a modern fejlődés ellenére is őrzi kulturális jellegét.",
+      ro: "Beit Jala este situat pe un deal în Cisiordania, imediat la vest de Betleem. Orașul este cunoscut pentru populația sa creștină istorică și arhitectura tradițională din piatră de calcar locală. Beit Jala este faimos pentru producția de ulei de măsline de înaltă calitate și găzduiește renumita Mănăstire Cremisan, cu vinăria sa. Orașul oferă vederi panoramice asupra văilor înconjurătoare și își păstrează caracterul cultural în ciuda dezvoltării moderne.",
+      en: "Beit Jala is located on a hilltop in the West Bank, immediately west of Bethlehem. The city is known for its historic Christian population and its traditional architecture made of local limestone. Beit Jala is famous for producing high-quality olive oil and is home to the renowned Cremisan Monastery and its winery. The city offers expansive views over the surrounding valleys and maintains its cultural character despite modern development.",
+    },
+    factsAdvanced: {
+      de: ["Historisch mehrheitlich von Christen bewohnt", "Berühmt für sein erstklassiges Olivenöl", "Beherbergt das Cremisan-Kloster und Weingut", "Liegt auf einer Höhe von etwa 825 Metern", "Traditionelles Zentrum des Steinmetzhandwerks", "Name stammt vermutlich vom aramäischen Haus der Gräser"],
+      hu: ["Történelmileg többségében keresztények lakták", "Híres az első osztályú olívaolajáról", "Itt található a Cremisan-kolostor és borászat", "Tengerszint feletti magassága kb. 825 méter", "A kőfaragó mesterség hagyományos központja", "A név valószínűleg az arám füvek háza kifejezésből ered"],
+      ro: ["Locuit istoric de o majoritate creștină", "Faimos pentru uleiul de măsline de primă clasă", "Găzduiește Mănăstirea și Vinăria Cremisan", "Situat la o altitudine de aproximativ 825 metri", "Centru tradițional pentru meșteșugul tăierii pietrei", "Numele provine probabil din aramaicul Casa Ierbii"],
+      en: ["Historically inhabited by a Christian majority", "Famous for its premium quality olive oil", "Home to the Cremisan Monastery and Winery", "Elevation is approximately 825 meters above sea level", "Traditional center for stone-cutting industries", "The name likely derives from Aramaic for House of Grass"],
+    },
   },
   {
     id: "palestine-beit-sahour-cities-v2",
@@ -304,6 +484,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Site of the Shepherds' Field Chapel", "Center for crafts and mother-of-pearl", "Significant Christian community", "Ancient archaeological finds"],
     },
     imageHint: "Shepherds' Field Chapel in Beit Sahour",
+    descriptionAdvanced: {
+      de: "Beit Sahour liegt östlich von Bethlehem und ist traditionell als der Ort bekannt, an dem die Engel den Hirten die Geburt Jesu verkündeten. Die Stadt beherbergt das Hirtenfeld mit mehreren Kirchen und archäologischen Stätten, die dieses biblische Ereignis ehren. Beit Sahour hat eine bedeutende christliche Gemeinde und ist für seine gut erhaltene Altstadt mit engen Gassen bekannt. Die lokale Wirtschaft wird durch den Tourismus und traditionelle Handwerke wie die Olivenholzschnitzerei geprägt.",
+      hu: "Bét Szahúr Betlehemtől keletre fekszik, és hagyományosan az a hely, ahol az angyalok hírül adták a pásztoroknak Jézus születését. A városban található a Pásztorok mezeje több templommal és régészeti lelőhellyel, amelyek ezt a bibliai eseményt tisztelik. Bét Szahúr jelentős keresztény közösséggel rendelkezik, és híres jól megőrzött, szűk utcás óvárosáról. A helyi gazdaságot a turizmus és a hagyományos kézművesség, például az olajfafaragás határozza meg.",
+      ro: "Beit Sahour este situat la est de Betleem și este cunoscut tradițional ca locul unde îngerii au vestit păstorilor nașterea lui Iisus. Orașul găzduiește Câmpul Păstorilor, cu mai multe biserici și situri arheologice care onorează acest eveniment biblic. Beit Sahour are o comunitate creștină semnificativă și este cunoscut pentru centrul său vechi bine conservat, cu străzi înguste. Economia locală este marcată de turism și meșteșuguri tradiționale precum sculptura în lemn de măslin.",
+      en: "Beit Sahour is located east of Bethlehem and is traditionally known as the site where angels announced the birth of Jesus to the shepherds. The city is home to the Shepherds' Field, which features several churches and archaeological sites honoring this biblical event. Beit Sahour has a significant Christian community and is known for its well-preserved Old City with narrow alleys. The local economy is driven by tourism and traditional crafts such as olive wood carving.",
+    },
+    factsAdvanced: {
+      de: ["Identifiziert als Standort des biblischen Hirtenfeldes", "Historisches Zentrum der Olivenholzschnitzerei", "Besitzt eine gut erhaltene Altstadt mit osmanischer Architektur", "Liegt in unmittelbarer Nähe zum Geburtsort Jesu", "Heimat zahlreicher Steinbruch- und Schneidebetriebe", "Name bedeutet Haus der Wächter oder Haus der Nachtwache"],
+      hu: ["A bibliai Pásztorok mezejének helyszíneként azonosítják", "Az olajfafaragás történelmi központja", "Oszmán építészeti jegyeket őrző óvárosa van", "Közvetlen közelben fekszik Jézus születési helyéhez", "Számos kőbánya és kőmegmunkáló üzem otthona", "A név jelentése: a virrasztók háza vagy az éjszakai őrség háza"],
+      ro: ["Identificat ca locația biblicului Câmp al Păstorilor", "Centru istoric al sculpturii în lemn de măslin", "Posedă un centru vechi cu arhitectură otomană", "Situat în imediata apropiere a locului nașterii lui Iisus", "Căminul multor industrii de tăiere a pietrei", "Numele înseamnă Casa Vigilentilor sau a Pazei de Noapte"],
+      en: ["Identified as the site of the biblical Shepherds' Field", "Historic center for traditional olive wood carving", "Features a well-preserved Old City with Ottoman architecture", "Located in immediate proximity to Bethlehem", "Home to many stone-quarrying and cutting industries", "The name translates to House of the Night Watch"],
+    },
   },
   {
     id: "palestine-ramallah-cities-v2",
@@ -323,6 +515,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Seat of the Palestinian Authority", "Major banking hub", "Elevation of about 880 meters", "Modern urban center"],
     },
     imageHint: "Ramallah city center and Manara Square",
+    descriptionAdvanced: {
+      de: "Ramallah liegt im zentralen Westjordanland etwa 10 Kilometer nördlich von Jerusalem auf einer Anhöhe. Die Stadt dient als de facto administratives und politisches Zentrum Palästinas und beherbergt zahlreiche Regierungsgebäude und diplomatische Vertretungen. Ramallah ist bekannt für seine lebendige Kulturszene, moderne Restaurants und das geschäftige Treiben rund um den Al-Manara-Platz. Die Stadt verbindet eine historische Basis aus dem 16. Jahrhundert mit einer dynamischen, urbanen Entwicklung.",
+      hu: "Rámalláh Ciszjordánia középső részén, Jeruzsálemtől mintegy 10 kilométerre északra, egy dombháton fekszik. A város Palesztina de facto adminisztratív és politikai központjaként szolgál, számos kormányzati épületnek és diplomáciai képviseletnek ad otthont. Rámalláh híres élénk kulturális életéről, modern éttermeiről és az Al-Manara tér körüli nyüzsgésről. A város ötvözi a 16. századi történelmi alapokat a dinamikus, modern városfejlesztéssel.",
+      ro: "Ramallah este situat în centrul Cisiordaniei, la aproximativ 10 kilometri nord de Ierusalim, pe o zonă înaltă. Orașul servește ca centru administrativ și politic de facto al Palestinei, găzduind numeroase clădiri guvernamentale și misiuni diplomatice. Ramallah este cunoscut pentru scena sa culturală vibrantă, restaurantele moderne și activitatea intensă din jurul Pieței Al-Manara. Orașul îmbină o bază istorică din secolul al XVI-lea cu o dezvoltare urbană dinamică.",
+      en: "Ramallah is located in the central West Bank, approximately 10 kilometers north of Jerusalem, situated on a high ridge. The city serves as the de facto administrative and political center of Palestine, housing numerous government buildings and diplomatic missions. Ramallah is known for its vibrant cultural scene, modern restaurants, and the bustling activity around Al-Manara Square. The city blends its 16th-century historical roots with dynamic urban development.",
+    },
+    factsAdvanced: {
+      de: ["Dient als de facto administratives Zentrum Palästinas", "Liegt auf einer Höhe von etwa 880 Metern", "Gegründet als modernes Dorf im 16. Jahrhundert", "Standort der Grabstätte von Jassir Arafat", "Der Al-Manara-Platz bildet das Herz der Innenstadt", "Wichtigster Wirtschaftsknotenpunkt im Westjordanland"],
+      hu: ["Palesztina de facto adminisztratív központjaként szolgál", "Tengerszint feletti magassága kb. 880 méter", "Modern városként a 16. században alapították", "Itt található Jasszer Arafat síremléke", "Az Al-Manara tér a város központi találkozópontja", "Ciszjordánia legfontosabb gazdasági csomópontja"],
+      ro: ["Servește ca centru administrativ de facto al Palestinei", "Situat la o altitudine de aproximativ 880 metri", "Fondat ca localitate modernă în secolul al XVI-lea", "Locația mausoleului lui Yasser Arafat", "Piața Al-Manara este punctul central al orașului", "Principalul nod economic din Cisiordania"],
+      en: ["Serves as the de facto administrative capital of Palestine", "Elevation is 880 meters above sea level", "Established as a modern town in the 16th century", "Home to the burial site of Yasser Arafat", "Al-Manara Square is the central landmark of the city", "Major economic and cultural hub of the West Bank"],
+    },
   },
   {
     id: "palestine-al-bireh-cities-v2",
@@ -342,6 +546,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Center for trade and logistics", "Home to many international NGOs", "Historic Crusader church site", "Major transportation hub"],
     },
     imageHint: "Al-Bireh city view and infrastructure",
+    descriptionAdvanced: {
+      de: "Al-Bireh liegt im zentralen Westjordanland, unmittelbar angrenzend an Ramallah. Die Stadt fungiert als bedeutendes Verwaltungs- und Wirtschaftszentrum. Sie liegt auf einem Bergrücken etwa 860 Meter über dem Meeresspiegel. Historisch ist der Ort seit der kanaanitischen Zeit besiedelt.",
+      hu: "El-Bireh Ciszjordánia középső részén helyezkedik el, közvetlenül Rámalláh mellett. A város fontos közigazgatási és kereskedelmi csomópont a Palesztin Hatóság területén. Egy mészkőhegy gerincén fekszik, mintegy 860 méterrel a tengerszint felett. A település története a kánaáni időkig nyúlik vissza.",
+      ro: "Al-Bireh este situat în centrul Cisiordaniei, fiind practic lipit de orașul Ramallah. Orașul servește ca un important centru administrativ și economic regional. Este amplasat pe o creastă muntoasă la o altitudine de aproximativ 860 de metri. Așezarea are o istorie lungă, datând încă din perioada canaanită.",
+      en: "Al-Bireh is located in the central West Bank, immediately adjacent to Ramallah. The city functions as a significant administrative and commercial hub within the Palestinian territories. It sits on a mountain ridge at an elevation of approximately 860 meters above sea level. The site has been inhabited since the Canaanite period.",
+    },
+    factsAdvanced: {
+      de: ["Liegt auf einer Höhe von ca. 860 Metern über dem Meer.", "Grenzt direkt an die Stadt Ramallah an.", "Beherbergt ca. 45.000 Einwohner im Stadtgebiet.", "Wichtiger Standort für palästinensische Institutionen.", "Historische Ausgrabungsstätte Beitin liegt in der Nähe.", "Bedeutender Verkehrsknotenpunkt im zentralen Bergland."],
+      hu: ["Kb. 860 méteres tengerszint feletti magasságon fekszik.", "Közvetlenül határos Rámalláh városával.", "Lakossága a városi területen kb. 45 000 fő.", "Számos palesztin kormányzati intézmény székhelye.", "A történelmi Beitin régészeti lelőhely a közelben található.", "Fontos közlekedési csomópont a központi hegyvidéken."],
+      ro: ["Situat la o altitudine de aprox. 860 de metri.", "Se învecinează direct cu orașul Ramallah.", "Populația zonei urbane este de aproximativ 45.000 de locuitori.", "Găzduiește sedii ale multor instituții palestiniene.", "Situl arheologic istoric Beitin se află în apropiere.", "Nod de transport major în regiunea muntoasă centrală."],
+      en: ["Situated at an elevation of approx. 860 meters.", "Directly adjacent to the city of Ramallah.", "Home to about 45,000 residents in the urban area.", "Host to numerous Palestinian governmental institutions.", "The historical site of Beitin is located nearby.", "Significant transportation hub in the central highlands."],
+    },
   },
   {
     id: "palestine-salfit-cities-v2",
@@ -361,6 +577,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Center of the olive oil industry", "Highest density of olive trees", "Home to Al-Quds Open University", "Hilly topography"],
     },
     imageHint: "Olive groves and hills in Salfit",
+    descriptionAdvanced: {
+      de: "Salfit ist das Verwaltungszentrum des gleichnamigen Gouvernements im zentralen Westjordanland. Die Stadt ist weithin bekannt als die „Hauptstadt der Oliven“ aufgrund ihrer ausgedehnten Olivenhaine. Sie liegt auf einer Höhe von etwa 510 Metern. In der Stadt befindet sich ein wichtiger Standort der Al-Quds Open University.",
+      hu: "Szalfít az azonos nevű kormányzóság közigazgatási központja Ciszjordánia középső részén. A várost gyakran az „olajbogyók fővárosaként” emlegetik a kiterjedt olajfaligetek miatt. Körülbelül 510 méteres tengerszint feletti magasságon fekszik. Itt található az Al-Kudsz Nyitott Egyetem egyik jelentős campusa.",
+      ro: "Salfit este centrul administrativ al guvernoratului cu același nume din centrul Cisiordaniei. Orașul este cunoscut sub numele de „Capitala Măslinelor” datorită vastelor plantații de măslini din jur. Se află la o altitudine de aproximativ 510 metri. Orașul găzduiește o ramură importantă a Universității Deschise Al-Quds.",
+      en: "Salfit serves as the administrative center of its namesake governorate in the central West Bank. The city is widely recognized as the \"Olive Capital\" due to its extensive olive groves. It is situated at an elevation of approximately 510 meters above sea level. The city hosts a major campus of the Al-Quds Open University.",
+    },
+    factsAdvanced: {
+      de: ["Verwaltungssitz des Gouvernements Salfit.", "Bevölkerung von ca. 11.000 Menschen im Kernort.", "Berühmt für die Produktion von hochwertigem Olivenöl.", "Liegt auf einer durchschnittlichen Höhe von 510 Metern.", "Sitz eines Campus der Al-Quds Open University.", "Wichtiger Standort für die Textil- und Holzindustrie."],
+      hu: ["A Szalfít kormányzóság közigazgatási székhelye.", "A központi település lakossága kb. 11 000 fő.", "Híres a kiváló minőségű olívaolaj-termeléséről.", "Átlagosan 510 méteres magasságban helyezkedik el.", "Az Al-Kudsz Nyitott Egyetem campusának otthona.", "Jelentős textil- és fafeldolgozó ipari központ."],
+      ro: ["Sediul administrativ al guvernoratului Salfit.", "Populație de aproximativ 11.000 de locuitori în oraș.", "Renumit pentru producția de ulei de măsline de calitate.", "Situat la o altitudine medie de 510 metri.", "Găzduiește un campus al Universității Deschise Al-Quds.", "Centru important pentru industria textilă și a lemnului."],
+      en: ["Administrative seat of the Salfit Governorate.", "Population of approximately 11,000 in the town center.", "Famous for high-quality olive oil production.", "Located at an average elevation of 510 meters.", "Home to a campus of the Al-Quds Open University.", "Major hub for the textile and wood industries."],
+    },
   },
   {
     id: "palestine-tubas-cities-v2",
@@ -380,6 +608,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Center of agricultural economy", "Identified with biblical Thebez", "Located on a high plateau", "Significant livestock markets"],
     },
     imageHint: "Tubas town view and agricultural valley",
+    descriptionAdvanced: {
+      de: "Tubas liegt im Nordosten des Westjordanlands und ist das Zentrum des Gouvernements Tubas. Die Region ist ein wichtiges landwirtschaftliches Gebiet, insbesondere für die Produktion von Getreide und Gemüse. Die Stadt liegt strategisch günstig oberhalb des Jordantals. Historisch wird sie oft mit der biblischen Stadt Thebez identifiziert.",
+      hu: "Tubász Ciszjordánia északkeleti részén fekszik, és a Tubász kormányzóság központja. A régió kiemelkedő mezőgazdasági terület, különösen a gabona- és zöldségtermesztéséről ismert. A város stratégiai elhelyezkedése a Jordán-völgy felett biztosít rálátást a környékre. Történelmileg gyakran a bibliai Tebec várossal azonosítják.",
+      ro: "Tubas este situat în nord-estul Cisiordaniei și este centrul administrativ al guvernoratului Tubas. Regiunea este o zonă agricolă vitală, cunoscută în special pentru producția de cereale și legume. Orașul ocupă o poziție strategică deasupra Văii Iordanului. Istoric, este adesea identificat cu orașul biblic Thebez.",
+      en: "Tubas is located in the northeastern West Bank and serves as the center of the Tubas Governorate. The region is a vital agricultural area, particularly known for its production of grains and vegetables. The city occupies a strategic position overlooking the Jordan Valley. Historically, it is often identified with the biblical city of Thebez.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum des Gouvernements Tubas im Nordosten.", "Bevölkerung von ca. 16.000 Einwohnern.", "Wichtiger Produzent von Getreide für die Region.", "Identifiziert mit der biblischen Stadt Thebez.", "Liegt an den Hängen oberhalb des Jordantals.", "Zentrum für den Handel mit Agrarprodukten."],
+      hu: ["Az északkeleti Tubász kormányzóság központja.", "Lakossága körülbelül 16 000 fő.", "A régió egyik legfontosabb gabonatermelője.", "A bibliai Tebec várossal azonosítják a kutatók.", "A Jordán-völgy fölé magasodó lankákon fekszik.", "Mezőgazdasági termékek kereskedelmi központja."],
+      ro: ["Centrul guvernoratului Tubas din nord-est.", "Populație de aproximativ 16.000 de locuitori.", "Producător major de cereale pentru întreaga regiune.", "Identificat cu orașul biblic Thebez.", "Situat pe versanții de deasupra Văii Iordanului.", "Centru comercial pentru produse agricole."],
+      en: ["Center of the Tubas Governorate in the northeast.", "Population of approximately 16,000 residents.", "Major producer of grain for the surrounding region.", "Identified with the biblical city of Thebez.", "Positioned on slopes overlooking the Jordan Valley.", "Trade hub for agricultural commodities."],
+    },
   },
   {
     id: "palestine-halhul-cities-v2",
@@ -399,6 +639,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Highest town in Palestine", "Known for the Tomb of Jonah", "Center of grape production", "Ancient ruins present"],
     },
     imageHint: "Halhul vineyards and hilly landscape",
+    descriptionAdvanced: {
+      de: "Halhul liegt nördlich von Hebron und ist der am höchsten gelegene bewohnte Ort in Palästina. Die Stadt liegt auf dem Berg Nabi Yunis in einer Höhe von 1030 Metern. Sie ist bekannt für ihre Weinberge und die Produktion von Tafeltrauben. Hier befindet sich das traditionelle Grab des Propheten Jona (Nabi Yunis).",
+      hu: "Halhúl Hebrontól északra fekszik, és Palesztina legmagasabban fekvő lakott települése. A város a Nabi Junisz-hegyen terül el, 1030 méteres tengerszint feletti magasságban. Híres szőlőültetvényeiről és a minőségi csemegeszőlő-termelésről. Itt található Jónás próféta hagyományos sírhelye (Nabi Junisz).",
+      ro: "Halhul este situat la nord de Hebron și este cea mai înaltă așezare locuită din Palestina. Orașul este amplasat pe muntele Nabi Yunis, la o altitudine de 1030 de metri. Este renumit pentru podgoriile sale și producția de struguri de masă. Aici se află mormântul tradițional al profetului Iona (Nabi Yunis).",
+      en: "Halhul is located north of Hebron and is the highest inhabited place in Palestine. The city sits on Mount Nabi Yunis at an elevation of 1,030 meters above sea level. It is famous for its vineyards and the production of high-quality table grapes. The traditional tomb of the Prophet Jonah (Nabi Yunis) is located here.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt in Palästina mit 1030 Metern.", "Beherbergt das Grab des Propheten Nabi Yunis.", "Bevölkerung von ca. 27.000 Einwohnern.", "Größter Produzent von Tafeltrauben in der Region.", "Historisch bedeutende Besiedlung seit dem Altertum.", "Liegt direkt an der Straße Hebron-Jerusalem."],
+      hu: ["Palesztina legmagasabb pontja, 1030 méteren.", "Itt található Nabi Junisz próféta síremléke.", "Lakossága körülbelül 27 000 fő.", "A régió legnagyobb csemegeszőlő-termelője.", "Történelmileg jelentős, az ókor óta lakott hely.", "Közvetlenül a Hebron-Jeruzsálem út mentén fekszik."],
+      ro: ["Cel mai înalt punct din Palestina, la 1030 metri.", "Adăpostește mormântul profetului Nabi Yunis.", "Populație de aproximativ 27.000 de locuitori.", "Cel mai mare producător de struguri de masă din zonă.", "Așezare cu importanță istorică din antichitate.", "Situat chiar pe șoseaua Hebron-Ierusalim."],
+      en: ["Highest point in Palestine at 1,030 meters.", "Home to the tomb of Prophet Nabi Yunis (Jonah).", "Population of approximately 27,000 residents.", "Largest producer of table grapes in the region.", "Historically significant settlement since antiquity.", "Located directly on the Hebron-Jerusalem road."],
+    },
   },
   {
     id: "palestine-dura-cities-v2",
@@ -418,6 +670,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Founded around 1400 BCE", "Historically known as Adoraim", "Center for grain and olives", "Home to major educational institutions"],
     },
     imageHint: "Dura town center and traditional buildings",
+    descriptionAdvanced: {
+      de: "Dura ist eine Stadt im Gouvernement Hebron, etwa elf Kilometer südwestlich der Stadt Hebron gelegen. Sie ist bekannt für ihre fruchtbaren Böden und den großflächigen Anbau von Getreide und Hülsenfrüchten. Die Stadt liegt auf einer Höhe von etwa 840 Metern. Historisch wird sie mit der antiken kanaanitischen Stadt Adoraim in Verbindung gebracht.",
+      hu: "Dura városa a Hebron kormányzóságban található, körülbelül tizenegy kilométerre délnyugatra Hebron városától. Híres termékeny talajáról, valamint a kiterjedt gabona- és hüvelyesnövény-termesztéséről. A település körülbelül 840 méteres magasságban fekszik. Történelmileg az ókori kánaáni Adóraim várossal hozzák összefüggésbe.",
+      ro: "Dura este un oraș în guvernoratul Hebron, situat la aproximativ unsprezece kilometri sud-vest de orașul Hebron. Este cunoscut pentru solurile sale fertile și cultivarea pe scară largă a cerealelor și leguminoaselor. Orașul se află la o altitudine de aproximativ 840 de metri. Istoric, este asociat cu orașul antic canaanit Adoraim.",
+      en: "Dura is a city in the Hebron Governorate, located about eleven kilometers southwest of Hebron city. It is known for its fertile soils and the extensive cultivation of grains and legumes. The city sits at an elevation of approximately 840 meters. Historically, it is associated with the ancient Canaanite city of Adoraim.",
+    },
+    factsAdvanced: {
+      de: ["Südwestlich von Hebron auf 840 Metern gelegen.", "Identifiziert mit der kanaanitischen Stadt Adoraim.", "Bevölkerung von ca. 28.000 Menschen.", "Zentrum für die Produktion von Getreide und Mehl.", "Beherbergt mehrere historische Moscheen und Schreine.", "Wichtiger Standort für lokale Bildungseinrichtungen."],
+      hu: ["Hebrontól délnyugatra, 840 méteres magasságban.", "A kánaáni Adóraim várossal azonosítják.", "Lakossága körülbelül 28 000 fő.", "Gabona- és liszttermelési központ a térségben.", "Több történelmi mecset és kegyhely otthona.", "A helyi oktatási intézmények fontos székhelye."],
+      ro: ["Situat la sud-vest de Hebron la 840 de metri.", "Identificat cu orașul canaanit Adoraim.", "Populație de aproximativ 28.000 de locuitori.", "Centru pentru producția de cereale și făină.", "Găzduiește mai multe moschei și sanctuare istorice.", "Locație importantă pentru instituțiile locale de învățământ."],
+      en: ["Located southwest of Hebron at 840 meters.", "Identified with the Canaanite city of Adoraim.", "Population of approximately 28,000 people.", "Center for the production of grain and flour.", "Home to several historical mosques and shrines.", "Important site for local educational institutions."],
+    },
   },
   {
     id: "palestine-yatta-cities-v2",
@@ -437,6 +701,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Identified with biblical Juttah", "Significant sheep and goat herding", "Historic ruins in the city center", "Gateway to the Judean Desert"],
     },
     imageHint: "Yatta city views and livestock market",
+    descriptionAdvanced: {
+      de: "Yatta ist eine der größten Städte im Gouvernement Hebron und liegt südlich der Stadt Hebron. Die Stadt hat eine lange Geschichte und wird oft mit der biblischen Priesterstadt Jutta identifiziert. Die Wirtschaft basiert auf der Steinindustrie, dem Handwerk und der Viehzucht. In der Umgebung befinden sich zahlreiche archäologische Überreste aus byzantinischer Zeit.",
+      hu: "Jatta a Hebron kormányzóság egyik legnagyobb városa, Hebrontól délre helyezkedik el. A település hosszú múltra tekint vissza, és gyakran a bibliai Jutta papvárossal azonosítják. Gazdasága a kőiparon, a kézművességen és az állattenyésztésen alapul. A környéken számos bizánci korszakból származó régészeti maradvány található.",
+      ro: "Yatta este unul dintre cele mai mari orașe din guvernoratul Hebron, situat la sud de orașul Hebron. Orașul are o istorie lungă și este adesea identificat cu orașul preoțesc biblic Juttah. Economia se bazează pe industria pietrei, meșteșuguri și creșterea animalelor. În împrejurimi se află numeroase vestigii arheologice din perioada bizantină.",
+      en: "Yatta is one of the largest cities in the Hebron Governorate, located south of Hebron city. The city has a long history and is often identified with the biblical priestly city of Juttah. Its economy is based on the stone industry, handicrafts, and livestock farming. Numerous archaeological remains from the Byzantine period are found in the surrounding area.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerungsreichste Stadt im südlichen Distrikt Hebron.", "Identifiziert mit der biblischen Priesterstadt Jutta.", "Wichtiges Zentrum der palästinensischen Steinindustrie.", "Bevölkerung von ca. 64.000 Einwohnern.", "Bekannt für traditionelle Handwerkskunst und Stickerei.", "Zahlreiche byzantinische Mosaike in der Umgebung gefunden."],
+      hu: ["A déli Hebron körzet legnépesebb városa.", "A bibliai Jutta papvárossal azonosítják.", "A palesztin kőipar egyik legfontosabb központja.", "Lakossága körülbelül 64 000 fő.", "Híres a hagyományos kézművességről és hímzésről.", "A környéken számos bizánci mozaikot találtak."],
+      ro: ["Cel mai populat oraș din districtul de sud al Hebronului.", "Identificat cu orașul preoțesc biblic Juttah.", "Centru major al industriei pietrei din Palestina.", "Populație de aproximativ 64.000 de locuitori.", "Cunoscut pentru meșteșugurile tradiționale și broderie.", "Numeroase mozaicuri bizantine descoperite în zonă."],
+      en: ["Most populous city in the southern Hebron district.", "Identified with the biblical priestly city of Juttah.", "Major center of the Palestinian stone industry.", "Population of approximately 64,000 residents.", "Known for traditional handicrafts and embroidery.", "Numerous Byzantine mosaics found in the vicinity."],
+    },
   },
   {
     id: "palestine-bani-naim-cities-v2",
@@ -456,6 +732,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Site of the Tomb of Lot", "Elevation of about 950 meters", "Important stone quarry industry", "Religious significance"],
     },
     imageHint: "Tomb of Lot and landscape in Bani Na'im",
+    descriptionAdvanced: {
+      de: "Bani Na'im liegt im Osten des Distrikts Hebron und gilt als einer der höchsten Punkte der Region. Die Stadt ist bekannt als der Ort, an dem sich das Grab des Propheten Lut (Lot) befinden soll. Sie liegt auf einem Plateau in etwa 950 Metern Höhe. Die Umgebung bietet weite Ausblicke über das Judäische Gebirge bis hin zum Toten Meer.",
+      hu: "Bani Na'im a Hebron körzet keleti részén fekszik, és a régió egyik legmagasabb pontjának számít. A város arról nevezetes, hogy itt található Lót próféta (Lut) hagyományos sírhelye. Egy fennsíkon helyezkedik el, körülbelül 950 méteres magasságban. A környékről pazar kilátás nyílik a Júdeai-hegységre és a Holt-tengerre.",
+      ro: "Bani Na'im este situat în estul districtului Hebron și este considerat unul dintre cele mai înalte puncte din regiune. Orașul este cunoscut ca locul unde s-ar afla mormântul profetului Lut (Lot). Este amplasat pe un platou la o altitudine de aproximativ 950 de metri. Împrejurimile oferă vederi largi peste Munții Iudeii până la Marea Moartă.",
+      en: "Bani Na'im is located in the eastern Hebron district and is considered one of the highest points in the region. The city is famous as the site of the traditional tomb of the Prophet Lut (Lot). It is situated on a plateau at an elevation of approximately 950 meters. The surrounding area offers expansive views over the Judean Mountains to the Dead Sea.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt das Grab des biblischen Propheten Lot.", "Liegt auf einer Höhe von ca. 950 Metern.", "Bevölkerung von ca. 24.000 Einwohnern.", "Historisch als Kaphar Barucha bekannt.", "Bietet Panorama-Aussicht auf das Tote Meer.", "Zentrum für Landwirtschaft und den Handel mit Oliven."],
+      hu: ["Lót bibliai próféta sírjának ad otthont.", "Körülbelül 950 méteres tengerszint feletti magasságon.", "Lakossága körülbelül 24 000 fő.", "Történelmileg Kaphar Barucha néven ismert.", "Panorámás kilátást nyújt a Holt-tengerre.", "A mezőgazdaság és az olajbogyó-kereskedelem központja."],
+      ro: ["Adăpostește mormântul profetului biblic Lot.", "Situat la o altitudine de aproximativ 950 de metri.", "Populație de aproximativ 24.000 de locuitori.", "Cunoscut istoric sub numele de Kaphar Barucha.", "Oferă vederi panoramice către Marea Moartă.", "Centru pentru agricultură și comerțul cu măsline."],
+      en: ["Home to the tomb of the biblical Prophet Lot.", "Situated at an elevation of approx. 950 meters.", "Population of approximately 24,000 residents.", "Historically known as Kaphar Barucha.", "Offers panoramic views toward the Dead Sea.", "Center for agriculture and olive trade."],
+    },
   },
   {
     id: "palestine-ad-dhahiriya-cities-v2",
@@ -475,6 +763,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Founded on ancient ruins", "Historic Canaanite center", "Known for livestock trade", "Restored old city center"],
     },
     imageHint: "Ad-Dhahiriya old town architecture",
+    descriptionAdvanced: {
+      de: "Ad-Dhahiriya ist die südlichste Stadt im Westjordanland und liegt am Übergang zur Negev-Wüste. Die Stadt hat eine strategische Lage an der historischen Route zwischen Hebron und Be'er Scheva. Sie ist bekannt für ihre gut erhaltene Altstadt mit Gebäuden aus der osmanischen Zeit. In der Nähe wurden bedeutende eisenzeitliche und römische Ruinen entdeckt.",
+      hu: "Ad-Dahírija Ciszjordánia legdélebbi városa, a Negev-sivataggal határos területen fekszik. A település stratégiai helyen, a Hebron és Beér-Seva közötti történelmi útvonalon található. Híres jól megőrzött óvárosáról, amelynek épületei az oszmán korszakból származnak. A közelben jelentős vaskori és római romokat tártak fel.",
+      ro: "Ad-Dhahiriya este cel mai sudic oraș din Cisiordania, situat la tranziția către deșertul Negev. Orașul are o poziție strategică pe ruta istorică dintre Hebron și Beer Sheva. Este cunoscut pentru orașul său vechi bine conservat, cu clădiri din perioada otomană. În apropiere au fost descoperite ruine importante din epoca fierului și perioada romană.",
+      en: "Ad-Dhahiriya is the southernmost city in the West Bank, located at the transition to the Negev Desert. The city holds a strategic position on the historical route between Hebron and Beer Sheva. It is known for its well-preserved old city featuring buildings from the Ottoman era. Significant Iron Age and Roman ruins have been discovered nearby.",
+    },
+    factsAdvanced: {
+      de: ["Südlichste Stadt des palästinensischen Westjordanlands.", "Strategischer Punkt an der Route nach Be'er Scheva.", "Gut erhaltenes historisches Stadtzentrum aus der osmanischen Zeit.", "Bevölkerung von ca. 35.000 Einwohnern.", "Archäologische Funde aus der Eisenzeit in Khirbet Duma.", "Wichtiges Tor für den Handel mit der Negev-Region."],
+      hu: ["A palesztin Ciszjordánia legdélebbi városa.", "Stratégiai pont a Beér-Seva felé vezető úton.", "Jól megőrzött oszmán kori történelmi városközpont.", "Lakossága körülbelül 35 000 fő.", "Hirbet Dumánál vaskori régészeti leleteket találtak.", "Fontos kapu a Negev-régióval folytatott kereskedelemben."],
+      ro: ["Cel mai sudic oraș din Cisiordania palestiniană.", "Punct strategic pe ruta către Beer Sheva.", "Centru istoric bine conservat din perioada otomană.", "Populație de aproximativ 35.000 de locuitori.", "Descoperiri arheologice din epoca fierului la Khirbet Duma.", "Poartă importantă pentru comerțul cu regiunea Negev."],
+      en: ["Southernmost city of the Palestinian West Bank.", "Strategic point on the route to Beer Sheva.", "Well-preserved historical center from the Ottoman era.", "Population of approximately 35,000 residents.", "Iron Age archaeological finds at Khirbet Duma.", "Important gateway for trade with the Negev region."],
+    },
   },
   {
     id: "palestine-beit-ummar-cities-v2",
@@ -494,6 +794,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Major agricultural producer", "Site of ancient Canaanite tombs", "Significant farming cooperatives", "Hilly terrain"],
     },
     imageHint: "Fruit orchards and hills in Beit Ummar",
+    descriptionAdvanced: {
+      de: "Beit Ummar liegt im nördlichen Gouvernement Hebron, an der Hauptstraße zwischen Hebron und Jerusalem. Die Stadt ist berühmt für ihren Obstbau, insbesondere für Trauben, Pflaumen und Mandeln. Sie liegt in einer hügeligen Landschaft auf etwa 900 Metern Höhe. Historische Funde in der Gegend weisen auf eine Besiedlung seit der Eisenzeit hin.",
+      hu: "Beit Ummar a Hebron kormányzóság északi részén található, a Hebron és Jeruzsálem közötti főút mentén. A város híres gyümölcstermesztéséről, különösen a szőlő-, szilva- és mandulaültetvényeiről. Dombos vidéken fekszik, körülbelül 900 méteres tengerszint feletti magasságban. A térségben talált leletek a vaskor óta tartó folyamatos lakottságra utalnak.",
+      ro: "Beit Ummar este situat în nordul guvernoratului Hebron, pe drumul principal dintre Hebron și Ierusalim. Orașul este renumit pentru pomicultură, în special pentru struguri, prune și migdale. Se află într-un peisaj colinar la o altitudine de aproximativ 900 de metri. Descoperirile istorice din zonă indică o locuire continuă încă din epoca fierului.",
+      en: "Beit Ummar is located in the northern Hebron Governorate, along the main road between Hebron and Jerusalem. The city is famous for its fruit orchards, particularly grapes, plums, and almonds. It is situated in a hilly landscape at an elevation of about 900 meters. Historical finds in the area indicate settlement since the Iron Age.",
+    },
+    factsAdvanced: {
+      de: ["Liegt an der strategischen Verkehrsader Hebron-Jerusalem.", "Höhe von ca. 900 Metern über dem Meer.", "Berühmt für die Produktion von Mandeln und Pflaumen.", "Bevölkerung von ca. 17.000 Einwohnern.", "Beherbergt den Schrein von Nabi Matta (Matthäus).", "Wichtiger Standort für die Landwirtschaft im nördlichen Hebron."],
+      hu: ["A stratégiai Hebron-Jeruzsálem főút mentén fekszik.", "Kb. 900 méteres tengerszint feletti magasságban.", "Híres a mandula- és szilvatermeléséről.", "Lakossága körülbelül 17 000 fő.", "Nabi Matta (Máté) kegyhelyének otthona.", "Észak-Hebron egyik fontos mezőgazdasági bázisa."],
+      ro: ["Situat pe axa strategică de transport Hebron-Ierusalim.", "Altitudine de aproximativ 900 de metri.", "Faimos pentru producția de migdale și prune.", "Populație de aproximativ 17.000 de locuitori.", "Găzduiește sanctuarul lui Nabi Matta (Matei).", "Centru agricol vital în nordul guvernoratului Hebron."],
+      en: ["Located on the strategic Hebron-Jerusalem road.", "Elevation of approx. 900 meters above sea level.", "Famous for the production of almonds and plums.", "Population of approximately 17,000 residents.", "Home to the shrine of Nabi Matta (Matthew).", "Major agricultural hub in northern Hebron district."],
+    },
   },
   {
     id: "palestine-surif-cities-v2",
@@ -513,6 +825,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Large olive oil center", "Known for traditional farming", "Ancient ruins nearby", "Forested surroundings"],
     },
     imageHint: "Surif village and surrounding olive groves",
+    descriptionAdvanced: {
+      de: "Surif liegt im Nordwesten des Gouvernements Hebron, eingebettet in die sanften Hügel des Judäischen Gebirges. Die Stadt ist vorwiegend landwirtschaftlich geprägt, wobei der Anbau von Oliven und Trauben die wichtigste Rolle spielt. Die Besiedlung des Ortes lässt sich bis in die römische und byzantinische Zeit zurückverfolgen. Die Architektur im Ortskern zeigt viele traditionelle palästinensische Bauelemente.",
+      hu: "Szurif a Hebron kormányzóság északnyugati részén fekszik, a Júdeai-hegység lankás dombjai között. A város főként mezőgazdasági jellegű, az olajbogyó- és szőlőtermesztés játssza a legfontosabb szerepet a gazdaságban. A település lakottsága a római és bizánci időkig vezethető vissza. A központ építészete számos hagyományos palesztin stílusjegyet őriz.",
+      ro: "Surif este situat în nord-vestul guvernoratului Hebron, cuibărit în dealurile blânde ale Munților Iudeii. Orașul este predominant agricol, cultivarea măslinelor și a strugurilor jucând cel mai important rol. Locuirea așezării poate fi urmărită până în perioadele romană și bizantină. Arhitectura din centrul localității prezintă multe elemente tradiționale palestiniene.",
+      en: "Surif is located in the northwestern Hebron Governorate, nestled in the gentle hills of the Judean Mountains. The city is predominantly agricultural, with the cultivation of olives and grapes playing the most significant role. Settlement of the site can be traced back to Roman and Byzantine times. The architecture in the town center showcases many traditional Palestinian elements.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen in den westlichen Hügeln des Hebron-Distrikts.", "Bevölkerung von ca. 17.000 Einwohnern.", "Bekannt für seine alten Olivenhaine.", "Archäologische Funde aus byzantinischer Zeit.", "Wichtiger Produzent von lokalem Kunsthandwerk.", "Traditionelle palästinensische Steinarchitektur im Zentrum."],
+      hu: ["A Hebron körzet nyugati dombjai között fekszik.", "Lakossága körülbelül 17 000 fő.", "Ősi olajfaligeteiről ismert a település.", "Bizánci korszakból származó régészeti leletek.", "A helyi kézművesipar egyik fontos központja.", "Hagyományos palesztin kőépítészet a városközpontban."],
+      ro: ["Situat în dealurile vestice ale districtului Hebron.", "Populație de aproximativ 17.000 de locuitori.", "Cunoscut pentru livezile sale vechi de măslini.", "Vestigii arheologice din perioada bizantină.", "Centru important pentru artizanatul local.", "Arhitectură tradițională palestiniană în piatră în centru."],
+      en: ["Nestled in the western hills of the Hebron district.", "Population of approximately 17,000 residents.", "Known for its ancient olive groves.", "Archaeological remains from the Byzantine period.", "Major producer of local traditional handicrafts.", "Traditional Palestinian stone architecture in the center."],
+    },
   },
   {
     id: "palestine-sair-cities-v2",
@@ -532,6 +856,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Identified with biblical Zior", "Rich in natural springs", "Center of vegetable cultivation", "Historic burial sites"],
     },
     imageHint: "Sa'ir town view and valley springs",
+    descriptionAdvanced: {
+      de: "Sa'ir liegt nordöstlich von Hebron in einem tiefen Tal des Judäischen Gebirges. Die Stadt ist historisch bedeutsam, da sie traditionell mit dem Grab von Esau, dem biblischen Nabi 'Ais, in Verbindung gebracht wird. Die Wirtschaft der Stadt stützt sich auf die Landwirtschaft und die Steinmetzkunst. In der Umgebung befinden sich mehrere antike Brunnen und Wasserstellen.",
+      hu: "Szaír Hebrontól északkeletre, a Júdeai-hegység egyik mély völgyében található. A város történelmileg jelentős, mivel hagyományosan Ézsau sírhelyével, a bibliai Nabi Aisszal hozzák összefüggésbe. A település gazdasága a mezőgazdaságra és a kőfaragásra épül. A környéken számos ókori kút és vízvételi hely található.",
+      ro: "Sa'ir este situat la nord-est de Hebron, într-o vale adâncă a Munților Iudeii. Orașul este semnificativ din punct de vedere istoric, fiind asociat în mod tradițional cu mormântul lui Esau, biblicul Nabi 'Ais. Economia orașului se bazează pe agricultură și arta pietrei. În împrejurimi se găsesc mai multe fântâni și bazine cu apă antice.",
+      en: "Sa'ir is located northeast of Hebron in a deep valley of the Judean Mountains. The city is historically significant as it is traditionally associated with the tomb of Esau, the biblical Nabi 'Ais. The town's economy relies on agriculture and stone masonry. Several ancient wells and water sources are located in the surrounding area.",
+    },
+    factsAdvanced: {
+      de: ["Traditioneller Ort des Grabes von Esau (Nabi 'Ais).", "Gelegen in einem landschaftlich markanten Bergtal.", "Bevölkerung von ca. 20.000 Einwohnern.", "Berühmt für die Qualität seiner Steinmetzarbeiten.", "Historisch bedeutend durch antike Wasseranlagen.", "Zentrum für den Handel mit Gemüse im östlichen Distrikt."],
+      hu: ["Ézsau (Nabi Aisz) sírjának hagyományos helyszíne.", "Látványos hegyi völgyben helyezkedik el.", "Lakossága körülbelül 20 000 fő.", "Híres a kiváló minőségű kőfaragó munkáiról.", "Történelmileg jelentős ókori vízvezeték-rendszerek.", "A keleti körzet zöldségkereskedelmi központja."],
+      ro: ["Locul tradițional al mormântului lui Esau (Nabi 'Ais).", "Situat într-o vale muntoasă pitorească.", "Populație de aproximativ 20.000 de locuitori.", "Faimos pentru calitatea lucrărilor sale în piatră.", "Importanță istorică datorită sistemelor antice de apă.", "Centru pentru comerțul cu legume în estul districtului."],
+      en: ["Traditional site of the tomb of Esau (Nabi 'Ais).", "Situated in a scenic mountain valley.", "Population of approximately 20,000 residents.", "Famous for the quality of its stone masonry works.", "Historically significant due to ancient water systems.", "Hub for vegetable trade in the eastern district."],
+    },
   },
   {
     id: "palestine-ash-shuyukh-cities-v2",
@@ -551,6 +887,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Name means 'The Elders'", "Major producer of olives", "Significant archaeological sites", "Rural character"],
     },
     imageHint: "Ash-Shuyukh village houses and landscape",
+    descriptionAdvanced: {
+      de: "Ash-Shuyukh liegt im nordöstlichen Teil des Distrikts Hebron, in unmittelbarer Nähe zur Stadt Sa'ir. Die Stadt ist bekannt für ihre Steinbrüche und die Produktion von hochwertigem palästinensischem Kalkstein. Sie liegt auf einer Höhe von etwa 950 Metern über dem Meeresspiegel. Die Bewohner betreiben zudem Olivenanbau und Schafzucht in den umliegenden Hügeln.",
+      hu: "As-Sujúh a Hebron körzet északkeleti részén, Szaír városának közvetlen közelében található. A város híres kőbányáiról és a kiváló minőségű palesztin mészkő kitermeléséről. Körülbelül 950 méteres tengerszint feletti magasságban fekszik. A lakosok ezenkívül olajbogyó-termesztéssel és juhtenyésztéssel foglalkoznak a környező dombokon.",
+      ro: "Ash-Shuyukh este situat în partea de nord-est a districtului Hebron, în imediata apropiere a orașului Sa'ir. Orașul este cunoscut pentru carierele sale de piatră și producția de calcar palestinian de înaltă calitate. Se află la o altitudine de aproximativ 950 de metri deasupra nivelului mării. Locuitorii se ocupă, de asemenea, cu cultivarea măslinelor și creșterea oilor pe dealurile din jur.",
+      en: "Ash-Shuyukh is located in the northeastern part of the Hebron district, in close proximity to the city of Sa'ir. The town is known for its stone quarries and the production of high-quality Palestinian limestone. It sits at an elevation of approximately 950 meters above sea level. Residents also engage in olive farming and sheep herding in the surrounding hills.",
+    },
+    factsAdvanced: {
+      de: ["Bedeutendes Zentrum für palästinensische Kalksteinbrüche.", "Liegt auf einem Plateau 950 Meter über dem Meer.", "Bevölkerung von ca. 10.000 Einwohnern.", "Gründung des Ortes geht auf religiöse Führer (Shuyukh) zurück.", "Enge wirtschaftliche Verbindung zur Nachbarstadt Sa'ir.", "Traditioneller Standort für Schafzucht in der Region."],
+      hu: ["A palesztin mészkőbányászat egyik kiemelt központja.", "Kb. 950 méteres magasságban, egy fennsíkon fekszik.", "Lakossága körülbelül 10 000 fő.", "A település alapítása vallási vezetőkhöz (Sujúh) kötődik.", "Szoros gazdasági kapcsolatban áll a szomszédos Szaírral.", "Hagyományos juhtenyésztő központ a térségben."],
+      ro: ["Centru major pentru carierele de calcar palestinian.", "Situat pe un platou la 950 de metri altitudine.", "Populație de aproximativ 10.000 de locuitori.", "Fondarea localității este legată de lideri religioși (Shuyukh).", "Legături economice strânse cu orașul vecin Sa'ir.", "Locație tradițională pentru creșterea oilor în regiune."],
+      en: ["Major center for Palestinian limestone quarries.", "Located on a plateau 950 meters above sea level.", "Population of approximately 10,000 residents.", "Town foundation is linked to religious leaders (Shuyukh).", "Strong economic ties with the neighboring city of Sa'ir.", "Traditional location for sheep herding in the region."],
+    },
   },
   {
     id: "palestine-idhna-cities-v2",
@@ -570,6 +918,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Regional hub for recycling", "Identified with biblical Dannah", "Fertile surrounding land", "Archaeological cave findings"],
     },
     imageHint: "Idhna town landscape and industry",
+    descriptionAdvanced: {
+      de: "Idhna liegt im Westen des Gouvernements Hebron, nahe der Grünen Linie. Die Stadt ist ein regionales Zentrum für den Handel und das Recycling von Metallen und Schrott. In der bergigen Umgebung finden sich zahlreiche antike Grabhöhlen und landwirtschaftliche Terrassen. Die Geschichte des Ortes reicht bis in die kanaanitische Zeit zurück, worauf archäologische Funde hindeuten.",
+      hu: "Idhna a Hebron kormányzóság nyugati részén, a zöld vonal közelében helyezkedik el. A város a fémkereskedelem és a fémhulladék-újrahasznosítás regionális központja. A hegyvidéki környezetben számos ókori sírbarlang és mezőgazdasági terasz található. A település története a kánaáni időkig nyúlik vissza, amint azt a régészeti leletek is igazolják.",
+      ro: "Idhna este situat în vestul guvernoratului Hebron, aproape de Linia Verde. Orașul este un centru regional pentru comerțul și reciclarea metalelor și deșeurilor. În împrejurimile muntoase se găsesc numeroase peșteri funerare antice și terase agricole. Istoria localității datează din perioada canaanită, fapt indicat de descoperirile arheologice.",
+      en: "Idhna is located in the western Hebron Governorate, near the Green Line. The city serves as a regional center for trade and the recycling of metals and scrap. Numerous ancient burial caves and agricultural terraces are found in the mountainous surroundings. The town's history dates back to the Canaanite period, as indicated by archaeological finds.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Westen von Hebron nahe der Grünen Linie.", "Regionales Zentrum für Metall-Recycling und Schrotthandel.", "Bevölkerung von ca. 25.000 Einwohnern.", "Historisch besiedelt seit der kanaanitischen Ära.", "Beherbergt antike römische und byzantinische Höhlengräber.", "Wichtiger Standort für handwerkliche Kleinbetriebe."],
+      hu: ["Hebron nyugati részén, a zöld vonal mentén fekszik.", "A fém-újrahasznosítás és vashulladék-kereskedelem központja.", "Lakossága körülbelül 25 000 fő.", "A kánaáni korszak óta lakott település.", "Ókori római és bizánci sírbarlangok találhatók itt.", "Számos kisipari kézműves műhelynek ad otthont."],
+      ro: ["Situat în vestul Hebronului, lângă Linia Verde.", "Centru regional pentru reciclarea metalelor.", "Populație de aproximativ 25.000 de locuitori.", "Locuit istoric încă din epoca canaanită.", "Găzduiește peșteri funerare antice romane și bizantine.", "Locație importantă pentru micile întreprinderi meșteșugărești."],
+      en: ["Located in western Hebron near the Green Line.", "Regional hub for metal recycling and scrap trade.", "Population of approximately 25,000 residents.", "Inhabited historically since the Canaanite era.", "Home to ancient Roman and Byzantine burial caves.", "Major site for small-scale industrial workshops."],
+    },
   },
   {
     id: "palestine-tarqumiya-cities-v2",
@@ -589,6 +949,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Name derives from Tricomias", "Major industrial location", "Ancient Byzantine ruins", "Strategic location"],
     },
     imageHint: "Tarqumiya commercial area and hills",
+    descriptionAdvanced: {
+      de: "Tarqumiya liegt nordwestlich von Hebron und ist ein wichtiger Knotenpunkt für den Handel zwischen dem Westjordanland und dem Gazastreifen. Die Stadt beherbergt einen bedeutenden Grenzübergang, der für den Warenverkehr essenziell ist. Die Wirtschaft ist stark vom Transportsektor und der Landwirtschaft geprägt. Historisch gesehen war der Ort bereits in der römischen Antike besiedelt.",
+      hu: "Tarkumija Hebrontól északnyugatra fekszik, és Ciszjordánia, valamint a Gázai övezet közötti kereskedelem fontos csomópontja. A város egy jelentős határátkelőhelynek ad otthont, amely elengedhetetlen az áruforgalom számára. Gazdaságát erősen meghatározza a szállítási szektor és a mezőgazdaság. Történelmileg a település már a római ókorban is lakott volt.",
+      ro: "Tarqumiya este situat la nord-vest de Hebron și este un nod important pentru comerțul dintre Cisiordania și Fâșia Gaza. Orașul găzduiește un punct de trecere a frontierei semnificativ, esențial pentru fluxul de mărfuri. Economia este puternic marcată de sectorul transporturilor și agricultură. Din punct de vedere istoric, localitatea a fost locuită încă din antichitatea romană.",
+      en: "Tarqumiya is located northwest of Hebron and serves as a major hub for trade between the West Bank and the Gaza Strip. The city hosts a significant border crossing essential for the flow of goods. Its economy is strongly characterized by the transport sector and agriculture. Historically, the site was inhabited as early as Roman antiquity.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt einen der wichtigsten Waren-Grenzübergänge.", "Strategischer Knotenpunkt für den Transportsektor.", "Bevölkerung von ca. 19.000 Einwohnern.", "Historisch besiedelt während der römischen Ära.", "Bedeutender Produzent von Oliven und Weizen.", "Zentrum für Logistik- und Dienstleistungsunternehmen."],
+      hu: ["Az egyik legfontosabb áruforgalmi határátkelőhely otthona.", "A szállítási szektor stratégiai csomópontja.", "Lakossága körülbelül 19 000 fő.", "Történelmileg lakott a római korszak óta.", "Jelentős olajbogyó- és búzatermelő település.", "Logisztikai és szolgáltató cégek központja."],
+      ro: ["Găzduiește unul dintre cele mai importante puncte de trecere.", "Nod strategic pentru sectorul transporturilor.", "Populație de aproximativ 19.000 de locuitori.", "Locuit istoric încă din epoca romană.", "Producător important de măsline și grâu.", "Centru pentru companii de logistică și servicii."],
+      en: ["Home to one of the most vital goods checkpoints.", "Strategic hub for the transport and shipping sector.", "Population of approximately 19,000 residents.", "Historically inhabited since the Roman era.", "Significant producer of olives and wheat.", "Center for logistics and service providers."],
+    },
   },
   {
     id: "palestine-kharas-cities-v2",
@@ -608,6 +980,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Significant olive cultivation area", "Rural community", "Hiking trails in the vicinity", "Traditional agriculture"],
     },
     imageHint: "Kharas village and agricultural fields",
+    descriptionAdvanced: {
+      de: "Kharas liegt im Nordwesten des Gouvernements Hebron, am Rande des Judäischen Gebirges. Die Stadt ist bekannt für ihre Olivenhaine und die Produktion von Olivenöl in traditionellen Pressen. Die hügelige Topographie prägt das Stadtbild mit terrassierten Feldern. In der Umgebung finden sich archäologische Stätten, die auf eine Besiedlung in byzantinischer Zeit hinweisen.",
+      hu: "Harasz a Hebron kormányzóság északnyugati részén, a Júdeai-hegység peremén található. A város híres olajfaligeteiről és a hagyományos présekkel történő olívaolaj-termelésről. A dombos domborzat meghatározza a városképet a teraszos művelésű földekkel. A környéken található régészeti lelőhelyek a bizánci korszak lakottságára utalnak.",
+      ro: "Kharas este situat în nord-vestul guvernoratului Hebron, la marginea Munților Iudeii. Orașul este cunoscut pentru livezile sale de măslini și producția de ulei de măsline în prese tradiționale. Topografia colinară modelează peisajul urban cu câmpuri terasate. În apropiere se află situri arheologice care indică o locuire în perioada bizantină.",
+      en: "Kharas is located in the northwestern Hebron Governorate, on the edge of the Judean Mountains. The town is known for its olive groves and the production of olive oil using traditional presses. The hilly topography shapes the townscape with terraced fields. Archaeological sites in the area point to settlement during the Byzantine period.",
+    },
+    factsAdvanced: {
+      de: ["Nordwestlich von Hebron in hügeliger Lage gelegen.", "Berühmt für die Produktion von reinem Olivenöl.", "Bevölkerung von ca. 9.000 Einwohnern.", "Prägung durch antike terrassierte Agrarflächen.", "Bedeutende Funde aus der byzantinischen Epoche.", "Zentrum für traditionellen Olivenanbau in der Region."],
+      hu: ["Hebrontól északnyugatra, dombos vidéken fekszik.", "Híres a tiszta olívaolaj előállításáról.", "Lakossága körülbelül 9 000 fő.", "Ősi teraszos mezőgazdasági területek jellemzik.", "Jelentős leletek a bizánci korszakból.", "A hagyományos olajbogyó-termesztés központja."],
+      ro: ["Situat la nord-vest de Hebron într-o zonă colinară.", "Renumit pentru producția de ulei de măsline pur.", "Populație de aproximativ 9.000 de locuitori.", "Caracterizat prin terase agricole antice.", "Descoperiri importante din epoca bizantină.", "Centru pentru cultivarea tradițională a măslinelor."],
+      en: ["Located northwest of Hebron in a hilly setting.", "Famous for the production of pure olive oil.", "Population of approximately 9,000 residents.", "Characterized by ancient terraced agricultural lands.", "Significant finds from the Byzantine epoch.", "Hub for traditional olive farming in the region."],
+    },
   },
   {
     id: "palestine-nuba-cities-v2",
@@ -627,6 +1011,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Famous Kufic inscription", "Agricultural economic base", "Ancient settlement site", "Located near Tarqumiya"],
     },
     imageHint: "Historic inscriptions and Nuba village",
+    descriptionAdvanced: {
+      de: "Nuba ist ein palästinensisches Dorf im Gouvernement Hebron, das etwa 11 Kilometer nordwestlich der Stadt Hebron liegt. Die Siedlung ist primär landwirtschaftlich geprägt und befindet sich in einer hügeligen Region des Westjordanlandes. Historische Überreste in der Umgebung deuten auf eine Besiedlung seit der byzantinischen Ära hin. Heute dient der Ort als lokales Zentrum für die umliegenden ländlichen Gemeinden.",
+      hu: "Nuba egy palesztin falu Hebron kormányzóságban, mintegy 11 kilométerre északnyugatra Hebron városától. A település elsősorban mezőgazdasági jellegű, és Ciszjordánia dombos vidékén helyezkedik el. A környéken található történelmi maradványok a bizánci korszak óta tartó lakottságra utalnak. Napjainkban a falu a környező vidéki közösségek helyi központjaként szolgál.",
+      ro: "Nuba este un sat palestinian din Guvernoratul Hebron, situat la aproximativ 11 kilometri nord-vest de orașul Hebron. Așezarea are un caracter predominant agricol și se află într-o regiune deluroasă din Cisiordania. Vestigiile istorice din zonă indică o locuire continuă încă din epoca bizantină. Astăzi, localitatea servește ca centru local pentru comunitățile rurale învecinate.",
+      en: "Nuba is a Palestinian village in the Hebron Governorate, located approximately 11 kilometers northwest of the city of Hebron. The settlement is primarily agricultural and is situated in a hilly region of the West Bank. Historical remains in the vicinity suggest habitation since the Byzantine era. Today, the village serves as a local center for the surrounding rural communities.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Gouvernement Hebron", "Etwa 11 km nordwestlich von Hebron", "Höhe von ca. 550 Metern", "Antike Ruinen aus byzantinischer Zeit", "Wirtschaft basiert auf Olivenanbau", "Befindet sich im Westjordanland"],
+      hu: ["Hebron kormányzóságban található", "Hebrontól 11 km-re északnyugatra fekszik", "Tengerszint feletti magassága kb. 550 méter", "Bizánci kori romok a közelben", "Gazdasága az olajbogyó-termesztésre épül", "Ciszjordánia területén fekszik"],
+      ro: ["Situat în Guvernoratul Hebron", "La 11 km nord-vest de Hebron", "Altitudine de aproximativ 550 metri", "Ruine antice din perioada bizantină", "Economie bazată pe cultivarea măslinelor", "Se află în Cisiordania"],
+      en: ["Located in Hebron Governorate", "11 km northwest of Hebron", "Elevation of approx. 550 meters", "Ancient ruins from Byzantine period", "Economy based on olive cultivation", "Situated in the West Bank"],
+    },
   },
   {
     id: "palestine-beit-kahel-cities-v2",
@@ -646,6 +1042,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Scenic hilltop location", "Large olive oil production", "Traditional stone architecture", "Growing residential town"],
     },
     imageHint: "Beit Kahel houses and olive groves",
+    descriptionAdvanced: {
+      de: "Beit Kahel ist eine palästinensische Kleinstadt im Gouvernement Hebron, gelegen auf einem Bergrücken nordwestlich von Hebron. Die Stadt ist bekannt für ihre weitreichenden Olivenhaine und die traditionelle Steinmetzkunst. Archäologische Funde belegen eine Besiedlung seit der Eisenzeit und der römischen Periode. Die moderne Infrastruktur umfasst mehrere Schulen und religiöse Einrichtungen für die wachsende Bevölkerung.",
+      hu: "Beit Kahel egy palesztin kisváros Hebron kormányzóságban, egy hegygerincen fekszik Hebrontól északnyugatra. A város kiterjedt olajfaligeteiről és a hagyományos kőfaragó művészetéről ismert. Régészeti leletek bizonyítják a vaskor és a római kor óta tartó lakottságot. A modern infrastruktúra több iskolát és vallási intézményt foglal magában a növekvő lakosság számára.",
+      ro: "Beit Kahel este un orășel palestinian din Guvernoratul Hebron, situat pe o creastă muntoasă la nord-vest de Hebron. Orașul este cunoscut pentru livezile sale întinse de măslini și pentru arta tradițională a cioplitului în piatră. Descoperirile arheologice atestă o locuire încă din Epoca Fierului și perioada romană. Infrastructura modernă include mai multe școli și instituții religioase.",
+      en: "Beit Kahel is a Palestinian town in the Hebron Governorate, situated on a mountain ridge northwest of Hebron. The town is known for its extensive olive groves and traditional stonemasonry. Archaeological finds provide evidence of habitation since the Iron Age and the Roman period. Modern infrastructure includes several schools and religious facilities for the growing population.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Gouvernement Hebron", "7 km nordwestlich von Hebron gelegen", "Besiedelt seit der Eisenzeit", "Bekannt für Kalksteinbrüche", "Höhe von ca. 850 Metern über dem Meer", "Landwirtschaftlicher Fokus auf Oliven"],
+      hu: ["Hebron kormányzósághoz tartozik", "7 km-re északnyugatra Hebrontól", "A vaskor óta lakott terület", "Mészkőbányáiról híres", "Kb. 850 méterrel a tengerszint felett", "Mezőgazdasága az olajbogyóra összpontosít"],
+      ro: ["Aparține de Guvernoratul Hebron", "Situat la 7 km nord-vest de Hebron", "Locuit încă din Epoca Fierului", "Cunoscut pentru carierele de calcar", "Altitudine de cca. 850 metri", "Focus agricol pe măsline"],
+      en: ["Belongs to Hebron Governorate", "Located 7 km northwest of Hebron", "Inhabited since the Iron Age", "Famous for limestone quarries", "Elevation approx. 850 meters", "Agricultural focus on olives"],
+    },
   },
   {
     id: "palestine-tafpuh-cities-v2",
@@ -665,6 +1073,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Ancient Canaanite roots", "Rich in olive trees", "Site of historical ruins", "Located on a hill"],
     },
     imageHint: "Taffuh hilltop village and olive trees",
+    descriptionAdvanced: {
+      de: "Taffuh ist eine historische Stadt im Westjordanland, die etwa 8 Kilometer westlich von Hebron liegt. Der Name der Stadt leitet sich vom kanaanäischen Wort für Apfel ab, was auf die lange landwirtschaftliche Tradition hinweist. Das Gebiet ist reich an antiken Stätten, darunter Zisternen und Gräber aus verschiedenen Epochen. Die heutige Stadt ist ein wichtiges lokales Handelszentrum für landwirtschaftliche Erzeugnisse.",
+      hu: "Taffuh egy történelmi város Ciszjordániában, körülbelül 8 kilométerre nyugatra Hebrontól. A város neve a kánaáni alma szóból származik, ami a hosszú mezőgazdasági hagyományokra utal. A terület gazdag ókori lelőhelyekben, többek között különböző korszakokból származó ciszternákban és sírokban. A mai város a mezőgazdasági termékek fontos helyi kereskedelmi központja.",
+      ro: "Taffuh este un oraș istoric din Cisiordania, situat la aproximativ 8 kilometri vest de Hebron. Numele orașului provine din cuvântul canaanit pentru măr, indicând o lungă tradiție agricolă. Zona este bogată în situri antice, inclusiv cisterne și morminte din diverse epoci. Orașul actual este un important centru comercial local pentru produse agricole.",
+      en: "Taffuh is a historic town in the West Bank, located approximately 8 kilometers west of Hebron. The town's name is derived from the Canaanite word for apple, indicating a long agricultural tradition. The area is rich in ancient sites, including cisterns and tombs from various eras. Today's town is an important local commercial center for agricultural products.",
+    },
+    factsAdvanced: {
+      de: ["Name bedeutet Apfel auf Kanaanäisch", "8 km westlich von Hebron gelegen", "Altes kanaanäisches Siedlungsgebiet", "Historische Moschee im Stadtzentrum", "Über 800 Meter über dem Meeresspiegel", "Zentrum für Trauben und Feigen"],
+      hu: ["Neve almát jelent kánaáni nyelven", "8 km-re nyugatra Hebrontól", "Ősi kánaáni településterület", "Történelmi mecset a városközpontban", "Több mint 800 méterrel a tengerszint felett", "Szőlő- és fügetermesztő központ"],
+      ro: ["Numele înseamnă măr în canaanită", "Situat la 8 km vest de Hebron", "Veche zonă de așezare canaanită", "Moschee istorică în centrul orașului", "Peste 800 de metri peste nivelul mării", "Centru pentru struguri și smochine"],
+      en: ["Name means apple in Canaanite", "Located 8 km west of Hebron", "Ancient Canaanite settlement area", "Historic mosque in the town center", "Over 800 meters above sea level", "Center for grapes and figs"],
+    },
   },
   {
     id: "palestine-as-samu-cities-v2",
@@ -684,6 +1104,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Identified with biblical Eshtemoa", "Ruins of an ancient synagogue", "Center for textile weaving", "Significant archaeological site"],
     },
     imageHint: "Ancient synagogue ruins in As-Samu",
+    descriptionAdvanced: {
+      de: "As-Samu ist eine bedeutende Stadt im südlichen Gouvernement Hebron, die mit der biblischen Stadt Eschtemoa identifiziert wird. Sie beherbergt die Ruinen einer antiken Synagoge aus dem 4. Jahrhundert mit gut erhaltenen Mosaiken. Die Stadt liegt auf einem Plateau und ist für ihre traditionelle Weberei und Teppichherstellung bekannt. Historisch war sie ein wichtiger Posten an den Handelswegen zwischen Hebron und der Negev-Wüste.",
+      hu: "As-Samu egy jelentős város Hebron déli kormányzóságában, amelyet a bibliai Estemoa várossal azonosítanak. Itt találhatók egy 4. századi ókori zsinagóga romjai, jól megőrzött mozaikokkal. A város egy fennsíkon fekszik, és hagyományos szövéséről és szőnyegkészítéséről ismert. Történelmileg fontos állomás volt a Hebron és a Negev-sivatag közötti kereskedelmi útvonalakon.",
+      ro: "As-Samu este un oraș important din sudul Guvernoratului Hebron, identificat cu orașul biblic Estemoa. Găzduiește ruinele unei sinagogi antice din secolul al IV-lea, cu mozaicuri bine conservate. Orașul este situat pe un platou și este cunoscut pentru țesătoria tradițională și fabricarea covoarelor. Istoric, a fost un punct important pe rutele comerciale dintre Hebron și Deșertul Negev.",
+      en: "As-Samu is a significant town in the southern Hebron Governorate, identified with the biblical city of Eshtemoa. It houses the ruins of an ancient 4th-century synagogue with well-preserved mosaics. The town is situated on a plateau and is known for its traditional weaving and carpet making. Historically, it was an important post on trade routes between Hebron and the Negev Desert.",
+    },
+    factsAdvanced: {
+      de: ["Identifiziert als biblisches Eschtemoa", "Ruinen einer Synagoge aus dem 4. Jh.", "12 km südlich von Hebron gelegen", "Bekannt für handgewebte Teppiche", "Überreste byzantinischer Architektur", "Liegt im Westjordanland"],
+      hu: ["A bibliai Estemoaként azonosítják", "4. századi zsinagóga romjai", "12 km-re délre Hebrontól", "Kézzel szőtt szőnyegeiről ismert", "Bizánci építészeti maradványok", "Ciszjordánia területén fekszik"],
+      ro: ["Identificat ca biblicul Estemoa", "Ruinele unei sinagogi din sec. IV", "Situat la 12 km sud de Hebron", "Cunoscut pentru covoare țesute manual", "Vestigii ale arhitecturii bizantine", "Se află în Cisiordania"],
+      en: ["Identified as biblical Eshtemoa", "Ruins of a 4th-century synagogue", "Located 12 km south of Hebron", "Known for hand-woven carpets", "Remains of Byzantine architecture", "Situated in the West Bank"],
+    },
   },
   {
     id: "palestine-al-eizariya-cities-v2",
@@ -703,6 +1135,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Site of the Tomb of Lazarus", "Major Christian pilgrimage site", "Historic church buildings", "Part of the Jerusalem urban area"],
     },
     imageHint: "Tomb of Lazarus in Al-Eizariya",
+    descriptionAdvanced: {
+      de: "Al-Eizariya, historisch als Bethanien bekannt, liegt am Osthang des Ölbergs in der Nähe von Jerusalem. Der Ort ist weltberühmt als Schauplatz des biblischen Berichts über die Auferweckung des Lazarus durch Jesus. Hier befinden sich das Grab des Lazarus sowie Kirchen aus der byzantinischen und kreuzfahrerzeitlichen Periode. Heute ist die Stadt ein dicht besiedeltes Vorstadtgebiet mit großer religiöser Bedeutung für Christen und Muslime.",
+      hu: "Al-Eizariya, történelmileg Betánia néven ismert, az Olajfák hegyének keleti lejtőjén fekszik Jeruzsálem közelében. A hely világhírű Lázár feltámasztásának bibliai helyszíneként. Itt található Lázár sírja, valamint bizánci és keresztes kori templomok. Ma a város sűrűn lakott elővárosi terület, amely nagy vallási jelentőséggel bír a keresztények és a muszlimok számára egyaránt.",
+      ro: "Al-Eizariya, cunoscut istoric sub numele de Betania, este situat pe versantul estic al Muntelui Măslinilor, lângă Ierusalim. Locul este celebru în întreaga lume ca fiind scena relatării biblice despre învierea lui Lazăr de către Isus. Aici se află mormântul lui Lazăr și biserici din perioadele bizantină și cruciată. Astăzi, orașul este o zonă suburbană dens populată.",
+      en: "Al-Eizariya, historically known as Bethany, is located on the eastern slope of the Mount of Olives near Jerusalem. The site is world-famous as the setting for the biblical account of the raising of Lazarus by Jesus. It contains the Tomb of Lazarus as well as churches from the Byzantine and Crusader periods. Today, the town is a densely populated suburban area with great religious significance.",
+    },
+    factsAdvanced: {
+      de: ["Name leitet sich von Lazarus ab", "Beherbergt das Lazarusgrab", "2 km östlich von Jerusalem gelegen", "Byzantinische Kirchenmosaike vorhanden", "Wichtiger christlicher Wallfahrtsort", "Gehört zum Gouvernement Jerusalem"],
+      hu: ["Neve Lázárból származik", "Itt található Lázár sírja", "2 km-re keletre Jeruzsálemtől", "Bizánci templomi mozaikok", "Fontos keresztény zarándokhely", "Jeruzsálem kormányzósághoz tartozik"],
+      ro: ["Numele derivă de la Lazăr", "Găzduiește mormântul lui Lazăr", "Situat la 2 km est de Ierusalim", "Mozaicuri bisericești bizantine", "Important loc de pelerinaj creștin", "Aparține de Guvernoratul Ierusalim"],
+      en: ["Name derives from Lazarus", "Houses the Tomb of Lazarus", "Located 2 km east of Jerusalem", "Byzantine church mosaics present", "Important Christian pilgrimage site", "Part of Jerusalem Governorate"],
+    },
   },
   {
     id: "palestine-abu-dis-cities-v2",
@@ -722,6 +1166,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Home to Al-Quds University", "Major academic center", "Borders Jerusalem", "Proposed as a governmental site"],
     },
     imageHint: "Al-Quds University campus in Abu Dis",
+    descriptionAdvanced: {
+      de: "Abu Dis ist eine palästinensische Stadt im Gouvernement Jerusalem, die unmittelbar an die östlichen Stadtgrenzen von Jerusalem grenzt. Die Stadt beherbergt die Al-Quds-Universität und mehrere wichtige Verwaltungsgebäude. Aufgrund ihrer strategischen Lage spielt Abu Dis eine zentrale Rolle in der palästinensischen Politik und Wissenschaft. Die Architektur mischt moderne Bildungseinrichtungen mit traditionellen Wohnvierteln auf steilen Hügeln.",
+      hu: "Abu Dis egy palesztin város Jeruzsálem kormányzóságban, amely közvetlenül Jeruzsálem keleti városhatárával szomszédos. A városban található az Al-Quds Egyetem és számos fontos közigazgatási épület. Stratégiai elhelyezkedése miatt Abu Dis központi szerepet játszik a palesztin politikában és tudományos életben. Az építészet a modern oktatási intézményeket ötvözi a meredek dombokon fekvő hagyományos lakónegyedekkel.",
+      ro: "Abu Dis este un oraș palestinian din Guvernoratul Ierusalim, care se învecinează direct cu limitele estice ale orașului Ierusalim. Orașul găzduiește Universitatea Al-Quds și mai multe clădiri administrative importante. Datorită locației sale strategice, Abu Dis joacă un rol central în politica și mediul academic palestinian. Arhitectura îmbină instituțiile de învățământ moderne cu cartierele tradiționale.",
+      en: "Abu Dis is a Palestinian town in the Jerusalem Governorate, bordering the eastern city limits of Jerusalem. The town is home to Al-Quds University and several important administrative buildings. Due to its strategic location, Abu Dis plays a central role in Palestinian politics and academia. The architecture mixes modern educational facilities with traditional residential neighborhoods on steep hills.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Al-Quds-Universität", "Angrenzend an Ost-Jerusalem", "Wichtiger Bildungsstandort", "Befindet sich im Westjordanland", "Hügelige Topographie", "Zentrum akademischer Forschung"],
+      hu: ["Az Al-Quds Egyetem székhelye", "Kelet-Jeruzsálemmel szomszédos", "Fontos oktatási központ", "Ciszjordánia területén fekszik", "Dombos domborzat", "Akadémiai kutatási központ"],
+      ro: ["Sediul Universității Al-Quds", "Adiacent Ierusalimului de Est", "Important centru educațional", "Situat în Cisiordania", "Topografie deluroasă", "Centru de cercetare academică"],
+      en: ["Seat of Al-Quds University", "Adjacent to East Jerusalem", "Important educational hub", "Situated in the West Bank", "Hilly topography", "Center of academic research"],
+    },
   },
   {
     id: "palestine-al-ram-cities-v2",
@@ -741,6 +1197,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Historically significant site", "Commercial center on the main road", "Densely populated area", "Near Qalandia checkpoint"],
     },
     imageHint: "Al-Ram commercial streets and buildings",
+    descriptionAdvanced: {
+      de: "Al-Ram ist eine dicht besiedelte palästinensische Stadt nordöstlich von Jerusalem, die oft mit der biblischen Stätte Rama in Verbindung gebracht wird. Die Stadt hat sich von einem kleinen Dorf zu einem bedeutenden städtischen und kommerziellen Zentrum entwickelt. Sie dient als wichtiger Verkehrsknotenpunkt zwischen Jerusalem und Ramallah. Al-Ram ist bekannt für seine lebhaften Märkte und seine Rolle als administratives Zentrum für das Umland.",
+      hu: "Al-Ram egy sűrűn lakott palesztin város Jeruzsálemtől északkeletre, amelyet gyakran a bibliai Ráma helyszínével azonosítanak. A város egy kis faluból jelentős városi és kereskedelmi központtá fejlődött. Fontos közlekedési csomópontként szolgál Jeruzsálem és Rámalláh között. Al-Ram nyüzsgő piacairól és a környező terület közigazgatási központjaként betöltött szerepéről ismert.",
+      ro: "Al-Ram este un oraș palestinian dens populat la nord-est de Ierusalim, adesea asociat cu situl biblic Rama. Orașul a evoluat dintr-un sat mic într-un centru urban și comercial semnificativ. Servește ca un nod de transport important între Ierusalim și Ramallah. Al-Ram este cunoscut pentru piețele sale pline de viață și rolul de centru administrativ local.",
+      en: "Al-Ram is a densely populated Palestinian town northeast of Jerusalem, often associated with the biblical site of Ramah. The town has evolved from a small village into a significant urban and commercial center. It serves as an important transportation hub between Jerusalem and Ramallah. Al-Ram is known for its bustling markets and its role as an administrative center for the surrounding area.",
+    },
+    factsAdvanced: {
+      de: ["Identifiziert mit biblischem Rama", "8 km nordöstlich von Jerusalem", "Wichtiges Handelszentrum", "Liegt an der Route nach Ramallah", "Dichtes städtisches Siedlungsgebiet", "Historischer Kern vorhanden"],
+      hu: ["A bibliai Rámával azonosítják", "8 km-re északkeletre Jeruzsálemtől", "Fontos kereskedelmi központ", "A Rámalláhba vezető úton fekszik", "Sűrű városi településterület", "Történelmi maggal rendelkezik"],
+      ro: ["Identificat cu biblicul Rama", "8 km nord-est de Ierusalim", "Important centru comercial", "Situat pe ruta spre Ramallah", "Zonă urbană densă", "Deține un nucleu istoric"],
+      en: ["Identified with biblical Ramah", "8 km northeast of Jerusalem", "Important commercial center", "Located on the route to Ramallah", "Dense urban settlement area", "Historic core present"],
+    },
   },
   {
     id: "palestine-anata-cities-v2",
@@ -760,6 +1228,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Identified with biblical Anathoth", "Ancient ruins within the town", "Overlooks the Judean Desert", "Major quarry location"],
     },
     imageHint: "Anata town landscape and hills",
+    descriptionAdvanced: {
+      de: "Anata ist eine Stadt im Gouvernement Jerusalem, die historisch mit Anathoth, dem Geburtsort des Propheten Jeremia, identifiziert wird. Die Stadt liegt auf einem Hügel und bietet weite Ausblicke über die judäische Wüste und das Jordantal. Es gibt zahlreiche archäologische Überreste, darunter Mosaike und Höhlen aus byzantinischer Zeit. Heute ist Anata ein wachsendes Wohngebiet mit einer Mischung aus Landwirtschaft und modernem Dienstleistungssektor.",
+      hu: "Anata egy város Jeruzsálem kormányzóságban, amelyet történelmileg Anatottal, Jeremiás próféta szülőhelyével azonosítanak. A város egy dombon fekszik, és széles kilátást nyújt a Júdeai-sivatagra és a Jordán-völgyre. Számos régészeti maradvány található itt, köztük bizánci kori mozaikok és barlangok. Ma Anata növekvő lakóövezet, ahol a mezőgazdaság és a modern szolgáltatási szektor keveredik.",
+      ro: "Anata este un oraș din Guvernoratul Ierusalim, identificat istoric cu Anatot, locul de naștere al profetului Ieremia. Orașul este situat pe un deal și oferă vederi largi asupra Deșertului Iudeii și a Văii Iordanului. Există numeroase vestigii arheologice, inclusiv mozaicuri și peșteri din perioada bizantină. Astăzi, Anata este o zonă rezidențială în plină dezvoltare.",
+      en: "Anata is a town in the Jerusalem Governorate, historically identified with Anathoth, the birthplace of the prophet Jeremiah. The town is situated on a hill and offers expansive views over the Judean Desert and the Jordan Valley. There are numerous archaeological remains, including mosaics and caves from the Byzantine period. Today, Anata is a growing residential area with a mix of agriculture and modern services.",
+    },
+    factsAdvanced: {
+      de: ["Geburtsort des Propheten Jeremia", "4 km nordöstlich von Jerusalem", "Antike Ruinen von Anatoth", "Höhe von ca. 700 Metern", "Byzantinische Klosterüberreste", "Teil des Gouvernements Jerusalem"],
+      hu: ["Jeremiás próféta szülőhelye", "4 km-re északkeletre Jeruzsálemtől", "Anatot ókori romjai", "Tengerszint feletti magassága kb. 700 m", "Bizánci kolostormaradványok", "Jeruzsálem kormányzóság része"],
+      ro: ["Locul de naștere al profetului Ieremia", "4 km nord-est de Ierusalim", "Ruinele antice din Anatot", "Altitudine de aproximativ 700 metri", "Rămășițe ale mănăstirii bizantine", "Face parte din Guvernoratul Ierusalim"],
+      en: ["Birthplace of the prophet Jeremiah", "4 km northeast of Jerusalem", "Ancient ruins of Anathoth", "Elevation of approx. 700 meters", "Byzantine monastery remains", "Part of the Jerusalem Governorate"],
+    },
   },
   {
     id: "palestine-birzeit-cities-v2",
@@ -779,6 +1259,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Home to Birzeit University", "Center of academic life", "Well-preserved old city center", "Name means 'oil well'"],
     },
     imageHint: "Birzeit University campus and old town",
+    descriptionAdvanced: {
+      de: "Birzeit ist eine bedeutende Universitätsstadt im Westjordanland, etwa 10 Kilometer nördlich von Ramallah gelegen. Sie ist Standort der renommierten Birzeit-Universität, die das intellektuelle und kulturelle Leben der Region maßgeblich prägt. Die Stadt besitzt ein charmantes historisches Zentrum mit restaurierten Gebäuden aus osmanischer Zeit. Birzeit ist zudem bekannt für sein Engagement in Kunst und Kultur, was sich in zahlreichen Museen und Festivals widerspiegelt.",
+      hu: "Birzeit egy jelentős egyetemi város Ciszjordániában, körülbelül 10 kilométerre északra Rámalláhtól. Itt található a neves Birzeit Egyetem, amely jelentősen meghatározza a régió szellemi és kulturális életét. A város bájos történelmi központtal rendelkezik, ahol restaurált oszmán kori épületek találhatók. Birzeit művészeti és kulturális elkötelezettségéről is ismert, ami számos múzeumban és fesztiválban nyilvánul meg.",
+      ro: "Birzeit este un oraș universitar important din Cisiordania, situat la aproximativ 10 kilometri nord de Ramallah. Găzduiește prestigioasa Universitate Birzeit, care modelează semnificativ viața intelectuală și culturală a regiunii. Orașul are un centru istoric fermecător, cu clădiri restaurate din perioada otomană. Birzeit este, de asemenea, cunoscut pentru angajamentul său în artă și cultură.",
+      en: "Birzeit is a prominent university town in the West Bank, located about 10 kilometers north of Ramallah. It is home to the renowned Birzeit University, which significantly shapes the intellectual and cultural life of the region. The town has a charming historic center with restored Ottoman-era buildings. Birzeit is also known for its commitment to arts and culture, reflected in numerous museums and festivals.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Birzeit-Universität", "10 km nördlich von Ramallah", "Restaurierter osmanischer Altstadtkern", "Beherbergt das Palästinensische Museum", "Wichtiger Standort für IT-Firmen", "Höhe von 800 Metern über dem Meer"],
+      hu: ["A Birzeit Egyetem székhelye", "10 km-re északra Rámalláhtól", "Restaurált oszmán óváros", "Itt található a Palesztin Múzeum", "Fontos informatikai központ", "800 méterrel a tengerszint felett"],
+      ro: ["Sediul Universității Birzeit", "10 km nord de Ramallah", "Centru vechi otoman restaurat", "Găzduiește Muzeul Palestinian", "Locație importantă pentru firme IT", "Altitudine de 800 metri"],
+      en: ["Home to Birzeit University", "10 km north of Ramallah", "Restored Ottoman old town core", "Houses the Palestinian Museum", "Important location for IT firms", "Elevation of 800 meters"],
+    },
   },
   {
     id: "palestine-beitunia-cities-v2",
@@ -798,6 +1290,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Third largest city in Ramallah Governorate", "Major olive oil facilities", "Hub for construction materials", "Historic mosque sites"],
     },
     imageHint: "Beitunia city landscape and industry",
+    descriptionAdvanced: {
+      de: "Beitunia ist eine geschäftige Stadt im Gouvernement Ramallah und al-Bireh, direkt westlich der Stadt Ramallah gelegen. Sie ist ein bedeutendes Industrie- und Handelszentrum für das Zentralland Palästinas. Die Stadt hat eine lange Geschichte, die bis in die kanaanäische Zeit zurückreicht, und besitzt einen alten Kern mit traditioneller Architektur. In den letzten Jahrzehnten erlebte Beitunia ein rasches städtisches Wachstum und eine Modernisierung der Infrastruktur.",
+      hu: "Beitunia egy nyüzsgő város Rámalláh és al-Bireh kormányzóságban, közvetlenül Rámalláh városától nyugatra. Fontos ipari és kereskedelmi központ Palesztina középső részén. A város hosszú történelemre tekint vissza, amely a kánaáni időkig nyúlik vissza, és hagyományos építészetű óvárossal rendelkezik. Az elmúlt évtizedekben Beitunia gyors városi növekedésen és az infrastruktúra modernizációján ment keresztül.",
+      ro: "Beitunia este un oraș plin de viață din Guvernoratul Ramallah și al-Bireh, situat direct la vest de orașul Ramallah. Este un centru industrial și comercial important pentru zona centrală a Palestinei. Orașul are o istorie lungă care datează din timpurile canaanite și posedă un nucleu vechi cu arhitectură tradițională. În ultimele decenii, Beitunia a cunoscut o creștere urbană rapidă.",
+      en: "Beitunia is a bustling town in the Ramallah and al-Bireh Governorate, located directly west of the city of Ramallah. It is a major industrial and commercial center for the central region of Palestine. The town has a long history dating back to Canaanite times and possesses an old core with traditional architecture. In recent decades, Beitunia has experienced rapid urban growth and infrastructure modernization.",
+    },
+    factsAdvanced: {
+      de: ["Drittgrößte Stadt im Gouvernement", "Westlich von Ramallah gelegen", "Bedeutendes Industriegebiet", "Antike Ruinen im Stadtkern", "Liegt im Westjordanland", "Über 800 Meter über dem Meer"],
+      hu: ["A kormányzóság harmadik legnagyobb városa", "Rámalláhtól nyugatra fekszik", "Jelentős ipari terület", "Ókori romok a városközpontban", "Ciszjordánia területén fekszik", "Több mint 800 méterrel a tengerszint felett"],
+      ro: ["Al treilea oraș ca mărime din guvernorat", "Situat la vest de Ramallah", "Zonă industrială semnificativă", "Ruine antice în centrul orașului", "Situat în Cisiordania", "Peste 800 de metri peste nivelul mării"],
+      en: ["Third largest city in the governorate", "Located west of Ramallah", "Significant industrial area", "Ancient ruins in the town center", "Situated in the West Bank", "Over 800 meters above sea level"],
+    },
   },
   {
     id: "palestine-silwad-cities-v2",
@@ -817,6 +1321,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Rural character", "Olive farming is the main income", "Near ancient ruins", "Elevation providing scenic views"],
     },
     imageHint: "Silwad village on a hill",
+    descriptionAdvanced: {
+      de: "Silwad ist eine palästinensische Stadt im nordöstlichen Gouvernement Ramallah und al-Bireh. Sie liegt auf einem Hügel und ist bekannt für ihre weitreichenden Olivenhaine und die Produktion von hochwertigem Olivenöl. Die Stadt hat eine starke Verbindung zur palästinensischen Diaspora, was sich in moderner Wohnarchitektur widerspiegelt. Historisch war die Region Schauplatz verschiedener kultureller Einflüsse von der Römerzeit bis zur osmanischen Ära.",
+      hu: "Silwad egy palesztin város Rámalláh és al-Bireh kormányzóság északkeleti részén. Egy dombon fekszik, és kiterjedt olajfaligeteiről, valamint kiváló minőségű olívaolaj-termeléséről ismert. A város erős kapcsolatot ápol a palesztin diaszpórával, ami a modern lakóépítészetben is tükröződik. Történelmileg a régió különböző kulturális hatások helyszíne volt a római kortól az oszmán korszakig.",
+      ro: "Silwad este un oraș palestinian din nord-estul Guvernoratului Ramallah și al-Bireh. Este situat pe un deal și este cunoscut pentru livezile sale întinse de măslini și producția de ulei de măsline de înaltă calitate. Orașul are o legătură puternică cu diaspora palestiniană, reflectată în arhitectura rezidențială modernă. Istoric, regiunea a fost scena diverselor influențe culturale.",
+      en: "Silwad is a Palestinian town in the northeastern Ramallah and al-Bireh Governorate. It is situated on a hill and is known for its extensive olive groves and the production of high-quality olive oil. The town has a strong connection to the Palestinian diaspora, which is reflected in modern residential architecture. Historically, the region was a site of various cultural influences from Roman to Ottoman eras.",
+    },
+    factsAdvanced: {
+      de: ["12 km nordöstlich von Ramallah", "Bekannt für Olivenölproduktion", "Hügelige Topographie", "Befindet sich im Westjordanland", "Über 850 Meter über dem Meer", "Starke Diaspora-Bindungen"],
+      hu: ["12 km-re északkeletre Rámalláhtól", "Olívaolaj-termeléséről híres", "Dombos domborzat", "Ciszjordánia területén fekszik", "Több mint 850 méterrel a tengerszint felett", "Erős diaszpóra-kötődések"],
+      ro: ["12 km nord-est de Ramallah", "Cunoscut pentru producția de ulei de măsline", "Topografie deluroasă", "Se află în Cisiordania", "Peste 850 de metri peste nivelul mării", "Legături puternice cu diaspora"],
+      en: ["12 km northeast of Ramallah", "Known for olive oil production", "Hilly topography", "Situated in the West Bank", "Over 850 meters above sea level", "Strong diaspora ties"],
+    },
   },
   {
     id: "palestine-al-mazraa-ash-sharqiya-cities-v2",
@@ -836,6 +1352,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Many villas built by returnees", "Agricultural surroundings", "Historic village core", "Modern residential development"],
     },
     imageHint: "Villas and landscape in Al-Mazra'a ash-Sharqiya",
+    descriptionAdvanced: {
+      de: "Al-Mazra'a ash-Sharqiya ist eine Stadt im Gouvernement Ramallah und al-Bireh, die für ihre elegante Architektur und gepflegten Gärten bekannt ist. Die Stadt profitiert von Rückkehrerinvestitionen, was zu einer überdurchschnittlich modernen Infrastruktur geführt hat. Gelegen in einer malerischen Berglandschaft, behält sie dennoch ihren landwirtschaftlichen Ursprung bei. Die Umgebung ist reich an archäologischen Spuren vergangener Epochen, von der Eisenzeit bis zur byzantinischen Periode.",
+      hu: "Al-Mazra'a ash-Sharqiya egy város Rámalláh és al-Bireh kormányzóságban, amely elegáns építészetéről és gondozott kertjeiről ismert. A város a visszatérők befektetéseiből profitál, ami az átlagosnál modernebb infrastruktúrát eredményezett. Egy festői hegyi tájon fekszik, de továbbra is megőrzi mezőgazdasági eredetét. A környék gazdag a múltbéli korszakok régészeti nyomaiban, a vaskortól a bizánci korszakig.",
+      ro: "Al-Mazra'a ash-Sharqiya este un oraș din Guvernoratul Ramallah și al-Bireh, cunoscut pentru arhitectura sa elegantă și grădinile bine întreținute. Orașul beneficiază de investiții din partea expatriaților, ceea ce a dus la o infrastructură modernă peste medie. Situat într-un peisaj montan pitoresc, își păstrează totuși originile agricole. Împrejurimile sunt bogate în urme arheologice.",
+      en: "Al-Mazra'a ash-Sharqiya is a town in the Ramallah and al-Bireh Governorate known for its elegant architecture and well-kept gardens. The town benefits from returnee investments, which has led to an above-average modern infrastructure. Situated in a picturesque mountain landscape, it still maintains its agricultural origins. The surroundings are rich in archaeological traces of past eras, from the Iron Age to the Byzantine period.",
+    },
+    factsAdvanced: {
+      de: ["Nordöstlich von Ramallah gelegen", "Bekannt für moderne Villen", "Höhe von ca. 900 Metern", "Reich an byzantinischen Ruinen", "Wirtschaft durch Diaspora gestärkt", "Gehört zum Westjordanland"],
+      hu: ["Rámalláhtól északkeletre fekszik", "Modern villáiról ismert", "Tengerszint feletti magassága kb. 900 m", "Gazdag bizánci romokban", "Gazdaságát a diaszpóra erősíti", "Ciszjordánia területéhez tartozik"],
+      ro: ["Situat la nord-est de Ramallah", "Cunoscut pentru vile moderne", "Altitudine de aproximativ 900 metri", "Bogat în ruine bizantine", "Economie consolidată de diasporă", "Aparține de Cisiordania"],
+      en: ["Located northeast of Ramallah", "Known for modern villas", "Elevation of approx. 900 meters", "Rich in Byzantine ruins", "Economy boosted by diaspora", "Part of the West Bank"],
+    },
   },
   {
     id: "palestine-turmus-ayya-cities-v2",
@@ -855,6 +1383,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Known for horse breeding", "Modern Palestinian architecture", "Strong diaspora connections", "Fertile plains"],
     },
     imageHint: "Modern villas and olive groves in Turmus Ayya",
+    descriptionAdvanced: {
+      de: "Turmus Ayya ist eine vornehme palästinensische Stadt zwischen Ramallah und Nablus, die für ihre auffälligen Villen und gepflegten öffentlichen Plätze bekannt ist. Die Stadt ist ein Symbol für den Erfolg palästinensischer Auswanderer, die in ihre Heimat investieren. Inmitten von Olivenhainen gelegen, bewahrt sie ein ruhiges, ländliches Ambiente trotz moderner Entwicklung. Historisch ist der Ort für seine antiken Fundamente und Zisternen aus römischer Zeit bedeutend.",
+      hu: "Turmus Ayya egy elegáns palesztin város Rámalláh és Náblusz között, amely feltűnő villáiról és gondozott közterületeiről ismert. A város a hazájukba befektető palesztin kivándorlók sikerének szimbóluma. Az olajfaligetek közepette fekvő település a modern fejlődés ellenére is megőrzi nyugodt, vidéki hangulatát. Történelmileg a hely a római kori ősi alapjai és ciszternái miatt jelentős.",
+      ro: "Turmus Ayya este un oraș palestinian select între Ramallah și Nablus, cunoscut pentru vilele sale spectaculoase și spațiile publice bine întreținute. Orașul este un simbol al succesului emigranților palestinieni care investesc în patria lor. Situat în mijlocul livezilor de măslini, păstrează o ambianță rurală liniștită, în ciuda dezvoltării moderne. Istoric, locul este semnificativ pentru vestigiile romane.",
+      en: "Turmus Ayya is an upscale Palestinian town between Ramallah and Nablus, known for its striking villas and well-maintained public spaces. The town is a symbol of the success of Palestinian emigrants who invest in their homeland. Situated amidst olive groves, it maintains a quiet, rural ambiance despite modern development. Historically, the site is significant for its ancient foundations and cisterns from Roman times.",
+    },
+    factsAdvanced: {
+      de: ["Liegt an der Straße Ramallah-Nablus", "Bekannt als Villenstadt", "Traditioneller Reitclub vor Ort", "Über 700 Meter über dem Meer", "Viele Einwohner mit US-Staatsbürgerschaft", "Umgeben von Olivenhainen"],
+      hu: ["A Rámalláh-Náblusz út mentén fekszik", "Villavárosként ismert", "Hagyományos lovas klubbal rendelkezik", "700 méterrel a tengerszint felett", "Sok lakosa amerikai állampolgár is", "Olajfaligetek veszik körül"],
+      ro: ["Situat pe drumul Ramallah-Nablus", "Cunoscut ca oraș al vilelor", "Club de echitație tradițional", "Peste 700 de metri peste nivelul mării", "Mulți locuitori cu cetățenie americană", "Înconjurat de livezi de măslini"],
+      en: ["Located on the Ramallah-Nablus road", "Known as a city of villas", "Traditional riding club on site", "Over 700 meters above sea level", "Many residents hold US citizenship", "Surrounded by olive groves"],
+    },
   },
   {
     id: "palestine-sinjil-cities-v2",
@@ -874,6 +1414,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Founded during the Crusader era", "Strategic hilltop location", "Historic ruins present", "Center for olive production"],
     },
     imageHint: "Sinjil hilltop view and historic sites",
+    descriptionAdvanced: {
+      de: "Sinjil ist eine geschichtsträchtige Stadt nördlich von Ramallah, deren Name auf den Kreuzfahrer Raymond de Saint-Gilles zurückgeht. Die Stadt beherbergt bedeutende Überreste aus der Kreuzfahrerzeit, darunter eine ehemalige Kirche, die in eine Moschee umgewandelt wurde. Sinjil liegt strategisch günstig auf einem Hügel und überblickt fruchtbare Ebenen. Die Bewohner widmen sich traditionell dem Ackerbau, insbesondere dem Anbau von Getreide und Oliven.",
+      hu: "Sinjil egy történelmi város Rámalláhtól északra, amelynek neve Raymond de Saint-Gilles keresztes lovagra vezethető vissza. A városban jelentős keresztes kori maradványok találhatók, köztük egy egykori templom, amelyet mecsetté alakítottak át. Sinjil stratégiailag egy dombon fekszik, és termékeny síkságokra néz. A lakosok hagyományosan mezőgazdasággal, különösen gabona- és olajbogyó-termesztéssel foglalkoznak.",
+      ro: "Sinjil este un oraș încărcat de istorie la nord de Ramallah, al cărui nume provine de la cruciatul Raymond de Saint-Gilles. Orașul găzduiește vestigii semnificative din perioada cruciată, inclusiv o fostă biserică transformată în moschee. Sinjil este situat strategic pe un deal, dominând câmpii fertile. Locuitorii se dedică tradițional agriculturii, în special cerealelor și măslinelor.",
+      en: "Sinjil is a history-rich town north of Ramallah, named after the Crusader Raymond de Saint-Gilles. The town houses significant remains from the Crusader period, including a former church converted into a mosque. Sinjil is strategically located on a hill overlooking fertile plains. Residents traditionally dedicate themselves to farming, particularly the cultivation of grain and olives.",
+    },
+    factsAdvanced: {
+      de: ["Benannt nach Raymond de Saint-Gilles", "Kreuzfahrerkirche zu Moschee umgebaut", "21 km nördlich von Ramallah", "Höhe von ca. 800 Metern", "Historischer Kern mit Steinbögen", "Bekannt für fruchtbare Ebenen"],
+      hu: ["Raymond de Saint-Gilles-ről nevezték el", "Keresztes templomból lett mecset", "21 km-re északra Rámalláhtól", "Tengerszint feletti magassága kb. 800 m", "Történelmi mag kőívekkel", "Termékeny síkságairól ismert"],
+      ro: ["Numit după Raymond de Saint-Gilles", "Biserică cruciată transformată în moschee", "21 km nord de Ramallah", "Altitudine de aproximativ 800 metri", "Nucleu istoric cu arcade din piatră", "Cunoscut pentru câmpii fertile"],
+      en: ["Named after Raymond de Saint-Gilles", "Crusader church converted to mosque", "21 km north of Ramallah", "Elevation of approx. 800 meters", "Historic core with stone arches", "Known for fertile plains"],
+    },
   },
   {
     id: "palestine-jalazone-cities-v2",
@@ -893,6 +1445,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Established in 1949", "Located near Bet El", "Densely populated urban area", "Significant educational facilities"],
     },
     imageHint: "Jalazone residential buildings and streets",
+    descriptionAdvanced: {
+      de: "Jalazone ist ein palästinensisches Flüchtlingslager nördlich von Ramallah, das 1949 gegründet wurde. Es liegt in unmittelbarer Nähe zur antiken Stätte Bethel und zur modernen Stadt Birzeit. Das Lager hat sich über die Jahrzehnte zu einer dauerhaften Siedlung mit komplexer sozialer Struktur und eigener Infrastruktur entwickelt. Es ist ein Zentrum des gesellschaftlichen Lebens und des Widerstands in der Region Ramallah.",
+      hu: "Jalazone egy palesztin menekülttábor Rámalláhtól északra, amelyet 1949-ben alapítottak. Bethel ókori helyszínének és Birzeit modern városának közvetlen közelében található. A tábor az évtizedek során állandó településsé fejlődött, összetett társadalmi szerkezettel és saját infrastruktúrával. A Rámalláh régió társadalmi életének és ellenállásának egyik központja.",
+      ro: "Jalazone este o tabără de refugiați palestinieni la nord de Ramallah, fondată în 1949. Se află în imediata apropiere a sitului antic Betel și a orașului modern Birzeit. De-a lungul deceniilor, tabăra s-a transformat într-o așezare permanentă cu o structură socială complexă și infrastructură proprie. Este un centru al vieții sociale și al rezistenței în regiunea Ramallah.",
+      en: "Jalazone is a Palestinian refugee camp north of Ramallah, established in 1949. It is located in close proximity to the ancient site of Bethel and the modern town of Birzeit. Over the decades, the camp has evolved into a permanent settlement with a complex social structure and its own infrastructure. It is a center of social life and resistance in the Ramallah region.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1949", "Nördlich von Ramallah gelegen", "Angrenzend an antikes Bethel", "Dicht besiedeltes Gebiet", "Schulen der UNRWA vorhanden", "Befindet sich im Westjordanland"],
+      hu: ["1949-ben alapították", "Rámalláhtól északra fekszik", "Az ókori Bethel szomszédságában", "Sűrűn lakott terület", "UNRWA iskolák találhatók itt", "Ciszjordánia területén fekszik"],
+      ro: ["Fondată în anul 1949", "Situată la nord de Ramallah", "Adiacentă anticului Betel", "Zonă dens populată", "Sunt prezente școli UNRWA", "Se află în Cisiordania"],
+      en: ["Established in 1949", "Located north of Ramallah", "Adjacent to ancient Bethel", "Densely populated area", "UNRWA schools present", "Situated in the West Bank"],
+    },
   },
   {
     id: "palestine-azzun-cities-v2",
@@ -912,6 +1476,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Important agricultural center", "Historic Canaanite settlement site", "Significant olive production", "Hilly surroundings"],
     },
     imageHint: "Azzun village houses and olive trees",
+    descriptionAdvanced: {
+      de: "Azzun ist eine palästinensische Stadt im Gouvernement Qalqilya im Norden des Westjordanlandes. Sie liegt strategisch günstig an der Hauptstraße zwischen den Städten Qalqilya und Nablus. Die lokale Wirtschaft basiert primär auf der Landwirtschaft, wobei der Anbau von Oliven und Zitrusfrüchten dominiert. Die Umgebung ist durch hügeliges Gelände und fruchtbare Täler geprägt, die seit Jahrhunderten bewirtschaftet werden.",
+      hu: "Azzun egy palesztin város a Ciszjordánia északi részén található Kalkilja kormányzóságban. Stratégiai helyen fekszik a Kalkilját és Nábluszt összekötő főút mentén. A helyi gazdaság elsősorban a mezőgazdaságra épül, különös tekintettel az olajbogyó- és citrustermesztésre. A települést dombos vidék és termékeny völgyek veszik körül, amelyeket évszázadok óta művelnek.",
+      ro: "Azzun este un oraș palestinian situat în guvernoratul Qalqilya, în nordul Cisiordaniei. Acesta ocupă o poziție strategică pe drumul principal care leagă orașele Qalqilya și Nablus. Economia locală se bazează în principal pe agricultură, remarcându-se culturile de măslini și citrice. Localitatea este înconjurată de un relief deluros și văi fertile, exploatate agricol de secole.",
+      en: "Azzun is a Palestinian town located in the Qalqilya Governorate in the northern West Bank. It is strategically situated on the main road between the cities of Qalqilya and Nablus. The local economy is primarily based on agriculture, with a focus on olive and citrus fruit cultivation. The town is surrounded by hilly terrain and fertile valleys that have been farmed for centuries.",
+    },
+    factsAdvanced: {
+      de: ["Azzun liegt auf einer durchschnittlichen Höhe von etwa 280 Metern über dem Meeresspiegel.", "Die Stadt hat eine geschätzte Bevölkerung von rund 9.000 Einwohnern.", "Sie befindet sich etwa 9 Kilometer östlich der Stadt Qalqilya.", "Archäologische Funde belegen eine Besiedlung seit der römischen und byzantinischen Zeit.", "Das Gemeindegebiet umfasst eine Fläche von ca. 9.172 Dunam.", "Die Stadt ist bekannt für ihre traditionellen Olivenölpressen."],
+      hu: ["Azzun átlagos tengerszint feletti magassága körülbelül 280 méter.", "A város becsült lakossága nagyjából 9000 fő.", "Kalkilja városától körülbelül 9 kilométerre keletre található.", "Régészeti leletek bizonyítják a római és bizánci korszak óta tartó lakottságot.", "A település közigazgatási területe mintegy 9172 dunam (kb. 9,1 km²).", "A város híres a hagyományos olajpréselő üzemeiről."],
+      ro: ["Azzun este situat la o altitudine medie de aproximativ 280 de metri deasupra nivelului mării.", "Orașul are o populație estimată la circa 9.000 de locuitori.", "Se află la aproximativ 9 kilometri est de orașul Qalqilya.", "Descoperirile arheologice atestă locuirea zonei încă din perioadele romană și bizantină.", "Teritoriul municipal cuprinde o suprafață de aproximativ 9.172 de dunami.", "Localitatea este cunoscută pentru presele sale tradiționale de ulei de măsline."],
+      en: ["Azzun is situated at an average elevation of approximately 280 meters above sea level.", "The town has an estimated population of around 9,000 residents.", "It is located about 9 kilometers east of the city of Qalqilya.", "Archaeological evidence points to settlement since the Roman and Byzantine eras.", "The municipal area covers approximately 9,172 dunams of land.", "The town is noted for its traditional olive oil production facilities."],
+    },
   },
   {
     id: "palestine-hableh-cities-v2",
@@ -931,6 +1507,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Center for vegetable farming", "Ancient ruins in the area", "Located near the Green Line", "Important irrigation projects"],
     },
     imageHint: "Hableh agricultural fields and greenhouses",
+    descriptionAdvanced: {
+      de: "Hableh ist eine palästinensische Kleinstadt im Gouvernement Qalqilya, die sich im nordwestlichen Teil des Westjordanlandes befindet. Die Siedlung liegt in unmittelbarer Nähe zur Grünen Linie und ist von landwirtschaftlichen Flächen umgeben. Historisch gesehen war der Ort ein wichtiger Knotenpunkt für den lokalen Handel zwischen den Küstenebenen und dem Hügelland. Die moderne Infrastruktur ist stark von der geografischen Lage nahe der Trennmauer beeinflusst.",
+      hu: "Hableh egy palesztin kisváros Kalkilja kormányzóságban, Ciszjordánia északnyugati részén. A település a Zöld Vonal közvetlen közelében fekszik, és mezőgazdasági területek veszik körül. Történelmileg fontos csomópont volt a part menti síkságok és a dombvidék közötti helyi kereskedelemben. A modern infrastruktúrát erősen befolyásolja a biztonsági kerítés közelsége.",
+      ro: "Hableh este un mic oraș palestinian din guvernoratul Qalqilya, situat în partea de nord-vest a Cisiordaniei. Localitatea se află în imediata vecinătate a Liniei Verzi și este înconjurată de terenuri agricole. Din punct de vedere istoric, a servit ca un nod important pentru comerțul local între câmpiile de coastă și zona deluroasă. Infrastructura modernă este marcată de proximitatea barierei de separare.",
+      en: "Hableh is a small Palestinian town in the Qalqilya Governorate, located in the northwestern part of the West Bank. The settlement is situated in close proximity to the Green Line and is surrounded by agricultural lands. Historically, it served as an important hub for local trade between the coastal plains and the hill country. Modern infrastructure is significantly impacted by its location near the separation barrier.",
+    },
+    factsAdvanced: {
+      de: ["Hableh liegt etwa 1,5 Kilometer südöstlich der Stadt Qalqilya.", "Die Einwohnerzahl der Stadt wird auf ungefähr 7.000 Personen geschätzt.", "Auf dem Stadtgebiet befinden sich antike Zisternen und Grabanlagen.", "Die Landwirtschaft konzentriert sich auf den Anbau von Gemüse in Gewächshäusern.", "Die Stadt wurde 1967 während des Sechstagekrieges unter israelische Verwaltung gestellt.", "Ein Tunnel verbindet Hableh mit der benachbarten Stadt Qalqilya."],
+      hu: ["Hableh körülbelül 1,5 kilométerre délkeletre fekszik Kalkilja városától.", "A város lakossága körülbelül 7000 főre tehető.", "A település területén ókori ciszternek és sírkamrák találhatók.", "A mezőgazdaság fóliasátras zöldségtermesztésre összpontosít.", "A várost 1967-ben, a hatnapos háború során vették izraeli irányítás alá.", "Egy alagút köti össze Hableh városát a szomszédos Kalkiljával."],
+      ro: ["Hableh se află la aproximativ 1,5 kilometri sud-est de orașul Qalqilya.", "Populația localității este estimată la aproximativ 7.000 de locuitori.", "Pe teritoriul orașului se găsesc cisterne antice și complexe funerare.", "Agricultura se concentrează pe cultivarea legumelor în sere.", "Orașul a intrat sub administrație israeliană în 1967, în timpul Războiului de Șase Zile.", "Un tunel rutier face legătura între Hableh și orașul vecin Qalqilya."],
+      en: ["Hableh is located approximately 1.5 kilometers southeast of the city of Qalqilya.", "The town's population is estimated to be around 7,000 people.", "Ancient cisterns and burial sites have been discovered within the town limits.", "Agriculture focuses on greenhouse vegetable production in the fertile soil.", "The town came under Israeli administration following the 1967 Six-Day War.", "A tunnel connects Hableh with the nearby city of Qalqilya."],
+    },
   },
   {
     id: "palestine-jayyous-cities-v2",
@@ -950,6 +1538,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Significant olive farming area", "Rich in natural springs", "Ancient wine presses discovered", "Hilly terrain"],
     },
     imageHint: "Jayyous landscape and olive groves",
+    descriptionAdvanced: {
+      de: "Jayyous ist ein palästinensisches Dorf im Norden des Gouvernements Qalqilya. Die Gemeinde ist bekannt für ihren landwirtschaftlichen Reichtum, insbesondere für den Anbau von Olivenbäumen und Zitrusplantagen. Geografisch liegt Jayyous in einer hügeligen Landschaft, die weite Ausblicke über die Küstenebene ermöglicht. In den letzten Jahrzehnten erlangte der Ort internationale Bekanntheit durch den zivilen Widerstand gegen den Verlauf der israelischen Trennmauer.",
+      hu: "Jayyous egy palesztin falu Kalkilja kormányzóság északi részén. A közösség mezőgazdasági gazdagságáról ismert, különösen az olajfákról és a citrusültetvényekről. Földrajzilag dombos vidéken fekszik, ahonnan kilátás nyílik a part menti síkságra. Az elmúlt évtizedekben a település nemzetközi ismeretségre tett szert az izraeli elválasztó fal nyomvonala elleni polgári ellenállás révén.",
+      ro: "Jayyous este un sat palestinian situat în nordul guvernoratului Qalqilya. Comunitatea este recunoscută pentru bogăția sa agricolă, în special pentru livezile de măslini și plantațiile de citrice. Geografic, Jayyous se află într-un peisaj deluros care oferă vederi panoramice asupra câmpiei de coastă. În ultimele decenii, localitatea a devenit cunoscută internațional pentru rezistența civilă împotriva traseului barierei de separare.",
+      en: "Jayyous is a Palestinian village located in the northern Qalqilya Governorate. The community is known for its agricultural wealth, particularly its olive groves and citrus orchards. Geographically, Jayyous sits in a hilly landscape that offers broad views over the coastal plain. In recent decades, the town gained international recognition for civil resistance related to the route of the Israeli separation barrier.",
+    },
+    factsAdvanced: {
+      de: ["Jayyous liegt etwa 10 Kilometer nordöstlich von Qalqilya.", "Die Bevölkerung beträgt etwa 3.500 Einwohner.", "Der Ort verfügt über sechs artesische Brunnen für die Bewässerung.", "Die landwirtschaftliche Nutzfläche umfasst ca. 12.500 Dunam.", "Das Dorf liegt auf einer Höhe von ca. 350 Metern über dem Meer.", "Olivenöl ist das wichtigste Exportgut der lokalen Gemeinschaft."],
+      hu: ["Jayyous körülbelül 10 kilométerre északkeletre található Kalkiljától.", "A falu lakossága körülbelül 3500 fő.", "A település hat artézi kúttal rendelkezik az öntözéshez.", "A mezőgazdaságilag művelt terület mintegy 12 500 dunam.", "A falu körülbelül 350 méteres tengerszint feletti magasságban fekszik.", "Az olívaolaj a helyi közösség legfontosabb exportcikke."],
+      ro: ["Jayyous este situat la aproximativ 10 kilometri nord-est de Qalqilya.", "Populația satului este de aproximativ 3.500 de locuitori.", "Localitatea dispune de șase fântâni arteziene utilizate pentru irigații.", "Suprafața agricolă utilizată cuprinde circa 12.500 de dunami.", "Satul se află la o altitudine de aproximativ 350 de metri deasupra mării.", "Uleiul de măsline reprezintă principalul produs de export al comunității locale."],
+      en: ["Jayyous is located about 10 kilometers northeast of Qalqilya.", "The population of the village is approximately 3,500 residents.", "The town possesses six artesian wells used for irrigation purposes.", "The agricultural land area covers roughly 12,500 dunams.", "The village sits at an elevation of about 350 meters above sea level.", "Olive oil is the primary export product of the local community."],
+    },
   },
   {
     id: "palestine-kafr-thulth-cities-v2",
@@ -969,6 +1569,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Center of olive oil production", "Historic ruins present", "Elevation with panoramic views", "Traditional crafts"],
     },
     imageHint: "Kafr Thulth hilltop views and olive trees",
+    descriptionAdvanced: {
+      de: "Kafr Thulth ist eine palästinensische Stadt im Gouvernement Qalqilya, südöstlich der Stadt Qalqilya. Der Name bedeutet übersetzt 'Dorf des Drittels' und bezieht sich vermutlich auf eine historische Landaufteilung. Die Stadt ist für ihre archäologischen Stätten bekannt, die auf eine Besiedlung seit der Antike hinweisen. Heute ist sie ein bedeutendes lokales Zentrum für Bildung und landwirtschaftliche Produktion in der Region.",
+      hu: "Kafr Thulth egy palesztin város Kalkilja kormányzóságban, Kalkilja várostól délkeletre. A név jelentése 'a harmad faluja', ami valószínűleg egy történelmi földosztásra utal. A város ismert régészeti lelőhelyeiről, amelyek az ókor óta tartó folyamatos lakottságra utalnak. Napjainkban a régió egyik jelentős oktatási és mezőgazdasági központjaként tartják számon.",
+      ro: "Kafr Thulth este un oraș palestinian din guvernoratul Qalqilya, situat la sud-est de orașul Qalqilya. Numele se traduce prin „Satul Treimii”, referindu-se probabil la o împărțire istorică a terenurilor. Orașul este cunoscut pentru siturile sale arheologice care indică o locuire continuă din antichitate. Astăzi, servește ca un centru local important pentru educație și producție agricolă în regiune.",
+      en: "Kafr Thulth is a Palestinian town in the Qalqilya Governorate, located southeast of the city of Qalqilya. The name translates to 'Village of the Third,' likely referring to a historical division of land. The town is known for its archaeological sites, which suggest habitation since ancient times. Today, it stands as a significant local center for education and agricultural production in the region.",
+    },
+    factsAdvanced: {
+      de: ["Kafr Thulth hat eine Bevölkerung von rund 4.000 Einwohnern.", "Die Stadt liegt auf einer Höhe von etwa 270 Metern.", "In der Umgebung wurden Überreste byzantinischer Mosaike gefunden.", "Das Stadtgebiet erstreckt sich über eine Fläche von ca. 24.000 Dunam.", "Etwa 80 % der Einwohner sind im Agrarsektor tätig.", "Die Stadt wurde im Jahr 1997 offiziell zur Gemeinde erhoben."],
+      hu: ["Kafr Thulth lakossága körülbelül 4000 fő.", "A város mintegy 270 méteres tengerszint feletti magasságban fekszik.", "A környéken bizánci korszakból származó mozaikmaradványokat találtak.", "A város közigazgatási területe körülbelül 24 000 dunamra terjed ki.", "A lakosság mintegy 80%-a a mezőgazdasági szektorban dolgozik.", "A települést 1997-ben emelték hivatalosan városi (önkormányzati) rangra."],
+      ro: ["Kafr Thulth are o populație de aproximativ 4.000 de locuitori.", "Orașul este situat la o altitudine de circa 270 de metri.", "În împrejurimi au fost descoperite resturi de mozaicuri bizantine.", "Teritoriul municipal se întinde pe o suprafață de aproximativ 24.000 de dunami.", "Circa 80% din locuitori sunt implicați în sectorul agricol.", "Localitatea a fost ridicată oficial la rangul de municipalitate în anul 1997."],
+      en: ["Kafr Thulth has a population of approximately 4,000 residents.", "The town is situated at an elevation of about 270 meters.", "Remains of Byzantine mosaics have been discovered in the surrounding area.", "The municipal area extends over roughly 24,000 dunams of land.", "About 80% of the population is employed in the agricultural sector.", "The town was officially designated as a municipality in the year 1997."],
+    },
   },
   {
     id: "palestine-yabad-cities-v2",
@@ -988,6 +1600,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Center of charcoal industry", "Major tobacco cultivation", "Hilly terrain", "Traditional craft workshops"],
     },
     imageHint: "Ya'bad village and charcoal production",
+    descriptionAdvanced: {
+      de: "Ya'bad ist eine geschichtsträchtige palästinensische Stadt im Gouvernement Jenin, im Norden des Westjordanlandes. Sie ist überregional bekannt für ihre Holzkohleproduktion und den Anbau von hochwertigem Tabak. Die Stadt spielte eine zentrale Rolle im arabischen Aufstand von 1935, insbesondere durch die Ereignisse um Izz ad-Din al-Qassam. Das Stadtbild ist geprägt von einer Mischung aus historischen Steingebäuden und moderner Architektur.",
+      hu: "Ya'bad egy történelmi jelentőségű palesztin város Dzsenín kormányzóságban, Ciszjordánia északi részén. Országosan ismert a faszéntermeléséről és a kiváló minőségű dohánytermesztésről. A város központi szerepet játszott az 1935-ös arab felkelésben, különösen az Izz ad-Din al-Kasszamhoz kötődő események révén. A városképet a történelmi kőépületek és a modern építészet keveredése jellemzi.",
+      ro: "Ya'bad este un oraș palestinian cu o istorie bogată, situat în guvernoratul Jenin, în nordul Cisiordaniei. Este cunoscut la nivel regional pentru producția de cărbune de lemn și cultivarea tutunului de înaltă calitate. Orașul a jucat un rol central în revolta arabă din 1935, în special prin evenimentele legate de Izz ad-Din al-Qassam. Peisajul urban este marcat de un amestec de clădiri istorice din piatră și arhitectură modernă.",
+      en: "Ya'bad is a historically significant Palestinian town in the Jenin Governorate, located in the northern West Bank. It is widely known for its traditional charcoal production and high-quality tobacco cultivation. The town played a pivotal role in the 1935 Arab revolt, particularly through the events surrounding Izz ad-Din al-Qassam. The townscape features a blend of historic stone buildings and modern architecture.",
+    },
+    factsAdvanced: {
+      de: ["Ya'bad liegt etwa 18 Kilometer westlich der Stadt Jenin.", "Die Einwohnerzahl beträgt ungefähr 16.000 Personen.", "Die Stadt liegt auf einem Hügel in etwa 360 Metern Höhe.", "Hier fiel 1935 Izz ad-Din al-Qassam im Kampf gegen britische Truppen.", "Ya'bad ist eines der wenigen Zentren für Holzkohleherstellung in Palästina.", "Das Gemeindegebiet umfasst eine Gesamtfläche von ca. 37.000 Dunam."],
+      hu: ["Ya'bad körülbelül 18 kilométerre nyugatra fekszik Dzsenín városától.", "A lakosság száma megközelítőleg 16 000 fő.", "A város egy dombon helyezkedik el, mintegy 360 méteres magasságban.", "1935-ben itt esett el Izz ad-Din al-Kasszam a brit csapatok elleni harcban.", "Ya'bad Palesztina kevés faszénkészítő központjának egyike.", "A település közigazgatási területe összesen kb. 37 000 dunamot tesz ki."],
+      ro: ["Ya'bad se află la aproximativ 18 kilometri vest de orașul Jenin.", "Populația orașului este de aproximativ 16.000 de locuitori.", "Orașul este situat pe o colină, la o altitudine de circa 360 de metri.", "În 1935, Izz ad-Din al-Qassam a murit aici în lupta împotriva trupelor britanice.", "Ya'bad este unul dintre puținele centre de producție a cărbunelui din Palestina.", "Teritoriul municipal cuprinde o suprafață totală de aproximativ 37.000 de dunami."],
+      en: ["Ya'bad is located approximately 18 kilometers west of the city of Jenin.", "The population is estimated to be around 16,000 people.", "The town sits on a hill at an elevation of roughly 360 meters.", "In 1935, Izz ad-Din al-Qassam was killed here during a battle with British forces.", "Ya'bad is one of the few centers for traditional charcoal production in Palestine.", "The municipal boundary covers a total area of approximately 37,000 dunams."],
+    },
   },
   {
     id: "palestine-arraba-cities-v2",
@@ -1007,6 +1631,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Significant restored old city", "Major olive producer", "Historic palaces", "Hilly topography"],
     },
     imageHint: "Arraba old town and historic palaces",
+    descriptionAdvanced: {
+      de: "Arraba ist eine bedeutende Stadt im Gouvernement Jenin, die für ihren kulturellen und historischen Einfluss im Norden des Westjordanlandes bekannt ist. Sie war der Stammsitz der einflussreichen Abd al-Hadi-Familie, deren palastähnliche Häuser noch heute das Stadtbild prägen. Die Stadt liegt in einem fruchtbaren landwirtschaftlichen Gebiet und dient als Handelszentrum für die umliegenden Dörfer. Viele bekannte palästinensische Intellektuelle und Politiker stammen aus diesem Ort.",
+      hu: "Arraba Dzsenín kormányzóság egyik jelentős városa, amely kulturális és történelmi hatásáról ismert Ciszjordánia északi részén. Itt volt a befolyásos Abd al-Hadi család székhelye, akiknek palotaszerű házai ma is meghatározzák a városképet. A város termékeny mezőgazdasági területen fekszik, és kereskedelmi központként szolgál a környező falvak számára. Számos ismert palesztin értelmiségi és politikus származik innen.",
+      ro: "Arraba este un oraș important din guvernoratul Jenin, cunoscut pentru influența sa culturală și istorică în nordul Cisiordaniei. A fost sediul influentei familii Abd al-Hadi, ale cărei case fortificate de tip palat domină și astăzi peisajul urban. Orașul este situat într-o zonă agricolă fertilă și servește drept centru comercial pentru satele din jur. Mulți intelectuali și politicieni palestinieni de vază sunt originari din această localitate.",
+      en: "Arraba is a prominent town in the Jenin Governorate, known for its cultural and historical influence in the northern West Bank. It was the ancestral seat of the influential Abd al-Hadi family, whose palace-like fortified houses still define the townscape today. The town is situated in a fertile agricultural area and serves as a commercial hub for surrounding villages. Many well-known Palestinian intellectuals and politicians hail from this location.",
+    },
+    factsAdvanced: {
+      de: ["Arraba hat eine Bevölkerung von ca. 11.000 Einwohnern.", "Die Stadt liegt auf einer Höhe von etwa 350 Metern über dem Meeresspiegel.", "Die historischen Paläste der Abd al-Hadi-Familie stammen aus der osmanischen Ära.", "Sie befindet sich etwa 13 Kilometer südwestlich von Jenin.", "Die Landwirtschaft konzentriert sich auf Getreide, Oliven und Mandeln.", "In der Antike war der Ort als Arubboth bekannt."],
+      hu: ["Arraba lakossága körülbelül 11 000 fő.", "A város mintegy 350 méteres tengerszint feletti magasságban helyezkedik el.", "Az Abd al-Hadi család történelmi palotái az oszmán korszakból származnak.", "Dzsenín városától körülbelül 13 kilométerre délnyugatra található.", "A mezőgazdaság főleg a gabonafélékre, az olajbogyóra és a mandulára összpontosít.", "Az ókorban a település Arubboth néven volt ismert."],
+      ro: ["Arraba are o populație de aproximativ 11.000 de locuitori.", "Orașul este situat la o altitudine de circa 350 de metri deasupra nivelului mării.", "Palatele istorice ale familiei Abd al-Hadi datează din epoca otomană.", "Se află la aproximativ 13 kilometri sud-vest de Jenin.", "Agricultura se concentrează pe cereale, măsline și migdale.", "În antichitate, localitatea era cunoscută sub numele de Arubboth."],
+      en: ["Arraba has a population of approximately 11,000 residents.", "The town is situated at an elevation of about 350 meters above sea level.", "The historic palaces of the Abd al-Hadi family date back to the Ottoman era.", "It is located about 13 kilometers southwest of the city of Jenin.", "Agriculture focuses on the production of grain, olives, and almonds.", "In ancient times, the site was known as Arubboth."],
+    },
   },
   {
     id: "palestine-qabatiya-cities-v2",
@@ -1026,6 +1662,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Center of stone quarry industry", "Large agricultural areas", "Historic settlement site", "Important regional market"],
     },
     imageHint: "Stone quarries and town of Qabatiya",
+    descriptionAdvanced: {
+      de: "Qabatiya ist eine der größten Städte im Gouvernement Jenin und ein wirtschaftliches Kraftzentrum im nördlichen Westjordanland. Die Stadt ist weltbekannt für ihre Steinbrüche, in denen der charakteristische gelbliche 'Jerusalem-Stein' abgebaut wird, der in der gesamten Region exportiert wird. Neben der Industrie spielt die Landwirtschaft in den weiten Ebenen um die Stadt eine zentrale Rolle. Qabatiya blickt auf eine lange Tradition des politischen Engagements zurück.",
+      hu: "Qabatiya Dzsenín kormányzóság egyik legnagyobb városa és Észak-Ciszjordánia gazdasági központja. A város világszerte ismert kőbányáiról, ahol a jellegzetes sárgás 'Jeruzsálem-követ' bányásszák, amelyet az egész régióba exportálnak. Az ipar mellett a város körüli tágas síkságokon folyó mezőgazdaság is központi szerepet játszik. Qabatiya hosszú múltra tekint vissza a politikai aktivitás terén.",
+      ro: "Qabatiya este unul dintre cele mai mari orașe din guvernoratul Jenin și un motor economic în nordul Cisiordaniei. Orașul este renumit la nivel mondial pentru carierele sale de piatră, de unde se extrage piatra gălbuie de tip „Ierusalim”, exportată în întreaga regiune. Pe lângă industrie, agricultura practicată în câmpiile vaste din jurul orașului joacă un rol central. Qabatiya are o lungă tradiție de activism politic.",
+      en: "Qabatiya is one of the largest towns in the Jenin Governorate and an economic powerhouse in the northern West Bank. The town is world-renowned for its stone quarries, producing the characteristic yellowish 'Jerusalem stone' exported throughout the region. Beside industry, agriculture in the vast plains surrounding the town plays a central role. Qabatiya has a long tradition of political engagement and local leadership.",
+    },
+    factsAdvanced: {
+      de: ["Qabatiya hat eine Bevölkerung von über 24.000 Einwohnern.", "Die Stadt liegt etwa 6 Kilometer südlich von Jenin.", "Über 50 Steinbrüche befinden sich in unmittelbarer Nähe der Stadt.", "Die landwirtschaftliche Fläche beträgt ca. 50.000 Dunam.", "Archäologische Funde deuten auf eine Besiedlung in der frühen Bronzezeit hin.", "Qabatiya ist bekannt für die Produktion von Olivenöl und Mandeln."],
+      hu: ["Qabatiya lakossága meghaladja a 24 000 főt.", "A város körülbelül 6 kilométerre délre fekszik Dzseníntől.", "Több mint 50 kőbánya található a város közvetlen közelében.", "A mezőgazdasági terület nagysága körülbelül 50 000 dunam.", "Régészeti leletek a korai bronzkori lakottságra utalnak.", "Qabatiya híres az olívaolaj- és mandulatermeléséről."],
+      ro: ["Qabatiya are o populație de peste 24.000 de locuitori.", "Orașul este situat la aproximativ 6 kilometri sud de Jenin.", "Peste 50 de cariere de piatră se află în imediata vecinătate a orașului.", "Suprafața agricolă cuprinde aproximativ 50.000 de dunami.", "Descoperirile arheologice indică o locuire încă din epoca timpurie a bronzului.", "Qabatiya este cunoscută pentru producția de ulei de măsline și migdale."],
+      en: ["Qabatiya has a population exceeding 24,000 residents.", "The town is located approximately 6 kilometers south of the city of Jenin.", "More than 50 stone quarries are situated in the immediate vicinity of the town.", "The agricultural land area totals about 50,000 dunams.", "Archaeological finds suggest settlement dating back to the Early Bronze Age.", "Qabatiya is famous for its production of olive oil and almonds."],
+    },
   },
   {
     id: "palestine-jaba-cities-v2",
@@ -1045,6 +1693,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Rich in olive trees", "Ancient ruins nearby", "Scenic hilltop location", "Rural community"],
     },
     imageHint: "Jaba' hilltop village and olive trees",
+    descriptionAdvanced: {
+      de: "Jaba' ist eine historische palästinensische Stadt im Gouvernement Jenin, die auf einem Hügel mit weitem Blick über das Umland thront. Die Stadt ist für ihre terrassierten Hänge bekannt, auf denen seit Generationen Olivenbäume kultiviert werden. Die Architektur im Ortskern weist viele traditionelle Elemente der Region auf, darunter Gewölbe und enge Gassen. Jaba' dient als wichtiges lokales Zentrum für die landwirtschaftliche Gemeinschaft der Umgebung.",
+      hu: "Jaba' egy történelmi palesztin város Dzsenín kormányzóságban, amely egy dombtetőn fekszik, pazar kilátást nyújtva a környékre. A város híres teraszos lejtőiről, ahol generációk óta termesztenek olajfákat. Az óváros építészete számos hagyományos helyi elemet őriz, például boltozatokat és szűk utcákat. Jaba' fontos helyi központként szolgál a környező mezőgazdasági közösség számára.",
+      ro: "Jaba' este un oraș palestinian istoric din guvernoratul Jenin, situat pe o colină ce oferă o vedere amplă asupra împrejurimilor. Orașul este cunoscut pentru pantele sale terasate, unde măslinii sunt cultivați de generații întregi. Arhitectura din centrul vechi păstrează multe elemente tradiționale ale regiunii, inclusiv bolte și ulițe înguste. Jaba' servește drept un centru local important pentru comunitatea agricolă din zonă.",
+      en: "Jaba' is a historic Palestinian town in the Jenin Governorate, perched on a hill with broad views over the surrounding countryside. The town is famous for its terraced slopes, where olive trees have been cultivated for generations. The architecture in the town center features many traditional regional elements, including vaults and narrow alleys. Jaba' serves as a significant local hub for the surrounding agricultural community.",
+    },
+    factsAdvanced: {
+      de: ["Jaba' liegt auf einer Höhe von ca. 550 Metern über dem Meer.", "Die Einwohnerzahl wird auf etwa 9.000 Personen geschätzt.", "Die Stadt befindet sich 15 Kilometer südwestlich von Jenin.", "Historisch wird der Ort mit der biblischen Stätte Geba identifiziert.", "Die Landwirtschaft konzentriert sich primär auf die Olivenölproduktion.", "Im Ort gibt es mehrere historische Moscheen aus verschiedenen Epochen."],
+      hu: ["Jaba' körülbelül 550 méteres tengerszint feletti magasságban fekszik.", "A lakosság száma nagyjából 9000 főre tehető.", "Dzseníntől 15 kilométerre délnyugatra található.", "Történelmileg a települést a bibliai Geba helyszínével azonosítják.", "A mezőgazdaság elsősorban az olívaolaj-termelésre összpontosít.", "A településen több történelmi mecset található különböző korszakokból."],
+      ro: ["Jaba' este situat la o altitudine de aproximativ 550 de metri deasupra mării.", "Populația localității este estimată la circa 9.000 de persoane.", "Se află la 15 kilometri sud-vest de orașul Jenin.", "Istoric, localitatea este identificată cu situl biblic Geba.", "Agricultura se concentrează în principal pe producția de ulei de măsline.", "În oraș se găsesc mai multe moschei istorice din diferite epoci."],
+      en: ["Jaba' is situated at an elevation of approximately 550 meters above sea level.", "The population is estimated to be around 9,000 residents.", "The town is located 15 kilometers southwest of the city of Jenin.", "Historically, the site is identified with the biblical location of Geba.", "Agriculture focuses primarily on traditional olive oil production.", "The town features several historic mosques dating from various eras."],
+    },
   },
   {
     id: "palestine-silat-ad-dhahr-cities-v2",
@@ -1064,6 +1724,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Large olive oil production", "Significant almond cultivation", "Elevation with good views", "Ancient ruins in the vicinity"],
     },
     imageHint: "Silat ad-Dhahr town and almond trees",
+    descriptionAdvanced: {
+      de: "Silat ad-Dhahr ist eine palästinensische Kleinstadt im Gouvernement Jenin, die auf einem Bergrücken im nördlichen Westjordanland liegt. Ihre strategische Lage bietet einen Panoramablick über das Mittelmeer im Westen und die Berge von Nablus im Osten. Die Umgebung ist für ihre dichten Olivenhaine und Mandelkulturen bekannt. Die Stadt hat eine bedeutende Verbindung zur Geschichte der Hedschasbahn, deren Gleise einst in der Nähe verliefen.",
+      hu: "Silat ad-Dhahr egy palesztin kisváros Dzsenín kormányzóságban, amely egy hegygerincen fekszik Ciszjordánia északi részén. Stratégiai elhelyezkedése panorámás kilátást nyújt nyugat felé a Földközi-tengerre, kelet felé pedig a nábluszi hegyekre. A környék sűrű olajfaligeteiről és mandulaültetvényeiről ismert. A város jelentős kötődéssel rendelkezik a Hedzsáz-vasút történetéhez, amelynek sínjei egykor a közelben futottak.",
+      ro: "Silat ad-Dhahr este un mic oraș palestinian din guvernoratul Jenin, situat pe o creastă montană în nordul Cisiordaniei. Poziția sa strategică oferă o vedere panoramică spre Marea Mediterană la vest și munții Nablusului la est. Împrejurimile sunt renumite pentru livezile dese de măslini și culturile de migdali. Orașul are o legătură istorică importantă cu Calea Ferată Hedjaz, ale cărei șine treceau odinioară prin apropiere.",
+      en: "Silat ad-Dhahr is a small Palestinian town in the Jenin Governorate, situated on a mountain ridge in the northern West Bank. Its strategic location offers panoramic views of the Mediterranean Sea to the west and the Nablus mountains to the east. The surroundings are known for dense olive groves and almond orchards. The town has a significant historical link to the Hejaz Railway, whose tracks once passed nearby.",
+    },
+    factsAdvanced: {
+      de: ["Silat ad-Dhahr liegt auf einer Höhe von etwa 400 Metern.", "Die Einwohnerzahl beträgt rund 7.000 Personen.", "Die Stadt befindet sich etwa 22 Kilometer südwestlich von Jenin.", "Die Eisenbahnstrecke Haifa-Deraa führte früher an der Stadt vorbei.", "Der Name bezieht sich auf die Lage auf dem 'Rücken' des Berges.", "In der Stadt gibt es mehrere Grund- und Sekundarschulen."],
+      hu: ["Silat ad-Dhahr körülbelül 400 méteres tengerszint feletti magasságban fekszik.", "A lakosság száma nagyjából 7000 fő.", "Dzsenín városától körülbelül 22 kilométerre délnyugatra található.", "A Haifa-Deraa vasútvonal korábban a város mellett haladt el.", "A név a hegy 'hátán' való elhelyezkedésére utal.", "A városban több általános és középiskola működik."],
+      ro: ["Silat ad-Dhahr este situat la o altitudine de aproximativ 400 de metri.", "Populația orașului este de circa 7.000 de locuitori.", "Se află la aproximativ 22 kilometri sud-vest de orașul Jenin.", "Linia de cale ferată Haifa-Deraa trecea în trecut pe lângă oraș.", "Numele se referă la poziționarea sa pe „spatele” muntelui.", "În oraș funcționează mai multe școli primare și secundare."],
+      en: ["Silat ad-Dhahr sits at an elevation of approximately 400 meters.", "The town has a population of around 7,000 residents.", "It is located about 22 kilometers southwest of the city of Jenin.", "The Haifa-Deraa railway line used to pass near the town.", "The name refers to its location on the 'back' or ridge of the mountain.", "The town is home to several primary and secondary educational institutions."],
+    },
   },
   {
     id: "palestine-burqin-cities-v2",
@@ -1083,6 +1755,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Site of St. George's Church", "Significant Christian site", "Historic stone architecture", "Olive farming area"],
     },
     imageHint: "St. George's Church in Burqin",
+    descriptionAdvanced: {
+      de: "Burqin ist eine historisch bedeutsame Stadt im Gouvernement Jenin, bekannt als Standort einer der ältesten Kirchen der Welt. Die St.-Georgs-Kirche, auch bekannt als Kirche der Zehn Aussätzigen, erinnert an das biblische Wunder der Heilung durch Jesus Christus. Die Stadt liegt eingebettet in eine Hügellandschaft und bewahrt einen traditionellen Charakter mit gut erhaltenen historischen Steinhäusern. Sie ist ein wichtiges Ziel für den religiösen Tourismus in Palästina.",
+      hu: "Burqin egy történelmileg jelentős város Dzsenín kormányzóságban, amely a világ egyik legrégebbi templomának helyszíneként ismert. A Szent György-templom, más néven a Tíz Leprás temploma, Jézus Krisztus bibliai gyógyító csodájának állít emléket. A város dombos vidéken fekszik, és megőrizte hagyományos jellegét a jó állapotban lévő történelmi kőházakkal. Palesztina egyik fontos vallási turisztikai célpontja.",
+      ro: "Burqin este un oraș cu o semnificație istorică deosebită din guvernoratul Jenin, cunoscut ca fiind locul uneia dintre cele mai vechi biserici din lume. Biserica Sfântul Gheorghe, cunoscută și sub numele de Biserica celor Zece Leproși, comemorează miracolul biblic al vindecării săvârșit de Iisus Hristos. Orașul este situat într-o zonă deluroasă și păstrează un caracter tradițional, cu case istorice din piatră bine conservate. Este o destinație importantă pentru turismul religios în Palestina.",
+      en: "Burqin is a historically significant town in the Jenin Governorate, renowned for housing one of the oldest churches in the world. St. George's Church, also known as the Church of the Ten Lepers, commemorates the biblical miracle of healing by Jesus Christ. Nestled in a hilly landscape, the town maintains a traditional character with well-preserved historic stone houses. It is a major destination for religious tourism in Palestine.",
+    },
+    factsAdvanced: {
+      de: ["Die St.-Georgs-Kirche in Burqin stammt teilweise aus dem 4. Jahrhundert.", "Die Stadt hat etwa 7.000 Einwohner.", "Sie liegt nur 5 Kilometer westlich der Stadt Jenin.", "Burqin ist für seine hochwertigen Olivenöl-Produkte bekannt.", "Das Stadtgebiet umfasst ca. 12.000 Dunam landwirtschaftliche Fläche.", "Die Kirche gilt als die drittälteste christliche Kirche weltweit."],
+      hu: ["A burqini Szent György-templom részei a 4. századból származnak.", "A város lakossága körülbelül 7000 fő.", "Mindössze 5 kilométerre nyugatra fekszik Dzsenín városától.", "Burqin híres a kiváló minőségű olívaolaj-termékeiről.", "A település mintegy 12 000 dunam mezőgazdasági területtel rendelkezik.", "A templomot a világ harmadik legrégebbi keresztény templomaként tartják számon."],
+      ro: ["Biserica Sfântul Gheorghe din Burqin datează parțial din secolul al IV-lea.", "Orașul are o populație de aproximativ 7.000 de locuitori.", "Se află la doar 5 kilometri vest de orașul Jenin.", "Burqin este renumit pentru produsele sale de ulei de măsline de calitate.", "Teritoriul municipal include circa 12.000 de dunami de teren agricol.", "Biserica este considerată a treia cea mai veche biserică creștină din lume."],
+      en: ["St. George's Church in Burqin dates back in part to the 4th century.", "The town has a population of approximately 7,000 residents.", "It is located just 5 kilometers west of the city of Jenin.", "Burqin is well-known for its high-quality olive oil products.", "The municipal area includes about 12,000 dunams of agricultural land.", "The church is recognized as the third oldest Christian church in the world."],
+    },
   },
   {
     id: "palestine-tamun-cities-v2",
@@ -1102,6 +1786,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Center of irrigated farming", "Fertile Ghor surroundings", "Major producer of vegetables", "Hilly topography"],
     },
     imageHint: "Tamun town view and farm fields",
+    descriptionAdvanced: {
+      de: "Tamun ist eine palästinensische Stadt im Gouvernement Tubas, östlich von Nablus gelegen. Sie befindet sich in einer ökologisch vielfältigen Region, die von Bergen und den Ausläufern des Jordantals geprägt ist. Die lokale Wirtschaft ist stark von der Landwirtschaft und der Viehzucht abhängig, wobei moderne Bewässerungsmethoden zunehmend an Bedeutung gewinnen. Die Stadt dient als administratives und schulisches Zentrum für die umliegende ländliche Bevölkerung.",
+      hu: "Tamun egy palesztin város Tubasz kormányzóságban, Náblusztól keletre. Földrajzilag változatos régióban található, amelyet hegyek és a Jordán-völgy nyúlványai jellemeznek. A helyi gazdaság erősen függ a mezőgazdaságtól és az állattenyésztéstől, a modern öntözési módszerek pedig egyre nagyobb jelentőséggel bírnak. A város adminisztratív és oktatási központként szolgál a környező vidéki lakosság számára.",
+      ro: "Tamun este un oraș palestinian situat în guvernoratul Tubas, la est de Nablus. Se află într-o regiune diversă din punct de vedere ecologic, marcată de munți și de marginile văii Iordanului. Economia locală depinde în mare măsură de agricultură și creșterea animalelor, metodele moderne de irigație devenind tot mai importante. Orașul servește drept centru administrativ și educațional pentru populația rurală din jur.",
+      en: "Tamun is a Palestinian town in the Tubas Governorate, located east of Nablus. It is situated in an ecologically diverse region characterized by mountains and the edges of the Jordan Valley. The local economy is heavily dependent on agriculture and livestock farming, with modern irrigation methods becoming increasingly important. The town serves as an administrative and educational hub for the surrounding rural population.",
+    },
+    factsAdvanced: {
+      de: ["Tamun hat eine geschätzte Bevölkerung von ca. 13.000 Einwohnern.", "Die Stadt liegt auf einer Höhe von etwa 340 Metern über dem Meer.", "Das Gemeindegebiet erstreckt sich über eine Fläche von ca. 98.000 Dunam.", "Ein Großteil der Fläche wird für den Anbau von Getreide und Gemüse genutzt.", "Die Stadt wurde 1997 zur offiziellen Gemeinde erklärt.", "Tamun ist für seine Schaf- und Ziegenhaltung bekannt."],
+      hu: ["Tamun becsült lakossága körülbelül 13 000 fő.", "A város mintegy 340 méteres tengerszint feletti magasságban fekszik.", "A közigazgatási terület mintegy 98 000 dunamra terjed ki.", "A terület jelentős részét gabona- és zöldségtermesztésre használják.", "A települést 1997-ben nyilvánították hivatalos önkormányzattá.", "Tamun ismert a juh- és kecsketenyésztéséről."],
+      ro: ["Tamun are o populație estimată la circa 13.000 de locuitori.", "Orașul este situat la o altitudine de aproximativ 340 de metri deasupra mării.", "Teritoriul municipal se întinde pe o suprafață de circa 98.000 de dunami.", "O mare parte din teren este utilizată pentru cultivarea cerealelor și legumelor.", "Localitatea a fost declarată municipalitate oficială în anul 1997.", "Tamun este cunoscut pentru creșterea oilor și a caprelor."],
+      en: ["Tamun has an estimated population of approximately 13,000 residents.", "The town is located at an elevation of about 340 meters above sea level.", "The municipal area spans a total of roughly 98,000 dunams of land.", "A significant portion of the area is used for growing grain and vegetables.", "The town was officially designated as a municipality in 1997.", "Tamun is well-known for its sheep and goat farming traditions."],
+    },
   },
   {
     id: "palestine-al-yamun-cities-v2",
@@ -1121,6 +1817,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Significant olive farming area", "Historic mosques and ruins", "Rural character", "Gateway to the Jezreel Valley"],
     },
     imageHint: "Al-Yamun village and agricultural plains",
+    descriptionAdvanced: {
+      de: "Al-Yamun ist eine bedeutende palästinensische Stadt im Gouvernement Jenin, nordwestlich der Provinzhauptstadt. Sie liegt in einer erhöhten Lage, die ihr ein mildes Klima und fruchtbare Böden beschert. Die Stadt ist ein wichtiges agrarisches Zentrum, bekannt für ihre Olivenhaine und die Produktion von hochwertigem Olivenöl. In den letzten Jahrzehnten hat sich Al-Yamun zu einem Bildungsstandort mit zahlreichen Schulen und sozialen Einrichtungen entwickelt.",
+      hu: "Al-Yamun Dzsenín kormányzóság egyik jelentős városa, amely a tartományi székhelytől északnyugatra fekszik. Magaslati elhelyezkedése enyhe éghajlatot és termékeny talajt biztosít számára. A város fontos mezőgazdasági központ, amely olajfaligeteiről és kiváló minőségű olívaolaj-termeléséről ismert. Az elmúlt évtizedekben Al-Yamun oktatási központtá fejlődött, számos iskolával és szociális intézménnyel.",
+      ro: "Al-Yamun este un oraș palestinian de vază din guvernoratul Jenin, situat la nord-vest de capitala provinciei. Poziționarea sa la înălțime îi oferă un climat blând și soluri fertile. Orașul este un centru agricol important, fiind renumit pentru livezile de măslini și producția de ulei de măsline de înaltă calitate. În ultimele decenii, Al-Yamun s-a dezvoltat ca un centru educațional, având numeroase școli și instituții sociale.",
+      en: "Al-Yamun is a significant Palestinian town in the Jenin Governorate, located northwest of the provincial capital. It is situated at a higher elevation, which provides it with a mild climate and fertile soils. The town is a major agricultural hub, known for its extensive olive groves and the production of high-quality olive oil. In recent decades, Al-Yamun has developed into an educational center with numerous schools and social institutions.",
+    },
+    factsAdvanced: {
+      de: ["Al-Yamun hat eine Bevölkerung von rund 20.000 Einwohnern.", "Die Stadt liegt auf einer Höhe von ca. 300-350 Metern.", "Sie befindet sich etwa 9 Kilometer nordwestlich von Jenin.", "Historische Funde aus der kanaanäischen Zeit belegen die lange Besiedlung.", "Das Stadtgebiet umfasst etwa 20.000 Dunam Land.", "Die Landwirtschaft umfasst neben Oliven auch Getreide und Hülsenfrüchte."],
+      hu: ["Al-Yamun lakossága körülbelül 20 000 fő.", "A város 300-350 méteres tengerszint feletti magasságban fekszik.", "Dzseníntől körülbelül 9 kilométerre északnyugatra található.", "Kánaáni korszakból származó történelmi leletek bizonyítják a hosszú lakottságot.", "A város közigazgatási területe körülbelül 20 000 dunamot foglal magában.", "A mezőgazdaság az olajbogyó mellett gabonaféléket és hüvelyeseket is termel."],
+      ro: ["Al-Yamun are o populație de aproximativ 20.000 de locuitori.", "Orașul este situat la o altitudine de circa 300-350 de metri.", "Se află la aproximativ 9 kilometri nord-vest de orașul Jenin.", "Descoperirile istorice din perioada canaanită atestă locuirea sa îndelungată.", "Teritoriul municipal cuprinde aproximativ 20.000 de dunami de teren.", "Agricultura include, pe lângă măsline, și culturi de cereale și leguminoase."],
+      en: ["Al-Yamun has a population of around 20,000 residents.", "The town is situated at an elevation of approximately 300-350 meters.", "It is located about 9 kilometers northwest of the city of Jenin.", "Historical finds from the Canaanite period attest to its long-term settlement.", "The municipal area covers roughly 20,000 dunams of land.", "Agriculture includes olives as well as grain and pulse crops."],
+    },
   },
   {
     id: "palestine-bani-suheila-cities-v2",
@@ -1140,6 +1848,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Agricultural center in Gaza", "Located near the border", "Traditional markets", "Densely populated residential area"],
     },
     imageHint: "Bani Suheila streets and farmlands",
+    descriptionAdvanced: {
+      de: "Bani Suheila ist eine palästinensische Stadt im Gouvernement Khan Yunis im südlichen Gazastreifen. Sie liegt östlich der Stadt Khan Yunis und ist traditionell ein wichtiges landwirtschaftliches Zentrum der Region. Die Stadt hat in den letzten Jahrzehnten ein schnelles Bevölkerungswachstum erlebt, was zu einer zunehmenden Urbanisierung der einst ländlichen Gegend führte. Bani Suheila ist bekannt für seine fruchtbaren Böden, die den Anbau von Getreide und Obst ermöglichen.",
+      hu: "Bani Suheila egy palesztin város a Gázai övezet déli részén található Hán Júnisz kormányzóságban. Hán Júnisz városától keletre fekszik, és hagyományosan a régió egyik fontos mezőgazdasági központja. A város az elmúlt évtizedekben gyors népességnövekedésen ment keresztül, ami az egykor vidéki terület fokozott urbanizációjához vezetett. Bani Suheila híres termékeny talajáról, amely lehetővé teszi a gabona- és gyümölcstermesztést.",
+      ro: "Bani Suheila este un oraș palestinian din guvernoratul Khan Yunis, situat în sudul Fâșiei Gaza. Se află la est de orașul Khan Yunis și este, în mod tradițional, un centru agricol important al regiunii. Orașul a cunoscut o creștere demografică rapidă în ultimele decenii, ceea ce a dus la o urbanizare accentuată a zonei anterior rurale. Bani Suheila este cunoscut pentru solurile sale fertile care permit cultivarea cerealelor și fructelor.",
+      en: "Bani Suheila is a Palestinian city in the Khan Yunis Governorate, located in the southern Gaza Strip. It lies to the east of the city of Khan Yunis and has traditionally been an important agricultural center for the region. The city has experienced rapid population growth in recent decades, leading to increased urbanization of the formerly rural area. Bani Suheila is noted for its fertile soil, which supports the cultivation of grains and fruits.",
+    },
+    factsAdvanced: {
+      de: ["Bani Suheila hat eine Bevölkerung von über 40.000 Einwohnern.", "Die Stadt liegt auf einer durchschnittlichen Höhe von etwa 80 Metern.", "Das Stadtgebiet umfasst eine Fläche von ca. 11.000 Dunam.", "Sie befindet sich nur etwa 2 Kilometer östlich von Khan Yunis.", "Die Landwirtschaft konzentriert sich auf Mandeln, Oliven und Zitrusfrüchte.", "Bani Suheila ist eine der ältesten Siedlungen in der Region Khan Yunis."],
+      hu: ["Bani Suheila lakossága meghaladja a 40 000 főt.", "A város átlagos tengerszint feletti magassága körülbelül 80 méter.", "A város területe mintegy 11 000 dunamot foglal magában.", "Mindössze körülbelül 2 kilométerre keletre fekszik Hán Júnisztól.", "A mezőgazdaság a mandulára, az olajbogyóra és a citrusfélékre összpontosít.", "Bani Suheila a Hán Júnisz régió egyik legrégebbi települése."],
+      ro: ["Bani Suheila are o populație de peste 40.000 de locuitori.", "Orașul este situat la o altitudine medie de aproximativ 80 de metri.", "Teritoriul orașului cuprinde o suprafață de circa 11.000 de dunami.", "Se află la doar aproximativ 2 kilometri est de Khan Yunis.", "Agricultura se concentrează pe migdale, măsline și citrice.", "Bani Suheila este una dintre cele mai vechi așezări din regiunea Khan Yunis."],
+      en: ["Bani Suheila has a population of over 40.000 residents.", "The city sits at an average elevation of approximately 80 meters above sea level.", "The municipal area covers roughly 11,000 dunams of land.", "It is located only about 2 kilometers east of Khan Yunis.", "Agriculture focuses on the production of almonds, olives, and citrus fruits.", "Bani Suheila is one of the oldest settlements in the Khan Yunis region."],
+    },
   },
   {
     id: "palestine-abasan-al-kabira-cities-v2",
@@ -1159,6 +1879,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Major grain production area", "Located near Khan Yunis", "Rural community", "Traditional stone wells"],
     },
     imageHint: "Abasan al-Kabira village and fields",
+    descriptionAdvanced: {
+      de: "Abasan al-Kabira ist eine palästinensische Stadt im südöstlichen Gazastreifen, die zum Gouvernement Khan Yunis gehört. Sie liegt nahe der Grenze und ist ein bedeutendes landwirtschaftliches Zentrum, das für seine Getreideproduktion und Obstgärten bekannt ist. Die Stadt hat in den letzten Jahren eine erhebliche infrastrukturelle Entwicklung durchgemacht, trotz der Herausforderungen durch die Grenzlage. Sie ist eng mit der kleineren Nachbargemeinde Abasan al-Saghira verbunden.",
+      hu: "Abasan al-Kabira egy palesztin város a Gázai övezet délkeleti részén, Hán Júnisz kormányzóságban. A határ közelében fekszik, és jelentős mezőgazdasági központ, amely gabonatermesztéséről és gyümölcsöseiről ismert. A város az elmúlt években jelentős infrastrukturális fejlődésen ment keresztül a határ menti elhelyezkedés okozta kihívások ellenére. Szoros kapcsolatban áll a kisebb szomszédos településsel, Abasan al-Saghirával.",
+      ro: "Abasan al-Kabira este un oraș palestinian din sud-estul Fâșiei Gaza, aparținând guvernoratului Khan Yunis. Situat aproape de frontieră, este un centru agricol semnificativ, renumit pentru producția de cereale și livezi. Orașul a cunoscut o dezvoltare infrastructurală considerabilă în ultimii ani, în ciuda provocărilor generate de locația sa de graniță. Este strâns legat de comunitatea vecină mai mică, Abasan al-Saghira.",
+      en: "Abasan al-Kabira is a Palestinian town in the southeastern Gaza Strip, belonging to the Khan Yunis Governorate. It is located near the border and serves as a major agricultural center, known for its grain production and fruit orchards. The town has seen significant infrastructural development in recent years despite the challenges posed by its border location. It is closely linked to the smaller neighboring community of Abasan al-Saghira.",
+    },
+    factsAdvanced: {
+      de: ["Abasan al-Kabira hat eine Bevölkerung von ca. 26.000 Einwohnern.", "Die Stadt liegt auf einer Höhe von etwa 75 Metern über dem Meer.", "Sie befindet sich südöstlich der Stadt Khan Yunis.", "Das Gemeindegebiet umfasst eine Fläche von ca. 14.000 Dunam.", "Die Region ist für den Anbau von Oliven und Wassermelonen bekannt.", "Archäologische Überreste byzantinischer Architektur wurden hier entdeckt."],
+      hu: ["Abasan al-Kabira lakossága körülbelül 26 000 fő.", "A város mintegy 75 méteres tengerszint feletti magasságban fekszik.", "Hán Júnisz városától délkeletre található.", "A település területe körülbelül 14 000 dunamot foglal magában.", "A régió az olajbogyó- és görögdinnye-termesztéséről ismert.", "Bizánci építészetből származó régészeti maradványokat fedeztek fel itt."],
+      ro: ["Abasan al-Kabira are o populație de aproximativ 26.000 de locuitori.", "Orașul este situat la o altitudine de circa 75 de metri deasupra mării.", "Se află la sud-est de orașul Khan Yunis.", "Teritoriul municipal cuprinde o suprafață de aproximativ 14.000 de dunami.", "Regiunea este cunoscută pentru culturile de măslini și pepeni verzi.", "Aici au fost descoperite vestigii arheologice ale arhitecturii bizantine."],
+      en: ["Abasan al-Kabira has a population of approximately 26,000 residents.", "The town is situated at an elevation of about 75 meters above sea level.", "It is located southeast of the city of Khan Yunis.", "The municipal area covers approximately 14,000 dunams of land.", "The region is known for growing olives and watermelons.", "Archaeological remains of Byzantine architecture have been discovered here."],
+    },
   },
   {
     id: "palestine-al-zawayda-cities-v2",
@@ -1178,6 +1910,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Agricultural hub", "Located near Deir al-Balah", "Fertile coastal plain", "Rural residential areas"],
     },
     imageHint: "Al-Zawayda green fields and houses",
+    descriptionAdvanced: {
+      de: "Al-Zawayda ist eine palästinensische Stadt im Gouvernement Deir al-Balah im zentralen Gazastreifen. Sie erstreckt sich von der Mittelmeerküste bis zur Hauptverkehrsstraße Salah al-Din. Die Gemeinde ist stark landwirtschaftlich geprägt, wobei die Nähe zum Meer auch die Fischerei und den Tourismus beeinflusst. Al-Zawayda gilt als eine ruhigere Wohngegend im Vergleich zu den dicht besiedelten Flüchtlingslagern der Umgebung.",
+      hu: "Al-Zawayda egy palesztin város Deir al-Balah kormányzóságban, a Gázai övezet központi részén. A Földközi-tenger partjától a Salah al-Din főútvonalig terjed. A település erősen mezőgazdasági jellegű, de a tenger közelsége a halászatra és a turizmusra is hatással van. Al-Zawaydát a környező sűrűn lakott menekülttáborokhoz képest nyugodtabb lakóövezetnek tartják.",
+      ro: "Al-Zawayda este un oraș palestinian din guvernoratul Deir al-Balah, situat în partea centrală a Fâșiei Gaza. Se întinde de la coasta Mării Mediterane până la drumul principal Salah al-Din. Comunitatea are un puternic caracter agricol, însă proximitatea mării influențează, de asemenea, pescuitul și turismul. Al-Zawayda este considerată o zonă rezidențială mai liniștită în comparație cu taberele de refugiați dens populate din jur.",
+      en: "Al-Zawayda is a Palestinian town in the Deir al-Balah Governorate, located in the central Gaza Strip. It extends from the Mediterranean coast to the main Salah al-Din highway. The community is heavily agricultural, though its proximity to the sea also influences fishing and local tourism. Al-Zawayda is considered a quieter residential area compared to the densely populated refugee camps in the vicinity.",
+    },
+    factsAdvanced: {
+      de: ["Al-Zawayda hat eine Bevölkerung von ungefähr 20.000 Einwohnern.", "Die Stadt liegt direkt an der Küste des Mittelmeers.", "Die Landwirtschaft konzentriert sich auf Zitrusfrüchte und Gewächshäuser.", "Sie befindet sich nördlich der Stadt Deir al-Balah.", "Die Stadt erstreckt sich über eine Fläche von ca. 3.800 Dunam.", "Al-Zawayda ist bekannt für seine Sandstrände und Küstengärten."],
+      hu: ["Al-Zawayda lakossága körülbelül 20 000 fő.", "A város közvetlenül a Földközi-tenger partján fekszik.", "A mezőgazdaság a citrusfélékre és a fóliasátras termesztésre összpontosít.", "Deir al-Balah városától északra található.", "A település területe körülbelül 3800 dunamot tesz ki.", "Al-Zawayda ismert homokos strandjairól és part menti kertjeiről."],
+      ro: ["Al-Zawayda are o populație de aproximativ 20.000 de locuitori.", "Orașul este situat direct pe coasta Mării Mediterane.", "Agricultura se concentrează pe citrice și culturi în sere.", "Se află la nord de orașul Deir al-Balah.", "Localitatea se întinde pe o suprafață de circa 3.800 de dunami.", "Al-Zawayda este cunoscut pentru plajele sale de nisip și grădinile de coastă."],
+      en: ["Al-Zawayda has a population of approximately 20,000 residents.", "The town is situated directly on the Mediterranean coast.", "Agriculture focuses on citrus fruits and greenhouse farming.", "It is located to the north of the city of Deir al-Balah.", "The municipal area covers roughly 3,800 dunams of land.", "Al-Zawayda is known for its sandy beaches and coastal gardens."],
+    },
   },
   {
     id: "palestine-al-nuseirat-cities-v2",
@@ -1197,6 +1941,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Established after 1948", "Major regional market hub", "Dense urban network", "Significant commercial activity"],
     },
     imageHint: "Al-Nuseirat market and buildings",
+    descriptionAdvanced: {
+      de: "Das Flüchtlingslager Al-Nuseirat liegt im zentralen Gazastreifen und wurde nach dem lokalen Stamm der Nuseirat benannt. Es entstand 1948, um Palästinenser aus den südlichen Gebieten des ehemaligen britischen Mandatsgebiets aufzunehmen. Heute hat es sich zu einem dicht besiedelten städtischen Gebiet mit entwickelter Infrastruktur und Schulen entwickelt.",
+      hu: "Al-Nuseirat egy menekülttábor és város a Gázai övezet középső részén, amelyet a helyi Nuseirat törzsről neveztek el. 1948-ban hozták létre az egykori brit mandátum déli területeiről érkező palesztinok befogadására. Napjainkra sűrűn lakott városi területté fejlődött, saját infrastruktúrával és oktatási intézményekkel.",
+      ro: "Al-Nuseirat este o tabără de refugiați și un oraș situat în centrul Fâșiei Gaza, numit după tribul local Nuseirat. A fost înființat în 1948 pentru a găzdui palestinienii din zonele sudice ale fostului mandat britanic. Astăzi, s-a transformat într-o zonă urbană dens populată, cu infrastructură proprie și școli.",
+      en: "Al-Nuseirat is a refugee camp and city located in the central Gaza Strip, named after the local Nuseirat tribe. It was established in 1948 to house Palestinians from the southern areas of the former British Mandate. Today, it has evolved into a densely populated urban area with its own infrastructure and educational institutions.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1948 nach dem arabisch-israelischen Krieg", "Liegt im Gouvernement Deir al-Balah", "Name stammt vom Beduinenstamm der Nuseirat", "Beherbergt Zehntausende registrierte Flüchtlinge", "Verfügt über mehrere UNRWA-Schulen und Gesundheitszentren", "Wirtschaft basiert teils auf lokalem Handel und Landwirtschaft"],
+      hu: ["1948-ban alapították az arab-izraeli háborút követően", "Deir al-Balah kormányzóságban található", "A nevét a beduin Nuseirat törzsről kapta", "Több tízezer regisztrált menekültnek ad otthont", "Számos UNRWA iskola és egészségügyi központ működik itt", "Gazdasága a helyi kereskedelemre és mezőgazdaságra épül"],
+      ro: ["Fondată în 1948 în urma războiului arabo-israelian", "Situată în guvernoratul Deir al-Balah", "Numele provine de la tribul beduin Nuseirat", "Găzduiește zeci de mii de refugiați înregistrați", "Dispune de numeroase școli UNRWA și centre de sănătate", "Economia se bazează pe comerțul local și agricultură"],
+      en: ["Founded in 1948 following the Arab-Israeli War", "Located in the Deir al-Balah Governorate", "Named after the Bedouin Nuseirat tribe", "Houses tens of thousands of registered refugees", "Contains numerous UNRWA schools and health centers", "Economy is partly based on local trade and agriculture"],
+    },
   },
   {
     id: "palestine-al-bureij-cities-v2",
@@ -1216,6 +1972,18 @@ export const palestineCitiesV2: POI[] = [
       en: ["Established in the late 1940s", "Located centrally in Gaza Strip", "Densely populated", "Significant local infrastructure"],
     },
     imageHint: "Al-Bureij residential area and shops",
+    descriptionAdvanced: {
+      de: "Al-Bureij ist ein palästinensisches Flüchtlingslager im zentralen Gazastreifen, angrenzend an Al-Maghazi und Al-Nuseirat. Es wurde 1949 auf dem Gelände einer ehemaligen britischen Militärbasis errichtet. Die Bewohner stammen ursprünglich aus Städten wie Gaza und Ortschaften im Süden des historischen Palästinas.",
+      hu: "Al-Bureij egy palesztin menekülttábor a Gázai övezet középső részén, Al-Maghazi és Al-Nuseirat szomszédságában. 1949-ben hozták létre egy korábbi brit katonai bázis területén. Lakói eredetileg Gáza városából és a történelmi Palesztina déli falvaiból származnak.",
+      ro: "Al-Bureij este o tabără de refugiați palestinieni situată în centrul Fâșiei Gaza, adiacentă taberelor Al-Maghazi și Al-Nuseirat. A fost înființată în 1949 pe locul unei foste baze militare britanice. Locuitorii săi provin inițial din orașul Gaza și localități din sudul Palestinei istorice.",
+      en: "Al-Bureij is a Palestinian refugee camp located in the central Gaza Strip, adjacent to Al-Maghazi and Al-Nuseirat. It was established in 1949 on the site of a former British military base. Its residents originally hail from Gaza City and villages in the south of historical Palestine.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1949", "Liegt in der Nähe des Wadi Gaza", "Entstand auf dem Gelände eines ehemaligen britischen Militärlagers", "Die Fläche beträgt etwa 0,5 Quadratkilometer", "Verwaltet von der UNRWA für grundlegende Dienste", "Beherbergt etwa 45.000 registrierte Flüchtlinge"],
+      hu: ["1949-ben alapították", "A Vádi Gáza közelében helyezkedik el", "Egy egykori brit katonai tábor helyén jött létre", "Területe körülbelül 0,5 négyzetkilométer", "Az UNRWA kezeli az alapvető szolgáltatásokat", "Körülbelül 45 000 regisztrált menekült él itt"],
+      ro: ["Înființată în anul 1949", "Situată în apropiere de Wadi Gaza", "Creată pe situl unei foste tabere militare britanice", "Suprafața este de aproximativ 0,5 kilometri pătrați", "Administrată de UNRWA pentru servicii de bază", "Găzduiește aproximativ 45.000 de refugiați înregistrați"],
+      en: ["Established in the year 1949", "Located near the Wadi Gaza area", "Built on the site of a former British military camp", "Area covers approximately 0.5 square kilometers", "Administered by UNRWA for basic services", "Houses roughly 45,000 registered refugees"],
+    },
   },
   {
     id: "palestine-al-maghazi-cities-v2",
@@ -1235,5 +2003,17 @@ export const palestineCitiesV2: POI[] = [
       en: ["Established in 1949", "Part of the central settlement axis", "Dense street network", "Regional trade routes"],
     },
     imageHint: "Al-Maghazi town buildings and streets",
+    descriptionAdvanced: {
+      de: "Al-Maghazi ist eines der kleinsten Flüchtlingslager im Gazastreifen und liegt östlich der Salah al-Din Straße. Es wurde 1949 gegründet und zeichnet sich durch seine landwirtschaftliche Umgebung aus. Die Bevölkerung besteht primär aus Nachkommen von Flüchtlingen aus den zentralen und südlichen Ebenen des Mandatsgebiets.",
+      hu: "Al-Maghazi a Gázai övezet egyik legkisebb menekülttábora, a Salah al-Din út keleti oldalán található. 1949-ben alapították, és mezőgazdasági környezete jellemzi. Lakossága elsősorban a mandátumterület középső és déli síkságairól érkezett menekültek leszármazottaiból áll.",
+      ro: "Al-Maghazi este una dintre cele mai mici tabere de refugiați din Fâșia Gaza, situată la est de drumul Salah al-Din. A fost fondată în 1949 și este caracterizată de împrejurimile sale agricole. Populația este formată în principal din descendenți ai refugiaților din câmpiile centrale și sudice ale mandatului.",
+      en: "Al-Maghazi is one of the smallest refugee camps in the Gaza Strip, located east of the Salah al-Din Road. Established in 1949, it is characterized by its agricultural surroundings. The population primarily consists of descendants of refugees from the central and southern plains of the Mandate area.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1949", "Fläche umfasst weniger als 0,6 Quadratkilometer", "Liegt zentral im Gazastreifen im Gouvernement Deir al-Balah", "Die meisten Flüchtlinge kamen aus Dörfern im Süden", "Bekannt für seine landwirtschaftliche Produktion in der Umgebung", "Verfügt über ein eigenes lokales Komitee zur Verwaltung"],
+      hu: ["1949-ben alapították", "Területe kevesebb mint 0,6 négyzetkilométer", "Gáza középső részén, Deir al-Balah kormányzóságban van", "A legtöbb menekült déli falvakból érkezett", "Környéke mezőgazdasági termeléséről ismert", "Saját helyi bizottság irányítja a mindennapokat"],
+      ro: ["Înființată în anul 1949", "Suprafața cuprinde mai puțin de 0,6 kilometri pătrați", "Situată central în Gaza, în guvernoratul Deir al-Balah", "Majoritatea refugiaților au venit din satele din sud", "Cunoscută pentru producția agricolă din împrejurimi", "Dispune de propriul comitet local de administrare"],
+      en: ["Founded in the year 1949", "Area covers less than 0.6 square kilometers", "Located centrally in Gaza in Deir al-Balah Governorate", "Most refugees arrived from villages in the south", "Known for agricultural production in its surroundings", "Has its own local committee for administration"],
+    },
   }
 ];

@@ -19,6 +19,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Built in 1912", "Height above sea: 223 m", "Southernmost point", "View of St. Vincent"],
     },
     imageHint: "Vieux Fort Lighthouse Moule a Chique view",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm von Vieux Fort befindet sich auf dem Kap Moule a Chique, dem südlichsten Punkt der Insel. Mit seiner Lage auf einer hohen Klippe ist er einer der höchstgelegenen Leuchttürme der Welt und bietet Orientierung für die Schifffahrt zwischen St. Lucia und St. Vincent. Der Turm wurde Ende des 19. Jahrhunderts errichtet und ist ein markantes Beispiel kolonialer Ingenieurskunst. Von hier aus bietet sich ein beeindruckender Blick auf die Landebahn des Flughafens Hewanorra.",
+      hu: "A Vieux Fort világítótorony a Moule a Chique-fokon található, a sziget legdélebbi pontján. Magas sziklafalon való elhelyezkedése miatt a világ egyik legmagasabban fekvő világítótornya, amely fontos tájékozódási pont a Szent Lucia és Szent Vincent közötti hajózás számára. A tornyot a 19. század végén építették, és a gyarmati mérnöki munka kiváló példája. Innen lenyűgöző kilátás nyílik a Hewanorra repülőtér kifutópályájára.",
+      ro: "Farul din Vieux Fort este situat pe capul Moule a Chique, cel mai sudic punct al insulei. Datorită amplasării sale pe o stâncă înaltă, este unul dintre cele mai înalte faruri din lume ca elevație, oferind ghidaj pentru navigația între Sfânta Lucia și Sfântul Vincent. Turnul a fost construit la sfârșitul secolului al XIX-lea și reprezintă un exemplu remarcabil de inginerie colonială. De aici se poate vedea spectaculos pista aeroportului Hewanorra.",
+      en: "The Vieux Fort Lighthouse is located on Cape Moule a Chique, the southernmost point of the island. Situated on a high cliff, it is one of the highest lighthouses in the world by elevation, providing guidance for shipping between Saint Lucia and Saint Vincent. The tower was constructed in the late 19th century and is a striking example of colonial engineering. From here, there is a spectacular view of the Hewanorra Airport runway.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1883", "Liegt auf einer Höhe von ca. 222 Metern", "Zweithöchster Leuchtturm in der Karibik", "Bietet Sicht auf die Insel St. Vincent", "Ursprünglich mit Öl betrieben", "Gelegen auf einem vulkanischen Kap"],
+      hu: ["1883-ban épült", "Körülbelül 222 méteres magasságban található", "A Karib-térség második legmagasabban fekvő világítótornya", "Látni innen Szent Vincent szigetét", "Eredetileg olajjal működött", "Egy vulkanikus fokon helyezkedik el"],
+      ro: ["Construit în anul 1883", "Situat la o înălțime de aproximativ 222 metri", "Al doilea cel mai înalt far din Caraibe ca elevație", "Oferă vizibilitate până la insula Sfântul Vincent", "Funcționa inițial cu petrol", "Situat pe un promontoriu vulcanic"],
+      en: ["Built in the year 1883", "Situated at an elevation of about 222 meters", "Second highest lighthouse in the Caribbean", "Offers views of the island of Saint Vincent", "Originally operated with oil lamps", "Located on a volcanic headland"],
+    },
   },
   {
     id: "saintlucia-soufriere-church-landmarks-v2",
@@ -38,6 +50,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Location: Soufrière", "Stone facade", "Central town square", "Catholic parish"],
     },
     imageHint: "Our Lady of the Assumption Church Soufriere Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die Church of the Assumption in Soufrière ist das religiöse Zentrum der Stadt und ein markantes architektonisches Wahrzeichen. Das heutige Gebäude mit seiner beeindruckenden Fassade wurde Anfang des 20. Jahrhunderts errichtet, nachdem ein früherer Bau durch einen Brand zerstört worden war. Die Architektur spiegelt französische Kolonialeinflüsse wider und prägt das Stadtbild am Fuße der Pitons. Im Inneren finden sich kunstvolle religiöse Kunstwerke und Schnitzereien.",
+      hu: "A soufrière-i Nagyboldogasszony-templom a város vallási központja és jelentős építészeti látványossága. A mai, lenyűgöző homlokzatú épület a 20. század elején készült el, miután a korábbi templom egy tűzvészben megsemmisült. Az építészet a francia gyarmati hatásokat tükrözi, és meghatározza a Pitonok lábánál fekvő városképet. A belső térben művészi vallási alkotások és faragványok láthatók.",
+      ro: "Biserica Adormirea Maicii Domnului din Soufrière este centrul religios al orașului și un reper arhitectural distinctiv. Clădirea actuală, cu fațada sa impresionantă, a fost construită la începutul secolului al XX-lea, după ce o structură anterioară a fost distrusă de un incendiu. Arhitectura reflectă influențe coloniale franceze și domină peisajul urban de la poalele Pitonilor. În interior se găsesc opere de artă religioasă și sculpturi elaborate.",
+      en: "The Church of the Assumption in Soufrière is the religious heart of the town and a prominent architectural landmark. The current building, with its impressive facade, was constructed in the early 20th century after a previous structure was destroyed by fire. The architecture reflects French colonial influences and defines the townscape at the foot of the Pitons. Inside, one can find artistic religious works and intricate carvings.",
+    },
+    factsAdvanced: {
+      de: ["Wiederaufbau nach dem Brand von 1906", "Markante hellblaue und weiße Fassade", "Befindet sich am zentralen Platz von Soufrière", "Benannt nach der Himmelfahrt Mariens", "Enthält Gedenktafeln für bedeutende Bürger", "Architekturstil kombiniert Gotik und Kolonialstil"],
+      hu: ["Az 1906-os tűzvész után építették újjá", "Jellegzetes világoskék és fehér homlokzat", "Soufrière központi terén található", "Mária mennybemeneteléről nevezték el", "Emléktáblákat tartalmaz neves polgárok számára", "Gótikus és gyarmati építészeti elemek ötvözete"],
+      ro: ["Reconstruită după incendiul din 1906", "Fațadă distinctivă în culori bleu și alb", "Situată în piața centrală din Soufrière", "Poartă hramul Adormirii Maicii Domnului", "Conține plăci comemorative pentru cetățeni iluștri", "Stil arhitectural ce îmbină elemente gotice și coloniale"],
+      en: ["Rebuilt after the major fire of 1906", "Distinctive light blue and white facade", "Located at the central square of Soufrière", "Named after the Assumption of Mary", "Contains memorial plaques for notable citizens", "Architectural style blends Gothic and colonial elements"],
+    },
   },
   {
     id: "saintlucia-pigeon-island-museum-landmarks-v2",
@@ -57,6 +81,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Old officers' quarters", "Historic exhibits", "Part of heritage trust", "North St. Lucia"],
     },
     imageHint: "Pigeon Island Museum Saint Lucia building",
+    descriptionAdvanced: {
+      de: "Das Pigeon Island Museum ist in einem sorgfältig restaurierten britischen Offizierskasino aus dem Jahr 1808 untergebracht. Die Ausstellungen führen die Besucher durch die bewegte Geschichte der Insel, von der Zeit der Arawak-Indianer bis zu den Flottenkriegen zwischen Frankreich und Großbritannien. Als Teil des National Landmark bietet das Museum authentische Einblicke in das Leben der Soldaten und die strategische Bedeutung des Ortes. Die Exponate umfassen archäologische Funde und Seekarten.",
+      hu: "A Pigeon Island Múzeum egy gondosan restaurált, 1808-ból származó brit tiszti étkezdében kapott helyet. A kiállítások végigvezetik a látogatókat a sziget mozgalmas történelmén, az aravak indiánok korától kezdve a Franciaország és Nagy-Britannia közötti tengeri háborúkig. A Nemzeti Emlékhely részeként a múzeum hiteles betekintést nyújt a katonák életébe és a hely stratégiai jelentőségébe. A tárlat régészeti leleteket és tengerészeti térképeket is tartalmaz.",
+      ro: "Muzeul Insulei Pigeon este găzduit într-o fostă popotă a ofițerilor britanici, construită în 1808 și restaurată cu grijă. Expozițiile ghidează vizitatorii prin istoria bogată a insulei, de la epoca indienilor Arawak până la războaiele navale dintre Franța și Marea Britanie. Ca parte a Monumentului Național, muzeul oferă perspective autentice asupra vieții soldaților și importanței strategice a locației. Exponatele includ descoperiri arheologice și hărți maritime.",
+      en: "The Pigeon Island Museum is housed in a carefully restored British officers' mess building dating back to 1808. The exhibits guide visitors through the island's vibrant history, from the era of the Arawak Indians to the naval wars between France and Great Britain. As part of the National Landmark, the museum provides authentic insights into the lives of soldiers and the site's strategic importance. Exhibits include archaeological finds and maritime charts.",
+    },
+    factsAdvanced: {
+      de: ["Gebäude wurde im Jahr 1808 fertiggestellt", "Einstiges Offizierskasino der britischen Armee", "Zeigt Artefakte der präkolumbianischen Ära", "Dokumentiert Admiral Rodneys Sieg von 1782", "Verwaltet vom Saint Lucia National Trust", "Enthält Modelle historischer Kriegsschiffe"],
+      hu: ["Az épület 1808-ban készült el", "Egykor a brit hadsereg tiszti étkezdéje volt", "Prekolumbián korból származó tárgyakat mutat be", "Dokumentálja Rodney admirális 1782-es győzelmét", "A Saint Lucia National Trust kezeli", "Történelmi hadihajók modelljeit is tartalmazza"],
+      ro: ["Clădirea a fost finalizată în anul 1808", "Fostă popotă a ofițerilor armatei britanice", "Expune artefacte din epoca precolumbiană", "Documentează victoria amiralului Rodney din 1782", "Administrat de Saint Lucia National Trust", "Conține machete ale navelor de război istorice"],
+      en: ["The building was completed in 1808", "Former officers' mess for the British Army", "Displays artifacts from the pre-Columbian era", "Documents Admiral Rodney's 1782 victory", "Managed by the Saint Lucia National Trust", "Contains models of historical warships"],
+    },
   },
   {
     id: "saintlucia-marigot-bay-bridge-landmarks-v2",
@@ -76,6 +112,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Coastal road", "Access to the bay", "Important traffic point", "Near luxury resorts"],
     },
     imageHint: "Marigot Bay bridge Saint Lucia road view",
+    descriptionAdvanced: {
+      de: "Die Brücke in der Marigot Bay verbindet die Ufer einer der malerischsten Buchten der Karibik, die für ihre tiefen, geschützten Gewässer bekannt ist. Historisch bot die Bucht der französischen Flotte ein ideales Versteck vor britischen Schiffen, da sie von außen kaum einsehbar ist. Heute ist das Gebiet ein beliebter Ankerplatz für Luxusyachten und ein Zentrum für gehobenen Tourismus. Die Brücke ermöglicht den Zugang zu den Resorts und Restaurants rund um die Bucht.",
+      hu: "A Marigot-öböl hídja a Karib-térség egyik legfestőibb öblének partjait köti össze, amely mély, védett vizeiről ismert. Történelmileg az öböl ideális rejtekhelyet nyújtott a francia flotta számára a brit hajók elől, mivel kívülről alig látható. Ma a terület a luxusjachtok kedvelt horgonyzóhelye és a színvonalas turizmus központja. A híd biztosítja az utat az öböl körüli üdülőhelyekhez és éttermekhez.",
+      ro: "Podul din Golful Marigot face legătura între malurile unuia dintre cele mai pitorești golfuri din Caraibe, cunoscut pentru apele sale adânci și protejate. Din punct de vedere istoric, golful a oferit flotei franceze o ascunzătoare ideală de navele britanice, fiind aproape invizibil din larg. Astăzi, zona este un loc de ancorare popular pentru iahturi de lux și un centru al turismului exclusivist. Podul facilitează accesul la resorturile și restaurantele din jurul golfului.",
+      en: "The bridge in Marigot Bay connects the shores of one of the most picturesque bays in the Caribbean, known for its deep, sheltered waters. Historically, the bay provided the French fleet with an ideal hiding place from British ships, as it is nearly invisible from the sea. Today, the area is a popular anchorage for luxury yachts and a center for high-end tourism. The bridge provides access to the resorts and restaurants surrounding the bay.",
+    },
+    factsAdvanced: {
+      de: ["Marigot Bay gilt als Hurrikan-Sicherhafen", "Drehort für den Film 'Dr. Dolittle' von 1967", "Ort strategischer Seemanöver im 18. Jahrhundert", "Umgeben von steilen, bewaldeten Hügeln", "Wichtiger Knotenpunkt für Wassertaxis", "Teil eines Gebiets mit reicher Biodiversität"],
+      hu: ["A Marigot-öböl biztonságos kikötő hurrikán idején", "Az 1967-es 'Dr. Dolittle' című film forgatási helyszíne", "18. századi stratégiai tengeri manőverek helyszíne", "Meredek, erdős dombok veszik körül", "A vízitaxik fontos csomópontja", "Gazdag biodiverzitású terület része"],
+      ro: ["Golful Marigot este considerat un port sigur în caz de uragan", "Loc de filmare pentru pelicula 'Dr. Dolittle' din 1967", "Locul unor manevre navale strategice în secolul al XVIII-lea", "Înconjurat de dealuri abrupte și împădurite", "Punct important de tranzit pentru taxiurile pe apă", "Parte a unei zone cu biodiversitate bogată"],
+      en: ["Marigot Bay is considered a hurricane-safe haven", "Filming location for the 1967 movie 'Dr. Dolittle'", "Site of strategic naval maneuvers in the 18th century", "Surrounded by steep, forested hills", "Important hub for local water taxis", "Part of an area with rich coastal biodiversity"],
+    },
   },
   {
     id: "saintlucia-morne-coubaril-estate-house-landmarks-v2",
@@ -95,6 +143,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Founded around 1713", "Restored wooden house", "Former sugar mill", "Historical heritage"],
     },
     imageHint: "Morne Coubaril Estate House Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Herrenhaus von Morne Coubaril Estate ist das Herzstück einer der ältesten arbeitenden Plantagen auf St. Lucia, die im Jahr 1713 gegründet wurde. Das Gebäude im französischen Kolonialstil wurde sorgfältig restauriert und zeigt die traditionelle Lebensweise der Plantagenbesitzer. Besucher können hier die Verarbeitung von Kakao, Kaffee und Kokosnüssen erleben, wie sie seit Generationen praktiziert wird. Das Anwesen bietet zudem einen herrlichen Blick auf die Bucht von Soufrière.",
+      hu: "A Morne Coubaril birtok udvarháza Szent Lucia egyik legrégebbi, 1713-ban alapított, ma is működő ültetvényének központja. A francia gyarmati stílusú épületet gondosan restaurálták, és bemutatja az ültetvénytulajdonosok hagyományos életmódját. A látogatók itt megismerhetik a kakaó, a kávé és a kókuszdió feldolgozását, ahogyan azt generációk óta végzik. A birtokról csodálatos kilátás nyílik Soufrière öblére.",
+      ro: "Conacul de pe domeniul Morne Coubaril este inima uneia dintre cele mai vechi plantații active din Sfânta Lucia, fondată în anul 1713. Clădirea în stil colonial francez a fost restaurată cu atenție și ilustrează modul de viață tradițional al proprietarilor de plantații. Vizitatorii pot experimenta aici procesarea cacauei, cafelei și nucilor de cocos, așa cum se practică de generații. Domeniul oferă, de asemenea, o vedere splendidă asupra golfului Soufrière.",
+      en: "The estate house at Morne Coubaril is the centerpiece of one of the oldest working plantations in Saint Lucia, established in 1713. The French colonial-style building has been carefully restored and showcases the traditional lifestyle of plantation owners. Visitors can experience the processing of cocoa, coffee, and coconuts as practiced for generations. The estate also offers a magnificent view of Soufrière Bay.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1713", "Älteste kontinuierlich bewirtschaftete Plantage", "Demonstration von Ochsenmühlen zur Zuckerpressung", "Rekonstruktion eines historischen Sklavendorfes", "Anbau von Kakao für die Schokoladenherstellung", "Befindet sich in unmittelbarer Nähe der Pitons"],
+      hu: ["1713-ban alapították", "A sziget legrégebbi folyamatosan művelt ültetvénye", "Ökörhajtású cukornádprés bemutatása", "Egy történelmi rabszolgafalu rekonstrukciója", "Kakaótermesztés csokoládékészítéshez", "A Pitonok közvetlen közelében található"],
+      ro: ["Fondată în anul 1713", "Cea mai veche plantație cultivată continuu", "Demonstrații cu mori trase de boi pentru trestie", "Reconstrucția unui sat istoric al sclavilor", "Cultivarea cacauei pentru producția de ciocolată", "Situată în imediata apropiere a Pitonilor"],
+      en: ["Established in the year 1713", "Oldest continuously operated plantation on the island", "Demonstrations of ox-driven mills for sugar cane", "Reconstruction of a historical slave village", "Grows cocoa for artisanal chocolate production", "Located in close proximity to the Pitons"],
+    },
   },
   {
     id: "saintlucia-fond-doux-heritage-site-landmarks-v2",
@@ -114,6 +174,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Over 250 years old", "UNESCO buffer zone", "Colonial wooden architecture", "Cocoa production"],
     },
     imageHint: "Fond Doux Heritage Site colonial buildings",
+    descriptionAdvanced: {
+      de: "Die Fond Doux Heritage Site ist eine über 250 Jahre alte Kakaoplantage, die sich innerhalb des UNESCO-Welterbegebiets der Pitons befindet. Das Anwesen zeichnet sich durch seine gut erhaltenen historischen Gebäude mit den typischen Walaba-Schindeldächern aus. Hier wird bis heute nachhaltige Landwirtschaft betrieben, wobei der gesamte Prozess der Schokoladenherstellung verfolgt werden kann. Die üppige tropische Vegetation und die reiche Flora machen den Ort zu einem Rückzugsort für Natur- und Kulturliebhaber.",
+      hu: "A Fond Doux Örökségi Helyszín egy több mint 250 éves kakaóültetvény, amely az UNESCO Világörökség részét képező Pitonok területén található. A birtok jól megőrzött történelmi épületeiről ismert, amelyeket jellegzetes walaba-zsindelytető borít. Itt a mai napig fenntartható gazdálkodást folytatnak, ahol a csokoládékészítés teljes folyamata végigkövethető. A buja trópusi növényzet és a gazdag flóra a természet és a kultúra kedvelőinek menedékévé teszi a helyet.",
+      ro: "Situl de patrimoniu Fond Doux este o plantație de cacao veche de peste 250 de ani, situată în zona inclusă în Patrimoniul Mondial UNESCO a Pitonilor. Domeniul se remarcă prin clădirile sale istorice bine conservate, cu acoperișuri tipice din șindrilă de walaba. Aici se practică și astăzi agricultura durabilă, vizitatorii putând urmări întregul proces de fabricare a ciocolatei. Vegetația tropicală luxuriantă și flora bogată fac din acest loc un refugiu pentru iubitorii de natură și cultură.",
+      en: "Fond Doux Heritage Site is a 250-year-old cocoa plantation located within the UNESCO World Heritage area of the Pitons. The estate is characterized by its well-preserved historical buildings with typical walaba shingle roofs. Sustainable agriculture is still practiced here today, and the entire chocolate-making process can be observed. The lush tropical vegetation and rich flora make the site a sanctuary for nature and culture enthusiasts.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um das Jahr 1745", "Umfasst eine Fläche von 135 Hektar", "Teil des Pitons Management Area der UNESCO", "Traditionelles Trocknen von Kakaobohnen", "Heimat vieler endemischer Pflanzenarten", "Ausgezeichnet für nachhaltigen Tourismus"],
+      hu: ["1745 körül alapították", "135 hektáros területet foglal magában", "Az UNESCO Pitonok Kezelési Területének része", "A kakaóbab szárításának hagyományos módszere", "Számos endemikus növényfaj otthona", "Fenntartható turizmusért díjazott helyszín"],
+      ro: ["Fondată în jurul anului 1745", "Cuprinde o suprafață de 135 de acri", "Parte a Zonei de Management a Pitonilor UNESCO", "Uscarea tradițională a boabelor de cacao", "Adăpostește numeroase specii de plante endemice", "Premiată pentru turism durabil"],
+      en: ["Established around the year 1745", "Spans an area of 135 acres", "Part of the UNESCO Pitons Management Area", "Traditional sun-drying of cocoa beans practiced", "Home to many endemic plant species", "Recognized with awards for sustainable tourism"],
+    },
   },
   {
     id: "saintlucia-balenbouche-estate-ruins-landmarks-v2",
@@ -133,6 +205,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Historic waterwheel", "Former sugar mill", "South coast of island", "Stone architecture"],
     },
     imageHint: "Balenbouche Estate ruins waterwheel",
+    descriptionAdvanced: {
+      de: "Die Ruinen des Balenbouche Estates an der Südküste von St. Lucia sind ein eindrucksvolles Zeugnis der industriellen Vergangenheit der Insel. Das Anwesen beherbergt die Überreste einer alten Zuckermühle, inklusive eines massiven Wasserrades und historischer Maschinenteile aus dem 18. und 19. Jahrhundert. Eingebettet in einen wildwüchsigen tropischen Garten, erzählen die Steinmauern von der Zeit der Plantagenwirtschaft. Heute ist das Anwesen ein Ort der Ruhe und der historischen Besinnung.",
+      hu: "A Szent Lucia déli partján fekvő Balenbouche birtok romjai a sziget ipari múltjának hatásos tanúbizonyságai. A területen egy régi cukornádmalom maradványai találhatók, beleértve egy masszív vízikereket és 18-19. századi történelmi gépalkatrészeket. A vadregényes trópusi kertbe ágyazott kőfalak az ültetvénygazdálkodás koráról mesélnek. Ma a birtok a nyugalom és a történelmi elmélkedés helyszíne.",
+      ro: "Ruinele domeniului Balenbouche de pe coasta de sud a insulei Sfânta Lucia sunt o mărturie impresionantă a trecutului industrial al insulei. Proprietatea găzduiește rămășițele unei vechi mori de zahăr, inclusiv o roată de apă masivă și piese de utilaje istorice din secolele XVIII și XIX. Cuibărite într-o grădină tropicală sălbatică, zidurile de piatră povestesc despre epoca plantațiilor. Astăzi, domeniul este un loc de liniște și reflecție istorică.",
+      en: "The ruins of Balenbouche Estate on the south coast of Saint Lucia are a compelling testament to the island's industrial past. The property houses the remains of an old sugar mill, including a massive water wheel and historical machinery from the 18th and 19th centuries. Nestled within a wild tropical garden, the stone walls tell the story of the plantation era. Today, the estate is a place of tranquility and historical reflection.",
+    },
+    factsAdvanced: {
+      de: ["Ehemalige 18. Jahrhundert Zuckerplantage", "Umfasst ca. 60 Hektar Land", "Gut erhaltenes Wasserrad aus Eisen", "Fundort von präkolumbianischen Artefakten", "Früherer Standort einer Kalkbrennerei", "Befindet sich in der Nähe von Laborie"],
+      hu: ["Egykori 18. századi cukorültetvény", "Körülbelül 60 hektáros területet ölel fel", "Jó állapotban megőrzött vaskerék", "Prekolumbián tárgyak lelőhelye", "Egykor mészégető is működött itt", "Laborie városa közelében található"],
+      ro: ["Fostă plantație de zahăr din secolul al XVIII-lea", "Se întinde pe aproximativ 60 de acri de teren", "Roată de apă din fontă bine conservată", "Loc de descoperire a artefactelor precolumbiene", "Fost amplasament al unui cuptor de var", "Situată în apropierea localității Laborie"],
+      en: ["Former 18th-century sugar plantation", "Spans approximately 60 acres of land", "Well-preserved cast-iron water wheel", "Site of pre-Columbian artifact discoveries", "Former site of a lime kiln", "Located near the village of Laborie"],
+    },
   },
   {
     id: "saintlucia-choiseul-arts-centre-landmarks-v2",
@@ -152,6 +236,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Craft center", "Traditional pottery", "Choiseul district", "Cultural heritage"],
     },
     imageHint: "Choiseul Arts and Crafts Centre Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Choiseul Arts Centre ist das Zentrum für traditionelles Kunsthandwerk auf St. Lucia und bewahrt Techniken, die teils auf indigene Völker zurückgehen. Die Region Choiseul ist besonders bekannt für ihre Töpferei, Korbflechterei und Holzschnitzerei, wobei lokale Materialien verwendet werden. Besucher können Handwerkern bei der Arbeit zusehen und authentische Stücke wie den berühmten 'Coal Pot' erwerben. Das Zentrum spielt eine entscheidende Rolle bei der Weitergabe von kulturellem Wissen an jüngere Generationen.",
+      hu: "A Choiseul Művészeti Központ Szent Lucia hagyományos kézművességének központja, amely részben az őslakos népektől származó technikákat őriz. Choiseul régiója különösen híres fazekasságáról, kosárfonásáról és fafaragásáról, amelyekhez helyi alapanyagokat használnak. A látogatók munka közben figyelhetik meg a kézműveseket, és megvásárolhatják az eredeti darabokat, például a híres 'Coal Pot'-ot (szénfőző edényt). A központ döntő szerepet játszik a kulturális tudás átadásában a fiatalabb generációk számára.",
+      ro: "Centrul de Arte Choiseul este nucleul meșteșugurilor tradiționale din Sfânta Lucia, conservând tehnici care datează parțial de la populațiile indigene. Regiunea Choiseul este renumită în special pentru olărit, împletitul coșurilor și sculptura în lemn, utilizând materiale locale. Vizitatorii îi pot urmări pe meșteșugari la lucru și pot achiziționa piese autentice, precum celebrul 'Coal Pot'. Centrul joacă un rol crucial în transmiterea cunoștințelor culturale către generațiile tinere.",
+      en: "The Choiseul Arts Centre is the hub for traditional crafts in Saint Lucia, preserving techniques that in some cases date back to indigenous peoples. The Choiseul region is particularly famous for its pottery, basket weaving, and wood carving, all using local materials. Visitors can watch artisans at work and purchase authentic pieces like the famous 'Coal Pot.' The center plays a vital role in passing cultural knowledge to younger generations.",
+    },
+    factsAdvanced: {
+      de: ["Bekannt für handgefertigte Tonwaren", "Verwendung von lokalem rotem Lehm", "Tradition der Grasflechterei (Vetiver)", "Förderung der lokalen Kreativwirtschaft", "Zentrum für indigene Webtechniken", "Wichtiger Punkt der 'Craft Heritage' Route"],
+      hu: ["Kézzel készített agyagedényeiről ismert", "Helyi vörös agyagot használnak", "Vetiver fűvel történő fonás hagyománya", "A helyi kreatív gazdaság ösztönzése", "Őslakos szövési technikák központja", "A kézműves örökség útvonalának fontos állomása"],
+      ro: ["Renumit pentru vasele de lut lucrate manual", "Utilizarea argilei roșii locale", "Tradiția împletitului cu iarbă vetiver", "Promovarea economiei creative locale", "Centru pentru tehnici de țesut indigene", "Punct important pe ruta patrimoniului meșteșugăresc"],
+      en: ["Famous for handmade clay pottery", "Utilizes local red clay for production", "Tradition of vetiver grass weaving", "Supports the local creative economy", "Center for indigenous weaving techniques", "Key stop on the 'Craft Heritage' route"],
+    },
   },
   {
     id: "saintlucia-sir-arthur-lewis-college-landmarks-v2",
@@ -171,6 +267,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Former barracks", "Location: Morne Fortune", "Academic center", "Stone architecture"],
     },
     imageHint: "Sir Arthur Lewis Community College historic buildings",
+    descriptionAdvanced: {
+      de: "Das Hauptgebäude des Sir Arthur Lewis College auf dem Morne Fortune war ursprünglich Teil eines britischen Militärkomplexes aus dem 19. Jahrhundert. Die massiven Steingebäude dienten als Kasernen, bevor sie in eine Bildungseinrichtung umgewandelt wurden. Benannt ist das College nach dem berühmten Wirtschaftsnobelpreisträger aus St. Lucia. Der Standort verbindet historische Architektur mit modernem akademischem Leben und bietet eine inspirierende Umgebung oberhalb von Castries.",
+      hu: "A Morne Fortune-on található Sir Arthur Lewis College főépülete eredetileg egy 19. századi brit katonai komplexum része volt. A masszív kőépületek laktanyaként szolgáltak, mielőtt oktatási intézménnyé alakították volna őket. A főiskolát a híres Szent Lucia-i közgazdasági Nobel-díjasról nevezték el. A helyszín ötvözi a történelmi építészetet a modern akadémiai élettel, inspiráló környezetet biztosítva Castries felett.",
+      ro: "Clădirea principală a Colegiului Sir Arthur Lewis de pe Morne Fortune a făcut parte inițial dintr-un complex militar britanic din secolul al XIX-lea. Clădirile masive din piatră au servit drept cazărmi înainte de a fi transformate într-o instituție de învățământ. Colegiul poartă numele celebrului laureat al Premiului Nobel pentru Economie din Sfânta Lucia. Locația îmbină arhitectura istorică cu viața academică modernă, oferind un mediu inspirat deasupra orașului Castries.",
+      en: "The main building of Sir Arthur Lewis College on Morne Fortune was originally part of a 19th-century British military complex. The massive stone structures served as barracks before being converted into an educational institution. The college is named after the famous Nobel laureate in Economics from Saint Lucia. The site blends historical architecture with modern academic life, providing an inspiring environment high above Castries.",
+    },
+    factsAdvanced: {
+      de: ["Benannt nach Sir Arthur Lewis (Nobelpreis 1979)", "Ehemals britische Infanteriekasernen", "Eröffnet als Community College im Jahr 1985", "Architektur aus lokalem Vulkangestein", "Befindet sich auf einem historischen Schlachtfeld", "Bietet Blick auf den Hafen von Castries"],
+      hu: ["Sir Arthur Lewisról (1979-es Nobel-díj) nevezték el", "Korábban brit gyalogsági laktanya volt", "1985-ben nyitották meg közösségi főiskolaként", "Helyi vulkáni kőzetből épült", "Egy történelmi csatatéren található", "Kilátás nyílik innen Castries kikötőjére"],
+      ro: ["Numit după Sir Arthur Lewis (Premiul Nobel 1979)", "Foste cazărmi ale infanteriei britanice", "Deschis ca colegiu comunitar în anul 1985", "Arhitectură din piatră vulcanică locală", "Situat pe locul unui câmp de luptă istoric", "Oferă vedere spre portul Castries"],
+      en: ["Named after Sir Arthur Lewis (1979 Nobel Prize)", "Formerly British infantry barracks", "Opened as a community college in 1985", "Architecture features local volcanic stone", "Located on a historical battlefield site", "Offers commanding views of Castries harbor"],
+    },
   },
   {
     id: "saintlucia-roseau-sugar-factory-chimney-landmarks-v2",
@@ -190,6 +298,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Brick chimney", "Sugar industry relic", "Roseau Valley", "Industrial monument"],
     },
     imageHint: "Roseau sugar factory chimney ruins Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Schornstein der Roseau-Zuckerfabrik ist ein einsames Monument der einst blühenden Zuckerindustrie im fruchtbaren Roseau-Tal. Das Bauwerk ist der letzte verbliebene Teil einer großen Fabrikanlage, die Mitte des 20. Jahrhunderts geschlossen wurde. Er symbolisiert den wirtschaftlichen Wandel der Insel weg vom Zuckerrohr hin zum Bananenanbau. Heute steht der Schornstein inmitten grüner Plantagen und erinnert an die industrielle Vergangenheit und die Arbeit vieler Generationen.",
+      hu: "A roseau-i cukorgyár kéménye a termékeny Roseau-völgy egykor virágzó cukoriparának magányos emlékműve. Az építmény egy nagy gyárkomplexum utolsó fennmaradt része, amelyet a 20. század közepén zártak be. A sziget gazdasági átalakulását jelképezi, a cukornádtól a banántermesztés felé való elmozdulást. Ma a kémény zöld ültetvények között áll, emlékeztetve az ipari múltra és több generáció munkájára.",
+      ro: "Coșul fabricii de zahăr din Roseau este un monument solitar al industriei zahărului, odinioară înfloritoare în valea fertilă Roseau. Structura este ultima parte rămasă dintr-un complex industrial mare care a fost închis la mijlocul secolului al XX-lea. Acesta simbolizează tranziția economică a insulei de la trestia de zahăr la cultura bananelor. Astăzi, coșul se ridică printre plantații verzi, amintind de trecutul industrial și munca multor generații.",
+      en: "The Roseau Sugar Factory Chimney is a solitary monument to the once-thriving sugar industry in the fertile Roseau Valley. The structure is the last remaining part of a large factory complex that was closed in the mid-20th century. It symbolizes the island's economic transition from sugar cane to banana cultivation. Today, the chimney stands amidst green plantations, serving as a reminder of the industrial past and the labor of many generations.",
+    },
+    factsAdvanced: {
+      de: ["Letztes Relikt der Roseau Sugar Factory", "Fabrik stellte den Betrieb in den 1960ern ein", "Gelegen im größten Bananenanbaugebiet der Insel", "Bauweise aus rotem Backstein", "Wegmarke für Reisende im Roseau-Tal", "Zeugnis der industriellen Kolonialgeschichte"],
+      hu: ["A Roseau cukorgyár utolsó maradványa", "A gyár az 1960-as években szüntette be működését", "A sziget legnagyobb banántermő területén található", "Vörös téglából készült építmény", "Tájékozódási pont az utazók számára a Roseau-völgyben", "Az ipari gyarmattörténet tanúbizonysága"],
+      ro: ["Ultima relicvă a Fabricii de Zahăr Roseau", "Fabrica și-a încetat activitatea în anii 1960", "Situat în cea mai mare zonă de cultivare a bananelor", "Construcție realizată din cărămidă roșie", "Punct de reper pentru călătorii din valea Roseau", "Mărturie a istoriei coloniale industriale"],
+      en: ["Last relic of the Roseau Sugar Factory", "The factory ceased operations in the 1960s", "Located in the island's largest banana-growing area", "Construction made of distinctive red brick", "Landmark for travelers in the Roseau Valley", "Evidence of industrial colonial history"],
+    },
   },
   {
     id: "saintlucia-canaries-bridge-landmarks-v2",
@@ -209,6 +329,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Crosses river", "Canaries village", "Main road", "West coast"],
     },
     imageHint: "Canaries village bridge Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die Canaries-Brücke ist ein wichtiges Infrastrukturelement im gleichnamigen Fischerdorf an der Westküste von St. Lucia. Sie überquert den Canaries River und verbindet die Gemeinde mit der Hauptküstenstraße. Die Umgebung ist durch steile Hügel und dichte Vegetation geprägt. Diese Brücke spielt eine zentrale Rolle für den lokalen Handel und den Transport zwischen Castries und Soufrière.",
+      hu: "A Canaries-híd Szent Lucia nyugati partján, az azonos nevű halászfaluban található fontos átkelő. A Canaries-folyó felett ível át, biztosítva az összeköttetést a sziget fő közlekedési útvonala mentén. A híd környezetét meredek dombok és trópusi növényzet jellemzi. Létfontosságú szerepet tölt be a helyi kereskedelemben és a lakosság napi közlekedésében.",
+      ro: "Podul Canaries este o structură de infrastructură vitală situată în satul pescăresc cu același nume de pe coasta de vest a insulei Sfânta Lucia. Traversează râul Canaries, facilitând accesul pe drumul de coastă principal. Zona înconjurătoare este marcată de relief accidentat și vegetație tropicală densă. Acest pod este esențial pentru transportul de mărfuri și persoane între localitățile insulei.",
+      en: "The Canaries Bridge is a key infrastructure component located in the fishing village of Canaries on the west coast of Saint Lucia. It spans the Canaries River, linking the community to the main coastal highway. The surrounding area is characterized by steep hills and lush tropical greenery. This bridge serves as a vital artery for local commerce and transit between the island's major hubs.",
+    },
+    factsAdvanced: {
+      de: ["Die Brücke befindet sich im Distrikt Canaries an der Westküste.", "Sie überquert den Canaries River kurz vor dessen Mündung.", "Die Konstruktion ist Teil der West Coast Road.", "Das Fischerdorf Canaries wurde Mitte des 18. Jahrhunderts gegründet.", "Die Brücke ist ein wichtiger Punkt für den Verkehr zwischen Castries und Soufrière.", "In der Regenzeit führt der Fluss oft große Wassermengen unter der Brücke hindurch."],
+      hu: ["A híd a Canaries negyedben található a nyugati parton.", "A Canaries-folyón ível át, annak torkolata közelében.", "A szerkezet a nyugati parti főút részét képezi.", "Canaries halászfalut a 18. század közepén alapították.", "A híd kulcsfontosságú a Castries és Soufrière közötti forgalomban.", "Az esős évszakban a folyó jelentős mennyiségű vizet szállít a híd alatt."],
+      ro: ["Podul este situat în districtul Canaries de pe coasta de vest.", "Traversează râul Canaries chiar înainte de vărsarea acestuia.", "Construcția face parte din drumul principal de pe coasta de vest.", "Satul pescăresc Canaries a fost fondat la mijlocul secolului al XVIII-lea.", "Podul este un punct vital pentru traficul între Castries și Soufrière.", "În sezonul ploios, râul transportă volume mari de apă sub pod."],
+      en: ["The bridge is located in the Canaries District on the west coast.", "It spans the Canaries River near its mouth into the sea.", "The structure is a vital part of the West Coast Road.", "The fishing village of Canaries was founded in the mid-18th century.", "The bridge facilitates traffic between Castries and Soufrière.", "During the rainy season, the river carries significant water volumes below the bridge."],
+    },
   },
   {
     id: "saintlucia-anse-la-raye-church-landmarks-v2",
@@ -228,6 +360,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Stone construction", "Anse La Raye village", "Religious center", "West coast"],
     },
     imageHint: "Anse La Raye Catholic Church Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die katholische Kirche von Anse La Raye, bekannt als Kirche der Geburt Mariens, steht im Zentrum des historischen Fischerdorfes. Das heutige Gebäude wurde im frühen 20. Jahrhundert errichtet, nachdem frühere Bauten durch Brände und Hurrikane zerstört worden waren. Die Architektur zeichnet sich durch ihre schlichte, aber würdevolle Fassade aus. Sie dient als religiöser und sozialer Mittelpunkt für die lokale Gemeinschaft.",
+      hu: "Az Anse La Raye-i katolikus templom, ismertebb nevén a Szűzanya Születése templom, a történelmi halászfalu szívében található. A jelenlegi épület a 20. század elején készült el, miután a korábbi építményeket tüzek és hurrikánok pusztították el. Építészete egyszerű, de méltóságteljes homlokzatáról ismert. A templom a helyi közösség vallási és társadalmi életének központja.",
+      ro: "Biserica Catolică din Anse La Raye, cunoscută sub numele de Biserica Nașterea Maicii Domnului, este situată în centrul satului istoric de pescari. Clădirea actuală a fost construită la începutul secolului al XX-lea, după ce structurile anterioare au fost distruse de incendii și uragane. Arhitectura se remarcă prin fațada sa simplă, dar demnă. Servește ca punct focal religios și social pentru comunitatea locală.",
+      en: "The Anse La Raye Catholic Church, known as the Church of the Nativity, stands in the heart of this historic fishing village. The current building was erected in the early 20th century after previous structures were destroyed by fires and hurricanes. Its architecture is characterized by a simple yet dignified facade. The church serves as a religious and social focal point for the local community.",
+    },
+    factsAdvanced: {
+      de: ["Die Kirche ist der Geburt Mariens geweiht.", "Das heutige Gebäude wurde um 1907 fertiggestellt.", "Frühere Holzkirchen an diesem Standort stammten aus dem 18. Jahrhundert.", "Die Kirche beherbergt Wandmalereien lokaler Künstler.", "Sie befindet sich nur wenige Meter vom Ufer der Anse La Raye entfernt.", "Die Pfarrei wurde während der französischen Kolonialzeit gegründet."],
+      hu: ["A templomot Szűz Mária születésének szentelték.", "A jelenlegi épületet 1907 körül fejezték be.", "Ezen a helyen már a 18. században is álltak korábbi fatemplomok.", "A belső térben helyi művészek falfestményei láthatók.", "A templom mindössze néhány méterre található az Anse La Raye partjától.", "A plébániát még a francia gyarmati időszakban alapították."],
+      ro: ["Biserica este dedicată Nașterii Maicii Domnului.", "Clădirea actuală a fost finalizată în jurul anului 1907.", "Biserici anterioare din lemn au existat pe acest site încă din secolul al XVIII-lea.", "Interiorul adăpostește picturi murale realizate de artiști locali.", "Biserica se află la doar câțiva metri de malul golfului Anse La Raye.", "Parohia a fost înființată în timpul perioadei coloniale franceze."],
+      en: ["The church is dedicated to the Nativity of the Blessed Virgin Mary.", "The present structure was completed around 1907.", "Earlier wooden churches on this site date back to the 18th century.", "The interior features murals painted by local Saint Lucian artists.", "It is located just a short distance from the Anse La Raye waterfront.", "The parish was established during the French colonial era."],
+    },
   },
   {
     id: "saintlucia-laborie-square-fountain-landmarks-v2",
@@ -247,6 +391,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Village square", "Decorative fountain", "Meeting spot", "Laborie district"],
     },
     imageHint: "Laborie village square Saint Lucia fountain",
+    descriptionAdvanced: {
+      de: "Der Brunnen auf dem Laborie Square ist ein zentraler Treffpunkt im malerischen Dorf Laborie an der Südküste von St. Lucia. Er befindet sich auf dem Hauptplatz, der von historischen Holzgebäuden und der katholischen Kirche umgeben ist. Der Platz dient oft als Schauplatz für lokale Feste und kulturelle Veranstaltungen. Der Brunnen symbolisiert die Vitalität und die starke Gemeinschaft des Dorfes.",
+      hu: "A Laborie téri szökőkút Szent Lucia déli partján, a festői Laborie falu központi találkozóhelye. A főtéren található, amelyet történelmi faépületek és a katolikus templom vesz körül. A tér gyakran ad otthont helyi fesztiváloknak és kulturális eseményeknek. A szökőkút a falu életerejét és erős közösségi szellemét szimbolizálja.",
+      ro: "Fântâna din Piața Laborie este un punct de întâlnire central în satul pitoresc Laborie, situat pe coasta de sud a insulei Sfânta Lucia. Se află în piața principală, înconjurată de clădiri istorice din lemn și de biserica catolică. Piața servește adesea ca loc de desfășurare pentru festivaluri locale și evenimente culturale. Fântâna simbolizează vitalitatea și spiritul comunitar puternic al satului.",
+      en: "The Laborie Square Fountain is a central landmark in the picturesque village of Laborie on Saint Lucia's southern coast. It is located in the main square, which is surrounded by historic wooden buildings and the local Catholic church. The square often hosts local festivals and cultural community events. This fountain symbolizes the vitality and strong communal spirit of the village.",
+    },
+    factsAdvanced: {
+      de: ["Der Brunnen befindet sich auf dem Rudy John Beach Park Square.", "Laborie wurde ursprünglich von den Franzosen als L'Islet à Caret gegründet.", "Der Platz ist ein Zentrum für das jährliche Jazz-Festival in Laborie.", "Die umliegenden Gebäude zeigen typisch karibische Kolonialarchitektur.", "Der Brunnen ist ein beliebtes Fotomotiv für Besucher des Südens.", "In der Nähe befinden sich die Statue von Sir Emmanuel Neville Cenac."],
+      hu: ["A szökőkút a Rudy John Beach Park téren található.", "Laborie-t eredetileg a franciák alapították L'Islet à Caret néven.", "A tér az éves Laborie Jazz Fesztivál egyik központi helyszíne.", "A környező épületek tipikus karibi gyarmati építészetet tükröznek.", "A szökőkút népszerű fotóhelyszín a délre látogató turisták körében.", "A közelben található Sir Emmanuel Neville Cenac szobra."],
+      ro: ["Fântâna este situată în piața Rudy John Beach Park.", "Laborie a fost fondat inițial de francezi sub numele de L'Islet à Caret.", "Piața este un centru pentru festivalul anual de jazz din Laborie.", "Clădirile din jur prezintă arhitectură colonială tipic caraibiană.", "Fântâna este un loc popular pentru fotografii în rândul turiștilor.", "În apropiere se află statuia lui Sir Emmanuel Neville Cenac."],
+      en: ["The fountain is situated in the Rudy John Beach Park square.", "Laborie was originally settled by the French as L'Islet à Caret.", "The square is a hub for the annual Laborie Jazz Festival.", "Surrounding buildings display classic Caribbean colonial timber architecture.", "The fountain is a popular landmark for tourists visiting the south.", "A statue of Sir Emmanuel Neville Cenac is located nearby."],
+    },
   },
   {
     id: "saintlucia-laborie-church-purification-landmarks-v2",
@@ -266,6 +422,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Stone church", "Founded in 1840", "Location: Laborie", "Catholic rite"],
     },
     imageHint: "Church of the Purification Laborie Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die Kirche der Reinigung in Laborie ist eines der markantesten religiösen Bauwerke im Süden von St. Lucia. Das imposante Gebäude aus Stein und Beton wurde im Jahr 1914 fertiggestellt und ersetzte eine ältere Holzkirche. Mit ihrem markanten Turm dominiert sie die Skyline des Dorfes am Meer. Die Kirche ist bekannt für ihre prächtige Innenausstattung und ihre Bedeutung für die katholische Gemeinde.",
+      hu: "A Laborie-i Megtisztulás temploma Szent Lucia déli részének egyik legmeghatározóbb vallási építménye. Az impozáns kő- és betonépület 1914-ben készült el, felváltva egy korábbi fatemplomot. Jellegzetes tornyával uralja a tengerparti falu látképét. A templom híres díszes belső teréről és a helyi katolikus közösség életében betöltött kiemelkedő szerepéről.",
+      ro: "Biserica Purificării din Laborie este una dintre cele mai proeminente structuri religioase din sudul insulei Sfânta Lucia. Impozanta clădire din piatră și beton a fost finalizată în 1914, înlocuind o veche biserică din lemn. Cu turnul său distinctiv, domină orizontul satului de la malul mării. Biserica este cunoscută pentru interiorul său bogat și pentru importanța sa în cadrul comunității catolice.",
+      en: "The Church of the Purification in Laborie is one of the most prominent religious structures in southern Saint Lucia. This imposing stone and concrete building was completed in 1914, replacing an older wooden church. With its distinct tower, it dominates the skyline of the seaside village. The church is renowned for its ornate interior and its significance to the local Catholic community.",
+    },
+    factsAdvanced: {
+      de: ["Die heutige Kirche wurde am 2. Februar 1914 eingeweiht.", "Sie ist der Reinigung der Jungfrau Maria gewidmet.", "Der Bau wurde unter der Leitung von Pater Etienne Etienne realisiert.", "Das Gebäude wurde aus lokalem Stein und importiertem Zement errichtet.", "Die Kirche überstand mehrere schwere Hurrikane ohne größere Schäden.", "Sie befindet sich direkt gegenüber dem Hauptplatz von Laborie."],
+      hu: ["A jelenlegi templomot 1914. február 2-án szentelték fel.", "Szűz Mária megtisztulásának tiszteletére szentelték.", "Az építkezést Etienne Etienne atya vezette.", "Az épület helyi kőből és importált cementből készült.", "A templom több súlyos hurrikánt is sértetlenül vészelt át.", "Közvetlenül Laborie főterével szemben helyezkedik el."],
+      ro: ["Biserica actuală a fost sfințită la 2 februarie 1914.", "Este dedicată Purificării Fecioarei Maria.", "Construcția a fost realizată sub conducerea părintelui Etienne Etienne.", "Clădirea a fost construită din piatră locală și ciment importat.", "Biserica a supraviețuit mai multor uragane majore fără daune structurale.", "Se află direct vizavi de piața principală din Laborie."],
+      en: ["The current church was consecrated on February 2, 1914.", "It is dedicated to the Purification of the Virgin Mary.", "Construction was overseen by the parish priest, Father Etienne Etienne.", "The building was constructed using local stone and imported cement.", "The church has survived several major hurricanes with minimal damage.", "It is located directly across from the main square of Laborie village."],
+    },
   },
   {
     id: "saintlucia-maria-islands-interpretive-centre-landmarks-v2",
@@ -285,6 +453,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Conservation center", "Vieux Fort region", "Endemic species info", "Ecological landmark"],
     },
     imageHint: "Maria Islands Interpretive Centre building",
+    descriptionAdvanced: {
+      de: "Das Maria Islands Interpretive Centre befindet sich in Moule à Chique, in der Nähe von Vieux Fort. Es dient als Informationszentrum für das Maria Islands Nature Reserve, ein Schutzgebiet für seltene Reptilienarten. Besucher können hier Exponate zur Flora und Fauna der Inseln sowie zur lokalen Geschichte sehen. Das Zentrum spielt eine entscheidende Rolle beim Schutz der endemischen Saint-Lucia-Boa und des Kouwes-Leguans.",
+      hu: "A Maria-szigetek Bemutatóközpont Moule à Chique területén, Vieux Fort közelében található. Információs központként szolgál a Maria-szigetek Természetvédelmi Területhez, amely ritka hüllőfajok menedéke. A látogatók itt megtekinthetik a szigetek növény- és állatvilágát, valamint a helyi történelmet bemutató kiállításokat. A központ kulcsszerepet játszik az endemikus szent luciai boa és a Kouwes-leguán védelmében.",
+      ro: "Centrul Interpretativ al Insulelor Maria este situat în Moule à Chique, lângă Vieux Fort. Servește ca centru de informare pentru Rezervația Naturală a Insulelor Maria, un sanctuar pentru specii rare de reptile. Vizitatorii pot vedea aici exponate despre flora și fauna insulelor, precum și despre istoria locală. Centrul joacă un rol crucial în protejarea boei endemice din Sfânta Lucia și a iguanei Kouwes.",
+      en: "The Maria Islands Interpretive Centre is located in Moule à Chique, near Vieux Fort. It serves as the information hub for the Maria Islands Nature Reserve, a sanctuary for rare reptile species. Visitors can explore exhibits detailing the islands' unique flora and fauna, as well as local history. The centre plays a crucial role in the conservation of the endemic Saint Lucia racer snake and the Maria Islands whiptail lizard.",
+    },
+    factsAdvanced: {
+      de: ["Das Zentrum wird vom Saint Lucia National Trust verwaltet.", "Es informiert über die Maria Islands, die 1982 zum Naturschutzgebiet erklärt wurden.", "Hier lebt der Kouwes-Leguan, eine der seltensten Eidechsen der Welt.", "Die Maria Islands bestehen aus zwei kleinen Inseln: Maria Major und Maria Minor.", "Das Zentrum bietet geführte Touren zu den Inseln während der Trockenzeit an.", "Es liegt am südlichsten Punkt der Insel Saint Lucia."],
+      hu: ["A központot a Saint Lucia National Trust kezeli.", "Információt nyújt a Maria-szigetekről, amelyet 1982-ben nyilvánítottak védetté.", "Itt található a Kouwes-leguán, a világ egyik legritkább gyíkfaja.", "A Maria-szigetek két kis szigetből áll: Maria Major és Maria Minor.", "A központ vezetett túrákat szervez a szigetekre a száraz évszakban.", "Szent Lucia szigetének legdélebbi pontján helyezkedik el."],
+      ro: ["Centrul este administrat de Saint Lucia National Trust.", "Oferă informații despre Insulele Maria, declarate rezervație naturală în 1982.", "Adăpostește informații despre șopârla whiptail, una dintre cele mai rare din lume.", "Insulele Maria constau în două insule mici: Maria Major și Maria Minor.", "Centrul organizează tururi ghidate către insule în timpul sezonului uscat.", "Este situat în cel mai sudic punct al insulei Sfânta Lucia."],
+      en: ["The centre is managed by the Saint Lucia National Trust.", "It provides education on the Maria Islands, declared a nature reserve in 1982.", "The islands are home to the Saint Lucia racer, once the world's rarest snake.", "Maria Islands consists of two small islets: Maria Major and Maria Minor.", "Landing on the islands is only permitted with a licensed guide from the centre.", "It is situated at the southernmost tip of Saint Lucia at Moule à Chique."],
+    },
   },
   {
     id: "saintlucia-micoud-parish-church-landmarks-v2",
@@ -304,6 +484,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Micoud village", "East coast of island", "Religious center", "Historic building"],
     },
     imageHint: "Micoud Parish Church Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die St. Lucy Parish Church in Micoud ist ein historisches Wahrzeichen an der Ostküste von St. Lucia. Die Kirche ist der Heiligen Lucia gewidmet, der Namenspatronin der Insel. Das Gebäude ist ein Beispiel für die koloniale Kirchenarchitektur und dient seit Generationen als geistliches Zentrum für die Bewohner des Distrikts Micoud. Von ihrem Standort aus bietet sie einen Blick auf den Atlantischen Ozean.",
+      hu: "A Micoud-i Szent Lucia plébániatemplom történelmi jelentőségű épület Szent Lucia keleti partján. A templomot Szent Luciának, a sziget védőszentjének szentelték. Az épület a gyarmati egyházi építészet egyik szép példája, és generációk óta a Micoud negyed lakóinak lelki központja. Elhelyezkedése révén gyönyörű kilátást nyújt az Atlanti-óceánra.",
+      ro: "Biserica Parohială Sfânta Lucia din Micoud este un punct de reper istoric de pe coasta de est a insulei Sfânta Lucia. Biserica este dedicată Sfintei Lucia, patroana insulei. Clădirea este un exemplu de arhitectură bisericească colonială și servește ca centru spiritual pentru locuitorii districtului Micoud de generații întregi. De pe locația sa, oferă o vedere spre Oceanul Atlantic.",
+      en: "St. Lucy Parish Church in Micoud is a historic landmark located on the eastern coast of Saint Lucia. The church is dedicated to Saint Lucy, the patron saint of the island. The building exemplifies colonial ecclesiastical architecture and has served as the spiritual heart for the residents of the Micoud district for generations. Its coastal location offers views overlooking the Atlantic Ocean.",
+    },
+    factsAdvanced: {
+      de: ["Die Pfarrei Micoud wurde bereits im 18. Jahrhundert gegründet.", "Die Kirche ist nach der Heiligen Lucia von Syrakus benannt.", "Das heutige Steingebäude wurde nach Zerstörungen durch Stürme wiederaufgebaut.", "Micoud selbst wurde nach einem französischen Gouverneur der Insel benannt.", "Die Kirche ist ein wichtiger Ort für die Feierlichkeiten am Nationalfeiertag.", "Sie befindet sich im Zentrum des Dorfes Micoud an der Atlantikküste."],
+      hu: ["A micoudi plébániát már a 18. században megalapították.", "A templomot Syracuse-i Szent Luciáról nevezték el.", "A jelenlegi kőépületet viharok okozta pusztítások után építették újjá.", "Micoud várost a sziget egykori francia kormányzójáról nevezték el.", "A templom fontos helyszíne a nemzeti ünnepi megemlékezéseknek.", "Micoud falu központjában, az atlanti parton található."],
+      ro: ["Parohia Micoud a fost înființată încă din secolul al XVIII-lea.", "Biserica poartă numele Sfintei Lucia din Siracuza.", "Clădirea actuală din piatră a fost reconstruită după distrugerile provocate de furtuni.", "Micoud a fost numit după un fost guvernator francez al insulei.", "Biserica este un loc important pentru sărbătorirea Zilei Naționale.", "Este situată în centrul satului Micoud, pe coasta Atlanticului."],
+      en: ["The parish of Micoud was established as early as the 18th century.", "The church is named after Saint Lucy of Syracuse.", "The current stone structure was rebuilt following damage from historic storms.", "Micoud was named after Baron de Micoud, a French Governor of the island.", "The church is a focal point for Saint Lucia's National Day celebrations on Dec 13.", "It is positioned in the center of Micoud village on the windward coast."],
+    },
   },
   {
     id: "saintlucia-dennery-fish-market-landmarks-v2",
@@ -323,6 +515,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Trading center", "Location: Dennery", "Coastal location", "Economic hub"],
     },
     imageHint: "Dennery fish market building Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Fischmarkt von Dennery ist ein lebhaftes Zentrum des täglichen Lebens an der Ostküste von St. Lucia. Hier bringen lokale Fischer ihren täglichen Fang ein, der direkt an die Bewohner und Restaurants der Insel verkauft wird. Der Markt ist besonders bekannt für den Handel mit Thunfisch, Goldmakrele und Snapper. Er bietet Besuchern einen authentischen Einblick in die maritime Kultur und die Fischereiindustrie der Insel.",
+      hu: "A Dennery halpiac a napi élet nyüzsgő központja Szent Lucia keleti partján. A helyi halászok itt rakodják ki napi fogásukat, amelyet közvetlenül a lakosoknak és a sziget éttermeinek értékesítenek. A piac különösen híres a tonhal, az aranydurbincs és a sügér kereskedelméről. A látogatóknak hiteles betekintést nyújt a sziget tengeri kultúrájába és halászati iparába.",
+      ro: "Piața de pește din Dennery este un centru vibrant al vieții de zi cu zi de pe coasta de est a insulei Sfânta Lucia. Localnicii pescari își aduc aici captura zilnică, vândută direct rezidenților și restaurantelor de pe insulă. Piața este renumită în special pentru comerțul cu ton, doradă și snapper. Oferă vizitatorilor o privire autentică asupra culturii maritime și a industriei pescuitului de pe insulă.",
+      en: "The Dennery Fish Market is a bustling hub of daily life on the east coast of Saint Lucia. Local fishers bring in their daily catch here, which is sold directly to residents and island restaurants. The market is particularly known for tuna, mahi-mahi (dorado), and red snapper. It provides visitors with an authentic glimpse into the island's vibrant maritime culture and fishing industry.",
+    },
+    factsAdvanced: {
+      de: ["Dennery ist eines der produktivsten Fischereidörfer an der Ostküste.", "Der Markt wurde modernisiert, um bessere Kühl- und Hygieneeinrichtungen zu bieten.", "Samstags ist der Markt besonders belebt durch lokale Marktaktivitäten.", "Das jährliche 'Dennery Fish Festival' feiert die Bedeutung der Fischerei.", "Lokale Fischer nutzen traditionelle Pirogen für den Fang auf dem Atlantik.", "Der Markt befindet sich direkt am Ufer der Dennery Bay."],
+      hu: ["Dennery az egyik legtermékenyebb halászfalu a keleti parton.", "A piacot modernizálták a jobb hűtési és higiéniai feltételek érdekében.", "Szombatonként a piac különösen forgalmas a helyi árusok miatt.", "Az éves 'Dennery Hal Fesztivál' a halászat jelentőségét ünnepli.", "A helyi halászok hagyományos csónakokat (pirogue) használnak az Atlanti-óceánon.", "A piac közvetlenül a Dennery-öböl partján található."],
+      ro: ["Dennery este unul dintre cele mai productive sate de pescari de pe coasta de est.", "Piața a fost modernizată pentru a oferi facilități mai bune de răcire și igienă.", "Sâmbăta, piața este deosebit de animată de activitățile locale.", "Festivalul anual al peștelui din Dennery celebrează importanța pescuitului.", "Pescarii locali folosesc bărci tradiționale (pirogue) pentru pescuitul în Atlantic.", "Piața este situată direct pe malul golfului Dennery."],
+      en: ["Dennery is one of the most productive fishing communities on the windward coast.", "The market facility was upgraded with cold storage and hygienic processing areas.", "Saturdays are peak days for market activity and local trade.", "The village hosts the annual Dennery Fish Festival to honor the industry.", "Traditional wooden pirogues are still widely used by local Atlantic fishers.", "The market is located directly on the waterfront of Dennery Bay."],
+    },
   },
   {
     id: "saintlucia-castries-city-hall-landmarks-v2",
@@ -342,6 +546,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Capital authority", "Peynier Street", "Mayor's office", "Central Castries"],
     },
     imageHint: "Castries City Hall Saint Lucia building",
+    descriptionAdvanced: {
+      de: "Das Rathaus von Castries ist der administrative Sitz der Hauptstadt von St. Lucia. Das Gebäude befindet sich im Stadtzentrum und dient als Büro des Bürgermeisters sowie für Ratssitzungen. Die Architektur ist funktional und spiegelt die Bedeutung der Stadtverwaltung wider. Es ist ein zentraler Ort für lokale Regierungsangelegenheiten und öffentliche Bekanntmachungen in der geschäftigen Hauptstadt.",
+      hu: "Castries városháza Szent Lucia fővárosának adminisztratív központja. Az épület a városközpontban található, és a polgármesteri hivatalnak, valamint a tanácsi üléseknek ad otthont. Építészete funkcionális, tükrözve a városvezetés jelentőségét. A nyüzsgő fővárosban a helyi önkormányzati ügyek és nyilvános bejelentések központi helyszíne.",
+      ro: "Primăria din Castries este sediul administrativ al capitalei insulei Sfânta Lucia. Clădirea este situată în centrul orașului și găzduiește biroul primarului și ședințele consiliului local. Arhitectura sa este funcțională și reflectă importanța administrației municipale. Este un loc central pentru afacerile guvernamentale locale și anunțurile publice în capitala aglomerată.",
+      en: "Castries City Hall is the administrative seat of Saint Lucia's capital city. Located in the urban center, the building houses the Office of the Mayor and serves as the venue for municipal council meetings. Its architecture is functional, reflecting the importance of city governance. It stands as a central site for local government affairs and public announcements within the bustling capital.",
+    },
+    factsAdvanced: {
+      de: ["Das Rathaus befindet sich an der Kreuzung der Peynier und Louis Isaac Streets.", "Der Stadtrat von Castries verwaltet die städtischen Dienstleistungen der Hauptstadt.", "Castries wurde nach dem französischen Marineminister Charles Eugène Gabriel de La Croix de Castries benannt.", "Das Gebäude wird für offizielle Zeremonien und Empfänge genutzt.", "Es liegt in unmittelbarer Nähe zum Derek Walcott Square.", "Das heutige Gebäude ist Teil des Wiederaufbaus nach dem großen Brand von 1948."],
+      hu: ["A városháza a Peynier és Louis Isaac utcák kereszteződésénél található.", "A Castries-i Városi Tanács kezeli a főváros önkormányzati szolgáltatásait.", "Castries-t Charles Eugène Gabriel de La Croix de Castries francia tengerészeti miniszterről nevezték el.", "Az épületet hivatalos ceremóniákra és fogadásokra használják.", "A Derek Walcott tér közvetlen közelében helyezkedik el.", "A jelenlegi épület az 1948-as nagy tűzvész utáni újjáépítés része."],
+      ro: ["Primăria este situată la intersecția străzilor Peynier și Louis Isaac.", "Consiliul Municipal din Castries gestionează serviciile urbane ale capitalei.", "Castries a fost numit după ministrul francez al marinei, Charles Eugène Gabriel de La Croix de Castries.", "Clădirea este folosită pentru ceremonii oficiale și recepții.", "Se află în imediata apropiere a pieței Derek Walcott.", "Clădirea actuală face parte din eforturile de reconstrucție de după marele incendiu din 1948."],
+      en: ["City Hall is located at the corner of Peynier Street and Louis Isaac Street.", "The Castries Constituency Council (CCC) is headquartered here.", "Castries was named after the Marquis de Castries, a French Minister of Marine.", "The building hosts civic receptions and international diplomatic visits.", "It is situated within walking distance of the historic Derek Walcott Square.", "The current structure post-dates the devastating Great Fire of Castries in 1948."],
+    },
   },
   {
     id: "saintlucia-diamond-estate-mill-ruins-landmarks-v2",
@@ -361,6 +577,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Sugar mill ruin", "Location: Soufrière", "Botanical garden", "Colonial industry"],
     },
     imageHint: "Diamond Estate mill ruins Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die Ruinen der Mühle auf dem Diamond Estate sind Teil des Diamond Falls Botanical Gardens in Soufrière. Diese Überreste einer alten Zucker- und Kakaoplantage zeugen von der landwirtschaftlichen Vergangenheit der Insel. Das Anwesen wurde 1713 an die Familie Devaux vergeben und beherbergt heute ein restauriertes Wasserrad aus dem Jahr 1865. Die Ruinen bieten einen faszinierenden Einblick in die koloniale Wirtschaftsgeschichte.",
+      hu: "A Diamond-birtok malomromjai a Soufrière-ben található Diamond Falls Botanikus Kert részét képezik. Egy régi cukornád- és kakaóültetvény maradványai, amelyek a sziget mezőgazdasági múltjáról tanúskodnak. A birtokot 1713-ban adományozták a Devaux családnak, és ma egy 1865-ből származó, restaurált vízikereket is láthatunk itt. A romok lenyűgöző betekintést nyújtanak a gyarmati gazdaságtörténetbe.",
+      ro: "Ruinele morii de pe proprietatea Diamond fac parte din Grădina Botanică Diamond Falls din Soufrière. Aceste vestigii ale unei vechi plantații de zahăr și cacao depun mărturie despre trecutul agricol al insulei. Proprietatea a fost acordată familiei Devaux în 1713 și găzduiește o roată de apă restaurată din 1865. Ruinele oferă o privire fascinantă asupra istoriei economice coloniale.",
+      en: "The Diamond Estate Mill Ruins are part of the Diamond Falls Botanical Gardens in Soufrière. These remains of a former sugar and cocoa plantation bear witness to the island's agricultural heritage. The estate was granted to the Devaux family in 1713 by King Louis XIV and features a restored waterwheel dating back to 1865. The ruins provide a fascinating look into colonial economic history and industrial techniques.",
+    },
+    factsAdvanced: {
+      de: ["Das Diamond Estate wurde ursprünglich im Jahr 1713 durch den französischen König Ludwig XIV. verliehen.", "Das markante Wasserrad wurde 1865 installiert, um Energie für die Mühle zu gewinnen.", "Auf dem Gelände wurden früher Zuckerrohr, Kakao und Kokosnüsse verarbeitet.", "Die Mühle nutzte die Wasserkraft des nahegelegenen Flusses.", "Das Anwesen beherbergt auch die berühmten Diamond Falls und Mineralbäder.", "Es gilt als eine der ältesten und am besten erhaltenen historischen Stätten der Insel."],
+      hu: ["A Diamond-birtokot eredetileg 1713-ban XIV. Lajos francia király adományozta.", "A jellegzetes vízikereket 1865-ben telepítették a malom energiájának biztosítására.", "A területen korábban cukornádat, kakaót és kókuszdiót dolgoztak fel.", "A malom a közeli folyó vízienergiáját használta fel.", "A birtokon találhatók a híres Diamond-vízesés és az ásványi fürdők is.", "A sziget egyik legrégebbi és legjobb állapotban fennmaradt történelmi helyszíneként tartják számon."],
+      ro: ["Proprietatea Diamond a fost acordată inițial în 1713 de regele francez Ludovic al XIV-lea.", "Roata de apă distinctivă a fost instalată în 1865 pentru a furniza energie morii.", "Pe teren au fost procesate în trecut trestie de zahăr, cacao și nuci de cocos.", "Moara utiliza puterea apei de la râul din apropiere.", "Proprietatea găzduiește, de asemenea, faimoasele Cascade Diamond și băile minerale.", "Este considerat unul dintre cele mai vechi și mai bine conservate situri istorice de pe insulă."],
+      en: ["The Diamond Estate was originally granted in 1713 by King Louis XIV of France.", "The prominent waterwheel was installed in 1865 to power the estate's mill.", "The mill was historically used for crushing sugar cane and processing cocoa.", "Hydraulic power for the wheel was diverted from the Soufrière River.", "The estate is also home to the Diamond Falls and historic Mineral Baths built in 1784.", "It remains one of the few examples of a complete colonial-era agro-industrial complex."],
+    },
   },
   {
     id: "saintlucia-soufriere-town-hall-landmarks-v2",
@@ -380,6 +608,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Town government", "Near waterfront", "Central Soufrière", "Administrative building"],
     },
     imageHint: "Soufriere Town Hall Saint Lucia building",
+    descriptionAdvanced: {
+      de: "Das Rathaus von Soufrière ist ein wichtiges Verwaltungsgebäude in der ehemaligen Hauptstadt von St. Lucia. Das Gebäude befindet sich in der Nähe des Hafens und dient als Sitz der lokalen Verwaltung für den Distrikt Soufrière. Mit seiner zentralen Lage ist es ein wichtiger Anlaufpunkt für Bürger und ein Symbol für die bürgerliche Ordnung in der historischen Stadt.",
+      hu: "Soufrière városháza Szent Lucia egykori fővárosának fontos adminisztratív épülete. A kikötő közelében található, és a Soufrière negyed helyi önkormányzatának székhelye. Központi elhelyezkedése révén a polgárok fontos ügyintézési helyszíne és a polgári rend szimbóluma ebben a történelmi városban.",
+      ro: "Primăria din Soufrière este o clădire administrativă importantă în fosta capitală a insulei Sfânta Lucia. Clădirea este situată lângă port și servește ca sediu al administrației locale pentru districtul Soufrière. Cu locația sa centrală, este un punct de referință important pentru cetățeni și un simbol al ordinii civice în orașul istoric.",
+      en: "Soufrière Town Hall is a key administrative building in Saint Lucia's former capital. Situated near the waterfront and the town square, it serves as the seat of local government for the Soufrière District Council. Its central location makes it a vital point for civic affairs and a symbol of municipal governance within this historic town.",
+    },
+    factsAdvanced: {
+      de: ["Soufrière war von 1746 bis 1792 die Hauptstadt von St. Lucia.", "Das Rathaus beherbergt Büros des Soufrière Regional Development Foundation.", "Es befindet sich in der Front Street, direkt am Hafen.", "Das Gebäude wird oft für kommunale Versammlungen und öffentliche Feiern genutzt.", "Die Stadt Soufrière wurde 1746 von den Franzosen offiziell gegründet.", "Das Gebäude liegt in Sichtweite der berühmten Pitons."],
+      hu: ["Soufrière 1746 és 1792 között Szent Lucia fővárosa volt.", "A városháza a Soufrière Regionális Fejlesztési Alapítvány irodáinak is otthont ad.", "A Front Streeten található, közvetlenül a kikötő mellett.", "Az épületet gyakran használják közösségi gyűlésekre és nyilvános ünnepségekre.", "Soufrière várost 1746-ban alapították hivatalosan a franciák.", "Az épületből rálátni a híres Piton-hegyekre."],
+      ro: ["Soufrière a fost capitala insulei Sfânta Lucia între 1746 și 1792.", "Primăria găzduiește birouri ale Fundației de Dezvoltare Regională Soufrière.", "Se află pe Front Street, chiar lângă port.", "Clădirea este folosită frecvent pentru întâlniri comunitare și celebrări publice.", "Orașul Soufrière a fost fondat oficial de francezi în 1746.", "Clădirea se află la mică distanță de faimoasele vârfuri Pitons."],
+      en: ["Soufrière served as the capital of Saint Lucia during the French rule from 1746 to 1792.", "The Town Hall houses the offices for the Soufrière Regional Development Foundation.", "It is located on Bay Street, providing easy access to the town's main pier.", "The venue is frequently used for town hall meetings and local government forums.", "The town itself was officially founded by French settlers in 1746.", "From its location, the iconic Petit Piton is clearly visible to the south."],
+    },
   },
   {
     id: "saintlucia-gros-islet-waterfront-landmarks-v2",
@@ -399,6 +639,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Fishing village feel", "Coastal area", "North St. Lucia", "Cultural hub"],
     },
     imageHint: "Gros Islet waterfront Saint Lucia view",
+    descriptionAdvanced: {
+      de: "Das Ufer von Gros Islet im Norden von St. Lucia ist bekannt für seine lebhafte Atmosphäre und den Blick auf die Rodney Bay. Der Bereich umfasst den Sandstrand sowie zahlreiche Fischrestaurants und Bars. Er ist ein beliebter Treffpunkt für Einheimische und Touristen gleichermaßen, insbesondere während der berühmten Friday Night Jump Up Straßenfeste. Das Ufer verbindet das traditionelle Fischerdorf mit dem modernen Tourismus.",
+      hu: "Gros Islet tengerpartja Szent Lucia északi részén híres élénk hangulatáról és a Rodney-öbölre nyíló kilátásáról. A terület homokos strandot, valamint számos haléttermet és bárt foglal magában. Népszerű találkozóhely a helyiek és a turisták számára egyaránt, különösen a híres Friday Night Jump Up utcafesztiválok idején. A tengerpart összeköti a hagyományos halászfalut a modern turizmussal.",
+      ro: "Țărmul din Gros Islet, în nordul insulei Sfânta Lucia, este cunoscut pentru atmosfera sa plină de viață și vederea spre Golful Rodney. Zona cuprinde plaja cu nisip și numeroase restaurante cu specific pescăresc și baruri. Este un loc de întâlnire popular atât pentru localnici, cât și pentru turiști, în special în timpul celebrelor petreceri de stradă Friday Night Jump Up. Țărmul îmbină tradiția satului de pescari cu turismul modern.",
+      en: "The Gros Islet Waterfront in northern Saint Lucia is renowned for its lively atmosphere and sweeping views of Rodney Bay. The area features a sandy beach strip alongside numerous local seafood restaurants and vibrant bars. It serves as a popular social hub for both residents and visitors, especially during the famous Friday Night Jump Up street parties. The waterfront seamlessly connects the traditional fishing village with the island's modern tourism sector.",
+    },
+    factsAdvanced: {
+      de: ["Gros Islet ist eines der ältesten Dörfer auf St. Lucia, erstmals 1717 auf Karten verzeichnet.", "Die berühmte Friday Night Jump Up Straßenparty findet in den Straßen am Ufer statt.", "Vom Ufer aus hat man einen direkten Blick auf die Pigeon Island National Landmark.", "Der Bereich ist ein wichtiger Anlegepunkt für kleine Fischerboote.", "Hier befinden sich einige der besten Fischrestaurants der Insel.", "Das Wasser in der Bucht ist meist ruhig und ideal zum Schwimmen."],
+      hu: ["Gros Islet az egyik legrégebbi falu Szent Lucián, először 1717-ben tüntették fel térképeken.", "A híres péntek esti Jump Up utcai parti a tengerpart közeli utcákban zajlik.", "A tengerpartról közvetlen kilátás nyílik a Pigeon Island Nemzeti Emlékhelyre.", "A terület a kis halászcsónakok fontos kikötőhelye.", "Itt található a sziget néhány legjobb halétterme.", "Az öböl vize általában nyugodt, így ideális úszáshoz."],
+      ro: ["Gros Islet este unul dintre cele mai vechi sate din Sfânta Lucia, apărând pe hărți din 1717.", "Celebra petrecere de stradă Friday Night Jump Up are loc în străzile de lângă țărm.", "De pe țărm se poate vedea direct monumentul național Pigeon Island.", "Zona este un punct de acostare important pentru bărcile mici de pescuit.", "Aici se află unele dintre cele mai bune restaurante cu fructe de mare de pe insulă.", "Apa din golf este de obicei calmă și ideală pentru înot."],
+      en: ["Gros Islet is one of the island's oldest settlements, first appearing on maps in 1717.", "The world-renowned Friday Night Jump Up street party centers on the waterfront streets.", "The waterfront offers a panoramic view of Pigeon Island National Landmark.", "Local fishers still launch traditional wooden boats from these shores daily.", "It is home to the historic St. Joseph the Worker Catholic Church, founded in 1749.", "The area was a primary base for the US Navy during World War II."],
+    },
   },
   {
     id: "saintlucia-rodney-bay-marina-pier-landmarks-v2",
@@ -418,6 +670,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Marina pier", "Sailing tourism", "Rodney Bay", "Modern structure"],
     },
     imageHint: "Rodney Bay Marina pier Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Steg der Rodney Bay Marina ist ein erstklassiger Anlegeplatz für Yachten und Segelboote im Norden von St. Lucia. Die Marina gilt als eine der modernsten in der Karibik und ist das Ziel der jährlichen Atlantic Rally for Cruisers (ARC). Besucher finden hier eine exzellente Infrastruktur mit Restaurants, Geschäften und Wartungsservices. Der Pier ist ein Symbol für den Status der Insel als führendes Segelrevier.",
+      hu: "A Rodney-öböl kikötőmólója Szent Lucia északi részén a jachtok és vitorlások elsőrangú kikötőhelye. A kikötő a Karib-térség egyik legmodernebbje, és az éves Atlantic Rally for Cruisers (ARC) vitorlásverseny célállomása. A látogatók kiváló infrastruktúrát találnak itt éttermekkel, üzletekkel és karbantartási szolgáltatásokkal. A móló a sziget vezető vitorlázó célpont státuszát szimbolizálja.",
+      ro: "Mollul Marinei din Golful Rodney este un loc de acostare de primă clasă pentru iahturi și ambarcațiuni cu vele în nordul insulei Sfânta Lucia. Marina este considerată una dintre cele mai moderne din Caraibe și este destinația finală a raliului anual Atlantic Rally for Cruisers (ARC). Vizitatorii găsesc aici o infrastructură excelentă cu restaurante, magazine și servicii de întreținere. Pier-ul este un simbol al statutului insulei ca destinație nautică de top.",
+      en: "The Rodney Bay Marina Pier is a premier docking facility for yachts and sailing vessels in northern Saint Lucia. Recognized as one of the most advanced marinas in the Caribbean, it serves as the official finish line for the annual Atlantic Rally for Cruisers (ARC). The pier offers world-class infrastructure, including upscale restaurants, shops, and technical services. It stands as a symbol of the island's status as a leading global yachting destination.",
+    },
+    factsAdvanced: {
+      de: ["Die Marina wurde in den 1980er Jahren gebaut und 2007 umfassend modernisiert.", "Sie ist der Zielpunkt der ARC, die jedes Jahr in Las Palmas startet.", "Die Marina verfügt über 253 Liegeplätze für Yachten verschiedener Größen.", "Hier können Superyachten mit einer Länge von bis zu 85 Metern anlegen.", "Das Gelände beherbergt eine Werft mit einem 75-Tonnen-Lift.", "Sie liegt in einer künstlich angelegten Lagune, die Schutz vor Stürmen bietet."],
+      hu: ["A kikötő az 1980-as években épült, és 2007-ben teljes körűen modernizálták.", "Ez az ARC vitorlásverseny célpontja, amely minden évben Las Palmasból indul.", "A kikötő 253 horgonyzóhellyel rendelkezik különböző méretű jachtok számára.", "Akár 85 méter hosszú szuperjachtok is kiköthetnek itt.", "A területen egy hajógyár is működik 75 tonnás emelővel.", "Egy mesterséges lagúnában található, amely védelmet nyújt a viharok ellen."],
+      ro: ["Marina a fost construită în anii 1980 și modernizată complet în 2007.", "Este punctul de sosire pentru ARC, care pornește în fiecare an din Las Palmas.", "Marina dispune de 253 de dane pentru iahturi de diferite dimensiuni.", "Aici pot acosta super-iahturi cu o lungime de până la 85 de metri.", "Incinta găzduiește un șantier naval dotat cu un lift de 75 de tone.", "Este situată într-o lagună artificială care oferă protecție împotriva furtunilor."],
+      en: ["The marina was originally constructed in the 1980s and extensively renovated in 2007.", "It is the Caribbean home for the Atlantic Rally for Cruisers (ARC) since 1990.", "The facility offers 253 slips, including 32 for superyachts up to 280 feet.", "It features a full-service boatyard with a 75-ton travel lift.", "The lagoon is man-made, created by dredging the area between the mainland and Pigeon Island.", "The marina is designated as a port of entry with on-site customs and immigration."],
+    },
   },
   {
     id: "saintlucia-pigeon-island-quarters-ruins-landmarks-v2",
@@ -437,6 +701,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["British military ruin", "18th century", "Pigeon Island", "Historic structures"],
     },
     imageHint: "Pigeon Island Officers Quarters ruins Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die Ruinen der Offiziersunterkünfte auf Pigeon Island sind bedeutende Überreste der britischen Militärpräsenz im 18. Jahrhundert. Sie dienten der Unterbringung der Garnison, die die strategisch wichtige Rodney Bay bewachte. Die steinernen Strukturen vermitteln einen Eindruck vom täglichen Leben der Soldaten während der Napoleonischen Kriege. Heute sind sie Teil des Pigeon Island National Landmark und ein wichtiges historisches Denkmal.",
+      hu: "A Pigeon-szigeti tiszti lakások romjai a 18. századi brit katonai jelenlét jelentős maradványai. A stratégiailag fontos Rodney-öblöt őrző helyőrség elszállásolására szolgáltak. A kőszerkezetek bepillantást engednek a katonák mindennapi életébe a napóleoni háborúk idején. Ma a Pigeon Island Nemzeti Emlékhely részét képezik, és fontos történelmi műemlékek.",
+      ro: "Ruinele cartierelor ofițerilor de pe Insula Pigeon sunt vestigii semnificative ale prezenței militare britanice din secolul al XVIII-lea. Acestea serveau la cazarea garnizoanei care păzea Golful Rodney, strategic important. Structurile din piatră oferă o imagine a vieții de zi cu zi a soldaților în timpul războaielor napoleoniene. Astăzi, ele fac parte din Monumentul Național Pigeon Island și sunt un monument istoric important.",
+      en: "The Officers' Quarters Ruins on Pigeon Island are significant remains of the British military presence during the 18th and 19th centuries. These structures housed the garrison tasked with defending the strategically vital Rodney Bay. The stone foundations and crumbling walls offer a stark look into the daily lives of soldiers during the Napoleonic Wars. Today, they are a central feature of the Pigeon Island National Landmark.",
+    },
+    factsAdvanced: {
+      de: ["Die Gebäude wurden hauptsächlich zwischen 1778 und 1812 errichtet.", "Admiral Rodney nutzte Pigeon Island als Basis für die Schlacht von Les Saintes (1782).", "Die Unterkünfte bestanden aus Stein, um Hurrikanen und Bränden zu widerstehen.", "Pigeon Island wurde erst 1972 durch einen künstlichen Damm mit dem Festland verbunden.", "Die Ruinen sind heute eine beliebte Kulisse für kulturelle Veranstaltungen.", "Der Saint Lucia National Trust verwaltet das gesamte historische Gelände."],
+      hu: ["Az épületek többsége 1778 és 1812 között épült.", "Rodney admirális bázisként használta a szigetet az 1782-es Les Saintes-i csata idején.", "A szállások kőből készültek, hogy ellenálljanak a hurrikánoknak és tüzeknek.", "Pigeon-szigetet csak 1972-ben kötötték össze a szárazfölddel egy mesterséges gáttal.", "A romok ma népszerű helyszínei különféle kulturális rendezvényvényeknek.", "A teljes történelmi területet a Saint Lucia National Trust kezeli."],
+      ro: ["Clădirile au fost ridicate în principal între anii 1778 și 1812.", "Amiralul Rodney a folosit Insula Pigeon ca bază pentru Bătălia de la Les Saintes (1782).", "Cartierele au fost construite din piatră pentru a rezista uraganelor și incendiilor.", "Insula Pigeon a fost conectată la uscat printr-un dig artificial abia în 1972.", "Ruinele sunt astăzi un decor popular pentru evenimente culturale.", "Saint Lucia National Trust administrează întregul sit istoric."],
+      en: ["The primary construction of these military quarters occurred between 1778 and 1812.", "Admiral George Rodney monitored the French fleet from here before the Battle of the Saintes.", "The buildings were constructed using local stone and ballast bricks from ships.", "Pigeon Island was joined to the mainland by a man-made causeway in 1972.", "The ruins provide the main stage for the annual Saint Lucia Jazz & Arts Festival.", "The site was designated a National Landmark in 1982 by the Saint Lucia National Trust."],
+    },
   },
   {
     id: "saintlucia-morne-fortune-cemetery-landmarks-v2",
@@ -456,6 +732,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Fallen soldiers", "Location: Morne Fortune", "Colonial history", "Historic site"],
     },
     imageHint: "Morne Fortune Military Cemetery Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Militärfriedhof auf dem Morne Fortune ist eine historische Begräbnisstätte oberhalb von Castries. Hier ruhen Soldaten und Offiziere, die bei den zahlreichen Kämpfen zwischen Franzosen und Briten um die Insel fielen. Der Friedhof ist Teil der ehemaligen militärischen Befestigungsanlagen und bietet einen ruhigen Ort des Gedenkens. Er ist ein Zeugnis der turbulenten Kolonialgeschichte von St. Lucia.",
+      hu: "A Morne Fortune katonai temető egy történelmi sírkert Castries felett. Itt nyugszanak azok a katonák és tisztek, akik a szigetért vívott számos francia-brit összecsapásban estek el. A temető a korábbi katonai erődítmények részét képezi, és nyugodt emlékhelyként szolgál. Szent Lucia viharos gyarmati múltjának egyik legfontosabb tanúja.",
+      ro: "Cimitirul Militar de pe Morne Fortune este un loc de veci istoric situat deasupra orașului Castries. Aici odihnesc soldați și ofițeri care au căzut în numeroasele lupte dintre francezi și britanici pentru controlul insulei. Cimitirul face parte din fostele fortificații militare și oferă un loc liniștit de comemorare. Este o mărturie a istoriei coloniale turbulente a insulei Sfânta Lucia.",
+      en: "The Morne Fortune Military Cemetery is a historic burial ground overlooking the city of Castries. It is the final resting place for soldiers and officers who perished during the numerous 18th and 19th-century battles between the French and British for island control. Part of the larger fortification complex, the cemetery offers a somber site for reflection and stands as a testament to Saint Lucia's turbulent colonial history.",
+    },
+    factsAdvanced: {
+      de: ["Morne Fortune bedeutet 'Hügel des Glücks', war aber Schauplatz blutiger Kämpfe.", "Der Friedhof beherbergt Gräber aus dem späten 18. und dem 19. Jahrhundert.", "Hier ist unter anderem der Gouverneur Sir John Moore begraben.", "Die Anlage bietet einen weiten Blick über den Hafen von Castries.", "Der Friedhof liegt in der Nähe des Government House, der Residenz des Generalgouverneurs.", "Er wird vom National Trust als Teil des historischen Ensembles gepflegt."],
+      hu: ["A Morne Fortune jelentése 'Szerencse-domb', bár véres csaták helyszíne volt.", "A temetőben a 18. század végéről és a 19. századból származó sírok találhatók.", "Többek között Sir John Moore tábornok is itt nyugszik.", "A helyszínről széles kilátás nyílik Castries kikötőjére.", "A temető a Government House, a főkormányzó rezidenciája közelében található.", "A National Trust gondozza mint a történelmi együttes részét."],
+      ro: ["Morne Fortune înseamnă 'Dealul Norocului', deși a fost scena unor lupte sângeroase.", "Cimitirul adăpostește morminte de la sfârșitul secolului al XVIII-lea și din secolul al XIX-lea.", "Printre cei îngropați aici se numără și guvernatorul Sir John Moore.", "Situl oferă o vedere panoramică asupra portului Castries.", "Cimitirul se află lângă Government House, reședința Guvernatorului General.", "Este întreținut de National Trust ca parte a ansamblului istoric."],
+      en: ["The name Morne Fortune translates to 'Hill of Good Luck,' ironically given its violent past.", "The cemetery contains burials dating from the late 1700s through the mid-1800s.", "It includes a memorial to the Royal Inniskilling Fusiliers who captured the hill in 1796.", "The site offers a strategic vantage point overlooking the Castries harbor and northern coast.", "The cemetery is situated near the official residence of the Governor General.", "Many headstones mark deaths from yellow fever, which devastated European troops."],
+    },
   },
   {
     id: "saintlucia-castries-waterfront-obelisk-landmarks-v2",
@@ -475,6 +763,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Harbor waterfront", "Commemorative obelisk", "Central Castries", "Stone monument"],
     },
     imageHint: "Castries waterfront obelisk monument Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Obelisk am Ufer von Castries ist ein markantes Denkmal in der Nähe des Hafens der Hauptstadt. Er erinnert an die gefallenen Soldaten und Seeleute sowie an wichtige Ereignisse in der Geschichte von St. Lucia. Das Denkmal steht in einem kleinen Parkbereich und ist ein Ort des offiziellen Gedenkens während nationaler Feiertage. Es symbolisiert die Standhaftigkeit und die maritime Tradition der Inselnation.",
+      hu: "A Castries-i vízparti obeliszk egy jellegzetes emlékmű a főváros kikötője közelében. Az elesett katonákra és tengerészekre, valamint Szent Lucia történelmének fontos eseményeire emlékeztet. Az emlékmű egy kis parkos területen áll, és a nemzeti ünnepek idején a hivatalos megemlékezések helyszíne. A szigetország kitartását és tengeri hagyományait szimbolizálja.",
+      ro: "Obeliscul de pe faleza din Castries este un monument distinctiv situat lângă portul capitalei. Acesta onorează soldații și marinarii căzuți, precum și evenimente importante din istoria insulei Sfânta Lucia. Monumentul se află într-o mică zonă de parc și este un loc de comemorare oficială în timpul sărbătorilor naționale. Simbolizează reziliența și tradiția maritimă a națiunii insulare.",
+      en: "The Castries Waterfront Obelisk is a prominent monument located near the capital city's busy harbor. It honors fallen service members and commemorates significant events in Saint Lucia's history. Situated within a manicured park area, the obelisk serves as a site for official memorial ceremonies during national holidays. It stands as a symbol of the island nation's fortitude and its deep-rooted maritime traditions.",
+    },
+    factsAdvanced: {
+      de: ["Der Obelisk befindet sich in der Nähe des Terminals für Kreuzfahrtschiffe.", "Er wurde zu Ehren der Handelsmarine und der Streitkräfte errichtet.", "Das Denkmal ist aus Stein gefertigt und trägt Inschriften zur Geschichte.", "Es ist ein zentraler Punkt für Paraden am Remembrance Day.", "Der Bereich um den Obelisken bietet einen Blick auf die ankommenden Schiffe.", "Das Denkmal wurde als Teil der Stadtverschönerung im 20. Jahrhundert errichtet."],
+      hu: ["Az obeliszk a luxushajó-terminál közelében található.", "A kereskedelmi tengerészet és a fegyveres erők tiszteletére emelték.", "Az emlékmű kőből készült, és történelmi feliratokat hordoz.", "Központi helyszíne az emlékezés napján (Remembrance Day) tartott díszszemléknek.", "Az obeliszk környékéről rálátni a kikötőbe érkező hajókra.", "Az emlékművet a 20. századi városrendezés részeként állították fel."],
+      ro: ["Obeliscul este situat în apropierea terminalului pentru nave de croazieră.", "A fost ridicat în cinstea marinei comerciale și a forțelor armate.", "Monumentul este realizat din piatră și poartă inscripții istorice.", "Este un punct central pentru paradele de Ziua Comemorării.", "Zona din jurul obeliscului oferă o vedere spre navele care intră în port.", "Monumentul a fost ridicat ca parte a înfrumusețării orașului în secolul al XX-lea."],
+      en: ["The obelisk is situated along the Northern Wharf near the Pointe Seraphine entrance.", "It serves as a memorial to the merchant seamen and soldiers who served in the World Wars.", "The monument is a key location for the annual Remembrance Day wreath-laying ceremonies.", "It was constructed using durable stone to withstand the coastal environment.", "The obelisk is located near the site of the former US military base during WWII.", "The surrounding area was extensively redeveloped as part of the Castries waterfront project."],
+    },
   },
   {
     id: "saintlucia-eudovic-art-studio-landmarks-v2",
@@ -494,6 +794,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Vincent Eudovic", "Wood carving art", "Local woods", "Cultural center"],
     },
     imageHint: "Eudovic Art Studio Saint Lucia gallery",
+    descriptionAdvanced: {
+      de: "Das Eudovic Art Studio in Goodlands ist ein bedeutendes Zentrum für Holzschnitzerei in St. Lucia. Es wurde vom Meisterschnitzer Vincent Joseph Eudovic gegründet und präsentiert Skulpturen aus lokalen Hölzern wie Mahagoni und Laurier Canelle. Besucher können den Künstlern bei der Arbeit zusehen und handgefertigte Unikate erwerben. Die Galerie gilt als wichtiges kulturelles Ziel nahe der Hauptstadt Castries.",
+      hu: "Az Eudovic Art Studio egy híres fafaragó műhely és galéria a Castries melletti Goodlands területén. Az alapító, Vincent Joseph Eudovic mester fafaragó, aki helyi keményfákból készít absztrakt szobrokat. A látogatók betekintést nyerhetnek a faragási folyamatba és megismerhetik a sziget művészeti örökségét. A stúdió több évtizede meghatározó szerepet tölt be Saint Lucia kulturális életében.",
+      ro: "Eudovic Art Studio din Goodlands este un centru de referință pentru sculptura în lemn din Sfânta Lucia. Fondat de maestrul Vincent Joseph Eudovic, studioul expune opere realizate din esențe locale precum mahonul și cedrul. Vizitatorii pot observa artiștii lucrând și pot învăța despre tehnicile tradiționale de sculptură. Galeria este situată pe un deal oferind vederi panoramice spre Castries.",
+      en: "Eudovic Art Studio in Goodlands is a premier woodcarving gallery and workshop in Saint Lucia. Established by master carver Vincent Joseph Eudovic, it showcases intricate sculptures crafted from local hardwoods like mahogany and cedar. Visitors can observe the artistic process and explore a wide range of handmade Caribbean art. The studio serves as a significant cultural landmark near the capital, Castries.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet in den 1970er Jahren", "Verwendet heimische Hölzer wie Laurier Canelle", "Befindet sich im Stadtteil Goodlands", "Geführt von Vincent Joseph Eudovic", "Bietet geführte Touren durch die Werkstatt", "Präsentiert internationale Ausstellungsstücke"],
+      hu: ["Az 1970-es években alapították", "Helyi trópusi keményfákat használnak", "Goodlands dombjain található", "Vincent Joseph Eudovic alapította", "Látogatható munkafolyamatokat kínál", "Díjnyertes szobrokat mutat be"],
+      ro: ["Fondat în anii 1970", "Utilizează lemn local precum Laurier Canelle", "Situat în districtul Goodlands", "Creat de maestrul Vincent Joseph Eudovic", "Oferă tururi în zona de lucru", "Expune sculpturi premiate internațional"],
+      en: ["Founded in the 1970s", "Uses local woods like Laurier Canelle", "Located in the Goodlands area", "Established by Vincent Joseph Eudovic", "Features live carving demonstrations", "Showcases internationally exhibited art"],
+    },
   },
   {
     id: "saintlucia-praslin-bay-bridge-landmarks-v2",
@@ -513,6 +825,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["East coast road", "Over Praslin Bay", "Infrastructure structure", "Rural region"],
     },
     imageHint: "Praslin Bay bridge Saint Lucia road",
+    descriptionAdvanced: {
+      de: "Die Praslin Bay Bridge ist ein wichtiges Infrastrukturobjekt an der Ostküstenstraße von St. Lucia. Sie überspannt den Praslin River nahe dem gleichnamigen Fischerdorf und bietet Ausblicke auf die Mangroven der Bucht. Die Brücke verbindet den Norden der Insel mit dem südlichen Distrikt Micoud. Die Umgebung ist bekannt für ihre ökologische Vielfalt und Seegraswiesen.",
+      hu: "A Praslin Bay híd Saint Lucia keleti partvidéki útvonalának egyik kulcsfontosságú eleme. A híd a Praslin-folyó felett ível át, közel az azonos nevű halászfaluhoz és az öbölhöz. Fontos közlekedési kapcsolatot biztosít Castries és a sziget déli települései között. A közeli öböl híres a mangroveerdőiről és a védett tengeri élővilágáról.",
+      ro: "Podul din Golful Praslin este o structură feroviară vitală pe drumul coastei de est a insulei Sfânta Lucia. Traversează râul Praslin în apropierea satului de pescari cu același nume, facilitând accesul spre sud. Zona este renumită pentru biodiversitatea sa marină și ecosistemele de mangrove. Podul oferă călătorilor o perspectivă asupra peisajului rural de est.",
+      en: "Praslin Bay Bridge is a vital infrastructure component on Saint Lucia's East Coast Road. It spans the Praslin River near the fishing village of Praslin, connecting the northern regions to the southern districts. The surrounding bay is noted for its ecological importance, including extensive mangrove forests. This bridge provides essential transit for residents and visitors traveling along the Atlantic coast.",
+    },
+    factsAdvanced: {
+      de: ["Überquert den Praslin River", "Teil der East Coast Main Road", "Liegt im Distrikt Micoud", "Nahe dem Fischerdorf Praslin", "Wichtig für den regionalen Handel", "Bietet Zugang zur Praslin Island"],
+      hu: ["A Praslin-folyót szeli át", "A keleti parti főút része", "Micoud körzetben található", "Közel fekszik Praslin halászfaluhoz", "Fontos logisztikai útvonal", "Praslin-sziget közelében található"],
+      ro: ["Traversează râul Praslin", "Face parte din East Coast Main Road", "Situat în districtul Micoud", "Lângă satul de pescari Praslin", "Esențial pentru transportul regional", "Acces spre insula Praslin"],
+      en: ["Spans the Praslin River", "Part of the East Coast Main Road", "Located in Micoud District", "Near Praslin fishing village", "Crucial for regional logistics", "Close to Praslin Island protected area"],
+    },
   },
   {
     id: "saintlucia-vieux-fort-town-hall-landmarks-v2",
@@ -532,6 +856,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["South of the island", "Vieux Fort center", "Administrative building", "Municipal seat"],
     },
     imageHint: "Vieux Fort Town Hall Saint Lucia building",
+    descriptionAdvanced: {
+      de: "Das Rathaus von Vieux Fort ist das administrative Zentrum der zweitgrößten Stadt von St. Lucia. Das Gebäude beherbergt städtische Ämter und dient als Treffpunkt für lokale Verwaltungsangelegenheiten. Es befindet sich im historischen Stadtkern nahe dem Hafen und dem Marktplatz. Die Architektur spiegelt die koloniale Geschichte und die moderne Funktion der Stadt wider.",
+      hu: "Vieux Fort városháza Saint Lucia második legnagyobb városának közigazgatási központja. Az épület helyet ad a városi tanácsnak és fontos közösségi események helyszíne. A város történelmi negyedében található, sétatávolságra a kikötőtől és apiactól. Meghatározó szerepet tölt be a déli régió politikai és társadalmi életében.",
+      ro: "Primăria din Vieux Fort reprezintă centrul administrativ al celui de-al doilea oraș ca mărime din Sfânta Lucia. Clădirea găzduiește consiliul municipal și birourile guvernamentale locale. Este situată în inima orașului, facilitând accesul cetățenilor la serviciile publice. Arhitectura sa este un simbol al guvernării locale în regiunea de sud.",
+      en: "Vieux Fort Town Hall is the administrative hub of Saint Lucia's second-largest town. The building houses municipal offices and serves as a central point for local government activities and community meetings. Located in the town's historic core, it is within reach of the commercial port and marketplace. It plays a key role in the governance of the southern district.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Vieux Fort South Council", "Liegt im Süden von St. Lucia", "Zentrum lokaler Verwaltung", "Nahe dem Hewanorra Flughafen", "Austragungsort öffentlicher Versammlungen", "Wichtig für die Stadtplanung"],
+      hu: ["A Vieux Fort South tanács székhelye", "Saint Lucia déli részén található", "Helyi közigazgatási központ", "Közel van a Hewanorra repülőtérhez", "Közösségi gyűlések helyszíne", "Városrendezési központ"],
+      ro: ["Sediul Consiliului Vieux Fort South", "Situat în sudul insulei", "Centru de administrare locală", "Aproape de Aeroportul Hewanorra", "Gazdă pentru întâlniri publice", "Punct cheie în urbanismul local"],
+      en: ["Home to Vieux Fort South Council", "Located in the south of Saint Lucia", "Central administrative facility", "Near Hewanorra International Airport", "Venue for community gatherings", "Key to local urban planning"],
+    },
   },
   {
     id: "saintlucia-cul-de-sac-bridge-landmarks-v2",
@@ -551,6 +887,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Cul de Sac Valley", "Traffic bottleneck", "Near Castries", "Bridges the river"],
     },
     imageHint: "Cul de Sac bridge Saint Lucia road view",
+    descriptionAdvanced: {
+      de: "Die Cul de Sac Bridge ist eine strategisch wichtige Brücke, die den Cul de Sac River südlich von Castries überspannt. Sie ist ein Nadelöhr für den Verkehr zwischen der Hauptstadt und der Westküste der Insel. Die Brücke wurde mehrfach modernisiert, um den steigenden Verkehrsbelastungen und Wetterereignissen standzuhalten. In der Nähe befinden sich große landwirtschaftliche Flächen und Industrieanlagen.",
+      hu: "A Cul de Sac híd egy stratégiai fontosságú átkelő a Cul de Sac-folyó felett, Castriestől délre. Ez a híd biztosítja a fő összeköttetést a főváros és a sziget nyugati partja, valamint a déli területek között. Az építményt az évek során korszerűsítették, hogy ellenálljon a trópusi viharoknak. A völgy a sziget egyik legfontosabb mezőgazdasági és ipari területe.",
+      ro: "Podul Cul de Sac este o structură strategică ce traversează râul Cul de Sac, la sud de Castries. Această punte facilitează tranzitul major între capitală și regiunile din vestul și sudul insulei. Podul a fost reconstruit pentru a rezista fluxurilor mari de trafic și fenomenelor meteorologice extreme. Valea înconjurătoare este un centru agricol și industrial important.",
+      en: "Cul de Sac Bridge is a strategically vital crossing over the Cul de Sac River, located just south of Castries. It serves as a primary link for traffic moving between the capital and the island's west coast and southern districts. The bridge has undergone significant upgrades to improve durability against heavy rain and high traffic volumes. The area is a hub for Saint Lucia's agriculture and industry.",
+    },
+    factsAdvanced: {
+      de: ["Überquert den Cul de Sac River", "Hauptverbindung nach Soufrière", "Liegt im Distrikt Castries", "Wurde nach 2010 modernisiert", "Wichtig für den Bananenexport", "Zentrum des Schwerlastverkehrs"],
+      hu: ["A Cul de Sac-folyót szeli át", "Főútvonal Soufrière irányába", "A Castries körzetben található", "2010 után jelentősen felújították", "Kulcsfontosságú a banánszállításban", "Nagy teherbírású szerkezet"],
+      ro: ["Traversează râul Cul de Sac", "Legătură principală spre Soufrière", "Situat în districtul Castries", "Modernizat după anul 2010", "Esențial pentru exportul de banane", "Punct central pentru traficul greu"],
+      en: ["Spans the Cul de Sac River", "Main route towards Soufrière", "Located in Castries District", "Upgraded after 2010 floods", "Crucial for banana transportation", "Heavy traffic load capacity"],
+    },
   },
   {
     id: "saintlucia-millet-visitor-centre-landmarks-v2",
@@ -570,6 +918,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Island interior", "Nature info", "Trailhead point", "Eco-tourism"],
     },
     imageHint: "Millet Visitor Centre Saint Lucia building",
+    descriptionAdvanced: {
+      de: "Das Millet Visitor Centre ist das Tor zum Millet Bird Sanctuary im Herzen von St. Lucia. Das Zentrum bietet Informationen über die einheimische Flora und Fauna, insbesondere über den seltenen St. Lucia-Papagei. Ein gut markierter Naturlehrpfad führt durch den Regenwald und bietet Vogelbeobachtungsmöglichkeiten. Es ist ein wichtiges Ziel für den Ökotourismus und den Naturschutz auf der Insel.",
+      hu: "A Millet Látogatóközpont a Millet Madárrezervátum bejárata Saint Lucia szívében. A központ részletes információkkal szolgál a sziget endemikus élővilágáról, különösen a Saint Lucia-i papagájról. A területről induló túraútvonalak az esőerdő mélyére vezetnek, ahol ritka madárfajok figyelhetők meg. Az ökoturizmus és a biodiverzitás védelmének egyik kiemelt helyszíne.",
+      ro: "Centrul pentru Vizitatori Millet este punctul de acces către Rezervația de Păsări Millet din centrul insulei. Centrul oferă informații educaționale despre flora și fauna endemică, inclusiv despre papagalul Sfânta Lucia. Un traseu de drumeție prin pădurea tropicală permite observarea păsărilor în habitatul lor natural. Este o destinație esențială pentru ecoturism și conservarea speciilor.",
+      en: "Millet Visitor Centre serves as the gateway to the Millet Bird Sanctuary in the heart of Saint Lucia. The centre provides educational resources about the island's endemic wildlife, most notably the Saint Lucia Parrot. Guided trails from the centre lead into the lush rainforest, offering premier birdwatching opportunities. It is a key location for ecotourism and environmental conservation efforts.",
+    },
+    factsAdvanced: {
+      de: ["Tor zum Millet Bird Sanctuary", "Heimat von über 30 Vogelarten", "Schutzgebiet für den St. Lucia-Papagei", "Bietet einen 3 km langen Rundweg", "Liegt im zentralen Hochland", "Geführt von der Forstbehörde"],
+      hu: ["A Millet Madárrezervátum kapuja", "Több mint 30 madárfaj otthona", "A Saint Lucia-i papagáj védőhelye", "3 km hosszú tanösvény indul innen", "A központi felföldön található", "Az erdészeti minisztérium kezeli"],
+      ro: ["Poarta către Rezervația Millet", "Găzduiește peste 30 specii de păsări", "Sanctuar pentru papagalul Sfânta Lucia", "Dispune de un traseu de 3 km", "Situat în zona muntoasă centrală", "Administrat de departamentul forestier"],
+      en: ["Entry point to Millet Bird Sanctuary", "Home to over 30 bird species", "Sanctuary for the Saint Lucia Parrot", "Features a 2-mile loop trail", "Located in the central highlands", "Managed by the Forestry Department"],
+    },
   },
   {
     id: "saintlucia-saltibus-waterfall-bridge-landmarks-v2",
@@ -589,6 +949,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Rainforest path", "Laborie district", "Scenic bridge", "Near waterfalls"],
     },
     imageHint: "Saltibus waterfall bridge Saint Lucia rainforest",
+    descriptionAdvanced: {
+      de: "Die Saltibus Waterfall Bridge befindet sich in der Nähe des Dorfes Saltibus im Distrikt Choiseul. Sie ist Teil des Pfades, der zu den beeindruckenden Saltibus-Wasserfällen führt, einer Kaskade von fünf Fällen. Die Brücke überquert einen Gebirgsbach inmitten dichter tropischer Vegetation. Wanderer nutzen diesen Punkt oft als Ausgangspunkt für Erkundungen der unberührten Natur im Süden.",
+      hu: "A Saltibus-vízesés hídja Saltibus falu közelében, Choiseul körzetében található. Ez az építmény része annak az ösvénynek, amely a látványos, öt lépcsőből álló Saltibus-vízesésrendszerhez vezet. A híd egy hegyi patak felett ível át a sűrű trópusi erdőben. A környék a kalandvágyó túrázók kedvelt célpontja, akik a sziget kevésbé ismert természeti kincseit keresik.",
+      ro: "Podul Cascadei Saltibus este situat în apropierea satului Saltibus, în districtul Choiseul. Structura facilitează accesul către seria de cinci cascade Saltibus, ascunse în vegetația tropicală densă. Podul traversează un pârâu montan și oferă un punct de odihnă pentru drumeți. Este o zonă pitorească, ideală pentru cei care explorează natura sălbatică a sudului.",
+      en: "Saltibus Waterfall Bridge is located near the village of Saltibus in the Choiseul district. This structure is part of the trail system leading to the impressive Saltibus Five Waterfalls, a series of cascades hidden in the rainforest. The bridge crosses a mountain stream surrounded by lush tropical vegetation. It is a popular spot for hikers seeking to discover Saint Lucia's lesser-known natural wonders.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Distrikt Choiseul", "Zugang zu fünf Wasserfällen", "Umgeben von tropischem Regenwald", "Höchster Wasserfall ist ca. 15m hoch", "Beliebt für Öko-Wanderungen", "Nahe der Gemeinde Saltibus"],
+      hu: ["Choiseul körzetben található", "Öt vízeséshez biztosít utat", "Trópusi esőerdő veszi körül", "A legmagasabb vízesés kb. 15 méteres", "Kedvelt ökoturisztikai célpont", "Saltibus közössége mellett fekszik"],
+      ro: ["Situat în districtul Choiseul", "Acces spre cinci cascade succesive", "Înconjurat de pădure tropicală", "Cea mai înaltă cascadă are cca. 15m", "Destinație pentru drumeții montane", "Lângă comunitatea Saltibus"],
+      en: ["Located in the Choiseul District", "Provides access to five waterfalls", "Surrounded by tropical rainforest", "Highest cascade is approx. 50 feet", "Popular for ecological trekking", "Near the Saltibus community"],
+    },
   },
   {
     id: "saintlucia-mabouya-valley-landmark-landmarks-v2",
@@ -608,6 +980,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Agricultural valley", "Banana industry hub", "Central St. Lucia", "Economic landmark"],
     },
     imageHint: "Mabouya Valley agricultural landscape Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Mabouya Valley Landmark bezeichnet eine historisch und landwirtschaftlich bedeutsame Region im Osten von St. Lucia. Das Tal ist bekannt für seine fruchtbaren Böden und war einst ein Zentrum der Zuckerrohrproduktion. Heute dominieren Bananenplantagen und die lokale Gemeinschaft von Dennery das Landschaftsbild. Das Gebiet bietet Einblicke in das ländliche Leben und die Wirtschaftsgeschichte der Insel.",
+      hu: "A Mabouya-völgy Saint Lucia keleti részének egyik legfontosabb mezőgazdasági és történelmi területe. A völgy termékeny talajáról ismert, és egykor a cukornádtermesztés központja volt a gyarmati időkben. Napjainkban főként banánültetvények jellemzik a tájat Dennery közelében. A vidék fontos szerepet játszik a sziget élelmiszerellátásában és vidéki örökségében.",
+      ro: "Valea Mabouya este o regiune de importanță istorică și agricolă situată în estul insulei Sfânta Lucia. Cunoscută pentru solul său fertil, valea a fost un centru major al producției de zahăr în perioada colonială. Astăzi, peisajul este dominat de plantații de banane și comunități rurale active. Zona oferă o perspectivă asupra istoriei economice și a vieții tradiționale.",
+      en: "Mabouya Valley Landmark represents a significant agricultural and historical region in eastern Saint Lucia. The valley is renowned for its fertile soil and was once a major hub for sugarcane production during the colonial era. Today, it is primarily covered with banana plantations and supports several vibrant communities near Dennery. The area is essential for understanding the island's rural heritage and economic history.",
+    },
+    factsAdvanced: {
+      de: ["Ehemaliges Zentrum der Zuckerindustrie", "Heute primär Bananenanbaugebiet", "Befindet sich nahe Dennery", "Benannt nach dem karibischen Wort Mabouya", "Wichtig für die lokale Subsistenzwirtschaft", "Reich an kolonialen Überresten"],
+      hu: ["Egykori cukoripari központ", "Ma főként banánt termesztenek itt", "Dennery városának közelében fekszik", "A karibi 'Mabouya' szóról nevezték el", "Fontos az önellátó gazdálkodásban", "Számos gyarmati rom található itt"],
+      ro: ["Fost centru al industriei zahărului", "Astăzi zonă de cultivare a bananelor", "Situată în apropiere de Dennery", "Numele provine din limba caribă", "Vitală pentru economia rurală locală", "Bogată în vestigii din epoca colonială"],
+      en: ["Former center of the sugar industry", "Currently a major banana-growing area", "Located in the vicinity of Dennery", "Named after the Carib word 'Mabouya'", "Crucial for local subsistence farming", "Home to various colonial-era ruins"],
+    },
   },
   {
     id: "saintlucia-dennery-catholic-church-landmarks-v2",
@@ -627,6 +1011,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Location: Dennery", "East coast", "Religious structure", "Catholic faith"],
     },
     imageHint: "Dennery Catholic Church Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die katholische Kirche von Dennery, dem Heiligen Petrus gewidmet, ist ein markantes Bauwerk im Fischerdorf an der Ostküste. Sie dient als spirituelles Zentrum für die lokale Gemeinschaft und blickt auf die Bucht von Dennery. Die Architektur ist schlicht und funktional, typisch für karibische Küstengemeinden. Die Kirche spielt eine zentrale Rolle bei lokalen Festen wie dem Fest des Heiligen Petrus.",
+      hu: "A dennery-i katolikus templom, amelyet Szent Péternek szenteltek, a keleti part egyik meghatározó épülete. A templom a halászfalu spirituális központja, kilátással a Dennery-öbölre. Építészeti stílusa egyszerű és funkcionális, tükrözve a karibi part menti közösségek hagyományait. Kiemelt szerepet kap a helyi vallási ünnepek, például a halászok védőszentjének napján.",
+      ro: "Biserica Catolică din Dennery, dedicată Sfântului Petru, este o clădire emblematică situată în satul de pescari de pe coasta de est. Aceasta servește ca centru spiritual pentru comunitatea locală, oferind vedere spre golful Dennery. Arhitectura sa reflectă tradițiile religioase ale insulei. Biserica este punctul focal în timpul sărbătorilor locale, cum ar fi Sărbătoarea Pescarilor.",
+      en: "Dennery Catholic Church, dedicated to Saint Peter, is a prominent landmark in the fishing village on Saint Lucia's east coast. It serves as the spiritual heart of the community, overlooking the scenic Dennery Bay. The church's architecture is characteristic of Caribbean coastal parishes, emphasizing community gathering. It plays a central role in local traditions, especially during the annual Feast of Saint Peter.",
+    },
+    factsAdvanced: {
+      de: ["Dem Heiligen Petrus gewidmet", "Befindet sich im Fischerdorf Dennery", "Blick auf die Atlantikküste", "Zentrum der Fischerfeste (Fête Pêche)", "Wichtiges Gebäude der Gemeinde Micoud", "In der Nähe des Dennery-Marktes"],
+      hu: ["Szent Péter tiszteletére szentelték", "Dennery halászfaluban található", "Az atlanti partra néz", "A halászünnepek (Fête Pêche) központja", "A Micoud körzet egyik fő temploma", "A dennery-i piac közelében fekszik"],
+      ro: ["Dedicată Sfântului Petru", "Situată în satul de pescari Dennery", "Vedere spre coasta Atlanticului", "Centrul Sărbătorii Pescarilor (Fête Pêche)", "Clădire cheie în regiunea Micoud", "Aproape de piața din Dennery"],
+      en: ["Dedicated to Saint Peter", "Located in Dennery fishing village", "Overlooks the Atlantic coast", "Center for fisherman festivals (Fête Pêche)", "Major landmark in Micoud district", "Situated near the Dennery market"],
+    },
   },
   {
     id: "saintlucia-monchy-chapel-landmarks-v2",
@@ -646,6 +1042,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Monchy region", "Northern interior", "Small chapel", "Catholic"],
     },
     imageHint: "Monchy Chapel Saint Lucia building",
+    descriptionAdvanced: {
+      de: "Die Kapelle von Monchy ist ein ruhiges religiöses Wahrzeichen im Norden von St. Lucia, im Distrikt Gros Islet. Sie dient der ländlichen Gemeinschaft von Monchy als Ort des Gebets und der Versammlung. Das Gebäude zeichnet sich durch seine einfache, aber gepflegte Struktur aus, die sich harmonisch in die hügelige Landschaft einfügt. Die Kapelle ist ein Symbol für den starken christlichen Glauben in der Region.",
+      hu: "A monchy-i kápolna egy békés vallási emlékhely Saint Lucia északi részén, Gros Islet körzetében. Monchy vidéki közösségének szolgál imádságos és találkozóhelyként. Az épületet egyszerű, de gondozott szerkezete jellemzi, amely harmonikusan illeszkedik a dombos tájba. A kápolna a helyi közösségi összefogás és a vallási hagyományok fontos szimbóluma.",
+      ro: "Capela din Monchy este un lăcaș de cult liniștit situat în nordul insulei Sfânta Lucia, în districtul Gros Islet. Aceasta deservește comunitatea rurală din Monchy, fiind un spațiu pentru rugăciune și adunări comunitare. Clădirea are o structură simplă, integrându-se perfect în peisajul deluros al zonei. Capela reflectă importanța credinței în viața de zi cu zi a locuitorilor.",
+      en: "Monchy Chapel is a peaceful religious landmark located in the northern district of Gros Islet. It serves the rural community of Monchy as a place for worship and communal gatherings. The building features a simple yet well-maintained design that blends seamlessly into the surrounding hilly landscape. The chapel stands as a symbol of the strong faith and local identity within the region.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Distrikt Gros Islet", "Dient der Gemeinde Monchy", "Einfache karibische Kirchenarchitektur", "Ort lokaler Gemeindeveranstaltungen", "Inmitten einer hügeligen Landschaft", "Religiöses Zentrum im Norden"],
+      hu: ["Gros Islet körzetben található", "Monchy közösségét szolgálja", "Egyszerű karibi templomépítészet", "Helyi közösségi események helyszíne", "Dombos táj veszi körül", "Észak-Saint Lucia egyik vallási pontja"],
+      ro: ["Situată în districtul Gros Islet", "Deservește comunitatea Monchy", "Arhitectură simplă specifică zonei", "Loc de întâlnire pentru evenimente", "Amplasată într-un cadru deluros", "Centru religios în zona de nord"],
+      en: ["Located in Gros Islet District", "Serves the Monchy community", "Simple Caribbean church architecture", "Venue for local community events", "Set within a hilly landscape", "Religious focal point in the north"],
+    },
   },
   {
     id: "saintlucia-babonneau-church-landmarks-v2",
@@ -665,6 +1073,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Location: Babonneau", "Rural center", "Hilly landscape", "Catholic parish"],
     },
     imageHint: "Babonneau Catholic Church Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die katholische Kirche von Babonneau, bekannt als Kirche des Guten Hirten, liegt im üppigen Hinterland von St. Lucia. Sie ist der zentrale Treffpunkt für eine der bevölkerungsreichsten ländlichen Gemeinden der Insel. Das Gebäude ist bekannt für seine lebendigen Gottesdienste und seine Rolle bei der Förderung der lokalen Kultur. Die Umgebung von Babonneau ist geprägt von Landwirtschaft und Ökotourismus.",
+      hu: "A babonneau-i katolikus templom, a Jó Pásztor temploma, Saint Lucia buja dombvidéki területén található. Ez az épület a sziget egyik legnépesebb vidéki közösségének központi találkozóhelye. A templom híres élénk szertartásairól és a helyi kulturális életben betöltött szerepéről. Babonneau környéke a mezőgazdaságról és a fejlődő ökoturizmusról ismert.",
+      ro: "Biserica Catolică din Babonneau, cunoscută sub numele de Biserica Bunului Păstor, este situată în interiorul insulei, într-o zonă verde și fertilă. Aceasta este punctul central de adunare pentru una dintre cele mai mari comunități rurale din Sfânta Lucia. Clădirea este recunoscută pentru slujbele sale pline de viață și pentru sprijinul cultural oferit localnicilor. Regiunea Babonneau este renumită pentru biodiversitate.",
+      en: "Babonneau Catholic Church, known as the Church of the Good Shepherd, is situated in the lush interior of Saint Lucia. It serves as the primary meeting point for one of the island's most populous rural communities. The church is noted for its vibrant services and its active role in fostering local culture and social welfare. The Babonneau area is also famous for its agriculture and eco-tourism initiatives.",
+    },
+    factsAdvanced: {
+      de: ["Name: Kirche des Guten Hirten", "Liegt im Hinterland von Castries", "Zentrum einer großen Landgemeinde", "Bietet Blick auf das grüne Tal", "Bekannt für kulturelle Jugendprogramme", "Wichtig für den sozialen Zusammenhalt"],
+      hu: ["Jó Pásztor templom a neve", "Castries hátországában található", "Nagy vidéki közösség központja", "Kilátás nyílik a zöld völgyre", "Ifjúsági kulturális programjairól ismert", "Fontos szociális csomópont"],
+      ro: ["Nume oficial: Biserica Bunului Păstor", "Situată în hinterlandul Castries", "Centrul unei vaste comunități rurale", "Oferă vederi spre valea verde", "Cunoscută pentru programe culturale", "Punct de coeziune socială"],
+      en: ["Named Church of the Good Shepherd", "Located in the Castries interior", "Center of a large rural community", "Overlooks a lush green valley", "Known for youth cultural programs", "Vital for local social cohesion"],
+    },
   },
   {
     id: "saintlucia-desruisseaux-community-centre-landmarks-v2",
@@ -684,6 +1104,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Location: Desruisseaux", "Southeast St. Lucia", "Public building", "Social center"],
     },
     imageHint: "Desruisseaux community centre Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Gemeindezentrum von Desruisseaux ist ein wichtiger sozialer Knotenpunkt im Distrikt Micoud. Es bietet Räumlichkeiten für Bildungsaktivitäten, öffentliche Versammlungen und kulturelle Veranstaltungen der lokalen Bevölkerung. Das Zentrum unterstützt die Entwicklung des ländlichen Dorfes durch verschiedene soziale Programme. Es ist ein Symbol für das bürgerschaftliche Engagement und die Selbstverwaltung in St. Lucia.",
+      hu: "A desruisseaux-i közösségi ház Micoud körzetének egyik kulcsfontosságú szociális csomópontja. Az épület helyet biztosít oktatási tevékenységeknek, lakossági fórumoknak és helyi kulturális eseményeknek. A központ különböző társadalmi programokon keresztül támogatja a vidéki falu fejlődését. Saint Luciában a közösségi összefogás és az önkormányzatiság egyik fontos szimbóluma.",
+      ro: "Centrul Comunitar Desruisseaux este un hub social vital situat în districtul Micoud. Acesta oferă spații pentru activități educaționale, întâlniri publice și evenimente culturale destinate localnicilor. Centrul sprijină dezvoltarea satului rural prin diverse programe de asistență și formare. Este un exemplu de implicare civică și organizare comunitară pe insulă.",
+      en: "Desruisseaux Community Centre is a vital social hub located in the Micoud district. It provides essential space for educational activities, town hall meetings, and local cultural celebrations for the resident population. The centre supports the development of this rural village through various social welfare programs. It stands as a testament to civic engagement and community spirit in Saint Lucia.",
+    },
+    factsAdvanced: {
+      de: ["Sitz lokaler Bildungskurse", "Liegt im Distrikt Micoud", "Zentrum für Dorfversammlungen", "Unterstützt soziale Wohlfahrtsprojekte", "Wichtig für die ländliche Entwicklung", "Veranstaltungsort für Wahlen"],
+      hu: ["Helyi oktatási kurzusok helyszíne", "Micoud körzetben található", "Falugyűlések központja", "Szociális jóléti projekteket támogat", "Fontos a vidéki fejlesztésben", "Választási szavazóhelyiségként is szolgál"],
+      ro: ["Gazdă pentru cursuri educaționale", "Situat în districtul Micoud", "Centru pentru adunări sătești", "Susține proiecte de asistență socială", "Esențial pentru dezvoltarea rurală", "Locație pentru procesele electorale"],
+      en: ["Host for local educational courses", "Located in the Micoud District", "Hub for village-wide meetings", "Supports social welfare projects", "Crucial for rural development", "Acts as a polling station for elections"],
+    },
   },
   {
     id: "saintlucia-piaye-bridge-landmarks-v2",
@@ -703,6 +1135,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["South road", "Over Piaye River", "Traffic structure", "Near Laborie"],
     },
     imageHint: "Piaye river bridge Saint Lucia road",
+    descriptionAdvanced: {
+      de: "Die Piaye Bridge überquert den Piaye River im Süden von St. Lucia und verbindet die Distrikte Choiseul und Laborie. Die Brücke ist ein entscheidendes Glied im Straßennetz der Insel, das den Personen- und Warenverkehr ermöglicht. Sie bietet Reisenden malerische Ausblicke auf den Flusslauf und die nahe gelegene Küste. Die Struktur wurde verstärkt, um Schutz vor saisonalen Überschwemmungen zu bieten.",
+      hu: "A Piaye híd a Piaye-folyó felett ível át Saint Lucia déli részén, összekötve Choiseul és Laborie körzeteket. A híd a sziget úthálózatának egyik kritikus eleme, amely lehetővé teszi a személy- és áruforgalmat a déli régióban. Az utazók számára szép kilátást nyújt a folyómederre és a közeli tengerpartra. A szerkezetet megerősítették a szezonális áradások elleni védelem érdekében.",
+      ro: "Podul Piaye traversează râul Piaye în sudul insulei Sfânta Lucia, legând districtele Choiseul și Laborie. Podul este o verigă crucială în rețeaua rutieră, facilitând transportul de persoane și mărfuri. Oferă călătorilor vederi pitorești asupra cursului râului și a coastei din apropiere. Structura a fost consolidată pentru a rezista viiturilor sezoniere.",
+      en: "Piaye Bridge crosses the Piaye River in southern Saint Lucia, connecting the districts of Choiseul and Laborie. This bridge is a crucial link in the island's road network, facilitating the movement of people and commercial goods. It offers travelers scenic views of the riverbed and the nearby coastline. The structure has been reinforced to provide resilience against seasonal flooding and high water levels.",
+    },
+    factsAdvanced: {
+      de: ["Überquert den Piaye River", "Verbindet Choiseul und Laborie", "Teil der südlichen Hauptverkehrsstraße", "Nahe der Piaye Bay", "Wichtig für den Agrotourismus", "Wurde nach Hurrikan-Schäden erneuert"],
+      hu: ["A Piaye-folyót szeli át", "Choiseul és Laborie körzeteket köti össze", "A déli főútvonal része", "A Piaye-öböl közelében található", "Fontos az agroturizmus számára", "Hurrikánkárok után újjáépítették"],
+      ro: ["Traversează râul Piaye", "Conectează Choiseul de Laborie", "Parte a magistralei rutiere de sud", "Aproape de Golful Piaye", "Important pentru agroturism", "Reconstruit după daunele cauzate de uragan"],
+      en: ["Spans the Piaye River", "Links Choiseul and Laborie districts", "Part of the southern main highway", "Close to Piaye Bay", "Important for agro-tourism traffic", "Reconstructed after hurricane damage"],
+    },
   },
   {
     id: "saintlucia-black-bay-ruins-landmarks-v2",
@@ -722,6 +1166,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Vieux Fort region", "Colonial relics", "South coast", "Historic ruins"],
     },
     imageHint: "Black Bay ruins Saint Lucia coast",
+    descriptionAdvanced: {
+      de: "Die Black Bay Ruins sind die Überreste eines historischen Zuckeranwesens im Süden von St. Lucia, nahe Vieux Fort. Die Ruinen umfassen Teile der alten Zuckermühle und Wirtschaftsgebäude aus der Kolonialzeit. Sie zeugen von der einst dominierenden Plantagenwirtschaft und der harten Arbeit der Versklavten auf der Insel. Heute ist der Ort ein stilles Denkmal der Geschichte inmitten von Weideland.",
+      hu: "A Black Bay romok egy történelmi cukornádültetvény maradványai Saint Lucia déli részén, Vieux Fort közelében. A romok között megtalálhatók a régi cukormalom és a gyarmati korszak gazdasági épületeinek falai. Az emlékhely a sziget egykori ültetvényes gazdálkodásának és a rabszolgamunka nehéz időszakának állít emléket. Manapság a terület csendes történelmi emlékhelyként funkcionál a legelők között.",
+      ro: "Ruinele Black Bay reprezintă vestigiile unei foste plantații de zahăr din sudul insulei Sfânta Lucia, lângă Vieux Fort. Situl include resturi ale vechii fabrici de zahăr și clădiri administrative din perioada colonială. Acestea depun mărturie despre economia de plantație și istoria sclaviei pe insulă. Astăzi, locația este un monument istoric discret, înconjurat de pășuni.",
+      en: "Black Bay Ruins are the remnants of a historic sugar estate located in southern Saint Lucia, near Vieux Fort. The ruins include parts of the old sugar mill and outbuildings dating back to the colonial era. They stand as a testament to the island's former plantation economy and the labor of enslaved people. Today, the site serves as a quiet historical monument set amidst coastal pasturelands.",
+    },
+    factsAdvanced: {
+      de: ["Ruinen einer Zuckermühle", "Datiert aus dem 18. Jahrhundert", "Liegt nahe Vieux Fort und Augier", "Teil der kolonialen Plantagen-Infrastruktur", "Zugänglich über Wanderpfade", "Historisches Denkmal von St. Lucia"],
+      hu: ["Egy cukormalom romjai", "A 18. századból származik", "Vieux Fort és Augier közelében fekszik", "A gyarmati ültetvényrendszer része", "Gyalogösvényeken közelíthető meg", "Saint Lucia történelmi emlékhelye"],
+      ro: ["Ruinele unei mori de zahăr", "Datate din secolul al XVIII-lea", "Situate lângă Vieux Fort și Augier", "Parte a infrastructurii coloniale", "Accesibile prin trasee de drumeție", "Monument istoric al insulei"],
+      en: ["Ruins of an 18th-century sugar mill", "Dates back to the 1700s", "Located near Vieux Fort and Augier", "Part of the colonial plantation system", "Accessible via local walking trails", "Registered historical site in Saint Lucia"],
+    },
   },
   {
     id: "saintlucia-fond-st-jacques-church-landmarks-v2",
@@ -741,6 +1197,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Mountain region", "Soufrière hinterland", "Catholic church", "Stone facade"],
     },
     imageHint: "Fond St Jacques Church Saint Lucia building",
+    descriptionAdvanced: {
+      de: "Die Kirche von Fond St. Jacques befindet sich in einem malerischen Bergdorf im Distrikt Soufrière. Das Gebäude ist ein spiritueller Ankerpunkt für die Gemeinde, die inmitten steiler Hänge und fruchtbarer Täler lebt. Die Kirche ist bekannt für ihre Rolle bei der Organisation lokaler Landwirtschaftsfeste. Sie bietet einen friedlichen Rückzugsort und einen weiten Blick über die zentrale Bergkette der Insel.",
+      hu: "A Fond St. Jacques templom egy festői hegyi faluban található, Soufrière körzetében. Az épület spirituális horgonyként szolgál a közösség számára, amely meredek lejtők és termékeny völgyek között él. A templom híres a helyi mezőgazdasági fesztiválok szervezésében betöltött szerepéről. Béke és nyugalom jellemzi, miközben lenyűgöző kilátást nyújt a sziget központi hegyláncaira.",
+      ro: "Biserica din Fond St. Jacques este situată într-un sat montan pitoresc din districtul Soufrière. Clădirea este un pilon spiritual pentru comunitatea locală, stabilită printre pante abrupte și văi fertile. Biserica este renumită pentru implicarea în organizarea festivalurilor agricole locale. Oferă un spațiu de liniște și vederi panoramice asupra lanțului muntos central.",
+      en: "Fond St. Jacques Church is located in a picturesque mountain village within the Soufrière district. The building serves as a spiritual anchor for the community living among steep slopes and fertile valleys. The church is well-known for its involvement in organizing local agricultural festivals and social events. It provides a peaceful sanctuary with wide views of Saint Lucia's central mountain range.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Distrikt Soufrière", "Zentrum einer Bergwald-Gemeinde", "Bekannt für Erntedankfeste", "Architektur im neugotischen Stil", "Höchstgelegene Pfarrei der Region", "Wichtig für die lokale Kakaoproduktion"],
+      hu: ["Soufrière körzetben található", "Hegyi erdei közösség központja", "Híres az aratási fesztiválokról", "Neogótikus stílusjegyekkel rendelkezik", "A régió legmagasabban fekvő plébániája", "Fontos a helyi kakaótermelőknek"],
+      ro: ["Situată în districtul Soufrière", "Centrul unei comunități montane", "Cunoscută pentru festivalurile recoltei", "Arhitectură cu elemente neogotice", "Cea mai înaltă parohie din regiune", "Importantă pentru cultivatorii de cacao"],
+      en: ["Located in the Soufrière District", "Center of a highland forest community", "Known for harvest thanksgiving festivals", "Features Neo-Gothic architectural elements", "One of the highest parishes on the island", "Focal point for local cocoa farmers"],
+    },
   },
   {
     id: "saintlucia-belle-vue-windmill-landmarks-v2",
@@ -760,6 +1228,18 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Old mill tower", "Vieux Fort region", "Stone masonry", "Sugar industry ruin"],
     },
     imageHint: "Belle Vue windmill tower ruins Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Belle Vue Windmill Tower ist ein gut erhaltener Turm einer ehemaligen Windmühle im Süden von St. Lucia. Das Bauwerk stammt aus der Zeit, als Windkraft zur Zerkleinerung von Zuckerrohr genutzt wurde. Er befindet sich auf einer Anhöhe mit strategischem Blick über die Atlantikküste. Der Turm ist eines der wenigen verbliebenen Beispiele für diese Art von Industriearchitektur auf der Insel.",
+      hu: "A Belle Vue szélmalomtorony egy jó állapotban fennmaradt ipari emlék Saint Lucia déli részén. A torony abból a korszakból származik, amikor a szélenergiát használták a cukornád összezúzására a cukorgyártás során. Egy dombtetőn helyezkedik el, ahonnan stratégiai kilátás nyílik az atlanti partvidékre. Ez az egyik kevés megmaradt példája az ilyen típusú gyarmati építészetnek a szigeten.",
+      ro: "Turnul morii de vânt Belle Vue este o structură industrială bine conservată situată în sudul insulei Sfânta Lucia. Turnul datează din epoca în care energia eoliană era utilizată pentru măcinarea trestiei de zahăr. Amplasat pe o colină, acesta oferă o vedere strategică asupra coastei Atlanticului. Este unul dintre puținele exemple rămase de acest tip de arhitectură colonială.",
+      en: "Belle Vue Windmill Tower is a well-preserved industrial relic located in southern Saint Lucia. The tower dates back to the era when wind power was harnessed to crush sugarcane for sugar production. Situated on a hilltop, it offers strategic views across the Atlantic coastline. It represents one of the few remaining examples of this specific type of colonial industrial architecture on the island.",
+    },
+    factsAdvanced: {
+      de: ["Ehemalige Windmühle für Zuckerrohr", "Liegt im Distrikt Vieux Fort", "Massive Steinbauweise", "Blick auf den Atlantischen Ozean", "Wichtiges industrielles Erbe", "Datiert aus dem 18./19. Jahrhundert"],
+      hu: ["Egykori cukornádőrlő szélmalom", "Vieux Fort körzetben található", "Masszív kőépítmény", "Kilátás az Atlanti-óceánra", "Fontos ipartörténeti örökség", "A 18-19. századból származik"],
+      ro: ["Fostă moară de vânt pentru trestie", "Situată în districtul Vieux Fort", "Construcție masivă din piatră", "Vedere spre Oceanul Atlantic", "Patrimoniu industrial important", "Datată din secolele XVIII-XIX"],
+      en: ["Former sugarcane crushing windmill", "Located in the Vieux Fort District", "Built with massive stonework", "Overlooks the Atlantic Ocean", "Significant industrial heritage site", "Dates from the 18th or 19th century"],
+    },
   },
   {
     id: "saintlucia-pointe-seraphine-terminal-landmarks-v2",
@@ -779,5 +1259,17 @@ export const saintluciaLandmarksV2: POI[] = [
       en: ["Cruise terminal", "Location: Castries", "Duty-free hub", "Modern building"],
     },
     imageHint: "Pointe Seraphine cruise terminal Castries Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Pointe Seraphine Terminal in Castries ist ein bedeutender Kreuzfahrthafen von St. Lucia. Es wurde 1986 eröffnet, um den wachsenden Tourismussektor der Insel zu unterstützen. Der Komplex umfasst zahlreiche Duty-Free-Shops, Restaurants und Reisebüros. Er dient als wichtigster Ankunftspunkt für internationale Besucher, die auf dem Seeweg anreisen.",
+      hu: "A castries-i Pointe Seraphine terminál Saint Lucia egyik legfontosabb skemélyhajó-kikötője és kereskedelmi központja. Az 1986-ban megnyitott létesítmény célja a sziget turisztikai forgalmának fellendítése volt. A komplexum számos vámmentes üzletet, éttermet és utazási irodát foglal magában. Ez az egyik legfőbb érkezési pont a tengeri úton érkező nemzetközi látogatók számára.",
+      ro: "Terminalul Pointe Seraphine din Castries este un port de croazieră și un centru comercial major în Sfânta Lucia. Deschis în 1986, acesta a fost proiectat pentru a susține sectorul turistic în creștere al insulei. Complexul include numeroase magazine duty-free, restaurante și agenții de turism. Reprezintă principalul punct de sosire pentru vizitatorii internaționali care sosesc pe mare.",
+      en: "Pointe Seraphine Terminal in Castries is a major cruise ship port and shopping complex in Saint Lucia. Opened in 1986, it was designed to support the island's growing tourism sector. The facility features numerous duty-free shops, restaurants, and tour operator offices. It serves as a primary entry point for international visitors arriving by sea.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung des Terminals im Jahr 1986", "Sitz in der Hauptstadt Castries", "Verfügt über zwei Hauptliegeplätze für Schiffe", "Beherbergt über 30 Duty-Free-Geschäfte", "Bietet Blick auf den Hafen von Castries", "Wichtiger Knotenpunkt für lokale Landausflüge"],
+      hu: ["A terminál 1986-ban nyílt meg", "A fővárosban, Castries-ban található", "Két nagy hajóállomással rendelkezik", "Több mint 30 vámmentes üzlet üzemel itt", "Közvetlen kilátást nyújt a Castries-öbölre", "A helyi kirándulások központi indulóhelye"],
+      ro: ["Terminalul a fost inaugurat în 1986", "Situat în capitala Castries", "Dispune de două dane principale pentru nave", "Găzduiește peste 30 de magazine duty-free", "Oferă vedere spre portul Castries", "Punct central pentru excursiile locale la țărm"],
+      en: ["Terminal opened in 1984", "Located in the capital city of Castries", "Features two main berths for cruise ships", "Houses over 30 duty-free retail outlets", "Provides views over the Castries harbor", "Hub for organized local shore excursions"],
+    },
   }
 ];

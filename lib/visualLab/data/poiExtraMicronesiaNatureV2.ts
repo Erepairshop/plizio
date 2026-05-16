@@ -19,6 +19,18 @@ export const micronesiaNatureV2: POI[] = [
       en: ["Elevation: 782 meters above sea level", "Part of the Senyavin Islands group", "Center of the Pohnpeian watershed", "Home to rare endemic bird species"],
     },
     imageHint: "Aerial view of lush green Mount Nanlaud covered in tropical rainforest with clouds",
+    descriptionAdvanced: {
+      de: "Der Mount Nanlaud ist mit 782 Metern der höchste Berg auf der Insel Pohnpei und in den Föderierten Staaten von Mikronesien. Der Gipfel ist fast ständig in Wolken gehüllt und gehört zu den niederschlagsreichsten Orten der Erde. Hier findet man einen einzigartigen Zwergenwald mit Moosen und Farnen, der viele endemische Pflanzenarten beherbergt. Der Aufstieg ist aufgrund des dichten Dschungels und des schlammigen Geländes äußerst anspruchsvoll.",
+      hu: "A Mount Nanlaud 782 méterével Pohnpei szigetének és a Mikronéziai Szövetségi Államoknak a legmagasabb pontja. A csúcsot szinte állandóan felhők borítják, és a Föld egyik legcsapadékosabb helye közé tartozik. Itt egyedülálló, mohákkal és páfrányokkal teli törpeerdő található, amely számos endemikus növényfajnak ad otthont. A sűrű dzsungel és a sáros terep miatt a megmászása rendkívül nehéz.",
+      ro: "Muntele Nanlaud, cu 782 de metri, este cel mai înalt punct de pe insula Pohnpei și din Statele Federate ale Microneziei. Vârful este aproape constant învăluit în nori și este unul dintre cele mai ploioase locuri de pe Pământ. Aici se găsește o pădure pitică unică, cu mușchi și ferigi, care adăpostește multe specii de plante endemice. Ascensiunea este extrem de dificilă din cauza junglei dense și a terenului noroios.",
+      en: "Mount Nanlaud, standing at 782 meters, is the highest peak on Pohnpei and in the Federated States of Micronesia. The summit is almost constantly shrouded in clouds and is one of the wettest places on Earth. It features a unique dwarf forest with mosses and ferns, hosting many endemic plant species. The ascent is extremely challenging due to dense jungle and muddy terrain.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Berg Mikronesiens (782 m)", "Jährlicher Niederschlag über 10.000 mm", "Beherbergt einen seltenen tropischen Wolkenwald", "Wichtige Wasserscheide für die Insel Pohnpei", "Nur über unmarkierte Dschungelpfade erreichbar", "Zuhause für den endemischen Pohnpei-Brillenvogel"],
+      hu: ["Mikronézia legmagasabb hegye (782 m)", "Az évi csapadék meghaladja a 10 000 mm-t", "Ritka trópusi felhőerdőnek ad otthont", "Pohnpei szigetének fontos vízválasztója", "Csak jelöletlen dzsungelösvényeken érhető el", "Az endemikus pohnpei-pápaszemesmadár otthona"],
+      ro: ["Cel mai înalt munte din Micronezia (782 m)", "Precipitații anuale de peste 10.000 mm", "Găzduiește o pădure de nori tropicală rară", "Bazin hidrografic important pentru Pohnpei", "Accesibil doar prin poteci de junglă nemarcate", "Habitat pentru pasărea cu ochi albi de Pohnpei"],
+      en: ["Highest peak in Micronesia (782 m)", "Annual rainfall exceeds 10,000 mm", "Home to a rare tropical cloud forest", "Crucial watershed for Pohnpei island", "Accessible only via unmarked jungle trails", "Habitat for the endemic Pohnpei white-eye"],
+    },
   },
   {
     id: "micronesia-mount-winipot-nature-v2",
@@ -38,6 +50,18 @@ export const micronesiaNatureV2: POI[] = [
       en: ["Elevation: 443 meters", "Highest point in Chuuk State", "Important bird conservation area", "Located on Tol Island"],
     },
     imageHint: "Lush green peak of Mount Winipot on Tol Island overlooking Chuuk Lagoon",
+    descriptionAdvanced: {
+      de: "Der Mount Winipot ist die höchste Erhebung im Bundesstaat Chuuk und befindet sich auf der Insel Tol. Mit einer Höhe von 439 Metern beherbergt er die letzten Reste des ursprünglichen Primärregenwaldes in Chuuk. Der Berg ist ein kritischer Lebensraum für den gefährdeten Chuuk-Monarchen, einen endemischen Vogel. Die steilen Hänge bieten einen Panoramablick über die weitläufige Chuuk-Lagune.",
+      hu: "A Mount Winipot Chuuk állam legmagasabb pontja, a Tol-szigeten található. 439 méteres magasságával itt találhatók Chuuk eredeti elsődleges esőerdőjének utolsó maradványai. A hegy kritikus élőhelye a veszélyeztetett chuuk-i császárlégykapónak, amely egy endemikus madárfaj. A meredek lejtők panorámás kilátást nyújtanak a kiterjedt Chuuk-lagúnára.",
+      ro: "Muntele Winipot este cel mai înalt punct din statul Chuuk, situat pe insula Tol. Cu o înălțime de 439 de metri, acesta adăpostește ultimele rămășițe ale pădurii tropicale primare din Chuuk. Muntele este un habitat critic pentru monarhul de Chuuk, o pasăre endemică pe cale de dispariție. Pantele abrupte oferă o vedere panoramică asupra vastei lagune Chuuk.",
+      en: "Mount Winipot is the highest elevation in Chuuk State, located on Tol Island. Reaching 439 meters, it shelters the last remnants of original primary rainforest in Chuuk. The mountain is a critical habitat for the endangered Chuuk Monarch, an endemic bird species. Its steep slopes provide a panoramic view over the expansive Chuuk Lagoon.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt von Chuuk (439 m)", "Wichtigstes Schutzgebiet für den Chuuk-Monarchen", "Enthält die letzten Primärwälder der Region", "Besteht hauptsächlich aus vulkanischem Gestein", "Wichtiger Ort für lokale Legenden", "Die Insel Tol ist Teil der Faichuk-Gruppe"],
+      hu: ["Chuuk legmagasabb pontja (439 m)", "A chuuk-i császárlégykapó legfontosabb területe", "A régió utolsó elsődleges erdeit tartalmazza", "Főleg vulkáni kőzetekből épül fel", "A helyi legendák fontos helyszíne", "Tol szigete a Faichuk-csoport része"],
+      ro: ["Cel mai înalt punct din Chuuk (439 m)", "Cea mai importantă zonă pentru monarhul de Chuuk", "Conține ultimele păduri primare din regiune", "Compus în principal din roci vulcanice", "Loc important pentru legendele locale", "Insula Tol face parte din grupul Faichuk"],
+      en: ["Highest point in Chuuk State (439 m)", "Key sanctuary for the Chuuk Monarch bird", "Contains the region's last primary forests", "Primarily composed of volcanic rock", "Important site for local legends", "Tol Island is part of the Faichuk group"],
+    },
   },
   {
     id: "micronesia-mount-matade-nature-v2",
@@ -57,6 +81,18 @@ export const micronesiaNatureV2: POI[] = [
       en: ["Elevation: 173 meters", "Highest point of Yap", "Composed of metamorphic rock", "Site of historical wartime relics"],
     },
     imageHint: "Panoramic view from Mount Matade showing Yap coastline and islands",
+    descriptionAdvanced: {
+      de: "Der Mount Matade ist eine der markantesten Erhebungen auf der Insel Yap und bietet einen weiten Blick über die Hauptstadt Colonia und die umliegende Lagune. Mit etwa 170 Metern Höhe ist er leicht zugänglich und für seine Savannenvegetation bekannt. Historisch diente er während des Zweiten Weltkriegs als Ausguck, und heute finden sich dort noch Überreste japanischer Befestigungen. Er ist ein wichtiger Ort für Wanderungen und zur Naturbeobachtung.",
+      hu: "A Mount Matade Yap szigetének egyik legjellegzetesebb magaslata, ahonnan tágas kilátás nyílik a fővárosra, Coloniára és a környező lagúnára. Körülbelül 170 méteres magasságával könnyen megközelíthető, és szavanna jellegű növényzetéről ismert. Történelmileg kilátóként szolgált a második világháború alatt, ma is találhatók ott japán erődítmények maradványai. Kedvelt hely a túrázók és a természetkedvelők körében.",
+      ro: "Muntele Matade este una dintre cele mai proeminente înălțimi de pe insula Yap, oferind o vedere largă asupra capitalei Colonia și a lagunei înconjurătoare. Având aproximativ 170 de metri înălțime, este ușor accesibil și cunoscut pentru vegetația sa de savană. Istoric, a servit ca punct de observare în timpul celui de-al Doilea Război Mondial, existând și astăzi rămășițe ale fortificațiilor japoneze. Este un loc important pentru drumeții.",
+      en: "Mount Matade is one of the most prominent elevations on Yap Island, offering a wide view over the capital, Colonia, and the surrounding lagoon. Standing at about 170 meters, it is easily accessible and known for its savanna-like vegetation. Historically, it served as a lookout during World War II, and remains of Japanese fortifications can still be found today. It is a key site for hiking and nature observation.",
+    },
+    factsAdvanced: {
+      de: ["Höhe beträgt ca. 170 Meter", "Bietet 360-Grad-Blick über Yap", "Beherbergt Überreste japanischer Flak-Geschütze", "Vegetation besteht aus Farnen und Gräsern", "Wichtigster Aussichtspunkt in der Nähe von Colonia", "Gehört zur Tamil-Region der Insel"],
+      hu: ["Magassága kb. 170 méter", "360 fokos kilátást nyújt Yap szigetére", "Japán légvédelmi ágyúk maradványai találhatók itt", "A növényzet páfrányokból és füvekből áll", "Colonia környékének legfontosabb kilátópontja", "A sziget Tamil régiójához tartozik"],
+      ro: ["Înălțimea este de aprox. 170 de metri", "Oferă o vedere de 360 de grade asupra Yap", "Găzduiește resturi de tunuri antiaeriene japoneze", "Vegetația constă în ferigi și ierburi", "Cel mai important punct de belvedere lângă Colonia", "Aparține regiunii Tamil a insulei"],
+      en: ["Elevation is approximately 170 meters", "Offers 360-degree views over Yap", "Features remains of Japanese anti-aircraft guns", "Vegetation consists of ferns and grasses", "Most important lookout point near Colonia", "Part of the Tamil region of the island"],
+    },
   },
   {
     id: "micronesia-kepirohi-waterfall-nature-v2",
@@ -76,6 +112,18 @@ export const micronesiaNatureV2: POI[] = [
       en: ["Height: approximately 20 meters", "Composed of basalt stone tiers", "Near the ancient ruins of Nan Madol", "Surrounded by lush tropical gardens"],
     },
     imageHint: "Wide tiered Kepirohi Waterfall with basalt columns in Pohnpei",
+    descriptionAdvanced: {
+      de: "Der Kepirohi-Wasserfall ist einer der bekanntesten und fotogensten Wasserfälle auf Pohnpei. Das Wasser stürzt über eine beeindruckende Wand aus Basaltsäulen in ein großes, erfrischendes Becken, das zum Schwimmen einlädt. Er liegt in der Gemeinde Madolenihmw, unweit der berühmten Ruinen von Nan Madol. Die regelmäßige Anordnung der Basaltsteine verleiht dem Wasserfall eine einzigartige geometrische Struktur.",
+      hu: "A Kepirohi-vízesés Pohnpei egyik legismertebb és leglátványosabb vízesése. A víz egy lenyűgöző bazaltoszlop-falon zúdul le egy nagy, frissítő medencébe, amely kiválóan alkalmas úszásra. Madolenihmw községben található, nem messze Nan Madol híres romjaitól. A bazaltkövek szabályos elrendezése egyedülálló geometriai szerkezetet ad a vízesésnek.",
+      ro: "Cascada Kepirohi este una dintre cele mai cunoscute și fotogenice cascade din Pohnpei. Apa se revarsă peste un perete impresionant de coloane de bazalt într-un bazin mare și răcoritor, ideal pentru înot. Este situată în municipalitatea Madolenihmw, nu departe de faimoasele ruine Nan Madol. Dispunerea regulată a pietrelor de bazalt conferă cascadei o structură geometrică unică.",
+      en: "Kepirohi Waterfall is one of the most famous and photogenic waterfalls on Pohnpei. The water cascades down an impressive wall of basalt columns into a large, refreshing pool suitable for swimming. It is located in the Madolenihmw municipality, not far from the famous ruins of Nan Madol. The regular arrangement of the basalt stones gives the waterfall a unique geometric structure.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Falls beträgt ca. 20 Meter", "Besteht aus natürlichen Basaltsäulen", "Breite des Wasserfalls ca. 30 Meter", "Liegt in der Nähe von Nan Madol", "Beliebtester Ort zum Schwimmen auf Pohnpei", "Von einem gepflegten Steingarten umgeben"],
+      hu: ["A vízesés magassága kb. 20 méter", "Természetes bazaltoszlopokból áll", "A vízesés szélessége kb. 30 méter", "Nan Madol romjainak közelében található", "Pohnpei legnépszerűbb fürdőhelye", "Gondozott kőkert veszi körül"],
+      ro: ["Înălțimea cascadei este de aprox. 20 de metri", "Formată din coloane naturale de bazalt", "Lățimea cascadei este de aprox. 30 de metri", "Situată în apropiere de Nan Madol", "Cel mai popular loc pentru înot din Pohnpei", "Înconjurată de o grădină de piatră îngrijită"],
+      en: ["Height of the falls is about 20 meters", "Composed of natural basalt columns", "Width of the waterfall is about 30 meters", "Located near the ruins of Nan Madol", "Most popular swimming spot on Pohnpei", "Surrounded by a manicured stone garden"],
+    },
   },
   {
     id: "micronesia-liduduhniap-waterfalls-nature-v2",
@@ -95,6 +143,18 @@ export const micronesiaNatureV2: POI[] = [
       en: ["Consists of two main tiers", "Located in the Nett municipality", "Natural freshwater swimming pools", "Surrounded by pristine rainforest"],
     },
     imageHint: "Twin waterfalls Liduduhniap flowing into a jungle pool in Pohnpei",
+    descriptionAdvanced: {
+      de: "Die Liduduhniap-Wasserfälle auf Pohnpei sind ein Zwillingswasserfall-System, das für seine natürliche Schönheit und Ruhe bekannt ist. Die oberen und unteren Fälle fließen über Basaltstufen in tiefe Süßwasserbecken, die von dichtem tropischem Grün umgeben sind. Der Ort ist leicht über einen kurzen Fußweg erreichbar und ein beliebter Ort für Picknicks und Entspannung. Er zeigt die charakteristische vulkanische Geologie der Insel.",
+      hu: "A pohnpei-i Liduduhniap-vízesések egy ikervízesés-rendszert alkotnak, amely természetes szépségéről és nyugalmáról ismert. A felső és alsó ágak bazaltlépcsőkön folynak le mély édesvízi medencékbe, amelyeket sűrű trópusi növényzet vesz körül. A hely könnyen elérhető egy rövid sétával, és kedvelt hely a piknikezésre és pihenésre. Jól szemlélteti a sziget jellegzetes vulkáni geológiáját.",
+      ro: "Cascadele Liduduhniap din Pohnpei sunt un sistem de cascade gemene, cunoscute pentru frumusețea lor naturală și liniște. Cascadele superioare și inferioare curg peste trepte de bazalt în bazine adânci de apă dulce, înconjurate de verdeață tropicală densă. Locul este ușor accesibil printr-o scurtă plimbare și este popular pentru picnicuri și relaxare. Ilustrează geologia vulcanică caracteristică a insulei.",
+      en: "The Liduduhniap Waterfalls on Pohnpei are a twin waterfall system known for their natural beauty and tranquility. The upper and lower falls flow over basalt steps into deep freshwater pools surrounded by dense tropical greenery. The site is easily accessible via a short walk and is a popular spot for picnics and relaxation. It showcases the island's characteristic volcanic geology.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus zwei Hauptstufen (Zwillinge)", "Liegt im Nanpil-Flussgebiet", "Die Becken sind ideal zum Baden", "Umfasst markante Basaltformationen", "Nur 15 Minuten Fahrt von Kolonia entfernt", "Oft von tropischen Farnen umgeben"],
+      hu: ["Két fő lépcsőből áll (ikervízesés)", "A Nanpil-folyó területén található", "A medencék ideálisak a fürdéshez", "Jellegzetes bazaltformációkat tartalmaz", "Mindössze 15 perc autóútra Koloniától", "Gyakran trópusi páfrányok veszik körül"],
+      ro: ["Sistem format din două cascade principale", "Situat în zona râului Nanpil", "Bazinele sunt ideale pentru baie", "Include formațiuni de bazalt proeminente", "La doar 15 minute de mers cu mașina de Kolonia", "Înconjurat frecvent de ferigi tropicale"],
+      en: ["Consists of two main levels (twin falls)", "Located within the Nanpil River area", "The pools are ideal for freshwater bathing", "Features prominent basalt formations", "Only a 15-minute drive from Kolonia", "Often surrounded by tropical ferns"],
+    },
   },
   {
     id: "micronesia-sahwar-waterfall-nature-v2",
@@ -114,6 +174,18 @@ export const micronesiaNatureV2: POI[] = [
       en: ["Prime location for ecotourism", "Accessible via jungle trekking", "High water purity level", "Nesting area for forest birds"],
     },
     imageHint: "Secluded Sahwar Waterfall falling into a deep pool surrounded by dense jungle",
+    descriptionAdvanced: {
+      de: "Der Sahwar-Wasserfall auf Kosrae ist ein verstecktes Juwel inmitten eines dichten Regenwaldes. Das Wasser fällt vertikal eine Felswand hinunter in ein klares Becken, das von riesigen Farnen und alten Bäumen umrahmt wird. Der Pfad dorthin führt durch unberührte Natur und erfordert oft das Überqueren kleiner Bäche. Es ist ein Ort der Stille, der die unberührte Wildnis der 'Garteninsel' Kosrae verkörpert.",
+      hu: "A kosrae-i Sahwar-vízesés egy rejtett gyöngyszem a sűrű esőerdő közepén. A víz függőlegesen zúdul le egy sziklafalon egy tiszta medencébe, amelyet óriási páfrányok és ősi fák öveznek. Az oda vezető út érintetlen természeten keresztül vezet, és gyakran kis patakokon való átkelést igényel. A nyugalom helye, amely Kosrae, a „kertsziget” érintetlen vadonját jelképezi.",
+      ro: "Cascada Sahwar din Kosrae este o bijuterie ascunsă în mijlocul unei păduri tropicale dense. Apa cade vertical pe un perete de stâncă într-un bazin limpede, încadrat de ferigi gigantice și arbori antici. Poteca până acolo trece prin natură virgină și necesită adesea traversarea unor pâraie mici. Este un loc al liniștii care întruchipează sălbăticia neatinasă a insulei Kosrae.",
+      en: "Sahwar Waterfall on Kosrae is a hidden gem nestled in the heart of a dense rainforest. The water drops vertically down a rock face into a clear pool framed by giant ferns and ancient trees. The trail to the falls leads through pristine nature and often requires crossing small streams. It is a place of silence that embodies the untouched wilderness of Kosrae, the 'Garden Island'.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich auf der Insel Kosrae", "Erreichbar über Wanderpfade im Dschungel", "Nahegelegene alte Steinpfade aus der Antike", "Fällt über vulkanisches Vulkangestein", "Wichtige Station für Naturfotografen", "Das Becken ist sehr kühl und erfrischend"],
+      hu: ["Kosrae szigetén található", "Dzsungelösvényeken keresztül érhető el", "Közeli ősi kőutak találhatók a környéken", "Vulkáni kőzeteken zúdul le", "Fontos helyszín a természetfotósok számára", "A medence vize hűvös és frissítő"],
+      ro: ["Situată pe insula Kosrae", "Accesibilă prin poteci de drumeție în junglă", "Căi vechi de piatră antice se află în apropiere", "Cade peste roci vulcanice", "Locație importantă pentru fotografii de natură", "Bazinul este foarte răcoros și revigorant"],
+      en: ["Located on the island of Kosrae", "Accessible via jungle hiking trails", "Nearby ancient stone paths from antiquity", "Cascades over volcanic rock faces", "Important site for nature photographers", "The pool is very cool and refreshing"],
+    },
   },
   {
     id: "micronesia-chuuk-lagoon-nature-v2",
@@ -133,6 +205,18 @@ export const micronesiaNatureV2: POI[] = [
       en: ["Area: over 2,100 square kilometers", "Reef circumference: approx. 225 km", "World-famous scuba diving destination", "Home to over 50 shipwreck sites"],
     },
     imageHint: "Aerial view of the massive Chuuk Lagoon with scattered islands and coral reefs",
+    descriptionAdvanced: {
+      de: "Die Chuuk-Lagune ist eines der weltweit größten geschlossenen Atolle und weltberühmt für ihre maritime Geschichte. Während des Zweiten Weltkriegs war sie der wichtigste Stützpunkt der kaiserlichen japanischen Marine im Pazifik, bis sie 1944 durch die Operation Hailstone zerstört wurde. Heute liegen über 60 Schiffswracks auf dem Meeresgrund, die sich in künstliche Riffe verwandelt haben. Sie beherbergen eine unglaubliche Vielfalt an Korallen und Meeresbewohnern.",
+      hu: "A Chuuk-lagúna a világ egyik legnagyobb zárt atollja, és tengeri történelméről világszerte ismert. A második világháború alatt a japán császári haditengerészet legfontosabb csendes-óceáni bázisa volt, amíg 1944-ben a Hailstone-hadművelet során meg nem semmisült. Ma több mint 60 hajóroncs fekszik a tengerfenéken, amelyek mesterséges zátonyokká alakultak. Hihetetlen változatosságú korallnak és tengeri élőlénynek adnak otthont.",
+      ro: "Laguna Chuuk este unul dintre cele mai mari atoluri închise din lume și este renumită pentru istoria sa maritimă. În timpul celui de-al Doilea Război Mondial, a fost principala bază a Marinei Imperiale Japoneze în Pacific, până când a fost distrusă în 1944 prin Operațiunea Hailstone. Astăzi, peste 60 de epave de nave zac pe fundul mării, transformându-se în recife artificiale. Acestea găzduiesc o varietate incredibilă de corali și creaturi marine.",
+      en: "Chuuk Lagoon is one of the world's largest land-locked atolls and is world-famous for its maritime history. During World War II, it was the Imperial Japanese Navy's main base in the Pacific until it was destroyed in 1944 during Operation Hailstone. Today, over 60 shipwrecks lie on the seabed, having transformed into artificial reefs. They host an incredible variety of corals and marine life.",
+    },
+    factsAdvanced: {
+      de: ["Umfasst über 60 Schiffswracks aus dem WK II", "Lagunendurchmesser beträgt ca. 60 km", "Schauplatz der Operation Hailstone (1944)", "Weltbestes Ziel für Wracktauchen", "Schiffe sind heute geschützte Nationaldenkmäler", "Beherbergt über 200 Korallenarten"],
+      hu: ["Több mint 60 második világháborús hajóroncsot tartalmaz", "A lagúna átmérője kb. 60 km", "A Hailstone-hadművelet helyszíne (1944)", "A világ legjobb roncsmerülő helye", "A hajók ma védett nemzeti műemlékek", "Több mint 200 korallfajnak ad otthont"],
+      ro: ["Conține peste 60 de epave din al Doilea Război Mondial", "Diametrul lagunei este de aprox. 60 km", "Locul Operațiunii Hailstone (1944)", "Cea mai bună destinație de scufundări la epave din lume", "Navele sunt astăzi monumente naționale protejate", "Găzduiește peste 200 de specii de corali"],
+      en: ["Contains over 60 shipwrecks from WWII", "Lagoon diameter is approximately 60 km", "Site of Operation Hailstone in 1944", "World's premier wreck diving destination", "Wrecks are now protected national monuments", "Home to over 200 species of corals"],
+    },
   },
   {
     id: "micronesia-woleai-atoll-nature-v2",
@@ -152,6 +236,18 @@ export const micronesiaNatureV2: POI[] = [
       en: ["Consists of 22 small islets", "Distinct dumbbell-shaped structure", "Rich in diverse marine life", "Traditional navigation training center"],
     },
     imageHint: "Dumbbell-shaped Woleai Atoll with lush islands and inner lagoons",
+    descriptionAdvanced: {
+      de: "Woleai ist ein Korallenatoll im Bundesstaat Yap der Föderierten Staaten von Mikronesien. Es besteht aus 22 Inselchen, die eine zentrale Lagune umschließen. Während des Zweiten Weltkriegs diente das Atoll als japanischer Luftwaffenstützpunkt. Heute ist es für seine traditionelle mikronesische Kultur und Navigationstechniken bekannt.",
+      hu: "A Woleai-atoll a Mikronéziai Szövetségi Államok Yap államához tartozó korallzátony. Huszonkét kis sziget alkotja, amelyek egy központi lagúnát fognak közre. A második világháború alatt fontos japán légitámaszpontként szolgált a térségben. Napjainkban a hagyományos navigációs módszereiről és ősi kultúrájáról nevezetes.",
+      ro: "Atolul Woleai este un atol de corali situat în statul Yap din Statele Federate ale Microneziei. Este format din 22 de insulițe care înconjoară o lagună centrală de mari dimensiuni. În timpul celui de-al Doilea Război Mondial, a servit drept bază aeriană strategică pentru forțele japoneze. Astăzi, comunitatea păstrează tehnici tradiționale de navigație.",
+      en: "Woleai Atoll is a coral atoll in the Yap State of the Federated States of Micronesia. It consists of 22 islets surrounding a central lagoon with an area of 29 square kilometers. During World War II, the atoll was utilized as a significant Japanese airbase. Today, it is recognized for its well-preserved traditional Micronesian culture and celestial navigation.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlandfläche von etwa 4,5 Quadratkilometern", "Die zentrale Lagune umfasst 29 Quadratkilometer", "Besteht aus zwei miteinander verbundenen Atoll-Systemen", "Japanische Garnison zählte 1944 über 6000 Soldaten", "Häufiger Anlaufpunkt für traditionelle Segelkanus", "Liegt etwa 700 Kilometer südlich von Guam"],
+      hu: ["Teljes szárazföldi területe körülbelül 4,5 km2", "A központi lagúna területe 29 négyzetkilométer", "Huszonkét különálló korallsziget alkotja a láncot", "1944-ben több mint 6000 japán katona állomásozott itt", "A hagyományos mikronéziai navigáció egyik központja", "Guamtól megközelítőleg 700 kilométerre délre fekszik"],
+      ro: ["Suprafața terestră totală este de aproximativ 4,5 km2", "Laguna centrală acoperă o zonă de 29 km2", "Este compus din 22 de insulițe de corali distincte", "Garnizoana japoneză număra peste 6000 de oameni în 1944", "Cunoscut pentru utilizarea canoei tradiționale cu velă", "Situat la circa 700 de kilometri sud de Guam"],
+      en: ["Total land area of approximately 4.5 square kilometers", "The central lagoon covers 29 square kilometers", "Consists of 22 distinct coral islets in the chain", "Japanese garrison exceeded 6,000 personnel in 1944", "Key site for traditional Micronesian wayfinding", "Located roughly 700 kilometers south of Guam"],
+    },
   },
   {
     id: "micronesia-kosrae-mangrove-forest-nature-v2",
@@ -171,6 +267,18 @@ export const micronesiaNatureV2: POI[] = [
       en: ["Fringes nearly the entire coastline", "Critical nursery for marine species", "Home to centuries-old mangrove trees", "Natural defense against tsunamis and storms"],
     },
     imageHint: "Dense mangrove forest with complex root systems and kayak channel in Kosrae",
+    descriptionAdvanced: {
+      de: "Die Mangrovenwälder von Kosrae gehören zu den am besten erhaltenen Ökosystemen im Pazifik. Sie bilden einen natürlichen Schutzgürtel um die Insel und filtern Sedimente aus den Flüssen. Die Wälder beherbergen seltene Vogelarten und dienen als Kinderstube für zahlreiche Meeresbewohner. Besucher können das Gebiet auf schmalen Wasserwegen mit dem Kajak erkunden.",
+      hu: "Kosrae mangroveerdői a Csendes-óceán térségének egyik legjobban megőrzött ökoszisztémáját alkotják. Természetes védővonalat képeznek a sziget körül, és megszűrik a folyókból érkező hordalékot. Az erdők ritka madárfajoknak adnak otthont, és számos tengeri élőlény bölcsőjeként szolgálnak. A látogatók kajakkal fedezhetik fel a sűrű vízi utakat.",
+      ro: "Pădurile de mangrove din Kosrae reprezintă unul dintre cele mai bine conservate ecosisteme din Oceanul Pacific. Acestea formează o barieră naturală de protecție în jurul insulei și filtrează sedimentele râurilor. Pădurile adăpostesc specii rare de păsări și servesc drept habitat pentru numeroase organisme marine. Zona poate fi explorată cu caiacul prin canalele înguste.",
+      en: "The mangrove forests of Kosrae are among the most pristine and well-preserved ecosystems in the Pacific region. They form a vital natural barrier protecting the island's coastline and filtering river sediments. These forests host rare bird species and provide essential nurseries for diverse marine life. Visitors can navigate the dense waterways using traditional or modern kayaks.",
+    },
+    factsAdvanced: {
+      de: ["Umfasst etwa 15% der gesamten Landfläche von Kosrae", "Beherbergt zehn verschiedene Arten von Mangrovenbäumen", "Schützt die Küste vor Erosion und Sturmschäden", "Wichtiges Brutgebiet für Seevögel und Fische", "Bäume erreichen teilweise Höhen von über 20 Metern", "Teil eines Biosphärenreservats der Vereinten Nationen"],
+      hu: ["Kosrae teljes szárazföldi területének 15%-át fedi le", "Tíz különböző mangrovefa-faj található meg itt", "Megvédi a partvonalat az eróziótól és a viharoktól", "Fontos szaporodóhely a tengeri halak és madarak számára", "A fák magassága helyenként a 20 métert is meghaladja", "Az ENSZ egyik kijelölt bioszféra-rezervátumának része"],
+      ro: ["Acoperă aproximativ 15% din suprafața totală a insulei", "Adăpostește zece specii diferite de arbori de mangrove", "Protejează linia de coastă împotriva eroziunii și furtunilor", "Zonă critică de reproducere pentru pești și păsări", "Arborii pot atinge înălțimi de peste 20 de metri", "Face parte dintr-o rezervație a biosferei monitorizată"],
+      en: ["Covers approximately 15% of Kosrae's total land area", "Home to ten different species of mangrove trees", "Protects the coastline from erosion and storm surges", "Crucial breeding ground for marine fish and birds", "Some trees reach heights exceeding 20 meters", "Part of a designated UNESCO biosphere reserve area"],
+    },
   },
   {
     id: "micronesia-wiya-bird-cave-nature-v2",
@@ -190,6 +298,18 @@ export const micronesiaNatureV2: POI[] = [
       en: ["Home to thousands of swiftlets", "Limestone cavern with stalactites", "Major source of natural guano fertilizer", "Linked to local legends of ancient giants"],
     },
     imageHint: "Dark entrance of Wiya Bird Cave surrounded by tropical ferns in Kosrae",
+    descriptionAdvanced: {
+      de: "Die Wiya-Vogelhöhle auf Kosrae ist eine natürliche Lavaröhre, die Tausenden von Salanganen als Nistplatz dient. Die Vögel nutzen Echolokation, um in der Dunkelheit der Höhle zu navigieren. Die Höhle liegt inmitten dichter tropischer Vegetation im Norden der Insel. Der Boden der Höhle ist von dicken Schichten aus Guano bedeckt, was auf die jahrhundertelange Nutzung durch die Vögel hinweist.",
+      hu: "A Kosrae-szigeten található Wiya-madárbarlang egy természetes lávafolyosó, amely szalangánok ezreinek fészkelőhelye. Ezek a madarak echolokációt használnak a barlang sötétjében való tájékozódáshoz. A barlang a sziget északi részén, sűrű trópusi növényzet között fekszik. A barlang alját vastag guanóréteg borítja, ami a madarak évszázados jelenlétére utal.",
+      ro: "Peștera păsărilor Wiya din Kosrae este un tub de lavă natural care servește drept loc de cuibărit pentru mii de lăstuni de peșteră. Păsările utilizează ecolocația pentru a naviga în întunericul total al peșterii. Aceasta este situată în nordul insulei, înconjurată de vegetație tropicală densă. Solul peșterii este acoperit de straturi groase de guano acumulate în secole.",
+      en: "Wiya Bird Cave on Kosrae is a natural lava tube that serves as a nesting site for thousands of Island Swiftlets. These birds employ echolocation to navigate the profound darkness of the cave system. Located in the northern part of the island, the cave is enveloped by lush tropical jungle. The cavern floor is covered with thick guano deposits, reflecting centuries of avian habitation.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt eine große Kolonie von Insel-Salanganen", "Die Vögel navigieren mittels Klickgeräuschen (Echolokation)", "Besteht aus vulkanischem Gestein und Lavaröhren", "Befindet sich in der Nähe des Dorfes Tafunsak", "Einstiegsbereich ist von Farnen und Lianen umgeben", "Wichtiger Ort für die Erforschung der lokalen Fauna"],
+      hu: ["Hatalmas szigetlakó szalangána-kolóniának ad otthont", "A madarak kattogó hangokkal (echolokáció) tájékozódnak", "Vulkáni kőzetből és lávacsövekből épül fel", "Tafunsak falu közelében található a sziget északi részén", "A bejáratot páfrányok és sűrű liánok övezik", "Fontos helyszín a helyi fauna tudományos kutatásához"],
+      ro: ["Găzduiește o colonie masivă de lăstuni de peșteră", "Păsările navighează folosind sunete de ecolocație", "Formatiune geologică de tip tub de lavă vulcanică", "Situată în apropierea satului Tafunsak din nord", "Intrarea este marcată de ferigi și liane luxuriante", "Sit important pentru studiul biodiversității locale"],
+      en: ["Home to a massive colony of Island Swiftlets", "Birds navigate using clicking sounds (echolocation)", "Geological formation consisting of volcanic lava tubes", "Located near the village of Tafunsak in the north", "Entrance is surrounded by dense ferns and vines", "Important site for the study of local endemic fauna"],
+    },
   },
   {
     id: "micronesia-kuop-atoll-nature-v2",
@@ -209,6 +329,18 @@ export const micronesiaNatureV2: POI[] = [
       en: ["Uninhabited marine protected area", "Located just south of Chuuk Lagoon", "Highest coral density in the region", "Critical sanctuary for sea turtles"],
     },
     imageHint: "Aerial shot of the uninhabited Kuop Atoll with its circular coral reef",
+    descriptionAdvanced: {
+      de: "Das Kuop-Atoll, auch als Neoch bekannt, liegt unmittelbar südlich der Chuuk-Lagune. Es ist ein unbewohntes Atoll, das für seine außergewöhnliche Unterwasserwelt und Schiffswracks aus dem Zweiten Weltkrieg bekannt ist. Während der Operation Hailstone suchten japanische Schiffe hier Zuflucht. Heute ist das Atoll ein beliebtes Ziel für Forschungsexpeditionen und erfahrene Taucher.",
+      hu: "A Kuop-atoll, más néven Neoch, közvetlenül a Chuuk-lagúnától délre helyezkedik el. Ez egy lakatlan korallzátony, amely rendkívüli víz alatti élővilágáról és második világháborús hajóroncsairól ismert. A Hailstone-hadművelet során japán hajók kerestek itt menedéket. Ma az atoll a kutatóexpedíciók és a tapasztalt búvárok kedvelt célpontja.",
+      ro: "Atolul Kuop, cunoscut și sub numele de Neoch, este situat imediat la sud de Laguna Chuuk. Este un atol nelocuit, renumit pentru viața marină excepțională și epavele din al Doilea Război Mondial. În timpul Operațiunii Hailstone, navele japoneze s-au refugiat în apele sale. Astăzi, atolul este o destinație majoră pentru expediții de cercetare și scufundări.",
+      en: "Kuop Atoll, also known as Neoch, is located just south of the main Chuuk Lagoon. It is an uninhabited coral atoll celebrated for its extraordinary marine biodiversity and World War II shipwrecks. During Operation Hailstone in 1944, several Japanese vessels sought refuge within its lagoon. Today, the atoll serves as a prime location for scientific research and advanced diving.",
+    },
+    factsAdvanced: {
+      de: ["Liegt nur etwa 3 Kilometer südlich der Chuuk-Lagune", "Das Atoll ist etwa 21 Kilometer lang", "Während des Zweiten Weltkriegs sanken hier mehrere Schiffe", "Es gibt keine permanenten menschlichen Siedlungen", "Bekannt für große Populationen von Riffhaien", "Wichtiger Nistplatz für grüne Meeresschildkröten"],
+      hu: ["Mindössze 3 kilométerre délre fekszik a Chuuk-lagúnától", "Az atoll hossza megközelítőleg 21 kilométer", "A második világháború alatt több hajó süllyedt el itt", "Nincsenek állandó lakosai vagy települései", "Híres a nagy létszámú szirticápa-populációjáról", "A közönséges levesteknősök fontos fészkelőhelye"],
+      ro: ["Situat la doar 3 kilometri sud de Laguna Chuuk", "Atolul are o lungime de aproximativ 21 de kilometri", "Mai multe nave au fost scufundate aici în 1944", "Nu are așezări umane permanente pe insulele sale", "Cunoscut pentru populațiile mari de rechini de recif", "Loc important de cuibărit pentru țestoasele verzi"],
+      en: ["Located only 3 kilometers south of the Chuuk Lagoon", "The atoll measures approximately 21 kilometers in length", "Several ships were sunk here during World War II", "There are no permanent human inhabitants on the islets", "Famous for its large populations of reef sharks", "Critical nesting site for the endangered green sea turtle"],
+    },
   },
   {
     id: "micronesia-ngulu-atoll-nature-v2",
@@ -228,6 +360,18 @@ export const micronesiaNatureV2: POI[] = [
       en: ["Westernmost atoll of the FSM", "Positioned between Yap and Palau", "Features a large and deep lagoon", "Extremely sparse human population"],
     },
     imageHint: "Deep blue waters and coral formations of Ngulu Atoll in the western Pacific",
+    descriptionAdvanced: {
+      de: "Ngulu ist ein abgelegenes Korallenatoll im Westen der Karolinen und gehört zum Bundesstaat Yap. Es ist eines der westlichsten Atolle der Föderierten Staaten von Mikronesien. Das Atoll verfügt über eine riesige Lagune, während die Landfläche auf wenige kleine Motus begrenzt ist. Aufgrund seiner Isoliertheit hat sich hier eine fast unberührte Meeresflora und -fauna erhalten.",
+      hu: "A Ngulu-atoll egy távoli korallzátony a Karolina-szigetek nyugati részén, Yap állam területén. Ez a Mikronéziai Szövetségi Államok egyik legnyugatibb atollja. Az atoll hatalmas lagúnával rendelkezik, míg a szárazföld csak néhány apró szigetre korlátozódik. Elszigeteltsége miatt a tengeri flóra és fauna szinte érintetlen maradt a térségben.",
+      ro: "Ngulu este un atol de corali izolat situat în vestul Insulelor Caroline, aparținând statului Yap. Este unul dintre cei mai vestici atoli ai Statelor Federate ale Microneziei. Atolul dispune de o lagună vastă, în timp ce suprafața terestră este limitată la câteva insulițe mici. Datorită izolării sale, flora și fauna marină au rămas aproape virgine.",
+      en: "Ngulu Atoll is a remote coral atoll in the western Caroline Islands, forming part of Yap State. It ranks among the westernmost atolls of the Federated States of Micronesia. The atoll features a vast lagoon area, while the land surface is confined to a few small motus. Its extreme isolation has preserved a nearly pristine marine environment and coral ecosystem.",
+    },
+    factsAdvanced: {
+      de: ["Westlichstes bewohntes Atoll der Föderierten Staaten", "Die Lagune bedeckt eine Fläche von 380 km2", "Landfläche beträgt insgesamt weniger als 0,5 km2", "Liegt etwa auf halbem Weg zwischen Yap und Palau", "Bekannt für den Reichtum an Pelagischen Fischen", "Traditionelle Landrechte werden streng gewahrt"],
+      hu: ["A Szövetségi Államok legnyugatibb lakott atollja", "A lagúna területe eléri a 380 négyzetkilométert", "A szárazföldi terület összesen kevesebb mint 0,5 km2", "Körülbelül félúton fekszik Yap és Palau között", "Híres a nyílttengeri halakban való gazdagságáról", "A hagyományos földjogokat szigorúan betartják"],
+      ro: ["Cel mai vestic atol locuit din Statele Federate", "Laguna acoperă o suprafață de circa 380 km2", "Suprafața terestră totală este sub 0,5 km2", "Situat aproximativ la jumătatea distanței între Yap și Palau", "Renumit pentru abundența de pești pelagici mari", "Drepturile funciare tradiționale sunt strict menținute"],
+      en: ["Westernmost inhabited atoll of the Federated States", "The lagoon covers an area of 380 square kilometers", "Total land area is less than 0.5 square kilometers", "Located roughly midway between Yap and Palau", "Renowned for its abundance of large pelagic fish", "Traditional land rights are strictly observed by locals"],
+    },
   },
   {
     id: "micronesia-ifalik-atoll-nature-v2",
@@ -247,6 +391,18 @@ export const micronesiaNatureV2: POI[] = [
       en: ["Almost perfectly circular lagoon", "Consists of 3 main islets", "Strict traditional resource management", "No airstrip exists on the atoll"],
     },
     imageHint: "Small circular atoll Ifalik with turquoise lagoon and lush green islets",
+    descriptionAdvanced: {
+      de: "Ifalik ist ein kleines Korallenatoll im Bundesstaat Yap, das aus vier Hauptinseln besteht. Die Bewohner von Ifalik sind für ihre strikte Einhaltung traditioneller Bräuche und ihre Ablehnung westlicher Einflüsse bekannt. Die Gesellschaft ist matrilinear organisiert, und die Fischerei bildet die primäre Lebensgrundlage. Das Atoll ist nur per Schiff erreichbar, was zur Bewahrung der Kultur beigetragen hat.",
+      hu: "Az Ifalik-atoll egy kisméretű korallzátony Yap államban, amely négy fő szigetből áll. Lakói a hagyományos szokások szigorú betartásáról és a nyugati hatások elutasításáról ismertek. A társadalom matrilineáris felépítésű, és a halászat jelenti a fő megélhetési forrást. Az atoll csak hajóval érhető el, ami segített megőrizni az őshonos kultúrát.",
+      ro: "Atolul Ifalik este un mic atol de corali din statul Yap, format din patru insule principale. Locuitorii din Ifalik sunt cunoscuți pentru respectarea strictă a obiceiurilor tradiționale și rezistența la influențele externe. Societatea este organizată matriliniar, iar pescuitul este principala sursă de subzistență. Atolul este accesibil doar pe mare, păstrându-și astfel izolarea.",
+      en: "Ifalik Atoll is a compact coral atoll in Yap State, comprising four primary islands surrounding a small lagoon. The inhabitants are noted for their strict adherence to traditional customs and limited adoption of Western influences. The social structure is matrilineal, with subsistence fishing serving as the primary livelihood. Accessible only by sea, the atoll has effectively preserved its ancestral heritage.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlandfläche beträgt lediglich 1,47 km2", "Besteht aus den Inseln Ifalik, Flalap, Ella und Rauau", "Die Lagune ist sehr flach und hat keine tiefe Passage", "Nutzung von Außenbordmotoren ist kulturell eingeschränkt", "Traditionelle Tätowierungen sind weiterhin verbreitet", "Erreichbar nur über unregelmäßige Frachtschiffe"],
+      hu: ["A teljes szárazföldi terület mindössze 1,47 km2", "Ifalik, Flalap, Ella és Rauau szigetek alkotják", "A lagúna sekély, nincs mélyvízi bejárata a hajóknak", "A csónakmotorok használata kulturális okokból korlátozott", "A hagyományos tetoválások még mindig elterjedtek", "Csak rendszertelenül közlekedő teherhajókkal érhető el"],
+      ro: ["Suprafața terestră totală este de doar 1,47 km2", "Format din insulele Ifalik, Flalap, Ella și Rauau", "Laguna este puțin adâncă și nu are pasaje navigabile mari", "Utilizarea motoarelor suspendate este limitată cultural", "Tatuajele tradiționale sunt încă practicate pe scară largă", "Accesibil doar prin intermediul navelor comerciale rare"],
+      en: ["Total land area is a mere 1.47 square kilometers", "Comprised of Ifalik, Flalap, Ella, and Rauau islands", "The lagoon is shallow without deep-water ship passages", "Use of outboard motors is culturally restricted", "Traditional tattooing practices remain common today", "Reachable only via irregular inter-island cargo ships"],
+    },
   },
   {
     id: "micronesia-okat-river-nature-v2",
@@ -266,5 +422,17 @@ export const micronesiaNatureV2: POI[] = [
       en: ["Largest river system on Kosrae", "Drains into the Pacific Ocean", "Critical habitat for mangrove crabs", "Bordered by extensive swamp forests"],
     },
     imageHint: "Aerial view of Okat River winding through thick mangrove forests in Kosrae",
+    descriptionAdvanced: {
+      de: "Der Okat-Fluss ist einer der bedeutendsten Wasserläufe auf der Insel Kosrae. Er entspringt in den zentralen Bergen und fließt durch dichten Dschungel und ausgedehnte Mangrovensümpfe, bevor er in den Ozean mündet. Der Fluss ist lebenswichtig für das lokale Ökosystem und bietet Lebensraum für zahlreiche Süßwasserfische und Krebstiere. Nahe seiner Mündung befindet sich der wichtigste Hafen der Insel.",
+      hu: "Az Okat-folyó Kosrae szigetének egyik legjelentősebb vízfolyása. A központi hegyekben ered, sűrű dzsungelen és kiterjedt mocsarakon folyik keresztül, mielőtt az óceánba torkollna. A folyó létfontosságú a helyi ökoszisztéma számára, számos édesvízi halnak és rákfélének nyújt élőhelyet. A torkolat közelében található a sziget legfontosabb kikötője.",
+      ro: "Râul Okat este una dintre cele mai importante căi navigabile de pe insula Kosrae. Izvorăște din munții centrali și traversează jungla densă și mlaștini extinse de mangrove înainte de a se vărsa în ocean. Râul este vital pentru ecosistemul local, oferind habitat pentru numeroase specii de pești de apă dulce. În apropierea gurii de vărsare se află principalul port al insulei.",
+      en: "The Okat River is one of the most significant watercourses on the island of Kosrae. Originating in the central highlands, it flows through dense rainforests and extensive mangrove swamps before reaching the Pacific Ocean. The river is essential to the local ecosystem, hosting various freshwater fish and crustacean species. The island's primary harbor is situated near its mouth.",
+    },
+    factsAdvanced: {
+      de: ["Mündet in der Nähe des Flughafens von Kosrae", "Wird für den Transport landwirtschaftlicher Güter genutzt", "Durchfließt einige der ältesten Mangrovenbestände", "Wichtige Quelle für Süßwasserressourcen der Insel", "Beherbergt seltene Süßwasserkrabben", "Starke Strömungen während der tropischen Regenzeiten"],
+      hu: ["Kosrae repülőterének közelében torkollik az óceánba", "Mezőgazdasági termékek szállítására is használják", "A térség legősibb mangroveerdein folyik keresztül", "A sziget egyik legfontosabb édesvízforrása", "Ritka édesvízi rákfajoknak ad otthont", "A trópusi esős évszakban jelentős a vízhozama"],
+      ro: ["Se varsă în ocean lângă aeroportul din Kosrae", "Utilizat istoric pentru transportul produselor agricole", "Traversează unele dintre cele mai vechi mangrove", "Sursă esențială de apă dulce pentru comunitate", "Adăpostește specii rare de crabi de apă dulce", "Prezintă curenți puternici în timpul sezonului ploios"],
+      en: ["Empties into the ocean near the Kosrae Airport", "Historically used for transporting agricultural goods", "Flows through some of the oldest mangrove stands", "A critical source of freshwater for the island", "Inhabited by rare endemic freshwater crabs", "Experiences strong currents during the tropical wet season"],
+    },
   }
 ];

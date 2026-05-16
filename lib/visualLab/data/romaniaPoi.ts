@@ -3901,7 +3901,19 @@ export const romaniaExtraPois: POI[] = [
     name: { de: "Bärensee Sovata", hu: "Medve-tó Szováta", ro: "Lacul Ursu Sovata", en: "Bear Lake Sovata" },
     description: { de: "Der weltweit größte heliothemische Salzsee.", hu: "A világ legnagyobb heliotermikus sós tava.", ro: "Cel mai mare lac sărat helioterm din lume.", en: "The world's largest heliothermic salt lake." },
     facts: { de: ["Wassertemperatur steigt durch Sonneneinstrahlung.", "Heilende Wirkung bei Rheuma.", "Geformt wie ein Bärenfell."], hu: ["A víz hőmérséklete a napsugárzás hatására emelkedik.", "Gyógyhatású reuma esetén.", "Medvebőr alakú."], ro: ["Temperatura apei crește datorită radiației solare.", "Efecte terapeutice pentru reumatism.", "Format ca o piele de urs."], en: ["Water temperature increases due to solar radiation.", "Therapeutic effects for rheumatism.", "Shaped like a bear skin."] },
-    image: "/geo-images/romania/sovata-bear-lake.webp"
+    image: "/geo-images/romania/sovata-bear-lake.webp",
+    descriptionAdvanced: {
+      de: "Der Bärensee in Sovata ist der weltweit größte heliotherme See und ein bedeutendes Heilbad in Siebenbürgen. Er entstand 1875 durch den Einsturz eines Salzbergwerks. Das salzhaltige Wasser speichert die Sonnenwärme und wird für medizinische Behandlungen genutzt. Aufgrund seiner chemischen Zusammensetzung wird er oft mit dem Toten Meer verglichen.",
+      hu: "A szovátai Medve-tó a világ legnagyobb heliotermikus tava, és Erdély egyik legfontosabb gyógyfürdője. 1875-ben keletkezett egy sóbánya beomlása után. A sós víz tárolja a nap melegét, és különféle orvosi kezelésekre használják. Kémiai összetétele miatt gyakran hasonlítják a Holt-tengerhez.",
+      ro: "Lacul Ursu din Sovata este cel mai mare lac helioterm din lume și o stațiune balneară majoră din Transilvania. S-a format în anul 1875 în urma prăbușirii unei exploatări de sare. Apa sărată stochează căldura solară și este utilizată pentru tratamente medicale. Datorită concentrației de sare, este comparat adesea cu Marea Moartă.",
+      en: "Bear Lake in Sovata is the world's largest heliothermal lake and a major spa destination in Transylvania. It was formed in 1875 following the collapse of a salt mine. The salty water retains solar heat and is used for various medical treatments. Its unique chemical composition often leads to comparisons with the Dead Sea.",
+    },
+    factsAdvanced: {
+      de: ["Entstanden am 27. Mai 1875", "Fläche von 40.235 m2", "Maximale Tiefe 18 Meter", "Salzkonzentration bis zu 250 g/l", "Heliothermer Effekt bis 50 Grad Celsius", "Form eines Bärenfells"],
+      hu: ["1875. május 27-én keletkezett", "Felszíne 40 235 m2", "Maximális mélysége 18 méter", "Sótartalma elérheti a 250 g/l-t", "Heliotermikus hatás 50 fokig", "Alakja kiterített medvebőrhöz hasonlít"],
+      ro: ["Format pe 27 mai 1875", "Suprafață de 40.235 m2", "Adâncime maximă de 18 metri", "Salinitate de până la 250 g/l", "Efect helioterm de până la 50 grade", "Formă asemănătoare unei piei de urs"],
+      en: ["Formed on May 27, 1875", "Surface area of 40,235 m2", "Maximum depth of 18 meters", "Salt concentration up to 250 g/l", "Heliothermal peak of 50 degrees Celsius", "Shape resembles a bear skin"],
+    },
   },
   {
     id: "ro-poi-vacarescu-house", type: "historical", parent: "RO-B", coords: [26.1000, 44.4333],

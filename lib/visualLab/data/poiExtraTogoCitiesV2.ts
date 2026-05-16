@@ -25,7 +25,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Togo fővárosa", "A régió egyetlen mélytengeri kikötője", "Híres a Grand Marché piacról", "A Loméi Egyetem székhelye"],
       ro: ["Capitala Togoului", "Singurul port de mare adâncime din regiune", "Faimos pentru Grand Marché", "Sediul Universității din Lomé"],
       en: ["Capital of Togo", "Region's only deep-water port", "Famous for the Grand Marché", "Home to the University of Lomé"]
-    }, image: "/poi-images/lome-cities-v2.webp"},
+    }, image: "/poi-images/lome-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Lomé ist die einzige Hauptstadt der Welt, die direkt an einer internationalen Grenze liegt.", "Der Hafen von Lomé ist der einzige Tiefwasserhafen in Westafrika.", "Die Stadt wurde 1897 zur Hauptstadt der deutschen Kolonie Togo erklärt.", "Der Akodésséwa-Markt bietet alles für traditionelle Voodoo-Zeremonien an.", "Lomé hat eine Bevölkerung von über 1,5 Millionen Einwohnern im Ballungsraum.", "Die Kathedrale Sacré-Cœur ist ein bedeutendes Beispiel deutscher Kolonialarchitektur."],
+      hu: ["Lomé az egyetlen főváros a világon, amely közvetlenül egy országhatáron fekszik.", "Lomé kikötője az egyetlen természetes mélyvízi kikötő Nyugat-Afrikában.", "A várost 1897-ben tették meg a német Togóföld gyarmati fővárosává.", "Az Akodésséwa piac a világ legnagyobb vudu vallási kellékeket árusító helye.", "Lomé agglomerációjának lakossága meghaladja az 1,5 millió főt.", "A Szent Szív székesegyház a német gyarmati építészet egyik legszebb példája."],
+      ro: ["Lomé este singura capitală din lume situată chiar pe o frontieră internațională.", "Portul din Lomé este singurul port de mare adâncime din Africa de Vest.", "Orașul a devenit capitala coloniei germane Togo în anul 1897.", "Piața Akodésséwa este celebră pentru articolele utilizate în ritualurile voodoo.", "Populația zonei metropolitane Lomé depășește 1,5 milioane de locuitori.", "Catedrala Sacré-Cœur a fost construită de germani la începutul secolului XX."],
+      en: ["Lomé is the only capital city in the world situated directly on an international border.", "The Port of Lomé is the only natural deep-water port in West Africa.", "The city was designated as the capital of German Togoland in 1897.", "The Akodésséwa Market is known globally as a primary source for voodoo materials.", "Lomé's metropolitan area is home to more than 1.5 million residents.", "The Sacred Heart Cathedral is a prominent landmark of German colonial architecture."],
+    },
+  },
   {
     id: "atakpame-cities-v2",
     type: "state-capital",
@@ -50,7 +57,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A Plateaux régió fővárosa", "Híres a gólyalábas táncairól", "Egykori német rádióállomás", "Fontos gyapotkereskedelmi központ"],
       ro: ["Capitala regiunii Plateaux", "Cunoscut pentru dansurile pe picioroange", "Fostă stație radio germană", "Important centru comercial pentru bumbac"],
       en: ["Capital of the Plateaux Region", "Known for stilt dances", "Former German radio station", "Major cotton trading hub"]
-    }, image: "/poi-images/atakpame-cities-v2.webp"},
+    }, image: "/poi-images/atakpame-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Atakpamé ist die fünftgrößte Stadt Togos nach Einwohnerzahl.", "Die Stadt liegt auf einer durchschnittlichen Höhe von etwa 400 Metern.", "Im Jahr 1914 war Atakpamé Schauplatz wichtiger Kämpfe im Ersten Weltkrieg.", "Die Funkstation Kamina war damals eine der leistungsstärksten der Welt.", "Baumwolle ist das wichtigste industrielle Agrarprodukt der Region.", "Der 'Tchébé'-Tanz wird auf bis zu 5 Meter hohen Stelzen aufgeführt."],
+      hu: ["Atakpamé Togo ötödik legnagyobb városa lakosságszám alapján.", "A település átlagosan 400 méterrel a tengerszint felett fekszik.", "1914-ben Atakpamé az első világháború egyik afrikai hadszíntere volt.", "A közeli Kamina rádióállomás kora egyik legfejlettebb technológiáját képviselte.", "A régió legfontosabb ipari növénye és exportcikke a gyapot.", "A 'Tchébé' táncosok akár 5 méter magas gólyalábakon is egyensúlyoznak."],
+      ro: ["Atakpamé este al cincilea oraș ca mărime din Togo după numărul de locuitori.", "Orașul este situat la o altitudine medie de aproximativ 400 de metri.", "În 1914, orașul a fost scena unor confruntări în timpul Campaniei din Togo.", "Stația radio Kamina asigura legătura directă între Berlin și coloniile africane.", "Bumbacul reprezintă principala cultură industrială procesată în oraș.", "Dansul 'Tchébé' se execută pe picioroange ce pot atinge înălțimea de 5 metri."],
+      en: ["Atakpamé is the fifth-largest city in Togo by population.", "The city sits at an average elevation of about 400 meters above sea level.", "In 1914, Atakpamé was a key site during the World War I Togoland Campaign.", "The Kamina radio station was one of the most powerful wireless transmitters of its era.", "Cotton is the primary industrial agricultural product of the Atakpamé region.", "The 'Tchébé' dance features performers on stilts up to 5 meters high."],
+    },
+  },
   {
     id: "sokode-cities-v2",
     type: "state-capital",
@@ -75,7 +89,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A Centrale régió fővárosa", "A Kotokoli kultúra központja", "Híres a késtáncáról", "Fontos közlekedési csomópont"],
       ro: ["Capitala regiunii Centrale", "Centrul culturii Kotokoli", "Faimos pentru dansul cuțitelor", "Important nod de transport"],
       en: ["Capital of the Centrale Region", "Center of Kotokoli culture", "Famous for the knife dance", "Key transportation hub"]
-    }, image: "/poi-images/sokode-cities-v2.webp"},
+    }, image: "/poi-images/sokode-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Sokodé liegt etwa 340 Kilometer nördlich der Hauptstadt Lomé.", "Die Stadt hat eine geschätzte Bevölkerung von über 120.000 Einwohnern.", "Der Islam ist die vorherrschende Religion in Sokodé seit dem 18. Jahrhundert.", "Das Gadao-Adossa-Fest findet meist im Januar oder Februar statt.", "Sokodé ist bekannt als die 'Stadt der Reiter' wegen ihrer Kavallerie-Tradition.", "Die Region um Sokodé ist ein Hauptanbaugebiet für die Yamswurzel."],
+      hu: ["Sokodé mintegy 340 kilométerre északra található a fővárostól, Lométól.", "A város lakossága meghaladja a 120 000 főt, amivel Togo második legnagyobbja.", "Az iszlám vallás a 18. század óta meghatározó Sokodé életében.", "A Gadao-Adossa fesztivált általában januárban vagy februárban rendezik.", "Sokodét a 'lovasok városának' is hívják a tem nép lovas hagyományai miatt.", "A város környéke Togo egyik legfontosabb jamgyökér-termelő vidéke."],
+      ro: ["Sokodé este situat la aproximativ 340 km nord de capitala Lomé.", "Populația orașului este estimată la peste 120.000 de locuitori.", "Islamul a devenit religia predominantă în Sokodé încă din secolul al XVIII-lea.", "Festivalul Gadao-Adossa are loc de obicei la începutul fiecărui an.", "Orașul este supranumit 'Orașul Călăreților' datorită tradițiilor ecvestre Tem.", "Ignama este principala cultură de subzistență și comerț din regiunea Centrale."],
+      en: ["Sokodé is located approximately 340 kilometers north of the capital, Lomé.", "The city has an estimated population of over 120,000 residents.", "Islam has been the predominant religion in Sokodé since the 18th century.", "The Gadao-Adossa festival typically takes place in January or February.", "Sokodé is famously called the 'City of Horsemen' for its equestrian heritage.", "The region surrounding Sokodé is a major production center for yams."],
+    },
+  },
   {
     id: "kara-cities-v2",
     type: "state-capital",
@@ -100,7 +121,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A Kara régió fővárosa", "Az Evala birkózóversenyek helyszíne", "Modern egyeteme van", "Sörgyári ipari központ"],
       ro: ["Capitala regiunii Kara", "Gazda competițiilor de lupte Evala", "Dispune de o universitate modernă", "Centru industrial pentru berării"],
       en: ["Capital of the Kara Region", "Host of Evala wrestling matches", "Home to a modern university", "Industrial center for breweries"]
-    }, image: "/poi-images/kara-cities-v2.webp"},
+    }, image: "/poi-images/kara-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Kara ist die drittgrößte Stadt Togos nach Einwohnerzahl.", "Die Universität von Kara wurde im Jahr 2004 gegründet.", "Das Evala-Ringerfest findet jährlich im Juli statt.", "Der internationale Flughafen Niamtougou liegt nur 30 km nördlich von Kara.", "Die Kabyé sind die vorherrschende ethnische Gruppe in der Stadt.", "Kara liegt am Ufer des gleichnamigen Flusses Kara."],
+      hu: ["Kara Togo harmadik legnagyobb városa lakosságszám szerint.", "A Karai Egyetemet hivatalosan 2004-ben alapították.", "Az Evala birkózófesztivált minden év júliusában rendezik meg.", "A Niamtougou nemzetközi repülőtér mindössze 30 km-re van Karától.", "A város legnépesebb és legmeghatározóbb népcsoportja a kabyé.", "A település az azonos nevű Kara-folyó partján épült fel."],
+      ro: ["Kara este al treilea oraș ca mărime din Togo după numărul de locuitori.", "Universitatea din Kara a fost înființată în anul 2004.", "Competițiile de lupte tradiționale Evala au loc anual în luna iulie.", "Aeroportul internațional Niamtougou se află la 30 km nord de oraș.", "Etnia Kabyé este grupul majoritar și dominant în viața socială a orașului.", "Orașul este traversat de râul Kara, afluent al râului Oti."],
+      en: ["Kara is the third-largest city in Togo by population.", "The University of Kara was officially established in 2004.", "The Evala wrestling festival is held annually during the month of July.", "Niamtougou International Airport is located 30 km north of Kara.", "The Kabyé are the predominant ethnic group in the city and surrounding area.", "The city is situated on the banks of the Kara River."],
+    },
+  },
   {
     id: "dapaong-cities-v2",
     type: "state-capital",
@@ -125,7 +153,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A Savanes régió fővárosa", "Legfontosabb határmenti kereskedelmi hely", "Kapu a Nanói-barlangokhoz", "Nagyon forró félsivatagi éghajlat"],
       ro: ["Capitala regiunii Savanes", "Cel mai important punct de comerț la graniță", "Poarta către peșterile din Nano", "Climat semideșertic foarte cald"],
       en: ["Capital of the Savanes Region", "Key border trading town", "Gateway to the Nano caves", "Very hot semi-arid climate"]
-    }, image: "/poi-images/dapaong-cities-v2.webp"},
+    }, image: "/poi-images/dapaong-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Dapaong liegt etwa 630 Kilometer nördlich der Hauptstadt Lomé.", "Die Stadt ist das Tor zu den Nachbarstaaten Burkina Faso und Ghana.", "In der Region Savanes ist Dapaong das wichtigste Wirtschaftszentrum.", "Die Höhlen von Nano stehen auf der Tentativliste des UNESCO-Welterbes.", "Das Klima in Dapaong ist geprägt durch eine lange Trockenzeit (Harmattan).", "Viehzucht ist neben dem Handel der wichtigste Wirtschaftszweig."],
+      hu: ["Dapaong körülbelül 630 kilométerre északra fekszik Lomé fővárostól.", "A város fontos kapu Burkina Faso és Ghána irányába.", "A Savanes régió legjelentősebb gazdasági és kereskedelmi központja.", "A közeli Nano-barlangok az UNESCO világörökségi várományosi listáján szerepelnek.", "Dapaong éghajlatát a hosszú száraz évszak és a harmattan szél határozza meg.", "Az élőállat-kereskedelem a helyi gazdaság egyik legfőbb bevételi forrása."],
+      ro: ["Dapaong se află la aproximativ 630 km nord de capitala Lomé.", "Orașul facilitează tranzitul rutier către Burkina Faso și Ghana.", "Este principalul pol economic din regiunea Savanes, cea mai nordică din Togo.", "Peșterile Nano sunt propuse pentru includerea în patrimoniul mondial UNESCO.", "Climatul este influențat de vântul saharian Harmattan în sezonul uscat.", "Comerțul cu animale reprezintă o activitate economică de bază în Dapaong."],
+      en: ["Dapaong is located approximately 630 kilometers north of the capital, Lomé.", "The city serves as a major gateway to Burkina Faso and nearby Ghana.", "It is the primary economic hub of the Savanes Region, Togo's northernmost province.", "The Nano caves are featured on Togo's tentative list for UNESCO World Heritage.", "The climate is characterized by a long dry season influenced by the Harmattan wind.", "Livestock trading is one of the most significant economic activities in Dapaong."],
+    },
+  },
   {
     id: "tsevie-cities-v2",
     type: "city",
@@ -150,7 +185,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Híres a pálmaolaj-termeléséről", "Az Ayiza-fesztivál házigazdája", "Régebben fontos vasúti megálló volt", "Az ewe kultúra központja"],
       ro: ["Faimos pentru producția de ulei de palmier", "Gazda festivalului Ayiza", "Fost punct feroviar important", "Centru al culturii Ewe"],
       en: ["Famous for palm oil production", "Host of the Ayiza festival", "Formerly a key railway stop", "Center of Ewe culture"]
-    }, image: "/poi-images/tsevie-cities-v2.webp"},
+    }, image: "/poi-images/tsevie-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Tsévié ist der Verwaltungssitz der Präfektur Zio.", "Die Stadt ist bekannt für ihre großen Ölpalmen-Verarbeitungsanlagen.", "Das Ayiza-Fest erinnert an die Flucht der Ewe aus Notsé.", "Tsévié ist eine der wichtigsten Stationen an der Eisenbahnlinie Lomé-Blitta.", "Die Stadt hat eine Bevölkerung von etwa 55.000 Einwohnern.", "Tsévié liegt in einer fruchtbaren Ebene südlich des Mono-Beckens."],
+      hu: ["Tsévié a Zio prefektúra közigazgatási székhelye.", "A város híres a nagyméretű pálmaolaj-feldolgozó üzemeiről.", "Az Ayiza fesztivál az ewe nép Notséből való menekülésére is emlékezik.", "A település a Lomé és Blitta közötti vasútvonal egyik fontos állomása.", "Tsévié lakossága körülbelül 55 000 főre tehető.", "A város a Mono-medencétől délre fekvő termékeny síkságon fekszik."],
+      ro: ["Tsévié este reședința administrativă a prefecturii Zio.", "Orașul găzduiește importante unități de procesare a fructelor de palmier.", "Festivalul Ayiza marchează istoria migrației poporului Ewe din Notsé.", "Localitatea este un punct de oprire pe calea ferată Lomé-Blitta.", "Populația orașului Tsévié este estimată la aproximativ 55.000 de locuitori.", "Tsévié este situat într-o zonă de câmpie fertilă, optimă pentru agricultură."],
+      en: ["Tsévié is the administrative seat of the Zio Prefecture.", "The city is known for its large-scale palm oil processing facilities.", "The Ayiza festival commemorates the historical migration of the Ewe from Notsé.", "Tsévié is a key station on the historical Lomé-Blitta railway line.", "The city has a population of approximately 55,000 people.", "Tsévié is situated in a fertile plain south of the Mono river basin."],
+    },
+  },
   {
     id: "aneho-cities-v2",
     type: "city",
@@ -175,7 +217,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Togo korábbi fővárosa", "A vudu hiedelemvilág központja", "A benini határ mellett fekszik", "Híres halászati hagyományairól"],
       ro: ["Fosta capitală a Togoului", "Centru al credințelor Voodoo", "Situat la granița cu Benin", "Faimos pentru tradiția pescuitului"],
       en: ["Former capital of Togo", "Center of Voodoo beliefs", "Located on the Benin border", "Famous for fishing traditions"]
-    }, image: "/poi-images/aneho-cities-v2.webp"},
+    }, image: "/poi-images/aneho-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Aného liegt etwa 45 Kilometer östlich der heutigen Hauptstadt Lomé.", "Die Stadt wurde ursprünglich als Sklavenhandelshafen gegründet.", "Das Ekpé-Ekpé-Fest findet jährlich im September statt.", "Aného war bis 1897 der Sitz der deutschen Kolonialverwaltung.", "Die Stadt liegt an der Mündung des Flusses Mono in den Ozean.", "In Aného befinden sich zahlreiche voodoo-religiöse Kultstätten."],
+      hu: ["Aného körülbelül 45 kilométerre keletre fekszik a mai fővárostól, Lométól.", "A várost eredetileg rabszolga-kereskedelmi kikötőként alapították.", "Az Ekpé-Ekpé fesztivált minden év szeptemberében tartják.", "Aného 1897-ig a német gyarmati közigazgatás székhelye volt.", "A település a Mono-folyó torkolatánál, az óceán partján fekszik.", "Anéhóban számos fontos vudu vallási kegyhely és szentély található."],
+      ro: ["Aného este situat la aproximativ 45 km est de capitala actuală Lomé.", "Orașul a fost fondat inițial ca un port pentru comerțul cu sclavi.", "Festivalul Ekpé-Ekpé are loc anual în luna septembrie.", "Aného a pierdut statutul de capitală în favoarea orașului Lomé în 1897.", "Localitatea se află la gura de vărsare a râului Mono în Oceanul Atlantic.", "Aného găzduiește numeroase altare și locuri sacre ale religiei voodoo."],
+      en: ["Aného is located approximately 45 kilometers east of the capital, Lomé.", "The city was originally established as a major slave-trading port.", "The Ekpé-Ekpé festival is held annually during the month of September.", "Aného served as the German colonial capital until 1897.", "The town is situated near the mouth of the Mono River at the Atlantic coast.", "Aného is home to numerous voodoo religious sites and traditional shrines."],
+    },
+  },
   {
     id: "kpalime-cities-v2",
     type: "city",
@@ -200,7 +249,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A kakaótermesztés központja", "Kapu Togo legmagasabb hegyéhez", "Híres a batikolt szöveteiről", "A túrázók kedvelt helye"],
       ro: ["Centrul cultivării cacauei", "Poarta către cel mai înalt munte din Togo", "Cunoscut pentru țesăturile batik", "Loc preferat de excursioniști"],
       en: ["Center of cocoa production", "Gateway to Togo's highest peak", "Known for batik fabrics", "Popular spot for hikers"]
-    }, image: "/poi-images/kpalime-cities-v2.webp"},
+    }, image: "/poi-images/kpalime-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Kpalimé liegt auf einer Höhe von etwa 230 Metern über dem Meeresspiegel.", "Der Mount Agou in der Nähe erreicht eine Höhe von 986 Metern.", "Kpalimé ist als die 'Hauptstadt der Schmetterlinge' in Westafrika bekannt.", "Die Heilig-Geist-Kathedrale wurde im Jahr 1913 von Deutschen erbaut.", "Die Stadt ist der Sitz der Präfektur Kloto.", "Kpalimé beherbergt ein bedeutendes Kunsthandwerkszentrum (Centre Artisanal)."],
+      hu: ["Kpalimé körülbelül 230 méterrel fekszik a tengerszint felett.", "A város közelében lévő Agou-hegy magassága 986 méter.", "Kpalimét Nyugat-Afrika 'lepkefővárosaként' is emlegetik a gazdag fauna miatt.", "A Szent Lélek katedrálist 1913-ban építették a német gyarmatosítók.", "A település a Kloto prefektúra közigazgatási székhelye.", "A városban működik Togo egyik legjelentősebb kézműves központja."],
+      ro: ["Kpalimé este situat la o altitudine de aproximativ 230 de metri.", "Muntele Agou, aflat în apropiere, are o înălțime de 986 de metri.", "Kpalimé este considerat 'capitala fluturilor' din Africa de Vest.", "Catedrala Sfântul Duh a fost finalizată în 1913, în timpul erei germane.", "Orașul servește drept reședință pentru prefectura Kloto.", "Centrul Artizanal din Kpalimé este un punct de referință pentru arta africană."],
+      en: ["Kpalimé is situated at an elevation of approximately 230 meters.", "Nearby Mount Agou reaches a peak height of 986 meters.", "Kpalimé is often called West Africa's 'butterfly capital' due to its biodiversity.", "The Holy Spirit Cathedral was built by German missionaries in 1913.", "The city is the administrative capital of the Kloto Prefecture.", "Kpalimé hosts a major artisanal center promoting local traditional crafts."],
+    },
+  },
   {
     id: "tabligbo-cities-v2",
     type: "city",
@@ -225,7 +281,13 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A legfontosabb cementközpont", "Nagy foszfátbányák a közelben", "Ipari munkástelepek", "Összeköttetés a parti vasúttal"],
       ro: ["Cel mai important centru de ciment", "Mine mari de fosfați în apropiere", "Așezări industriale de muncitori", "Conexiune la calea ferată de coastă"],
       en: ["Major cement production center", "Large phosphate mines nearby", "Industrial worker settlements", "Linked to the coastal railway"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Tabligbo ist das Zentrum der Kalksteingewinnung in Togo.", "Die Stadt ist der Verwaltungssitz der Präfektur Yoto.", "Hier befindet sich eines der größten Klinkerwerke Westafrikas.", "Die Entfernung zur Grenze nach Benin beträgt nur etwa 25 Kilometer.", "Industrieunternehmen wie Scantogo sind hier die Hauptarbeitgeber.", "Die Stadt verfügt über eine direkte Straßenverbindung zum Hafen von Lomé."],
+      hu: ["Tabligbo Togo mészkőbányászatának és feldolgozásának központja.", "A város a Yoto prefektúra közigazgatási székhelye.", "Itt működik Nyugat-Afrika egyik legnagyobb klinkergyártó üzeme.", "A benini határ mindössze 25 kilométerre található a várostól.", "Olyan ipari óriások, mint a Scantogo, a legnagyobb helyi foglalkoztatók.", "A városból közvetlen főút vezet Lomé kikötőjéhez az export szállítására."],
+      ro: ["Tabligbo este principalul centru de extracție a calcarului din Togo.", "Orașul îndeplinește funcția de reședință a prefecturii Yoto.", "Găzduiește una dintre cele mai mari fabrici de clincher din Africa de Vest.", "Localitatea se află la o distanță de circa 25 km de frontiera cu Benin.", "Marii angajatori locali sunt companiile multinaționale din sectorul cimentului.", "O șosea modernizată leagă direct zona industrială de portul din Lomé."],
+      en: ["Tabligbo is the primary center for limestone extraction in Togo.", "The city serves as the administrative capital of the Yoto Prefecture.", "It hosts one of the largest clinker manufacturing plants in West Africa.", "Tabligbo is located only about 25 kilometers from the border with Benin.", "Major industrial companies like Scantogo are the leading local employers.", "A dedicated road link connects the city's industrial zone to the Port of Lomé."],
+    },
   },
   {
     id: "vogan-cities-v2",
@@ -251,7 +313,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A régió legnagyobb állatvására", "Az Ouatchi kultúra központja", "Híres a kerámiáiról", "Fontos rituális helyszín"],
       ro: ["Cea mai mare piață de vite din regiune", "Centru al culturii Ouatchi", "Cunoscut pentru olărit", "Loc ritualic important"],
       en: ["Region's largest livestock market", "Center of Ouatchi culture", "Known for pottery", "Important ritual site"]
-    }, image: "/poi-images/vogan-cities-v2.webp"},
+    }, image: "/poi-images/vogan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Der Freitagsmarkt von Vogan ist einer der größten Märkte in Togo.", "Vogan ist der Hauptort der Präfektur Vo.", "Die Stadt liegt etwa 15 Kilometer nördlich des Togosees.", "Traditionelle Töpferwaren aus Vogan sind in der ganzen Region bekannt.", "Die Stadt liegt im Einzugsgebiet der bedeutenden Hahotoé-Phosphatminen.", "Voodoo-Zeremonien sind fester Bestandteil des kulturellen Kalenders."],
+      hu: ["Vogan pénteki piaca Togo egyik legnagyobb és legfontosabb piaca.", "A város a Vo prefektúra közigazgatási központja.", "A település mintegy 15 kilométerre északra fekszik a Togo-tótól.", "A vogani hagyományos fazekastermékek az egész régióban keresettek.", "A város a jelentős Hahotoé foszfátbányák vonzáskörzetében található.", "A vudu szertartások és ünnepségek a helyi kultúra elválaszthatatlan részei."],
+      ro: ["Piața de vineri din Vogan este un punct nodal pentru comerțul regional.", "Orașul este centrul administrativ al prefecturii Vo.", "Vogan se află la o distanță de circa 15 km nord de Lacul Togo.", "Produsele ceramice locale sunt exportate în piețele din Lomé și Benin.", "Regiunea găzduiește minele de fosfat de la Hahotoé, esențiale pentru Togo.", "Credințele voodoo rămân predominante în rândul populației locale."],
+      en: ["Vogan's Friday market is one of the largest weekly markets in Togo.", "The city serves as the administrative capital of the Vo Prefecture.", "Vogan is situated approximately 15 kilometers north of Lake Togo.", "Traditional pottery from Vogan is highly valued throughout the region.", "The town is located near the significant Hahotoé phosphate mines.", "Voodoo ceremonies are a central part of the community's cultural life."],
+    },
+  },
   {
     id: "notse-cities-v2",
     type: "city",
@@ -276,7 +345,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Az ewék történelmi fővárosa", "Az Agbogbo-fal maradványai", "Az ananásztermelés központja", "Az Agbogbo-Zan fesztivál helyszíne"],
       ro: ["Capitala istorică a poporului Ewe", "Vestigiile zidului Agbogbo", "Centrul producției de ananas", "Locul festivalului Agbogbo-Zan"],
       en: ["Historic capital of the Ewe", "Remains of the Agbogbo Wall", "Center of pineapple production", "Host of the Agbogbo-Zan festival"]
-    }, image: "/poi-images/notse-cities-v2.webp"},
+    }, image: "/poi-images/notse-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Notsé liegt etwa 95 km nördlich von Lomé an der Nationalstraße N1.", "Die Stadt wurde im 17. Jahrhundert zum Zentrum des Ewe-Königreichs.", "Die historischen Stadtmauern hatten einst einen Umfang von etwa 14 km.", "Das Agbogbo-Zan-Festival wird jährlich im September gefeiert.", "Die Region ist Togos Hauptanbaugebiet für Ananas.", "Die Stadt ist der Verwaltungssitz der Präfektur Haho."],
+      hu: ["Notsé 95 km-re északra található Lométól az N1-es főút mentén.", "A város a 17. században vált az ewe királyság központjává.", "A történelmi városfalak kerülete egykor elérte a 14 kilométert.", "Az Agbogbo-Zan fesztivált minden év szeptemberében tartják.", "A régió Togo legjelentősebb ananásztermelő vidéke.", "A város a Haho prefektúra közigazgatási központja."],
+      ro: ["Notsé este situat la 95 km nord de Lomé, pe drumul național N1.", "Orașul a devenit centrul regatului Ewe în secolul al XVII-lea.", "Zidurile istorice aveau odată o circumferință de aproximativ 14 km.", "Festivalul Agbogbo-Zan este celebrat anual în luna septembrie.", "Regiunea este principala zonă de cultivare a ananasului din Togo.", "Orașul este sediul administrativ al prefecturii Haho."],
+      en: ["Notsé is located about 95 km north of Lomé on the N1 highway.", "The city became the center of the Ewe kingdom in the 17th century.", "The historical earthen walls once spanned a circumference of 14 km.", "The Agbogbo-Zan festival is celebrated annually in September.", "The region is Togo's primary production center for pineapples.", "The city serves as the administrative capital of Haho Prefecture."],
+    },
+  },
   {
     id: "sansanne-mango-cities-v2",
     type: "city",
@@ -301,7 +377,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Az Oti-folyó mentén fekszik", "Híres a halpiacáról", "Történelmi karavánállomás", "A tschokossi kultúra központja"],
       ro: ["Situat pe râul Oti", "Cunoscut pentru piața de pește", "Punct istoric pentru caravane", "Centru al culturii Chakosi"],
       en: ["Located on the Oti River", "Known for its fish market", "Historic caravan base", "Center of Chakosi culture"]
-    }, image: "/poi-images/sansanne-mango-cities-v2.webp"},
+    }, image: "/poi-images/sansanne-mango-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Sansanné-Mango liegt am Ufer des strategisch wichtigen Oti-Flusses.", "Die Stadt wurde um 1760 von Anufo- oder Chokossi-Kriegern gegründet.", "Sie ist die Hauptstadt der Präfektur Oti in der Savanes-Region.", "Der Name stammt aus dem Manding und bedeutet Militärlager.", "Die Stadt liegt etwa 550 Kilometer nördlich der Hauptstadt Lomé.", "Die Region ist bekannt für ihren großen Viehmarkt und Getreidehandel."],
+      hu: ["Sansanné-Mango a stratégiailag fontos Oti-folyó partján fekszik.", "A várost 1760 körül alapították az anufo vagy csokosszi harcosok.", "A város az Oti prefektúra székhelye a Savanes régióban.", "A név manding eredetű, és katonai tábort jelent.", "A város körülbelül 550 kilométerre északra fekszik Lométól.", "A régió híres nagy állatvásáráról és gabonakereskedelméről."],
+      ro: ["Sansanné-Mango este situat pe malurile râului strategic Oti.", "Orașul a fost fondat în jurul anului 1760 de războinicii Anufo sau Chokossi.", "Este capitala prefecturii Oti din regiunea Savanes.", "Numele provine din limba Manding și înseamnă tabără militară.", "Orașul se află la aproximativ 550 de kilometri nord de capitala Lomé.", "Regiunea este cunoscută pentru piața mare de animale și comerțul cu cereale."],
+      en: ["Sansanné-Mango is situated on the banks of the strategic Oti River.", "The town was founded around 1760 by Anufo or Chokossi warriors.", "It serves as the capital of the Oti Prefecture in the Savanes Region.", "The name is of Manding origin and translates to military camp.", "The town is located approximately 550 kilometers north of Lomé.", "The region is renowned for its large livestock market and grain trade."],
+    },
+  },
   {
     id: "bassar-cities-v2",
     type: "city",
@@ -326,7 +409,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Történelmi vasművességi központ", "Híres a jamszgyökeréről", "Hagyományos kohók maradtak fenn", "Kapu a Bassar-hegységhez"],
       ro: ["Centru istoric al fierului", "Faimos pentru igname", "Furale tradiționale conservate", "Poarta către munții Bassar"],
       en: ["Historic iron-working center", "Famous for its yams", "Traditional furnaces preserved", "Gateway to the Bassar Mountains"]
-    }, image: "/poi-images/bassar-cities-v2.webp"},
+    }, image: "/poi-images/bassar-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Bassar ist ein antikes Zentrum der Eisenverhüttung in Westafrika.", "Die historischen Hochöfen von Bandjeli liegen in unmittelbarer Nähe.", "Die Stadt ist der Hauptort der Yam-Produktion in Togo.", "Bassar liegt am Fuße der gleichnamigen Bassar-Berge.", "Der traditionelle Feuertanz ist ein wichtiges kulturelles Erbe der Region.", "Die Stadt ist etwa 400 Kilometer von der Hauptstadt Lomé entfernt."],
+      hu: ["Bassar Nyugat-Afrika egyik ősi vaskohászati központja.", "Bandjeli történelmi kohói a város közvetlen közelében találhatók.", "A város Togo jamszgyökér-termelésének legfontosabb központja.", "Bassar az azonos nevű Bassar-hegység lábánál fekszik.", "A hagyományos tűztánc a régió fontos kulturális öröksége.", "A város körülbelül 400 kilométerre fekszik a fővárostól, Lométól."],
+      ro: ["Bassar este un centru antic de topire a fierului în Africa de Vest.", "Furnalele istorice din Bandjeli se află în imediata apropiere.", "Orașul este principalul loc de producție a ignamelor din Togo.", "Bassar este situat la poalele munților Bassar cu același nume.", "Dansul tradițional al focului este o moștenire culturală importantă.", "Orașul se află la aproximativ 400 de kilometri de capitala Lomé."],
+      en: ["Bassar is an ancient center of iron smelting in West Africa.", "The historical blast furnaces of Bandjeli are located nearby.", "The town is the primary hub for yam production in Togo.", "Bassar is situated at the foot of the Bassar Mountains.", "The traditional fire dance is a major cultural heritage of the region.", "The town is approximately 400 kilometers away from Lomé."],
+    },
+  },
   {
     id: "tchamba-cities-v2",
     type: "city",
@@ -351,7 +441,13 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A benini határnál", "Fontos állatkereskedelmi hely", "Soketnikumú központ", "Termékeny mezőgazdasági régió"],
       ro: ["La granița cu Benin", "Loc important de comerț cu vite", "Centru multietnic", "Regiune agricolă fertilă"],
       en: ["On the border with Benin", "Important livestock market", "Multi-ethnic center", "Fertile agricultural region"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Tchamba ist der Verwaltungssitz der gleichnamigen Präfektur Tchamba.", "Die Stadt liegt etwa 30 Kilometer östlich von Sokodé.", "Die Region ist ein führender Produzent von Cashewnüssen in Togo.", "Tchamba ist ein wichtiger Grenzort für den Handel mit Benin.", "Die Stadt beherbergt eine bedeutende muslimische Gemeinschaft.", "Traditionelle Webkunst ist ein bekanntes Handwerk der lokalen Bevölkerung."],
+      hu: ["Tchamba az azonos nevű Tchamba prefektúra közigazgatási székhelye.", "A város körülbelül 30 kilométerre keletre fekszik Sokodétól.", "A régió Togo egyik vezető kesudiótermelő vidéke.", "Tchamba fontos határmenti település a Beninnel folytatott kereskedelemben.", "A város jelentős muszlim közösségnek ad otthont.", "A hagyományos szövőművészet a helyi lakosság ismert mestersége."],
+      ro: ["Tchamba este sediul administrativ al prefecturii Tchamba.", "Orașul se află la aproximativ 30 de kilometri est de Sokodé.", "Regiunea este un producător de frunte de nuci caju din Togo.", "Tchamba este un punct de frontieră important pentru comerțul cu Benin.", "Orașul găzduiește o comunitate musulmană semnificativă.", "Țesutul tradițional este un meșteșug renumit al populației locale."],
+      en: ["Tchamba is the administrative capital of the Tchamba Prefecture.", "The town is located about 30 kilometers east of Sokodé.", "The region is a leading producer of cashew nuts in Togo.", "Tchamba is a key border town for trade with Benin.", "The town is home to a significant Muslim community.", "Traditional weaving is a well-known craft of the local population."],
+    },
   },
   {
     id: "badou-cities-v2",
@@ -377,7 +473,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A kávétermesztés központja", "Az Akloa-vízesés közelében", "Ghánai határ közelsége", "Trópusi erdei éghajlat"],
       ro: ["Centrul cultivării cafelei", "Aproape de cascada Akloa", "Proximitatea de granița cu Ghana", "Climat de pădure tropicală"],
       en: ["Center of coffee production", "Near the Akloa waterfalls", "Close to the Ghana border", "Tropical forest climate"]
-    }, image: "/poi-images/badou-cities-v2.webp"},
+    }, image: "/poi-images/badou-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Badou liegt im Herzen des Akposso-Hochlandes.", "Die Stadt ist bekannt für die nahegelegenen Akloa-Wasserfälle.", "Kaffee und Kakao sind die wichtigsten Wirtschaftsfaktoren der Region.", "Badou liegt nur wenige Kilometer von der Grenze zu Ghana entfernt.", "Die Stadt ist der Verwaltungssitz der Präfektur Wawa.", "Das Klima ist durch hohe Niederschlagsmengen und kühle Nächte geprägt."],
+      hu: ["Badou az Akposso-felföld szívében fekszik.", "A város a közeli Akloa-vízesésről híres.", "A kávé és a kakaó a régió legfontosabb gazdasági tényezői.", "Badou mindössze néhány kilométerre található a ghánai határtól.", "A város a Wawa prefektúra közigazgatási székhelye.", "Az éghajlatot bőséges csapadék és hűvös éjszakák jellemzik."],
+      ro: ["Badou este situat în inima podișului Akposso.", "Orașul este cunoscut pentru cascada Akloa din apropiere.", "Cafeaua și cacaoa sunt principalii factori economici ai regiunii.", "Badou se află la doar câțiva kilometri de granița cu Ghana.", "Orașul este sediul administrativ al prefecturii Wawa.", "Climatul este caracterizat de precipitații abundente și nopți răcoroase."],
+      en: ["Badou is located in the heart of the Akposso Highlands.", "The town is famous for the nearby Akloa Waterfalls.", "Coffee and cocoa are the primary economic drivers of the region.", "Badou is situated just a few kilometers from the border with Ghana.", "The town serves as the administrative capital of Wawa Prefecture.", "The climate is marked by high rainfall and relatively cool nights."],
+    },
+  },
   {
     id: "niamtougou-cities-v2",
     type: "city",
@@ -402,7 +505,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Második nemzetközi repülőtér", "Jelentős vasárnapi piac", "A losso kultúra központja", "Fontos katonai bázis"],
       ro: ["Al doilea aeroport internațional", "Piață importantă de duminică", "Centru al culturii Losso", "Bază militară importantă"],
       en: ["Second international airport", "Significant Sunday market", "Center of Losso culture", "Important military base"]
-    }, image: "/poi-images/niamtougou-cities-v2.webp"},
+    }, image: "/poi-images/niamtougou-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Niamtougou beherbergt den zweitgrößten internationalen Flughafen Togos.", "Die Stadt ist der Verwaltungssitz der Präfektur Doufelgou.", "Der lokale Markt findet alle sechs Tage statt und ist überregional bedeutend.", "Niamtougou liegt etwa 450 Kilometer nördlich von Lomé.", "Die Bevölkerung besteht überwiegend aus den ethnischen Gruppen Lamba und Losso.", "Die Stadt liegt an der Nationalstraße N1, der Hauptverkehrsader des Landes."],
+      hu: ["Niamtougou ad otthont Togo második legnagyobb nemzetközi repülőterének.", "A város a Doufelgou prefektúra közigazgatási székhelye.", "A helyi piacot hatnaponta tartják, és regionális jelentőségű.", "Niamtougou körülbelül 450 kilométerre északra fekszik Lométól.", "A lakosság túlnyomórészt a lamba és losso etnikai csoportokból áll.", "A város az N1-es főút, az ország fő közlekedési útvonala mentén fekszik."],
+      ro: ["Niamtougou găzduiește al doilea cel mai mare aeroport internațional din Togo.", "Orașul este sediul administrativ al prefecturii Doufelgou.", "Piața locală are loc la fiecare șase zile și este importantă la nivel regional.", "Niamtougou se află la aproximativ 450 de kilometri nord de Lomé.", "Populația este formată predominant din grupurile etnice Lamba și Losso.", "Orașul este situat pe drumul național N1, principala arteră a țării."],
+      en: ["Niamtougou is home to Togo's second-largest international airport.", "The town serves as the administrative capital of the Doufelgou Prefecture.", "The local market operates on a six-day cycle and is regionally significant.", "Niamtougou is located approximately 450 kilometers north of Lomé.", "The population mainly comprises the Lamba and Losso ethnic groups.", "The town is situated on the N1 highway, the country's main transport artery."],
+    },
+  },
   {
     id: "bafilo-cities-v2",
     type: "city",
@@ -427,7 +537,13 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Híres a szövőművészetéről", "Az Alédjo-hasadék közelében", "Jelentős mecset a központban", "A textilgyártás központja"],
       ro: ["Cunoscut pentru arta țesutului", "Lângă falia Alédjo", "Moschee importantă în centru", "Centru al producției textile"],
       en: ["Known for weaving arts", "Near the Alédjo Fault", "Significant mosque in center", "Textile production hub"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Bafilo ist national bekannt für seine traditionellen Webereien.", "Der Bafilo-Wasserfall liegt nur wenige Kilometer vom Stadtzentrum entfernt.", "Die Stadt ist der Verwaltungssitz der Präfektur Assoli.", "Bafilo liegt in einer Gebirgsregion mit dem Aledjo-Pass in der Nähe.", "Die Mehrheit der Bevölkerung gehört der ethnischen Gruppe der Tem an.", "Die Stadt liegt an der strategisch wichtigen Nord-Süd-Achse Togos."],
+      hu: ["Bafilo országosan ismert hagyományos szövödéiről.", "A Bafilo-vízesés mindössze néhány kilométerre található a városközponttól.", "A város az Assoli prefektúra közigazgatási székhelye.", "Bafilo egy hegyvidéki régióban fekszik, a közelben található az Aledjo-hágó.", "A lakosság többsége a tem etnikai csoporthoz tartozik.", "A város Togo stratégiailag fontos észak-déli tengelye mentén fekszik."],
+      ro: ["Bafilo este cunoscut la nivel național pentru țesătoriile sale tradiționale.", "Cascada Bafilo se află la doar câțiva kilometri de centrul orașului.", "Orașul este sediul administrativ al prefecturii Assoli.", "Bafilo este situat într-o regiune montană, cu pasul Aledjo în apropiere.", "Majoritatea populației aparține grupului etnic Tem.", "Orașul se află pe axa strategică nord-sud a țării."],
+      en: ["Bafilo is nationally famous for its traditional hand-woven textiles.", "The Bafilo Waterfall is located just a few kilometers from the town center.", "The town serves as the administrative capital of Assoli Prefecture.", "Bafilo is situated in a mountainous region near the Aledjo Pass.", "The majority of the population belongs to the Tem ethnic group.", "The town is located on Togo's strategically vital north-south axis."],
+    },
   },
   {
     id: "kande-cities-v2",
@@ -453,7 +569,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Kapu a Koutammakou Parkhoz", "A tambermák otthona", "Híres a toronyházairól (Takienta)", "UNESCO világörökségi régió"],
       ro: ["Poarta către parcul Koutammakou", "Căminul poporului Tamberma", "Cunoscut pentru casele-turn (Takienta)", "Regiune de patrimoniu UNESCO"],
       en: ["Gateway to Koutammakou Park", "Home of the Tamberma people", "Known for tower houses (Takienta)", "UNESCO World Heritage region"]
-    }, image: "/poi-images/kande-cities-v2.webp"},
+    }, image: "/poi-images/kande-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Kandé ist der Hauptzugangsort zum UNESCO-Weltkulturerbe Koutammakou.", "Die Stadt ist der Verwaltungssitz der Präfektur Kéran.", "Der nahegelegene Kéran-Nationalpark ist bekannt für seine Elefantenpopulation.", "Kandé liegt etwa 500 Kilometer nördlich der Hauptstadt Lomé.", "Die Batammariba-Kultur mit ihren Lehmburgen prägt das Umland.", "Die Stadt ist ein wichtiger Marktstandort für landwirtschaftliche Produkte im Norden."],
+      hu: ["Kandé a fő belépési pont a Koutammakou UNESCO Világörökségi helyszínre.", "A város a Kéran prefektúra közigazgatási székhelye.", "A közeli Kéran Nemzeti Park híres elefántpopulációjáról.", "Kandé körülbelül 500 kilométerre északra fekszik Lométól.", "A batammariba kultúra és vályogváraik határozzák meg a környéket.", "A város a mezőgazdasági termékek fontos piaci helyszíne északon."],
+      ro: ["Kandé este principalul punct de acces către situl UNESCO Koutammakou.", "Orașul este sediul administrativ al prefecturii Kéran.", "Parcul Național Kéran din apropiere este cunoscut pentru populația de elefanți.", "Kandé se află la aproximativ 500 de kilometri nord de capitala Lomé.", "Cultura Batammariba, cu casele sale din lut, definește împrejurimile.", "Orașul este o piață importantă pentru produsele agricole din nord."],
+      en: ["Kandé is the main access point to the UNESCO World Heritage site of Koutammakou.", "The town serves as the administrative capital of Kéran Prefecture.", "The nearby Kéran National Park is known for its elephant population.", "Kandé is located approximately 500 kilometers north of Lomé.", "The Batammariba culture with its mud tower-houses shapes the surrounding area.", "The town is a key market for agricultural products in the north."],
+    },
+  },
   {
     id: "sotouboua-cities-v2",
     type: "city",
@@ -478,7 +601,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Togo földrajzi középpontja", "Fontos gabonapiac", "Nagy gyapotültetvények", "Az 1-es főút csomópontja"],
       ro: ["Centrul geografic al Togoului", "Piață importantă de cereale", "Plantații mari de bumbac", "Nod pe drumul național 1"],
       en: ["Geographic center of Togo", "Major grain market", "Large cotton plantations", "Hub on National Road 1"]
-    }, image: "/poi-images/sotouboua-cities-v2.webp"},
+    }, image: "/poi-images/sotouboua-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Sotouboua gilt geografisch als das Zentrum von Togo.", "Die Stadt liegt an der Nationalstraße N1 zwischen Atakpamé und Sokodé.", "Sie ist der Verwaltungssitz der Präfektur Sotouboua.", "Der Fazao-Malfakassa-Nationalpark liegt westlich der Stadt.", "Die Region ist ein bedeutendes Anbaugebiet für Baumwolle.", "Die Stadt beherbergt eine wichtige Station für den Güterfernverkehr."],
+      hu: ["Sotouboua földrajzilag Togo középpontjának tekinthető.", "A város az N1-es főút mentén fekszik Atakpamé és Sokodé között.", "A város a Sotouboua prefektúra közigazgatási székhelye.", "A Fazao-Malfakassa Nemzeti Park a várostól nyugatra található.", "A régió jelentős pamuttermelő vidék.", "A város a távolsági árufuvarozás egyik fontos állomása."],
+      ro: ["Sotouboua este considerat geografic centrul Togo.", "Orașul este situat pe drumul național N1, între Atakpamé și Sokodé.", "Este sediul administrativ al prefecturii Sotouboua.", "Parcul Național Fazao-Malfakassa se află la vest de oraș.", "Regiunea este o zonă importantă de cultivare a bumbacului.", "Orașul găzduiește o stație importantă pentru transportul de marfă pe distanțe lungi."],
+      en: ["Sotouboua is geographically considered the center of Togo.", "The town is situated on the N1 highway between Atakpamé and Sokodé.", "It serves as the administrative capital of the Sotouboua Prefecture.", "The Fazao-Malfakassa National Park is located to the west of the town.", "The region is a significant area for cotton cultivation.", "The town hosts a major station for long-distance freight transport."],
+    },
+  },
   {
     id: "blitta-cities-v2",
     type: "city",
@@ -503,7 +633,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Régebben a vasút végállomása", "Fontos kamionos pihenőhely", "Nagy naperőművel rendelkezik", "Kukoricakereskedelmi központ"],
       ro: ["Fosta stație terminus a căii ferate", "Popas important pentru camioane", "Dispune de o mare centrală solară", "Centru comercial pentru porumb"],
       en: ["Former railway terminus", "Major truck stop area", "Home to a large solar plant", "Trading center for maize"]
-    }, image: "/poi-images/blitta-cities-v2.webp"},
+    }, image: "/poi-images/blitta-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Blitta ist der nördliche Endpunkt der Eisenbahnstrecke von Lomé.", "Die Stadt ist der Verwaltungssitz der Präfektur Blitta.", "Die Region ist bekannt für ihre intensive Rinderzucht.", "Blitta liegt an der Nationalstraße N1 im Zentrum Togos.", "Die Stadt dient als wichtiger Umschlagplatz für landwirtschaftliche Güter.", "Blitta Gare ist der Name des Stadtviertels um den historischen Bahnhof."],
+      hu: ["Blitta a Loméból induló vasútvonal északi végállomása.", "A város a Blitta prefektúra közigazgatási székhelye.", "A régió intenzív szarvasmarha-tenyésztéséről ismert.", "Blitta az N1-es főút mentén, Togo középső részén fekszik.", "A város a mezőgazdasági áruk fontos átrakodóhelye.", "Blitta Gare a történelmi vasútállomás körüli városrész neve."],
+      ro: ["Blitta este punctul terminus nordic al liniei de cale ferată din Lomé.", "Orașul este sediul administrativ al prefecturii Blitta.", "Regiunea este cunoscută pentru creșterea intensivă a bovinelor.", "Blitta este situat pe drumul național N1, în centrul Togo.", "Orașul servește ca un punct important de transbordare pentru bunurile agricole.", "Blitta Gare este numele cartierului din jurul gării istorice."],
+      en: ["Blitta is the northern terminus of the railway line from Lomé.", "The town serves as the administrative capital of the Blitta Prefecture.", "The region is known for its intensive cattle farming.", "Blitta is located on the N1 highway in central Togo.", "The town serves as a major transshipment point for agricultural goods.", "Blitta Gare is the name of the district surrounding the historic railway station."],
+    },
+  },
   {
     id: "keve-cities-v2",
     type: "city",
@@ -528,7 +665,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Ghánai határ közelsége", "A maniokfeldolgozás központja", "Fontos helyi piac", "Zöld környezet"],
       ro: ["Proximitatea de granița cu Ghana", "Centru al procesării maniocului", "Piață locală importantă", "Împrejurimi verzi"],
       en: ["Near the Ghana border", "Center for cassava processing", "Important local market", "Green surroundings"]
-    }, image: "/poi-images/keve-cities-v2.webp"},
+    }, image: "/poi-images/keve-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Kévé ist der Verwaltungssitz der Präfektur Avé.", "Die Stadt liegt etwa 50 km nordwestlich von Lomé.", "Kévé ist ein bedeutendes Zentrum für den Maniokanbau.", "Der lokale Markt ist ein wichtiger Treffpunkt für togoisch-ghanaischen Handel.", "Die Stadt liegt an der Verbindungsstraße zwischen Lomé und Kpalimé.", "Die Region ist bekannt für ihre traditionellen Tänze und Musikgruppen."],
+      hu: ["Kévé az Avé prefektúra közigazgatási székhelye.", "A város körülbelül 50 km-re északnyugatra fekszik Lométól.", "Kévé a maniókatermesztés egyik jelentős központja.", "A helyi piac a togói-ghánai kereskedelem fontos találkozóhelye.", "A város a Lomé és Kpalimé közötti összekötő út mentén fekszik.", "A régió híres hagyományos táncairól és zenekarairól."],
+      ro: ["Kévé este sediul administrativ al prefecturii Avé.", "Orașul se află la aproximativ 50 km nord-vest de Lomé.", "Kévé este un centru important pentru cultivarea maniocului.", "Piața locală este un punct de întâlnire important pentru comerțul togo-ghanez.", "Orașul este situat pe drumul de legătură între Lomé și Kpalimé.", "Regiunea este cunoscută pentru dansurile și grupurile muzicale tradiționale."],
+      en: ["Kévé is the administrative capital of Avé Prefecture.", "The town is located about 50 km northwest of Lomé.", "Kévé is a significant center for cassava cultivation.", "The local market is a key hub for trade between Togo and Ghana.", "The town lies on the main road connecting Lomé and Kpalimé.", "The region is renowned for its traditional dances and musical groups."],
+    },
+  },
   {
     id: "afagnan-cities-v2",
     type: "city",
@@ -553,7 +697,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Híres regionális kórház", "A Mono-folyó közelében", "Fontos oktatási helyszín", "Az ouatchi etnikum központja"],
       ro: ["Spital regional faimos", "Lângă râul Mono", "Centru educațional important", "Centru al etniei Ouatchi"],
       en: ["Famous regional hospital", "Near the Mono River", "Significant educational site", "Center of the Ouatchi ethnic group"]
-    }, image: "/poi-images/afagnan-cities-v2.webp"},
+    }, image: "/poi-images/afagnan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Afagnan beherbergt das renommierte Krankenhaus St. Jean de Dieu.", "Die Stadt liegt am westlichen Ufer des Mono-Flusses.", "Afagnan ist der Verwaltungssitz der Präfektur Bas-Mono.", "Die Stadt liegt etwa 75 Kilometer östlich von Lomé.", "Die Bevölkerung gehört überwiegend der ethnischen Gruppe der Watchi an.", "Die Region ist ein bedeutendes Zentrum für die Palmölproduktion."],
+      hu: ["Afagnan ad otthont a neves Szent János Kórháznak (St. Jean de Dieu).", "A város az Mono-folyó nyugati partján fekszik.", "Afagnan a Bas-Mono prefektúra közigazgatási székhelye.", "A város körülbelül 75 kilométerre keletre fekszik Lométól.", "A lakosság túlnyomórészt a watchi etnikai csoporthoz tartozik.", "A régió a pálmaolaj-termelés egyik jelentős központja."],
+      ro: ["Afagnan găzduiește renumitul spital St. Jean de Dieu.", "Orașul este situat pe malul vestic al râului Mono.", "Afagnan este sediul administrativ al prefecturii Bas-Mono.", "Orașul se află la aproximativ 75 de kilometri est de Lomé.", "Populația aparține predominant grupului etnic Watchi.", "Regiunea este un centru important pentru producția de ulei de palmier."],
+      en: ["Afagnan is home to the renowned St. Jean de Dieu Hospital.", "The town is situated on the western bank of the Mono River.", "Afagnan serves as the administrative capital of the Bas-Mono Prefecture.", "The town is located about 75 kilometers east of Lomé.", "The population primarily belongs to the Watchi ethnic group.", "The region is a significant hub for palm oil production."],
+    },
+  },
   {
     id: "togoville-cities-v2",
     type: "city",
@@ -578,7 +729,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Az ország névadója", "Az 1884-es szerződés aláírási helye", "A vudu hiedelem központja", "A Togo-tó partján fekszik"],
       ro: ["Numele țării provine de aici", "Locul semnării tratatului din 1884", "Centru al credinței Voodoo", "Situat pe lacul Togo"],
       en: ["Namesake of the country", "Site of the 1884 treaty signing", "Center of Voodoo beliefs", "Located on Lake Togo"]
-    }, image: "/poi-images/togoville-cities-v2.webp"},
+    }, image: "/poi-images/togoville-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Togoville gab dem gesamten Land Togo seinen Namen.", "Der Schutzvertrag mit Deutschland wurde hier 1884 unterzeichnet.", "Die Stadt beherbergt eine bekannte Marien-Wallfahrtsstätte.", "Papst Johannes Paul II. besuchte Togoville im Jahr 1985.", "Die Anreise erfolgt oft per Piroge über den Togo-See.", "Togoville ist ein bedeutendes Zentrum für traditionelle Voodoo-Kulte."],
+      hu: ["Togoville-ről kapta nevét az egész ország, Togo.", "A Németországgal kötött védelmi szerződést itt írták alá 1884-ben.", "A város egy ismert Mária-kegyhelynek ad otthont.", "II. János Pál pápa 1985-ben látogatott el Togoville-be.", "Az utazás gyakran pirogon (csónakon) történik a Togo-tavon keresztül.", "Togoville a hagyományos vudu kultuszok egyik jelentős központja."],
+      ro: ["Togoville a dat numele întregii țări Togo.", "Tratatul de protecție cu Germania a fost semnat aici în 1884.", "Orașul găzduiește un cunoscut loc de pelerinaj marian.", "Papa Ioan Paul al II-lea a vizitat Togoville în anul 1985.", "Accesul se face adesea cu piroga peste lacul Togo.", "Togoville este un centru important pentru cultele tradiționale voodoo."],
+      en: ["Togoville is the namesake of the entire country of Togo.", "The protectorate treaty with Germany was signed here in 1884.", "The town hosts a famous Marian pilgrimage site.", "Pope John Paul II visited Togoville in 1985.", "Access to the town is often via pirogue (canoe) across Lake Togo.", "Togoville is a major center for traditional Voodoo spiritualism."],
+    },
+  },
   {
     id: "elavagnon-cities-v2",
     type: "city",
@@ -603,7 +761,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A kakaótermesztés központja", "Dombos környezet", "Fontos helyi piac", "Plateaux régió"],
       ro: ["Centru al cultivării cacauei", "Împrejurimi colinare", "Piață locală importantă", "Regiunea Plateaux"],
       en: ["Center of cocoa production", "Hilly surroundings", "Important local market", "Plateaux Region"]
-    }, image: "/poi-images/elavagnon-cities-v2.webp"},
+    }, image: "/poi-images/elavagnon-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Elavagnon ist die Hauptstadt der Präfektur Est-Mono.", "Die Stadt liegt am östlichen Rand der Plateaux-Region.", "Baumwolle ist eines der wichtigsten Exportgüter der Gegend.", "Die Mehrheit der Einwohner gehört der Ifé-Sprachgruppe an.", "Der Mono-Fluss fließt in relativer Nähe östlich der Stadt vorbei.", "Elavagnon liegt an einer wichtigen Verbindungsstraße Richtung Benin."],
+      hu: ["Elavagnon az Est-Mono prefektúra székhelye.", "A város a Plateaux régió keleti szélén fekszik.", "A pamut a környék egyik legfontosabb exportterméke.", "A lakosok többsége az ifé nyelvcsoporthoz tartozik.", "Az Mono-folyó viszonylag közel, a várostól keletre folyik el.", "Elavagnon a Benin felé vezető fontos összekötő út mentén fekszik."],
+      ro: ["Elavagnon este capitala prefecturii Est-Mono.", "Orașul este situat la marginea de est a regiunii Plateaux.", "Bumbacul este unul dintre cele mai importante produse de export ale zonei.", "Majoritatea locuitorilor aparțin grupului lingvistic Ifé.", "Râul Mono curge în relativă apropiere, la est de oraș.", "Elavagnon se află pe un drum de legătură important către Benin."],
+      en: ["Elavagnon is the administrative capital of Est-Mono Prefecture.", "The town is situated on the eastern edge of the Plateaux Region.", "Cotton is one of the primary export commodities of the area.", "The majority of inhabitants belong to the Ifé linguistic group.", "The Mono River flows relatively close to the east of the town.", "Elavagnon is located on a significant connecting road towards Benin."],
+    },
+  },
   {
     id: "agou-cities-v2",
     type: "city",
@@ -628,7 +793,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Az Agou-hegy lábánál", "Túrázási központ", "Dús flóra és fauna", "Hűvösebb mikroklíma"],
       ro: ["La poalele muntelui Agou", "Centru pentru drumeții", "Floră și faună luxuriantă", "Microclimat mai răcoros"],
       en: ["At the foot of Mount Agou", "Hiking hub", "Lush flora and fauna", "Cooler microclimate"]
-    }, image: "/poi-images/agou-cities-v2.webp"},
+    }, image: "/poi-images/agou-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Agou liegt am Fuße des Mont Agou, dem höchsten Berg Togos.", "Die Stadt ist der Verwaltungssitz der Präfektur Agou.", "Kaffee und Kakao sind die Haupterzeugnisse der Region.", "Agou liegt etwa 100 Kilometer nordwestlich von Lomé.", "Der Berg Agou war während der deutschen Kolonialzeit als Mount Baumann bekannt.", "Auf dem Gipfel des Berges befinden sich wichtige Telekommunikationsanlagen."],
+      hu: ["Agou az Agou-hegy lábánál fekszik, amely Togo legmagasabb hegye.", "A város az Agou prefektúra közigazgatási székhelye.", "A kávé és a kakaó a régió fő terményei.", "Agou körülbelül 100 kilométerre északnyugatra fekszik Lométól.", "Az Agou-hegy a német gyarmati időszakban Mount Baumann néven volt ismert.", "A hegy csúcsán fontos távközlési berendezések találhatók."],
+      ro: ["Agou este situat la poalele Muntelui Agou, cel mai înalt munte din Togo.", "Orașul este sediul administrativ al prefecturii Agou.", "Cafeaua și cacaoa sunt principalele produse ale regiunii.", "Agou se află la aproximativ 100 de kilometri nord-vest de Lomé.", "Muntele Agou era cunoscut sub numele de Mount Baumann în timpul coloniei germane.", "Pe vârful muntelui se află instalații importante de telecomunicații."],
+      en: ["Agou is located at the foot of Mount Agou, Togo's highest peak.", "The town serves as the administrative capital of Agou Prefecture.", "Coffee and cocoa are the primary agricultural products of the region.", "Agou is situated about 100 kilometers northwest of Lomé.", "Mount Agou was known as Mount Baumann during the German colonial era.", "The summit of the mountain hosts important telecommunication installations."],
+    },
+  },
   {
     id: "amou-oblo-cities-v2",
     type: "city",
@@ -653,7 +825,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Példamutató várostervezés", "A régió legtisztább városa", "Oktatási központ", "Modern infrastruktúra"],
       ro: ["Planificare urbană exemplară", "Cel mai curat oraș din regiune", "Centru educațional", "Infrastructură modernă"],
       en: ["Exemplary urban planning", "Cleanest town in the region", "Educational center", "Modern infrastructure"]
-    }, image: "/poi-images/amou-oblo-cities-v2.webp"},
+    }, image: "/poi-images/amou-oblo-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Hauptzentrum für den Anbau von Kaffee und Kakao in der Region.", "Gehört zur Präfektur Amou in der Plateaux-Region.", "Liegt in unmittelbarer Nähe zum Verwaltungszentrum Amlamé.", "Geprägt von einem feuchten Mikroklima und nebligen Hügeln.", "Die Wirtschaft basiert fast ausschließlich auf dem Agrarexport.", "Höhenlage sorgt für mildere Temperaturen als im Flachland."],
+      hu: ["A kávé- és kakaótermesztés egyik központja a régióban.", "Az Amou-prefektúra része a Plateaux-régióban.", "Közvetlen közelben található Amlamé adminisztratív központja.", "Párás mikroklíma és ködös dombok jellemzik a tájat.", "A gazdaság szinte teljesen a mezőgazdasági exportra épül.", "A tengerszint feletti magasság miatt hűvösebb az éghajlat."],
+      ro: ["Centru principal pentru cultivarea cafelei și cacauei în regiune.", "Face parte din prefectura Amou, în regiunea Plateaux.", "Se află în imediata apropiere a centrului administrativ Amlamé.", "Caracterizat printr-un microclimat umed și dealuri cețoase.", "Economia se bazează aproape exclusiv pe exportul agricol.", "Altitudinea asigură temperaturi mai blânde decât la câmpie."],
+      en: ["Major hub for coffee and cocoa cultivation in the region.", "Part of the Amou Prefecture within the Plateaux Region.", "Located in close proximity to the administrative center of Amlamé.", "Characterized by a humid microclimate and misty hills.", "The economy is almost entirely based on agricultural exports.", "Higher elevation provides milder temperatures than the plains."],
+    },
+  },
   {
     id: "anie-cities-v2",
     type: "city",
@@ -678,7 +857,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Fontos vasúti megálló", "A textilipar központja", "Stratégiai elhelyezkedés", "Kereskedelmi központ"],
       ro: ["Nod feroviar important", "Centru al industriei textile", "Locație strategică", "Centru comercial"],
       en: ["Key railway stop", "Center of textile industry", "Strategic location", "Trading hub"]
-    }, image: "/poi-images/anie-cities-v2.webp"},
+    }, image: "/poi-images/anie-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Wichtiger Verkehrsknotenpunkt an der Nationalstraße N1.", "Beherbergt große industrielle Baumwollentkörnungsanlagen.", "Bekannt für einen der größten Handelsmärkte in Zentral-Togo.", "Dient als bedeutende Transitstation für den Fernverkehr.", "Multiethnisches Zentrum durch die hohe Fluktuation von Händlern.", "Zentraler Ort für die Verarbeitung landwirtschaftlicher Erzeugnisse."],
+      hu: ["Fontos közlekedési csomópont az N1-es főút mentén.", "Hatalmas ipari gyapotmagtalanító üzemeknek ad otthont.", "Közép-Togo egyik legnagyobb kereskedelmi piacáról ismert.", "Jelentős tranzitállomás a távolsági fuvarozás számára.", "Többnemzetiségű központ a kereskedők nagy fluktuációja miatt.", "A mezőgazdasági termékek feldolgozásának központi helyszíne."],
+      ro: ["Nod rutier major situat pe Șoseaua Națională N1.", "Găzduiește instalații industriale mari pentru egrenarea bumbacului.", "Cunoscut pentru una dintre cele mai mari piețe din centrul Togo.", "Servește ca stație de tranzit importantă pentru transportul la distanță.", "Centru multietnic datorită fluctuației mari de comercianți.", "Locație centrală pentru procesarea produselor agricole."],
+      en: ["Major transport junction located on the National Road N1.", "Home to large-scale industrial cotton ginning facilities.", "Known for one of the largest trading markets in central Togo.", "Serves as a significant transit station for long-distance haulage.", "Multi-ethnic center due to the high turnover of traders.", "Central location for the processing of agricultural produce."],
+    },
+  },
   {
     id: "hiheatro-cities-v2",
     type: "city",
@@ -703,7 +889,13 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Atakpamé közelében fekszik", "Mezőgazdasági jellegű", "Kakaó- és kávérégió", "Helyi kereskedelmi központ"],
       ro: ["Situat lângă Atakpamé", "Caracter agricol", "Regiune de cacao și cafea", "Centru comercial local"],
       en: ["Located near Atakpamé", "Agriculturally oriented", "Cocoa and coffee region", "Local trading center"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Liegt in der Präfektur Ogou nahe der Stadt Atakpamé.", "Wichtiges Anbaugebiet für Baumwolle und Getreide.", "Historisch bedeutend für die Versorgung regionaler Märkte.", "Geprägt von einer traditionsreichen bäuerlichen Kultur.", "Landschaft bildet den Übergang zur Hügelkette von Atakpamé.", "Zentrum für den Handel mit Mais und Sorghum."],
+      hu: ["Az Ogou-prefektúrában található, Atakpamé közelében.", "A gyapot és a gabonafélék fontos termesztési körzete.", "Történelmileg jelentős a regionális piacok ellátásában.", "Hagyományőrző paraszti kultúra jellemzi.", "A táj az Atakpamé környéki dombságba való átmenetet képezi.", "A kukorica- és cirokkereskedelem egyik központja."],
+      ro: ["Situat în prefectura Ogou, lângă orașul Atakpamé.", "Zonă importantă de cultivare pentru bumbac și cereale.", "Semnificativ istoric pentru aprovizionarea piețelor regionale.", "Caracterizat printr-o cultură țărănească bogată în tradiții.", "Peisajul face tranziția către lanțul de dealuri din Atakpamé.", "Centru pentru comerțul cu porumb și sorg."],
+      en: ["Located in the Ogou Prefecture near the city of Atakpamé.", "Important cultivation area for cotton and cereals.", "Historically significant for supplying regional markets.", "Characterized by a traditional peasant culture.", "Landscape forms the transition to the Atakpamé hills.", "Center for the trade of maize and sorghum."],
+    },
   },
   {
     id: "kougnohou-cities-v2",
@@ -729,7 +921,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Nyugati Plateaux régió", "A ghánai határ közelében", "Dombos domborzat", "Kakaótermesztő vidék"],
       ro: ["Regiunea Plateaux de vest", "Lângă granița cu Ghana", "Topografie colinară", "Zonă de cultivare a cacauei"],
       en: ["Western Plateaux Region", "Near the Ghana border", "Hilly topography", "Cocoa growing area"]
-    }, image: "/poi-images/kougnohou-cities-v2.webp"},
+    }, image: "/poi-images/kougnohou-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Hauptort der Präfektur Akébou auf einem Hochplateau.", "Zentrum der einzigartigen Akébou-Sprache und -Kultur.", "Sehr isolierte Lage mit schwierigem Zugang während der Regenzeit.", "Bekannt für fruchtbares Land und Kaffeeplantagen.", "Traditionelle Lehmarchitektur prägt das Ortsbild.", "Wichtiger Ort für den Anbau von Berg-Yams."],
+      hu: ["Az Akébou-prefektúra fő települése egy magas fennsíkon.", "Az egyedülálló akébou nyelv és kultúra központja.", "Nagyon elszigetelt fekvés, esős évszakban nehéz megközelíthetőség.", "Termékeny földjeiről és kávéültetvényeiről ismert.", "Hagyományos vályogépítészet jellemzi a faluképet.", "A hegyi jamgyökér termesztésének fontos helyszíne."],
+      ro: ["Localitatea principală a prefecturii Akébou, pe un platou înalt.", "Centrul limbii și culturii unice Akébou.", "Locație foarte izolată, cu acces dificil în timpul sezonului ploios.", "Cunoscut pentru terenurile fertile și plantațiile de cafea.", "Arhitectura tradițională din lut marchează aspectul localității.", "Loc important pentru cultivarea ignamelor de munte."],
+      en: ["Main town of the Akébou Prefecture on a high plateau.", "Center of the unique Akébou language and culture.", "Highly isolated location with difficult access during rainy season.", "Known for fertile land and coffee plantations.", "Traditional mud architecture characterizes the townscape.", "Important site for the cultivation of mountain yams."],
+    },
+  },
   {
     id: "tohoun-cities-v2",
     type: "city",
@@ -754,7 +953,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Benini határváros", "Kereskedelmi csomópont", "Kulturális olvasztótégely", "Fontos vámállomás"],
       ro: ["Oraș de graniță cu Benin", "Nod comercial", "Creuzet cultural", "Stație vamală importantă"],
       en: ["Border town with Benin", "Trade junction", "Cultural melting pot", "Key customs station"]
-    }, image: "/poi-images/tohoun-cities-v2.webp"},
+    }, image: "/poi-images/tohoun-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Hauptstadt der Präfektur Moyen-Mono.", "Wichtiger offizieller Grenzpunkt zwischen Togo und Benin.", "Stark geprägt durch die Nähe zum Mono-Fluss.", "Zentrum für den regionalen Handel mit Getreide und Hülsenfrüchten.", "Ort des intensiven kulturellen Austauschs mit beninischen Nachbarn.", "Landwirtschaft profitiert von den fruchtbaren Flussauen."],
+      hu: ["A Moyen-Mono prefektúra fővárosa.", "Fontos hivatalos határátkelőhely Togo és Benin között.", "A Mono-folyó közelsége határozza meg a mindennapjait.", "A gabonafélék és hüvelyesek regionális kereskedelmi központja.", "A benini szomszédokkal folytatott intenzív kulturális csere helyszíne.", "A mezőgazdaság a termékeny folyómenti árterekből profitál."],
+      ro: ["Capitala prefecturii Moyen-Mono.", "Punct de frontieră oficial important între Togo și Benin.", "Puternic marcat de proximitatea râului Mono.", "Centru pentru comerțul regional cu cereale și leguminoase.", "Loc de schimb cultural intens cu vecinii beninezi.", "Agricultura beneficiază de luncile fertile ale râului."],
+      en: ["Capital of the Moyen-Mono Prefecture.", "Important official border point between Togo and Benin.", "Heavily influenced by its proximity to the Mono River.", "Center for regional trade in cereals and legumes.", "Site of intense cultural exchange with Beninese neighbors.", "Agriculture benefits from the fertile river plains."],
+    },
+  },
   {
     id: "wahala-cities-v2",
     type: "city",
@@ -779,7 +985,13 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Az 1-es főút mentén", "Ismert pihenőhely", "Gyarmati múlt", "Piactér"],
       ro: ["Pe drumul național 1", "Popas cunoscut", "Istorie colonială", "Piață"],
       en: ["On National Road 1", "Well-known stopover", "Colonial history", "Marketplace"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Schauplatz der Schlacht von Chra im August 1914.", "Deutsche Truppen sprengten hier die Brücke über den Chra-Fluss.", "Wichtiger Ort des Gedenkens an den Ersten Weltkrieg in Togo.", "Beherbergt einen historischen Militärfriedhof.", "Der Name Wahala stammt aus dem Haussa und bedeutet 'Leiden'.", "Liegt an der strategischen Nord-Süd-Verbindung des Landes."],
+      hu: ["Az 1914 augusztusi chrai csata helyszíne.", "A német csapatok itt robbantották fel a Chra-folyó hídját.", "Az első világháború fontos emlékhelye Togóban.", "Történelmi katonai temetőnek ad otthont.", "A Wahala név a hausza nyelvből származik, jelentése 'szenvedés'.", "Az ország stratégiai észak-déli útvonala mentén fekszik."],
+      ro: ["Locul bătăliei de la Chra din august 1914.", "Trupele germane au aruncat în aer podul peste râul Chra aici.", "Loc important de comemorare a Primului Război Mondial în Togo.", "Găzduiește un cimitir militar istoric.", "Numele Wahala provine din limba Hausa și înseamnă „suferință”.", "Situat pe axa strategică nord-sud a țării."],
+      en: ["Site of the Battle of Chra in August 1914.", "German troops blew up the bridge over the Chra River here.", "Important site of First World War remembrance in Togo.", "Home to a historical military cemetery.", "The name Wahala comes from Hausa, meaning 'suffering'.", "Located on the strategic north-south axis of the country."],
+    },
   },
   {
     id: "kambole-cities-v2",
@@ -805,7 +1017,13 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Benini határ közelsége", "Vályogépítészet", "Az ana etnikum központja", "Vallási központ"],
       ro: ["Proximitatea de granița cu Benin", "Arhitectură din lut", "Centru al etniei Ana", "Centru religios"],
       en: ["Near the Benin border", "Mud-brick architecture", "Center of the Ana ethnic group", "Religious center"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Heimat des Ana-Volkes mit yorubischen Wurzeln.", "Berühmt für den Kambolé-Tanz, ein UNESCO-Kandidat.", "Liegt in der Präfektur Tchamba in der Zentralregion.", "Zentrum für traditionelle spirituelle Zeremonien.", "Einzigartige Architektur der Ana-Gehöfte.", "Wichtiger Ort für den Erhalt seltener westafrikanischer Dialekte."],
+      hu: ["A joruba gyökerekkel rendelkező ana nép otthona.", "Híres a Kambolé-táncról, amely UNESCO-várományos.", "A Középső régió Tchamba prefektúrájában található.", "Hagyományos spirituális szertartások központja.", "Az ana udvarházak egyedülálló építészete jellemzi.", "Ritka nyugat-afrikai nyelvjárások megőrzésének fontos helyszíne."],
+      ro: ["Patria poporului Ana, cu rădăcini Yoruba.", "Faimos pentru dansul Kambolé, candidat UNESCO.", "Situat în prefectura Tchamba din regiunea Centrală.", "Centru pentru ceremonii spirituale tradiționale.", "Arhitectură unică a gospodăriilor poporului Ana.", "Loc important pentru păstrarea unor dialecte vest-africane rare."],
+      en: ["Home of the Ana people with Yoruban roots.", "Famous for the Kambolé dance, a UNESCO candidate.", "Located in the Tchamba Prefecture of the Central Region.", "Center for traditional spiritual ceremonies.", "Unique architecture of Ana homesteads.", "Important site for the preservation of rare West African dialects."],
+    },
   },
   {
     id: "mo-cities-v2",
@@ -831,7 +1049,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Elszigetelt elhelyezkedés", "Hagyományos kultúra", "Szép természeti táj", "Az akposso kultúra központja"],
       ro: ["Locație izolată", "Cultură tradițională", "Peisaj natural frumos", "Centru al culturii Akposso"],
       en: ["Remote location", "Traditional culture", "Beautiful natural landscape", "Center of Akposso culture"]
-    }, image: "/poi-images/mo-cities-v2.webp"},
+    }, image: "/poi-images/mo-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Liegt in einer isolierten Ebene zwischen Gebirge und Grenze.", "Zugang oft nur über Pisten möglich, die im Regen unpassierbar sind.", "Angrenzend an den Fazao-Malfakassa-Nationalpark.", "Reich an ursprünglicher Flora und Fauna.", "Geringe Bevölkerungsdichte und traditionelle Lebensweise.", "Wichtiges Rückzugsgebiet für Wildtiere."],
+      hu: ["Egy elszigetelt síkságon fekszik a hegység és a határ között.", "A megközelítés gyakran csak esőben járhatatlan utakon lehetséges.", "Határos a Fazao-Malfakassa Nemzeti Parkkal.", "Eredeti flórában és faunában gazdag terület.", "Alacsony népsűrűség és hagyományos életmód jellemzi.", "A vadon élő állatok fontos menedékhelye."],
+      ro: ["Situat într-o câmpie izolată între munți și frontieră.", "Accesul este adesea posibil doar prin piste impracticabile pe ploaie.", "Se învecinează cu Parcul Național Fazao-Malfakassa.", "Bogat în floră și faună originală.", "Densitate scăzută a populației și mod de viață tradițional.", "Zonă importantă de refugiu pentru fauna sălbatică."],
+      en: ["Located in an isolated plain between mountains and the border.", "Access often only possible via tracks impassable in the rain.", "Adjacent to the Fazao-Malfakassa National Park.", "Rich in original flora and fauna.", "Low population density and traditional lifestyle.", "Important sanctuary for wildlife."],
+    },
+  },
   {
     id: "pagala-cities-v2",
     type: "city",
@@ -856,7 +1081,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A rizstermesztés központja", "Pálmaolaj-termelés", "Regionális mezőgazdaság", "Vidéki jelleg"],
       ro: ["Centru al cultivării orezului", "Producția de ulei de palmier", "Agricultură regională", "Caracter rural"],
       en: ["Center for rice cultivation", "Palm oil production", "Regional agriculture", "Rural character"]
-    }, image: "/poi-images/pagala-cities-v2.webp"},
+    }, image: "/poi-images/pagala-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Historisch bedeutender Bahnhof an der Strecke Lomé-Blitta.", "Wichtiger Umschlagplatz für Agrarprodukte in der Präfektur Blitta.", "Dient als strategischer Rastpunkt für den Fernverkehr.", "Geprägt durch eine Mischung aus kolonialer und moderner Architektur.", "Zentrum des regionalen Handels mit Mais und Yams.", "Bekannt für seine lebhaften Märkte entlang der Hauptstraße."],
+      hu: ["Történelmileg jelentős vasútállomás a Lomé-Blitta vonalon.", "Fontos agrárkereskedelmi központ a Blitta-prefektúrában.", "Stratégiai pihenőhely a távolsági forgalom számára.", "A gyarmati és a modern építészet keveredése jellemzi.", "A kukorica és a jamgyökér regionális kereskedelmi központja.", "A főút menti nyüzsgő piacairól ismert."],
+      ro: ["Gară istorică importantă pe ruta Lomé-Blitta.", "Punct important de transbordare pentru produse agricole în prefectura Blitta.", "Servește ca punct de popas strategic pentru traficul la distanță.", "Caracterizat printr-un amestec de arhitectură colonială și modernă.", "Centru al comerțului regional cu porumb și igname.", "Cunoscut pentru piețele sale vibrante de-a lungul străzii principale."],
+      en: ["Historically significant railway station on the Lomé-Blitta line.", "Important transshipment point for agricultural products in the Blitta Prefecture.", "Serves as a strategic rest stop for long-distance traffic.", "Characterized by a mix of colonial and modern architecture.", "Center of regional trade in maize and yams.", "Known for its lively markets along the main road."],
+    },
+  },
   {
     id: "pagouda-cities-v2",
     type: "city",
@@ -881,7 +1113,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A kabyè kultúra központja", "Teraszos gazdálkodás", "Hagyományos rítusok", "Dombos vidék"],
       ro: ["Centru al culturii Kabyè", "Agricultură terasată", "Ritualuri tradiționale", "Teren colinar"],
       en: ["Center of Kabyè culture", "Terraced farming", "Traditional rites", "Hilly terrain"]
-    }, image: "/poi-images/pagouda-cities-v2.webp"},
+    }, image: "/poi-images/pagouda-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Hauptort der Präfektur Binah in der Kara-Region.", "Berühmt für die Kabyé-Terrassenlandwirtschaft.", "Zentrum der intensiven Hirse- und Sorghumerzeugung.", "Landschaft geprägt durch markante, felsige Hügelketten.", "Wichtiger Ort für traditionelle Kabyé-Riten.", "Bekannt für handwerkliche Schmiedekunst."],
+      hu: ["A Kara-régió Binah-prefektúrájának fővárosa.", "Híres a kabyé teraszos földművelésről.", "Az intenzív köles- és ciroktermelés központja.", "Karakteres, sziklás dombság jellemzi a tájat.", "A hagyományos kabyé rítusok fontos helyszíne.", "A kézműves kovácsmesterségről ismert."],
+      ro: ["Reședința prefecturii Binah în regiunea Kara.", "Faimos pentru agricultura în terase Kabyé.", "Centru al producției intensive de mei și sorg.", "Peisaj marcat de lanțuri de dealuri stâncoase distinctive.", "Loc important pentru riturile tradiționale Kabyé.", "Cunoscut pentru măiestria fierarilor locali."],
+      en: ["Main town of the Binah Prefecture in the Kara Region.", "Famous for the Kabyé terraced farming.", "Center of intensive millet and sorghum production.", "Landscape characterized by striking, rocky hill ranges.", "Important site for traditional Kabyé rites.", "Known for artisanal blacksmithing."],
+    },
+  },
   {
     id: "guerin-kouka-cities-v2",
     type: "city",
@@ -906,7 +1145,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Szavannás régió", "Jamszgyökér-kereskedelmi hely", "Északnyugat-Togo", "Hagyományos piac"],
       ro: ["Regiune de savană", "Piață de igname", "Nord-vestul Togoului", "Piață tradițională"],
       en: ["Savanna region", "Yam trading hub", "Northwestern Togo", "Traditional market"]
-    }, image: "/poi-images/guerin-kouka-cities-v2.webp"},
+    }, image: "/poi-images/guerin-kouka-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Hauptort der Präfektur Dankpen.", "Kulturelles Zentrum des Konkomba-Volkes.", "Austragungsort des Igniambo (Yams-Festival).", "Bedeutender Markt für den Großhandel mit Yams.", "Traditionelle Führerschaft spielt eine wichtige soziale Rolle.", "Landschaft besteht aus weiten, fruchtbaren Savannenebenen."],
+      hu: ["A Dankpen-prefektúra fővárosa.", "A konkomba nép kulturális központja.", "Az Igniambo (jamgyökér-fesztivál) otthona.", "A jamgyökér-nagykereskedelem jelentős piaca.", "A hagyományos vezetés fontos társadalmi szerepet tölt be.", "A táj tágas, termékeny szavannai síkságokból áll."],
+      ro: ["Reședința prefecturii Dankpen.", "Centrul cultural al poporului Konkomba.", "Locul de desfășurare a Igniambo (Festivalul Ignamei).", "Piață importantă pentru comerțul cu ridicata al ignamelor.", "Conducerea tradițională joacă un rol social important.", "Peisajul constă în câmpii de savană vaste și fertile."],
+      en: ["Main town of the Dankpen Prefecture.", "Cultural center of the Konkomba people.", "Host of the Igniambo (Yam Festival).", "Significant market for the wholesale trade of yams.", "Traditional leadership plays an important social role.", "Landscape consists of vast, fertile savannah plains."],
+    },
+  },
   {
     id: "kante-cities-v2",
     type: "city",
@@ -931,7 +1177,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["A Tamberma régió központja", "A Koutammakou Park közelében", "Fontos pihenőhely", "Hagyományos piac"],
       ro: ["Centru al regiunii Tamberma", "Lângă parcul Koutammakou", "Popas important", "Piață tradițională"],
       en: ["Center of the Tamberma region", "Near Koutammakou Park", "Significant stopover", "Traditional market"]
-    }, image: "/poi-images/kante-cities-v2.webp"},
+    }, image: "/poi-images/kante-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Tor zum Koutammakou (UNESCO-Weltkulturerbe).", "Berühmt für die Nähe zu den Takienta-Lehmburgen.", "Liegt in der Präfektur Kéran in der Kara-Region.", "Landschaft geprägt von Baobabs und Granitformationen.", "Zentrum für Kunsthandwerk der Tamberma.", "Wichtiger Stopp für Ökotourismus in Togo."],
+      hu: ["Koutammakou (UNESCO világörökség) kapuja.", "A takienta vályogvárak közelségéről híres.", "A Kara-régió Kéran prefektúrájában található.", "Baobabfák és gránitformációk jellemzik a tájat.", "A tamberma kézművesség központja.", "Az ökoturizmus fontos megállóhelye Togóban."],
+      ro: ["Poarta către Koutammakou (Patrimoniul Mondial UNESCO).", "Faimos pentru proximitatea față de castelele de lut Takienta.", "Situat în prefectura Kéran din regiunea Kara.", "Peisaj marcat de baobabi și formațiuni de granit.", "Centru pentru meșteșugurile tradiționale Tamberma.", "Oprire importantă pentru ecoturism în Togo."],
+      en: ["Gateway to Koutammakou (UNESCO World Heritage site).", "Famous for its proximity to the Takienta mud fortresses.", "Located in the Kéran Prefecture of the Kara Region.", "Landscape characterized by baobabs and granite formations.", "Center for Tamberma handicrafts.", "Important stop for ecotourism in Togo."],
+    },
+  },
   {
     id: "kpagouda-cities-v2",
     type: "city",
@@ -956,7 +1209,13 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Kabyè kulturális központ", "Dombos szavanna", "Helyi adminisztráció", "Hagyományos sportok"],
       ro: ["Centru cultural Kabyè", "Savană colinară", "Administrație locală", "Sporturi tradiționale"],
       en: ["Kabyè cultural center", "Hilly savanna", "Local administration", "Traditional sports"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Verwaltungssitz der Präfektur Binah.", "Wichtiger regionaler Marktplatz für Handwerk und Agrarprodukte.", "Bietet weite Panoramablicke über das Binah-Tal.", "Knotenpunkt für lokale Regierungsbehörden.", "Sitz mehrerer Bildungseinrichtungen der Region.", "Geprägt von einer hügeligen Topografie."],
+      hu: ["A Binah-prefektúra adminisztratív központja.", "A kézműves és agrártermékek fontos regionális piaca.", "Tágas panorámát kínál a Binah-völgyre.", "A helyi kormányzati szervek csomópontja.", "A régió számos oktatási intézményének székhelye.", "Dombvidéki domborzat jellemzi."],
+      ro: ["Reședința administrativă a prefecturii Binah.", "Piață regională importantă pentru meșteșuguri și produse agricole.", "Oferă vederi panoramice largi asupra văii Binah.", "Nod pentru autoritățile guvernamentale locale.", "Sediul mai multor instituții de învățământ din regiune.", "Caracterizat printr-o topografie colinară."],
+      en: ["Administrative seat of the Binah Prefecture.", "Important regional marketplace for crafts and agricultural produce.", "Offers wide panoramic views over the Binah Valley.", "Hub for local government authorities.", "Home to several educational institutions in the region.", "Characterized by a hilly topography."],
+    },
   },
   {
     id: "pya-cities-v2",
@@ -982,7 +1241,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Eyadéma szülőhelye", "Szimbolikus jelentőség", "Modern építészet", "Kara közelében fekszik"],
       ro: ["Locul de naștere al lui Eyadéma", "Semnificație simbolică", "Arhitectură modernă", "Situat lângă Kara"],
       en: ["Birthplace of Eyadéma", "Symbolic significance", "Modern architecture", "Located near Kara"]
-    }, image: "/poi-images/pya-cities-v2.webp"},
+    }, image: "/poi-images/pya-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Geburtsort des ehemaligen Präsidenten Gnassingbé Eyadéma.", "Zentrum der Evala-Ringkämpfe (Initiationsritus).", "Gehört zur Präfektur Kozah in den Kabyé-Bergen.", "Bedeutender Ort für nationale Gedenkfeiern.", "Landschaft geprägt durch terrassierte Hänge und Rundhütten.", "Kulturelles Kernland des Kabyé-Volkes."],
+      hu: ["Gnassingbé Eyadéma volt elnök szülőhelye.", "Az Evala birkózóversenyek (beavatási rítus) központja.", "A Kozah-prefektúrához tartozik a Kabyé-hegységben.", "Nemzeti emlékünnepségek jelentős helyszíne.", "Teraszos lejtők és kerek kunyhók jellemzik a tájat.", "A kabyé nép kulturális magterülete."],
+      ro: ["Locul de naștere al fostului președinte Gnassingbé Eyadéma.", "Centrul luptelor Evala (rit de inițiere).", "Face parte din prefectura Kozah, în munții Kabyé.", "Loc important pentru comemorările naționale.", "Peisaj marcat de pante terasate și colibe rotunde.", "Vatră culturală a poporului Kabyé."],
+      en: ["Birthplace of former president Gnassingbé Eyadéma.", "Center of the Evala wrestling matches (initiation rite).", "Part of the Kozah Prefecture in the Kabyé Mountains.", "Significant site for national commemorations.", "Landscape characterized by terraced slopes and round huts.", "Cultural heartland of the Kabyé people."],
+    },
+  },
   {
     id: "sabi-lamba-cities-v2",
     type: "city",
@@ -1007,7 +1273,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Vidéki idill", "Hagyományos mezőgazdaság", "Hiteles kultúra", "Kara régió"],
       ro: ["Idilă rurală", "Agricultură tradițională", "Cultură autentică", "Regiunea Kara"],
       en: ["Rural idyll", "Traditional agriculture", "Authentic culture", "Kara Region"]
-    }, image: "/poi-images/sabi-lamba-cities-v2.webp"},
+    }, image: "/poi-images/sabi-lamba-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Übergangspunkt zwischen der Kara- und der Savanes-Region.", "Wichtiger Standort für den lokalen Getreidehandel.", "Liegt an der strategischen Fernstraße N1.", "Geprägt durch kleinbäuerliche Landwirtschaft.", "Beliebter Rastplatz für Reisende in den Norden.", "Landschaft bietet weite Ausblicke auf die Savanne."],
+      hu: ["Átmeneti pont a Kara- és a Savanes-régió között.", "A helyi gabonakereskedelem fontos helyszíne.", "A stratégiai N1-es főút mentén fekszik.", "Kisparaszti gazdálkodás jellemzi.", "Népszerű pihenőhely az északra tartó utazók számára.", "A táj tágas kilátást nyújt a szavannára."],
+      ro: ["Punct de tranziție între regiunile Kara și Savanes.", "Locație importantă pentru comerțul local cu cereale.", "Situat pe șoseaua strategică N1.", "Caracterizat prin agricultură la scară mică.", "Loc de popas popular pentru călătorii spre nord.", "Peisajul oferă vederi largi asupra savanei."],
+      en: ["Transition point between the Kara and Savanes regions.", "Important location for local grain trade.", "Located on the strategic N1 highway.", "Characterized by small-scale farming.", "Popular rest stop for travelers heading north.", "Landscape offers wide views of the savannah."],
+    },
+  },
   {
     id: "sanda-kagbanda-cities-v2",
     type: "city",
@@ -1032,7 +1305,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Helyi kereskedelmi hely", "Kara közelében fekszik", "Fontos piac", "Mezőgazdasági termékek"],
       ro: ["Punct de comerț local", "Situat lângă Kara", "Piață importantă", "Produse agrare"],
       en: ["Local trading post", "Near Kara", "Significant market", "Agricultural products"]
-    }, image: "/poi-images/sanda-kagbanda-cities-v2.webp"},
+    }, image: "/poi-images/sanda-kagbanda-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Region Bassar gehört zu den ältesten Eisenverhüttungszentren in ganz Westafrika.", "Sanda-Kagbanda liegt etwa 400 Meter über dem Meeresspiegel in der Region Kara.", "Die lokalen Bassar-Stämme nutzen seit Jahrhunderten Holzkohle für die Befeuerung ihrer Öfen.", "Die Landwirtschaft in der Umgebung basiert auf einem tropischen Savannenklima.", "Archäologische Stätten in der Nähe datieren die Eisenproduktion auf das 5. Jahrhundert v. Chr.", "Die Siedlung ist über Landstraßen mit dem regionalen Zentrum Bassar verbunden."],
+      hu: ["A Bassar régió egész Nyugat-Afrika egyik legrégebbi vasművességi központja.", "Sanda-Kagbanda körülbelül 400 méterrel a tengerszint felett fekszik a Kara régióban.", "A helyi bassar törzsek évszázadok óta faszenet használnak kohóik fűtésére.", "A környező mezőgazdaság a trópusi szavanna éghajlat sajátosságaira épül.", "A közeli régészeti lelőhelyek a vastermelést az i. e. 5. századra datálják.", "A települést közutak kötik össze Bassar regionális kereskedelmi központjával."],
+      ro: ["Regiunea Bassar este unul dintre cele mai vechi centre de metalurgie a fierului din Africa de Vest.", "Sanda-Kagbanda este situată la o altitudine de aproximativ 400 de metri în regiunea Kara.", "Triburile locale Bassar folosesc de secole cărbunele de lemn pentru alimentarea cuptoarelor.", "Agricultura din zonă se bazează pe condițiile climatice ale savanei tropicale.", "Situl arheologic din apropiere datează producția de fier încă din secolul al V-lea î.Hr.", "Așezarea este conectată prin drumuri regionale de orașul Bassar, centrul administrativ."],
+      en: ["The Bassar region is one of the oldest iron production centers in all of West Africa.", "Sanda-Kagbanda is situated at an elevation of approximately 400 meters in the Kara Region.", "Local Bassar tribes have used charcoal to fuel their traditional furnaces for centuries.", "Agriculture in the vicinity is adapted to the specific tropical savanna climate.", "Archaeological sites nearby date iron production back to at least the 5th century BC.", "The settlement is connected by regional roads to the administrative center of Bassar."],
+    },
+  },
   {
     id: "sirka-cities-v2",
     type: "city",
@@ -1057,7 +1337,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Kabyè-hegység", "Nagyszerű kilátópontok", "Szent hely", "Hegyi szavanna"],
       ro: ["Munții Kabyè", "Puncte de belvedere", "Loc sfânt", "Savană montană"],
       en: ["Kabyè Mountains", "Great viewpoints", "Sacred site", "Mountain savanna"]
-    }, image: "/poi-images/sirka-cities-v2.webp"},
+    }, image: "/poi-images/sirka-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Sirka liegt in der unmittelbaren Nähe der Grenze zwischen Togo und Benin.", "Die Region ist bekannt für den Anbau von Hirse, Sorghum und Yamswurzeln.", "Die Kabyé-Berge erreichen in dieser Gegend Höhen von bis zu 800 Metern.", "Traditionelle Ringerwettbewerbe, die Evala, sind ein wichtiger kultureller Bestandteil.", "Das Dorf liegt in einer Übergangszone zwischen Savanne und Bergland.", "Die Entfernung zur Regionalhauptstadt Kara beträgt etwa 30 Kilometer."],
+      hu: ["Sirka közvetlenül a Togo és Benin közötti határ közelében fekszik.", "A régió híres a köles, a cirok és a jamgyökér termesztéséről.", "A Kabyé-hegység ezen a területen eléri a 800 méteres magasságot.", "A hagyományos birkózóversenyek, az Evala, fontos kulturális események.", "A falu a szavanna és a hegyvidéki táj közötti átmeneti zónában található.", "A Kara regionális fővárostól való távolsága körülbelül 30 kilométer."],
+      ro: ["Sirka se află în imediata vecinătate a frontierei dintre Togo și Benin.", "Regiunea este cunoscută pentru cultivarea meiului, sorgului și a ignamei.", "Munții Kabyé ating în această zonă înălțimi de până la 800 de metri.", "Competițiile tradiționale de lupte, numite Evala, sunt un element cultural cheie.", "Satul este situat într-o zonă de tranziție între savană și regiunea muntoasă.", "Distanța până la capitala regională Kara este de aproximativ 30 de kilometri."],
+      en: ["Sirka is located in close proximity to the border between Togo and Benin.", "The region is well known for the cultivation of millet, sorghum, and yams.", "The Kabyé Mountains reach elevations of up to 800 meters in this area.", "Traditional wrestling matches, known as Evala, are a vital cultural component.", "The village sits in a transition zone between savanna and highland landscapes.", "The distance to the regional capital of Kara is approximately 30 kilometers."],
+    },
+  },
   {
     id: "yade-cities-v2",
     type: "city",
@@ -1082,7 +1369,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Történelmi település", "Kara dombvidék", "Klán-hagyományok", "Legendákban gazdag terület"],
       ro: ["Așezare istorică", "Zona colinară Kara", "Tradiții de clan", "Zonă bogată în legende"],
       en: ["Historic settlement", "Kara highlands", "Clan traditions", "Area rich in legends"]
-    }, image: "/poi-images/yade-cities-v2.webp"},
+    }, image: "/poi-images/yade-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Terrassenfelder von Yadé sind ein Zeugnis jahrhundertealter ökologischer Anpassung.", "Der Ort liegt im Zentrum des Kabyé-Massivs im Norden von Togo.", "Jährlich im Juli finden hier die wichtigen Evala-Initiationsriten statt.", "Die Landwirtschaft konzentriert sich auf Sorghum, Hirse und Yamswurzeln.", "Yadé liegt auf einer durchschnittlichen Höhe von etwa 550 Metern.", "Die Region wurde aufgrund ihrer kulturellen Bedeutung oft als 'Pays Kabyé' bezeichnet."],
+      hu: ["Yadé teraszos földjei az évszázados ökológiai alkalmazkodás bizonyítékai.", "A település a Kabyé-masszívum központjában fekszik Togo északi részén.", "Minden év júliusában itt tartják a fontos Evala beavatási rítusokat.", "A mezőgazdaság középpontjában a cirok, a köles és a jamgyökér áll.", "Yadé átlagosan 550 méteres tengerszint feletti magasságban található.", "A régiót kulturális jelentősége miatt gyakran 'Pays Kabyé' néven emlegetik."],
+      ro: ["Terasele agricole din Yadé sunt o dovadă a adaptării ecologice de secole.", "Localitatea este situată în centrul masivului Kabyé din nordul țării Togo.", "Anual, în luna iulie, aici au loc importante rituri de inițiere Evala.", "Agricultura se concentrează pe cultivarea sorgului, meiului și a ignamei.", "Yadé se află la o altitudine medie de aproximativ 550 de metri.", "Regiunea a fost adesea numită 'Pays Kabyé' datorită importanței sale culturale."],
+      en: ["The terraced fields of Yadé are a testament to centuries of ecological adaptation.", "The settlement is located in the center of the Kabyé Massif in northern Togo.", "Important Evala initiation rites take place here annually every July.", "Agriculture is focused on the production of sorghum, millet, and yams.", "Yadé is situated at an average elevation of approximately 550 meters.", "The region is often referred to as 'Pays Kabyé' due to its cultural significance."],
+    },
+  },
   {
     id: "biankouri-cities-v2",
     type: "city",
@@ -1107,7 +1401,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Északi határmenti régió", "Állatkereskedelmi központ", "Savannes régió", "Száraz éghajlat"],
       ro: ["Regiunea de frontieră nord", "Centru de comerț cu vite", "Regiunea Savanes", "Climat arid"],
       en: ["Northern border region", "Livestock trading center", "Savanes Region", "Dry climate"]
-    }, image: "/poi-images/biankouri-cities-v2.webp"},
+    }, image: "/poi-images/biankouri-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Biankouri liegt nur wenige Kilometer von der Grenze zu Burkina Faso entfernt.", "Die Region Savanes ist die trockenste Region des gesamten Landes Togo.", "Wichtige landwirtschaftliche Erzeugnisse sind Hirse, Mais und Baumwolle.", "Die Stadt ist ein wichtiger Umschlagplatz für Rinder aus dem Norden.", "Biankouri liegt auf einer Hochebene in etwa 300 Metern Höhe.", "Die Regenzeit dauert hier meist nur von Juni bis September."],
+      hu: ["Biankouri mindössze néhány kilométerre fekszik Burkina Faso határától.", "A Savanes régió egész Togo legszárazabb területe.", "Fontos mezőgazdasági termékek a köles, a kukorica és a gyapot.", "A város az északi szarvasmarha-kereskedelem egyik fontos állomása.", "Biankouri egy körülbelül 300 méter magas fennsíkon helyezkedik el.", "Az esős évszak itt általában csak júniustól szeptemberig tart."],
+      ro: ["Biankouri se află la doar câțiva kilometri de granița cu Burkina Faso.", "Regiunea Savanes este cea mai aridă regiune din întreaga țară Togo.", "Produse agricole importante includ meiul, porumbul și bumbacul.", "Orașul este un punct crucial de tranzit pentru comerțul cu bovine din nord.", "Biankouri este situat pe un platou la o altitudine de aproximativ 300 de metri.", "Sezonul ploios durează aici, de obicei, doar din iunie până în septembrie."],
+      en: ["Biankouri is located just a few kilometers from the border with Burkina Faso.", "The Savanes Region is the driest region in the entire country of Togo.", "Key agricultural products include millet, maize, and cotton.", "The town is a vital transit point for cattle trade coming from the north.", "Biankouri is situated on a plateau at an elevation of about 300 meters.", "The rainy season here typically lasts only from June to September."],
+    },
+  },
   {
     id: "tandjouare-cities-v2",
     type: "city",
@@ -1132,7 +1433,13 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Prefektúra székhelye", "Adminisztratív központ", "Északi szavanna", "Fontos közlekedési útvonal"],
       ro: ["Capitală de prefectură", "Centru administrativ", "Savana de nord", "Ruta de transport importantă"],
       en: ["Prefecture capital", "Administrative center", "Northern savanna", "Key transport route"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Tandjouaré ist bekannt für seine beeindruckenden Höhlen in der Nähe, wie die von Nano.", "Die Stadt liegt etwa 600 Kilometer nördlich der Hauptstadt Lomé.", "Der Moba-Dialekt ist die am häufigsten gesprochene Sprache in der Region.", "Die Region Savanes hat eine ausgeprägte Trockenzeit durch den Harmattan-Wind.", "Tandjouaré dient als wichtiger Halt für Busse auf der Nord-Süd-Verbindung.", "Baobab-Bäume prägen das Landschaftsbild rund um die Siedlung."],
+      hu: ["Tandjouaré híres a közelben található lenyűgöző barlangokról, mint például Nano.", "A város körülbelül 600 kilométerre északra fekszik a fővárostól, Lométól.", "A moba dialektus a leggyakrabban beszélt nyelv a régióban.", "A Savanes régióban a Harmattan szél miatt kifejezetten száraz az évszak.", "Tandjouaré fontos megállóhely az észak-déli irányú buszjáratok számára.", "A település körüli tájat meghatározzák a hatalmas majomkenyérfák."],
+      ro: ["Tandjouaré este cunoscut pentru peșterile impresionante din apropiere, cum ar fi Nano.", "Orașul este situat la aproximativ 600 de kilometri nord de capitala Lomé.", "Dialectul Moba este cea mai vorbită limbă în această regiune.", "Regiunea Savanes are un sezon uscat accentuat din cauza vântului Harmattan.", "Tandjouaré servește ca o oprire importantă pentru autobuzele de pe ruta nord-sud.", "Baobabii sunt arbori care domină peisajul din jurul localității."],
+      en: ["Tandjouaré is known for impressive nearby caves, such as those at Nano.", "The town is located approximately 600 kilometers north of the capital, Lomé.", "The Moba dialect is the most commonly spoken language in the region.", "The Savanes Region experiences a severe dry season due to the Harmattan wind.", "Tandjouaré serves as a major stopping point for buses on the north-south route.", "Baobab trees are a prominent feature of the landscape surrounding the town."],
+    },
   },
   {
     id: "barkoissi-cities-v2",
@@ -1158,7 +1465,13 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Regionális állatvásár", "Pásztorok találkozóhelye", "Szavannás táj", "Észak-Togo"],
       ro: ["Piață regională de vite", "Loc de întâlnire pentru păstori", "Peisaj de savană", "Nordul Togoului"],
       en: ["Regional livestock market", "Herder meeting point", "Savanna landscape", "Northern Togo"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Barkoissi liegt strategisch günstig zwischen den Städten Mango und Galangashi.", "Der Wochenmarkt von Barkoissi findet traditionell an jedem Dienstag statt.", "Die Region ist ein wichtiges Anbaugebiet für Trockenreis in Togo.", "Barkoissi liegt etwa 40 Kilometer von der ghanaischen Grenze entfernt.", "Die durchschnittliche Jahrestemperatur in Barkoissi liegt bei etwa 28 Grad Celsius.", "Der nahegelegene Oti-Fluss sorgt für saisonale Überschwemmungen der Felder."],
+      hu: ["Barkoissi stratégiailag Mango és Galangashi városai között fekszik.", "Barkoissi heti piacát hagyományosan minden kedden tartják.", "A régió Togo egyik fontos szárazrizs-termő területe.", "Barkoissi körülbelül 40 kilométerre fekszik a ghánai határtól.", "Barkoissi átlagos évi középhőmérséklete körülbelül 28 Celsius-fok.", "A közeli Oti-folyó gondoskodik a földek szezonális áradásáról."],
+      ro: ["Barkoissi este situat strategic între orașele Mango și Galangashi.", "Piața săptămânală din Barkoissi are loc în mod tradițional în fiecare marți.", "Regiunea este o zonă importantă pentru cultivarea orezului de uscat în Togo.", "Barkoissi se află la aproximativ 40 de kilometri de granița cu Ghana.", "Temperatura medie anuală în Barkoissi este de aproximativ 28 de grade Celsius.", "Râul Oti din apropiere asigură inundarea sezonieră a câmpurilor agricole."],
+      en: ["Barkoissi is strategically located between the towns of Mango and Galangashi.", "The weekly market of Barkoissi is traditionally held every Tuesday.", "The region is a major cultivation area for upland rice in Togo.", "Barkoissi is situated approximately 40 kilometers from the Ghanaian border.", "The average annual temperature in Barkoissi is about 28 degrees Celsius.", "The nearby Oti River provides seasonal flooding for the agricultural fields."],
+    },
   },
   {
     id: "bombouaka-cities-v2",
@@ -1184,7 +1497,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Északi oktatási központ", "Szociális intézmények", "Száraz szavanna", "Dapaong közelében"],
       ro: ["Centru educațional de nord", "Facilități sociale", "Savană aridă", "Situat lângă Dapaong"],
       en: ["Northern educational hub", "Social welfare facilities", "Dry savanna", "Near Dapaong"]
-    }, image: "/poi-images/bombouaka-cities-v2.webp"},
+    }, image: "/poi-images/bombouaka-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Bombouaka liegt etwa 20 Kilometer südlich der Stadt Dapaong.", "Das Centre Don Orione wurde von katholischen Missionaren gegründet.", "Die Region ist geprägt durch ein trockenes sudanesisches Klima.", "Traditionelle Moba-Häuser bestehen oft aus Lehm mit Strohdächern.", "In der Nähe befinden sich archäologisch interessante Felsmalereien.", "Bombouaka liegt auf einer durchschnittlichen Höhe von etwa 350 Metern."],
+      hu: ["Bombouaka körülbelül 20 kilométerre délre fekszik Dapaong városától.", "A Centre Don Orione intézményt katolikus misszionáriusok alapították.", "A régiót száraz szudáni éghajlat jellemzi.", "A hagyományos moba házak gyakran agyagból készülnek, szalmatetővel.", "A közelben régészetileg érdekes sziklafestmények találhatóak.", "Bombouaka átlagosan 350 méteres tengerszint feletti magasságban fekszik."],
+      ro: ["Bombouaka este situată la aproximativ 20 de kilometri sud de orașul Dapaong.", "Centrul Don Orione a fost fondat de către misionari catolici.", "Regiunea este caracterizată printr-un climat sudanez uscat.", "Casele tradiționale Moba sunt adesea construite din pământ cu acoperișuri de paie.", "În apropiere se află picturi rupestre de interes arheologic.", "Bombouaka se află la o altitudine medie de aproximativ 350 de metri."],
+      en: ["Bombouaka is located about 20 kilometers south of the town of Dapaong.", "The Centre Don Orione was founded by Catholic missionaries.", "The region is characterized by a dry Sudanese climate.", "Traditional Moba houses are often constructed of mud with thatched roofs.", "There are archaeologically interesting rock paintings located nearby.", "Bombouaka is situated at an average elevation of about 350 meters."],
+    },
+  },
   {
     id: "cinkasse-cities-v2",
     type: "city",
@@ -1209,7 +1529,13 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Legfontosabb határátkelő", "Tranzitkereskedelmi központ", "Nagyon forgalmas város", "Szahel-övezet széle"],
       ro: ["Cea mai importantă trecere de frontieră", "Centru de comerț de tranzit", "Oraș foarte aglomerat", "Zonă climatică la marginea Sahelului"],
       en: ["Most important border crossing", "Transit trade hub", "Very busy town", "Sahel-edge climate zone"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Cinkassé ist geteilt in eine togoische und eine burkinabische Seite.", "Die Stadt ist der nördlichste Punkt der togoischen Nationalstraße 1.", "Der zollfreie Handel spielt eine zentrale Rolle in der lokalen Wirtschaft.", "Cinkassé liegt etwa 35 Kilometer nordwestlich von Dapaong.", "Die Stadt ist ein wichtiges Zentrum für den Transit von LKW-Konvois.", "Das Klima ist durch die Nähe zur Sahara-Wüste sehr heiß und trocken."],
+      hu: ["Cinkassé egy togói és egy burkinabé oldalra oszlik.", "A város a togói 1-es számú nemzeti főút legészakibb pontja.", "A vámmentes kereskedelem központi szerepet játszik a helyi gazdaságban.", "Cinkassé körülbelül 35 kilométerre északnyugatra fekszik Dapaongtól.", "A város a kamionkonvojok tranzitjának egyik fontos központja.", "Az éghajlat a Szahara közelsége miatt nagyon forró és száraz."],
+      ro: ["Cinkassé este împărțit într-o parte togoleză și una burkineză.", "Orașul este cel mai nordic punct al drumului național 1 din Togo.", "Comerțul fără taxe vamale joacă un rol central în economia locală.", "Cinkassé se află la aproximativ 35 de kilometri nord-vest de Dapaong.", "Orașul este un centru important pentru tranzitul convoaielor de camioane.", "Climatul este foarte fierbinte și uscat din cauza proximității de deșertul Sahara."],
+      en: ["Cinkassé is divided into a Togolese side and a Burkinabé side.", "The town marks the northernmost point of Togo's National Road 1.", "Duty-free trade plays a central role in the local economy.", "Cinkassé is located about 35 kilometers northwest of Dapaong.", "The town is a major center for the transit of truck convoys.", "The climate is very hot and dry due to the proximity to the Sahara Desert."],
+    },
   },
   {
     id: "mandouri-cities-v2",
@@ -1235,7 +1561,14 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Benini határ közelsége", "Gabonatermesztő vidék", "Savannes régió", "Száraz szavanna"],
       ro: ["Proximitatea de granița cu Benin", "Zonă de cultivare a cerealelor", "Regiunea Savanes", "Savană aridă"],
       en: ["Near the Benin border", "Grain growing area", "Savanes Region", "Dry savanna"]
-    }, image: "/poi-images/mandouri-cities-v2.webp"},
+    }, image: "/poi-images/mandouri-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Mandouri ist die östlichste Stadt in der Region Savanes in Togo.", "Der Oti-Fluss markiert hier teilweise die Grenze zu Benin.", "Die Region Kpendjal ist bekannt für ihre intensive Rinderzucht.", "Mandouri liegt etwa 60 Kilometer östlich der Stadt Dapaong.", "Überschwemmungen des Oti-Flusses beeinflussen oft das Leben in der Stadt.", "Die Gourma-Sprache wird in Mandouri weit verbreitet gesprochen."],
+      hu: ["Mandouri a togói Savanes régió legkeletibb városa.", "Az Oti-folyó itt részben a Beninnal közös határt jelöli ki.", "A Kpendjal prefektúra híres az intenzív szarvasmarha-tenyésztéséről.", "Mandouri körülbelül 60 kilométerre keletre fekszik Dapaong városától.", "Az Oti-folyó áradásai gyakran befolyásolják a város életét.", "A gurma nyelvet széles körben beszélik Mandouriban."],
+      ro: ["Mandouri este cel mai estic oraș din regiunea Savanes din Togo.", "Râul Oti marchează aici parțial granița cu Benin.", "Prefectura Kpendjal este cunoscută pentru creșterea intensivă a bovinelor.", "Mandouri se află la aproximativ 60 de kilometri est de orașul Dapaong.", "Inundațiile râului Oti influențează adesea viața din oraș.", "Limba Gourma este vorbită pe scară largă în Mandouri."],
+      en: ["Mandouri is the easternmost town in the Savanes Region of Togo.", "The Oti River partially marks the border with Benin in this area.", "The Kpendjal Prefecture is known for its intensive cattle farming.", "Mandouri is located about 60 kilometers east of the town of Dapaong.", "Flooding of the Oti River often affects the daily life of the town.", "The Gourma language is widely spoken among the inhabitants of Mandouri."],
+    },
+  },
   {
     id: "bogou-cities-v2",
     type: "city",
@@ -1260,6 +1593,12 @@ export const poiExtraTogoCitiesV2: POI[] = [
       hu: ["Sziklarajzairól híres", "Táblahegyek a közelben", "Régészeti lelőhely", "Savannes régió"],
       ro: ["Cunoscut pentru picturi rupestre", "Munți tabulari în apropiere", "Sit arheologic", "Regiunea Savanes"],
       en: ["Known for rock paintings", "Table mountains nearby", "Archaeological site", "Savanes Region"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Bogou ist bekannt für seine beeindruckenden Sandsteinfelsen und Klippen.", "In der Nähe befinden sich die Nano-Höhlen, die einst als Zufluchtsort dienten.", "Die Region ist Teil der Gebirgskette von Bombouaka.", "Der Moba-Dialekt ist die primäre Sprache der Einwohner von Bogou.", "Die Landwirtschaft ist stark von den saisonalen Regenfällen abhängig.", "Das Plateau von Dapaong bietet eine weite Sicht bis nach Burkina Faso."],
+      hu: ["Bogou híres lenyűgöző homokkő szikláiról és falairól.", "A közelben találhatók a Nano-barlangok, amelyek egykor menedékhelyként szolgáltak.", "A régió a bombouakai hegylánc részét képezi.", "Bogou lakóinak elsődleges nyelve a moba dialektus.", "A mezőgazdaság erősen függ a szezonális esőzésektől.", "A dapaongi fennsík tágas kilátást nyújt egészen Burkina Fasóig."],
+      ro: ["Bogou este cunoscut pentru stâncile sale de gresie și falezele impresionante.", "În apropiere se află peșterile Nano, care au servit odinioară ca refugiu.", "Regiunea face parte din lanțul muntos Bombouaka.", "Dialectul Moba este limba principală a locuitorilor din Bogou.", "Agricultura depinde în mare măsură de ploile sezoniere.", "Platoul Dapaong oferă o vedere largă până în Burkina Faso."],
+      en: ["Bogou is well known for its impressive sandstone rocks and cliffs.", "The Nano caves, which once served as a refuge, are located nearby.", "The region is part of the Bombouaka mountain range.", "The Moba dialect is the primary language spoken by the inhabitants of Bogou.", "Agriculture is heavily dependent on seasonal rainfall patterns.", "The Dapaong Plateau offers expansive views reaching as far as Burkina Faso."],
+    },
   }
 ];

@@ -49,7 +49,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Center of the cotton industry",
         "Houses the Ismoil Somoni Monument"
       ]
-    }, image: "/poi-images/dushanbe-cities-v2.webp"},
+    }, image: "/poi-images/dushanbe-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Dushanbe liegt auf einer Höhe von etwa 706 Metern über dem Meeresspiegel.", "Der Dushanbe-Flaggenmast ist 165 Meter hoch.", "Die Stadt wurde am 16. Oktober 1929 zur Hauptstadt der Tadschikischen SSR ernannt.", "Das Nationalmuseum von Tadschikistan beherbergt eine 13 Meter lange Buddha-Statue.", "Der Rudaki-Park ist die zentrale Grünanlage der Stadt.", "Die Umgebung der Stadt ist für den Anbau von Baumwolle bekannt."],
+      hu: ["Dusanbe körülbelül 706 méteres tengerszint feletti magasságban fekszik.", "A dusanbei zászlórúd 165 méter magas.", "A várost 1929. október 16-án nevezték ki a Tádzsik SZSZK fővárosává.", "A Tádzsik Nemzeti Múzeumban egy 13 méter hosszú fekvő Buddha-szobor látható.", "A Rudaki-park a város központi pihenőövezete.", "A város környéke híres a gyapottermesztéséről."],
+      ro: ["Dushanbe se află la o altitudine de aproximativ 706 metri deasupra nivelului mării.", "Catargul steagului din Dushanbe are o înălțime de 165 de metri.", "Orașul a fost declarat capitala RSS Tadjikă la 16 octombrie 1929.", "Muzeul Național al Tadjikistanului adăpostește o statuie a lui Buddha lungă de 13 metri.", "Parcul Rudaki este principala zonă verde din centrul orașului.", "Regiunea din jurul orașului este renumită pentru culturile de bumbac."],
+      en: ["Dushanbe sits at an average elevation of 706 meters above sea level.", "The Dushanbe flagpole stands 165 meters tall.", "The city was officially designated the capital of the Tajik SSR on October 16, 1929.", "The National Museum of Tajikistan houses a famous 13-meter-long Buddha statue.", "Rudaki Park serves as the central green space and botanical heart of the city.", "The surrounding valley is a major region for Tajikistan's cotton production."],
+    },
+  },
   {
     id: "khujand-cities-v2",
     type: "city",
@@ -98,7 +105,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Second largest city",
         "Large bazaar"
       ]
-    }, image: "/poi-images/khujand-cities-v2.webp"},
+    }, image: "/poi-images/khujand-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Khujand hieß von 1936 bis 1991 Leninabad.", "Die Stadt liegt am Ufer des Syrdarja, einem der längsten Flüsse Zentralasiens.", "Der Pantschanbe-Markt ist einer der größten überdachten Märkte Zentralasiens.", "Khujand ist das administrative Zentrum der Provinz Sughd.", "Die Zitadelle von Khujand beherbergt heute ein historisches Museum.", "Die Stadt liegt etwa 200 Kilometer nördlich der Hauptstadt Dushanbe."],
+      hu: ["Hudzsanda 1936 és 1991 között Leninabád néven volt ismert.", "A város a Szir-darja partján fekszik, amely Közép-Ázsia egyik leghosszabb folyója.", "A Pancsanbe piac Közép-Ázsia egyik legnagyobb fedett piaca.", "Hudzsanda Szugd tartomány közigazgatási központja.", "A hudzsandai citadella ma egy történelmi múzeumnak ad otthont.", "A város körülbelül 200 kilométerre északra található a fővárostól, Dusanbétől."],
+      ro: ["Khujand a purtat numele de Leninabad între anii 1936 și 1991.", "Orașul este situat pe malul fluviului Syr Darya, unul dintre cele mai lungi din regiune.", "Piața Panjshanbe este una dintre cele mai mari piețe acoperite din Asia Centrală.", "Khujand este centrul administrativ al provinciei Sughd.", "Citadela din Khujand găzduiește în prezent un muzeu regional de istorie.", "Orașul se află la aproximativ 200 de kilometri nord de capitala Dushanbe."],
+      en: ["Khujand was officially known as Leninabad from 1936 until 1991.", "The city sits on the banks of the Syr Darya, a major Central Asian river.", "The Panjshanbe Bazaar is among the largest covered markets in Central Asia.", "Khujand serves as the administrative capital of the Sughd Province.", "The Khujand Citadel currently houses a regional historical museum.", "The city is located approximately 200 kilometers north of Dushanbe."],
+    },
+  },
   {
     id: "bokhtar-cities-v2",
     type: "city",
@@ -147,7 +161,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Formerly Qurghonteppa",
         "Large cotton harvest"
       ]
-    }, image: "/poi-images/bokhtar-cities-v2.webp"},
+    }, image: "/poi-images/bokhtar-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Bokhtar ist die drittgrößte Stadt Tadschikistans.", "Die Stadt wurde 1944 zum Zentrum der neu geschaffenen Region Kurgan-Tjube.", "Der Name 'Bokhtar' bezieht sich auf die antike Region Baktrien.", "Die Stadt liegt etwa 100 Kilometer südlich der Hauptstadt Dushanbe.", "Ajina Tepe wurde 2001 in die Liste des UNESCO-Welterbes aufgenommen.", "Das Klima der Region ist subtropisch und ideal für den Baumwollanbau."],
+      hu: ["Bohtar Tádzsikisztán harmadik legnagyobb városa.", "A város 1944-ben lett az újonnan létrehozott Kurgonteppa régió központja.", "A 'Bohtar' név az ókori Baktria régióra utal.", "A város körülbelül 100 kilométerre délre fekszik a fővárostól, Dusanbétől.", "Az Adzsina-tepe lelőhelyet 2001-ben vették fel az UNESCO világörökségi listájára.", "A régió éghajlata szubtrópusi, ami ideális a gyapot termesztéséhez."],
+      ro: ["Bokhtar este al treilea oraș ca mărime din Tadjikistan.", "Orașul a devenit centrul regiunii Kurgan-Tyube în anul 1944.", "Numele 'Bokhtar' face referire la regiunea istorică antică Bactria.", "Așezarea este situată la aproximativ 100 de kilometri sud de capitala Dushanbe.", "Situl Ajina Tepe a fost propus pentru lista Patrimoniului Mondial UNESCO.", "Climatul regiunii este de tip subtropical, favorizând culturile de bumbac."],
+      en: ["Bokhtar is the third-largest city in Tajikistan by population.", "The city became the center of the Kurgan-Tyube region in 1944.", "The name 'Bokhtar' is a reference to the ancient historical region of Bactria.", "The city is located approximately 100 kilometers south of Dushanbe.", "Ajina Tepe was submitted to the UNESCO World Heritage tentative list in 1999.", "The local climate is semi-arid to subtropical, perfect for large-scale cotton farming."],
+    },
+  },
   {
     id: "kulob-cities-v2",
     type: "city",
@@ -196,7 +217,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Near the mountains",
         "Cultural center"
       ]
-    }, image: "/poi-images/kulob-cities-v2.webp"},
+    }, image: "/poi-images/kulob-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Kulob feierte 2006 sein 2.700-jähriges Bestehen unter UNESCO-Schirmherrschaft.", "Die Stadt liegt auf einer Höhe von etwa 580 Metern über dem Meeresspiegel.", "Mir Sayyid Ali Hamadani war maßgeblich an der Verbreitung des Islam in Kaschmir beteiligt.", "Kulob ist durch eine Bahnlinie direkt mit der Hauptstadt Dushanbe verbunden.", "Die Stadt ist bekannt für den 'Chakan'-Stickstil, der zum UNESCO-Kulturerbe gehört.", "Der Flughafen Kulob bedient internationale Verbindungen, hauptsächlich nach Russland."],
+      hu: ["Kulob 2006-ban ünnepelte 2700 éves fennállását az UNESCO védnöksége alatt.", "A város körülbelül 580 méteres tengerszint feletti magasságban fekszik.", "Mir Szajjid Ali Hamadáni döntő szerepet játszott az iszlám terjesztésében Kasmírban.", "Kulobot közvetlen vasútvonal köti össze a fővárossal, Dusanbével.", "A város híres a 'csakan' hímzésről, amely az UNESCO szellemi világörökség része.", "A kulobi repülőtér nemzetközi járatokat is fogad, elsősorban Oroszországból."],
+      ro: ["Kulob a sărbătorit 2.700 de ani de existență în 2006 sub egida UNESCO.", "Orașul este situat la o altitudine de aproximativ 580 de metri.", "Mir Sayyid Ali Hamadani a jucat un rol crucial în răspândirea islamului în Kashmir.", "Există o legătură feroviară directă între Kulob și capitala Dushanbe.", "Stilul de broderie 'Chakan' din Kulob este inclus în patrimoniul imaterial UNESCO.", "Aeroportul din Kulob operează zboruri internaționale, în special către Federația Rusă."],
+      en: ["Kulob celebrated its 2,700th anniversary in 2006 under the patronage of UNESCO.", "The city is situated at an elevation of approximately 580 meters above sea level.", "Mir Sayyid Ali Hamadani is credited with spreading Islam in the Kashmir region.", "Kulob is connected to the capital Dushanbe by a direct railway line.", "The city is famous for 'Chakan' embroidery, recognized as UNESCO Intangible Heritage.", "Kulob International Airport serves regular flights, primarily to major Russian cities."],
+    },
+  },
   {
     id: "istaravshan-cities-v2",
     type: "city",
@@ -245,7 +273,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Mug Teppe fortress",
         "Wood carving"
       ]
-    }, image: "/poi-images/istaravshan-cities-v2.webp"},
+    }, image: "/poi-images/istaravshan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Istaravshan hieß bis zum Jahr 2000 Ura-Tjube.", "Die Stadt feierte 2002 ihr offizielles 2.500-jähriges Bestehen.", "Mug Teppe war einst die Residenz lokaler Herrscher und hielt der Armee Alexanders des Großen stand.", "Die Kok-Gumbaz-Moschee wurde von Abdulatif Sultan im 15. Jahrhundert erbaut.", "Istaravshan liegt auf einer Höhe von etwa 1.000 Metern über dem Meeresspiegel.", "Die Stadt ist bekannt für die Produktion hochwertiger tadschikischer Messer."],
+      hu: ["Isztaravsan 2000-ig az Ura-Tyube nevet viselte.", "A város 2002-ben ünnepelte fennállásának 2500. évfordulóját.", "A Mug-tepe egykor a helyi uralkodók rezidenciája volt, és ellenállt Nagy Sándor seregének is.", "A Kok-Gumbaz mecsetet Abdulatif szultán építtette a 15. században.", "Isztaravsan körülbelül 1000 méteres tengerszint feletti magasságban fekszik.", "A város híres a kiváló minőségű hagyományos tádzsik kések készítéséről."],
+      ro: ["Istaravshan a purtat numele de Ura-Tyube până în anul 2000.", "Orașul a sărbătorit oficial cea de-a 2.500-a aniversare în anul 2002.", "Situl Mug Teppe a fost reședința guvernanților locali și a rezistat asediului lui Alexandru cel Mare.", "Moscheea Kok Gumbaz a fost construită de Abdulatif Sultan în secolul al XV-lea.", "Orașul se află la o altitudine de aproximativ 1.000 de metri deasupra nivelului mării.", "Istaravshan este celebru pentru producția de cuțite tadjice tradiționale de înaltă calitate."],
+      en: ["Istaravshan was known as Ura-Tyube until its name was changed in 2000.", "The city officially celebrated its 2,500th anniversary in 2002.", "Mug Teppe once served as a royal residence and resisted Alexander the Great's army.", "The Kok Gumbaz mosque was commissioned by Abdulatif Sultan in the 15th century.", "The city is situated at an elevation of approximately 1,000 meters.", "Istaravshan is renowned for its traditional blacksmithing, especially handmade knives."],
+    },
+  },
   {
     id: "vahdat-cities-v2",
     type: "city",
@@ -294,7 +329,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Industrial base",
         "Kofarnihon river"
       ]
-    }, image: "/poi-images/vahdat-cities-v2.webp"},
+    }, image: "/poi-images/vahdat-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Vahdat hieß von 1936 bis 1991 Ordzhonikidzeabad.", "Die Stadt liegt im Kofarnihon-Tal auf etwa 870 Metern Höhe.", "Vahdat ist das Verwaltungszentrum des gleichnamigen Distrikts.", "Die Romit-Schlucht in der Nähe ist bekannt für ihre Heilquellen.", "Die Stadt ist ein wichtiger Knotenpunkt für den Schienenverkehr nach Osten.", "Der Name Vahdat wurde zur Feier der nationalen Versöhnung nach dem Bürgerkrieg gewählt."],
+      hu: ["Vahdat 1936 és 1991 között az Ordzsonikidzeábád nevet viselte.", "A város a Kofarnihon-völgyben fekszik, mintegy 870 méteres magasságban.", "Vahdat a róla elnevezett járás közigazgatási központja.", "A közeli Romit-szurdok híres a gyógyforrásairól.", "A város fontos vasúti csomópont az ország keleti része felé.", "A Vahdat nevet a polgárháború utáni nemzeti megbékélés tiszteletére választották."],
+      ro: ["Vahdat a purtat numele de Ordzhonikidzeabad între 1936 și 1991.", "Orașul este situat în valea Kofarnihon la o altitudine de circa 870 de metri.", "Vahdat reprezintă centrul administrativ al districtului cu același nume.", "Defileul Romit din apropiere este renumit pentru izvoarele sale minerale.", "Orașul este un punct feroviar strategic pentru rutele către est.", "Numele Vahdat a fost ales pentru a marca reconcilierea națională după războiul civil."],
+      en: ["Vahdat was known as Ordzhonikidzeabad from 1936 to 1991.", "The city is located in the Kofarnihon Valley at an elevation of 870 meters.", "Vahdat is the administrative center of the Vahdat District.", "The nearby Romit Gorge is a designated nature reserve famous for mineral springs.", "The city serves as a major railway junction for routes heading to eastern Tajikistan.", "The current name Vahdat was adopted in 2003 to symbolize national unity."],
+    },
+  },
   {
     id: "tursunzoda-cities-v2",
     type: "city",
@@ -343,7 +385,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Regional industry",
         "Rapid growth"
       ]
-    }, image: "/poi-images/tursunzoda-cities-v2.webp"},
+    }, image: "/poi-images/tursunzoda-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Aluminiumhütte TALCO produziert jährlich Hunderttausende Tonnen Aluminium.", "Tursunzoda liegt etwa 60 Kilometer westlich von Dushanbe.", "Die Stadt erhielt 1954 das Stadtrecht.", "Der Bahnhof von Tursunzoda ist ein wichtiger Punkt an der Strecke nach Termiz.", "Die Region ist einer der größten Reisproduzenten Tadschikistans.", "Mirzo Tursunzoda, der Namensgeber, war ein Held Tadschikistans."],
+      hu: ["A TALCO alumíniumkohó évente több százezer tonna alumíniumot állít elő.", "Turszunzoda körülbelül 60 kilométerre nyugatra fekszik Dusanbétől.", "A település 1954-ben kapott városi rangot.", "Turszunzoda vasútállomása fontos pont a Termiz felé vezető vonalon.", "A régió Tádzsikisztán egyik legnagyobb rizstermelő területe.", "Mirzo Turszunzoda, a város névadója, Tádzsikisztán nemzeti hőse volt."],
+      ro: ["Topitoria de aluminiu TALCO produce anual sute de mii de tone de metal.", "Tursunzoda se află la aproximativ 60 de kilometri vest de Dushanbe.", "Așezarea a primit statutul oficial de oraș în anul 1954.", "Gara din Tursunzoda este un punct strategic pe ruta feroviară către Termez.", "Regiunea este unul dintre cei mai mari producători de orez din Tadjikistan.", "Mirzo Tursunzoda, după care este numit orașul, a fost un renumit poet național."],
+      en: ["The TALCO aluminum smelter produces hundreds of thousands of tons of aluminum annually.", "Tursunzoda is situated approximately 60 kilometers west of the capital, Dushanbe.", "The settlement was officially granted city status in 1954.", "The Tursunzoda railway station is a key stop on the line connecting to Termez.", "The surrounding district is one of the primary rice-growing regions in Tajikistan.", "The city's namesake, Mirzo Tursunzoda, is a celebrated National Hero of Tajikistan."],
+    },
+  },
   {
     id: "konibodom-cities-v2",
     type: "city",
@@ -392,7 +441,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Many orchards",
         "Large lake nearby"
       ]
-    }, image: "/poi-images/konibodom-cities-v2.webp"},
+    }, image: "/poi-images/konibodom-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Konibodom wurde erstmals in arabischen Manuskripten des 9. Jahrhunderts erwähnt.", "Die Mir-Radjab-Dodcho-Medrese beherbergt heute ein lokales Museum.", "Die Stadt ist bekannt für ihre süßen Mandeln und getrockneten Aprikosen.", "Konibodom liegt nahe der Grenze zu Usbekistan und Kirgisistan.", "In der Stadt gibt es bedeutende Betriebe zur Baumwollverarbeitung.", "Konibodom liegt auf einer Höhe von etwa 400 Metern über dem Meeresspiegel."],
+      hu: ["Konibodomot először a 9. századi arab kéziratokban említik.", "A Mir-Radzsab-Dodho medresze ma helytörténeti múzeumnak ad otthont.", "A város híres édes mandulájáról és szárított sárgabarackjáról.", "Konibodom az üzbég és a kirgiz határ közelében fekszik.", "A városban jelentős gyapotfeldolgozó üzemek működnek.", "Konibodom körülbelül 400 méteres tengerszint feletti magasságban fekszik."],
+      ro: ["Konibodom a fost menționat pentru prima dată în manuscrisele arabe din secolul al IX-lea.", "Medresa Mir-Rajab-Dodkho găzduiește în prezent un muzeu local de istorie.", "Orașul este renumit pentru migdalele sale dulci și caisele uscate.", "Konibodom este situat aproape de granițele cu Uzbekistan și Kârgâzstan.", "În oraș funcționează unități importante de prelucrare a bumbacului.", "Așezarea se află la o altitudine de aproximativ 400 de metri deasupra nivelului mării."],
+      en: ["Konibodom was first documented in Arabic manuscripts dating back to the 9th century.", "The Mir-Rajab-Dodkho Madrasa currently houses a local history museum.", "The city is widely celebrated for its sweet almonds and high-quality dried apricots.", "Konibodom is strategically located near the borders of Uzbekistan and Kyrgyzstan.", "The town features significant facilities for cotton ginning and processing.", "Konibodom is situated at an elevation of approximately 400 meters in the valley."],
+    },
+  },
   {
     id: "isfara-cities-v2",
     type: "city",
@@ -441,7 +497,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Old settlement",
         "Dried fruit export"
       ]
-    }, image: "/poi-images/isfara-cities-v2.webp"},
+    }, image: "/poi-images/isfara-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Isfara liegt am gleichnamigen Fluss Isfara.", "Die Stadt ist bekannt für das 'Hazrati-Schoch'-Mausoleum mit seinen Holzschnitzereien.", "Isfara produziert jährlich Tausende Tonnen getrockneter Aprikosen.", "In der Nähe befinden sich bedeutende Kohle- und Ölvorkommen.", "Die Stadt liegt etwa 100 Kilometer östlich von Khujand.", "Isfara hat eine strategische Lage nahe der kirgisischen und usbekischen Grenze."],
+      hu: ["Iszfara az azonos nevű Iszfara-folyó mentén fekszik.", "A város híres a 'Hazrati-Soh' mauzóleumról és annak fafaragványairól.", "Iszfara évente több ezer tonna aszalt sárgabarackot termel.", "A közelben jelentős szén- és olajlelőhelyek találhatók.", "A város körülbelül 100 kilométerre keletre fekszik Hudzsandától.", "Iszfara stratégiai helyen, a kirgiz és az üzbég határ közelében található."],
+      ro: ["Isfara este traversat de râul cu același nume.", "Orașul este cunoscut pentru mausoleul Hazrati Shoh și sculpturile sale în lemn.", "Isfara produce anual mii de tone de caise uscate pentru export.", "În apropierea orașului se află zăcăminte importante de cărbune și petrol.", "Orașul se află la aproximativ 100 de kilometri est de Khujand.", "Isfara are o poziție strategică în apropierea granițelor cu Kârgâzstan și Uzbekistan."],
+      en: ["Isfara is built along the banks of the Isfara River.", "The city is famous for the Hazrati Shoh mausoleum, featuring intricate wood carvings.", "Isfara accounts for a significant portion of Tajikistan's dried apricot production.", "The surrounding area contains notable deposits of coal and oil.", "The city is located approximately 100 kilometers east of Khujand.", "Isfara's strategic location near the borders of Kyrgyzstan and Uzbekistan makes it a trade hub."],
+    },
+  },
   {
     id: "panjakent-cities-v2",
     type: "city",
@@ -490,7 +553,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Sogdian ruins",
         "Ancient wall paintings"
       ]
-    }, image: "/poi-images/panjakent-cities-v2.webp"},
+    }, image: "/poi-images/panjakent-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Alt-Panjakent wurde nach der arabischen Eroberung im 8. Jahrhundert verlassen.", "Die Stadt liegt etwa 230 Kilometer nordwestlich von Dushanbe.", "Das Rudaki-Museum in Panjakent zeigt Funde aus der antiken Stadt.", "Saram, eine archäologische Stätte in der Nähe, gehört zum UNESCO-Welterbe.", "Panjakent liegt auf einer Höhe von etwa 900 Metern über dem Meeresspiegel.", "Die Region ist bekannt für den Abbau von Gold und anderen Erzen."],
+      hu: ["Ó-Pandzsakentet a 8. századi arab hódítás után hagyták el.", "A város körülbelül 230 kilométerre északnyugatra fekszik Dusanbétől.", "A pandzsakenti Rudaki-múzeum az ókori városból származó leleteket mutatja be.", "A közeli Szarazm régészeti lelőhely az UNESCO világörökség része.", "Pandzsakent körülbelül 900 méteres tengerszint feletti magasságban fekszik.", "A régió híres az aranybányászatáról és egyéb ércek kitermeléséről."],
+      ro: ["Vechiul Panjakent a fost abandonat după cucerirea arabă din secolul al VIII-lea.", "Orașul se află la aproximativ 230 de kilometri nord-vest de Dushanbe.", "Muzeul Rudaki din Panjakent expune artefacte descoperite în orașul antic.", "Situl arheologic Sarazm din apropiere este inclus în Patrimoniul Mondial UNESCO.", "Panjakent este situat la o altitudine de aproximativ 900 de metri.", "Regiunea este cunoscută pentru exploatările sale miniere de aur și alte metale."],
+      en: ["Old Panjakent was abandoned following the Arab conquest in the 8th century.", "The city is located approximately 230 kilometers northwest of Dushanbe.", "The Rudaki Museum in Panjakent displays stunning artifacts from the ancient site.", "The nearby archaeological site of Sarazm is a UNESCO World Heritage site.", "Panjakent sits at an average elevation of 900 meters above sea level.", "The district is a major center for gold mining and mineral extraction in Tajikistan."],
+    },
+  },
   {
     id: "khorugh-cities-v2",
     type: "city",
@@ -539,7 +609,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "On the Panj River",
         "High mountains"
       ]
-    }, image: "/poi-images/khorugh-cities-v2.webp"},
+    }, image: "/poi-images/khorugh-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Khorugh liegt auf einer Höhe von 2.200 Metern über dem Meeresspiegel.", "Der Pamir-Botanische Garten beherbergt über 4.000 Pflanzenarten.", "Die Stadt ist durch eine Brücke über den Panj mit Afghanistan verbunden.", "Khorugh ist das Zentrum der Ismaeliten in Tadschikistan.", "Der Pamir Highway verbindet Khorugh mit Dushanbe und Osh (Kirgisistan).", "Die Stadt ist bekannt für ihre hohe Alphabetisierungsrate und Bildung."],
+      hu: ["Horug 2200 méteres tengerszint feletti magasságban fekszik.", "A Pamír Botanikus Kert több mint 4000 növényfajnak ad otthont.", "A várost egy híd köti össze Afganisztánnal a Pandzs-folyó felett.", "Horug az iszmáilita közösség központja Tádzsikisztánban.", "A Pamír Highway összeköti Horugot Dusanbével és az oshi (Kirgizisztán) régióval.", "A város híres a magas írástudási arányáról és az oktatás színvonaláról."],
+      ro: ["Khorugh se află la o altitudine de 2.200 de metri deasupra nivelului mării.", "Grădina Botanică din Pamir adăpostește peste 4.000 de specii de plante.", "Orașul este conectat de Afganistan printr-un pod peste râul Panj.", "Khorugh este principalul centru al comunității ismailite din Tadjikistan.", "Autostrada Pamir leagă Khorugh de Dushanbe și de orașul Osh din Kârgâzstan.", "Orașul este recunoscut pentru nivelul ridicat de educație al populației sale."],
+      en: ["Khorugh is situated at an elevation of approximately 2,200 meters.", "The Pamir Botanical Garden features more than 4,000 species of mountain plants.", "A bridge across the Panj River connects Khorugh directly to Afghanistan.", "The city is a significant spiritual center for the Ismaili Muslim community.", "The Pamir Highway (M41) is the primary road link connecting Khorugh to the world.", "Khorugh is known for having one of the highest literacy rates in Central Asia."],
+    },
+  },
   {
     id: "yovon-cities-v2",
     type: "city",
@@ -588,7 +665,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "In Khatlon",
         "Growing community"
       ]
-    }, image: "/poi-images/yovon-cities-v2.webp"},
+    }, image: "/poi-images/yovon-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadt wurde 1965 offiziell als Siedlung städtischen Typs gegründet.", "Yovon beherbergt eines der größten Zementwerke Zentralasiens.", "Das Bewässerungssystem wird durch den 7,5 km langen Yovon-Tunnel gespeist.", "Die Stadt liegt auf einer durchschnittlichen Höhe von etwa 600 Metern über dem Meeresspiegel.", "Die Entfernung zur afghanischen Grenze beträgt weniger als 100 Kilometer.", "Das chemische Kombinat wurde ursprünglich zur Herstellung von Magnesium und Chlor konzipiert."],
+      hu: ["A várost hivatalosan 1965-ben alapították városi típusú településként.", "Jovon ad otthont Közép-Ázsia egyik legnagyobb cementgyárának.", "Az öntözőrendszert a 7,5 km hosszú Jovon-alagúton keresztül látják el vízzel.", "A város átlagos tengerszint feletti magassága körülbelül 600 méter.", "Az afgán határ távolsága kevesebb mint 100 kilométer a várostól.", "A vegyi kombinátot eredetileg magnézium és klór előállítására tervezték."],
+      ro: ["Orașul a fost fondat oficial în 1965 ca așezare de tip urban.", "Iovon găzduiește una dintre cele mai mari fabrici de ciment din Asia Centrală.", "Sistemul de irigații este alimentat prin tunelul Iovon, lung de 7,5 km.", "Orașul este situat la o altitudine medie de aproximativ 600 de metri peste nivelul mării.", "Distanța până la granița cu Afganistanul este de mai puțin de 100 de kilometri.", "Combinatul chimic a fost conceput inițial pentru producția de magneziu și clor."],
+      en: ["The city was officially established as an urban-type settlement in 1965.", "Yovon houses one of the largest cement plants in Central Asia.", "The regional irrigation system is supplied via the 7.5 km long Yovon Tunnel.", "The city sits at an average elevation of approximately 600 meters above sea level.", "The distance to the Afghan border is less than 100 kilometers from the city.", "The local chemical complex was originally designed for magnesium and chlorine production."],
+    },
+  },
   {
     id: "hisor-cities-v2",
     type: "city",
@@ -637,7 +721,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Old trade center",
         "Hisor Valley"
       ]
-    }, image: "/poi-images/hisor-cities-v2.webp"},
+    }, image: "/poi-images/hisor-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Festungsmauern von Hisor sind an der Basis über einen Meter dick.", "Das Haupttor der Festung wurde im 16. Jahrhundert aus gebrannten Ziegeln errichtet.", "Die Madrasa-i-Kuhna beherbergt heute ein ethnografisches Museum.", "Hisor war im Mittelalter ein Zentrum für das Handwerk, insbesondere die Waffenherstellung.", "Die Stadt feierte 2015 offiziell ihr 3.000-jähriges Gründungsjubiläum.", "Das Mausoleum von Mahdumi Azam stammt aus dem 16. Jahrhundert."],
+      hu: ["Hisszar várfalai az alapoknál több mint egy méter vastagok.", "Az erőd főkapuja a 16. században épült égetett téglából.", "A Madrasza-i-Kuhna ma egy néprajzi múzeumnak ad otthont.", "Hisszar a középkorban a kézművesség, különösen a fegyvergyártás központja volt.", "A város 2015-ben ünnepelte hivatalosan alapításának 3000. évfordulóját.", "Mahdumi Azam mauzóleuma a 16. századból származik."],
+      ro: ["Zidurile cetății Hisor au o grosime de peste un metru la bază.", "Poarta principală a cetății a fost construită în secolul al XVI-lea din cărămidă arsă.", "Medresa-i-Kuhna găzduiește astăzi un muzeu etnografic.", "Hisor a fost un centru al meșteșugurilor în Evul Mediu, în special pentru fabricarea armelor.", "Orașul și-a sărbătorit oficial cea de-a 3.000-a aniversare în 2015.", "Mausoleul lui Mahdumi Azam datează din secolul al XVI-lea."],
+      en: ["The fortress walls of Hisor are over one meter thick at their base.", "The main gateway of the fortress was constructed in the 16th century using fired bricks.", "The Madrasa-i-Kuhna currently serves as an ethnographic museum.", "During the Middle Ages, Hisor was a renowned center for crafts, especially weaponry.", "In 2015, the city officially celebrated the 3,000th anniversary of its founding.", "The Mausoleum of Mahdumi Azam dates back to the 16th century."],
+    },
+  },
   {
     id: "nurek-cities-v2",
     type: "city",
@@ -686,7 +777,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Power generation",
         "Deep reservoir"
       ]
-    }, image: "/poi-images/nurek-cities-v2.webp"},
+    }, image: "/poi-images/nurek-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Der Nurek-Staudamm hat eine Höhe von genau 300 Metern.", "Das Wasserkraftwerk hat eine installierte Leistung von 3.015 Megawatt.", "Der Bau des Damms begann 1961 und wurde 1980 abgeschlossen.", "Der Nurek-Stausee fasst etwa 10,5 Kubikkilometer Wasser.", "Nurek liegt auf einer Höhe von etwa 885 Metern über dem Meeresspiegel.", "Die Stadt beherbergt auch eine optisch-elektronische Station zur Weltraumüberwachung."],
+      hu: ["A Nureki-gát magassága pontosan 300 méter.", "A vízerőmű beépített teljesítménye 3015 megawatt.", "A gát építése 1961-ben kezdődött és 1980-ban fejeződött be.", "A Nureki-víztározó körülbelül 10,5 köbkilométer vizet tárol.", "Nurek körülbelül 885 méteres tengerszint feletti magasságban fekszik.", "A város egy optikai-elektronikai űrmegfigyelő állomásnak is otthont ad."],
+      ro: ["Barajul Nurek are o înălțime de exact 300 de metri.", "Hidrocentrala are o putere instalată de 3.015 megawați.", "Construcția barajului a început în 1961 și a fost finalizată în 1980.", "Rezervorul Nurek stochează aproximativ 10,5 kilometri cubi de apă.", "Nurek se află la o altitudine de aproximativ 885 de metri peste nivelul mării.", "Orașul găzduiește, de asemenea, o stație optico-electronică pentru supravegherea spațială."],
+      en: ["The Nurek Dam reaches a precise height of 300 meters.", "The hydroelectric plant has an installed capacity of 3,015 megawatts.", "Construction of the dam commenced in 1961 and was completed in 1980.", "The Nurek Reservoir holds approximately 10.5 cubic kilometers of water.", "Nurek is situated at an elevation of about 885 meters above sea level.", "The city also hosts an optical-electronic space surveillance station."],
+    },
+  },
   {
     id: "farkhor-cities-v2",
     type: "city",
@@ -735,7 +833,13 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Agriculture",
         "Southern plains"
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Farkhor liegt etwa 200 Kilometer südöstlich von Duschanbe.", "Der Luftwaffenstützpunkt Farkhor wird in Kooperation mit Indien betrieben.", "In der Nähe wurden Siedlungsspuren aus dem 4. Jahrhundert v. Chr. gefunden.", "Die Region ist bekannt für ihre hohe Baumwollqualität im nationalen Vergleich.", "Der Fluss Pandsch bildet hier die natürliche Grenze zu Afghanistan.", "Die Stadt dient als administratives Zentrum des gleichnamigen Distrikts."],
+      hu: ["Farhor körülbelül 200 kilométerre délkeletre fekszik Dusanbétől.", "A farhori légibázist Indiával együttműködésben üzemeltetik.", "A közelben az i. e. 4. századból származó településnyomokat találtak.", "A régió nemzeti összehasonlításban is ismert kiváló minőségű gyapotjáról.", "A Pandzs folyó itt képezi a természetes határt Afganisztánnal.", "A város a hasonló nevű járás adminisztratív központjaként szolgál."],
+      ro: ["Farhor se află la aproximativ 200 de kilometri sud-est de Dușanbe.", "Baza aeriană Farhor este operată în cooperare cu India.", "În apropiere au fost găsite urme de așezări din secolul al IV-lea î.Hr.", "Regiunea este cunoscută pentru calitatea ridicată a bumbacului la nivel național.", "Râul Panj formează aici granița naturală cu Afganistanul.", "Orașul servește ca centru administrativ al districtului cu același nume."],
+      en: ["Farkhor is located approximately 200 kilometers southeast of Dushanbe.", "The Farkhor Air Base is operated in cooperation with India.", "Settlement traces from the 4th century BC have been discovered nearby.", "The region is renowned for producing high-quality cotton on a national scale.", "The Panj River forms the natural international border with Afghanistan here.", "The city serves as the administrative center for the district of the same name."],
+    },
   },
   {
     id: "vose-cities-v2",
@@ -785,7 +889,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Salt mountain",
         "Growing economy"
       ]
-    }, image: "/poi-images/vose-cities-v2.webp"},
+    }, image: "/poi-images/vose-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Vose' hieß früher Pagliacci und wurde zu Ehren eines Bauernaufstandsführers umbenannt.", "Die Stadt liegt auf einer Höhe von etwa 450 Metern über dem Meeresspiegel.", "Die Entfernung zur Provinzhauptstadt Bochtar beträgt etwa 110 Kilometer.", "Vose' ist ein bedeutender Produzent von hochwertigem Speisesalz in der Region.", "Die Eisenbahnlinie von Duschanbe nach Kulob führt durch die Stadt.", "Die Festung Hulbuk war im 9. bis 11. Jahrhundert ein administratives Zentrum von Huttal."],
+      hu: ["Vose korábban Pagliacci néven volt ismert, nevét egy parasztfelkelés vezetője tiszteletére kapta.", "A város tengerszint feletti magassága körülbelül 450 méter.", "A távolság Bohtar tartományi székhelytől körülbelül 110 kilométer.", "Vose a régió kiváló minőségű étkezési sójának egyik jelentős termelője.", "A Dusanbe és Kulob közötti vasútvonal áthalad a városon.", "Hulbuk erődje a 9-11. században Huttal adminisztratív központja volt."],
+      ro: ["Vose s-a numit anterior Pagliacci și a fost redenumit în onoarea unui lider al unei răscoale țărănești.", "Orașul este situat la o altitudine de aproximativ 450 de metri peste nivelul mării.", "Distanța până la capitala provinciei, Bohtar, este de aproximativ 110 kilometri.", "Vose este un producător important de sare de masă de înaltă calitate în regiune.", "Linia ferată de la Dușanbe la Kulob trece prin oraș.", "Cetatea Hulbuk a fost un centru administrativ al Huttal în secolele IX-XI."],
+      en: ["Vose' was previously known as Pagliacci and was renamed after a famous peasant revolt leader.", "The city is located at an elevation of approximately 450 meters above sea level.", "The distance to the provincial capital, Bokhtar, is about 110 kilometers.", "Vose' is a major producer of high-quality table salt for the southern region.", "The railway line connecting Dushanbe and Kulob passes through the city.", "Hulbuk Fortress served as the administrative center of Khuttal during the 9th-11th centuries."],
+    },
+  },
   {
     id: "buston-cities-v2",
     type: "city",
@@ -834,7 +945,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Civil development",
         "Northern Tajikistan"
       ]
-    }, image: "/poi-images/buston-cities-v2.webp"},
+    }, image: "/poi-images/buston-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadt wurde zu Ehren des legendären Fliegers Waleri Tschkalow benannt.", "Buston beherbergt das Bergbautechnische Institut von Tadschikistan.", "Der internationale Flughafen Chudschand (LBD) befindet sich auf dem Stadtgebiet.", "In der Stadt lebten zur Blütezeit Wissenschaftler aus der gesamten Sowjetunion.", "Die Entfernung zum Stadtzentrum von Chudschand beträgt nur etwa 10 Kilometer.", "Das Denkmal für das erste sowjetische Uran ist ein markantes Symbol der Stadt."],
+      hu: ["A várost a legendás repülő, Valerij Cskalov tiszteletére nevezték el.", "Buszton ad otthont a Tádzsik Bányászati és Műszaki Intézetnek.", "A Hudzsandi Nemzetközi Repülőtér (LBD) a város területén található.", "Fénykorában a városban az egész Szovjetunióból érkezett tudósok éltek.", "A távolság Hudzsand városközpontjától mindössze körülbelül 10 kilométer.", "Az első szovjet uránnak állított emlékmű a város egyik jellegzetes szimbóluma."],
+      ro: ["Orașul a fost numit în onoarea legendarului aviator Valeri Cikalov.", "Buston găzduiește Institutul de Tehnologie Minieră din Tadjikistan.", "Aeroportul Internațional Hujand (LBD) este situat pe teritoriul orașului.", "În perioada de glorie, în oraș locuiau oameni de știință din întreaga Uniune Sovietică.", "Distanța până în centrul orașului Hujand este de numai aproximativ 10 kilometri.", "Monumentul dedicat primului uraniu sovietic este un simbol proeminent al orașului."],
+      en: ["The city was originally named in honor of the legendary aviator Valery Chkalov.", "Buston is home to the Mining and Metallurgical Institute of Tajikistan.", "Khujand International Airport (LBD) is located within the city limits.", "During its peak, the city was inhabited by scientists from across the Soviet Union.", "The distance to the city center of Khujand is only about 10 kilometers.", "The monument to the first Soviet uranium is a distinctive symbol of the city."],
+    },
+  },
   {
     id: "ghafurov-cities-v2",
     type: "city",
@@ -883,7 +1001,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "In the Fergana Valley",
         "Named after a historian"
       ]
-    }, image: "/poi-images/ghafurov-cities-v2.webp"},
+    }, image: "/poi-images/ghafurov-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Ghafurov hieß bis 1978 Syrdarjinski.", "Die Stadt beherbergt ein Museum, das dem Leben von Bobojon Ghafurov gewidmet ist.", "Ghafurov ist einer der größten Weinproduzenten in der Provinz Sugd.", "Der Bahnhof Ghafurov verbindet Tadschikistan mit Usbekistan.", "Die Entfernung zum Zentrum von Chudschand beträgt etwa 12 Kilometer.", "In der Region werden einige der besten Aprikosen Zentralasiens angebaut."],
+      hu: ["Gafurov 1978-ig Szirdarjinszkij néven volt ismert.", "A városban egy múzeum működik, amely Bobojon Gafurov életének állít emléket.", "Gafurov a Szugd régió egyik legnagyobb bortermelője.", "A gafurovi vasútállomás összeköti Tádzsikisztánt Üzbegisztánnal.", "A távolság Hudzsand központjától körülbelül 12 kilométer.", "A régióban termesztik Közép-Ázsia néhány legjobb sárgabarackját."],
+      ro: ["Ghafurov s-a numit Sîrdarinski până în 1978.", "Orașul găzduiește un muzeu dedicat vieții lui Bobojon Ghafurov.", "Ghafurov este unul dintre cei mai mari producători de vin din provincia Sugd.", "Gara Ghafurov leagă Tadjikistanul de Uzbekistan.", "Distanța până în centrul orașului Hujand este de aproximativ 12 kilometri.", "În regiune sunt cultivate unele dintre cele mai bune caise din Asia Centrală."],
+      en: ["Ghafurov was known as Syrdaryinsky until its renaming in 1978.", "The city features a comprehensive museum dedicated to the life of Bobojon Ghafurov.", "Ghafurov is one of the largest wine producers in the Sughd Region.", "The Ghafurov railway station serves as a vital link between Tajikistan and Uzbekistan.", "The distance to the center of Khujand is approximately 12 kilometers.", "The surrounding region produces some of the finest apricots in Central Asia."],
+    },
+  },
   {
     id: "danghara-cities-v2",
     type: "city",
@@ -932,7 +1057,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "New buildings",
         "Agricultural region"
       ]
-    }, image: "/poi-images/danghara-cities-v2.webp"},
+    }, image: "/poi-images/danghara-cities-v2.webp",
+    factsAdvanced: {
+      de: ["In Danghara befindet sich die größte Textilfabrik Zentralasiens.", "Die Freie Wirtschaftszone Danghara wurde 2009 offiziell gegründet.", "Die Stadt verfügt über einen modernen internationalen Flughafen.", "Danghara liegt etwa 90 Kilometer südöstlich von Duschanbe.", "Die Region ist bekannt für ihre traditionelle Pferdezucht.", "Die neue Eisenbahnlinie nach Bochtar verkürzt die Reisezeit erheblich."],
+      hu: ["Dangarán található Közép-Ázsia legnagyobb textilgyára.", "A Dangara Szabad Gazdasági Övezetet hivatalosan 2009-ben alapították.", "A város modern nemzetközi repülőtérrel rendelkezik.", "Dangara körülbelül 90 kilométerre délkeletre fekszik Dusanbétől.", "A régió híres a hagyományos lótenyésztéséről.", "A Bohtarba tartó új vasútvonal jelentősen lerövidíti az utazási időt."],
+      ro: ["În Danghara se află cea mai mare fabrică de textile din Asia Centrală.", "Zona Economică Liberă Danghara a fost fondată oficial în 2009.", "Orașul dispune de un aeroport internațional modern.", "Danghara se află la aproximativ 90 de kilometri sud-est de Dușanbe.", "Regiunea este cunoscută pentru creșterea tradițională a cailor.", "Noua linie ferată către Bohtar scurtează semnificativ timpul de călătorie."],
+      en: ["Danghara is home to the largest textile factory in Central Asia.", "The Danghara Free Economic Zone was officially established in 2009.", "The city is equipped with a modern international airport.", "Danghara is located approximately 90 kilometers southeast of Dushanbe.", "The surrounding region is renowned for its traditional horse breeding.", "A new railway line to Bokhtar has significantly reduced travel times."],
+    },
+  },
   {
     id: "shahrtuz-cities-v2",
     type: "city",
@@ -981,7 +1113,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "On the Kofarnihon",
         "Cotton"
       ]
-    }, image: "/poi-images/shahrtuz-cities-v2.webp"},
+    }, image: "/poi-images/shahrtuz-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Das Khoja Mashad Mausoleum gilt als eine der ältesten Madrasas Zentralasiens.", "Chiluchor Chashma produziert pro Sekunde über 1.500 Liter Quellwasser.", "Die Region verzeichnet im Sommer Temperaturen von über 45 Grad Celsius.", "Shahrtuz ist durch eine Eisenbahnlinie mit der Stadt Termiz in Usbekistan verbunden.", "In der Nähe befinden sich die Ruinen der antiken Stadt Takhti Sangin.", "Der Name Shahrtuz bedeutet übersetzt 'Große Stadt' oder 'Stadt des Staubs'."],
+      hu: ["A Hodzsa Masad mauzóleumot Közép-Ázsia egyik legrégebbi madraszájának tartják.", "A Csilucsor Csasmar másodpercenként több mint 1500 liter forrásvizet ad.", "A régióban nyáron a hőmérséklet meghaladja a 45 Celsius-fokot.", "Sahrtuzt vasútvonal köti össze az üzbegisztáni Termiz városával.", "A közelben találhatók Tahti Szangin ókori városának romjai.", "A Sahrtuz név fordítása 'Nagy város' vagy 'A por városa'."],
+      ro: ["Mausoleul Khoja Mashad este considerat una dintre cele mai vechi medrese din Asia Centrală.", "Chiluchor Chashma produce peste 1.500 de litri de apă de izvor pe secundă.", "Regiunea înregistrează temperaturi de peste 45 de grade Celsius în timpul verii.", "Șahrtuz este legat printr-o linie ferată de orașul Termez din Uzbekistan.", "În apropiere se află ruinele orașului antic Takhti Sangin.", "Numele Șahrtuz se traduce prin „Orașul Mare” sau „Orașul Prafului”."],
+      en: ["The Khoja Mashad Mausoleum is considered one of the oldest madrasas in Central Asia.", "Chiluchor Chashma discharges over 1,500 liters of spring water per second.", "The region frequently records summer temperatures exceeding 45 degrees Celsius.", "Shahrtuz is connected by rail to the city of Termez in Uzbekistan.", "The ruins of the ancient city Takhti Sangin are located in the vicinity.", "The name Shahrtuz translates to 'Great City' or 'City of Dust'."],
+    },
+  },
   {
     id: "zafarobod-cities-v2",
     type: "city",
@@ -1030,7 +1169,13 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Soviet planning",
         "Cotton fields"
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Die Stadt wurde 1960 als administratives Zentrum des neuen Distrikts gegründet.", "Zafarobod liegt in einer der trockensten Regionen Tadschikistans.", "Die Wasserversorgung erfolgt primär über Pumpstationen am Syrdarja.", "Die Siedler kamen ursprünglich aus dem Mastcho-Distrikt im Gebirge.", "Die Stadt hat ein streng rechtwinkliges Straßenraster.", "Zafarobod spielt eine Schlüsselrolle im Baumwollexport der Provinz Sugd."],
+      hu: ["A várost 1960-ban alapították az új járás adminisztratív központjaként.", "Zafarobod Tádzsikisztán egyik legszárazabb régiójában fekszik.", "A vízellátást elsősorban a Szir-darján található szivattyúállomások biztosítják.", "A telepesek eredetileg a hegyvidéki Masztcso járásból érkeztek.", "A város szigorúan merőleges utcahálózattal rendelkezik.", "Zafarobod kulcsszerepet játszik a Szugd régió gyapotexportjában."],
+      ro: ["Orașul a fost fondat în 1960 ca centru administrativ al noului district.", "Zafarobod este situat în una dintre cele mai aride regiuni ale Tadjikistanului.", "Alimentarea cu apă se face în principal prin stații de pompare de pe Sîr Daria.", "Coloniștii au venit inițial din districtul montan Mastcho.", "Orașul are o rețea de străzi strict ortogonală.", "Zafarobod joacă un rol cheie în exportul de bumbac al provinciei Sugd."],
+      en: ["The city was established in 1960 as the administrative center for the new district.", "Zafarobod is situated in one of the most arid regions of Tajikistan.", "Water supply is primarily managed via pumping stations on the Syr Darya river.", "The original settlers were primarily relocated from the mountainous Mastcho District.", "The city features a strictly grid-based urban street layout.", "Zafarobod is a key contributor to the Sughd Region's cotton export economy."],
+    },
   },
   {
     id: "shaydon-cities-v2",
@@ -1080,7 +1225,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Northeastern border",
         "Green valleys"
       ]
-    }, image: "/poi-images/shaydon-cities-v2.webp"},
+    }, image: "/poi-images/shaydon-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Region Shaydon ist berühmt für die Sorte 'Asht-Aprikose'.", "Die Stadt liegt auf einer Höhe von etwa 1.100 Metern.", "In der Umgebung befinden sich mehrere Heilwasserquellen.", "Shaydon ist durch eine Gebirgsstraße mit Chudschand verbunden.", "Die Distanz zur usbekischen Grenze beträgt weniger als 15 Kilometer.", "Traditionelle Feste wie Navruz werden hier besonders ausgiebig gefeiert."],
+      hu: ["A Sajdon régió híres az 'Aszt-sárgabarack' fajtáról.", "A város körülbelül 1100 méteres tengerszint feletti magasságban fekszik.", "A környéken számos gyógyvizes forrás található.", "Sajdont hegyi út köti össze Hudzsanddal.", "Az üzbég határ távolsága kevesebb mint 15 kilométer.", "A hagyományos ünnepeket, mint a Navruzt, itt különösen nagy pompával ülik meg."],
+      ro: ["Regiunea Șaidon este renumită pentru soiul de „caisă de Așt”.", "Orașul este situat la o altitudine de aproximativ 1.100 de metri.", "În împrejurimi se află mai multe izvoare de apă curativă.", "Șaidon este legat de Hujand printr-un drum montan.", "Distanța până la granița cu Uzbekistan este de mai puțin de 15 kilometri.", "Festivalurile tradiționale, cum ar fi Navruz, sunt celebrate aici cu mare fast."],
+      en: ["The Shaydon region is famous for its unique 'Asht apricot' variety.", "The city is situated at an elevation of approximately 1,100 meters.", "The surrounding area contains several natural medicinal springs.", "Shaydon is connected to Khujand via a scenic mountain highway.", "The distance to the Uzbekistan border is less than 15 kilometers.", "Traditional festivals like Navruz are celebrated here with particular vigor."],
+    },
+  },
   {
     id: "murghob-cities-v2",
     type: "city",
@@ -1129,7 +1281,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Very cold winters",
         "Barren landscape"
       ]
-    }, image: "/poi-images/murghob-cities-v2.webp"},
+    }, image: "/poi-images/murghob-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Murghob liegt auf einer Höhe von genau 3.612 Metern.", "Der Pamir Highway (M41) führt direkt durch das Stadtzentrum.", "Die Wintertemperaturen können unter minus 40 Grad Celsius fallen.", "Die Stadt hat den größten Basar im Ost-Pamir, oft in Schiffscontainern.", "Murghob ist etwa 400 Kilometer von Chorog entfernt.", "Der Name Murghob bedeutet auf Persisch 'Vogelwasser' oder 'Fluss der Vögel'."],
+      hu: ["Murgob pontosan 3612 méteres magasságban fekszik.", "A Pamír Highway (M41) közvetlenül a városközponton halad át.", "A téli hőmérséklet mínusz 40 Celsius-fok alá is süllyedhet.", "A városban található a Kelet-Pamír legnagyobb bazárja, gyakran konténerekben.", "Murgob körülbelül 400 kilométerre fekszik Horogtól.", "A Murgob név perzsául 'madárvizet' vagy 'madarak folyóját' jelenti."],
+      ro: ["Murghob este situat la o altitudine de exact 3.612 metri.", "Autostrada Pamir (M41) trece direct prin centrul orașului.", "Temperaturile de iarnă pot scădea sub minus 40 de grade Celsius.", "Orașul are cel mai mare bazar din Pamirul de Est, amenajat adesea în containere.", "Murghob se află la aproximativ 400 de kilometri de Horog.", "Numele Murghob înseamnă în persană „apa păsărilor” sau „râul păsărilor”."],
+      en: ["Murghob sits at an official elevation of 3,612 meters above sea level.", "The Pamir Highway (M41) runs directly through the center of town.", "Winter temperatures here can plummet below minus 40 degrees Celsius.", "The city hosts the largest bazaar in the Eastern Pamir, largely housed in shipping containers.", "Murghob is located approximately 400 kilometers from Khorog.", "The name Murghob means 'Bird Water' or 'River of Birds' in Persian."],
+    },
+  },
   {
     id: "ayni-cities-v2",
     type: "city",
@@ -1178,7 +1337,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Roads to the north",
         "Named after an author"
       ]
-    }, image: "/poi-images/ayni-cities-v2.webp"},
+    }, image: "/poi-images/ayni-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Ayni liegt auf einer Höhe von etwa 1.430 Metern über dem Meeresspiegel.", "In der Nähe befindet sich die bedeutende Kohlemiene Fan-Yagnob.", "Ein Denkmal im Stadtzentrum ehrt den Namensgeber Sadriddin Ayni.", "Die Stadt ist ein Ausgangspunkt für Wanderungen zum Iskanderkul-See.", "Die Entfernung zur Hauptstadt Duschanbe beträgt etwa 140 Kilometer.", "Die Region ist bekannt für ihre traditionellen hölzernen Bewässerungskanäle."],
+      hu: ["Ajni körülbelül 1430 méteres tengerszint feletti magasságban fekszik.", "A közelben található a jelentős Fan-Jagnob szénbánya.", "A városközpontban egy emlékmű tisztelget a névadó Szadriddin Ajni előtt.", "A város az Iszkanderkul-tóhoz induló túrák egyik kiindulópontja.", "A távolság a fővárostól, Dusanbétől körülbelül 140 kilométer.", "A régió híres a hagyományos fából készült öntözőcsatornáiról."],
+      ro: ["Ayni se află la o altitudine de aproximativ 1.430 de metri peste nivelul mării.", "În apropiere se află importanta mină de cărbune Fan-Yagnob.", "Un monument din centrul orașului îl onorează pe cel al cărui nume îl poartă, Sadriddin Ayni.", "Orașul este un punct de plecare pentru drumeții către lacul Iskanderkul.", "Distanța până la capitala Dușanbe este de aproximativ 140 de kilometri.", "Regiunea este cunoscută pentru canalele sale tradiționale de irigații din lemn."],
+      en: ["Ayni is situated at an elevation of approximately 1,430 meters above sea level.", "The significant Fan-Yagnob coal mine is located in the vicinity.", "A prominent monument in the city center honors the namesake poet Sadriddin Ayni.", "The town serves as a common starting point for treks to Lake Iskanderkul.", "The distance to the national capital, Dushanbe, is roughly 140 kilometers.", "The region is noted for its preservation of traditional wooden irrigation systems."],
+    },
+  },
   {
     id: "gharm-cities-v2",
     type: "city",
@@ -1227,7 +1393,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "High mountains",
         "Agriculture"
       ]
-    }, image: "/poi-images/gharm-cities-v2.webp"},
+    }, image: "/poi-images/gharm-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gharm war in den 1920er Jahren ein Zentrum des Basmatschi-Widerstands.", "Die Stadt liegt auf einer Höhe von etwa 1.350 Metern.", "Das Rascht-Tal ist bekannt für die besten Kartoffeln Tadschikistans.", "Die Entfernung zur Hauptstadt Duschanbe beträgt etwa 185 Kilometer.", "Ein schweres Erdbeben zerstörte 1949 große Teile der alten Siedlung.", "Die Stadt beherbergt ein kleines Regionalmuseum für Geschichte."],
+      hu: ["Garm az 1920-as években a Baszmacsi-ellenállás egyik központja volt.", "A város körülbelül 1350 méteres tengerszint feletti magasságban fekszik.", "A Rast-völgy Tádzsikisztán legjobb burgonyájáról híres.", "A távolság a fővárostól, Dusanbétől körülbelül 185 kilométer.", "1949-ben egy súlyos földrengés elpusztította a régi település nagy részét.", "A városban egy kis regionális történelmi múzeum működik."],
+      ro: ["Gharm a fost un centru al rezistenței Basmaci în anii 1920.", "Orașul este situat la o altitudine de aproximativ 1.350 de metri.", "Valea Rașt este cunoscută pentru cei mai buni cartofi din Tadjikistan.", "Distanța până la capitala Dușanbe este de aproximativ 185 de kilometri.", "Un cutremur puternic a distrus mari părți din vechea așezare în 1949.", "Orașul găzduiește un mic muzeu regional de istorie."],
+      en: ["Gharm was a major center for the Basmachi resistance during the 1920s.", "The city is situated at an elevation of approximately 1,350 meters.", "The Rasht Valley is famously known for producing Tajikistan's best potatoes.", "The distance to the capital, Dushanbe, is about 185 kilometers.", "A devastating earthquake in 1949 destroyed much of the original settlement.", "The town features a small regional museum dedicated to local history."],
+    },
+  },
   {
     id: "qabodiyon-cities-v2",
     type: "city",
@@ -1276,7 +1449,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "In the south",
         "Rich history"
       ]
-    }, image: "/poi-images/qabodiyon-cities-v2.webp"},
+    }, image: "/poi-images/qabodiyon-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Nasir Khusraw wurde hier im Jahr 1004 n. Chr. geboren.", "In der Nähe liegt Takhti Sangin, wo der berühmte Oxus-Schatz gefunden wurde.", "Die Stadt liegt weniger als 60 Kilometer von der afghanischen Grenze entfernt.", "Qabodiyon war früher unter dem Namen Mikojanabad bekannt.", "Die Region ist bekannt für ihre qualitativ hochwertigen Granatäpfel.", "Die antike Stadt Qabodiyon lag an einem wichtigen Zweig der Seidenstraße."],
+      hu: ["Naszir Huszrav itt született i. sz. 1004-ben.", "A közelben található Tahti Szangin, ahol a híres Oxus-kincset megtalálták.", "A város kevesebb mint 60 kilométerre fekszik az afgán határtól.", "Kabodijon korábban Mikojanabad néven volt ismert.", "A régió kiváló minőségű gránátalmájáról híres.", "Az ókori Kabodijon a Selyemút egyik fontos ága mentén feküdt."],
+      ro: ["Nasir Khusraw s-a născut aici în anul 1004 d.Hr.", "În apropiere se află Takhti Sangin, unde a fost găsit celebrul tezaur Oxus.", "Orașul se află la mai puțin de 60 de kilometri de granița cu Afganistanul.", "Qabodiyon a fost cunoscut anterior sub numele de Mikoyanabad.", "Regiunea este renumită pentru rodiile sale de înaltă calitate.", "Orașul antic Qabodiyon era situat pe o ramură importantă a Drumului Mătăsii."],
+      en: ["Nasir Khusraw was born here in the year 1004 AD.", "The site of Takhti Sangin, where the famous Oxus Treasure was found, is nearby.", "The city is located less than 60 kilometers from the border with Afghanistan.", "Qabodiyon was previously known by the name Mikoyanabad.", "The region is highly regarded for its premium pomegranate production.", "Ancient Qabodiyon was positioned along a major branch of the Silk Road."],
+    },
+  },
   {
     id: "levakant-cities-v2",
     type: "city",
@@ -1325,7 +1505,13 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "On the Vakhsh",
         "Industrial importance"
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Levakant trug bis Januar 2018 den offiziellen Namen Sarband.", "Die Stadt liegt etwa 120 Kilometer südlich der Hauptstadt Duschanbe.", "Das Golovnaja-Wasserkraftwerk besitzt eine Kapazität von 240 Megawatt.", "In der Stadt befindet sich die einzige Stickstofffabrik Tadschikistans.", "Der Ort wurde 1956 offiziell zur Stadt erhoben.", "Das Umland wird durch das Kanalsystem des Vakhsh-Flusses bewässert."],
+      hu: ["Levakant városát 2018 januárjában nevezték át Sarbandról a jelenlegi nevére.", "A település mintegy 120 kilométerre délre fekszik Dusanbe fővárostól.", "A Golovnaja vízerőmű beépített teljesítménye eléri a 240 megawattot.", "Itt működik az ország egyetlen jelentős nitrogénműtrágya-gyára.", "Levakant 1956-ban kapott városi rangot a szovjet közigazgatásban.", "A város környéki mezőgazdaság a Vahs-folyó öntözőhálózatára épül."],
+      ro: ["Orașul Levakant a fost redenumit din Sarband în ianuarie 2018.", "Se află la o distanță de aproximativ 120 de kilometri sud de capitala Dușanbe.", "Hidrocentrala Golovnaya de pe râul Vakhsh are o capacitate de 240 MW.", "Orașul găzduiește singura fabrică de îngrășăminte pe bază de azot din țară.", "Levakant a primit statutul oficial de oraș în anul 1956.", "Rețeaua de irigații locală este vitală pentru culturile de bumbac din regiune."],
+      en: ["Levakant was officially renamed from Sarband in January 2018.", "The city is located approximately 120 kilometers south of Dushanbe.", "The Golovnaya hydropower plant has an installed capacity of 240 MW.", "It hosts Tajikistan's only major nitrogen fertilizer manufacturing facility.", "The settlement was granted city status by the Soviet government in 1956.", "Surrounding agriculture relies heavily on the Vakhsh River irrigation network."],
+    },
   },
   {
     id: "roghun-cities-v2",
@@ -1375,7 +1561,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Mountainous landscape",
         "On the Vakhsh"
       ]
-    }, image: "/poi-images/roghun-cities-v2.webp"},
+    }, image: "/poi-images/roghun-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Der Roghun-Staudamm soll nach Fertigstellung eine Höhe von 335 Metern erreichen.", "Die Stadt wurde in den 1950er Jahren im Zuge der ersten Planungen gegründet.", "Das Wasserkraftwerk wird eine geplante Kapazität von 3.600 Megawatt haben.", "Roghun liegt am Oberlauf des Vakhsh-Flusses im Pamir-Gebirge.", "Der Bau wurde 1976 begonnen und nach dem Zerfall der Sowjetunion unterbrochen.", "Seit 2016 wird unter Beteiligung internationaler Firmen intensiv weitergebaut."],
+      hu: ["A Roguni-gát tervezett magassága 335 méter, amivel világelső lesz.", "A települést az 1950-es években alapították a gátépítési tervekhez kapcsolódóan.", "A vízerőmű tervezett összteljesítménye eléri a 3600 megawattot.", "Rogun a Vahs folyó felső szakaszán, a Pamír-hegység lábánál fekszik.", "Az építkezés 1976-ban kezdődött, de a Szovjetunió felbomlásakor leállt.", "A munkálatok 2016-ban kaptak új lendületet nemzetközi együttműködéssel."],
+      ro: ["Barajul Roghun este proiectat să aibă o înălțime record de 335 de metri.", "Localitatea a fost fondată în anii 1950 pentru a deservi șantierul barajului.", "Hidrocentrala va avea o capacitate instalată totală de 3.600 MW.", "Orașul se află pe cursul superior al râului Vakhsh, într-o zonă montană înaltă.", "Construcția a demarat în 1976, fiind ulterior suspendată timp de decenii.", "Reluarea masivă a lucrărilor a avut loc în anul 2016 sub egida guvernului."],
+      en: ["The Roghun Dam is designed to reach a record-breaking height of 335 meters.", "The town was established in the 1950s to support dam construction efforts.", "The hydropower plant's planned capacity is 3,600 megawatts.", "Roghun is located on the upper reaches of the Vakhsh River in the mountains.", "Construction originally began in 1976 but was halted after the Soviet collapse.", "Major construction work resumed in 2016 with significant state investment."],
+    },
+  },
   {
     id: "hamadoni-cities-v2",
     type: "city",
@@ -1424,7 +1617,14 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Outpost",
         "Fertile land"
       ]
-    }, image: "/poi-images/hamadoni-cities-v2.webp"},
+    }, image: "/poi-images/hamadoni-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadt liegt etwa 180 Kilometer südöstlich der Landeshauptstadt Duschanbe.", "Hamadoni hieß früher Moskovskiy, bevor sie zu Ehren des Gelehrten umbenannt wurde.", "Der Fluss Pandsch führt in dieser Region oft zu saisonalen Überschwemmungen.", "Die Durchschnittstemperatur im Sommer übersteigt häufig 35 Grad Celsius.", "Hamadoni ist der Verwaltungssitz des gleichnamigen Distrikts (Nohiya).", "Die Grenze zu Afghanistan wird hier durch den Grenzfluss Pandsch markiert."],
+      hu: ["A város körülbelül 180 kilométerre délkeletre fekszik Dusanbe fővárostól.", "A település korábbi neve Moszkovszkij volt az átnevezés előtt.", "A Pandzs folyó ezen a területen gyakran okoz szezonális áradásokat.", "A nyári átlaghőmérséklet Hamadoniban gyakran meghaladja a 35 Celsius-fokot.", "Hamadoni az azonos nevű járás (nohiya) közigazgatási központja.", "Az afgán határ mentén fekvő város fontos biztonsági ellenőrző pont."],
+      ro: ["Orașul se află la aproximativ 180 km sud-est de capitala tadjică Dușanbe.", "În perioada sovietică, localitatea a purtat numele de Moskovskiy.", "Râul Panj cauzează frecvent inundații sezoniere în câmpiile din jur.", "Temperaturile medii în timpul verii depășesc adesea pragul de 35 de grade Celsius.", "Hamadoni este sediul administrativ al districtului cu același nume.", "Proximitatea de Afganistan impune o prezență militară constantă în zonă."],
+      en: ["The city is situated about 180 kilometers southeast of the capital, Dushanbe.", "Hamadoni was previously known as Moskovskiy during the Soviet era.", "The Panj River frequently causes seasonal flooding in the nearby plains.", "Average summer temperatures in Hamadoni often exceed 35 degrees Celsius.", "Hamadoni serves as the administrative seat of the Hamadoni District.", "The town is a key location for monitoring the 1,200 km border with Afghanistan."],
+    },
+  },
   {
     id: "ishkoshim-cities-v2",
     type: "city",
@@ -1473,6 +1673,12 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
         "Mountain view",
         "On the Panj"
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Ishkoshim liegt auf einer Seehöhe von circa 2.500 Metern im Pamir.", "Der wöchentliche Grenzmarkt findet meist samstags auf einer Flussinsel statt.", "Die Stadt ist das Verwaltungszentrum des Distrikts Ishkoshim.", "Die Entfernung zur Regionalhauptstadt Chorugh beträgt etwa 105 Kilometer.", "Nahe der Stadt befinden sich die heißen Quellen von Garm-Chashma.", "Die Festung Khaakha ist eine der ältesten Verteidigungsanlagen im Wakhan-Tal."],
+      hu: ["Iskosim körülbelül 2500 méter magasan fekszik a Pamír-hegységben.", "A heti határmenti piacot általában szombatonként tartják egy folyami szigeten.", "A város az Iskosim járás (nohiya) közigazgatási központja.", "A regionális központ, Horog városa mintegy 105 kilométerre található.", "A város közelében fekszenek a híres Garm-Csasma termálforrások.", "A Khaakha-erőd a Vahán-völgy egyik legrégebbi védelmi építménye."],
+      ro: ["Ishkoshim este situat la o altitudine de circa 2.500 de metri în munții Pamir.", "Piața transfrontalieră se desfășoară de regulă sâmbăta pe o insulă neutră.", "Localitatea servește drept centru administrativ al districtului Ishkoshim.", "Distanța rutieră până la capitala regională Khorog este de circa 105 km.", "Izvoarele termale Garm-Chashma se află la o scurtă distanță de oraș.", "Cetatea Khaakha datează din perioada Kushan, acum mai bine de 2000 de ani."],
+      en: ["Ishkoshim sits at an elevation of approximately 2,500 meters in the Pamirs.", "The weekly cross-border market usually takes place on Saturdays on a river island.", "The town is the administrative seat of the Ishkoshim District.", "The distance to the regional capital, Khorog, is about 105 kilometers.", "The famous Garm-Chashma hot springs are located near the town.", "Khaakha Fortress is one of the oldest defensive structures in the Wakhan Valley."],
+    },
   }
 ];

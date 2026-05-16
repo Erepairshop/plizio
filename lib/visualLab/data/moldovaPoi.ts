@@ -9,35 +9,16 @@ export const moldovaPoi: POI[] = [
     name: { de: "Höhle der Überraschungen", hu: "Meglepetések barlangja", ro: "Peștera Surprizelor", en: "Cave of Surprises" },
     description: { de: "Die zweitgrößte Höhle Moldaus, gelegen im Dnister-Tal.", hu: "Moldova második legnagyobb barlangja a Dnyeszter-völgyben.", ro: "A doua cea mai mare peșteră din Moldova, situată în valea Nistrului.", en: "The second largest cave in Moldova, located in the Dniester valley." },
     descriptionAdvanced: {
-      de: "Die Höhle der Überraschungen ist ein faszinierendes und teils unerforschtes Karstsystem, tief verborgen in den steilen Felsen des Dnister-Tals bei Criuleni. Ihr Name leitet sich von der unvorhersehbaren Natur ihrer Galerien ab, die abrupt von engen Passagen in geräumige Hallen übergehen. Da sie über keinerlei touristische Infrastruktur wie Beleuchtung verfügt, bietet sie ein authentisches Erlebnis für erfahrene Höhlenforscher. Geographie K8 — Höhlenkunde und Ecotourismus.",
-      hu: "A 'Meglepetések barlangja' nehezen járható, de látványos tektonikus képződmény a folyóvölgy falában. Hasadékai földrengések hatására nyíltak meg az üledékes mészkőzetben. Elsősorban gyakorlott barlangászok látogatják szűk járatai miatt. Földrajz K8 — tektonikus lemezek.",
-      ro: "Peștera Surprizelor (Peștera Surprizelor) este un sistem de caverne carstice fascinant și parțial neexplorat, ascuns adânc în stâncile abrupte care străjuiesc valea Nistrului, în apropiere de Criuleni. Numele său provine din natura imprevizibilă a galeriilor sale, care includ pasaje extrem de înguste urmate brusc de săli spațioase. Deoarece nu este amenajată cu infrastructură turistică de masă, peștera oferă o experiență autentică și plină de adrenalină, destinată în special speologilor și turiștilor de aventură experimentați. Geografie clasa a 7-a — speologie și ecoturism.",
-      en: "The Cave of Surprises is a complex karst system hidden deep within the Dniester River valley near Criuleni. Its name stems from its unpredictable layout, where narrow passages unexpectedly open into vast, vaulted halls. Without artificial lighting or established tourist trails, the cave provides a rugged, authentic challenge for experienced speleologists exploring the region's unique geology. Geography K8 — karst topography and cave ecosystems."
+      de: "Die Höhle der Überraschungen (Peștera Surprizelor) liegt im Distrikt Criuleni nahe dem Dorf Zolonceni am Ufer des Dnister und ist die zweitlängste Höhle Moldaus. Entdeckt wurde das unterirdische Labyrinth erst im Jahr 1970 von Speläologen, die auf ein komplexes System von Gängen in tortonischen Kalksteinschichten stießen. Mit einer Gesamtlänge von etwa 1700 Metern bietet die Höhle eine faszinierende geologische Struktur mit mehreren Ebenen, vertikalen Schächten und geräumigen Hallen wie dem Kinosaal oder der Großen Halle. Die Formation der Höhle begann vor etwa 13 Millionen Jahren durch tektonische Bewegungen und Erosion im Kalksteinplateau. Im Inneren herrscht eine konstante Temperatur von 12 bis 14 Grad Celsius bei sehr hoher Luftfeuchtigkeit. Die Höhle ist nicht für den Massentourismus erschlossen und erfordert für eine Begehung fachkundige Führung sowie entsprechende Ausrüstung, da viele Passagen sehr eng sind und Kletterpassagen beinhalten.",
+      hu: "A Meglepetések barlangja (Peștera Surprizelor) Moldova második leghosszabb barlangrendszere, amely a Dnyeszter folyó partján, a Criuleni járásban, Zolonceni falu közelében található. A barlangot viszonylag későn, 1970-ben fedezték fel szpeleológusok, akik egy bonyolult, többszintes labirintusra bukkantak a szarmata mészkőrétegekben. A járatok teljes hossza eléri az 1700 métert, és olyan különleges helyszíneket foglal magában, mint a Mozi-terem vagy a Nagy-terem. A barlang kialakulása mintegy 13 millió évvel ezelőtt kezdődött tektonikus mozgások és a karsztosodási folyamatok hatására. A belső hőmérséklet egész évben állandó, 12-14 Celsius-fok körüli, a páratartalom pedig rendkívül magas. Mivel a barlang nincs kivilágítva és nincsenek benne kiépített utak, látogatása csak tapasztalt vezetőkkel és megfelelő felszereléssel ajánlott, ami igazi kalandot jelent a barlangászat kedvelőinek.",
+      ro: "Peștera Surprizelor este a doua ca mărime din Republica Moldova, fiind situată în raionul Criuleni, pe malul drept al fluviului Nistru, în apropiere de satul Zolonceni. Descoperită în anul 1970 de către speologi amatori, peștera s-a format în depozite de calcar sarmațian prin procese tectonice și de coroziune. Labirintul subteran se întinde pe o lungime totală de aproximativ 1700 de metri și este dispus pe mai multe niveluri, prezentând numeroase galerii, puțuri și săli spațioase, precum Sala Cinematografului sau Sala Mare. Geneza peșterii este estimată la circa 13 milioane de ani în urmă, oferind cercetătorilor date prețioase despre evoluția geologică a regiunii. Temperatura internă rămâne constantă între 12 și 14 grade Celsius pe tot parcursul anului. Deși nu este amenajată turistic cu iluminat sau trasee securizate, peștera atrage numeroși pasionați de speologie care acceptă provocarea galeriilor strâmte și a parcursurilor tehnice.",
+      en: "The Cave of Surprises (Peștera Surprizelor) is the second-longest cave system in Moldova, located in the Criuleni District along the scenic banks of the Dniester River. Discovered in 1970 by a group of speleologists, this underground labyrinth is carved into Tortonian limestone and stretches for approximately 1,700 meters. The cave features a complex multi-level structure with vertical shafts, narrow fissures, and large chambers such as the Cinema Room and the Great Hall. Its formation began roughly 13 million years ago due to tectonic shifts and the erosive action of groundwater on the limestone plateau. Inside, the environment is characterized by a constant temperature of 12-14°C and high humidity levels throughout the year. Because it remains in its natural state without artificial lighting or walkways, exploring the cave requires specialized gear and experienced guides, making it a premier destination for adventurous cavers and geological researchers.",
     },
     factsAdvanced: {
-      de: [
-        "Die Höhle ist über 1.700 Meter lang und eine der bedeutendsten natürlichen Strukturen des Landes.",
-        "Sie entstand nicht durch Wassererosion, sondern durch tektonische Risse bei Erdbeben.",
-        "Die Luftfeuchtigkeit in der Höhle liegt konstant nahe 100 Prozent.",
-        "Sie wurde erst in den 1970er Jahren von Amateur-Höhlenforschern entdeckt."
-      ],
-      hu: [
-        "A barlangrendszer hossza meghaladja az 1700 métert.",
-        "Teljesen természetes, folyóvízi erózió nélküli, földrengések nyitotta repedések alkotják.",
-        "A barlang mélyén a levegő páratartalma mindig közel 100 százalékos."
-      ],
-      ro: [
-        "Este a doua cea mai lungă peșteră din Republica Moldova, cu o rețea de galerii de peste 1.700 m.",
-        "Peștera a fost descoperită abia în anii '70 de un grup de speologi amatori.",
-        "Găzduiește colonii importante de lilieci pe perioada hibernării hibernale.",
-        "Navigarea prin peșteră necesită echipament special, deoarece unele pasaje impun târârea pe coate."
-      ],
-      en: [
-        "At over 1,700 meters long, it is one of the most significant natural cave systems in Moldova.",
-        "Unlike many caves formed by water, this system was created by tectonic fractures caused by seismic activity.",
-        "The cave serves as a vital wintering habitat for several protected species of bats.",
-        "Navigating the cave requires specialized equipment and physical agility due to extremely narrow sections."
-      ]
+      de: ["Entdeckt im Jahr 1970", "Zweitlängste Höhle in Moldau", "Gesamtlänge: ca. 1700 Meter", "Konstante Temperatur: 12-14°C", "Tiefster Punkt liegt bei 37 Metern", "Befindet sich im Criuleni-Distrikt"],
+      hu: ["1970-ben fedezték fel", "Moldova második leghosszabb barlangja", "Teljes hossza kb. 1700 méter", "Állandó hőmérséklet: 12-14°C", "Legmélyebb pontja 37 méter", "A Criuleni járásban található"],
+      ro: ["Descoperită în anul 1970", "A doua cea mai lungă peșteră din Moldova", "Lungime totală: aproximativ 1700 metri", "Temperatură constantă: 12-14°C", "Adâncimea maximă: 37 metri", "Situată în raionul Criuleni"],
+      en: ["Discovered in the year 1970", "Second longest cave in Moldova", "Total length: approx. 1,700 meters", "Constant temperature: 12-14°C", "Deepest point is 37 meters below ground", "Located in the Criuleni District"],
     }, image: "/poi-images/MD-026-surprise-cave.webp"},
   {
     id: "MD-027-straseni-city",
@@ -47,35 +28,16 @@ export const moldovaPoi: POI[] = [
     name: { de: "Strășeni", hu: "Strășeni", ro: "Strășeni", en: "Strășeni" },
     description: { de: "Ein Industriezentrum im Herzen des Codru-Waldes.", hu: "Ipari központ a Codru-erdő szívében.", ro: "Un centru industrial în inima pădurii Codru.", en: "An industrial center in the heart of the Codru forest." },
     descriptionAdvanced: {
-      de: "Strășeni entwickelt sich aufgrund seiner unmittelbaren Nähe zur Hauptstadt Chișinău rasch zu einem wichtigen Ballungszentrum. Gelegen inmitten bewaldeter Hügel, ist die Stadt vor allem für ihre florierende Holz- und Möbelindustrie bekannt, die die Ressourcen des Codru-Waldes nutzt. Auch die lokalen Weingüter haben einen ausgezeichneten Ruf und produzieren erstklassige Weißweine. Geographie K6 — Forstwirtschaft und Industrie.",
-      hu: "Strășeni Chișinău közelsége miatt gyorsan fejlődő agglomerációs központ. Az erdős dombok ölelésében fekvő város főleg fa- és bútoriparáról híres, kiaknázva a Codru erdeinek nyersanyagát. Borászatai is komoly hírnévnek örvendenek, kiváló fehéborokat állítanak elő. Földrajz K6 — erdőgazdálkodás.",
-      ro: "Așezat strategic în depresiunea centrală și înconjurat de pădurile falnice ale Codrilor, Strășeni este un nod industrial și viticol cheie, situat la câțiva kilometri vest de capitală. Strășeniul a fost mereu recunoscut pentru industria sa de prelucrare a lemnului și a mobilei, valorificând resursele imense ale pădurilor din vecinătate. În plus, pe colinele sale însorite se cultivă unele dintre cele mai renumite soiuri de struguri albi din Moldova. Peisajul urban reprezintă o fuziune între blocurile funcționale sovietice și casele tradiționale înconjurate de vii. Economie clasa a 8-a — industria lemnului și alimentară.",
-      en: "Located strategically near the capital, Strășeni has emerged as a key industrial and viticultural hub. Surrounded by the rolling Codru forest hills, the city has historically leveraged the region's vast timber resources to build a thriving furniture manufacturing industry. Beyond its industrial capacity, Strășeni is highly regarded for its local wineries, which benefit from the favorable climate of the surrounding hills to produce distinctive white wines. Geography K6 — industrial development and regional agriculture."
+      de: "Strășeni ist eine bedeutende Stadt im Zentrum Moldaus und dient als administratives Zentrum des gleichnamigen Distrikts. Die erste urkundliche Erwähnung der Siedlung datiert auf das Jahr 1545, was sie zu einem der historisch gewachsenen Orte der Region macht. Die Stadt liegt etwa 23 Kilometer nordwestlich der Hauptstadt Chișinău und ist eingebettet in die sanften Hügel des Codru-Waldes, dem größten Waldgebiet des Landes. Strășeni ist überregional bekannt für seine Weinbautradition und beherbergt mehrere Weingüter, die von den fruchtbaren Böden und dem günstigen Klima profitieren. Neben der Landwirtschaft spielt die Stadt eine wichtige Rolle als Verkehrsknotenpunkt an der Eisenbahnstrecke, die Chișinău mit dem Norden des Landes verbindet. In den letzten Jahren hat sich die Stadt modernisiert, wobei Parks und öffentliche Plätze renoviert wurden, um die Lebensqualität für die rund 18.000 Einwohner zu erhöhen und die lokale Identität zu stärken.",
+      hu: "Strășeni városa Moldova központi részén fekszik, és az azonos nevű járás közigazgatási központja. A települést először 1545-ben említik írásos források, így jelentős történelmi múlttal rendelkezik a régióban. A fővárostól, Chișinăutól mindössze 23 kilométerre északnyugatra található, a híres Codru-erdő szomszédságában, amely az ország legnagyobb összefüggő erdősége. A város gazdaságának gerincét a mezőgazdaság, különösen a szőlőtermesztés és a borászat adja, több neves borászat is működik a területén. Fontos vasúti csomópontként Strășeni stratégiai szerepet tölt be az ország északi és déli része közötti áruforgalomban. A mintegy 18 000 lakosú város az elmúlt években jelentős fejlődésen ment keresztül, megújultak közterei és oktatási intézményei, miközben megőrizte barátságos, zöld környezetét, amely vonzóvá teszi a természetközeli kikapcsolódást keresők számára.",
+      ro: "Strășeni este un oraș important din zona centrală a Republicii Moldova, exercitând rolul de centru administrativ al raionului Strășeni. Prima atestare documentară a localității datează din anul 1545, fiind strâns legată de istoria principatului Moldovei. Situat la doar 23 de kilometri de Chișinău, orașul beneficiază de proximitatea rezervației peisajistice „Codrii”, care îi conferă un cadru natural deosebit și un aer curat. Economia locală este dominată de sectorul vitivinicol, Strășeni fiind renumit pentru podgoriile sale și fabricile de vin care exportă produse de calitate în întreaga Europă. De asemenea, orașul este un nod feroviar vital, facilitând transportul de mărfuri și pasageri pe axa nord-sud a țării. Cu o populație de aproximativ 18.000 de locuitori, Strășeni se află într-un proces continuu de modernizare a infrastructurii urbane, punând accent pe dezvoltarea spațiilor verzi și a instituțiilor culturale locale.",
+      en: "Strășeni is a prominent city in central Moldova, serving as the administrative capital of the Strășeni District. First documented in 1545, the city has a long history intertwined with the regional development of the Bessarabian area. It is located just 23 kilometers northwest of Chișinău, nestled near the famous Codru forest, the largest woodland in the country. Strășeni is widely recognized for its viticulture, hosting several wineries that take advantage of the region's fertile soil and favorable climate. Beyond agriculture, the city serves as a key transportation hub, particularly for the national railway system connecting the capital to northern Moldova. With a population of about 18,000 residents, the city has seen significant urban renewal in recent years, focusing on upgrading public parks and infrastructure while maintaining its cultural heritage as a center for traditional Moldovan crafts and wine production.",
     },
     factsAdvanced: {
-      de: [
-        "Die Stadt gilt als eines der wichtigsten Zentren der moldauischen Möbelindustrie.",
-        "Der Name soll einer lokalen Legende nach vom Wort 'strajă' (Wache) abstammen.",
-        "Strășeni verfügt über eine effiziente Verkehrsanbindung an die Hauptstadt.",
-        "Der höchste Fernsehturm des Landes befindet sich in der Nähe der Stadt."
-      ],
-      hu: [
-        "A moldovai bútorgyártás egyik legfontosabb városa.",
-        "Nevét a 'strajă' (őr) szóból származtatják a helyi mondák.",
-        "Kiváló közúti és vasúti összeköttetésben van a fővárossal."
-      ],
-      ro: [
-        "În a doua jumătate a secolului XX, orașul găzduia una dintre cele mai mari fabrici de mobilă din URSS.",
-        "Numele orașului ar deriva de la expresia 'strașnic' (înfricoșător), referindu-se la pădurile dese din trecut.",
-        "Cel mai înalt turn de telecomunicații din țară este situat în apropriere de Strășeni.",
-        "Gara sa feroviară a fost crucială pentru exportul masiv de vinuri în perioada sovietică."
-      ],
-      en: [
-        "Strășeni served as a major manufacturing base during the Soviet era, particularly for furniture production.",
-        "The city's name is often linked to 'strajă', referring to historical guards stationed to protect the forested trade routes.",
-        "The proximity to Chișinău has transformed the city into an important residential and commuter hub for the capital.",
-        "Nearby telecommunication infrastructure includes the tallest transmission tower in the country."
-      ]
+      de: ["Erste Erwähnung im Jahr 1545", "Liegt 23 km von Chișinău entfernt", "Zentrum des Distrikts Strășeni", "Angrenzend an das Codru-Waldgebiet", "Einwohnerzahl: ca. 18.000", "Wichtiger Eisenbahnknotenpunkt"],
+      hu: ["1545-ben említették először", "23 km-re fekszik Chișinăutól", "Strășeni járás központja", "A Codru-erdő mellett található", "Lakossága kb. 18 000 fő", "Fontos vasúti csomópont"],
+      ro: ["Prima atestare în anul 1545", "Situat la 23 km de Chișinău", "Centrul administrativ al raionului Strășeni", "Aproape de masivul forestier Codrii", "Populație: aprox. 18.000 locuitori", "Nod feroviar important"],
+      en: ["First mentioned in 1545", "Located 23 km from Chișinău", "Administrative center of Strășeni District", "Adjacent to the Codru forest region", "Population: approx. 18,000", "Major railway junction"],
     }, image: "/poi-images/MD-027-straseni-city.webp"},
   {
     id: "MD-027-capriana-monastery",
@@ -85,35 +47,16 @@ export const moldovaPoi: POI[] = [
     name: { de: "Kloster Căpriana", hu: "Căpriana kolostor", ro: "Mănăstirea Căpriana", en: "Căpriana Monastery" },
     description: { de: "Eines der ältesten und bedeutendsten Klöster Moldaus.", hu: "Moldova egyik legrégebbi és legjelentősebb kolostora.", ro: "Una dintre cele mai vechi și mai importante mănăstiri din Moldova.", en: "One of the oldest and most important monasteries in Moldova." },
     descriptionAdvanced: {
-      de: "Das Kloster Căpriana ist ein zentraler Pfeiler des moldauischen Geisteslebens, gegründet im 15. Jahrhundert. Über Jahrhunderte fungierte es als Sommerresidenz des Metropoliten von Moldau. Die Wiederherstellung des Klosters nach den Zerstörungen der Sowjetzeit wurde durch eine nationale Kraftanstrengung realisiert. Geschichte K7 — orthodoxe Spiritualität.",
-      hu: "A Căpriana kolostor Moldova szellemi életének egyik legfőbb pillére, melyet még a 15. században alapítottak. Évszázadokon át a moldvai metropolita hivatalos nyári rezidenciájaként működött. A szovjet pusztítások utáni újjáépítése az egész nemzet összefogásával valósult meg. Történelem K7 — ortodoxia.",
-      ro: "Mănăstirea Căpriana reprezintă nucleul spiritualității ortodoxe moldovenești și este, probabil, cel mai vechi și cel mai venerat așezământ monahal din țară. Ascunsă în inima unei văi luxuriante din pădurile Codrilor, a servit secole la rând drept reședință pentru mitropoliții Moldovei și cronicari renumiți. Complexul arhitectural este uluitor, constând în trei biserici de piatră distincte, construite în epoci diferite, care documentează evoluția stilului religios moldovenesc. Liniștea copleșitoare și importanța sa istorică atrag permanent zeci de mii de pelerini. Istorie clasa a 7-a — cultura și spiritualitatea medievală.",
-      en: "Established in the 15th century, Căpriana Monastery is a primary site of Orthodox spirituality in Moldova. Nestled in the Codru forests, it long served as the summer residence of the Metropolitan of Moldova and was a center for chroniclers and scholars. The complex includes three distinct churches, representing various stages of religious architectural evolution in the region. Restored following the Soviet era, it remains a vital site for national heritage and pilgrimage. History K7 — medieval monasticism and spiritual tradition."
+      de: "Das Kloster Căpriana ist eines der ältesten und bedeutendsten Klöster Moldaus und gilt als Wiege der moldauischen Literatur und Kultur. Es liegt in einer malerischen Senke des Codru-Waldes im Distrikt Strășeni. Die erste schriftliche Erwähnung stammt aus dem Jahr 1429, wobei die Gründung Alexander dem Guten zugeschrieben wird. Im Laufe der Jahrhunderte genoss das Kloster den Schutz zahlreicher moldauischer Fürsten, darunter Stefan der Große, der die Mariä-Himmelfahrt-Kirche nach einem Sieg über die Tataren im Jahr 1470 neu errichten ließ. Der Klosterkomplex umfasst heute drei Kirchen: die mittelalterliche Mariä-Himmelfahrt-Kirche, die St.-Nikolaus-Kirche aus dem 19. Jahrhundert und die St.-Georgs-Kirche vom Anfang des 20. Jahrhunderts. Während der Sowjetzeit wurde das Kloster 1962 geschlossen und als Sanatorium zweckentfremdet, bevor es 1989 wiedereröffnet und aufwendig restauriert wurde. Es beherbergt zudem die Grabstätte des Metropoliten Gavriil Bănulescu-Bodoni, einer zentralen Figur der orthodoxen Kirche der Region.",
+      hu: "A Căpriana-kolostor Moldova egyik legrégebbi és legfontosabb ortodox hitéleti központja, amely a Strășeni járásban, a Codru-erdő egyik völgyében található. Az intézményt először 1429-ben említi egy oklevél, alapítójaként pedig Jó Sándor (Alexandru cel Bun) fejedelmet tisztelik. A kolostor virágkorát III. István (Ștefan cel Mare) uralkodása alatt élte, aki 1470-ben, egy győztes csata után újjáépíttette a Nagyboldogasszony-templomot. A komplexum három különböző stílusú templomot foglal magában, amelyek a 15., a 19. és a 20. század építészeti jegyeit viselik magukon. A szovjet időkben, 1962-ben a kolostort bezárták és szanatóriummá alakították, de 1989-ben az elsők között nyitotta meg újra kapuit a hívők előtt. Ma a kolostor nemcsak fontos zarándokhely, hanem az ország egyik legértékesebb műemléke is, ahol Gavriil Bănulescu-Bodoni metropolita sírja is található, akit 2016-ban avattak szentté.",
+      ro: "Mănăstirea Căpriana este unul dintre cele mai vechi și valoroase ansambluri monastice din Republica Moldova, situată în inima Codrilor, în raionul Strășeni. Prima mențiune documentară datează din anul 1429, în timpul domniei lui Alexandru cel Bun, mănăstirea devenind ulterior ctitorie domnească pentru mulți voievozi moldoveni. Ștefan cel Mare a reconstruit biserica „Adormirea Maicii Domnului” în anul 1470, după o victorie importantă, oferindu-i mănăstirii un statut privilegiat. Complexul actual cuprinde trei biserici: Biserica de iarnă „Adormirea Maicii Domnului”, Biserica „Sfântul Nicolae” (construită în 1840) și Biserica „Sfântul Gheorghe” (ridicată în 1903). Închisă forțat în 1962 și transformată în sanatoriu de către autoritățile sovietice, mănăstirea a fost redeschisă în 1989 și restaurată integral între 2003 și 2005. Aici se află mormântul Mitropolitului Gavriil Bănulescu-Bodoni, personalitate marcantă a culturii românești, canonizat recent de Biserica Ortodoxă.",
+      en: "Căpriana Monastery is one of the oldest and most significant monastic complexes in Moldova, located in a picturesque valley within the Codru forest of the Strășeni District. First mentioned in an official charter in 1429, its foundation is associated with Prince Alexander the Good. Throughout its history, the monastery was a cultural center and a favorite of Moldovan rulers, including Stephen the Great, who rebuilt the main Church of the Assumption in 1470 following a military victory. The site features three distinct churches: the medieval Church of the Assumption, the mid-19th-century St. Nicholas Church, and the early 20th-century St. George Church. Forced to close in 1962 during the Soviet era, the monastery served as a sanatorium before being returned to the church in 1989. Extensive restorations in the early 2000s returned the site to its former glory, and it now serves as a major pilgrimage site and home to the tomb of Metropolitan Gavriil Bănulescu-Bodoni.",
     },
     factsAdvanced: {
-      de: [
-        "Das Kloster wurde vom Herrscher Alexandru cel Bun im Jahr 1420 erstmals urkundlich erwähnt.",
-        "Der berühmte Herrscher Stefan der Große unterstützte das Kloster mit Spenden.",
-        "Eine Abbildung des Klosters findet sich auf der moldauischen 1-Leu-Banknote.",
-        "Die älteste erhaltene Steinkirche stammt aus dem frühen 16. Jahrhundert."
-      ],
-      hu: [
-        "Több uralkodó, köztük Nagy István is adományokkal támogatta.",
-        "A legrégebbi fennmaradt kőtemploma a 16. század elején épült.",
-        "Képe látható a moldovai 1 lejes bankjegyen."
-      ],
-      ro: [
-        "Prima mențiune documentară a mănăstirii datează din timpul domniei lui Alexandru cel Bun (1420).",
-        "În biserica veche a mănăstirii se află mormântul mitropolitului și cronicarului Gavriil Bănulescu-Bodoni.",
-        "A fost supusă unui proces masiv de restaurare națională la începutul anilor 2000.",
-        "A fost considerată un bastion al culturii, adăpostind cea mai mare bibliotecă mănăstirească veche din țară."
-      ],
-      en: [
-        "The monastery was first documented in 1420 during the reign of Alexandru cel Bun.",
-        "Historical benefactor Stephen the Great provided significant support for the expansion of the complex.",
-        "The site is memorialized on the national 1 leu banknote.",
-        "It houses the tomb of Metropolitan Gavriil Bănulescu-Bodoni, a key historical religious figure."
-      ]
+      de: ["Erste Erwähnung im Jahr 1429", "Gegründet von Alexander dem Guten", "Kirche 1470 von Stefan dem Großen erneuert", "Besteht aus drei verschiedenen Kirchen", "War von 1962 bis 1989 geschlossen", "Grabstätte von Gavriil Bănulescu-Bodoni"],
+      hu: ["1429-ben említették először", "Jó Sándor fejedelem alapította", "III. István 1470-ben építtette újjá", "Három templomból álló komplexum", "1962 és 1989 között zárva volt", "Gavriil Bănulescu-Bodoni nyughelye"],
+      ro: ["Prima mențiune documentară în 1429", "Fondată de domnitorul Alexandru cel Bun", "Biserica principală reconstruită în 1470", "Cuprinde trei biserici distincte", "Închisă între 1962 și 1989", "Găzduiește mormântul lui Gavriil Bănulescu-Bodoni"],
+      en: ["First mentioned in 1429", "Founded by Alexander the Good", "Stephen the Great rebuilt it in 1470", "Complex includes three different churches", "Closed from 1962 to 1989", "Tomb of Metropolitan Gavriil Bănulescu-Bodoni"],
     }, image: "/poi-images/MD-027-capriana-monastery.webp"},
   {
     id: "MD-028-anenii-noi-city",
@@ -123,35 +66,16 @@ export const moldovaPoi: POI[] = [
     name: { de: "Anenii Noi", hu: "Anenii Noi", ro: "Anenii Noi", en: "Anenii Noi" },
     description: { de: "Eine strategisch günstig gelegene Stadt östlich der Hauptstadt.", hu: "Stratégiai elhelyezkedésű város a fővárostól keletre.", ro: "Un oraș situat strategic la est de capitală.", en: "A strategically located city east of the capital." },
     descriptionAdvanced: {
-      de: "Anenii Noi fungiert als wichtiges logistisches Tor, das Chișinău mit Transnistrien und der Schwarzmeerküste verbindet. Die Industriestadt ist von riesigen Getreide- und Sonnenblumenfeldern umgeben. Die Bevölkerung ist vielfältig und umfasst russische, bulgarische und ukrainische Gemeinschaften. Geographie K5 — Transitrouten und Logistik.",
-      hu: "Anenii Noi az ország fontos logisztikai kapuja, amely összeköti Chișinăut Transznisztriával és a tengerparttal. Az ipari fókuszú kisvárost hatalmas gabonatáblák és napraforgómezők veszik körül. Lakossága rendkívül sokszínű, orosz, bolgár és ukrán közösségek is élnek itt. Földrajz K5 — tranzitútvonalak.",
-      ro: "Anenii Noi este un oraș vibrant, așezat strategic în apropierea văii râului Bîc, la sud-est de Chișinău. Datorită poziției sale de nod de transport care conectează capitala de sudul țării și de regiunea transnistreană, orașul a cunoscut o dezvoltare comercială accelerată. Localitatea se mândrește cu o diversitate etnică bogată, ceea ce a generat o atmosferă culturală tolerantă și variată. Sectorul agricol este dominant aici, susținut de prezența unor fabrici moderne de prelucrare a cărnii și a laptelui. Geografie clasa a 8-a — centre agro-industriale și rute de transport.",
-      en: "Anenii Noi serves as a critical logistics hub, bridging the capital, Chișinău, with the Transnistrian region and routes toward the Black Sea. The city is set within a productive agricultural landscape defined by vast sunflower and grain fields. It is known for its multi-ethnic demographic, including significant Russian, Bulgarian, and Ukrainian communities, contributing to a diverse local culture. Geography K5 — regional transit hubs and logistics."
+      de: "Anenii Noi ist eine aufstrebende Stadt im Südosten Moldaus und dient als Verwaltungszentrum des gleichnamigen Distrikts. Die Stadt liegt strategisch günstig etwa 36 Kilometer von der Hauptstadt Chișinău entfernt, unweit des Flusses Dnister. Erstmals urkundlich erwähnt wurde die Siedlung im Jahr 1731 unter dem Namen Pașcani pe Bîc. Die Region zeichnet sich durch eine multiethnische Bevölkerung aus, was sich in der lokalen Kultur und Sprache widerspiegelt. Wirtschaftlich ist Anenii Noi stark von der Landwirtschaft und der Lebensmittelverarbeitung geprägt, wobei die umliegenden fruchtbaren Ebenen ideal für den Getreide- und Gemüseanbau sind. In der Nähe der Stadt befindet sich das Naturschutzgebiet Hîrbovăț, das für seine Eichenwälder bekannt ist. Die Stadt verfügt über eine gute Anbindung an das nationale Straßennetz und dient als wichtiger lokaler Marktort für die umliegenden Dörfer, was sie zu einem vitalen Zentrum im zentralen Osten des Landes macht.",
+      hu: "Anenii Noi Moldova délkeleti részén található város, az azonos nevű járás székhelye. A település stratégiai helyen, Chișinăutól mintegy 36 kilométerre fekszik, a Bîc folyó völgyében, nem messze a Dnyeszter partjától. Első írásos említése 1731-ből származik, akkoriban Pașcani néven ismerték. A város lakossága kulturálisan sokszínű, moldávok, ukránok és oroszok élnek itt békés egyetértésben. Gazdasági életét meghatározza a fejlett mezőgazdaság és az élelmiszeripar, a környék gazdag termőföldjei kiváló minőségű zöldség- és gyümölcstermesztést tesznek lehetővé. A természetkedvelők számára vonzó közeli célpont a Hîrbovăț tájvédelmi körzet, amely ritka tölgyeseiről és gazdag növényvilágáról nevezetes. Anenii Noi fontos közlekedési csomópont is, amely összeköti a fővárost az ország délkeleti régióival és az ukrán határral, elősegítve a helyi kereskedelem fejlődését.",
+      ro: "Anenii Noi este un oraș situat în partea de sud-est a Republicii Moldova, fiind reședința raionului cu același nume. Localitatea a fost menționată documentar pentru prima dată în anul 1731 sub denumirea de Pașcani pe Bîc, evoluând ulterior într-un centru urban modern. Orașul se află la o distanță de aproximativ 36 de kilometri de capitala Chișinău, fiind un punct de tranzit important pe traseul spre Tighina și spre granița cu Ucraina. Comunitatea din Anenii Noi este cunoscută pentru diversitatea sa etnică, reunind moldoveni, ucraineni și ruși, ceea ce contribuie la un patrimoniu cultural bogat. Economia orașului se bazează pe agricultură, prelucrarea produselor alimentare și servicii comerciale. În vecinătatea orașului se află rezervația peisajistică Hîrbovăț, o arie protejată valoroasă pentru biodiversitatea sa forestieră. Modernizarea infrastructurii și dezvoltarea sectorului de afaceri local transformă treptat Anenii Noi într-un motor economic regional în continuă creștere.",
+      en: "Anenii Noi is a growing city in southeastern Moldova, serving as the administrative center of the Anenii Noi District. Strategically located 36 kilometers from the capital, Chișinău, it lies near the Bîc River and is not far from the Dniester River's western bank. The settlement was first recorded in historical documents in 1731 as Pașcani pe Bîc. Today, the city is known for its multi-ethnic population, which has created a diverse local culture. The economy of Anenii Noi is primarily driven by agriculture and food processing, benefiting from the extremely fertile black soil of the surrounding plains. Nearby, the Hîrbovăț Forest Reserve offers a sanctuary for local flora and fauna, including rare oak species. As a key transit point between Chișinău and the southeastern regions, Anenii Noi serves as an important commercial and logistics hub, hosting weekly markets and supporting a variety of small and medium-sized enterprises.",
     },
     factsAdvanced: {
-      de: [
-        "Die wichtigsten südlichen und östlichen Transportkorridore kreuzen sich hier.",
-        "Die lokale Nahrungsmittelverarbeitung und Dosenindustrie ist wirtschaftlich bedeutend.",
-        "Große und hochproduktive Sand- und Kiesgruben prägen die Umgebung.",
-        "Der zentrale Park ist für seine Statuen im sozialistischen Realismus bekannt."
-      ],
-      hu: [
-        "Itt találkoznak a déli és a keleti fő közlekedési folyosók.",
-        "Jelentős az élelmiszer- és konzervipara.",
-        "Határában nagy kiterjedésű homok- és kavicsbányák működnek."
-      ],
-      ro: [
-        "Numele orașului semnifică 'Satul Nou al Anei' (Haneni), provenind de la vechii proprietari de hanuri.",
-        "În timpul epocii sovietice, orașul a primit un influx mare de populație rusă și ucraineană.",
-        "Industria extractivă locală profită de zăcămintele mari de nisip și pietriș din apropiere.",
-        "Parcul central al orașului este renumit pentru statuile sale impunătoare în stil realist-socialist."
-      ],
-      en: [
-        "The intersection of major southern and eastern transport routes has made it a vital commercial center.",
-        "Regional food production and processing plants are major contributors to the local economy.",
-        "Local industry includes large-scale extraction of high-quality sand and gravel from nearby quarries.",
-        "Socialist realist architecture, including statues in the central park, reflects the city's Soviet-era development."
-      ]
+      de: ["Erste Erwähnung im Jahr 1731", "Liegt 36 km südöstlich von Chișinău", "Verwaltungssitz des Distrikts Anenii Noi", "Früherer Name: Pașcani pe Bîc", "Bevölkerung ist multiethnisch geprägt", "In der Nähe liegt das Hîrbovăț-Reservat"],
+      hu: ["1731-ben említették először", "36 km-re fekszik Chișinăutól délkeletre", "Anenii Noi járás székhelye", "Korábbi neve Pașcani pe Bîc volt", "Sokszínű, multietnikus lakosság", "A Hîrbovăț tájvédelmi körzet közelében van"],
+      ro: ["Prima atestare documentară în 1731", "Situat la 36 km de Chișinău", "Centrul administrativ al raionului Anenii Noi", "Denumirea veche: Pașcani pe Bîc", "Populație diversă din punct de vedere etnic", "Aproape de rezervația Hîrbovăț"],
+      en: ["First documented in 1731", "Located 36 km southeast of Chișinău", "Capital of Anenii Noi District", "Historical name: Pașcani pe Bîc", "Home to a diverse multi-ethnic community", "Near the Hîrbovăț Nature Reserve"],
     }, image: "/poi-images/MD-028-anenii-noi-city.webp"},
   {
     id: "MD-028-serpeni-bridgehead",
@@ -161,35 +85,16 @@ export const moldovaPoi: POI[] = [
     name: { de: "Gedenkstätte Șerpeni", hu: "Șerpeni emlékmű", ro: "Complexul Memorial Capul de Pod Șerpeni", en: "Șerpeni Bridgehead Memorial" },
     description: { de: "Ein bedeutendes Denkmal zur Erinnerung an die Schlachten des Zweiten Weltkriegs.", hu: "Jelentős emlékmű a második világháborús csaták emlékére.", ro: "Un monument important în memoria bătăliilor din Al Doilea Război Mondial.", en: "A significant memorial commemorating the battles of World War II." },
     descriptionAdvanced: {
-      de: "Die Gedenkstätte Șerpeni erinnert an eine der blutigsten Schlachten des Zweiten Weltkriegs in der Region. 1944 durchbrach die Sowjetarmee hier unter hohen Verlusten die deutsch-rumänischen Verteidigungslinien. Die ewige Flamme und die monumentalen Granitsäulen über dem Dnister zeugen von den hohen Kosten der Kriege. Geschichte K8 — Zweiter Weltkrieg.",
-      hu: "A Șerpeni hídfőállás a II. világháború egyik legvéresebb helyi összecsapásának állít monumentális emléket. A szovjet hadsereg 1944-ben itt törte át a német-román vonalakat, hatalmas áldozatok árán. Az örökláng és a gránit oszlopok komor méltósággal magasodnak a Dnyeszter felett. Történelem K8 — második világháború.",
-      ro: "Complexul Memorial Capul de Pod Șerpeni este unul dintre cele mai emoționante și grandioase monumente militare din Europa de Est, ridicat deasupra malurilor abrupte ale Nistrului. Monumentul imortalizează bătăliile sângeroase din vara anului 1944, când mii de soldați și-au pierdut viața într-o operațiune strategică de traversare a fluviului. Ansamblul impresionează printr-un altar central, o flacără eternă și o clopotniță masivă a cărei bătaie răsună peste valea Nistrului. Este un loc solemn de reflecție asupra costului devastator al războaielor mondiale. Istorie clasa a 8-a — Al Doilea Război Mondial.",
-      en: "The Șerpeni Bridgehead Memorial stands as a somber tribute to the intense and costly military engagements that took place during the 1944 Dniester River crossings in World War II. The complex features a central altar, an eternal flame, and massive granite pillars that overlook the river valley, symbolizing the high human cost of the conflict. It serves as a national site for reflection on the war's impact in Moldova. History K8 — Second World War battles and memorials."
+      de: "Die Gedenkstätte Brückenkopf von Șerpeni ist eines der bedeutendsten Denkmäler des Zweiten Weltkriegs in Moldau. Sie erinnert an die blutigen Kämpfe im Jahr 1944 während der Operation Jassy-Kischinew, bei denen schätzungsweise über 11.000 sowjetische Soldaten beim Überqueren des Dnister ums Leben kamen. Die Anlage wurde im Jahr 2004 zum 60. Jahrestag der Befreiung Moldaus eingeweiht und befindet sich auf einem hohen Ufer des Dnister, etwa 50 Kilometer östlich von Chișinău. Der monumentale Komplex besteht aus einem zentralen Altar mit einer ewigen Flamme, einem 15 Meter hohen Glockenturm und einer Marmorwand, auf der die Namen der Gefallenen eingraviert sind. Die Architektur ist schlicht und eindrucksvoll zugleich, entworfen um Besinnung und Gedenken zu fördern. Von der Gedenkstätte aus bietet sich ein weiter Blick über den Fluss und die ehemaligen Schlachtfelder, was die historische Dimension des Ortes unterstreicht. Heute ist Șerpeni ein Ort für offizielle Gedenkfeiern und ein Ziel für historisch interessierte Besucher.",
+      hu: "A Șerpeni hídfő emlékműegyüttese Moldova egyik legfontosabb második világháborús emlékhelye, amely a Dnyeszter folyó magas partján található. Az emlékmű az 1944 tavaszán és nyarán zajló heves harcoknak állít emléket, amikor a szovjet csapatok itt próbáltak áttörni a német és román védelem ellen a Jassy-Kishinev hadművelet során. A becslések szerint több mint 11 000 katona áldozta életét ezen a stratégiai fontosságú ponton. A komplexumot 2004-ben avatták fel, és központi eleme egy stilizált oltár az öröklánggal, valamint egy 15 méter magas harangtorony. A falakon márványtáblák őrzik az azonosított áldozatok neveit. Az építészeti kialakítás és a folyóra nyíló panoráma méltóságteljes és elgondolkodtató légkört teremt. Az emlékhely nemcsak a gyász helyszíne, hanem fontos oktatási központ is, ahol a látogatók megismerhetik a régió modern kori történelmének egyik legmeghatározóbb eseményét.",
+      ro: "Complexul Memorial „Capul de Pod Șerpeni” este un monument de o importanță istorică majoră în Republica Moldova, dedicat ostașilor căzuți în luptele sângeroase din anul 1944. Situat pe malul înalt al Nistrului, la circa 50 km de Chișinău, complexul comemorează Operațiunea Iași-Chișinău, în timpul căreia aici a existat un punct strategic de trecere extrem de disputat. Se estimează că peste 11.000 de soldați sovietici și-au pierdut viața în această zonă pentru a asigura avansarea trupelor. Inaugurat în forma actuală în anul 2004, memorialul cuprinde un altar central cu flacăra veșnică, o clopotniță înaltă de 15 metri și un perete de marmură pe care sunt inscripționate numele celor identificați. Arhitectura solemnă, semnată de Semyon Șoihet, invită la reculegere și oferă o perspectivă panoramică asupra văii Nistrului, locul fostelor câmpuri de luptă. Anual, pe 24 august și 9 mai, aici au loc ceremonii oficiale de depunere de flori, Șerpeni fiind un simbol al memoriei istorice colective.",
+      en: "The Șerpeni Bridgehead Memorial Complex is one of Moldova's most significant World War II monuments, commemorating the fierce battles that took place in 1944 during the Iasi-Kishinev Operation. Perched on a high ridge overlooking the Dniester River, about 50 kilometers east of Chișinău, it marks the site where over 11,000 Soviet soldiers perished while trying to secure a strategic foothold against Axis forces. The memorial was officially inaugurated in its current monumental form in 2004. The complex features a central altar with an eternal flame, a 15-meter-high bell tower, and a marble wall inscribed with the names of the fallen. The minimalist yet powerful design creates a solemn atmosphere for reflection, complemented by the wide vistas of the surrounding river valley. It serves as a focal point for national remembrance ceremonies, particularly on victory anniversaries, and stands as a poignant reminder of the heavy human cost of the conflict on Moldovan soil.",
     },
     factsAdvanced: {
-      de: [
-        "Zehntausende Soldaten verloren hier im Frühjahr 1944 ihr Leben.",
-        "Der monumentale Komplex wurde im Jahr 2004 offiziell eingeweiht.",
-        "Von der Plattform bietet sich ein weiter Blick über die Dnister-Schleifen.",
-        "Das Denkmal ist ein wichtiger Ort der Mahnung gegen den Krieg."
-      ],
-      hu: [
-        "A harcokban több tízezer katona vesztette itt életét 1944 tavaszán.",
-        "A monumentális komplexumot 2004-ben avatták fel jelenlegi formájában.",
-        "Lélegzetelállító kilátást nyújt a folyó széles kanyarulataira."
-      ],
-      ro: [
-        "În luptele pentru capul de pod de la Șerpeni și-au pierdut viața peste 11.000 de ostași sovietici.",
-        "Complexul a fost inaugurat oficial pe 22 august 2004, la a 60-a aniversare a bătăliei.",
-        "Priveliștea panoramică de pe platforma memorialului se extinde pe zeci de kilometri peste Nistru.",
-        "Echipele de căutare continuă să descopere și să îngroape aici rămășițe ale soldaților necunoscuți."
-      ],
-      en: [
-        "Over 11,000 soldiers are estimated to have perished during the brutal fighting at this strategic bridgehead in 1944.",
-        "The current memorial complex was inaugurated in 2004, marking the 60th anniversary of the offensive.",
-        "The elevated location offers panoramic views extending for miles across the Dniester River.",
-        "Voluntary search teams continue to recover the remains of fallen soldiers from the surrounding battlefield."
-      ]
+      de: ["Eingeweiht im Jahr 2004", "Erinnert an die Kämpfe von 1944", "Über 11.000 Soldaten fielen hier", "Zentraler Glockenturm ist 15m hoch", "Befindet sich am Ufer des Dnister", "Entworfen vom Architekten Semyon Shoikhet"],
+      hu: ["2004-ben avatták fel", "Az 1944-es harcoknak állít emléket", "Több mint 11 000 katona esett el itt", "A harangtorony 15 méter magas", "A Dnyeszter folyó partján fekszik", "Semyon Shoikhet építész tervezte"],
+      ro: ["Inaugurat în anul 2004", "Comemorează luptele din anul 1944", "Peste 11.000 de ostași au căzut aici", "Clopotnița are o înălțime de 15 metri", "Situat pe malul înalt al Nistrului", "Arhitectul proiectului: Semyon Șoihet"],
+      en: ["Inaugurated in the year 2004", "Commemorates the 1944 offensive", "Over 11,000 soldiers died here", "The bell tower stands 15 meters tall", "Located on the banks of the Dniester", "Designed by architect Semyon Shoikhet"],
     }, image: "/poi-images/MD-028-serpeni-bridgehead.webp"},
   {
     id: "MD-029-orhei-city",
@@ -199,35 +104,16 @@ export const moldovaPoi: POI[] = [
     name: { de: "Orhei", hu: "Orhei", ro: "Orhei", en: "Orhei" },
     description: { de: "Eine dynamische Stadt mit reichen historischen Wurzeln.", hu: "Dinamikus város gazdag történelmi gyökerekkel.", ro: "Un oraș dinamic cu rădăcini istorice bogate.", en: "A dynamic city with rich historical roots." },
     descriptionAdvanced: {
-      de: "Orhei ist eine der ältesten und historisch faszinierendsten Städte Moldaus, gelegen am Rande der dichten Codru-Wälder. Einst ein blühendes jüdisches Handelszentrum, ist es heute eine modern entwickelte Stadt mit großzügigen Parks. Sie ist ein bedeutender kultureller Treffpunkt für die Region. Geschichte K6 — historische Siedlungsentwicklung.",
-      hu: "Orhei Moldova egyik legősibb városa, a Codru erdőségek szélén. Egykor virágzó zsidó kereskedelmi központ volt, ma modern és dinamikusan fejlődő város tágas parkokkal. Fontos agráripari és kulturális találkozóhely a régióban. Történelem K6 — történelmi településnevek.",
-      ro: "Orhei este unul dintre cele mai dinamice și atractive orașe istorice din centrul Moldovei, așezat în pitoreasca vale a râului Răut. Orașul a beneficiat recent de proiecte masive de reamenajare urbană, având străzi impecabile, parcuri luxuriante și clădiri de patrimoniu atent restaurate. Orheiul este faimos pentru Catedrala Sfântul Dumitru, fondată de domnitorul Vasile Lupu, un simbol arhitectural național. De asemenea, atrage un număr mare de vizitatori datorită celui mai mare parc de distracții familial din țară, îmbinând istoria profundă cu divertismentul modern. Geografie clasa a 7-a — modernizare urbană.",
-      en: "Orhei is one of Moldova's oldest cities, located near the dense Codru forests. Formerly a thriving commercial center with a large Jewish population, it has been transformed through modern urban redevelopment projects. Key landmarks include the historic Saint Dumitru Cathedral, founded by Vasile Lupu, and the OrheiLand amusement park, making it a unique mix of heritage and contemporary recreation. History K6 — urban redevelopment and cultural history."
+      de: "Orhei ist eine der ältesten und kulturell bedeutendsten Städte Moldaus, gelegen am Fluss Răut etwa 45 Kilometer nördlich von Chișinău. Die Stadt hat ihre Wurzeln im Mittelalter, wobei das ursprüngliche Orhei (heute Orheiul Vechi) einige Kilometer flussabwärts lag, bevor die Siedlung im 16. Jahrhundert an ihren heutigen Standort verlegt wurde. Ein architektonisches Juwel der Stadt ist die St.-Demetrius-Kathedrale, die zwischen 1631 und 1636 vom moldauischen Fürsten Vasile Lupu erbaut wurde und als eines der besten Beispiele moldauischer Kirchenbaukunst gilt. Orhei ist heute ein lebendiges Wirtschaftszentrum, bekannt für seine Lebensmittelindustrie, insbesondere die Saftherstellung. In den letzten Jahren hat die Stadt durch umfangreiche Infrastrukturprojekte und die Schaffung moderner Freizeitparks wie Orheiland landesweite Aufmerksamkeit erregt. Die Kombination aus reichem historischem Erbe und moderner Stadtentwicklung macht Orhei zu einem wichtigen Anziehungspunkt für Touristen und zu einem bedeutenden regionalen Zentrum.",
+      hu: "Orhei Moldova egyik legősibb és legjelentősebb kulturális központja, amely a Răut folyó partján fekszik, mintegy 45 kilométerre északra a fővárostól. A város története a középkorig nyúlik vissza; az eredeti település (a mai Ó-Orhei) stratégiai helyen állt, mielőtt a 16. században a lakosság a mai, modernebb helyszínre költözött volna. A város egyik legfontosabb műemléke a Szent Demeter-székesegyház, amelyet Vasile Lupu fejedelem építtetett 1631 és 1636 között, és azóta is a moldáv egyházi építészet remekműve. Orhei ma fontos gazdasági központ, különösen az élelmiszeripara és gyümölcsfeldolgozása jelentős. Az elmúlt években a város látványos fejlődésen ment keresztül, megújultak parkjai és középületei, valamint itt épült fel az ország legnagyobb ingyenes vidámparkja, az Orheiland is. A történelmi hangulat és a modern városi dinamizmus találkozása Orheit Moldova egyik leglátogatottabb vidéki városává teszi.",
+      ro: "Orhei este unul dintre cele mai vechi și importante orașe din Republica Moldova, situat pe malul râului Răut, la aproximativ 45 km nord de Chișinău. Istoria sa este profund legată de situl arheologic Orheiul Vechi, situat la câțiva kilometri distanță, orașul actual fiind strămutat pe locația curentă în secolul al XVI-lea. Un monument emblematic al orașului este Catedrala „Sfântul Dumitru”, ctitorită de domnitorul Vasile Lupu între anii 1631-1636, reprezentând un stil arhitectural moldovenesc autentic. Astăzi, Orhei este un centru economic dinamic, renumit pentru industria sa alimentară și prelucrarea fructelor, fabrica Orhei-Vit fiind cunoscută la nivel internațional. În ultimul deceniu, orașul a cunoscut o transformare urbană majoră, prin reabilitarea spațiilor publice și deschiderea complexului de distracții Orheiland, cel mai mare de acest tip din țară. Orhei reușește să îmbine armonios moștenirea istorică multiseculară cu facilitățile moderne, fiind o destinație turistică și culturală de top din regiune.",
+      en: "Orhei is one of Moldova's oldest and most culturally significant cities, situated on the Răut River about 45 kilometers north of Chișinău. Its roots trace back to the medieval period, with the original settlement (now known as Old Orhei) located 15 kilometers downstream before the town moved to its present location in the 16th century. The city's architectural centerpiece is the St. Demetrius Cathedral, built by Prince Vasile Lupu between 1631 and 1636, which stands as a masterwork of Moldovan ecclesiastical design. Today, Orhei is a vibrant industrial and economic center, particularly famous for its juice and food processing industries. In recent years, it has gained national attention for extensive urban renovation projects and the creation of Orheiland, a massive modern amusement park. This blend of rich historical heritage and aggressive modernization has made Orhei a key regional destination, attracting both history enthusiasts and families from across the country.",
     },
     factsAdvanced: {
-      de: [
-        "Im Zentrum steht die historische St.-Dimitri-Kirche, erbaut von Vasile Lupu.",
-        "Die Stadt beherbergt einen modernen Familien-Freizeitpark, der in der Region einzigartig ist.",
-        "Ein gut gepflegter jüdischer Friedhof erinnert an die einstige große Gemeinde.",
-        "Orhei profitiert von seiner Lage als Handelszentrum in der Region."
-      ],
-      hu: [
-        "Központjában áll a történelmi Szent Dumitru templom, amelyet Vasile Lupu építtetett.",
-        "A város egy modern családi vidámparkkal is rendelkezik, amely egyedülálló a régióban.",
-        "Korábbi jelentős zsidó közösségére egy szépen karbantartott temető emlékeztet."
-      ],
-      ro: [
-        "Biserica Sfântul Dumitru din centrul orașului este reprezentată pe bancnota de 5 lei moldovenești.",
-        "Este unul dintre puținele orașe din țară care se mândrește cu transport public complet gratuit pentru localnici.",
-        "În apropierea orașului se află uriașul parc de distracții \\\"OrheiLand\\\", vizitat anual de mii de copii.",
-        "Istoria orașului medieval Orheiul Vechi (situat la câțiva kilometri distanță) este legată intrinsec de orașul modern."
-      ],
-      en: [
-        "The historic Saint Dumitru Cathedral is a significant architectural landmark featured on national currency.",
-        "Recent urban initiatives have modernized the city's parks and infrastructure while restoring heritage sites.",
-        "OrheiLand has become a popular modern attraction for families from across the region.",
-        "The nearby archaeological site of Orheiul Vechi provides essential context for the area's historical development."
-      ]
+      de: ["Erste Erwähnung im Jahr 1470", "St.-Demetrius-Kathedrale (1631-1636)", "Liegt am Fluss Răut", "Bevölkerung: ca. 21.000", "Heimat der Fabrik Orhei-Vit", "Orheiland ist der größte Freizeitpark"],
+      hu: ["1470-ben említették először", "Szent Demeter-székesegyház (1631-1636)", "A Răut folyó partján fekszik", "Lakossága kb. 21 000 fő", "Itt működik az Orhei-Vit gyár", "Az Orheiland az ország legnagyobb parkja"],
+      ro: ["Prima atestare documentară în 1470", "Catedrala Sf. Dumitru zidită în 1631-1636", "Situat pe cursul râului Răut", "Populație: aprox. 21.000 locuitori", "Găzduiește fabrica de sucuri Orhei-Vit", "Orheiland este cel mai mare parc tematic"],
+      en: ["First mentioned in 1470", "St. Demetrius Cathedral built 1631-1636", "Situated on the Răut River", "Population: approx. 21,000", "Home to the Orhei-Vit processing plant", "Orheiland is the country's largest park"],
     }, image: "/poi-images/MD-029-orhei-city.webp"},
   {
     id: "MD-029-curchi-monastery",
@@ -237,35 +123,16 @@ export const moldovaPoi: POI[] = [
     name: { de: "Kloster Curchi", hu: "Curchi kolostor", ro: "Mănăstirea Curchi", en: "Curchi Monastery" },
     description: { de: "Eines der schönsten architektonischen Ensembles Moldaus.", hu: "Moldova egyik legszebb építészeti együttese.", ro: "Unul dintre cele mai frumoase ansambluri arhitecturale din Moldova.", en: "One of the most beautiful architectural ensembles in Moldova." },
     descriptionAdvanced: {
-      de: "Das Kloster Curchi ist eine beeindruckende Anlage im russisch-byzantinischen Stil inmitten dichter Wälder. Das im 18. Jahrhundert gegründete Kloster diente während der Sowjetzeit als Psychiatrie, erstrahlt aber heute wieder in prächtigen Rot- und Weißtönen. Geschichte K7 — religiöse Institutionen und ihre Leiden.",
-      hu: "A Curchi kolostor lenyűgöző orosz-bizánci stílusú épületegyüttes, amelyet sűrű erdők vesznek körül. A 18. században alapított intézmény a szovjet időkben pszichiátriai kórházként működött, de mára teljesen visszanyerte ragyogó, élénkpiros és fehér színekben pompázó formáját. Történelem K7 — vallási intézmények hányattatásai.",
-      ro: "Mănăstirea Curchi este o capodoperă absolută a arhitecturii religioase și un centru de spiritualitate renumit la nivel european. Situată într-un cadru natural de poveste, printre păduri dese și pe malul unui lac idilic, ansamblul monahal se distinge prin stilul său baroc târziu, mai degrabă asemănător unui palat occidental decât unei mănăstiri ortodoxe clasice. Biserica principală, vopsită într-un roșu intens cu ornamente albe, are cel mai înalt dom dintre toate bisericile din țară. După restaurarea sa recentă, Curchi a devenit un magnet pentru pelerini și iubitorii de arhitectură estetică. Istoria artei clasa a 8-a — arhitectura barocului.",
-      en: "Curchi Monastery is an architectural masterpiece featuring a distinct Russian-Byzantine style, set within the lush landscapes of the Codru region. Founded in the 18th century, it experienced a difficult period as a psychiatric facility during the Soviet era. Following a comprehensive restoration, the complex's vibrant red and white facade and its towering main dome have been restored to their former glory, making it a prominent site for religious architecture and pilgrimage. History K7 — religious institutions and architecture."
+      de: "Das Kloster Curchi im Rajon Orhei gilt als eines der bedeutendsten architektonischen und spirituellen Zentren der Republik Moldau. Es wurde 1773 von Iordache Curchi gegründet und im 19. Jahrhundert zu einem prachtvollen Ensemble im Barockstil ausgebaut. Die Hauptkirche, die Kathedrale der Geburt der Muttergottes, wurde zwischen 1862 und 1872 errichtet und orientiert sich architektonisch an der Andreas-Kirche in Kiew. Während der Sowjetzeit wurde das Kloster 1958 zwangsweise geschlossen und bis 2002 als psychiatrisches Krankenhaus genutzt, was zu erheblichen Schäden an der Bausubstanz führte. Seit der Wiedereröffnung wurde der gesamte Komplex aufwendig restauriert und erstrahlt heute wieder in seiner ursprünglichen Pracht inmitten der Codru-Wälder. Die Anlage umfasst fünf Kirchen, Zellenflügel und einen gepflegten Klostergarten, der für seine Ruhe bekannt ist.",
+      hu: "A Curchi-kolostor az Orhei járásban található, és Moldova egyik legjelentősebb építészeti és vallási emléke. Az 1773-ban Iordache Curchi által alapított szerzetesi komplexum a 19. században érte el virágkorát, amikor barokk stílusban építették újjá. Központi épülete, az Istenszülő születése székesegyház 1862 és 1872 között épült, kupolája pedig 57 méter magas, ami az ország egyik legmagasabb templomtornya. A szovjet időszakban, 1958-ban a kolostort bezárták, és épületeit pszichiátriai kórházként hasznosították, ami súlyos károkat okozott a belső díszítésben. A 2002-ben megkezdett átfogó restaurálási munkálatoknak köszönhetően ma ismét eredeti fényében pompázik a Codru-erdők sűrűjében. A kolostor nemcsak zarándokhely, hanem fontos kulturális turisztikai célpont is, amely öt templomot és számos szerzetesi lakhelyet foglal magában.",
+      ro: "Mănăstirea Curchi, situată în raionul Orhei, reprezintă unul dintre cele mai importante și frumoase monumente de arhitectură religioasă din Republica Moldova. Fondată în anul 1773 de către Iordache Curchi, mănăstirea a cunoscut o dezvoltare amplă în secolul al XIX-lea, devenind un ansamblu baroc de excepție. Catedrala principală, cu hramul „Nașterea Maicii Domnului”, a fost construită între 1862 și 1872, având o cupolă impunătoare de 57 de metri înălțime, inspirată de arhitectura bisericii Sfântul Andrei din Kiev. În perioada sovietică, mănăstirea a fost închisă în 1958 și transformată în spital psihiatric, situație care a durat până în 1999, provocând degradarea gravă a picturilor interioare. După anul 2002, a început un proces masiv de restaurare care a redat așezământului strălucirea de odinioară. Astăzi, complexul monastic este un centru spiritual activ, fiind înconjurat de pădurile seculare ale Codrilor.",
+      en: "Curchi Monastery, located in the Orhei District, stands as one of the most significant and visually striking architectural landmarks in Moldova. Founded in 1773 by Iordache Curchi, the monastic complex underwent extensive expansion during the 19th century, resulting in a refined Baroque ensemble. The centerpiece, the Cathedral of the Nativity of the Mother of God, was constructed between 1862 and 1872 and features a dome reaching 57 meters in height, modeled after St. Andrew's Church in Kyiv. During the Soviet era, the monastery was closed in 1958 and repurposed as a psychiatric hospital, leading to the deterioration of its historical frescoes and structures. Following the independence of Moldova, a comprehensive restoration project was launched in 2002 to return the site to its former ecclesiastical glory. Currently, it serves as a serene religious center nestled within the lush Codru forests, attracting both pilgrims and historians interested in Orthodox heritage.",
     },
     factsAdvanced: {
-      de: [
-        "Die Hauptkathedrale besitzt fünf Kuppeln, inspiriert von Rastrellis Entwürfen.",
-        "Die Anlage wurde Anfang der 2000er Jahre durch öffentliche Spenden renoviert.",
-        "Auf dem Hof stehen jahrhundertealte Eichen.",
-        "Das Kloster ist bekannt für seine prächtige barocke Fassade."
-      ],
-      hu: [
-        "A fő katedrális öt kupolával rendelkezik, és a kijevi Rastrelli tervei ihlették.",
-        "A teljes komplexumot a 2000-es évek elején közadakozásból újították fel.",
-        "Udvarán hatalmas, több évszázados tölgyfák állnak."
-      ],
-      ro: [
-        "Biserica centrală (Nașterea Maicii Domnului) a fost proiectată de celebrul arhitect italian Bartolomeo Rastrelli.",
-        "În timpul regimului sovietic brutal, complexul mănăstiresc a fost transformat într-un spital psihiatric.",
-        "Ansamblul a fost complet restaurat la standarde internaționale cu ajutorul fondurilor și donațiilor publice.",
-        "Legenda spune că a fost fondată în secolul XVIII de către un haiduc (Iordache Curchi) care s-a pocăit."
-      ],
-      en: [
-        "The cathedral's architecture is inspired by the work of the renowned Italian architect Bartolomeo Rastrelli.",
-        "A major restoration effort in the early 2000s, funded by public donations, salvaged the complex.",
-        "The main church features the tallest dome among all churches in Moldova.",
-        "The monastery's grounds are notable for their collection of ancient oak trees."
-      ]
+      de: ["Gründung im Jahr 1773", "57 Meter hohe Hauptkuppel", "1958 von Sowjetbehörden geschlossen", "Nutzung als Psychiatrie bis 2002", "Umfasst 5 verschiedene Kirchen", "Restaurierung begann im Jahr 2002"],
+      hu: ["Alapítás éve: 1773", "Központi kupola magassága: 57 méter", "Szovjet zárva tartás: 1958–2002", "Pszichiátriai kórházként működött", "Öt templom található a területén", "Teljes felújítás kezdete: 2002"],
+      ro: ["Fondată în anul 1773", "Catedrala are 57 metri înălțime", "Închisă forțat în anul 1958", "Funcția de spital psihiatric (1958-1999)", "Cuprinde 5 biserici în complex", "Restaurare capitală după 2002"],
+      en: ["Founded in 1773 by Iordache Curchi", "Main dome reaches 57 meters high", "Closed by Soviet authorities in 1958", "Served as a psychiatric hospital", "Complex contains 5 different churches", "Major restoration started in 2002"],
     }, image: "/poi-images/MD-029-curchi-monastery.webp"},
   {
     id: "MD-030-tiraspol-city",
@@ -275,35 +142,16 @@ export const moldovaPoi: POI[] = [
     name: { de: "Tiraspol", hu: "Tiraszpol", ro: "Tiraspol", en: "Tiraspol" },
     description: { de: "Die Hauptstadt Transnistriens, geprägt von sowjetischer Architektur.", hu: "Transznisztria fővárosa, szovjet kori építészet jellemzi.", ro: "Capitala Transnistriei, caracterizată de arhitectura sovietică.", en: "The capital of Transnistria, characterized by Soviet-era architecture." },
     descriptionAdvanced: {
-      de: "Tiraspol ist die de-facto Hauptstadt des abtrünnigen Transnistriens und bewahrt das Flair der Sowjetunion wie ein lebendiges Museum. Breite Boulevards mit Lenin-Statuen, kyrillische Neonreklamen und monumentale Betonbauten prägen das Bild. Die Wirtschaft wird maßgeblich vom Konglomerat 'Sheriff' dominiert. Geschichte K8 — aufgelöste Imperien.",
-      hu: "Tiraszpol a de facto független Transznisztria fővárosa, mely egy élő múzeumként őrzi a Szovjetunió hangulatát. A széles sugárutakat Lenin-szobrok, cirill betűs neonfeliratok és grandiózus betonépületek szegélyezik. A város gazdaságát a 'Sheriff' nevű gigavállalat uralja, amely a szupermarketektől a futballcsapatig mindent birtokol. Történelem K8 — felbomlott birodalmak.",
-      ro: "Tiraspol este cel mai mare oraș din stânga Nistrului și capitala autoproclamată a regiunii separatiste transnistrene. Orașul este celebru în lume pentru faptul că a conservat o imagine și o atmosferă ce amintesc fidel de fosta Uniune Sovietică. Monumentele falnice ale lui Lenin, bulevardele largi, panourile cu mesazine patriotice și arhitectura brutalistă atrag numeroși turiști occidentali curioși. Totuși, dincolo de estetica sa unică, Tiraspol este un oraș curat, liniștit și funcțional, fiind motorul industrial principal al economiei de pe malul stâng. Geografie clasa a 8-a — spațiul post-sovietic.",
-      en: "Tiraspol serves as the de facto capital of the Transnistrian region. The city is often described as a living museum of Soviet-era culture and architecture, characterized by its wide boulevards, monumental brutalist buildings, and preserved monuments of Lenin. While maintaining a unique post-Soviet atmosphere, the city remains an industrial center, heavily influenced by the Sheriff conglomerate, which operates extensive retail, media, and sports interests in the region. History K8 — post-Soviet political and economic development."
+      de: "Tiraspol, am östlichen Ufer des Dnjestr gelegen, ist die größte Stadt in der Region Transnistrien und fungiert als deren administratives Zentrum. Die Stadt wurde 1792 von dem russischen General Alexander Suworow als Festung gegründet, um die Grenzen des Russischen Reiches nach dem Frieden von Jassy zu sichern. Während des 19. Jahrhunderts entwickelte sich Tiraspol zu einem bedeutenden Handelsknotenpunkt und Industriezentrum. Von 1924 bis 1940 diente die Stadt als Hauptstadt der Moldauischen Autonomen Sozialistischen Sowjetrepublik innerhalb der Ukraine. Heute ist das Stadtbild stark von sowjetischer Monumentalarchitektur geprägt, darunter das Parlamentsgebäude mit einer großen Lenin-Statue. Wirtschaftlich ist die Stadt durch Textilindustrie, Energieerzeugung und die berühmte Spirituosenfabrik KVINT geprägt. Trotz ihrer politischen Sonderrolle bleibt Tiraspol ein wichtiges kulturelles und wirtschaftliches Zentrum am Dnjestr.",
+      hu: "Tiraspol a Dnyeszter folyó bal partján fekszik, és a nemzetközileg el nem ismert Dnyeszter Menti Köztársaság de facto fővárosa. A várost 1792-ben alapította Alekszandr Szuvorov orosz tábornok védelmi erődként, a jászvásári békét követően az Orosz Birodalom délnyugati határának megerősítésére. A 19. század folyamán fontos kereskedelmi és ipari központtá fejlődött a vasútvonal kiépítésének köszönhetően. 1924 és 1940 között a Moldovai Autonóm Szovjet Szocialista Köztársaság fővárosa volt az Ukrán SZSZK-n belül. A város mai arculatát a szovjet stílusú emlékművek és széles sugárutak határozzák meg, legismertebb jelképe a Parlament épülete előtti Lenin-szobor. Gazdaságilag meghatározó a textilipar, a gépgyártás és a világhírű KVINT konyakgyár jelenléte. Tiraspol kulturális életének központja a Dnyeszter-parti sétány és a Suvorov tér.",
+      ro: "Tiraspol, situat pe malul stâng al fluviului Nistru, este cel mai mare oraș din regiunea transnistreană și centrul administrativ al acesteia. Orașul a fost fondat în anul 1792 de generalul rus Alexandr Suvorov, inițial ca o fortăreață menită să apere noile granițe ale Imperiului Rus după Tratatul de la Iași. În secolul al XIX-lea, localitatea s-a dezvolat rapid ca nod feroviar și centru industrial important. Între anii 1924 și 1940, Tiraspol a servit drept capitală a Republicii Autonome Sovietice Socialiste Moldovenești în cadrul Ucrainei Sovietice. Arhitectura orașului păstrează un puternic caracter sovietic, cu bulevarde largi și monumente monumentale, precum statuia lui Lenin din fața Casei Sovietelor. Din punct de vedere economic, orașul este motorul regiunii, găzduind gigantul textil Tirotex și distileria KVINT. Tiraspolul rămâne un punct strategic de importanță regională datorită poziției sale geografice.",
+      en: "Tiraspol, located on the eastern bank of the Dniester River, is the largest city in Transnistria and serves as its de facto administrative center. The city was founded in 1792 by the Russian General Alexander Suvorov as a strategic fortress following the Treaty of Jassy to secure the Russian Empire's southwestern borders. Throughout the 19th century, Tiraspol evolved into a significant trade and industrial hub, aided by its connection to the railway network. From 1924 to 1940, it held the status of capital of the Moldavian Autonomous Soviet Socialist Republic within the Ukrainian SSR. Today, the city is notable for its preserved Soviet-era architecture, characterized by wide avenues and massive monuments like the Lenin statue in front of the Government House. Economically, it relies on heavy industry, textile manufacturing at Tirotex, and the production of world-renowned brandy at the KVINT distillery. The city remains a complex geopolitical and cultural focal point in the region.",
     },
     factsAdvanced: {
-      de: [
-        "Die Stadt wurde 1792 vom russischen General Alexander Suworow gegründet.",
-        "Der Name leitet sich vom griechischen Namen für den Dnister (Tyras) ab.",
-        "Der lokale Fußballclub FC Sheriff Tiraspol spielt regelmäßig in europäischen Wettbewerben.",
-        "Die Währung, der transnistrische Rubel, ist international nicht anerkannt."
-      ],
-      hu: [
-        "A várost Alekszandr Szuvorov orosz hadvezér alapította 1792-ben.",
-        "Neve a Dnyeszter ókori görög nevéből (Tyras) ered.",
-        "A város csapata, a FC Sheriff Tiraspol gyakori szereplője az európai labdarúgó kupáknak."
-      ],
-      ro: [
-        "A fost fondat în 1792 din ordinul generalului rus Alexandr Suvorov ca cetate de frontieră.",
-        "Este casa complexului sportiv ultra-modern Sheriff, o structură contrastantă cu restul orașului sovietic.",
-        "Bulevardul principal poartă încă numele aniversării '25 Octombrie' (Revoluția Bolșevică).",
-        "Orașul are propria sa monedă, rubla transnistreană, care este fabricată din polimeri și nu este recunoscută internațional."
-      ],
-      en: [
-        "General Alexander Suvorov founded Tiraspol in 1792 as a frontier fortress.",
-        "The name is derived from the ancient Greek name for the Dniester, 'Tyras'.",
-        "FC Sheriff Tiraspol has brought the city international attention through European football competitions.",
-        "The Transnistrian ruble, used for local transactions, is not recognized internationally."
-      ]
+      de: ["Gegründet 1792 von Suworow", "Hauptstadt der MASSR (1924-1940)", "Sitz der Textilfabrik Tirotex", "Liegt am linken Dnjestr-Ufer", "Bevölkerung ca. 130.000 Einwohner", "Zentrum der Region Transnistrien"],
+      hu: ["Alapítás éve: 1792", "MASSR fővárosa volt 1924-1940 közt", "A Tirotex textilgyár székhelye", "A Dnyeszter bal partján fekszik", "Lakossága kb. 130 000 fő", "Dnyeszter Menti Köztársaság központja"],
+      ro: ["Fondat în 1792 de Alexandr Suvorov", "Capitală a RASSM între 1924-1940", "Găzduiește combinatul Tirotex", "Situat pe malul stâng al Nistrului", "Populație de aproximativ 130.000 locuitori", "Principalul centru industrial regional"],
+      en: ["Founded in 1792 by Alexander Suvorov", "Capital of MASSR from 1924 to 1940", "Home to the Tirotex textile mill", "Situated on the left bank of Dniester", "Population of approx. 130,000", "De facto capital of Transnistria"],
     }, image: "/poi-images/MD-030-tiraspol-city.webp"},
   {
     id: "MD-030-kvint-distillery",
@@ -313,35 +161,17 @@ export const moldovaPoi: POI[] = [
     name: { de: "KVINT-Destillerie", hu: "KVINT lepárló", ro: "Distileria KVINT", en: "KVINT Distillery" },
     description: { de: "Ein weltweit bekannter Produzent von Weinbrand (Divin).", hu: "Világszerte ismert borpárlat (Divin) gyártó.", ro: "Un producător de brandy (Divin) cunoscut în întreaga lume.", en: "A world-renowned producer of brandy (Divin)." },
     descriptionAdvanced: {
-      de: "KVINT ist der älteste und berühmteste Spirituosenhersteller der Region. In riesigen Kellern werden Brände, offiziell 'Divin' genannt, in Eichenfässern jahrelang gelagert. Eine Führung ist eine Reise durch die Zeit und beinhaltet eine Premium-Verkostung. Chemie K8 — Destillationsprozesse.",
-      hu: "A KVINT (Konjak, Borok és Italok Tiraszpoli Gyára) Moldova és a térség legrégebbi és leghíresebb szeszipari vállalata. Hatalmas pincéiben tölgyfahordók tízezreiben érlelődik a konyak-típusú párlat, melyet itt hivatalosan 'Divin'-nek neveznek. A gyár látogatása igazi időutazás és prémium kóstoló egyben. Kémia K8 — lepárlási folyamatok.",
-      ro: "Distileria KVINT din Tiraspol este, fără îndoială, cea mai faimoasă întreprindere și o adevărată emblemă de export a regiunii transnistrene. Fondată în secolul al XIX-lea, compania este renumită la nivel mondial pentru producția de divinuri (brandy-uri de tip coniac) excepționale, maturate în butoaie masive de stejar. Numele companiei este un acronim pentru 'Coniacuri, Vinuri și Băuturi din Tiraspol'. O vizită în pivnițele sale cu un parfum dulceag amețitor dezvăluie secretele unui proces de învechire care se întinde pe decenii, transformând distileria într-un pilon al patrimoniului băuturilor fine. Economie clasa a 8-a — branduri de export.",
-      en: "KVINT is a historic spirits producer famous for its premium brandies, known locally as 'Divin'. Established in the 19th century, the distillery has built an international reputation for its aged spirits, which are matured in oak barrels within expansive cellar systems. The name is an acronym for 'Cognac, Wines, and Beverages of Tiraspol'. Tours of the facility offer insight into decades-long aging techniques and the complex chemistry behind premium spirit production. Chemistry K8 — distillation and spirit aging processes."
+      de: "Die KVINT-Brennerei in Tiraspol ist eines der ältesten und bekanntesten Unternehmen der Region, deren Geschichte bis in das Jahr 1897 zurückreicht. Ursprünglich als staatliches Weinlager gegründet, begann der Betrieb in den 1930er Jahren mit der Produktion von Weinbrand (Divin), der heute weltweit exportiert wird. KVINT steht als Akronym für „Kon'iaki, Vina i Napitki Tiraspolia“ und produziert jährlich über 20 Millionen Flaschen alkoholischer Getränke. Die Brennerei verfügt über eigene Weinberge mit einer Fläche von etwa 2.000 Hektar, auf denen sowohl lokale als auch internationale Rebsorten angebaut werden. In den Kellern von KVINT lagern Destillate, die teilweise über 60 Jahre alt sind und für die Herstellung von Premium-Blends verwendet werden. Die Fabrik ist ISO-zertifiziert und hat zahlreiche internationale Preise für die Qualität ihrer Spirituosen gewonnen. Besucher können an Führungen teilnehmen, die einen Einblick in den Reifeprozess in Eichenfässern bieten.",
+      hu: "A tiraspoli KVINT szeszfőzde a régió egyik legrégebbi és legtekintélyesebb ipari létesítménye, amelynek története 1897-ben kezdődött. Az eredetileg állami borraktárként alapított üzem az 1930-as években tért át a borpárlatok, helyi nevén „divin” gyártására, amely mára világhírűvé vált. A KVINT név egy orosz mozaikszó, amelynek jelentése: Tiraspoli Konyakok, Borok és Italok. A vállalat saját, mintegy 2000 hektáros szőlőültetvénnyel rendelkezik, ahol mind helyi, mind nemzetközi fajtákat termesztenek a legmagasabb minőség elérése érdekében. A lepárló pincéiben hatalmas tölgyfahordókban érlelik a párlatokat, amelyek közül a legidősebbek több mint 60 évesek. Évente több mint 20 millió palack italt állítanak elő, termékeik pedig számos rangos nemzetközi díjat nyertek Párizstól San Franciscóig. A gyár látogatható múzeuma bemutatja a gyártás technológiai fejlődését és a konyakkészítés művészetét.",
+      ro: "Distileria KVINT din Tiraspol este unul dintre cele mai vechi și emblematice obiective industriale din regiune, cu o istorie care începe în anul 1897. Fondată inițial ca un depozit de vinuri de stat, întreprinderea a început producția de divin (brandy) în anii 1930, devenind ulterior lider de piață în Europa de Est. Acronimul KVINT provine din limba rusă și înseamnă „Divinuri, Vinuri și Băuturi din Tiraspol”. Fabrica gestionează peste 2.000 de hectare de viță-de-vie proprie, asigurând controlul calității de la strugure până la produsul finit. În subsolurile distileriei sunt păstrate la maturat distilate vechi de peste 60 de ani, utilizate pentru cupajele de elită. Cu o capacitate de producție de peste 20 de milioane de sticle anual, KVINT deține numeroase medalii de aur câștigate la concursuri internaționale de prestigiu. Turismul oenologic este dezvoltat aici, vizitatorii având ocazia să descopere secretele maturării în butoaie de stejar și să deguste sortimente premiate.",
+      en: "The KVINT distillery in Tiraspol is one of the oldest and most prestigious enterprises in the region, with its origins dating back to 1897. Originally established as a state-owned wine warehouse, the facility pivoted toward the production of wine brandy, known locally as Divin, in the 1930s. The name KVINT is an acronym for 'Kon'iaki, Vina i Napitki Tiraspolia' (Brandies, Wines, and Beverages of Tiraspol). The company operates over 2,000 hectares of its own vineyards, cultivating a variety of local and international grapes to maintain high production standards. Within its vast cellars, spirits are aged in oak barrels for decades, with some distillates reaching over 60 years of age. Producing more than 20 million bottles annually, KVINT has secured numerous international awards for its quality and craftsmanship. The distillery features a museum and offers professional tasting tours that showcase the history of winemaking and the intricate process of spirit distillation.",
     },
     factsAdvanced: {
-      de: [
-        "Die Destillerie wurde 1897 gegründet und produziert seitdem kontinuierlich.",
-        "Sie produziert jährlich über 20 Millionen Flaschen.",
-        "Die ältesten Brände lagern bis zu 60 Jahre in Eichenfässern.",
-        "Der Name steht für 'Cognac, Weine und Getränke aus Tiraspol'."
-      ],
-      hu: [
-        "A gyárat 1897-ben alapították, és a cári idők óta folyamatosan működik.",
-        "Évi több mint 20 millió palackos termeléssel bír.",
-        "A legdrágább párlataikat 50 évnél is tovább érlelik hordókban."
-      ],
-      ro: [
-        "Distileria a fost fondată în anul 1897 și este una dintre cele mai vechi din Europa de Est.",
-        "KVINT produce anual zeci de milioane de sticle, exportate în peste 30 de țări de pe glob.",
-        "Deține o colecție privată uriașă cu divinuri care au vârste de maturare de până la 60 de ani.",
-        "Pe etichetele sticlelor se utilizează grafia chirilică combinată elegant cu caractere latine."
-      ],
-      en: [
-        "Founded in 1897, the distillery is among the oldest continuously operating facilities in the region.",
-        "KVINT maintains an annual production exceeding 20 million bottles for export to over 30 countries.",
-        "The distillery's private collection includes rare Divin spirits aged for up to 60 years in oak casks."
-      ]
-    }
+      de: ["Gegründet im Jahr 1897", "20 Millionen Flaschen pro Jahr", "Über 2.000 Hektar Weinberge", "Lagert Destillate bis zu 60 Jahre", "Akronym für Spirituosen aus Tiraspol", "Über 200 internationale Goldmedaillen"],
+      hu: ["Alapítás éve: 1897", "Évi 20 millió palack termelés", "2000 hektár saját szőlőterület", "Akár 60 éves érlelt párlatok", "Név: Tiraspoli Konyakok és Borok", "Több mint 200 aranyérem"],
+      ro: ["Fondată în anul 1897", "Producție de 20 milioane sticle/an", "Peste 2.000 hectare de podgorii", "Deține distilate vechi de 60 ani", "Numele este un acronim rusesc", "Câștigătoare a sute de medalii de aur"],
+      en: ["Founded in 1897", "Produces 20 million bottles yearly", "Owns 2,000 hectares of vineyards", "Ages spirits for up to 60 years", "Acronym for Tiraspol spirits", "Winner of over 200 gold medals"],
+    },
   },
   {
     id: "MD-031-chisinau-city",
@@ -351,35 +181,16 @@ export const moldovaPoi: POI[] = [
     name: { de: "Chișinău", hu: "Chișinău", ro: "Chișinău", en: "Chișinău" },
     description: { de: "Das pulsierende Herz Moldaus, eine grüne und moderne Hauptstadt.", hu: "Moldova lüktető szíve, zöld és modern főváros.", ro: "Inima vibrantă a Moldovei, o capitală verde și modernă.", en: "The vibrant heart of Moldova, a green and modern capital." },
     descriptionAdvanced: {
-      de: "Chișinău ist das politische und kulturelle Zentrum Moldaus, bekannt als 'Stadt aus weißem Stein'. Nach der Zerstörung im Zweiten Weltkrieg wurde sie mit breiten Boulevards neu gestaltet, was sie zu einer der grünsten Hauptstädte Europas machte. Heute prägen ein lebendiges Universitätsleben und Cafés das Stadtbild. Geographie K6 — Rolle der Hauptstadt.",
-      hu: "Chișinău, az ország politikai és kulturális központja, a 'Fehér kő városa' néven is ismert a mészkőépületei miatt. A második világháborús pusztítások után széles, fasoros sugárutakkal építették újjá, így Európa egyik legzöldebb fővárosa lett. Ma pezsgő egyetemi élet, kiváló kávézók és gazdag színházi világ jellemzi. Földrajz K6 — fővárosok szerepe.",
-      ro: "Chișinău, capitala vibrantă a Republicii Moldova, este inima politică, economică și culturală a națiunii. Deseori supranumit 'Orașul din piatră albă' datorită folosirii extinse a calcarului local în arhitectură, Chișinăul se remarcă drept una dintre cele mai verzi capitale din Europa, fiind împânzit de parcuri întinse și lacuri. Centrul orașului este un amestec de bulevarde largi mărginite de copaci, clădiri clasice din secolul al XIX-lea și repere brutale de tip sovietic. Viața sa de noapte activă, muzeele de artă și cafenelele moderne fac din Chișinău un oraș surprinzător și primitor. Geografie clasa a 8-a — metropole naționale.",
-      en: "Chișinău, Moldova's capital and largest city, serves as the central hub for the nation's political, economic, and cultural life. Known as the 'City of White Stone' due to its characteristic local limestone buildings, it is recognized for its extensive parks and green spaces. The city center features wide avenues and a blend of 19th-century architecture and Soviet-era structures, while the modern city offers a lively university and cafe scene. Geography K6 — role of national capitals."
+      de: "Chișinău, die Hauptstadt der Republik Moldau, liegt zentral im Land am Fluss Bîc und ist das politische, wirtschaftliche und kulturelle Herz der Nation. Die erste schriftliche Erwähnung der Stadt stammt aus dem Jahr 1436 als Teil des Fürstentums Moldau. Im Jahr 1812 wurde sie nach der russischen Annexion Bessarabiens zum Verwaltungszentrum der Region ausgebaut. Während des Zweiten Weltkriegs wurde die Stadt durch Kämpfe und ein Erdbeben fast vollständig zerstört, jedoch nach 1945 im sowjetischen Stil unter der Leitung des Architekten Alexei Schtschussew wiederaufgebaut. Chișinău ist bekannt als „weiße Stadt“, da viele Gebäude aus lokalem weißem Kalkstein errichtet wurden. Die Stadt verfügt über zahlreiche Parks, darunter den zentralen Ștefan cel Mare-Park, und ist Sitz bedeutender Universitäten und Museen. Heute wandelt sich Chișinău zu einer modernen europäischen Metropole mit einer lebendigen IT-Szene und reicher Weinkultur.",
+      hu: "Chișinău Moldova fővárosa és legnagyobb városa, amely a Bîc folyó partján, az ország középső részén helyezkedik el. Első írásos említése 1436-ból származik, amikor még a Moldovai Fejedelemség része volt. Jelentősége 1812 után nőtt meg, amikor Besszarábia orosz bekebelezése után a régió közigazgatási központjává vált. A második világháború során a város csaknem 70%-a elpusztult a bombázások és egy erős földrengés következtében, de a háború után Alekszej Scsuszev építész tervei alapján szovjet neoklasszicista stílusban újjáépítették. A „fehér város” becenevet a helyi mészkőből készült épületei után kapta. Chișinău zöldövezeteiről is híres, számos parkja közül kiemelkedik a Ștefan cel Mare központi park. Napjainkban a város Moldova politikai és gazdasági motorja, ahol a hagyományos kultúra és a modern európai törekvések találkoznak.",
+      ro: "Chișinău este capitala și cel mai mare oraș al Republicii Moldova, situat geografic în centrul țării, pe râul Bîc. Prima atestare documentară a localității datează din 17 iulie 1436, fiind pe atunci un mic sat în cadrul Principatului Moldovei. Dezvoltarea sa majoră a început după anul 1812, când a devenit centrul administrativ al guberniei Basarabia din Imperiul Rus. În timpul celui de-al Doilea Război Mondial, orașul a suferit distrugeri masive, fiind reconstruit ulterior după planurile arhitectului Alexei Șciusev în stilul realismului socialist. Chișinăul este adesea supranumit „orașul din piatră albă” datorită utilizării pe scară largă a calcarului local în construcții. Orașul este cunoscut pentru spațiile sale verzi vaste, având peste 20 de lacuri și numeroase parcuri, printre care Grădina Publică „Ștefan cel Mare”. Astăzi, Chișinăul este principalul pol de creștere economică și academică, găzduind cele mai importante instituții de stat și culturale.",
+      en: "Chișinău is the capital and largest city of the Republic of Moldova, centrally located along the banks of the Bîc River. First mentioned in historical documents in 1436, it was initially a monastic village within the Principality of Moldavia. The city’s significance grew dramatically after 1812, when it became the administrative capital of the Bessarabia Governorate under the Russian Empire. During World War II, Chișinău faced near-total destruction from military conflict and a major earthquake, leading to a large-scale reconstruction effort led by architect Alexey Shchusev in the post-war years. It is often referred to as the 'White City' because of the widespread use of local white limestone in its architectural landscape. Known for its abundant greenery, the city boasts numerous parks and lakes, with the Ștefan cel Mare Public Garden serving as its historic heart. Today, Chișinău is the nation's political, economic, and cultural hub, bridging historical traditions with modern European development.",
     },
     factsAdvanced: {
-      de: [
-        "Die Stadt hat über 500.000 Einwohner.",
-        "Sie besitzt eine der höchsten Pro-Kopf-Grünflächen in Europa.",
-        "Der russische Dichter Puschkin verbrachte in den 1820er Jahren Teile seines Exils hier.",
-        "Chișinău ist das wirtschaftliche Zentrum des Landes."
-      ],
-      hu: [
-        "A város lakossága meghaladja a félmillió főt.",
-        "Számos parkja és tava miatt a kontinens egyik legnagyobb egy főre jutó zöldterületével büszkélkedhet.",
-        "Puskin, az orosz költő, száműzetésének egy részét itt töltötte az 1820-as években."
-      ],
-      ro: [
-        "Parcul central găzduiește 'Aleea Clasicilor', un șir de busturi din bronz ale marilor scriitori români.",
-        "Bulevardul Ștefan cel Mare este principala arteră a orașului și locul tuturor evenimentelor naționale majore.",
-        "Chișinăul a fost aproape complet distrus în timpul celui de-Al Doilea Război Mondial, fiind reconstruit ulterior din temelii.",
-        "Capitala concentrează peste jumătate din întreaga activitate economică a Republicii Moldova."
-      ],
-      en: [
-        "Chișinău's population exceeds 500,000 residents.",
-        "It features one of the highest ratios of green space per capita of any major European city.",
-        "Alexander Pushkin spent a significant portion of his exile in Chișinău during the 1820s.",
-        "The city produces over half of the total economic output of Moldova."
-      ]
+      de: ["Erstmals 1436 urkundlich erwähnt", "Wiederaufbau nach 1945 durch Schtschussew", "Beiname „Stadt aus weißem Stein“", "Sitz der Moldauischen Akademie", "Zentraler Park nach Stefan dem Großen", "Bevölkerung ca. 530.000 im Zentrum"],
+      hu: ["Első említés: 1436. július 17.", "Scsuszev tervei alapján épült újjá", "Beceneve: a „fehér kő városa”", "Moldova tudományos központja", "Stefan cel Mare park a szívében", "Lakossága kb. 530 000 fő"],
+      ro: ["Prima atestare: 17 iulie 1436", "Reconstruit de Alexei Șciusev", "Supranumit „orașul din piatră albă”", "Găzduiește Academia de Științe", "Grădina Publică Ștefan cel Mare", "Populație urbană de cca. 530.000"],
+      en: ["First documented in July 1436", "Rebuilt post-WWII by Alexey Shchusev", "Nicknamed the 'White Stone City'", "Academic center of Moldova", "Central park named after Stephen the Great", "Urban population of approx. 530,000"],
     }, image: "/poi-images/MD-031-chisinau-city.webp"},
   {
     id: "MD-031-triumphal-arch",
@@ -389,35 +200,16 @@ export const moldovaPoi: POI[] = [
     name: { de: "Triumphbogen", hu: "Diadalív", ro: "Arcul de Triumf", en: "Triumphal Arch" },
     description: { de: "Ein markantes Wahrzeichen im Stadtzentrum von Chișinău.", hu: "Jellegzetes jelkép Chișinău városközpontjában.", ro: "Un monument emblematic în centrul Chișinăului.", en: "A prominent landmark in the center of Chișinău." },
     descriptionAdvanced: {
-      de: "Der Triumphbogen wurde 1840 errichtet, um eine große Glocke aus erbeuteten türkischen Kanonen zu beherbergen. Das aus weißem Kalkstein errichtete Bauwerk auf dem zentralen Platz ist das beliebteste Wahrzeichen Chișinăus. Geschichte K7 — militärische Denkmäler.",
-      hu: "A Diadalívet 1840-ben emelték, eredetileg azért, hogy méltó helyet biztosítsanak egy hatalmas rézharangnak, amit török ágyúkból öntöttek. A hófehér mészkőből faragott építmény a főtéren, a Katedrális parkja mellett áll, és a főváros legnépszerűbb találkozási pontja. Történelem K7 — katonai emlékművek.",
-      ro: "Arcul de Triumf din Chișinău este probabil cel mai fotografiat și emblematic monument arhitectural din inima capitalei. Așezat pe bulevardul central, vis-a-vis de clădirea Guvernului și alături de Catedrala Mitropolitană, acest arc elegant din piatră albă amintește de victoriile armatei ruse asupra Imperiului Otoman. Proporțiile sale armonioase și ceasul mare montat pe fronton îl fac un punct central de întâlnire pentru localnici. Noaptea, monumentul iluminat spectaculos reprezintă o priveliște grandioasă care subliniază istoria complexă a orașului. Istoria artei clasa a 8-a — monumente simbolice.",
-      en: "Built in 1840, the Triumphal Arch was designed to house a large bell cast from captured Turkish cannons. Located on the central square, it is an iconic landmark of Chișinău, standing near the Metropolitan Cathedral. The white limestone arch, with its classical proportions and integrated clock, serves as a popular meeting place and a commemorative monument to Russian military victories. History K7 — military monuments and architecture."
+      de: "Der Triumphbogen in Chișinău, auch bekannt als die „Heiligen Tore“, ist ein klassizistisches Denkmal im Herzen der moldauischen Hauptstadt. Er wurde zwischen 1840 und 1841 nach den Plänen des Architekten Iwan Sauschkjewitsch errichtet, um den Sieg des Russischen Reiches über das Osmanische Reich im Russisch-Türkischen Krieg von 1828–1829 zu feiern. Das Bauwerk hat eine quadratische Grundfläche und eine Höhe von 13 Metern, wobei es auf vier massiven Pfeilern ruht. Im Inneren des Bogens befindet sich eine riesige Glocke mit einem Gewicht von 6,4 Tonnen, die aus erbeuteten osmanischen Kanonen gegossen wurde. Der Bogen bildet zusammen mit der Kathedrale der Geburt des Herrn und dem Regierungsgebäude eine architektonische Achse auf dem Platz der Großen Nationalversammlung. Er gilt als eines der wichtigsten Symbole der Stadt und ist ein geschütztes nationales Baudenkmal. Trotz politischer Umbrüche blieb der Bogen weitgehend in seinem ursprünglichen Zustand erhalten.",
+      hu: "A chișinăui Diadalív, amelyet gyakran „Szent Kapuként” is emlegetnek, a moldovai főváros egyik legismertebb klasszicista műemléke. 1840 és 1841 között épült Ivan Zauszkievics építész tervei alapján, az 1828–1829-es orosz-török háborúban aratott győzelem emlékére. A 13 méter magas építmény fehér mészkőből készült, és négy masszív oszlopon nyugszik, amelyek két szintre tagolódnak. Az ív különlegessége a benne elhelyezett 6,4 tonnás óriási harang, amelyet zsákmányolt oszmán ágyúk féméből öntöttek. Eredetileg azért építették, mert a székesegyház harangtornya nem bírta el a hatalmas harang súlyát. A Diadalív a Nagy Nemzetgyűlés terén található, közvetlenül a kormányépülettel szemben, és fontos szerepet játszik a nemzeti ünnepségek helyszíneként. Építészeti arányaival és történelmi jelentőségével Chișinău szimbolikus központja.",
+      ro: "Arcul de Triumf din Chișinău, cunoscut și sub denumirea de „Porțile Sfinte”, este un monument de arhitectură de importanță națională, situat în centrul capitalei Republicii Moldova. Edificiul a fost construit între anii 1840 și 1841 după planurile arhitectului I. Zauszkievicz, pentru a comemora victoria armatei ruse asupra Imperiului Otoman în războiul din 1828-1829. Monumentul are o înălțime de 13 metri și este structurat pe două niveluri, fiind susținut de patru piloni masivi din piatră albă. În interiorul arcului se află un clopot gigant cu o greutate de 6,4 tone, turnat din metalul tunurilor turcești capturate în timpul luptelor. Arcul a fost ridicat special pentru a găzdui acest clopot, deoarece acesta era prea greu pentru turnul clopotniței catedralei din apropiere. Astăzi, Arcul de Triumf face parte din ansamblul arhitectural al Pieței Marii Adunări Naționale și este unul dintre cele mai fotografiate simboluri ale orașului.",
+      en: "The Triumphal Arch in Chișinău, often called the 'Holy Gates,' is a prominent Neoclassical monument located in the heart of Moldova's capital. Built between 1840 and 1841 according to the designs of architect Ivan Zauszkievicz, it commemorates the victory of the Russian Empire over the Ottoman Empire during the Russo-Turkish War of 1828–1829. Standing 13 meters tall, the structure is built from local white limestone and rests on four massive pillars arranged in a square layout. A defining feature of the arch is the massive 6.4-ton bell housed within its upper tier, cast from the metal of captured Ottoman cannons. The arch was specifically commissioned when it was discovered that the newly built cathedral’s bell tower was insufficient to support the weight of this ceremonial bell. Located on the Great National Assembly Square, the monument serves as a central symbol of the city and is a key site for national celebrations and cultural gatherings.",
     },
     factsAdvanced: {
-      de: [
-        "Er feiert die militärischen Siege des Russischen Reiches über die Türken.",
-        "Die Glocke im Inneren wiegt 6,4 Tonnen.",
-        "Die Struktur wird von vier massiven korinthischen Säulen gestützt.",
-        "Das Bauwerk wird populär auch als 'Heilige Pforte' bezeichnet."
-      ],
-      hu: [
-        "Építésének oka az Orosz Birodalom törökök feletti győzelmeinek megünneplése volt.",
-        "A benne lévő harang súlya 6,4 tonna.",
-        "Az épület négy masszív oszloppal és korinthoszi fejezettel rendelkezik."
-      ],
-      ro: [
-        "Arcul a fost construit în anul 1840 sub îndrumarea arhitectului Luca Zaușkevici.",
-        "În interiorul structurii se află un clopot masiv din bronz topit din vechile tunuri turcești capturate.",
-        "Are o înălțime de 13 metri și este susținut de patru piloni solizi de stil corintic.",
-        "Mai este cunoscut și sub numele popular de 'Porțile Sfinte'."
-      ],
-      en: [
-        "The arch commemorates military victories over the Ottoman Empire during the Russian expansion.",
-        "The historic bronze bell housed inside the arch weighs 6.4 tons.",
-        "The 13-meter high structure is supported by four massive Corinthian-style pillars.",
-        "It is locally referred to as the 'Holy Gates'."
-      ]
+      de: ["Bauzeit von 1840 bis 1841", "Höhe beträgt exakt 13 Meter", "6,4 Tonnen schwere Glocke", "Glockenguss aus Beutekanonen", "Architekt: Ivan Sauschkjewitsch", "Sieg über das Osmanische Reich"],
+      hu: ["Épült: 1840–1841 között", "Magassága: 13 méter", "6,4 tonnás óriásharanggal", "Török ágyúkból öntött harang", "Tervezője: Ivan Zauszkievics", "Az orosz-török háború emlékére"],
+      ro: ["Construit între 1840-1841", "Înălțime totală de 13 metri", "Clopot de 6,4 tone în interior", "Turnat din tunuri de captură", "Arhitect: Ivan Zauszkievicz", "Comemorează victoria din 1829"],
+      en: ["Built between 1840 and 1841", "Total height of 13 meters", "Houses a 6.4-ton bell", "Bell cast from captured cannons", "Architect: Ivan Zauszkievicz", "Commemorates victory over Ottomans"],
     }, image: "/poi-images/MD-031-triumphal-arch.webp"},
   {
     id: "MD-032-telenesti-city",
@@ -427,35 +219,16 @@ export const moldovaPoi: POI[] = [
     name: { de: "Telenești", hu: "Telenești", ro: "Telenești", en: "Telenești" },
     description: { de: "Eine Stadt im Zentrum Moldaus mit historischer Bedeutung.", hu: "Történelmi jelentőségű város Moldova középső részén.", ro: "Un oraș de importanță istorică în centrul Moldovei.", en: "A city of historical importance in central Moldova." },
     descriptionAdvanced: {
-      de: "Telenești war über Jahrhunderte ein geschäftiges Handelszentrum, bekannt für seine Zunft von jüdischen Schneidern. Die Stadt liegt im malerischen Tal des Ciuluc. Obwohl der historische Glanz verblasst ist, sind die umliegenden Apfelplantagen heute noch sehr ertragreich. Geschichte K6 — dörfliche Handwerke.",
-      hu: "Telenești évszázadokig egy nyüzsgő mezőgazdasági és kereskedelmi központ volt, híres a zsidó szabók és vargák céheiről. A város a Ciuluc folyó lankás völgyében fekszik. Bár régi fényéből sokat vesztett, a környék almaültetvényei ma is bőséges termést adnak. Történelem K6 — falusi mesterségek.",
-      ro: "Aflat în inima colinară a Moldovei, Telenești este un oraș liniștit, bogat în istorie comercială și tradiții agricole. În secolul al XIX-lea, orașul a fost un important târg comercial, locuit de o numeroasă comunitate evreiască care a lăsat o amprentă durabilă asupra arhitecturii și economiei locale. Astăzi, Telenești și-a menținut caracterul pașnic de provincie, fiind un centru raional orientat către sprijinirea agriculturii din împrejurimi. Pădurile din apropiere și peisajele văii râului Ciulucul Mic oferă refugii naturale nepoluate și plăcute. Istorie clasa a 7-a — dezvoltarea târgurilor de provincie.",
-      en: "Telenești is a historic town in central Moldova, positioned in the picturesque Ciuluc river valley. Historically, it was an active market center with a significant Jewish community known for its artisan guilds, particularly tailors. Today, the town remains a local administrative hub focused on surrounding agriculture, particularly its productive apple orchards. History K6 — historical market towns and rural crafts."
+      de: "Telenești ist eine geschichtsträchtige Kleinstadt im Zentrum der Republik Moldau und dient als Verwaltungssitz des gleichnamigen Rajons. Die Stadt wurde erstmals im 17. Jahrhundert urkundlich erwähnt und entwickelte sich aufgrund ihrer Lage an wichtigen Handelswegen schnell zu einem regionalen Marktzentrum. Besonders bekannt war Telenești im 19. und frühen 20. Jahrhundert für seine große jüdische Gemeinde, die das wirtschaftliche und kulturelle Leben der Stadt maßgeblich prägte. Geografisch liegt die Stadt in einer hügeligen Landschaft, die Teil des moldauischen Plateaus ist und von fruchtbaren Ackerböden umgeben wird. In der sowjetischen Ära wurde die lokale Industrie ausgebaut, insbesondere in den Bereichen Lebensmittelverarbeitung und Leichtindustrie. Heute ist Telenești ein friedlicher Ort, der sich bemüht, sein historisches Erbe zu bewahren, während er gleichzeitig moderne Infrastrukturen entwickelt. Die Stadt ist zudem ein Ausgangspunkt für Erkundungen der umliegenden Naturschutzgebiete.",
+      hu: "Telenești egy történelmi jelentőségű kisváros Moldova középső részén, az azonos nevű járás közigazgatási központja. A települést először a 17. században említik írásos források, és kedvező földrajzi elhelyezkedésének köszönhetően hamar fontos kereskedelmi csomóponttá vált. A 19. században és a 20. század elején Telenești híres volt népes zsidó közösségéről, amely meghatározta a város gazdasági arculatát és kulturális életét. A város a Moldovai-fennsík dombos vidékén fekszik, környékét pedig gazdag mezőgazdasági területek és erdőfoltok jellemzik. A szovjet időszakban az élelmiszeripar és a textilgyártás vált a legfontosabb gazdasági ágazattá. Napjainkban Telenești egy dinamikusan fejlődő agrárközpont, amely hűen őrzi múltjának emlékeit, miközben modernizálja közszolgáltatásait. A város környékén található Inești tájvédelmi körzet a természetjárók kedvelt célpontja.",
+      ro: "Telenești este un oraș cu o istorie bogată situat în partea centrală a Republicii Moldova, fiind reședința raionului cu același nume. Primele mențiuni documentare despre localitate apar în secolul al XVII-lea, aceasta dezvoltându-se rapid ca un important centru comercial la intersecția unor rute comerciale strategice. În secolul al XIX-lea și la începutul secolului XX, Teleneștiul era cunoscut pentru comunitatea sa evreiască numeroasă, care a contribuit esențial la dezvoltarea economică și culturală a târgului. Orașul este amplasat într-o zonă de coline specifice Platoului Moldovei, fiind înconjurat de terenuri agricole fertile și de podgorii. În perioada sovietică, orașul a devenit un centru de procesare a produselor agricole și de industrie ușoară. În prezent, Teleneștiul păstrează farmecul unui oraș de provincie liniștit, fiind totodată un punct de tranzit important către nordul țării. Obiectivele naturale din apropiere, precum rezervația Inești, adaugă valoare turistică regiunii.",
+      en: "Telenești is a historic town in central Moldova, serving as the administrative center of the Telenești District. First mentioned in historical records during the 17th century, the settlement quickly evolved into a significant regional trade hub due to its strategic location on major merchant routes. Throughout the 19th and early 20th centuries, Telenești was particularly noted for its large and vibrant Jewish community, which played a crucial role in shaping the town's economic and cultural identity. Geographically, it is situated on the rolling hills of the Moldavian Plateau, surrounded by fertile agricultural lands and scattered forests. During the Soviet era, the town saw the development of food processing and light industries. Today, Telenești functions as a regional agricultural and administrative center, balancing its historical heritage with modern infrastructure improvements. The town also serves as a gateway to nearby natural reserves, such as the Inești Landscape Reserve.",
     },
     factsAdvanced: {
-      de: [
-        "Die Stadt war einst ein bedeutendes 'Schtetl' (jüdische Kleinstadt).",
-        "Die Wirtschaft basiert heute hauptsächlich auf Obstbau und Viehzucht.",
-        "Die alten orthodoxen Holzkirchen sind kostbare Schätze der Region.",
-        "Das Stadtgebiet ist von landschaftlich reizvollen Hügeln umgeben."
-      ],
-      hu: [
-        "Egykor fontos 'stetl', vagyis nagyrészt zsidók lakta kelet-európai mezőváros volt.",
-        "A helyi gazdaság gerince ma a gyümölcstermesztés és az állattartás.",
-        "Régi ortodox fatemplomai a régió féltett kincsei."
-      ],
-      ro: [
-        "Numele orașului se crede că provine din limba cumană antică.",
-        "Înainte de Al Doilea Război Mondial, sinagogile și prăvăliile evreiești dominau centrul orașului.",
-        "Există un monument central dedicat deportaților regimului stalinist.",
-        "Regiunea este renumită pe plan național pentru calitatea excelentă a nucilor și fructelor cultivate."
-      ],
-      en: [
-        "It historically served as a significant 'shtetl' (a market town with a high Jewish population).",
-        "Orchard fruit production and livestock remain the primary economic drivers for the area.",
-        "Ancient wooden Orthodox churches in the town are highly valued local heritage sites.",
-        "The hilly surrounding landscape is part of the scenic Ciuluc valley environment."
-      ]
+      de: ["Erstmals im 17. Jh. erwähnt", "Verwaltungssitz des Rajons", "Ehemaliges jüdisches Schtetl", "Zentrum für Lebensmittelindustrie", "Liegt am Rande der Codru-Wälder", "Knotenpunkt regionaler Straßen"],
+      hu: ["17. századi első említés", "Telenești járás központja", "Híres volt zsidó közösségéről", "Élelmiszeripari központ", "A Codru-erdők közelében fekszik", "Fontos közúti csomópont"],
+      ro: ["Menționat în secolul al XVII-lea", "Reședință de raion administrativ", "Fost centru comercial evreiesc", "Industrie alimentară dezvoltată", "Situat în apropierea Codrilor", "Nod rutier regional important"],
+      en: ["First mentioned in the 17th century", "Administrative district center", "Former Jewish cultural center", "Hub for food processing industry", "Located near the Codru forests", "Strategic regional road junction"],
     }, image: "/poi-images/MD-032-telenesti-city.webp"},
   {
     id: "MD-032-inesti-nature",
@@ -465,35 +238,16 @@ export const moldovaPoi: POI[] = [
     name: { de: "Inești-Landschaft", hu: "Inești tájvédelmi körzet", ro: "Rezervația peisajistică Inești", en: "Inești Landscape Reserve" },
     description: { de: "Ein malerisches Naturschutzgebiet in der Nähe von Telenești.", hu: "Festői természetvédelmi terület Telenești közelében.", ro: "O rezervație peisajistică pitorească lângă Telenești.", en: "A picturesque landscape reserve near Telenești." },
     descriptionAdvanced: {
-      de: "Das Schutzgebiet Inești ist ein unberührtes Waldgebiet mit einer beeindruckenden Mischung aus Eichen und Hainbuchen. Die Flora zeigt eine seltene Mischung aus Steppen- und Waldarten. Es ist ein Rückzugsort vom Lärm der Stadt und wird häufig für ökologische Exkursionen genutzt. Biologie K5 — geschützte Pflanzen.",
-      hu: "Az Inești rezervátum a dombvidéki tölgy- és gyertyánerdők egyik legszebb, érintetlen foltja. Lenyűgöző flórája a sztyeppei és az erdei fajok keveredéséből adódik. Ideális menedék a városi zaj elől, és gyakran látogatják iskolás csoportok is ökológiai túrák céljából. Biológia K5 — védett növények.",
-      ro: "Rezervația peisajistică Inești este o zonă naturală de o frumusețe virgină ascunsă în centrul Republicii Moldova, lângă Telenești. Defileele sale stâncoase, acoperite cu o pădure mixtă de stejar, carpen și frasin, contrastează vizual cu terenurile agricole netede din restul raionului. Această arie protejată funcționează ca un refugiu esențial pentru fauna sălbatică autohtonă, protejând căprioare, vulpi și specii rare de păsări cântătoare. Pădurea Inești este o destinație ideală pentru excursiile ecologice școlare și drumețiile recreative. Biologie clasa a 6-a — conservarea habitatelor.",
-      en: "Inești Landscape Reserve is a pristine, protected forest area near Telenești, noted for its diverse mix of oak and hornbeam trees. The ecosystem is uniquely characterized by a blend of steppe and forest flora, making it a valuable site for ecological education and biodiversity preservation. It remains a tranquil refuge from urban noise, frequently utilized for nature studies. Biology K5 — ecosystem protection and endemic flora."
+      de: "Das Landschaftsschutzgebiet Inești liegt im Rajon Telenești und erstreckt sich über eine Fläche von etwa 406 Hektar. Es ist geprägt durch die steilen Hänge und tiefen Schluchten, die typisch für den Übergang vom moldauischen Plateau zum Becken des Flusses Răut sind. Das Reservat umfasst wertvolle Bestände an alten Eichen- und Hainbuchenwäldern, die zahlreichen seltenen Pflanzen- und Tierarten einen Lebensraum bieten. Die geologische Struktur des Gebiets ist von besonderem Interesse, da hier Kalksteinformationen aus dem Miozän an die Oberfläche treten. Botanisch gesehen beherbergt Inești mehrere geschützte Arten der moldauischen Roten Liste, darunter seltene Orchideenarten. Die Landschaft bietet spektakuläre Ausblicke über die umliegenden Täler und ist ein wichtiges Ziel für ökologische Forschung und Naturtourismus. Der Schutzstatus gewährleistet die Erhaltung der biologischen Vielfalt in einer Region, die ansonsten stark landwirtschaftlich genutzt wird.",
+      hu: "Az Inești tájvédelmi körzet Telenești járásban található, és mintegy 406 hektáron terül el. A területet meredek lejtők és mély szakadékok jellemzik, amelyek a Moldovai-fennsík és a Răut folyó medencéje közötti átmeneti zónára jellemzőek. A rezervátum értékes idős tölgyeseknek és gyertyánosoknak ad otthont, amelyek számos ritka növény- és állatfaj természetes élőhelyei. A körzet geológiai felépítése is figyelemre méltó, mivel itt a miocén korból származó mészkőrétegek bukkannak a felszínre. Botanikai szempontból Inești kiemelkedő jelentőségű, hiszen több, a moldovai Vörös Könyvben szereplő védett faj, köztük ritka orchideák is megtalálhatóak itt. A táj lenyűgöző panorámát nyújt a környező völgyekre, és fontos helyszíne az ökológiai kutatásoknak és a természetjárásnak. A védettségi státusz biztosítja a biodiverzitás megőrzését ebben az intenzíven művelt mezőgazdasági régióban.",
+      ro: "Rezervația peisajistică Inești este situată în raionul Telenești și ocupă o suprafață de aproximativ 406 hectare. Teritoriul este caracterizat prin versanți abrupți și ravene adânci, specifice zonei de tranziție dintre Platoul Moldovei și bazinul râului Răut. Rezervația cuprinde masive forestiere valoroase de stejar și carpen, care oferă un habitat natural pentru numeroase specii rare de floră și faună. Structura geologică a ariei este de un interes deosebit, aici ieșind la suprafață depozite calcaroase de vârstă miocenă. Din punct de vedere botanic, Ineștiul adăpostește mai multe specii incluse în Cartea Roșie a Republicii Moldova, cum ar fi unele varietăți rare de orhidee sălbatice. Peisajul oferă vederi panoramice spectaculoase asupra văilor din jur, fiind o destinație importantă pentru cercetarea ecologică și turismul de natură. Statutul de protecție garantează conservarea biodiversității într-o regiune dominată de activități agricole intense.",
+      en: "The Inești Landscape Reserve is located in the Telenești District, covering an area of approximately 406 hectares. The terrain is defined by its steep slopes and deep ravines, characteristic of the transition zone between the Moldavian Plateau and the Răut River basin. The reserve protects significant stands of ancient oak and hornbeam forests, which serve as a habitat for various rare plant and animal species. The geological structure of the area is particularly noteworthy, featuring Miocene-aged limestone outcrops that are visible at the surface. Botanically, Inești is home to several species listed in the Red Data Book of Moldova, including rare varieties of wild orchids. The landscape offers dramatic panoramic views over the surrounding valleys, making it a key location for ecological research and nature tourism. Its protected status is essential for maintaining biodiversity within a region otherwise dominated by intensive agricultural production.",
     },
     factsAdvanced: {
-      de: [
-        "Das Gebiet ist ein typisches Beispiel für die sanfte moldauische Hügellandschaft.",
-        "Im Herbst präsentieren sich die Hainbuchen in einer bunten Farbpalette.",
-        "Es ist das Zuhause zahlreicher geschützter Vogelarten und kleiner Säugetiere.",
-        "Die unberührte Natur bietet einen hohen ökologischen Wert."
-      ],
-      hu: [
-        "A terület a lágy, lankás moldovai dombvidék tipikus példája.",
-        "Ősszel a gyertyánok ezernyi színben pompáznak a domboldalakon.",
-        "Számos védett madárfaj és kisemlős otthona."
-      ],
-      ro: [
-        "Este unul dintre puținele masive forestiere neafectate de exploatare industrială din centrul țării.",
-        "Solul rezervației este extrem de bogat, adăpostind specii rare de ciuperci sălbatice.",
-        "Mai multe izvoare cu apă cristalină se formează în aceste văi și alimentează rețeaua hidrografică locală.",
-        "Aria protejată acoperă un teritoriu de aproximativ o mie de hectare de teren colinar."
-      ],
-      en: [
-        "The reserve represents a classic example of Moldova's gentle hill-country terrain.",
-        "Diverse tree species create a rich, changing color palette throughout the autumn season.",
-        "The forest provides a sheltered, natural habitat for various protected birds and small mammals.",
-        "This untouched area holds significant ecological value for regional environmental monitoring."
-      ]
+      de: ["Gesamtfläche von 406 Hektar", "Liegt im Rajon Telenești", "Schützt alte Eichenwälder", "Geologie aus dem Miozän", "Heimat seltener Orchideen", "Teil des Răut-Flussbeckens"],
+      hu: ["Területe: 406 hektár", "Telenești járásban található", "Ősi tölgyerdők védelme", "Miocén kori mészkőformák", "Ritka orchideafajok élőhelye", "A Răut folyó vízgyűjtője"],
+      ro: ["Suprafață de 406 hectare", "Situată în raionul Telenești", "Protejează păduri de stejar", "Depozite geologice miocene", "Adăpostește specii de orhidee", "Aproape de bazinul Răutului"],
+      en: ["Covers 406 hectares", "Located in Telenești District", "Protects old-growth oak forests", "Miocene-aged geological features", "Habitat for rare wild orchids", "Near the Răut River basin"],
     }, image: "/poi-images/MD-032-inesti-nature.webp"},
   {
     id: "MD-033-soldanesti-city",
@@ -503,35 +257,16 @@ export const moldovaPoi: POI[] = [
     name: { de: "Șoldănești", hu: "Șoldănești", ro: "Șoldănești", en: "Șoldănești" },
     description: { de: "Eine kleine Stadt im Nordosten Moldaus am Dnister-Einzugsgebiet.", hu: "Kisváros Moldova északkeleti részén, a Dnyeszter vízgyűjtő területén.", ro: "Un oraș mic în nord-estul Moldovei, în bazinul Nistrului.", en: "A small town in northeastern Moldova in the Dniester catchment area." },
     descriptionAdvanced: {
-      de: "Șoldănești ist ein ruhiges Verwaltungs- und Eisenbahnzentrum im Hügelland am Dnister. Der im 19. Jahrhundert gebaute Bahnhof förderte die lokale Wirtschaft. Die Gegend ist reich an Wäldern und Kalksteinquellen, was sie für den Ökotourismus sehr attraktiv macht. Geographie K6 — natürliche Ressourcen.",
-      hu: "Șoldănești a Dnyeszter-menti dombvidék csendes közigazgatási és vasúti központja. A 19. században épült vasútállomása fellendítette az itt élők gazdaságát. A vidék rendkívül gazdag erdőkben és mészkőforrásokban, amelyek ígéretes ökoturisztikai potenciállal bírnak. Földrajz K6 — természeti erőforrások.",
-      ro: "Orașul Șoldănești, așezat grațios în valea fertilă a bazinului hidrografic al Nistrului, este un nod agro-industrial esențial în nord-estul țării. Crescut în jurul unei importante gări de cale ferată, orașul a integrat armonios dezvoltarea infrastructurii cu protejarea frumuseților sale naturale. Înconjurat de podgorii extinse și păduri de foioase, Șoldănești respiră un aer curat și tradițional. Este punctul de plecare perfect pentru explorarea numeroaselor peșteri carstice, cascade și așezări monahale izolate din raion, fiind considerat o zonă cu uriaș potențial ecoturistic. Geografie clasa a 7-a — dezvoltarea prin infrastructură feroviară.",
-      en: "Șoldănești is a quiet administrative town located in the northeastern hills near the Dniester river basin. The establishment of its railway station in the 19th century was a major turning point for the local economy. The surrounding region is characterized by lush forests and pure limestone springs, making it an emerging destination for regional ecotourism. Geography K6 — railway infrastructure and local development."
+      de: "Șoldănești ist eine Stadt im Nordosten der Republik Moldau und das administrative Zentrum des Rajons Șoldănești. Die Stadt liegt im Tal des Flusses Ciorna und ist historisch eng mit dem Bau der Eisenbahnlinie Rîbnița-Bălți Ende des 19. Jahrhunderts verbunden, die den Ort zu einem wichtigen Verkehrsknotenpunkt machte. Diese Entwicklung förderte die Ansiedlung von Industrie- und Handelsbetrieben, insbesondere im Agrarsektor. In der Umgebung von Șoldănești befinden sich mehrere bedeutende historische und natürliche Stätten, darunter alte Klöster und Naturschutzgebiete. Während der Sowjetzeit war die Stadt bekannt für ihre Weinproduktion und Getreideverarbeitung. Ein ungewöhnliches Überbleibsel des Kalten Krieges ist ein riesiger, unvollendeter sowjetischer Militärbunker in der Nähe der Stadt, der als „Objekt 1180“ bekannt ist. Heute ist Șoldănești eine ruhige Provinzstadt, die als regionales Zentrum für Bildung und lokale Verwaltung fungiert.",
+      hu: "Șoldănești városa Moldova északkeleti részén található, és az azonos nevű járás közigazgatási központja. A Ciorna folyó völgyében fekvő település fejlődése szorosan összefüggött a Rîbnița-Bălți vasútvonal 19. század végi megépítésével, amely fontos közlekedési és logisztikai csomóponttá tette a várost. A vasút ösztönözte az ipari és kereskedelmi vállalkozások betelepülését, különösen a mezőgazdasági feldolgozóiparban. Șoldănești környéke gazdag történelmi és természeti látnivalókban, többek között ősi kolostorok és erdőrezervátumok találhatók a közelben. A szovjet korszakban a bortermelés és a gabonafeldolgozás volt a gazdaság húzóágazata. A város közelében található a hidegháború egyik különös emléke, egy hatalmas, befejezetlen szovjet katonai bunker, az úgynevezett „1180-as objektum”. Ma a város csendes regionális központ, amely fontos szerepet tölt be a térség oktatásában és közigazgatásában.",
+      ro: "Șoldănești este un oraș situat în partea de nord-est a Republicii Moldova, fiind centrul administrativ al raionului Șoldănești. Orașul este amplasat în valea râului Ciorna și a cunoscut o dezvoltare accelerată la sfârșitul secolului al XIX-lea, odată cu construcția liniei ferate Rîbnița-Bălți, care a transformat localitatea într-un nod de transport esențial. Această infrastructură a facilitat apariția unor întreprinderi industriale și comerciale, în special în sectorul agroalimentar. Regiunea Șoldănești este renumită pentru numeroasele sale monumente istorice și naturale din proximitate, inclusiv mănăstiri vechi și arii protejate. În perioada sovietică, orașul s-a remarcat prin producția de vinuri și procesarea cerealelor. Un punct de interes neobișnuit în apropiere este buncărul militar sovietic nefinalizat, cunoscut sub numele de „Obiectivul 1180”, unul dintre cele mai mari din fosta URSS. În prezent, Șoldăneștiul este un centru administrativ și cultural important pentru populația locală.",
+      en: "Șoldănești is a town located in northeastern Moldova, serving as the administrative headquarters of the Șoldănești District. Situated in the picturesque valley of the Ciorna River, the town's growth was significantly influenced by the construction of the Rîbnița-Bălți railway line in the late 19th century, which established it as a vital transportation hub. This connectivity spurred the establishment of industrial and commercial enterprises, primarily focused on the agricultural sector. The area surrounding Șoldănești is rich in historical and natural sites, including ancient monasteries and protected forest reserves. During the Soviet period, the town was a notable center for wine production and grain processing. A unique Cold War landmark near the town is the massive, unfinished Soviet military bunker known as 'Object 1180,' intended to be a command center. Today, Șoldănești functions as a quiet provincial center, providing essential educational and administrative services to the surrounding region.",
     },
     factsAdvanced: {
-      de: [
-        "Durch die Stadt verläuft die Bahnstrecke zwischen Bălți und dem Dnister.",
-        "Die Landwirtschaft, vor allem Mais- und Sonnenblumenanbau, prägt die Region.",
-        "In der Umgebung gibt es zahlreiche reine Kalksteinquellen.",
-        "Die Stadt ist ideal für den Ökotourismus in der Region."
-      ],
-      hu: [
-        "Központján halad át a Bălți és a Dnyeszter mentét összekötő vasút.",
-        "A helyiek nagy része mezőgazdaságból, főleg kukorica- és napraforgó-termesztésből él.",
-        "A város határában több tiszta vizű, mészkőrétegekből fakadó forrás található."
-      ],
-      ro: [
-        "Gara din Șoldănești este una dintre clădirile istorice reprezentative, construită în stil imperial rus.",
-        "Populația orașului are o tradiție îndelungată în pomicultură, în special în cultivarea mărului și prunului.",
-        "Pe parcursul istoriei a fost un punct de legătură crucial între Bălți și regiunile estice.",
-        "În raionul Șoldănești se află cel mai spectaculos complex de mănăstiri rupestre (Saharna și Țipova)."
-      ],
-      en: [
-        "The railway line linking Bălți and the Dniester River remains a key economic connection.",
-        "Regional agriculture, primarily corn and sunflower cultivation, drives the local economy.",
-        "Numerous clean, natural limestone-filtered water springs are found in the surrounding countryside.",
-        "Șoldănești serves as an excellent base for ecotourism activities in northern Moldova."
-      ]
+      de: ["Zentrum des Rajons Șoldănești", "Eisenbahnanschluss seit 19. Jh.", "Liegt im Tal des Flusses Ciorna", "Bekannt für Getreideverarbeitung", "Nahe dem Bunker „Objekt 1180“", "Historisch wichtiges Handelszentrum"],
+      hu: ["Șoldănești járási központ", "19. századi vasútvonal érinti", "A Ciorna folyó völgyében fekszik", "Gabonafeldolgozás jellemzi", "Közelében van az 1180-as bunker", "Történelmi kereskedőváros"],
+      ro: ["Reședința raionului Șoldănești", "Nod feroviar din sec. XIX", "Situat pe râul Ciorna", "Centru de prelucrare a cerealelor", "Lângă buncărul „Obiectiv 1180”", "Dezvoltat prin comerț agro-industrial"],
+      en: ["Capital of Șoldănești District", "Railway link since late 1800s", "Located on the Ciorna River", "Center for grain processing", "Near the 'Object 1180' bunker", "Historically significant trade hub"],
     }, image: "/poi-images/MD-033-soldanesti-city.webp"},
   {
     id: "MD-033-poiana-curtii",
@@ -541,35 +276,16 @@ export const moldovaPoi: POI[] = [
     name: { de: "Poiana-Curții-Wald", hu: "Poiana Curții erdő", ro: "Pădurea Poiana Curții", en: "Poiana Curții Forest" },
     description: { de: "Ein geschütztes Waldgebiet mit wertvollen Baumarten.", hu: "Védett erdőség értékes fafajokkal.", ro: "O zonă forestieră protejată cu specii de arbori valoroase.", en: "A protected forest area with valuable tree species." },
     descriptionAdvanced: {
-      de: "Der Wald Poiana Curții ist ein streng geschütztes Naturgebiet, das vor allem wegen seiner Traubeneichen national bedeutend ist. In den dichten alten Wäldern herrscht ein kühles Mikroklima, das einen Lebensraum für seltene Pilze und Insekten bietet. Kommerzielle Abholzung ist hier streng untersagt. Biologie K6 — heimische Wälder.",
-      hu: "A Poiana Curții erdő egy szigorúan védett természeti terület, amely kocsánytalan tölgyesei miatt kapott nemzeti jelentőséget. A sűrű, régi fák között a mikroklíma hűvös és párás, ami kiváló élőhelyet teremt a gombáknak és a ritka rovarfajoknak. A területen tilos a kereskedelmi fakitermelés. Biológia K6 — őshonos erdők.",
-      ro: "Pădurea Poiana Curții este un sanctuar verde majestuos și o comoară națională a Republicii Moldova. Această arie forestieră protejată este celebră pentru stejarii săi seculari enormi, unii cu o vechime impresionantă de sute de ani. Frunzișul dens al arborilor creează o atmosferă umbroasă și liniștită, servind drept casă sigură pentru o multitudine de mamifere și păsări protejate de lege. Ecosistemul de aici este păstrat cu strictețe, fiind considerat un fond genetic natural de importanță națională pentru cercetarea silvică. Biologie clasa a 7-a — ecosisteme forestiere valoroase.",
-      en: "Poiana Curții is a strictly protected forest area valued for its ancient sessile oak population. The dense canopy creates a unique, cool microclimate that supports rare fungi and various insect species. As a conservation area, commercial logging is prohibited to ensure the long-term health of the native forest. Biology K6 — forest ecology and conservation."
+      de: "Das Waldreservat Poiana Curții ist ein bedeutendes Naturschutzgebiet im Rajon Șoldănești und umfasst eine Fläche von etwa 21 Hektar. Es stellt einen repräsentativen Ausschnitt der Waldsteppenvegetation des moldauischen Plateaus dar und zeichnet sich durch eine hohe botanische Diversität aus. Der Wald besteht primär aus Flaumeichen (Quercus pubescens) und Stieleichen, die an die trockeneren Bedingungen der Region angepasst sind. In den Lichtungen des Waldes findet man zahlreiche seltene Steppenpflanzen, von denen einige auf der Roten Liste gefährdeter Arten stehen. Geologisch ist das Gebiet durch Kalksteinfelsen geprägt, die interessante Mikrohabitate für Farne und Moose bilden. Das Reservat dient als wichtiger Rückzugsort für die lokale Fauna und bietet Forschern wertvolle Einblicke in die Dynamik natürlicher Wald-Steppen-Ökosysteme. Der Schutz des Gebiets ist entscheidend, um die genetische Vielfalt der autochthonen Flora in der Nordmoldau zu bewahren.",
+      hu: "A Poiana Curții erdőrezervátum Șoldănești járásban található, és mintegy 21 hektáros területével a térség egyik fontos természetvédelmi területe. A rezervátum a Moldovai-fennsík erdőssztyepp növényzetének reprezentatív mintája, amelyet rendkívül gazdag botanikai sokféleség jellemez. Az erdő állományát elsősorban molyhos tölgyek (Quercus pubescens) és kocsányos tölgyek alkotják, amelyek jól alkalmazkodtak a régió szárazabb éghajlatához. Az erdőszéleken és tisztásokon számos ritka sztyeppei növényfaj fordul elő, amelyek közül több szerepel a moldovai Vörös Könyvben. Geológiai szempontból a területet mészkősziklák teszik változatossá, amelyek különleges mikroélőhelyeket biztosítanak a páfrányok és mohák számára. A rezervátum fontos menedékhely a helyi állatvilág számára, és értékes terepet biztosít az ökológiai kutatásokhoz. A terület védelme kulcsfontosságú az észak-moldovai őshonos flóra genetikai diverzitásának megőrzéséhez.",
+      ro: "Rezervația silvică Poiana Curții este o arie protejată situată în raionul Șoldănești, acoperind o suprafață de circa 21 de hectare. Aceasta reprezintă un fragment valoros de vegetație de silvostepă, specific Podișului Moldovei de Nord, remarcându-se printr-o diversitate botanică ridicată. Masivul forestier este compus preponderent din stejar pufos (Quercus pubescens) și stejar pedunculat, specii adaptate condițiilor climatice mai aride din această zonă. În poienile rezervației pot fi întâlnite numeroase plante rare de stepă, unele dintre ele fiind incluse în Cartea Roșie a Republicii Moldova. Din punct de vedere geologic, teritoriul este marcat de prezența unor aflorimente calcaroase, care creează microhabitate specifice pentru ferigi și mușchi. Rezervația constituie un refugiu important pentru fauna locală și un laborator natural pentru studiul dinamicii ecosistemelor forestiere. Conservarea acestei arii este esențială pentru menținerea fondului genetic al florei autohtone.",
+      en: "The Poiana Curții Forest Reserve is a significant protected area in the Șoldănești District, encompassing approximately 21 hectares of land. It represents a vital sample of the forest-steppe vegetation typical of the Northern Moldavian Plateau, characterized by high botanical diversity. The woodland is primarily composed of Pubescent oak (Quercus pubescens) and Pedunculate oak, species well-adapted to the region's semi-arid climatic conditions. Within the forest glades, numerous rare steppe plants can be found, several of which are listed in the Red Data Book of Moldova. Geologically, the area is defined by limestone outcrops that create unique microhabitats for ferns and mosses. The reserve serves as an important refuge for local fauna and offers researchers valuable insights into the dynamics of natural forest-steppe ecosystems. Protecting this area is crucial for preserving the genetic diversity of indigenous flora in northern Moldova.",
     },
     factsAdvanced: {
-      de: [
-        "Dies ist einer der letzten Rückzugsorte für die Traubeneiche in der Region.",
-        "Das Blätterdach ist im Sommer nahezu undurchdringlich für Regen.",
-        "Der Wald ist Teil des registrierten nationalen Naturerbes.",
-        "Die strenge Schutzregelung dient der Erhaltung der Artenvielfalt."
-      ],
-      hu: [
-        "Ez az egyik utolsó menedéke a kocsánytalan tölgynek a régióban.",
-        "A lombkoronaszint szinte áthatolhatatlan az eső számára nyáron.",
-        "A moldovai nemzeti természeti örökség nyilvántartott része."
-      ],
-      ro: [
-        "Mulți stejari de aici au diametre ale trunchiului ce depășesc un metru și jumătate.",
-        "Este strict interzisă tăierea arborilor, zona fiind dedicată exclusiv cercetării științifice și conservării.",
-        "Aici au fost identificate specii rare de lilieci forestieri și insecte endemice protejate.",
-        "Pădurea acționează ca un filtru uriaș care protejează puritatea apelor freatice din zonă."
-      ],
-      en: [
-        "The reserve protects one of the region's remaining populations of native sessile oak.",
-        "The dense tree canopy significantly influences the forest floor's microclimate during summer.",
-        "It is officially designated as part of Moldova's national natural heritage.",
-        "Strict conservation measures are in place to support local forest biodiversity."
-      ]
+      de: ["Fläche von ca. 21 Hektar", "Liegt im Rajon Șoldănești", "Schutz von Flaumeichenbeständen", "Botanische Vielfalt der Waldsteppe", "Kalksteinfelsen im Gebiet", "Rückzugsort für seltene Pflanzen"],
+      hu: ["Területe: kb. 21 hektár", "Șoldănești járásban fekszik", "Molyhos tölgyek védelme", "Erdőssztyepp ökoszisztéma", "Mészkősziklák jellemzik", "Védett növények élőhelye"],
+      ro: ["Suprafață de cca. 21 hectare", "Situată în raionul Șoldănești", "Protejează stejarul pufos", "Ecosistem tipic de silvostepă", "Prezența rocilor calcaroase", "Adăpostește plante rare"],
+      en: ["Area of approx. 21 hectares", "Located in Șoldănești District", "Protects Pubescent oak stands", "Typical forest-steppe ecosystem", "Features limestone rock outcrops", "Habitat for endangered plants"],
     }, image: "/poi-images/MD-033-poiana-curtii.webp"},
   {
     id: "MD-034-floresti-city",
@@ -579,35 +295,16 @@ export const moldovaPoi: POI[] = [
     name: { de: "Florești", hu: "Florești", ro: "Florești", en: "Florești" },
     description: { de: "Eine bedeutende Industriestadt im Norden am Fluss Răut.", hu: "Jelentős ipari város északon, a Răut-folyó partján.", ro: "Un oraș industrial important în nord, pe râul Răut.", en: "A significant industrial city in the north on the Răut River." },
     descriptionAdvanced: {
-      de: "Florești ist eine dynamische Industriestadt im Norden Moldaus am Fluss Răut. Ursprünglich eine Agrarsiedlung, entwickelte sie sich in der Sowjetzeit zu einem Zentrum der Glas- und Lebensmittelindustrie. Heute ist sie ein wichtiger Logistikknotenpunkt und Handelszentrum. Geographie K7 — Industrialisierung.",
-      hu: "Florești egy forgalmas ipari- és agrárváros Észak-Moldovában, a Răut folyó völgyében. Történelmileg egy csendes falu volt, a szovjet időszak iparosítása és vasútépítése azonban hatalmas üveg- és élelmiszergyárakat telepített ide. Napjainkban fontos vasúti logisztikai központ. Földrajz K7 — iparosítás hatása.",
-      ro: "Florești este un oraș nordic dinamic și o veritabilă forță industrială, desfășurat de-a lungul malurilor pitorești ale râului Răut. De la originea sa ca așezare agrară, s-a transformat fulminant într-un gigant industrial în epoca sovietică, având cele mai mari fabrici de prelucrare a sticlei și a tutunului din regiune. Deși industria grea a scăzut în intensitate, Florești a reușit să-și reinventeze economia, păstrându-se ca un centru de distribuție și comerț efervescent. Parcurile sale publice verzi și diversitatea culturală a locuitorilor îl fac un oraș vibrant. Economie clasa a 8-a — reconversie industrială.",
-      en: "Florești is a northern industrial town on the Răut River that transformed from a small agricultural village into a center for glass and food production during the Soviet era. While its heavy industry base has evolved, it continues to serve as an important logistics node and distribution hub in northern Moldova. The town's architecture and parks reflect its rapid growth in the mid-20th century. Geography K7 — industrial history and infrastructure."
+      de: "Florești ist eine bedeutende Stadt im Norden der Republik Moldau und liegt malerisch am Ufer des Flusses Răut. Die Stadt blickt auf eine lange Siedlungsgeschichte zurück; archäologische Ausgrabungen in der Umgebung haben Überreste der Cucuteni-Tripolje-Kultur aus dem 4. Jahrtausend v. Chr. ans Licht gebracht. Die heutige Stadt entwickelte sich ab dem 19. Jahrhundert zu einem wichtigen Handelsplatz und Industriestandort. Ein entscheidender Faktor für das Wachstum war der Bau der Eisenbahnstrecke, die Florești mit anderen Landesteilen verband. Die lokale Wirtschaft wird heute von der Lebensmittelindustrie, insbesondere der Zuckerproduktion und Milchverarbeitung, geprägt. Florești dient als administratives Zentrum des gleichnamigen Rajons und verfügt über wichtige kulturelle Einrichtungen wie ein regionales Museum und Bibliotheken. Die Stadt ist zudem bekannt für ihre Eisenbrücke über den Răut, die ein markantes technisches Denkmal darstellt. Durch ihre Lage ist sie ein wichtiger Verkehrsknotenpunkt im moldauischen Norden.",
+      hu: "Florești egy jelentős észak-moldovai város, amely a Răut folyó festői partján fekszik. A település és környéke hosszú múltra tekint vissza; a régészeti ásatások során a Kr. e. 4. évezredből származó Cucuteni-Tripolje kultúra nyomait is megtalálták itt. A modern város fejlődése a 19. században kezdődött, amikor fontos kereskedelmi és ipari központtá vált. A növekedés kulcsfontosságú tényezője a vasút megépítése volt, amely összekötötte Floreștit az ország többi részével. A helyi gazdaság pillérei ma az élelmiszeripar, különösen a cukorgyártás és a tejfeldolgozás. Florești az azonos nevű járás közigazgatási központja, ahol számos kulturális intézmény, például regionális múzeum és könyvtár működik. A város jellegzetes technikai emléke a Răut folyón átívelő vashíd. Földrajzi elhelyezkedése révén Florești fontos logisztikai csomópont Moldova északi régiójában.",
+      ro: "Florești este un oraș important din nordul Republicii Moldova, situat pe malurile râului Răut. Localitatea are o istorie de așezare foarte veche, cercetările arheologice din zonă descoperind vestigii ale culturii Cucuteni-Tripolie care datează din mileniul al IV-lea î.Hr. Dezvoltarea orașului modern s-a accelerat în secolul al XIX-lea, când a devenit un centru comercial și industrial relevant în regiune. Un factor determinant pentru expansiunea urbană a fost construcția căii ferate, care a conectat Floreștiul cu principalele noduri economice ale țării. Economia actuală a orașului este susținută de industria alimentară, remarcându-se în special producția de zahăr și prelucrarea produselor lactate. Floreștiul servește drept reședință a raionului omonim, găzduind instituții administrative și culturale importante, precum Muzeul de Istorie și Etnografie. Un simbol al orașului este podul de fier peste Răut, un monument de inginerie civilă. Orașul rămâne un punct strategic de tranzit în nordul țării.",
+      en: "Florești is a significant city in northern Moldova, situated along the scenic banks of the Răut River. The area boasts a very ancient history of human settlement, with archaeological excavations uncovering remains of the Cucuteni-Trypillia culture dating back to the 4th millennium BC. The modern town began to flourish in the 19th century as it developed into a major commercial and industrial hub for the region. A pivotal factor in its urban expansion was the establishment of the railway, which linked Florești to other major economic centers in Moldova. Today, the local economy is anchored by the food processing industry, notably sugar production and dairy manufacturing. Florești serves as the administrative capital of the Florești District and is home to several cultural institutions, including a regional history museum. A notable landmark is the historic iron bridge spanning the Răut River, a testament to early 20th-century engineering. Its location makes it a vital transit point in the northern part of the country.",
     },
     factsAdvanced: {
-      de: [
-        "Die örtliche Glasfabrik war lange Zeit einer der Hauptlieferanten für Südosteuropa.",
-        "Der Name soll von den Blumen in den alten Gutshöfen stammen.",
-        "Die Architektur ist stark von der Sowjetzeit der 60er und 70er Jahre geprägt.",
-        "Der Bahnhof ist ein wichtiges logistisches Zentrum für den Getreideexport."
-      ],
-      hu: [
-        "Helyi üveggyára hosszú ideig a Szovjetunió egyik fő palackellátója volt.",
-        "A vasútállomás a 19. század vége óta üzemel folyamatosan.",
-        "Lakossága hagyományosan multikulturális, ukrán, zsidó és moldáv gyökerekkel."
-      ],
-      ro: [
-        "Fabrica de sticlărie de la Florești a fost odată principalul furnizor al Europei de Sud-Est.",
-        "Legendele spun că numele orașului este legat de florile abundente (flori) cultivate în vechile curți boierești.",
-        "Arhitectura orașului este predominant marcată de influența constructivistă sovietică a anilor '60-'70.",
-        "Gara din Florești este un important hub logistic pentru exportul de cereale către Ucraina și UE."
-      ],
-      en: [
-        "The city's glass factory was historically a key supplier for the Southeast European region.",
-        "Florești's growth in the 1960s and 70s defined much of its current modernist architecture.",
-        "The local railway station remains a crucial logistics hub for regional grain exports.",
-        "The city's name is associated with the historical tradition of gardening on local estates."
-      ]
+      de: ["Stadt am Fluss Răut", "Zentrum des Rajons Florești", "Cucuteni-Tripolje Fundstätten", "Wichtiger Eisenbahnknoten", "Zentrum der Zuckerindustrie", "Historische Eisenbrücke"],
+      hu: ["A Răut folyó partján fekszik", "Florești járás központja", "Cucuteni-Tripolje leletek", "Fontos vasúti csomópont", "Cukor- és tejipar jellemzi", "Híres régi vashídja van"],
+      ro: ["Oraș situat pe râul Răut", "Reședința raionului Florești", "Vestigii Cucuteni-Tripolie", "Nod feroviar important", "Industria zahărului dezvoltată", "Pod de fier istoric peste Răut"],
+      en: ["Located on the Răut River", "Administrative district center", "Cucuteni-Trypillia artifacts", "Key regional railway hub", "Sugar and dairy industry hub", "Features a historic iron bridge"],
     }, image: "/poi-images/MD-034-floresti-city.webp"},
   {
     id: "MD-034-japca-monastery",
@@ -617,36 +314,17 @@ export const moldovaPoi: POI[] = [
     name: { de: "Kloster Japca", hu: "Japca kolostor", ro: "Mănăstirea Japca", en: "Japca Monastery" },
     description: { de: "Ein Frauenkloster am Dnister, bekannt für seine Beständigkeit.", hu: "Női kolostor a Dnyeszter partján, állhatatosságáról ismert.", ro: "O mănăstire de maici pe Nistru, cunoscută pentru continuitatea sa.", en: "A nunnery on the Dniester, known for its persistence." },
     descriptionAdvanced: {
-      de: "Das Kloster Japca ist ein legendäres Symbol für den Widerstand des Glaubens am Dnister. Als einziges Kloster in Moldau blieb es während der gesamten Sowjetzeit für Nonnen geöffnet. Neben der prächtigen oberirdischen Kirche gibt es alte Zellen, die direkt in den Felsen gehauen wurden. Geschichte K8 — religiöse Verfolgung.",
-      hu: "A Japca kolostor az ortodox hit tartóoszlopa, egy női szerzetesközösség, amely dacolt az idők viharaival. Gyönyörű mészkőfalakba faragott korai kápolnái és díszes felszíni temploma lenyűgöző látványt nyújt. Szép, teraszos kertjei a Dnyeszter folyó vizére néznek. Történelem K8 — vallásüldözés és túlélés.",
-      ro: "Mănăstirea Japca este un simbol legendar al rezistenței credinței, așezată dramatic pe un versant stâncos, privind spre cursul meandrat al Nistrului. Deosebită prin faptul că este o mănăstire de maici, este singurul așezământ monahal din Moldova care a sfidat deceniile de ateism de stat, rămânând deschis și activ pe parcursul întregii perioade sovietice. Pe lângă bisericile terestre frumos pictate, mănăstirea include chilii vechi tăiate direct în stânca abruptă. Pelerinii vizitează frecvent și izvoarele vindecătoare din preajmă. Istorie clasa a 7-a — rezistența culturală și spirituală.",
-      en: "Japca Monastery is a unique and resilient nunnery located on the Dniester River banks. It holds the distinction of being the only monastery in Moldova that remained open and operational during the entire Soviet era. The complex features both modern surface-level churches and ancient monk cells carved directly into the limestone cliffs, offering a testament to religious endurance in the region. History K8 — religious history and cultural resilience."
+      de: "Das Kloster Japca, gelegen am rechten Ufer des Flusses Dnister im Bezirk Florești, ist ein bedeutendes spirituelles Zentrum Moldaus. Es wurde im 17. Jahrhundert, etwa um 1693, gegründet und ist historisch einzigartig, da es das einzige Kloster im Land war, das während der gesamten Sowjetzeit ununterbrochen in Betrieb blieb. Der Komplex umfasst eine Felsenkirche, die der Erhöhung des Heiligen Kreuzes geweiht ist, sowie mehrere Bodenkirchen und Wirtschaftsgebäude aus dem 19. Jahrhundert. Die Architektur der Hauptkirche zeigt klassizistische Einflüsse mit traditionellen moldauischen Elementen und einer massiven Steinstruktur. Besucher finden auf dem Gelände auch heilige Quellen, denen seit Generationen heilende Kräfte zugeschrieben werden. Die Lage auf einer natürlichen Felsterrasse bietet einen weiten Blick über die Flusslandschaft bis hin zur ukrainischen Grenze. Heute beherbergt das Kloster eine aktive Gemeinschaft von Nonnen, die sich der Erhaltung des religiösen Erbes und der Landwirtschaft widmen.",
+      hu: "A Japca kolostor Moldova északi részén, a Dnyeszter folyó jobb partján, Florești járásban található. Az 1693 körül alapított kolostor történelmi jelentősége abban rejlik, hogy ez volt az egyetlen szerzetesi közösség Moldovában, amely a szovjet vallásüldözés idején is folyamatosan működött. A komplexum egy sziklába vájt templomból, valamint több, a 19. században épült felszíni templomból áll, amelyek közül a Szent Kereszt Felmagasztalása templom a legjelentősebb. Az épületegyüttes klasszicista stílusjegyeket hordoz, miközben hű marad a moldovai ortodox építészeti hagyományokhoz. A kolostor területén több szent forrás is található, amelyek vizét a hívők gyógyító erejűnek tartják. A meredek folyóparton elhelyezkedő épületek látványa és a csendes környezet fontos zarándokhellyé teszi a helyszínt. Jelenleg női kolostorként üzemel, ahol a nővérek aktív mezőgazdasági tevékenységet és kézműves munkát is folytatnak.",
+      ro: "Mănăstirea Japca, situată pe malul drept al râului Nistru în raionul Florești, reprezintă un punct de referință pentru viața monahală din Republica Moldova. Fondată în secolul al XVII-lea, în jurul anului 1693, aceasta este singura mănăstire din spațiul moldovenesc care nu a fost închisă niciodată de către autoritățile sovietice, menținându-și activitatea neîntreruptă. Complexul monastic include o biserică rupestră veche și biserica principală cu hramul Înălțarea Sfintei Cruci, reconstruită în stil neoclasic în secolul al XIX-lea. Amplasarea sa strategică pe o terasă stâncoasă oferă o panoramă spectaculoasă asupra văii Nistrului și a regiunilor învecinate. Pe lângă importanța spirituală, mănăstirea este cunoscută și pentru cele câteva izvoare de apă minerală din apropiere, considerate tămăduitoare. Comunitatea de maici de aici păstrează tradiții seculare de rânduială bisericească, contribuind esențial la conservarea patrimoniului cultural și religios național.",
+      en: "Japca Monastery, situated on the right bank of the Dniester River in the Florești District, is a cornerstone of Moldovan Orthodox spirituality. Established in the late 17th century, around 1693, it holds the distinction of being the only monastery in Moldova that remained operational throughout the entire Soviet era. The complex features a historic cave church carved into the limestone cliff and a central stone church dedicated to the Exaltation of the Holy Cross, which dates back to the 19th century. Its architectural ensemble reflects a blend of traditional Moldovan styles and Neoclassical influences. The site is also famous for its multiple holy springs, which attract numerous pilgrims seeking spiritual and physical healing. Positioned on a natural terrace, the monastery offers a commanding view of the river landscape and the border with Ukraine. Today, it remains an active nunnery where the sisters maintain extensive gardens and preserve ancient religious traditions and liturgical chants.",
     },
     factsAdvanced: {
-      de: [
-        "Es war das einzige Kloster in Moldau, das während der Sowjetzeit nie geschlossen wurde.",
-        "Teile der Anlage wurden im 17. Jahrhundert in den Fels gehauen.",
-        "Im Klostergarten sprudeln kristallklare, heilende Quellen.",
-        "Die Nonnen setzen alte klösterliche Traditionen wie Ikonenmalerei fort."
-      ],
-      hu: [
-        "Ez volt az egyetlen kolostor Moldovában, amit a szovjetek nem tudtak bezáratni.",
-        "Eredeti részeit a 17. században vájták a meredek sziklafalba.",
-        "Udvarán több bővizű, kristálytiszta forrás csobog."
-      ],
-      ro: [
-        "Nu a fost închisă niciodată pe parcursul secolului XX, o realizare considerată de credincioși o minune.",
-        "Biserica principală este construită într-un stil care îmbină elemente rusești (turle sub formă de ceapă) și moldovenești.",
-        "În incintă trăiesc maici care practică și azi meșteșuguri monahale străvechi (țesut, pictură de icoane).",
-        "Așezământul rupestru anexat a servit inițial ca ascunzătoare împotriva invaziilor tătare."
-      ],
-      en: [
-        "Japca is famously known as the only monastery in Moldova never closed during the Soviet period.",
-        "The complex includes cave cells dating back to the 17th century.",
-        "Healing natural springs located within the monastery gardens are popular with local pilgrims.",
-        "Nuns at the monastery maintain traditional crafts, including icon painting and weaving."
-      ]
-    }
+      de: ["Gegründet um das Jahr 1693 am Ufer des Dnister.", "Einziges moldauisches Kloster, das in der Sowjetzeit nie geschlossen wurde.", "Verfügt über eine in den Kalkstein gehauene Felsenkirche.", "Die Hauptkirche wurde im 19. Jahrhundert im klassizistischen Stil erbaut.", "Beherbergt mehrere heilige Quellen mit Mineralwasser.", "Liegt etwa 160 Kilometer nördlich der Hauptstadt Chișinău."],
+      hu: ["A kolostort 1693 körül alapították a Dnyeszter partján.", "Ez az egyetlen moldovai kolostor, amely a szovjet érában is nyitva maradt.", "Egyik temploma közvetlenül a mészkősziklába van vésve.", "A főtemplom a 19. században épült klasszicista stílusban.", "Területén több gyógyhatásúnak tartott forrás fakad.", "Körülbelül 10 kilométerre fekszik Camenca városától."],
+      ro: ["Mănăstirea a fost fondată în jurul anului 1693 pe malul Nistrului.", "Este singura mănăstire din Moldova care a funcționat continuu în perioada sovietică.", "Complexul include o biserică rupestră săpată în stâncă de calcar.", "Biserica principală a fost reconstruită în secolul al XIX-lea în stil neoclasic.", "Adăpostește mai multe izvoare cu apă minerală considerate tămăduitoare.", "Se află la o distanță de aproximativ 160 kilometri de Chișinău."],
+      en: ["Founded around 1693 on the banks of the Dniester River.", "The only monastery in Moldova never closed during the Soviet period.", "Includes an ancient cave church carved into limestone cliffs.", "The main church was rebuilt in the 19th century in Neoclassical style.", "Home to several holy springs known for their mineral content.", "Located approximately 10 kilometers south of the town of Camenca."],
+    },
   },
   {
     id: "MD-035-tipova-monastery",
@@ -656,35 +334,16 @@ export const moldovaPoi: POI[] = [
     name: { de: "Felsenkloster Țipova", hu: "Țipova sziklakolostor", ro: "Mănăstirea rupestră Țipova", en: "Țipova Cave Monastery" },
     description: { de: "Eines der größten und spektakulärsten Felsenklöster in Osteuropa.", hu: "Kelet-Európa egyik legnagyobb és leglátványosabb sziklakolostora.", ro: "Una dintre cele mai mari și spectaculoase mănăstiri rupestre din Europa de Est.", en: "One of the largest and most spectacular cave monasteries in Eastern Europe." },
     descriptionAdvanced: {
-      de: "Das Felsenkloster Țipova thront spektakulär über dem Dnister. Die in den Fels gehauenen Galerien entstanden über Jahrhunderte und überstanden osmanische Angriffe und Tatarenüberfälle. Zahlreiche Legenden, wie die um Orpheus, machen diesen spirituellen Ort berühmt. Geographie K6 — Felsensiedlungen.",
-      hu: "A Țipova sziklakolostor lenyűgöző teraszos komplexuma magasan a Dnyeszter fölé magasodik. Járatrendszerét évszázadok alatt bővítették a szerzetesek, három főbb építési fázisa a tatárjárás és az oszmán idők viharait is túlélte. Legendák sora övezi a helyszínt, amely ma is vonzza a spiritualitásra vágyókat. Történelem K6 — sziklába vájt települések.",
-      ro: "Mănăstirea rupestră Țipova este o minune geologică și religioasă sculptată în pereții vertiginoși de calcar deasupra Nistrului. Este recunoscută ca una dintre cele mai mari mănăstiri în stânca din Europa de Est, fiind formată dintr-un complex vast de chilii, galerii și altare pe mai multe niveluri. Dincolo de istoria sa creștină bogată, peisajul este completat de un traseu turistic sălbatic care duce către cascade naturale impresionante. Misterul, natura sălbatică și spiritualitatea străveche atrag vizitatori din toată lumea. Geografie clasa a 6-a — forme carstice și peșteri.",
-      en: "Țipova Cave Monastery is one of the largest rock-hewn complexes in Eastern Europe, carved into the high limestone cliffs along the Dniester River. The multi-level structure includes numerous cells, galleries, and ancient chapels. Beyond its religious importance, the site is known for the surrounding wilderness and impressive natural waterfalls. Legend links the area to ancient history and mythology. Geography K6 — rock-hewn architecture and karst formations."
+      de: "Das Höhlenkloster Țipova, am Ufer des Dnister im Bezirk Rezina gelegen, ist eines der spektakulärsten und größten Klosterkomplexe seiner Art in Osteuropa. Die Anlage besteht aus drei Hauptkomplexen, die in verschiedenen Epochen zwischen dem 6. und 15. Jahrhundert in den Kalksteinfelsen gehauen wurden. Die Legende besagt, dass der moldauische Fürst Stefan der Große hier seine Frau Maria Voichița heiratete und dass der mythische Dichter Orpheus hier seine letzte Ruhe fand. Die Zellen und Kirchen sind durch schmale Pfade und Treppen direkt am Abgrund miteinander verbunden, was dem Ort eine fast mystische Atmosphäre verleiht. Neben der historischen Bedeutung ist die Umgebung für ihre landschaftliche Schönheit mit tiefen Schluchten und zahlreichen Wasserfällen bekannt. Der Komplex wurde im 18. Jahrhundert erweitert und diente lange Zeit als Zufluchtsort in Zeiten von Invasionen. Heute ist es ein geschütztes historisches Denkmal und ein aktives Ziel für Pilger und Wanderer aus der gesamten Region.",
+      hu: "A Țipova sziklakolostor a Dnyeszter folyó partján, Rezina járásban található, és Kelet-Európa egyik legnagyobb és leglátványosabb barlangkolostor-együttese. A komplexum három fő részből áll, amelyeket a 6. és a 15. század között vájtak a mészkősziklákba. A legenda szerint itt kötött házasságot III. István moldovai fejedelem (Ștefan cel Mare) Maria Voichițával, és a helyi hitvilág úgy tartja, hogy Orfeusz, a görög mitológiai alak is itt lelt örök nyugalomra. A sziklafalba vájt cellák és templomok bonyolult rendszert alkotnak, amelyeket keskeny ösvények kötnek össze a szakadék peremén. A kolostor környezete természeti kincsekben is gazdag, több vízesés és mély szurdok található a közvetlen közelében. A 18. században a kolostor jelentős bővítésen esett át, és ma is aktív vallási élet zajlik falai között. Történelmi és geológiai értékei miatt Moldova egyik legfontosabb turisztikai és zarándokhelyszíne.",
+      ro: "Mănăstirea rupestră Țipova, amplasată pe malul Nistrului în raionul Rezina, este unul dintre cele mai mari și impresionante complexe monastice de acest tip din Europa de Est. Ansamblul cuprinde trei complexe principale săpate în stânca de calcar, datând din perioade diferite, cuprinse între secolele VI și XV. Legendele locale afirmă că aici s-ar fi cununat domnitorul Ștefan cel Mare cu Maria Voichița și că tot aici s-ar afla mormântul miticului poet Orfeu. Chiliile și bisericile rupestre sunt conectate prin cărări înguste situate pe buza prăpastiei, oferind o perspectivă unică asupra peisajului fluvial. Pe lângă valoarea istorică, zona este celebră pentru defileurile adânci și cascadele numeroase care se varsă în Nistru. Mănăstirea a fost reactivată în perioada modernă și atrage mii de turiști și pelerini datorită atmosferei sale arhaice și liniștii profunde. Este un monument protejat de stat, reprezentând o piesă esențială a patrimoniului medieval moldovenesc.",
+      en: "Țipova Cave Monastery, located on the banks of the Dniester River in the Rezina District, is one of the largest and most dramatic monastic complexes in Eastern Europe. The site consists of three major architectural ensembles carved into the limestone cliffs between the 6th and 15th centuries. Local lore suggests that Prince Stephen the Great married his wife Maria Voichița here, and myths even link the site to the final resting place of the Greek poet Orpheus. The complex includes numerous cells and churches interconnected by narrow paths and steps running along the edge of the precipice. Beyond its spiritual significance, the surrounding area is renowned for its natural beauty, featuring deep gorges and several impressive waterfalls. The monastery saw significant expansion in the 18th century and served as a defensive refuge for centuries. Today, it remains a protected historical monument and an active religious center, drawing visitors with its unique blend of medieval history and breathtaking river landscapes.",
     },
     factsAdvanced: {
-      de: [
-        "Das Felsenkloster beherbergt über 20 Zellen, einen Glockenturm und einen Speisesaal.",
-        "Einer lokalen Legende nach soll Orpheus aus der Mythologie hier begraben sein.",
-        "Die Balkone bieten bei klarem Wetter einen Ausblick von bis zu 20 Kilometern.",
-        "Die Felsformationen bieten eine perfekte Akustik für Gesänge."
-      ],
-      hu: [
-        "Több mint 20 cellát, harangtornyot és étkezőt vájtak a sziklába.",
-        "Egyes helyi legendák szerint a görög mitológia Orfeuszát is itt temették el.",
-        "Tiszta időben az erkélyekről akár 20 kilométerre is ellátni a folyón."
-      ],
-      ro: [
-        "Legendele locale asociază complexul rupestru cu poetul antic grec Orfeu.",
-        "Se spune că domnitorul Ștefan cel Mare s-a cununat în secret într-una din capelele sale de stâncă.",
-        "Cele mai vechi chilii datează probabil din secolul al XI-lea.",
-        "Formațiunile carstice creează un ecou perfect, ideal pentru cântările corale bisericești."
-      ],
-      en: [
-        "The complex contains over 20 monk cells, a bell tower, and dining halls carved into the rock.",
-        "Local legends suggest the mythical poet Orpheus was buried in the vicinity.",
-        "The site is celebrated for its natural acoustics, which enhance monastic chants.",
-        "Historical records suggest early monastic activity at Țipova as far back as the 11th century."
-      ]
+      de: ["Eines der größten Höhlenkloster in Osteuropa.", "Die ältesten Teile der Anlage stammen aus dem 6. Jahrhundert.", "Besteht aus insgesamt 18 in den Fels gehauenen Räumen und Zellen.", "Liegt auf einer Höhe von etwa 100 Metern über dem Fluss Dnister.", "In der Nähe befinden sich mehrere Wasserfälle mit bis zu 16 Metern Höhe.", "Wurde 1994 nach einer Zeit der Vernachlässigung wiedereröffnet."],
+      hu: ["Kelet-Európa egyik legnagyobb barlangkolostora.", "A komplexum legrégebbi részei a 6. századból származnak.", "Összesen 18 sziklába vájt helyiséget és cellát foglal magában.", "A Dnyeszter folyó felett mintegy 100 méteres magasságban helyezkedik el.", "A közelben több, akár 16 méter magas vízesés is található.", "Hosszú elhanyagoltság után 1994-ben nyitották meg újra."],
+      ro: ["Este unul dintre cele mai mari complexe rupestre din Europa de Est.", "Cele mai vechi părți ale ansamblului datează din secolul al VI-lea.", "Cuprinde un total de 18 încăperi și chilii săpate direct în stâncă.", "Situată la o altitudine de aproximativ 100 de metri deasupra Nistrului.", "În apropiere se află mai multe cascade cu înălțimi de până la 16 metri.", "A fost redeschisă oficial pentru cult în anul 1994."],
+      en: ["One of the largest cave monasteries in Eastern Europe.", "The oldest parts of the complex date back to the 6th century.", "Includes a total of 18 rooms and cells carved into the rock.", "Positioned about 100 meters above the Dniester River level.", "Nearby waterfalls reach heights of up to 16 meters.", "Reopened for religious services in 1994 after a period of decay."],
     }, image: "/poi-images/MD-035-tipova-monastery.webp"},
   {
     id: "MD-035-horodiste-village",
@@ -694,34 +353,15 @@ export const moldovaPoi: POI[] = [
     name: { de: "Horodiște", hu: "Horodiște", ro: "Horodiște", en: "Horodiște" },
     description: { de: "Ein historisches Dorf, bekannt für seine malerische Lage und Weinherstellung.", hu: "Történelmi falu, festői fekvéséről és bortermeléséről ismert.", ro: "Un sat istoric, cunoscut pentru așezarea sa pitorească și producția de vin.", en: "A historical village known for its picturesque location and wine production." },
     descriptionAdvanced: {
-      de: "Horodiște ist ein charmantes Dorf auf dem Weg zu den Țipova-Wasserfällen. Traditionelle Häuser mit geschnitzten Veranden spiegeln die lokale Baukunst wider. In den letzten Jahren hat sich der Ort als Zentrum für Ökotourismus etabliert, bekannt für Hauswein und handwerklich hergestellten Käse. Geographie K5 — ländlicher Tourismus.",
-      hu: "Horodiște egy elbűvölő, hagyományos falu, amely a Țipova-vízesések felé vezető úton fekszik. Régi, faragott tornácos parasztházai és kőkerítései hitelesen tükrözik a helyi építészetet. A falu az elmúlt években az agroturizmus egyik bázisa lett, finom házi boraival és sajtjaival kényeztetve az utazókat. Földrajz K5 — vidéki turizmus.",
-      ro: "Așezat în inima unui peisaj stâncos uluitor lângă defileele de la Țipova, Horodiște este un sat tradițional transformat într-un pol al ecoturismului. Acest loc a respins atracția orașelor, păstrând casele din piatră ridicate manual și tehnicile agricole vechi de sute de ani. Satul este celebru pentru cașcavalurile sale artizanale excelente, inițiate prin parteneriate internaționale ecologice, și pentru vinurile locale. Atmosfera sa suspendată în timp oferă cel mai bun antidot împotriva stresului vieții moderne. Economie clasa a 8-a — turism rural durabil.",
-      en: "Horodiște is a traditional village near Țipova known for its preserved rural architecture, including hand-carved wooden porches and stone structures. In recent years, it has gained recognition for sustainable agrotourism, producing quality artisan cheeses and local wines. Its location near the river gorges and waterfalls makes it a popular stop for travelers seeking authentic rural experiences. Geography K5 — rural heritage and agrotourism."
+      de: "Das Dorf Horodiște im Bezirk Rezina ist bekannt für seine außergewöhnliche Lage in einer malerischen Hügellandschaft unweit des Flusses Dnister. Es ist ein Zentrum für Ökotourismus in Moldau und berühmt für seine Bemühungen um nachhaltige Entwicklung und den Erhalt lokaler Traditionen. Das Dorf liegt in einer geologisch interessanten Zone mit tiefen Schluchten, bizarren Felsformationen und zahlreichen Wasserfällen, die es zu einem beliebten Ziel für Wanderer machen. In der Nähe befinden sich bedeutende archäologische Stätten, die Siedlungsspuren aus verschiedenen Epochen bis zurück in die Antike aufweisen. Besonders bekannt ist das Dorf auch für seine handwerkliche Käseherstellung nach französischen Methoden, die in einer lokalen Genossenschaft betrieben wird. Die Kombination aus traditioneller moldauischer Gastfreundschaft, unberührter Natur und modernen ökologischen Projekten macht Horodiște zu einem Vorzeigemodell für den ländlichen Tourismus. Besucher können hier die Ruhe der Natur genießen und gleichzeitig Einblicke in das authentische Dorfleben Moldaus gewinnen.",
+      hu: "Horodiște falu Rezina járásban található, és Moldova egyik legszebb fekvésű településeként ismert a Dnyeszter folyó közelében. A falu az ökoturizmus központjává vált, köszönhetően a fenntartható fejlődést és a helyi hagyományok megőrzését célzó kezdeményezéseknek. A környék geológiai szempontból is figyelemre méltó, mély szurdokok, különleges sziklaformációk és számos vízesés teszi vonzóvá a természetjárók számára. A település határában jelentős régészeti lelőhelyek találhatók, amelyek az ókorig visszanyúló emberi jelenlétről tanúskodnak. Horodiște manapság különösen híres a francia módszerekkel készülő kézműves sajtjairól, amelyeket egy helyi szövetkezet állít elő. A hagyományos moldovai vendégszeretet és a modern ökológiai szemlélet ötvözése révén a falu a vidékfejlesztés egyik sikeres példája lett. A látogatók itt megtapasztalhatják az érintetlen természet nyugalmát és a vidéki élet autentikus hangulatát.",
+      ro: "Satul Horodiște din raionul Rezina este renumit pentru amplasarea sa pitorească într-o zonă colinară din proximitatea râului Nistru. Localitatea a devenit un centru important pentru ecoturism în Republica Moldova, fiind apreciată pentru proiectele de dezvoltare durabilă și conservare a tradițiilor locale. Geografia zonei este marcată de defileuri spectaculoase, formațiuni stâncoase neobișnuite și numeroase cascade, care atrag anual mulți pasionați de drumeții. În vecinătatea satului se află situri arheologice valoroase, care atestă prezența umană încă din antichitate. Horodiște este cunoscut și pentru producția artizanală de brânzeturi după rețete franceze, realizată într-o cooperativă locală ce sprijină comunitatea. Îmbinarea ospitalității tradiționale moldovenești cu viziunea ecologică modernă transformă satul într-un model de succes pentru turismul rural. Vizitatorii pot explora peisaje naturale virgine și pot interacționa direct cu modul de viață autentic al satului moldovenesc.",
+      en: "The village of Horodiște in the Rezina District is celebrated for its stunning location within a picturesque hilly landscape near the Dniester River. It has emerged as a key hub for ecotourism in Moldova, gaining fame for its commitment to sustainable development and the preservation of local heritage. The surrounding geography is defined by deep gorges, unique rock formations, and several cascades, making it a favorite destination for hikers and nature lovers. Significant archaeological sites are located nearby, revealing evidence of human settlement dating back to ancient times. Horodiște is also widely recognized for its artisanal cheese production using French techniques, managed by a local cooperative that benefits the village community. By blending traditional Moldovan hospitality with modern ecological initiatives, the village serves as a prime model for rural tourism. Visitors can enjoy the tranquility of unspoiled nature while gaining authentic insights into the traditional Moldovan way of life.",
     },
     factsAdvanced: {
-      de: [
-        "In der unmittelbaren Nähe liegen mehrere malerische, schnell fließende Wasserfälle.",
-        "Die Einheimischen sind für ihre traditionelle Käseherstellung berühmt.",
-        "Die Architektur zeichnet sich durch blau-weiß bemalte Schnitzereien aus.",
-        "Das Dorf ist ein wichtiger Stützpunkt für Ökotourismus in der Region."
-      ],
-      hu: [
-        "A falu közvetlen közelében több festői, gyors vizű vízesés is található.",
-        "A helyiek híresek a hagyományos kézműves sajtkészítésről.",
-        "Építészetére a díszes, kék-fehérre festett fafaragások a jellemzőek."
-      ],
-      ro: [
-        "Aici funcționează un renumit atelier comunitar unde se produce cașcaval după metode tradiționale franceze.",
-        "Este punctul ideal de plecare pentru drumețiile montane spre faimoasele cascade Țipova.",
-        "Zidurile multor case tradiționale sunt construite cu pietre prelevate din albia veche a râului.",
-        "Cultura oieritului și a păstoritului reprezintă încă ocupația de bază pentru multe familii."
-      ],
-      en: [
-        "The village is a gateway for hiking to the Țipova waterfalls.",
-        "Local artisan cheese production is a key element of the village's current agrotourism growth.",
-        "Traditional house architecture often features intricate wood carvings.",
-        "The village maintains ancient agricultural traditions, including traditional winemaking."
-      ]
+      de: ["Liegt im Bezirk Rezina im Nordosten der Republik Moldau.", "Bekannt für eine lokale Käserei, die französische Rezepte verwendet.", "In der Umgebung befinden sich Reste antiker thrakischer Festungen.", "Das Dorf ist Teil eines großen ökologischen Wanderwegenetzes.", "Die Region beherbergt über 20 kleine und große Wasserfälle.", "Regelmäßiger Austragungsort für kulturelle und ökologische Festivals."],
+      hu: ["Moldova északkeleti részén, Rezina járásban található.", "Híres a francia receptek alapján működő kézműves sajtüzeméről.", "Környékén ókori dák és trák erődítmények maradványai láthatók.", "A falu egy kiterjedt ökológiai túraútvonal-hálózat része.", "A régióban több mint 20 kisebb-nagyobb vízesés található.", "Rendszeresen otthont ad kulturális és környezetvédelmi fesztiváloknak."],
+      ro: ["Situat în raionul Rezina, în partea de nord-est a Moldovei.", "Faimos pentru fabrica de brânzeturi artizanale care folosește rețete franceze.", "În vecinătate se găsesc vestigii ale unor cetăți geto-dacice antice.", "Satul este integrat într-o rețea extinsă de trasee ecoturistice.", "Regiunea găzduiește peste 20 de cascade de diferite dimensiuni.", "Găzduiește frecvent festivaluri culturale și evenimente ecologice."],
+      en: ["Located in the Rezina District of northeastern Moldova.", "Famous for a local creamery producing cheese using French recipes.", "Nearby areas contain ruins of ancient Thracian fortifications.", "The village is part of an extensive network of ecological hiking trails.", "The region features over 20 waterfalls of varying sizes.", "Frequently hosts cultural and ecological festivals and workshops."],
     }, image: "/poi-images/MD-035-horodiste-village.webp"}
 ];

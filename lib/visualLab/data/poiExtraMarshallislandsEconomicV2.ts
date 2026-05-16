@@ -19,6 +19,18 @@ export const marshallislandsEconomicV2: POI[] = [
       en: ["Major hub for Pacific tuna transshipment", "Handles over 400 ship calls annually", "Central point for national fuel imports", "Located within the Majuro Atoll lagoon"],
     },
     imageHint: "Industrial cargo ship at Port of Majuro lagoon",
+    descriptionAdvanced: {
+      de: "Der Hafen von Majuro ist das wirtschaftliche Herzstück der Marshallinseln und dient als zentraler Knotenpunkt für den internationalen Seehandel. Er befindet sich in der geschützten Lagune des Majuro-Atolls und bietet Ankerplätze für große Containerschiffe und Fischereiflotten. Der Hafen ist entscheidend für den Import von Treibstoffen und Konsumgütern sowie für den Export von Kopraprodukten. Er wird von der Marshall Islands Ports Authority verwaltet.",
+      hu: "Majuro kikötője a Marshall-szigetek gazdasági központja, amely a nemzetközi tengeri kereskedelem központi csomópontjaként szolgál. A Majuro-atoll védett lagúnájában található, és horgonyzóhelyet biztosít a nagy konténerszállító hajók és halászflották számára. A kikötő döntő fontosságú az üzemanyag- és fogyasztási cikkek importja, valamint a kopra-termékek exportja szempontjából. Kezelését a Marshall-szigeteki Kikötői Hatóság végzi.",
+      ro: "Portul Majuro este inima economică a Insulelor Marshall și servește drept nod central pentru comerțul maritim internațional. Este situat în laguna protejată a atolului Majuro și oferă locuri de ancorare pentru nave mari de containere și flote de pescuit. Portul este crucial pentru importul de combustibili și bunuri de consum, precum și pentru exportul produselor din copra. Este administrat de Autoritatea Portuară a Insulelor Marshall.",
+      en: "The Port of Majuro is the economic heart of the Marshall Islands, serving as a central hub for international maritime trade. Located within the protected lagoon of Majuro Atoll, it provides anchorage for large container vessels and international fishing fleets. The port is critical for the importation of fuel and consumer goods, as well as the exportation of copra products. It is managed by the Marshall Islands Ports Authority.",
+    },
+    factsAdvanced: {
+      de: ["Hauptseehafen der Nation", "Umschlagplatz für Thunfischflotten", "Verfügt über Treibstoffterminals", "Wichtiger Exportpunkt für Kopraöl", "Verwaltet von der RMIPA", "Tiefer Ankerplatz in der Lagune"],
+      hu: ["Az ország fő tengeri kikötője", "A tonhalhalász flották bázisa", "Üzemanyag-terminálokkal rendelkezik", "A kopraolaj fontos exportpontja", "A RMIPA hatóság kezeli", "Mélyvízi horgonyzóhely a lagúnában"],
+      ro: ["Principalul port maritim al națiunii", "Centru pentru flotele de pescuit de ton", "Dispune de terminale de combustibil", "Punct major de export pentru uleiul de copra", "Administrat de RMIPA", "Ancoraj adânc în lagună"],
+      en: ["Nation's primary commercial seaport", "Hub for international tuna fleets", "Features specialized fuel terminals", "Major export point for copra oil", "Managed by the RMIPA authority", "Deep-water anchorage inside lagoon"],
+    },
   },
   {
     id: "marshallislands-tobolar-processing-plant-economic-v2",
@@ -38,6 +50,18 @@ export const marshallislandsEconomicV2: POI[] = [
       en: ["Processes copra from all outer islands", "Produces refined coconut oil for export", "Founded in 1977 as a state corporation", "One of the largest employers in the private sector"],
     },
     imageHint: "Coconut oil processing facility in Majuro",
+    descriptionAdvanced: {
+      de: "Die Tobolar-Anlage in Majuro ist der landesweit wichtigste Betrieb zur Verarbeitung von Kopra, dem getrockneten Fleisch der Kokosnuss. Als staatliches Unternehmen kauft Tobolar Kopra von den äußeren Atollen auf und verarbeitet sie zu wertvollem Kokosöl, Seife und Tierfutter. Dieser Prozess ist die Haupteinnahmequelle für Tausende von Bewohnern auf den entlegenen Inseln. Die Fabrik spielt somit eine fundamentale Rolle für die soziale und wirtschaftliche Stabilität des Landes.",
+      hu: "A majurói Tobolar-üzem az ország legfontosabb létesítménye a kopra, vagyis a kókuszdió szárított húsának feldolgozására. Állami vállalatként a Tobolar felvásárolja a koprát a távoli atollokról, és értékes kókuszolajat, szappant és állati takarmányt készít belőle. Ez a folyamat több ezer távoli szigetlakó számára az elsődleges bevételi forrás. A gyár így alapvető szerepet játszik az ország társadalmi és gazdasági stabilitásában.",
+      ro: "Fabrica Tobolar din Majuro este cea mai importantă unitate din țară pentru procesarea coprei, pulpa uscată a nucilor de cocos. Ca întreprindere de stat, Tobolar achiziționează copra de pe atolii îndepărtați și o procesează în ulei de cocos valoros, săpun și hrană pentru animale. Acest proces reprezintă principala sursă de venit pentru mii de locuitori de pe insulele izolate. Fabrica joacă astfel un rol fundamental în stabilitatea socială și economică a țării.",
+      en: "The Tobolar Processing Plant in Majuro is the nation's most critical facility for processing copra, which is the dried meat of the coconut. As a state-owned enterprise, Tobolar purchases copra from the outer atolls and refines it into valuable coconut oil, soap, and animal feed. This industry is the primary source of income for thousands of residents living on remote islands. The plant is essential to the social and economic stability of the Marshall Islands.",
+    },
+    factsAdvanced: {
+      de: ["Sitz in Delap, Majuro", "Gegründet im Jahr 1947", "Staatliches Kopra-Monopol", "Produziert Roh- und Speiseöl", "Hauptabnehmer für Außeninseln", "Exportiert Öl auf den Weltmarkt"],
+      hu: ["Székhelye Delap, Majuro", "1947-ben alapították", "Állami kopra-monopólium", "Nyers és étolajat is gyárt", "A külső szigetek fő felvásárlója", "Olajat exportál a világpiacra"],
+      ro: ["Sediul în Delap, Majuro", "Fondată în anul 1947", "Monopol de stat asupra coprei", "Produce ulei brut și alimentar", "Cumpărător principal pentru insulele exterioare", "Exportă ulei pe piața mondială"],
+      en: ["Based in Delap, Majuro", "Established in 1947", "State-owned copra monopoly", "Produces crude and edible oils", "Main buyer for outer islanders", "Exports oil to global markets"],
+    },
   },
   {
     id: "marshallislands-kwajalein-tech-center-economic-v2",
@@ -57,6 +81,18 @@ export const marshallislandsEconomicV2: POI[] = [
       en: ["Operated by the United States Army", "Employs thousands of Marshallese workers", "Center for global space surveillance", "Funds a large portion of the national budget"],
     },
     imageHint: "Satellite tracking station at Kwajalein Atoll",
+    descriptionAdvanced: {
+      de: "Das Kwajalein Technology Center ist ein wesentlicher Bestandteil des Ronald Reagan Ballistic Missile Defense Test Site. Es unterstützt hochmoderne Kommunikations- und Datenverarbeitungssysteme für die Weltraumüberwachung. Die Anlage dient als technologisches Rückgrat für internationale Forschungsmissionen im Pazifik.",
+      hu: "A Kwajalein Technológiai Központ a Ronald Reagan Ballisztikus Rakétavédelmi Tesztpálya egyik kulcsfontosságú létesítménye. Modern kommunikációs és adatfeldolgozó rendszereket üzemeltet az űrmegfigyelés támogatására. A központ a csendes-óceáni nemzetközi kutatási missziók technológiai bázisaként szolgál.",
+      ro: "Centrul Tehnologic Kwajalein este o componentă esențială a sitului de testare a apărării împotriva rachetelor balistice Ronald Reagan. Acesta susține sisteme avansate de comunicații și procesare a datelor pentru supravegherea spațială. Facilitatea servește ca bază tehnologică pentru misiuni de cercetare internaționale.",
+      en: "The Kwajalein Technology Center is a key facility within the Ronald Reagan Ballistic Missile Defense Test Site. It operates advanced communication and data processing systems to support space surveillance and missile testing. The center serves as a technological backbone for international research missions in the Pacific.",
+    },
+    factsAdvanced: {
+      de: ["Teil des Ronald Reagan Test Site seit den 1960er Jahren", "Unterstützt die Überwachung von Objekten im niedrigen Erdorbit", "Wichtigster Arbeitgeber für Fachkräfte auf dem Kwajalein-Atoll", "Verfügt über Glasfaserverbindungen nach Guam und Hawaii", "Hostet Radarsysteme mit einer Reichweite von mehreren tausend Kilometern", "Zentrum für die Koordination von Raketenabwehrtests im Pazifik"],
+      hu: ["Az 1960-as évek óta a Ronald Reagan Tesztpálya része", "Támogatja az alacsony földkörüli pályán lévő objektumok figyelését", "A Kwajalein-atoll legfontosabb szakmai munkáltatója", "Optikai szálas kapcsolattal rendelkezik Guam és Hawaii felé", "Több ezer kilométeres hatótávolságú radarrendszereket üzemeltet", "A csendes-óceáni rakétavédelmi tesztek koordinációs központja"],
+      ro: ["Face parte din situl de testare Ronald Reagan din anii 1960", "Susține monitorizarea obiectelor de pe orbita joasă a Pământului", "Cel mai important angajator pentru specialiști de pe atolul Kwajalein", "Dispune de conexiuni prin fibră optică spre Guam și Hawaii", "Găzduiește sisteme radar cu o rază de mii de kilometri", "Centru de coordonare pentru testele de apărare antirachetă din Pacific"],
+      en: ["Part of the Ronald Reagan Test Site since the 1960s", "Supports monitoring of objects in low Earth orbit", "Primary employer for technical professionals on Kwajalein Atoll", "Connected via fiber-optic cables to Guam and Hawaii", "Hosts radar systems with ranges exceeding several thousand kilometers", "Coordination hub for missile defense testing in the Pacific"],
+    },
   },
   {
     id: "marshallislands-delap-business-district-economic-v2",
@@ -76,6 +112,18 @@ export const marshallislandsEconomicV2: POI[] = [
       en: ["Headquarters of the Bank of the Marshall Islands", "Location of key government ministries", "Center for retail and services", "Most dense commercial area on the atoll"],
     },
     imageHint: "Business buildings in Delap district Majuro",
+    descriptionAdvanced: {
+      de: "Der Delap Business District bildet das wirtschaftliche Zentrum von Majuro, der Hauptstadt der Marshallinseln. Hier befinden sich wichtige Regierungsgebäude, Banken und die größten Einzelhandelsunternehmen des Landes. Der Bezirk ist der primäre Ort für gewerbliche Aktivitäten und administrative Dienstleistungen.",
+      hu: "A Delap üzleti negyed Majuro, a Marshall-szigetek fővárosának gazdasági központja. Itt találhatók a fontos kormányzati épületek, bankok és az ország legnagyobb kiskereskedelmi egységei. A negyed a kereskedelmi tevékenységek és az adminisztratív szolgáltatások elsődleges helyszíne.",
+      ro: "Districtul de afaceri Delap formează centrul economic al orașului Majuro, capitala Insulelor Marshall. Aici se află clădiri guvernamentale importante, bănci și cele mai mari companii de retail din țară. Districtul este locul principal pentru activități comerciale și servicii administrative.",
+      en: "The Delap Business District serves as the economic hub of Majuro, the capital of the Marshall Islands. It houses key government buildings, banks, and the country's largest retail establishments. The district is the primary location for commercial activities and administrative services.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Nitijela, dem Parlament der Marshallinseln", "Beherbergt die Hauptfiliale der Bank of Marshall Islands", "Standort des Capital Building, fertiggestellt im Jahr 1994", "Zentrum der lokalen Telekommunikationsinfrastruktur", "Höchste Dichte an Büroflächen in der gesamten Republik", "Wichtigster Knotenpunkt für den inländischen Einzelhandel"],
+      hu: ["A Nitijela, a Marshall-szigetek parlamentjének székhelye", "Itt található a Bank of Marshall Islands főfiókja", "A 1994-ben befejezett kormányzati épület helyszíne", "A helyi telekommunikációs infrastruktúra központja", "Itt a legmagasabb az irodaterületek sűrűsége a köztársaságban", "A belföldi kiskereskedelem legfontosabb csomópontja"],
+      ro: ["Sediul Nitijela, parlamentul Insulelor Marshall", "Găzduiește sucursala principală a Băncii Insulelor Marshall", "Locația clădirii Capitoliului, finalizată în 1994", "Centrul infrastructurii locale de telecomunicații", "Cea mai mare densitate de spații de birouri din republică", "Cel mai important nod pentru comerțul cu amănuntul intern"],
+      en: ["Seat of the Nitijela, the Marshall Islands Parliament", "Houses the main branch of the Bank of Marshall Islands", "Site of the Capital Building, completed in 1994", "Hub for local telecommunications infrastructure", "Highest density of office space in the entire republic", "Primary node for domestic retail commerce"],
+    },
   },
   {
     id: "marshallislands-ship-registry-hq-economic-v2",
@@ -95,6 +143,18 @@ export const marshallislandsEconomicV2: POI[] = [
       en: ["Third largest ship registry in the world", "Generates significant tax revenue", "Manages thousands of commercial vessels", "Center for international maritime law"],
     },
     imageHint: "Marshall Islands shipping registry office building",
+    descriptionAdvanced: {
+      de: "Das Hauptquartier des Schiffsregisters der Marshallinseln verwaltet eine der größten Handelsflotten der Welt. Dieses Register ist eine entscheidende Einnahmequelle für den Inselstaat und genießt internationales Ansehen für Sicherheitsstandards. Die operative Verwaltung erfolgt in enger Kooperation mit internationalen maritimen Organisationen.",
+      hu: "A Marshall-szigetek hajóregisztrációs központja a világ egyik legnagyobb kereskedelmi flottáját kezeli. A regiszter meghatározó bevételi forrás a szigetállam számára, és nemzetközi elismertségnek örvend a biztonsági szabványai miatt. Az operatív irányítás szoros együttműködésben zajlik a nemzetközi tengerészeti szervezetekkel.",
+      ro: "Sediul Registrului Naval al Insulelor Marshall gestionează una dintre cele mai mari flote comerciale din lume. Acest registru este o sursă crucială de venituri pentru statul insular și se bucură de prestigiu internațional pentru standardele de siguranță. Administrarea operativă se face în cooperare cu organizațiile maritime internaționale.",
+      en: "The Marshall Islands Ship Registry Headquarters manages one of the largest merchant fleets in the world. This registry is a crucial source of revenue for the island nation and holds international prestige for its safety standards. Operational management is conducted in close cooperation with international maritime organizations.",
+    },
+    factsAdvanced: {
+      de: ["Drittgrößtes Schiffsregister weltweit nach Tonnage", "Verwaltet über 5.000 Schiffe unter marshallesischer Flagge", "Operative Zentrale befindet sich in Majuro und Virginia, USA", "Wichtiger Beitragsstifter zum Bruttoinlandsprodukt des Landes", "Hält den 'White List' Status bei internationalen Hafenstaatkontrollen", "Gegründet im Jahr 1988 zur Förderung der maritimen Wirtschaft"],
+      hu: ["A világ harmadik legnagyobb hajóregisztere tonnatartalom alapján", "Több mint 5000 hajót kezel marshall-szigeteki lobogó alatt", "Operatív központjai Majuróban és az amerikai Virginiában vannak", "Az ország bruttó hazai termékének egyik fő hozzájárulója", "Fehér listás státusszal rendelkezik a kikötői ellenőrzéseknél", "1988-ban alapították a tengeri gazdaság ösztönzésére"],
+      ro: ["Al treilea cel mai mare registru naval din lume după tonaj", "Gestionează peste 5.000 de nave sub pavilionul Insulelor Marshall", "Centrele operative sunt în Majuro și Virginia, SUA", "Contribuitor major la Produsul Intern Brut al țării", "Deține statutul de 'Lista Albă' la controalele portuare internaționale", "Fondat în 1988 pentru a stimula economia maritimă"],
+      en: ["Third largest ship registry in the world by tonnage", "Manages over 5,000 vessels under the Marshallese flag", "Operational headquarters located in Majuro and Virginia, USA", "Major contributor to the country's Gross Domestic Product", "Maintains 'White List' status with international port state controls", "Established in 1988 to promote the maritime economy"],
+    },
   },
   {
     id: "marshallislands-laura-agriculture-center-economic-v2",

@@ -143,6 +143,18 @@ export const hongkongReliefV2: POI[] = [
       en: ["Elevation of 566 meters", "Distinctive razor-sharp ridge", "Overlooks the Lam Tsuen plain", "Composed of volcanic porphyry"],
     },
     imageHint: "Tai To Yan knife-edge ridge trail",
+    descriptionAdvanced: {
+      de: "Der Tai To Yan ist ein markanter Bergzug in den nördlichen New Territories, dessen Gipfel 566 Meter erreicht. Der Name bedeutet übersetzt „Großes Schwertblatt“, was auf den extrem schmalen und scharfen Gebirgsgrat an der Spitze hindeutet. Er ist Teil des Lam Tsuen Country Parks und bietet Wanderern einen spektakulären Panoramablick über die Ebenen von Yuen Long und Pat Heung.",
+      hu: "A Tai To Yan egy jellegzetes hegygerinc az Új Területek északi részén, amelynek csúcsa 566 méter magas. A név jelentése „Nagy Kardél”, ami a hegytetőn húzódó rendkívül keskeny és meredek gerincre utal. A Lam Tsuen Country Park része, és a túrázóknak lenyűgöző panorámát kínál Yuen Long és Pat Heung síkságaira.",
+      ro: "Tai To Yan este o creastă montană distinctivă din nordul Noilor Teritorii, atingând o altitudine de 566 de metri. Numele se traduce prin „Lama mare de sabie”, referindu-se la creasta extrem de îngustă și ascuțită de la vârf. Face parte din parcul Lam Tsuen și oferă panorame spectaculoase asupra câmpiilor Yuen Long și Pat Heung.",
+      en: "Tai To Yan is a prominent mountain ridge in the northern New Territories, reaching an elevation of 566 metres. Its name translates to 'Great Sword Blade', a reference to the extremely narrow and sharp rocky ridge at its summit. Located within Lam Tsuen Country Park, it offers hikers panoramic views over the plains of Yuen Long and Pat Heung.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe beträgt 566 Meter über dem Meeresspiegel", "Name bedeutet 'Großes Schwertblatt' auf Kantonesisch", "Besteht hauptsächlich aus vulkanischem Gestein", "Liegt innerhalb des Lam Tsuen Country Parks", "Der Kamm ist an einigen Stellen nur wenige Meter breit", "Bietet Blick auf die Grenze zum chinesischen Festland"],
+      hu: ["Legmagasabb pontja 566 méter a tengerszint felett", "Kantonul a neve 'Nagy Kardélt' jelent", "Kőzete nagy részben vulkanikus eredetű", "A Lam Tsuen Country Park területén helyezkedik el", "A hegygerinc néhol csak pár méter szélességű", "Kilátás nyílik innen a kínai szárazföldi határra"],
+      ro: ["Înălțimea maximă este de 566 de metri", "Numele înseamnă „Lamă mare de sabie” în cantoneză", "Formațiune compusă în principal din roci vulcanice", "Situat în interiorul parcului natural Lam Tsuen", "Creasta are o lățime de doar câțiva metri în unele zone", "Oferă vizibilitate spre granița cu China continentală"],
+      en: ["The peak reaches an elevation of 566 metres", "Name translates to 'Great Sword Blade' in Cantonese", "Formed primarily from volcanic rock structures", "Located within the Lam Tsuen Country Park", "The ridge trail is exceptionally narrow in sections", "Offers clear views towards the mainland China border"],
+    },
   },
   {
     id: "hongkong-kai-kung-leng-relief-v2",
@@ -162,6 +174,18 @@ export const hongkongReliefV2: POI[] = [
       en: ["Elevation of 585 meters", "Translates to Rooster Ridge Mountain", "Composed primarily of grassland", "Views over Shenzhen and Yuen Long"],
     },
     imageHint: "Kai Kung Leng grassy slopes with Shenzhen skyline",
+    descriptionAdvanced: {
+      de: "Der Kai Kung Leng, auch als „Rooster Ridge“ bekannt, ist ein markanter Bergrücken im Lam Tsuen Country Park im Norden Hongkongs. Sein höchster Punkt liegt auf 585 Metern und bietet weite Ausblicke auf die Grenze zu Shenzhen und die Feuchtgebiete von Mai Po. Der kahle, grasbewachsene Hang ist vulkanischen Ursprungs und bekannt für seine anspruchsvollen, steilen Wanderwege.",
+      hu: "A Kai Kung Leng, más néven „Kakas-gerinc”, egy jellegzetes hegyhát a Lam Tsuen Country Parkban, Hongkong északi részén. Legmagasabb pontja 585 méter, ahonnan belátható a shenzheni határ és a Mai Po mocsárvidék. A kopár, füves domboldalak vulkanikus kőzetből állnak, és meredek, kihívást jelentő túraútvonalaikról ismertek.",
+      ro: "Kai Kung Leng, cunoscut și sub numele de „Creasta Cocoșului”, este un masiv montan din parcul Lam Tsuen, situat în nordul Hong Kong-ului. Vârful său atinge 585 de metri, oferind vederi largi spre granița cu Shenzhen și mlaștinile Mai Po. Versanții înierbați sunt de origine vulcanică și sunt renumiți pentru traseele de drumeție abrupte.",
+      en: "Kai Kung Leng, also known as 'Rooster Ridge', is a distinctive mountain range within Lam Tsuen Country Park in northern Hong Kong. Its highest peak stands at 585 metres, providing sweeping views of the Shenzhen border and the Mai Po wetlands. The grassy, barren slopes are volcanic in origin and famous for their challenging, steep hiking trails.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt liegt auf 585 Metern", "Wird auf Englisch oft als 'Rooster Ridge' bezeichnet", "Befindet sich im nördlichen Lam Tsuen Country Park", "Besteht fast vollständig aus vulkanischem Gestein", "Bietet 360-Grad-Panorama auf Yuen Long und Shenzhen", "Die Hänge sind fast baumlos und von Gras bedeckt"],
+      hu: ["Legmagasabb csúcsa 585 méter magas", "Angol neve 'Rooster Ridge' (Kakas-gerinc)", "A Lam Tsuen Country Park északi részén található", "Kőzete szinte teljes egészében vulkanikus", "360 fokos panorámát nyújt Yuen Longra és Shenzhenre", "Lejtői szinte teljesen fátlanok, csak fű borítja őket"],
+      ro: ["Punctul culminant are o altitudine de 585 metri", "Cunoscut în limba engleză ca „Rooster Ridge”", "Situat în partea de nord a parcului Lam Tsuen", "Constituit aproape integral din roci vulcanice", "Oferă o panoramă de 360 de grade spre Shenzhen", "Versanții sunt lipsiți de arbori, acoperiți doar cu iarbă"],
+      en: ["The highest peak reaches 585 metres in elevation", "Commonly referred to as 'Rooster Ridge' in English", "Situated in the northern part of Lam Tsuen Country Park", "Composed almost entirely of volcanic rock formations", "Provides 360-degree views of Yuen Long and Shenzhen", "The slopes are largely treeless and covered in grass"],
+    },
   },
   {
     id: "hongkong-nei-lak-shan-relief-v2",
@@ -181,6 +205,18 @@ export const hongkongReliefV2: POI[] = [
       en: ["Elevation of 751 meters", "Located near the Ngong Ping area", "Offers views of the Big Buddha statue", "Part of the Lantau North Country Park"],
     },
     imageHint: "Nei Lak Shan with Ngong Ping 360 cable car",
+    descriptionAdvanced: {
+      de: "Der Nei Lak Shan ist mit einer Höhe von 751 Metern der vierthöchste Gipfel in Hongkong und befindet sich auf der Insel Lantau. Er liegt nördlich des Ngong Ping Plateaus und bietet weite Ausblicke auf den Tian Tan Buddha sowie den Flughafen Chek Lap Kok. Die Ngong Ping 360 Seilbahn verläuft entlang seiner Hänge und verbindet Tung Chung mit dem Kloster Po Lin.",
+      hu: "A 751 méter magas Nei Lak Shan Hongkong negyedik legmagasabb hegycsúcsa, amely Lantau szigetének középső részén helyezkedik el. Északra található a Ngong Ping-fennsíktól, így kiváló rálátást biztosít a Tian Tan Buddhára és a nemzetközi repülőtérre. A Ngong Ping 360 kötélpálya a hegy északi oldalán halad át, megkönnyítve a terület turisztikai elérését.",
+      ro: "Nei Lak Shan este al patrulea cel mai înalt vârf din Hong Kong, atingând o altitudine de 751 de metri pe insula Lantau. Situat la nord de platoul Ngong Ping, acesta oferă perspective largi asupra statuii Tian Tan Buddha și a aeroportului internațional. Telecabina Ngong Ping 360 traversează versanții săi, făcând legătura între Tung Chung și mănăstirea Po Lin.",
+      en: "Nei Lak Shan is the fourth highest peak in Hong Kong, reaching an elevation of 751 meters on Lantau Island. It is situated north of the Ngong Ping plateau, offering expansive views of the Tian Tan Buddha and Chek Lap Kok Airport. The Ngong Ping 360 cable car runs along its slopes, connecting Tung Chung with the Po Lin Monastery area.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 751 Metern über dem Meeresspiegel", "Vierthöchster Berg im Territorium Hongkong", "Liegt im Lantau North Country Park", "Besitzt eine Wetterstation auf dem Gipfel", "Ngong Ping 360 Seilbahn passiert den Berg", "Wanderweg führt vom Ngong Ping Dorf hinauf"],
+      hu: ["Tengerszint feletti magassága 751 méter", "Hongkong negyedik legmagasabb pontja", "A Lantau North Country Park területén fekszik", "A csúcson meteorológiai mérőállomás üzemel", "A Ngong Ping 360 kabinos felvonó érinti", "Gyalogosan a Ngong Ping faluból közelíthető meg"],
+      ro: ["Altitudinea maximă este de 751 metri", "Al patrulea cel mai înalt vârf din Hong Kong", "Situat în parcul natural Lantau North", "Găzduiește o stație meteorologică pe vârf", "Traseul telecabinei Ngong Ping 360 trece pe aici", "Accesibil prin poteci de drumeție din Ngong Ping"],
+      en: ["Elevation of 751 meters above sea level", "Fourth highest peak in the Hong Kong territory", "Located within the Lantau North Country Park", "Features a weather station at the summit", "The Ngong Ping 360 cable car passes nearby", "Accessible via hiking trails from Ngong Ping village"],
+    },
   },
   {
     id: "hongkong-buffalo-hill-relief-v2",
@@ -386,6 +422,18 @@ export const hongkongReliefV2: POI[] = [
       en: ["Elevation of 465 meters", "Translates to Tiger's Head Mountain", "Located above Discovery Bay", "Characterized by granite rock formations"],
     },
     imageHint: "Lo Fu Tau tiger-shaped summit rocks",
+    descriptionAdvanced: {
+      de: "Lo Fu Tau, auch bekannt als Tiger's Head, ist ein markanter Hügel mit einer Höhe von 465 Metern auf der Insel Lantau. Er überragt die Gemeinde Discovery Bay und ist für seine grasbewachsenen Hänge und bizarren Felsformationen bekannt. Der Gipfel bietet einen Panoramablick auf die Silver Mine Bay und das Südchinesische Meer, was ihn zu einem beliebten Ziel für Wanderer macht.",
+      hu: "A Lo Fu Tau, más néven Tigris-fej, egy 465 méter magas domborzati kiemelkedés Lantau szigetén, Hongkongban. A Discovery Bay felett magasodó csúcs jellegzetes füves lejtőiről és különleges sziklaformációiról ismerhető fel. A tetőről panorámás kilátás nyílik a Silver Mine-öbölre és a Dél-kínai-tengerre, emiatt kedvelt kirándulóhely.",
+      ro: "Lo Fu Tau, cunoscut și sub numele de Capul Tigrului, este un deal proeminent cu o înălțime de 465 de metri pe insula Lantau. Acesta domină comunitatea Discovery Bay și este renumit pentru pantele sale ierboase și formațiunile stâncoase neobișnuite. Vârful oferă o vedere panoramică asupra golfului Silver Mine și a Mării Chinei de Sud.",
+      en: "Lo Fu Tau, also known as Tiger's Head, is a prominent hill with an elevation of 465 meters on Lantau Island. It overlooks the Discovery Bay community and is known for its grassy slopes and distinctive rock formations. The summit provides a panoramic view of Silver Mine Bay and the South China Sea, making it a popular destination for hikers.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe von 465 Metern", "Befindet sich im östlichen Teil von Lantau", "Der Name bedeutet übersetzt Tigerskopf", "Bietet Blick auf den Flughafen Chek Lap Kok", "Gehört zum Lantau North Country Park", "Wanderweg verbindet Discovery Bay mit Mui Wo"],
+      hu: ["Legmagasabb pontja 465 méter", "Lantau sziget keleti részén található", "Magyar jelentése: Tigris-fej", "Kilátást nyújt a Chek Lap Kok repülőtérre", "A Lantau North Country Park része", "Túraútvonal köti össze a Discovery Bay-jel"],
+      ro: ["Înălțimea maximă este de 465 metri", "Situat în partea de est a insulei Lantau", "Numele se traduce prin Capul Tigrului", "Oferă vedere spre aeroportul Chek Lap Kok", "Face parte din parcul Lantau North", "Traseul montan leagă Discovery Bay de Mui Wo"],
+      en: ["Maximum elevation of 465 meters", "Located in the eastern part of Lantau Island", "The name translates to Tiger's Head", "Offers views of Chek Lap Kok Airport", "Part of the Lantau North Country Park", "Hiking trail connects Discovery Bay to Mui Wo"],
+    },
   },
   {
     id: "hongkong-mount-kellett-relief-v2",
@@ -560,6 +608,18 @@ export const hongkongReliefV2: POI[] = [
       en: ["Elevation of 457 meters", "Former site of signal beacons", "Location of a radar dome", "Part of the Lion Rock Country Park"],
     },
     imageHint: "Beacon Hill radar dome at night",
+    descriptionAdvanced: {
+      de: "Beacon Hill ist ein 457 Meter hoher Berg in Hongkong, der die Grenze zwischen Kowloon und den New Territories markiert. Historisch diente er als Standort für Signalfeuer, heute beherbergt der Gipfel wichtige Radarstationen für die Flugsicherung. Er ist Teil des Lion Rock Country Parks und bietet Wanderern einen beeindruckenden Blick auf das Stadtgebiet von Kowloon und den Victoria Harbour.",
+      hu: "A Beacon Hill egy 457 méter magas hegy Hongkongban, amely természetes határvonalat képez Kowloon és az Új Területek között. Történelmileg jelzőtüzek helyszíneként szolgált, ma pedig fontos légiforgalmi radarállomásoknak ad otthont a csúcsa. A Lion Rock Country Park részeként népszerű kilátópont Kowloon városi területeire és a Victoria kikötőre.",
+      ro: "Beacon Hill este un munte de 457 de metri în Hong Kong, marcând granița dintre Kowloon și Noile Teritorii. Istoric, a servit ca loc pentru focuri de semnalizare, iar astăzi vârful găzduiește stații radar importante pentru controlul traficului aerian. Face parte din Lion Rock Country Park și oferă o vedere impresionantă asupra zonei urbane Kowloon.",
+      en: "Beacon Hill is a 457-meter mountain in Hong Kong that marks the boundary between Kowloon and the New Territories. Historically used for signal fires, the summit now hosts critical radar stations for aviation control. It is part of the Lion Rock Country Park and provides hikers with a commanding view of the Kowloon urban area and Victoria Harbour.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe beträgt 457 Meter", "Teil des Lion Rock Country Parks", "Früherer Name war Lung Cheung Shan", "Standort einer Wetterradarstation", "Gehört zur Kowloon Peak Bergkette", "MacLehose Trail verläuft nahe dem Gipfel"],
+      hu: ["A hegycsúcs magassága 457 méter", "A Lion Rock Country Park területén fekszik", "Korábbi neve Lung Cheung Shan volt", "Meteorológiai radarállomás működik rajta", "A Kowloon-hegység vonulatához tartozik", "A MacLehose túraútvonal a közelében halad"],
+      ro: ["Înălțimea vârfului este de 457 metri", "Parte integrantă a parcului Lion Rock", "Numele său istoric a fost Lung Cheung Shan", "Găzduiește o stație radar meteorologică", "Aparține lanțului muntos Kowloon", "Traseul MacLehose trece pe lângă vârf"],
+      en: ["Summit elevation is 457 meters", "Part of the Lion Rock Country Park", "Formerly known as Lung Cheung Shan", "Site of a secondary surveillance radar", "Belongs to the Kowloon mountain range", "MacLehose Trail passes near the summit"],
+    },
   },
   {
     id: "hongkong-ma-nam-wat-relief-v2",

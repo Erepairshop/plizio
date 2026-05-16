@@ -19,6 +19,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Elevation of approx. 680 meters", "Central mountain massif", "Important water catchment area", "Difficult terrain to access"],
     },
     imageHint: "Mount Tabac Saint Lucia forest peak",
+    descriptionAdvanced: {
+      de: "Mount Tabac ist eine markante Erhebung im Südwesten von St. Lucia, die das Panorama bei Soufrière ergänzt. Der Berg ist vulkanischen Ursprungs und steil abfallend zum Meer hin. Er bietet Lebensraum für zahlreiche endemische Pflanzenarten und ist ein Ziel für erfahrene Wanderer und Bergsteiger.",
+      hu: "A Mount Tabac egy jellegzetes magaslat Saint Lucia délnyugati részén, amely Soufrière panorámáját egészíti ki. A hegy vulkáni eredetű, és meredeken lejt a tenger felé. Számos endemikus növényfajnak ad otthont, és a tapasztalt túrázók, hegymászók kedvelt célpontja.",
+      ro: "Muntele Tabac este o înălțime proeminentă în sud-vestul insulei Sfânta Lucia, completând panorama de lângă Soufrière. Muntele este de origine vulcanică și coboară abrupt spre mare. Găzduiește numeroase specii de plante endemice.",
+      en: "Mount Tabac is a prominent elevation in southwestern Saint Lucia, complementing the panorama near Soufrière. The mountain is of volcanic origin and drops steeply toward the sea. It provides habitat for numerous endemic plant species and is a destination for experienced hikers and climbers.",
+    },
+    factsAdvanced: {
+      de: ["Die Gipfelhöhe beträgt etwa 678 Meter", "Befindet sich innerhalb des Pitons Management Area", "Der Name bezieht sich auf den historischen Tabakanbau", "Bietet einen direkten Blick auf den Gros Piton", "Die Hänge sind mit tropischem Trockenwald bedeckt", "Wichtiger Nistplatz für Greifvögel wie den Breitflügelbussard"],
+      hu: ["A csúcs magassága körülbelül 678 méter", "A Piton-hegyek Tájvédelmi Körzet területén található", "A név a történelmi dohánytermesztésre utal", "Közvetlen kilátást nyújt a Gros Piton-ra", "Lejtőit trópusi száraz erdő borítja", "Fontos fészkelőhelye a ragadozó madaraknak"],
+      ro: ["Înălțimea vârfului este de aproximativ 678 metri", "Se află în interiorul Zonei de Management Pitons", "Numele se referă la cultivarea istorică a tutunului", "Oferă o vedere directă spre vârful Gros Piton", "Pantele sunt acoperite cu pădure tropicală uscată", "Loc important de cuibărit pentru uliul cu aripi late"],
+      en: ["The peak reaches an elevation of about 678 meters", "Located within the Pitons Management Area UNESCO site", "The name refers to historical tobacco cultivation", "Offers a direct line of sight to Gros Piton", "Slopes are covered with tropical dry forest vegetation", "Important nesting site for birds of prey like hawks"],
+    },
   },
   {
     id: "saintlucia-mount-grand-magazin-relief-v2",
@@ -38,6 +50,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Elevation of 645 meters", "Volcanic rock composition", "Located near the town of Choiseul", "Offers views of the southern coast"],
     },
     imageHint: "Mount Grand Magazin Saint Lucia mountains",
+    descriptionAdvanced: {
+      de: "Mount Grand Magazin liegt im südlichen Zentrum der Insel und ist ein Teil des zentralen Gebirgsrückens. Die Erhebung ist von dichtem Primärregenwald bedeckt und dient als wichtiges Wassereinzugsgebiet. Aufgrund seiner Abgeschiedenheit ist die Flora und Fauna hier weitgehend unberührt und biologisch vielfältig.",
+      hu: "A Mount Grand Magazin a sziget déli központjában található, és a központi hegygerinc része. A magaslatot sűrű elsődleges esőerdő borítja, és fontos vízgyűjtő területként szolgál. Elszigeteltsége miatt a flóra és fauna itt nagyrészt érintetlen és biológiailag sokszínű.",
+      ro: "Muntele Grand Magazin este situat în centrul sudic al insulei și face parte din creasta muntoasă centrală. Înălțimea este acoperită de pădure tropicală primară densă și servește ca bazin hidrografic important. Flora și fauna sunt în mare parte neatinse.",
+      en: "Mount Grand Magazin is located in the south-central part of the island and forms part of the central mountain ridge. The elevation is covered by dense primary rainforest and serves as a vital watershed. Due to its isolation, the flora and fauna here remain largely pristine and biologically diverse.",
+    },
+    factsAdvanced: {
+      de: ["Erreicht eine maximale Höhe von 645 Metern", "Teil des Mount Grand Magazin Nature Reserve", "Beherbergt die seltene Saint-Lucia-Amazone", "Das Gelände ist durch steile Grate und Schluchten geprägt", "Wichtige Quelle für die Flüsse Vieux Fort und Troumasse", "Niederschlagsmengen gehören zu den höchsten der Insel"],
+      hu: ["Maximális magassága eléri a 645 métert", "A Mount Grand Magazin Természetvédelmi Terület része", "A ritka Saint Lucia-i amazon papagáj élőhelye", "A terepet meredek gerincek és szurdokok jellemzik", "A Vieux Fort és Troumasse folyók fontos forrásvidéke", "A csapadékmennyiség itt a legmagasabbak közé tartozik"],
+      ro: ["Atinge o înălțime maximă de 645 metri", "Face parte din Rezervația Naturală Mount Grand Magazin", "Găzduiește specia rară de papagal amazonian de Sfânta Lucia", "Terenul este marcat de creste abrupte și râpe", "Sursă importantă pentru râurile Vieux Fort și Troumasse", "Precipitațiile sunt printre cele mai mari de pe insulă"],
+      en: ["Reaches a maximum elevation of 645 meters", "Part of the Mount Grand Magazin Nature Reserve", "Home to the rare Saint Lucia parrot (Amazona versicolor)", "The terrain is marked by steep ridges and ravines", "Key source for the Vieux Fort and Troumasse rivers", "Rainfall levels are among the highest on the island"],
+    },
   },
   {
     id: "saintlucia-mount-parasol-relief-v2",
@@ -57,6 +81,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Elevation of approx. 500 meters", "Located in the Bexon district", "Central mountain ridge", "Erosion-shaped relief"],
     },
     imageHint: "Mount Parasol Saint Lucia landscape",
+    descriptionAdvanced: {
+      de: "Mount Parasol ist eine Erhebung im zentralen Hochland von St. Lucia, nordöstlich von Soufrière. Der Berg verdankt seinen Namen seiner markanten, schirmartigen Form, wenn er aus bestimmten Winkeln betrachtet wird. Er liegt in einer Zone mit hohem Niederschlag und ist fast ständig in Wolken gehüllt.",
+      hu: "A Mount Parasol Saint Lucia központi felföldjén található, Soufrière-től északkeletre. A hegy a nevét jellegzetes, ernyőszerű formájáról kapta, amely bizonyos szögekből nézve rajzolódik ki. Magas csapadékú zónában fekszik, és szinte állandóan felhőkbe burkolózik.",
+      ro: "Muntele Parasol este o înălțime din zonele înalte centrale ale insulei Sfânta Lucia, la nord-est de Soufrière. Muntele își datorează numele formei sale distinctive, asemănătoare unei umbrele. Se află într-o zonă cu precipitații bogate.",
+      en: "Mount Parasol is an elevation in the central highlands of Saint Lucia, northeast of Soufrière. The mountain owes its name to its distinctive umbrella-like shape when viewed from certain angles. It is located in a high-rainfall zone and is almost constantly shrouded in clouds.",
+    },
+    factsAdvanced: {
+      de: ["Die Gipfelhöhe liegt bei etwa 580 Metern", "Umgeben von dichtem Nebelwald (Cloud Forest)", "Bietet Lebensraum für endemische Orchideenarten", "Wichtiger Bestandteil des zentralen Waldreservats", "Der Boden besteht aus verwittertem Vulkangestein", "Nur über inoffizielle Pfade für Experten zugänglich"],
+      hu: ["A csúcs magassága körülbelül 580 méter", "Sűrű köderdő (felhőerdő) veszi körül", "Endemikus orchideafajoknak ad otthont", "A központi erdőrezervátum fontos része", "Talaja mállott vulkáni kőzetből áll", "Csak nem hivatalos ösvényeken, szakértőknek érhető el"],
+      ro: ["Înălțimea vârfului este de aproximativ 580 metri", "Înconjurat de o pădure de nori densă", "Oferă habitat pentru specii de orhidee endemice", "Componentă importantă a Rezervației Forestiere Centrale", "Solul este compus din rocă vulcanică alterată", "Accesibil doar prin poteci neoficiale pentru experți"],
+      en: ["The peak reaches an elevation of about 580 meters", "Surrounded by dense montane cloud forest", "Provides habitat for endemic orchid species", "Important component of the Central Forest Reserve", "Soil consists of weathered volcanic parent material", "Accessible only via unofficial trails for experts"],
+    },
   },
   {
     id: "saintlucia-piton-canarie-relief-v2",
@@ -76,6 +112,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Coastal peak", "Elevation of approx. 450 meters", "Steep drops toward the sea", "Volcanic formation"],
     },
     imageHint: "Piton Canarie Saint Lucia west coast",
+    descriptionAdvanced: {
+      de: "Der Piton Canarie ist ein markanter Bergkegel an der Westküste, der über dem Dorf Canaries thront. Er gehört zur Kette der vulkanischen Erhebungen, die das Relief der Insel prägen. Der Berg ist für seine steilen Flanken und die üppige tropische Vegetation bekannt, die bis zum Gipfel reicht.",
+      hu: "A Piton Canarie egy jellegzetes hegykúp a nyugati parton, amely Canaries faluja felett magasodik. A sziget domborzatát meghatározó vulkáni magaslatok láncolatához tartozik. A hegy meredek oldalairól és a csúcsig érő buja trópusi növényzetéről ismert.",
+      ro: "Piton Canarie este un con muntos proeminent pe coasta de vest, care domină satul Canaries. Aparține lanțului de înălțimi vulcanice care definesc relieful insulei. Muntele este cunoscut pentru flancurile sale abrupte și vegetația tropicală luxuriantă.",
+      en: "Piton Canarie is a prominent volcanic cone on the west coast, towering over the village of Canaries. It belongs to the chain of volcanic elevations that define the island's relief. The mountain is known for its steep flanks and lush tropical vegetation that extends to the summit.",
+    },
+    factsAdvanced: {
+      de: ["Erreicht eine Höhe von 603 Metern", "Gehört geologisch zum Canaries-Vulkanzentrum", "Historisch als Orientierungspunkt für Seefahrer genutzt", "Die Vegetation umfasst Bergregenwald und Elfenwald", "Wichtiger Lebensraum für die Saint-Lucia-Schlange", "Steile Klippen bieten Nistplätze für Seevögel"],
+      hu: ["Magassága eléri a 603 métert", "Földtanilag a Canaries vulkáni központhoz tartozik", "Történelmileg tájékozódási pont volt a tengerészeknek", "Növényzete hegyi esőerdőt és törpeerdőt is tartalmaz", "A Saint Lucia-i sikló egyik fontos élőhelye", "Meredek sziklái tengeri madarak fészkelőhelyei"],
+      ro: ["Atinge o înălțime de 603 metri", "Aparține geologic de centrul vulcanic Canaries", "Utilizat istoric ca punct de reper pentru navigatori", "Vegetația include pădure montană și pădure pitică", "Habitat important pentru șarpele de Sfânta Lucia", "Stâncile abrupte oferă locuri de cuibărit pentru păsări"],
+      en: ["Reaches an elevation of 603 meters", "Geologically part of the Canaries volcanic center", "Historically used as a landmark for sailors", "Vegetation includes montane forest and elfin woodland", "Important habitat for the Saint Lucia racer snake", "Steep cliffs provide nesting sites for seabirds"],
+    },
   },
   {
     id: "saintlucia-mount-du-chazeau-relief-v2",
@@ -95,6 +143,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Northern location", "Elevation of approx. 300 meters", "Agriculturally used slopes", "Part of the northeastern plateau"],
     },
     imageHint: "Mount du Chazeau Saint Lucia hills",
+    descriptionAdvanced: {
+      de: "Mount du Chazeau ist eine Erhebung im nördlichen Teil von St. Lucia, nahe der Gemeinde Babonneau. Der Berg bietet eine weite Aussicht über die Nordküste und den Atlantik. Er ist weniger steil als die südlichen Berge und wird teilweise landwirtschaftlich genutzt, vor allem für den Anbau von Obstbäumen.",
+      hu: "A Mount du Chazeau Saint Lucia északi részén található, Babonneau közössége közelében. A hegy széles kilátást nyújt az északi partra és az Atlanti-óceánra. Kevésbé meredek, mint a déli hegyek, és részben mezőgazdasági művelés alatt áll, főleg gyümölcsfákat termesztenek rajta.",
+      ro: "Muntele du Chazeau este o înălțime în partea de nord a insulei Sfânta Lucia, lângă comunitatea Babonneau. Muntele oferă o vedere largă asupra coastei de nord și a Atlanticului. Este mai puțin abrupt decât munții din sud și este parțial utilizat pentru agricultură.",
+      en: "Mount du Chazeau is an elevation in the northern part of Saint Lucia, near the community of Babonneau. The mountain offers a broad view over the north coast and the Atlantic Ocean. It is less steep than the southern mountains and is partially used for agriculture, primarily fruit tree cultivation.",
+    },
+    factsAdvanced: {
+      de: ["Die Höhe liegt bei ungefähr 350 Metern", "Wichtiger Standort für Telekommunikationsmasten", "Gilt als Tor zum Babonneau-Waldreservat", "Die Böden sind sehr fruchtbar und vulkanischen Ursprungs", "Beliebter Ort für Vogelbeobachtungen in Siedlungsnähe", "Historisch Teil großer französischer Landgüter"],
+      hu: ["Magassága körülbelül 350 méter", "Telekommunikációs tornyok fontos helyszíne", "A Babonneau erdőrezervátum kapujának tekintik", "Talaja igen termékeny és vulkáni eredetű", "Népszerű madármegfigyelő hely a települések közelében", "Történelmileg nagy francia birtokok része volt"],
+      ro: ["Înălțimea este de aproximativ 350 metri", "Locație importantă pentru piloni de telecomunicații", "Considerat poarta către Rezervația Babonneau", "Solurile sunt foarte fertile și de origine vulcanică", "Loc popular pentru observarea păsărilor lângă așezări", "Istoric, a făcut parte din mari domenii franceze"],
+      en: ["The elevation is approximately 350 meters", "Important site for telecommunications towers", "Considered a gateway to the Babonneau Forest Reserve", "Soils are highly fertile and of volcanic origin", "Popular birdwatching location near residential areas", "Historically part of large French land estates"],
+    },
   },
   {
     id: "saintlucia-barre-de-lisle-ridge-relief-v2",
@@ -114,6 +174,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Central mountain backbone", "Divide between leeward and windward sides", "Hiking trails along the ridge", "Highest road pass on the island"],
     },
     imageHint: "Barre de l'Isle ridge Saint Lucia mountains",
+    descriptionAdvanced: {
+      de: "Die Barre de l'Isle Ridge ist ein zentraler Gebirgsrücken, der St. Lucia in eine östliche und eine westliche Hälfte teilt. Er dient als Wasserscheide und ist von dichtem Regenwald bedeckt. Ein bekannter Wanderweg führt entlang des Rückens und bietet spektakuläre Ausblicke auf das Mabouya Valley und den Mount Gimie.",
+      hu: "A Barre de l'Isle-gerinc egy központi hegyvonulat, amely Saint Luciát keleti és nyugati félre osztja. Vízválasztóként szolgál, és sűrű esőerdő borítja. Egy ismert túraútvonal halad végig a gerincen, amely látványos kilátást nyújt a Mabouya-völgyre és a Mount Gimie hegyre.",
+      ro: "Creasta Barre de l'Isle este o culme muntoasă centrală care împarte Sfânta Lucia în jumătăți de est și vest. Servește ca diviziune a apelor și este acoperită de pădure tropicală densă. O potecă cunoscută oferă vederi spre Valea Mabouya.",
+      en: "The Barre de l'Isle Ridge is a central mountain ridge that divides Saint Lucia into eastern and western halves. It serves as a major watershed and is covered by dense rainforest. A well-known trail runs along the ridge, offering spectacular views of the Mabouya Valley and Mount Gimie.",
+    },
+    factsAdvanced: {
+      de: ["Die höchste Erhebung am Pfad liegt bei 440 Metern", "Trennt die Einzugsgebiete des Atlantiks und der Karibik", "Wanderweg hat eine Länge von etwa 2 Kilometern", "Häufiger Sichtungsort für den Saint-Lucia-Papagei", "Die Route kreuzt die Hauptstraße Castries-Dennery", "Beinhaltet einen Aussichtspunkt auf den Cul de Sac River"],
+      hu: ["A túraútvonal legmagasabb pontja 440 méteren van", "Elválasztja az Atlanti-óceán és a Karib-tenger vízgyűjtőit", "A túraútvonal hossza körülbelül 2 kilométer", "Gyakori helyszíne a Saint Lucia-i papagáj észlelésének", "Az útvonal keresztezi a Castries-Dennery főutat", "Kilátópontot tartalmaz a Cul de Sac-folyóra"],
+      ro: ["Cea mai mare înălțime de pe traseu este de 440 metri", "Separă bazinele hidrografice ale Atlanticului și Caraibilor", "Traseul de drumeție are o lungime de circa 2 kilometri", "Loc frecvent de observare pentru papagalul de Sfânta Lucia", "Ruta traversează drumul principal Castries-Dennery", "Include un punct de observație asupra râului Cul de Sac"],
+      en: ["The highest point on the trail is 440 meters", "Separates the Atlantic and Caribbean watersheds", "The hiking trail is approximately 2 kilometers long", "Frequent sighting location for the Saint Lucia parrot", "The route intersects the main Castries-Dennery road", "Features a lookout point over the Cul de Sac River"],
+    },
   },
   {
     id: "saintlucia-mabouya-valley-relief-v2",
@@ -133,6 +205,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Center of banana cultivation", "Flat alluvial terrace", "Traversed by the Mabouya River", "Bordered by steep slopes"],
     },
     imageHint: "Mabouya Valley Saint Lucia plantation",
+    descriptionAdvanced: {
+      de: "Das Mabouya Valley an der Ostküste von St. Lucia ist ein bedeutendes landwirtschaftliches Zentrum. Das Tal ist bekannt für seinen fruchtbaren vulkanischen Boden und wird hauptsächlich für den Bananenanbau genutzt. Es wird von den umliegenden Bergen begrenzt, die für eine hohe Luftfeuchtigkeit und regelmäßige Niederschläge sorgen.",
+      hu: "A Saint Lucia keleti partján található Mabouya-völgy jelentős mezőgazdasági központ. A völgy termékeny vulkáni talajáról ismert, és elsősorban banántermesztésre használják. A környező hegyek határolják, amelyek biztosítják a magas páratartalmat és a rendszeres csapadékot.",
+      ro: "Valea Mabouya, situată pe coasta de est a insulei Sfânta Lucia, este un centru agricol semnificativ. Valea este cunoscută pentru solul său vulcanic fertil și este utilizată în principal pentru cultura bananelor. Este mărginită de munți înalți.",
+      en: "The Mabouya Valley on the east coast of Saint Lucia is a significant agricultural center. The valley is known for its fertile volcanic soil and is primarily used for banana cultivation. It is bordered by surrounding mountains that ensure high humidity and regular rainfall.",
+    },
+    factsAdvanced: {
+      de: ["Eines der größten Täler auf der Windward-Seite", "Wird vom Dennery River und seinen Zuflüssen entwässert", "Historisch Standort mehrerer großer Zuckerplantagen", "Heimat der Gemeinde Dennery im Mündungsbereich", "Zentrum für Agro-Tourismus-Initiativen auf der Insel", "Bietet ideale Bedingungen für den Anbau von Kakao"],
+      hu: ["Az egyik legnagyobb völgy a szél felőli (keleti) oldalon", "A Dennery-folyó és mellékfolyói vezetik le a vizét", "Történelmileg több nagy cukorültetvény helyszíne volt", "A torkolatnál Dennery közösségének ad otthont", "A sziget agro-turisztikai kezdeményezéseinek központja", "Ideális feltételeket biztosít a kakaó termesztéséhez"],
+      ro: ["Una dintre cele mai mari văi de pe partea expusă vântului", "Drenată de râul Dennery și afluenții săi", "Istoric, a fost locul mai multor plantații de zahăr", "Găzduiește comunitatea Dennery în zona de vărsare", "Centru pentru inițiative de agroturism pe insulă", "Oferă condiții ideale pentru cultivarea cacauei"],
+      en: ["One of the largest valleys on the windward side", "Drained by the Dennery River and its tributaries", "Historically the site of several large sugar estates", "Home to the Dennery community in the coastal area", "Hub for agro-tourism initiatives on the island", "Provides ideal conditions for cocoa cultivation"],
+    },
   },
   {
     id: "saintlucia-roseau-valley-relief-v2",
@@ -152,6 +236,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Largest banana cultivation area", "Traversed by the Roseau River", "Home to the Roseau distillery", "Relief with low gradient"],
     },
     imageHint: "Roseau Valley Saint Lucia banana plantation",
+    descriptionAdvanced: {
+      de: "Das Roseau Valley an der Westküste ist das größte zusammenhängende Bananenanbaugebiet von St. Lucia. Das Tal erstreckt sich vom zentralen Hochland bis zum Karibischen Meer und wird vom Roseau River durchflossen. Es spielt eine entscheidende Rolle für die Wirtschaft der Insel und die Exportindustrie.",
+      hu: "A nyugati parton fekvő Roseau-völgy Saint Lucia legnagyobb összefüggő banántermő területe. A völgy a központi felföldtől a Karib-tengerig nyúlik, és a Roseau-folyó szeli át. Döntő szerepet játszik a sziget gazdaságában és az exportiparban.",
+      ro: "Valea Roseau, situată pe coasta de vest, este cea mai mare zonă continuă de cultivare a bananelor din Sfânta Lucia. Valea se întinde de la zonele înalte centrale până la Marea Caraibilor și este traversată de râul Roseau.",
+      en: "The Roseau Valley on the west coast is Saint Lucia's largest contiguous banana-growing area. The valley extends from the central highlands to the Caribbean Sea and is traversed by the Roseau River. It plays a crucial role in the island's economy and export industry.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt die größte Destillerie der Insel (St. Lucia Distillers)", "Der Roseau River ist der wasserreichste Fluss der Westküste", "Einst das Zentrum der lokalen Zuckerindustrie", "Hier befindet sich ein bedeutender Windpark zur Energiegewinnung", "Das Tal ist durch vulkanische Schwemmböden geprägt", "Wichtiger Standort für die landwirtschaftliche Forschung"],
+      hu: ["Itt található a sziget legnagyobb lepárlója (St. Lucia Distillers)", "A Roseau-folyó a nyugati part legbővizűbb folyója", "Egykor a helyi cukoripar központja volt", "Jelentős szélerőműpark található itt az energiatermeléshez", "A völgyet vulkáni hordaléktalaj jellemzi", "Mezőgazdasági kutatások fontos helyszíne"],
+      ro: ["Găzduiește cea mai mare distilerie de pe insulă", "Râul Roseau este cel mai voluminos râu de pe coasta de vest", "Fost centru al industriei locale a zahărului", "Include un parc eolian semnificativ pentru energie", "Valea este marcată de soluri aluvionare vulcanice", "Locație importantă pentru cercetarea agricolă"],
+      en: ["Home to the island's largest distillery (St. Lucia Distillers)", "The Roseau River is the most voluminous river on the west coast", "Once the epicenter of the local sugar industry", "Contains a significant wind farm for energy production", "The valley is characterized by volcanic alluvial soils", "Important site for agricultural research and development"],
+    },
   },
   {
     id: "saintlucia-soufriere-volcanic-basin-relief-v2",
@@ -171,6 +267,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Location of the 'drive-in' volcano", "Geologically active zone", "Sulfurous hot springs", "Bowl-shaped depression"],
     },
     imageHint: "Soufrière volcano crater Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Soufrière-Vulkanbecken ist Teil der Qualibou-Caldera im Südwesten von St. Lucia. Es beherbergt die berühmten Schwefelquellen, die als einziger Drive-in-Vulkan der Welt gelten. Geologisch ist das Gebiet durch hydrothermale Aktivitäten und Lavadome wie die Pitons geprägt. Die Landschaft zeugt von massiven vulkanischen Ereignissen vor etwa 30.000 Jahren.",
+      hu: "A Soufrière vulkáni medence a Qualibou-kaldera része Saint Lucia délnyugati részén. Itt találhatók a híres kénes források, amelyeket a világ egyetlen autóval bejárható vulkánjaként ismernek. A területet hidrotermális aktivitás és olyan lávadómok jellemzik, mint a Pitonok. A táj az évszázadokkal ezelőtti heves vulkáni tevékenység nyomait őrzi.",
+      ro: "Bazinul vulcanic Soufrière face parte din caldera Qualibou, situată în sud-vestul insulei Sfânta Lucia. Acesta găzduiește faimoasele izvoare de sulf, cunoscute drept singurul vulcan din lume care poate fi parcurs cu mașina. Zona este marcată de activitate hidrotermală și domuri de lavă proeminente, precum Pitons. Relieful reflectă evenimente vulcanice masive de acum 30.000 de ani.",
+      en: "The Soufrière Volcanic Basin is part of the Qualibou caldera in southwestern Saint Lucia. It home to the famous Sulphur Springs, recognized as the world's only drive-in volcano. Geologically, the area is characterized by hydrothermal activity and prominent lava domes such as the Pitons. The landscape bears witness to massive volcanic events that occurred approximately 30,000 years ago.",
+    },
+    factsAdvanced: {
+      de: ["Teil der 5 x 6,5 km großen Qualibou-Caldera", "Beherbergt über 20 aktive Thermalquellen", "Wassertemperaturen erreichen oft 170 Grad Celsius", "Die letzten phreatischen Eruptionen fanden 1766 statt", "Gehört seit 2004 zum UNESCO-Welterbe der Pitons", "Vulkanische Gase bestehen primär aus Schwefelwasserstoff"],
+      hu: ["Az 5 x 6,5 km-es Qualibou-kaldera része", "Több mint 20 aktív hévízforrás található itt", "A víz hőmérséklete gyakran eléri a 170 Celsius-fokot", "Az utolsó freatikus kitörés 1766-ban történt", "2004 óta a Pitonok UNESCO világörökségi helyszín része", "A vulkáni gázok főleg kén-hidrogénből állnak"],
+      ro: ["Face parte din caldera Qualibou de 5 x 6,5 km", "Găzduiește peste 20 de izvoare termale active", "Temperaturile apei ating adesea 170 de grade Celsius", "Ultimele erupții freatice au avut loc în 1766", "Inclus în situl UNESCO Pitons din anul 2004", "Gazele vulcanice sunt compuse în principal din hidrogen sulfurat"],
+      en: ["Part of the 5 x 6.5 km Qualibou caldera", "Home to more than 20 active thermal springs", "Water temperatures often reach 170 degrees Celsius", "The last phreatic eruptions occurred in 1766", "Included in the Pitons UNESCO World Heritage site since 2004", "Volcanic gases consist primarily of hydrogen sulfide"],
+    },
   },
   {
     id: "saintlucia-mount-bellevue-relief-v2",
@@ -190,6 +298,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Elevation of approx. 400 meters", "Located near Vieux Fort", "Vantage point for the Atlantic", "Volcanic origin"],
     },
     imageHint: "Mount Bellevue Saint Lucia viewpoint",
+    descriptionAdvanced: {
+      de: "Der Mount Bellevue ist eine markante Erhebung im südlichen Teil der Insel Saint Lucia. Er gehört zum zentralen Gebirgszug, der die Entwässerungsmuster der Region beeinflusst. Die Hänge sind mit dichtem tropischem Regenwald bedeckt, der wichtige Ökosystemdienstleistungen erbringt. Geologisch besteht der Berg überwiegend aus vulkanischem Gestein der frühen Entstehungsphase.",
+      hu: "A Mount Bellevue egy jelentős magaslat Saint Lucia déli részén. A központi hegylánchoz tartozik, amely meghatározza a régió vízgyűjtő területeit. Lejtőit sűrű trópusi esőerdő borítja, amely fontos ökoszisztéma-szolgáltatásokat nyújt. Geológiailag a hegy túlnyomórészt a sziget korai szakaszából származó vulkáni kőzetekből épül fel.",
+      ro: "Muntele Bellevue este o înălțime proeminentă situată în partea de sud a insulei Sfânta Lucia. Acesta aparține lanțului muntos central, influențând tiparele de drenaj ale regiunii. Versanții sunt acoperiți de pădure tropicală densă, care oferă servicii ecosistemice esențiale. Din punct de vedere geologic, muntele este compus în principal din roci vulcanice timpurii.",
+      en: "Mount Bellevue is a prominent elevation located in the southern part of Saint Lucia. It belongs to the central mountain range, which influences the drainage patterns of the region. The slopes are covered with dense tropical rainforest, providing essential ecosystem services. Geologically, the mountain consists predominantly of volcanic rock from the island's early formation phase.",
+    },
+    factsAdvanced: {
+      de: ["Erreicht eine Höhe von ca. 450 Metern über dem Meer", "Besteht aus Andesit und Basaltgestein", "Wichtiger Wasserspeicher für die südlichen Gemeinden", "Bietet Lebensraum für endemische Vogelarten", "Teil der vulkanischen Achse der Kleinen Antillen", "Niederschlagsmengen überschreiten oft 2500 mm pro Jahr"],
+      hu: ["Körülbelül 450 méterrel emelkedik a tengerszint fölé", "Andezitből és bazaltkőzetből épül fel", "Fontos víztározó a déli közösségek számára", "Élőhelyet biztosít endemikus madárfajoknak", "A Kis-Antillák vulkáni ívének része", "Az éves csapadékmennyiség gyakran meghaladja a 2500 mm-t"],
+      ro: ["Atinge o înălțime de aproximativ 450 de metri", "Format din roci de andezit și bazalt", "Rezervor important de apă pentru comunitățile sudice", "Oferă habitat pentru specii de păsări endemice", "Parte a axei vulcanice a Antilelor Mici", "Precipitațiile depășesc adesea 2500 mm pe an"],
+      en: ["Reaches an elevation of approximately 450 meters", "Composed of andesite and basaltic rock", "Important water catchment for southern communities", "Provides habitat for endemic bird species", "Part of the volcanic axis of the Lesser Antilles", "Annual rainfall often exceeds 2,500 mm"],
+    },
   },
   {
     id: "saintlucia-vigie-promontory-relief-v2",
@@ -209,6 +329,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Northern protective wall of the harbor", "Site of Vigie airport", "Former military base", "Low elevation"],
     },
     imageHint: "Vigie promontory Castries Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Vigie-Vorgebirge erstreckt sich nördlich der Hauptstadt Castries und schützt den dortigen Naturhafen. Es war historisch ein strategischer Militärstandort, was durch Ruinen von Befestigungsanlagen belegt ist. Heute beherbergt es den George F. L. Charles Flughafen und einen markanten Leuchtturm. Die Klippen bieten einen weiten Blick über die Karibische See und die Nordküste.",
+      hu: "A Vigie-fok Castries fővárostól északra húzódik, és védelmet nyújt a természetes kikötőnek. Történelmileg stratégiai katonai helyszín volt, amit erődítmények romjai bizonyítanak. Ma itt található a George F. L. Charles repülőtér és egy jellegzetes világítótorony. A sziklák széles kilátást nyújtanak a Karib-tengerre és az északi partvidékre.",
+      ro: "Promontoriul Vigie se extinde la nord de capitala Castries, protejând portul natural al orașului. Din punct de vedere istoric, a fost un punct militar strategic, dovadă fiind ruinele fortificațiilor. Astăzi găzduiește aeroportul George F. L. Charles și un far proeminent. Stâncile oferă o vedere panoramică asupra Mării Caraibilor și a coastei de nord.",
+      en: "The Vigie Promontory extends north of the capital city, Castries, protecting its natural harbor. Historically, it was a strategic military site, evidenced by the ruins of various fortifications. Today, it houses the George F. L. Charles Airport and a prominent lighthouse. The cliffs offer expansive views over the Caribbean Sea and the island's northern coastline.",
+    },
+    factsAdvanced: {
+      de: ["Standort des Vigie-Leuchtturms von 1883", "Schauplatz zahlreicher Schlachten zwischen Briten und Franzosen", "Beherbergt das historische Government House", "Die Halbinsel ist ca. 2 Kilometer lang", "Höchster Punkt liegt etwa 60 Meter über dem Meer", "Kalksteinablagerungen überlagern das vulkanische Fundament"],
+      hu: ["Az 1883-ban épült Vigie világítótorony helyszíne", "Számos brit-francia ütközet helyszíne volt", "Itt található a történelmi Kormányzati Ház", "A félsziget körülbelül 2 kilométer hosszú", "Legmagasabb pontja 60 méterrel van a tengerszint felett", "Mészkőlerakódások borítják a vulkáni alapot"],
+      ro: ["Locația farului Vigie, construit în 1883", "Scena a numeroase bătălii între britanici și francezi", "Găzduiește istorica Casă a Guvernului", "Peninsula are o lungime de aproximativ 2 kilometri", "Punctul maxim este la circa 60 de metri deasupra mării", "Depozite de calcar suprapuse pe fundația vulcanică"],
+      en: ["Site of the Vigie Lighthouse, built in 1883", "Scene of numerous battles between British and French forces", "Houses the historic Government House", "The peninsula is approximately 2 kilometers long", "Highest point is about 60 meters above sea level", "Limestone deposits overlie the volcanic foundation"],
+    },
   },
   {
     id: "saintlucia-mount-pimard-relief-v2",
@@ -228,6 +360,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Elevation of approx. 200 meters", "View over Rodney Bay", "Popular ecotourism destination", "Steep coastal cliffs"],
     },
     imageHint: "Mount Pimard Rodney Bay Saint Lucia",
+    descriptionAdvanced: {
+      de: "Mount Pimard ist eine Küstenerhebung am südlichen Ende der Rodney Bay im Norden von Saint Lucia. Der Berg dient als natürlicher Sichtschutz zwischen Gros Islet und dem Meer. Er ist ein beliebtes Ziel für Wanderungen und bietet Panoramablicke auf Pigeon Island. Die Vegetation besteht vorwiegend aus tropischem Trockenwald und Sekundärbewuchs.",
+      hu: "A Mount Pimard egy parti magaslat a Rodney-öböl déli végén, Saint Lucia északi részén. A hegy természetes válaszfalként szolgál Gros Islet és a tenger között. Népszerű túracélpont, ahonnan panorámás kilátás nyílik a Pigeon-szigetre. A növényzet főként trópusi száraz erdőkből és másodlagos aljnövényzetből áll.",
+      ro: "Muntele Pimard este o proeminență de coastă situată la capătul sudic al golfului Rodney, în nordul insulei Sfânta Lucia. Muntele servește ca barieră vizuală naturală între Gros Islet și mare. Este o destinație populară pentru drumeții, oferind vederi panoramice către Insula Pigeon. Vegetația constă în principal din pădure tropicală uscată și tufișuri secundare.",
+      en: "Mount Pimard is a coastal elevation located at the southern end of Rodney Bay in northern Saint Lucia. The mountain serves as a natural visual barrier between Gros Islet and the sea. It is a popular destination for hiking, offering panoramic views of Pigeon Island. The vegetation consists primarily of tropical dry forest and secondary growth.",
+    },
+    factsAdvanced: {
+      de: ["Erreicht eine maximale Höhe von 154 Metern", "Besteht aus pyroklastischem Gestein und Brekzien", "Wanderwege erstrecken sich über ca. 3 Kilometer", "Früherer Standort militärischer Beobachtungsposten", "Grenzregion zwischen vulkanischem und korallinem Terrain", "Beherbergt seltene Echsenarten der Gattung Anolis"],
+      hu: ["Maximális magassága 154 méter", "Piroklasztikus kőzetekből és breccsákból áll", "A túraútvonalak hossza kb. 3 kilométer", "Korábban katonai megfigyelőpontok helyszíne volt", "Határterület a vulkáni és korallos terep között", "Ritka Anolis nemzetségbe tartozó gyíkfajok élőhelye"],
+      ro: ["Atinge o înălțime maximă de 154 de metri", "Format din roci piroclastice și brecii", "Traseele de drumeție se întind pe circa 3 kilometri", "Fost sit pentru posturi de observație militară", "Regiune de tranziție între teren vulcanic și coraligen", "Găzduiește specii rare de șopârle din genul Anolis"],
+      en: ["Reaches a maximum elevation of 154 meters", "Composed of pyroclastic rocks and breccias", "Hiking trails extend for approximately 3 kilometers", "Former site of military observation posts", "Border region between volcanic and coralline terrain", "Home to rare lizard species of the genus Anolis"],
+    },
   },
   {
     id: "saintlucia-moule-a-chique-relief-v2",
@@ -247,6 +391,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Location of a lighthouse", "Highest point in the south", "View of St. Vincent possible", "Strong sea surf"],
     },
     imageHint: "Moule a Chique lighthouse Saint Lucia",
+    descriptionAdvanced: {
+      de: "Moule à Chique ist die südlichste Halbinsel von Saint Lucia bei Vieux Fort. Das markante Vorgebirge ragt steil aus dem Karibischen Meer empor und trennt den Atlantik von der Karibik. Auf seinem Gipfel befindet sich einer der am höchsten gelegenen Leuchttürme der Welt. Von hier aus bietet sich bei klarer Sicht ein Blick bis zur Nachbarinsel St. Vincent.",
+      hu: "A Moule à Chique Saint Lucia legdélibb félszigete Vieux Fort közelében. A jellegzetes fok meredeken emelkedik ki a Karib-tengerből, elválasztva az Atlanti-óceánt a Karib-tengertől. Csúcsán található a világ egyik legmagasabban fekvő világítótornya. Tiszta időben innen ellátni egészen a szomszédos Saint Vincent szigetéig.",
+      ro: "Moule à Chique este cea mai sudică peninsulă a insulei Sfânta Lucia, lângă Vieux Fort. Promontoriul proeminent se ridică abrupt din Marea Caraibilor, separând Atlanticul de Caraibe. Pe vârful său se află unul dintre farurile situate la cea mai mare altitudine din lume. De aici, în condiții de vizibilitate bună, se poate vedea insula vecină Sfântul Vincențiu.",
+      en: "Moule à Chique is the southernmost peninsula of Saint Lucia, located near Vieux Fort. The prominent headland rises steeply from the Caribbean Sea, separating the Atlantic Ocean from the Caribbean. Its summit hosts one of the highest-positioned lighthouses in the world. From here, on clear days, visitors can see as far as the neighboring island of St. Vincent.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt liegt auf 226 Metern über dem Meer", "Der Leuchtturm wurde im Jahr 1912 erbaut", "Zweithöchster Leuchtturm weltweit nach geografischer Lage", "Strategischer Punkt während des Zweiten Weltkriegs", "Besteht aus basaltischem Vulkangestein", "Wichtiger Orientierungspunkt für die Seefahrt im Südsektor"],
+      hu: ["Legmagasabb pontja 226 méterrel van a tenger felett", "A világítótorony 1912-ben épült", "A világ második legmagasabb elhelyezkedésű világítótornya", "Stratégiai pont volt a második világháború alatt", "Bazaltos vulkáni kőzetből épül fel", "Fontos tájékozódási pont a déli szektor hajózása számára"],
+      ro: ["Punctul maxim este la 226 de metri altitudine", "Farul a fost construit în anul 1912", "Al doilea cel mai înalt far din lume ca poziție geografică", "Punct strategic în timpul celui de-al Doilea Război Mondial", "Compus din roci vulcanice bazaltice", "Punct de reper vital pentru navigația în sectorul sudic"],
+      en: ["Highest point is 226 meters above sea level", "The lighthouse was constructed in 1912", "World's second highest lighthouse by elevation", "Strategic location during World War II", "Composed of basaltic volcanic rock", "Vital landmark for maritime navigation in the southern sector"],
+    },
   },
   {
     id: "saintlucia-dennery-highlands-relief-v2",
@@ -266,6 +422,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Wild Atlantic landscape", "Elevation up to 400 meters", "Center for adventure sports", "Rugged coastal relief"],
     },
     imageHint: "Dennery Highlands Saint Lucia landscape",
+    descriptionAdvanced: {
+      de: "Die Dennery Highlands erstrecken sich entlang der zerklüfteten Ostküste von Saint Lucia. Dieses Hochland ist durch tiefe Täler und steile Bergrücken geprägt, die den Passatwinden direkt ausgesetzt sind. Das Gebiet ist weitgehend unerschlossen und beherbergt dichte Waldreservate. Es spielt eine entscheidende Rolle für den Wasserhaushalt der umliegenden landwirtschaftlichen Flächen.",
+      hu: "A Dennery-felföld Saint Lucia tagolt keleti partja mentén húzódik. Ezt a felföldet mély völgyek és meredek hegygerincek jellemzik, amelyek közvetlenül ki vannak téve a passzátszeleknek. A terület nagyrészt érintetlen, és sűrű erdőrezervátumoknak ad otthont. Döntő szerepet játszik a környező mezőgazdasági területek vízháztartásában.",
+      ro: "Podișul Dennery se întinde de-a lungul coastei de est accidentate a insulei Sfânta Lucia. Această zonă înaltă este marcată de văi adânci și creste abrupte, fiind expusă direct vânturilor alizee. Teritoriul este în mare parte neamenajat și adăpostește rezervații forestiere dense. Joacă un rol crucial în gestionarea resurselor de apă pentru zonele agricole limitrofe.",
+      en: "The Dennery Highlands stretch along the rugged eastern coast of Saint Lucia. This upland area is characterized by deep valleys and steep ridges, directly exposed to the trade winds. Much of the region remains undeveloped and hosts dense forest reserves. It plays a crucial role in the water balance for the surrounding agricultural lands.",
+    },
+    factsAdvanced: {
+      de: ["Durchschnittliche Höhe liegt bei etwa 300 Metern", "Beinhaltet Teile des Dennery-Wasserfalls", "Vulkanische Böden fördern den Anbau von Bananen", "Wichtiger Korridor für den endemischen St.-Lucia-Papagei", "Geologische Formationen stammen aus dem Miozän", "Jährliche Niederschläge erreichen bis zu 3000 mm"],
+      hu: ["Átlagos magassága körülbelül 300 méter", "Itt található a Dennery-vízesés egy része", "Vulkáni talaja kedvez a banántermesztésnek", "Fontos folyosó az endemikus Saint Lucia-i papagáj számára", "Geológiai képződményei a miocén korszakból származnak", "Az éves csapadékmennyiség eléri a 3000 mm-t"],
+      ro: ["Altitudinea medie este de aproximativ 300 de metri", "Include porțiuni ale cascadei Dennery", "Solurile vulcanice favorizează cultivarea bananelor", "Coridor important pentru papagalul endemic de Sfânta Lucia", "Formațiunile geologice datează din epoca miocenului", "Precipitațiile anuale ating până la 3000 mm"],
+      en: ["Average elevation is approximately 300 meters", "Includes sections of the Dennery Waterfall", "Volcanic soils support extensive banana cultivation", "Important corridor for the endemic Saint Lucia parrot", "Geological formations date back to the Miocene epoch", "Annual rainfall reaches up to 3,000 mm"],
+    },
   },
   {
     id: "saintlucia-choiseul-plateau-relief-v2",
@@ -285,6 +453,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Significant agricultural area", "Formed by volcanic ash", "Located between Pitons and Vieux Fort", "Known for pottery crafts"],
     },
     imageHint: "Choiseul landscape Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Choiseul-Plateau ist eine sanft abfallende vulkanische Ebene im Südwesten der Insel. Es ist bekannt für seine fruchtbaren Böden, die durch pyroklastische Ablagerungen der Piton-Eruptionen entstanden sind. Das Gebiet ist ein Zentrum des traditionellen Kunsthandwerks, insbesondere der Töpferei. Die Geomorphologie ist durch Erosionsrinnen geprägt, die zum Meer führen.",
+      hu: "A Choiseul-fennsík egy enyhén lejtő vulkáni síkság a sziget délnyugati részén. Termékeny talajáról ismert, amely a Piton-kitörések piroklasztikus lerakódásaiból alakult ki. A terület a hagyományos kézművesség, különösen a fazekasság központja. Geomorfológiáját a tenger felé vezető eróziós árkok határozzák meg.",
+      ro: "Podișul Choiseul este o câmpie vulcanică ușor înclinată, situată în sud-vestul insulei. Este renumit pentru solurile sale fertile, formate din depozite piroclastice ale erupțiilor Piton. Zona este un centru al meșteșugurilor tradiționale, în special al olăritului. Geomorfologia este marcată de rigole de eroziune care coboară spre mare.",
+      en: "The Choiseul Plateau is a gently sloping volcanic plain located in the southwest of the island. It is known for its fertile soils, formed by pyroclastic deposits from the Piton eruptions. The area is a hub for traditional crafts, particularly pottery. The geomorphology is characterized by erosion gullies leading down to the sea.",
+    },
+    factsAdvanced: {
+      de: ["Besteht überwiegend aus hellen Bimssteinablagerungen", "Zentrum der handwerklichen Tonverarbeitung seit Generationen", "Höhe variiert zwischen 50 und 150 Metern", "Fundort zahlreicher präkolumbianischer Artefakte", "Wichtiges Anbaugebiet für Maniok und Süßkartoffeln", "Die Klippen am Rand fallen steil zum Karibischen Meer ab"],
+      hu: ["Túlnyomórészt világos színű horzsakő-lerakódásokból áll", "Generációk óta a kézműves agyagmegmunkálás központja", "Magassága 50 és 150 méter között változik", "Számos prekolumbiai lelet lelőhelye", "Fontos manióka- és édesburgonya-termő terület", "Szélső sziklái meredeken szakadnak le a Karib-tengerbe"],
+      ro: ["Compus în principal din depozite de piatră ponce deschisă", "Centru al prelucrării artizanale a argilei de generații", "Altitudinea variază între 50 și 150 de metri", "Situl multor artefacte precolumbiene descoperite", "Zonă importantă pentru cultura maniocului și a cartofilor dulci", "Stâncile marginale coboară abrupt spre Marea Caraibilor"],
+      en: ["Primarily composed of light-colored pumice deposits", "Center for artisanal clay work for generations", "Elevation varies between 50 and 150 meters", "Site of numerous pre-Columbian artifact finds", "Important area for cassava and sweet potato cultivation", "The marginal cliffs drop steeply to the Caribbean Sea"],
+    },
   },
   {
     id: "saintlucia-laborie-hills-relief-v2",
@@ -304,6 +484,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Elevation of approx. 150-250 meters", "Green hilly landscape", "Surrounded by fishing villages", "Volcanic weathering soils"],
     },
     imageHint: "Laborie hills Saint Lucia scenery",
+    descriptionAdvanced: {
+      de: "Die Laborie Hills erheben sich hinter dem malerischen Fischerdorf Laborie an der Südküste. Diese Hügelkette bietet einen natürlichen Schutz gegen Stürme und prägt das lokale Mikroklima. Die Hänge sind terrassiert und werden für den kleinbäuerlichen Anbau genutzt. Von den Kämmen aus hat man einen ungehinderten Blick auf die Karibische See und die südlichen Riffe.",
+      hu: "A Laborie-dombok a déli parton fekvő festői Laborie halászfalu mögött emelkednek. Ez a dombsor természetes védelmet nyújt a viharok ellen, és meghatározza a helyi mikroklímát. A lejtők teraszosak, és kisüzemi mezőgazdasági termelésre használják őket. A gerincekről akadálytalan kilátás nyílik a Karib-tengerre és a déli zátonyokra.",
+      ro: "Dealurile Laborie se ridică în spatele satului pitoresc de pescari Laborie, pe coasta de sud. Acest lanț de dealuri oferă protecție naturală împotriva furtunilor și definește microclimatul local. Versanții sunt terasați și utilizați pentru agricultura la scară mică. De pe creste se deschide o vedere neobstrucționată spre Marea Caraibilor și recifele sudice.",
+      en: "The Laborie Hills rise behind the picturesque fishing village of Laborie on the southern coast. This range of hills provides natural protection against storms and defines the local microclimate. The slopes are terraced and used for small-scale agricultural cultivation. From the ridges, there is an unobstructed view of the Caribbean Sea and the southern reefs.",
+    },
+    factsAdvanced: {
+      de: ["Erreichen Höhen von bis zu 200 Metern", "Bestehen aus verwittertem vulkanischem Material", "Standort historischer Zuckerrohrplantagen", "Beherbergen Reste kolonialer Steinbauten", "Wichtiger Lebensraum für die St.-Lucia-Bodenmarder", "Bieten Schutz für die Bucht von Laborie vor Nordwinden"],
+      hu: ["Magasságuk eléri a 200 métert", "Mállott vulkáni anyagból épülnek fel", "Történelmi cukornádültetvények helyszíne", "Gyarmati kőépületek maradványait őrzik", "Fontos élőhely a Saint Lucia-i földi mongúzok számára", "Védelmet nyújtanak a Laborie-öbölnek az északi szelektől"],
+      ro: ["Ating înălțimi de până la 200 de metri", "Formate din material vulcanic alterat", "Locația unor foste plantații istorice de trestie de zahăr", "Adăpostesc resturi ale unor construcții coloniale din piatră", "Habitat important pentru mangustele de sol din Sfânta Lucia", "Protejează golful Laborie de vânturile din nord"],
+      en: ["Reach elevations of up to 200 meters", "Composed of weathered volcanic material", "Site of historic sugarcane plantations", "Home to remains of colonial-era stone structures", "Important habitat for Saint Lucian ground wildlife", "Provide shelter for Laborie Bay from northern winds"],
+    },
   },
   {
     id: "saintlucia-marigot-bay-ridge-relief-v2",
@@ -323,6 +515,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Natural windbreak", "Elevation of approx. 100 meters", "Forested slopes", "Important for maritime safety"],
     },
     imageHint: "Marigot Bay ridge Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Marigot Bay Ridge ist ein schmaler Bergrücken, der die berühmte Marigot Bay im Westen der Insel umschließt. Er trennt das ruhige Wasser der Bucht von der offenen Karibischen See. Historisch diente der Kamm als Versteck für Flotten, da die Bucht von außen fast unsichtbar ist. Heute ist er ein exklusives Wohngebiet mit bedeutender touristischer Infrastruktur.",
+      hu: "A Marigot-öböl gerince egy keskeny hegyhát, amely körbeöleli a híres Marigot-öblöt a sziget nyugati részén. Elválasztja az öböl nyugodt vizét a nyílt Karib-tengertől. Történelmileg a gerinc flották rejtekhelyeként szolgált, mivel az öböl kívülről szinte láthatatlan. Ma exkluzív lakóövezet, jelentős turisztikai infrastruktúrával.",
+      ro: "Creasta golfului Marigot este un lanț muntos îngust care înconjoară faimosul golf Marigot, în vestul insulei. Separă apele calme ale golfului de marea deschisă a Caraibilor. Din punct de vedere istoric, creasta a servit drept ascunzătoare pentru flote, deoarece golful este aproape invizibil din exterior. Astăzi este o zonă rezidențială exclusivistă cu infrastructură turistică.",
+      en: "The Marigot Bay Ridge is a narrow ridge that encircles the famous Marigot Bay on the island's western side. It separates the calm waters of the bay from the open Caribbean Sea. Historically, the ridge served as a hideout for naval fleets, as the bay is almost invisible from the outside. Today, it is an exclusive residential area with significant tourism infrastructure.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt des Kamms liegt bei ca. 120 Metern", "Schauplatz britisch-französischer Seegefechte im 18. Jh.", "Besteht aus massiven Andesitformationen", "Bietet einen 360-Grad-Blick über die Westküste", "Dicht bewaldet mit Palmen und tropischen Harthölzern", "Bekannt als Drehort für Hollywood-Filme wie 'Dr. Dolittle'"],
+      hu: ["A gerinc legmagasabb pontja kb. 120 méter", "18. századi brit-francia tengeri csaták helyszíne", "Masszív andezitképződményekből áll", "360 fokos kilátást nyújt a nyugati partra", "Sűrűn benőtt pálmákkal és trópusi keményfákkal", "Híres Hollywood-i filmek, pl. a 'Dr. Dolittle' forgatási helyszíne"],
+      ro: ["Punctul maxim al crestei este de circa 120 de metri", "Scena unor bătălii navale anglo-franceze în sec. XVIII", "Format din formațiuni masive de andezit", "Oferă o vedere de 360 de grade asupra coastei de vest", "Dens împădurit cu palmieri și esențe tropicale tari", "Cunoscut ca locație de filmare pentru filme precum 'Dr. Dolittle'"],
+      en: ["Highest point of the ridge is approximately 120 meters", "Scene of British-French naval skirmishes in the 18th century", "Composed of massive andesite formations", "Offers 360-degree views over the western coastline", "Densely forested with palms and tropical hardwoods", "Famous as a filming location for movies like 'Dr. Dolittle'"],
+    },
   },
   {
     id: "saintlucia-cap-estate-plateau-relief-v2",
@@ -342,6 +546,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Northernmost point of the island", "Drier microclimate", "Gentle hill ranges", "Border between Atlantic and Caribbean"],
     },
     imageHint: "Cap Estate Saint Lucia northern tip",
+    descriptionAdvanced: {
+      de: "Das Cap Estate Plateau bildet die nördlichste Spitze von Saint Lucia und ist durch ein sanft gewelltes Relief geprägt. Ursprünglich eine großflächige Zuckerrohrplantage, hat sich das Gebiet zum führenden Wohn- und Golfzentrum der Insel gewandelt. Es ist an drei Seiten vom Meer umgeben, dem Atlantik im Osten und der Karibik im Westen. Die Küstenlinie ist durch dramatische Klippen und Sandbuchten markiert.",
+      hu: "A Cap Estate-fennsík Saint Lucia legészakibb csücske, amelyet enyhén hullámos domborzat jellemez. Eredetileg kiterjedt cukornádültetvény volt, mára a sziget vezető lakó- és golfközpontjává vált. Három oldalról tenger határolja: keleten az Atlanti-óceán, nyugaton a Karib-tenger. A partvonalat látványos sziklák és homokos öblök tagolják.",
+      ro: "Podișul Cap Estate formează extremitatea nordică a insulei Sfânta Lucia, fiind caracterizat printr-un relief ușor ondulat. Inițial o plantație extinsă de trestie de zahăr, zona s-a transformat în principalul centru rezidențial și de golf al insulei. Este înconjurat pe trei laturi de apă: Atlanticul la est și Caraibe la vest. Linia de coastă este marcată de stânci dramatice și golfuri cu nisip.",
+      en: "The Cap Estate Plateau forms the northernmost tip of Saint Lucia and is characterized by a gently undulating relief. Originally a large-scale sugarcane plantation, the area has transformed into the island's premier residential and golfing hub. It is surrounded by water on three sides: the Atlantic to the east and the Caribbean to the west. The coastline is marked by dramatic cliffs and sandy bays.",
+    },
+    factsAdvanced: {
+      de: ["Umfasst eine Fläche von etwa 1.500 Hektar", "Beherbergt den einzigen 18-Loch-Championship-Golfplatz", "Standort der historischen Ruinen von Mount Fortune", "Niedrigste Niederschlagsraten der gesamten Insel", "Bietet Blick auf Martinique bei klarer Sicht", "Geologisch geprägt durch gehobene Korallenkalksteine"],
+      hu: ["Területe körülbelül 1500 hektár", "Itt található a sziget egyetlen 18 lyukú bajnoki golfpályája", "Itt találhatók a Mount Fortune történelmi romjai", "A sziget legalacsonyabb csapadékmennyiségű területe", "Tiszta időben kilátás nyílik Martinique szigetére", "Geológiailag megemelkedett korallmészkövek jellemzik"],
+      ro: ["Cuprinde o suprafață de aproximativ 1.500 de hectare", "Găzduiește singurul teren de golf de campionat cu 18 găuri", "Locația ruinelor istorice de la Mount Fortune", "Are cele mai scăzute rate de precipitații de pe insulă", "Oferă vedere spre Martinica în condiții de cer senin", "Caracterizat geologic prin calcare de corali ridicate"],
+      en: ["Covers an area of approximately 1,500 acres", "Home to the island's only 18-hole championship golf course", "Site of the historic ruins of Mount Fortune", "Has the lowest rainfall rates on the entire island", "Offers views of Martinique on clear days", "Geologically characterized by uplifted coral limestones"],
+    },
   },
   {
     id: "saintlucia-mount-mortier-relief-v2",
@@ -361,6 +577,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Elevation of approx. 350 meters", "Located in the Micoud district", "Volcanic cone", "Part of the Atlantic mountain range"],
     },
     imageHint: "Mount Mortier Saint Lucia hills",
+    descriptionAdvanced: {
+      de: "Der Mount Mortier ist ein bedeutender Gipfel im zentral-südlichen Gebirgsmassiv von Saint Lucia. Er ist Teil der vulkanischen Wirbelsäule der Insel und trägt wesentlich zur Bildung orografischer Niederschläge bei. Der Berg ist fast vollständig von unberührtem Elfenwald bedeckt, der eine hohe Biodiversität aufweist. Seine geologische Struktur ist durch steile pyroklastische Schichten und Erosionstaler definiert.",
+      hu: "A Mount Mortier egy jelentős csúcs Saint Lucia közép-déli hegységében. A sziget vulkáni gerincének része, és jelentősen hozzájárul az orografikus csapadék kialakulásához. A hegyet szinte teljesen érintetlen köderdő borítja, amely magas biodiverzitással rendelkezik. Geológiai szerkezetét meredek piroklasztikus rétegek és eróziós völgyek határozzák meg.",
+      ro: "Muntele Mortier este un vârf important din masivul muntos central-sudic al insulei Sfânta Lucia. Face parte din coloana vertebrală vulcanică a insulei și contribuie semnificativ la formarea precipitațiilor orografice. Muntele este acoperit aproape în întregime de pădure tropicală virgină, având o biodiversitate ridicată. Structura sa geologică este definită de straturi piroclastice abrupte și văi de eroziune.",
+      en: "Mount Mortier is a significant peak in the central-southern mountain massif of Saint Lucia. It is part of the island's volcanic backbone and contributes substantially to the formation of orographic rainfall. The mountain is almost entirely covered by pristine elfin forest, which boasts high biodiversity. Its geological structure is defined by steep pyroclastic layers and erosion valleys.",
+    },
+    factsAdvanced: {
+      de: ["Erreicht eine Höhe von rund 580 Metern", "Wichtige Quelle für das Flusssystem des Troumassée", "Besteht aus dacitischen und andesitischen Lavaströmen", "Beherbergt seltene Orchideenarten und Farne", "Teil der zentralen Waldschutzzone von Saint Lucia", "Gehört zu den geologisch älteren Formationen im Süden"],
+      hu: ["Magassága körülbelül 580 méter", "A Troumassée folyórendszer fontos forrása", "Dacit és andezit lávafolyásokból áll", "Ritka orchideafajoknak és páfrányoknak ad otthont", "Saint Lucia központi erdővédelmi övezetének része", "A déli rész geológiailag idősebb képződményei közé tartozik"],
+      ro: ["Atinge o înălțime de aproximativ 580 de metri", "Sursă importantă pentru sistemul fluvial Troumassée", "Compus din fluxuri de lavă dacitică și andezitică", "Găzduiește specii rare de orhidee și ferigi", "Parte a zonei centrale de protecție a pădurilor", "Aparține formațiunilor geologice mai vechi din sud"],
+      en: ["Reaches an elevation of around 580 meters", "Important source for the Troumassée river system", "Composed of dacitic and andesitic lava flows", "Home to rare orchid species and ferns", "Part of Saint Lucia's central forest reserve zone", "Belongs to the geologically older formations in the south"],
+    },
   },
   {
     id: "saintlucia-grand-riviere-valley-relief-v2",
@@ -380,6 +608,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Northeastern drainage system", "Deep V-shaped valleys", "Dense tropical vegetation", "Erosion-shaped relief"],
     },
     imageHint: "Grand Riviere valley Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Grand Rivière Valley ist ein weites, fruchtbares Tal im Norden von Saint Lucia, das durch den gleichnamigen Fluss geformt wurde. Die Region ist ein wichtiges landwirtschaftliches Zentrum, das besonders für den großflächigen Bananenanbau bekannt ist. Die Talsohle ist von vulkanischen Alluvialböden bedeckt, während die Hänge mit tropischem Grün bewachsen sind. Es dient als natürlicher Korridor für den Warentransport zwischen der Küste und dem Binnenland.",
+      hu: "A Grand Rivière-völgy egy széles, termékeny völgy Saint Lucia északi részén, amelyet az azonos nevű folyó alakított ki. A régió fontos mezőgazdasági központ, különösen a nagyüzemi banántermesztéséről ismert. A völgyaljat vulkáni hordalékos talaj borítja, míg a lejtőket trópusi zöld növényzet fedi. Természetes folyosóként szolgál az áruszállítás számára a part és a belső területek között.",
+      ro: "Valea Grand Rivière este o vale largă și fertilă în nordul insulei Sfânta Lucia, formată de râul cu același nume. Regiunea este un important centru agricol, fiind renumită în special pentru cultivarea extinsă a bananelor. Fundul văii este acoperit de soluri aluvionare vulcanice, în timp ce versanții sunt îmbrăcați în vegetație tropicală. Servește ca un coridor natural pentru transportul mărfurilor între coastă și interior.",
+      en: "The Grand Rivière Valley is a wide, fertile valley in northern Saint Lucia, formed by the river of the same name. The region is a key agricultural center, particularly renowned for large-scale banana cultivation. The valley floor is covered with volcanic alluvial soils, while the slopes are lush with tropical greenery. It serves as a natural corridor for transporting goods between the coast and the interior.",
+    },
+    factsAdvanced: {
+      de: ["Eines der größten Flusstäler der Insel", "Der Fluss Grand Rivière entspringt im zentralen Hochland", "Hauptanbaugebiet für die Cavendish-Banane", "Enthält bedeutende Bewässerungssysteme für die Landwirtschaft", "Geologisch durch quartäre Ablagerungen geprägt", "Wichtiger Standort für ländliche Siedlungen im Norden"],
+      hu: ["A sziget egyik legnagyobb folyóvölgye", "A Grand Rivière folyó a központi felföldön ered", "A Cavendish banán fő termesztési területe", "Jelentős mezőgazdasági öntözőrendszerek találhatók itt", "Geológiailag negyedidőszaki üledékek jellemzik", "Fontos helyszín az északi vidéki települések számára"],
+      ro: ["Una dintre cele mai mari văi fluviale ale insulei", "Râul Grand Rivière izvorăște din podișul central", "Zonă principală de cultivare pentru banana Cavendish", "Conține sisteme de irigații importante pentru agricultură", "Caracterizată geologic prin depozite cuaternare", "Locație importantă pentru așezările rurale din nord"],
+      en: ["One of the largest river valleys on the island", "The Grand Rivière river originates in the central highlands", "Primary cultivation area for the Cavendish banana", "Contains significant irrigation systems for agriculture", "Geologically characterized by Quaternary deposits", "Important location for rural settlements in the north"],
+    },
   },
   {
     id: "saintlucia-troumassee-river-basin-relief-v2",
@@ -399,6 +639,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Mouth near Micoud", "Wide alluvial plain", "Important river of the east coast", "Moderate gradient"],
     },
     imageHint: "Troumassee river Saint Lucia basin",
+    descriptionAdvanced: {
+      de: "Das Troumassée-Flussbecken ist eines der ausgedehntesten Entwässerungssysteme im Südosten von Saint Lucia. Es sammelt das Wasser aus den zentralen Gebirgszügen und leitet es zum Atlantik ab. Das Becken ist durch tiefe Schluchten und dichte Regenwaldbereiche gekennzeichnet, die für die Wasserversorgung der Region Micoud unerlässlich sind. Die hydrologische Dynamik wird stark durch die saisonalen Regenfälle beeinflusst.",
+      hu: "A Troumassée-folyómedence Saint Lucia délkeleti részének egyik legkiterjedtebb vízgyűjtő rendszere. Összegyűjti a vizet a központi hegyláncokból, és az Atlanti-óceánba vezeti. A medencét mély szurdokok és sűrű esőerdők jellemzik, amelyek elengedhetetlenek Micoud régió vízellátásához. A hidrológiai dinamikát erősen befolyásolják a szezonális esőzések.",
+      ro: "Bazinul râului Troumassée este unul dintre cele mai extinse sisteme de drenaj din sud-estul insulei Sfânta Lucia. Acesta colectează apa din lanțurile muntoase centrale și o deversează în Oceanul Atlantic. Bazinul este marcat de defilee adânci și zone de pădure tropicală densă, esențiale pentru alimentarea cu apă a regiunii Micoud. Dinamica hidrologică este puternic influențată de precipitațiile sezoniere.",
+      en: "The Troumassée River Basin is one of the most extensive drainage systems in southeastern Saint Lucia. It collects water from the central mountain ranges and discharges it into the Atlantic Ocean. The basin is characterized by deep gorges and dense rainforest areas, essential for the water supply of the Micoud region. The hydrological dynamics are strongly influenced by seasonal rainfall patterns.",
+    },
+    factsAdvanced: {
+      de: ["Der Troumassée ist einer der längsten Flüsse der Insel", "Das Einzugsgebiet umfasst ca. 30 Quadratkilometer", "Wichtige Quelle für Trinkwasser und Bewässerung", "Beherbergt den Troumassée-Wasserfall", "Mündungsbereich bildet eine ökologisch wertvolle Lagune", "Gefährdet durch Bodenerosion bei Starkregenereignissen"],
+      hu: ["A Troumassée a sziget egyik leghosszabb folyója", "Vízgyűjtő területe kb. 30 négyzetkilométer", "Az ivóvíz és az öntözés fontos forrása", "Itt található a Troumassée-vízesés", "Torkolati területe ökológiailag értékes lagúnát alkot", "Heves esőzések idején talajeróziónak van kitéve"],
+      ro: ["Troumassée este unul dintre cele mai lungi râuri de pe insulă", "Bazinul hidrografic acoperă circa 30 de kilometri pătrați", "Sursă vitală pentru apă potabilă și irigații", "Găzduiește cascada Troumassée", "Zona de estuar formează o lagună valoroasă ecologic", "Vulnerabil la eroziunea solului în timpul ploilor torențiale"],
+      en: ["The Troumassée is one of the island's longest rivers", "The catchment area covers approximately 30 square kilometers", "Vital source for drinking water and irrigation", "Home to the Troumassée waterfall", "The estuary area forms an ecologically valuable lagoon", "Prone to soil erosion during heavy rainfall events"],
+    },
   },
   {
     id: "saintlucia-fond-d-or-bay-cliffs-relief-v2",
@@ -418,6 +670,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Steep Atlantic coast", "Exposed location", "Erosive coastal forms", "Height up to 50 meters"],
     },
     imageHint: "Fond d'Or cliffs Saint Lucia Atlantic",
+    descriptionAdvanced: {
+      de: "Die Fond d'Or Cliffs erheben sich an der windzugewandten Ostküste und sind ständig der starken Atlantikbrandung ausgesetzt. Diese dramatischen Klippen bestehen aus geschichteten vulkanischen Sedimenten und Korallenkalkstein. Das Gebiet ist für seine archäologische Bedeutung bekannt, da hier Siedlungsspuren der Arawak und Kariben gefunden wurden. Die Erosion formt ständig neue Höhlen und Felsvorsprünge entlang der Küstenlinie.",
+      hu: "A Fond d'Or-sziklák a sziget szeles keleti partján emelkednek, folyamatosan kitéve az Atlanti-óceán erős hullámzásának. Ezek a látványos sziklák rétegzett vulkáni üledékekből és korallmészkőből állnak. A terület régészeti jelentőségéről ismert, mivel arawak és karib települések nyomait találták itt. Az erózió folyamatosan új barlangokat és sziklakiszögelléseket formál a part mentén.",
+      ro: "Stâncile Fond d'Or se ridică pe coasta de est, fiind expuse constant valurilor puternice ale Atlanticului. Aceste stânci dramatice sunt compuse din sedimente vulcanice stratificate și calcar de corali. Zona este cunoscută pentru importanța sa arheologică, aici fiind găsite urme ale așezărilor Arawak și Carib. Eroziunea modelează continuu noi peșteri și proeminențe de-a lungul liniei de coastă.",
+      en: "The Fond d'Or Cliffs rise on the windward eastern coast, constantly exposed to heavy Atlantic surf. These dramatic cliffs are composed of stratified volcanic sediments and coral limestone. The area is known for its archaeological significance, with traces of Arawak and Carib settlements discovered nearby. Erosion continuously shapes new caves and rocky outcrops along the shoreline.",
+    },
+    factsAdvanced: {
+      de: ["Teil des Fond d'Or Heritage Parks", "Standort prähistorischer Abfallhaufen (Middens)", "Klippen erreichen Höhen von bis zu 40 Metern", "Wichtiger Nistplatz für Seevögel", "Zeugnisse einer ehemaligen Zuckerfabrik aus dem 19. Jh.", "Die Bucht ist wegen starker Strömungen nicht zum Schwimmen geeignet"],
+      hu: ["A Fond d'Or Örökségvédelmi Park része", "Prehisztorikus hulladékhalmok (middens) lelőhelye", "A sziklák magassága eléri a 40 métert", "Tengeri madarak fontos fészkelőhelye", "Egy 19. századi egykori cukorgyár maradványai láthatók itt", "Az öböl az erős áramlatok miatt úszásra nem alkalmas"],
+      ro: ["Parte a Parcului de Patrimoniu Fond d'Or", "Locația unor grămezi de deșeuri preistorice (middens)", "Stâncile ating înălțimi de până la 40 de metri", "Loc de cuibărit important pentru păsările marine", "Vestigii ale unei foste fabrici de zahăr din sec. XIX", "Golful nu este recomandat pentru înot din cauza curenților"],
+      en: ["Part of the Fond d'Or Heritage Park", "Site of prehistoric shell middens", "Cliffs reach elevations of up to 40 meters", "Important nesting ground for seabirds", "Features remains of a 19th-century sugar mill", "The bay is unsuitable for swimming due to strong currents"],
+    },
   },
   {
     id: "saintlucia-mount-sion-relief-v2",
@@ -437,6 +701,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Elevation of approx. 300 meters", "Volcanic soil composition", "Part of the southern hill range", "View of the Caribbean"],
     },
     imageHint: "Mount Sion Saint Lucia landscape",
+    descriptionAdvanced: {
+      de: "Der Mount Sion ist eine markante Erhebung im Hinterland des südlichen Saint Lucia. Er gehört zum Choiseul-Distrikt und überragt das umliegende Plateau mit seiner kegelförmigen Gestalt. Die Vegetation wechselt von trockenem Buschland am Fuß zu feuchteren Waldgesellschaften in den höheren Lagen. Geologisch stellt der Berg einen erloschenen Lavadom dar, der durch Verwitterungsprozesse abgerundet wurde.",
+      hu: "A Mount Sion egy jellegzetes magaslat Saint Lucia déli részén. Choiseul körzetéhez tartozik, és kúpos alakjával magasodik a környező fennsík fölé. A növényzet a lábánál lévő száraz bozótostól a magasabb szinteken található nedvesebb erdőtársulásokig változik. Geológiailag a hegy egy kialudt lávadóm, amelyet a mállási folyamatok kerekítettek le.",
+      ro: "Muntele Sion este o înălțime proeminentă situată în interiorul sudic al insulei Sfânta Lucia. Aparține districtului Choiseul și domină podișul înconjurător prin forma sa conică. Vegetația variază de la tufișuri uscate la bază până la comunități forestiere mai umede în zonele înalte. Din punct de vedere geologic, muntele reprezintă un dom de lavă stins, rotunjit prin procese de eroziune.",
+      en: "Mount Sion is a prominent elevation in the southern hinterland of Saint Lucia. Located within the Choiseul District, it overlooks the surrounding plateau with its conical shape. The vegetation transitions from dry scrubland at the base to more humid forest communities at higher altitudes. Geologically, the mountain represents an extinct lava dome that has been rounded by weathering processes.",
+    },
+    factsAdvanced: {
+      de: ["Höhe beträgt ungefähr 320 Meter über dem Meer", "Besteht primär aus andesitischem Gestein", "Bietet einen hervorragenden Blick auf den Mount Gimie", "Zentrum für kleinbäuerliche Landwirtschaft an den Hängen", "Wichtiger Punkt für die lokale Regenwasserfassung", "Beherbergt verschiedene Arten von Kolibris"],
+      hu: ["Magassága körülbelül 320 méter a tengerszint felett", "Elsősorban andezit kőzetből épül fel", "Kiváló kilátást nyújt a Mount Gimie-re", "A lejtőkön kisüzemi mezőgazdaság folyik", "Fontos pont a helyi esővízgyűjtés szempontjából", "Különböző kolibrifajoknak ad otthont"],
+      ro: ["Înălțimea este de aproximativ 320 de metri", "Format în principal din roci andezitice", "Oferă o vedere excelentă spre Muntele Gimie", "Centru pentru agricultura la scară mică pe versanți", "Punct important pentru colectarea apei de ploaie", "Găzduiește diverse specii de păsări colibri"],
+      en: ["Elevation is approximately 320 meters above sea level", "Composed primarily of andesitic rock", "Offers an excellent view of Mount Gimie", "Center for small-scale farming on its slopes", "Important point for local rainwater catchment", "Home to various species of hummingbirds"],
+    },
   },
   {
     id: "saintlucia-petit-piton-waterfall-relief-v2",
@@ -456,6 +732,18 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Vertical terrain", "Strong volcanic weathering", "Tropical hanging forests", "Extreme erosion forms"],
     },
     imageHint: "Petit Piton waterfall Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Petit Piton Wasserfall befindet sich am Fuße des steilen Petit Piton in der Nähe von Soufrière. Das mineralreiche Wasser stürzt über Vulkangestein in ein natürliches Becken, das von tropischer Vegetation umgeben ist. Dieser Ort ist ein Beispiel für die geothermische Aktivität der Insel und bietet einen direkten Blick auf die dramatische Küstenlandschaft der Pitons.",
+      hu: "A Petit Piton-vízesés Saint Lucia ikonikus vulkáni kúpjának lábánál található, Soufrière városa közelében. A hévizes forrásokból táplálkozó víz sűrű trópusi növényzet között zúdul alá a vulkáni kőzeteken. A terület a sziget geotermikus aktivitásának egyik látványos példája, ahol a látogatók természetes medencékben figyelhetik meg a kőzetlerakódásokat.",
+      ro: "Cascada Petit Piton este situată la baza abruptă a vârfului Petit Piton, în apropiere de localitatea Soufrière. Apa bogată în minerale curge peste roci vulcanice într-un bazin natural înconjurat de o vegetație tropicală densă. Acest sit ilustrează activitatea geotermală a insulei și oferă o perspectivă directă asupra peisajului de coastă inclus în patrimoniul UNESCO.",
+      en: "The Petit Piton Waterfall is located at the base of the steep Petit Piton peak near Soufrière. Its mineral-rich waters cascade over volcanic rocks into a natural pool surrounded by dense tropical vegetation. The site serves as a notable example of the island's geothermal activity and offers a direct view of the dramatic Pitons Management Area coastline.",
+    },
+    factsAdvanced: {
+      de: ["Liegt in der Nähe der Stadt Soufrière im Südwesten von Saint Lucia.", "Das Wasser ist durch vulkanische Aktivität natürlich erwärmt.", "Der Petit Piton selbst hat eine Höhe von 743 Metern.", "Teil des Pitons Management Area, das seit 2004 zum UNESCO-Welterbe gehört.", "Der Wasserfall wird durch unterirdische Thermalquellen gespeist.", "Die Umgebung besteht hauptsächlich aus primärem Regenwald."],
+      hu: ["Saint Lucia délnyugati részén, Soufrière városának közvetlen közelében fekszik.", "A vízesés vize a vulkáni tevékenységnek köszönhetően természetesen meleg.", "A névadó Petit Piton csúcs magassága 743 méter a tengerszint felett.", "A terület 2004 óta az UNESCO Világörökség részét képező Piton-hegyek övezetében van.", "A víz ásványi anyagokban, különösen kénben és magnéziumban gazdag.", "A vízesés körüli medencék a helyi geotermikus rendszer részei."],
+      ro: ["Se află în sud-vestul insulei Saint Lucia, lângă orașul Soufrière.", "Apa cascadei este încălzită natural de activitatea vulcanică subterană.", "Vârful Petit Piton are o înălțime de 743 de metri deasupra nivelului mării.", "Situl face parte din zona protejată Pitons, inclusă în UNESCO din 2004.", "Apa conține o concentrație ridicată de minerale vulcanice terapeutice.", "Vegetația înconjurătoare este compusă din pădure tropicală umedă."],
+      en: ["Located near the town of Soufrière in southwestern Saint Lucia.", "The water is naturally heated by underlying volcanic activity.", "The adjacent Petit Piton peak rises to an elevation of 743 meters.", "Part of the Pitons Management Area, a UNESCO World Heritage site since 2004.", "The waterfall is fed by thermal springs rich in magnesium and sulfur.", "Surrounding terrain consists of lush, primary tropical rainforest."],
+    },
   },
   {
     id: "saintlucia-morne-coubaril-plateau-relief-v2",
@@ -475,5 +763,17 @@ export const saintluciaReliefV2: POI[] = [
       en: ["Former plantation plain", "View of both Pitons", "Volcanic plateau form", "Fertile volcanic earth"],
     },
     imageHint: "Morne Coubaril Saint Lucia view",
+    descriptionAdvanced: {
+      de: "Das Morne Coubaril Plateau ist eine historische Plantage und ein geografisches Hochplateau oberhalb von Soufrière. Die Region bietet weite Ausblicke auf die Pitons und das Karibische Meer. Es ist bekannt für seine fruchtbaren vulkanischen Böden, auf denen seit dem 18. Jahrhundert Kakao, Kokosnüsse und Zuckerrohr angebaut werden, was die landwirtschaftliche Geschichte der Insel widerspiegelt.",
+      hu: "A Morne Coubaril-fennsík egy történelmi ültetvény és földrajzi magaslat Soufrière felett. A régió széles kilátást nyújt a Piton-csúcsokra és a Karib-tengerre. Híres termékeny vulkáni talajáról, ahol a 18. század óta folyamatosan termesztenek kakaót, kókuszt és cukornádat, bemutatva a sziget gazdag mezőgazdasági múltját és hagyományait.",
+      ro: "Platoul Morne Coubaril este o plantație istorică și o formă de relief înaltă situată deasupra orașului Soufrière. Regiunea oferă vederi panoramice extinse asupra vârfurilor Piton și a Mării Caraibilor. Este renumit pentru solul său vulcanic fertil, unde din secolul al XVIII-lea se cultivă cacao, nuci de cocos și trestie de zahăr, reflectând istoria agricolă a insulei.",
+      en: "The Morne Coubaril Plateau is a historic estate and geographical high ground situated above Soufrière. The region offers expansive panoramic views of the Piton peaks and the Caribbean Sea. It is noted for its fertile volcanic soil, where cocoa, coconuts, and sugar cane have been cultivated since the 18th century, reflecting the island's colonial agricultural history.",
+    },
+    factsAdvanced: {
+      de: ["Das Anwesen wurde ursprünglich im Jahr 1713 gegründet.", "Es liegt auf einer erhöhten Terrasse über der Bucht von Soufrière.", "Die Plantage umfasst etwa 250 Hektar landwirtschaftliche Fläche.", "Hier befindet sich eine funktionsfähige Maniok-Mühle aus der Kolonialzeit.", "Das Plateau dient als Ausgangspunkt für Wanderungen zu den Pitons.", "Die vulkanische Asche sorgt für eine extrem hohe Bodenfruchtbarkeit."],
+      hu: ["Az ültetvényt eredetileg 1713-ban alapították a francia telepesek.", "A fennsík közvetlenül a Soufrière-öböl feletti teraszon helyezkedik el.", "A birtok területe megközelítőleg 250 hektárnyi mezőgazdasági földet foglal magában.", "Itt található egy máig működőképes, gyarmati korból származó maniőkmalom.", "A fennsík fontos csomópont a Pitonok felé vezető túraútvonalakon.", "A talaj tápanyagtartalmát a korábbi vulkáni hamulerakódások biztosítják."],
+      ro: ["Domeniul a fost fondat inițial în anul 1713 de coloniști francezi.", "Platoul se află pe o terasă ridicată deasupra golfului Soufrière.", "Plantația cuprinde aproximativ 250 de hectare de teren agricol activ.", "Adăpostește o moară de manioc funcțională datând din perioada colonială.", "Regiunea servește drept punct de acces pentru traseele montane spre Pitons.", "Fertilitatea solului este menținută de depunerile străvechi de cenușă vulcanică."],
+      en: ["The estate was originally established in 1713 by French settlers.", "Located on an elevated terrace overlooking Soufrière Bay.", "The plantation covers approximately 250 acres of agricultural land.", "Features a working manioc mill dating back to the colonial era.", "The plateau serves as a primary access point for Piton hiking trails.", "Volcanic ash deposits provide exceptionally high soil fertility for crops."],
+    },
   }
 ];

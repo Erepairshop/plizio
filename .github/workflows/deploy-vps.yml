@@ -43,6 +43,9 @@ jobs:
       - name: Generate V2 POI JSON
         run: npx tsx scripts/prepare_v2_data.mjs
 
+      - name: Split POIs per country (lazy-fetch source)
+        run: npx tsx scripts/split_pois_by_country.mts
+
       - name: Build (static export → out/)
         env:
           NODE_OPTIONS: --max-old-space-size=12288

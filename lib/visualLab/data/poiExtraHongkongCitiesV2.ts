@@ -1631,6 +1631,18 @@ export const hongkongCitiesV2: POI[] = [
       en: ["Site of the Silver Mine Bay Beach.", "Known for the nearby Silver Mine Waterfalls.", "Major hub for Lantau Island hiking trails.", "Formerly the site of a silver mine."],
     },
     imageHint: "Mui Wo Silver Mine Bay beach",
+    descriptionAdvanced: {
+      de: "Mui Wo ist eine ländliche Stadt an der Silver Mine Bay an der Ostküste von Lantau Island in Hongkong. Der Ort ist bekannt für seine entspannte Atmosphäre, Strände und den Silver Mine Wasserfall. Historisch war die Region für den Silberbergbau im 19. Jahrhundert bedeutend. Heute dient Mui Wo als wichtiges Drehkreuz für Wanderer und Touristen, die den Rest der Insel Lantau erkunden möchten.",
+      hu: "Mui Wo egy vidéki jellegű város a Lantau-sziget keleti partján, a Silver Mine-öböl mentén, Hongkongban. A település nyugodt légköréről, strandjairól és a Silver Mine-vízesésről ismert. Történelmileg a 19. századi ezüstbányászatáról volt nevezetes, amelyről az öböl is a nevét kapta. Ma fontos közlekedési csomópont a Lantau-szigetet felfedező túrázók számára.",
+      ro: "Mui Wo este un oraș rural situat în Golful Silver Mine, pe coasta de est a insulei Lantau din Hong Kong. Este cunoscut pentru atmosfera sa relaxată, plaje și cascada Silver Mine. Din punct de vedere istoric, zona a fost importantă pentru mineritul de argint în secolul al XIX-lea. Astăzi, Mui Wo servește drept punct de plecare major pentru drumeții care explorează insula Lantau.",
+      en: "Mui Wo is a rural town located on Silver Mine Bay on the eastern coast of Lantau Island, Hong Kong. It is known for its laid-back atmosphere, scenic beaches, and the Silver Mine Waterfall. Historically, the area was significant for silver mining during the 19th century, which gave the bay its name. Today, it serves as a major transportation hub for hikers and visitors exploring Lantau Island.",
+    },
+    factsAdvanced: {
+      de: ["Liegt an der Silver Mine Bay (Wan Tau Wan)", "Fährverbindung zum Central District in Hongkong", "Die Silbermine wurde in den 1890er Jahren betrieben", "Startpunkt des 70 km langen Lantau Trail", "Beheimatet den Silver Mine Wasserfall", "Silbermine Bay Beach ist ein offizieller Badestrand"],
+      hu: ["A Silver Mine-öböl (Wan Tau Wan) partján fekszik", "Közvetlen kompkapcsolata van Hongkong központi negyedével", "Az ezüstbánya az 1890-es években üzemelt", "A 70 km hosszú Lantau Trail egyik kezdőpontja", "Itt található a Silver Mine-vízesés", "A Silver Mine Bay Beach hivatalos nyilvános strand"],
+      ro: ["Situat în Golful Silver Mine (Wan Tau Wan)", "Conexiune directă cu feribotul către districtul Central", "Mina de argint a fost operată în anii 1890", "Punct de plecare pentru Lantau Trail, lung de 70 km", "Găzduiește cascada Silver Mine", "Plaja Silver Mine Bay este o zonă de scăldat oficială"],
+      en: ["Located on Silver Mine Bay (Wan Tau Wan)", "Direct ferry connection to Central District", "The silver mine was active during the 1890s", "Starting point for the 70km-long Lantau Trail", "Home to the scenic Silver Mine Waterfall", "Silver Mine Bay Beach is a gazetted public beach"],
+    },
   },
   {
     id: "hongkong-tai-o-cities-v2",
@@ -1650,6 +1662,18 @@ export const hongkongCitiesV2: POI[] = [
       en: ["Often called the 'Venice of Hong Kong'.", "Famous for traditional shrimp paste production.", "Base for Chinese White Dolphin spotting tours.", "One of the region's oldest fishing communities."],
     },
     imageHint: "Tai O stilt houses on the water",
+    descriptionAdvanced: {
+      de: "Tai O ist ein traditionelles Fischerdorf auf der Insel Lantau in Hongkong, das oft als das „Venedig des Ostens“ bezeichnet wird. Es ist weltberühmt für seine auf Stelzen gebauten Häuser, die sogenannten Pang Uk, die über den Gezeitenkanälen thronen. Die Bewohner, hauptsächlich Tanka-Fischer, bewahren seit Generationen ihre traditionelle Lebensweise. Das Dorf ist zudem bekannt für seine gesalzenen Fische und Garnelenpasten.",
+      hu: "Tai O egy hagyományos halászfalu Hongkong Lantau-szigetén, amelyet gyakran a „Kelet Velencéjeként” emlegetnek. Világhírű a cölöpökön álló házairól (Pang Uk), amelyek az árapály-csatornák felett sorakoznak. Lakói, főként tanka halászok, generációk óta őrzik hagyományos életmódjukat. A falu emellett híres a sózott halairól és a helyben készített rákpasztájáról.",
+      ro: "Tai O este un sat tradițional de pescari de pe insula Lantau din Hong Kong, supranumit „Veneția Orientului”. Este renumit în întreaga lume pentru casele sale pe piloni, numite Pang Uk, construite deasupra canalelor afectate de maree. Locuitorii săi, în principal pescari Tanka, și-au păstrat modul de viață tradițional de generații. Satul este celebru și pentru peștele sărat și pasta de creveți.",
+      en: "Tai O is a traditional fishing village on Lantau Island, Hong Kong, often dubbed the 'Venice of the Orient.' It is world-famous for its stilt houses, known as Pang Uk, built over the tidal flats and canals. Its inhabitants, primarily Tanka fisherfolk, have maintained their traditional way of life for generations. The village is also renowned for its production of salted fish and shrimp paste.",
+    },
+    factsAdvanced: {
+      de: ["Bekannt für die Stelzenhäuser (Pang Uk)", "Heimat der Tanka-Fischergemeinschaft", "Berühmt für die Herstellung von Garnelenpaste", "Tai O Heritage Hotel befindet sich in einer alten Polizeistation", "Yeung Hau Tempel wurde im Jahr 1699 erbaut", "Beliebter Ort für Beobachtungen der Chinesischen Weißen Delfine"],
+      hu: ["Híres a cölöpökre épült házairól (Pang Uk)", "A tanka halászközösség otthona", "Nevezetes a helyi rákpaszta-gyártásról", "A Tai O Heritage Hotel egy régi rendőrőrs épületében működik", "A Yeung Hau-templom 1699-ben épült", "Népszerű hely a kínai fehér delfinek megfigyelésére"],
+      ro: ["Renumit pentru casele pe piloni (Pang Uk)", "Căminul comunității de pescari Tanka", "Faimos pentru producția artizanală de pastă de creveți", "Tai O Heritage Hotel ocupă clădirea unei vechi stații de poliție", "Templul Yeung Hau a fost construit în anul 1699", "Loc popular pentru observarea delfinilor albi chinezești"],
+      en: ["Famous for its stilt houses known as Pang Uk", "Home to the indigenous Tanka fishing community", "Renowned for its traditional shrimp paste production", "Tai O Heritage Hotel is located in a former police station", "Yeung Hau Temple dates back to 1699", "Popular site for spotting Chinese White Dolphins"],
+    },
   },
   {
     id: "hongkong-peng-chau-cities-v2",
@@ -1669,6 +1693,18 @@ export const hongkongCitiesV2: POI[] = [
       en: ["Entirely car-free island (bicycles only).", "Known for the scenic Finger Hill lookout.", "Formerly a major industrial center for matches.", "Home to a Tin Hau Temple dating to 1792."],
     },
     imageHint: "Peng Chau village street and hills",
+    descriptionAdvanced: {
+      de: "Peng Chau ist eine kleine, hufeisenförmige Insel vor der Nordostküste von Lantau Island in Hongkong. Die Insel ist bekannt für ihre ruhige, autofreie Umgebung und ihren traditionellen Charme. Früher war Peng Chau ein Zentrum für Kalkbrennereien und Streichholzfabriken, heute ist sie ein beliebtes Ziel für Tagesausflügler. Der Finger Hill bietet als höchster Punkt der Insel einen Panoramablick auf die umliegenden Gewässer.",
+      hu: "Peng Chau egy kis, patkó alakú sziget Hongkongban, a Lantau-szigettől északkeletre. A sziget híres nyugodt, autómentes környezetéről és hagyományos bájáról. Korábban mészégető kemencéiről és gyufagyárairól volt ismert, mára azonban népszerű kirándulóhellyé vált. Legmagasabb pontja a Finger Hill, ahonnan panorámás kilátás nyílik a környező vizekre és Hongkong felhőkarcolóira.",
+      ro: "Peng Chau este o insulă mică în formă de potcoavă, situată în largul coastei de nord-est a insulei Lantau din Hong Kong. Insula este renumită pentru mediul său liniștit, fără mașini, și farmecul tradițional. În trecut, a fost un centru pentru cuptoarele de var și fabricile de chibrituri. Finger Hill, cel mai înalt punct al insulei, oferă o vedere panoramică asupra apelor din jur.",
+      en: "Peng Chau is a small, horseshoe-shaped island located off the northeastern coast of Lantau Island, Hong Kong. The island is known for its peaceful, car-free environment and its traditional village charm. Formerly a hub for lime kilns and match factories, it is now a popular destination for those seeking a quiet escape. Finger Hill, the island's highest point, offers panoramic views of the surrounding waters.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche von nur etwa 0,99 Quadratkilometern", "Komplett autofreie Insel", "Finger Hill ist der höchste Punkt (95 Meter)", "Tin Hau Tempel stammt aus dem Jahr 1792", "Ehemaliger Standort der Great China Match Factory", "Überreste der Ho Choi Kalkbrennerei sind erhalten"],
+      hu: ["Teljes területe mindössze 0,99 négyzetkilométer", "A szigeten tilos az autóforgalom", "Legmagasabb pontja a Finger Hill (95 méter)", "A Tin Hau-templom 1792-ből származik", "Itt működött egykor a Great China gyufagyár", "A Ho Choi mészégető kemence maradványai ma is láthatók"],
+      ro: ["Suprafață totală de aproximativ 0,99 km pătrați", "Insulă complet fără automobile", "Finger Hill este punctul culminant (95 metri)", "Templul Tin Hau datează din anul 1792", "Fost sediu al fabricii de chibrituri Great China", "Ruinele cuptorului de var Ho Choi sunt încă vizibile"],
+      en: ["Total area of only 0.99 square kilometers", "The island is entirely car-free", "Finger Hill is the highest point at 95 meters", "Tin Hau Temple was built in 1792", "Former home to the Great China Match Factory", "Remains of the Ho Choi Lime Kiln are preserved"],
+    },
   },
   {
     id: "hongkong-cheung-chau-cities-v2",
@@ -1688,6 +1724,18 @@ export const hongkongCitiesV2: POI[] = [
       en: ["Site of the unique annual Bun Festival.", "Known for the Cheung Po Tsai pirate cave.", "Popular destination for cycling and seafood.", "Island is mostly car-free (emergency vehicles only)."],
     },
     imageHint: "Cheung Chau harbour and ferry pier",
+    descriptionAdvanced: {
+      de: "Cheung Chau ist eine hantelförmige Insel südwestlich von Hong Kong Island. Sie ist bekannt für ihre traditionelle Fischereiindustrie und das jährliche Bun-Festival. Da auf der Insel keine privaten PKW erlaubt sind, hat sie eine ruhige Atmosphäre bewahrt.",
+      hu: "Cheung Chau egy súlyzó alakú sziget Hong Kong szigetétől délnyugatra. Híres a hagyományos halászati iparáról és az évente megrendezett Gombóc-fesztiválról. Mivel a szigeten tilos a gépjárműforgalom, egyedülállóan nyugodt, falusias hangulatot áraszt.",
+      ro: "Cheung Chau este o insulă în formă de ganteră situată la sud-vest de Insula Hong Kong. Este cunoscută pentru industria sa tradițională de pescuit și pentru Festivalul anual al Chiflelor. Nepermițând vehiculele motorizate private, insula păstrează o atmosferă liniștită.",
+      en: "Cheung Chau is a dumbbell-shaped island located southwest of Hong Kong Island. It is widely known for its traditional fishing industry and the annual Bun Festival. As no private motor vehicles are allowed on the island, it maintains a unique and peaceful atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Jährliches Bun-Festival im vierten Mondmonat", "Pak Tai Tempel wurde im Jahr 1783 erbaut", "Die Insel hat eine Fläche von etwa 2,46 km²", "Berühmte Cheung Po Tsai Höhle eines Piraten", "Bevölkerung von ca. 20.000 Einwohnern", "Tung Wan Strand ist der größte Badestrand"],
+      hu: ["Évente tartják a Gombóc-fesztivált a 4. holdhónapban", "A Pak Tai templom 1783-ban épült", "A sziget területe körülbelül 2,46 km²", "Itt található Cheung Po Tsai kalóz barlangja", "Lakossága nagyjából 20.000 fő", "A Tung Wan strand a legnagyobb fürdőhelye"],
+      ro: ["Festivalul anual al Chiflelor în luna a 4-a lunară", "Templul Pak Tai a fost construit în anul 1783", "Insula are o suprafață de aproximativ 2,46 km²", "Găzduiește peștera celebrului pirat Cheung Po Tsai", "Populație de aproximativ 20.000 de locuitori", "Plaja Tung Wan este cea mai mare de pe insulă"],
+      en: ["Annual Bun Festival held in the 4th lunar month", "Pak Tai Temple was built in the year 1783", "The island covers an area of about 2.46 km²", "Home to the famous Cheung Po Tsai pirate cave", "Population of approximately 20,000 residents", "Tung Wan Beach is the island's largest beach"],
+    },
   },
   {
     id: "hongkong-discovery-bay-cities-v2",
@@ -1707,6 +1755,18 @@ export const hongkongCitiesV2: POI[] = [
       en: ["Features a long man-made sandy beach.", "Transport is primarily by private golf carts.", "Direct ferry service connects to Central.", "Hub for international dining and families."],
     },
     imageHint: "Discovery Bay beach and plaza",
+    descriptionAdvanced: {
+      de: "Discovery Bay ist ein gehobenes privates Wohngebiet an der Nordostküste der Insel Lantau. Die Siedlung wurde in den späten 1970er Jahren geplant und ist weitgehend autofrei konzipiert. Sie verfügt über einen künstlichen Sandstrand und umfangreiche Freizeiteinrichtungen.",
+      hu: "Discovery Bay egy exkluzív magánlakóövezet Lantau szigetének északkeleti partján. A települést az 1970-es évek végén tervezték, és nagyrészt autómentes övezetként működik. Saját mesterséges homokos stranddal és kiterjedt szabadidős létesítményekkel rendelkezik.",
+      ro: "Discovery Bay este o zonă rezidențială privată exclusivistă pe coasta de nord-est a insulei Lantau. Așezarea a fost planificată la sfârșitul anilor 1970 și este concepută ca o zonă fără mașini. Dispune de o plajă artificială și numeroase facilități de agrement.",
+      en: "Discovery Bay is an upscale private residential development on the northeast coast of Lantau Island. Planned in the late 1970s, the community is designed as a largely car-free environment. It features a man-made sandy beach and extensive recreational facilities.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn der ersten Phase im Jahr 1982", "Gesamtfläche beträgt etwa 6,5 km²", "Heimat von ca. 20.000 Einwohnern aus 30 Nationen", "400 Meter langer künstlicher Sandstrand", "Eigener Fährdienst benötigt 25 Min. nach Central", "Privatautos sind innerhalb der Anlage verboten"],
+      hu: ["Az első ütem építése 1982-ben kezdődött", "Teljes területe körülbelül 6,5 km²", "Kb. 20.000 lakos él itt 30 különböző nemzetből", "400 méter hosszú mesterséges homokos strand", "Saját kompjárat 25 perc alatt ér Centralba", "Magángépjárművek használata tilos a területen"],
+      ro: ["Construcția primei faze a început în anul 1982", "Suprafața totală este de aproximativ 6,5 km²", "Găzduiește cca. 20.000 de locuitori din 30 de țări", "Plajă artificială cu o lungime de 400 de metri", "Serviciul de feribot face 25 de minute până în Central", "Mașinile private sunt interzise în interiorul zonei"],
+      en: ["Construction of the first phase began in 1982", "Total land area is approximately 6.5 km²", "Home to about 20,000 residents from 30 nations", "Features a 400-meter long man-made sandy beach", "Dedicated ferry service takes 25 minutes to Central", "Private cars are prohibited within the development"],
+    },
   },
   {
     id: "hongkong-sok-kwu-wan-cities-v2",
@@ -1726,6 +1786,18 @@ export const hongkongCitiesV2: POI[] = [
       en: ["Famous for its row of seafood restaurants.", "Major ferry terminal on Lamma Island.", "Site of the historic Kamikaze Grottoes.", "Starting point for the Lamma Island Family Trail."],
     },
     imageHint: "Sok Kwu Wan seafood restaurants and pier",
+    descriptionAdvanced: {
+      de: "Sok Kwu Wan ist ein Küstendorf an der Ostseite von Lamma Island. Es ist in ganz Hongkong für seine zahlreichen Fischrestaurants am Hafen bekannt. Das Dorf dient als beliebter Ausgangspunkt für Wanderungen über den Lamma Island Family Trail.",
+      hu: "Sok Kwu Wan egy tengerparti falu Lamma szigetének keleti oldalán. Egész Hongkongban híres a kikötő mentén sorakozó számos tengeri étterméről. A falu népszerű kiindulópontja a Lamma-szigeti családi túraútvonalnak.",
+      ro: "Sok Kwu Wan este un sat de coastă situat pe partea de est a insulei Lamma. Este renumit în tot Hong Kong-ul pentru numeroasele sale restaurante cu fructe de mare de pe malul apei. Satul servește ca punct popular de plecare pentru drumeții pe traseul Lamma Island Family Trail.",
+      en: "Sok Kwu Wan is a coastal village located on the eastern side of Lamma Island. It is famous throughout Hong Kong for its numerous waterfront seafood restaurants. The village serves as a popular starting or ending point for hikers using the Lamma Island Family Trail.",
+    },
+    factsAdvanced: {
+      de: ["Bekannt für seine schwimmenden Fischzuchtanlagen", "Tin Hau Tempel stammt aus dem Jahr 1826", "Direkte Fährverbindung zum Central Pier 4", "Liegt an einer tiefen, geschützten Meeresbucht", "Bevölkerung beträgt weniger als 1.000 Menschen", "Früher ein Zentrum für die Ziegelherstellung"],
+      hu: ["Híres az öbölben található úszó halgazdaságairól", "A helyi Tin Hau templom 1826-ból származik", "Közvetlen kompjárat köti össze a Central 4-es mólóval", "Egy mély, védett tengeri öböl partján fekszik", "Lakossága kevesebb mint 1000 fő", "Korábban a téglaégetés egyik központja volt"],
+      ro: ["Cunoscut pentru fermele sale piscicole plutitoare", "Templul Tin Hau datează din anul 1826", "Conexiune directă cu feribotul către Central Pier 4", "Situat pe malul unui golf marin adânc și protejat", "Populația este de sub 1.000 de locuitori", "A fost anterior un centru pentru fabricarea cărămizilor"],
+      en: ["Famous for its floating fish culture farms", "Local Tin Hau Temple dates back to 1826", "Direct ferry connection to Central Pier 4", "Situated on a deep, sheltered marine bay", "Population is less than 1,000 people", "Formerly a center for brick manufacturing"],
+    },
   },
   {
     id: "hongkong-yung-shue-wan-cities-v2",
@@ -1745,6 +1817,18 @@ export const hongkongCitiesV2: POI[] = [
       en: ["Largest settlement on Lamma Island.", "Known for its diverse multicultural community.", "Close to the popular Hung Shing Yeh Beach.", "Regular ferry services connect to Central."],
     },
     imageHint: "Yung Shue Wan village street and harbour",
+    descriptionAdvanced: {
+      de: "Yung Shue Wan ist das bevölkerungsreichste Zentrum auf Lamma Island. Der Ort zeichnet sich durch eine Mischung aus traditionellem Dorfleben und einer multikulturellen Atmosphäre aus. Hier befinden sich die meisten Geschäfte, Cafés und der Hauptfähranleger der Insel.",
+      hu: "Yung Shue Wan Lamma szigetének legnépesebb központja. A települést a hagyományos falusi élet és a multikulturális légkör keveredése jellemzi. Itt található a legtöbb üzlet, kávézó és a sziget fő kompkikötője.",
+      ro: "Yung Shue Wan este cel mai populat centru de pe insula Lamma. Localitatea se caracterizează printr-un amestec de viață tradițională satului și o atmosferă multiculturală. Aici se află majoritatea magazinelor, cafenelelor și principalul debarcader de feribot.",
+      en: "Yung Shue Wan is the most populous center on Lamma Island. The town is characterized by a blend of traditional village life and a multicultural atmosphere. It houses the majority of the island's shops, cafes, and the main ferry pier.",
+    },
+    factsAdvanced: {
+      de: ["Größte Siedlung auf der Insel Lamma", "Bevölkerung von etwa 6.000 Einwohnern", "Tin Hau Tempel wurde im Jahr 1876 erbaut", "Fahrtzeit nach Central beträgt ca. 25 bis 30 Minuten", "Viele Expatriates siedelten sich ab den 1980ern an", "Nahegelegener Hung Shing Ye Strand ist sehr beliebt"],
+      hu: ["A legnagyobb település Lamma szigetén", "Lakossága körülbelül 6000 fő", "A helyi Tin Hau templom 1876-ban épült", "A menetidő Centralba komppal kb. 25-30 perc", "Sok külföldi telepedett le itt az 1980-as évek óta", "A közeli Hung Shing Ye strand igen népszerű"],
+      ro: ["Cea mai mare așezare de pe insula Lamma", "Populație de aproximativ 6.000 de locuitori", "Templul Tin Hau local a fost construit în 1876", "Timpul de călătorie până în Central este de 25-30 min", "Mulți expatriați s-au stabilit aici din anii 1980", "Plaja Hung Shing Ye din apropiere este foarte populară"],
+      en: ["Largest settlement on Lamma Island", "Population of approximately 6,000 residents", "Local Tin Hau Temple was built in 1876", "Travel time to Central is about 25 to 30 minutes", "Many expatriates settled here since the 1980s", "Nearby Hung Shing Ye Beach is highly popular"],
+    },
   },
   {
     id: "hongkong-tai-wai-village-cities-v2",
@@ -1764,6 +1848,18 @@ export const hongkongCitiesV2: POI[] = [
       en: ["Established in 1574.", "Largest walled village in the Sha Tin area.", "Features a central ancestral hall.", "Important site for traditional community rites."],
     },
     imageHint: "Tai Wai walled village gate",
+    descriptionAdvanced: {
+      de: "Tai Wai Village, ursprünglich Chik Chuen Wai genannt, ist das älteste und größte ummauerte Dorf im Sha Tin Distrikt. Es wurde während der Ming-Dynastie zum Schutz der Bewohner gegründet. Heute ist es ein lebendiges Viertel, das von moderner Infrastruktur umgeben ist.",
+      hu: "Tai Wai falu, eredeti nevén Chik Chuen Wai, Sha Tin kerület legidősebb és legnagyobb fallal körülvett települése. A Ming-dinasztia idején alapították a lakók védelmére. Ma egy élettel teli negyed, amelyet modern infrastruktúra vesz körül.",
+      ro: "Satul Tai Wai, numit inițial Chik Chuen Wai, este cel mai vechi și mai mare sat împrejmuit din districtul Sha Tin. A fost fondat în timpul dinastiei Ming pentru protecția locuitorilor. Astăzi este un cartier vibrant, înconjurat de infrastructură modernă.",
+      en: "Tai Wai Village, originally named Chik Chuen Wai, is the oldest and largest walled village in the Sha Tin District. It was established during the Ming Dynasty to provide protection for its residents. Today, it is a vibrant community surrounded by modern infrastructure.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1574 während der Ming-Zeit", "Ursprünglicher Name bedeutet 'Sammelquelle-Dorf'", "Hauptsächlich vom Hau-Klan bewohnt", "Ummauerte Struktur ist teilweise noch sichtbar", "Befindet sich nahe dem Shing Mun Fluss", "Fläche des Kernbereichs ca. 2 Hektar"],
+      hu: ["1574-ben alapították a Ming-dinasztia idején", "Eredeti neve 'Gyűjtőforrás-falut' jelent", "Főként a Hau klán tagjai lakták", "A falazott szerkezet részei ma is láthatóak", "A Shing Mun folyó közelében helyezkedik el", "A magterület kiterjedése kb. 2 hektár"],
+      ro: ["Fondat în anul 1574 în timpul dinastiei Ming", "Numele original înseamnă 'Satul Izvorului de Colectare'", "Locuit în principal de membrii clanului Hau", "Structura zidită este parțial vizibilă și astăzi", "Situat în apropierea râului Shing Mun", "Suprafața zonei centrale este de cca. 2 hectare"],
+      en: ["Founded in 1574 during the Ming Dynasty", "Original name means 'Gathering Spring Village'", "Mainly inhabited by the Hau clan", "Walled structure is still partially visible", "Located near the Shing Mun River", "Core area covers approximately 2 hectares"],
+    },
   },
   {
     id: "hongkong-tsang-tai-uk-cities-v2",
@@ -1783,6 +1879,18 @@ export const hongkongCitiesV2: POI[] = [
       en: ["Completed in 1867.", "Built using granite and blue bricks.", "Once fortified for protection against pirates.", "Still inhabited by descendants of the founder."],
     },
     imageHint: "Tsang Tai Uk Hakka walled house",
+    descriptionAdvanced: {
+      de: "Tsang Tai Uk ist ein exzellent erhaltenes Hakka-Dorf in Sha Tin, das Mitte des 19. Jahrhunderts erbaut wurde. Es zeichnet sich durch seine massiven Granitwände und Verteidigungstürme aus. Die Anlage gilt als eines der besten Beispiele für ländliche Architektur in Hongkong.",
+      hu: "Tsang Tai Uk egy kiválóan megőrzött Hakka erődített falu Sha Tinben, amely a 19. század közepén épült. Masszív gránitfalai és védőtornyai jellemzik. Az épületegyüttes Hongkong egyik legjobb példája a vidéki építészetnek.",
+      ro: "Tsang Tai Uk este un sat fortificat Hakka excelent conservat în Sha Tin, construit la mijlocul secolului al XIX-lea. Se remarcă prin zidurile masive de granit și turnurile de apărare. Complexul este considerat unul dintre cele mai bune exemple de arhitectură rurală din Hong Kong.",
+      en: "Tsang Tai Uk is an excellently preserved Hakka walled village in Sha Tin, built in the mid-19th century. It is characterized by its massive granite walls and defensive watchtowers. The complex is considered one of the best examples of rural architecture in Hong Kong.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit dauerte von 1847 bis 1867", "Erbaut von Tsang Koon-man, einem Steinmetz", "Besteht aus drei Hallen und zwei Höfen", "Besitzt vier markante Verteidigungstürme", "Granit und blaue Ziegel als Hauptmaterialien", "Wurde 2009 als historisches Denkmal eingestuft"],
+      hu: ["Az építkezés 1847-től 1867-ig tartott", "Tsang Koon-man kőfaragó mester építtette", "Három csarnokból és két udvarból áll", "Négy jellegzetes védőtoronnyal rendelkezik", "Gránit és kék tégla a fő építőanyaga", "2009-ben történelmi emlékművé nyilvánították"],
+      ro: ["Perioada de construcție a fost 1847-1867", "Construit de Tsang Koon-man, un maestru pietrar", "Format din trei hale și două curți interioare", "Posedă patru turnuri de apărare distinctive", "Granitul și cărămida albastră sunt materialele principale", "Clasificat ca monument istoric de gradul I în 2009"],
+      en: ["Construction period lasted from 1847 to 1867", "Built by Tsang Koon-man, a master stonemason", "Consists of three halls and two courtyards", "Features four distinctive defensive watchtowers", "Granite and blue bricks are the main materials", "Graded as a historic monument in 2009"],
+    },
   },
   {
     id: "hongkong-sheung-shui-wai-cities-v2",
@@ -1802,6 +1910,18 @@ export const hongkongCitiesV2: POI[] = [
       en: ["Site of the Liu Man Shek Tong Ancestral Hall.", "Founded during the Ming Dynasty.", "One of the largest villages in the New Territories.", "Known for its exquisite Qing-style architecture."],
     },
     imageHint: "Sheung Shui Wai ancestral hall",
+    descriptionAdvanced: {
+      de: "Sheung Shui Wai ist ein historisches befestigtes Dorf im Norden von Hongkong, das der Stammsitz des Liu-Klans ist. Das Herzstück des Dorfes ist die prächtige Liu Man Shek Tong Ahnenhalle. Sie ist ein bedeutendes Zeugnis der kantonesischen Clan-Architektur.",
+      hu: "Sheung Shui Wai egy történelmi erődített falu Hongkong északi részén, amely a Liu klán ősi székhelye. A falu központja a pompás Liu Man Shek Tong ősi csarnok. Ez a kantoni klán-építészet egyik jelentős emléke.",
+      ro: "Sheung Shui Wai este un sat fortificat istoric din nordul Hong Kong-ului, fiind sediul ancestral al clanului Liu. Piesa centrală a satului este magnifica Sală Ancestrală Liu Man Shek Tong. Este o dovadă importantă a arhitecturii clanurilor cantoneze.",
+      en: "Sheung Shui Wai is a historic walled village in the north of Hong Kong, serving as the ancestral seat of the Liu clan. The centerpiece of the village is the magnificent Liu Man Shek Tong Ancestral Hall. It is a significant example of Cantonese clan architecture.",
+    },
+    factsAdvanced: {
+      de: ["Hauptsitz des Liu-Klans seit dem 14. Jahrhundert", "Liu Man Shek Tong wurde 1751 erbaut", "Gesetzlich geschütztes Denkmal seit 1985", "Ahnenhalle verfügt über drei Haupthallen", "Teile des ursprünglichen Grabens sind erhalten", "Nähe zur Grenze bei Lo Wu (Shenzhen)"],
+      hu: ["A Liu klán székhelye a 14. század óta", "A Liu Man Shek Tong csarnok 1751-ben épült", "1985 óta törvényileg védett műemlék", "Az ősi csarnok három fő teremből áll", "Az eredeti védőárok részei ma is megvannak", "Közel fekszik a Lo Wu-i (Shenzhen) határhoz"],
+      ro: ["Sediul clanului Liu din secolul al XIV-lea", "Liu Man Shek Tong a fost construită în 1751", "Monument protejat prin lege din anul 1985", "Sala ancestrală are trei hale principale", "Părți din șanțul original sunt încă vizibile", "Situat aproape de granița de la Lo Wu (Shenzhen)"],
+      en: ["Seat of the Liu clan since the 14th century", "Liu Man Shek Tong was built in 1751", "Declared a statutory monument in 1985", "The ancestral hall features three main halls", "Parts of the original moat are still preserved", "Located near the border at Lo Wu (Shenzhen)"],
+    },
   },
   {
     id: "hongkong-fanling-wai-cities-v2",
@@ -1821,6 +1941,18 @@ export const hongkongCitiesV2: POI[] = [
       en: ["Features two ancient cannons at the entrance.", "Known for its well-preserved defensive walls.", "Founded more than 600 years ago.", "Home to a major Pang clan ancestral hall."],
     },
     imageHint: "Fanling Wai cannons and village wall",
+    descriptionAdvanced: {
+      de: "Fanling Wai ist ein historisches befestigtes Dorf des Pang-Klans in den New Territories. Es ist bekannt für seine markanten Kanonen am Dorfeingang und den vorgelagerten Fischteich. Das Dorf bewahrt bis heute viele traditionelle rituelle Bräuche.",
+      hu: "Fanling Wai a Pang klán történelmi erődített faluja az Új Területeken. Ismert a falu bejáratánál álló jellegzetes ágyúiról és az előttük fekvő halastóról. A falu a mai napig számos hagyományos rituális szokást őriz.",
+      ro: "Fanling Wai este un sat fortificat istoric al clanului Pang din Noile Teritorii. Este cunoscut pentru tunurile sale distinctive de la intrarea în sat și pentru iazul cu pești situat în față. Satul păstrează până astăzi multe obiceiuri rituale tradiționale.",
+      en: "Fanling Wai is a historic walled village of the Pang clan in the New Territories. It is famous for its distinctive cannons at the village entrance and the large fish pond situated in front. The village still preserves many traditional ritual customs today.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Pang-Klans seit dem 12. Jahrhundert", "Dorf wurde im 16. Jahrhundert ummauert", "Drei Eisenkanonen schützen symbolisch den Eingang", "Großer Teich dient dem Feng Shui und Schutz", "Bekannt für das jährliche Ta Jiu Festival", "Ahnenhalle der Pangs befindet sich im Inneren"],
+      hu: ["A Pang klán székhelye a 12. század óta", "A falut a 16. században vették körül fallal", "Három vaságyú védi jelképesen a bejáratot", "A nagy tó a Feng Shui-t és a védelmet szolgálja", "Híres az évente tartott Ta Jiu fesztiválról", "A Pangok ősi csarnoka a falun belül található"],
+      ro: ["Sediul clanului Pang din secolul al XII-lea", "Satul a fost împrejmuit cu ziduri în sec. XVI", "Trei tunuri de fier protejează simbolic intrarea", "Iazul mare servește pentru Feng Shui și apărare", "Cunoscut pentru festivalul anual Ta Jiu", "Sala ancestrală a clanului Pang se află în interior"],
+      en: ["Seat of the Pang clan since the 12th century", "Village was enclosed by walls in the 16th century", "Three iron cannons symbolically guard the entrance", "Large pond serves for Feng Shui and defense", "Famous for the annual Ta Jiu Festival", "Ancestral Hall of the Pangs is located inside"],
+    },
   },
   {
     id: "hongkong-lung-yeuk-tau-cities-v2",
@@ -1840,6 +1972,18 @@ export const hongkongCitiesV2: POI[] = [
       en: ["The name means 'Mountain of the Dancing Dragon'.", "Home to the walled village of Lo Wai.", "Site of the grand Tang Chung Ling Ancestral Hall.", "Rich in history dating back to the Ming Dynasty."],
     },
     imageHint: "Lung Yeuk Tau walled village gate",
+    descriptionAdvanced: {
+      de: "Lung Yeuk Tau ist eine Region, die für ihren bedeutenden Kulturerbe-Pfad und die Siedlungen des Tang-Klans bekannt ist. Das Gebiet umfasst fünf befestigte und sechs weitere Dörfer. Es bietet tiefe Einblicke in die Geschichte eines der fünf großen Clans von Hongkong.",
+      hu: "Lung Yeuk Tau egy vidék, amely jelentős örökségvédelmi útvonaláról és a Tang klán településeiről ismert. A terület öt erődített és hat további falut foglal magában. Mély betekintést nyújt Hongkong öt nagy klánja egyikének történelmébe.",
+      ro: "Lung Yeuk Tau este o regiune cunoscută pentru traseul său de patrimoniu și așezările clanului Tang. Zona cuprinde cinci sate fortificate și alte șase sate. Oferă o perspectivă profundă asupra istoriei unuia dintre cele cinci mari clanuri din Hong Kong.",
+      en: "Lung Yeuk Tau is a region famous for its significant heritage trail and the settlements of the Tang clan. The area comprises five walled villages and six other villages. It offers deep insights into the history of one of the Five Great Clans of Hong Kong.",
+    },
+    factsAdvanced: {
+      de: ["Name bedeutet 'Berg des springenden Drachen'", "Kulturerbe-Pfad wurde im Jahr 1999 eröffnet", "Tang-Klan siedelte hier ab dem 14. Jahrhundert", "Lo Wai ist das älteste Dorf der Region", "Tang Chung Ling Ahnenhalle stammt aus 1525", "Gilt als einer der 'Fünf Großen Clans'"],
+      hu: ["A név jelentése: 'Ugró Sárkány Hegye'", "Az örökségvédelmi útvonalat 1999-ben nyitották meg", "A Tang klán a 14. században telepedett le itt", "Lo Wai a régió legidősebb faluja", "A Tang Chung Ling csarnok 1525-ből származik", "Az Új Területek öt nagy klánjának egyike"],
+      ro: ["Numele înseamnă 'Muntele Dragonului Săritor'", "Traseul de patrimoniu a fost deschis în anul 1999", "Clanul Tang s-a stabilit aici din secolul XIV", "Lo Wai este cel mai vechi sat din regiune", "Sala Tang Chung Ling datează din anul 1525", "Unul dintre cele 'Cinci Mari Clanuri' din Noile Teritorii"],
+      en: ["Name means 'Mountain of the Leaping Dragon'", "Heritage Trail was opened in the year 1999", "Tang clan settled here starting in the 14th century", "Lo Wai is the oldest village in the region", "Tang Chung Ling Ancestral Hall dates to 1525", "One of the 'Five Great Clans' of the New Territories"],
+    },
   },
   {
     id: "hongkong-san-tin-cities-v2",
@@ -1859,6 +2003,18 @@ export const hongkongCitiesV2: POI[] = [
       en: ["Site of the opulent Tai Fu Tai Mansion.", "Home to the Man Lun Fung Ancestral Hall.", "Located near the Shenzhen border crossing.", "Rich in Man clan history and architecture."],
     },
     imageHint: "San Tin Tai Fu Tai Mansion",
+    descriptionAdvanced: {
+      de: "San Tin ist ein geschichtsträchtiges Gebiet im Distrikt Yuen Long, das eng mit dem Man-Klan verbunden ist. Eine herausragende Sehenswürdigkeit ist das prächtige Tai Fu Tai Mansion aus dem 19. Jahrhundert. Das Gebiet liegt landschaftlich reizvoll nahe den Mai Po Feuchtgebieten.",
+      hu: "San Tin egy történelmi terület Yuen Long kerületben, amely szorosan kapcsolódik a Man klánhoz. Egyik kiemelkedő látnivalója a pompás 19. századi Tai Fu Tai kúria. A vidék festői környezetben, a Mai Po mocsárvidék közelében fekszik.",
+      ro: "San Tin este o zonă istorică din districtul Yuen Long, strâns legată de clanul Man. O atracție remarcabilă este magnificul conac Tai Fu Tai din secolul al XIX-lea. Zona este situată pitoresc în apropierea zonelor umede Mai Po.",
+      en: "San Tin is a historic area in Yuen Long District, closely associated with the Man clan. A prominent attraction is the magnificent 19th-century Tai Fu Tai Mansion. The area is scenically located near the Mai Po Wetlands.",
+    },
+    factsAdvanced: {
+      de: ["Tai Fu Tai wurde im Jahr 1865 erbaut", "Wohnhaus eines kaiserlich ernannten Beamten", "Man Lun Fung Ahnenhalle stammt aus dem 17. Jh.", "Einzigartige westliche Einflüsse im Dekor", "Bekannt für seine weitläufigen Fischteiche", "Man-Klan stammt ursprünglich aus Südchina"],
+      hu: ["A Tai Fu Tai kúria 1865-ben épült", "Egy császári tisztviselő lakóháza volt", "A Man Lun Fung csarnok a 17. századból való", "Egyedülálló nyugati díszítőelemek jellemzik", "Híres kiterjedt halastavairól", "A Man klán Dél-Kínából származik"],
+      ro: ["Conacul Tai Fu Tai a fost construit în 1865", "Reședința unui oficial numit de împărat", "Sala Man Lun Fung datează din secolul al XVII-lea", "Influențe vestice unice în decorul interior", "Cunoscut pentru iazurile sale vaste de pești", "Clanul Man provine inițial din sudul Chinei"],
+      en: ["Tai Fu Tai Mansion was built in 1865", "Residence of a high-ranking imperial official", "Man Lun Fung Ancestral Hall dates to 17th century", "Unique Western architectural influences in decor", "Known for its extensive fish ponds", "Man clan originally migrated from Southern China"],
+    },
   },
   {
     id: "hongkong-sham-tseng-cities-v2",
@@ -1878,6 +2034,18 @@ export const hongkongCitiesV2: POI[] = [
       en: ["Culinary hub for Cantonese roasted goose.", "Offers excellent views of Tsing Ma Bridge.", "Formerly the site of a major brewery.", "Popular pit-stop along the Castle Peak Road."],
     },
     imageHint: "Sham Tseng roasted goose restaurants",
+    descriptionAdvanced: {
+      de: "Sham Tseng ist ein Küstengebiet im Distrikt Tsuen Wan, das vor allem für seine kulinarische Spezialität, die gebratene Gans, berühmt ist. Früher ein Industriestandort, hat es sich zu einem attraktiven Wohnviertel entwickelt. Es bietet Panoramablicke auf die Brücken nach Lantau.",
+      hu: "Sham Tseng egy tengerparti terület Tsuen Wan kerületben, amely leginkább gasztronómiai különlegességéről, a sült libáról híres. Korábban ipari központ volt, mára vonzó lakónegyeddé fejlődött. Panorámás kilátást nyújt a Lantau felé vezető hidakra.",
+      ro: "Sham Tseng este o zonă de coastă din districtul Tsuen Wan, faimoasă mai ales pentru specialitatea sa culinară, gâsca friptă. Anterior un centru industrial, s-a transformat într-un cartier rezidențial atractiv. Oferă vederi panoramice asupra podurilor spre Lantau.",
+      en: "Sham Tseng is a coastal area in Tsuen Wan District, primarily famous for its culinary specialty, roasted goose. Formerly an industrial site, it has evolved into an attractive residential neighborhood. It offers panoramic views of the bridges leading to Lantau.",
+    },
+    factsAdvanced: {
+      de: ["Gilt als 'Hauptstadt der gebratenen Gans'", "Standort der Garden Bakery Fabrik seit 1938", "Blick auf die Tsing Ma und Kap Shui Mun Brücken", "San Miguel Brauerei war hier bis 1996 ansässig", "Nahegelegener Lido Strand ist ein beliebtes Ziel", "Hafen war früher wichtig für den Warentransport"],
+      hu: ["Hongkong 'sült liba fővárosaként' emlegetik", "A Garden Bakery gyár székhelye 1938 óta", "Kilátás nyílik a Tsing Ma és Kap Shui Mun hidakra", "A San Miguel sörfőzde 1996-ig itt működött", "A közeli Lido strand népszerű kirándulóhely", "Kikötője korábban fontos volt az áruszállításban"],
+      ro: ["Considerat 'capitala gâștei fripte' din Hong Kong", "Sediul fabricii Garden Bakery din anul 1938", "Vedere spre podurile Tsing Ma și Kap Shui Mun", "Berăria San Miguel a funcționat aici până în 1996", "Plaja Lido din apropiere este o destinație populară", "Portul a fost anterior important pentru transport"],
+      en: ["Regarded as the 'Roasted Goose Capital' of HK", "Site of the Garden Bakery factory since 1938", "Views of the Tsing Ma and Kap Shui Mun bridges", "San Miguel Brewery was located here until 1996", "Nearby Lido Beach is a popular destination", "Harbor was formerly vital for cargo transport"],
+    },
   },
   {
     id: "hongkong-so-kwun-wat-cities-v2",
@@ -1897,6 +2065,18 @@ export const hongkongCitiesV2: POI[] = [
       en: ["Home to the Harrow International School.", "Located near the Hong Kong Gold Coast.", "Surrounded by mountains and nature trails.", "Key entry point for parts of MacLehose Trail."],
     },
     imageHint: "So Kwun Wat residential area and hills",
+    descriptionAdvanced: {
+      de: "So Kwun Wat ist ein ländlich geprägtes Gebiet im Osten von Tuen Mun, das zunehmend durch exklusive Wohnanlagen erschlossen wird. Es ist bekannt für seine Nähe zum Tai Lam Country Park und moderne Bildungseinrichtungen. Die Gegend bietet eine ruhige Umgebung abseits der Stadtzentren.",
+      hu: "So Kwun Wat egy vidékies jellegű terület Tuen Mun keleti részén, amelyet egyre több exkluzív lakópark épít be. Ismert a Tai Lam vidéki park közelségéről és modern oktatási intézményeiről. A környék csendes környezetet biztosít távol a városközpontoktól.",
+      ro: "So Kwun Wat este o zonă cu caracter rural din estul Tuen Mun, dezvoltată tot mai mult prin complexe rezidențiale exclusiviste. Este cunoscută pentru proximitatea față de parcul Tai Lam și instituțiile de învățământ moderne. Zona oferă un mediu liniștit.",
+      en: "So Kwun Wat is a rural area in eastern Tuen Mun that is increasingly being developed with exclusive residential estates. It is known for its proximity to Tai Lam Country Park and modern educational institutions. The area offers a tranquil environment away from urban centers.",
+    },
+    factsAdvanced: {
+      de: ["Standort der Harrow International School (2012)", "Ehemals Standort der britischen Perowne Barracks", "Ausgangspunkt für Sektion 10 des MacLehose Trails", "Nähe zum künstlichen Golden Beach in Tuen Mun", "Beherbergt das Gold Coast Hotel und Wohngebiet", "Erschließung durch neue Hochhaus-Wohnprojekte"],
+      hu: ["A Harrow Nemzetközi Iskola helyszíne (2012 óta)", "Korábban a brit Perowne laktanya állt itt", "A MacLehose túraútvonal 10. szakaszának kezdőpontja", "Közel fekszik a tuen muni mesterséges Arany Strandhoz", "Itt található a Gold Coast Hotel és lakóövezet", "Számos új, toronyházas lakóprojekt épül a területen"],
+      ro: ["Sediul Harrow International School din 2012", "Fostul amplasament al cazărmii britanice Perowne", "Punct de plecare pentru secțiunea 10 a MacLehose Trail", "Aproape de plaja artificială Golden Beach din Tuen Mun", "Găzduiește hotelul și zona rezidențială Gold Coast", "Dezvoltare accelerată prin noi proiecte rezidențiale"],
+      en: ["Location of Harrow International School (since 2012)", "Formerly the site of the British Perowne Barracks", "Starting point for Section 10 of the MacLehose Trail", "Proximity to the man-made Golden Beach in Tuen Mun", "Home to the Gold Coast Hotel and residential area", "Developing rapidly with new high-rise housing projects"],
+    },
   },
   {
     id: "hongkong-lam-tsuen-cities-v2",
@@ -1916,6 +2096,18 @@ export const hongkongCitiesV2: POI[] = [
       en: ["Famous for the Lam Tsuen Wishing Trees.", "Center of the Lunar New Year celebrations.", "Composed of 26 individual villages.", "Home to a historic Tin Hau Temple."],
     },
     imageHint: "Lam Tsuen Wishing Tree with papers",
+    descriptionAdvanced: {
+      de: "Lam Tsuen ist ein ländliches Tal im Distrikt Tai Po, das für seine jahrhundertealte Geschichte und kulturellen Traditionen bekannt ist. Berühmt ist der Ort vor allem für seine 'Wunschbäume', die besonders zum chinesischen Neujahrsfest besucht werden. Das Tal umfasst insgesamt 26 traditionelle Dörfer.",
+      hu: "Lam Tsuen egy vidéki völgy Tai Po kerületben, amely évszázados történelméről és kulturális hagyományairól ismert. A hely leginkább a 'kívánságfáiról' híres, amelyeket különösen a kínai újév idején látogatnak. A völgy összesen 26 hagyományos faluból áll.",
+      ro: "Lam Tsuen este o vale rurală din districtul Tai Po, cunoscută pentru istoria sa de secole și tradițiile culturale. Locul este faimos mai ales pentru 'arborii dorințelor', vizitați în special în timpul Anului Nou Chinezesc. Valea cuprinde un total de 26 de sate tradiționale.",
+      en: "Lam Tsuen is a rural valley in Tai Po District, known for its centuries-old history and cultural traditions. The area is most famous for its 'Wishing Trees', which draw thousands of visitors, especially during the Chinese New Year. The valley consists of 26 traditional villages.",
+    },
+    factsAdvanced: {
+      de: ["Über 700 Jahre kontinuierliche Besiedlung", "Tin Hau Tempel im Dorf Fong Ma Po (1768)", "Tradition des Papierwerfens in Wunschbäume", "Wunschbäume sind alte Banyan-Feigenbäume", "Jährliches 'Hong Kong Well-wishing Festival'", "Umgeben vom Lam Tsuen Country Park"],
+      hu: ["Több mint 700 éves folyamatos lakottság jellemzi", "A Fong Ma Po faluban lévő Tin Hau templom 1768-as", "Papírtekercsek fákra dobásának hagyománya", "A kívánságfák öreg banyánfüge fák", "Évente tartják a Hongkongi Jókívánság Fesztivált", "A Lam Tsuen vidéki park veszi körül"],
+      ro: ["Peste 700 de ani de așezare continuă", "Templul Tin Hau din satul Fong Ma Po (1768)", "Tradiția aruncării de hârtie în arborii dorințelor", "Arborii dorințelor sunt baniani (ficus) antici", "Festivalul anual de urări 'Hong Kong Well-wishing'", "Înconjurat de parcul rural Lam Tsuen"],
+      en: ["Over 700 years of continuous settlement", "Tin Hau Temple in Fong Ma Po built in 1768", "Tradition of throwing joss paper into wishing trees", "Wishing trees are ancient banyan (ficus) trees", "Annual 'Hong Kong Well-wishing Festival' venue", "Surrounded by the Lam Tsuen Country Park"],
+    },
   },
   {
     id: "hongkong-shek-o-cities-v2",

@@ -6220,8 +6220,32 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "ro": "Ribnitz-Damgarten, cunoscut drept Orașul Chihlimbarului, este situat pe malul lagunei (Bodden) ce duce la Marea Baltică, între orașele hanseatice Rostock și Stralsund. Orașul este renumit pentru Muzeul German al Chihlimbarului, care prezintă o colecție impresionantă de bijuterii și artefacte din 'aurul nordului'. Fondat în Evul Mediu, orașul-dublu păstrează elemente arhitecturale gotice din cărămidă, precum Poarta Rostock și Biserica Sf. Maria. Portul său pitoresc și proximitatea față de peninsula Fischland-Darß-Zingst îl fac o destinație populară pentru turiști și iubitorii de sporturi nautice. Geografie K7 — Zone costiere și lagune.",
+      "en": "Ribnitz-Damgarten, known as the Amber Town, is located on the shore of the lagoon (Bodden) leading to the Baltic Sea, between the Hanseatic cities of Rostock and Stralsund. The town is famous for the German Amber Museum, which displays an impressive collection of jewelry and artifacts made from the 'gold of the north.' Founded in the Middle Ages, the double town retains brick Gothic architectural elements like the Rostock Gate and St. Mary's Church. Its picturesque harbor and proximity to the Fischland-Darß-Zingst peninsula make it a popular destination for tourists and water sports enthusiasts. Geography K7 — Coastal zones and lagoons."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Găzduiește Muzeul German al Chihlimbarului, cel mai mare de acest fel din Europa.",
+        "Orașul a fost format prin unirea a două localități, Ribnitz și Damgarten, în 1950.",
+        "Este poarta de acces către peninsula Fischland-Darß-Zingst.",
+        "Poarta Rostock (Rostocker Tor), datând din secolul al XV-lea, este un reper important.",
+        "A fost un membru important al Ligii Hanseatice în Evul Mediu.",
+        "Regiunea este cunoscută pentru prelucrarea tradițională a chihlimbarului de secole.",
+        "Conexiune directă la rețeaua de căi navigabile a Mării Baltice.",
+        "Numele 'Ribnitz' provine din slavă și înseamnă 'loc de pește'."
+      ],
+      "en": [
+        "Home to the German Amber Museum, the largest of its kind in Europe.",
+        "The town was formed by the merger of two towns, Ribnitz and Damgarten, in 1950.",
+        "It is the gateway to the Fischland-Darß-Zingst peninsula.",
+        "The Rostock Gate (Rostocker Tor), dating from the 15th century, is an important landmark.",
+        "It was an important member of the Hanseatic League in the Middle Ages.",
+        "The region has been known for traditional amber processing for centuries.",
+        "Direct connection to the Baltic Sea's waterway network.",
+        "The name 'Ribnitz' is of Slavic origin and means 'fish place'."
+      ]
     },
     "facts": {
       "de": [
@@ -6279,8 +6303,32 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "ro": "Brandenburg an der Havel este considerat leagănul istoric al regiunii Brandenburg și al Prusiei. Orașul este construit pe mai multe insule și peninsule pe râul Havel, având o rețea densă de canale și peste 100 de poduri. Are trei nuclee istorice distincte: Altstadt (Orașul Vechi), Neustadt (Orașul Nou) și Dominsel (Insula Catedralei), fiecare cu farmecul său. Catedrala Sfinților Petru și Pavel, a cărei construcție a început în 1165, este un monument impresionant al arhitecturii romanice și gotice din cărămidă. Orașul a fost un centru industrial important, iar astăzi îmbină moștenirea sa de peste 1000 de ani cu un peisaj natural acvatic unic. Istorie K7 — Formarea statelor germane medievale.",
+      "en": "Brandenburg an der Havel is considered the historic cradle of the Brandenburg region and Prussia. The city is built on several islands and peninsulas on the Havel River, featuring a dense network of canals and over 100 bridges. It has three distinct historic cores: Altstadt (Old Town), Neustadt (New Town), and Dominsel (Cathedral Island), each with its own charm. The Cathedral of St. Peter and Paul, whose construction began in 1165, is an impressive monument of Romanesque and Brick Gothic architecture. The city was an important industrial center and today combines its over 1000-year-old heritage with a unique aquatic natural landscape. History K7 — Formation of medieval German states."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Este cea mai veche așezare din landul Brandenburg, cu peste 1050 de ani de istorie.",
+        "Catedrala a fost fondată în 948 ca episcopie.",
+        "Orașul este format din trei părți istorice: Orașul Vechi, Orașul Nou și Insula Catedralei.",
+        "Posedă o rețea extinsă de căi navigabile, parte a peisajului acvatic Havel.",
+        "Waldmops, o rasă de pug creată de caricaturistul Loriot, este un simbol local.",
+        "A fost un centru major al producției de oțel în timpul RDG.",
+        "Găzduiește un muzeu arheologic de stat important.",
+        "Evenimentul 'Havel-Klassik' este un renumit festival de muzică clasică în aer liber."
+      ],
+      "en": [
+        "It is the oldest settlement in the state of Brandenburg, with over 1050 years of history.",
+        "The cathedral was founded in 948 as a bishopric.",
+        "The city consists of three historic parts: Old Town, New Town, and Cathedral Island.",
+        "It possesses an extensive network of waterways, part of the Havel aquatic landscape.",
+        "The Waldmops, a pug breed created by cartoonist Loriot, is a local symbol.",
+        "It was a major center for steel production during the GDR era.",
+        "It hosts an important state archaeological museum.",
+        "The 'Havel-Klassik' event is a renowned open-air classical music festival."
+      ]
     },
     "facts": {
       "de": [
@@ -6338,8 +6386,32 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "ro": "Eberswalde, supranumit 'Orașul Pădurilor' (Waldstadt), este situat la aproximativ 50 km nord-est de Berlin, pe malurile Canalului Finow. Acest canal, inaugurat în 1620, este cea mai veche cale navigabilă artificială încă în funcțiune din Germania. Un punct de atracție tehnic remarcabil în apropiere este Elevatorul de Nave Niederfinow. Orașul este un centru important pentru silvicultură, găzduind Universitatea pentru Dezvoltare Durabilă Eberswalde. Grădina Zoologică Eberswalde și Grădina Botanică Forestieră sunt destinații populare pentru recreere. Istoria sa industrială, legată de prelucrarea metalelor, este vizibilă în arhitectura sa. Geografie K8 — Canale navigabile și inginerie hidraulică.",
+      "en": "Eberswalde, nicknamed 'Forest Town' (Waldstadt), is located about 50 km northeast of Berlin on the banks of the Finow Canal. This canal, inaugurated in 1620, is the oldest artificial waterway still in operation in Germany. A remarkable nearby technical attraction is the Niederfinow Boat Lift. The city is an important center for forestry, hosting the Eberswalde University for Sustainable Development. The Eberswalde Zoo and the Forestry Botanical Garden are popular recreational destinations. Its industrial history, linked to metal processing, is visible in its architecture. Geography K8 — Navigable canals and hydraulic engineering."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Găzduiește cea mai veche cale navigabilă artificială din Germania, Canalul Finow.",
+        "Universitatea sa este un lider în domeniul silviculturii și dezvoltării durabile.",
+        "Celebrul Tezaur de la Eberswalde, o colecție de obiecte din aur din Epoca Bronzului, a fost descoperit aici în 1913.",
+        "Elevatorul de Nave Niederfinow este o minune a ingineriei din anii 1930.",
+        "A fost un centru industrial important pentru prelucrarea cuprului și alamei.",
+        "Tramvaiul electric (Obus) din Eberswalde este unul dintre cele trei sisteme de acest fel din Germania.",
+        "Peste 50% din suprafața orașului este acoperită de păduri.",
+        "Grădina Zoologică este cunoscută pentru programele sale de conservare a speciilor."
+      ],
+      "en": [
+        "Home to Germany's oldest artificial waterway, the Finow Canal.",
+        "Its university is a leader in forestry and sustainable development.",
+        "The famous Eberswalde Hoard, a collection of Bronze Age gold items, was discovered here in 1913.",
+        "The Niederfinow Boat Lift is an engineering marvel from the 1930s.",
+        "It was a major industrial center for copper and brass processing.",
+        "The Eberswalde trolleybus is one of only three such systems in Germany.",
+        "Over 50% of the city's area is covered by forest.",
+        "The zoo is known for its species conservation programs."
+      ]
     },
     "facts": {
       "de": [
@@ -6397,8 +6469,32 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "ro": "Bernau bei Berlin este un oraș istoric situat la porțile capitalei germane. Este renumit pentru zidurile sale medievale de apărare, aproape complet conservate, cu turnuri și porți impunătoare, precum Steintor. Orașul a jucat un rol important în timpul Războaielor Husite din secolul al XV-lea, apărându-se cu succes de un asediu în 1432, eveniment comemorat anual prin Festivalul Husit. În secolul XX, aici a funcționat Școala Sindicatelor ADGB, o capodoperă a arhitecturii Bauhaus, proiectată de Hannes Meyer și înscrisă în Patrimoniul Mondial UNESCO. Proximitatea față de Berlin și buna conexiune feroviară îl fac un oraș rezidențial atractiv. Istorie K7 — Arhitectura Bauhaus și mișcarea modernistă.",
+      "en": "Bernau bei Berlin is a historic town at the gates of the German capital. It is renowned for its almost completely preserved medieval defense walls with imposing towers and gates, such as the Steintor. The town played a significant role during the Hussite Wars in the 15th century, successfully defending against a siege in 1432, an event commemorated annually with the Hussite Festival. In the 20th century, it was home to the ADGB Trade Union School, a masterpiece of Bauhaus architecture designed by Hannes Meyer and a UNESCO World Heritage site. Its proximity to Berlin and good rail connections make it an attractive residential town. History K7 — Bauhaus architecture and the modernist movement."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Fostul sediu al Școlii Sindicatelor ADGB este un sit al Patrimoniului Mondial UNESCO.",
+        "Zidurile orașului, construite în secolul al XIV-lea, sunt aproape complet intacte.",
+        "Festivalul Husit anual celebrează victoria orașului din 1432.",
+        "A fost un centru important al producției de bere în Evul Mediu.",
+        "Găzduiește un muzeu dedicat istoriei Războaielor Husite.",
+        "Steintor (Poarta de Piatră) este cel mai mare turn de poartă conservat.",
+        "Centrul istoric este caracterizat de case pe jumătate din lemn (Fachwerk).",
+        "Este conectat direct la rețeaua S-Bahn a Berlinului."
+      ],
+      "en": [
+        "The former ADGB Trade Union School is a UNESCO World Heritage site.",
+        "The city walls, built in the 14th century, are almost completely intact.",
+        "The annual Hussite Festival celebrates the city's victory in 1432.",
+        "It was a major center for beer production in the Middle Ages.",
+        "It hosts a museum dedicated to the history of the Hussite Wars.",
+        "The Steintor (Stone Gate) is the largest preserved gate tower.",
+        "The historic center is characterized by half-timbered houses (Fachwerk).",
+        "It is directly connected to Berlin's S-Bahn network."
+      ]
     },
     "facts": {
       "de": [
@@ -6456,8 +6552,32 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "ro": "Königs Wusterhausen este cunoscut drept 'leagănul radiodifuziunii germane'. Pe 22 decembrie 1920, de pe dealul Funkerberg, a fost transmis primul concert de Crăciun, marcând începutul radioului public în Germania. Muzeul Radioului comemorează acest eveniment. Orașul este dominat de castelul său, o fostă reședință de vânătoare a 'Regelui Soldat' Frederic Wilhelm I al Prusiei, care își petrecea timpul aici cu faimosul său 'Colegiu al Tutunului'. Situat într-o regiune bogată în lacuri și păduri, la sud-est de Berlin, orașul este o destinație populară pentru recreere și sporturi nautice. Istorie K9 — Istoria tehnologiei de comunicare.",
+      "en": "Königs Wusterhausen is known as the 'cradle of German broadcasting.' On December 22, 1920, the first Christmas concert was broadcast from the Funkerberg hill, marking the beginning of public radio in Germany. The Radio Museum commemorates this event. The city is dominated by its castle, a former hunting lodge of the 'Soldier King' Frederick William I of Prussia, who spent time here with his famous 'Tobacco Parliament.' Located in a region rich in lakes and forests southeast of Berlin, the city is a popular destination for recreation and water sports. History K9 — History of communication technology."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Prima transmisie radio publică din Germania a avut loc aici în 1920.",
+        "Castelul a fost reședința de vânătoare preferată a Regelui Frederic Wilhelm I.",
+        "Găzduiește Muzeul Radiodifuziunii și Telecomunicațiilor.",
+        "Face parte din regiunea acvatică Dahme-Spreewald, cu numeroase lacuri.",
+        "Portul de pe râul Dahme este un nod important pentru turismul nautic.",
+        "Apropierea de noul aeroport Berlin Brandenburg (BER) îi sporește importanța.",
+        "Numele orașului a fost schimbat din 'Wusterhausen' în 'Königs Wusterhausen' de către rege.",
+        "Tabakskollegium (Colegiul Tutunului) era o întâlnire informală a regelui cu consilierii săi."
+      ],
+      "en": [
+        "Germany's first public radio broadcast took place here in 1920.",
+        "The castle was the favorite hunting lodge of King Frederick William I.",
+        "It houses the Broadcasting and Telecommunications Museum.",
+        "It is part of the Dahme-Spreewald water region, with numerous lakes.",
+        "The harbor on the Dahme River is an important hub for water tourism.",
+        "Its proximity to the new Berlin Brandenburg Airport (BER) increases its importance.",
+        "The town's name was changed from 'Wusterhausen' to 'Königs Wusterhausen' by the king.",
+        "The Tabakskollegium (Tobacco Parliament) was an informal meeting of the king with his advisors."
+      ]
     },
     "facts": {
       "de": [
@@ -6515,8 +6635,32 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "ro": "Oranienburg, situat la nord de Berlin pe râul Havel, are o istorie duală, marcată de splendoarea barocă și de teroarea nazistă. Orașul este dominat de Palatul Oranienburg, cel mai vechi palat baroc din landul Brandenburg, construit în secolul al XVII-lea pentru Louise Henriette de Orania-Nassau. În contrast, istoria sa din secolul XX este umbrită de Lagărul de Concentrare Sachsenhausen, unul dintre principalele lagăre de pe teritoriul german, astăzi un important memorial și muzeu. Orașul este înconjurat de o rețea de lacuri și canale, oferind numeroase oportunități de recreere. Parcul palatului, reamenajat pentru Expoziția Horticolă din 2009, este o atracție majoră. Istorie K9 — Germania Nazistă și Holocaustul.",
+      "en": "Oranienburg, north of Berlin on the Havel River, has a dual history marked by baroque splendor and Nazi terror. The city is dominated by Oranienburg Palace, the oldest baroque palace in the state of Brandenburg, built in the 17th century for Louise Henriette of Orange-Nassau. In contrast, its 20th-century history is overshadowed by the Sachsenhausen Concentration Camp, one of the main camps on German territory, now an important memorial and museum. The city is surrounded by a network of lakes and canals, offering numerous recreational opportunities. The palace park, redesigned for the 2009 Horticultural Show, is a major attraction. History K9 — Nazi Germany and the Holocaust."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Palatul Oranienburg este cel mai vechi palat baroc din Brandenburg.",
+        "Memorialul Lagărului de Concentrare Sachsenhausen comemorează peste 200.000 de prizonieri.",
+        "Orașul a fost numit în onoarea Louisei Henriette de Orania-Nassau.",
+        "A fost un centru important pentru industria chimică, inclusiv pentru Auergesellschaft.",
+        "Canalul Oranienburg leagă râul Havel de Canalul Havel-Oder.",
+        "Parcul palatului include o grădină botanică și o bibliotecă modernă.",
+        "Prima mențiune documentară a așezării datează din 1216 (sub numele de Bötzow).",
+        "Găzduiește un muzeu dedicat istoriei districtului Oberhavel."
+      ],
+      "en": [
+        "Oranienburg Palace is the oldest baroque palace in Brandenburg.",
+        "The Sachsenhausen Concentration Camp Memorial commemorates over 200,000 prisoners.",
+        "The city was named in honor of Louise Henriette of Orange-Nassau.",
+        "It was an important center for the chemical industry, including the Auergesellschaft.",
+        "The Oranienburg Canal connects the Havel River with the Havel-Oder Canal.",
+        "The palace park includes a botanical garden and a modern library.",
+        "The first documented mention of the settlement dates back to 1216 (as Bötzow).",
+        "It hosts a museum dedicated to the history of the Oberhavel district."
+      ]
     },
     "facts": {
       "de": [
@@ -6573,9 +6717,33 @@ export const poiExtraDeCities: POI[] = [
     },
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók și orașe",
+      "ro": "Falkensee este un oraș în plină expansiune situat la periferia vestică a Berlinului, în landul Brandenburg. Caracterizat de zone rezidențiale verzi și numeroase lacuri, precum Falkenhagener See și Neuer See, este o locație preferată pentru navetiștii care lucrează în Berlin, dar doresc un stil de viață mai liniștit. Orașul s-a format prin unirea mai multor sate și a cunoscut o dezvoltare rapidă după căderea Zidului Berlinului. Muzeul și Galeria locală prezintă istoria regiunii, inclusiv perioada în care Zidul Berlinului separa Falkensee de districtul Spandau al Berlinului de Vest. Infrastructura sa modernă și proximitatea față de natură definesc calitatea vieții în acest oraș dinamic. Geografie K9 — Urbanizare suburbană și zone metropolitane.",
+      "en": "Falkensee is a booming town on the western outskirts of Berlin in the state of Brandenburg. Characterized by green residential areas and numerous lakes, such as Falkenhagener See and Neuer See, it is a preferred location for commuters working in Berlin who desire a quieter lifestyle. The town was formed by the merger of several villages and experienced rapid development after the fall of the Berlin Wall. The local Museum and Gallery showcases the region's history, including the period when the Berlin Wall separated Falkensee from the West Berlin district of Spandau. Its modern infrastructure and proximity to nature define the quality of life in this dynamic town. Geography K9 — Suburbanization and metropolitan areas."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Este unul dintre orașele cu cea mai rapidă creștere din landul Brandenburg.",
+        "Situat direct la granița cu Berlin (districtul Spandau).",
+        "A fost separat de Berlinul de Vest de Zidul Berlinului între 1961 și 1989.",
+        "Numele provine de la un lac care nu mai există, Falkenhäger See.",
+        "Peste 44.000 de locuitori, o creștere semnificativă față de 1990.",
+        "Zona este bogată în lacuri, păduri și rezervații naturale.",
+        "Găzduiește un muzeu care documentează istoria locală și impactul Zidului.",
+        "Conexiune directă cu rețeaua feroviară regională spre Berlin."
+      ],
+      "en": [
+        "It is one of the fastest-growing towns in the state of Brandenburg.",
+        "Located directly on the border with Berlin (Spandau district).",
+        "It was separated from West Berlin by the Berlin Wall between 1961 and 1989.",
+        "The name comes from a no-longer-existing lake, the Falkenhäger See.",
+        "Over 44,000 inhabitants, a significant increase since 1990.",
+        "The area is rich in lakes, forests, and nature reserves.",
+        "It hosts a museum documenting local history and the impact of the Wall.",
+        "Direct connection to the regional train network to Berlin."
+      ]
     },
     "facts": {
       "de": [
@@ -6632,9 +6800,33 @@ export const poiExtraDeCities: POI[] = [
     },
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók și orașe",
+      "ro": "Strausberg, un oraș situat la est de Berlin, este cunoscut ca 'orașul verde de la lac'. Este așezat pe malul pitorescului lac Straussee, pe care operează un feribot electric unic în Europa, suspendat de un cablu aerian. Orașul este un important centru militar, găzduind Comandamentul Armatei Germane (Kommando Heer). Centrul său istoric, cu Biserica Sf. Maria și zidurile medievale, a fost restaurat cu grijă. Strausberg este înconjurat de o regiune bogată în păduri și lacuri, parte a parcului natural 'Märkische Schweiz'. Aerodromul local are o istorie bogată, fiind folosit încă din anii 1920. Geografie K7 — Lacuri glaciare și transport inovator.",
+      "en": "Strausberg, a town east of Berlin, is known as the 'green city by the lake.' It is situated on the shore of the picturesque Straussee lake, which features a unique electric ferry suspended from an overhead cable, the only one of its kind in Europe. The city is an important military center, housing the German Army Command (Kommando Heer). Its historic center, with St. Mary's Church and medieval walls, has been carefully restored. Strausberg is surrounded by a region rich in forests and lakes, part of the 'Märkische Schweiz' nature park. The local airfield has a rich history, having been in use since the 1920s. Geography K7 — Glacial lakes and innovative transport."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Operează singurul feribot electric suspendat pe cablu din Europa.",
+        "Găzduiește Comandamentul Armatei Germane (Bundeswehr).",
+        "Este poarta de intrare către parcul natural 'Märkische Schweiz'.",
+        "Prima mențiune documentară a orașului datează din 1254.",
+        "Centrul istoric este înconjurat de ziduri de apărare medievale.",
+        "Lacul Straussee are o adâncime de până la 20 de metri.",
+        "Linia de tramvai locală este integrată în rețeaua de transport a Berlinului.",
+        "A fost un centru de producție de muniție în timpul războaielor mondiale."
+      ],
+      "en": [
+        "Operates the only cable-suspended electric ferry in Europe.",
+        "Hosts the German Army Command (Bundeswehr).",
+        "It is the gateway to the 'Märkische Schweiz' nature park.",
+        "The first documented mention of the city dates back to 1254.",
+        "The historic center is surrounded by medieval defense walls.",
+        "The Straussee lake is up to 20 meters deep.",
+        "The local tram line is integrated into Berlin's transport network.",
+        "It was a center for ammunition production during the world wars."
+      ]
     },
     "facts": {
       "de": [
@@ -6691,9 +6883,33 @@ export const poiExtraDeCities: POI[] = [
     },
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók și orașe",
+      "ro": "Werder (Havel) este un oraș-insulă idilic, renumit în toată Germania pentru livezile sale și festivalul anual al înfloririi pomilor (Baumblütenfest). Situat într-un peisaj acvatic spectaculos format de râul Havel, la sud-vest de Potsdam, orașul este un centru al cultivării fructelor, în special cireșe, și al producției de vinuri de fructe. Centrul istoric este situat pe o insulă și este caracterizat de case pescărești vechi și străzi înguste. Moara de vânt istorică de pe insulă este un reper important. Pe lângă livezi, regiunea este cunoscută și pentru podgoriile sale, fiind cea mai nordică zonă viticolă de calitate din Europa. Agricultură K7 — Cultivarea fructelor și festivaluri tradiționale.",
+      "en": "Werder (Havel) is an idyllic island town, famous throughout Germany for its orchards and the annual tree blossom festival (Baumblütenfest). Located in a spectacular water landscape formed by the Havel River, southwest of Potsdam, the city is a center for fruit growing, especially cherries, and fruit wine production. The historic old town is on an island and is characterized by old fishermen's houses and narrow streets. The historic windmill on the island is an important landmark. Besides orchards, the region is also known for its vineyards, being the northernmost quality wine-growing area in Europe. Agriculture K7 — Fruit cultivation and traditional festivals."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Găzduiește Baumblütenfest, unul dintre cele mai mari festivaluri populare din Germania.",
+        "Este un centru renumit pentru cultivarea cireșelor și a altor fructe.",
+        "Centrul istoric este situat pe o insulă înconjurată de râul Havel.",
+        "Face parte din cea mai nordică regiune viticolă de calitate din Europa (Saale-Unstrut).",
+        "Prima mențiune documentară datează din 1317.",
+        "Moara de vânt de pe insulă este complet funcțională.",
+        "Producția de vin de fructe (Obstwein) este o tradiție locală importantă.",
+        "În 2017 a sărbătorit 700 de ani de la prima atestare documentară."
+      ],
+      "en": [
+        "Hosts Baumblütenfest, one of the largest folk festivals in Germany.",
+        "It is a renowned center for the cultivation of cherries and other fruits.",
+        "The historic old town is located on an island surrounded by the Havel River.",
+        "It is part of the northernmost quality wine-growing region in Europe (Saale-Unstrut).",
+        "The first documented mention dates back to 1317.",
+        "The windmill on the island is fully functional.",
+        "The production of fruit wine (Obstwein) is an important local tradition.",
+        "In 2017, it celebrated 700 years since its first documented mention."
+      ]
     },
     "facts": {
       "de": [
@@ -6750,9 +6966,33 @@ export const poiExtraDeCities: POI[] = [
     },
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
-      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók și orașe",
+      "ro": "Senftenberg este un exemplu remarcabil de transformare post-industrială, fiind situat în inima regiunii Lausitzer Seenland (Țara Lacurilor Lusațiană). Ceea ce a fost odată o vastă zonă de minerit de lignit în aer liber este acum un peisaj acvatic atractiv, cu lacuri navigabile. Lacul Senftenberg, unul dintre cele mai mari lacuri artificiale din Germania, oferă plaje, porturi de agrement și numeroase facilități pentru sporturi nautice. Cetatea Senftenberg, o fortăreață renascentistă bine conservată, găzduiește un muzeu care prezintă istoria regiunii, de la minerit la turism. Orașul este un centru universitar (BTU Cottbus-Senftenberg) și un model pentru revitalizarea regiunilor miniere. Geografie K9 — Recultivarea terenurilor și turismul post-industrial.",
+      "en": "Senftenberg is a remarkable example of post-industrial transformation, located in the heart of the Lusatian Lake District (Lausitzer Seenland). What was once a vast open-cast lignite mining area is now an attractive water landscape with navigable lakes. Lake Senftenberg, one of the largest artificial lakes in Germany, offers beaches, marinas, and numerous water sports facilities. Senftenberg Fortress, a well-preserved Renaissance fortress, houses a museum showcasing the region's history from mining to tourism. The city is a university center (BTU Cottbus-Senftenberg) and a model for the revitalization of mining regions. Geography K9 — Land reclamation and post-industrial tourism."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Centrul regiunii turistice Lausitzer Seenland, cea mai mare zonă de lacuri artificiale din Europa.",
+        "Lacul Senftenberg a fost creat prin inundarea unei foste mine de lignit.",
+        "Cetatea renascentistă este un monument istoric important.",
+        "Găzduiește un campus al Universității Tehnice Brandenburg Cottbus-Senftenberg.",
+        "Pista de schi acoperită 'Snowtropolis' oferă sporturi de iarnă pe tot parcursul anului.",
+        "Piramida IBA (Internationale Bauausstellung) este un punct de belvedere arhitectural.",
+        "Orașul a primit statutul de stațiune recunoscută de stat în 2007.",
+        "Portul orașului leagă lacul Senftenberg de alte lacuri din rețea."
+      ],
+      "en": [
+        "Center of the Lausitzer Seenland tourist region, Europe's largest artificial lake district.",
+        "Lake Senftenberg was created by flooding a former lignite mine.",
+        "The Renaissance fortress is an important historical monument.",
+        "It hosts a campus of the Brandenburg University of Technology Cottbus-Senftenberg.",
+        "The 'Snowtropolis' indoor ski slope offers year-round winter sports.",
+        "The IBA Pyramid (Internationale Bauausstellung) is an architectural viewpoint.",
+        "The city received the status of a state-recognized resort in 2007.",
+        "The city harbor connects Lake Senftenberg to other lakes in the network."
+      ]
     },
     "facts": {
       "de": [
@@ -6810,8 +7050,32 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "ro": "Mitte, care înseamnă 'centru', este inima istorică și guvernamentală a Berlinului. Acest district vibrant găzduiește unele dintre cele mai emblematice repere ale Germaniei, inclusiv Poarta Brandenburg, clădirea Reichstag-ului (sediul parlamentului german) și Insula Muzeelor, un sit al Patrimoniului Mondial UNESCO. Alexanderplatz, cu turnul său de televiziune (Fernsehturm), este un nod de transport și un centru comercial important. Cartierul Nikolaiviertel, reconstruit în stil medieval, oferă o perspectivă asupra vechiului Berlin. De-a lungul râului Spree, districtul guvernamental modern contrastează cu monumentele istorice, reflectând istoria complexă a orașului. Istorie K10 — Berlin: capitala divizată și reunificată.",
+      "en": "Mitte, meaning 'center,' is the historical and governmental heart of Berlin. This vibrant district is home to some of Germany's most iconic landmarks, including the Brandenburg Gate, the Reichstag building (seat of the German parliament), and Museum Island, a UNESCO World Heritage site. Alexanderplatz, with its television tower (Fernsehturm), is a major transport hub and commercial center. The Nikolaiviertel, rebuilt in a medieval style, offers a glimpse into old Berlin. Along the Spree River, the modern government district contrasts with historic monuments, reflecting the city's complex history. History K10 — Berlin: divided and reunified capital."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Găzduiește Poarta Brandenburg, un simbol al reunificării Germaniei.",
+        "Insula Muzeelor este un complex de cinci muzee de renume mondial, sit UNESCO.",
+        "Clădirea Reichstag-ului este sediul Bundestag-ului, parlamentul federal german.",
+        "Alexanderplatz a fost centrul Berlinului de Est.",
+        "Checkpoint Charlie, fostul punct de trecere a frontierei, se află la granița cu Kreuzberg.",
+        "Bulevardul Unter den Linden leagă Poarta Brandenburg de fosta locație a Palatului Orășenesc.",
+        "Gendarmenmarkt este considerată una dintre cele mai frumoase piețe din Europa.",
+        "Memorialul Holocaustului, un câmp de 2.711 stâlpi de beton, este situat în apropierea Porții Brandenburg."
+      ],
+      "en": [
+        "Home to the Brandenburg Gate, a symbol of German reunification.",
+        "Museum Island is a complex of five world-renowned museums, a UNESCO site.",
+        "The Reichstag building is the seat of the Bundestag, the German federal parliament.",
+        "Alexanderplatz was the center of East Berlin.",
+        "Checkpoint Charlie, the former border crossing, is on the border with Kreuzberg.",
+        "The Unter den Linden boulevard connects the Brandenburg Gate to the former City Palace site.",
+        "Gendarmenmarkt is considered one of the most beautiful squares in Europe.",
+        "The Holocaust Memorial, a field of 2,711 concrete slabs, is located near the Brandenburg Gate."
+      ]
     },
     "facts": {
       "de": [
@@ -6869,8 +7133,32 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "ro": "Charlottenburg, un district elegant din vestul Berlinului, este renumit pentru Palatul Charlottenburg, cel mai mare și mai magnific palat din oraș. Construit la sfârșitul secolului al XVII-lea ca reședință de vară pentru regina Sophia Charlotte, palatul este înconjurat de grădini baroce întinse. Districtul este traversat de bulevardul comercial Kurfürstendamm (Ku'damm), plin de magazine de lux, teatre și restaurante. Charlottenburg oferă o atmosferă sofisticată, cu clădiri rezidențiale impunătoare din secolul al XIX-lea, muzee prestigioase precum Muzeul Berggruen și numeroase galerii de artă. Deutsche Oper Berlin, una dintre cele mai importante opere din Germania, se află de asemenea aici. Cultură K9 — Palate regale și viață urbană sofisticată.",
+      "en": "Charlottenburg, an elegant district in western Berlin, is famous for Charlottenburg Palace, the largest and most magnificent palace in the city. Built in the late 17th century as a summer residence for Queen Sophia Charlotte, the palace is surrounded by extensive baroque gardens. The district is traversed by the Kurfürstendamm (Ku'damm) shopping boulevard, filled with luxury shops, theaters, and restaurants. Charlottenburg offers a sophisticated atmosphere with imposing 19th-century residential buildings, prestigious museums like the Berggruen Museum, and numerous art galleries. The Deutsche Oper Berlin, one of Germany's leading opera houses, is also located here. Culture K9 — Royal palaces and sophisticated urban life."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Palatul Charlottenburg este cea mai mare reședință a familiei Hohenzollern din Berlin.",
+        "Kurfürstendamm este principalul bulevard comercial al Berlinului de Vest.",
+        "Găzduiește Deutsche Oper Berlin și Theater des Westens.",
+        "Muzeul Berggruen expune o colecție importantă de artă modernă, inclusiv lucrări de Picasso.",
+        "Grădinile palatului includ un mausoleu, un belvedere și o ceainărie.",
+        "A fost un oraș independent până la încorporarea în Berlinul Mare în 1920.",
+        "Biserica Memorială Kaiser Wilhelm, parțial distrusă, este un monument anti-război faimos.",
+        "Savignyplatz este cunoscut pentru librăriile sale și restaurantele literare."
+      ],
+      "en": [
+        "Charlottenburg Palace is the largest residence of the Hohenzollern family in Berlin.",
+        "Kurfürstendamm is the main shopping boulevard of West Berlin.",
+        "It is home to the Deutsche Oper Berlin and the Theater des Westens.",
+        "The Berggruen Museum exhibits a major collection of modern art, including works by Picasso.",
+        "The palace gardens include a mausoleum, a belvedere, and a teahouse.",
+        "It was an independent city until its incorporation into Greater Berlin in 1920.",
+        "The partially destroyed Kaiser Wilhelm Memorial Church is a famous anti-war memorial.",
+        "Savignyplatz is known for its bookshops and literary restaurants."
+      ]
     },
     "facts": {
       "de": [
@@ -6928,8 +7216,32 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "ro": "Kreuzberg, parte a districtului Friedrichshain-Kreuzberg, este cunoscut ca un centru al contraculturii și al scenei alternative din Berlin. Istoric un bastion al mișcărilor anarhiste și punk, astăzi este un amestec vibrant de culturi, cu o mare populație de imigranți, în special de origine turcă. Districtul este împărțit cultural în SO 36, partea estică, mai agitată și alternativă, și Kreuzberg 61, partea vestică, mai burgheză. Găzduiește Muzeul Evreiesc, cu arhitectura sa deosebită proiectată de Daniel Libeskind, și Muzeul German de Tehnologie. Canalul Landwehr și parcul Viktoriapark, cu cascada sa artificială, oferă spații verzi pentru recreere. Cultură K10 — Contracultură și diversitate urbană.",
+      "en": "Kreuzberg, part of the Friedrichshain-Kreuzberg district, is known as a center of counterculture and the alternative scene in Berlin. Historically a stronghold of anarchist and punk movements, today it is a vibrant mix of cultures with a large immigrant population, especially of Turkish origin. The district is culturally divided into SO 36, the more turbulent and alternative eastern part, and Kreuzberg 61, the more bourgeois western part. It is home to the Jewish Museum with its distinctive architecture by Daniel Libeskind, and the German Museum of Technology. The Landwehr Canal and Viktoriapark, with its artificial waterfall, offer green spaces for recreation. Culture K10 — Counterculture and urban diversity."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Centru istoric al mișcărilor punk și alternative din Berlinul de Vest.",
+        "Găzduiește o comunitate turcească numeroasă, poreclit 'Micul Istanbul'.",
+        "Muzeul Evreiesc din Berlin are un design arhitectural premiat.",
+        "Parcul Görlitzer este un punct central de întâlnire, cunoscut pentru atmosfera sa plină de viață.",
+        "Podul Oberbaum, un reper emblematic, leagă Kreuzberg de Friedrichshain.",
+        "Markthalle Neun este o hală de piață istorică ce găzduiește evenimente culinare populare.",
+        "Carnavalul Culturilor, un eveniment anual, celebrează diversitatea etnică a Berlinului.",
+        "Viktoriapark oferă o vedere panoramică asupra orașului de pe dealul Kreuzberg."
+      ],
+      "en": [
+        "Historic center of the punk and alternative movements in West Berlin.",
+        "Home to a large Turkish community, nicknamed 'Little Istanbul'.",
+        "The Jewish Museum Berlin features an award-winning architectural design.",
+        "Görlitzer Park is a central meeting point known for its lively atmosphere.",
+        "The Oberbaum Bridge, an iconic landmark, connects Kreuzberg with Friedrichshain.",
+        "Markthalle Neun is a historic market hall hosting popular food events.",
+        "The Carnival of Cultures, an annual event, celebrates Berlin's ethnic diversity.",
+        "Viktoriapark offers a panoramic view of the city from the Kreuzberg hill."
+      ]
     },
     "facts": {
       "de": [
@@ -6987,8 +7299,32 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "ro": "Prenzlauer Berg, odinioară un cartier muncitoresc și un centru al artiștilor și al opoziției din RDG, a trecut printr-un proces masiv de gentrificare după reunificare. Astăzi, este unul dintre cele mai populare și prospere cartiere din Berlin, cunoscut pentru clădirile sale renovate din perioada Gründerzeit, străzile pitorești și atmosfera relaxată. Este plin de cafenele, buticuri independente și restaurante. Mauerpark, situat la fosta graniță a Zidului Berlinului, este celebru pentru piața sa de vechituri duminicală și karaoke-ul în aer liber. Kulturbrauerei, o fostă fabrică de bere, este acum un complex cultural vibrant, cu cinematografe, teatre și cluburi. Este un cartier preferat de familiile tinere. Cultură K11 — Gentrificare și transformare urbană.",
+      "en": "Prenzlauer Berg, once a working-class district and a center for artists and GDR opposition, has undergone massive gentrification since reunification. Today, it is one of Berlin's most popular and affluent neighborhoods, known for its renovated Gründerzeit buildings, picturesque streets, and relaxed atmosphere. It is filled with cafes, independent boutiques, and restaurants. Mauerpark, located on the former border of the Berlin Wall, is famous for its Sunday flea market and open-air karaoke. The Kulturbrauerei, a former brewery, is now a vibrant cultural complex with cinemas, theaters, and clubs. It is a favorite neighborhood for young families. Culture K11 — Gentrification and urban transformation."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Are una dintre cele mai mari densități de clădiri din perioada Gründerzeit (sfârșitul secolului XIX) din Germania.",
+        "Mauerpark găzduiește un faimos târg de vechituri și karaoke duminical.",
+        "Kulturbrauerei este un complex cultural major, situat într-o fostă fabrică de bere.",
+        "Sinagoga de pe Rykestrasse este cea mai mare sinagogă din Germania.",
+        "Castanienallee este un bulevard popular, supranumit 'Casting-Allee' datorită numeroaselor agenții de modeling.",
+        "Turnul de apă (Wasserturm), cel mai vechi din Berlin, este un simbol al cartierului.",
+        "A fost un centru al rezistenței pașnice care a dus la căderea Zidului Berlinului.",
+        "Cartierul are o reputație de a fi foarte prietenos cu familiile și copiii."
+      ],
+      "en": [
+        "It has one of the largest concentrations of Gründerzeit (late 19th century) buildings in Germany.",
+        "Mauerpark hosts a famous Sunday flea market and karaoke.",
+        "The Kulturbrauerei is a major cultural complex located in a former brewery.",
+        "The Rykestrasse Synagogue is the largest synagogue in Germany.",
+        "Castanienallee is a popular boulevard, nicknamed 'Casting-Allee' due to its many modeling agencies.",
+        "The Water Tower (Wasserturm), Berlin's oldest, is a symbol of the district.",
+        "It was a center of the peaceful resistance that led to the fall of the Berlin Wall.",
+        "The neighborhood has a reputation for being very family- and child-friendly."
+      ]
     },
     "facts": {
       "de": [
@@ -7046,8 +7382,32 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "ro": "Steglitz, parte a districtului Steglitz-Zehlendorf din sud-vestul Berlinului, este un cartier predominant rezidențial și comercial, cu o atmosferă burgheză. Coloana vertebrală a cartierului este Schloßstraße, una dintre cele mai mari și mai populare străzi comerciale din Berlin, care găzduiește numeroase magazine și centre comerciale, precum 'Das Schloss'. O atracție notabilă este 'Bierpinsel', o clădire futuristă din anii 1970, cu o formă distinctivă. În apropiere se află Grădina Botanică și Muzeul Botanic, una dintre cele mai importante din lume, cu o diversitate impresionantă de plante. Cartierul este bine conectat la centrul orașului și oferă o calitate înaltă a vieții, cu parcuri și zone verzi. Cultură K8 — Grădini botanice și arhitectură modernistă.",
+      "en": "Steglitz, part of the Steglitz-Zehlendorf district in southwestern Berlin, is a predominantly residential and commercial neighborhood with a bourgeois atmosphere. The backbone of the district is Schloßstraße, one of Berlin's largest and most popular shopping streets, hosting numerous stores and shopping centers like 'Das Schloss.' A notable attraction is the 'Bierpinsel,' a futuristic 1970s building with a distinctive shape. Nearby is the Botanical Garden and Botanical Museum, one of the most important in the world, with an impressive diversity of plants. The district is well-connected to the city center and offers a high quality of life, with parks and green areas. Culture K8 — Botanical gardens and modernist architecture."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Schloßstraße este a doua cea mai mare stradă comercială din Berlin.",
+        "Grădina Botanică din apropiere acoperă 43 de hectare și are aproximativ 22.000 de specii de plante.",
+        "'Bierpinsel' (Peria de bere) este un exemplu proeminent de arhitectură pop-art.",
+        "Aici a fost construit primul drum de țară pavat din Prusia, în 1792.",
+        "Include zona rezidențială liniștită Lichterfelde-West, cu numeroase vile vechi.",
+        "Găzduiește 'Schlosspark-Theater', un teatru cu o istorie bogată.",
+        "Canalul Teltow, o cale navigabilă importantă, traversează districtul.",
+        "Clinica universitară Charité are un campus important în Steglitz."
+      ],
+      "en": [
+        "Schloßstraße is the second-largest shopping street in Berlin.",
+        "The nearby Botanical Garden covers 43 hectares and has about 22,000 plant species.",
+        "The 'Bierpinsel' (Beer Brush) is a prominent example of pop-art architecture.",
+        "Prussia's first paved country road was built here in 1792.",
+        "Includes the quiet residential area of Lichterfelde-West, with many old villas.",
+        "It is home to the 'Schlosspark-Theater,' a theater with a rich history.",
+        "The Teltow Canal, an important waterway, runs through the district.",
+        "The Charité University Clinic has an important campus in Steglitz."
+      ]
     },
     "facts": {
       "de": [
@@ -7105,8 +7465,32 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "ro": "Vegesack este un district maritim al orașului Bremen, situat pe malul râului Weser. Aici a fost construit primul port artificial din Germania, în 1619-1623, pentru a servi navele care nu mai puteau ajunge în portul principal al Bremenului din cauza aluviunilor. Districtul are o istorie bogată în construcția de nave, fiind locul de naștere al multor șantiere navale renumite, precum Bremer Vulkan. O atracție principală este nava-muzeu 'Schulschiff Deutschland', un velier complet echipat din 1927. Promenada maritimă și centrul vechi oferă o atmosferă pitorească, cu magazine, cafenele și vedere la traficul naval de pe Weser. Istorie K8 — Istoria maritimă și construcția de nave.",
+      "en": "Vegesack is a maritime district of the city of Bremen, located on the banks of the Weser River. Germany's first artificial harbor was built here in 1619-1623 to serve ships that could no longer reach Bremen's main port due to siltation. The district has a rich shipbuilding history, being the birthplace of many famous shipyards, such as Bremer Vulkan. A main attraction is the museum ship 'Schulschiff Deutschland,' a fully-rigged tall ship from 1927. The maritime promenade and the old town center offer a picturesque atmosphere with shops, cafes, and views of the river traffic on the Weser. History K8 — Maritime history and shipbuilding."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Primul port artificial din Germania a fost construit aici la începutul secolului al XVII-lea.",
+        "Găzduiește nava-muzeu 'Schulschiff Deutschland', un monument național.",
+        "A fost un centru important al industriei germane de construcții navale (șantierul Bremer Vulkan).",
+        "Festivalul maritim anual 'Festival Maritim' atrage numeroși vizitatori.",
+        "Face parte din orașul-stat liber și hanseatic Bremen.",
+        "Promenada de pe malul Weser-ului are o lungime de peste un kilometru.",
+        "Aici a fost lansat primul vapor german, 'Die Weser', în 1817.",
+        "Casa memorială Gerhard Rohlfs este dedicată faimosului explorator al Africii, născut în Vegesack."
+      ],
+      "en": [
+        "Germany's first artificial harbor was built here in the early 17th century.",
+        "Home to the museum ship 'Schulschiff Deutschland,' a national monument.",
+        "It was a major center of the German shipbuilding industry (Bremer Vulkan shipyard).",
+        "The annual 'Festival Maritim' attracts numerous visitors.",
+        "It is part of the Free Hanseatic City of Bremen.",
+        "The promenade along the Weser river is over a kilometer long.",
+        "The first German steamer, 'Die Weser,' was launched here in 1817.",
+        "The Gerhard Rohlfs House is dedicated to the famous Africa explorer born in Vegesack."
+      ]
     },
     "facts": {
       "de": [
@@ -7164,8 +7548,32 @@ export const poiExtraDeCities: POI[] = [
     "descriptionAdvanced": {
       "de": "Die Stadt hat alte Gebäude. Besuchen Sie die historischen Straßen. Geographie K7 — Flüsse und Städte",
       "hu": "A város régi épületekkel rendelkezik. Látogassa meg a történelmi utcákat. Földrajz K7 — Folyók és városok",
-      "ro": "Orașul are clădiri vechi. Vizitați străzile istorice. Geografie K7 — Râuri și orașe",
-      "en": "The city has old buildings. Visit the historic streets. Geography K7 — Rivers and Cities"
+      "ro": "Findorff este un district central din Bremen, situat la nord de gara principală. Numele său provine de la Jürgen Christian Findorff, care a colonizat mlaștinile din zonă în secolul al XVIII-lea. Astăzi, este un cartier rezidențial dens populat, apreciat pentru proximitatea față de centru și pentru atmosfera sa plină de viață. Piața săptămânală Findorffmarkt este una dintre cele mai mari și mai populare din Bremen. Districtul include și vasta esplanadă Bürgerweide, unde au loc evenimente majore, precum faimosul târg Freimarkt. Fostul abator (Schlachthof) a fost transformat într-un centru cultural vibrant, cu concerte și evenimente. Geografie K8 — Dezvoltare urbană și recuperarea terenurilor.",
+      "en": "Findorff is a central district of Bremen, located north of the main train station. Its name comes from Jürgen Christian Findorff, who colonized the local moors in the 18th century. Today, it is a densely populated residential area, appreciated for its proximity to the center and its lively atmosphere. The weekly Findorffmarkt is one of the largest and most popular markets in Bremen. The district also includes the vast Bürgerweide esplanade, which hosts major events like the famous Freimarkt fair. The former slaughterhouse (Schlachthof) has been transformed into a vibrant cultural center with concerts and events. Geography K8 — Urban development and land reclamation."
+    },
+    "factsAdvanced": {
+      "de": [],
+      "hu": [],
+      "ro": [
+        "Numit după Jürgen Christian Findorff, colonizatorul mlaștinilor din Bremen.",
+        "Găzduiește Findorffmarkt, o piață săptămânală importantă.",
+        "Centrul cultural Schlachthof este un punct de atracție pentru tineret.",
+        "Zona Bürgerweide este folosită pentru mari evenimente, inclusiv Freimarkt.",
+        "Cartierul este caracterizat de casele tipice din Bremen (Bremer Haus).",
+        "A fost dezvoltat pe terenuri mlăștinoase asanate în secolul al XIX-lea.",
+        "Este un district cu o populație tânără și o atmosferă dinamică.",
+        "Proximitatea față de gară și centru îl face foarte accesibil."
+      ],
+      "en": [
+        "Named after Jürgen Christian Findorff, the colonizer of Bremen's moors.",
+        "Hosts the Findorffmarkt, a major weekly market.",
+        "The Schlachthof cultural center is a hotspot for young people.",
+        "The Bürgerweide area is used for large events, including the Freimarkt.",
+        "The district is characterized by typical Bremen houses (Bremer Haus).",
+        "It was developed on drained marshland in the 19th century.",
+        "It is a district with a young population and a dynamic atmosphere.",
+        "Its proximity to the train station and the city center makes it very accessible."
+      ]
     },
     "facts": {
       "de": [

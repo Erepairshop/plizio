@@ -19,6 +19,18 @@ export const nauruNatureV2: POI[] = [
       en: ["Largest bay on the island of Nauru", "Features a two-kilometer long sandy beach", "Home to the most important coral reef area", "Popular location for swimming and water sports"],
     },
     imageHint: "Anibare Bay white sand beach and turquoise water",
+    descriptionAdvanced: {
+      de: "Anibare Bay ist die größte und markanteste Bucht an der Ostküste von Nauru. Sie entstand durch einen massiven unterseeischen Erdrutsch vor Jahrtausenden, der ein tiefes Becken direkt vor der Küste hinterließ. Die Bucht ist bekannt für ihren weißen Korallensand und das klare Wasser. Aufgrund der exponierten Lage herrscht hier oft eine starke Brandung.",
+      hu: "Az Anibare-öböl Nauru keleti partjának legnagyobb és legjelentősebb öble. Évezredekkel ezelőtt egy hatalmas víz alatti földcsuszamlás hozta létre, amely mély medencét hagyott maga után közvetlenül a partnál. Az öböl fehér korallhomokjáról és tiszta vizéről ismert. Kitett helyzete miatt itt gyakran erős a hullámverés.",
+      ro: "Golful Anibare este cel mai mare și mai proeminent golf de pe coasta de est a insulei Nauru. S-a format în urma unei masive alunecări de teren submarine cu milenii în urmă, care a lăsat un bazin adânc chiar lângă coastă. Golful este cunoscut pentru nisipul său alb de corali și apele limpezi. Datorită locației expuse, aici există adesea valuri puternice.",
+      en: "Anibare Bay is the largest and most prominent bay on Nauru's eastern coast. It was formed by a massive underwater landslide millennia ago, which left a deep basin directly off the shore. The bay is renowned for its white coral sand and clear waters. Due to its exposed location, it frequently experiences heavy surf and strong currents.",
+    },
+    factsAdvanced: {
+      de: ["Die Bucht erstreckt sich über eine Länge von etwa 2 Kilometern.", "Hier befindet sich der wichtigste Hafen für kleine Fischerboote.", "Das Anibare-Riff ist ein beliebtes Ziel für Taucher.", "Der Strand gilt als der beste Badeort der gesamten Insel.", "Die Bucht wurde durch den Einsturz des Vulkanhangs geformt.", "Anibare Bay liegt im gleichnamigen Anibare-Distrikt."],
+      hu: ["Az öböl körülbelül 2 kilométer hosszan nyúlik el.", "Itt található a kis halászhajók legfontosabb kikötője.", "Az Anibare-zátony népszerű célpont a búvárok körében.", "A strandot az egész sziget legjobb fürdőhelyének tartják.", "Az öblöt a vulkáni lejtő beomlása formálta.", "Az Anibare-öböl az azonos nevű Anibare körzetben található."],
+      ro: ["Golful se întinde pe o lungime de aproximativ 2 kilometri.", "Aici se află cel mai important port pentru bărcile mici de pescuit.", "Reciful Anibare este o destinație populară pentru scafandri.", "Plaja este considerată cel mai bun loc de scăldat de pe întreaga insulă.", "Golful a fost format prin prăbușirea versantului vulcanic.", "Golful Anibare este situat în districtul cu același nume, Anibare."],
+      en: ["The bay stretches along a length of approximately 2 kilometers.", "It hosts the most significant harbor for small fishing boats.", "The Anibare reef is a popular destination for divers.", "The beach is considered the best swimming spot on the entire island.", "The bay was formed by the collapse of the volcanic slope.", "Anibare Bay is located within the district of Anibare."],
+    },
   },
   {
     id: "nauru-anibare-pinnacles-nature-v2",
@@ -38,6 +50,18 @@ export const nauruNatureV2: POI[] = [
       en: ["Formed by natural erosion of coral limestone", "Rise several meters above the beach surface", "Located at the southern end of Anibare Bay", "Popular photography subject for visitors"],
     },
     imageHint: "Limestone pinnacles on Anibare beach Nauru",
+    descriptionAdvanced: {
+      de: "Die Anibare Pinnacles sind bizarre Kalksteinformationen, die nach dem intensiven Phosphatabbau auf Nauru freigelegt wurden. Diese Korallentürme blieben stehen, während das umgebende phosphatreiche Gestein entfernt wurde. Sie bilden heute eine surreale Landschaft, die den massiven Eingriff des Menschen in die Geologie der Insel dokumentiert. Die Spitzen ragen teilweise mehrere Meter hoch aus dem Boden.",
+      hu: "Az Anibare Pinnacles bizarr mészkőképződmények, amelyek a Naurun végzett intenzív foszfátbányászat után váltak láthatóvá. Ezek a koralltornyok megmaradtak, miközben a környező foszfátban gazdag kőzetet eltávolították. Ma egy szürreális tájat alkotnak, amely dokumentálja az ember masszív beavatkozását a sziget geológiájába. A csúcsok néha több méter magasra emelkednek ki a földből.",
+      ro: "Anibare Pinnacles sunt formațiuni bizare de calcar care au fost expuse în urma mineritului intensiv de fosfați din Nauru. Aceste turnuri de corali au rămas în picioare în timp ce roca bogată în fosfați din jur a fost îndepărtată. Ele formează astăzi un peisaj suprarealist care documentează intervenția umană masivă în geologia insulei. Vârfurile se ridică uneori la câțiva metri deasupra solului.",
+      en: "The Anibare Pinnacles are bizarre limestone formations exposed after intensive phosphate mining on Nauru. These coral towers remained standing while the surrounding phosphate-rich rock was extracted. Today, they form a surreal landscape that documents massive human intervention in the island's geology. The jagged peaks sometimes rise several meters above the ground.",
+    },
+    factsAdvanced: {
+      de: ["Die Pinnacles bestehen aus versteinerten Korallenriffen.", "Sie können eine Höhe von bis zu 5 bis 10 Metern erreichen.", "Die Formationen sind extrem scharfkantig und schwer begehbar.", "Sie befinden sich auf dem Plateau, das lokal 'Topside' genannt wird.", "Die Verwitterung gibt den Türmen eine graue bis schwarze Farbe.", "Das Gebiet zeigt den Zustand der Insel vor der Rekultivierung."],
+      hu: ["A tüskék megkövült korallzátonyokból állnak.", "Magasságuk elérheti az 5-10 métert is.", "A képződmények rendkívül élesek és nehezen járhatók.", "A fennsíkon találhatók, amelyet helyben 'Topside'-nak neveznek.", "A mállás következtében a tornyok szürkés-fekete színűek.", "A terület a sziget rekultiváció előtti állapotát mutatja."],
+      ro: ["Pinnacles sunt formate din recife de corali fosilizate.", "Ele pot atinge o înălțime de până la 5 sau 10 metri.", "Formațiunile sunt extrem de ascuțite și greu de parcurs.", "Sunt situate pe platoul numit local 'Topside'.", "Eroziunea oferă turnurilor o culoare gri spre neagră.", "Zona prezintă starea insulei înainte de recultivare."],
+      en: ["The pinnacles are composed of fossilized coral reefs.", "They can reach heights of up to 5 to 10 meters.", "The formations are extremely sharp and difficult to navigate on foot.", "They are located on the plateau known locally as 'Topside'.", "Weathering gives the towers a gray to black coloration.", "The area demonstrates the state of the island prior to reclamation."],
+    },
   },
   {
     id: "nauru-moqua-caves-nature-v2",
@@ -57,6 +81,18 @@ export const nauruNatureV2: POI[] = [
       en: ["Network of karst caves in Yaren District", "Contain various stalactites and stalagmites", "Located partially below sea level", "Unique ecosystem for cave-dwelling fauna"],
     },
     imageHint: "Interior of Moqua Caves limestone formations",
+    descriptionAdvanced: {
+      de: "Die Moqua-Höhlen im Yaren-Distrikt beherbergen einen unterirdischen Süßwassersee, den Moqua Well. Dieses Höhlensystem ist eine der wenigen natürlichen Quellen für Frischwasser auf der Insel. Das klare Wasser wurde früher für die Trinkwasserversorgung genutzt, ist heute jedoch primär eine geologische Sehenswürdigkeit. Die Höhle liegt unterhalb des Plateaurandes in der Nähe des Flughafens.",
+      hu: "A Yaren körzetben található Moqua-barlangok egy föld alatti édesvízi tavat, a Moqua Well-t rejtik. Ez a barlangrendszer a sziget kevés természetes édesvízforrásának egyike. A tiszta vizet korábban ivóvízellátásra használták, ma azonban elsősorban geológiai látványosság. A barlang a fennsík pereme alatt, a repülőtér közelében található.",
+      ro: "Peșterile Moqua din districtul Yaren adăpostesc un lac subteran de apă dulce, numit Moqua Well. Acest sistem de peșteri este una dintre puținele surse naturale de apă dulce de pe insulă. Apa limpede a fost folosită anterior pentru alimentarea cu apă potabilă, dar astăzi este în principal o atracție geologică. Peștera este situată sub marginea platoului, lângă aeroport.",
+      en: "The Moqua Caves in Yaren District house an underground freshwater lake known as Moqua Well. This cave system is one of the few natural sources of fresh water on the island. The clear water was formerly utilized for drinking supplies, but today it is primarily a geological point of interest. The cave is located beneath the plateau's edge near the airport.",
+    },
+    factsAdvanced: {
+      de: ["Der Moqua Well ist etwa 5 Meter tief.", "Die Wassertemperatur bleibt das ganze Jahr über konstant.", "Die Höhle besteht aus porösem Kalksteinfels.", "Während des Zweiten Weltkriegs diente sie als Versteck.", "Der See ist mit dem Grundwasserspiegel der Insel verbunden.", "Der Zugang erfolgt über einen steilen Pfad im Yaren-Distrikt."],
+      hu: ["A Moqua Well körülbelül 5 méter mély.", "A víz hőmérséklete egész évben állandó marad.", "A barlang porózus mészkőből áll.", "A második világháború alatt rejtekhelyként szolgált.", "A tó kapcsolódik a sziget talajvízszintjéhez.", "A bejárat egy meredek ösvényen keresztül érhető el Yarenben."],
+      ro: ["Moqua Well are o adâncime de aproximativ 5 metri.", "Temperatura apei rămâne constantă pe tot parcursul anului.", "Peștera este formată din rocă calcaroasă poroasă.", "A servit drept ascunzătoare în timpul celui de-al Doilea Război Mondial.", "Lacul este conectat la pânza freatică a insulei.", "Accesul se face printr-o potecă abruptă în districtul Yaren."],
+      en: ["Moqua Well is approximately 5 meters deep.", "The water temperature remains constant throughout the year.", "The cave is formed from porous limestone rock.", "It served as a hiding place during World War II.", "The lake is connected to the island's primary water table.", "Access is via a steep path located in the Yaren District."],
+    },
   },
   {
     id: "nauru-ijuw-coastline-nature-v2",
@@ -76,6 +112,18 @@ export const nauruNatureV2: POI[] = [
       en: ["Northeasternmost point of Nauru island", "Important nesting site for various seabirds", "Features a narrow, rocky beach zone", "Known for having strong ocean currents"],
     },
     imageHint: "Rocky coastline at Ijuw Nauru",
+    descriptionAdvanced: {
+      de: "Die Küstenlinie von Ijuw bildet den nordöstlichsten Punkt von Nauru und ist geprägt von schroffen Riffkanten und Felsformationen. Dieses Gebiet ist weniger besiedelt und bietet eine naturbelassene Sicht auf den Pazifik. Starke Strömungen und Wellengang charakterisieren diesen Küstenabschnitt. Die Gezeitentümpel im Riff beherbergen eine Vielzahl von kleinen Meeresbewohnern.",
+      hu: "Ijuw partvonala Nauru legészakkeletibb pontját alkotja, amelyet szaggatott zátonyperemek és sziklaképződmények jellemeznek. Ez a terület kevésbé lakott, és érintetlen kilátást nyújt a Csendes-óceánra. Erős áramlatok és hullámzás jellemzi ezt a partszakaszt. A zátony árapály-medencéi számos apró tengeri élőlénynek adnak otthont.",
+      ro: "Linia de coastă din Ijuw formează cel mai nord-estic punct al insulei Nauru și este marcată de margini de recif abrupte și formațiuni stâncoase. Această zonă este mai puțin populată și oferă o vedere naturală asupra Pacificului. Curenții puternici și valurile mari caracterizează această secțiune de coastă. Bazinele intertidale din recif găzduiesc o varietate de mici creaturi marine.",
+      en: "The coastline of Ijuw forms the northeasternmost point of Nauru and is characterized by rugged reef edges and rocky formations. This area is less populated and offers an undisturbed view of the Pacific Ocean. Strong currents and heavy surf characterize this stretch of coast. The tidal pools within the reef house a variety of small marine organisms.",
+    },
+    factsAdvanced: {
+      de: ["Ijuw ist einer der kleinsten Distrikte nach Einwohnerzahl.", "Das Kap von Ijuw ist oft starken Passatwinden ausgesetzt.", "In den Felsen finden sich Fossilien von Korallen.", "Die Küstenstraße macht hier eine markante Kurve.", "Das Gebiet ist bekannt für das Sammeln von Meeresschnecken.", "Hier befinden sich keine größeren touristischen Einrichtungen."],
+      hu: ["Ijuw a lakosság száma alapján az egyik legkisebb körzet.", "Ijuw fokát gyakran erős passzátszelek érik.", "A sziklákban korallfosszíliák találhatók.", "A tengerparti út itt egy jellegzetes kanyart ír le.", "A terület tengeri csigák gyűjtéséről ismert.", "Itt nem találhatók nagyobb turisztikai létesítmények."],
+      ro: ["Ijuw este unul dintre cele mai mici districte după numărul de locuitori.", "Capul Ijuw este adesea expus vânturilor alizee puternice.", "În stânci se găsesc fosile de corali.", "Drumul de coastă face aici o curbă proeminentă.", "Zona este cunoscută pentru colectarea melcilor de mare.", "Nu există facilități turistice majore în această zonă."],
+      en: ["Ijuw is one of the smallest districts by population.", "The Cape of Ijuw is often exposed to strong trade winds.", "Fossilized corals can be found embedded in the rocks.", "The coastal ring road makes a prominent curve at this location.", "The area is well-known for the collection of sea snails.", "There are no major tourist facilities located in this area."],
+    },
   },
   {
     id: "nauru-anabar-lagoon-nature-v2",
@@ -95,6 +143,18 @@ export const nauruNatureV2: POI[] = [
       en: ["Smaller than the central Buada Lagoon", "Contains a mix of fresh and salt water", "Important habitat for local crustaceans", "Surrounded by native Pandanus trees"],
     },
     imageHint: "Anabar Lagoon brackish pool Nauru",
+    descriptionAdvanced: {
+      de: "Die Anabar-Lagunen sind kleine, brackige Gewässer im Norden Naurus, die sich in Vertiefungen des Korallengesteins gebildet haben. Sie stehen nicht in direkter oberirdischer Verbindung zum Meer, werden aber durch Versickerung gespeist. Diese Lagunen bieten Lebensraum für angepasste Fischarten und Wasservögel. Die Umgebung ist von typischer Küstenvegetation und Korallenfelsen geprägt.",
+      hu: "Az Anabar-lagúnák kis, sósas vizű tavak Nauru északi részén, amelyek a korallkőzet mélyedéseiben alakultak ki. Nincs közvetlen felszíni kapcsolatuk a tengerrel, de a beszivárgás táplálja őket. Ezek a lagúnák élőhelyet biztosítanak alkalmazkodott halfajoknak és vízimadaraknak. A környéket tipikus tengerparti növényzet és korallsziklák jellemzik.",
+      ro: "Lagunele Anabar sunt mici mase de apă salmastră din nordul insulei Nauru, formate în depresiuni ale rocii coraliene. Ele nu au o conexiune directă de suprafață cu marea, dar sunt alimentate prin infiltrații. Aceste lagune oferă habitat pentru specii de pești adaptate și păsări de apă. Împrejurimile sunt marcate de vegetație costieră tipică și stânci de corali.",
+      en: "The Anabar Lagoons are small, brackish bodies of water in northern Nauru, formed in depressions of the coral rock. They lack a direct surface connection to the sea but are fed through seepage. These lagoons provide habitats for specialized fish species and waterbirds. The surrounding area is characterized by typical coastal vegetation and coral limestone.",
+    },
+    factsAdvanced: {
+      de: ["Anabar liegt im Nordosten der Insel Nauru.", "Die Lagunen sind ein wichtiger Rastplatz für Zugvögel.", "Das Wasser hat einen schwankenden Salzgehalt.", "In der Nähe befinden sich historische Grabstätten.", "Die Fläche der einzelnen Lagunen ist recht klein.", "Sie sind Teil des traditionellen Landbesitzes der Anabar-Stämme."],
+      hu: ["Anabar Nauru szigetének északkeleti részén fekszik.", "A lagúnák a költöző madarak fontos pihenőhelyei.", "A víz sótartalma ingadozó.", "A közelben történelmi temetkezési helyek találhatók.", "Az egyes lagúnák területe meglehetősen kicsi.", "Az anabari törzsek hagyományos földtulajdonának részét képezik."],
+      ro: ["Anabar este situat în nord-estul insulei Nauru.", "Lagunele sunt un loc de popas important pentru păsările migratoare.", "Apa are o salinitate fluctuantă.", "În apropiere se află locuri de înmormântare istorice.", "Suprafața lagunelor individuale este destul de mică.", "Ele fac parte din proprietatea tradițională a pământului triburilor din Anabar."],
+      en: ["Anabar is located in the northeast of Nauru island.", "The lagoons are a significant resting spot for migratory birds.", "The water exhibits a fluctuating level of salinity.", "Historical burial sites are located in the vicinity.", "The surface area of the individual lagoons is relatively small.", "They are part of the traditional land ownership of Anabar clans."],
+    },
   },
   {
     id: "nauru-meneng-beach-nature-v2",
@@ -114,6 +174,18 @@ export const nauruNatureV2: POI[] = [
       en: ["One of the few wide sandy beaches in Nauru", "Provides access to the shallow coastal reef", "Known for tidal pools during low tide", "Site of historical Japanese fortifications"],
     },
     imageHint: "Meneng Beach shoreline in Nauru",
+    descriptionAdvanced: {
+      de: "Meneng Beach ist einer der wenigen sandigen Küstenabschnitte Naurus, der sich in der Nähe des Meneng Hotels befindet. Der Strand wird durch ein vorgelagertes Riff geschützt, das die Wellenenergie bricht und ruhiges Wasser zum Schwimmen ermöglicht. Die Küste ist hier von Kokospalmen und Pandanusbäumen gesäumt. Es ist ein beliebter Ort für lokale Festivitäten und Freizeitaktivitäten.",
+      hu: "A Meneng Beach Nauru kevés homokos tengerparti szakaszának egyike, amely a Meneng Hotel közelében található. A strandot egy előtte fekvő zátony védi, amely megtöri a hullámokat, és nyugodt vizet biztosít az úszáshoz. A partot itt kókuszpálmák és pandanuszfák szegélyezik. Népszerű hely a helyi ünnepségek és szabadidős tevékenységek számára.",
+      ro: "Plaja Meneng este una dintre puținele secțiuni de coastă nisipoase din Nauru, situată lângă Hotelul Meneng. Plaja este protejată de un recif care sparge energia valurilor, permițând ape liniștite pentru înot. Coasta este mărginită aici de cocotieri și arbori de pandanus. Este un loc popular pentru festivități locale și activități recreative.",
+      en: "Meneng Beach is one of the few sandy stretches of coastline on Nauru, located near the Meneng Hotel. The beach is protected by an offshore reef that breaks wave energy, creating calm waters suitable for swimming. The shore here is lined with coconut palms and pandanus trees. It is a popular venue for local festivities and recreational activities.",
+    },
+    factsAdvanced: {
+      de: ["Das Meneng Hotel war einst das größte Hotel der Insel.", "Bei Ebbe kann man weit auf das Riffdach hinauslaufen.", "Der Sand besteht hauptsächlich aus zerkleinerten Korallen.", "Meneng ist der flächenmäßig größte Distrikt Naurus.", "In der Nähe befinden sich Überreste von Bunkeranlagen aus dem Krieg.", "Der Strand ist ein Brutgebiet für einige Seevogelarten."],
+      hu: ["A Meneng Hotel egykor a sziget legnagyobb szállodája volt.", "Apálykor messze ki lehet sétálni a zátony tetejére.", "A homok főként zúzott korallokból áll.", "Meneng területileg Nauru legnagyobb körzete.", "A közelben háborús bunkerek maradványai találhatók.", "A strand néhány tengeri madárfaj költőhelye."],
+      ro: ["Hotelul Meneng a fost cândva cel mai mare hotel de pe insulă.", "La reflux, se poate merge mult pe platforma recifului.", "Nisipul constă în principal din corali sfărâmați.", "Meneng este cel mai mare district din Nauru ca suprafață.", "În apropiere se află resturi de buncăre din timpul războiului.", "Plaja este o zonă de cuibărit pentru câteva specii de păsări marine."],
+      en: ["The Meneng Hotel was once the largest hotel on the island.", "At low tide, one can walk far out onto the reef flat.", "The sand is primarily composed of crushed coral fragments.", "Meneng is the largest district in Nauru by surface area.", "Remnants of wartime bunkers can be found in the vicinity.", "The beach serves as a nesting ground for some seabird species."],
+    },
   },
   {
     id: "nauru-ewa-reef-nature-v2",
@@ -133,6 +205,18 @@ export const nauruNatureV2: POI[] = [
       en: ["Home to over 50 species of hard corals", "Important habitat for colorful reef fish", "Drops off steeply into the deep ocean", "Composed of living and fossil coral structures"],
     },
     imageHint: "Coral reef under water in Nauru",
+    descriptionAdvanced: {
+      de: "Das Ewa-Riff erstreckt sich entlang der Nordküste Naurus und bietet eine vielfältige Unterwasserwelt. Die Riffkante fällt hier steil in den tiefen Pazifik ab, was nährstoffreiches Wasser nach oben bringt. Dies begünstigt das Wachstum von Steinkorallen und lockt zahlreiche pelagische Fische an. Das Riff ist für die lokale Fischerei und den Küstenschutz von immenser Bedeutung.",
+      hu: "Az Ewa-zátony Nauru északi partja mentén húzódik, és változatos víz alatti világot kínál. A zátonyperem itt meredeken szakad le a mély Csendes-óceánba, ami tápanyagban gazdag vizet hoz a felszínre. Ez kedvez a kőkorallok növekedésének, és számos nyílt tengeri halat vonz. A zátony hatalmas jelentőséggel bír a helyi halászat és a partvédelem szempontjából.",
+      ro: "Reciful Ewa se întinde de-a lungul coastei de nord a insulei Nauru și oferă o lume subacvatică diversă. Marginea recifului coboară abrupt în adâncurile Pacificului, ceea ce aduce apă bogată în nutrienți la suprafață. Acest lucru favorizează creșterea coralilor duri și atrage numeroși pești pelagici. Reciful este de o importanță imensă pentru pescuitul local și protecția coastei.",
+      en: "The Ewa Reef extends along the northern coast of Nauru, offering a diverse underwater environment. The reef edge here drops steeply into the deep Pacific, which brings nutrient-rich water to the surface. This promotes the growth of hard corals and attracts numerous pelagic fish species. The reef is of immense importance for local fishing and coastal protection.",
+    },
+    factsAdvanced: {
+      de: ["Das Riff umgibt die gesamte Insel als Saumriff.", "In Ewa gibt es einen schmalen Kanal für Boote.", "Über 50 verschiedene Korallenarten wurden hier identifiziert.", "Das Riff bricht bis zu 90% der Wellenenergie.", "Ewa liegt direkt östlich des Distrikts Denigomodu.", "Taucher können hier oft Meeresschildkröten beobachten."],
+      hu: ["A zátony szegélyzátonyként az egész szigetet körbeveszi.", "Ewában egy keskeny csatorna található a hajók számára.", "Itt több mint 50 különböző korallfajt azonosítottak.", "A zátony a hullámenergia akár 90%-át is megtöri.", "Ewa közvetlenül Denigomodu körzetétől keletre fekszik.", "A búvárok itt gyakran láthatnak tengeri teknősöket."],
+      ro: ["Reciful înconjoară întreaga insulă ca un recif de bordură.", "În Ewa există un canal îngust pentru bărci.", "Peste 50 de specii de corali au fost identificate aici.", "Reciful sparge până la 90% din energia valurilor.", "Ewa este situat direct la est de districtul Denigomodu.", "Scafandrii pot observa adesea țestoase marine aici."],
+      en: ["The reef encircles the entire island as a fringing reef.", "A narrow channel for boats is maintained in Ewa.", "Over 50 different coral species have been identified here.", "The reef dissipates up to 90% of incoming wave energy.", "Ewa is located directly east of the Denigomodu district.", "Divers can frequently observe sea turtles in these waters."],
+    },
   },
   {
     id: "nauru-yangor-cliffs-nature-v2",
@@ -152,6 +236,18 @@ export const nauruNatureV2: POI[] = [
       en: ["Composed of weathered coral limestone", "Height of about 10 meters above sea level", "Popular meeting spot for nature watching", "Mark the transition to the Aiwo District"],
     },
     imageHint: "Sunset view from coastal cliffs in Nauru",
+    descriptionAdvanced: {
+      de: "Die Yangor-Klippen im Aiwo-Distrikt bieten dramatische Ausblicke auf den westlichen Pazifik und die Hafenanlagen der Insel. Diese Kalksteinfelsen markieren den Übergang von der schmalen Küstenebene zum erhöhten Zentralplateau. Die Klippen weisen zahlreiche Klüfte und kleine Höhlen auf, die durch Verwitterung entstanden sind. Die Vegetation an den Hängen besteht aus windresistenten Sträuchern.",
+      hu: "Az Aiwo körzetben található Yangor-sziklák drámai kilátást nyújtanak a nyugati Csendes-óceánra és a sziget kikötői létesítményeire. Ezek a mészkősziklák jelzik az átmenetet a keskeny tengerparti síkság és a megemelkedett központi fennsík között. A sziklákon számos repedés és kis barlang található, amelyek a mállás során keletkeztek. A lejtők növényzete szélálló cserjékből áll.",
+      ro: "Stâncile Yangor din districtul Aiwo oferă vederi dramatice asupra Pacificului de vest și a instalațiilor portuare ale insulei. Aceste stânci de calcar marchează tranziția de la câmpia costieră îngustă la platoul central ridicat. Stâncile prezintă numeroase fisuri și peșteri mici formate prin eroziune. Vegetația de pe versanți constă în arbuști rezistenți la vânt.",
+      en: "The Yangor Cliffs in Aiwo District offer dramatic views of the western Pacific Ocean and the island's harbor facilities. These limestone cliffs mark the transition from the narrow coastal plain to the elevated central plateau. The cliffs feature numerous crevices and small caves formed by weathering processes. Vegetation on the slopes consists of wind-resistant shrubs and grasses.",
+    },
+    factsAdvanced: {
+      de: ["Die Klippen steigen bis zu 30 Meter über das Meer auf.", "In der Nähe befinden sich alte Phosphat-Verladeanlagen.", "Yangor ist ein traditioneller Gebietsname in Aiwo.", "Die Felsen dienen als Nistplatz für Seeschwalben.", "Von hier aus kann man die Sonnenuntergänge beobachten.", "Die Erosion formt die Klippen kontinuierlich um."],
+      hu: ["A sziklák akár 30 méterrel a tengerszint fölé emelkednek.", "A közelben régi foszfátrakodó berendezések találhatók.", "A Yangor egy hagyományos területnév Aiwóban.", "A sziklák csérek fészkelőhelyeként szolgálnak.", "Innen jól megfigyelhetők a naplementék.", "Az erózió folyamatosan alakítja a sziklákat."],
+      ro: ["Stâncile se ridică până la 30 de metri deasupra mării.", "În apropiere se află vechi instalații de încărcare a fosfaților.", "Yangor este un nume tradițional de zonă în Aiwo.", "Stâncile servesc ca loc de cuibărit pentru rândunele de mare.", "De aici se pot observa apusurile de soare.", "Eroziunea modelează continuu aspectul stâncilor."],
+      en: ["The cliffs rise up to 30 meters above sea level.", "Old phosphate loading facilities are located nearby.", "Yangor is a traditional place name within the Aiwo district.", "The rocks serve as nesting sites for various tern species.", "The location provides an excellent vantage point for sunsets.", "Erosion processes continuously reshape the cliff faces."],
+    },
   },
   {
     id: "nauru-boe-coral-belt-nature-v2",
@@ -171,6 +267,18 @@ export const nauruNatureV2: POI[] = [
       en: ["Part of Nauru's protective fringing reef", "Ideal for snorkeling due to shallow depth", "Inhabited by sea urchins and various crabs", "Affected by the impacts of climate change"],
     },
     imageHint: "Shallow coral reef at Boe Nauru",
+    descriptionAdvanced: {
+      de: "Der Boe-Korallengürtel erstreckt sich entlang der Südwestküste von Nauru vor dem gleichnamigen Distrikt. Dieses Saumriff schützt das Ufer vor starker Brandung und bietet einen Lebensraum für zahlreiche tropische Fischarten. Es ist ein wesentlicher Bestandteil des lokalen Ökosystems und der traditionellen Fischerei.",
+      hu: "A Boe-korallöv Nauru délnyugati partja mentén húzódik, védelmet nyújtva a partvonalnak az óceáni erózióval szemben. A zátony gazdag tengeri élővilágnak ad otthont, és meghatározó szerepet játszik a helyi közösségek önellátó halászatában. A terület ökológiai egyensúlya kritikus a sziget stabilitása szempontjából.",
+      ro: "Centura de corali Boe se întinde de-a lungul coastei de sud-vest a statului Nauru, în dreptul districtului omonim. Acest recif marginal protejează țărmul de eroziunea marină și susține o biodiversitate bogată de specii tropicale. Este o zonă vitală pentru ecosistemul insular și pentru activitățile tradiționale de pescuit.",
+      en: "The Boe Coral Belt stretches along the southwestern coast of Nauru, buffering the shoreline of the Boe district. This fringing reef system protects the coast from erosion and provides a critical habitat for various tropical marine species. It remains a fundamental part of the island's natural defenses and local fishing heritage.",
+    },
+    factsAdvanced: {
+      de: ["Breite des Riffdachs beträgt ca. 100-300 Meter", "Schützt den Boe-Distrikt vor Küstenerosion", "Heimat von über 50 Korallenarten", "Wichtiges Fanggebiet für lokale Fischer", "Anfällig für den Anstieg des Meeresspiegels", "Besteht primär aus Kalkstein-Korallenstrukturen"],
+      hu: ["A zátonypad szélessége 100 és 300 méter között mozog", "Védi Boe körzetét a part menti eróziótól", "Több mint 50 korallfaj otthona", "A helyi halászok fontos gyűjtőhelye", "Érzékeny a tengerszint emelkedésére", "Elsősorban mészkővázas korallok építik fel"],
+      ro: ["Lățimea platformei recifale este de 100-300 metri", "Protejează districtul Boe de eroziunea costieră", "Găzduiește peste 50 de specii de corali", "Zonă importantă pentru pescuitul local", "Vulnerabilă la creșterea nivelului mării", "Compusă în principal din structuri calcaroase"],
+      en: ["Reef flat width ranges from 100 to 300 meters", "Protects Boe district from coastal erosion", "Home to over 50 species of coral", "Important traditional fishing ground", "Highly sensitive to rising sea levels", "Composed primarily of limestone coral structures"],
+    },
   },
   {
     id: "nauru-nibok-palms-nature-v2",
@@ -190,6 +298,18 @@ export const nauruNatureV2: POI[] = [
       en: ["Consist primarily of coconut palm trees", "Historically important for copra production", "Provide essential shade for residential areas", "Inhabited by various tropical songbirds"],
     },
     imageHint: "Dense coconut palm groves in Nibok Nauru",
+    descriptionAdvanced: {
+      de: "Die Palmenhaine von Nibok repräsentieren die ursprüngliche Vegetation des schmalen Küstensaums von Nauru. Kokospalmen und Pandanusbäume prägen das Landschaftsbild dieses nördlichen Distrikts und dienen seit Jahrhunderten als Rohstoffquelle. Trotz der industriellen Geschichte der Insel blieb dieser grüne Gürtel teilweise erhalten.",
+      hu: "Nibok pálmaligetei Nauru keskeny parti sávjának eredeti növényzetét reprezentálják. A kókuszpálmák és pandanuszfák meghatározzák az északi körzet látképét, és évszázadok óta fontos nyersanyagforrásként szolgálnak. A sziget ipari múltja ellenére ez a zöld sáv részben érintetlen maradt a part mentén.",
+      ro: "Livezile de palmieri din Nibok reprezintă vegetația originală a fâșiei costiere înguste din Nauru. Palmierii de cocos și arborii Pandanus domină peisajul acestui district nordic și servesc de secole ca sursă de materii prime. În ciuda istoriei industriale a insulei, această centură verde a rămas parțial conservată.",
+      en: "The Nibok palm groves represent the original vegetation found along Nauru's narrow coastal strip. Coconut palms and pandanus trees dominate the landscape of this northern district, serving as vital resources for centuries. Despite the island's extensive mining history, this green belt has remained relatively intact along the shore.",
+    },
+    factsAdvanced: {
+      de: ["Kokospalmen erreichen Höhen von bis zu 30 Metern", "Pandanusblätter werden für das Weben genutzt", "Wichtigster Lieferant für Kopra in der Vergangenheit", "Boden besteht aus sandigem Korallenkalk", "Bietet Schutz vor den Passatwinden", "Nutzung der Kokosnuss als Trinkwasserreserve"],
+      hu: ["A kókuszpálmák akár 30 méter magasra is megnőnek", "A pandanuszleveleket szövéshez használják", "A múltban a kopra legfőbb forrása volt", "A talaj homokos korallmészkőből áll", "Védelmet nyújt a passzátszelek ellen", "A kókuszdiót ivóvíztartalékként hasznosítják"],
+      ro: ["Palmierii de cocos ating înălțimi de până la 30 metri", "Frunzele de Pandanus sunt folosite pentru țesut", "Sursă principală de copra în trecut", "Solul este format din calcar coraligen nisipos", "Oferă protecție împotriva vânturilor alizee", "Utilizarea nucilor de cocos ca rezervă de apă potabilă"],
+      en: ["Coconut palms reach heights of up to 30 meters", "Pandanus leaves are used for traditional weaving", "Historically a major source of copra", "Soil consists of sandy coral limestone", "Provides shelter from prevailing trade winds", "Coconuts used as a strategic freshwater reserve"],
+    },
   },
   {
     id: "nauru-denigomodu-coast-nature-v2",
@@ -209,6 +329,18 @@ export const nauruNatureV2: POI[] = [
       en: ["Located in the most densely populated district", "Offers wide views across the Pacific Ocean", "Site where fossilized coral pieces can be found", "Nearby launching site for local fishing boats"],
     },
     imageHint: "Coastal view of Denigomodu district Nauru",
+    descriptionAdvanced: {
+      de: "Die Küste von Denigomodu ist ein zentraler Bereich im Westen Naurus, der von industrieller Infrastruktur und Wohngebieten geprägt ist. Hier befinden sich historische Verladestationen für Phosphat, die direkt über das Riff ragen. Die felsige Küstenlinie zeigt deutliche Spuren der Meereserosion und der menschlichen Gestaltung.",
+      hu: "Denigomodu partvidéke Nauru nyugati részének központi területe, amelyet ipari infrastruktúra és lakóövezetek jellemeznek. Itt találhatók a történelmi foszfátrakodó állomások, amelyek közvetlenül a zátony fölé nyúlnak. A sziklás partvonalon jól láthatók a tengeri erózió és az emberi beavatkozás nyomai.",
+      ro: "Coasta Denigomodu este o zonă centrală din vestul insulei Nauru, caracterizată prin infrastructură industrială și zone rezidențiale. Aici se află stații istorice de încărcare a fosfaților care se extind direct peste recif. Linia de coastă stâncoasă prezintă urme evidente ale eroziunii marine și ale intervenției umane.",
+      en: "The Denigomodu Coast is a central hub in western Nauru, defined by a mix of industrial infrastructure and residential areas. It features historical phosphate cantilever loaders that extend directly over the reef flat. The rocky shoreline clearly displays the effects of both marine erosion and significant human modification.",
+    },
+    factsAdvanced: {
+      de: ["Standort der großen Phosphat-Verladekräne", "Höchste Bevölkerungsdichte im angrenzenden Wohnviertel", "Küstenstraße verbindet den Hafen mit dem Norden", "Korallenriff ist hier besonders schmal", "Gezeitenunterschiede betragen etwa 1-2 Meter", "Wichtiger Anlegepunkt für Frachtschiffe"],
+      hu: ["A hatalmas foszfátrakodó daruk helyszíne", "A szomszédos lakónegyedben a legnagyobb a népsűrűség", "A parti út összeköti a kikötőt az északi résszel", "A korallzátony itt különösen keskeny", "Az árapály szintkülönbsége kb. 1-2 méter", "A teherhajók fontos kikötési pontja"],
+      ro: ["Locația marilor macarale de încărcare a fosfaților", "Cea mai mare densitate a populației în zona rezidențială", "Drumul costier leagă portul de zona de nord", "Reciful de corali este deosebit de îngust aici", "Diferența de maree este de aproximativ 1-2 metri", "Punct important de ancorare pentru navele de marfă"],
+      en: ["Site of the massive phosphate cantilever loaders", "Highest population density in the adjacent housing", "Coastal road links the port to northern districts", "The coral reef flat is notably narrow here", "Tidal range averages between 1 and 2 meters", "Major mooring point for international cargo ships"],
+    },
   },
   {
     id: "nauru-aiwo-pinnacles-nature-v2",
@@ -228,6 +360,18 @@ export const nauruNatureV2: POI[] = [
       en: ["Legacy of the intensive phosphate mining era", "Can reach heights of up to 10 meters", "Composed of very hard coral limestone", "Part of the island's anthropogenically altered geology"],
     },
     imageHint: "Industrial area with coral pinnacles in Aiwo Nauru",
+    descriptionAdvanced: {
+      de: "Die Aiwo-Pinnacles sind markante Kalksteinformationen, die nach dem Abbau der darüber liegenden Phosphatschichten freigelegt wurden. Diese bis zu 15 Meter hohen Säulen prägen das heutige Hinterland des Aiwo-Distrikts. Sie bilden ein bizarres Labyrinth aus verkarstetem Gestein, das die geologische Basis der Insel sichtbar macht.",
+      hu: "Az Aiwo-pinnacle-ök (mészkőoszlopok) jellegzetes képződmények, amelyek a felettük lévő foszfátrétegek kitermelése után váltak láthatóvá. Ezek a helyenként 15 méter magas oszlopok határozzák meg Aiwo körzetének mai hátországát. A karsztos kőzetek bizarr labirintusa feltárja a sziget geológiai alapjait.",
+      ro: "Pinnacles din Aiwo sunt formațiuni calcaroase proeminente care au fost expuse după extragerea straturilor de fosfat de deasupra. Aceste coloane, înalte de până la 15 metri, domină hinterlandul actual al districtului Aiwo. Ele formează un labirint bizar de rocă carstificată, făcând vizibilă baza geologică a insulei.",
+      en: "The Aiwo Pinnacles are striking limestone pillars exposed after the overlying phosphate deposits were mined away. Reaching heights of up to 15 meters, these formations define the modern landscape of the Aiwo district's interior. They create a bizarre labyrinth of karst rock that reveals the geological foundation of the island.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Kalksteinsäulen bis zu 15 Meter", "Entstanden durch Jahrtausende der Verkarstung", "Freigelegt während des Phosphatbooms ab 1906", "Bestehen fast vollständig aus Calciumcarbonat", "Bieten Nistplätze für Seevögel", "Schwer zugängliches Gelände durch scharfe Kanten"],
+      hu: ["A mészkőoszlopok magassága eléri a 15 métert", "Évezredes karsztosodási folyamat során jöttek létre", "Az 1906-tól induló foszfátbányászat tárta fel őket", "Szinte teljes egészében kalcium-karbonátból állnak", "Fészkelőhelyet biztosítanak a tengeri madaraknak", "Az éles peremek miatt nehezen járható terep"],
+      ro: ["Înălțimea coloanelor de calcar de până la 15 metri", "Formate prin milenii de procese carstice", "Expuse în timpul boom-ului fosfaților din 1906", "Compuse aproape în întregime din carbonat de calciu", "Oferă locuri de cuibărit pentru păsările marine", "Teren greu accesibil din cauza marginilor ascuțite"],
+      en: ["Limestone pillars reach heights up to 15 meters", "Formed by millennia of karstic weathering", "Exposed during the phosphate mining boom since 1906", "Composed almost entirely of calcium carbonate", "Provide nesting sites for various seabirds", "The terrain is rugged and difficult to navigate"],
+    },
   },
   {
     id: "nauru-buada-pandanus-groves-nature-v2",
@@ -247,6 +391,18 @@ export const nauruNatureV2: POI[] = [
       en: ["Pandanus is one of Nauru's most important plants", "Leaves are used for traditional weaving", "Fruits were historically a staple food source", "Provide shelter for rare land snail species"],
     },
     imageHint: "Native Pandanus trees in Buada Nauru",
+    descriptionAdvanced: {
+      de: "Die Pandanus-Haine im Buada-Becken umgeben die einzige Lagune der Insel und stellen eine grüne Oase im Landesinneren dar. Die Pandanusbäume sind für die nauruische Kultur von enormer Bedeutung, da ihre Blätter für das Weben von Matten und Dächern genutzt werden. Die fruchtbaren Böden der Senke begünstigen dieses dichte Pflanzenwachstum.",
+      hu: "A Buada-medence pandanuszligetei a sziget egyetlen lagúnáját veszik körül, zöld oázist alkotva a szárazföld belsejében. A pandanuszfák hatalmas jelentőséggel bírnak a naurui kultúrában, leveleiket gyékények és tetők szövéséhez használják. A mélyedés termékeny talaja kedvez ennek a sűrű növényzetnek.",
+      ro: "Livezile de Pandanus din bazinul Buada înconjoară singura lagună a insulei și reprezintă o oază de verdeață în interiorul țării. Arborii Pandanus au o importanță enormă pentru cultura nauruană, frunzele lor fiind folosite pentru țeserea covorașelor și a acoperișurilor. Solurile fertile ale depresiunii favorizează această creștere densă.",
+      en: "The Pandanus groves in the Buada Basin surround the island's only lagoon, forming a lush inland oasis. Pandanus trees hold immense cultural significance in Nauru, with their leaves traditionally used for weaving mats and thatch. The basin's fertile soil supports this dense vegetation, making it a unique ecological zone.",
+    },
+    factsAdvanced: {
+      de: ["Lage im einzigen Binnendistrikt Naurus", "Früchte des Pandanus sind essbar und vitaminreich", "Traditionelle Webtechniken nutzen die Blattfasern", "Boden ist humusreicher als an der Küste", "Umgeben die brackwasserhaltige Buada-Lagune", "Überlebten die großflächige Phosphatgewinnung"],
+      hu: ["Nauru egyetlen szárazföldi körzetében található", "A pandanusz gyümölcse ehető és vitaminban gazdag", "A hagyományos szövés a levélrostokat hasznosítja", "A talaj humuszban gazdagabb, mint a parton", "A brakkvizes Buada-lagúnát veszi körül", "Túlélte a kiterjedt foszfátbányászatot"],
+      ro: ["Situat în singurul district interior al Nauru", "Fructele de Pandanus sunt comestibile și bogate în vitamine", "Tehnicile tradiționale de țesut folosesc fibrele frunzelor", "Solul este mai bogat în humus decât cel de pe coastă", "Înconjoară laguna Buada cu apă salmastră", "A supraviețuit extracției pe scară largă a fosfaților"],
+      en: ["Located in Nauru's only landlocked district", "Pandanus fruits are edible and rich in vitamins", "Traditional weaving utilizes the leaf fibers", "Soil is richer in humus than coastal areas", "Surrounds the brackish Buada Lagoon", "One of the few areas spared from open-cast mining"],
+    },
   },
   {
     id: "nauru-anibare-forest-nature-v2",
@@ -266,6 +422,18 @@ export const nauruNatureV2: POI[] = [
       en: ["Located on the slopes leading to the plateau", "Dominant tree species is Calophyllum inophyllum", "One of the few areas with a closed canopy", "Critical habitat for the Nauru Reed Warbler"],
     },
     imageHint: "Tropical forest slope in Anibare Nauru",
+    descriptionAdvanced: {
+      de: "Der Anibare-Wald erstreckt sich über die Hänge der östlichen Bucht und beherbergt einige der letzten ursprünglichen Baumarten Naurus. Diese bewaldete Zone dient als wichtiges Rückzugsgebiet für die einheimische Tierwelt, insbesondere für den seltenen Nauru-Rohrsänger. Die steilen Hänge verhinderten hier einen intensiven Phosphatabbau.",
+      hu: "Az Anibare-erdő a keleti öböl lejtőin terül el, és Nauru utolsó eredeti fafajainak ad otthont. Ez az erdős zóna fontos menedékhely a helyi vadvilág számára, különösen a ritka naurui nádiposzáta számára. A meredek lejtők megakadályozták itt az intenzív foszfátbányászatot.",
+      ro: "Pădurea Anibare se întinde pe versanții golfului estic și adăpostește unele dintre ultimele specii de arbori originari din Nauru. Această zonă împădurită servește ca refugiu important pentru fauna locală, în special pentru rara pasăre Nauru reed warbler. Versanții abrupți au împiedicat aici mineritul intensiv.",
+      en: "Anibare Forest covers the slopes of the eastern bay and hosts some of Nauru's last remaining indigenous tree species. This forested zone serves as a critical refuge for local wildlife, including the rare Nauru reed warbler. The steep terrain of the escarpment largely protected this area from intensive phosphate mining.",
+    },
+    factsAdvanced: {
+      de: ["Wichtigstes Habitat für den Nauru-Rohrsänger", "Enthält Bestände der einheimischen Calophyllum-Bäume", "Günstige mikroklimatische Bedingungen durch Seewinde", "Untergrund besteht aus verwittertem Korallenkalk", "Wichtiges Gebiet für den Naturschutz auf der Insel", "Dichtester Waldbestand außerhalb des Buada-Beckens"],
+      hu: ["A naurui nádiposzáta legfontosabb élőhelye", "Őshonos Calophyllum fák állományait tartalmazza", "Kedvező mikroklíma a tengeri szelek miatt", "Az alapkőzet mállott korallmészkőből áll", "A sziget természetvédelmi szempontból fontos területe", "A legsűrűbb erdő a Buada-medencén kívül"],
+      ro: ["Cel mai important habitat pentru Nauru reed warbler", "Conține exemplare de arbori indigeni Calophyllum", "Condiții microclimatice favorabile datorită brizelor", "Substratul este format din calcar coraligen alterat", "Zonă importantă pentru conservarea naturii pe insulă", "Cea mai densă pădure din afara bazinului Buada"],
+      en: ["Critical habitat for the endemic Nauru reed warbler", "Contains stands of indigenous Calophyllum trees", "Ocean breezes create favorable microclimatic conditions", "Substrate consists of weathered coral limestone", "Major focus area for island conservation efforts", "Densest forest cover outside of the Buada Basin"],
+    },
   },
   {
     id: "nauru-north-cape-nature-v2",
@@ -285,6 +453,18 @@ export const nauruNatureV2: POI[] = [
       en: ["Marks the boundary between Ewa and Anabar", "Offers good opportunities for bird watching", "The reef is particularly narrow at this point", "Rough sea conditions are common at this location"],
     },
     imageHint: "Northern tip of Nauru island coastline",
+    descriptionAdvanced: {
+      de: "Das Nordkap von Nauru liegt im Distrikt Ewa und markiert den nördlichsten Punkt der Insel. Die Küste ist hier durch flache Korallenplattformen und exponierte Felsformationen gekennzeichnet, die bei Ebbe weite Bereiche freigeben. Aufgrund der Äquatornähe und der freien Lage ist die Sonneneinstrahlung hier besonders intensiv.",
+      hu: "Nauru északi foka Ewa körzetében található, és a sziget legészakibb pontját jelzi. A partot itt lapos korallplatformok és kitett sziklaképződmények jellemzik, amelyek apálykor nagy területeket tárnak fel. Az egyenlítői közelség és a nyitott fekvés miatt a napsugárzás itt különösen erős.",
+      ro: "Capul de Nord al insulei Nauru se află în districtul Ewa și marchează cel mai nordic punct al țării. Coasta este caracterizată aici prin platforme coraliere plate și formațiuni stâncoase expuse, care dezvăluie suprafețe mari la reflux. Datorită proximității de ecuator, radiația solară este deosebit de intensă.",
+      en: "North Cape Nauru, located in the Ewa district, marks the northernmost point of the island. The coastline here is characterized by flat coral platforms and exposed rock formations that reveal vast areas during low tide. Its proximity to the equator and open positioning result in particularly intense solar radiation year-round.",
+    },
+    factsAdvanced: {
+      de: ["Geografische Breite von etwa 0° 30' Süd", "Grenzpunkt zwischen den Distrikten Ewa und Anetan", "Korallenriff reicht weit in den Ozean hinaus", "Traditioneller Ort für die Vogeljagd (Fregattvögel)", "Starke Brandung bei Nordwestwinden", "Felsige Uferzone ohne Sandstrände"],
+      hu: ["Földrajzi szélessége kb. 0° 30' dél", "Ewa és Anetan körzetek határpontja", "A korallzátony messze benyúlik az óceánba", "A fregattmadár-vadászat hagyományos helyszíne", "Erős hullámzás északnyugati szél esetén", "Sziklás partvidék homokos strandok nélkül"],
+      ro: ["Latitudine geografică de aproximativ 0° 30' Sud", "Punct de graniță între districtele Ewa și Anetan", "Reciful de corali se extinde mult în ocean", "Loc tradițional pentru vânătoarea de păsări fregate", "Valuri puternice în timpul vânturilor de nord-vest", "Zonă de țărm stâncoasă, fără plaje cu nisip"],
+      en: ["Geographic latitude of approximately 0° 30' South", "Border point between Ewa and Anetan districts", "The coral reef flat extends far into the ocean", "Traditional site for frigatebird catching", "Heavy surf occurs during northwesterly winds", "Rocky shoreline with a lack of sandy beaches"],
+    },
   },
   {
     id: "nauru-south-point-nature-v2",
@@ -304,5 +484,17 @@ export const nauruNatureV2: POI[] = [
       en: ["Southernmost geographical point of Nauru", "Composed of massive coral rock formations", "Provides views of passing migratory birds", "Significant landmark for local seafarers"],
     },
     imageHint: "Southern coastline of Nauru at Meneng",
+    descriptionAdvanced: {
+      de: "Der South Point im Meneng-Distrikt bildet die südliche Spitze Naurus und ist ein strategisch wichtiger Küstenabschnitt. In unmittelbarer Nähe befinden sich bedeutende staatliche Einrichtungen und die größten Hotelanlagen der Insel. Die Küste ist hier besonders anfällig für südliche Meeresströmungen und Gezeitenkräfte.",
+      hu: "A Meneng körzetben található South Point Nauru déli csücske, amely stratégiailag fontos partszakasz. Közvetlen közelében jelentős állami intézmények és a sziget legnagyobb szállodái találhatók. A part itt különösen kitett a déli tengeráramlatoknak és az árapály erőknek.",
+      ro: "South Point din districtul Meneng formează vârful sudic al Nauru și este o secțiune de coastă strategică. În imediata apropiere se află instituții de stat importante și cele mai mari unități hoteliere de pe insulă. Coasta este deosebit de vulnerabilă aici la curenții oceanici sudici și forțele mareelor.",
+      en: "South Point in the Meneng district forms the southern extremity of Nauru and is a strategically important coastal stretch. It is located near significant government facilities and the island's primary hotel infrastructure. The shoreline here is particularly exposed to southern ocean currents and tidal surges.",
+    },
+    factsAdvanced: {
+      de: ["Südlichster Punkt des Meneng-Distrikts", "Nähe zum Regierungsgebäude und dem Meneng Hotel", "Küste wird durch Betonmauern vor Erosion geschützt", "Starker Abfall des Meeresbodens direkt hinter dem Riff", "Häufiger Standort für staatliche Zeremonien", "Bietet Blick auf die südlichen Schifffahrtsrouten"],
+      hu: ["Meneng körzet legdélebbi pontja", "A kormányzati épület és a Meneng Hotel közelsége", "A partot betonfalak védik az eróziótól", "A tengerfenék hirtelen mélyül a zátony után", "Gyakori helyszíne állami ünnepségeknek", "Kilátást nyújt a déli hajózási útvonalakra"],
+      ro: ["Cel mai sudic punct al districtului Meneng", "Proximitatea de clădirea guvernului și Hotelul Meneng", "Coasta este protejată de eroziune prin ziduri de beton", "Scădere bruscă a fundului mării direct după recif", "Locație frecventă pentru ceremonii de stat", "Oferă vedere spre rutele maritime sudice"],
+      en: ["Southernmost point of the Meneng district", "Proximity to the State House and Meneng Hotel", "Coastline is protected by concrete sea walls", "The seabed drops off sharply just beyond the reef", "Frequent location for official state ceremonies", "Provides views of the southern international shipping lanes"],
+    },
   }
 ];

@@ -19,6 +19,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Founded in 1842", "Houses a Dodo skeleton", "Part of the Mauritius Institute", "Entry is often free for visitors"],
     },
     imageHint: "Natural History Museum building Port Louis",
+    descriptionAdvanced: {
+      de: "Das Naturkundemuseum in Port Louis ist das älteste Museum des Landes und befindet sich im historischen Mauritius Institute Gebäude. Es beherbergt eine umfangreiche Sammlung der Flora und Fauna des Indischen Ozeans. Besonders berühmt ist das Museum für seine Skelette des ausgestorbenen Dodos sowie Darstellungen anderer verschwundener Tierarten der Insel.",
+      hu: "A Port Louis-i Természettudományi Múzeum az ország legrégebbi múzeuma, amely a történelmi Mauritius Intézet épületében található. Az Indiai-óceán növény- és állatvilágának átfogó gyűjteményét őrzi. A múzeum különösen híres a kihalt dodó csontvázairól, valamint a sziget többi eltűnt fajának bemutatásáról.",
+      ro: "Muzeul de Istorie Naturală din Port Louis este cel mai vechi muzeu din țară, situat în clădirea istorică a Institutului Mauritius. Găzduiește o colecție vastă de floră și faună din Oceanul Indian. Muzeul este renumit în mod special pentru scheletele sale de dodo, pasărea dispărută, și pentru prezentările altor specii dispărute de pe insulă.",
+      en: "The Natural History Museum in Port Louis is the oldest museum in the country, located within the historic Mauritius Institute building. It houses a vast collection of flora and fauna from the Indian Ocean. The museum is particularly famous for its dodo skeletons and exhibits detailing other extinct species from the island.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1842", "Lage: Chaussée Street", "Ältestes Museum von Mauritius", "Besonderheit: Dodo-Skelett", "Eintritt: In der Regel kostenlos", "Themen: Meeresbiologie & Ökologie"],
+      hu: ["1842-ben alapították", "Helyszín: Chaussée utca", "Mauritius legrégebbi múzeuma", "Fő látnivaló: Dodó csontváz", "Belépés: Általában ingyenes", "Témák: Tengerbiológia és ökológia"],
+      ro: ["Fondat în anul 1842", "Locație: Strada Chaussée", "Cel mai vechi muzeu din Mauritius", "Atracție: Schelet de dodo", "Intrare: De regulă gratuită", "Teme: Biologie marină și ecologie"],
+      en: ["Founded in 1842", "Location: Chaussée Street", "Oldest museum in Mauritius", "Highlight: Dodo skeleton", "Entrance: Usually free", "Themes: Marine biology & ecology"],
+    },
   },
   {
     id: "mauritius-port-louis-theatre-landmarks-v2",
@@ -38,6 +50,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Opened in 1822", "Capacity of 600 spectators", "Painted ceiling inside", "Currently under major restoration"],
     },
     imageHint: "Port Louis Theatre historic building facade",
+    descriptionAdvanced: {
+      de: "Das Theater von Port Louis wurde 1822 unter britischer Herrschaft eröffnet und gilt als das älteste Theater der südlichen Hemisphäre. Das Gebäude besticht durch seine neoklassizistische Architektur und eine prachtvoll gestaltete Decke. Es war über Generationen hinweg der gesellschaftliche Mittelpunkt der Hauptstadt für Opern, Dramen und Bälle.",
+      hu: "A Port Louis-i Színházat 1822-ben nyitották meg a brit fennhatóság alatt, és a déli félteke legrégebbi színházaként tartják számon. Az épület neoklasszicista építészetével és gazdagon díszített mennyezetével nyűgözi le a látogatókat. Generációkon át ez volt a főváros társadalmi központja, ahol operákat, drámákat és bálokat rendeztek.",
+      ro: "Teatrul din Port Louis a fost inaugurat în 1822 sub dominație britanică și este considerat cel mai vechi teatru din emisfera sudică. Clădirea impresionează prin arhitectura sa neoclasică și tavanul pictat fastuos. Timp de generații, a fost centrul social al capitalei pentru operă, spectacole de teatru și baluri.",
+      en: "The Port Louis Theatre was opened in 1822 under British rule and is considered the oldest theatre in the Southern Hemisphere. The building is notable for its neoclassical architecture and a magnificently decorated ceiling. For generations, it served as the social hub of the capital for operas, dramas, and grand balls.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1822", "Stil: Neoklassizismus", "Erster Stein: Gouverneur Farquhar", "Kapazität: ca. 600 Plätze", "Ältestes Theater südlich des Äquators", "Deckenmalereien von Vandermeesch"],
+      hu: ["Építés éve: 1822", "Stílus: Neoklasszicista", "Alapkő: Farquhar kormányzó", "Kapacitás: kb. 600 férőhely", "A déli félteke legrégebbi színháza", "Mennyezeti festmények: Vandermeesch"],
+      ro: ["Anul construcției: 1822", "Stil: Neoclasic", "Prima piatră: Guvernatorul Farquhar", "Capacitate: aprox. 600 locuri", "Cel mai vechi teatru din sudul ecuatorului", "Picturi pe tavan de Vandermeesch"],
+      en: ["Built in 1822", "Style: Neoclassical", "First stone: Governor Farquhar", "Capacity: Approx. 600 seats", "Oldest theatre in the Southern Hemisphere", "Ceiling paintings by Vandermeesch"],
+    },
   },
   {
     id: "mauritius-champ-de-mars-landmarks-v2",
@@ -57,6 +81,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Founded in 1812", "Home of the Mauritius Turf Club", "Former French military parade ground", "Center of social events"],
     },
     imageHint: "Champ de Mars racecourse during a race in Port Louis",
+    descriptionAdvanced: {
+      de: "Der Champ de Mars in Port Louis ist die älteste Pferderennbahn der südlichen Hemisphäre und die zweitälteste weltweit. Gegründet im Jahr 1812, diente das Gelände ursprünglich als militärischer Übungsplatz. Historisch bedeutsam ist der Ort auch, da hier 1968 die Unabhängigkeit von Mauritius proklamiert und zum ersten Mal die Nationalflagge gehisst wurde.",
+      hu: "A Port Louis-i Champ de Mars a déli félteke legrégebbi, a világ második legrégebbi lóversenypályája. Az 1812-ben alapított terület eredetileg katonai gyakorlótérként szolgált. A helyszín történelmi jelentőségét növeli, hogy 1968-ban itt kiáltották ki Mauritius függetlenségét, és itt vonták fel először a nemzeti lobogót.",
+      ro: "Champ de Mars din Port Louis este cea mai veche pistă de curse de cai din emisfera sudică și a doua cea mai veche din lume. Fondată în 1812, zona a servit inițial ca teren de antrenament militar. Locul are o importanță istorică majoră, fiind punctul în care s-a proclamat independența Mauritius în 1968 și s-a arborat pentru prima dată steagul național.",
+      en: "Champ de Mars in Port Louis is the oldest horse racing track in the Southern Hemisphere and the second oldest in the world. Founded in 1812, the grounds originally served as a military training field. The site holds immense historical significance, as it was here that Mauritius' independence was proclaimed in 1968 and the national flag was hoisted for the first time.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1812", "Gründer: Sir Robert Farquhar", "Unabhängigkeitsfeier: 12. März 1968", "Status: Zweitälteste Rennbahn weltweit", "Lage: Port Louis", "Saison: März bis Dezember"],
+      hu: ["Alapítás éve: 1812", "Alapító: Sir Robert Farquhar", "Függetlenség napja: 1968. március 12.", "Rang: A világ 2. legrégebbi pályája", "Helyszín: Port Louis", "Szezon: Márciustól decemberig"],
+      ro: ["Anul fondării: 1812", "Fondator: Sir Robert Farquhar", "Proclamarea independenței: 12 martie 1968", "Rang: A doua cea mai veche pistă din lume", "Locație: Port Louis", "Sezon: Din martie până în decembrie"],
+      en: ["Founded in 1812", "Founder: Sir Robert Farquhar", "Independence Day: March 12, 1968", "Rank: Second oldest racecourse in the world", "Location: Port Louis", "Season: March to December"],
+    },
   },
   {
     id: "mauritius-supreme-court-landmarks-v2",
@@ -76,6 +112,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Located near Government House", "Strict Victorian style", "Center of the judicial quarter", "Seat of the Chief Justice"],
     },
     imageHint: "Supreme Court of Mauritius historic building",
+    descriptionAdvanced: {
+      de: "Das Gebäude des Obersten Gerichtshofs in Port Louis ist ein Symbol für die Justiz und die koloniale Rechtsgeschichte von Mauritius. Die Architektur spiegelt den klassischen Kolonialstil wider und fügt sich in das administrative Viertel der Hauptstadt ein. Es ist der Sitz der höchsten richterlichen Gewalt der Insel und repräsentiert die Kontinuität des Rechtssystems seit der Kolonialzeit.",
+      hu: "A Port Louis-i Legfelsőbb Bíróság épülete a mauritiusi igazságszolgáltatás és a gyarmati jogtörténet szimbóluma. Az építészet a klasszikus gyarmati stílust tükrözi, és szervesen illeszkedik a főváros közigazgatási negyedébe. Ez a sziget legmagasabb szintű bírói hatalmának székhelye, amely a gyarmati idők óta fennálló jogrendszer folytonosságát képviseli.",
+      ro: "Clădirea Curții Supreme din Port Louis este un simbol al justiției și al istoriei juridice coloniale din Mauritius. Arhitectura reflectă stilul colonial clasic și se integrează în districtul administrativ al capitalei. Este sediul celei mai înalte autorități judiciare de pe insulă, reprezentând continuitatea sistemului juridic încă din perioada colonială.",
+      en: "The Supreme Court building in Port Louis is a symbol of justice and the colonial legal history of Mauritius. Its architecture reflects the classical colonial style, fitting seamlessly into the capital's administrative district. It serves as the seat of the island's highest judicial power, representing the continuity of the legal system since the colonial era.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Pope Hennessy Street", "Zentrale Justizbehörde", "Stil: Kolonialarchitektur", "Nähe zum Regierungsgebäude", "Unterteilung in Divisionen", "Teil des historischen Port Louis"],
+      hu: ["Helyszín: Pope Hennessy utca", "Központi igazságügyi szerv", "Stílus: Gyarmati építészet", "A Kormányzati Ház közelében", "Több divízióra oszlik", "Port Louis történelmi részén áll"],
+      ro: ["Locație: Strada Pope Hennessy", "Autoritate judiciară centrală", "Stil: Arhitectură colonială", "Lângă Casa Guvernului", "Împărțită în divizii", "Parte a centrului istoric Port Louis"],
+      en: ["Location: Pope Hennessy Street", "Central judicial authority", "Style: Colonial architecture", "Near the Government House", "Divided into various divisions", "Part of historic Port Louis"],
+    },
   },
   {
     id: "mauritius-central-post-office-landmarks-v2",
@@ -95,6 +143,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Built in 1870", "Victorian architecture", "National heritage site", "Located near the harbor quay"],
     },
     imageHint: "Central Post Office stone building Port Louis",
+    descriptionAdvanced: {
+      de: "Das Hauptpostamt von Port Louis ist eines der bekanntesten Wahrzeichen der Stadt. Das zwischen 1864 und 1868 errichtete Steingebäude besticht durch seine markanten Rundbögen und die robuste viktorianische Bauweise. Es steht an prominenter Stelle in der Nähe des Hafens und dient heute sowohl als aktives Postamt als auch als Sitz des nationalen Postmuseums.",
+      hu: "A Port Louis-i központi postahivatal a város egyik legismertebb jelképe. Az 1864 és 1868 között emelt kőépület jellegzetes köríveivel és robusztus viktoriánus szerkezetével hívja fel magára a figyelmet. A kikötő közelében, kiemelt helyen áll, és ma egyszerre működik postaként és a nemzeti postamúzeum székhelyeként.",
+      ro: "Poșta Centrală din Port Louis este unul dintre cele mai cunoscute repere ale orașului. Clădirea din piatră, ridicată între anii 1864 și 1868, impresionează prin arcadele sale distinctive și construcția victoriană robustă. Situată strategic lângă port, servește astăzi atât ca oficiu poștal activ, cât și ca sediu al muzeului poștal național.",
+      en: "The Port Louis Central Post Office is one of the city's most recognizable landmarks. Constructed between 1864 and 1868, the stone building features distinctive rounded arches and a robust Victorian design. Located prominently near the harbor, it currently functions as both an active post office and the home of the National Postal Museum.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1864-1868", "Material: Großer Basaltstein", "Baustil: Viktorianisch", "Nationales Denkmal von Mauritius", "Lage: Direkt am Hafen", "Beinhaltet das Postmuseum"],
+      hu: ["Építés ideje: 1864-1868", "Anyaga: Faragott bazaltkő", "Építészeti stílus: Viktoriánus", "Mauritius nemzeti műemléke", "Helyszín: Közvetlenül a kikötőnél", "Postamúzeum is helyet kapott benne"],
+      ro: ["Perioada construcției: 1864-1868", "Material: Blocuri mari de bazalt", "Stil arhitectural: Victorian", "Monument național al Mauritius", "Locație: Chiar lângă port", "Include Muzeul Poștal"],
+      en: ["Built: 1864-1868", "Material: Large basalt stones", "Architectural style: Victorian", "National monument of Mauritius", "Location: Directly by the harbor", "Contains the Postal Museum"],
+    },
   },
   {
     id: "mauritius-st-francois-assise-landmarks-v2",
@@ -114,6 +174,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Built in 1756", "Oldest parish on the island", "Located opposite the botanical garden", "Contains historical statues"],
     },
     imageHint: "St. Francois d'Assise church stone facade Pamplemousses",
+    descriptionAdvanced: {
+      de: "Die im Jahr 1756 errichtete Kirche Saint François d'Assise in Pamplemousses ist das älteste katholische Gotteshaus auf Mauritius. Das Bauwerk ist ein bedeutendes Beispiel für die koloniale Sakralarchitektur der französischen Ära. Die Kirche befindet sich direkt gegenüber dem Botanischen Garten Sir Seewoosagur Ramgoolam und prägt das historische Ortsbild.",
+      hu: "A Pamplemousses-ban található Szent Ferenc-templom Mauritius legrégebbi katolikus temploma, amelyet 1756-ban építettek. Az épület a francia gyarmati építészet egyik legfontosabb emléke a szigeten. Elhelyezkedése központi jelentőségű, közvetlenül a Sir Seewoosagur Ramgoolam Botanikus Kerttel szemben található, és fontos vallási központ.",
+      ro: "Biserica Saint François d'Assise din Pamplemousses, construită în 1756, este cel mai vechi lăcaș de cult catolic din Mauritius. Edificiul reprezintă un exemplu remarcabil al arhitecturii coloniale franceze de pe insulă. Situată vizavi de Grădina Botanică Sir Seewoosagur Ramgoolam, biserica joacă un rol central în istoria religioasă a regiunii.",
+      en: "Built in 1756, the Church of Saint François d'Assise in Pamplemousses is the oldest Catholic church in Mauritius. The structure stands as a primary example of French colonial religious architecture on the island. It is situated directly opposite the Sir Seewoosagur Ramgoolam Botanical Garden and remains a focal point for the local community.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1756 während der französischen Kolonialzeit", "Älteste erhaltene Steinkirche auf der Insel Mauritius", "Befindet sich im Distrikt Pamplemousses", "Architekturstil ist typisch für die französische Kolonialzeit", "Die Kirche wurde aus lokalem Basaltstein errichtet", "Liegt in unmittelbarer Nähe zum berühmten botanischen Garten"],
+      hu: ["1756-ban épült a francia gyarmati uralom idején", "Ez a legidősebb fennmaradt kőtemplom Mauritius szigetén", "Pamplemousses körzetében található", "Építészeti stílusa a francia gyarmati jegyeket tükrözi", "Helyi bazaltkőből építették a falait", "Közvetlenül a híres botanikus kerttel szemben helyezkedik el"],
+      ro: ["Construită în anul 1756 în timpul perioadei coloniale franceze", "Cea mai veche biserică de piatră care a supraviețuit pe insulă", "Situată în districtul Pamplemousses", "Stilul arhitectural reflectă estetica colonială franceză", "Zidurile au fost ridicate din piatră de bazalt locală", "Se află direct vizavi de celebra grădină botanică"],
+      en: ["Constructed in 1756 during the French colonial period", "Oldest surviving stone church on the island of Mauritius", "Located in the district of Pamplemousses", "Architectural style is typical of French colonial influence", "The church was built using local basalt stone", "Situated directly opposite the famous botanical garden"],
+    },
   },
   {
     id: "mauritius-maison-eureka-landmarks-v2",
@@ -133,6 +205,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Built in 1830", "Has 109 doors", "Colonial furniture collection", "Nearby waterfall"],
     },
     imageHint: "Maison Eureka Creole colonial house in Moka",
+    descriptionAdvanced: {
+      de: "Maison Eureka ist ein historisches Herrenhaus in Moka, das im Jahr 1830 erbaut wurde und heute als Museum dient. Das Anwesen ist berühmt für seine Architektur mit 109 Türen und Fenstern, die für eine natürliche Belüftung sorgen. Es bietet Einblicke in das Leben der Zuckerbarone des 19. Jahrhunderts und ist von einem weitläufigen Garten mit Wasserfällen umgeben.",
+      hu: "A Moka városában található Maison Eureka egy 1830-ban épült történelmi udvarház, amely ma múzeumként működik. Az épület híres építészeti megoldásairól, különösen a 109 ajtóról és ablakról, amelyek a természetes szellőzést biztosítják. Betekintést nyújt a 19. századi cukorbárók életébe, és hatalmas, vízesésekkel tarkított kert veszi körül.",
+      ro: "Maison Eureka este un conac istoric situat în Moka, construit în 1830, care funcționează astăzi ca muzeu. Proprietatea este celebră pentru arhitectura sa cu 109 uși și ferestre, concepute pentru ventilație naturală. Oferă o privire asupra vieții baronilor zahărului din secolul al XIX-lea și este înconjurată de o grădină vastă cu cascade.",
+      en: "Maison Eureka is a historic mansion in Moka, built in 1830, which now functions as a museum. The estate is famous for its architecture featuring 109 doors and windows designed for natural cooling. It provides insights into the lifestyle of 19th-century sugar barons and is surrounded by a large garden with nearby waterfalls.",
+    },
+    factsAdvanced: {
+      de: ["Das Haus wurde im Jahr 1830 ursprünglich fertiggestellt", "Verfügt über insgesamt 109 Türen und Fenster", "Befindet sich in Moka im Zentrum der Insel", "Wurde 1986 als Museum für die Öffentlichkeit eröffnet", "Die Struktur besteht fast vollständig aus Holz", "Das Anwesen liegt am Ufer des Moka-Flusses"],
+      hu: ["A ház eredetileg 1830-ban készült el", "Összesen 109 ajtóval és ablakkal rendelkezik", "Moka településen, a sziget központi részén található", "1986-ban nyitották meg múzeumként a nagyközönség előtt", "Az épület szerkezete szinte teljes egészében fából készült", "A birtok a Moka-folyó partján fekszik"],
+      ro: ["Casa a fost finalizată inițial în anul 1830", "Dispune de un total de 109 uși și ferestre", "Situată în localitatea Moka, în centrul insulei", "Deschisă publicului ca muzeu în anul 1986", "Structura este realizată aproape în întregime din lemn", "Proprietatea se află pe malul râului Moka"],
+      en: ["The house was originally completed in the year 1830", "Features a total of 109 doors and windows", "Located in Moka in the central part of the island", "Opened as a museum to the public in 1986", "The structure is made almost entirely of wood", "The estate is situated on the banks of the Moka River"],
+    },
   },
   {
     id: "mauritius-fort-frederik-hendrik-landmarks-v2",
@@ -152,6 +236,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Founded in 1598 (Dutch)", "First settlement on the island", "Later used by the French", "Houses a small museum"],
     },
     imageHint: "Fort Frederik Hendrik ruins in Vieux Grand Port",
+    descriptionAdvanced: {
+      de: "Fort Frederik Hendrik in Vieux Grand Port markiert den Ort der ersten dauerhaften Siedlung auf Mauritius durch die Niederländer im Jahr 1638. Die Ruinen umfassen eine Festung, eine Kirche und weitere Verwaltungsgebäude aus der niederländischen und späteren französischen Zeit. Heute ist die Stätte eine wichtige archäologische Zone, die die frühe Kolonialgeschichte der Insel dokumentiert.",
+      hu: "A Vieux Grand Port-ban található Frederik Hendrik-erőd jelzi Mauritius első állandó településének helyét, amelyet a hollandok alapítottak 1638-ban. A romok között egy erőd, egy templom és egyéb közigazgatási épületek maradványai találhatók a holland és a későbbi francia korszakból. Ma a terület fontos régészeti övezet, amely dokumentálja a sziget korai gyarmati történelmét.",
+      ro: "Fort Frederik Hendrik din Vieux Grand Port marchează locul primei așezări permanente din Mauritius, fondată de olandezi în 1638. Ruinele includ fortificații, o biserică și clădiri administrative din perioada olandeză și ulterior franceză. Astăzi, situl este o zonă arheologică importantă care documentează istoria colonială timpurie a insulei.",
+      en: "Fort Frederik Hendrik in Vieux Grand Port marks the site of the first permanent settlement in Mauritius by the Dutch in 1638. The ruins include a fort, a church, and other administrative buildings from the Dutch and later French periods. Today, the site is a major archaeological zone documenting the island's early colonial history.",
+    },
+    factsAdvanced: {
+      de: ["Erste niederländische Siedlung wurde hier 1638 gegründet", "Benannt nach Prinz Frederik Hendrik von Oranien", "Befindet sich im historischen Vieux Grand Port", "Enthält Ruinen der ersten Kirche von Mauritius (1708)", "Wurde von den Franzosen nach 1721 weiter genutzt", "Ein Museum vor Ort zeigt Fundstücke der Ausgrabungen"],
+      hu: ["Az első holland települést 1638-ban alapították itt", "Frigyes Henrik orániai hercegről nevezték el", "A történelmi Vieux Grand Port területén található", "Itt találhatók Mauritius első templomának romjai (1708)", "A franciák 1721 után tovább használták a területet", "A helyszíni múzeum a régészeti ásatások leleteit mutatja be"],
+      ro: ["Prima așezare olandeză a fost fondată aici în 1638", "Numit după Prințul Frederik Hendrik de Orania", "Situat în zona istorică Vieux Grand Port", "Conține ruinele primei biserici din Mauritius (1708)", "A fost utilizat în continuare de francezi după 1721", "Un muzeu local expune artefacte din săpăturile arheologice"],
+      en: ["The first Dutch settlement was founded here in 1638", "Named after Prince Frederik Hendrik of Orange", "Located in the historical Vieux Grand Port area", "Contains ruins of the first church in Mauritius (1708)", "The site was reused by the French after 1721", "An on-site museum displays findings from excavations"],
+    },
   },
   {
     id: "mauritius-dutch-landing-monument-landmarks-v2",
@@ -171,6 +267,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Landing date: Sept 20, 1598", "Located in Grand Port", "Memorial stone by the sea", "Marks Warwyck Haven"],
     },
     imageHint: "Dutch First Landing Monument Ferney Mauritius",
+    descriptionAdvanced: {
+      de: "Das Denkmal für die erste Landung der Niederländer befindet sich in Ferney und erinnert an die Ankunft der ersten holländischen Seeleute im Jahr 1598. Dieses Ereignis markierte den Beginn der menschlichen Einflussnahme auf die bis dahin unbewohnte Insel. Das Monument wurde 1998 zum 400. Jahrestag der Landung eingeweiht und bietet einen weiten Blick über die Bucht von Grand Port.",
+      hu: "A hollandok első partraszállásának emlékműve Ferney-ben található, és az első holland tengerészek 1598-as érkezésének állít emléket. Ez az esemény jelentette az emberi behatás kezdetét az addig lakatlan szigeten. Az emlékművet 1998-ban, a partraszállás 400. évfordulóján avatták fel, és tágas kilátást nyújt a Grand Port-öbölre.",
+      ro: "Monumentul primei debarcări a olandezilor este situat în Ferney și comemorează sosirea primilor marinari olandezi în anul 1598. Acest eveniment a marcat începutul influenței umane asupra insulei, până atunci nelocuită. Monumentul a fost inaugurat în 1998, la a 400-a aniversare a debarcării, oferind o vedere amplă asupra golfului Grand Port.",
+      en: "The Dutch First Landing Monument is located in Ferney and commemorates the arrival of the first Dutch sailors in 1598. This event marked the beginning of human impact on the previously uninhabited island. The monument was inaugurated in 1998 for the 400th anniversary of the landing and overlooks the historic Bay of Grand Port.",
+    },
+    factsAdvanced: {
+      de: ["Erinnert an die Landung der Flotte von Wybrandt van Warwyck 1598", "Eingeweiht am 20. September 1998 zum 400. Jubiläum", "Befindet sich an der Südostküste bei Ferney", "Markiert den Übergang der Insel von unbewohnt zu kolonial", "Das Monument besteht aus einer Gedenktafel und Skulpturen", "Die Landung erfolgte wegen eines Sturms ungeplant"],
+      hu: ["Wybrandt van Warwyck flottájának 1598-as partraszállására emlékeztet", "1998. szeptember 20-án avatták fel a 400. évfordulón", "A délkeleti parton, Ferney közelében található", "A sziget lakatlanból gyarmattá válásának kezdetét jelzi", "Az emlékmű egy emléktáblából és szobrokból áll", "A partraszállás egy vihar miatt történt, eredetileg nem tervezték"],
+      ro: ["Comemorează debarcarea flotei lui Wybrandt van Warwyck în 1598", "Inaugurat la 20 septembrie 1998, la a 400-a aniversare", "Situat pe coasta de sud-est, lângă localitatea Ferney", "Marchează tranziția insulei de la nelocuită la colonie", "Monumentul constă dintr-o placă comemorativă și sculpturi", "Debarcarea a fost neplanificată, cauzată de o furtună"],
+      en: ["Commemorates the landing of Wybrandt van Warwyck's fleet in 1598", "Inaugurated on September 20, 1998, for the 400th anniversary", "Located on the southeast coast near Ferney", "Marks the transition of the island from uninhabited to colonial", "The monument consists of a commemorative plaque and sculptures", "The landing was unplanned, caused by a tropical storm"],
+    },
   },
   {
     id: "mauritius-naval-museum-mahebourg-landmarks-v2",
@@ -190,6 +298,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["House built in 1771", "Known as Maison Robillard", "Holds relics from the 'Magicienne' wreck", "Free admission"],
     },
     imageHint: "Mahebourg Naval Museum colonial building",
+    descriptionAdvanced: {
+      de: "Das Marinemuseum von Mahebourg ist im Château Robillard untergebracht, einem kolonialen Herrenhaus aus dem Jahr 1771. Das Museum dokumentiert die maritime Geschichte von Mauritius, insbesondere die berühmte Seeschlacht von Grand Port im Jahr 1810. Es beherbergt Relikte von Schiffswracks, alte Karten und persönliche Gegenstände der Befehlshaber beider Seiten.",
+      hu: "A Mahebourg-i Tengerészeti Múzeum a Château Robillard épületében található, amely egy 1771-ben épült gyarmati udvarház. A múzeum Mauritius tengerészeti történelmét dokumentálja, különös tekintettel az 1810-es híres Grand Port-i tengeri csatára. Hajóroncsokból származó leleteket, régi térképeket és a két szembenálló fél parancsnokainak személyes tárgyait őrzi.",
+      ro: "Muzeul Naval din Mahebourg este găzduit în Château Robillard, un conac colonial construit în 1771. Muzeul documentează istoria maritimă a insulei Mauritius, în special faimoasa bătălie navală de la Grand Port din 1810. Adăpostește relicve din epave, hărți vechi și obiecte personale ale comandanților ambelor tabere.",
+      en: "The Mahebourg Naval Museum is housed in Château Robillard, a colonial mansion built in 1771. The museum documents the maritime history of Mauritius, specifically the famous Battle of Grand Port in 1810. It houses relics from shipwrecks, ancient maps, and personal belongings of the commanders from both sides.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude Château Robillard stammt aus dem Jahr 1771", "Beherbergt Fundstücke der Seeschlacht von Grand Port (1810)", "Enthält Glocken und Kanonen von der HMS Sirius", "Zeigt Exponate zum Tod des Seefahrers Pieter Both", "Das Haus diente 1810 als Lazarett für verletzte Kapitäne", "Befindet sich in einem großen Park am Eingang von Mahebourg"],
+      hu: ["A Château Robillard épülete 1771-ből származik", "Az 1810-es Grand Port-i tengeri csata leleteit őrzi", "A HMS Sirius hajóról származó harangokat és ágyúkat mutat be", "Pieter Both tengerész halálával kapcsolatos kiállítási tárgyakat tartalmaz", "Az épület 1810-ben hadikórházként szolgált a sebesült kapitányoknak", "Mahebourg bejáratánál, egy nagy parkban található"],
+      ro: ["Clădirea Château Robillard datează din anul 1771", "Găzduiește artefacte din bătălia navală de la Grand Port (1810)", "Include clopote și tunuri recuperate de pe nava HMS Sirius", "Expune obiecte legate de moartea navigatorului Pieter Both", "Casa a servit drept spital de campanie pentru căpitani în 1810", "Situat într-un parc vast la intrarea în localitatea Mahebourg"],
+      en: ["The Château Robillard building dates back to 1771", "Houses artifacts from the Battle of Grand Port (1810)", "Includes bells and cannons recovered from the HMS Sirius", "Features exhibits on the death of navigator Pieter Both", "The house served as a hospital for wounded captains in 1810", "Located in a large park at the entrance of Mahebourg"],
+    },
   },
   {
     id: "mauritius-notre-dame-auxiliatrice-landmarks-v2",
@@ -209,6 +329,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Known as the 'Red Roof Church'", "View of Coin de Mire island", "Popular wedding location", "Located at the northernmost point"],
     },
     imageHint: "Cap Malheureux red roof church by the sea",
+    descriptionAdvanced: {
+      de: "Die Kapelle Notre Dame Auxiliatrice in Cap Malheureux ist eines der meistfotografierten Wahrzeichen von Mauritius. Bekannt für ihr markantes rotes Dach, steht die Kirche direkt am türkisfarbenen Wasser des Indischen Ozeans. Sie wurde 1938 erbaut und bietet einen freien Blick auf die Insel Coin de Mire, was sie zu einem beliebten Ziel für Hochzeiten und Touristen macht.",
+      hu: "A Cap Malheureux-ban található Notre Dame Auxiliatrice kápolna Mauritius egyik legtöbbet fényképezett nevezetessége. Jellegzetes vörös tetejéről ismert, a templom közvetlenül az Indiai-óceán türkizkék vize mellett áll. 1938-ban épült, és zavartalan kilátást nyújt a Coin de Mire szigetre, emiatt az esküvők és a turisták kedvelt célpontja.",
+      ro: "Capela Notre Dame Auxiliatrice din Cap Malheureux este unul dintre cele mai fotografiate repere din Mauritius. Cunoscută pentru acoperișul său roșu distinctiv, biserica se află chiar lângă apele turcoaz ale Oceanului Indian. A fost construită în 1938 și oferă o vedere panoramică spre insula Coin de Mire, fiind o destinație populară pentru nunți.",
+      en: "The Notre Dame Auxiliatrice chapel in Cap Malheureux is one of the most photographed landmarks in Mauritius. Known for its distinct red roof, the church stands directly beside the turquoise waters of the Indian Ocean. Built in 1938, it offers an unobstructed view of Coin de Mire island, making it a popular location for weddings and visitors.",
+    },
+    factsAdvanced: {
+      de: ["Die Kapelle wurde im Jahr 1938 offiziell eingeweiht", "Berühmt für das leuchtend rote Satteldach", "Befindet sich am nördlichsten Punkt der Insel Mauritius", "Der Name bedeutet 'Unsere Liebe Frau, Hilfe der Christen'", "Das Weihwasserbecken besteht aus einer riesigen Riesenmuschel", "Wurde am Ort der britischen Invasion von 1810 errichtet"],
+      hu: ["A kápolnát hivatalosan 1938-ban szentelték fel", "Híres az élénkvörös nyeregtetőjéről", "Mauritius szigetének legészakibb pontján található", "A név jelentése: 'Segítő Szűz Mária'", "A szenteltvíztartó egy hatalmas óriáskagylóból készült", "Az 1810-es brit invázió helyszínének közelében épült"],
+      ro: ["Capela a fost sfințită oficial în anul 1938", "Celebră pentru acoperișul său în două ape de un roșu aprins", "Situată în cel mai nordic punct al insulei Mauritius", "Numele înseamnă 'Sfânta Maria Ajutătoare'", "Vasul pentru apă sfințită este realizat dintr-o scoică gigant", "Construită în locul unde a avut loc invazia britanică din 1810"],
+      en: ["The chapel was officially consecrated in the year 1938", "Famous for its vibrant red-painted gabled roof", "Located at the northernmost tip of Mauritius island", "The name translates to 'Our Lady, Help of Christians'", "The holy water font is made from a giant clam shell", "Built near the site of the British invasion of 1810"],
+    },
   },
   {
     id: "mauritius-laventure-du-sucre-landmarks-v2",
@@ -228,6 +360,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Located in Beau Plan", "Former Beau Plan sugar mill", "Sugar and rum tasting available", "Displays historic machinery"],
     },
     imageHint: "L'Aventure du Sucre museum factory building",
+    descriptionAdvanced: {
+      de: "L'Aventure du Sucre ist ein interaktives Museum in einer ehemaligen Zuckerfabrik in Pamplemousses. Es erzählt die Geschichte der Zuckerindustrie, die über Jahrhunderte das wirtschaftliche Rückgrat von Mauritius bildete. Besucher können die alten Maschinen besichtigen, den Herstellungsprozess von Rohrzucker verstehen und verschiedene lokale Zuckersorten verkosten.",
+      hu: "A L'Aventure du Sucre egy interaktív múzeum egy egykori cukorgyárban, Pamplemousses-ban. Bemutatja a cukoripar történetét, amely évszázadokon át Mauritius gazdasági gerincét alkotta. A látogatók megtekinthetik a régi gépeket, megismerhetik a nádcukor gyártási folyamatát, és megkóstolhatják a különféle helyi cukorfajtákat.",
+      ro: "L'Aventure du Sucre este un muzeu interactiv situat într-o fostă fabrică de zahăr din Pamplemousses. Acesta spune povestea industriei zahărului, care a reprezentat coloana vertebrală a economiei mauritiene timp de secole. Vizitatorii pot vedea utilajele vechi, pot înțelege procesul de producție al zahărului din trestie și pot degusta diverse sortimente locale.",
+      en: "L'Aventure du Sucre is an interactive museum located in a former sugar factory in Pamplemousses. It tells the story of the sugar industry, which was the economic backbone of Mauritius for centuries. Visitors can view vintage machinery, understand the cane sugar production process, and taste various local sugar varieties.",
+    },
+    factsAdvanced: {
+      de: ["Das Museum befindet sich in der ehemaligen Fabrik Beau Plan", "Eröffnet im Jahr 1999 nach der Schließung der Fabrik", "Dokumentiert die Geschichte des Zuckers seit 1639", "Zeigt eine riesige Sammlung originaler Industriemaschinen", "Bietet Verkostungen von über 12 verschiedenen Zuckersorten an", "Erklärt den Zusammenhang zwischen Zucker und Sklaverei"],
+      hu: ["A múzeum az egykori Beau Plan cukorgyár épületében található", "1999-ben nyílt meg a gyár bezárása után", "A cukor történetét dokumentálja 1639-től napjainkig", "Eredeti ipari gépek hatalmas gyűjteményét mutatja be", "Több mint 12 különböző cukorfajta kóstolóját kínálja", "Ismerteti a cukortermelés és a rabszolgaság közötti kapcsolatot"],
+      ro: ["Muzeul este situat în fosta fabrică de zahăr Beau Plan", "Deschis în anul 1999 după închiderea definitivă a fabricii", "Documentează istoria zahărului pe insulă începând cu 1639", "Expune o colecție vastă de utilaje industriale originale", "Oferă degustări pentru peste 12 tipuri diferite de zahăr", "Explică legătura istorică dintre zahăr și sclavie"],
+      en: ["The museum is housed in the former Beau Plan sugar factory", "Opened in 1999 following the closure of the factory", "Documents the history of sugar in Mauritius since 1639", "Displays a massive collection of original industrial machinery", "Offers tastings of over 12 different types of special sugars", "Explains the historical link between sugar and slavery"],
+    },
   },
   {
     id: "mauritius-photography-museum-landmarks-v2",
@@ -247,6 +391,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Private collection", "Near the municipal theatre", "Houses rare daguerreotypes", "Located in a historic building"],
     },
     imageHint: "Mauritius Photography Museum entrance Port Louis",
+    descriptionAdvanced: {
+      de: "Das Fotomuseum von Mauritius in Port Louis ist die Lebensaufgabe von Tristan Bréville und beherbergt eine der bedeutendsten Sammlungen der südlichen Hemisphäre. Es befindet sich in einem restaurierten Gebäude gegenüber dem Stadttheater. Die Sammlung umfasst seltene Daguerreotypien, frühe Kameras und Tausende von historischen Aufnahmen, die den Wandel der Insel dokumentieren.",
+      hu: "A Port Louis-ban található Mauritius-i Fotómúzeum Tristan Bréville életműve, és a déli félteke egyik legjelentősebb gyűjteményének ad otthont. Az épület a Városi Színházzal szemben, egy felújított házban található. A gyűjtemény ritka dagerrotípiákat, korai fényképezőgépeket és több ezer történelmi felvételt tartalmaz, amelyek a sziget változásait dokumentálják.",
+      ro: "Muzeul de Fotografie din Port Louis este opera de o viață a lui Tristan Bréville și găzduiește una dintre cele mai importante colecții din emisfera sudică. Situat într-o clădire restaurată vizavi de Teatrul Municipal, muzeul include dagherotipuri rare, aparate foto timpurii și mii de fotografii istorice care documentează evoluția insulei.",
+      en: "The Mauritius Photography Museum in Port Louis is the life's work of Tristan Bréville and houses one of the most significant collections in the Southern Hemisphere. Located in a restored building opposite the Municipal Theatre, the collection features rare daguerreotypes, early cameras, and thousands of historical prints documenting the island's change.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1966 von Tristan Bréville", "Beherbergt über eine Million Negative und Fotos", "Enthält Kameras aus dem 19. Jahrhundert", "Besitzt eines der ersten auf Mauritius erstellten Daguerreotypien (1839)", "Befindet sich in der Rue du Vieux Conseil in Port Louis", "Die Sammlung dokumentiert die lokale Flora, Fauna und Architektur"],
+      hu: ["1966-ban alapította Tristan Bréville", "Több mint egymillió negatívot és fotót őriz", "19. századból származó fényképezőgépeket tartalmaz", "Birtokolja az egyik első Mauritiuson készült dagerrotípiát (1839)", "Port Louis-ban, a Rue du Vieux Conseil utcában található", "A gyűjtemény a helyi flórát, faunát és építészetet dokumentálja"],
+      ro: ["Fondat în anul 1966 de către Tristan Bréville", "Găzduiește peste un milion de negative și fotografii", "Include aparate de fotografiat din secolul al XIX-lea", "Deține unul dintre primele dagherotipuri realizate în Mauritius (1839)", "Situat pe strada Rue du Vieux Conseil din Port Louis", "Colecția documentează flora, fauna și arhitectura locală"],
+      en: ["Founded in 1966 by collector Tristan Bréville", "Houses over one million negatives and photographs", "Contains cameras dating back to the 19th century", "Owns one of the first daguerreotypes produced in Mauritius (1839)", "Located on Rue du Vieux Conseil in Port Louis", "The collection documents local flora, fauna, and architecture"],
+    },
   },
   {
     id: "mauritius-postal-museum-landmarks-v2",
@@ -266,6 +422,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["In an 1870 stone building", "Displays old mailboxes", "Stamp collections", "Near Caudan Waterfront"],
     },
     imageHint: "Mauritius Postal Museum interior and stamps",
+    descriptionAdvanced: {
+      de: "Das Postmuseum von Mauritius befindet sich im denkmalgeschützten General Post Office am Hafen von Port Louis. Das beeindruckende Steingebäude wurde zwischen 1868 und 1870 erbaut. Das Museum widmet sich der Philatelie und der Kommunikationsgeschichte der Insel, wobei die weltberühmten 'Blauen' und 'Roten' Mauritius-Briefmarken im Mittelpunkt des Interesses stehen.",
+      hu: "A Mauritius-i Postamúzeum a műemlékvédelem alatt álló Főpostán található, a Port Louis-i kikötőnél. A lenyűgöző kőépület 1868 és 1870 között épült. A múzeum a filatéliának és a sziget kommunikációtörténetének szenteli kiállításait, a figyelem középpontjában a világhírű 'Kék' és 'Vörös' Mauritius bélyegekkel.",
+      ro: "Muzeul Poștal din Mauritius este situat în clădirea istorică a Poștei Centrale, lângă portul din Port Louis. Impresionanta construcție din piatră a fost ridicată între 1868 și 1870. Muzeul este dedicat filateliei și istoriei comunicațiilor de pe insulă, având în prim-plan celebrele timbre 'Albastru' și 'Roșu' de Mauritius.",
+      en: "The Mauritius Postal Museum is located in the heritage-listed General Post Office at the Port Louis waterfront. The impressive stone building was constructed between 1868 and 1870. The museum is dedicated to philately and the island's communication history, with the world-famous 'Blue' and 'Red' Mauritius stamps as its highlights.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude wurde zwischen 1868 und 1870 errichtet", "Es wurde 1958 zum Nationaldenkmal erklärt", "Das Museum wurde offiziell im Jahr 1995 eröffnet", "Zeigt Faksimiles der seltenen Post-Office-Briefmarken von 1847", "Ausstellung alter Telegrafen- und Telefonanlagen", "Liegt direkt am Caudan Waterfront Viertel"],
+      hu: ["Az épületet 1868 és 1870 között emelték", "1958-ban nemzeti műemlékké nyilvánították", "A múzeumot hivatalosan 1995-ben nyitották meg", "Az 1847-es ritka 'Post Office' bélyegek fakszimiléit mutatja be", "Régi távíró- és telefonberendezések kiállítása látható itt", "Közvetlenül a Caudan Waterfront negyed mellett található"],
+      ro: ["Clădirea a fost construită între anii 1868 și 1870", "Declarată monument național în anul 1958", "Muzeul a fost deschis oficial în anul 1995", "Expune facsimile ale celebrelor timbre 'Post Office' din 1847", "Prezintă echipamente vechi de telegraf și telefonie", "Situat chiar lângă zona comercială Caudan Waterfront"],
+      en: ["The building was constructed between 1868 and 1870", "It was declared a National Monument in 1958", "The museum was officially opened in 1995", "Displays facsimiles of the rare 1847 'Post Office' stamps", "Features exhibits of old telegraph and telephone equipment", "Located directly adjacent to the Caudan Waterfront area"],
+    },
   },
   {
     id: "mauritius-ssr-statue-landmarks-v2",
@@ -285,6 +453,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["First Prime Minister", "Overlooks the harbor", "Major photo landmark", "Near Blue Penny Museum"],
     },
     imageHint: "Statue of Sir Seewoosagur Ramgoolam Port Louis Waterfront",
+    descriptionAdvanced: {
+      de: "Die Statue von Sir Seewoosagur Ramgoolam an der Waterfront von Port Louis ehrt den 'Vater der Nation' und ersten Premierminister von Mauritius. Das Denkmal blickt auf den Hafen und symbolisiert die Unabhängigkeit und den Fortschritt des Landes. Es ist ein zentraler Treffpunkt in der Hauptstadt und erinnert an Ramgoolams Rolle bei der Befreiung der Insel von der britischen Kolonialherrschaft.",
+      hu: "Sir Seewoosagur Ramgoolam szobra a Port Louis-i Waterfronton a 'nemzet atyját' és Mauritius első miniszterelnökét tiszteli meg. Az emlékmű a kikötőre néz, jelképezve az ország függetlenségét és haladását. A főváros egyik központi találkozóhelye, amely Ramgoolam szerepére emlékeztet a sziget brit gyarmati uralom alóli felszabadításában.",
+      ro: "Statuia lui Sir Seewoosagur Ramgoolam de pe faleza din Port Louis îl onorează pe 'Tatăl Națiunii' și primul prim-ministru al insulei Mauritius. Monumentul privește spre port, simbolizând independența și progresul țării. Este un punct de întâlnire central în capitală, amintind de rolul lui Ramgoolam în eliberarea insulei de sub dominația colonială britanică.",
+      en: "The statue of Sir Seewoosagur Ramgoolam at the Port Louis waterfront honors the 'Father of the Nation' and the first Prime Minister of Mauritius. The monument overlooks the harbor, symbolizing the country's independence and progress. It is a central meeting point in the capital and commemorates Ramgoolam's role in leading the island to freedom from British colonial rule.",
+    },
+    factsAdvanced: {
+      de: ["Sir Seewoosagur Ramgoolam war der erste Premierminister (1968)", "Die Statue wurde im Jahr 1986 eingeweiht", "Befindet sich an der Place d'Armes in Port Louis", "Ramgoolam führte Mauritius 1968 in die Unabhängigkeit", "Die Statue steht vor dem Regierungsgebäude", "Er wird auf Mauritius universell als 'Chacha' (Onkel) verehrt"],
+      hu: ["Sir Seewoosagur Ramgoolam volt az első miniszterelnök (1968)", "A szobrot 1986-ban avatták fel", "Port Louis-ban, a Place d'Armes téren található", "Ramgoolam vezette Mauritius-t a függetlenségig 1968-ban", "A szobor a kormányzati épületek előtt áll", "Mauritiuson általánosan 'Chacha' (Nagybácsi) néven tisztelik"],
+      ro: ["Sir Seewoosagur Ramgoolam a fost primul prim-ministru (1968)", "Statuia a fost inaugurată în anul 1986", "Situată în Place d'Armes din Port Louis", "Ramgoolam a condus Mauritius spre independență în 1968", "Statuia este amplasată în fața clădirilor guvernamentale", "Este cunoscut universal în Mauritius sub porecla 'Chacha' (Unchiul)"],
+      en: ["Sir Seewoosagur Ramgoolam was the first Prime Minister (1968)", "The statue was officially unveiled in 1986", "Located at the Place d'Armes in Port Louis", "Ramgoolam led Mauritius to independence in 1968", "The statue stands in front of the Government House", "He is universally revered in Mauritius as 'Chacha' (Uncle)"],
+    },
   },
   {
     id: "mauritius-slave-route-monument-landmarks-v2",
@@ -304,6 +484,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["UNESCO context", "Symbols of freedom and suffering", "Located on Le Morne beach", "Inaugurated in 2009"],
     },
     imageHint: "International Slave Route Monument sculptures Le Morne",
+    descriptionAdvanced: {
+      de: "Das International Slave Route Monument am Fuße des Berges Le Morne Brabant erinnert an die Geschichte der Sklaverei auf Mauritius. Le Morne war ein Zufluchtsort für entflohene Sklaven, die sogenannten Maroons. Das Denkmal besteht aus verschiedenen Skulpturen internationaler Künstler und ist Teil des UNESCO-Welterbes, das den Widerstand gegen die Unterdrückung würdigt.",
+      hu: "A Le Morne Brabant hegy lábánál található Nemzetközi Rabszolgaút Emlékmű a mauritiusi rabszolgaság történetére emlékeztet. Le Morne a szökött rabszolgák, az úgynevezett maronok menedékhelye volt. Az emlékmű nemzetközi művészek különböző szobraiból áll, és az UNESCO Világörökség része, amely az elnyomással szembeni ellenállás előtt tiszteleg.",
+      ro: "Monumentul Internațional al Rutei Sclavilor, situat la poalele muntelui Le Morne Brabant, comemorează istoria sclaviei în Mauritius. Le Morne a fost un refugiu pentru sclavii fugari, cunoscuți sub numele de 'maroni'. Monumentul este format din sculpturi ale unor artiști internaționali și face parte din patrimoniul mondial UNESCO, onorând rezistența împotriva opresiunii.",
+      en: "The International Slave Route Monument at the foot of Le Morne Brabant commemorates the history of slavery in Mauritius. Le Morne was a sanctuary for escaped slaves, known as maroons. The monument consists of various sculptures by international artists and is part of the UNESCO World Heritage site honoring the resistance against oppression.",
+    },
+    factsAdvanced: {
+      de: ["Eingeweiht am 1. Februar 2009 zum Gedenktag der Abschaffung", "Befindet sich am Fuße des UNESCO-Welterbes Le Morne", "Besteht aus Skulpturen von Künstlern aus Reunion, Madagaskar und Mosambik", "Erinnert an die 'Maroons', die im Berg Zuflucht suchten", "Mauritius war ein wichtiger Umschlagplatz im Sklavenhandel", "Die Sklaverei wurde auf Mauritius 1835 offiziell abgeschafft"],
+      hu: ["2009. február 1-jén, a rabszolgaság eltörlésének napján avatták fel", "Az UNESCO Világörökség részét képező Le Morne lábánál található", "Réunion, Madagaszkár és Mozambik művészeinek szobrait tartalmazza", "A 'maronokra' emlékeztet, akik a hegyekben kerestek menedéket", "Mauritius a rabszolga-kereskedelem fontos csomópontja volt", "A rabszolgaságot 1835-ben törölték el hivatalosan Mauritiuson"],
+      ro: ["Inaugurat la 1 februarie 2009, de ziua abolirii sclaviei", "Situat la poalele muntelui Le Morne, sit UNESCO", "Include sculpturi realizate de artiști din Reunion, Madagascar și Mozambic", "Comemorează 'maronii', sclavii care s-au refugiat în munte", "Mauritius a fost un punct cheie în comerțul cu sclavi din Oceanul Indian", "Sclavia a fost abolită oficial în Mauritius în anul 1835"],
+      en: ["Inaugurated on February 1, 2009, for the Abolition of Slavery Day", "Located at the base of the UNESCO-listed Le Morne Brabant", "Features sculptures by artists from Reunion, Madagascar, and Mozambique", "Commemorates the 'maroons' who sought refuge in the mountain", "Mauritius was a major hub in the Indian Ocean slave trade", "Slavery was officially abolished in Mauritius in 1835"],
+    },
   },
   {
     id: "mauritius-domaine-aubineaux-landmarks-v2",
@@ -323,6 +515,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Built in 1872", "Made of ebony and rosewood", "Turned into a museum in 2000", "Set in an ancient garden"],
     },
     imageHint: "Domaine des Aubineaux colonial house Curepipe",
+    descriptionAdvanced: {
+      de: "Le Domaine des Aubineaux ist ein prächtiges Kolonialhaus in Curepipe, das 1872 erbaut wurde und heute die erste Station der 'Route du Thé' bildet. Das aus Teakholz errichtete Gebäude bewahrt die ursprüngliche Inneneinrichtung und Atmosphäre des späten 19. Jahrhunderts. Es ist von einem botanischen Garten mit seltenen endemischen Pflanzen umgeben und dokumentiert die Geschichte der kolonialen Elite.",
+      hu: "A Curepipe-ben található Le Domaine des Aubineaux egy 1872-ben épült pazar gyarmati ház, amely ma a 'Teaút' első állomása. A teakfából készült épület megőrzi a 19. század végi eredeti berendezést és hangulatot. Ritka endemikus növényekkel teli botanikus kert veszi körül, és a gyarmati elit történelmét dokumentálja.",
+      ro: "Le Domaine des Aubineaux este o reședință colonială magnifică din Curepipe, construită în 1872, care reprezintă prima etapă a 'Rutei Ceaiului'. Clădirea, ridicată din lemn de tec, păstrează mobilierul și atmosfera originală de la sfârșitul secolului al XIX-lea. Este înconjurată de o grădină botanică cu plante endemice rare și documentează istoria elitei coloniale.",
+      en: "Le Domaine des Aubineaux is a magnificent colonial house in Curepipe, built in 1872, serving as the first stop on the 'Tea Route'. Constructed from teak wood, the building preserves its original late 19th-century interior and atmosphere. It is surrounded by a botanical garden with rare endemic plants and documents the history of the colonial elite.",
+    },
+    factsAdvanced: {
+      de: ["Das Herrenhaus wurde im Jahr 1872 erbaut", "Besteht fast vollständig aus Teakholz von alten Schiffswracks", "Befindet sich in Curepipe auf dem zentralen Plateau", "War das erste Haus auf der Insel mit Elektrizität (1881)", "Beherbergt ein Museum über die Geschichte des Tees", "Der Park enthält einen Garten mit Kampferbäumen"],
+      hu: ["Az udvarház 1872-ben épült", "Szinte teljesen régi hajóroncsokból származó teakfából készült", "Curepipe-ben, a központi fennsíkon található", "Ez volt a sziget első háza, ahol bevezették az áramot (1881)", "A tea történetét bemutató múzeumnak ad otthont", "A parkban kámforfákból álló kert található"],
+      ro: ["Conacul a fost construit în anul 1872", "Realizat aproape integral din lemn de tec de la epave vechi", "Situat în Curepipe, pe platoul central al insulei", "Prima casă de pe insulă care a avut electricitate (1881)", "Găzduiește un muzeu despre istoria ceaiului", "Parcul include o grădină cu arbori de camfor"],
+      en: ["The manor house was constructed in the year 1872", "Built almost entirely from teak wood salvaged from shipwrecks", "Located in Curepipe on the central plateau", "Was the first house on the island to have electricity (1881)", "Houses a museum dedicated to the history of tea", "The grounds feature a garden with camphor trees"],
+    },
   },
   {
     id: "mauritius-domaine-bois-cheri-landmarks-v2",
@@ -342,6 +546,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Founded in 1892", "First tea producer on the island", "Tea museum on site", "Panoramic views of the south coast"],
     },
     imageHint: "Bois Cheri tea estate factory and lake",
+    descriptionAdvanced: {
+      de: "Le Domaine de Bois Chéri ist die älteste und größte Teeplantage von Mauritius und wurde im Jahr 1892 gegründet. Das Anwesen umfasst eine Teefabrik, ein Museum und ein Restaurant mit Blick auf einen Kratersee. Besucher können hier den gesamten Prozess der Teeverarbeitung von der Ernte bis zum Trocknen verfolgen und verschiedene aromatisierte Teesorten probieren.",
+      hu: "A Le Domaine de Bois Chéri Mauritius legrégebbi és legnagyobb ültetvénye, amelyet 1892-ben alapítottak. A birtok egy teagyárat, egy múzeumot és egy kráter tóra néző éttermet foglal magában. A látogatók végigkísérhetik a teafeldolgozás teljes folyamatát a betakarítástól a szárításig, és megkóstolhatják a különféle ízesített teafajtákat.",
+      ro: "Le Domaine de Bois Chéri este cea mai veche și mai mare plantație de ceai din Mauritius, fondată în anul 1892. Domeniul include o fabrică de ceai, un muzeu și un restaurant cu vedere spre un lac format într-un crater. Vizitatorii pot urmări întregul proces de prelucrare a ceaiului, de la recoltare până la uscare, și pot degusta diverse sortimente aromate.",
+      en: "Le Domaine de Bois Chéri is the oldest and largest tea plantation in Mauritius, established in 1892. The estate includes a tea factory, a museum, and a restaurant overlooking a crater lake. Visitors can follow the entire tea processing cycle from harvesting to drying and sample various flavored tea varieties.",
+    },
+    factsAdvanced: {
+      de: ["Erste kommerzielle Teeplantage der Insel, gegründet 1892", "Befindet sich im regenreichen Süden bei Grand Bois", "Produziert jährlich mehrere hundert Tonnen Tee", "Der Fabrikbesuch zeigt historische und moderne Maschinen", "Das Restaurant bietet einen Panoramablick auf den Kratersee", "Ist bekannt für seinen berühmten Vanille-Tee"],
+      hu: ["A sziget első kereskedelmi teaültetvénye, alapítva 1892-ben", "A csapadékos déli részen, Grand Bois közelében található", "Évente több száz tonna teát termelnek itt", "A gyárlátogatás során régi és modern gépek is láthatók", "Az étterem panorámás kilátást nyújt a kráter tóra", "Híres a különleges vaníliás teájáról"],
+      ro: ["Prima plantație comercială de ceai de pe insulă, fondată în 1892", "Situată în sudul ploios al insulei, lângă Grand Bois", "Produce anual câteva sute de tone de ceai", "Vizita la fabrică prezintă utilaje istorice și moderne", "Restaurantul oferă o vedere panoramică asupra unui lac vulcanic", "Este renumit pentru ceaiul său special cu aromă de vanilie"],
+      en: ["The island's first commercial tea plantation, founded in 1892", "Located in the rainy southern uplands near Grand Bois", "Produces several hundred tons of tea annually", "The factory tour showcases both historic and modern machinery", "The restaurant offers panoramic views of a volcanic crater lake", "Well-known for its signature vanilla-flavored tea"],
+    },
   },
   {
     id: "mauritius-domaine-saint-aubin-landmarks-v2",
@@ -361,6 +577,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["House built in 1819", "Former estate owners' residence", "Vanilla and rum production", "Located in the south near Saint Aubin"],
     },
     imageHint: "Domaine de Saint Aubin colonial house",
+    descriptionAdvanced: {
+      de: "Le Domaine de Saint Aubin ist ein historisches Anwesen aus dem Jahr 1819 im Süden der Insel. Ursprünglich das Wohnhaus eines Zuckerplantagenbesitzers, beherbergt es heute eine Rumbrennerei und eine Vanilleproduktion. Das Anwesen bietet einen Einblick in die koloniale Plantagenwirtschaft und die handwerkliche Herstellung lokaler Produkte in einem tropischen Garten.",
+      hu: "A Le Domaine de Saint Aubin egy 1819-ben épült történelmi birtok a sziget déli részén. Eredetileg egy cukornádültetvény-tulajdonos lakóháza volt, ma rumlepárlónak és vaníliatermesztésnek ad otthont. A birtok betekintést nyújt a gyarmati ültetvénygazdálkodásba és a helyi termékek kézműves előállításába egy trópusi kertben.",
+      ro: "Le Domaine de Saint Aubin este o proprietate istorică datând din 1819, situată în sudul insulei. Inițial reședința unui proprietar de plantație de zahăr, găzduiește astăzi o distilerie de rom și o producție de vanilie. Domeniul oferă o perspectivă asupra economiei de plantație coloniale și a fabricării artizanale a produselor locale.",
+      en: "Le Domaine de Saint Aubin is a historic estate dating back to 1819, located in the south of the island. Originally the residence of a sugar plantation owner, it now houses a rum distillery and vanilla production facilities. The estate offers insight into colonial plantation economics and the artisanal production of local goods within a tropical garden setting.",
+    },
+    factsAdvanced: {
+      de: ["Das Plantagenhaus wurde im Jahr 1819 errichtet", "Befindet sich bei Rivière des Anguilles im Süden", "Beherbergt eine Destillerie für landwirtschaftlichen Rum", "Verfügt über ein 'Haus der Vanille' (Maison de la Vanille)", "Das ursprüngliche Haus wurde aus Schiffsplanken gebaut", "Die Fabrik zur Zuckerverarbeitung wurde in den 1970ern verlegt"],
+      hu: ["Az ültetvényház 1819-ben épült", "Délre, Rivière des Anguilles közelében található", "Mezőgazdasági rumot előállító lepárlónak ad otthont", "Rendelkezik egy 'Vanília Háza' (Maison de la Vanille) nevű résszel", "Az eredeti házat hajópadlókból építették", "A cukorgyártó üzemet az 1970-es években helyezték át máshová"],
+      ro: ["Casa plantației a fost ridicată în anul 1819", "Situată lângă Rivière des Anguilles, în sud", "Găzduiește o distilerie de rom agricol", "Include o 'Casă a Vaniliei' (Maison de la Vanille)", "Casa originală a fost construită folosind scânduri de la nave", "Fabrica de prelucrare a zahărului a fost mutată în anii 1970"],
+      en: ["The plantation house was constructed in the year 1819", "Located near Rivière des Anguilles in the south", "Houses a distillery for traditional agricultural rum", "Features a dedicated 'Vanilla House' (Maison de la Vanille)", "The original house was built using planks from ships", "The sugar processing factory was relocated in the 1970s"],
+    },
   },
   {
     id: "mauritius-robert-hart-museum-landmarks-v2",
@@ -380,6 +608,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Known as 'La Nef'", "Built from coral and shells", "Located in Souillac", "Former home of the poet"],
     },
     imageHint: "La Nef Robert Edward Hart Museum coral house",
+    descriptionAdvanced: {
+      de: "Das Robert Edward Hart Museum in Souillac, bekannt als 'La Nef', ist das ehemalige Wohnhaus des berühmten mauritischen Dichters. Das einzigartige Gebäude wurde aus Korallengestein errichtet und liegt direkt an der Küste. Es bewahrt das literarische Erbe Harts und zeigt persönliche Gegenstände, Manuskripte und Möbel, die seinen asketischen und naturverbundenen Lebensstil widerspiegeln.",
+      hu: "A Souillac-ban található Robert Edward Hart Múzeum, közismert nevén 'La Nef', a híres mauritiusi költő egykori lakóháza. Az egyedülálló épület korallkőből készült, és közvetlenül a tengerparton fekszik. Megőrzi Hart irodalmi örökségét, bemutatva személyes tárgyait, kéziratait és bútorait, amelyek aszketikus és természetközeli életmódját tükrözik.",
+      ro: "Muzeul Robert Edward Hart din Souillac, cunoscut sub numele de 'La Nef', este fosta locuință a celebrului poet mauritian. Clădirea unică a fost construită din piatră de coral și este situată chiar pe malul mării. Muzeul păstrează moștenirea literară a lui Hart, expunând obiecte personale, manuscrise și mobilier care reflectă stilul său de viață ascetic.",
+      en: "The Robert Edward Hart Museum in Souillac, known as 'La Nef', is the former residence of the famous Mauritian poet. The unique building was constructed using coral stones and is situated directly on the coast. It preserves Hart's literary legacy, displaying personal belongings, manuscripts, and furniture that reflect his ascetic and nature-focused lifestyle.",
+    },
+    factsAdvanced: {
+      de: ["Das Haus 'La Nef' besteht vollständig aus Korallensteinen", "Robert Edward Hart lebte hier bis zu seinem Tod 1954", "Das Museum wurde im Jahr 1967 eröffnet", "Befindet sich in Souillac an der Südküste", "Hart gilt als einer der bedeutendsten Dichter des Indischen Ozeans", "Die Anlage bietet einen weiten Blick auf den Ozean"],
+      hu: ["A 'La Nef' nevű ház teljes egészében korallkőből épült", "Robert Edward Hart 1954-ben bekövetkezett haláláig élt itt", "A múzeumot 1967-ben nyitották meg", "Souillac-ban, a déli tengerparton található", "Hart az Indiai-óceán egyik legjelentősebb költőjének számít", "A telek tágas kilátást nyújt az óceánra"],
+      ro: ["Casa 'La Nef' este construită integral din blocuri de coral", "Robert Edward Hart a locuit aici până la moartea sa în 1954", "Muzeul a fost deschis publicului în anul 1967", "Situat în Souillac, pe coasta de sud a insulei", "Hart este considerat unul dintre cei mai importanți poeți din Oceanul Indian", "Proprietatea oferă o vedere panoramică spre ocean"],
+      en: ["The house named 'La Nef' is built entirely of coral stones", "Robert Edward Hart lived here until his death in 1954", "The museum was officially opened in the year 1967", "Located in Souillac on the southern coast", "Hart is considered one of the leading poets of the Indian Ocean", "The grounds offer an expansive view of the southern sea"],
+    },
   },
   {
     id: "mauritius-pointe-du-diable-landmarks-v2",
@@ -399,6 +639,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["French coastal fortification", "Overlooks the Indian Ocean", "Historic cannons preserved", "Near Vieux Grand Port"],
     },
     imageHint: "Pointe du Diable battery with old cannons",
+    descriptionAdvanced: {
+      de: "Die Batterie Pointe du Diable ist eine historische französische Befestigungsanlage aus dem 18. Jahrhundert an der Ostküste von Mauritius. Sie wurde zur Verteidigung des Vieux Grand Port gegen feindliche Flotten errichtet. Heute sind mehrere Originalkanonen auf steinernen Plattformen erhalten, die auf das Meer gerichtet sind. Der Ort bietet einen weiten Blick über die Bucht und ist ein Zeugnis der kolonialen Militärarchitektur.",
+      hu: "A Pointe du Diable üteg egy 18. századi francia erődítmény Mauritius keleti partján, Vieux Grand Port közelében. Az erődöt a stratégiai fontosságú öböl védelmére építették a brit flotta ellen. Ma is láthatóak az eredeti öntöttvas ágyúk a kőpadkákra helyezve, amelyek az óceán felé néznek. A helyszín fontos történelmi emlékhely, amely bemutatja a sziget gyarmati korszakának védelmi rendszerét.",
+      ro: "Bateria Pointe du Diable este o fortificație franceză istorică din secolul al XVIII-lea, situată pe coasta de est a Mauritius. A fost construită pentru a apăra Vieux Grand Port împotriva invaziilor navale britanice. Astăzi, mai multe tunuri originale din fontă sunt încă vizibile pe platformele de piatră orientate spre ocean. Situl oferă o perspectivă asupra arhitecturii militare coloniale și a importanței strategice a regiunii.",
+      en: "The Pointe du Diable Battery is an 18th-century French coastal fortification located on the east coast of Mauritius. It was constructed to defend Vieux Grand Port from potential British naval attacks. Several original cast-iron cannons remain on their stone mounts, pointing towards the sea. The site serves as a significant historical landmark reflecting the island's colonial military heritage and strategic importance.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr ca. 1750", "Standort Vieux Grand Port", "Verteidigung gegen Briten", "Original-Kanonen erhalten", "Französische Architektur", "Strategischer Aussichtspunkt"],
+      hu: ["1750 körül épült", "Vieux Grand Port mellett", "Francia hadi építészet", "Eredeti ágyúk láthatóak", "Keleti parti elhelyezkedés", "Stratégiai védelmi pont"],
+      ro: ["Construită în cca. 1750", "Locație Vieux Grand Port", "Tunuri originale păstrate", "Arhitectură militară franceză", "Punct de observație costier", "Apărare împotriva britanicilor"],
+      en: ["Built around 1750", "Located at Vieux Grand Port", "Original cannons present", "French military architecture", "Coastal defense site", "Strategic viewpoint"],
+    },
   },
   {
     id: "mauritius-ile-de-la-passe-landmarks-v2",
@@ -418,6 +670,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Site of the 1810 battle", "Ruins of batteries and barracks", "Strategic control point", "Accessible only by boat"],
     },
     imageHint: "Ile de la Passe island ruins and fortifications",
+    descriptionAdvanced: {
+      de: "Die Befestigungen auf der Ile de la Passe sicherten den strategischen Zugang zum Hafen von Grand Port. Die felsige Insel war 1810 Schauplatz der berühmten Seeschlacht von Grand Port zwischen den napoleonischen und britischen Flotten. Erhaltene Ruinen von Kasernen und Batterien zeugen von der wechselvollen Geschichte der Insel. Die massiven Steinmauern wurden sowohl von französischen als auch später von britischen Truppen genutzt.",
+      hu: "Az Ile de la Passe erődítményei Mauritius egyik legfontosabb tengeri átjáróját védték Grand Port öblénél. A sziget központi szerepet játszott az 1810-es Grand Port-i tengeri csatában, amely a franciák egyetlen tengeri győzelme volt Napóleon alatt. A területen ma is láthatóak az egykori laktanyák, raktárak és ágyúállások romjai. A falak a francia és a későbbi brit katonai mérnöki munka emlékeit őrizik.",
+      ro: "Fortificațiile de pe Ile de la Passe controlau accesul strategic în golful Grand Port. Insula a fost teatrul celebrei Bătălii de la Grand Port din 1810, singura victorie navală franceză sub Napoleon. Ruinele rămase includ cazărmi, depozite de muniție și baterii de artilerie din piatră. Structurile reflectă utilizarea succesivă a insulei de către forțele franceze și britanice de-a lungul secolelor.",
+      en: "The fortifications on Ile de la Passe protected the strategic entrance to the Grand Port bay. The islet was the site of the 1810 Battle of Grand Port, the only French naval victory during the Napoleonic Wars. Extant ruins include barracks, ammunition stores, and artillery batteries built from volcanic stone. The structures showcase the military engineering of both the French and later British colonial periods.",
+    },
+    factsAdvanced: {
+      de: ["Seeschlacht von 1810", "Strategischer Hafeneingang", "Napoleonische Ära", "Britische Übernahme 1810", "Ruinen von Kasernen", "Nationales Kulturerbe"],
+      hu: ["1810-es tengeri csata", "Grand Port bejárata", "Napóleoni háborúk", "Kőerődítmények romjai", "Brit és francia múlt", "Védett műemlék"],
+      ro: ["Bătălia navală din 1810", "Acces golful Grand Port", "Ruine de cazărmi", "Victorie napoleoniană", "Ocupație britanică ulterioră", "Monument istoric național"],
+      en: ["Battle of Grand Port 1810", "Strategic bay entrance", "Napoleonic era site", "Ruins of military barracks", "French and British history", "National heritage site"],
+    },
   },
   {
     id: "mauritius-ile-aux-fouquets-lighthouse-landmarks-v2",
@@ -437,6 +701,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Built in 1864", "Now decommissioned", "Located on 'Lighthouse Island'", "Listed national monument"],
     },
     imageHint: "Ile aux Fouquets abandoned lighthouse",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm auf der Ile aux Fouquets, auch Phare de l'Ile aux Fouquets genannt, wurde 1864 in Betrieb genommen. Er befindet sich auf einer kleinen felsigen Insel nahe der Ile de la Passe am Eingang zum Grand Port. Der markante Steinturm diente über ein Jahrhundert lang der Navigation, bevor er außer Betrieb genommen wurde. Heute ist das Bauwerk eine malerische Ruine, die den extremen Wetterbedingungen des Indischen Ozeans ausgesetzt ist.",
+      hu: "Az Ile aux Fouquets világítótorony, más néven Phare de l'Ile aux Fouquets, 1864-ben kezdte meg működését. A Grand Port öböl bejáratánál, egy kis sziklaszigeten áll, az Ile de la Passe közelében. A masszív kőtorony több mint egy évszázadon át segítette a hajók tájékozódását a veszélyes zátonyok között. Ma már elhagyatott, romos állapotban van, de továbbra is Mauritius egyik legikonikusabb tengeri építménye.",
+      ro: "Farul de pe Ile aux Fouquets, cunoscut și sub numele de Phare de l'Ile aux Fouquets, a fost dat în folosință în 1864. Este situat pe o mică insulă stâncoasă lângă Ile de la Passe, la intrarea în Grand Port. Turnul de piatră a servit navigației maritime timp de peste un secol înainte de a fi dezafectat. În prezent, structura este o ruină pitorească ce rezistă condițiilor meteorologice aspre ale Oceanului Indian.",
+      en: "The Ile aux Fouquets Lighthouse, also known as Phare de l'Ile aux Fouquets, was commissioned in 1864. Located on a small rocky islet near Ile de la Passe, it marks the entrance to the Grand Port bay. The robust stone tower guided maritime traffic through dangerous reefs for over a century. Now abandoned and in a state of ruin, it remains one of the most iconic and photographed maritime landmarks in Mauritius.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme 1864", "Höhe ca. 26 Meter", "Standort Grand Port", "Baujahr 19. Jahrhundert", "Außer Betrieb seit 1908", "Vulkanisches Gestein"],
+      hu: ["1864-ben épült", "Magassága kb. 26 méter", "Grand Port öböl", "1908-ban üzemen kívül", "Vulkáni kőből épült", "Veszélyes zátonyok jelzője"],
+      ro: ["Dat în folosință în 1864", "Înălțime cca. 26 metri", "Locație Grand Port", "Dezafectat în 1908", "Construit din piatră", "Ghidează traficul maritim"],
+      en: ["Commissioned in 1864", "Height approx. 26 meters", "Located at Grand Port", "Decommissioned in 1908", "Built of volcanic stone", "Iconic maritime ruin"],
+    },
   },
   {
     id: "mauritius-st-gabriel-cathedral-landmarks-v2",
@@ -456,6 +732,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Built between 1936–1939", "Largest church in the Indian Ocean", "Handmade stone blocks", "Located on Rodrigues Island"],
     },
     imageHint: "St. Gabriel Cathedral stone building Rodrigues",
+    descriptionAdvanced: {
+      de: "Die Kathedrale St. Gabriel auf der Insel Rodrigues ist das größte religiöse Gebäude der Insel und Sitz des Apostolischen Vikariats. Sie wurde zwischen 1936 und 1939 von der lokalen Bevölkerung aus Korallenkalkstein und Lavagestein errichtet. Das Bauwerk beeindruckt durch seine massiven Dimensionen und die schlichte, aber würdevolle Architektur im Hochland der Insel. Die Kirche ist das spirituelle Zentrum für die überwiegend katholische Gemeinschaft von Rodrigues.",
+      hu: "A Szent Gábriel-székesegyház Rodrigues szigetének legnagyobb vallási épülete és az apostoli vikariátus székhelye. 1936 és 1939 között épült a helyi lakosság önkéntes munkájával, korallmészkő és vulkáni kőzet felhasználásával. Az épület hatalmas méreteivel és egyszerű, mégis méltóságteljes megjelenésével emelkedik ki a sziget belső fennsíkján. A katedrális a rodrigues-i katolikus közösség legfontosabb lelki és közösségi központja.",
+      ro: "Catedrala Sfântul Gabriel de pe insula Rodrigues este cea mai mare clădire religioasă din insulă și sediul Vicariatului Apostolic. A fost construită între 1936 și 1939 de către populația locală folosind calcar coralifer și piatră vulcanică. Structura impresionează prin dimensiunile sale masive și arhitectura sobră situată în zonele înalte ale insulei. Catedrala reprezintă centrul spiritual principal al comunității catolice din Rodrigues.",
+      en: "St. Gabriel Cathedral on Rodrigues Island is the largest religious building on the island and the seat of the Apostolic Vicariate. Built between 1936 and 1939, it was constructed by the local community using coral limestone and volcanic rock. The edifice is notable for its massive scale and simple yet dignified architecture, located in the island's highlands. It serves as the primary spiritual hub for the predominantly Catholic population of Rodrigues.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit 1936-1939", "Material Korallenkalk", "Insel Rodrigues", "Größte Kirche der Insel", "Sitz des Vikariats", "Lokal handgefertigt"],
+      hu: ["1936-1939 között épült", "Korallmészkő alapanyag", "Rodrigues-sziget", "Legnagyobb helyi templom", "Közösségi építkezés", "Katolikus központ"],
+      ro: ["Construită 1936-1939", "Material calcar coralifer", "Insula Rodrigues", "Cea mai mare biserică locală", "Sediul Vicariatului", "Muncă comunitară"],
+      en: ["Built 1836-1939", "Made of coral limestone", "Located on Rodrigues Island", "Largest local church", "Seat of Apostolic Vicariate", "Community-built project"],
+    },
   },
   {
     id: "mauritius-maheswarnath-mandir-landmarks-v2",
@@ -475,6 +763,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Founded in 1888", "Most important temple in Triolet", "Colorful decorations", "National heritage site"],
     },
     imageHint: "Maheswarnath Mandir Hindu temple Triolet",
+    descriptionAdvanced: {
+      de: "Der Maheswarnath Mandir in Triolet ist der älteste und größte Hindu-Tempel auf Mauritius. Die Grundsteinlegung erfolgte 1888 durch Pandit Sanjibonlall Ramsoondur, der aus Indien eingewandert war. Der Tempelkomplex ist Lord Shiva gewidmet und zeichnet sich durch seine weiße Architektur mit kunstvollen Skulpturen aus. Er ist ein zentraler Ort für das jährliche Maha Shivaratri-Fest und repräsentiert das spirituelle Erbe der indischstämmigen Bevölkerung.",
+      hu: "A Maheswarnath Mandir Trioletben található, és ez Mauritius legrégebbi, valamint legnagyobb hindu templomkomplexuma. Az alapkövet 1888-ban tette le Pandit Sanjibonlall Ramsoondur, aki Indiából érkezett a szigetre. A templomot az Úr Sivának szentelték, és díszes fehér falaival, valamint részletgazdag szobraival tűnik ki. A helyszín a Maha Shivaratri ünnepségek egyik legfontosabb állomása és a sziget hindu örökségének szimbóluma.",
+      ro: "Maheswarnath Mandir din Triolet este cel mai vechi și cel mai mare complex de temple hinduse din Mauritius. Piatra de temelie a fost pusă în 1888 de către Pandit Sanjibonlall Ramsoondur, un imigrant din India. Templul este dedicat Domnului Shiva și se remarcă prin arhitectura sa albă decorată cu sculpturi elaborate ale zeităților. Este un loc central pentru festivalul anual Maha Shivaratri și un simbol al moștenirii spirituale indiene.",
+      en: "Maheswarnath Mandir in Triolet is the oldest and largest Hindu temple complex in Mauritius. Founded in 1888 by Pandit Sanjibonlall Ramsoondur, an immigrant from India, it is dedicated to Lord Shiva. The temple is renowned for its elegant white architecture and intricate sculptures of Hindu deities. It serves as a major site for the annual Maha Shivaratri festival and stands as a testament to the island's rich Indian spiritual heritage.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1888", "Standort Triolet", "Ältester Hindu-Tempel", "Lord Shiva gewidmet", "Indischer Baustil", "Zentrum von Maha Shivaratri"],
+      hu: ["1888-ban alapították", "Helyszín Triolet", "Legrégebbi hindu templom", "Siva istennek szentelve", "Fehér homlokzat", "Kulturális örökség"],
+      ro: ["Fondat în 1888", "Locație Triolet", "Cel mai vechi templu hindus", "Dedicat lui Shiva", "Sculpturi elaborate", "Centru de pelerinaj"],
+      en: ["Founded in 1888", "Located in Triolet", "Oldest Hindu temple", "Dedicated to Lord Shiva", "Intricate deity sculptures", "Maha Shivaratri hub"],
+    },
   },
   {
     id: "mauritius-kaylasson-temple-landmarks-v2",
@@ -494,6 +794,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Official: Arulmigu Sockalingum", "Built in 1854", "Dravidian style architecture", "National cultural heritage"],
     },
     imageHint: "Kaylasson Tamil temple colorful gopuram",
+    descriptionAdvanced: {
+      de: "Der Kaylasson-Tempel, offiziell Arulmigu Sivasubramaniar Kovil, ist einer der bedeutendsten tamilischen Tempel in Port Louis. Er wurde im späten 19. Jahrhundert erbaut und ist ein herausragendes Beispiel für die dravidische Architektur. Der Tempel besticht durch seine farbenfrohen Gopurams (Tortürme), die mit hunderten von detaillierten Götterfiguren verziert sind. Als kulturelles Zentrum der tamilischen Gemeinschaft ist er Schauplatz wichtiger religiöser Feste wie Thaipoosam Cavadee.",
+      hu: "A Kaylasson-templom, hivatalos nevén Arulmigu Sivasubramaniar Kovil, Port Louis egyik legfontosabb tamil temploma. A 19. század végén épült, és a dravida építészet lenyűgöző példája a szigeten. A templom legfőbb jellemzője a színes gopuram (kaputorony), amelyet istenek és mitológiai lények százai díszítenek. A tamil közösség vallási életének központja, ahol a Thaipoosam Cavadee ünnepségeket nagy pompával tartják.",
+      ro: "Templul Kaylasson, oficial Arulmigu Sivasubramaniar Kovil, este unul dintre cele mai importante temple tamile din Port Louis. Construit la sfârșitul secolului al XIX-lea, este un exemplu remarcabil de arhitectură dravidiană. Templul se distinge prin gopuram-urile sale colorate (turnuri de intrare) decorate cu sute de figuri detaliate ale zeităților. Este un centru spiritual vital pentru comunitatea tamilă, găzduind festivaluri majore precum Thaipoosam Cavadee.",
+      en: "Kaylasson Temple, officially known as Arulmigu Sivasubramaniar Kovil, is one of the most significant Tamil temples in Port Louis. Built in the late 19th century, it is a premier example of Dravidian architecture in Mauritius. The temple is famous for its vibrantly colored gopurams (gateway towers) adorned with hundreds of detailed deity figures. It serves as a spiritual cornerstone for the Tamil community, particularly during the Thaipoosam Cavadee festival.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr ca. 1868", "Standort Port Louis", "Dravidische Architektur", "Farbenfrohe Gopurams", "Tamilisches Heiligtum", "Kulturerbe seit 2004"],
+      hu: ["1868-ban épült", "Helyszín Port Louis", "Dravida építészeti stílus", "Színes kaputornyok", "Tamil vallási központ", "Nemzeti műemlék"],
+      ro: ["Construit în cca. 1868", "Locație Port Louis", "Arhitectură dravidiană", "Gopuram-uri colorate", "Centru tamil", "Monument protejat"],
+      en: ["Built around 1868", "Located in Port Louis", "Dravidian style architecture", "Colorful gopuram towers", "Tamil religious hub", "National heritage site"],
+    },
   },
   {
     id: "mauritius-sagar-shiv-mandir-landmarks-v2",
@@ -513,6 +825,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Located on Goyave de Chine island", "Situated in the east", "Large Shiva statue", "Place for pilgrimage"],
     },
     imageHint: "Sagar Shiv Mandir temple on a small island",
+    descriptionAdvanced: {
+      de: "Der Sagar Shiv Mandir befindet sich auf der kleinen Insel Goyave de Chine an der Ostküste von Mauritius. Dieser moderne Hindutempel ist über eine Brücke mit dem Festland verbunden und bietet eine einzigartige Lage direkt am Indischen Ozean. Besonders bekannt ist die 33 Meter hohe bronzefarbene Statue von Lord Shiva, die über dem Komplex wacht. Der Tempel wurde 2007 eingeweiht und hat sich schnell zu einem beliebten Pilgerziel und Ort der Stille entwickelt.",
+      hu: "A Sagar Shiv Mandir a Goyave de Chine nevű kis szigeten található Mauritius keleti partjánál. Ez a modern hindu templom egy hídon keresztül érhető el, és közvetlenül az Indiai-óceán partján fekszik. A templom legfőbb látványossága a 33 méter magas bronzszínű Siva-szobor, amely az egyik legnagyobb a szigeten. A 2007-ben felavatott épületegyüttes gyorsan a zarándokok és a csendet kereső látogatók kedvelt célpontjává vált.",
+      ro: "Sagar Shiv Mandir este situat pe mica insulă Goyave de Chine, pe coasta de est a Mauritius. Acest templu hindus modern este legat de țărm printr-un pod și oferă o locație spectaculoasă la marginea Oceanului Indian. Elementul central este statuia de bronz a lui Shiva, înaltă de 33 de metri, care domină complexul. Inaugurat în 2007, templul a devenit rapid un loc popular de pelerinaj și meditație datorită cadrului său natural liniștit.",
+      en: "Sagar Shiv Mandir is situated on the islet of Goyave de Chine on the east coast of Mauritius. This modern Hindu temple is connected to the mainland by a bridge and occupies a unique setting directly bordering the Indian Ocean. Its most prominent feature is the 33-meter high bronze-colored statue of Lord Shiva overlooking the complex. Inaugurated in 2007, the temple has rapidly become a major pilgrimage site and a serene place for reflection.",
+    },
+    factsAdvanced: {
+      de: ["Einweihung 2007", "33m hohe Shiva-Statue", "Lage auf einer Insel", "Ostküste Mauritius", "Über Brücke erreichbar", "Moderner Hindu-Tempel"],
+      hu: ["2007-ben avatták fel", "33 méteres Siva-szobor", "Szigeten fekszik", "Keleti parti helyszín", "Hídon megközelíthető", "Zarándokhely"],
+      ro: ["Inaugurat în 2007", "Statuie Shiva de 33m", "Situat pe o insulă", "Coasta de est", "Acces prin pod", "Loc de pelerinaj modern"],
+      en: ["Inaugurated in 2007", "33m high Shiva statue", "Located on an islet", "East coast location", "Bridge access provided", "Modern Hindu sanctuary"],
+    },
   },
   {
     id: "mauritius-siv-soopramaniar-kovil-landmarks-v2",
@@ -532,6 +856,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Located in Curepipe", "Dedicated to Lord Murugan", "Center for Kavadi celebrations", "Colorful gopurams"],
     },
     imageHint: "Siv Soopramaniar Kovil Tamil temple Curepipe",
+    descriptionAdvanced: {
+      de: "Der Siv Soopramaniar Kovil ist ein prachtvoller tamilischer Tempel, der oft am Fuße von Bergen oder in städtischen Zentren wie Port Louis zu finden ist. Er ist Lord Murugan gewidmet und zeichnet sich durch seine extrem detaillierte dravidische Handwerkskunst aus. Die Wände und Decken sind mit kunstvollen Fresken und Skulpturen geschmückt, die Szenen aus den Veden darstellen. Der Tempel ist ein wichtiger Ort für rituelle Waschungen und tägliche Gebete der gläubigen Gemeinschaft.",
+      hu: "A Siv Soopramaniar Kovil egy díszes tamil templom, amely gyakran hegyek lábánál vagy városi központokban, például Port Louis-ban található. A templomot Murugan istennek szentelték, és a dravida kézművesség kiemelkedő példája. Falait és mennyezetét aprólékos freskók és szobrok díszítik, amelyek a védikus mitológia jeleneteit ábrázolják. A hívők számára ez egy fontos helyszín a rituális tisztálkodáshoz és a napi imádságok elvégzéséhez.",
+      ro: "Siv Soopramaniar Kovil este un templu tamil magnific, adesea situat la poalele munților sau în centre urbane precum Port Louis. Dedicat zeului Murugan, templul se remarcă prin măiestria detaliată a stilului dravidian. Pereții și tavanele sunt împodobite cu fresce elaborate și sculpturi ce înfățișează scene din scripturile vedice. Templul reprezintă un spațiu vital pentru purificări rituale și rugăciunile zilnice ale comunității tamile.",
+      en: "Siv Soopramaniar Kovil is a magnificent Tamil temple often located at the base of mountains or in urban centers like Port Louis. Dedicated to Lord Murugan, it showcases the intricate craftsmanship of Dravidian temple architecture. The interior is adorned with detailed frescoes and sculptures depicting scenes from Vedic mythology. It serves as a vital center for ritual purifications and daily prayers for the island's vibrant Tamil community.",
+    },
+    factsAdvanced: {
+      de: ["Lord Murugan gewidmet", "Dravidische Architektur", "Detailreiche Fresken", "Tamilisches Heiligtum", "Zentrum ritueller Feste", "Ort der Meditation"],
+      hu: ["Murugan isten tiszteletére", "Dravida stílus", "Részletes freskók", "Tamil vallási helyszín", "Rituális ünnepségek", "Spirituális központ"],
+      ro: ["Dedicat lui Murugan", "Arhitectură dravidiană", "Fresce interioare", "Sanctuar tamil", "Loc de rugăciune zilnică", "Măiestrie artizanală"],
+      en: ["Dedicated to Lord Murugan", "Dravidian architecture", "Detailed frescoes", "Tamil sacred site", "Ritual festival center", "Spiritual sanctuary"],
+    },
   },
   {
     id: "mauritius-st-therese-church-landmarks-v2",
@@ -551,6 +887,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Built in 1868", "Gothic architecture", "Landmark of Curepipe", "Near the Hotel de Ville"],
     },
     imageHint: "St. Therese Church Gothic building Curepipe",
+    descriptionAdvanced: {
+      de: "Die Kirche St. Thérèse in Curepipe ist ein markantes neugotisches Bauwerk im Herzen des zentralen Plateaus von Mauritius. Sie wurde in der zweiten Hälfte des 19. Jahrhunderts erbaut und ersetzte eine frühere Holzkapelle. Die Kirche besticht durch ihre hohen Spitztürme und die Verwendung von dunklem lokalem Basaltgestein. Als eine der größten katholischen Kirchen des Landes ist sie ein Wahrzeichen der Stadt Curepipe und ein Zentrum des religiösen Lebens.",
+      hu: "A curepipe-i Szent Teréz-templom egy jelentős neogótikus építmény Mauritius központi fennsíkjának szívében. A 19. század második felében épült, felváltva egy korábbi fa kápolnát. A templom kiemelkedik magas, hegyes tornyaival és a sötét, helyi bazaltkő használatával. Az ország egyik legnagyobb katolikus templomaként Curepipe városának meghatározó jelképe és a hívők közösségi életének fontos helyszíne.",
+      ro: "Biserica Sfânta Tereza din Curepipe este o structură neogotică impunătoare situată în inima platoului central al Mauritius. Construită în a doua jumătate a secolului al XIX-lea, aceasta a înlocuit o capelă anterioară din lemn. Biserica se distinge prin turnurile sale ascuțite și utilizarea bazaltului local de culoare închisă. Fiind una dintre cele mai mari biserici catolice din țară, este un reper emblematic al orașului Curepipe.",
+      en: "St. Therese Church in Curepipe is a prominent neo-Gothic structure located in the heart of Mauritius' central plateau. Constructed in the latter half of the 19th century, it replaced an earlier wooden chapel. The church is noted for its high spires and the extensive use of dark local basalt stone in its masonry. As one of the largest Catholic churches in the country, it remains a defining landmark of Curepipe and a hub for the religious community.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr ca. 1868", "Neugotischer Stil", "Standort Curepipe", "Material lokaler Basalt", "Zentrales Plateau", "Katholische Hauptkirche"],
+      hu: ["1868 körül épült", "Neogótikus stílus", "Helyszín Curepipe", "Helyi bazalt építőanyag", "Központi fennsík", "Katolikus plébánia"],
+      ro: ["Construită cca. 1868", "Stil neogotic", "Locație Curepipe", "Material bazalt local", "Platoul central", "Biserică catolică majoră"],
+      en: ["Built around 1868", "Neo-Gothic style", "Located in Curepipe", "Local basalt stone", "Central plateau landmark", "Major Catholic parish"],
+    },
   },
   {
     id: "mauritius-glass-gallery-landmarks-v2",
@@ -570,6 +918,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Recycled glass used", "Located in Phoenix", "Glassblowing demonstrations", "Unique souvenirs"],
     },
     imageHint: "Mauritius Glass Gallery workshop and exhibits",
+    descriptionAdvanced: {
+      de: "Die Mauritius Glass Gallery in Phoenix ist eine innovative Einrichtung, die sich der Kunst des Glasrecyclings widmet. Hier wird aus weggeworfenem Glas kunstvolle Handwerkskunst geschaffen, die von Haushaltswaren bis hin zu dekorativen Skulpturen reicht. Besucher können Glasbläsern bei der Arbeit zusehen und mehr über nachhaltige Produktionsprozesse erfahren. Eine Besonderheit ist die 'Hands of Fame' Sammlung, in der Handabdrücke berühmter Persönlichkeiten in Glas verewigt sind.",
+      hu: "A Mauritius Glass Gallery Phoenix városában található, és az üvegújrahasznosítás művészetének szentelt innovatív központ. Itt a kidobott üvegekből egyedi kézműves termékeket, háztartási tárgyakat és díszes szobrokat készítenek. A látogatók élőben nézhetik végig az üvegfúvók munkáját, és megismerhetik a fenntartható gyártási folyamatokat. A galéria egyik érdekessége a 'Hands of Fame' gyűjtemény, ahol hírességek kézlenyomatai láthatóak üvegbe öntve.",
+      ro: "Mauritius Glass Gallery din Phoenix este un centru inovator dedicat artei reciclării sticlei. Aici, sticla uzată este transformată în obiecte artizanale deosebite, de la articole de uz casnic la sculpturi decorative. Vizitatorii pot urmări maeștrii sticlari la lucru și pot învăța despre procesele de producție sustenabile. O atracție specială este colecția 'Hands of Fame', unde amprentele unor personalități celebre sunt imortalizate în sticlă.",
+      en: "The Mauritius Glass Gallery in Phoenix is an innovative facility dedicated to the art of glass recycling. It transforms discarded glass into exquisite handcrafted items, ranging from household wares to decorative sculptures. Visitors can observe skilled glassblowers at work and learn about sustainable manufacturing processes. A unique feature is the 'Hands of Fame' collection, which showcases glass imprints of hands from various international celebrities.",
+    },
+    factsAdvanced: {
+      de: ["Standort Phoenix", "Glasrecycling-Zentrum", "Live-Glasblasen", "Nachhaltige Kunst", "Hands of Fame Sammlung", "Gegründet 1991"],
+      hu: ["Helyszín Phoenix", "Üvegújrahasznosítás", "Élő üvegfúvás", "Fenntartható művészet", "Hands of Fame gyűjtemény", "Alapítva 1991"],
+      ro: ["Locație Phoenix", "Reciclarea sticlei", "Suflare sticlă live", "Artă sustenabilă", "Colecția Hands of Fame", "Fondată în 1991"],
+      en: ["Located in Phoenix", "Glass recycling center", "Live glassblowing demos", "Sustainable art focus", "Hands of Fame exhibit", "Established in 1991"],
+    },
   },
   {
     id: "mauritius-queen-victoria-statue-landmarks-v2",
@@ -589,6 +949,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Located in Port Louis", "In front of Government House", "Victorian heritage", "Stands in a central square"],
     },
     imageHint: "Queen Victoria statue in Port Louis",
+    descriptionAdvanced: {
+      de: "Die Statue von Königin Victoria steht prominent vor dem Regierungsgebäude in Port Louis. Das bronzene Denkmal wurde 1897 anlässlich des Diamantenen Thronjubiläums der Monarchin enthüllt. Es symbolisiert die lange Ära der britischen Herrschaft über Mauritius und die Bedeutung der britischen Monarchie in der Kolonialgeschichte. Die Statue ist ein wichtiges historisches Wahrzeichen in der Hauptstadt und zeugt von der politisch-kulturellen Vergangenheit der Insel.",
+      hu: "Viktória királynő szobra Port Louis kormányzati épülete előtt áll kiemelt helyen. A bronz emlékművet 1897-ben leplezték le az uralkodónő gyémántjubileuma alkalmából. A szobor Mauritius brit fennhatóságának hosszú korszakát és a brit monarchia gyarmati történelemben betöltött szerepét szimbolizálja. A főváros egyik legfontosabb történelmi emlékműve, amely emlékeztet a sziget politikai és kulturális múltjára.",
+      ro: "Statuia Reginei Victoria este situată proeminent în fața clădirii Guvernului din Port Louis. Monumentul din bronz a fost dezvelit în 1897 pentru a comemora Jubileul de Diamant al monarhului. Statuia simbolizează perioada lungă de dominație britanică în Mauritius și influența monarhiei britanice în istoria colonială. Este un reper istoric major în capitală, reflectând trecutul politic și cultural al insulei.",
+      en: "The Statue of Queen Victoria stands prominently in front of the Government House in Port Louis. Unveiled in 1897 to commemorate the Diamond Jubilee of the monarch, the bronze monument reflects the long period of British rule in Mauritius. The statue serves as a symbolic link to the British Monarchy's role in the island's colonial history. It remains a significant historical landmark in the capital, representing the island's political and cultural heritage.",
+    },
+    factsAdvanced: {
+      de: ["Enthüllung 1897", "Material Bronze", "Standort Port Louis", "Diamantenes Jubiläum", "Vor Regierungsgebäude", "Britische Kolonialzeit"],
+      hu: ["1897-ben avatták fel", "Bronz alapanyag", "Helyszín Port Louis", "Gyémántjubileum emlékére", "Kormányzati épület előtt", "Brit gyarmati múlt"],
+      ro: ["Dezvelită în 1897", "Material bronz", "Locație Port Louis", "Jubileul de Diamant", "Lângă clădirea Guvernului", "Istorie colonială britanică"],
+      en: ["Unveiled in 1897", "Made of bronze", "Located in Port Louis", "Diamond Jubilee memorial", "Near Government House", "British colonial symbol"],
+    },
   },
   {
     id: "mauritius-plaza-theatre-landmarks-v2",
@@ -608,6 +980,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Located in Rose Hill", "Opened in 1933", "Italian Renaissance style", "Largest theatre in the Indian Ocean"],
     },
     imageHint: "Plaza Theatre Rose Hill facade",
+    descriptionAdvanced: {
+      de: "Das Plaza Theatre in Rose Hill wurde 1929 eröffnet und ist eines der ältesten und bedeutendsten Theaterhäuser im südwestlichen Indischen Ozean. Die Architektur im italienischen Stil verleiht dem Gebäude eine klassische Eleganz und bietet Platz für über 1.500 Zuschauer. Es war über Jahrzehnte das kulturelle Herz von Mauritius, in dem Opern, Theaterstücke und Konzerte stattfanden. Nach umfangreichen Renovierungsarbeiten bleibt es ein geschätztes nationales Baudenkmal.",
+      hu: "A Rose Hill-i Plaza Színház 1929-ben nyílt meg, és az Indiai-óceán délnyugati térségének egyik legrégebbi és legfontosabb színházi épülete. Az olasz stílusú építészet klasszikus eleganciát kölcsönöz az épületnek, amely több mint 1500 néző befogadására alkalmas. Évtizedeken át Mauritius kulturális szíve volt, ahol operákat, színdarabokat és koncerteket rendeztek. A jelentős felújítások után is az ország egyik legfontosabb műemléke maradt.",
+      ro: "Teatrul Plaza din Rose Hill a fost deschis în 1929 și este una dintre cele mai vechi și importante săli de teatru din sud-vestul Oceanului Indian. Arhitectura în stil italian conferă clădirii o eleganță clasică, având o capacitate de peste 1.500 de spectatori. Timp de decenii, a reprezentat centrul cultural al Mauritius, găzduind opere, piese de teatru și concerte. După renovări ample, rămâne un monument național de mare valoare.",
+      en: "The Plaza Theatre in Rose Hill opened in 1929 and is one of the oldest and most prestigious performing arts venues in the South-West Indian Ocean. Its Italianate architecture provides classical elegance, featuring a seating capacity of over 1,500. For decades, it served as the cultural heart of Mauritius, hosting operas, plays, and concerts. Following extensive restoration work, it continues to be a cherished national monument and cultural landmark.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung 1929", "Standort Rose Hill", "Italienischer Baustil", "1.500 Sitzplätze", "Nationales Baudenkmal", "Kulturzentrum"],
+      hu: ["1929-ben nyílt meg", "Helyszín Rose Hill", "Olasz építészeti stílus", "1500 férőhely", "Nemzeti műemlék", "Kulturális központ"],
+      ro: ["Deschis în 1929", "Locație Rose Hill", "Stil arhitectural italian", "Capacitate 1.500 locuri", "Monument național", "Inimă culturală"],
+      en: ["Opened in 1929", "Located in Rose Hill", "Italianate architecture", "1,500 seat capacity", "National monument status", "Cultural performing hub"],
+    },
   },
   {
     id: "mauritius-institute-landmarks-v2",
@@ -627,6 +1011,18 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Built in 1880", "Houses the Natural History Museum", "19th-century museum architecture", "Located near Government House"],
     },
     imageHint: "Mauritius Institute building Port Louis",
+    descriptionAdvanced: {
+      de: "Das Mauritius Institute in Port Louis wurde 1880 gegründet und ist in einem prachtvollen Gebäude im Kolonialstil untergebracht. Es beherbergt das Naturkundemuseum, dessen wichtigstes Exponat ein fast vollständiges Skelett des ausgestorbenen Dodo ist. Die Institution widmet sich der Erforschung und Bewahrung der lokalen Flora, Fauna und Geschichte. Das Gebäude selbst ist als nationales Erbe geschützt und ein zentraler Punkt für wissenschaftliche Bildung auf der Insel.",
+      hu: "A Port Louis-ban található Mauritius Institute-ot 1880-ban alapították, és egy gyönyörű gyarmati stílusú épületben kapott helyet. Itt található a Természettudományi Múzeum, amelynek leghíresebb kiállítási tárgya a kihalt dodo madár szinte teljes csontváza. Az intézmény célja a helyi növényvilág, állatvilág és történelem kutatása és megőrzése. Az épület nemzeti örökségvédelem alatt áll, és a sziget tudományos oktatásának egyik központi helyszíne.",
+      ro: "Mauritius Institute din Port Louis a fost fondat în 1880 și este găzduit într-o clădire colonială magnifică. Instituția adăpostește Muzeul de Istorie Naturală, unde piesa centrală este un schelet aproape complet de dodo, pasărea dispărută. Institutul este dedicat studiului și conservării florei, faunei și istoriei locale. Clădirea în sine este clasificată ca patrimoniu național și reprezintă un punct focal pentru educația științifică în insulă.",
+      en: "The Mauritius Institute in Port Louis was established in 1880 and is housed in a magnificent colonial-style building. It home to the Natural History Museum, where the most famous exhibit is a near-complete skeleton of the extinct dodo bird. The institution is dedicated to the research and preservation of the island's unique flora, fauna, and history. The building itself is a protected national heritage site and serves as a center for scientific education.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1880", "Standort Port Louis", "Naturkundemuseum", "Dodo-Skelett ausgestellt", "Kolonialarchitektur", "Wissenschaftliches Zentrum"],
+      hu: ["1880-ban alapították", "Helyszín Port Louis", "Természettudományi Múzeum", "Dodo csontváz látható", "Gyarmati építészet", "Tudományos központ"],
+      ro: ["Fondat în 1880", "Locație Port Louis", "Muzeul de Istorie Naturală", "Schelet de dodo expus", "Arhitectură colonială", "Patrimoniu național"],
+      en: ["Established in 1880", "Located in Port Louis", "Natural History Museum", "Dodo skeleton on display", "Colonial architecture", "Scientific research hub"],
+    },
   },
   {
     id: "mauritius-maconde-structure-landmarks-v2",
@@ -646,5 +1042,17 @@ export const mauritiusLandmarksV2: POI[] = [
       en: ["Between Le Morne and Baie du Cap", "Spectacular hairpin bend", "View of the coral reef", "Very popular photo spot"],
     },
     imageHint: "Maconde viewpoint and road curve",
+    descriptionAdvanced: {
+      de: "Der Maconde Viewpoint liegt an einer extrem scharfen Kurve der Küstenstraße im Südwesten von Mauritius, nahe Baie du Cap. Der Aussichtspunkt befindet sich auf einem schmalen Felsvorsprung, der weit in das Meer ragt und einen 360-Grad-Blick auf die Lagune bietet. Treppen führen auf die Spitze des Felsens, von wo aus man die Brandung und die Küstenlandschaft beobachten kann. Er gilt als einer der meistfotografierten Orte der Insel aufgrund seiner geometrischen Einzigartigkeit.",
+      hu: "A Maconde kilátópont Mauritius délnyugati részén, Baie du Cap közelében található, a tengerparti út egyik éles kanyarjában. A kilátó egy keskeny sziklakiszögellésen fekszik, amely mélyen benyúlik az óceánba, 360 fokos panorámát nyújtva a lagúnára. Lépcsők vezetnek a szikla tetejére, ahonnan megfigyelhető a hullámverés és a drámai partvonal. Geometriai különlegessége miatt a sziget egyik legtöbbet fényképezett helyszíne.",
+      ro: "Punctul de observație Maconde este situat pe o curbă extrem de strânsă a drumului de coastă din sud-vestul Mauritius, lângă Baie du Cap. Belvedere se află pe un afloriment stâncos îngust care pătrunde în ocean, oferind o vedere panoramică de 360 de grade asupra lagunei. Treptele duc spre vârful stâncii, de unde se poate observa fluxul și peisajul costier. Este considerat unul dintre cele mai fotografiate locuri de pe insulă datorită unicității sale.",
+      en: "Maconde Viewpoint is located on an extremely sharp bend of the coastal road in southwest Mauritius, near Baie du Cap. The viewpoint is set on a narrow rocky outcrop that juts into the ocean, offering 360-degree panoramic views of the lagoon. Stairs lead to the top of the rock, allowing visitors to observe the crashing waves and the dramatic coastline. It is widely considered one of the island's most photographed spots due to its unique geometric setting.",
+    },
+    factsAdvanced: {
+      de: ["Lage Baie du Cap", "360-Grad-Panorama", "Felsvorsprung im Meer", "Südwestküste", "Über Treppen erreichbar", "Beliebtes Fotomotiv"],
+      hu: ["Helyszín Baie du Cap", "360 fokos panoráma", "Tengerbe nyúló szikla", "Délnyugati part", "Lépcsőkön elérhető", "Kedvelt fotóhelyszín"],
+      ro: ["Locație Baie du Cap", "Panoramă de 360 grade", "Promontoriu stâncos", "Coasta de sud-vest", "Acces prin trepte", "Loc fotografic iconic"],
+      en: ["Located near Baie du Cap", "360-degree panorama", "Rocky outcrop in sea", "Southwest coast site", "Staircase access", "Highly photographed spot"],
+    },
   }
 ];

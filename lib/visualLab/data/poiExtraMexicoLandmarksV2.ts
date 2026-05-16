@@ -19,6 +19,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Construction began in 1573", "Houses 25 bells in the towers", "Tower height reaches 67 meters", "Mix of Gothic and Baroque styles"],
     },
     imageHint: "Metropolitan Cathedral Mexico City facade",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Mexiko-Stadt befindet sich am Zócalo und ist eine der ältesten und größten Sakralbauten Amerikas. Ihr Bau erstreckte sich über fast 250 Jahre, was zu einer Mischung aus Renaissance, Barock und Neoklassizismus führte. Das monumentale Gebäude wurde auf den Ruinen des aztekischen Templo Mayor errichtet.",
+      hu: "A mexikóvárosi Metropolitan székesegyház a Zócalo északi oldalán áll, és Amerika egyik legrégebbi keresztény temploma. Építése 1573-ban kezdődött és 1813-ban fejeződött be, így stílusa a reneszánsztól a neoklasszicizmusig terjed. Az épület az egykori azték Templo Mayor romjaira épült, szimbolizálva a spanyol hódítást.",
+      ro: "Catedrala Metropolitană din Ciudad de México este situată în Piața Constituției și reprezintă una dintre cele mai vechi structuri religioase din America. Construcția sa a durat din 1573 până în 1813, înglobând stiluri arhitecturale precum cel renascentist, baroc și neoclasic. Edificiul a fost ridicat simbolic deasupra ruinelor marelui templu aztec.",
+      en: "The Mexico City Metropolitan Cathedral is located on the Zócalo and is one of the oldest and largest religious buildings in the Americas. Its construction spanned nearly 250 years, resulting in a blend of Renaissance, Baroque, and Neoclassical styles. The monumental structure was built on the ruins of the Aztec Templo Mayor.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn im Jahr 1573 auf Befehl von Philipp II.", "Die offizielle Einweihung fand im Jahr 1813 statt.", "Verfügt über zwei Glockentürme mit insgesamt 25 Glocken.", "Die Hauptkuppel wurde von Manuel Tolsá entworfen.", "Das Gebäude ist 110 Meter lang und 54 Meter breit.", "Enthält die 'Altar der Könige' im prächtigen Churrigueresco-Stil."],
+      hu: ["Az építkezés 1573-ban kezdődött II. Fülöp spanyol király rendeletére.", "A katedrálist hivatalosan 1813-ban fejezték be.", "Két harangtornyában összesen 25 harang található.", "A központi kupolát Manuel Tolsá építész tervezte.", "A templom hossza 110 méter, szélessége pedig 54 méter.", "Itt található a híres Királyok oltára, a spanyol barokk remekműve."],
+      ro: ["Construcția a început în 1573 la ordinul regelui Filip al II-lea.", "Finalizarea oficială a lucrărilor a avut loc în anul 1813.", "Cele două turnuri clopotniță adăpostesc un număr de 25 de clopote.", "Cupola centrală a fost proiectată de arhitectul Manuel Tolsá.", "Catedrala măsoară 110 metri în lungime și 54 metri în lățime.", "Găzduiește 'Altarul Regilor', o capodoperă a stilului churrigueresc."],
+      en: ["Construction began in 1573 by order of King Philip II of Spain.", "The cathedral was officially completed and inaugurated in 1813.", "It features two bell towers containing a total of 25 bells.", "The main dome was designed by the architect Manuel Tolsá.", "The building is 110 meters long and 54 meters wide.", "It contains the Altar of the Kings, a masterpiece of Baroque art."],
+    },
   },
   {
     id: "mexico-angel-of-independence-landmarks-v2",
@@ -38,6 +50,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Inaugurated in the year 1910", "The column is 45 meters high", "Statue is covered in 24k gold", "Serves as a mausoleum for heroes"],
     },
     imageHint: "Angel of Independence Mexico City monument",
+    descriptionAdvanced: {
+      de: "Der Engel der Unabhängigkeit ist eine Siegessäule im Zentrum von Mexiko-Stadt an der Paseo de la Reforma. Das Denkmal wurde 1910 zur Hundertjahrfeier des Beginns des mexikanischen Unabhängigkeitskrieges eingeweiht. Die goldene Statue an der Spitze stellt Nike, die griechische Siegesgöttin, dar und ist ein Symbol der mexikanischen Identität.",
+      hu: "A Függetlenség Angyala egy győzelmi oszlop Mexikóváros központjában, a Paseo de la Reforma sugárúton. Az emlékművet 1910-ben avatták fel a mexikói függetlenségi háború kitörésének századik évfordulóján. A tetején látható aranyozott szobor Nikét, a görög győzelemistennőt ábrázolja, kezében babérkoszorúval.",
+      ro: "Îngerul Independenței este o coloană a victoriei situată pe bulevardul Paseo de la Reforma din Ciudad de México. Monumentul a fost inaugurat în 1910 pentru a comemora centenarul începutului războiului de independență al Mexicului. Statuia aurită din vârf o reprezintă pe Nike, zeița greacă a victoriei, fiind un simbol național.",
+      en: "The Angel of Independence is a victory column located on the Paseo de la Reforma in downtown Mexico City. The monument was inaugurated in 1910 to commemorate the centennial of the beginning of Mexico's War of Independence. The golden statue at the top represents Nike, the Greek goddess of victory, and is a symbol of Mexican identity.",
+    },
+    factsAdvanced: {
+      de: ["Eingeweiht am 16. September 1910 durch Präsident Porfirio Díaz.", "Die Gesamthöhe des Denkmals beträgt 45 Meter.", "Die Bronzestatue ist mit 24-karätigem Blattgold überzogen.", "Beherbergt ein Mausoleum mit den Überresten von 14 Helden.", "Wurde beim Erdbeben von 1957 schwer beschädigt und fiel herab.", "Die Statue wiegt etwa 7 Tonnen und hält einen Lorbeerkranz."],
+      hu: ["1910. szeptember 16-án avatta fel Porfirio Díaz elnök.", "Az emlékmű teljes magassága eléri a 45 métert.", "Az angyalszobrot 24 karátos aranylemezekkel vonták be.", "A talapzat alatti mauzóleumban 14 nemzeti hős nyugszik.", "Az 1957-es földrengés során a szobor leesett és összetört.", "A szobor súlya megközelítőleg 7 tonna, és babérkoszorút tart."],
+      ro: ["Inaugurat la 16 septembrie 1910 de către președintele Porfirio Díaz.", "Înălțimea totală a monumentului este de 45 de metri.", "Statuia de bronz este acoperită cu foiță de aur de 24 de carate.", "Adăpostește un mausoleu cu rămășițele a 14 eroi naționali.", "A fost grav avariată în timpul cutremurului din anul 1957.", "Statuia cântărește aproximativ 7 tone și ține o coroană de lauri."],
+      en: ["Inaugurated on September 16, 1910, by President Porfirio Díaz.", "The total height of the monument is 45 meters.", "The bronze statue is covered with 24-karat gold leaf.", "It houses a mausoleum with the remains of 14 national heroes.", "The statue fell to the ground during the 1957 earthquake.", "The statue weighs approximately 7 tons and holds a laurel wreath."],
+    },
   },
   {
     id: "mexico-soumaya-museum-landmarks-v2",
@@ -57,6 +81,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Inaugurated in the year 2011", "Facade has 16,000 aluminum tiles", "Admission is free for everyone", "Holds many sculptures by Rodin"],
     },
     imageHint: "Museo Soumaya architecture Mexico City",
+    descriptionAdvanced: {
+      de: "Das Museo Soumaya in Polanco ist bekannt für seine avantgardistische Architektur, die mit 16.000 hexagonalen Aluminiumplatten verkleidet ist. Es beherbergt die umfangreiche Kunstsammlung der Carlos Slim Foundation, darunter Werke von Rodin, Dalí und europäischen Meistern. Das fensterlose Gebäude wurde vom mexikanischen Architekten Fernando Romero entworfen.",
+      hu: "A polancói Soumaya Múzeum avantgárd építészetéről híres, felületét 16 000 hatszögletű alumíniumlap borítja. Az intézmény a Carlos Slim Alapítvány hatalmas művészeti gyűjteményének ad otthont, többek között Rodin, Dalí és európai mesterek műveivel. Az ablak nélküli épületet Fernando Romero mexikói építész tervezte.",
+      ro: "Muzeul Soumaya din Polanco este renumit pentru arhitectura sa avangardistă, fiind acoperit cu 16.000 de panouri hexagonale de aluminiu. Găzduiește vasta colecție de artă a Fundației Carlos Slim, incluzând lucrări de Rodin, Dalí și maeștri europeni. Clădirea fără ferestre a fost proiectată de arhitectul mexican Fernando Romero.",
+      en: "The Soumaya Museum in Polanco is known for its avant-garde architecture, covered with 16,000 hexagonal aluminum plates. It houses the extensive art collection of the Carlos Slim Foundation, including works by Rodin, Dalí, and European masters. The windowless building was designed by Mexican architect Fernando Romero.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude in Polanco wurde im Jahr 2011 eröffnet.", "Die Fassade besteht aus 16.000 glänzenden Aluminium-Sechsecken.", "Es beherbergt die größte Sammlung von Rodin-Skulpturen außerhalb Frankreichs.", "Das Museum erstreckt sich über sechs Stockwerke auf 17.000 m².", "Der Eintritt in das Museum ist für alle Besucher dauerhaft kostenlos.", "Die Dachkonstruktion wird von 28 vertikalen Stahlsäulen getragen."],
+      hu: ["A polancói épületet 2011-ben nyitották meg a nagyközönség előtt.", "Homlokzatát 16 000 csillogó alumínium hatszög alkotja.", "Itt található Rodin szobrainak legnagyobb gyűjteménye Franciaországon kívül.", "A múzeum hat szinten, összesen 17 000 négyzetméteren terül el.", "A belépés minden látogató számára tartósan ingyenes.", "A tetőszerkezetet 28 függőleges acéloszlop támasztja alá."],
+      ro: ["Clădirea din Polanco a fost inaugurată în anul 2011.", "Fațada este compusă din 16.000 de hexagoane strălucitoare din aluminiu.", "Găzduiește cea mai mare colecție de sculpturi Rodin din afara Franței.", "Muzeul este dispus pe șase etaje, ocupând 17.000 m².", "Intrarea în muzeu este permanent gratuită pentru toți vizitatorii.", "Structura acoperișului este susținută de 28 de coloane verticale de oțel."],
+      en: ["The building in Polanco was opened to the public in 2011.", "The facade consists of 16,000 glittering aluminum hexagons.", "It houses the largest collection of Rodin sculptures outside of France.", "The museum spans six floors covering 17,000 square meters.", "Admission to the museum is permanently free for all visitors.", "The roof structure is supported by 28 vertical steel columns."],
+    },
   },
   {
     id: "mexico-guadalupe-basilica-landmarks-v2",
@@ -76,6 +112,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Attracts 20 million pilgrims annually", "Modern basilica seats 10,000 people", "Houses the original cloak of Juan Diego", "Located at the foot of Tepeyac Hill"],
     },
     imageHint: "Basilica of Our Lady of Guadalupe Mexico City",
+    descriptionAdvanced: {
+      de: "Die Basilika Unserer Lieben Frau von Guadalupe ist eines der meistbesuchten katholischen Heiligtümer der Welt. Die Anlage umfasst die alte Basilika aus dem 18. Jahrhundert und die moderne Basilika von 1976, die die Tilma von Juan Diego beherbergt. Das Heiligtum befindet sich auf dem Hügel Tepeyac, wo Maria dem Legende nach erschien.",
+      hu: "A Guadalupe-i Szűzanya-bazilika a világ egyik leglátogatottabb katolikus zarándokhelye. A komplexum magában foglalja a 18. századi régi bazilikát és az 1976-ban épült modern templomot, amely Juan Diego köpenyét őrzi. A szentély a Tepeyac-dombon található, ahol a legenda szerint Szűz Mária megjelent.",
+      ro: "Bazilica Maicii Domnului din Guadalupe este unul dintre cele mai vizitate sanctuare catolice din lume. Complexul include vechea bazilică din secolul al XVIII-lea și noua bazilică din 1976, care adăpostește tilma lui Juan Diego. Sanctuarul este situat pe dealul Tepeyac, locul unde legenda spune că s-a arătat Fecioara.",
+      en: "The Basilica of Our Lady of Guadalupe is one of the most visited Catholic shrines in the world. The complex includes the 18th-century Old Basilica and the modern 1976 Basilica, which houses the tilma of Juan Diego. The sanctuary is located on Tepeyac Hill, where the Virgin Mary is said to have appeared.",
+    },
+    factsAdvanced: {
+      de: ["Zieht jährlich etwa 20 Millionen Pilger und Besucher an.", "Die neue Basilika wurde 1976 fertiggestellt und geweiht.", "Hat eine kreisförmige Struktur mit einem Durchmesser von 100 Metern.", "Kann bis zu 10.000 Gläubige im Inneren aufnehmen.", "Beherbergt die Tilma (Umhang) mit dem Abbild der Jungfrau.", "Die alte Basilika musste wegen Absinkens des Bodens geschlossen werden."],
+      hu: ["Évente körülbelül 20 millió zarándokot és látogatót vonz.", "Az új bazilikát 1976-ban fejezték be és szentelték fel.", "Körkörös szerkezete 100 méter átmérőjű területet fed le.", "A belső térben akár 10 000 hívő is helyet foglalhat.", "Itt őrzik a tilmát (köpenyt), amelyen a Szűzanya képe látható.", "A régi bazilikát a talajsüllyedés okozta károk miatt le kellett zárni."],
+      ro: ["Atrage anual aproximativ 20 de milioane de pelerini și vizitatori.", "Noua bazilică a fost finalizată și sfințită în anul 1976.", "Are o structură circulară cu un diametru de 100 de metri.", "Poate găzdui până la 10.000 de credincioși în interior.", "Adăpostește tilma (mantia) cu imaginea Fecioarei Maria.", "Vechea bazilică a fost închisă din cauza tasării inegale a solului."],
+      en: ["Attracts approximately 20 million pilgrims and visitors annually.", "The new basilica was completed and consecrated in 1976.", "It features a circular floor plan with a diameter of 100 meters.", "The interior can accommodate up to 10,000 worshippers.", "It houses the original tilma (cloak) bearing the Virgin's image.", "The Old Basilica was closed for years due to sinking into the soil."],
+    },
   },
   {
     id: "mexico-postal-palace-landmarks-v2",
@@ -95,6 +143,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Built between 1902 and 1907", "Designed by Adamo Boari", "Combines Gothic and Renaissance styles", "Still functions as a main post office"],
     },
     imageHint: "Palacio Postal Mexico City interior staircase",
+    descriptionAdvanced: {
+      de: "Der Palacio de Correos de México ist ein architektonisches Juwel im historischen Zentrum von Mexiko-Stadt. Das 1907 eingeweihte Gebäude kombiniert Stilelemente der spanischen Renaissance-Plateresque und der venezianischen Gotik. Besonders beeindruckend ist die monumentale Treppe aus italienischem Marmor und die filigranen Bronzeelemente.",
+      hu: "A mexikói Postapalota egy építészeti gyöngyszem Mexikóváros történelmi központjában. Az 1907-ben felavatott épület a spanyol platereszk reneszánsz és a velencei gótika stíluselemeit ötvözi. Különösen lenyűgöző az olasz márványból készült monumentális lépcsősor és a finom bronz díszítőelemek.",
+      ro: "Palatul Poștei din Mexic este o bijuterie arhitecturală situată în centrul istoric al capitalei Ciudad de México. Inaugurată în 1907, clădirea combină elemente de stil renascentist spaniol și gotic venețian. Deosebit de impresionantă este scara monumentală din marmură italiană și elementele din bronz.",
+      en: "The Postal Palace of Mexico is an architectural gem located in the historic center of Mexico City. Inaugurated in 1907, the building combines elements of Spanish Renaissance Plateresque and Venetian Gothic styles. Especially impressive is the monumental staircase made of Italian marble and the intricate bronze details.",
+    },
+    factsAdvanced: {
+      de: ["Wurde am 17. Februar 1907 von Präsident Porfirio Díaz eingeweiht.", "Entworfen vom italienischen Architekten Adamo Boari.", "Die Treppe besteht aus Carrara-Marmor aus Italien.", "Die filigranen Eisenarbeiten wurden in Florenz gefertigt.", "Überlebte das schwere Erdbeben von 1985 nahezu unbeschadet.", "Beherbergt heute auch ein kleines Postmuseum im zweiten Stock."],
+      hu: ["1907. február 17-én avatta fel Porfirio Díaz elnök.", "Adamo Boari olasz építész tervezte az épületet.", "A főlépcsőház anyaga Olaszországból származó carrarai márvány.", "A díszes kovácsoltvas elemek Firenzében készültek.", "Szinte sértetlenül vészelte át az 1985-ös pusztító földrengést.", "A második emeleten ma egy kis postamúzeum is működik."],
+      ro: ["A fost inaugurat pe 17 februarie 1907 de președintele Porfirio Díaz.", "Clădirea a fost proiectată de arhitectul italian Adamo Boari.", "Scările principale sunt realizate din marmură de Carrara din Italia.", "Elementele ornamentale din fier au fost turnate în Florența.", "A supraviețuit aproape intact cutremurului devastator din 1985.", "Găzduiește un mic muzeu poștal situat la etajul al doilea."],
+      en: ["Inaugurated on February 17, 1907, by President Porfirio Díaz.", "The building was designed by Italian architect Adamo Boari.", "The main staircase is made of Carrara marble from Italy.", "The intricate ironwork was manufactured in Florence, Italy.", "It survived the devastating 1985 earthquake almost undamaged.", "The second floor houses a small postal museum."],
+    },
   },
   {
     id: "mexico-temple-of-kukulcan-landmarks-v2",
@@ -114,6 +174,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Has a total of 365 steps", "One of the New Seven Wonders of the World", "Equinox creates a shadow serpent", "The pyramid height is about 30 meters"],
     },
     imageHint: "El Castillo Chichen Itza pyramid",
+    descriptionAdvanced: {
+      de: "Der Tempel des Kukulcán, auch bekannt als El Castillo, ist das Herzstück der Maya-Stadt Chichén Itzá auf der Halbinsel Yucatán. Die Stufenpyramide diente astronomischen Zwecken und spiegelt den Maya-Kalender in ihrer Struktur wider. Während der Tag-und-Nacht-Gleiche erzeugt das Sonnenlicht eine optische Täuschung, die eine Schlange darstellt.",
+      hu: "A Kukulcán-templom, más néven El Castillo, a Yucatán-félszigeten található Chichén Itzá maja város központi eleme. A lépcsős piramis csillagászati célokat szolgált, és szerkezetében a maja naptárt tükrözi. A napéjegyenlőségek idején a napfény olyan optikai csalódást kelt, amely egy lefelé kúszó kígyót ábrázol.",
+      ro: "Templul lui Kukulcán, cunoscut și sub numele de El Castillo, este piesa centrală a orașului mayaș Chichén Itzá din Peninsula Yucatán. Piramida în trepte a servit scopurilor astronomice, reflectând calendarul mayaș prin structura sa. În timpul echinocțiului, lumina soarelui creează iluzia unei șerpi care coboară.",
+      en: "The Temple of Kukulcán, also known as El Castillo, is the centerpiece of the Maya city of Chichén Itzá on the Yucatán Peninsula. The step pyramid served astronomical purposes and reflects the Maya calendar in its structure. During the equinoxes, the sunlight creates an optical illusion that resembles a snake crawling down.",
+    },
+    factsAdvanced: {
+      de: ["Wurde etwa zwischen 800 und 900 n. Chr. erbaut.", "Die Pyramide hat insgesamt 365 Stufen, eine für jeden Tag.", "Ist 24 Meter hoch, plus 6 Meter für den oberen Tempel.", "Wurde 2007 zu einem der neuen sieben Weltwunder gewählt.", "Im Inneren befindet sich eine ältere Pyramide mit einem Jaguarthron.", "Das Phänomen der 'gefiederten Schlange' tritt zweimal im Jahr auf."],
+      hu: ["Körülbelül i.sz. 800 és 900 között épült.", "A piramisnak összesen 365 lépcsőfoka van, az év minden napjára egy.", "Magassága 24 méter, plusz 6 méter a tetején lévő templom.", "2007-ben a világ hét új csodájának egyikévé választották.", "A belsejében egy régebbi piramis található egy jáde jaguártrónnal.", "A 'tollas kígyó' jelenség évente kétszer látható a lépcsőkön."],
+      ro: ["A fost construită aproximativ între anii 800 și 900 d.Hr.", "Piramida are un total de 365 de trepte, una pentru fiecare zi a anului.", "Înălțimea este de 24 de metri, plus 6 metri pentru templul superior.", "A fost aleasă în 2007 ca una dintre Noile Șapte Minuni ale Lumii.", "În interior se află o piramidă mai veche cu un tron de jad în formă de jaguar.", "Fenomenul 'șarpelui cu pene' are loc de două ori pe an."],
+      en: ["Built approximately between 800 and 900 AD.", "The pyramid has a total of 365 steps, one for each day of the year.", "The height is 24 meters, plus 6 meters for the upper temple.", "Voted as one of the New Seven Wonders of the World in 2007.", "Inside, there is an older pyramid containing a red jaguar throne.", "The 'feathered serpent' shadow effect occurs twice a year."],
+    },
   },
   {
     id: "mexico-pyramid-of-the-sun-landmarks-v2",
@@ -133,6 +205,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Height of approximately 65 meters", "Built around the year 200 AD", "Base side length is 225 meters", "Located along the Avenue of the Dead"],
     },
     imageHint: "Pyramid of the Sun Teotihuacan Mexico",
+    descriptionAdvanced: {
+      de: "Die Sonnenpyramide ist das größte Gebäude in Teotihuacán und eine der größten Pyramiden der Welt. Sie wurde um 200 n. Chr. errichtet und dominiert das Stadtbild entlang der Straße der Toten. Die massive Struktur besteht aus Erde und Bruchstein, die mit behauenen Vulkansteinen verkleidet wurden.",
+      hu: "A Nap-piramis Teotihuacán legnagyobb építménye és a világ egyik legmagasabb piramisa. I.sz. 200 körül épült, és meghatározza a városképet a Holtak útja mentén. A hatalmas szerkezet földből és kőtörmelékből áll, amelyet megmunkált vulkáni kőzetlapokkal borítottak be.",
+      ro: "Piramida Soarelui este cea mai mare structură din Teotihuacán și una dintre cele mai mari piramide din lume. A fost construită în jurul anului 200 d.Hr. și domină peisajul urban de-a lungul Bulevardului Morților. Structura masivă este compusă din pământ și pietriș, placată cu rocă vulcanică fasonată.",
+      en: "The Pyramid of the Sun is the largest building in Teotihuacán and one of the largest pyramids in the world. It was constructed around 200 AD and dominates the cityscape along the Avenue of the Dead. The massive structure is made of earth and rubble, faced with carved volcanic stone.",
+    },
+    factsAdvanced: {
+      de: ["Die Basis ist mit 225 x 225 Metern fast so groß wie die Cheops-Pyramide.", "Die aktuelle Höhe beträgt etwa 65 Meter.", "Besteht aus schätzungsweise 1,1 Millionen Kubikmetern Material.", "Unter der Pyramide wurde eine künstliche Höhle entdeckt.", "Teotihuacán bedeutet in Nahuatl 'Ort, an dem Menschen zu Göttern werden'.", "Wurde wahrscheinlich der Regen- oder Erdgöttin geweiht."],
+      hu: ["Alapterülete 225 x 225 méter, majdnem akkora, mint a Kheopsz-piramisé.", "Jelenlegi magassága megközelítőleg 65 méter.", "Becslések szerint 1,1 millió köbméter anyagból épült fel.", "A piramis alatt egy mesterséges barlangrendszert fedeztek fel.", "A Teotihuacán név jelentése nahuatl nyelven: 'ahol az emberek istenekké válnak'.", "Valószínűleg az esőistennek vagy egy földistennőnek szentelték."],
+      ro: ["Baza măsoară 225 x 225 metri, fiind aproape egală cu cea a Marii Piramide.", "Înălțimea actuală a structurii este de aproximativ 65 de metri.", "A fost construită din aproximativ 1,1 milioane de metri cubi de material.", "Sub piramidă a fost descoperită o peșteră artificială sacră.", "Teotihuacán înseamnă în limba nahuatl 'locul unde oamenii devin zei'.", "Se crede că a fost dedicată zeului ploii sau unei zeițe a pământului."],
+      en: ["The base measures 225 by 225 meters, similar to the Great Pyramid of Giza.", "The current height of the pyramid is approximately 65 meters.", "It consists of an estimated 1.1 million cubic meters of material.", "An artificial cave system was discovered beneath the pyramid.", "Teotihuacán means 'the place where men become gods' in Nahuatl.", "It was likely dedicated to a rain god or a fertility goddess."],
+    },
   },
   {
     id: "mexico-pyramid-of-the-moon-landmarks-v2",
@@ -152,6 +236,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Completed around 450 AD", "Total height of 43 meters", "Offers a view over the entire site", "Platform for ritual sacrifices"],
     },
     imageHint: "Pyramid of the Moon Teotihuacan",
+    descriptionAdvanced: {
+      de: "Die Mondpyramide befindet sich am nördlichen Ende der Straße der Toten in Teotihuacán. Sie ist kleiner als die Sonnenpyramide, wirkt aber aufgrund des leicht erhöhten Standorts fast ebenso hoch. Von ihrem Vorplatz aus wurden wichtige Zeremonien und Tier- sowie Menschenopfer durchgeführt, um die Götter zu ehren.",
+      hu: "A Hold-piramis Teotihuacánban, a Holtak útja északi végén található. Kisebb, mint a Nap-piramis, de a magasabb fekvésű talaj miatt majdnem ugyanolyan magasnak tűnik. Az előtte lévő térről fontos szertartásokat vezényeltek le, és állati, valamint emberi áldozatokat is bemutattak itt az istenek tiszteletére.",
+      ro: "Piramida Lunii este situată la capătul nordic al Bulevardului Morților din Teotihuacán. Este mai mică decât Piramida Soarelui, dar pare aproape la fel de înaltă datorită terenului ridicat pe care se află. Din piața sa frontală erau coordonate ceremonii importante și sacrificii ritualice.",
+      en: "The Pyramid of the Moon is located at the northern end of the Avenue of the Dead in Teotihuacán. It is smaller than the Pyramid of the Sun, but appears nearly as high due to its elevated location. From its plaza, important ceremonies and ritual sacrifices were performed to honor the gods.",
+    },
+    factsAdvanced: {
+      de: ["Erreichte ihre endgültige Form etwa im Jahr 450 n. Chr.", "Die Pyramide ist etwa 43 Meter hoch.", "Diente als ritueller Mittelpunkt für die Verehrung der Wassergöttin.", "Im Inneren wurden Gräber mit wertvollen Beigaben entdeckt.", "Die Plattform bietet einen Panoramablick über die gesamte Ruinenstadt.", "Wurde in sieben aufeinanderfolgenden Phasen überbaut."],
+      hu: ["Végleges formáját i.sz. 450 körül érte el.", "A piramis magassága körülbelül 43 méter.", "A vízistennő tiszteletére bemutatott rituálék központja volt.", "A belsejében gazdag mellékletekkel ellátott sírokat fedeztek fel.", "A platformról panorámás kilátás nyílik az egész romvárosra.", "Hét egymást követő építési fázisban nyerte el végső méretét."],
+      ro: ["A atins forma finală în jurul anului 450 d.Hr.", "Înălțimea piramidei este de aproximativ 43 de metri.", "A servit ca punct central pentru ritualurile dedicate zeiței apei.", "În interior au fost descoperite morminte cu ofrande prețioase.", "Platforma sa oferă o vedere panoramică asupra întregului oraș antic.", "Structura a fost construită în șapte etape succesive de extindere."],
+      en: ["The pyramid reached its final form around 450 AD.", "The height of the structure is approximately 43 meters.", "It served as a ritual center for the worship of the water goddess.", "Tombs containing valuable offerings were discovered inside.", "The platform offers a panoramic view over the entire ancient city.", "It was built in seven consecutive construction phases."],
+    },
   },
   {
     id: "mexico-temple-of-inscriptions-landmarks-v2",
@@ -171,6 +267,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Built in the 7th century AD", "Named after the glyph panels found inside", "Pakal's tomb was discovered in 1952", "Tallest structure in Palenque"],
     },
     imageHint: "Temple of the Inscriptions Palenque ruins",
+    descriptionAdvanced: {
+      de: "Der Tempel der Inschriften in Palenque ist das berühmteste Grabmonument der Maya-Zivilisation. Er wurde für den Herrscher K'inich Janaab Pakal I. errichtet und enthält die längsten bekannten Hieroglyphentexte der Maya-Welt. Das Gebäude ist in die tropische Landschaft eingebettet und zeichnet sich durch seine elegante Architektur aus.",
+      hu: "A palenquei Feliratok temploma a maja civilizáció leghíresebb síremléke. K'inich Janaab Pakal király számára épült, és a maja világ leghosszabb ismert hieroglif feliratait tartalmazza. Az épület elegánsan illeszkedik a trópusi tájba, és a maja építészet egyik legkifinomultabb példája.",
+      ro: "Templul Inscripțiilor din Palenque este cel mai faimos monument funerar al civilizației mayașe. A fost construit pentru conducătorul K'inich Janaab Pakal I și conține cele mai lungi texte hieroglifice cunoscute. Edificiul este integrat în peisajul tropical și se remarcă prin arhitectura sa elegantă.",
+      en: "The Temple of the Inscriptions in Palenque is the most famous funerary monument of the Maya civilization. It was built for the ruler K'inich Janaab Pakal I and contains the longest known hieroglyphic texts in the Maya world. The building is nestled in the tropical landscape and is noted for its elegant architecture.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn im Jahr 675 n. Chr. durch Pakal den Großen.", "Die Grabkammer von Pakal wurde erst 1952 entdeckt.", "Der Pakal-Sarkophag wiegt etwa 7 Tonnen.", "Die drei Schrifttafeln enthalten 617 Hieroglyphen.", "Die Pyramide besteht aus acht Terrassenstufen.", "Ein geheimer Tunnel verbindet die Grabkammer mit der Oberwelt."],
+      hu: ["Az építkezés i.sz. 675-ben kezdődött Nagy Pakal király idején.", "Pakal sírkamráját csak 1952-ben fedezte fel Alberto Ruz Lhuillier.", "Pakal kőszarkofágja körülbelül 7 tonnát nyom.", "A három feliratos tábla összesen 617 hieroglifát tartalmaz.", "A piramis szerkezete nyolc teraszos szintből áll.", "Egy titkos kőcsatorna (pszikoduktus) kötötte össze a sírt a templommal."],
+      ro: ["Construcția a început în anul 675 d.Hr. sub Pakal cel Mare.", "Camera funerară a lui Pakal a fost descoperită abia în 1952.", "Sarcofagul monolit al lui Pakal cântărește aproximativ 7 tone.", "Cele trei panouri cu inscripții conțin 617 hieroglife.", "Piramida este compusă din opt niveluri terasate.", "Un canal secret de piatră leagă mormântul de templul superior."],
+      en: ["Construction began in 675 AD during the reign of Pakal the Great.", "The burial chamber of Pakal was not discovered until 1952.", "Pakal's carved stone sarcophagus weighs about 7 tons.", "The three inscribed panels contain 617 hieroglyphs.", "The pyramid structure consists of eight terraced levels.", "A secret stone duct (psychoduct) connects the tomb to the temple."],
+    },
   },
   {
     id: "mexico-baluarte-bridge-landmarks-v2",
@@ -190,6 +298,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Inaugurated in the year 2012", "Maximum height of 403 meters", "Total length is 1,124 meters", "Part of the Durango-Mazatlán highway"],
     },
     imageHint: "Baluarte Bridge Durango Sinaloa Mexico",
+    descriptionAdvanced: {
+      de: "Die Baluarte-Brücke ist eine beeindruckende Schrägseilbrücke im Nordwesten Mexikos, die die Bundesstaaten Durango und Sinaloa verbindet. Sie überspannt den tiefen Baluarte-Fluss in der Sierra Madre Occidental. Zum Zeitpunkt ihrer Eröffnung war sie die höchste Schrägseilbrücke der Welt und ist ein Meisterwerk der mexikanischen Ingenieurskunst.",
+      hu: "A Baluarte-híd egy lenyűgöző ferdekábeles híd Mexikó északnyugati részén, amely Durango és Sinaloa államokat köti össze. A Sierra Madre Occidental hegységben található Baluarte-folyó mély kanyonja felett ível át. Megnyitásakor a világ legmagasabb ferdekábeles hídja volt, a mexikói mérnöki tudomány remeke.",
+      ro: "Podul Baluarte este un pod hobanat impresionant situat în nord-vestul Mexicului, legând statele Durango și Sinaloa. Acesta traversează canionul adânc al râului Baluarte din Sierra Madre Occidental. La momentul inaugurării, era cel mai înalt pod hobanat din lume, fiind o capodoperă a ingineriei mexicane.",
+      en: "The Baluarte Bridge is an impressive cable-stayed bridge in northwestern Mexico, connecting the states of Durango and Sinaloa. It spans the deep Baluarte River canyon in the Sierra Madre Occidental. At the time of its opening, it was the highest cable-stayed bridge in the world and is a masterpiece of Mexican engineering.",
+    },
+    factsAdvanced: {
+      de: ["Wurde am 5. Januar 2012 offiziell eingeweiht.", "Die Fahrbahn befindet sich 403 Meter über dem Flussgrund.", "Die Gesamtlänge der Brücke beträgt 1.124 Meter.", "Die Hauptspannweite zwischen den Pfeilern ist 520 Meter lang.", "Besitzt 152 Stahlkabel zur Unterstützung der Fahrbahn.", "Teil der Autobahn Durango-Mazatlán mit über 60 Tunneln."],
+      hu: ["Hivatalosan 2012. január 5-én adták át a forgalomnak.", "Az útpálya 403 méterrel a folyómeder felett található.", "A híd teljes hossza 1124 méter.", "A tartópillérek közötti legnagyobb távolság 520 méter.", "Összesen 152 acélkábel tartja a híd szerkezetét.", "A Durango-Mazatlán autópálya része, amely több mint 60 alagutat foglal magában."],
+      ro: ["A fost inaugurat oficial pe data de 5 ianuarie 2012.", "Calea de rulare se află la 403 metri deasupra albiei râului.", "Lungimea totală a podului este de 1.124 de metri.", "Deschiderea principală între piloni măsoară 520 de metri.", "Dispune de un număr de 152 de cabluri de oțel de susținere.", "Face parte din autostrada Durango-Mazatlán, care are peste 60 de tuneluri."],
+      en: ["Officially inaugurated on January 5, 2012.", "The bridge deck is located 403 meters above the river bed.", "The total length of the bridge is 1,124 meters.", "The central span between the main pylons is 520 meters long.", "It features 152 steel cables supporting the structure.", "Part of the Durango-Mazatlán highway, which includes over 60 tunnels."],
+    },
   },
   {
     id: "mexico-expiatory-temple-guadalajara-landmarks-v2",
@@ -209,6 +329,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Construction began in 1897", "Took over 75 years to complete", "Inspired by European Gothic style", "Has an Italian musical clock"],
     },
     imageHint: "Templo Expiatorio del Santisimo Sacramento Guadalajara",
+    descriptionAdvanced: {
+      de: "Der Templo Expiatorio del Santísimo Sacramento in Guadalajara ist ein herausragendes Beispiel neugotischer Architektur in Mexiko. Der Bau begann 1897 und dauerte 75 Jahre bis zur Fertigstellung. Die Kirche beeindruckt durch ihre detailreichen Steinmetzarbeiten, bunten Mosaike und die aus Italien importierten Buntglasfenster.",
+      hu: "A guadalajarai Templo Expiatorio del Santísimo Sacramento a neogótikus építészet kiemelkedő példája Mexikóban. Építése 1897-ben kezdődött és 75 évig tartott. A templom lenyűgöző részletgazdag kőfaragványaival, színes mozaikjaival és Olaszországból importált ólomszürke üvegablakaival.",
+      ro: "Templul Ispășirii Sfântului Sacrament din Guadalajara este un exemplu remarcabil de arhitectură neogotică din Mexic. Construcția a început în 1897 și a durat 75 de ani până la finalizare. Biserica impresionează prin sculpturile detaliate în piatră, mozaicurile colorate și vitraliile importate din Italia.",
+      en: "The Expiatory Temple of the Blessed Sacrament in Guadalajara is an outstanding example of Neo-Gothic architecture in Mexico. Construction began in 1897 and took 75 years to complete. The church impresses with its detailed stonework, colorful mosaics, and stained-glass windows imported from Italy.",
+    },
+    factsAdvanced: {
+      de: ["Der Grundstein wurde am 15. August 1897 gelegt.", "Vom italienischen Architekten Adamo Boari entworfen.", "Die Fertigstellung erfolgte erst im Jahr 1972.", "Die Fassade besteht fast vollständig aus handgehauenem Stein.", "Die Turmuhr spielt 25 religiöse Melodien und zeigt bewegliche Figuren.", "Buntglasfenster wurden in der Werkstatt von Franz Mayer in München gefertigt."],
+      hu: ["Az alapkövet 1897. augusztus 15-én rakták le.", "Adamo Boari olasz építész készítette az eredeti terveket.", "Az épületet csak 1972-ben fejezték be teljesen.", "A homlokzat szinte egésze kézzel faragott kőből készült.", "A toronyóra 25 vallási dallamot játszik és mozgó figurákat mutat.", "Az üvegablakok egy részét a müncheni Franz Mayer műhelyben gyártották."],
+      ro: ["Piatra de temelie a fost pusă pe 15 august 1897.", "Proiectul a fost realizat de arhitectul italian Adamo Boari.", "Lucrările de construcție au fost finalizate abia în anul 1972.", "Fațada este realizată aproape în întregime din piatră cioplită manual.", "Ceasul din turn cântă 25 de melodii și are figurine mobile.", "Vitraliile au fost realizate în faimoasele ateliere Franz Mayer din Munchen."],
+      en: ["The first stone was laid on August 15, 1897.", "Designed by the Italian architect Adamo Boari.", "The construction was not fully completed until 1972.", "The facade is made almost entirely of hand-carved stone.", "The clock tower plays 25 religious tunes and features moving figures.", "The stained-glass windows were made in the Franz Mayer workshop in Munich."],
+    },
   },
   {
     id: "mexico-queretaro-aqueduct-landmarks-v2",
@@ -228,6 +360,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Consists of 74 stone arches", "Total length of 1,280 meters", "Height reaches up to 23 meters", "Completed in the year 1738"],
     },
     imageHint: "Queretaro Aqueduct arches Mexico",
+    descriptionAdvanced: {
+      de: "Das Aquädukt von Querétaro ist das Wahrzeichen der Stadt Santiago de Querétaro. Es wurde im 18. Jahrhundert errichtet, um die Stadt mit sauberem Trinkwasser aus den Quellen von El Nexxdi zu versorgen. Die markante Struktur besteht aus 74 Bögen aus lokalem rosa Stein und erstreckt sich über eine Länge von mehr als einem Kilometer.",
+      hu: "A querétarói akvaduktus Santiago de Querétaro városának jelképe. A 18. században épült, hogy tiszta ivóvizet szállítson a városba az El Nexxdi forrásokból. A jellegzetes építmény 74 boltívből áll, amelyek helyi rózsaszín kőből készültek, és több mint egy kilométer hosszan nyúlnak el.",
+      ro: "Apeductul din Querétaro este simbolul orașului Santiago de Querétaro. A fost construit în secolul al XVIII-lea pentru a furniza apă potabilă orașului din izvoarele de la El Nexxdi. Structura distinctivă este compusă din 74 de arcade din piatră roz locală și se întinde pe o distanță de peste un kilometru.",
+      en: "The Queretaro Aqueduct is the landmark of the city of Santiago de Querétaro. It was built in the 18th century to supply the city with clean drinking water from the El Nexxdi springs. The striking structure consists of 74 arches made of local pink stone and stretches over a length of more than one kilometer.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit von 1726 bis 1738 unter der Leitung von Juan Antonio de Urrutia.", "Das Bauwerk besteht aus insgesamt 74 monumentalen Rundbögen.", "Die maximale Höhe der Bögen beträgt etwa 28,5 Meter.", "Die Gesamtlänge des Aquädukts beläuft sich auf 1.280 Meter.", "Wurde durch private Spenden des Markgrafen von Villadel Villar finanziert.", "Gehört seit 1996 zum UNESCO-Weltkulturerbe."],
+      hu: ["1726 és 1738 között épült Juan Antonio de Urrutia irányításával.", "Az építmény összesen 74 monumentális köríves boltívből áll.", "A boltívek maximális magassága eléri a 28,5 métert.", "Az akvaduktus teljes hossza 1280 méter.", "Villadel Villar őrgrófjának magánadományaiból finanszírozták.", "1996 óta az UNESCO Világörökség részét képezi."],
+      ro: ["Construit între 1726 și 1738 sub conducerea lui Juan Antonio de Urrutia.", "Structura cuprinde un număr total de 74 de arcade monumentale.", "Înălțimea maximă a arcadelor este de aproximativ 28,5 metri.", "Lungimea totală a apeductului este de 1.280 de metri.", "A fost finanțat prin donații private de către Marchizul de Villadel Villar.", "Face parte din Patrimoniul Mondial UNESCO din anul 1996."],
+      en: ["Built between 1726 and 1738 under the direction of Juan Antonio de Urrutia.", "The structure consists of a total of 74 monumental arches.", "The maximum height of the arches is approximately 28.5 meters.", "The total length of the aqueduct is 1,280 meters.", "It was financed by private donations from the Marquis of Villadel Villar.", "Included in the UNESCO World Heritage list since 1996."],
+    },
   },
   {
     id: "mexico-degollado-theater-landmarks-v2",
@@ -247,6 +391,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Opened in the year 1866", "Facade features 16 Corinthian columns", "Home of the Philharmonic Orchestra", "Seats over 1,000 spectators"],
     },
     imageHint: "Teatro Degollado Guadalajara facade",
+    descriptionAdvanced: {
+      de: "Das Teatro Degollado in Guadalajara ist ein bedeutendes Opernhaus im neoklassizistischen Stil. Das im 19. Jahrhundert eröffnete Gebäude zeichnet sich durch seinen korinthischen Portikus mit 16 Säulen und einem Relief der Apollo-Musen aus. Im Inneren beeindruckt die goldene Dekoration und das Deckengemälde, das Dantes Göttliche Komödie darstellt.",
+      hu: "A guadalajarai Teatro Degollado egy jelentős neoklasszicista stílusú operaház. A 19. században megnyitott épületet korinthoszi oszlopcsarnok jellemzi 16 oszloppal, rajta Apolló és a múzsák domborművével. Belül aranyozott díszítés és Dante Isteni színjátékát ábrázoló mennyezeti festmény nyűgöz le.",
+      ro: "Teatrul Degollado din Guadalajara este o operă importantă construită în stil neoclasic. Inaugurată în secolul al XIX-lea, clădirea se remarcă prin porticul corintic cu 16 coloane și un basorelief reprezentându-l pe Apollo cu muzele. Interiorul impresionează prin decorațiunile aurite și pictura de pe tavan.",
+      en: "The Degollado Theater in Guadalajara is a significant opera house built in Neoclassical style. Opened in the 19th century, the building is characterized by its Corinthian portico with 16 columns and a relief of Apollo and the Muses. The interior features golden decorations and a ceiling painting depicting Dante's Divine Comedy.",
+    },
+    factsAdvanced: {
+      de: ["Der Grundstein wurde im Jahr 1856 gelegt.", "Offiziell am 13. September 1866 mit der Oper 'Lucia di Lammermoor' eröffnet.", "Das Deckenfresko stammt von Gerardo Suárez und Jacobo Gálvez.", "Kann bis zu 1.015 Zuschauer im hufeisenförmigen Saal aufnehmen.", "An der Fassade befindet sich eine Darstellung von Apollo und den neun Musen.", "Sitz des Philharmonischen Orchesters von Jalisco."],
+      hu: ["Az alapkövet 1856-ban rakták le.", "1866. szeptember 13-án nyitották meg a 'Lammermoori Lucia' című operával.", "A mennyezeti freskót Gerardo Suárez és Jacobo Gálvez készítette.", "A patkó alakú nézőtéren akár 1015 néző is helyet foglalhat.", "A homlokzaton Apolló és a kilenc múzsa ábrázolása látható.", "A Jaliscoi Filharmonikus Zenekar állandó székhelye."],
+      ro: ["Piatra de temelie a fost pusă în anul 1856.", "Inaugurat oficial pe 13 septembrie 1866 cu opera 'Lucia di Lammermoor'.", "Fresca de pe tavan a fost realizată de Gerardo Suárez și Jacobo Gálvez.", "Sala în formă de potcoavă poate găzdui până la 1.015 spectatori.", "Pe frontonul fațadei se află o reprezentare a lui Apollo și a celor nouă muze.", "Este sediul permanent al Orchestrei Filarmonice din Jalisco."],
+      en: ["The foundation stone was laid in 1856.", "Opened officially on September 13, 1866, with the opera 'Lucia di Lammermoor'.", "The ceiling fresco was painted by Gerardo Suárez and Jacobo Gálvez.", "The horseshoe-shaped hall can accommodate up to 1,015 spectators.", "The facade features a marble relief of Apollo and the nine Muses.", "It is the home of the Jalisco Philharmonic Orchestra."],
+    },
   },
   {
     id: "mexico-morelia-aqueduct-landmarks-v2",
@@ -266,6 +422,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Consists of 253 arches", "Total length of 1,700 meters", "Height of up to 9 meters", "Built in the late 18th century"],
     },
     imageHint: "Morelia Aqueduct pink stone arches",
+    descriptionAdvanced: {
+      de: "Das Aquädukt von Morelia ist eines der am besten erhaltenen Denkmäler der Stadt und stammt aus der Kolonialzeit. Es wurde im 18. Jahrhundert errichtet, um die Wasserversorgung der Bevölkerung während einer schweren Dürre sicherzustellen. Die beeindruckende Struktur besteht aus rosa Stein und prägt den östlichen Eingang des historischen Zentrums.",
+      hu: "A moreliai akvaduktus a város egyik legjobban megőrzött műemléke, amely a gyarmati korból származik. A 18. században épült, hogy biztosítsa a lakosság vízellátását egy súlyos aszály idején. A rózsaszín kőből készült lenyűgöző építmény a történelmi központ keleti bejáratát határozza meg.",
+      ro: "Apeductul din Morelia este unul dintre cele mai bine conservate monumente ale orașului, datând din perioada colonială. A fost construit în secolul al XVIII-lea pentru a asigura alimentarea cu apă a populației în timpul unei secete severe. Structura impresionantă din piatră roz marchează intrarea în centrul istoric.",
+      en: "The Morelia Aqueduct is one of the best-preserved monuments in the city, dating back to the colonial era. It was constructed in the 18th century to ensure the water supply for the population during a severe drought. The impressive structure is made of pink stone and defines the eastern entrance to the historic center.",
+    },
+    factsAdvanced: {
+      de: ["Wurde zwischen 1785 und 1789 auf Initiative von Bischof Fray Antonio de San Miguel erbaut.", "Besteht aus insgesamt 253 Rundbögen.", "Erreicht an seiner höchsten Stelle etwa 9,24 Meter.", "Die Gesamtlänge des Aquädukts beträgt 1.700 Meter.", "Diente bis zum Jahr 1910 der Wasserversorgung der Stadt.", "Wurde aus dem charakteristischen rosa Quaderstein (Cantera) der Region errichtet."],
+      hu: ["1785 és 1789 között épült Fray Antonio de San Miguel püspök kezdeményezésére.", "Az építmény összesen 253 félköríves boltívből áll.", "Legmagasabb pontján körülbelül 9,24 méter magas.", "Az akvaduktus teljes hossza eléri az 1700 métert.", "Egészen 1910-ig szolgált a város vízellátására.", "A régióra jellemző rózsaszín vulkáni kőből (cantera) építették."],
+      ro: ["Construit între 1785 și 1789 la inițiativa episcopului Fray Antonio de San Miguel.", "Structura este compusă dintr-un total de 253 de arcade.", "Înălțimea maximă a arcadelor este de aproximativ 9,24 metri.", "Lungimea totală a apeductului este de 1.700 de metri.", "A funcționat pentru alimentarea cu apă a orașului până în anul 1910.", "A fost ridicat din piatră roz (cantera), specifică regiunii Michoacán."],
+      en: ["Built between 1785 and 1789 at the initiative of Bishop Fray Antonio de San Miguel.", "The structure consists of a total of 253 arches.", "The highest point of the aqueduct reaches approximately 9.24 meters.", "The total length of the monument is 1,700 meters.", "It served as the city's main water supply system until 1910.", "Constructed using the characteristic pink stone (cantera) of the region."],
+    },
   },
   {
     id: "mexico-guanajuato-mummies-museum-landmarks-v2",
@@ -285,6 +453,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Over 100 mummies on display", "Discovered starting from 1865", "Mummification due to soil minerals", "Unique collection in all of Mexico"],
     },
     imageHint: "Mummies of Guanajuato display",
+    descriptionAdvanced: {
+      de: "Das Mumiemuseum von Guanajuato beherbergt eine weltweit einzigartige Sammlung natürlich mumifizierter Körper. Die Mumifizierung geschah aufgrund der mineralreichen Bodenbeschaffenheit und der trockenen Luft im örtlichen Friedhof von Santa Paula. Seit dem 19. Jahrhundert sind diese Körper Teil der lokalen Kultur und ziehen jährlich zahlreiche Besucher an.",
+      hu: "A Guanajuatói Múmiamúzeum a világon egyedülálló módon természetes úton mumifikálódott testek gyűjteményét őrzi. A mumifikálódás a helyi Santa Paula temető ásványi anyagokban gazdag talajának és a száraz levegőnek köszönhető. A 19. század óta ezek a testek a helyi kultúra részévé váltak, és évente rengeteg látogatót vonzanak.",
+      ro: "Muzeul Mumiilor din Guanajuato găzduiește o colecție unică în lume de corpuri mumificate natural. Procesul de mumificare s-a produs datorită compoziției bogate în minerale a solului și aerului uscat din cimitirul Santa Paula. Din secolul al XIX-lea, aceste corpuri fac parte din cultura locală, atrăgând mulți vizitatori.",
+      en: "The Guanajuato Mummies Museum houses a unique collection of naturally mummified bodies. The mummification occurred due to the mineral-rich soil composition and dry air in the local Santa Paula Cemetery. Since the 19th century, these bodies have become part of the local culture and attract numerous visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Die Sammlung umfasst über 100 mumifizierte Körper.", "Die erste Mumie, Remigio Leroy, wurde 1865 exhumiert.", "Es handelt sich um eine natürliche Mumifizierung ohne künstliche Balsamierung.", "Die Körper stammen aus der Zeit zwischen 1850 und 1950.", "Das Museum wurde in seiner heutigen Form im Jahr 1970 eröffnet.", "Enthält die kleinste Mumie der Welt, einen Fötus."],
+      hu: ["A gyűjtemény több mint 100 mumifikálódott testet foglal magában.", "Az első múmiát, Remigio Leroy-t, 1865-ben emelték ki a sírból.", "Természetes mumifikálódásról van szó, mesterséges beavatkozás nélkül.", "A testek az 1850 és 1950 közötti időszakból származnak.", "A múzeum jelenlegi formájában 1970-ben nyílt meg.", "Itt látható a világ legkisebb múmiája, egy magzat."],
+      ro: ["Colecția cuprinde peste 100 de corpuri mumificate.", "Prima mumie, Remigio Leroy, a fost exhumată în anul 1865.", "Este un proces de mumificare naturală, fără nicio îmbălsămare artificială.", "Corpurile datează din perioada cuprinsă între anii 1850 și 1950.", "Muzeul a fost inaugurat în forma sa actuală în anul 1970.", "Găzduiește cea mai mică mumie din lume, un fetus."],
+      en: ["The collection includes over 100 mummified bodies.", "The first mummy, Remigio Leroy, was exhumed in 1865.", "The mummification is entirely natural, without artificial embalming.", "The bodies date from between the years 1850 and 1950.", "The museum was officially established in its current form in 1970.", "It contains the world's smallest mummy, a fetus."],
+    },
   },
   {
     id: "mexico-juarez-theater-landmarks-v2",
@@ -304,6 +484,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Inaugurated in the year 1903", "8 Muses crown the roof", "Took nearly 30 years to build", "Center of the Cervantino Festival"],
     },
     imageHint: "Teatro Juarez Guanajuato facade",
+    descriptionAdvanced: {
+      de: "Das Teatro Juárez in Guanajuato wurde zwischen 1872 und 1903 erbaut und gilt als eines der prächtigsten Theater Mexikos. Die Architektur verbindet neoklassizistische Elemente mit einem eklektischen Stil und maurischen Details im Innenraum. Auf dem Dach thronen neun Bronzestatuen, welche die Musen der griechischen Mythologie darstellen.",
+      hu: "A Guanajuatóban található Teatro Juárez 1872 és 1903 között épült, és Mexikó egyik legpompásabb színházaként tartják számon. Építészete a neoklasszicista stílust ötvözi eklektikus elemekkel és mór díszítéssel a belső terekben. A tetőn kilenc bronzszobor áll, amelyek a görög mitológia múzsáit jelképezik.",
+      ro: "Teatrul Juárez din Guanajuato a fost construit între 1872 și 1903 și este considerat unul dintre cele mai splendide teatre din Mexic. Arhitectura sa îmbină elemente neoclasice cu un stil eclectic și detalii maure în interior. Pe acoperiș tronează nouă statui de bronz care reprezintă muzele din mitologia greacă.",
+      en: "The Juarez Theater in Guanajuato was built between 1872 and 1903 and is considered one of the most magnificent theaters in Mexico. Its architecture combines neoclassical elements with an eclectic style and Moorish details in the interior. Nine bronze statues representing the muses of Greek mythology stand on the roof.",
+    },
+    factsAdvanced: {
+      de: ["Eingeweiht am 27. Oktober 1903 durch Präsident Porfirio Díaz.", "Entworfen von den Architekten José Noriega und Antonio Rivas Mercado.", "Der Innenraum ist im maurischen Stil mit vergoldeten Details gestaltet.", "Die Fassade verfügt über 12 monumentale Säulen im dorischen Stil.", "Das Gebäude diente ursprünglich als Austragungsort für Opernaufführungen.", "Die Statuen der Musen wurden in Paris gegossen."],
+      hu: ["1903. október 27-én avatta fel Porfirio Díaz elnök.", "José Noriega és Antonio Rivas Mercado építészek tervezték.", "A belső tér mór stílusú, gazdagon aranyozott részletekkel.", "A homlokzaton 12 monumentális dór oszlop található.", "Az épület eredetileg operaelőadások helyszínéül szolgált.", "A múzsák bronzszobrait Párizsban öntötték ki."],
+      ro: ["Inaugurat la 27 octombrie 1903 de președintele Porfirio Díaz.", "Proiectat de arhitecții José Noriega și Antonio Rivas Mercado.", "Interiorul este decorat în stil maur, cu detalii aurite.", "Fațada prezintă 12 coloane monumentale în stil doric.", "Clădirea a servit inițial ca loc pentru spectacole de operă.", "Statuile muzelor au fost turnate în bronz la Paris."],
+      en: ["Inaugurated on October 27, 1903, by President Porfirio Díaz.", "Designed by architects José Noriega and Antonio Rivas Mercado.", "The interior is decorated in Moorish style with gilded details.", "The facade features 12 monumental columns in Doric style.", "The building originally served as a venue for opera performances.", "The bronze statues of the muses were cast in Paris."],
+    },
   },
   {
     id: "mexico-alhondiga-granaditas-landmarks-v2",
@@ -323,6 +515,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Built between 1798 and 1809", "Site of the heroic deed of 'El Pípila'", "Now houses a regional museum", "Massive neoclassical stone walls"],
     },
     imageHint: "Alhondiga de Granaditas Guanajuato building",
+    descriptionAdvanced: {
+      de: "Die Alhóndiga de Granaditas ist ein historisches Getreidelager in Guanajuato, das zwischen 1798 und 1809 errichtet wurde. Das neoklassizistische Gebäude erlangte Weltruhm als Schauplatz der ersten großen Schlacht des mexikanischen Unabhängigkeitskrieges im Jahr 1810. Heute beherbergt das massive Steingebäude ein Regionalmuseum zur Geschichte und Kunst von Guanajuato.",
+      hu: "Az Alhóndiga de Granaditas egy történelmi magtár Guanajuatóban, amely 1798 és 1809 között épült. A neoklasszicista épület világhírnevet szerzett a mexikói függetlenségi háború első nagy csatájának helyszíneként 1810-ben. Napjainkban a masszív kőépület Guanajuato történelmét és művészetét bemutató regionális múzeumnak ad otthont.",
+      ro: "Alhóndiga de Granaditas este un depozit istoric de cereale din Guanajuato, construit între 1798 și 1809. Clădirea neoclasică a câștigat faimă mondială ca loc al primei mari bătălii din Războiul de Independență al Mexicului în 1810. Astăzi, clădirea masivă din piatră găzduiește un muzeu regional de istorie și artă.",
+      en: "The Alhondiga de Granaditas is a historic granary in Guanajuato built between 1798 and 1809. The neoclassical building gained world fame as the site of the first major battle of the Mexican War of Independence in 1810. Today, the massive stone building houses a regional museum of Guanajuato's history and art.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau wurde unter dem spanischen Intendanten Riaño begonnen.", "Am 28. September 1810 fand hier der erste Angriff der Aufständischen statt.", "Der Bergarbeiter El Pípila brannte das Holztor des Gebäudes nieder.", "Die Köpfe von Hidalgo und Allende hingen hier von 1811 bis 1821.", "Das Gebäude diente im 19. Jahrhundert zeitweise als Gefängnis.", "Es wurde 1958 als Regionalmuseum von Guanajuato eröffnet."],
+      hu: ["Az építkezést Riaño spanyol intendáns idején kezdték meg.", "1810. szeptember 28-án itt zajlott a felkelők első támadása.", "El Pípila bányász égette fel az épület fa kapuját.", "Hidalgo és Allende fejét 1811 és 1821 között itt függesztették ki.", "A 19. században az épület egy ideig börtönként is funkcionált.", "1958-ban nyílt meg mint Guanajuato regionális múzeuma."],
+      ro: ["Construcția a început sub intendentul spaniol Juan Antonio de Riaño.", "La 28 septembrie 1810 a avut loc aici primul atac al insurgenților.", "Minerul El Pípila a dat foc porții de lemn a clădirii.", "Capetele lui Hidalgo și Allende au fost expuse aici între 1811 și 1821.", "Clădirea a servit periodic drept închisoare în secolul al XIX-lea.", "A fost inaugurată ca muzeu regional în anul 1958."],
+      en: ["Construction began under the Spanish intendant Juan Antonio de Riaño.", "On September 28, 1810, the first insurgent attack took place here.", "The miner El Pipila burned down the wooden gate of the building.", "The heads of Hidalgo and Allende were hung here from 1811 to 1821.", "The building served as a prison for a time during the 19th century.", "It was opened as a regional museum of Guanajuato in 1958."],
+    },
   },
   {
     id: "mexico-pipila-monument-landmarks-v2",
@@ -342,6 +546,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Erected in the year 1939", "Statue holds a flaming torch", "Accessible by funicular from town", "Constructed from pink sandstone"],
     },
     imageHint: "El Pipila monument Guanajuato view",
+    descriptionAdvanced: {
+      de: "Das Pípila-Denkmal thront über der Stadt Guanajuato und ehrt Juan José de los Reyes Martínez, einen Helden des Unabhängigkeitskrieges. Die 26 Meter hohe Statue aus rosa Stein wurde 1939 fertiggestellt und zeigt den Bergarbeiter mit einer brennenden Fackel. Es bietet einen der bekanntesten Panoramablicke auf das historische Zentrum und die umliegenden Minen.",
+      hu: "A Pípila-emlékmű Guanajuato városa felett magasodik, és Juan José de los Reyes Martíneznek, a függetlenségi háború hősének állít emléket. A 26 méter magas, rózsaszín kőből készült szobor 1939-ben készült el, és a bányászt ábrázolja égő fáklyával a kezében. Innen nyílik az egyik legismertebb panoráma a történelmi belvárosra.",
+      ro: "Monumentul El Pípila domină orașul Guanajuato și îl onorează pe Juan José de los Reyes Martínez, un erou al Războiului de Independență. Statuia de 26 de metri înălțime, realizată din piatră roz, a fost finalizată în 1939 și îl înfățișează pe miner cu o torță aprinsă. Oferă una dintre cele mai frumoase vederi panoramice.",
+      en: "The Pipila Monument towers over the city of Guanajuato and honors Juan José de los Reyes Martínez, a hero of the War of Independence. The 26-meter-high statue made of pink stone was completed in 1939 and shows the miner holding a burning torch. It offers one of the most famous panoramic views of the historic center.",
+    },
+    factsAdvanced: {
+      de: ["Das Denkmal wurde vom Bildhauer Juan Fernando Olaguíbel geschaffen.", "Es wurde aus dem charakteristischen rosa Kalkstein (Cantera rosa) erbaut.", "Juan José de los Reyes Martínez trug den Spitznamen 'El Pípila'.", "Die Statue ist 26 Meter hoch und steht auf einem massiven Sockel.", "Auf der Rückseite gibt es einen Zugang zum Aussichtspunkt oben.", "Das Monument wurde am 16. September 1939 eingeweiht."],
+      hu: ["Az emlékművet Juan Fernando Olaguíbel szobrászművész készítette.", "A jellegzetes rózsaszín mészkőből (cantera rosa) építették.", "Juan José de los Reyes Martínez beceneve 'El Pípila' volt.", "A szobor 26 méter magas és egy masszív talpazaton áll.", "A szobor hátoldalán bejárat található a felső kilátóhoz.", "Az emlékművet 1939. szeptember 16-án avatták fel."],
+      ro: ["Monumentul a fost creat de sculptorul Juan Fernando Olaguíbel.", "A fost construit din piatră roz caracteristică (cantera rosa).", "Juan José de los Reyes Martínez purta porecla de 'El Pípila'.", "Statuia are 26 de metri înălțime și stă pe un piedestal masiv.", "Există un acces în spatele statuii către un punct de observație superior.", "Monumentul a fost inaugurat la 16 septembrie 1939."],
+      en: ["The monument was created by sculptor Juan Fernando Olaguíbel.", "It was built from characteristic pink limestone (cantera rosa).", "Juan José de los Reyes Martínez was nicknamed 'El Pipila'.", "The statue is 26 meters high and stands on a massive pedestal.", "There is an entrance at the back to access the viewpoint at the top.", "The monument was inaugurated on September 16, 1939."],
+    },
   },
   {
     id: "mexico-guadalajara-cathedral-landmarks-v2",
@@ -361,6 +577,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Consecrated in the year 1618", "Towers were rebuilt after earthquakes", "Houses relics of Saint Inocencia", "Yellow tiles decorate the spires"],
     },
     imageHint: "Guadalajara Cathedral towers",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Guadalajara, offiziell Basilika Mariä Himmelfahrt, ist das Wahrzeichen der Stadt und wurde zwischen 1561 und 1618 erbaut. Sie zeichnet sich durch eine Mischung aus Gotik, Barock und neoklassizistischen Elementen aus. Besonders markant sind die gelb gekachelten neugotischen Türme, die nach einem Erdbeben im 19. Jahrhundert neu errichtet wurden.",
+      hu: "A Guadalajarai székesegyház, hivatalos nevén Nagyboldogasszony-bazilika, a város jelképe, amely 1561 és 1618 között épült. Gótikus, barokk és neoklasszicista elemek keveredése jellemzi. Különösen jellegzetesek sárga csempével borított neogótikus tornyai, amelyeket egy 19. századi földrengés után építettek újjá.",
+      ro: "Catedrala din Guadalajara, oficial Basilica Adormirea Maicii Domnului, este simbolul orașului și a fost construită între 1561 și 1618. Se distinge printr-un amestec de stil gotic, baroc și elemente neoclasice. Turnurile neogotice cu plăci galbene sunt emblematice, fiind reconstruite după un cutremur în secolul al XIX-lea.",
+      en: "The Guadalajara Cathedral, officially the Basilica of the Assumption, is the city's landmark and was built between 1561 and 1618. It is characterized by a mixture of Gothic, Baroque, and neoclassical elements. Its yellow-tiled neo-Gothic towers are particularly distinctive, having been rebuilt after a 19th-century earthquake.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau begann 1561 auf Befehl von König Philipp II. von Spanien.", "Die heutigen Türme wurden 1854 vom Architekten Manuel Gómez Ibarra entworfen.", "Die Kathedrale beherbergt Reliquien der Heiligen Inocencia.", "In der Krypta ruhen die sterblichen Überreste zahlreicher Bischöfe.", "Das Gebäude verfügt über elf Altäre aus Silber und Gold.", "Die größte Orgel Mexikos (französischer Bauart) befindet sich hier."],
+      hu: ["Az építkezés 1561-ben kezdődött II. Fülöp spanyol király parancsára.", "A mai tornyokat 1854-ben tervezte Manuel Gómez Ibarra építész.", "A székesegyház őrzi Szent Inocencia relikviáit.", "A kriptában számos püspök földi maradványai nyugszanak.", "Az épületben tizenegy ezüstből és aranyból készült oltár található.", "Itt található Mexikó legnagyobb (francia gyártmányú) orgonája."],
+      ro: ["Construcția a început în 1561 la ordinul regelui Filip al II-lea al Spaniei.", "Turnurile actuale au fost proiectate în 1854 de arhitectul Manuel Gómez Ibarra.", "Catedrala adăpostește moaștele Sfintei Inocencia.", "În criptă se află rămășițele pământești ale numeroșilor episcopi.", "Clădirea are unsprezece altare realizate din argint și aur.", "Cea mai mare orgă din Mexic (de fabricație franceză) se află aici."],
+      en: ["Construction began in 1561 by order of King Philip II of Spain.", "The current towers were designed in 1854 by architect Manuel Gómez Ibarra.", "The cathedral houses the relics of Saint Inocencia.", "The remains of numerous bishops rest in the crypt.", "The building features eleven silver and gold altars.", "The largest organ in Mexico (French-made) is located here."],
+    },
   },
   {
     id: "mexico-morelia-cathedral-landmarks-v2",
@@ -380,6 +608,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Construction took 84 years", "Houses a German pipe organ", "Towers are 62 meters high", "Famous for Saturday night light shows"],
     },
     imageHint: "Morelia Cathedral pink stone exterior",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Morelia ist ein herausragendes Beispiel des mexikanischen Barocks und wurde zwischen 1660 und 1744 erbaut. Sie ist vollständig aus dem charakteristischen rosa Stein (Cantera rosa) der Region errichtet, was ihr ein einzigartiges Erscheinungsbild verleiht. Ihre 67 Meter hohen Türme gehören zu den höchsten in Mexiko und dominieren das koloniale Stadtbild.",
+      hu: "A moreliai székesegyház a mexikói barokk kiváló példája, amely 1660 és 1744 között épült. Teljes egészében a régióra jellemző rózsaszín kőből (cantera rosa) készült, ami egyedi megjelenést kölcsönöz neki. 67 méter magas tornyai Mexikó legmagasabbjai közé tartoznak, és meghatározzák a gyarmati városképet.",
+      ro: "Catedrala din Morelia este un exemplu remarcabil al barocului mexican și a fost construită între 1660 și 1744. Este ridicată în întregime din piatra roz caracteristică regiunii (cantera rosa), oferindu-i un aspect unic. Turnurile sale de 67 de metri sunt printre cele mai înalte din Mexic.",
+      en: "The Morelia Cathedral is an outstanding example of Mexican Baroque and was built between 1660 and 1744. It is constructed entirely of the region's characteristic pink stone (cantera rosa), giving it a unique appearance. Its 67-meter-high towers are among the tallest in Mexico and dominate the colonial cityscape.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude wurde vom italienischen Architekten Vicencio Barroso gestaltet.", "Die Türme erreichen eine präzise Höhe von 66,8 Metern.", "Die monumentale Orgel verfügt über 4.600 Pfeifen aus Deutschland.", "Ein silbernes Taufbecken aus dem 18. Jahrhundert befindet sich im Inneren.", "Samstags findet an der Kathedrale eine Licht- und Tonshow statt.", "Der Bau dauerte insgesamt 84 Jahre bis zur Fertigstellung."],
+      hu: ["Az épületet Vicencio Barroso olasz építész tervezte.", "A tornyok pontos magassága 66,8 méter.", "A monumentális orgona 4600 síppal rendelkezik, melyek Németországból származnak.", "Az épület belsejében egy 18. századi ezüst keresztelőmedence található.", "Szombatonként fény- és hangjátékot tartanak a székesegyháznál.", "Az építkezés összesen 84 évig tartott a befejezésig."],
+      ro: ["Clădirea a fost proiectată de arhitectul italian Vicencio Barroso.", "Turnurile ating o înălțime precisă de 66,8 metri.", "Orga monumentală are 4.600 de tuburi fabricate în Germania.", "O cristelniță de argint din secolul al XVIII-lea se află în interior.", "Sâmbăta are loc un spectacol de lumini și sunet la catedrală.", "Construcția a durat în total 84 de ani până la finalizare."],
+      en: ["The building was designed by the Italian architect Vicencio Barroso.", "The towers reach a precise height of 66.8 meters.", "The monumental organ has 4,600 pipes imported from Germany.", "An 18th-century silver baptismal font is located inside.", "A light and sound show takes place at the cathedral every Saturday.", "Construction took a total of 84 years to complete."],
+    },
   },
   {
     id: "mexico-chihuahua-cathedral-landmarks-v2",
@@ -399,6 +639,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Construction began in 1725", "Facade features the twelve apostles", "Fully completed only in 1892", "Houses a museum of sacred art"],
     },
     imageHint: "Cathedral of Chihuahua Mexico facade",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Chihuahua, gewidmet dem Heiligen Kreuz, ist eines der bedeutendsten barocken Bauwerke Nordmexikos. Erbaut zwischen 1725 und 1792, besticht sie durch ihre reich verzierte Fassade im churrigueresken Stil. Das Bauwerk aus Cantera-Stein ist das geistliche Zentrum der Stadt und ein wichtiges Beispiel kolonialer Architektur an der ehemaligen Silberstraße.",
+      hu: "A Chihuahuai székesegyház, amelyet a Szent Keresztnek szenteltek, Észak-Mexikó egyik legjelentősebb barokk épülete. 1725 és 1792 között épült, homlokzata gazdagon díszített churriguereszk stílusban. A cantera kőből készült építmény a város szellemi központja és a gyarmati építészet fontos példája az egykori ezüstút mentén.",
+      ro: "Catedrala din Chihuahua, dedicată Sfintei Cruci, este una dintre cele mai importante structuri baroce din nordul Mexicului. Construită între 1725 și 1792, impresionează prin fațada sa bogat decorată în stil churrigueresc. Clădirea din piatră de cantera este centrul spiritual al orașului.",
+      en: "The Chihuahua Cathedral, dedicated to the Holy Cross, is one of the most significant Baroque buildings in northern Mexico. Built between 1725 and 1792, it impresses with its richly decorated facade in the Churrigueresque style. The stone building is the city's spiritual center and an important example of colonial architecture.",
+    },
+    factsAdvanced: {
+      de: ["Der Grundstein wurde am 21. Juni 1725 gelegt.", "Die Fassade zeigt Skulpturen der zwölf Apostel.", "Die Türme haben eine Höhe von etwa 40 Metern.", "Das monumentale Kirchenschiff beherbergt eine Orgel aus dem Jahr 1796.", "Der Bau wurde größtenteils durch Steuern auf Silberminen finanziert.", "Die Kathedrale wurde erst 1891 zum Bischofssitz erhoben."],
+      hu: ["Az alapkövet 1725. június 21-én fektették le.", "A homlokzaton a tizenkét apostol szobra látható.", "A tornyok magassága körülbelül 40 méter.", "A monumentális hajóban egy 1796-ból származó orgona található.", "Az építkezést nagyrészt az ezüstbányákra kivetett adókból finanszírozták.", "A székesegyházat csak 1891-ben emelték püspöki székhellyé."],
+      ro: ["Piatra de temelie a fost pusă la 21 iunie 1725.", "Fațada prezintă sculpturi ale celor doisprezece apostoli.", "Turnurile au o înălțime de aproximativ 40 de metri.", "Naosul monumental găzduiește o orgă din anul 1796.", "Construcția a fost finanțată în principal din taxe pe minele de argint.", "Catedrala a fost ridicată la rangul de sediu episcopal abia în 1891."],
+      en: ["The foundation stone was laid on June 21, 1725.", "The facade features sculptures of the twelve apostles.", "The towers have a height of approximately 40 meters.", "The monumental nave houses an organ dating back to 1796.", "Construction was largely funded by taxes on silver mines.", "The cathedral was elevated to a bishop's seat only in 1891."],
+    },
   },
   {
     id: "mexico-merida-cathedral-landmarks-v2",
@@ -418,6 +670,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Completed in the year 1598", "Officially dedicated to San Ildefonso", "Contains a massive Christ statue", "Simple Renaissance style facade"],
     },
     imageHint: "Merida Cathedral San Ildefonso Mexico",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Mérida auf der Halbinsel Yucatán ist die älteste Kathedrale auf dem amerikanischen Festland und wurde zwischen 1562 und 1598 erbaut. Sie steht an der Stelle der antiken Maya-Stadt T'hó, wobei Steine der zerstörten Maya-Tempel für den Bau verwendet wurden. Die Architektur ist durch einen strengen Renaissancestil mit festungsartigen Merkmalen geprägt.",
+      hu: "A Yucatán-félszigeten található Méridai székesegyház az amerikai kontinens legrégebbi katedrálisa, amely 1562 és 1598 között épült. Az ősi maja város, T'hó helyén áll, építéséhez a lerombolt maja templomok köveit használták fel. Építészetét szigorú reneszánsz stílus és erődszerű jellemzők határozzák meg.",
+      ro: "Catedrala din Mérida, situată în Peninsula Yucatán, este cea mai veche catedrală de pe continentul american, fiind construită între 1562 și 1598. Se află pe locul orașului antic Maya T'hó, pietrele templelor distruse fiind folosite pentru construcție. Stilul arhitectural este renascentist auster.",
+      en: "The Merida Cathedral on the Yucatan Peninsula is the oldest cathedral on the American mainland, built between 1562 and 1598. It stands on the site of the ancient Maya city of T'hó, and stones from destroyed Maya temples were used in its construction. The architecture is characterized by a strict Renaissance style.",
+    },
+    factsAdvanced: {
+      de: ["In der Kathedrale befindet sich der 'Cristo de la Unidad', ein 8 Meter hohes Kruzifix.", "Sie wurde am 26. Januar 1598 feierlich geweiht.", "Die Fassade zeigt das Wappen des spanischen Königs Philipp II.", "Die Reliquie des 'Cristo de las Ampollas' wird hier verehrt.", "Die Kirche verfügt über zwei asymmetrische Türme im Renaissancestil.", "Sie diente im 16. Jahrhundert auch als Schutzraum gegen Angriffe."],
+      hu: ["A székesegyházban található a 'Cristo de la Unidad', egy 8 méter magas feszület.", "1598. január 26-án szentelték fel ünnepélyesen.", "A homlokzaton II. Fülöp spanyol király címere látható.", "Itt őrzik a 'Cristo de las Ampollas' (Hólyagos Krisztus) ereklyét.", "A templom két aszimmetrikus reneszánsz stílusú toronnyal rendelkezik.", "A 16. században támadások elleni óvóhelyként is szolgált."],
+      ro: ["În catedrală se află 'Cristo de la Unidad', un crucifix înalt de 8 metri.", "A fost sfințită solemn la 26 ianuarie 1598.", "Fațada prezintă stema regelui Filip al II-lea al Spaniei.", "Relicva 'Cristo de las Ampollas' este venerată aici.", "Biserica are două turnuri asimetrice în stil renascentist.", "În secolul al XVI-lea, a servit și ca adăpost împotriva atacurilor."],
+      en: ["Inside the cathedral is the 'Cristo de la Unidad', an 8-meter-tall crucifix.", "It was solemnly consecrated on January 26, 1598.", "The facade features the coat of arms of King Philip II of Spain.", "The relic of 'Cristo de las Ampollas' (Christ of the Blisters) is venerated here.", "The church has two asymmetrical Renaissance-style towers.", "In the 16th century, it also served as a refuge against attacks."],
+    },
   },
   {
     id: "mexico-great-pyramid-cholula-landmarks-v2",
@@ -437,6 +701,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Base measures 400 by 400 meters", "Total height of 66 meters", "Features tunnels for visitors", "Spanish church sits on the summit"],
     },
     imageHint: "Great Pyramid of Cholula with church on top",
+    descriptionAdvanced: {
+      de: "Die Große Pyramide von Cholula, auch Tlachihualtepetl genannt, ist gemessen am Volumen die größte Pyramide der Welt. Sie besitzt eine Basis von 450 mal 450 Metern und besteht aus mehreren übereinanderliegenden Schichten, die über Jahrhunderte entstanden. Heute erscheint sie wie ein natürlicher Hügel, auf dessen Spitze die spanische Kirche Nuestra Señora de los Remedios steht.",
+      hu: "A Cholulai nagy piramis, más néven Tlachihualtepetl, térfogatát tekintve a világ legnagyobb piramisa. Alapterülete 450-szer 450 méter, és több, évszázadok alatt egymásra épült rétegből áll. Ma természetes dombnak tűnik, amelynek tetején a spanyol Nuestra Señora de los Remedios-templom áll.",
+      ro: "Marea Piramidă din Cholula, cunoscută și sub numele de Tlachihualtepetl, este cea mai mare piramidă din lume după volum. Are o bază de 450 pe 450 de metri și este formată din mai multe straturi suprapuse construite de-a lungul secolelor. Astăzi pare un deal natural pe care se află biserica spaniolă.",
+      en: "The Great Pyramid of Cholula, also known as Tlachihualtepetl, is the largest pyramid in the world by volume. It has a base of 450 by 450 meters and consists of several superimposed layers built over centuries. Today it appears as a natural hill, topped by the Spanish church of Nuestra Señora de los Remedios.",
+    },
+    factsAdvanced: {
+      de: ["Das Gesamtvolumen wird auf 4,45 Millionen Kubikmeter geschätzt.", "Sie ist etwa viermal so groß wie die Cheops-Pyramide in Ägypten.", "Die Pyramide wurde dem Gott Quetzalcoatl gewidmet.", "Es wurden über 8 Kilometer Tunnel für archäologische Studien gegraben.", "Die Kirche auf der Spitze wurde im Jahr 1594 errichtet.", "Die Bauphasen begannen im 3. Jahrhundert v. Chr. und dauerten bis 900 n. Chr."],
+      hu: ["Teljes térfogatát 4,45 millió köbméterre becsülik.", "Körülbelül négyszer akkora, mint az egyiptomi Kheopsz-piramis.", "A piramist Quetzalcoatl istennek szentelték.", "Több mint 8 kilométernyi alagutat ástak ki régészeti kutatásokhoz.", "A tetején lévő templom 1594-ben épült.", "Az építési szakaszok i. e. 3. században kezdődtek és i. sz. 900-ig tartottak."],
+      ro: ["Volumul total este estimat la 4,45 milioane de metri cubi.", "Este de aproximativ patru ori mai mare decât piramida lui Keops din Egipt.", "Piramida a fost dedicată zeului Quetzalcoatl.", "Peste 8 kilometri de tuneluri au fost săpați pentru studii arheologice.", "Biserica de pe vârf a fost construită în anul 1594.", "Fazele de construcție au început în secolul III î.Hr. și au durat până în 900 d.Hr."],
+      en: ["The total volume is estimated at 4.45 million cubic meters.", "It is approximately four times larger than the Great Pyramid of Giza.", "The pyramid was dedicated to the god Quetzalcoatl.", "Over 8 kilometers of tunnels have been excavated for archaeological study.", "The church on top was constructed in 1594.", "Construction phases began in the 3rd century BC and lasted until 900 AD."],
+    },
   },
   {
     id: "mexico-frida-kahlo-museum-landmarks-v2",
@@ -456,6 +732,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Built in the year 1904", "Public museum since 1958", "Houses Kahlo's funeral urn", "Famous for its cobalt blue walls"],
     },
     imageHint: "Frida Kahlo Museum Casa Azul Coyoacan",
+    descriptionAdvanced: {
+      de: "Das Frida Kahlo Museum, bekannt als 'La Casa Azul', war das Geburts- und Wohnhaus der berühmten mexikanischen Malerin in Coyoacán. Es wurde 1958 als Museum eröffnet und bewahrt die persönliche Atmosphäre, in der Kahlo lebte und arbeitete. Neben ihren Werken sind hier persönliche Gegenstände, präkolumbische Kunst und die berühmte Gartenanlage zu sehen.",
+      hu: "A Frida Kahlo Múzeum, közismertebb nevén 'La Casa Azul' (A Kék Ház), a híres mexikói festőnő szülőháza és otthona volt Coyoacánban. 1958-ban nyílt meg múzeumként, megőrizve azt a személyes légkört, amelyben Kahlo élt és alkotott. Művei mellett személyes tárgyai és kolumbusz előtti művészeti gyűjteménye is látható.",
+      ro: "Muzeul Frida Kahlo, cunoscut sub numele de 'La Casa Azul', a fost casa natală și reședința celebrei pictorițe mexicane din Coyoacán. A fost deschis ca muzeu în 1958, păstrând atmosfera personală în care Kahlo a trăit și a lucrat. Include obiecte personale și artă precolumbiană.",
+      en: "The Frida Kahlo Museum, known as 'La Casa Azul' (The Blue House), was the birthplace and home of the famous Mexican painter in Coyoacán. It was opened as a museum in 1958, preserving the personal atmosphere in which Kahlo lived and worked. In addition to her works, personal items and pre-Columbian art are displayed.",
+    },
+    factsAdvanced: {
+      de: ["Frida Kahlo wurde 1907 in diesem Haus geboren und starb dort 1954.", "Das Gebäude wurde ursprünglich im Jahr 1904 erbaut.", "Diego Rivera stiftete das Haus und den Inhalt dem mexikanischen Volk.", "Die Asche von Frida Kahlo ruht in einer Urne auf ihrem Bett.", "Das Museum zeigt berühmte Werke wie 'Viva la Vida'.", "Die kobaltblauen Wände wurden von Frida und Diego so gestaltet."],
+      hu: ["Frida Kahlo 1907-ben született ebben a házban, és 1954-ben itt halt meg.", "Az épület eredetileg 1904-ben épült.", "Diego Rivera a házat és annak tartalmát a mexikói népnek adományozta.", "Frida Kahlo hamvait az ágyán elhelyezett urnában őrzik.", "A múzeumban olyan híres művek láthatók, mint a 'Viva la Vida'.", "A kobaltkék falakat Frida és Diego választották."],
+      ro: ["Frida Kahlo s-a născut în această casă în 1907 și a murit acolo în 1954.", "Clădirea a fost construită inițial în anul 1904.", "Diego Rivera a donat casa și conținutul acesteia poporului mexican.", "Cenușa Fridei Kahlo se află într-o urnă pe patul ei.", "Muzeul expune lucrări celebre precum 'Viva la Vida'.", "Pereții de culoarea albastru cobalt au fost proiectați de Frida și Diego."],
+      en: ["Frida Kahlo was born in this house in 1907 and died there in 1954.", "The building was originally constructed in 1904.", "Diego Rivera donated the house and its contents to the Mexican people.", "Frida Kahlo's ashes rest in an urn placed on her bed.", "The museum displays famous works such as 'Viva la Vida'.", "The cobalt blue walls were designed by Frida and Diego."],
+    },
   },
   {
     id: "mexico-torre-latinoamericana-landmarks-v2",
@@ -475,6 +763,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Total height of 182 meters", "Completed in the year 1956", "Survived the 1985 earthquake intact", "Observation deck on the 44th floor"],
     },
     imageHint: "Torre Latinoamericana Mexico City skyscraper",
+    descriptionAdvanced: {
+      de: "Die Torre Latinoamericana in Mexiko-Stadt war bei ihrer Fertigstellung 1956 das höchste Gebäude Lateinamerikas. Mit einer Höhe von 181 Metern inklusive Antenne gilt sie als ingenieurtechnisches Meisterwerk, da sie auf dem weichen Boden der Stadt zahlreiche Erdbeben unbeschadet überstanden hat. Sie bietet eine Aussichtsplattform mit spektakulärem Blick über das gesamte Tal von Mexiko.",
+      hu: "A mexikóvárosi Torre Latinoamericana 1956-os befejezésekor Latin-Amerika legmagasabb épülete volt. A 181 méteres magasságával (antennával együtt) mérnöki mesterműnek számít, mivel a város puha talaján számos földrengést sértetlenül vészelt át. Kilátóteraszáról lenyűgöző panoráma nyílik a Mexikói-völgyre.",
+      ro: "Torre Latinoamericana din Ciudad de México a fost cea mai înaltă clădire din America Latină la finalizarea sa în 1956. Cu o înălțime de 181 de metri, inclusiv antena, este considerată o capodoperă a ingineriei, rezistând cutremurelor majore fără daune. Oferă o platformă de observație cu o vedere spectaculoasă.",
+      en: "The Torre Latinoamericana in Mexico City was the tallest building in Latin America upon its completion in 1956. With a height of 181 meters including the antenna, it is considered an engineering masterpiece, having survived numerous earthquakes undamaged on the city's soft soil. It offers an observation deck with panoramic views.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude hat 44 Stockwerke und drei Kelleretagen.", "Es wurde vom Architekten Augusto H. Álvarez entworfen.", "Die Konstruktion ruht auf 361 Betonpfählen, die 34 Meter tief reichen.", "Es überstand das schwere Erdbeben von 1985 ohne strukturelle Schäden.", "Das Gebäude beherbergt ein Museum zur Geschichte der Stadt.", "Es war das erste Hochhaus weltweit mit einer vollverglasten Aluminiumfassade."],
+      hu: ["Az épület 44 emelettel és három pinceszinttel rendelkezik.", "Augusto H. Álvarez építész tervezte.", "A szerkezet 361 betonpilléren nyugszik, amelyek 34 méter mélyre nyúlnak.", "Szerkezeti károsodás nélkül vészelte át az 1985-ös súlyos földrengést.", "Az épületben a város történelmét bemutató múzeum működik.", "Ez volt a világ első felhőkarcolója teljes üveg és alumínium homlokzattal."],
+      ro: ["Clădirea are 44 de etaje și trei niveluri subterane.", "A fost proiectată de arhitectul Augusto H. Álvarez.", "Construcția se sprijină pe 361 de piloni de beton adânci de 34 de metri.", "A supraviețuit cutremurului major din 1985 fără daune structurale.", "Clădirea găzduiește un muzeu dedicat istoriei orașului.", "A fost primul zgârie-nori din lume cu fațadă integrală din sticlă și aluminiu."],
+      en: ["The building has 44 floors and three basement levels.", "It was designed by the architect Augusto H. Álvarez.", "The structure rests on 361 concrete piles driven 34 meters deep.", "It survived the severe 1985 earthquake without any structural damage.", "The building houses a museum dedicated to the city's history.", "It was the first skyscraper in the world with a glass and aluminum facade."],
+    },
   },
   {
     id: "mexico-house-of-tiles-landmarks-v2",
@@ -494,6 +794,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Former residence of the Counts of Orizaba", "Tiles were produced in Puebla", "Currently houses a popular restaurant", "Contains a mural by Jose Clemente Orozco"],
     },
     imageHint: "Casa de los Azulejos Mexico City exterior",
+    descriptionAdvanced: {
+      de: "Das Casa de los Azulejos (Haus der Fliesen) ist ein prachtvoller Palast aus dem 18. Jahrhundert im historischen Zentrum von Mexiko-Stadt. Seine Fassade ist vollständig mit blau-weißen Talavera-Fliesen aus Puebla bedeckt, was es zu einem der ikonischsten Gebäude der Stadt macht. Ursprünglich der Wohnsitz der Grafen von Orizaba, beherbergt es heute das Flaggschiff-Restaurant der Sanborns-Kette.",
+      hu: "A Casa de los Azulejos (Csempés ház) egy pompás 18. századi palota Mexikóváros történelmi központjában. Homlokzatát teljesen beborítják a Pueblából származó kék-fehér Talavera csempék, ami a város egyik legikonikusabb épületévé teszi. Eredetileg Orizaba grófjainak rezidenciája volt, ma a Sanborns étteremlánc főhelyszíne.",
+      ro: "Casa de los Azulejos este un palat splendid din secolul al XVIII-lea situat în centrul istoric al Ciudad de México. Fațada sa este complet acoperită cu plăci de Talavera albastru și alb din Puebla, fiind una dintre cele mai emblematice clădiri. Inițial reședința conților de Orizaba, astăzi găzduiește un restaurant celebru.",
+      en: "The House of Tiles (Casa de los Azulejos) is a magnificent 18th-century palace in the historic center of Mexico City. Its facade is completely covered with blue and white Talavera tiles from Puebla, making it one of the city's most iconic buildings. Originally the residence of the Counts of Orizaba, it now houses a Sanborns restaurant.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude wurde im Jahr 1737 mit den charakteristischen Fliesen verziert.", "Im Treppenhaus befindet sich das Mural 'Omniscience' von José Clemente Orozco.", "Es wurde 1931 zum nationalen Denkmal Mexikos erklärt.", "Das Interieur verfügt über einen spektakulären überdachten Innenhof.", "Die Sanborns-Kette übernahm das Gebäude im Jahr 1917.", "Die Fliesen symbolisierten den immensen Reichtum der Eigentümerfamilie."],
+      hu: ["Az épületet 1737-ben díszítették fel a jellegzetes csempékkel.", "A lépcsőházban látható José Clemente Orozco 'Omniscience' című falfestménye.", "1931-ben Mexikó nemzeti műemlékévé nyilvánították.", "Belsejében egy látványos, fedett belső udvar található.", "A Sanborns hálózat 1917-ben vette át az épületet.", "A csempék a tulajdonos család hatalmas gazdagságát jelképezték."],
+      ro: ["Clădirea a fost decorată cu plăcile caracteristice în anul 1737.", "În casa scării se află pictura murală 'Omniscience' de José Clemente Orozco.", "A fost declarată monument național al Mexicului în 1931.", "Interiorul prezintă o curte interioară acoperită spectaculoasă.", "Lanțul Sanborns a preluat clădirea în anul 1917.", "Plăcile de ceramică simbolizau bogăția imensă a familiei proprietare."],
+      en: ["The building was decorated with its characteristic tiles in 1737.", "The mural 'Omniscience' by José Clemente Orozco is located in the stairwell.", "It was declared a National Monument of Mexico in 1931.", "The interior features a spectacular covered courtyard.", "The Sanborns chain took over the building in 1917.", "The tiles symbolized the immense wealth of the owning family."],
+    },
   },
   {
     id: "mexico-templo-mayor-landmarks-v2",
@@ -513,6 +825,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Rediscovered in the year 1978", "Dedicated to Huitzilopochtli and Tlaloc", "Consisted of seven construction phases", "Includes a significant onsite museum"],
     },
     imageHint: "Templo Mayor ruins Mexico City",
+    descriptionAdvanced: {
+      de: "Der Templo Mayor war das religiöse und politische Zentrum der aztekischen Hauptstadt Tenochtitlan, gewidmet den Göttern Huitzilopochtli und Tlaloc. Nach der spanischen Eroberung wurde die Doppelpyramide zerstört und ihre Reste gerieten in Vergessenheit, bis sie 1978 wiederentdeckt wurden. Heute ist die archäologische Stätte zusammen mit dem angeschlossenen Museum ein zentraler Punkt im historischen Herzen von Mexiko-Stadt.",
+      hu: "A Templo Mayor az azték főváros, Tenochtitlan vallási és politikai központja volt, amelyet Huitzilopochtli és Tlaloc isteneknek szenteltek. A spanyol hódítás után a kettős piramist lerombolták, és maradványai feledésbe merültek 1978-as újrafelfedezésükig. Ma a régészeti lelőhely és a hozzá tartozó múzeum Mexikóváros központjában található.",
+      ro: "Templo Mayor a fost centrul religios și politic al capitalei aztece Tenochtitlan, dedicat zeilor Huitzilopochtli și Tlaloc. După cucerirea spaniolă, piramida dublă a fost distrusă, rămășițele sale fiind redescoperite abia în 1978. Astăzi, situl arheologic și muzeul aferent sunt puncte centrale în Ciudad de México.",
+      en: "The Templo Mayor was the religious and political center of the Aztec capital Tenochtitlan, dedicated to the gods Huitzilopochtli and Tlaloc. After the Spanish conquest, the twin pyramid was destroyed and its remains forgotten until their rediscovery in 1978. Today, the archaeological site and museum are key landmarks in Mexico City.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau begann um 1325 und wurde in sieben Phasen erweitert.", "Die Entdeckung des Coyolxauhqui-Steins 1978 löste die Ausgrabungen aus.", "Auf der Spitze standen zwei separate Heiligtümer für Krieg und Regen.", "Es wurden über 7.000 rituelle Opfergaben an der Stätte gefunden.", "Die Pyramide erreichte ursprünglich eine Höhe von etwa 45-60 Metern.", "Das Gelände gehört seit 1987 zum UNESCO-Welterbe."],
+      hu: ["Az építkezés 1325 körül kezdődött, és hét szakaszban bővítették.", "A Coyolxauhqui-kő 1978-as felfedezése indította el az ásatásokat.", "A tetején két külön szentély állt a háború és az eső isteneinek.", "A lelőhelyen több mint 7000 rituális áldozati tárgyat találtak.", "A piramis eredetileg körülbelül 45-60 méter magas volt.", "A terület 1987 óta az UNESCO Világörökség része."],
+      ro: ["Construcția a început în jurul anului 1325 și a avut șapte faze de extindere.", "Descoperirea pietrei Coyolxauhqui în 1978 a declanșat excavațiile.", "Pe vârf se aflau două sanctuare separate pentru război și ploaie.", "Peste 7.000 de ofrande rituale au fost găsite în sit.", "Piramida atingea inițial o înălțime de aproximativ 45-60 de metri.", "Situl face parte din Patrimoniul Mondial UNESCO din 1987."],
+      en: ["Construction began around 1325 and was expanded in seven phases.", "The discovery of the Coyolxauhqui stone in 1978 triggered the excavations.", "Two separate shrines for war and rain stood at the top.", "Over 7,000 ritual offerings have been found at the site.", "The pyramid originally reached a height of about 45-60 meters.", "The site has been a UNESCO World Heritage site since 1987."],
+    },
   },
   {
     id: "mexico-san-antonio-padua-convent-landmarks-v2",
@@ -532,6 +856,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Built on top of a Maya pyramid", "Completed in the year 1561", "The atrium has 75 arches", "Visited by Pope John Paul II in 1993"],
     },
     imageHint: "San Antonio de Padua Convent Izamal yellow",
+    descriptionAdvanced: {
+      de: "Das Konvent San Antonio de Padua in Izamal ist ein monumentales franziskanisches Bauwerk, das auf den Überresten einer Maya-Pyramide errichtet wurde. Es verfügt über den zweitgrößten geschlossenen Atrium-Hof der Welt nach dem Petersplatz im Vatikan. Das gesamte Gebäude und die umliegende Stadt Izamal sind in einem markanten Gelb gestrichen, was der Anlage eine einzigartige Lichtwirkung verleiht.",
+      hu: "Az izamali San Antonio de Padua-kolostor egy monumentális ferences építmény, amely egy maja piramis maradványaira épült. Itt található a világ második legnagyobb zárt átriuma a vatikáni Szent Péter tér után. Az egész épület és Izamal városa is jellegzetes sárga színű, ami egyedi hangulatot kölcsönöz a komplexumnak.",
+      ro: "Mănăstirea San Antonio de Padua din Izamal este o structură franciscană monumentală construită pe rămășițele unei piramide Maya. Deține a doua cea mai mare curte interioară (atrium) din lume, după Piața Sfântu Petru din Vatican. Întreaga clădire și orașul Izamal sunt pictate într-un galben distinctiv.",
+      en: "The San Antonio de Padua Convent in Izamal is a monumental Franciscan structure built on the remains of a Maya pyramid. It features the second-largest closed atrium courtyard in the world after St. Peter's Square in the Vatican. The entire building and the surrounding city of Izamal are painted in a distinctive yellow.",
+    },
+    factsAdvanced: {
+      de: ["Das Konvent wurde zwischen 1549 und 1561 erbaut.", "Es wurde auf der Maya-Pyramide Pap-Hol-Chac errichtet.", "Das Atrium umfasst 75 Arkaden auf einer Fläche von 7.806 Quadratmetern.", "Papst Johannes Paul II. besuchte das Konvent im Jahr 1993.", "Es beherbergt die Statue der 'Jungfrau von Izamal', der Schutzpatronin von Yucatán.", "Der Architekt war der Franziskanerbruder Juan de Mérida."],
+      hu: ["A kolostor 1549 és 1561 között épült.", "A Pap-Hol-Chac nevű maja piramis tetejére építették.", "Az átrium 75 árkádot tartalmaz 7806 négyzetméternyi területen.", "II. János Pál pápa 1993-ban látogatott el a kolostorba.", "Itt található az 'Izamali Szűz' szobra, aki Yucatán védőszentje.", "Az építész Juan de Mérida ferences szerzetes volt."],
+      ro: ["Mănăstirea a fost construită între anii 1549 și 1561.", "A fost ridicată pe piramida Maya numită Pap-Hol-Chac.", "Atriumul are 75 de arcade pe o suprafață de 7.806 metri pătrați.", "Papa Ioan Paul al II-lea a vizitat mănăstirea în anul 1993.", "Adăpostește statuia 'Fecioarei din Izamal', patroana Yucatánului.", "Arhitectul a fost fratele franciscan Juan de Mérida."],
+      en: ["The convent was built between 1549 and 1561.", "It was constructed on top of the Maya pyramid Pap-Hol-Chac.", "The atrium features 75 arcades covering an area of 7,806 square meters.", "Pope John Paul II visited the convent in 1993.", "It houses the statue of the 'Virgin of Izamal', the patron saint of Yucatan.", "The architect was the Franciscan friar Juan de Mérida."],
+    },
   },
   {
     id: "mexico-padre-tembleque-aqueduct-landmarks-v2",
@@ -551,6 +887,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Built between 1553 and 1570", "UNESCO World Heritage since 2015", "Highest arch reaches 39 meters", "Total system length is 45 kilometers"],
     },
     imageHint: "Aqueduct of Padre Tembleque Mexico",
+    descriptionAdvanced: {
+      de: "Das Aquädukt von Padre Tembleque ist ein monumentales hydraulisches System aus dem 16. Jahrhundert, das die Bundesstaaten Hidalgo und Mexiko verbindet. Es wurde entworfen, um Wasser über eine Strecke von fast 48 Kilometern zu transportieren, und integriert indigene und europäische Bautechniken. Besonders berühmt ist die Sektion mit 68 Bögen, die das Tal von Tepeyahualco überspannt.",
+      hu: "A Padre Tembleque-vízvezeték egy monumentális 16. századi hidraulikus rendszer, amely Hidalgo és Mexikó államokat köti össze. Úgy tervezték, hogy közel 48 kilométeres távolságon keresztül szállítsa a vizet, ötvözve az őshonos és európai építési technikákat. Különösen híres a 68 ívből álló szakasza, amely a Tepeyahualco-völgy felett ível át.",
+      ro: "Aveductul Padre Tembleque este un sistem hidraulic monumental din secolul al XVI-lea care leagă statele Hidalgo și México. A fost proiectat pentru a transporta apa pe o distanță de aproape 48 de kilometri, integrând tehnici indigene și europene. Este renumit pentru secțiunea cu 68 de arcuri care traversează valea.",
+      en: "The Aqueduct of Padre Tembleque is a monumental 16th-century hydraulic system connecting the states of Hidalgo and Mexico. It was designed to transport water over a distance of nearly 48 kilometers, integrating indigenous and European construction techniques. It is famous for its 68-arch section spanning the Tepeyahualco valley.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau dauerte 17 Jahre, von 1553 bis 1570.", "Es wurde von dem Franziskanermönch Francisco de Tembleque initiiert.", "Der höchste Bogen erreicht eine beeindruckende Höhe von 38,75 Metern.", "Das gesamte System erstreckt sich über eine Länge von 48,39 Kilometern.", "Es wurde 2015 in die Liste des UNESCO-Welterbes aufgenommen.", "Für den Mörtel wurde eine Mischung aus Kalk und Kaktusschleim verwendet."],
+      hu: ["Az építkezés 17 évig tartott, 1553-tól 1570-ig.", "Francisco de Tembleque ferences szerzetes kezdeményezte.", "A legmagasabb ív lenyűgöző, 38,75 méteres magasságot ér el.", "A teljes rendszer 48,39 kilométer hosszan nyúlik el.", "2015-ben került fel az UNESCO Világörökségi listájára.", "A habarcshoz mész és kaktusznyálka keverékét használták."],
+      ro: ["Construcția a durat 17 ani, din 1553 până în 1570.", "A fost inițiat de călugărul franciscan Francisco de Tembleque.", "Cel mai înalt arc atinge o înălțime impresionantă de 38,75 metri.", "Întregul sistem se întinde pe o lungime de 48,39 kilometri.", "A fost inclus în lista Patrimoniului Mondial UNESCO în 2015.", "Pentru mortar s-a folosit un amestec de var și sevă de cactus."],
+      en: ["Construction took 17 years, from 1553 to 1570.", "It was initiated by the Franciscan friar Francisco de Tembleque.", "The highest arch reaches an impressive height of 38.75 meters.", "The entire system stretches over a length of 48.39 kilometers.", "It was added to the UNESCO World Heritage list in 2015.", "A mixture of lime and cactus sap was used for the mortar."],
+    },
   },
   {
     id: "mexico-santa-prisca-church-landmarks-v2",
@@ -570,6 +918,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Built between 1751 and 1758", "Masterpiece of Churrigueresque style", "Towers dominate the city skyline", "Features many ornate gold altars"],
     },
     imageHint: "Santa Prisca Church Taxco Mexico",
+    descriptionAdvanced: {
+      de: "Die Kirche Santa Prisca in Taxco ist ein Meisterwerk des mexikanischen Barocks (Churriguerismus) und wurde im 18. Jahrhundert errichtet. Sie wurde vom Silberminenbesitzer José de la Borda finanziert und besticht durch ihre prächtige Fassade und die beiden filigranen Türme. Im Inneren beherbergt sie neun monumentale Altarbilder, die mit echtem Blattgold überzogen sind.",
+      hu: "A taxcói Santa Prisca-templom a mexikói barokk (churriguereszk) mesterműve, amely a 18. században épült. José de la Borda ezüstbánya-tulajdonos finanszírozta, homlokzata és két kecses tornya lenyűgöző látványt nyújt. Belsejében kilenc monumentális, valódi aranyfüsttel borított oltárkép található.",
+      ro: "Biserica Santa Prisca din Taxco este o capodoperă a barocului mexican (churrigueresc), construită în secolul al XVIII-lea. A fost finanțată de magnatul argintului José de la Borda și impresionează prin fațada somptuoasă și turnurile filigranate. Interiorul găzduiește nouă altare monumentale acoperite cu foiță de aur.",
+      en: "The Santa Prisca Church in Taxco is a masterpiece of Mexican Baroque (Churrigueresque), built in the 18th century. Funded by silver mining magnate José de la Borda, it features a magnificent facade and two delicate towers. Inside, it houses nine monumental altarpieces covered in real gold leaf.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau wurde in nur sieben Jahren (1751–1758) fertiggestellt.", "Die Türme haben eine beeindruckende Höhe von etwa 95 Metern.", "José de la Borda sagte berühmt: 'Gott gibt de la Borda, de la Borda gibt Gott'.", "Die Kirche wurde von den Architekten Diego Durán und Juan Caballero entworfen.", "Die Altarbilder wurden von dem Künstler Isidoro de la Borda geschaffen.", "Sie gilt als eines der besterhaltenen Beispiele churrigueresker Kunst in Mexiko."],
+      hu: ["Az építkezés mindössze hét év alatt (1751–1758) fejeződött be.", "A tornyok lenyűgöző, körülbelül 95 méteres magassággal rendelkeznek.", "José de la Borda híres mondása: 'Isten ad de la Bordának, de la Borda ad Istennek'.", "A templomot Diego Durán és Juan Caballero építészek tervezték.", "Az oltárképeket Isidoro de la Borda művész készítette.", "Mexikó egyik legjobb állapotban fennmaradt churriguereszk művészeti példája."],
+      ro: ["Construcția a fost finalizată în doar șapte ani (1751–1758).", "Turnurile au o înălțime impresionantă de aproximativ 95 de metri.", "José de la Borda a spus: 'Dumnezeu îi dă lui de la Borda, de la Borda îi dă lui Dumnezeu'.", "Biserica a fost proiectată de arhitecții Diego Durán și Juan Caballero.", "Altarele au fost create de artistul Isidoro de la Borda.", "Este considerată unul dintre cele mai bine conservate exemple de artă churriguerescă."],
+      en: ["Construction was completed in just seven years (1751–1758).", "The towers have an impressive height of approximately 95 meters.", "José de la Borda famously said: 'God gives to de la Borda, de la Borda gives to God'.", "The church was designed by architects Diego Durán and Juan Caballero.", "The altarpieces were created by the artist Isidoro de la Borda.", "It is considered one of the best-preserved examples of Churrigueresque art in Mexico."],
+    },
   },
   {
     id: "mexico-tijuana-arch-landmarks-v2",
@@ -589,6 +949,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Erected in the year 2000", "Height of approximately 60 meters", "Symbolizes the start of the new millennium", "Constructed from stainless steel"],
     },
     imageHint: "Arco de Tijuana Mexico",
+    descriptionAdvanced: {
+      de: "Der Monumentalbogen von Tijuana, auch Millenniumsbogen genannt, steht an der Avenida Revolución. Er wurde im Jahr 2000 als Symbol für den Aufbruch in das neue Jahrtausend eingeweiht. Das moderne Bauwerk bildet ein markantes Tor zwischen Mexiko und den USA.",
+      hu: "A tijuánai Monumentális ív, más néven Millenniumi ív, az Avenida Revolución mentén található. 2000-ben avatták fel az új évezredbe való átlépés szimbólumaként. Ez a modern építmény jellegzetes kaput alkot Mexikó és az Amerikai Egyesült Államok között.",
+      ro: "Arcul Monumental din Tijuana, cunoscut și sub numele de Arcul Mileniului, este situat pe Avenida Revolución. A fost inaugurat în anul 2000 ca simbol al trecerii în noul mileniu. Această structură modernă formează o poartă distinctivă între Mexic și Statele Unite.",
+      en: "The Tijuana Monumental Arch, also called the Millennium Arch, stands on Avenida Revolución. It was inaugurated in 2000 as a symbol of the transition into the new millennium. This modern structure forms a distinctive gateway between Mexico and the United States.",
+    },
+    factsAdvanced: {
+      de: ["Eingeweiht am 11. Juli 2000", "Die Gesamthöhe beträgt etwa 60 Meter", "Entworfen vom Architekten Raymundo Parra", "Baukosten beliefen sich auf 1,3 Millionen Dollar", "Befindet sich im historischen Zentrum von Tijuana", "Dient als Symbol für den Tourismus an der Grenze"],
+      hu: ["2000. július 11-én avatták fel", "A teljes magassága körülbelül 60 méter", "Raymundo Parra építész tervezte", "Az építési költségek 1,3 millió dollárt tettek ki", "Tijuana történelmi központjában található", "A határon zajló turizmus szimbólumaként szolgál"],
+      ro: ["Inaugurat la 11 iulie 2000", "Înălțimea totală este de aproximativ 60 de metri", "Proiectat de arhitectul Raymundo Parra", "Costurile de construcție au fost de 1,3 milioane de dolari", "Situat în centrul istoric al orașului Tijuana", "Servește ca simbol pentru turismul de la frontieră"],
+      en: ["Inaugurated on July 11, 2000", "Total height is approximately 60 meters", "Designed by architect Raymundo Parra", "Construction costs reached 1.3 million dollars", "Located in the historic center of Tijuana", "Serves as a symbol for tourism at the border"],
+    },
   },
   {
     id: "mexico-matute-remus-bridge-landmarks-v2",
@@ -608,6 +980,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Inaugurated in the year 2011", "Length is 930 meters", "Famous for its colorful night lighting", "Major traffic landmark in the city"],
     },
     imageHint: "Puente Matute Remus Guadalajara night",
+    descriptionAdvanced: {
+      de: "Die Matute-Remus-Brücke ist eine Schrägseilbrücke in Guadalajara, die nach dem Ingenieur Jorge Matute Remus benannt wurde. Sie wurde 2011 eröffnet, um den Verkehrsfluss an einer wichtigen Kreuzung zu verbessern. Die Brücke ist für ihre moderne Architektur und ihre markante nächtliche Beleuchtung bekannt.",
+      hu: "A Matute Remus híd egy ferdekábeles híd Guadalajarában, amelyet Jorge Matute Remus mérnökről neveztek el. 2011-ben adták át a forgalom javítása érdekében egy fontos kereszteződésnél. A híd modern építészetéről és jellegzetes éjszakai kivilágításáról ismert.",
+      ro: "Podul Matute Remus este un pod hobanat din Guadalajara, numit după inginerul Jorge Matute Remus. A fost deschis în 2011 pentru a îmbunătăți fluxul de trafic la o intersecție importantă. Podul este cunoscut pentru arhitectura sa modernă și iluminarea nocturnă distinctivă.",
+      en: "The Matute Remus Bridge is a cable-stayed bridge in Guadalajara, named after engineer Jorge Matute Remus. It was opened in 2011 to improve traffic flow at a major intersection. The bridge is known for its modern architecture and its distinctive nocturnal lighting.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet im Januar 2011", "Gesamtlänge der Struktur beträgt 930 Meter", "Der hängende Teil misst 165 Meter", "Bauinvestition von etwa 555 Millionen Pesos", "Benannt nach dem Ingenieur Jorge Matute Remus", "Teil eines innovativen Verkehrssystems in Jalisco"],
+      hu: ["2011 januárjában nyitották meg", "A szerkezet teljes hossza 930 méter", "A függesztett szakasz 165 méter hosszú", "Körülbelül 555 millió pesós beruházás", "Jorge Matute Remus mérnökről nevezték el", "Jalisco innovatív közlekedési rendszerének része"],
+      ro: ["Deschis în ianuarie 2011", "Lungimea totală a structurii este de 930 de metri", "Secțiunea suspendată măsoară 165 de metri", "Investiție de construcție de circa 555 milioane pesos", "Numit după inginerul Jorge Matute Remus", "Parte dintr-un sistem de trafic inovator în Jalisco"],
+      en: ["Opened in January 2011", "Total length of the structure is 930 meters", "The suspended section measures 165 meters", "Construction investment of about 555 million pesos", "Named after engineer Jorge Matute Remus", "Part of an innovative traffic system in Jalisco"],
+    },
   },
   {
     id: "mexico-uxmal-governors-palace-landmarks-v2",
@@ -627,6 +1011,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Length of over 100 meters", "Frieze contains 20,000 individual stones", "Built in the 10th century AD", "Astronomically aligned with Venus"],
     },
     imageHint: "Governor's Palace Uxmal ruins",
+    descriptionAdvanced: {
+      de: "Der Gouverneurspalast in Uxmal gilt als eines der besten Beispiele der Puuc-Architektur. Das auf einer massiven Terrasse errichtete Gebäude verfügt über eine lange Fassade, die mit Tausenden von Steinmosaiken verziert ist. Er diente vermutlich als administratives Zentrum der Maya-Stadt während ihrer Blütezeit im 10. Jahrhundert.",
+      hu: "Az uxmal-i Kormányzói Palota a Puuc-stílusú építészet egyik legszebb példájának számít. A hatalmas teraszon álló épület hosszú homlokzatát több ezer kőmozaik díszíti. Valószínűleg a maja város adminisztratív központjaként szolgált a 10. századi fénykorában.",
+      ro: "Palatul Guvernatorului din Uxmal este considerat unul dintre cele mai bune exemple de arhitectură Puuc. Clădirea, ridicată pe o terasă masivă, are o fațadă lungă decorată cu mii de mozaicuri din piatră. A servit probabil ca centru administrativ al orașului mayaș în perioada sa de glorie din secolul al X-lea.",
+      en: "The Governor's Palace in Uxmal is considered one of the finest examples of Puuc architecture. The building, raised on a massive terrace, features a long facade decorated with thousands of stone mosaics. It likely served as the administrative center of the Maya city during its 10th-century peak.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut etwa im 10. Jahrhundert n. Chr.", "Die Fassade ist fast 100 Meter lang", "Besteht aus drei Hauptgebäuden auf einer Plattform", "Enthält über 20.000 einzeln geschliffene Steine", "Orientiert an der Venusbahn am Horizont", "Teil des UNESCO-Welterbes seit 1996"],
+      hu: ["Körülbelül a Kr. u. 10. században épült", "A homlokzat hossza majdnem 100 méter", "Három fő épületből áll egy közös platformon", "Több mint 20 000 egyedileg faragott követ tartalmaz", "A Vénusz bolygó pályájához igazodik a horizonton", "1996 óta az UNESCO Világörökség része"],
+      ro: ["Construit în jurul secolului al X-lea d.Hr.", "Fațada are o lungime de aproape 100 de metri", "Format din trei clădiri principale pe o platformă", "Conține peste 20.000 de pietre sculptate individual", "Aliniat cu orbita planetei Venus la orizont", "Parte din Patrimoniul Mondial UNESCO din 1996"],
+      en: ["Built around the 10th century AD", "The facade is nearly 100 meters long", "Consists of three main buildings on one platform", "Contains over 20,000 individually carved stones", "Aligned with the orbit of Venus on the horizon", "Part of the UNESCO World Heritage since 1996"],
+    },
   },
   {
     id: "mexico-uxmal-magician-house-landmarks-v2",
@@ -646,6 +1042,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Height of about 35 meters", "Legend says it was built in one night", "Steep stairways on both sides", "Most iconic symbol of Uxmal"],
     },
     imageHint: "Pyramid of the Magician Uxmal",
+    descriptionAdvanced: {
+      de: "Die Pyramide des Wahrsagers ist das markanteste Gebäude der Maya-Stätte Uxmal. Sie zeichnet sich durch ihre ungewöhnliche elliptische Grundfläche und die abgerundeten Ecken aus. Laut Legende wurde sie in einer Nacht von einem Zwerg erbaut, archäologisch wurden jedoch fünf verschiedene Bauphasen nachgewiesen.",
+      hu: "A Varázsló piramisa az uxmal-i maja lelőhely legjellegzetesebb épülete. Különlegessége a szokatlan elliptikus alaprajz és a lekerekített sarkok. A legenda szerint egy törpe építette egyetlen éjszaka alatt, azonban régészetileg öt különböző építési fázist azonosítottak.",
+      ro: "Piramida Magicianului este cea mai distinctivă clădire din situl mayaș Uxmal. Se remarcă prin baza sa eliptică neobișnuită și colțurile rotunjite. Conform legendei, a fost construită într-o noapte de un pitic, însă arheologic au fost dovedite cinci faze diferite de construcție.",
+      en: "The Pyramid of the Magician is the most distinctive building at the Maya site of Uxmal. It is characterized by its unusual elliptical base and rounded corners. According to legend, it was built in one night by a dwarf, but archaeologically, five distinct construction phases have been identified.",
+    },
+    factsAdvanced: {
+      de: ["Die Pyramide ist etwa 35 Meter hoch", "Verfügt über zwei steile Treppenaufgänge", "Der westliche Treppenaufgang hat 60 Grad Neigung", "Die vierte Bauphase enthält eine Chenes-Fassade", "Erbaut zwischen dem 6. und 10. Jahrhundert", "Letztes Gebäude ist der Tempel V an der Spitze"],
+      hu: ["A piramis magassága körülbelül 35 méter", "Két meredek lépcsősorral rendelkezik", "A nyugati lépcsősor dőlésszöge 60 fokos", "A negyedik építési fázis Chenes-stílusú homlokzatú", "A 6. és a 10. század között épült", "A legfelső építmény az V. számú templom"],
+      ro: ["Piramida are o înălțime de aproximativ 35 metri", "Dispune de două scări foarte abrupte", "Scara vestică are o înclinație de 60 de grade", "A patra fază de construcție include o fațadă Chenes", "Construită între secolele al VI-lea și al X-lea", "Ultima clădire este Templul V din vârf"],
+      en: ["The pyramid is approximately 35 meters tall", "Features two steep staircases for ascent", "The western staircase has a 60-degree incline", "The fourth construction phase features a Chenes facade", "Built between the 6th and 10th centuries", "The topmost structure is Temple V"],
+    },
   },
   {
     id: "mexico-calakmul-great-pyramid-landmarks-v2",
@@ -665,6 +1073,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Height of approximately 45 meters", "Base covers 2 hectares of area", "Heart of a powerful Maya city-state", "Only rediscovered in 1931"],
     },
     imageHint: "Calakmul Structure II pyramid jungle",
+    descriptionAdvanced: {
+      de: "Die Große Pyramide von Calakmul, auch als Struktur II bekannt, ist eine der massivsten Pyramiden der Maya-Welt. Sie befindet sich im Herzen des Dschungels von Campeche und diente als Machtzentrum des Kaan-Königreichs. Von ihrer Spitze aus bietet sich ein weiter Blick über das endlose Blätterdach des Biosphärenreservats.",
+      hu: "A Calakmul-i Nagy Piramis, más néven II. struktúra, a maja világ egyik leghatalmasabb piramisa. Campeche dzsungelének szívében található, és a Kaan királyság hatalmi központjaként szolgált. Tetejéről lenyűgöző kilátás nyílik a bioszféra-rezervátum végtelen lombozatára.",
+      ro: "Marea Piramidă din Calakmul, cunoscută și sub numele de Structura II, este una dintre cele mai masive piramide din lumea mayașă. Situată în inima junglei din Campeche, a servit drept centru de putere al regatului Kaan. Din vârful său se oferă o vedere largă asupra baldachinului rezervației biosferei.",
+      en: "The Great Pyramid of Calakmul, also known as Structure II, is one of the most massive pyramids in the Maya world. Located in the heart of the Campeche jungle, it served as the power center of the Kaan kingdom. From its summit, a wide view over the endless canopy of the biosphere reserve is revealed.",
+    },
+    factsAdvanced: {
+      de: ["Die Pyramide erreicht eine Höhe von 45 Metern", "Die Basis misst etwa 140 mal 140 Meter", "Hauptstadt des Kaan-Königreichs (Schlangenkopf)", "Es wurden 9 Stelen an der Basis gefunden", "Enthält Grabkammern bedeutender Maya-Herrscher", "UNESCO-Welterbe seit 2002 (Kulturgut)"],
+      hu: ["A piramis magassága eléri a 45 métert", "Az alapja körülbelül 140-szer 140 méteres", "A Kaan (Kígyófej) királyság fővárosa volt", "Az alapnál 9 sztélét találtak a kutatók", "Fontos maja uralkodók sírkamráit rejti", "2002 óta az UNESCO Világörökség része"],
+      ro: ["Piramida atinge o înălțime de 45 de metri", "Baza măsoară aproximativ 140 pe 140 de metri", "Capitala regatului Kaan (Cap de Șarpe)", "Au fost găsite 9 stele la baza structurii", "Conține camere funerare ale unor conducători mayași", "Patrimoniu Mondial UNESCO din 2002"],
+      en: ["The pyramid reaches a height of 45 meters", "The base measures about 140 by 140 meters", "Capital city of the Kaan (Snake Head) kingdom", "9 stelae were found at the base of the structure", "Contains burial chambers of important Maya rulers", "UNESCO World Heritage site since 2002"],
+    },
   },
   {
     id: "mexico-kohunlich-masks-temple-landmarks-v2",
@@ -684,6 +1104,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Masks are about 2 meters tall", "Dates from the Early Classic period", "Originally there were eight large masks", "Requires constant conservation work"],
     },
     imageHint: "Kohunlich Temple of the Masks stucco",
+    descriptionAdvanced: {
+      de: "Der Tempel der Masken in Kohunlich ist berühmt für die monumentalen Stuckmasken, die seine zentrale Treppe flankieren. Diese Masken stellen vermutlich den Sonnengott Kinich Ahau dar und weisen noch Spuren ihrer ursprünglichen roten Bemalung auf. Die Stätte liegt inmitten einer dichten Palmenlandschaft im Süden von Quintana Roo.",
+      hu: "A Kohunlich-ban található Maszkok temploma a központi lépcsőjét szegélyező monumentális stukkómaszkokról híres. Ezek a maszkok valószínűleg Kinich Ahau napistent ábrázolják, és még látszanak rajtuk az eredeti vörös festés nyomai. A lelőhely sűrű pálmaerdőben fekszik Quintana Roo déli részén.",
+      ro: "Templul Măștilor din Kohunlich este renumit pentru măștile monumentale din stuc care flanchează scara centrală. Aceste măști îl reprezintă probabil pe zeul soarelui Kinich Ahau și păstrează urme ale picturii roșii originale. Situl este situat într-un peisaj dens de palmieri în sudul Quintana Roo.",
+      en: "The Temple of the Masks in Kohunlich is famous for the monumental stucco masks flanking its central staircase. These masks likely represent the sun god Kinich Ahau and still show traces of their original red paint. The site is located amidst a dense palm landscape in southern Quintana Roo.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut um das Jahr 500 n. Chr.", "Ursprünglich gab es acht große Masken", "Heute sind noch fünf Masken gut erhalten", "Die Masken sind jeweils etwa 2 Meter hoch", "Wiederentdeckt im Jahr 1912 von Raymond Merwin", "Hauptausgrabungen begannen im Jahr 1968"],
+      hu: ["Kr. u. 500 körül épült az építmény", "Eredetileg nyolc nagyméretű maszk díszítette", "Ma már csak öt maszk maradt fenn jó állapotban", "A maszkok egyenként körülbelül 2 méter magasak", "Raymond Merwin fedezte fel újra 1912-ben", "A fő feltárások 1968-ban kezdődtek el"],
+      ro: ["Construit în jurul anului 500 d.Hr.", "Inițial existau opt măști de mari dimensiuni", "Astăzi, cinci măști sunt încă bine conservate", "Măștile au o înălțime de aproximativ 2 metri fiecare", "Redescoperit în 1912 de către Raymond Merwin", "Săpăturile principale au început în anul 1968"],
+      en: ["Built around the year 500 AD", "Originally, there were eight large masks", "Today, five masks remain well-preserved", "The masks are each about 2 meters tall", "Rediscovered in 1912 by Raymond Merwin", "Major excavations began in the year 1968"],
+    },
   },
   {
     id: "mexico-san-diego-fort-landmarks-v2",
@@ -703,6 +1135,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Originally built in the year 1616", "Rebuilt in 1778 after an earthquake", "Houses a history museum today", "Protected the Manila Galleons"],
     },
     imageHint: "Fort of San Diego Acapulco star shape",
+    descriptionAdvanced: {
+      de: "Das Fort San Diego ist eine historische Festung in Acapulco, die im 17. Jahrhundert zum Schutz vor Piratenangriffen erbaut wurde. Die sternförmige Anlage ist das bedeutendste militärische Baudenkmal an der mexikanischen Pazifikküste. Heute beherbergt sie das Historische Museum von Acapulco mit Exponaten zur Seefahrtgeschichte.",
+      hu: "A San Diego-erőd egy történelmi erődítmény Acapulcóban, amelyet a 17. században építettek a kalóztámadások elleni védekezésül. A csillag alakú építmény a mexikói csendes-óceáni partvidék legjelentősebb katonai műemléke. Ma az Acapulcói Történeti Múzeumnak ad otthont, tengerészeti kiállításokkal.",
+      ro: "Fortul San Diego este o fortificație istorică din Acapulco, construită în secolul al XVII-lea pentru protecția împotriva piraților. Structura în formă de stea este cel mai important monument militar de pe coasta mexicană a Pacificului. Astăzi găzduiește Muzeul Istoric din Acapulco cu exponate maritime.",
+      en: "The Fort of San Diego is a historic fortification in Acapulco, built in the 17th century for protection against pirate attacks. The star-shaped structure is the most important military monument on the Mexican Pacific coast. Today, it houses the Acapulco Historical Museum with maritime history exhibits.",
+    },
+    factsAdvanced: {
+      de: ["Erster Bau erfolgte zwischen 1615 und 1617", "Grundriss hat die Form eines Pentagon-Sterns", "Zerstört durch ein Erdbeben im Jahr 1776", "Wiederaufbau abgeschlossen im Jahr 1783", "Das Historische Museum öffnete 1986", "Wichtiger Posten für die Manila-Galeone"],
+      hu: ["Az első építkezés 1615 és 1617 között zajlott", "Alaprajza egy szabályos ötszögletű csillag", "Egy 1776-os földrengés teljesen elpusztította", "Az újjáépítés 1783-ban fejeződött be", "A Történeti Múzeum 1986-ban nyílt meg", "Fontos állomás volt a Manila-gályák számára"],
+      ro: ["Prima construcție a avut loc între 1615 și 1617", "Planul are forma unei stele cu cinci colțuri", "Distrus de un cutremur în anul 1776", "Reconstrucția a fost finalizată în anul 1783", "Muzeul Istoric s-a deschis în anul 1986", "Post important pentru Galeonul de Manila"],
+      en: ["First construction occurred between 1615 and 1617", "The layout has the shape of a pentagonal star", "Destroyed by an earthquake in the year 1776", "Reconstruction was completed in the year 1783", "The Historical Museum opened in 1986", "Key post for the Manila Galleon trade route"],
+    },
   },
   {
     id: "mexico-monterrey-cathedral-landmarks-v2",
@@ -722,6 +1166,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Construction took over 100 years", "Consecrated in the year 1833", "Features valuable interior murals", "Located right by the Macroplaza"],
     },
     imageHint: "Monterrey Metropolitan Cathedral facade",
+    descriptionAdvanced: {
+      de: "Die Metropolitankathedrale von Monterrey ist ein architektonisches Juwel im Herzen der Stadt. Der langwierige Bau über fast zwei Jahrhunderte führte zu einer Mischung aus Barock-, Rokoko- und neoklassizistischen Stilen. Die Kirche beherbergt wertvolle sakrale Kunst und ist ein zentraler Treffpunkt während religiöser Festlichkeiten.",
+      hu: "A Monterrey-i Metropolita Székesegyház a város szívében található építészeti ékszerdoboz. A közel két évszázadon át tartó építkezés a barokk, a rokokó és a neoklasszicista stílusok keveredését eredményezte. A templom értékes egyházművészeti kincseket őriz, és központi helyszíne a vallási ünnepeknek.",
+      ro: "Catedrala Metropolitană din Monterrey este o bijuterie arhitecturală în inima orașului. Construcția îndelungată pe parcursul a aproape două secole a dus la un amestec de stiluri baroc, rococo și neoclasic. Biserica adăpostește artă sacră valoroasă și este un punct central în timpul festivităților religioase.",
+      en: "The Monterrey Metropolitan Cathedral is an architectural gem in the heart of the city. The lengthy construction over nearly two centuries resulted in a blend of Baroque, Rococo, and Neoclassical styles. The church houses valuable sacred art and is a central meeting point during religious festivities.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau begann offiziell im Jahr 1705", "Die Kathedrale wurde erst 1891 geweiht", "Die Fassade zeigt typische Barockelemente", "Verfügt über eine Glocke aus dem Jahr 1791", "Befindet sich neben der modernen Macroplaza", "Sitz der römisch-katholischen Erzdiözese"],
+      hu: ["Az építkezés hivatalosan 1705-ben kezdődött", "A székesegyházat csak 1891-ben szentelték fel", "A homlokzat tipikus barokk elemeket mutat", "Rendelkezik egy 1791-ből származó haranggal", "A modern Macroplaza szomszédságában található", "A római katolikus érsekség székhelye"],
+      ro: ["Construcția a început oficial în anul 1705", "Catedrala a fost sfințită abia în anul 1891", "Fațada prezintă elemente baroce tipice", "Dispune de un clopot turnat în anul 1791", "Situată lângă moderna piață Macroplaza", "Sediul Arhidiecezei Romano-Catolice"],
+      en: ["Construction officially began in the year 1705", "The cathedral was not consecrated until 1891", "The facade shows typical Baroque elements", "Features a bell dating back to the year 1791", "Located next to the modern Macroplaza", "Seat of the Roman Catholic Archdiocese"],
+    },
   },
   {
     id: "mexico-san-luis-potosi-cathedral-landmarks-v2",
@@ -741,6 +1197,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Completed in the year 1730", "Facade features statues of apostles", "Seat of the Archdiocese", "Contains Baroque and Neoclassical details"],
     },
     imageHint: "San Luis Potosi Cathedral facade",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von San Luis Potosí ist eines der prachtvollsten Gebäude am Plaza de Armas. Sie ist Unserer Lieben Frau von der Erwartung gewidmet und zeichnet sich durch ihre zwei imposanten Steinmetztürme aus. Im Inneren beeindrucken Carrara-Marmorstatuen der zwölf Apostel, die exakte Kopien der Statuen im Petersdom sind.",
+      hu: "A San Luis Potosí-i székesegyház a Plaza de Armas egyik legpompásabb épülete. A Várakozó Miasszonyunknak szentelt templom két impozáns kőfaragott tornyáról ismerhető fel. Belül a tizenkét apostol Carrara-márványból készült szobra látható, amelyek a Szent Péter-bazilika szobrainak pontos másolatai.",
+      ro: "Catedrala din San Luis Potosí este una dintre cele mai somptuoase clădiri din Plaza de Armas. Este dedicată Maicii Domnului a Așteptării și se remarcă prin cele două turnuri impunătoare. În interior, impresionează statuile celor doisprezece apostoli din marmură de Carrara, copii fidele ale celor din Bazilica Sfântul Petru.",
+      en: "The San Luis Potosi Cathedral is one of the most magnificent buildings on the Plaza de Armas. Dedicated to Our Lady of Expectation, it is distinguished by its two imposing carved stone towers. Inside, the Carrara marble statues of the twelve apostles are impressive, being exact copies of those in St. Peter's Basilica.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1670 und 1730", "Die barocke Fassade besteht aus rosa Stein", "Die Türme wurden erst im Jahr 1894 vollendet", "Beherbergt 12 Apostelstatuen aus Italien", "Entworfen vom Architekten Nicolás Sánchez", "Wurde im Jahr 1854 zur Kathedrale erhoben"],
+      hu: ["1670 és 1730 között épült a templom", "A barokk homlokzat rózsaszín kőből készült", "A tornyok befejezésére csak 1894-ben került sor", "12 Olaszországból hozott apostolszobrot őriz", "Nicolás Sánchez építész tervei alapján készült", "1854-ben emelték székesegyházi rangra"],
+      ro: ["Construită între anii 1670 și 1730", "Fațada barocă este realizată din piatră roz", "Turnurile au fost finalizate abia în anul 1894", "Găzduiește 12 statui de apostoli din Italia", "Proiectată de arhitectul Nicolás Sánchez", "Ridicată la rangul de catedrală în anul 1854"],
+      en: ["Built between 1670 and 1730", "The Baroque facade is made of pink stone", "The towers were only completed in the year 1894", "Houses 12 apostle statues brought from Italy", "Designed by the architect Nicolás Sánchez", "Elevated to cathedral status in the year 1854"],
+    },
   },
   {
     id: "mexico-mazatlan-cathedral-landmarks-v2",
@@ -760,6 +1228,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Construction began in 1856", "Official name: Basilica of the Immaculate Conception", "Features 28 stained glass windows from France", "Combines Gothic and Neoclassical elements"],
     },
     imageHint: "Mazatlan Cathedral yellow towers facade",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Mazatlán, offiziell Basilika-Kathedrale der Unbefleckten Empfängnis, besticht durch ihre leuchtend gelben Türme. Das Bauwerk vereint gotische und neoklassizistische Elemente und gilt als eines der schönsten im Nordwesten Mexikos. Das Innere ist mit italienischem Marmor und handgeschnitzten Holzaltären reich dekoriert.",
+      hu: "A mazatláni székesegyház, hivatalos nevén a Szeplőtelen Fogantatás Bazilika-székesegyház, élénksárga tornyairól híres. Az építmény gótikus és neoklasszicista elemeket ötvöz, és Északnyugat-Mexikó egyik legszebb temploma. Belsejét olasz márvány és kézzel faragott faoltárok díszítik gazdagon.",
+      ro: "Catedrala din Mazatlán, oficial Catedrala Bazilică a Imaculatei Concepții, impresionează prin turnurile sale galbene strălucitoare. Structura îmbină elemente gotice și neoclasice, fiind considerată una dintre cele mai frumoase din nord-vestul Mexicului. Interiorul este bogat decorat cu marmură italiană și altare din lemn sculptat.",
+      en: "The Mazatlan Cathedral, officially the Basilica Cathedral of the Immaculate Conception, impresses with its bright yellow towers. The structure blends Gothic and Neoclassical elements and is considered one of the finest in northwestern Mexico. The interior is richly decorated with Italian marble and hand-carved wooden altars.",
+    },
+    factsAdvanced: {
+      de: ["Der Grundstein wurde 1856 gelegt", "Die Bauarbeiten endeten im Jahr 1899", "Besitzt 14 wunderschöne Marmoraltäre", "Die Orgel wurde in Paris, Frankreich, gebaut", "Zwei Türme ragen 28 Meter in die Höhe", "Besitzt einen prächtigen kristallenen Kronleuchter"],
+      hu: ["Az alapkövet 1856-ban fektették le", "Az építkezés 1899-ben fejeződött be", "14 gyönyörű márványoltárral rendelkezik", "Az orgonát a franciaországi Párizsban készítették", "Két tornya 28 méter magasra nyúlik", "Egy pompás kristálycsillár díszíti a belteret"],
+      ro: ["Piatra de temelie a fost pusă în 1856", "Lucrările de construcție s-au încheiat în 1899", "Deține 14 altare superbe din marmură", "Orga a fost construită la Paris, în Franța", "Două turnuri se ridică la 28 de metri înălțime", "Are un candelabru de cristal magnific în interior"],
+      en: ["The first stone was laid in 1856", "Construction work ended in the year 1899", "Features 14 beautiful marble altars", "The organ was built in Paris, France", "Two towers rise 28 meters into the air", "Possesses a magnificent crystal chandelier"],
+    },
   },
   {
     id: "mexico-hermosillo-cathedral-landmarks-v2",
@@ -779,6 +1259,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Construction started in the 18th century", "Fully completed only in 1908", "Features two tall white towers", "Located at the Plaza de la Constitucion"],
     },
     imageHint: "Hermosillo Cathedral white facade Mexico",
+    descriptionAdvanced: {
+      de: "Die Kathedrale der Himmelfahrt ist das wichtigste sakrale Bauwerk in Hermosillo, Sonora. Ihre eklektische Fassade kombiniert neoklassizistische und gotische Details und dominiert den Plaza de la Constitución. Das heutige Gebäude wurde Ende des 19. Jahrhunderts errichtet und ist ein Symbol für die religiöse Tradition der Region.",
+      hu: "A Nagyboldogasszony-székesegyház Hermosillo, Sonora állam legfontosabb egyházi épülete. Eklektikus homlokzata neoklasszicista és gótikus részleteket ötvöz, uralva a Plaza de la Constitución teret. A jelenlegi épület a 19. század végén épült, és a régió vallási hagyományainak szimbóluma.",
+      ro: "Catedrala Adormirii Maicii Domnului este cea mai importantă structură sacră din Hermosillo, Sonora. Fațada sa eclectică combină detalii neoclasice și gotice, dominând Plaza de la Constitución. Clădirea actuală a fost ridicată la sfârșitul secolului al XIX-lea și este un simbol al tradiției religioase din regiune.",
+      en: "The Cathedral of the Assumption is the most important sacred structure in Hermosillo, Sonora. Its eclectic facade combines Neoclassical and Gothic details, dominating the Plaza de la Constitución. The current building was erected in the late 19th century and is a symbol of the region's religious tradition.",
+    },
+    factsAdvanced: {
+      de: ["Bau der aktuellen Struktur begann 1877", "Die Fertigstellung erfolgte im Jahr 1908", "Die Hauptkuppel ist etwa 30 Meter hoch", "Beherbergt Glocken aus den USA", "Zentrum des katholischen Lebens in Sonora", "Verfügt über beeindruckende Buntglasfenster"],
+      hu: ["A jelenlegi épület építése 1877-ben kezdődött", "A teljes befejezés 1908-ban történt meg", "A fő kupola körülbelül 30 méter magas", "Az Amerikai Egyesült Államokból hozott harangok", "Sonora állam katolikus életének központja", "Lenyűgöző színes ólomüveg ablakokkal rendelkezik"],
+      ro: ["Construcția structurii actuale a început în 1877", "Finalizarea a avut loc în anul 1908", "Cupola principală are circa 30 de metri înălțime", "Găzduiește clopote aduse din Statele Unite", "Centrul vieții catolice din statul Sonora", "Dispune de vitralii impresionante în interior"],
+      en: ["Construction of the current structure began in 1877", "Completion took place in the year 1908", "The main dome is approximately 30 meters high", "Houses bells imported from the United States", "Center of Catholic life in the state of Sonora", "Features impressive stained glass windows"],
+    },
   },
   {
     id: "mexico-culiacan-cathedral-landmarks-v2",
@@ -798,6 +1290,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Built in the mid-19th century", "Features two symmetrical towers", "Distinctive clock on the facade", "Center of local religious life"],
     },
     imageHint: "Culiacan Cathedral Sinaloa facade",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Culiacán, gewidmet Unserer Lieben Frau vom Rosenkranz, ist ein markantes neoklassizistisches Gebäude im historischen Zentrum. Sie ist bekannt für ihre schlichte, aber elegante Fassade aus Backstein und Stein. Die Kirche ist der Sitz der Diözese Culiacán und spielt eine zentrale Rolle im kulturellen Leben der Stadt.",
+      hu: "A Culiacán-i székesegyház, amelyet a Rózsafüzér Királynőjének szenteltek, egy jellegzetes neoklasszicista épület a történelmi központban. Egyszerű, de elegáns tégla- és kőhomlokzatáról ismert. A templom a Culiacán-i egyházmegye székhelye, és központi szerepet játszik a város kulturális életében.",
+      ro: "Catedrala din Culiacán, dedicată Maicii Domnului a Rozariului, este o clădire neoclasică distinctivă în centrul istoric. Este cunoscută pentru fațada sa simplă, dar elegantă, din cărămidă și piatră. Biserica este sediul Diecezei de Culiacán și joacă un rol central în viața culturală a orașului.",
+      en: "The Culiacan Cathedral, dedicated to Our Lady of the Rosary, is a distinctive Neoclassical building in the historic center. It is known for its simple yet elegant brick and stone facade. The church is the seat of the Diocese of Culiacán and plays a central role in the city's cultural life.",
+    },
+    factsAdvanced: {
+      de: ["Bauarbeiten dauerten von 1842 bis 1885", "Entworfen vom Architekten Juan Jacobo de la Torre", "Die Türme haben schmiedeeiserne Turmspitzen", "Die Fassade zeigt eine Statue der Jungfrau", "Das Hauptmaterial ist rosa Bruchstein", "Innenraum ist im klassizistischen Stil gehalten"],
+      hu: ["Az építkezés 1842-től 1885-ig tartott", "Juan Jacobo de la Torre építész tervezte", "A tornyok kovácsoltvas csúcsokkal rendelkeznek", "A homlokzaton a Szűzanya szobra látható", "Fő építőanyaga a rózsaszín terméskő", "A belső tér klasszicista stílusban készült"],
+      ro: ["Lucrările de construcție au durat din 1842 până în 1885", "Proiectată de arhitectul Juan Jacobo de la Torre", "Turnurile au vârfuri din fier forjat", "Fațada prezintă o statuie a Fecioarei Rozariului", "Materialul principal este piatra roz de carieră", "Interiorul este amenajat în stil neoclasic"],
+      en: ["Construction lasted from 1842 to 1885", "Designed by the architect Juan Jacobo de la Torre", "The towers feature wrought iron spires", "The facade displays a statue of the Virgin Mary", "The primary building material is pink stone", "The interior is designed in the Neoclassical style"],
+    },
   },
   {
     id: "mexico-saltillo-cathedral-landmarks-v2",
@@ -817,6 +1321,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Dedicated to Saint James", "Built between 1745 and 1800", "Features magnificent stone carvings", "Dominates the local Plaza de Armas"],
     },
     imageHint: "Saltillo Cathedral facade Coahuila",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Saltillo ist eines der bedeutendsten Beispiele des Churriguerismus in Nordmexiko. Ihre reich verzierte Barockfassade und der imposante Glockenturm prägen das Stadtbild. Die dem heiligen Jakobus gewidmete Kirche beherbergt wertvolle Ölgemälde und einen prächtigen Hauptaltar aus der Kolonialzeit.",
+      hu: "A saltillói székesegyház az észak-mexikói churriguereszk stílus egyik legjelentősebb példája. Gazdagon díszített barokk homlokzata és impozáns harangtornya meghatározza a városképet. A Szent Jakabnak szentelt templom értékes olajfestményeket és egy pompás gyarmati kori főoltárt őriz.",
+      ro: "Catedrala din Saltillo este unul dintre cele mai importante exemple de stil churrigueresc din nordul Mexicului. Fațada barocă bogat decorată și turnul clopotniță impunător definesc peisajul urban. Biserica dedicată Sfântului Iacob găzduiește picturi în ulei valoroase și un altar principal magnific din epoca colonială.",
+      en: "The Saltillo Cathedral is one of the most significant examples of Churrigueresque style in northern Mexico. Its richly decorated Baroque facade and imposing bell tower define the cityscape. The church dedicated to Saint James houses valuable oil paintings and a magnificent main altar from the colonial era.",
+    },
+    factsAdvanced: {
+      de: ["Bau begann 1745 und endete 1800", "Der Glockenturm ist 81 Meter hoch", "Einer der höchsten Kirchtürme Mexikos", "Verfügt über 12 harmonische Glocken", "Hauptpatron ist der Apostel Santiago", "Die Fassade zeigt feine Steinmetzarbeiten"],
+      hu: ["Az építés 1745-ben kezdődött és 1800-ban zárult", "A harangtorony magassága 81 méter", "Mexikó egyik legmagasabb templomtornya", "12 összehangolt haranggal rendelkezik", "Fő védőszentje Szent Jakab apostol", "A homlokzaton finom kőfaragások láthatók"],
+      ro: ["Construcția a început în 1745 și s-a încheiat în 1800", "Turnul clopotniță are o înălțime de 81 de metri", "Unul dintre cele mai înalte turnuri de biserică din Mexic", "Dispune de 12 clopote acordate armonios", "Patronul principal este Apostolul Santiago", "Fațada prezintă lucrări fine de sculptură în piatră"],
+      en: ["Construction began in 1745 and ended in 1800", "The bell tower is 81 meters high", "One of the tallest church towers in Mexico", "Features 12 harmoniously tuned bells", "The main patron is the Apostle Saint James", "The facade shows fine stone carving work"],
+    },
   },
   {
     id: "mexico-la-paz-cathedral-landmarks-v2",
@@ -836,6 +1352,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Founded in the 19th century", "Features two short, square towers", "Overlooks the central park of the city", "Has a relatively modern interior"],
     },
     imageHint: "La Paz Mexico Cathedral facade",
+    descriptionAdvanced: {
+      de: "Die Kathedrale Unserer Lieben Frau vom Frieden in La Paz steht an der Stelle einer Jesuitenmission aus dem 18. Jahrhundert. Das heutige Gebäude im neoklassizistischen Stil wurde Mitte des 19. Jahrhunderts errichtet. Die Kathedrale ist bekannt für ihre zwei quadratischen Türme und ihre ruhige Atmosphäre am zentralen Garten von Velasco.",
+      hu: "A Béke Miasszonyunk-székesegyház La Pazban egy 18. századi jezsuita misszió helyén áll. A jelenlegi neoklasszicista stílusú épületet a 19. század közepén emelték. A székesegyház két négyzet alakú tornyáról és a központi Velasco-kertnél uralkodó nyugodt légköréről ismert.",
+      ro: "Catedrala Maicii Domnului a Păcii din La Paz se află pe locul unei misiuni iezuite din secolul al XVIII-lea. Clădirea actuală în stil neoclasic a fost ridicată la mijlocul secolului al XIX-lea. Catedrala este cunoscută pentru cele două turnuri pătrate și atmosfera liniștită de lângă grădina centrală Velasco.",
+      en: "The Cathedral of Our Lady of Peace in La Paz stands on the site of an 18th-century Jesuit mission. The current Neoclassical-style building was erected in the mid-19th century. The cathedral is known for its two square towers and its peaceful atmosphere by the central Velasco Garden.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1861 und 1865", "Steht auf dem Ort der Mission von 1720", "Die Türme haben pyramidenförmige Spitzen", "Beherbergt Altäre im neugotischen Stil", "Sitz der Diözese von La Paz", "Wichtigstes religiöses Zentrum in Baja California Sur"],
+      hu: ["1861 és 1865 között épült az épület", "Az 1720-as misszió helyén található", "A tornyok piramis alakú csúcsokkal rendelkeznek", "Neogótikus stílusú oltárokat őriz", "A La Paz-i egyházmegye székhelye", "Baja California Sur legfontosabb vallási központja"],
+      ro: ["Construită între anii 1861 și 1865", "Situată pe locul misiunii din anul 1720", "Turnurile au vârfuri în formă de piramidă", "Găzduiește altare în stil neogotic", "Sediul Diecezei de La Paz", "Cel mai important centru religios din Baja California Sur"],
+      en: ["Built between 1861 and 1865", "Stands on the site of the 1720 mission", "The towers have pyramid-shaped spires", "Houses altars in the Neo-Gothic style", "Seat of the Diocese of La Paz", "Most important religious center in Baja California Sur"],
+    },
   },
   {
     id: "mexico-puebla-cathedral-landmarks-v2",
@@ -855,6 +1383,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Towers are 73 meters high", "Took nearly 300 years to complete", "Consecrated in the year 1649", "Located in the historic center"],
     },
     imageHint: "Puebla Cathedral towers facade",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Puebla ist ein Meisterwerk der Kolonialarchitektur und UNESCO-Welterbe. Ihre Türme gehören zu den höchsten Mexikos und bieten einen weiten Blick über die historische Stadt. Der Innenraum besticht durch den prachtvollen 'Altar der Könige' und wertvolle sakrale Kunstwerke bedeutender Künstler.",
+      hu: "A Puebla-i székesegyház a gyarmati építészet remekműve és az UNESCO Világörökség része. Tornyai Mexikó legmagasabbjai közé tartoznak, széles kilátást nyújtva a történelmi városra. A belső teret a pompás 'Királyok oltára' és jelentős művészek értékes egyházművészeti alkotásai díszítik.",
+      ro: "Catedrala din Puebla este o capodoperă a arhitecturii coloniale și patrimoniu mondial UNESCO. Turnurile sale sunt printre cele mai înalte din Mexic, oferind o vedere largă asupra orașului istoric. Interiorul se remarcă prin magnificul 'Altar al Regilor' și opere de artă sacră valoroase ale unor artiști importanți.",
+      en: "The Puebla Cathedral is a masterpiece of colonial architecture and a UNESCO World Heritage site. Its towers are among the tallest in Mexico, offering a wide view over the historic city. The interior features the magnificent 'Altar of the Kings' and valuable sacred artworks by significant artists.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau begann im Jahr 1575", "Die Weihe erfolgte im Jahr 1649", "Die Türme erreichen eine Höhe von 73 Metern", "Entworfen vom Architekten Francisco Becerra", "Beherbergt den monumentalen Altar der Könige", "UNESCO-Welterbe seit dem Jahr 1987"],
+      hu: ["Az építkezés 1575-ben kezdődött", "A felszentelésre 1649-ben került sor", "A tornyok magassága eléri a 73 métert", "Francisco Becerra építész tervezte", "A monumentális Királyok oltárát őrzi", "1987 óta az UNESCO Világörökség része"],
+      ro: ["Construcția a început în anul 1575", "Sfințirea a avut loc în anul 1649", "Turnurile ating o înălțime de 73 de metri", "Proiectată de arhitectul Francisco Becerra", "Găzduiește monumentalul Altar al Regilor", "Patrimoniu Mondial UNESCO din anul 1987"],
+      en: ["Construction began in the year 1575", "Consecration took place in the year 1649", "The towers reach a height of 73 meters", "Designed by the architect Francisco Becerra", "Houses the monumental Altar of the Kings", "UNESCO World Heritage site since the year 1987"],
+    },
   },
   {
     id: "mexico-monument-to-the-homeland-landmarks-v2",
@@ -874,6 +1414,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Built in the year 1956", "Created by sculptor Rómulo Rozo", "Over 300 hand-carved figures", "A symbol of the city of Merida"],
     },
     imageHint: "Monumento a la Patria Merida Mexico",
+    descriptionAdvanced: {
+      de: "Das Monumento a la Patria befindet sich auf dem Paseo de Montejo in Mérida und wurde vom Bildhauer Rómulo Rozo geschaffen. Das 1956 eingeweihte Denkmal besteht vollständig aus handgehauenem Stein. Es stellt die Geschichte Mexikos durch mehr als 300 Figuren dar, die von der vorspanischen Zeit bis zur Mitte des 20. Jahrhunderts reichen.",
+      hu: "A Mérida városában található Monumento a la Patria a Paseo de Montejo sugárút ikonikus emlékműve, melyet Rómulo Rozo szobrász alkotott. Az 1956-ban felavatott építmény teljes egészében kézzel faragott kőből készült. A monumentális fal több mint 300 alak segítségével mutatja be Mexikó történelmét a prehispán korszaktól a 20. századig.",
+      ro: "Monumentul Patriei situat pe Paseo de Montejo în Mérida a fost creat de sculptorul columbian Rómulo Rozo. Inaugurat în 1956, monumentul este construit integral din piatră sculptată manual. Acesta ilustrează istoria Mexicului prin intermediul a peste 300 de figuri care acoperă perioada de la epoca prehispanică până la mijlocul secolului XX.",
+      en: "The Monument to the Homeland is located on the Paseo de Montejo in Merida and was created by sculptor Romulo Rozo. Inaugurated in 1956, the monument is constructed entirely of hand-carved stone. It depicts the history of Mexico through more than 300 figures ranging from the pre-Hispanic era to the middle of the 20th century.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau des Monuments dauerte insgesamt 11 Jahre bis zur Fertigstellung 1956.", "Es ist das einzige Denkmal weltweit, das die Geschichte eines Landes in Stein gehauen zeigt.", "Der Bildhauer Rómulo Rozo lebte und arbeitete bis zu seinem Tod in Mérida.", "Das Bauwerk enthält Symbole der Maya-Kultur und Darstellungen von Tenochtitlan.", "Es befindet sich am nördlichen Ende der prachtvollen Allee Paseo de Montejo.", "Die halbrunde Struktur dient als zentraler Punkt für kulturelle Veranstaltungen."],
+      hu: ["Az emlékmű építése összesen 11 évig tartott az 1956-os átadásig.", "Ez a világ egyetlen olyan emlékműve, amely egy nemzet teljes történelmét kőbe faragva mutatja be.", "Rómulo Rozo szobrász haláláig Méridában élt és dolgozott az alkotáson.", "A szerkezet számos maja szimbólumot és Tenochtitlan alapításának ábrázolását is tartalmazza.", "A monumentális mű a Paseo de Montejo sugárút északi végén található.", "A félköríves kialakítás központi helyszínéül szolgál a városi ünnepségeknek."],
+      ro: ["Construcția monumentului a durat în total 11 ani până la inaugurarea sa în 1956.", "Este singurul monument din lume care prezintă istoria unei națiuni sculptată integral în piatră.", "Sculptorul Rómulo Rozo a trăit și a lucrat în Mérida până la moartea sa.", "Structura include simboluri ale culturii Maya și reprezentări ale întemeierii Tenochtitlanului.", "Se află situat la capătul nordic al prestigiosului bulevard Paseo de Montejo.", "Designul semicircular servește ca punct central pentru diverse evenimente culturale."],
+      en: ["Construction of the monument took a total of 11 years until its completion in 1956.", "It is the only monument in the world that shows the history of a country carved in stone.", "Sculptor Romulo Rozo lived and worked in Merida until his death.", "The structure contains symbols of Maya culture and depictions of the founding of Tenochtitlan.", "It is located at the northern end of the magnificent Paseo de Montejo avenue.", "The semi-circular design serves as a central point for major cultural events."],
+    },
   },
   {
     id: "mexico-oaxaca-cathedral-landmarks-v2",
@@ -893,6 +1445,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Construction began in 1535", "Baroque facade from the 18th century", "Houses a valuable pipe organ", "Part of the UNESCO World Heritage site"],
     },
     imageHint: "Oaxaca Cathedral green stone facade",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Oaxaca, offiziell der Unbefleckten Empfängnis gewidmet, steht am zentralen Zócalo der Stadt. Der Bau begann im Jahr 1535, wurde jedoch durch Erdbeben mehrfach beschädigt und im 18. Jahrhundert neu errichtet. Die heutige Fassade aus dem 18. Jahrhundert ist ein hervorragendes Beispiel für den mexikanischen Barock.",
+      hu: "Az Oaxaca-székesegyház, amelyet hivatalosan a Szeplőtelen Fogantatásnak szenteltek, a város központi főterén, a Zócalón található. Az építkezés 1535-ben kezdődött, de a földrengések miatt többször megrongálódott és a 18. században újjáépítették. A jelenlegi, 18. századi homlokzat a mexikói barokk építészet kiemelkedő példája.",
+      ro: "Catedrala din Oaxaca, dedicată oficial Neprihănitei Zămisliri, se află în piața centrală Zócalo a orașului. Construcția a început în 1535, dar clădirea a fost avariată de cutremure și reconstruită în secolul al XVIII-lea. Fațada actuală din secolul al XVIII-lea reprezintă un exemplu remarcabil al stilului baroc mexican.",
+      en: "The Oaxaca Cathedral, officially dedicated to the Immaculate Conception, stands on the city's central Zocalo. Construction began in 1535, but the building was damaged by earthquakes and rebuilt in the 18th century. The current 18th-century facade is an outstanding example of Mexican Baroque architecture.",
+    },
+    factsAdvanced: {
+      de: ["Die heutige Kathedrale wurde zwischen 1702 und 1733 nach mehreren Erdbeben errichtet.", "Die Fassade zeigt aufwendige Steinmetzarbeiten aus grünem Cantera-Stein.", "In der Kirche befindet sich eine bedeutende Sammlung von Gemälden aus der Kolonialzeit.", "Die Glockentürme wurden im 19. Jahrhundert nach einem schweren Beben rekonstruiert.", "Das Hauptportal zeigt eine Darstellung der Aufnahme Mariens in den Himmel.", "Die Kathedrale ist Teil des UNESCO-Welterbes der Altstadt von Oaxaca."],
+      hu: ["A mai székesegyház 1702 és 1733 között épült fel több pusztító földrengést követően.", "A homlokzat bonyolult faragványai a régióra jellemző zöld 'cantera' kőből készültek.", "A templomban a gyarmati korszakból származó jelentős festménygyűjtemény található.", "A harangtornyokat a 19. században egy újabb súlyos földrengés után kellett helyreállítani.", "A főkapu feletti dombormű Szűz Mária mennybevételét ábrázolja.", "A katedrális Oaxaca óvárosával együtt az UNESCO Világörökség részét képezi."],
+      ro: ["Catedrala actuală a fost ridicată între anii 1702 și 1733 după mai multe seisme.", "Fațada prezintă sculpturi complexe realizate din piatră 'cantera' verde locală.", "În interiorul bisericii se află o colecție importantă de picturi din epoca colonială.", "Turnurile cu clopot au fost reconstruite în secolul al XIX-lea după un cutremur major.", "Portalul principal prezintă o reprezentare a Adormirii Maicii Domnului.", "Catedrala face parte din Centrul Istoric din Oaxaca, inclus în patrimoniul UNESCO."],
+      en: ["The current cathedral was built between 1702 and 1733 following several earthquakes.", "The facade features intricate carvings made from local green 'cantera' stone.", "Inside the church is a significant collection of paintings from the colonial period.", "The bell towers were reconstructed in the 19th century after a major quake.", "The main portal features a depiction of the Assumption of the Virgin Mary.", "The cathedral is part of the UNESCO World Heritage Site of Oaxaca's historic center."],
+    },
   },
   {
     id: "mexico-santo-domingo-church-oaxaca-landmarks-v2",
@@ -912,6 +1476,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Built between 1570 and 1608", "Now houses a cultural museum", "Features a gilded ceiling in the choir", "Masterpiece of Mexican Baroque"],
     },
     imageHint: "Church of Santo Domingo de Guzman Oaxaca interior",
+    descriptionAdvanced: {
+      de: "Die Kirche Santo Domingo de Guzmán in Oaxaca ist ein Meisterwerk des mexikanischen Barocks. Der Bau durch den Dominikanerorden begann 1570 und dauerte über 100 Jahre. Besonders bekannt ist das Innere der Kirche, das fast vollständig mit Blattgold und aufwendigen Stuckarbeiten verziert ist.",
+      hu: "Az oaxacai Santo Domingo de Guzmán-templom a mexikói barokk építészet egyik remekműve. A dominikánus rend építkezése 1570-ben kezdődött és több mint 100 évig tartott. A templom belseje különösen híres, mivel szinte teljesen aranyfüsttel és bonyolult stukkókkal díszített.",
+      ro: "Biserica Santo Domingo de Guzmán din Oaxaca este o capodoperă a barocului mexican. Construcția de către ordinul dominican a început în 1570 și a durat peste 100 de ani. Interiorul bisericii este celebru pentru că este aproape în întregime acoperit cu foiță de aur și stucaturi complexe.",
+      en: "The Santo Domingo de Guzman Church in Oaxaca is a masterpiece of Mexican Baroque architecture. Construction by the Dominican order began in 1570 and lasted over 100 years. The church's interior is particularly famous for being almost entirely covered in gold leaf and intricate stucco work.",
+    },
+    factsAdvanced: {
+      de: ["Der Baukomplex umfasst ein ehemaliges Kloster, das heute das Museum der Kulturen beherbergt.", "Die Rosenkranzkapelle im Inneren gilt als eines der schönsten Barockwerke Mexikos.", "Der Stammbaum des Heiligen Dominikus ist an der Decke des Kircheneingangs dargestellt.", "Die Kirche diente während des Reformkrieges im 19. Jahrhundert zeitweise als Kaserne.", "Es wurden über 60.000 Blätter aus 24-karätigem Gold für die Dekoration verwendet.", "Der botanische Garten des Klosters zeigt ausschließlich Pflanzen aus dem Bundesstaat Oaxaca."],
+      hu: ["Az épületegyüttes része egy korábbi kolostor, amely ma az Oaxacai Kultúrák Múzeuma.", "A belső Rózsafüzér-kápolnát Mexikó egyik legszebb barokk alkotásának tartják.", "Szent Domonkos családfája a templom bejáratának mennyezetén látható.", "A templomot a 19. századi reformháború idején katonai laktanyaként használták.", "A belső díszítéshez több mint 60 000 darab 24 karátos aranyfüstöt használtak fel.", "A kolostor botanikus kertje kizárólag Oaxaca államban honos növényeket mutat be."],
+      ro: ["Complexul include o fostă mănăstire care găzduiește astăzi Muzeul Culturilor din Oaxaca.", "Capela Rozariului din interior este considerată una dintre cele mai frumoase lucrări baroce.", "Arborele genealogic al Sfântului Dominic este reprezentat pe tavanul de la intrare.", "Biserica a servit drept cazarmă militară în timpul Războiului de Reformă din secolul XIX.", "Peste 60.000 de foițe de aur de 24 de carate au fost folosite pentru decorațiuni.", "Grădina botanică a mănăstirii prezintă exclusiv plante native din statul Oaxaca."],
+      en: ["The complex includes a former convent that now houses the Museum of Cultures of Oaxaca.", "The Rosary Chapel inside is considered one of the finest Baroque works in Mexico.", "The family tree of Saint Dominic is depicted on the ceiling of the church entrance.", "The church served as a military barracks during the 19th-century Reform War.", "Over 60,000 sheets of 24-karat gold leaf were used for the interior decorations.", "The convent's botanical garden features plants exclusively native to the state of Oaxaca."],
+    },
   },
   {
     id: "mexico-colima-cathedral-landmarks-v2",
@@ -931,6 +1507,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Consecrated in the year 1894", "Neoclassical architectural style", "Features two tall white bell towers", "Contains beautiful stained glass windows"],
     },
     imageHint: "Colima Cathedral Mexico facade",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Colima, offiziell Basílica Menor de la Virgen de Guadalupe, ist ein bedeutendes religiöses Gebäude im Stadtzentrum. Das heutige Bauwerk wurde 1894 fertiggestellt, nachdem frühere Kirchen durch Erdbeben zerstört worden waren. Architekturgeschichtlich vereint sie Elemente des Neoklassizismus und der Renaissance.",
+      hu: "A Colima-székesegyház, hivatalos nevén a Guadalupei Szűz Kisbazilikája, a városközpont meghatározó vallási épülete. A jelenlegi építmény 1894-ben készült el, miután a korábbi templomokat földrengések rombolták le. Építészetileg a neoklasszicizmus és a reneszánsz stílusjegyeit ötvözi.",
+      ro: "Catedrala din Colima, cunoscută oficial ca Basílica Menor de la Virgen de Guadalupe, este un edificiu religios major din centrul orașului. Clădirea actuală a fost finalizată în 1894, după ce bisericile anterioare au fost distruse de cutremure. Arhitectural, aceasta îmbină elemente neoclasice și renascentiste.",
+      en: "The Colima Cathedral, officially known as the Basílica Menor de la Virgen de Guadalupe, is a major religious landmark in the city center. The current structure was completed in 1894 after previous churches were destroyed by earthquakes. Architecturally, it blends Neoclassical and Renaissance elements.",
+    },
+    factsAdvanced: {
+      de: ["Papst Johannes Paul II. verlieh der Kathedrale im Jahr 1998 den Titel einer Basilica Minor.", "Das Gebäude wurde bei den Erdbeben von 1941 und 2003 erheblich beschädigt.", "Die Fassade zeichnet sich durch zwei markante Türme und eine zentrale Kuppel aus.", "Im Inneren befindet sich ein Altar aus Carrara-Marmor, der aus Italien stammt.", "Die erste Kapelle an diesem Standort wurde bereits im Jahr 1525 errichtet.", "Die Kathedrale beherbergt eine geschätzte Statue der Jungfrau von Guadalupe."],
+      hu: ["II. János Pál pápa 1998-ban adományozott kisbazilika rangot a székesegyháznak.", "Az épület jelentős károkat szenvedett az 1941-es és a 2003-as földrengések során.", "A homlokzatot két jellegzetes torony és egy központi kupola határozza meg.", "A belső térben egy Olaszországból származó Carrara márvány oltár található.", "Az első kápolnát ezen a helyszínen már 1525-ben felépítették a spanyolok.", "A katedrális a Guadalupei Szűzanya tiszteletére szentelt fontos kegyhely."],
+      ro: ["Papa Ioan Paul al II-lea a acordat catedralei titlul de Basilica Minor în anul 1998.", "Clădirea a suferit daune semnificative în timpul cutremurelor din 1941 și 2003.", "Fațada se remarcă prin cele două turnuri distinctive și o cupolă centrală.", "În interior se află un altar realizat din marmură de Carrara importată din Italia.", "Prima capelă pe acest amplasament a fost construită încă din anul 1525.", "Catedrala adăpostește o statuie venerată a Fecioarei de Guadalupe."],
+      en: ["Pope John Paul II granted the cathedral the title of Basilica Minor in 1998.", "The building suffered significant damage during the 1941 and 2003 earthquakes.", "The facade is characterized by two distinctive towers and a central dome.", "The interior features an altar made of Carrara marble imported from Italy.", "The first chapel on this site was established as early as 1525.", "The cathedral houses a revered statue of the Virgin of Guadalupe."],
+    },
   },
   {
     id: "mexico-queretaro-convent-landmarks-v2",
@@ -950,6 +1538,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Founded in the year 1683", "Site of Emperor Maximilian's prison", "Houses valuable religious art", "The cross-thorn tree grows in the garden"],
     },
     imageHint: "Convento de la Santa Cruz Queretaro",
+    descriptionAdvanced: {
+      de: "Der Konvent des Heiligen Kreuzes in Querétaro wurde im 17. Jahrhundert an der Stelle einer historischen Schlacht zwischen Spaniern und Chichimeken errichtet. Die Anlage diente als wichtiges Missionszentrum der Franziskaner für ganz Nordamerika. Heute ist der Ort besonders für seine religiöse Bedeutung und seine Legenden bekannt.",
+      hu: "A querétarói Szent Kereszt-kolostor a 17. században épült azon a helyen, ahol a spanyolok és a chichimeca indiánok történelmi csatát vívtak. Az épületegyüttes a ferences rend fontos missziós központjaként szolgált Észak-Amerikában. Napjainkban a hely vallási jelentőségéről és különleges legendáiról nevezetes.",
+      ro: "Mănăstirea Sfintei Cruci din Querétaro a fost ridicată în secolul XVII pe locul unei bătălii istorice între spanioli și chichimeci. Complexul a servit ca un centru misionar franciscan crucial pentru întreaga Americă de Nord. Astăzi, locul este renumit pentru semnificația sa religioasă și legendele locale.",
+      en: "The Convent of the Holy Cross in Queretaro was built in the 17th century on the site of a historic battle between the Spanish and Chichimeca. The complex served as a crucial Franciscan missionary center for all of North America. Today, the site is famous for its religious significance and local legends.",
+    },
+    factsAdvanced: {
+      de: ["Im Garten wachsen Bäume mit kreuzförmigen Dornen, was als Wunder gilt.", "Der Konvent war der Endpunkt des ersten Aquädukts von Querétaro aus dem Jahr 1738.", "Maximilian I., Kaiser von Mexiko, wurde hier 1867 vor seiner Hinrichtung gefangen gehalten.", "Die Kirche beherbergt eine Replik des Kreuzes, das während der Schlacht von 1531 erschien.", "Es war die erste Ausbildungsstätte für Missionare in Amerika (Propaganda Fide).", "Das Gebäude diente während der mexikanischen Revolution auch als Militärgefängnis."],
+      hu: ["A kertben olyan fák nőnek, amelyek tövisei kereszt alakúak, amit csodának tartanak.", "A kolostor volt az 1738-ban befejezett querétarói vízvezeték végpontja.", "I. Miksa mexikói császárt itt tartották fogva 1867-ben a kivégzése előtt.", "A templomban az 1531-es csata során megjelent kereszt másolatát őrzik.", "Ez volt az amerikai kontinens első misszionárius-képző központja.", "A mexikói forradalom idején az épület katonai börtönként is funkcionált."],
+      ro: ["În grădină cresc copaci cu spini în formă de cruce, fenomen considerat un miracol.", "Mănăstirea a fost punctul terminus al primului apeduct din Querétaro, finalizat în 1738.", "Împăratul Maximilian I al Mexicului a fost încarcerat aici înainte de execuția sa în 1867.", "Biserica adăpostește o replică a crucii care ar fi apărut în timpul bătăliei din 1531.", "A fost primul colegiu de misionari din America (Propaganda Fide).", "Clădirea a servit și ca închisoare militară în timpul Revoluției Mexicane."],
+      en: ["Trees with cross-shaped thorns grow in the garden, which is considered a miracle.", "The convent was the terminus of Queretaro's first aqueduct, completed in 1738.", "Emperor Maximilian I of Mexico was imprisoned here before his execution in 1867.", "The church houses a replica of the cross that reportedly appeared during the 1531 battle.", "It was the first missionary training college in the Americas (Propaganda Fide).", "The building also served as a military prison during the Mexican Revolution."],
+    },
   },
   {
     id: "mexico-toluca-cosmovitral-landmarks-v2",
@@ -969,6 +1569,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["World's largest stained-glass mural", "Consists of 500,000 glass pieces", "Designed by artist Leopoldo Flores", "Houses over 400 species of plants"],
     },
     imageHint: "Cosmovitral Toluca stained glass",
+    descriptionAdvanced: {
+      de: "Das Cosmovitral in Toluca ist ein botanischer Garten, der in einem ehemaligen Marktplatzgebäude aus dem frühen 20. Jahrhundert untergebracht ist. Es ist berühmt für seine riesigen Buntglaswände, die das größte Ensemble dieser Art weltweit darstellen. Die Glaskunstwerke thematisieren die Beziehung zwischen Mensch, Universum und Naturkräften.",
+      hu: "A Tolucában található Cosmovitral egy botanikus kert, amely egy 20. század eleji korábbi piaccsarnokban kapott helyet. Világhírű a hatalmas ólomüveg falairól, amelyek a világ legnagyobb ilyen jellegű együttesét alkotják. Az üvegalkotások az ember, a világegyetem és a természeti erők kapcsolatát mutatják be.",
+      ro: "Cosmovitral din Toluca este o grădină botanică adăpostită într-o fostă clădire de piață de la începutul secolului XX. Este renumit pentru pereții săi uriași din vitralii, care formează cel mai mare ansamblu de acest tip din lume. Opera de artă explorează relația dintre om, univers și forțele naturii.",
+      en: "The Cosmovitral in Toluca is a botanical garden housed in a former market building from the early 20th century. It is famous for its massive stained-glass walls, which constitute the largest ensemble of its kind in the world. The glass artwork explores the relationship between man, the universe, and natural forces.",
+    },
+    factsAdvanced: {
+      de: ["Das Projekt wurde vom mexikanischen Künstler Leopoldo Flores entworfen.", "Die Installation besteht aus rund 500.000 einzelnen Glasstücken aus 28 verschiedenen Farben.", "Das zentrale Motiv 'Der Sonnenmensch' (Hombre Sol) ist das Wahrzeichen der Stadt Toluca.", "Der botanische Garten beherbergt über 400 Pflanzenarten aus aller Welt.", "Das Gebäude wurde ursprünglich 1910 als Markt zum 100. Jubiläum der Unabhängigkeit erbaut.", "Die Fertigstellung der Glasarbeiten dauerte drei Jahre, von 1978 bis 1980."],
+      hu: ["A projektet Leopoldo Flores mexikói művész tervezte és valósította meg.", "Az alkotás mintegy 500 000 egyedi üvegdarabból áll, 28 különböző színben.", "A központi 'Napember' (Hombre Sol) motívum Toluca városának jelképévé vált.", "A botanikus kertben a világ minden tájáról származó több mint 400 növényfaj található.", "Az épület eredetileg 1910-ben épült piacnak a függetlenség 100. évfordulójára.", "Az üvegfalak elkészítése három évet vett igénybe 1978 és 1980 között."],
+      ro: ["Proiectul a fost conceput de artistul mexican Leopoldo Flores.", "Instalația este compusă din aproximativ 500.000 de piese individuale de sticlă în 28 de culori.", "Motivul central 'Omul Soare' (Hombre Sol) a devenit emblema orașului Toluca.", "Grădina botanică găzduiește peste 400 de specii de plante din întreaga lume.", "Clădirea a fost construită inițial în 1910 ca piață pentru centenarul independenței.", "Finalizarea vitraliilor a durat trei ani, între 1978 și 1980."],
+      en: ["The project was designed by the Mexican artist Leopoldo Flores.", "The installation consists of approximately 500,000 individual glass pieces in 28 colors.", "The central motif 'The Sun Man' (Hombre Sol) has become the symbol of Toluca.", "The botanical garden houses over 400 species of plants from all over the world.", "The building was originally constructed in 1910 as a market for the independence centennial.", "The completion of the stained glass took three years, from 1978 to 1980."],
+    },
   },
   {
     id: "mexico-tequila-express-landmarks-v2",
@@ -988,6 +1600,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Built in the late 19th century", "Starting point of the Tequila Route", "Part of Mexico's industrial history", "Decorated with agave themes"],
     },
     imageHint: "Tequila railway station Mexico",
+    descriptionAdvanced: {
+      de: "Die Tequila Express Station in Guadalajara ist der Ausgangspunkt für eine kulturelle Zugreise durch die Agavenlandschaften von Jalisco. Der Zug verbindet die Landeshauptstadt mit den traditionellen Brennereien in Amatitán. Passagiere erleben während der Fahrt mexikanische Folklore, Musik und die Geschichte der Tequila-Produktion.",
+      hu: "A guadalajarai Tequila Express állomás a kiindulópontja annak a kulturális vonatútnak, amely Jalisco agávémezőin halad keresztül. A vonat az állam fővárosát köti össze Amatitán hagyományos lepárlóival. Az utasok az út során megismerhetik a mexikói folklórt, a zenét és a tequilagyártás történelmét.",
+      ro: "Gara Tequila Express din Guadalajara este punctul de plecare pentru o călătorie culturală cu trenul prin peisajele de agave din Jalisco. Trenul leagă capitala statului de distileriile tradiționale din Amatitán. Pasagerii experimentează folclorul mexican, muzica și istoria producției de tequila.",
+      en: "The Tequila Express Station in Guadalajara is the starting point for a cultural train journey through the agave landscapes of Jalisco. The train connects the state capital with traditional distilleries in Amatitán. Passengers experience Mexican folklore, music, and the history of tequila production during the trip.",
+    },
+    factsAdvanced: {
+      de: ["Der Tequila Express wurde im Jahr 1997 zur Förderung des Tourismus in Jalisco ins Leben gerufen.", "Die Fahrt führt in die Region, die von der UNESCO als Agavenlandschaft geschützt ist.", "Ziel der Reise ist oft die Hacienda San José del Refugio in Amatitán.", "An Bord des Zuges treten traditionelle Mariachi-Gruppen live auf.", "Der Tequila wurde 1974 als erste mexikanische Herkunftsbezeichnung geschützt.", "Die Station nutzt Teile des historischen Schienennetzes der Ferrocarriles Nacionales."],
+      hu: ["A Tequila Express 1997-ben indult útjára Jalisco turizmusának fellendítésére.", "Az út az UNESCO által világörökségnek nyilvánított agávévidéken vezet keresztül.", "Az utazás célpontja gyakran az amatitáni Hacienda San José del Refugio.", "A vonat fedélzetén hagyományos mariachi zenekarok szórakoztatják az utasokat.", "A tequila volt az első mexikói termék, amely 1974-ben eredetvédelmet kapott.", "Az állomás a Ferrocarriles Nacionales történelmi vasúthálózatának részét használja."],
+      ro: ["Tequila Express a fost lansat în 1997 pentru a promova turismul în statul Jalisco.", "Traseul trece prin regiunea protejată de UNESCO ca peisaj cultural al agavelor.", "Destinația călătoriei este adesea Hacienda San José del Refugio din Amatitán.", "La bordul trenului, grupuri tradiționale de mariachi susțin spectacole live.", "Tequila a fost prima denumire de origine protejată din Mexic, în 1974.", "Stația utilizează porțiuni din rețeaua feroviară istorică a Ferrocarriles Nacionales."],
+      en: ["The Tequila Express was launched in 1997 to promote tourism in Jalisco.", "The route passes through the region protected by UNESCO as an agave landscape.", "The journey's destination is often the Hacienda San Jose del Refugio in Amatitan.", "Traditional mariachi groups perform live music on board the train.", "Tequila was the first Mexican denomination of origin to be protected, in 1974.", "The station uses parts of the historical Ferrocarriles Nacionales rail network."],
+    },
   },
   {
     id: "mexico-zacatecas-cable-car-landmarks-v2",
@@ -1007,6 +1631,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Inaugurated in the year 1979", "Offers views of the UNESCO center", "Length of approximately 650 meters", "Recently modernized in 2018"],
     },
     imageHint: "Zacatecas cable car view",
+    descriptionAdvanced: {
+      de: "Die Seilbahn von Zacatecas (Teleférico) bietet einen spektakulären Panoramablick über die zum UNESCO-Welterbe gehörende Altstadt. Sie verbindet den Cerro del Grillo mit dem Gipfel des Cerro de la Bufa. Seit ihrer Eröffnung im Jahr 1979 ist sie eine der beliebtesten touristischen Attraktionen der Stadt.",
+      hu: "A zacatecasi felvonó (Teleférico) látványos panorámát nyújt az UNESCO Világörökség részét képező óvárosra. A kötélpálya a Cerro del Grillo dombot köti össze a Cerro de la Bufa csúcsával. 1979-es megnyitása óta a város egyik legnépszerűbb turisztikai látványossága.",
+      ro: "Telecabina din Zacatecas (Teleférico) oferă o vedere panoramică spectaculoasă asupra centrului istoric inclus în patrimoniul UNESCO. Aceasta face legătura între Cerro del Grillo și vârful Cerro de la Bufa. De la inaugurarea sa în 1979, este una dintre cele mai populare atracții turistice ale orașului.",
+      en: "The Zacatecas Cable Car (Teleferico) offers spectacular panoramic views of the city's UNESCO-listed historic center. It connects the Cerro del Grillo with the summit of Cerro de la Bufa. Since its opening in 1979, it has been one of the city's most popular tourist attractions.",
+    },
+    factsAdvanced: {
+      de: ["Die Seilbahn war bei ihrer Eröffnung 1979 die erste ihrer Art in Mexiko.", "Die Strecke hat eine Länge von etwa 650 Metern über dem Stadtzentrum.", "Die Kabinen schweben in einer maximalen Höhe von 85 Metern über dem Boden.", "Im Jahr 2018 wurde das System komplett modernisiert und mit neuen Kabinen ausgestattet.", "Eine der Kabinen besitzt einen Glasboden für einen direkten Blick nach unten.", "Die Fahrt dauert je nach Windbedingungen etwa sieben bis acht Minuten."],
+      hu: ["A felvonó 1979-es átadásakor az első ilyen jellegű létesítmény volt Mexikóban.", "A kötélpálya hossza körülbelül 650 méter a városközpont felett.", "A kabinok maximális magassága a talajszint felett eléri a 85 métert.", "2018-ban a rendszert teljesen modernizálták és új kabinokat állítottak forgalomba.", "Az egyik új kabin üvegpadlóval rendelkezik a közvetlen lefelé látáshoz.", "Az utazás a szélviszonyoktól függően körülbelül hét-nyolc percig tart."],
+      ro: ["Telecabina a fost prima de acest fel din Mexic la inaugurarea sa în 1979.", "Traseul are o lungime de aproximativ 650 de metri deasupra centrului orașului.", "Cabinele se deplasează la o înălțime maximă de 85 de metri față de sol.", "Sistemul a fost complet modernizat în 2018 și dotat cu cabine noi.", "Una dintre cabine are podea de sticlă pentru o vedere directă spre adâncime.", "Călătoria durează aproximativ șapte-opt minute, în funcție de condițiile de vânt."],
+      en: ["The cable car was the first of its kind in Mexico when it opened in 1979.", "The route spans approximately 650 meters across the historic city center.", "The cabins reach a maximum height of 85 meters above the ground.", "In 2018, the system was completely modernized and equipped with new cabins.", "One of the cabins features a glass floor for a direct view downwards.", "The journey takes about seven to eight minutes depending on wind conditions."],
+    },
   },
   {
     id: "mexico-tampico-customs-building-landmarks-v2",
@@ -1026,6 +1662,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Inaugurated in the year 1902", "Materials imported from England", "Promoted by President Porfirio Diaz", "Now functions as a maritime museum"],
     },
     imageHint: "Aduana Maritima Tampico building",
+    descriptionAdvanced: {
+      de: "Das Zollgebäude von Tampico ist ein herausragendes Beispiel für die Industriearchitektur der Porfiriato-Ära zu Beginn des 20. Jahrhunderts. Das Gebäude wurde aus rotem Backstein und Schmiedeeisen errichtet, das direkt aus Europa importiert wurde. Es zeugt von der wirtschaftlichen Bedeutung Tampicos als wichtiger Seehafen am Golf von Mexiko.",
+      hu: "A tampicói vámszékház a 20. század eleji Porfiriato-korszak ipari építészetének kiemelkedő példája. Az épület vörös téglából és Európából importált kovácsoltvasból készült. Az építmény hűen tükrözi Tampico gazdasági jelentőségét, mint a Mexikói-öböl egyik legfontosabb tengeri kikötője.",
+      ro: "Clădirea Vămii din Tampico este un exemplu remarcabil de arhitectură industrială din epoca Porfiriato, de la începutul secolului XX. Edificiul a fost construit din cărămidă roșie și fier forjat importat direct din Europa. Acesta atestă importanța economică a orașului Tampico ca port maritim major la Golful Mexic.",
+      en: "The Tampico Customs Building is an outstanding example of industrial architecture from the Porfiriato era in the early 20th century. The building was constructed using red brick and wrought iron imported directly from Europe. It reflects the economic importance of Tampico as a major seaport on the Gulf of Mexico.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude wurde im Jahr 1902 auf Befehl von Präsident Porfirio Díaz eingeweiht.", "Die Backsteine wurden aus England und die Eisenstrukturen aus Frankreich geliefert.", "Der architektonische Stil ist eine Mischung aus Neoklassizismus und englischem Design.", "Es befindet sich direkt am Ufer des Pánuco-Flusses in der Nähe der Mündung.", "Heute beherbergt das Gebäude ein Museum über die Geschichte des Zolls und des Hafens.", "Die schmiedeeisernen Säulen und Balkone sind original erhaltene Bauelemente."],
+      hu: ["Az épületet 1902-ben avatta fel Porfirio Díaz elnök parancsára.", "A téglákat Angliából, a vasszerkezeteket pedig Franciaországból szállították.", "Az építészeti stílus a neoklasszicizmus és az angol dizájn elemeit ötvözi.", "Közvetlenül a Pánuco-folyó partján, a torkolat közelében helyezkedik el.", "Ma az épületben a vámhivatal és a kikötő történetét bemutató múzeum működik.", "A kovácsoltvas oszlopok és erkélyek eredeti, épségben megmaradt elemek."],
+      ro: ["Clădirea a fost inaugurată în anul 1902 din ordinul președintelui Porfirio Díaz.", "Cărămizile au fost aduse din Anglia, iar structurile metalice din Franța.", "Stilul arhitectural este o fuziune între neoclasic și elemente de design englezesc.", "Este situată direct pe malul râului Pánuco, aproape de gura de vărsare.", "Astăzi, clădirea găzduiește un muzeu dedicat istoriei vămii și a portului.", "Coloanele și balcoanele din fier forjat sunt elemente originale bine conservate."],
+      en: ["The building was inaugurated in 1902 by order of President Porfirio Diaz.", "The bricks were imported from England and the iron structures from France.", "The architectural style is a blend of Neoclassicism and English design.", "It is located directly on the banks of the Panuco River near the mouth.", "Today, the building houses a museum dedicated to the history of customs and the port.", "The wrought-iron columns and balconies are original elements preserved to this day."],
+    },
   },
   {
     id: "mexico-villahermosa-cathedral-landmarks-v2",
@@ -1045,6 +1693,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Towers reach 75 meters in height", "Construction started in 1945", "Dedicated to the Lord of Tabasco", "Modern Neoclassical design"],
     },
     imageHint: "Catedral del Senor de Tabasco Villahermosa",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Villahermosa, auch bekannt als Catedral del Señor de Tila, ist das wichtigste religiöse Gebäude in Tabasco. Das markante Bauwerk zeichnet sich durch seine zwei extrem hohen Türme aus, die das Stadtbild dominieren. Die heutige Kathedrale wurde nach der Zerstörung früherer Kirchen in der Mitte des 20. Jahrhunderts neu errichtet.",
+      hu: "A Villahermosa-székesegyház, más néven a Catedral del Señor de Tila, Tabasco állam legfontosabb vallási építménye. A jellegzetes épületet két rendkívül magas tornya határozza meg, amelyek uralják a városképet. A mai katedrális a korábbi templomok pusztulása után, a 20. század közepén épült fel.",
+      ro: "Catedrala din Villahermosa, cunoscută și sub numele de Catedral del Señor de Tila, este cel mai important edificiu religios din Tabasco. Clădirea se remarcă prin cele două turnuri extrem de înalte care domină orizontul orașului. Catedrala actuală a fost reconstruită la mijlocul secolului XX după distrugerea bisericilor anterioare.",
+      en: "The Villahermosa Cathedral, also known as the Catedral del Señor de Tila, is the most important religious building in Tabasco. The striking structure is characterized by its two extremely tall towers that dominate the city's skyline. The current cathedral was rebuilt in the mid-20th century after the destruction of previous churches.",
+    },
+    factsAdvanced: {
+      de: ["Die beiden Glockentürme der Kathedrale erreichen eine Höhe von 80 Metern.", "Der Bau der heutigen Struktur begann 1945 und dauerte mehrere Jahrzehnte.", "Papst Johannes Paul II. segnete die Kathedrale während seines Besuchs im Jahr 1990.", "Die Fassade zeigt eine Mischung aus modernem und neoklassizistischem Stil.", "Das Innere beherbergt das verehrte Bild des 'Herrn von Tila'.", "Die ursprüngliche Kirche aus dem 18. Jahrhundert wurde während der Religionsverfolgung zerstört."],
+      hu: ["A székesegyház két harangtornya eléri a 80 méteres magasságot.", "A mai szerkezet építése 1945-ben kezdődött és évtizedekig tartott.", "II. János Pál pápa 1990-es látogatása során megáldotta a katedrálist.", "A homlokzat a modern és a neoklasszicista stílusjegyek keverékét mutatja.", "A belső térben található a 'Tilai Úr' (Señor de Tila) tisztelt képe.", "Az eredeti 18. századi templomot a vallásüldözés idején rombolták le."],
+      ro: ["Cele două turnuri cu clopot ale catedralei ating o înălțime de 80 de metri.", "Construcția structurii actuale a început în 1945 și a durat câteva decenii.", "Papa Ioan Paul al II-lea a binecuvântat catedrala în timpul vizitei sale din 1990.", "Fațada prezintă o combinație între stilul modern și cel neoclasic.", "Interiorul adăpostește imaginea venerată a 'Domnului din Tila'.", "Biserica originală din secolul XVIII a fost distrusă în timpul persecuției religioase."],
+      en: ["The cathedral's two bell towers reach a height of 80 meters.", "Construction of the current structure began in 1945 and lasted several decades.", "Pope John Paul II blessed the cathedral during his visit in 1990.", "The facade shows a mixture of modern and Neoclassical architectural styles.", "The interior houses the revered image of the 'Lord of Tila'.", "The original 18th-century church was destroyed during a period of religious persecution."],
+    },
   },
   {
     id: "mexico-veracruz-cathedral-landmarks-v2",
@@ -1064,6 +1724,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Construction started in the 17th century", "Facade incorporates coral stone", "Houses valuable crystal chandeliers", "Located right on the Zócalo square"],
     },
     imageHint: "Catedral de Veracruz Mexico facade",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Veracruz, offiziell Maria Himmelfahrt gewidmet, befindet sich im historischen Zentrum der Hafenstadt. Das im 18. Jahrhundert errichtete Gebäude ersetzte eine einfachere Kapelle aus der frühen Kolonialzeit. Die Kirche ist ein wichtiger religiöser Anlaufpunkt und spiegelt die bewegte Geschichte von Mexikos wichtigstem Atlantikhafen wider.",
+      hu: "A veracruzi székesegyház, amelyet hivatalosan Mária mennybevételének szenteltek, a kikötőváros történelmi központjában található. A 18. században emelt épület egy korábbi, egyszerűbb gyarmati kápolna helyén épült. A templom fontos vallási központ, amely tükrözi Mexikó legfontosabb atlanti kikötőjének mozgalmas történelmét.",
+      ro: "Catedrala din Veracruz, dedicată oficial Adormirii Maicii Domnului, se află în centrul istoric al orașului portuar. Edificiul ridicat în secolul XVIII a înlocuit o capelă simplă din perioada colonială timpurie. Biserica este un punct religios major și reflectă istoria agitată a celui mai important port mexican de la Atlantic.",
+      en: "The Veracruz Cathedral, officially dedicated to the Assumption of Mary, is located in the historic center of the port city. Built in the 18th century, the building replaced a simpler colonial-era chapel. The church is a major religious landmark reflecting the turbulent history of Mexico's most important Atlantic port.",
+    },
+    factsAdvanced: {
+      de: ["Die Bauarbeiten an der heutigen Kathedrale wurden im Jahr 1734 abgeschlossen.", "Die Kirche besitzt eine markante Kuppel, die mit blauen Kacheln aus Puebla verziert ist.", "Im 19. Jahrhundert wurde das Gebäude durch Interventionen und Belagerungen beschädigt.", "Der Innenraum ist im neoklassizistischen Stil mit korinthischen Säulen gestaltet.", "Die Glockentürme der Kathedrale wurden erst im Jahr 1860 fertiggestellt.", "Das Gebäude beherbergt mehrere wertvolle Heiligenfiguren aus der Kolonialzeit."],
+      hu: ["A mai székesegyház építési munkálatai 1734-ben fejeződtek be.", "A templom jellegzetes kupoláját kék színű pueblai kerámiacsempék díszítik.", "A 19. században az épület többször megrongálódott a külföldi inváziók során.", "A belső tér neoklasszicista stílusú, korinthoszi oszlopokkal díszítve.", "A katedrális harangtornyait csak jóval később, 1860-ban fejezték be.", "Az épületben több értékes, gyarmati korszakból származó szent szobor található."],
+      ro: ["Lucrările de construcție la catedrala actuală au fost finalizate în anul 1734.", "Biserica are o cupolă distinctivă decorată cu plăci ceramice albastre de Puebla.", "În secolul XIX, clădirea a fost avariată în timpul diverselor intervenții și asedii.", "Interiorul este proiectat în stil neoclasic, având coloane corintice.", "Turnurile cu clopot ale catedralei au fost finalizate abia în anul 1860.", "Clădirea adăpostește mai multe statui de sfinți valoroase din epoca colonială."],
+      en: ["Construction work on the current cathedral was completed in 1734.", "The church features a distinctive dome decorated with blue tiles from Puebla.", "In the 19th century, the building was damaged during various interventions and sieges.", "The interior is designed in Neoclassical style with Corinthian columns.", "The cathedral's bell towers were not completed until 1860.", "The building houses several valuable religious statues from the colonial period."],
+    },
   },
   {
     id: "mexico-pachuca-clock-tower-landmarks-v2",
@@ -1083,6 +1755,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Inaugurated in the year 1910", "Total height of 40 meters", "Features four statues of Muses", "Clockwork is identical to Big Ben"],
     },
     imageHint: "Reloj Monumental de Pachuca",
+    descriptionAdvanced: {
+      de: "Das Monumentale Uhr von Pachuca (Reloj Monumental) ist das Wahrzeichen der Stadt im Bundesstaat Hidalgo. Der 40 Meter hohe Turm wurde 1910 zur Feier des 100. Jahrestages der mexikanischen Unabhängigkeit eingeweiht. Die Architektur besteht aus weißem Kalkstein und ist mit allegorischen Skulpturen verziert, die wichtige historische Phasen Mexikos darstellen.",
+      hu: "A pachucai monumentális óratorony (Reloj Monumental) Hidalgo állam fővárosának jelképe. A 40 méter magas tornyot 1910-ben avatták fel a mexikói függetlenség 100. évfordulójának tiszteletére. Az építmény fehér mészkőből készült, és allegorikus szobrok díszítik, amelyek Mexikó fontos történelmi korszakait jelképezik.",
+      ro: "Ceasul Monumental din Pachuca (Reloj Monumental) este simbolul reprezentativ al orașului din statul Hidalgo. Turnul înalt de 40 de metri a fost inaugurat în 1910 pentru a celebra centenarul independenței Mexicului. Arhitectura sa din calcar alb este decorată cu sculpturi alegorice ce reprezintă etape istorice cheie ale națiunii.",
+      en: "The Monumental Clock of Pachuca (Reloj Monumental) is the iconic symbol of the city in the state of Hidalgo. The 40-meter-high tower was inaugurated in 1910 to celebrate the centennial of Mexican independence. The white quarry stone architecture is decorated with allegorical sculptures representing key historical periods of Mexico.",
+    },
+    factsAdvanced: {
+      de: ["Die Turmuhr besitzt den gleichen Mechanismus wie der Big Ben in London.", "Der Turm wurde aus lokalem Stein erbaut, der als 'Cantera Blanca' bekannt ist.", "Die vier Statuen stehen für die Unabhängigkeit, Freiheit, Verfassung und Reform.", "Das Uhrwerk wurde von der berühmten Firma Dent in England hergestellt.", "Die Glocken des Turms spielen die mexikanische Nationalhymne zu besonderen Anlässen.", "Das Monument hat vier Stockwerke und ist 40 Meter hoch."],
+      hu: ["A toronyóra mechanizmusa megegyezik a londoni Big Ben óraszerkezetével.", "A torony helyi fehér kőből, úgynevezett 'cantera blanca'-ból épült.", "A négy szobor a Függetlenséget, a Szabadságot, az Alkotmányt és a Reformot jelképezi.", "Az óraművet a híres angol Dent cég gyártotta Londonban.", "A torony harangjai különleges alkalmakkor a mexikói himnuszt játsszák.", "Az emlékmű négy szintes és összesen 40 méter magas."],
+      ro: ["Mecanismul ceasului este identic cu cel al celebrului Big Ben din Londra.", "Turnul a fost construit din piatră albă locală cunoscută sub numele de 'cantera'.", "Cele patru statui reprezintă Independența, Libertatea, Constituția și Reforma.", "Mecanismul ceasului a fost fabricat de renumita companie Dent din Anglia.", "Clopotele turnului cântă imnul național al Mexicului la ocazii speciale.", "Monumentul are patru niveluri și o înălțime totală de 40 de metri."],
+      en: ["The clock mechanism is the same as that of Big Ben in London.", "The tower was built from local white stone known as 'cantera blanca'.", "The four statues represent Independence, Liberty, Constitution, and Reform.", "The clockwork was manufactured by the famous Dent company in England.", "The tower's bells play the Mexican national anthem on special occasions.", "The monument consists of four levels and stands 40 meters tall."],
+    },
   },
   {
     id: "mexico-guadalupe-island-lighthouse-landmarks-v2",
@@ -1102,6 +1786,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Key point for shark researchers", "Located 240 km off the coast", "Operated by the Mexican Navy", "Surrounded by a biosphere reserve"],
     },
     imageHint: "Guadalupe Island Mexico lighthouse",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm der Insel Guadalupe befindet sich auf einer abgelegenen Insel im Pazifischen Ozean, etwa 240 Kilometer vor der Küste Niederkaliforniens. Er dient als entscheidende Navigationshilfe für Schiffe in diesen entlegenen Gewässern. Die Insel selbst ist ein Naturschutzgebiet, das für seine einzigartige Flora und Fauna bekannt ist.",
+      hu: "A Guadalupe-sziget világítótornya egy távoli csendes-óceáni szigeten található, körülbelül 240 kilométerre Alsó-Kalifornia partjaitól. Fontos navigációs segédeszközként szolgál a hajók számára ezeken a távoli vizeken. Maga a sziget természetvédelmi terület, amely egyedülálló növény- és állatvilágáról ismert.",
+      ro: "Farul de pe Insula Guadalupe este situat pe o insulă izolată din Oceanul Pacific, la aproximativ 240 km de coasta Baja California. Acesta servește ca ajutor vital de navigație pentru navele din aceste ape îndepărtate. Insula în sine este o rezervație naturală renumită pentru flora și fauna sa unică.",
+      en: "The Guadalupe Island Lighthouse is located on a remote Pacific island, approximately 240 kilometers off the coast of Baja California. It serves as a vital navigational aid for ships in these remote waters. The island itself is a nature reserve famous for its unique flora and fauna.",
+    },
+    factsAdvanced: {
+      de: ["Der Leuchtturm befindet sich auf der höchsten Klippe im nördlichen Teil der Insel.", "Guadalupe ist einer der wenigen Orte weltweit, an denen man Weiße Haie beobachten kann.", "Die Insel wurde 1928 zum Biosphärenreservat erklärt, um Seeelefanten zu schützen.", "Der Leuchtturm wird von der mexikanischen Marine (SEMAR) betrieben.", "Die Insel hat einen vulkanischen Ursprung und erreicht Höhen von über 1.200 Metern.", "Der Zugang zur Insel ist streng reglementiert und erfordert Sondergenehmigungen."],
+      hu: ["A világítótorony a sziget északi részén található legmagasabb sziklára épült.", "Guadalupe a világ egyik legjobb helye a nagy fehér cápák megfigyelésére.", "A szigetet 1928-ban nyilvánították bioszféra-rezervátummá az elefántfókák védelmében.", "A világítótorony üzemeltetéséért a mexikói haditengerészet (SEMAR) felelős.", "A sziget vulkanikus eredetű, és legmagasabb pontja meghaladja az 1200 métert.", "A szigetre való belépés szigorúan korlátozott és külön engedélyhez kötött."],
+      ro: ["Farul este amplasat pe cea mai înaltă stâncă din partea de nord a insulei.", "Guadalupe este unul dintre cele mai bune locuri din lume pentru observarea marilor rechini albi.", "Insula a fost declarată rezervație a biosferei în 1928 pentru protejarea elefanților de mare.", "Farul este administrat și operat de Marina Mexicană (SEMAR).", "Insula are origine vulcanică și atinge înălțimi de peste 1.200 de metri.", "Accesul pe insulă este strict reglementat și necesită permise speciale."],
+      en: ["The lighthouse is situated on the highest cliff in the northern part of the island.", "Guadalupe is one of the world's premier locations for great white shark watching.", "The island was declared a biosphere reserve in 1928 to protect northern elephant seals.", "The lighthouse is operated and maintained by the Mexican Navy (SEMAR).", "The island is of volcanic origin and reaches elevations of over 1,200 meters.", "Access to the island is strictly regulated and requires special government permits."],
+    },
   },
   {
     id: "mexico-monumento-a-la-patria-v2",
@@ -1121,6 +1817,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Entirely hand-carved in stone", "Only Neo-Maya structure of its kind", "Center for local celebrations", "Includes the revolutionary era"],
     },
     imageHint: "Monumento a la Patria Merida sculptures",
+    descriptionAdvanced: {
+      de: "Das Monumento a la Patria ist ein symbolträchtiges Wahrzeichen von Mérida und befindet sich am berühmten Paseo de Montejo. Das Werk des kolumbianischen Bildhauers Rómulo Rozo zeigt die nationale Identität Mexikos in Stein. Die halbrunde Struktur dient als offenes Buch der Geschichte, das die kulturelle Verschmelzung des Landes darstellt.",
+      hu: "A Monumento a la Patria Mérida egyik legfontosabb jelképe, amely a híres Paseo de Montejo sugárúton található. Rómulo Rozo kolumbiai szobrász alkotása Mexikó nemzeti identitását mutatja be kőbe faragva. A félköríves építmény a történelem nyitott könyveként szolgál, ábrázolva az ország kulturális kettősségét.",
+      ro: "Monumento a la Patria este un punct de reper emblematic în Mérida, situat pe celebrul bulevard Paseo de Montejo. Opera sculptorului columbian Rómulo Rozo înfățișează identitatea națională a Mexicului în piatră. Structura semicirculară servește ca o carte deschisă a istoriei, reprezentând fuziunea culturală a țării.",
+      en: "The Monument to the Homeland is an iconic landmark in Merida, located on the famous Paseo de Montejo. The work of Colombian sculptor Romulo Rozo depicts Mexico's national identity in stone. The semi-circular structure serves as an open book of history, representing the country's cultural fusion.",
+    },
+    factsAdvanced: {
+      de: ["Das Monument zeigt wichtige Episoden wie die Gründung von Tenochtitlan.", "Es ist mit Maya-Hieroglyphen und vorspanischen Gottheiten verziert.", "Die Skulptur umfasst Szenen der Eroberung und der Unabhängigkeit Mexikos.", "Das Denkmal ist nachts beleuchtet und ein zentraler Treffpunkt für Touristen.", "In der Mitte des Monuments brennt eine ewige Flamme zum Gedenken an die Helden.", "Die Steinmetzarbeiten wurden ausschließlich mit Meißeln und Hämmern durchgeführt."],
+      hu: ["Az emlékmű olyan fontos epizódokat ábrázol, mint Tenochtitlan alapítása.", "A falat maja hieroglifák és prehispán istenségek alakjai díszítik.", "A szoborcsoport bemutatja a hódítás és a mexikói függetlenség jeleneteit is.", "Az emlékmű éjszaka díszkivilágítást kap, és a turisták kedvelt találkozóhelye.", "Az építmény közepén egy örökmécses ég a nemzet hőseinek emlékére.", "A kőfaragási munkákat kizárólag kézi vésőkkel és kalapácsokkal végezték."],
+      ro: ["Monumentul prezintă episoade importante precum întemeierea Tenochtitlanului.", "Este decorat cu hieroglife Maya și reprezentări ale zeităților prehispanice.", "Sculptura include scene ale cuceririi și ale independenței Mexicului.", "Monumentul este iluminat noaptea și reprezintă un punct de întâlnire pentru turiști.", "În centrul monumentului arde o flacără eternă în memoria eroilor neamului.", "Lucrările de sculptură în piatră au fost realizate exclusiv cu dălți și ciocane."],
+      en: ["The monument depicts important episodes such as the founding of Tenochtitlan.", "It is decorated with Maya hieroglyphics and pre-Hispanic deities.", "The sculpture group includes scenes of the Conquest and Mexican Independence.", "The monument is illuminated at night and is a popular meeting point for tourists.", "An eternal flame burns in the center of the monument in memory of the heroes.", "The stone carving work was carried out exclusively using hand chisels and hammers."],
+    },
   },
   {
     id: "mexico-convent-san-gabriel-cholula-landmarks-v2",
@@ -1140,6 +1848,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Founded in the year 1529", "Features a Moorish-style chapel", "Includes 49 small domes", "Located in the town of Cholula"],
     },
     imageHint: "Convento de San Gabriel Cholula domes",
+    descriptionAdvanced: {
+      de: "Das Kloster San Gabriel in Cholula ist einer der ältesten und bedeutendsten franziskanischen Konvente Mexikos. Es wurde 1529 auf den Ruinen eines Tempels errichtet, der dem Gott Quetzalcoatl gewidmet war. Der Komplex ist ein herausragendes Beispiel für die koloniale Architektur mit Elementen der Gotik und der Renaissance.",
+      hu: "A cholulai Szent Gábriel-kolostor Mexikó egyik legrégebbi és legjelentősebb ferences rendi épületegyüttese. 1529-ben épült egy korábbi, Quetzalcoatl istennek szentelt templom romjain. A komplexum a gyarmati építészet kiváló példája, amely gótikus és reneszánsz stílusjegyeket ötvöz.",
+      ro: "Mănăstirea San Gabriel din Cholula este unul dintre cele mai vechi și importante complexe franciscane din Mexic. A fost construită în 1529 pe ruinele unui templu dedicat zeului Quetzalcoatl. Complexul reprezintă un exemplu remarcabil de arhitectură colonială, îmbinând elemente gotice și renascentiste.",
+      en: "The San Gabriel Convent in Cholula is one of Mexico's oldest and most significant Franciscan complexes. It was built in 1529 on the ruins of a temple dedicated to the god Quetzalcoatl. The complex is an outstanding example of colonial architecture, blending Gothic and Renaissance elements.",
+    },
+    factsAdvanced: {
+      de: ["Die Capilla Real verfügt über 49 Kuppeln und ist von arabischer Architektur inspiriert.", "Der Bau wurde von den Franziskanern zur Evangelisierung der indigenen Bevölkerung genutzt.", "Die Hauptkirche besitzt ein beeindruckendes Rippengewölbe im gotischen Stil.", "Im Inneren sind Wandmalereien aus dem 16. Jahrhundert erhalten geblieben.", "Das Kloster verfügt über eine bedeutende historische Bibliothek (Biblioteca Franciscana).", "Die Anlage diente aufgrund ihrer massiven Mauern auch als Festung."],
+      hu: ["A Capilla Real (Királyi Kápolna) 49 kupolával rendelkezik, stílusa arab hatást tükröz.", "A kolostort a ferencesek az őslakos lakosság evangelizációjára használták.", "A főtemplom lenyűgöző, gótikus stílusú bordás boltozattal büszkélkedhet.", "A belső falakon épségben maradtak 16. századi falfestmények.", "A kolostorban található a jelentős történelmi ferences könyvtár.", "Masszív falai miatt az épületegyüttes erődítményként is funkcionált."],
+      ro: ["Capilla Real dispune de 49 de cupole și este inspirată de arhitectura arabă.", "Mănăstirea a fost folosită de franciscani pentru evanghelizarea populației indigene.", "Biserica principală are o boltă pe nervuri impresionantă în stil gotic.", "În interior s-au păstrat picturi murale valoroase din secolul al XVI-lea.", "Mănăstirea găzduiește o bibliotecă istorică importantă (Biblioteca Franciscana).", "Datorită zidurilor sale masive, complexul a servit și ca fortăreață."],
+      en: ["The Royal Chapel (Capilla Real) features 49 domes and is inspired by Arabic architecture.", "The convent was used by the Franciscans for the evangelization of the indigenous people.", "The main church boasts an impressive Gothic-style ribbed vault.", "Inside, valuable murals from the 16th century have been preserved.", "The convent houses a significant historical library (Biblioteca Franciscana).", "The complex also served as a fortress due to its massive, thick walls."],
+    },
   },
   {
     id: "mexico-teatro-macedonio-alcala-landmarks-v2",
@@ -1159,6 +1879,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Inaugurated in the year 1909", "Named after a local composer", "Facade made of green stone", "Interior in Louis XV style"],
     },
     imageHint: "Teatro Macedonio Alcala Oaxaca interior",
+    descriptionAdvanced: {
+      de: "Das Teatro Macedonio Alcalá ist ein architektonisches Juwel in Oaxaca de Juárez, das zwischen 1903 und 1909 erbaut wurde. Ursprünglich nach Luis Mier y Terán benannt, trägt es heute den Namen des Komponisten der Hymne Dios nunca muere. Das Gebäude besticht durch seinen eklektischen Stil mit starken französischen Einflüssen und einer prächtigen Art-Nouveau-Kuppel.",
+      hu: "A Teatro Macedonio Alcalá Oaxaca de Juárez egyik legfontosabb kulturális épülete, amely 1903 és 1909 között épült. Eredetileg Luis Mier y Terán nevét viselte, majd később a híres zeneszerzőről, a Dios nunca muere szerzőjéről nevezték el. Az épület eklektikus stílusa és szecessziós kupolája a porfiriátus korszakának francia építészeti hatásait tükrözi.",
+      ro: "Teatrul Macedonio Alcalá este o bijuterie arhitecturală din Oaxaca de Juárez, construită între 1909 și 1903. Numit inițial după Luis Mier y Terán, astăzi poartă numele compozitorului imnului Dios nunca muere. Clădirea se remarcă prin stilul său eclectic cu puternice influențe franceze și o cupolă spectaculoasă în stil Art Nouveau.",
+      en: "The Macedonio Alcala Theater is an architectural landmark in Oaxaca City, constructed between 1903 and 1909. Originally named after Luis Mier y Teran, it was later renamed for the composer of the anthem Dios nunca muere. The building features an eclectic style with strong French influences and a magnificent Art Nouveau dome.",
+    },
+    factsAdvanced: {
+      de: ["Das Theater wurde am 5. September 1909 offiziell eingeweiht.", "Es wurde ursprünglich als Casino und Theater konzipiert.", "Die Fassade besteht aus grünem Stein (Cantera verde) aus der Region.", "Nach dem Erdbeben von 1999 wurde das Gebäude umfassend restauriert.", "Der Hauptsaal ist im Stil des Empire-Theaters gestaltet.", "Das Gebäude bietet Platz für etwa 800 Zuschauer."],
+      hu: ["A színházat 1909. szeptember 5-én avatták fel hivatalosan.", "Eredetileg kaszinóként és színházként tervezték az épületet.", "A homlokzat a régióra jellemző zöld kőből (cantera verde) készült.", "Az 1999-es földrengés után az épületet teljes körűen felújították.", "A belső nézőtér empire stílusú díszítéssel rendelkezik.", "A színház befogadóképessége körülbelül 800 fő."],
+      ro: ["Teatrul a fost inaugurat oficial pe 5 septembrie 1909.", "A fost conceput inițial ca un cazinou și teatru de operă.", "Fațada este realizată din piatră verde (cantera verde) locală.", "Clădirea a fost restaurată complet după cutremurul din 1999.", "Sala principală este decorată în stil Empire francez.", "Capacitatea totală a teatrului este de aproximativ 800 de locuri."],
+      en: ["The theater was officially inaugurated on September 5, 1909.", "It was originally designed as both a casino and a theater.", "The facade is constructed using local green quarry stone.", "The building underwent a major restoration after the 1999 earthquake.", "The interior hall features Empire-style decorative elements.", "The venue has a seating capacity for approximately 800 people."],
+    },
   },
   {
     id: "mexico-guadalupe-shrine-san-luis-potosi-landmarks-v2",
@@ -1178,6 +1910,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Construction began in 1772", "Features a remarkable altar", "Center for major religious festivals", "Mix of Baroque and Neoclassical styles"],
     },
     imageHint: "Santuario de Guadalupe San Luis Potosi",
+    descriptionAdvanced: {
+      de: "Das Santuario de Nuestra Señora de Guadalupe in San Luis Potosí ist eine bedeutende Basilika, die zwischen 1772 und 1800 errichtet wurde. Sie liegt am Ende der Calzada de Guadalupe, dem längsten Fußgängerweg Mexikos. Die Architektur verbindet spätbarocke Elemente mit einer neoklassizistischen Fassade, die im 19. Jahrhundert fertiggestellt wurde.",
+      hu: "A San Luis Potosí-ban található Guadalupe-szentély egy jelentős bazilika, amelyet 1772 és 1800 között építettek. A templom a Calzada de Guadalupe végén található, amely Mexikó leghosszabb gyalogos zarándokútja. Az épület a késő barokk elemeket ötvözi a 19. században befejezett neoklasszicista homlokzattal.",
+      ro: "Sanctuarul Guadalupe din San Luis Potosí este o bazilică importantă construită între anii 1772 și 1800. Este situată la capătul Calzada de Guadalupe, cea mai lungă cale pietonală din Mexic. Arhitectura combină elemente de baroc târziu cu o fațadă neoclasică finalizată în secolul al XIX-lea.",
+      en: "The Guadalupe Sanctuary in San Luis Potosi is a major basilica constructed between 1772 and 1800. It is located at the end of the Calzada de Guadalupe, Mexico's longest pedestrian walkway. The architecture blends late Baroque elements with a Neoclassical facade that was completed during the 19th century.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau begann im Jahr 1772 unter der Leitung von Felipe Cleere.", "Die Kirche wurde am 11. Februar 1800 geweiht.", "Die Calzada de Guadalupe ist über 3 Kilometer lang.", "Die Türme wurden erst im Jahr 1855 fertiggestellt.", "Das Gebäude diente während der französischen Intervention als Kaserne.", "Die Basilika beherbergt eine Kopie des Bildes der Jungfrau von Guadalupe."],
+      hu: ["Az építkezés 1772-ben kezdődött Felipe Cleere vezetésével.", "A templomot 1800. február 11-én szentelték fel.", "A Calzada de Guadalupe hossza meghaladja a 3 kilométert.", "A harangtornyokat csak 1855-ben fejezték be teljesen.", "Az épület laktanyaként szolgált a francia intervenció idején.", "A bazilika a Guadalupei Szűzanya kegyképének másolatát őrzi."],
+      ro: ["Construcția a început în 1772 sub îndrumarea lui Felipe Cleere.", "Biserica a fost sfințită pe data de 11 februarie 1800.", "Calzada de Guadalupe are o lungime de peste 3 kilometri.", "Turnurile clopotniță au fost finalizate abia în anul 1855.", "Clădirea a servit drept cazarmă în timpul intervenției franceze.", "Bazilica adăpostește o copie a imaginii Fecioarei de Guadalupe."],
+      en: ["Construction began in 1772 under the direction of Felipe Cleere.", "The church was consecrated on February 11, 1800.", "The Calzada de Guadalupe spans over 3 kilometers in length.", "The bell towers were not completed until the year 1855.", "The building served as a barracks during the French intervention.", "The basilica houses a replica of the image of the Virgin of Guadalupe."],
+    },
   },
   {
     id: "mexico-aguascalientes-cathedral-landmarks-v2",
@@ -1197,6 +1941,18 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Built in the 18th century", "Houses valuable colonial paintings", "Located at the Plaza de la Patria", "Features a historic pipe organ"],
     },
     imageHint: "Catedral de Aguascalientes Mexico",
+    descriptionAdvanced: {
+      de: "Die Kathedrale Basilica de Nuestra Señora de la Asunción ist das wichtigste religiöse Bauwerk in Aguascalientes. Der heutige Bau wurde zwischen 1704 und 1738 errichtet und zeichnet sich durch seinen prachtvollen Barockstil aus. Im Inneren beherbergt sie wertvolle Kunstwerke, darunter Gemälde des berühmten kolonialen Meisters Miguel Cabrera.",
+      hu: "Az Aguascalientes-i Székesegyház a város legfontosabb vallási építménye, amelyet a Mennyekbe Felvett Szűzanyának szenteltek. A mai épület 1704 és 1738 között készült, és pazar barokk stílusával emelkedik ki. Belsejében értékes műalkotások találhatók, többek között a híres koloniális mester, Miguel Cabrera festményei.",
+      ro: "Catedrala din Aguascalientes este cel mai important edificiu religios al orașului, fiind dedicată Adormirii Maicii Domnului. Construcția actuală a fost ridicată între 1704 și 1738, remarcându-se prin stilul baroc bogat. Interiorul adăpostește opere de artă valoroase, inclusiv picturi de Miguel Cabrera.",
+      en: "The Aguascalientes Cathedral is the city's most significant religious building, dedicated to Our Lady of the Assumption. The current structure was built between 1704 and 1738 and is noted for its splendid Baroque style. Inside, it houses valuable artworks, including paintings by the famous colonial master Miguel Cabrera.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau der aktuellen Struktur begann im Jahr 1704.", "Die Kathedrale wurde im Jahr 1738 offiziell fertiggestellt.", "Die Orgel stammt aus dem 17. Jahrhundert und wurde in Spanien gebaut.", "Das Gebäude verfügt über zwei markante Türme im neoklassizistischen Stil.", "Die Hauptkapelle beherbergt das Bildnis der Schutzpatronin der Stadt.", "Die Kathedrale wurde 1946 in den Rang einer Basilica Minor erhoben."],
+      hu: ["A jelenlegi épület építése 1704-ben vette kezdetét.", "A székesegyházat hivatalosan 1738-ban fejezték be.", "Az orgona a 17. századból származik és Spanyolországban készült.", "Az épület két jellegzetes, neoklasszicista stílusú toronnyal rendelkezik.", "A főoltár a város védőszentjének kegyképét őrzi.", "A székesegyházat 1946-ban emelték Basilica Minor rangra."],
+      ro: ["Construcția structurii actuale a început în anul 1704.", "Catedrala a fost finalizată oficial în anul 1738.", "Orga datează din secolul al XVII-lea și a fost fabricată în Spania.", "Clădirea dispune de două turnuri distincte în stil neoclasic.", "Capela principală adăpostește imaginea patroanei spirituale a orașului.", "Catedrala a fost ridicată la rangul de Basilica Minor în 1946."],
+      en: ["Construction of the current structure began in the year 1704.", "The cathedral was officially completed in the year 1738.", "The organ dates back to the 17th century and was made in Spain.", "The building features two prominent towers in Neoclassical style.", "The main chapel houses the image of the city's patron saint.", "The cathedral was elevated to the rank of Basilica Minor in 1946."],
+    },
   },
   {
     id: "mexico-san-antonio-church-aguascalientes-landmarks-v2",
@@ -1216,5 +1972,17 @@ export const mexicoLandmarksV2: POI[] = [
       en: ["Built between 1895 and 1908", "Designed by self-taught Refugio Reyes", "Features a distinctive yellow dome", "Major landmark of the city"],
     },
     imageHint: "Templo de San Antonio Aguascalientes architecture",
+    descriptionAdvanced: {
+      de: "Die Templo de San Antonio in Aguascalientes ist ein Meisterwerk des Autodidakten Refugio Reyes Rivas. Erbaut zwischen 1895 und 1908, zeichnet sich die Kirche durch ihren einzigartigen eklektischen Stil aus, der Gotik, Neoklassik und Barock vereint. Die markante Fassade aus gelbem Cantera-Stein macht sie zu einem der meistfotografierten Gebäude der Stadt.",
+      hu: "Az Aguascalientes-i San Antonio-templom az autodidakta építész, Refugio Reyes Rivas remekműve. Az 1895 és 1908 között épült templom egyedülálló eklektikus stílusával tűnik ki, amely gótikus, neoklasszicista és barokk elemeket ötvöz. A sárga kőből (cantera amarilla) készült homlokzat a város egyik legtöbbet fotózott épületévé teszi.",
+      ro: "Biserica San Antonio din Aguascalientes este o capodoperă a arhitectului autodidact Refugio Reyes Rivas. Construită între 1895 și 1908, biserica se distinge prin stilul său eclectic unic, care îmbină goticul, neoclasicul și barocul. Fațada din piatră galbenă (cantera) o face una dintre cele mai fotografiate clădiri din oraș.",
+      en: "The San Antonio Church in Aguascalientes is a masterpiece by the self-taught architect Refugio Reyes Rivas. Built between 1895 and 1908, the church stands out for its unique eclectic style, blending Gothic, Neoclassical, and Baroque elements. Its striking yellow quarry stone facade makes it one of the most photographed buildings in the city.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau wurde im Jahr 1895 durch den Orden der Franziskaner begonnen.", "Die Einweihung fand am 8. Dezember 1908 statt.", "Der Architekt Refugio Reyes Rivas hatte keine formale Ausbildung.", "Die Kirche verfügt über eine beeindruckende Kuppel mit Fresken.", "Sie besteht aus drei verschiedenen Farben von regionalem Stein.", "Der Altar wurde aus Carrara-Marmor in Italien gefertigt."],
+      hu: ["Az építkezést 1895-ben kezdték meg a ferences rendiek.", "A templomot 1908. december 8-án szentelték fel.", "Az építész, Refugio Reyes Rivas nem rendelkezett formális végzettséggel.", "A templom lenyűgöző freskókkal díszített kupolával rendelkezik.", "Három különböző színű helyi kő felhasználásával épült.", "Az oltár olaszországi Carrara márványból készült."],
+      ro: ["Construcția a fost începută în 1895 de către ordinul franciscan.", "Inaugurarea a avut loc pe data de 8 decembrie 1908.", "Arhitectul Refugio Reyes Rivas nu a avut studii formale în domeniu.", "Biserica are o cupolă impresionantă decorată cu fresce.", "Structura este realizată din trei culori diferite de piatră locală.", "Altarul a fost fabricat din marmură de Carrara adusă din Italia."],
+      en: ["Construction was started in 1895 by the Franciscan Order.", "The inauguration took place on December 8, 1908.", "The architect, Refugio Reyes Rivas, had no formal academic training.", "The church features an impressive dome decorated with frescoes.", "It is constructed using three different colors of regional stone.", "The altar was crafted from Carrara marble imported from Italy."],
+    },
   }
 ];

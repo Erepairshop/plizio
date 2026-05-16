@@ -577,6 +577,18 @@ export const liberiaEconomicV2: POI[] = [
       en: ["Coastal shipping", "Southern port", "Fishing location", "Regional infrastructure"],
     },
     imageHint: "Harper harbor coastal scene",
+    descriptionAdvanced: {
+      de: "Der Hafen von Harper liegt im äußersten Südosten Liberias im Maryland County am Cape Palmas. Er wurde 1960 modernisiert und dient primär dem Export von Kautschuk und Holzprodukten aus der Region. Die Hafenstadt Harper ist zudem ein historisches Zentrum der ameriko-liberianischen Besiedlung.",
+      hu: "Harper kikötője Libéria távoli délkeleti részén, Maryland megyében, a Palmas-fokon található. 1960-ban modernizálták, és elsősorban a régió gumijának és faanyagainak exportjára szolgál. Harper kikötővárosa emellett az amerikai-libériai letelepedés történelmi központja.",
+      ro: "Portul Harper este situat în extremul sud-est al Liberiei, în comitatul Maryland, la Cape Palmas. A fost modernizat în 1960 și servește în principal exportului de cauciuc și produse din lemn din regiune. Orașul portuar Harper este, de asemenea, un centru istoric al colonizării americano-liberiene.",
+      en: "The Port of Harper is located in the far southeast of Liberia in Maryland County at Cape Palmas. It was modernized in 1960 and primarily serves the export of rubber and timber products from the region. The port city of Harper is also a historical center of Americo-Liberian settlement.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet am Cape Palmas.", "Modernisierung des Hafens im Jahr 1960.", "Wichtiger Exportpunkt für Natürkautschuk.", "Zweitwichtigster Hafen im Südosten Liberias.", "Maryland County ist der Verwaltungssitz.", "Nähe zur Grenze der Elfenbeinküste."],
+      hu: ["A Palmas-fokon (Cape Palmas) alapították.", "A kikötő modernizálása 1960-ban történt.", "A természetes gumi fontos exportpontja.", "Délkelet-Libéria második legfontosabb kikötője.", "Maryland megye székhelye.", "Közel van az Elefántcsontpart határához."],
+      ro: ["Fondat la Cape Palmas.", "Modernizarea portului a avut loc în 1960.", "Punct important de export pentru cauciuc natural.", "Al doilea cel mai important port din sud-estul Liberiei.", "Reședința comitatului Maryland.", "Aproape de granița cu Coasta de Fildeș."],
+      en: ["Founded at Cape Palmas.", "Modernization of the port occurred in 1960.", "Key export point for natural rubber.", "Second most important port in southeast Liberia.", "Administrative seat of Maryland County.", "Close proximity to the Ivory Coast border."],
+    },
   },
   {
     id: "liberia-saniquellie-trade-v2",
@@ -596,6 +608,18 @@ export const liberiaEconomicV2: POI[] = [
       en: ["Trading post", "Agricultural trade", "Northern center", "Goods market"],
     },
     imageHint: "Busy market in Saniquellie",
+    descriptionAdvanced: {
+      de: "Saniquellie ist die Hauptstadt des Nimba County und ein bedeutendes Handelszentrum im Norden Liberias. Die Stadt erlangte historische Bedeutung als Geburtsort der Organisation für Afrikanische Einheit im Jahr 1959. Heute fungiert sie als wichtiger Umschlagplatz für landwirtschaftliche Güter nahe den Grenzen zu Guinea und der Elfenbeinküste.",
+      hu: "Saniquellie Nimba megye székhelye és jelentős kereskedelmi központ Libéria északi részén. A város történelmi jelentőségét az Afrikai Egységszervezet 1959-es megalapításának helyszíneként szerezte. Ma a mezőgazdasági áruk fontos elosztóhelye Guinea és az Elefántcsontpart határa közelében.",
+      ro: "Saniquellie este reședința comitatului Nimba și un centru comercial semnificativ în nordul Liberiei. Orașul a dobândit importanță istorică fiind locul de naștere al Organizației Unității Africane în 1959. Astăzi, funcționează ca un nod important pentru bunuri agricole lângă granițele cu Guineea și Coasta de Fildeș.",
+      en: "Saniquellie is the capital of Nimba County and a significant trade center in northern Liberia. The city gained historical importance as the birthplace of the Organization of African Unity in 1959. Today, it serves as a key transit point for agricultural goods near the borders with Guinea and Ivory Coast.",
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt des Nimba County.", "Gründungsort der OAU am 19. Juli 1959.", "Handelsplatz für Kaffee, Kakao und Reis.", "Liegt nahe dem Mount Nimba.", "Eisenbahnverbindung zum Hafen Buchanan existiert.", "Strategische Lage im Dreiländereck."],
+      hu: ["Nimba megye fővárosa.", "Az OAU alapítási helyszíne 1959. július 19-én.", "Kávé, kakaó és rizs kereskedelmi központja.", "A Nimba-hegy közelében fekszik.", "Vasúti összeköttetése van Buchanan kikötőjével.", "Stratégiai elhelyezkedés a hármashatárnál."],
+      ro: ["Capitala comitatului Nimba.", "Locul de fondare al OUA la 19 iulie 1959.", "Piață pentru cafea, cacao și orez.", "Situat lângă muntele Nimba.", "Există o legătură feroviară către portul Buchanan.", "Poziție strategică la punctul de întâlnire a trei țări."],
+      en: ["Capital of Nimba County.", "Birthplace of the OAU on July 19, 1959.", "Trade hub for coffee, cocoa, and rice.", "Located near Mount Nimba.", "Railway connection to the Port of Buchanan exists.", "Strategic location near the tri-border area."],
+    },
   },
   {
     id: "liberia-tubmanburg-mining-support-v2",

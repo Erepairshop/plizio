@@ -17,7 +17,8 @@ import { getPoiImage } from "@/lib/seo/resolvePoiImage";
 import { useLang } from "@/components/LanguageProvider";
 import { usePanZoom } from "./usePanZoom";
 import { type POI } from "../data/poi";
-import { ALL_COUNTRY_POIS } from "../data/allCountryPois";
+// V2 POI extras are lazy-fetched per-country at runtime to avoid bundling
+// the entire 250 MB ALL_COUNTRY_POIS array into the client JS chunks.
 import { Building2, Mountain, Waves, Landmark as LandmarkIcon, Eye, Layers, Sprout, Factory, Map as MapIcon } from "lucide-react";
 import { buildPoiPathById, buildStatePath, type Lang as SeoLang } from "@/lib/seo/slugs";
 import { useRuler, RulerPanel, RulerSvgOverlay } from "../quiz/RulerOverlay";
@@ -206,15 +207,26 @@ export const InteractiveMap = ({
   const deutschlandMap = countryData.map;
   const deutschlandViewBox = countryData.viewBox;
   const projectCoords = countryData.projectCoords;
+  // V2 extras lazy-fetched per-country from /data/pois/{cc}.json (~1-2 MB each)
+  const [v2Extras, setV2Extras] = useState<POI[] | null>(null);
+  useEffect(() => {
+    let cancelled = false;
+    setV2Extras(null);
+    const cc = countryData.countryId;
+    fetch(`/data/pois/${cc}.json`)
+      .then((r) => (r.ok ? r.json() : []))
+      .then((arr: POI[]) => { if (!cancelled) setV2Extras(Array.isArray(arr) ? arr : []); })
+      .catch(() => { if (!cancelled) setV2Extras([]); });
+    return () => { cancelled = true; };
+  }, [countryData.countryId]);
+
   const pois: POI[] = useMemo(() => {
-    // Merge V2 POIs (from poiExtra*V2.ts via ALL_COUNTRY_POIS) for this country.
-    // resolver.ts only loads V1 sources per case; V2 batches added overnight need to be
-    // surfaced on the country map too. Filter by countryId, dedup by id.
     const cc = countryData.countryId;
     const base = countryData.pois;
+    if (!v2Extras || v2Extras.length === 0) return base;
     const seen = new Set<string>(base.map((p) => p.id).filter(Boolean) as string[]);
     const extras: POI[] = [];
-    for (const p of ALL_COUNTRY_POIS) {
+    for (const p of v2Extras) {
       if (!p || !p.id || seen.has(p.id)) continue;
       const parent = p.parent || "";
       if (parent === cc || parent.startsWith(cc + "-")) {
@@ -223,7 +235,7 @@ export const InteractiveMap = ({
       }
     }
     return extras.length > 0 ? base.concat(extras) : base;
-  }, [countryData]);
+  }, [countryData, v2Extras]);
 
   // ---- Initialize state from URL on first render -------------------------
   const initLayer = (): Layer => {

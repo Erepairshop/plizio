@@ -106,6 +106,15 @@ const I18N: Record<string, Record<Lang, string>> = {
   area: { de: "Fläche", hu: "Terület", ro: "Suprafață", en: "Area" },
   coordinates: { de: "Koordinaten", hu: "Koordináták", ro: "Coordonate", en: "Coordinates" },
   related: { de: "Verwandte Orte", hu: "Kapcsolódó helyek", ro: "Locuri conexe", en: "Related places" },
+  cities: { de: "Städte in der Nähe", hu: "Közeli városok", ro: "Orașe din apropiere", en: "Nearby cities" },
+  history: { de: "Geschichte & Sehenswürdigkeiten", hu: "Történelem és látnivalók", ro: "Istorie și obiective", en: "History & landmarks" },
+  nature: { de: "Natur", hu: "Természet", ro: "Natură", en: "Nature" },
+  more: { de: "Weitere Orte", hu: "További helyek", ro: "Mai multe locuri", en: "More places" },
+  didYouKnow: { de: "💡 Wusstest du?", hu: "💡 Tudtad?", ro: "💡 Știai că?", en: "💡 Did you know?" },
+  gameTitle: { de: "Probiere es spielerisch aus", hu: "Próbáld ki játékos formában", ro: "Învață jucând", en: "Try it with games" },
+  gameIntro: { de: "Lerne diesen Ort durch Spiele und Tests.", hu: "Ismerd meg ezt a helyet játékokon és teszteken keresztül.", ro: "Cunoaște acest loc prin jocuri și teste.", en: "Learn about this place through games and quizzes." },
+  gamePlay: { de: "🎮 Astro-Spiel starten", hu: "🎮 Indítsd az Astro játékot", ro: "🎮 Pornește jocul Astro", en: "🎮 Start astro game" },
+  gameTest: { de: "📝 Test machen", hu: "📝 Csinálj tesztet", ro: "📝 Fă un test", en: "📝 Take a quiz" },
   viewMap: { de: "Auf der Karte ansehen", hu: "Megtekintés a térképen", ro: "Vezi pe hartă", en: "View on map" },
   viewOSM: { de: "OpenStreetMap", hu: "OpenStreetMap", ro: "OpenStreetMap", en: "OpenStreetMap" },
   home: { de: "Startseite", hu: "Főoldal", ro: "Acasă", en: "Home" },
@@ -185,11 +194,71 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     osmLink = `<a class="plz-cta plz-cta-secondary" href="${osmUrl}" target="_blank" rel="noopener noreferrer">${I("viewOSM", lang)} →</a>`;
   }
 
-  // Related POIs (max 6)
-  const related = getRelatedPois(poi, 6);
-  const relatedItems = related
-    .map((r: POI) => `<a href="${buildPoiPath(lang, r)}">${escapeHtml(getLocalized(r.name, lang) ?? r.id)}</a>`)
+  // Related POIs grouped by type (max 24 total)
+  const related = getRelatedPois(poi, 24);
+  const TYPE_GROUPS: Record<string, string[]> = {
+    city: ["city", "capital", "state-capital", "town", "village"],
+    history: ["castle", "fort", "fortress", "fortification", "monastery", "history", "geschichte", "landmark", "icon"],
+    nature: ["peak", "mountain-range", "lake", "river", "waterfall", "coast", "wildlife", "nature", "landscape", "geo"],
+  };
+  function groupOf(t: string | undefined): string {
+    for (const [g, list] of Object.entries(TYPE_GROUPS)) if (t && list.includes(t)) return g;
+    return "other";
+  }
+  function relatedDescSnippet(r: POI): string {
+    const desc = (r as { description?: Record<string, string> }).description;
+    const descAdv = (r as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced;
+    const txt = (getLocalized(desc as Partial<Record<string, string>>, lang)
+      || getLocalized(descAdv as Partial<Record<string, string>>, lang) || "") as string;
+    if (!txt) return "";
+    const first = txt.split(/(?<=[.!?])\s/)[0] || txt;
+    return first.length > 140 ? first.slice(0, 137) + "…" : first;
+  }
+  function relatedCard(r: POI): string {
+    const rname = escapeHtml(getLocalized(r.name, lang) ?? r.id);
+    const rimg = (r as { image?: string }).image;
+    const snippet = relatedDescSnippet(r);
+    const imgHtml = rimg
+      ? `<div class="plz-rcard-img"><img src="${escapeHtml(rimg)}" alt="${rname}" loading="lazy"/></div>`
+      : `<div class="plz-rcard-img plz-rcard-ph">🗺️</div>`;
+    return `<a class="plz-rcard" href="${buildPoiPath(lang, r)}">${imgHtml}<div class="plz-rcard-body"><div class="plz-rcard-title">${rname}</div>${snippet ? `<div class="plz-rcard-snip">${escapeHtml(snippet)}</div>` : ""}</div></a>`;
+  }
+  const grouped: Record<string, POI[]> = { city: [], history: [], nature: [], other: [] };
+  for (const r of related) grouped[groupOf(r.type)].push(r);
+  const GROUP_LABEL_KEYS: Record<string, string> = { city: "cities", history: "history", nature: "nature", other: "more" };
+  const relatedItems = (["city", "history", "nature", "other"] as const)
+    .filter((g) => grouped[g].length > 0)
+    .map((g) => `<section><h2>${I(GROUP_LABEL_KEYS[g], lang)}</h2><div class="plz-related">${grouped[g].slice(0, 8).map(relatedCard).join("")}</div></section>`)
     .join("");
+
+  // Did-you-know — deterministic fact pick by POI id char-sum
+  let didYouKnowHtml = "";
+  {
+    const advFacts = (poi as { factsAdvanced?: Record<string, string[]> }).factsAdvanced;
+    const baseFacts = poi.facts as Record<string, string[]> | undefined;
+    const pool: string[] = [
+      ...((advFacts?.[lang] as string[] | undefined) ?? []),
+      ...((advFacts?.de as string[] | undefined) ?? []),
+      ...((baseFacts?.[lang] as string[] | undefined) ?? []),
+      ...((baseFacts?.de as string[] | undefined) ?? []),
+    ].filter((s) => typeof s === "string" && s.length > 20);
+    if (pool.length > 0) {
+      const idx = Array.from(poi.id).reduce((a, c) => a + c.charCodeAt(0), 0) % pool.length;
+      didYouKnowHtml = `<aside class="plz-dyk"><h3>${I("didYouKnow", lang)}</h3><p>${escapeHtml(pool[idx])}</p></aside>`;
+    }
+  }
+
+  // Game CTA — subject/grade-aware links to astro game + test
+  const SUBJECT_FOR_TYPE: Record<string, string> = {
+    city: "geographie", town: "geographie", village: "geographie", capital: "geographie", "state-capital": "geographie", metropolis: "geographie",
+    mountain: "geographie", river: "geographie", lake: "geographie", island: "geographie", forest: "geographie", peak: "geographie", coast: "geographie",
+    historical: "geschichte", ruins: "geschichte", battlefield: "geschichte", ancient: "geschichte", medieval: "geschichte",
+    castle: "geschichte", palace: "geschichte", fortress: "geschichte", monastery: "geschichte", abbey: "geschichte",
+  };
+  const gameSubject = SUBJECT_FOR_TYPE[(poi.type ?? "").toLowerCase()] ?? "geographie";
+  const gameGrade = (poi as { grades?: number[] }).grades?.[0];
+  const gameGradeN = typeof gameGrade === "number" && gameGrade >= 1 && gameGrade <= 8 ? gameGrade : 5;
+  const gameCtaHtml = `<section class="plz-game-cta"><h2>${I("gameTitle", lang)}</h2><p>${I("gameIntro", lang)}</p><div class="plz-game-btns"><a class="plz-cta" href="/astro-${gameSubject}/${gameGradeN}/?vlab=${encodeURIComponent(poi.id)}">${I("gamePlay", lang)}</a><a class="plz-cta plz-cta-secondary" href="/${gameSubject}test/?focus=${encodeURIComponent(poi.id)}">${I("gameTest", lang)}</a></div></section>`;
 
   // FAQ
   let faqHtml = "";
@@ -210,6 +279,25 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const heroHtml = poi.image
     ? `<div class="plz-hero"><img src="${escapeHtml(poi.image)}" alt="${escapeHtml(name)}" loading="lazy"/></div>`
     : `<div class="plz-hero"><div class="plz-hero-placeholder">🗺️</div></div>`;
+
+  // Coat of arms (city/region badge)
+  const coa = (poi as { coa?: string }).coa;
+  const coaHtml = coa ? `<img class="plz-coa" src="${escapeHtml(coa)}" alt="" loading="lazy"/>` : "";
+
+  // Audio pronunciation
+  const audio = (poi as { audio?: string }).audio;
+  const audioHtml = audio
+    ? `<audio class="plz-audio" controls preload="none" aria-label="${escapeHtml(name)} pronunciation"><source src="${escapeHtml(audio)}"/></audio>`
+    : "";
+
+  // History period/year box
+  const histPeriod = (poi as { historyPeriod?: string }).historyPeriod;
+  const histYear = (poi as { historyYear?: number | [number, number] }).historyYear;
+  let historyHtml = "";
+  if (histPeriod || histYear) {
+    const yearStr = Array.isArray(histYear) ? `${histYear[0]}–${histYear[1]}` : (histYear ?? "");
+    historyHtml = `<div class="plz-history-box"><h3>${I("history", lang)}</h3>${histPeriod ? `<p>${escapeHtml(String(histPeriod))}</p>` : ""}${yearStr ? `<p class="plz-history-year">${escapeHtml(String(yearStr))}</p>` : ""}</div>`;
+  }
 
   // hreflang link tags
   const hreflangLinks = Object.entries(alternates)
@@ -255,18 +343,21 @@ ${structuredData(poi, lang, url, metaDesc)}
   <nav class="plz-breadcrumb">
     ${breadcrumbHome}<span>›</span>${breadcrumbCountry}<span>›</span>${breadcrumbState}<span>›</span><span>${escapeHtml(name)}</span>
   </nav>
-  <h1>${escapeHtml(name)}</h1>
+  <div class="plz-title-row">${coaHtml}<div><p class="plz-eyebrow">Plizio Visual Lab</p><h1>${escapeHtml(name)}</h1></div></div>
   <span class="plz-type-tag">${escapeHtml(typeLabel)}</span>
+  ${audioHtml}
   ${heroHtml}
   ${descText ? `<section><p>${escapeHtml(descText)}</p></section>` : ""}
-  ${geoItems.length > 0 ? `<section><h2>${I("geography", lang)}</h2><div class="plz-meta">${geoItems.join("")}</div></section>` : ""}
+  ${geoItems.length > 0 || historyHtml ? `<section class="plz-geo-history">${historyHtml}${geoItems.length > 0 ? `<div class="plz-geo-box"><h3>${I("geography", lang)}</h3><div class="plz-meta">${geoItems.join("")}</div></div>` : ""}</section>` : ""}
   ${factsArr.length > 0 ? `<section><h2>${I("facts", lang)}</h2><ul class="plz-facts">${factsArr.map((f) => `<li>${escapeHtml(f)}</li>`).join("")}</ul></section>` : ""}
+  ${didYouKnowHtml}
+  ${gameCtaHtml}
   ${faqHtml}
   <section>
     <a class="plz-cta" href="${buildStatePath(lang, poi.parent)}">${I("viewMap", lang)} →</a>
     ${osmLink}
   </section>
-  ${related.length > 0 ? `<section><h2>${I("related", lang)}</h2><div class="plz-related">${relatedItems}</div></section>` : ""}
+  ${relatedItems}
 </main>
 <footer>
   <a href="/${lang}/">Plizio</a> · <a href="/europe-map/">Europa</a> · <a href="/${lang}/datenschutz/">Datenschutz</a>

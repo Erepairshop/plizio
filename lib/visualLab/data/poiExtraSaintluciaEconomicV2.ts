@@ -19,6 +19,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Major transshipment hub for containers", "Headquarters of the port authority SLASPA", "Deep-water natural harbor in the capital", "Central point for banana exportation"],
     },
     imageHint: "Aerial view of Port Castries container terminal",
+    descriptionAdvanced: {
+      de: "Port Castries ist der wichtigste Seehafen und das wirtschaftliche Herz von Saint Lucia. Der natürliche Tiefwasserhafen dient als primäres Tor für den internationalen Handel und ist ein bedeutender Anlaufpunkt für die globale Kreuzfahrtindustrie. Mit seinen modernen Terminals wie Pointe Seraphine spielt der Hafen eine entscheidende Rolle für den Tourismus und den Güterumschlag der gesamten Region.",
+      hu: "Port Castries Saint Lucia legfontosabb tengeri kikötője és gazdasági szíve. A természetes mélyvízi kikötő a nemzetközi kereskedelem elsődleges kapujaként szolgál, és a globális hajóipar jelentős állomása. Modern termináljaival, mint például a Pointe Seraphine, a kikötő döntő szerepet játszik a turizmusban.",
+      ro: "Portul Castries este cel mai important port maritim și inima economică a Sfintei Lucia. Portul natural de adâncime servește ca poartă principală pentru comerțul internațional și este un punct de oprire major pentru industria globală a croazierelor. Cu terminalele sale moderne, portul joacă un rol decisiv în turism.",
+      en: "Port Castries is the most important seaport and the economic heart of Saint Lucia. The natural deep-water harbor serves as the primary gateway for international trade and is a major stop for the global cruise industry. With its modern terminals like Pointe Seraphine, the port plays a decisive role in tourism and cargo handling.",
+    },
+    factsAdvanced: {
+      de: ["Der Hafen wurde ursprünglich im Jahr 1650 von den Franzosen gegründet.", "Die Wassertiefe im Hauptbecken beträgt zwischen 10 und 12 Metern.", "Pointe Seraphine wurde in den 1980er Jahren als Kreuzfahrtterminal eröffnet.", "Jährlich werden über 200.000 Kreuzfahrtpassagiere in Port Castries abgefertigt.", "Ein Großbrand im Jahr 1948 zerstörte weite Teile der angrenzenden Hafenstadt.", "Der Hafen ist der zentrale Exportpunkt für die Bananenindustrie der Insel."],
+      hu: ["A kikötőt eredetileg 1650-ben alapították a franciák.", "A vízmélység a főmedencében 10 és 12 méter között mozog.", "Pointe Seraphine-t az 1980-as években nyitották meg hajóterminálként.", "Évente több mint 200 000 hajóutast szolgálnak ki Port Castries-ban.", "Egy 1948-as tűzvész elpusztította a szomszédos kikötőváros nagy részét.", "A kikötő a sziget banániparának központi exportpontja."],
+      ro: ["Portul a fost fondat inițial în anul 1650 de către francezi.", "Adâncimea apei în bazinul principal este cuprinsă între 10 și 12 metri.", "Pointe Seraphine a fost deschis ca terminal de croazieră în anii 1980.", "Peste 200.000 de pasageri de croazieră sunt procesați anual în Port Castries.", "Un incendiu major în 1948 a distrus mari părți ale orașului portuar adiacent.", "Portul este punctul central de export pentru industria bananelor de pe insulă."],
+      en: ["The port was originally founded in 1650 by the French.", "The water depth in the main basin ranges between 10 and 12 meters.", "Pointe Seraphine was opened as a cruise ship terminal in the 1980s.", "Annually, over 200,000 cruise passengers are processed in Port Castries.", "A major fire in 1948 destroyed large parts of the adjacent port city.", "The port serves as the central export point for the island's banana industry."],
+    },
   },
   {
     id: "saintlucia-point-seraphine-economic-v2",
@@ -38,6 +50,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Complex opened in 1986", "Berthing space for two large cruise ships", "Over 30 duty-free retail outlets", "Key pillar of the service economy"],
     },
     imageHint: "Cruise ship docked at Point Seraphine Castries",
+    descriptionAdvanced: {
+      de: "Point Seraphine ist das wichtigste Kreuzfahrtterminal und Einkaufszentrum in Castries, St. Lucia. Es wurde 1986 eröffnet, um die touristische Infrastruktur der Insel zu modernisieren. Die Anlage verfügt über zwei große Anlegestellen für moderne Schiffe und bietet zollfreie Einkaufsmöglichkeiten für internationale Besucher direkt am Hafen der Hauptstadt.",
+      hu: "A Point Seraphine Saint Lucia fővárosának, Castries-nek a legjelentősebb skemélyhajó-terminálja és vámmentes bevásárlóközpontja. Az 1986-ban megnyitott létesítmény két nagy mólóval rendelkezik, amelyek képesek a legnagyobb tengerjáró hajók fogadására is. A komplexum közvetlen kaput biztosít a sziget kereskedelmi és turisztikai központjához.",
+      ro: "Point Seraphine este principalul terminal pentru nave de croazieră și complex comercial duty-free din Castries, Sfânta Lucia. Inaugurat în 1986, acest centru a fost construit pentru a moderniza infrastructura turistică a insulei. Facilitatea dispune de două dane majore capabile să primească nave de mari dimensiuni, oferind acces direct către centrul capitalei.",
+      en: "Point Seraphine is the primary cruise ship terminal and duty-free shopping complex in Castries, Saint Lucia. Formally opened in 1986, it was designed to enhance the island's tourism infrastructure. The facility features two major piers capable of accommodating large modern vessels, providing a direct gateway to the capital's commercial center.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung im Jahr 1986", "Zollfreies Einkaufszentrum für Touristen", "Zwei Anlegestellen für Kreuzfahrtschiffe", "Sitz in der Hauptstadt Castries", "Verwaltet von der Hafenbehörde SLASPA", "Empfängt jährlich über 300 Schiffe"],
+      hu: ["1986-ban nyitották meg hivatalosan", "Vámmentes (duty-free) üzletek központja", "Két fő móló a tengerjáró hajóknak", "Castries kikötőjében található", "A SLASPA hatóság felügyeli", "Évente több százezer turistát fogad"],
+      ro: ["Inaugurat oficial în anul 1986", "Centru comercial cu regim duty-free", "Două pontoane pentru nave de croazieră", "Localizat în portul capitalei Castries", "Administrat de autoritatea SLASPA", "Poartă principală de intrare a turiștilor"],
+      en: ["Officially opened in 1986", "Major duty-free shopping destination", "Two piers for large cruise vessels", "Located in the Castries Harbour", "Managed by the SLASPA authority", "Primary gateway for maritime tourism"],
+    },
   },
   {
     id: "saintlucia-hewanorra-airport-logistics-economic-v2",
@@ -57,6 +81,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Former Beane Field military airbase", "Handles over 500,000 passengers annually", "Only runway capable of long-haul aircraft", "Major employer in the south of the island"],
     },
     imageHint: "Hewanorra International Airport runway and cargo area",
+    descriptionAdvanced: {
+      de: "Der internationale Flughafen Hewanorra bei Vieux Fort ist das wichtigste Tor für den internationalen Luftverkehr nach St. Lucia. Er wurde auf dem Gelände des ehemaligen US-Militärstützpunkts Beane Field errichtet. Heute fungiert er als zentraler Logistikstandort für Luftfracht und Langstreckenflüge aus Nordamerika und Europa.",
+      hu: "A Vieux Fort közelében található Hewanorra nemzetközi repülőtér Saint Lucia legfontosabb légiközlekedési kapuja. A korábbi amerikai katonai bázis, a Beane Field helyén alakították ki. Napjainkban a sziget elsődleges logisztikai központjaként szolgál a légi teherfuvarozás és az Észak-Amerikából, valamint Európából érkező távolsági járatok számára.",
+      ro: "Aeroportul Internațional Hewanorra, situat lângă Vieux Fort, este principala poartă de acces aerian către Sfânta Lucia. Construit pe locul fostei baze militare americane Beane Field, aeroportul este vital pentru economia națională. Acesta funcționează ca un hub logistic central pentru transportul de marfă și zborurile pe distanțe lungi din America și Europa.",
+      en: "Hewanorra International Airport near Vieux Fort is the primary gateway for international air travel to Saint Lucia. It was developed on the site of the former U.S. military base known as Beane Field. Today, it serves as a central logistics hub for air cargo and long-haul flights arriving from North America and Europe.",
+    },
+    factsAdvanced: {
+      de: ["IATA-Flughafencode ist UVF", "Start- und Landebahnlänge von 2.744 Metern", "Ehemaliges US-Militärgelände Beane Field", "Südlichste Spitze von St. Lucia", "Fähig zur Abfertigung von Boeing 747", "Wichtigstes Drehkreuz für den Tourismus"],
+      hu: ["IATA repülőtéri kódja: UVF", "2744 méter hosszú futópályával rendelkezik", "A korábbi Beane Field katonai bázis", "Vieux Fort városa mellett található", "Képes Boeing 747-esek fogadására", "A sziget legnagyobb repülőtere"],
+      ro: ["Codul IATA al aeroportului este UVF", "Pistă cu o lungime de 2.744 metri", "Fostă bază militară numită Beane Field", "Situat în extremitatea sudică a insulei", "Capabil să opereze avioane Boeing 747", "Principalul punct de import aerian"],
+      en: ["IATA airport code is UVF", "Runway length of 2,744 meters", "Site of the former Beane Army Airfield", "Located at the southern tip of the island", "Capable of handling Boeing 747 aircraft", "Major hub for international tourism"],
+    },
   },
   {
     id: "saintlucia-vieux-fort-industrial-estate-economic-v2",
@@ -76,6 +112,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Center of the country's light industry", "Proximity to the international airport", "Location for electronic assembly plants", "Managed by Invest Saint Lucia"],
     },
     imageHint: "Industrial factory buildings in Vieux Fort",
+    descriptionAdvanced: {
+      de: "Das Industriegebiet Vieux Fort liegt in unmittelbarer Nähe zum internationalen Flughafen und ist das größte Produktionszentrum des Landes. Es beherbergt Unternehmen aus den Bereichen Textilherstellung, Getränkeproduktion und Elektronikmontage. Die strategische Lage begünstigt den Export von Waren durch den nahegelegenen Seehafen und Flughafen.",
+      hu: "A Vieux Fort ipari park közvetlenül a nemzetközi repülőtér mellett található, és az ország legnagyobb gyártási központja. Textilipari, italgyártó és elektronikai összeszerelő vállalatoknak ad otthont. Stratégiai elhelyezkedése elősegíti az áruk exportját a közeli tengeri kikötőn és a repülőtéren keresztül.",
+      ro: "Zona Industrială Vieux Fort se află în imediata apropiere a aeroportului internațional și este cel mai mare centru de producție din țară. Găzduiește companii din sectoare precum textile, băuturi și asamblare electronică. Poziția strategică facilitează exportul de bunuri prin portul maritim și aeroportul din vecinătate.",
+      en: "The Vieux Fort Industrial Estate is located in close proximity to the international airport and represents the country's largest manufacturing center. It houses enterprises involved in garment production, beverage manufacturing, and electronics assembly. Its strategic location facilitates the efficient export of goods via the nearby seaport and airport.",
+    },
+    factsAdvanced: {
+      de: ["Größtes Industriegebiet in St. Lucia", "Verwaltet von Invest Saint Lucia", "Nähe zum internationalen Flughafen UVF", "Standort der Windward & Leeward Brauerei", "Fokus auf exportorientierte Fertigung", "Infrastruktur für Leichtindustrie vorhanden"],
+      hu: ["Saint Lucia legnagyobb ipari területe", "Az Invest Saint Lucia ügynökség kezeli", "Közvetlen szomszédságban az UVF repülőtérrel", "Itt található a sziget sörfőzdéje", "Exportorientált gyártási fókusz", "Könnyűipari létesítmények központja"],
+      ro: ["Cea mai mare zonă industrială din țară", "Administrată de Invest Saint Lucia", "Proximitate față de aeroportul UVF", "Sediul fabricii de bere Windward & Leeward", "Orientată către producția pentru export", "Infrastructură dedicată industriei ușoare"],
+      en: ["Largest industrial estate in Saint Lucia", "Managed by Invest Saint Lucia", "Adjacent to Hewanorra International Airport", "Home to the Windward & Leeward Brewery", "Focus on export-oriented manufacturing", "Significant infrastructure for light industry"],
+    },
   },
   {
     id: "saintlucia-cul-de-sac-power-station-economic-v2",
@@ -95,6 +143,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Operated by LUCELEC", "Uses diesel generators for production", "Installed capacity of approx. 86 megawatts", "Central node of the electrical grid"],
     },
     imageHint: "Industrial power plant chimneys at Cul de Sac",
+    descriptionAdvanced: {
+      de: "Das Kraftwerk Cul de Sac südlich von Castries ist die wichtigste Energiequelle von St. Lucia. Es wird von der St. Lucia Electricity Services Limited (LUCELEC) betrieben und nutzt Dieselgeneratoren zur Stromerzeugung. Die Anlage ist entscheidend für die Stabilität des nationalen Stromnetzes und versorgt den Großteil der Haushalte und Industrien.",
+      hu: "A Castries-től délre fekvő Cul de Sac erőmű Saint Lucia elsődleges energiaforrása. A létesítményt a St. Lucia Electricity Services Limited (LUCELEC) üzemelteti, és dízelgenerátorokat használ az áramtermeléshez. Az erőmű kulcsfontosságú az országos hálózat stabilitása szempontjából, kiszolgálva a háztartások és az ipar nagy részét.",
+      ro: "Centrala electrică Cul de Sac, situată la sud de Castries, este principala sursă de energie a insulei Sfânta Lucia. Operată de St. Lucia Electricity Services Limited (LUCELEC), centrala utilizează generatoare diesel pentru producerea curentului. Instalația este vitală pentru stabilitatea rețelei naționale, alimentând majoritatea locuințelor și industriilor.",
+      en: "The Cul de Sac Power Station, located south of Castries, is the primary source of energy for Saint Lucia. Operated by St. Lucia Electricity Services Limited (LUCELEC), the plant utilizes diesel generators for power production. The facility is critical for national grid stability, supplying electricity to the majority of households and industries across the island.",
+    },
+    factsAdvanced: {
+      de: ["Hauptkraftwerk von LUCELEC", "Installierte Leistung von ca. 86 MW", "Inbetriebnahme im Jahr 1990", "Verwendet Dieselkraftstoff zur Erzeugung", "Versorgt über 90% der Insel", "Befindet sich im Cul de Sac Tal"],
+      hu: ["A LUCELEC fő áramtermelő egysége", "Beépített kapacitása kb. 86 MW", "1990-ben helyezték üzembe", "Dízel üzemanyaggal működik", "A sziget áramellátásának 90%-át adja", "A Cul de Sac völgyben fekszik"],
+      ro: ["Principala unitate de producție LUCELEC", "Capacitate instalată de aprox. 86 MW", "Pusă în funcțiune în anul 1990", "Funcționează pe bază de motorină", "Asigură peste 90% din necesarul insulei", "Situată în valea Cul de Sac"],
+      en: ["Main power generation hub for LUCELEC", "Installed capacity of approximately 86 MW", "Commissioned in the year 1990", "Uses heavy fuel oil and diesel", "Supplies over 90% of the island's power", "Located in the Cul de Sac Valley"],
+    },
   },
   {
     id: "saintlucia-st-lucia-distillers-economic-v2",
@@ -114,6 +174,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Produces the famous Chairman's Reserve", "Formed by merger of two distilleries", "Uses traditional copper pot stills", "Major exporter of agricultural products"],
     },
     imageHint: "St. Lucia Distillers rum barrels and factory",
+    descriptionAdvanced: {
+      de: "St. Lucia Distillers im Roseau Valley ist die einzige verbliebene Brennerei der Insel. Sie entstand 1972 durch den Zusammenschluss der Brennereien von Dennery und Roseau. Das Unternehmen produziert preisgekrönte Rumsorten wie Chairman's Reserve und Admiral Rodney, die weltweit exportiert werden und ein wichtiger Wirtschaftsfaktor sind.",
+      hu: "A Roseau-völgyben található St. Lucia Distillers a sziget egyetlen megmaradt lepárlóüzeme. 1972-ben jött létre a dennery-i és a roseau-i lepárlók egyesülésével. A vállalat olyan díjnyertes rumokat állít elő, mint a Chairman's Reserve és az Admiral Rodney, amelyeket világszerte exportálnak, jelentős gazdasági bevételt termelve.",
+      ro: "St. Lucia Distillers, situată în Valea Roseau, este singura distilerie activă de pe insulă. A fost formată în 1972 prin fuziunea distileriilor din Dennery și Roseau. Compania produce sortimente de rom premiate, precum Chairman's Reserve și Admiral Rodney, care sunt exportate la nivel global, fiind un pilon economic important.",
+      en: "St. Lucia Distillers, situated in the Roseau Valley, is the island's sole remaining distillery. It was established in 1972 following the merger of the Dennery and Roseau distilleries. The company produces award-winning rums, such as Chairman's Reserve and Admiral Rodney, which are exported globally and contribute significantly to the local economy.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1972 durch Fusion", "Sitz im Roseau Valley", "Hersteller von Chairman's Reserve Rum", "Einzige Rumbrennerei auf St. Lucia", "Produziert über 25 verschiedene Rumsorten", "Wichtiger Exporteur landwirtschaftlicher Güter"],
+      hu: ["1972-ben alapították fúzióval", "A Roseau-völgyben található", "A Chairman's Reserve rum gyártója", "Saint Lucia egyetlen rumlepárlója", "Több mint 25-féle rumot készítenek", "Jelentős exportőr és munkaadó"],
+      ro: ["Fondată în 1972 prin fuziune", "Sediul în Valea Roseau", "Producătorul romului Chairman's Reserve", "Singura distilerie de rom de pe insulă", "Produce peste 25 de varietăți de rom", "Exportator major de produse distilate"],
+      en: ["Established in 1972 via merger", "Located in the Roseau Valley", "Producer of Chairman's Reserve rum", "Saint Lucia's only rum distillery", "Produces over 25 distinct rum varieties", "Major exporter of agricultural spirits"],
+    },
   },
   {
     id: "saintlucia-windward-leeward-brewery-economic-v2",
@@ -133,6 +205,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Brews the well-known Piton beer", "Part of the Heineken Group", "Factory opened in 1974", "One of the country's largest taxpayers"],
     },
     imageHint: "Industrial brewery building in Vieux Fort",
+    descriptionAdvanced: {
+      de: "Die Windward & Leeward Brewery in Vieux Fort ist der größte Getränkehersteller auf St. Lucia. Die 1975 eröffnete Brauerei ist eine Tochtergesellschaft von Heineken und produziert das berühmte Piton Beer, das als Nationalgetränk gilt. Die Fabrik ist ein bedeutender Arbeitgeber im Süden der Insel und beliefert die gesamte Karibikregion.",
+      hu: "A Vieux Fortban található Windward & Leeward sörfőzde Saint Lucia legnagyobb italgyártója. Az 1975-ben megnyitott gyár a Heineken leányvállalata, és itt készül a híres Piton sör, amelyet nemzeti italként tartanak számon. Az üzem a sziget déli részének fontos munkaadója, és a teljes karibi térséget ellátja termékeivel.",
+      ro: "Fabrica de bere Windward & Leeward din Vieux Fort este cel mai mare producător de băuturi din Sfânta Lucia. Inaugurată în 1975, fabrica este o filială a Heineken și produce faimoasa bere Piton, considerată băutura națională. Unitatea este un angajator major în sudul insulei și aprovizionează întreaga regiune a Caraibelor.",
+      en: "The Windward & Leeward Brewery, located in Vieux Fort, is the largest beverage manufacturer in Saint Lucia. Opened in 1975, the brewery is a subsidiary of Heineken and produces the famous Piton Beer, which is regarded as the national beverage. The facility is a major employer in the south and supplies products across the Caribbean region.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet im Jahr 1975", "Tochtergesellschaft von Heineken N.V.", "Produzent des Piton Beer (seit 1992)", "Sitz im Industriegebiet Vieux Fort", "Über 150 festangestellte Mitarbeiter", "Zertifiziert nach ISO 9001 Standards"],
+      hu: ["1975-ben nyitották meg", "A Heineken N.V. leányvállalata", "A Piton sör gyártója 1992 óta", "Vieux Fort ipari negyedében található", "Több mint 150 állandó alkalmazott", "ISO 9001 minősítéssel rendelkezik"],
+      ro: ["Inaugurată în anul 1975", "Filială a grupului Heineken N.V.", "Producătorul berii Piton din 1992", "Situată în zona industrială Vieux Fort", "Peste 150 de angajați permanenți", "Certificată conform standardelor ISO 9001"],
+      en: ["Opened in the year 1975", "Subsidiary of Heineken N.V.", "Producer of Piton Beer since 1992", "Located in the Vieux Fort industrial area", "Employs over 150 permanent staff", "Certified to ISO 9001 quality standards"],
+    },
   },
   {
     id: "saintlucia-dennery-fishing-port-economic-v2",
@@ -152,6 +236,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Supported by Japanese development aid", "Center for dolphin fish (mahi-mahi) catch", "Most important income source for the region", "Infrastructure for over 100 fishing boats"],
     },
     imageHint: "Colorful fishing boats at Dennery bay",
+    descriptionAdvanced: {
+      de: "Der Fischereihafen von Dennery an der Ostküste ist ein zentraler Umschlagplatz für die maritime Wirtschaft von St. Lucia. Mit Unterstützung japanischer Fördermittel wurden moderne Anlagen zur Fischverarbeitung und Kühllagerung errichtet. Der Hafen sichert den Lebensunterhalt hunderter lokaler Fischer und versorgt die Binnenmärkte mit frischem Fisch.",
+      hu: "A keleti parton fekvő Dennery halászkikötője Saint Lucia tengeri gazdaságának központi csomópontja. Japán támogatással modern halfeldolgozó és hűtőházas létesítmények épültek itt. A kikötő több száz helyi halász megélhetését biztosítja, és friss halat szolgáltat a belföldi piacok számára.",
+      ro: "Portul de pescuit Dennery, situat pe coasta de est, este un nod central pentru economia maritimă a insulei Sfânta Lucia. Cu ajutorul fondurilor japoneze, au fost construite facilități moderne de procesare și depozitare la rece. Portul asigură traiul a sute de pescari locali și aprovizionează piețele interne cu pește proaspăt.",
+      en: "The Dennery Fishing Port on the east coast is a central hub for Saint Lucia's maritime economy. Developed with Japanese grant aid, the facility includes modern fish processing and cold storage infrastructure. The port supports the livelihoods of hundreds of local fishers and ensures a steady supply of fresh seafood to domestic markets.",
+    },
+    factsAdvanced: {
+      de: ["Wichtigster Fischereihafen der Ostküste", "Modernisiert durch japanische Hilfe", "Verfügt über Eisfabriken und Kühlung", "Stützpunkt für über 200 Fischer", "Zentrum für Thunfisch und Goldmakrelen", "Wichtiger Wirtschaftsfaktor der Region"],
+      hu: ["A keleti part legfontosabb halászkikötője", "Japán állami támogatással fejlesztették", "Jéggyárral és hűtőtárolóval felszerelt", "Több mint 200 halász bázisa", "Tonhal és aranymakréla fő rakodóhelye", "A régió legfőbb gazdasági motorja"],
+      ro: ["Cel mai important port pescăresc de est", "Modernizat prin asistență japoneză", "Dotat cu fabrici de gheață și depozite", "Bază pentru peste 200 de pescari", "Centru pentru ton și mahi-mahi", "Pilon economic major al regiunii"],
+      en: ["Main fishing hub on the east coast", "Developed via Japanese grant aid", "Features ice plants and cold storage", "Home base for over 200 fishers", "Key landing site for tuna and mahi-mahi", "Major economic driver for the region"],
+    },
   },
   {
     id: "saintlucia-rodney-bay-marina-economic-v2",
@@ -171,6 +267,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Finish line for the Atlantic Rally for Cruisers", "Over 250 slips for luxury yachts", "Extensive boatyard and maintenance services", "Hub for high-end real estate business"],
     },
     imageHint: "Luxury yachts at Rodney Bay Marina",
+    descriptionAdvanced: {
+      de: "Die Rodney Bay Marina im Norden von St. Lucia ist ein erstklassiger Yachthafen und ein Zentrum für den internationalen Segeltourismus. Sie ist bekannt als Zielhafen der jährlichen Segelregatta Atlantic Rally for Cruisers (ARC). Mit Hunderten von Liegeplätzen und modernen Werftanlagen trägt sie erheblich zu den Deviseneinnahmen des Landes bei.",
+      hu: "A Saint Lucia északi részén található Rodney Bay Marina egy világszínvonalú jachtkikötő és a nemzetközi vitorlás turizmus központja. Leginkább az évente megrendezett Atlantic Rally for Cruisers (ARC) verseny célállomásaként ismert. Több száz kikötőhellyel és modern hajójavító létesítményekkel jelentősen hozzájárul az ország devizabevételeihez.",
+      ro: "Rodney Bay Marina, situată în nordul insulei Sfânta Lucia, este un port de iahturi de clasă mondială și un centru al turismului nautic internațional. Este cunoscută ca destinație finală a regatei anuale Atlantic Rally for Cruisers (ARC). Cu sute de dane și facilități moderne, marina contribuie semnificativ la veniturile din valută ale țării.",
+      en: "Rodney Bay Marina, located in the north of Saint Lucia, is a world-class yachting facility and a hub for international nautical tourism. It is famously known as the finish line for the annual Atlantic Rally for Cruisers (ARC) regatta. With hundreds of slips and modern shipyard services, the marina contributes significantly to national foreign exchange earnings.",
+    },
+    factsAdvanced: {
+      de: ["Ziel der ARC-Regatta seit 1986", "Verfügt über 253 Liegeplätze", "Besitzt 32 Plätze für Superyachten", "Umfassende Werft- und Wartungsdienste", "Teil der IGY Marinas Gruppe", "Befindet sich in Gros Islet"],
+      hu: ["Az ARC regatta célpontja 1986 óta", "253 kikötőhellyel rendelkezik", "32 helyet tartanak fenn szuperjachtoknak", "Teljes körű hajójavító szolgáltatások", "Az IGY Marinas hálózat tagja", "Gros Islet körzetben található"],
+      ro: ["Punct final al regatei ARC din 1986", "Dispune de 253 de dane de acostare", "Include 32 de locuri pentru super-iahturi", "Servicii complete de întreținere navală", "Parte a grupului IGY Marinas", "Situată în districtul Gros Islet"],
+      en: ["Finish line for the ARC since 1986", "Features 253 berthing slips", "Includes 32 dedicated superyacht berths", "Full-service boatyard and maintenance", "Managed by the IGY Marinas network", "Located in the Gros Islet district"],
+    },
   },
   {
     id: "saintlucia-vieux-fort-free-zone-economic-v2",
@@ -190,6 +298,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Located near the deep-water cargo port", "Hub for re-export activities", "Provides storage for transit goods", "Part of the national export strategy"],
     },
     imageHint: "Logistics warehouses in Vieux Fort free zone",
+    descriptionAdvanced: {
+      de: "Die Freihandelszone Vieux Fort ist ein spezialisiertes Wirtschaftsgebiet, das darauf ausgelegt ist, ausländische Investitionen durch Steuervergünstigungen anzuziehen. Unternehmen innerhalb der Zone profitieren von zollfreien Importen von Rohstoffen für die Weiterverarbeitung und den Export. Sie spielt eine Schlüsselrolle in der Diversifizierung der Wirtschaft weg vom reinen Tourismus.",
+      hu: "A Vieux Fort szabadkereskedelmi övezet egy speciális gazdasági terület, amely adókedvezményekkel vonzza a külföldi befektetéseket. Az övezeten belüli vállalatok vámmentesen importálhatnak nyersanyagokat feldolgozás és export céljából. Kulcsszerepet játszik a gazdaság diverzifikálásában, csökkentve a turizmustól való függőséget.",
+      ro: "Zona Liberă Vieux Fort este o zonă economică specializată, concepută pentru a atrage investiții străine prin stimulente fiscale. Companiile din cadrul zonei beneficiază de importuri duty-free de materii prime destinate procesării și exportului. Aceasta joacă un rol cheie în diversificarea economiei, reducând dependența de turism.",
+      en: "The Vieux Fort Free Zone is a specialized economic area designed to attract foreign investment through fiscal incentives. Companies operating within the zone benefit from duty-free imports of raw materials for processing and re-export. It plays a pivotal role in diversifying the national economy away from a sole reliance on tourism.",
+    },
+    factsAdvanced: {
+      de: ["Spezielle Wirtschaftszone (SEZ)", "Bietet Steuerbefreiungen für Exporteure", "Lager- und Logistikzentren vorhanden", "Strategische Nähe zum Seehafen Vieux Fort", "Fördert die industrielle Entwicklung", "Zollfreier Warenverkehr innerhalb der Zone"],
+      hu: ["Speciális gazdasági övezet (SEZ)", "Adómentességet kínál az exportőröknek", "Raktározási és logisztikai központ", "Közel van Vieux Fort tengeri kikötőjéhez", "Támogatja az ipari fejlődést", "Vámmentes áruforgalom az övezeten belül"],
+      ro: ["Zonă Economică Specială (SEZ)", "Oferă scutiri de taxe pentru exportatori", "Centre de depozitare și logistică", "Poziție strategică lângă portul Vieux Fort", "Promovează dezvoltarea industrială", "Circulație duty-free a mărfurilor"],
+      en: ["Special Economic Zone (SEZ) status", "Offers tax exemptions for exporters", "Warehousing and logistics infrastructure", "Strategic location near Vieux Fort seaport", "Promotes national industrial growth", "Duty-free movement of goods in the zone"],
+    },
   },
   {
     id: "saintlucia-baron-foods-factory-economic-v2",
@@ -209,6 +329,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Exports to over 20 countries", "Largest private employer in the south", "Processes local agricultural produce", "Multiple winner of export awards"],
     },
     imageHint: "Food processing production line at Baron Foods",
+    descriptionAdvanced: {
+      de: "Baron Foods ist ein führender Hersteller von Saucen und Gewürzen in der Karibik mit Sitz in Vieux Fort. Seit der Gründung 1991 hat sich das Unternehmen zu einem bedeutenden Exporteur entwickelt, der über 150 Produkte in mehr als 25 Länder liefert. Die Fabrik nutzt lokale landwirtschaftliche Erzeugnisse und stärkt so die Verbindung zwischen Industrie und Landwirtschaft.",
+      hu: "A Baron Foods a Karib-térség egyik vezető mártás- és fűszergyártója, amelynek központja Vieux Fortban található. 1991-es alapítása óta a vállalat jelentős exportőrré vált, több mint 150-féle terméket szállítva több mint 25 országba. A gyár helyi mezőgazdasági terményeket használ fel, erősítve az ipar és a mezőgazdaság közötti kapcsolatot.",
+      ro: "Baron Foods este un producător lider de sosuri și condimente din Caraibe, cu sediul în Vieux Fort. De la înființarea sa în 1991, compania a devenit un exportator major, livrând peste 150 de produse în mai mult de 25 de țări. Fabrica utilizează materii prime agricole locale, consolidând legătura dintre industrie și agricultură.",
+      en: "Baron Foods is a leading Caribbean manufacturer of sauces and condiments, headquartered in Vieux Fort. Since its founding in 1991, the company has grown into a major exporter, supplying over 150 products to more than 25 countries. The factory utilizes local agricultural produce, strengthening the link between the industrial and farming sectors.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1991", "Produziert über 150 verschiedene Artikel", "Export in mehr als 25 Länder weltweit", "Zertifiziert nach ISO 22000 Standards", "Verwendet lokale Paprika und Bananen", "Mehrfacher Gewinner von Wirtschaftspreisen"],
+      hu: ["1991-ben alapította Ronald Ramjattan", "Több mint 150-féle terméket gyártanak", "A világ több mint 25 országába exportálnak", "ISO 22000 élelmiszerbiztonsági minősítés", "Helyi paprikát és banánt dolgoznak fel", "Számos üzleti és minőségi díj nyertese"],
+      ro: ["Fondată în anul 1991", "Produce peste 150 de articole diferite", "Exportă în peste 25 de țări la nivel mondial", "Certificată conform standardelor ISO 22000", "Utilizează ardei și banane locale", "Câștigătoare a numeroase premii de business"],
+      en: ["Founded in the year 1991", "Manufacturer of over 150 food products", "Exports to more than 25 countries", "ISO 22000 food safety certification", "Uses locally sourced peppers and bananas", "Recipient of numerous regional business awards"],
+    },
   },
   {
     id: "saintlucia-mabouya-valley-agriculture-economic-v2",
@@ -228,6 +360,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Center of cooperative farming", "Key supplier for local markets", "Focus on agricultural diversification", "Formerly a major sugar cane region"],
     },
     imageHint: "Banana plantations in Mabouya Valley",
+    descriptionAdvanced: {
+      de: "Das Mabouya-Tal an der Ostküste von St. Lucia ist eines der fruchtbarsten Agrargebiete der Insel. Es ist historisch für den Bananenanbau bekannt, der lange Zeit das Rückgrat der lokalen Wirtschaft bildete. Heute wird hier eine Diversifizierung der Nutzpflanzen gefördert, um die Ernährungssicherheit zu erhöhen und neue Exportmärkte zu erschließen.",
+      hu: "A Saint Lucia keleti partján fekvő Mabouya-völgy a sziget egyik legtermékenyebb mezőgazdasági területe. Történelmileg a banántermesztésről ismert, amely hosszú ideig a helyi gazdaság gerincét alkotta. Napjainkban a haszonnövények diverzifikálását ösztönzik itt az élelmezésbiztonság fokozása és az új exportpiacok kiaknázása érdekében.",
+      ro: "Valea Mabouya, situată pe coasta de est a insulei Sfânta Lucia, este una dintre cele mai fertile zone agricole. Istoric, este cunoscută pentru cultivarea bananelor, care au reprezentat mult timp pilonul economiei locale. Astăzi, aici se promovează diversificarea culturilor pentru a crește securitatea alimentară și a accesa noi piețe de export.",
+      en: "The Mabouya Valley on the east coast of Saint Lucia is one of the island's most fertile agricultural zones. It is historically renowned for banana production, which served as the backbone of the local economy for decades. Today, crop diversification is promoted here to enhance food security and tap into new export markets.",
+    },
+    factsAdvanced: {
+      de: ["Fruchtbare Vulkanböden", "Zentrum der Bananenproduktion", "Teil eines staatlichen Agrarprojekts", "Liegt im Distrikt Dennery", "Fokus auf neue Nutzpflanzen wie Kakao", "Wichtig für die ländliche Beschäftigung"],
+      hu: ["Rendkívül termékeny vulkáni talaj", "A banántermesztés hagyományos központja", "Állami mezőgazdasági fejlesztési terület", "Dennery körzetben található", "Kakaó és más növények telepítése folyik", "A vidéki foglalkoztatás kulcsfontosságú helyszíne"],
+      ro: ["Soluri vulcanice extrem de fertile", "Centru tradițional de producție a bananelor", "Parte a unui proiect agricol guvernamental", "Situată în districtul Dennery", "Focus pe diversificarea culturilor (ex. cacao)", "Esențială pentru ocuparea forței de muncă rurale"],
+      en: ["Highly fertile volcanic soils", "Traditional hub for banana production", "Site of a major government land project", "Located within the Dennery district", "Focus on crops like cocoa and vegetables", "Vital for rural employment and development"],
+    },
   },
   {
     id: "saintlucia-roseau-valley-agriculture-economic-v2",
@@ -247,6 +391,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Home to large export banana estates", "Site of a historical sugar factory", "Center for irrigation innovation", "Hub for Fairtrade certification"],
     },
     imageHint: "Green banana fields in Roseau Valley",
+    descriptionAdvanced: {
+      de: "Das Roseau-Tal ist ein bedeutendes landwirtschaftliches Herzland im Westen von St. Lucia. Ursprünglich ein Zentrum der Zuckerrohrproduktion, wandelte es sich im 20. Jahrhundert zum wichtigsten Gebiet für den Bananenanbau. Neben der Landwirtschaft beherbergt das Tal auch wichtige Industrieanlagen, was es zu einem vielseitigen Wirtschaftsmotor macht.",
+      hu: "A Roseau-völgy Saint Lucia nyugati részének jelentős mezőgazdasági központja. Eredetileg a cukornádtermesztés központja volt, majd a 20. században a legfontosabb banántermő területté vált. A mezőgazdaság mellett a völgy fontos ipari létesítményeknek is otthont ad, így sokoldalú gazdasági motorja a szigetnek.",
+      ro: "Valea Roseau este o zonă agricolă vitală situată în vestul insulei Sfânta Lucia. Inițial un centru al producției de trestie de zahăr, aceasta a devenit în secolul XX cea mai importantă regiune pentru cultivarea bananelor. Pe lângă agricultură, valea găzduiește facilități industriale cheie, fiind un motor economic diversificat.",
+      en: "The Roseau Valley is a significant agricultural heartland located in the west of Saint Lucia. Originally a center for sugar cane production, it transitioned in the 20th century to become the island's premier region for banana cultivation. Beyond farming, the valley also hosts key industrial sites, making it a multifaceted economic driver.",
+    },
+    factsAdvanced: {
+      de: ["Ehemaliges Zentrum der Zuckerindustrie", "Hauptanbaugebiet für Bananen", "Standort der St. Lucia Distillers", "Umfangreiches Entwässerungssystem vorhanden", "In der Nähe der Hauptstadt Castries", "Wichtiger Standort für Agrotourismus"],
+      hu: ["A korábbi cukoripar központja", "A sziget elsődleges banántermő vidéke", "Itt működik a St. Lucia Distillers", "Kiterjedt vízelvezető rendszerrel rendelkezik", "Közel fekszik Castries fővároshoz", "Agroturisztikai jelentősége növekszik"],
+      ro: ["Fost centru al industriei zahărului", "Principala regiune producătoare de banane", "Găzduiește distileria St. Lucia Distillers", "Sistem extins de drenaj agricol", "Localizată aproape de capitala Castries", "Destinație emergentă pentru agroturism"],
+      en: ["Former center of the sugar industry", "Primary region for banana exports", "Location of the St. Lucia Distillers plant", "Features an extensive drainage network", "Situated near the capital city of Castries", "Important site for agro-tourism initiatives"],
+    },
   },
   {
     id: "saintlucia-fond-doux-estate-economic-v2",
@@ -266,6 +422,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Operational for over 250 years", "Major producer of organic cocoa", "Demonstration site for cocoa processing", "UNESCO World Heritage buffer zone"],
     },
     imageHint: "Cocoa pods at Fond Doux Estate",
+    descriptionAdvanced: {
+      de: "Das Fond Doux Estate bei Soufriere ist eine über 250 Jahre alte, aktive Kakaoplantage. Sie ist ein herausragendes Beispiel für die erfolgreiche Verbindung von traditioneller Landwirtschaft und nachhaltigem Ökotourismus. Das Anwesen produziert hochwertigen Kakao und bietet Besuchern Einblicke in den gesamten Verarbeitungsprozess von der Bohne bis zur Tafel.",
+      hu: "A Soufriere közelében található Fond Doux Estate egy több mint 250 éves, ma is működő kakaóültetvény. Kiemelkedő példája a hagyományos mezőgazdaság és a fenntartható ökoturizmus sikeres ötvözésének. A birtok kiváló minőségű kakaót termel, és a látogatóknak betekintést nyújt a teljes feldolgozási folyamatba a babtól a tábláig.",
+      ro: "Fond Doux Estate, lângă Soufrière, este o plantație activă de cacao cu o vechime de peste 250 de ani. Reprezintă un exemplu remarcabil de îmbinare a agriculturii tradiționale cu ecoturismul sustenabil. Domeniul produce cacao de înaltă calitate și oferă vizitatorilor o perspectivă asupra întregului proces de procesare.",
+      en: "Fond Doux Estate, located near Soufriere, is a working cocoa plantation with over 250 years of history. It serves as an outstanding example of the successful integration between traditional agriculture and sustainable eco-tourism. The estate produces high-quality cocoa and provides visitors with insights into the entire processing cycle.",
+    },
+    factsAdvanced: {
+      de: ["Über 250 Jahre alte Plantage", "UNESCO-Weltkulturerbe-Pufferzone", "Produziert handwerkliche Schokolade", "Fläche von ca. 135 Hektar", "Zertifizierter Ökotourismus-Standort", "Historische Plantagengebäude erhalten"],
+      hu: ["Több mint 250 éves ültetvény", "Az UNESCO világörökségi pufferzónában van", "Kézműves csokoládét állítanak elő", "Körülbelül 135 holdas terület", "Minősített ökoturisztikai helyszín", "Megőrzött történelmi ültetvényházak"],
+      ro: ["Plantație cu o vechime de peste 250 ani", "Situată în zona tampon UNESCO", "Producător de ciocolată artizanală", "Suprafață de aproximativ 135 de acri", "Destinație certificată de ecoturism", "Clădiri coloniale istorice conservate"],
+      en: ["Over 250 years of continuous operation", "Located within a UNESCO buffer zone", "Produces artisanal estate chocolate", "Spans approximately 135 acres", "Certified sustainable eco-tourism site", "Preserves historic plantation architecture"],
+    },
   },
   {
     id: "saintlucia-soufriere-geothermal-field-economic-v2",
@@ -285,6 +453,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Potential to reduce oil import dependency", "Site of exploratory drilling operations", "Part of the renewable energy strategy", "Located in a volcanically active area"],
     },
     imageHint: "Geothermal steam vents near Soufriere",
+    descriptionAdvanced: {
+      de: "Das Geothermiefeld von Soufriere liegt im Bereich des Sulphur Springs Park und ist ein Hoffnungsträger für die Energiewende auf St. Lucia. Durch die Nutzung der vulkanischen Wärme soll eine nachhaltige und kostengünstige Stromquelle erschlossen werden. Dies würde die Abhängigkeit von teuren importierten fossilen Brennstoffen drastisch reduzieren.",
+      hu: "A Soufriere geotermikus mező a Sulphur Springs Park területén található, és Saint Lucia energetikai átállásának reménysége. A vulkáni hő kihasználásával egy fenntartható és költséghatékony áramforrást kívánnak létrehozni. Ez drasztikusan csökkentené a sziget függőségét a drága, importált fosszilis tüzelőanyagoktól.",
+      ro: "Câmpul geotermal Soufrière este situat în zona Parcului Sulphur Springs și reprezintă o speranță pentru tranziția energetică a insulei. Prin utilizarea căldurii vulcanice, se urmărește dezvoltarea unei surse de energie sustenabile. Acest lucru ar reduce drastic dependența de combustibilii fosili importați și costisitori.",
+      en: "The Soufriere Geothermal Field is located within the Sulphur Springs Park area and represents a key prospect for Saint Lucia's energy transition. By harnessing volcanic heat, the island aims to develop a sustainable and cost-effective power source. This would drastically reduce reliance on expensive imported fossil fuels.",
+    },
+    factsAdvanced: {
+      de: ["Potential für bis zu 30 MW Leistung", "Vulkanischen Ursprungs (Qualibou-Caldera)", "Explorationsbohrungen seit den 1980ern", "Ziel: 100% erneuerbare Energien", "Unterstützt durch internationale Geber", "Reduziert CO2-Emissionen der Insel"],
+      hu: ["Akár 30 MW teljesítmény potenciál", "Vulkáni eredetű (Qualibou kaldera)", "Kutatófúrások az 1980-as évek óta", "Cél a 100%-ban megújuló energia", "Nemzetközi támogatással valósul meg", "Csökkenti a sziget szén-dioxid kibocsátását"],
+      ro: ["Potențial de până la 30 MW energie", "Origine vulcanică (Caldera Qualibou)", "Foraje de explorare din anii 1980", "Obiectiv: energie 100% regenerabilă", "Susținut de parteneri internaționali", "Reduce emisiile de carbon ale insulei"],
+      en: ["Potential for up to 30 MW of power", "Volcanic origin within Qualibou Caldera", "Exploration drilling since the 1980s", "Goal of 100% renewable energy supply", "Supported by international funding agencies", "Will reduce national carbon emissions"],
+    },
   },
   {
     id: "saintlucia-choiseul-fishing-village-center-economic-v2",
@@ -304,6 +484,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Famous for fishing boat construction", "Center of traditional pottery industry", "New fishing port opened in 2003", "Significant supplier for local consumption"],
     },
     imageHint: "Fishermen at work in Choiseul village",
+    descriptionAdvanced: {
+      de: "Das Fischerdorf Choiseul an der Südwestküste ist ein bedeutendes Zentrum für traditionelles Handwerk und maritime Wirtschaft. Neben dem Fischfang ist der Ort berühmt für seine Tonwaren und die Herstellung von geflochtenen Körben aus heimischen Materialien. Diese handwerklichen Traditionen sind tief in der lokalen Kultur verwurzelt und sichern das Einkommen vieler Familien.",
+      hu: "A délnyugati parton fekvő Choiseul halászfalu a hagyományos kézművesség és a tengeri gazdálkodás jelentős központja. A halászat mellett a település híres agyagedényeiről és a helyi alapanyagokból font kosarakról. Ezek a kézműves hagyományok mélyen gyökereznek a helyi kultúrában, és számos család megélhetését biztosítják.",
+      ro: "Satul pescăresc Choiseul, situat pe coasta de sud-vest, este un centru important pentru meșteșugurile tradiționale și economia maritimă. Pe lângă pescuit, localitatea este faimoasă pentru olărit și fabricarea coșurilor împletite. Aceste tradiții meșteșugărești sunt adânc înrădăcinate în cultura locală și asigură veniturile multor familii.",
+      en: "The Choiseul Fishing Village on the southwest coast is a significant center for traditional crafts and maritime activities. In addition to fishing, the village is renowned for its clay pottery and the weaving of baskets using local fibers. These artisanal traditions are deeply rooted in the local culture and provide essential income for many families.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum der traditionellen Töpferei", "Bekannt für Seegras-Anbau (Sea Moss)", "Handwerkliche Korbflechterei", "Stützpunkt für Küstenfischerei", "Benannt nach dem Duc de Choiseul", "Wichtiger Ort für kulturelles Erbe"],
+      hu: ["A hagyományos fazekasság központja", "A tengeri moha (sea moss) termesztés helye", "Híres a kosárfonó művészete", "Parti halászati bázis", "Choiseul hercegéről nevezték el", "A kulturális örökség megőrzője"],
+      ro: ["Centru al olăritului tradițional", "Cunoscut pentru cultura de „sea moss”", "Faimos pentru împletirea coșurilor", "Bază pentru pescuitul de coastă", "Numit după Ducele de Choiseul", "Punct focal al patrimoniului cultural"],
+      en: ["Hub for traditional clay pottery", "Known for sea moss cultivation", "Famous for artisanal basket weaving", "Strategic base for coastal fishing", "Named after the Duc de Choiseul", "Crucial site for cultural heritage preservation"],
+    },
   },
   {
     id: "saintlucia-bisee-commercial-zone-economic-v2",
@@ -323,6 +515,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Headquarters of major distribution firms", "Center for construction material trade", "Key node for domestic logistics", "Location of broadcasting stations"],
     },
     imageHint: "Commercial warehouses and offices in Bisee",
+    descriptionAdvanced: {
+      de: "Die Bisee Commercial Zone ist ein bedeutendes Industrie- und Handelsviertel nördlich von Castries. Das Areal beherbergt zahlreiche Unternehmen aus den Bereichen Fertigung, Logistik und Großhandel. Es dient als wichtiger Knotenpunkt für die lokale Wirtschaft und bietet eine Vielzahl von Arbeitsplätzen in der Region.",
+      hu: "A Bisee kereskedelmi övezet Castries-től északra fekvő jelentős ipari és üzleti negyed. A terület számos gyártó, logisztikai és nagykereskedelmi vállalatnak ad otthont. Fontos gazdasági csomópontként szolgál a helyi ipar számára, és számos munkalehetőséget biztosít a régióban.",
+      ro: "Zona comercială Bisee este un cartier industrial și comercial important situat la nord de Castries. Aria găzduiește numeroase companii din sectoarele de producție, logistică și comerț cu ridicata. Servește ca un hub economic vital pentru industria locală, oferind numeroase locuri de muncă în regiune.",
+      en: "The Bisee Commercial Zone is a significant industrial and business district located north of Castries. The area hosts numerous companies involved in manufacturing, logistics, and wholesale trade. It serves as a vital economic hub for local industry and provides a wide range of employment opportunities in the region.",
+    },
+    factsAdvanced: {
+      de: ["Liegt strategisch günstig an der Hauptstraße Castries-Gros Islet Highway.", "Beherbergt das Hauptquartier mehrerer großer lucianischer Unternehmen.", "Umfasst Lagerhallen und Produktionsstätten auf mehreren Hektar Land.", "Wichtiger Standort für die Verteilung von Konsumgütern auf der Insel.", "Verfügt über eine gut ausgebaute Infrastruktur für Schwerlasttransporte.", "Sitz von Dienstleistungsunternehmen und technischen Werkstätten."],
+      hu: ["Stratégiai helyen, a Castries-Gros Islet autópálya mentén található.", "Több nagy saint lucia-i vállalat központjának ad otthont.", "Több hektáron elterülő raktárakat és gyártóüzemeket foglal magában.", "Fontos helyszín a fogyasztási cikkek szigeten belüli elosztásához.", "Jól kiépített infrastruktúrával rendelkezik a nehézgépjárművek számára.", "Számos szolgáltató cég és műszaki műhely telephelye."],
+      ro: ["Situată strategic de-a lungul autostrăzii Castries-Gros Islet.", "Găzduiește sediile mai multor companii mari din Sfânta Lucia.", "Cuprinde depozite și facilități de producție pe mai multe hectare.", "Locație importantă pentru distribuția bunurilor de consum pe insulă.", "Dispune de o infrastructură bine dezvoltată pentru transportul greu.", "Sediul multor companii de servicii și ateliere tehnice."],
+      en: ["Strategically located along the main Castries-Gros Islet Highway.", "Houses the headquarters of several major Saint Lucian companies.", "Includes warehouses and manufacturing plants across several acres.", "Key location for the distribution of consumer goods across the island.", "Features well-developed infrastructure for heavy transport vehicles.", "Home to various service providers and technical workshops."],
+    },
   },
   {
     id: "saintlucia-union-agricultural-station-economic-v2",
@@ -342,6 +546,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Houses plant nurseries and laboratories", "Headquarters of the Ministry of Agriculture", "Center for soil testing services", "Support hub for local small farmers"],
     },
     imageHint: "Greenhouses at Union Agricultural Station",
+    descriptionAdvanced: {
+      de: "Die Union Agricultural Station ist ein zentrales Forschungs- und Entwicklungszentrum für die Landwirtschaft in Saint Lucia. Die Einrichtung konzentriert sich auf die Vermehrung von Nutzpflanzen, die Einführung neuer Anbaumethoden und die Unterstützung lokaler Landwirte. Sie spielt eine entscheidende Rolle bei der Sicherung der Nahrungsmittelproduktion auf der Insel.",
+      hu: "Az Union mezőgazdasági állomás Saint Lucia központi mezőgazdasági kutató- és fejlesztő központja. Az intézmény a növények szaporítására, új termesztési módszerek bevezetésére és a helyi gazdák támogatására összpontosít. Döntő szerepet játszik a sziget élelmiszerbiztonságának és termelésének fenntartásában.",
+      ro: "Stația agricolă Union este un centru central de cercetare și dezvoltare pentru agricultură în Sfânta Lucia. Facilitatea se concentrează pe propagarea culturilor, introducerea de noi metode agricole și sprijinirea fermierilor locali. Joacă un rol crucial în asigurarea securității alimentare și a producției pe insulă.",
+      en: "The Union Agricultural Station is a central research and development hub for agriculture in Saint Lucia. The facility focuses on crop propagation, the introduction of new farming methods, and providing support to local farmers. It plays a crucial role in maintaining food security and production across the island.",
+    },
+    factsAdvanced: {
+      de: ["Wird vom Ministerium für Landwirtschaft, Fischerei und ländliche Entwicklung betrieben.", "Verfügt über Baumschulen für die Produktion von Obst- und Gemüsesetzlingen.", "Führt Bodenanalysen und Schädlingsbekämpfungsstudien durch.", "Bietet Schulungsprogramme für moderne landwirtschaftliche Techniken an.", "Beherbergt Spezialsammlungen tropischer Pflanzensorten.", "Unterstützt die Diversifizierung der lucianischen Exportlandwirtschaft."],
+      hu: ["A Mezőgazdasági, Halászati és Vidékfejlesztési Minisztérium üzemelteti.", "Gyümölcs- és zöldségpalánták előállítására alkalmas faiskolákkal rendelkezik.", "Talajvizsgálatokat és kártevőirtási tanulmányokat végez.", "Képzési programokat kínál a modern mezőgazdasági technikákról.", "Trópusi növényfajták speciális gyűjteményeinek ad otthont.", "Támogatja a saint lucia-i exportmezőgazdaság diverzifikálását."],
+      ro: ["Operată de Ministerul Agriculturii, Pescuitului și Dezvoltării Rurale.", "Dispune de pepiniere pentru producția de puieți de fructe și legume.", "Efectuează analize de sol și studii privind controlul dăunătorilor.", "Oferă programe de formare pentru tehnici agricole moderne.", "Găzduiește colecții speciale de varietăți de plante tropicale.", "Sprijină diversificarea agriculturii de export din Sfânta Lucia."],
+      en: ["Operated by the Ministry of Agriculture, Fisheries, and Rural Development.", "Features plant nurseries for the production of fruit and vegetable seedlings.", "Conducts soil analysis and pest control research studies.", "Offers training programs on modern agricultural techniques.", "Houses special collections of tropical plant varieties.", "Supports the diversification of Saint Lucian export agriculture."],
+    },
   },
   {
     id: "saintlucia-buckeye-terminal-economic-v2",
@@ -361,6 +577,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Storage capacity of over 10 million barrels", "Deep-water pier for super-tankers", "Significant contributor to national GDP", "Formerly known as the Hess Terminal"],
     },
     imageHint: "Large oil storage tanks at Cul de Sac",
+    descriptionAdvanced: {
+      de: "Das Buckeye St. Lucia Terminal ist eine bedeutende Erdöllager- und Umschlaganlage in Cul de Sac, südlich von Castries. Es verfügt über eine große Kapazität zur Lagerung verschiedener Ölprodukte und dient als strategischer Knotenpunkt für den regionalen Energiemarkt. Die Anlage ist für die Energieversorgung der Insel und den internationalen Handel von großer Bedeutung.",
+      hu: "A Buckeye St. Lucia terminál egy jelentős kőolaj-tároló és átrakodó létesítmény Cul de Sac-ban, Castries-től délre. Hatalmas kapacitással rendelkezik a különböző olajtermékek tárolására, és stratégiai csomópontként szolgál a regionális energiapiac számára. A létesítmény nagy jelentőséggel bír a sziget energiaellátása és a nemzetközi kereskedelem szempontjából.",
+      ro: "Terminalul Buckeye St. Lucia este o facilitate majoră de depozitare și transbordare a petrolului în Cul de Sac, la sud de Castries. Dispune de o capacitate mare de stocare pentru diverse produse petroliere și servește ca hub strategic pentru piața energetică regională. Instalația este de o importanță majoră pentru alimentarea cu energie a insulei și comerțul internațional.",
+      en: "The Buckeye St. Lucia Terminal is a major petroleum storage and transshipment facility located in Cul de Sac, south of Castries. It possesses a large capacity for storing various oil products and serves as a strategic hub for the regional energy market. The facility is of great significance for the island's energy supply and international trade.",
+    },
+    factsAdvanced: {
+      de: ["Verfügt über eine Lagerkapazität von etwa 10 Millionen Barrel.", "Betreibt Tiefwasserliegeplätze für große Öltanker.", "Wurde ursprünglich von Amerada Hess erbaut und später von Buckeye übernommen.", "Ist einer der größten Arbeitgeber im industriellen Sektor der Insel.", "Dient als Umladestation für Treibstoffe in die gesamte Karibik.", "Umfasst moderne Sicherheits- und Umweltschutzsysteme."],
+      hu: ["Körülbelül 10 millió hordó tárolókapacitással rendelkezik.", "Mélyvízi kikötőhelyeket üzemeltet nagy olajszállító tartályhajók számára.", "Eredetileg az Amerada Hess építette, később a Buckeye vette át.", "A sziget ipari szektorának egyik legnagyobb foglalkoztatója.", "Üzemanyag-átrakodó állomásként szolgál az egész Karib-térség számára.", "Modern biztonsági és környezetvédelmi rendszereket tartalmaz."],
+      ro: ["Dispune de o capacitate de stocare de aproximativ 10 milioane de barili.", "Operează dane de mare adâncime pentru petroliere mari.", "Construit inițial de Amerada Hess și ulterior achiziționat de Buckeye.", "Este unul dintre cei mai mari angajatori din sectorul industrial al insulei.", "Servește ca stație de transbordare a combustibilului pentru întreaga Caraibe.", "Include sisteme moderne de siguranță și protecție a mediului."],
+      en: ["Has a storage capacity of approximately 10 million barrels.", "Operates deep-water berths for large oil tankers.", "Originally built by Amerada Hess and later acquired by Buckeye.", "One of the largest employers in the island's industrial sector.", "Serves as a transshipment point for fuel throughout the Caribbean.", "Includes modern safety and environmental protection systems."],
+    },
   },
   {
     id: "saintlucia-baywalk-mall-economic-v2",
@@ -380,6 +608,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Over 80 retail outlets present", "Hub for luxury goods and electronics", "Major employer in the service sector", "Features an integrated casino"],
     },
     imageHint: "Modern facade of Baywalk Mall",
+    descriptionAdvanced: {
+      de: "Die Baywalk Shopping Mall ist eines der modernsten Einkaufszentren in Saint Lucia und befindet sich im Herzen von Rodney Bay. Es bietet eine Mischung aus internationalen Marken, lokalen Boutiquen und gastronomischen Einrichtungen. Das Einkaufszentrum ist ein wichtiger Motor für den Tourismus und den Einzelhandel im Norden der Insel.",
+      hu: "A Baywalk bevásárlóközpont Saint Lucia egyik legmodernebb plázája, amely Rodney Bay szívében található. Nemzetközi márkák, helyi butikok és gasztronómiai egységek keverékét kínálja. A bevásárlóközpont a turizmus és a kiskereskedelem fontos motorja a sziget északi részén.",
+      ro: "Baywalk Shopping Mall este unul dintre cele mai moderne centre comerciale din Sfânta Lucia, situat în inima zonei Rodney Bay. Oferă un amestec de mărci internaționale, buticuri locale și unități gastronomice. Centrul comercial este un motor important pentru turism și comerțul cu amănuntul în nordul insulei.",
+      en: "Baywalk Shopping Mall is one of the most modern shopping centers in Saint Lucia, located in the heart of Rodney Bay. It offers a mix of international brands, local boutiques, and dining establishments. The mall is a major driver for tourism and the retail sector in the north of the island.",
+    },
+    factsAdvanced: {
+      de: ["Wurde im Jahr 2011 offiziell eröffnet.", "Beherbergt über 50 verschiedene Geschäfte und Restaurants.", "Verfügt über ein eigenes Casino, das 'Treasure Bay Casino'.", "Bietet zollfreies Einkaufen für internationale Touristen an.", "Umfasst eine Gesamtfläche von etwa 9.000 Quadratmetern.", "Ist ein zentraler Treffpunkt im touristischen Zentrum von Rodney Bay."],
+      hu: ["Hivatalosan 2011-ben nyitották meg.", "Több mint 50 különböző üzletnek és étteremnek ad otthont.", "Saját kaszinóval rendelkezik, melynek neve Treasure Bay Casino.", "Vámmentes vásárlási lehetőséget kínál a külföldi turistáknak.", "Körülbelül 9000 négyzetméteres összterülettel rendelkezik.", "Központi találkozóhely Rodney Bay turisztikai központjában."],
+      ro: ["A fost deschis oficial în anul 2011.", "Găzduiește peste 50 de magazine și restaurante diferite.", "Dispune de un cazinou propriu, numit 'Treasure Bay Casino'.", "Oferă cumpărături duty-free pentru turiștii internaționali.", "Cuprinde o suprafață totală de aproximativ 9.000 de metri pătrați.", "Este un punct de întâlnire central în centrul turistic Rodney Bay."],
+      en: ["Officially opened in the year 2011.", "Houses over 50 different shops and restaurants.", "Features its own casino, the 'Treasure Bay Casino'.", "Offers duty-free shopping for international tourists.", "Covers a total area of approximately 9,000 square meters.", "Central meeting point in the tourist hub of Rodney Bay."],
+    },
   },
   {
     id: "saintlucia-jq-rodney-bay-mall-economic-v2",
@@ -399,6 +639,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["First major shopping mall on the island", "Houses essential banks and supermarkets", "Key location for commercial real estate", "Core of the northern business district"],
     },
     imageHint: "Shoppers at JQ Rodney Bay Mall",
+    descriptionAdvanced: {
+      de: "Die JQ Rodney Bay Mall war das erste große Einkaufszentrum in der Rodney Bay Area und bleibt ein beliebter Standort für Einheimische und Besucher. Es beherbergt eine Vielzahl von Dienstleistern, Einzelhändlern und einen großen Supermarkt. Das Einkaufszentrum spielt eine zentrale Rolle in der täglichen Versorgung der Region.",
+      hu: "A JQ Rodney Bay Mall volt az első nagy bevásárlóközpont Rodney Bay területén, és továbbra is népszerű helyszín a helyiek és a látogatók számára. Számos szolgáltatónak, kiskereskedőnek és egy nagy szupermarketnek ad otthont. A bevásárlóközpont központi szerepet játszik a régió napi ellátásában.",
+      ro: "JQ Rodney Bay Mall a fost primul centru comercial mare din zona Rodney Bay și rămâne o locație populară pentru localnici și vizitatori. Găzduiește o varietate de furnizori de servicii, retaileri și un supermarket mare. Centrul comercial joacă un rol central în aprovizionarea zilnică a regiunii.",
+      en: "JQ Rodney Bay Mall was the first large shopping center in the Rodney Bay area and remains a popular location for locals and visitors alike. It houses a variety of service providers, retailers, and a large supermarket. The mall plays a central role in the daily supply and services for the region.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zur J.Q. Charles Group of Companies, einem lokalen Familienunternehmen.", "Beherbergt einen der größten Massey Stores Supermärkte der Insel.", "Verfügt über zahlreiche Bankfilialen und Postdienste.", "Bietet eine breite Palette an elektronischen und Haushaltswaren an.", "Wurde umfassend renoviert, um mit neueren Malls zu konkurrieren.", "Liegt direkt gegenüber der Baywalk Shopping Mall."],
+      hu: ["A J.Q. Charles vállalatcsoport, egy helyi családi vállalkozás tulajdona.", "A sziget egyik legnagyobb Massey Stores szupermarketének ad otthont.", "Számos bankfiókkal és postai szolgáltatással rendelkezik.", "Elektronikai és háztartási cikkek széles választékát kínálja.", "Átfogó felújításon esett át, hogy versenyezzen az újabb plázákkal.", "Közvetlenül a Baywalk bevásárlóközponttal szemben található."],
+      ro: ["Aparține J.Q. Charles Group of Companies, o afacere locală de familie.", "Găzduiește unul dintre cele mai mari supermarketuri Massey Stores de pe insulă.", "Dispune de numeroase sucursale bancare și servicii poștale.", "Oferă o gamă largă de produse electronice și electrocasnice.", "A fost renovat extensiv pentru a concura cu mall-urile mai noi.", "Situat direct vizavi de Baywalk Shopping Mall."],
+      en: ["Owned by the J.Q. Charles Group of Companies, a local family business.", "Houses one of the largest Massey Stores supermarkets on the island.", "Features numerous bank branches and postal services.", "Offers a wide range of electronic and household goods.", "Underwent extensive renovation to compete with newer malls.", "Located directly across from the Baywalk Shopping Mall."],
+    },
   },
   {
     id: "saintlucia-vieux-fort-cargo-port-economic-v2",
@@ -418,6 +670,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Berthing for Ro-Ro vessels", "Vital for construction material imports", "Part of strategic port expansion plans", "Direct link to the industrial estate"],
     },
     imageHint: "Cargo ship being unloaded at Vieux Fort",
+    descriptionAdvanced: {
+      de: "Der Vieux Fort Cargo Port ist der zweitgrößte Hafen von Saint Lucia und der wichtigste Umschlagplatz für Fracht im Süden der Insel. Er ist spezialisiert auf den Containerumschlag und den Export von landwirtschaftlichen Produkten. Der Hafen ist ein entscheidender Faktor für die wirtschaftliche Entwicklung des südlichen Distrikts.",
+      hu: "A Vieux Fort teherkikötő Saint Lucia második legnagyobb kikötője, és a legfontosabb áruforgalmi csomópont a sziget déli részén. Konténeres áruszállításra és mezőgazdasági termékek exportjára szakosodott. A kikötő döntő tényező a déli körzet gazdasági fejlődésében.",
+      ro: "Portul de marfă Vieux Fort este al doilea cel mai mare port din Sfânta Lucia și cel mai important punct de transbordare pentru mărfuri în sudul insulei. Este specializat în manipularea containerelor și exportul de produse agricole. Portul este un factor decisiv pentru dezvoltarea economică a districtului sudic.",
+      en: "The Vieux Fort Cargo Port is the second largest port in Saint Lucia and the primary transshipment hub for cargo in the south of the island. It specializes in container handling and the export of agricultural products. The port is a decisive factor for the economic development of the southern district.",
+    },
+    factsAdvanced: {
+      de: ["Wird von der Saint Lucia Air and Sea Ports Authority (SLASPA) verwaltet.", "Befindet sich in unmittelbarer Nähe zum Hewanorra International Airport.", "Verfügt über spezialisierte Anlagen für den Export von Bananen.", "Ist ein wichtiger Anlaufpunkt für Schiffe mit Kraftstofflieferungen.", "Bietet umfangreiche Lagerkapazitäten für Importgüter.", "Spielt eine Schlüsselrolle in der Versorgungskette für den Süden der Insel."],
+      hu: ["A Saint Lucia-i Légi- és Kikötői Hatóság (SLASPA) kezeli.", "A Hewanorra nemzetközi repülőtér közvetlen közelében található.", "Speciális létesítményekkel rendelkezik a banánexport számára.", "Fontos állomás az üzemanyag-szállítmányokat hozó hajók számára.", "Kiterjedt raktárkapacitást kínál az importált áruk számára.", "Kulcsszerepet játszik a sziget déli részének ellátási láncában."],
+      ro: ["Administrat de Autoritatea Portuară Aeriană și Maritimă din Sfânta Lucia (SLASPA).", "Situat în imediata apropiere a Aeroportului Internațional Hewanorra.", "Dispune de facilități specializate pentru exportul de banane.", "Este un punct important de escală pentru navele cu livrări de combustibil.", "Oferă capacități extinse de depozitare pentru mărfurile de import.", "Joacă un rol cheie în lanțul de aprovizionare pentru sudul insulei."],
+      en: ["Managed by the Saint Lucia Air and Sea Ports Authority (SLASPA).", "Located in close proximity to the Hewanorra International Airport.", "Features specialized facilities for the export of bananas.", "A major point of call for ships carrying fuel deliveries.", "Offers extensive storage capacities for imported goods.", "Plays a key role in the supply chain for the south of the island."],
+    },
   },
   {
     id: "saintlucia-praslin-aquaculture-site-economic-v2",
@@ -437,6 +701,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Leading site for sea moss production", "Supports local fishing cooperatives", "Exports seaweed for cosmetics industry", "Model project for the blue economy"],
     },
     imageHint: "Seaweed drying racks in Praslin village",
+    descriptionAdvanced: {
+      de: "Die Praslin Aquaculture Site ist ein innovatives Projekt an der Ostküste von Saint Lucia, das sich auf die nachhaltige Zucht von Meeresfrüchten konzentriert. Besonders bekannt ist die Anlage für die Kultivierung von Seemoos, das exportiert und lokal verarbeitet wird. Die Stätte fördert die wirtschaftliche Diversifizierung der lokalen Fischergemeinde.",
+      hu: "A Praslin akvakultúra-helyszín egy innovatív projekt Saint Lucia keleti partján, amely a tenger gyümölcseinek fenntartható tenyésztésére összpontosít. A létesítmény különösen ismert a tengeri moha termesztéséről, amelyet exportálnak és helyben is feldolgoznak. A helyszín elősegíti a helyi halászközösség gazdasági diverzifikációját.",
+      ro: "Situl de acvacultură Praslin este un proiect inovator pe coasta de est a Sfintei Lucia, care se concentrează pe creșterea durabilă a fructelor de mare. Facilitatea este cunoscută în special pentru cultivarea mușchiului de mare, care este exportat și procesat local. Situl promovează diversificarea economică a comunității locale de pescari.",
+      en: "The Praslin Aquaculture Site is an innovative project on the east coast of Saint Lucia, focusing on the sustainable farming of seafood. The facility is particularly well-known for the cultivation of sea moss, which is exported and processed locally. The site promotes the economic diversification of the local fishing community.",
+    },
+    factsAdvanced: {
+      de: ["Wird von der Praslin Seamoss Farmers Association betrieben.", "Seemoos wird hier in geschützten Küstengewässern angebaut.", "Das Produkt wird weltweit als Superfood und Verdickungsmittel vermarktet.", "Fördert die Beteiligung von Frauen in der lokalen Wirtschaft.", "Unterstützt die Erhaltung der marinen Ökosysteme durch nachhaltige Methoden.", "Die Ernte findet meist alle 6 bis 8 Wochen statt."],
+      hu: ["A Praslin Seamoss Gazdák Szövetsége üzemelteti.", "A tengeri mohát itt védett parti vizekben termesztik.", "A terméket világszerte szupertáplálékként és sűrítőanyagként értékesítik.", "Elősegíti a nők részvételét a helyi gazdaságban.", "Fenntartható módszerekkel támogatja a tengeri ökoszisztémák megőrzését.", "A betakarítás általában 6-8 hetente történik."],
+      ro: ["Operat de Asociația Fermierilor de Mușchi de Mare din Praslin.", "Mușchiul de mare este cultivat aici în ape de coastă protejate.", "Produsul este comercializat la nivel mondial ca superaliment și agent de îngroșare.", "Promovează participarea femeilor în economia locală.", "Sprijină conservarea ecosistemelor marine prin metode durabile.", "Recoltarea are loc de obicei la fiecare 6 până la 8 săptămâni."],
+      en: ["Operated by the Praslin Seamoss Farmers Association.", "Sea moss is grown here in protected coastal waters.", "The product is marketed globally as a superfood and thickening agent.", "Promotes the involvement of women in the local economy.", "Supports the conservation of marine ecosystems through sustainable methods.", "Harvesting typically occurs every 6 to 8 weeks."],
+    },
   },
   {
     id: "saintlucia-anse-la-raye-fish-market-economic-v2",
@@ -456,6 +732,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Famous for the weekly 'Fish Fry' event", "Direct sales from fishing vessels", "Key node for coastal trade activities", "Regulated by local fisheries authorities"],
     },
     imageHint: "Fresh fish for sale at Anse La Raye market",
+    descriptionAdvanced: {
+      de: "Der Anse La Raye Fish Market ist das wirtschaftliche Herzstück des gleichnamigen Fischerdorfes an der Westküste. Hier wird der tägliche Fang der lokalen Fischer angelandet, verarbeitet und verkauft. Der Markt ist nicht nur eine Versorgungsquelle, sondern auch ein wichtiger kultureller Treffpunkt und Touristenattraktion.",
+      hu: "Az Anse La Raye halpiac a nyugati parti azonos nevű halászfalu gazdasági szíve. Itt rakodják ki, dolgozzák fel és értékesítik a helyi halászok napi fogását. A piac nemcsak élelmiszerforrás, hanem fontos kulturális találkozóhely és turisztikai látványosság is.",
+      ro: "Piața de pește Anse La Raye este inima economică a satului de pescari cu același nume de pe coasta de vest. Aici este debarcat, procesat și vândut captura zilnică a pescarilor locali. Piața nu este doar o sursă de aprovizionare, ci și un punct de întâlnire cultural important și o atracție turistică.",
+      en: "The Anse La Raye Fish Market is the economic heart of the fishing village of the same name on the west coast. Here, the daily catch from local fishermen is landed, processed, and sold. The market is not only a source of food supply but also an important cultural meeting point and tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Berühmt für das wöchentliche 'Seafood Friday' Event.", "Wurde mit Unterstützung der japanischen Regierung modernisiert.", "Verfügt über Kühlanlagen zur Konservierung des Fischfangs.", "Spezialisiert auf Schnapper, Thunfisch und Goldmakrele (Mahi-Mahi).", "Sichert das Einkommen von Hunderten von Familien im Dorf.", "Bietet direkten Zugang für Fischerboote über eine Anlegestelle."],
+      hu: ["Híres a heti rendszerességű 'Seafood Friday' eseményről.", "A japán kormány támogatásával modernizálták.", "Hűtőberendezésekkel rendelkezik a fogás tartósításához.", "Vörös sügérre, tonhalra és aranymakrélára (Mahi-Mahi) specializálódott.", "Több száz család megélhetését biztosítja a faluban.", "Közvetlen hozzáférést biztosít a halászhajóknak egy mólón keresztül."],
+      ro: ["Faimoasă pentru evenimentul săptămânal 'Seafood Friday'.", "Modernizată cu sprijinul guvernului japonez.", "Dispune de facilități de refrigerare pentru conservarea capturii.", "Specializată în snapper, ton și mahi-mahi.", "Asigură veniturile a sute de familii din sat.", "Oferă acces direct pentru bărcile de pescuit printr-un debarcader."],
+      en: ["Famous for the weekly 'Seafood Friday' event.", "Modernized with support from the Japanese government.", "Features cold storage facilities for preserving the fish catch.", "Specializes in snapper, tuna, and mahi-mahi.", "Secures the income of hundreds of families in the village.", "Provides direct access for fishing boats via a jetty."],
+    },
   },
   {
     id: "saintlucia-marigot-bay-economic-zone-economic-v2",
@@ -475,6 +763,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Considered one of the safest hurricane holes", "Site for high-end resort investments", "Major contributor to foreign exchange", "Mooring site for international celebrities"],
     },
     imageHint: "Mega yachts anchored in Marigot Bay",
+    descriptionAdvanced: {
+      de: "Die Marigot Bay Economic Zone umfasst den Bereich rund um einen der schönsten Naturhäfen der Karibik. Das Gebiet ist ein Zentrum für High-End-Tourismus, Yacht-Dienstleistungen und exklusive Immobilienentwicklung. Es kombiniert natürliche Schönheit mit bedeutenden wirtschaftlichen Investitionen im Luxussektor.",
+      hu: "A Marigot Bay gazdasági övezet a Karib-térség egyik legszebb természetes kikötője körüli területet foglalja magában. A térség a csúcskategóriás turizmus, a jacht-szolgáltatások és az exkluzív ingatlanfejlesztés központja. A természeti szépséget ötvözi a luxusszektorba irányuló jelentős gazdasági befektetésekkel.",
+      ro: "Zona economică Marigot Bay cuprinde aria din jurul unuia dintre cele mai frumoase porturi naturale din Caraibe. Zona este un centru pentru turismul de lux, servicii pentru iahturi și dezvoltare imobiliară exclusivistă. Combină frumusețea naturală cu investiții economice semnificative în sectorul de lux.",
+      en: "The Marigot Bay Economic Zone encompasses the area around one of the most beautiful natural harbors in the Caribbean. The district is a hub for high-end tourism, yachting services, and exclusive real estate development. It combines natural beauty with significant economic investments in the luxury sector.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt eine Marina, die als 'Hurricane Hole' bekannt ist.", "Standort des luxuriösen Zoëtry Marigot Bay St. Lucia Resorts.", "Wichtiger Anlaufpunkt für Superyachten aus aller Welt.", "Verfügt über Zoll- und Einreiseeinrichtungen für internationale Seeleute.", "War Drehort für mehrere internationale Filmproduktionen.", "Bietet spezialisierte Wartungsdienste für die Segelindustrie an."],
+      hu: ["Egy olyan marinának ad otthont, amelyet 'Hurricane Hole'-ként ismernek.", "A luxus Zoëtry Marigot Bay St. Lucia üdülőhely helyszíne.", "Fontos állomás a világ minden tájáról érkező szuperjachtok számára.", "Vám- és bevándorlási létesítményekkel rendelkezik a tengerészek számára.", "Számos nemzetközi filmprodukció forgatási helyszíne volt.", "Speciális karbantartási szolgáltatásokat kínál a vitorlásipar számára."],
+      ro: ["Găzduiește o marină cunoscută sub numele de 'Hurricane Hole'.", "Locația luxosului complex Zoëtry Marigot Bay St. Lucia.", "Punct important de escală pentru super-iahturi din întreaga lume.", "Dispune de facilități vamale și de imigrare pentru navigatori.", "A fost locația de filmare pentru mai multe producții internaționale.", "Oferă servicii specializate de întreținere pentru industria navigației."],
+      en: ["Houses a marina known as a 'Hurricane Hole' for its protection.", "Home to the luxurious Zoëtry Marigot Bay St. Lucia resort.", "Major destination for superyachts from around the world.", "Features customs and immigration facilities for international sailors.", "Has been a filming location for several international movies.", "Offers specialized maintenance services for the sailing industry."],
+    },
   },
   {
     id: "saintlucia-cap-estate-business-hub-economic-v2",
@@ -494,6 +794,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Site of the island's only 18-hole golf course", "Hub for foreign direct investment (FDI)", "High density of luxury villa management", "Driver of northern construction sector"],
     },
     imageHint: "Luxury villas and golf course at Cap Estate",
+    descriptionAdvanced: {
+      de: "Der Cap Estate Business Hub liegt an der nördlichsten Spitze der Insel in einem exklusiven Wohn- und Urlaubsgebiet. Hier konzentrieren sich Dienstleistungen für das Gastgewerbe, Immobilienmanagement und exklusive Freizeitaktivitäten wie Golfsport. Der Hub ist entscheidend für den hochpreisigen Tourismussektor im Norden von Saint Lucia.",
+      hu: "A Cap Estate üzleti központ a sziget legészakibb csücskén található, egy exkluzív lakó- és üdülőövezetben. Itt összpontosulnak a vendéglátóipari szolgáltatások, az ingatlankezelés és az exkluzív szabadidős tevékenységek, mint például a golf. A központ döntő fontosságú Saint Lucia északi részének prémium turisztikai szektora számára.",
+      ro: "Hub-ul de afaceri Cap Estate este situat în vârful nordic al insulei, într-o zonă rezidențială și de vacanță exclusivistă. Aici se concentrează serviciile de ospitalitate, gestionarea imobiliară și activitățile de agrement exclusiviste, cum ar fi golful. Hub-ul este crucial pentru sectorul turismului de lux din nordul Sfintei Lucia.",
+      en: "The Cap Estate Business Hub is located at the northernmost tip of the island in an exclusive residential and resort area. It concentrates services for hospitality, real estate management, and exclusive leisure activities such as golf. The hub is crucial for the high-end tourism sector in the north of Saint Lucia.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt den einzigen 18-Loch-Meisterschaftsgolfplatz der Insel.", "Zentrum für luxuriöse Villenvermietung und Immobilienverkauf.", "Standort mehrerer exklusiver Boutique-Hotels und Resorts.", "Bietet Dienstleistungen für die Organisation von Hochzeiten und Events an.", "Das Areal war früher eine riesige Zucker- und Viehplantage.", "Wichtiger Arbeitsmarkt für spezialisierte Kräfte im Tourismus."],
+      hu: ["A sziget egyetlen 18 lyukú bajnoki golfpályájának ad otthont.", "A luxusvillák bérlésének és ingatlanértékesítésének központja.", "Számos exkluzív boutique hotel és üdülőhely helyszíne.", "Esküvők és rendezvények szervezésére szakosodott szolgáltatásokat kínál.", "A terület korábban hatalmas cukor- és állattenyésztő ültetvény volt.", "Fontos munkaerőpiac a turizmusra szakosodott szakemberek számára."],
+      ro: ["Găzduiește singurul teren de golf de campionat cu 18 găuri de pe insulă.", "Centru pentru închirierea de vile de lux și vânzări imobiliare.", "Locația mai multor hoteluri tip boutique și complexuri exclusiviste.", "Oferă servicii pentru organizarea de nunți și evenimente.", "Zona a fost în trecut o vastă plantație de zahăr și animale.", "Piață importantă a forței de muncă pentru specialiștii în turism."],
+      en: ["Home to the island's only 18-hole championship golf course.", "Center for luxury villa rentals and real estate sales.", "Location of several exclusive boutique hotels and resorts.", "Offers specialized services for wedding and event planning.", "The area was formerly a vast sugar and livestock plantation.", "Key labor market for specialized workers in the tourism industry."],
+    },
   },
   {
     id: "saintlucia-george-fl-charles-logistics-economic-v2",
@@ -513,6 +825,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Formerly called Vigie Airport", "Hub for regional courier and mail services", "Direct proximity to Port Castries", "Vital for regional business travelers"],
     },
     imageHint: "Small aircraft at George F.L. Charles Airport",
+    descriptionAdvanced: {
+      de: "Der George F.L. Charles Logistics Hub umfasst den Bereich rund um den Regionalflughafen in Vigie, Castries. Dieses Gebiet ist ein wichtiges Zentrum für Luftfracht, Kurierdienste und schnellen Warenaustausch zwischen den Karibikinseln. Die Nähe zum Hafen von Castries macht es zu einem integralen Bestandteil der nationalen Logistikkette.",
+      hu: "A George F.L. Charles logisztikai csomópont a Vigie-ben, Castries-ben található regionális repülőtér körüli területet foglalja magában. Ez a térség a légi áruszállítás, a futárszolgálatok és a karibi szigetek közötti gyors árucsere fontos központja. A Castries-i kikötő közelsége miatt a nemzeti logisztikai lánc szerves részét képezi.",
+      ro: "Hub-ul logistic George F.L. Charles cuprinde zona din jurul aeroportului regional din Vigie, Castries. Această zonă este un centru important pentru transportul aerian de marfă, servicii de curierat și schimb rapid de bunuri între insulele Caraibe. Proximitatea față de portul Castries îl face parte integrantă din lanțul logistic național.",
+      en: "The George F.L. Charles Logistics Hub encompasses the area around the regional airport in Vigie, Castries. This district is an important center for air freight, courier services, and rapid goods exchange between Caribbean islands. Its proximity to the Castries seaport makes it an integral part of the national logistics chain.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt Terminalanlagen für regionale Fluggesellschaften wie LIAT.", "Wichtiger Standort für internationale Kurierdienste wie DHL und FedEx.", "Ermöglicht den schnellen Export von frischen landwirtschaftlichen Produkten.", "Liegt strategisch günstig direkt neben dem Stadtzentrum von Castries.", "Umfasst Einrichtungen für die allgemeine Luftfahrt und Privatjets.", "Dient als Drehkreuz für Postsendungen innerhalb der Karibik."],
+      hu: ["Olyan regionális légitársaságok termináljainak ad otthont, mint a LIAT.", "Olyan nemzetközi futárszolgálatok fontos helyszíne, mint a DHL és a FedEx.", "Lehetővé teszi a friss mezőgazdasági termékek gyors exportját.", "Stratégiai helyen, közvetlenül Castries városközpontja mellett található.", "Általános repülési és magánrepülőgép-kiszolgáló létesítményeket tartalmaz.", "A Karib-térségen belüli postai küldemények elosztóhelyeként szolgál."],
+      ro: ["Găzduiește facilități terminale pentru companii aeriene regionale precum LIAT.", "Locație importantă pentru servicii internaționale de curierat ca DHL și FedEx.", "Facilitează exportul rapid de produse agricole proaspete.", "Situat strategic chiar lângă centrul orașului Castries.", "Include facilități pentru aviația generală și avioane private.", "Servește ca hub pentru trimiterile poștale în interiorul Caraibelor."],
+      en: ["Houses terminal facilities for regional airlines such as LIAT.", "Key location for international courier services like DHL and FedEx.", "Enables the rapid export of fresh agricultural products.", "Strategically located directly adjacent to Castries city center.", "Includes facilities for general aviation and private jets.", "Serves as a hub for postal shipments within the Caribbean."],
+    },
   },
   {
     id: "saintlucia-castries-central-market-economic-v2",
@@ -532,6 +856,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Historic building constructed in 1894", "Hub of daily informal economic activity", "Significant tourist economic factor", "Over 300 registered vendor stalls"],
     },
     imageHint: "Bustling Castries Central Market stalls",
+    descriptionAdvanced: {
+      de: "Der Castries Central Market ist das pulsierende Handelszentrum der Hauptstadt und einer der bekanntesten Märkte der Karibik. Hier werden frische Lebensmittel, Kunsthandwerk und lokale Spezialitäten in großem Stil verkauft. Der Markt ist ein wesentlicher Bestandteil der informellen Wirtschaft und ein Hauptziel für Kreuzfahrttouristen.",
+      hu: "A Castries központi piac a főváros lüktető kereskedelmi központja és a Karib-térség egyik legismertebb piaca. Itt nagy tételben értékesítenek friss élelmiszereket, kézműves termékeket és helyi különlegességeket. A piac az informális gazdaság szerves része és a skajóutazók egyik fő célpontja.",
+      ro: "Piața Centrală Castries este centrul comercial vibrant al capitalei și una dintre cele mai cunoscute piețe din Caraibe. Aici se vând pe scară largă alimente proaspete, obiecte de artizanat și specialități locale. Piața este o parte esențială a economiei informale și o destinație majoră pentru turiștii de croazieră.",
+      en: "The Castries Central Market is the vibrant commercial heart of the capital and one of the best-known markets in the Caribbean. Here, fresh food, handicrafts, and local specialties are sold on a large scale. The market is an essential part of the informal economy and a primary destination for cruise ship tourists.",
+    },
+    factsAdvanced: {
+      de: ["Wurde im Jahr 1894 offiziell eröffnet.", "Das markante Gebäude verfügt über ein charakteristisches rotes Metalldach.", "Beherbergt über 300 reguläre Verkäufer und zahlreiche fliegende Händler.", "Wurde von National Geographic als einer der besten Lebensmittelmärkte der Welt gelistet.", "Ist besonders samstags am aktivsten, wenn lokale Bauern ihre Waren bringen.", "Bietet eine riesige Auswahl an lokalen Gewürzen wie Muskatnuss und Kakao."],
+      hu: ["Hivatalosan 1894-ben nyitották meg.", "A jellegzetes épület karakteres vörös fémtetővel rendelkezik.", "Több mint 300 állandó árusnak és számos alkalmi kereskedőnek ad otthont.", "A National Geographic a világ egyik legjobb élelmiszerpiacaként tartja számon.", "Különösen szombatonként a legaktívabb, amikor a helyi gazdák hozzák áruikat.", "Helyi fűszerek, például szerecsendió és kakaó hatalmas választékát kínálja."],
+      ro: ["A fost deschisă oficial în anul 1894.", "Clădirea distinctivă are un acoperiș metalic roșu caracteristic.", "Găzduiește peste 300 de vânzători permanenți și numeroși comercianți ambulanți.", "A fost listată de National Geographic drept una dintre cele mai bune piețe alimentare din lume.", "Este cea mai activă sâmbăta, când fermierii locali își aduc produsele.", "Oferă o selecție uriașă de condimente locale, cum ar fi nucșoara și cacao."],
+      en: ["Officially opened in the year 1894.", "The distinctive building features a characteristic red metal roof.", "Houses over 300 regular vendors and numerous transient sellers.", "Listed by National Geographic as one of the best food markets in the world.", "Most active on Saturdays when local farmers bring their produce.", "Offers a vast selection of local spices such as nutmeg and cocoa."],
+    },
   },
   {
     id: "saintlucia-slaspa-administrative-building-economic-v2",
@@ -551,6 +887,18 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Core of national trade logistics", "Responsible for port security and safety", "Coordinates maritime infrastructure", "Major source of government revenue"],
     },
     imageHint: "SLASPA headquarters building in Castries",
+    descriptionAdvanced: {
+      de: "Das SLASPA Administrative Building in Castries ist die Regulierungszentrale für alle Luft- und Seehäfen des Landes. Hier werden strategische Entscheidungen über die Infrastruktur, die Sicherheit und den internationalen Handel getroffen. Das Gebäude repräsentiert die organisatorische Stärke eines der wichtigsten Wirtschaftssektoren von Saint Lucia.",
+      hu: "A SLASPA adminisztratív épülete Castries-ben az ország összes légi- és kikötőjének szabályozó központja. Itt hozzák meg az infrastruktúrával, biztonsággal és nemzetközi kereskedelemmel kapcsolatos stratégiai döntéseket. Az épület Saint Lucia egyik legfontosabb gazdasági szektorának szervezeti erejét képviseli.",
+      ro: "Clădirea administrativă SLASPA din Castries este sediul central de reglementare pentru toate aeroporturile și porturile maritime ale țării. Aici se iau decizii strategice privind infrastructura, securitatea și comerțul internațional. Clădirea reprezintă forța organizatorică a unuia dintre cele mai importante sectoare economice din Sfânta Lucia.",
+      en: "The SLASPA Administrative Building in Castries is the regulatory headquarters for all the country's air and sea ports. Strategic decisions regarding infrastructure, security, and international trade are made here. The building represents the organizational strength of one of Saint Lucia's most vital economic sectors.",
+    },
+    factsAdvanced: {
+      de: ["SLASPA steht für Saint Lucia Air and Sea Ports Authority.", "Wurde durch den Zusammenschluss der Hafen- und Flughafenbehörden im Jahr 1983 gegründet.", "Verwaltet zwei Flughäfen und zwei Seehäfen der Insel.", "Überwacht die Einhaltung internationaler maritimer und Luftfahrtstandards.", "Beherbergt Abteilungen für maritime Dienste und Hafensicherheit.", "Koordiniert die Abwicklung des Kreuzfahrt- und Frachtverkehrs."],
+      hu: ["A SLASPA a Saint Lucia-i Légi- és Kikötői Hatóság rövidítése.", "1983-ban jött létre a kikötői és repülőtéri hatóságok összeolvadásával.", "A sziget két repülőterét és két tengeri kikötőjét kezeli.", "Felügyeli a nemzetközi tengerészeti és légiközlekedési szabványok betartását.", "Tengerészeti szolgáltatásokkal és kikötőbiztonsággal foglalkozó részlegeknek ad otthont.", "Koordinálja a skajós turizmus és a teherforgalom lebonyolítását."],
+      ro: ["SLASPA este acronimul pentru Autoritatea Portuară Aeriană și Maritimă din Sfânta Lucia.", "Fondată prin fuziunea autorităților portuare și aeroportuare în 1983.", "Gestionează două aeroporturi și două porturi maritime ale insulei.", "Monitorizează conformitatea cu standardele maritime și de aviație internaționale.", "Găzduiește departamente pentru servicii maritime și securitate portuară.", "Coordonează procesarea traficului de croazieră și de marfă."],
+      en: ["SLASPA stands for the Saint Lucia Air and Sea Ports Authority.", "Established by the merger of port and airport authorities in 1983.", "Manages two airports and two seaports on the island.", "Monitors compliance with international maritime and aviation standards.", "Houses departments for maritime services and port security.", "Coordinates the processing of cruise and cargo traffic."],
+    },
   },
   {
     id: "saintlucia-choc-estate-commercial-park-economic-v2",
@@ -570,5 +918,17 @@ export const saintluciaEconomicV2: POI[] = [
       en: ["Home to international telecom providers", "Modern office complexes for outsourcing", "Strategic location on the main highway", "Hub for digital economy projects"],
     },
     imageHint: "Modern office buildings at Choc Estate",
+    descriptionAdvanced: {
+      de: "Der Choc Estate Commercial Park ist ein expandierendes Geschäftsviertel nördlich von Castries. Das Gebiet beherbergt große Einzelhandelsgeschäfte, Autohäuser und Bürokomplexe. Seine Lage an einer der meistbefahrenen Straßen der Insel macht es zu einem attraktiven Standort für gewerbliche Investitionen und Dienstleistungen.",
+      hu: "A Choc Estate kereskedelmi park egy bővülő üzleti negyed Castries-től északra. A terület nagy kiskereskedelmi üzleteknek, autókereskedéseknek és irodakomplexumoknak ad otthont. A sziget egyik legforgalmasabb útja mentén fekvő elhelyezkedése vonzóvá teszi a kereskedelmi befektetések és szolgáltatások számára.",
+      ro: "Parcul comercial Choc Estate este un cartier de afaceri în expansiune la nord de Castries. Zona găzduiește mari magazine de vânzare cu amănuntul, reprezentanțe auto și complexe de birouri. Locația sa de-a lungul uneia dintre cele mai circulate artere ale insulei îl face atractiv pentru investiții comerciale și servicii.",
+      en: "The Choc Estate Commercial Park is an expanding business district located north of Castries. The area houses large retail stores, car dealerships, and office complexes. Its location along one of the island's busiest thoroughfares makes it an attractive site for commercial investments and services.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich in der Nähe des Choc Beach und mehrerer Hotelanlagen.", "Beherbergt große Bau- und Heimwerkermärkte.", "Standort des Saint Lucia Shooting Board und anderer Verwaltungsstellen.", "Verfügt über moderne Büroflächen für IT- und Telekommunikationsfirmen.", "Wichtiger Knotenpunkt für Pendler zwischen Castries und Gros Islet.", "Bietet eine Vielzahl von Fast-Food-Restaurants und Bankdienstleistungen."],
+      hu: ["A Choc Beach és számos szállodakomplexum közelében található.", "Nagy építőanyag- és barkácsáruházaknak ad otthont.", "Itt található a Saint Lucia-i Lövésztestület és más közigazgatási szervek.", "Modern irodaterületekkel rendelkezik IT és telekommunikációs cégek számára.", "Fontos csomópont a Castries és Gros Islet között ingázók számára.", "Számos gyorséttermet és banki szolgáltatást kínál."],
+      ro: ["Situat în apropierea plajei Choc și a mai multor complexuri hoteliere.", "Găzduiește mari magazine de bricolaj și construcții.", "Locația Consiliului de Trageri din Sfânta Lucia și a altor agenții administrative.", "Dispune de spații de birouri moderne pentru firme IT și de telecomunicații.", "Punct important pentru navetiștii între Castries și Gros Islet.", "Oferă o varietate de restaurante fast-food și servicii bancare."],
+      en: ["Located near Choc Beach and several hotel complexes.", "Houses major construction and home improvement stores.", "Site of the Saint Lucia Shooting Board and other administrative offices.", "Features modern office spaces for IT and telecommunications firms.", "Key hub for commuters traveling between Castries and Gros Islet.", "Offers a variety of fast-food restaurants and banking services."],
+    },
   }
 ];

@@ -143,6 +143,18 @@ export const cookislandsHistoryV2: POI[] = [
       en: ["Founded in 1839", "Oldest school in the region", "Training of local pastors", "Historic coral stone building"],
     },
     imageHint: "Takamoa Mission House Rarotonga",
+    descriptionAdvanced: {
+      de: "Das Takamoa Theological College in Avarua auf Rarotonga ist eine der ältesten Bildungseinrichtungen im Südpazifik. Es wurde 1839 von der London Missionary Society gegründet, um einheimische Pastoren für die Verbreitung des Christentums auszubilden. Das College ist bis heute das spirituelle Zentrum der Cook Islands Christian Church.",
+      hu: "A Takamoa Teológiai Kollégium Avaruában, Rarotonga szigetén a Dél-Csendes-óceán egyik legrégebbi oktatási intézménye. 1839-ben alapította a Londoni Missziós Társaság, hogy helyi lelkészeket képezzenek a kereszténység terjesztésére. A kollégium ma is a Cook-szigeteki Keresztény Egyház szellemi központja.",
+      ro: "Colegiul Teologic Takamoa din Avarua, Rarotonga, este una dintre cele mai vechi instituții de învățământ din Pacificul de Sud. A fost fondat în 1839 de Societatea Misionară din Londra pentru a instrui pastori locali în răspândirea creștinismului. Colegiul rămâne centrul spiritual al Bisericii Creștine din Insulele Cook.",
+      en: "Takamoa Theological College in Avarua, Rarotonga, is one of the oldest educational institutions in the South Pacific. It was established in 1839 by the London Missionary Society to train local pastors for the spread of Christianity. The college continues to serve as the spiritual heart of the Cook Islands Christian Church today.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1839", "Hauptgebäude wurde 1843 fertiggestellt", "Gegründet von Missionar Aaron Buzacott", "Bildet Pastoren für den Pazifikraum aus", "Befindet sich im Hauptort Avarua", "Eines der ältesten Steingebäude der Insel"],
+      hu: ["1839-ben alapították", "A főépület 1843-ban készült el", "Aaron Buzacott misszionárius alapította", "Lelkészeket képez az egész csendes-óceáni térségnek", "Avarua településén található", "A sziget egyik legrégebbi kőépülete"],
+      ro: ["Fondat în anul 1839", "Clădirea principală finalizată în 1843", "Înființat de misionarul Aaron Buzacott", "Instruiește pastori pentru regiunea Pacificului", "Situat în localitatea principală Avarua", "Una dintre cele mai vechi clădiri din piatră"],
+      en: ["Established in 1839", "Main building completed in 1843", "Founded by missionary Aaron Buzacott", "Trains pastors for the wider Pacific region", "Located in the main town of Avarua", "One of the oldest stone buildings on the island"],
+    },
   },
   {
     id: "cookislands-pa-arikis-palace-history-v2",
@@ -286,6 +298,18 @@ export const cookislandsHistoryV2: POI[] = [
       en: ["Settled starting in 1863", "Founded by William Marsters", "English is the primary language", "Isolated coral atoll"],
     },
     imageHint: "Palmerston Island settlement beach",
+    descriptionAdvanced: {
+      de: "Palmerston ist ein abgelegenes Korallenatoll der Cookinseln mit einer einzigartigen Siedlungsgeschichte. Es wurde 1863 von dem Engländer William Marsters und seinen drei polynesischen Ehefrauen besiedelt. Die heutige Bevölkerung besteht ausschließlich aus den Nachfahren dieser ursprünglichen Familie, die eine eigene soziale Struktur bewahren.",
+      hu: "Palmerston a Cook-szigetek egyik távoli korallzátonya, amely egyedülálló településtörténettel rendelkezik. 1863-ban települt le itt az angol William Marsters három polinéz feleségével. A mai lakosság kizárólag az ő leszármazottaikból áll, akik sajátos társadalmi szerkezetet és angol nyelvjárást őriznek.",
+      ro: "Palmerston este un atol de corali izolat din Insulele Cook, cu o istorie de colonizare unică. A fost locuit în 1863 de englezul William Marsters și cele trei soții ale sale polineziene. Populația actuală este formată exclusiv din descendenții acestei familii originale, păstrând o structură socială distinctă.",
+      en: "Palmerston is a remote coral atoll in the Cook Islands with a unique settlement history. It was settled in 1863 by Englishman William Marsters and his three Polynesian wives. The current population consists entirely of descendants of this original family, who maintain their own distinct social structure and governance.",
+    },
+    factsAdvanced: {
+      de: ["Besiedelt ab dem Jahr 1863", "Gründer war William Marsters", "Besteht aus sechs Hauptinseln (Motu)", "Bevölkerung von nur etwa 60 Personen", "Gehört seit 1891 offiziell zu den Cookinseln", "Kein Flugplatz, nur per Schiff erreichbar"],
+      hu: ["1863-ban népesítették be", "Alapítója az angol William Marsters volt", "Hat főbb szigetből (motu) áll", "Lakossága mindössze 60 fő körül mozog", "1891 óta a Cook-szigetek hivatalos része", "Nincs repülőtere, csak hajóval érhető el"],
+      ro: ["Colonizat începând cu anul 1863", "Fondator a fost englezul William Marsters", "Format din șase insule principale (motu)", "Populație de aproximativ 60 de persoane", "Parte oficială a Insulelor Cook din 1891", "Nu are aeroport, accesibil doar cu nava"],
+      en: ["Settled starting in 1863", "Founder was William Marsters", "Consists of six main islets (motu)", "Population of only about 60 people", "Official part of Cook Islands since 1891", "No airstrip, accessible only by sea"],
+    },
   },
   {
     id: "cookislands-tinomana-palace-history-v2",

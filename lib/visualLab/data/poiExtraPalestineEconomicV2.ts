@@ -19,6 +19,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Produces over 4 million pairs of shoes annually", "The most important export sector of Hebron city", "Employs approximately 10,000 local craftsmen", "The tradition dates back to the early 20th century"],
     },
     imageHint: "Hebron shoe workshop with leather goods",
+    descriptionAdvanced: {
+      de: "Hebron ist das Zentrum der palästinensischen Schuhindustrie und bekannt für handgefertigte Lederwaren von hoher Qualität. Die Branche beschäftigt Tausende von Arbeitern in Hunderten von kleinen und mittleren Betrieben. Trotz internationaler Konkurrenz bleibt das Label 'Made in Palestine' ein wichtiges Symbol für lokales Handwerk.",
+      hu: "Hebron a palesztin cipőipar központja, amely kiváló minőségű, kézzel készített bőrtermékeiről ismert. Az ágazat több ezer munkást foglalkoztat több száz kis- és középvállalkozásban. A nemzetközi verseny ellenére a 'Made in Palestine' védjegy a helyi kézművesség fontos szimbóluma marad.",
+      ro: "Hebron este centrul industriei palestiniene de încălțăminte, cunoscut pentru produsele din piele realizate manual de înaltă calitate. Sectorul angajează mii de lucrători în sute de întreprinderi mici și mijlocii. În ciuda concurenței internaționale, eticheta 'Made in Palestine' rămâne un simbol important al meșteșugului local.",
+      en: "Hebron is the hub of the Palestinian shoe industry, renowned for high-quality, handcrafted leather goods. The sector employs thousands of workers across hundreds of small and medium-sized enterprises. Despite international competition, the 'Made in Palestine' label remains an important symbol of local craftsmanship.",
+    },
+    factsAdvanced: {
+      de: ["Über 200 Fabriken und Werkstätten sind in Hebron tätig", "Die Branche trägt erheblich zum BIP des Westjordanlands bei", "Traditionelle Lederverarbeitung hat jahrhundertelange Wurzeln", "Schuhe werden in arabische Nachbarländer exportiert", "Die Industrie erreichte in den 1980er Jahren ihre Blütezeit", "Jährlich werden Millionen Paare Schuhe produziert"],
+      hu: ["Több mint 200 gyár és műhely működik Hebronban", "Az ágazat jelentősen hozzájárul Ciszjordánia GDP-jéhez", "A hagyományos bőrművesség évszázados gyökerekkel rendelkezik", "A cipőket a szomszédos arab országokba is exportálják", "Az iparág az 1980-as években érte el virágkorát", "Évente több millió pár cipőt gyártanak"],
+      ro: ["Peste 200 de fabrici și ateliere funcționează în Hebron", "Sectorul contribuie semnificativ la PIB-ul Cisiordaniei", "Prelucrarea tradițională a pielii are rădăcini de secole", "Încălțămintea este exportată în țările arabe vecine", "Industria a atins apogeul în anii 1980", "Milioane de perechi de încălțăminte sunt produse anual"],
+      en: ["Over 200 factories and workshops operate in Hebron", "The sector contributes significantly to the West Bank's GDP", "Traditional leather crafting has roots going back centuries", "Shoes are exported to neighboring Arab countries", "The industry reached its peak in the 1980s", "Millions of pairs of shoes are produced annually"],
+    },
   },
   {
     id: "palestine-nablus-soap-factories-economic-v2",
@@ -38,6 +50,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Made from pure virgin olive oil", "The industry reached its peak in the 19th century", "Traditional export to Egypt and Jordan", "The soap is dried in characteristic towers"],
     },
     imageHint: "Stacks of Nabulsi olive oil soap in factory",
+    descriptionAdvanced: {
+      de: "Nablus ist weltberühmt für seine Seifenproduktion aus reinem Olivenöl, die seit dem 10. Jahrhundert dokumentiert ist. Die 'Nabulsi-Seife' wird in historischen Gebäuden nach traditionellen Methoden hergestellt, wobei die Seifenmasse in großen Blöcken getrocknet wird. Nur noch wenige der einst Dutzenden Fabriken sind heute in der Altstadt aktiv.",
+      hu: "Nablusz világhírű a tiszta olívaolajból készülő szappantermeléséről, amely a 10. század óta dokumentált. A 'nabluszi szappan' hagyományos módszerekkel készül történelmi épületekben, ahol a szappanmasszát hatalmas tömbökben szárítják. Az egykor tucatnyi gyár közül ma már csak néhány üzemel az óvárosban.",
+      ro: "Nablus este faimos în întreaga lume pentru producția de săpun din ulei de măsline pur, documentată încă din secolul al X-lea. 'Săpunul Nabulsi' este fabricat prin metode tradiționale în clădiri istorice, unde masa de săpun este uscată în blocuri mari. Doar câteva dintre zecile de fabrici de odinioară mai sunt active astăzi în orașul vechi.",
+      en: "Nablus is world-famous for its soap production made from pure olive oil, documented since the 10th century. 'Nabulsi soap' is manufactured using traditional methods in historic buildings, where the soap mass is dried in large blocks. Only a few of the once dozens of factories remain active in the Old City today.",
+    },
+    factsAdvanced: {
+      de: ["Hauptbestandteile sind Olivenöl, Wasser und Soda", "Die Tuqan-Fabrik ist eine der bekanntesten aktiven Stätten", "Die Seife wird in charakteristischen hohen Türmen gestapelt", "Traditionelle Produktion dauert etwa einen Monat pro Charge", "Wurde historisch bis nach Europa und Ägypten exportiert", "Die Fabrikgebäude sind oft osmanische Baudenkmäler"],
+      hu: ["Fő összetevői az olívaolaj, a víz és a lúg", "A Tuqan-gyár az egyik legismertebb működő üzem", "A szappanokat jellegzetes magas tornyokba rakják száradni", "A hagyományos gyártás kb. egy hónapot vesz igénybe", "Történelmileg Európába és Egyiptomba is exportálták", "A gyárépületek gyakran oszmán kori műemlékek"],
+      ro: ["Ingredientele principale sunt uleiul de măsline, apa și soda", "Fabrica Tuqan este una dintre cele mai cunoscute unități active", "Săpunul este stivuit în turnuri înalte caracteristice", "Producția tradițională durează aproximativ o lună pe lot", "Istoric, a fost exportat până în Europa și Egipt", "Clădirile fabricilor sunt adesea monumente otomane"],
+      en: ["Main ingredients are olive oil, water, and soda", "The Tuqan factory is one of the most famous active sites", "Soap is stacked in characteristic high towers for drying", "Traditional production takes about one month per batch", "Historically exported as far as Europe and Egypt", "Factory buildings are often Ottoman-era architectural monuments"],
+    },
   },
   {
     id: "palestine-securities-exchange-economic-v2",
@@ -57,6 +81,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Founded in 1995 in Nablus", "First trading day was February 18, 1997", "The Al-Quds Index is the main market index", "Regulated by the Capital Market Authority"],
     },
     imageHint: "Palestine Securities Exchange building Nablus",
+    descriptionAdvanced: {
+      de: "Die Palestine Exchange (PEX) mit Sitz in Nablus wurde 1995 gegründet, um Auslandsinvestitionen zu fördern und die lokale Wirtschaft zu formalisieren. Als eine der modernsten Börsen in der arabischen Welt arbeitet sie vollelektronisch. Sie listet Unternehmen aus den Sektoren Banken, Versicherungen, Industrie, Investitionen und Dienstleistungen.",
+      hu: "A nabluszi székhelyű Palesztin Értéktőzsde (PEX) 1995-ben alakult a külföldi befektetések ösztönzése és a helyi gazdaság formális keretek közé terelése céljából. Az arab világ egyik legmodernebb tőzsdéjeként teljesen elektronikus rendszerben működik. Banki, biztosítási, ipari, befektetési és szolgáltatási szektorok vállalatait listázza.",
+      ro: "Bursa de Valori din Palestina (PEX), cu sediul în Nablus, a fost înființată în 1995 pentru a promova investițiile străine și a formaliza economia locală. Fiind una dintre cele mai moderne burse din lumea arabă, funcționează complet electronic. Listează companii din sectoarele bancar, asigurări, industrie, investiții și servicii.",
+      en: "The Palestine Exchange (PEX), based in Nablus, was established in 1995 to encourage foreign investment and formalize the local economy. As one of the most modern exchanges in the Arab world, it operates fully electronically. It lists companies from the banking, insurance, industrial, investment, and service sectors.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1995 in Nablus", "Erster Handelstag war der 18. Februar 1997", "Wurde als privates Unternehmen gegründet", "Der Al-Quds Index ist der wichtigste Börsenindex", "Vollständige elektronische Handelsplattform seit Beginn", "Überwacht durch die Palestine Capital Market Authority"],
+      hu: ["1995-ben alapították Nabluszban", "Az első kereskedési nap 1997. február 18-án volt", "Magánvállalatként jött létre", "Az Al-Quds index a legfontosabb piaci mutatója", "Kezdetektől fogva teljesen elektronikus kereskedési platform", "A Palesztin Tőkepiaci Hatóság felügyeli"],
+      ro: ["Fondată în 1995 la Nablus", "Prima zi de tranzacționare a fost 18 februarie 1997", "Înființată ca o companie privată", "Indicele Al-Quds este principalul indice bursier", "Platformă de tranzacționare complet electronică de la început", "Supravegheată de Autoritatea Pieței de Capital din Palestina"],
+      en: ["Founded in 1995 in the city of Nablus", "First trading day was February 18, 1997", "Established as a private shareholding company", "The Al-Quds Index is the main stock market index", "Fully electronic trading platform since its inception", "Regulated by the Palestine Capital Market Authority"],
+    },
   },
   {
     id: "palestine-jericho-date-plantations-economic-v2",
@@ -76,6 +112,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Jericho is the lowest city on Earth", "Produces the famous Medjool variety", "Harvest season is between August and October", "Major agricultural export product"],
     },
     imageHint: "Date palm groves in Jericho valley",
+    descriptionAdvanced: {
+      de: "Jericho im Jordantal ist bekannt für seine ausgedehnten Dattelpalmenhaine, insbesondere für die hochwertige Medjool-Sorte. Das warme Klima und die fruchtbaren Böden unter dem Meeresspiegel bieten ideale Bedingungen für den Anbau. Diese Plantagen sind ein Eckpfeiler des Agrarexports und beschäftigen viele Saisonarbeiter aus der Region.",
+      hu: "A Jordán-völgyben fekvő Jerikó kiterjedt dátumapálma-ültetvényeiről ismert, különösen a kiváló minőségű Medjool fajtáról. A meleg éghajlat és a tengerszint alatti termékeny talaj ideális feltételeket biztosít a termesztéshez. Ezek az ültetvények a mezőgazdasági export alappillérei, és sok helyi idénymunkást foglalkoztatnak.",
+      ro: "Ierihon, în Valea Iordanului, este cunoscut pentru plantațiile sale extinse de curmali, în special pentru soiul de înaltă calitate Medjool. Climatul cald și solurile fertile de sub nivelul mării oferă condiții ideale pentru cultivare. Aceste plantații sunt un pilon al exporturilor agricole și angajează mulți lucrători sezonieri.",
+      en: "Jericho, in the Jordan Valley, is famous for its extensive date palm groves, particularly the high-quality Medjool variety. The warm climate and fertile soils below sea level provide ideal conditions for cultivation. These plantations are a cornerstone of agricultural exports and employ many seasonal workers from the region.",
+    },
+    factsAdvanced: {
+      de: ["Jericho gilt als eine der ältesten Städte der Welt", "Hauptanbaugebiet für die 'Medjool'-Dattel", "Die Ernte findet meist im September und Oktober statt", "Produkte werden in über 20 Länder weltweit exportiert", "Wird oft durch Bewässerung aus lokalen Quellen gespeist", "Die Dattelindustrie ist ein wichtiger Devisenbringer"],
+      hu: ["Jerikót a világ egyik legrégebbi városának tartják", "A 'Medjool' dátum egyik fő termesztési területe", "A szüret általában szeptemberben és októberben zajlik", "A termékeket a világ több mint 20 országába exportálják", "Gyakran helyi forrásokból származó öntözéssel táplálják", "A dátumipar fontos devizaforrás a gazdaságnak"],
+      ro: ["Ierihon este considerat unul dintre cele mai vechi orașe", "Zonă principală de cultivare pentru curmalele 'Medjool'", "Recoltarea are loc de obicei în septembrie și octombrie", "Produsele sunt exportate în peste 20 de țări din lume", "Plantațiile sunt adesea irigate din izvoare locale", "Industria curmalelor este un furnizor important de valută"],
+      en: ["Jericho is considered one of the oldest cities in the world", "Primary cultivation area for the 'Medjool' date variety", "Harvesting typically takes place in September and October", "Products are exported to over 20 countries worldwide", "Often fed by irrigation from local natural springs", "The date industry is a major source of foreign currency"],
+    },
   },
   {
     id: "palestine-hebron-stone-quarries-economic-v2",
@@ -95,6 +143,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Beige limestone is exported worldwide", "The stone industry contributes 5% to GDP", "Over 100 factories in the Hebron region", "Often referred to as 'White Gold'"],
     },
     imageHint: "Stone quarry in Hebron hills with white blocks",
+    descriptionAdvanced: {
+      de: "Die Steinbrüche von Hebron produzieren den berühmten 'Jerusalem-Stein', einen hochwertigen Kalkstein, der weltweit im Bauwesen geschätzt wird. Die Steinindustrie ist der größte Exportsektor der palästinensischen Wirtschaft und für seine charakteristischen Farbtöne bekannt. Die Verarbeitung erfolgt in modernen Fabriken, die Steinplatten in alle Kontinente versenden.",
+      hu: "Hebron kőbányái termelik a híres 'Jeruzsálemi követ', egy kiváló minőségű mészkövet, amelyet világszerte nagyra értékelnek az építőiparban. A kőipar a palesztin gazdaság legnagyobb exportágazata, amely jellegzetes színárnyalatairól ismert. A feldolgozás modern gyárakban zajlik, ahonnan minden kontinensre szállítanak kőlapokat.",
+      ro: "Carierele de piatră din Hebron produc faimoasa 'piatră de Ierusalim', un calcar de înaltă calitate apreciat la nivel mondial în construcții. Industria pietrei este cel mai mare sector de export al economiei palestiniene, fiind cunoscută pentru nuanțele sale caracteristice. Prelucrarea are loc în fabrici moderne care trimit plăci de piatră pe toate continentele.",
+      en: "The stone quarries of Hebron produce the famous 'Jerusalem stone,' a high-quality limestone valued worldwide in construction. The stone industry is the largest export sector of the Palestinian economy, known for its characteristic hues. Processing occurs in modern factories that ship stone slabs to all continents.",
+    },
+    factsAdvanced: {
+      de: ["Wird oft als das 'weiße Gold' Palästinas bezeichnet", "Die Industrie trägt ca. 4-5% zum gesamten BIP bei", "Exportiert in die USA, nach Europa und in die Golfstaaten", "Hebron beheimatet hunderte Steinmetzbetriebe", "Der Kalkstein entstand in der Oberkreidezeit", "Über 15.000 Menschen arbeiten direkt in diesem Sektor"],
+      hu: ["Gyakran Palesztina 'fehér aranyaként' emlegetik", "Az iparág a teljes GDP kb. 4-5%-át adja", "Exportálnak az USA-ba, Európába és az Öböl-menti országokba", "Hebronban több száz kőfaragó üzem található", "A mészkő a késő kréta időszakban keletkezett", "Több mint 15 000 ember dolgozik közvetlenül az ágazatban"],
+      ro: ["Deseori numită 'aurul alb' al Palestinei", "Industria contribuie cu cca. 4-5% la PIB-ul total", "Exporturi către SUA, Europa și statele din Golf", "Hebron găzduiește sute de unități de tăiere a pietrei", "Calcarul s-a format în perioada Cretacicului superior", "Peste 15.000 de oameni lucrează direct în acest sector"],
+      en: ["Often referred to as the 'White Gold' of Palestine", "The industry contributes about 4-5% to the total GDP", "Exports reach the USA, Europe, and Gulf nations", "Hebron houses hundreds of stone-cutting facilities", "The limestone originated in the Upper Cretaceous period", "Over 15,000 people are employed directly in this sector"],
+    },
   },
   {
     id: "palestine-gaza-fishing-port-economic-v2",
@@ -114,6 +174,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Supports thousands of fishing families", "Sardines are the most common catch", "Port capacity for hundreds of small boats", "Vital source of protein in Gaza"],
     },
     imageHint: "Fishing boats in Gaza port at sunset",
+    descriptionAdvanced: {
+      de: "Der Fischereihafen von Gaza ist ein lebenswichtiger Wirtschaftsknotenpunkt für Tausende von Familien entlang der Küste. Trotz strenger Beschränkungen der Fangzonen bleibt der Hafen das Zentrum für den lokalen Fischmarkt und kleine Bootswerften. Die Fischer nutzen traditionelle Feluken und motorisierte Kutter, um den Bedarf der lokalen Bevölkerung zu decken.",
+      hu: "Gáza halászkikötője létfontosságú gazdasági csomópont a tengerpart mentén élő családok ezrei számára. A halászati övezetek szigorú korlátozása ellenére a kikötő marad a helyi halpiac és a kis hajóépítő műhelyek központja. A halászok hagyományos felukkákat és motoros bárkákat használnak a lakosság igényeinek kielégítésére.",
+      ro: "Portul de pescuit din Gaza este un nod economic vital pentru mii de familii de-a lungul coastei. În ciuda restricțiilor stricte privind zonele de pescuit, portul rămâne centrul pieței locale de pește și al micilor șantiere navale. Pescarii folosesc feluci tradiționale și bărci motorizate pentru a satisface nevoile populației locale.",
+      en: "The Gaza fishing port is a vital economic hub for thousands of families along the coast. Despite strict restrictions on fishing zones, the port remains the center for the local fish market and small boat-building workshops. Fishermen use traditional feluccas and motorized vessels to meet the needs of the local population.",
+    },
+    factsAdvanced: {
+      de: ["Etwa 4.000 registrierte Fischer arbeiten im Hafen", "Sardinen machen den Großteil des jährlichen Fangs aus", "Der Hafen liegt im westlichen Teil von Gaza-Stadt", "Fischfangzonen variieren oft zwischen 6 und 15 Meilen", "Der Hafen dient auch als Erholungsgebiet für Anwohner", "Wirtschaftlich hängen indirekt ca. 30.000 Menschen davon ab"],
+      hu: ["Körülbelül 4000 regisztrált halász dolgozik a kikötőben", "A szardínia teszi ki az éves fogás nagy részét", "A kikötő Gáza város nyugati részén található", "A halászati zónák gyakran 6 és 15 mérföld között változnak", "A kikötő pihenőhelyként is szolgál a helyieknek", "Gazdaságilag közvetve kb. 30 000 ember függ tőle"],
+      ro: ["Aproximativ 4.000 de pescari înregistrați lucrează în port", "Sardinele reprezintă majoritatea capturii anuale", "Portul este situat în partea de vest a orașului Gaza", "Zonele de pescuit variază adesea între 6 și 15 mile", "Portul servește și ca zonă de recreere pentru localnici", "Economic, aproximativ 30.000 de oameni depind indirect de el"],
+      en: ["Roughly 4,000 registered fishermen work out of the port", "Sardines make up the majority of the annual catch", "The port is located in the western part of Gaza City", "Fishing zones often vary between 6 and 15 nautical miles", "The port also serves as a recreational area for residents", "Economically, about 30,000 people depend indirectly on it"],
+    },
   },
   {
     id: "palestine-jenin-agro-industrial-park-economic-v2",
@@ -133,6 +205,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Developed with international support", "Located near the Marj Ibn Amer plain", "Focus on olive oil and fruit processing", "Creates thousands of jobs in the north"],
     },
     imageHint: "Industrial buildings and fields in Jenin area",
+    descriptionAdvanced: {
+      de: "Der Agro-Industriepark in Jenin ist ein wichtiges Entwicklungsprojekt im Norden des Westjordanlands, das mit internationaler Unterstützung realisiert wurde. Er zielt darauf ab, die landwirtschaftliche Produktion der fruchtbaren Region Marj Ibn Amer industriell zu verarbeiten. Der Park bietet moderne Lagerkapazitäten und Produktionsstätten für den Export.",
+      hu: "A dzsenini agrár-ipari park egy fontos fejlesztési projekt Ciszjordánia északi részén, amely nemzetközi támogatással valósult meg. Célja a termékeny Marj Ibn Amer régió mezőgazdasági termelésének ipari feldolgozása. A park modern raktárkapacitást és gyártóegységeket kínál az exporthoz.",
+      ro: "Parcul agro-industrial din Jenin este un proiect important de dezvoltare în nordul Cisiordaniei, realizat cu sprijin internațional. Acesta vizează prelucrarea industrială a producției agricole din regiunea fertilă Marj Ibn Amer. Parcul oferă capacități moderne de depozitare și unități de producție pentru export.",
+      en: "The Jenin Agro-Industrial Park is a major development project in the northern West Bank, realized with international support. It aims to industrially process the agricultural output of the fertile Marj Ibn Amer region. The park provides modern storage capacities and production facilities for export purposes.",
+    },
+    factsAdvanced: {
+      de: ["Wurde mit maßgeblicher Hilfe der Türkei entwickelt", "Liegt in der Nähe der Stadt Jenin im Norden", "Fokus liegt auf Lebensmitteln und Logistik", "Soll tausende neue Arbeitsplätze in der Region schaffen", "Teil einer Initiative für grenzüberschreitenden Handel", "Nutzt die Rohstoffe aus dem fruchtbaren Umland"],
+      hu: ["Törökország jelentős segítségével fejlesztették ki", "Dzsenin városának közelében található, északon", "Fő fókusza az élelmiszeripar és a logisztika", "Célja több ezer új munkahely teremtése a régióban", "A határokon átnyúló kereskedelmi kezdeményezés része", "A környező termékeny területek nyersanyagait használja"],
+      ro: ["Dezvoltat cu sprijinul semnificativ al Turciei", "Situat lângă orașul Jenin, în partea de nord", "Accentul este pus pe industria alimentară și logistică", "Vizează crearea a mii de locuri de muncă în regiune", "Parte a unei inițiative pentru comerț transfrontalier", "Utilizează materiile prime din zonele fertile învecinate"],
+      en: ["Developed with significant assistance from Turkey", "Located near the city of Jenin in the north", "Focuses on food processing and logistics", "Aims to create thousands of jobs in the region", "Part of a wider initiative for cross-border trade", "Utilizes raw materials from the surrounding fertile plains"],
+    },
   },
   {
     id: "palestine-rawabi-tech-hub-economic-v2",
@@ -152,6 +236,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Part of the first planned Palestinian city", "Hosts numerous software companies", "Center for high-tech jobs", "State-of-the-art fiber optic infrastructure"],
     },
     imageHint: "Modern office buildings in Rawabi city",
+    descriptionAdvanced: {
+      de: "Rawabi ist die erste geplante palästinensische Stadt und beherbergt einen modernen Tech-Hub, der als Zentrum für Innovation und Softwareentwicklung dient. Die Stadt verfügt über eine hochmoderne Glasfaserinfrastruktur und lockt internationale Technologieunternehmen an. Der Komplex umfasst Büros, Coworking-Spaces und ein Rechenzentrum.",
+      hu: "Rawabi az első tervezett palesztin város, amely egy modern technológiai központnak ad otthont, az innováció és a szoftverfejlesztés központjaként szolgálva. A város korszerű optikai infrastruktúrával rendelkezik, és nemzetközi technológiai cégeket vonz. A komplexum irodákat, közösségi tereket és egy adatközpontot is magában foglal.",
+      ro: "Rawabi este primul oraș palestinian planificat și găzduiește un hub tehnologic modern, servind ca centru pentru inovație și dezvoltare software. Orașul dispune de o infrastructură modernă de fibră optică și atrage companii internaționale de tehnologie. Complexul include birouri, spații de coworking și un centru de date.",
+      en: "Rawabi is the first planned Palestinian city and houses a modern tech hub serving as a center for innovation and software development. The city features cutting-edge fiber-optic infrastructure and attracts international technology companies. The complex includes offices, coworking spaces, and a data center.",
+    },
+    factsAdvanced: {
+      de: ["Rawabi ist das größte private Bauprojekt in Palästina", "Der Tech-Hub heißt offiziell 'Rawabi Tech Hub'", "Verfügt über die schnellste Internetanbindung der Region", "Beheimatet viele IT-Startups und Outsourcing-Firmen", "Liegt nördlich von Ramallah in den Hügeln", "Integrierte Stadtplanung umfasst auch ein Amphitheater"],
+      hu: ["Rawabi Palesztina legnagyobb magánépítési projektje", "A technológiai központ hivatalos neve 'Rawabi Tech Hub'", "A régió leggyorsabb internetkapcsolatával rendelkezik", "Számos IT-startupnak és kiszervező cégnek ad otthont", "Rámalláhtól északra, a dombok között fekszik", "Az integrált várostervezés része egy amfiteátrum is"],
+      ro: ["Rawabi este cel mai mare proiect privat din Palestina", "Hub-ul tehnologic se numește oficial 'Rawabi Tech Hub'", "Dispune de cea mai rapidă conexiune la internet din regiune", "Găzduiește numeroase startup-uri IT și firme de outsourcing", "Situat la nord de Ramallah, în zonele deluroase", "Planificarea urbană include și un amfiteatru"],
+      en: ["Rawabi is the largest private construction project in Palestine", "The technology center is officially called 'Rawabi Tech Hub'", "Features the fastest internet connectivity in the region", "Home to many IT startups and outsourcing firms", "Located north of Ramallah in the rolling hills", "The integrated urban planning includes a large amphitheater"],
+    },
   },
   {
     id: "palestine-bethlehem-handicraft-workshops-economic-v2",
@@ -171,6 +267,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Tradition dates back to the 4th century", "Olive wood comes from local trees", "Mother-of-pearl was introduced by Franciscans", "Export to Christian communities worldwide"],
     },
     imageHint: "Artisan carving religious figure from olive wood",
+    descriptionAdvanced: {
+      de: "Das Kunsthandwerk in Bethlehem hat eine lange Tradition, die bis ins 4. Jahrhundert zurückreicht, besonders die Schnitzerei aus Olivenholz. Hunderte von Familienbetrieben stellen religiöse Souvenirs, Schmuck und Perlmuttarbeiten her. Diese Werkstätten sind ein wesentlicher Bestandteil der lokalen Tourismuswirtschaft und exportieren weltweit.",
+      hu: "Betlehem kézművessége hosszú hagyományra tekint vissza, amely a 4. századig nyúlik, különösen az olajfa faragás. Több száz családi vállalkozás készít vallási szuveníreket, ékszereket és gyöngyházműves termékeket. Ezek a műhelyek a helyi turisztikai gazdaság alapvető részét képezik, és világszerte exportálnak.",
+      ro: "Meșteșugurile din Betleem au o tradiție îndelungată care datează din secolul al IV-lea, în special sculptura în lemn de măsline. Sute de afaceri de familie produc suveniruri religioase, bijuterii și obiecte din sidef. Aceste ateliere sunt o parte esențială a economiei turistice locale și exportă în întreaga lume.",
+      en: "Handicrafts in Bethlehem have a long tradition dating back to the 4th century, especially olive wood carving. Hundreds of family-run businesses produce religious souvenirs, jewelry, and mother-of-pearl works. These workshops are an essential part of the local tourism economy and export their products globally.",
+    },
+    factsAdvanced: {
+      de: ["Olivenholzschnitzerei begann bereits in byzantinischer Zeit", "Perlmuttarbeiten wurden im 14. Jh. von Franziskanern eingeführt", "Wird oft von christlichen Gemeinschaften betrieben", "Verwendet Holz von beschnittenen Olivenbäumen", "Produkte werden weltweit in Souvenirshops verkauft", "Die Branche ist stark von den Pilgerzahlen abhängig"],
+      hu: ["Az olajfa-faragás már a bizánci időkben elkezdődött", "A gyöngyházmunkát a ferencesek vezették be a 14. században", "Gyakran keresztény közösségek űzik ezt a mesterséget", "Metszett olajfák fáját használják alapanyagként", "A termékeket világszerte árulják a szuvenírboltokban", "Az ágazat erősen függ a zarándokok számától"],
+      ro: ["Sculptura în lemn de măsline a început în perioada bizantină", "Sideful a fost introdus de franciscani în secolul al XIV-lea", "Meseria este practicată adesea de comunitățile creștine", "Se folosește lemn de la măslinii toaletați", "Produsele sunt vândute în magazine de suveniruri din lume", "Sectorul depinde în mare măsură de numărul pelerinilor"],
+      en: ["Olive wood carving began as early as the Byzantine era", "Mother-of-pearl work was introduced by Franciscans in the 14th century", "Often practiced by local Christian communities", "Uses wood primarily from pruned olive trees", "Products are sold in souvenir shops globally", "The industry is highly dependent on pilgrimage numbers"],
+    },
   },
   {
     id: "palestine-qalqilya-greenhouses-economic-v2",
@@ -190,6 +298,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Famous for guava and citrus fruits", "Supplies local markets in the West Bank", "Uses modern irrigation technologies", "Center of plant nurseries in the region"],
     },
     imageHint: "Rows of greenhouses in agricultural landscape",
+    descriptionAdvanced: {
+      de: "Qalqilya im Nordwesten des Westjordanlands ist für seine intensive Landwirtschaft in Gewächshäusern bekannt. Durch die Nähe zur Küstenebene und fruchtbare Böden werden hier vor allem Guaven, Zitrusfrüchte und Gemüse angebaut. Diese modernen Anbautechniken ermöglichen eine ganzjährige Produktion für den Inlandsmarkt und den Export.",
+      hu: "Ciszjordánia északnyugati részén fekvő Kalkilja intenzív üvegházi mezőgazdaságáról ismert. A tengerparti síkság közelsége és a termékeny talaj révén elsősorban guavát, citrusféléket és zöldségeket termesztenek itt. Ezek a modern termesztési technikák egész évben lehetővé teszik a termelést a hazai piacra és exportra.",
+      ro: "Qalqilya, în nord-vestul Cisiordaniei, este cunoscută pentru agricultura sa intensivă în sere. Datorită proximității față de câmpia de coastă și solurilor fertile, aici se cultivă în principal guava, citrice și legume. Aceste tehnici moderne de cultivare permit o producție pe tot parcursul anului pentru piața internă și export.",
+      en: "Qalqilya, in the northwestern West Bank, is known for its intensive greenhouse agriculture. Due to its proximity to the coastal plain and fertile soils, it primarily produces guavas, citrus fruits, and vegetables. These modern cultivation techniques enable year-round production for both the domestic market and export.",
+    },
+    factsAdvanced: {
+      de: ["Qalqilya ist berühmt für die Produktion von Guaven", "Die Stadt liegt direkt an der Grünen Linie", "Gewächshäuser reduzieren den Wasserverbrauch", "Landwirtschaft ist der Hauptarbeitgeber der Stadt", "Früchte werden oft in die Golfstaaten exportiert", "Die Region gilt als der Obstgarten des Westjordanlands"],
+      hu: ["Kalkilja híres a guavatermeléséről", "A város közvetlenül a Zöld Vonal mellett fekszik", "Az üvegházak csökkentik a vízfelhasználást", "A mezőgazdaság a város legfőbb foglalkoztatója", "A gyümölcsöket gyakran az Öböl-országokba exportálják", "A régiót Ciszjordánia gyümölcsöskertjének nevezik"],
+      ro: ["Qalqilya este faimoasă pentru producția de guava", "Orașul este situat direct pe Linia Verde", "Serele reduc consumul de apă în agricultură", "Agricultura este principalul angajator din oraș", "Fructele sunt adesea exportate în statele din Golf", "Regiunea este considerată livada Cisiordaniei"],
+      en: ["Qalqilya is famous for its guava production", "The city is located directly on the Green Line", "Greenhouses help in reducing water consumption", "Agriculture is the city's primary employer", "Fruits are often exported to Gulf Arab countries", "The region is regarded as the orchard of the West Bank"],
+    },
   },
   {
     id: "palestine-gaza-power-plant-economic-v2",
@@ -209,6 +329,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Commissioned in the year 2002", "Operates primarily on diesel fuel", "Supplies hundreds of thousands of homes", "Vital infrastructure for the local economy"],
     },
     imageHint: "Industrial power plant with chimneys in Gaza",
+    descriptionAdvanced: {
+      de: "Das Kraftwerk von Gaza (GPP) ist die einzige Anlage zur Stromerzeugung im Gazastreifen und ein kritischer Pfeiler der lokalen Infrastruktur. Es wurde 2002 in Betrieb genommen und läuft hauptsächlich mit Dieselkraftstoff. Die Anlage liefert einen wesentlichen Teil der benötigten Energie für Haushalte, Krankenhäuser und Wasseraufbereitungsanlagen.",
+      hu: "A Gázai Erőmű (GPP) a Gázai övezet egyetlen áramtermelő létesítménye, és a helyi infrastruktúra kritikus alappillére. 2002-ben helyezték üzembe, és elsősorban dízelüzemanyaggal működik. Az erőmű a háztartások, kórházak és víztisztító telepek számára szükséges energia jelentős részét biztosítja.",
+      ro: "Centrala electrică din Gaza (GPP) este singura unitate de generare a energiei din Fâșia Gaza și un pilon critic al infrastructurii locale. A fost dată în folosință în 2002 și funcționează în principal cu motorină. Instalația furnizează o parte esențială din energia necesară pentru gospodării, spitale și stații de epurare.",
+      en: "The Gaza Power Plant (GPP) is the only electricity generation facility in the Gaza Strip and a critical pillar of local infrastructure. Commissioned in 2002, it runs primarily on diesel fuel. The plant provides a significant portion of the energy needed for households, hospitals, and water treatment facilities.",
+    },
+    factsAdvanced: {
+      de: ["Bau wurde im Jahr 2002 abgeschlossen", "Betrieben durch die Gaza Power Generating Company", "Nennleistung liegt bei etwa 140 Megawatt", "Brennstoff wird meist über den Kerem Shalom Übergang geliefert", "Wurde mehrfach durch Konflikte schwer beschädigt", "Versorgungskapazität deckt nur einen Teil des Gesamtbedarfs"],
+      hu: ["Az építése 2002-ben fejeződött be", "A Gaza Power Generating Company üzemelteti", "Névleges teljesítménye körülbelül 140 megawatt", "Az üzemanyagot általában a Kerem Shalom átkelőn szállítják", "A konfliktusok során többször súlyosan megsérült", "Az ellátási kapacitás csak a teljes igény egy részét fedezi"],
+      ro: ["Construcția a fost finalizată în anul 2002", "Operată de Gaza Power Generating Company", "Capacitatea nominală este de aproximativ 140 megawați", "Combustibilul este livrat prin punctul de trecere Kerem Shalom", "A fost grav avariată de mai multe ori în timpul conflictelor", "Capacitatea de aprovizionare acoperă doar o parte din necesar"],
+      en: ["Construction was completed in the year 2002", "Operated by the Gaza Power Generating Company", "Nominal capacity is approximately 140 Megawatts", "Fuel is typically delivered via the Kerem Shalom crossing", "Has been heavily damaged multiple times during conflicts", "Supply capacity covers only a fraction of total demand"],
+    },
   },
   {
     id: "palestine-nablus-furniture-industry-economic-v2",
@@ -228,6 +360,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Largest concentration of furniture workshops", "Specialized in classic wooden furniture", "Supplies the entire Palestinian market", "Important source of local skilled labor"],
     },
     imageHint: "Craftsman assembling wooden furniture Nablus",
+    descriptionAdvanced: {
+      de: "Nablus ist ein historisches Zentrum des Schreinerhandwerks und der Möbelherstellung im Westjordanland. Die Stadt ist bekannt für ihre massiven Holzmöbel und hochwertigen Polsterarbeiten, die in modernen Ausstellungsräumen und kleinen Werkstätten präsentiert werden. Diese Industrie beliefert sowohl den lokalen Markt als auch Käufer in der gesamten Region.",
+      hu: "Nablusz az asztalosmesterség és a bútorgyártás történelmi központja Ciszjordániában. A város híres tömörfa bútorairól és kiváló minőségű kárpitos munkáiról, amelyeket modern bemutatótermekben és kis műhelyekben mutatnak be. Ez az iparág a hazai piacot és a régió vásárlóit egyaránt kiszolgálja.",
+      ro: "Nablus este un centru istoric al tâmplăriei și fabricării mobilei în Cisiordania. Orașul este cunoscut pentru mobila sa din lemn masiv și tapițeriile de înaltă calitate, prezentate în showroom-uri moderne și ateliere mici. Această industrie deservește atât piața locală, cât și cumpărătorii din întreaga regiune.",
+      en: "Nablus is a historical center for carpentry and furniture manufacturing in the West Bank. The city is renowned for its solid wood furniture and high-quality upholstery, showcased in modern showrooms and small workshops. This industry serves both the domestic market and buyers across the entire region.",
+    },
+    factsAdvanced: {
+      de: ["Über 600 Werkstätten sind im Möbelbau tätig", "Nablus gilt als 'Hauptstadt der Möbel' in Palästina", "Traditionelle Schnitzkunst wird oft integriert", "Jährlich findet eine große Möbelmesse in der Stadt statt", "Die Branche exportiert verstärkt in die Nachbarländer", "Schafft Arbeitsplätze für tausende gelernte Handwerker"],
+      hu: ["Több mint 600 műhely foglalkozik bútorgyártással", "Nablusz Palesztina 'bútorfővárosaként' ismert", "Gyakran alkalmaznak hagyományos fafaragási technikákat", "Évente nagy bútorvásárt rendeznek a városban", "Az ágazat fokozottan exportál a szomszédos országokba", "Több ezer szakképzett kézművesnek ad munkát"],
+      ro: ["Peste 600 de ateliere sunt active în fabricarea mobilei", "Nablus este considerat 'capitala mobilei' în Palestina", "Arta tradițională a sculpturii este adesea integrată", "Anual are loc un mare târg de mobilă în oraș", "Sectorul exportă din ce în ce mai mult în țările vecine", "Creează locuri de muncă pentru mii de meșteșugari calificați"],
+      en: ["Over 600 workshops are active in furniture making", "Nablus is regarded as the 'Furniture Capital' of Palestine", "Traditional carving techniques are often integrated", "A major annual furniture fair is held in the city", "The industry increasingly exports to neighboring countries", "Provides employment for thousands of skilled craftsmen"],
+    },
   },
   {
     id: "palestine-tulkarm-industrial-zone-economic-v2",
@@ -247,6 +391,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Focus on textile and garment exports", "Strategic location for cross-border trade", "Contains factories for cleaning detergents", "Major employer for the local region"],
     },
     imageHint: "Factory buildings in Tulkarm industrial area",
+    descriptionAdvanced: {
+      de: "Die Industriezone Tulkarm liegt im Nordwesten des Westjordanlandes nahe der Grünen Linie. Sie beherbergt zahlreiche Unternehmen aus den Bereichen Lebensmittelverarbeitung, Textilherstellung und chemische Industrie. Die Zone spielt eine entscheidende Rolle für die lokale Beschäftigung und den grenzüberschreitenden Handel.",
+      hu: "A Tulkarm Ipari Övezet Ciszjordánia északnyugati részén, a Zöld Vonal közelében található. Számos élelmiszeripari, textilipari és vegyipari vállalatnak ad otthont. Az övezet kulcsszerepet játszik a helyi foglalkoztatásban és a határokon átnyúló kereskedelemben.",
+      ro: "Zona Industrială Tulkarm este situată în nord-vestul Cisiordaniei, lângă Linia Verde. Găzduiește numeroase companii din sectoarele procesării alimentelor, textilelor și industriei chimice. Zona joacă un rol crucial pentru ocuparea forței de muncă locale și comerțul transfrontalier.",
+      en: "The Tulkarm Industrial Zone is located in the northwestern West Bank near the Green Line. It houses numerous companies in the food processing, textile, and chemical industries. The zone plays a crucial role in local employment and cross-border trade facilitation.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet zur Förderung der lokalen Wirtschaftsentwicklung.", "Schwerpunkt auf Leichtindustrie und Handwerk.", "Beschäftigt Hunderte von lokalen Arbeitskräften.", "Nähe zur israelischen Grenze begünstigt Logistik.", "Sitz mehrerer Exportunternehmen.", "Wichtiger Faktor für das BIP der Region Tulkarm."],
+      hu: ["A helyi gazdasági fejlődés elősegítésére jött létre.", "A könnyűiparra és a kézművességre összpontosít.", "Több száz helyi munkavállalót foglalkoztat.", "Az izraeli határ közelsége segíti a logisztikát.", "Számos exportorientált vállalat székhelye.", "Tulkarm régió GDP-jének fontos tényezője."],
+      ro: ["Înființată pentru a promova dezvoltarea economică locală.", "Se concentrează pe industria ușoară și meșteșuguri.", "Angajează sute de lucrători locali.", "Proximitatea de granița israeliană favorizează logistica.", "Găzduiește mai multe companii de export.", "Factor important pentru PIB-ul regiunii Tulkarm."],
+      en: ["Established to promote local economic development.", "Focuses on light industry and manufacturing.", "Employs hundreds of local workers.", "Proximity to the border facilitates logistics.", "Home to several export-oriented companies.", "Significant contributor to the Tulkarm region's GDP."],
+    },
   },
   {
     id: "palestine-halhul-vineyards-economic-v2",
@@ -266,6 +422,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Halhul is at the highest point of the West Bank", "Produces dozens of grape varieties", "Grape festival is celebrated annually in autumn", "Grapes are processed into syrup and raisins"],
     },
     imageHint: "Green vineyards on the hills of Halhul",
+    descriptionAdvanced: {
+      de: "Halhul ist das Zentrum des palästinensischen Weinbaus im Gouvernement Hebron. Die Weinberge erstrecken sich über weite Hügel und produzieren jährlich Tausende Tonnen Trauben. Diese landwirtschaftliche Tätigkeit ist die primäre Einkommensquelle für den Großteil der lokalen Bevölkerung.",
+      hu: "Halhul a palesztin szőlőtermesztés központja Hebron kormányzóságban. A szőlőültetvények kiterjedt dombokon fekszenek, és évente több ezer tonna szőlőt teremnek. Ez a mezőgazdasági tevékenység a helyi lakosság többségének elsődleges bevételi forrása.",
+      ro: "Halhul este centrul viticulturii palestiniene din guvernoratul Hebron. Podgoriile se întind pe dealuri vaste și produc anual mii de tone de struguri. Această activitate agricolă este sursa primară de venit pentru majoritatea populației locale.",
+      en: "Halhul is the center of Palestinian viticulture in the Hebron Governorate. The vineyards stretch across vast hills and produce thousands of tons of grapes annually. This agricultural activity is the primary source of income for the majority of the local population.",
+    },
+    factsAdvanced: {
+      de: ["Größtes Traubenproduktionsgebiet in Palästina.", "Über 40 verschiedene Traubensorten werden hier angebaut.", "Jährliche Traubenfeste ziehen Besucher an.", "Export von Frischwaren in Nachbarländer.", "Traditionelle Anbaumethoden seit Generationen.", "Höhenlage von ca. 900-1000 Metern ideal für Reben."],
+      hu: ["Palesztina legnagyobb szőlőtermelő területe.", "Több mint 40 különböző szőlőfajtát termesztenek itt.", "Az éves szőlőfesztiválok sok látogatót vonzanak.", "Frissáru-export a szomszédos országokba.", "Generációk óta hagyományos termesztési módszerek.", "A 900-1000 méteres tengerszint feletti magasság ideális."],
+      ro: ["Cea mai mare zonă de producție de struguri din Palestina.", "Peste 40 de soiuri de struguri sunt cultivate aici.", "Festivalurile anuale ale strugurilor atrag vizitatori.", "Export de produse proaspete către țările vecine.", "Metode tradiționale de cultivare de generații.", "Altitudinea de cca. 900-1000 metri este ideală."],
+      en: ["Largest grape production area in Palestine.", "Over 40 different varieties of grapes are grown here.", "Annual grape festivals attract regional visitors.", "Exports fresh produce to neighboring countries.", "Traditional farming methods used for generations.", "High altitude (900-1000m) is ideal for vine growth."],
+    },
   },
   {
     id: "palestine-bethlehem-industrial-park-economic-v2",
@@ -285,6 +453,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Multi-purpose industrial park", "Supported by international partnerships", "Hosts high-tech startup incubators", "Focus on sustainable industrial production"],
     },
     imageHint: "Modern factory buildings in Bethlehem industrial zone",
+    descriptionAdvanced: {
+      de: "Der Industriepark Bethlehem wurde 2010 als Leuchtturmprojekt zur Wirtschaftsförderung eingeweiht. Er liegt am südlichen Rand von Bethlehem und beherbergt Unternehmen aus den Bereichen Holzverarbeitung, Pharmazeutik und erneuerbare Energien. Das Projekt entstand durch eine enge Zusammenarbeit zwischen palästinensischen und französischen Institutionen.",
+      hu: "A Betlehemi Ipari Parkot 2010-ben avatták fel a gazdaságfejlesztés egyik kiemelt projektjeként. Betlehem déli szélén található, és fafeldolgozó, gyógyszerészeti és megújuló energiával foglalkozó cégeknek ad otthont. A projekt a palesztin és a francia intézmények szoros együttműködésével jött létre.",
+      ro: "Parcul Industrial Betleem a fost inaugurat în 2010 ca proiect-far pentru dezvoltarea economică. Situat la marginea sudică a Betleemului, găzduiește companii din prelucrarea lemnului, farmaceutică și energie regenerabilă. Proiectul a apărut printr-o colaborare strânsă între instituțiile palestiniene și franceze.",
+      en: "The Bethlehem Industrial Park was inaugurated in 2010 as a flagship project for economic development. Located on the southern edge of Bethlehem, it houses companies in wood processing, pharmaceuticals, and renewable energy. The project resulted from close cooperation between Palestinian and French institutions.",
+    },
+    factsAdvanced: {
+      de: ["Offizielle Eröffnung im Jahr 2010.", "Fläche umfasst etwa 20 Hektar.", "Erster 'grüner' Industriepark in Palästina.", "Unterstützt durch die französische Entwicklungsagentur (AFD).", "Schaffung von ca. 1000 direkten Arbeitsplätzen geplant.", "Infrastruktur umfasst moderne Wasseraufbereitungsanlagen."],
+      hu: ["Hivatalos megnyitó 2010-ben volt.", "Területe körülbelül 20 hektár.", "Az első 'zöld' ipari park Palesztinában.", "A Francia Fejlesztési Ügynökség (AFD) támogatja.", "Körülbelül 1000 közvetlen munkahely létrehozása a cél.", "Modern víztisztító létesítményekkel rendelkezik."],
+      ro: ["Inaugurare oficială în anul 2010.", "Suprafața cuprinde aproximativ 20 de hectare.", "Primul parc industrial 'verde' din Palestina.", "Susținut de Agenția Franceză de Dezvoltare (AFD).", "Crearea a cca. 1000 de locuri de muncă directe.", "Infrastructura include stații moderne de epurare."],
+      en: ["Official opening held in 2010.", "Covers an area of approximately 20 hectares.", "First 'green' industrial park in Palestine.", "Supported by the French Development Agency (AFD).", "Aims to create around 1,000 direct jobs.", "Infrastructure includes modern water treatment plants."],
+    },
   },
   {
     id: "palestine-gaza-industrial-estate-economic-v2",
@@ -304,6 +484,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Known as the Karni Industrial Zone", "Hosts textile and furniture manufacturers", "Equipped with solar energy facilities", "Critical point for goods movement"],
     },
     imageHint: "Aerial view of large industrial complex in Gaza",
+    descriptionAdvanced: {
+      de: "Das Industriegebiet Gaza (GIE) wurde 1996 in der Nähe des Grenzübergangs Karni errichtet. Als größter Industriekomplex im Gazastreifen bot es Platz für Hunderte von Fabriken in der Lebensmittel-, Textil- und Metallindustrie. Trotz politischer Instabilität bleibt es ein zentraler Pfeiler der industriellen Infrastruktur in Gaza.",
+      hu: "A Gázai Ipari Negyed (GIE) 1996-ban épült a Karni határátkelő közelében. A Gázai övezet legnagyobb ipari komplexumaként több száz élelmiszer-, textil- és fémipari gyárnak biztosított helyet. A politikai instabilitás ellenére Gáza ipari infrastruktúrájának központi pillére marad.",
+      ro: "Zona Industrială Gaza (GIE) a fost construită în 1996 lângă punctul de trecere Karni. Fiind cel mai mare complex industrial din Fâșia Gaza, a oferit spațiu pentru sute de fabrici din industria alimentară, textilă și metalurgică. În ciuda instabilității politice, rămâne un pilon central al infrastructurii industriale.",
+      en: "The Gaza Industrial Estate (GIE) was established in 1996 near the Karni crossing. As the largest industrial complex in the Gaza Strip, it provided space for hundreds of factories in food, textile, and metal industries. Despite political instability, it remains a central pillar of Gaza's industrial infrastructure.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1996.", "Fläche von etwa 48 Hektar.", "Strategische Lage am Karni-Übergang.", "Einst Beschäftigung von über 5000 Arbeitern.", "Beinhaltet Zolllager und Verwaltungsgebäude.", "Wichtigster Exportknotenpunkt für Waren aus Gaza."],
+      hu: ["Alapítás 1996-ban.", "Körülbelül 48 hektáros terület.", "Stratégiai elhelyezkedés a Karni-átkelőnél.", "Egykor több mint 5000 munkást foglalkoztatott.", "Vámraktárakat és adminisztratív épületeket tartalmaz.", "Gázából érkező áruk legfontosabb exportcsomópontja."],
+      ro: ["Înființată în anul 1996.", "Suprafață de aproximativ 48 de hectare.", "Locație strategică la punctul de trecere Karni.", "A angajat odinioară peste 5000 de lucrători.", "Include antrepozite vamale și clădiri administrative.", "Cel mai important nod de export pentru mărfuri din Gaza."],
+      en: ["Founded in 1996.", "Covers an area of about 48 hectares.", "Strategically located at the Karni crossing.", "Once employed over 5,000 workers.", "Features bonded warehouses and administrative buildings.", "Primary export hub for goods produced in Gaza."],
+    },
   },
   {
     id: "palestine-birzeit-pharmaceuticals-economic-v2",
@@ -323,6 +515,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Largest pharmaceutical producer in Palestine", "Exports medicines to over 10 countries", "Founded in the 1970s", "Owns modern GMP-certified laboratories"],
     },
     imageHint: "Pharmaceutical factory production line",
+    descriptionAdvanced: {
+      de: "Die Birzeit Pharmaceutical Company (BPC) ist der führende Hersteller von Arzneimitteln in Palästina. Das 1974 gegründete Unternehmen produziert ein breites Spektrum an Generika nach internationalen GMP-Standards. Mit Sitz in Birzeit bei Ramallah ist es ein wichtiger Arbeitgeber für qualifizierte Fachkräfte in der Region.",
+      hu: "A Birzeit Pharmaceutical Company (BPC) Palesztina vezető gyógyszergyártója. Az 1974-ben alapított vállalat a generikus gyógyszerek széles skáláját gyártja a nemzetközi GMP-szabványoknak megfelelően. A Ramallah melletti Birzeitben található cég fontos munkaadója a régió szakembereinek.",
+      ro: "Compania Farmaceutică Birzeit (BPC) este principalul producător de medicamente din Palestina. Fondată în 1974, compania produce o gamă largă de medicamente generice conform standardelor internaționale GMP. Cu sediul în Birzeit, lângă Ramallah, este un angajator major pentru specialiști.",
+      en: "The Birzeit Pharmaceutical Company (BPC) is the leading manufacturer of medicines in Palestine. Founded in 1974, the company produces a wide range of generic drugs according to international GMP standards. Based in Birzeit near Ramallah, it is a major employer for skilled professionals in the region.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1974.", "Erster palästinensischer Arzneimittelhersteller.", "Produziert über 300 verschiedene Medikamente.", "Exportiert in zahlreiche Länder der MENA-Region.", "Börsennotiert an der Palestine Securities Exchange.", "Zertifiziert nach ISO 9001 und ISO 14001."],
+      hu: ["1974-ben alapították.", "Az első palesztin gyógyszergyártó vállalat.", "Több mint 300 különböző gyógyszert gyárt.", "Exportál a MENA-régió számos országába.", "Jegyzik a Palesztin Értéktőzsdén.", "ISO 9001 és ISO 14001 tanúsítvánnyal rendelkezik."],
+      ro: ["Fondată în anul 1974.", "Primul producător palestinian de medicamente.", "Produce peste 300 de medicamente diferite.", "Exportă în numeroase țări din regiunea MENA.", "Listată la Bursa de Valori din Palestina.", "Certificată ISO 9001 și ISO 14001."],
+      en: ["Established in 1974.", "First Palestinian pharmaceutical manufacturer.", "Produces over 300 different therapeutic agents.", "Exports to multiple countries in the MENA region.", "Publicly traded on the Palestine Securities Exchange.", "Certified under ISO 9001 and ISO 14001 standards."],
+    },
   },
   {
     id: "palestine-salfit-olive-oil-presses-economic-v2",
@@ -342,6 +546,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Often called the 'City of Olives'", "Hosts numerous modern oil presses", "Olive oil is the region's primary export", "Harvest season starts in October"],
     },
     imageHint: "Modern olive oil press machine in operation",
+    descriptionAdvanced: {
+      de: "Salfit gilt als das Zentrum der palästinensischen Olivenproduktion und beherbergt zahlreiche moderne Ölpressen. Das Klima und der Boden in dieser Region sind ideal für den Anbau hochwertiger Olivenbäume. Das hier produzierte Olivenöl ist ein wichtiges Exportgut und prägt die kulturelle Identität der Region.",
+      hu: "Salfitot a palesztin olívabogyó-termelés központjának tekintik, és számos modern olajprésnek ad otthont. A régió éghajlata és talaja ideális a kiváló minőségű olajfák termesztéséhez. Az itt előállított olívaolaj fontos exportcikk, és meghatározza a régió kulturális identitását.",
+      ro: "Salfit este considerat centrul producției de măsline din Palestina și găzduiește numeroase prese moderne de ulei. Clima și solul din această regiune sunt ideale pentru cultivarea măslinilor de înaltă calitate. Uleiul de măsline produs aici este un bun de export important.",
+      en: "Salfit is considered the center of Palestinian olive production and is home to numerous modern oil presses. The region's climate and soil are ideal for cultivating high-quality olive trees. The olive oil produced here is a major export commodity and shapes the regional cultural identity.",
+    },
+    factsAdvanced: {
+      de: ["Region mit der höchsten Dichte an Olivenbäumen.", "Salfit wird oft als 'Olivenhauptstadt' bezeichnet.", "Ölpressen nutzen oft modernste Zentrifugalkraft-Technik.", "Erntezeit zwischen Oktober und November.", "Olivenöl ist das wichtigste Agrarprodukt von Salfit.", "Lokale Genossenschaften unterstützen die Vermarktung."],
+      hu: ["A legtöbb olajfával rendelkező régió.", "Salfitot gyakran 'olíva-fővárosnak' nevezik.", "Az olajprések modern centrifugális technológiát használnak.", "A szüreti időszak október és november között van.", "Az olívaolaj Salfit legfontosabb mezőgazdasági terméke.", "Helyi szövetkezetek segítik az értékesítést."],
+      ro: ["Regiunea cu cea mai mare densitate de măslini.", "Salfit este numit adesea 'capitala măslinelor'.", "Presele folosesc tehnologie centrifugă modernă.", "Perioada de recoltare între octombrie și noiembrie.", "Uleiul de măsline este principalul produs agricol.", "Cooperativele locale sprijină comercializarea."],
+      en: ["Region with the highest density of olive trees.", "Salfit is often called the 'Olive Capital'.", "Oil presses utilize modern centrifugal technology.", "Harvest season occurs between October and November.", "Olive oil is the primary agricultural product of Salfit.", "Local cooperatives assist in marketing and sales."],
+    },
   },
   {
     id: "palestine-jericho-agro-industrial-park-economic-v2",
@@ -361,6 +577,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Collaboration between Palestine and Japan", "Focuses on food packaging", "Uses geothermal cooling technologies", "Strategic proximity to Allenby Bridge"],
     },
     imageHint: "New industrial facilities in Jericho desert",
+    descriptionAdvanced: {
+      de: "Der Agro-Industriepark Jericho (JAIP) ist ein Schlüsselprojekt der Initiative 'Korridor für Frieden und Wohlstand'. Er konzentriert sich auf die Verarbeitung landwirtschaftlicher Erzeugnisse aus dem Jordantal. Durch moderne Infrastruktur und steuerliche Anreize werden Investoren angezogen, um den Export palästinensischer Lebensmittel zu stärken.",
+      hu: "A Jerikói Agráripari Park (JAIP) a 'Folyosó a békéért és jólétért' kezdeményezés kulcsfontosságú projektje. A Jordán-völgyéből származó mezőgazdasági termékek feldolgozására összpontosít. A modern infrastruktúra és az adókedvezmények révén vonzza a befektetőket a palesztin élelmiszerexport erősítésére.",
+      ro: "Parcul Agro-Industrial Ierihon (JAIP) este un proiect cheie al inițiativei 'Coridor pentru Pace și Prosperitate'. Se concentrează pe procesarea produselor agricole din Valea Iordanului. Prin infrastructură modernă și stimulente fiscale, atrage investitori pentru a consolida exportul de alimente.",
+      en: "The Jericho Agro-Industrial Park (JAIP) is a key project of the 'Corridor for Peace and Prosperity' initiative. It focuses on processing agricultural products from the Jordan Valley. Through modern infrastructure and tax incentives, it attracts investors to strengthen Palestinian food exports.",
+    },
+    factsAdvanced: {
+      de: ["Hauptförderer ist die japanische Regierung.", "Gegründet im Jahr 2007 als Teil der Friedensinitiative.", "Spezialisiert auf Verpackung und Verarbeitung von Obst.", "Liegt unter dem Meeresspiegel im Jordantal.", "Bietet Logistiklösungen für den Export nach Jordanien.", "Umfasst Labore zur Qualitätskontrolle von Lebensmitteln."],
+      hu: ["Fő támogatója a japán kormány.", "2007-ben alapították a béke-kezdeményezés részeként.", "Gyümölcscsomagolásra és -feldolgozásra szakosodott.", "A tengerszint alatt fekszik a Jordán-völgyben.", "Logisztikai megoldásokat kínál a Jordániába irányuló exporthoz.", "Élelmiszer-minőségellenőrző laboratóriumokat tartalmaz."],
+      ro: ["Principalul susținător este guvernul japonez.", "Fondat în 2007 ca parte a inițiativei de pace.", "Specializat în ambalarea și procesarea fructelor.", "Situat sub nivelul mării în Valea Iordanului.", "Oferă soluții logistice pentru exportul către Iordania.", "Include laboratoare pentru controlul calității alimentelor."],
+      en: ["Mainly supported by the Government of Japan.", "Established in 2007 as part of a peace initiative.", "Specializes in food packaging and agro-processing.", "Located below sea level in the Jordan Valley.", "Provides logistics for exports via Jordan.", "Features laboratories for food quality control."],
+    },
   },
   {
     id: "palestine-tubas-agriculture-economic-v2",
@@ -380,6 +608,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Large number of sheep and goat herds", "Significant winter vegetable production", "Center for grain cultivation in the east", "Supplies the markets of Nablus and Jenin"],
     },
     imageHint: "Agricultural fields and livestock in Tubas valley",
+    descriptionAdvanced: {
+      de: "Tubas ist ein bedeutendes landwirtschaftliches Zentrum im Nordosten des Westjordanlandes. Die Region nutzt moderne Gewächshaustechnik und effiziente Bewässerungssysteme zur Produktion von Gemüse und Heilpflanzen. Die Landwirtschaft bildet hier das Rückgrat der lokalen Ökonomie und versorgt weite Teile des palästinensischen Marktes.",
+      hu: "Tubas egy jelentős mezőgazdasági központ Ciszjordánia északkeleti részén. A régió modern üvegház-technológiát és hatékony öntözőrendszereket használ zöldségek és gyógynövények termesztéséhez. A mezőgazdaság alkotja a helyi gazdaság gerincét, és kiszolgálja a palesztin piac jelentős részét.",
+      ro: "Tubas este un centru agricol important din nord-estul Cisiordaniei. Regiunea utilizează tehnologia modernă a serelor și sisteme de irigații eficiente pentru producția de legume și plante medicinale. Agricultura formează coloana vertebrală a economiei locale și aprovizionează piața palestiniană.",
+      en: "Tubas is a significant agricultural center in the northeastern West Bank. The region utilizes modern greenhouse technology and efficient irrigation systems to produce vegetables and medicinal plants. Agriculture forms the backbone of the local economy and supplies large portions of the Palestinian market.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum für den Anbau von Gewächshaus-Tomaten.", "Heimat zahlreicher Farmen für Heilkräuter.", "Wichtige Rolle im Export von Feldfrüchten.", "Nutzung von Grundwasserressourcen zur Bewässerung.", "Tubas gilt als Kornkammer des Nordens.", "Regelmäßige Agrarmessen zur Förderung neuer Technik."],
+      hu: ["Az üvegházi paradicsomtermesztés központja.", "Számos gyógynövényfarm otthona.", "Fontos szerep a szántóföldi növények exportjában.", "Földalatti vízkészletek használata öntözésre.", "Tubas-t az észak magtárának tekintik.", "Rendszeres mezőgazdasági vásárok az új technológiákért."],
+      ro: ["Centru pentru cultivarea roșiilor în seră.", "Găzduiește numeroase ferme de plante medicinale.", "Rol important în exportul culturilor de câmp.", "Utilizarea resurselor de apă subterană pentru irigații.", "Tubas este considerat grânarul nordului.", "Târguri agricole regulate pentru promovarea tehnologiei."],
+      en: ["Hub for greenhouse tomato cultivation.", "Home to numerous medicinal herb farms.", "Plays a key role in exporting field crops.", "Utilizes groundwater resources for irrigation.", "Often called the breadbasket of the northern West Bank.", "Hosts regular agricultural fairs for new technology."],
+    },
   },
   {
     id: "palestine-deir-al-balah-dates-economic-v2",
@@ -399,6 +639,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Name means 'Monastery of Dates'", "Traditional cultivation of red dates", "Vital source of income for local farmers", "Dates are sold fresh and dried"],
     },
     imageHint: "Abundant date palms in Gaza coastal area",
+    descriptionAdvanced: {
+      de: "Deir al-Balah, übersetzt 'Kloster der Dattelpalme', ist berühmt für seine ausgedehnten Dattelhaine im Gazastreifen. Die rote Hayani-Dattel ist das Markenzeichen der Stadt und ein unverzichtbarer Bestandteil der lokalen Landwirtschaft. Diese Haine prägen nicht nur das Landschaftsbild, sondern sichern auch den Lebensunterhalt vieler Familien.",
+      hu: "Deir al-Balah, melynek jelentése 'a datolyapálma kolostora', híres a Gázai övezetben található kiterjedt datolyaligeteiről. A vörös Hayani datolya a város védjegye és a helyi mezőgazdaság elengedhetetlen része. Ezek a ligetek nemcsak a tájat határozzák meg, hanem számos család megélhetését is biztosítják.",
+      ro: "Deir al-Balah, tradus 'Mănăstirea Palmierului', este faimos pentru livezile sale vaste de curmali din Fâșia Gaza. Curmala roșie Hayani este marca orașului și o parte indispensabilă a agriculturii locale. Aceste livezi modelează peisajul și asigură traiul multor familii.",
+      en: "Deir al-Balah, which translates to 'Monastery of the Date Palm,' is famous for its extensive date palm groves in the Gaza Strip. The red Hayani date is the city's trademark and an essential part of local agriculture. These groves shape the landscape and provide a livelihood for many families.",
+    },
+    factsAdvanced: {
+      de: ["Name leitet sich von den vielen Palmen ab.", "Spezialisiert auf die rote Hayani-Dattelsorte.", "Ernte findet jährlich im September/Oktober statt.", "Datteln werden frisch und getrocknet verkauft.", "Wichtiger Rohstoff für die lokale Süßwarenindustrie.", "Traditionelle Palmenweberei als Nebenindustrie."],
+      hu: ["Neve a sok pálmafára utal.", "A vörös Hayani datolyafajtára specializálódott.", "A szüret évente szeptemberben/októberben van.", "Frissen és szárítva is árusítják a datolyát.", "A helyi édességipar fontos alapanyaga.", "Hagyományos pálmaszövés mint mellékipar."],
+      ro: ["Numele derivă de la numărul mare de palmieri.", "Specializat în soiul de curmale roșii Hayani.", "Recoltarea are loc anual în septembrie/octombrie.", "Curmalele sunt vândute proaspete și uscate.", "Materie primă importantă pentru industria de dulciuri.", "Țesutul tradițional din palmier ca industrie secundară."],
+      en: ["Named after the abundance of date palms.", "Specializes in the red Hayani date variety.", "Harvest takes place annually in September and October.", "Dates are sold both fresh and dried.", "Major raw material for the local sweets industry.", "Traditional palm weaving is a local craft industry."],
+    },
   },
   {
     id: "palestine-hebron-glass-ceramics-economic-v2",
@@ -418,6 +670,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Glassmaking since the Phoenician era", "Uses recycled glass as raw material", "Ceramics are known for floral patterns", "Major attraction point for tourists"],
     },
     imageHint: "Artisan blowing blue glass in Hebron workshop",
+    descriptionAdvanced: {
+      de: "Die Glas- und Keramikherstellung in Hebron ist ein jahrhundertealtes Handwerk, das weltweit für seine Qualität und sein Design bekannt ist. Die berühmte 'Hebron-Glas'-Technik zeichnet sich durch ihre leuchtend blauen Farbtöne aus. Diese Werkstätten sind sowohl wichtige touristische Attraktionen als auch bedeutende wirtschaftliche Exportfaktoren.",
+      hu: "A Hebroni üveg- és kerámiagyártás évszázados mesterség, amely minőségéről és dizájnjáról világszerte ismert. A híres 'Hebron-üveg' technika élénkkék árnyalatairól nevezetes. Ezek a műhelyek fontos turisztikai látványosságok és jelentős gazdasági exporttényezők is.",
+      ro: "Fabricarea sticlei și ceramicii în Hebron este un meșteșug vechi de secole, cunoscut în întreaga lume pentru calitate și design. Tehnica faimoasă 'Hebron Glass' se remarcă prin nuanțele vibrante de albastru. Aceste ateliere sunt atracții turistice și factori economici de export.",
+      en: "Glass and ceramic production in Hebron is a centuries-old craft known worldwide for its quality and design. The famous 'Hebron Glass' technique is distinguished by its vibrant blue hues. These workshops serve as both major tourist attractions and significant economic export factors.",
+    },
+    factsAdvanced: {
+      de: ["Tradition reicht bis in die phönizische Zeit zurück.", "Verwendung von recyceltem Glas als Rohstoff.", "Charakteristische blaue Farbe durch Kobaltoxid.", "Handbemalte Keramik mit traditionellen Motiven.", "Export in Luxusgeschäfte weltweit.", "Werkstätten befinden sich meist in Familienbesitz."],
+      hu: ["A hagyomány a föníciai időkig nyúlik vissza.", "Újrahasznosított üveg használata alapanyagként.", "Jellemző kék szín kobalt-oxid segítségével.", "Kézzel festett kerámiák hagyományos motívumokkal.", "Export a világ luxusüzleteibe.", "A műhelyek többnyire családi tulajdonban vannak."],
+      ro: ["Tradiția datează din perioada feniciană.", "Utilizarea sticlei reciclate ca materie primă.", "Culoarea albastră caracteristică prin oxid de cobalt.", "Ceramică pictată manual cu motive tradiționale.", "Export către magazine de lux din întreaga lume.", "Atelierele sunt în mare parte afaceri de familie."],
+      en: ["Tradition dates back to the Phoenician era.", "Uses recycled glass as a primary raw material.", "Characteristic blue color is achieved using cobalt oxide.", "Hand-painted ceramics feature traditional motifs.", "Products are exported to luxury stores worldwide.", "Workshops are mostly multi-generational family businesses."],
+    },
   },
   {
     id: "palestine-khan-yunis-trade-center-economic-v2",
@@ -437,6 +701,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Historically a stop on the caravan route", "Center for wholesale vegetable trade", "Important market for citrus fruits", "Second largest city in the Gaza Strip"],
     },
     imageHint: "Busy market scene in Khan Yunis with produce",
+    descriptionAdvanced: {
+      de: "Khan Yunis ist ein pulsierendes Handelszentrum im Süden des Gazastreifens. Die Stadt dient als wichtiger Marktplatz für landwirtschaftliche Erzeugnisse und Importgüter aus der Grenzregion. Zahlreiche Einkaufszentren und traditionelle Souks machen Khan Yunis zu einem wirtschaftlichen Brennpunkt für die umliegenden Gemeinden.",
+      hu: "Khan Yunis egy lüktető kereskedelmi központ a Gázai övezet déli részén. A város a mezőgazdasági termékek és a határmenti régióból származó importcikkek fontos piacaként szolgál. Számos bevásárlóközpont és hagyományos szuk teszi Khan Yunis-t a környező települések gazdasági gyűjtőpontjává.",
+      ro: "Khan Yunis este un centru comercial vibrant în sudul Fâșiei Gaza. Orașul servește ca piață importantă pentru produsele agricole și bunurile importate din regiunea de graniță. Numeroase centre comerciale și souk-uri tradiționale fac din oraș un punct economic focal.",
+      en: "Khan Yunis is a vibrant commercial hub in the southern Gaza Strip. The city serves as a major marketplace for agricultural produce and imported goods from the border region. Numerous shopping centers and traditional souks make Khan Yunis an economic focal point for surrounding communities.",
+    },
+    factsAdvanced: {
+      de: ["Historischer Knotenpunkt an der Karawanenstraße.", "Wichtigster Markt für den südlichen Gazastreifen.", "Großhandel mit Obst und Gemüse aus der Region.", "Sitz zahlreicher lokaler Handelsunternehmen.", "Mittwochsmarkt zieht Tausende Besucher an.", "Wachsender Sektor für Dienstleistungen und Einzelhandel."],
+      hu: ["Történelmi csomópont a karavánúton.", "A déli Gázai övezet legfontosabb piaca.", "A régióból származó gyümölcs és zöldség nagykereskedelme.", "Számos helyi kereskedelmi vállalat székhelye.", "A szerdai piac látogatók ezreit vonzza.", "Növekvő szolgáltatási és kiskereskedelmi szektor."],
+      ro: ["Nod istoric pe drumul caravanelor.", "Cea mai importantă piață din sudul Gazei.", "Comerț cu ridicata de fructe și legume locale.", "Sediul a numeroase companii comerciale locale.", "Piața de miercuri atrage mii de vizitatori.", "Sector în creștere pentru servicii și retail."],
+      en: ["Historic crossroads on the ancient caravan route.", "Primary market for the southern Gaza Strip.", "Wholesale hub for regional fruits and vegetables.", "Home to many local trading companies.", "The Wednesday Market attracts thousands of visitors.", "Growing sector for services and retail trade."],
+    },
   },
   {
     id: "palestine-rafah-commercial-crossing-economic-v2",
@@ -456,6 +732,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Strategically important border point", "Main route for humanitarian aid", "Center for cross-border trade", "Managed by Egyptian and Palestinian authorities"],
     },
     imageHint: "Border crossing facilities and trucks at Rafah",
+    descriptionAdvanced: {
+      de: "Der kommerzielle Übergang von Rafah ist die einzige Verbindung zwischen dem Gazastreifen und Ägypten für den Warenverkehr. Er ist lebenswichtig für die Einfuhr von Lebensmitteln, Treibstoff und Baumaterialien. Die Verwaltung und Kapazität dieses Übergangs haben direkte Auswirkungen auf die wirtschaftliche Stabilität des Gazastreifens.",
+      hu: "A rafahi kereskedelmi átkelő az egyetlen összeköttetés az áruforgalom számára a Gázai övezet és Egyiptom között. Létfontosságú az élelmiszerek, az üzemanyag és az építőanyagok behozatala szempontjából. Az átkelő kezelése és kapacitása közvetlen hatással van a Gázai övezet gazdasági stabilitására.",
+      ro: "Punctul comercial de trecere Rafah este singura legătură pentru mărfuri între Fâșia Gaza și Egipt. Este vital pentru importul de alimente, combustibil și materiale de construcții. Gestionarea și capacitatea acestui punct au un impact direct asupra stabilității economice.",
+      en: "The Rafah commercial crossing is the sole link for goods between the Gaza Strip and Egypt. It is vital for the importation of food, fuel, and construction materials. The management and capacity of this crossing have direct implications for the economic stability of the Gaza Strip.",
+    },
+    factsAdvanced: {
+      de: ["Einziger Grenzübergang nach Ägypten.", "Reguliert den Import lebensnotwendiger Güter.", "Wichtiger Einnahmefaktor durch Zollgebühren.", "Infrastruktur wurde mehrfach modernisiert.", "Engpass bei politischen Spannungen.", "Zentrale Rolle für humanitäre Hilfslieferungen."],
+      hu: ["Az egyetlen határátkelő Egyiptom felé.", "Szabályozza az alapvető javak importját.", "Fontos bevételi forrás a vámdíjak révén.", "Az infrastruktúrát többször modernizálták.", "Szűk keresztmetszet politikai feszültségek idején.", "Központi szerep a humanitárius segélyszállítmányokban."],
+      ro: ["Singura trecere de frontieră către Egipt.", "Reglementează importul bunurilor esențiale.", "Factor de venit important prin taxe vamale.", "Infrastructura a fost modernizată de mai multe ori.", "Punct critic în timpul tensiunilor politice.", "Rol central pentru livrările de ajutor umanitar."],
+      en: ["Only border crossing point into Egypt.", "Regulates the import of essential commodities.", "Significant revenue source through customs duties.", "Infrastructure has been modernized multiple times.", "Often a bottleneck during political tensions.", "Plays a central role in humanitarian aid delivery."],
+    },
   },
   {
     id: "palestine-beit-jala-cremisan-winery-economic-v2",
@@ -475,6 +763,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Uses exclusively local grape varieties", "Known for the Star of Bethlehem wine", "Integrated into a Christian monastery", "Important symbol of local agricultural tradition"],
     },
     imageHint: "Old stone winery building and vineyards",
+    descriptionAdvanced: {
+      de: "Die Cremisan-Kellerei in Beit Jala wurde 1885 von salesianischen Mönchen gegründet. Sie ist eine der ältesten Winzereien der Region und nutzt Trauben aus den umliegenden Terrassengärten. Die Weine werden nach traditionellen Methoden hergestellt und sind sowohl lokal als auch international als Qualitätsprodukte anerkannt.",
+      hu: "A Beit Jala-i Cremisan borászatot 1885-ben alapították szalézi szerzetesek. A régió egyik legrégebbi borászata, amely a környező teraszos kertekből származó szőlőt használja. A borokat hagyományos módszerekkel készítik, és helyi, valamint nemzetközi szinten is elismert minőségi termékek.",
+      ro: "Crama Cremisan din Beit Jala a fost fondată în 1885 de călugări salezieni. Este una dintre cele mai vechi crame din regiune și folosește struguri din grădinile terasate din jur. Vinurile sunt produse prin metode tradiționale și sunt recunoscute ca produse de calitate.",
+      en: "The Cremisan Winery in Beit Jala was founded in 1885 by Salesian monks. It is one of the oldest wineries in the region, utilizing grapes from surrounding terraced gardens. The wines are produced using traditional methods and are recognized both locally and internationally as quality products.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1885.", "Verwendung lokaler Rebsorten wie Hamdani.", "Produziert auch hochwertiges Olivenöl.", "Einnahmen unterstützen soziale Projekte.", "Keller befinden sich in historischen Gebäuden.", "Bekannt für den 'Star of Bethlehem' Wein."],
+      hu: ["1885-ben alapították.", "Helyi szőlőfajták, mint a Hamdani használata.", "Kiváló minőségű olívaolajat is előállít.", "A bevételek szociális projekteket támogatnak.", "A pincék történelmi épületekben találhatók.", "A 'Star of Bethlehem' boráról ismert."],
+      ro: ["Fondată în anul 1885.", "Utilizarea soiurilor locale precum Hamdani.", "Produce și ulei de măsline de înaltă calitate.", "Veniturile susțin proiecte sociale.", "Cramele sunt situate în clădiri istorice.", "Cunoscută pentru vinul 'Star of Bethlehem'."],
+      en: ["Founded in 1885 by Salesian missionaries.", "Uses indigenous grape varieties like Hamdani.", "Also produces high-quality olive oil.", "Revenues support local social projects.", "Cellars are located in historic buildings.", "Famous for its 'Star of Bethlehem' wine label."],
+    },
   },
   {
     id: "palestine-dhahiriya-livestock-market-economic-v2",
@@ -494,6 +794,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Major meeting point for Bedouin traders", "Center for dairy product trade", "Takes place weekly on a large scale", "Supplies meat markets in Hebron and beyond"],
     },
     imageHint: "Crowded livestock market with sheep and goats",
+    descriptionAdvanced: {
+      de: "Der Viehmarkt von Dhahiriya ist einer der größten und wichtigsten Märkte seiner Art im Westjordanland. Er liegt südlich von Hebron und dient als zentraler Handelsplatz für Schafe, Ziegen und Rinder. Händler aus der gesamten Region kommen hierher, was die Stadt zu einem bedeutenden agrarwirtschaftlichen Knotenpunkt macht.",
+      hu: "A dhahiriyai állatvásár az egyik legnagyobb és legfontosabb a maga nemében Ciszjordániában. Hebrontól délre található, és juhok, kecskék és szarvasmarhák központi kereskedelmi helyeként szolgál. A régió minden részéről érkeznek ide kereskedők, ami a várost jelentős agrárgazdasági csomóponttá teszi.",
+      ro: "Piața de animale din Dhahiriya este una dintre cele mai mari și importante de acest gen din Cisiordania. Situată la sud de Hebron, servește ca loc central de comerț pentru oi, capre și bovine. Comercianții vin aici din toată regiunea, făcând orașul un nod agro-economic.",
+      en: "The Dhahiriya livestock market is one of the largest and most significant of its kind in the West Bank. Located south of Hebron, it serves as a central trading post for sheep, goats, and cattle. Traders from across the region gather here, making the city a major agro-economic hub.",
+    },
+    factsAdvanced: {
+      de: ["Größter Viehmarkt im Gouvernement Hebron.", "Hauptmarkttag ist meist der Samstag.", "Handel mit Tausenden Tieren pro Woche.", "Wichtige Quelle für Fleischversorgung der Region.", "Traditionelle Verhandlungsmethoden per Handschlag.", "Unterstützt zahlreiche nachgelagerte Dienstleister."],
+      hu: ["Hebron kormányzóság legnagyobb állatvására.", "A fő piaci nap általában a szombat.", "Hetente több ezer állat cserél gazdát.", "A régió húsellátásának fontos forrása.", "Hagyományos, kézfogással történő alkudozás.", "Számos kapcsolódó szolgáltatót támogat."],
+      ro: ["Cea mai mare piață de animale din guvernoratul Hebron.", "Ziua principală de piață este de obicei sâmbăta.", "Comerț cu mii de animale pe săptămână.", "Sursă importantă pentru aprovizionarea cu carne.", "Metode tradiționale de negociere prin strângere de mână.", "Sprijină numeroși furnizori de servicii conexe."],
+      en: ["Largest livestock market in the Hebron Governorate.", "Saturday is typically the main trading day.", "Handles thousands of animals every week.", "Primary source for the region's meat supply.", "Traditional negotiation methods by handshake.", "Supports many ancillary service providers."],
+    },
   },
   {
     id: "palestine-gaza-textile-sector-economic-v2",
@@ -513,6 +825,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Once thousands of sewing workshops", "Specialized in jeans and shirts", "Major export sector before 2007", "Provides jobs for many women"],
     },
     imageHint: "Seamstresses working in a garment factory Gaza",
+    descriptionAdvanced: {
+      de: "Der Textilsektor in Gaza war historisch gesehen einer der größten industriellen Arbeitgeber. Zahlreiche Fabriken produzierten Kleidung für lokale Märkte und den Export nach Israel und Europa. Trotz strenger Handelsbeschränkungen bleibt die Fachkompetenz in der Schneiderei und Weberei ein wichtiger Teil des industriellen Erbes von Gaza.",
+      hu: "A gázai textilágazat történelmileg az egyik legnagyobb ipari foglalkoztató volt. Számos gyár állított elő ruházati termékeket a helyi piacokra, valamint izraeli és európai exportra. A szigorú kereskedelmi korlátozások ellenére a szabászatban és szövésben szerzett szakértelem Gáza ipari örökségének fontos része.",
+      ro: "Sectorul textil din Gaza a fost, istoric, unul dintre cei mai mari angajatori industriali. Numeroase fabrici au produs îmbrăcăminte pentru piețele locale și export către Israel și Europa. În ciuda restricțiilor comerciale, expertiza în croitorie rămâne o parte importantă a moștenirii industriale.",
+      en: "The Gaza textile sector was historically one of the largest industrial employers. Numerous factories produced clothing for local markets and exports to Israel and Europe. Despite strict trade restrictions, the expertise in tailoring and weaving remains a vital part of Gaza's industrial heritage.",
+    },
+    factsAdvanced: {
+      de: ["Einst Beschäftigung von über 30.000 Arbeitern.", "Spezialisierung auf Konfektionskleidung.", "Exportorientierung nach Israel und EU.", "Viele Betriebe sind kleine Familienunternehmen.", "Nutzung moderner Nähmaschinentechnik.", "Wichtiger Sektor für die Ausbildung von Jugendlichen."],
+      hu: ["Egykor több mint 30 000 munkást foglalkoztatott.", "Konfekcióruházatra való szakosodás.", "Exportorientáltság Izrael és az EU felé.", "Sok üzem kis családi vállalkozás.", "Modern varrógép-technológia alkalmazása.", "Fontos ágazat a fiatalok szakképzésében."],
+      ro: ["A angajat odinioară peste 30.000 de lucrători.", "Specializare în îmbrăcăminte gata de purtat.", "Orientare spre export către Israel și UE.", "Multe unități sunt mici afaceri de familie.", "Utilizarea tehnologiei moderne de cusut.", "Sector important pentru formarea tinerilor."],
+      en: ["Once employed over 30,000 workers.", "Specializes in ready-to-wear garments.", "Primarily export-oriented towards Israel and the EU.", "Many facilities are small-scale family businesses.", "Utilizes modern sewing and embroidery technology.", "Critical sector for vocational training of youth."],
+    },
   },
   {
     id: "palestine-nablus-stone-processing-economic-v2",
@@ -532,6 +856,18 @@ export const palestineEconomicV2: POI[] = [
       en: ["Uses diamond saws for precision", "Stone is quarried throughout the West Bank", "Major supplier for Ramallah's construction boom", "Exports polished slabs globally"],
     },
     imageHint: "Large stone blocks being cut by industrial saw",
+    descriptionAdvanced: {
+      de: "Nablus ist ein bedeutendes Zentrum der palästinensischen Stein- und Marmorindustrie. Dieser Sektor trägt erheblich zur lokalen Wirtschaft bei und exportiert hochwertigen Kalkstein in die ganze Welt. Moderne Anlagen verarbeiten Steine, die in nahe gelegenen Steinbrüchen gewonnen werden. Die Industrie ist für ihre handwerkliche Qualität und technologische Innovation bekannt.",
+      hu: "Nablusz a palesztin kő- és márványipar egyik legfontosabb központja. Ez az ágazat jelentősen hozzájárul a helyi gazdasághoz, és kiváló minőségű mészkövet exportál világszerte. A közeli bányákból kitermelt köveket modern üzemekben dolgozzák fel. Az iparág híres a kézműves minőségről és a technológiai fejlesztésekről.",
+      ro: "Nablus este un centru major al industriei pietrei și marmurei din Palestina. Acest sector contribuie semnificativ la economia locală și exportă calcar de înaltă calitate la nivel global. Instalații moderne procesează pietrele extrase din carierele din apropiere. Industria este recunoscută pentru calitatea meșteșugului și inovația tehnologică.",
+      en: "Nablus is a major center for the Palestinian stone and marble industry. This sector contributes significantly to the local economy and exports high-quality limestone globally. Modern facilities process stones extracted from nearby quarries. The industry is known for its craftsmanship and technological innovation.",
+    },
+    factsAdvanced: {
+      de: ["Die Steinindustrie erwirtschaftet etwa 25 % der industriellen Einnahmen Palästinas.", "Nablus und Hebron sind die primären Zentren dieses Wirtschaftszweiges.", "Über 1.000 Fabriken sind in dieser Region in der Steinverarbeitung tätig.", "Die Produkte werden in mehr als 70 Länder weltweit exportiert.", "Der 'Jerusalem Gold' Kalkstein ist eine besonders gefragte Sorte.", "Der Sektor beschäftigt zwischen 15.000 und 20.000 Menschen direkt."],
+      hu: ["A kőipar Palesztina ipari bevételeinek mintegy 25%-át adja.", "Nablusz és Hebron a szektor elsődleges központjai a régióban.", "Több mint 1000 gyár foglalkozik kőfeldolgozással a területen.", "A termékeket világszerte több mint 70 országba exportálják.", "A 'Jerusalem Gold' mészkő az egyik legkeresettebb fajta.", "Az ágazat közvetlenül 15 000-20 000 embernek ad munkát."],
+      ro: ["Industria pietrei generează aproximativ 25% din veniturile industriale ale Palestinei.", "Nablus și Hebron sunt centrele primare ale acestui sector economic.", "Peste 1.000 de fabrici de prelucrare a pietrei operează în regiune.", "Produsele sunt exportate în peste 70 de țări din întreaga lume.", "Calcarul 'Jerusalem Gold' este o varietate deosebit de populară.", "Sectorul oferă locuri de muncă directe pentru 15.000-20.000 de persoane."],
+      en: ["The stone industry accounts for approximately 25% of Palestine's industrial revenue.", "Nablus and Hebron are the primary hubs for this economic sector.", "Over 1,000 factories are involved in stone processing in the region.", "Products are exported to more than 70 countries worldwide.", "The 'Jerusalem Gold' limestone is a particularly popular variety.", "The sector directly employs between 15,000 and 20,000 people."],
+    },
   },
   {
     id: "palestine-paltel-headquarters-economic-v2",
@@ -551,5 +887,17 @@ export const palestineEconomicV2: POI[] = [
       en: ["Country's largest private employer", "Operates fixed and mobile network services", "Listed on the Palestine Securities Exchange", "Invests heavily in digital infrastructure"],
     },
     imageHint: "Modern corporate headquarters building in Ramallah",
+    descriptionAdvanced: {
+      de: "Die Palestine Telecommunications Company (Paltel) ist der größte Arbeitgeber im privaten Sektor des Landes. Das Unternehmen hat seinen Hauptsitz in Nablus und bietet Festnetz-, Internet- und Mobilfunkdienste an. Paltel spielt eine zentrale Rolle am palästinensischen Kapitalmarkt und treibt die digitale Infrastruktur voran. Es ist ein Eckpfeiler der modernen palästinensischen Wirtschaft.",
+      hu: "A Palesztin Távközlési Vállalat (Paltel) az ország magánszektorának legnagyobb munkaadója. A nabluszi székhelyű cég vezetékes telefon-, internet- és mobilkommunikációs szolgáltatásokat nyújt. A Paltel központi szerepet játszik a palesztin tőkepiacon és a digitális infrastruktúra fejlesztésében. A modern palesztin gazdaság egyik meghatározó pillére.",
+      ro: "Compania de Telecomunicații din Palestina (Paltel) este cel mai mare angajator din sectorul privat al țării. Cu sediul în Nablus, compania oferă servicii de telefonie fixă, internet și comunicații mobile. Paltel joacă un rol central pe piața de capital palestiniană și în dezvoltarea infrastructurii digitale. Este un pilon al economiei palestiniene moderne.",
+      en: "The Palestine Telecommunications Company (Paltel) is the largest employer in the country's private sector. Headquartered in Nablus, the company provides fixed-line, internet, and mobile communication services. Paltel plays a central role in the Palestinian capital market and drives digital infrastructure development. It is a cornerstone of the modern Palestinian economy.",
+    },
+    factsAdvanced: {
+      de: ["Paltel wurde im Jahr 1995 als Aktiengesellschaft gegründet.", "Das Unternehmen ist an der Palestine Exchange (PEX) gelistet.", "Der Hauptsitz befindet sich in der Stadt Nablus im Westjordanland.", "Paltel betreibt unter der Marke Jawwal das erste Mobilfunknetz.", "Es ist das umsatzstärkste Unternehmen im palästinensischen Privatsektor.", "Das Unternehmen investiert massiv in Glasfasertechnologie für das Land."],
+      hu: ["A Paltelt 1995-ben alapították részvénytársaságként.", "A vállalatot jegyzik a Palesztin Értéktőzsdén (PEX).", "A cég központi székhelye Ciszjordániában, Nablusz városában található.", "A Paltel üzemelteti a Jawwal márkanevű első mobilhálózatot.", "Ez a legnagyobb árbevételű vállalat a palesztin magánszektorban.", "A társaság jelentős összegeket fektet be az üvegszálas hálózatba."],
+      ro: ["Paltel a fost fondată în anul 1995 ca societate pe acțiuni.", "Compania este listată la Bursa de Valori din Palestina (PEX).", "Sediul central se află în orașul Nablus din Cisiordania.", "Paltel operează prima rețea de telefonie mobilă sub marca Jawwal.", "Este compania cu cele mai mari venituri din sectorul privat palestinian.", "Firma investește masiv în tehnologia fibrei optice pentru țară."],
+      en: ["Paltel was founded in 1995 as a public shareholding company.", "The company is listed on the Palestine Exchange (PEX).", "The main headquarters is located in Nablus in the West Bank.", "Paltel operates the first mobile network under the Jawwal brand.", "It is the highest-revenue company in the Palestinian private sector.", "The corporation invests heavily in fiber optic technology for the nation."],
+    },
   }
 ];

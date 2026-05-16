@@ -19,6 +19,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Home to the Saint Lucia Whiptail lizard", "Established as a reserve in 1982", "Accessible only during the dry season", "Protects the world's rarest snake"],
     },
     imageHint: "Maria Islands Saint Lucia aerial view",
+    descriptionAdvanced: {
+      de: "Das Naturschutzgebiet Maria Islands besteht aus zwei Inseln vor der Südostküste von St. Lucia. Maria Major und Maria Minor sind seit 1982 geschützt, um seltene endemische Reptilienarten zu bewahren. Das Reservat beherbergt die weltweit einzige Population der St. Lucia-Bodennatter. Der Zugang ist streng reglementiert, um das empfindliche Ökosystem nicht zu stören.",
+      hu: "A Maria-szigetek természetvédelmi terület két szigetből áll Saint Lucia délkeleti partjainál. Maria Major és Maria Minor 1982 óta élvez védettséget a ritka endemikus hüllőfajok megőrzése érdekében. A rezervátum a világ egyetlen populációjának ad otthont a Saint Lucia-i földi siklónak. A látogatás szigorúan korlátozott az ökoszisztéma védelme miatt.",
+      ro: "Rezervația Naturală Insulele Maria cuprinde două insule situate în largul coastei de sud-est a Sfintei Lucia. Maria Major și Maria Minor sunt protejate din 1982 pentru a conserva specii rare de reptile endemice. Rezervația adăpostește singura populație mondială de șarpe de pământ din Sfânta Lucia. Accesul este strict reglementat pentru a proteja ecosistemul fragil.",
+      en: "The Maria Islands Nature Reserve consists of two islets off the southeastern coast of Saint Lucia. Maria Major and Maria Minor have been protected since 1982 to preserve rare endemic reptile species. The reserve is home to the world's only remaining population of the Saint Lucia Racer snake. Access is strictly regulated to safeguard the fragile ecosystem.",
+    },
+    factsAdvanced: {
+      de: ["Ausweisung als Reservat im Jahr 1982", "Besteht aus zwei Inseln: Major und Minor", "Heimat der seltenen St. Lucia-Bodennatter", "Vorkommen des St. Lucia-Peitschenschwanz-Skinks", "Wichtiger Nistplatz für Zugvögel", "Fläche von etwa 12 Hektar"],
+      hu: ["A rezervátumot 1982-ben alapították", "Két sziget alkotja: Major és Minor", "A ritka Saint Lucia-i sikló otthona", "Itt él a Saint Lucia-i ostorfarkú gyík is", "Fontos fészkelőhely vándormadarak számára", "Területe körülbelül 12 hektár"],
+      ro: ["Desemnată rezervație în anul 1982", "Formată din două insule: Major și Minor", "Găzduiește rarul șarpe de pământ lucian", "Habitat pentru șopârla endemică Whiptail", "Loc important de cuibărit pentru păsări migratoare", "Suprafață de aproximativ 12 hectare"],
+      en: ["Declared a nature reserve in 1982", "Comprises two islets: Major and Minor", "Home to the rare Saint Lucia Racer snake", "Habitat for the Saint Lucia Whiptail lizard", "Critical nesting site for migratory birds", "Total area of approximately 12 hectares"],
+    },
   },
   {
     id: "saintlucia-diamond-falls-botanical-gardens-life-v2",
@@ -38,6 +50,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Oldest botanical garden on the island", "Mineral baths dating from 1784", "Variety of heliconias and orchids", "Part of the Soufrière Estate"],
     },
     imageHint: "Diamond Falls Botanical Gardens waterfall",
+    descriptionAdvanced: {
+      de: "Die Diamond Falls Botanical Gardens in Soufrière befinden sich auf einem etwa 2,4 Hektar großen Gelände des historischen Soufrière-Anwesens. Der Garten zeigt eine Vielfalt tropischer Flora und beherbergt den gleichnamigen Wasserfall, der durch Mineralien bunt gefärbt ist. Historische Mineralbäder, die ursprünglich 1784 für französische Truppen errichtet wurden, sind Teil der Anlage. Es ist ein bedeutendes Beispiel für den Naturschutz auf der Insel.",
+      hu: "A Soufrière-ben található Diamond Falls botanikus kert a történelmi Soufrière birtok mintegy 2,4 hektáros területén fekszik. A kert trópusi növényvilág széles skáláját mutatja be, és itt található a névadó vízesés is, amelyet az ásványi anyagok színesre festenek. A terület része az 1784-ben eredetileg francia csapatok számára épített ásványvízforrásos fürdő is. Ez a sziget egyik legfontosabb természetvédelmi példája.",
+      ro: "Grădinile Botanice Diamond Falls din Soufrière se întind pe aproximativ 2,4 hectare din cadrul moșiei istorice Soufrière. Grădina prezintă o diversitate de floră tropicală și găzduiește cascada omonimă, colorată de depozitele minerale. Băile minerale istorice, construite inițial în 1784 pentru trupele franceze, fac parte din complex. Este un exemplu important de conservare naturală pe insulă.",
+      en: "The Diamond Falls Botanical Gardens in Soufrière occupy approximately 2.4 hectares of the historic Soufrière Estate. The gardens showcase a variety of tropical flora and feature the eponymous waterfall, colored by mineral deposits. Historic mineral baths, originally constructed in 1784 for French troops, are integrated into the site. It serves as a prominent example of environmental conservation on the island.",
+    },
+    factsAdvanced: {
+      de: ["Ursprüngliche Bäder erbaut im Jahr 1784", "Wasserfall durch Vulkangestein gefärbt", "Fläche der Gärten beträgt 2,4 Hektar", "Liegt im Tal von Soufrière", "Sitz auf der ehemaligen Soufrière Estate", "Ausgezeichnet für ökologische Nachhaltigkeit"],
+      hu: ["Az eredeti fürdők 1784-ben épültek", "A vízesést vulkáni ásványok színezik", "A kertek területe 2,4 hektár", "A Soufrière-völgyben található", "Az egykori Soufrière birtok része", "Ökológiai fenntarthatósági díjjal rendelkezik"],
+      ro: ["Băile originale au fost construite în 1784", "Cascada este colorată de minerale vulcanice", "Suprafața grădinilor este de 2,4 hectare", "Situată în valea Soufrière", "Amplasată pe fosta moșie Soufrière", "Premiată pentru sustenabilitate ecologică"],
+      en: ["Original baths built in 1784", "Waterfall colored by volcanic minerals", "Gardens cover 2.4 hectares of land", "Located within the Soufrière valley", "Situated on the historic Soufrière Estate", "Awarded for ecological sustainability"],
+    },
   },
   {
     id: "saintlucia-millet-bird-sanctuary-life-v2",
@@ -57,6 +81,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Over 30 different bird species", "Best spot for the Saint Lucia Parrot", "Trail leads through the rainforest", "Home to the Saint Lucia Trogon"],
     },
     imageHint: "Saint Lucia Parrot in tropical forest",
+    descriptionAdvanced: {
+      de: "Das Millet Bird Sanctuary liegt im Herzen des Regenwaldes von St. Lucia und ist ein Paradies für Vogelbeobachter. In diesem Schutzgebiet wurden über 30 verschiedene Vogelarten nachgewiesen, darunter alle fünf endemischen Arten der Insel. Ein markierter Wanderweg führt durch das dichte Grün und bietet Einblicke in die lokale Flora. Es dient als wichtiges Zentrum für die Erhaltung der Biodiversität der Karibikinsel.",
+      hu: "A Millet madárrezervátum Saint Lucia esőerdejének szívében található, és a madármegfigyelők paradicsoma. Ebben a védett körzetben több mint 30 különböző madárfajt azonosítottak, köztük a sziget mind az öt endemikus faját. Egy kijelölt tanösvény vezet keresztül a sűrű növényzeten, betekintést nyújtva a helyi flórába. A terület a karibi sziget biológiai sokféleségének megőrzésében játszik fontos szerepet.",
+      ro: "Sanctuarul de Păsări Millet este situat în inima pădurii tropicale din Sfânta Lucia, fiind un paradis pentru observatorii de păsări. În această zonă protejată au fost identificate peste 30 de specii diferite, inclusiv toate cele cinci specii endemice ale insulei. Un traseu marcat trece prin vegetația densă, oferind informații despre flora locală. Acesta servește ca un centru important pentru conservarea biodiversității insulei.",
+      en: "The Millet Bird Sanctuary is nestled in the heart of Saint Lucia's rainforest and is a premier location for birdwatching. Over 30 different bird species have been recorded within this protected area, including all five of the island's endemic species. A designated trail winds through the dense greenery, providing insights into the local flora. It serves as a vital center for preserving the biodiversity of the Caribbean island.",
+    },
+    factsAdvanced: {
+      de: ["Heimat von über 30 Vogelarten", "Beherbergt die St. Lucia-Amazone", "Rundwanderweg ist ca. 2,8 km lang", "Gelegen im zentralen Regenwaldgürtel", "Höhe von ca. 300 Metern über dem Meer", "Teil des staatlichen Forstreservats"],
+      hu: ["Több mint 30 madárfaj otthona", "Itt él a Saint Lucia-i amazon-papagáj", "A túraútvonal hossza kb. 2,8 km", "A központi esőerdő-övezetben található", "Kb. 300 méterrel a tengerszint felett fekszik", "Az állami erdőrezervátum része"],
+      ro: ["Adăpostește peste 30 de specii de păsări", "Habitat pentru papagalul Amazon din Sf. Lucia", "Traseul are o lungime de aprox. 2,8 km", "Situat în centura centrală de pădure tropicală", "Altitudine de aprox. 300 de metri", "Parte a Rezervației Forestiere de stat"],
+      en: ["Home to over 30 recorded bird species", "Habitat for the Saint Lucia Parrot", "Trail length is approximately 2.8 km", "Located in the central rainforest belt", "Altitude of approx. 300 meters above sea level", "Part of the government forest reserve"],
+    },
   },
   {
     id: "saintlucia-mankote-mangrove-life-v2",
@@ -76,6 +112,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Covers approximately 60 hectares", "Part of the Ramsar protected site", "Important for coastal protection", "Habitat for herons and wading birds"],
     },
     imageHint: "Mankoté Mangrove forest Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die Mankoté Mangrove bei Vieux Fort ist der größte Mangrovenwald von St. Lucia und ein geschütztes RAMSAR-Gebiet. Dieses Ökosystem spielt eine entscheidende Rolle für den Küstenschutz und dient als Kinderstube für zahlreiche marine Lebensformen. Es wird gemeinschaftlich verwaltet, um eine nachhaltige Holzkohlengewinnung mit dem Naturschutz zu vereinbaren. Die Mangrove filtert Sedimente und schützt das nahegelegene Korallenriff.",
+      hu: "A Vieux Fort közelében található Mankoté Mangrove Saint Lucia legnagyobb mangroveerdője és védett RAMSAR terület. Ez az ökoszisztéma döntő szerepet játszik a partvédelemben, és számos tengeri faj számára szolgál bölcsőhelyként. Közösségi kezelés alatt áll, hogy összehangolják a fenntartható faszéntermelést a természetvédelemmel. A mangrove szűri a hordalékot és védi a közeli korallzátonyokat.",
+      ro: "Mangrova Mankoté de lângă Vieux Fort este cea mai mare pădure de mangrove din Sfânta Lucia și un sit protejat RAMSAR. Acest ecosistem joacă un rol crucial în protecția coastelor și servește ca zonă de reproducere pentru numeroase specii marine. Este gestionată comunitar pentru a echilibra producția durabilă de cărbune cu conservarea. Mangrova filtrează sedimentele și protejează recifele de corali din apropiere.",
+      en: "The Mankoté Mangrove near Vieux Fort is the largest mangrove forest in Saint Lucia and a designated RAMSAR site. This ecosystem plays a critical role in coastal protection and serves as a nursery for numerous marine species. It is managed by the community to balance sustainable charcoal production with environmental conservation. The mangrove filters sediment and protects the nearby coral reefs.",
+    },
+    factsAdvanced: {
+      de: ["Größte Mangrove der Insel", "Ausgewiesenes RAMSAR-Gebiet seit 2002", "Fläche von etwa 60 Hektar", "Wichtiger Küstenschutz gegen Erosion", "Heimat von Fischreihern und Krabben", "Zentrum für nachhaltige Holzkohleproduktion"],
+      hu: ["A sziget legnagyobb mangroveerdője", "2002 óta RAMSAR terület", "Területe körülbelül 60 hektár", "Fontos védelmi vonal az erózió ellen", "Gémek és rákok természetes élőhelye", "A fenntartható faszéntermelés központja"],
+      ro: ["Cea mai mare mangrovă de pe insulă", "Desemnat sit RAMSAR din anul 2002", "Suprafață de aproximativ 60 de hectare", "Rol major în protecția împotriva eroziunii", "Habitat pentru stârci și crabi", "Centru pentru producția durabilă de cărbune"],
+      en: ["Largest mangrove forest on the island", "Designated RAMSAR site since 2002", "Covers an area of about 60 hectares", "Critical barrier against coastal erosion", "Home to herons and various crab species", "Model for sustainable charcoal harvesting"],
+    },
   },
   {
     id: "saintlucia-frigate-island-nature-reserve-life-v2",
@@ -95,6 +143,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Nesting site for hundreds of birds", "Access restricted during breeding season", "Home to the Saint Lucia Boa Constrictor", "Offers views of rare seabirds"],
     },
     imageHint: "Magnificent Frigatebird nesting site",
+    descriptionAdvanced: {
+      de: "Das Frigate Island Nature Reserve liegt vor der Ostküste von St. Lucia und ist nach den Prachtfregattvögeln benannt, die dort nisten. Die Insel und das umliegende Riff sind seit den 1980er Jahren geschützt. Besucher können die Vögel während der Paarungszeit beobachten, wobei der Zugang zur Insel selbst meist eingeschränkt ist. Es ist ein bedeutender Rückzugsort für Seevögel und marine Biodiversität.",
+      hu: "A Frigate-szigeti természetvédelmi terület Saint Lucia keleti partjainál található, és a névadó pompás fregattmadarakról kapta a nevét. A sziget és a környező zátony az 1980-as évek óta védett. A látogatók a párzási időszakban figyelhetik meg a madarakat, bár magára a szigetre a belépés általában korlátozott. Fontos menedékhely a tengeri madarak és a tengeri élővilág számára.",
+      ro: "Rezervația Naturală Insula Fregatelor este situată în largul coastei de est a Sfintei Lucia și poartă numele fregatelor magnifice care cuibăresc acolo. Insula și reciful înconjurător sunt protejate încă din anii 1980. Vizitatorii pot observa păsările în timpul sezonului de împerechere, deși accesul pe insulă este de obicei restricționat. Este un refugiu esențial pentru păsările marine și biodiversitatea marină.",
+      en: "Frigate Island Nature Reserve is located off the east coast of Saint Lucia and is named after the Magnificent Frigatebirds that nest there. The island and its surrounding reef have been protected since the 1980s. Visitors can observe the birds during their mating season, although access to the islet itself is typically restricted. It serves as a vital sanctuary for seabirds and marine biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Nistplatz der Prachtfregattvögel", "Unter Schutz gestellt im Jahr 1987", "Gelegen an der Atlantikküste der Insel", "Beobachtungspunkt am Festland vorhanden", "Vorkommen seltener Reptilienarten", "Wichtige Brutstätte zwischen Mai und Juli"],
+      hu: ["A pompás fregattmadarak fészkelőhelye", "1987-ben helyezték védelem alá", "A sziget atlanti partvidékén található", "Kilátópont érhető el a szárazföldön", "Ritka hüllőfajok is előfordulnak itt", "Május és július között tart a költési időszak"],
+      ro: ["Loc de cuibărit pentru fregata magnifică", "Pusă sub protecție în anul 1987", "Situată pe coasta atlantică a insulei", "Punct de observare disponibil pe uscat", "Prezența unor specii rare de reptile", "Sezon principal de cuibărit între mai și iulie"],
+      en: ["Nesting site for Magnificent Frigatebirds", "Established as a reserve in 1987", "Located on the Atlantic coast of the island", "Observation point accessible from the mainland", "Presence of rare endemic reptile species", "Peak nesting season occurs May to July"],
+    },
   },
   {
     id: "saintlucia-edmund-forest-reserve-life-v2",
@@ -114,6 +174,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Offers views of Mount Gimie", "Habitat for all endemic birds", "Contains giant tree ferns", "Rainfall exceeds 3500 mm per year"],
     },
     imageHint: "Lush cloud forest Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Edmund Forest Reserve liegt im zentralen Hochland von St. Lucia und bietet spektakuläre Ausblicke auf den Mount Gimie. Das Reservat ist geprägt von dichtem Nebelwald und dient als wichtiges Wassereinzugsgebiet für die Insel. Es ist einer der besten Orte, um die seltene St. Lucia-Amazone in ihrem natürlichen Habitat zu sehen. Zahlreiche Farne und Epiphyten prägen das Landschaftsbild dieses unberührten Waldgebiets.",
+      hu: "Az Edmund erdőrezervátum Saint Lucia központi felföldjén található, és látványos kilátást nyújt a Mount Gimie-re. A rezervátumot sűrű köderdő jellemzi, és a sziget fontos vízgyűjtő területeként szolgál. Ez az egyik legjobb hely a ritka Saint Lucia-i amazon-papagáj megfigyelésére természetes élőhelyén. Számos páfrány és epifiton határozza meg ennek az érintetlen erdőnek a tájképét.",
+      ro: "Rezervația Forestieră Edmund este situată în zonele muntoase centrale din Sfânta Lucia și oferă vederi spectaculoase asupra Muntelui Gimie. Rezervația este caracterizată de păduri de nori dense și servește ca bazin hidrografic important pentru insulă. Este unul dintre cele mai bune locuri pentru a vedea papagalul Amazon din Sfânta Lucia în habitatul său natural. Numeroase ferigi și epifite definesc peisajul acestei zone forestiere virgine.",
+      en: "Edmund Forest Reserve is located in the central highlands of Saint Lucia and offers spectacular views of Mount Gimie. The reserve is characterized by dense cloud forest and serves as a crucial watershed for the island. It is one of the best locations to observe the rare Saint Lucia Parrot in its natural habitat. Numerous ferns and epiphytes define the landscape of this pristine forest area.",
+    },
+    factsAdvanced: {
+      de: ["Bietet Blick auf den Mount Gimie (950m)", "Wichtiges Habitat der St. Lucia-Amazone", "Durchschnittliche jährliche Niederschlagsmenge hoch", "Teil der zentralen Gebirgskette", "Vorkommen von über 150 Pflanzenarten", "Wanderweg führt durch den Nebelwald"],
+      hu: ["Kilátást nyújt a Mount Gimie-re (950m)", "A Saint Lucia-i papagáj fontos élőhelye", "Az éves csapadékmennyiség igen magas", "A központi hegylánc része", "Több mint 150 növényfaj fordul elő itt", "Túraútvonal vezet a köderdőn keresztül"],
+      ro: ["Oferă vedere spre Muntele Gimie (950m)", "Habitat crucial pentru papagalul lucian", "Cantitate anuală ridicată de precipitații", "Parte a lanțului muntos central", "Prezența a peste 150 de specii de plante", "Traseu de drumeție prin pădurea de nori"],
+      en: ["Offers views of Mount Gimie (950m)", "Critical habitat for the Saint Lucia Parrot", "High average annual rainfall levels", "Part of the island's central mountain range", "Home to over 150 identified plant species", "Features trails through the cloud forest"],
+    },
   },
   {
     id: "saintlucia-des-cartier-trail-life-v2",
@@ -133,6 +205,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Best area for birdwatching", "Passes through dense primary forest", "Home to the rare 'Amazona versicolor'", "Guided tours by forestry officials"],
     },
     imageHint: "Rainforest hiking trail Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Des Cartier Trail ist ein bekannter Wanderweg im Quilesse Forest Reserve im Osten von St. Lucia. Der Pfad erstreckt sich über etwa 4 Kilometer durch tropischen Primärwald und bietet hervorragende Möglichkeiten zur Vogelbeobachtung. Er ist besonders für Sichtungen der St. Lucia-Amazone bekannt, die oft in den Baumkronen nach Nahrung sucht. Die Wanderung führt vorbei an riesigen Baumfarnen und exotischen Hölzern.",
+      hu: "A Des Cartier ösvény egy népszerű túraútvonal a Quilesse erdőrezervátumban, Saint Lucia keleti részén. Az út mintegy 4 kilométer hosszan kanyarog az elsődleges trópusi erdőben, kiváló lehetőséget nyújtva a madármegfigyelésre. Különösen a Saint Lucia-i amazon-papagájról ismert, amely gyakran a lombkoronában keresi táplálékát. A túra óriási páfrányfák és egzotikus fafajták mellett vezet el.",
+      ro: "Traseul Des Cartier este o cărare de drumeție renumită în Rezervația Forestieră Quilesse din estul Sfintei Lucia. Traseul se întinde pe aproximativ 4 kilometri prin pădure tropicală primară și oferă oportunități excelente pentru observarea păsărilor. Este cunoscut în special pentru observarea papagalului Amazon din Sfânta Lucia în coronamentul arborilor. Drumeția trece pe lângă ferigi arborescente uriașe și specii exotice de lemn.",
+      en: "The Des Cartier Trail is a renowned hiking path within the Quilesse Forest Reserve in eastern Saint Lucia. The trail extends for approximately 4 kilometers through primary tropical forest, offering excellent birdwatching opportunities. It is particularly famous for sightings of the Saint Lucia Parrot, often seen foraging in the canopy. The hike passes through giant tree ferns and stands of exotic timber.",
+    },
+    factsAdvanced: {
+      de: ["Länge des Wanderwegs beträgt ca. 4 km", "Gelegen im Quilesse Forest Reserve", "Häufige Sichtungen der St. Lucia-Amazone", "Durchquert unberührten Primärwald", "Höhendifferenz ist moderat ausgeprägt", "Wichtiger Ort für wissenschaftliche Exkursionen"],
+      hu: ["A túraútvonal hossza kb. 4 km", "A Quilesse erdőrezervátumban található", "Gyakran látható itt a helyi papagájfaj", "Érintetlen elsődleges erdőn halad át", "A szintkülönbség mérsékelt", "Tudományos kirándulások fontos helyszíne"],
+      ro: ["Lungimea traseului este de aprox. 4 km", "Situat în Rezervația Forestieră Quilesse", "Observări frecvente ale papagalului lucian", "Traversează pădure primară virgină", "Diferența de nivel este moderată", "Loc important pentru excursii științifice"],
+      en: ["Trail length is approximately 4 km", "Located within Quilesse Forest Reserve", "Frequent sightings of the Saint Lucia Parrot", "Traverses pristine primary rainforest", "Moderate elevation changes throughout", "Key location for ecological field studies"],
+    },
   },
   {
     id: "saintlucia-savannes-bay-nature-reserve-life-v2",
@@ -152,6 +236,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Internationally recognized Ramsar site", "Key habitat for migratory birds", "Protects coral reefs from sediment", "Established in 2002"],
     },
     imageHint: "Savannes Bay coastal mangroves",
+    descriptionAdvanced: {
+      de: "Das Savannes Bay Nature Reserve an der Südostküste von St. Lucia schützt ein komplexes System aus Mangroven und Seegraswiesen. Es ist ein ausgewiesenes RAMSAR-Gebiet von internationaler Bedeutung für den Naturschutz. Das Reservat dient als wichtiger Lebensraum für zahlreiche Fischarten und Seevögel sowie als natürlicher Filter für den Ozean. Die angrenzenden Korallenriffe profitieren von der Nährstoffrückhaltung des Schutzgebiets.",
+      hu: "A Savannes Bay természetvédelmi terület Saint Lucia délkeleti partján egy összetett mangrove- és tengerifű-rendszert védelmez. Ez egy nemzetközi jelentőségű, kijelölt RAMSAR terület a természetvédelem számára. A rezervátum fontos élőhelyként szolgál számos halfaj és tengeri madár számára, valamint az óceán természetes szűrőjeként működik. A szomszédos korallzátonyok sokat profitálnak a védett terület tápanyag-visszatartásából.",
+      ro: "Rezervația Naturală Savannes Bay, de pe coasta de sud-est a Sfintei Lucia, protejează un sistem complex de mangrove și paturi de iarbă marină. Este un sit RAMSAR desemnat, de importanță internațională pentru conservare. Rezervația servește ca habitat vital pentru numeroase specii de pești și păsări marine, acționând ca un filtru natural pentru ocean. Recifele de corali adiacente beneficiază de retenția nutrienților din zona protejată.",
+      en: "Savannes Bay Nature Reserve on the southeastern coast of Saint Lucia protects a complex system of mangroves and seagrass beds. It is a designated RAMSAR site of international importance for conservation. The reserve serves as a vital habitat for numerous fish species and seabirds, acting as a natural filter for the ocean. Adjacent coral reefs benefit significantly from the nutrient retention within the protected area.",
+    },
+    factsAdvanced: {
+      de: ["Ausgewiesenes RAMSAR-Gebiet seit 2002", "Beinhaltet Scorpion Island", "Wichtiges Ökosystem aus Seegraswiesen", "Schutz vor Küstenerosion durch Mangroven", "Lebensraum für bedrohte Meeresschildkröten", "Gelegen in der Nähe von Vieux Fort"],
+      hu: ["2002-ben nyilvánították RAMSAR területté", "Magában foglalja a Scorpion-szigetet", "Fontos tengerifű-ökoszisztéma jellemzi", "A mangrovék védenek a parterózió ellen", "Veszélyeztetett tengeri teknősök élőhelye", "Vieux Fort közelében található"],
+      ro: ["Desemnat sit RAMSAR în anul 2002", "Include Insula Scorpion", "Ecosistem important de iarbă marină", "Protecție împotriva eroziunii prin mangrove", "Habitat pentru țestoase marine periclitate", "Situată în apropiere de Vieux Fort"],
+      en: ["Designated as a RAMSAR site in 2002", "Includes the offshore Scorpion Island", "Features extensive seagrass bed ecosystems", "Mangroves provide coastal erosion defense", "Habitat for endangered sea turtles", "Located in the vicinity of Vieux Fort"],
+    },
   },
   {
     id: "saintlucia-mamiku-gardens-life-v2",
@@ -171,6 +267,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Contains a 'Secret Garden'", "Home to many hummingbird species", "Medicinal herb garden section", "Historical ruins included"],
     },
     imageHint: "Mamiku Gardens tropical flowers",
+    descriptionAdvanced: {
+      de: "Mamiku Gardens liegt an der Ostküste von St. Lucia auf dem Gelände eines historischen Anwesens aus dem 18. Jahrhundert. Die Gärten sind in verschiedene Bereiche unterteilt, darunter ein Heilkräutergarten und ein Bereich für Orchideen. Die Anlage kombiniert botanische Vielfalt mit historischem Erbe, einschließlich der Ruinen des alten Haupthauses. Es bietet Besuchern einen Einblick in die koloniale Vergangenheit und die Flora der Insel.",
+      hu: "A Mamiku Gardens Saint Lucia keleti partján található, egy 18. századi történelmi birtok területén. A kertek különböző részekre oszlanak, többek között gyógynövénykertre és orchidea-részlegre. A létesítmény a botanikai sokszínűséget ötvözi a történelmi örökséggel, beleértve a régi kúria romjait is. A látogatók betekintést nyerhetnek a sziget gyarmati múltjába és növényvilágába.",
+      ro: "Grădinile Mamiku sunt situate pe coasta de est a Sfintei Lucia, pe locul unei moșii istorice din secolul al XVIII-lea. Grădinile sunt împărțite în mai multe secțiuni, inclusiv o grădină de plante medicinale și o zonă pentru orhidee. Complexul combină diversitatea botanică cu moștenirea istorică, inclusiv ruinele vechii case principale. Oferă vizitatorilor o perspectivă asupra trecutului colonial și a florei insulei.",
+      en: "Mamiku Gardens is located on the east coast of Saint Lucia on the site of an 18th-century historic estate. The gardens are divided into several sections, including a medicinal herb garden and an orchid house. The facility combines botanical diversity with historical heritage, including the ruins of the original manor house. It offers visitors an insight into the island's colonial past and its rich flora.",
+    },
+    factsAdvanced: {
+      de: ["Ehemals Sitz eines Baron de Micoud", "Beherbergt einen Heilkräutergarten", "Ruinen aus dem 18. Jahrhundert vorhanden", "Über 250 verschiedene Pflanzenarten", "Blick auf die Praslin Bay", "Regelmäßige Führungen zur Kolonialgeschichte"],
+      hu: ["Egykor Micoud báró székhelye volt", "Külön gyógynövénykerttel rendelkezik", "18. századi romok láthatók a területen", "Több mint 250 különböző növényfaj", "Kilátás nyílik a Praslin-öbölre", "Rendszeres vezetések a gyarmati múltról"],
+      ro: ["Fosta reședință a baronului de Micoud", "Găzduiește o grădină de plante medicinale", "Prezența ruinelor din secolul al XVIII-lea", "Peste 250 de specii diferite de plante", "Vedere spre Golful Praslin", "Tururi ghidate despre istoria colonială"],
+      en: ["Formerly the estate of Baron de Micoud", "Features a dedicated medicinal herb garden", "Contains ruins dating to the 18th century", "Home to over 250 plant species", "Offers views overlooking Praslin Bay", "Provides educational tours on colonial history"],
+    },
   },
   {
     id: "saintlucia-union-nature-trail-life-v2",
@@ -190,6 +298,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Small zoo with indigenous animals", "Information on parrot conservation", "Easy hiking trail for families", "Houses endangered turtles"],
     },
     imageHint: "Union Nature Trail interpretive center",
+    descriptionAdvanced: {
+      de: "Der Union Nature Trail nördlich von Castries bietet eine ideale Einführung in die Ökologie von St. Lucia. Der Weg führt durch Sekundärwald und vorbei an einem Lehrgarten für Heilpflanzen. Ein Informationszentrum vor Ort vermittelt Wissen über die lokale Tierwelt, insbesondere über die Bemühungen zum Schutz der St. Lucia-Amazone. Es ist ein beliebtes Ziel für Schulklassen und Naturinteressierte aufgrund der leichten Erreichbarkeit.",
+      hu: "A Castries-tól északra található Union tanösvény ideális bevezetést nyújt Saint Lucia ökológiájába. Az út másodlagos erdőn keresztül vezet, és elhalad egy gyógynövényeket bemutató oktatókert mellett. A helyszíni információs központ ismereteket közvetít a helyi vadvilágról, különösen a Saint Lucia-i amazon-papagáj védelmére irányuló erőfeszítésekről. Könnyű elérhetősége miatt kedvelt célpont iskolai csoportok és természetbarátok számára.",
+      ro: "Traseul Union Nature, situat la nord de Castries, oferă o introducere ideală în ecologia Sfintei Lucia. Cărarea trece prin pădure secundară și pe lângă o grădină educațională de plante medicinale. Un centru de informare local oferă cunoștințe despre fauna sălbatică, în special despre eforturile de conservare a papagalului Amazon din Sfânta Lucia. Este o destinație populară pentru școli și iubitorii de natură datorită accesibilității sale.",
+      en: "The Union Nature Trail, located north of Castries, provides an ideal introduction to the ecology of Saint Lucia. The path leads through secondary forest and past an educational medicinal plant garden. An on-site interpretation center offers information about local wildlife, particularly efforts to conserve the Saint Lucia Parrot. It is a popular destination for school groups and nature enthusiasts due to its accessibility.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Forstwirtschaftsamtes", "Beinhaltet ein Mini-Zoo Gehege", "Heilpflanzengarten zur Dokumentation", "Leichter Schwierigkeitsgrad der Wanderung", "Informationszentrum zur Biodiversität", "Nähe zur Hauptstadt Castries"],
+      hu: ["Az erdészeti hivatal székhelye", "Egy kisebb állatkerti kifutót is tartalmaz", "Gyógynövénykert szolgálja az oktatást", "Könnyű nehézségi fokú túraútvonal", "Biodiverzitási információs központ", "Közel található Castries fővároshoz"],
+      ro: ["Sediul departamentului forestier", "Include o mică incintă zoologică", "Grădină de plante medicinale documentată", "Grad de dificultate ușor pentru drumeție", "Centru de informare despre biodiversitate", "Proximitate față de capitala Castries"],
+      en: ["Headquarters of the Forestry Department", "Features a small animal exhibit area", "Includes a documented medicinal herb garden", "Easy difficulty rating for the hiking trail", "Biodiversity interpretation center on-site", "Close proximity to the capital, Castries"],
+    },
   },
   {
     id: "saintlucia-quilesse-forest-reserve-life-v2",
@@ -209,6 +329,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Home to the Saint Lucia Pewee", "Very high annual rainfall", "Important water catchment area", "Protects rare tree fern species"],
     },
     imageHint: "Pristine mountain rainforest Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Quilesse Forest Reserve ist ein bedeutendes Schutzgebiet im gebirgigen Landesinneren von St. Lucia. Es umfasst weite Teile des tropischen Regenwaldes und ist entscheidend für die Wasserversorgung der umliegenden Gemeinden. Das Reservat bietet Lebensraum für zahlreiche endemische Pflanzen- und Tierarten. Aufgrund der hohen Niederschlagsmengen ist die Vegetation hier besonders üppig und vielfältig.",
+      hu: "A Quilesse erdőrezervátum Saint Lucia hegyvidéki belsejének egyik legfontosabb védett területe. Kiterjedt trópusi esőerdőket foglal magában, és döntő fontosságú a környező közösségek vízellátása szempontjából. A rezervátum számos endemikus növény- és állatfajnak nyújt élőhelyet. A nagy mennyiségű csapadéknak köszönhetően a növényzet itt különösen buja és változatos.",
+      ro: "Rezervația Forestieră Quilesse este o zonă protejată majoră din interiorul muntos al Sfintei Lucia. Aceasta cuprinde porțiuni vaste de pădure tropicală și este crucială pentru aprovizionarea cu apă a comunităților învecinate. Rezervația oferă habitat pentru numeroase specii endemice de plante și animale. Datorită precipitațiilor abundente, vegetația de aici este deosebit de luxuriantă și diversă.",
+      en: "Quilesse Forest Reserve is a major protected area in the mountainous interior of Saint Lucia. It encompasses vast tracts of tropical rainforest and is critical for the water supply of surrounding communities. The reserve provides a habitat for numerous endemic plant and animal species. Due to the high levels of precipitation, the vegetation here is particularly lush and diverse.",
+    },
+    factsAdvanced: {
+      de: ["Wichtiges Wassereinzugsgebiet der Insel", "Beherbergt den Des Cartier Trail", "Hohe Konzentration an Epiphyten", "Teil des zentralen Regenwald-Schutzsystems", "Niederschlag oft über 3500 mm pro Jahr", "Vorkommen des St. Lucia-Oriols"],
+      hu: ["A sziget fontos vízgyűjtő területe", "Itt található a Des Cartier ösvény", "Az epifitonok nagy koncentrációja jellemzi", "A központi esőerdő-védelmi rendszer része", "A csapadék gyakran meghaladja az évi 3500 mm-t", "A Saint Lucia-i sárgarigó élőhelye"],
+      ro: ["Bazin hidrografic esențial pentru insulă", "Găzduiește traseul Des Cartier", "Concentrație ridicată de epifite", "Parte a sistemului central de protecție", "Precipitații deseori peste 3500 mm/an", "Habitat pentru grangurul din Sfânta Lucia"],
+      en: ["Critical watershed for the island's supply", "Contains the famous Des Cartier Trail", "High concentration of epiphytic plants", "Part of the central rainforest protection", "Annual rainfall often exceeds 3,500 mm", "Habitat for the endemic Saint Lucia Oriole"],
+    },
   },
   {
     id: "saintlucia-praslin-island-nature-reserve-life-v2",
@@ -228,6 +360,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Endemic lizard species present", "Important nesting site for seabirds", "Coastal vegetation is undisturbed", "Part of a species recovery program"],
     },
     imageHint: "Saint Lucia Whiptail lizard on rock",
+    descriptionAdvanced: {
+      de: "Das Praslin Island Nature Reserve umfasst eine kleine Insel vor der Ostküste von St. Lucia. Sie ist bekannt als einer der wenigen verbliebenen Standorte für den endemischen St. Lucia-Peitschenschwanz-Skink. Die Insel wird vom National Trust verwaltet, um invasive Arten fernzuhalten und das Ökosystem zu stabilisieren. Die Vegetation besteht hauptsächlich aus trockenem Küstenwald und Kakteen.",
+      hu: "A Praslin-szigeti természetvédelmi terület egy kis szigetet foglal magában Saint Lucia keleti partjainál. Ismert, mint az endemikus Saint Lucia-i ostorfarkú gyík kevés fennmaradt élőhelyének egyike. A szigetet a National Trust kezeli az invazív fajok távoltartása és az ökoszisztéma stabilizálása érdekében. A növényzet főként száraz parti erdőből és kaktuszokból áll.",
+      ro: "Rezervația Naturală Insula Praslin cuprinde o mică insulă situată în largul coastei de est a Sfintei Lucia. Este cunoscută ca fiind unul dintre puținele locuri rămase pentru șopârla endemică Whiptail din Sfânta Lucia. Insula este gestionată de National Trust pentru a preveni speciile invazive și a stabiliza ecosistemul. Vegetația constă în principal din pădure de coastă uscată și cactuși.",
+      en: "Praslin Island Nature Reserve encompasses a small islet off the east coast of Saint Lucia. It is known as one of the few remaining locations for the endemic Saint Lucia Whiptail lizard. The island is managed by the National Trust to exclude invasive species and stabilize the ecosystem. The vegetation consists primarily of dry coastal scrub and cacti.",
+    },
+    factsAdvanced: {
+      de: ["Refugium für den Peitschenschwanz-Skink", "Verwaltet durch den St. Lucia National Trust", "Gelegen in der Praslin Bay", "Zugang nur mit Sondergenehmigung", "Trockenes Küstenökosystem", "Wichtige Forschungsstätte für Herpetologen"],
+      hu: ["Az ostorfarkú gyík fontos menedékhelye", "A Saint Lucia National Trust kezeli", "A Praslin-öbölben található", "Belépés csak külön engedéllyel", "Száraz parti ökoszisztéma jellemzi", "Fontos kutatóhely herpetológusok számára"],
+      ro: ["Refugiu pentru șopârla Whiptail", "Gestionată de Sfânta Lucia National Trust", "Situată în Golful Praslin", "Acces permis doar cu autorizație specială", "Ecosistem de coastă uscat", "Loc de cercetare important pentru herpetologi"],
+      en: ["Refuge for the Saint Lucia Whiptail lizard", "Managed by the Saint Lucia National Trust", "Located within Praslin Bay", "Access restricted to special permits", "Characterized by dry coastal scrub", "Key research site for herpetologists"],
+    },
   },
   {
     id: "saintlucia-scorpion-island-life-v2",
@@ -247,6 +391,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Habitat for the dwarf gecko species", "Surrounded by seagrass meadows", "Nesting site for Sooty Terns", "No permanent human settlement"],
     },
     imageHint: "Small tropical islet aerial view",
+    descriptionAdvanced: {
+      de: "Scorpion Island ist ein kleines Eiland innerhalb des Savannes Bay Nature Reserve an der Südostküste von St. Lucia. Trotz seines Namens ist die Insel vor allem als wichtiger Nistplatz für Seevögel bekannt. Die Umgebung ist von flachen Riffen und Seegraswiesen geprägt, die eine reiche marine Vielfalt beherbergen. Die Insel ist Teil eines international anerkannten Feuchtgebiets von ökologischer Bedeutung.",
+      hu: "A Scorpion-sziget egy kis sziget a Savannes Bay természetvédelmi területen belül, Saint Lucia délkeleti partján. Neve ellenére a sziget elsősorban a tengeri madarak fontos fészkelőhelyeként ismert. Környezetét sekély zátonyok és tengerifű-mezők jellemzik, amelyek gazdag tengeri élővilágnak adnak otthont. A sziget egy nemzetközileg elismert, ökológiai jelentőségű vizes élőhely része.",
+      ro: "Insula Scorpion este un mic ostrov în cadrul Rezervației Naturale Savannes Bay, pe coasta de sud-est a Sfintei Lucia. În ciuda numelui său, insula este cunoscută în principal ca un loc important de cuibărit pentru păsările marine. Împrejurimile sunt caracterizate de recife puțin adânci și paturi de iarbă marină care găzduiesc o bogată diversitate marină. Insula face parte dintr-o zonă umedă recunoscută internațional.",
+      en: "Scorpion Island is a small islet within the Savannes Bay Nature Reserve on the southeastern coast of Saint Lucia. Despite its name, the island is primarily known as a significant nesting site for various seabirds. The surrounding area features shallow reefs and seagrass beds that support a rich marine biodiversity. The island is part of an internationally recognized wetland area of ecological importance.",
+    },
+    factsAdvanced: {
+      de: ["Teil des RAMSAR-Gebiets Savannes Bay", "Wichtiger Nistplatz für Seevögel", "Umgeben von flachen Korallenriffen", "Keine dauerhafte menschliche Besiedlung", "Vorkommen von Küstenvegetation", "Name bezieht sich auf die Form der Insel"],
+      hu: ["A Savannes Bay RAMSAR terület része", "Fontos tengeri madárfészkelőhely", "Sekély korallzátonyok veszik körül", "Nincs állandó emberi lakossága", "Parti növényzet jellemzi", "A neve a sziget alakjára utal"],
+      ro: ["Parte a sitului RAMSAR Savannes Bay", "Loc de cuibărit pentru păsări marine", "Înconjurată de recife de corali joase", "Fără așezări umane permanente", "Prezența vegetației de coastă", "Numele provine de la forma insulei"],
+      en: ["Part of the Savannes Bay RAMSAR site", "Important nesting ground for seabirds", "Surrounded by shallow coral reefs", "No permanent human inhabitants", "Features specialized coastal vegetation", "Name refers to the physical shape of the islet"],
+    },
   },
   {
     id: "saintlucia-dennery-island-nature-reserve-life-v2",
@@ -266,6 +422,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Home to the Saint Lucia Anole", "Steep cliffs offer protection", "Presence of cactus species", "Possible whale watching vantage point"],
     },
     imageHint: "Rugged coastal island Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Dennery Island Nature Reserve liegt vor der Küste des Fischerdorfes Dennery im Osten von St. Lucia. Die steilen Klippen der Insel bieten ideale Bedingungen für nistende Seevögel wie den Rotschnabel-Tropikvogel. Aufgrund der rauen Atlantikbrandung ist der Zugang zur Insel schwierig, was den Schutz der Fauna begünstigt. Es ist ein markantes geografisches Merkmal der Ostküste der Insel.",
+      hu: "A Dennery-szigeti természetvédelmi terület Dennery halászfalu partjainál található, Saint Lucia keleti részén. A sziget meredek sziklái ideális feltételeket biztosítanak a fészkelő tengeri madarak, például a vöröscsőrű trópusimadár számára. Az atlanti hullámverés miatt a sziget megközelítése nehéz, ami elősegíti az élővilág védelmét. A sziget a keleti partvidék egyik meghatározó földrajzi jellemzője.",
+      ro: "Rezervația Naturală Insula Dennery se află în largul satului de pescari Dennery, în estul Sfintei Lucia. Stâncile abrupte ale insulei oferă condiții ideale pentru păsările marine care cuibăresc, cum ar fi pasărea tropic cu cioc roșu. Din cauza valurilor puternice ale Atlanticului, accesul la insulă este dificil, ceea ce favorizează protecția faunei. Este o trăsătură geografică distinctivă a coastei de est.",
+      en: "Dennery Island Nature Reserve is located off the coast of the fishing village of Dennery in eastern Saint Lucia. The island's steep cliffs provide ideal conditions for nesting seabirds, such as the Red-billed Tropicbird. Due to the rough Atlantic surf, access to the island is difficult, which aids in the protection of its wildlife. It stands as a prominent geographical feature along the island's eastern coastline.",
+    },
+    factsAdvanced: {
+      de: ["Nistplatz des Rotschnabel-Tropikvogels", "Steile Felsformationen prägen die Insel", "Liegt direkt vor der Dennery Bay", "Wichtiges Habitat für marine Reptilien", "Starke Atlantikbrandung an der Ostseite", "Unter Schutz zur Erhaltung der Seevögel"],
+      hu: ["A vöröscsőrű trópusimadár fészkelőhelye", "Meredek sziklaformációk jellemzik", "Közvetlenül a Dennery-öböl előtt fekszik", "Tengeri hüllők fontos élőhelye", "Erős atlanti hullámzás az északi oldalon", "Védett terület a tengeri madarak megőrzésére"],
+      ro: ["Loc de cuibărit pentru pasărea tropic", "Caracterizată prin formațiuni stâncoase", "Situată direct în fața Golfului Dennery", "Habitat pentru reptile marine", "Valuri puternice ale Atlanticului în est", "Zonă protejată pentru păsările marine"],
+      en: ["Nesting site for Red-billed Tropicbirds", "Features steep volcanic rock formations", "Located directly offshore from Dennery Bay", "Habitat for various marine reptile species", "Subject to strong Atlantic swell", "Protected for the conservation of seabirds"],
+    },
   },
   {
     id: "saintlucia-choc-bay-mangroves-life-v2",
@@ -285,6 +453,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Protects the coast from erosion", "Habitat for crabs and fish", "Houses White Mangroves", "Important feeding area for birds"],
     },
     imageHint: "Mangrove trees in Choc Bay",
+    descriptionAdvanced: {
+      de: "Die Mangroven der Choc Bay liegen an der Nordwestküste von St. Lucia und bilden ein wichtiges Küstenökosystem. Dieses Feuchtgebiet dient als natürlicher Schutzwall gegen Erosion und als Kinderstube für zahlreiche marine Arten. Die Vegetation besteht hauptsächlich aus Roten und Schwarzen Mangroven, die an die salzhaltige Umgebung angepasst sind.",
+      hu: "A Choc-öböl mangroveerdei Saint Lucia északnyugati partján találhatók, és létfontosságú partmenti ökoszisztémát alkotnak. Ez a vizes élőhely természetes gátként szolgál az erózió ellen, és számos tengeri faj szaporodóhelye. A növényzetet főként vörös és fekete mangrove alkotja, amelyek jól alkalmazkodtak a sós környezethez.",
+      ro: "Mangrovele din Golful Choc sunt situate pe coasta de nord-vest a insulei Sfânta Lucia, formând un ecosistem de coastă vital. Această zonă umedă servește drept barieră naturală împotriva eroziunii și ca pepinieră pentru numeroase specii marine. Vegetația este compusă în principal din mangrove roșii și negre, adaptate la mediul salin.",
+      en: "The Choc Bay mangroves are located on the northwestern coast of Saint Lucia, forming a vital coastal ecosystem. This wetland area serves as a natural barrier against erosion and as a nursery for numerous marine species. The vegetation primarily consists of red and black mangroves that are well-adapted to the saline environment.",
+    },
+    factsAdvanced: {
+      de: ["Schutz der Küstenlinie vor Tropenstürmen", "Vorkommen von Roten Mangroven (Rhizophora mangle)", "Filterung von Sedimenten aus dem Choc River", "Lebensraum für Reiher und andere Wasservögel", "Wichtiges Brutgebiet für lokale Fischarten", "Teil des ökologischen Netzwerks im Norden der Insel"],
+      hu: ["Védi a partvonalat a trópusi viharoktól", "Vörös mangrove (Rhizophora mangle) jelenléte", "Kiszűri az üledéket a Choc-folyóból", "Gémek és más vízimadarak élőhelye", "Fontos szaporodóhely a helyi halfajok számára", "A sziget északi ökológiai hálózatának része"],
+      ro: ["Protejează linia de coastă de furtunile tropicale", "Prezența mangrovei roșii (Rhizophora mangle)", "Filtrează sedimentele din râul Choc", "Habitat pentru stârci și alte păsări acvatice", "Zonă importantă de reproducere pentru peștii locali", "Parte a rețelei ecologice din nordul insulei"],
+      en: ["Protects the coastline from tropical storms", "Presence of red mangroves (Rhizophora mangle)", "Filters sediments from the Choc River", "Habitat for herons and other waterfowls", "Important breeding ground for local fish species", "Part of the ecological network in the north"],
+    },
   },
   {
     id: "saintlucia-canelles-river-delta-life-v2",
@@ -304,6 +484,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Nesting site for sea turtles", "Occurrence of mangrove ferns", "Important fish nursery", "Pristine riverbank landscape"],
     },
     imageHint: "Tropical river delta aerial view",
+    descriptionAdvanced: {
+      de: "Das Canelles River Delta an der Südostküste von St. Lucia ist ein dynamisches Mündungsgebiet. Hier trifft Süßwasser auf das Karibische Meer, was eine einzigartige Mischung aus Flora und Fauna begünstigt. Das Gebiet ist geprägt von saisonalen Überschwemmungen und einer reichen Artenvielfalt in den umschließenden Feuchtgebieten.",
+      hu: "A Canelles-folyó deltája Saint Lucia délkeleti partján egy dinamikus torkolati terület. Itt találkozik az édesvíz a Karib-tengerrel, ami elősegíti a flóra és fauna egyedülálló keveredését. A területet a szezonális áradások és a környező mocsaras területek gazdag biológiai sokfélesége jellemzi.",
+      ro: "Delta râului Canelles de pe coasta de sud-est a insulei Sfânta Lucia este o zonă de estuar dinamică. Aici, apa dulce se întâlnește cu Marea Caraibilor, favorizând un amestec unic de floră și faună. Zona este marcată de inundații sezoniere și de o biodiversitate bogată în zonele umede înconjurătoare.",
+      en: "The Canelles River Delta on the southeast coast of Saint Lucia is a dynamic estuarine area. Here, freshwater meets the Caribbean Sea, fostering a unique mix of flora and fauna. The area is characterized by seasonal flooding and a rich biodiversity in the surrounding wetlands.",
+    },
+    factsAdvanced: {
+      de: ["Mündungsbereich des Canelles River im Südosten", "Wichtiges Gebiet für den Nährstoffaustausch", "Lebensraum für Krebstiere und Weichtiere", "Beherbergt verschiedene Arten von Sumpfvegetation", "Beobachtungsort für wandernde Watvögel", "Schutzgebiet für die lokale aquatische Fauna"],
+      hu: ["A Canelles-folyó torkolata a délkeleti részen", "Fontos terület a tápanyagcsere szempontjából", "Rákfélék és puhatestűek élőhelye", "Különböző mocsári növényfajoknak ad otthont", "Vándorló gázlómadarak megfigyelőhelye", "Védett terület a helyi vízi fauna számára"],
+      ro: ["Zonă de vărsare a râului Canelles în sud-est", "Zonă importantă pentru schimbul de nutrienți", "Habitat pentru crustacee și moluște", "Găzduiește diverse tipuri de vegetație de mlaștină", "Loc de observare pentru păsările migratoare de țărm", "Zonă protejată pentru fauna acvatică locală"],
+      en: ["Mouth of the Canelles River in the southeast", "Crucial area for nutrient exchange", "Habitat for crustaceans and mollusks", "Hosts various types of marsh vegetation", "Observation spot for migrating shorebirds", "Protected area for local aquatic fauna"],
+    },
   },
   {
     id: "saintlucia-fond-dor-nature-reserve-life-v2",
@@ -323,6 +515,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Leatherback turtles nest here", "Rich in archaeological finds", "Contains rare coastal forests", "Offers seaside hiking trails"],
     },
     imageHint: "Fond d'Or beach and forest",
+    descriptionAdvanced: {
+      de: "Das Fond d'Or Nature Reserve an der Ostküste verbindet historische Stätten mit ökologischem Reichtum. Es umfasst einen breiten Sandstrand, eine Flussmündung und trockene Küstenwälder. Das Reservat ist bekannt für die Nistplätze von Meeresschildkröten und bietet Schutz für bedrohte Vogelarten in der rauen Atlantikbrandung.",
+      hu: "A keleti parton található Fond d'Or természetvédelmi terület a történelmi helyszíneket ötvözi az ökológiai gazdagsággal. Magában foglal egy széles homokos strandot, egy folyótorkolatot és száraz partmenti erdőket. A rezervátum tengeri teknősök fészkelőhelyeiről ismert, és védelmet nyújt a veszélyeztetett madárfajoknak.",
+      ro: "Rezervația naturală Fond d'Or de pe coasta de est îmbină siturile istorice cu bogăția ecologică. Aceasta cuprinde o plajă largă de nisip, un estuar și păduri de coastă uscate. Rezervația este cunoscută pentru locurile de cuibărit ale țestoaselor marine și oferă adăpost speciilor de păsări periclitate.",
+      en: "The Fond d'Or Nature Reserve on the east coast combines historical sites with ecological richness. It encompasses a wide sandy beach, a river estuary, and dry coastal forests. The reserve is known for sea turtle nesting sites and provides protection for endangered bird species amidst the rugged Atlantic surf.",
+    },
+    factsAdvanced: {
+      de: ["Nistplatz für Lederschildkröten (März bis August)", "Enthält Ruinen einer Zuckerplantage aus dem 19. Jh.", "Schutzgebiet für die seltene St. Lucia-Boa", "Vorkommen von Mangroven an der Flussmündung", "Wichtiger Korridor für den Vogelflug", "Verwaltet durch den Saint Lucia National Trust"],
+      hu: ["Kérgesteknősök fészkelőhelye (márciustól augusztusig)", "Egy 19. századi cukornádültetvény romjai találhatók itt", "A ritka Saint Lucia-i boa védett területe", "Mangroveerdők a folyótorkolatnál", "Fontos útvonal a madárvonulás számára", "A Saint Lucia National Trust kezeli"],
+      ro: ["Loc de cuibărit pentru țestoasele luth (martie-august)", "Conține ruinele unei plantații de zahăr din sec. XIX", "Zonă protejată pentru specia rară St. Lucia Boa", "Prezența mangrovelor la gura de vărsare a râului", "Coridor important pentru migrația păsărilor", "Administrat de Saint Lucia National Trust"],
+      en: ["Nesting site for Leatherback turtles (March-August)", "Contains 19th-century sugar plantation ruins", "Protected area for the rare St. Lucia Boa", "Presence of mangroves at the river mouth", "Important corridor for bird migration", "Managed by the Saint Lucia National Trust"],
+    },
   },
   {
     id: "saintlucia-latille-waterfalls-and-gardens-life-v2",
@@ -342,6 +546,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Variety of tropical fruits", "Natural fish pedicure available", "Ecologically managed site", "Trail leads through secondary forest"],
     },
     imageHint: "Latille Waterfalls lush vegetation",
+    descriptionAdvanced: {
+      de: "Latille Waterfalls and Gardens ist ein privates Naturschutzgebiet in der Nähe von Micoud, das für seine üppige Flora bekannt ist. Der Wasserfall stürzt in ein natürliches Becken, das von dichtem Regenwald umgeben ist. Die Gärten beherbergen eine Vielzahl von Heilpflanzen, tropischen Früchten und eine Fischtherapie-Station im Fluss.",
+      hu: "A Latille-vízesés és kertek egy Micoud közelében található magántermészetvédelmi terület, amely buja flórájáról ismert. A vízesés egy természetes medencébe zúdul, amelyet sűrű esőerdő vesz körül. A kertek számos gyógynövénynek, trópusi gyümölcsnek és a folyóban egy halterápiás állomásnak adnak otthont.",
+      ro: "Cascada și Grădinile Latille reprezintă o rezervație privată lângă Micoud, cunoscută pentru flora sa luxuriantă. Cascada se varsă într-un bazin natural înconjurat de pădure tropicală densă. Grădinile găzduiesc o varietate de plante medicinale, fructe tropicale și o stație de terapie cu pești în râu.",
+      en: "Latille Waterfalls and Gardens is a private nature reserve near Micoud, renowned for its lush flora. The waterfall cascades into a natural pool surrounded by dense rainforest. The gardens host a variety of medicinal plants, tropical fruits, and a fish therapy station within the river.",
+    },
+    factsAdvanced: {
+      de: ["Natürlicher Wasserfall mit ca. 6 Metern Höhe", "Becken mit Tilapia-Fischen für Fischpediküre", "Vielfalt an Helikonien und Ingwergewächsen", "Ökologisch bewirtschaftete Kräutergärten", "Lebensraum für Kolibris und tropische Schmetterlinge", "Gelegen im südöstlichen Regenwaldgürtel"],
+      hu: ["Körülbelül 6 méter magas természetes vízesés", "Tilápia halakkal teli medence halkezeléshez", "Helikóniák és gyömbérfélék változatossága", "Ökológiailag gondozott gyógynövénykertek", "Kolibrik és trópusi pillangók élőhelye", "A délkeleti esőerdő-övben található"],
+      ro: ["Cascadă naturală cu o înălțime de cca. 6 metri", "Bazin cu pești Tilapia pentru pedichiură cu pești", "Diversitate de heliconii și plante de ghimbir", "Grădini de plante medicinale cultivate ecologic", "Habitat pentru colibri și fluturi tropicali", "Situat în centura de pădure tropicală din sud-est"],
+      en: ["Natural waterfall approximately 6 meters high", "Pool with Tilapia fish for fish pedicures", "Diversity of heliconias and ginger plants", "Ecologically managed medicinal herb gardens", "Habitat for hummingbirds and tropical butterflies", "Located in the southeastern rainforest belt"],
+    },
   },
   {
     id: "saintlucia-marigot-bay-mangroves-life-v2",
@@ -361,6 +577,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Habitat for herons and kingfishers", "Vital for water quality", "Protection for young marine life", "Guided kayak tours available"],
     },
     imageHint: "Marigot Bay mangroves and kayaks",
+    descriptionAdvanced: {
+      de: "Die Mangroven am Ende der Marigot Bay bilden einen ökologisch sensiblen Bereich in einem der sichersten Naturhäfen der Karibik. Das System filtert Abwässer und schützt die Bucht vor Sedimentation. Diese Zone ist ein Rückzugsort für Wasservögel und dient als Fortpflanzungsstätte für zahlreiche Krebstierarten.",
+      hu: "A Marigot-öböl végén található mangroveerdők ökológiailag érzékeny területet alkotnak a Karib-térség egyik legbiztonságosabb természetes kikötőjében. A rendszer megszűri a vizet és védi az öblöt az eliszaposodástól. Ez a zóna a vízimadarak menedékhelye és számos rákféle szaporodási helye.",
+      ro: "Mangrovele din capătul Golfului Marigot formează o zonă ecologică sensibilă în unul dintre cele mai sigure porturi naturale din Caraibe. Sistemul filtrează apele și protejează golful de sedimentare. Această zonă este un refugiu pentru păsările acvatice și servește ca loc de reproducere pentru crustacee.",
+      en: "The mangroves at the head of Marigot Bay form an ecologically sensitive area within one of the Caribbean's safest natural harbors. The system filters runoff and protects the bay from sedimentation. This zone is a sanctuary for water birds and serves as a breeding ground for numerous crustacean species.",
+    },
+    factsAdvanced: {
+      de: ["Mangrovenwald im innersten Teil der Bucht", "Vorkommen der Weißen Mangrove (Laguncularia racemosa)", "Wichtiger Schutz gegen Hurrikan-Sturmfluten", "Lebensraum für den Silberreiher", "Natürliches Filtersystem für die Marina", "Teil eines geschützten marinen Ökosystems"],
+      hu: ["Mangroveerdő az öböl legbelső részén", "Fehér mangrove (Laguncularia racemosa) jelenléte", "Fontos védelem a hurrikánok okozta áradások ellen", "Nagy kócsagok élőhelye", "Természetes szűrőrendszer a kikötő számára", "Védett tengeri ökoszisztéma része"],
+      ro: ["Pădure de mangrove în partea interioară a golfului", "Prezența mangrovei albe (Laguncularia racemosa)", "Protecție importantă împotriva valurilor de uragan", "Habitat pentru egreta mare", "Sistem natural de filtrare pentru marină", "Parte a unui ecosistem marin protejat"],
+      en: ["Mangrove forest at the inner part of the bay", "Presence of white mangrove (Laguncularia racemosa)", "Critical protection against hurricane storm surges", "Habitat for the Great Egret", "Natural filtration system for the marina", "Part of a protected marine ecosystem"],
+    },
   },
   {
     id: "saintlucia-anse-chastanet-marine-national-park-life-v2",
@@ -380,6 +608,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Over 150 fish species documented", "Home to brain corals", "No fishing allowed in the park", "Popular snorkeling destination"],
     },
     imageHint: "Anse Chastanet coral reef fish",
+    descriptionAdvanced: {
+      de: "Der Anse Chastanet Marine National Park umfasst ein spektakuläres Riffsystem direkt vor der Westküste. Die Korallengärten beginnen nur wenige Meter vom Ufer entfernt und beherbergen über 150 Fischarten. Das Gebiet steht unter strengem Schutz, um die Gesundheit der Korallenriffe und die marine Biodiversität langfristig zu erhalten.",
+      hu: "Az Anse Chastanet Tengeri Nemzeti Park egy látványos zátonyrendszert foglal magában közvetlenül a nyugati partnál. A korallkertek mindössze néhány méterre kezdődnek a parttól, és több mint 150 halfajnak adnak otthont. A terület szigorú védelem alatt áll a korallzátonyok és a biológiai sokféleség megőrzése érdekében.",
+      ro: "Parcul Național Marin Anse Chastanet cuprinde un sistem spectaculos de recife chiar lângă coasta de vest. Grădinile de corali încep la doar câțiva metri de țărm și găzduiesc peste 150 de specii de pești. Zona este protejată strict pentru a menține sănătatea recifelor și biodiversitatea marină.",
+      en: "The Anse Chastanet Marine National Park encompasses a spectacular reef system directly off the west coast. The coral gardens begin just a few meters from the shore and host over 150 fish species. The area is under strict protection to maintain the health of the coral reefs and marine biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Über 150 dokumentierte Fischarten im Riff", "Vorkommen von Hirnkorallen und Fächerkorallen", "Strenge Fangverbotszonen für Fischer", "Beliebtes Revier für Meeresschildkröten", "Unmittelbare Nähe zu den Pitons", "Teil der Soufrière Marine Management Area"],
+      hu: ["Több mint 150 dokumentált halfaj a zátonyon", "Agykorallok és legyezőkorallok jelenléte", "Szigorú halászati tilalmi övezetek", "Tengeri teknősök kedvelt területe", "A Pitonok közvetlen közelében található", "A Soufrière Tengeri Kezelési Terület része"],
+      ro: ["Peste 150 de specii de pești documentate", "Prezența coralilor creier și a coralilor evantai", "Zone stricte cu interdicție de pescuit", "Zonă preferată de țestoasele marine", "Proximitate imediată față de munții Pitons", "Parte a Zonei de Management Marin Soufrière"],
+      en: ["Over 150 documented fish species in the reef", "Presence of brain corals and sea fans", "Strict no-take zones for fishing", "Popular area for sea turtles", "Immediate proximity to the Pitons", "Part of the Soufrière Marine Management Area"],
+    },
   },
   {
     id: "saintlucia-soufriere-marine-management-area-life-v2",
@@ -399,6 +639,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Established in 1995", "Model for sustainable tourism", "Protects whales and dolphins", "Includes the base of the Pitons"],
     },
     imageHint: "Saint Lucia marine management area coast",
+    descriptionAdvanced: {
+      de: "Die Soufrière Marine Management Area (SMMA) ist ein weltweit anerkanntes Modell für nachhaltiges Küstenmanagement. Gegründet 1994, regelt sie die Nutzung der Meeresressourcen zwischen Tourismus und Fischerei. Das Gebiet schützt kritische Korallenriffe und Seegraswiesen am Fuße der berühmten Pitons.",
+      hu: "A Soufrière Tengeri Kezelési Terület (SMMA) a fenntartható partmenti gazdálkodás világszerte elismert modellje. Az 1994-ben alapított szervezet szabályozza a tengeri erőforrások használatát a turizmus és a halászat között. A terület védi a kritikus korallzátonyokat a híres Pitonok lábánál.",
+      ro: "Zona de Management Marin Soufrière (SMMA) este un model recunoscut la nivel mondial pentru managementul durabil al coastelor. Fondată în 1994, aceasta reglementează utilizarea resurselor marine între turism și pescuit. Zona protejează recifele de corali critice de la baza faimoșilor munți Pitons.",
+      en: "The Soufrière Marine Management Area (SMMA) is a globally recognized model for sustainable coastal management. Established in 1994, it regulates the use of marine resources between tourism and fishing. The area protects critical coral reefs and seagrass beds at the base of the famous Pitons.",
+    },
+    factsAdvanced: {
+      de: ["Offizielle Gründung im Jahr 1994", "Einteilung in fünf verschiedene Schutzzonen", "Schutz von 12 km Küstenlinie", "Heimat für seltene Seepferdchen-Arten", "Wiederherstellung der Fischpopulationen", "Weltweites Vorbild für marinen Naturschutz"],
+      hu: ["Hivatalos alapítás 1994-ben", "Öt különböző védelmi zónára osztva", "12 km-nyi partvonalat védelmez", "Ritka csikóhal-fajok otthona", "A halpopulációk sikeres helyreállítása", "Világszintű példakép a tengeri természetvédelemben"],
+      ro: ["Înființată oficial în anul 1994", "Împărțită în cinci zone de protecție diferite", "Protejează 12 km de linie de coastă", "Găzduiește specii rare de căluți de mare", "Restaurarea populațiilor de pești", "Model global pentru conservarea marină"],
+      en: ["Officially established in 1994", "Divided into five different management zones", "Protects 12 km of coastline", "Home to rare seahorse species", "Successful recovery of fish populations", "Global model for marine conservation"],
+    },
   },
   {
     id: "saintlucia-canaries-anse-la-raye-marine-management-area-life-v2",
@@ -418,6 +670,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Important for sea turtles", "Includes steep underwater walls", "Rich in sponge species", "Protects local fish stocks"],
     },
     imageHint: "Underwater reef wall Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die CAMMA erstreckt sich entlang der zentralen Westküste und schützt die marinen Ressourcen vor den Dörfern Canaries und Anse La Raye. Sie kombiniert den Schutz von Korallenriffen mit der Förderung lokaler Fischerei. Das Gebiet ist reich an vulkanischen Unterwasserformationen und bietet Lebensraum für vielfältige pelagische Arten.",
+      hu: "A CAMMA a központi nyugati part mentén húzódik, védve a tengeri erőforrásokat Canaries és Anse La Raye falvak előtt. Ötvözi a korallzátonyok védelmét a helyi halászat támogatásával. A terület gazdag víz alatti vulkáni formációkban, és változatos nyílt tengeri fajoknak nyújt élőhelyet.",
+      ro: "CAMMA se întinde de-a lungul coastei de vest centrale, protejând resursele marine din fața satelor Canaries și Anse La Raye. Aceasta combină protecția recifelor de corali cu sprijinirea pescuitului local. Zona este bogată în formațiuni vulcanice subacvatice și oferă habitat pentru specii pelagice diverse.",
+      en: "The CAMMA extends along the central west coast, protecting marine resources offshore the villages of Canaries and Anse La Raye. It combines coral reef protection with the promotion of local sustainable fishing. The area is rich in volcanic underwater formations and provides habitat for diverse pelagic species.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebiet für Rifffische und Korallen", "Vulkanische Felsformationen unter Wasser", "Regulierung der handwerklichen Fischerei", "Vorkommen von Barrakudas und Makrelen", "Förderung des Ökotourismus in den Dörfern", "Teil des nationalen Systems für Meeresreservate"],
+      hu: ["Zátonyhalak és korallok védett területe", "Víz alatti vulkáni kőzetformációk", "A kézműves halászat szabályozása", "Barrakudák és makrélák jelenléte", "Ökoturizmus ösztönzése a falvakban", "A nemzeti tengeri rezervátumrendszer része"],
+      ro: ["Zonă protejată pentru pești de recif și corali", "Formațiuni stâncoase vulcanice subacvatice", "Reglementarea pescuitului artizanal", "Prezența baracudelor și a macroului", "Promovarea ecoturismului în sate", "Parte a sistemului național de rezervații marine"],
+      en: ["Protected area for reef fish and corals", "Volcanic rock formations underwater", "Regulation of artisanal fishing practices", "Presence of barracudas and mackerels", "Promotion of ecotourism in local villages", "Part of the national marine reserve system"],
+    },
   },
   {
     id: "saintlucia-pigeon-island-nature-focus-life-v2",
@@ -437,6 +701,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Home to Magnificent Frigatebirds", "Contains rare cacti", "Coastal reefs for snorkeling", "Variety of lizard species"],
     },
     imageHint: "Pigeon Island dry forest landscape",
+    descriptionAdvanced: {
+      de: "Pigeon Island ist ein Nationalpark im Norden, der für seine trockenen Küstenwälder und seltenen Reptilien bekannt ist. Neben seiner historischen Bedeutung bietet der Park Lebensraum für bedrohte Vogelarten und endemische Eidechsen. Die umliegenden Gewässer beherbergen gesunde Seegraswiesen, die als Futterplatz für Schildkröten dienen.",
+      hu: "A Pigeon Island egy északi nemzeti park, amely száraz partmenti erdőiről és ritka hüllőiről ismert. Történelmi jelentősége mellett a park veszélyeztetett madárfajoknak és endemikus gyíkoknak nyújt élőhelyet. A környező vizek egészséges tengerifű-mezőknek adnak otthont, amelyek a teknősök táplálkozóhelyei.",
+      ro: "Pigeon Island este un parc național din nord, cunoscut pentru pădurile sale de coastă uscate și reptilele rare. Pe lângă importanța istorică, parcul oferă habitat speciilor de păsări periclitate și șopârlelor endemice. Apele înconjurătoare găzduiesc pajiști cu iarbă de mare sănătoase, locuri de hrănire pentru țestoase.",
+      en: "Pigeon Island is a national park in the north, known for its dry coastal forests and rare reptiles. Beyond its historical significance, the park provides habitat for endangered bird species and endemic lizards. The surrounding waters host healthy seagrass beds that serve as foraging grounds for turtles.",
+    },
+    factsAdvanced: {
+      de: ["Lebensraum der endemischen St. Lucia-Bunt-Eidechse", "Vorkommen des Prachtfregattvogels an den Klippen", "Wichtige Seegraswiesen für Grüne Meeresschildkröten", "Trockenwald-Vegetation mit Gummibäumen", "Status als Nationalpark seit 1979", "Nistplätze für verschiedene Seevögel"],
+      hu: ["Az endemikus Saint Lucia-i tarka gyík élőhelye", "Pompás fregattmadarak jelenléte a sziklákon", "Fontos tengerifű-mezők a zöld teknősök számára", "Száraz erdei vegetáció gumiádámfákkal", "1979 óta nemzeti park", "Különböző tengeri madarak fészkelőhelye"],
+      ro: ["Habitat pentru șopârla endemică St. Lucia Whiptail", "Prezența fregatei mari pe stâncile de coastă", "Pajiști de iarbă de mare pentru țestoasele verzi", "Vegetație de pădure uscată cu arbori de gumă", "Statut de parc național din 1979", "Locuri de cuibărit pentru diverse păsări marine"],
+      en: ["Habitat for the endemic St. Lucia Whiptail lizard", "Presence of Magnificent Frigatebirds on cliffs", "Crucial seagrass beds for Green Sea Turtles", "Dry forest vegetation with gum trees", "National Park status since 1979", "Nesting sites for various seabird species"],
+    },
   },
   {
     id: "saintlucia-roseau-river-wetlands-life-v2",
@@ -456,6 +732,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Most important banana growing area", "Home to the Saint Lucia Oriole", "Large mangrove stands", "Habitat for freshwater crabs"],
     },
     imageHint: "Roseau river valley lush green",
+    descriptionAdvanced: {
+      de: "Die Roseau River Wetlands bilden eines der größten Fluss-Ökosysteme auf St. Lucia. Dieses Feuchtgebiet ist von ausgedehnten Bananenplantagen und Mangrovenbeständen umgeben. Es spielt eine entscheidende Rolle für den Wasserhaushalt der Insel und bietet zahlreichen einheimischen Wasservögeln sowie Zugvögeln einen sicheren Rückzugsort.",
+      hu: "A Roseau-folyó mocsaras területei Saint Lucia egyik legnagyobb folyami ökoszisztémáját alkotják. Ezt a vizes élőhelyet kiterjedt banánültetvények és mangroveerdők veszik körül. Döntő szerepet játszik a sziget vízháztartásában, és számos őshonos vízimadárnak, valamint vándormadárnak nyújt biztonságos menedéket.",
+      ro: "Zonele umede ale râului Roseau formează unul dintre cele mai mari ecosisteme fluviale din Sfânta Lucia. Această zonă umedă este înconjurată de plantații extinse de bananieri și zone de mangrove. Joacă un rol crucial în gestionarea apei pe insulă și oferă refugiu pentru numeroase păsări acvatice native și migratoare.",
+      en: "The Roseau River Wetlands form one of the largest river ecosystems in Saint Lucia. This wetland area is surrounded by extensive banana plantations and mangrove stands. It plays a crucial role in the island's water management and provides a safe sanctuary for numerous native waterbirds and migratory species.",
+    },
+    factsAdvanced: {
+      de: ["Eines der größten Feuchtgebiete der Insel", "Vorkommen der Karibischen Blässralle", "Wichtiger Filter für landwirtschaftliche Abwässer", "Lebensraum für Süßwasserkrebse", "Bedeutendes Gebiet für die Vogelbeobachtung", "Schutzwall gegen landeinwärts dringendes Salzwasser"],
+      hu: ["A sziget egyik legnagyobb vizes élőhelye", "Karibi szárcsák jelenléte", "Fontos szűrő a mezőgazdasági elfolyó víz számára", "Édesvízi rákok élőhelye", "Jelentős terület a madármegfigyelők számára", "Védőgát a beáramló sós víz ellen"],
+      ro: ["Una dintre cele mai mari zone umede de pe insulă", "Prezența lișiței din Caraibe", "Filtru important pentru reziduurile agricole", "Habitat pentru racii de apă dulce", "Zonă semnificativă pentru observarea păsărilor", "Barieră împotriva pătrunderii apei sărate în interior"],
+      en: ["One of the largest wetlands on the island", "Presence of the Caribbean Coot", "Critical filter for agricultural runoff", "Habitat for freshwater crayfish", "Significant area for birdwatching", "Barrier against saltwater intrusion inland"],
+    },
   },
   {
     id: "saintlucia-troumassee-river-delta-life-v2",
@@ -475,6 +763,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Presence of river snails", "Important for local fisheries", "Bank vegetation is densely forested", "Strong sediment transport to the sea"],
     },
     imageHint: "Troumassee river mouth Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Troumassee River Delta liegt an der Südostküste bei Micoud und ist ein ökologisch wertvolles Ästuar. Die Mischzone von Fluss- und Meerwasser ist reich an Nährstoffen und unterstützt eine dichte Mangrovenvegetation. Es dient als wichtiger Puffer zwischen der landwirtschaftlichen Nutzung im Landesinneren und dem empfindlichen marinen Ökosystem.",
+      hu: "A Troumassee-folyó deltája a délkeleti parton, Micoud közelében található, és ökológiailag értékes torkolat. A folyó- és tengervíz keveredési zónája tápanyagokban gazdag, és sűrű mangrove-vegetációt tart fenn. Fontos pufferzónaként szolgál a belső mezőgazdasági területek és az érzékeny tengeri ökoszisztéma között.",
+      ro: "Delta râului Troumassee se află pe coasta de sud-est, lângă Micoud, fiind un estuar valoros din punct de vedere ecologic. Zona de amestec a apei fluviale cu cea marină este bogată în nutrienți și susține o vegetație densă de mangrove. Servește ca tampon între agricultură și ecosistemul marin fragil.",
+      en: "The Troumassee River Delta is located on the southeast coast near Micoud and is an ecologically valuable estuary. The mixing zone of river and seawater is rich in nutrients and supports dense mangrove vegetation. It serves as an important buffer between inland agricultural activities and the fragile marine ecosystem.",
+    },
+    factsAdvanced: {
+      de: ["Größtes Ästuar an der Südostküste", "Vorkommen von Roten und Schwarzen Mangroven", "Brutstätte für die Grüne Meeresschildkröte", "Vorkommen von Snook-Fischen im Brackwasser", "Wichtiger Sedimentfänger für den Atlantik", "Lebensraum für Reiher und Ibisse"],
+      hu: ["A délkeleti part legnagyobb torkolata", "Vörös és fekete mangrove jelenléte", "A zöld teknősök szaporodóhelye", "Snook halak jelenléte a félsós vízben", "Fontos üledékfogó az Atlanti-óceán felé", "Gémek és íbiszek élőhelye"],
+      ro: ["Cel mai mare estuar de pe coasta de sud-est", "Prezența mangrovelor roșii și negre", "Loc de reproducere pentru țestoasa verde", "Prezența peștilor Snook în apele salmastre", "Capcană importantă de sedimente pentru Atlantic", "Habitat pentru stârci și ibiși"],
+      en: ["Largest estuary on the southeast coast", "Presence of red and black mangroves", "Breeding site for the Green Sea Turtle", "Presence of snook fish in brackish water", "Critical sediment trap for the Atlantic", "Habitat for herons and ibises"],
+    },
   },
   {
     id: "saintlucia-cul-de-sac-river-wetlands-life-v2",
@@ -494,6 +794,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Significant fish breeding site", "Contains Red Mangroves", "Filters runoff into the sea", "Seabird sightings are frequent"],
     },
     imageHint: "Cul de Sac river mangroves",
+    descriptionAdvanced: {
+      de: "Die Cul de Sac River Wetlands erstrecken sich südlich der Hauptstadt Castries in einem breiten Tal. Trotz industrieller Nachbarschaft beherbergt das Gebiet wichtige Mangrovenbestände und Süßwassersümpfe. Es fungiert als natürliches Rückhaltebecken bei Starkregen und ist ein bedeutender Lebensraum für lokale Fischarten und Wasservögel.",
+      hu: "A Cul de Sac-folyó mocsaras területei a fővárostól, Castriestől délre, egy széles völgyben húzódnak. Az ipari környezet ellenére a terület jelentős mangroveerdőknek és édesvízi mocsaraknak ad otthont. Természetes vízvisszatartó medenceként működik heves esőzésekkor, és fontos élőhelye a helyi halaknak és vízimadaraknak.",
+      ro: "Zonele umede ale râului Cul de Sac se întind la sud de capitala Castries, într-o vale largă. În ciuda vecinătății industriale, zona găzduiește mangrove importante și mlaștini cu apă dulce. Funcționează ca un bazin natural de retenție în timpul ploilor torențiale și este un habitat semnificativ pentru pești și păsări.",
+      en: "The Cul de Sac River Wetlands extend south of the capital, Castries, within a broad valley. Despite industrial neighbors, the area hosts important mangrove stands and freshwater marshes. It functions as a natural detention basin during heavy rains and is a significant habitat for local fish species and waterbirds.",
+    },
+    factsAdvanced: {
+      de: ["Großflächiges Entwässerungsbecken für Nord-St. Lucia", "Schutz der Bucht vor industriellen Sedimenten", "Vorkommen des Gelbbrust-Waldsängers", "Wichtiges Sumpfgebiet für den Küstenschutz", "Lebensraum für verschiedene Libellenarten", "Regulierung des Grundwasserspiegels im Tal"],
+      hu: ["Észak-Saint Lucia nagyméretű vízelvezető medencéje", "Védi az öblöt az ipari üledékektől", "Sárgatorkú lombjárók jelenléte", "Fontos mocsári terület a partvédelemhez", "Különböző szitakötőfajok élőhelye", "A völgy talajvízszintjének szabályozása"],
+      ro: ["Bazin de drenaj la scară largă pentru nordul insulei", "Protejează golful de sedimentele industriale", "Prezența parulidului cu piept galben", "Zonă de mlaștină importantă pentru protecția coastei", "Habitat pentru diverse specii de libelule", "Reglarea nivelului pânzei freatice în vale"],
+      en: ["Large-scale drainage basin for northern St. Lucia", "Protects the bay from industrial sediments", "Presence of the Yellow Warbler", "Critical marsh area for coastal protection", "Habitat for various dragonfly species", "Regulation of groundwater levels in the valley"],
+    },
   },
   {
     id: "saintlucia-marquis-river-mangroves-life-v2",
@@ -513,6 +825,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Important for Green Sea Turtles", "Home to Black Mangroves", "Nesting site for Yellow-crowned Night Herons", "High ecological value"],
     },
     imageHint: "Marquis river northeast coast",
+    descriptionAdvanced: {
+      de: "Die Marquis River Mangroven an der Nordostküste liegen in einem abgelegenen Gebiet mit geringem menschlichem Einfluss. Diese Isolation macht sie zu einem idealen Brutgebiet für seltene Seevögel und Reptilien. Das Flusssystem mündet in eine unberührte Bucht, in der die Mangroven das Wasser klären und die Korallenriffe vor Schlamm schützen.",
+      hu: "A Marquis-folyó mangroveerdei az északkeleti parton egy távoli, kevés emberi hatásnak kitett területen találhatók. Ez az elszigeteltség ideális szaporodóhellyé teszi a ritka tengeri madarak és hüllők számára. A folyórendszer egy érintetlen öbölbe torkollik, ahol a mangrove megtisztítja a vizet és védi a korallzátonyokat.",
+      ro: "Mangrovele râului Marquis de pe coasta de nord-est sunt situate într-o zonă izolată, cu impact uman redus. Această izolare le face un loc ideal de reproducere pentru păsări marine rare și reptile. Sistemul fluvial se varsă într-un golf curat, unde mangrovele purifică apa și protejează recifele de corali.",
+      en: "The Marquis River mangroves on the northeast coast are located in a remote area with low human impact. This isolation makes them an ideal breeding ground for rare seabirds and reptiles. The river system empties into a pristine bay where the mangroves clarify the water and protect coral reefs from siltation.",
+    },
+    factsAdvanced: {
+      de: ["Abgelegener Mangrovenwald im Nordosten", "Vorkommen der seltenen St. Lucia-Schlange", "Wichtiger Nistplatz für Brauntölpel", "Naturbelassenes Ökosystem ohne Massentourismus", "Schutz der Marquis Bay vor Erosion", "Vielfalt an tropischen Krabbenarten"],
+      hu: ["Távoli mangroveerdő az északkeleti részen", "A ritka Saint Lucia-i sikló jelenléte", "A barna szulák fontos fészkelőhelye", "Természetközeli ökoszisztéma tömegturizmus nélkül", "Védi a Marquis-öblöt az eróziótól", "Trópusi rákfajok változatossága"],
+      ro: ["Pădure de mangrove izolată în nord-est", "Prezența șarpelui rar St. Lucia Racer", "Loc de cuibărit important pentru corbul de mare brun", "Ecosistem natural fără turism de masă", "Protejează Golful Marquis de eroziune", "Diversitate de specii de crabi tropicali"],
+      en: ["Remote mangrove forest in the northeast", "Presence of the rare St. Lucia Racer snake", "Important nesting site for Brown Boobies", "Pristine ecosystem without mass tourism", "Protects Marquis Bay from erosion", "Diversity of tropical crab species"],
+    },
   },
   {
     id: "saintlucia-fond-st-jacques-forest-life-v2",
@@ -532,6 +856,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Home to the Saint Lucia Parrot", "Rich in endemic orchids", "Steep mountain slopes with rainforest", "Crucial for local water catchment"],
     },
     imageHint: "Lush tropical forest slope",
+    descriptionAdvanced: {
+      de: "Der Fond St. Jacques Forest ist ein dichter Primärregenwald im Landesinneren von Soufrière. Dieses Gebiet ist einer der letzten Rückzugsorte für den endemischen St. Lucia-Papagei. Die hohe Feuchtigkeit und die dichte Baumkrone fördern ein extrem artenreiches Ökosystem mit Farnen, Orchideen und seltenen tropischen Baumriesen.",
+      hu: "A Fond St. Jacques erdő egy sűrű elsődleges esőerdő Soufrière belsejében. Ez a terület az endemikus Saint Lucia-i papagáj egyik utolsó menedékhelye. A magas páratartalom és a sűrű lombkorona rendkívül fajgazdag ökoszisztémát tart fenn páfrányokkal, orchideákkal és ritka trópusi óriásfákkal.",
+      ro: "Pădurea Fond St. Jacques este o pădure tropicală primară densă în interiorul regiunii Soufrière. Această zonă este unul dintre ultimele refugii pentru papagalul endemic St. Lucia. Umiditatea ridicată și coronamentul dens susțin un ecosistem extrem de divers, cu ferigi, orhidee și arbori giganți rari.",
+      en: "The Fond St. Jacques Forest is a dense primary rainforest located in the interior near Soufrière. This area is one of the last strongholds for the endemic St. Lucia Parrot (Amazona versicolor). The high humidity and closed canopy support an extremely biodiverse ecosystem with ferns, orchids, and rare tropical hardwood trees.",
+    },
+    factsAdvanced: {
+      de: ["Hauptlebensraum des St. Lucia-Papageis", "Vorkommen von über 50 Farnarten", "Region mit den höchsten Niederschlagsmengen", "Teil des zentralen Waldreservats", "Standort riesiger Gommier-Bäume", "Zentrum für biologische Forschung auf der Insel"],
+      hu: ["A Saint Lucia-i papagáj fő élőhelye", "Több mint 50 páfrányfaj jelenléte", "A legmagasabb csapadékmennyiségű régió", "A központi erdőrezervátum része", "Hatalmas gommier fák találhatók itt", "A sziget biológiai kutatásainak központja"],
+      ro: ["Habitat principal al papagalului St. Lucia", "Prezența a peste 50 de specii de ferigi", "Regiunea cu cele mai mari cantități de precipitații", "Parte a rezervației forestiere centrale", "Locul unde se găsesc arbori Gommier uriași", "Centru pentru cercetarea biologică pe insulă"],
+      en: ["Main habitat for the St. Lucia Parrot", "Presence of over 50 species of ferns", "Region with the highest rainfall amounts", "Part of the Central Forest Reserve", "Home to giant Gommier trees", "Center for biological research on the island"],
+    },
   },
   {
     id: "saintlucia-barre-de-lisle-forest-life-v2",
@@ -551,6 +887,18 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Offers panoramic views of both coasts", "Home to the Blue-headed Hummingbird", "Contains mahogany plantations", "Popular hiking area"],
     },
     imageHint: "Barre de l'Isle forest ridge",
+    descriptionAdvanced: {
+      de: "Die Barre de l'Isle Forest liegt auf dem zentralen Gebirgskamm, der St. Lucia in eine Ost- und eine Westseite teilt. Der Wald ist durch steile Hänge und nebelverhangene Gipfel geprägt. Als wichtiges Wassereinzugsgebiet speist er zahlreiche Flüsse der Insel und beherbergt eine Vielzahl von montanen Regenwaldpflanzen.",
+      hu: "A Barre de l'Isle erdő a központi hegygerincen található, amely Saint Luciát egy keleti és egy nyugati oldalra osztja. Az erdőt meredek lejtők és ködbe burkolózó csúcsok jellemzik. Fontos vízgyűjtő területként a sziget számos folyóját táplálja, és számos hegyi esőerdei növénynek ad otthont.",
+      ro: "Pădurea Barre de l'Isle este situată pe creasta muntoasă centrală care împarte Sfânta Lucia în coasta de est și cea de vest. Pădurea este marcată de pante abrupte și vârfuri acoperite de ceață. Ca bazin hidrografic important, alimentează numeroase râuri ale insulei și găzduiește plante montane diverse.",
+      en: "The Barre de l'Isle Forest sits on the central ridge that divides Saint Lucia into east and west sides. The forest is characterized by steep slopes and mist-covered peaks. As a crucial watershed, it feeds numerous rivers on the island and hosts a wide variety of montane rainforest flora.",
+    },
+    factsAdvanced: {
+      de: ["Zentraler Gebirgskamm mit Panoramablick", "Wichtigstes Wassereinzugsgebiet der Insel", "Vorkommen des Purpurkehlkolibris", "Wanderweg entlang der kontinentalen Wasserscheide", "Beherbergt endemische Baumfarn-Arten", "Schutzgebiet für den St. Lucia-Schwarzvogel"],
+      hu: ["Központi hegygerinc panorámás kilátással", "A sziget legfontosabb vízgyűjtő területe", "Bíbortorkú kolibrik jelenléte", "Túraútvonal a kontinentális vízválasztó mentén", "Endemikus páfrányfáknak ad otthont", "A Saint Lucia-i feketerigó védett területe"],
+      ro: ["Creastă muntoasă centrală cu vederi panoramice", "Cel mai important bazin hidrografic al insulei", "Prezența colibriului cu gât purpuriu", "Traseu de drumeție de-a lungul cumpenei apelor", "Găzduiește specii endemice de ferigi arborescente", "Zonă protejată pentru pasărea St. Lucia Blackbird"],
+      en: ["Central ridge offering panoramic views", "Most important watershed on the island", "Presence of the Purple-throated Carib", "Hiking trail along the continental divide", "Home to endemic tree fern species", "Protected area for the St. Lucia Blackbird"],
+    },
   },
   {
     id: "saintlucia-mount-gimie-forest-life-v2",
@@ -570,5 +918,17 @@ export const saintluciaLifeV2: POI[] = [
       en: ["Highest point at 950 meters", "Home to the Saint Lucia Trogon", "Extreme humidity and mist", "Unique mountain orchids"],
     },
     imageHint: "Mount Gimie cloud forest summit",
+    descriptionAdvanced: {
+      de: "Das Mount Gimie Waldreservat umfasst das größte zusammenhängende Regenwaldgebiet auf St. Lucia. Es dient als kritischer Lebensraum für endemische Arten wie die St. Lucia-Amazone. Die Vegetation reicht von Tieflandregenwald bis hin zu Elfenwäldern in den höheren Lagen. Zahlreiche Wasserläufe entspringen in diesem geschützten Ökosystem.",
+      hu: "A Mount Gimie erdőrezervátum Saint Lucia legnagyobb összefüggő esőerdő területét foglalja magában. Kritikus élőhelyként szolgál olyan endemikus fajok számára, mint a kékmaszkos amazonpapagáj. A növényzet az alföldi esőerdőktől a magasabb szinteken található köderdőkig terjed. Számos vízfolyás ered ebből a védett ökoszisztémából.",
+      ro: "Rezervația forestieră Mount Gimie cuprinde cea mai mare zonă continuă de pădure tropicală din Sfânta Lucia. Aceasta servește ca habitat critic pentru specii endemice, cum ar fi papagalul de Sfânta Lucia. Vegetația variază de la pădurea tropicală de joasă altitudine până la pădurile pitice din zonele înalte. Numeroase cursuri de apă izvorăsc din acest ecosistem protejat.",
+      en: "The Mount Gimie Forest Reserve encompasses the largest contiguous rainforest area on Saint Lucia. It serves as a critical habitat for endemic species such as the Saint Lucia Parrot. The vegetation ranges from lowland rainforest to elfin forests at higher elevations. Numerous watercourses originate within this protected ecosystem, sustaining the island's water supply.",
+    },
+    factsAdvanced: {
+      de: ["Größtes Waldreservat der Insel St. Lucia.", "Heimat der endemischen Amazona versicolor.", "Jährlicher Niederschlag übersteigt oft 3000 mm.", "Beinhaltet seltene Bergnebelwälder oberhalb 800 m.", "Quelle für mehrere wichtige Flusssysteme der Insel.", "Seit dem 20. Jahrhundert unter staatlichem Schutz."],
+      hu: ["Saint Lucia legnagyobb erdőrezervátuma.", "Az endemikus Amazona versicolor papagáj otthona.", "Az éves csapadékmennyiség gyakran meghaladja a 3000 mm-t.", "Ritka hegyi köderdőket tartalmaz 800 méter felett.", "A sziget több fontos folyórendszerének forrásvidéke.", "A 20. század óta állami védelem alatt áll."],
+      ro: ["Cea mai mare rezervație forestieră din Sfânta Lucia.", "Habitat pentru specia endemică Amazona versicolor.", "Precipitațiile anuale depășesc adesea 3000 mm.", "Conține păduri de nori rare la peste 800 m altitudine.", "Sursă pentru mai multe sisteme fluviale importante.", "Sub protecție guvernamentală din secolul al XX-lea."],
+      en: ["Largest forest reserve on the island of Saint Lucia.", "Primary habitat for the endemic Amazona versicolor.", "Annual rainfall often exceeds 3,000 mm.", "Features rare cloud forests above 800 meters.", "Source for several major river systems on the island.", "Under government protection since the 20th century."],
+    },
   }
 ];

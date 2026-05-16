@@ -19,6 +19,18 @@ export const nauruReliefV2: POI[] = [
       en: ["Steep natural escarpment", "Adjacent to Anibare Bay", "Part of the plateau's edge", "Distinct geological formation"],
     },
     imageHint: "Anibare Bay cliffs and escarpment Nauru",
+    descriptionAdvanced: {
+      de: "Die Anibare-Schichtstufe ist eine markante geologische Formation an der Ostküste Naurus, die durch einen prähistorischen Erdrutsch entstand. Die steilen Kalksteinfelsen ragen bis zu 60 Meter über den Meeresspiegel und bieten spektakuläre Ausblicke über die Anibare-Bucht. Sie bildet die natürliche Grenze zwischen dem zentralen Plateau und dem Küstenstreifen.",
+      hu: "Az Anibare-lépcső egy jellegzetes geológiai képződmény Nauru keleti partján, amely egy őskori földcsuszamlás során jött létre. A meredek mészkősziklák akár 60 méterrel a tengerszint fölé magasodnak, látványos kilátást nyújtva az Anibare-öbölre. Természetes határt képez a központi fennsík és a parti sáv között.",
+      ro: "Escarpamentul Anibare este o formațiune geologică proeminentă de pe coasta de est a Nauru, creată de o alunecare de teren preistorică. Stâncile abrupte de calcar se ridică până la 60 de metri deasupra nivelului mării și oferă vederi spectaculoase asupra golfului Anibare. Formează granița naturală între platoul central și fâșia de coastă.",
+      en: "The Anibare Escarpment is a prominent geological formation on Nauru's eastern coast, created by a massive prehistoric underwater landslide. These steep limestone cliffs rise up to 60 meters above sea level, offering dramatic views over Anibare Bay. It serves as the natural boundary between the central plateau and the coastal plain.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe von etwa 60 Metern", "Entstand vor ca. 30.000 Jahren durch einen Hangrutsch", "Besteht aus massivem Korallenkalkstein", "Wichtiger Nistplatz für die Nauru-Karolinenralle", "Steilster Abschnitt der gesamten Inseltopografie", "Beliebter Aussichtspunkt für Touristen"],
+      hu: ["Maximális magassága kb. 60 méter", "Kb. 30 000 éve jött létre egy földcsuszamlás során", "Masszív korallmészkőből épül fel", "A naurui nádiposzáta fontos nészkelőhelye", "A sziget topográfiájának legmeredekebb szakasza", "A turisták kedvelt kilátópontja"],
+      ro: ["Înălțimea maximă de aproximativ 60 de metri", "Format acum circa 30.000 de ani printr-o alunecare", "Compus din calcar coraligen masiv", "Loc important de cuibărit pentru păsările locale", "Cea mai abruptă secțiune a topografiei insulei", "Punct de belvedere popular pentru turiști"],
+      en: ["Maximum height of approximately 60 meters", "Formed about 30,000 years ago by a structural failure", "Composed of massive coral limestone", "Key nesting habitat for indigenous bird species", "Steepest section of the entire island topography", "Popular vantage point for viewing the eastern coastline"],
+    },
   },
   {
     id: "nauru-buada-basin-relief-v2",
@@ -38,6 +50,18 @@ export const nauruReliefV2: POI[] = [
       en: ["Lower-lying basin in plateau", "Home to the Buada Lagoon", "Most fertile soil on the island", "Largely spared from mining"],
     },
     imageHint: "Buada Lagoon basin aerial view Nauru",
+    descriptionAdvanced: {
+      de: "Das Buada-Becken ist eine zentrale Senke im Inneren Naurus, in der sich die gleichnamige Lagune befindet. Geologisch handelt es sich um eine Karstdepression, die tiefer liegt als das umgebende Phosphat-Plateau. Dieses Gebiet ist der fruchtbarste Teil der Insel und ermöglichte historisch eine kleinräumige Landwirtschaft.",
+      hu: "A Buada-medence Nauru belsejének központi mélyedése, ahol az azonos nevű lagúna található. Geológiailag ez egy karsztos depresszió, amely mélyebben fekszik, mint a környező foszfátfennsík. Ez a terület a sziget legtermékenyebb része, amely történelmileg lehetővé tette a kisléptékű mezőgazdaságot.",
+      ro: "Bazinul Buada este o depresiune centrală din interiorul Nauru, unde se află laguna cu același nume. Din punct de vedere geologic, este o depresiune carstică situată mai jos decât platoul de fosfat înconjurător. Această zonă este cea mai fertilă parte a insulei și a permis istoric o agricultură la scară mică.",
+      en: "The Buada Basin is a central depression in Nauru's interior, housing the island's only significant lagoon. Geologically, it is a karstic depression situated lower than the surrounding phosphate plateau. This area is the most fertile part of the island and has historically supported small-scale subsistence agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Einzige nennenswerte Senke im Landesinneren", "Beherbergt die brackige Buada-Lagune", "Boden ist reich an organischem Material", "Wichtigster Ort für den Anbau von Obst und Gemüse", "Liegt etwa 5-10 Meter unter dem Plateauniveau", "Sammelt bei Regen das Oberflächenwasser der Umgebung"],
+      hu: ["Az egyetlen jelentős szárazföldi mélyedés", "Itt található a brakkvizes Buada-lagúna", "A talaj gazdag szerves anyagokban", "A gyümölcs- és zöldségtermesztés legfontosabb helye", "Kb. 5-10 méterrel fekszik a fennsík szintje alatt", "Esőzéskor összegyűjti a környező felszíni vizeket"],
+      ro: ["Singura depresiune interioară notabilă", "Găzduiește laguna salmastră Buada", "Solul este bogat în materie organică", "Cel mai important loc pentru cultivarea fructelor", "Situat la 5-10 metri sub nivelul platoului", "Colectează apa de suprafață în timpul ploilor"],
+      en: ["Nauru's only significant inland depression", "Contains the brackish water Buada Lagoon", "Soil is rich in organic matter compared to the coast", "Primary location for domestic fruit and vegetable cultivation", "Situated 5-10 meters below the surrounding plateau", "Acts as a natural catchment for surface runoff"],
+    },
   },
   {
     id: "nauru-western-slopes-relief-v2",
@@ -57,6 +81,18 @@ export const nauruReliefV2: POI[] = [
       en: ["Steep descent to the coast", "Elevation drop of approx 60m", "Adjacent to residential areas", "Views over the Pacific Ocean"],
     },
     imageHint: "Nauru western slopes towards Aiwo",
+    descriptionAdvanced: {
+      de: "Die Westhänge markieren den Übergang vom zentralen Plateau zur schmalen Küstenebene in den Distrikten Aiwo und Denigomodu. Dieses Gelände ist durch terrassenartige Stufen und steile Pfade gekennzeichnet, die oft künstlich für den Bergbau modifiziert wurden. Es bietet strategische Positionen, die im Zweiten Weltkrieg militärisch genutzt wurden.",
+      hu: "A nyugati lejtők jelzik az átmenetet a központi fennsík és a keskeny parti síkság között Aiwo és Denigomodu körzetekben. Ezt a terepet teraszos lépcsők és meredek ösvények jellemzik, amelyeket gyakran mesterségesen módosítottak a bányászat során. Stratégiai pozíciókat kínál, amelyeket a második világháborúban katonailag kihasználtak.",
+      ro: "Versanții vestici marchează tranziția de la platoul central la câmpia costieră îngustă în districtele Aiwo și Denigomodu. Acest teren este caracterizat prin trepte terasate și poteci abrupte, adesea modificate artificial pentru minerit. Oferă poziții strategice care au fost utilizate militar în al Doilea Război Mondial.",
+      en: "The Western Slopes mark the transition from the central plateau to the narrow coastal plain in the Aiwo and Denigomodu districts. This terrain is characterized by terraced steps and steep paths, many of which were artificially modified for mining operations. It provides strategic vantage points that were heavily utilized during World War II.",
+    },
+    factsAdvanced: {
+      de: ["Verbindungszone zwischen Küste und Plateau", "Standort vieler Bergbau-Infrastrukturen", "Enthält Überreste japanischer Bunker aus dem 2. Weltkrieg", "Bietet weite Ausblicke auf den Hafen von Aiwo", "Gefährdet durch Hangrutsche nach Starkregen", "Vegetation besteht meist aus Sekundärwald"],
+      hu: ["Összekötő zóna a part és a fennsík között", "Számos bányászati infrastruktúra helyszíne", "Japán bunkerek maradványait tartalmazza a II. vh-ból", "Széles kilátást nyújt Aiwo kikötőjére", "Heves esőzések után földcsuszamlásveszélyes", "A növényzet leginkább másodlagos erdőből áll"],
+      ro: ["Zonă de legătură între coastă și platou", "Locația multor infrastructuri miniere", "Conține resturi de buncăre japoneze din al Doilea Război Mondial", "Oferă vederi largi asupra portului Aiwo", "Risc de alunecări de teren după ploi torențiale", "Vegetația constă în principal din pădure secundară"],
+      en: ["Crucial link zone between the coast and the plateau", "Site of extensive historical mining infrastructure", "Contains remnants of Japanese WWII bunkers", "Offers expansive views of the Aiwo harbor", "Vulnerable to landslides following heavy rainfall", "Vegetation consists primarily of secondary growth"],
+    },
   },
   {
     id: "nauru-northern-uplands-relief-v2",
@@ -76,6 +112,18 @@ export const nauruReliefV2: POI[] = [
       en: ["Part of the coral plateau", "Characterized by karst forms", "Located in the island's north", "Sparse vegetation coverage"],
     },
     imageHint: "Nauru northern plateau rocky landscape",
+    descriptionAdvanced: {
+      de: "Das nördliche Hochland umfasst die erhöhten Gebiete der Distrikte Ewa und Anetan, die stark durch den Phosphatabbau geformt wurden. Hier finden sich ausgedehnte Felder von freigelegten Kalksteinpfeilern, die eine fast unwegsame Landschaft bilden. Diese Region ist von hoher ökologischer Sensibilität, da sie den Abfluss in die nördlichen Küstendörfer reguliert.",
+      hu: "Az északi felföld Ewa és Anetan körzetek magasabban fekvő területeit foglalja magában, amelyeket erősen formált a foszfátbányászat. Itt feltárt mészkőoszlopok kiterjedt mezői találhatók, amelyek szinte járhatatlan tájat alkotnak. Ez a régió ökológiailag érzékeny, mivel szabályozza az északi parti falvakba irányuló vízelvezetést.",
+      ro: "Podișul nordic cuprinde zonele înalte ale districtelor Ewa și Anetan, care au fost puternic modelate de extracția fosfaților. Aici se găsesc câmpuri întinse de piloni de calcar expuși, care formează un peisaj aproape impracticabil. Această regiune este de o sensibilitate ecologică ridicată, deoarece reglează scurgerea apei spre satele de coastă.",
+      en: "The Northern Uplands comprise the elevated regions of Ewa and Anetan, heavily reshaped by decades of phosphate extraction. This area features extensive fields of exposed limestone pinnacles, creating a rugged and nearly impassable landscape. The region is ecologically sensitive, as it manages drainage for the northern coastal settlements.",
+    },
+    factsAdvanced: {
+      de: ["Durchschnittliche Höhe von 40-50 Metern", "Geprägt durch großflächigen Tagebau", "Reguliert den Wasserabfluss nach Ewa und Anetan", "Besteht aus tief verkarstetem Kalkstein", "Kaum menschliche Besiedlung in diesem Bereich", "Pionierpflanzen besiedeln langsam die Gruben"],
+      hu: ["Átlagos magassága 40-50 méter", "Kiterjedt külszíni bányászat jellemzi", "Szabályozza az Ewa és Anetan felé tartó vízelvezetést", "Mélyen karsztosodott mészkőből áll", "A területen szinte nincs emberi település", "A pionír növények lassan benövik a bányagödröket"],
+      ro: ["Înălțime medie de 40-50 de metri", "Caracterizat prin minerit la suprafață pe scară largă", "Reglează scurgerea apei către Ewa și Anetan", "Format din calcar puternic carstificat", "Aproape nicio așezare umană în această zonă", "Plantele pionier colonizează lent fostele mine"],
+      en: ["Average elevation of 40 to 50 meters", "Defined by large-scale open-cast mining pits", "Regulates water runoff into Ewa and Anetan districts", "Composed of deeply weathered karstic limestone", "Virtually no human settlement in this upland area", "Pioneer plant species are slowly recolonizing the pits"],
+    },
   },
   {
     id: "nauru-meneng-terrace-relief-v2",
@@ -95,6 +143,18 @@ export const nauruReliefV2: POI[] = [
       en: ["Intermediate relief step", "Southern location on Nauru", "Limestone detritus soil", "Site of important structures"],
     },
     imageHint: "Meneng district coastal terrace Nauru",
+    descriptionAdvanced: {
+      de: "Die Meneng-Terrasse ist ein flacher, küstennaher Landstreifen im Südosten Naurus, der auf einem alten Korallensockel ruht. Diese Terrasse ist einer der am besten erschlossenen Bereiche der Insel und beherbergt wichtige Infrastrukturen wie das Krankenhaus und den Sitz des Parlaments. Sie ist aufgrund ihrer geringen Höhe besonders durch den Anstieg des Meeresspiegels gefährdet.",
+      hu: "A Meneng-terasz egy lapos, part menti sáv Nauru délkeleti részén, amely egy ősi koralltalpazaton nyugszik. Ez a terasz a sziget egyik legfejlettebb területe, fontos infrastruktúráknak ad otthont, mint például a kórház és a parlament székháza. Alacsony tengerszint feletti magassága miatt különösen veszélyeztetett a tengerszint emelkedése által.",
+      ro: "Terasa Meneng este o fâșie plată de pământ de lângă coastă, în sud-estul Nauru, care se sprijină pe un vechi soclu de corali. Această terasă este una dintre cele mai dezvoltate zone ale insulei, găzduind infrastructuri importante, cum ar fi spitalul și sediul parlamentului. Din cauza înălțimii reduse, este deosebit de vulnerabilă la creșterea nivelului mării.",
+      en: "The Meneng Terrace is a flat coastal strip in southeastern Nauru, resting upon an ancient coral foundation. This terrace is one of the most developed areas of the island, housing critical infrastructure such as the national hospital and parliament building. Its low elevation makes it particularly vulnerable to the long-term effects of sea-level rise.",
+    },
+    factsAdvanced: {
+      de: ["Breite der Terrasse liegt bei 100-250 Metern", "Sitz der wichtigsten Regierungsinstitutionen", "Boden besteht aus verfestigtem Korallensand", "Früherer Standort von Kokosplantagen", "Schutz durch natürliche Riffbarrieren", "Höhe liegt nur wenige Meter über dem Meeresspiegel"],
+      hu: ["A terasz szélessége 100-250 méter", "A legfontosabb kormányzati intézmények székhelye", "A talaj megszilárdult korallhomokból áll", "Korábban kókuszültetvények helyszíne volt", "Természetes zátonygátak védik", "Magassága mindössze néhány méterrel van a tengerszint felett"],
+      ro: ["Lățimea terasei este între 100 și 250 de metri", "Sediul celor mai importante instituții guvernamentale", "Solul este format din nisip coraligen consolidat", "Fostă locație a plantațiilor de cocos", "Protecție prin bariere naturale de recif", "Înălțimea este la doar câțiva metri deasupra mării"],
+      en: ["Terrace width varies between 100 and 250 meters", "Seat of the primary national government institutions", "Soil is composed of consolidated coral sand", "Historically the site of major coconut plantations", "Protected by natural fringing reef barriers", "Elevation is only a few meters above sea level"],
+    },
   },
   {
     id: "nauru-phosphate-pinnacles-relief-v2",
@@ -114,6 +174,18 @@ export const nauruReliefV2: POI[] = [
       en: ["Remnant of phosphate mining", "Up to 10-meter high columns", "Sharp limestone rock", "Defines the interior landscape"],
     },
     imageHint: "Nauru phosphate pinnacles limestone landscape",
+    descriptionAdvanced: {
+      de: "Die Phosphat-Pinnacles sind das markanteste Merkmal der nauruischen Topografie und bedecken fast 80 % des Inselinneren. Diese spitzen Kalksteinsäulen blieben nach dem Abtrag der Phosphatschichten zurück und bilden eine bizarre Mondlandschaft. Sie zeugen von der intensiven industriellen Ausbeutung, die das Relief der Insel dauerhaft verändert hat.",
+      hu: "A foszfát-pinnacle-ök (mészkőoszlopok) a naurui topográfia legszembetűnőbb jellemzői, a sziget belsejének közel 80%-át borítják. Ezek a hegyes mészkőoszlopok a foszfátrétegek lehordása után maradtak hátra, bizarr holdbéli tájat alkotva. Az intenzív ipari kiaknázásról tanúskodnak, amely tartósan megváltoztatta a sziget domborzatát.",
+      ro: "Pinnacles de fosfat sunt cea mai frapantă caracteristică a topografiei nauruane, acoperind aproape 80% din interiorul insulei. Acești piloni ascuțiți de calcar au rămas în urmă după îndepărtarea straturilor de fosfat, formând un peisaj lunar bizar. Ei stau mărturie pentru exploatarea industrială intensă care a schimbat permanent relieful insulei.",
+      en: "The Phosphate Pinnacles are the most distinctive feature of Nauru's topography, covering nearly 80% of the island's interior. These jagged limestone pillars were left behind after the phosphate deposits were excavated, creating a stark, lunar-like landscape. They represent the lasting impact of intensive industrial mining on the island's physical relief.",
+    },
+    factsAdvanced: {
+      de: ["Bedecken etwa 16 Quadratkilometer der Insel", "Entstanden durch die Freilegung des Untergrunds", "Maximale Dichte im zentralen Plateau (Topside)", "Erschweren jegliche Form der Wiederbesiedlung", "Wärmespeicherung führt zu lokaler Hitzeentwicklung", "Wichtigstes geologisches Erbe der Bergbauära"],
+      hu: ["A sziget kb. 16 négyzetkilométerét borítják", "Az alapkőzet feltárása során jöttek létre", "Maximális sűrűségük a központi fennsíkon van", "Megnehezítik az újra betelepülés minden formáját", "A hőelnyelés helyi felmelegedéshez vezet", "A bányászati korszak legfontosabb geológiai öröksége"],
+      ro: ["Acoperă aproximativ 16 kilometri pătrați din insulă", "Formați prin expunerea substratului calcaros", "Densitate maximă în platoul central (Topside)", "Dificultează orice formă de recolonizare", "Stocarea căldurii duce la încălzire locală", "Cea mai importantă moștenire geologică a erei miniere"],
+      en: ["Cover approximately 16 square kilometers of the island", "Resulted from the exposure of the underlying karst", "Highest density found on the central plateau (Topside)", "Severely hinder any form of land redevelopment", "Thermal absorption contributes to local heat rise", "The defining geological legacy of the mining era"],
+    },
   },
   {
     id: "nauru-eastern-rim-relief-v2",
@@ -133,6 +205,18 @@ export const nauruReliefV2: POI[] = [
       en: ["Natural barrier to the coast", "Hard limestone formations", "View over the coral reef", "Easternmost edge of plateau"],
     },
     imageHint: "Nauru eastern plateau cliffs ocean view",
+    descriptionAdvanced: {
+      de: "Der östliche Plateaurand bildet die scharfe Kante des zentralen Hochlandes, die steil zur Anibare-Bucht abfällt. Dieser Randbereich ist den ständigen Passatwinden ausgesetzt und weist eine markante Erosionsstruktur auf. Von hier aus lässt sich der geologische Aufbau der Insel von der Küste bis zum Bergbaugebiet im Landesinneren nachvollziehen.",
+      hu: "A keleti fennsíkperem a központi felföld éles peremét alkotja, amely meredeken szakad le az Anibare-öböl felé. Ez a peremvidék a folyamatos passzátszeleknek van kitéve, és jellegzetes eróziós szerkezetet mutat. Innen jól nyomon követhető a sziget geológiai felépítése a parttól a szárazföldi bányaterületekig.",
+      ro: "Marginea platoului estic formează creasta ascuțită a podișului central, care coboară abrupt spre golful Anibare. Această zonă marginală este expusă vânturilor alizee constante și prezintă o structură de eroziune marcată. De aici se poate observa structura geologică a insulei, de la coastă până la zona minieră din interior.",
+      en: "The Eastern Plateau Rim forms the sharp edge of the central uplands, dropping steeply toward Anibare Bay. This rim area is constantly exposed to southeasterly trade winds, resulting in a distinctively weathered erosion pattern. It provides a vantage point to observe the island's geological transition from the coast to the mined interior.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von ca. 45-50 Metern über dem Meer", "Exponiert gegenüber den Südost-Passatwinden", "Grenzregion zwischen Ijuw und Anibare", "Bietet Panoramablick auf den Pazifischen Ozean", "Wichtiges Orientierungsmerkmal für die Navigation", "Vegetation wird durch Salzwinde beeinflusst"],
+      hu: ["Magassága kb. 45-50 méter a tenger felett", "Kitettség a délkeleti passzátszeleknek", "Ijuw és Anibare körzetek határvidéke", "Panorámás kilátást nyújt a Csendes-óceánra", "Fontos tájékozódási pont a navigációhoz", "A növényzetet a sós szelek befolyásolják"],
+      ro: ["Înălțime de aproximativ 45-50 de metri", "Expunere la vânturile alizee de sud-est", "Regiune de graniță între Ijuw și Anibare", "Oferă vedere panoramică asupra Oceanului Pacific", "Punct de orientare important pentru navigație", "Vegetația este influențată de vânturile sărate"],
+      en: ["Elevation of approximately 45 to 50 meters", "Directly exposed to prevailing SE trade winds", "Border region between Ijuw and Anibare districts", "Provides panoramic views of the Pacific Ocean", "Major landmark used for coastal navigation", "Flora is significantly shaped by salt-laden winds"],
+    },
   },
   {
     id: "nauru-interior-lowland-relief-v2",
@@ -152,5 +236,17 @@ export const nauruReliefV2: POI[] = [
       en: ["Relative depression in plateau", "Catchment area for rainwater", "Partially forested patches", "Central-southwest location"],
     },
     imageHint: "Nauru interior island vegetation and relief",
+    descriptionAdvanced: {
+      de: "Das zentrale Tiefland von Nauru umfasst das Plateau der Insel, das durch jahrzehntelangen Phosphatabbau stark verändert wurde. Die Region liegt durchschnittlich 30 bis 60 Meter über dem Meeresspiegel und ist von schroffen Kalksteinpfeilern geprägt. Inmitten dieser kargen Landschaft befindet sich die Buada-Lagune, der einzige größere Süßwassersee des Inselstaates.",
+      hu: "Nauru belső alföldje a sziget központi fennsíkját foglalja magában, amelyet az évszázados foszfátbányászat jelentősen átalakított. A régió átlagosan 30-60 méterrel fekszik a tengerszint felett, és csipkézett mészkőoszlopok jellemzik. Ezen a területen található a Buada-lagúna, amely az ország egyetlen jelentős édesvízi tava.",
+      ro: "Depresiunea interioară a Nauru cuprinde podișul central al insulei, care a fost modificat semnificativ de peste un secol de minerit de fosfat. Această regiune se află la o altitudine medie de 30 până la 60 de metri deasupra nivelului mării și este caracterizată de coloane de calcar zimțate. Laguna Buada este singura acumulare importantă de apă din această zonă.",
+      en: "The Interior Lowland of Nauru encompasses the central plateau of the island, which has been significantly altered by over a century of phosphate mining. This region sits at an average elevation of 30 to 60 meters above sea level and is characterized by jagged limestone pinnacles. The Buada Lagoon is the only significant body of water in this area, surrounded by fertile land.",
+    },
+    factsAdvanced: {
+      de: ["Umfasst etwa 80 % der gesamten Landfläche Naurus.", "Der Phosphatabbau begann hier offiziell im Jahr 1906.", "Die durchschnittliche Höhe liegt zwischen 30 und 60 Metern.", "Beherbergt die Buada-Lagune, einen brackigen Binnensee.", "Der höchste Punkt, Command Ridge, erreicht 65 Meter.", "Die Landschaft besteht heute größtenteils aus korallinen Kalksteinspitzen."],
+      hu: ["Nauru teljes szárazföldi területének körülbelül 80%-át fedi le.", "A foszfátbányászat hivatalosan 1906-ban kezdődött meg itt.", "Az átlagos tengerszint feletti magasság 30 és 60 méter között van.", "Itt található a Buada-lagúna, a sziget egyetlen tava.", "A legmagasabb pont, a Command Ridge, 65 méteres magasságot ér el.", "A területet ma nagyrészt bányászat utáni mészkőoszlopok borítják."],
+      ro: ["Acoperă aproximativ 80% din suprafața totală a terenului Nauru.", "Exploatarea fosfaților a început oficial aici în anul 1906.", "Altitudinea medie variază între 30 și 60 de metri.", "Găzduiește Laguna Buada, un lac cu apă salmastră.", "Cel mai înalt punct, Command Ridge, atinge 65 de metri.", "Peisajul este compus în prezent din mii de coloane de calcar."],
+      en: ["Covers about 80% of Nauru's total land area.", "Phosphate mining officially began here in 1906.", "The average elevation ranges between 30 and 60 meters.", "Contains the Buada Lagoon, the island's only lake.", "The highest point, Command Ridge, reaches 65 meters.", "The landscape is dominated by thousands of limestone pinnacles."],
+    },
   }
 ];

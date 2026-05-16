@@ -19,6 +19,18 @@ export const marshallislandsHistoryV2: POI[] = [
       en: ["23 nuclear tests conducted", "UNESCO World Heritage since 2010", "Residents relocated in 1946", "Numerous shipwrecks in the lagoon"],
     },
     imageHint: "Bikini Atoll aerial view and shipwrecks",
+    descriptionAdvanced: {
+      de: "Das Bikini-Atoll ist weltweit als Schauplatz amerikanischer Kernwaffentests zwischen 1946 und 1958 bekannt. Die 23 durchgeführten Explosionen veränderten die Geografie und Ökologie des Atolls dauerhaft. Heute ist es ein UNESCO-Welterbe, das an die gewaltige Zerstörungskraft des Atomzeitalters und die Vertreibung der indigenen Bevölkerung erinnert.",
+      hu: "A Bikini-atoll világszerte az 1946 és 1958 közötti amerikai kísérleti atomrobbantások helyszíneként ismert. A 23 végrehajtott robbantás tartósan megváltoztatta az atoll földrajzát és ökológiáját. Ma az UNESCO Világörökség része, amely az atomkor pusztító erejére és az őslakos lakosság kitelepítésére emlékeztet.",
+      ro: "Atolul Bikini este cunoscut la nivel mondial ca locul testelor nucleare americane efectuate între 1946 și 1958. Cele 23 de explozii realizate au modificat permanent geografia și ecologia atolului. Astăzi este inclus în patrimoniul mondial UNESCO, amintind de puterea distructivă a erei atomice și de strămutarea populației indigene.",
+      en: "Bikini Atoll is globally recognized as the site of United States nuclear testing conducted between 1946 and 1958. The 23 explosions carried out permanently altered the atoll's geography and ecology. Today, it is a UNESCO World Heritage site that serves as a reminder of the destructive power of the atomic age and the displacement of the indigenous population.",
+    },
+    factsAdvanced: {
+      de: ["Schauplatz von 23 Kernwaffentests in 12 Jahren", "Aufnahme in die UNESCO-Welterbeliste im Jahr 2010", "Evakuierung der 167 Bewohner im Februar 1946", "Operation Crossroads markierte den Beginn der Tests 1946", "Die Lagune beherbergt eine Geisterflotte versenkter Kriegsschiffe", "Strahlungswerte verhindern bis heute eine dauerhafte Besiedlung"],
+      hu: ["23 kísérleti atomrobbantás helyszíne 12 év alatt", "2010-ben került fel az UNESCO Világörökségi listájára", "167 lakos evakuálása 1946 februárjában", "Az Operation Crossroads indította el a teszteket 1946-ban", "A lagúna elsüllyesztett hadihajók szellemflottájának ad otthont", "A sugárzási szintek a mai napig gátolják az állandó betelepülést"],
+      ro: ["Locul a 23 de teste nucleare în decurs de 12 ani", "Inclus în lista patrimoniului mondial UNESCO în anul 2010", "Evacuarea celor 167 de locuitori în februarie 1946", "Operațiunea Crossroads a marcat începutul testelor în 1946", "Laguna găzduiește o flotă fantomă de nave de război scufundate", "Nivelurile de radiații împiedică și astăzi recolonizarea permanentă"],
+      en: ["Site of 23 nuclear weapons tests over 12 years", "Inscribed as a UNESCO World Heritage site in 2010", "Evacuation of 167 residents in February 1946", "Operation Crossroads marked the start of testing in 1946", "The lagoon hosts a ghost fleet of sunken warships", "Radiation levels still prevent permanent resettlement today"],
+    },
   },
   {
     id: "marshallislands-kwajalein-battlefield-history-v2",
@@ -255,6 +267,18 @@ export const marshallislandsHistoryV2: POI[] = [
       en: ["Created on March 1, 1954", "15 megaton explosive yield", "Crater is 2 km wide", "Caused widespread radioactive fallout"],
     },
     imageHint: "Bravo Crater Bikini Atoll aerial view",
+    descriptionAdvanced: {
+      de: "Der Bravo-Krater entstand am 1. März 1954 durch die Castle Bravo-Explosion, den stärksten jemals von den USA durchgeführten Kernwaffentest. Mit einer Sprengkraft von 15 Megatonnen übertraf der Test alle Erwartungen und verursachte weitreichenden radioaktiven Fallout. Der Krater ist ein monumentales Zeugnis für die Auswirkungen thermonuklearer Waffen auf die Meeresumwelt.",
+      hu: "A Bravo-kráter 1954. március 1-jén jött létre a Castle Bravo robbantás következtében, amely az USA által végrehajtott legerősebb kísérleti atomrobbanás volt. A 15 megatonnás hatóerő minden várakozást felülmúlt, és kiterjedt radioaktív kihullást okozott. A kráter a termonukleáris fegyverek tengeri környezetre gyakorolt hatásának monumentális bizonyítéka.",
+      ro: "Craterul Bravo a fost creat pe 1 martie 1954 în urma exploziei Castle Bravo, cel mai puternic test nuclear efectuat vreodată de SUA. Cu o putere de 15 megatone, testul a depășit toate așteptările și a cauzat o cădere radioactivă extinsă. Craterul este o dovadă monumentală a impactului armelor termonucleare asupra mediului marin.",
+      en: "Bravo Crater was created on March 1, 1954, following the Castle Bravo explosion, the most powerful nuclear test ever conducted by the United States. With a yield of 15 megatons, the test exceeded all expectations and caused widespread radioactive fallout. The crater remains a monumental testament to the impact of thermonuclear weapons on the marine environment.",
+    },
+    factsAdvanced: {
+      de: ["Durchmesser des Kraters beträgt etwa 2 Kilometer", "Tiefe des Kraters liegt bei rund 75 Metern", "Explosionskraft war 1.000-mal stärker als die Hiroshima-Bombe", "Verursachte Fallout auf bewohnten Atollen wie Rongelap", "Teil des Bikini-Atolls im Nordwesten der Inselgruppe", "Die Explosion verdampfte drei kleine Inseln vollständig"],
+      hu: ["A kráter átmérője körülbelül 2 kilométer", "A kráter mélysége nagyjából 75 méter", "A robbanóerő 1000-szerese volt a hirosimai bombáénak", "Radioaktív kihullást okozott lakott atollokon, mint Rongelap", "A szigetcsoport északnyugati részén, a Bikini-atollnál található", "A robbanás három kis szigetet teljesen elpárologtatott"],
+      ro: ["Diametrul craterului este de aproximativ 2 kilometri", "Adâncimea craterului este de circa 75 de metri", "Puterea exploziei a fost de 1.000 de ori mai mare decât la Hiroshima", "A provocat căderi radioactive pe atolii locuiți precum Rongelap", "Situat în nord-vestul arhipelagului, în cadrul atolului Bikini", "Explozia a vaporizat complet trei insule mici"],
+      en: ["Diameter of the crater is approximately 2 kilometers", "Depth of the crater is about 75 meters", "Explosive yield was 1,000 times stronger than the Hiroshima bomb", "Caused radioactive fallout on inhabited atolls like Rongelap", "Located within Bikini Atoll in the northwest of the archipelago", "The explosion completely vaporized three small islands"],
+    },
   },
   {
     id: "marshallislands-meck-island-missile-site-history-v2",
@@ -367,6 +391,18 @@ export const marshallislandsHistoryV2: POI[] = [
       en: ["Built in late 1970s", "Covers the Cactus crater", "45 cm thick concrete dome", "73,000 cubic meters of waste"],
     },
     imageHint: "Runit Dome Enewetak Atoll concrete structure",
+    descriptionAdvanced: {
+      de: "Der Runit-Dome, auch als 'The Tomb' bekannt, ist eine gewaltige Betonstruktur auf der Insel Runit im Enewetak-Atoll. Er wurde Ende der 1970er Jahre errichtet, um radioaktiven Schutt und Erde aus den amerikanischen Kernwaffentests zu versiegeln. Die Struktur steht heute unter Beobachtung, da steigende Meeresspiegel die Integrität der Versiegelung gefährden könnten.",
+      hu: "A Runit-dóm, más néven 'A sírbolt', egy hatalmas betonépítmény az Enewetak-atollhoz tartozó Runit-szigeten. Az 1970-es évek végén építették az amerikai atomfegyver-kísérletekből származó radioaktív törmelék és föld elszigetelésére. Az építmény ma szoros megfigyelés alatt áll, mivel az emelkedő tengerszint veszélyeztetheti a szigetelés épségét.",
+      ro: "Domul Runit, cunoscut și sub numele de 'Mormântul', este o structură masivă de beton de pe insula Runit din atolul Enewetak. A fost construit la sfârșitul anilor 1970 pentru a sigila resturile radioactive și solul provenit din testele nucleare americane. Structura este monitorizată astăzi, deoarece creșterea nivelului mării ar putea periclita integritatea sigiliului.",
+      en: "Runit Dome, also known as 'The Tomb,' is a massive concrete structure on Runit Island in Enewetak Atoll. It was constructed in the late 1970s to contain radioactive debris and soil resulting from U.S. nuclear tests. The structure is currently under observation as rising sea levels may threaten the integrity of the containment seal.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus 358 Betonplatten mit 45 cm Dicke", "Beherbergt ca. 73.000 Kubikmeter radioaktives Material", "Errichtet über einem durch den Cactus-Test entstandenen Krater", "Bauzeit dauerte von 1977 bis 1980", "Kosten der Sanierung beliefen sich auf etwa 218 Millionen USD", "Keine Auskleidung am Boden des Kraters vorhanden"],
+      hu: ["358 darab, 45 cm vastag betonlapból áll", "Kb. 73 000 köbméter radioaktív anyagot tárol", "A Cactus-kísérlet során keletkezett kráter fölé építették", "Az építkezés 1977-től 1980-ig tartott", "A mentesítés költsége kb. 218 millió USD-t tett ki", "A kráter alján nincs védőréteg (bélés)"],
+      ro: ["Format din 358 de plăci de beton cu grosimea de 45 cm", "Găzduiește aproximativ 73.000 de metri cubi de material radioactiv", "Construit peste craterul creat de testul nuclear Cactus", "Perioada de construcție a fost între 1977 și 1980", "Costul ecologizării s-a ridicat la aproximativ 218 milioane USD", "Nu există nicio căptușeală protectoare la baza craterului"],
+      en: ["Consists of 358 concrete panels, each 18 inches thick", "Contains approximately 73,000 cubic meters of radioactive waste", "Built over a crater created by the Cactus nuclear test", "Construction period lasted from 1977 to 1980", "The cleanup project cost approximately $218 million", "There is no protective lining at the bottom of the crater"],
+    },
   },
   {
     id: "marshallislands-utirik-atoll-fallout-history-v2",
@@ -386,6 +422,18 @@ export const marshallislandsHistoryV2: POI[] = [
       en: ["Residents evacuated in 1954", "Part of Project 4.1 study", "Residents returned in late 1954", "Long-term medical monitoring"],
     },
     imageHint: "Utirik Atoll Marshall Islands aerial",
+    descriptionAdvanced: {
+      de: "Das Utirik-Atoll wurde 1954 schwer vom radioaktiven Fallout des Castle Bravo-Tests getroffen. Obwohl es weiter entfernt lag als andere Atolle, erlitt die Bevölkerung erhebliche gesundheitliche Schäden durch die unvorhergesehene Winddrift. Die Geschichte von Utirik ist ein zentrales Kapitel in der Forschung über die langfristigen medizinischen Folgen von Strahlungsexposition.",
+      hu: "Az Utirik-atoll 1954-ben súlyosan érintett volt a Castle Bravo kísérlet radioaktív kihullásában. Bár távolabb feküdt más atolloknál, a lakosság jelentős egészségkárosodást szenvedett a váratlan szélirányváltozás miatt. Utirik története a sugárterhelés hosszú távú orvosi következményeivel kapcsolatos kutatások központi fejezete.",
+      ro: "Atolul Utirik a fost grav afectat în 1954 de căderile radioactive ale testului Castle Bravo. Deși era situat mai departe decât alți atoli, populația a suferit daune medicale semnificative din cauza derivei neprevăzute a vântului. Istoria Utirik este un capitol central în cercetarea consecințelor medicale pe termen lung ale expunerii la radiații.",
+      en: "Utirik Atoll was severely impacted in 1954 by radioactive fallout from the Castle Bravo test. Although located further away than other atolls, the population suffered significant health issues due to unforeseen wind patterns. The history of Utirik is a central chapter in research regarding the long-term medical consequences of radiation exposure.",
+    },
+    factsAdvanced: {
+      de: ["Fallout erreichte das Atoll etwa 22 Stunden nach der Explosion", "Evakuierung der 159 Bewohner erfolgte erst drei Tage später", "Rückkehr der Bevölkerung wurde bereits 1954 genehmigt", "Hohe Inzidenz von Schilddrüsenproblemen in der Folgezeit", "Teil des medizinischen Überwachungsprogramms der USA", "Entschädigungszahlungen wurden durch den Compact of Free Association geregelt"],
+      hu: ["A kihullás kb. 22 órával a robbanás után érte el az atollt", "A 159 lakos evakuálására csak három nappal később került sor", "A lakosság visszatérését már 1954-ben engedélyezték", "A pajzsmirigyproblémák magas előfordulása a későbbi években", "Az USA orvosi megfigyelési programjának része", "A kártérítéseket a Szabad Társulási Szerződés szabályozta"],
+      ro: ["Căderile radioactive au ajuns la atol după circa 22 de ore", "Evacuarea celor 159 de locuitori a avut loc abia după trei zile", "Reîntoarcerea populației a fost autorizată încă din 1954", "Incidență ridicată a afecțiunilor tiroidiene în perioada următoare", "Parte a programului de monitorizare medicală al SUA", "Plățile compensatorii au fost reglementate prin Compact of Free Association"],
+      en: ["Fallout reached the atoll approximately 22 hours after detonation", "Evacuation of the 159 residents occurred three days later", "Resettlement was permitted as early as late 1954", "High incidence of thyroid conditions reported in subsequent years", "Part of the ongoing U.S. medical monitoring program", "Compensation was established under the Compact of Free Association"],
+    },
   },
   {
     id: "marshallislands-roi-namur-ruins-history-v2",
@@ -405,5 +453,17 @@ export const marshallislandsHistoryV2: POI[] = [
       en: ["Captured in February 1944", "Part of Kwajalein Atoll", "Japanese airfield ruins", "Current US missile range site"],
     },
     imageHint: "Roi-Namur Kwajalein WWII ruins and bunkers",
+    descriptionAdvanced: {
+      de: "Die Ruinen auf Roi-Namur sind stumme Zeugen der heftigen Kämpfe während des Zweiten Weltkriegs auf dem Kwajalein-Atoll. Japanische Befestigungen, Bunker und Flugzeugwracks prägen das Gelände dieser heute doppelt verbundenen Insel. Die Stätte bietet wertvolle Einblicke in die pazifische Militärarchitektur und die strategische Bedeutung der Marshallinseln im Pazifikkrieg.",
+      hu: "A Roi-Namur romjai a Kwajalein-atollon zajlott heves második világháborús harcok néma tanúi. Japán erődítmények, bunkerek és repülőgép-roncsok jellemzik a ma már összekapcsolt szigetet. A helyszín értékes betekintést nyújt a csendes-óceáni hadiépítészetbe és a Marshall-szigetek stratégiai jelentőségébe a háború során.",
+      ro: "Ruinele de pe Roi-Namur sunt martori tăcuți ai luptelor aprige din timpul celui de-al Doilea Război Mondial de pe atolul Kwajalein. Fortificații japoneze, buncăre și epave de avioane marchează terenul acestei insule astăzi unite. Situl oferă perspective valoroase asupra arhitecturii militare din Pacific și a importanței strategice a Insulelor Marshall.",
+      en: "The ruins on Roi-Namur are silent witnesses to the fierce World War II battles that took place on Kwajalein Atoll. Japanese fortifications, bunkers, and aircraft wreckage dot the landscape of this now-connected island. The site provides valuable insights into Pacific military architecture and the strategic importance of the Marshall Islands during the war.",
+    },
+    factsAdvanced: {
+      de: ["Schauplatz der Schlacht um Kwajalein im Februar 1944", "Ursprünglich zwei getrennte Inseln, durch Japaner verbunden", "Beherbergt Überreste eines japanischen Flugplatzes", "Viele Bunker weisen noch heute Einschusslöcher auf", "Strategischer Stützpunkt der kaiserlichen japanischen Marine", "Heute Teil der US-Militärbasis auf Kwajalein"],
+      hu: ["A Kwajalein-i csata helyszíne 1944 februárjában", "Eredetileg két külön sziget volt, a japánok kötötték össze", "Egy japán repülőtér maradványainak ad otthont", "Sok bunkeren a mai napig láthatók a golyónyomok", "A Japán Császári Haditengerészet stratégiai bázisa volt", "Ma a Kwajalein-i amerikai katonai bázis része"],
+      ro: ["Locul bătăliei pentru Kwajalein în februarie 1944", "Inițial două insule separate, unite de către japonezi", "Găzduiește resturile unui aerodrom japonez", "Multe buncăre prezintă și astăzi urme de gloanțe", "Bază strategică a Marinei Imperiale Japoneze", "Astăzi face parte din baza militară americană de pe Kwajalein"],
+      en: ["Site of the Battle of Kwajalein in February 1944", "Originally two separate islands, joined by the Japanese", "Contains remains of a Japanese imperial airfield", "Many bunkers still display visible bullet holes today", "Strategic base for the Imperial Japanese Navy", "Currently part of the U.S. Army Garrison-Kwajalein Atoll"],
+    },
   }
 ];

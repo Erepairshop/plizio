@@ -19,6 +19,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Established in 1980", "Home to the 'Grand Kaori' tree", "Primary habitat for the Cagou", "Features the Drowned Forest"],
     },
     imageHint: "Ancient Grand Kaori tree in Blue River Park",
+    descriptionAdvanced: {
+      de: "Der Parc Provincial de la Rivière Bleue ist eines der bedeutendsten Naturschutzgebiete Neukaledoniens und umfasst über 9000 Hektar unberührter Wildnis. Bekannt ist der Park vor allem für die „Forêt Noyée“, den versunkenen Wald im Stausee, und den Schutz des endemischen Kagu-Vogels. Die roten Lateritböden und der klare Fluss bieten eine einzigartige Kulisse für Ökotourismus.",
+      hu: "A Kék-folyó (Rivière Bleue) Tartományi Park Új-Kaledónia legfontosabb természetvédelmi területe, több mint 9000 hektáron. A park világhírű az „elsüllyedt erdőjéről” (Forêt Noyée) és mint a nemzeti jelkép, a kagu madár egyik utolsó menedéke. A vörös föld, a kristálytiszta víz és az ősi fenyők egyedülálló ökológiai paradicsommá teszik.",
+      ro: "Parcul Provincial Rivière Bleue este una dintre cele mai importante rezervații naturale din Noua Caledonie, întinzându-se pe 9.000 de hectare. Este faimos pentru „Pădurea Scufundată” (Forêt Noyée) și pentru protejarea păsării Kagu, simbolul național. Solurile roșii de laterit și apele limpezi oferă un cadru spectaculos pentru activități de ecoturism.",
+      en: "The Rivière Bleue Provincial Park is one of New Caledonia's most significant nature reserves, covering over 9,000 hectares of wilderness. The park is famous for its 'Drowned Forest' (Forêt Noyée) in the Yaté reservoir and for being a sanctuary for the endemic Cagou bird. Its red laterite soil and crystal-clear river provide a stunning backdrop for eco-tourism.",
+    },
+    factsAdvanced: {
+      de: ["Heimat des „Grand Kaori“, eines über 1000 Jahre alten Baumes.", "Bietet Schutz für die größte Population des bedrohten Kagu.", "Der Yaté-Stausee bildet den markanten versunkenen Wald.", "Umfasst eine Fläche von etwa 9000 Hektar.", "Bekannt für seine extrem hohe Dichte an endemischen Pflanzen.", "Beliebt für Kajakfahren auf dem Fluss und Wandern."],
+      hu: ["Itt él az 1000 évnél is idősebb óriásfenyő, a „Grand Kaori”.", "A park védi a veszélyeztetett kagu madár legnagyobb populációját.", "A Yaté-víztározó hozta létre a híres elsüllyedt erdőt.", "A természetvédelmi terület teljes kiterjedése 9000 hektár.", "Rendkívül magas az itt található endemikus növényfajok száma.", "Népszerű helyszín a folyami kajakozáshoz és hegyi kerékpározáshoz."],
+      ro: ["Adăpostește „Marele Kaori”, un arbore de peste 1.000 de ani.", "Protejează cea mai mare populație de păsări Kagu din lume.", "Rezervorul Yaté a creat faimoasa pădure de arbori morți în apă.", "Suprafața totală a parcului este de aproximativ 9.000 de hectare.", "Peste 80% din speciile de plante de aici sunt endemice.", "Este o destinație de top pentru caiac și ciclism montan."],
+      en: ["Home to the 'Grand Kaori', a tree estimated to be over 1,000 years old.", "Protects the largest wild population of the endangered Cagou bird.", "The Yaté reservoir created the iconic 'Drowned Forest' scenery.", "Covers an extensive area of approximately 9,000 hectares.", "Features an incredibly high density of endemic plant species.", "Popular for river kayaking, hiking, and mountain biking."],
+    },
   },
   {
     id: "newcaledonia-noumea-zoo-forest-life-v2",
@@ -38,6 +50,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Founded in 1962", "Area of 34 hectares", "Center for Cagou breeding", "Over 700 animal species present"],
     },
     imageHint: "Endemic Cagou bird in Noumea Zoo",
+    descriptionAdvanced: {
+      de: "Der Parc Forestier et Zoologique Michel Corbasson in Nouméa ist eine grüne Oase, die sich der lokalen Flora und Fauna widmet. Auf 34 Hektar können Besucher endemische Tierarten wie den Kagu und verschiedene seltene Papageienarten in naturnahen Gehegen beobachten. Der angeschlossene botanische Garten zeigt die enorme Vielfalt der neukaledonischen Pflanzenwelt.",
+      hu: "A nouméai Michel Corbasson Erdei és Állatpark egy 34 hektáros zöld oázis, amely a helyi élővilág bemutatására összpontosít. A látogatók természetes környezetben láthatják a híres kagu madarat és számos ritka, csak itt élő papagájfajt. A park botanikus kertje az ország egyedülálló és változatos növényvilágát vonultatja fel.",
+      ro: "Parcul Forestier și Zoologic Michel Corbasson din Nouméa este o oază verde de 34 de hectare dedicată florei și faunei locale. Vizitatorii pot observa specii endemice precum pasărea Kagu și diverse specii rare de papagali în habitate naturale. Grădina botanică inclusă prezintă diversitatea extraordinară a plantelor din Noua Caledonie.",
+      en: "The Michel Corbasson Zoological and Forest Park in Nouméa is a 34-hectare green oasis dedicated to local flora and fauna. Visitors can observe endemic species such as the Cagou bird and various rare parrots in naturalistic enclosures. The park also features a botanical garden showcasing the immense diversity of New Caledonian plant life.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1962 auf den Höhen von Nouméa.", "Beherbergt den Kagu, den flugunfähigen Nationalvogel.", "Umfasst eine Fläche von 34 Hektar Trockenwald.", "Verfügt über eine bedeutende Sammlung von Araukarien.", "Wichtiger Ort für die Nachzucht bedrohter Arten.", "Bietet lehrreiche Wanderwege zur lokalen Ökologie."],
+      hu: ["1962-ben alapították Nouméa egyik dombján.", "Itt látható a kagu, az ország röpképtelen nemzeti madara.", "A park 34 hektárnyi védett szárazerdő területen fekszik.", "Jelentős gyűjteménnyel rendelkezik az őshonos araukária fenyőkből.", "Fontos központja a veszélyeztetett fajok tenyésztésének.", "Oktatási ösvények mutatják be a helyi ökológiai rendszert."],
+      ro: ["Fondat în 1962 pe dealurile care domină orașul Nouméa.", "Găzduiește pasărea Kagu, simbolul național care nu poate zbura.", "Acoperă o suprafață de 34 de hectare de pădure uscată.", "Deține o colecție importantă de arbori din familia Araucaria.", "Este un centru activ pentru programe de conservare a speciilor.", "Oferă trasee educative despre biodiversitatea arhipelagului."],
+      en: ["Established in 1962 on the heights overlooking Nouméa.", "Home to the Cagou, the flightless national bird of the country.", "Covers 34 hectares of protected dry forest and gardens.", "Features a significant collection of endemic Araucaria trees.", "Acts as a vital center for the breeding of endangered species.", "Offers educational nature trails focused on local ecology."],
+    },
   },
   {
     id: "newcaledonia-grandes-fougeres-park-life-v2",
@@ -57,6 +81,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Established in 2008", "4,500 hectares of rainforest", "Protects tree fern species", "Over 40 kilometers of trails"],
     },
     imageHint: "Giant tree ferns in tropical rainforest",
+    descriptionAdvanced: {
+      de: "Der Parc Provincial des Grandes Fougères liegt im Herzen der Zentralkette und ist nach seinen gigantischen Baumfarnen benannt. Das 4500 Hektar große Schutzgebiet ist ein Paradies für Wanderer und Vogelbeobachter, da hier fast alle endemischen Waldvögel der Insel vorkommen. Das kühle Bergklima begünstigt eine dichte, immergrüne Vegetation von außergewöhnlicher Schönheit.",
+      hu: "Az Óriáspáfrányok (Grandes Fougères) Tartományi Park a központi hegység szívében fekszik, és nevét a hatalmas fa-páfrányokról kapta. A 4500 hektáros terület a túrázók és madármegfigyelők paradicsoma, ahol szinte minden őshonos erdei madárfaj megtalálható. A hűvösebb hegyi klíma dús, örökzöld növényzet kialakulását tette lehetővé.",
+      ro: "Parcul Provincial al Marilor Ferigi (Grandes Fougères) este situat în inima lanțului muntos central, fiind numit după ferigile arborescente gigantice. Rezervația de 4.500 de hectare este un paradis pentru drumeții și observarea păsărilor, găzduind aproape toate speciile de păsări endemice de pădure. Climatul montan răcoros susține o vegetație luxuriantă.",
+      en: "The Grandes Fougères Provincial Park is located in the heart of the central mountain range, named after its gigantic tree ferns. This 4,500-hectare reserve is a haven for hikers and birdwatchers, as it is home to nearly all of the island's endemic forest bird species. The cooler mountain climate fosters dense, evergreen vegetation of exceptional biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 2008 zum Schutz des Primärwaldes.", "Umfasst eine Gesamtfläche von 4500 Hektar.", "Bekannt für Baumfarne, die über 20 Meter hoch werden können.", "Beherbergt den bedrohten Neukaledonien-Sperber.", "Bietet über 30 Kilometer markierte Wanderwege.", "Wichtiger Korridor für die Wanderung lokaler Tierarten."],
+      hu: ["2008-ban hozták létre az őserdők védelme érdekében.", "A park teljes területe 4500 hektár.", "Híres a több mint 20 méter magasra növő páfrányfáiról.", "Itt él a ritka és veszélyeztetett új-kaledóniai karvaly.", "Több mint 30 kilométernyi kijelölt túraútvonallal rendelkezik.", "Fontos ökológiai folyosó a helyi vadvilág számára."],
+      ro: ["Creat în 2008 pentru a proteja pădurile primare montane.", "Suprafața totală a rezervației este de 4.500 de hectare.", "Faimos pentru ferigile care pot atinge înălțimi de peste 20 de metri.", "Găzduiește uliul Noii Caledonii, o specie rară și protejată.", "Dispune de peste 30 de kilometri de trasee de drumeție marcate.", "Reprezintă un coridor ecologic vital pentru fauna locală."],
+      en: ["Established in 2008 to protect primary tropical forests.", "Covers a total area of 4,500 hectares of mountainous terrain.", "Famous for tree ferns that can reach heights of over 20 meters.", "Home to the rare and endangered New Caledonian Goshawk.", "Offers more than 30 kilometers of marked hiking trails.", "Serves as a vital ecological corridor for native wildlife."],
+    },
   },
   {
     id: "newcaledonia-coral-sea-park-life-v2",
@@ -76,6 +112,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Area of 1.3 million km²", "Established in 2014", "Protects 25 whale species", "Major turtle nesting site"],
     },
     imageHint: "Aerial view of coral reefs in open ocean",
+    descriptionAdvanced: {
+      de: "Der Naturpark Korallenmeer ist eines der weltweit größten Meeresschutzgebiete und umfasst die gesamte ausschließliche Wirtschaftszone Neukaledoniens. Er schützt ein riesiges Ökosystem mit Korallenriffen, Atollen und Tiefseehabitaten auf einer Fläche von 1,3 Millionen Quadratkilometern. Der Park ist ein Refugium für Wale, Meeresschildkröten und zahlreiche Haiarten.",
+      hu: "A Korall-tenger Természeti Park a világ egyik legnagyobb tengeri védett területe, amely Új-Kaledónia teljes gazdasági övezetét lefedi. A 1,3 millió négyzetkilométeres park korallzátonyokat, atollokat és mélytengeri élőhelyeket védelmez. Fontos menedékhely a bálnák, tengeri teknősök és számos cápafaj számára az érintetlen óceáni környezetben.",
+      ro: "Parcul Natural al Mării de Corail este una dintre cele mai mari arii marine protejate din lume, acoperind întreaga zonă economică exclusivă a Noii Caledonii. Protejează un ecosistem vast de recife, atoli și habitate de adâncime pe o suprafață de 1,3 milioane km². Parcul este un refugiu pentru balene, țestoase marine și numeroase specii de rechini.",
+      en: "The Coral Sea Natural Park is one of the world's largest marine protected areas, covering the entire exclusive economic zone of New Caledonia. It protects a vast ecosystem including coral reefs, atolls, and deep-sea habitats across 1.3 million square kilometers. The park serves as a sanctuary for whales, sea turtles, and numerous shark species within its pristine waters.",
+    },
+    factsAdvanced: {
+      de: ["Erstreckt sich über ca. 1,3 Millionen Quadratkilometer.", "Gegründet im Jahr 2014 durch die lokale Regierung.", "Schützt das zweitgrößte Korallenriffsystem der Welt.", "Beherbergt 25 verschiedene Arten von Meeressäugern.", "Wichtiger Nistplatz für die Grüne Meeresschildkröte.", "Enthält unberührte Atolle wie das Chesterfield-Archipel."],
+      hu: ["Területe körülbelül 1,3 millió négyzetkilométer.", "2014-ben alapította a helyi kormányzat.", "A világ második legnagyobb korallzátony-rendszerét védi.", "25 különböző tengeri emlősfajnak ad otthont.", "A zöld teknősök egyik legfontosabb fészkelőhelye a térségben.", "Olyan érintetlen atollokat foglal magában, mint a Chesterfield-szigetek."],
+      ro: ["Se întinde pe aproximativ 1,3 milioane de kilometri pătrați.", "Creat oficial în anul 2014 de către guvernul local.", "Protejează al doilea cel mai mare sistem de recife din lume.", "Găzduiește 25 de specii diferite de mamifere marine.", "Zona include situri majore de cuibărit pentru țestoasele verzi.", "Cuprinde atoli virgini, cum este arhipelagul Chesterfield."],
+      en: ["Spans approximately 1.3 million square kilometers of ocean.", "Established in 2014 by the local government of New Caledonia.", "Protects the world's second-largest coral reef system.", "Home to 25 different species of marine mammals.", "A major nesting ground for green sea turtles in the Pacific.", "Includes pristine atolls such as the Chesterfield Islands."],
+    },
   },
   {
     id: "newcaledonia-amedee-island-reserve-life-v2",
@@ -95,6 +143,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Established in 1981", "Frequent sightings of Tricot Rayé", "Part of UNESCO World Heritage", "Rich in green sea turtles"],
     },
     imageHint: "Tricot Rayé sea snake on Amédée Island",
+    descriptionAdvanced: {
+      de: "Die Meeresreserve der Insel Amédée ist berühmt für ihren historischen Leuchtturm und das kristallklare Wasser, das sie umgibt. Die Insel liegt etwa 24 Kilometer vor Nouméa und bietet ideale Bedingungen zum Schnorcheln inmitten von bunten Korallen und Seeschlangen. Als geschütztes Gebiet bewahrt sie eine hohe Artenvielfalt in der Lagune.",
+      hu: "Az Amédée-szigeti tengeri rezervátum híres történelmi világítótornyáról és az azt körülvevő kristálytiszta vízről. A Nouméától 24 kilométerre fekvő sziget ideális helyszín a búvárkodáshoz, ahol színes korallok és tengeri kígyók között úszhatunk. Védett területként a lagúna egyik leggazdagabb élővilágú pontja.",
+      ro: "Rezervația marină a Insulei Amédée este celebră pentru farul său istoric și apele extrem de limpezi care o înconjoară. Situată la aproximativ 24 km de Nouméa, insula oferă condiții ideale pentru snorkeling printre corali și șerpi de mare. Ca zonă protejată, conservă o biodiversitate marină remarcabilă în cadrul lagunei.",
+      en: "The Amédée Lighthouse Marine Reserve is famous for its historic lighthouse and the crystal-clear waters that surround it. Located about 24 kilometers from Nouméa, the island offers ideal conditions for snorkeling amidst vibrant corals and sea snakes. As a protected area, it preserves a high level of marine biodiversity within the lagoon ecosystem.",
+    },
+    factsAdvanced: {
+      de: ["Der Leuchtturm wurde 1862 in Paris gebaut.", "Mit 56 Metern einer der höchsten Metallleuchttürme der Welt.", "Die Reserve wurde 1981 zum Schutz der Lagune eingerichtet.", "Bekannt für die hohe Dichte an gestreiften Seeschlangen.", "Liegt direkt an einer der großen Passagen des Riffs.", "Beliebtes Ziel für Tagesausflüge von Nouméa aus."],
+      hu: ["A világítótornyot 1862-ben Párizsban gyártották.", "56 méteres magasságával a világ egyik legmagasabb fém világítótornya.", "A rezervátumot 1981-ben hozták létre a lagúna védelmére.", "Híres a nagy számban előforduló sávos tengeri kígyókról.", "Közvetlenül a korallzátony egyik nagy átjárójánál fekszik.", "Nouméa legnépszerűbb egynapos kirándulóhelye."],
+      ro: ["Farul a fost construit în 1862 la Paris și asamblat pe insulă.", "Are o înălțime de 56 de metri, fiind unul dintre cele mai înalte din metal.", "Rezervația a fost stabilită în 1981 pentru protecția lagunei.", "Cunoscută pentru populația densă de șerpi de mare tricotați.", "Situată lângă una dintre principalele treceri prin recif.", "Cea mai populară destinație de excursie de o zi din Nouméa."],
+      en: ["The lighthouse was built in Paris in 1862 before being shipped.", "Standing at 56 meters, it is one of the tallest metal lighthouses globally.", "The marine reserve was established in 1981 for lagoon protection.", "Famous for the high density of tricot rayé sea snakes.", "Located right at one of the reef's major natural passages.", "A premier destination for day trips and snorkeling from Nouméa."],
+    },
   },
   {
     id: "newcaledonia-duck-island-reserve-life-v2",
@@ -114,6 +174,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Underwater interpretation trail", "Over 150 fish species", "Seabird nesting area", "Popular snorkeling destination"],
     },
     imageHint: "Underwater snorkeling trail at Duck Island",
+    descriptionAdvanced: {
+      de: "Die Naturschutzreserve der Île aux Canards (Enteninsel) liegt nur wenige Minuten per Boot von der Anse Vata in Nouméa entfernt. Sie ist besonders bekannt für ihren unterseeischen Lehrpfad, der Schnorchlern die Vielfalt der Korallenwelt näherbringt. Trotz der Nähe zur Stadt bietet die Insel ein intaktes marines Ökosystem mit zahlreichen tropischen Fischarten.",
+      hu: "Az Île aux Canards (Kacsa-sziget) természetvédelmi terület mindössze pár perces hajóútra található Nouméa Anse Vata strandjától. Különlegessége a kiépített vízalatti tanösvény, amely segít a látogatóknak megismerni a korallzátony élővilágát. A város közelsége ellenére a rezervátum érintetlen tengeri környezetet és sokszínű halállományt kínál.",
+      ro: "Rezervația naturală Île aux Canards (Insula Rațelor) se află la doar câteva minute cu barca de plaja Anse Vata din Nouméa. Este renumită pentru traseul său submarin educativ, care ghidează pasionații de snorkeling prin diversitatea recifului. În ciuda proximității de oraș, insula păstrează un ecosistem marin intact și vibrant.",
+      en: "The Île aux Canards (Duck Island) Nature Reserve is located just a few minutes by boat from Anse Vata in Nouméa. It is particularly well-known for its underwater educational trail, which introduces snorkelers to the diversity of the coral reef. Despite its proximity to the city, the island maintains a healthy marine ecosystem with numerous tropical fish species.",
+    },
+    factsAdvanced: {
+      de: ["Verfügt über einen markierten unterseeischen Lehrpfad.", "Liegt nur ca. 1 Kilometer vor der Küste von Nouméa.", "Bietet Schutz für gefährdete Korallenarten.", "Ein beliebtes Revier für Windsurfer und Kitesurfer.", "Die Insel ist auch ein Nistplatz für Seevögel.", "Ausrüstung zum Schnorcheln kann direkt vor Ort gemietet werden."],
+      hu: ["Kijelölt vízalatti tanösvénnyel rendelkezik a búvárok számára.", "Mindössze kb. 1 kilométerre fekszik Nouméa partjaitól.", "Védelmet nyújt a veszélyeztetett korallfajoknak.", "Kedvelt helyszín a szörfösök és kiteszörfösök körében.", "A sziget fontos fészkelőhely több tengeri madárfaj számára.", "Helyben bérelhető búvárfelszerelés áll a látogatók rendelkezésére."],
+      ro: ["Dispune de un traseu submarin marcat pentru educație ecologică.", "Situată la doar aproximativ 1 km distanță de malul orașului.", "Asigură protecția unor specii de corali amenințate.", "Destinație preferată pentru windsurf și kitesurf.", "Insula servește și ca sit de cuibărit pentru păsările marine.", "Echipamentul de snorkeling poate fi închiriat direct pe insulă."],
+      en: ["Features a marked underwater trail for ecological education.", "Located only about 1 kilometer off the coast of Nouméa.", "Provides protection for several endangered coral species.", "A popular spot for windsurfing and kitesurfing enthusiasts.", "The island also serves as a nesting site for various seabirds.", "Snorkeling equipment is available for rent directly on the island."],
+    },
   },
   {
     id: "newcaledonia-roche-percee-reserve-life-v2",
@@ -133,6 +205,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Primary Loggerhead turtle nesting site", "Known for the 'Bonhomme' pillar", "Protects dry coastal forests", "Monitored by environmental guards"],
     },
     imageHint: "Turtle nesting beach at Roche Percée",
+    descriptionAdvanced: {
+      de: "Die Reserve de la Roche Percée bei Bourail ist berühmt für ihre spektakulären Felsformationen und den „Bonhomme“, einen Monolithen in Menschengestalt. Der Strand ist einer der wichtigsten Nistplätze für die Unechte Karettschildkröte im Südpazifik. Die Kombination aus dramatischer Küstenlinie und wertvollen Habitaten macht die Reserve zu einem Highlight für Naturfreunde.",
+      hu: "A Bourail mellett található Roche Percée rezervátum látványos sziklaalakzatairól és a „Bonhomme” elnevezésű, ember alakú monolitjáról híres. A strand a déli Csendes-óceán egyik legfontosabb fészkelőhelye az álcserepes teknősök számára. A drámai tengerpart és a különleges élőhelyek kombinációja a természetkedvelők kedvencévé teszi.",
+      ro: "Rezervația Roche Percée de lângă Bourail este faimoasă pentru formațiunile sale stâncoase spectaculoase și pentru „Le Bonhomme”, un monolit cu formă umană. Plaja este unul dintre cele mai importante situri de cuibărit pentru țestoasele cu cap mare din Pacificul de Sud. Peisajul costier dramatic și habitatele protejate atrag numeroși turiști.",
+      en: "The Roche Percée Reserve near Bourail is famous for its spectacular rock formations and 'Le Bonhomme', a human-shaped monolith. The beach is one of the most important nesting sites for loggerhead sea turtles in the South Pacific. The combination of a dramatic coastline and vital habitats makes this reserve a highlight for nature enthusiasts.",
+    },
+    factsAdvanced: {
+      de: ["Heimat des „Bonhomme de Bourail“, einer ikonischen Felsnadel.", "Wichtigster Nistplatz für die Unechte Karettschildkröte.", "Die Felsen bestehen aus stark erodiertem Sedimentgestein.", "Bietet einen Panoramawanderweg entlang der Klippen.", "Die Region ist bekannt für ihre hohen Wellen zum Surfen.", "Teil eines größeren Schutzgebiets an der Westküste."],
+      hu: ["Itt található a „Bonhomme de Bourail” ikonikus sziklatű.", "Az álcserepes teknősök legfontosabb fészkelőhelye a térségben.", "A sziklák erősen erodált üledékes kőzetből állnak.", "Panorámaösvény vezet a sziklák peremén a látogatók számára.", "A régió híres a szörfözésre alkalmas magas hullámairól.", "A nyugati part egyik nagyobb természetvédelmi hálózatának része."],
+      ro: ["Găzduiește „Bonhomme de Bourail”, un monolit iconic din piatră.", "Principalul sit de cuibărit pentru țestoasa Loggerhead (Caretta caretta).", "Stâncile sunt formate din roci sedimentare intens erodate.", "Oferă un traseu de drumeție panoramic de-a lungul falezelor.", "Regiunea este renumită pentru valurile mari, ideale pentru surf.", "Face parte dintr-o rețea extinsă de arii protejate pe coasta de vest."],
+      en: ["Home to 'Le Bonhomme de Bourail', an iconic rock needle.", "A primary nesting site for loggerhead sea turtles (Caretta caretta).", "The cliffs are composed of heavily eroded sedimentary rock.", "Offers a panoramic hiking trail along the cliff edges.", "The area is well-known for surfing due to its consistent waves.", "Part of a larger network of protected areas on the west coast."],
+    },
   },
   {
     id: "newcaledonia-domaine-deva-life-v2",
@@ -152,6 +236,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Area of 8,000 hectares", "Largest dry forest in the country", "Home to many endemic birds", "Includes 13 km of coastline"],
     },
     imageHint: "Dry forest landscape in Deva domain",
+    descriptionAdvanced: {
+      de: "Das Domaine de Deva in der Gemeinde Bourail ist ein riesiges Naturareal, das den Schutz des seltenen Trockenwaldes mit nachhaltigem Tourismus verbindet. Das Gebiet erstreckt sich von den Bergen bis zur Lagune und bietet zahlreiche Aktivitäten wie Mountainbiken, Reiten und Wandern. Es ist ein Vorzeigeprojekt für die ökologische Erhaltung der Westküste Neukaledoniens.",
+      hu: "A Bourail községben található Domaine de Deva egy hatalmas természetvédelmi terület, amely a ritka szárazerdők védelmét ötvözi a fenntartható turizmussal. A hegyektől a lagúnáig terjedő területen számos szabadidős tevékenység, például terepkerékpározás, lovaglás és túrázás várja a látogatókat. A projekt Új-Kaledónia nyugati partjának ökológiai mintaterülete.",
+      ro: "Domaine de Deva, situat în comuna Bourail, este un domeniu natural vast care îmbină protecția pădurilor uscate rare cu turismul sustenabil. Teritoriul se întinde de la munți până la lagună, oferind activități variate precum ciclism montan, echitație și drumeții. Este un proiect model pentru conservarea ecologică a coastei de vest.",
+      en: "The Deva Natural Domain in the Bourail commune is a vast natural area that combines the protection of rare dry forests with sustainable tourism. The domain stretches from the mountains to the lagoon, offering numerous activities such as mountain biking, horseback riding, and hiking. It serves as a flagship project for ecological conservation on New Caledonia's west coast.",
+    },
+    factsAdvanced: {
+      de: ["Umfasst eine Gesamtfläche von über 8000 Hektar.", "Schützt eines der größten Fragmente des ursprünglichen Trockenwaldes.", "Beherbergt archäologische Stätten der Lapita-Kultur.", "Verfügt über mehr als 100 Kilometer markierte Wege.", "Wichtiger Lebensraum für den endemischen Neukaledonien-Truthahn.", "Bietet Zugang zu einem UNESCO-Weltkulturerbe-Riff."],
+      hu: ["Összesen több mint 8000 hektárnyi területet foglal magában.", "A sziget egyik legnagyobb eredeti szárazerdő-maradványát védi.", "Területén a Lapita-kultúrához köthető régészeti lelőhelyek vannak.", "Több mint 100 kilométernyi kijelölt útvonallal rendelkezik.", "Fontos élőhelye az őshonos új-kaledóniai bozótos tyúknak.", "Közvetlen hozzáférést biztosít az UNESCO világörökség részét képező zátonyhoz."],
+      ro: ["Cuprinde o suprafață totală de peste 8.000 de hectare.", "Protejează unul dintre cele mai mari fragmente de pădure uscată.", "Include situri arheologice aparținând culturii antice Lapita.", "Dispune de o rețea de peste 100 km de trasee marcate.", "Habitat esențial pentru specii endemice de păsări de sol.", "Oferă acces la o porțiune din reciful aflat în patrimoniul UNESCO."],
+      en: ["Covers a total area of more than 8,000 hectares.", "Protects one of the largest remaining fragments of native dry forest.", "Contains archaeological sites belonging to the ancient Lapita culture.", "Features a network of over 100 kilometers of marked trails.", "A vital habitat for the endemic New Caledonian Scrubfowl.", "Provides access to a reef section listed as a UNESCO World Heritage site."],
+    },
   },
   {
     id: "newcaledonia-noumea-botanical-garden-life-v2",
@@ -171,6 +267,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Large collection of Araucarias", "Houses endemic palm species", "Botanical research center", "Part of Michel Corbasson Park"],
     },
     imageHint: "Rare endemic palms in botanical garden",
+    descriptionAdvanced: {
+      de: "Der Botanische Garten von Nouméa zeigt eine beeindruckende Sammlung neukaledonischer Pflanzen, von denen viele nirgendwo sonst auf der Erde vorkommen. Er ist in den zoologischen Park integriert und bietet Besuchern die Möglichkeit, die einzigartige Flora des Archipels, wie die Araukarien und Palmen, im Detail zu studieren. Der Garten dient als Bildungszentrum für den Erhalt der biologischen Vielfalt.",
+      hu: "A nouméai botanikus kert Új-Kaledónia lenyűgöző növénygyűjteményét mutatja be, amelynek számos tagja a Földön sehol máshol nem található meg. Az állatparkkal egy egységet alkotó kertben a látogatók közelről tanulmányozhatják az őshonos araukária fenyőket és pálmafajokat. Az intézmény fontos szerepet tölt be a biodiverzitás megőrzésével kapcsolatos oktatásban.",
+      ro: "Grădina Botanică din Nouméa prezintă o colecție impresionantă de plante din Noua Caledonie, multe dintre ele nefiind găsite nicăieri altundeva pe glob. Integrată în parcul zoologic, grădina permite vizitatorilor să studieze flora unică a arhipelagului, inclusiv arbori Araucaria și palmieri endemici. Servește ca centru educativ pentru conservarea biodiversității.",
+      en: "The Nouméa Botanical Garden showcases an impressive collection of New Caledonian plants, many of which are found nowhere else on Earth. Integrated within the zoological park, it offers visitors the chance to study the archipelago's unique flora, such as endemic Araucarias and palms, in great detail. The garden serves as an educational hub for biodiversity conservation.",
+    },
+    factsAdvanced: {
+      de: ["Spezialisiert auf den Schutz von endemischen Trockenwaldpflanzen.", "Beherbergt eine weltberühmte Sammlung von Araukarien.", "Teil des Michel Corbasson Parks auf den Höhen der Stadt.", "Verfügt über einen Bereich für medizinische Pflanzen der Kanak.", "Wichtiger Ort für die Ex-situ-Erhaltung seltener Arten.", "Bietet geführte Touren zur neukaledonischen Botanik an."],
+      hu: ["Az endemikus szárazerdei növények védelmére specializálódott.", "Világhírű gyűjteménnyel rendelkezik az araukária fenyőfélékből.", "A város feletti Michel Corbasson Park szerves része.", "Külön szekció mutatja be a kanak népi gyógyászat növényeit.", "Fontos helyszíne a ritka fajok ex-situ védelmének.", "Rendszeresen szerveznek szakvezetéseket a helyi botanikáról."],
+      ro: ["Specializată în conservarea plantelor endemice de pădure uscată.", "Deține o colecție de talie mondială de specii de Araucaria.", "Parte integrantă a parcului Michel Corbasson de pe dealurile orașului.", "Include o secțiune dedicată plantelor medicinale tradiționale Kanak.", "Rol crucial în conservarea ex-situ a speciilor vegetale rare.", "Oferă tururi ghidate despre botanica specifică arhipelagului."],
+      en: ["Specializes in the conservation of endemic dry forest plants.", "Houses a world-renowned collection of Araucaria tree species.", "Integrated into the Michel Corbasson Park on the city's heights.", "Features a section dedicated to traditional Kanak medicinal plants.", "Plays a crucial role in the ex-situ conservation of rare species.", "Offers guided educational tours focused on local botany."],
+    },
   },
   {
     id: "newcaledonia-mont-panie-reserve-life-v2",
@@ -190,6 +298,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Highest point: 1,628 meters", "Home to Agathis montana", "Unique cloud forest ecosystem", "Strictly protected core area"],
     },
     imageHint: "Misty mountain peak with dense forest",
+    descriptionAdvanced: {
+      de: "Das Reservat umfasst den höchsten Gipfel Neukaledoniens mit einer Höhe von 1628 Metern. Das Gebiet ist von dichtem tropischem Regenwald bedeckt und beherbergt zahlreiche endemische Pflanzenarten wie die Araucaria muelleri. Es dient als wichtiges Wassereinzugsgebiet für die umliegenden Regionen der Nordprovinz.",
+      hu: "A rezervátum Új-Kaledónia legmagasabb csúcsát, az 1628 méter magas Mont Panié-t foglalja magában. A területet sűrű trópusi esőerdő borítja, amely számos endemikus növényfajnak, például az Araucaria muelleri fenyőnek ad otthont. A hegység fontos vízgyűjtő terület az északi tartomány számára.",
+      ro: "Rezervația cuprinde cel mai înalt vârf din Noua Caledonie, cu o altitudine de 1628 de metri. Zona este acoperită de o pădure tropicală densă și adăpostește numeroase specii de plante endemice, cum ar fi Araucaria muelleri. Muntele servește ca un bazin hidrografic crucial pentru regiunile înconjurătoare.",
+      en: "The reserve encompasses the highest peak in New Caledonia, standing at 1628 meters. The area is covered by dense tropical rainforest and hosts numerous endemic plant species, such as the Araucaria muelleri. It serves as a vital watershed for the surrounding regions of the North Province.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: 1628 Meter über dem Meeresspiegel", "Gründung des Schutzgebietes im Jahr 1950", "Vorkommen von 13 verschiedenen Araukarien-Arten", "Durchschnittlicher Jahresniederschlag über 3000 mm", "Lage in der Nordprovinz der Hauptinsel Grande Terre", "Heimat des seltenen Endemiten Paratrophis baillonii"],
+      hu: ["Legmagasabb pontja 1628 méter a tengerszint felett", "A védett területet 1950-ben alapították", "13 különböző araukária-faj található meg itt", "Az átlagos évi csapadékmennyiség meghaladja a 3000 mm-t", "A Grande Terre sziget északi tartományában található", "A ritka Paratrophis baillonii endemikus növény otthona"],
+      ro: ["Punctul maxim: 1628 metri deasupra nivelului mării", "Înființarea zonei protejate în anul 1950", "Prezența a 13 specii diferite de Araucaria", "Precipitații medii anuale de peste 3000 mm", "Localizat în Provincia de Nord a insulei Grande Terre", "Habitat pentru planta endemică rară Paratrophis baillonii"],
+      en: ["Highest point: 1628 meters above sea level", "Establishment of the protected area in 1950", "Presence of 13 different Araucaria species", "Average annual rainfall exceeds 3000 mm", "Located in the North Province of Grande Terre", "Home to the rare endemic plant Paratrophis baillonii"],
+    },
   },
   {
     id: "newcaledonia-ilot-maitre-reserve-life-v2",
@@ -209,6 +329,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Frequent turtle sightings", "Important habitat for dugongs", "Bird sanctuary on the islet", "Part of the UNESCO buffer zone"],
     },
     imageHint: "Green sea turtle swimming over seagrass",
+    descriptionAdvanced: {
+      de: "Dieses Meeresschutzgebiet liegt etwa vier Kilometer vor der Küste von Nouméa. Die Insel ist von einem 200 Hektar großen Korallenriff umgeben, das eine reiche marine Biodiversität aufweist. Das Gebiet ist besonders bekannt für das häufige Vorkommen von grünen Meeresschildkröten in den flachen Lagunengewässern.",
+      hu: "Ez a tengeri védett terület körülbelül négy kilométerre fekszik Nouméa partjaitól. A szigetet egy 200 hektáros korallzátony veszi körül, amely gazdag tengeri élővilágnak ad otthont. A terület különösen ismert a sekély lagúna vizeiben gyakran előforduló közönséges levesteknősökről.",
+      ro: "Această zonă marină protejată este situată la aproximativ patru kilometri de coasta orașului Nouméa. Insula este înconjurată de un recif de corali de 200 de hectare, care prezintă o biodiversitate marină bogată. Zona este cunoscută pentru prezența frecventă a țestoaselor verzi în apele puțin adânci.",
+      en: "This marine protected area is located approximately four kilometers off the coast of Nouméa. The island is surrounded by a 200-hectare coral reef flat that boasts rich marine biodiversity. The area is particularly known for the frequent sightings of green sea turtles in the shallow lagoon waters.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche des Schutzgebiets: 200 Hektar", "Entfernung von Nouméa: ca. 4 Kilometer", "Schutzstatus seit dem Jahr 1981", "Vorkommen der Meeresschildkröte Chelonia mydas", "Maximalhöhe der Insel: ca. 2 Meter", "Beliebtes Revier für Kitesurfer aufgrund konstanter Winde"],
+      hu: ["A védett terület teljes területe 200 hektár", "Távolsága Nouméától kb. 4 kilométer", "Védett státusz 1981 óta", "A közönséges levesteknős (Chelonia mydas) élőhelye", "A sziget maximális magassága kb. 2 méter", "Népszerű kitesurf helyszín az állandó szelek miatt"],
+      ro: ["Suprafața totală a zonei protejate: 200 hectare", "Distanța față de Nouméa: aprox. 4 kilometri", "Statut de protecție din anul 1981", "Prezența țestoasei marine Chelonia mydas", "Înălțimea maximă a insulei: aprox. 2 metri", "Locație populară pentru kitesurfing datorită vânturilor constante"],
+      en: ["Total area of the protected zone: 200 hectares", "Distance from Nouméa: approx. 4 kilometers", "Protection status since the year 1981", "Presence of the sea turtle Chelonia mydas", "Maximum height of the island: approx. 2 meters", "Popular kitesurfing spot due to consistent winds"],
+    },
   },
   {
     id: "newcaledonia-white-river-reserve-life-v2",
@@ -228,6 +360,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Significant wetland site", "Houses rare marsh orchids", "Habitat for white-browed crake", "Focused on bog conservation"],
     },
     imageHint: "Wetland landscape with marsh plants",
+    descriptionAdvanced: {
+      de: "Die Rivière Blanche Reserve ist Teil des Blue River Provincial Park im Süden der Hauptinsel. Das Gebiet zeichnet sich durch seine charakteristische Maquis-Vegetation auf ultramafischen Böden aus. Es ist ein wichtiges Refugium für den Kagu, den Nationalvogel Neukaledoniens, der in den dichten Wäldern des Tals lebt.",
+      hu: "A Rivière Blanche rezervátum a Grande Terre déli részén található Kék Folyó Tartományi Park része. A területet az ultramafikus talajon kialakult jellegzetes macchia-vegetáció jellemzi. Fontos menedékhely a kagu számára, amely Új-Kaledónia nemzeti madara és a völgy sűrű erdőiben él.",
+      ro: "Rezervația Rivière Blanche face parte din Parcul Provincial Blue River, situat în sudul insulei principale. Zona este caracterizată de vegetația sa specifică de maquis pe soluri ultramafice. Este un refugiu important pentru kagu, pasărea națională a Noii Caledonii, care trăiește în pădurile dese ale văii.",
+      en: "The Rivière Blanche Reserve is part of the Blue River Provincial Park in the south of the main island. The area is characterized by its distinctive maquis vegetation on ultramafic soils. It is a crucial refuge for the Kagu, New Caledonia's national bird, which inhabits the dense forests of the valley.",
+    },
+    factsAdvanced: {
+      de: ["Teil des 9000 Hektar großen Blue River Parks", "Höchste Konzentration an endemischen Pflanzenarten", "Wichtigstes Brutgebiet für den flugunfähigen Kagu", "Vorkommen der seltenen Araucaria humboldtensis", "Rote Erde durch hohen Eisen- und Mangangehalt", "Durchfluss des Flusses Rivière Blanche"],
+      hu: ["A 9000 hektáros Kék Folyó Park része", "Itt található az endemikus növényfajok egyik legnagyobb koncentrációja", "A röpképtelen kagu legfontosabb fészkelőhelye", "A ritka Araucaria humboldtensis előfordulási helye", "Vörös föld a magas vas- és mangántartalom miatt", "A Rivière Blanche folyó szeli át a területet"],
+      ro: ["Parte a Parcului Blue River de 9000 de hectare", "Cea mai mare concentrație de specii de plante endemice", "Cea mai importantă zonă de cuibărit pentru pasărea kagu", "Prezența rarei Araucaria humboldtensis", "Pământ roșu datorită conținutului ridicat de fier și mangan", "Traversată de râul Rivière Blanche"],
+      en: ["Part of the 9000-hectare Blue River Provincial Park", "Highest concentration of endemic plant species", "Most important breeding ground for the flightless Kagu", "Occurrence of the rare Araucaria humboldtensis", "Red soil due to high iron and manganese content", "The Rivière Blanche river flows through the area"],
+    },
   },
   {
     id: "newcaledonia-signal-island-reserve-life-v2",
@@ -247,6 +391,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Large shearwater colonies", "Intact coral reef structures", "Historic signal mast remains", "Popular for eco-tourism"],
     },
     imageHint: "Seabirds nesting on a small coral island",
+    descriptionAdvanced: {
+      de: "Die Îlot Signal ist ein bedeutendes Meeresschutzgebiet in der Nähe von Nouméa. Die Insel beherbergt historische Überreste eines Leuchtfeuers aus dem 19. Jahrhundert. Das umliegende Riff ist Teil des UNESCO-Weltnaturerbes und bietet Lebensraum für zahlreiche Seevögel, die die Insel als Nistplatz nutzen.",
+      hu: "Az Îlot Signal egy jelentős tengeri védett terület Nouméa közelében. A szigeten egy 19. századi jelzőtorony történelmi maradványai találhatók. A környező zátony az UNESCO Világörökség része, és számos tengeri madárnak nyújt élőhelyet, amelyek fészkelőhelyként használják a szigetet.",
+      ro: "Îlot Signal este o zonă marină protejată semnificativă situată lângă Nouméa. Insula găzduiește vestigii istorice ale unui far din secolul al XIX-lea. Reciful înconjurător face parte din Patrimoniul Mondial UNESCO și oferă habitat pentru numeroase păsări marine care folosesc insula ca loc de cuibărit.",
+      en: "Îlot Signal is a significant marine protected area located near Nouméa. The island hosts historical remains of a 19th-century beacon tower. The surrounding reef is part of the UNESCO World Heritage site and provides habitat for numerous seabirds that use the island as a nesting site.",
+    },
+    factsAdvanced: {
+      de: ["Bau des historischen Signalturms im Jahr 1883", "Fläche der Koralleninsel: ca. 11 Hektar", "Teil der UNESCO-Weltkulturerbe-Lagune seit 2008", "Nistplatz für den Keilschwanz-Sturmtaucher", "Korallenriffe mit über 100 Fischarten", "Lage ca. 15 km westlich von Nouméa"],
+      hu: ["A történelmi jelzőtorony 1883-ban épült", "A korallsziget területe kb. 11 hektár", "2008 óta az UNESCO Világörökség része", "A csendes-óceáni vészmadár fészkelőhelye", "A korallzátonyokon több mint 100 halfaj él", "Nouméától kb. 15 km-re nyugatra fekszik"],
+      ro: ["Construcția turnului de semnalizare istoric în 1883", "Suprafața insulei de corali: aprox. 11 hectare", "Parte a lagunei incluse în UNESCO din 2008", "Loc de cuibărit pentru furtunarul cu coadă în formă de pană", "Recife de corali cu peste 100 de specii de pești", "Localizată la aprox. 15 km vest de Nouméa"],
+      en: ["Construction of the historical signal tower in 1883", "Area of the coral island: approx. 11 hectares", "Part of the UNESCO World Heritage lagoon since 2008", "Nesting site for the Wedge-tailed Shearwater", "Coral reefs hosting over 100 fish species", "Located approx. 15 km west of Nouméa"],
+    },
   },
   {
     id: "newcaledonia-yves-merlet-reserve-life-v2",
@@ -266,6 +422,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["No human entry allowed", "Baseline for marine ecosystems", "Area of 167 square kilometers", "Zero fishing activity permitted"],
     },
     imageHint: "Pristine uninhabited coral reef islands",
+    descriptionAdvanced: {
+      de: "Diese integrale Reserve ist eines der strengsten Schutzgebiete Neukaledoniens und für die Öffentlichkeit weitgehend unzugänglich. Sie umfasst ein riesiges marines Areal im Südosten der Grande Terre. Das Ziel der Reserve ist der vollständige Schutz der marinen Ökosysteme und der Erhalt der genetischen Vielfalt ohne menschliche Störung.",
+      hu: "Ez az integrált rezervátum Új-Kaledónia egyik legszigorúbban védett területe, és a nyilvánosság számára nagyrészt hozzáférhetetlen. Egy hatalmas tengeri területet foglal magában a Grande Terre délkeleti részén. A rezervátum célja a tengeri ökoszisztémák teljes körű védelme és a genetikai sokféleség megőrzése emberi zavarás nélkül.",
+      ro: "Această rezervație integrală este una dintre cele mai strict protejate zone din Noua Caledonie și este în mare parte inaccesibilă publicului. Cuprinde o zonă marină vastă în sud-estul insulei Grande Terre. Scopul rezervației este protecția totală a ecosistemelor marine și conservarea diversității genetice fără interferențe umane.",
+      en: "This integral reserve is one of the most strictly protected areas in New Caledonia and is largely inaccessible to the public. It covers a vast marine area in the southeast of Grande Terre. The reserve aims for the total protection of marine ecosystems and the preservation of genetic diversity without human interference.",
+    },
+    factsAdvanced: {
+      de: ["Gründung der Reserve im Jahr 1970", "Gesamtfläche: ca. 172 Quadratkilometer", "Status als Integrales Naturreservat (Stufe Ia)", "Betretungsverbot für Touristen und Fischer", "Überwachung der Korallenregeneration", "Wichtiger Referenzpunkt für wissenschaftliche Studien"],
+      hu: ["A rezervátumot 1970-ben alapították", "Teljes területe kb. 172 négyzetkilométer", "Integrált Természetvédelmi Terület (Ia kategória)", "Turisták és halászok számára tilos a belépés", "A korallok regenerációjának megfigyelése", "Fontos referenciapont a tudományos kutatások számára"],
+      ro: ["Înființarea rezervației în anul 1970", "Suprafața totală: aprox. 172 kilometri pătrați", "Statut de Rezervație Naturală Integrală (Categoria Ia)", "Acces interzis pentru turiști și pescari", "Monitorizarea regenerării coralilor", "Punct de referință important pentru studii științifice"],
+      en: ["Establishment of the reserve in 1970", "Total area: approx. 172 square kilometers", "Status as an Integral Nature Reserve (Category Ia)", "Access prohibited for tourists and fishers", "Monitoring of coral regeneration", "Important reference point for scientific studies"],
+    },
   },
   {
     id: "newcaledonia-ouen-toro-forest-life-v2",
@@ -285,6 +453,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Specialized dry forest habitat", "60 hectares of protected area", "Important bird corridor", "Educational botanical trails"],
     },
     imageHint: "Dry tropical forest with walking path",
+    descriptionAdvanced: {
+      de: "Die Ouen Toro Forest Reserve liegt auf einem Hügel im Süden von Nouméa und bietet Schutz für eines der letzten Fragmente des küstennahen Trockenwaldes. Das Gebiet ist von Wanderwegen durchzogen, die Panoramablicke auf die Lagune und die umliegenden Buchten ermöglichen. Historisch bedeutsam sind die dort installierten australischen Kanonen aus dem Zweiten Weltkrieg.",
+      hu: "Az Ouen Toro erdőrezervátum Nouméa déli részén, egy dombon található, és a part menti száraz erdők egyik utolsó töredékét védi. A területet túraútvonalak hálózzák be, amelyekről panorámás kilátás nyílik a lagúnára és a környező öblökre. Történelmileg jelentősek az itt elhelyezett, második világháborús ausztrál ágyúk.",
+      ro: "Rezervația forestieră Ouen Toro este situată pe un deal din sudul orașului Nouméa și protejează unul dintre ultimele fragmente de pădure uscată de coastă. Zona este străbătută de trasee de drumeție care oferă vederi panoramice asupra lagunei. Din punct de vedere istoric, sunt semnificative tunurile australiene instalate aici în timpul celui de-al Doilea Război Mondial.",
+      en: "The Ouen Toro Forest Reserve is located on a hill in southern Nouméa and protects one of the last fragments of coastal dry forest. The area is crisscrossed by hiking trails offering panoramic views of the lagoon and surrounding bays. Historically significant are the Australian cannons installed there during World War II.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt des Hügels: 132 Meter", "Fläche des Schutzgebiets: ca. 60 Hektar", "Vorkommen von Sandelholz-Bäumen (Santalum austrocaledonicum)", "Installation von zwei 6-Zoll-Kanonen im Jahr 1940", "Letztes Refugium für den bedrohten Trockenwald", "Beliebter Ort für Gleitschirmflieger"],
+      hu: ["A domb legmagasabb pontja 132 méter", "A védett terület kiterjedése kb. 60 hektár", "Szandálfa (Santalum austrocaledonicum) található itt", "Két 6 hüvelykes ágyú telepítése 1940-ben", "A veszélyeztetett száraz erdők utolsó menedéke", "A siklóernyősök kedvelt helyszíne"],
+      ro: ["Punctul maxim al dealului: 132 metri", "Suprafața zonei protejate: aprox. 60 hectare", "Prezența arborilor de santal (Santalum austrocaledonicum)", "Instalarea a două tunuri de 6 inci în anul 1940", "Ultimul refugiu pentru pădurea uscată amenințată", "Loc popular pentru practicantii de parapantă"],
+      en: ["Highest point of the hill: 132 meters", "Area of the protected zone: approx. 60 hectares", "Occurrence of sandalwood trees (Santalum austrocaledonicum)", "Installation of two 6-inch cannons in 1940", "Last refuge for the endangered dry forest", "Popular spot for paragliders"],
+    },
   },
   {
     id: "newcaledonia-ouamenie-mangroves-life-v2",
@@ -304,6 +484,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Rich in crustacean species", "Natural coastal protection", "Crucial fish breeding ground", "Accessible via canoe trails"],
     },
     imageHint: "Dense mangrove roots in shallow water",
+    descriptionAdvanced: {
+      de: "Die Ouaménie Mangroven bei Boulouparis bilden ein komplexes Ökosystem an der Schnittstelle zwischen Land und Meer. Diese Wälder sind entscheidend für den Küstenschutz und dienen als Kinderstube für zahlreiche Fisch- und Krustentierarten. Das Gebiet beherbergt eine spezifische Flora, die an die salzhaltigen Bedingungen der Gezeitenzonen angepasst ist.",
+      hu: "A Boulouparis melletti Ouaménie mangroveerdők összetett ökoszisztémát alkotnak a szárazföld és a tenger határán. Ezek az erdők döntő fontosságúak a partvédelem szempontjából, és számos hal- és rákfaj bölcsődéjeként szolgálnak. A terület speciális flórának ad otthont, amely alkalmazkodott az árapályzónák sós körülményeihez.",
+      ro: "Mangrovele Ouaménie de lângă Boulouparis formează un ecosistem complex la interfața dintre pământ și mare. Aceste păduri sunt cruciale pentru protecția coastelor și servesc drept pepinieră pentru numeroase specii de pești și crustacee. Zona găzduiește o floră specifică, adaptată condițiilor saline ale zonelor intertidale.",
+      en: "The Ouaménie Mangroves near Boulouparis form a complex ecosystem at the interface between land and sea. These forests are crucial for coastal protection and serve as a nursery for numerous fish and crustacean species. The area hosts a specific flora adapted to the saline conditions of the tidal zones.",
+    },
+    factsAdvanced: {
+      de: ["Vorkommen von 11 verschiedenen Mangrovenarten", "Wichtiger Lebensraum für die Krabbe Scylla serrata", "Schutz vor Küstenerosion durch Wellendämpfung", "Beobachtungsgebiet für den Graurücken-Brillenvogel", "Lage an der Westküste der Grande Terre", "Bedeutung für die lokale handwerkliche Fischerei"],
+      hu: ["11 különböző mangrovéfaj fordul elő itt", "A Scylla serrata rákfaj fontos élőhelye", "Védelem a part menti erózió ellen a hullámcsillapítás révén", "A szürkehátú pápaszemesmadár megfigyelőhelye", "A Grande Terre sziget nyugati partján található", "Jelentős szerep a helyi kézműves halászatban"],
+      ro: ["Prezența a 11 specii diferite de mangrove", "Habitat important pentru crabul Scylla serrata", "Protecție împotriva eroziunii costiere prin atenuarea valurilor", "Zonă de observare pentru pasărea Zosterops lateralis", "Situat pe coasta de vest a insulei Grande Terre", "Importanță pentru pescuitul artizanal local"],
+      en: ["Presence of 11 different mangrove species", "Important habitat for the mud crab Scylla serrata", "Protection against coastal erosion through wave attenuation", "Observation area for the Silvereye bird", "Located on the west coast of Grande Terre", "Significance for local artisanal fishing"],
+    },
   },
   {
     id: "newcaledonia-ouvea-atoll-lagoon-life-v2",
@@ -323,6 +515,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Part of World Heritage site", "Habitat of the Ouvéa parakeet", "Rich in lemon shark nurseries", "Pristine coral atoll system"],
     },
     imageHint: "Turquoise lagoon with white sand atolls",
+    descriptionAdvanced: {
+      de: "Die Lagune des Ouvéa-Atolls gehört zu den unberührtesten Gebieten im Pazifik und ist Teil des UNESCO-Weltnaturerbes. Das kristallklare Wasser beherbergt eine außergewöhnliche marine Vielfalt, darunter zahlreiche Haiarten und seltene Korallenformationen. Die Lagune wird von den berühmten Pléiades-Inseln begrenzt, die natürliche Barrieren zum offenen Ozean bilden.",
+      hu: "Az Ouvéa-atoll lagúnája a Csendes-óceán egyik legérintetlenebb területe, és az UNESCO Világörökség része. A kristálytiszta víz kivételes tengeri sokféleségnek ad otthont, beleértve számos cápafajt és ritka korallképződményeket. A lagúnát a híres Pléiades-szigetek határolják, amelyek természetes gátat képeznek a nyílt óceán felé.",
+      ro: "Laguna atolului Ouvéa este una dintre cele mai curate zone din Pacific și face parte din Patrimoniul Mondial UNESCO. Apele cristaline adăpostesc o diversitate marină excepțională, inclusiv numeroase specii de rechini și formațiuni de corali rare. Laguna este mărginită de faimoasele insule Pléiades, care formează bariere naturale către ocean.",
+      en: "The Ouvéa Atoll Lagoon is among the most pristine areas in the Pacific and is part of the UNESCO World Heritage site. The crystal-clear waters host exceptional marine diversity, including numerous shark species and rare coral formations. The lagoon is bordered by the famous Pléiades islands, which form natural barriers to the open ocean.",
+    },
+    factsAdvanced: {
+      de: ["Aufnahme in das UNESCO-Welterbe im Jahr 2008", "Länge der Lagune: ca. 35 Kilometer", "Vorkommen des endemischen Ouvéa-Sittichs an Land", "Maximaltiefe der Lagune: ca. 30 Meter", "Heimat für Zitronenhaie und Weißspitzen-Riffhaie", "Weiße Sandstrände mit einer Länge von 25 km"],
+      hu: ["2008-ban került fel az UNESCO Világörökségi listájára", "A lagúna hossza kb. 35 kilométer", "Az endemikus Ouvéa-papagáj élőhelye a szárazföldön", "A lagúna maximális mélysége kb. 30 méter", "Citromcápák és fehérfoltú szirticápák otthona", "25 km hosszú fehér homokos tengerpart"],
+      ro: ["Includerea în Patrimoniul UNESCO în anul 2008", "Lungimea lagunei: aprox. 35 kilometri", "Habitat pentru papagalul endemic de Ouvéa pe uscat", "Adâncimea maximă a lagunei: aprox. 30 metri", "Găzduiește rechini lămâie și rechini de recif cu vârful alb", "Plaje cu nisip alb cu o lungime de 25 km"],
+      en: ["Included in the UNESCO World Heritage list in 2008", "Length of the lagoon: approx. 35 kilometers", "Habitat for the endemic Ouvéa Parakeet on land", "Maximum depth of the lagoon: approx. 30 meters", "Home to lemon sharks and whitetip reef sharks", "White sand beaches stretching for 25 km"],
+    },
   },
   {
     id: "newcaledonia-prony-bay-reserve-life-v2",
@@ -342,6 +546,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Humpback whale sightings", "Hydrothermal vent chimneys", "Rich marine benthic life", "Whale watching hub"],
     },
     imageHint: "Humpback whale breaching in Prony Bay",
+    descriptionAdvanced: {
+      de: "Die Prony-Bucht im Süden der Grande Terre ist bekannt für ihre einzigartigen geologischen Formationen, insbesondere die Aiguille de Prony, eine unterseeische hydrothermale Nadel. Das Reservat ist ein wichtiger Ort für die Walbeobachtung während der Wintermonate. Die Bucht wird von charakteristischen roten Lateritböden und einer dichten Küstenvegetation eingerahmt.",
+      hu: "A Grande Terre déli részén található Prony-öböl egyedülálló geológiai képződményeiről ismert, különösen az Aiguille de Prony nevű víz alatti hidrotermális képződményről. A rezervátum fontos helyszín a bálnamegfigyeléshez a téli hónapokban. Az öblöt jellegzetes vörös laterit talaj és sűrű part menti vegetáció övezi.",
+      ro: "Golful Prony din sudul insulei Grande Terre este cunoscut pentru formațiunile sale geologice unice, în special Aiguille de Prony, o acul hidrotermal submarin. Rezervația este un loc important pentru observarea balenelor în timpul lunilor de iarnă. Golful este încadrat de soluri lateritice roșii caracteristice și vegetație de coastă densă.",
+      en: "Prony Bay in the south of Grande Terre is renowned for its unique geological formations, notably the Aiguille de Prony, an underwater hydrothermal needle. The reserve is a significant location for whale watching during the winter months. The bay is framed by characteristic red laterite soils and dense coastal vegetation.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Aiguille de Prony: ca. 38 Meter", "Hauptsaison für Buckelwale: Juli bis September", "Überreste des ehemaligen Straflagers Prony", "Vorkommen von seltenen schwarzen Korallen", "Zusammenfluss von Süßwasser und marinem Ökosystem", "Lage in der Südprovinz (Province Sud)"],
+      hu: ["Az Aiguille de Prony magassága kb. 38 méter", "A hosszúszárnyú bálnák főszezonja: július-szeptember", "Az egykori Prony büntetőtelep maradványai", "Ritka fekete korallok előfordulási helye", "Édesvíz és tengeri ökoszisztéma találkozási pontja", "A Déli Tartományban (Province Sud) található"],
+      ro: ["Înălțimea Aiguille de Prony: aprox. 38 metri", "Sezonul principal pentru balenele cu cocoașă: iulie-septembrie", "Vestigiile fostei colonii penitenciare Prony", "Prezența coralilor negri rari", "Confluența apei dulci cu ecosistemul marin", "Situat în Provincia de Sud (Province Sud)"],
+      en: ["Height of the Aiguille de Prony: approx. 38 meters", "Peak season for humpback whales: July to September", "Remains of the former Prony penal colony", "Occurrence of rare black corals", "Confluence of freshwater and marine ecosystems", "Located in the South Province (Province Sud)"],
+    },
   },
   {
     id: "newcaledonia-entrecasteaux-reefs-life-v2",
@@ -361,6 +577,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["UNESCO World Heritage site", "Thousands of green turtles", "Large booby bird colonies", "Extremely remote location"],
     },
     imageHint: "Massive sea turtle nesting on sandy cay",
+    descriptionAdvanced: {
+      de: "Die Entrecasteaux-Riffe liegen am nördlichen Ende des Neukaledonischen Barriereriffs und bestehen aus mehreren unbewohnten Korallenatollen. Das Gebiet gehört zum Naturpark Korallenmeer und ist ein weltweit bedeutender Nistplatz für die grüne Meeresschildkröte. Aufgrund seiner Abgelegenheit hat sich hier eine fast ungestörte marine Wildnis erhalten.",
+      hu: "Az Entrecasteaux-zátonyok az Új-Kaledóniai-korallzátony északi végén találhatók, és több lakatlan korallatollból állnak. A terület a Korall-tenger Természeti Park része, és a közönséges levesteknősök világszerte jelentős fészkelőhelye. Távoli fekvésének köszönhetően itt szinte zavartalan tengeri vadon maradt fenn.",
+      ro: "Recifele Entrecasteaux sunt situate la capătul nordic al barierei de corali din Noua Caledonie și constau din mai multe atoli de corali nelocuiți. Zona aparține Parcului Natural al Mării de Corali și este un loc de cuibărit de importanță mondială pentru țestoasa verde. Datorită izolării sale, aici s-a păstrat o sălbăticie marină aproape intactă.",
+      en: "The Entrecasteaux Reefs are located at the northern end of the New Caledonia Barrier Reef and consist of several uninhabited coral atolls. The area belongs to the Natural Park of the Coral Sea and is a globally significant nesting site for the green sea turtle. Due to its remoteness, it has preserved an almost undisturbed marine wilderness.",
+    },
+    factsAdvanced: {
+      de: ["Teil des 1,3 Mio. km² großen Naturparks Korallenmeer", "Wichtigstes Nistgebiet für Chelonia mydas im Pazifik", "Beinhaltet die Atolle Huon, Surprise und Fabre", "Große Kolonien von Maskentölpeln und Fregattvögeln", "UNESCO-Weltkulturerbe seit dem Jahr 2008", "Keine permanente menschliche Besiedlung vorhanden"],
+      hu: ["Az 1,3 millió km²-es Korall-tenger Természeti Park része", "A közönséges levesteknős legfontosabb fészkelőhelye a Csendes-óceánon", "Magában foglalja a Huon, Surprise és Fabre atollokat", "Maszkos szulák és fregattmadarak hatalmas kolóniái", "2008 óta az UNESCO Világörökség része", "Nincs állandó emberi lakosság a területen"],
+      ro: ["Parte a Parcului Natural al Mării de Corali de 1,3 mil. km²", "Cea mai importantă zonă de cuibărit pentru Chelonia mydas din Pacific", "Include atolii Huon, Surprise și Fabre", "Colonii mari de corbi de mare cu mască și fregate", "Patrimoniu Mondial UNESCO din anul 2008", "Nu există așezări umane permanente"],
+      en: ["Part of the 1.3 million km² Natural Park of the Coral Sea", "Most important nesting ground for Chelonia mydas in the Pacific", "Includes Huon, Surprise, and Fabre atolls", "Large colonies of Masked Boobies and Frigatebirds", "UNESCO World Heritage site since the year 2008", "No permanent human habitation present"],
+    },
   },
   {
     id: "newcaledonia-netcha-reserve-life-v2",
@@ -380,6 +608,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Red laterite soils", "High plant endemism rate", "Popular mountain bike trails", "Protects rare conifers"],
     },
     imageHint: "Red soil landscape with low shrubs",
+    descriptionAdvanced: {
+      de: "Die Netcha Nature Reserve liegt im Süden der Grande Terre in einer Region, die durch ihre auffällig roten Böden geprägt ist. Das Gebiet schützt eine spezialisierte Flora, die an die metallreichen Bedingungen angepasst ist. Ein Netz von Wegen macht die Region für Mountainbiker und Wanderer zugänglich, während die endemische Biodiversität streng geschützt bleibt.",
+      hu: "A Netcha természetvédelmi terület a Grande Terre déli részén található, egy feltűnően vörös talajáról ismert régióban. A terület a fémtartalmú körülményekhez alkalmazkodott speciális flórát védi. Útvonalhálózat teszi hozzáférhetővé a régiót a hegyikerékpárosok és túrázók számára, miközben az endemikus élővilág szigorú védelem alatt áll.",
+      ro: "Rezervația naturală Netcha este situată în sudul insulei Grande Terre, într-o regiune marcată de solurile sale de un roșu izbitor. Zona protejează o floră specializată, adaptată condițiilor bogate în metale. O rețea de poteci face regiunea accesibilă pentru bicicliști și drumeți, în timp ce biodiversitatea endemică rămâne strict protejată.",
+      en: "The Netcha Nature Reserve is located in the south of Grande Terre in a region characterized by its strikingly red soils. The area protects a specialized flora adapted to metal-rich conditions. A network of trails makes the region accessible to mountain bikers and hikers, while the endemic biodiversity remains strictly protected.",
+    },
+    factsAdvanced: {
+      de: ["Über 30 Kilometer markierte Mountainbike-Strecken", "Präsenz der endemischen Pflanzengattung Nepenthes", "Rote Erde resultiert aus Nickelabbau-Geologie", "Lage nahe dem Yaté-Stausee", "Vorkommen von endemischen Grevillea-Arten", "Beliebtes Ziel für Ökotourismus im Süden"],
+      hu: ["Több mint 30 kilométernyi kijelölt hegyikerékpár-út", "Az endemikus Nepenthes (kancsóka) nemzetség jelenléte", "A vörös föld a nikkelbányászati geológia eredménye", "A Yaté-víztározó közelében fekszik", "Endemikus Grevillea-fajok előfordulási helye", "Az ökoturizmus kedvelt célpontja délen"],
+      ro: ["Peste 30 de kilometri de trasee marcate pentru mountain bike", "Prezența genului de plante endemice Nepenthes", "Pământul roșu rezultă din geologia specifică minelor de nichel", "Localizată lângă lacul de acumulare Yaté", "Prezența speciilor endemice de Grevillea", "Destinație populară pentru ecoturism în sud"],
+      en: ["Over 30 kilometers of marked mountain bike trails", "Presence of the endemic plant genus Nepenthes", "Red soil results from nickel-mining geology", "Located near the Yaté reservoir", "Occurrence of endemic Grevillea species", "Popular destination for ecotourism in the south"],
+    },
   },
   {
     id: "newcaledonia-saille-forest-life-v2",
@@ -399,6 +639,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Palm diversity hotspot", "Mountain rainforest ecosystem", "Protects endemic lianas", "Crucial water catchment area"],
     },
     imageHint: "Dense tropical forest with many palm trees",
+    descriptionAdvanced: {
+      de: "Der Saille-Wald ist ein feuchter Regenwald in der Zentralregion von Neukaledonien. Er beherbergt eine außergewöhnlich hohe Dichte an endemischen Pflanzen und Tieren, darunter seltene Orchideenarten und endemische Vögel. Das dichte Kronendach und die hohe Luftfeuchtigkeit schaffen ein stabiles Mikroklima, das für den Erhalt dieser spezialisierten Arten unerlässlich ist.",
+      hu: "A Saille-erdő egy nedves esőerdő Új-Kaledónia központi régiójában. Kivételesen sűrűn fordulnak elő itt endemikus növények és állatok, köztük ritka orchideafajok és endemikus madarak. A sűrű lombkorona és a magas páratartalom stabil mikroklímát teremt, amely elengedhetetlen e speciális fajok fennmaradásához.",
+      ro: "Pădurea Saille este o pădure tropicală umedă din regiunea centrală a Noii Caledonii. Găzduiește o densitate excepțional de mare de plante și animale endemice, inclusiv specii rare de orhidee și păsări endemice. Baldachinul dens și umiditatea ridicată creează un microclimat stabil, esențial pentru conservarea acestor specii specializate.",
+      en: "The Saille Forest is a humid rainforest in the central region of New Caledonia. It hosts an exceptionally high density of endemic plants and animals, including rare orchid species and endemic birds. The dense canopy and high humidity create a stable microclimate essential for the preservation of these specialized species.",
+    },
+    factsAdvanced: {
+      de: ["Über 75 % der Pflanzenarten sind endemisch", "Wichtiger Lebensraum für den Neukaledonien-Sperber", "Vorkommen von riesigen Baumfarnen (Cyathea)", "Jährlicher Niederschlag zwischen 2500 und 3500 mm", "Lage im Gebirgsmassiv der Hauptinsel", "Bedeutung für die Erforschung der Insektenvielfalt"],
+      hu: ["A növényfajok több mint 75%-a endemikus", "Az új-kaledóniai karvaly fontos élőhelye", "Óriási páfrányfák (Cyathea) jelenléte", "Évi csapadékmennyiség 2500 és 3500 mm között", "A fősziget hegységében található", "Jelentős szerep a rovarvilág sokszínűségének kutatásában"],
+      ro: ["Peste 75% din speciile de plante sunt endemice", "Habitat important pentru uliul de Noua Caledonie", "Prezența ferigilor arborescente gigantice (Cyathea)", "Precipitații anuale între 2500 și 3500 mm", "Situată în masivul muntos al insulei principale", "Importanță pentru cercetarea diversității insectelor"],
+      en: ["Over 75% of plant species are endemic", "Important habitat for the New Caledonian Goshawk", "Presence of giant tree ferns (Cyathea)", "Annual rainfall between 2500 and 3500 mm", "Located in the mountain massif of the main island", "Significance for research on insect diversity"],
+    },
   },
   {
     id: "newcaledonia-poindimie-marine-reserve-life-v2",
@@ -418,6 +670,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Known for nudibranch diversity", "Giant sea fan formations", "Rich in pygmy seahorses", "Protects the reef ecosystem"],
     },
     imageHint: "Colorful nudibranch on coral reef",
+    descriptionAdvanced: {
+      de: "Das Meeresschutzgebiet von Poindimié an der Ostküste ist bekannt für seine prächtigen Korallengärten und die Vielfalt der Rifffische. Es bietet Schutz für komplexe marine Lebensräume, die besonders bei Tauchern und Schnorchlern beliebt sind. Die Reserve trägt dazu bei, die traditionellen Fischgründe der lokalen Bevölkerung durch nachhaltiges Management zu erhalten.",
+      hu: "A keleti parton fekvő Poindimié tengeri védett terület krómkorall-kertjeiről és a zátonylakó halak sokféleségéről ismert. Összetett tengeri élőhelyeket véd, amelyek különösen népszerűek a búvárok és sznorkelezők körében. A rezervátum fenntartható gazdálkodással segíti a helyi lakosság hagyományos halászterületeinek megőrzését.",
+      ro: "Rezervația marină din Poindimié, de pe coasta de est, este cunoscută pentru grădinile sale magnifice de corali și diversitatea peștilor de recif. Protejează habitate marine complexe, populare printre scafandri și amatorii de snorkeling. Rezervația contribuie la conservarea zonelor de pescuit tradiționale ale populației locale prin management durabil.",
+      en: "The marine reserve of Poindimié on the east coast is renowned for its magnificent coral gardens and diversity of reef fish. It protects complex marine habitats that are particularly popular with divers and snorkelers. The reserve helps preserve the traditional fishing grounds of the local population through sustainable management.",
+    },
+    factsAdvanced: {
+      de: ["Hohe Diversität an Weich- und Hartkorallen", "Beobachtungspunkt für Pygmäen-Seepferdchen", "Lage vor der Küste der Gemeinde Poindimié", "Teil der UNESCO-Weltkulturerbe-Cluster", "Schutzzone für seltene Meeresschnecken (Nudibranchia)", "Wassertemperaturen zwischen 22 und 28 Grad Celsius"],
+      hu: ["A lágy- és keménykorallok nagy diverzitása", "Pygmy csikóhalak (hippocampus) megfigyelőhelye", "Poindimié község partjainál fekszik", "Az UNESCO Világörökségi klaszter része", "Ritka tengeri csupaszkopoltyús csigák védelmi zónája", "A víz hőmérséklete 22 és 28 Celsius-fok között mozog"],
+      ro: ["Diversitate mare de corali moi și duri", "Punct de observare pentru căluții de mare pigmei", "Localizată în largul comunei Poindimié", "Parte a clusterelor incluse în Patrimoniul UNESCO", "Zonă de protecție pentru nudibranhiate rare", "Temperaturi ale apei între 22 și 28 de grade Celsius"],
+      en: ["High diversity of soft and hard corals", "Observation point for pygmy seahorses", "Located off the coast of Poindimié commune", "Part of the UNESCO World Heritage clusters", "Protection zone for rare nudibranchs", "Water temperatures between 22 and 28 degrees Celsius"],
+    },
   },
   {
     id: "newcaledonia-upi-bay-reserve-life-v2",
@@ -437,6 +701,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Coral rock formations in lagoon", "Home to nurse sharks", "Rich in stingray populations", "Crystal clear protected water"],
     },
     imageHint: "Coral rocks rising from clear turquoise water",
+    descriptionAdvanced: {
+      de: "Die Upi-Bucht auf der Isle of Pines ist eine flache, von Kalksteinfelsen gesäumte Lagune mit außergewöhnlichem ästhetischem und ökologischem Wert. Das Gebiet ist nur mit traditionellen Auslegerkanus (Pirogen) zugänglich, was zum Schutz der empfindlichen marinen Umwelt beiträgt. Im Wasser können häufig Schildkröten und kleine Haie beobachtet werden.",
+      hu: "A Fenyő-szigeten (Isle of Pines) található Upi-öböl egy sekély, mészkősziklákkal szegélyezett lagúna, amely kivételes esztétikai és ökológiai értékkel bír. A terület csak hagyományos pirogokkal (kifutós kenu) érhető el, ami segít az érzékeny tengeri környezet védelmében. A vízben gyakran láthatók teknősök és kisebb cápák.",
+      ro: "Golful Upi de pe Isle of Pines este o lagună puțin adâncă, mărginită de stânci calcaroase, cu o valoare estetică și ecologică excepțională. Zona este accesibilă doar cu pirogi tradiționale, ceea ce contribuie la protejarea mediului marin fragil. În apă pot fi observate frecvent țestoase și rechini mici.",
+      en: "Upi Bay on the Isle of Pines is a shallow lagoon bordered by limestone rocks, possessing exceptional aesthetic and ecological value. The area is accessible only by traditional outrigger canoes (pirogues), which helps protect the sensitive marine environment. Turtles and small sharks are frequently observed in the water.",
+    },
+    factsAdvanced: {
+      de: ["Charakteristische Pilzfelsen aus Korallenkalk", "Einsatz traditioneller melanesischer Pirogen", "Vorkommen von grünen Meeresschildkröten", "Keine motorisierten Boote in der inneren Bucht erlaubt", "Umgeben von endemischen Säulenfichten (Araucaria columnaris)", "Verbindung zur benachbarten Oro-Bucht"],
+      hu: ["Jellegzetes, korallmészkőből álló gombasziklák", "Hagyományos melanéz pirogok használata", "Közönséges levesteknősök előfordulási helye", "Motoros csónakok használata tilos a belső öbölben", "Endemikus oszlopos fenyők (Araucaria columnaris) veszik körül", "Összeköttetés a szomszédos Oro-öböllel"],
+      ro: ["Stânci caracteristice sub formă de ciupercă din calcar coraligen", "Utilizarea pirogilor melaneziene tradiționale", "Prezența țestoaselor marine verzi", "Barcile cu motor nu sunt permise în interiorul golfului", "Înconjurat de pini columnari endemici (Araucaria columnaris)", "Conexiune cu golful vecin Oro"],
+      en: ["Characteristic mushroom-shaped rocks of coral limestone", "Use of traditional Melanesian outrigger canoes", "Presence of green sea turtles", "Motorized boats are not permitted in the inner bay", "Surrounded by endemic column pines (Araucaria columnaris)", "Connection to the neighboring Oro Bay"],
+    },
   },
   {
     id: "newcaledonia-boulari-pass-reserve-life-v2",
@@ -456,6 +732,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Famous for manta ray sightings", "Large shark populations", "Strong tidal currents", "Frequent whale transit point"],
     },
     imageHint: "Manta ray swimming in deep blue water",
+    descriptionAdvanced: {
+      de: "Die Boulari-Passage ist eine strategisch wichtige Öffnung im Barriereriff südlich von Nouméa. Sie dient als Hauptkorridor für große marine Arten wie Mantarochen, Haie und Wale, die zwischen der Lagune und dem offenen Ozean wechseln. Das Reservat schützt die biologische Durchlässigkeit und die Fortpflanzungsgebiete zahlreicher Rifffische.",
+      hu: "A Boulari-átjáró egy stratégiailag fontos nyílás a korallzátonyban Nouméától délre. Fő folyosóként szolgál az olyan nagy tengeri fajok számára, mint az ördögráják, cápák és bálnák, amelyek a lagúna és a nyílt óceán között mozognak. A rezervátum védi a biológiai átjárhatóságot és számos zátonyhal szaporodóhelyét.",
+      ro: "Pasul Boulari este o deschidere strategică în bariera de corali la sud de Nouméa. Servește drept coridor principal pentru speciile marine mari, cum ar fi diavolii de mare (manta), rechinii și balenele, care circulă între lagună și oceanul deschis. Rezervația protejează conectivitatea biologică și zonele de reproducere ale peștilor de recif.",
+      en: "The Boulari Pass is a strategically important opening in the barrier reef south of Nouméa. It serves as a primary corridor for large marine species such as manta rays, sharks, and whales moving between the lagoon and the open ocean. The reserve protects biological connectivity and the spawning grounds of numerous reef fish.",
+    },
+    factsAdvanced: {
+      de: ["Häufige Sichtungen von Riesenmantarochen", "Wichtigster Schifffahrtsweg zum Hafen von Nouméa", "Bau des Leuchtturms Phare Amédée im Jahr 1865", "Starke Gezeitenströmungen fördern den Nährstoffaustausch", "Tiefe der Passage: über 20 Meter", "Teil des UNESCO-Lagunensystems"],
+      hu: ["Gyakori óriás ördögrája észlelések", "A Nouméa kikötőjébe vezető legfontosabb hajózási útvonal", "A Phare Amédée világítótorony 1865-ben épült", "Az erős árapály-áramlatok segítik a tápanyagcserét", "Az átjáró mélysége több mint 20 méter", "Az UNESCO lagúnarendszerének része"],
+      ro: ["Observări frecvente ale diavolilor de mare (manta)", "Cea mai importantă rută de navigație către portul Nouméa", "Farul Amédée a fost construit în anul 1865", "Curenții puternici de maree favorizează schimbul de nutrienți", "Adâncimea pasului: peste 20 de metri", "Parte a sistemului de lagune UNESCO"],
+      en: ["Frequent sightings of giant manta rays", "Most important shipping lane to the port of Nouméa", "Construction of the Amédée Lighthouse in 1865", "Strong tidal currents promote nutrient exchange", "Depth of the pass: over 20 meters", "Part of the UNESCO World Heritage lagoon system"],
+    },
   },
   {
     id: "newcaledonia-sarcelle-forest-life-v2",
@@ -475,6 +763,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Pristine mountain rainforest", "Habitat for Giant Imperial Pigeon", "Protects rare conifer species", "Key biodiversity core area"],
     },
     imageHint: "Mountain rainforest canopy from above",
+    descriptionAdvanced: {
+      de: "Das Sarcelle-Waldreservat liegt an der Ostküste von Grande Terre in der Nähe von Yaté. Es schützt ein wichtiges Gebiet des primären Regenwaldes, das reich an endemischen Pflanzenarten ist. Das Reservat dient als Rückzugsort für seltene Vögel und ist für die Erhaltung der biologischen Vielfalt Neukaledoniens von großer Bedeutung.",
+      hu: "A Sarcelle Erdőrezervátum Grande Terre keleti partján, Yaté közelében található. Az elsődleges esőerdők jelentős területét védi, amely kiemelkedő az endemikus növényfajok gazdagsága szempontjából. A rezervátum fontos menedéket nyújt a ritka madárfajok számára, és kulcsszerepet játszik Új-Kaledónia biodiverzitásának megőrzésében.",
+      ro: "Rezervația Forestieră Sarcelle este situată pe coasta de est a insulei Grande Terre, lângă Yaté. Protejează o zonă importantă de pădure tropicală primară, bogată în specii de plante endemice. Rezervația servește ca refugiu pentru păsări rare și este esențială pentru conservarea biodiversității din Noua Caledonie.",
+      en: "The Sarcelle Forest Reserve is located on the east coast of Grande Terre near Yaté. It protects a significant area of primary rainforest, which is rich in endemic plant species. The reserve serves as a sanctuary for rare birds and is of great importance for the conservation of New Caledonia's biological diversity.",
+    },
+    factsAdvanced: {
+      de: ["Das Reservat umfasst dichte tropische Regenwälder.", "Es liegt in der Gemeinde Yaté in der Südprovinz.", "Beherbergt zahlreiche endemische Kriechpflanzen und Farne.", "Wichtiger Lebensraum für die neukaledonische Fruchttaube.", "Das Gelände ist durch eine hohe jährliche Niederschlagsmenge geprägt.", "Schutzstatus dient der Bewahrung des genetischen Erbes der Flora."],
+      hu: ["A rezervátum sűrű trópusi esőerdőket foglal magában.", "Déli tartományban, Yaté község területén fekszik.", "Számos endemikus kúszónövénynek és páfránynak ad otthont.", "Fontos élőhelye az új-kaledóniai gyümölcsgalambnak.", "A területet magas éves csapadékmennyiség jellemzi.", "A védettség célja a flóra genetikai örökségének megőrzése."],
+      ro: ["Rezervația cuprinde păduri tropicale umede dense.", "Se află în comuna Yaté din Provincia Sud.", "Găzduiește numeroase plante agățătoare și ferigi endemice.", "Habitat important pentru porumbelul de fructe din Noua Caledonie.", "Teritoriul este caracterizat de precipitații anuale ridicate.", "Statutul de protecție vizează conservarea patrimoniului genetic al florei."],
+      en: ["The reserve encompasses dense tropical rainforests.", "Located in the commune of Yaté in the South Province.", "Home to numerous endemic climbing plants and ferns.", "Crucial habitat for the New Caledonian Imperial Pigeon.", "The area is characterized by high annual rainfall.", "Conservation status aims to preserve the flora's genetic heritage."],
+    },
   },
   {
     id: "newcaledonia-laregnere-island-reserve-life-v2",
@@ -494,6 +794,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Excellent coral reef health", "Nesting site for terns", "Protection for reef sharks", "Monitored conservation zone"],
     },
     imageHint: "Pristine white sand beach and coral reef",
+    descriptionAdvanced: {
+      de: "Das Reservat Îlot Larégnère ist ein geschütztes Meeresgebiet auf einer kleinen Koralleninsel vor Nouméa. Es ist bekannt für seine unberührten Riffe und die Vielfalt an Seevögeln, die dort nisten. Die Insel bietet ideale Bedingungen für die Beobachtung mariner Ökosysteme in ihrem natürlichen Zustand.",
+      hu: "Az Îlot Larégnère Rezervátum egy védett tengeri terület egy kis korallszigeten Nouméa közelében. Ismert érintetlen zátonyairól és a rajta fészkelő tengeri madarak sokféleségéről. A sziget ideális feltételeket kínál a tengeri ökoszisztémák természetes állapotukban történő megfigyeléséhez.",
+      ro: "Rezervația Îlot Larégnère este o zonă marină protejată pe o mică insulă de corali situată în largul orașului Nouméa. Este cunoscută pentru recifurile sale virgine și diversitatea păsărilor marine care cuibăresc acolo. Insula oferă condiții ideale pentru observarea ecosistemelor marine în stare naturală.",
+      en: "The Îlot Larégnère Reserve is a protected marine area on a small coral islet off the coast of Nouméa. It is renowned for its pristine reefs and the diversity of seabirds that nest there. The islet offers ideal conditions for observing marine ecosystems in their natural state.",
+    },
+    factsAdvanced: {
+      de: ["Die Insel liegt etwa 12 Kilometer von Nouméa entfernt.", "Das Reservat wurde 1989 zum Schutzgebiet erklärt.", "Es ist ein wichtiger Nistplatz für den Keilschwanz-Sturmtaucher.", "Die Korallenriffe beherbergen über 200 Fischarten.", "Tagesbesucher müssen strenge Umweltschutzregeln befolgen.", "Die Inseloberfläche besteht aus Korallensand und Vegetation."],
+      hu: ["A sziget körülbelül 12 kilométerre fekszik Nouméától.", "A rezervátumot 1989-ben nyilvánították védett területté.", "Fontos fészkelőhelye az ékfarkú vészmadárnak.", "A korallzátonyok több mint 200 halfajnak adnak otthont.", "A látogatóknak szigorú környezetvédelmi szabályokat kell betartaniuk.", "A sziget felszíne korallhomokból és növényzetből áll."],
+      ro: ["Insula se află la aproximativ 12 kilometri de Nouméa.", "Rezervația a fost declarată zonă protejată în anul 1989.", "Este un loc important de cuibărit pentru furtunarul cu coadă scurtă.", "Recifurile de corali adăpostesc peste 200 de specii de pești.", "Vizitatorii trebuie să respecte reguli stricte de protecție a mediului.", "Suprafața insulei este formată din nisip coraligen și vegetație."],
+      en: ["The islet is located about 12 kilometers from Nouméa.", "The reserve was declared a protected area in 1989.", "It is a key nesting site for the Wedge-tailed Shearwater.", "The coral reefs are home to over 200 species of fish.", "Day visitors must follow strict environmental protection rules.", "The island surface consists of coral sand and vegetation."],
+    },
   },
   {
     id: "newcaledonia-bellona-reefs-life-v2",
@@ -513,6 +825,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Extremely high fish biomass", "Seabird sanctuaries on cays", "Key point for ocean research", "Untouched coral ecosystem"],
     },
     imageHint: "Large schools of fish on a remote reef",
+    descriptionAdvanced: {
+      de: "Die Bellona-Riffe sind eine Gruppe abgelegener Korallenriffe in der Korallensee, etwa 600 Kilometer westlich von Neukaledonien. Diese Riffe sind Teil des Chesterfield-Plateaus und bilden ein nahezu unberührtes marines Ökosystem. Aufgrund ihrer isolierten Lage sind sie ein entscheidender Hotspot für die marine Biodiversität im Pazifik.",
+      hu: "A Bellona-zátonyok távoli korallzátonyok csoportja a Korall-tengerben, Új-Kaledóniától mintegy 600 kilométerre nyugatra. Ezek a zátonyok a Chesterfield-fennsík részét képezik, és szinte érintetlen tengeri ökoszisztémát alkotnak. Izolált helyzetük miatt a csendes-óceáni tengeri biodiverzitás döntő fontosságú gócpontjai.",
+      ro: "Recifurile Bellona sunt un grup de recifuri de corali izolate în Marea de Corali, la aproximativ 600 de kilometri vest de Noua Caledonie. Aceste recifuri fac parte din platoul Chesterfield și formează un ecosistem marin aproape virgin. Datorită izolării lor, reprezintă un punct fierbinte crucial pentru biodiversitatea marină din Pacific.",
+      en: "The Bellona Reefs are a group of remote coral reefs in the Coral Sea, approximately 600 kilometers west of New Caledonia. These reefs are part of the Chesterfield Plateau and form a near-pristine marine ecosystem. Due to their isolation, they are a crucial hotspot for marine biodiversity in the Pacific.",
+    },
+    factsAdvanced: {
+      de: ["Die Riffe wurden nach dem Schiff Bellona benannt.", "Gehören zum Naturpark der Korallensee (Parc Naturel de la Mer de Corail).", "Wichtiger Lebensraum für Meeresschildkröten und Haie.", "Das Gebiet umfasst zahlreiche Sandbänke und Korallenstöcke.", "Wissenschaftliche Expeditionen dokumentieren hier seltene Arten.", "Die Riffe liegen außerhalb der ausschließlichen Wirtschaftszone."],
+      hu: ["A zátonyokat a Bellona nevű hajóról nevezték el.", "A Korall-tenger Természeti Park részét képezik.", "Fontos élőhely a tengeri teknősök és cápák számára.", "A terület számos homokpadot és korallzátonyt foglal magában.", "Tudományos expedíciók ritka fajokat dokumentálnak itt.", "A zátonyok a kizárólagos gazdasági övezeten kívül esnek."],
+      ro: ["Recifurile au fost numite după nava Bellona.", "Fac parte din Parcul Natural al Mării de Corali.", "Habitat important pentru țestoasele marine și rechini.", "Zona include numeroase bancuri de nisip și formațiuni de corali.", "Expedițiile științifice documentează aici specii rare.", "Recifurile se află în afara zonei economice exclusive."],
+      en: ["The reefs were named after the ship Bellona.", "They are part of the Natural Park of the Coral Sea.", "Important habitat for sea turtles and sharks.", "The area includes numerous sandbanks and coral heads.", "Scientific expeditions document rare species in this area.", "The reefs are located within the remote Chesterfield Plateau."],
+    },
   },
   {
     id: "newcaledonia-voh-heart-mangrove-life-v2",
@@ -532,6 +856,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Natural 'tan' formation", "Significant mangrove area", "Crucial coastal protection", "Home to wading bird species"],
     },
     imageHint: "Heart-shaped formation in green mangroves",
+    descriptionAdvanced: {
+      de: "Das Herz von Voh ist eine natürliche Formation im Mangrovensumpf an der Westküste Neukaledoniens. Diese Lichtung entsteht durch Schwankungen des Salzgehalts im Boden, die das Pflanzenwachstum beeinflussen. Weltberühmt wurde die Formation durch die Luftaufnahmen des Fotografen Yann Arthus-Bertrand, die das Herzsymbol als ökologisches Wahrzeichen etablierten.",
+      hu: "A Voh-szív egy természetes alakzat Új-Kaledónia nyugati partjának mangrove mocsaraiban. Ez a tisztás a talaj sótartalmának ingadozása miatt alakult ki, ami befolyásolja a növények növekedését. Az alakzat Yann Arthus-Bertrand fotóművész légi felvételei révén vált világhírűvé, amelyek a szív szimbólumot ökológiai jelképként tették ismertté.",
+      ro: "Inima de la Voh este o formațiune naturală în mlaștina de mangrove de pe coasta de vest a Noii Caledonii. Această poiană este creată de variațiile de salinitate din sol care afectează creșterea plantelor. Formațiunea a devenit celebră la nivel mondial prin fotografiile aeriene ale lui Yann Arthus-Bertrand, care au stabilit simbolul inimii ca emblemă ecologică.",
+      en: "The Heart of Voh is a natural formation in the mangrove swamp on the west coast of New Caledonia. This clearing is created by variations in soil salinity that affect plant growth. The formation became world-famous through the aerial photographs of Yann Arthus-Bertrand, which established the heart symbol as an ecological landmark.",
+    },
+    factsAdvanced: {
+      de: ["Die Formation besteht aus Mangroven der Gattung Avicennia.", "Sie befindet sich in der Nähe der Gemeinde Voh.", "Die herzförmige Lichtung umfasst etwa 4 Hektar.", "Wurde 1999 auf dem Cover von 'Die Erde von oben' abgebildet.", "Die Form ist am besten vom Mont Katépa aus sichtbar.", "Das Phänomen ist als 'Tanne' in der Mangrovenökologie bekannt."],
+      hu: ["Az alakzatot Avicennia nemzetségbe tartozó mangrovék alkotják.", "Voh község közelében található.", "A szív alakú tisztás körülbelül 4 hektár kiterjedésű.", "1999-ben szerepelt 'Az Föld a magasból' című könyv borítóján.", "A forma a Mont Katépa hegyről látható a legjobban.", "A jelenség 'tanne' néven ismert a mangrove-ökológiában."],
+      ro: ["Formațiunea este compusă din mangrove din genul Avicennia.", "Se află în apropierea comunei Voh.", "Poiana în formă de inimă se întinde pe aproximativ 4 hectare.", "A apărut pe coperta cărții 'Pământul văzut din cer' în 1999.", "Forma este cel mai bine vizibilă de pe muntele Katépa.", "Fenomenul este cunoscut sub numele de 'tanne' în ecologia mangrovelor."],
+      en: ["The formation consists of mangroves of the genus Avicennia.", "It is located near the commune of Voh.", "The heart-shaped clearing covers approximately 4 hectares.", "Featured on the cover of 'Earth from Above' in 1999.", "The shape is best viewed from the top of Mount Katépa.", "The phenomenon is known as a 'tanne' in mangrove ecology."],
+    },
   },
   {
     id: "newcaledonia-turtle-bay-reserve-life-v2",
@@ -551,6 +887,18 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["Major Loggerhead turtle beach", "Centuries-old Araucaria trees", "Protects rare coastal flora", "Strict rules during nesting"],
     },
     imageHint: "Araucaria trees lining a sandy beach",
+    descriptionAdvanced: {
+      de: "Das Turtle Bay Reservat (Baie des Tortues) bei Bourail ist ein bedeutendes Schutzgebiet für die Eiablage der Unechten Karettschildkröte. Die Bucht wird von charakteristischen neukaledonischen Säulenfichten (Araucaria columnaris) gesäumt, die der Landschaft ein einzigartiges prähistorisches Aussehen verleihen. Es ist ein kritischer Lebensraum für die Erhaltung dieser bedrohten Meeresbewohner.",
+      hu: "A Bourail melletti Teknős-öböl (Baie des Tortues) az álcserepesteknősök tojásrakásának jelentős védett területe. Az öblöt jellegzetes új-kaledóniai oszlopos fenyők (Araucaria columnaris) szegélyezik, amelyek egyedi, prehisztorikus megjelenést kölcsönöznek a tájnak. Kritikus élőhely e veszélyeztetett tengeri élőlények megőrzése szempontjából.",
+      ro: "Rezervația Turtle Bay (Baie des Tortues) de lângă Bourail este o zonă protejată semnificativă pentru depunerea ouălor de către țestoasele verzi și loggerhead. Golful este mărginit de pini columnari caracteristici (Araucaria columnaris), care oferă peisajului un aspect preistoric unic. Este un habitat critic pentru conservarea acestor viețuitoare marine periclitate.",
+      en: "The Turtle Bay Reserve (Baie des Tortues) near Bourail is a significant protected area for the nesting of loggerhead sea turtles. The bay is lined with characteristic New Caledonian columnar pines (Araucaria columnaris), giving the landscape a unique prehistoric appearance. It is a critical habitat for the conservation of these endangered marine creatures.",
+    },
+    factsAdvanced: {
+      de: ["Hauptbrutstätte der Unechten Karettschildkröte im Pazifik.", "Die Nistsaison dauert von November bis März.", "Die Araukarien am Strand erreichen Höhen von über 30 Metern.", "Liegt südlich der markanten Felsformation 'La Roche Percée'.", "Wird von lokalen Freiwilligengruppen zum Schutz der Nester überwacht.", "Die Bucht ist für ihre starken Meeresströmungen bekannt."],
+      hu: ["Az álcserepesteknős fő költőhelye a Csendes-óceánon.", "A fészkelési szezon novembertől márciusig tart.", "A parton lévő araukáriák magassága meghaladja a 30 métert.", "A jellegzetes 'La Roche Percée' sziklaformációtól délre fekszik.", "Helyi önkéntes csoportok felügyelik a fészkek védelmét.", "Az öböl erős tengeri áramlatairól ismert."],
+      ro: ["Principal loc de cuibărit pentru țestoasa loggerhead în Pacific.", "Sezonul de cuibărit durează din noiembrie până în martie.", "Araucariile de pe plajă ating înălțimi de peste 30 de metri.", "Se află la sud de formațiunea stâncoasă 'La Roche Percée'.", "Este monitorizată de grupuri locale de voluntari pentru protecția cuiburilor.", "Golful este cunoscut pentru curenții marini puternici."],
+      en: ["Major nesting site for loggerhead sea turtles in the Pacific.", "The nesting season runs from November to March.", "Columnar pines on the beach reach heights over 30 meters.", "Located just south of the 'La Roche Percée' rock formation.", "Monitored by local volunteer groups to protect the nests.", "The bay is known for its strong oceanic currents."],
+    },
   },
   {
     id: "newcaledonia-madeleine-waterfalls-reserve-life-v2",
@@ -570,5 +918,17 @@ export const newcaledoniaLifeV2: POI[] = [
       en: ["7 of 8 endemic conifer species", "Ultramafic plant community", "Botanical education center", "Protects dwarf plant species"],
     },
     imageHint: "Small waterfall surrounded by unique shrubs",
+    descriptionAdvanced: {
+      de: "Das Reservat der Madeleine-Wasserfälle ist ein botanisches Juwel in der Südprovinz Neukaledoniens. Das Gebiet ist geprägt durch den 'Maquis minier', eine einzigartige Vegetation auf ultrabasischem Boden, die fast ausschließlich aus endemischen Arten besteht. Das Reservat schützt seltene Koniferenarten, die nirgendwo sonst auf der Erde vorkommen.",
+      hu: "A Madeleine-vízesés Rezervátum Új-Kaledónia déli tartományának botanikai ékköve. A területet a 'Maquis minier' jellemzi, amely egy egyedülálló, ultrabázikus talajon kialakult növényzet, és szinte kizárólag endemikus fajokból áll. A rezervátum olyan ritka fenyőféléket véd, amelyek a Földön sehol máshol nem fordulnak elő.",
+      ro: "Rezervația Cascada Madeleine este o bijuterie botanică în Provincia Sud a Noii Caledonii. Zona este caracterizată de 'Maquis minier', o vegetație unică pe sol ultrabazic, compusă aproape exclusiv din specii endemice. Rezervația protejează specii rare de conifere care nu se mai găsesc nicăieri altundeva pe Pământ.",
+      en: "The Madeleine Waterfalls Reserve is a botanical jewel in the South Province of New Caledonia. The area is characterized by the 'Maquis minier', a unique vegetation on ultrabasic soil consisting almost entirely of endemic species. The reserve protects rare conifer species that are found nowhere else on Earth.",
+    },
+    factsAdvanced: {
+      de: ["Schützt 168 Pflanzenarten, davon 95% endemisch.", "Heimat von 7 der weltweit 19 Podocarpus-Arten.", "Das Reservat umfasst eine Fläche von etwa 400 Hektar.", "Der Boden ist extrem reich an Eisen und Magnesium.", "Ein Lehrpfad informiert über die seltene Flora des Gebiets.", "Wichtiges Schutzgebiet für die Konifere Neocallitropsis pancheri."],
+      hu: ["168 növényfajt véd, amelyek 95%-a endemikus.", "A világ 19 Podocarpus fajából 7 itt található meg.", "A rezervátum területe körülbelül 400 hektár.", "A talaj rendkívül gazdag vasban és magnéziumban.", "Tanösvény tájékoztat a terület ritka flórájáról.", "Fontos védelmi terület a Neocallitropsis pancheri fenyő számára."],
+      ro: ["Protejează 168 de specii de plante, dintre care 95% sunt endemice.", "Găzduiește 7 din cele 19 specii de Podocarpus din lume.", "Rezervația acoperă o suprafață de aproximativ 400 de hectare.", "Solul este extrem de bogat în fier și magneziu.", "Un traseu didactic informează despre flora rară a zonei.", "Zonă importantă de protecție pentru coniferul Neocallitropsis pancheri."],
+      en: ["Protects 168 plant species, 95% of which are endemic.", "Home to 7 of the world's 19 species of Podocarpus.", "The reserve covers an area of approximately 400 hectares.", "The soil is extremely rich in iron and magnesium.", "An educational trail provides info on the area's rare flora.", "Crucial sanctuary for the conifer Neocallitropsis pancheri."],
+    },
   }
 ];

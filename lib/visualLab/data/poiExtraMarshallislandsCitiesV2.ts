@@ -112,6 +112,18 @@ export const marshallislandsCitiesV2: POI[] = [
       en: ["Highest point of the atoll is located here (3m)", "Primary agricultural center of Majuro", "Features a popular sandy beach area", "Connected by road to the urban center"],
     },
     imageHint: "Lush vegetation and beach in Laura village Majuro",
+    descriptionAdvanced: {
+      de: "Laura ist eine Ortschaft am westlichen Ende des Majuro-Atolls in den Marshallinseln. Mit einer maximalen Höhe von etwa 3 Metern über dem Meeresspiegel ist es einer der am höchsten gelegenen Punkte des Atolls. Die Gegend ist für ihre im Vergleich zum Rest des Atolls fruchtbaren Böden bekannt. Laura dient als wichtiges landwirtschaftliches Zentrum und als Wohngebiet abseits der dichten Besiedlung von Delap.",
+      hu: "Laura egy település a Marshall-szigetekhez tartozó Majuro-atoll nyugati végén. Körülbelül 3 méteres tengerszint feletti magasságával az atoll egyik legmagasabb pontja. A terület az atoll többi részéhez képest termékeny talajáról ismert. Laura fontos mezőgazdasági központként és lakóövezetként szolgál, távol a sűrűn lakott Delap városrészétől.",
+      ro: "Laura este o localitate situată în extremitatea vestică a atolului Majuro din Insulele Marshall. Cu o altitudine maximă de aproximativ 3 metri, reprezintă unul dintre cele mai înalte puncte ale atolului. Zona este recunoscută pentru solul său fertil în comparație cu restul insulei. Laura funcționează ca un centru agricol important și zonă rezidențială, fiind mai puțin aglomerată decât zona Delap.",
+      en: "Laura is a village situated at the western tip of Majuro Atoll in the Marshall Islands. With a maximum elevation of about 3 meters, it contains some of the highest ground on the atoll. The area is notable for its relatively fertile soil compared to other parts of the island. Laura serves as a key agricultural hub and a residential alternative to the densely populated area of Delap.",
+    },
+    factsAdvanced: {
+      de: ["Liegt am Westende von Majuro", "Höhe von ca. 3 Metern", "Höchster Punkt des Atolls", "Hauptzentrum für lokalen Ackerbau", "45 km lange Straße nach Delap", "Population von etwa 2.000 Menschen"],
+      hu: ["Majuro nyugati végén található", "Magassága kb. 3 méter", "Az atoll legmagasabb pontja", "A helyi mezőgazdaság központja", "45 km-es út köti össze Delappal", "Lakossága kb. 2000 fő"],
+      ro: ["Situată la vest de atolul Majuro", "Altitudine de aprox. 3 metri", "Cel mai înalt punct al atolului", "Centru principal pentru agricultura locală", "Drum de 45 km până în Delap", "Populație de aproximativ 2.000 locuitori"],
+      en: ["Located at Majuro's western end", "Elevation of approx. 3 meters", "Highest point on the atoll", "Primary center for local farming", "Connected to Delap by a 45km road", "Population of about 2,000 people"],
+    },
   },
   {
     id: "marshallislands-jabor-cities-v2",
@@ -131,6 +143,18 @@ export const marshallislandsCitiesV2: POI[] = [
       en: ["Former German administrative headquarters", "Home to a small domestic airfield", "Crucial port for the copra trade", "Population of approximately 600 people"],
     },
     imageHint: "Small harbor and tropical trees in Jabor Jaluit",
+    descriptionAdvanced: {
+      de: "Jabor ist der Hauptort des Jaluit-Atolls und hat eine bedeutende koloniale Vergangenheit. Während der deutschen Verwaltung der Marshallinseln von 1885 bis 1914 diente Jabor als das administrative Zentrum des Protektorats. Die Stadt liegt auf einer schmalen Insel im Osten des Atolls und besitzt einen strategisch günstigen Hafen. Heute ist der Ort ein regionales Zentrum für Bildung und Verwaltung innerhalb des Ralik-Archipels.",
+      hu: "Jabor a Jaluit-atoll fő települése, amely jelentős gyarmati múlttal rendelkezik. A Marshall-szigetek 1885 és 1914 közötti német igazgatása alatt Jabor szolgált a protektorátus közigazgatási központjaként. A város az atoll keleti részén, egy keskeny szigeten fekszik, és stratégiailag kedvező kikötővel bír. Ma a település a Ralik-szigetcsoport egyik regionális oktatási és igazgatási központja.",
+      ro: "Jabor este principala localitate a atolului Jaluit și are un trecut colonial semnificativ. În timpul administrației germane a Insulelor Marshall, între 1885 și 1914, Jabor a servit drept centru administrativ al protectoratului. Orașul este situat pe o insulă îngustă în estul atolului și dispune de un port strategic. Astăzi, localitatea este un centru regional pentru educație și administrație în arhipelagul Ralik.",
+      en: "Jabor is the main settlement of Jaluit Atoll and possesses a significant colonial history. During the German administration of the Marshall Islands from 1885 to 1914, Jabor served as the administrative capital of the protectorate. The town is located on a narrow islet on the eastern side of the atoll and features a strategically located harbor. Today, it remains a regional hub for education and governance within the Ralik Chain.",
+    },
+    factsAdvanced: {
+      de: ["Hauptort des Jaluit-Atolls", "Deutsches Verwaltungszentrum (1885-1914)", "Besitzt einen tiefen Naturhafen", "Japanischer Marinestützpunkt im 2. WK", "Infrastruktur umfasst mehrere Schulen", "Einwohnerzahl liegt bei ca. 600"],
+      hu: ["A Jaluit-atoll központja", "Német közigazgatási székhely volt", "Mélyvízi természetes kikötője van", "Japán tengerészeti bázis a 2. vh-ban", "Több iskola is működik itt", "Lakossága kb. 600 fő"],
+      ro: ["Centrul atolului Jaluit", "Sediul administrației germane (1885-1914)", "Dispune de un port natural adânc", "Bază navală japoneză în al Doilea Război Mondial", "Găzduiește mai multe școli regionale", "Populație de aproximativ 600 locuitori"],
+      en: ["Main town of Jaluit Atoll", "German administrative HQ (1885-1914)", "Features a deep natural harbor", "Japanese naval base in WWII", "Home to several regional schools", "Population of approximately 600"],
+    },
   },
   {
     id: "marshallislands-wotje-cities-v2",
@@ -150,6 +174,18 @@ export const marshallislandsCitiesV2: POI[] = [
       en: ["Contains many relics from World War II", "Administrative center for the atoll", "Features a paved airstrip for travel", "Renowned for breadfruit cultivation"],
     },
     imageHint: "Palm trees and old WWII relics in Wotje village",
+    descriptionAdvanced: {
+      de: "Wotje ist ein großes Atoll in der Ratak-Kette der Marshallinseln und umfasst eine Landfläche von etwa 8 Quadratkilometern. Es umschließt eine der größten Lagunen des Landes, die über 600 Quadratkilometer misst. Während des Pazifikkrieges war Wotje eine der am stärksten befestigten japanischen Basen im zentralen Pazifik. Heute ist die Insel Wotje ein wichtiges Dienstleistungszentrum für die umliegenden Atolle.",
+      hu: "Wotje a Marshall-szigetek Ratak-láncának egyik nagy atollja, szárazföldi területe kb. 8 négyzetkilométer. Az ország egyik legnagyobb, több mint 600 négyzetkilométeres lagúnáját zárja körül. A csendes-óceáni háború alatt Wotje volt az egyik legerősebben megerősített japán bázis a Csendes-óceán középső részén. Napjainkban Wotje szigete fontos szolgáltató központ a környező atollok számára.",
+      ro: "Wotje este un atol mare din lanțul Ratak al Insulelor Marshall, având o suprafață terestră de circa 8 kilometri pătrați. Acesta înconjoară una dintre cele mai mari lagune din țară, cu o suprafață de peste 600 de kilometri pătrați. În timpul Războiului din Pacific, Wotje a fost una dintre cele mai fortificate baze japoneze din centrul Oceanului Pacific. Astăzi, insula Wotje este un centru de servicii esențial pentru atolii din jur.",
+      en: "Wotje is a large atoll in the Ratak Chain of the Marshall Islands, with a land area of approximately 8 square kilometers. It encircles one of the nation's largest lagoons, measuring over 600 square kilometers. During the Pacific War, Wotje was one of the most heavily fortified Japanese bases in the central Pacific. Today, the main islet of Wotje serves as an important service and administrative hub for neighboring atolls.",
+    },
+    factsAdvanced: {
+      de: ["Landfläche von 8,18 km²", "Lagunenfläche von 624 km²", "Besteht aus 75 einzelnen Inseln", "Starke japanische Basis im 2. WK", "Regionale Oberschule vorhanden", "Haupteinnahmequelle ist Kopra"],
+      hu: ["Szárazföldi területe 8,18 km²", "Lagúna területe 624 km²", "75 különálló szigetből áll", "Erős japán bázis volt a 2. vh-ban", "Regionális középiskola működik itt", "Fő bevételi forrása a kopra"],
+      ro: ["Suprafață terestră de 8,18 km²", "Suprafața lagunei de 624 km²", "Format din 75 de insule individuale", "Bază japoneză majoră în al Doilea Război Mondial", "Găzduiește un liceu regional", "Sursa principală de venit este copra"],
+      en: ["Land area of 8.18 km²", "Lagoon area of 624 km²", "Comprised of 75 separate islets", "Major Japanese base in WWII", "Home to a regional high school", "Primary economic product is copra"],
+    },
   },
   {
     id: "marshallislands-enewetak-cities-v2",
@@ -169,6 +205,18 @@ export const marshallislandsCitiesV2: POI[] = [
       en: ["Site of 43 nuclear tests (1948-1958)", "Home to the Runit Dome concrete structure", "Resettlement efforts began in 1980", "Part of the Ralik Chain of islands"],
     },
     imageHint: "Village houses and coastline of Enewetak atoll",
+    descriptionAdvanced: {
+      de: "Enewetak ist ein großes Korallenatoll im Pazifischen Ozean, das aus etwa 40 Inseln besteht. International bekannt wurde es als Schauplatz von 43 US-Kernwaffentests, die zwischen 1948 und 1958 durchgeführt wurden. Nach einer massiven Reinigungsoperation in den späten 1970er Jahren kehrte ein Teil der ursprünglichen Bevölkerung zurück. Das Atoll ist heute für seine abgeschiedene Lage und die Runit-Kuppel zur Lagerung radioaktiver Abfälle bekannt.",
+      hu: "Az Enewetak-atoll egy nagy korallzátony a Csendes-óceánban, amely körülbelül 40 szigetből áll. Nemzetközi ismertségét az 1948 és 1958 között végrehajtott 43 amerikai kísérleti atomrobbantásnak köszönheti. Az 1970-es évek végén végzett nagyszabású mentesítési munkálatok után az eredeti lakosság egy része visszatért. Az atoll ma elszigetelt helyzetéről és a radioaktív hulladékot tároló Runit-dómról ismert.",
+      ro: "Enewetak este un atol coraligen mare din Oceanul Pacific, format din aproximativ 40 de insule. A devenit cunoscut la nivel internațional ca loc de desfășurare pentru 43 de teste nucleare americane între 1948 și 1958. După o operațiune masivă de decontaminare la sfârșitul anilor 1970, o parte din populația originală a revenit. Astăzi, atolul este cunoscut pentru izolarea sa și pentru cupola Runit destinată deșeurilor radioactive.",
+      en: "Enewetak is a large coral atoll in the Pacific Ocean consisting of about 40 islets. It gained international prominence as the site of 43 nuclear tests conducted by the United States between 1948 and 1958. Following a massive decontamination project in the late 1970s, a portion of the displaced population returned to the atoll. It is currently known for its remote location and the Runit Dome radioactive waste storage site.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus 40 kleinen Inseln", "Lagunenfläche von ca. 1.000 km²", "Schauplatz von 43 Kernwaffentests", "Erste Wasserstoffbombe (Ivy Mike) 1952", "Runit-Kuppel lagert Atommüll", "Bevölkerung ca. 300 Personen"],
+      hu: ["40 kis sziget alkotja", "Lagúna területe kb. 1000 km²", "43 kísérleti atomrobbantás helyszíne", "Itt robbant az első H-bomba (1952)", "Runit-dóm tárolja a radioaktív hulladékot", "Lakossága kb. 300 fő"],
+      ro: ["Format din 40 de insule mici", "Suprafața lagunei de aprox. 1.000 km²", "Locul a 43 de teste nucleare", "Prima bombă cu hidrogen (1952)", "Cupola Runit stochează deșeuri radioactive", "Populație de aproximativ 300 persoane"],
+      en: ["Consists of 40 small islets", "Lagoon area of approx. 1,000 km²", "Site of 43 nuclear weapon tests", "First hydrogen bomb test (1952)", "Runit Dome stores radioactive debris", "Population is about 300 people"],
+    },
   },
   {
     id: "marshallislands-kili-cities-v2",
@@ -188,6 +236,18 @@ export const marshallislandsCitiesV2: POI[] = [
       en: ["Has no lagoon, consisting of one island", "Inhabitants moved from Bikini in 1948", "Maritime access is often difficult", "Land area of approx. 0.93 square km"],
     },
     imageHint: "Aerial view of Kili island without a lagoon",
+    descriptionAdvanced: {
+      de: "Kili ist eine einzelne Insel im Ralik-Kette der Marshallinseln, die keine eigene Lagune besitzt. Im Jahr 1948 wurde sie zur neuen Heimat für die Bewohner des Bikini-Atolls, die wegen US-Kernwaffentests umgesiedelt werden mussten. Aufgrund der fehlenden Lagune ist die Insel oft schwer per Schiff erreichbar, besonders bei rauem Seegang. Die Bewohner sind stark auf Importe und die Produktion von Kopra angewiesen.",
+      hu: "Kili a Marshall-szigetek Ralik-láncának egyetlen szigete, amely nem rendelkezik saját lagúnával. 1948-ban vált a Bikini-atoll lakóinak új otthonává, akiket az amerikai atomkísérletek miatt kellett kitelepíteni. A lagúna hiánya miatt a sziget hajóval gyakran nehezen megközelíthető, különösen erős hullámzás idején. A lakosok nagymértékben függenek az importtól és a kopra-termeléstől.",
+      ro: "Kili este o insulă izolată din lanțul Ralik al Insulelor Marshall, care nu posedă o lagună proprie. În 1948, a devenit noua casă pentru locuitorii atolului Bikini, strămutați din cauza testelor nucleare americane. Din cauza absenței unei lagune, insula este adesea greu accesibilă cu nava, în special în condiții de mare agitată. Locuitorii depind în mare măsură de importuri și de producția de copra.",
+      en: "Kili is a single island in the Ralik Chain of the Marshall Islands that lacks its own lagoon. In 1948, it became the new home for the displaced residents of Bikini Atoll who were moved due to U.S. nuclear testing. Because there is no protective lagoon, the island is often difficult to access by ship, particularly during heavy seas. The community is heavily dependent on imported goods and the local production of copra.",
+    },
+    factsAdvanced: {
+      de: ["Landfläche von nur 0,93 km²", "Keine Lagune oder Riffschutz", "Heimat der Bikini-Exilanten seit 1948", "Hohe Niederschlagsmengen (>3.000 mm)", "Besitzt eine kurze Flugpiste", "Bevölkerung ca. 550 Personen"],
+      hu: ["Szárazföldi területe 0,93 km²", "Nincs lagúnája vagy védőzátonya", "A bikini kitelepítettek otthona 1948 óta", "Magas évi csapadék (>3000 mm)", "Rendelkezik egy rövid repülőtérrel", "Lakossága kb. 550 fő"],
+      ro: ["Suprafață terestră de 0,93 km²", "Nu are lagună sau recif protector", "Căminul exilaților din Bikini din 1948", "Precipitații anuale ridicate (>3.000 mm)", "Dispune de o pistă scurtă de aterizare", "Populație de aproximativ 550 persoane"],
+      en: ["Land area of only 0.93 km²", "No lagoon or protective reef", "Home to Bikini exiles since 1948", "High annual rainfall (>3,000 mm)", "Equipped with a short airfield", "Population of about 550 people"],
+    },
   },
   {
     id: "marshallislands-namu-cities-v2",
@@ -207,6 +267,18 @@ export const marshallislandsCitiesV2: POI[] = [
       en: ["Famous for making Pandanus mats", "Part of the Ralik Chain of islands", "Traditional seat of high chiefs", "Composed of 54 small islets"],
     },
     imageHint: "Traditional houses and palm trees in Namu village",
+    descriptionAdvanced: {
+      de: "Namu ist ein großes Korallenatoll in der Ralik-Kette der Marshallinseln, bestehend aus über 50 kleinen Inseln. Es liegt etwa 60 Kilometer südwestlich von Kwajalein und umschließt eine weite Lagune. Die Bewohner leben in traditionellen Siedlungen und sind Experten im Fischfang sowie in der Herstellung von Handwerksprodukten. Die lokale Wirtschaft wird fast ausschließlich durch den Anbau von Kokosnüssen für Kopra gestützt.",
+      hu: "Namu a Marshall-szigetek Ralik-láncának egyik nagy korallzátonya, amely több mint 50 kis szigetből áll. Kwajaleintől körülbelül 60 kilométerre délnyugatra fekszik, és egy tágas lagúnát zár körül. A lakosok hagyományos településeken élnek, és a halászat, valamint a kézműves termékek készítésének szakértői. A helyi gazdaságot szinte kizárólag a kopra-gyártáshoz termesztett kókuszdió biztosítja.",
+      ro: "Namu este un atol coraligen mare din lanțul Ralik al Insulelor Marshall, compus din peste 50 de insule mici. Se află la aproximativ 60 de kilometri sud-vest de Kwajalein și înconjoară o lagună extinsă. Locuitorii trăiesc în așezări tradiționale și sunt experți în pescuit și în fabricarea produselor de artizanat. Economia locală este susținută aproape exclusiv de cultivarea nucilor de cocos pentru copra.",
+      en: "Namu is a large coral atoll located in the Ralik Chain of the Marshall Islands, comprising over 50 small islets. It is situated about 60 kilometers southwest of Kwajalein and encircles an expansive lagoon. The residents live in traditional settlements and are skilled in fishing and the creation of handicrafts. The local economy is almost entirely supported by the cultivation of coconuts for copra production.",
+    },
+    factsAdvanced: {
+      de: ["Landfläche von 6,27 km²", "Lagunenfläche von 397 km²", "Besteht aus 54 Inselchen", "Bekannt für traditionelle Webkunst", "Teil der Ralik-Inselkette", "Bevölkerung ca. 800 Personen"],
+      hu: ["Szárazföldi területe 6,27 km²", "Lagúna területe 397 km²", "54 szigetecskéből áll", "Híres a hagyományos szövésről", "A Ralik-szigetlánc része", "Lakossága kb. 800 fő"],
+      ro: ["Suprafață terestră de 6,27 km²", "Suprafața lagunei de 397 km²", "Format din 54 de insulițe", "Cunoscut pentru țesăturile tradiționale", "Parte a lanțului de insule Ralik", "Populație de aproximativ 800 persoane"],
+      en: ["Land area of 6.27 km²", "Lagoon area of 397 km²", "Comprised of 54 islets", "Renowned for traditional weaving", "Member of the Ralik Chain", "Population of about 800 people"],
+    },
   },
   {
     id: "marshallislands-mejit-cities-v2",
@@ -226,6 +298,18 @@ export const marshallislandsCitiesV2: POI[] = [
       en: ["Features a rare freshwater lake", "Part of the Ratak Chain of islands", "Abundant in Pandanus and breadfruit trees", "Home to approximately 350 residents"],
     },
     imageHint: "Lush green island of Mejit with freshwater lake",
+    descriptionAdvanced: {
+      de: "Mejit ist eine isolierte Koralleninsel in der Ratak-Kette der Marshallinseln. Im Gegensatz zu den meisten Atollen des Landes besitzt Mejit keine zentrale Lagune, verfügt jedoch über einen seltenen Süßwassersee im Inneren der Insel. Die Insel ist berühmt für ihre fruchtbare Vegetation und den Anbau von Pandanus- und Brotfruchtbäumen. Die Abgeschiedenheit hat dazu beigetragen, dass traditionelle Webtechniken bis heute lebendig geblieben sind.",
+      hu: "Mejit a Marshall-szigetek Ratak-láncának egyik elszigetelt korallszigete. Az ország legtöbb atolljával ellentétben Mejitnek nincs központi lagúnája, viszont a sziget belsejében egy ritka édesvizű tó található. A sziget híres termékeny növényzetéről, valamint a pandanusz- és kenyérfák termesztéséről. Elszigeteltsége hozzájárult ahhoz, hogy a hagyományos szövési technikák a mai napig fennmaradjanak.",
+      ro: "Mejit este o insulă coraligenă izolată din lanțul Ratak al Insulelor Marshall. Spre deosebire de majoritatea atolilor din țară, Mejit nu are o lagună centrală, dar posedă un lac rar cu apă dulce în interior. Insula este celebră pentru vegetația sa fertilă și pentru cultivarea arborilor de pandanus și de pâine. Izolarea sa a contribuit la păstrarea tehnicilor tradiționale de țesut până în prezent.",
+      en: "Mejit is a remote coral island located in the Ratak Chain of the Marshall Islands. Unlike most atolls in the country, Mejit lacks a central lagoon but features a rare freshwater lake in its interior. The island is renowned for its fertile vegetation and the cultivation of pandanus and breadfruit trees. Its isolation has helped preserve traditional weaving techniques which remain a vital part of local culture today.",
+    },
+    factsAdvanced: {
+      de: ["Landfläche von 1,86 km²", "Einzelinsel ohne Lagune", "Besitzt einen Binnensee (Süßwasser)", "Berühmt für Pandanus-Matten", "Kein schützendes Außenriff", "Bevölkerung ca. 350 Personen"],
+      hu: ["Szárazföldi területe 1,86 km²", "Önálló sziget lagúna nélkül", "Belső édesvizű tava van", "Híres a pandanusz szőnyegekről", "Nincs védő külső zátonya", "Lakossága kb. 350 fő"],
+      ro: ["Suprafață terestră de 1,86 km²", "Insulă solitară fără lagună", "Posedă un lac interior cu apă dulce", "Celebră pentru covoarele din pandanus", "Nu are recif exterior protector", "Populație de aproximativ 350 persoane"],
+      en: ["Land area of 1.86 km²", "Single island without a lagoon", "Features an interior freshwater lake", "Famous for fine pandanus mats", "Lacks a protective outer reef", "Population of about 350 people"],
+    },
   },
   {
     id: "marshallislands-woja-cities-v2",
@@ -245,6 +329,18 @@ export const marshallislandsCitiesV2: POI[] = [
       en: ["Major settlement on Ailinglaplap Atoll", "Features its own regional airstrip", "Traditional center for canoe building", "Located in the Ralik Chain of islands"],
     },
     imageHint: "Small village with airstrip in Woja Ailinglaplap",
+    descriptionAdvanced: {
+      de: "Woja ist eine bedeutende Siedlung auf dem Ailinglaplap-Atoll im zentralen Teil der Ralik-Kette. Der Ort dient als regionales Zentrum für die westlichen Inseln des Atolls und verfügt über eine eigene Flugpiste. Die lokale Gemeinschaft ist stark in der traditionellen Kopra-Gewinnung tätig, die die wirtschaftliche Basis der Region bildet. Woja ist bekannt für seine ruhige Atmosphäre und die Bewahrung der Marshallesischen Kultur.",
+      hu: "Woja az Ailinglaplap-atoll egyik jelentős települése a Ralik-lánc középső részén. A település az atoll nyugati szigeteinek regionális központjaként szolgál, és saját repülőtérrel rendelkezik. A helyi közösség aktívan részt vesz a hagyományos kopra-termelésben, amely a régió gazdasági alapját képezi. Woja híres nyugodt légköréről és a marshall-szigeteki kultúra megőrzéséről.",
+      ro: "Woja este o așezare importantă de pe atolul Ailinglaplap, situată în partea centrală a lanțului Ralik. Localitatea servește drept centru regional pentru insulele vestice ale atolului și dispune de propria pistă de aterizare. Comunitatea locală este implicată activ în producția tradițională de copra, care formează baza economică a regiunii. Woja este cunoscută pentru atmosfera sa liniștită și păstrarea culturii marshallese.",
+      en: "Woja is a major settlement on Ailinglaplap Atoll, located in the central part of the Ralik Chain. It serves as a regional hub for the western islets of the atoll and is equipped with its own airfield. The local community is deeply involved in traditional copra production, which provides the economic foundation for the region. Woja is recognized for its peaceful environment and its commitment to preserving Marshallese culture.",
+    },
+    factsAdvanced: {
+      de: ["Teil des Ailinglaplap-Atolls", "Besitzt einen regionalen Flugplatz", "Bedeutender Kopra-Handelsplatz", "Flache Korallenstruktur", "Teil der Ralik-Inselkette", "Bevölkerung ca. 500 Personen"],
+      hu: ["Az Ailinglaplap-atoll része", "Regionális repülőtérrel rendelkezik", "Fontos kopra-kereskedelmi hely", "Lapos korallszerkezet jellemzi", "A Ralik-szigetlánc tagja", "Lakossága kb. 500 fő"],
+      ro: ["Parte a atolului Ailinglaplap", "Deține un aeroport regional", "Loc important pentru comerțul cu copra", "Structură coraligenă joasă", "Parte a lanțului de insule Ralik", "Populație de aproximativ 500 persoane"],
+      en: ["Part of Ailinglaplap Atoll", "Equipped with a regional airfield", "Important site for copra trade", "Characterized by flat coral terrain", "Member of the Ralik Chain", "Population of about 500 people"],
+    },
   },
   {
     id: "marshallislands-aur-cities-v2",
@@ -264,6 +360,18 @@ export const marshallislandsCitiesV2: POI[] = [
       en: ["Part of the Ratak Chain of islands", "The atoll comprises 42 islets", "Key site for subsistence farming", "Population of around 400 people"],
     },
     imageHint: "Tropical village huts and lagoon at Aur atoll",
+    descriptionAdvanced: {
+      de: "Aur ist ein Atoll in der Ratak-Kette der Marshallinseln, gelegen nördlich von Majuro. Es besteht aus zwei großen Inseln, Tabal und Aur, sowie zahlreichen kleineren Inselchen, die eine Lagune umschließen. Die Lagune ist bekannt für ihren Fischreichtum und dient den Bewohnern als primäre Nahrungsquelle. Aur ist traditionell für den Bau von schnellen Segelkanus und die Navigationskünste seiner Bewohner berühmt.",
+      hu: "Aur a Marshall-szigetek Ratak-láncának egyik atollja, amely Majurótól északra található. Két fő szigetből, Tabalból és Burból, valamint számos kisebb szigetecskéből áll, amelyek egy lagúnát ölelnek körül. A lagúna gazdag halállományáról ismert, amely a lakosok elsődleges élelemforrása. Aur hagyományosan a gyors vitorlás kenuk építéséről és lakóinak navigációs tudományáról híres.",
+      ro: "Aur este un atol din lanțul Ratak al Insulelor Marshall, situat la nord de Majuro. Este compus din două insule principale, Tabal și Aur, alături de numeroase insulițe care înconjoară o lagună. Laguna este cunoscută pentru abundența de pește, servind ca sursă primară de hrană pentru locuitori. Aur este renumit tradițional pentru construcția de canoe cu pânze rapide și pentru abilitățile de navigație ale locuitorilor săi.",
+      en: "Aur is an atoll in the Ratak Chain of the Marshall Islands, located north of Majuro. It consists of two major islets, Tabal and Aur, along with many smaller motus encircling a lagoon. The lagoon is noted for its plentiful fish, providing the primary food source for the local population. Aur is traditionally famous for the construction of swift sailing canoes and the expert navigational skills of its people.",
+    },
+    factsAdvanced: {
+      de: ["Landfläche von 5,62 km²", "Lagunenfläche von 240 km²", "Besteht aus 42 Inselchen", "Hauptinseln sind Tabal und Aur", "Nördlich von Majuro gelegen", "Bevölkerung ca. 500 Personen"],
+      hu: ["Szárazföldi területe 5,62 km²", "Lagúna területe 240 km²", "42 szigetecskéből áll", "Fő szigetei Tabal és Aur", "Majurótól északra fekszik", "Lakossága kb. 500 fő"],
+      ro: ["Suprafață terestră de 5,62 km²", "Suprafața lagunei de 240 km²", "Format din 42 de insulițe", "Insulele principale sunt Tabal și Aur", "Situat la nord de Majuro", "Populație de aproximativ 500 persoane"],
+      en: ["Land area of 5.62 km²", "Lagoon area of 240 km²", "Comprised of 42 islets", "Main islets are Tabal and Aur", "Located north of Majuro", "Population of about 500 people"],
+    },
   },
   {
     id: "marshallislands-mili-cities-v2",
@@ -283,6 +391,18 @@ export const marshallislandsCitiesV2: POI[] = [
       en: ["Home to numerous Japanese bunkers", "Part of the Ratak Chain of islands", "Second largest land area of all atolls", "Population of approximately 700 people"],
     },
     imageHint: "Beach and WWII bunkers on Mili atoll",
+    descriptionAdvanced: {
+      de: "Mili ist eines der flächenmäßig größten Atolle der Marshallinseln und liegt im Südosten der Ratak-Kette. Es besteht aus fast 100 kleinen Inseln, die eine gigantische Lagune umschließen. Während des Zweiten Weltkriegs war Mili eine bedeutende japanische Basis, deren Überreste in Form von Wracks und Befestigungen noch heute sichtbar sind. Die heutige Bevölkerung lebt hauptsächlich von der Subsistenzwirtschaft und der Fischerei.",
+      hu: "Mili a Marshall-szigetek egyik legnagyobb területű atollja, a Ratak-lánc délkeleti részén található. Közel 100 kis szigetből áll, amelyek egy hatalmas lagúnát zárnak körül. A második világháború alatt Mili jelentős japán bázis volt, amelynek roncsai és erődítményei ma is láthatók. A jelenlegi lakosság főként önellátó gazdálkodásból és halászatból él.",
+      ro: "Mili este unul dintre cei mai mari atoli ca suprafață din Insulele Marshall, situat în sud-estul lanțului Ratak. Este format din aproape 100 de insule mici care înconjoară o lagună gigantică. În timpul Celui de-al Doilea Război Mondial, Mili a fost o bază japoneză importantă, ale cărei vestigii sub formă de epave și fortificații sunt vizibile și astăzi. Populația actuală trăiește în principal din agricultura de subzistență și pescuit.",
+      en: "Mili is one of the largest atolls by land area in the Marshall Islands, located in the southeastern portion of the Ratak Chain. It comprises nearly 100 small islets encircling a massive lagoon. During World War II, Mili served as a significant Japanese military base, and many relics including shipwrecks and fortifications remain visible today. The current population primarily relies on subsistence farming and fishing for their livelihood.",
+    },
+    factsAdvanced: {
+      de: ["Landfläche von 16 km²", "Lagunenfläche von 760 km²", "Besteht aus 92 Inseln", "Starke japanische Basis im 2. WK", "Südöstlichstes Atoll der Ratak-Kette", "Bevölkerung ca. 700 Personen"],
+      hu: ["Szárazföldi területe 16 km²", "Lagúna területe 760 km²", "92 szigetből áll", "Erős japán bázis volt a 2. vh-ban", "A Ratak-lánc legdélkeletibb atollja", "Lakossága kb. 700 fő"],
+      ro: ["Suprafață terestră de 16 km²", "Suprafața lagunei de 760 km²", "Format din 92 de insule", "Bază japoneză majoră în al Doilea Război Mondial", "Cel mai sud-estic atol din lanțul Ratak", "Populație de aproximativ 700 persoane"],
+      en: ["Land area of 16 km²", "Lagoon area of 760 km²", "Comprised of 92 islets", "Major Japanese base in WWII", "Southeasternmost atoll in Ratak Chain", "Population of about 700 people"],
+    },
   },
   {
     id: "marshallislands-maloelap-cities-v2",
@@ -302,6 +422,18 @@ export const marshallislandsCitiesV2: POI[] = [
       en: ["Composed of 71 small islets", "Part of the Ratak Chain of islands", "Features two small domestic airfields", "Population of about 800 residents"],
     },
     imageHint: "Village scene and old airplane wreck in Maloelap",
+    descriptionAdvanced: {
+      de: "Maloelap ist ein großes Korallenatoll in der Ratak-Kette, das für seine tiefe Lagune und die reiche Geschichte bekannt ist. Während des Zweiten Weltkriegs diente es als wichtiger japanischer Luftwaffenstützpunkt im Pazifik. Viele Relikte aus dieser Zeit, darunter Flugzeugwracks und Bunker, sind auf den Hauptinseln Taroa und Airik zu finden. Heute ist das Atoll ein Zentrum für die Produktion von Kopra und traditionellem Handwerk.",
+      hu: "Maloelap a Ratak-lánc egyik nagy korallzátonya, amely mély lagúnájáról és gazdag történelméről ismert. A második világháború alatt fontos japán légitámaszpontként szolgált a Csendes-óceánon. Ebből az időszakból számos emlék, például repülőgéproncsok és bunkerek találhatók Taroa és Airik főszigetén. Ma az atoll a kopra-termelés és a hagyományos kézművesség egyik központja.",
+      ro: "Maloelap este un atol coraligen mare din lanțul Ratak, cunoscut pentru laguna sa adâncă și istoria bogată. În timpul Celui de-al Doilea Război Mondial, a servit ca bază aeriană japoneză importantă în Pacific. Multe relicve din acea perioadă, inclusiv epave de avioane și buncăre, se găsesc pe insulele principale Taroa și Airik. Astăzi, atolul este un centru pentru producția de copra și meșteșuguri tradiționale.",
+      en: "Maloelap is a large coral atoll in the Ratak Chain known for its deep lagoon and rich history. During World War II, it functioned as a major Japanese airbase in the Pacific theater. Numerous relics from this era, including aircraft wrecks and bunkers, can still be found on the main islets of Taroa and Airik. Today, the atoll is a center for copra production and the creation of traditional Marshallese handicrafts.",
+    },
+    factsAdvanced: {
+      de: ["Landfläche von 9,8 km²", "Lagunenfläche von 973 km²", "Besteht aus 71 Inselchen", "Ehemalige japanische Luftbasis Taroa", "Sehr tiefe zentrale Lagune", "Bevölkerung ca. 700 Personen"],
+      hu: ["Szárazföldi területe 9,8 km²", "Lagúna területe 973 km²", "71 szigetecskéből áll", "Taroa egykori japán légibázis volt", "Nagyon mély központi lagúna", "Lakossága kb. 700 fő"],
+      ro: ["Suprafață terestră de 9,8 km²", "Suprafața lagunei de 973 km²", "Format din 71 de insulițe", "Fostă bază aeriană japoneză pe Taroa", "Lagună centrală foarte adâncă", "Populație de aproximativ 700 persoane"],
+      en: ["Land area of 9.8 km²", "Lagoon area of 973 km²", "Comprised of 71 islets", "Former Japanese airbase on Taroa", "Features a very deep central lagoon", "Population of about 700 people"],
+    },
   },
   {
     id: "marshallislands-arno-cities-v2",
@@ -321,5 +453,17 @@ export const marshallislandsCitiesV2: POI[] = [
       en: ["Atoll consists of 133 individual islets", "Part of the Ratak Chain of islands", "Main supplier for Majuro's local markets", "Population of approximately 1,800 people"],
     },
     imageHint: "Aerial view of Arno atoll islands and lagoon",
+    descriptionAdvanced: {
+      de: "Arno ist ein großes Atoll in der Ratak-Kette, das sich in unmittelbarer Nähe zur Hauptstadt Majuro befindet. Es besteht aus 133 Inseln und zeichnet sich durch den Besitz von drei separaten Lagunen aus. Arno ist ein bedeutender Lieferant von landwirtschaftlichen Produkten wie Kopra und frischen Lebensmitteln für die Märkte in Majuro. Die Nähe zur Hauptstadt macht es zu einem wichtigen wirtschaftlichen Partner innerhalb des Landes.",
+      hu: "Arno a Ratak-lánc egyik nagy atollja, amely a főváros, Majuro közvetlen közelében található. 133 szigetből áll, és különlegessége, hogy három különálló lagúnával rendelkezik. Arno a mezőgazdasági termékek, például a kopra és a friss élelmiszerek egyik legfontosabb beszállítója a majurói piacok számára. A fővároshoz való közelsége fontos gazdasági partnerré teszi az országon belül.",
+      ro: "Arno este un atol mare din lanțul Ratak, situat în imediata apropiere a capitalei Majuro. Este format din 133 de insule și se distinge prin posesia a trei lagune separate. Arno este un furnizor important de produse agricole, precum copra și alimente proaspete, pentru piețele din Majuro. Proximitatea față de capitală îl transformă într-un partener economic esențial în cadrul țării.",
+      en: "Arno is a large atoll in the Ratak Chain, located in close proximity to the capital city of Majuro. It consists of 133 islets and is unique for containing three distinct lagoons. Arno is a significant supplier of agricultural products, including copra and fresh produce, to the markets in Majuro. Its accessibility to the capital makes it a vital economic partner within the Marshall Islands.",
+    },
+    factsAdvanced: {
+      de: ["Landfläche von 13 km²", "Besitzt 3 separate Lagunen", "Besteht aus 133 Inselchen", "Hauptlieferant für Majuro-Märkte", "Nächstgelegenes Atoll zu Majuro", "Bevölkerung ca. 1.800 Personen"],
+      hu: ["Szárazföldi területe 13 km²", "3 különálló lagúnája van", "133 szigetecskéből áll", "A majurói piacok fő beszállítója", "Majuróhoz legközelebbi atoll", "Lakossága kb. 1800 fő"],
+      ro: ["Suprafață terestră de 13 km²", "Posedă 3 lagune separate", "Format din 133 de insulițe", "Furnizor principal pentru piețele din Majuro", "Cel mai apropiat atol de Majuro", "Populație de aproximativ 1.800 persoane"],
+      en: ["Land area of 13 km²", "Contains 3 separate lagoons", "Comprised of 133 islets", "Major supplier to Majuro markets", "Nearest atoll to the capital Majuro", "Population of about 1,800 people"],
+    },
   }
 ];

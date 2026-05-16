@@ -19,6 +19,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Mauritania's highest peak", "Iron-rich formation", "Located near F'dérik", "Distinctive relief"],
     },
     imageHint: "Kedia d'Idjil iron mountain",
+    descriptionAdvanced: {
+      de: "Die Kedia d'Idjil ist mit 915 Metern der höchste Berg Mauretaniens und liegt in der Nähe der Stadt Zouérat. Das Massiv besteht fast vollständig aus massivem Magnetit, was es zu einem der reichsten Eisenerzvorkommen der Welt macht. Die magnetischen Eigenschaften des Berges können Kompasse in der Umgebung beeinflussen. Er ist das wirtschaftliche Rückgrat des Landes und Startpunkt der berühmten Erzbahn.",
+      hu: "A Kedia d'Idjil 915 méteres magasságával Mauritánia legmagasabb hegye, Zouérat városa közelében. A masszívum szinte teljesen tömör magnetitből áll, ami a világ egyik leggazdagabb vasérclőhelyévé teszi. A hegy mágneses tulajdonságai megzavarhatják a környéken a拿 iránytűket. Ez az ország gazdasági gerince, és innen indul a híres vasércszállító vonat is.",
+      ro: "Kedia d'Idjil este cel mai înalt munte din Mauritania, având 915 metri, și se află lângă orașul Zouérat. Masivul este compus aproape în întregime din magnetit masiv, ceea ce îl face unul dintre cele mai bogate zăcăminte de fier din lume. Proprietățile magnetice ale muntelui pot influența busolele din zonă. Reprezintă coloana vertebrală a economiei țării și punctul de plecare al celebrului tren minier.",
+      en: "Kedia d'Idjil is the highest mountain in Mauritania, standing at 915 meters near the town of Zouérat. The massif is composed almost entirely of massive magnetite, making it one of the richest iron ore deposits in the world. The mountain's magnetic properties are so strong they can interfere with compasses in the vicinity. It serves as the economic backbone of the nation and the starting point for the famous iron ore train.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt Mauretaniens mit 915 m", "Besteht aus hochwertigem Eisenerz (Hämatit/Magnetit)", "Abbau wird durch die Firma SNIM betrieben", "Verursacht signifikante magnetische Anomalien", "Wird von der längsten Eisenbahn der Welt bedient", "Umgebung ist eine extrem trockene Steinwüste"],
+      hu: ["Mauritánia legmagasabb pontja, 915 méter", "Kiváló minőségű vasércből (hematit/magnetit) áll", "A kitermelést az állami SNIM vállalat végzi", "Jelentős mágneses anomáliákat okoz", "A világ egyik leghosszabb vonata szolgálja ki", "Környezete rendkívül száraz kősivatag"],
+      ro: ["Cel mai înalt punct din Mauritania, cu 915 m", "Compus din minereu de fier de înaltă calitate", "Exploatarea este operată de compania de stat SNIM", "Cauzează anomalii magnetice semnificative", "Deservit de unul dintre cele mai lungi trenuri din lume", "Împrejurimile sunt un deșert de piatră extrem de arid"],
+      en: ["Highest point in Mauritania at 915 meters", "Composed of high-grade iron ore (hematite/magnetite)", "Mining operations are managed by the SNIM company", "Causes significant local magnetic anomalies", "Served by the world's longest and heaviest train", "Surrounding area is an extremely arid stone desert"],
+    },
   },
   {
     id: "mauritania-baba-mountain-relief-v2",
@@ -38,6 +50,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Southeastern Mauritania", "Sedimentary rock", "Hilly topography", "Desert fringe zone"],
     },
     imageHint: "Baba Mountains hilly desert",
+    descriptionAdvanced: {
+      de: "Das Baba-Gebirge ist ein Teil des zerklüfteten Adrar-Plateaus im Norden Mauretaniens. Es zeichnet sich durch seine schroffen Kanten und tief eingeschnittenen Wadis aus, die nach Regenfällen Sturzbäche führen können. Diese Gebirgszüge sind geologisch alt und bestehen hauptsächlich aus präkambrischen Gesteinen. Sie bieten Schutz vor den extremen Bedingungen der umliegenden Sandwüste und beherbergen kleine Oasengemeinschaften.",
+      hu: "A Baba-hegység az észak-mauritániai Adrar-fennsík egyenetlen részét képezi. Jellemzői a meredek peremek és a mélyen bevágott vádik, amelyek az esőzések után hirtelen áradásokat vezetnek le. Ezek a hegyláncok geológiailag ősiek, főként prekambriumi kőzetekből állnak. Védelmet nyújtanak a környező homoksivatag szélsőséges körülményei ellen, és kis oázisközösségeknek adnak otthont.",
+      ro: "Munții Baba fac parte din platoul accidentat Adrar din nordul Mauritaniei. Se caracterizează prin margini abrupte și wadi-uri adânci care pot transporta viituri după ploi. Aceste lanțuri muntoase sunt vechi din punct de vedere geologic și sunt compuse în principal din roci precambriene. Oferă protecție împotriva condițiilor extreme ale deșertului de nisip din jur și adăpostesc mici comunități de oază.",
+      en: "The Baba Mountains form part of the rugged Adrar Plateau in northern Mauritania. They are characterized by jagged ridges and deeply incised wadis that can carry flash floods after rare rainfall. These mountain ranges are geologically ancient, consisting primarily of Precambrian rocks. They offer refuge from the extreme conditions of the surrounding sand desert and support small, isolated oasis communities.",
+    },
+    factsAdvanced: {
+      de: ["Teil des größeren Adrar-Plateau-Systems", "Besteht aus widerstandsfähigem Sandstein und Quarzit", "Wichtiger Standort für nomadische Viehzüchter", "Region ist reich an neolithischen Felsgravuren", "Mittlere Höhe liegt zwischen 400 und 600 Metern", "Erosion hat markante Tafelberg-Strukturen geformt"],
+      hu: ["A nagyobb Adrar-fennsík rendszerének része", "Ellenálló homokkőből és kvarcitból áll", "A nomád állattenyésztők fontos területe", "A régió gazdag neolitikus sziklavésetekben", "Átlagos magassága 400 és 600 méter között van", "Az erózió jellegzetes táblahegy-szerkezeteket formált"],
+      ro: ["Parte a sistemului mai larg al platoului Adrar", "Compus din gresie rezistentă și cuarțit", "Locație importantă pentru păstorii nomazi", "Regiunea este bogată în gravuri rupestre neolitice", "Altitudinea medie este între 400 și 600 de metri", "Eroziunea a modelat structuri proeminente de tip mesa"],
+      en: ["Part of the extensive Adrar Plateau system", "Composed of resistant sandstone and quartzite", "Critical grazing area for nomadic pastoralists", "Region is rich in Neolithic rock engravings", "Average elevation ranges between 400 and 600 meters", "Erosion has carved prominent mesa-like structures"],
+    },
   },
   {
     id: "mauritania-dhar-tichitt-relief-v2",
@@ -57,6 +81,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Sandstone escarpment", "Tagant region", "Historical significance", "Natural barrier"],
     },
     imageHint: "Dhar Tichitt sandstone cliffs",
+    descriptionAdvanced: {
+      de: "Dhar Tichitt ist ein beeindruckender Sandsteinbruch im Zentrum Mauretaniens, der für seine archäologische Bedeutung berühmt ist. Entlang dieser Klippen befinden sich die Überreste von über 400 befestigten Dörfern aus der Jungsteinzeit. Diese Region belegt den Übergang von nomadischer Lebensweise zu sesshafter Landwirtschaft vor Jahrtausenden. Die markante Geländestufe bietet einen weiten Blick über die südlich gelegene Aoukar-Senke.",
+      hu: "A Dhar Tichitt egy lenyűgöző homokkő-lépcső Mauritánia középső részén, amely régészeti jelentőségéről híres. E sziklák mentén több mint 400 erődített neolitikus falu maradványai találhatók. Ez a régió bizonyítja az átmenetet a nomád életmódról a letelepedett mezőgazdaságra évezredekkel ezelőtt. A markáns domborzati lépcső széles kilátást nyújt a déli Aoukar-mélyedésre.",
+      ro: "Dhar Tichitt este o faleză de gresie impresionantă în centrul Mauritaniei, celebră pentru importanța sa arheologică. De-a lungul acestor stânci se află rămășițele a peste 400 de sate fortificate din perioada neolitică. Această regiune atestă tranziția de la stilul de viață nomad la agricultura sedentară cu mii de ani în urmă. Treapta de relief oferă o vedere panoramică asupra depresiunii Aoukar din sud.",
+      en: "Dhar Tichitt is a striking sandstone escarpment in central Mauritania, renowned for its immense archaeological significance. Along these cliffs lie the remains of over 400 fortified Neolithic villages. This region provides crucial evidence of the transition from nomadic lifestyles to settled agriculture thousands of years ago. The prominent relief step offers expansive views over the Aoukar depression to the south.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Weltkulturerbe seit 1996 (als Teil der Ksour)", "Zentrum der Tichitt-Tradition (ca. 2000–500 v. Chr.)", "Siedlungen wurden aus Trockenmauerwerk errichtet", "Frühester Nachweis für Hirseanbau in Westafrika", "Klippen ragen bis zu 100 Meter über die Ebene", "Wichtiger Knotenpunkt des historischen Salzhandels"],
+      hu: ["1996 óta UNESCO Világörökség (a Ksour részeként)", "A Tichitt-kultúra központja (kb. i.e. 2000–500)", "A települések szárazon rakott kőfalakból épültek", "A kölestermesztés legkorábbi bizonyítéka Nyugat-Afrikában", "A sziklák akár 100 méterrel emelkednek a síkság fölé", "A történelmi sókereskedelem fontos csomópontja"],
+      ro: ["Patrimoniu UNESCO din 1996 (ca parte a Ksour)", "Centrul tradiției Tichitt (aprox. 2000–500 î.Hr.)", "Așezările au fost construite din zidărie uscată", "Cea mai veche dovadă a cultivării meiului în Africa de Vest", "Faleza se ridică până la 100 m deasupra câmpiei", "Nod important al comerțului istoric cu sare"],
+      en: ["UNESCO World Heritage site since 1996 (part of the Ksour)", "Center of the Tichitt Tradition (c. 2000–500 BC)", "Settlements were constructed using dry-stone masonry", "Earliest evidence of millet cultivation in West Africa", "The escarpment rises up to 100 meters above the plain", "Key junction for the historical trans-Saharan salt trade"],
+    },
   },
   {
     id: "mauritania-guelta-d-archei-relief-v2",
@@ -76,6 +112,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Adrar massif", "Natural reservoir", "High cliff walls", "Oasis character"],
     },
     imageHint: "Guelta d'Archei cliffs and water",
+    descriptionAdvanced: {
+      de: "Die Guelta d'Archei ist eine der bekanntesten Wasserstellen in der Sahara, eingebettet in eine tiefe Schlucht. In Mauretanien gibt es ähnliche Gueltas wie Matmata, die als ökologische Refugien dienen. Diese permanenten Wasserbecken in den Sandsteinplateaus sind Überreste einer feuchteren Klimavergangenheit. Sie beherbergen isolierte Populationen von Fischen und sogar Krokodilen, die sich an die Wüste angepasst haben.",
+      hu: "A Guelta d'Archei a Szahara egyik legismertebb vízlelőhelye, amely egy mély szurdokba ágyazódik. Mauritániában hasonló guelták találhatók, mint például Matmata, amelyek ökológiai menedékként szolgálnak. Ezek a homokkő-fennsíkokban található állandó víztározók egy csapadékosabb éghajlati múlt maradványai. Elszigetelt halpopulációknak és a sivataghoz alkalmazkodott krokodiloknak adnak otthont.",
+      ro: "Guelta d'Archei este unul dintre cele mai cunoscute puncte de apă din Sahara, situat într-o cheie adâncă. În Mauritania există gueltas similare, precum Matmata, care servesc drept refugii ecologice. Aceste bazine de apă permanente din platourile de gresie sunt rămășițe ale unui trecut climatic mai umed. Adăpostesc populații izolate de pești și chiar crocodili care s-au adaptat la condițiile de deșert.",
+      en: "The Guelta d'Archei is one of the most famous water holes in the Sahara, nestled within a deep, protecting canyon. In Mauritania, similar gueltas like Matmata serve as vital ecological refuges. These permanent water basins found in sandstone plateaus are remnants of a much wetter climatic past. They host isolated populations of fish and desert-adapted crocodiles that have survived for millennia.",
+    },
+    factsAdvanced: {
+      de: ["Permanentes Wasserreservoir in arider Umgebung", "Wird durch unterirdische Quellen gespeist", "Beherbergt Reliktpopulationen des Westafrikanischen Krokodils", "Wichtiger Tränkplatz für tausende von Kamelen", "Felswände bieten Schutz vor direkter Sonneneinstrahlung", "In der Umgebung befinden sich oft alte Felsmalereien"],
+      hu: ["Állandó víztározó száraz környezetben", "Föld alatti források táplálják", "A nyugat-afrikai krokodil maradványpopulációinak otthona", "Több ezer teve fontos itatóhelye", "A sziklafalak védelmet nyújtanak a közvetlen napsugárzás ellen", "A környéken gyakran találhatók ősi sziklarajzok"],
+      ro: ["Rezervor de apă permanent în mediu arid", "Alimentată de izvoare subterane", "Găzduiește populații relicte de crocodili vest-africani", "Loc de adăpare important pentru mii de cămile", "Pereții stâncoși oferă protecție împotriva soarelui direct", "În apropiere se găsesc adesea picturi rupestre vechi"],
+      en: ["Permanent water reservoir in a hyper-arid environment", "Sustained by ancient underground springs", "Home to relict populations of the West African crocodile", "Crucial watering hole for thousands of desert camels", "High canyon walls provide shade from direct sunlight", "Surrounding cliffs often feature ancient rock art"],
+    },
   },
   {
     id: "mauritania-akjoujt-plain-relief-v2",
@@ -95,6 +143,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Northwestern Mauritania", "Flat landscape", "Copper mines", "Arid climate"],
     },
     imageHint: "Akjoujt desert plain landscape",
+    descriptionAdvanced: {
+      de: "Die Akjoujt-Ebene im Westen Mauretaniens ist eine halbwüstenartige Region, die vor allem für ihre bedeutenden Bodenschätze bekannt ist. Die Landschaft ist durch weite, flache Gebiete mit spärlicher Vegetation und vereinzelten Felsformationen geprägt. Seit den 1970er Jahren spielt das Gebiet eine zentrale Rolle für den Bergbau des Landes, insbesondere bei der Gewinnung von Kupfer und Gold.",
+      hu: "Az Akjoujt-síkság Mauritánia nyugati részén terül el, és elsősorban jelentős ásványkincs-lelőhelyeiről ismert. A tájat kiterjedt, száraz síkságok jellemzik, amelyeket néhol sziklás kiemelkedések törnek meg. Az 1970-es évek óta a régió meghatározó szerepet tölt be az ország bányászatában, különösen a réz- és aranykitermelés terén.",
+      ro: "Câmpia Akjoujt din vestul Mauritaniei este o regiune semideşertică, cunoscută în special pentru resursele sale minerale semnificative. Peisajul este marcat de întinderi plate cu vegetație rară și formațiuni stâncoase izolate. Începând cu anii 1970, zona a jucat un rol central în industria minieră a țării, fiind un punct important pentru extracția cuprului și a aurului.",
+      en: "The Akjoujt Plain in western Mauritania is a semi-desert region primarily known for its significant mineral deposits. The landscape is characterized by vast, flat areas with sparse vegetation and occasional rocky outcrops. Since the 1970s, the area has played a central role in the country's mining sector, particularly in the extraction of copper and gold.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt Akjoujt dient als administratives Zentrum der Region Inchiri.", "Kupfervorkommen wurden hier bereits in den 1930er Jahren entdeckt.", "Die Region verzeichnet im Sommer Temperaturen von über 45 Grad Celsius.", "Das Bergbauprojekt Guelb Moghrein ist der wichtigste Arbeitgeber der Ebene.", "Die jährliche Niederschlagsmenge liegt oft unter 100 Millimetern.", "Die Ebene liegt etwa 250 Kilometer nordöstlich der Hauptstadt Nouakchott."],
+      hu: ["Akjoujt városa az Inchiri régió közigazgatási központjaként szolgál.", "A rézkészleteket már az 1930-as években felfedezték a területen.", "A régióban a nyári hőmérséklet gyakran meghaladja a 45 Celsius-fokot.", "A Guelb Moghrein bányaprojekt a síkság legfontosabb munkaadója.", "Az éves csapadékmennyiség gyakran nem éri el a 100 millimétert.", "A síkság körülbelül 250 kilométerre északkeletre fekszik Nouakchotttól."],
+      ro: ["Orașul Akjoujt servește drept centru administrativ al regiunii Inchiri.", "Zăcămintele de cupru au fost descoperite aici încă din anii 1930.", "Regiunea înregistrează temperaturi de peste 45 de grade Celsius în timpul verii.", "Proiectul minier Guelb Moghrein este cel mai important angajator din câmpie.", "Cantitatea anuală de precipitații este adesea sub 100 de milimetri.", "Câmpia se află la aproximativ 250 de kilometri nord-est de capitala Nouakchott."],
+      en: ["The town of Akjoujt serves as the administrative center of the Inchiri region.", "Copper deposits were discovered here as early as the 1930s.", "The region records temperatures exceeding 45 degrees Celsius during summer.", "The Guelb Moghrein mining project is the main employer in the plain.", "Annual rainfall in the area often falls below 100 millimeters.", "The plain is located approximately 250 kilometers northeast of Nouakchott."],
+    },
   },
   {
     id: "mauritania-el-djouf-relief-v2",
@@ -114,6 +174,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Large sand basin", "Sahara region", "Very dry", "Minimal vegetation"],
     },
     imageHint: "El Djouf desert landscape",
+    descriptionAdvanced: {
+      de: "El Djouf ist eine riesige, extrem trockene Senke im Osten Mauretaniens und im Nordwesten Malis. Als Teil der Sahara ist diese Region durch endlose Sanddünen und Kiesebenen geprägt und gilt als eine der unwirtlichsten Gegenden der Welt. Das Gebiet ist fast vollständig unbewohnt und war historisch ein Hindernis für die transsaharischen Handelskarawanen.",
+      hu: "Az El Djouf egy hatalmas, rendkívül száraz medence Mauritánia keleti és Mali északnyugati részén. A Szahara részeként ezt a régiót végtelen homokdűnék és kavicsos síkságok jellemzik, és a világ egyik legbarátságtalanabb vidékeként tartják számon. A terület szinte teljesen lakatlan, és történelmileg jelentős akadályt jelentett a transz-szaharai kereskedelmi karavánok számára.",
+      ro: "El Djouf este o depresiune vastă și extrem de aridă situată în estul Mauritaniei și nord-vestul Mali. Ca parte a Saharei, această regiune este caracterizată de dune de nisip nesfârșite și câmpii pietroase, fiind considerată una dintre cele mai neprimitoare zone din lume. Teritoriul este aproape complet nelocuit și a reprezentat istoric un obstacol major pentru caravanele comerciale trans-sahariene.",
+      en: "El Djouf is a vast, hyper-arid depression located in eastern Mauritania and northwestern Mali. As part of the Sahara, this region is characterized by endless sand dunes and gravel plains, being considered one of the most inhospitable places on Earth. The area is almost entirely uninhabited and has historically been a major obstacle for trans-Saharan trade caravans.",
+    },
+    factsAdvanced: {
+      de: ["Die Senke liegt durchschnittlich 200 bis 300 Meter über dem Meeresspiegel.", "El Djouf wird oft als das 'Leere Viertel' der Sahara bezeichnet.", "In der Region wurden Meteoritenfunde wie der Adrar-Meteorit dokumentiert.", "Die Vegetation ist fast vollständig auf seltene Oasen am Rand beschränkt.", "In der Vergangenheit war das Becken Teil eines ausgedehnten Seensystems.", "Die Temperaturen können am Tag 50 Grad erreichen und nachts stark abfallen."],
+      hu: ["A medence átlagosan 200-300 méterrel fekszik a tengerszint felett.", "Az El Djoufot gyakran a Szahara 'Üres Negyedeként' emlegetik.", "A régióban olyan meteoritleleteket dokumentáltak, mint az Adrar-meteorit.", "A növényzet szinte teljesen a széleken található ritka oázisokra korlátozódik.", "A múltban a medence egy kiterjedt tórendszer része volt.", "A nappali hőmérséklet elérheti az 50 fokot, míg éjszaka jelentősen lehűl."],
+      ro: ["Depresiunea se află la o altitudine medie de 200 până la 300 de metri.", "El Djouf este adesea numit 'Cartierul Gol' al deșertului Sahara.", "În regiune au fost documentate descoperiri de meteoriți, precum meteoritul Adrar.", "Vegetația este limitată aproape în întregime la oaze rare de la margini.", "În trecut, bazinul a făcut parte dintr-un sistem extins de lacuri.", "Temperaturile pot atinge 50 de grade ziua și pot scădea drastic noaptea."],
+      en: ["The depression lies at an average elevation of 200 to 300 meters.", "El Djouf is often referred to as the 'Empty Quarter' of the Sahara.", "Meteorite finds, such as the Adrar meteorite, have been documented in the region.", "Vegetation is almost entirely restricted to rare oases on its periphery.", "In the geological past, the basin was part of an extensive lake system.", "Daytime temperatures can reach 50°C, with significant drops at night."],
+    },
   },
   {
     id: "mauritania-tiris-plain-relief-v2",
@@ -133,6 +205,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Northern Mauritania", "Stone desert", "Vast plain", "Arid"],
     },
     imageHint: "Tiris stone desert landscape",
+    descriptionAdvanced: {
+      de: "Die Tiris-Ebene erstreckt sich im hohen Norden Mauretaniens und bildet eine karge, weitläufige Wüstenlandschaft. Geologisch ist sie für ihre kristallinen Gesteinsformationen und die Nähe zu den massiven Eisenerzvorkommen von Zouérat bekannt. Die Region ist extrem trocken und wird hauptsächlich von nomadischen Viehzüchtern durchquert, die sich an die harten Bedingungen angepasst haben.",
+      hu: "A Tiris-síkság Mauritánia távoli északi részén terül el, kopár és kiterjedt sivatagi tájat alkotva. Geológiailag kristályos kőzetformációiról és a Zouérat környéki hatalmas vasérckészletek közelségéről ismert. A régió rendkívül száraz, területén főként nomád állattenyésztők vonulnak át, akik alkalmazkodtak a zord körülményekhez.",
+      ro: "Câmpia Tiris se întinde în nordul îndepărtat al Mauritaniei, formând un peisaj deșertic arid și vast. Din punct de vedere geologic, este cunoscută pentru formațiunile sale de roci cristaline și proximitatea față de masivele zăcăminte de fier de la Zouérat. Regiunea este extrem de uscată și este traversată în principal de păstori nomazi care s-au adaptat condițiilor dure.",
+      en: "The Tiris Plain extends across the far north of Mauritania, forming a barren and expansive desert landscape. Geologically, it is noted for its crystalline rock formations and proximity to the massive iron ore deposits near Zouérat. The region is hyper-arid and is primarily traversed by nomadic herders who have adapted to the harsh environment.",
+    },
+    factsAdvanced: {
+      de: ["Die Ebene ist nach der Verwaltungsregion Tiris Zemmour benannt.", "In der Nähe befindet sich der Kediet ej Jill, der höchste Berg des Landes.", "Eisenerz wird hier seit 1963 im industriellen Maßstab abgebaut.", "Die Bahnlinie Zouérat-Nouadhibou durchquert Teile dieser Region.", "Die jährliche Regenmenge überschreitet selten 50 Millimeter.", "Hier finden sich oft 'Guelbs', isolierte Inselberge aus hartem Gestein."],
+      hu: ["A síkság a Tiris Zemmour közigazgatási régióról kapta a nevét.", "A közelben található a Kediet ej Jill, az ország legmagasabb pontja.", "A vasérc kitermelése 1963 óta folyik ipari méretekben a térségben.", "A Zouérat-Nouadhibou vasútvonal áthalad a régió egyes részein.", "Az éves csapadékmennyiség ritkán haladja meg az 50 millimétert.", "Gyakran láthatók itt 'Guelbek', kemény kőzetből álló szigethegyek."],
+      ro: ["Câmpia este numită după regiunea administrativă Tiris Zemmour.", "În apropiere se află Kediet ej Jill, cel mai înalt munte din țară.", "Minereul de fier este extras aici la scară industrială din 1963.", "Linia de cale ferată Zouérat-Nouadhibou traversează părți ale acestei regiuni.", "Cantitatea anuală de precipitații depășește rar 50 de milimetri.", "Aici se găsesc frecvent 'Guelbs', munți insulari izolați din rocă dură."],
+      en: ["The plain is named after the Tiris Zemmour administrative region.", "Kediet ej Jill, the highest mountain in Mauritania, is located nearby.", "Iron ore has been mined here on an industrial scale since 1963.", "The Zouérat-Nouadhibou railway line traverses parts of this region.", "Annual rainfall in the plain rarely exceeds 50 millimeters.", "The area features many 'Guelbs', which are isolated inselbergs of hard rock."],
+    },
   },
   {
     id: "mauritania-inchiri-relief-v2",
@@ -152,6 +236,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Western Mauritania", "Proximity to Atlantic", "Sand dunes", "Lowland"],
     },
     imageHint: "Inchiri sand dunes",
+    descriptionAdvanced: {
+      de: "Die Inchiri-Region im Westen Mauretaniens umfasst eine Mischung aus Küstenebenen und sanften Hügellandschaften im Landesinneren. Sie ist ein entscheidender Korridor zwischen der Hauptstadt Nouakchott und den nördlichen Bergbaugebieten. Trotz ihrer Trockenheit besitzt die Region aufgrund ihrer geologischen Beschaffenheit eine hohe wirtschaftliche Bedeutung für den nationalen Bergbausektor.",
+      hu: "A Mauritánia nyugati részén fekvő Inchiri régió tengerparti síkságok és lankás belső dombvidékek elegyét alkotja. Fontos folyosót képez a főváros, Nouakchott és az északi bányászati területek között. Szárazsága ellenére a régió geológiai felépítése miatt kiemelkedő gazdasági jelentőséggel bír a nemzeti bányászati szektor számára.",
+      ro: "Regiunea Inchiri din vestul Mauritaniei cuprinde un amestec de câmpii de coastă și dealuri domoale în interiorul țării. Este un coridor crucial între capitala Nouakchott și zonele miniere din nord. În ciuda aridității sale, regiunea are o importanță economică ridicată pentru sectorul minier național datorită structurii sale geologice.",
+      en: "The Inchiri region in western Mauritania encompasses a mix of coastal plains and rolling inland hills. It serves as a vital corridor between the capital, Nouakchott, and the northern mining districts. Despite its aridity, the region holds significant economic importance for the national mining sector due to its geological composition.",
+    },
+    factsAdvanced: {
+      de: ["Akjoujt ist die Hauptstadt und das wirtschaftliche Zentrum von Inchiri.", "Die Region hat eine der niedrigsten Bevölkerungsdichten Mauretaniens.", "Wichtige Goldvorkommen werden in der Mine von Guelb Moghrein abgebaut.", "Das Gelände besteht größtenteils aus quartären Sanden und Sedimenten.", "Die Küstenlinie von Inchiri ist weitgehend unbewohnt und unerschlossen.", "Ein Großteil der Fläche wird für die Durchreise von Bergbau-Zügen genutzt."],
+      hu: ["Akjoujt Inchiri fővárosa és egyben gazdasági központja.", "A régió Mauritánia egyik legalacsonyabb népsűrűségű területe.", "Jelentős aranykészleteket termelnek ki a Guelb Moghrein bányában.", "A terep nagy részét negyedidőszaki homok és üledék borítja.", "Inchiri tengerparti szakasza nagyrészt lakatlan és kiépítetlen.", "A terület jelentős részét a bányászati vonatok áthaladására használják."],
+      ro: ["Akjoujt este capitala și centrul economic al regiunii Inchiri.", "Regiunea are una dintre cele mai scăzute densități ale populației din Mauritania.", "Zăcăminte importante de aur sunt exploatate în mina de la Guelb Moghrein.", "Terenul constă în mare parte din nisipuri și sedimente cuaternare.", "Linia de coastă a regiunii Inchiri este în mare parte nelocuită și nedezvoltată.", "O mare parte a suprafeței este utilizată pentru tranzitul trenurilor miniere."],
+      en: ["Akjoujt is the capital and the economic hub of the Inchiri region.", "The region has one of the lowest population densities in Mauritania.", "Significant gold deposits are extracted at the Guelb Moghrein mine.", "The terrain consists mostly of Quaternary sands and sediments.", "Inchiri's coastline is largely uninhabited and remains undeveloped.", "A large portion of the area is used for the transit of mining trains."],
+    },
   },
   {
     id: "mauritania-aftout-es-sahel-relief-v2",
@@ -171,6 +267,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Southwestern Mauritania", "Basin structure", "Irrigation", "Agriculture"],
     },
     imageHint: "Aftout es-Sahel agricultural basin",
+    descriptionAdvanced: {
+      de: "Aftout es-Sahel ist eine schmale Küstensenke, die sich entlang des Atlantiks zwischen Nouakchott und der Mündung des Senegal-Flusses erstreckt. Diese geologische Rinne liegt oft unter dem Meeresspiegel und ist durch Salzpfannen und saisonale Feuchtgebiete geprägt. Die Region ist von großer ökologischer Bedeutung, da sie als natürlicher Puffer zwischen dem Meer und dem trockenen Hinterland fungiert.",
+      hu: "Az Aftout es-Sahel egy keskeny tengerparti mélyedés, amely az Atlanti-óceán mentén húzódik Nouakchott és a Szenegál-folyó torkolata között. Ez a geológiai vályú gyakran a tengerszint alatt fekszik, és sós mocsarak, valamint időszakos vizes élőhelyek jellemzik. A régió ökológiai jelentősége nagy, mivel természetes pufferzónaként szolgál az óceán és a száraz hátország között.",
+      ro: "Aftout es-Sahel este o depresiune de coastă îngustă care se întinde de-a lungul Atlanticului între Nouakchott și gura de vărsare a fluviului Senegal. Acest jgheab geologic se află adesea sub nivelul mării și este caracterizat de mlaștini sărate și zone umede sezoniere. Regiunea are o mare importanță ecologică, servind drept zonă tampon între ocean și interiorul arid.",
+      en: "Aftout es-Sahel is a narrow coastal depression stretching along the Atlantic between Nouakchott and the mouth of the Senegal River. This geological trough often lies below sea level and is characterized by salt pans and seasonal wetlands. The region is of great ecological significance, serving as a natural buffer between the ocean and the arid hinterland.",
+    },
+    factsAdvanced: {
+      de: ["Die Senke erstreckt sich über eine Länge von etwa 200 Kilometern.", "Teile des Gebiets werden für die Wasserversorgung von Nouakchott genutzt.", "Die Vegetation besteht vorwiegend aus salztoleranten Halophyten.", "In Regenzeiten füllen sich temporäre Seen, die Zugvögel anlocken.", "Die Region ist durch Sandbarrieren vom direkten Ozean getrennt.", "Historisch diente sie als wichtige Route für den Nord-Süd-Verkehr."],
+      hu: ["A mélyedés körülbelül 200 kilométer hosszan nyúlik el.", "A terület egyes részeit Nouakchott vízellátására használják.", "A növényzetet főként sótűrő halofita növények alkotják.", "Az esős évszakban ideiglenes tavak jönnek létre, amelyek vonzzák a madarakat.", "A régiót homokgátak választják el a közvetlen óceáni parttól.", "Történelmileg fontos útvonal volt az észak-déli irányú közlekedés számára."],
+      ro: ["Depresiunea se întinde pe o lungime de aproximativ 200 de kilometri.", "Părți ale zonei sunt utilizate pentru alimentarea cu apă a orașului Nouakchott.", "Vegetația constă în principal din plante halofite rezistente la sare.", "În perioadele ploioase se formează lacuri temporare care atrag păsări migratoare.", "Regiunea este separată de oceanul direct prin bariere de nisip.", "Istoric, a servit ca o rută importantă pentru traficul nord-sud."],
+      en: ["The depression extends over a length of approximately 200 kilometers.", "Parts of the area are utilized for the water supply of Nouakchott.", "Vegetation consists mainly of salt-tolerant halophytic plants.", "During rainy seasons, temporary lakes form, attracting migratory birds.", "The region is separated from the open ocean by sandy barriers.", "Historically, it served as a key route for north-south transportation."],
+    },
   },
   {
     id: "mauritania-banc-d-arguin-coast-relief-v2",
@@ -190,6 +298,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Atlantic coast", "Tidal zone", "Sandbanks", "Lowland"],
     },
     imageHint: "Banc d'Arguin coastline",
+    descriptionAdvanced: {
+      de: "Die Küste des Banc d'Arguin ist ein weltweit bedeutendes Ökosystem an der mauretanischen Atlantikküste, wo Wüste und Meer aufeinandertreffen. Das Gebiet umfasst seichte Gewässer, Sandbänke, Inseln und Wattenmeer, die eine enorme biologische Vielfalt beherbergen. Es ist einer der wichtigsten Überwinterungsplätze für Zugvögel weltweit und steht seit 1989 auf der Liste des UNESCO-Welterbes.",
+      hu: "A Banc d'Arguin partvidéke világszinten jelentős ökoszisztéma Mauritánia atlanti-óceáni partjainál, ahol a sivatag és a tenger találkozik. A terület sekély vizeket, homokpadokat, szigeteket és árapály-síkságokat foglal magában, amelyek hatalmas biológiai sokféleségnek adnak otthont. A vándormadarak egyik legfontosabb telelőhelye, és 1989 óta az UNESCO Világörökség része.",
+      ro: "Coasta Banc d'Arguin este un ecosistem de importanță globală pe țărmul atlantic al Mauritaniei, unde deșertul întâlnește marea. Zona cuprinde ape puțin adânci, bancuri de nisip, insule și zone intertidale care adăpostesc o biodiversitate enormă. Este unul dintre cele mai importante locuri de iernare pentru păsările migratoare și este inclus în Patrimoniul Mondial UNESCO din 1989.",
+      en: "The Banc d'Arguin coast is a globally significant ecosystem on Mauritania's Atlantic shore, where the desert meets the sea. The area comprises shallow waters, sandbanks, islands, and mudflats that host an enormous biological diversity. It is one of the world's most important wintering sites for migratory birds and has been a UNESCO World Heritage site since 1989.",
+    },
+    factsAdvanced: {
+      de: ["Der Nationalpark Banc d'Arguin umfasst ca. 12.000 Quadratkilometer.", "Über zwei Millionen Zugvögel nutzen das Gebiet jährlich zur Rast.", "Die Imraguen-Fischer nutzen traditionelle Methoden ohne Motorboote.", "Das Wasser ist extrem nährstoffreich durch den Kanarenstrom.", "Es beherbergt die weltweit größte Population der Monk-Robben-Kolonie.", "Die Insel Arguin war im 15. Jahrhundert ein wichtiger Handelsstützpunkt."],
+      hu: ["A Banc d'Arguin Nemzeti Park területe kb. 12 000 négyzetkilométer.", "Évente több mint kétmillió vándormadár pihen meg a területen.", "Az Imraguen halászok hagyományos, motor nélküli módszereket alkalmaznak.", "A Kanári-áramlat miatt a víz rendkívül gazdag tápanyagokban.", "Itt található a világ legnagyobb barátfóka-kolóniája.", "Arguin szigete a 15. században fontos kereskedelmi támaszpont volt."],
+      ro: ["Parcul Național Banc d'Arguin acoperă aproximativ 12.000 km pătrați.", "Peste două milioane de păsări migratoare folosesc zona anual pentru popas.", "Pescarii Imraguen folosesc metode tradiționale, fără bărci cu motor.", "Apa este extrem de bogată în nutrienți datorită curentului Canarelor.", "Găzduiește cea mai mare colonie de foci călugăr din lume.", "Insula Arguin a fost un punct comercial important în secolul al XV-lea."],
+      en: ["The Banc d'Arguin National Park covers about 12,000 square kilometers.", "Over two million migratory birds use the area annually for resting.", "The Imraguen fishermen use traditional methods without motorized boats.", "The waters are extremely nutrient-rich due to the Canary Current upwelling.", "It hosts one of the largest remaining populations of Mediterranean monk seals.", "Arguin Island was a major trading outpost as early as the 15th century."],
+    },
   },
   {
     id: "mauritania-trarza-dunes-relief-v2",
@@ -209,6 +329,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Southwestern Mauritania", "Shifting dunes", "Sandy landscape", "Dry"],
     },
     imageHint: "Trarza shifting sand dunes",
+    descriptionAdvanced: {
+      de: "Die Trarza-Dünen erstrecken sich im Südwesten Mauretaniens und bilden eine Übergangszone zwischen der Sahara und dem Senegal-Flusstal. Dieses Erg-System besteht aus charakteristischen linearen Dünenzügen, die durch die vorherrschenden Passatwinde geformt wurden. Die Region ist von strategischer Bedeutung, da sie die küstennahen Verkehrsachsen und landwirtschaftliche Zonen im Süden verbindet.",
+      hu: "A Trarza-dűnék Mauritánia délnyugati részén húzódnak, átmeneti zónát alkotva a Szahara és a Szenegál-folyó völgye között. Ez az erg-rendszer jellegzetes lineáris dűnesorokból áll, amelyeket az uralkodó passzátszelek formáltak. A régió stratégiai fontosságú, mivel összeköti a part menti közlekedési útvonalakat a déli mezőgazdasági területekkel.",
+      ro: "Dunele Trarza se întind în sud-vestul Mauritaniei, formând o zonă de tranziție între deșertul Sahara și valea fluviului Senegal. Acest sistem de erg constă din șiruri caracteristice de dune liniare formate de vânturile alizee predominante. Regiunea este de importanță strategică, legând axele de transport de coastă de zonele agricole din sud.",
+      en: "The Trarza Dunes extend across southwestern Mauritania, forming a transition zone between the Sahara Desert and the Senegal River valley. This erg system consists of characteristic linear dune ridges shaped by prevailing trade winds. The region is strategically important, connecting coastal transportation axes with the agricultural zones in the south.",
+    },
+    factsAdvanced: {
+      de: ["Rosso ist die wichtigste Grenzstadt in der Trarza-Region am Senegal-Fluss.", "Die Dünen bewegen sich durch Winddrift kontinuierlich nach Südwesten.", "In den Senken zwischen den Dünen findet sich oft Grundwasser in geringer Tiefe.", "Die Region erhält jährlich zwischen 100 und 300 Millimeter Niederschlag.", "Gummi arabicum war historisch ein wichtiges Exportgut aus diesem Gebiet.", "Die Dünenketten können Höhen von bis zu 30 Metern erreichen."],
+      hu: ["Rosso a Trarza régió legfontosabb határvárosa a Szenegál-folyó mentén.", "A dűnék a szélhatás miatt folyamatosan délnyugati irányba mozdulnak.", "A dűnék közötti mélyedésekben gyakran sekély mélységben található talajvíz.", "A régió évente 100 és 300 milliméter közötti csapadékot kap.", "Az arabméz (gumiarábikum) történelmileg fontos exportcikk volt innen.", "A dűnesorok magassága elérheti a 30 métert is."],
+      ro: ["Rosso este cel mai important oraș de frontieră din regiunea Trarza, pe fluviul Senegal.", "Dunele se deplasează continuu spre sud-vest datorită derivei vântului.", "În depresiunile dintre dune se găsește adesea apă subterană la mică adâncime.", "Regiunea primește anual între 100 și 300 de milimetri de precipitații.", "Guma arabică a fost istoric un produs de export important din această zonă.", "Lanțurile de dune pot atinge înălțimi de până la 30 de metri."],
+      en: ["Rosso is the primary border town in the Trarza region on the Senegal River.", "The dunes continuously migrate southwest due to prevailing wind patterns.", "Groundwater can often be found at shallow depths in the interdunal depressions.", "The region receives between 100 and 300 millimeters of annual rainfall.", "Gum arabic was historically a major export commodity from this area.", "The dune ridges can reach heights of up to 30 meters."],
+    },
   },
   {
     id: "mauritania-brakna-plain-relief-v2",
@@ -228,6 +360,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Southern Mauritania", "Savanna character", "Flat plain", "Grazing land"],
     },
     imageHint: "Brakna savanna landscape",
+    descriptionAdvanced: {
+      de: "Die Brakna-Ebene liegt im südlichen Zentralmauretanien und stellt eine wichtige landwirtschaftliche Pufferzone dar. Die Landschaft ist durch flache Savannen und saisonale Wasserläufe geprägt, die in den Senegal-Fluss münden. Aufgrund der etwas höheren Niederschlagsmengen im Vergleich zum Norden ist hier sowohl Ackerbau als auch intensive Viehzucht möglich.",
+      hu: "A Brakna-síkság Mauritánia déli-középső részén fekszik, és fontos mezőgazdasági pufferzónát képez. A tájat lapos szavannák és a Szenegál-folyóba torkolló időszakos vízfolyások jellemzik. Az északi területekhez képest valamivel több csapadék miatt itt mind a növénytermesztés, mind az intenzív állattenyésztés lehetséges.",
+      ro: "Câmpia Brakna este situată în centrul-sudul Mauritaniei și reprezintă o zonă tampon agricolă importantă. Peisajul este caracterizat de savane plate și cursuri de apă sezoniere care se varsă în fluviul Senegal. Datorită precipitațiilor ceva mai ridicate comparativ cu nordul, aici este posibilă atât agricultura, cât și creșterea intensivă a animalelor.",
+      en: "The Brakna Plain is located in south-central Mauritania and serves as an important agricultural buffer zone. The landscape is characterized by flat savannas and seasonal watercourses that drain into the Senegal River. Due to slightly higher rainfall levels compared to the north, both crop cultivation and intensive livestock farming are feasible here.",
+    },
+    factsAdvanced: {
+      de: ["Aleg ist die Hauptstadt der Region Brakna und ein wichtiger Verkehrsknoten.", "Die Ebene ist bekannt für den Anbau von Sorghum und Hirse.", "Saisonale Seen, sogenannte 'Mares', sind lebenswichtig für das Vieh.", "Die Region gehört zur Sahelzone mit einer ausgeprägten Regenzeit.", "Historisch war Brakna ein mächtiges Emirat im 18. und 19. Jahrhundert.", "Die Durchschnittstemperaturen liegen im Jahr bei etwa 29 Grad Celsius."],
+      hu: ["Aleg Brakna régió fővárosa és egyben fontos közlekedési csomópont.", "A síkság híres a cirok és a köles termesztéséről.", "Az időszakos tavak, az úgynevezett 'mare'-k, létfontosságúak az állatoknak.", "A régió a Száhel-övezet része, jól elkülöníthető esős évszakkal.", "Történelmileg Brakna egy hatalmas emirátus volt a 18-19. században.", "Az éves átlaghőmérséklet 29 Celsius-fok körül alakul."],
+      ro: ["Aleg este capitala regiunii Brakna și un nod important de transport.", "Câmpia este cunoscută pentru cultivarea sorgului și a meiului.", "Lacurile sezoniere, numite 'mares', sunt vitale pentru animale.", "Regiunea aparține zonei Sahel, având un sezon ploios distinct.", "Istoric, Brakna a fost un emirat puternic în secolele XVIII și XIX.", "Temperaturile medii anuale sunt de aproximativ 29 de grade Celsius."],
+      en: ["Aleg is the capital of the Brakna region and a major transport junction.", "The plain is well-known for the cultivation of sorghum and millet.", "Seasonal lakes, known as 'mares', are crucial for livestock watering.", "The region is part of the Sahel zone with a distinct rainy season.", "Historically, Brakna was a powerful emirate during the 18th and 19th centuries.", "Average annual temperatures in the plain are around 29 degrees Celsius."],
+    },
   },
   {
     id: "mauritania-gorgol-valley-relief-v2",
@@ -247,6 +391,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Southern Mauritania", "River valley", "Fertile", "Agriculture"],
     },
     imageHint: "Gorgol Valley greenery",
+    descriptionAdvanced: {
+      de: "Das Gorgol-Tal ist eine der fruchtbarsten Regionen Mauretaniens und liegt im Süden des Landes entlang des gleichnamigen Flusses. Durch den Bau von Staudämmen wurde das Gebiet zu einem Zentrum für den Reisanbau und die moderne Landwirtschaft ausgebaut. Die Landschaft wechselt von trockenen Plateaus zu grünen Flussufern, was sie zu einem lebenswichtigen Versorgungsgebiet macht.",
+      hu: "A Gorgol-völgy Mauritánia egyik legtermékenyebb vidéke, az ország déli részén, az azonos nevű folyó mentén található. Gátak építésével a területet a rizstermesztés és a modern mezőgazdaság központjává fejlesztették. A táj a száraz fennsíkoktól a zöld folyópartokig változik, ami létfontosságú élelmiszer-termelő övezetté teszi.",
+      ro: "Valea Gorgol este una dintre cele mai fertile regiuni ale Mauritaniei, situată în sudul țării, de-a lungul râului cu același nume. Prin construcția de baraje, zona a fost dezvoltată într-un centru pentru cultivarea orezului și agricultură modernă. Peisajul variază de la platouri aride la maluri verzi de râu, fiind o zonă vitală de aprovizionare.",
+      en: "The Gorgol Valley is one of Mauritania's most fertile regions, located in the south along the river of the same name. Through the construction of dams, the area has been developed into a hub for rice cultivation and modern agriculture. The landscape transitions from arid plateaus to green riverbanks, making it a vital supply zone for the nation.",
+    },
+    factsAdvanced: {
+      de: ["Kaédi ist die größte Stadt und das Handelszentrum des Gorgol-Tals.", "Der Foum-Gleita-Damm reguliert die Wasserzufuhr für die Bewässerung.", "Reis ist das Hauptanbauprodukt in den erschlossenen Gebieten.", "Der Gorgol ist ein bedeutender Nebenfluss des Senegal-Flusses.", "Die Region hat die höchste Bevölkerungsdichte im ländlichen Mauretanien.", "Das Tal beherbergt vielfältige Vogelarten in den Feuchtgebieten."],
+      hu: ["Kaédi a Gorgol-völgy legnagyobb városa és kereskedelmi központja.", "A Foum Gleita-gát szabályozza az öntözéshez szükséges vízellátást.", "A rizs a fő termesztett növény a kiépített területeken.", "A Gorgol a Szenegál-folyó egyik jelentős mellékfolyója.", "A régióban a legmagasabb a népsűrűség a vidéki Mauritániában.", "A völgy vizes élőhelyei változatos madárfajoknak adnak otthont."],
+      ro: ["Kaédi este cel mai mare oraș și centrul comercial al văii Gorgol.", "Barajul Foum Gleita reglează alimentarea cu apă pentru irigații.", "Orezul este principala cultură în zonele dezvoltate ale văii.", "Gorgol este un afluent major al fluviului Senegal.", "Regiunea are cea mai mare densitate a populației din mediul rural mauritan.", "Valea găzduiește o varietate de specii de păsări în zonele sale umede."],
+      en: ["Kaédi is the largest city and the commercial center of the Gorgol Valley.", "The Foum Gleita dam regulates water supply for irrigation projects.", "Rice is the primary crop grown in the valley's developed areas.", "The Gorgol River is a major tributary of the Senegal River.", "The region has the highest rural population density in Mauritania.", "The valley hosts diverse bird species within its seasonal wetlands."],
+    },
   },
   {
     id: "mauritania-assaba-hills-relief-v2",
@@ -266,6 +422,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Southern Mauritania", "Hilly landscape", "Rocky plateaus", "Arid"],
     },
     imageHint: "Assaba Hills rocky landscape",
+    descriptionAdvanced: {
+      de: "Die Assaba-Hügel im südlichen Zentralmauretanien sind ein zerklüftetes Bergland, das die Grenze zwischen der Sahara und dem Sahel markiert. Die Region besteht aus Sandsteinplateaus und tief eingeschnittenen Tälern, in denen sich nach der Regenzeit Oasen bilden. Die markante Geografie bietet Schutz und Wasserressourcen, die für die sesshafte Bevölkerung und ihre Herden essenziell sind.",
+      hu: "A dél-középső Mauritániában található Assaba-hegyek egy tagolt hegyvidéket alkotnak, amely határvonalat húz a Szahara és a Száhel között. A régió homokkő fennsíkokból és mélyen bevágott völgyekből áll, amelyekben az esős évszak után oázisok jönnek létre. A jellegzetes földrajzi formák védelmet és vízkészletet nyújtanak a letelepedett lakosságnak és állataiknak.",
+      ro: "Dealurile Assaba din centrul-sudul Mauritaniei sunt un ținut muntos accidentat care marchează granița dintre Sahara și Sahel. Regiunea constă din platouri de gresie și văi adânci în care se formează oaze după sezonul ploios. Geografia distinctă oferă adăpost și resurse de apă esențiale pentru populația sedentară și turmele lor.",
+      en: "The Assaba Hills in south-central Mauritania are a rugged highland area marking the boundary between the Sahara and the Sahel. The region consists of sandstone plateaus and deeply incised valleys where oases form after the rainy season. The striking geography provides shelter and water resources essential for the sedentary population and their livestock.",
+    },
+    factsAdvanced: {
+      de: ["Kiffa ist die Hauptstadt der Assaba-Region und ein wichtiger Marktort.", "Die Hügel erreichen Höhen von über 400 Metern über dem Meeresspiegel.", "In der Region finden sich prähistorische Felsmalereien in Höhlen.", "Die 'Passstraße von Kiffa' ist eine technisch anspruchsvolle Verkehrsverbindung.", "Dattelpalmen gedeihen in den geschützten Tälern der Hügelkette.", "Die Niederschläge sind hier mit ca. 350 mm höher als im Norden."],
+      hu: ["Kiffa az Assaba régió fővárosa és egyben fontos piaci központ.", "A dombok magassága meghaladja a 400 métert a tengerszint felett.", "A régió barlangjaiban prehisztorikus sziklarajzok találhatók.", "A 'kiffai hágó' egy technikailag nehéz terepű közlekedési útvonal.", "A hegyvonulat védett völgyeiben jól terem a datolyapálma.", "A csapadék itt magasabb, mint északon, körülbelül évi 350 mm."],
+      ro: ["Kiffa este capitala regiunii Assaba și un important oraș de piață.", "Dealurile ating înălțimi de peste 400 de metri deasupra nivelului mării.", "În regiune se găsesc picturi rupestre preistorice în peșteri.", "„Pasul Kiffa” este o legătură rutieră dificilă din punct de vedere tehnic.", "Curmalii prosperă în văile protejate ale lanțului de dealuri.", "Precipitațiile sunt aici mai mari decât în nord, de aproximativ 350 mm."],
+      en: ["Kiffa is the capital of the Assaba region and a major marketplace.", "The hills reach elevations of over 400 meters above sea level.", "Prehistoric rock paintings can be found in caves throughout the region.", "The 'Pass of Kiffa' is a technically challenging mountain road link.", "Date palms thrive in the sheltered valleys of the hill range.", "Annual rainfall is higher here than in the north, at around 350 mm."],
+    },
   },
   {
     id: "mauritania-guidimaka-plateau-relief-v2",
@@ -285,6 +453,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Southern Mauritania", "Hilly", "Greener", "Tropical influence"],
     },
     imageHint: "Guidimaka green plateau landscape",
+    descriptionAdvanced: {
+      de: "Das Guidimaka-Plateau liegt am südlichsten Zipfel Mauretaniens und ist durch ein feuchteres, fast sudanesisches Klima geprägt. Die Landschaft ist hügelig und von dichtem Buschland sowie Baobab-Bäumen bewachsen, was einen starken Kontrast zur nördlichen Wüste darstellt. Es bildet das wirtschaftliche Rückgrat der Landwirtschaft im Grenzgebiet zu Mali und Senegal.",
+      hu: "A Guidimaka-fennsík Mauritánia legdélebbi csücskén fekszik, és csapadékosabb, szinte szudáni jellegű éghajlat jellemzi. A táj dombos, sűrű bozótosok és majomkenyérfák tarkítják, ami erős kontrasztot mutat az északi sivataggal. A régió a mezőgazdaság gazdasági gerincét alkotja a Mali és Szenegál menti határvidéken.",
+      ro: "Platoul Guidimaka se află în extremitatea sudică a Mauritaniei și este caracterizat de un climat mai umed, aproape sudanez. Peisajul este colinar, acoperit de tufișuri dese și arbori baobab, reprezentând un contrast puternic cu deșertul din nord. Regiunea formează coloana vertebrală a agriculturii în zona de frontieră cu Mali și Senegal.",
+      en: "The Guidimaka Plateau is located at the southernmost tip of Mauritania and is characterized by a wetter, almost Sudanese climate. The landscape is hilly, covered with dense scrubland and baobab trees, presenting a sharp contrast to the desert in the north. It forms the economic backbone of agriculture in the border region with Mali and Senegal.",
+    },
+    factsAdvanced: {
+      de: ["Sélibaby ist das Verwaltungszentrum des Guidimaka-Plateaus.", "Die Region erhält die höchsten Niederschlagsmengen des Landes (bis 600 mm).", "Baobab-Bäume prägen das Landschaftsbild dieser südlichen Zone.", "Es ist die Heimat der Soninké-Volksgruppe in Mauretanien.", "Das Plateau ist durch lateritische Böden mit rötlicher Farbe geprägt.", "Die Regenzeit dauert hier von Juni bis Oktober an."],
+      hu: ["Sélibaby a Guidimaka-fennsík közigazgatási központja.", "Az országban itt a legmagasabb a csapadékmennyiség (akár 600 mm).", "A majomkenyérfák (baobab) meghatározzák a déli övezet tájképét.", "Ez a terület a mauritániai szoninke népcsoport hazája.", "A fennsíkot vöröses színű, laterites talaj jellemzi.", "Az esős évszak itt júniustól egészen októberig tart."],
+      ro: ["Sélibaby este centrul administrativ al platoului Guidimaka.", "Regiunea primește cele mai mari cantități de precipitații din țară (până la 600 mm).", "Arborii baobab definesc peisajul acestei zone sudice.", "Este patria grupului etnic Soninké din Mauritania.", "Platoul este caracterizat de soluri lateritice de culoare roșiatică.", "Sezonul ploios durează aici din iunie până în octombrie."],
+      en: ["Sélibaby is the administrative center of the Guidimaka Plateau.", "The region receives the highest rainfall in the country (up to 600 mm).", "Baobab trees are a distinctive feature of this southern landscape.", "It is the primary homeland of the Soninke ethnic group in Mauritania.", "The plateau is characterized by reddish-colored lateritic soils.", "The rainy season here lasts from June until October."],
+    },
   },
   {
     id: "mauritania-dhar-nema-relief-v2",
@@ -304,6 +484,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Southeastern Mauritania", "Cliff edge", "Savanna view", "Prominent"],
     },
     imageHint: "Dhar Nema rocky cliff edge",
+    descriptionAdvanced: {
+      de: "Dhar Nema ist eine markante Sandsteinschwelle im Südosten Mauretaniens, die das Hodh-Becken überragt. Diese geologische Formation erstreckt sich über Hunderte Kilometer und dient als natürliche Barriere gegen die vorrückende Sahara. Die steilen Abbruchkanten beherbergen traditionelle Siedlungen und bieten strategische Aussichtspunkte über die weiten Ebenen des Hodh Ech Chargui.",
+      hu: "A Dhar Nema egy jellegzetes homokkő lépcső Mauritánia délkeleti részén, amely a Hodh-medence fölé magasodik. Ez a geológiai képződmény több száz kilométeren át húzódik, és természetes gátként szolgál az előretörő Szahara ellen. A meredek peremek mentén hagyományos települések találhatók, amelyek stratégiai kilátást nyújtanak Hodh Ech Chargui síkságaira.",
+      ro: "Dhar Nema este un prag de gresie proeminent în sud-estul Mauritaniei, care domină bazinul Hodh. Această formațiune geologică se întinde pe sute de kilometri și servește drept barieră naturală împotriva înaintării deșertului Sahara. Marginile abrupte găzduiesc așezări tradiționale și oferă puncte de observație strategice asupra câmpiilor vaste din Hodh Ech Chargui.",
+      en: "Dhar Nema is a prominent sandstone escarpment in southeastern Mauritania, overlooking the Hodh basin. This geological formation stretches for hundreds of kilometers and serves as a natural barrier against the encroaching Sahara. The steep cliffs house traditional settlements and provide strategic viewpoints over the vast plains of Hodh Ech Chargui.",
+    },
+    factsAdvanced: {
+      de: ["Nema ist die Hauptstadt der Region Hodh Ech Chargui am Fuße des Dhar.", "Die Kante bildet eine wichtige Wasserscheide in dieser trockenen Region.", "In der Nähe liegen die Ruinen von Kumbi Saleh, der Hauptstadt von Ghana.", "Die Sandsteinschichten stammen aus dem Paläozoikum.", "Es ist ein wichtiges Rückzugsgebiet für Nomaden während der Trockenzeit.", "Der Dhar erreicht Höhenunterschiede von etwa 100 bis 150 Metern zur Ebene."],
+      hu: ["Nema Hodh Ech Chargui régió fővárosa a Dhar lábánál.", "A perem fontos vízválasztót alkot ebben a száraz régióban.", "A közelben fekszenek Kumbi Saleh, a Ghánai Birodalom fővárosának romjai.", "A homokkőrétegek a paleozoikumból származnak.", "Fontos menedékhely a nomádok számára a száraz évszak idején.", "A Dhar magasságkülönbsége a síksághoz képest 100-150 méter."],
+      ro: ["Nema este capitala regiunii Hodh Ech Chargui, situată la poalele Dhar-ului.", "Creasta formează o cumpănă importantă de ape în această regiune aridă.", "În apropiere se află ruinele orașului Kumbi Saleh, capitala Imperiului Ghana.", "Straturile de gresie datează din era paleozoică.", "Este o zonă importantă de refugiu pentru nomazi în timpul sezonului secetos.", "Dhar-ul atinge diferențe de nivel de aproximativ 100 până la 150 de metri."],
+      en: ["Nema is the capital of the Hodh Ech Chargui region at the foot of the Dhar.", "The escarpment forms a significant watershed in this arid region.", "The ruins of Kumbi Saleh, the ancient Ghana Empire capital, are nearby.", "The sandstone layers date back to the Paleozoic era.", "It is a key sanctuary area for nomads during the dry season.", "The Dhar rises approximately 100 to 150 meters above the surrounding plain."],
+    },
   },
   {
     id: "mauritania-adrar-dunes-relief-v2",
@@ -323,6 +515,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Adrar region", "Dune field", "High sand mountains", "Arid"],
     },
     imageHint: "Adrar high sand dunes",
+    descriptionAdvanced: {
+      de: "Die Adrar-Dünen im Herzen Mauretaniens sind Teil eines spektakulären Hochlandes, in dem massive Erg-Systeme auf schroffe Felsplateaus treffen. Die Region ist berühmt für den Erg Amatlich, ein riesiges Sandmeer, das sich durch tief eingeschnittene Wadis und grüne Oasen zieht. Diese Landschaft ist nicht nur geologisch faszinierend, sondern auch das kulturelle Herzland der mauritanischen Wüstentradition.",
+      hu: "A Mauritánia szívében található Adrar-dűnék egy látványos felföld részei, ahol hatalmas erg-rendszerek találkoznak zord sziklafennsíkokkal. A régió híres az Erg Amatlich-ról, egy óriási homoktengerről, amely mélyen bevágott vádikon és zöld oázisokon húzódik keresztül. Ez a táj nemcsak geológiailag lenyűgöző, hanem a mauritániai sivatagi hagyományok kulturális központja is.",
+      ro: "Dunele Adrar din inima Mauritaniei fac parte dintr-un ținut muntos spectaculos unde sisteme vaste de erg întâlnesc platouri stâncoase abrupte. Regiunea este faimoasă pentru Erg Amatlich, o mare de nisip uriașă care traversează uadi-uri adânci și oaze verzi. Acest peisaj este fascinant nu doar geologic, ci reprezintă și inima culturală a tradiției deșertice mauritane.",
+      en: "The Adrar Dunes in the heart of Mauritania are part of a spectacular highland where massive erg systems meet rugged rocky plateaus. The region is famous for Erg Amatlich, a giant sand sea that traverses deeply incised wadis and green oases. This landscape is not only geologically fascinating but also serves as the cultural heartland of Mauritanian desert traditions.",
+    },
+    factsAdvanced: {
+      de: ["Atar ist das Tor zum Adrar und das wichtigste Touristenzentrum.", "Die Oase Chinguetti gehört zum UNESCO-Weltkulturerbe.", "Der Erg Amatlich erstreckt sich über 200 Kilometer Länge.", "Hier finden sich die berühmten Dünenpässe wie der von Terjit.", "Die Region ist bekannt für ihre hochwertigen Adrar-Datteln.", "Die Dünen erreichen hier oft Höhen von über 100 Metern."],
+      hu: ["Atar az Adrar kapuja és a legfontosabb turisztikai központ.", "Chinguetti oázisa az UNESCO Világörökség része.", "Az Erg Amatlich több mint 200 kilométer hosszan nyúlik el.", "Itt találhatók a híres dűnehágók, mint például a Terjit-hágó.", "A régió híres a kiváló minőségű adrari datolyájáról.", "A dűnék magassága itt gyakran meghaladja a 100 métert."],
+      ro: ["Atar este poarta către Adrar și cel mai important centru turistic.", "Oaza Chinguetti face parte din Patrimoniul Mondial UNESCO.", "Erg Amatlich se întinde pe o lungime de peste 200 de kilometri.", "Aici se găsesc faimoase pasuri printre dune, precum cel de la Terjit.", "Regiunea este cunoscută pentru curmalele de Adrar de înaltă calitate.", "Dunele ating aici adesea înălțimi de peste 100 de metri."],
+      en: ["Atar is the gateway to the Adrar and the primary tourist hub.", "The oasis of Chinguetti is a recognized UNESCO World Heritage site.", "The Erg Amatlich sand sea extends over 200 kilometers in length.", "The region features famous dune passes, such as the one at Terjit.", "Adrar is renowned for producing high-quality desert dates.", "Sand dunes in this region often reach heights exceeding 100 meters."],
+    },
   },
   {
     id: "mauritania-tiris-zemmour-relief-v2",
@@ -342,6 +546,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Extreme north", "Rocky", "Isolated", "Barren"],
     },
     imageHint: "Tiris Zemmour rocky plateau",
+    descriptionAdvanced: {
+      de: "Das Tiris Zemmour Plateau im äußersten Norden Mauretaniens ist eine extrem trockene Hochwüste, die geologisch zum Reguibat-Schild gehört. Die Landschaft ist geprägt von weiten Granit- und Gneisebenen, die von schroffen Inselbergen unterbrochen werden. Trotz der extremen lebensfeindlichen Bedingungen ist die Region aufgrund ihrer immensen Eisenerzvorkommen von existenzieller Bedeutung für die mauretanische Wirtschaft.",
+      hu: "A Mauritánia északi részén fekvő Tiris Zemmour-fennsík egy rendkívül száraz magaslati sivatag, amely geológiailag a Reguibat-pajzshoz tartozik. A tájat kiterjedt gránit- és gneiszsíkságok jellemzik, amelyeket zord sziklahegyek szakítanak meg. A rendkívül barátságtalan körülmények ellenére a régió a hatalmas vasérckészletei miatt létfontosságú a mauritániai gazdaság számára.",
+      ro: "Platoul Tiris Zemmour din extremul nord al Mauritaniei este un deșert de mare altitudine extrem de arid, aparținând geologic scutului Reguibat. Peisajul este dominat de câmpii vaste de granit și gnais, întrerupte de munți insulari abrupți. În ciuda condițiilor ostile vieții, regiunea este de o importanță existențială pentru economia mauritană datorită zăcămintelor imense de fier.",
+      en: "The Tiris Zemmour Plateau in far northern Mauritania is a hyper-arid high desert, geologically part of the Reguibat Shield. The landscape is dominated by vast granite and gneiss plains punctuated by rugged inselbergs. Despite its extremely hostile environment, the region is of vital importance to the Mauritanian economy due to its immense iron ore deposits.",
+    },
+    factsAdvanced: {
+      de: ["Zouérat ist das Zentrum des mauretanischen Eisenerzbergbaus.", "Die Region beherbergt den 'Richat-Struktur' (Auge der Sahara) Ausläufer.", "Hier verkehrt der schwerste und längste Erzzug der Welt.", "Die Temperaturen fallen im Winter nachts oft bis auf den Gefrierpunkt.", "Foum Tizigui ist eine markante Schlucht in diesem Plateau.", "Es gibt fast keine permanente Vegetation außerhalb kleiner Felstümpel."],
+      hu: ["Zouérat a mauritániai vasércbányászat központja.", "A régió közelében található a 'Richat-struktúra' (a Szahara szeme).", "Itt közlekedik a világ legnehezebb és leghosszabb ércszállító vonata.", "Télen az éjszakai hőmérséklet gyakran fagypontig süllyed.", "Foum Tizigui egy jellegzetes szurdok ezen a fennsíkon.", "A kis sziklás medencéken kívül szinte nincs állandó növényzet."],
+      ro: ["Zouérat este centrul industriei minereului de fier din Mauritania.", "Regiunea găzduiește marginile „Structurii Richat” (Ochiul Saharei).", "Aici circulă cel mai greu și mai lung tren de minereu din lume.", "Temperaturile scad adesea până la punctul de îngheț noaptea în timpul iernii.", "Foum Tizigui este un defileu proeminent situat în acest platou.", "Nu există aproape deloc vegetație permanentă în afara micilor bazine stâncoase."],
+      en: ["Zouérat is the hub of Mauritania's vital iron ore mining industry.", "The region lies near the famous 'Richat Structure' (Eye of the Sahara).", "It is home to the world's heaviest and longest iron ore train.", "Nighttime temperatures often drop to freezing during the winter months.", "Foum Tizigui is a prominent and rugged canyon within the plateau.", "Permanent vegetation is almost non-existent except around small rock pools."],
+    },
   },
   {
     id: "mauritania-tagant-escarpment-relief-v2",
@@ -361,6 +577,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Tagant region", "Steep slope", "Geological", "Marker"],
     },
     imageHint: "Tagant escarpment rock wall",
+    descriptionAdvanced: {
+      de: "Die Tagant-Schwelle ist ein massives Sandsteinplateau im zentralen Mauretanien, das steil über die umliegenden Wüstenebenen aufragt. Diese geologische Barriere fängt seltene Niederschläge ein, die Oasen und temporäre Seen (Guelta) speisen. Historisch gesehen war das Plateau ein wichtiger Rückzugsort und ein Knotenpunkt für den Handel zwischen dem Norden und dem Süden der Sahara.",
+      hu: "A Tagant-lépcső egy hatalmas homokkő fennsík Mauritánia középső részén, amely meredeken emelkedik a környező sivatagi síkságok fölé. Ez a geológiai gát felfogja a ritka csapadékot, amely oázisokat és időszakos tavakat (gueltákat) táplál. Történelmileg a fennsík fontos menedékhely és a Szahara északi és déli része közötti kereskedelem csomópontja volt.",
+      ro: "Pragul Tagant este un platou masiv de gresie în centrul Mauritaniei, care se ridică abrupt deasupra câmpiilor deșertice înconjurătoare. Această barieră geologică captează precipitațiile rare care alimentează oaze și lacuri temporare (guelta). Istoric, platoul a fost un refugiu important și un nod pentru comerțul între nordul și sudul Saharei.",
+      en: "The Tagant Escarpment is a massive sandstone plateau in central Mauritania, rising steeply above the surrounding desert plains. This geological barrier captures rare rainfall that feeds oases and temporary lakes (gueltas). Historically, the plateau served as a significant sanctuary and a hub for trade between the northern and southern Sahara.",
+    },
+    factsAdvanced: {
+      de: ["Tidjikja ist die Hauptstadt der Region Tagant und berühmt für Datteln.", "Die Guelta d'Archei beherbergt seltene Wüstenkrokodile.", "Die Steilwände erreichen Höhen von bis zu 500 Metern.", "Hier lag Tichitt, eine antike Stadt des transsaharischen Handels.", "Das Plateau besteht aus präkambrischen Sandsteinschichten.", "Die Region ist bekannt für ihre traditionelle mauretanische Architektur."],
+      hu: ["Tidjikja Tagant régió fővárosa, amely híres a datolyájáról.", "A Guelta d'Matmata ritka sivatagi krokodiloknak ad otthont.", "A meredek sziklafalak magassága elérheti az 500 métert.", "Itt található Tichitt, a transz-szaharai kereskedelem ősi városa.", "A fennsík prekambriumi homokkőrétegekből épül fel.", "A régió híres a hagyományos mauritániai építészetéről."],
+      ro: ["Tidjikja este capitala regiunii Tagant, faimoasă pentru curmalele sale.", "Guelta d'Matmata găzduiește crocodili de deșert rari.", "Pereții abrupți ating înălțimi de până la 500 de metri.", "Aici s-a aflat Tichitt, un oraș antic al comerțului trans-saharian.", "Platoul este compus din straturi de gresie precambriană.", "Regiunea este renumită pentru arhitectura sa tradițională mauritană."],
+      en: ["Tidjikja is the capital of the Tagant region, famous for its date palms.", "The Guelta d'Matmata is known for housing rare desert crocodiles.", "The escarpment cliffs reach elevations of up to 500 meters.", "Tichitt, an ancient trans-Saharan trading town, is located here.", "The plateau is geologically composed of Precambrian sandstone layers.", "The region is renowned for its distinctive traditional Mauritanian architecture."],
+    },
   },
   {
     id: "mauritania-aouker-dunes-relief-v2",
@@ -380,6 +608,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Aouker Basin", "Sand", "Very remote", "Desert"],
     },
     imageHint: "Aouker sandy dunes",
+    descriptionAdvanced: {
+      de: "Das Aouker-Becken ist eine ausgedehnte geologische Senke im Südosten Mauretaniens, die einst einen riesigen See beherbergte. Heute wird die Region von massiven fossilen Dünen und Sandebenen dominiert, die Teil der Sahara sind. Diese Formationen bieten wichtige Einblicke in die klimatische Geschichte Westafrikas und die Ausdehnung der Wüste über Jahrtausende.",
+      hu: "Az Aouker-medence egy kiterjedt geológiai süllyedék Mauritánia délkeleti részén, amely egykor egy hatalmas tavat foglalt magában. Napjainkban a régiót masszív fosszilis dűnék és homoksíkságok uralják, amelyek a Szahara részét képezik. Ezek a képződmények fontos betekintést nyújtanak Nyugat-Afrika éghajlati történetébe és a sivatag évezredes terjeszkedésébe.",
+      ro: "Bazinul Aouker este o depresiune geologică vastă în sud-estul Mauritaniei, care găzduia odinioară un lac imens. Astăzi, regiunea este dominată de dune fosile masive și câmpii de nisip, care fac parte din Sahara. Aceste formațiuni oferă informații importante despre istoria climatică a Africii de Vest și expansiunea deșertului de-a lungul mileniilor.",
+      en: "The Aouker Basin is a vast geological depression in southeastern Mauritania that once contained a massive lake. Today, the region is dominated by massive fossil dunes and sand plains that are part of the Sahara Desert. These formations provide important insights into the climatic history of West Africa and the expansion of the desert over millennia.",
+    },
+    factsAdvanced: {
+      de: ["Einstiger See mit einer Fläche von über 10.000 km²", "Das Becken liegt auf einer durchschnittlichen Höhe von 200 Metern", "Es befindet sich zwischen dem Adrar-Plateau und dem Tagant", "Archäologische Funde belegen eine menschliche Besiedlung vor 4.000 Jahren", "Die Dünen bestehen hauptsächlich aus feinem quartärem Sand", "Die Region ist heute fast vollständig unbewohnt und extrem trocken"],
+      hu: ["Az egykori tó területe meghaladta a 10 000 km²-t", "A medence átlagos tengerszint feletti magassága 200 méter", "Az Adrar-fennsík és a Tagant régió között helyezkedik el", "Régészeti leletek bizonyítják az emberi jelenlétet 4000 évvel ezelőtt", "A dűnék főként finom negyedkori homokból állnak", "A régió ma szinte teljesen lakatlan és rendkívül száraz"],
+      ro: ["Fostul lac avea o suprafață de peste 10.000 km²", "Bazinul se află la o altitudine medie de 200 de metri", "Este situat între podișul Adrar și regiunea Tagant", "Descoperirile arheologice atestă prezența umană de acum 4.000 de ani", "Dunele sunt compuse în principal din nisip fin cuaternar", "Regiunea este astăzi aproape complet nelocuită și extrem de aridă"],
+      en: ["The former lake covered an area of over 10,000 km²", "The basin lies at an average elevation of 200 meters", "It is located between the Adrar Plateau and the Tagant region", "Archaeological finds prove human habitation 4,000 years ago", "The dunes consist mainly of fine Quaternary sand", "The region is now almost completely uninhabited and extremely dry"],
+    },
   },
   {
     id: "mauritania-tidjikja-valley-relief-v2",
@@ -399,6 +639,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Oasis", "Date palms", "Water", "Tagant Plateau"],
     },
     imageHint: "Tidjikja oasis valley",
+    descriptionAdvanced: {
+      de: "Das Tidjikja-Tal liegt im Herzen des Tagant-Plateaus und ist bekannt für seine ausgedehnten Palmenhaine. Die gleichnamige Stadt wurde 1660 von den Idawaali-Mauren gegründet und diente als wichtiger Knotenpunkt für den Karawanenhandel. Die Architektur der Region zeichnet sich durch traditionelle Steinbauten aus, die an das raue Wüstenklima angepasst sind.",
+      hu: "A Tidjikja-völgy a Tagant-fennsík szívében fekszik, és kiterjedt pálmaligeteiről ismert. A terület azonos nevű városát 1660-ban alapították az Idawaali mórok, és fontos csomópontként szolgált a karavánkereskedelem számára. A régió építészetét a hagyományos kőépületek jellemzik, amelyek alkalmazkodtak a zord sivatagi éghajlathoz.",
+      ro: "Valea Tidjikja este situată în inima podișului Tagant și este cunoscută pentru livezile sale extinse de palmieri. Orașul cu același nume a fost fondat în 1660 de maurii Idawaali și a servit ca un nod important pentru comerțul cu caravane. Arhitectura regiunii se caracterizează prin clădiri tradiționale din piatră, adaptate climatului deșertic aspru.",
+      en: "The Tidjikja Valley is located in the heart of the Tagant Plateau and is known for its extensive palm groves. The town of the same name was founded in 1660 by the Idawaali Moors and served as an important hub for caravan trade. The region's architecture is characterized by traditional stone buildings adapted to the harsh desert climate.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt Tidjikja wurde im Jahr 1660 gegründet", "Das Tal beherbergt über 50.000 Dattelpalmen", "Es liegt auf einer Höhe von etwa 380 Metern über dem Meeresspiegel", "Die Region ist ein Zentrum der mauretanischen Dattelproduktion", "Das Klima ist geprägt von extremen Temperaturschwankungen", "In der Nähe befinden sich prähistorische Felsmalereien"],
+      hu: ["Tidjikja városát 1660-ban alapították", "A völgy több mint 50 000 datolyapálmának ad otthont", "Körülbelül 380 méteres tengerszint feletti magasságban fekszik", "A régió a mauritániai datolyatermelés egyik központja", "Az éghajlatot szélsőséges hőmérséklet-ingadozás jellemzi", "A közelben őskori sziklarajzok találhatóak"],
+      ro: ["Orașul Tidjikja a fost fondat în anul 1660", "Valea adăpostește peste 50.000 de curmali", "Se află la o altitudine de aproximativ 380 de metri deasupra mării", "Regiunea este un centru al producției de curmale din Mauritania", "Climatul este marcat de variații extreme de temperatură", "În apropiere se găsesc picturi rupestre preistorice"],
+      en: ["The town of Tidjikja was founded in 1660", "The valley is home to over 50,000 date palms", "It lies at an altitude of approximately 380 meters above sea level", "The region is a center of Mauritanian date production", "The climate is characterized by extreme temperature fluctuations", "Prehistoric rock paintings are located in the vicinity"],
+    },
   },
   {
     id: "mauritania-guir-plateau-relief-v2",
@@ -418,6 +670,18 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Adrar", "Rocky", "Barren", "Desert"],
     },
     imageHint: "Guir rocky plateau landscape",
+    descriptionAdvanced: {
+      de: "Das Guir-Plateau ist eine markante Sandsteinformation im Norden Mauretaniens, die Teil der Adrar-Region ist. Die Landschaft ist geprägt von flachen Gipfeln, steilen Klippen und tiefen Schluchten, die durch jahrtausendelange Erosion geformt wurden. Die Region ist geologisch bedeutsam und zeigt Schichten aus dem Paläozoikum, die reich an Fossilien sind.",
+      hu: "A Guir-fennsík egy jellegzetes homokkő képződmény Mauritánia északi részén, amely az Adrar régió része. A tájat lapos csúcsok, meredek sziklák és mély szurdokok jellemzik, amelyeket az évezredes erózió formált. A régió geológiailag jelentős, és paleozoikumi rétegeket mutat be, amelyek gazdagok fosszíliákban.",
+      ro: "Podișul Guir este o formațiune proeminentă de gresie din nordul Mauritaniei, care face parte din regiunea Adrar. Peisajul este caracterizat de vârfuri plate, stânci abrupte și defilee adânci, formate prin milenii de eroziune. Regiunea este semnificativă din punct de vedere geologic și prezintă straturi din paleozoic, bogate în fosile.",
+      en: "The Guir Plateau is a prominent sandstone formation in northern Mauritania, part of the Adrar region. The landscape is characterized by flat summits, steep cliffs, and deep canyons shaped by millennia of erosion. The region is geologically significant, displaying Paleozoic layers that are rich in fossils.",
+    },
+    factsAdvanced: {
+      de: ["Das Plateau besteht hauptsächlich aus devonischem Sandstein", "Die durchschnittliche Höhe liegt zwischen 400 und 500 Metern", "Es ist Teil der größeren Adrar-Hochebene", "Fossilien von Trilobiten wurden in den Gesteinsschichten gefunden", "Die jährliche Niederschlagsmenge liegt oft unter 50 mm", "Wichtige Oasen befinden sich an den Rändern des Plateaus"],
+      hu: ["A fennsík főként devon időszaki homokkőből áll", "Az átlagos magassága 400 és 500 méter között mozog", "A nagyobb Adrar-fennsík részét képezi", "Trilobita fosszíliákat találtak a kőzetrétegekben", "Az éves csapadékmennyiség gyakran 50 mm alatt marad", "Fontos oázisok találhatóak a fennsík peremén"],
+      ro: ["Podișul este compus în principal din gresie devoniană", "Altitudinea medie este între 400 și 500 de metri", "Face parte din platoul mai mare Adrar", "Fosile de trilobiți au fost găsite în straturile de rocă", "Precipitațiile anuale sunt adesea sub 50 mm", "Oaze importante sunt situate la marginile podișului"],
+      en: ["The plateau consists mainly of Devonian sandstone", "The average elevation is between 400 and 500 meters", "It is part of the larger Adrar highland", "Fossils of trilobites have been found in the rock layers", "Annual rainfall is often below 50 mm", "Important oases are located at the edges of the plateau"],
+    },
   },
   {
     id: "mauritania-zini-hills-relief-v2",
@@ -437,5 +701,17 @@ export const mauritaniaReliefV2: POI[] = [
       en: ["Tagant region", "Rocks", "Plain", "Dry"],
     },
     imageHint: "Zini hills rocky plain",
+    descriptionAdvanced: {
+      de: "Die Zini-Hügel erstrecken sich entlang der Grenze zwischen Mauretanien und der Westsahara. Diese geologische Formation besteht aus einer Reihe von Hügelketten, die durch tektonische Aktivitäten und anschließende Erosion entstanden sind. Die Region ist durch extreme Trockenheit und spärliche Vegetation gekennzeichnet, was sie zu einem klassischen Beispiel für saharische Relieflandschaften macht.",
+      hu: "A Zini-dombság Mauritánia és a Nyugat-Szahara határa mentén húzódik. Ez a geológiai képződmény dombsorokból áll, amelyek tektonikus tevékenység és az azt követő erózió révén jöttek létre. A régiót rendkívüli szárazság és ritka növényzet jellemzi, ami a szaharai domborzati tájak klasszikus példájává teszi.",
+      ro: "Dealurile Zini se întind de-a lungul graniței dintre Mauritania și Sahara Occidentală. Această formațiune geologică constă dintr-o serie de lanțuri deluroase create prin activitate tectonică și eroziune ulterioară. Regiunea este caracterizată de ariditate extremă și vegetație rară, fiind un exemplu clasic de relief saharian.",
+      en: "The Zini Hills stretch along the border between Mauritania and Western Sahara. This geological formation consists of a series of hill ranges created by tectonic activity and subsequent erosion. The region is characterized by extreme aridity and sparse vegetation, making it a classic example of Saharan relief landscapes.",
+    },
+    factsAdvanced: {
+      de: ["Die Hügel erreichen Höhen von bis zu 450 Metern", "Die Formation verläuft in einer Nordost-Südwest-Richtung", "Das Gestein besteht vorwiegend aus metamorphen Schiefern", "Die Region ist reich an Eisenerzvorkommen", "Es herrscht ein extremes Wüstenklima mit starken Winden", "In der Umgebung wurden neolithische Steinwerkzeuge gefunden"],
+      hu: ["A dombok magassága eléri a 450 métert", "A képződmény északkelet-délnyugati irányban fut", "A kőzet főként metamorf palából áll", "A régió vasérclelőhelyekben gazdag", "Szélsőséges sivatagi éghajlat uralkodik erős szelekkel", "A környéken neolitikus kőeszközöket találtak"],
+      ro: ["Dealurile ating înălțimi de până la 450 de metri", "Formațiunea are o orientare nord-est-sud-vest", "Roca este compusă în principal din șisturi metamorfice", "Regiunea este bogată în zăcăminte de minereu de fier", "Predomină un climat deșertic extrem cu vânturi puternice", "Unelte de piatră neolitice au fost găsite în împrejurimi"],
+      en: ["The hills reach elevations of up to 450 meters", "The formation runs in a northeast-southwest direction", "The rock consists predominantly of metamorphic schists", "The region is rich in iron ore deposits", "An extreme desert climate with strong winds prevails", "Neolithic stone tools have been found in the area"],
+    },
   }
 ];

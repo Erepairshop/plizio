@@ -32,7 +32,13 @@ image: "/poi-images/kabul-cities-v2.webp"
         "Kabul is situated at an elevation of around 1,790 meters.",
         "The Gardens of Babur are among the city's most famous historical attractions."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Über 3.500 Jahre Siedlungsgeschichte", "Höhenlage von ca. 1.790 Metern", "Über 4,5 Millionen Einwohner im Ballungsraum", "Gärten von Babur aus dem 16. Jahrhundert", "Sitz des Nationalmuseums von Afghanistan", "Liegt am strategisch wichtigen Kabul-Fluss"],
+      hu: ["Több mint 3500 éves múltra tekint vissza", "Tengerszint feletti magassága 1790 méter", "Lakossága meghaladja a 4,5 millió főt", "Itt található Babur császár 16. századi kertje", "Az ország legnagyobb egyetemi központja", "A Kabul-folyó szeli ketté a várost"],
+      ro: ["Istorie documentată de peste 3.500 de ani", "Altitudinea medie de 1.790 de metri", "Populație de peste 4,5 milioane de locuitori", "Găzduiește Grădinile lui Babur din secolul XVI", "Sediul Muzeului Național al Afganistanului", "Punct cheie pe fostul Drum al Mătăsii"],
+      en: ["History spans more than 3,500 years", "Average elevation of 1,790 metres", "Metropolitan population exceeds 4.5 million", "Home to the 16th-century Gardens of Babur", "Seat of the National Museum of Afghanistan", "Strategically located along the Kabul River"],
+    },
   },
   {
     id: "kandahar-cities-v2",
@@ -66,7 +72,14 @@ image: "/poi-images/kandahar-cities-v2.webp"
         "The Shrine of the Cloak houses a garment believed to have belonged to the Prophet Muhammad."
       ]
     },
-    image: "/poi-images/kandahar-cities-v2.webp"},
+    image: "/poi-images/kandahar-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet im 4. Jahrhundert v. Chr.", "Zweitgrößte Stadt Afghanistans", "Erste Hauptstadt des Durrani-Reiches (1747)", "Beherbergt das Mausoleum von Ahmad Shah Durrani", "Zentrum der afghanischen Granatapfelproduktion", "Liegt am fruchtbaren Arghandab-Fluss"],
+      hu: ["Az i. e. 4. században alapították", "Afganisztán második legnagyobb városa", "A Durrani Birodalom első fővárosa (1747)", "Itt van Ahmad Shah Durrani mauzóleuma", "A világ egyik legjobb gránátalma-termő vidéke", "Az Arghandab-folyó völgyében fekszik"],
+      ro: ["Fondat în secolul IV î.Hr. de Alexandru cel Mare", "Al doilea cel mai mare oraș din Afganistan", "Prima capitală a Imperiului Durrani în 1747", "Găzduiește Mausoleul lui Ahmad Shah Durrani", "Centru major pentru exportul de rodii", "Situat pe malul râului Arghandab"],
+      en: ["Founded in the 4th century BC by Alexander", "Second largest city in Afghanistan", "First capital of the Durrani Empire (1747)", "Home to the Mausoleum of Ahmad Shah Durrani", "Central hub for pomegranate production", "Located on the fertile Arghandab River plain"],
+    },
+  },
   {
     id: "herat-cities-v2",
     type: "state-capital",
@@ -98,7 +111,13 @@ image: "/poi-images/herat-cities-v2.webp"
         "The Friday Mosque of Herat is a masterpiece of Islamic architecture.",
         "The Citadel of Herat originally dates back to the time of Alexander the Great."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Timuriden-Renaissance im 15. Jh.", "Berühmt für die blaue Freitagsmoschee", "Lage im fruchtbaren Tal des Hari Rud", "Die Zitadelle Qala Ikhtyaruddin stammt aus der Antike", "Wichtigster Handelsplatz für Safran und Seide", "Heimat einer persischsprachigen Mehrheit"],
+      hu: ["A 15. századi Timurida reneszánsz központja", "Híres a kék mozaikos Péntek-mecsetről", "A Hari Rud-folyó termékeny völgyében fekszik", "A Qala Ikhtyaruddin citadella ókori alapú", "A sáfrány- és selyemkereskedelem központja", "Lakossága túlnyomórészt perzsa nyelvű"],
+      ro: ["Centrul Renașterii Timuride în secolul XV", "Găzduiește Marea Moschee cu mozaicuri albastre", "Situat în valea fertilă a râului Hari Rud", "Citadela Qala Ikhtyaruddin are origini antice", "Principalul centru de producție pentru șofran", "Populație majoritar vorbitoare de persană"],
+      en: ["Hub of the 15th-century Timurid Renaissance", "Famous for the tile-clad Friday Mosque", "Located in the fertile Hari Rud River valley", "The Qala Ikhtyaruddin citadel has ancient roots", "Major trade center for saffron and silk", "Home to a predominantly Persian-speaking population"],
+    },
   },
   {
     id: "mazar-i-sharif-cities-v2",
@@ -132,7 +151,14 @@ image: "/poi-images/mazar-i-sharif-cities-v2.webp"
         "The city traditionally celebrates the Nowruz festival each year with tens of thousands of visitors."
       ]
     },
-    image: "/poi-images/mazar-i-sharif-cities-v2.webp"},
+    image: "/poi-images/mazar-i-sharif-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Heimat der berühmten Blauen Moschee", "Zentrum der Nowruz-Feierlichkeiten", "Viertgrößte Stadt Afghanistans", "Wichtiger Erdgashub im Norden", "Eisenbahnverbindung nach Termez (Üzbegistan)", "Nahe den antiken Ruinen von Balch gelegen"],
+      hu: ["A híres Kék Mecset otthona", "A Nowruz (perzsa újév) központi helyszíne", "Afganisztán negyedik legnagyobb városa", "Az északi földgázkitermelés központja", "Vasúti összeköttetés Üzbegisztán felé", "A közeli ókori Balkh városa mellett fekszik"],
+      ro: ["Găzduiește celebra Moschee Albastră", "Centrul principal al celebrărilor de Nowruz", "Al patrulea oraș ca mărime din țară", "Hub major pentru industria gazelor naturale", "Conectat prin cale ferată de Termez, Uzbekistan", "Situat lângă ruinele antice ale orașului Balkh"],
+      en: ["Home to the iconic Blue Mosque", "Center of Afghanistan's Nowruz celebrations", "Fourth largest city in the country", "Major natural gas and industrial hub", "Connected by rail to Termez in Uzbekistan", "Located near the ancient ruins of Balkh"],
+    },
+  },
   {
     id: "kunduz-cities-v2",
     type: "state-capital",
@@ -164,7 +190,13 @@ image: "/poi-images/kunduz-cities-v2.webp"
         "The region around Kunduz is famous for its melon and cotton cultivation.",
         "The city is strategically located near the border with Tajikistan."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt der Provinz Kunduz", "Zentrum der Baumwollindustrie (Spinzar)", "Wichtige Handelsroute nach Tadschikistan", "Antike baktrische Siedlungsspuren (Kunduz Tepe)", "Bewässerung durch den Kunduz-Fluss", "Multisethnische Bevölkerung (Paschtunen, Tadschiken, Usbeken)"],
+      hu: ["Kunduz tartomány székhelye", "A Spinzar gyapotfeldolgozó központja", "Fő kereskedelmi útvonal Tádzsikisztán felé", "Ókori baktriai régészeti leletek helyszíne", "A Kunduz-folyó öntözi a vidéket", "Vegyes nemzetiségű (pastu, tadzsik, üzbég) lakosság"],
+      ro: ["Capitala provinciei Kunduz", "Centru al industriei bumbacului (Spinzar)", "Rută comercială majoră spre Tadjikistan", "Situl arheologic Kunduz Tepe este în apropiere", "Regiune fertilă irigată de râul Kunduz", "Populație diversă: paștuni, tadjici și uzbeci"],
+      en: ["Capital of the Kunduz Province", "Home to the Spinzar cotton enterprise", "Key trade route to Tajikistan via Shir Khan Bandar", "Features ancient Bactrian sites like Kunduz Tepe", "Region known as Afghanistan's breadbasket", "Ethnically mixed population of Pashtuns and Tajiks"],
+    },
   },
   {
     id: "jalalabad-cities-v2",
@@ -197,7 +229,13 @@ image: "/poi-images/jalalabad-cities-v2.webp"
         "The Kabul River flows right through the city, supplying water to its gardens.",
         "King Amanullah Khan and his family are buried in the city's mausoleum."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Höhenlage von nur 580 Metern", "Garten Bagh-e Wafa von Kaiser Babur gegründet", "Beherbergt das Mausoleum von König Amanullah Khan", "Sitz der Universität Nangarhar (gegr. 1962)", "Strategische Nähe zum Khyber-Pass (70 km)", "Wichtigstes Zentrum für Zitrusfrüchte"],
+      hu: ["Mindössze 580 méter magasan fekszik", "Babur császár alapította itt a Bagh-e Wafa kertet", "Itt található Amanullah Khan király mauzóleuma", "A Nangarhar Egyetem székhelye (alapítva 1962)", "A Haibar-hágótól 70 km-re fekszik", "Az ország legfontosabb citrusfélék-termő vidéke"],
+      ro: ["Altitudine joasă de doar 580 de metri", "Grădina Bagh-e Wafa fondată de împăratul Babur", "Găzduiește mausoleul regelui Amanullah Khan", "Sediul Universității Nangarhar din 1962", "Situat la 70 km de Pasul Khyber", "Principalul producător de citrice și măsline"],
+      en: ["Low elevation of only 580 metres", "Home to Babur's 16th-century Bagh-e Wafa garden", "Site of King Amanullah Khan's mausoleum", "Seat of Nangarhar University (est. 1962)", "Located 70 km from the Khyber Pass", "Afghanistan's leading center for citrus and olives"],
+    },
   },
   {
     id: "taloqan-cities-v2",
@@ -230,7 +268,13 @@ image: "/poi-images/taloqan-cities-v2.webp"
         "Marco Polo described the area around Taloqan in 1275 during his journey to China.",
         "The city's economy is primarily based on agriculture and trade."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Erwähnung durch Marco Polo im Jahr 1275", "Hauptstadt der Provinz Takhar", "Zentrum für den Abbau von Steinsalz", "Politisches Zentrum der Nordallianz in den 1990ern", "Lage am Khanabad-Fluss auf 800 m Höhe", "Produktion von Mandeln und Pistazien"],
+      hu: ["Marco Polo 1275-ben tett említést róla", "Takhar tartomány közigazgatási központja", "Közeli kősóbányák kereskedelmi központja", "Az Északi Szövetség központja volt az 1990-es években", "800 méteres magasságban, a Khanabad-folyónál fekszik", "Híres a mandula- és pisztáciaterméséről"],
+      ro: ["Menționat de Marco Polo în anul 1275", "Capitala administrativă a provinciei Takhar", "Centru de comerț pentru sarea de gemă", "Baza Alianței Nordului în anii 1990", "Situat la 800 m altitudine pe râul Khanabad", "Renumit pentru producția de migdale și orez"],
+      en: ["Mentioned by Marco Polo in 1275", "Capital city of Takhar Province", "Trade center for local rock salt mines", "Political base for the Northern Alliance in the 1990s", "Located at 800 metres elevation", "Major producer of almonds and pistachios"],
+    },
   },
   {
     id: "puli-khumri-cities-v2",
@@ -263,7 +307,13 @@ image: "/poi-images/puli-khumri-cities-v2.webp"
         "A major hydroelectric power plant in the city was built with Soviet assistance.",
         "Puli Khumri connects the capital city of Kabul with northern Afghanistan."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Strategischer Knotenpunkt am Salang-Tunnel", "Erstes Zementwerk Afghanistans (1930er)", "Wasserkraftwerk am Kunduz-Fluss", "Hauptstadt der Provinz Baghlan", "Wichtiges Zentrum für die Textilherstellung", "Logistik-Hub für den Handel mit Zentralasien"],
+      hu: ["Fontos csomópont a Salang-alagút után", "Itt épült az ország első cementgyára (1930-as évek)", "Vízierőmű üzemel a Kunduz-folyón", "Baghlan tartomány székhelye", "Jelentős textilipari központ", "A közép-ázsiai kereskedelem logisztikai bázisa"],
+      ro: ["Nod logistic major lângă Tunelul Salang", "Prima fabrică de ciment din țară (anii 1930)", "Hidrocentrală pe cursul râului Kunduz", "Capitala provinciei Baghlan", "Centru important pentru industria textilă", "Punct de tranzit vital pentru mărfurile din nord"],
+      en: ["Key logistics hub near the Salang Tunnel", "Site of Afghanistan's first cement plant (1930s)", "Hydroelectric power station on the Kunduz River", "Capital of the Baghlan Province", "Important center for textile manufacturing", "Primary transit point for trade with the north"],
+    },
   },
   {
     id: "charikar-cities-v2",
@@ -296,7 +346,13 @@ image: "/poi-images/charikar-cities-v2.webp"
         "The city is located directly on the important connecting road to the Salang Pass.",
         "Charikar is famous for its sweet grapes, which are prized throughout Afghanistan."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt der Provinz Parwan", "Berühmt für grün glasierte Keramik", "Zentrum der Weintrauben-Produktion", "Strategische Lage an der A76 (Salang-Route)", "Nahe der antiken Stadt Kapisa (Bagram)", "Wichtiger Markt für Maulbeeren und Aprikosen"],
+      hu: ["Parwan tartomány székhelye", "Híres a jellegzetes zöld mázas kerámiáról", "A szőlőtermesztés és mazsolagyártás központja", "Az A76-os főút mentén, a Salang-hágó felé fekszik", "A közeli ókori Bagram (Kapisa) szomszédságában", "Fontos eperfa- és sárgabarack-piac"],
+      ro: ["Capitala provinciei Parwan", "Faimos pentru ceramica glazurată verde", "Centru major pentru producția de struguri", "Nod rutier pe autostrada A76 spre nord", "Situat lângă situl arheologic Bagram (Kapisa)", "Piață importantă pentru dude și caise"],
+      en: ["Capital city of Parwan Province", "Renowned for traditional green-glazed pottery", "Central hub for Afghanistan's grape production", "Strategic junction on the A76 Salang route", "Located near the ancient Kushan city of Bagram", "Major center for mulberries and apricots"],
+    },
   },
   {
     id: "lashkargah-cities-v2",
@@ -329,7 +385,13 @@ image: "/poi-images/lashkargah-cities-v2.webp"
         "The modern city was planned in the 1950s with American assistance.",
         "In ancient times, the region was a winter retreat for kings."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt der Provinz Helmand", "Arch of Bost stammt aus dem 11. Jahrhundert", "Beiname 'Little America' wegen Stadtplanung", "Zentrum des Helmand-Valley-Bewässerungsprojekts", "Liegt in einer Wüstenoase (Dasht-e Margo)", "Wichtiges Zentrum für Baumwolle und Weizen"],
+      hu: ["Helmand tartomány székhelye", "A bosti ív (Arch of Bost) a 11. századból származik", "Várostervezése miatt 'Kis Amerika' néven is ismerték", "A Helmand-völgyi öntözési projekt központja", "A Dasht-e Margo sivatag szélén fekvő oázis", "Jelentős gyapot- és gabonatermelő vidék"],
+      ro: ["Capitala provinciei Helmand", "Găzduiește Arcul din Bost (secolul XI)", "Poreclit „Mica Americă” pentru designul urban", "Centrul Proiectului de Irigații Valea Helmand", "Oază situată în deșertul Dasht-e Margo", "Producător major de bumbac și porumb"],
+      en: ["Capital of the Helmand Province", "Home to the 11th-century Arch of Bost", "Nicknamed 'Little America' due to its grid layout", "Center of the Helmand Valley Irrigation Project", "Located in an oasis within the Dasht-e Margo desert", "Major hub for wheat and cotton agriculture"],
+    },
   },
   {
     id: "sheberghan-cities-v2",
@@ -362,7 +424,13 @@ image: "/poi-images/sheberghan-cities-v2.webp"
         "The famous Bactrian gold treasure was discovered near the city in 1978.",
         "The majority of the population consists of Uzbeks and Turkmens."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Zentrum der afghanischen Erdgasförderung", "Fundort des Baktrischen Goldes (Tillya Tepe)", "Hauptstadt der Provinz Jowzjan", "Bedeutendes Zentrum für Teppichweberei", "Heimat großer usbekischer und turkmenischer Gemeinden", "Über 20.000 Goldobjekte in Tillya Tepe entdeckt"],
+      hu: ["Az afgán földgázkitermelés központja", "A baktriai arany lelőhelye (Tillya Tepe)", "Jowzjan tartomány közigazgatási központja", "Híres a kézzel csomózott türkmén szőnyegekről", "Jelentős üzbég és türkmén lakosság", "Több mint 20 000 aranytárgy került elő a közelben"],
+      ro: ["Centru major pentru extracția gazelor naturale", "Locul descoperirii tezaurului Tillya Tepe", "Capitala administrativă a provinciei Jowzjan", "Renumit pentru covoarele turkmene autentice", "Populație majoritar uzbecă și turkmenă", "Tezaurul descoperit conținea 20.000 de piese din aur"],
+      en: ["Primary center for natural gas production", "Site of the Bactrian Gold discovery (Tillya Tepe)", "Capital city of Jowzjan Province", "Renowned hub for Turkmen carpet weaving", "Historically part of ancient Bactria", "Home to significant Uzbek and Turkmen populations"],
+    },
   },
   {
     id: "ghazni-cities-v2",
@@ -395,7 +463,13 @@ image: "/poi-images/ghazni-cities-v2.webp"
         "The two minarets of Ghazni are the most famous remains of the ancient empire.",
         "The city was named the Asian capital of Islamic culture in 2013."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt des Ghaznaviden-Reiches (10.-11. Jh.)", "Islamische Kulturhauptstadt Asiens (2013)", "Berühmte Minarette von Mas'ud III. und Bahram Shah", "Höhenlage von ca. 2.220 Metern", "Wirkungsstätte des Gelehrten Al-Biruni", "Zerstörung durch Dschingis Khan im Jahr 1221"],
+      hu: ["A Gaznavida Birodalom fővárosa (10-11. század)", "Az iszlám kultúra ázsiai fővárosa (2013)", "Híres III. Maszúd és Bahram Shah minaretjeiről", "Tengerszint feletti magassága 2220 méter", "Itt élt és dolgozott Al-Birúni, a neves tudós", "Dzsingisz kán rombolta le 1221-ben"],
+      ro: ["Capitala Imperiului Ghaznavid (secolele X-XI)", "Capitala Culturii Islamice în Asia (2013)", "Minaretele lui Mas'ud III și Bahram Shah sunt simboluri", "Situat la o altitudine de 2.220 de metri", "Locul unde a activat savantul Al-Biruni", "Orașul a fost distrus de Genghis Han în 1221"],
+      en: ["Capital of the Ghaznavid Empire (10th-11th C)", "ISESCO Capital of Islamic Culture in Asia (2013)", "Home to the minarets of Mas'ud III and Bahram Shah", "High elevation of 2,220 metres", "Associated with the polymath Al-Biruni", "Devastated by Genghis Khan in 1221"],
+    },
   },
   {
     id: "khost-cities-v2",
@@ -428,7 +502,13 @@ image: "/poi-images/khost-cities-v2.webp"
         "The city hosts the first international university in southeastern Afghanistan.",
         "A large Friday Mosque dominates the center of Khost."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt der Provinz Khost", "Sitz der Sheikh Zayed Universität (gegr. 2003)", "Liegt nur 30 km von der Durand-Linie entfernt", "Zentrum des Handels mit Pinienkernen", "Stark bewaldete Bergregion (Sulaiman-Gebirge)", "Stammeszentrum der Sadran und Mangal"],
+      hu: ["Koszt tartomány székhelye", "A Sheikh Zayed Egyetem otthona (alapítva 2003)", "Mindössze 30 km-re fekszik a pakisztáni határtól", "A fenyőmag-kereskedelem országos központja", "A Szulejmán-hegység erdős vidéke veszi körül", "A Sadran és Mangal törzsek szállásterülete"],
+      ro: ["Capitala provinciei Khost", "Sediul Universității Sheikh Zayed (fondată în 2003)", "Situat la 30 km de linia Durand (granița)", "Principalul hub pentru comerțul cu semințe de pin", "Regiune montană cu păduri dense de conifere", "Centru social pentru triburile paștune locale"],
+      en: ["Capital city of Khost Province", "Home to Sheikh Zayed University (founded 2003)", "Located only 30 km from the Durand Line", "Major regional hub for the pine nut trade", "Situated in the forested Sulaiman Mountains", "Social center for the Sadran and Mangal tribes"],
+    },
   },
   {
     id: "sar-e-pol-cities-v2",
@@ -461,7 +541,13 @@ image: "/poi-images/sar-e-pol-cities-v2.webp"
         "The region has untapped oil reserves in the nearby mountains.",
         "Numerous ethnic groups such as Uzbeks, Tajiks, and Hazaras live together here."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Über 4.000 Jahre kontinuierliche Besiedlung", "Berühmt für handgeknüpfte 'Andkhoy-Teppiche'", "Vorkommen von Erdöl und Erdgas", "Heimat des Imam-Yahya-Schreins", "Historisch Teil von Baktrien und Sogdien", "Wichtiges Zentrum für Karakul-Wolle"],
+      hu: ["Több mint 4000 éves folyamatos lakottság", "Híres a kézzel csomózott 'Andkhoy' szőnyegekről", "Jelentős kőolaj- és földgázkészletek", "Itt található Yahya imám szentélye", "Történelmileg Baktria és Szogdia része volt", "Karakul gyapjú és pisztácia termőhelye"],
+      ro: ["Peste 4.000 de ani de locuire continuă", "Renumit pentru covoarele lucrate manual „Andkhoy”", "Zăcăminte importante de petrol și gaze naturale", "Găzduiește altarul Imamului Yahya", "Parte istorică din regiunile Bactria și Sogdiana", "Centru de producție pentru lână Karakul"],
+      en: ["More than 4,000 years of continuous settlement", "Famous for hand-knotted 'Andkhoy' rugs", "Center for newly developed oil and gas fields", "Home to the revered shrine of Imam Yahya", "Historically part of Bactria and Sogdiana", "Major producer of Karakul wool and pistachios"],
+    },
   },
   {
     id: "chaghcharan-cities-v2",
@@ -495,7 +581,14 @@ image: "/poi-images/chaghcharan-cities-v2.webp"
         "The Hari Rud river flows directly through the city center."
       ]
     },
-    image: "/poi-images/chaghcharan-cities-v2.webp"},
+    image: "/poi-images/chaghcharan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Hauptstadt der Provinz Ghor", "Zentrum der Ghuriden-Dynastie (12.-13. Jh.)", "Höhenlage von ca. 2.280 Metern", "Nahe dem UNESCO-Welterbe Minarett von Dscham", "Extreme Winter mit mehreren Metern Schnee", "Wirtschaft basiert auf Schafzucht und Wolle"],
+      hu: ["Ghor tartomány székhelye", "A Gúrida-dinasztia törzsterülete (12-13. század)", "Tengerszint feletti magassága 2280 méter", "A közeli Dzsam minaretje az UNESCO világörökség része", "Rendkívül kemény telek, gyakori elszigeteltség", "Gazdasága a juh- és kecsketartásra épül"],
+      ro: ["Capitala provinciei Ghor", "Centrul dinastiei Ghuride (secolele XII-XIII)", "Altitudine de aproximativ 2.280 de metri", "Aproape de Minaretul din Jam (UNESCO)", "Ierni severe cu zăpadă de câțiva metri", "Economie bazată pe creșterea animalelor și lână"],
+      en: ["Capital city of Ghor Province", "Ancestral seat of the Ghurid Empire (12th-13th C)", "Situated at an elevation of 2,280 metres", "Located near the UNESCO-listed Minaret of Jam", "Experiences extreme winters with heavy snowfall", "Economy depends on livestock and wool processing"],
+    },
+  },
   {
     id: "mihtarlam-cities-v2",
     type: "state-capital",
@@ -527,7 +620,13 @@ image: "/poi-images/mihtarlam-cities-v2.webp"
         "According to local belief, the tomb of Lamech, father of Noah, is located in the city.",
         "The area benefits from the water resources of the Alisheng and Alingar rivers."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Etwa 60 Kilometer nordöstlich von Kabul gelegen", "Zusammenfluss von Alingar und Alishang", "Erwähnung in achämenidischen Inschriften", "Traditioneller Ort des Grabes von Lamech", "Wichtiges Zentrum für Saatgutversorgung", "Bevölkerung besteht primär aus Paschtunen"],
+      hu: ["Kb. 60 kilométerre északkeletre Kabultól", "Az Alingar és az Alishang folyók találkozása", "Achemenida és Maurja feliratokban említik", "Lámek, Noé apjának vélt sírhelye", "Rizs és citrusfélék jelentős termőhelye", "Szoros kulturális kapcsolat Nangarharral"],
+      ro: ["Aproximativ 60 km nord-est de Kabul", "Confluența râurilor Alingar și Alishang", "Menționată în inscripții ahemenide și mauryane", "Locul tradițional al mormântului lui Lameh", "Centru important de aprovizionare cu semințe", "Populația este majoritar paștună"],
+      en: ["Located 60 kilometers northeast of Kabul", "Confluence of Alingar and Alishang rivers", "Mentioned in Achaemenid and Mauryan inscriptions", "Traditional site of the tomb of Lamech", "Major producer of rice, olives, and citrus", "Close cultural ties with Nangarhar Province"],
+    },
   },
   {
     id: "farah-cities-v2",
@@ -560,7 +659,13 @@ image: "/poi-images/farah-cities-v2.webp"
         "The ruins of the Citadel of Farah are a significant historical attraction.",
         "Historically, Farah was a stopping point between Herat and Kandahar."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt der gleichnamigen Provinz Farah", "Ghuridische Zitadelle Qala-i-Farah", "Lage an der Ringstraße A75", "Extremes Klima mit Sandstürmen (120-Tage-Wind)", "Handelsposten nahe der iranischen Grenze", "Anbau von Granatäpfeln und Datteln"],
+      hu: ["Farah tartomány közigazgatási központja", "Qala-i-Farah vályogtéglás citadellája", "Az A75-ös körgyűrű mentén fekszik", "A 120 napos szél nevű homokviharok", "Fontos kereskedelmi kapu Irán felé", "Gránátalma és sárgabarack termesztése"],
+      ro: ["Reședința provinciei omonime Farah", "Cetatea Qala-i-Farah din chirpici", "Situat pe șoseaua de centură A75", "Climat extrem cu vântul celor 120 de zile", "Punct comercial aproape de granița cu Iran", "Culturi de rodii, caise și curmale"],
+      en: ["Capital of the eponymous Farah Province", "Features the massive Qala-i-Farah citadel", "Located along the A75 ring road", "Extreme climate with 120-day sandstorms", "Key trade post near the Iranian border", "Major producer of pomegranates and dates"],
+    },
   },
   {
     id: "puli-alam-cities-v2",
@@ -593,7 +698,13 @@ image: "/poi-images/puli-alam-cities-v2.webp"
         "A major copper mining project is located nearby at Mes Aynak.",
         "The local economy is dominated by agriculture."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Etwa 60 Kilometer südlich von Kabul", "Lage am Logar-Fluss", "Archäologische Stätte Mes Aynak in der Nähe", "Buddhistische Klöster aus dem 1. bis 7. Jh.", "Größtes unerschlossenes Kupfervorkommen der Welt", "Wirtschaftskorridor zwischen Kabul und dem Süden"],
+      hu: ["Kb. 60 kilométerre délre Kabultól", "A Logar folyó partján fekszik", "Mes Aynak régészeti lelőhely közelsége", "Buddhista monostorok az 1-7. századból", "Hatalmas, kiaknázatlan rézkészletek", "Fontos alma- és gyümölcstermő vidék"],
+      ro: ["Aproximativ 60 km sud de Kabul", "Situat pe râul Logar", "Aproape de situl arheologic Mes Aynak", "Complex monahal budist din sec. I-VII", "Cele mai mari zăcăminte de cupru neexploatate", "Coridor economic între capitală și sud"],
+      en: ["Located 60 kilometers south of Kabul", "Situated on the Logar River", "Proximity to the Mes Aynak archaeological site", "Buddhist monastic complex (1st-7th centuries)", "World's largest untapped copper deposits", "Economic corridor for Kabul's fruit supply"],
+    },
   },
   {
     id: "aybak-cities-v2",
@@ -626,7 +737,13 @@ image: "/poi-images/aybak-cities-v2.webp"
         "The Buddhist cave monastery of Takht-e Rostam is located near the city.",
         "The region is known for its almonds and pistachios."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Höhenlage von etwa 940 Metern", "Takht-e Rostam Felsenkloster", "Buddhistische Stupa aus dem 4.-5. Jahrhundert", "Bedeutender Markt für Mandeln und Pistazien", "Zentrum der Karakul-Schafzucht", "Historischer Halt an der Seidenstraße"],
+      hu: ["Tengerszint feletti magassága 940 méter", "Takht-e Rostam sziklába vájt monostora", "Buddhista sztúpa a 4-5. századból", "Híres mandula- és pisztáciapiac", "Karakul juhok tenyésztési központja", "Kabul és Mazar-i-Sharif közötti főútvonal"],
+      ro: ["Altitudine de aproximativ 940 de metri", "Complexul budist Takht-e Rostam", "Stupa sculptată în stâncă (sec. IV-V)", "Piață majoră pentru migdale și fistic", "Centru de creștere a oilor Karakul", "Populație formată din tadjici și uzbeci"],
+      en: ["Elevation of approximately 940 meters", "Rock-cut monastery of Takht-e Rostam", "Buddhist stupa dating from 4th-5th centuries", "Renowned market for almonds and pistachios", "Center for Karakul sheep breeding", "Key stop on the Kabul to Mazar-i-Sharif road"],
+    },
   },
   {
     id: "asadabad-cities-v2",
@@ -659,7 +776,13 @@ image: "/poi-images/asadabad-cities-v2.webp"
         "The surrounding mountains are covered by dense cedar and pine forests.",
         "Asadabad has a close cultural connection to neighboring Pakistan."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Höhenlage von ca. 825 Metern", "Zusammenfluss der Flüsse Pech und Kunar", "Nur 20 Kilometer von der Grenze zu Pakistan", "Zentrum für Holz- und Honighandel", "Vorkommen von Turmalin und Beryll", "Dichte Zedern-, Kiefern- und Eichenwälder"],
+      hu: ["Tengerszint feletti magassága 825 méter", "A Pech és a Kunar folyók összefolyása", "20 kilométerre a pakisztáni határtól", "Faanyag, méz és aszalt gyümölcs kereskedelme", "Turmalin és berill bányászata a hegyekben", "Sűrű erdők a Hindu Kush keleti peremén"],
+      ro: ["Altitudine de aproximativ 825 metri", "Confluența râurilor Pech și Kunar", "La 20 km de granița cu Pakistan", "Centru comercial pentru cherestea și miere", "Mine de turmalină și beril în apropiere", "Climat subtropical și vegetație bogată"],
+      en: ["Elevation of approximately 825 meters", "Confluence of Pech and Kunar rivers", "Just 20 km from the Pakistani border", "Trade hub for timber, honey, and stones", "Mining of tourmaline and beryl in the mountains", "Home to dense cedar and pine forests"],
+    },
   },
   {
     id: "faizabad-cities-v2",
@@ -692,7 +815,13 @@ image: "/poi-images/faizabad-cities-v2.webp"
         "The city is a traditional trading hub for lapis lazuli.",
         "The name of the city translates to 'City of Divine Blessing'."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Höhenlage von ca. 1.200 Metern", "Lage am Kokcha-Fluss", "Sar-e Sang Lapislazuli-Minen", "Über 6.000 Jahre Bergbautradition", "Tor zum strategischen Wakhan-Korridor", "Handelszentrum für Rubine und Spinell"],
+      hu: ["Tengerszint feletti magassága 1200 méter", "A Kokcha folyó partján terül el", "Sar-e Sang lapis lazuli bányái a közelben", "Több mint 6000 éves bányászati múlt", "A Wakhan-folyosó és a Pamír kapuja", "Rubin és spinel kereskedelmi központja"],
+      ro: ["Altitudine de aproximativ 1200 metri", "Situat de-a lungul râului Kokcha", "Minele de lapis lazuli de la Sar-e Sang", "Peste 6000 de ani de istorie a mineritului", "Poartă către coridoarele Pamir și Wakhan", "Centru de comerț cu rubine și spinel"],
+      en: ["Elevation of approximately 1,200 meters", "Situated along the Kokcha River", "Sar-e Sang lapis lazuli mines nearby", "Over 6,000 years of mining history", "Gateway to the Wakhan and Pamir corridors", "Trade hub for rubies and spinel gemstones"],
+    },
   },
   {
     id: "qala-e-naw-cities-v2",
@@ -725,7 +854,13 @@ image: "/poi-images/qala-e-naw-cities-v2.webp"
         "Pistachio forests are an important source of income for the region around Qala e Naw.",
         "The city's architecture consists of flat mud houses and narrow alleys."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Höhenlage von ca. 875 Metern", "Gegründet im 18. Jahrhundert", "Wichtigster Exporteur von Pistazien", "Zentrum für türkmänische Teppichweberei", "Architektur aus niedrigen Lehmziegelhäusern", "Straßenknotenpunkt zwischen Herat und Faryab"],
+      hu: ["Tengerszint feletti magassága 875 méter", "A 18. században alapították", "Az ország legfontosabb pisztácia-exportőre", "Türkmén és beludzs szőnyegszövés", "Vályogtégla házak és fedett bazársorok", "Fontos útvonal Herat és Faryab között"],
+      ro: ["Altitudine de aproximativ 875 metri", "Fondat în secolul al XVIII-lea", "Exportator major de fistic sălbatic", "Centru de țesut covoare Badghis", "Arhitectură dominată de case din chirpici", "Nod rutier între Herat și Maymana"],
+      en: ["Elevation of approximately 875 meters", "Founded in the 18th century", "Major exporter of wild pistachios", "Center for Turkmen and Baloch carpets", "Architecture of low mud-brick houses", "Road junction between Herat and Faryab"],
+    },
   },
   {
     id: "mahmud-e-raqi-cities-v2",
@@ -758,7 +893,13 @@ image: "/poi-images/mahmud-e-raqi-cities-v2.webp"
         "The city is located not far from the ancient capital of Bagram.",
         "The river valley provides the city with abundant irrigation water."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Etwa 70 Kilometer nördlich von Kabul", "Zusammenfluss der Täler Panjshir und Tagab", "Nähe zur antiken Stätte Bagram", "Fundort des berühmten Bagram-Horts", "Zentrum für Maulbeeren- und Walnussanbau", "Tor zum strategischen Panjshir-Tal"],
+      hu: ["Kb. 70 kilométerre északra Kabultól", "A Panjshir, Tagab és Shomali folyók völgye", "Bagram (ókori Kapisi) közelsége", "A híres bagrami kincs lelőhelye", "Rizs, gránátalma és dió termesztése", "A Panjshir-völgy bejárata"],
+      ro: ["Aproximativ 70 km nord de Kabul", "Situat în văile râurilor Panjshir și Tagab", "Aproape de situl arheologic Bagram", "Sursa celebrului tezaur de la Bagram", "Culturi de orez, duzi și nuci", "Poartă către Valea Panjshir"],
+      en: ["Located 70 kilometers north of Kabul", "Set in the Panjshir and Tagab valleys", "Proximity to the ancient site of Bagram", "Source of the famous Bagram hoard", "Center for mulberry and walnut cultivation", "Strategic gateway to the Panjshir Valley"],
+    },
   },
   {
     id: "zaranj-cities-v2",
@@ -791,7 +932,13 @@ image: "/poi-images/zaranj-cities-v2.webp"
         "The city frequently suffers from water shortages and drought.",
         "A major new road system connects Zaranj to the port of Chabahar."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt der Saffariden im 9. Jahrhundert", "Wichtiger Grenzposten zum Iran", "Direkte Straßenverbindung zum Hafen Tschahbahar", "Lage am Rande der Sistan-Wüste", "Bevölkerung spricht Belutschisch und Persisch", "Bedrohung durch das Austrocknen des Hamun-Sees"],
+      hu: ["A Saffarida-dinasztia központja a 9. században", "Közvetlen határváros Irán mellett", "Út köti össze a Chabahar kikötővel", "A Sistan-sivatag peremén fekszik", "Beludzs és perzsa nyelvű lakosság", "A kiszáradó Hamun-tó hatása"],
+      ro: ["Capitala saffarizilor în secolul al IX-lea", "Punct de trecere a frontierei cu Iran", "Legătură rutieră cu portul Chabahar", "Situat la marginea deșertului Sistan", "Populație vorbitoare de beluci și persană", "Probleme grave cu deficitul de apă"],
+      en: ["Capital of the Saffarid dynasty in the 9th century", "Major border crossing point with Iran", "Linked to the Indian Ocean port of Chabahar", "Located on the edge of the Sistan desert", "Baloch and Persian-speaking population", "Increasing water shortages near Lake Hamun"],
+    },
   },
   {
     id: "tarinkot-cities-v2",
@@ -824,7 +971,13 @@ image: "/poi-images/tarinkot-cities-v2.webp"
         "Until 2004, there were almost no paved roads in Tarinkot.",
         "The economy relies on subsistence agriculture."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Höhenlage von ca. 1.300 Metern", "Stammessitz der Durrani-Paschtunen", "Ort wichtiger Loya Jirgas im 18. Jh.", "Anbau von Mandeln und Mais im Tarnak-Tal", "Zentrum für paschtunische Stammesethik", "Ungenutzte Mineralvorkommen in den Bergen"],
+      hu: ["Tengerszint feletti magassága 1300 méter", "A Durrani pasztunok történelmi szálláshelye", "Loya jirga (törzsi tanács) helyszíne a 18. században", "Mandula és gabona termesztése a Tarnak-völgyben", "A Pashtunwali (törzsi kódex) erős jelenléte", "Híres népköltészeti hagyományok"],
+      ro: ["Altitudine de aproximativ 1300 metri", "Centru istoric al paștunilor Durrani", "Gazda unor consilii Loya Jirga în sec. XVIII", "Culturi de migdale și grâu în valea Tarnak", "Regiune cu tradiții culturale foarte stricte", "Resurse minerale bogate încă neexploatate"],
+      en: ["Elevation of approximately 1,300 meters", "Ancestral home of Durrani Pashtuns", "Site of crucial Loya Jirgas in the 18th century", "Almond and maize farming in the Tarnak Valley", "Stronghold of Pashtunwali tribal ethics", "Significant untapped mineral resources nearby"],
+    },
   },
   {
     id: "maymana-cities-v2",
@@ -857,7 +1010,13 @@ image: "/poi-images/maymana-cities-v2.webp"
         "The city's bazaar is known for high-quality Karakul pelts.",
         "Maymana has a university founded in 2004."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Höhenlage von ca. 877 Metern", "Einstiges Zentrum des Khanats von Maymana", "Bedeutendster Markt für Karakul-Schafe", "Produktionsort von Astrachan-Fellen", "Große Bestände an wilden Pistazienwäldern", "Überwiegend uzbekische und turkmenische Bevölkerung"],
+      hu: ["Tengerszint feletti magassága 877 méter", "A 19. századig független kánság volt", "A karakul juhok tenyésztésének központja", "Nemzetközi hírű asztrahán prémkereskedelem", "Hatalmas bazár és állatpiac", "Híres az almar-i pisztáciaerdőkről"],
+      ro: ["Altitudine de aproximativ 877 metri", "Fost centru al Hanatului Maymana", "Piață majoră pentru oi Karakul", "Faimos pentru blănurile fine de Astrahan", "Populație majoritar uzbecă și turkmenă", "Comerț activ cu covoare și lână"],
+      en: ["Elevation of approximately 877 meters", "Former center of the Khanate of Maymana", "Key trade hub for Karakul sheep pelts", "Producer of world-renowned Astrakhan fur", "Home to extensive wild pistachio forests", "Lively horse and livestock markets"],
+    },
   },
   {
     id: "gardez-cities-v2",
@@ -890,7 +1049,13 @@ image: "/poi-images/gardez-cities-v2.webp"
         "A large fortress, the Bala Hissar, towers over Gardez.",
         "The city is located high in the mountains at over 2,300 meters."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Höhenlage von ca. 2.300 Metern", "Massive Festung Bala Hissar", "Buddhistische Stupas bei Tepe Sardar", "Zentrum der mächtigen Paschtunen-Stämme", "Wichtiger Markt für Pinienkerne und Holz", "Umgeben von großen Nadelwäldern"],
+      hu: ["Tengerszint feletti magassága 2300 méter", "Bala Hissar hatalmas erődítménye", "Tepe Sardar buddhista sztúpái a közelben", "Mangal és Jadran pasztun törzsek központja", "Fenyőmag és méz jelentős kereskedelmi helye", "Afganisztán utolsó nagy fenyőerdőinek egyike"],
+      ro: ["Altitudine de aproximativ 2300 metri", "Cetatea masivă Bala Hissar", "Situl budist de la Tepe Sardar", "Centru politic al triburilor paștune", "Exportator major de semințe de pin și miere", "Păduri vaste de conifere în împrejurimi"],
+      en: ["Elevation of approximately 2,300 meters", "Features the massive Bala Hissar fortress", "Ancient Buddhist stupas at Tepe Sardar", "Home to powerful Pashtun tribal confederations", "Key market for timber and pine nuts", "Surrounded by rare coniferous woodlands"],
+    },
   },
   {
     id: "maidan-shar-cities-v2",
@@ -923,7 +1088,13 @@ image: "/poi-images/maidan-shar-cities-v2.webp"
         "Wardak Province is known for its excellent apples.",
         "Its proximity to the capital makes it a popular residential area for commuters."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Höhenlage von ca. 2.230 Metern", "Nur 40 Kilometer von Kabul entfernt", "Zentrum der Wardak-Apfelproduktion", "Äpfel werden bis nach Dubai exportiert", "Gegründet als Provinzhauptstadt in den 1970ern", "Strategisches Tor zur Hazarajat-Region"],
+      hu: ["Tengerszint feletti magassága 2230 méter", "40 kilométerre délnyugatra Kabultól", "Híres wardaki alma exportközpontja", "Kereskedelem Peshawar és Dubai felé", "Az 1970-es években vált tartományi székhellyé", "A Hazarajat felé vezető út ellenőrző pontja"],
+      ro: ["Altitudine de aproximativ 2230 metri", "La doar 40 km de capitala Kabul", "Centru de producție al merelor de Wardak", "Exporturi de fructe către Pakistan și Dubai", "Oraș administrativ modern (fondat în anii 70)", "Coridor strategic spre regiunea Hazarajat"],
+      en: ["Elevation of approximately 2,230 meters", "Located 40 kilometers from Kabul", "Renowned for Wardak apple production", "Fruit exported as far as Peshawar and Dubai", "Established as a provincial seat in the 1970s", "Controls access between Kabul and Hazarajat"],
+    },
   },
   {
     id: "qalat-cities-v2",
@@ -956,7 +1127,13 @@ image: "/poi-images/qalat-cities-v2.webp"
         "The city is dominated by a fortress said to have been built by Alexander the Great.",
         "The dry desert climate shapes life in Qalat."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Höhenlage von ca. 1.520 Metern", "Historische Festung Qalat-i-Ghilzi", "Lage an der Hauptverkehrsader A1", "Zentrum der Hotak- und Tarakzai-Stämme", "Wirtschaft basiert auf Granatäpfeln und Mandeln", "Bedeutender Karawanenhalt seit der Antike"],
+      hu: ["Tengerszint feletti magassága 1520 méter", "Qalat-i-Ghilzi történelmi erődítménye", "Az A1-es országos körgyűrű mentén fekszik", "A Hotak és Tarakzai törzsek központja", "Gránátalma és mandula termesztése", "Fontos kereskedelmi állomás a Helmand felé"],
+      ro: ["Altitudine de aproximativ 1520 metri", "Cetatea istorică Qalat-i-Ghilzi", "Situat pe autostrada principală A1", "Vatra triburilor paștune Hotak și Tarakzai", "Economie bazată pe creșterea oilor și caprelor", "Centru de producție pentru migdale și rodii"],
+      en: ["Elevation of approximately 1,520 meters", "Home to the Qalat-i-Ghilzi fortress", "Located on the strategic A1 ring road", "Stronghold of the Hotak and Tarakzai tribes", "Trade hub for pomegranates and almonds", "Historic caravan stop for the Helmand lowlands"],
+    },
   },
   {
     id: "bamyan-cities-v2",
@@ -989,6 +1166,12 @@ image: "/poi-images/bamyan-cities-v2.webp"
         "Bamyan is world-famous for the giant Buddha statues that were destroyed in 2001.",
         "The nearby Band-e-Amir National Park was Afghanistan's first national park."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Höhenlage von ca. 2.550 Metern", "UNESCO-Weltkulturerbe seit 2003", "Standort der 38m und 55m hohen Buddhas", "Zerstörung der Statuen im Jahr 2001", "Nähe zum Band-e-Amir-Nationalpark", "Zentrum der Hazara-Kultur und des schiitischen Glaubens"],
+      hu: ["Tengerszint feletti magassága 2550 méter", "UNESCO Világörökségi helyszín", "A 38 és 55 méteres Buddha-szobrok helye", "A szobrok 2001-es elpusztítása", "A Band-e Amir Nemzeti Park közelsége", "A hazara nép kulturális és vallási központja"],
+      ro: ["Altitudine de aproximativ 2550 metri", "Situl Patrimoniului Mondial UNESCO", "Locul statuilor de Buddha de 38m și 55m", "Distrugerea monumentelor în anul 2001", "Aproape de Parcul Național Band-e Amir", "Capitala culturală a etniei Hazara"],
+      en: ["Elevation of approximately 2,550 meters", "UNESCO World Heritage site status", "Site of the 38m and 55m tall Buddhas", "Destruction of the statues occurred in 2001", "Gateway to Band-e Amir National Park", "Main center for Hazaragi language and culture"],
+    },
   }
 ];

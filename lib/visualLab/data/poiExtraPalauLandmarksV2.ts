@@ -19,6 +19,18 @@ export const palauLandmarksV2: POI[] = [
       en: ["Seat of executive and legislative branches", "Completed in the year 2006", "Cost approximately 45 million dollars", "Located in the state of Melekeok"],
     },
     imageHint: "Palau Capitol Building Ngerulmud facade",
+    descriptionAdvanced: {
+      de: "Das Kapitol von Palau in Ngerulmud, Melekeok, ist der Sitz der Regierung der Republik Palau. Der imposante Komplex wurde 2006 eingeweiht und ist architektonisch an das Kapitol der Vereinigten Staaten in Washington D.C. angelehnt. Er beherbergt die Legislative, die Exekutive und die Judikative des Landes. Die Lage in Ngerulmud wurde gewählt, um die administrative Macht von der dicht besiedelten Stadt Koror auf die Hauptinsel Babeldaob zu verlagern.",
+      hu: "Palau Kapitóliuma Melekeok államban, Ngerulmud településen található, és a Palaui Köztársaság kormányának székhelye. A monumentális épületegyüttest 2006-ban avatták fel, építészeti stílusa pedig a washingtoni amerikai Kapitóliumot idézi. Itt található az ország törvényhozó, végrehajtó és bírói hatalmának központja. Ngerulmud kiválasztásának célja az volt, hogy az adminisztratív központot a sűrűn lakott Kororból a főszigetre, Babeldaobra helyezzék át.",
+      ro: "Capitoliul din Palau, situat în Ngerulmud, statul Melekeok, este sediul guvernului Republicii Palau. Complexul impunător a fost inaugurat în anul 2006 și este inspirat arhitectural de Capitoliul Statelor Unite din Washington D.C. Acesta găzduiește ramurile legislativă, executivă și judecătorească ale țării. Locația din Ngerulmud a fost aleasă pentru a muta centrul administrativ de la Koror, zona dens populată, pe insula principală Babeldaob.",
+      en: "The Palau Capitol building in Ngerulmud, Melekeok, serves as the administrative seat for the Republic of Palau. Dedicated in 2006, the imposing complex was architecturally modeled after the United States Capitol in Washington, D.C. It houses the nation's legislative, executive, and judicial branches. The decision to build in Ngerulmud was part of a strategic plan to shift administrative power from the densely populated Koror to the larger island of Babeldaob.",
+    },
+    factsAdvanced: {
+      de: ["Das Kapitol wurde am 7. Oktober 2006 offiziell eingeweiht.", "Die Baukosten betrugen etwa 45 Millionen US-Dollar.", "Ngerulmud ist die am wenigsten bevölkerte Hauptstadt der Welt.", "Der Komplex umfasst drei separate Flügel für die Staatsgewalten.", "Das Design kombiniert klassische Elemente mit palauischen Details.", "Die Kuppel ist weithin über die Insel Babeldaob sichtbar."],
+      hu: ["A Kapitóliumot 2006. október 7-én avatták fel hivatalosan.", "Az építés költsége körülbelül 45 millió amerikai dollár volt.", "Ngerulmud a világ legkisebb népességű fővárosa.", "Az épületegyüttes három külön szárnyat foglal magában.", "A tervezés klasszikus elemeket ötvöz palaui részletekkel.", "A kupola messziről látható Babeldaob szigetének több pontjáról."],
+      ro: ["Capitoliul a fost inaugurat oficial pe 7 octombrie 2006.", "Costurile de construcție s-au ridicat la circa 45 milioane USD.", "Ngerulmud este cea mai puțin populată capitală din lume.", "Complexul include trei aripi separate pentru puterile statului.", "Designul îmbină elemente neoclasice cu detalii palauene.", "Cupola este vizibilă de la mare distanță pe insula Babeldaob."],
+      en: ["The Capitol was officially dedicated on October 7, 2006.", "The construction cost was approximately 45 million US dollars.", "Ngerulmud is the least populous national capital in the world.", "The complex consists of three wings for the branches of government.", "The design blends neoclassical style with local Palauan motifs.", "The central dome is a prominent landmark on Babeldaob Island."],
+    },
   },
   {
     id: "palau-belau-national-museum-landmarks-v2",
@@ -38,6 +50,18 @@ export const palauLandmarksV2: POI[] = [
       en: ["Founded in the year 1955", "Oldest museum in Micronesia", "Houses a traditional Bai meeting house", "Located in the former capital Koror"],
     },
     imageHint: "Belau National Museum entrance Koror",
+    descriptionAdvanced: {
+      de: "Das Belau National Museum in Koror ist das älteste Museum Mikronesiens und wurde 1955 gegründet. Es beherbergt eine umfangreiche Sammlung palauischer Kunstwerke, historischer Artefakte und naturkundlicher Exponate. Auf dem Museumsgelände befindet sich auch ein traditioneller Bai (Männerversammlungshaus), das nach klassischen Methoden ohne Nägel errichtet wurde. Das Museum spielt eine zentrale Rolle bei der Bewahrung und Vermittlung der palauischen Identität und Geschichte.",
+      hu: "A Belau Nemzeti Múzeum Kororban található, és 1955-ös alapításával Mikronézia legrégebbi múzeuma. Gazdag gyűjteménnyel rendelkezik palaui műalkotásokból, történelmi tárgyakból és természettudományi kiállításokból. A múzeum kertjében egy hagyományos Bai (férfi gyűlésház) is látható, amelyet szögek nélkül, ősi módszerekkel építettek újjá. Az intézmény központi szerepet játszik a palaui identitás és történelem megőrzésében és oktatásában.",
+      ro: "Muzeul Național Belau din Koror este cel mai vechi muzeu din Micronezia, fiind fondat în anul 1955. Acesta adăpostește o colecție vastă de artă palauană, artefacte istorice și exponate de istorie naturală. În incinta muzeului se află și un Bai tradițional (casă de adunare a bărbaților), construit prin metode clasice fără cuie. Muzeul are un rol central în conservarea și promovarea identității și istoriei naționale a Palau-ului.",
+      en: "The Belau National Museum, located in Koror, is the oldest museum in Micronesia, established in 1955. It houses an extensive collection of Palauan artwork, historical artifacts, and natural history exhibits. The museum grounds also feature a traditional Bai (men's meeting house), meticulously constructed using classical techniques without the use of nails. The institution plays a pivotal role in preserving and educating the public about Palauan identity and heritage.",
+    },
+    factsAdvanced: {
+      de: ["Das Museum wurde im Jahr 1955 eröffnet.", "Es befindet sich in der ehemaligen japanischen Wetterstation.", "Die Sammlung umfasst über 4500 katalogisierte Objekte.", "Ein traditioneller Bai aus Holz steht auf dem Außengelände.", "Das Museum widmet sich auch der lokalen Meeresbiologie.", "Es gibt eine Forschungsbibliothek für palauische Geschichte."],
+      hu: ["A múzeum 1955-ben nyitotta meg kapuit.", "Egy korábbi japán meteorológiai állomás épületében működik.", "A gyűjtemény több mint 4500 katalogizált tárgyat tartalmaz.", "A kertben egy fából készült hagyományos Bai látható.", "A múzeum kiemelt figyelmet fordít a helyi tengerbiológiára is.", "Az intézményben kutatókönyvtár működik Palau történetéről."],
+      ro: ["Muzeul a fost deschis publicului în anul 1955.", "Este găzduit în fosta stație meteorologică japoneză.", "Colecția cuprinde peste 4500 de obiecte catalogate.", "Un Bai tradițional din lemn este expus în curtea muzeului.", "Muzeul prezintă și expoziții despre biologia marină locală.", "Dispune de o bibliotecă de cercetare pentru istoria Palau-ului."],
+      en: ["The museum was officially established in 1955.", "It is housed in a former Japanese weather station building.", "The permanent collection features over 4500 cataloged items.", "A traditional wooden Bai stands on the museum grounds.", "The exhibits cover local maritime history and marine biology.", "It houses a specialized research library for Palauan studies."],
+    },
   },
   {
     id: "palau-etpison-museum-landmarks-v2",
@@ -57,6 +81,18 @@ export const palauLandmarksV2: POI[] = [
       en: ["Opened in the year 1999", "Large collection of Palauan artifacts", "Displays rare historical photographs", "Includes a significant art gallery"],
     },
     imageHint: "Etpison Museum Koror Palau",
+    descriptionAdvanced: {
+      de: "Das Etpison Museum in Koror ist ein privates Museum, das 1999 von der Familie Etpison eröffnet wurde. Es widmet sich der Förderung des Verständnisses für die palauische Kultur und die einzigartige Biodiversität der Inselgruppe. Die Ausstellungen umfassen seltene historische Fotografien, traditionelles Geld (Pritchel) und Kunsthandwerk aus der gesamten Region. Das Museum ist bekannt für seine detaillierten Informationen über das marine Ökosystem Palaus und die Bemühungen zum Naturschutz.",
+      hu: "Az Etpison Múzeum Kororban található magánintézmény, amelyet 1999-ben nyitott meg az Etpison család. Célja a palaui kultúra és a szigetcsoport egyedülálló élővilágának bemutatása és megismertetése. A kiállítások ritka történelmi fényképeket, hagyományos pénzeket (Pritchel) és a régió minden részéről származó kézműves tárgyakat tartalmaznak. A múzeum híres a Palau tengeri ökoszisztémájáról és a természetvédelmi törekvésekről szóló részletes tájékoztatóiról.",
+      ro: "Muzeul Etpison din Koror este un muzeu privat deschis în anul 1999 de către familia Etpison. Acesta este dedicat promovării înțelegerii culturii palauene și a biodiversității unice a arhipelagului. Expozițiile includ fotografii istorice rare, monedă tradițională (Pritchel) și obiecte de artizanat din întreaga regiune. Muzeul este apreciat pentru informațiile detaliate despre ecosistemul marin al Palau-ului și eforturile de conservare a mediului.",
+      en: "The Etpison Museum in Koror is a private museum opened in 1999 by the Etpison family. It is dedicated to fostering an understanding of Palauan culture and the unique biodiversity of the archipelago. The exhibits feature rare historical photographs, traditional Palauan bead money (Pritchel), and handicrafts from across Micronesia. The museum is well-regarded for its detailed information on Palau's marine ecosystem and ongoing environmental conservation efforts.",
+    },
+    factsAdvanced: {
+      de: ["Das Museum wurde am 1. August 1999 eröffnet.", "Es wurde von Mandy und Shallum Etpison gegründet.", "Die Sammlung umfasst traditionelle Kanus und Storyboards.", "Es gibt eine bedeutende Abteilung für Palau-Perlengeld.", "Das Museum unterstützt den Schutz der Dugongs in Palau.", "Das Gebäude verfügt über einen Souvenirshop mit lokalem Handwerk."],
+      hu: ["A múzeum 1999. augusztus 1-jén nyílt meg.", "Mandy és Shallum Etpison alapították az intézményt.", "A gyűjtemény hagyományos kenukat és faragott táblákat tartalmaz.", "Jelentős szekció mutatja be a palaui gyöngypénzeket.", "A múzeum támogatja a tengeri tehenek védelmét Palau vizeiben.", "Az épületben helyi kézműves termékeket árusító bolt is működik."],
+      ro: ["Muzeul a fost inaugurat pe 1 august 1999.", "A fost fondat de Mandy și Shallum Etpison.", "Colecția include canoe tradiționale și plăci sculptate (storyboards).", "Există o secțiune importantă dedicată monedelor din mărgele.", "Muzeul susține protejarea dugongilor în apele Palau-ului.", "Clădirea include un magazin cu produse de artizanat local."],
+      en: ["The museum officially opened on August 1, 1999.", "It was founded by Mandy and Shallum Etpison.", "The collection includes traditional canoes and storyboards.", "There is a major exhibit on traditional Palauan bead money.", "The museum supports local dugong conservation programs.", "The facility includes a gift shop selling authentic local crafts."],
+    },
   },
   {
     id: "palau-badrulchau-monoliths-landmarks-v2",
@@ -76,6 +112,18 @@ export const palauLandmarksV2: POI[] = [
       en: ["37 basalt pillars in total", "Dated to the 2nd century AD", "Largest stones weigh over 4 tons", "Origin and purpose remain mysterious"],
     },
     imageHint: "Badrulchau Monoliths Babeldaob Palau",
+    descriptionAdvanced: {
+      de: "Badrulchau ist die bedeutendste Megalith-Stätte Palaus und liegt im Staat Ngarchelong auf Babeldaob. Die Anlage besteht aus zwei Reihen massiver Basaltmonolithe, die eine Ebene mit Blick auf das Meer säumen. Die Steine haben ein geschätztes Gewicht von mehreren Tonnen und wurden über weite Strecken transportiert. Einige der Monolithe sind mit menschlichen Gesichtern verziert, deren Stil an die Statuen der Osterinsel erinnert. Die Stätte gilt heute als eines der wichtigsten Wahrzeichen für den Tourismus in Palau.",
+      hu: "Badrulchau Palau legjelentősebb megalitikus helyszíne, amely Ngarchelong államban, Babeldaob szigetén található. A területen két sorban elhelyezett masszív bazalt monolitok állnak egy tengerre néző fennsíkon. A kövek tömege több tonna, és a kutatások szerint nagy távolságból szállították őket ide. Néhány monolitot emberi arcokkal díszítettek, amelyek stílusa a Húsvét-szigeti szobrokra emlékeztet. Napjainkban a helyszín Palau egyik legfontosabb turisztikai nevezetessége.",
+      ro: "Badrulchau este cel mai important sit megalitic din Palau, situat în statul Ngarchelong pe insula Babeldaob. Ansamblul constă în două rânduri de monoliți masivi de bazalt care mărginesc o câmpie cu vedere spre ocean. Pietrele au o greutate estimată la câteva tone și au fost transportate pe distanțe lungi. Unii monoliți sunt decorați cu fețe umane, stilul lor amintind de statuile de pe Insula Paștelui. Situl este astăzi unul dintre cele mai vizitate repere turistice din țară.",
+      en: "Badrulchau is Palau's most significant megalithic site, located in Ngarchelong State on Babeldaob Island. The site consists of two rows of massive basalt monoliths lining a grassy plain overlooking the ocean. The stones weigh several tons each and were transported from distant quarries in antiquity. Some monoliths feature carved human faces, with a style that evokes comparisons to the moai of Easter Island. Today, the site serves as one of Palau's premier historical landmarks for visitors.",
+    },
+    factsAdvanced: {
+      de: ["Es ist die größte Ansammlung von Monolithen in Mikronesien.", "Die Steine sind über 1800 Jahre alt.", "Die Anlage umfasst insgesamt 52 Basaltsäulen.", "Die schwerste Säule wiegt etwa 4,5 Tonnen.", "Die Monolithe bildeten vermutlich die Basis eines riesigen Bais.", "Die Stätte bietet einen 360-Grad-Blick auf die Küste."],
+      hu: ["Ez Mikronézia legnagyobb monolit-gyűjteménye.", "A kövek több mint 1800 évesek.", "A helyszín összesen 52 bazaltoszlopot foglal magában.", "A legnehezebb oszlop tömege körülbelül 4,5 tonna.", "A monolitok vélhetően egy hatalmas Bai alapjait alkották.", "A lelőhely 360 fokos panorámát kínál a partvidékre."],
+      ro: ["Este cea mai mare concentrare de monoliți din Micronezia.", "Pietrele au o vechime de peste 1800 de ani.", "Situl cuprinde în total 52 de coloane de bazalt.", "Cea mai grea coloană cântărește aproximativ 4,5 tone.", "Monoliții formau probabil baza unui Bai de dimensiuni uriașe.", "Locația oferă o vedere panoramică de 360 de grade asupra coastei."],
+      en: ["It is the largest collection of monoliths in Micronesia.", "The stones are estimated to be over 1800 years old.", "The site features a total of 52 distinct basalt pillars.", "The heaviest pillar weighs approximately 4.5 tons.", "The monoliths likely supported the foundation of a massive Bai.", "The location provides a 360-degree panoramic view of the coast."],
+    },
   },
   {
     id: "palau-airai-bai-landmarks-v2",
@@ -95,6 +143,18 @@ export const palauLandmarksV2: POI[] = [
       en: ["Oldest Bai house in Palau", "Over 170 years old", "Built without any metal nails", "Cultural center of the local community"],
     },
     imageHint: "Airai Bai traditional meeting house Palau",
+    descriptionAdvanced: {
+      de: "Der Airai Bai ist das älteste erhaltene traditionelle Männerversammlungshaus in Palau und befindet sich im Staat Airai. Das Gebäude wurde vor über 150 Jahren errichtet und ist ein Meisterwerk der palauischen Architektur, das vollständig aus Holz und ohne Metallnägel gebaut wurde. Die Giebelseiten sind mit kunstvollen Schnitzereien (Storyboards) verziert, die Legenden und historische Ereignisse des Clans darstellen. Der Bai dient auch heute noch als wichtiges Symbol für die Bewahrung der lokalen Traditionen.",
+      hu: "Az Airai Bai Palau legrégebbi fennmaradt hagyományos férfi gyűlésháza, amely Airai államban található. Az épületet több mint 150 évvel ezelőtt emelték, és a palaui építészet remekműve, mivel teljesen fából, fém szögek használata nélkül készült. Az oromfalakat művészi faragások (Storyboards) díszítik, amelyek a klán legendáit és történelmi eseményeit örökítik meg. A Bai ma is a helyi hagyományok megőrzésének egyik legfontosabb szimbóluma.",
+      ro: "Airai Bai este cea mai veche casă de adunare a bărbaților conservată din Palau, fiind situată în statul Airai. Clădirea a fost ridicată în urmă cu peste 150 de ani și este o capodoperă a arhitecturii palauene, construită în întregime din lemn fără cuie metalice. Frontonul este decorat cu sculpturi elaborate (storyboards) care descriu legende și evenimente istorice ale clanului. Bai-ul rămâne și astăzi un simbol vital al păstrării tradițiilor locale.",
+      en: "The Airai Bai is the oldest surviving traditional men's meeting house in Palau, located in Airai State. Constructed over 150 years ago, the building is a masterpiece of Palauan architecture, built entirely of wood without the use of metal nails. The gables are adorned with intricate carvings known as storyboards, which depict clan legends and significant historical events. The Bai continues to serve as a powerful symbol of the preservation of Palauan traditions and communal identity.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude wurde etwa im Jahr 1890 errichtet.", "Es hat eine Länge von 20 Metern und eine Breite von 6 Metern.", "Das Reetdach besteht aus den Blättern der Nipa-Palme.", "Die Schnitzereien zeigen Szenen aus der palauischen Mythologie.", "Der Bai steht auf einer massiven Steinplattform.", "Es ist einer der meistfotografierten Orte in Palau."],
+      hu: ["Az épület 1890 körül készült.", "Hosszúsága 20 méter, szélessége 6 méter.", "A nádtető nipa pálma leveleiből áll.", "A faragások a palaui mitológia jeleneteit ábrázolják.", "A Bai egy masszív kőplatformon áll.", "Ez Palau egyik legtöbbet fényképezett helyszíne."],
+      ro: ["Clădirea a fost construită în jurul anului 1890.", "Are o lungime de 20 de metri și o lățime de 6 metri.", "Acoperișul este realizat din frunze de palmier nipa.", "Sculpturile înfățișează scene din mitologia palauană.", "Bai-ul este așezat pe o platformă masivă de piatră.", "Este unul dintre cele mai fotografiate obiective din Palau."],
+      en: ["The building was constructed around the year 1890.", "It measures 20 meters in length and 6 meters in width.", "The thatched roof is made from nipa palm leaves.", "The interior and exterior carvings depict Palauan mythology.", "The Bai rests upon a traditional massive stone platform.", "It is one of the most iconic and photographed sites in Palau."],
+    },
   },
   {
     id: "palau-japan-palau-bridge-landmarks-v2",
@@ -114,6 +174,18 @@ export const palauLandmarksV2: POI[] = [
       en: ["Connects Koror and Babeldaob", "Total length of 413 meters", "Opened in the year 2002", "Symbol of Japanese assistance"],
     },
     imageHint: "Japan-Palau Friendship Bridge Koror Babeldaob",
+    descriptionAdvanced: {
+      de: "Die Japan-Palau-Freundschaftsbrücke, auch bekannt als Koror-Babeldaob-Brücke, verbindet die Insel Koror mit der Hauptinsel Babeldaob. Die ursprüngliche Brücke stürzte 1996 dramatisch ein, woraufhin die heutige Struktur mit japanischer Hilfe errichtet und 2002 fertiggestellt wurde. Die Brücke ist eine Extradosed-Brücke mit einer Gesamtlänge von 413 Metern. Sie ist die wichtigste Verkehrsverbindung des Landes und ermöglicht den Zugang zum internationalen Flughafen und zur neuen Hauptstadt.",
+      hu: "A Japán-Palau Barátság Híd, más néven Koror-Babeldaob híd, Koror szigetét köti össze a főszigettel, Babeldaobbal. Az eredeti híd 1996-ban tragikus módon összeomlott, ezt követően a jelenlegi szerkezet japán segítséggel épült meg és 2002-ben adták át. A híd egy 413 méter hosszú extradosed (feszített kábelhidat és gerendahidat ötvöző) típusú híd. Ez az ország legfontosabb közlekedési útvonala, amely összeköti a népesebb területeket a repülőtérrel és az új fővárossal.",
+      ro: "Podul Prieteniei Japonia-Palau, cunoscut și sub numele de Podul Koror-Babeldaob, face legătura între insula Koror și insula principală Babeldaob. Podul original s-a prăbușit dramatic în anul 1996, actuala structură fiind construită cu ajutor japonez și finalizată în 2002. Podul are o lungime totală de 413 metri și este de tip extradosed. Este cea mai importantă arteră de transport a țării, asigurând accesul către aeroportul internațional și noua capitală.",
+      en: "The Japan-Palau Friendship Bridge, also known as the Koror-Babeldaob Bridge, connects Koror Island with the main island of Babeldaob. After the original bridge collapsed in 1996, the current structure was built with Japanese grant aid and completed in 2002. The bridge is an extradosed design with a total length of 413 meters. It serves as the nation's most critical transportation link, providing essential access between the commercial hub of Koror, the international airport, and the capital.",
+    },
+    factsAdvanced: {
+      de: ["Die heutige Brücke wurde am 11. Januar 2002 eröffnet.", "Die Gesamtlänge beträgt 413 Meter.", "Die Hauptspannweite misst 247 Meter.", "Das Bauwerk wurde von der Kajima Corporation errichtet.", "Die Brücke ist als Geschenk Japans an Palau deklariert.", "Sie ersetzt die 1977 gebaute und 1996 eingestürzte Brücke."],
+      hu: ["A jelenlegi hidat 2002. január 11-én adták át.", "A híd teljes hossza 413 méter.", "A fő nyílás hossza 247 méter.", "A szerkezetet a Kajima Corporation építette.", "A híd Japán hivatalos ajándéka Palau számára.", "Az 1977-ben épült és 1996-ban összeomlott hidat váltotta fel."],
+      ro: ["Actualul pod a fost deschis pe 11 ianuarie 2002.", "Lungimea totală a structurii este de 413 metri.", "Deschiderea principală măsoară 247 metri.", "Construcția a fost realizată de Kajima Corporation.", "Podul este considerat un cadou oficial din partea Japoniei.", "Înlocuiește vechiul pod construit în 1977 care s-a prăbușit în 1996."],
+      en: ["The current bridge was officially opened on January 11, 2002.", "The total length of the structure is 413 meters.", "The main span of the bridge measures 247 meters.", "It was constructed by the Japanese firm Kajima Corporation.", "The bridge was funded by a grant from the Japanese government.", "It replaced the original 1977 bridge that collapsed in 1996."],
+    },
   },
   {
     id: "palau-peleliu-wwii-memorial-landmarks-v2",
@@ -133,6 +205,18 @@ export const palauLandmarksV2: POI[] = [
       en: ["Commemorates the 1944 battle", "Honors soldiers of both nations", "Located on Peleliu Island", "Part of a historic protected area"],
     },
     imageHint: "Peleliu WWII Memorial Palau",
+    descriptionAdvanced: {
+      de: "Das Peleliu WWII Memorial erinnert an die Schlacht von Peleliu, eine der verlustreichsten Kämpfe im Pazifikkrieg zwischen den USA und Japan im Jahr 1944. Die Gedenkstätte umfasst Denkmäler für beide Seiten sowie gut erhaltene Überreste von Panzern, Flugzeugen und Bunkern im umliegenden Gelände. Besucher können die ehemaligen Gefechtsfelder und das Museum besuchen, das die Grausamkeit des Konflikts dokumentiert. Peleliu ist heute ein Ort des stillen Gedenkens und der internationalen Versöhnung.",
+      hu: "A Peleliu Második Világháborús Emlékmű a peleliui csatának állít emléket, amely az 1944-es csendes-óceáni háború egyik legvéresebb ütközete volt az USA és Japán között. Az emlékhely mindkét fél számára tartalmaz emlékműveket, a környező területen pedig tankok, repülőgépek és bunkerek jól megőrzött maradványai láthatók. A látogatók bejárhatják az egykori harctereket és megtekinthetik a múzeumot, amely dokumentálja a konfliktus súlyosságát. Peleliu ma az emlékezés és a nemzetközi megbékélés helyszíne.",
+      ro: "Memorialul WWII din Peleliu comemorează Bătălia de la Peleliu, una dintre cele mai sângeroase lupte din Războiul din Pacific, purtată între SUA și Japonia în 1944. Situl memorial include monumente dedicate ambelor tabere, precum și resturi bine conservate de tancuri, avioane și buncăre în zonele învecinate. Vizitatorii pot explora fostele câmpuri de luptă și muzeul care documentează ferocitatea conflictului. Peleliu este astăzi un loc de reculegere și reconciliere internațională.",
+      en: "The Peleliu WWII Memorial commemorates the Battle of Peleliu, one of the costliest conflicts in the Pacific Theater fought between the US and Japan in 1944. The memorial site includes monuments dedicated to soldiers from both nations, as well as well-preserved remains of tanks, aircraft, and bunkers scattered throughout the island. Visitors can explore former battlegrounds and a museum documenting the intensity of the fighting. Today, Peleliu serves as a place of solemn remembrance and international reconciliation.",
+    },
+    factsAdvanced: {
+      de: ["Die Schlacht von Peleliu dauerte von September bis November 1944.", "Über 10.000 japanische Soldaten fielen während der Kämpfe.", "Die US-Streitkräfte erlitten mehr als 1.700 Verluste.", "Auf der Insel gibt es ein spezielles Museum für Kriegsgeschichte.", "Zahlreiche Höhlensysteme der Verteidiger sind noch erhalten.", "Das Denkmal wird jährlich von japanischen und US-Delegationen besucht."],
+      hu: ["A peleliui csata 1944 szeptembere és novembere között zajlott.", "Több mint 10 000 japán katona vesztette életét a harcokban.", "Az amerikai erők vesztesége meghaladta az 1700 főt.", "A szigeten külön hadtörténeti múzeum működik.", "Számos japán védelmi barlangrendszer ma is épségben látható.", "Az emlékművet évente látogatják japán és amerikai delegációk."],
+      ro: ["Bătălia de la Peleliu a avut loc între septembrie și noiembrie 1944.", "Peste 10.000 de soldați japonezi au murit în timpul luptelor.", "Forțele americane au suferit peste 1.700 de pierderi umane.", "Există un muzeu dedicat istoriei militare pe insulă.", "Numeroase sisteme de peșteri folosite pentru apărare sunt vizibile.", "Memorialul este vizitat anual de delegații din Japonia și SUA."],
+      en: ["The Battle of Peleliu lasted from September to November 1944.", "Over 10,000 Japanese soldiers perished during the defense.", "The United States forces suffered more than 1,700 fatalities.", "The island features a museum dedicated to the conflict's history.", "Many Japanese defensive cave systems remain intact today.", "The memorial is visited annually by high-level Japanese and US delegations."],
+    },
   },
   {
     id: "palau-german-lighthouse-landmarks-v2",
@@ -152,6 +236,18 @@ export const palauLandmarksV2: POI[] = [
       en: ["Built during the colonial era", "Located on Mount Amiangal", "Used as an observation post in WWII", "Situated on Peleliu island"],
     },
     imageHint: "German Lighthouse Peleliu Palau",
+    descriptionAdvanced: {
+      de: "Der deutsche Leuchtturm befindet sich auf einem hohen Kamm der Insel Ngeruktabel und stammt aus der Zeit der deutschen Verwaltung Mikronesiens zu Beginn des 20. Jahrhunderts. Er wurde errichtet, um den Schiffsverkehr durch die komplexen Korallenriffe Palaus zu leiten. Während des Ersten Weltkriegs diente die Anlage auch als wichtiger Beobachtungspunkt. Heute sind nur noch die Ruinen des Turms und der Nebengebäude erhalten, die jedoch einen beeindruckenden Panoramablick über die Rock Islands bieten.",
+      hu: "A német világítótorony Ngeruktabel szigetének egyik magas gerincén található, és Mikronézia német adminisztrációjának idejéből származik, a 20. század elejéről. Azért építették, hogy segítse a hajózást Palau bonyolult korallzátonyai között. Az első világháború alatt az építmény fontos megfigyelőpontként is szolgált. Ma már csak a torony és a melléképületek romjai láthatók, de a helyszínről lenyűgöző panoráma nyílik a Rock Islands szigetcsoportra.",
+      ro: "Farul german este situat pe o creastă înaltă a insulei Ngeruktabel și datează din perioada administrației germane a Microneziei, la începutul secolului XX. A fost construit pentru a ghida traficul maritim prin recifele de corali complexe ale Palau-ului. În timpul Primului Război Mondial, structura a servit și ca punct de observație strategic. Astăzi, se mai păstrează doar ruinele turnului și ale anexelor, oferind însă o vedere panoramică spectaculoasă asupra insulelor Rock.",
+      en: "The German Lighthouse is located on a high ridge of Ngeruktabel Island and dates back to the period of German administration in Micronesia at the beginning of the 20th century. It was constructed to assist maritime navigation through Palau's intricate coral reefs. During World War I, the facility also served as a vital strategic observation post. Today, only the ruins of the tower and its outbuildings remain, yet the site offers a breathtaking panoramic view over the surrounding Rock Islands.",
+    },
+    factsAdvanced: {
+      de: ["Der Leuchtturm wurde um das Jahr 1900 erbaut.", "Er liegt auf einer Höhe von über 100 Metern über dem Meer.", "Die Anlage wurde während der deutschen Kolonialzeit (1899-1914) genutzt.", "Die Ruinen bestehen aus Beton und korallinem Gestein.", "Der Standort ermöglichte die Überwachung der Schifffahrtswege.", "Ein steiler Wanderweg führt heute zu den Überresten."],
+      hu: ["A világítótorony 1900 körül épült.", "Tengerszint feletti magassága meghaladja a 100 métert.", "A német gyarmati időszakban (1899-1914) használták.", "A romok betonból és korallkőből készültek.", "A helyszín lehetővé tette a hajózási útvonalak ellenőrzését.", "Ma egy meredek túraútvonal vezet fel a maradványokhoz."],
+      ro: ["Farul a fost construit în jurul anului 1900.", "Se află la o altitudine de peste 100 de metri deasupra mării.", "A fost activ în timpul perioadei coloniale germane (1899-1914).", "Ruinele sunt realizate din beton și piatră de corali.", "Locația permitea monitorizarea rutelor maritime strategice.", "Un traseu abrupt de drumeție duce astăzi către rămășițele farului."],
+      en: ["The lighthouse was constructed around the year 1900.", "It sits at an elevation of over 100 meters above sea level.", "It operated during the German colonial era (1899-1914).", "The remains are built from a mixture of concrete and coral rock.", "The site provided a clear vantage point for monitoring shipping lanes.", "A steep hiking trail now provides access to the historic ruins."],
+    },
   },
   {
     id: "palau-angaur-lighthouse-landmarks-v2",
@@ -171,6 +267,18 @@ export const palauLandmarksV2: POI[] = [
       en: ["Located on Angaur island", "Built in the early 20th century", "Historically significant for mining", "Offers views of the ocean"],
     },
     imageHint: "Angaur Lighthouse ruins Palau",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm von Angaur wurde während der deutschen Kolonialzeit zu Beginn des 20. Jahrhunderts errichtet. Er diente primär der Sicherung des Phosphattransports von der Insel. Das Bauwerk steht auf einer Anhöhe im Nordwesten und bietet einen weiten Blick über den Pazifik. Heute ist die Ruine ein bedeutendes historisches Zeugnis der industriellen Vergangenheit Palaus.",
+      hu: "Az angauri világítótorony a 20. század elején, a német gyarmati uralom idején épült a sziget északnyugati részén. Elsődleges feladata a foszfátszállító hajók navigációjának segítése volt a veszélyes zátonyok mentén. A dombtetőn álló építmény ma már romos állapotban van, de fontos ipartörténeti emlékhely. A helyszínről belátható a sziget teljes partvidéke és a környező óceán.",
+      ro: "Farul din Angaur a fost construit la începutul secolului al XX-lea, în timpul administrației coloniale germane. Acesta a fost ridicat pentru a ghida navele care transportau fosfați extrași de pe insulă. Situat pe un deal în partea de nord-vest, farul este astăzi o ruină istorică importantă. Structura oferă o perspectivă asupra trecutului industrial și colonial al arhipelagului Palau.",
+      en: "The Angaur Lighthouse was constructed during the German colonial period in the early 20th century. It was primarily built to aid the navigation of ships transporting phosphate from the island. Situated on a hill in the northwest, the structure served as a vital maritime landmark for decades. Today, the ruins stand as a significant historical site representing Palau's industrial and colonial history.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr etwa 1908 während der deutschen Verwaltung.", "Standort auf dem höchsten Punkt im Nordwesten Angaurs.", "Diente dem Schutz der Phosphat-Exportrouten.", "Wurde im Zweiten Weltkrieg schwer beschädigt.", "Die Ruine ist über einen Wanderweg erreichbar.", "Bietet Sichtkontakt bis zur Nachbarinsel Peleliu."],
+      hu: ["1908 körül épült a német közigazgatás idején.", "A sziget északnyugati legmagasabb pontján található.", "A foszfátexportot bonyolító hajókat segítette.", "A második világháború harcaiban súlyosan megsérült.", "Ma népszerű túracélpont a történelem kedvelői számára.", "Tiszta időben ellátni innen a szomszédos Peleliu-szigetig."],
+      ro: ["Construit în jurul anului 1908 de către germani.", "Situat pe cel mai înalt punct din nord-vestul insulei.", "Utilizat pentru protejarea rutelor de export al fosfaților.", "A suferit daune majore în timpul celui de-al Doilea Război Mondial.", "Accesibil astăzi printr-o potecă de drumeție.", "Oferă vizibilitate până la insula vecină Peleliu."],
+      en: ["Built around 1908 during the German administration.", "Located on the highest point in northwestern Angaur.", "Served to protect phosphate export shipping routes.", "Suffered significant damage during World War II.", "The ruins are accessible via a designated hiking trail.", "Provides views reaching as far as the island of Peleliu."],
+    },
   },
   {
     id: "palau-roman-catholic-church-koror-landmarks-v2",
@@ -190,6 +298,18 @@ export const palauLandmarksV2: POI[] = [
       en: ["Central location in Koror", "Founded during the colonial era", "Major religious institution", "Known for its services"],
     },
     imageHint: "Sacred Heart Catholic Church Koror Palau",
+    descriptionAdvanced: {
+      de: "Die römisch-katholische Kirche des Heiligen Herzens in Koror ist das religiöse Zentrum der katholischen Gemeinde Palaus. Das ursprüngliche Gebäude entstand während der deutschen Missionszeit, wurde jedoch im Zweiten Weltkrieg zerstört. Der heutige Bau zeichnet sich durch seine schlichte Architektur und die hellblaue Fassade aus. Sie ist ein Ort der Stille inmitten des geschäftigen Zentrums der Hauptstadt.",
+      hu: "A korori Jézus Szíve római katolikus templom Palau katolikus közösségének szellemi központja. Az eredeti templomot német misszionáriusok építették a 20. század elején, de a második világháborúban megsemmisült. A mai épület letisztult formavilágával és világoskék homlokzatával tűnik ki a városképből. Fontos közösségi helyszín, amely a sziget vallási sokszínűségét jelképezi.",
+      ro: "Biserica Romano-Catolică „Inima Sacră” din Koror este centrul spiritual al comunității catolice din Palau. Prima structură a fost ridicată de misionarii germani, fiind ulterior distrusă în timpul celui de-al Doilea Război Mondial. Edificiul actual este cunoscut pentru fațada sa albastră și arhitectura simplă. Biserica rămâne un reper cultural și religios important în inima orașului Koror.",
+      en: "The Sacred Heart Roman Catholic Church in Koror is the spiritual hub for Palau's Catholic community. The original mission was established during the German administration, though the structure was destroyed in World War II. The current building features a distinctive light-blue facade and modest architectural design. It serves as a peaceful sanctuary and a key cultural landmark in the center of Koror.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der katholischen Diözese in Palau.", "Die ursprüngliche Mission wurde 1891 gegründet.", "Wiederaufbau nach der Zerstörung im Jahr 1944.", "Bekannt für die charakteristische hellblaue Außenfarbe.", "Beherbergt regelmäßig Gottesdienste in mehreren Sprachen.", "Befindet sich in unmittelbarer Nähe zum Stadtzentrum."],
+      hu: ["A palaui katolikus egyházmegye központi temploma.", "Az eredeti missziót 1891-ben alapították.", "Az 1944-es pusztítás után építették újjá.", "Jellegzetes világoskék színéről könnyen felismerhető.", "Több nyelven tartanak benne rendszeresen miséket.", "Koror városközpontjának közvetlen közelében fekszik."],
+      ro: ["Sediul diecezei catolice din arhipelagul Palau.", "Misiunea originală a fost fondată în anul 1891.", "Reconstruită după distrugerea totală din 1944.", "Cunoscută pentru culoarea exterioară albastru deschis.", "Găzduiește slujbe în mai multe limbi locale și străine.", "Situată strategic lângă centrul comercial al orașului."],
+      en: ["Headquarters of the Catholic Diocese in Palau.", "The original mission was founded in 1891.", "Rebuilt after being destroyed in the 1944 bombings.", "Famous for its iconic light-blue exterior paint.", "Hosts regular services in multiple languages.", "Located within walking distance of downtown Koror."],
+    },
   },
   {
     id: "palau-national-stadium-landmarks-v2",
@@ -209,6 +329,18 @@ export const palauLandmarksV2: POI[] = [
       en: ["Largest stadium in Palau", "Located in central Koror", "Home of the national team", "Capacity of about 4,000 people"],
     },
     imageHint: "Palau National Stadium Koror",
+    descriptionAdvanced: {
+      de: "Das Palau National Stadium in Koror ist die größte Sportstätte des Landes und dient als Austragungsort für nationale und internationale Wettkämpfe. Es umfasst ein Fußballfeld, eine Leichtathletikanlage und Tribünen für Zuschauer. Das Stadion ist ein wichtiger Treffpunkt für die lokale Jugend und Schulsportveranstaltungen. Es wurde mehrfach modernisiert, um internationalen Standards für regionale Spiele gerecht zu werden.",
+      hu: "A korori Palau Nemzeti Stadion az ország legnagyobb sportlétesítménye, amely nemzeti és nemzetközi versenyeknek ad otthont. A komplexum futballpályával, atlétikai futókörrel és lelátókkal rendelkezik. A stadion a helyi fiatalok és iskolai sportesemények legfontosabb találkozóhelye. Az elmúlt években többször korszerűsítették, hogy megfeleljen a regionális játékok követelményeinek.",
+      ro: "Stadionul Național din Palau, situat în Koror, este cea mai mare arenă sportivă din țară. Acesta găzduiește competiții naționale și internaționale, având un teren de fotbal și o pistă de atletism. Stadionul este un punct central pentru activitățile sportive școlare și evenimentele comunitare. Modernizările periodice au permis desfășurarea unor competiții regionale importante sub egida federațiilor locale.",
+      en: "The Palau National Stadium in Koror is the nation's premier sports venue, hosting major domestic and international events. It features a full-sized football pitch, a professional athletics track, and spectator seating. The stadium serves as a vital hub for youth sports and local school championships. It has undergone several upgrades to meet the standards required for hosting regional Pacific sporting competitions.",
+    },
+    factsAdvanced: {
+      de: ["Offiziell als PCC Track and Field bekannt.", "Hauptaustragungsort der Belau Games.", "Befindet sich auf dem Gelände des Palau Community College.", "Verfügt über eine Kapazität von etwa 4.000 Zuschauern.", "Heimatstadion der palauischen Fußballnationalmannschaft.", "Wurde für die South Pacific Games 1998 modernisiert."],
+      hu: ["Hivatalos neve PCC Track and Field stadion.", "A Belau Játékok (Belau Games) fő helyszíne.", "A Palau Közösségi Főiskola területén található.", "Befogadóképessége körülbelül 4000 fő.", "A palaui labdarúgó-válogatott hazai pályája.", "Az 1998-as Dél-Csendes-óceáni Játékokra újították fel."],
+      ro: ["Cunoscut oficial sub numele de PCC Track and Field.", "Locul principal de desfășurare pentru Belau Games.", "Situat în incinta Colegiului Comunitar din Palau.", "Capacitate totală de aproximativ 4.000 de spectatori.", "Stadionul de acasă al echipei naționale de fotbal.", "Modernizat pentru Jocurile din Pacificul de Sud din 1998."],
+      en: ["Officially known as the PCC Track and Field.", "Primary venue for the biennial Belau Games.", "Located on the Palau Community College campus.", "Has a total seating capacity of approximately 4,000.", "Home stadium for the Palau national football team.", "Upgraded for the 1998 South Pacific Games."],
+    },
   },
   {
     id: "palau-peleliu-peace-memorial-landmarks-v2",
@@ -228,6 +360,18 @@ export const palauLandmarksV2: POI[] = [
       en: ["Erected by Japan", "Commemorates all victims", "Symbol of peace in the Pacific", "Important site for state visits"],
     },
     imageHint: "Peleliu Peace Memorial Park Palau",
+    descriptionAdvanced: {
+      de: "Das Friedensdenkmal auf Peleliu erinnert an die Opfer einer der blutigsten Schlachten im Pazifikkrieg von 1944. Das Denkmal wurde von Japan errichtet, um der gefallenen Soldaten beider Seiten zu gedenken. Es befindet sich im südlichen Teil der Insel, nahe der ehemaligen Frontlinien. Der Ort dient heute als Mahnmal für den Frieden und ist Ziel zahlreicher Veteranen und Historiker aus aller Welt.",
+      hu: "A peleliui békeműemlék az 1944-es csendes-óceáni háború egyik legvéresebb csatájának áldozataira emlékeztet. Az emlékművet Japán emeltette, hogy tisztelegjen mindkét oldal elesett katonái előtt. A sziget déli részén, az egykori arcvonalak közelében található csendes helyszín ma a béke szimbóluma. Gyakran látogatják veteránok és történészek a világ minden tájáról.",
+      ro: "Memorialul Păcii din Peleliu onorează memoria victimelor uneia dintre cele mai sângeroase bătălii din Războiul din Pacific, în 1944. Monumentul a fost ridicat de Japonia pentru a comemora soldații ambelor tabere care și-au pierdut viața. Situat în sudul insulei, aproape de liniile de front istorice, acesta este un loc de reculegere. Memorialul servește astăzi ca simbol al reconcilierii și păcii mondiale.",
+      en: "The Peleliu Peace Memorial commemorates the lives lost during one of the bloodiest battles of the Pacific War in 1944. Established by Japan, the memorial honors fallen soldiers from both sides of the conflict. It is located in the southern part of the island, near the historical front lines. Today, the site serves as a somber reminder of the war and a place for international reconciliation and peace.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet von der japanischen Regierung im Jahr 1985.", "Gedenkt der über 10.000 Gefallenen der Schlacht.", "Befindet sich in der Nähe des Bloody Nose Ridge.", "Wird jährlich von internationalen Delegationen besucht.", "Inkludiert Inschriften in Japanisch und Englisch.", "Teil des größeren Peleliu Battlefield National Landmark."],
+      hu: ["A japán kormány állíttatta 1985-ben.", "A csata több mint 10 000 áldozatának állít emléket.", "A hírhedt Bloody Nose Ridge közelében található.", "Évente látogatják nemzetközi diplomáciai küldöttségek.", "Japán és angol nyelvű feliratok olvashatók rajta.", "A Peleliu Battlefield National Landmark része."],
+      ro: ["Ridicată de guvernul japonez în anul 1985.", "Comemorează peste 10.000 de morți din timpul bătăliei.", "Situat în proximitatea zonei Bloody Nose Ridge.", "Vizitat anual de delegații internaționale oficiale.", "Include inscripții în limbile japoneză și engleză.", "Face parte din situl istoric național Peleliu."],
+      en: ["Erected by the Japanese government in 1985.", "Honors the over 10,000 casualties of the battle.", "Located near the infamous Bloody Nose Ridge.", "Visited annually by international diplomatic delegations.", "Features inscriptions in both Japanese and English.", "Part of the Peleliu Battlefield National Landmark."],
+    },
   },
   {
     id: "palau-airai-stone-path-landmarks-v2",
@@ -247,6 +391,18 @@ export const palauLandmarksV2: POI[] = [
       en: ["Historic path made of stone", "Part of ancient infrastructure", "Leads to the traditional Bai", "Located in Airai State"],
     },
     imageHint: "Airai Stone Path Palau ancient road",
+    descriptionAdvanced: {
+      de: "Die Steinpfade von Airai sind traditionelle Wege, die aus großen Basaltblöcken und Korallensteinen kunstvoll gefertigt wurden. Sie dienten in vorkolonialer Zeit als Verbindung zwischen den Häuptlingshäusern und den dörflichen Versammlungsplätzen. Diese Wege reflektieren die komplexe soziale Struktur und die Ingenieurskunst der frühen Palauer. Heute sind sie wichtige archäologische Zeugnisse und führen Besucher durch dichte Vegetation zu historischen Stätten.",
+      hu: "Airai kőútjai hagyományos utak, amelyeket bazalttömbökből és korallkövekből építettek a gyarmatosítás előtti időkben. Ezek az utak kötötték össze a törzsfői házakat és a falusi gyülekezőhelyeket. A kőutak elrendezése hűen tükrözi a korabeli palaui társadalom komplex szerkezetét és mérnöki tudását. Ma fontos régészeti emlékek, amelyek sűrű növényzeten át vezetnek a történelmi helyszínekhez.",
+      ro: "Căile de piatră din Airai sunt drumuri tradiționale construite din blocuri de bazalt și pietre de corali. În perioada precolonială, acestea legau casele șefilor de trib de piețele publice de adunare. Aceste structuri reflectă ierarhia socială complexă și abilitățile inginerești ale vechilor locuitori din Palau. Astăzi, potecile sunt protejate ca situri arheologice și oferă acces către monumente istorice prin junglă.",
+      en: "The Airai Stone Paths are traditional walkways masterfully constructed from basalt blocks and coral stones. In pre-colonial times, they connected the clan chiefs' houses with village meeting squares and ceremonial sites. These paths reflect the sophisticated social hierarchy and engineering prowess of early Palauan society. Today, they remain vital archaeological landmarks, guiding visitors through lush landscapes to historical structures.",
+    },
+    factsAdvanced: {
+      de: ["Bestandteil der traditionellen Dorfplanung in Palau.", "Hergestellt aus lokalem Basalt und Korallenstein.", "Führen oft zu einem 'Bai' (Männerversammlungshaus).", "Einige Pfade sind über 500 Jahre alt.", "Dienten der Entwässerung während der Regenzeit.", "Symbolisierten den Status der angrenzenden Clans."],
+      hu: ["A hagyományos palaui faluépítészet alapvető része.", "Helyi bazaltból és korallkőből készültek.", "Gyakran egy 'Bai'-hoz (férfiak közösségi háza) vezetnek.", "Néhány útszakasz több mint 500 éves.", "Vízelvezető szerepük is volt az esős évszakban.", "A mentén élő klánok társadalmi rangját is jelezték."],
+      ro: ["Element esențial al planificării satelor tradiționale.", "Realizate din bazalt local și piatră de corali.", "Conduc adesea către un „Bai” (casa de adunare a bărbaților).", "Unele secțiuni au o vechime de peste 500 de ani.", "Rol secundar în drenajul apei în timpul sezonului ploios.", "Simbolizau statutul social al clanurilor adiacente."],
+      en: ["Core element of traditional Palauan village design.", "Constructed using local basalt and coral stone.", "Often lead to a 'Bai' (traditional meeting house).", "Some path sections are over 500 years old.", "Designed to facilitate drainage during heavy rains.", "Symbolized the social status of the connected clans."],
+    },
   },
   {
     id: "palau-coral-reef-center-landmarks-v2",
@@ -266,5 +422,17 @@ export const palauLandmarksV2: POI[] = [
       en: ["Major research institution", "Includes a public aquarium", "Protects marine resources", "Located in Koror"],
     },
     imageHint: "Palau International Coral Reef Center Koror",
+    descriptionAdvanced: {
+      de: "Das Palau International Coral Reef Center (PICRC) in Koror ist ein weltweit führendes Forschungszentrum für Meeresbiologie. Es kombiniert wissenschaftliche Labore mit einem öffentlichen Aquarium, das die vielfältigen Ökosysteme Palaus zeigt. Besucher können hier lebende Korallenriffe, Seegraswiesen und Mangroven aus nächster Nähe beobachten. Das Zentrum spielt eine entscheidende Rolle beim Schutz der marinen Biodiversität und der Umweltbildung der Bevölkerung.",
+      hu: "A korori Palau Nemzetközi Korallzátony Központ (PICRC) a világ egyik vezető tengerbiológiai kutatóintézete. Az intézmény tudományos laboratóriumokat és egy nyilvános akváriumot ötvöz, amely Palau változatos ökoszisztémáit mutatja be. A látogatók testközelből figyelhetik meg az élő korallzátonyokat, tengerifű-mezőket és mangroveerdőket. A központ kulcsszerepet játszik a tengeri élővilág védelmében és az oktatásban.",
+      ro: "Centrul Internațional pentru Recife de Corali din Palau (PICRC) este o instituție de cercetare marină de renume mondial, situată în Koror. Acesta îmbină laboratoarele științifice cu un acvariu public ce expune diversele ecosisteme ale arhipelagului. Vizitatorii pot observa recife de corali vii, pajiști de iarbă de mare și păduri de mangrove. Centrul este esențial pentru conservarea biodiversității marine și educația ecologică.",
+      en: "The Palau International Coral Reef Center (PICRC) in Koror is a world-class marine research and educational facility. It features a public aquarium that showcases Palau's diverse aquatic ecosystems, including coral reefs and mangrove forests. The center supports critical scientific research on climate change and marine conservation. It is dedicated to protecting Palau's natural resources through community outreach and international collaboration.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet im Jahr 2001 zum Gedenken an die Unabhängigkeit.", "Beherbergt das größte öffentliche Aquarium Palaus.", "Forschungsfokus auf Korallenbleiche und Klimawandel.", "Zusammenarbeit mit internationalen Universitäten.", "Inkludiert interaktive Ausstellungen für Schulkinder.", "Finanziert durch Eintrittsgelder und Forschungsgelder."],
+      hu: ["2001-ben nyitották meg a függetlenség tiszteletére.", "Itt található Palau legnagyobb nyilvános akváriuma.", "Fő kutatási területe a korallfehéredés és a klímaváltozás.", "Számos nemzetközi egyetemmel működik együtt.", "Interaktív kiállításokat kínál iskoláscsoportoknak.", "Belépőjegyekből és kutatási támogatásokból tartják fenn."],
+      ro: ["Inaugurat în anul 2001 pentru a celebra independența.", "Găzduiește cel mai mare acvariu public din Palau.", "Focalizat pe cercetarea albirii coralilor și a climei.", "Colaborează activ cu universități internaționale de elită.", "Include expoziții interactive pentru elevi și studenți.", "Finanțat prin bilete de intrare și granturi de cercetare."],
+      en: ["Opened in 2001 to commemorate Palau's independence.", "Houses the largest public aquarium in the country.", "Research focuses on coral bleaching and climate change.", "Collaborates with top international research universities.", "Features interactive exhibits for local and visiting students.", "Funded through admission fees and scientific grants."],
+    },
   }
 ];

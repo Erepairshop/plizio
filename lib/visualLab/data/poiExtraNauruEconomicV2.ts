@@ -19,6 +19,18 @@ export const nauruEconomicV2: POI[] = [
       en: ["Successor to the Nauru Phosphate Corporation", "Established in 2005", "Largest state-owned employer", "Located in the Aiwo District"],
     },
     imageHint: "Industrial office building Nauru phosphate industry",
+    descriptionAdvanced: {
+      de: "Die Zentrale von RONPHOS (Republic of Nauru Phosphate Corporation) ist das administrative Herz der nauruischen Wirtschaft. Das Unternehmen wurde 2005 als Nachfolger der Nauru Phosphate Corporation gegründet und verwaltet die verbliebenen Phosphatreserven der Insel. Das Hauptquartier koordiniert den gesamten Prozess vom Abbau im Plateau bis zum Export über die Hafenanlagen.",
+      hu: "A RONPHOS (Republic of Nauru Phosphate Corporation) központja Nauru gazdaságának adminisztratív szíve. A társaságot 2005-ben alapították a Nauru Phosphate Corporation utódjaként a sziget fennmaradó foszfátkészleteinek kezelésére. A központ koordinálja a teljes folyamatot a fennsíki bányászattól kezdve egészen a kikötői létesítményeken keresztüli exportig.",
+      ro: "Sediul RONPHOS (Republic of Nauru Phosphate Corporation) este inima administrativă a economiei nauruane. Compania a fost înființată în 2005 ca succesor al Nauru Phosphate Corporation pentru a gestiona rezervele de fosfat rămase. Sediul coordonează întregul proces, de la extracția pe platou până la exportul prin terminalele portuare.",
+      en: "The RONPHOS (Republic of Nauru Phosphate Corporation) headquarters is the administrative heart of Nauru's economy. Established in 2005 as the successor to the Nauru Phosphate Corporation, the company manages the island's remaining phosphate reserves. The headquarters coordinates the entire process from extraction on the plateau to export through port facilities.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet am 1. Juli 2005", "Verwaltet den wichtigsten Wirtschaftszweig Naurus", "Sitz im Distrikt Aiwo, nahe der Industrieanlagen", "Nachfolger der British Phosphate Commissioners (BPC)", "Kontrolliert den Export von Phosphatprodukten", "Arbeitet eng mit internationalen Handelspartnern zusammen"],
+      hu: ["2005. július 1-jén alapították", "Nauru legfontosabb gazdasági ágazatát kezeli", "Székhelye Aiwo körzetben, az ipari park közelében van", "A British Phosphate Commissioners (BPC) jogutódja", "Ellenőrzi a foszfáttermékek kivitelét", "Szorosan együttműködik nemzetközi kereskedelmi partnerekkel"],
+      ro: ["Fondată la 1 iulie 2005", "Gestionează cel mai important sector economic din Nauru", "Sediul în districtul Aiwo, lângă zona industrială", "Succesor al British Phosphate Commissioners (BPC)", "Controlează exportul produselor pe bază de fosfat", "Colaborează strâns cu parteneri comerciali internaționali"],
+      en: ["Founded on July 1, 2005", "Manages Nauru's most critical economic sector", "Headquartered in Aiwo district near industrial zones", "Successor to the British Phosphate Commissioners (BPC)", "Controls the export of all phosphate products", "Works closely with international trading partners"],
+    },
   },
   {
     id: "nauru-aiwo-port-economic-v2",
@@ -38,6 +50,18 @@ export const nauruEconomicV2: POI[] = [
       en: ["Deepwater port project since 2018", "Hub of cargo handling", "Vital docking point for freighters", "Modernized through international aid"],
     },
     imageHint: "Cargo port with containers Nauru coast",
+    descriptionAdvanced: {
+      de: "Der Hafen von Aiwo ist die wichtigste maritime Schnittstelle Naurus für den Welthandel. Er verfügt über markante Kragarmlader (Cantilever), die das Phosphat direkt über das Riff auf die wartenden Frachtschiffe transportieren. Da Nauru über keinen natürlichen Tiefwasserhafen verfügt, ist diese technische Anlage für den wirtschaftlichen Fortbestand des Inselstaates von existenzieller Bedeutung.",
+      hu: "Aiwo kikötője Nauru legfontosabb tengeri kapuja a világkereskedelem felé. Különleges konzolos rakodókkal (cantilever) rendelkezik, amelyek a foszfátot közvetlenül a zátonyon túl várakozó teherhajókra szállítják. Mivel Naurunak nincs természetes mélyvízi kikötője, ez a technikai létesítmény létfontosságú a szigetország gazdasági fennmaradásához.",
+      ro: "Portul Aiwo este principala interfață maritimă a statului Nauru pentru comerțul mondial. Dispune de încărcătoare tip consolă (cantilever) care transportă fosfatul direct peste recif către navele de marfă. Deoarece Nauru nu are un port natural de adâncime, această facilitate tehnică este vitală pentru economia țării.",
+      en: "Aiwo Port is Nauru's primary maritime gateway for international trade. It features distinctive cantilever loaders that transport phosphate directly over the reef to waiting cargo ships. Since Nauru lacks a natural deep-water harbor, this engineering facility is existentially important for the island nation's economic survival and logistics.",
+    },
+    factsAdvanced: {
+      de: ["Haupthafen für den Export von Phosphat", "Besitzt zwei markante Kragarm-Ladeanlagen", "Liegt im dicht besiedelten Distrikt Aiwo", "Schiffe müssen wegen des Riffs vor der Küste ankern", "Zentrum der maritimen Logistik der Insel", "Standort von Treibstoffdepots und Lagerhallen"],
+      hu: ["A foszfátexport legfontosabb kikötője", "Két jellegzetes konzolos rakodóberendezéssel rendelkezik", "A sűrűn lakott Aiwo körzetben található", "A hajóknak a zátony miatt a nyílt vízen kell horgonyozniuk", "A sziget tengeri logisztikai központja", "Itt találhatók az üzemanyagraktárak és raktárak"],
+      ro: ["Portul principal pentru exportul de fosfat", "Dispune de două instalații de încărcare tip consolă", "Situat în districtul dens populat Aiwo", "Navele trebuie să ancoreze în larg din cauza recifului", "Centrul logisticii maritime a insulei", "Locația depozitelor de combustibil și a magaziilor"],
+      en: ["Primary port for the export of phosphate", "Features two prominent cantilever loading systems", "Located in the densely populated Aiwo district", "Ships must moor offshore due to the surrounding reef", "Hub of the island's maritime logistics and trade", "Site of fuel storage depots and cargo warehouses"],
+    },
   },
   {
     id: "nauru-anibare-harbour-economic-v2",
@@ -57,6 +81,18 @@ export const nauruEconomicV2: POI[] = [
       en: ["Completed in the year 2000", "Financed by Japanese aid", "Center for artisanal fishing", "Only marina on the east coast"],
     },
     imageHint: "Anibare Boat Harbour concrete breakwaters Nauru",
+    descriptionAdvanced: {
+      de: "Der Anibare Boat Harbour wurde im Jahr 2000 mit Unterstützung der japanischen Regierung fertiggestellt. Er bietet den einzigen sicheren Ankerplatz für kleine Boote an der Ostküste der Insel. Die Anlage ist entscheidend für die lokale Fischerei und schützt die Schiffe vor dem starken Wellengang des Pazifiks. Das Hafenbecken liegt in der malerischen Anibare-Bucht.",
+      hu: "Az Anibare hajókikötő 2000-ben készült el a japán kormány támogatásával. Ez az egyetlen biztonságos horgonyzóhely a kis hajók számára a sziget keleti partján. A létesítmény alapvető fontosságú a helyi halászat számára, és védi a járműveket a Csendes-óceán erős hullámzásától. A kikötő a festői Anibare-öbölben található.",
+      ro: "Portul de ambarcațiuni Anibare a fost finalizat în anul 2000 cu sprijinul guvernului japonez. Acesta oferă singura ancoră sigură pentru ambarcațiunile mici de pe coasta de est a insulei. Instalația este crucială pentru pescuitul local și protejează navele de valurile puternice ale Pacificului. Portul este situat în golful pitoresc Anibare.",
+      en: "The Anibare Boat Harbour was completed in 2000 with the support of the Japanese government. It provides the only safe mooring for small boats on the eastern coast of the island. The facility is crucial for local fishing and protects vessels from the strong Pacific swells. The harbour basin is located in the scenic Anibare Bay.",
+    },
+    factsAdvanced: {
+      de: ["Im Jahr 2000 fertiggestellt", "Finanzierung durch Japan", "Einziger Hafen an der Ostküste", "Liegt im Distrikt Anibare", "Wichtiger Stützpunkt für Fischer", "Schützt vor starken Meeresströmungen"],
+      hu: ["2000-ben fejezték be az építkezést", "Japán finanszírozta a projektet", "Az egyetlen kikötő a keleti parton", "Az Anibare körzetben található", "Fontos bázis a helyi halászoknak", "Védelmet nyújt az óceáni hullámok ellen"],
+      ro: ["Finalizat în anul 2000", "Finanțat de guvernul Japoniei", "Singurul port de pe coasta de est", "Situat în districtul Anibare", "Bază importantă pentru pescari", "Protejează împotriva curenților oceanici"],
+      en: ["Completed in the year 2000", "Funded by the Japanese government", "Only harbour on the eastern coast", "Located in the Anibare District", "Important base for local fishermen", "Protects against heavy Pacific swells"],
+    },
   },
   {
     id: "nauru-solar-plant-economic-v2",
@@ -76,6 +112,18 @@ export const nauruEconomicV2: POI[] = [
       en: ["Capacity of approximately 1.1 MW", "Commissioned in 2019", "Supported by international partners", "Lowers the island's CO2 emissions"],
     },
     imageHint: "Solar panel arrays Nauru tropical landscape",
+    descriptionAdvanced: {
+      de: "Die Nauru Solar Plant ist ein zentraler Bestandteil der nationalen Strategie für erneuerbare Energien. Das Projekt zielt darauf ab, die Abhängigkeit der Insel von teuren Dieselimporten massiv zu reduzieren. Die Photovoltaikanlage nutzt die intensive Sonneneinstrahlung in Äquatornähe zur Stromerzeugung. Sie ist ein Symbol für Naurus Bemühungen um nachhaltige Entwicklung.",
+      hu: "A Nauru Naperőmű a nemzeti megújuló energia stratégia központi eleme. A projekt célja, hogy jelentősen csökkentse a sziget függőségét a drága import gázolajtól. A fotovoltaikus rendszer az egyenlítő közeli intenzív napsütést használja áramtermelésre. A létesítmény Nauru fenntartható fejlődés iránti elkötelezettségének szimbóluma.",
+      ro: "Centrala solară din Nauru este un element central al strategiei naționale pentru energie regenerabilă. Proiectul vizează reducerea masivă a dependenței insulei de importurile scumpe de motorină. Sistemul fotovoltaic utilizează radiația solară intensă din apropierea ecuatorului pentru a genera electricitate. Este un simbol al eforturilor Nauru pentru dezvoltare durabilă.",
+      en: "The Nauru Solar Plant is a central component of the national renewable energy strategy. The project aims to massively reduce the island's dependence on expensive diesel imports. The photovoltaic system utilizes the intense solar radiation near the equator to generate electricity. It is a symbol of Nauru's efforts toward sustainable development.",
+    },
+    factsAdvanced: {
+      de: ["Teil der Vision 2020/2030", "Ziel: 50% erneuerbare Energien", "Finanzierung durch die ADB", "Reduziert Dieselverbrauch jährlich", "Installation auf dem Inselplateau", "Nutzt modernste PV-Technologie"],
+      hu: ["A 2020/2030-as jövőkép része", "Cél az 50%-os megújuló energia", "Az ADB finanszírozta a projektet", "Évente csökkenti a gázolaj-fogyasztást", "A sziget fennsíkján helyezkedik el", "Modern PV technológiát alkalmaz"],
+      ro: ["Parte a viziunii 2020/2030", "Scop: 50% energie regenerabilă", "Finanțat de banca ADB", "Reduce consumul anual de motorină", "Instalat pe platoul insulei", "Utilizează tehnologie PV modernă"],
+      en: ["Part of the 2020/2030 vision", "Goal of 50% renewable energy", "Funded by the ADB", "Reduces annual diesel consumption", "Installed on the island plateau", "Uses modern PV technology"],
+    },
   },
   {
     id: "nauru-nrc-hq-economic-v2",
@@ -95,6 +143,18 @@ export const nauruEconomicV2: POI[] = [
       en: ["Established in 1999", "Specializes in land reclamation", "Operates heavy mining equipment", "Critical for ecological restoration"],
     },
     imageHint: "Mining machinery Nauru rehabilitation site",
+    descriptionAdvanced: {
+      de: "Die Nauru Rehabilitation Corporation (NRC) wurde 1999 ins Leben gerufen, um die durch den Phosphatabbau zerstörten Flächen zu sanieren. Das Hauptquartier koordiniert komplexe Projekte zur Wiederherstellung der Bodenqualität und der Vegetation. Diese Arbeit ist entscheidend, um neuen Lebensraum und landwirtschaftliche Nutzflächen auf dem Plateau zu schaffen. Es ist eine langfristige Aufgabe für die Zukunft der Insel.",
+      hu: "A Nauru Rehabilitációs Társaságot (NRC) 1999-ben hozták létre a foszfátbányászat által tönretett területek helyreállítására. A központ komplex projekteket koordinál a talajminőség és a növényzet regenerálása érdekében. Ez a munka elengedhetetlen az új lakóterületek és mezőgazdasági földek kialakításához a fennsíkon. Ez egy hosszú távú feladat a sziget jövőjéért.",
+      ro: "Corporația de Reabilitare Nauru (NRC) a fost înființată în 1999 pentru a reabilita terenurile distruse de exploatarea fosfatului. Sediul coordonează proiecte complexe pentru refacerea calității solului și a vegetației. Această activitate este crucială pentru crearea de noi spații de locuit și terenuri agricole pe platou. Este o sarcină pe termen lung pentru viitorul insulei.",
+      en: "The Nauru Rehabilitation Corporation (NRC) was established in 1999 to rehabilitate lands destroyed by phosphate mining. The headquarters coordinates complex projects aimed at restoring soil quality and vegetation. This work is essential for creating new living space and agricultural land on the plateau. It is a long-term task for the future of the island.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1999", "Sitz im Distrikt Aiwo", "Fokus auf Landrückgewinnung", "Beseitigung von Korallenpinnacles", "Wiederaufforstung mit einheimischen Arten", "Staatliches Unternehmen Naurus"],
+      hu: ["1999-ben alapították", "Székhelye az Aiwo körzetben van", "Földvisszaszerzésre összpontosít", "Koralloszlopok eltávolítása a cél", "Újrafásítás őshonos fajokkal", "Nauru állami tulajdonú vállalata"],
+      ro: ["Înființată în anul 1999", "Sediul în districtul Aiwo", "Concentrare pe recuperarea terenurilor", "Eliminarea coloanelor de corali", "Reîmpădurire cu specii native", "Companie de stat din Nauru"],
+      en: ["Founded in the year 1999", "Headquarters in Aiwo District", "Focus on land reclamation", "Removal of coral pinnacles", "Reforestation with native species", "State-owned enterprise of Nauru"],
+    },
   },
   {
     id: "nauru-eigigu-supermarket-economic-v2",
@@ -114,6 +174,18 @@ export const nauruEconomicV2: POI[] = [
       en: ["Central point for groceries", "Part of a state conglomerate", "Most important retailer in Nauru", "Sells predominantly imported goods"],
     },
     imageHint: "Commercial building Nauru retail center",
+    descriptionAdvanced: {
+      de: "Der Eigigu Supermarket ist das wichtigste Handelszentrum der Republik Nauru und wird von der staatlichen Eigigu Holdings betrieben. Er stellt die Versorgung der Bevölkerung mit importierten Lebensmitteln und Haushaltswaren sicher. Da Nauru kaum eigene Landwirtschaft besitzt, ist dieser Standort kritisch für die Ernährungssicherheit. Er befindet sich in der Nähe der Siedlung Denigomodu.",
+      hu: "Az Eigigu Szupermarket Nauru legfontosabb kereskedelmi központja, amelyet az állami Eigigu Holdings üzemeltet. Biztosítja a lakosság ellátását importált élelmiszerekkel és háztartási cikkekkel. Mivel Nauru alig rendelkezik saját mezőgazdasággal, ez a helyszín kritikus az élelmiszerbiztonság szempontjából. Denigomodu település közelében található.",
+      ro: "Supermarketul Eigigu este cel mai important centru comercial din Republica Nauru, administrat de compania de stat Eigigu Holdings. Acesta asigură aprovizionarea populației cu alimente importate și articole de uz casnic. Deoarece Nauru are puțină agricultură proprie, această locație este critică pentru securitatea alimentară. Se află lângă așezarea Denigomodu.",
+      en: "The Eigigu Supermarket is the most important commercial center in the Republic of Nauru, operated by the state-owned Eigigu Holdings. It ensures the supply of imported food and household goods to the population. Since Nauru has very little agriculture of its own, this location is critical for food security. It is located near the Denigomodu settlement.",
+    },
+    factsAdvanced: {
+      de: ["Größtes Geschäft des Landes", "Betrieben durch Eigigu Holdings", "Zentraler Ort für Importwaren", "Liegt im Distrikt Denigomodu", "Wichtig für Ernährungssicherheit", "Regierungsnahes Unternehmen"],
+      hu: ["Az ország legnagyobb üzlete", "Az Eigigu Holdings üzemelteti", "Az importáruk központi helye", "Denigomodu körzetben található", "Fontos az élelmiszerbiztonsághoz", "Kormányzati tulajdonú vállalat"],
+      ro: ["Cel mai mare magazin din țară", "Operat de Eigigu Holdings", "Loc central pentru bunuri importate", "Situat în districtul Denigomodu", "Vital pentru securitatea alimentară", "Companie deținută de guvern"],
+      en: ["Largest store in the country", "Operated by Eigigu Holdings", "Central hub for imported goods", "Located in Denigomodu District", "Vital for national food security", "Government-linked corporation"],
+    },
   },
   {
     id: "nauru-phosphate-cantilever-economic-v2",
@@ -133,6 +205,18 @@ export const nauruEconomicV2: POI[] = [
       en: ["First structure built in 1930", "Two active main cantilevers", "Essential for bulk exports", "Landmark of industrial history"],
     },
     imageHint: "Phosphate cantilever structure Nauru coast",
+    descriptionAdvanced: {
+      de: "Die Phosphat-Cantilever sind monumentale Verladeanlagen an der Westküste von Nauru, die den Export des Rohstoffs ermöglichen. Diese massiven Ausleger ragen weit über das Riff hinaus, damit Schiffe im tiefen Wasser beladen werden können. Sie prägen das industrielle Erscheinungsbild der Insel seit Jahrzehnten. Das System wurde mehrfach modernisiert, um die Effizienz der Verladung zu steigern.",
+      hu: "A foszfát-konzolok monumentális rakodóberendezések Nauru nyugati partján, amelyek lehetővé teszik a nyersanyag exportját. Ezek a masszív karok messze benyúlnak a zátony fölé, hogy a hajókat a mély vízben lehessen megrakodni. Évtizedek óta meghatározzák a sziget ipari arculatát. A rendszert többször modernizálták a rakodási hatékonyság növelése érdekében.",
+      ro: "Cantileverele de fosfat sunt instalații monumentale de încărcare pe coasta de vest a Nauru, care permit exportul materiei prime. Aceste brațe masive se extind mult peste recif, astfel încât navele să poată fi încărcate în ape adânci. Ele definesc aspectul industrial al insulei de zeci de ani. Sistemul a fost modernizat de mai multe ori pentru a crește eficiența încărcării.",
+      en: "The phosphate cantilevers are monumental loading facilities on the western coast of Nauru that enable the export of the raw material. These massive arms extend far beyond the reef so that ships can be loaded in deep water. They have defined the industrial appearance of the island for decades. The system has been modernized several times to increase loading efficiency.",
+    },
+    factsAdvanced: {
+      de: ["Wahrzeichen der Phosphatindustrie", "Ragen über das Saumriff hinaus", "Liegen im Distrikt Aiwo", "Ermöglichen Beladung tiefer Schiffe", "Wichtigster Wirtschaftsfaktor", "Zwei Hauptanlagen existieren"],
+      hu: ["A foszfátipar jelképei", "A szegélyzátony fölé nyúlnak", "Az Aiwo körzetben találhatók", "Mélyjáratú hajók rakodását segítik", "A legfontosabb gazdasági tényező", "Két fő berendezés létezik"],
+      ro: ["Simboluri ale industriei fosfatului", "Se extind peste reciful de corali", "Situate în districtul Aiwo", "Permit încărcarea navelor mari", "Cel mai important factor economic", "Există două instalații principale"],
+      en: ["Iconic symbols of phosphate industry", "Extend beyond the fringing reef", "Located in Aiwo District", "Allow loading of deep-sea vessels", "Primary economic infrastructure", "Two main structures are in use"],
+    },
   },
   {
     id: "nauru-utilities-corp-economic-v2",
@@ -152,6 +236,18 @@ export const nauruEconomicV2: POI[] = [
       en: ["Operates diesel generators", "Responsible for water supply", "Headquartered in Aiwo", "Secures basic infrastructure"],
     },
     imageHint: "Industrial power plant desalination Nauru",
+    descriptionAdvanced: {
+      de: "Die Nauru Utilities Corporation (NUC) ist für die Bereitstellung von Strom und Trinkwasser auf der gesamten Insel verantwortlich. Das Kraftwerk in Aiwo erzeugt Energie hauptsächlich durch Dieselgeneratoren, wird aber zunehmend durch Solarenergie ergänzt. Zudem betreibt die NUC Entsalzungsanlagen, die für das Überleben in Dürreperioden unerlässlich sind. Die Modernisierung der Infrastruktur ist eine nationale Priorität.",
+      hu: "A Nauru Utilities Corporation (NUC) felelős az áram- és ivóvízellátásért az egész szigeten. Az aiwo-i erőmű főként dízelgenerátorokkal termel energiát, de ezt egyre inkább napenergiával egészítik ki. Emellett a NUC sótalanító üzemeket is működtet, amelyek elengedhetetlenek a túléléshez az aszályos időszakokban. Az infrastruktúra modernizálása nemzeti prioritás.",
+      ro: "Nauru Utilities Corporation (NUC) este responsabilă pentru furnizarea de energie electrică și apă potabilă pe întreaga insulă. Centrala din Aiwo generează energie în principal prin generatoare diesel, dar este completată din ce în ce mai mult de energia solară. De asemenea, NUC operează stații de desalinizare, esențiale pentru supraviețuire în perioadele de secetă. Modernizarea infrastructurii este o prioritate națională.",
+      en: "The Nauru Utilities Corporation (NUC) is responsible for providing electricity and drinking water throughout the entire island. The power plant in Aiwo generates energy mainly through diesel generators, but is increasingly supplemented by solar power. Additionally, NUC operates desalination plants, which are essential for survival during drought periods. Modernizing infrastructure is a national priority.",
+    },
+    factsAdvanced: {
+      de: ["Alleiniger Stromversorger", "Betreibt Entsalzungsanlagen", "Hauptkraftwerk im Distrikt Aiwo", "Zusammenarbeit mit der NRC", "Fokus auf Netzstabilität", "Staatliche Behörde seit 2011"],
+      hu: ["Az egyetlen áramszolgáltató", "Sótalanító üzemeket működtet", "Fő erőműve Aiwo körzetben van", "Együttműködik az NRC-vel", "A hálózat stabilitására fókuszál", "2011 óta állami hatóság"],
+      ro: ["Singurul furnizor de electricitate", "Operează stații de desalinizare", "Centrala principală în Aiwo", "Colaborează cu NRC", "Concentrare pe stabilitatea rețelei", "Autoritate de stat din 2011"],
+      en: ["Sole provider of electricity", "Operates desalination plants", "Main power plant in Aiwo District", "Collaborates with the NRC", "Focus on grid stability", "State authority since 2011"],
+    },
   },
   {
     id: "nauru-nfmra-economic-v2",
@@ -171,6 +267,18 @@ export const nauruEconomicV2: POI[] = [
       en: ["Monitors tuna stocks", "Regulates foreign fleets", "Located near Anibare Harbour", "Promotes sustainable fishing"],
     },
     imageHint: "NFMRA administrative building Nauru",
+    descriptionAdvanced: {
+      de: "Die Nauru Fisheries and Marine Resources Authority (NFMRA) verwaltet die riesige exklusive Wirtschaftszone des Inselstaates. Sie ist zuständig für die Lizenzierung ausländischer Fischereiflotten und den Schutz der marinen Biodiversität. Die Einnahmen aus Fischereirechten stellen eine der wichtigsten Säulen des nationalen Haushalts dar. Die Behörde fördert zudem die nachhaltige Kleinfischerei für die lokale Bevölkerung.",
+      hu: "A Nauru Halászati és Tengeri Erőforrás Hatóság (NFMRA) kezeli a szigetország hatalmas exkluzív gazdasági övezetét. Feladata a külföldi halászflották engedélyezése és a tengeri biológiai sokféleség védelme. A halászati jogokból származó bevételek a nemzeti költségvetés egyik legfontosabb pillérét alkotják. A hatóság támogatja a helyi lakosság fenntartható kisüzemi halászatát is.",
+      ro: "Autoritatea pentru Pescuit și Resurse Marine din Nauru (NFMRA) gestionează vasta zonă economică exclusivă a statului insular. Aceasta este responsabilă pentru autorizarea flotelor de pescuit străine și protejarea biodiversității marine. Veniturile din drepturile de pescuit reprezintă unul dintre cei mai importanți piloni ai bugetului național. Autoritatea promovează, de asemenea, pescuitul artizanal durabil pentru populația locală.",
+      en: "The Nauru Fisheries and Marine Resources Authority (NFMRA) manages the vast exclusive economic zone of the island nation. It is responsible for licensing foreign fishing fleets and protecting marine biodiversity. Revenue from fishing rights constitutes one of the most important pillars of the national budget. The authority also promotes sustainable artisanal fishing for the local population.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1997", "Verwaltet 320.000 km² Meereszone", "Überwacht den Thunfischfang", "Sitz im Distrikt Aiwo", "Wichtige Einnahmequelle (Lizenzen)", "Mitglied der PNA-Gruppe"],
+      hu: ["1997-ben alapították", "320 000 km² tengeri övezetet kezel", "Felügyeli a tonhalhalászatot", "Székhelye az Aiwo körzetben van", "Fontos bevételi forrás (licencek)", "A PNA-csoport tagja"],
+      ro: ["Înființată în anul 1997", "Gestionează 320.000 km² de mare", "Monitorizează pescuitul de ton", "Sediul în districtul Aiwo", "Sursă vitală de venit (licențe)", "Membră a grupului PNA"],
+      en: ["Founded in the year 1997", "Manages 320,000 km² of ocean", "Monitors tuna fishing", "Headquarters in Aiwo District", "Major source of revenue (licenses)", "Member of the PNA group"],
+    },
   },
   {
     id: "nauru-denig-settlement-economic-v2",
@@ -190,5 +298,17 @@ export const nauruEconomicV2: POI[] = [
       en: ["Most densely populated area", "Hub of local commerce", "Housing for mining workers", "Location of the Bendigo Bank branch"],
     },
     imageHint: "Housing area Denigomodu settlement Nauru",
+    descriptionAdvanced: {
+      de: "Die Siedlung Denigomodu ist das bevölkerungsreichste Gebiet Naurus und wurde ursprünglich für die Arbeiter der Phosphatindustrie errichtet. Sie beherbergt zahlreiche Wohnblöcke, die unter dem Namen Location bekannt sind. Hier leben viele ausländische Arbeitskräfte aus dem pazifischen Raum. Das Gebiet ist ein wichtiges soziales und wirtschaftliches Zentrum in unmittelbarer Nähe zum Haupthafen.",
+      hu: "Denigomodu település Nauru legnépesebb területe, amelyet eredetileg a foszfátipar munkásai számára építettek. Számos lakótömbnek ad otthont, amelyek Location néven ismertek. Itt sok csendes-óceáni térségből érkező vendégmunkás él. A terület fontos társadalmi és gazdasági központ, közvetlenül a fő kikötő szomszédságában.",
+      ro: "Așezarea Denigomodu este cea mai populată zonă din Nauru și a fost construită inițial pentru lucrătorii din industria fosfatului. Găzduiește numeroase blocuri de locuințe cunoscute sub numele de Location. Aici trăiesc mulți lucrători străini din regiunea Pacificului. Zona este un centru social și economic important, situat în imediata apropiere a portului principal.",
+      en: "The Denigomodu settlement is the most populous area of Nauru and was originally built for workers in the phosphate industry. It houses numerous apartment blocks known as the Location. Many foreign workers from the Pacific region live here. The area is an important social and economic hub, located in close proximity to the main harbour.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerungsreichster Distrikt", "Beherbergt das Location-Viertel", "Ursprünglich Minenarbeiter-Siedlung", "Liegt an der Nordwestküste", "Nahe dem RONHospital gelegen", "Zentrum für Arbeitsmigranten"],
+      hu: ["A legnépesebb körzet", "Itt található a Location-negyed", "Eredetileg bányásztelepülés volt", "Az északnyugati parton fekszik", "A RONHospital közelében van", "A vendégmunkások központja"],
+      ro: ["Cel mai populat district", "Găzduiește cartierul Location", "Inițial așezare pentru mineri", "Situat pe coasta de nord-vest", "Lângă spitalul RONHospital", "Centru pentru migranții muncii"],
+      en: ["Most populous district in Nauru", "Home to the Location quarter", "Originally a mining settlement", "Situated on the northwest coast", "Located near the RONHospital", "Hub for migrant workers"],
+    },
   }
 ];

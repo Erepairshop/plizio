@@ -19,6 +19,18 @@ export const palauCitiesV2: POI[] = [
       en: ["Population of approximately 11,000 people", "Former national capital until 2006", "Comprises several interconnected islands", "Home to the Belau National Museum"],
     },
     imageHint: "Aerial view of Koror city islands and bridges",
+    descriptionAdvanced: {
+      de: "Koror ist die größte Stadt und das wirtschaftliche Zentrum von Palau und liegt auf der gleichnamigen Insel. Bis zum Jahr 2006 diente die Stadt als Hauptstadt des Inselstaates. Sie ist das Tor zu den berühmten Rock Islands und beherbergt die meisten touristischen Einrichtungen, Museen und Regierungsstellen des Landes.",
+      hu: "Koror Palau legnagyobb városa és gazdasági központja, amely az azonos nevű szigeten fekszik. 2006-ig ez a város volt a szigetország fővárosa. Ez a kapu a híres Szikla-szigetekhez, és itt található az ország legtöbb turisztikai létesítménye, múzeuma és kormányzati hivatala.",
+      ro: "Koror este cel mai mare oraș și centrul economic al statului Palau, fiind situat pe insula cu același nume. Până în anul 2006, orașul a servit drept capitală a acestei națiuni insulare. Este poarta de acces către faimoasele Rock Islands și găzduiește majoritatea muzeelor și serviciilor turistice.",
+      en: "Koror is the largest city and the economic heart of Palau, located on Koror Island. Until 2006, it served as the capital of the island nation. The city is the main gateway to the world-famous Rock Islands and houses the majority of the country's tourist facilities, museums, and commercial businesses.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt etwa zwei Drittel der Bevölkerung Palaus.", "Über Brücken mit den Inseln Babeldaob und Malakal verbunden.", "Sitz des Belau National Museum, gegründet 1955.", "Wichtigster Hafen Palaus befindet sich auf Malakal Island.", "Ehemaliges Verwaltungszentrum während der japanischen Mandatszeit.", "Zentrum für Tauchtourismus im westlichen Pazifik."],
+      hu: ["Itt él Palau lakosságának mintegy kétharmada.", "Hidak kötik össze Babeldaob és Malakal szigeteivel.", "Az 1955-ben alapított Belau Nemzeti Múzeum székhelye.", "Palau legfontosabb kikötője a szomszédos Malakal-szigeten van.", "A japán mandátum idején fontos adminisztratív központ volt.", "A nyugat-csendes-óceáni búvárturizmus központja."],
+      ro: ["Găzduiește aproximativ două treimi din populația statului Palau.", "Conectat prin poduri de insulele Babeldaob și Malakal.", "Sediul Muzeului Național Belau, înființat în 1955.", "Cel mai important port din Palau se află pe insula Malakal.", "Fost centru administrativ în timpul mandatului japonez.", "Centru major pentru turismul de scufundări din Pacificul de Vest."],
+      en: ["Home to approximately two-thirds of Palau's total population.", "Connected by bridges to Babeldaob and Malakal islands.", "Site of the Belau National Museum, established in 1955.", "Palau's main commercial port is located on Malakal Island.", "Former administrative center during the Japanese mandate era.", "Hub for world-class scuba diving tourism in the Pacific."],
+    },
   },
   {
     id: "palau-ngerulmud-cities-v2",
@@ -38,6 +50,18 @@ export const palauCitiesV2: POI[] = [
       en: ["World's least populous national capital", "Capitol building completed in 2006", "Located within the state of Melekeok", "Seat of the legislative and executive branches"],
     },
     imageHint: "Palau Capitol building in Ngerulmud",
+    descriptionAdvanced: {
+      de: "Ngerulmud ist seit dem Jahr 2006 die Hauptstadt von Palau und liegt im Bundesstaat Melekeok auf der Insel Babeldaob. Die Siedlung wurde speziell als Regierungssitz geplant und gebaut, um die administrative Last von Koror zu verringern. Sie ist bekannt für ihren imposanten Kapitol-Komplex, der architektonisch an das US-Kapitol erinnert.",
+      hu: "Ngerulmud 2006 óta Palau fővárosa, amely Melekeok államban, Babeldaob szigetén található. A települést kifejezetten kormányzati székhelynek tervezték és építették, hogy tehermentesítsék Korort. Híres impozáns Kapitólium-épületegyütteséről, amely építészetileg az amerikai Kapitóliumra emlékeztet.",
+      ro: "Ngerulmud este capitala statului Palau din anul 2006, fiind situată în statul Melekeok de pe insula Babeldaob. Localitatea a fost planificată și construită special ca sediu al guvernului pentru a decongestiona orașul Koror. Este cunoscută pentru complexul său capitoliu impunător, inspirat de cel american.",
+      en: "Ngerulmud has been the capital of Palau since 2006, located in Melekeok State on the island of Babeldaob. The settlement was specifically planned and built to serve as the nation's administrative center, succeeding Koror. It is famous for its grand Capitol complex, which architecturally mirrors the United States Capitol.",
+    },
+    factsAdvanced: {
+      de: ["Die am wenigsten bevölkerte Hauptstadt der Welt.", "Liegt ca. 20 Kilometer nordöstlich von Koror.", "Der Bau des Kapitols kostete etwa 45 Millionen US-Dollar.", "Wurde am 7. Oktober 2006 offiziell eingeweiht.", "Beherbergt die Legislative, Exekutive und Judikative von Palau.", "Inmitten von tropischem Regenwald und Grasland gelegen."],
+      hu: ["A világ legkisebb lakónépességű fővárosa.", "Körülbelül 20 kilométerre északkeletre fekszik Korortól.", "A Kapitólium építése mintegy 45 millió dollárba került.", "Hivatalosan 2006. október 7-én avatták fel.", "Itt található Palau törvényhozó, végrehajtó és bírói hatalma.", "Trópusi esőerdők és füves területek veszik körül."],
+      ro: ["Cea mai puțin populată capitală a unei națiuni suverane.", "Situată la aproximativ 20 km nord-est de orașul Koror.", "Construcția complexului capitoliu a costat circa 45 milioane USD.", "Inaugurată oficial ca capitală la 7 octombrie 2006.", "Găzduiește ramurile legislativă, executivă și judecătorească.", "Înconjurată de păduri tropicale virgine și dealuri ierboase."],
+      en: ["The least populated capital city of a sovereign nation.", "Located approximately 20 kilometers northeast of Koror.", "The Capitol complex construction cost about $45 million.", "Officially inaugurated as the capital on October 7, 2006.", "Houses the legislative, executive, and judicial branches.", "Surrounded by lush tropical rainforest and grasslands."],
+    },
   },
   {
     id: "palau-airai-cities-v2",
@@ -57,6 +81,18 @@ export const palauCitiesV2: POI[] = [
       en: ["Site of the Roman Tmetuchl International Airport", "Famous for the historic Airai Bai meeting house", "Population of around 2,500 people", "Southernmost municipality on Babeldaob Island"],
     },
     imageHint: "Traditional Airai Bai meeting house",
+    descriptionAdvanced: {
+      de: "Airai ist der südlichste Bundesstaat auf der Insel Babeldaob in Palau und ein wichtiger Verkehrsknotenpunkt des Landes. Hier befindet sich der internationale Flughafen sowie die Brücke, die Babeldaob mit der ehemaligen Hauptstadt Koror verbindet. Die Region ist reich an kulturellen Stätten und traditionellen palauischen Versammlungshäusern.",
+      hu: "Airai Palau legdélibb állama Babeldaob szigetén, és az ország egyik legfontosabb közlekedési csomópontja. Itt található a nemzetközi repülőtér, valamint a Babeldaobot a korábbi fővárossal, Kororral összekötő híd. A terület gazdag kulturális helyszínekben és hagyományos palaui gyülekezeti házakban.",
+      ro: "Airai este cel mai sudic stat de pe insula Babeldaob din Palau și un nod de transport vital pentru întreaga țară. Aici se află aeroportul internațional și podul care leagă Babeldaob de fosta capitală Koror. Regiunea este bogată în situri culturale și case tradiționale de întrunire palauane.",
+      en: "Airai is the southernmost state on Palau's Babeldaob Island and serves as a vital transportation hub for the country. It is home to the nation's international airport and the bridge connecting Babeldaob to the former capital, Koror. The region is rich in cultural sites and traditional Palauan meeting houses.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt den Roman Tmetuchl International Airport.", "Besitzt das älteste Bai (Männerhaus) in Palau.", "Zweitbevölkerungsreichster Bundesstaat des Landes.", "Standort der Japan-Palau-Freundschaftsbrücke.", "Historisch bekannt für bedeutende Steinmonolithe.", "Wichtiger Ausgangspunkt für Erkundungen auf Babeldaob."],
+      hu: ["Itt található a Roman Tmetuchl Nemzetközi Repülőtér.", "Itt áll Palau legrégebbi hagyományos Bai-háza.", "Az ország második legnépesebb állama.", "Itt található a Japán-Palau Barátság híd.", "Történelmileg híres jelentős kőmonolitjairól.", "Fontos kiindulópont a Babeldaob-sziget felfedezéséhez."],
+      ro: ["Găzduiește Aeroportul Internațional Roman Tmetuchl.", "Deține cea mai veche casă tradițională Bai (a bărbaților) din Palau.", "Al doilea cel mai populat stat din întreaga țară.", "Locația podului de prietenie Japonia-Palau.", "Cunoscut istoric pentru monoliții săi de piatră antici.", "Punct strategic pentru explorarea întregii insule Babeldaob."],
+      en: ["Home to the Roman Tmetuchl International Airport.", "Features the oldest Bai (traditional meeting house) in Palau.", "The second most populous state in the country.", "Location of the Japan-Palau Friendship Bridge.", "Historically significant for its ancient stone monoliths.", "Key gateway for travelers exploring Babeldaob Island."],
+    },
   },
   {
     id: "palau-meyuns-cities-v2",
@@ -76,6 +112,18 @@ export const palauCitiesV2: POI[] = [
       en: ["Second largest settlement in Koror State", "Location of the Belau National Hospital", "Connected to Koror Island by a causeway", "Important residential area for Koror workers"],
     },
     imageHint: "Meyuns village coastline and hospital",
+    descriptionAdvanced: {
+      de: "Meyuns ist die zweitgrößte Siedlung in Palau und liegt auf der Insel Ngerekebesang im Bundesstaat Koror. Die Ortschaft ist über einen künstlichen Damm mit der Hauptinsel Koror verbunden, was den Zugang zum wirtschaftlichen Zentrum des Landes erleichtert. Meyuns dient hauptsächlich als Wohngebiet und beherbergt das Belau National Hospital, die wichtigste medizinische Einrichtung des Inselstaates.",
+      hu: "Meyuns Palau második legnépesebb települése, amely a Koror államhoz tartozó Ngerekebesang-szigeten található. A falut egy feltöltött út köti össze Koror szigetével, biztosítva a könnyű átjárást az ország kereskedelmi központjába. A település elsősorban lakóövezetként funkcionál, valamint itt található a Belau Nemzeti Kórház is, amely az ország elsődleges egészségügyi intézménye.",
+      ro: "Meyuns este a doua cea mai populată așezare din Palau, situată pe insula Ngerekebesang din statul Koror. Satul este legat de insula Koror printr-un dig rutier, facilitând accesul rapid către centrul comercial al națiunii. Localitatea servește în principal ca zonă rezidențială și găzduiește Spitalul Național Belau, cea mai importantă unitate medicală a țării.",
+      en: "Meyuns is the second-most populous settlement in Palau, situated on Ngerekebesang Island within Koror State. It is linked to the island of Koror by a causeway, facilitating easy access to the nation's commercial center. The village serves primarily as a residential hub and is home to the Belau National Hospital, the primary medical facility in the country.",
+    },
+    factsAdvanced: {
+      de: ["Zweitgrößte Siedlung Palaus", "Auf der Insel Ngerekebesang gelegen", "Gehört zum Bundesstaat Koror", "Über einen Damm mit Koror verbunden", "Standort des Belau National Hospital", "Wichtiges Wohngebiet für Pendler"],
+      hu: ["Palau második legnagyobb települése", "A Ngerekebesang-szigeten fekszik", "Koror állam részét képezi", "Mesterséges töltésút köti össze Kororral", "Itt található a Belau Nemzeti Kórház", "Jelentős lakóövezet a főváros közelében"],
+      ro: ["A doua cea mai mare așezare din Palau", "Situată pe insula Ngerekebesang", "Face parte din statul Koror", "Conectată de Koror printr-un dig", "Găzduiește Spitalul Național Belau", "Zonă rezidențială majoră"],
+      en: ["Second largest settlement in Palau", "Located on Ngerekebesang Island", "Part of the Koror State", "Linked to Koror by a causeway", "Site of the Belau National Hospital", "Key residential area for workers"],
+    },
   },
   {
     id: "palau-melekeok-cities-v2",
@@ -95,6 +143,18 @@ export const palauCitiesV2: POI[] = [
       en: ["Historic seat of powerful clan chiefs", "Nearby Ngardok Lake is the largest freshwater lake", "Village population is approximately 300 people", "Located directly on the Pacific coast"],
     },
     imageHint: "Melekeok village beach and traditional structures",
+    descriptionAdvanced: {
+      de: "Melekeok ist ein Bundesstaat an der Ostküste der Insel Babeldaob und der Sitz der nationalen Regierung von Palau. Im Jahr 2006 wurde der Regierungssitz von Koror nach Ngerulmud in Melekeok verlegt, wo sich ein imposanter Kapitol-Komplex befindet. Die Region zeichnet sich durch eine Mischung aus moderner Verwaltungsinfrastruktur und traditionellen palauischen Landschaften aus.",
+      hu: "Melekeok egy állam Babeldaob szigetének keleti partján, amely Palau nemzeti kormányának székhelye. A kormányzati központot 2006-ban helyezték át Kororból a Melekeok területén található Ngerulmudba, ahol egy monumentális kapitóliumi épületegyüttes épült. A környéket a modern adminisztratív infrastruktúra és a hagyományos palaui tájak ötvözete jellemzi.",
+      ro: "Melekeok este un stat de pe coasta de est a insulei Babeldaob și sediul guvernului național din Palau. În 2006, sediul administrativ a fost mutat de la Koror la Ngerulmud, în Melekeok, unde a fost construit un complex monumental de clădiri guvernamentale. Regiunea se remarcă printr-un amestec de infrastructură administrativă modernă și peisaje tradiționale palauene.",
+      en: "Melekeok is a state on the eastern coast of Babeldaob Island and serves as the seat of Palau's national government. The capital complex, Ngerulmud, was inaugurated here in 2006, moving the administration from the former capital, Koror. The area features a mix of modern administrative buildings and traditional Palauan landscapes, including the nearby Lake Ngardok.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Regierung in Ngerulmud", "Hauptstadtwechsel von Koror im Jahr 2006", "An der Ostküste von Babeldaob gelegen", "Beherbergt den Ngardok-See", "Größtes Süßwasserreservoir Mikronesiens", "Staat mit etwa 300 Einwohnern"],
+      hu: ["Ngerulmud kormányzati központ székhelye", "A főváros 2006-ban költözött ide", "Babeldaob szigetének keleti partján fekszik", "Itt található a Ngardok-tó", "Mikronézia legnagyobb édesvízi tározója", "Népessége körülbelül 300 fő"],
+      ro: ["Sediul guvernului în Ngerulmud", "Capitala mutată de la Koror în 2006", "Situat pe coasta de est a insulei Babeldaob", "Găzduiește lacul Ngardok", "Cea mai mare rezervă de apă dulce din Micronezia", "Populația statului este de aproximativ 300 locuitori"],
+      en: ["Seat of government in Ngerulmud", "Capital moved from Koror in 2006", "Located on the east coast of Babeldaob", "Home to Lake Ngardok", "Largest freshwater reservoir in Micronesia", "State population of approximately 300"],
+    },
   },
   {
     id: "palau-kloulklubed-cities-v2",
@@ -114,6 +174,18 @@ export const palauCitiesV2: POI[] = [
       en: ["Administrative center of Peleliu State", "Home to a World War II memorial museum", "Located on the northwestern part of the island", "Base for diving trips to the Rock Islands"],
     },
     imageHint: "Kloulklubed village street and WWII memorial",
+    descriptionAdvanced: {
+      de: "Kloulklubed ist der Hauptort des Bundesstaates Peleliu und liegt am nördlichen Ende der Insel. Die Siedlung war Schauplatz heftiger Kämpfe während des Zweiten Weltkriegs, insbesondere der verlustreichen Schlacht um Peleliu im Jahr 1944. Heute ist der Ort ein ruhiges Dorf, das Besuchern als Ausgangspunkt für die Erkundung historischer Denkmäler und bekannter Tauchplätze dient.",
+      hu: "Kloulklubed Peleliu állam legfontosabb települése, amely a sziget északi végén helyezkedik el. A falu súlyos károkat szenvedett a második világháború idején, különösen az 1944-es peleliui csata során. Napjainkban a település csendes központként szolgál, ahonnan a látogatók felfedezhetik a sziget történelmi emlékhelyeit és világhírű merülőhelyeit.",
+      ro: "Kloulklubed este satul principal al statului Peleliu, situat în extremitatea nordică a insulei. Așezarea a fost grav afectată în timpul celui de-al Doilea Război Mondial, în special în timpul bătăliei intense din 1944. Astăzi, localitatea este un punct de plecare liniștit pentru turiștii care explorează monumentele istorice de război și siturile de scufundări din zonă.",
+      en: "Kloulklubed is the principal village of Peleliu State, located on the northern end of the island. The settlement was heavily impacted during World War II during the intense Battle of Peleliu in 1944. Today, it serves as the gateway for visitors exploring the island's historical war relics and world-renowned diving sites located nearby.",
+    },
+    factsAdvanced: {
+      de: ["Hauptort des Bundesstaates Peleliu", "Schauplatz der Schlacht von 1944", "Sitz der lokalen Verwaltung", "In der Nähe von WWII-Relikten", "Bevölkerung von etwa 500 Personen", "Nördlichster Punkt der Insel Peleliu"],
+      hu: ["Peleliu állam központi települése", "Az 1944-es csata egyik fő helyszíne", "Helyi közigazgatási központ", "Közelében számos háborús emlék található", "Lakossága körülbelül 500 fő", "Peleliu szigetének északi részén fekszik"],
+      ro: ["Satul principal al statului Peleliu", "Locul bătăliei din 1944", "Centru administrativ local", "Aproape de relicvele din Al Doilea Război Mondial", "Populație de aproximativ 500 de locuitori", "Situat în nordul insulei Peleliu"],
+      en: ["Principal village of Peleliu State", "Site of the 1944 Battle of Peleliu", "Administrative center of the island", "Near many WWII historical relics", "Population of approximately 500 people", "Located on the northern tip of Peleliu"],
+    },
   },
   {
     id: "palau-angaur-cities-v2",
@@ -133,6 +205,18 @@ export const palauCitiesV2: POI[] = [
       en: ["Has its own airstrip for small aircraft", "Official languages include English, Palauan, and Japanese", "Former center of German phosphate mining", "Famous for its wild macaque population"],
     },
     imageHint: "Aerial view of Angaur island and village",
+    descriptionAdvanced: {
+      de: "Angaur ist eine Insel und ein Bundesstaat südlich von Peleliu, bekannt für seine bewegte Geschichte und raue Natur. Im frühen 20. Jahrhundert war die Insel ein bedeutender Standort für den Phosphatabbau unter deutscher und später japanischer Verwaltung. Trotz der Spuren vergangener Schlachten des Zweiten Weltkriegs ist Angaur heute eine friedliche Gemeinschaft mit einer einzigartigen Kultur.",
+      hu: "Angaur egy sziget és állam Peleliutól délre, amely különleges történelméről és vadregényes tájairól ismert. A 20. század elején a sziget jelentős foszfátbányászati központ volt német, majd japán fennhatóság alatt. A második világháborús csaták nyomai ellenére Angaur ma egy nyugodt közösség, amely megőrizte egyedi helyi kultúráját és emlékeit.",
+      ro: "Angaur este o insulă și un stat situat la sud de Peleliu, cunoscut pentru istoria sa complexă și terenul accidentat. La începutul secolului XX, insula a fost un sit important pentru exploatarea fosfaților sub administrație germană și japoneză. În ciuda urmelor bătăliilor din Al Doilea Război Mondial, Angaur rămâne o comunitate liniștită cu o cultură locală distinctă.",
+      en: "Angaur is an island and state located south of Peleliu, known for its unique history and rugged terrain. During the early 20th century, the island was a significant site for phosphate mining under German and Japanese administrations. It remains a tranquil community with a distinct local culture and several historical landmarks from the Pacific War.",
+    },
+    factsAdvanced: {
+      de: ["Eigener Bundesstaat von Palau", "Beginn des Phosphatabbaus im Jahr 1909", "Schauplatz der Schlacht um Angaur (1944)", "Fläche von etwa 8,4 km²", "Südlich von Peleliu gelegen", "Besitzt eine eigene Landebahn"],
+      hu: ["Palau egyik különálló állama", "A foszfátbányászat 1909-ben kezdődött", "Az angauri csata helyszíne (1944)", "Területe körülbelül 8,4 km²", "Peleliutól délre helyezkedik el", "Saját repülőtertel rendelkezik"],
+      ro: ["Stat individual în cadrul Palau", "Exploatarea fosfaților a început în 1909", "Locul bătăliei de la Angaur (1944)", "Suprafață de aproximativ 8,4 km²", "Situat la sud de Peleliu", "Dispune de propria pistă de aterizare"],
+      en: ["Standalone state of Palau", "Phosphate mining started in 1909", "Site of the Battle of Angaur (1944)", "Area of approximately 8.4 km²", "Located south of Peleliu", "Has its own small airstrip"],
+    },
   },
   {
     id: "palau-kayangel-cities-v2",
@@ -152,6 +236,18 @@ export const palauCitiesV2: POI[] = [
       en: ["Consists of four small islands within the atoll", "Main source of income is fishing", "No commercial airfield available", "Accessible only by boat from Babeldaob"],
     },
     imageHint: "Tropical beach at Kayangel atoll",
+    descriptionAdvanced: {
+      de: "Kayangel ist der nördlichste Bundesstaat von Palau und besteht aus einem idyllischen Korallenatoll mit vier kleinen Inseln. Der Staat ist bekannt für seine unberührte Meeresumwelt und die Bewahrung traditioneller Fischereipraktiken der Einheimischen. Da Kayangel nur per Boot erreichbar ist, bietet es Besuchern einen Einblick in eine abgeschiedene und sehr ursprüngliche Lebensweise.",
+      hu: "Kayangel Palau legészakibb állama, amely egy festői korallatollból és négy apró szigetből áll. Az állam érintetlen tengeri környezetéről és a hagyományos halászati módszerek megőrzéséről híres. Mivel csak hajóval érhető el, Kayangel bepillantást enged egy elszigeteltebb és rendkívül hagyományos életmódba a Csendes-óceán szívében.",
+      ro: "Kayangel este cel mai nordic stat din Palau, format dintr-un atol de corali pitoresc cu patru insule mici. Statul este renumit pentru mediul marin virgin și pentru conservarea practicilor tradiționale de pescuit. Deoarece este accesibil doar cu barca, Kayangel oferă vizitatorilor o privire asupra unui mod de viață izolat și tradițional.",
+      en: "Kayangel is the northernmost state of Palau, consisting of a picturesque coral atoll with four small islands. The state is renowned for its pristine marine environment and the preservation of traditional Palauan fishing practices. Access to the atoll is primarily by boat, offering a glimpse into a more secluded and traditional way of life.",
+    },
+    factsAdvanced: {
+      de: ["Nördlichster Punkt von Palau", "Besteht aus 4 Hauptinseln", "Fläche von lediglich 1,4 km²", "Einziges Korallenatoll des Landes", "Kein Flugplatz vorhanden", "Wichtiges Zentrum für Fischfang"],
+      hu: ["Palau legészakibb pontja", "Négy fő szigetből áll", "Szárazföldi területe mindössze 1,4 km²", "Az ország egyetlen korallatollja", "Nincs repülőtere", "Hagyományos halászati központ"],
+      ro: ["Cel mai nordic punct al Palau", "Format din 4 insule principale", "Suprafață terestră de doar 1,4 km²", "Singurul atol de corali din țară", "Nu dispune de aeroport", "Centru important pentru pescuit"],
+      en: ["Northernmost state of Palau", "Consists of 4 main islands", "Land area of only 1.4 km²", "Palau's only true coral atoll", "No airstrip available", "Traditional fishing-based economy"],
+    },
   },
   {
     id: "palau-ngardmau-cities-v2",
@@ -171,6 +267,18 @@ export const palauCitiesV2: POI[] = [
       en: ["Home to the Ngardmau Waterfalls", "Located at the foot of Mount Ngerchelchuus", "Former site of Japanese bauxite mines", "Population of approximately 200 residents"],
     },
     imageHint: "Ngardmau waterfall in the jungle",
+    descriptionAdvanced: {
+      de: "Ngardmau ist ein Bundesstaat auf der Westseite der Insel Babeldaob, der für sein bergiges Terrain und seine dichten Wälder bekannt ist. Die Hauptattraktion ist der Ngardmau-Wasserfall, der höchste Wasserfall in ganz Mikronesien. In der Region finden sich zudem historische Überreste des Bauxitabbaus, der während der japanischen Kolonialzeit eine wichtige wirtschaftliche Rolle spielte.",
+      hu: "Ngardmau egy állam Babeldaob szigetének nyugati oldalán, amelyet hegyvidéki terep és sűrű erdők jellemeznek. Legismertebb látnivalója a Ngardmau-vízesés, amely egész Mikronézia legmagasabb vízesése. A terület történelmi jelentőséggel is bír a japán gyarmati időszakból származó bauxitbányászat emlékei miatt.",
+      ro: "Ngardmau este un stat din partea de vest a insulei Babeldaob, caracterizat prin teren muntos și păduri dese. Este faimos pentru cascada Ngardmau, care este cea mai înaltă cascadă din Micronezia. Zona are și o semnificație istorică legată de exploatarea bauxitei din perioada colonială japoneză.",
+      en: "Ngardmau is a state on the west side of Babeldaob Island, characterized by its mountainous terrain and lush forests. It is most famous for the Ngardmau Waterfall, which is the tallest waterfall in Micronesia. The area also holds historical significance related to bauxite mining conducted during the Japanese colonial period.",
+    },
+    factsAdvanced: {
+      de: ["Ngardmau-Wasserfall (Taki Falls)", "Höchster Wasserfall Mikronesiens (30m)", "Lage am Fuße des Mount Ngerchelchuus", "Ehemaliges Zentrum für Bauxitabbau", "An der Westküste von Babeldaob", "Bekannt für unberührte Regenwälder"],
+      hu: ["Itt található a Ngardmau-vízesés", "Mikronézia legmagasabb vízesése (30m)", "A Ngerchelchuus-hegy lábánál fekszik", "Egykori bauxitbányászati központ", "Babeldaob nyugati partján található", "Érintetlen esőerdőiről nevezetes"],
+      ro: ["Găzduiește cascada Ngardmau", "Cea mai înaltă cascadă din Micronezia (30m)", "Situat la baza muntelui Ngerchelchuus", "Fost centru de minerit bauxită", "Pe coasta de vest a insulei Babeldaob", "Cunoscut pentru pădurile tropicale virgine"],
+      en: ["Home to Ngardmau (Taki) Waterfall", "Tallest waterfall in Micronesia (30m)", "Located near Mount Ngerchelchuus", "Site of historical bauxite mining", "On the western coast of Babeldaob", "Renowned for its lush rainforests"],
+    },
   },
   {
     id: "palau-ulimang-cities-v2",
@@ -190,6 +298,18 @@ export const palauCitiesV2: POI[] = [
       en: ["Seat of the Ngaraard State government", "Located near beautiful sandy beaches", "Important point on the north-south transport axis", "Characterized by traditional agriculture"],
     },
     imageHint: "Coastal road in Ulimang village",
+    descriptionAdvanced: {
+      de: "Ulimang ist das Verwaltungszentrum und der Hauptort des Bundesstaates Ngaremlengui auf der Insel Babeldaob. Das Dorf liegt an der Westküste und ist bekannt für den Erhalt der traditionellen palauischen Kultur sowie für die Nähe zu bedeutenden archäologischen Stätten. Es dient als zentraler Treffpunkt für die lokale Gemeinschaft und die Verwaltung des Staates.",
+      hu: "Ulimang Ngaremlengui állam közigazgatási központja és fő települése Babeldaob szigetén. A falu a nyugati parton fekszik, és híres a hagyományos palaui kultúra megőrzéséről, valamint a közeli fontos régészeti lelőhelyekről. A település a helyi közösség és az állami közigazgatás központi csomópontjaként szolgál.",
+      ro: "Ulimang este centrul administrativ și satul principal al statului Ngaremlengui de pe insula Babeldaob. Satul este situat pe coasta de vest și este cunoscut pentru păstrarea culturii tradiționale palauene și proximitatea față de situri arheologice importante. Acesta servește ca punct focal pentru comunitatea locală și guvernarea statului.",
+      en: "Ulimang is the administrative center and main village of Ngaremlengui State on Babeldaob Island. The village is situated on the western coast and is known for its traditional Palauan culture and proximity to important archaeological sites. It serves as a focal point for the local community and the state's governance.",
+    },
+    factsAdvanced: {
+      de: ["Hauptort von Ngaremlengui", "Verwaltungszentrum des Staates", "An der Westküste von Babeldaob", "Standort eines traditionellen Bai", "Ländlich geprägte Siedlung", "Sitz des lokalen Häuptlings"],
+      hu: ["Ngaremlengui állam székhelye", "Közigazgatási központ", "Babeldaob nyugati partján fekszik", "Hagyományos palaui Bai (gyülekezőház)", "Vidéki jellegű település", "Helyi törzsfőnöki székhely"],
+      ro: ["Satul principal din Ngaremlengui", "Centrul administrativ al statului", "Pe coasta de vest a insulei Babeldaob", "Găzduiește o casă tradițională Bai", "Așezare cu caracter rural", "Sediul căpeteniei locale"],
+      en: ["Main village of Ngaremlengui State", "Administrative center of the state", "Located on the west coast of Babeldaob", "Site of a traditional Palauan Bai", "Rural-style settlement", "Seat of the local traditional chief"],
+    },
   },
   {
     id: "palau-mengellang-cities-v2",
@@ -209,6 +329,18 @@ export const palauCitiesV2: POI[] = [
       en: ["Gateway to the Badrulchau stone monoliths", "Northernmost settlement on Babeldaob Island", "Hub for local fishing activities", "Offers expansive views of the surrounding sea"],
     },
     imageHint: "Mengellang village landscape and sea views",
+    descriptionAdvanced: {
+      de: "Mengellang ist der Hauptort des Bundesstaates Ngarchelong an der nördlichen Spitze der Insel Babeldaob. Das Dorf ist das Tor zu den Steinmonolithen von Badrulchau, einer der bedeutendsten archäologischen Stätten Palaus mit 37 monumentalen Säulen. Die Umgebung bietet weite Panoramablicke über die nördlichen Riffe und das angrenzende Philippinische Meer.",
+      hu: "Mengellang Ngarchelong állam központi települése, amely Babeldaob szigetének legészakibb csücskén található. A falu a Badrulchau kőmonolitok kapuja, amely Palau egyik legfontosabb régészeti lelőhelye 37 monumentális oszloppal. A környező területek panorámás kilátást nyújtanak az északi zátonyokra és a Filippínó-tengerre.",
+      ro: "Mengellang este satul principal al statului Ngarchelong, situat în vârful nordic al insulei Babeldaob. Satul este poarta de acces către monoliții de piatră Badrulchau, unul dintre cele mai importante situri arheologice din Palau. Zona înconjurătoare oferă vederi panoramice asupra recifelor nordice și a Mării Filipinelor.",
+      en: "Mengellang is the primary village of Ngarchelong State, located at the northern tip of Babeldaob Island. The village is the gateway to the Badrulchau Stone Monoliths, which are ancient archaeological remains featuring 37 massive stone pillars. The surrounding area offers panoramic views of the northern reefs and the Philippine Sea.",
+    },
+    factsAdvanced: {
+      de: ["Hauptort des Staates Ngarchelong", "Nördlichste Spitze von Babeldaob", "Tor zu den Badrulchau-Monolithen", "Enthält 37 antike Steinsäulen", "Blick auf das Philippinische Meer", "Traditionelles Fischerdorf"],
+      hu: ["Ngarchelong állam fő települése", "Babeldaob legészakibb pontja", "A Badrulchau monolitok kapuja", "37 ősi kőoszlop található itt", "Kilátás a Filippínó-tengerre", "Hagyományos halászfalu"],
+      ro: ["Satul principal din Ngarchelong", "Vârful nordic al insulei Babeldaob", "Acces către monoliții Badrulchau", "Sit cu 37 de coloane antice", "Vedere către Marea Filipinelor", "Sat tradițional de pescari"],
+      en: ["Primary village of Ngarchelong State", "Northernmost point of Babeldaob", "Gateway to Badrulchau Monoliths", "Features 37 ancient stone pillars", "Overlooks the Philippine Sea", "Traditional fishing community"],
+    },
   },
   {
     id: "palau-ngchesar-cities-v2",
@@ -228,6 +360,18 @@ export const palauCitiesV2: POI[] = [
       en: ["Seat of the Ngchesar State government", "Famous for the annual war canoe festival", "Surrounded by dense mangrove forests", "Population of around 280 inhabitants"],
     },
     imageHint: "Traditional Palauan canoe in Ngchesar",
+    descriptionAdvanced: {
+      de: "Ngchesar ist ein Bundesstaat an der Ostküste von Babeldaob, der für seine dichten Dschungel und das traditionelle Flussleben bekannt ist. Eine Bootsfahrt auf dem Ngchesar-Fluss bietet Einblicke in das Ökosystem der Mangroven und die lokale Krokodilpopulation. Der Staat ist zudem für seine talentierten Handwerker bekannt, die bis heute traditionelle Kriegskanus fertigen.",
+      hu: "Ngchesar egy állam Babeldaob keleti partján, amely sűrű dzsungeljeiről és hagyományos folyami életéről ismert. A Ngchesar-folyón tett hajókirándulás bepillantást enged a mangrovék ökoszisztémájába és a helyi krokodilpopuláció életébe. Az állam híres tehetséges kézműveseiről is, akik a mai napig készítenek hagyományos hadi kenukat.",
+      ro: "Ngchesar este un stat de pe coasta de est a insulei Babeldaob, cunoscut pentru junglele sale dese și viața tradițională pe râu. O croazieră pe râul Ngchesar oferă ocazia de a vedea ecosistemul de mangrove și populația locală de crocodili. Statul este renumit și pentru meșteșugarii săi care construiesc canoe tradiționale de război.",
+      en: "Ngchesar is a state on the eastern coast of Babeldaob, known for its dense jungles and traditional river life. The Ngchesar Jungle River Cruise offers a look at the local crocodile population and mangrove ecosystems. The state is also recognized for its skilled craftsmen and the production of traditional Palauan war canoes.",
+    },
+    factsAdvanced: {
+      de: ["Staat an der Ostküste Babeldaobs", "Bekannt für den Ngchesar-Fluss", "Lebensraum von Salzwasserkrokodilen", "Zentrum für traditionellen Kanubau", "Mangroven-ökosysteme vor Ort", "Bevölkerung von ca. 300 Personen"],
+      hu: ["Babeldaob keleti partján fekvő állam", "A Ngchesar-folyóról nevezetes", "Sós vízi krokodilok élőhelye", "Hagyományos kenuépítő központ", "Kiterjedt mangrovelápok jellemzik", "Népessége körülbelül 300 fő"],
+      ro: ["Stat pe coasta de est a Babeldaob", "Cunoscut pentru râul Ngchesar", "Habitat pentru crocodili de apă sărată", "Centru pentru construcția de canoe", "Ecosisteme vaste de mangrove", "Populație de aproximativ 300 locuitori"],
+      en: ["State on eastern coast of Babeldaob", "Famous for the Ngchesar River", "Habitat for saltwater crocodiles", "Center for traditional canoe building", "Extensive mangrove ecosystems", "Population of approximately 300"],
+    },
   },
   {
     id: "palau-ngiwal-cities-v2",
@@ -247,6 +391,18 @@ export const palauCitiesV2: POI[] = [
       en: ["Center of the Ngiwal State", "Famous for local tapioca production", "Located along a scenic coastline", "Population is approximately 220 people"],
     },
     imageHint: "Ngiwal village and agricultural fields",
+    descriptionAdvanced: {
+      de: "Ngiwal ist ein Küstenstaat auf der Ostseite von Babeldaob, der vor allem für seine Landwirtschaft und seine schönen Strände bekannt ist. Das Gebiet war historisch ein bedeutendes Zentrum für den Anbau von Taro und ist bis heute eine wichtige Region für die Nahrungsmittelproduktion Palaus. Die Küste ist durch ausgedehnte Riffsysteme geschützt, die die lokale Fischerei unterstützen.",
+      hu: "Ngiwal egy tengerparti állam Babeldaob keleti oldalán, amely elsősorban mezőgazdasági tevékenységeiről és szép strandjairól ismert. A terület történelmileg a tarótermesztés központja volt, és ma is Palau egyik legfontosabb élelmiszertermelő régiója. Partvonalát kiterjedt zátonyrendszer védi, amely biztosítja a helyi halászat fenntarthatóságát.",
+      ro: "Ngiwal este un stat de coastă din estul Babeldaob, cunoscut în principal pentru activitățile agricole și plajele frumoase. Zona a fost istoric un centru semnificativ pentru cultivarea taro și rămâne o regiune importantă pentru producția de alimente din Palau. Coasta sa este protejată de recife extinse care susțin pescuitul local.",
+      en: "Ngiwal is a coastal state on the eastern side of Babeldaob, primarily known for its agricultural activities and beautiful beaches. The village was historically a significant center for taro cultivation and remains an important food-producing region for Palau. Its coastline is protected by extensive reef systems, supporting local fishing.",
+    },
+    factsAdvanced: {
+      de: ["Staat im Osten von Babeldaob", "Historisches Zentrum für Taro-Anbau", "Besitzt weiße Sandstrände", "Wichtiger Agrarstandort des Landes", "Reiches Meeresökosystem", "Fischfang als zweites Standbein"],
+      hu: ["Babeldaob keleti partján fekvő állam", "A tarótermesztés történelmi központja", "Fehér homokos strandokkal rendelkezik", "Fontos mezőgazdasági terület", "Gazdag tengeri élővilág", "Halászatilag jelentős régió"],
+      ro: ["Stat în estul insulei Babeldaob", "Centru istoric pentru cultivarea taro", "Are plaje cu nisip alb", "Sit agricol important al țării", "Ecosistem marin bogat", "Pescuitul este o activitate de bază"],
+      en: ["State on the east coast of Babeldaob", "Historic center for taro cultivation", "Features white sand beaches", "Key agricultural site for Palau", "Rich marine ecosystem offshore", "Fishing is a primary local activity"],
+    },
   },
   {
     id: "palau-ngatpang-cities-v2",
@@ -266,6 +422,18 @@ export const palauCitiesV2: POI[] = [
       en: ["Administrative seat of Ngatpang State", "Known for fish farms in its bays", "Region with significant forest resources", "Population of around 280 people"],
     },
     imageHint: "Ngatpang bay and mangrove coastline",
+    descriptionAdvanced: {
+      de: "Ngatpang ist ein Bundesstaat an der Westküste von Babeldaob, der an die inneren Bereiche der Ngeremeduu-Bucht grenzt. Das Gebiet wird von ausgedehnten Mangrovenwäldern und einer vielfältigen Meeresfauna dominiert, was es zu einem ökologisch wertvollen Standort macht. Es ist einer der am dünnsten besiedelten Staaten Palaus und bewahrt eine enge Verbindung zur traditionellen Landnutzung.",
+      hu: "Ngatpang egy állam Babeldaob nyugati partján, amely a Ngeremeduu-öböl belső területeit veszi körül. A vidéket kiterjedt mangrovéerdők és változatos tengeri élővilág jellemzi, ami ökológiailag rendkívül értékes hellyé teszi. Ez Palau egyik legkevésbé benépesült állama, ahol máig erős a kötődés a hagyományos földhasználati formákhoz.",
+      ro: "Ngatpang este un stat situat pe coasta de vest a Babeldaob, înconjurând zonele interioare ale golfului Ngeremeduu. Zona este dominată de păduri de mangrove și de o faună marină diversă, fiind un sit ecologic important. Este unul dintre cele mai puțin populate state din Palau, păstrând o legătură strânsă cu utilizarea tradițională a terenului.",
+      en: "Ngatpang is a state located on the western coast of Babeldaob, surrounding the inner reaches of Ngeremeduu Bay. The area is dominated by extensive mangrove forests and diverse marine life, making it an important ecological site for the nation. It is one of the less populated states, maintaining a strong connection to traditional land use.",
+    },
+    factsAdvanced: {
+      de: ["Lage an der Westküste von Babeldaob", "Grenzt an die Ngeremeduu-Bucht", "Extensive Mangroven-Ökosysteme", "Zentrum für Aquakultur-Projekte", "Einwohnerzahl liegt bei ca. 280", "Wichtiges Naturschutzgebiet"],
+      hu: ["Babeldaob nyugati partján fekszik", "A Ngeremeduu-öböl határolja", "Kiterjedt mangrové-ökoszisztémák", "Akvakultúra-projektek központja", "Lakosainak száma kb. 280 fő", "Jelentős természetvédelmi terület"],
+      ro: ["Situat pe coasta de vest a Babeldaob", "Înconjoară golful Ngeremeduu", "Ecosisteme vaste de mangrove", "Centru pentru proiecte de acvacultură", "Populație de aproximativ 280 locuitori", "Zonă importantă de conservare"],
+      en: ["Located on west coast of Babeldaob", "Surrounds Ngeremeduu Bay", "Extensive mangrove ecosystems", "Center for aquaculture projects", "Population of approximately 280", "Ecologically significant conservation area"],
+    },
   },
   {
     id: "palau-aimeliik-cities-v2",
@@ -285,5 +453,17 @@ export const palauCitiesV2: POI[] = [
       en: ["Home to ancient terraced hills", "Site of a major solar power plant", "State population is approximately 330 people", "Features important traditional meeting houses"],
     },
     imageHint: "Ancient earth terraces in Aimeliik",
+    descriptionAdvanced: {
+      de: "Aimeliik ist ein Bundesstaat an der südwestlichen Küste von Babeldaob und beherbergt einige der ältesten und heiligsten Stätten Palaus. Besonders hervorzuheben ist das antike Aimeliik Bai, ein traditionelles Versammlungshaus, das zu den ältesten des Landes zählt. Neben kulturellen Schätzen beherbergt der Staat auch wichtige Infrastruktur, darunter das größte Kraftwerk der Nation.",
+      hu: "Aimeliik egy állam Babeldaob délnyugati partján, ahol Palau néhány legősibb és legszentebb helyszíne található. Kiemelkedő az Aimeliik Bai, egy hagyományos gyülekezőház, amely az ország egyik legöregebb ilyen építménye. A kulturális kincsek mellett az állam fontos infrastruktúrának is helyet ad, itt található az ország legnagyobb erőműve.",
+      ro: "Aimeliik este un stat de pe coasta de sud-vest a insulei Babeldaob, găzduind unele dintre cele mai vechi și mai sacre situri din Palau. Statul include Aimeliik Bai, o casă tradițională de întâlniri care este printre cele mai vechi din țară. Pe lângă tezaurul cultural, statul găzduiește și infrastructură vitală, inclusiv principala centrală electrică a națiunii.",
+      en: "Aimeliik is a state on the southwestern coast of Babeldaob, home to some of Palau's oldest and most sacred sites. The state features the ancient Aimeliik Bai, a traditional meeting house that is among the oldest in the country. It also hosts significant national infrastructure, including the primary power generation facility for Palau.",
+    },
+    factsAdvanced: {
+      de: ["Südwestküste von Babeldaob", "Standort des historischen Aimeliik Bai", "Antike Terrassenlandschaften vorhanden", "Staat mit ca. 330 Einwohnern", "Beherbergt das Hauptkraftwerk", "Heilige Stätten der palauischen Mythologie"],
+      hu: ["Babeldaob délnyugati partján fekszik", "Itt áll a történelmi Aimeliik Bai", "Ősi teraszos tájak találhatók itt", "Népessége körülbelül 330 fő", "Itt található az ország fő erőműve", "Palaui mitológiai szent helyek"],
+      ro: ["Coasta de sud-vest a Babeldaob", "Găzduiește istoricul Aimeliik Bai", "Prezența teraselor antice", "Populație de aproximativ 330 locuitori", "Locația principalei centrale electrice", "Locuri sacre din mitologia palauană"],
+      en: ["Southwestern coast of Babeldaob", "Site of the historic Aimeliik Bai", "Features ancient terraced landscapes", "State population of approx. 330", "Location of the main power plant", "Sacred sites in Palauan mythology"],
+    },
   }
 ];

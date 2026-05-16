@@ -19,6 +19,18 @@ export const micronesiaLifeV2: POI[] = [
       en: ["UNESCO Biosphere Reserve since 2008.", "Consists of 13 uninhabited islands.", "Large population of green sea turtles.", "Rich coral diversity within the lagoon."],
     },
     imageHint: "Aerial view of a tropical coral atoll with turquoise lagoon",
+    descriptionAdvanced: {
+      de: "Das Ant-Atoll vor der Küste von Pohnpei ist ein nahezu unberührtes Korallenatoll und Teil eines UNESCO-Biosphärenreservats. Es zeichnet sich durch kristallklares Wasser, weiße Sandstrände und eine außergewöhnliche biologische Vielfalt aus. Das Atoll beherbergt wichtige Nistplätze für Seevögel und bietet einen geschützten Lebensraum für zahlreiche Meeresbewohner. Es gilt als eines der wertvollsten Ökosysteme in den Föderierten Staaten von Mikronesien.",
+      hu: "A Pohnpei partjainál fekvő Ant-atoll egy szinte érintetlen korallzátony, amely az UNESCO bioszféra-rezervátum része. Kristálytiszta víz, fehér homokos strandok és rendkívüli biológiai sokféleség jellemzi. Az atoll fontos fészkelőhely a tengeri madarak számára, és védett élőhelyet biztosít számos tengeri fajnak. Mikronézia egyik legértékesebb ökoszisztémájaként tartják számon.",
+      ro: "Atolul Ant, situat în largul coastei Pohnpei, este un atol de corali aproape virgin, parte a unei Rezervații a Biosferei UNESCO. Se caracterizează prin ape cristaline, plaje cu nisip alb și o biodiversitate marină excepțională. Atolul găzduiește situri importante de cuibărit pentru păsările marine și un habitat protejat pentru numeroase specii. Este considerat unul dintre cele mai valoroase ecosisteme din FSM.",
+      en: "Ant Atoll, located off the coast of Pohnpei, is a nearly pristine coral atoll and part of a UNESCO Biosphere Reserve. It is characterized by crystal-clear waters, white sand beaches, and exceptional marine biodiversity. The atoll hosts vital nesting sites for seabirds and provides a protected habitat for numerous marine species. It is regarded as one of the most valuable ecosystems in the Federated States of Micronesia.",
+    },
+    factsAdvanced: {
+      de: ["Das Atoll besteht aus 13 kleinen Inseln (Motus).", "Es liegt etwa 18 Kilometer westlich von Pohnpei.", "Das UNESCO-Biosphärenreservat wurde 2008 eingerichtet.", "Es ist ein wichtiges Brutgebiet für die Rußseeschwalbe.", "Die Gewässer beherbergen gesunde Populationen von Riffhaien.", "Der Zugang zum Atoll wird zum Schutz der Natur streng kontrolliert."],
+      hu: ["Az atoll 13 apró szigetből (motu) áll.", "Körülbelül 18 kilométerre nyugatra fekszik Pohnpeitől.", "Az UNESCO bioszféra-rezervátumot 2008-ban hozták létre.", "Fontos költőhelye a füstös cséreknek.", "Vizeiben egészséges szirticápa-populációk élnek.", "A természet védelme érdekében az atoll látogatását szigorúan ellenőrzik."],
+      ro: ["Atolul este format din 13 insulițe mici (motus).", "Se află la aproximativ 18 kilometri vest de Pohnpei.", "Rezervația Biosferei UNESCO a fost stabilită în anul 2008.", "Este o zonă de reproducere crucială pentru rândunicile de mare.", "Apele atolului adăpostesc populații sănătoase de rechini de recif.", "Accesul este controlat strict pentru a proteja mediul natural fragil."],
+      en: ["The atoll consists of 13 small islets known as motus.", "It is situated approximately 18 kilometers west of Pohnpei.", "The UNESCO Biosphere Reserve was established in 2008.", "It is a major breeding ground for the sooty tern.", "The waters support healthy populations of grey reef sharks.", "Access to the atoll is strictly managed to preserve its ecology."],
+    },
   },
   {
     id: "micronesia-yela-ka-forest-life-v2",
@@ -38,6 +50,18 @@ export const micronesiaLifeV2: POI[] = [
       en: ["Protected area covers 590 hectares.", "Home to the endemic Kosrae flying fox.", "Contains ancient Ka trees.", "Critical habitat for migratory birds."],
     },
     imageHint: "Dense tropical freshwater swamp forest with large buttress roots",
+    descriptionAdvanced: {
+      de: "Der Yela Ka Wald auf der Insel Kosrae beherbergt den weltweit größten verbliebenen Bestand an Ka-Bäumen (Terminalia carolinensis). Dieser seltene Süßwassersumpfwald ist ein ökologisches Juwel und bietet Lebensraum für endemische Vogelarten. Die majestätischen Bäume mit ihren markanten Brettwurzeln erreichen eine beeindruckende Höhe. Der Schutz dieses Gebiets ist entscheidend für den Erhalt der einzigartigen biologischen Vielfalt von Kosrae.",
+      hu: "A Kosrae szigetén található Yela Ka erdő ad otthont a világ legnagyobb megmaradt Ka-fa (Terminalia carolinensis) állományának. Ez a ritka édesvízi mocsári erdő ökológiai kincs, amely endemikus madárfajoknak biztosít élőhelyet. A fenséges fák jellegzetes palánkgyökereikkel lenyűgöző magasságokat érnek el. A terület védelme kulcsfontosságú Kosrae egyedülálló biológiai sokféleségének megőrzéséhez.",
+      ro: "Pădurea Yela Ka de pe insula Kosrae găzduiește cea mai mare populație rămasă de arbori Ka (Terminalia carolinensis) din lume. Această pădure rară de mlaștină cu apă dulce este o bijuterie ecologică, oferind habitat pentru specii de păsări endemice. Arborii maiestuoși, cu rădăcini tabulare distincte, ating înălțimi impresionante. Protejarea acestei zone este vitală pentru conservarea biodiversității din Kosrae.",
+      en: "The Yela Ka Forest on Kosrae Island houses the world's largest remaining stand of Ka trees (Terminalia carolinensis). This rare freshwater swamp forest is an ecological jewel, providing a habitat for endemic bird species. The majestic trees, with their distinctive buttress roots, reach impressive heights. Protecting this area is crucial for the conservation of Kosrae's unique biological diversity.",
+    },
+    factsAdvanced: {
+      de: ["Der Wald erstreckt sich über eine Fläche von etwa 80 Hektar.", "Ka-Bäume sind im westlichen Pazifik endemisch.", "Einige Bäume sind Schätzungen zufolge über 150 Jahre alt.", "Der Wald wird durch eine Naturschutzvereinbarung privat verwaltet.", "Er ist einer der letzten intakten Sumpfwälder dieser Art.", "Die Gegend ist nur per Boot oder über einen Wanderpfad erreichbar."],
+      hu: ["Az erdő körülbelül 80 hektáros területet foglal el.", "A Ka-fák a Csendes-óceán nyugati részén endemikusak.", "Néhány fa becslések szerint több mint 150 éves.", "Az erdőt magántermészetvédelmi megállapodás keretében kezelik.", "Ez az egyik utolsó érintetlen édesvízi mocsári erdő a világon.", "A terület csak csónakkal vagy gyalogösvényen közelíthető meg."],
+      ro: ["Pădurea se întinde pe o suprafață de aproximativ 80 de hectare.", "Arborii Ka sunt endemici în regiunea vestică a Pacificului.", "Se estimează că unii arbori au o vechime de peste 150 de ani.", "Pădurea este gestionată printr-un acord de conservare privată.", "Este una dintre ultimele păduri de mlaștină intacte de acest tip.", "Accesul în zonă se face doar cu barca sau pe poteci pedestre."],
+      en: ["The forest covers an area of approximately 80 hectares.", "Ka trees are endemic to the western Pacific region.", "Some trees in the forest are estimated to be over 150 years old.", "The forest is managed under a private conservation easement.", "It is one of the last intact swamp forests of its kind globally.", "The area is accessible only by boat or via a hiking trail."],
+    },
   },
   {
     id: "micronesia-mount-finkol-life-v2",
@@ -57,6 +81,18 @@ export const micronesiaLifeV2: POI[] = [
       en: ["Elevation of 634 meters.", "Home to the endemic Kosrae white-eye.", "Unique montane flora found here.", "Steep trails lead through virgin jungle."],
     },
     imageHint: "Cloud-covered tropical mountain peak with lush vegetation",
+    descriptionAdvanced: {
+      de: "Der Mount Finkol ist mit 634 Metern der höchste Gipfel der Insel Kosrae. Der Berg ist von dichtem, tropischem Regenwald und Nebelwäldern bedeckt, die eine hohe Konzentration an endemischen Pflanzenarten beherbergen. Wanderungen zum Gipfel bieten spektakuläre Ausblicke über die gesamte Insel und die umliegenden Korallenriffe. Er ist ein zentrales Symbol der natürlichen Schönheit und der geologischen Geschichte von Kosrae.",
+      hu: "A Mount Finkol 634 méteres magasságával Kosrae szigetének legmagasabb pontja. A hegyet sűrű trópusi esőerdő és köderdő borítja, amely számos endemikus növényfajnak ad otthont. A csúcsra vezető túrák látványos kilátást nyújtanak az egész szigetre és a környező korallzátonyokra. A hegy Kosrae természeti szépségének és geológiai múltjának központi szimbóluma.",
+      ro: "Muntele Finkol, cu o înălțime de 634 de metri, este cel mai înalt vârf de pe insula Kosrae. Muntele este acoperit de o pădure tropicală densă și păduri de nori care adăpostesc numeroase specii de plante endemice. Traseele către vârf oferă vederi spectaculoase asupra întregii insule și a recifelor de corali. Este un simbol central al frumuseții naturale și al istoriei geologice a insulei.",
+      en: "Mount Finkol, standing at 634 meters, is the highest peak on the island of Kosrae. The mountain is draped in dense tropical rainforest and cloud forests that harbor a high concentration of endemic plant species. Hiking to the summit provides spectacular views over the entire island and its surrounding coral reefs. It stands as a central symbol of Kosrae's natural beauty and geological history.",
+    },
+    factsAdvanced: {
+      de: ["Die Gipfelhöhe beträgt genau 634 Meter über dem Meeresspiegel.", "Der Berg besteht hauptsächlich aus vulkanischem Gestein.", "Oben herrscht ein kühleres und feuchteres Mikroklima.", "Die Wanderung zum Gipfel dauert etwa 6 bis 8 Stunden.", "Er beherbergt seltene Farne und Orchideenarten.", "Vom Gipfel aus kann man bei klarer Sicht die Insel Lelu sehen."],
+      hu: ["A csúcs magassága 634 méter a tengerszint felett.", "A hegy szerkezete főként vulkáni kőzetekből épül fel.", "A hegytetőn hűvösebb és nedvesebb mikroklíma uralkodik.", "A csúcsra vezető túra oda-vissza kb. 6-8 órát vesz igénybe.", "Ritka páfrányok és orchideafajok találhatók a hegyoldalakon.", "Tiszta időben a csúcsról jól látható Lelu szigete is."],
+      ro: ["Vârful are o altitudine de exact 634 de metri deasupra mării.", "Muntele este format în principal din roci vulcanice.", "La înălțime domină un microclimat mai răcoros și umed.", "Traseul până la vârf durează între 6 și 8 ore tur-retur.", "Găzduiește specii rare de ferigi și orhidee tropicale.", "De pe vârf se poate vedea insula Lelu în zilele senine."],
+      en: ["The summit elevation is exactly 634 meters above sea level.", "The mountain is primarily composed of volcanic rock formations.", "The upper slopes feature a cooler and more humid microclimate.", "The hike to the summit takes approximately 6 to 8 hours.", "It is home to rare species of ferns and tropical orchids.", "On clear days, the islet of Lelu is visible from the peak."],
+    },
   },
   {
     id: "micronesia-chuuk-lagoon-reefs-life-v2",
@@ -76,6 +112,18 @@ export const micronesiaLifeV2: POI[] = [
       en: ["Area of over 2,000 square kilometers.", "Over 200 coral species identified.", "Frequent sightings of reef sharks.", "Important site for sea turtles."],
     },
     imageHint: "Vibrant underwater coral reef with tropical fish and clear water",
+    descriptionAdvanced: {
+      de: "Die Riffe der Chuuk-Lagune gehören zu den vielfältigsten marinen Ökosystemen der Welt. Sie umschließen eines der größten Atolle des Pazifiks und bieten einen Lebensraum für hunderte Korallen- und Fischarten. Bekannt wurde die Lagune vor allem durch die Wracks des Zweiten Weltkriegs, die heute künstliche Riffe bilden. Diese einzigartige Kombination aus Natur und Geschichte macht Chuuk zu einem weltweit führenden Ziel für Taucher.",
+      hu: "A Chuuk-lagúna zátonyai a világ legsokszínűbb tengeri ökoszisztémái közé tartoznak. A Csendes-óceán egyik legnagyobb atollját alkotják, amely több száz korall- és halfajnak ad otthont. A lagúna elsősorban a második világháborús roncsairól ismert, amelyek ma mesterséges zátonyként funkcionálnak. A természet és a történelem ezen különleges ötvözete világszerte a búvárok kedvelt célpontjává teszi.",
+      ro: "Recifele din laguna Chuuk fac parte din cele mai diverse ecosisteme marine din lume. Acestea înconjoară unul dintre cele mai mari atoluri din Pacific, oferind habitat pentru sute de specii de corali și pești. Laguna este celebră mai ales pentru epavele din al Doilea Război Mondial, care acum formează recife artificiale. Această combinație unică de natură și istorie transformă Chuuk într-o destinație globală pentru scafandri.",
+      en: "The Chuuk Lagoon reefs are among the most diverse marine ecosystems in the world. They encircle one of the largest atolls in the Pacific, providing a habitat for hundreds of coral and fish species. The lagoon is primarily famous for its World War II shipwrecks, which now function as vibrant artificial reefs. This unique blend of nature and history makes Chuuk a world-class destination for divers.",
+    },
+    factsAdvanced: {
+      de: ["Die Lagune hat einen Durchmesser von etwa 60 Kilometern.", "Es gibt über 50 bedeutende Schiffswracks am Grund.", "Über 200 Korallenarten wurden hier identifiziert.", "Die Riffe beherbergen Schildkröten und diverse Haiarten.", "Sichtweiten unter Wasser erreichen oft bis zu 30 Meter.", "Teile der Lagune sind als mariner Schutzraum ausgewiesen."],
+      hu: ["A lagúna átmérője megközelítőleg 60 kilométer.", "Több mint 50 jelentős hajóroncs fekszik a tengerfenéken.", "Több mint 200 korallfajt azonosítottak a zátonyokon.", "A zátonyok teknősöknek és különböző cápafajoknak adnak otthont.", "A víz alatti látótávolság gyakran eléri a 30 métert.", "A lagúna bizonyos részei tengeri védett területnek számítanak."],
+      ro: ["Laguna are un diametru de aproximativ 60 de kilometri.", "Peste 50 de epave majore de nave se află pe fundul lagunei.", "Au fost identificate peste 200 de specii de corali în zonă.", "Recifele adăpostesc țestoase marine și diverse specii de rechini.", "Vizibilitatea sub apă atinge adesea până la 30 de metri.", "Părți ale lagunei sunt declarate arii marine protejate."],
+      en: ["The lagoon has a diameter of approximately 60 kilometers.", "There are over 50 major shipwrecks resting on the lagoon floor.", "More than 200 species of coral have been identified here.", "The reefs support sea turtles and various species of sharks.", "Underwater visibility often reaches up to 30 meters.", "Specific areas of the lagoon are designated as marine sanctuaries."],
+    },
   },
   {
     id: "micronesia-pohnpei-mangroves-life-v2",
@@ -95,6 +143,18 @@ export const micronesiaLifeV2: POI[] = [
       en: ["Cover approximately 5,500 hectares.", "Home to the endemic Pohnpei honeyeater.", "Important carbon sequestration site.", "Provide protection from coastal erosion."],
     },
     imageHint: "Dense mangrove forest with complex root systems at the water edge",
+    descriptionAdvanced: {
+      de: "Die Mangrovenwälder von Pohnpei bilden einen dichten Gürtel entlang der Küste der Insel. Diese Ökosysteme spielen eine entscheidende Rolle beim Schutz vor Küstenerosion und dienen als Kinderstube für zahlreiche Fisch- und Krustentierarten. Sie filtern Sedimente aus dem abfließenden Regenwasser und sichern so die Gesundheit der Korallenriffe. Die Mangroven sind zudem ein wichtiger Teil der lokalen Kultur und bieten traditionelle Ressourcen für die Bewohner.",
+      hu: "Pohnpei mangroveerdei sűrű övet alkotnak a sziget partvonala mentén. Ezek az ökoszisztémák kulcsszerepet játszanak a part menti erózió elleni védelemben, és számos hal- és rákfaj ivadéknevelő helyei. Megszűrik az esővízből származó üledéket, ezzel biztosítva a korallzátonyok egészségét. A mangrovék a helyi kultúra fontos részei is, hagyományos erőforrásokat biztosítva a lakosságnak.",
+      ro: "Pădurile de mangrove din Pohnpei formează o centură densă de-a lungul liniei de coastă a insulei. Aceste ecosisteme joacă un rol crucial în protecția împotriva eroziunii și servesc drept pepiniere pentru numeroase specii de pești. Ele filtrează sedimentele din apele pluviale, asigurând sănătatea recifelor de corali. Mangrovele sunt, de asemenea, o parte importantă a culturii locale, oferind resurse tradiționale.",
+      en: "The mangrove forests of Pohnpei form a dense belt along the island's coastline. These ecosystems play a critical role in protecting against coastal erosion and serve as nurseries for numerous fish and crustacean species. They filter sediments from runoff water, thereby ensuring the health of the surrounding coral reefs. The mangroves are also an integral part of local culture, providing traditional resources for residents.",
+    },
+    factsAdvanced: {
+      de: ["Etwa 15% der Inselfläche von Pohnpei sind von Mangroven bedeckt.", "Es gibt hier mindestens 10 verschiedene Mangrovenbaumarten.", "Sie schützen das Binnenland vor Sturmfluten und Taifunen.", "Kanus sind das traditionelle Fortbewegungsmittel in den Kanälen.", "Die Wälder beherbergen die seltene Pohnpei-Berghonigfresser.", "Mangrovenkrabben sind eine wichtige lokale Nahrungsquelle."],
+      hu: ["Pohnpei területének körülbelül 15%-át borítják mangrovék.", "Legalább 10 különböző mangrovefafaj él a szigeten.", "Védik a szárazföldet a vihardagályoktól és tájfunoktól.", "A csatornákban a kenu a hagyományos közlekedési eszköz.", "Az erdőkben él a ritka pohnpei mézevő madár.", "A mangroverákok fontos helyi élelmiszerforrást jelentenek."],
+      ro: ["Aproximativ 15% din suprafața insulei Pohnpei este acoperită de mangrove.", "Există cel puțin 10 specii diferite de arbori de mangrovă aici.", "Acestea protejează interiorul insulei de furtuni și taifunuri.", "Canoele sunt mijlocul tradițional de transport prin canale.", "Pădurile găzduiesc specii rare de păsări endemice.", "Crabii de mangrovă reprezintă o sursă importantă de hrană locală."],
+      en: ["About 15% of Pohnpei's total land area is covered by mangroves.", "At least 10 different species of mangrove trees are found here.", "They protect the inland areas from storm surges and typhoons.", "Canoes are the traditional mode of transport within the channels.", "The forests are home to the endemic Pohnpei honeyeater bird.", "Mangrove crabs are a vital source of protein for the local diet."],
+    },
   },
   {
     id: "micronesia-yap-manta-sanctuary-life-v2",
@@ -114,6 +174,18 @@ export const micronesiaLifeV2: POI[] = [
       en: ["World's first manta ray sanctuary.", "Year-round sightings are possible.", "Known cleaning stations in Mi'il Channel.", "Individuals identified by belly patterns."],
     },
     imageHint: "Manta ray swimming in clear blue tropical water",
+    descriptionAdvanced: {
+      de: "Das Yap Manta Sanctuary ist das erste Schutzgebiet seiner Art weltweit, das speziell für Mantarochen eingerichtet wurde. Yap ist berühmt für seine ganzjährige Population dieser majestätischen Tiere, die regelmäßig 'Putzstationen' in den Kanälen des Riffs aufsuchen. Der Schutzstatus sichert das Überleben der Rochen und fördert den nachhaltigen Ökotourismus. Taucher aus aller Welt kommen hierher, um die sanften Riesen in ihrem natürlichen Lebensraum zu beobachten.",
+      hu: "A Yap Manta Sanctuary a világ első olyan védett területe, amelyet kifejezetten az óriás mantaráják számára hoztak létre. Yap híres az egész évben itt tartózkodó mantapopulációjáról, amelyek rendszeresen látogatják a zátonyok csatornáiban található 'tisztítóállomásokat'. A védettség biztosítja a ráják túlélését és segíti a fenntartható ökoturizmust. A búvárok a világ minden tájáról érkeznek ide a tengeri óriások megfigyelésére.",
+      ro: "Sanctuarul de Manta din Yap este prima arie protejată de acest tip din lume, creată special pentru diavolii de mare. Yap este celebră pentru populația sa permanentă de mante, care frecventează regulat 'stațiile de curățare' din canalele recifului. Statutul de protecție asigură supraviețuirea acestor animale și promovează ecoturismul durabil. Scafandri din întreaga lume vin aici pentru a observa acești giganți blânzi.",
+      en: "The Yap Manta Sanctuary is the world's first protected area established specifically for manta rays. Yap is famous for its year-round population of these majestic animals, which regularly visit 'cleaning stations' within the reef channels. The sanctuary status ensures the survival of the rays and promotes sustainable ecotourism. Divers from around the globe visit the site to observe these gentle giants in their natural habitat.",
+    },
+    factsAdvanced: {
+      de: ["Das Schutzgebiet wurde im Jahr 2008 offiziell eingerichtet.", "Es umfasst eine Fläche von über 21.000 Quadratmeilen.", "Yap hat über 100 individuell identifizierte Mantarochen.", "Die Rochen können eine Spannweite von bis zu 7 Metern erreichen.", "Milos Kanal ist einer der bekanntesten Beobachtungsorte.", "Der Export von Mantarochen-Teilen ist in Yap streng verboten."],
+      hu: ["A védett területet hivatalosan 2008-ban hozták létre.", "Területe több mint 21 000 négyzetmérföldet foglal el.", "Yap vizeiben több mint 100 egyedileg azonosított mantarája él.", "A ráják úszófesztávolsága elérheti a 7 métert is.", "A Milos-csatorna az egyik leghíresebb megfigyelőhely.", "A mantaráják részeinek exportja szigorúan tilos Yap államban."],
+      ro: ["Sanctuarul a fost înființat oficial în cursul anului 2008.", "Acoperă o suprafață de peste 21.000 de mile pătrate.", "În Yap au fost identificate individual peste 100 de mante.", "Anvergura aripilor acestor pești poate atinge până la 7 metri.", "Canalul Milos este unul dintre cele mai faimoase puncte de observație.", "Exportul oricăror părți de manta este strict interzis în statul Yap."],
+      en: ["The sanctuary was officially established in late 2008.", "It covers an expansive area of over 21,000 square miles.", "Yap has more than 100 individually identified manta rays.", "The rays can have a wingspan reaching up to 7 meters.", "Milos Channel is one of the most famous observation spots.", "The export of manta ray products is strictly prohibited in Yap."],
+    },
   },
   {
     id: "micronesia-mount-nahna-laud-life-v2",
@@ -133,6 +205,18 @@ export const micronesiaLifeV2: POI[] = [
       en: ["Highest point of Pohnpei (798 meters).", "One of the wettest places on Earth.", "Home to rare orchid species.", "Critical watershed for the island's rivers."],
     },
     imageHint: "Lush green tropical mountain ridge in heavy rain or mist",
+    descriptionAdvanced: {
+      de: "Der Mount Nahna Laud ist mit fast 800 Metern der zweithöchste Berg Pohnpeis und bekannt für seine extrem hohen Niederschlagsmengen. Sein Name bedeutet in der lokalen Sprache 'Großer Berg'. Die Hänge sind mit dichten Nebelwäldern bedeckt, die eine Vielzahl endemischer Arten beherbergen. Er ist ein wichtiger Wasserspeicher für die Insel und speist zahlreiche Wasserfälle und Flüsse, die Pohnpei so grün und wasserreich machen.",
+      hu: "A Mount Nahna Laud közel 800 méteres magasságával Pohnpei második legmagasabb hegye, amely rendkívül magas csapadékmennyiségéről ismert. Neve a helyi nyelven 'Nagy Hegyet' jelent. Oldalait sűrű köderdők borítják, amelyek számos endemikus fajnak adnak otthont. Fontos víztározó a sziget számára, mivel számos folyót és vízesést táplál, amelyek Pohnpei dús növényzetét biztosítják.",
+      ro: "Muntele Nahna Laud, cu o înălțime de aproape 800 de metri, este al doilea cel mai înalt vârf din Pohnpei, fiind renumit pentru precipitațiile sale abundente. Numele său înseamnă 'Muntele cel Mare' în limba locală. Versanții sunt acoperiți de păduri de nori care adăpostesc numeroase specii endemice. Este un rezervor vital de apă pentru insulă, alimentând numeroase râuri și cascade.",
+      en: "Mount Nahna Laud, reaching nearly 800 meters, is the second-highest peak on Pohnpei and is renowned for its extremely high rainfall. Its name translates to 'Big Mountain' in the local language. The slopes are covered in dense cloud forests that harbor a variety of endemic species. It serves as a vital water catchment area for the island, feeding the numerous rivers and waterfalls that define Pohnpei's lush landscape.",
+    },
+    factsAdvanced: {
+      de: ["Der Gipfel liegt etwa 798 Meter über dem Meeresspiegel.", "Es ist einer der regenreichsten Orte der Erde.", "Jährlich fallen hier über 8.000 mm Niederschlag.", "Der Berg beherbergt den endemischen Pohnpei-Fliegenschnäpper.", "Die Vegetation besteht größtenteils aus Zwergwäldern.", "Er ist ein zentraler Bestandteil des Pohnpei Watershed Forest Reserve."],
+      hu: ["A csúcs magassága 798 méter a tengerszint felett.", "A Föld egyik legcsapadékosabb pontjaként tartják számon.", "Az éves csapadékmennyiség meghaladja a 8000 mm-t.", "A hegyen él az endemikus pohnpei légykapó madár.", "A növényzet nagy részét törpeerdők alkotják.", "Központi része a Pohnpei Vízgyűjtő Erdőrezervátumnak."],
+      ro: ["Vârful are o altitudine de aproximativ 798 de metri.", "Este considerat unul dintre cele mai ploioase locuri de pe Pământ.", "Precipitațiile anuale depășesc adesea 8.000 mm.", "Muntele găzduiește specia endemică de pasăre Pohnpei flycatcher.", "Vegetația de pe vârf este formată în principal din păduri pitice.", "Este o componentă centrală a Rezervației Forestiere din Pohnpei."],
+      en: ["The summit reaches approximately 798 meters above sea level.", "It is one of the wettest locations on the entire planet.", "Annual rainfall at the peak exceeds 8,000 mm.", "The mountain is home to the endemic Pohnpei flycatcher bird.", "The upper vegetation consists largely of stunted dwarf forests.", "It is a key part of the Pohnpei Watershed Forest Reserve."],
+    },
   },
   {
     id: "micronesia-kosrae-mangrove-reserve-life-v2",
@@ -152,6 +236,18 @@ export const micronesiaLifeV2: POI[] = [
       en: ["Trees reach heights of 30 meters.", "Essential for the local food chain.", "Protects the coast from typhoons.", "Area can be explored by canoe."],
     },
     imageHint: "Kayaking through tall mangrove trees with clear water channels",
+    descriptionAdvanced: {
+      de: "Das Mangrovenschutzgebiet von Kosrae beherbergt eines der am besten erhaltenen Küstenökosysteme im Pazifik. Es schützt die Insel vor Erosion und dient als wichtige Kinderstube für zahlreiche Rifffische. Die dichten Wälder bestehen primär aus den Arten Sonneratia alba und Rhizophora apiculata. Dieses Ökosystem ist für die lokale Artenvielfalt und den Küstenschutz von entscheidender Bedeutung.",
+      hu: "Kosrae mangrove-rezervátuma a Csendes-óceán egyik legjobb állapotban fennmaradt tengerparti ökoszisztémája. Megvédi a szigetet az eróziótól és fontos bölcsőhelyként szolgál számos korallszirti halfaj számára. A sűrű erdők elsősorban Sonneratia alba és Rhizophora apiculata fajokból állnak. Ez az ökoszisztéma kulcsfontosságú a helyi biológiai sokféleség és a partvédelem szempontjából.",
+      ro: "Rezervația de mangrove din Kosrae găzduiește unul dintre cele mai bine conservate ecosisteme de coastă din Pacific. Aceasta protejează insula împotriva eroziunii și servește ca zonă de reproducere importantă pentru numeroase specii de pești de recif. Pădurile dense sunt compuse în principal din speciile Sonneratia alba și Rhizophora apiculata. Acest ecosistem este vital pentru biodiversitatea locală și protecția costieră.",
+      en: "The Kosrae Mangrove Reserve hosts one of the best-preserved coastal ecosystems in the Pacific. It protects the island from erosion and serves as a vital nursery for numerous reef fish species. The dense forests primarily consist of Sonneratia alba and Rhizophora apiculata species. This ecosystem is crucial for local biodiversity and coastal defense against storms.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt 10 verschiedene Mangrovenarten", "Bäume erreichen Höhen von bis zu 30 Metern", "Schützt die Insel vor Taifun-Wellen", "Wichtiger Lebensraum für die Mangrovenkrabbe", "Teil eines größeren Biosphärenreservats", "Umspannt weite Teile der Küstenlinie von Kosrae"],
+      hu: ["10 különböző mangrovefajnak ad otthont", "A fák akár 30 méteres magasságot is elérhetnek", "Megvédi a szigetet a tájfunok hullámaitól", "A mangroverák fontos élőhelye", "Egy nagyobb bioszféra-rezervátum része", "Kosrae partvonalának jelentős részét lefedi"],
+      ro: ["Găzduiește 10 specii diferite de mangrove", "Copacii ating înălțimi de până la 30 de metri", "Protejează insula de valurile taifunurilor", "Habitat important pentru crabul de mangrovă", "Parte a unei rezervații mai mari a biosferei", "Acoperă părți extinse ale liniei de coastă din Kosrae"],
+      en: ["Home to 10 different mangrove species", "Trees reach heights of up to 30 meters", "Protects the island from typhoon surges", "Important habitat for the mangrove crab", "Part of a larger biosphere reserve area", "Covers extensive parts of Kosrae's coastline"],
+    },
   },
   {
     id: "micronesia-oroluk-atoll-life-v2",
@@ -171,6 +267,18 @@ export const micronesiaLifeV2: POI[] = [
       en: ["Major nesting site for green turtles.", "Encompasses a massive lagoon.", "Large colonies of nesting seabirds.", "Administratively part of Pohnpei State."],
     },
     imageHint: "Remote sandy islet with sea turtle tracks in the sand",
+    descriptionAdvanced: {
+      de: "Das Oroluk-Atoll ist ein abgelegenes Korallenatoll im Bundesstaat Pohnpei, das für seine reiche Meeresfauna bekannt ist. Es umfasst eine große Lagune mit einer Fläche von etwa 420 Quadratkilometern, während die Landfläche minimal ist. Das Atoll ist ein bedeutender Nistplatz für Grüne Meeresschildkröten und verschiedene Seevögel. Aufgrund seiner Isolation ist das Ökosystem weitgehend ungestört geblieben.",
+      hu: "Az Oroluk-atoll egy távoli korallzátony Pohnpei államban, amely gazdag tengeri élővilágáról ismert. Egy hatalmas, körülbelül 420 négyzetkilométeres lagúnát foglal magában, miközben a szárazföldi terület minimális. Az atoll a közönséges levesteknősök és különféle tengeri madarak jelentős fészkelőhelye. Izoláltsága miatt az ökoszisztéma nagyrészt érintetlen maradt.",
+      ro: "Atolul Oroluk este un atol de corali izolat din statul Pohnpei, cunoscut pentru fauna sa marină bogată. Acesta cuprinde o lagună vastă cu o suprafață de aproximativ 420 de kilometri pătrați, în timp ce suprafața terestră este minimă. Atolul este un loc important de cuibărit pentru țestoasele verzi și diverse păsări marine. Datorită izolării sale, ecosistemul a rămas în mare parte neperturbat.",
+      en: "Oroluk Atoll is a remote coral atoll in Pohnpei State, known for its rich marine fauna. It encompasses a vast lagoon covering approximately 420 square kilometers, while the land area is minimal. The atoll is a significant nesting site for green sea turtles and various seabirds. Due to its isolation, the ecosystem has remained largely undisturbed by human activity.",
+    },
+    factsAdvanced: {
+      de: ["Lagunenfläche beträgt ca. 420 km²", "Bedeutender Nistplatz für Suppenschildkröten", "Gehört administrativ zum Bundesstaat Pohnpei", "Die Insel Oroluk ist fast unbewohnt", "Umfasst Korallenriffe von hoher Biodiversität", "Wurde 1827 von europäischen Seefahrern gesichtet"],
+      hu: ["A lagúna területe kb. 420 km²", "A közönséges levesteknősök fontos fészkelőhelye", "Közigazgatásilag Pohnpei államhoz tartozik", "Oroluk szigete szinte lakatlan", "Nagy biológiai sokféleségű korallzátonyokat tartalmaz", "Európai tengerészek 1827-ben észlelték"],
+      ro: ["Suprafața lagunei este de aproximativ 420 km²", "Loc de cuibărit important pentru țestoasele verzi", "Aparține administrativ de statul Pohnpei", "Insula Oroluk este aproape nelocuită", "Include recife de corali cu biodiversitate ridicată", "A fost observat de navigatorii europeni în 1827"],
+      en: ["Lagoon area is approximately 420 km²", "Major nesting site for green sea turtles", "Administratively part of Pohnpei State", "Oroluk Island is almost uninhabited", "Features coral reefs of high biodiversity", "Sighted by European navigators in 1827"],
+    },
   },
   {
     id: "micronesia-kapingamarangi-marine-life-v2",
@@ -190,6 +298,18 @@ export const micronesiaLifeV2: POI[] = [
       en: ["Polynesian outlier in Micronesia.", "Incredible underwater visibility.", "Abundant fish stocks in the lagoon.", "Consists of over 30 small islets."],
     },
     imageHint: "Crystal clear turquoise water with coral heads visible from above",
+    descriptionAdvanced: {
+      de: "Kapingamarangi ist das südlichste Atoll der Föderierten Staaten von Mikronesien und eine polynesische Exklave. Das Atoll zeichnet sich durch eine tiefe, klare Lagune aus, die von 33 kleinen Inseln umgeben ist. Die Meeresfauna ist außergewöhnlich vielfältig und umfasst seltene Korallenformationen sowie große Populationen von Riffhaien. Die Bewohner leben in enger Abhängigkeit von den marinen Ressourcen der Lagune.",
+      hu: "Kapingamarangi a Mikronéziai Szövetségi Államok legdélebbi atollja és egy polinéz exklávé. Az atollt egy mély, tiszta lagúna jellemzi, amelyet 33 kis sziget vesz körül. A tengeri élővilág rendkívül változatos, ritka korallformációkat és jelentős szirti cápa populációkat foglal magában. A lakók szoros függőségben élnek a lagúna tengeri erőforrásaitól.",
+      ro: "Kapingamarangi este cel mai sudic atol al Statelor Federate ale Microneziei și o exclavă polineziană. Atolul se caracterizează printr-o lagună adâncă și limpede, înconjurată de 33 de insule mici. Fauna marină este excepțional de diversă, incluzând formațiuni de corali rare și populații mari de rechini de recif. Locuitorii trăiesc într-o dependență strânsă de resursele marine ale lagunei.",
+      en: "Kapingamarangi is the southernmost atoll of the Federated States of Micronesia and a Polynesian outlier. The atoll features a deep, clear lagoon surrounded by 33 small islets. The marine life is exceptionally diverse, featuring rare coral formations and large populations of reef sharks. The inhabitants live in close dependence on the lagoon's marine resources for their livelihoods.",
+    },
+    factsAdvanced: {
+      de: ["Südlichster Punkt Mikronesiens", "Umfasst insgesamt 33 kleine Inseln", "Die Lagune ist bis zu 80 Meter tief", "Bewohner sprechen eine polynesische Sprache", "Berühmt für traditionelle Schnitzkunst", "Entfernung nach Pohnpei beträgt ca. 740 km"],
+      hu: ["Mikronézia legdélebbi pontja", "Összesen 33 kis szigetből áll", "A lagúna mélysége eléri a 80 métert", "A lakók polinéz nyelvet beszélnek", "Híres a hagyományos fafaragásról", "Pohnpeitől való távolsága kb. 740 km"],
+      ro: ["Cel mai sudic punct al Microneziei", "Cuprinde un total de 33 de insule mici", "Laguna are o adâncime de până la 80 de metri", "Locuitorii vorbesc o limbă polineziană", "Faimos pentru arta tradițională a sculpturii", "Distanța până la Pohnpei este de aprox. 740 km"],
+      en: ["Southernmost point of Micronesia", "Comprises a total of 33 small islets", "The lagoon reaches depths of 80 meters", "Inhabitants speak a Polynesian language", "Famous for traditional wood carving arts", "Distance to Pohnpei is about 740 km"],
+    },
   },
   {
     id: "micronesia-pakin-atoll-life-v2",
@@ -209,6 +329,18 @@ export const micronesiaLifeV2: POI[] = [
       en: ["Famous for large schools of fish.", "Steep outer reefs drop to great depths.", "Home to rare black corals.", "Located close to Pohnpei island."],
     },
     imageHint: "Divers exploring a steep coral wall underwater",
+    descriptionAdvanced: {
+      de: "Pakin Atoll liegt nordwestlich von Pohnpei und ist ein beliebtes Ziel für Taucher aufgrund seiner steilen Riffwände. Das Atoll besteht aus fünf kleinen Inseln, die eine zentrale Lagune umschließen. Es ist bekannt für Sichtungen von Mantarochen und großen Schwärmen pelagischer Fische. Die geringe menschliche Besiedlung hat dazu beigetragen, dass die Korallengärten in ausgezeichnetem Zustand geblieben sind.",
+      hu: "A Pakin-atoll Pohnpeitől északnyugatra fekszik, és meredek zátonyfalai miatt a búvárok kedvelt célpontja. Az atoll öt kis szigetből áll, amelyek egy központi lagúnát zárnak körül. Ismert az ördögrája-észlelésekről és a nyílt tengeri halak nagy rajairól. Az alacsony lélekszámú lakosság hozzájárult ahhoz, hogy a korallkertek kiváló állapotban maradjanak.",
+      ro: "Atolul Pakin este situat la nord-vest de Pohnpei și este o destinație populară pentru scafandri datorită pereților săi abrupți de recif. Atolul este format din cinci insule mici care înconjoară o lagună centrală. Este cunoscut pentru observarea diavolilor de mare și a bancurilor mari de pești pelagici. Populația umană redusă a contribuit la menținerea grădinilor de corali într-o stare excelentă.",
+      en: "Pakin Atoll is located northwest of Pohnpei and is a popular destination for divers due to its steep reef walls. The atoll consists of five small islets enclosing a central lagoon. It is known for sightings of manta rays and large schools of pelagic fish. The low human population has helped keep the coral gardens in excellent condition over the decades.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus 5 bewaldeten Inseln", "Liegt ca. 30 km nordwestlich von Pohnpei", "Bekannt für Manta-Putzstationen", "Hunde sind auf dem Atoll verboten", "Traditionelle Fischereipraktiken bestehen fort", "Teil der Senyavin-Inselgruppe"],
+      hu: ["5 erdős szigetből áll", "Kb. 30 km-re északnyugatra fekszik Pohnpeitől", "Ismert az ördögráják tisztítóállomásairól", "A kutyák tartása tilos az atollon", "A hagyományos halászati módszerek fennmaradtak", "A Senyavin-szigetcsoport része"],
+      ro: ["Format din 5 insule împădurite", "Situat la aprox. 30 km nord-vest de Pohnpei", "Cunoscut pentru stațiile de curățare a mantelor", "Câinii sunt interziși pe atol", "Practicile tradiționale de pescuit persistă", "Parte a grupului de insule Senyavin"],
+      en: ["Consists of 5 forested islets", "Located approx. 30 km northwest of Pohnpei", "Known for manta ray cleaning stations", "Dogs are prohibited on the atoll", "Traditional fishing practices are still used", "Part of the Senyavin Islands group"],
+    },
   },
   {
     id: "micronesia-nanpil-river-life-v2",
@@ -228,6 +360,18 @@ export const micronesiaLifeV2: POI[] = [
       en: ["Feeds the Liduduhniap Waterfalls.", "Essential habitat for freshwater fish.", "Popular spot for nature observation.", "Primary drinking water source for Pohnpei."],
     },
     imageHint: "Tropical river flowing through dense jungle with a waterfall",
+    descriptionAdvanced: {
+      de: "Das Einzugsgebiet des Nanpil River auf Pohnpei ist ein kritisches Ökosystem, das sowohl die Trinkwasserversorgung als auch Energie liefert. Der Fluss fließt durch dichten Regenwald und bildet mehrere Kaskaden und natürliche Becken. In seinen Gewässern leben endemische Süßwasserarten, darunter seltene Grundeln und Krebstiere. Die Region ist auch ein wichtiger Rückzugsort für den endemischen Pohnpei-Lori.",
+      hu: "A Nanpil-folyó vízgyűjtő területe Pohnpeiben egy kritikus ökoszisztéma, amely ivóvizet és energiát is szolgáltat. A folyó sűrű esőerdőn folyik keresztül, több vízesést és természetes medencét alkotva. Vizeiben endemikus édesvízi fajok élnek, köztük ritka gébfélék és rákfélék. A régió egyben fontos menedékhelye az endemikus pohnpei-lorinak is.",
+      ro: "Bazinul râului Nanpil din Pohnpei este un ecosistem critic care furnizează atât apă potabilă, cât și energie. Râul curge prin pădurea tropicală densă, formând mai multe cascade și bazine naturale. În apele sale trăiesc specii endemice de apă dulce, inclusiv guvizi rari și crustacee. Regiunea este, de asemenea, un refugiu important pentru lorichetul endemic de Pohnpei.",
+      en: "The Nanpil River basin on Pohnpei is a critical ecosystem providing both drinking water and hydroelectric energy. The river flows through dense rainforest, forming several cascades and natural pools. Its waters are home to endemic freshwater species, including rare gobies and crustaceans. The region is also an important sanctuary for the endemic Pohnpei Lorikeet.",
+    },
+    factsAdvanced: {
+      de: ["Standort des ersten Wasserkraftwerks Pohnpeis", "Wichtigste Trinkwasserquelle der Hauptstadt", "Beherbergt den endemischen Pohnpei-Lori", "Fließt durch unberührten Primärregenwald", "Bekannt für den Liduduhniap-Wasserfall", "Das Gebiet ist vulkanischen Ursprungs"],
+      hu: ["Pohnpei első vízerőművének helyszíne", "A főváros legfontosabb ivóvízforrása", "Az endemikus pohnpei-lori otthona", "Érintetlen elsődleges esőerdőn folyik át", "A Liduduhniap-vízesésről ismert", "A terület vulkáni eredetű"],
+      ro: ["Locul primei centrale hidroelectrice din Pohnpei", "Cea mai importantă sursă de apă a capitalei", "Găzduiește lorichetul endemic de Pohnpei", "Curge prin pădure tropicală primară intactă", "Cunoscut pentru cascada Liduduhniap", "Zona este de origine vulcanică"],
+      en: ["Site of Pohnpei's first hydroelectric plant", "Main source of drinking water for the capital", "Habitat for the endemic Pohnpei Lorikeet", "Flows through pristine primary rainforest", "Known for the Liduduhniap Waterfall", "The area is of volcanic origin"],
+    },
   },
   {
     id: "micronesia-ulithi-atoll-life-v2",
@@ -247,6 +391,18 @@ export const micronesiaLifeV2: POI[] = [
       en: ["Fourth largest atoll in the world.", "Vital nesting sites on its islets.", "Focus of sea turtle conservation projects.", "Administratively part of Yap State."],
     },
     imageHint: "Large tropical atoll with many small islands and vast lagoon",
+    descriptionAdvanced: {
+      de: "Das Ulithi-Atoll im Bundesstaat Yap verfügt über eine der weltweit größten Lagunen. Während des Zweiten Weltkriegs diente es als massiver Stützpunkt der US-Marine, doch heute ist es ein Paradies für Meeresbiologen. Die Riffe beherbergen eine enorme Vielfalt an Korallen und sind ein bedeutendes Brutgebiet für grüne Meeresschildkröten. Die lokale Kultur bewahrt strenge traditionelle Regeln zum Schutz der Meeresressourcen.",
+      hu: "A Yap államban található Ulithi-atoll a világ egyik legnagyobb lagúnájával rendelkezik. A második világháború alatt az amerikai haditengerészet hatalmas bázisaként szolgált, ma viszont a tengerbiológusok paradicsoma. A zátonyok a korallok óriási választékának adnak otthont, és a közönséges levesteknősök jelentős szaporodóhelyei. A helyi kultúra szigorú hagyományos szabályokat tart fenn a tengeri erőforrások védelmére.",
+      ro: "Atolul Ulithi din statul Yap are una dintre cele mai mari lagune din lume. În timpul celui de-al Doilea Război Mondial, a servit ca bază masivă pentru Marina SUA, dar astăzi este un paradis pentru biologii marini. Recifele găzduiesc o varietate enormă de corali și sunt o zonă de reproducere importantă pentru țestoasele verzi. Cultura locală menține reguli tradiționale stricte pentru protejarea resurselor marine.",
+      en: "Ulithi Atoll in Yap State boasts one of the world's largest lagoons. During World War II, it served as a massive U.S. Navy base, but today it is a paradise for marine biologists. The reefs host an enormous variety of corals and are a significant breeding ground for green sea turtles. Local culture maintains strict traditional management rules to protect marine resources.",
+    },
+    factsAdvanced: {
+      de: ["Viertgrößtes Atoll der Welt nach Lagunenfläche", "Beherbergte 1945 über 600 US-Kriegsschiffe", "Wichtigster Nistplatz für Schildkröten in Yap", "Besteht aus etwa 40 kleinen Inseln", "Die Lagunenfläche beträgt ca. 548 km²", "Traditionelle soziale Hierarchie ist noch aktiv"],
+      hu: ["A világ 4. legnagyobb atollja lagúna alapján", "1945-ben több mint 600 amerikai hajót fogadott", "Yap legfontosabb teknősfészkelő helye", "Körülbelül 40 kis szigetből áll", "A lagúna területe kb. 548 km²", "A hagyományos társadalmi hierarchia ma is él"],
+      ro: ["Al patrulea cel mai mare atol din lume după lagună", "A găzduit peste 600 de nave SUA în 1945", "Cel mai important loc de cuibărit din Yap", "Format din aproximativ 40 de insule mici", "Suprafața lagunei este de aprox. 548 km²", "Ierarhia socială tradițională este încă activă"],
+      en: ["4th largest atoll in the world by lagoon area", "Hosted over 600 U.S. ships in 1945", "Most important turtle nesting site in Yap", "Comprises about 40 small islets", "Lagoon area is approximately 548 km²", "Traditional social hierarchy is still active"],
+    },
   },
   {
     id: "micronesia-utwe-walung-park-life-v2",
@@ -266,6 +422,18 @@ export const micronesiaLifeV2: POI[] = [
       en: ["Features pristine water channels.", "Rich in fish and crustacean species.", "Guided eco-tours are available.", "Protects endemic species of the island."],
     },
     imageHint: "Protected marine area with shallow reefs and mangrove borders",
+    descriptionAdvanced: {
+      de: "Der Utwe-Walung Marine Park auf Kosrae ist ein von der UNESCO anerkanntes Biosphärenreservat. Es schützt ein komplexes Netzwerk aus Mangrovenkanälen, Korallenriffen und tropischen Regenwäldern. Das Gebiet ist bekannt für seine archäologischen Stätten, darunter die Menke-Ruinen, die mit der antiken Göttin Sinlaku in Verbindung gebracht werden. Es ist ein Musterbeispiel für gemeindebasierten Naturschutz im Pazifik.",
+      hu: "A kosrae-i Utwe-Walung Tengeri Park az UNESCO által elismert bioszféra-rezervátum. Mangrove-csatornák, korallzátonyok és trópusi esőerdők összetett hálózatát védi. A terület híres régészeti lelőhelyeiről, köztük a Menke-romokról, amelyeket Sinlaku ókori istennővel hoznak összefüggésbe. A csendes-óceáni közösségi alapú természetvédelem egyik mintapéldája.",
+      ro: "Parcul Marin Utwe-Walung din Kosrae este o rezervație a biosferei recunoscută de UNESCO. Acesta protejează o rețea complexă de canale de mangrove, recife de corali și păduri tropicale. Zona este cunoscută pentru siturile sale arheologice, inclusiv ruinele Menke, asociate cu zeița antică Sinlaku. Este un model de conservare comunitară în regiunea Pacificului.",
+      en: "The Utwe-Walung Marine Park on Kosrae is a UNESCO-recognized biosphere reserve. It protects a complex network of mangrove channels, coral reefs, and tropical rainforests. The area is famous for its archaeological sites, including the Menke ruins associated with the ancient goddess Sinlaku. It serves as a prime example of community-based conservation in the Pacific.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Biosphärenreservat seit 2005", "Schützt über 15 Quadratkilometer Fläche", "Beherbergt die heiligen Menke-Ruinen", "Zuhause für den endemischen Kosrae-Flughund", "Enthält intakte primäre Mangrovenwälder", "Bietet geführte Kanutouren durch Kanäle an"],
+      hu: ["UNESCO bioszféra-rezervátum 2005 óta", "Több mint 15 négyzetkilométert véd", "Itt találhatók a szent Menke-romok", "Az endemikus kosrae-i repülőkutya otthona", "Érintetlen elsődleges mangroveerdőket tartalmaz", "Vezetett kenu túrákat kínál a csatornákon"],
+      ro: ["Rezervație a biosferei UNESCO din 2005", "Protejează peste 15 kilometri pătrați", "Găzduiește ruinele sacre Menke", "Habitat pentru vulpea zburătoare de Kosrae", "Conține păduri de mangrove primare intacte", "Oferă tururi ghidate cu canoe prin canale"],
+      en: ["UNESCO Biosphere Reserve since 2005", "Protects over 15 square kilometers of area", "Home to the sacred Menke ruins", "Habitat for the endemic Kosrae flying fox", "Contains intact primary mangrove forests", "Offers guided canoe tours through the channels"],
+    },
   },
   {
     id: "micronesia-nukuoro-atoll-life-v2",
@@ -285,5 +453,17 @@ export const micronesiaLifeV2: POI[] = [
       en: ["Nearly perfect geometric atoll shape.", "Important breeding ground for seabirds.", "Home to rare fern species.", "Practices traditional sustainable fishing."],
     },
     imageHint: "Perfectly circular coral atoll viewed from space or high altitude",
+    descriptionAdvanced: {
+      de: "Nukuoro ist ein abgelegenes Atoll und eine polynesische Sprachinsel innerhalb der Föderierten Staaten von Mikronesien. Das Atoll besteht aus mehr als 40 Inselchen, die eine fast kreisförmige Lagune umschließen. Es ist historisch bekannt für seine einzigartigen hölzernen Götterstatuen, die Tino Aitu, die heute in Museen weltweit zu finden sind. Die Isolation hat eine sehr distinkte kulturelle und biologische Umgebung bewahrt.",
+      hu: "Nukuoro egy távoli atoll és egy polinéz nyelvi sziget a Mikronéziai Szövetségi Államokon belül. Az atoll több mint 40 szigetecskéből áll, amelyek egy majdnem kör alakú lagúnát zárnak körül. Történelmileg egyedülálló fából készült istenszobrai, a Tino Aitu révén ismert, amelyek ma a világ múzeumaiban láthatók. Az izoláció megőrizte a sajátos kulturális és biológiai környezetet.",
+      ro: "Nukuoro este un atol izolat și o insulă lingvistică polineziană în cadrul Statelor Federate ale Microneziei. Atolul este format din peste 40 de insulițe care înconjoară o lagună aproape circulară. Este cunoscut istoric pentru statuile sale unice de divinități din lemn, Tino Aitu, care se găsesc astăzi în muzee din întreaga lume. Izolarea a păstrat un mediu cultural și biologic foarte distinct.",
+      en: "Nukuoro is a remote atoll and a Polynesian outlier within the Federated States of Micronesia. The atoll consists of more than 40 islets enclosing an almost circular lagoon. It is historically famous for its unique wooden deity statues, called Tino Aitu, which are now found in museums worldwide. Its isolation has preserved a very distinct cultural and biological environment.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus 46 kleinen Inseln", "Lagunendurchmesser beträgt ca. 6 km", "Bekannt für die Tino Aitu Holzfiguren", "Die Bevölkerung spricht Nukuoro (Polynesisch)", "Wurde 1806 von Europäern wiederentdeckt", "Landfläche beträgt insgesamt nur 1,7 km²"],
+      hu: ["46 kis szigetből áll", "A lagúna átmérője kb. 6 km", "Híres a Tino Aitu fafaragványokról", "A lakosság nukuoro nyelven beszél", "Az európaiak 1806-ban fedezték fel újra", "A teljes szárazföldi terület mindössze 1,7 km²"],
+      ro: ["Format din 46 de insule mici", "Diametrul lagunei este de aprox. 6 km", "Cunoscut pentru figurile din lemn Tino Aitu", "Populația vorbește limba nukuoro", "Redescoperit de europeni în 1806", "Suprafața terestră totală este de doar 1,7 km²"],
+      en: ["Consists of 46 small islets", "Lagoon diameter is approximately 6 km", "Famous for Tino Aitu wooden carvings", "Population speaks Nukuoro (Polynesian)", "Rediscovered by Europeans in 1806", "Total land area is only 1.7 km²"],
+    },
   }
 ];

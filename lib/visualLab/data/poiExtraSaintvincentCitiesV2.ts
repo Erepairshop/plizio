@@ -19,6 +19,18 @@ export const saintvincentCitiesV2: POI[] = [
       en: ["Founded in the year 1722", "Home to an ancient botanical garden", "Site of St. George's Cathedral", "Major hub for banana exports"],
     },
     imageHint: "Kingstown waterfront and harbor with hills",
+    descriptionAdvanced: {
+      de: "Kingstown ist die Hauptstadt und das wirtschaftliche Zentrum von St. Vincent und den Grenadinen. Die Stadt liegt an der Südwestküste der Insel St. Vincent und ist bekannt für ihren geschäftigen Hafen und die koloniale Architektur. Mit ihren Kopfsteinpflasterstraßen und historischen Steingebäuden bewahrt Kingstown den Charakter einer wichtigen Hafenstadt der Kleinen Antillen aus dem 18. und 19. Jahrhundert.",
+      hu: "Kingstown Saint Vincent és a Grenadine-szigetek fővárosa, valamint gazdasági központja. A város Saint Vincent szigetének délnyugati partján fekszik, forgalmas kikötőjéről és gyarmati építészetéről ismert. Macskaköves utcáival és történelmi kőépületeivel Kingstown hűen őrzi a Kis-Antillák 18. és 19. századi jelentős kikötővárosainak jellegzetes hangulatát.",
+      ro: "Kingstown este capitala și centrul economic al statului Sfântul Vincențiu și Grenadinele. Orașul este situat pe coasta de sud-vest a insulei Sfântul Vincențiu, fiind cunoscut pentru portul său aglomerat și arhitectura colonială. Cu străzile sale pavate și clădirile istorice din piatră, Kingstown păstrează caracterul unui port important din Antilele Mici din secolele XVIII și XIX.",
+      en: "Kingstown is the capital and primary economic hub of Saint Vincent and the Grenadines. Situated on the southwestern coast of Saint Vincent island, the city is known for its bustling deep-water harbor and colonial architecture. With its cobblestone streets and historic stone buildings, Kingstown maintains the character of a major 18th and 19th-century Lesser Antilles port city.",
+    },
+    factsAdvanced: {
+      de: ["Kingstown wurde im Jahr 1722 von französischen Siedlern gegründet.", "Die Stadt wird aufgrund ihrer vielen Bögen oft als 'City of Arches' bezeichnet.", "Der Botanische Garten, gegründet 1765, ist der älteste in der westlichen Hemisphäre.", "Fort Charlotte bietet aus 180 Metern Höhe einen Panoramablick über die Stadt.", "Die St. George's Cathedral wurde im frühen 19. Jahrhundert im georgianischen Stil erbaut.", "Der Kreuzfahrthafen ist ein zentraler Ankunftspunkt für den regionalen Tourismus."],
+      hu: ["Kingstown városát 1722-ben alapították francia telepesek.", "Számos boltíves épülete miatt gyakran nevezik a 'Boltívek Városának'.", "Az 1765-ben alapított botanikus kertje a legrégebbi a nyugati féltekén.", "A 180 méter magasan fekvő Fort Charlotte erőd panorámás kilátást nyújt a városra.", "A Szent György-székesegyház a 19. század elején épült georgiánus stílusban.", "A mélyvízi kikötő a régió egyik legfontosabb kereskedelmi és turisztikai csomópontja."],
+      ro: ["Kingstown a fost fondat în anul 1722 de către coloniștii francezi.", "Este adesea supranumit 'Orașul Arcurilor' datorită arhitecturii sale specifice.", "Grădina Botanică, înființată în 1765, este cea mai veche din emisfera vestică.", "Fort Charlotte, situat la 180 de metri altitudine, domină panorama orașului.", "Catedrala Sf. Gheorghe a fost construită la începutul secolului al XIX-lea.", "Portul de croazieră reprezintă un punct vital pentru economia turistică locală."],
+      en: ["Kingstown was formally founded in 1722 by French settlers.", "The city is often called the 'City of Arches' due to its distinct architecture.", "The Botanical Gardens, founded in 1765, are the oldest in the Western Hemisphere.", "Fort Charlotte stands at 180 meters elevation overlooking the entire bay.", "St. George's Cathedral was constructed in the early 19th century in Georgian style.", "The harbor serves as the primary transshipment point for the nation's exports."],
+    },
   },
   {
     id: "saintvincent-barrouallie-cities-v2",
@@ -38,6 +50,18 @@ export const saintvincentCitiesV2: POI[] = [
       en: ["Center for pilot whale hunting", "Located in Saint Patrick Parish", "Hosts the annual Blackfish Festival", "Important fishing port on the leeward coast"],
     },
     imageHint: "Barrouallie bay with colorful fishing boats",
+    descriptionAdvanced: {
+      de: "Barrouallie ist eine historische Fischerstadt an der Westküste von St. Vincent. Die Stadt war einst die Hauptstadt des Parishes St. Patrick und ist heute vor allem für ihre langjährige Tradition des Fischfangs bekannt. Die umliegende Hügellandschaft und die geschützte Bucht prägen das Stadtbild und machen sie zu einem wichtigen lokalen Zentrum für maritime Aktivitäten.",
+      hu: "Barrouallie egy történelmi halászváros Saint Vincent nyugati partján. A település egykor St. Patrick egyházkerület központja volt, ma pedig elsősorban régi halászati hagyományairól, különösen a kardszárnyú delfin vadászatáról ismert. A környező dombos vidék és a védett öböl meghatározza a város képét, fontos helyi tengerészeti központtá téve azt.",
+      ro: "Barrouallie este un oraș pescăresc istoric situat pe coasta de vest a insulei Sfântul Vincențiu. Localitatea a fost cândva capitala parohiei St. Patrick și este astăzi cunoscută în principal pentru tradiția sa îndelungată în pescuit. Dealurile înconjurătoare și golful protejat definesc peisajul urban, transformându-l într-un centru local important pentru activități maritime.",
+      en: "Barrouallie is a historic fishing town located on the western (leeward) coast of Saint Vincent. The settlement once served as the capital of St. Patrick Parish and is primarily known today for its long-standing maritime traditions. The surrounding hilly terrain and sheltered bay define the town's geography, making it a key local hub for fishing and boat building.",
+    },
+    factsAdvanced: {
+      de: ["Barrouallie ist bekannt für den Fang von 'Blackfish' (Grindwalen).", "Die Stadt war die erste französische Siedlung auf der Insel.", "In der Nähe befinden sich präkolumbianische Petroglyphen der Kariben.", "Die Region ist ein bedeutendes Anbaugebiet für Wurzelgemüse und Obst.", "Barrouallie feiert jährlich das 'Blackfish Festival'.", "Die Kirche St. Patrick ist ein markantes historisches Gebäude der Stadt."],
+      hu: ["Barrouallie híres a helyi 'feketehal' (gömbölyűfejű-delfin) halászatáról.", "Ez volt a sziget legelső francia települése a gyarmati időkben.", "A város közelében értékes prekolumbiai karib petroglifák találhatók.", "A régió Saint Vincent egyik legfontosabb gyökérzöldség-termelő vidéke.", "Minden évben megrendezik a hagyományos 'Feketehal Fesztivált'.", "A Szent Patrik-templom a település egyik legfontosabb műemléke."],
+      ro: ["Barrouallie este faimos pentru pescuitul tradițional de 'pește negru' (balene pilot).", "A fost prima așezare franceză stabilită pe insulă în perioada colonială.", "În apropierea orașului se găsesc petroglife precolumbiene ale triburilor Carib.", "Regiunea este un centru major pentru producția de legume radacinoase.", "Orașul găzduiește anual un festival dedicat tradițiilor pescărești locale.", "Biserica St. Patrick reprezintă un punct de reper arhitectural semnificativ."],
+      en: ["Barrouallie is famous for the traditional hunting of 'Blackfish' (pilot whales).", "The town was the site of the first French settlement on the island.", "Pre-Columbian Carib petroglyphs are located in the immediate vicinity.", "The surrounding area is a major producer of root crops for the local market.", "The town hosts an annual festival celebrating its unique fishing heritage.", "St. Patrick's Church stands as a prominent historical landmark in the center."],
+    },
   },
   {
     id: "saintvincent-layou-cities-v2",
@@ -57,6 +81,18 @@ export const saintvincentCitiesV2: POI[] = [
       en: ["Known for the Layou Petroglyphs", "Located at the mouth of Layou River", "A historical settlement area", "Part of Saint Andrew Parish"],
     },
     imageHint: "Layou town and coastal bay mountains",
+    descriptionAdvanced: {
+      de: "Layou ist eine Küstenstadt im Parish St. Andrew an der Leeward-Küste von St. Vincent. Die Stadt liegt in einem fruchtbaren Tal an der Mündung des Layou River und ist reich an archäologischen Funden aus der präkolumbianischen Zeit. Heute ist Layou ein ruhiges Wohn- und Landwirtschaftszentrum, das durch seine schwarzen Sandstrände und die Nähe zu wichtigen Kulturerbestätten besticht.",
+      hu: "Layou egy tengerparti város St. Andrew egyházkerületben, Saint Vincent szélvédett (nyugati) partján. A város a Layou-folyó torkolatánál, egy termékeny völgyben fekszik, és gazdag a prekolumbiai korszakból származó régészeti leletekben. Ma Layou egy csendes lakó- és mezőgazdasági központ, amely fekete homokos strandjairól és a közeli kulturális örökségi helyszíneiről ismert.",
+      ro: "Layou este un oraș de coastă în parohia St. Andrew, situat pe coasta de vest a insulei Sfântul Vincențiu. Orașul se află într-o vale fertilă la gura de vărsare a râului Layou și este bogat în descoperiri arheologice din perioada precolumbiană. Astăzi, Layou este un centru rezidențial și agricol liniștit, remarcabil prin plajele sale cu nisip negru.",
+      en: "Layou is a coastal town in St. Andrew Parish, located on the leeward coast of Saint Vincent. The town sits in a fertile valley at the mouth of the Layou River and is rich in archaeological finds from the Pre-Columbian era. Today, Layou is a peaceful residential and agricultural hub, notable for its volcanic black sand beaches and proximity to significant heritage sites.",
+    },
+    factsAdvanced: {
+      de: ["Der Layou Petroglyph Park beherbergt Felsritzungen der Amerindianer.", "Die Stadt liegt etwa 10 Kilometer nordwestlich der Hauptstadt Kingstown.", "Der Layou River ist einer der längsten Flüsse auf St. Vincent.", "Die Region war ein frühes Zentrum des Zuckerrohranbaus auf der Insel.", "Vulkanischer schwarzer Sand prägt die gesamte Küstenlinie von Layou.", "Hier wurden bedeutende Keramikfunde der Saladoid-Kultur entdeckt."],
+      hu: ["A Layou Petroglyph Parkban ősi amerikai indián sziklarajzok láthatók.", "A város körülbelül 10 kilométerre északnyugatra fekszik Kingstowntól.", "A Layou-folyó Saint Vincent szigetének egyik leghosszabb folyóvize.", "A környék a korai gyarmati időkben a cukornádtermesztés központja volt.", "A partvonalat jellegzetes vulkáni fekete homok borítja.", "A területen fontos Saladoid-kultúrához köthető kerámialeleteket találtak."],
+      ro: ["Parcul Petroglyph Layou găzduiește sculpturi în piatră ale amerindienilor.", "Orașul este situat la aproximativ 10 kilometri nord-vest de Kingstown.", "Râul Layou este unul dintre cele mai lungi cursuri de apă de pe insulă.", "Regiunea a fost un centru timpuriu al plantațiilor de trestie de zahăr.", "Țărmul din Layou este caracterizat de nisip negru de origine vulcanică.", "S-au descoperit aici vestigii ceramice importante ale culturii Saladoid."],
+      en: ["The Layou Petroglyph Park features rock carvings by indigenous Amerindians.", "The town is located approximately 6 miles northwest of Kingstown.", "The Layou River is one of the longest and most significant on Saint Vincent.", "The region served as an early center for sugar cane cultivation on the island.", "Volcanic black sand defines the entire coastal stretch of Layou.", "Archaeologists have found significant Saladoid-period ceramics in the area."],
+    },
   },
   {
     id: "saintvincent-chateaubelair-cities-v2",
@@ -76,6 +112,18 @@ export const saintvincentCitiesV2: POI[] = [
       en: ["Near the La Soufrière volcano", "Features a deep natural harbor", "Located in Saint David Parish", "Formerly a major export port"],
     },
     imageHint: "Chateaubelair bay and Soufriere volcano background",
+    descriptionAdvanced: {
+      de: "Chateaubelair ist die größte Siedlung im Parish St. David und liegt an der nordwestlichen Küste von St. Vincent. Die Stadt dient als Tor zum Vulkan La Soufrière und ist von einer dramatischen Bergkulisse umgeben. Als wichtiger Fischereihafen und landwirtschaftlicher Umschlagplatz spielt Chateaubelair eine zentrale Rolle für die Wirtschaft des nördlichen Teils der Insel.",
+      hu: "Chateaubelair St. David egyházkerület legnagyobb települése, Saint Vincent északnyugati partján. A város a La Soufrière vulkánhoz vezető egyik fő kapu, amelyet drámai hegyi táj vesz körül. Fontos halászkikötőként és mezőgazdasági csomópontként Chateaubelair központi szerepet játszik a sziget északi részének gazdasági életében.",
+      ro: "Chateaubelair este cea mai mare așezare din parohia St. David, situată pe coasta de nord-vest a insulei Sfântul Vincențiu. Orașul servește drept poartă de acces către vulcanul La Soufrière și este înconjurat de un peisaj montan dramatic. Ca port pescăresc și centru agricol, Chateaubelair joacă un rol central în economia nordului insulei.",
+      en: "Chateaubelair is the largest settlement in St. David Parish, situated on the northwestern coast of Saint Vincent. The town serves as a primary gateway for expeditions to the La Soufrière volcano and is framed by dramatic mountainous terrain. As a key fishing port and agricultural hub, Chateaubelair plays a central role in the economy of the island's northern region.",
+    },
+    factsAdvanced: {
+      de: ["Chateaubelair liegt in der Nähe der beeindruckenden Trinity Falls.", "Die Stadt war ein historischer Rückzugsort während Karibeneinfällen.", "Der Hafen wird hauptsächlich für den lokalen Fischfang genutzt.", "Wanderungen zum Krater des La Soufrière starten oft von hier.", "Die Region ist bekannt für den Anbau von Bananen und Kakao.", "Die Bucht bietet Schutz vor den starken Passatwinden des Atlantiks."],
+      hu: ["Chateaubelair a lenyűgöző Trinity-vízesés közelében fekszik.", "A város történelmileg fontos védelmi pont volt a karib indiánok idején.", "A kikötő elsősorban a helyi halászflotta bázisaként szolgál.", "A La Soufrière kráteréhez vezető túrák gyakran innen indulnak.", "A környék híres a kiváló minőségű banán- és kakaóültetvényeiről.", "Az öböl természetes védelmet nyújt az atlanti passzátszelek elől."],
+      ro: ["Chateaubelair se află în proximitatea spectaculoasei cascade Trinity.", "Orașul a fost un refugiu istoric important în timpul conflictelor coloniale.", "Portul local este utilizat predominant pentru flota de pescuit artizanal.", "Traseele montane către craterul La Soufrière încep frecvent din acest punct.", "Regiunea este renumită pentru culturile sale de banane și cacao.", "Golful oferă un adăpost natural împotriva vânturilor alizee puternice."],
+      en: ["Chateaubelair is located near the impressive Trinity Falls waterfall system.", "The town was a strategic historical site during the Carib Wars.", "The harbor is a vital base for the local artisanal fishing fleet.", "Guided hikes to the summit of La Soufrière frequently depart from here.", "The surrounding parish is a major center for banana and cocoa production.", "The deep bay provides excellent anchorage sheltered from Atlantic winds."],
+    },
   },
   {
     id: "saintvincent-port-elizabeth-cities-v2",
@@ -95,6 +143,18 @@ export const saintvincentCitiesV2: POI[] = [
       en: ["Primary port of Bequia", "Center for tourism and local crafts", "Named after Queen Elizabeth II", "Ferry link to Kingstown"],
     },
     imageHint: "Port Elizabeth Bequia harbor with yachts",
+    descriptionAdvanced: {
+      de: "Port Elizabeth ist der Hauptort und das administrative Zentrum der Insel Bequia in den Grenadinen. Die Stadt liegt in der Admiralty Bay, einem der sichersten natürlichen Häfen der Karibik, und ist ein Magnet für Segler aus aller Welt. Die Uferpromenade ist gesäumt von Cafés und kleinen Werften, die die traditionelle Bootsbaukunst der Insel pflegen.",
+      hu: "Port Elizabeth Bequia szigetének fővárosa és adminisztratív központja a Grenadine-szigeteken. A város az Admiralty-öbölben fekszik, amely a Karib-térség egyik legbiztonságosabb természetes kikötője, így a világ vitorlázóinak kedvelt célpontja. A tengerparti sétányt kávézók és kis hajógyárak szegélyezik, amelyek őrzik a sziget hagyományos hajóépítő mesterségét.",
+      ro: "Port Elizabeth este principala așezare și centrul administrativ al insulei Bequia din Grenadine. Orașul este situat în Golful Admiralty, unul dintre cele mai sigure porturi naturale din Caraibe, fiind un magnet pentru navigatorii din întreaga lume. Faleza este mărginită de cafenele și șantiere navale mici care păstrează tradiția construcției de bărci.",
+      en: "Port Elizabeth is the principal town and administrative center of Bequia island in the Grenadines. Situated in Admiralty Bay, one of the safest natural harbors in the Caribbean, it is a primary destination for international yachtsmen. The waterfront is lined with local cafes and small shipyards that uphold the island's renowned traditional boat-building heritage.",
+    },
+    factsAdvanced: {
+      de: ["Port Elizabeth ist der Ankunftspunkt für Fähren von St. Vincent.", "Die Admiralty Bay war einst ein Stützpunkt für die britische Marine.", "In der Stadt befindet sich das Bequia Maritime Museum.", "Der Belmont Walkway verbindet die Stadt mit den südlichen Stränden.", "Traditioneller Holzbootsbau wird hier noch immer praktiziert.", "Die Stadt ist nach der britischen Königin Elizabeth II. benannt."],
+      hu: ["Port Elizabeth a Saint Vincentről érkező kompjáratok fő érkezési pontja.", "Az Admiralty-öböl egykor a brit haditengerészet fontos bázisa volt.", "A városban található a Bequia Tengerészeti Múzeum.", "A Belmont-sétány köti össze a központot a déli strandokkal.", "A hagyományos fából készült hajók építése ma is élő mesterség itt.", "A települést II. Erzsébet brit királynőről nevezték el."],
+      ro: ["Port Elizabeth este punctul principal de sosire pentru feriboturile din Sf. Vincențiu.", "Golful Admiralty a servit istoric ca bază pentru marina britanică.", "Orașul găzduiește Muzeul Maritim Bequia, dedicat istoriei navale.", "Aleea Belmont leagă centrul orașului de plajele din partea de sud.", "Construcția tradițională de bărci din lemn este încă practicată aici.", "Localitatea poartă numele reginei Elisabeta a II-a a Marii Britanii."],
+      en: ["Port Elizabeth is the main arrival point for ferries from Saint Vincent.", "Admiralty Bay once served as a vital base for the British Royal Navy.", "The town is home to the Bequia Maritime Museum and heritage center.", "The Belmont Walkway provides scenic coastal access to southern beaches.", "Traditional wooden boat-building techniques are still actively practiced here.", "The town was named in honor of Queen Elizabeth II of the United Kingdom."],
+    },
   },
   {
     id: "saintvincent-clifton-cities-v2",
@@ -114,6 +174,18 @@ export const saintvincentCitiesV2: POI[] = [
       en: ["Hub of Union Island", "Near the Union Island Airport", "Important port of entry and customs", "Views of the man-made Happy Island"],
     },
     imageHint: "Clifton Union Island harbor and Happy Island",
+    descriptionAdvanced: {
+      de: "Clifton ist der Hauptort von Union Island und ein zentraler Knotenpunkt für den Tourismus in den südlichen Grenadinen. Die Stadt verfügt über einen geschäftigen Hafen und einen kleinen Flughafen, die sie mit dem Rest des Archipels verbinden. Mit ihren bunten Märkten und der Nähe zu den Tobago Cays ist Clifton ein wichtiger Ausgangspunkt für Segeltörns und Meeresexpeditionen.",
+      hu: "Clifton Union Island fő települése, és a déli Grenadine-szigetek turisztikai központja. A város forgalmas kikötővel és egy kis repülőtérrel rendelkezik, amely összeköti a szigetcsoport többi részével. Színes piacaival és a Tobago Cays közelségével Clifton a vitorlástúrák és tengeri expedíciók egyik legfontosabb kiindulópontja a térségben.",
+      ro: "Clifton este localitatea principală de pe insula Union și un nod central pentru turismul din sudul Grenadinelor. Orașul dispune de un port aglomerat și un mic aeroport care facilitează legătura cu restul arhipelagului. Cu piețele sale colorate și proximitatea față de Tobago Cays, Clifton este un punct de plecare major pentru croaziere.",
+      en: "Clifton is the main town of Union Island and a central hub for tourism in the southern Grenadines. The settlement features a busy commercial harbor and a small airport, connecting it to the rest of the archipelago. With its vibrant local markets and proximity to the Tobago Cays, Clifton serves as a key staging point for sailing charters and marine expeditions.",
+    },
+    factsAdvanced: {
+      de: ["Clifton ist der offizielle Einklarierungshafen für Union Island.", "Happy Island, eine künstliche Insel aus Muschelschalen, liegt vor dem Hafen.", "Der Flughafen Union Island verbindet die Stadt mit Barbados und Grenada.", "Die Stadt ist bekannt für ihre lebhafte Kitesurfing-Szene.", "Clifton liegt strategisch günstig in der Nähe der Tobago Cays Marine Parks.", "In der Stadt gibt es zahlreiche Geschäfte für Yachtbedarf."],
+      hu: ["Clifton Union Island hivatalos vám- és beléptetési kikötője.", "A kikötő előtt fekszik Happy Island, egy mesterséges sziget kagylóhéjakból.", "A repülőtér közvetlen járatokat biztosít Barbadosra és Grenadára.", "A város híres a nemzetközi kiteszörfös közösségéről.", "Clifton stratégiai kapu a közeli Tobago Cays tengeri nemzeti parkhoz.", "Számos jachtfelszerelést árusító bolt és szerviz található a városban."],
+      ro: ["Clifton este portul oficial de intrare și vamă pentru insula Union.", "Happy Island, o insulă artificială din cochilii de scoici, se află în golf.", "Aeroportul Union Island leagă localitatea de Barbados și Grenada.", "Orașul este cunoscut pentru comunitatea sa activă de kitesurfing.", "Clifton se află la mică distanță de parcul marin Tobago Cays.", "Există numeroase magazine specializate în aprovizionarea iahturilor."],
+      en: ["Clifton serves as the official port of entry and customs for Union Island.", "Happy Island, an artificial isle made of conch shells, is located in the harbor.", "Union Island Airport connects the town to Barbados, Grenada, and Saint Vincent.", "The town is a world-renowned destination for the international kitesurfing scene.", "Clifton is the primary gateway for tours to the nearby Tobago Cays Marine Park.", "The settlement contains several specialized marine chandleries for yachtsmen."],
+    },
   },
   {
     id: "saintvincent-calliaqua-cities-v2",
@@ -133,6 +205,18 @@ export const saintvincentCitiesV2: POI[] = [
       en: ["Southernmost town on Saint Vincent", "Features a lively fish market", "Near the Young Island Marina", "Located in Saint George Parish"],
     },
     imageHint: "Calliaqua waterfront and fish market area",
+    descriptionAdvanced: {
+      de: "Calliaqua ist eine bedeutende Stadt an der Südostküste von St. Vincent, etwa fünf Kilometer von Kingstown entfernt. Historisch war sie ein wichtiger Exporthafen für Zucker und ist heute ein lebendiges Zentrum für Handel und Fischerei. Die Stadt liegt in einer geschützten Bucht und beherbergt moderne Sportanlagen sowie einen der aktivsten Fischmärkte der Insel.",
+      hu: "Calliaqua egy jelentős város Saint Vincent délkeleti partján, körülbelül öt kilométerre Kingstowntól. Történelmileg fontos cukorexportáló kikötő volt, ma pedig a kereskedelem és a halászat vibráló központja. A város egy védett öbölben fekszik, modern sportlétesítményeknek és a sziget egyik legforgalmasabb halpiacának ad otthont.",
+      ro: "Calliaqua este un oraș important pe coasta de sud-est a insulei Sfântul Vincențiu, la cinci kilometri de Kingstown. Istoric, a fost un port major pentru exportul de zahăr, iar astăzi este un centru vibrant pentru comerț și pescuit. Orașul este situat într-un golf protejat și găzduiește facilități sportive moderne și o piață de pește activă.",
+      en: "Calliaqua is a significant town on the southeastern coast of Saint Vincent, located approximately three miles from Kingstown. Historically a major sugar-exporting port, it is now a vibrant center for local commerce and artisanal fishing. The town sits on a sheltered bay and features modern sporting facilities along with one of the island's most active fish markets.",
+    },
+    factsAdvanced: {
+      de: ["Calliaqua war im 18. Jahrhundert ein bedeutender Hafen für die Marine.", "Der Calliaqua Culture Pot ist ein bekanntes lokales Kulturereignis.", "In der Stadt befindet sich der moderne Calliaqua Playing Field Komplex.", "Die Bucht von Calliaqua bietet sicheren Ankerplatz für kleinere Boote.", "Der Fischmarkt ist berühmt für fangfrischen Thunfisch und Snapper.", "Calliaqua liegt im Parish St. George, dem bevölkerungsreichsten der Insel."],
+      hu: ["Calliaqua a 18. században a brit flotta egyik fontos horgonyzóhelye volt.", "A Calliaqua Culture Pot a város egyik legismertebb kulturális eseménye.", "Itt található a modern Calliaqua Playing Field sportkomplexum.", "A Calliaqua-öböl kiváló természetes védelmet nyújt a kisebb hajóknak.", "A helyi halpiac híres a frissen fogott tonhalról és vörös sügérről.", "A város St. George egyházkerületben, a sziget legnépesebb részén fekszik."],
+      ro: ["Calliaqua a fost un punct de ancoraj strategic pentru marina în secolul XVIII.", "Evenimentul 'Calliaqua Culture Pot' celebrează anual tradițiile locale.", "Orașul găzduiește complexul sportiv modern Calliaqua Playing Field.", "Golful Calliaqua oferă o protecție excelentă pentru ambarcațiunile mici.", "Piața de pește este renumită pentru tonul și snapper-ul proaspăt capturate.", "Localitatea face parte din parohia St. George, cea mai populată de pe insulă."],
+      en: ["Calliaqua served as a strategic naval anchorage during the 18th century.", "The 'Calliaqua Culture Pot' is a renowned annual local cultural festival.", "The town features the modern Calliaqua Playing Field sports complex.", "Calliaqua Bay provides safe anchorage for small coastal vessels.", "The local fish market is a major distribution point for tuna and snapper.", "The town is located in St. George Parish, the island's most populous area."],
+    },
   },
   {
     id: "saintvincent-biabou-cities-v2",
@@ -152,6 +236,18 @@ export const saintvincentCitiesV2: POI[] = [
       en: ["Located on the windward coastal road", "Center for arrowroot cultivation", "Situated in Charlotte Parish", "Important transport link in the east"],
     },
     imageHint: "Biabou village landscape and coast",
+    descriptionAdvanced: {
+      de: "Biabou ist ein Dorf an der windzugewandten Ostküste von St. Vincent im Parish Charlotte. Die Region ist durch ihre raue Atlantikküste und fruchtbares Ackerland geprägt, auf dem hauptsächlich Bananen und Kokosnüsse angebaut werden. Biabou dient als wichtiges lokales Versorgungszentrum für die umliegenden ländlichen Gemeinden und bietet Einblicke in das traditionelle Inselleben.",
+      hu: "Biabou egy falu Saint Vincent szeles keleti partján, Charlotte egyházkerületben. A régiót a vad atlanti partvonal és a termékeny mezőgazdasági földek jellemzik, ahol főként banánt és kókuszt termesztenek. Biabou fontos helyi ellátó központként szolgál a környező vidéki közösségek számára, betekintést nyújtva a sziget hagyományos életmódjába.",
+      ro: "Biabou este un sat situat pe coasta de est, expusă vântului, a insulei Sfântul Vincențiu, în parohia Charlotte. Regiunea este caracterizată de țărmul atlantic abrupt și terenuri agricole fertile, unde se cultivă în principal banane și nuci de cocos. Biabou servește ca un centru local de aprovizionare pentru comunitățile rurale din jur.",
+      en: "Biabou is a village situated on the windward (eastern) coast of Saint Vincent in Charlotte Parish. The region is defined by its rugged Atlantic coastline and fertile agricultural lands, primarily dedicated to banana and coconut cultivation. Biabou serves as a key local service center for the surrounding rural farming communities, offering a glimpse into traditional island life.",
+    },
+    factsAdvanced: {
+      de: ["Biabou liegt an der Hauptstraße, die Kingstown mit dem Norden verbindet.", "Die Ostküste hier ist für ihre starken Wellen und Strömungen bekannt.", "In der Umgebung befinden sich ausgedehnte Bananenplantagen.", "Das Dorf verfügt über eine bekannte lokale Polizeistation und Klinik.", "Die vulkanischen Böden der Region gelten als äußerst ertragreich.", "Biabou ist ein Stopp für die öffentlichen Minibusse an der Windward-Küste."],
+      hu: ["Biabou a Kingstownt az északi résszel összekötő főút mentén fekszik.", "A keleti part itt az erős hullámzásáról és áramlatairól ismert.", "A falu környezetében kiterjedt banánültetvények találhatók.", "A településen fontos helyi rendőrörs és egészségügyi klinika működik.", "A régió vulkáni talaja rendkívül gazdag tápanyagokban.", "Biabou a keleti part menti kisbusz-közlekedés egyik fontos megállója."],
+      ro: ["Biabou se află pe drumul principal care leagă Kingstown de nordul insulei.", "Coasta de est în această zonă este cunoscută pentru valurile puternice.", "Împrejurimile satului sunt dominate de plantații vaste de banane.", "Localitatea dispune de o secție de poliție și o clinică medicală locală.", "Solurile vulcanice din regiune sunt considerate extrem de productive.", "Biabou este un punct de oprire vital pentru transportul public cu microbuze."],
+      en: ["Biabou is located along the main Windward Highway connecting Kingstown to the north.", "The Atlantic coastline here is known for its powerful surf and currents.", "The surrounding landscape is dominated by extensive banana estates.", "The village hosts a significant local police station and community clinic.", "Volcanic soils in this region are among the most fertile on the island.", "Biabou serves as a major transit stop for public minibuses on the east coast."],
+    },
   },
   {
     id: "saintvincent-charlestown-cities-v2",
@@ -171,6 +267,18 @@ export const saintvincentCitiesV2: POI[] = [
       en: ["The port town of Canouan island", "Located near Mount Royal", "Features a ferry terminal", "Key hub for local tourism"],
     },
     imageHint: "Charlestown Canouan aerial view harbor",
+    descriptionAdvanced: {
+      de: "Charlestown ist der Hauptort der Insel Canouan in den Grenadinen. Die Stadt liegt in der Charlestown Bay und ist das administrative sowie wirtschaftliche Zentrum dieser exklusiven Ferieninsel. Während sich im Norden Luxusresorts befinden, bewahrt Charlestown den authentischen Charme einer kleinen Karibikgemeinde mit farbenfrohen Häusern und einem geschäftigen Fähranleger.",
+      hu: "Charlestown a Grenadine-szigetekhez tartozó Canouan fő települése. A város a Charlestown-öbölben fekszik, és az exkluzív üdülősziget adminisztratív és gazdasági központja. Míg a sziget északi részén luxusszállodák találhatók, Charlestown megőrizte egy kis karibi közösség autentikus báját színes házaival és forgalmas kompkikötőjével.",
+      ro: "Charlestown este localitatea principală de pe insula Canouan din Grenadine. Orașul este situat în Golful Charlestown și este centrul administrativ și economic al acestei insule exclusiviste. În timp ce nordul găzduiește resorturi de lux, Charlestown păstrează farmecul autentic al unei mici comunități din Caraibe cu case colorate.",
+      en: "Charlestown is the main settlement of Canouan island in the Grenadines. Situated on Charlestown Bay, it serves as the administrative and economic heart of this exclusive resort island. While the north is home to high-end luxury developments, Charlestown retains the authentic charm of a small Caribbean community with colorful homes and a busy ferry pier.",
+    },
+    factsAdvanced: {
+      de: ["Charlestown ist der Haupthafen für die Versorgung der Insel Canouan.", "Die Stadt liegt am Fuße des Mount Royal, dem höchsten Punkt der Insel.", "Der Flughafen Canouan liegt nur eine kurze Autofahrt von Charlestown entfernt.", "Die Charlestown Bay bietet einen geschützten Ankerplatz für Yachten.", "Traditionell war die Stadt ein Zentrum für Fischerei und Viehzucht.", "Die Insel Canouan verfügt über eines der längsten Korallenriffe der Karibik."],
+      hu: ["Charlestown a Canouan-sziget ellátását biztosító legfontosabb kikötő.", "A város a Mount Royal, a sziget legmagasabb pontjának lábánál fekszik.", "A Canouan repülőtér csak egy rövid autóútra található Charlestowntól.", "A Charlestown-öböl biztonságos horgonyzóhelyet kínál a jachtok számára.", "Történelmileg a város a halászat és az állattenyésztés központja volt.", "Canouan szigete ad otthont a Karib-térség egyik leghosszabb korallzátonyának."],
+      ro: ["Charlestown este portul principal pentru aprovizionarea insulei Canouan.", "Orașul este situat la baza Mount Royal, cel mai înalt punct al insulei.", "Aeroportul Canouan se află la o distanță scurtă de mers cu mașina de oraș.", "Golful Charlestown oferă un punct de ancorare protejat pentru iahturi.", "Tradițional, localitatea a fost un centru pentru pescuit și creșterea vitelor.", "Insula Canouan deține unul dintre cele mai lungi recife de corali din Caraibe."],
+      en: ["Charlestown is the primary port for all supplies entering Canouan island.", "The town is situated at the base of Mount Royal, the island's highest peak.", "Canouan Airport is located just a short drive south from Charlestown.", "Charlestown Bay provides a well-sheltered anchorage for visiting yachts.", "The town was historically a center for local fishing and livestock rearing.", "Canouan island is home to one of the longest barrier reefs in the Caribbean."],
+    },
   },
   {
     id: "saintvincent-ashton-cities-v2",
@@ -190,6 +298,18 @@ export const saintvincentCitiesV2: POI[] = [
       en: ["Largest community on Union Island", "Near the Ashton Lagoon", "Historical fishing center", "Views toward Frigate Island"],
     },
     imageHint: "Ashton Union Island village and lagoon",
+    descriptionAdvanced: {
+      de: "Ashton ist die größte Siedlung auf Union Island und liegt an der Südküste der Insel. Die Stadt ist ein wichtiges lokales Zentrum und liegt direkt an der Ashton Lagoon, dem größten Mangroven-Ökosystem in St. Vincent und den Grenadinen. Ashton bietet eine ruhigere, gemeinschaftsorientierte Atmosphäre im Vergleich zum touristischeren Clifton und ist bekannt für seine reiche Meeresumwelt.",
+      hu: "Ashton Union Island legnagyobb települése, a sziget déli partján. A város fontos helyi központ, és közvetlenül az Ashton-lagúna mellett fekszik, amely Saint Vincent és a Grenadine-szigetek legnagyobb mangrove-ökoszisztémája. Ashton nyugodtabb, közösségközpontú légkört kínál a turisták által kedveltebb Cliftonhoz képest, és gazdag tengeri élővilágáról ismert.",
+      ro: "Ashton este cea mai mare așezare de pe insula Union, situată pe coasta de sud. Orașul este un centru local important și se află direct lângă Laguna Ashton, cel mai mare ecosistem de mangrove din Sfântul Vincențiu și Grenadinele. Ashton oferă o atmosferă liniștită, orientată spre comunitate, comparativ cu zona turistică Clifton.",
+      en: "Ashton is the largest settlement on Union Island, located on the island's southern coast. The town serves as a vital local hub and sits directly adjacent to Ashton Lagoon, the largest mangrove ecosystem in Saint Vincent and the Grenadines. Ashton offers a quieter, community-focused atmosphere compared to tourist-heavy Clifton and is known for its rich marine environment.",
+    },
+    factsAdvanced: {
+      de: ["Ashton liegt direkt neben dem größten Mangrovengebiet des Landes.", "Die Stadt ist ein Ausgangspunkt für Erkundungen der Südküste.", "Die Ashton Lagoon wurde in den letzten Jahren umfassend renaturiert.", "Fragonard's Lookout bietet weite Ausblicke über Ashton und die Lagune.", "Die lokale Wirtschaft basiert stark auf Landwirtschaft und Fischerei.", "Ashton ist über eine Küstenstraße direkt mit Clifton verbunden."],
+      hu: ["Ashton az ország legnagyobb mangrove-erdeje mellett helyezkedik el.", "A város ideális kiindulópont a sziget déli partjának felfedezéséhez.", "Az Ashton-lagúnát az elmúlt években jelentős környezetvédelmi projekttel állították helyre.", "A Fragonard-kilátó pazar kilátást nyújt Ashtonra és a lagúnára.", "A helyi gazdaság alapját a mezőgazdaság és a halászat adja.", "Ashtont egy tengerparti út köti össze közvetlenül Clifton városával."],
+      ro: ["Ashton se află lângă cea mai mare zonă de mangrove din țară.", "Orașul este un punct de plecare pentru explorarea coastei de sud.", "Laguna Ashton a beneficiat recent de un proiect major de restaurare ecologică.", "Belvederea Fragonard oferă vederi panoramice asupra orașului și lagunei.", "Economia locală se bazează în mare măsură pe agricultură și pescuit.", "Ashton este conectat direct de Clifton printr-un drum de coastă."],
+      en: ["Ashton is located adjacent to the largest mangrove forest in the country.", "The town serves as a base for exploring the island's southern coastline.", "Ashton Lagoon has undergone extensive ecological restoration in recent years.", "Fragonard's Lookout provides panoramic views over Ashton and the lagoon.", "The local economy is heavily centered on farming and artisanal fishing.", "Ashton is connected to Clifton by a scenic three-mile coastal road."],
+    },
   },
   {
     id: "saintvincent-dovers-cities-v2",
@@ -209,6 +329,18 @@ export const saintvincentCitiesV2: POI[] = [
       en: ["Primary residence for Mustique staff", "Near the Mustique Airport", "Center for island services", "Located in northeast Mustique"],
     },
     imageHint: "Dovers Mustique village and hills",
+    descriptionAdvanced: {
+      de: "Dovers ist eine kleine Siedlung auf der exklusiven Privatinsel Mustique in den Grenadinen. Das Dorf liegt im Osten der Insel und beherbergt einen Teil der lokalen Infrastruktur sowie Wohnräume für das Personal der Inselresorts. Trotz des exklusiven Charakters von Mustique bewahrt Dovers eine schlichte, funktionale Atmosphäre inmitten der gepflegten tropischen Landschaft.",
+      hu: "Dovers egy kis település az exkluzív magánszigeten, Mustique-on, a Grenadine-szigeteken. A falu a sziget keleti részén fekszik, és itt található a helyi infrastruktúra egy része, valamint a szigeti üdülőhelyek személyzetének szállásai. Mustique exkluzív jellege ellenére Dovers megőrizte egyszerű, funkcionális hangulatát a gondozott trópusi táj közepén.",
+      ro: "Dovers este o mică așezare pe insula privată exclusivistă Mustique din Grenadine. Satul se află în estul insulei și găzduiește o parte din infrastructura locală și locuințele personalului care deservește complexele turistice. În ciuda caracterului exclusivist al insulei, Dovers păstrează o atmosferă simplă și funcțională.",
+      en: "Dovers is a small settlement on the exclusive private island of Mustique in the Grenadines. Located on the eastern side of the island, the village houses part of the local infrastructure and residential quarters for the staff serving the island's villas and resorts. Despite Mustique's overall high-end character, Dovers maintains a modest, functional atmosphere amidst the manicured tropical landscape.",
+    },
+    factsAdvanced: {
+      de: ["Dovers liegt in der Nähe des kleinen Flugplatzes von Mustique.", "Die Siedlung dient primär der Unterstützung des Inselbetriebs.", "Mustique wird von der Mustique Company verwaltet.", "In der Nähe befindet sich der Macaroni Beach, einer der bekanntesten der Insel.", "Die Insel ist für ihre Diskretion und berühmten Bewohner bekannt.", "Dovers ist über ein Netz gut gewarteter Privatstraßen erreichbar."],
+      hu: ["Dovers a Mustique-szigeti kis repülőtér közelében található.", "A település elsősorban a sziget működését támogató bázisként szolgál.", "Mustique szigetét a Mustique Company kezeli és tartja fenn.", "A közelben van a Macaroni Beach, a sziget egyik leghíresebb strandja.", "A sziget híres a diszkréciójáról és világhírű ingatlantulajdonosairól.", "Dovers jól karbantartott magánutakon keresztül érhető el a szigeten belül."],
+      ro: ["Dovers este situat în proximitatea micii piste de aterizare de pe Mustique.", "Așezarea servește în principal pentru sprijinirea logisticii insulare.", "Insula Mustique este administrată de compania privată Mustique Company.", "Plaja Macaroni, una dintre cele mai celebre de pe insulă, se află în apropiere.", "Insula este renumită pentru discreția oferită rezidenților săi celebri.", "Dovers este conectat la restul insulei printr-o rețea de drumuri private."],
+      en: ["Dovers is located near the small airstrip that serves Mustique island.", "The settlement primarily functions as a support base for island operations.", "Mustique is entirely managed by the private Mustique Company.", "Macaroni Beach, the island's most famous beach, is located nearby.", "The island is world-renowned for its privacy and celebrity residents.", "Dovers is accessible via a network of well-maintained private island roads."],
+    },
   },
   {
     id: "saintvincent-byera-hill-cities-v2",
@@ -228,6 +360,18 @@ export const saintvincentCitiesV2: POI[] = [
       en: ["Located on the windward coast", "Part of the Charlotte Parish", "Near the Black Point Tunnel", "Traditionally agricultural community"],
     },
     imageHint: "Byera Hill coast and rugged landscape",
+    descriptionAdvanced: {
+      de: "Byera Hill ist eine Ortschaft an der windzugewandten Nordostküste von St. Vincent im Parish Charlotte. Die Siedlung liegt auf einer Anhöhe über dem Atlantik und ist geprägt durch eine dramatische Küstenlandschaft mit vulkanischen Klippen. Die Region ist stark landwirtschaftlich orientiert, wobei der Anbau von Bananen und Wurzelfrüchten auf den fruchtbaren Hügeln dominiert.",
+      hu: "Byera Hill egy település Saint Vincent szeles északkeleti partján, Charlotte egyházkerületben. A falu az Atlanti-óceán fölötti magaslaton fekszik, drámai tengerparti táj és vulkáni sziklák jellemzik. A régió erősen mezőgazdasági jellegű, a termékeny domboldalakon főként banánt és gyökérzöldségeket termesztenek.",
+      ro: "Byera Hill este o localitate situată pe coasta de nord-est a insulei Sfântul Vincențiu, în parohia Charlotte. Așezarea se află pe o colină deasupra Atlanticului și este caracterizată de un peisaj costier dramatic cu faleze vulcanice. Regiunea este predominant agricolă, cu culturi de banane și rădăcinoase pe dealurile fertile.",
+      en: "Byera Hill is a settlement located on the windward (northeastern) coast of Saint Vincent in Charlotte Parish. The community sits on an elevated ridge overlooking the Atlantic Ocean and is characterized by a dramatic coastal landscape with volcanic cliffs. The region is predominantly agricultural, with banana and root crop cultivation dominating the fertile hillsides.",
+    },
+    factsAdvanced: {
+      de: ["Byera Hill bietet weite Ausblicke über die raue Atlantikküste.", "Die Siedlung liegt direkt am Windward Highway nach Georgetown.", "Der Ort war historisch ein wichtiges Zentrum der Garifuna-Kultur.", "In der Nähe befindet sich der Byera Tunnel, ein wichtiges Infrastrukturprojekt.", "Die Böden hier sind reich an vulkanischer Asche von La Soufrière.", "Starke Winde prägen die Vegetation und das Klima der Siedlung."],
+      hu: ["Byera Hill pazar kilátást nyújt a vad atlanti partvonalra.", "A település a Georgetownba vezető keleti főút mentén fekszik.", "A helyszín történelmileg a garifuna kultúra egyik fontos központja volt.", "A közelben található a Byera-alagút, amely fontos közlekedési műtárgy.", "A talaj rendkívül gazdag a La Soufrière vulkáni hamujában.", "Az erős atlanti szelek meghatározzák a környék növényzetét és klímáját."],
+      ro: ["Byera Hill oferă vederi panoramice asupra coastei atlantice abrupte.", "Localitatea este situată pe autostrada principală spre Georgetown.", "Zona a fost istoric un centru important pentru cultura Garifuna.", "Tunelul Byera, o lucrare de infrastructură notabilă, se află în apropiere.", "Solul este bogat în cenușă vulcanică provenită de la vulcanul La Soufrière.", "Vânturile puternice modelează vegetația și climatul localității."],
+      en: ["Byera Hill offers expansive views across the rugged Atlantic coastline.", "The settlement is positioned along the main Windward Highway to Georgetown.", "The area was historically a significant center for the Garifuna culture.", "The Byera Tunnel, an important engineering feat, is located nearby.", "The soil is enriched by volcanic ash deposits from Mount La Soufrière.", "Persistent sea breezes define the local vegetation and microclimate."],
+    },
   },
   {
     id: "saintvincent-derrick-cities-v2",
@@ -247,5 +391,17 @@ export const saintvincentCitiesV2: POI[] = [
       en: ["Located south of Port Elizabeth", "Near the scenic Friendship Bay", "Residential area with tourism links", "Situated in the Grenadines Parish"],
     },
     imageHint: "Derrick Bequia Friendship Bay coast",
+    descriptionAdvanced: {
+      de: "Derrick ist eine kleine Siedlung im südlichen Teil der Insel Bequia in den Grenadinen. Das Dorf liegt in einer ruhigen, hügeligen Landschaft und bietet Zugang zu einigen der weniger besuchten Strände der Insel. Derrick bewahrt einen sehr ländlichen und authentischen Charakter, fernab des geschäftigen Tourismus in Port Elizabeth, und ist bekannt für seine natürliche Schönheit.",
+      hu: "Derrick egy kis település Bequia szigetének déli részén, a Grenadine-szigeteken. A falu csendes, dombos környezetben fekszik, és hozzáférést biztosít a sziget kevésbé látogatott strandjaihoz. Derrick megőrizte vidéki és autentikus jellegét, távol Port Elizabeth nyüzsgő turizmusától, és érintetlen természeti szépségéről ismert.",
+      ro: "Derrick este o mică așezare în partea de sud a insulei Bequia din Grenadine. Satul este situat într-un peisaj deluros liniștit și oferă acces la unele dintre plajele mai puțin frecventate ale insulei. Derrick păstrează un caracter rural și autentic, departe de turismul aglomerat din Port Elizabeth.",
+      en: "Derrick is a small settlement located in the southern part of Bequia island in the Grenadines. The village is situated in a quiet, hilly landscape and provides access to some of the island's less-frequented beaches. Derrick maintains a very rural and authentic character, far from the bustling tourism of Port Elizabeth, and is noted for its pristine natural beauty.",
+    },
+    factsAdvanced: {
+      de: ["Derrick liegt in der Nähe von Friendship Bay im Süden von Bequia.", "Die Siedlung ist durch kleine landwirtschaftliche Betriebe geprägt.", "Die Region bietet hervorragende Möglichkeiten zur Vogelbeobachtung.", "Derrick ist über schmale Straßen mit dem Hauptort verbunden.", "In der Umgebung befinden sich mehrere private Villen und Gästehäuser.", "Der Blick reicht von hier oft bis zur Nachbarinsel Mustique."],
+      hu: ["Derrick a Bequia déli részén található Friendship-öböl közelében fekszik.", "A településre a kisüzemi mezőgazdaság és a háztáji gazdaságok jellemzőek.", "A régió kiváló lehetőségeket kínál a helyi madárvilág megfigyelésére.", "Derrick keskeny, kanyargós utakon keresztül kapcsolódik a fővároshoz.", "A környéken számos magánvilla és vendégház található.", "Tiszta időben a kilátás gyakran a szomszédos Mustique-szigetig is ellát."],
+      ro: ["Derrick se află în apropiere de Golful Friendship din sudul insulei Bequia.", "Așezarea este caracterizată de mici exploatații agricole locale.", "Regiunea oferă oportunități excelente pentru observarea păsărilor.", "Derrick este conectat de localitatea principală prin drumuri înguste.", "Există mai multe vile private și pensiuni în împrejurimile satului.", "Panorama de aici include adesea vederi spre insula vecină Mustique."],
+      en: ["Derrick is located near Friendship Bay on the southern end of Bequia.", "The settlement is characterized by small-scale local agriculture.", "The surrounding area offers excellent opportunities for birdwatching.", "Derrick is connected to Port Elizabeth by narrow, winding ridge roads.", "The vicinity features several secluded private villas and guest houses.", "The elevated views often extend across the channel to Mustique island."],
+    },
   }
 ];

@@ -136,7 +136,7 @@ export const poiExtraHu1: POI[] = [
     },
     descriptionAdvanced: {
       de: "Szentlőrinc liegt in der Baranya-Ebene und ist bekannt für seine Landwirtschaftsmessen. Die Stadt dient als lokales Zentrum für die umliegenden Dörfer und bietet eine ruhige, ländliche Atmosphäre mit guter Anbindung an die Regionalhauptstadt Pécs.",
-      hu: "Szentlőrinc a Baranyai-síkságon fekszik, és mezőgazdasági vásárairól ismert. A város a környező falvak helyi központjaként szolgál, nyugodt, vidéki hangulatot kínálva, jó összeköttetéssel a vármegyeszékhelyhez, Pécshez.",
+      hu: "Szentlőrinc a Baranyai-síkság szívében, Pécstől mindössze 20 kilométerre nyugatra fekvő kisváros, amely fontos mezőgazdasági és kulturális csomópont Baranya vármegyében. A település neve összefonódott a nagy múltú Szentlőrinci Gazdanapokkal, amely az ország egyik legjelentősebb agrárkiállítása és vására, évente több tízezer látogatót vonzva a régióba. Történelme az őskorig nyúlik vissza, de igazi fejlődését a vasútvonal kiépítésének és az Esterházy-család birtokközpontjának köszönhette. A város központjában álló barokk stílusú Esterházy-kastély ma is meghatározó építészeti emlék, amely közösségi funkciókat lát el. Szentlőrinc kiváló kiindulópont a Mecsek déli lankáinak vagy az Ormánság néprajzi értékeinek felfedezéséhez, miközben megőrizte békés, élhető kisvárosi hangulatát és szoros kötődését a földművelő hagyományokhoz.",
       ro: "Szentlőrinc se află în Câmpia Baranya și este cunoscut pentru târgurile sale agricole. Orașul servește ca centru local pentru satele din jur, oferind o atmosferă rurală liniștită, cu legături bune către capitala regională Pécs.",
       en: "Szentlőrinc is located in the Baranya Plain and is known for its agricultural fairs. The town serves as a local center for the surrounding villages, offering a quiet, rural atmosphere with good connections to the regional capital, Pécs."
     },
@@ -146,7 +146,8 @@ export const poiExtraHu1: POI[] = [
       ro: ["Gazda Zilelor Fermierilor din Szentlőrinc.", "Nod feroviar important.", "Situat la vest de Pécs.", "Are o bogată tradiție agricolă."],
       en: ["Host of the Szentlőrinc Farmers' Days.", "Important railway junction.", "Located west of Pécs.", "Has a rich agricultural tradition."]
     }
-  },
+  ,
+    factsAdvanced: { hu: ["A város ad otthont az évente megrendezett Szentlőrinci Gazdanapoknak.", "A település központjában egy 18. századi barokk Esterházy-kastély található.", "Fontos vasúti és közúti csomópont a Pécs és Szigetvár közötti útvonalon.", "A környék már a római korban is lakott volt a közeli Sopianae hatása miatt.", "Híres az 1761-ben épült barokk stílusú római katolikus templomáról.", "A város környéki erdők és rétek gazdag vadállománnyal rendelkeznek.", "A településen jelentős az oktatási és kulturális intézményhálózat.", "Szentlőrinc az Ormánság kapujaként is ismert néprajzi szempontból."] }},
   {
     id: "geo-mecsek-extra",
     type: "geo",
@@ -161,7 +162,7 @@ export const poiExtraHu1: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Mecsek-Gebirge erstreckt sich über das Komitat Baranya und bietet eine einzigartige Flora und Fauna. Sein höchster Punkt ist der Zengő (682 m). Die Region ist reich an Bodenschätzen, darunter Uran und Kohle, und ist heute ein beliebtes Ziel für Wanderer und Naturliebhaber. In den Tälern liegen malerische Dörfer und historische Klöster.",
-      hu: "A Mecsek hegység Baranya vármegyében terül el, egyedülálló flórát és faunát kínálva. Legmagasabb pontja a Zengő (682 m). A régió gazdag ásványkincsekben, köztük uránban és szénben, ma pedig a túrázók és természetbarátok kedvelt célpontja. Völgyeiben festői falvak és történelmi kolostorok bújnak meg.",
+      hu: "A Mecsek hegység a Dél-Dunántúl egyik legváltozatosabb középhegysége, amely szigetként emelkedik ki a környező síkságokból Baranya vármegye szívében. Különleges, szubmediterrán jellegű éghajlata miatt a terület flórája és faunája egyedülálló; itt él például a ritka bánáti bazsarózsa is. Legmagasabb csúcsa a 682 méteres Zengő, ahonnan tiszta időben az egész dél-magyarországi régió belátható. A hegység belseje kiterjedt barlangrendszereket rejt, mint például a látványos Abaligeti-barlang, míg a felszínen karsztforrások és mély völgyek váltják egymást. A Mecsek nemcsak természeti, hanem ipartörténeti jelentőséggel is bír: évtizedekig itt zajlott a magyarországi feketekőszén- és uránbányászat. Ma a hegység a természetjárók, barlangászok és a pécsi kirándulók legfőbb célpontja, ahol minden évszakban más-más arcát mutatja a táj.",
       ro: "Munții Mecsek se întind în județul Baranya și oferă o floră și faună unică. Cel mai înalt punct este Zengő (682 m). Regiunea este bogată în resurse minerale, inclusiv uraniu și cărbune, iar astăzi este o destinație populară pentru drumeți și iubitorii de natură. În văile sale se află sate pitorești și mănăstiri istorice.",
       en: "The Mecsek Mountains stretch across Baranya county, offering unique flora and fauna. Its highest point is Zengő (682 m). The region is rich in mineral resources, including uranium and coal, and is today a popular destination for hikers and nature lovers. Picturesque villages and historic monasteries lie in its valleys."
     },
@@ -170,7 +171,8 @@ export const poiExtraHu1: POI[] = [
       hu: ["Legmagasabb pontja a Zengő (682 m).", "Itt található az Abaligeti-barlang.", "Szubmediterrán éghajlatáról ismert.", "Gazdag növény- és állatvilággal rendelkezik."],
       ro: ["Cel mai înalt punct este Zengő (682 m).", "Găzduiește peștera Abaliget.", "Cunoscut pentru climatul submediteranean.", "Bogat în floră și faună."],
       en: ["Highest point is Zengő (682 m).", "Home to the Abaliget Cave.", "Known for its sub-Mediterranean climate.", "Rich in flora and fauna."]
-    }, image: "/poi-images/geo-mecsek-extra.webp"},
+    }, image: "/poi-images/geo-mecsek-extra.webp",
+    factsAdvanced: { hu: ["Legmagasabb pontja a 682 méter magas Zengő-csúcs.", "Itt található Magyarország egyik legritkább virága, a bánáti bazsarózsa.", "A hegység alatt húzódik a híres Abaligeti-cseppkőbarlang.", "Európa egyik legészakibb szubmediterrán éghajlatú területe.", "Évtizedekig a magyarországi urán- és kőszénbányászat központja volt.", "Számos középkori várrom és kolostor található a sűrű erdőkben.", "A hegység lábánál fekszik a mediterrán hangulatú Pécs városa.", "Kőzetei között a mészkő a domináns, ami gazdag karsztformákat hozott létre."] }},
   {
     id: "geschichte-pecsvaradi-var-extra",
     type: "geschichte",
@@ -185,7 +187,7 @@ export const poiExtraHu1: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Burg von Pécsvárad wurde im 10. Jahrhundert gegründet und war eine der ersten christlichen Zentren in Ungarn. Die Benediktinerabtei spielte eine entscheidende Rolle bei der Bekehrung der Ungarn. Die Burgruine beherbergt heute eine Kapelle mit byzantinischen Fresken und ein Museum.",
-      hu: "A pécsváradi várat a 10. században alapították, és Magyarország egyik első keresztény központja volt. A bencés apátság döntő szerepet játszott a magyarok megtérítésében. A várrom ma egy bizánci freskókkal díszített kápolnának és egy múzeumnak ad otthont.",
+      hu: "A pécsváradi vár és a benne található bencés monostor a magyar államiság és kereszténység egyik legfontosabb bölcsője. Szent István királyunk 998-ban alapította itt az apátságot, amelynek első apátja, Asztrik hozta el a koronát a pápától. Az épületegyüttes a Mecsek keleti lábánál, egy magaslaton fekszik, és magában foglalja a 10. századi falrészleteket, egyedülálló bizánci stílusú freskókkal díszített kápolnát, valamint a középkori kolostor romjait. A vár évszázadokon át jelentős hiteleshelyként és kulturális központként működött. Ma az épület múzeumként és várkastélyként funkcionál, ahol a látogatók megismerhetik a szerzetesi élet mindennapjait, a gyógynövénykert titkait és a magyar történelem korai szakaszát egy autentikus, csendes környezetben.",
       ro: "Cetatea Pécsvárad a fost fondată în secolul al X-lea și a fost unul dintre primele centre creștine din Ungaria. Abația benedictină a jucat un rol crucial în convertirea maghiarilor. Ruinele cetății găzduiesc astăzi o capelă cu fresce bizantine și un muzeu.",
       en: "Pécsvárad Castle was founded in the 10th century and was one of the first Christian centers in Hungary. The Benedictine abbey played a crucial role in the conversion of the Hungarians. The castle ruins now house a chapel with Byzantine frescoes and a museum."
     },
@@ -194,7 +196,8 @@ export const poiExtraHu1: POI[] = [
       hu: ["998 körül alapították.", "Egykor bencés apátság.", "11. századi freskókkal rendelkezik.", "Várkápolnájáról híres."],
       ro: ["Fondată în jurul anului 998.", "Fostă abație benedictină.", "Deține fresce din secolul al XI-lea.", "Cunoscută pentru capela castelului."],
       en: ["Founded around 998.", "Former Benedictine abbey.", "Features 11th-century frescoes.", "Famous for its castle chapel."]
-    }, image: "/poi-images/geschichte-pecsvaradi-var-extra.webp"},
+    }, image: "/poi-images/geschichte-pecsvaradi-var-extra.webp",
+    factsAdvanced: { hu: ["Szent István király alapította az apátságot 998-ban Koppány legyőzése után.", "Asztrik apát itt várta a II. Szilveszter pápától érkező koronát.", "A várkápolnában található Magyarország legrégebbi bizánci stílusú freskója.", "A középkorban az ország egyik legfontosabb hiteleshelyeként működött.", "A vártemplom alatt egyedülálló, 10. századi eredetű altemplom található.", "Minden évben itt rendezik meg a Leányvásárt, amely híres népművészeti esemény.", "A szerzetesek egykor híres gyógyító tevékenységet folytattak a falak között.", "A vár udvarán egy rekonstruált középkori gyógynövénykert látható."] }},
   {
     id: "geschichte-mecseknadasdi-templom-extra",
     type: "geschichte",
@@ -209,7 +212,7 @@ export const poiExtraHu1: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die St.-Stephans-Kirche in Mecseknádasd stammt aus dem 13. Jahrhundert und ist ein bedeutendes Denkmal der romanischen Architektur in Ungarn. Die Kirche steht auf einem Hügel über dem Dorf und ist von einem historischen Friedhof umgeben. Sie bewahrt mittelalterliche Wandmalereien und eine einzigartige Atmosphäre.",
-      hu: "A mecseknádasdi Szent István-templom a 13. századból származik, és a román kori építészet jelentős emléke Magyarországon. A templom a falu feletti dombon áll, és egy történelmi temető veszi körül. Középkori falfestményeket és egyedülálló hangulatot őriz.",
+      hu: "A mecseknádasdi Szent István-templom, közismertebb nevén az Árpád-kori templom, a baranyai német nemzetiségi falu feletti dombon őrzi a középkor emlékét. A 13. században épült, román stílusú épület Magyarország egyik legtisztább formában megmaradt ilyen jellegű műemléke. A templomot egy régi, mohos sírkövekkel teli temető veszi körül, ami különösen misztikus hangulatot kölcsönöz a helynek. Belső terében 14. századi gótikus falfestmények töredékei láthatók, amelyek bibliai jeleneteket és szenteket ábrázolnak. Bár a falu a völgybe húzódott, az ősi templom a dombtetőn maradt, tanúsítva az egykori településszerkezetet. A helyszín nemcsak az építészettörténet iránt érdeklődőknek, hanem a csendet és a spirituális elmélyülést keresőknek is tökéletes célpont a Keleti-Mecsek kapujában.",
       ro: "Biserica Sfântul Ștefan din Mecseknádasd datează din secolul al XIII-lea și este un monument important al arhitecturii romanice din Ungaria. Biserica se află pe un deal deasupra satului și este înconjurată de un cimitir istoric. Păstrează picturi murale medievale și o atmosferă unică.",
       en: "The St. Stephen's Church in Mecseknádasd dates from the 13th century and is a significant monument of Romanesque architecture in Hungary. The church stands on a hill above the village and is surrounded by a historic cemetery. It preserves medieval wall paintings and a unique atmosphere."
     },
@@ -218,7 +221,8 @@ export const poiExtraHu1: POI[] = [
       hu: ["A 13. században épült.", "Román stílusú.", "Jelentős műemlék.", "Régi sírkövek veszik körül."],
       ro: ["Construită în secolul al XIII-lea.", "Stil romanic.", "Monument arhitectural important.", "Înconjurată de pietre funerare vechi."],
       en: ["Built in the 13th century.", "Romanesque style.", "Significant architectural monument.", "Surrounded by old gravestones."]
-    }, image: "/poi-images/geschichte-mecseknadasdi-templom-extra.webp"},
+    }, image: "/poi-images/geschichte-mecseknadasdi-templom-extra.webp",
+    factsAdvanced: { hu: ["A templom a 13. század közepén épült késő román stílusban.", "A belső falakon értékes 14. századi gótikus freskótöredékek láthatók.", "A templomot körülvevő temetőben 18-19. századi német sírkövek állnak.", "Egykor a falu plébániatemploma volt, mielőtt a település lejjebb költözött.", "Az épület tájolása pontosan kelet-nyugati irányú a középkori szokások szerint.", "A török hódoltság idején is épségben maradt, ami ritkaságnak számított.", "A hajó és a szentély arányai a román kori építészet klasszikus jegyeit viselik.", "A templom mellől gyönyörű kilátás nyílik a Keleti-Mecsek vonulataira."] }},
   // HU-BK: Bács-Kiskun
   {
     id: "city-kiskunhalas-extra",
@@ -234,7 +238,7 @@ export const poiExtraHu1: POI[] = [
     },
     descriptionAdvanced: {
       de: "Kiskunhalas liegt zwischen der Donau und der Theiß. Das Halaser Spitzenhaus ist das kulturelle Zentrum der Stadt, wo die jahrhundertealte Tradition der Spitzenherstellung bewahrt wird. Die Stadt hat auch bedeutende Thermalbäder und eine reiche protestantische Kirchengeschichte.",
-      hu: "Kiskunhalas a Duna és a Tisza között fekszik. A Halasi Csipkeház a város kulturális központja, ahol a csipkekészítés évszázados hagyományát őrzik. A város jelentős termálfürdővel és gazdag protestáns egyháztörténettel is rendelkezik.",
+      hu: "Kiskunhalas az Alföld szívében, a Duna-Tisza közén elterülő város, amely világhírnevét elsősorban a finom, kézzel készített halasi csipkének köszönheti. A város története szorosan összefonódik a kunok betelepülésével, aminek emlékeit a helyi múzeumok és a lakosság öntudata is őrzi. Kiskunhalas nemcsak kulturális, hanem gazdasági és oktatási központ is, ahol a református hagyományok mélyen gyökereznek. A látogatók számára a Csipkeház nyújt maradandó élményt, ahol megtekinthetik az 1902 óta készülő, egyedülálló varrott csipke technikáját. A város környezete, a kiskunsági puszta és a közeli szikes tavak különleges természeti értékeket képviselnek, míg a helyi gyógyfürdő a regenerálódni vágyókat várja. Kiskunhalas egy olyan barátságos, alföldi város, ahol a kézműves hagyományok és a modern városi élet harmonikus egyensúlyban élnek egymás mellett.",
       ro: "Kiskunhalas se află între Dunăre și Tisa. Casa Dantelei din Halas este centrul cultural al orașului, unde se păstrează tradiția seculară a fabricării dantelei. Orașul are, de asemenea, băi termale importante și o bogată istorie a bisericii protestante.",
       en: "Kiskunhalas is located between the Danube and the Tisza rivers. The Halas Lace House is the cultural center of the city, where the centuries-old tradition of lace-making is preserved. The city also has significant thermal baths and a rich Protestant church history."
     },
@@ -244,7 +248,8 @@ export const poiExtraHu1: POI[] = [
       ro: ["Patria dantelei din Halas.", "Deține un muzeu al dantelei.", "Baie termală importantă.", "Situat în Marea Câmpie Ungară."],
       en: ["Home of the Halas Lace.", "Has a lace museum.", "Significant thermal bath.", "Located in the Great Hungarian Plain."]
     }
-  },
+  ,
+    factsAdvanced: { hu: ["A világhírű halasi csipke bölcsője, amely 2010 óta hungarikum.", "A halasi csipkét egyedülálló módon, tűvel és cérnával varrják, nem verik.", "Itt található az ország egyik legjelentősebb református kollégiuma és temploma.", "A város neve a középkori Halas-székből ered, amely a kunok egyik központja volt.", "A halasi Csipkeház nemzetközileg elismert múzeum és alkotóműhely.", "Kiskunhalas alatt jelentős termálvízkincs található, melyre gyógyfürdő épült.", "A városháza tornyából csodálatos kilátás nyílik a kiskunsági tájra.", "A település híres lovas hagyományairól és évente megrendezett szüreti napjairól."] }},
   {
     id: "city-lajosmizse-extra",
     type: "city",
@@ -259,7 +264,7 @@ export const poiExtraHu1: POI[] = [
     },
     descriptionAdvanced: {
       de: "Lajosmizse ist ein wichtiges Zentrum des Reittourismus in Ungarn. Die Stadt ist berühmt für ihre Pferdevorführungen und die authentische Puszta-Atmosphäre. Viele Besucher kommen hierher, um die traditionelle ungarische Küche in den örtlichen Csárdas zu genießen.",
-      hu: "Lajosmizse a lovasturizmus egyik fontos központja Magyarországon. A város híres lovasbemutatóiról és az autentikus pusztai hangulatról. Sok látogató érkezik ide, hogy élvezze a hagyományos magyar konyhát a helyi csárdákban.",
+      hu: "Lajosmizse a magyar lovasturizmus és a pusztai vendéglátás egyik legfontosabb fellegvára, Budapesttől alig egyórányi autóútra, Kecskemét szomszédságában. A település neve világszerte ismerősen cseng a minőségi falusi turizmus kedvelői körében, köszönhetően a hagyományos magyar csárdáknak és a látványos lovasbemutatóknak. Lajosmizse környékén számos tanya található, amelyek hűen őrzik az alföldi életmód és gazdálkodás emlékeit, miközben modern kényelmet kínálnak a látogatóknak. A híres Tanyacsárda nemcsak a gasztronómiai élményekről, hanem a magyar csikósok ügyességét bemutató programjairól is nevezetes, amelyek a puszta romantikáját idézik meg. A város környezete ideális a természetjáráshoz, a lovagláshoz és a mindennapi stressz elől való elmeneküléshez, ahol az Alföld végtelen rónasága és a vendégszerető helyiek autentikus magyar élményt garantálnak minden ide érkezőnek.",
       ro: "Lajosmizse este un centru important al turismului ecvestru în Ungaria. Orașul este faimos pentru spectacolele sale de călărie și atmosfera autentică de puszta. Mulți vizitatori vin aici pentru a se bucura de bucătăria tradițională maghiară în csárda-urile locale.",
       en: "Lajosmizse is an important center for equestrian tourism in Hungary. The town is famous for its horse shows and the authentic Puszta atmosphere. Many visitors come here to enjoy traditional Hungarian cuisine in the local csárdas (inns)."
     },
@@ -268,7 +273,8 @@ export const poiExtraHu1: POI[] = [
       hu: ["A lovasturizmus központja.", "Híres lovasbemutatóiról.", "Hagyományos csárdák.", "A Puszta kapuja."],
       ro: ["Centru al turismului ecvestru.", "Faimos pentru spectacolele de călărie.", "Csárda-uri tradiționale.", "Poarta către Puszta."],
       en: ["Center for equestrian tourism.", "Famous for horse shows.", "Traditional csárdas (inns).", "Gateway to the Puszta."]
-    }, image: "/poi-images/city-lajosmizse-extra.webp"},
+    }, image: "/poi-images/city-lajosmizse-extra.webp",
+    factsAdvanced: { hu: ["A magyar lovasturizmus egyik legjelentősebb központja az Alföldön.", "Híres az autentikus magyar konyhát kínáló, többszörösen kitüntetett csárdáiról.", "A településen rendszeresen tartanak látványos csikósbemutatókat és puszta-ötöst.", "Lajosmizse környéke a tanyasi életmód és a tanyasi turizmus mintaterülete.", "A város határában található a Szent Lajos király tiszteletére szentelt templom.", "Fontos szerepet játszik a régió gyümölcstermesztésében, különösen a szamóca terén.", "A település 1993-ban kapott városi rangot, dinamikusan fejlődő központ.", "Kiváló közlekedési adottságokkal rendelkezik az M5-ös autópálya mentén."] }},
   {
     id: "geo-kiskunsagi-nemzeti-park-extra",
     type: "geo",
@@ -283,7 +289,7 @@ export const poiExtraHu1: POI[] = [
     },
     descriptionAdvanced: {
       de: "Der Kiskunság-Nationalpark wurde 1975 gegründet und besteht aus mehreren getrennten Gebieten. Er bewahrt Alkaliseen, Sanddünen und die typische Steppenlandschaft (Puszta). Der Park ist ein wichtiges Vogelschutzgebiet und beherbergt traditionelle ungarische Haustierrassen wie das Graurind.",
-      hu: "A Kiskunsági Nemzeti Parkot 1975-ben alapították, és több különálló egységből áll. Szikes tavakat, homokbuckákat és a jellegzetes pusztai tájat őrzi. A park fontos madárvédelmi terület, és olyan hagyományos magyar állatfajtáknak ad otthont, mint a szürkemarha.",
+      hu: "A Kiskunsági Nemzeti Park a Duna és a Tisza közötti homokhátság és a szikes puszták egyedülálló természeti értékeit óvja 1975 óta. Ez Magyarország második nemzeti parkja, amely nem egy összefüggő területen, hanem több különálló egységben (például Bugac, Apaj-puszta, Fülöpháza) helyezkedik el. A park látogatói megismerhetik a mozgó homokbuckák, a szikes tavak és a végtelen szikes puszták világát, amely számos ritka növény- és állatfajnak nyújt menedéket. Különösen jelentős a madárvilága; a szikes tavak a vonuló madarak fontos pihenőhelyei, és itt fészkel a túzok, Európa legnagyobb testű madara is. A nemzeti park nemcsak a természet, hanem a pásztorélet hagyományainak is őrzője: a bugaci pusztán ma is láthatók a magyar szürkemarhák, rackajuhok és a ménesek, bemutatva az ember és a természet évszázados együttélését az Alföld szívében.",
       ro: "Parcul Național Kiskunság a fost fondat în 1975 și constă din mai multe zone separate. Acesta păstrează lacuri alcaline, dune de nisip și peisajul tipic de stepă (puszta). Parcul este o zonă importantă de protecție a păsărilor și găzduiește rase tradiționale de animale domestice maghiare, cum ar fi vitele sure.",
       en: "The Kiskunság National Park was founded in 1975 and consists of several separate areas. It preserves alkali lakes, sand dunes, and the typical steppe landscape (Puszta). The park is an important bird sanctuary and is home to traditional Hungarian domestic animal breeds such as the Grey Cattle."
     },
@@ -292,7 +298,8 @@ export const poiExtraHu1: POI[] = [
       hu: ["1975-ben alapították.", "9 különálló egységből áll.", "Homokbuckáiról és szikes tavairól ismert.", "A magyar szürkemarha hazája."],
       ro: ["Fondat în 1975.", "Constă din 9 zone separate.", "Cunoscut pentru dunele de nisip și lacurile alcaline.", "Patria vitelor sure maghiare."],
       en: ["Founded in 1975.", "Consists of 9 separate areas.", "Known for sand dunes and alkali lakes.", "Home to the Hungarian Grey Cattle."]
-    }, image: "/poi-images/geo-kiskunsagi-nemzeti-park-extra.webp"},
+    }, image: "/poi-images/geo-kiskunsagi-nemzeti-park-extra.webp",
+    factsAdvanced: { hu: ["Magyarország második nemzeti parkja, amelyet 1975-ben alapítottak.", "Kilenc különálló egységből áll, összesen több mint 50 ezer hektáron.", "Itt találhatók Közép-Európa egyik legjelentősebb mozgó homokbuckái Fülöpházán.", "A park területe az UNESCO Ember és Bioszféra programjának része.", "A szikes tavak (pl. Kolon-tó) a nemzetközi jelentőségű vadvizek közé tartoznak.", "A bugaci puszta a magyar pásztorhagyományok és a génmegőrzés központja.", "Fontos élőhelye a túzoknak, amely a nemzeti park egyik szimbolikus faja.", "Számos tanösvény és látogatóközpont segíti a pusztai élővilág megismerését."] }},
   {
     id: "geschichte-cifrapalota-extra",
     type: "geschichte",
@@ -307,7 +314,7 @@ export const poiExtraHu1: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Cifrapalota (wörtlich: Schmuckpalast) wurde 1902 erbaut und ist eines der schönsten Beispiele des ungarischen Jugendstils. Die Fassade ist reich mit farbenfrohen Keramikelementen der Zsolnay-Manufaktur geschmückt. Heute beherbergt das Gebäude die Kecskeméter Kunstgalerie.",
-      hu: "A Cifrapalota 1902-ben épült, és a magyar szecessziós építészet egyik legszebb példája. Homlokzatát a Zsolnay-manufaktúra színes kerámiaelemei díszítik gazdagon. Ma az épület a Kecskeméti Képtárnak ad otthont.",
+      hu: "A kecskeméti Cifrapalota a magyar szecessziós építészet egyik legkülönlegesebb és leglátványosabb remekműve, amely 1902-ben épült Márkus Géza tervei alapján. Nevét a színes, gazdagon díszített homlokzatáról kapta, amelyen a Zsolnay-manufaktúra népművészeti motívumokkal inspirált kerámiadíszei pompáznak. Az épület eredetileg bérházként, üzlethelyiségként és kaszinóként funkcionált, de belső terei is ugyanolyan lenyűgözőek, mint a külseje, különösen a Pávás terem szecessziós stukkói. Ma a Cifrapalota a Kecskeméti Képtárnak ad otthont, ahol többek között Mednyánszky László és Nagy István műveit is megcsodálhatják a látogatók. Az épület Kecskemét főterének meghatározó eleme, amely a város 20. század eleji aranykorát és a magyar polgárosodás esztétikai igényességét hirdeti, s egyben a város egyik legnépszerűbb fotóhelyszíne is.",
       ro: "Cifrapalota (literalmente: Palatul Împroșcat) a fost construit în 1902 și este unul dintre cele mai frumoase exemple ale stilului Secession maghiar. Fațada este bogat decorată cu elemente ceramice colorate de la manufactura Zsolnay. Astăzi, clădirea găzduiește Galeria de Artă din Kecskemét.",
       en: "The Cifrapalota (literally: Ornamental Palace) was built in 1902 and is one of the most beautiful examples of Hungarian Secessionist architecture. The facade is richly decorated with colorful ceramic elements from the Zsolnay manufacture. Today, the building houses the Kecskemét Art Gallery."
     },
@@ -316,7 +323,8 @@ export const poiExtraHu1: POI[] = [
       hu: ["A magyar szecesszió remekműve.", "1902-ben épült.", "Zsolnay-kerámiákkal díszített.", "Művészeti galériának ad otthont."],
       ro: ["Capodoperă a stilului Secession maghiar.", "Construit în 1902.", "Decorat cu ceramică Zsolnay.", "Găzduiește o galerie de artă."],
       en: ["Masterpiece of Hungarian Secession.", "Built in 1902.", "Decorated with Zsolnay ceramics.", "Houses an art gallery."]
-    }, image: "/poi-images/geschichte-cifrapalota-extra.webp"},
+    }, image: "/poi-images/geschichte-cifrapalota-extra.webp",
+    factsAdvanced: { hu: ["Márkus Géza tervezte az épületet, amelyet 1902-ben adtak át.", "A homlokzatot díszítő színes majolikákat a pécsi Zsolnay-gyár készítette.", "A népművészeti motívumok használata a magyar nemzeti stílus keresését tükrözi.", "Legszebb belső tere a Pávás terem, amely ma kiállítások és koncertek helyszíne.", "Eredetileg lakóháznak épült, de működött benne kereskedelmi kaszinó is.", "1983 óta a Kecskeméti Képtár és a megyei múzeumközpont otthona.", "Az épület tetejét is díszes, színes mázas cserép fedi a szecesszió jegyében.", "A Cifrapalota Kecskemét szecessziós építészeti körútjának egyik fő állomása."] }},
   {
     id: "geschichte-kiskun-muzeum-extra",
     type: "geschichte",
@@ -331,7 +339,7 @@ export const poiExtraHu1: POI[] = [
     },
     descriptionAdvanced: {
       de: "Das Kiskun-Museum befindet sich in einem ehemaligen Gefängnisgebäude aus dem 18. Jahrhundert. Es präsentiert die Geschichte und Kultur der Kumanen (Kun), eines Reitervolkes, das sich im Mittelalter in Ungarn niederließ. Besonders beeindruckend ist die Windmühle im Garten des Museums.",
-      hu: "A Kiskun Múzeum egy 18. századi egykori börtönépületben található. Bemutatja a kunok történetét és kultúráját, akik a középkorban telepedtek le Magyarországon. Különösen lenyűgöző a múzeum kertjében álló szélmalom.",
+      hu: "A kiskunfélegyházi Kiskun Múzeum a Kiskunság múltjának és a kunok történetének egyik legjelentősebb gyűjtőhelye, amely egy patinás, 18. századi épületben kapott helyet. Az intézmény székhelye eredetileg a Kiskun Kerület székházaként épült 1753-ban, és falai között börtön is működött, ami ma is megtekinthető. A múzeum gazdag néprajzi és régészeti kiállításai mellett a látogatókat egy különleges udvar várja, ahol a térségre jellemző népi építészet emlékeit őrizik. Itt áll a Pajkos-Szabó-féle szélmalom, amely az Alföld jellegzetes ipartörténeti emléke. A múzeum nemcsak a kunsági hagyományokat ápolja, hanem irodalomtörténeti emlékhely is, hiszen Petőfi Sándor és Móra Ferenc városa révén szoros szálakkal kötődik a magyar irodalomhoz. A kiállítások hiteles képet adnak a pusztán élők mindennapjairól, a kunok kiváltságairól és a vidék mezővárosi fejlődéséről.",
       ro: "Muzeul Kiskun se află într-o fostă clădire de închisoare din secolul al XVIII-lea. Prezintă istoria și cultura cumanilor (kun), un popor de călăreți care s-a stabilit în Ungaria în Evul Mediu. Deosebit de impresionantă este moara de vânt din grădina muzeului.",
       en: "The Kiskun Museum is located in a former prison building from the 18th century. It presents the history and culture of the Cumans (Kun), a horse-riding people who settled in Hungary in the Middle Ages. The windmill in the museum's garden is particularly impressive."
     },
@@ -340,7 +348,8 @@ export const poiExtraHu1: POI[] = [
       hu: ["Egy régi börtönben működik.", "A kiskunsági történelmet mutatja be.", "Helytörténeti és néprajzi gyűjtemény.", "Kertjében szélmalom látható."],
       ro: ["Sediu într-o veche închisoare.", "Prezintă istoria cumană.", "Deține o moară de vânt istorică.", "Important centru cultural local."],
       en: ["Located in an old prison.", "Presents Cuman history.", "Features a historic windmill.", "Important local cultural center."]
-    }, image: "/poi-images/geschichte-kiskun-muzeum-extra.webp"},
+    }, image: "/poi-images/geschichte-kiskun-muzeum-extra.webp",
+    factsAdvanced: { hu: ["A múzeum épülete 1753-ban épült, eredetileg a Kiskun Kapitányság székháza volt.", "Az alagsorban épségben megmaradt egy 18. századi börtön és kínzókamra.", "Kertjében látható a Pajkos-Szabó szélmalom, amely 1860-ban épült.", "Gazdag gyűjteménnyel rendelkezik a kunok betelepüléséről és életmódjáról.", "A múzeum udvarán népi kismesterségeket bemutató műhelyek találhatók.", "Itt őrzik Kiskunfélegyháza és a Kiskun Kerület legfontosabb történeti iratait.", "A kiállítás részét képezi egy egyedülálló képzőművészeti és numizmatikai anyag.", "Évente több alkalommal rendeznek hagyományőrző napokat és múzeumpedagógiai foglalkozásokat."] }},
   // HU-BE: Békés
   
   {
@@ -357,7 +366,7 @@ export const poiExtraHu1: POI[] = [
     },
     descriptionAdvanced: {
       de: "Die Stadt entstand durch die Vereinigung von Gyoma und Endrőd. Sie ist ein bedeutendes kulturelles Zentrum der Region, insbesondere durch die Kner-Familie, die die ungarische Buchdruckkunst revolutionierte. Das Liget-Bad bietet Entspannung in Heilwasser, während die Altarme der Körös Naturliebhaber anziehen.",
-      hu: "A város Gyoma és Endrőd egyesülésével jött létre. A régió jelentős kulturális központja, különösen a Kner család révén, akik forradalmasították a magyar könyvnyomtatást. A Liget fürdő gyógyvizes kikapcsolódást nyújt, míg a Körös holtágai a természetkedvelőket vonzzák.",
+      hu: "Gyomaendrőd a Körösök vidékének egyik legvonzóbb települése Békés vármegyében, amely 1982-ben jött létre Gyoma és Endrőd egyesülésével. A város országos hírnevét a gyógyhatású Liget fürdőnek és a nemzetközileg is elismert Kner Nyomdának köszönheti. A Kner család forradalmasította a magyar könyvkiadást és nyomdászatot; az egykori lakóházukban működő Nyomdaipari Múzeum Európa-szerte egyedülálló gyűjteménnyel várja a bibliofileket. Gyomaendrőd a vizek városa is: a Hármas-Körös kanyarulatai és a számos holtág nemcsak a horgászok, hanem a természetjárók és vízi túrázók paradicsoma is. A település büszke tiszta utcáira, virágos parkjaira és a vidék nyugalmára, miközben gazdag kulturális eseményekkel, például a Nemzetközi Sajt- és Túrófesztivállal színesíti az Alföld turisztikai kínálatát. A város a nyugodt pihenés és a szellemi értékek kedvelőinek ideális úti célja.",
       ro: "Orașul a fost format prin unirea localităților Gyoma și Endrőd. Este un centru cultural important al regiunii, în special datorită familiei Kner, care a revoluționat arta tipografică maghiară. Baia Liget oferă relaxare în apă termală, în timp ce brațele moarte ale râului Körös atrag iubitorii de natură.",
       en: "The city was formed through the merger of Gyoma and Endrőd. It is a significant cultural center of the region, especially through the Kner family, who revolutionized Hungarian book printing. The Liget Bath offers relaxation in medicinal water, while the dead arms of the Körös river attract nature lovers."
     },
@@ -367,7 +376,8 @@ export const poiExtraHu1: POI[] = [
       ro: ["Patria faimoasei tipografii Kner.", "Deține 16 poduri.", "Cunoscut pentru ciorba de pește.", "Stațiune balneară importantă."],
       en: ["Home of the famous Kner printing house.", "Has 16 bridges.", "Known for its fish soup.", "Significant medicinal spa."]
     }
-  },
+  ,
+    factsAdvanced: { hu: ["1982-ben jött létre Gyoma és Endrőd községek egyesítésével.", "Itt található a Kner Nyomdaipari Múzeum, amely az ország egyetlen ilyen intézménye.", "A várost 16 híd köti össze, ezért gyakran nevezik a Körösök Velencéjének.", "A Liget Gyógyfürdő vize 650 méter mélyről tör fel, és kiváló mozgásszervi panaszokra.", "A Hármas-Körös holtágai az ország egyik legnagyobb és legtisztább horgászvizét alkotják.", "Minden évben itt rendezik meg a Nemzetközi Sajt- és Túrófesztivált.", "A település híres Endrődi Tájháza a paraszti életmód emlékeit őrzi.", "A város környéki árterek a Körös-Maros Nemzeti Park részét képezik."] }},
   {
     id: "geschichte-wenckheim-kastely-extra",
     type: "geschichte",
@@ -391,7 +401,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Ybl Miklós tervezte.", "365 ablaka és 52 szobája van.", "Neoreneszánsz stílus.", "Gyönyörű kastélypark."],
       ro: ["Proiectat de Miklós Ybl.", "365 de ferestre și 52 de camere.", "Stil neorenașcentist.", "Parc peisagistic minunat."],
       en: ["Designed by Miklós Ybl.", "365 windows and 52 rooms.", "Neo-Renaissance style.", "Beautiful landscape park."]
-    }, image: "/poi-images/geschichte-wenckheim-kastely-extra.webp"},
+    }, image: "/poi-images/geschichte-wenckheim-kastely-extra.webp",
+    factsAdvanced: {
+      de: ["Bauzeit von 1875 bis 1879 durch Miklós Ybl", "Architektur symbolisiert Tage, Wochen und Monate des Jahres", "Verfügt über 365 Fenster und 52 Zimmer", "Eines der modernsten Schlösser seiner Zeit (Gasbeleuchtung)", "25 Hektar großer Landschaftspark mit seltenen Bäumen", "Seit 2022 nach vollständiger Renovierung neu eröffnet"],
+      hu: ["1875 és 1879 között épült Ybl Miklós tervei szerint", "A naptári egységeket jelképezi: 365 ablak, 52 szoba", "Gázvilágítással és légfűtéssel is ellátták építésekor", "A kastélyhoz 25 hektáros természetvédelmi park tartozik", "A Wenckheim család reprezentatív lakhelye volt", "2022-ben nyílt meg újra a teljes körű felújítás után"],
+      ro: ["Construit între 1875-1879 de arhitectul Miklós Ybl", "Simbolizează calendarul: 365 ferestre și 52 camere", "Dotat cu iluminat pe gaz și încălzire modernă la epocă", "Parcul dendrologic are o suprafață de 25 hectare", "A fost reședința principală a familiei Wenckheim", "Redeschis vizitatorilor în 2022 după restaurare"],
+      en: ["Built between 1875 and 1879 by Miklós Ybl", "Symbolizes the year: 365 windows and 52 rooms", "One of the most modern castles of its era (gas lighting)", "Surrounded by a 25-hectare protected landscape park", "Former residence of the counts of the Wenckheim family", "Reopened in 2022 following a comprehensive restoration"],
+    },
+  },
   {
     id: "geschichte-geotermikus-kozpont-extra",
     type: "geschichte",
@@ -415,7 +432,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["A megújuló energiára fókuszál.", "Interaktív kiállítások.", "A helyi földhőt hasznosítja.", "Modern oktatási központ."],
       ro: ["Focus pe energia regenerabilă.", "Expoziții interactive.", "Utilizează căldura locală a pământului.", "Centru educațional modern."],
       en: ["Focus on renewable energy.", "Interactive exhibitions.", "Utilizes local geothermal heat.", "Modern educational center."]
-    }, image: "/poi-images/geschichte-geotermikus-kozpont-extra.webp"},
+    }, image: "/poi-images/geschichte-geotermikus-kozpont-extra.webp",
+    factsAdvanced: {
+      de: ["Entdeckung der Heilwirkung im Jahr 1869", "Erhalt des Heilbad-Status im Jahr 1999", "Thermalwasser entspringt aus 670 m Tiefe", "Wassertemperatur am Brunnenkopf beträgt 47 Grad", "Gesamtfläche des Komplexes über 20 Hektar", "Eröffnung des modernen Erlebnisbades im Jahr 2004"],
+      hu: ["1869-ben fedezték fel a tó gyógyhatását", "1999-ben kapott gyógyfürdő minősítést", "A termálvíz 670 méter mélyről tör fel", "A kútfej hőmérséklete eléri a 47 Celsius-fokot", "A komplexum területe meghaladja a 20 hektárt", "2004-ben épült meg a modern élményfürdő rész"],
+      ro: ["Efectele curative au fost descoperite în 1869", "A primit certificarea de stațiune balneară în 1999", "Apa termală provine de la o adâncime de 670 m", "Temperatura la capul puțului ajunge la 47 grade", "Complexul se întinde pe o suprafață de peste 20 ha", "Parcul acvatic modern a fost construit în 2004"],
+      en: ["Medicinal effects discovered in 1869", "Certified as a medicinal spa in 1999", "Thermal water rises from a depth of 670 meters", "Water temperature at the wellhead is 47°C", "The complex covers an area of over 20 hectares", "Modern experience bath built in 2004"],
+    },
+  },
   // HU-BZ: Borsod-Abaúj-Zemplén
   {
     id: "geschichte-edelenyi-kastelysziget-extra",
@@ -440,9 +464,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Barokk remekmű.", "Szigeten fekszik.", "Egyedülálló falfestmények.", "Teljeskörűen felújítva."],
       ro: ["Capodoperă barocă.", "Situat pe o insulă.", "Picturi murale unice.", "Restaurat integral."],
       en: ["Baroque masterpiece.", "Located on an island.", "Unique wall paintings.", "Extensively restored."]
-    }
-    
     },
+    factsAdvanced: {
+      de: ["Baubeginn der Anlage im Jahr 1716", "Erbaut im Auftrag von Jean-François L’Huillier", "Umgeben von einem 10,6 Hektar großen Landschaftsgarten", "Wandmalereien von Ferenc Lieb in 7 Räumen", "Abschluss der vollständigen Rekonstruktion 2014", "Lage auf einer von Bódva-Altarmen gebildeten Insel"],
+      hu: ["1716-ban kezdődött meg az építkezés", "L’Huillier János Ferenc megrendelésére készült", "10,6 hektáros angolkert veszi körül", "7 szobát díszítenek Lieb Ferenc falfestményei", "2014-ben fejeződött be a teljes rekonstrukció", "A Bódva folyó holtágai által alkotott szigeten fekszik"],
+      ro: ["Construcția a început în anul 1716", "Realizat la comanda lui Jean-François L’Huillier", "Înconjurat de o grădină englezească de 10,6 ha", "Picturi de Ferenc Lieb decorează 7 camere", "Reconstrucția completă a fost finalizată în 2014", "Situat pe o insulă formată de brațele râului Bódva"],
+      en: ["Construction began in 1716", "Built for Jean-François L'Huillier", "Surrounded by a 10.6-hectare English garden", "Ferenc Lieb's murals decorate 7 rooms", "Full reconstruction completed in 2014", "Located on an island formed by the Bódva river"],
+    },
+  },
     // HU-CS: Csongrád-Csanád
   
     {
@@ -468,8 +497,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["A kertészet központja.", "Jelentős geotermikus erőforrások.", "Szép termálfürdővel rendelkezik.", "Számos vízilabdázó hazája."],
       ro: ["Centru al horticulturii.", "Resurse geotermale mari.", "Deține o baie termală frumoasă.", "Patria multor jucători de polo pe apă."],
       en: ["Center of horticulture.", "Large geothermal resources.", "Has a beautiful thermal bath.", "Home to many water polo players."]
-    }
     },
+    factsAdvanced: {
+      de: ["Bau des neorenaissancen Rathauses im Jahr 1911", "Betrieb von 32 Thermalbrunnen im Stadtgebiet", "Verleihung des Stadtrechts im Jahr 1848", "Einwohnerzahl von ungefähr 26.000 Personen", "Gründung des Koszta-József-Museums im Jahr 1897", "Fluss Kurca durchquert die Region auf 40 km"],
+      hu: ["1911-ben épült fel a neoreneszánsz városháza", "32 termálkút üzemel a város területén", "1848-ban kapott rendezett tanácsú városi rangot", "Lakossága körülbelül 26 000 főt számlál", "A Koszta József Múzeum 1897-ben alakult meg", "A Kurca folyó 40 km hosszan szeli át a vidéket"],
+      ro: ["Primăria neorenascentistă a fost construită în 1911", "32 de puțuri termale funcționează pe teritoriul orașului", "A primit statutul de oraș în anul 1848", "Populația numără aproximativ 26.000 de locuitori", "Muzeul Koszta József a fost înființat în 1897", "Râul Kurca traversează regiunea pe o lungime de 40 km"],
+      en: ["Neorenaissance City Hall built in 1911", "32 thermal wells operate in the city area", "Received town status in 1848", "Population counts approximately 26,000 people", "Koszta József Museum founded in 1897", "Kurca River crosses the region for 40 km"],
+    },
+  },
     {
     id: "geo-maros-folyo-extra",
     type: "geo",
@@ -493,7 +528,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Szegednél torkollik a Tiszába.", "Határfolyó Magyarország és Románia között.", "Homokpadjairól ismert.", "Halban gazdag."],
       ro: ["Se varsă în Tisa la Szeged.", "Râu de frontieră între Ungaria și România.", "Cunoscut pentru bancurile sale de nisip.", "Bogat în specii de pești."],
       en: ["Flows into the Tisza at Szeged.", "Border river between Hungary and Romania.", "Known for its sandbanks.", "Rich in fish species."]
-    }, image: "/poi-images/geo-maros-folyo-extra.webp"},
+    }, image: "/poi-images/geo-maros-folyo-extra.webp",
+    factsAdvanced: {
+      de: ["Gesamtlänge des Flusses beträgt 761 km", "Einzugsgebiet umfasst mehr als 30.000 km2", "Quelle liegt in einer Höhe von 1.350 m", "Fließt auf 715 km durch rumänisches Gebiet", "Durchschnittlicher Abfluss an der Mündung 155 m3/s", "In der Antike von Herodot als Maris erwähnt"],
+      hu: ["Teljes hossza eléri a 761 kilométert", "Vízgyűjtő területe több mint 30 000 km2", "A forrása 1350 méter magasságban található", "Románia területén 715 kilométert tesz meg", "Átlagos vízhozama a torkolatnál 155 m3/s", "Az ókorban Maris néven említette Hérodotosz"],
+      ro: ["Lungimea totală atinge 761 de kilometri", "Bazinul hidrografic depășește 30.000 km2", "Izvorul se află la o altitudine de 1.350 m", "Parcurge 715 kilometri pe teritoriul României", "Debitul mediu la vărsare este de 155 m3/s", "Menționat sub numele de Maris de către Herodot"],
+      en: ["Total length reaches 761 kilometers", "Drainage basin covers over 30,000 km2", "Source located at an altitude of 1,350 m", "Covers 715 kilometers within Romania", "Average discharge at the mouth is 155 m3/s", "Mentioned as Maris by Herodotus in antiquity"],
+    },
+  },
     {
     id: "geschichte-opusztaszer-extra",
     type: "geschichte",
@@ -517,7 +559,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Itt látható a Feszty-körkép.", "Az első magyar országgyűlés helyszíne.", "Hatalmas szabadtéri néprajzi múzeum.", "A magyar egység történelmi szimbóluma."],
       ro: ["Găzduiește Panorama Feszty.", "Locul primei adunări naționale maghiare.", "Muzeu în aer liber mare.", "Simbol istoric al unității maghiare."],
       en: ["Home to the Feszty Panorama.", "Site of the first Hungarian national assembly.", "Large open-air museum.", "Historic symbol of Hungarian unity."]
-    }, image: "/poi-images/geschichte-opusztaszer-extra.webp"},
+    }, image: "/poi-images/geschichte-opusztaszer-extra.webp",
+    factsAdvanced: {
+      de: ["Gründung des Gedenkparks im Jahr 1970", "Länge des Feszty-Panoramas beträgt 120 m", "Errichtung des Árpád-Denkmals im Jahr 1896", "Freilichtmuseum erstreckt sich über 19 Hektar", "Ruinen eines Klosters aus dem 11. Jahrhundert", "Panorama ist 15 m hoch und hat 38 m Durchmesser"],
+      hu: ["1970-ben alapították meg az emlékparkot", "A Feszty-körkép hossza 120 méter", "1896-ban állították fel az Árpád-emlékművet", "19 hektáros területen fekszik a skanzen", "11. századi monostor romjai láthatók a kertben", "A körkép 15 méter magas és 38 méter átmérőjű"],
+      ro: ["Parcul memorial a fost fondat în 1970", "Lungimea Panoramei Feszty este de 120 m", "Monumentul lui Árpád a fost ridicat în 1896", "Muzeul satului se întinde pe 19 hectare", "Ruine ale unei mănăstiri din secolul al XI-lea", "Panorama are 15 m înălțime și 38 m diametru"],
+      en: ["The memorial park was founded in 1970", "The Feszty Panorama is 120 meters long", "The Árpád Monument was erected in 1896", "The open-air museum covers 19 hectares", "Ruins of an 11th-century monastery in the garden", "The cyclorama is 15m high and 38m in diameter"],
+    },
+  },
   // HU-FE: Fejér
   
     {
@@ -543,8 +592,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Jelentős Batthyány-kastély.", "Itt volt Magyarország első csillagvizsgálója.", "Fontos közlekedési csomópont.", "A Zsámbéki-medencében fekszik."],
       ro: ["Castel Batthyány important.", "Primul observator astronomic din Ungaria.", "Nod de transport important.", "Situat în bazinul Zsámbék."],
       en: ["Significant Batthyány Castle.", "First observatory in Hungary.", "Important transport hub.", "Located in the Zsámbék Basin."]
-    }
     },
+    factsAdvanced: {
+      de: ["Erste schriftliche Erwähnung im Jahr 1306", "Bau des Hauptflügels vom Batthyány-Schloss 1754", "Gründung einer Sternwarte im Jahr 1846", "Einwohnerzahl der Stadt etwa 12.000 Personen", "Lage an der wichtigen Autobahn M1", "Wiederverleihung des Stadtrechts im Jahr 2000"],
+      hu: ["1306-ban említik először írásos források", "1754-ben épült a Batthyány-kastély főszárnya", "1846-ban alapítottak itt csillagvizsgálót", "A város lakossága nagyjából 12 000 fő", "Az M1-es autópálya mellett fekszik", "2000-ben kapott újra városi rangot"],
+      ro: ["Menționat pentru prima dată în scris în 1306", "Aripa principală a castelului a fost construită în 1754", "Un observator astronomic a fost fondat în 1846", "Populația orașului este de aproximativ 12.000 de locuitori", "Situat lângă autostrada M1", "A primit din nou statutul de oraș în anul 2000"],
+      en: ["First mentioned in written sources in 1306", "Main wing of Batthyány Castle built in 1754", "Astronomical observatory founded here in 1846", "Population is approximately 12,000 people", "Located next to the M1 motorway", "Regained city status in the year 2000"],
+    },
+  },
     {
     id: "geo-velencei-hegyseg-extra",
     type: "geo",
@@ -568,7 +623,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Főleg gránitból áll.", "Híres az ingóköveiről.", "Az ország egyik legidősebb hegysége.", "Legmagasabb csúcsa a Meleg-hegy."],
       ro: ["Format în principal din granit.", "Faimos pentru pietrele mișcătoare.", "Cei mai vechi munți din țară.", "Cel mai înalt vârf: Meleg-hegy."],
       en: ["Consists mainly of granite.", "Famous for the balancing rocks.", "One of the oldest mountains in the country.", "Highest peak: Meleg-hegy."]
-    }, image: "/poi-images/geo-velencei-hegyseg-extra.webp"},
+    }, image: "/poi-images/geo-velencei-hegyseg-extra.webp",
+    factsAdvanced: {
+      de: ["Alter des Gebirges etwa 300 Millionen Jahre", "Höchster Punkt ist der Meleg-hegy mit 352 m", "Grundgestein ist Granit variszischen Ursprungs", "Fläche des Gebirges beträgt ca. 80 km2", "Standort der bekannten Angelika-Quelle", "5 Hauptgruppen von Wackelsteinen verzeichnet"],
+      hu: ["Kora megközelítőleg 300 millió év", "Legmagasabb pontja a Meleg-hegy (352 m)", "Alapkőzete a variszkuszi eredetű gránit", "A hegység területe körülbelül 80 km2", "Itt található az Angelika-forrás", "5 fő ingókő-csoportot tartanak nyilván"],
+      ro: ["Vârsta munților este de cca. 300 milioane ani", "Cel mai înalt punct este Meleg-hegy (352 m)", "Roca de bază este granitul de origine variscă", "Suprafața munților este de aproximativ 80 km2", "Aici se află izvorul Angelika", "Sunt înregistrate 5 grupuri principale de pietre"],
+      en: ["Age of the mountains is approx. 300 million years", "Highest point is Meleg-hegy (352 m)", "Base rock is granite of Variscan origin", "The mountain range covers about 80 km2", "Location of the Angelika Spring", "5 main groups of 'floating stones' are recorded"],
+    },
+  },
     {
     id: "geschichte-pazmand-vizimalom-extra",
     type: "geschichte",
@@ -592,7 +654,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Működőképes vízimalom.", "Ipari műemlék.", "A Pázmándi-patak partján áll.", "Látogatható a közönség számára."],
       ro: ["Moară de apă funcțională.", "Monument industrial.", "Situată pe pârâul Pázmánd.", "Accesibilă vizitatorilor."],
       en: ["Functional watermill.", "Industrial monument.", "Located on the Pázmánd stream.", "Open to visitors."]
-    }, image: "/poi-images/geschichte-pazmand-vizimalom-extra.webp"},
+    }, image: "/poi-images/geschichte-pazmand-vizimalom-extra.webp",
+    factsAdvanced: {
+      de: ["Bau der ursprünglichen Mühle Mitte des 19. Jhs.", "Abschluss der vollständigen Renovierung im Jahr 2000", "Rad wird durch das Wasser des Békás-Baches betrieben", "Funktionsfähiges Innengerüst aus Holz", "Ausstellung zu Ethnographie und Lokalgeschichte", "Teil des Wertekatalogs vom Komitat Fejér"],
+      hu: ["A 19. század közepén épült az eredeti malom", "2000-ben végezték el a teljes felújítást", "A Békás-patak vize hajtja a kerekét", "Fából készült belső szerkezete működőképes", "Néprajzi és helytörténeti kiállítás látható benne", "A Fejér vármegyei értéktár része"],
+      ro: ["Moara originală a fost construită la mijlocul sec. XIX", "Renovarea completă a fost efectuată în anul 2000", "Roata este acționată de apa pârâului Békás", "Structura internă din lemn este funcțională", "Găzduiește o expoziție etnografică și istorică", "Face parte din tezaurul județului Fejér"],
+      en: ["Original mill built in the mid-19th century", "Full renovation completed in the year 2000", "The wheel is driven by Békás Creek water", "Internal wooden structure is fully functional", "Ethnographic and local history exhibition inside", "Part of the Fejér County Treasury"],
+    },
+  },
     {
     id: "geschichte-taci-gorsium-extra",
     type: "geschichte",
@@ -616,7 +685,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Egykori római város.", "Magyarország legnagyobb régészeti parkja.", "A Floralia fesztivál helyszíne.", "Egykori kereskedelmi útvonal mentén fekszik."],
       ro: ["Fost oraș roman.", "Cel mai mare parc arheologic din Ungaria.", "Găzduiește festivalul Floralia.", "Situat pe un vechi drum comercial."],
       en: ["Former Roman city.", "Largest archaeological park in Hungary.", "Hosts the Floralia festival.", "Located on an ancient trade route."]
-    }, image: "/poi-images/geschichte-taci-gorsium-extra.webp"},
+    }, image: "/poi-images/geschichte-taci-gorsium-extra.webp",
+    factsAdvanced: {
+      de: ["Gründung als Militärlager Mitte des 1. Jhs.", "Ruinenpark erstreckt sich über 200 Hektar", "Erste Zerstörung durch Sarmaten im Jahr 178", "Beginn regelmäßiger Ausgrabungen im Jahr 1958", "Römisches Theater bietet Platz für 1500 Zuschauer", "Religiöser Sitz der Provinz Pannonia Inferior"],
+      hu: ["Az 1. század közepén alapították katonai táborként", "200 hektáros területen fekszik a romkert", "178-ban a szarmaták pusztították el először", "1958-ban kezdődtek a rendszeres ásatások", "A római színház 1500 néző befogadására alkalmas", "Pannonia Inferior vallási székhelye volt"],
+      ro: ["Fondat ca tabără militară la mijlocul sec. I", "Parcul se întinde pe o suprafață de 200 hectare", "Distrus pentru prima dată de sarmați în anul 178", "Săpăturile regulate au început în anul 1958", "Teatrul roman are o capacitate de 1500 spectatori", "A fost sediul religios al Pannoniei Inferior"],
+      en: ["Founded as a military camp in the mid-1st century", "The ruins park covers an area of 200 hectares", "First destroyed by the Sarmatians in 178 AD", "Regular excavations began in the year 1958", "Roman theater can accommodate 1,500 viewers", "Religious seat of the Pannonia Inferior province"],
+    },
+  },
     // HU-GS: Győr-Moson-Sopron
   
     {
@@ -642,8 +718,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["A premontrei apátság székhelye.", "A Rábaköz központja.", "Fontos közlekedési csomópont.", "Hagyományos népművészetéről ismert."],
       ro: ["Sediul abației premonstratense.", "Centrul regiunii Rábaköz.", "Nod de transport important.", "Cunoscut pentru arta populară tradițională."],
       en: ["Seat of the Premonstratensian Abbey.", "Center of the Rábaköz region.", "Important transport hub.", "Known for traditional folk art."]
-    }
     },
+    factsAdvanced: {
+      de: ["Gründung der Prämonstratenser-Abtei im Jahr 1180", "Einwohnerzahl der Stadt ca. 10.000 Personen", "Erneute Verleihung des Stadtrechts im Jahr 1971", "Liegt an der Kreuzung der Hauptstraßen 85 und 86", "Eröffnung des Csorna-Museums im Jahr 1969", "Fertő-Hanság Nationalpark befindet sich in der Nähe"],
+      hu: ["1180-ben alapították a premontrei apátságot", "A város lakossága megközelítőleg 10 000 fő", "1971-ben nyilvánították ismét várossá", "A 85-ös és 86-os főutak találkozásánál fekszik", "A Csornai Múzeum 1969-ben nyílt meg", "Közelében terül el a Fertő-Hanság Nemzeti Park"],
+      ro: ["Abbația premonstratensă a fost fondată în 1180", "Populația orașului este de aproximativ 10.000 locuitori", "A fost declarat din nou oraș în anul 1971", "Situat la intersecția drumurilor principale 85 și 86", "Muzeul din Csorna a fost deschis în anul 1969", "Parcul Național Fertő-Hanság se află în apropiere"],
+      en: ["Premonstratensian Abbey founded in 1180", "City population is approximately 10,000 people", "Declared a city again in the year 1971", "Located at the junction of main roads 85 and 86", "Csorna Museum opened in the year 1969", "Fertő-Hanság National Park is located nearby"],
+    },
+  },
     {
     id: "geschichte-eszterhazy-kastely-extra",
     type: "geschichte",
@@ -667,7 +749,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["A 18. században építtette I. (Fényes) Miklós herceg.", "Joseph Haydn, a híres zeneszerző közel három évtizeden át élt és alkotott itt.", "A kastélyhoz egy hatalmas, művészien kialakított park is tartozik."],
       ro: ["A fost construit în secolul al XVIII-lea de prințul Nikolaus I Joseph Esterházy.", "Celebrul compozitor Joseph Haydn a trăit și a lucrat aici timp de aproape trei decenii.", "Palatul are un parc extins, amenajat artistic."],
       en: ["It was built in the 18th century by Prince Nikolaus I Joseph Esterházy.", "The famous composer Joseph Haydn lived and worked here for nearly three decades.", "The palace features an extensive, artistically landscaped park."]
-    }, image: "/poi-images/geschichte-eszterhazy-kastely-extra.webp"},
+    }, image: "/poi-images/geschichte-eszterhazy-kastely-extra.webp",
+    factsAdvanced: {
+      de: ["Bau des ursprünglichen Jagdschlosses um 1720", "Gebäudekomplex umfasst insgesamt 126 Zimmer", "Heutige Barock-Rokoko-Form vollendet 1766", "Joseph Haydn lebte hier zwischen 1766 und 1790", "UNESCO-Weltkulturerbe seit dem Jahr 2001", "Ehrenhof des Schlosses ist 108 Meter breit"],
+      hu: ["1720 körül épült az eredeti vadászkastély", "126 szobát foglal magában az épületegyüttes", "1766-ban készült el a mai barokk-rokokó alakja", "Joseph Haydn 1766 és 1790 között élt itt", "2001 óta az UNESCO Világörökség része", "A kastély díszudvara 108 méter széles"],
+      ro: ["Castelul de vânătoare original construit în 1720", "Complexul cuprinde un total de 126 de camere", "Forma actuală baroc-rococo finalizată în 1766", "Joseph Haydn a trăit aici între 1766 și 1790", "Parte a Patrimoniului UNESCO din anul 2001", "Curtea de onoare a castelului are 108 m lățime"],
+      en: ["Original hunting lodge built around 1720", "The building complex includes 126 rooms", "Current Baroque-Rococo form completed in 1766", "Joseph Haydn lived here between 1766 and 1790", "UNESCO World Heritage site since the year 2001", "The palace's courtyard is 108 meters wide"],
+    },
+  },
   // HU-HB: Hajdú-Bihar
   {
     id: "geo-nagyerdo-extra",
@@ -692,8 +781,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Magyarország első természetvédelmi területe (1939).", "Százéves tölgyfák.", "Vidámpark és állatkert.", "Az Aquaticum fürdő otthona."],
       ro: ["Prima rezervație naturală din Ungaria (1939).", "Stejari centenari.", "Parc de distracții și grădină zoologică.", "Gazda băilor Aquaticum."],
       en: ["Hungary's first nature reserve (1939).", "Century-old oaks.", "Amusement park and zoo.", "Home to the Aquaticum bath."]
-    }
     },
+    factsAdvanced: {
+      de: ["Erstes Naturschutzgebiet des Landes seit 1939", "Gesamtausdehnung umfasst 1082 Hektar", "Wasserturm wurde im Jahr 1913 errichtet", "Ältester Zoo Ungarns befindet sich hier (1958)", "Stieleichen sind über 200 Jahre alt", "Bau des Universitätshauptgebäudes im Jahr 1934"],
+      hu: ["1939-ben lett az ország első természetvédelmi területe", "Teljes kiterjedése 1082 hektár", "A Víztorony 1913-ban épült fel benne", "Itt található Magyarország legrégebbi állatkertje (1958)", "A kocsányos tölgyek kora meghaladja a 200 évet", "1934-ben épült fel az egyetem főépülete"],
+      ro: ["Prima rezervație naturală din țară din 1939", "Suprafața totală cuprinde 1082 hectare", "Turnul de apă a fost construit în anul 1913", "Cea mai veche grădină zoologică din țară (1958)", "Stejarii au o vârstă de peste 200 de ani", "Clădirea universității a fost construită în 1934"],
+      en: ["Country's first nature reserve since 1939", "Total extent covers 1,082 hectares", "The Water Tower was built here in 1913", "Home to Hungary's oldest zoo (est. 1958)", "The pedunculate oaks are over 200 years old", "Main university building completed in 1934"],
+    },
+  },
     {
     id: "geschichte-debreceni-reformatus-nagytemplom-extra",
     type: "geschichte",
@@ -717,7 +812,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Az ország legnagyobb református temploma.", "Az 1849-es Függetlenségi Nyilatkozat helyszíne.", "Klasszicista építészet.", "Itt található Kossuth széke."],
       ro: ["Cea mai mare biserică reformată din țară.", "Locul Declarației de Independență din 1849.", "Arhitectură clasicistă.", "Găzduiește scaunul lui Kossuth."],
       en: ["Largest Reformed church in the country.", "Site of the Declaration of Independence in 1849.", "Classicist architecture.", "Houses the Kossuth chair."]
-    }, image: "/poi-images/geschichte-debreceni-reformatus-nagytemplom-extra.webp"},
+    }, image: "/poi-images/geschichte-debreceni-reformatus-nagytemplom-extra.webp",
+    factsAdvanced: {
+      de: ["Erbaut zwischen den Jahren 1805 und 1824", "Innenkapazität für bis zu 5000 Personen", "Höhe der markanten Türme beträgt 61 Meter", "Rákóczi-Glocke hat ein Gewicht von 5,8 Tonnen", "Verkündung der Unabhängigkeit am 14. April 1849", "Grundfläche übersteigt 1500 Quadratmeter"],
+      hu: ["1805 és 1824 között épült fel", "Belső befogadóképessége 5000 fő", "A tornyok magassága 61 méter", "A Rákóczi-harang tömege 5,8 tonna", "1849. április 14-én itt olvasták fel a Függetlenségi Nyilatkozatot", "Alapterülete meghaladja az 1500 négyzetmétert"],
+      ro: ["Construită între anii 1805 și 1824", "Capacitate interioară de 5000 de persoane", "Înălțimea turnurilor este de 61 de metri", "Clopotul Rákóczi cântărește 5,8 tone", "Independența a fost proclamată la 14 aprilie 1849", "Suprafața la sol depășește 1500 mp"],
+      en: ["Built between the years 1805 and 1824", "Interior capacity for 5,000 people", "The height of the towers is 61 meters", "The Rákóczi Bell weighs 5.8 tons", "Independence proclaimed here on April 14, 1849", "The floor area exceeds 1,500 square meters"],
+    },
+  },
     {
     id: "geschichte-hortobagyi-kilenclyuku-hid-extra",
     type: "geschichte",
@@ -741,7 +843,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Magyarország leghosszabb kőhídja (167 m).", "A 19. században épült.", "UNESCO Világörökségi helyszín.", "A Hídi vásár helyszíne."],
       ro: ["Cel mai lung pod de piatră din Ungaria (167 m).", "Construit în secolul al XIX-lea.", "Patrimoniu mondial UNESCO.", "Cunoscut pentru târgul de la pod."],
       en: ["Longest stone bridge in Hungary (167 m).", "Built in the 19th century.", "UNESCO World Heritage site.", "Known for the Bridge Fair."]
-    }, image: "/poi-images/geschichte-hortobagyi-kilenclyuku-hid-extra.webp"},
+    }, image: "/poi-images/geschichte-hortobagyi-kilenclyuku-hid-extra.webp",
+    factsAdvanced: {
+      de: ["Beginn der Bauarbeiten im Jahr 1827", "Freigabe für den Verkehr am 10. Juni 1833", "Gesamtlänge des Bauwerks beträgt 167,3 Meter", "Verwendung von fast 400.000 Ziegelsteinen", "Entworfen nach Plänen von Ferenc Povolny", "Aufnahme in die Welterbeliste im Jahr 1999"],
+      hu: ["1827-ben kezdődött el az építése", "1833. június 10-én adták át a forgalomnak", "Teljes hossza 167,3 méter", "Közel 400 000 darab téglát használtak fel hozzá", "Povolny Ferenc tervei alapján készült", "Az 1999-es Világörökségi listán is szerepel"],
+      ro: ["Construcția a început în anul 1827", "Dat în folosință la 10 iunie 1833", "Lungimea totală este de 167,3 metri", "S-au folosit aproape 400.000 de cărămizi", "Construit după planurile lui Ferenc Povolny", "Inclus în lista Patrimoniului Mondial în 1999"],
+      en: ["Construction began in the year 1827", "Opened to traffic on June 10, 1833", "Total length is 167.3 meters", "Nearly 400,000 bricks were used for construction", "Built based on plans by Ferenc Povolny", "Included in the UNESCO World Heritage list in 1999"],
+    },
+  },
     // HU-HE: Heves
   
     {
@@ -767,8 +876,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Jelentős bronzkori leletek.", "Stratégiai vasúti csomópont.", "Eger és a Tisza-tó között fekszik.", "A Bükk kapuja."],
       ro: ["Descoperiri importante din epoca bronzului.", "Nod feroviar strategic.", "Situat între Eger și lacul Tisa.", "Poarta către munții Bükk."],
       en: ["Significant Bronze Age finds.", "Strategic railway junction.", "Located between Eger and Lake Tisza.", "Gateway to the Bükk Mountains."]
-    }
     },
+    factsAdvanced: {
+      de: ["Erstmalige Erwähnung im Jahr 1261", "Fertigstellung des Bahnhofsgebäudes 1893", "Einwohnerzahl der Stadt etwa 7.500 Personen", "Wichtiger Knotenpunkt Richtung Miskolc und Debrecen", "Funde aus der Jungstein- und Bronzezeit auf dem Gebiet", "Wiederverleihung des Stadtrechts im Jahr 1989"],
+      hu: ["1261-ben említik először az egri püspökség birtokaként", "A vasútállomás 1893-ban készült el", "Lakossága körülbelül 7500 fő", "Fontos vasúti csomópont Miskolc és Debrecen felé", "Területén újkőkori és bronzkori leleteket találtak", "1989-ben kapott városi rangot"],
+      ro: ["Menționat prima dată în 1261 ca domeniu episcopal", "Gara a fost finalizată în anul 1893", "Populația este de aproximativ 7500 de locuitori", "Nod feroviar important spre Miskolc și Debrețin", "S-au găsit vestigii din neolitic și epoca bronzului", "A primit statutul de oraș în anul 1989"],
+      en: ["First mentioned in 1261 as an episcopal estate", "The railway station was completed in 1893", "Population counts approximately 7,500 people", "Important railway hub towards Miskolc and Debrecen", "Neolithic and Bronze Age finds discovered in the area", "Received city status in the year 1989"],
+    },
+  },
   {
     id: "geschichte-egri-bazilika-extra",
     type: "geschichte",
@@ -792,7 +907,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Magyarország második legnagyobb székesegyháza.", "Hild József klasszicista tervei alapján épült.", "Monumentális díszlépcső.", "Híres orgonával rendelkezik."],
       ro: ["A doua cea mai mare catedrală din Ungaria.", "Arhitectură clasicistă de József Hild.", "Scară monumentală.", "Deține o orgă faimoasă."],
       en: ["Second largest cathedral in Hungary.", "Classicist architecture by József Hild.", "Monumental staircase.", "Has a famous organ."]
-    }, image: "/poi-images/geschichte-egri-bazilika-extra.webp"},
+    }, image: "/poi-images/geschichte-egri-bazilika-extra.webp",
+    factsAdvanced: {
+      de: ["Bauzeit von 1831 bis 1837", "54 Meter hohe Kuppeln", "17 Meter hohe korinthische Säulen", "Zweitgrößte Kirche in Ungarn", "Entworfen vom Architekten József Hild", "Orgel mit über 8000 Pfeifen"],
+      hu: ["1831 és 1837 között épült", "A kupolák magassága 54 méter", "17 méter magas korinthoszi oszlopok", "Magyarország második legnagyobb temploma", "Hild József építész tervezte", "Az orgona több mint 8000 sípból áll"],
+      ro: ["Construită între 1831 și 1837", "Cupole cu înălțimea de 54 metri", "Coloane corintice de 17 metri", "A doua cea mai mare biserică din Ungaria", "Proiectată de arhitectul József Hild", "Orga are peste 8000 de tuburi"],
+      en: ["Built between 1831 and 1837", "Domes reach 54 meters in height", "17-meter high Corinthian columns", "Second largest church in Hungary", "Designed by architect József Hild", "The organ consists of over 8000 pipes"],
+    },
+  },
     // HU-JN: Jász-Nagykun-Szolnok
   {
     id: "geo-tisza-to-extra",
@@ -817,8 +939,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Mesterségesen létrehozott tó.", "Magyarország második legnagyobb tava.", "Az UNESCO Világörökség része.", "Hatalmas édesvízi akváriummal rendelkezik."],
       ro: ["Lac creat artificial.", "Al doilea cel mai mare lac din Ungaria.", "Parte a patrimoniului mondial UNESCO.", "Găzduiește un acvariu de apă dulce uriaș."],
       en: ["Man-made lake.", "Second largest lake in Hungary.", "Part of the UNESCO World Heritage.", "Houses a huge freshwater aquarium."]
-    }
     },
+    factsAdvanced: {
+      de: ["Größter Stausee Ungarns", "Fläche von 127 Quadratkilometern", "Entstanden im Jahr 1973", "Teil des Hortobágy Nationalparks", "Durchschnittliche Tiefe von 1,3 Metern", "Beherbergt über 200 Vogelarten"],
+      hu: ["Magyarország legnagyobb tározója", "Területe 127 négyzetkilométer", "1973-ban jött létre", "A Hortobágyi Nemzeti Park része", "Átlagos mélysége 1,3 méter", "Több mint 200 madárfaj él itt"],
+      ro: ["Cel mai mare lac de acumulare din Ungaria", "Suprafață de 127 kilometri pătrați", "Creat în anul 1973", "Parte a Parcului Național Hortobágy", "Adâncime medie de 1,3 metri", "Găzduiește peste 200 de specii de păsări"],
+      en: ["Largest reservoir in Hungary", "Surface area of 127 square kilometers", "Created in the year 1973", "Part of the Hortobágy National Park", "Average depth of 1.3 meters", "Home to over 200 bird species"],
+    },
+  },
     {
     id: "geschichte-szolnoki-muvesztelep-extra",
     type: "geschichte",
@@ -842,7 +970,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["1902-ben alapították.", "Az ország legrégebbi művésztelepe.", "Szép parkos környezetben található.", "A magyar művészettörténet fontos helyszíne."],
       ro: ["Fondată în anul 1902.", "Cea mai veche colonie de artiști din țară.", "Situată într-un parc frumos.", "Loc important al istoriei artei maghiare."],
       en: ["Founded in 1902.", "Oldest artists' colony in the country.", "Located in a beautiful park.", "Important site of Hungarian art history."]
-    }, image: "/poi-images/geschichte-szolnoki-muvesztelep-extra.webp"},
+    }, image: "/poi-images/geschichte-szolnoki-muvesztelep-extra.webp",
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1902", "Älteste Künstlerkolonie Ungarns", "Befindet sich an der Zagyva-Mündung", "Erbaut auf dem Areal der Burg Szolnok", "10 ursprüngliche Ateliers", "Zentrum der ungarischen Freilichtmalerei"],
+      hu: ["1902-ben alapították", "Magyarország legrégebbi művésztelepe", "A Zagyva torkolatánál található", "A szolnoki vár területén épült", "10 eredeti műteremlakás", "A magyar plein air festészet központja"],
+      ro: ["Fondată în anul 1902", "Cea mai veche colonie de artiști din Ungaria", "Situată la gura de vărsare a râului Zagyva", "Construită pe situl cetății Szolnok", "10 ateliere originale", "Centru al picturii maghiare în aer liber"],
+      en: ["Founded in the year 1902", "Oldest artists' colony in Hungary", "Located at the Zagyva river mouth", "Built on the site of Szolnok Castle", "10 original studio apartments", "Center of Hungarian plein air painting"],
+    },
+  },
     {
     id: "geschichte-tiszaderzs-romtemplom-extra",
     type: "geschichte",
@@ -866,7 +1001,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["A 13. században épült.", "Román stílusú.", "Árpád-kori műemlék.", "Nyugodt környezetben található."],
       ro: ["Construită în secolul al XIII-lea.", "Stil romanic.", "Monument din epoca Arpadiană.", "Situată într-un cadru liniștit."],
       en: ["Built in the 13th century.", "Romanesque style.", "Architectural monument from the Árpád era.", "Located in a quiet setting."]
-    }, image: "/poi-images/geschichte-tiszaderzs-romtemplom-extra.webp"},
+    }, image: "/poi-images/geschichte-tiszaderzs-romtemplom-extra.webp",
+    factsAdvanced: {
+      de: ["Erbaut im 13. Jahrhundert", "Romanischer Baustil", "Dem Heiligen Georg geweiht", "Aus Ziegelsteinen errichtet", "Zerstört im 16. Jahrhundert", "Wichtiger Fundort mittelalterlicher Funde"],
+      hu: ["A 13. században épült", "Román stílusú építészet", "Szent György tiszteletére szentelték", "Téglából készült falazat", "A 16. században pusztult el", "Fontos középkori régészeti lelőhely"],
+      ro: ["Construită în secolul al XIII-lea", "Stil arhitectural romanic", "Dedicată Sfântului Gheorghe", "Edificiu realizat din cărămidă", "Distrusă în secolul al XVI-lea", "Sit arheologic medieval important"],
+      en: ["Built in the 13th century", "Romanesque architectural style", "Dedicated to Saint George", "Constructed using bricks", "Destroyed in the 16th century", "Important medieval archaeological site"],
+    },
+  },
     // HU-KE: Komárom-Esztergom
     {
     id: "city-dorog-extra",
@@ -891,8 +1033,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Történelmi bányászati központ.", "A Pilis lábánál fekszik.", "Bányászati múzeummal rendelkezik.", "Híres sportmúltjáról."],
       ro: ["Centru minier istoric.", "Situat la poalele munților Pilis.", "Deține un muzeu al mineritului.", "Cunoscut pentru tradițiile sale sportive."],
       en: ["Historic mining center.", "Located at the foot of the Pilis Mountains.", "Has a mining museum.", "Famous for its sporting traditions."]
-    }
     },
+    factsAdvanced: {
+      de: ["Bergbau begann im Jahr 1781", "Stadtrechte seit 1984", "Über 12.000 Einwohner", "Heimat des Doroger AC (gegr. 1914)", "Liegt an der Hauptstraße 10", "Wichtige Pharma- und Chemieindustrie"],
+      hu: ["A bányászat 1781-ben kezdődött", "1984-ben kapott városi rangot", "Lakossága meghaladja a 12 000 főt", "A Dorogi AC otthona (alapítva 1914)", "A 10-es főút mentén fekszik", "Jelentős gyógyszer- és vegyipar"],
+      ro: ["Mineritul a început în anul 1781", "Statut de oraș din 1984", "Peste 12.000 de locuitori", "Sediul clubului Dorogi AC (fondat 1914)", "Situat pe drumul principal 10", "Industrie farmaceutică și chimică majoră"],
+      en: ["Mining began in the year 1781", "Granted city status in 1984", "Population exceeds 12,000", "Home to Dorogi AC (founded 1914)", "Located along Main Road 10", "Significant pharma and chemical industry"],
+    },
+  },
     {
     id: "city-orosz lany-extra",
     type: "city",
@@ -916,7 +1064,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Egykori bányászváros.", "Közelében található a majki remeteség.", "Bányászati múzeuma van.", "Jelentős energiagazdálkodás."],
       ro: ["Fost oraș minier.", "În apropiere se află schitul Majk.", "Deține un muzeu al mineritului.", "Sector energetic important."],
       en: ["Former mining town.", "The Majk Hermitage is located nearby.", "Has a mining museum.", "Significant energy industry."]
-    }, image: "/poi-images/city-orosz lany-extra.webp"},
+    }, image: "/poi-images/city-orosz lany-extra.webp",
+    factsAdvanced: {
+      de: ["Kohlebergbau begann 1937", "Stadtrechte seit 1954", "Über 17.000 Einwohner", "Majk Eremitage liegt im Stadtgebiet", "Eigene Kraftwerkstradition", "Heimat des Bergbaumuseums"],
+      hu: ["A szénbányászat 1937-ben indult", "1954-ben kapott városi rangot", "Lakossága több mint 17 000 fő", "Majkpuszta a városhoz tartozik", "Jelentős erőművi hagyományok", "Bányászati Múzeumnak ad otthont"],
+      ro: ["Mineritul de cărbune a început în 1937", "Statut de oraș din 1954", "Peste 17.000 de locuitori", "Schitul Majk se află pe teritoriul său", "Tradiție în producția de energie", "Găzduiește un Muzeu al Mineritului"],
+      en: ["Coal mining started in 1937", "Granted city status in 1954", "Population over 17,000", "Majk Hermitage is part of the city", "Significant power plant traditions", "Home to a Mining Museum"],
+    },
+  },
     {
     id: "geo-gerecse-extra",
     type: "geo",
@@ -940,7 +1095,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Vörös márványáról nevezetes.", "Legmagasabb csúcsa a Nagy-Gerecse (633 m).", "Mészkőbarlangokban gazdag.", "Fontos kövületlelőhely."],
       ro: ["Cunoscut pentru marmura roșie.", "Cel mai înalt vârf: Nagy-Gerecse (633 m).", "Bogat în peșteri de calcar.", "Sursă importantă de fosile."],
       en: ["Famous for red marble.", "Highest peak: Nagy-Gerecse (633 m).", "Rich in limestone caves.", "Important site for fossils."]
-    }, image: "/poi-images/geo-gerecse-extra.webp"},
+    }, image: "/poi-images/geo-gerecse-extra.webp",
+    factsAdvanced: {
+      de: ["Höchster Punkt ist 633 Meter hoch", "Besteht überwiegend aus Kalkstein", "Berühmt für roten Marmorabbau", "Reich an Karsthöhlen (über 300)", "Wichtiges Brutgebiet für Wanderfalken", "Teil des Gerecse-Landschaftsschutzgebiets"],
+      hu: ["Legmagasabb pontja 633 méter", "Főleg mészkőből épül fel", "Híres a vörös márvány bányászatáról", "Több mint 300 karsztbarlang található", "Fontos kerecsensólyom fészkelőhely", "A Gerecsei Tájvédelmi Körzet része"],
+      ro: ["Cel mai înalt punct are 633 metri", "Format în principal din calcar", "Faimos pentru marmura roșie", "Peste 300 de peșteri carstice", "Loc important de cuibărit pentru șoimi", "Parte a Ariei Protejate Gerecse"],
+      en: ["Highest point is 633 meters", "Composed mainly of limestone", "Famous for red marble quarrying", "Home to over 300 karst caves", "Important nesting site for falcons", "Part of the Gerecse Landscape District"],
+    },
+  },
     {
     id: "geschichte-turul-emlekmu-extra",
     type: "geschichte",
@@ -964,7 +1126,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Közép-Európa legnagyobb madárszobra.", "15 méteres szárnyfesztávolság.", "1907-ben készült.", "Pazar kilátást nyújt."],
       ro: ["Cea mai mare statuie de pasăre din Europa Centrală.", "Anvergura aripilor de 15 metri.", "Construit în 1907.", "Oferă o vedere panoramică."],
       en: ["Largest bird statue in Central Europe.", "Wingspan of 15 meters.", "Built in 1907.", "Offers wide views."]
-    }, image: "/poi-images/geschichte-turul-emlekmu-extra.webp"},
+    }, image: "/poi-images/geschichte-turul-emlekmu-extra.webp",
+    factsAdvanced: {
+      de: ["Spannweite von 15 Metern", "Eingeweiht im Jahr 1907", "Geschaffen von Bildhauer Gyula Donáth", "Befindet sich auf dem Kő-Berg", "Aus Bronze gefertigt", "Größte Vogelskulptur in Mitteleuropa"],
+      hu: ["Szárnyfesztávolsága 15 méter", "1907-ben avatták fel", "Donáth Gyula szobrász alkotása", "A Kő-hegy peremén található", "Bronzból készült", "Közép-Európa legnagyobb madárszobra"],
+      ro: ["Anvergura aripilor de 15 metri", "Inaugurat în anul 1907", "Creat de sculptorul Gyula Donáth", "Situat pe muntele Kő", "Realizat din bronz", "Cea mai mare statuie de pasăre din Europa Centrală"],
+      en: ["Wingspan of 15 meters", "Inaugurated in the year 1907", "Created by sculptor Gyula Donáth", "Located on the Kő Hill", "Made of bronze", "Largest bird sculpture in Central Europe"],
+    },
+  },
     {
     id: "geschichte-tatai-var-extra",
     type: "geschichte",
@@ -988,7 +1157,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Egykori királyi rezidencia.", "Az Öreg-tó partján áll.", "Vizesárok veszi körül.", "Múzeumnak ad otthont."],
       ro: ["Fostă reședință regală.", "Situată pe malul lacului Öreg.", "Înconjurată de un șanț cu apă.", "Găzduiește un muzeu."],
       en: ["Former royal residence.", "Located on Lake Öreg.", "Surrounded by a moat.", "Houses a museum."]
-    }, image: "/poi-images/geschichte-tatai-var-extra.webp"},
+    }, image: "/poi-images/geschichte-tatai-var-extra.webp",
+    factsAdvanced: {
+      de: ["Erbaut ab ca. 1397", "Liegt am Ufer des Öreg-tó", "Königliche Residenz von Sigismund", "Renaissance-Umbau unter Matthias Corvinus", "Beherbergt das Kuny-Domokos-Museum", "Festungsgraben wird mit Seewasser gespeist"],
+      hu: ["Építése 1397 körül kezdődött", "Az Öreg-tó partján fekszik", "Zsigmond király kedvelt lakhelye volt", "Mátyás király idején reneszánsz stílusú lett", "A Kuny Domokos Múzeumnak ad otthont", "Vizesárkát a tó vize táplálja"],
+      ro: ["Construcția a început în jurul anului 1397", "Situată pe malul lacului Öreg", "Reședință regală a lui Sigismund", "Reconstruită în stil renascentist sub Matei Corvin", "Găzduiește Muzeul Kuny Domokos", "Șanțul este alimentat cu apă din lac"],
+      en: ["Construction began around 1397", "Located on the shore of Old Lake", "Royal residence of King Sigismund", "Renaissance rebuild under Matthias Corvinus", "Home to the Kuny Domokos Museum", "The moat is fed by the lake's water"],
+    },
+  },
     // HU-NO: Nógrád
     {
     id: "city-paszto-extra",
@@ -1013,8 +1189,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Egykori ciszterci apátság.", "Gótikus iskolamesteri háza van.", "A Mátra kapuja.", "Gazdag középkori történelem."],
       ro: ["Fostă abație cisterciană.", "Deține o școală gotică.", "Poarta către munții Mátra.", "Bogat în istorie medievală."],
       en: ["Former Cistercian abbey.", "Has a Gothic schoolmaster's house.", "Gateway to the Mátra Mountains.", "Rich medieval history."]
-    }
     },
+    factsAdvanced: {
+      de: ["Zisterzienserabtei gegründet 1190", "Stadtrechte seit 1298", "Bedeutendes mittelalterliches Schulwesen", "Heimat des Pásztó-Museums", "Gotische St.-Laurentius-Kirche", "Liegt am Fluss Zagyva"],
+      hu: ["A ciszterci apátságot 1190-ben alapították", "1298-ban kapott városi jogokat", "Jelentős középkori iskolaközpont", "A Pásztói Múzeumnak ad otthont", "Gótikus Szent Lőrinc-plébániatemplom", "A Zagyva folyó partján fekszik"],
+      ro: ["Abadia cisterciană fondată în 1190", "Drepturi de oraș din 1298", "Important centru școlar medieval", "Găzduiește Muzeul din Pásztó", "Biserica gotică Sfântul Laurențiu", "Situat pe malul râului Zagyva"],
+      en: ["Cistercian abbey founded in 1190", "Granted city rights in 1298", "Major medieval educational center", "Home to the Pásztó Museum", "Gothic Church of Saint Lawrence", "Located along the Zagyva River"],
+    },
+  },
     {
     id: "geo-karanc-extra",
     type: "geo",
@@ -1038,7 +1220,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Legmagasabb csúcsa eléri a 727 méteres magasságot.", "A csúcson egy népszerű kilátó található, amely széles panorámát kínál.", "A hegy vulkanikus eredetű és gazdag geológiai képződményekben."],
       ro: ["Cel mai înalt vârf al său atinge o altitudine de 727 metri.", "Pe vârf se află un popular turn de belvedere care oferă o panoramă largă.", "Muntele este de origine vulcanică și bogat în formațiuni geologice."],
       en: ["Its highest peak reaches an elevation of 727 meters.", "There is a popular lookout tower on the summit offering a wide panorama.", "The mountain is of volcanic origin and rich in geological formations."]
-    }, image: "/poi-images/geo-karanc-extra.webp"},
+    }, image: "/poi-images/geo-karanc-extra.webp",
+    factsAdvanced: {
+      de: ["Höchster Punkt ist 729 Meter hoch", "Liegt an der Grenze zur Slowakei", "Vulkanischen Ursprungs (Andesit)", "Aussichtsturm auf dem Gipfel", "Heimat seltener montaner Pflanzen", "Beliebtes Wanderziel der Region"],
+      hu: ["Legmagasabb pontja 729 méter", "A magyar-szlovák határon fekszik", "Vulkáni eredetű (andezit) kőzet", "Kilátó torony található a csúcson", "Ritka hegyvidéki növények élőhelye", "Népszerű túracélpont a régióban"],
+      ro: ["Cel mai înalt punct are 729 metri", "Situat la granița cu Slovacia", "Origine vulcanică (andezit)", "Turn de belvedere pe vârf", "Habitat pentru plante montane rare", "Destinație populară pentru drumeții"],
+      en: ["Highest point is 729 meters", "Located on the Slovak-Hungarian border", "Volcanic origin (andesite rock)", "Lookout tower on the summit", "Home to rare montane plants", "Popular hiking destination in the region"],
+    },
+  },
     {
     id: "geschichte-somoskoi-var-extra",
     type: "geschichte",
@@ -1062,7 +1251,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Bazaltkúpon fekszik.", "Híres bazaltorgonák a közelében.", "Határvár.", "Remek kilátás a Karancs vidékére."],
       ro: ["Situată pe un con de bazalt.", "Faimoasele orgi de bazalt alături.", "Cetate de frontieră.", "Oferă o vedere minunată asupra zonei Karancs."],
       en: ["Located on a basalt cone.", "Famous basalt organs nearby.", "Border castle.", "Offers great views of the Karancs area."]
-    }, image: "/poi-images/geschichte-somoskoi-var-extra.webp"},
+    }, image: "/poi-images/geschichte-somoskoi-var-extra.webp",
+    factsAdvanced: {
+      de: ["Erbaut im 13. Jahrhundert", "Befindet sich auf 526 Metern Höhe", "Berühmter Basaltwasserfall in der Nähe", "Familie Kacsics waren die Erbauer", "Wichtige Grenzburg im 16. Jahrhundert", "Restaurierung begann in den 1970ern"],
+      hu: ["A 13. században épült", "526 méteres magasságban található", "Híres bazaltömlés van mellette", "A Kacsics nemzetség építtette", "Fontos végvár volt a 16. században", "Felújítása az 1970-es években kezdődött"],
+      ro: ["Construită în secolul al XIII-lea", "Situată la 526 metri altitudine", "Faimoasă cascadă de bazalt în apropiere", "Construită de clanul Kacsics", "Cetate de graniță în secolul al XVI-lea", "Restaurarea a început în anii 1970"],
+      en: ["Built in the 13th century", "Located at 526 meters altitude", "Famous basalt waterfall nearby", "Built by the Kacsics clan", "Important border fort in the 16th century", "Restoration began in the 1970s"],
+    },
+  },
     {
     id: "geschichte-szandavari-varrom-extra",
     type: "geschichte",
@@ -1086,7 +1282,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Andezitcsúcson épült.", "Középkori erődítmény.", "360 fokos panorámájáról ismert.", "Fontos geológiai lelőhely."],
       ro: ["Construită pe un vârf de andezit.", "Fortăreață medievală.", "Cunoscută pentru panorama de 360 de grade.", "Loc important pentru geologi."],
       en: ["Built on an andesite peak.", "Medieval fortress.", "Known for the 360-degree panorama.", "Important site for geologists."]
-    }, image: "/poi-images/geschichte-szandavari-varrom-extra.webp"},
+    }, image: "/poi-images/geschichte-szandavari-varrom-extra.webp",
+    factsAdvanced: {
+      de: ["Erbaut im 13. Jahrhundert", "Liegt auf dem Szanda-Berg (527m)", "Zerstört im Jahr 1551", "Besteht aus vulkanischem Andesit", "Bietet weite Sicht über das Cserhát", "Einst Sitz der Familie Szécsényi"],
+      hu: ["A 13. században épült", "A Szanda-hegyen áll (527 m)", "1551-ben robbantották fel", "Vulkáni andezit sziklára épült", "Messze ellátni innen a Cserhátban", "Egykor a Szécsényi család birtoka"],
+      ro: ["Construită în secolul al XIII-lea", "Situată pe muntele Szanda (527m)", "Distrusă prin explozie în 1551", "Construită pe andezit vulcanic", "Oferă vedere panoramică spre Cserhát", "Fostă reședință a familiei Szécsényi"],
+      en: ["Built in the 13th century", "Located on Szanda Hill (527m)", "Blown up in the year 1551", "Built on volcanic andesite rock", "Provides wide views over the Cserhát", "Once owned by the Szécsényi family"],
+    },
+  },
     // HU-PE: Pest
     {
     id: "city-rackeve-extra",
@@ -1111,8 +1314,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Barokk Savoyai-kastély.", "Magyarország egyetlen gótikus szerb temploma.", "A Kis-Duna mentén fekszik.", "Híres a csónakos piacáról."],
       ro: ["Castel baroc Savoyai.", "Singura biserică sârbă gotică din Ungaria.", "Situat pe \"Dunărea Mică\".", "Faimos pentru piața sa cu bărci."],
       en: ["Baroque Savoy Castle.", "Only Gothic Serbian church in Hungary.", "Located on the 'Small Danube'.", "Famous for its boat market."]
-    }
     },
+    factsAdvanced: {
+      de: ["Serbische Kirche erbaut 1487", "Schloss Savoyai von 1702", "Liegt auf der Insel Csepel", "Berühmter wöchentlicher Bootsmarkt", "Einzige gotische serbische Kirche", "Über 10.000 Einwohner"],
+      hu: ["A szerb templom 1487-ben épült", "Savoyai-kastély 1702-ből származik", "A Csepel-szigeten található", "Híres heti hajós piac helyszíne", "Az egyetlen gótikus szerb templom", "Lakossága meghaladja a 10 000 főt"],
+      ro: ["Biserica sârbă construită în 1487", "Castelul Savoyai din anul 1702", "Situat pe insula Csepel", "Faimoasă piață săptămânală", "Singura biserică sârbă gotică", "Peste 10.000 de locuitori"],
+      en: ["Serbian church built in 1487", "Savoyai Castle dates to 1702", "Located on Csepel Island", "Famous weekly boat market", "Only Gothic Serbian church", "Population over 10,000"],
+    },
+  },
     {
     id: "city-nagymaros-extra",
     type: "city",
@@ -1136,7 +1345,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Legjobb kilátás a visegrádi várra.", "A Dunakanyarban fekszik.", "Népszerű túraközpont.", "Szelídgesztenyéjéről ismert."],
       ro: ["Cea mai bună vedere spre cetatea Visegrád.", "Situat în Cotul Dunării.", "Centru popular pentru drumeții.", "Cunoscut pentru castane comestibile."],
       en: ["Best view of Visegrád Castle.", "Located in the Danube Bend.", "Popular hiking center.", "Known for sweet chestnuts."]
-    }, image: "/poi-images/city-nagymaros-extra.webp"},
+    }, image: "/poi-images/city-nagymaros-extra.webp",
+    factsAdvanced: {
+      de: ["Gotische Kirche aus dem 14. Jh.", "Gegenüber der Burg Visegrád", "Tor zum Börzsöny-Gebirge", "Stadtrechte seit 1996", "Über 4.000 Einwohner", "Wichtiger Halt an der Donauradroute"],
+      hu: ["14. századi gótikus templom", "Visegráddal szemben fekszik", "A Börzsöny hegység kapuja", "1996-ban kapott városi rangot", "Lakossága több mint 4000 fő", "A dunai kerékpárút fontos állomása"],
+      ro: ["Biserică gotică din secolul XIV", "Situat vizavi de Cetatea Visegrád", "Poarta către munții Börzsöny", "Statut de oraș din 1996", "Peste 4.000 de locuitori", "Stație importantă pe ruta EuroVelo 6"],
+      en: ["Gothic church from the 14th century", "Located opposite Visegrád Castle", "Gateway to the Börzsöny Mountains", "Granted city status in 1996", "Population over 4,000", "Important stop on the Danube cycle route"],
+    },
+  },
     {
     id: "geo-duna-kanyar-extra",
     type: "geo",
@@ -1160,7 +1376,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Látványos folyókanyarulat.", "Történelmi városokban gazdag.", "Népszerű hajókirándulóhely.", "Hegyek veszik körül."],
       ro: ["Cot spectaculos al fluviului.", "Bogat în orașe istorice.", "Loc popular pentru croaziere.", "Înconjurat de munți."],
       en: ["Spectacular river bend.", "Rich in historic towns.", "Popular for boat trips.", "Surrounded by mountains."]
-    }, image: "/poi-images/geo-duna-kanyar-extra.webp"},
+    }, image: "/poi-images/geo-duna-kanyar-extra.webp",
+    factsAdvanced: {
+      de: ["Der Fluss knickt bei Visegrád fast rechtwinklig nach Süden ab.", "Die Region umfasst die Städte Esztergom, Visegrád und Szentendre.", "Das Visegráder Gebirge erhebt sich bis auf knapp 700 Meter.", "Es ist Teil des Duna-Ipoly-Nationalparks, der 1997 gegründet wurde.", "Der Name geht auf die charakteristische U-Form des Flusslaufs zurück.", "Die Visegráder Burg thront 333 Meter über dem Meeresspiegel."],
+      hu: ["A folyó Visegrádnál csaknem 90 fokos fordulatot vesz dél felé.", "A térség legfontosabb települései Esztergom, Visegrád és Szentendre.", "A Visegrádi-hegység legmagasabb pontja a Dobogó-kő (700 m).", "A terület az 1997-ben alapított Duna-Ipoly Nemzeti Park része.", "A Dunakanyar a világörökségi várományosi listán is szerepel.", "A visegrádi Fellegvár 333 méteres magasságból tekint a folyóra."],
+      ro: ["Fluviul face o întoarcere de aproape 90 de grade lângă Visegrád.", "Principalele orașe din regiune sunt Esztergom, Visegrád și Szentendre.", "Munții Visegrád ating o înălțime de aproximativ 700 de metri.", "Regiunea face parte din Parcul Național Duna-Ipoly, creat în 1997.", "Numele provine de la forma caracteristică de U a cursului râului.", "Cetatea Visegrád este situată la 333 de metri deasupra mării."],
+      en: ["The river turns nearly 90 degrees southwards at Visegrád.", "The region includes the towns of Esztergom, Visegrád, and Szentendre.", "The Visegrád Mountains reach elevations of nearly 700 meters.", "It is part of the Duna-Ipoly National Park, established in 1997.", "The area is on the tentative list for UNESCO World Heritage status.", "Visegrád Castle sits 333 meters above sea level overlooking the river."],
+    },
+  },
     {
     id: "geschichte-vac-dom-extra",
     type: "geschichte",
@@ -1184,7 +1407,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["A klasszicizmus remekműve.", "Bechert József szobrai díszítik.", "Maulbertsch-freskók láthatók benne.", "Monumentális megjelenés."],
       ro: ["Capodoperă a clasicismului.", "Statui de József Bechert.", "Fresce de Maulbertsch.", "Aspect monumental."],
       en: ["Masterpiece of Classicism.", "Statues by József Bechert.", "Frescoes by Maulbertsch.", "Monumental appearance."]
-    }, image: "/poi-images/geschichte-vac-dom-extra.webp"},
+    }, image: "/poi-images/geschichte-vac-dom-extra.webp",
+    factsAdvanced: {
+      de: ["Die Grundsteinlegung erfolgte am 24. Mai 1761 durch Bischof Migazzi.", "Die Kathedrale ist 72 Meter lang und 34 Meter breit.", "Die Kuppel erreicht eine äußere Höhe von 55 Metern.", "Das Hauptaltarbild stellt die Heimsuchung Mariens dar.", "Der österreichische Maler Franz Anton Maulbertsch schuf die Fresken.", "Die Bauzeit betrug insgesamt 16 Jahre bis zur Weihe 1777."],
+      hu: ["Az alapkövet 1761. május 24-én tette le Migazzi Kristóf püspök.", "A székesegyház hossza 72 méter, szélessége 34 méter.", "A kupola külső magassága eléri az 55 métert.", "A főoltárkép Szűz Mária látogatását ábrázolja Erzsébetnél.", "A belső freskókat az osztrák Franz Anton Maulbertsch festette.", "A templomot 1777-ben szentelték fel, 16 évnyi építkezés után."],
+      ro: ["Piatra de temelie a fost pusă pe 24 mai 1761 de episcopul Migazzi.", "Catedrala are o lungime de 72 de metri și o lățime de 34 de metri.", "Cupola atinge o înălțime exterioară de 55 de metri.", "Imaginea altarului principal reprezintă Vizita Fecioarei Maria.", "Frescele interioare au fost pictate de Franz Anton Maulbertsch.", "Construcția a durat 16 ani până la sfințirea din 1777."],
+      en: ["The foundation stone was laid on May 24, 1761, by Bishop Migazzi.", "The cathedral is 72 meters long and 34 meters wide.", "The dome reaches an exterior height of 55 meters.", "The main altar piece depicts the Visitation of the Virgin Mary.", "The interior frescoes were painted by Austrian artist Franz Anton Maulbertsch.", "Construction took 16 years until the consecration in 1777."],
+    },
+  },
   // HU-SO: Somogy
   {
     id: "geo-zselic-extra",
@@ -1209,8 +1439,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Nemzetközi csillagoségbolt-park.", "Nagyon alacsony fényszennyezés.", "Hatalmas bükkerdők.", "Gazdag szarvasállomány."],
       ro: ["Parc internațional de cer stelat.", "Poluare luminoasă foarte scăzută.", "Păduri vaste de fag.", "Populație bogată de cerbi."],
       en: ["International Dark Sky Park.", "Very low light pollution.", "Extensive beech forests.", "Rich deer population."]
-    }
     },
+    factsAdvanced: {
+      de: ["Der höchste Punkt des Zselic ist der Hollófészek mit 358 Metern.", "Der Landschaftsschutzpark Zselic wurde 1976 auf 9000 Hektar gegründet.", "2009 wurde das Gebiet zum internationalen Sternenpark erklärt.", "Die Region ist reich an Rotwild und Wildschweinen.", "Charakteristisch sind die tiefen Lössschluchten und Bachtäler.", "In der Gegend gibt es viele kleine, isolierte Sackgassendörfer."],
+      hu: ["A Zselic legmagasabb pontja a 358 méter magas Hollófészek.", "A Zselici Tájvédelmi Körzetet 1976-ban hozták létre 9000 hektáron.", "2009-ben nyerte el a Nemzetközi Csillagoségbolt-park címet.", "A terület híres nagyvadállományáról, főleg a gímszarvasokról.", "Jellemző geomorfológiai formái a mély löszmélyutak és völgyek.", "A térségben számos kistelepülés és zárt kerti övezet található."],
+      ro: ["Cel mai înalt punct din Zselic este Hollófészek, la 358 de metri.", "Rezervația peisagistică Zselic a fost înființată în 1976 pe 9000 ha.", "În 2009, zona a fost declarată Parc Internațional de Cer Înstelat.", "Regiunea este bogată în populații de cerbi și mistreți.", "Sunt caracteristice văile adânci de loess și bazinele pâraielor.", "Zona este cunoscută pentru satele sale mici și izolate."],
+      en: ["The highest point in Zselic is Hollófészek at 358 meters.", "The Zselic Landscape Protection Area was founded in 1976 on 9000 ha.", "In 2009, it was designated as an International Starry Sky Park.", "The region is famous for its red deer and wild boar populations.", "Deep loess gullies and stream valleys are characteristic of the terrain.", "The area features many small, isolated 'cul-de-sac' villages."],
+    },
+  },
     {
     id: "geschichte-szantodpuszta-extra",
     type: "geschichte",
@@ -1234,7 +1470,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Több mint 30 történelmi épület.", "1735-ből származó kápolnája van.", "Hagyományos mesterségeket mutat be.", "A balatoni komp közelében található."],
       ro: ["Peste 30 de clădiri istorice.", "Deține o capelă din 1735.", "Prezintă meșteșuguri tradiționale.", "Lângă feribotul de pe Balaton."],
       en: ["Over 30 historic buildings.", "Has a chapel from 1735.", "Shows traditional crafts.", "Near the Balaton ferry."]
-    }, image: "/poi-images/geschichte-szantodpuszta-extra.webp"},
+    }, image: "/poi-images/geschichte-szantodpuszta-extra.webp",
+    factsAdvanced: {
+      de: ["Die Siedlung war einst ein wichtiges Gut der Abtei von Tihany.", "Das heutige Erscheinungsbild stammt größtenteils aus der Barockzeit.", "1994 erhielt der Ort den Europa-Nostra-Preis für Denkmalpflege.", "Die St.-Christoph-Kapelle auf dem Hügel wurde 1735 erbaut.", "Es gibt Ausstellungen zur Fischerei und zum Weinbau am Balaton.", "Die Gebäude wurden originalgetreu mit Schilfdächern restauriert."],
+      hu: ["A település egykor a Tihanyi Apátság jelentős birtokközpontja volt.", "A ma látható épületek többsége barokk stílusjegyeket visel.", "1994-ben Europa Nostra-díjat kapott a műemléki felújításért.", "A dombtetőn álló Szent Kristóf-kápolna 1735-ben épült.", "A kiállítások a balatoni halászatot és borászatot is bemutatják.", "Az épületeket eredeti állapotukban, nádtetővel állították helyre."],
+      ro: ["Așezarea a fost cândva un domeniu important al Abației Tihany.", "Aspectul actual provine în mare parte din epoca barocă.", "În 1994, locul a primit premiul Europa Nostra pentru conservare.", "Capela Sfântul Cristofor de pe deal a fost construită în 1735.", "Există expoziții despre pescuitul și viticultura de la Balaton.", "Clădirile au fost restaurate fidel cu acoperișuri de stuf."],
+      en: ["The settlement was once a major estate of the Tihany Abbey.", "Most of the current buildings date back to the Baroque era.", "In 1994, the site received the Europa Nostra Award for preservation.", "The St. Christopher Chapel on the hill was built in 1735.", "Exhibitions cover Balaton fishing and local viticulture.", "The buildings were faithfully restored with traditional reed roofs."],
+    },
+  },
     {
     id: "geschichte-somogyvar-extra",
     type: "geschichte",
@@ -1258,7 +1501,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Szent László király alapította.", "Egykor hatalmas bencés apátság.", "Nemzeti emlékhely.", "Jelentős régészeti feltárás."],
       ro: ["Fondată de regele Ladislau I.", "Odinioară o abație benedictină uriașă.", "Monument național.", "Sit arheologic important."],
       en: ["Founded by King Ladislaus I.", "Formerly a huge Benedictine abbey.", "National heritage site.", "Significant archaeological site."]
-    }, image: "/poi-images/geschichte-somogyvar-extra.webp"},
+    }, image: "/poi-images/geschichte-somogyvar-extra.webp",
+    factsAdvanced: {
+      de: ["König Ladislaus I. wurde hier 1091 vorübergehend beigesetzt.", "Die Abteikirche war ursprünglich eine dreischiffige Basilika.", "Im 12. Jahrhundert lebten hier Mönche aus Saint-Gilles (Frankreich).", "Somogyvár war im Mittelalter auch Sitz der Gespanschaft Somogy.", "Die Anlage wurde während der Türkenkriege im 16. Jahrhundert zerstört.", "Ein moderner Aussichtsturm bietet Blick auf das Ruinengelände."],
+      hu: ["Szent László királyt 1091-ben ideiglenesen itt temették el.", "Az apátsági templom eredetileg háromhajós bazilika volt.", "A 12. században a franciaországi Saint-Gilles-ből érkeztek szerzetesek.", "Somogyvár a középkorban Somogy vármegye székhelye is volt.", "Az épületegyüttes a 16. századi török harcokban pusztult el.", "A modern kilátóból rálátni a romokra és a környékre."],
+      ro: ["Regele Ladislau I a fost înmormântat temporar aici în 1091.", "Biserica abației a fost inițial o basilică cu trei nave.", "În secolul XII, aici au trăit călugări din Saint-Gilles (Franța).", "Somogyvár a fost și sediul comitatului Somogy în Evul Mediu.", "Complexul a fost distrus în timpul războaielor turcești din sec. XVI.", "Un turn de observare modern oferă o vedere asupra ruinelor."],
+      en: ["King Ladislaus I was temporarily buried here in 1091.", "The abbey church was originally a three-aisled basilica.", "Monks from Saint-Gilles (France) lived here in the 12th century.", "Somogyvár served as the seat of Somogy County in the Middle Ages.", "The complex was destroyed during the Ottoman wars in the 16th century.", "A modern observation tower provides views of the ruins site."],
+    },
+  },
   // HU-SZ: Szabolcs-Szatmár-Bereg
   {
     id: "city-fehergyarmat-extra",
@@ -1283,7 +1533,13 @@ export const poiExtraHu1: POI[] = [
       hu: ["A Szatmári kistérség központja.", "Gótikus református templom.", "A Szamos folyó mentén fekszik.", "Fontos közlekedési csomópont."],
       ro: ["Centrul regiunii Szatmár.", "Biserică reformată gotică.", "Situat de-a lungul râului Someș.", "Nod de transport important."],
       en: ["Center of the Szatmár region.", "Gothic Reformed church.", "Located along the Szamos River.", "Important transport hub."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Die Stadt wurde erstmals im Jahr 1324 urkundlich erwähnt.", "Die reformierte Kirche stammt aus dem 15. Jahrhundert (Spätgotik).", "Die Einwohnerzahl liegt bei etwa 7.500 Personen.", "Fehérgyarmat ist berühmt für seine Pflaumenproduktion.", "Das Krankenhaus der Stadt dient der gesamten Region Szatmár.", "Die Stadt liegt an der Kreuzung wichtiger regionaler Straßen."],
+      hu: ["A települést először 1324-ben említik írásos források.", "A gótikus református templom a 15. században épült.", "A város lakossága körülbelül 7500 fő.", "A térség híres a szatmári szilváról és az abból készült lekvárról.", "A városi kórház az egész Szatmári-kistérséget kiszolgálja.", "Fontos közúti csomópont a román és ukrán határ felé."],
+      ro: ["Orașul a fost menționat documentar pentru prima dată în 1324.", "Biserica reformată datează din secolul XV (stil gotic târziu).", "Populația orașului este de aproximativ 7.500 de locuitori.", "Fehérgyarmat este renumit pentru producția de prune.", "Spitalul orașului deservește întreaga regiune Szatmár.", "Orașul este situat la intersecția unor drumuri regionale importante."],
+      en: ["The town was first mentioned in documents in 1324.", "The Reformed church dates back to the 15th century (Late Gothic).", "The population is approximately 7,500 people.", "Fehérgyarmat is famous for its plum production.", "The town's hospital serves the entire Szatmár region.", "It is located at a crossroads of important regional routes."],
+    },
   },
   {
     id: "city-ujfeherto-extra",
@@ -1308,7 +1564,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Híres az almájáról és meggyéről.", "A Nyírségben található.", "Görögkatolikus hagyományok.", "Fontos mezőgazdasági központ."],
       ro: ["Faimos pentru mere și vișine.", "Situat în regiunea Nyírség.", "Tradiție greco-catolică.", "Centru agricol important."],
       en: ["Famous for apples and sour cherries.", "Located in the Nyírség region.", "Greek Catholic tradition.", "Important agricultural center."]
-    }, image: "/poi-images/city-ujfeherto-extra.webp"},
+    }, image: "/poi-images/city-ujfeherto-extra.webp",
+    factsAdvanced: {
+      de: ["Die Sauerkirschsorte 'Újfehértói fürtös' ist weltweit bekannt.", "Die Stadt hat etwa 12.000 Einwohner.", "Erste schriftliche Erwähnung datiert auf das Jahr 1608.", "Die reformierte Kirche hat einen markanten barocken Turm.", "Es gibt eine bedeutende griechisch-katholische Gemeinde.", "Der Ort liegt an der Hauptbahnlinie 100 (Budapest-Záhony)."],
+      hu: ["Az 'Újfehértói fürtös' meggyfajta nemzetközileg elismert.", "A város lakossága körülbelül 12 000 fő.", "A település neve írásban először 1608-ban bukkan fel.", "Református temploma jellegzetes barokk toronnyal rendelkezik.", "Jelentős görögkatolikus közösség él a városban.", "A település a 100-as számú vasúti fővonal mentén fekszik."],
+      ro: ["Soiul de vișine 'Újfehértói fürtös' este cunoscut la nivel mondial.", "Orașul are o populație de aproximativ 12.000 de locuitori.", "Prima mențiune scrisă datează din anul 1608.", "Biserica reformată are un turn baroc distinctiv.", "Există o comunitate greco-catolică semnificativă în oraș.", "Localitatea este situată pe linia principală de cale ferată 100."],
+      en: ["The 'Újfehértói fürtös' sour cherry variety is world-renowned.", "The town has approximately 12,000 inhabitants.", "The first written mention dates back to 1608.", "The Reformed church features a prominent Baroque tower.", "There is a significant Greek Catholic community in the town.", "The town is located along the main railway line 100."],
+    },
+  },
   {
     id: "geo-szatmari-siksag-extra",
     type: "river",
@@ -1332,7 +1595,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Határvidék Magyarország, Románia és Ukrajna között.", "Folyók szabdalta táj.", "Gazdag madárvilág.", "Hagyományos népi építészet."],
       ro: ["Regiune de frontieră între Ungaria, România și Ucraina.", "Peisaj marcat de râuri.", "Avifaună bogată.", "Arhitectură populară tradițională."],
       en: ["Border region between Hungary, Romania, and Ukraine.", "Landscape marked by rivers.", "Rich birdlife.", "Traditional folk architecture."]
-    }, image: "/poi-images/geo-szatmari-siksag-extra.webp"},
+    }, image: "/poi-images/geo-szatmari-siksag-extra.webp",
+    factsAdvanced: {
+      de: ["Die Ebene liegt auf einer durchschnittlichen Höhe von 110-120 m.", "Die Region umfasst Teile des Komitats Szabolcs-Szatmár-Bereg.", "Sie ist ein wichtiges Anbaugebiet für die 'Szatmárer Pflaume'.", "Viele Kirchen der Region haben hölzerne Glockentürme.", "Das Klima ist kontinental mit relativ hohen Niederschlägen.", "Die Flüsse sind durch zahlreiche Deiche reguliert worden."],
+      hu: ["A síkság átlagos tengerszint feletti magassága 110-120 méter.", "A terület Szabolcs-Szatmár-Bereg vármegye keleti részét fedi le.", "A 'szatmári szilva' eredetvédett termék a térségben.", "A régióban sok középkori templom mellett fa harangláb áll.", "Éghajlata kontinentális, az Alföld többi részénél csapadékosabb.", "A folyók szabályozása előtt a terület nagy része mocsaras volt."],
+      ro: ["Câmpia are o altitudine medie de 110-120 de metri.", "Regiunea cuprinde părți din județul Szabolcs-Szatmár-Bereg.", "Este o zonă importantă pentru cultura 'prunelor de Szatmár'.", "Multe biserici din regiune au clopotnițe din lemn.", "Clima este continentală, cu precipitații relativ ridicate.", "Râurile au fost reglementate prin numeroase diguri."],
+      en: ["The plain lies at an average elevation of 110-120 meters.", "The region covers parts of Szabolcs-Szatmár-Bereg county.", "It is a major growing area for the 'Szatmár Plum'.", "Many churches in the region feature wooden bell towers.", "The climate is continental with relatively high rainfall.", "The rivers have been regulated by extensive levee systems."],
+    },
+  },
   {
     id: "historical-csaroda-templom-extra",
     type: "historical",
@@ -1356,7 +1626,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Késő román stílus.", "Mosolygó szenteket ábrázoló freskók.", "Fapikkelyes torony.", "A Beregi-vidék fontos műemléke."],
       ro: ["Stil romanic târziu.", "Fresce cu sfinți zâmbitori.", "Turn cu șindrilă de lemn.", "Monument important al regiunii Bereg."],
       en: ["Late Romanesque style.", "Frescoes with smiling saints.", "Wooden shingle tower.", "Important monument of the Bereg region."]
-    }, image: "/poi-images/historical-csaroda-templom-extra.webp"},
+    }, image: "/poi-images/historical-csaroda-templom-extra.webp",
+    factsAdvanced: {
+      de: ["Die Kirche wurde um 1250 im romanischen Stil erbaut.", "Die Fresken wurden im 16. Jahrhundert von Protestanten übertüncht.", "1901 wurden die mittelalterlichen Wandgemälde wiederentdeckt.", "Der hölzerne Glockenturm neben der Kirche stammt aus dem 18. Jh.", "Die Decke ist mit bemalten Holzkassetten im Volksbarock verziert.", "Die Kirche steht auf einem leicht erhöhten Fundament zum Schutz."],
+      hu: ["A templom 1250 körül épült késő román stílusban.", "A freskókat a reformáció idején, a 16. században lemeszelték.", "A falfestményeket 1901-ben fedezték fel újra a restauráláskor.", "A templom mellett 18. századi fa harangláb áll.", "A belső mennyezetet népi motívumos festett kazetták díszítik.", "Az épület az áradások ellen védve egy kisebb dombra épült."],
+      ro: ["Biserica a fost construită în stil romanic în jurul anului 1250.", "Frescele au fost acoperite cu var de către protestanți în sec. XVI.", "Picturile medievale au fost redescoperite în anul 1901.", "Clopotnița din lemn de lângă biserică datează din secolul XVIII.", "Tavanul este decorat cu casete din lemn pictate în stil baroc popular.", "Biserica este situată pe o fundație ușor ridicată pentru protecție."],
+      en: ["The church was built around 1250 in Romanesque style.", "The frescoes were whitewashed by Protestants in the 16th century.", "The medieval wall paintings were rediscovered in 1901.", "The wooden bell tower next to the church dates from the 18th c.", "The ceiling is decorated with painted folk-baroque wood panels.", "The church stands on a slightly elevated base for flood protection."],
+    },
+  },
   {
     id: "landmark-tarpaiszarazmalom-extra",
     type: "landmark",
@@ -1380,7 +1657,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Ipartörténeti emlékhely.", "Lovak hajtották.", "Tölgyfa szerkezet.", "Eredeti állapotában restaurálva."],
       ro: ["Monument de istorie industrială.", "Acționată de cai.", "Construcție din stejar.", "Restaurată fidel originalului."],
       en: ["Industrial history monument.", "Driven by horses.", "Oak wood construction.", "Faithfully restored."]
-    }, image: "/poi-images/landmark-tarpaiszarazmalom-extra.webp"},
+    }, image: "/poi-images/landmark-tarpaiszarazmalom-extra.webp",
+    factsAdvanced: {
+      de: ["Die Mühle wurde in der Mitte des 19. Jahrhunderts errichtet.", "Das Gebäude hat einen kreisförmigen Grundriss für den Pferdelauf.", "Das Antriebsrad besteht fast vollständig aus Eichenholz.", "Die Dachkonstruktion wird von massiven Säulen getragen.", "Sie wurde 1981 umfassend restauriert und ist funktionsfähig.", "Früher gab es Hunderte solcher Mühlen in der ungarischen Tiefebene."],
+      hu: ["A malom a 19. század közepén épült népi stílusban.", "Az épület kör alakú járószínnel rendelkezik a lovak számára.", "A nagykerék és a hajtómű anyaga szinte kizárólag tölgyfa.", "A tetőszerkezetet hatalmas, függőleges oszlopok tartják.", "1981-ben teljes körűen restaurálták, ma is működőképes állapotú.", "Az Alföldön egykor több száz hasonló szárazmalom működött."],
+      ro: ["Moara a fost construită la mijlocul secolului al XIX-lea.", "Clădirea are un plan circular pentru circulația cailor.", "Roata motoare este fabricată aproape în întregime din lemn de stejar.", "Structura acoperișului este susținută de coloane masive.", "A fost restaurată complet în 1981 și este funcțională.", "În trecut, existau sute de astfel de mori în Marea Câmpie Ungară."],
+      en: ["The mill was constructed in the middle of the 19th century.", "The building has a circular floor plan for the horse track.", "The main gear wheel is made almost entirely of oak.", "The roof structure is supported by massive vertical columns.", "It was fully restored in 1981 and remains operational.", "In the past, hundreds of similar mills existed across the Great Plain."],
+    },
+  },
   // HU-TO: Tolna
   {
     id: "city-tamasi-extra",
@@ -1405,7 +1689,13 @@ export const poiExtraHu1: POI[] = [
       hu: ["Népszerű termálfürdő.", "Gyulaji vadaskert a közelben.", "Dámvad-főváros.", "Szép természeti környezet."],
       ro: ["Băi termale populare.", "Parcul de vânătoare Gyulaj în apropiere.", "Capitala cerbilor lopătari.", "Cadru natural frumos."],
       en: ["Popular thermal bath.", "Gyulaj game park nearby.", "Fallow deer capital.", "Beautiful natural surroundings."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Das Thermalbad verfügt über Wasser mit 52 Grad Celsius.", "Das Wildreservat Gyulaj ist berühmt für seine Damhirschpopulation.", "Die Stadt erhielt 1984 den Status einer Stadt zurück.", "Die Umgebung bietet über 50 km markierte Wanderwege.", "Tamási liegt an der Kreuzung der Hauptstraßen 61 und 65.", "In der Stadt gibt es eine barocke römisch-katholische Kirche."],
+      hu: ["A termálfürdő vize 52 Celsius-fokos hőmérséklettel tör fel.", "A Gyulaji-erdő a világ egyik legjobb dámvad-állományával bír.", "A település 1984-ben kapott újra városi rangot.", "A környéken több mint 50 km jelzett túraútvonal található.", "Tamási a 61-es és a 65-ös főutak kereszteződésében fekszik.", "A városban jelentős barokk stílusú katolikus templom áll."],
+      ro: ["Apa băii termale are o temperatură de 52 de grade Celsius.", "Rezervația Gyulaj este faimoasă pentru populația de cerbi lopătari.", "Orașul și-a redobândit statutul de oraș în anul 1984.", "Împrejurimile oferă peste 50 km de trasee de drumeție marcate.", "Tamási este situat la intersecția drumurilor principale 61 și 65.", "În oraș există o biserică romano-catolică în stil baroc."],
+      en: ["The thermal spa features water at 52 degrees Celsius.", "The Gyulaj hunting reserve is famous for its fallow deer population.", "The settlement regained its city status in 1984.", "The surrounding area offers over 50 km of marked hiking trails.", "Tamási is located at the intersection of main roads 61 and 65.", "The town features a significant Baroque Roman Catholic church."],
+    },
   },
   {
     id: "geo-siocsatorna-extra",
@@ -1430,7 +1720,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["A Balaton lefolyója.", "Fontos vízügyi létesítmény.", "Keresztülszeli Tolnát.", "Népszerű a vízi túrázók körében."],
       ro: ["Scurgerea lacului Balaton.", "Construcție hidrotehnică importantă.", "Traversează Tolna.", "Popular pentru excursii cu caiacul."],
       en: ["Outflow of Lake Balaton.", "Important hydraulic engineering facility.", "Crosses Tolna.", "Popular for canoeing."]
-    }, image: "/poi-images/geo-siocsatorna-extra.webp"},
+    }, image: "/poi-images/geo-siocsatorna-extra.webp",
+    factsAdvanced: {
+      de: ["Der Kanal ist insgesamt etwa 121 Kilometer lang.", "Bereits Kaiser Galerius ließ im 3. Jh. erste Kanäle bauen.", "Die moderne Kanalisierung begann im Jahr 1863.", "Das Gefälle zwischen Balaton und Donau beträgt etwa 14 Meter.", "Er ermöglicht den Schiffsverkehr zwischen See und Fluss.", "Die Wasserabgabe wird durch ein Computersystem gesteuert."],
+      hu: ["A csatorna teljes hossza körülbelül 121 kilométer.", "Már Galerius császár is építtetett itt zsilipeket a 3. században.", "A modern csatornázási munkálatok 1863-ban kezdődtek el.", "A Balaton és a Duna közötti szintkülönbség kb. 14 méter.", "Biztosítja a hajózási kapcsolatot a tó és a folyó között.", "A vízeresztést a siófoki zsiliprendszerrel irányítják."],
+      ro: ["Canalul are o lungime totală de aproximativ 121 de kilometri.", "Împăratul Galerius a construit primele canale aici în secolul III.", "Canalizarea modernă a început în anul 1863.", "Diferența de nivel între Balaton și Dunăre este de circa 14 metri.", "Permite traficul navelor între lac și fluviu.", "Evacuarea apei este controlată prin sistemul de ecluze din Siófok."],
+      en: ["The canal is approximately 121 kilometers long in total.", "Emperor Galerius ordered the first canal works in the 3rd century.", "Modern canalization work began in 1863.", "The drop between Lake Balaton and the Danube is about 14 meters.", "It enables shipping traffic between the lake and the river.", "Water discharge is managed through the Siófok lock system."],
+    },
+  },
   {
     id: "historical-graboc-extra",
     type: "historical",
@@ -1454,7 +1751,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Szerb ortodox kolostor.", "Barokk építészet.", "Értékes ikonosztáz.", "A Szekszárdi-dombság szívében."],
       ro: ["Mănăstire sârbă ortodoxă.", "Arhitectură barocă.", "Iconostas valoros.", "În inima dealurilor Szekszárd."],
       en: ["Serbian Orthodox monastery.", "Baroque architecture.", "Valuable iconostasis.", "In the heart of the Szekszárd hills."]
-    }, image: "/poi-images/historical-graboc-extra.webp"},
+    }, image: "/poi-images/historical-graboc-extra.webp",
+    factsAdvanced: {
+      de: ["Das Kloster wurde 1391 zum ersten Mal erwähnt.", "Mönche aus dem Kloster Dragovic flohen 1585 hierher.", "Die heutige Kirche wurde zwischen 1736 und 1738 erbaut.", "Die Ikonostase ist ein Meisterwerk der serbischen Barockkunst.", "Es ist das einzige bewohnte serbisch-orthodoxe Kloster in Ungarn.", "Die Fresken im Inneren wurden 1785 von Andrei Shaltist gemalt."],
+      hu: ["A kolostort először 1391-ben említik írásos források.", "A török elől menekülő Dragovics-kolostori szerzetesek alapították.", "A jelenlegi barokk templom 1736 és 1738 között épült.", "Ikonosztáza a szerb barokk művészet egyik legszebb példája.", "Ez az egyetlen ma is működő szerb ortodox kolostor az országban.", "Belső falfestményeit 1785-ben készítette Andrej Saltist."],
+      ro: ["Mănăstirea a fost menționată prima dată în 1391.", "Călugări de la mănăstirea Dragovic s-au refugiat aici în 1585.", "Actuala biserică a fost construită între anii 1736 și 1738.", "Iconostasul este o capodoperă a artei baroce sârbești.", "Este singura mănăstire ortodoxă sârbă locuită din Ungaria.", "Frescele interioare au fost pictate în 1785 de Andrei Shaltist."],
+      en: ["The monastery was first mentioned in 1391.", "Monks from the Dragovic monastery fled here in 1585.", "The current church was built between 1736 and 1738.", "The iconostasis is a masterpiece of Serbian Baroque art.", "It is the only inhabited Serbian Orthodox monastery in Hungary.", "The interior frescoes were painted in 1785 by Andrei Shaltist."],
+    },
+  },
   {
     id: "landmark-ozora-extra",
     type: "landmark",
@@ -1478,7 +1782,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Filippo Scolari építtette.", "Itáliai reneszánsz hatások.", "Négyzetes alaprajz.", "Múzeum a lovagi életről."],
       ro: ["Construit de Filippo Scolari.", "Influențe renascentiste italiene.", "Plan pătrat.", "Muzeu despre viața cavalerilor."],
       en: ["Built by Filippo Scolari.", "Italian Renaissance influences.", "Square floor plan.", "Museum about knightly life."]
-    }, image: "/poi-images/landmark-ozora-extra.webp"},
+    }, image: "/poi-images/landmark-ozora-extra.webp",
+    factsAdvanced: {
+      de: ["Der Bau wurde im Jahr 1416 abgeschlossen.", "Pippo Spano war ein florentinischer Feldherr des Königs Sigismund.", "Die Burg hat einen streng quadratischen Grundriss.", "Im 18. Jahrhundert diente das Schloss als Getreidespeicher.", "Die Restaurierung wurde mit dem Europa-Nostra-Preis geehrt.", "Besucher können heute eingerichtete Renaissance-Räume besichtigen."],
+      hu: ["Az építkezés 1416-ban fejeződött be.", "Ozorai Pipo Zsigmond király firenzei származású hadvezére volt.", "A várkastély alaprajza szabályos négyzet alakú.", "A 18. században az épületet magtárként használták.", "A rekonstrukció elnyerte az Europa Nostra-díjat.", "A kiállítás korhűen berendezett reneszánsz szobákat mutat be."],
+      ro: ["Construcția a fost finalizată în anul 1416.", "Pippo Spano a fost un comandant florentin al regelui Sigismund.", "Castelul are un plan riguros pătrat.", "În secolul XVIII, castelul a fost folosit ca grânar.", "Restaurarea a fost onorată cu premiul Europa Nostra.", "Vizitatorii pot vedea astăzi camere renascentiste mobilate."],
+      en: ["The construction was completed in 1416.", "Pippo Spano was a Florentine commander of King Sigismund.", "The castle has a strictly square ground plan.", "In the 18th century, the castle served as a granary.", "The restoration was honored with the Europa Nostra Award.", "Visitors can now tour furnished Renaissance-style rooms."],
+    },
+  },
   // HU-VA: Vas
   {
     id: "city-vasvar-extra",
@@ -1503,7 +1814,13 @@ export const poiExtraHu1: POI[] = [
       hu: ["Az 1664-es béke helyszíne.", "Régi dominikánus kolostor.", "Egykori vármegyeszékhely.", "A Hegyhát kapuja."],
       ro: ["Locul păcii din 1664.", "Veche mănăstire dominicană.", "Fostă reședință de județ.", "Poarta către Hegyhát."],
       en: ["Site of the 1664 peace treaty.", "Old Dominican monastery.", "Former county seat.", "Gateway to Hegyhát."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Die Stadt war im Mittelalter Sitz des Komitats Vas.", "Der Friede von Vasvár wurde am 10. August 1664 geschlossen.", "Das Dominikanerkloster wurde im 13. Jahrhundert gegründet.", "In der Nähe befindet sich der 'Eiserne Vorhang'-Grenzwall.", "Die römisch-katholische Kirche ist der Heiligen Kreuzerhöhung geweiht.", "Das Vasvár-Museum präsentiert die Geschichte der Gespanschaft."],
+      hu: ["A város a középkorban Vas vármegye közigazgatási központja volt.", "A vasvári békét 1664. augusztus 10-én írták alá.", "A dominikánus kolostort a 13. század közepén alapították.", "A város határában húzódik a történelmi vasvári sánc.", "A plébániatemplom a Szent Kereszt felmagasztalása nevet viseli.", "A helyi múzeum a vármegye és a kolostor történetét mutatja be."],
+      ro: ["Orașul a fost sediul comitatului Vas în Evul Mediu.", "Pacea de la Vasvár a fost încheiată pe 10 august 1664.", "Mănăstirea dominicană a fost fondată în secolul XIII.", "În apropiere se află fortificația istorică 'Șanțul de la Vasvár'.", "Biserica romano-catolică este dedicată Înălțării Sfintei Cruci.", "Muzeul din Vasvár prezintă istoria comitatului și a mănăstirii."],
+      en: ["The town was the administrative seat of Vas County in the Middle Ages.", "The Peace of Vasvár was signed on August 10, 1664.", "The Dominican monastery was founded in the 13th century.", "The historic 'Vasvár Rampart' (Sánc) is located nearby.", "The parish church is dedicated to the Exaltation of the Holy Cross.", "The Vasvár Museum displays the history of the county and abbey."],
+    },
   },
   {
     id: "city-janoshaza-extra",
@@ -1528,7 +1845,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Erdődy-Choron várkastély.", "Közlekedési csomópont.", "Dunántúli jelleg.", "Történelmi gyökerek."],
       ro: ["Castelul Erdődy-Choron.", "Nod de transport.", "Caracter transdanubian.", "Rădăcini istorice."],
       en: ["Erdődy-Choron castle.", "Transport hub.", "Transdanubian character.", "Historic roots."]
-    }, image: "/poi-images/city-janoshaza-extra.webp"},
+    }, image: "/poi-images/city-janoshaza-extra.webp",
+    factsAdvanced: {
+      de: ["Die erste urkundliche Erwähnung stammt aus dem Jahr 1439.", "Das Schloss Erdődy wurde um 1580 im Renaissancestil umgebaut.", "Die Einwohnerzahl beträgt ungefähr 2.400 Personen.", "Die Stadt liegt in der Mikroregion Kemenesalja.", "Der Fluss Marcal fließt unweit der östlichen Stadtgrenze.", "Jánosháza erhielt im Jahr 2001 erneut den Stadtrang."],
+      hu: ["Első írásos említése 1439-ből származik.", "Az Erdődy-kastélyt 1580 körül építették át reneszánsz stílusban.", "A város lakossága körülbelül 2400 fő.", "A település a Kemenesalja kistérség központja.", "A Marcal folyó a várostól keletre folyik el.", "Jánosháza 2001-ben kapta vissza városi rangját."],
+      ro: ["Prima mențiune documentară a localității datează din 1439.", "Castelul Erdődy a fost reconstruit în stil renascentist în jurul anului 1580.", "Populația orașului este de aproximativ 2.400 de locuitori.", "Orașul face parte din microregiunea Kemenesalja.", "Râul Marcal curge în apropierea limitei estice a orașului.", "Jánosháza a primit rangul de oraș în anul 2001."],
+      en: ["The first written mention of the town dates back to 1439.", "The Erdődy Castle was rebuilt in Renaissance style around 1580.", "The population is approximately 2,400 inhabitants.", "The settlement is the center of the Kemenesalja micro-region.", "The Marcal River flows near the eastern border of the town.", "Jánosháza regained its city status in the year 2001."],
+    },
+  },
   {
     id: "geo-pinka-extra",
     type: "river",
@@ -1552,7 +1876,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Határon átnyúló.", "A Rábába torkollik.", "Szurdokos táj.", "Halakban gazdag."],
       ro: ["Transfrontalier.", "Se varsă în Rába.", "Peisaj cu chei.", "Bogat în pește."],
       en: ["Cross-border.", "Flows into the Raab.", "Gorge landscape.", "Rich in fish."]
-    }, image: "/poi-images/geo-pinka-extra.webp"},
+    }, image: "/poi-images/geo-pinka-extra.webp",
+    factsAdvanced: {
+      de: ["Der Fluss hat eine Gesamtlänge von 94 Kilometern.", "Die Quelle liegt in der Steiermark in einer Höhe von etwa 1.000 Metern.", "Die Pinka mündet bei Körmend in die Raab.", "Das Einzugsgebiet umfasst eine Fläche von 1.299 Quadratkilometern.", "Der ungarische Abschnitt des Flusses ist etwa 44 Kilometer lang.", "Der Fluss ist ein wichtiger Lebensraum für die Bachforelle."],
+      hu: ["A folyó teljes hossza 94 kilométer.", "A forrása Stájerországban, kb. 1000 méteres magasságban található.", "A Pinka Körmendnél torkollik a Rába folyóba.", "Vízgyűjtő területe összesen 1299 négyzetkilométer.", "A folyó magyarországi szakasza körülbelül 44 kilométer hosszú.", "A folyó a sebes pisztráng egyik fontos élőhelye."],
+      ro: ["Lungimea totală a râului este de 94 de kilometri.", "Izvorul se află în Stiria, la o altitudine de aproximativ 1.000 de metri.", "Pinka se varsă în râul Rába în apropierea orașului Körmend.", "Bazinul hidrografic ocupă o suprafață de 1.299 de kilometri pătrați.", "Secțiunea maghiară a râului are o lungime de aproximativ 44 de kilometri.", "Râul este un habitat important pentru păstrăvul de munte."],
+      en: ["The total length of the river is 94 kilometers.", "Its source is in Styria at an altitude of approximately 1,000 meters.", "The Pinka flows into the Rába River near Körmend.", "The catchment area covers 1,299 square kilometers.", "The Hungarian section of the river is about 44 kilometers long.", "The river is an important habitat for brown trout."],
+    },
+  },
   {
     id: "historical-sitke-extra",
     type: "historical",
@@ -1576,7 +1907,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Neogótikus stílus.", "Rockfesztiválokról ismert.", "Szép kilátás.", "Sitke jelképe."],
       ro: ["Stil neogotic.", "Cunoscută pentru festivaluri rock.", "Vedere frumoasă.", "Simbolul din Sitke."],
       en: ["Neo-Gothic style.", "Known for rock festivals.", "Beautiful view.", "Symbol of Sitke."]
-    }, image: "/poi-images/historical-sitke-extra.webp"},
+    }, image: "/poi-images/historical-sitke-extra.webp",
+    factsAdvanced: {
+      de: ["Die Kapelle wurde im Jahr 1871 fertiggestellt.", "Sie wurde von Sándor Kiss und seiner Frau gegründet.", "Die Architektur vereint neugotische und romantische Elemente.", "Das Gebäude steht auf dem 180 Meter hohen Kalvarienberg.", "Das erste 'Sitke Rock Festival' fand im Jahr 1986 statt.", "Die vollständige Renovierung der Fassade wurde 1991 abgeschlossen."],
+      hu: ["A kápolnát 1871-ben fejezték be.", "Alapítói Kiss Sándor és felesége voltak.", "Az építészet a neogótikus és a romantikus elemeket ötvözi.", "Az épület a 180 méter magas Kálvária-dombon áll.", "Az első Sitkei Rockfesztivált 1986-ban rendezték meg.", "A homlokzat teljes felújítása 1991-ben fejeződött be."],
+      ro: ["Construcția capelei a fost finalizată în anul 1871.", "Fondatorii au fost Sándor Kiss și soția sa.", "Arhitectura îmbină elemente neogotice și romantice.", "Clădirea este situată pe Dealul Calvarului, la 180 de metri altitudine.", "Primul festival de rock de la Sitke a avut loc în 1986.", "Restaurarea completă a fațadei a fost încheiată în 1991."],
+      en: ["The construction of the chapel was completed in 1871.", "It was founded by Sándor Kiss and his wife.", "The architecture combines Neo-Gothic and Romantic elements.", "The building stands on the 180-meter-high Calvary Hill.", "The first Sitke Rock Festival was organized in 1986.", "The full renovation of the facade was finished in 1991."],
+    },
+  },
   {
     id: "landmark-pityerszer-extra",
     type: "landmark",
@@ -1600,7 +1938,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Szabadtéri múzeum.", "Hagyományos 'szeres' település.", "Kerített házak.", "Az Őrségi Nemzeti Park része."],
       ro: ["Muzeu în aer liber.", "Așezare tradițională de tip 'szer'.", "Case împrejmuite.", "Parte a Parcului Național Őrség."],
       en: ["Open-air museum.", "Traditional 'szer' settlement.", "Fenced houses.", "Part of the Őrség National Park."]
-    }, image: "/poi-images/landmark-pityerszer-extra.webp"},
+    }, image: "/poi-images/landmark-pityerszer-extra.webp",
+    factsAdvanced: {
+      de: ["Pityerszer gehört administrativ zur Gemeinde Szalafő.", "Die Siedlungsform 'Szer' besteht aus drei erhaltenen Gebäudegruppen.", "Das älteste Gebäude wurde im frühen 18. Jahrhundert errichtet.", "Das Freilichtmuseum wurde im Jahr 1970 eröffnet.", "Charakteristisch sind die 'Kerített házak' (umzäunte Höfe).", "Die Dächer sind traditionell mit Roggenstroh gedeckt."],
+      hu: ["Pityerszer közigazgatásilag Szalafő községhez tartozik.", "A településszerkezet három megmaradt épületcsoportból áll.", "A legöregebb épület az 1700-as évek elején épült.", "A szabadtéri múzeumot 1970-ben nyitották meg a látogatók előtt.", "Jellemző épülettípusa a védelmi célokat is szolgáló kerített ház.", "A tetőket hagyományosan rozsszalmából készült zsúppal fedték."],
+      ro: ["Pityerszer aparține administrativ de comuna Szalafő.", "Structura așezării este formată din trei grupuri de clădiri conservate.", "Cea mai veche clădire a fost construită la începutul secolului al XVIII-lea.", "Muzeul în aer liber a fost deschis oficial în anul 1970.", "Tipul caracteristic de construcție este 'casa împrejmuită'.", "Acoperișurile sunt realizate tradițional din paie de secară."],
+      en: ["Pityerszer belongs administratively to the village of Szalafő.", "The settlement structure consists of three preserved groups of buildings.", "The oldest building was constructed in the early 1700s.", "The open-air museum was opened to the public in 1970.", "The 'enclosed house' is a characteristic architectural type here.", "The roofs are traditionally covered with rye straw thatch."],
+    },
+  },
   // HU-VE: Veszprém
   {
     id: "city-ajka-extra",
@@ -1625,7 +1970,13 @@ export const poiExtraHu1: POI[] = [
       hu: ["Híres kristályüveg-gyártás.", "Bányászati Múzeum.", "A Bakonyban található.", "Ipari központ."],
       ro: ["Fabrică de cristal faimoasă.", "Muzeul Mineritului.", "În munții Bakony.", "Centru industrial."],
       en: ["Famous crystal glass factory.", "Mining Museum.", "In the Bakony Mountains.", "Industrial center."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Ajka erhielt im Jahr 1959 den Stadtrang.", "Die Glasfabrik wurde bereits 1878 gegründet.", "Die Einwohnerzahl beträgt rund 27.000 Personen.", "In der Stadt befindet sich ein Bergbaumuseum im Freien.", "Der Bergbau in der Region begann im Jahr 1865.", "Die Stadt liegt am Bach Torna im westlichen Bakony."],
+      hu: ["Ajka 1959-ben kapott városi rangot.", "Az üveggyárat már 1878-ban megalapították.", "A város lakossága körülbelül 27 000 fő.", "A városban szabadtéri bányászati múzeum található.", "A térségben a bányászat 1865-ben vette kezdetét.", "A város a Torna-patak partján fekszik a Bakony nyugati részén."],
+      ro: ["Ajka a primit statutul de oraș în anul 1959.", "Fabrica de sticlă a fost fondată în anul 1878.", "Populația orașului este de aproximativ 27.000 de locuitori.", "În oraș se află un muzeu al mineritului în aer liber.", "Exploatarea minieră în regiune a început în anul 1865.", "Orașul este situat pe pârâul Torna, în vestul munților Bakony."],
+      en: ["Ajka was granted city status in 1959.", "The glass factory was established as early as 1878.", "The population is approximately 27,000 inhabitants.", "The city hosts an open-air mining museum.", "Mining activities in the region began in 1865.", "The city is located on the banks of the Torna Stream in western Bakony."],
+    },
   },
   {
     id: "city-berhida-extra",
@@ -1650,7 +2001,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Késő gótikus templom.", "A Séd folyó mentén.", "Veszprém közelében.", "Kisvárosi hangulat."],
       ro: ["Biserică gotică târzie.", "Pe râul Séd.", "Lângă Veszprém.", "Atmosferă de orășel."],
       en: ["Late Gothic church.", "Along the Séd River.", "Near Veszprém.", "Small-town atmosphere."]
-    }, image: "/poi-images/city-berhida-extra.webp"},
+    }, image: "/poi-images/city-berhida-extra.webp",
+    factsAdvanced: {
+      de: ["Die St.-Ladislaus-Kirche stammt aus der späten Arpadenzeit.", "Berhida wurde im Jahr 1082 erstmals urkundlich erwähnt.", "Im August 1985 wurde die Stadt von einem starken Erdbeben getroffen.", "Die Stadt besteht aus den Teilen Berhida, Peremarton und Vilonyapuszta.", "Die Einwohnerzahl liegt bei etwa 5.800 Personen.", "Berhida erhielt im Jahr 2004 den Stadtrang."],
+      hu: ["A Szent László-templom a késő Árpád-korból származik.", "Berhidát 1082-ben említik először írásos forrásban.", "1985 augusztusában erős földrengés rázta meg a települést.", "A város Berhida, Peremarton és Vilonyapuszta részekből áll.", "A lakosság száma körülbelül 5800 fő.", "Berhida 2004-ben nyerte el a városi rangot."],
+      ro: ["Biserica Sfântul Ladislau datează din perioada târzie a dinastiei Árpád.", "Berhida a fost menționată prima dată în documente în 1082.", "În august 1985, orașul a fost lovit de un cutremur puternic.", "Orașul este compus din părțile Berhida, Peremarton și Vilonyapuszta.", "Populația este de aproximativ 5.800 de persoane.", "Berhida a primit rangul de oraș în anul 2004."],
+      en: ["The Saint Ladislaus Church dates from the late Árpád era.", "Berhida was first mentioned in written records in 1082.", "In August 1985, the town was struck by a powerful earthquake.", "The town consists of Berhida, Peremarton, and Vilonyapuszta sections.", "The population is around 5,800 inhabitants.", "Berhida was granted city status in the year 2004."],
+    },
+  },
   {
     id: "geo-csobanc-extra",
     type: "mountain",
@@ -1674,7 +2032,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Vulkanikus eredetű tanúhegy.", "Várrom a csúcson.", "Siklóernyős helyszín.", "Híres bortermelő vidék."],
       ro: ["Deal martor de origine vulcanică.", "Ruine de cetate pe vârf.", "Loc pentru parapantă.", "Faimoasă regiune viticolă."],
       en: ["Witness hill of volcanic origin.", "Castle ruins on the summit.", "Paragliding spot.", "Famous wine region."]
-    }, image: "/poi-images/geo-csobanc-extra.webp"},
+    }, image: "/poi-images/geo-csobanc-extra.webp",
+    factsAdvanced: {
+      de: ["Der Berg erreicht eine Höhe von 376 Metern.", "Die Burg wurde um 1255 erstmals urkundlich erwähnt.", "Die Familie Gyulaffy besaß die Burg für Jahrhunderte.", "Im Jahr 1707 hielten 30 Kuruzen die Burg gegen 1000 Österreicher.", "Der Berg gehört zum Nationalpark Balaton-Oberland.", "Die Ruinen wurden im 18. Jahrhundert durch kaiserliche Befehle zerstört."],
+      hu: ["A hegy magassága 376 méter.", "A várat először 1255 körül említik az oklevelek.", "A Gyulaffy család birtokolta a várat évszázadokon keresztül.", "1707-ben 30 kuruc védte meg a várat 1000 osztrák katonával szemben.", "A hegy a Balaton-felvidéki Nemzeti Park területéhez tartozik.", "A várat a 18. század elején császári parancsra rombolták le."],
+      ro: ["Muntele are o altitudine de 376 de metri.", "Cetatea a fost menționată prima dată în jurul anului 1255.", "Familia Gyulaffy a deținut cetatea timp de mai multe secole.", "În 1707, 30 de curuți au apărat cetatea împotriva a 1000 de austrieci.", "Muntele face parte din Parcul Național Balaton-felvidék.", "Cetatea a fost distrusă în secolul al XVIII-lea din ordin imperial."],
+      en: ["The hill reaches an altitude of 376 meters.", "The castle was first mentioned in documents around 1255.", "The Gyulaffy family owned the castle for several centuries.", "In 1707, 30 Kuruc rebels defended the castle against 1,000 Austrians.", "The hill is part of the Balaton Uplands National Park.", "The castle was demolished in the early 18th century by imperial order."],
+    },
+  },
   {
     id: "historical-csesznek-extra",
     type: "historical",
@@ -1698,7 +2063,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Sziklára épült.", "Középkori gyökerek.", "Via Ferrata a közelben.", "Gyönyörű kilátás a Bakonyra."],
       ro: ["Situată pe o stâncă.", "Rădăcini medievale.", "Via Ferrata în apropiere.", "Vedere superbă asupra munților Bakony."],
       en: ["Built on a rock.", "Medieval roots.", "Via Ferrata nearby.", "Beautiful view of the Bakony."]
-    }, image: "/poi-images/historical-csesznek-extra.webp"},
+    }, image: "/poi-images/historical-csesznek-extra.webp",
+    factsAdvanced: {
+      de: ["Die Burg wurde um 1263 von Jakab Cseszneky erbaut.", "Im 15. Jahrhundert wurde sie zu einer gotischen Ritterburg ausgebaut.", "Die Familie Esterházy kaufte die Burg im Jahr 1635.", "Ein Blitzeinschlag und ein Brand im Jahr 1810 zerstörten das Gebäude.", "Die Burg liegt in einer Höhe von 350 Metern über dem Meeresspiegel.", "Csesznek ist der Standort der ersten Klettersteige (Via Ferrata) in Ungarn."],
+      hu: ["A várat 1263 körül Cseszneky Jakab építtette.", "A 15. században gótikus lovagvárrá alakították át.", "Az Esterházy család 1635-ben vásárolta meg a várat.", "1810-ben egy villámcsapás okozott tüzet, ami tönkretette az épületet.", "A vár 350 méteres tengerszint feletti magasságban található.", "Cseszneken találhatók Magyarország első via ferrata útvonalai."],
+      ro: ["Cetatea a fost construită în jurul anului 1263 de Jakab Cseszneky.", "În secolul al XV-lea a fost transformată într-un castel gotic cavaleresc.", "Familia Esterházy a cumpărat cetatea în anul 1635.", "Un fulger și un incendiu în 1810 au distrus clădirea.", "Cetatea este situată la o altitudine de 350 de metri.", "La Csesznek se află primele trasee de via ferrata din Ungaria."],
+      en: ["The castle was built around 1263 by Jakab Cseszneky.", "In the 15th century, it was expanded into a Gothic knightly castle.", "The Esterházy family purchased the castle in 1635.", "A lightning strike and subsequent fire in 1810 destroyed the building.", "The castle stands at an elevation of 350 meters above sea level.", "Csesznek is home to Hungary's first via ferrata climbing routes."],
+    },
+  },
   {
     id: "landmark-osku-extra",
     type: "landmark",
@@ -1722,7 +2094,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Középkori rotunda.", "Gomba alakú tető.", "Domboldalon fekszik.", "Ritka építészeti forma."],
       ro: ["Rotundă medievală.", "Acoperiș în formă de ciupercă.", "Situată pe un deal.", "Formă arhitecturală rară."],
       en: ["Medieval rotunda.", "Mushroom-shaped roof.", "Situated on a hill.", "Rare architectural form."]
-    }, image: "/poi-images/landmark-osku-extra.webp"},
+    }, image: "/poi-images/landmark-osku-extra.webp",
+    factsAdvanced: {
+      de: ["Das Gebäude stammt aus dem 11. Jahrhundert.", "Die Mauern sind aus lokalem Kalkstein errichtet.", "Der Durchmesser der Rotunde beträgt etwa 7 Meter.", "Das heutige Pilzdach wurde im 18. Jahrhundert errichtet.", "Die Kirche wurde ursprünglich zu Ehren des Heiligen Nikolaus geweiht.", "Archäologische Ausgrabungen wurden im Jahr 1947 durchgeführt."],
+      hu: ["Az épület a 11. századból származik.", "Falai helyi mészkőből épültek.", "A rotunda belső átmérője körülbelül 7 méter.", "A jelenlegi gomba alakú tetőt a 18. században kapta.", "A templomot eredetileg Szent Miklós tiszteletére szentelték.", "A templomban 1947-ben végeztek régészeti feltárásokat."],
+      ro: ["Clădirea datează din secolul al XI-lea.", "Zidurile sunt construite din calcar local.", "Diametrul interior al rotondei este de aproximativ 7 metri.", "Acoperișul actual în formă de ciupercă a fost realizat în secolul XVIII.", "Biserica a fost sfințită inițial în cinstea Sfântului Nicolae.", "Săpăturile arheologice au fost efectuate în anul 1947."],
+      en: ["The building dates back to the 11th century.", "The walls are constructed from local limestone.", "The internal diameter of the rotunda is about 7 meters.", "The current mushroom-shaped roof was built in the 18th century.", "The church was originally dedicated to Saint Nicholas.", "Archaeological excavations were conducted at the site in 1947."],
+    },
+  },
   // HU-ZA: Zala
   {
     id: "city-letenye-extra",
@@ -1747,7 +2126,13 @@ export const poiExtraHu1: POI[] = [
       hu: ["A horvát határnál.", "Kastélypark óriás platánnal.", "A Mura folyó mentén.", "Fontos közlekedési csomópont."],
       ro: ["La granița cu Croația.", "Parcul castelului cu un platan uriaș.", "Pe râul Mura.", "Nod de transport important."],
       en: ["On the Croatian border.", "Castle park with giant plane tree.", "Along the Mura River.", "Important transport hub."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Letenye erhielt im Jahr 1989 den Stadtrang.", "Die berühmte Platane hat einen Umfang von über 6 Metern.", "Das Schloss Szapáry wurde im 18. Jahrhundert erbaut.", "Die Autobahn M7 verbindet Letenye mit Budapest und Zagreb.", "Die erste Erwähnung des Ortes stammt aus dem Jahr 1341.", "Die Stadt liegt im Tal des Flusses Mur."],
+      hu: ["Letenye 1989-ben kapott városi rangot.", "A híres platánfa törzskerülete meghaladja a 6 métert.", "A Szapáry-kastély a 18. században épült.", "Az M7-es autópálya köti össze Letenyét Budapesttel és Zágrábbal.", "A település első írásos említése 1341-ből való.", "A város a Mura folyó völgyében fekszik."],
+      ro: ["Letenye a primit statutul de oraș în anul 1989.", "Celebrul platan are o circumferință de peste 6 metri.", "Castelul Szapáry a fost construit în secolul al XVIII-lea.", "Autostrada M7 leagă Letenye de Budapesta și Zagreb.", "Prima mențiune documentară a localității datează din 1341.", "Orașul este situat în valea râului Mura."],
+      en: ["Letenye was granted city status in 1989.", "The famous plane tree has a circumference of over 6 meters.", "The Szapáry Castle was built in the 18th century.", "The M7 motorway connects Letenye with Budapest and Zagreb.", "The first written record of the settlement is from 1341.", "The town is located in the valley of the Mura River."],
+    },
   },
   {
     id: "city-zalalovo-extra",
@@ -1772,7 +2157,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Salla néven római település.", "Az Őrség kapuja.", "Borostyán-tó.", "A Zala folyó mentén."],
       ro: ["Așezarea romană Salla.", "Poarta către Őrség.", "Lacul Borostyán.", "Pe râul Zala."],
       en: ["Roman settlement Salla.", "Gateway to Őrség.", "Borostyán Lake.", "By the Zala River."]
-    }, image: "/poi-images/city-zalalovo-extra.webp"},
+    }, image: "/poi-images/city-zalalovo-extra.webp",
+    factsAdvanced: {
+      de: ["In der Römerzeit hieß die Siedlung Municipium Aelium Salla.", "Zalalövő liegt direkt an der historischen Bernsteinstraße.", "Die Stadt erhielt im Jahr 2000 den Stadtrang.", "Die römischen Ruinen wurden in den 1980er Jahren freigelegt.", "In der Stadt gibt es ein Heimatmuseum in einem alten Bauernhaus.", "Der nahegelegene Borostyán-See ist ein beliebtes Erholungsgebiet."],
+      hu: ["A római korban a település neve Municipium Aelium Salla volt.", "Zalalövő a történelmi Borostyánkő út mentén fekszik.", "A település 2000-ben nyerte el a városi rangot.", "A római kori romokat az 1980-as években tárták fel.", "A városban tájház mutatja be a régi paraszti életet.", "A közeli Borostyán-tó kedvelt üdülőhely a környéken."],
+      ro: ["În epoca romană, localitatea se numea Municipium Aelium Salla.", "Zalalövő este situat pe ruta istorică a Drumului Chihlimbarului.", "Localitatea a primit rangul de oraș în anul 2000.", "Ruinele romane au fost scoase la lumină în anii 1980.", "În oraș există o casă tradițională care prezintă viața țărănească.", "Lacul Borostyán din apropiere este o zonă de agrement populară."],
+      en: ["In Roman times, the settlement was named Municipium Aelium Salla.", "Zalalövő lies on the historical Amber Road route.", "The settlement was granted city status in the year 2000.", "Roman ruins were excavated during the 1980s.", "A local museum in an old farmhouse displays traditional rural life.", "The nearby Lake Borostyán is a popular recreation area."],
+    },
+  },
   {
     id: "geo-kisbalaton-extra",
     type: "lake",
@@ -1796,7 +2188,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Madárparadicsom.", "Természetes szűrőrendszer.", "Kányavári-sziget.", "Bivalyrezervátum a közelben."],
       ro: ["Paradisul păsărilor.", "Sistem de filtrare natural.", "Insula Kányavári.", "Rezervație de bivoli în apropiere."],
       en: ["Bird paradise.", "Natural filter system.", "Kányavári Island.", "Buffalo reserve nearby."]
-    }, image: "/poi-images/geo-kisbalaton-extra.webp"},
+    }, image: "/poi-images/geo-kisbalaton-extra.webp",
+    factsAdvanced: {
+      de: ["Das Gebiet umfasst eine Fläche von etwa 150 Quadratkilometern.", "Über 250 Vogelarten wurden hier bereits beobachtet.", "Die Diás-Insel beherbergt die Matula-Hütte aus einem berühmten Roman.", "Der Kis-Balaton wurde 1951 zum Naturschutzgebiet erklärt.", "Er ist Teil des Nationalparks Balaton-Oberland.", "Die Wasserfläche wurde in den 1980er Jahren künstlich wiederhergestellt."],
+      hu: ["A terület körülbelül 150 négyzetkilométert foglal el.", "Több mint 250 madárfajt figyeltek már meg a térségben.", "A Diás-szigeten található a híres Tüskevár Matula-kunyhója.", "A Kis-Balatont 1951-ben nyilvánították természetvédelmi területté.", "A terület a Balaton-felvidéki Nemzeti Park része.", "A vízfelületet az 1980-as években mesterségesen állították vissza."],
+      ro: ["Zona ocupă o suprafață de aproximativ 150 de kilometri pătrați.", "Peste 250 de specii de păsări au fost observate aici.", "Pe Insula Diás se află coliba lui Matula dintr-un roman celebru.", "Micul Balaton a fost declarat rezervație naturală în 1951.", "Face parte din Parcul Național Balaton-felvidék.", "Suprafața de apă a fost restaurată artificial în anii 1980."],
+      en: ["The area covers approximately 150 square kilometers.", "Over 250 bird species have been observed here.", "Diás Island hosts the Matula Hut, famous from a Hungarian novel.", "Little Balaton was declared a nature reserve in 1951.", "It is part of the Balaton Uplands National Park.", "The water surface was artificially restored in the 1980s."],
+    },
+  },
   {
     id: "historical-egervar-extra",
     type: "historical",
@@ -1820,7 +2219,14 @@ export const poiExtraHu1: POI[] = [
       hu: ["Egykori végvár.", "Barokk várkastély saroktornyokkal.", "Nyári színház.", "Zalaegerszeg közelében."],
       ro: ["Fostă cetate de frontieră.", "Castel baroc cu turnuri de colț.", "Teatru de vară.", "Lângă Zalaegerszeg."],
       en: ["Former border fortress.", "Baroque castle with corner towers.", "Summer theater.", "Near Zalaegerszeg."]
-    }, image: "/poi-images/historical-egervar-extra.webp"},
+    }, image: "/poi-images/historical-egervar-extra.webp",
+    factsAdvanced: {
+      de: ["Die heutige Burg wurde um 1569 von Tamás Nádasdy ausgebaut.", "Die Anlage hat einen quadratischen Grundriss mit Ecktürmen.", "Im 18. Jahrhundert wurde die Burg barockisiert.", "Die vollständige Renovierung wurde im Jahr 2012 abgeschlossen.", "Die Burg war im Besitz der Familien Nádasdy und Széchényi.", "Das Gebäude steht an der Stelle einer mittelalterlichen Wasserburg."],
+      hu: ["A mai várkastélyt 1569 körül Nádasdy Tamás építtette ki.", "Az épület négyszögletes alaprajzú, saroktornyokkal megerősítve.", "A 18. században a várat barokk stílusban alakították át.", "A vár teljes körű felújítása 2012-ben fejeződött be.", "A vár a Nádasdy és a Széchényi családok birtoka is volt.", "Az épület egy korábbi középkori vízvár helyén áll."],
+      ro: ["Actualul castel a fost dezvoltat în jurul anului 1569 de Tamás Nádasdy.", "Complexul are un plan pătrat cu turnuri la colțuri.", "În secolul al XVIII-lea, castelul a fost transformat în stil baroc.", "Restaurarea completă a fost finalizată în anul 2012.", "Castelul a aparținut familiilor Nádasdy și Széchényi.", "Clădirea se află pe locul unei foste cetăți medievale de apă."],
+      en: ["The current castle was developed around 1569 by Tamás Nádasdy.", "The complex has a quadrangular layout with corner towers.", "In the 18th century, the castle was modified in Baroque style.", "The complete renovation was finished in 2012.", "The castle was owned by the Nádasdy and Széchényi families.", "The building stands on the site of a former medieval water castle."],
+    },
+  },
   {
     id: "landmark-gocsej-falumuzeum-extra",
     type: "landmark",
@@ -1844,7 +2250,13 @@ export const poiExtraHu1: POI[] = [
       hu: ["Magyarország első falumúzeuma.", "Faépítészeti hagyományok.", "Eredeti vízimalom.", "Betekintés a paraszti életbe."],
       ro: ["Primul muzeu al satului din Ungaria.", "Tradiții în construcția de lemn.", "Moară de apă originală.", "Perspectivă asupra vieții țărănești."],
       en: ["Hungary's first village museum.", "Wooden construction traditions.", "Original water mill.", "Insight into peasant life."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Das Museum wurde am 21. Juni 1968 eröffnet.", "Es beherbergt über 40 originale Gebäude aus der Region.", "Eine funktionstüchtige Wassermühle aus dem 19. Jahrhundert ist Teil der Anlage.", "Die Gebäude stammen meist aus dem 18. und 19. Jahrhundert.", "Das Museum befindet sich im Stadtteil Ola in Zalaegerszeg.", "Es war das Vorbild für spätere Freilichtmuseen in Ungarn."],
+      hu: ["A múzeumot 1968. június 21-én nyitották meg.", "Több mint 40 eredeti épületet láthatunk a kiállítás területén.", "Egy 19. századi működőképes vízimalom is a gyűjtemény része.", "Az épületek többsége a 18. és 19. századból származik.", "A múzeum Zalaegerszeg Ola városrészében található.", "Ez volt az ország első néprajzi skanzenje."],
+      ro: ["Muzeul a fost deschis pe 21 iunie 1968.", "Găzduiește peste 40 de clădiri originale din regiune.", "O moară de apă funcțională din secolul al XIX-lea face parte din complex.", "Clădirile datează în mare parte din secolele XVIII și XIX.", "Muzeul este situat în cartierul Ola din Zalaegerszeg.", "A servit drept model pentru muzeele ulterioare în aer liber din Ungaria."],
+      en: ["The museum was opened on June 21, 1968.", "It features over 40 original buildings from the region.", "A functional 19th-century watermill is part of the collection.", "Most buildings date back to the 18th and 19th centuries.", "The museum is located in the Ola district of Zalaegerszeg.", "It was the first ethnographic open-air museum in the country."],
+    },
   }
 ];
 

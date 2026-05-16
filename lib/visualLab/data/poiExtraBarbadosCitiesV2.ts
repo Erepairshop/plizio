@@ -267,6 +267,18 @@ export const barbadosCitiesV2: POI[] = [
       en: ["Considered the modern commercial heart of the island.", "Headquarters for many government agencies.", "Features the highest concentration of offices in Barbados.", "Located near the University of the West Indies."],
     },
     imageHint: "Modern office buildings in Warrens business district",
+    descriptionAdvanced: {
+      de: "Warrens ist das am schnellsten wachsende Geschäftsviertel von Barbados und liegt im Parish Saint Michael. Es hat sich von einem landwirtschaftlichen Gebiet zu einem modernen Knotenpunkt mit Bürokomplexen, Banken und Einkaufszentren entwickelt. Aufgrund seiner strategischen Lage an der Kreuzung wichtiger Autobahnen ist es ein zentraler Punkt für Pendler und Handel.",
+      hu: "Warrens Barbados leggyorsabban fejlődő üzleti negyede, amely Saint Michael egyházközségben található. Egykor mezőgazdasági terület volt, mára azonban irodaházak, bankok és bevásárlóközpontok modern csomópontjává vált. Stratégiai elhelyezkedése a fontos főutak kereszteződésénél a kereskedelem és az ingázók központjává teszi.",
+      ro: "Warrens este districtul de afaceri cu cea mai rapidă creștere din Barbados, situat în parohia Saint Michael. S-a transformat dintr-o zonă agricolă într-un hub modern, cu complexe de birouri, bănci și centre comerciale. Datorită locației strategice la intersecția unor autostrăzi majore, este un punct central pentru navetiști și comerț.",
+      en: "Warrens is the fastest-growing commercial district in Barbados, located in the parish of Saint Michael. It has evolved from an agricultural area into a modern hub featuring office complexes, banks, and shopping centers. Due to its strategic location at the junction of major highways, it serves as a central point for commuters and commerce.",
+    },
+    factsAdvanced: {
+      de: ["Warrens liegt an der Kreuzung von Highway 2 und Highway 2A.", "Hier befindet sich der Hauptsitz bedeutender Banken und Versorgungsunternehmen.", "Die Entwicklung des Gebiets begann massiv in den späten 1990er Jahren.", "Es ist Teil des Ballungsraums der Hauptstadt Bridgetown.", "Zahlreiche Regierungsbehörden haben ihre Büros in dieses Viertel verlegt.", "Das Gebiet beherbergt einige der höchsten Bürogebäude der Insel."],
+      hu: ["Warrens a Highway 2 és a Highway 2A főutak találkozásánál fekszik.", "Itt található több jelentős bank és közműszolgáltató központja.", "A terület intenzív fejlesztése az 1990-es évek végén kezdődött.", "A negyed a főváros, Bridgetown agglomerációjának szerves része.", "Számos kormányzati hivatal költöztette ide irodáit a belvárosból.", "A környéken találhatók a sziget legmodernebb irodaházai."],
+      ro: ["Warrens este situat la intersecția dintre Highway 2 și Highway 2A.", "Găzduiește sediile centrale ale unor bănci și companii de utilități majore.", "Dezvoltarea masivă a zonei a început la sfârșitul anilor 1990.", "Este considerat o extensie a zonei metropolitane Bridgetown.", "Numeroase agenții guvernamentale și-au mutat birourile în acest district.", "Zona include unele dintre cele mai înalte clădiri de birouri de pe insulă."],
+      en: ["Warrens is situated at the intersection of Highway 2 and Highway 2A.", "It houses the headquarters of major banks and utility companies.", "Rapid development of the area began in the late 1990s.", "The district is part of the Greater Bridgetown urban expansion area.", "Many government departments have relocated their offices to this hub.", "The area features several of the island's tallest modern office towers."],
+    },
   },
   {
     id: "barbados-worthing-cities-v2",
@@ -1433,6 +1445,18 @@ export const barbadosCitiesV2: POI[] = [
       en: ["Home to large construction and home furnishing stores.", "Important site for local furniture manufacturing.", "Located in close proximity to the ABC Highway.", "A fast-growing commercial district."],
     },
     imageHint: "Modern retail stores in Canewood",
+    descriptionAdvanced: {
+      de: "Canewood ist ein aufstrebendes Gewerbe- und Wohngebiet auf Barbados, das an der Grenze zwischen den Parishes Saint Michael und Saint Thomas liegt. Ursprünglich eine Plantage, beherbergt es heute großflächige Einzelhandelsbetriebe und Baumärkte. Die Nähe zum ABC Highway macht es zu einem attraktiven Standort für neue wirtschaftliche Entwicklungen.",
+      hu: "Canewood Barbados egy dinamikusan fejlődő kereskedelmi és lakóövezete, amely Saint Michael és Saint Thomas egyházközségek határán fekszik. Eredetileg ültetvény volt, ma azonban nagyméretű kiskereskedelmi egységeknek és barkácsáruházaknak ad otthont. Az ABC Highway közelsége vonzóvá teszi az új gazdasági beruházások számára.",
+      ro: "Canewood este o zonă comercială și rezidențială în plină dezvoltare din Barbados, situată la granița dintre parohiile Saint Michael și Saint Thomas. Inițial o plantație, acum găzduiește unități mari de vânzare cu amănuntul și depozite de bricolaj. Proximitatea față de autostrada ABC îl face o locație atractivă pentru noi dezvoltări economice.",
+      en: "Canewood is a developing commercial and residential area in Barbados, situated on the border between the parishes of Saint Michael and Saint Thomas. Originally a plantation, it now hosts large-scale retail outlets and home improvement centers. Its proximity to the ABC Highway makes it an attractive location for new economic developments.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebiet hat sich von landwirtschaftlicher Nutzung zu Gewerbeflächen gewandelt.", "Es beherbergt einige der größten Baumärkte der Insel.", "Canewood liegt strategisch günstig in der Nähe des Warrens-Knotenpunkts.", "Die Erschließung neuer Wohnanlagen treibt das Wachstum voran.", "Es ist über die Canewood Road direkt mit dem ABC Highway verbunden.", "Das Gelände war historisch Teil einer Zuckerrohrplantage."],
+      hu: ["A terület mezőgazdasági hasznosításúból vált kereskedelmi övezetté.", "Itt találhatók a sziget legnagyobb barkács- és lakberendezési áruházai.", "Canewood stratégiai szempontból közel fekszik Warrens központjához.", "Az új lakóparkok építése jelentősen felgyorsította a növekedést.", "Közvetlen összeköttetéssel rendelkezik az ABC Highway főúttal.", "Történelmileg a terület egy cukornádültetvény részét képezte."],
+      ro: ["Zona s-a transformat din teren agricol în spațiu comercial și industrial.", "Găzduiește unele dintre cele mai mari magazine de feronerie de pe insulă.", "Canewood este situat strategic în apropierea nodului comercial Warrens.", "Dezvoltarea noilor complexe rezidențiale stimulează creșterea locală.", "Este conectat direct la autostrada ABC prin drumul Canewood.", "Terenul a făcut parte istoric dintr-o vastă plantație de trestie de zahăr."],
+      en: ["The area has transitioned from agricultural use to commercial land.", "It hosts several of the largest hardware and furniture stores on the island.", "Canewood is strategically located near the busy Warrens commercial hub.", "New residential developments are driving the population growth in the area.", "It is linked to the ABC Highway via a major secondary road system.", "The site was historically part of a sugar cane plantation estate."],
+    },
   },
   {
     id: "barbados-pine-cities-v2",

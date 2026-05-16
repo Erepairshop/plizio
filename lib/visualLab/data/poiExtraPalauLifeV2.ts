@@ -19,6 +19,18 @@ export const palauLifeV2: POI[] = [
       en: ["UNESCO status since 2012", "445 limestone islands", "52 marine lakes", "Area of 100,200 hectares"],
     },
     imageHint: "Aerial view of green limestone Rock Islands in blue water",
+    descriptionAdvanced: {
+      de: "Die Rock Islands Southern Lagoon ist ein UNESCO-Welterbe und besteht aus Hunderten von pilzförmigen Kalksteininseln. Diese Inseln sind von leuchtend blauen Lagunen und komplexen Korallenriffen umgeben. Die Region beherbergt eine außergewöhnliche Artenvielfalt, darunter seltene Seevögel und zahlreiche marine Spezies. Neben der Natur bietet das Gebiet auch bedeutende archäologische Stätten der frühen palauischen Kultur.",
+      hu: "A Rock Islands déli lagúnája az UNESCO Világörökség része, amely több száz gomba alakú mészkőszigetből áll. A szigeteket kristálytiszta kék lagúnák és bonyolult korallzátony-rendszerek veszik körül. A régió rendkívüli biológiai sokféleségnek ad otthont, beleértve ritka tengeri madarakat és számtalan halat. A természet mellett a terület fontos régészeti lelőhelyeket is rejt a korai palaui kultúrából.",
+      ro: "Laguna de Sud a Insulelor Rock este un sit al Patrimoniului Mondial UNESCO, format din sute de insule calcaroase în formă de ciupercă. Acestea sunt înconjurate de lagune turcoaz și sisteme complexe de recife de corali. Regiunea adăpostește o biodiversitate excepțională, inclusiv specii rare de păsări marine și numeroase viețuitoare acvatice. Pe lângă valoarea naturală, zona conține vestigii arheologice ale culturii timpurii din Palau.",
+      en: "The Rock Islands Southern Lagoon is a UNESCO World Heritage site comprising hundreds of mushroom-shaped limestone islands. These islands are surrounded by vibrant turquoise lagoons and intricate coral reef systems. The region is home to extraordinary biodiversity, including rare seabirds and a vast array of marine life. Beyond its natural beauty, the area contains significant archaeological sites linked to early Palauan settlements.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe seit dem Jahr 2012.", "Besteht aus etwa 445 einzelnen Kalksteininseln.", "Beinhaltet die weltweit höchste Konzentration an Meeresseen.", "Heimat von über 380 verschiedenen Korallenarten.", "Früheste Besiedlungsspuren datieren auf 3100 v. Chr.", "Bekannt für das charakteristische 'Pilz'-Aussehen."],
+      hu: ["2012 óta az UNESCO Világörökség része.", "Körülbelül 445 különálló mészkőszigetből áll.", "Itt található a világ legtöbb tengeri tava.", "Több mint 380 korallfaj él a környező vizekben.", "A legkorábbi emberi nyomok i. e. 3100-ból származnak.", "Híres a szigetek jellegzetes 'gomba' formájáról."],
+      ro: ["Inclus în Patrimoniul UNESCO începând cu anul 2012.", "Cuprinde aproximativ 445 de insule calcaroase.", "Găzduiește cea mai mare concentrație de lacuri marine.", "Adăpostește peste 380 de specii diferite de corali.", "Urme de locuire umană datând din anul 3100 î.Hr.", "Cunoscut pentru aspectul de „ciupercă” al insulelor."],
+      en: ["Inscribed as a UNESCO World Heritage site in 2012.", "Comprises approximately 445 individual limestone islands.", "Contains the highest concentration of marine lakes globally.", "Home to over 380 distinct species of coral.", "Human settlement traces date back to 3100 BC.", "Famous for the unique 'mushroom' shape of the islands."],
+    },
   },
   {
     id: "palau-jellyfish-lake-life-v2",
@@ -38,6 +50,18 @@ export const palauLifeV2: POI[] = [
       en: ["Species: Mastigias papua etpisoni", "Age approx. 12,000 years", "No dangerous stingers", "Depth up to 30 meters"],
     },
     imageHint: "Thousands of golden jellyfish swimming in a turquoise lake",
+    descriptionAdvanced: {
+      de: "Der Jellyfish Lake (Ongeim'l Tketau) auf der Insel Eil Malk ist weltberühmt für seine Millionen von Goldquallen. Diese Quallen haben im Laufe von Jahrtausenden ihre Nesselfähigkeit fast vollständig verloren, da sie keine natürlichen Feinde im See haben. Besucher können mit den sanften Kreaturen schnorcheln, während diese dem Sonnenlicht durch das Wasser folgen. Der See ist ein isoliertes marines Ökosystem, das strengen Schutzbestimmungen unterliegt.",
+      hu: "A Jellyfish Lake (Ongeim'l Tketau) az Eil Malk-szigeten található, és világhírű az ott élő több millió aranylelkű medúzáról. Ezek a medúzák az évezredek során elveszítették csalóképességüket, mivel nincsenek természetes ellenségeik a tóban. A látogatók szabadon úszhatnak a lények között, amelyek napközben a napfényt követve vándorolnak a vízben. A tó elszigetelt tengeri ökoszisztéma, amelyet szigorúan védenek.",
+      ro: "Lacul Meduzelor (Ongeim'l Tketau), situat pe insula Eil Malk, este faimos în întreaga lume pentru milioanele de meduze aurii. Acestea și-au pierdut capacitatea de a urzica de-a lungul mileniilor, din cauza lipsei prădătorilor naturali. Vizitatorii pot face snorkeling alături de ele, observând cum urmează lumina soarelui în apă. Lacul reprezintă un ecosistem marin izolat, protejat prin reglementări de mediu foarte stricte.",
+      en: "Jellyfish Lake (Ongeim'l Tketau) on Eil Malk island is world-renowned for its millions of golden jellyfish. Over millennia of isolation, these jellyfish have evolved to lose their potent sting due to a lack of natural predators. Visitors can snorkel among the rhythmic creatures as they migrate across the lake to follow the sunlight. The lake is a fragile marine ecosystem subject to strict conservation monitoring.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt die endemische Goldqualle (Mastigias papua).", "Alter des Sees wird auf etwa 12.000 Jahre geschätzt.", "Verbindung zum Ozean nur über winzige Felsspalten.", "Schwimmen ist erlaubt, Tauchen mit Flaschen verboten.", "Die Quallenpopulation schwankt je nach Klimabedingungen.", "Unterer Seebereich ist sauerstofffrei und giftig."],
+      hu: ["Az endemikus aranylelkű medúza otthona.", "A tó korát körülbelül 12 000 évre becsülik.", "Csak apró kőzetrepedéseken át érintkezik az óceánnal.", "A sznorkelezés megengedett, de a palackos merülés tilos.", "A medúzák száma az éghajlati viszonyoktól függően változik.", "A tó alsó rétege oxigénmentes és mérgező gázokat tartalmaz."],
+      ro: ["Adăpostește meduza aurie endemică (Mastigias papua).", "Vârsta lacului este estimată la aproximativ 12.000 de ani.", "Conectat la ocean doar prin fisuri mici în stâncă.", "Snorkelingul este permis, dar scufundările scuba sunt interzise.", "Populația de meduze variază în funcție de condițiile climatice.", "Stratul inferior al lacului este anoxic și toxic."],
+      en: ["Home to the endemic golden jellyfish (Mastigias papua).", "The lake is estimated to be around 12,000 years old.", "Connected to the ocean only via tiny rock fissures.", "Snorkeling is permitted, but scuba diving is strictly banned.", "Jellyfish numbers fluctuate based on El Niño cycles.", "The lower layer of the lake is anoxic and hydrogen sulfide-rich."],
+    },
   },
   {
     id: "palau-lake-ngardok-life-v2",
@@ -57,6 +81,18 @@ export const palauLifeV2: POI[] = [
       en: ["Area of 493 hectares", "Important Ramsar site", "Habitat for Palau Fruit Doves", "Over 11 kilometers of trails"],
     },
     imageHint: "Lush tropical lake surrounded by dense green forest",
+    descriptionAdvanced: {
+      de: "Der Lake Ngardok auf der Insel Babeldaob ist der größte natürliche Süßwassersee in ganz Mikronesien. Er bildet das Herzstück eines bedeutenden Naturschutzgebietes, das seltene Pflanzen und Tiere beherbergt. Der See dient als wichtiges Habitat für das endemische Palau-Krokodil und zahlreiche Vogelarten. Wanderwege führen durch den umliegenden Regenwald und bieten Einblicke in dieses unberührte limnische Ökosystem.",
+      hu: "A Babeldaob-szigeten található Ngardok-tó egész Mikronézia legnagyobb természetes édesvizű tava. Egy jelentős természetvédelmi terület szívében fekszik, amely ritka növény- és állatfajoknak ad otthont. A tó kulcsfontosságú élőhelye az endemikus palaui krokodilnak és számos madárfajnak. A környező esőerdőben túraútvonalak vezetnek, amelyek bemutatják ezt az érintetlen édesvízi ökoszisztémát.",
+      ro: "Lacul Ngardok, situat pe insula Babeldaob, este cel mai mare lac natural cu apă dulce din întreaga Micronezie. Acesta constituie piesa centrală a unei rezervații naturale ce adăpostește plante și animale rare. Lacul este un habitat vital pentru crocodilul endemic de Palau și pentru numeroase specii de păsări. Potecile de drumeție prin pădurea tropicală permit observarea acestui ecosistem limnic nealterat.",
+      en: "Lake Ngardok, located on Babeldaob island, is the largest natural freshwater lake in Micronesia. It serves as the centerpiece of a vital nature reserve that protects rare flora and fauna. The lake is a critical habitat for the endemic Palauan crocodile and various indigenous bird species. Hiking trails through the surrounding rainforest offer visitors a chance to explore this unique and pristine freshwater ecosystem.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von etwa 493 Hektar im gesamten Schutzgebiet.", "Wichtigstes Trinkwasserreservoir für die Region.", "Lebensraum für das seltene Palau-Krokodil.", "Beherbergt den endemischen Palau-Fächerschwanz.", "Anerkannt als Ramsar-Gebiet von internationaler Bedeutung.", "Wurde im Jahr 1997 unter Naturschutz gestellt."],
+      hu: ["A teljes védett terület körülbelül 493 hektár.", "A régió legfontosabb édesvíz-forrása.", "A ritka palaui krokodil fontos élőhelye.", "Otthont ad az endemikus palaui legyezőfarkúnak.", "Nemzetközi jelentőségű Ramsar-területként ismerik el.", "1997-ben nyilvánították természetvédelmi területté."],
+      ro: ["Suprafața totală a rezervației este de 493 de hectare.", "Principalul rezervor de apă dulce pentru regiune.", "Habitat esențial pentru crocodilul de Palau, o specie rară.", "Adăpostește pasărea endemică evantaiul de Palau.", "Recunoscut ca sit Ramsar de importanță internațională.", "Declarat rezervație naturală în anul 1997."],
+      en: ["Covers approximately 493 hectares of protected land.", "The most significant freshwater reservoir in the region.", "Primary habitat for the rare Palauan crocodile.", "Home to the endemic Palau Fantail bird species.", "Recognized as a Ramsar site of international importance.", "Officially established as a nature reserve in 1997."],
+    },
   },
   {
     id: "palau-ngardmau-falls-life-v2",
@@ -76,6 +112,18 @@ export const palauLifeV2: POI[] = [
       en: ["Height of approx. 30 meters", "Considered a sacred site", "Access via old mining path", "Home to rare orchids"],
     },
     imageHint: "Wide waterfall cascading over dark rocks into a forest pool",
+    descriptionAdvanced: {
+      de: "Die Ngardmau-Wasserfälle auf Babeldaob sind die höchsten Wasserfälle Palaus und stürzen vom Berg Ngerchelchuus herab. Das Wasser fällt über eine breite Felskante in ein natürliches Becken, das zum Baden einlädt. Der Zugang erfolgt über einen Wanderweg, der an historischen Minenrelikten aus der japanischen Zeit vorbeiführt. Die Fälle sind umgeben von dichtem Dschungel und bieten ein beeindruckendes Naturschauspiel.",
+      hu: "A Babeldaob-szigeten található Ngardmau-vízesés Palau legmagasabb vízesése, amely a Ngerchelchuus-hegyről zúdul alá. A víz széles sziklafalról hullik egy természetes medencébe, amely alkalmas a fürdésre. A vízeséshez vezető túraútvonal japán korszakból származó bányászati emlékek mellett halad el. A sűrű dzsungellel körülvett helyszín az ország egyik leglátványosabb természeti látnivalója.",
+      ro: "Cascada Ngardmau din Babeldaob este cea mai înaltă cascadă din Palau, izvorând de pe muntele Ngerchelchuus. Apa cade peste o creastă largă de stâncă într-un bazin natural ideal pentru înot. Accesul se face printr-o drumeție ce trece pe lângă vestigiile unor mine din perioada administrației japoneze. Înconjurată de o junglă densă, cascada oferă un spectacol natural impresionant vizitatorilor.",
+      en: "The Ngardmau Waterfall on Babeldaob island is the tallest waterfall in Palau, cascading from the slopes of Mount Ngerchelchuus. The water drops over a wide rocky ledge into a natural pool perfect for swimming. Reaching the falls involves a trek through the jungle, passing remnants of colonial-era Japanese bauxite mines. Surrounded by lush vegetation, the falls are a premier destination for nature lovers.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe beträgt etwa 30 Meter.", "Breite des Wasserfalls variiert je nach Niederschlag.", "Weg führt über die Gleise einer alten Bauxitmine.", "Beliebt für Hydrotherapie unter dem fallenden Wasser.", "Höchster Punkt Palaus liegt in der Nähe.", "Teil eines Ökotourismus-Projekts der Gemeinde Ngardmau."],
+      hu: ["A víz körülbelül 30 méter magasról hullik alá.", "A vízesés szélessége a csapadékmennyiségtől függ.", "Az út egy régi bauxitbánya sínjei mentén vezet.", "A zuhogó víz alatti fürdés népszerű a látogatók körében.", "Palau legmagasabb pontja a közelben található.", "Ngardmau község ökoturisztikai projektjének része."],
+      ro: ["Înălțimea de cădere este de aproximativ 30 de metri.", "Lățimea cascadei depinde de volumul precipitațiilor.", "Poteca urmează șinele unei vechi mine de bauxită.", "Populară pentru „hidroterapie” sub căderea apei.", "Cel mai înalt punct din Palau se află în apropiere.", "Parte dintr-un proiect de ecoturism al statului Ngardmau."],
+      en: ["Total drop height is approximately 30 meters.", "The width of the falls expands significantly during rains.", "The trail follows the tracks of an old bauxite mine.", "Commonly used for natural 'hydrotherapy' by swimmers.", "Located near Mount Ngerchelchuus, Palau's highest peak.", "Managed as part of an eco-tourism initiative by Ngardmau State."],
+    },
   },
   {
     id: "palau-kayangel-atoll-life-v2",
@@ -95,6 +143,18 @@ export const palauLifeV2: POI[] = [
       en: ["Only one inhabited island", "No airstrip available", "Crystal clear waters", "Abundance of giant clams"],
     },
     imageHint: "Small tropical island surrounded by a large turquoise reef",
+    descriptionAdvanced: {
+      de: "Das Kayangel-Atoll ist das nördlichste Atoll Palaus und bekannt für seine unberührten weißen Sandstrände und das kristallklare Wasser. Es besteht aus vier kleinen Inseln, die von einem geschlossenen Korallenriff umgeben sind. Die Bewohner leben in engem Einklang mit der Natur und bewahren ihre traditionelle Lebensweise. Das Atoll ist ein Paradies für Schnorchler und bietet Schutz für zahlreiche Meeresvögel.",
+      hu: "Kayangel-atoll Palau legészakibb atollja, amely érintetlen fehér homokos strandjairól és kristálytiszta vizéről híres. Négy kis szigetből áll, amelyeket egy zárt korallzátony vesz körül. A helyi lakosok szoros harmóniában élnek a természettel, és őrzik hagyományos életmódjukat. Az atoll a sznorkelezők paradicsoma, és számos tengeri madárfaj számára nyújt biztonságos fészkelőhelyet.",
+      ro: "Atolul Kayangel este cel mai nordic atol din Palau, renumit pentru plajele sale cu nisip alb și apele extrem de limpezi. Acesta este format din patru insulițe înconjurate de un recif de corali circular. Locuitorii duc un mod de viață tradițional, bazat pe resursele oceanului. Atolul este o destinație ideală pentru snorkeling și reprezintă un refugiu important pentru păsările marine migratoare.",
+      en: "Kayangel Atoll is the northernmost atoll in Palau, celebrated for its pristine white sand beaches and exceptionally clear waters. It consists of four small islands enclosed by a protective circular coral reef. The local community maintains a traditional lifestyle deeply connected to the sea. The atoll is a sanctuary for diverse marine life and serves as a vital nesting ground for various seabird species.",
+    },
+    factsAdvanced: {
+      de: ["Einziger echter Atoll-Staat innerhalb Palaus.", "Besteht aus den Inseln Kayangel, Ngeriungs, Ngerebelas und Orak.", "Keine Autos auf der Hauptinsel Kayangel erlaubt.", "Bekannt für den Reichtum an Speisefischen.", "Wurde 2013 durch den Taifun Haiyan schwer getroffen.", "Stromversorgung erfolgt primär über Solarenergie."],
+      hu: ["Palau egyetlen valódi korallatollja.", "Négy szigete: Kayangel, Ngeriungs, Ngerebelas és Orak.", "A főszigeten tilos az autóhasználat.", "Híres a halban rendkívül gazdag vizeiről.", "2013-ban a Haiyan tájfun súlyos károkat okozott.", "Az áramellátás főként napenergiával történik."],
+      ro: ["Singurul atol adevărat din arhipelagul Palau.", "Format din insulele Kayangel, Ngeriungs, Ngerebelas și Orak.", "Automobilele sunt interzise pe insula principală.", "Renumit pentru abundența peștilor comestibili în lagună.", "Grav afectat de taifunul Haiyan în anul 2013.", "Energia electrică este produsă preponderent prin panouri solare."],
+      en: ["Palau's only true coral atoll state.", "Comprises the islands of Kayangel, Ngeriungs, Ngerebelas, and Orak.", "Motorized vehicles are prohibited on the main island.", "Famous for its bountiful fishing grounds.", "Suffered significant damage from Typhoon Haiyan in 2013.", "Mainly powered by sustainable solar energy systems."],
+    },
   },
   {
     id: "palau-blue-corner-life-v2",
@@ -114,6 +174,18 @@ export const palauLifeV2: POI[] = [
       en: ["Over 130 shark species", "Huge schools of barracuda", "Depth of 8 to 30 meters", "Strong tidal currents"],
     },
     imageHint: "Underwater wall with many sharks and schools of silver fish",
+    descriptionAdvanced: {
+      de: "Blue Corner gilt als einer der spektakulärsten Tauchplätze der Welt und liegt an der südwestlichen Ecke des Barriereriffs. Starke Strömungen bringen nährstoffreiches Wasser, das riesige Fischschwärme und zahlreiche Haie anzieht. Taucher nutzen Riffhaken, um sich an der Kante zu fixieren und das geschäftige Treiben im offenen Ozean zu beobachten. Die Sichtweiten sind oft exzellent und bieten Panoramablicke auf das marine Leben.",
+      hu: "A Blue Corner a világ egyik leglátványosabb merülőhelye, amely a palaui korallzátony délnyugati sarkán található. Az erős áramlatok tápanyagban gazdag vizet hoznak, ami hatalmas halrajokat és számos cápát vonz. A búvárok speciális zátonyhoroggal rögzítik magukat a peremen, hogy megfigyelhessék a nyílt óceán nyüzsgését. A látótávolság gyakran kiváló, páratlan panorámát nyújtva a tengeri élővilágra.",
+      ro: "Blue Corner este considerat unul dintre cele mai spectaculoase locuri de scufundări din lume, situat în sud-vestul recifului barieră. Curenții puternici aduc ape bogate în nutrienți, atrăgând bancuri uriașe de pești și numeroși rechini. Scafandrii folosesc cârlige de recif pentru a se ancora de margine și a observa activitatea intensă din ocean. Vizibilitatea este de obicei excelentă, oferind panorame marine de neuitat.",
+      en: "Blue Corner is widely regarded as one of the world's premier dive sites, situated on the southwest corner of Palau's barrier reef. Strong currents deliver nutrient-rich waters that attract massive schools of fish and high concentrations of sharks. Divers often use reef hooks to hold their position along the wall, witnessing a spectacular display of marine activity. It offers exceptional visibility and a truly dynamic underwater experience.",
+    },
+    factsAdvanced: {
+      de: ["Ständige Präsenz von Riffhaien und Hammerhaien.", "Tiefe des Plateaus liegt bei etwa 15 bis 20 Metern.", "Berühmt für die Technik des Riffhakens.", "Große Schwärme von Barrakudas und Makrelen.", "Wassertemperaturen liegen konstant bei 27-29 °C.", "Teil des geschützten Gebiets der Rock Islands."],
+      hu: ["Szürke szirticápák és pörölycápák állandó jelenléte.", "A fennsík mélysége körülbelül 15-20 méter.", "Világhírű a zátonyhorog (reef hook) használatáról.", "Hatalmas barrakuda- és makrélarajok láthatók itt.", "A víz hőmérséklete állandóan 27-29 °C körül mozog.", "A Rock Islands védett tengeri területének része."],
+      ro: ["Prezență constantă a rechinilor de recif și a celor ciocan.", "Adâncimea platoului este de aproximativ 15-20 de metri.", "Locul unde a fost pionierat cârligul de recif.", "Bancuri imense de baracude și macrouri tropicali.", "Temperatura apei rămâne constantă la 27-29 °C.", "Parte integrantă a ariei protejate Insulele Rock."],
+      en: ["Consistent presence of reef sharks and hammerheads.", "The plateau sits at a depth of 15 to 20 meters.", "Famous for the specialized use of reef hooks.", "Massive schools of barracuda and jacks are common.", "Water temperatures remain steady at 27-29 °C.", "Located within the Rock Islands Southern Lagoon protected area."],
+    },
   },
   {
     id: "palau-helen-reef-life-v2",
@@ -133,6 +205,18 @@ export const palauLifeV2: POI[] = [
       en: ["70 km south of Hatohobei", "Vital nesting site", "Monitored by rangers", "High coral diversity"],
     },
     imageHint: "Remote sandy islet surrounded by vast ocean and coral",
+    descriptionAdvanced: {
+      de: "Das Helen Reef ist ein abgelegenes Korallenatoll im äußersten Süden Palaus und Teil des Staates Hatohobei. Es ist eines der artenreichsten Riffe der Region und dient als wichtiges Schutzgebiet für bedrohte Meeresschildkröten und Riesenmuscheln. Aufgrund seiner Isolation hat sich hier ein fast unberührtes Ökosystem erhalten. Eine permanente Forschungsstation überwacht den Zustand des Riffs und schützt es vor illegaler Fischerei.",
+      hu: "A Helen-zátony egy távoli korallatoll Palau legdélebbi részén, Hatohobei állam területén. A régió egyik legváltozatosabb élővilágú zátonya, amely fontos menedéket nyújt a veszélyeztetett tengeri teknősöknek és óriáskagylóknak. Elszigeteltségének köszönhetően ökoszisztémája szinte érintetlen maradt. Egy állandó kutatóállomás folyamatosan figyeli a zátony állapotát és védi az illegális halászattól.",
+      ro: "Reciful Helen este un atol de corali izolat, situat în extremitatea sudică a arhipelagului Palau, în statul Hatohobei. Este unul dintre cele mai biodiverse recife din regiune, servind ca arie protejată pentru țestoase marine și scoici gigant. Izolarea sa geografică a permis conservarea unui ecosistem aproape intact. O stație de cercetare permanentă monitorizează starea recifului și îl protejează împotriva pescuitului ilegal.",
+      en: "Helen Reef is a remote coral atoll in the far south of Palau, part of Hatohobei State. It is one of the most biodiverse reef systems in the Western Pacific, providing a sanctuary for endangered sea turtles and giant clams. Due to its extreme isolation, the ecosystem remains remarkably pristine. A dedicated conservation station is permanently staffed to monitor reef health and prevent illegal poaching.",
+    },
+    factsAdvanced: {
+      de: ["Über 500 Fischarten wurden hier dokumentiert.", "Wichtigster Nistplatz für Suppenschildkröten in Palau.", "Umfasst eine Lagune von etwa 100 Quadratkilometern.", "Beherbergt eine der größten Riesenmuschel-Populationen.", "Wird von Rangern des Hatohobei-Staates bewacht.", "Liegt näher an Indonesien als an der Hauptstadt Koror."],
+      hu: ["Több mint 500 halfajt dokumentáltak a területen.", "Palau legfontosabb zöldteknős-fészkelőhelye.", "A lagúna területe körülbelül 100 négyzetkilométer.", "Itt él a világ egyik legnagyobb óriáskagyló-populációja.", "Hatohobei állam rangerei folyamatosan őrzik.", "Közelebb fekszik Indonéziához, mint Koror fővároshoz."],
+      ro: ["Peste 500 de specii de pești au fost documentate aici.", "Cel mai important loc de cuibărit pentru țestoasele verzi.", "Include o lagună de aproximativ 100 de kilometri pătrați.", "Găzduiește una dintre cele mai mari populații de scoici gigant.", "Păzit permanent de rangerii statului Hatohobei.", "Situat mai aproape de Indonezia decât de orașul Koror."],
+      en: ["Over 500 fish species have been documented here.", "Palau's most critical nesting site for green sea turtles.", "Features a large lagoon covering about 100 square kilometers.", "Inhabited by one of the world's densest giant clam populations.", "Monitored year-round by Hatohobei State rangers.", "Geographically closer to Indonesia than to Koror."],
+    },
   },
   {
     id: "palau-ngerukewid-islands-life-v2",
@@ -152,6 +236,18 @@ export const palauLifeV2: POI[] = [
       en: ["Established in 1956", "Iconic aerial view", "Protects Palau Megapodes", "Over 12 square kilometers"],
     },
     imageHint: "Circular cluster of green islands in turquoise water",
+    descriptionAdvanced: {
+      de: "Die Ngerukewid Islands, auch bekannt als die 70 Islands, sind ein streng geschütztes Naturschutzgebiet innerhalb der Rock Islands. Der Zugang für Menschen ist strikt untersagt, um die unberührte Flora und Fauna zu bewahren. Die Inselgruppe ist berühmt für ihre einzigartige Kalksteinformation und dient als wichtiges Brutgebiet für Seevögel und Meeresschildkröten. Sie gelten als das ökologische Juwel Palaus und sind nur aus der Luft zu bewundern.",
+      hu: "A Ngerukewid-szigetek, más néven a '70 sziget', a Rock Islands területén belül található, szigorúan védett természetvédelmi terület. Az emberi belépés tilos, hogy megőrizzék az érintetlen növény- és állatvilágot. A szigetcsoport egyedülálló mészkőformációiról híres, és fontos fészkelőhelye a tengeri madaraknak és teknősöknek. Palau ökológiai ékkövének tekintik őket, amelyet csak a levegőből szabad megcsodálni.",
+      ro: "Insulele Ngerukewid, cunoscute și sub numele de „Cele 70 de insule”, constituie o rezervație naturală strict protejată în cadrul Insulelor Rock. Accesul uman este interzis pentru a conserva flora și fauna neatinse. Arhipelagul este faimos pentru formațiunile sale calcaroase unice și servește ca loc de reproducere pentru păsările marine și țestoase. Sunt considerate bijuteria ecologică a statului Palau, putând fi admirate doar din aer.",
+      en: "The Ngerukewid Islands, famously known as the '70 Islands,' are a strictly protected wildlife preserve within the Rock Islands. Human entry is prohibited to ensure the preservation of its pristine biological diversity. The cluster is renowned for its stunning limestone formations and serves as a vital sanctuary for nesting seabirds and hawksbill turtles. They are considered Palau's ecological crown jewel and are only viewable from the air.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet als Schutzgebiet im Jahr 1956.", "Zutritt für Touristen ist gesetzlich verboten.", "Ikonisches Motiv vieler Palau-Reiseführer.", "Beherbergt seltene palauische Erdschildkröten.", "Wichtigster Rückzugsort für den Palau-Großfußhuhn.", "Teil des UNESCO-Welterbes Southern Lagoon."],
+      hu: ["A védett területet 1956-ban hozták létre.", "A turisták belépése törvényileg tiltott.", "Palau útikönyveinek egyik legikonikusabb motívuma.", "Ritka palaui földiteknősöknek ad otthont.", "A palaui ásótyúk egyik legfontosabb menedékhelye.", "Az UNESCO Világörökség déli lagúnájának része."],
+      ro: ["Înființată ca rezervație naturală în anul 1956.", "Accesul turiștilor este strict interzis prin lege.", "Imagine emblematică pentru promovarea turistică a Palau.", "Adăpostește specii rare de țestoase de pământ palauane.", "Refugiu critic pentru pasărea megapodiul de Palau.", "Inclusă în situl Patrimoniului Mondial UNESCO."],
+      en: ["Established as a wildlife preserve in 1956.", "Landing on the islands is strictly forbidden by law.", "The most iconic aerial image used in Palau's tourism.", "Home to rare endemic Palauan ground turtles.", "Crucial sanctuary for the endangered Palau Megapode.", "A core component of the UNESCO World Heritage site."],
+    },
   },
   {
     id: "palau-angaur-forest-life-v2",
@@ -171,6 +267,18 @@ export const palauLifeV2: POI[] = [
       en: ["Only island with monkeys", "Rich in phosphate soils", "Important migratory bird stop", "Highest point is 61 meters"],
     },
     imageHint: "Dense tropical jungle with monkeys in the trees",
+    descriptionAdvanced: {
+      de: "Das Angaur Forest Reserve umfasst die dichten Regenwälder der Insel Angaur, die für ihre reiche Biodiversität bekannt sind. Der Wald wächst auf kalkhaltigem Boden und beherbergt zahlreiche endemische Vogelarten sowie eine große Population von Javaneraffen. Diese Affen wurden im frühen 20. Jahrhundert von deutschen Bergleuten eingeführt. Das Reservat bietet Schutz für die ursprüngliche Vegetation und ist ein wichtiges Forschungsgebiet für Botaniker.",
+      hu: "Az Angaur Erdőrezervátum az Angaur-sziget sűrű esőerdőit foglalja magában, amelyek gazdag biológiai sokféleségükről ismertek. Az erdő meszes talajon nő, és számos endemikus madárfajnak, valamint egy jelentős jávai makákó-populációnak ad otthont. Ezeket a majmokat a 20. század elején német bányászok hozták be a szigetre. A rezervátum védi az eredeti vegetációt és fontos kutatási terület a botanikusok számára.",
+      ro: "Rezervația Forestieră Angaur cuprinde pădurile tropicale dense ale insulei Angaur, recunoscute pentru biodiversitatea lor bogată. Pădurea se dezvoltă pe un sol calcaros și adăpostește numeroase păsări endemice, precum și o populație de macaci javanezi. Acești maimuțe au fost introduse la începutul secolului XX de minerii germani. Rezervația protejează vegetația nativă și reprezintă un sit important pentru cercetările botanice.",
+      en: "The Angaur Forest Reserve encompasses the dense tropical rainforests of Angaur Island, noted for their rich biological diversity. Growing on limestone-rich soil, the forest provides a habitat for various endemic bird species and a unique population of macaque monkeys. These monkeys were introduced by German miners in the early 1900s. The reserve is dedicated to preserving indigenous flora and serves as an important site for ecological research.",
+    },
+    factsAdvanced: {
+      de: ["Einziger Ort in Palau mit einer wilden Affenpopulation.", "Beherbergt den endemischen Palau-Brillenvogel.", "Wald regeneriert sich auf ehemaligen Phosphat-Minen.", "Vorkommen von riesigen Kokoskrabben dokumentiert.", "Wichtiges Habitat für die Palau-Fruchtstaube.", "Enthält seltene Farne und Orchideenarten."],
+      hu: ["Palau egyetlen helye, ahol vadon élő majmok találhatók.", "Az endemikus palaui pápaszemesmadár otthona.", "Az erdő korábbi foszfátbányák területén regenerálódik.", "Hatalmas kókuszrákok jelentős állománya él itt.", "A palaui gyümölcsgalamb fontos élőhelye.", "Ritka páfrány- és orchideafajok találhatók benne."],
+      ro: ["Singurul loc din Palau cu o populație de maimuțe sălbatice.", "Adăpostește pasărea endemică ochi-albi de Palau.", "Pădurea se regenerează pe locurile fostelor mine de fosfat.", "Prezența crabilor de cocotier uriași este documentată aici.", "Habitat vital pentru porumbelul de fructe de Palau.", "Conține specii rare de ferigi și orhidee tropicale."],
+      en: ["The only location in Palau with a wild monkey population.", "Home to the endemic Palau White-eye bird.", "Forest is regenerating over former phosphate mining sites.", "Supports a healthy population of giant coconut crabs.", "Critical habitat for the native Palau Fruit Dove.", "Features various rare tropical ferns and orchid species."],
+    },
   },
   {
     id: "palau-ngaremeduu-area-life-v2",
@@ -190,6 +298,18 @@ export const palauLifeV2: POI[] = [
       en: ["Area of 6,000 hectares", "Habitat for dugongs", "Largest mangrove area", "Important nursery for fish"],
     },
     imageHint: "Aerial view of a river mouth with thick mangrove forests",
+    descriptionAdvanced: {
+      de: "Das Ngaremeduu-Schutzgebiet ist das größte Ästuar-Ökosystem in Mikronesien und umfasst etwa 50 Quadratkilometer. Es vereint Mangrovenwälder, Seegraswiesen und Korallenriffe an der Westküste von Babeldaob. Das Gebiet dient als kritischer Lebensraum für Dugongs und Salzwasserkrokodile.",
+      hu: "A Ngaremeduu Természetvédelmi Terület Mikronézia legnagyobb torkolati ökoszisztémája, amely körülbelül 50 négyzetkilométert fed le. Babeldaob nyugati partján található, ahol mangroveerdők, tengerifű-mezők és korallzátonyok találkoznak. A terület kritikus élőhelyet biztosít a dugongok és a bordás krokodilok számára.",
+      ro: "Aria de Conservare Ngaremeduu este cel mai mare ecosistem estuarin din Micronezia, acoperind aproximativ 50 de kilometri pătrați. Situată pe coasta de vest a insulei Babeldaob, aceasta reunește păduri de mangrove, pajiști marine și recife de corali. Zona servește ca habitat critic pentru dugongi și crocodili de apă sărată.",
+      en: "The Ngaremeduu Conservation Area is the largest estuarine ecosystem in Micronesia, covering approximately 50 square kilometers. Located on the west coast of Babeldaob, it integrates mangroves, seagrass beds, and coral reefs. The area serves as a critical habitat for dugongs and saltwater crocodiles.",
+    },
+    factsAdvanced: {
+      de: ["Das Schutzgebiet wurde im Jahr 1999 offiziell eingerichtet", "Es umfasst Teile der Bundesstaaten Aimeliik, Ngatpang und Ngaremlengui", "Die Fläche beträgt insgesamt etwa 5000 Hektar", "Hier befindet sich das größte Wassereinzugsgebiet von Palau", "Das Gebiet beherbergt die höchste Dichte an Salzwasserkrokodilen im Land", "Es ist ein wichtiges Brutgebiet für zahlreiche Fischarten"],
+      hu: ["A természetvédelmi területet 1999-ben hozták létre hivatalosan", "Aimeliik, Ngatpang és Ngaremlengui államok területén oszlik el", "A teljes védett terület nagysága körülbelül 5000 hektár", "Itt található Palau legnagyobb vízgyűjtő medencéje", "Ebben a térségben él a bordás krokodilok legnagyobb populációja az országban", "Számos halfaj számára kiemelt fontosságú ívóhely"],
+      ro: ["Aria protejată a fost stabilită oficial în anul 1999", "Cuprinde porțiuni din statele Aimeliik, Ngatpang și Ngaremlengui", "Suprafața totală este de aproximativ 5000 de hectare", "Adăpostește cel mai mare bazin hidrografic din Palau", "Zona are cea mai mare densitate de crocodili de apă sărată din țară", "Este un loc esențial de reproducere pentru numeroase specii de pești"],
+      en: ["The conservation area was officially established in 1999", "It spans across the states of Aimeliik, Ngatpang, and Ngaremlengui", "The total protected area is approximately 5,000 hectares", "It contains the largest watershed basin in Palau", "The area hosts the highest density of saltwater crocodiles in the country", "It is a vital nursery ground for many species of reef fish"],
+    },
   },
   {
     id: "palau-ulong-island-life-v2",
@@ -209,6 +329,18 @@ export const palauLifeV2: POI[] = [
       en: ["Site of ancient pottery finds", "Home to Ulong turtles", "Prehistoric settlement remains", "Famous for Ulong Channel"],
     },
     imageHint: "White sandy beach of a tropical island with palm trees",
+    descriptionAdvanced: {
+      de: "Ulong Island ist eine markante Kalksteininsel in der südlichen Lagune von Palau, die für ihre historische und ökologische Bedeutung bekannt ist. Sie beherbergt prähistorische Felsmalereien und war 1783 der Ort, an dem Kapitän Henry Wilson Schiffbruch erlitt. Die Insel ist von einem der bekanntesten Strömungstauchplätze der Welt umgeben.",
+      hu: "Ulong-sziget egy jellegzetes mészkősziget Palau déli lagúnájában, amely történelmi és ökológiai jelentőségéről ismert. Prehisztorikus sziklarajzok találhatók itt, és 1783-ban itt szenvedett hajótörést Henry Wilson kapitány. A szigetet a világ egyik legismertebb áramlatos merülőhelye veszi körül.",
+      ro: "Insula Ulong este o insulă calcaroasă distinctivă din Laguna Sudică a Palau, cunoscută pentru importanța sa istorică și ecologică. Găzduiește picturi rupestre preistorice și a fost locul naufragiului căpitanului Henry Wilson în 1783. Insula este înconjurată de unul dintre cele mai faimoase locuri de scufundări din lume.",
+      en: "Ulong Island is a distinctive limestone island in Palau's Southern Lagoon, known for its historical and ecological significance. It features prehistoric rock paintings and was the site of Captain Henry Wilson's shipwreck in 1783. The island is surrounded by one of the world's most famous drift dive sites.",
+    },
+    factsAdvanced: {
+      de: ["Die Felsmalereien an den Klippen sind über 2000 Jahre alt", "Kapitän Henry Wilson strandete hier 1783 mit der HMS Antelope", "Die Insel gehört zur Gruppe der Rock Islands", "Der Ulong Channel ist berühmt für seine Haipopulationen", "Archäologische Funde belegen eine frühe Besiedlung der Insel", "Ulong verfügt über einen der wenigen Sandstrände in der Region"],
+      hu: ["A sziklákon található festmények több mint 2000 évesek", "Henry Wilson kapitány 1783-ban itt kötött ki az Antelope hajóval", "A sziget a Rock Islands szigetcsoport szerves része", "Az Ulong-csatorna híres a nagy számú cápapopulációjáról", "Régészeti leletek bizonyítják a sziget korai lakottságát", "Ulong azon kevés szigetek egyike a térségben, amely homokos parttal bír"],
+      ro: ["Picturile rupestre de pe stânci au o vechime de peste 2000 de ani", "Căpitanul Henry Wilson a eșuat aici în 1783 cu nava HMS Antelope", "Insula face parte din grupul Rock Islands", "Canalul Ulong este faimos pentru populațiile sale de rechini", "Descoperirile arheologice atestă o locuire timpurie a insulei", "Ulong are una dintre puținele plaje cu nisip din regiune"],
+      en: ["The rock paintings on the cliffs are over 2,000 years old", "Captain Henry Wilson was stranded here in 1783 with the HMS Antelope", "The island is part of the Rock Islands archipelago", "The Ulong Channel is famous for its large shark populations", "Archaeological finds confirm early human settlement on the island", "Ulong features one of the few sandy beaches in the limestone area"],
+    },
   },
   {
     id: "palau-ngermid-bay-life-v2",
@@ -228,6 +360,18 @@ export const palauLifeV2: POI[] = [
       en: ["Natural outdoor laboratory", "Over 100 coral species", "Climate change research site", "Resting spot for dugongs"],
     },
     imageHint: "Coral formations in shallow tropical bay water",
+    descriptionAdvanced: {
+      de: "Die Ngermid Bay ist eine geschützte Bucht in der Nähe von Koror, die für ihre einzigartigen ökologischen Bedingungen bekannt ist. Das Wasser in der Bucht ist saurer als im offenen Ozean, dennoch gedeihen hier vielfältige Korallenriffe. Diese Bucht dient Wissenschaftlern als natürliches Labor zur Untersuchung der Widerstandsfähigkeit von Korallen gegen den Klimawandel.",
+      hu: "A Ngermid-öböl egy védett öböl Koror közelében, amely egyedülálló ökológiai körülményeiről ismert. Az öböl vize savasabb, mint a nyílt óceáné, mégis változatos korallzátonyok virágoznak benne. Ez az öböl természetes laboratóriumként szolgál a tudósok számára a korallok klímaváltozással szembeni ellenállóképességének vizsgálatához.",
+      ro: "Golful Ngermid este un golf protejat de lângă Koror, cunoscut pentru condițiile sale ecologice unice. Apa din golf este mai acidă decât cea din largul oceanului, însă aici prosperă recife de corali diverse. Acest golf servește drept laborator natural pentru cercetători în studierea rezistenței coraliilor la schimbările climatice.",
+      en: "Ngermid Bay is a sheltered bay near Koror, known for its unique ecological conditions. The water in the bay is more acidic than the open ocean, yet diverse coral reefs thrive there. This bay serves as a natural laboratory for scientists to study coral resilience to climate change.",
+    },
+    factsAdvanced: {
+      de: ["Die Bucht liegt unmittelbar östlich der Stadt Koror", "Der pH-Wert des Wassers ist deutlich niedriger als im Umland", "Wissenschaftler untersuchen hier seit Jahren die Korallenbleiche", "Die Wassertemperaturen in der Bucht sind oft höher als im Ozean", "Es gibt hier eine hohe Dichte an endemischen Meeresorganismen", "Die Bucht ist fast vollständig von Kalksteininseln umschlossen"],
+      hu: ["Az öböl közvetlenül Koror várostól keletre helyezkedik el", "A víz pH-értéke jelentősen alacsonyabb a környező vizeknél", "A kutatók évek óta vizsgálják itt a korallfehéredés folyamatát", "Az öböl vízhőmérséklete gyakran magasabb, mint az óceáné", "Magas az endemikus tengeri élőlények sűrűsége a területen", "Az öblöt szinte teljesen mészkőszigetek veszik körül"],
+      ro: ["Golful este situat imediat la est de orașul Koror", "Nivelul pH-ului apei este semnificativ mai scăzut decât în zonele învecinate", "Oamenii de știință studiază aici albirea coraliilor de mai mulți ani", "Temperaturile apei din golf sunt adesea mai ridicate decât în ocean", "Există o densitate mare de organisme marine endemice în zonă", "Golful este aproape complet închis de insule calcaroase"],
+      en: ["The bay is located directly to the east of Koror town", "The pH level of the water is significantly lower than surrounding areas", "Scientists have studied coral bleaching patterns here for years", "Water temperatures in the bay are often higher than in the open ocean", "There is a high density of endemic marine organisms in the area", "The bay is nearly completely enclosed by limestone islands"],
+    },
   },
   {
     id: "palau-ngerumekaol-life-v2",
@@ -247,6 +391,18 @@ export const palauLifeV2: POI[] = [
       en: ["Closed during full moon", "Thousands of groupers", "Key marine corridor", "High shark concentration"],
     },
     imageHint: "Dense schools of groupers swimming in a coral channel",
+    descriptionAdvanced: {
+      de: "Ngerumekaol ist ein schmaler Kanal durch das Barriereriff, der als einer der wichtigsten Laichplätze für Zackenbarsche in Palau gilt. Während der Neumondphasen zwischen April und Juli sammeln sich hier tausende Fische zur Fortpflanzung. Aufgrund dieser ökologischen Bedeutung ist der Kanal während der Laichzeit streng geschützt und für die Fischerei gesperrt.",
+      hu: "Ngerumekaol egy keskeny csatorna a gáton, amely Palau egyik legfontosabb ívóhelye a fűrészes sügérek számára. Az április és július közötti újholdas fázisokban halak ezrei gyűlnek itt össze szaporodás céljából. Ökológiai jelentősége miatt a csatorna az ívási időszakban szigorú védelem alatt áll, és tilos a halászat.",
+      ro: "Ngerumekaol este un canal îngust prin reciful de barieră, considerat unul dintre cele mai importante locuri de reproducere pentru bibanii de mare din Palau. În timpul fazelor de lună nouă dintre aprilie și iulie, mii de pești se adună aici pentru reproducere. Din cauza acestei importanțe ecologice, canalul este strict protejat în timpul sezonului de depunere a icrelor.",
+      en: "Ngerumekaol is a narrow channel through the barrier reef, recognized as one of the most important spawning sites for groupers in Palau. During new moon phases between April and July, thousands of fish aggregate here for reproduction. Due to its ecological significance, the channel is strictly protected and closed to fishing during spawning seasons.",
+    },
+    factsAdvanced: {
+      de: ["Der Kanal wird international oft als 'Ulong Channel' bezeichnet", "Mehr als 50 verschiedene Zackenbarsch-Arten laichen hier", "Die Gezeitenströmungen im Kanal können sehr stark sein", "Ngerumekaol wurde 1976 offiziell zum Schutzgebiet erklärt", "Die Tiefe des Kanals variiert zwischen 5 und 13 Metern", "Graue Riffhaie patrouillieren regelmäßig an den Kanaleingängen"],
+      hu: ["A csatornát nemzetközileg gyakran 'Ulong Channel' néven ismerik", "Több mint 50 különböző fűrészes sügér faj ívik ezen a helyen", "Az árapály-áramlatok a csatornában rendkívül erősek lehetnek", "Ngerumekaol területét 1976-ban nyilvánították védetté", "A csatorna mélysége 5 és 13 méter között váltakozik", "Szürke szirticápák rendszeresen járőröznek a csatorna bejáratainál"],
+      ro: ["Canalul este adesea numit la nivel internațional 'Ulong Channel'", "Mai mult de 50 de specii diferite de bibani de mare depun icre aici", "Curenții de maree din canal pot fi extrem de puternici", "Ngerumekaol a fost declarat oficial zonă protejată în 1976", "Adâncimea canalului variază între 5 și 13 metri", "Rechinii gri de recif patrulează regulat la intrările în canal"],
+      en: ["The channel is often internationally referred to as 'Ulong Channel'", "Over 50 different species of groupers spawn at this location", "Tidal currents in the channel can be extremely powerful", "Ngerumekaol was officially declared a protected area in 1976", "The depth of the channel varies between 5 and 13 meters", "Grey reef sharks regularly patrol the entrances of the channel"],
+    },
   },
   {
     id: "palau-carp-island-life-v2",
@@ -266,5 +422,17 @@ export const palauLifeV2: POI[] = [
       en: ["Private conservation island", "Home to fruit bats", "Large coconut crabs", "Star-shaped coral reef"],
     },
     imageHint: "Tropical island with dense trees and clear shallow water",
+    descriptionAdvanced: {
+      de: "Carp Island, auch als Ngercheu bekannt, ist eine sternförmige Insel innerhalb der Rock Islands von Palau. Sie dient als wichtiger Stützpunkt für Taucher, da sie sich in unmittelbarer Nähe zu weltberühmten Tauchplätzen wie der Blue Corner befindet. Die Insel ist von einem dichten Korallenriff umgeben, das eine reiche marine Biodiversität beherbergt.",
+      hu: "A Carp-sziget, más néven Ngercheu, egy csillag alakú sziget Palau Rock Islands csoportjában. Fontos bázisként szolgál a búvárok számára, mivel közvetlen közelében találhatók olyan világhírű merülőhelyek, mint a Blue Corner. A szigetet sűrű korallzátony veszi körül, amely gazdag tengeri biológiai sokféleségnek ad otthont.",
+      ro: "Insula Carp, cunoscută și sub numele de Ngercheu, este o insulă în formă de stea din cadrul Rock Islands din Palau. Servește ca o bază importantă pentru scufundători, fiind în imediata apropiere a unor locuri de scufundări de renume mondial, cum ar fi Blue Corner. Insula este înconjurată de un recif de corali dens, care găzduiește o biodiversitate marină bogată.",
+      en: "Carp Island, also known as Ngercheu, is a star-shaped island within the Rock Islands of Palau. It serves as a major base for divers due to its immediate proximity to world-famous dive sites like Blue Corner. The island is surrounded by a dense coral reef that hosts rich marine biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Die Insel liegt etwa 45 Bootsminuten südwestlich von Koror", "Ngercheu hat eine markante sternförmige Geografie", "Auf der Insel befindet sich ein privates Tauchresort", "In der Nähe liegen die berühmten Tauchplätze Blue Hole und Blue Corner", "Das umliegende Riff ist für seine großen Fächerkorallen bekannt", "Die Insel ist Teil des UNESCO-Welterbes Rock Islands"],
+      hu: ["A sziget körülbelül 45 perces hajóútra fekszik Korortól délnyugatra", "Ngercheu jellegzetes csillag alakú földrajzi formával rendelkezik", "A szigeten egy privát búvárüdülőhely található", "A közelben találhatók a híres Blue Hole és Blue Corner merülőhelyek", "A környező zátony a hatalmas legyezőkoralljairól ismert", "A sziget az UNESCO Világörökség részét képező Rock Islands tagja"],
+      ro: ["Insula se află la aproximativ 45 de minute cu barca la sud-vest de Koror", "Ngercheu are o geografie distinctivă în formă de stea", "Pe insulă se află un complex privat pentru scufundări", "În apropiere se află faimoasele locuri de scufundări Blue Hole și Blue Corner", "Reciful înconjurător este cunoscut pentru coraliile sale evantai mari", "Insula face parte din patrimoniul mondial UNESCO Rock Islands"],
+      en: ["The island is located about 45 minutes by boat southwest of Koror", "Ngercheu has a distinctive star-shaped geographical form", "A private diving resort is situated on the island", "Famous dive sites Blue Hole and Blue Corner are located nearby", "The surrounding reef is known for its large sea fan corals", "The island is part of the UNESCO World Heritage Rock Islands area"],
+    },
   }
 ];

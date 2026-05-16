@@ -25,7 +25,13 @@ image: "/poi-images/ge-tbilisi-cities-v2.webp"
       hu: ["Az 5. században alapította Vahtang Gorgaszali király.", "Híres a történelmi kénes fürdőiről az Abanotubani negyedben."],
       ro: ["Fondat în secolul al V-lea de regele Vakhtang Gorgasali.", "Renumit pentru băile istorice de sulf din Abanotubani."],
       en: ["Founded in the 5th century by King Vakhtang Gorgasali.", "Famous for the historical sulfur baths in Abanotubani."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl von etwa 1,2 Millionen Menschen", "Gegründet im 5. Jahrhundert von Wachtang I. Gorgassali", "Name leitet sich vom georgischen Wort für warm ab", "Narikala-Festung stammt ursprünglich aus dem 4. Jahrhundert", "Friedensbrücke wurde im Jahr 2010 eröffnet", "Wichtigster Knotenpunkt der historischen Seidenstraße"],
+      hu: ["Körülbelül 1,2 millió lakosa van", "I. Vahtang Gorgaszali alapította az 5. században", "A neve a meleg jelentésű grúz szóból ered", "A Narikala-erőd eredetileg a 4. századból származik", "A Béke hídját 2010-ben adták át", "A történelmi Selyemút egyik kulcsfontosságú csomópontja"],
+      ro: ["Populație de aproximativ 1,2 milioane de locuitori", "Fondat în secolul al V-lea de Vahtang I Gorgasali", "Numele derivă din cuvântul georgian pentru cald", "Fortăreața Narikala datează inițial din secolul al IV-lea", "Podul Păcii a fost inaugurat în anul 2010", "Nod vital pe ruta istorică a Drumului Mătăsii"],
+      en: ["Population of approximately 1.2 million inhabitants", "Founded in the 5th century by Vakhtang I Gorgasali", "The name derives from the Georgian word for warm", "Narikala Fortress originally dates to the 4th century", "The Bridge of Peace was opened in 2010", "Key crossroads on the historical Silk Road"],
+    },
   },
   {
     id: "ge-batumi-cities-v2",
@@ -51,7 +57,14 @@ image: "/poi-images/ge-batumi-cities-v2.webp"
       hu: ["A Batumi Boulevardo-t 1881-ben hozták létre.", "A batumi botanikus kert a világ egyik legnagyobbja."],
       ro: ["Bulevardul Batumi a fost creat în anul 1881.", "Grădina Botanică din Batumi este una dintre cele mai mari din lume."],
       en: ["The Batumi Boulevard was established in the year 1881.", "The Batumi Botanical Garden is one of the largest in the world."]
-    }, image: "/poi-images/ge-batumi-cities-v2.webp"},
+    }, image: "/poi-images/ge-batumi-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl von rund 170.000 Personen", "Hauptstadt der Autonomen Republik Adscharien", "Liegt nur 15 Kilometer von der türkischen Grenze entfernt", "Botanischer Garten wurde im Jahr 1912 gegründet", "Alphabets-Turm ist 130 Meter hoch", "Statue Ali und Nino bewegt sich mechanisch"],
+      hu: ["Körülbelül 170 000 lakosa van", "Az Adzsár Autonóm Köztársaság fővárosa", "Mindössze 15 kilométerre fekszik a török határtól", "Botanikus kertjét 1912-ben alapították", "Az Ábécé-torony 130 méter magas", "Az Ali és Nino szobor mechanikusan mozog"],
+      ro: ["Populație de aproximativ 170.000 de persoane", "Capitala Republicii Autonome Adjara", "Situat la doar 15 kilometri de granița cu Turcia", "Grădina Botanică a fost fondată în anul 1912", "Turnul Alfabetului are o înălțime de 130 de metri", "Statuia Ali și Nino se mișcă mecanic"],
+      en: ["Population of around 170.000 people", "Capital of the Autonomous Republic of Adjara", "Located just 15 kilometres from the Turkish border", "Botanical Garden was founded in 1912", "The Alphabetic Tower is 130 metres high", "The Ali and Nino sculpture moves mechanically"],
+    },
+  },
   {
     id: "ge-kutaisi-cities-v2",
     type: "city",
@@ -76,7 +89,14 @@ image: "/poi-images/ge-kutaisi-cities-v2.webp"
       hu: ["Az ősi Kolkhisz királyság fővárosa volt.", "A Bagrati-székesegyházat a 11. században építették."],
       ro: ["A fost capitala vechiului regat Colchis.", "Catedrala Bagrati a fost construită în secolul al XI-lea."],
       en: ["It was the capital of the ancient kingdom of Colchis.", "The Bagrati Cathedral was built in the 11th century."]
-    }, image: "/poi-images/ge-kutaisi-cities-v2.webp"},
+    }, image: "/poi-images/ge-kutaisi-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Historische Hauptstadt des antiken Königreichs Kolchis", "Bagrati-Kathedrale wurde im Jahr 1003 geweiht", "Gelati-Kloster gehört zum UNESCO-Weltkulturerbe", "Beherbergte von 2012 bis 2018 das georgische Parlament", "Liegt am Fluss Rioni im Westen des Landes", "Internationaler Flughafen Kopitnari ist ein regionales Drehkreuz"],
+      hu: ["Az ókori Kolkhisz királyságának történelmi fővárosa", "A Bagrati-székesegyházat 1003-ban szentelték fel", "A Gelati-kolostor az UNESCO Világörökség része", "2012 és 2018 között itt működött a grúz parlament", "A Rioni folyó partján fekszik az ország nyugati részén", "A Kopitnari nemzetközi repülőtér regionális csomópont"],
+      ro: ["Capitala istorică a anticatului regat Colchida", "Catedrala Bagrati a fost sfințită în anul 1003", "Mănăstirea Gelati este inclusă în patrimoniul UNESCO", "A găzduit parlamentul georgian între 2012 și 2018", "Situat pe râul Rioni în vestul țării", "Aeroportul Internațional Kopitnari este un nod regional"],
+      en: ["Historical capital of the ancient Kingdom of Colchis", "Bagrati Cathedral was consecrated in 1003", "Gelati Monastery is a UNESCO World Heritage site", "Hosted the Georgian Parliament from 2012 to 2018", "Situated on the Rioni River in western Georgia", "Kopitnari International Airport is a regional hub"],
+    },
+  },
   {
     id: "ge-rustavi-cities-v2",
     type: "city",
@@ -101,7 +121,14 @@ image: "/poi-images/ge-rustavi-cities-v2.webp"
       hu: ["1948-ban alapították, mint kohászati központot.", "A rusztawi vár a 4. századból származik."],
       ro: ["Fondat în anul 1948 ca un centru pentru metalurgie.", "Castelul Rustavi datează din secolul al IV-lea."],
       en: ["Founded in the year 1948 as a center for metallurgy.", "The Rustavi Castle dates back to the 4th century."]
-    }, image: "/poi-images/ge-rustavi-cities-v2.webp"},
+    }, image: "/poi-images/ge-rustavi-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl von etwa 125.000 Menschen", "Neugründung der modernen Stadt erfolgte im Jahr 1948", "Wichtigster Standort für die Stahlproduktion im Kaukasus", "Rustavi International Motorpark ist eine FIA-zertifizierte Strecke", "Liegt am Fluss Mtkwari in der Region Kwemo Kartli", "Ruinen einer Festung aus dem 4. Jahrhundert sind erhalten"],
+      hu: ["Körülbelül 125 000 lakosa van", "A modern várost 1948-ban alapították újra", "A kaukázusi acélgyártás legfontosabb központja", "A Rustavi International Motorpark FIA-minősítésű pálya", "A Mtkvari folyó partján fekszik Kvemo Kartli régióban", "Egy 4. századi erőd romjai ma is láthatók"],
+      ro: ["Populație de aproximativ 125.000 de locuitori", "Reînființarea orașului modern a avut loc în anul 1948", "Cel mai important centru pentru producția de oțel din Caucaz", "Rustavi International Motorpark este un circuit omologat FIA", "Situat pe râul Mtkvari în regiunea Kvemo Kartli", "Sunt păstrate ruinele unei cetăți din secolul al IV-lea"],
+      en: ["Population of approximately 125,000 inhabitants", "The modern city was refounded in 1948", "Most important site for steel production in the Caucasus", "Rustavi International Motorpark is an FIA-grade circuit", "Located on the Mtkvari River in the Kvemo Kartli region", "Remains of a 4th-century fortress are preserved"],
+    },
+  },
   {
     id: "ge-gori-cities-v2",
     type: "city",
@@ -126,7 +153,13 @@ image: "/poi-images/ge-gori-cities-v2.webp"
       hu: ["A Sztálin-múzeum évente sok látogatót vonz.", "A város fölött magasodik a történelmi Gorisziche erőd."],
       ro: ["Muzeul Stalin atrage anual mulți vizitatori.", "Deasupra orașului se înalță fortăreața istorică Goristsikhe."],
       en: ["The Stalin Museum attracts many visitors annually.", "The historical fortress Goristsikhe towers over the city."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl von rund 50.000 Personen", "Festung Gorisziche stammt ursprünglich aus dem 7. Jahrhundert", "Stalin-Museum wurde im Jahr 1957 eröffnet", "Stadt wurde im Kaukasuskrieg 2008 schwer beschädigt", "In der Nähe liegt die antike Höhlenstadt Uplisziche", "Wichtigstes Zentrum für die Obstverarbeitung im Land"],
+      hu: ["Körülbelül 50 000 lakosa van", "A Goriszcihe erőd eredetileg a 7. századból származik", "A Sztálin-múzeumot 1957-ben nyitották meg", "A város súlyos károkat szenvedett a 2008-as háborúban", "A közelben található Upliszcihe ókori barlangvárosa", "Az ország legfontosabb gyümölcsfeldolgozó központja"],
+      ro: ["Populație de aproximativ 50.000 de persoane", "Cetatea Goristsikhe datează inițial din secolul al VII-lea", "Muzeul Stalin a fost deschis în anul 1957", "Orașul a fost grav avariat în timpul războiului din 2008", "În apropiere se află orașul antic rupestru Uplistsikhe", "Cel mai important centru de prelucrare a fructelor din țară"],
+      en: ["Population of around 50,000 people", "Goristsikhe fortress originally dates to the 7th century", "The Stalin Museum was opened in 1957", "The town was heavily damaged during the 2008 war", "The ancient cave city of Uplistsikhe is located nearby", "Primary centre for fruit processing in Georgia"],
+    },
   },
   {
     id: "ge-zugdidi-cities-v2",
@@ -152,7 +185,13 @@ image: "/poi-images/ge-zugdidi-cities-v2.webp"
       hu: ["A Dadiani-palota egy fontos történelmi múzeumnak ad otthont.", "Zugdidi mindössze néhány kilométerre fekszik Abháziától."],
       ro: ["Palatul Dadiani găzduiește un important muzeu istoric.", "Zugdidi se află la doar câțiva kilometri de Abhazia."],
       en: ["The Dadiani Palace houses an important historical museum.", "Zugdidi is located just a few kilometers from Abkhazia."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl von etwa 42.000 Menschen", "Dadiani-Palast beherbergt eine Totenmaske von Napoleon I.", "Botanischer Garten wurde im 19. Jahrhundert angelegt", "Hauptstadt der Region Samgrelo-Semo Swanetien", "Wichtiger Ausgangspunkt für Reisen nach Mestia", "Zentrum der georgischen Haselnussproduktion"],
+      hu: ["Körülbelül 42 000 lakosa van", "A Dadiani-palota őrzi I. Napóleon egyik halotti maszkját", "Botanikus kertjét a 19. században alakították ki", "Szamegrelo-Zemo Szvaneti régió fővárosa", "Fontos kiindulópont a Mesztia felé utazóknak", "A grúz mogyorótermesztés központja"],
+      ro: ["Populație de aproximativ 42.000 de locuitori", "Palatul Dadiani găzduiește o mască mortuară a lui Napoleon I", "Grădina Botanică a fost amenajată în secolul al XIX-lea", "Capitala regiunii Samegrelo-Zemo Svaneti", "Punct de plecare important pentru călătoriile spre Mestia", "Centrul producției de alune din Georgia"],
+      en: ["Population of approximately 42,000 inhabitants", "Dadiani Palace houses a death mask of Napoleon I", "Botanical Garden was established in the 19th century", "Capital of the Samegrelo-Zemo Svaneti region", "Major starting point for travels to Mestia", "Centre of Georgian hazelnut production"],
+    },
   },
   {
     id: "ge-poti-cities-v2",
@@ -178,7 +217,14 @@ image: "/poi-images/ge-poti-cities-v2.webp"
       hu: ["Itt található az ország legnagyobb tengeri kikötője.", "A poti székesegyház a Hagia Szophia másolata."],
       ro: ["Are cel mai mare port maritim din țară.", "Catedrala din Poti este o replică a Hagia Sofia."],
       en: ["It features the largest seaport in the country.", "The Poti Cathedral is a replica of the Hagia Sophia."]
-    }, image: "/poi-images/ge-poti-cities-v2.webp"},
+    }, image: "/poi-images/ge-poti-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl von etwa 41.000 Personen", "Antike Kolonie Phasis wurde im 7. Jh. v. Chr. gegründet", "Größter Seehafen Georgiens am Schwarzen Meer", "Kathedrale ist ein Nachbau der Hagia Sophia", "Liegt am Rande des Kolcheti-Nationalparks", "Wichtiger Endpunkt für Ölpipelines aus dem Kaspischen Meer"],
+      hu: ["Körülbelül 41 000 lakosa van", "Phaszisz ókori gyarmatát az i. e. 7. században alapították", "Grúzia legnagyobb fekete-tengeri kikötője", "Székesegyháza a Hagia Szophia kicsinyített mása", "A Kolkheti Nemzeti Park szélén fekszik", "A Kaszpi-tenger felől érkező olajvezetékek fontos végpontja"],
+      ro: ["Populație de aproximativ 41.000 de persoane", "Colonia antică Phasis a fost fondată în sec. VII î.Hr.", "Cel mai mare port maritim al Georgiei la Marea Neagră", "Catedrala este o replică a bisericii Sfânta Sofia", "Situat la marginea Parcului Național Kolkheti", "Punct terminal major pentru conductele de petrol caspic"],
+      en: ["Population of approximately 41,000 inhabitants", "Ancient colony of Phasis was founded in the 7th century BC", "Largest seaport in Georgia on the Black Sea", "The cathedral is a scaled-down replica of Hagia Sophia", "Located at the edge of the Kolkheti National Park", "Major terminal for oil and gas from the Caspian Sea"],
+    },
+  },
   {
     id: "ge-sokhumi-cities-v2",
     type: "city",
@@ -203,7 +249,13 @@ image: "/poi-images/ge-sokhumi-cities-v2.webp"
       hu: ["A szuhumi botanikus kertet 1840-ben alapították.", "Sok történelmi gyógyszálló ma már üresen áll."],
       ro: ["Grădina Botanică din Suhumi a fost fondată în 1840.", "Multe dintre hotelurile istorice balneare sunt acum goale."],
       en: ["The Sokhumi Botanical Garden was founded in 1840.", "Many of the historical spa hotels stand empty today."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl von etwa 65.000 Menschen", "Griechische Kolonie Dioskurias wurde im 6. Jh. v. Chr. gegründet", "Botanischer Garten wurde bereits im Jahr 1840 angelegt", "Bekannt für sein Primaten-Forschungszentrum", "Bagrat-Festung stammt aus dem 12. Jahrhundert", "Stadt erlitt schwere Schäden im Krieg 1992-1993"],
+      hu: ["Körülbelül 65 000 lakosa van", "Dioszkuriasz görög gyarmatát az i. e. 6. században alapították", "Botanikus kertjét már 1840-ben létrehozták", "Híres a főemlős-kutató intézetéről", "Bagrat erődje a 12. századból származik", "A város súlyos károkat szenvedett az 1992-93-as háborúban"],
+      ro: ["Populație de aproximativ 65.000 de locuitori", "Colonia greacă Dioscurias a fost fondată în sec. VI î.Hr.", "Grădina Botanică a fost înființată încă din anul 1840", "Cunoscut pentru institutul său de cercetare a primatelor", "Cetatea lui Bagrat datează din secolul al XII-lea", "Orașul a suferit distrugeri mari în războiul din 1992-1993"],
+      en: ["Population of approximately 65,000 inhabitants", "Greek colony of Dioscurias founded in 6th century BC", "Botanical Garden was established back in 1840", "Home to a world-famous primate research institute", "Bagrat's Fortress dates back to the 12th century", "Suffered massive destruction during the 1992-1993 war"],
+    },
   },
   {
     id: "ge-khashuri-cities-v2",
@@ -229,7 +281,13 @@ image: "/poi-images/ge-khashuri-cities-v2.webp"
       hu: ["Jelentősége 1872-ben nőtt meg a vasútépítés révén.", "A történelmi Szurami vár a város közelében található."],
       ro: ["A devenit important în 1872, odată cu construcția căii ferate.", "Castelul istoric Surami este situat în apropierea orașului."],
       en: ["Became significant in 1872 with the construction of the railway.", "The historical Surami Castle is located near the city."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl von etwa 25.000 Personen", "Wichtiger Eisenbahnknotenpunkt seit dem Jahr 1872", "Liegt am Fluss Suramula in der Region Schida Kartli", "Burg Surami stammt aus dem 12. Jahrhundert", "Zentrum für die Produktion von Glaswaren", "Tor zur Urlaubsregion Bordschomi"],
+      hu: ["Körülbelül 25 000 lakosa van", "1872 óta fontos vasúti csomópont", "A Szuramula folyó partján fekszik Sida Kartli régióban", "Szurami vára a 12. századból származik", "Az üvegáru-gyártás egyik központja", "A Borzsomiba vezető út kapuja"],
+      ro: ["Populație de aproximativ 25.000 de persoane", "Nod feroviar important începând cu anul 1872", "Situat pe râul Suramula în regiunea Shida Kartli", "Castelul Surami datează din secolul al XII-lea", "Centru pentru producția de articole din sticlă", "Poartă de acces către regiunea turistică Borjomi"],
+      en: ["Population of approximately 25,000 inhabitants", "Major railway junction since the year 1872", "Situated on the Suramula River in Shida Kartli", "Surami Castle dates back to the 12th century", "Centre for the production of glass containers", "Gateway to the Borjomi resort region"],
+    },
   },
   {
     id: "ge-samtredia-cities-v2",
@@ -255,7 +313,13 @@ image: "/poi-images/ge-samtredia-cities-v2.webp"
       hu: ["1921-ben kapott hivatalosan városi rangot.", "A Rioni folyó a városközpont közelében folyik."],
       ro: ["A primit oficial statutul de oraș în anul 1921.", "Râul Rioni curge nu departe de centrul orașului."],
       en: ["Officially received city rights in the year 1921.", "The Rioni River flows not far from the city center."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl von rund 25.000 Menschen", "Erhielt im Jahr 1921 den Status einer Stadt", "Wichtigster Eisenbahnknotenpunkt in Westgeorgien", "Liegt am Unterlauf des Flusses Rioni", "Klima eignet sich hervorragend für den Teeanbau", "Heimatstadt des Fußballers Kacha Kaladse"],
+      hu: ["Körülbelül 25 000 lakosa van", "1921-ben kapott városi rangot", "Nyugat-Grúzia legfontosabb vasúti csomópontja", "A Rioni folyó alsó szakaszánál fekszik", "Az éghajlat kiválóan alkalmas teatermesztésre", "Kakha Kaladze labdarúgó szülővárosa"],
+      ro: ["Populație de aproximativ 25.000 de persoane", "A primit statutul de oraș în anul 1921", "Cel mai important nod feroviar din vestul Georgiei", "Situat pe cursul inferior al râului Rioni", "Climatul este ideal pentru cultivarea ceaiului", "Orașul natal al fotbalistului Kakha Kaladze"],
+      en: ["Population of around 25,000 people", "Received official town status in 1921", "Major railway junction in western Georgia", "Located on the lower reaches of the Rioni River", "Climate is highly suitable for tea cultivation", "Birthplace of footballer Kakha Kaladze"],
+    },
   },
   {
     id: "ge-senaki-cities-v2",
@@ -281,7 +345,13 @@ image: "/poi-images/ge-senaki-cities-v2.webp"
       hu: ["1933 és 1989 között a várost Miha Chakajának hívták.", "A szenaki színház neoklasszikus stílusban épült."],
       ro: ["Între 1933 și 1989, orașul s-a numit Mikha Tskhakaya.", "Teatrul Senaki a fost construit în stil neoclasic."],
       en: ["Between 1933 and 1989, the city was named Mikha Tskhakaya.", "The Senaki Theater was built in a neoclassical style."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl von etwa 22.000 Personen", "Hieß von 1933 bis 1989 Mikha Tskhakaya", "Beherbergt einen strategischen NATO-Militärstützpunkt", "Neoklassizistisches Theater stammt aus dem 19. Jh.", "Antike Festung Nokalalewi liegt in der Nähe", "Zentrum für Tabak- und Teeverarbeitung"],
+      hu: ["Körülbelül 22 000 lakosa van", "1933 és 1989 között Mikha Tskhakaya volt a neve", "Stratégiai NATO-katonai bázisnak ad otthont", "Neoklasszicista színháza a 19. században épült", "A közelben található Nokalakevi ókori erődje", "A dohány- és teafeldolgozás központja"],
+      ro: ["Populație de aproximativ 22.000 de persoane", "S-a numit Mikha Tskhakaya între 1933 și 1989", "Găzduiește o bază militară strategică NATO", "Teatrul neoclasic datează din secolul al XIX-lea", "Cetatea antică Nokalakevi se află în apropiere", "Centru pentru prelucrarea tutunului și a ceaiului"],
+      en: ["Population of approximately 22,000 inhabitants", "Named Mikha Tskhakaya from 1933 to 1989", "Hosts a strategic military base updated to NATO standards", "Neoclassical theatre dates from the late 19th century", "Ancient Nokalakevi fortress is located nearby", "Centre for tobacco and tea processing"],
+    },
   },
   {
     id: "ge-zestafoni-cities-v2",
@@ -307,7 +377,13 @@ image: "/poi-images/ge-zestafoni-cities-v2.webp"
       hu: ["Az itteni vasötvözet-üzem a legnagyobb az országban.", "Zesztafoni kiváló szőlőtermesztő vidékeiről is ismert."],
       ro: ["Uzina locală de feroaliaje este cea mai mare din țară.", "Zestafoni este cunoscut și pentru regiunile sale viticole excelente."],
       en: ["The local ferroalloy plant is the largest in the country.", "Zestafoni is also known for its excellent wine-growing regions."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl von rund 20.000 Menschen", "Ferrolegierungswerk wurde im Jahr 1933 gegründet", "Verarbeitet Manganerz aus den Minen von Tschiatura", "Bekannt für die Weißwein-Rebsorte Tsolikouri", "Burg Schorapani wurde bereits von Strabon erwähnt", "Liegt in einem engen Tal zwischen Kaukasus-Ausläufern"],
+      hu: ["Körülbelül 20 000 lakosa van", "Ötvözetgyárát 1933-ban alapították", "A csaiturai bányákból származó mangánércet dolgozza fel", "A Tsolikouri fehérbor-szőlőfajtáról ismert", "Sorapani várát már Sztrabón is említette", "A Kaukázus lábainál, egy szűk völgyben fekszik"],
+      ro: ["Populație de aproximativ 20.000 de persoane", "Uzina de feroaliaje a fost fondată în anul 1933", "Procesează minereu de mangan din minele din Chiatura", "Renumit pentru soiul de struguri Tsolikouri", "Cetatea Shorapani a fost menționată încă de Strabon", "Situat într-o vale îngustă între poalele Caucazului"],
+      en: ["Population of around 20,000 people", "Ferroalloy plant was established in 1933", "Processes manganese ore from the Chiatura mines", "Famous for the native Tsolikouri white grape variety", "Shorapani Fortress was mentioned by Strabo", "Set in a narrow valley between Caucasus foothills"],
+    },
   },
   {
     id: "ge-marneuli-cities-v2",
@@ -333,7 +409,13 @@ image: "/poi-images/ge-marneuli-cities-v2.webp"
       hu: ["A város a mezőgazdasági kereskedelem egyik központja.", "Marneuliban minden évben nagy ünnepséget tartanak Novruzkor."],
       ro: ["Orașul este un centru al comerțului agricol.", "În Marneuli se sărbătorește an de an cu fast festivalul Novruz."],
       en: ["The city is a center of agricultural trade.", "The Novruz festival is celebrated prominently in Marneuli every year."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl von etwa 20.000 Personen", "Über zwei Drittel der Bevölkerung sind ethische Aserbaidschaner", "Wichtigstes Zentrum für den Gemüseanbau in Georgien", "Liegt in einer fruchtbaren Ebene am Fluss Algeti", "Novruz-Frühlingsfest ist ein kultureller Höhepunkt", "Strategischer Knotenpunkt nahe der armenischen Grenze"],
+      hu: ["Körülbelül 20 000 lakosa van", "A lakosság több mint kétharmada azerbajdzsáni", "Grúzia legfontosabb zöldségtermesztő központja", "Az Algeti folyó mentén, egy termékeny síkságon fekszik", "A Novruz tavaszünnep kiemelkedő kulturális esemény", "Stratégiai csomópont az örmény határ közelében"],
+      ro: ["Populație de aproximativ 20.000 de persoane", "Peste două treimi din populație este de etnie azeră", "Cel mai important centru pentru cultivarea legumelor", "Situat într-o câmpie fertilă pe râul Algeti", "Festivalul de primăvară Novruz este un punct cultural culminant", "Nod strategic aproape de granița cu Armenia"],
+      en: ["Population of approximately 20,000 inhabitants", "More than two thirds of residents are ethnic Azerbaijanis", "Primary centre for vegetable production in Georgia", "Located in a fertile plain on the Algeti River", "The Novruz festival is a major local cultural event", "Strategic transport hub near the Armenian border"],
+    },
   },
   {
     id: "ge-telavi-cities-v2",
@@ -359,7 +441,14 @@ image: "/poi-images/ge-telavi-cities-v2.webp"
       hu: ["A Batoniszi Cihé erőd a kaheti királyok rezidenciája volt.", "Egy 900 éves platánfa áll Telavi központjában."],
       ro: ["Fortăreața Batonis Tsikhe a fost reședința regilor din Kakheti.", "Un platan vechi de 900 de ani se află în centrul orașului Telavi."],
       en: ["The Batonis Tsikhe fortress was the residence of Kakhetian kings.", "A 900-year-old plane tree stands in the center of Telavi."]
-    }, image: "/poi-images/ge-telavi-cities-v2.webp"},
+    }, image: "/poi-images/ge-telavi-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einwohnerzahl von etwa 20.000 Menschen", "Hauptstadt der bedeutendsten Weinregion Kachetien", "Batonis Ziche war die Residenz der kachetischen Könige", "900 Jahre alte Platane hat elf Meter Stammumfang", "Liegt auf einer Höhe von rund 800 Metern", "Tor zum Kloster Alawerdi und zum Schloß Tsinandali"],
+      hu: ["Körülbelül 20 000 lakosa van", "A legjelentősebb borvidék, Kaheti fővárosa", "Batonisz Cihe a kaheti királyok székhelye volt", "A 900 éves platánfa törzskörmérete 11 méter", "Körülbelül 800 méteres tengerszint feletti magasságban fekszik", "Kapu az Alaverdi-kolostor és a Cinandali-birtok felé"],
+      ro: ["Populație de aproximativ 20.000 de locuitori", "Capitala regiunii Kakheti, cea mai mare zonă viticolă", "Batonis Tsikhe a fost reședința regilor kachetieni", "Platanul de 900 de ani are o circumferință de 11 metri", "Situat la o altitudine de aproximativ 800 de metri", "Poartă către mănăstirea Alaverdi și domeniul Tsinandali"],
+      en: ["Population of approximately 20,000 inhabitants", "Capital of Kakheti, Georgia's primary wine region", "Batonis Tsikhe was the residence of Kakhetian kings", "The 900-year-old plane tree is 11 metres in circumference", "Located at an elevation of approximately 800 metres", "Gateway to Alaverdi Monastery and Tsinandali estate"],
+    },
+  },
   {
     id: "ge-akhaltsikhe-cities-v2",
     type: "city",
@@ -384,7 +473,13 @@ image: "/poi-images/ge-akhaltsikhe-cities-v2.webp"
       hu: ["A felújított Rabati-erőd egy hatalmas történelmi komplexum.", "A város több mint 200 évig oszmán uralom alatt állt."],
       ro: ["Fortăreața restaurată Rabati este un complex istoric uriaș.", "Orașul a fost sub dominație otomană timp de peste 200 de ani."],
       en: ["The restored Rabati Castle is a massive historical complex.", "The city was under Ottoman rule for over 200 years."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung der Siedlung im 12. Jahrhundert.", "Liegt auf einer Höhe von etwa 1.000 Metern.", "War zwei Jahrhunderte lang Sitz eines osmanischen Eyalets.", "Eroberung durch das Russische Reich im Jahr 1828.", "Vollständige Restaurierung der Festung Rabati im Jahr 2012.", "Beherbergt ein Museum mit Funden aus der Bronzezeit."],
+      hu: ["A települést a 12. század óta dokumentálják.", "Körülbelül 1000 méteres tengerszint feletti magasságban fekszik.", "Két évszázadon át oszmán közigazgatási központ volt.", "Az Orosz Birodalom 1828-ban foglalta el a várost.", "A Rabati-erőd komplexumot 2012-ben újították fel.", "Helyi múzeuma bronzkori leleteket is bemutat."],
+      ro: ["Așezarea este documentată începând cu secolul al XII-lea.", "Situat la o altitudine de aproximativ 1.000 de metri.", "A fost sediul unui eyalet otoman timp de două secole.", "Capturat de Imperiul Rus în anul 1828.", "Complexul Castelului Rabati a fost restaurat în 2012.", "Muzeul de istorie expune artefacte din epoca bronzului."],
+      en: ["Documented as a settlement since the 12th century.", "Located at an elevation of approximately 1,000 meters.", "Served as the seat of an Ottoman eyalet for two centuries.", "Captured by the Russian Empire in 1828.", "The Rabati Castle complex was fully restored in 2012.", "Home to a history museum with Bronze Age artifacts."],
+    },
   },
   {
     id: "ge-kobuleti-cities-v2",
@@ -410,7 +505,13 @@ image: "/poi-images/ge-kobuleti-cities-v2.webp"
       hu: ["A parti sétány a Kaukázus egyik leghosszabbja.", "A szovjet időkben Kobuleti neves gyógyüdülőhely volt."],
       ro: ["Promenada de coastă este una dintre cele mai lungi din Caucaz.", "În perioada sovietică, Kobuleti era o renumită stațiune balneară."],
       en: ["The coastal promenade is one of the longest in the Caucasus.", "During the Soviet era, Kobuleti was a renowned spa resort."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Besitzt einen etwa 12 Kilometer langen Kieselstrand.", "Liegt ca. 25 Kilometer nördlich der Stadt Batumi.", "Wichtiger Standort für Tee- und Zitrusanbau in Georgien.", "Beherbergt die Ispani-Torfmoore, ein Ramsar-Gebiet.", "War in der Sowjetzeit ein bekanntes Sanatoriumszentrum.", "In der Nähe befinden sich die Ruinen der Festung Petra."],
+      hu: ["A kavicsos strand hossza eléri a 12 kilométert.", "Batumitól körülbelül 25 kilométerre északra fekszik.", "Grúzia egyik legfontosabb tea- és citrusközpontja.", "Ispani-lápvidéke nemzetközi jelentőségű vizes élőhely.", "A szovjet korszakban híres szanatóriumváros volt.", "A közelben láthatók Petra oszmán erődjének romjai."],
+      ro: ["Dispune de o plajă cu pietriș lungă de 12 kilometri.", "Situat la 25 de kilometri nord de orașul Batumi.", "Centru important pentru cultivarea ceaiului și a citricelor.", "Include mlaștinile Ispani, înscrise pe lista Ramsar.", "A fost o faimoasă stațiune balneară în perioada sovietică.", "Găzduiește muzeul local și Biserica Sfântul Andrei."],
+      en: ["Features a pebble beach nearly 12 kilometers long.", "Located 25 kilometers north of the city of Batumi.", "Major center for tea and citrus cultivation in Georgia.", "Home to the Ispani peat bogs, a Ramsar-listed site.", "Famous Soviet-era resort for health and recreation.", "Nearby ruins of the Ottoman Petra fortress are visible."],
+    },
   },
   {
     id: "ge-ozurgeti-cities-v2",
@@ -436,7 +537,13 @@ image: "/poi-images/ge-ozurgeti-cities-v2.webp"
       hu: ["Guria egykor a grúz teatermesztés központja volt.", "A történelmi drámai színház uralja a városközpontot."],
       ro: ["Guria a fost cândva centrul cultivării ceaiului georgian.", "Teatrul dramatic istoric domină centrul orașului."],
       en: ["Guria was once the center of Georgian tea cultivation.", "The historical drama theater dominates the city center."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt der Region Gurien mit ca. 14.000 Einwohnern.", "Erste Teaplantagen wurden hier 1893 angelegt.", "Erhielt 1840 den Status eines Verwaltungszentrums.", "Liegt auf einer Höhe von etwa 130 Metern.", "Beherbergt ein bedeutendes neoklassizistisches Theater.", "In der Nähe liegen die mittelalterlichen Festungen Bakhvi."],
+      hu: ["Guria régió központja, lakossága kb. 14 000 fő.", "Az első teaplantációkat 1893-ban alapították itt.", "1840-ben kapott közigazgatási városi rangot.", "Tengerszint feletti magassága kb. 130 méter.", "Híres néprajzi múzeuma ivókürtöket is bemutat.", "A közelben található Bakhmaro 2000 méteren fekszik."],
+      ro: ["Capitala regiunii Guria, cu circa 14.000 de locuitori.", "Primele plantații de ceai au fost înființate în 1893.", "Ridicată la statut administrativ în anul 1840.", "Situat la o altitudine medie de 130 de metri.", "Găzduiește un teatru dramatic în stil neoclasic.", "Punct de plecare spre stațiunea montană Bakhmaro."],
+      en: ["Capital of the Guria region with 14,000 inhabitants.", "First tea plantations were established here in 1893.", "Raised to administrative status in 1840.", "Located at an elevation of 130 meters above sea level.", "Features a large neoclassical drama theater in the center.", "Gateway to the high-altitude resort of Bakhmaro."],
+    },
   },
   {
     id: "ge-tskhaltubo-cities-v2",
@@ -462,7 +569,13 @@ image: "/poi-images/ge-tskhaltubo-cities-v2.webp"
       hu: ["Maga Sztálin is rendszeresen látogatta Chaltubo fürdőit.", "Számos szanatóriumot ma fokozatosan újítanak fel."],
       ro: ["Stalin însuși vizita regulat băile din Tskhaltubo.", "Multe sanatorii sunt restaurate treptat astăzi."],
       en: ["Stalin himself regularly visited the baths in Tskhaltubo.", "Many sanatoriums are gradually being restored today."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Die Thermalquellen haben eine konstante Temperatur von 33 °C.", "Liegt etwa 12 Kilometer nordwestlich von Kutaissi.", "Verfügt über 22 monumentale Sanatorien aus der Sowjetzeit.", "Stalin besaß ein privates Becken im Bad Nr. 6.", "Wurde im 20. Jahrhundert zum Vorzeige-Kurort ausgebaut.", "In der Nähe liegt die berühmte Prometheus-Höhle."],
+      hu: ["A termálforrások hőmérséklete állandó 33 °C.", "Kutaiszitól mindössze 12 kilométerre északnyugatra fekszik.", "22 monumentális szovjet szanatórium épült a városban.", "Sztálin saját különteremmel rendelkezett a 6-os fürdőben.", "A források vize enyhén radioaktív tulajdonságú.", "A közelben dinoszaurusz lábnyomok láthatók Satapliában."],
+      ro: ["Izvoarele termale au o temperatură constantă de 33 °C.", "Situat la 12 kilometri nord-vest de orașul Kutaisi.", "Orașul include 22 de sanatorii din epoca sovietică.", "Stalin avea un cabinet privat în cadrul Băii Nr. 6.", "Apele sunt eficiente în tratarea reumatismului.", "Găzduiește peștera Prometeu, faimoasă pentru stalactite."],
+      en: ["Thermal springs maintain a constant temperature of 33 °C.", "Located 12 kilometers northwest of the city of Kutaisi.", "Home to 22 monumental Soviet-era sanatoria.", "Stalin had a private pool and cabinet in Bath No. 6.", "The springs are credited with helping rheumatic complaints.", "Nearby Prometheus Cave is one of Georgia's largest."],
+    },
   },
   {
     id: "ge-kaspi-cities-v2",
@@ -488,7 +601,13 @@ image: "/poi-images/ge-kaspi-cities-v2.webp"
       hu: ["A kaszpi cementgyár Grúzia egyik legnagyobbja.", "Kaszpi közelében található Uplisziche ősi barlangvárosa."],
       ro: ["Fabrica de ciment din Kaspi este una dintre cele mai mari din Georgia.", "În apropiere de Kaspi se află vechiul oraș rupestru Uplistsikhe."],
       en: ["The cement plant in Kaspi is one of the largest in Georgia.", "The ancient cave city of Uplistsikhe is located near Kaspi."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Liegt am Fluss Kura, etwa 50 Kilometer von Tiflis entfernt.", "Wichtiger Standort der georgischen Zementindustrie.", "Besiedlung bereits seit der Bronzezeit nachgewiesen.", "Erhielt 1959 den Status einer Stadt.", "Die Marienkirche aus dem 11. Jahrhundert ist sehenswert.", "In der Nähe liegt die antike Höhlenstadt Uplisziche."],
+      hu: ["A Kura folyó partján fekszik, Tbiliszitől 50 km-re.", "Grúzia egyik legfontosabb cementgyártó központja.", "Régészeti leletek bizonyítják bronzkori eredetét.", "A település 1959-ben kapott városi rangot.", "Híres a 11. századi Dormition-templomáról.", "Közvetlen közelében található Uplisziche barlangvárosa."],
+      ro: ["Situat pe râul Kura, la 50 de kilometri de Tbilisi.", "Găzduiește una dintre cele mai mari fabrici de ciment.", "Dovezi de locuire datând încă din epoca bronzului.", "A primit statutul de oraș în anul 1959.", "Biserica Adormirea Maicii Domnului datează din secolul XI.", "Poartă de acces către orașul antic Uplistsikhe."],
+      en: ["Located on the Kura River, 50 kilometers from Tbilisi.", "Home to a major cement plant essential for the country.", "Habitation in the area dates back to the Bronze Age.", "Officially granted town status in the year 1959.", "Features the 11th-century Church of the Dormition.", "Situated near the ancient rock-hewn city of Uplistsikhe."],
+    },
   },
   {
     id: "ge-tkibuli-cities-v2",
@@ -514,7 +633,13 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp"
       hu: ["A szénbányászat a 19. század közepén kezdődött itt.", "A központ építészete erősen a szovjet időkre emlékeztet."],
       ro: ["Extracția cărbunelui a început aici la mijlocul secolului al XIX-lea.", "Arhitectura din centru amintește puternic de perioada sovietică."],
       en: ["Coal mining began here in the mid-19th century.", "The architecture in the center strongly resembles the Soviet era."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Wurde Mitte des 19. Jahrhunderts als Bergbaustadt gegründet.", "Liegt in einem Tal auf einer Höhe von ca. 500 Metern.", "War einst das größte Kohlebecken im gesamten Kaukasus.", "Der Shaori-Stausee liegt in unmittelbarer Nähe.", "Beherbergt das mittelalterliche Höhlenkloster Mghvimevi.", "Sowjetische Mosaike zieren viele öffentliche Gebäude."],
+      hu: ["A várost a 19. század közepén, bányásztelepülésként alapították.", "Körülbelül 500 méteres tengerszint feletti magasságban fekszik.", "Egykor a Kaukázus legnagyobb szénmedencéje volt.", "A közeli Shaori-víztározó népszerű kirándulóhely.", "Itt található a 13. századi Mghvimevi sziklakolostor.", "A városban technikai múzeum mutatja be a bányászat múltját."],
+      ro: ["Fondat la mijlocul secolului XIX ca oraș minier.", "Situat la o altitudine de aproximativ 500 de metri.", "A fost cel mai mare bazin carbonifer din Caucaz.", "Lacul de acumulare Shaori se află în imediata apropiere.", "Include mănăstirea Mghvimevi, săpată în stâncă.", "Găzduiește un muzeu tehnic cu vestigii industriale."],
+      en: ["Founded as a mining settlement in the mid-19th century.", "Located at an elevation of approximately 500 meters.", "Was once the largest coal basin in the entire Caucasus.", "Proximity to the Shaori reservoir for hydropower.", "Home to the medieval Mghvimevi cave monastery.", "Mining museum displays remains of historic headframes."],
+    },
   },
   {
     id: "ge-chiatura-cities-v2",
@@ -540,7 +665,13 @@ image: "/poi-images/ge-chiatura-cities-v2.webp"
       hu: ["A mangánipar központjaként alapították.", "A történelmi felvonók egy részét nemrégiben modernizálták."],
       ro: ["A fost fondat ca centru al industriei manganului.", "Unele dintre telecabinele istorice au fost modernizate recent."],
       en: ["It was founded as a center for the manganese industry.", "Some of the historical cable cars were recently modernized."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Liegt in einer über 400 Meter tiefen Flussschlucht.", "Weltweit bekanntes Manganvorkommen seit 1879.", "Einzigartiges Seilbahnnetz wurde ab 1954 errichtet.", "Besitzt über 17 Seilbahnlinien für den Personenverkehr.", "In der Nähe steht der spektakuläre Katskhi-Pfeiler.", "Teile des Seilbahnsystems wurden ab 2018 modernisiert."],
+      hu: ["A város egy 400 méter mély folyóvölgybe szorult be.", "1879 óta bányásznak itt ipari mennyiségű mangánt.", "A kötélpálya-hálózatot 1954-ben kezdték el kiépíteni.", "Több mint 17 különböző kötélpálya üzemelt a városban.", "A közelben található a 40 méter magas Katskhi-szikla.", "2018 óta modern üvegkabinos felvonók is működnek."],
+      ro: ["Situat într-un defileu cu o adâncime de peste 400 de metri.", "Zăcământ de mangan exploatat industrial din 1879.", "Rețeaua de telecabine a fost inaugurată în anul 1954.", "Dispune de peste 17 linii de transport prin cablu.", "Aproape de Coloana Katskhi, înaltă de 40 de metri.", "Sistemul a fost parțial modernizat începând cu 2018."],
+      en: ["Built in a gorge over 400 meters deep.", "Home to a world-class manganese deposit since 1879.", "Unique cable car network established in 1954.", "At its peak, it had more than 17 ropeway lines.", "Nearby Katskhi Pillar is a 40-meter limestone monolith.", "New glass-walled cabins were introduced in 2018."],
+    },
   },
   {
     id: "ge-sagarejo-cities-v2",
@@ -566,7 +697,13 @@ image: "/poi-images/ge-sagarejo-cities-v2.webp"
       hu: ["A David Garedzsa kolostor a várostól délre található.", "A szőlőtermesztés a helyi lakosság fő bevételi forrása."],
       ro: ["Mănăstirea David Gareja se află la sud de oraș.", "Viticultura este principala sursă de venit a populației locale."],
       en: ["The David Gareja monastery is located south of the city.", "Viticulture is the main source of income for the local population."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Liegt etwa 60 Kilometer östlich der Hauptstadt Tiflis.", "Gilt als Tor zum Weinbaugebiet der Region Kachetien.", "Hauptherkunftsort der Rebsorten Saperavi und Rkaziteli.", "Wurde im 18. Jahrhundert zur königlichen Residenz erklärt.", "Ausgangspunkt für das Höhlenkloster David Garedscha.", "Traditionelle Weinherstellung in Qvevri-Amphoren."],
+      hu: ["Tbiliszitől körülbelül 60 kilométerre keletre fekszik.", "Kachetia borvidékének nyugati bejárataként ismert.", "Főként Saperavi és Rkatsiteli szőlőfajtákat termelnek.", "A 18. században királyi rezidenciaként alapították.", "A közeli David Gareja kolostorban 5000 szerzetesi cella van.", "Hagyományos, földbe ásott kvevri edényeket használnak."],
+      ro: ["Situat la aproximativ 60 de kilometri est de Tbilisi.", "Poarta de intrare în regiunea viticolă Kakheti.", "Cultivă preponderent soiurile Saperavi și Rkatsiteli.", "Stabilit ca reședință regală în secolul al XVIII-lea.", "Acces spre complexul monahal David Gareja.", "Producție de vin în amfore tradiționale îngropate (qvevri)."],
+      en: ["Located 60 kilometers east of the capital, Tbilisi.", "Known as the gateway to the Kakheti wine country.", "Major producer of Saperavi and Rkatsiteli grapes.", "Formally established as a royal residence in the 1700s.", "Nearest town to the David Gareja cave monastery complex.", "Wineries still use traditional buried qvevri amphorae."],
+    },
   },
   {
     id: "ge-gardabani-cities-v2",
@@ -592,7 +729,14 @@ image: "/poi-images/ge-gardabani-cities-v2.webp"
       hu: ["A gardabani erőmű Grúzia nagy részét látja el árammal.", "A környéken történelmi barlangtelepülések találhatók."],
       ro: ["Centrala de la Gardabani furnizează energie pentru o mare parte din Georgia.", "Există așezări rupestre istorice în zonă."],
       en: ["The Gardabani power plant supplies electricity to large parts of Georgia.", "There are historical cave settlements in the area."]
-    }, image: "/poi-images/ge-gardabani-cities-v2.webp"},
+    }, image: "/poi-images/ge-gardabani-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Liegt nur wenige Kilometer von der Grenze zu Aserbaidschan entfernt.", "Standort des größten Wärmekraftwerks in Georgien.", "Befindet sich am Fluss Mtkvari (Kura) in der Steppenebene.", "Wichtiges Zentrum für Ölraffination und Gasverdichtung.", "Multiethnische Bevölkerung mit Georgiern und Aserbaidschanern.", "Beherbergt das Gardabani-Naturschutzgebiet."],
+      hu: ["Mindössze néhány kilométerre fekszik az azeri határtól.", "Itt üzemel Grúzia egyik legnagyobb hőerőműve.", "A Mtkvari (Kura) folyó menti sztyeppés síkságon található.", "Fontos vasúti csomópont az Azerbajdzsán felé vezető vonalon.", "Lakossága grúz, azeri, orosz és örmény etnikumokból áll.", "A közelben ártéri erdőket védő természetvédelmi terület van."],
+      ro: ["Situat la mică distanță de granița cu Azerbaidjan.", "Găzduiește cea mai mare termocentrală din Georgia.", "Amplasat pe râul Mtkvari (Kura), într-o câmpie de stepă.", "Nod important pentru tranzitul de gaze și petrol.", "Populație diversă formată din georgieni și azeri.", "Include rezervația naturală Gardabani cu păduri de luncă."],
+      en: ["Located only a few kilometers from the Azerbaijan border.", "Site of one of the largest power plants in Georgia.", "Situated on the Mtkvari (Kura) River in a steppe plain.", "Key center for oil refining and gas compression.", "Population includes Georgians, Azerbaijanis, and Armenians.", "Home to a nature reserve with riparian forests."],
+    },
+  },
   {
     id: "ge-borjomi-cities-v2",
     type: "city",
@@ -617,7 +761,14 @@ image: "/poi-images/ge-borjomi-cities-v2.webp"
       hu: ["A borzsomi vizet több mint 40 országba exportálják.", "A Romanov cári dinasztia szívesen töltötte itt a nyarait."],
       ro: ["Apa din Borjomi este exportată în peste 40 de țări.", "Dinastia țaristă Romanov adora să își petreacă verile aici."],
       en: ["Borjomi water is exported to over 40 countries.", "The Romanov tsarist dynasty loved spending their summers here."]
-    }, image: "/poi-images/ge-borjomi-cities-v2.webp"},
+    }, image: "/poi-images/ge-borjomi-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Mineralwasser wird hier seit 1890 in Flaschen abgefüllt.", "Export des Borjomi-Wassers in über 40 Länder weltweit.", "Liegt in einer Schlucht auf etwa 800 Metern Höhe.", "Beherbergt den hölzernen Likani-Palast der Romanows.", "Tor zum 850 km² großen Borjomi-Kharagauli-Nationalpark.", "Verfügt über historische Schwefelbäder im Freien."],
+      hu: ["Az ásványvizet 1890 óta palackozzák a városban.", "A Borjomi vizet ma több mint 40 országba exportálják.", "Körülbelül 800 méteres magasságban fekszik a szurdokban.", "Itt található a Romanovok számára épült Likani-palota.", "A Borjomi-Kharagauli Nemzeti Park területe 850 km².", "Kénes vizű szabadtéri fürdői egész évben látogathatók."],
+      ro: ["Apa minerală este îmbuteliată aici din anul 1890.", "Exporturi de apă minerală către peste 40 de țări.", "Situat la o altitudine de aproximativ 800 de metri.", "Găzduiește Palatul Likani, fosta reședință a Romanovilor.", "Poarta de acces către parcul național de 850 km².", "Include izvoare istorice de apă sulfuroasă."],
+      en: ["Mineral water has been bottled here since 1890.", "Borjomi water is currently exported to over 40 countries.", "Located in a narrow gorge at 800 meters elevation.", "Home to the historic Likani Palace of the Romanovs.", "Gateway to an 850-square-kilometer National Park.", "Features open-air sulfur pools in the surrounding woods."],
+    },
+  },
   {
     id: "ge-tqvarcheli-cities-v2",
     type: "city",
@@ -642,7 +793,13 @@ image: "/poi-images/ge-tqvarcheli-cities-v2.webp"
       hu: ["Az építészetet klasszicista sztálinista épületek jellemzik.", "A várost 1942-ben alapították hivatalosan."],
       ro: ["Arhitectura se caracterizează prin clădiri staliniste neoclasice.", "Orașul a fost fondat oficial în 1942."],
       en: ["The architecture is characterized by neoclassical Stalinist buildings.", "The town was officially founded in 1942."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Wurde 1942 als Zentrum für den Kohlebergbau gegründet.", "Liegt auf etwa 290 Metern Höhe am Fluss Galidsga.", "Hatte in der Sowjetzeit etwa 22.000 Einwohner.", "Überstand eine 13-monatige Belagerung im Krieg 1992-1993.", "Heute leben dort weniger als 5.000 Menschen.", "Besitzt markante Ruinen im Stil des Sozialistischen Klassizismus."],
+      hu: ["A várost 1942-ben szénbányászati központként alapították.", "A Galidzga-folyó mentén, 290 méter magasságban fekszik.", "A szovjet korszakban lakossága elérte a 22 000 főt.", "A háború alatt 13 hónapig tartó ostromot élt át.", "Ma alig 5000 ember él a településen.", "Híres elhagyatott neoklasszicista színházáról."],
+      ro: ["Fondat în 1942 ca bază centrală pentru minerit.", "Situat la o altitudine de 290 de metri pe râul Galidzga.", "Populația a scăzut de la 22.000 la aproximativ 5.000 de locuitori.", "A supraviețuit unui asediu de 13 luni între 1992 și 1993.", "Cunoscut pentru estetica sa de oraș-fantomă industrial.", "Arhitectura centrală este în stil neoclasic stalinist."],
+      en: ["Founded in 1942 as a hub for coal production.", "Located at an elevation of 290 meters on the Galidzga River.", "Once home to 22,000 people during the Soviet era.", "Endured a 13-month siege during the 1992-1993 conflict.", "Current population has dwindled to fewer than 5,000.", "Renowned for its abandoned Stalinist-neoclassical buildings."],
+    },
   },
   {
     id: "ge-khoni-cities-v2",
@@ -668,7 +825,13 @@ image: "/poi-images/ge-khoni-cities-v2.webp"
       hu: ["Honi közelében található a híres Okace-kanyon.", "A városközpontban lévő templom gazdag történelmi jelentőséggel bír."],
       ro: ["În apropiere de Khoni se află celebrul canion Okatse.", "Biserica din centrul orașului are o bogată semnificație istorică."],
       en: ["Near Khoni lies the famous Okatse Canyon.", "The church in the city center has a rich historical significance."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Liegt etwa 35 Kilometer westlich von Kutaissi.", "Zentrum der Seidenproduktion im 18. und 19. Jahrhundert.", "Beherbergt die Erlöser-Kathedrale aus dem 7. Jahrhundert.", "Traditionelle Architektur mit geschnitzten Holzveranden.", "Ausgangspunkt für Besuche des Okatse-Canyons.", "Liegt am Fluss Tskhenistskali im Tiefland."],
+      hu: ["Kutaiszitól 35 kilométerre nyugatra fekszik.", "A 18-19. században a selyemgyártás központja volt.", "Itt található a 7. századi Megváltó-székesegyház.", "A város jellegzetes épületei a faragott verandás fasházak.", "Innen érhető el az Okatse-kanyon és a Kinchkha-vízesés.", "A Tskhenistskali-folyó partján helyezkedik el."],
+      ro: ["Situat la 35 de kilometri vest de Kutaisi.", "Centru al producției de mătase în secolele XVIII-XIX.", "Găzduiește Catedrala Mântuitorului din secolul al VII-lea.", "Arhitectură dominată de case din lemn cu verande sculptate.", "Poartă de acces către Canionul Okatse și cascada Kinchkha.", "Amplasat pe malul râului Tskhenistskali."],
+      en: ["Located 35 kilometers west of the city of Kutaisi.", "Was a center for silk production in the 18th and 19th centuries.", "Home to the 7th-century Saviour Cathedral.", "Features traditional wooden houses with carved verandas.", "Primary gateway to the 50-meter-high Okatse skywalk.", "Situated in the lush subtropical Colchian lowland."],
+    },
   },
   {
     id: "ge-bolnisi-cities-v2",
@@ -694,7 +857,13 @@ image: "/poi-images/ge-bolnisi-cities-v2.webp"
       hu: ["A bolniszi Sioni-templom az 5. századból származik.", "A helyi múzeum a német-grúz történelmet mutatja be."],
       ro: ["Biserica Sioni din Bolnisi datează din secolul al V-lea.", "Muzeul local evidențiază istoria germano-georgiană."],
       en: ["The Bolnisi Sioni church dates back to the 5th century.", "The local museum highlights German-Georgian history."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1818 von schwäbischen Siedlern als Katharinenfeld.", "Die deutsche Gemeinde wurde 1941 nach Sibirien deportiert.", "Beherbergt die Sioni-Basilika aus dem Jahr 478.", "Enthält die ältesten bekannten georgischen Inschriften.", "Liegt etwa 70 Kilometer südwestlich von Tiflis.", "Bekannt für Weinbau und deutsche Fachwerkarchitektur."],
+      hu: ["1818-ban alapították sváb telepesek Katharinenfeld néven.", "A német lakosságot 1941-ben deportálták a Szovjetunióból.", "Sioni-bazilikája 478-ból származik, az egyik legrégebbi kőtemplom.", "Itt található a legkorábbi ismert grúz nyelvű felirat.", "Tbiliszitől körülbelül 70 kilométerre délnyugatra fekszik.", "Múzeuma a német telepesek életét és eszközeit mutatja be."],
+      ro: ["Fondat în 1818 de coloniști șvabi ca Katharinenfeld.", "Comunitatea germană a fost deportată forțat în anul 1941.", "Bazilica Sioni locală a fost construită în anul 478 d.Hr.", "Găzduiește cele mai vechi inscripții în alfabetul georgian.", "Situat la 70 de kilometri sud-vest de capitala Tbilisi.", "Păstrează case tradiționale germane cu acoperișuri înalte."],
+      en: ["Founded in 1818 by Swabian settlers as Katharinenfeld.", "The German community was deported to Kazakhstan in 1941.", "Home to the Sioni Basilica, dating back to 478 AD.", "Contains the earliest known inscription in the Georgian script.", "Located approximately 70 kilometers southwest of Tbilisi.", "Features a museum dedicated to the German colonist history."],
+    },
   },
   {
     id: "ge-akhalkalaki-cities-v2",
@@ -720,7 +889,13 @@ image: "/poi-images/ge-akhalkalaki-cities-v2.webp"
       hu: ["Az ahalkalaki erőd a 11. századból származik.", "A régió kiváló burgonyájáról híres."],
       ro: ["Fortăreața Akhalkalaki datează din secolul al XI-lea.", "Regiunea este cunoscută pentru cartofii săi excelenți."],
       en: ["The fortress of Akhalkalaki dates back to the 11th century.", "The region is known for its excellent potatoes."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Liegt auf einer Höhe von über 1.700 Metern.", "Befindet sich nur 30 Kilometer von der türkischen Grenze entfernt.", "Bevölkerung ist überwiegend armenischer Abstammung.", "War bis 2007 Standort eines russischen Militärstützpunkts.", "Die Festungsruinen stammen aus dem 11. Jahrhundert.", "Wichtigstes Zentrum für den Kartoffelanbau in Georgien."],
+      hu: ["Tengerszint feletti magassága meghaladja az 1700 métert.", "Mindössze 30 kilométerre fekszik a török és az örmény határtól.", "A lakosság túlnyomó többsége örmény nemzetiségű.", "2007-ig jelentős orosz katonai bázis működött itt.", "A város citadelláját a 11. században dokumentálták először.", "A környék tavai (Paravani, Madatapha) fontos madárlelőhelyek."],
+      ro: ["Situat la o altitudine de peste 1.700 de metri.", "Se află la doar 30 de kilometri de granița cu Turcia.", "Populația este formată majoritar din etnici armeni.", "A găzduit o bază militară rusă până în anul 2007.", "Ruinele cetății triple datează din secolul al XI-lea.", "Regiunea este principalul producător de cartofi din țară."],
+      en: ["Located at an elevation of over 1,700 meters.", "Situated just 30 kilometers from the Turkish border.", "The population is overwhelmingly ethnic Armenian.", "Hosted a major Russian military base until 2007.", "The triple-walled fortress dates back to the 11th century.", "Surrounding lakes like Paravani are famous for bird colonies."],
+    },
   },
   {
     id: "ge-gurjaani-cities-v2",
@@ -746,7 +921,13 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp"
       hu: ["A Kvelacminda-templom egyedülálló a maga két kupolájával.", "A városban híres grúz borfajtákat állítanak elő."],
       ro: ["Biserica Kvelatsminda este unică prin cele două domuri ale sale.", "În oraș se produc soiuri celebre de vin georgian."],
       en: ["The Kvelatsminda church is unique with its two domes.", "Famous Georgian wine varieties are produced in the city."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Bedeutendes Weinbauzentrum im Alazani-Tal.", "Beherbergt die einzige zweikuppelige Kirche Georgiens (8. Jh.).", "Sitz eines Forschungsinstituts für Weinbau und Oenologie.", "Die kvevri-Methode gehört zum UNESCO-Weltkulturerbe.", "Liegt in den Ausläufern des Gombori-Gebirges.", "Traditionelle Herstellung von Chacha-Traubenbrand."],
+      hu: ["Kachetia egyik legfontosabb borászati központja.", "Itt áll az ország egyetlen kétkupolás temploma (8-9. sz.).", "Helyet ad a Szőlészeti és Borászati Kutatóintézetnek.", "A kvevri borkészítési eljárás az UNESCO szellemi öröksége.", "A közelben fekszik a szent helyként tisztelt Bodbe-kolostor.", "Híres a gyógyhatású iszapjáról ismert Akhtala fürdőhely."],
+      ro: ["Centru major de vinificație din Valea Alazani.", "Include singura biserică cu două cupole din Georgia (sec. VIII).", "Găzduiește un institut de cercetare pentru viticultură.", "Metoda qvevri este inclusă în patrimoniul UNESCO.", "Situat la poalele munților Gombori.", "Producție importantă de vinuri Saperavi și Kindzmarauli."],
+      en: ["Major winemaking hub in the heart of the Alazani Valley.", "Features the only double-domed church in Georgia (8th century).", "Home to a prestigious Research Institute for Viticulture.", "The kvevri wine method used here is a UNESCO heritage.", "Located on the foothills of the Gombori mountain range.", "Nearby Akhtala is famous for its therapeutic mud baths."],
+    },
   },
   {
     id: "ge-mtskheta-cities-v2",
@@ -772,6 +953,12 @@ image: "/poi-images/ge-mtskheta-cities-v2.webp"
       hu: ["A Szveticshoveli-székesegyház UNESCO világörökségi helyszín.", "A Dzsvari-kolostor fenségesen magasodik a város fölé."],
       ro: ["Catedrala Svetitskhoveli este în Patrimoniul Mondial UNESCO.", "Mănăstirea Jvari tronează maiestuos deasupra orașului."],
       en: ["The Svetitskhoveli Cathedral is a UNESCO World Heritage Site.", "The Jvari Monastery towers majestically over the city."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Gründung im 2. Jahrtausend v. Chr.", "Hauptstadt von Georgien bis zum 5. Jahrhundert n. Chr.", "Übernahme des Christentums als Staatsreligion im Jahr 327 n. Chr.", "Svetitskhoveli-Kathedrale stammt in heutiger Form aus dem 11. Jahrhundert", "Dschwari-Kloster wurde im 6. Jahrhundert erbaut", "Entfernung zur heutigen Hauptstadt Tiflis beträgt ca. 20 km"],
+      hu: ["A várost az i. e. 2. évezredben alapították", "Az Ibériai Királyság fővárosa volt az 5. századig", "A kereszténységet 327-ben itt tették államvallássá", "A Szveticshoveli-székesegyház a 11. században épült", "A Dzsvári-kolostor a 6. századból származik", "1994-ben került fel az UNESCO Világörökségi listájára"],
+      ro: ["Fondat în al doilea mileniu î.Hr.", "Capitală a Regatului Iberic până în secolul al V-lea d.Hr.", "Creștinismul a fost adoptat ca religie de stat aici în 327 d.Hr.", "Catedrala Svetitskhoveli datează din secolul al XI-lea", "Mănăstirea Jvari a fost construită în secolul al VI-lea", "Inclus în lista patrimoniului mondial UNESCO în 1994"],
+      en: ["Founded in the 2nd millennium BC", "Capital of the Kingdom of Iberia until the 5th century AD", "Adoption of Christianity as state religion in 327 AD", "Svetitskhoveli Cathedral dates from the 11th century", "Jvari Monastery was constructed in the 6th century", "UNESCO World Heritage site designation in 1994"],
+    },
   }
 ];

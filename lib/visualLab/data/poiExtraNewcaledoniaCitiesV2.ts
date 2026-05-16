@@ -19,6 +19,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Founded in 1854 under the original name of Port-de-France.", "Host to the headquarters of the Pacific Community secretariat.", "Major port city facilitating significant nickel exports.", "The city has a population of approximately 94,000 residents."],
     },
     imageHint: "Aerial view of Nouméa peninsula and harbor",
+    descriptionAdvanced: {
+      de: "Nouméa ist die Hauptstadt von Neukaledonien und liegt auf einer Halbinsel im Südwesten der Hauptinsel Grande Terre. Als wirtschaftliches Zentrum des Territoriums verfügt die Stadt über einen bedeutenden Hafen für den Nickelexport. Die Stadtlandschaft vereint koloniale französische Einflüsse mit moderner Architektur und einer lebendigen pazifischen Kultur.",
+      hu: "Nouméa Új-Kaledónia fővárosa, amely a fősziget, Grande Terre délnyugati részén, egy félszigeten fekszik. A terület gazdasági központjaként a város jelentős kikötővel rendelkezik a nikkelexport számára. A városképben keverednek a gyarmati francia hatások a modern építészettel és a vibráló csendes-óceáni kultúrával.",
+      ro: "Nouméa este capitala și cel mai mare oraș din Noua Caledonie, situat pe o peninsulă în sud-vestul insulei principale Grande Terre. Ca centru economic al teritoriului, orașul deține un port important pentru exportul de nichel. Peisajul urban îmbină influențele coloniale franceze cu arhitectura modernă și o cultură pacifică vibrantă.",
+      en: "Nouméa is the capital and largest city of New Caledonia, situated on a peninsula in the southwestern part of the main island, Grande Terre. It serves as the primary economic hub of the territory, hosting a major deep-water port essential for nickel exports. The city's architecture reflects its colonial history, combined with modern urban development and diverse cultural influences.",
+    },
+    factsAdvanced: {
+      de: ["Wurde im Jahr 1854 unter dem Namen Port-de-France gegründet.", "Erhielt im Jahr 1866 offiziell den heutigen Namen Nouméa.", "Die Stadt hat eine Bevölkerung von über 94.000 Einwohnern.", "Sitz des Sekretariats der Pazifischen Gemeinschaft.", "Beherbergt das von Renzo Piano entworfene Tjibaou-Kulturzentrum.", "Verfügt über den größten Tiefwasserhafen der Region."],
+      hu: ["1854-ben alapították Port-de-France néven.", "1866-ban nevezték át hivatalosan Nouméára.", "A város lakossága meghaladja a 94 000 főt.", "Itt található a Csendes-óceáni Közösség székhelye.", "A Renzo Piano által tervezett Tjibaou Kulturális Központ otthona.", "A régió egyik legfontosabb kereskedelmi kikötőjével rendelkezik."],
+      ro: ["A fost fondat în 1854 sub numele de Port-de-France.", "A fost redenumit oficial Nouméa în anul 1866.", "Populația orașului depășește 94.000 de locuitori.", "Găzduiește sediul Secretariatului Comunității Pacificului.", "Include Centrul Cultural Tjibaou, proiectat de Renzo Piano.", "Deține un port strategic pentru industria minieră de nichel."],
+      en: ["Founded in 1854 as Port-de-France.", "Renamed to Nouméa in 1866 to avoid confusion.", "The city's population exceeds 94,000 residents.", "Home to the headquarters of the Pacific Community.", "Features the Tjibaou Cultural Centre, designed by Renzo Piano.", "Hosts a major deep-water port for international trade."],
+    },
   },
   {
     id: "newcaledonia-dumbea-cities-v2",
@@ -38,6 +50,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Second most populous commune in the territory with over 35,000 residents.", "Home to New Caledonia's largest shopping mall, the Knu-Mall.", "The name is derived from the river of the same name flowing through.", "Major site for sports facilities and the new territorial hospital."],
     },
     imageHint: "Dumbéa river valley and modern residential areas",
+    descriptionAdvanced: {
+      de: "Dumbéa ist eine schnell wachsende Gemeinde in der Metropolregion Nouméa und die zweitbevölkerungsreichste Stadt Neukaledoniens. Die Stadt erstreckt sich entlang des gleichnamigen Flusses und dient als wichtiges Wohngebiet für Pendler der Hauptstadt. Die Region ist bekannt für den Dumbéa-Staudamm, der einen Großteil der Wasserversorgung für den Großraum Nouméa sicherstellt.",
+      hu: "Dumbéa egy gyorsan növekvő település Nouméa vonzáskörzetében, és Új-Kaledónia második legnépesebb városa. A város az azonos nevű folyó mentén terül el, és fontos lakóövezetként szolgál a fővárosba ingázók számára. A régió híres a Dumbéa-gátról, amely Nouméa és környéke vízellátásának jelentős részét biztosítja.",
+      ro: "Dumbéa este o comună cu o creștere rapidă în zona metropolitană Nouméa, fiind al doilea cel mai populat oraș din Noua Caledonie. Orașul se întinde de-a lungul râului cu același nume și servește ca zonă rezidențială majoră pentru navetiști. Regiunea este cunoscută pentru barajul Dumbéa, care asigură cea mai mare parte a alimentării cu apă a capitalei.",
+      en: "Dumbéa is a rapidly growing municipality in the Nouméa metropolitan area and the second most populous city in New Caledonia. The city extends along the river of the same name and serves as a major residential area for commuters to the capital. The region is notable for the Dumbéa Dam, which provides much of the water supply for Greater Nouméa.",
+    },
+    factsAdvanced: {
+      de: ["Ist flächenmäßig eine der größten Gemeinden Neukaledoniens.", "Die Bevölkerung stieg bis 2019 auf über 35.000 Einwohner.", "Der Dumbéa-Fluss ist ein beliebtes Ziel für Outdoor-Aktivitäten.", "Der erste Staudamm wurde hier bereits im Jahr 1892 errichtet.", "Beherbergt den Regionalpark Dumbea mit Wanderwegen.", "Liegt etwa 15 Kilometer nordwestlich vom Zentrum von Nouméa."],
+      hu: ["Területét tekintve az egyik legnagyobb település Új-Kaledóniában.", "Lakossága 2019-re több mint 35 000 főre emelkedett.", "A Dumbéa-folyó népszerű helyszín a szabadtéri sportokhoz.", "Az első gátat ezen a területen már 1892-ben megépítették.", "Itt található a túraútvonalairól ismert Dumbea Regionális Park.", "Körülbelül 15 kilométerre fekszik Nouméa központjától."],
+      ro: ["Este una dintre cele mai mari comune ca suprafață din teritoriu.", "Populația a crescut la peste 35.000 de locuitori până în 2019.", "Râul Dumbéa este o destinație populară pentru recreere.", "Primul baraj de pe râu a fost construit în anul 1892.", "Găzduiește Parcul Regional Dumbéa, cu numeroase trasee.", "Se află la aproximativ 15 kilometri nord-vest de Nouméa."],
+      en: ["It is one of the largest municipalities by area in New Caledonia.", "The population increased to over 35,000 by 2019.", "The Dumbéa River is a popular spot for outdoor activities.", "The first dam in the area was constructed in 1892.", "Home to the Dumbea Regional Park with various hiking trails.", "Located approximately 15 kilometers northwest of Nouméa."],
+    },
   },
   {
     id: "newcaledonia-paita-cities-v2",
@@ -57,6 +81,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["La Tontouta International Airport is located within this commune.", "Traditionally known for the annual beef festival called 'Fête du Bœuf'.", "An important agricultural hub for the metropolitan area.", "The population has grown to over 24,000 residents in the last 20 years."],
     },
     imageHint: "Païta town center and surrounding hills",
+    descriptionAdvanced: {
+      de: "Païta ist eine strategisch wichtige Gemeinde im Südwesten von Grande Terre und Teil des Großraums Nouméa. Sie beherbergt den internationalen Flughafen La Tontouta, das wichtigste Tor Neukaledoniens zur Welt. Historisch gesehen war die Region ein Zentrum der Rinderzucht, heute ist sie durch eine Mischung aus Vorstadtsiedlungen und landwirtschaftlichen Flächen geprägt.",
+      hu: "Païta egy stratégiailag fontos település Grande Terre délnyugati részén, Nouméa vonzáskörzetében. Itt található a La Tontouta nemzetközi repülőtér, amely Új-Kaledónia fő kapuja a világ felé. Történelmileg a régió a szarvasmarha-tenyésztés központja volt, ma pedig kertvárosi lakóövezetek és mezőgazdasági területek elegye jellemzi.",
+      ro: "Païta este o comună strategică în sud-vestul insulei Grande Terre, făcând parte din zona metropolitană Nouméa. Găzduiește Aeroportul Internațional La Tontouta, principala poartă de acces aerian a Noii Caledonii. Istoric, regiunea a fost un centru al creșterii bovinelor, fiind astăzi caracterizată de zone rezidențiale și agricole.",
+      en: "Païta is a strategically important municipality in the southwest of Grande Terre and part of the Greater Nouméa area. It is home to La Tontouta International Airport, the primary air gateway to New Caledonia. Historically, the region was a center for cattle ranching, and today it features a blend of suburban developments and agricultural lands.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt den internationalen Flughafen La Tontouta.", "Die Gemeinde wurde offiziell im Jahr 1870 gegründet.", "Ist bekannt für das jährliche Ochsenfest (Fête du Boeuf).", "Die Bevölkerung übersteigt mittlerweile 24.000 Einwohner.", "Befindet sich etwa 25 Kilometer nordwestlich von Nouméa.", "Diente während des Zweiten Weltkriegs als US-Luftwaffenstützpunkt."],
+      hu: ["Itt található a La Tontouta nemzetközi repülőtér.", "A települést hivatalosan 1870-ben alapították.", "Híres az évente megrendezett Ökörfesztiválról (Fête du Boeuf).", "A lakosság száma ma már meghaladja a 24 000 főt.", "Körülbelül 25 kilométerre északnyugatra fekszik Nouméától.", "A második világháború alatt amerikai légitámaszpont volt."],
+      ro: ["Găzduiește Aeroportul Internațional La Tontouta.", "Comuna a fost înființată oficial în anul 1870.", "Este celebră pentru festivalul anual al boului (Fête du Boeuf).", "Populația depășește în prezent 24.000 de locuitori.", "Situată la aproximativ 25 de kilometri nord-vest de Nouméa.", "A servit ca bază aeriană americană în timpul celui de-al Doilea Război Mondial."],
+      en: ["Home to the La Tontouta International Airport.", "The municipality was officially established in 1870.", "Famous for the annual Beef Festival (Fête du Boeuf).", "The population has grown to over 24,000 residents.", "Located about 25 kilometers northwest of Nouméa.", "Served as a US air base during World War II."],
+    },
   },
   {
     id: "newcaledonia-kone-cities-v2",
@@ -76,6 +112,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Location of the Koniambo nickel mine, one of the world's largest industrial projects.", "The famous 'Heart of Voh' mangrove formation is located near the town.", "Features a regional airport with scheduled flights to Nouméa.", "Seat of the provincial administration and major educational hub in the north."],
     },
     imageHint: "Modern administrative buildings in Koné",
+    descriptionAdvanced: {
+      de: "Koné ist die Hauptstadt der Nordprovinz von Neukaledonien und ein bedeutendes administratives und wirtschaftliches Zentrum. Die Stadt hat durch das Koniambo-Nickelprojekt, eines der größten Bergbauvorhaben der Welt, ein enormes Wachstum erfahren. Koné dient als Brücke zwischen der ländlichen Tradition der Region und der modernen industriellen Entwicklung des Nordens.",
+      hu: "Koné Új-Kaledónia Északi tartományának székhelye, valamint jelentős adminisztratív és gazdasági központ. A város hatalmas növekedésen ment keresztül a Koniambo nikkelprojektnek köszönhetően, amely a világ egyik legnagyobb bányászati vállalkozása. Koné hídként szolgál a régió vidéki hagyományai és az északi rész modern ipari fejlődése között.",
+      ro: "Koné este capitala Provinciei de Nord a Noii Caledonii și un centru administrativ și economic major. Orașul a cunoscut o creștere masivă datorită proiectului de nichel Koniambo, una dintre cele mai mari operațiuni miniere din lume. Koné servește ca o punte între tradițiile rurale ale regiunii și dezvoltarea industrială modernă a nordului.",
+      en: "Koné is the capital of the North Province of New Caledonia and a major administrative and economic hub. The city has experienced significant growth due to the Koniambo Nickel project, one of the world's largest mining ventures. Koné acts as a bridge between the region's rural traditions and the modern industrial development of the north.",
+    },
+    factsAdvanced: {
+      de: ["Ist der Verwaltungssitz der Nordprovinz (Province Nord).", "Das Koniambo-Werk begann im Jahr 2013 mit der Produktion.", "Die Stadt liegt an der Westküste der Insel Grande Terre.", "Beherbergt den Flughafen Koné für Inlandsflüge.", "In der Nähe befindet sich das berühmte Herz von Voh (Luftbild).", "Die Bevölkerung hat sich seit 1990 mehr als verdoppelt."],
+      hu: ["Az Északi tartomány (Province Nord) adminisztratív székhelye.", "A Koniambo üzem 2013-ban kezdte meg a termelést.", "A város Grande Terre szigetének nyugati partján fekszik.", "Saját repülőtérrel rendelkezik a belföldi járatok számára.", "A közelben található a híres Voh-szív nevű természetes alakzat.", "A lakosság száma 1990 óta több mint a duplájára nőtt."],
+      ro: ["Este reședința administrativă a Provinciei de Nord.", "Uzina Koniambo a început producția industrială în anul 2013.", "Orașul este situat pe coasta de vest a insulei Grande Terre.", "Găzduiește aeroportul Koné pentru zboruri interne.", "Se află în apropierea faimosului 'Inimă de la Voh'.", "Populația s-a dublat de la recensământul din 1990."],
+      en: ["Served as the administrative capital of the North Province.", "The Koniambo plant started production in 2013.", "The city is located on the west coast of Grande Terre island.", "Home to the Koné Airport for domestic regional flights.", "Nearby is the famous 'Heart of Voh' mangrove formation.", "The population has more than doubled since 1990."],
+    },
   },
   {
     id: "newcaledonia-bourail-cities-v2",
@@ -95,6 +143,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Second largest commune outside the Nouméa metropolitan area.", "Home to the famous 'Bonhomme de Bourail' rock formation.", "Main site for the New Caledonia Agricultural Fair held every August.", "Contains a New Zealand military cemetery from World War II."],
     },
     imageHint: "Bourail countryside and Roche Percée beach",
+    descriptionAdvanced: {
+      de: "Bourail ist ein bedeutendes landwirtschaftliches Zentrum im Westen von Grande Terre, etwa 160 Kilometer nördlich von Nouméa. Die Region ist bekannt für ihre weiten Ebenen, die Rinderzucht und spektakuläre Naturphänomene wie die Roche Percée (Durchbrochener Fels). Mit dem Gouaro Deva Gebiet hat sich Bourail zudem zu einem wichtigen Ziel für Naturtourismus entwickelt.",
+      hu: "Bourail jelentős mezőgazdasági központ Grande Terre nyugati részén, Nouméától körülbelül 160 kilométerre északra. A régió széles síkságairól, szarvasmarha-tenyésztéséről és látványos természeti jelenségeiről, például a Roche Percée-ről (Átfúrt szikla) ismert. A Gouaro Deva területtel Bourail a természetjáró turizmus egyik fő célpontjává vált.",
+      ro: "Bourail este un centru agricol important în vestul insulei Grande Terre, situat la circa 160 km nord de Nouméa. Regiunea este cunoscută pentru câmpiile sale vaste, creșterea vitelor și fenomene naturale spectaculoase, precum Roche Percée (Stânca Perforată). Prin domeniul Gouaro Deva, Bourail a devenit o destinație majoră pentru ecoturism.",
+      en: "Bourail is a significant agricultural center in the west of Grande Terre, located about 160 kilometers north of Nouméa. The region is known for its vast plains, cattle ranching, and spectacular natural features like the Roche Percée (Pierced Rock). With the Gouaro Deva domain, Bourail has also emerged as a major destination for nature-based tourism.",
+    },
+    factsAdvanced: {
+      de: ["Zweitgrößte landwirtschaftliche Gemeinde Neukaledoniens.", "Beherbergt einen neuseeländischen Soldatenfriedhof aus dem 2. Weltkrieg.", "Die Roche Percée ist eine markante Felsformation an der Küste.", "Das Gebiet Gouaro Deva umfasst über 8.000 Hektar Natur.", "Veranstaltet jährlich die große Landwirtschaftsmesse von Bourail.", "Der Turtle Bay Strand ist ein Nistplatz für Meeresschildkröten."],
+      hu: ["Új-Kaledónia második legnagyobb mezőgazdasági települése.", "Itt található egy új-zélandi katonai temető a II. világháborúból.", "A Roche Percée egy jellegzetes sziklaalakzat a tengerparton.", "A Gouaro Deva terület több mint 8000 hektárnyi természetvédelmi terület.", "Minden évben itt rendezik meg a Bourail-i mezőgazdasági vásárt.", "A Turtle Bay (Teknős-öböl) a tengeri teknősök fészkelőhelye."],
+      ro: ["A doua cea mai mare comună agricolă din Noua Caledonie.", "Găzduiește un cimitir militar neozeelandez din al Doilea Război Mondial.", "Roche Percée este o formațiune stâncoasă emblematică de pe coastă.", "Domeniul Gouaro Deva se întinde pe mai mult de 8.000 de hectare.", "Găzduiește anual Târgul Agricol din Bourail, cel mai mare din țară.", "Plaja Turtle Bay este un loc de cuibărit pentru țestoasele marine."],
+      en: ["Second largest agricultural municipality in New Caledonia.", "Home to a New Zealand war cemetery from World War II.", "Roche Percée is a distinctive rock formation on the coast.", "The Gouaro Deva domain covers over 8,000 hectares of nature.", "Hosts the annual Bourail Agricultural Fair, a major local event.", "Turtle Bay beach is a nesting site for sea turtles."],
+    },
   },
   {
     id: "newcaledonia-koumac-cities-v2",
@@ -114,6 +174,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Known for its impressive limestone caves located nearby.", "Vital stopping point for travelers heading to the island's northern tip.", "Features a small marina and acts as a hub for local fishing.", "Has an airfield serving regional domestic flights."],
     },
     imageHint: "Koumac town hall and surrounding karst landscape",
+    descriptionAdvanced: {
+      de: "Koumac ist das wichtigste Dienstleistungszentrum im Norden von Grande Terre und ein historischer Bergbauort. Die Stadt liegt günstig an einer Kreuzung wichtiger Landstraßen und verfügt über einen Hafen sowie einen Flugplatz. Bekannt ist Koumac vor allem für seine beeindruckenden Kalksteinhöhlen und die umliegende Wildnis, die Wanderer und Naturliebhaber anzieht.",
+      hu: "Koumac Grande Terre északi részének legfontosabb szolgáltató központja és egy történelmi bányászváros. A város kedvező fekvésű a főútvonalak kereszteződésében, saját kikötővel és repülőtérrel is rendelkezik. Koumac leginkább lenyűgöző mészkőbarlangjairól és a környező vadonról ismert, amely vonzza a túrázókat és a természetkedvelőket.",
+      ro: "Koumac este cel mai important centru de servicii din nordul insulei Grande Terre și o localitate minieră istorică. Orașul este situat strategic la intersecția unor drumuri majore și deține un port și un aerodrom. Koumac este renumit în special pentru peșterile sale de calcar impresionante și pentru natura sălbatică înconjurătoare.",
+      en: "Koumac is the primary service center in the north of Grande Terre and a historical mining town. The city is conveniently located at a junction of major roads and features both a marina and an airfield. Koumac is best known for its impressive limestone caves and the surrounding wilderness, which attracts hikers and nature enthusiasts.",
+    },
+    factsAdvanced: {
+      de: ["Die Höhlen von Koumac erstrecken sich über 3,5 Kilometer.", "War früher ein Zentrum des Chrom- und Nickelbergbaus.", "Verfügt über einen bedeutenden Jachthafen an der Westküste.", "Die Gemeinde hat eine Fläche von etwa 550 Quadratkilometern.", "Beherbergt den Flugplatz Koumac für regionale Flüge.", "Ist ein Ausgangspunkt für Ausflüge zu den nördlichen Riffen."],
+      hu: ["A Koumac-barlangok több mint 3,5 kilométer hosszan nyúlnak el.", "Korábban a króm- és nikkelbányászat egyik központja volt.", "Jelentős jachtkikötővel rendelkezik a nyugati parton.", "A település területe körülbelül 550 négyzetkilométer.", "Saját repülőtere van a regionális légi közlekedés számára.", "Kiindulópont az északi korallzátonyokhoz induló túrákhoz."],
+      ro: ["Peșterile Koumac se întind pe o lungime de 3,5 kilometri.", "A fost în trecut un centru important pentru mineritul de crom.", "Deține un port de agrement modern pe coasta de vest.", "Comuna are o suprafață de aproximativ 550 km².", "Găzduiește aerodromul Koumac pentru conexiuni regionale.", "Este un punct de plecare pentru explorarea recifelor din nord."],
+      en: ["The Koumac caves extend over 3.5 kilometers in length.", "Formerly a major center for chrome and nickel mining.", "Features a significant marina on the west coast.", "The municipality covers an area of about 550 square kilometers.", "Home to the Koumac Airfield for regional connections.", "Serves as a gateway to exploring the northern reefs."],
+    },
   },
   {
     id: "newcaledonia-poindimie-cities-v2",
@@ -133,6 +205,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Largest commune on the east coast with approximately 5,000 residents.", "Significant regional hospital center for the North Province.", "Popular destination for divers due to rich coral reef systems.", "The town is situated at the mouth of several rivers from the central range."],
     },
     imageHint: "Poindimié coast and lush green mountains",
+    descriptionAdvanced: {
+      de: "Poindimié gilt als die inoffizielle Hauptstadt der Ostküste von Neukaledonien und ist ein Zentrum für Bildung und Gesundheit in der Region. Die Stadt ist bekannt für ihre üppige tropische Vegetation, Wasserfälle und die Nähe zu unberührten Korallenriffen. Die lokale Kultur ist tief in den Kanak-Traditionen verwurzelt, was Poindimié zu einem authentischen Erlebnis für Besucher macht.",
+      hu: "Poindimié Új-Kaledónia keleti partjának nem hivatalos fővárosa, valamint a régió oktatási és egészségügyi központja. A város dús trópusi vegetációjáról, vízeséseiről és az érintetlen korallzátonyok közelségéről ismert. A helyi kultúra mélyen gyökerezik a kanak hagyományokban, így Poindimié hiteles élményt nyújt a látogatóknak.",
+      ro: "Poindimié este considerată capitala neoficială a coastei de est a Noii Caledonii, fiind un centru pentru educație și sănătate. Orașul este cunoscut pentru vegetația tropicală luxuriantă, cascadele sale și proximitatea față de recife de corali virgine. Cultura locală este profund înrădăcinată în tradițiile Kanak, oferind o experiență autentică.",
+      en: "Poindimié is considered the unofficial capital of the east coast of New Caledonia and is a hub for education and healthcare in the region. The town is known for its lush tropical vegetation, waterfalls, and proximity to pristine coral reefs. Local culture is deeply rooted in Kanak traditions, making Poindimié a center for authentic cultural experiences.",
+    },
+    factsAdvanced: {
+      de: ["Größte Gemeinde an der Ostküste von Grande Terre.", "Beherbergt das größte Gymnasium (Lycée) der Ostküste.", "Ein beliebtes Ziel für Gerätetaucher wegen der Tiéti-Riffe.", "Die jährliche 'Fête de la Mer' feiert die maritime Kultur.", "Liegt etwa 300 Kilometer nordöstlich von Nouméa.", "Besteht aus 28 verschiedenen Kanak-Stämmen (Tribus)."],
+      hu: ["Grande Terre keleti partjának legnagyobb települése.", "Itt található a keleti part legnagyobb gimnáziuma (Lycée).", "A Tiéti-zátonyok miatt a búvárok kedvelt célpontja.", "Az évente megrendezett 'Fête de la Mer' a tengeri kultúrát ünnepli.", "Körülbelül 300 kilométerre északkeletre fekszik Nouméától.", "A település területén 28 különböző kanak törzs (tribu) él."],
+      ro: ["Cea mai mare comună de pe coasta de est a insulei Grande Terre.", "Găzduiește cel mai mare liceu de pe coasta de est.", "O destinație populară pentru scufundări datorită recifelor Tiéti.", "Organizează anual 'Fête de la Mer' pentru a celebra marea.", "Situată la aproximativ 300 de kilometri nord-est de Nouméa.", "Comunitatea este formată din 28 de triburi Kanak distincte."],
+      en: ["Largest municipality on the east coast of Grande Terre.", "Home to the largest secondary school (Lycée) on the east coast.", "A popular destination for scuba diving at the Tiéti reefs.", "Hosts the annual 'Fête de la Mer' celebrating maritime culture.", "Located approximately 300 kilometers northeast of Nouméa.", "The municipality comprises 28 different Kanak tribes."],
+    },
   },
   {
     id: "newcaledonia-houailou-cities-v2",
@@ -152,6 +236,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Hosts the famous Lychee Festival every year in December.", "Significant location for nickel mining since the 19th century.", "The town is linked to Bourail via a mountain pass road.", "Home to an important historical Protestant mission station."],
     },
     imageHint: "Houaïlou river and coastal vegetation",
+    descriptionAdvanced: {
+      de: "Houaïlou ist eine Gemeinde an der Ostküste von Grande Terre, die für ihre reiche Bergbaugeschichte und ihre landwirtschaftliche Bedeutung bekannt ist. Die Region ist besonders berühmt für den Anbau von Litschis, die als die besten des Territoriums gelten. Die Landschaft ist geprägt von schroffen Bergen, tiefen Tälern und zahlreichen Wasserfällen, die in den Pazifik münden.",
+      hu: "Houaïlou Grande Terre keleti partján fekvő település, amely gazdag bányászati múltjáról és mezőgazdasági jelentőségéről ismert. A régió különösen híres a licsi termesztéséről, amelyet a terület legjobbjának tartanak. A tájat meredek hegyek, mély völgyek és számos, a Csendes-óceánba ömlő vízesés jellemzi.",
+      ro: "Houaïlou este o comună de pe coasta de est a Grande Terre, cunoscută pentru istoria sa minieră bogată și importanța agricolă. Regiunea este faimoasă în special pentru cultivarea litchiului, fructele de aici fiind considerate cele mai bune din teritoriu. Peisajul este marcat de munți abrupți, văi adânci și numeroase cascade.",
+      en: "Houaïlou is a municipality on the east coast of Grande Terre, known for its rich mining history and agricultural significance. The region is particularly famous for growing lychees, which are considered the finest in the territory. Its landscape is characterized by rugged mountains, deep valleys, and numerous waterfalls flowing into the Pacific Ocean.",
+    },
+    factsAdvanced: {
+      de: ["Veranstaltet jedes Jahr im Dezember das Litschi-Fest.", "War einer der ersten Orte für den Nickelabbau in Neukaledonien.", "Die Gemeinde erstreckt sich über 940 Quadratkilometer.", "Beherbergt das technische Gymnasium von Houaïlou.", "Der Ba-Wasserfall ist eine bekannte lokale Sehenswürdigkeit.", "Ist über die kurvenreiche 'Col des Roussettes' Straße erreichbar."],
+      hu: ["Minden év decemberében megrendezik a Licsi-fesztivált.", "Új-Kaledónia egyik első nikkelbányászati helyszíne volt.", "A település területe 940 négyzetkilométer.", "Itt található a Houaïlou-i műszaki gimnázium.", "A Ba-vízesés a környék egyik legismertebb látnivalója.", "A kanyargós 'Col des Roussettes' hágón keresztül érhető el."],
+      ro: ["Găzduiește în fiecare decembrie festivalul litchiului.", "A fost unul dintre primele locuri de extracție a nichelului.", "Comuna se întinde pe o suprafață de 940 km².", "Găzduiește un liceu tehnic important pentru regiune.", "Cascada Ba este o atracție naturală locală renumită.", "Accesul se face prin pasul montan pitoresc 'Col des Roussettes'."],
+      en: ["Hosts the annual Lychee Festival every December.", "One of the earliest sites for nickel mining in New Caledonia.", "The municipality covers an area of 940 square kilometers.", "Home to a significant technical vocational school.", "The Ba waterfall is a prominent local natural landmark.", "Accessible via the scenic and winding 'Col des Roussettes' pass."],
+    },
   },
   {
     id: "newcaledonia-canala-cities-v2",
@@ -171,6 +267,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Originally founded in 1858 under the name Napoleonville.", "Famous for its thermal hot springs and spectacular waterfalls.", "Significant center for Kanak culture and political movements.", "The settlement is located in a deep bay surrounded by mountains."],
     },
     imageHint: "Canala bay surrounded by steep green hills",
+    descriptionAdvanced: {
+      de: "Canala liegt an der Ostküste von Grande Terre in einer tiefen Bucht und ist ein historisches Zentrum des Nickelbergbaus. Die Gemeinde ist bekannt für ihre Thermalquellen und spektakulären Wasserfälle, wie den Ciu-Wasserfall. Canala spielt eine wichtige Rolle in der Geschichte der Kanak-Bürgerrechtsbewegung und bewahrt eine starke kulturelle Identität.",
+      hu: "Canala Grande Terre keleti partján, egy mély öbölben fekszik, és a nikkelbányászat egyik történelmi központja. A település termálforrásairól és látványos vízeséseiről, például a Ciu-vízesésről ismert. Canala fontos szerepet játszott a kanak polgárjogi mozgalom történetében, és erős kulturális identitással rendelkezik.",
+      ro: "Canala este situată pe coasta de est a insulei Grande Terre, într-un golf adânc, fiind un centru istoric al mineritului de nichel. Comuna este cunoscută pentru izvoarele sale termale și cascadele spectaculoase, cum ar fi cascada Ciu. Canala ocupă un loc important în istoria mișcărilor politice Kanak.",
+      en: "Canala is located on the east coast of Grande Terre in a deep bay and is a historical center for nickel mining. The municipality is known for its thermal springs and spectacular waterfalls, such as the Ciu Waterfall. Canala played a significant role in the history of the Kanak political movement and maintains a strong cultural identity.",
+    },
+    factsAdvanced: {
+      de: ["Die Gemeinde hieß früher Napoléonville.", "Beherbergt Thermalquellen im Dorf La Crouen.", "Der Ciu-Wasserfall gehört zu den höchsten der Insel.", "Nickel wird hier seit dem späten 19. Jahrhundert abgebaut.", "Die Region ist reich an tropischen Obstgärten.", "Befindet sich am Ende einer tiefen, fjordähnlichen Bucht."],
+      hu: ["A település korábbi neve Napoléonville volt.", "La Crouen faluban termálforrások találhatók.", "A Ciu-vízesés a sziget egyik legmagasabb vízesése.", "A nikkelt a 19. század vége óta bányásszák itt.", "A régió trópusi gyümölcsöskertjeiről is nevezetes.", "Egy mély, fjordszerű öböl végén helyezkedik el."],
+      ro: ["Comuna a fost numită inițial Napoléonville.", "Găzduiește izvoare termale în localitatea La Crouen.", "Cascada Ciu este una dintre cele mai înalte din insulă.", "Nichelul este extras aici încă de la sfârșitul secolului XIX.", "Regiunea este bogată în livezi de fructe tropicale.", "Este situată în capătul unui golf adânc, similar unui fiord."],
+      en: ["The municipality was formerly named Napoléonville.", "Home to thermal springs in the village of La Crouen.", "The Ciu waterfall is one of the highest on the island.", "Nickel has been mined here since the late 19th century.", "The region is rich in tropical fruit orchards.", "Located at the head of a deep, fjord-like bay."],
+    },
   },
   {
     id: "newcaledonia-thio-cities-v2",
@@ -190,6 +298,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["The first nickel ore on the island was mined here in 1876.", "Features an interesting mining museum located at the old mine site.", "Major shipping port for ore transportation by sea.", "Famous for its flying foxes (large bats) native to the area."],
     },
     imageHint: "Old nickel mine machinery and coast at Thio",
+    descriptionAdvanced: {
+      de: "Thio ist die Wiege des Nickelbergbaus in Neukaledonien, wo im Jahr 1874 der erste Abbau begann. Die Stadt an der Ostküste ist eng mit der Geschichte der Firma SLN verbunden und beherbergt ein interessantes Bergbaumuseum. Trotz der industriellen Prägung bietet die Umgebung von Thio unberührte Strände und eine beeindruckende Bergkulisse.",
+      hu: "Thio az új-kaledóniai nikkelbányászat bölcsője, ahol 1874-ben megkezdődött az első kitermelés. A keleti parti város szorosan kötődik az SLN vállalat történetéhez, és egy érdekes bányászati múzeumnak is otthont ad. Az ipari jelleg ellenére Thio környéke érintetlen tengerpartokat és lenyűgöző hegyi tájakat kínál.",
+      ro: "Thio este leagănul mineritului de nichel în Noua Caledonie, locul unde prima extracție a început în anul 1874. Orașul de pe coasta de est este strâns legat de istoria companiei SLN și găzduiește un muzeu minier interesant. În ciuda caracterului industrial, zona oferă plaje virgine și peisaje montane impresionante.",
+      en: "Thio is the cradle of nickel mining in New Caledonia, where the first extraction began in 1874. The town on the east coast is closely tied to the history of the SLN company and hosts an informative mining museum. Despite its industrial heritage, the area around Thio offers pristine beaches and a stunning mountain backdrop.",
+    },
+    factsAdvanced: {
+      de: ["Erster Ort für Nickelabbau in Neukaledonien (1874).", "Beherbergt das Museum der Bergbaugeschichte von Thio.", "Die SLN-Mine Plateau ist eine der ältesten noch aktiven.", "Diente im 19. Jahrhundert als wichtiger Hafen für Erze.", "Die Gemeinde hat eine Fläche von etwa 1.000 Quadratkilometern.", "Ein Denkmal erinnert an die politischen Ereignisse von 1984."],
+      hu: ["Az első nikkelbányászati helyszín Új-Kaledóniában (1874).", "Itt található a Thio-i Bányászattörténeti Múzeum.", "Az SLN Plateau bányája az egyik legrégebbi aktív bánya.", "A 19. században az érckivitel fontos kikötője volt.", "A település területe körülbelül 1000 négyzetkilométer.", "Emlékmű őrzi az 1984-es politikai események emlékét."],
+      ro: ["Primul sit de extracție a nichelului din teritoriu (1874).", "Găzduiește Muzeul de Istorie Minieră din Thio.", "Mina SLN Plateau este una dintre cele mai vechi active.", "A servit ca port major pentru exportul de minereu în sec. XIX.", "Comuna acoperă o suprafață de aproximativ 1.000 km².", "Un monument comemorează evenimentele politice din 1984."],
+      en: ["First site for nickel mining in New Caledonia (1874).", "Home to the Museum of Mining History in Thio.", "The SLN Plateau mine is one of the oldest still in operation.", "Served as a major port for ore export in the 19th century.", "The municipality covers an area of about 1,000 square kilometers.", "A monument commemorates the political events of 1984."],
+    },
   },
   {
     id: "newcaledonia-hienghene-cities-v2",
@@ -209,6 +329,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Home to the famous 'Brooding Hen' limestone rock in the bay.", "Former stronghold of the Kanak leader Jean-Marie Tjibaou.", "Renowned for the black limestone cliffs of Lindéralique.", "Major hub for cultural tourism in the North Province."],
     },
     imageHint: "The 'Brooding Hen' rock formation in Hienghène bay",
+    descriptionAdvanced: {
+      de: "Hienghène ist einer der malerischsten Orte Neukaledoniens, bekannt für seine spektakulären schwarzen Kalksteinfelsen. Die Formationen 'Die brütende Henne' und 'Die Sphinx' sind weltberühmte Wahrzeichen der Region. Die Gemeinde ist auch historisch bedeutend als Geburtsort von Jean-Marie Tjibaou, einer zentralen Figur der Kanak-Identität.",
+      hu: "Hienghène Új-Kaledónia egyik legfestőibb települése, amely látványos fekete mészkőszikláiról ismert. A 'Kotló tyúk' és a 'Szfinx' nevű formációk a régió világhírű jelképei. A település történelmi jelentőségű is, mint Jean-Marie Tjibaou, a kanak identitás központi alakjának szülőhelye.",
+      ro: "Hienghène este una dintre cele mai pitorești localități din Noua Caledonie, faimoasă pentru stâncile sale de calcar negru. Formațiunile 'Găina Clocitoare' și 'Sfinxul' sunt repere naturale recunoscute mondial. Comuna are și o importanță istorică, fiind locul de naștere al lui Jean-Marie Tjibaou.",
+      en: "Hienghène is one of the most picturesque locations in New Caledonia, famous for its spectacular black limestone cliffs. The rock formations known as 'The Brooding Hen' and 'The Sphinx' are world-renowned landmarks of the region. The municipality is also historically significant as the birthplace of Jean-Marie Tjibaou, a central figure in Kanak identity.",
+    },
+    factsAdvanced: {
+      de: ["Bekannt für die Felsformation 'La Poule Couveuse'.", "Geburtsort des Kanak-Anführers Jean-Marie Tjibaou.", "Die Lindéralique-Klippen ragen bis zu 60 Meter hoch auf.", "Beherbergt das Kulturzentrum Goa Ma Bwarhat.", "Die Region ist ein UNESCO-Weltnaturerbe (Riffe).", "Befindet sich an der Nordostküste von Grande Terre."],
+      hu: ["A 'La Poule Couveuse' (Kotló tyúk) sziklaalakzatáról híres.", "Itt született Jean-Marie Tjibaou kanak vezető.", "A Lindéralique-sziklák akár 60 méter magasra is emelkednek.", "Itt található a Goa Ma Bwarhat Kulturális Központ.", "A régió zátonyai az UNESCO Világörökség részét képezik.", "Grande Terre északkeleti partján fekszik."],
+      ro: ["Renumit pentru formațiunea stâncoasă 'Găina Clocitoare'.", "Locul de naștere al liderului Kanak Jean-Marie Tjibaou.", "Stâncile Lindéralique se înalță până la 60 de metri.", "Găzduiește Centrul Cultural Goa Ma Bwarhat.", "Recifele din regiune sunt incluse în Patrimoniul UNESCO.", "Situată pe coasta de nord-est a insulei Grande Terre."],
+      en: ["Famous for 'The Brooding Hen' (La Poule Couveuse) rock.", "Birthplace of the Kanak leader Jean-Marie Tjibaou.", "The Lindéralique cliffs rise up to 60 meters high.", "Home to the Goa Ma Bwarhat Cultural Centre.", "The surrounding reefs are part of a UNESCO World Heritage site.", "Located on the northeast coast of Grande Terre."],
+    },
   },
   {
     id: "newcaledonia-la-foa-cities-v2",
@@ -228,6 +360,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Home to the historical Passerelle Marguerite, a suspension bridge by Eiffel.", "Hosts a well-known international film festival every year.", "Major transport junction between the south and north of the island.", "The region is known for its coffee plantations and cattle ranching."],
     },
     imageHint: "La Foa town hall and the Marguerite bridge",
+    descriptionAdvanced: {
+      de: "La Foa ist eine charmante Gemeinde im Zentrum von Grande Terre, die für ihre landwirtschaftliche Tradition und ihr kulturelles Engagement bekannt ist. Die Stadt dient als wichtiger Verkehrsknotenpunkt zwischen dem Süden und dem Norden der Insel. Wahrzeichen von La Foa ist die Passerelle Marguerite, eine historische Hängebrücke, die den Fluss La Foa überspannt.",
+      hu: "La Foa egy bájos település Grande Terre központi részén, amely mezőgazdasági hagyományairól és kulturális életéről ismert. A város fontos közlekedési csomópontként szolgál a sziget déli és északi része között. La Foa jelképe a Passerelle Marguerite, egy történelmi függőhíd, amely a La Foa-folyót íveli át.",
+      ro: "La Foa este o comună fermecătoare în centrul Grande Terre, cunoscută pentru tradiția sa agricolă și angajamentul cultural. Orașul servește ca un nod de transport vital între sudul și nordul insulei. Simbolul localității este Passerelle Marguerite, un pod suspendat istoric peste râul La Foa.",
+      en: "La Foa is a charming municipality in the center of Grande Terre, known for its agricultural traditions and cultural activities. The town serves as a vital transportation link between the south and north of the island. A landmark of La Foa is the Passerelle Marguerite, a historic suspension bridge spanning the La Foa River.",
+    },
+    factsAdvanced: {
+      de: ["Die Hängebrücke Passerelle Marguerite wurde 1909 erbaut.", "Veranstaltet jährlich ein bekanntes internationales Filmfestival.", "Ist ein Zentrum für den Anbau von Kaffee und Kartoffeln.", "Die Gemeinde liegt etwa 110 Kilometer nördlich von Nouméa.", "Beherbergt den Skulpturenpark im Zentrum des Ortes.", "Diente früher als Standort für eine Strafkolonie."],
+      hu: ["A Passerelle Marguerite függőhíd 1909-ben épült.", "Évente neves nemzetközi filmfesztiválnak ad otthont.", "A kávé- és burgonyatermesztés egyik központja.", "Körülbelül 110 kilométerre északra fekszik Nouméától.", "A város központjában egy szoborpark található.", "Korábban büntetőgyarmatként is funkcionált a terület."],
+      ro: ["Podul suspendat Passerelle Marguerite a fost construit în 1909.", "Găzduiește anual un festival internațional de film renumit.", "Este un centru pentru cultivarea cafelei și a cartofilor.", "Comuna se află la aproximativ 110 kilometri nord de Nouméa.", "Include un parc de sculpturi în centrul localității.", "A servit în trecut ca locație pentru o colonie penitenciară."],
+      en: ["The Passerelle Marguerite suspension bridge was built in 1909.", "Hosts a well-known annual international film festival.", "A center for the cultivation of coffee and potatoes.", "Located approximately 110 kilometers north of Nouméa.", "Features a sculpture park in the town center.", "Historically served as a site for a penal colony."],
+    },
   },
   {
     id: "newcaledonia-voh-cities-v2",
@@ -247,6 +391,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["The 'Heart of Voh' became iconic through Yann Arthus-Bertrand's aerial photos.", "Once a major center for coffee production in New Caledonia.", "Located at the foot of the Koniambo massif with its nickel deposits.", "The commune has a long tradition in both mining and agriculture."],
     },
     imageHint: "Aerial view of the Heart of Voh mangrove",
+    descriptionAdvanced: {
+      de: "Voh ist eine Gemeinde in der Nordprovinz von Neukaledonien, die vor allem für das Herz von Voh bekannt ist. Dieses natürliche Herzsymbol in den Mangroven wurde durch Luftaufnahmen weltweit berühmt. Die Wirtschaft der Region wird maßgeblich durch das massive Koniambo-Nickelprojekt bestimmt, das eines der größten Vorkommen der Welt erschließt. Die Landschaft bietet eine Mischung aus Küstengebieten und Gebirgszügen.",
+      hu: "Voh egy település Új-Kaledónia Északi tartományában, amely leginkább a Voh-szív néven ismert természeti képződményről híres. Ez a mangroveerdőben kialakult szív alakú terület a légi fotózásnak köszönhetően vált világhírűvé. A térség gazdaságát a Koniambo-nikkelbánya határozza meg, amely a világ egyik legjelentősebb lelőhelye. A tájat tengerparti övezetek és hegyvonulatok változatos elegye alkotja.",
+      ro: "Voh este o comună în Provincia de Nord a Noii Caledonii, faimoasă în special pentru Inima din Voh. Această formidabilă formațiune naturală din mangrove a devenit celebră la nivel mondial prin fotografiile aeriene. Economia regiunii este dominată de proiectul minier Koniambo, care exploatează unul dintre cele mai mari zăcăminte de nichel din lume. Peisajul local îmbină zonele de coastă cu lanțurile muntoase impunătoare.",
+      en: "Voh is a commune in the North Province of New Caledonia, primarily famous for the Heart of Voh. This natural heart-shaped formation in the mangroves gained worldwide fame through aerial photography. The region's economy is significantly driven by the massive Koniambo nickel project, one of the largest deposits in the world. The landscape offers a diverse mix of coastal areas and rugged mountain ranges.",
+    },
+    factsAdvanced: {
+      de: ["Das Herz von Voh wurde 1990 durch Yann Arthus-Bertrand fotografiert.", "Das Koniambo-Nickelprojekt startete den Betrieb im Jahr 2013.", "Die Gemeinde erstreckt sich über eine Fläche von 805 Quadratkilometern.", "Der Mount Voh erreicht eine maximale Höhe von 1.011 Metern.", "Voh liegt etwa 300 Kilometer nordwestlich der Hauptstadt Nouméa.", "Die Region beherbergt bedeutende archäologische Stätten der Lapita-Kultur."],
+      hu: ["A Voh-szívet Yann Arthus-Bertrand fotója tette híressé 1990-ben.", "A Koniambo nikkelprojekt 2013-ban kezdte meg a termelést.", "A település területe megközelítőleg 805 négyzetkilométer.", "A Voh-hegy legmagasabb pontja 1011 méterrel magasodik a tengerszint fölé.", "Voh mintegy 300 kilométerre északnyugatra fekszik Nouméa városától.", "A környéken jelentős Lapita-kori régészeti lelőhelyek találhatók."],
+      ro: ["Inima din Voh a fost fotografiată de Yann Arthus-Bertrand în 1990.", "Proiectul minier Koniambo a început producția industrială în anul 2013.", "Comuna se întinde pe o suprafață de aproximativ 805 kilometri pătrați.", "Muntele Voh atinge o altitudine maximă de 1.011 metri.", "Voh se află la circa 300 de kilometri nord-vest de capitala Nouméa.", "Regiunea adăpostește situri arheologice importante ale culturii Lapita."],
+      en: ["The Heart of Voh was made famous by Yann Arthus-Bertrand's 1990 photo.", "The Koniambo nickel project began industrial production in 2013.", "The commune covers a land area of approximately 805 square kilometers.", "Mount Voh reaches a maximum elevation of 1,011 meters above sea level.", "Voh is located about 300 kilometers northwest of the capital, Nouméa.", "The area contains significant archaeological sites from the Lapita culture."],
+    },
   },
   {
     id: "newcaledonia-pouembout-cities-v2",
@@ -266,6 +422,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Home to an important vocational agricultural college.", "Key site for the administration and logistics of the Koniambo project.", "The town has become a major residential area for mine workers.", "Located in a wide plain ideal for cattle ranching."],
     },
     imageHint: "Modern agricultural college buildings in Pouembout",
+    descriptionAdvanced: {
+      de: "Pouembout fungiert als administratives Zentrum der Nordprovinz und liegt an der Westküste von Grande Terre. Die Stadt ist ein wichtiger Knotenpunkt für die Landwirtschaft, insbesondere für die Rinderzucht und den Reisanbau. Durch die Nähe zum Bergbauzentrum Voh hat sich Pouembout in den letzten Jahren rasant entwickelt. Die Umgebung ist geprägt von weiten Ebenen und trockenen Waldgebieten.",
+      hu: "Pouembout az Északi tartomány adminisztratív központjaként működik Grande Terre nyugati partján. A város a mezőgazdaság fontos csomópontja, különösen a szarvasmarha-tenyésztés és a rizstermesztés tekintetében jelentős. A szomszédos Voh bányászati központjának közelsége miatt Pouembout gyors fejlődésen ment keresztül az elmúlt években. Környékét tágas síkságok és száraz erdőségek jellemzik.",
+      ro: "Pouembout funcționează ca centru administrativ al Provinciei de Nord, fiind situat pe coasta de vest a insulei Grande Terre. Orașul este un nod agricol important, remarcându-se prin creșterea bovinelor și cultivarea orezului. Datorită proximității față de centrul minier Voh, Pouembout a cunoscut o dezvoltare rapidă în ultimii ani. Împrejurimile sunt caracterizate de câmpii întinse și zone de pădure uscată.",
+      en: "Pouembout serves as the administrative center of the North Province, located on the west coast of Grande Terre. The town is a vital hub for agriculture, particularly cattle ranching and rice cultivation. Due to its proximity to the mining center of Voh, Pouembout has experienced rapid development in recent years. The surrounding landscape is defined by vast plains and dry forest areas.",
+    },
+    factsAdvanced: {
+      de: ["Pouembout wurde offiziell im Jahr 1883 als Siedlung gegründet.", "Die Gemeinde umfasst eine Landfläche von 674 Quadratkilometern.", "Hier befindet sich der Sitz der Provinzversammlung der Nordprovinz.", "Die Stadt liegt am Ufer des gleichnamigen Flusses Pouembout.", "Das Klima ist semiarid mit einer ausgeprägten Trockenzeit.", "Die Bevölkerung hat sich seit dem Jahr 2000 nahezu verdoppelt."],
+      hu: ["Pouembout települését hivatalosan 1883-ban alapították.", "A község teljes területe 674 négyzetkilométert tesz ki.", "Itt található az Északi tartomány tartományi gyűlésének székhelye.", "A város a hasonló nevet viselő Pouembout-folyó partján fekszik.", "Éghajlata félszáraz, kifejezett száraz évszakkal rendelkezik.", "Lakossága 2000 óta csaknem a duplájára emelkedett."],
+      ro: ["Pouembout a fost fondat oficial ca așezare în anul 1883.", "Comuna ocupă o suprafață terestră de 674 de kilometri pătrați.", "Aici se află sediul adunării provinciale a Provinciei de Nord.", "Orașul este situat pe malurile râului omonim, Pouembout.", "Climatul local este semiarid, cu o perioadă de secetă marcată.", "Populația localității s-a dublat aproape complet din anul 2000."],
+      en: ["Pouembout was officially established as a settlement in 1883.", "The commune covers a land area of 674 square kilometers.", "It hosts the headquarters of the North Province Assembly.", "The town is situated on the banks of the Pouembout River.", "The climate is semi-arid with a distinct dry season period.", "The population has nearly doubled since the year 2000."],
+    },
   },
   {
     id: "newcaledonia-ouegoa-cities-v2",
@@ -285,6 +453,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["The first gold in New Caledonia was discovered here in the 19th century.", "The commune is situated along the Diahot, the territory's longest river.", "Known for its fertile soils and the cultivation of vanilla.", "A quiet town surrounded by many traditional Kanak villages."],
     },
     imageHint: "The Diahot River flowing near Ouégoa",
+    descriptionAdvanced: {
+      de: "Ouégoa liegt im hohen Norden von Grande Terre am Ufer des Diahot, dem längsten Fluss Neukaledoniens. Die Gemeinde blickt auf eine reiche Bergbaugeschichte zurück, in der im 19. Jahrhundert Gold, Kupfer und Blei abgebaut wurden. Heute ist die Region vor allem landwirtschaftlich geprägt, wobei Viehzucht und Obstanbau dominieren. Die bergige Landschaft bietet spektakuläre Ausblicke auf das Flusstal und die ferne Küste.",
+      hu: "Ouégoa Grande Terre távoli északi részén fekszik a Diahot-folyó partján, amely Új-Kaledónia leghosszabb folyója. A település gazdag bányászati múlttal rendelkezik, a 19. században aranyat, rezet és ólmot is bányásztak itt. Napjainkban a régió főként mezőgazdasági jellegű, az állattenyésztés és a gyümölcstermesztés dominál. A hegyvidéki táj látványos kilátást nyújt a folyóvölgyre és a távoli partvidékre.",
+      ro: "Ouégoa este situată în nordul extrem al insulei Grande Terre, pe malurile râului Diahot, cel mai lung curs de apă din Noua Caledonie. Comuna are o istorie minieră bogată, aici exploatându-se aur, cupru și plumb în secolul al XIX-lea. Astăzi, regiunea este predominant agricolă, cu accent pe creșterea animalelor și pomicultură. Peisajul montan oferă vederi spectaculoase asupra văii râului și a coastei îndepărtate.",
+      en: "Ouégoa is located in the far north of Grande Terre on the banks of the Diahot, New Caledonia's longest river. The commune boasts a rich mining history, having seen the extraction of gold, copper, and lead in the 19th century. Today, the region is primarily agricultural, dominated by cattle ranching and fruit farming. Its mountainous landscape offers spectacular views over the river valley and the distant coastline.",
+    },
+    factsAdvanced: {
+      de: ["Gold wurde erstmals im Jahr 1863 im Diahot-Tal entdeckt.", "Der Diahot-Fluss ist mit 100 Kilometern der längste des Archipels.", "Die Kupfermine 'Fernand' stellte ihren Betrieb im Jahr 1927 ein.", "Die Gemeinde umfasst eine Fläche von 656 Quadratkilometern.", "Ouégoa liegt etwa 40 Kilometer nördlich der Stadt Koumac.", "Das Dorf war im 19. Jahrhundert ein Zentrum für Bergbau-Einwanderer."],
+      hu: ["Az aranyat 1863-ban fedezték fel először a Diahot-völgyben.", "A Diahot-folyó 100 kilométeres hosszával a szigetcsoport leghosszabbja.", "A 'Fernand' rézbánya 1927-ben fejezte be végleg a működését.", "A község teljes kiterjedése 656 négyzetkilométert tesz ki.", "Ouégoa mintegy 40 kilométerre északra található Koumac városától.", "A falu a 19. században a bányászati bevándorlók egyik központja volt."],
+      ro: ["Aurul a fost descoperit pentru prima dată în valea Diahot în 1863.", "Râul Diahot este cel mai lung din arhipelag, având 100 de kilometri.", "Mina de cupru 'Fernand' și-a încetat activitatea în anul 1927.", "Comuna se întinde pe o suprafață de 656 de kilometri pătrați.", "Ouégoa se află la aproximativ 40 de kilometri nord de orașul Koumac.", "Satul a fost un centru pentru imigranții minieri în secolul al XIX-lea."],
+      en: ["Gold was first discovered in the Diahot Valley in 1863.", "The Diahot River is the archipelago's longest at 100 kilometers.", "The 'Fernand' copper mine ceased its operations in 1927.", "The commune covers an area of 656 square kilometers.", "Ouégoa is located about 40 kilometers north of the town of Koumac.", "The village was a hub for mining immigrants during the 19th century."],
+    },
   },
   {
     id: "newcaledonia-puebo-cities-v2",
@@ -304,6 +484,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Site of the official annexation of New Caledonia by France in 1853.", "Known for its stunning waterfalls, such as the Tao Waterfall.", "Important center for crafts, especially serpentine stone carvings.", "The commune is deeply influenced by Catholic traditions."],
     },
     imageHint: "Historical monument and Catholic church in Pouébo",
+    descriptionAdvanced: {
+      de: "Pouébo ist ein historisch bedeutsamer Ort an der Nordostküste von Grande Terre. Hier landete James Cook im Jahr 1774 als erster Europäer auf der Insel und gab ihr den Namen Neukaledonien. Die Gemeinde war später das Zentrum der ersten katholischen Missionen im Archipel. Heute ist Pouébo für seine üppige Vegetation, Wasserfälle und die starke Bewahrung der Kanak-Kultur bekannt.",
+      hu: "Pouébo történelmileg jelentős település Grande Terre északkeleti partján. James Cook 1774-ben itt lépett először partra európaiként, és ő nevezte el a szigetet Új-Kaledóniának. A község később a szigetcsoport első katolikus misszióinak központjává vált. Ma Pouébo dús vegetációjáról, vízeséseiről és a kanaki kultúra erős hagyományőrzéséről ismert.",
+      ro: "Pouébo este o localitate de o importanță istorică deosebită, situată pe coasta de nord-est a insulei Grande Terre. Aici a debarcat James Cook în 1774, fiind primul european care a ajuns pe insulă și botezând-o Noua Caledonie. Ulterior, comuna a fost centrul primelor misiuni catolice din arhipelag. Astăzi, Pouébo este cunoscut pentru vegetația luxuriantă, cascade și păstrarea culturii Kanak.",
+      en: "Pouébo is a historically significant location on the northeast coast of Grande Terre. It was here that James Cook first landed in 1774, becoming the first European to set foot on the island and naming it New Caledonia. The commune later served as the center for the first Catholic missions in the archipelago. Today, Pouébo is known for its lush vegetation, waterfalls, and strong preservation of Kanak culture.",
+    },
+    factsAdvanced: {
+      de: ["James Cook landete hier am 4. September 1774.", "Die erste katholische Mission wurde im Jahr 1843 gegründet.", "Die Gemeinde erstreckt sich über eine Fläche von 202 Quadratkilometern.", "Pouébo beherbergt die älteste Kirche Neukaledoniens aus dem Jahr 1860.", "Die Region ist bekannt für den Anbau von Yamswurzeln und Taro.", "Zahlreiche Wasserfälle wie der Colnett-Fall befinden sich in der Nähe."],
+      hu: ["James Cook 1774. szeptember 4-én kötött ki ezen a helyen.", "Az első katolikus missziót 1843-ban alapították a területen.", "A község területe 202 négyzetkilométeres kiterjedéssel bír.", "Itt található Új-Kaledónia legrégebbi temploma, amely 1860-ból származik.", "A régió híres a jamgyökér és a taró hagyományos termesztéséről.", "A közelben számos vízesés, köztük a Colnett-vízesés is megtalálható."],
+      ro: ["James Cook a debarcat aici pe data de 4 septembrie 1774.", "Prima misiune catolică a fost înființată în anul 1843.", "Comuna se întinde pe o suprafață de 202 kilometri pătrați.", "Adăpostește cea mai veche biserică din Noua Caledonie, datând din 1860.", "Regiunea este renumită pentru cultivarea ignamelor și a taro-ului.", "Numeroase cascade, precum cascada Colnett, se află în apropiere."],
+      en: ["James Cook landed at this location on September 4, 1774.", "The first Catholic mission was established here in 1843.", "The commune covers a land area of 202 square kilometers.", "It is home to New Caledonia's oldest church, built in 1860.", "The region is known for growing traditional yams and taro.", "Numerous waterfalls, such as the Colnett Fall, are located nearby."],
+    },
   },
   {
     id: "newcaledonia-touho-cities-v2",
@@ -323,6 +515,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Touho airfield connects the east coast with Nouméa.", "Home to a well-known vocational hotel management school.", "Touho Bay is recognized for its rich marine biodiversity.", "A gateway to the spectacular hiking trails of the central mountains."],
     },
     imageHint: "Touho airfield runway and coconut groves",
+    descriptionAdvanced: {
+      de: "Touho ist eine Küstengemeinde an der Ostküste von Grande Terre, die für ihre landschaftliche Schönheit und den regionalen Flughafen bekannt ist. Die Region bietet hervorragende Möglichkeiten zum Tauchen und Schnorcheln in den umliegenden Korallenriffen. Touho dient als Tor zu den abgelegenen Tälern des Hinterlandes und bewahrt eine authentische melanesische Lebensweise. Die Küstenstraße bietet spektakuläre Ausblicke auf den Pazifik.",
+      hu: "Touho egy partmenti település Grande Terre keleti partján, amely természeti szépségéről és regionális repülőteréről ismert. A környék kiváló lehetőségeket kínál a búvárkodásra és a sznorkelezésre a környező korallzátonyokon. Touho kapuként szolgál a szárazföld távoli völgyei felé, és hűen őrzi az autentikus melanéz életmódot. A parti út látványos kilátást nyújt a Csendes-óceánra.",
+      ro: "Touho este o comună de coastă pe malul estic al insulei Grande Terre, cunoscută pentru frumusețea peisajelor și aeroportul său regional. Regiunea oferă oportunități excelente pentru scufundări și snorkeling în recifele de corali învecinate. Touho servește ca poartă de acces către văile izolate din interiorul insulei și păstrează un mod de viață melanez autentic. Șoseaua de coastă oferă panorame spectaculoase spre Pacific.",
+      en: "Touho is a coastal commune on the east coast of Grande Terre, known for its scenic beauty and regional airport. The area offers excellent opportunities for diving and snorkeling in the surrounding coral reefs. Touho serves as a gateway to the remote valleys of the hinterland and preserves an authentic Melanesian way of life. The coastal road provides spectacular views of the Pacific Ocean.",
+    },
+    factsAdvanced: {
+      de: ["Der Flughafen Touho trägt den IATA-Code TOH.", "Die Gemeinde erstreckt sich über 283 Quadratkilometer Fläche.", "Die Bevölkerung beträgt etwa 2.300 Einwohner (Stand 2019).", "Touho liegt an der Mündung des Flusses Tiwaka.", "Das Gebiet ist Teil des UNESCO-Weltnaturerbes der Lagunen.", "Die Region ist bekannt für ihr Handwerk aus Pandanus-Blättern."],
+      hu: ["A Touho repülőtér a TOH nemzetközi IATA-kódot viseli.", "A község teljes területe 283 négyzetkilométert foglal el.", "A lakosság száma a 2019-es adatok szerint körülbelül 2300 fő.", "Touho települése a Tiwaka-folyó torkolatánál helyezkedik el.", "A terület az UNESCO Világörökség részét képező lagúnákhoz tartozik.", "A régió a pandanuszlevelekből készült kézműves termékeiről ismert."],
+      ro: ["Aeroportul Touho are codul internațional IATA: TOH.", "Comuna se întinde pe o suprafață de 283 de kilometri pătrați.", "Populația este de aproximativ 2.300 de locuitori (conform 2019).", "Touho este situat la gura de vărsare a râului Tiwaka.", "Zona face parte din Patrimoniul Mondial UNESCO pentru lagune.", "Regiunea este cunoscută pentru meșteșugurile din frunze de pandanus."],
+      en: ["Touho Airport carries the international IATA code TOH.", "The commune covers a land area of 283 square kilometers.", "The population is approximately 2,300 inhabitants (as of 2019).", "Touho is situated at the mouth of the Tiwaka River.", "The area is part of the UNESCO World Heritage lagoons site.", "The region is known for its handicrafts made from pandanus leaves."],
+    },
   },
   {
     id: "newcaledonia-ponerihouen-cities-v2",
@@ -342,6 +546,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Famous for the production of high-quality coffee and cocoa.", "The town sits by a wide river that frequently floods the main road.", "Major center for traditional Kanak festivals and customs.", "Founded in 1883 as a military outpost."],
     },
     imageHint: "Lush tropical scenery and river in Ponérihouen",
+    descriptionAdvanced: {
+      de: "Ponérihouen liegt an der Ostküste von Grande Terre an der Mündung des gleichnamigen Flusses. Die Gemeinde ist historisch für ihre Landwirtschaft bekannt, insbesondere für den Anbau von Kaffee und Zitrusfrüchten. Die Landschaft ist geprägt von dichten Wäldern und fruchtbaren Tälern, die tief in das Zentrale Gebirge führen. Ponérihouen ist ein wichtiges Zentrum der Kanak-Kultur mit zahlreichen traditionellen Stämmen.",
+      hu: "Ponérihouen Grande Terre keleti partján, a hasonló nevű folyó torkolatánál fekszik. A település történelmileg mezőgazdaságáról, különösen kávé- és citrusfélék termesztéséről ismert. A tájat sűrű erdők és termékeny völgyek jellemzik, amelyek mélyen benyúlnak a Központi-hegységbe. Ponérihouen a kanaki kultúra egyik fontos központja, ahol számos hagyományos törzs él.",
+      ro: "Ponérihouen este situat pe coasta de est a insulei Grande Terre, la gura de vărsare a râului omonim. Comuna este cunoscută istoric pentru agricultura sa, în special pentru cultivarea cafelei și a citricelor. Peisajul este marcat de păduri dense și văi fertile care pătrund adânc în Lanțul Central muntos. Ponérihouen este un centru important al culturii Kanak, cu numeroase triburi tradiționale.",
+      en: "Ponérihouen is situated on the east coast of Grande Terre at the mouth of the river of the same name. The commune is historically known for its agriculture, particularly the cultivation of coffee and citrus fruits. The landscape is characterized by dense forests and fertile valleys leading deep into the Central Range. Ponérihouen is a significant center of Kanak culture with numerous traditional tribes.",
+    },
+    factsAdvanced: {
+      de: ["Die Gemeinde umfasst eine Fläche von 707 Quadratkilometern.", "Ponérihouen wurde im Jahr 1883 offiziell gegründet.", "Der Ponérihouen-Fluss ist einer der wasserreichsten der Insel.", "Die Region war einst ein Hauptproduzent von 'Arabica'-Kaffee.", "Etwa 3.000 Menschen leben in der Gemeinde (Stand 2019).", "Das Dorf feiert jährlich ein bekanntes Orangenfestival."],
+      hu: ["A község teljes területe 707 négyzetkilométerre terjed ki.", "Ponérihouen települését hivatalosan 1883-ban alapították.", "A Ponérihouen-folyó a sziget egyik legbővizűbb folyóvize.", "A régió egykor az 'Arabica' kávé egyik fő termőterülete volt.", "A településen körülbelül 3000 ember él (2019-es adatok).", "A faluban évente megrendezik a népszerű Narancsfesztivált."],
+      ro: ["Comuna se întinde pe o suprafață de 707 kilometri pătrați.", "Ponérihouen a fost fondat oficial în anul 1883.", "Râul Ponérihouen este unul dintre cele mai bogate în debit de pe insulă.", "Regiunea a fost cândva un producător major de cafea 'Arabica'.", "Aproximativ 3.000 de persoane locuiesc în comună (conform 2019).", "Satul găzduiește anual un cunoscut festival al portocalelor."],
+      en: ["The commune covers a land area of 707 square kilometers.", "Ponérihouen was officially established in the year 1883.", "The Ponérihouen River is one of the island's most voluminous.", "The region was once a major producer of Arabica coffee.", "About 3,000 people live in the commune (as of 2019).", "The village hosts a well-known annual orange festival."],
+    },
   },
   {
     id: "newcaledonia-poya-cities-v2",
@@ -361,6 +577,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Administratively split between the North Province and the South Province.", "Important site for nickel mining in the neighboring mountains.", "Known for its expansive cattle ranches and agricultural output.", "The town center is located directly on the RT1 main highway."],
     },
     imageHint: "Poya town landscape and agricultural plains",
+    descriptionAdvanced: {
+      de: "Poya ist eine einzigartige Gemeinde an der Westküste von Grande Terre, da sie sich über die Grenze zwischen der Nord- und Südprovinz erstreckt. Die Wirtschaft basiert hauptsächlich auf der Nickelgewinnung im Bergbauzentrum Népoui und der Rinderzucht auf den weiten Savannen. Die Küstenzone umfasst ausgedehnte Mangroven und eine reiche marine Biodiversität. Poya ist auch für seine bedeutenden archäologischen Funde aus der Lapita-Ära bekannt.",
+      hu: "Poya egy egyedülálló település Grande Terre nyugati partján, mivel az Északi és a Déli tartomány határán terül el. Gazdasága főként a népouii bányászati központ nikkeltermelésén és a tágas szavannákon folytatott szarvasmarha-tenyésztésen alapul. A parti övezet kiterjedt mangroveerdőket és gazdag tengeri élővilágot foglal magában. Poya a Lapita-korszakból származó jelentős régészeti leleteiről is ismert.",
+      ro: "Poya este o comună unică pe coasta de vest a insulei Grande Terre, întinzându-se peste granița dintre Provincia de Nord și cea de Sud. Economia se bazează în principal pe extracția nichelului la centrul minier Népoui și pe creșterea bovinelor în savanele întinse. Zona de coastă cuprinde mangrove vaste și o biodiversitate marină bogată. Poya este, de asemenea, cunoscută pentru descoperiri arheologice importante din era Lapita.",
+      en: "Poya is a unique commune on the west coast of Grande Terre, as it straddles the border between the North and South Provinces. The economy is primarily based on nickel mining at the Népoui center and cattle ranching on vast savannas. Its coastal zone includes extensive mangroves and rich marine biodiversity. Poya is also noted for significant archaeological finds dating back to the Lapita era.",
+    },
+    factsAdvanced: {
+      de: ["Poya ist die einzige Gemeinde, die in zwei Provinzen liegt.", "Die Gemeinde erstreckt sich über 845 Quadratkilometer Fläche.", "Der Bergbauort Népoui besitzt einen eigenen Flugplatz.", "Wichtige Lapita-Töpfereien wurden hier in den 1970ern entdeckt.", "Die Region hat ein trockenes, tropisches Klima.", "Die Viehzucht wird auf großen Farmen, sogenannten 'Stations', betrieben."],
+      hu: ["Poya az egyetlen község, amely két tartomány területén fekszik.", "A település összesen 845 négyzetkilométernyi területet foglal el.", "Népoui bányásztelepülése saját repülőtérrel rendelkezik.", "Az 1970-es években fontos Lapita-kerámiákat fedeztek fel itt.", "A régió száraz, trópusi éghajlattal rendelkezik.", "Az állattenyésztés nagyméretű farmokon, úgynevezett 'állomásokon' zajlik."],
+      ro: ["Poya este singura comună situată în două provincii diferite.", "Comuna se întinde pe o suprafață de 845 de kilometri pătrați.", "Localitatea minieră Népoui are propriul său aerodrom.", "Ceramici Lapita importante au fost descoperite aici în anii '70.", "Regiunea are un climat tropical uscat, specific coastei de vest.", "Creșterea vitelor se face pe ferme mari, numite 'stations'."],
+      en: ["Poya is the only commune located across two provinces.", "The commune covers a land area of 845 square kilometers.", "The mining town of Népoui possesses its own airfield.", "Important Lapita potteries were discovered here in the 1970s.", "The region features a dry tropical savanna climate.", "Cattle ranching is practiced on large farms called 'stations'."],
+    },
   },
   {
     id: "newcaledonia-kaala-gomen-cities-v2",
@@ -380,6 +608,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Home to the Kaala massif, which is rich in nickel deposits.", "Important site for salt production in the coastal plains.", "The town served as a major US military base during World War II.", "The commune is known for its wide savanna landscapes."],
     },
     imageHint: "Savanna landscape and salt pans in Kaala-Gomen",
+    descriptionAdvanced: {
+      de: "Kaala-Gomen liegt an der Nordwestküste von Grande Terre und ist ein Zentrum des Nickelbergbaus, benannt nach dem markanten Kaala-Massiv. Die Gemeinde ist tief in der Kanak-Kultur verwurzelt und beherbergt mehrere traditionelle Stämme. Neben dem Bergbau spielt die Rinderzucht in den weiten Ebenen eine wichtige wirtschaftliche Rolle. Die Landschaft bietet einen beeindruckenden Kontrast zwischen den roten Erzen der Berge und dem Blau der Lagune.",
+      hu: "Kaala-Gomen Grande Terre északnyugati partján fekszik, és a nikkelbányászat egyik központja, amely a jellegzetes Kaala-masszívumról kapta a nevét. A település mélyen gyökerezik a kanaki kultúrában, és több hagyományos törzsnek ad otthont. A bányászat mellett a tágas síkságokon folytatott szarvasmarha-tenyésztés játszik fontos gazdasági szerepet. A táj lenyűgöző kontrasztot mutat a hegyek vörös érce és a lagúna kékje között.",
+      ro: "Kaala-Gomen este situată pe coasta de nord-vest a insulei Grande Terre și este un centru al mineritului de nichel, numit după masivul Kaala. Comuna este profund înrădăcinată în cultura Kanak, găzduind mai multe triburi tradiționale. Pe lângă minerit, creșterea bovinelor în câmpiile întinse joacă un rol economic important. Peisajul oferă un contrast impresionant între minereurile roșii ale munților și albastrul lagunei.",
+      en: "Kaala-Gomen is located on the northwest coast of Grande Terre and is a hub for nickel mining, named after the prominent Kaala Massif. The commune is deeply rooted in Kanak culture and is home to several traditional tribes. In addition to mining, cattle ranching on the vast plains plays an important economic role. The landscape offers a striking contrast between the red ores of the mountains and the blue of the lagoon.",
+    },
+    factsAdvanced: {
+      de: ["Das Kaala-Massiv erreicht eine Höhe von 1.083 Metern.", "Die Gemeinde umfasst eine Fläche von 718 Quadratkilometern.", "Nickelabbau findet hier seit dem späten 19. Jahrhundert statt.", "Das Dorf liegt an der Mündung des Flusses Ouaco.", "Kaala-Gomen hat etwa 1.800 Einwohner (Stand 2019).", "Die Region beherbergt endemische Pflanzen auf ultramafischen Böden."],
+      hu: ["A Kaala-masszívum eléri az 1083 méteres magasságot.", "A község teljes területe 718 négyzetkilométert tesz ki.", "A nikkelbányászat a 19. század vége óta folyik a területen.", "A falu az Ouaco-folyó torkolatánál helyezkedik el.", "Kaala-Gomen lakossága kb. 1800 fő (a 2019-es adatok szerint).", "A régió különleges, ultramafikus talajon élő bennszülött növényeknek ad otthont."],
+      ro: ["Masivul Kaala atinge o altitudine de 1.083 de metri.", "Comuna se întinde pe o suprafață de 718 kilometri pătrați.", "Mineritul de nichel are loc aici de la sfârșitul secolului al XIX-lea.", "Satul este situat la gura de vărsare a râului Ouaco.", "Kaala-Gomen are aproximativ 1.800 de locuitori (conform 2019).", "Regiunea adăpostește plante endemice pe soluri ultramafice."],
+      en: ["The Kaala Massif reaches an elevation of 1,083 meters.", "The commune covers a land area of 718 square kilometers.", "Nickel mining has taken place here since the late 19th century.", "The village is situated at the mouth of the Ouaco River.", "Kaala-Gomen has about 1,800 inhabitants (as of 2019).", "The region hosts endemic plants found on ultramafic soils."],
+    },
   },
   {
     id: "newcaledonia-boulouparis-cities-v2",
@@ -399,6 +639,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Known for growing tomatoes and other vegetables for the Nouméa market.", "Features a well-known deer ranch and hunting areas.", "Major stop on the RT1 highway for travelers heading north.", "The commune includes the Bouraké peninsula, a popular fishing spot."],
     },
     imageHint: "Boulouparis town center and rural farms",
+    descriptionAdvanced: {
+      de: "Boulouparis liegt in der Südprovinz von Grande Terre und ist bekannt für seine ländliche Atmosphäre und strategische Lage an der Hauptverkehrsachse. Die Region ist ein bedeutendes landwirtschaftliches Zentrum, das Nouméa mit Frischprodukten und Fleisch versorgt. In der Nähe befindet sich der Blue River Provincial Park, der für seine einzigartige Flora und Fauna geschätzt wird. Die Küste bietet Zugang zu malerischen Buchten und Tauchplätzen.",
+      hu: "Boulouparis Grande Terre Déli tartományában fekszik, és vidéki hangulatáról, valamint stratégiai elhelyezkedéséről ismert a fő közlekedési útvonal mentén. A régió jelentős mezőgazdasági központ, amely friss termékekkel és hússal látja el Nouméa városát. A közelben található a Kék-folyó Tartományi Park, amely egyedülálló növény- és állatvilágáról nevezetes. A partvidék festői öblökhöz és búvárhelyekhez biztosít hozzáférést.",
+      ro: "Boulouparis este situat în Provincia de Sud a insulei Grande Terre, fiind cunoscut pentru atmosfera rurală și locația strategică pe axa principală de transport. Regiunea este un centru agricol important, aprovizionând Nouméa cu produse proaspete și carne. În apropiere se află Parcul Provincial Rivière Bleue, apreciat pentru flora și fauna sa unice. Coasta oferă acces la golfuri pitorești și locuri de scufundări.",
+      en: "Boulouparis is located in the South Province of Grande Terre, known for its rural atmosphere and strategic position on the main transport axis. The region is a significant agricultural hub, supplying Nouméa with fresh produce and meat. Nearby is the Blue River Provincial Park, valued for its unique flora and fauna. The coastline provides access to picturesque bays and prime diving spots.",
+    },
+    factsAdvanced: {
+      de: ["Boulouparis wurde im Jahr 1868 offiziell gegründet.", "Die Gemeinde umfasst eine Fläche von 865 Quadratkilometern.", "Hier findet jährlich ein bekanntes Hirsch- und Garnelenfestival statt.", "Die Ouinne-Mine im Hinterland ist für den Nickelabbau bekannt.", "Boulouparis liegt etwa 70 Kilometer nordwestlich von Nouméa.", "Die Region beherbergt den Stausee der Yaté-Talsperre."],
+      hu: ["Boulouparis települését hivatalosan 1868-ban alapították.", "A község teljes területe 865 négyzetkilométert tesz ki.", "Itt rendezik meg évente a népszerű Szarvas- és Garnélafesztivált.", "A hátországban található Ouinne-bánya nikkeltermeléséről ismert.", "Boulouparis mintegy 70 kilométerre északnyugatra fekszik Nouméától.", "A régióban található a Yaté-gát víztározójának egy része."],
+      ro: ["Boulouparis a fost fondat oficial în anul 1868.", "Comuna se întinde pe o suprafață de 865 de kilometri pătrați.", "Găzduiește anual un cunoscut festival al cerbului și al creveților.", "Mina Ouinne din interior este cunoscută pentru extracția de nichel.", "Boulouparis se află la circa 70 de kilometri nord-vest de Nouméa.", "Regiunea găzduiește o parte din lacul de acumulare al barajului Yaté."],
+      en: ["Boulouparis was officially established in the year 1868.", "The commune covers a land area of 865 square kilometers.", "It hosts a well-known annual deer and shrimp festival.", "The Ouinne mine in the hinterland is known for nickel extraction.", "Boulouparis is located about 70 kilometers northwest of Nouméa.", "The region contains part of the Yaté dam reservoir system."],
+    },
   },
   {
     id: "newcaledonia-yate-cities-v2",
@@ -418,6 +670,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Home to the Yaté Dam, which supplies most of the electricity for Nouméa.", "The Blue River National Park (Parc de la Rivière Bleue) is located here.", "Important center for the indigenous culture of the South Province.", "Famous for the red soil typical of the 'Grand Sud' region."],
     },
     imageHint: "The Yaté Dam and the turquoise lake water",
+    descriptionAdvanced: {
+      de: "Yaté ist flächenmäßig die größte Gemeinde Neukaledoniens und liegt im Südosten von Grande Terre. Sie ist das Herz der Energieversorgung des Archipels aufgrund der gewaltigen Yaté-Talsperre, die den Großteil des Stroms erzeugt. Die Landschaft ist spektakulär und wild, geprägt durch die charakteristische rote Erde und dichte Regenwälder. Der Blue River Provincial Park schützt hier das größte Vorkommen der endemischen Kagu-Vögel.",
+      hu: "Yaté területét tekintve Új-Kaledónia legnagyobb községe, Grande Terre délkeleti részén fekszik. A szigetcsoport energiaellátásának központja a hatalmas Yaté-gátnak köszönhetően, amely az áram jelentős részét termeli. A táj látványos és vadregényes, jellemzője a vörös föld és a sűrű esőerdők. A Kék-folyó Tartományi Park itt óvja az endemikus kagu madarak legnagyobb populációját.",
+      ro: "Yaté este cea mai mare comună din Noua Caledonie ca suprafață, fiind situată în sud-estul insulei Grande Terre. Este inima aprovizionării cu energie a arhipelagului datorită masivului baraj Yaté, care generează majoritatea electricității. Peisajul este spectaculos și sălbatic, marcat de pământul roșu caracteristic și păduri tropicale dense. Parcul Provincial Rivière Bleue protejează aici cea mai mare populație de păsări Kagu.",
+      en: "Yaté is the largest commune in New Caledonia by land area, located in the southeast of Grande Terre. It is the heart of the archipelago's energy supply thanks to the massive Yaté Dam, which generates most of the electricity. The landscape is spectacular and wild, defined by characteristic red earth and dense rainforests. The Blue River Provincial Park here protects the largest population of endemic Kagu birds.",
+    },
+    factsAdvanced: {
+      de: ["Die Gemeinde erstreckt sich über 1.338 Quadratkilometer.", "Die Yaté-Talsperre wurde im Jahr 1959 fertiggestellt.", "Die Staumauer ist 45 Meter hoch und 641 Meter lang.", "Der Blue River Park beherbergt den berühmten 'Grand Kaori' Baum.", "Yaté ist die am dünnsten besiedelte Gemeinde von Grande Terre.", "Die Region ist ein wichtiges Zentrum der Kanak-Sprache Numèè."],
+      hu: ["A község területe 1338 négyzetkilométerre terjed ki.", "A Yaté-víztározó gátját 1959-ben fejezték be.", "A gát magassága 45 méter, hossza pedig 641 méter.", "A Kék-folyó Parkban található a híres 'Grand Kaori' fa.", "Yaté Grande Terre legritkábban lakott települése.", "A régió a Numèè kanaki nyelv egyik fontos központja."],
+      ro: ["Comuna se întinde pe o suprafață de 1.338 de kilometri pătrați.", "Barajul Yaté a fost finalizat în anul 1959.", "Zidul barajului are 45 de metri înălțime și 641 de metri lungime.", "Parcul Rivière Bleue adăpostește celebrul arbore 'Grand Kaori'.", "Yaté este comuna cu cea mai mică densitate a populației de pe Grande Terre.", "Regiunea este un centru important pentru limba Kanak Numèè."],
+      en: ["The commune covers a land area of 1,338 square kilometers.", "The Yaté Dam was completed in the year 1959.", "The dam wall is 45 meters high and 641 meters long.", "Blue River Park is home to the famous 'Grand Kaori' tree.", "Yaté is the least densely populated commune on Grande Terre.", "The region is an important center for the Numèè Kanak language."],
+    },
   },
   {
     id: "newcaledonia-sarramea-cities-v2",
@@ -437,6 +701,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["The only commune in New Caledonia without any sea access.", "Famous for the production of high-quality Arabica coffee.", "Starting point for hikes to the Plateau de Dogny.", "Known for the 'Feuillet Waterfall' natural pool in the forest."],
     },
     imageHint: "Coffee plants and lush mountains in Sarraméa",
+    descriptionAdvanced: {
+      de: "Sarraméa ist die flächenmäßig kleinste Gemeinde Neukaledoniens und liegt eingebettet in die grünen Berge der Zentralkette. Die Region ist bekannt für ihr kühles Klima und ihre reiche Geschichte des Kaffeeanbaus, insbesondere der Sorte 'Petit Café'. Sarraméa bietet zahlreiche Wanderwege durch Primärwälder und zu erfrischenden Flussbadestellen. Die Gemeinde bewahrt einen starken landwirtschaftlichen Charakter und eine ruhige, naturnahe Atmosphäre.",
+      hu: "Sarraméa Új-Kaledónia legkisebb területű községe, amely a Központi-hegység zöld hegyei között bújik meg. A régió hűvös klímájáról és a kávétermesztés gazdag múltjáról ismert, különösen a 'Petit Café' fajta híres. Sarraméa számos túraútvonalat kínál az őserdőkön keresztül és a frissítő folyó menti fürdőhelyekhez. A település megőrizte erős mezőgazdasági jellegét és nyugodt, természetközeli hangulatát.",
+      ro: "Sarraméa este cea mai mică comună din Noua Caledonie ca suprafață, fiind cuibărită în munții verzi ai Lanțului Central. Regiunea este cunoscută pentru climatul său răcoros și istoria bogată a cultivării cafelei, în special soiul 'Petit Café'. Sarraméa oferă numeroase trasee de drumeție prin păduri primare și locuri de scăldat revigorante în râu. Comuna păstrează un caracter agricol puternic și o atmosferă liniștită.",
+      en: "Sarraméa is the smallest commune in New Caledonia by land area, nestled in the green mountains of the Central Range. The region is known for its cool climate and rich history of coffee cultivation, particularly the 'Petit Café' variety. Sarraméa offers numerous hiking trails through primary forests and refreshing river swimming spots. The commune maintains a strong agricultural character and a quiet, nature-focused atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Sarraméa umfasst eine Fläche von nur 106 Quadratkilometern.", "Die Gemeinde wurde im Jahr 1881 offiziell gegründet.", "Hier befindet sich der berühmte Naturpool 'Feuillet'.", "Sarraméa ist für seinen hochwertigen Arabica-Kaffee bekannt.", "Die Bevölkerung beträgt etwa 600 Einwohner (Stand 2019).", "Die Region liegt am Fuße des Mount Dogny."],
+      hu: ["Sarraméa területe mindössze 106 négyzetkilométer.", "A községet hivatalosan 1881-ben alapították meg.", "Itt található a híres 'Feuillet' természetes medence.", "Sarraméa a kiváló minőségű Arabica kávéjáról nevezetes.", "A lakosság száma kb. 600 fő (a 2019-es adatok alapján).", "A régió a Dogny-hegy lábánál helyezkedik el."],
+      ro: ["Sarraméa ocupă o suprafață de doar 106 kilometri pătrați.", "Comuna a fost înființată oficial în anul 1881.", "Aici se află faimoasa piscină naturală 'Feuillet'.", "Sarraméa este renumită pentru cafeaua sa Arabica de calitate.", "Populația este de aproximativ 600 de locuitori (conform 2019).", "Regiunea este situată la poalele muntelui Dogny."],
+      en: ["Sarraméa covers a land area of only 106 square kilometers.", "The commune was officially established in the year 1881.", "It is home to the famous 'Feuillet' natural swimming hole.", "Sarraméa is renowned for its high-quality Arabica coffee.", "The population is approximately 600 inhabitants (as of 2019).", "The region is located at the foot of Mount Dogny."],
+    },
   },
   {
     id: "newcaledonia-farino-cities-v2",
@@ -456,6 +732,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Famous for the Giant Fern Park (Parc des Grandes Fougères).", "A hub for ecotourism and rural guesthouses.", "Hosts a well-known farmers' market for local products.", "The commune has a strong identity shaped by European settler families."],
     },
     imageHint: "Giant tree ferns in the Farino mountains",
+    descriptionAdvanced: {
+      de: "Farino ist die bevölkerungsärmste Gemeinde Neukaledoniens und liegt in einer malerischen Gebirgsregion der Südprovinz. Die Stadt dient als Hauptzugang zum Parc des Grandes Fougères, einem Schutzgebiet für riesige Baumfarne und zahlreiche endemische Vogelarten. Farino ist bekannt für seine Wochenmärkte und die Förderung des Ökotourismus. Die Höhenlage bietet ein angenehmes Klima und weite Panoramablicke über die bewaldeten Täler.",
+      hu: "Farino Új-Kaledónia legkisebb népességű községe, amely a Déli tartomány egyik festői hegyvidéki régiójában található. A település az Óriás Páfrányok Parkjának (Parc des Grandes Fougères) fő kapujaként szolgál, amely hatalmas páfrányfáknak és számos endemikus madárfajnak ad otthont. Farino híres hétvégi piacairól és az ökoturizmus népszerűsítéséről. A magasan fekvő terület kellemes klímát és tágas panorámát kínál az erdős völgyekre.",
+      ro: "Farino este comuna cu cea mai mică populație din Noua Caledonie, situată într-o regiune montană pitorească din Provincia de Sud. Localitatea servește ca punct de acces principal către Parc des Grandes Fougères, o zonă protejată pentru ferigile arborescente uriașe și numeroase păsări endemice. Farino este cunoscut pentru piețele sale de weekend și promovarea ecoturismului. Altitudinea oferă un climat plăcut și vederi panoramice vaste.",
+      en: "Farino is the least populated commune in New Caledonia, situated in a picturesque mountainous region of the South Province. The town serves as the primary gateway to the Parc des Grandes Fougères, a protected area for giant tree ferns and numerous endemic bird species. Farino is known for its weekend markets and the promotion of ecotourism. Its elevation provides a pleasant climate and vast panoramic views over forested valleys.",
+    },
+    factsAdvanced: {
+      de: ["Farino hat eine Fläche von etwa 45 Quadratkilometern.", "Die Bevölkerung liegt bei rund 600 Einwohnern (Stand 2019).", "Die Gemeinde liegt in einer durchschnittlichen Höhe von 250 Metern.", "Der Parc des Grandes Fougères wurde 2008 eröffnet.", "Hier findet jährlich der beliebte 'Markt von Farino' statt.", "Die Region beherbergt den seltenen Cagou-Vogel."],
+      hu: ["Farino területe megközelítőleg 45 négyzetkilométer.", "Lakossága körülbelül 600 fő (a 2019-es adatok szerint).", "A község átlagosan 250 méteres tengerszint feletti magasságban fekszik.", "Az Óriás Páfrányok Parkja 2008-ban nyitotta meg kapuit.", "Itt rendezik meg évente a népszerű 'Farino Piacot'.", "A régió a ritka kagu madár egyik természetes élőhelye."],
+      ro: ["Farino are o suprafață de aproximativ 45 de kilometri pătrați.", "Populația este de circa 600 de locuitori (conform 2019).", "Comuna este situată la o altitudine medie de 250 de metri.", "Parcul Grandes Fougères a fost deschis în anul 2008.", "Găzduiește anual populara 'Piață din Farino'.", "Regiunea adăpostește rara pasăre Cagou."],
+      en: ["Farino covers an area of approximately 45 square kilometers.", "The population is around 600 inhabitants (as of 2019).", "The commune is situated at an average elevation of 250 meters.", "The Parc des Grandes Fougères was opened in 2008.", "It hosts the popular annual 'Farino Market'.", "The region is home to the rare and endemic Cagou bird."],
+    },
   },
   {
     id: "newcaledonia-moindou-cities-v2",
@@ -475,6 +763,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Home to Fort Teremba, a former military camp and prison site.", "Important location for early coal mining activities on the island.", "Famous for the annual historical re-enactments at Fort Teremba.", "The commune has a significant population of Arab settler descendants."],
     },
     imageHint: "Fort Teremba historical site in Moindou",
+    descriptionAdvanced: {
+      de: "Moindou ist eine geschichtsträchtige Gemeinde an der Westküste von Grande Terre, bekannt für das Fort Téremba, eine ehemalige Strafkolonie und Militärbasis. Die Region hat eine starke koloniale Vergangenheit und war Schauplatz bedeutender Ereignisse während der Kanak-Aufstände im 19. Jahrhundert. Heute ist Moindou ein Zentrum der Rinderzucht und bietet Zugang zu wunderschönen Stränden. Die historische Architektur des Forts ist eine wichtige kulturelle Sehenswürdigkeit.",
+      hu: "Moindou történelmi jelentőségű település Grande Terre nyugati partján, amely a Téremba-erődről, egy egykori büntetőtelepről és katonai bázisról ismert. A régió erős gyarmati múlttal rendelkezik, és fontos események helyszíne volt a 19. századi kanaki felkelések idején. Ma Moindou a szarvasmarha-tenyésztés központja, és hozzáférést biztosít gyönyörű tengerpartokhoz. Az erőd történelmi építészete fontos kulturális látnivaló.",
+      ro: "Moindou este o comună bogată în istorie de pe coasta de vest a insulei Grande Terre, cunoscută pentru Fort Téremba, o fostă colonie penală și bază militară. Regiunea are un trecut colonial marcat și a fost locul unor evenimente importante în timpul insurecțiilor Kanak din secolul al XIX-lea. Astăzi, Moindou este un centru pentru creșterea vitelor și oferă acces la plaje superbe. Arhitectura istorică a fortului este o atracție culturală majoră.",
+      en: "Moindou is a history-rich commune on the west coast of Grande Terre, known for Fort Téremba, a former penal colony and military base. The region has a strong colonial past and was the site of significant events during the 19th-century Kanak insurrections. Today, Moindou is a hub for cattle ranching and provides access to beautiful beaches. The fort's historic architecture serves as a major cultural landmark.",
+    },
+    factsAdvanced: {
+      de: ["Fort Téremba wurde im Jahr 1871 errichtet.", "Die Gemeinde umfasst eine Fläche von 321 Quadratkilometern.", "Moindou war ein Zentrum des Kanak-Aufstandes von 1878.", "Die Wirtschaft basiert auf Rinderzucht und Tourismus.", "Das Dorf liegt etwa 120 Kilometer nordwestlich von Nouméa.", "Hier findet jährlich ein bekanntes historisches Festival statt."],
+      hu: ["A Téremba-erődöt 1871-ben építették fel.", "A község teljes területe 321 négyzetkilométert tesz ki.", "Moindou az 1878-as kanaki felkelés egyik központja volt.", "A gazdaság az állattenyésztésen és a turizmuson alapul.", "A falu mintegy 120 kilométerre északnyugatra fekszik Nouméától.", "Itt évente megrendeznek egy ismert történelmi fesztivált."],
+      ro: ["Fort Téremba a fost construit în anul 1871.", "Comuna se întinde pe o suprafață de 321 de kilometri pătrați.", "Moindou a fost un centru al insurecției Kanak din 1878.", "Economia locală se bazează pe creșterea vitelor și turism.", "Satul se află la circa 120 de kilometri nord-vest de Nouméa.", "Găzduiește anual un cunoscut festival istoric."],
+      en: ["Fort Téremba was originally constructed in the year 1871.", "The commune covers a land area of 321 square kilometers.", "Moindou was a focal point during the Kanak revolt of 1878.", "The economy is based on cattle ranching and tourism.", "The village is located about 120 kilometers northwest of Nouméa.", "It hosts a well-known annual historical festival."],
+    },
   },
   {
     id: "newcaledonia-poum-cities-v2",
@@ -494,6 +794,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Major site for nickel mining operations in the far north.", "Popular destination for camping and fishing in untouched nature.", "The region features many small islets just off the coastline.", "Traditionally a key fishing area for the local Kanak people."],
     },
     imageHint: "White sand beaches and turquoise water in Poum",
+    descriptionAdvanced: {
+      de: "Poum markiert die nördlichste Spitze von Grande Terre und ist eine Region von wilder, unberührter Schönheit. Die Gemeinde ist bekannt für ihre paradiesischen weißen Sandstrände, kristallklaren Buchten und bedeutende Nickelvorkommen. Aufgrund der isolierten Lage hat sich Poum einen authentischen Charme bewahrt, der sowohl Bergbau als auch naturnahen Tourismus vereint. Die umliegende Lagune gehört zum UNESCO-Weltnaturerbe und bietet spektakuläre Tauchgründe.",
+      hu: "Poum Grande Terre legészakibb csücskét jelöli, és a vad, érintetlen szépség régiója. A település paradicsomi fehér homokos strandjairól, kristálytiszta öbleiről és jelentős nikkellelőhelyeiről ismert. Elszigetelt elhelyezkedése miatt Poum megőrizte autentikus báját, amely a bányászatot és a természetközeli turizmust ötvözi. A környező lagúna az UNESCO Világörökség része, és látványos búvárhelyeket kínál.",
+      ro: "Poum marchează extremitatea nordică a insulei Grande Terre și este o regiune de o frumusețe sălbatică, nealterată. Comuna este cunoscută pentru plajele sale paradisiace cu nisip alb, golfurile cu apă cristalină și zăcămintele importante de nichel. Datorită locației izolate, Poum a păstrat un farmec autentic, îmbinând mineritul cu turismul de nișă. Laguna înconjurătoare face parte din Patrimoniul Mondial UNESCO.",
+      en: "Poum marks the northernmost tip of Grande Terre and is a region of wild, untouched beauty. The commune is known for its paradisiacal white sand beaches, crystal-clear bays, and significant nickel deposits. Due to its isolated location, Poum has preserved an authentic charm that combines mining with nature-oriented tourism. The surrounding lagoon is part of the UNESCO World Heritage site and offers spectacular diving grounds.",
+    },
+    factsAdvanced: {
+      de: ["Poum wurde 1977 durch die Abspaltung von Koumac gegründet.", "Die Gemeinde erstreckt sich über 469 Quadratkilometer Fläche.", "Die Mine von Tiebaghi ist eine der größten Chrom- und Nickelminen.", "Die Lagune von Poum ist seit 2008 UNESCO-Weltnaturerbe.", "Die Region umfasst zahlreiche kleine Inseln wie die Baaba-Insel.", "Poum liegt über 400 Kilometer von der Hauptstadt Nouméa entfernt."],
+      hu: ["Poum 1977-ben jött létre, miután kivált Koumac községből.", "A település területe 469 négyzetkilométernyi kiterjedésű.", "A Tiebaghi-bánya az egyik legnagyobb króm- és nikkelbánya.", "A poumi lagúna 2008 óta az UNESCO Világörökség része.", "A régióhoz számos kis sziget, például a Baaba-sziget is tartozik.", "Poum több mint 400 kilométerre fekszik Nouméa fővárosától."],
+      ro: ["Poum a fost creat în 1977 prin separarea de comuna Koumac.", "Comuna se întinde pe o suprafață de 469 de kilometri pătrați.", "Mina Tiebaghi este una dintre cele mai mari de crom și nichel.", "Laguna din Poum este inclusă în Patrimoniul UNESCO din 2008.", "Regiunea cuprinde numeroase insule mici, precum insula Baaba.", "Poum se află la peste 400 de kilometri distanță de Nouméa."],
+      en: ["Poum was created in 1977 by separating from Koumac.", "The commune covers a land area of 469 square kilometers.", "The Tiebaghi mine is one of the largest chromium and nickel mines.", "The Poum lagoon has been a UNESCO World Heritage site since 2008.", "The region includes numerous small islands like Baaba Island.", "Poum is located over 400 kilometers from the capital, Nouméa."],
+    },
   },
   {
     id: "newcaledonia-kouaoua-cities-v2",
@@ -513,6 +825,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["The 'Serpentine' conveyor belt is over 11 kilometers long.", "The primary economic activity is nickel mining and export.", "Became an independent commune in 1995, separated from Canala.", "The town is located at the head of a deep bay on the east coast."],
     },
     imageHint: "The long nickel conveyor belt stretching across hills",
+    descriptionAdvanced: {
+      de: "Kouaoua ist eine Bergbaugemeinde an der Ostküste von Grande Terre, die für ihre massiven Nickelverladestationen bekannt ist. Die Stadt ist durch eine der längsten Förderbandanlagen der Welt mit den Minen im Hinterland verbunden. Trotz der industriellen Prägung bietet die Umgebung dichte Regenwälder und steile Berge, die typisch für die Ostküste sind. Kouaoua ist ein wichtiger Wirtschaftsfaktor für den Archipel und ein Zentrum der lokalen Kanak-Gemeinschaft.",
+      hu: "Kouaoua egy bányásztelepülés Grande Terre keleti partján, amely hatalmas nikkelrakodó állomásairól ismert. A várost a világ egyik leghosszabb szállítószalag-rendszere köti össze a hátországban található bányákkal. Az ipari jelleg ellenére a környék sűrű esőerdőket és meredek hegyeket kínál, amelyek jellemzőek a keleti partra. Kouaoua a szigetcsoport fontos gazdasági tényezője és a helyi kanaki közösség központja.",
+      ro: "Kouaoua este o comună minieră de pe coasta de est a insulei Grande Terre, cunoscută pentru stațiile sale masive de încărcare a nichelului. Orașul este conectat de minele din interior prin unul dintre cele mai lungi sisteme de benzi transportoare din lume. În ciuda caracterului industrial, împrejurimile oferă păduri tropicale dense și munți abrupți. Kouaoua este un factor economic vital și un centru pentru comunitatea Kanak.",
+      en: "Kouaoua is a mining commune on the east coast of Grande Terre, known for its massive nickel loading stations. The town is connected to the inland mines by one of the longest conveyor belt systems in the world. Despite its industrial character, the surrounding area offers dense rainforests and steep mountains typical of the east coast. Kouaoua is a key economic driver for the archipelago and a center for the local Kanak community.",
+    },
+    factsAdvanced: {
+      de: ["Kouaoua wurde im Jahr 1995 als eigenständige Gemeinde gegründet.", "Die Gemeinde erstreckt sich über 383 Quadratkilometer.", "Das Förderband 'Serpentine' ist über 11 Kilometer lang.", "Nickel wird hier seit dem frühen 20. Jahrhundert abgebaut.", "Die Region hat ein sehr feuchtes, tropisches Klima.", "Kouaoua liegt zwischen den Gemeinden Canala und Houaïlou."],
+      hu: ["Kouaoua 1995-ben alakult önálló községgé.", "A település teljes területe 383 négyzetkilométert tesz ki.", "A 'Serpentine' szállítószalag hossza meghaladja a 11 kilométert.", "A nikkelbányászat a 20. század eleje óta zajlik a területen.", "A régió rendkívül párás, trópusi éghajlattal rendelkezik.", "Kouaoua Canala és Houaïlou községek között helyezkedik el."],
+      ro: ["Kouaoua a fost înființată ca comună independentă în 1995.", "Comuna se întinde pe o suprafață de 383 de kilometri pătrați.", "Banda transportoare 'Serpentine' are o lungime de peste 11 km.", "Nichelul este exploatat aici de la începutul secolului al XX-lea.", "Regiunea are un climat tropical foarte umed.", "Kouaoua este situată între comunele Canala și Houaïlou."],
+      en: ["Kouaoua was established as an independent commune in 1995.", "The commune covers a land area of 383 square kilometers.", "The 'Serpentine' conveyor belt is over 11 kilometers long.", "Nickel has been mined here since the early 20th century.", "The region features a very humid tropical climate.", "Kouaoua is located between the communes of Canala and Houaïlou."],
+    },
   },
   {
     id: "newcaledonia-lifou-cities-v2",
@@ -532,6 +856,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Wé is the administrative center and largest settlement.", "Famous for its vanilla plantations and vanilla oil production.", "Home to spectacular cliffs at Jokin in the northern part.", "The island is an uplifted coral atoll with many caves."],
     },
     imageHint: "Jokin cliffs and the clear sea in Lifou",
+    descriptionAdvanced: {
+      de: "Lifou, auch als Drehu bekannt, ist die flächenmäßig größte der Loyalitätsinseln im Korallenmeer. Die Insel besticht durch ihre vielfältige Geografie, die von dichten Wäldern bis hin zu steilen Kalksteinklippen wie den Jokin-Klippen reicht. Administrativ gehört Lifou zur Südprovinz Neukaledoniens und ist ein wichtiges Zentrum der Kanak-Kultur.",
+      hu: "Lifou, helyi nevén Drehu, a Hűség-szigetek legnagyobb tagja a Korall-tengeren. A sziget változatos földrajzi adottságokkal rendelkezik, a sűrű erdőktől a meredek mészkőszirtekig, mint például a Jokin-sziklák. Közigazgatásilag Új-Kaledónia déli tartományához tartozik, és a kanak kultúra egyik fontos központja.",
+      ro: "Lifou, cunoscută și sub numele de Drehu, este cea mai mare dintre Insulele Loialității din Marea Coralilor. Insula impresionează prin geografia sa diversă, variind de la păduri dense la fantezii de calcar, cum ar fi stâncile Jokin. Administrativ, Lifou aparține Provinciei de Sud a Noii Caledonii și este un centru important al culturii Kanak.",
+      en: "Lifou, also known as Drehu, is the largest of the Loyalty Islands in the Coral Sea. The island features a diverse geography, ranging from dense forests to steep limestone cliffs like the Jokin Cliffs. Administratively, Lifou belongs to New Caledonia's South Province and serves as a major hub for Kanak culture.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von etwa 1.207 Quadratkilometern", "Bevölkerung von rund 9.200 Einwohnern im Jahr 2019", "Wé ist der administrative Hauptort der Insel", "Entdeckung durch Europäer im Jahr 1827", "Höchster Punkt liegt 104 Meter über dem Meeresspiegel", "Wichtigster Exportartikel ist Kopra aus Kokosnüssen"],
+      hu: ["Területe körülbelül 1207 négyzetkilométer", "Népessége 2019-ben mintegy 9200 fő volt", "Wé a sziget közigazgatási központja", "Az európaiak 1827-ben fedezték fel", "Legmagasabb pontja 104 méterrel van a tengerszint felett", "Legfontosabb exportcikke a kókuszdióból nyert kopra"],
+      ro: ["Suprafață de aproximativ 1.207 kilometri pătrați", "Populație de circa 9.200 de locuitori în 2019", "Wé este centrul administrativ al insulei", "Descoperită de europeni în anul 1827", "Punctul maxim se află la 104 metri deasupra mării", "Principalul produs de export este copra din nucă de cocos"],
+      en: ["Total land area of approximately 1,207 square kilometers", "Population of about 9,200 residents as of 2019", "Wé is the main administrative center of the island", "First European contact occurred in the year 1827", "Highest point reaches 104 meters above sea level", "Main export product is copra derived from coconuts"],
+    },
   },
   {
     id: "newcaledonia-mare-cities-v2",
@@ -551,6 +887,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Tadine is the island's administrative center.", "Famous for the Avocado Festival celebrated every year.", "Home to the 'Trou de Bonne Espérance', a deep natural well.", "The island lacks a lagoon as it rises steeply from the ocean."],
     },
     imageHint: "Wild coastline and coral rocks of Maré island",
+    descriptionAdvanced: {
+      de: "Maré, auch Nengone genannt, ist die zweitgrößte der Loyalitätsinseln und vulkanischen Ursprungs. Die Insel ist bekannt für ihre schroffen Korallenformationen und tiefen Höhlen, wie das berühmte 'Knochenloch'. Die lokale Wirtschaft basiert hauptsächlich auf Landwirtschaft, insbesondere dem Anbau von Avocado und Vanille.",
+      hu: "Maré, más néven Nengone, a Hűség-szigetek második legnagyobb tagja, és vulkáni eredetű. A sziget híres meredek korallképződményeiről és mély barlangjairól, mint például a híres 'Csont-lyuk'. A helyi gazdaság elsősorban a mezőgazdaságra épül, különösen az avokádó és a vanília termesztésére.",
+      ro: "Maré, numită și Nengone, este a doua ca mărime dintre Insulele Loialității și are origine vulcanică. Insula este cunoscută pentru formațiunile sale coraliene abrupte și peșterile adânci, cum este faimoasa 'Gaură a Oaselor'. Economia locală se bazează în principal pe agricultură, în special pe cultivarea fructelor de avocado și a vaniliei.",
+      en: "Maré, also called Nengone, is the second largest of the Loyalty Islands and is of volcanic origin. The island is known for its rugged coral formations and deep caves, such as the famous 'Bone Hole'. The local economy is primarily based on agriculture, particularly the cultivation of avocados and vanilla.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche beträgt 641 Quadratkilometer", "Einwohnerzahl liegt bei ca. 5.600 Personen", "Gehört zur Provinz der Loyalitätsinseln", "Höchste Erhebung erreicht 138 Meter", "Wichtigstes Fest ist das Avocado-Festival im Mai", "Tadine ist das administrative Zentrum der Insel"],
+      hu: ["Teljes területe 641 négyzetkilométer", "Lakossága körülbelül 5600 fő", "A Hűség-szigetek tartományához tartozik", "Legmagasabb pontja 138 méter magas", "Legfontosabb eseménye a májusi Avokádó Fesztivál", "Tadine a sziget közigazgatási központja"],
+      ro: ["Suprafața totală este de 641 kilometri pătrați", "Populația este de aproximativ 5.600 de persoane", "Aparține de Provincia Insulelor Loialității", "Cea mai mare altitudine atinge 138 de metri", "Cel mai important festival este cel al Avocadoului în mai", "Tadine este centrul administrativ al insulei"],
+      en: ["Total surface area of 641 square kilometers", "Population is approximately 5,600 people", "Part of the Loyalty Islands Province", "Highest elevation reaches 138 meters", "Most important event is the Avocado Festival in May", "Tadine serves as the island's administrative center"],
+    },
   },
   {
     id: "newcaledonia-ouvea-cities-v2",
@@ -570,6 +918,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Fayaoué is the administrative center of the atoll.", "The island is often called 'the island closest to paradise'.", "Famous for the Mouli Bridge connecting two parts of the atoll.", "Significant site for the production of coconut oil."],
     },
     imageHint: "Mouli Bridge and the turquoise lagoon of Ouvéa",
+    descriptionAdvanced: {
+      de: "Ouvéa ist ein Korallenatoll im Norden der Loyalitätsinseln und gehört zum UNESCO-Welterbe der Lagunen von Neukaledonien. Die Insel besteht aus zwei Hauptteilen, die durch eine schmale Brücke bei Mouli verbunden sind. Ein 25 Kilometer langer weißer Sandstrand erstreckt sich entlang der Westküste und prägt das Landschaftsbild.",
+      hu: "Ouvéa egy korallatoll a Hűség-szigetek északi részén, amely az UNESCO világörökség részét képező új-kaledóniai lagúnákhoz tartozik. A sziget két fő részből áll, amelyeket Mouli mellett egy keskeny híd köt össze. A nyugati part mentén egy 25 kilométer hosszú, fehér homokos strand húzódik, amely meghatározza a tájat.",
+      ro: "Ouvéa este un atol coraligen în nordul Insulelor Loialității și face parte din patrimoniul mondial UNESCO al lagunelor Noii Caledonii. Insula este formată din două părți principale, conectate printr-un pod îngust la Mouli. O plajă cu nisip alb lungă de 25 de kilometri se întinde de-a lungul coastei de vest, definind peisajul.",
+      en: "Ouvéa is a coral atoll in the northern Loyalty Islands and is part of the UNESCO World Heritage Site of the New Caledonia Lagoons. The island consists of two main parts connected by a narrow bridge at Mouli. A 25-kilometer long white sand beach stretches along the west coast, dominating the landscape.",
+    },
+    factsAdvanced: {
+      de: ["Landfläche beträgt etwa 132 Quadratkilometer", "Rund 3.400 Einwohner leben auf dem Atoll", "Fayaoué ist der wichtigste Ort der Insel", "Die Lagune umfasst eine Fläche von 850 km²", "Ouvéa wurde 1988 durch politische Unruhen bekannt", "Besitzt einen eigenen Flughafen namens Ouloup"],
+      hu: ["Szárazföldi területe körülbelül 132 négyzetkilométer", "Mintegy 3400 lakos él az atollon", "Fayaoué a sziget legfontosabb települése", "A lagúna területe 850 négyzetkilométer", "Ouvéa 1988-ban vált ismertté politikai zavargások miatt", "Saját repülőtere van, melynek neve Ouloup"],
+      ro: ["Suprafața terestră este de aproximativ 132 kilometri pătrați", "Circa 3.400 de locuitori trăiesc pe atol", "Fayaoué este principala localitate a insulei", "Laguna acoperă o suprafață de 850 km²", "Ouvéa a devenit cunoscută în 1988 prin tulburări politice", "Deține propriul aeroport numit Ouloup"],
+      en: ["Land area of approximately 132 square kilometers", "About 3,400 residents live on the atoll", "Fayaoué is the island's primary settlement", "The lagoon covers an area of 850 square kilometers", "Ouvéa gained notoriety in 1988 due to political unrest", "Features its own airport named Ouloup"],
+    },
   },
   {
     id: "newcaledonia-ile-des-pins-cities-v2",
@@ -589,6 +949,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Vao is the main village and administrative center of the island.", "Famous for the natural swimming pool in Oro Bay.", "Once the site of a penal colony for political prisoners.", "The island is renowned for its brilliant white sand beaches."],
     },
     imageHint: "Araucaria trees lining the coast of Isle of Pines",
+    descriptionAdvanced: {
+      de: "Die Isle of Pines, lokal Kunie genannt, liegt südlich der Hauptinsel Grande Terre. Sie verdankt ihren Namen den charakteristischen neukaledonischen Säuleneiben, die Captain Cook bei seiner Entdeckung im Jahr 1774 beobachtete. Die Insel ist berühmt für ihr kristallklares Wasser und die Überreste einer ehemaligen französischen Strafkolonie.",
+      hu: "A Fenyő-sziget, helyi nevén Kunie, a főszigettől, Grande Terre-től délre fekszik. Nevét a jellegzetes új-kaledóniai oszlopfenyőkről kapta, amelyeket James Cook kapitány figyelt meg 1774-es felfedezésekor. A sziget híres kristálytiszta vizéről és az egykori francia büntetőtelep romjairól.",
+      ro: "Insula Pinilor, numită local Kunie, este situată la sud de insula principală Grande Terre. Își datorează numele pinilor columnari caracteristici, observați de căpitanul Cook la descoperirea sa în 1774. Insula este celebră pentru apele sale cristaline și vestigiile unei foste colonii penitenciare franceze.",
+      en: "The Isle of Pines, locally called Kunie, is located south of the main island, Grande Terre. It owes its name to the characteristic New Caledonian column pines observed by Captain Cook during his discovery in 1774. The island is famous for its crystal-clear waters and the remains of a former French penal colony.",
+    },
+    factsAdvanced: {
+      de: ["Fläche umfasst etwa 152 Quadratkilometer", "Bevölkerung zählt zirka 2.000 Einwohner", "James Cook entdeckte die Insel am 29. September 1774", "Vao ist der einzige größere Ort der Insel", "Diente von 1872 bis 1880 als Deportationsort", "Höchste Erhebung ist der Pic N'Ga mit 262 Metern"],
+      hu: ["Területe körülbelül 152 négyzetkilométer", "Lakossága nagyjából 2000 fő", "James Cook 1774. szeptember 29-én fedezte fel", "Vao a sziget egyetlen jelentősebb települése", "1872 és 1880 között deportálási helyszín volt", "Legmagasabb pontja a Pic N'Ga, 262 méter"],
+      ro: ["Suprafața cuprinde circa 152 kilometri pătrați", "Populația numără aproximativ 2.000 de locuitori", "James Cook a descoperit insula la 29 septembrie 1774", "Vao este singura localitate majoră de pe insulă", "A servit drept loc de deportare între 1872 și 1880", "Cea mai mare altitudine este Pic N'Ga la 262 de metri"],
+      en: ["Land area covers about 152 square kilometers", "Population consists of approximately 2,000 residents", "James Cook discovered the island on September 29, 1774", "Vao is the island's only major settlement", "Served as a deportation site from 1872 to 1880", "Highest peak is Pic N'Ga at 262 meters"],
+    },
   },
   {
     id: "newcaledonia-belep-cities-v2",
@@ -608,6 +980,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Waala is the only inhabited village on the main island of Art.", "The islands hosted a leper colony during the 19th century.", "Known for its wealth of seafood and sea cucumbers.", "Accessible only by boat or occasional charter flights."],
     },
     imageHint: "Aerial view of Waala village on Art island, Bélep",
+    descriptionAdvanced: {
+      de: "Das Bélep-Archipel liegt an der nördlichsten Spitze des neukaledonischen Barriereriffs. Es besteht aus den Hauptinseln Île Art und Île Pott sowie mehreren unbewohnten Koralleninseln. Die Region ist geografisch isoliert und bewahrt eine sehr traditionelle Lebensweise der Kanak-Bevölkerung, die hauptsächlich von Fischfang lebt.",
+      hu: "A Bélep-szigetcsoport az új-kaledóniai korallzátony legészakibb csücskén található. Az Île Art és Île Pott főszigetekből, valamint több lakatlan korallzátonyból áll. A régió földrajzilag elszigetelt, és megőrzi a kanak lakosság hagyományos életmódját, akik elsősorban halászatból élnek.",
+      ro: "Arhipelagul Bélep este situat în extremitatea nordică a barierei de corali a Noii Caledonii. Este format din insulele principale Île Art și Île Pott, precum și din mai multe insule de corali nelocuite. Regiunea este izolată geografic și păstrează un mod de viață tradițional al populației Kanak, care trăiește în principal din pescuit.",
+      en: "The Bélep archipelago is located at the northernmost tip of the New Caledonian barrier reef. It consists of the main islands Île Art and Île Pott, along with several uninhabited coral islets. The region is geographically isolated and preserves a very traditional way of life for the Kanak population, who mainly rely on fishing.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus einer Gemeinde namens Bélep", "Einwohnerzahl liegt bei ca. 860 Personen (2019)", "Hauptort der Inselgruppe ist Waala", "Entfernung nach Nouméa beträgt rund 400 Kilometer", "Zählte im 19. Jahrhundert als katholisches Missionsgebiet", "Diente zeitweise als Quarantänestation für Leprakranke"],
+      hu: ["Egyetlen községből áll, melynek neve Bélep", "Lakossága 2019-ben körülbelül 860 fő volt", "A szigetcsoport központja Waala", "Távolsága Nouméától mintegy 400 kilométer", "A 19. században katolikus missziós terület volt", "Egy időben karanténállomásként szolgált leprások számára"],
+      ro: ["Formată dintr-o singură comună numită Bélep", "Populația este de aproximativ 860 de persoane (2019)", "Localitatea principală a arhipelagului este Waala", "Distanța până la Nouméa este de circa 400 de kilometri", "A fost teritoriu de misiune catolică în secolul al XIX-lea", "A servit temporar drept stație de carantină pentru leproși"],
+      en: ["Consists of a single commune named Bélep", "Population was approximately 860 people in 2019", "The main settlement of the group is Waala", "Distance to Nouméa is about 400 kilometers", "Was a Catholic mission territory in the 19th century", "Temporarily served as a quarantine station for leprosy patients"],
+    },
   },
   {
     id: "newcaledonia-tadine-cities-v2",
@@ -627,6 +1011,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Home to the port connecting Maré with Nouméa.", "Seat of the municipal administration and major marketplace.", "Known for the surrounding coral cliffs and clear water.", "The settlement has a quiet and relaxed atmosphere."],
     },
     imageHint: "Tadine harbor and coastal road in Maré",
+    descriptionAdvanced: {
+      de: "Tadine ist das administrative Zentrum und der wichtigste Hafen der Insel Maré. Der Ort fungiert als logistisches Bindeglied für den Transport von Waren und Personen zwischen der Insel und der Hauptstadt Nouméa. Hier befinden sich wichtige öffentliche Einrichtungen wie das Rathaus, Postämter und eine historische katholische Mission.",
+      hu: "Tadine Maré szigetének közigazgatási központja és legfontosabb kikötője. A település logisztikai összekötőként szolgál az áruk és személyek szállítása során a sziget és a főváros, Nouméa között. Itt találhatók a fontos közintézmények, mint a városháza, a posták és egy történelmi katolikus misszió.",
+      ro: "Tadine este centrul administrativ și cel mai important port al insulei Maré. Localitatea funcționează ca o legătură logistică pentru transportul de mărfuri și persoane între insulă și capitala Nouméa. Aici se află instituții publice importante, cum ar fi primăria, oficii poștale și o misiune catolică istorică.",
+      en: "Tadine is the administrative center and the most important port on the island of Maré. The town serves as a logistical link for the transport of goods and people between the island and the capital, Nouméa. It houses essential public facilities such as the town hall, post offices, and a historic Catholic mission.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Gemeindeverwaltung von Maré", "Hafen wird regelmäßig von Passagierfähren angelaufen", "Besitzt eine katholische Kirche aus dem 19. Jahrhundert", "Marktplatz bietet lokale Produkte wie Vanille an", "Liegt an der Westküste der Insel Maré", "Wichtigster Versorgungspunkt für die lokale Bevölkerung"],
+      hu: ["Maré község önkormányzatának székhelye", "A kikötőt rendszeresen érintik az utasszállító kompok", "19. századi katolikus templommal rendelkezik", "A piactéren helyi termékeket, például vaníliát árulnak", "Maré szigetének nyugati partján fekszik", "A helyi lakosság legfontosabb ellátó központja"],
+      ro: ["Sediul administrației comunale din Maré", "Portul este deservit regulat de feriboturi de pasageri", "Deține o biserică catolică din secolul al XIX-lea", "Piața oferă produse locale, cum ar fi vanilia", "Situat pe coasta de vest a insulei Maré", "Cel mai important punct de aprovizionare pentru localnici"],
+      en: ["Seat of the municipal administration of Maré", "Port is regularly visited by passenger ferries", "Features a Catholic church dating from the 19th century", "The marketplace offers local products like vanilla", "Located on the western coast of Maré island", "Primary supply hub for the local population"],
+    },
   },
   {
     id: "newcaledonia-fayaoue-cities-v2",
@@ -646,6 +1042,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Seat of Ouvéa's town hall and gendarmerie station.", "The settlement extends linearly along the coastal road.", "Known for the nearby coconut oil refinery.", "Important meeting point for the local Kanak population."],
     },
     imageHint: "Fayaoué beach and traditional huts",
+    descriptionAdvanced: {
+      de: "Fayaoué ist die größte Siedlung auf dem Atoll Ouvéa und erstreckt sich entlang der westlichen Lagunenseite. Der Ort ist bekannt für seine weitläufige Anordnung von traditionellen Kanak-Hütten und modernen Verwaltungsgebäuden. Als Zentrum der Insel beherbergt Fayaoué die wichtigsten Schulen, Kirchen und die Gendarmerie.",
+      hu: "Fayaoué Ouvéa atolljának legnagyobb települése, amely a nyugati lagúna mentén húzódik. A falu híres a hagyományos kanak kunyhók és a modern közigazgatási épületek kiterjedt elrendezéséről. A sziget központjaként Fayaoué ad otthont a legfontosabb iskoláknak, templomoknak és a csendőrségnek.",
+      ro: "Fayaoué este cea mai mare așezare de pe atolul Ouvéa și se întinde de-a lungul părții de vest a lagunei. Localitatea este cunoscută pentru dispunerea sa vastă de colibe tradiționale Kanak și clădiri administrative moderne. Ca centru al insulei, Fayaoué găzduiește principalele școli, biserici și jandarmeria.",
+      en: "Fayaoué is the largest settlement on the Ouvéa atoll, stretching along the western lagoon side. The town is known for its extensive layout of traditional Kanak huts and modern administrative buildings. As the island's hub, Fayaoué houses the main schools, churches, and the gendarmerie.",
+    },
+    factsAdvanced: {
+      de: ["Hauptort der Gemeinde Ouvéa", "Erstreckt sich über mehrere Kilometer Küstenlinie", "Besitzt eine markante katholische Kirche im Zentrum", "Gendarmerie war Schauplatz der Ereignisse von 1988", "Wichtigster Markt für Kokosöl und Meeresfrüchte", "Liegt direkt an einem 25 km langen Sandstrand"],
+      hu: ["Ouvéa község központja", "Több kilométernyi tengerpart mentén húzódik", "A központban egy jellegzetes katolikus templom található", "A csendőrség az 1988-as események színhelye volt", "A kókuszolaj és a tenger gyümölcseinek legfontosabb piaca", "Közvetlenül egy 25 km hosszú homokos strand mellett fekszik"],
+      ro: ["Localitatea principală a comunei Ouvéa", "Se întinde pe mai mulți kilometri de coastă", "Deține o biserică catolică proeminentă în centru", "Jandarmeria a fost scena evenimentelor din 1988", "Cea mai importantă piață pentru ulei de cocos și pește", "Situată direct lângă o plajă de nisip de 25 km lungime"],
+      en: ["Main town of the Ouvéa municipality", "Extends over several kilometers of coastline", "Features a prominent Catholic church in the center", "The gendarmerie was the site of the 1988 events", "Major market for coconut oil and seafood", "Located directly adjacent to a 25 km long sandy beach"],
+    },
   },
   {
     id: "newcaledonia-vao-cities-v2",
@@ -665,6 +1073,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Home to the Catholic church Notre-Dame de l'Assomption.", "Seat of the island's traditional council of chiefs.", "Known for its colorful market and the local mission.", "The village is situated in a sheltered bay in the south of the island."],
     },
     imageHint: "Catholic church and traditional totems in Vao",
+    descriptionAdvanced: {
+      de: "Vao ist der zentrale Ort auf der Isle of Pines und das Herz der lokalen Kanak-Gemeinschaft. Das Dorf ist um die katholische Mission gruppiert, die Mitte des 19. Jahrhunderts gegründet wurde. Vao ist der Sitz des traditionellen Oberhauptes der Insel und spielt eine entscheidende Rolle bei der Bewahrung der Bräuche und Traditionen der Kunie.",
+      hu: "Vao a Fenyő-sziget központi települése és a helyi kanak közösség szíve. A falu a 19. század közepén alapított katolikus misszió köré csoportosul. Vao a sziget hagyományos főnökének székhelye, és döntő szerepet játszik a Kunie szokások és hagyományok megőrzésében.",
+      ro: "Vao este localitatea centrală de pe Insula Pinilor și inima comunității locale Kanak. Satul este grupat în jurul misiunii catolice, fondată la mijlocul secolului al XIX-lea. Vao este reședința șefului tradițional al insulei și joacă un rol crucial în păstrarea obiceiurilor și tradițiilor Kunie.",
+      en: "Vao is the central village on the Isle of Pines and the heart of the local Kanak community. The village is clustered around the Catholic mission, which was founded in the mid-19th century. Vao is the seat of the island's traditional chief and plays a decisive role in preserving Kunie customs and traditions.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Gemeinde Île des Pins", "Katholische Mission wurde 1848 gegründet", "Besitzt eine Kirche mit traditioneller Schnitzkunst", "In der Nähe befindet sich die Statue von Saint Maurice", "Wöchentlicher Markt für lokales Kunsthandwerk", "Sitz der acht traditionellen Stämme der Insel"],
+      hu: ["A Fenyő-sziget község központja", "A katolikus missziót 1848-ban alapították", "Temploma hagyományos fafaragásokkal díszített", "Közelében található Szent Móric szobra", "Heti piac a helyi kézműves termékek számára", "A sziget nyolc hagyományos törzsének székhelye"],
+      ro: ["Centrul comunei Île des Pins", "Misiunea catolică a fost fondată în 1848", "Deține o biserică decorată cu sculpturi tradiționale", "În apropiere se află statuia Sfântului Mauriciu", "Piață săptămânală pentru artizanat local", "Reședința celor opt triburi tradiționale ale insulei"],
+      en: ["Center of the Isle of Pines municipality", "The Catholic mission was established in 1848", "Features a church with traditional wood carvings", "The Statue of Saint Maurice is located nearby", "Weekly market for local handicrafts", "Seat of the island's eight traditional tribes"],
+    },
   },
   {
     id: "newcaledonia-tontouta-cities-v2",
@@ -684,6 +1104,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["La Tontouta Airport is the territory's main gateway to the world.", "Located in Païta commune on the banks of the Tontouta River.", "Significant site for military logistics and civil aviation.", "The settlement consists mainly of airport staff and local farmers."],
     },
     imageHint: "La Tontouta International Airport terminal",
+    descriptionAdvanced: {
+      de: "La Tontouta ist vor allem als Standort des internationalen Flughafens von Neukaledonien bekannt. Der Ort liegt am Ufer des gleichnamigen Flusses Tontouta und etwa 50 Kilometer nordwestlich der Hauptstadt Nouméa. Neben dem Flugverkehr ist die Region durch Landwirtschaft und die industrielle Nutzung der umliegenden Nickelvorkommen geprägt.",
+      hu: "La Tontouta elsősorban Új-Kaledónia nemzetközi repülőterének helyszínéről ismert. A település az azonos nevű Tontouta-folyó partján fekszik, körülbelül 50 kilométerre északnyugatra a fővárostól, Nouméától. A légi közlekedés mellett a régiót a mezőgazdaság és a környékbeli nikkelkészletek ipari hasznosítása jellemzi.",
+      ro: "La Tontouta este cunoscută în principal ca locație a aeroportului internațional din Noua Caledonie. Localitatea este situată pe malul râului omonim Tontouta, la aproximativ 50 de kilometri nord-vest de capitala Nouméa. Pe lângă traficul aerian, regiunea este marcată de agricultură și exploatarea industrială a zăcămintelor de nichel din jur.",
+      en: "La Tontouta is primarily known as the site of New Caledonia's international airport. The settlement is situated on the banks of the Tontouta River, approximately 50 kilometers northwest of the capital, Nouméa. Besides air traffic, the region is characterized by agriculture and the industrial utilization of surrounding nickel deposits.",
+    },
+    factsAdvanced: {
+      de: ["Flughafen La Tontouta (NOU) ist der größte des Landes", "Gehört zur Gemeinde Païta", "Wurde im Zweiten Weltkrieg als Militärbasis genutzt", "Liegt ca. 50 km von Nouméa entfernt", "Fluss Tontouta ist ein wichtiges Süßwasserreservoir", "Strategischer Knotenpunkt für den Bergbau der Region"],
+      hu: ["A La Tontouta repülőtér (NOU) az ország legnagyobbja", "Païta községhez tartozik", "A második világháborúban katonai bázisként szolgált", "Körülbelül 50 km-re fekszik Nouméától", "A Tontouta-folyó fontos édesvízforrás", "A régió bányászatának stratégiai csomópontja"],
+      ro: ["Aeroportul La Tontouta (NOU) este cel mai mare din țară", "Aparține de comuna Païta", "Folosit ca bază militară în Al Doilea Război Mondial", "Situat la circa 50 km distanță de Nouméa", "Râul Tontouta este un rezervor important de apă dulce", "Nod strategic pentru mineritul din regiune"],
+      en: ["La Tontouta Airport (NOU) is the country's largest", "Part of the municipality of Païta", "Used as a military base during World War II", "Located roughly 50 km from Nouméa", "The Tontouta River is a vital freshwater reservoir", "Strategic hub for mining activities in the region"],
+    },
   },
   {
     id: "newcaledonia-plum-cities-v2",
@@ -703,6 +1135,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["The spring at Plum provides free mineral water to the public.", "Home to an important military base for the RIMAP-NC regiment.", "A popular weekend destination for residents of Nouméa.", "Known for panoramic views of the lagoon and offshore islets."],
     },
     imageHint: "The public water spring fountain in Plum",
+    descriptionAdvanced: {
+      de: "Plum ist eine Küstensiedlung in der Gemeinde Le Mont-Dore, südöstlich von Nouméa. Der Ort ist in Neukaledonien berühmt für seine Mineralwasserquelle, die als 'Fontaine de Plum' bekannt ist und kommerziell genutzt wird. Die Umgebung bietet malerische Ausblicke auf die Küste und ist ein beliebtes Ziel für Wanderer und Naturliebhaber.",
+      hu: "Plum egy tengerparti település Le Mont-Dore községben, Nouméától délkeletre. A hely Új-Kaledóniában híres az ásványvízforrásáról, amelyet 'Fontaine de Plum' néven ismernek és kereskedelmi forgalomba hoznak. A környék festői kilátást nyújt a tengerpartra, és népszerű célpont a túrázók és a természetkedvelők körében.",
+      ro: "Plum este o așezare de coastă în comuna Le Mont-Dore, la sud-est de Nouméa. Localitatea este faimoasă în Noua Caledonie pentru izvorul său de apă minerală, cunoscut sub numele de 'Fontaine de Plum' și utilizat comercial. Împrejurimile oferă vederi pitorești ale coastei și sunt o destinație populară pentru excursioniști.",
+      en: "Plum is a coastal settlement in the municipality of Le Mont-Dore, southeast of Nouméa. The place is famous in New Caledonia for its mineral water spring, known as 'Fontaine de Plum', which is commercially bottled. The surrounding area offers picturesque coastal views and is a popular destination for hikers and nature lovers.",
+    },
+    factsAdvanced: {
+      de: ["Bekannt für die Quelle 'Fontaine de Plum'", "Liegt etwa 30 Kilometer von Nouméa entfernt", "Wichtiges Militärlager befindet sich im Ort", "Einer der wenigen Orte mit eigener Wasserabfüllanlage", "Region ist Teil des Mont-Dore-Gebirgsmassivs", "Beliebter Ausgangspunkt für Ausflüge in den Süden"],
+      hu: ["A 'Fontaine de Plum' forrásáról ismert", "Körülbelül 30 kilométerre fekszik Nouméától", "A településen fontos katonai tábor található", "A kevés hely egyike, ahol saját vízpalackozó üzem működik", "A régió a Mont-Dore hegymasszívum része", "Népszerű kiindulópont déli kirándulásokhoz"],
+      ro: ["Cunoscut pentru izvorul 'Fontaine de Plum'", "Situat la aproximativ 30 de kilometri de Nouméa", "O tabără militară importantă se află în localitate", "Unul dintre puținele locuri cu propria unitate de îmbuteliere", "Regiunea face parte din masivul muntos Mont-Dore", "Punct de plecare popular pentru excursii în sud"],
+      en: ["Famous for the 'Fontaine de Plum' spring", "Located about 30 kilometers from Nouméa", "An important military camp is situated in the town", "One of the few places with its own water bottling plant", "The region is part of the Mont-Dore mountain massif", "Popular starting point for excursions to the south"],
+    },
   },
   {
     id: "newcaledonia-prony-cities-v2",
@@ -722,6 +1166,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Home to the ruins of an old prison site from the 19th century.", "Major site for modern nickel processing (Goro Nickel).", "A popular starting point for whale watching tours during winter.", "Famous for the massive banyan trees growing over the ruins."],
     },
     imageHint: "Banyan trees growing over stone ruins in Prony",
+    descriptionAdvanced: {
+      de: "Prony ist ein historisches Dorf im äußersten Süden von Grande Terre, gelegen an der malerischen Baie de Prony. Gegründet Mitte des 19. Jahrhunderts, diente es zunächst der Holzgewinnung und später als Zulieferer für die Strafkolonie. Heute sind die Ruinen der alten Gebäude von Banyan-Bäumen überwuchert und bilden eine markante historische Stätte.",
+      hu: "Prony egy történelmi falu Grande Terre legdélibb részén, a festői Prony-öbölben. A 19. század közepén alapították, kezdetben fakitermelésre szolgált, majd később a büntetőtelep beszállítója lett. Mára a régi épületek romjait banjánfák nőtték be, így egy különleges történelmi helyszínt alkotnak.",
+      ro: "Prony este un sat istoric în extremul sud al insulei Grande Terre, situat în golful pitoresc Baie de Prony. Fondat la mijlocul secolului al XIX-lea, a servit inițial pentru extracția lemnului și mai târziu ca furnizor pentru colonia penitenciară. Astăzi, ruinele clădirilor vechi sunt acoperite de copaci banyan, formând un sit istoric remarcabil.",
+      en: "Prony is a historic village in the far south of Grande Terre, located on the picturesque Baie de Prony. Founded in the mid-19th century, it initially served for timber extraction and later as a supplier for the penal colony. Today, the ruins of the old buildings are overgrown by banyan trees, forming a striking historical site.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1854 für die Forstwirtschaft", "Ehemaliges Gefangenenlager für deportierte Kommunarden", "Bekannt für die 'Aiguille de Prony', eine Unterwassernadel", "Liegt in der Gemeinde Le Mont-Dore", "Regelmäßiger Beobachtungspunkt für Buckelwale (Juli-Sept)", "Historische Überreste sind teilweise denkmalgeschützt"],
+      hu: ["1854-ben alapították erdészeti célokra", "Egykori fogolytábor deportált kommunárok számára", "Híres az 'Aiguille de Prony' nevű víz alatti formációról", "Le Mont-Dore községben található", "Rendszeres megfigyelőhely hosszúszárnyú bálnák számára (júli-szept)", "A történelmi maradványok egy része műemlékvédelem alatt áll"],
+      ro: ["Fondat în 1854 pentru industria forestieră", "Fost lagăr de prizonieri pentru comunarzii deportați", "Cunoscut pentru 'Aiguille de Prony', un ac subaquatic", "Situat în comuna Le Mont-Dore", "Punct regulat de observare a balenelor cu cocoașă (iulie-sept)", "Vestigiile istorice sunt parțial protejate prin lege"],
+      en: ["Founded in 1854 for forestry purposes", "Former prisoner camp for deported Communards", "Famous for the 'Aiguille de Prony', an underwater needle", "Located in the municipality of Le Mont-Dore", "Regular observation point for humpback whales (July-Sept)", "Historical remains are partially protected as heritage sites"],
+    },
   },
   {
     id: "newcaledonia-goro-cities-v2",
@@ -741,6 +1197,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Site of the Goro Nickel plant, a massive industrial complex.", "The village maintains its traditional structure despite the industry.", "Known for spectacular red soil and rare endemic plants.", "Located near the marine park of the Great South."],
     },
     imageHint: "Large industrial nickel plant near Goro village",
+    descriptionAdvanced: {
+      de: "Goro ist ein Dorf an der Südostküste von Grande Terre in der Gemeinde Yaté. Die Region ist weltweit bekannt für ihre massiven Nickelvorkommen und beherbergt eine der größten Verarbeitungsanlagen für Nickel und Kobalt. Trotz der industriellen Prägung bewahrt Goro seine traditionelle kanakische Struktur und liegt eingebettet in die rote Erde des Südens.",
+      hu: "Goro egy falu Grande Terre délkeleti partján, Yaté községben. A régió világszerte ismert hatalmas nikkelkészleteiről, és itt található a világ egyik legnagyobb nikkel- és kobaltfeldolgozó üzeme. Az ipari jelleg ellenére Goro megőrzi hagyományos kanak szerkezetét, a dél vörös földjébe ágyazva.",
+      ro: "Goro este un sat de pe coasta de sud-est a insulei Grande Terre, în comuna Yaté. Regiunea este cunoscută la nivel mondial pentru zăcămintele sale masive de nichel și găzduiește una dintre cele mai mari uzine de procesare a nichelului și cobaltului. În ciuda amprentei industriale, Goro își păstrează structura tradițională Kanak.",
+      en: "Goro is a village on the southeastern coast of Grande Terre in the municipality of Yaté. The region is globally known for its massive nickel deposits and houses one of the world's largest nickel and cobalt processing plants. Despite the industrial presence, Goro preserves its traditional Kanak structure, nestled in the red soil of the south.",
+    },
+    factsAdvanced: {
+      de: ["Standort der riesigen Goro-Nickel-Mine", "Gehört zur Gemeinde Yaté", "Landschaft ist durch lateritische 'Rote Erde' geprägt", "Verarbeitungsanlage kostete mehrere Milliarden Dollar", "Liegt in der Nähe des Grand Lac Sud", "Region besitzt eine hohe endemische Pflanzenvielfalt"],
+      hu: ["A hatalmas Goro-nikkelbánya helyszíne", "Yaté községhez tartozik", "A tájat a laterites 'vörös föld' jellemzi", "A feldolgozóüzem több milliárd dollárba került", "A Grand Lac Sud közelében fekszik", "A régió magas endemikus növényi diverzitással rendelkezik"],
+      ro: ["Locația uriașei mine de nichel Goro", "Aparține de comuna Yaté", "Peisajul este marcat de 'Pământul Roșu' lateritic", "Uzina de procesare a costat câteva miliarde de dolari", "Situat în apropierea lacului Grand Lac Sud", "Regiunea deține o mare diversitate de plante endemice"],
+      en: ["Site of the massive Goro Nickel mine", "Part of the Yaté municipality", "Landscape is dominated by lateritic 'Red Soil'", "The processing plant cost several billion dollars", "Located near the Grand Lac Sud", "Region possesses high endemic plant biodiversity"],
+    },
   },
   {
     id: "newcaledonia-chepenehe-cities-v2",
@@ -760,6 +1228,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Major arrival point for international tourists visiting Lifou.", "Known for the colorful local market situated near the pier.", "Located near the picturesque Santal Bay.", "A hub for traditional crafts and local souvenirs."],
     },
     imageHint: "Cruise ship anchored in the bay near Chépénéhé",
+    descriptionAdvanced: {
+      de: "Chépénéhé ist ein bedeutendes Dorf an der Westküste der Insel Lifou, gelegen an der Bucht von Santal. Es dient als wichtiger Anlaufpunkt für internationale Kreuzfahrtschiffe, deren Passagiere die traditionelle Kultur und die Naturschönheiten der Insel erkunden. Der Ort beherbergt markante Bauwerke wie die katholische Kirche Notre-Dame de Lourdes.",
+      hu: "Chépénéhé egy jelentős falu Lifou szigetének nyugati partján, a Santal-öbölben. Fontos kikötőhelyként szolgál a nemzetközi skandináv hajók számára, amelyek utasai a sziget hagyományos kultúráját és természeti szépségeit fedezik fel. A település olyan jellegzetes építményeknek ad otthont, mint a Notre-Dame de Lourdes katolikus templom.",
+      ro: "Chépénéhé este un sat important pe coasta de vest a insulei Lifou, situat în golful Santal. Servește ca punct de oprire major pentru navele de croazieră internaționale, ai căror pasageri explorează cultura tradițională și frumusețile naturale ale insulei. Localitatea găzduiește edificii marcante, precum biserica catolică Notre-Dame de Lourdes.",
+      en: "Chépénéhé is a significant village on the western coast of Lifou island, located in Santal Bay. It serves as a major port of call for international cruise ships, with passengers exploring the island's traditional culture and natural beauty. The village houses striking landmarks such as the Notre-Dame de Lourdes Catholic church.",
+    },
+    factsAdvanced: {
+      de: ["Wichtigster Hafen für Kreuzfahrtschiffe auf Lifou", "Notre-Dame de Lourdes wurde 1898 erbaut", "Bietet weite Ausblicke über die Baie du Santal", "Ort ist bekannt für Vanille-Plantagen in der Nähe", "Sitz mehrerer traditioneller Kanak-Cheferien", "Liegt im Norden der Insel Lifou"],
+      hu: ["Lifou legfontosabb kikötője a sétahajók számára", "A Notre-Dame de Lourdes templom 1898-ban épült", "Tágas kilátást nyújt a Santal-öbölre", "A település híres a közelében lévő vaníliaültetvényekről", "Több hagyományos kanak főnökség székhelye", "Lifou szigetének északi részén található"],
+      ro: ["Cel mai important port pentru nave de croazieră pe Lifou", "Biserica Notre-Dame de Lourdes a fost construită în 1898", "Oferă vederi largi asupra golfului Santal", "Localitatea este cunoscută pentru plantațiile de vanilie din jur", "Sediul mai multor căpetenii tradiționale Kanak", "Situat în nordul insulei Lifou"],
+      en: ["Main port for cruise ships on Lifou", "Notre-Dame de Lourdes was built in 1898", "Offers expansive views over Santal Bay", "The town is famous for nearby vanilla plantations", "Seat of several traditional Kanak chiefdoms", "Located in the northern part of Lifou island"],
+    },
   },
   {
     id: "newcaledonia-mouli-cities-v2",
@@ -779,6 +1259,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["The Mouli Bridge offers views of turtles and rays in the water below.", "Boasts one of the whitest sand beaches in the entire Pacific region.", "Extremely popular subject for postcards and travel guides.", "The village maintains a strong traditional tribal structure."],
     },
     imageHint: "The Mouli Bridge over turquoise water in Ouvéa",
+    descriptionAdvanced: {
+      de: "Mouli ist ein malerisches Dorf am südlichen Ende des Ouvéa-Atolls. Es ist berühmt für die Mouli-Brücke, die das Dorf mit der Insel Lekiny verbindet und einen spektakulären Blick auf das türkisfarbene Wasser der Lagune bietet. Der Ort wird oft als einer der schönsten Plätze Neukaledoniens bezeichnet, geprägt durch seine unberührten Korallenstrände.",
+      hu: "Mouli egy festői falu az Ouvéa-atoll déli végén. Híres a Mouli-hídról, amely összeköti a falut Lekiny szigetével, és látványos kilátást nyújt a lagúna türkizkék vizére. A helyet gyakran Új-Kaledónia egyik legszebb pontjaként emlegetik, amelyet érintetlen korallstrandjai határoznak meg.",
+      ro: "Mouli este un sat pitoresc în extremitatea sudică a atolului Ouvéa. Este celebru pentru podul Mouli, care conectează satul de insula Lekiny și oferă o vedere spectaculoasă asupra apelor turcoaz ale lagunei. Localitatea este adesea considerată unul dintre cele mai frumoase locuri din Noua Caledonie, marcat de plajele sale de corali virgine.",
+      en: "Mouli is a picturesque village at the southern end of the Ouvéa atoll. It is famous for the Mouli Bridge, which connects the village to the island of Lekiny and offers spectacular views of the lagoon's turquoise waters. The place is often cited as one of the most beautiful spots in New Caledonia, defined by its pristine coral beaches.",
+    },
+    factsAdvanced: {
+      de: ["Berühmte Mouli-Brücke wurde 1982 errichtet", "Gehört zum UNESCO-Welterbe-Gebiet", "Strand von Mouli ist über 20 km lang", "Kristallklares Wasser erlaubt Sichtung von Rochen", "Liegt am südlichen Ende des Ouvéa-Atolls", "Wichtigstes Touristenziel der Insel Ouvéa"],
+      hu: ["A híres Mouli-híd 1982-ben épült", "Az UNESCO világörökségi terület része", "Mouli strandja több mint 20 km hosszú", "A kristálytiszta vízben gyakran látni rájákat", "Az Ouvéa-atoll déli végén található", "Ouvéa szigetének legfontosabb turisztikai célpontja"],
+      ro: ["Celebrul pod Mouli a fost construit în 1982", "Face parte din zona patrimoniului mondial UNESCO", "Plaja din Mouli are o lungime de peste 20 km", "Apa cristalină permite observarea pisicilor de mare", "Situat în extremitatea sudică a atolului Ouvéa", "Principala destinație turistică a insulei Ouvéa"],
+      en: ["The famous Mouli Bridge was built in 1982", "Part of the UNESCO World Heritage area", "Mouli beach is over 20 km long", "Crystal-clear water allows sightings of rays", "Located at the southern end of the Ouvéa atoll", "Most important tourist destination on Ouvéa island"],
+    },
   },
   {
     id: "newcaledonia-la-roche-cities-v2",
@@ -798,6 +1290,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["The settlement is dominated by a massive limestone monolith.", "Site of one of the oldest churches in the Loyalty Islands.", "Known for local legends regarding the origins of Maré's people.", "Features a small regional airfield located nearby."],
     },
     imageHint: "The large limestone rock overlooking La Roche village",
+    descriptionAdvanced: {
+      de: "La Roche ist eine Siedlung im Norden der Insel Maré, benannt nach einer markanten Felsformation, die den Ort überragt. Der Ort beherbergt den lokalen Flughafen der Insel, was ihn zu einem wichtigen Verkehrsknotenpunkt macht. Von den Klippen aus bietet sich ein weiter Blick über die Korallenküste und die dichten Wälder im Inselinneren.",
+      hu: "La Roche egy település Maré szigetének északi részén, amely egy jellegzetes, a falut uraló sziklaformációról kapta a nevét. Itt található a sziget helyi repülőtere, ami fontos közlekedési csomóponttá teszi. A sziklákról tágas kilátás nyílik a korallpartra és a sziget belsejének sűrű erdőire.",
+      ro: "La Roche este o așezare în nordul insulei Maré, numită după o formațiune stâncoasă proeminentă care domină localitatea. Satul găzduiește aeroportul local al insulei, fiind un nod important de transport. De pe stânci se deschide o vedere largă asupra coastei de corali și a pădurilor dense din interiorul insulei.",
+      en: "La Roche is a settlement in the north of Maré island, named after a prominent rock formation that overlooks the village. The town houses the island's local airport, making it a key transport hub. From the cliffs, there is an expansive view over the coral coast and the dense forests of the island's interior.",
+    },
+    factsAdvanced: {
+      de: ["Standort des Flughafens Maré (GEE)", "Benannt nach dem 60 Meter hohen Felsmonolithen", "Besitzt Überreste einer alten Befestigungsanlage", "Liegt im Distrikt La Roche im Norden von Maré", "Felsen dient als Nistplatz für Seevögel", "Wichtiger Ausgangspunkt für die Erkundung Nord-Marés"],
+      hu: ["A Maré repülőtér (GEE) helyszíne", "A 60 méter magas sziklamonolitról kapta a nevét", "Egy régi erődítmény maradványaival rendelkezik", "Maré északi részén, La Roche körzetében található", "A szikla tengeri madarak fészkelőhelye", "Fontos kiindulópont Észak-Maré felfedezéséhez"],
+      ro: ["Locația aeroportului Maré (GEE)", "Numit după monolitul de stâncă înalt de 60 de metri", "Deține resturile unei vechi fortificații", "Situat în districtul La Roche din nordul Maré", "Stânca servește ca loc de cuibărit pentru păsările marine", "Punct de plecare important pentru explorarea nordului insulei Maré"],
+      en: ["Site of the Maré Airport (GEE)", "Named after a 60-meter high rock monolith", "Contains remains of an old fortification", "Located in the La Roche district in northern Maré", "The rock serves as a nesting site for seabirds", "Key starting point for exploring northern Maré"],
+    },
   },
   {
     id: "newcaledonia-eni-cities-v2",
@@ -817,6 +1321,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["A hub for the traditional fishing practices of the islanders.", "Known for its hospitality and rural homestay accommodations.", "The coastline is defined by high coral cliffs and caves.", "Important site for cultural ceremonies of the local tribes."],
     },
     imageHint: "Coastal cliffs and turquoise water at Eni, Maré",
+    descriptionAdvanced: {
+      de: "Eni ist ein malerisches Dorf an der Südküste der Insel Maré in den Loyalitätsinseln. Die Region ist bekannt für ihre traditionellen Kanak-Strukturen und ihre enge Verbindung zur Meeresumwelt. Die umliegenden Gewässer sind Teil eines geschützten Meeresgebiets, das eine hohe Artenvielfalt aufweist.",
+      hu: "Eni egy hagyományos kanaka falu Maré szigetének déli partján, a Hűség-szigeteken. A település híres a tiszta vizű öbleiről és a helyi közösség vendégszeretetéről. A környék part menti sziklái és barlangjai jelentős geológiai és kulturális értéket képviselnek a térségben.",
+      ro: "Eni este un sat tradițional situat pe coasta de sud a insulei Maré, în Insulele Loialității. Localitatea este renumită pentru plajele sale virgine și pentru păstrarea stilului de viață autentic kanak. Apele din jurul satului sunt protejate, adăpostind numeroase specii de broaște țestoase marine.",
+      en: "Eni is a traditional Kanak village located on the southern coast of Maré Island in the Loyalty Islands. The area is renowned for its pristine coastal landscapes and its strong cultural heritage. The surrounding marine environment is part of a protected zone, hosting a diverse range of aquatic life.",
+    },
+    factsAdvanced: {
+      de: ["Liegt an der Südküste der Insel Maré", "Teil der Gemeinde Tadine", "Bekannt für das Schildkrötenschutzgebiet", "Traditionelle Kanak-Hütten prägen das Ortsbild", "Kristallklares Wasser in der Eni-Bucht", "Wichtiger Ort für den lokalen Ökotourismus"],
+      hu: ["Maré szigetének déli részén található", "Tadine községéhez tartozik közigazgatásilag", "Híres a tengeri teknősök megfigyelőhelyeiről", "A településen hagyományos kanaka kunyhók láthatók", "Az Eni-öböl vize rendkívül átlátszó", "A helyi gazdaság alapja a halászat és az ökoturizmus"],
+      ro: ["Situat pe coasta sudică a insulei Maré", "Aparține administrativ de comuna Tadine", "Cunoscut pentru sanctuarul de broaște țestoase", "Arhitectura este dominată de colibe tradiționale kanak", "Golful Eni oferă vizibilitate subacvatică excelentă", "Destinație importantă pentru turismul sustenabil"],
+      en: ["Located on the southern coast of Maré Island", "Part of the municipality of Tadine", "Known for its sea turtle nesting areas", "Features traditional Kanak hut architecture", "The waters of Eni Bay are exceptionally clear", "A key location for local community-based ecotourism"],
+    },
   },
   {
     id: "newcaledonia-anse-vata-cities-v2",
@@ -836,6 +1352,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Primary location for windsurfing and kitesurfing in the territory.", "Home to the Aquarium of the Lagoon and the Oceanographic Institute.", "A hub for nightlife and high-end dining experiences.", "The beach offers a direct view of the offshore Îlot Maître."],
     },
     imageHint: "The waterfront promenade and beach at Anse Vata",
+    descriptionAdvanced: {
+      de: "Anse Vata ist das wichtigste touristische Zentrum von Nouméa und bekannt für seine lange Bucht und Promenade. Das Viertel beherbergt zahlreiche Hotels, Restaurants und Wassersportzentren. Aufgrund der beständigen Winde ist es ein international bekannter Ort für Windsurfen und Kitesurfen.",
+      hu: "Az Anse Vata Nouméa legjelentősebb turisztikai negyede, amely hosszú, homokos tengerpartjáról ismert. A környéken számos luxusszálloda, étterem és szabadidős központ található. Az állandó passzátszelek miatt a vízi sportok, különösen a szörfözés egyik világszínvonalú központja.",
+      ro: "Anse Vata este principalul centru turistic din Nouméa, renumit pentru golful său larg și faleza animată. Cartierul găzduiește numeroase hoteluri, restaurante și facilități pentru sporturi nautice. Datorită vânturilor constante, este o locație de talie mondială pentru windsurfing și kitesurfing.",
+      en: "Anse Vata is the primary tourist hub of Nouméa, famous for its long bay and scenic promenade. The district hosts a large concentration of hotels, restaurants, and leisure facilities. Due to consistent trade winds, it is an internationally recognized spot for windsurfing and kitesurfing.",
+    },
+    factsAdvanced: {
+      de: ["Südlichstes Viertel der Halbinsel von Nouméa", "Beliebtester Badestrand der Hauptstadt", "Wichtiger Standort für internationale Windsurf-Wettbewerbe", "In der Nähe befindet sich das Aquarium des Lagons", "Startpunkt für Taxiboote zu den vorgelagerten Inseln", "Die Promenade ist etwa 2 Kilometer lang"],
+      hu: ["Nouméa félszigetének legdélebbi része", "A főváros legnépszerűbb fürdőhelye", "Nemzetközi szörfversenyek állandó helyszíne", "A közelben található az Aquarium des Lagons", "Kiindulópont a közeli korallszigetekre induló hajóknak", "A tengerparti sétány hossza megközelíti a 2 kilométert"],
+      ro: ["Cel mai sudic cartier de pe peninsula Nouméa", "Cea mai populară plajă din capitală", "Locație gazdă pentru competiții internaționale de windsurfing", "Situat în apropierea Acvariului Lagunelor", "Punct de plecare pentru taxiurile pe apă către insulițe", "Faleza are o lungime de aproximativ 2 kilometri"],
+      en: ["Southernmost district of the Nouméa peninsula", "The most popular swimming beach in the capital", "Host site for international windsurfing competitions", "Located near the Aquarium des Lagons", "Departure point for water taxis to nearby islets", "The promenade stretches for approximately 2 kilometers"],
+    },
   },
   {
     id: "newcaledonia-baie-des-citrons-cities-v2",
@@ -855,6 +1383,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Boasts the most popular family-friendly beach in the capital.", "Known for its lively promenade with numerous bars and cafes.", "The name is derived from the lemon trees that once grew here.", "The bay is almost always calm and protected from strong winds."],
     },
     imageHint: "The beach at Lemon Bay (Baie des Citrons) at sunset",
+    descriptionAdvanced: {
+      de: "Die Baie des Citrons, oft 'BDC' genannt, ist eine geschützte Bucht in Nouméa, die für ihr ruhiges Wasser bekannt ist. Sie ist ein beliebter Treffpunkt für Einheimische und Touristen gleichermaßen, besonders in den Abendstunden. Die Uferpromenade ist gesäumt von Cafés, Bars und Geschäften, die ein lebhaftes Ambiente bieten.",
+      hu: "A Baie des Citrons, vagyis a Citrom-öböl Nouméa egyik legkedveltebb pihenőhelye, amely védett fekvésének köszönhetően nyugodt vízzel várja a látogatókat. A part menti sétány éttermekkel és bárokkal teli, így a város éjszakai életének központja is. Ideális helyszín az úszásra és a naplemente megtekintésére.",
+      ro: "Baie des Citrons, cunoscută local ca 'BDC', este un golf protejat din Nouméa, apreciat pentru apele sale calme. Este un loc de întâlnire popular pentru localnici și turiști, oferind o atmosferă relaxată. Faleza este mărginită de cafenele, baruri și magazine, fiind inima vieții nocturne a orașului.",
+      en: "Baie des Citrons, commonly referred to as 'BDC', is a sheltered bay in Nouméa known for its calm waters. It serves as a popular social hub for both locals and tourists, especially during the evening hours. The waterfront is lined with cafes, bars, and boutiques, providing a vibrant urban atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Liegt unmittelbar westlich von Anse Vata", "Vom Südostpassat weitgehend geschützte Bucht", "Beliebter Ort für Freiwasserschwimmer", "Zentrum des Nachtlebens in Nouméa", "Früher Standort von Zitronenplantagen", "Die Bucht ist etwa 1 Kilometer breit"],
+      hu: ["Közvetlenül az Anse Vatától nyugatra fekszik", "A délkeleti passzátszéltől védett terület", "A nyíltvízi úszók kedvenc edzőhelye", "Nouméa éjszakai életének fő központja", "Nevét a korábban itt található citromültetvényekről kapta", "Az öböl szélessége körülbelül 1 kilométer"],
+      ro: ["Situat imediat la vest de Anse Vata", "Golf protejat de vânturile alizee de sud-est", "Locație preferată pentru înotul în ape deschise", "Principalul centru al vieții de noapte din Nouméa", "Numele provine de la fostele plantații de lămâi", "Golful are o lățime de aproximativ 1 kilometru"],
+      en: ["Located immediately west of Anse Vata", "Sheltered from the prevailing southeast trade winds", "Favorite training spot for open-water swimmers", "The main center of Nouméa's nightlife", "Named after former lemon plantations in the area", "The bay is approximately 1 kilometer wide"],
+    },
   },
   {
     id: "newcaledonia-ducos-cities-v2",
@@ -874,6 +1414,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Home to the majority of the city's warehouses and workshops.", "Originally served as a site for political prisoners of the Paris Commune.", "Hosts the territory's largest supermarkets and car dealerships.", "Major employment hub for thousands of daily commuters."],
     },
     imageHint: "Industrial warehouses and harbor in Ducos district",
+    descriptionAdvanced: {
+      de: "Ducos ist das wichtigste Industrie- und Gewerbegebiet von Nouméa, das sich auf einer gleichnamigen Halbinsel im Nordwesten befindet. Hier konzentrieren sich Logistikunternehmen, Fabriken und große Einzelhandelsmärkte. Historisch war die Halbinsel während des 19. Jahrhunderts ein Ort der Verbannung für politische Gefangene.",
+      hu: "Ducos Nouméa legfontosabb ipari és kereskedelmi negyede, amely az azonos nevű félszigeten terül el a város északnyugati részén. Itt találhatók a legnagyobb logisztikai központok, gyárak és áruházak. Történelmileg a 19. században politikai száműzöttek kényszerlakhelyeként szolgált.",
+      ro: "Ducos este principala zonă industrială și comercială din Nouméa, situată pe o peninsulă omonimă în partea de nord-vest a orașului. Concentrează companii de logistică, fabrici și mari centre comerciale. Din punct de vedere istoric, peninsula a fost un loc de detenție pentru deținuții politici în secolul al XIX-lea.",
+      en: "Ducos is the primary industrial and commercial hub of Nouméa, situated on a peninsula of the same name in the northwest. It concentrates logistics companies, factories, and large-scale retail outlets. Historically, the peninsula served as a place of exile for political prisoners during the 19th century.",
+    },
+    factsAdvanced: {
+      de: ["Größtes Industriegebiet von Neukaledonien", "Beherbergt das Gefängnis Camp Est", "Standort zahlreicher Autohäuser und Werkstätten", "Historischer Ort für Pariser Kommunarden im Exil", "Strategisch günstig am Hafen gelegen", "Umfasst mehrere Gewerbeparks"],
+      hu: ["Új-Kaledónia legnagyobb ipari övezete", "Itt található a Camp Est börtön", "Számos autókereskedés és szerviz központja", "A párizsi kommün száműzöttjeinek egykori lakhelye", "Stratégiai elhelyezkedés a kikötő közelében", "Több üzleti és technológiai parkot foglal magában"],
+      ro: ["Cea mai mare zonă industrială din Noua Caledonie", "Găzduiește închisoarea Camp Est", "Centru pentru numeroase reprezentanțe auto și ateliere", "Fost loc de exil pentru comunarzii parizieni", "Locație strategică în apropierea portului", "Cuprinde mai multe parcuri de activități economice"],
+      en: ["Largest industrial zone in New Caledonia", "Home to the Camp Est correctional facility", "Hub for numerous car dealerships and workshops", "Former place of exile for Paris Communards", "Strategically located near the main port", "Comprises several business and technology parks"],
+    },
   },
   {
     id: "newcaledonia-magenta-cities-v2",
@@ -893,6 +1445,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Magenta Airport connects Nouméa with the outlying islands.", "Home to a large horse racing track (Hippodrome de Henri Milliard).", "Major residential area overlooking the city's eastern bay.", "Location of significant sports venues and hospitals."],
     },
     imageHint: "Magenta domestic airport terminal and runway",
+    descriptionAdvanced: {
+      de: "Magenta ist ein bedeutendes Wohn- und Verkehrsviertel im Osten von Nouméa. Es ist vor allem für den Flughafen Magenta bekannt, der die Stadt mit den anderen Inseln Neukaledoniens verbindet. Das Viertel verfügt zudem über wichtige Sportstätten und Naherholungsgebiete entlang der Küste.",
+      hu: "Magenta Nouméa keleti részének meghatározó lakó- és közlekedési negyede. Leginkább a Magenta repülőtérről ismert, amely a belföldi járatok központjaként összeköti a fővárost a többi szigettel. A negyed jelentős sportlétesítményekkel és tengerparti pihenőövezetekkel is rendelkezik.",
+      ro: "Magenta este un important cartier rezidențial și de transport situat în estul orașului Nouméa. Este cunoscut în principal pentru Aeroportul Magenta, care asigură legătura capitalei cu restul insulelor din arhipelag. Cartierul dispune, de asemenea, de baze sportive majore și zone de agrement de coastă.",
+      en: "Magenta is a significant residential and transportation district in eastern Nouméa. It is primarily known for Magenta Airport, the main hub for domestic flights connecting the capital to other islands. The district also features major sporting facilities and coastal recreational areas.",
+    },
+    factsAdvanced: {
+      de: ["Standort des wichtigsten Inlandsflughafens", "Beherbergt das Stade Numa-Daly", "Großes Wohnviertel mit Blick auf die Lagune", "Verfügt über einen öffentlichen Strand und Park", "Basis für Hubschrauberflüge und Rettungsdienste", "Wichtiger Knotenpunkt für das städtische Bussystem"],
+      hu: ["Itt található a legfontosabb belföldi repülőtér", "A Stade Numa-Daly stadion otthona", "Nagy kiterjedésű lakóövezet lagúnára néző panorámával", "Saját nyilvános stranddal és parkkal rendelkezik", "Helikopteres szolgáltatások és mentőegységek bázisa", "A városi buszhálózat egyik fontos csomópontja"],
+      ro: ["Locația principalului aeroport intern", "Găzduiește stadionul Numa-Daly", "Zonă rezidențială extinsă cu vedere la lagună", "Dispune de o plajă publică și un parc amenajat", "Bază pentru servicii de elicopter și intervenții de urgență", "Nod important în sistemul de transport public urban"],
+      en: ["Location of the primary domestic airport", "Home to the Numa-Daly Stadium", "Extensive residential area with lagoon views", "Features a public beach and landscaped park", "Base for helicopter services and emergency operations", "A key junction for the city's bus network"],
+    },
   },
   {
     id: "newcaledonia-riviere-salee-cities-v2",
@@ -912,6 +1476,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["One of the most populous neighborhoods in the capital.", "Developed extensively as a residential area during the 1970s.", "Home to numerous social facilities and sports grounds.", "Major hub for public transportation in the northern area."],
     },
     imageHint: "Residential apartment buildings in Rivière-Salée",
+    descriptionAdvanced: {
+      de: "Rivière-Salée ist ein großes Wohnviertel im Norden von Nouméa, das in den 1970er Jahren entstand. Es wurde auf trockengelegtem Sumpfland errichtet und dient heute als wichtiges Siedlungsgebiet für die wachsende Stadtbevölkerung. Das Viertel verfügt über eine eigenständige Infrastruktur mit Schulen, Einkaufszentren und sozialen Einrichtungen.",
+      hu: "A Rivière-Salée Nouméa északi részén fekvő nagy lakónegyed, amely az 1970-es években jött létre. Egy egykori mocsaras terület lecsapolásával alakították ki, hogy helyet biztosítsanak a növekvő népességnek. A negyed önálló infrastruktúrával, iskolákkal és bevásárlóközpontokkal rendelkezik.",
+      ro: "Rivière-Salée este un cartier rezidențial vast situat în nordul orașului Nouméa, dezvoltat începând cu anii 1970. A fost construit pe terenuri mlăștinoase asanate pentru a face față expansiunii demografice a capitalei. Cartierul beneficiază de o infrastructură proprie completă, inclusiv școli și centre comerciale.",
+      en: "Rivière-Salée is a large residential district in northern Nouméa, developed during the 1970s. It was built on reclaimed marshland to accommodate the growing urban population. The neighborhood features a self-sufficient infrastructure with schools, shopping centers, and social facilities.",
+    },
+    factsAdvanced: {
+      de: ["Nördliches Eingangstor zur Stadt Nouméa", "Entstand durch Landgewinnung aus Mangroven", "Besitzt eine eigene Stadtteilbibliothek", "Wichtiges Zentrum für sozialen Wohnungsbau", "Gute Anbindung an die Schnellstraße VE2", "Verfügt über zahlreiche Sportplätze"],
+      hu: ["Nouméa városának északi kapuja", "Mangroveerdők helyén, talajfeltöltéssel hozták létre", "Saját városrészi könyvtárral rendelkezik", "A szociális lakásépítés egyik fontos helyszíne", "Közvetlen összeköttetése van a VE2 gyorsforgalmi úttal", "Számos sportpálya és közösségi tér található itt"],
+      ro: ["Poarta de intrare nordică în orașul Nouméa", "Creat prin asanarea zonelor cu mangrove", "Deține o bibliotecă publică de cartier", "Centru important pentru locuințe sociale", "Acces facil la drumul expres VE2", "Include numeroase terenuri de sport și spații verzi"],
+      en: ["Northern gateway to the city of Nouméa", "Created through land reclamation of mangrove areas", "Features its own municipal library", "Important center for social housing projects", "Directly connected to the VE2 expressway", "Contains numerous sports fields and community spaces"],
+    },
   },
   {
     id: "newcaledonia-vallee-des-colons-cities-v2",
@@ -931,6 +1507,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["One of the oldest neighborhoods in the city outside the center.", "Known for its quiet streets and lush gardens.", "Home to significant educational institutions and churches.", "The name commemorates the early settlers of the city in the 19th century."],
     },
     imageHint: "Traditional colonial house with veranda in Nouméa",
+    descriptionAdvanced: {
+      de: "Die Vallée des Colons ist eines der ältesten Wohnviertel von Nouméa und liegt zentral im Stadtgebiet. Das Viertel ist geprägt von einer Mischung aus historischen Kolonialhäusern und modernen Apartmentgebäuden. Es ist bekannt für seine ruhige Atmosphäre trotz der Nähe zum geschäftigen Stadtzentrum.",
+      hu: "A Vallée des Colons Nouméa egyik legrégebbi lakónegyede, amely központi helyen fekszik. A városrészt történelmi gyarmati házak és modern társasházak keveréke jellemzi. Csendes, családias hangulatáról ismert, annak ellenére, hogy karnyújtásnyira van a lüktető városközponttól.",
+      ro: "Vallée des Colons este unul dintre cele mai vechi cartiere rezidențiale din Nouméa, situat central. Zona este caracterizată printr-un amestec de case coloniale istorice și clădiri de apartamente moderne. Este cunoscut pentru atmosfera sa liniștită, în ciuda proximității față de centrul comercial al orașului.",
+      en: "Vallée des Colons is one of the oldest residential neighborhoods in Nouméa, centrally located within the city. The district is characterized by a blend of historic colonial houses and modern apartment buildings. It is renowned for its tranquil atmosphere despite its closeness to the bustling city center.",
+    },
+    factsAdvanced: {
+      de: ["Eines der ersten Siedlungsgebiete außerhalb des Zentrums", "Beherbergt viele gut erhaltene Kolonialbauten", "Zentraler Standort von Schulen und Kliniken", "Gilt als bürgerliches Wohnviertel", "Früher durch Landwirtschaft und Gärten geprägt", "Verbindet das Zentrum mit den östlichen Stadtteilen"],
+      hu: ["A városközponton kívüli első települési övezetek egyike", "Számos jó állapotú gyarmati kori épület található itt", "Iskolák és magánklinikák központi helyszíne", "Hagyományosan polgári lakóövezetnek számít", "Régebben kertek és mezőgazdasági területek jellemezték", "Összeköti a belvárost a keleti negyedekkel"],
+      ro: ["Una dintre primele zone rezidențiale din afara centrului", "Găzduiește multe clădiri coloniale bine conservate", "Locație centrală pentru școli și clinici medicale", "Considerat un cartier rezidențial de clasă medie", "În trecut era dominat de grădini și mici ferme", "Face legătura între centru și cartierele de est"],
+      en: ["One of the first residential areas outside the downtown", "Home to many well-preserved colonial-era buildings", "Central location for several schools and clinics", "Regarded as a middle-class residential district", "Formerly characterized by gardens and small farms", "Connects the city center with eastern neighborhoods"],
+    },
   },
   {
     id: "newcaledonia-koutio-cities-v2",
@@ -950,6 +1538,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Home to the large Kenu-In shopping mall.", "Site of important regional sports facilities including a swimming pool.", "Major hub for the public bus network (Tanéo).", "The district has seen significant urban density growth in recent decades."],
     },
     imageHint: "Busy shopping area and roads in Koutio, Dumbéa",
+    descriptionAdvanced: {
+      de: "Koutio ist ein schnell wachsender Ortsteil der Gemeinde Dumbéa, unmittelbar nördlich von Nouméa. Das Viertel hat sich in den letzten Jahrzehnten von einer ländlichen Zone zu einem wichtigen städtischen Unterzentrum entwickelt. Es beherbergt große Infrastrukturprojekte, darunter das größte Krankenhaus Neukaledoniens und bedeutende Einkaufszentren.",
+      hu: "Koutio Dumbéa község gyorsan fejlődő része, közvetlenül Nouméától északra. Az elmúlt évtizedekben a negyed vidéki területből jelentős városi alközponttá alakult. Itt találhatók a térség legnagyobb infrastrukturális beruházásai, köztük Új-Kaledónia fő kórháza és nagy bevásárlóközpontok.",
+      ro: "Koutio este o zonă în plină expansiune a comunei Dumbéa, situată imediat la nord de Nouméa. În ultimele decenii, s-a transformat dintr-o zonă rurală într-un important subcentru urban. Găzduiește proiecte majore de infrastructură, inclusiv cel mai mare spital din Noua Caledonie.",
+      en: "Koutio is a rapidly growing district within the municipality of Dumbéa, located directly north of Nouméa. Over the past decades, it has evolved from a rural zone into a major urban sub-center. It hosts significant infrastructure projects, including New Caledonia's largest hospital and major retail hubs.",
+    },
+    factsAdvanced: {
+      de: ["Standort des Médipôle-Krankenhauskomplexes", "Besitzt eines der größten Einkaufszentren des Landes", "Wichtiger Knotenpunkt für den öffentlichen Nahverkehr", "Teil des Ballungsraums Groß-Nouméa", "Verfügt über ein modernes Schwimmzentrum", "Sitz mehrerer Verwaltungseinrichtungen"],
+      hu: ["Itt található a Médipôle kórházi komplexum", "Az ország egyik legnagyobb bevásárlóközpontja van itt", "A tömegközlekedés kiemelt csomópontja", "Nagy-Nouméa agglomerációjának szerves része", "Modern úszóközponttal és sportlétesítményekkel bír", "Számos közigazgatási hivatal székhelye"],
+      ro: ["Locația complexului spitalicesc Médipôle", "Deține unul dintre cele mai mari centre comerciale din țară", "Nod vital pentru transportul public periurban", "Parte integrantă a aglomerației Marele Nouméa", "Include un centru nautic modern", "Sediu pentru diverse instituții administrative"],
+      en: ["Site of the Médipôle hospital complex", "Features one of the largest shopping malls in the country", "Major hub for regional public transportation", "Integral part of the Greater Nouméa metropolitan area", "Home to a modern aquatic center", "Administrative center for several public services"],
+    },
   },
   {
     id: "newcaledonia-yahoue-cities-v2",
@@ -969,6 +1569,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Built along the banks of the namesake Yahoué River.", "Popular with families due to its proximity to nature.", "Main starting point for hikes into the central mountain range.", "Location of several religious centers and local schools."],
     },
     imageHint: "Hills and houses in the green valley of Yahoué",
+    descriptionAdvanced: {
+      de: "Yahoué ist ein grünes Wohnviertel in der Gemeinde Dumbéa, das für seine Lage am Fuße der Berge bekannt ist. Es bietet eine ruhige, naturnahe Umgebung und ist aufgrund des kühleren Mikroklimas als Wohnort sehr begehrt. Das Viertel erstreckt sich entlang des gleichnamigen Flusses und bietet zahlreiche Wanderwege in der Umgebung.",
+      hu: "Yahoué Dumbéa község egyik zöldövezeti lakónegyede, amely a hegyek lábánál fekszik. A természetközeli környezet és a hűvösebb mikroklíma miatt igen kedvelt lakóhely. A negyed az azonos nevű folyó mentén húzódik, és számos túraútvonalat kínál a környék felfedezésére.",
+      ro: "Yahoué este un cartier rezidențial pitoresc din comuna Dumbéa, situat la poalele munților. Oferă un cadru natural liniștit și este foarte căutat datorită microclimatului său mai răcoros. Cartierul se întinde de-a lungul râului omonim, oferind acces la numeroase trasee de drumeție.",
+      en: "Yahoué is a verdant residential district in the municipality of Dumbéa, known for its setting at the foot of the mountains. It offers a peaceful environment close to nature and is highly sought after for its cooler microclimate. The area extends along the Yahoué River, providing access to various hiking trails.",
+    },
+    factsAdvanced: {
+      de: ["Liegt am Fuße des Mont Mou", "Bekannt für das kühle Klima im Vergleich zum Zentrum", "Durchflossen vom Yahoué-Fluss", "Beliebtes Wohnviertel für Naturliebhaber", "Eingangstor zu mehreren Bergwanderwegen", "Wichtiger Teil der Gemeinde Dumbéa"],
+      hu: ["A Mont Mou lábánál helyezkedik el", "A városközpontnál hűvösebb klímájáról híres", "A Yahoué-folyó szeli át a területet", "A természetjárók kedvelt lakóövezete", "Számos hegyi túraútvonal kiindulópontja", "Dumbéa község jelentős lakónegyede"],
+      ro: ["Situat la poalele muntelui Mont Mou", "Cunoscut pentru climatul răcoros față de centrul orașului", "Traversat de râul Yahoué", "Zonă rezidențială preferată de iubitorii de natură", "Punct de acces pentru trasee montane", "Subdiviziune importantă a comunei Dumbéa"],
+      en: ["Located at the base of Mont Mou", "Famous for its cooler climate compared to downtown", "Traversed by the Yahoué River", "Preferred residential area for nature enthusiasts", "Gateway to several mountain hiking paths", "Key part of the Dumbéa municipality"],
+    },
   },
   {
     id: "newcaledonia-robinson-cities-v2",
@@ -988,6 +1600,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["One of the main commercial districts in the Mont-Dore commune.", "Serves as a residential area for many commuters working in Nouméa.", "Home to numerous specialized shops and supermarkets.", "The district is located on the main road heading to the south (Grand Sud)."],
     },
     imageHint: "Commercial street and houses in Robinson, Mont-Dore",
+    descriptionAdvanced: {
+      de: "Robinson ist ein bedeutendes Wohnviertel in der Gemeinde Mont-Dore, südöstlich von Nouméa. Das Viertel bildet den urbanen Übergang zwischen der Hauptstadt und den ländlicheren Gebieten des Südens. Es zeichnet sich durch eine gut entwickelte Infrastruktur und die Nähe zur Küste aus, was es zu einem attraktiven Wohnort macht.",
+      hu: "Robinson Mont-Dore község meghatározó lakónegyede, Nouméától délkeletre. A városrész fontos összekötő kapocs a főváros és a déli vidékiesebb területek között. Jól kiépített infrastruktúra és a tengerpart közelsége jellemzi, ami vonzóvá teszi a családok számára.",
+      ro: "Robinson este un cartier rezidențial major din comuna Mont-Dore, situat la sud-est de Nouméa. Zona reprezintă tranziția urbană între capitală și regiunile rurale din sud. Se distinge printr-o infrastructură bine dezvoltată și proximitatea față de coastă, fiind o locație rezidențială căutată.",
+      en: "Robinson is a prominent residential district in the municipality of Mont-Dore, located southeast of Nouméa. The neighborhood serves as an urban link between the capital and the more rural southern regions. It is characterized by well-developed infrastructure and proximity to the coast, making it an attractive living area.",
+    },
+    factsAdvanced: {
+      de: ["Nördlichster Stadtteil von Mont-Dore", "Wichtiger Verkehrsknotenpunkt nach Süden", "Standort mehrerer Schulen und Sportanlagen", "Gute Anbindung an das Busnetz von Nouméa", "Nahe gelegene Küstenbereiche für Wassersport", "Wirtschaftliches Zentrum der Gemeinde"],
+      hu: ["Mont-Dore község legészakibb városrésze", "Fontos közlekedési csomópont a déli irányba", "Számos iskola és sportlétesítmény helyszíne", "Közvetlen buszkapcsolata van Nouméával", "A közelben lévő partvidék ideális vízi sportokhoz", "A község egyik gazdasági központja"],
+      ro: ["Cea mai nordică subdiviziune a comunei Mont-Dore", "Nod de transport vital către sudul insulei", "Găzduiește numeroase școli și baze sportive", "Conectat direct la rețeaua de autobuze din Nouméa", "Acces facil la zonele de coastă pentru sporturi nautice", "Centru economic important al municipalității"],
+      en: ["Northernmost district of the Mont-Dore municipality", "Vital transport junction for southern travel", "Home to several schools and sports facilities", "Well-connected to the Nouméa bus network", "Nearby coastal areas are used for water sports", "A key economic hub for the local community"],
+    },
   },
   {
     id: "newcaledonia-boulari-cities-v2",
@@ -1007,6 +1631,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Home to the town hall and primary administrative buildings of Mont-Dore.", "Features a modern marina and a cultural complex.", "Major starting point for boat excursions into the lagoon.", "Known for hosting the Mont-Dore local market."],
     },
     imageHint: "Boulari bay and the Mont-Dore town hall",
+    descriptionAdvanced: {
+      de: "Boulari ist das administrative und kommerzielle Zentrum der Gemeinde Mont-Dore. Es liegt strategisch günstig an der Bucht von Boulari und beherbergt das Rathaus sowie wichtige kulturelle Einrichtungen. Das Viertel kombiniert städtische Dienstleistungen mit einem herrlichen Blick auf die Lagune und die umliegenden Berge.",
+      hu: "Boulari Mont-Dore község közigazgatási és kereskedelmi központja. A Boulari-öböl partján fekvő településrész ad otthont a polgármesteri hivatalnak és fontos kulturális intézményeknek. A városi szolgáltatások itt gyönyörű panorámával párosulnak a lagúnára és a környező hegyekre.",
+      ro: "Boulari este centrul administrativ și comercial al comunei Mont-Dore. Situat strategic pe malul golfului Boulari, găzduiește primăria și instituții culturale importante. Cartierul îmbină serviciile urbane cu o vedere panoramică asupra lagunei și a munților învecinați.",
+      en: "Boulari serves as the administrative and commercial heart of the Mont-Dore municipality. Strategically located along Boulari Bay, it houses the town hall and key cultural venues. The district combines urban services with stunning views of the lagoon and the surrounding mountain ranges.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Gemeindeverwaltung von Mont-Dore", "Standort des Kulturzentrums von Mont-Dore", "Besitzt einen Yachthafen (Marina)", "Liegt direkt an der Boulari-Bucht", "Wichtiger Marktplatz für lokale Produkte", "Bietet Blick auf den Mont-Dore-Gipfel"],
+      hu: ["Mont-Dore önkormányzatának székhelye", "Itt található a Mont-Dore Kulturális Központ", "Saját jachtkikötővel (marina) rendelkezik", "Közvetlenül a Boulari-öböl partján fekszik", "Helyi termékek fontos piacának helyszíne", "Pazar kilátást nyújt a Mont-Dore csúcsra"],
+      ro: ["Sediul administrației locale din Mont-Dore", "Locația Centrului Cultural Mont-Dore", "Dispune de un port de agrement (marina)", "Situat direct pe țărmul golfului Boulari", "Piață importantă pentru produsele locale", "Oferă vedere directă către vârful Mont-Dore"],
+      en: ["Seat of the Mont-Dore municipal government", "Home to the Mont-Dore Cultural Center", "Features a leisure boat marina", "Located directly on the shores of Boulari Bay", "Important marketplace for local produce", "Offers clear views of the Mont-Dore peak"],
+    },
   },
   {
     id: "newcaledonia-doniambo-cities-v2",
@@ -1026,6 +1662,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["The nickel smelter is one of the most prominent landmarks in Nouméa's harbor.", "Has been continuously operated for nickel processing since 1910.", "Features its own power plant and extensive docking facilities.", "The most significant private employer in the capital city."],
     },
     imageHint: "The large SLN nickel smelter chimneys in Nouméa harbor",
+    descriptionAdvanced: {
+      de: "Doniambo ist ein markantes Industriegebiet in Nouméa, das vom Nickelwerk der Société Le Nickel (SLN) dominiert wird. Es ist eines der weltweit bedeutendsten Zentren für die Nickelverarbeitung und prägt mit seinen Schornsteinen das Stadtbild. Das Areal ist ein Symbol für die wirtschaftliche Bedeutung des Bergbaus in Neukaledonien.",
+      hu: "Doniambo Nouméa jellegzetes ipari területe, amelyet a Société Le Nickel (SLN) nikkelkohója ural. A világ egyik legfontosabb nikkel-feldolgozó központja, amelynek gyárkéményei meghatározzák a város látképét. A terület az új-kaledóniai bányászat gazdasági jelentőségének szimbóluma.",
+      ro: "Doniambo este o zonă industrială emblematică din Nouméa, dominată de uzina de feronikel a Société Le Nickel (SLN). Este unul dintre cele mai importante centre de procesare a nichelului din lume, coșurile sale marcând orizontul orașului. Situl simbolizează importanța economică a mineritului în Noua Caledonie.",
+      en: "Doniambo is a prominent industrial area in Nouméa, dominated by the Société Le Nickel (SLN) nickel processing plant. It is one of the world's most significant centers for nickel smelting, with its chimneys defining the city's skyline. The site symbolizes the economic importance of mining in New Caledonia.",
+    },
+    factsAdvanced: {
+      de: ["Standort eines der weltweit größten Nickelwerke", "Wichtigster Wirtschaftsfaktor der Hauptstadt", "Die Fabrik ist seit 1910 in Betrieb", "Besitzt einen eigenen Tiefwasserhafen", "Prägt das industrielle Panorama von Nouméa", "Zentrum für die Produktion von Ferronickel"],
+      hu: ["A világ egyik legnagyobb nikkelgyárának helyszíne", "A főváros legfontosabb gazdasági létesítménye", "A gyár 1910 óta üzemel folyamatosan", "Saját mélyvízi kikötővel rendelkezik", "Meghatározza Nouméa ipari panorámáját", "A ferronikkel előállításának központja"],
+      ro: ["Găzduiește una dintre cele mai mari uzine de nichel din lume", "Principalul motor economic al capitalei", "Fabrica este în funcțiune din anul 1910", "Dispune de propriul port comercial de adâncime", "Domină panorama industrială a orașului Nouméa", "Centru major pentru producția de feronichel"],
+      en: ["Location of one of the world's largest nickel plants", "The most significant economic driver in the capital", "The factory has been operational since 1910", "Features its own deep-water industrial port", "Defines the industrial skyline of Nouméa", "A major center for ferronickel production"],
+    },
   },
   {
     id: "newcaledonia-tina-cities-v2",
@@ -1045,6 +1693,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Home to the world-famous Jean-Marie Tjibaou Cultural Center by Renzo Piano.", "Features the capital's only 18-hole golf course.", "Known for its exclusive residential areas along the waterfront.", "A hub for the promotion of Kanak culture and contemporary art."],
     },
     imageHint: "The iconic wooden structures of the Tjibaou Cultural Center",
+    descriptionAdvanced: {
+      de: "Tina ist ein exklusives Wohn- und Freizeitviertel im Osten von Nouméa, das für seine Grünflächen und Sportanlagen bekannt ist. Es beherbergt den einzigen 18-Loch-Golfplatz der Stadt und bietet weitläufige Rad- und Wanderwege durch Mangrovengebiete. In unmittelbarer Nähe befindet sich das berühmte Kulturzentrum Tjibaou.",
+      hu: "Tina Nouméa keleti részén fekvő elegáns lakó- és szabadidőnegyed, amely zöldfelületeiről és sportlétesítményeiről ismert. Itt található a város egyetlen 18 lyukú golfpályája, valamint kiterjedt kerékpár- és túraútvonalak a mangroveerdők mentén. A közelben fekszik a híres Tjibaou Kulturális Központ is.",
+      ro: "Tina este un cartier rezidențial și de agrement select în estul orașului Nouméa, renumit pentru spațiile verzi și facilitățile sportive. Găzduiește singurul teren de golf cu 18 găuri din oraș și oferă trasee pentru biciclete prin zonele cu mangrove. Centrul Cultural Tjibaou se află în imediata apropiere.",
+      en: "Tina is an upscale residential and leisure district in eastern Nouméa, known for its green spaces and sporting facilities. It home to the city's only 18-hole golf course and offers extensive cycling and walking trails through mangrove areas. The renowned Tjibaou Cultural Center is located in the vicinity.",
+    },
+    factsAdvanced: {
+      de: ["Standort des Tina Golfplatzes", "Besitzt ausgedehnte Mountainbike-Strecken", "Grenzt an das Kulturzentrum Tjibaou", "Bekannt für seine Mangroven-Lehrpfade", "Ruhiges Wohnviertel abseits des Zentrums", "Bietet Blick auf die Küstenlandschaft"],
+      hu: ["A Tina golfpálya otthona", "Kiterjedt hegyikerékpár-pályákkal rendelkezik", "A Tjibaou Kulturális Központ szomszédságában fekszik", "Mangroveerdőket bemutató tanösvényeiről ismert", "Csendes lakóövezet távol a város zajától", "Pazar kilátást nyújt a tengerparti tájra"],
+      ro: ["Locația terenului de golf Tina", "Dispune de piste extinse pentru mountain bike", "Se învecinează cu Centrul Cultural Tjibaou", "Cunoscut pentru traseele educaționale prin mangrove", "Cartier rezidențial liniștit, retras de centru", "Oferă panorame spectaculoase asupra coastei"],
+      en: ["Home to the Tina Golf Course", "Features extensive mountain bike trails", "Adjacent to the Tjibaou Cultural Center", "Known for its mangrove discovery paths", "Quiet residential area away from the city center", "Offers views of the coastal landscapes"],
+    },
   },
   {
     id: "newcaledonia-normandia-cities-v2",
@@ -1064,6 +1724,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Part of the massive urban expansion of the Great Nouméa area.", "Provides modern housing for young families and professionals.", "Important site for new schools and municipal services.", "Conveniently located near the expressway leading to Nouméa."],
     },
     imageHint: "New residential developments in Normandia, Dumbéa",
+    descriptionAdvanced: {
+      de: "Normandia ist ein Wohnviertel im Norden von Nouméa, das sich durch seine ruhige Lage und seine Familienfreundlichkeit auszeichnet. Es liegt am Rande der Stadt und bietet eine gute Anbindung an die Hauptverkehrsstraßen in Richtung Norden. Das Viertel verfügt über lokale Geschäfte und Parks, die zur Lebensqualität beitragen.",
+      hu: "Normandia Nouméa északi részén található lakónegyed, amely csendes környezetéről és családias jellegéről ismert. A város szélén fekszik, kiváló közúti összeköttetést biztosítva az északi irányú főútvonalakhoz. A negyedben helyi üzletek és parkok találhatók, amelyek segítik a közösségi életet.",
+      ro: "Normandia este un cartier rezidențial situat în nordul orașului Nouméa, remarcat prin liniște și caracterul său familial. Se află la periferia orașului, oferind acces facil la arterele principale către nordul insulei. Cartierul dispune de magazine locale și parcuri care contribuie la calitatea vieții.",
+      en: "Normandia is a residential neighborhood in northern Nouméa, noted for its quiet atmosphere and family-friendly character. Located on the city's edge, it provides easy access to the main highways leading north. The district features local shops and parks that contribute to the quality of life.",
+    },
+    factsAdvanced: {
+      de: ["Wohngebiet im Norden der Hauptstadt", "Gute Anbindung an die Schnellstraße VE2", "Verfügt über lokale Märkte und Schulen", "Gilt als ruhige und sichere Wohngegend", "In der Nähe der Gewerbegebiete gelegen", "Teil des städtischen Ausbaugebiets"],
+      hu: ["A főváros északi részén fekvő lakóövezet", "Kiváló összeköttetés a VE2 gyorsforgalmi úttal", "Helyi piacokkal és iskolákkal rendelkezik", "Csendes és biztonságos lakókörnyezetnek számít", "Az ipari övezetek közelében helyezkedik el", "A városfejlesztési tervek szerves része"],
+      ro: ["Zonă rezidențială în nordul capitalei", "Acces rapid la drumul expres VE2", "Dispune de piețe locale și unități școlare", "Considerat un cartier liniștit și sigur", "Situat în apropierea zonelor comerciale", "Parte a zonei de expansiune urbană a orașului"],
+      en: ["Residential area in the north of the capital", "Direct access to the VE2 expressway", "Features local markets and primary schools", "Regarded as a quiet and safe neighborhood", "Located close to major commercial zones", "Part of the city's urban expansion area"],
+    },
   },
   {
     id: "newcaledonia-port-boise-cities-v2",
@@ -1083,6 +1755,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Famous for its dense forests that stretch down to the sea.", "Popular destination for hikers on the GR Sud long-distance trail.", "Known for the 'Forest of the Drowned' (Forêt des Noyés) in the reservoir.", "Home to high-quality eco-tourism accommodations."],
     },
     imageHint: "Forest meeting the sea and wooden lodge in Port-Boisé",
+    descriptionAdvanced: {
+      de: "Port-Boisé ist eine abgelegene Bucht und Siedlung an der Südspitze von Grand Terre in der Gemeinde Yaté. Die Region ist bekannt für ihre unberührte Natur, dichte Küstenwälder und historische Überreste aus der Zeit des Sandelholzhandels. Es ist ein beliebtes Ziel für Wanderer und Naturliebhaber, die die Wildnis des Südens suchen.",
+      hu: "Port-Boisé egy távoli öböl és település Grand Terre déli csücskén, Yaté községben. A régió érintetlen természetéről, sűrű part menti erdőiről és a szantálfa-kereskedelem korából származó történelmi maradványokról ismert. Kedvelt célpont a túrázók és a természetbarátok számára.",
+      ro: "Port-Boisé este un golf izolat și o așezare situată în extremitatea sudică a insulei Grand Terre, în comuna Yaté. Regiunea este cunoscută pentru natura sa virgină, pădurile litorale dense și vestigiile istorice din epoca comerțului cu lemn de santal. Este o destinație preferată pentru drumeții.",
+      en: "Port-Boisé is a remote bay and settlement located at the southern tip of Grand Terre in the Yaté municipality. The region is known for its untouched nature, dense coastal forests, and historical remains from the sandalwood trade era. It is a popular destination for hikers and nature lovers seeking wilderness.",
+    },
+    factsAdvanced: {
+      de: ["Liegt an der Südspitze von Neukaledonien", "Früherer wichtiger Hafen für Sandelholz", "Standort eines bekannten Öko-Resorts", "Umgeben vom Botanischen Reservat Cap N'Dua", "Bekannt für Walbeobachtung in der Wintersaison", "Teil der Gemeinde Yaté"],
+      hu: ["Új-Kaledónia legdélebbi részén található", "A szantálfa-kereskedelem egykori fontos kikötője", "Egy népszerű öko-szálláshely (lodge) található itt", "A Cap N'Dua botanikai rezervátum övezi", "Téli szezonban kiváló bálnamegfigyelő hely", "Yaté község közigazgatási területéhez tartozik"],
+      ro: ["Situat în punctul sudic al Noii Caledonii", "Fost port important pentru exportul de santal", "Locația unei renumite unități de cazare ecologice", "Înconjurat de Rezervația Botanică Cap N'Dua", "Cunoscut pentru observarea balenelor în sezonul de iarnă", "Parte integrantă a comunei Yaté"],
+      en: ["Located at the southern tip of New Caledonia", "Former vital port for the sandalwood trade", "Site of a well-known eco-lodge", "Surrounded by the Cap N'Dua Botanical Reserve", "Famous for whale watching during the winter season", "Part of the Yaté municipality"],
+    },
   },
   {
     id: "newcaledonia-nessadiou-cities-v2",
@@ -1102,6 +1786,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Home to the only Muslim cemetery in New Caledonia.", "Center for the descendants of 19th-century Algerian exiles.", "Important site for agricultural production in the Bourail area.", "Known for its quiet rural atmosphere and local hospitality."],
     },
     imageHint: "The Arab cemetery and rural landscape in Nessadiou",
+    descriptionAdvanced: {
+      de: "Nessadiou liegt südlich von Bourail und ist vor allem für seinen neuseeländischen Kriegsfriedhof bekannt. Das Gebiet ist stark landwirtschaftlich geprägt und beherbergt eine bedeutende muslimische Gemeinde. Die Region dient als wichtiges Zentrum für Viehzucht und Feldbau in der Provinz Süd.",
+      hu: "Nessadiou Bourailtól délre fekszik, és leginkább az új-zélandi háborús temetőjéről ismert. A terület jelentős mezőgazdasági jelleggel bír, és itt található Új-Kaledónia egyik fontos muszlim közössége. A régió meghatározó szerepet tölt be az állattenyésztésben és a növénytermesztésben.",
+      ro: "Nessadiou este situat la sud de Bourail și este cunoscut în principal pentru cimitirul militar neozeelandez. Zona are un pronunțat caracter agricol și găzduiește o comunitate musulmană semnificativă. Regiunea joacă un rol important în creșterea animalelor și cultura plantelor în Provincia Sud.",
+      en: "Nessadiou is located south of Bourail and is primarily known for its New Zealand War Cemetery. The area has a strong agricultural character and is home to a significant Muslim community. The region serves as an important center for livestock and crop farming in the South Province.",
+    },
+    factsAdvanced: {
+      de: ["Neuseeländischer Friedhof mit 242 Gräbern", "Friedhof im Jahr 1943 eingeweiht", "Liegt etwa 10 Kilometer von Bourail entfernt", "Beherbergt eine Moschee seit 1998", "Zentrum der Nachkommen algerischer Deportierter", "Wichtige Produktion von Rindfleisch und Gemüse"],
+      hu: ["Az új-zélandi temetőben 242 sír található", "A temetőt 1943-ban avatták fel", "Körülbelül 10 kilométerre fekszik Bourailtól", "1998 óta saját mecsettel rendelkezik", "Az algériai száműzöttek leszármazottainak központja", "Főbb termékek a marhahús és a zöldségfélék"],
+      ro: ["Cimitirul neozeelandez conține 242 de morminte", "Cimitirul a fost inaugurat în anul 1943", "Se află la aproximativ 10 kilometri de Bourail", "Găzduiește o moschee construită în 1998", "Centru pentru descendenții deportaților algerieni", "Producție majoră de carne de vită și legume"],
+      en: ["New Zealand cemetery holds 242 graves", "Cemetery was inaugurated in 1943", "Located approximately 10 kilometers from Bourail", "Features a mosque built in 1998", "Center for descendants of Algerian deportees", "Main production includes beef and vegetables"],
+    },
   },
   {
     id: "newcaledonia-la-conception-cities-v2",
@@ -1121,6 +1817,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Founded in 1855 as a Catholic mission for converted Kanaks.", "The village church is a significant architectural monument.", "Hosts a large religious festival every year in December.", "A peaceful settlement that has preserved its traditional identity."],
     },
     imageHint: "The Catholic mission church in La Conception",
+    descriptionAdvanced: {
+      de: "La Conception ist ein historischer Ortsteil von Mont-Dore, der auf eine katholische Mission aus dem 19. Jahrhundert zurückgeht. Das Herzstück ist die Kirche Notre-Dame de la Conception, ein bedeutendes religiöses Denkmal. Die Siedlung wurde ursprünglich für bekehrte Kanaken und Siedler gegründet.",
+      hu: "La Conception Mont-Dore történelmi városrésze, amely egy 19. századi katolikus misszióból alakult ki. Központi eleme a Notre-Dame de la Conception templom, amely fontos vallási műemlék. A települést eredetileg megtért kanakok és telepesek számára alapították.",
+      ro: "La Conception este un cartier istoric din Mont-Dore, originat dintr-o misiune catolică din secolul al XIX-lea. Punctul central este biserica Notre-Dame de la Conception, un monument religios important. Așezarea a fost fondată inițial pentru populația Kanak convertită și coloniști.",
+      en: "La Conception is a historical district of Mont-Dore, originating from a 19th-century Catholic mission. Its centerpiece is the Notre-Dame de la Conception church, a significant religious monument. The settlement was originally founded for converted Kanak people and settlers.",
+    },
+    factsAdvanced: {
+      de: ["Maristen-Mission im Jahr 1855 gegründet", "Kirche wurde 1874 fertiggestellt", "Liegt am Rande der Stadt Nouméa", "Bekannt für die jährliche Wallfahrt am 15. August", "Historischer Friedhof der Missionare vor Ort", "Architektur im neugotischen Stil errichtet"],
+      hu: ["A marista missziót 1855-ben alapították", "A templom 1874-ben készült el", "Nouméa városának határán fekszik", "Ismert az augusztus 15-i éves zarándoklatról", "Helyi történelmi misszionárius temető", "Neogótikus stílusú építészeti megoldások"],
+      ro: ["Misiunea maristă a fost fondată în 1855", "Biserica a fost finalizată în anul 1874", "Situat la marginea orașului Nouméa", "Cunoscut pentru pelerinajul anual din 15 august", "Cimitir istoric al misionarilor la fața locului", "Arhitectură realizată în stil neogotic"],
+      en: ["Marist mission founded in 1855", "The church was completed in 1874", "Located on the edge of Nouméa city", "Known for the annual pilgrimage on August 15", "Site of a historical missionary cemetery", "Architecture built in neo-Gothic style"],
+    },
   },
   {
     id: "newcaledonia-port-laguerre-cities-v2",
@@ -1140,6 +1848,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Site of a significant agricultural research station.", "Known for livestock and poultry farming excellence.", "Home to a vocational forestry training center.", "The area is characterized by vast pastures and forests."],
     },
     imageHint: "Lush pastures and research farm in Port-Laguerre",
+    descriptionAdvanced: {
+      de: "Port-Laguerre liegt in der Gemeinde Païta und ist ein wichtiges Zentrum für die landwirtschaftliche Ausbildung in Neukaledonien. Das Gebiet ist durch die Mündung des Flusses Port-Laguerre und ausgedehnte Ebenen geprägt. Es beherbergt die bekannte Landwirtschaftsschule Michel Corbasson.",
+      hu: "Port-Laguerre Païta községben található, és Új-Kaledónia mezőgazdasági oktatásának egyik kulcsfontosságú központja. A területet a Port-Laguerre folyó torkolata és kiterjedt síkságok jellemzik. Itt működik a neves Michel Corbasson mezőgazdasági szakiskola.",
+      ro: "Port-Laguerre este situat în comuna Païta și reprezintă un centru cheie pentru învățământul agricol din Noua Caledonie. Zona este caracterizată de estuarul râului Port-Laguerre și câmpii întinse. Găzduiește renumita școală agricolă Michel Corbasson.",
+      en: "Port-Laguerre is located in the commune of Païta and is a key center for agricultural education in New Caledonia. The area is characterized by the Port-Laguerre river estuary and extensive plains. It hosts the well-known Michel Corbasson agricultural high school.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Landwirtschaftsschule seit 1924", "Nach dem Entdecker Kapitän Laguerre benannt", "Liegt etwa 30 km nordwestlich von Nouméa", "Zentrum für agronomische Forschung (IAC)", "Wichtige Mangrovengebiete an der Flussmündung", "Historische Viehzuchtstation der Kolonialzeit"],
+      hu: ["1924 óta a mezőgazdasági iskola székhelye", "Laguerre kapitány felfedezőről nevezték el", "Nouméától kb. 30 km-re északnyugatra fekszik", "Agronómiai kutatóközpont (IAC) helyszíne", "Fontos mangroveerdők a folyótorkolatnál", "Gyarmati korszakbeli történelmi állattenyésztő állomás"],
+      ro: ["Sediul școlii agricole din anul 1924", "Numit după exploratorul căpitan Laguerre", "Situat la circa 30 km nord-vest de Nouméa", "Centru de cercetare agronomică (IAC)", "Zone importante de mangrove la gura râului", "Stație istorică de creștere a animalelor din epoca colonială"],
+      en: ["Home to the agricultural school since 1924", "Named after explorer Captain Laguerre", "Located about 30 km northwest of Nouméa", "Site of agronomic research center (IAC)", "Important mangrove areas at the river mouth", "Historical livestock station from colonial times"],
+    },
   },
   {
     id: "newcaledonia-gadji-cities-v2",
@@ -1159,6 +1879,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Part of the recent urban expansion towards the west.", "Offers a mix of residential zones and small businesses.", "Conveniently located for commuters to Nouméa and the airport.", "Local infrastructure is undergoing continuous development."],
     },
     imageHint: "New houses and paved roads in Gadji, Païta",
+    descriptionAdvanced: {
+      de: "Gadji ist eine Küstenregion in der Nähe von Païta, die für ihre traditionellen Kanak-Strukturen und den Zugang zur Lagune bekannt ist. Die Gegend verbindet ländliches Leben mit der Nähe zum internationalen Flughafen La Tontouta. Es ist ein Ort mit tiefer kultureller Bedeutung für die lokale Bevölkerung.",
+      hu: "Gadji egy tengerparti régió Païta közelében, amely hagyományos kanak szerkezetéről és a lagúnához való hozzáféréséről ismert. A környék egyesíti a vidéki életet a La Tontouta nemzetközi repülőtér közelségével. A hely mély kulturális jelentőséggel bír a helyi lakosság számára.",
+      ro: "Gadji este o regiune de coastă situată lângă Païta, cunoscută pentru structurile tradiționale Kanak și accesul la lagună. Zona îmbină viața rurală cu proximitatea față de aeroportul internațional La Tontouta. Este un loc cu o semnificație culturală profundă pentru populația locală.",
+      en: "Gadji is a coastal region near Païta, known for its traditional Kanak structures and access to the lagoon. The area combines rural life with proximity to La Tontouta International Airport. It is a place of deep cultural significance for the local population.",
+    },
+    factsAdvanced: {
+      de: ["Liegt in der Nähe des Flughafens La Tontouta", "Bekannt für traditionelle Kanak-Hütten", "Wichtiger Zugang zur Meereslagune", "Beherbergt lokale Fischergemeinschaften", "Teil der Gemeinde Païta in der Südprovinz", "Reich an lokaler Flora und Fauna"],
+      hu: ["A La Tontouta repülőtér közelében fekszik", "Hagyományos kanak kunyhóiról ismert", "Fontos kijárat a tengeri lagúnához", "Helyi halászközösségek otthona", "A Déli Tartomány Païta községének része", "Gazdag helyi flóra és fauna jellemzi"],
+      ro: ["Situat în apropierea aeroportului La Tontouta", "Cunoscut pentru colibele tradiționale Kanak", "Acces important către laguna marină", "Găzduiește comunități locale de pescari", "Face parte din comuna Païta, Provincia Sud", "Bogat în floră și faună locală"],
+      en: ["Located near La Tontouta Airport", "Known for traditional Kanak huts", "Provides important access to the marine lagoon", "Home to local fishing communities", "Part of the Païta commune in South Province", "Rich in local flora and fauna"],
+    },
   },
   {
     id: "newcaledonia-yahoue-bridge-cities-v2",
@@ -1178,6 +1910,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Major transport junction for accessing northern Nouméa.", "Home to numerous retail outlets and service businesses.", "A hub for commuters and students in the region.", "The district is named after the bridge over the Yahoué River."],
     },
     imageHint: "Busy intersection and bridge in northern Nouméa",
+    descriptionAdvanced: {
+      de: "Die Yahoué-Brücke ist ein strategisches Infrastrukturobjekt, das die Grenze zwischen Nouméa und Dumbéa markiert. Sie überquert den Fluss Yahoué und ermöglicht den Zugang zu den schnell wachsenden Wohnvierteln im Norden. Das umliegende Tal ist für seine dichte Vegetation und Wanderwege bekannt.",
+      hu: "A Yahoué-híd egy stratégiai infrastruktúra, amely Nouméa és Dumbéa határát jelzi. A híd a Yahoué-folyón ível át, és hozzáférést biztosít az északi, gyorsan növekvő lakónegyedekhez. A környező völgy sűrű növényzetéről és túraútvonalairól ismert.",
+      ro: "Podul Yahoué este o structură strategică de infrastructură care marchează granița dintre Nouméa și Dumbéa. Traversează râul Yahoué și facilitează accesul către cartierele rezidențiale în plină expansiune din nord. Valea înconjurătoare este cunoscută pentru vegetația densă și traseele de drumeție.",
+      en: "The Yahoué Bridge is a strategic infrastructure element marking the boundary between Nouméa and Dumbéa. It spans the Yahoué River, providing access to the rapidly growing northern residential districts. The surrounding valley is known for its dense vegetation and hiking trails.",
+    },
+    factsAdvanced: {
+      de: ["Verbindet die Stadtteile Nouméa und Dumbéa", "Überquert den Fluss Yahoué", "Wichtiger Verkehrsknotenpunkt für Pendler", "Eingangstor zum Yahoué-Tal", "Infrastruktur im 20. Jahrhundert modernisiert", "Umgeben von tropischen Waldgebieten"],
+      hu: ["Nouméa és Dumbéa kerületeit köti össze", "A Yahoué-folyó felett ível át", "Fontos közlekedési csomópont az ingázók számára", "A Yahoué-völgy bejárati kapuja", "Az infrastruktúrát a 20. században modernizálták", "Trópusi erdős területek veszik körül"],
+      ro: ["Conectează districtele Nouméa și Dumbéa", "Traversează cursul râului Yahoué", "Nod de trafic important pentru navetiști", "Poartă de intrare către Valea Yahoué", "Infrastructură modernizată în secolul al XX-lea", "Înconjurat de zone cu păduri tropicale"],
+      en: ["Connects Nouméa and Dumbéa districts", "Spans the Yahoué River", "Key traffic node for commuters", "Gateway to the Yahoué Valley", "Infrastructure modernized during the 20th century", "Surrounded by tropical forested areas"],
+    },
   },
   {
     id: "newcaledonia-tina-sur-mer-cities-v2",
@@ -1197,6 +1941,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Known for its modern villas with ocean views.", "Provides access to scenic coastal walking and cycling paths.", "A very quiet neighborhood far from the city center bustle.", "Conveniently located near the Tjibaou Cultural Center."],
     },
     imageHint: "Modern seaside villas and the lagoon in Tina",
+    descriptionAdvanced: {
+      de: "Tina-sur-Mer ist ein modernes Wohnviertel im Nordosten von Nouméa, das für seine hochwertige Architektur und Sportanlagen bekannt ist. Es beherbergt den internationalen Golfplatz von Tina und ein weitläufiges Netz an Radwegen. Das Viertel liegt direkt an der Küste und bietet Blick auf die Lagune.",
+      hu: "Tina-sur-Mer egy modern lakónegyed Nouméa északkeleti részén, amely kiváló építészetéről és sportlétesítményeiről ismert. Itt található a nemzetközi Tina golfpálya és egy kiterjedt kerékpárút-hálózat. A negyed közvetlenül a tengerparton fekszik, kilátással a lagúnára.",
+      ro: "Tina-sur-Mer este un cartier rezidențial modern din nord-estul orașului Nouméa, cunoscut pentru arhitectura de calitate și facilitățile sportive. Găzduiește terenul internațional de golf Tina și o rețea extinsă de piste pentru biciclete. Cartierul este situat pe coastă, cu vedere spre lagună.",
+      en: "Tina-sur-Mer is a modern residential district in northeastern Nouméa, known for its high-quality architecture and sports facilities. It hosts the international Tina golf course and an extensive network of cycle paths. The neighborhood is situated directly on the coast with lagoon views.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt den 18-Loch-Golfplatz Tina", "In der Nähe des Jean-Marie Tjibaou Kulturzentrums", "Verfügt über 10 km markierte Radwege", "Direkter Zugang zu den Küstenmangroven", "Modernes Stadtentwicklungsprojekt der 1990er Jahre", "Blick auf die Halbinsel Magenta"],
+      hu: ["Itt található a 18 lyukú Tina golfpálya", "A Jean-Marie Tjibaou Kulturális Központ közelében", "10 km kijelölt kerékpárúttal rendelkezik", "Közvetlen hozzáférés a parti mangroveerdőkhöz", "Az 1990-es évek modern városfejlesztési projektje", "Kilátás nyílik a Magenta-félszigetre"],
+      ro: ["Găzduiește terenul de golf Tina cu 18 găuri", "Aproape de Centrul Cultural Jean-Marie Tjibaou", "Dispune de 10 km de piste pentru biciclete", "Acces direct la zonele de mangrove de pe coastă", "Proiect modern de dezvoltare urbană din anii 1990", "Oferă vedere spre peninsula Magenta"],
+      en: ["Home to the 18-hole Tina golf course", "Located near the Jean-Marie Tjibaou Cultural Centre", "Features 10 km of marked cycle paths", "Direct access to coastal mangrove forests", "Modern urban development project from the 1990s", "Overlooks the Magenta peninsula"],
+    },
   },
   {
     id: "newcaledonia-vallee-du-tir-cities-v2",
@@ -1216,6 +1972,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["One of the city's oldest working-class neighborhoods.", "Home to significant social and cultural institutions.", "The name is derived from a former shooting range in the area.", "Main hub for daily local life and community markets."],
     },
     imageHint: "Traditional houses and narrow streets in Vallée du Tir",
+    descriptionAdvanced: {
+      de: "Die Vallée du Tir ist eines der ältesten und geschichtsträchtigsten Viertel von Nouméa, geprägt von seiner industriellen Vergangenheit. Es liegt in der Nähe des Hafens und der Nickelhütte Doniambo. Heute ist es ein lebendiges Wohngebiet mit einer vielfältigen, multikulturellen Bevölkerung.",
+      hu: "A Vallée du Tir Nouméa egyik legrégebbi és legpatinásabb negyede, amelyet ipari múltja határoz meg. A kikötő és a doniambói nikkelkohó közelében található. Ma egy élénk lakóövezet, amely sokszínű, multikulturális lakossággal rendelkezik.",
+      ro: "Vallée du Tir este unul dintre cele mai vechi și istorice cartiere din Nouméa, definit de trecutul său industrial. Este situat în apropierea portului și a uzinei de nichel Doniambo. Astăzi este o zonă rezidențială vibrantă, cu o populație multiculturală diversă.",
+      en: "Vallée du Tir is one of the oldest and most historical districts of Nouméa, shaped by its industrial past. It is located near the port and the Doniambo nickel smelter. Today, it is a vibrant residential area with a diverse, multicultural population.",
+    },
+    factsAdvanced: {
+      de: ["Name stammt von einem alten Schießstand", "Eines der ersten Siedlungsgebiete von Nouméa", "Liegt am Fuße des Mont Montravel", "Starke Verbindung zur Nickelindustrie (SLN)", "Beherbergt den historischen Friedhof von Nouméa", "Zentrum für Stadtplanungsprojekte seit 2010"],
+      hu: ["A neve egy régi lőtérről származik", "Nouméa egyik legelső településrésze", "A Mont Montravel lábánál fekszik", "Szoros kapcsolat a nikkeliparral (SLN)", "Itt található Nouméa történelmi temetője", "Városrehabilitációs projektek központja 2010 óta"],
+      ro: ["Numele provine de la un fost poligon de tragere", "Una dintre primele zone locuite din Nouméa", "Situat la poalele dealului Mont Montravel", "Legătură strânsă cu industria nichelului (SLN)", "Găzduiește cimitirul istoric din Nouméa", "Centru pentru proiecte de urbanism din 2010"],
+      en: ["Name originates from an old shooting range", "One of the first settled areas of Nouméa", "Located at the foot of Mont Montravel", "Strong link to the nickel industry (SLN)", "Home to the historical cemetery of Nouméa", "Focus of urban renewal projects since 2010"],
+    },
   },
   {
     id: "newcaledonia-ouemo-cities-v2",
@@ -1235,6 +2003,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Offers 360-degree views of Magenta and Sainte-Marie bays.", "Popular with families due to its low-traffic streets.", "Features beautiful walking paths along the rocky shoreline.", "Location of some of the city's most desirable real estate."],
     },
     imageHint: "Coastal houses on the Ouémo peninsula",
+    descriptionAdvanced: {
+      de: "Ouémo ist eine Halbinsel und ein exklusives Wohnviertel in Nouméa, das fast vollständig vom Meer umgeben ist. Es bietet eine ruhige Atmosphäre und Panoramablicke auf die Bucht von Magenta. Die Architektur ist durch moderne Villen und gepflegte Gärten entlang der Küstenstraße gekennzeichnet.",
+      hu: "Ouémo egy félsziget és egy exkluzív lakónegyed Nouméában, amelyet szinte teljesen körülvesz a tenger. Nyugodt légkört és panorámás kilátást kínál a Magenta-öbölre. Építészetét modern villák és a tengerparti út mentén fekvő gondozott kertek jellemzik.",
+      ro: "Ouémo este o peninsulă și un cartier rezidențial exclusivist din Nouméa, înconjurat aproape complet de mare. Oferă o atmosferă liniștită și vederi panoramice asupra golfului Magenta. Arhitectura este marcată de vile moderne și grădini îngrijite de-a lungul drumului de coastă.",
+      en: "Ouémo is a peninsula and an upscale residential district in Nouméa, almost entirely surrounded by the sea. It offers a quiet atmosphere and panoramic views of Magenta Bay. The architecture is characterized by modern villas and well-kept gardens along the coastal road.",
+    },
+    factsAdvanced: {
+      de: ["Halbinsel im Osten der Stadt Nouméa", "Grenzt direkt an die Bucht von Magenta", "Bekannt für seine ruhigen Wohnstraßen", "In der Nähe des Inlandsflughafens Magenta", "Verfügt über einen öffentlichen Küstenwanderweg", "Früher Standort für Verteidigungsbatterien"],
+      hu: ["Félsziget Nouméa városának keleti részén", "Közvetlenül határos a Magenta-öböllel", "Csendes lakóutcáiról ismert", "A Magenta belföldi repülőtér közelében fekszik", "Nyilvános parti sétánnyal rendelkezik", "Korábban védelmi ütegek helyszíne volt"],
+      ro: ["Peninsulă situată în estul orașului Nouméa", "Se învecinează direct cu golful Magenta", "Cunoscut pentru străzile rezidențiale liniștite", "Aproape de aeroportul domestic Magenta", "Dispune de o potecă publică de coastă", "Fost sit pentru baterii de apărare de coastă"],
+      en: ["Peninsula located in the east of Nouméa city", "Directly borders Magenta Bay", "Known for its quiet residential streets", "Close to Magenta domestic airport", "Features a public coastal walking path", "Former site for coastal defense batteries"],
+    },
   },
   {
     id: "newcaledonia-normandie-cities-v2",
@@ -1254,6 +2034,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Important residential area for the city's working class.", "Home to numerous industrial and commercial businesses.", "The district developed along the main transportation axes.", "Provides good connectivity to both the city center and the north."],
     },
     imageHint: "Main road and commercial buildings in Normandie district",
+    descriptionAdvanced: {
+      de: "Normandie ist ein strategisches Viertel am nordöstlichen Eingang von Nouméa, das sowohl Wohn- als auch Gewerbezonen umfasst. Es dient als wichtiger Durchgangspunkt für Pendler aus den nördlichen Vororten. Das Viertel liegt in der Nähe des Rivière Salée und bietet wichtige Versorgungszentren.",
+      hu: "Normandie egy stratégiai negyed Nouméa északkeleti bejáratánál, amely lakó- és kereskedelmi övezeteket egyaránt magában foglal. Fontos áthaladási pont az északi külvárosokból érkező ingázók számára. A negyed a Rivière Salée közelében fekszik, és fontos szolgáltató központokat kínál.",
+      ro: "Normandie este un cartier strategic la intrarea de nord-est a orașului Nouméa, cuprinzând atât zone rezidențiale, cât și comerciale. Servește ca punct important de tranzit pentru navetiștii din suburbiile nordice. Cartierul se află lângă Rivière Salée și oferü centre comerciale esențiale.",
+      en: "Normandie is a strategic district at the northeastern entrance of Nouméa, encompassing both residential and commercial zones. It serves as a major transit point for commuters from the northern suburbs. The district is located near the Rivière Salée and offers essential service centers.",
+    },
+    factsAdvanced: {
+      de: ["Liegt am Fluss Rivière Salée", "Wichtiges Handelszentrum im Norden Nouméas", "Strategischer Knotenpunkt der Schnellstraße", "Beherbergt mehrere große Supermärkte", "Wohngebiete in den 1970ern stark ausgebaut", "Grenzt an die Gemeinde Dumbéa"],
+      hu: ["A Rivière Salée folyó mentén fekszik", "Fontos kereskedelmi központ Nouméa északon", "A gyorsforgalmi út stratégiai csomópontja", "Számos nagy szupermarketnek ad otthont", "Az 1970-es években bővült jelentősen", "Határos Dumbéa községgel"],
+      ro: ["Situat de-a lungul râului Rivière Salée", "Centru comercial major în nordul Nouméa", "Nod strategic pe drumul expres", "Găzduiește mai multe supermarketuri mari", "Zone rezidențiale extinse în anii 1970", "Se învecinează cu comuna Dumbéa"],
+      en: ["Located along the Rivière Salée river", "Major commercial hub in northern Nouméa", "Strategic junction on the expressway", "Home to several large supermarkets", "Residential areas expanded greatly in the 1970s", "Borders the commune of Dumbéa"],
+    },
   },
   {
     id: "newcaledonia-port-laguerre-center-cities-v2",
@@ -1273,6 +2065,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Serves as a meeting point for the local farming community.", "Home to a historical school and a small church.", "A classic example of the rural settlement pattern in Païta.", "Known for its quiet atmosphere far from the urban center."],
     },
     imageHint: "Small rural school and church in Port-Laguerre",
+    descriptionAdvanced: {
+      de: "Port-Laguerre Village ist der zentrale Siedlungskern des ländlichen Gebiets von Païta. Es dient als Gemeinschaftszentrum für die umliegenden Farmen und die landwirtschaftliche Schule. Der Ort bewahrt einen traditionellen ländlichen Charakter mit einer engen Verbindung zur Natur und zur Landwirtschaft.",
+      hu: "Port-Laguerre Village Païta vidéki területének központi településmagja. Közösségi központként szolgál a környező farmok és a mezőgazdasági iskola számára. A hely megőrzi hagyományos vidéki jellegét, szoros kapcsolatban állva a természettel és a mezőgazdasággal.",
+      ro: "Port-Laguerre Village reprezintă nucleul central de așezare al zonei rurale din Païta. Servește drept centru comunitar pentru fermele din jur și școala agricolă. Localitatea păstrează un caracter rural tradițional, având o legătură strânsă cu natura și agricultura.",
+      en: "Port-Laguerre Village is the central settlement core of the rural area of Païta. It serves as a community hub for the surrounding farms and the agricultural school. The place maintains a traditional rural character with a strong connection to nature and farming.",
+    },
+    factsAdvanced: {
+      de: ["Kerngebiet der Gemeinde Païta", "Zentrum der landwirtschaftlichen Gemeinde", "Liegt an der Hauptstraße RT1", "Umgeben von weitläufigen Weideflächen", "Sitz lokaler bäuerlicher Genossenschaften", "Wichtiger Treffpunkt für lokale Märkte"],
+      hu: ["Païta község magterülete", "A mezőgazdasági közösség központja", "Az RT1-es főút mentén fekszik", "Kiterjedt legelők veszik körül", "Helyi gazdaszövetkezetek székhelye", "Fontos helyszín a helyi piacok számára"],
+      ro: ["Zona centrală a comunei Païta", "Centrul comunității agricole", "Situat pe drumul principal RT1", "Înconjurat de pășuni vaste", "Sediul unor cooperative agricole locale", "Loc important pentru piețele locale"],
+      en: ["Core area of the Païta commune", "Center of the agricultural community", "Located on the RT1 main road", "Surrounded by extensive grazing lands", "Home to local farming cooperatives", "Important site for local produce markets"],
+    },
   },
   {
     id: "newcaledonia-pont-des-francais-cities-v2",
@@ -1292,6 +2096,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Major road junction between Nouméa and the Mont-Dore commune.", "Home to several large supermarkets and DIY stores.", "The name commemorates a historical bridge from the colonial era.", "A bustling area with significant traffic volume during peak hours."],
     },
     imageHint: "Commercial centers and traffic at Pont-des-Français",
+    descriptionAdvanced: {
+      de: "Pont-des-Français ist ein strategischer Ortsteil an der Grenze zwischen Nouméa und Mont-Dore. Er ist nach einer historischen Brücke benannt, die ein Schlüsselpunkt für den Verkehr in den Süden der Insel ist. Das Gebiet verbindet Industriezonen mit Wohngebieten und ist ein wichtiger Knotenpunkt.",
+      hu: "Pont-des-Français egy stratégiai városrész Nouméa és Mont-Dore határán. Egy történelmi hídról kapta a nevét, amely kulcsfontosságú pont a sziget déli része felé irányuló forgalom számára. A terület ipari zónákat és lakóövezeteket köt össze, fontos közlekedési csomópont.",
+      ro: "Pont-des-Français este un cartier strategic situat la granița dintre Nouméa și Mont-Dore. Poartă numele unui pod istoric, care este un punct cheie pentru traficul către sudul insulei. Zona conectează zonele industriale cu cele rezidențiale, fiind un nod de transport major.",
+      en: "Pont-des-Français is a strategic district located on the border between Nouméa and Mont-Dore. It is named after a historical bridge that is a key point for traffic heading to the south of the island. The area connects industrial zones with residential neighborhoods and is a major transit hub.",
+    },
+    factsAdvanced: {
+      de: ["Markiert die Grenze zu Mont-Dore", "Namensgebende Brücke über den Coulée", "Wichtiger Zugang zur Südprovinz", "Standort bedeutender Industrieunternehmen", "Stark frequentierter Verkehrsknotenpunkt", "Geschichtliche Bedeutung für französische Siedler"],
+      hu: ["Mont-Dore határát jelzi", "Névadó híd a Coulée folyón", "Fontos bejárat a Déli Tartományba", "Jelentős ipari vállalatok telephelye", "Nagy forgalmú közlekedési csomópont", "Történelmi jelentőség a francia telepesek számára"],
+      ro: ["Marchează granița cu Mont-Dore", "Podul eponim traversează râul Coulée", "Acces important către Provincia Sud", "Locul unor companii industriale majore", "Nod de trafic intens circulat", "Semnificație istorică pentru coloniștii francezi"],
+      en: ["Marks the boundary with Mont-Dore", "Eponymous bridge spans the Coulée river", "Major gateway to the South Province", "Site of significant industrial companies", "Highly frequented traffic junction", "Historical importance for French settlers"],
+    },
   },
   {
     id: "newcaledonia-sainte-marie-cities-v2",
@@ -1311,6 +2127,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Popular destination for canoeing and kayaking within the city.", "Features a scenic waterfront promenade popular with joggers.", "Location of upscale residential areas with private docks.", "Direct access to the small islets located within Sainte-Marie bay."],
     },
     imageHint: "Kayaks on the water in Sainte-Marie bay, Nouméa",
+    descriptionAdvanced: {
+      de: "Sainte-Marie ist ein weitläufiges Wohn- und Erholungsviertel im Süden von Nouméa, das an die gleichnamige Bucht grenzt. Es ist bekannt für seine Uferpromenade, die bei Joggern und Spaziergängern beliebt ist. Die Gegend beherbergt markante religiöse Gebäude und bietet Zugang zu kleinen vorgelagerten Inseln.",
+      hu: "Sainte-Marie egy kiterjedt lakó- és üdülőnegyed Nouméa déli részén, amely az azonos nevű öböllel határos. Ismert a vízparti sétányáról, amely a kocogók és sétálók körében népszerű. A környéken jellegzetes vallási épületek találhatók, és hozzáférést biztosít a közeli kis szigetekhez.",
+      ro: "Sainte-Marie este un cartier rezidențial și recreativ vast din sudul orașului Nouméa, adiacent golfului cu același nume. Este cunoscut pentru faleza sa, populară printre alergători și pietoni. Zona găzduiește clădiri religioase emblematice și oferă acces către insule mici din apropiere.",
+      en: "Sainte-Marie is an extensive residential and recreational district in southern Nouméa, bordering the bay of the same name. It is known for its waterfront promenade, popular with joggers and walkers. The area hosts distinctive religious buildings and provides access to small offshore islands.",
+    },
+    factsAdvanced: {
+      de: ["Große Bucht Sainte-Marie im Zentrum", "Beliebte 3 km lange Uferpromenade", "Standort der Kirche Marie Reine de la Paix", "Blick auf die Îlot Sainte-Marie", "Traditionelles Viertel für Bootsbesitzer", "Jährliche Sportveranstaltungen an der Bucht"],
+      hu: ["Központjában a nagy Sainte-Marie-öböl", "Népszerű 3 km hosszú vízparti sétány", "A Marie Reine de la Paix templom helyszíne", "Kilátás az Îlot Sainte-Marie szigetre", "Hagyományos negyed a hajótulajdonosok számára", "Éves sportesemények helyszíne az öbölnél"],
+      ro: ["Golful mare Sainte-Marie în centru", "Faleză populară de 3 km lungime", "Locul bisericii Marie Reine de la Paix", "Vedere spre insula Îlot Sainte-Marie", "Cartier tradițional pentru posesorii de barcă", "Evenimente sportive anuale în golf"],
+      en: ["Large Sainte-Marie Bay at its center", "Popular 3 km long waterfront promenade", "Site of the Marie Reine de la Paix church", "Overlooks the Îlot Sainte-Marie island", "Traditional district for boat owners", "Hosts annual sporting events by the bay"],
+    },
   },
   {
     id: "newcaledonia-ouemo-pointe-cities-v2",
@@ -1330,6 +2158,18 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["A popular spot for late afternoon scenic walks.", "Significant viewpoint for monitoring boat traffic in the bays.", "Characterized by its rocky shoreline and lush local greenery.", "One of the quietest spots within the Nouméa urban area."],
     },
     imageHint: "Rocky coast at the tip of Ouémo Point",
+    descriptionAdvanced: {
+      de: "Die Ouémo-Spitze markiert das äußerste Ende der Ouémo-Halbinsel in Nouméa und ist ein beliebter Aussichtspunkt. Sie bietet einen weiten Blick über die Lagune und die benachbarten Inseln. Das Gebiet ist durch zerklüftete Küstenabschnitte und kleine, versteckte Buchten geprägt.",
+      hu: "Az Ouémo-fok az Ouémo-félsziget legkülső csücskét jelzi Nouméában, és népszerű kilátóhely. Széles kilátást nyújt a lagúnára és a szomszédos szigetekre. A területet sziklás tengerparti szakaszok és kis, rejtett öblök jellemzik.",
+      ro: "Punta Ouémo marchează extremitatea peninsulei Ouémo din Nouméa și este un punct de belvedere popular. Oferă o vedere largă asupra lagunei și a insulelor vecine. Zona este caracterizată de secțiuni de coastă stâncoase și mici golfuri ascunse.",
+      en: "Ouémo Point marks the outermost tip of the Ouémo peninsula in Nouméa and is a popular viewpoint. It offers a wide view over the lagoon and neighboring islands. The area is characterized by rugged coastal sections and small, hidden bays.",
+    },
+    factsAdvanced: {
+      de: ["Östlichster Punkt der Ouémo-Halbinsel", "Panoramablick auf die Îlot Escande", "Standort historischer Küstenbefestigungen", "Beliebter Ort für Sonnenuntergänge", "Zugang zu kleinen felsigen Stränden", "Wohngebiet mit geringer Verkehrsdichte"],
+      hu: ["Az Ouémo-félsziget legkeletibb pontja", "Panorámás kilátás az Îlot Escande-ra", "Történelmi parti erődítmények helyszíne", "Népszerű hely a naplementék nézésére", "Hozzáférés kis sziklás strandokhoz", "Alacsony forgalmú lakóövezet"],
+      ro: ["Cel mai estic punct al peninsulei Ouémo", "Vedere panoramică spre Îlot Escande", "Situl unor fortificații de coastă istorice", "Loc popular pentru observarea apusului", "Acces la mici plaje stâncoase", "Zonă rezidențială cu trafic redus"],
+      en: ["Easternmost point of the Ouémo peninsula", "Panoramic view of Îlot Escande", "Site of historical coastal fortifications", "Popular spot for sunset watching", "Access to small rocky beaches", "Residential area with low traffic density"],
+    },
   },
   {
     id: "newcaledonia-vallee-des-colons-east-cities-v2",
@@ -1349,5 +2189,17 @@ export const newcaledoniaCitiesV2: POI[] = [
       en: ["Characterized by hillside locations with good city views.", "Features a mix of older houses and modern apartment buildings.", "Centrally located with easy access to the downtown area.", "Known for its many small tree-lined avenues and parks."],
     },
     imageHint: "Hilly residential street in eastern Nouméa",
+    descriptionAdvanced: {
+      de: "Das östliche Vallée des Colons ist ein historisches Wohnviertel im Herzen von Nouméa, das für seine kolonialen Holzhäuser bekannt ist. Es hat seinen Namen von den frühen europäischen Siedlern, die sich hier niederließen. Heute ist es ein dicht besiedeltes Viertel mit Schulen, Geschäften und einer starken Gemeinschaft.",
+      hu: "Vallée des Colons keleti része egy történelmi lakónegyed Nouméa szívében, amely gyarmati stílusú faházairól ismert. Nevét a korai európai telepesekről kapta, akik itt telepedtek le. Ma sűrűn lakott negyed iskolákkal, üzletekkel és erős közösségi élettel.",
+      ro: "Partea de est a Vallée des Colons este un cartier rezidențial istoric din inima orașului Nouméa, cunoscut pentru casele coloniale din lemn. Își trage numele de la primii coloniști europeni care s-au stabilit aici. Astăzi este un cartier dens populat, cu școli, magazine și o comunitate unită.",
+      en: "East Vallée des Colons is a historical residential district in the heart of Nouméa, known for its colonial wooden houses. It takes its name from the early European settlers who established themselves here. Today, it is a densely populated neighborhood with schools, shops, and a strong community feel.",
+    },
+    factsAdvanced: {
+      de: ["Eines der ältesten Viertel der Hauptstadt", "Benannt nach den ersten Kolonisten", "Beherbergt viele gut erhaltene Kolonialhäuser", "Zentrum für Bildung mit mehreren Schulen", "Früher ein landwirtschaftlich genutztes Tal", "Verbindet das Stadtzentrum mit den Ostvierteln"],
+      hu: ["A főváros egyik legrégebbi negyede", "Az első telepesekről (kolonisták) kapta nevét", "Sok jól megőrzött gyarmati házat tartalmaz", "Oktatási központ számos iskolával", "Korábban mezőgazdasági művelésű völgy volt", "Összeköti a belvárost a keleti negyedekkel"],
+      ro: ["Unul dintre cele mai vechi cartiere ale capitalei", "Numit după primii coloniști", "Găzduiește multe case coloniale bine conservate", "Centru educațional cu mai multe școli", "Anterior a fost o vale utilizată agricol", "Conectează centrul orașului cu cartierele de est"],
+      en: ["One of the oldest districts in the capital", "Named after the first European colonists", "Contains many well-preserved colonial houses", "Educational hub with several schools", "Formerly an agricultural valley", "Connects the city center with eastern districts"],
+    },
   }
 ];

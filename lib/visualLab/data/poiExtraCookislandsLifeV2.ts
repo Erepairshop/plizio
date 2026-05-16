@@ -236,6 +236,18 @@ export const cookislandsLifeV2: POI[] = [
       en: ["Includes four small motu islets.", "Sea cucumbers filter the water.", "Popular snorkeling location.", "Traditional Rau protection zones."],
     },
     imageHint: "Tropical fish swimming over coral in Muri lagoon",
+    descriptionAdvanced: {
+      de: "Das Muri Lagoon Reserve an der Ostküste von Rarotonga ist ein wichtiges Schutzgebiet für das marine Ökosystem der Insel. Die flache Lagune beherbergt zahlreiche Fischarten, Riesenmuscheln und Korallenriffe, die für die Biodiversität von zentraler Bedeutung sind. Vier kleine Inseln, sogenannte Motu, liegen innerhalb des Reservats und bieten Lebensraum für Seevögel.",
+      hu: "A Muri-lagúna Rezervátum Rarotonga keleti partján a sziget tengeri ökoszisztémájának egyik legfontosabb védett területe. A sekély lagúna számos halfajnak, óriáskagylónak és korallzátonynak ad otthont, amelyek kulcsfontosságúak a biológiai sokféleség szempontjából. A rezervátum területén négy kis sziget (motu) található.",
+      ro: "Rezervația Lagunei Muri, pe coasta de est a insulei Rarotonga, este o zonă protejată crucială pentru ecosistemul marin. Laguna puțin adâncă găzduiește numeroase specii de pești, scoici gigant și recife de corali esențiale pentru biodiversitate. Patru insulițe (motu) se află în cadrul rezervației, fiind habitat pentru păsări marine.",
+      en: "Muri Lagoon Reserve on the eastern coast of Rarotonga is a vital protected area for the island's marine ecosystem. The shallow lagoon hosts numerous fish species, giant clams, and coral reefs that are central to the local biodiversity. Four small islets, known as motu, lie within the reserve and provide habitats for seabirds.",
+    },
+    factsAdvanced: {
+      de: ["Beinhaltet vier Inseln: Taakoka, Koromiri, Gonuapu, Motutapu", "Wichtiges Habitat für Riesenmuscheln", "Beliebtes Ziel für Schnorchler", "Unterliegt lokalen Schutzmaßnahmen (Ra'ui)", "Heimat für tropische Rifffische", "Schutz vor Küstenerosion durch das Riff"],
+      hu: ["Négy szigetet foglal magában", "Az óriáskagylók fontos élőhelye", "Népszerű helyszín a könnyűbúvárok körében", "Helyi védelmi szabályozás (Ra'ui) alatt áll", "Számos trópusi korallsügér otthona", "A zátony védi a partot az eróziótól"],
+      ro: ["Include patru insulițe (motu) principale", "Habitat important pentru scoicile gigant", "Destinație populară pentru snorkeling", "Sub rezerva legilor locale de protecție (Ra'ui)", "Găzduiește numeroși pești de recif tropicali", "Reciful protejează coasta împotriva eroziunii"],
+      en: ["Includes four motu: Taakoka, Koromiri, Gonuapu, Motutapu", "Important habitat for giant clams", "Popular destination for snorkeling", "Subject to community conservation rules (Ra'ui)", "Home to diverse tropical reef fish", "The reef provides protection against erosion"],
+    },
   },
   {
     id: "cookislands-raemaru-forest-reserve-life-v2",
@@ -255,6 +267,18 @@ export const cookislandsLifeV2: POI[] = [
       en: ["Flat-topped peak with rainforest.", "Hiking trail through native flora.", "Home to endemic insect species.", "Protection against invasive plants."],
     },
     imageHint: "Lush green plateau and forest of Mount Raemaru",
+    descriptionAdvanced: {
+      de: "Das Raemaru Forest Reserve umfasst den charakteristischen Tafelberg im Westen von Rarotonga und ist ein bedeutendes Refugium für einheimische Pflanzen. Der Legende nach wurde die Spitze des Berges einst von Kriegern aus Aitutaki gestohlen. Heute schützt das Reservat seltene Farne, Orchideen und endemische Vogelarten in den unberührten Waldgebieten.",
+      hu: "A Raemaru Erdőrezervátum Rarotonga nyugati részén a jellegzetes lapos tetejű hegyet és a környező őshonos növényvilágot foglalja magában. A legenda szerint a hegy csúcsát egykor aitutaki harcosok lopták el. Ma a rezervátum ritka páfrányokat, orchideákat és endemikus madárfajokat véd az érintetlen erdős területeken.",
+      ro: "Rezervația Forestieră Raemaru cuprinde muntele cu vârf plat din vestul insulei Rarotonga, fiind un refugiu important pentru plantele native. Legenda spune că vârful muntelui a fost furat cândva de războinicii din Aitutaki. Astăzi, rezervația protejează ferigi rare, orhidee și specii de păsări endemice în pădurile virgine.",
+      en: "Raemaru Forest Reserve encompasses the distinctive flat-top mountain on the western side of Rarotonga and is a significant sanctuary for native plants. According to legend, the mountain's peak was once stolen by warriors from Aitutaki. Today, the reserve protects rare ferns, orchids, and endemic bird species within its pristine forest areas.",
+    },
+    factsAdvanced: {
+      de: ["Gipfel liegt auf 350 Metern Höhe", "Beherbergt seltene einheimische Orchideen", "Heimat des Rarotonga-Monarchen (Vogel)", "Beliebtes Wandergebiet mit Kletterstellen", "Wichtiges Wassereinzugsgebiet der Insel", "Umfasst dichten tropischen Regenwald"],
+      hu: ["A hegycsúcs 350 méter magasan van", "Ritka őshonos orchideáknak ad otthont", "A rarotongai monarcha madár élőhelye", "Népszerű túraútvonal sziklamászó szakasszal", "Fontos vízgyűjtő terület a sziget számára", "Sűrű trópusi esőerdő borítja"],
+      ro: ["Vârful se află la 350 de metri înălțime", "Găzduiește orhidee native rare", "Habitat pentru pasărea monarh de Rarotonga", "Zonă de drumeție populară cu porțiuni de cățărare", "Zonă importantă de captare a apei pe insulă", "Cuprinde păduri tropicale dense"],
+      en: ["Summit reaches 350 meters in height", "Home to rare indigenous orchids", "Habitat for the Rarotonga Monarch bird", "Popular hiking trail with climbing sections", "Vital watershed area for the island", "Contains dense tropical rainforest vegetation"],
+    },
   },
   {
     id: "cookislands-te-manga-cloud-forest-life-v2",

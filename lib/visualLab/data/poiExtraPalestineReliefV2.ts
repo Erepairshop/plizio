@@ -19,6 +19,18 @@ export const palestineReliefV2: POI[] = [
       en: ["Highest mountain in the West Bank", "Elevation of 1,016 meters", "Located north of Ramallah city", "Part of the central mountain range"],
     },
     imageHint: "Baal-Hazor mountain peak in West Bank landscape",
+    descriptionAdvanced: {
+      de: "Baal-Hazor ist der höchste Gipfel im samarischen Bergland und bietet eine strategische Position mit Blick auf weite Teile des Westjordanlandes und bis zum Mittelmeer. Die Bergkuppe ist durch karge Vegetation und markante Kalksteinfelsen geprägt, die typisch für die höheren Lagen des zentralen Plateaus sind. Er ist ein wichtiger topographischer Orientierungspunkt in der Region.",
+      hu: "Baal-Hazor Szamária legmagasabb pontja, amely stratégiai fekvéséből adódóan kilátást nyújt Ciszjordánia nagy részére és egészen a Földközi-tengerig. A hegycsúcsot ritkás növényzet és jellegzetes mészkősziklák jellemzik, amelyek a központi fennsík magasabb részeire jellemzőek. Fontos topográfiai tájékozódási pont a régióban.",
+      ro: "Baal-Hazor este cel mai înalt vârf din munții Samariei și oferă o poziție strategică cu vedere asupra unor părți extinse din Cisiordania și până la Marea Mediterană. Vârful muntelui este caracterizat de vegetație rară și stânci de calcar proeminente, tipice pentru zonele înalte ale podișului central. Este un punct de reper topografic important.",
+      en: "Baal-Hazor is the highest peak in the Samarian highlands, providing a strategic position with views over large parts of the West Bank and as far as the Mediterranean Sea. The summit is characterized by sparse vegetation and prominent limestone rocks typical of the higher elevations of the central plateau. It is a major topographical landmark in the region.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 1.016 Metern über dem Meeresspiegel", "Höchster Berg im gesamten Westjordanland", "Gelegen nordöstlich von Ramallah bei Silwad", "Häufige Schneefälle in den Wintermonaten", "Besteht überwiegend aus Gesteinen der Oberkreide", "Biblische Erwähnung im Zusammenhang mit Absalom"],
+      hu: ["Tengerszint feletti magassága 1016 méter", "Az egész Ciszjordánia legmagasabb hegye", "Rámalláhtól északkeletre, Silwad közelében található", "Télen gyakori a hóesés a csúcson", "Főként felső kréta kori kőzetekből áll", "A Bibliában Absolonnal összefüggésben szerepel"],
+      ro: ["Înălțime de 1.016 metri deasupra nivelului mării", "Cel mai înalt munte din întreaga Cisiordanie", "Situat la nord-est de Ramallah, lângă Silwad", "Ninsori frecvente în lunile de iarnă", "Compus în principal din roci din cretacicul superior", "Menționat în Biblie în legătură cu Absalom"],
+      en: ["Elevation of 1,016 meters above sea level", "Highest mountain in the entire West Bank", "Located northeast of Ramallah near Silwad", "Frequent snowfall during winter months", "Composed mainly of Upper Cretaceous rocks", "Biblical mention in connection with Absalom"],
+    },
   },
   {
     id: "palestine-dead-sea-basin-relief-v2",
@@ -38,6 +50,18 @@ export const palestineReliefV2: POI[] = [
       en: ["Lowest elevation on Earth's land surface", "Water level approx. 430m below sea level", "Salinity levels of around 33%", "Sheer limestone cliffs along the western edge"],
     },
     imageHint: "Dead Sea salt formations and mountain backdrop",
+    descriptionAdvanced: {
+      de: "Das Totenmeer-Becken ist ein Teil des großen Grabenbruchs und stellt den tiefsten Punkt der Erdoberfläche dar. Das Relief ist durch dramatische Steilhänge und salzhaltige Sedimentschichten geprägt, die sich über Millionen von Jahren abgelagert haben. Die extreme Verdunstung hat eine einzigartige Topographie mit Salzpfannen und Senklöchern geschaffen.",
+      hu: "A Holt-tenger medencéje a Nagy-hasadékvölgy része, és a Föld felszínének legmélyebb pontját képviseli. A domborzatot drámai meredélyek és sós üledékes rétegek jellemzik, amelyek évmilliók alatt rakódtak le. Az extrém párolgás egyedülálló topográfiát hozott létre sólepárlókkal és víznyelőkkel.",
+      ro: "Bazinul Mării Moarte face parte din Marea Vale de Rift și reprezintă cel mai de jos punct de pe suprafața terestră. Relieful este caracterizat de pante abrupte dramatice și straturi de sedimente saline depuse de-a lungul a milioane de ani. Evaporarea extremă a creat o topografie unică cu cratere de sare și doline.",
+      en: "The Dead Sea Basin is part of the Great Rift Valley and represents the lowest point on the Earth's surface. The relief is characterized by dramatic escarpments and saline sedimentary layers deposited over millions of years. Extreme evaporation has created a unique topography featuring salt pans and sinkholes.",
+    },
+    factsAdvanced: {
+      de: ["Wasserspiegel liegt ca. 430 Meter unter dem Meeresspiegel", "Maximale Tiefe des Beckens erreicht ca. 300 Meter", "Salzgehalt des Wassers beträgt etwa 34 Prozent", "Beinhaltet bedeutende Vorkommen von Kali und Magnesium", "Umfasst die Halbinsel Lisan auf der östlichen Seite", "Sinkende Pegelstände führen zur Bildung von Senklöchern"],
+      hu: ["A vízszint kb. 430 méterrel a tengerszint alatt van", "A medence maximális mélysége eléri a 300 métert", "A víz sótartalma körülbelül 34 százalék", "Jelentős kálium- és magnéziumlelőhelyeket tartalmaz", "Magában foglalja a keleti oldalon lévő Liszan-félszigetet", "A csökkenő vízszint miatt víznyelők alakulnak ki"],
+      ro: ["Nivelul apei este la cca. 430 de metri sub nivelul mării", "Adâncimea maximă a bazinului atinge cca. 300 de metri", "Salinitatea apei este de aproximativ 34%", "Conține zăcăminte importante de potasă și magneziu", "Include peninsula Lisan pe partea estică", "Scăderea nivelului apei duce la formarea dolinelor"],
+      en: ["Water level is approx. 430 meters below sea level", "Maximum basin depth reaches about 300 meters", "Water salinity is approximately 34 percent", "Contains significant deposits of potash and magnesium", "Includes the Lisan Peninsula on the eastern side", "Receding water levels lead to the formation of sinkholes"],
+    },
   },
   {
     id: "palestine-mount-sartaba-relief-v2",
@@ -57,6 +81,18 @@ export const palestineReliefV2: POI[] = [
       en: ["Distinctive conical shape", "377 meters above sea level", "Ancient signal fire station", "Overlooks the Jordan Valley"],
     },
     imageHint: "Mount Sartaba conical peak Jordan Valley",
+    descriptionAdvanced: {
+      de: "Der Mount Sartaba ist ein markanter isolierter Berg im zentralen Jordantal, dessen Relief durch steile Hänge und eine flache Gipfelplateau-Struktur gekennzeichnet ist. Seine exponierte Lage machte ihn historisch zu einem idealen Ort für Befestigungsanlagen und Signalfeuer. Die Geologie besteht überwiegend aus hartem Kalkstein, der der Erosion widerstanden hat.",
+      hu: "A Sartaba-hegy egy jellegzetes, elszigetelt kiemelkedés a központi Jordán-völgyben, amelynek domborzatát meredek lejtők és lapos csúcsplató jellemzi. Exponált helyzete történelmileg ideálissá tette erődítmények és jelzőtüzek számára. Geológiailag főként kemény mészkőből áll, amely ellenállt az eróziónak.",
+      ro: "Muntele Sartaba este o culme izolată proeminentă în centrul Văii Iordanului, al cărei relief este marcat de pante abrupte și un platou somital plat. Poziția sa expusă l-a făcut istoric un loc ideal pentru fortificații și focuri de semnalizare. Geologia constă în principal din calcar dur care a rezistat eroziunii.",
+      en: "Mount Sartaba is a distinctive isolated peak in the central Jordan Valley, characterized by steep slopes and a flat summit plateau structure. Its exposed location historically made it an ideal site for fortifications and signal beacons. The geology consists predominantly of hard limestone that has resisted erosion.",
+    },
+    factsAdvanced: {
+      de: ["Erhebt sich etwa 650 Meter über das Niveau des Jordantals", "Gipfelplateau beherbergt Ruinen der Alexandrium-Festung", "Steile Westflanke fällt fast senkrecht ab", "Geologisch Teil der Übergangszone zum Jordangraben", "Bietet 360-Grad-Sicht bis nach Jericho und Transjordanien", "Antike Wasserzuleitungen am Hang noch sichtbar"],
+      hu: ["Körülbelül 650 méterrel emelkedik a Jordán-völgy szintje fölé", "A csúcsplatón találhatók az Alexandrium erőd romjai", "Meredek nyugati oldala szinte függőlegesen szakad le", "Geológiailag a Jordán-árok felé tartó átmeneti zóna része", "360 fokos kilátás nyílik Jerikóra és Transzjordániára", "A hegyoldalon még láthatók az ókori vízvezetékek"],
+      ro: ["Se ridică la aproximativ 650 de metri deasupra Văii Iordanului", "Platoul somital găzduiește ruinele cetății Alexandrium", "Flancul vestic abrupt coboară aproape vertical", "Geologic face parte din zona de tranziție către Valea Riftului", "Oferă o vedere de 360 de grade până la Ierihon și Transjordania", "Conducte antice de apă încă vizibile pe versant"],
+      en: ["Rises about 650 meters above the level of the Jordan Valley", "Summit plateau hosts the ruins of Alexandrium fortress", "Steep western flank drops almost vertically", "Geologically part of the transition zone to the Jordan Rift", "Provides 360-degree views to Jericho and Transjordan", "Ancient water conduits still visible on the slopes"],
+    },
   },
   {
     id: "palestine-samarian-highlands-relief-v2",
@@ -76,6 +112,18 @@ export const palestineReliefV2: POI[] = [
       en: ["Central hilly region of Palestine", "Elevations between 500-900m", "Fertile terra rossa soils", "Traditional olive-growing heartland"],
     },
     imageHint: "Samarian Highlands hills with olive terraces",
+    descriptionAdvanced: {
+      de: "Das samarische Hochland bildet den zentralen Teil des Gebirgssystems im Westjordanland und ist durch ein welliges Relief mit breiten Tälern und abgerundeten Bergrücken geprägt. Die Geologie besteht hauptsächlich aus Kalkstein und Kreide, was zur Bildung fruchtbarer Böden in den Tälern führt. Diese Topographie hat die Besiedlung und Landwirtschaft seit Jahrtausenden begünstigt.",
+      hu: "Szamária hegyvidéke Ciszjordánia hegységrendszerének középső részét alkotja, hullámos domborzat, széles völgyek és lekerekített hegyhátak jellemzik. Geológiailag főként mészkőből és krétából áll, ami termékeny talaj kialakulásához vezetett a völgyekben. Ez a topográfia évezredek óta kedvezett a betelepülésnek és a mezőgazdaságnak.",
+      ro: "Podișul Samariei formează partea centrală a sistemului muntos din Cisiordania și este caracterizat de un relief valonat cu văi largi și creste rotunjite. Geologia constă în principal din calcar și cretă, ceea ce duce la formarea unor soluri fertile în văi. Această topografie a favorizat așezările și agricultura de milenii.",
+      en: "The Samarian Highlands form the central part of the mountain system in the West Bank, characterized by an undulating relief with broad valleys and rounded ridges. The geology consists mainly of limestone and chalk, leading to the formation of fertile soils in the valleys. This topography has favored settlement and agriculture for millennia.",
+    },
+    factsAdvanced: {
+      de: ["Durchschnittliche Höhe zwischen 700 und 900 Metern", "Geprägt durch das Vorhandensein zahlreicher Quellen", "Enthält fruchtbare Inlandsbecken wie die Marj Sanur", "Kalksteinformationen führten zur Entstehung vieler Höhlen", "Gefälle nach Osten hin zum Jordantal ist sehr steil", "Wichtigstes Olivenanbaugebiet des Landes"],
+      hu: ["Átlagos magassága 700 és 900 méter között mozog", "Számos forrás jelenléte jellemzi", "Olyan termékeny belső medencéket tartalmaz, mint a Marj Sanur", "A mészkőformációk miatt sok barlang alakult ki", "A Jordán-völgy felé tartó keleti lejtője nagyon meredek", "Az ország legfontosabb olívatermelő vidéke"],
+      ro: ["Altitudine medie între 700 și 900 de metri", "Caracterizat prin prezența a numeroase izvoare", "Conține bazine interioare fertile, cum ar fi Marj Sanur", "Formațiunile de calcar au dus la crearea multor peșteri", "Panta spre est, către Valea Iordanului, este foarte abruptă", "Cea mai importantă regiune de cultivare a măslinelor din țară"],
+      en: ["Average elevation between 700 and 900 meters", "Characterized by the presence of numerous springs", "Contains fertile inland basins like Marj Sanur", "Limestone formations led to the creation of many caves", "Eastward slope towards the Jordan Valley is very steep", "Most important olive-growing region in the country"],
+    },
   },
   {
     id: "palestine-wadi-ghazza-relief-v2",
@@ -95,6 +143,18 @@ export const palestineReliefV2: POI[] = [
       en: ["Largest wadi in the Gaza Strip", "Discharges into the Mediterranean", "Significant regional wetland", "Seasonal water flow pattern"],
     },
     imageHint: "Wadi Ghazza riverbed and surrounding plains",
+    descriptionAdvanced: {
+      de: "Das Wadi Ghazza ist ein bedeutendes Entwässerungssystem im Gazastreifen, das sich durch eine flache Küstenlandschaft mit saisonalen Wasserläufen auszeichnet. Das Relief ist durch sanfte Erosion und Sedimentablagerungen geprägt, die ein wichtiges Feuchtgebiet an der Mündung bilden. Es ist einer der wenigen natürlichen Korridore in dieser dicht besiedelten Region.",
+      hu: "A Wadi Ghazza a Gázai övezet jelentős vízelvezető rendszere, amelyet időszakos vízfolyásokkal teli, lapos tengerparti táj jellemez. A domborzatot az enyhe erózió és az üledéklerakódás formálta, amely fontos vizes élőhelyet hozott létre a torkolatnál. Ez az egyik kevés természetes folyosó ebben a sűrűn lakott régióban.",
+      ro: "Wadi Ghazza este un sistem de drenaj important în Fâșia Gaza, caracterizat printr-un peisaj de coastă plat cu cursuri de apă sezoniere. Relieful este modelat de eroziune ușoară și depozite de sedimente, formând o zonă umedă importantă la gura de vărsare. Este unul dintre puținele coridoare naturale din această regiune dens populată.",
+      en: "Wadi Ghazza is a major drainage system in the Gaza Strip, characterized by a flat coastal landscape with seasonal watercourses. The relief is shaped by gentle erosion and sediment deposits, forming an important wetland at the mouth. It is one of the few natural corridors in this densely populated region.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge des Wasserlaufs beträgt ca. 105 Kilometer", "Mündet südlich von Gaza-Stadt in das Mittelmeer", "Einzugsgebiet umfasst etwa 3.500 Quadratkilometer", "Wichtiges Rastgebiet für über 250 Zugvogelarten", "Durchquert den Gazastreifen auf einer Länge von 9 Kilometern", "Ausgewiesen als Naturschutzgebiet im Jahr 2000"],
+      hu: ["A vízfolyás teljes hossza körülbelül 105 kilométer", "Gázavárostól délre torkollik a Földközi-tengerbe", "Vízgyűjtő területe kb. 3500 négyzetkilométer", "Több mint 250 költöző madárfaj fontos pihenőhelye", "9 kilométer hosszan szeli át a Gázai övezetet", "2000-ben természetvédelmi területté nyilvánították"],
+      ro: ["Lungimea totală a cursului de apă este de cca. 105 km", "Se varsă în Marea Mediterană la sud de orașul Gaza", "Bazinul hidrografic acoperă aproximativ 3.500 km pătrați", "Zonă importantă de popas pentru peste 250 specii de păsări", "Traversează Fâșia Gaza pe o lungime de 9 kilometri", "Desemnată ca rezervație naturală în anul 2000"],
+      en: ["Total length of the watercourse is approx. 105 kilometers", "Empties into the Mediterranean south of Gaza City", "Drainage basin covers about 3,500 square kilometers", "Vital resting ground for over 250 migratory bird species", "Crosses the Gaza Strip for a length of 9 kilometers", "Designated as a nature reserve in 2000"],
+    },
   },
   {
     id: "palestine-mount-muntar-relief-v2",
@@ -114,6 +174,18 @@ export const palestineReliefV2: POI[] = [
       en: ["Highest point in Gaza City", "80 meters above sea level", "Historic strategic observer", "Part of a kurkar ridge"],
     },
     imageHint: "Mount Muntar hill overlooking Gaza City",
+    descriptionAdvanced: {
+      de: "Der Mount Muntar, auch als Berg Azazel bekannt, ist eine markante Erhebung in der Wüste Juda östlich von Jerusalem. Sein Relief ist durch die typische aride Erosion des Wüstengürtels mit steilen Wadis und kargen Bergrücken geprägt. Er bietet einen weiten Blick über die Wüste bis hinunter zum Toten Meer und den Bergen von Moab.",
+      hu: "A Muntar-hegy, más néven Azázel-hegy, a Júdeai-sivatag egyik jellegzetes magaslata Jeruzsálemtől keletre. Domborzatát a sivatagi övezetre jellemző száraz erózió formálta, meredek vádikkal és kopár hegyhátakkal. Messzire nyúló kilátást nyújt a sivatagra, egészen a Holt-tengerig és a Moáb-hegységig.",
+      ro: "Muntele Muntar, cunoscut și sub numele de Muntele Azazel, este o înălțime proeminentă în Pustiul Iudeii, la est de Ierusalim. Relieful său este marcat de eroziunea aridă tipică zonei de deșert, cu ueduri abrupte și creste golașe. Oferă o vedere vastă peste deșert până la Marea Moartă și munții Moabului.",
+      en: "Mount Muntar, also known as Mount Azazel, is a prominent elevation in the Judean Desert east of Jerusalem. Its relief is shaped by the typical arid erosion of the desert belt, featuring steep wadis and barren ridges. It provides an expansive view over the desert down to the Dead Sea and the mountains of Moab.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 524 Metern über dem Meeresspiegel", "Höchster Gipfel in der nördlichen Wüste Juda", "Historischer Ort des Sündenbock-Rituals (Azazel)", "Beherbergt Ruinen eines byzantinischen Klosters", "Wichtiger Aussichtspunkt für die Überwachung der Wüste", "Geologisch geprägt durch harten Kalkstein und Feuerstein"],
+      hu: ["Tengerszint feletti magassága 524 méter", "Az észak-júdeai sivatag legmagasabb csúcsa", "Az Azázel-szertartás (bűnbak) történelmi helyszíne", "Egy bizánci kolostor romjait rejti a csúcs", "Fontos kilátópont a sivatagi utak felügyeletéhez", "Geológiailag kemény mészkő és tűzkő jellemzi"],
+      ro: ["Înălțime de 524 de metri deasupra nivelului mării", "Cel mai înalt vârf din deșertul Iudeii de nord", "Locul istoric al ritualului țapului ispășitor (Azazel)", "Găzduiește ruinele unei mănăstiri bizantine", "Punct de observație important pentru monitorizarea deșertului", "Caracterizat geologic prin calcar dur și silex"],
+      en: ["Elevation of 524 meters above sea level", "Highest peak in the northern Judean Desert", "Historical site of the scapegoat ritual (Azazel)", "Contains the ruins of a Byzantine monastery", "Important vantage point for monitoring the desert", "Geologically characterized by hard limestone and flint"],
+    },
   },
   {
     id: "palestine-mount-tamun-relief-v2",
@@ -133,6 +205,18 @@ export const palestineReliefV2: POI[] = [
       en: ["Elevation of about 550 meters", "Overlooks the Far'a Valley", "Rugged limestone topography", "Major local geographical landmark"],
     },
     imageHint: "Mount Tamun rocky peak in Samaria",
+    descriptionAdvanced: {
+      de: "Der Berg Tamun ist eine markante Erhebung im nordöstlichen Westjordanland, nahe der gleichnamigen Stadt. Er gehört zu den Ausläufern des nabluser Berglandes und bietet weite Ausblicke über das Jordantal. Die karge Vegetation ist typisch für die semiaride Zone dieser Region, wobei die Hänge teilweise für den Olivenanbau genutzt werden.",
+      hu: "A Tamun-hegy egy jelentős magaslat Ciszjordánia északkeleti részén, Tamun városa közelében. A nabluszi hegyvidék nyúlványaként emelkedik a Jordán-völgy fölé, stratégiai kilátást nyújtva a környékre. A terület növényzete ritkás, a félsivatagi éghajlatra jellemző, a lankákon helyenként olajfaligetek találhatók.",
+      ro: "Muntele Tamun este o formă de relief proeminentă în nord-estul Cisiordaniei, situată în apropierea localității cu același nume. Face parte din sistemul muntos Nablus și domină vizual Valea Iordanului. Vegetația este rară, specifică zonei semiaride, iar versanții sunt utilizați parțial pentru culturi tradiționale de măslini.",
+      en: "Mount Tamun is a prominent elevation in the northeastern West Bank, located near the town of Tamun. It forms part of the Nablus highlands and offers expansive views over the Jordan Valley. The terrain is characterized by sparse vegetation typical of the region's semi-arid climate, with some slopes utilized for olive cultivation.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Gouvernement Tubas im nordöstlichen Westjordanland.", "Die durchschnittliche Höhe beträgt etwa 580 Meter über dem Meeresspiegel.", "Bietet eine strategische Sichtachse auf das zentrale Jordantal.", "Besteht primär aus Kalksteinformationen der Kreidezeit.", "Die Region ist seit der Antike für den Getreideanbau bekannt.", "Das Klima ist durch heiße Sommer und milde, feuchte Winter geprägt."],
+      hu: ["A hegy Tubas kormányzóság területén található.", "Átlagos tengerszint feletti magassága körülbelül 580 méter.", "Stratégiai kilátópont a Jordán-völgy középső szakaszára.", "Főként kréta kori mészkőből épül fel a szerkezete.", "A környező völgyek az ókor óta gabonatermesztő vidékek.", "Az éves csapadékmennyiség jelentősen ingadozik a térségben."],
+      ro: ["Se află în Guvernoratul Tubas din nord-estul Cisiordaniei.", "Altitudinea medie este de aproximativ 580 de metri deasupra mării.", "Oferă o vizibilitate strategică asupra Văii centrale a Iordanului.", "Este format în principal din depozite de calcar din perioada cretacică.", "Regiunea înconjurătoare este cunoscută istoric pentru cultura cerealelor.", "Climatul zonei este de tranziție între cel mediteranean și cel arid."],
+      en: ["Located in the Tubas Governorate of the northeastern West Bank.", "The average elevation is approximately 580 meters above sea level.", "Provides a strategic vantage point over the central Jordan Valley.", "The geological structure consists primarily of Cretaceous limestone.", "The surrounding area has been used for grain farming since antiquity.", "The local climate features hot summers and mild, wet winters."],
+    },
   },
   {
     id: "palestine-herodium-hill-relief-v2",
@@ -152,6 +236,18 @@ export const palestineReliefV2: POI[] = [
       en: ["Artificially elevated palace hill", "758 meters above sea level", "Burial site of Herod the Great", "Dominant landmark near Bethlehem"],
     },
     imageHint: "Herodium cone-shaped hill and ruins",
+    descriptionAdvanced: {
+      de: "Das Herodium ist ein kegelförmiger, künstlich erhöhter Berg südlich von Bethlehem, auf dem Herodes der Große eine Festungsanlage errichtete. Die Anlage diente als Sommerresidenz und Grablege des Königs und gilt als Meisterwerk antiker Architektur. Heute ist der Standort eine bedeutende archäologische Stätte, die weite Teile der Judäischen Wüste überblickt.",
+      hu: "A Heródeion egy mesterségesen megemelt, kúp alakú domb Betlehemtől délre, ahol Nagy Heródes várat és palotát építtetett. Az erődített építmény a király nyári rezidenciájaként és temetkezési helyeként szolgált. Napjainkban fontos régészeti lelőhely, amelyről panorámás kilátás nyílik a Júdeai-sivatagra.",
+      ro: "Herodium este un deal în formă de con, înălțat artificial, situat la sud de Betleem, unde Irod cel Mare a construit o cetate-palat. Complexul a servit drept reședință de vară și loc de înmormântare pentru rege, fiind o capodoperă a arhitecturii antice. Astăzi este un sit arheologic major ce domină peisajul Deșertului Iudeei.",
+      en: "Herodium is a cone-shaped, artificially heightened hill south of Bethlehem where Herod the Great built a fortress-palace. The complex served as the king's summer residence and burial site, representing a masterpiece of ancient Roman-style architecture. Today, it is a significant archaeological site overlooking the Judean Desert.",
+    },
+    factsAdvanced: {
+      de: ["Wurde zwischen 23 und 15 v. Chr. von Herodes dem Großen erbaut.", "Der Gipfel liegt auf einer Höhe von 758 Metern über dem Meeresspiegel.", "Beherbergt das 2007 entdeckte Grab von König Herodes.", "Verfügt über ein monumentales Badhaus im römischen Stil.", "War die einzige Stadt, die Herodes nach seinem eigenen Namen benannte.", "Diente während der jüdischen Aufstände als Festung für Rebellen."],
+      hu: ["Nagy Heródes építtette i. e. 23 és 15 között.", "A dombtető tengerszint feletti magassága 758 méter.", "Itt található Heródes király 2007-ben azonosított sírja.", "A komplexum része egy monumentális, római stílusú fürdőház.", "Ez volt az egyetlen város, amelyet Heródes önmagáról nevezett el.", "A zsidó felkelések idején a lázadók fontos erődítménye volt."],
+      ro: ["Construit de Irod cel Mare între anii 23 și 15 î.Hr.", "Vârful se află la o altitudine de 758 de metri peste nivelul mării.", "Găzduiește mormântul regelui Irod, descoperit în anul 2007.", "Include o baie monumentală construită în stil pur roman.", "A fost singura localitate denumită de Irod după propriul nume.", "A servit drept ultim refugiu pentru rebeli în timpul revoltelor iudaice."],
+      en: ["Built by Herod the Great between 23 and 15 BCE.", "The summit reaches an elevation of 758 meters above sea level.", "Contains the tomb of King Herod, identified in 2007.", "Features a monumental bathhouse built in classical Roman style.", "It was the only city Herod named after himself.", "Served as a rebel stronghold during the Jewish-Roman wars."],
+    },
   },
   {
     id: "palestine-mount-munidhra-relief-v2",
@@ -171,6 +267,18 @@ export const palestineReliefV2: POI[] = [
       en: ["High peak in Northern Samaria", "Rocky ridgeline structures", "Olive cultivation on its slopes", "Strategic observation vantage"],
     },
     imageHint: "Mount Munidhra rocky ridge in Samaria",
+    descriptionAdvanced: {
+      de: "Der Berg Munidhra ist eine bedeutende Erhebung in der Nähe von Nablus im zentralen Bergland des Westjordanlands. Die Region ist durch steile Hänge und tief eingeschnittene Täler geprägt, die seit Jahrtausenden landwirtschaftlich genutzt werden. Der Gipfel bietet eine weite Aussicht auf die umliegenden samarischen Hügelketten und Dörfer.",
+      hu: "A Munidhra-hegy Ciszjordánia középső hegyvidékén, Nablus közelében található jelentős magaslat. A térséget meredek lejtők és mély völgyek jellemzik, amelyeket évezredek óta mezőgazdasági célokra használnak. A csúcsról kiterjedt kilátás nyílik a környező szamáriai dombokra és falvakra.",
+      ro: "Muntele Munidhra este o cotă importantă situată lângă Nablus, în zona muntoasă centrală a Cisiordaniei. Regiunea este definită prin versanți abrupți și văi adânci, utilizate de milenii în scopuri agricole. Vârful oferă o perspectivă largă asupra lanțurilor deluroase din Samaria și a satelor din jur.",
+      en: "Mount Munidhra is a significant elevation located near Nablus in the central highlands of the West Bank. The region is characterized by steep slopes and deep valleys that have been used for agriculture for millennia. The summit provides an extensive view of the surrounding Samarian hill ranges and local villages.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Gouvernement Nablus im zentralen Westjordanland.", "Besteht geologisch vorwiegend aus hartem Kalkstein und Dolomit.", "Die Umgebung ist geprägt durch traditionelle Olivenbaumkulturen.", "Die Region weist eine hohe Dichte an antiken Zisternen auf.", "Das Gebiet gehört zur Wasserscheide zwischen Mittelmeer und Jordantal.", "Archäologische Oberflächenfunde deuten auf Besiedlung seit der Eisenzeit hin."],
+      hu: ["Nablus kormányzóság területén fekszik Ciszjordánia közepén.", "Földtani felépítését főként kemény mészkő és dolomit adja.", "Környezetére a hagyományos olajfatermesztés a jellemző.", "A térségben nagy sűrűségben találhatók ókori ciszternek.", "A terület a Földközi-tenger és a Jordán-árok közötti vízválasztó része.", "A felszíni leletek a vaskor óta tartó lakottságra utalnak."],
+      ro: ["Este situat în Guvernoratul Nablus din centrul Cisiordaniei.", "Geologic, este compus preponderent din calcar dur și dolomit.", "Împrejurimile sunt marcate de culturi tradiționale de măslini.", "Regiunea prezintă o densitate mare de cisterne antice pentru apă.", "Zona face parte din cumpăna apelor între Mediterana și Valea Iordanului.", "Fragmentele ceramice indică o locuire continuă din Epoca Fierului."],
+      en: ["Located in the Nablus Governorate of the central West Bank.", "Composed geologically of hard limestone and dolomite rocks.", "The surrounding area is dominated by traditional olive groves.", "The region features a high density of ancient water cisterns.", "Part of the drainage divide between the Mediterranean and Jordan Valley.", "Archaeological surface finds indicate habitation since the Iron Age."],
+    },
   },
   {
     id: "palestine-jenin-hills-relief-v2",
@@ -190,6 +298,18 @@ export const palestineReliefV2: POI[] = [
       en: ["Northernmost hilly area", "Transition to Jezreel Valley", "Relatively green landscape", "Gentler rolling relief"],
     },
     imageHint: "Jenin Hills with green fields and olive groves",
+    descriptionAdvanced: {
+      de: "Die Hügel von Jenin bilden den nördlichsten Teil des samarischen Berglandes und markieren den Übergang zur fruchtbaren Jesreel-Ebene. Diese sanft gewellten Erhebungen sind für ihre fruchtbaren Böden und den intensiven Olivenanbau bekannt. Die strategische Lage hat die Region historisch zu einem wichtigen Handels- und Durchgangsweg zwischen dem Norden und Süden gemacht.",
+      hu: "Dzsenín dombjai a szamáriai hegyvidék legészakibb részét alkotják, átmenetet képezve a termékeny Jezréel-völgy felé. Ezek a lankás emelkedők híresek jó minőségű termőföldjeikről és az intenzív olajfatermesztésről. Stratégiai elhelyezkedésük révén a dombok történelmileg fontos kereskedelmi útvonalat alkottak észak és dél között.",
+      ro: "Dealurile Jenin formează partea cea mai nordică a zonei muntoase din Samaria, marcând trecerea spre câmpia fertilă Jezreel. Aceste forme de relief domoale sunt renumite pentru solurile roditoare și cultivarea intensivă a măslinilor. Poziția strategică a făcut ca regiunea să fie istoric o rută comercială vitală între nord și sud.",
+      en: "The Jenin Hills form the northernmost part of the Samarian highlands, marking the transition to the fertile Jezreel Valley. These rolling hills are known for their productive soils and intensive olive cultivation. Their strategic location has historically made the region a vital trade route and corridor between northern and southern areas.",
+    },
+    factsAdvanced: {
+      de: ["Stellen das nördliche Tor zum Bergland von Samaria dar.", "Die Durchschnittshöhe der Hügel liegt zwischen 250 und 400 Metern.", "Das Gebiet erhält mehr Niederschlag als die südlicheren Bergregionen.", "Die Böden bestehen hauptsächlich aus fruchtbarer Terra Rossa.", "Jenin ist seit der Antike als 'Gannim' (Gärten) bekannt.", "Wichtige archäologische Stätten wie Tell Jenin befinden sich hier."],
+      hu: ["Szamária hegyvidékének északi kapuját alkotják.", "A dombok átlagos magassága 250 és 400 méter között mozog.", "A terület több csapadékot kap, mint a délebbi hegyvidékek.", "A talaj főként termékeny terra rossa típusú agyagból áll.", "Dzsenín az ókorban 'Gannim' (kertek) néven volt ismert.", "Fontos régészeti lelőhelyek, például Tell Dzsenín találhatók itt."],
+      ro: ["Reprezintă poarta de nord către ținutul muntos al Samariei.", "Altitudinea medie a dealurilor variază între 250 și 400 de metri.", "Zona primește mai multe precipitații decât regiunile montane din sud.", "Solurile sunt compuse în principal din terra rossa fertilă.", "Jenin este cunoscut din antichitate sub numele de 'Gannim' (Grădini).", "Găzduiesc situri arheologice importante, cum este Tell Jenin."],
+      en: ["Represent the northern gateway to the highlands of Samaria.", "The average elevation of the hills ranges from 250 to 400 meters.", "The area receives higher rainfall than southern mountain regions.", "Soils consist primarily of fertile Terra Rossa clay.", "Jenin has been known since antiquity as 'Gannim' (Gardens).", "Home to important archaeological sites such as Tell Jenin."],
+    },
   },
   {
     id: "palestine-mount-aziur-relief-v2",
@@ -209,6 +329,18 @@ export const palestineReliefV2: POI[] = [
       en: ["Over 1,000 meters high", "Part of the Hebron Hills", "Cold winter climate", "Rocky high plateaus"],
     },
     imageHint: "Mount Aziur high peak near Hebron",
+    descriptionAdvanced: {
+      de: "Der Mount 'Aziur ist eine der höchsten Erhebungen im Westjordanland und liegt nordöstlich von Hebron in der Nähe der Stadt Sa'ir. Mit seiner beachtlichen Höhe dominiert er das judäische Bergland und bietet bei klarem Wetter Fernsichten bis zum Toten Meer. Die Hänge sind durch raues Gelände und traditionellen Terrassenfeldbau geprägt.",
+      hu: "Az 'Aziur-hegy Ciszjordánia egyik legmagasabb pontja, Hebrontól északkeletre, Sa'ir városa közelében. Jelentős magasságával uralja a júdeai hegyvidéket, tiszta időben pedig ellátni innen egészen a Holt-tengerig. A hegyoldalakat zord terepviszonyok és hagyományos teraszos földművelés jellemzi.",
+      ro: "Muntele 'Aziur este una dintre cele mai înalte cote din Cisiordania, situat la nord-est de Hebron, lângă orașul Sa'ir. Datorită înălțimii sale considerabile, domină munții Iudeei și oferă vederi până la Marea Moartă în condiții de vizibilitate bună. Versanții sunt marcați de un teren accidentat și de agricultură pe terase.",
+      en: "Mount 'Aziur is one of the highest points in the West Bank, located northeast of Hebron near the town of Sa'ir. With its significant elevation, it dominates the Judean highlands and offers views as far as the Dead Sea on clear days. The slopes are characterized by rugged terrain and traditional terrace farming practices.",
+    },
+    factsAdvanced: {
+      de: ["Erreicht eine maximale Höhe von etwa 1020 Metern.", "Zählt zu den höchsten Gipfeln des Judäischen Berglandes.", "Liegt im nordöstlichen Teil des Gouvernements Hebron.", "Im Winter kommt es auf dem Gipfel regelmäßig zu Schneefällen.", "Das Gestein besteht vorwiegend aus Kalkstein der Oberkreide.", "Historisch diente die Höhe als Beobachtungs- und Signalpunkt."],
+      hu: ["Maximális magassága eléri a 1020 métert.", "Júdea hegyvidékének egyik legmagasabb csúcsa.", "Hebron kormányzóság északkeleti részén helyezkedik el.", "Télen a csúcson rendszeresen előfordul havazás.", "A kőzetanyag főként felső kréta kori mészkőből áll.", "Történelmileg megfigyelő- és jelzőpontként használták a magaslatot."],
+      ro: ["Atinge o altitudine maximă de aproximativ 1020 de metri.", "Este unul dintre cele mai înalte vârfuri din Munții Iudeei.", "Situat în partea de nord-est a Guvernoratului Hebron.", "Iarna, pe vârful muntelui apar frecvent căderi de zăpadă.", "Structura geologică este dominată de calcar din cretacicul superior.", "Istoric, înălțimea a servit ca punct de observație și semnalizare."],
+      en: ["Reaches a maximum elevation of approximately 1020 meters.", "Ranked among the highest peaks in the Judean Mountains.", "Located in the northeastern section of the Hebron Governorate.", "The summit regularly experiences snowfall during the winter months.", "The rock structure consists mainly of Upper Cretaceous limestone.", "Historically served as an important observation and signaling point."],
+    },
   },
   {
     id: "palestine-mount-kanub-relief-v2",
@@ -228,6 +360,18 @@ export const palestineReliefV2: POI[] = [
       en: ["Elevation of 950 meters", "Located east of Hebron", "Transition to the desert", "Stony limestone relief"],
     },
     imageHint: "Mount Kanub rocky slopes near Hebron",
+    descriptionAdvanced: {
+      de: "Der Berg Kanub ist eine markante Erhebung östlich von Sa'ir im Gouvernement Hebron. Er ist Teil des zentralen Bergrückens, der sich durch das Westjordanland zieht, und zeichnet sich durch seine steilen Osthänge aus, die zur Judäischen Wüste abfallen. Die Region ist dünn besiedelt und primär durch pastorale Nutzung geprägt.",
+      hu: "A Kanub-hegy Sa'irtól keletre található jelentős magaslat Hebron kormányzóságban. Része annak a központi hegyhátnak, amely végighúzódik Ciszjordánián, és jellegzetes, meredek keleti lejtőivel a Júdeai-sivatag felé ereszkedik. A környék ritkán lakott, főként pásztorkodásra használják a területet.",
+      ro: "Muntele Kanub este o formă de relief proeminentă situată la est de Sa'ir, în Guvernoratul Hebron. Face parte din creasta centrală care traversează Cisiordania și se distinge prin versanții estici abrupți care coboară spre Deșertul Iudeei. Regiunea este slab populată și utilizată în principal pentru păstorit.",
+      en: "Mount Kanub is a prominent elevation located east of Sa'ir in the Hebron Governorate. It is part of the central ridge running through the West Bank and is notable for its steep eastern slopes that descend toward the Judean Desert. The area is sparsely populated and primarily characterized by pastoral land use.",
+    },
+    factsAdvanced: {
+      de: ["Liegt östlich der Stadt Sa'ir im Gouvernement Hebron.", "Die Höhe beträgt über 900 Meter über dem Meeresspiegel.", "Markiert den Übergang vom fruchtbaren Bergland zur Judäischen Wüste.", "Besteht geologisch aus Karstformationen und Kalkstein.", "Wird traditionell von Beduinen als Weideland genutzt.", "Enthält zahlreiche natürliche Höhlen in den Felswänden."],
+      hu: ["Hebron kormányzóságban, Sa'ir várostól keletre fekszik.", "Magassága meghaladja a 900 métert a tengerszint felett.", "Átmenetet képez a termékeny hegyvidék és a Júdeai-sivatag között.", "Földtanilag karsztképződmények és mészkő jellemzi.", "A beduinok hagyományosan legelőként hasznosítják a területet.", "A sziklafalakban számos természetes barlang található."],
+      ro: ["Situat la est de orașul Sa'ir, în Guvernoratul Hebron.", "Altitudinea depășește 900 de metri deasupra nivelului mării.", "Marchează tranziția de la munții fertili la Deșertul Iudeei.", "Geologic, prezintă formațiuni carstice și straturi de calcar.", "Este utilizat tradițional ca pășune de către comunitățile de beduini.", "Pereții stâncoși adăpostesc numeroase peșteri naturale."],
+      en: ["Located east of the town of Sa'ir in the Hebron Governorate.", "The elevation exceeds 900 meters above sea level.", "Marks the transition from fertile highlands to the Judean Desert.", "Geologically characterized by karst formations and limestone.", "Traditionally used as grazing land by Bedouin communities.", "Contains numerous natural caves within its rocky cliffs."],
+    },
   },
   {
     id: "palestine-jebel-abu-ghneim-relief-v2",
@@ -247,6 +391,18 @@ export const palestineReliefV2: POI[] = [
       en: ["Elevation of 820 meters", "Between Jerusalem and Bethlehem", "Formerly heavily forested", "Now densely built up"],
     },
     imageHint: "Jebel Abu Ghneim hill with urban development",
+    descriptionAdvanced: {
+      de: "Jebel Abu Ghneim ist ein strategisch wichtiger Hügel zwischen Jerusalem und Bethlehem. Ursprünglich bewaldet, ist die Erhebung heute weitgehend durch die Siedlung Har Homa bebaut. Die Lage bietet einen Panoramablick auf die judäischen Hügel und ist aufgrund ihrer Nähe zu religiösen Stätten von großer geografischer Bedeutung.",
+      hu: "Dzsebel Abu Gneim egy stratégiai fontosságú domb Jeruzsálem és Betlehem között. Az eredetileg erdős magaslatot mára nagyrészt beépítették a Har Homa településsel. Az elhelyezkedése panorámás kilátást nyújt a júdeai dombokra, és vallási helyszínekhez való közelsége miatt jelentős földrajzi pont.",
+      ro: "Jebel Abu Ghneim este un deal strategic situat între Ierusalim și Betleem. Inițial împădurit, vârful este astăzi în mare parte ocupat de așezarea Har Homa. Poziția sa oferă o vedere panoramică asupra dealurilor Iudeei și are o mare importanță geografică datorită proximității față de siturile religioase.",
+      en: "Jebel Abu Ghneim is a strategically located hill situated between Jerusalem and Bethlehem. Originally forested, the elevation is now largely built up with the Har Homa settlement. Its location provides panoramic views of the Judean hills and holds significant geographical importance due to its proximity to religious sites.",
+    },
+    factsAdvanced: {
+      de: ["Liegt direkt an der Grenze zwischen Jerusalem und Bethlehem.", "Die maximale Höhe beträgt etwa 750 Meter.", "War vor den 1990er Jahren für seinen dichten Pinienwald bekannt.", "Archäologische Funde belegen eine byzantinische Präsenz vor Ort.", "Der Hügel ist von strategischer Bedeutung für die Kontrolle der Wege.", "In der Nähe befinden sich antike Zisternen und Steinbrüche."],
+      hu: ["Közvetlenül Jeruzsálem és Betlehem határán fekszik.", "Maximális magassága körülbelül 750 méter.", "Az 1990-es évek előtt sűrű fenyőerdőiről volt nevezetes.", "Régészeti leletek bizánci jelenlétet igazolnak a területen.", "A domb stratégiai jelentőségű az útvonalak ellenőrzése szempontjából.", "A közelben ókori ciszternek és kőfejtők maradványai találhatók."],
+      ro: ["Situat direct pe granița dintre Ierusalim și Betleem.", "Altitudinea maximă este de aproximativ 750 de metri.", "Înainte de anii 1990, era renumit pentru pădurea sa de pini.", "Descoperirile arheologice atestă o prezență bizantină pe sit.", "Dealul are o importanță strategică pentru controlul rutelor locale.", "În vecinătate se află cisterne antice și urme de cariere de piatră."],
+      en: ["Located directly on the border between Jerusalem and Bethlehem.", "The maximum elevation is approximately 750 meters.", "Was known for its dense pine forest before the late 1990s.", "Archaeological finds confirm a Byzantine presence on the site.", "The hill is strategically significant for controlling local routes.", "Ancient cisterns and quarry remains are located in the vicinity."],
+    },
   },
   {
     id: "palestine-mount-gilo-relief-v2",
@@ -266,6 +422,18 @@ export const palestineReliefV2: POI[] = [
       en: ["Elevation of 923 meters", "Located south of Jerusalem", "One of the highest local peaks", "Panoramic views in all directions"],
     },
     imageHint: "Mount Gilo ridge and neighborhood panoramic",
+    descriptionAdvanced: {
+      de: "Der Mount Gilo ist ein markanter Bergrücken südlich von Jerusalem, nahe der Stadt Beit Jala. Er ist einer der höchsten Punkte in der Region Jerusalem und bietet eine beherrschende Aussicht auf das Umland. Aufgrund seiner strategischen Lage und der kühlen Sommerbrisen ist der Berg seit langem ein bevorzugter Ort für Besiedlung und Erholung.",
+      hu: "A Gilo-hegy egy jellegzetes hegyhát Jeruzsálemtől délre, Beit Jala városa mellett. Ez a környék egyik legmagasabb pontja, ahonnan uralni lehet a környező tájat. Stratégiai fekvése és a hűvös nyári szellők miatt a hegy régóta kedvelt helyszín a letelepedésre és a kikapcsolódásra.",
+      ro: "Muntele Gilo este o creastă muntoasă proeminentă situată la sud de Ierusalim, lângă orașul Beit Jala. Este unul dintre cele mai înalte puncte din regiunea Ierusalimului, oferind o vedere dominantă asupra împrejurimilor. Datorită poziției strategice și a climatului răcoros, muntele a fost mult timp un loc preferat pentru locuire.",
+      en: "Mount Gilo is a prominent mountain ridge located south of Jerusalem, adjacent to the town of Beit Jala. It is one of the highest points in the Jerusalem area, offering a commanding view of the surrounding landscape. Due to its strategic position and cool summer breezes, the mountain has long been a favored location for settlement.",
+    },
+    factsAdvanced: {
+      de: ["Erreicht eine Höhe von 923 Metern über dem Meeresspiegel.", "Gehört zum zentralen Bergrücken des Judäischen Gebirges.", "Die jährlichen Niederschlagsmengen gehören zu den höchsten der Region.", "Beherbergt wichtige Kommunikations- und Radaranlagen.", "Bietet Sichtkontakt zum Toten Meer und den Bergen von Moab.", "Die Vegetation besteht aus mediterraner Macchie und Pinien."],
+      hu: ["Tengerszint feletti magassága eléri a 923 métert.", "A Júdeai-hegység központi vonulatához tartozik.", "Az éves csapadékmennyiség itt a legmagasabbak közé tartozik.", "Fontos hírközlési és radarállomásoknak ad helyet.", "Látni innen a Holt-tengert és a Moáb-hegységet is.", "Növényzete mediterrán bozótosból és fenyvesekből áll."],
+      ro: ["Atinge o altitudine de 923 de metri deasupra nivelului mării.", "Face parte din creasta centrală a Munților Iudeei.", "Cantitatea anuală de precipitații este printre cele mai mari din regiune.", "Găzduiește instalații importante de comunicații și radar.", "Oferă vizibilitate spre Marea Moartă și munții Moabului.", "Vegetația este compusă din tufișuri mediteraneene și pini."],
+      en: ["Reaches an elevation of 923 meters above sea level.", "Forms part of the central ridge of the Judean Mountains.", "Annual rainfall amounts are among the highest in the region.", "Hosts important communication and radar installations.", "Provides line-of-sight to the Dead Sea and the Mountains of Moab.", "The vegetation consists of Mediterranean maquis and pine trees."],
+    },
   },
   {
     id: "palestine-jebel-juhar-relief-v2",
@@ -285,6 +453,18 @@ export const palestineReliefV2: POI[] = [
       en: ["Peak elevation of 1,011 meters", "Highest point in Hebron district", "Highland climate with cold winters", "Rocky mountain topography"],
     },
     imageHint: "Jebel Juhar high peak in Hebron hills",
+    descriptionAdvanced: {
+      de: "Jebel Juhar ist ein markanter Hügel im südlichen Teil von Hebron. Er ist Teil des zerklüfteten judäischen Berglandes und von großer lokaler Bedeutung für die Orientierung in der Stadt. Die Erhebung ist dicht bebaut und spiegelt die urbane Expansion Hebrons in die umliegenden Hügelketten wider.",
+      hu: "Dzsebel Juhar egy jellegzetes domb Hebron déli részén. A tagolt júdeai hegyvidék része, és nagy helyi jelentőséggel bír a városon belüli tájékozódásban. A magaslat sűrűn beépített, jól tükrözi Hebron városi terjeszkedését a környező dombvidékre.",
+      ro: "Jebel Juhar este un deal proeminent situat în partea de sud a orașului Hebron. Face parte din peisajul accidentat al munților Iudeei și are o mare importanță locală pentru orientarea în oraș. Înălțimea este dens construită, reflectând expansiunea urbană a Hebronului pe dealurile învecinate.",
+      en: "Jebel Juhar is a prominent hill located in the southern part of Hebron. It is part of the rugged Judean highland landscape and holds great local significance for orientation within the city. The elevation is densely built up, reflecting Hebron's urban expansion into the surrounding hill country.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich im südlichen Stadtgebiet von Hebron.", "Liegt auf einer durchschnittlichen Höhe von etwa 900 Metern.", "Das Gelände ist durch steile Gassen und Treppen geprägt.", "Gehört geologisch zum Hebron-Antiklinal.", "Die Region ist seit dem Chalkolithikum besiedelt.", "Bietet einen weiten Blick über die Altstadt von Hebron."],
+      hu: ["Hebron városának déli lakóövezetében található.", "Átlagos magassága körülbelül 900 méter.", "A terepet meredek utcák és lépcsők jellemzik.", "Földtanilag a hebroni antiklinálishoz tartozik.", "A környék a rézkor óta lakott terület.", "Kiterjedt kilátást nyújt Hebron óvárosára."],
+      ro: ["Se află în zona urbană de sud a Hebronului.", "Situat la o altitudine medie de aproximativ 900 de metri.", "Terenul este marcat de străzi abrupte și scări.", "Aparține geologic structurii anticlinale a Hebronului.", "Regiunea a fost locuită încă din perioada calcolitică.", "Oferă o vedere panoramică asupra orașului vechi din Hebron."],
+      en: ["Located within the southern urban limits of Hebron.", "Situated at an average elevation of about 900 meters.", "The terrain is characterized by steep alleys and stairs.", "Geologically part of the Hebron Anticline structure.", "The region has been inhabited since the Chalcolithic period.", "Offers a wide view over the Old City of Hebron."],
+    },
   },
   {
     id: "palestine-jebel-mukabbir-relief-v2",
@@ -304,6 +484,18 @@ export const palestineReliefV2: POI[] = [
       en: ["Elevation of 780 meters", "South of Jerusalem's Old City", "Location of the UN headquarters", "Overlooks the Dome of the Rock"],
     },
     imageHint: "Jebel Mukabbir hill Jerusalem Old City panorama",
+    descriptionAdvanced: {
+      de: "Jebel Mukabbir ist ein historisch bedeutsamer Hügel im Südosten von Jerusalem. Er bietet einen der berühmtesten Ausblicke auf die Altstadt und den Tempelberg. Die Erhebung spielt eine wichtige Rolle in der Stadtgeschichte und ist heute ein dicht besiedeltes Viertel, das den Übergang zur Judäischen Wüste markiert.",
+      hu: "Dzsebel Mukabbir egy történelmileg jelentős domb Jeruzsálem délkeleti részén. Innen nyílik az egyik leghíresebb kilátás az óvárosra és a Templom-hegyre. A magaslat fontos szerepet játszik a város történelmében, és ma egy sűrűn lakott negyed, amely átmenetet képez a Júdeai-sivatag felé.",
+      ro: "Jebel Mukabbir este un deal cu rezonanță istorică situat în sud-estul Ierusalimului. Oferă una dintre cele mai celebre perspective asupra Orașului Vechi și a Muntelui Templului. Înălțimea joacă un rol important în istoria orașului și este astăzi un cartier dens populat care marchează limita spre Deșertul Iudeei.",
+      en: "Jebel Mukabbir is a historically significant hill located in southeastern Jerusalem. It offers one of the most famous views of the Old City and the Temple Mount. The elevation plays a vital role in the city's history and is now a densely populated neighborhood marking the transition toward the Judean Desert.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich südöstlich der Jerusalemer Altstadt.", "Die Höhe beträgt etwa 790 Meter über dem Meeresspiegel.", "Der Name bedeutet 'Hügel des Preisenden' (Gottes).", "Beherbergte in der britischen Mandatszeit das Regierungshaus.", "Bietet Panoramablicke bis hinunter zum Toten Meer.", "Archäologische Funde umfassen Gräber aus der Zeit des Zweiten Tempels."],
+      hu: ["Jeruzsálem óvárosától délkeletre helyezkedik el.", "Magassága körülbelül 790 méter a tengerszint felett.", "A név jelentése: 'a dicsőítő dombja'.", "A brit mandátum idején itt állt a kormányzói palota.", "Panorámás kilátást nyújt egészen a Holt-tengerig.", "A régészeti leletek között második templom kori sírok találhatók."],
+      ro: ["Situat la sud-est de Orașul Vechi al Ierusalimului.", "Altitudinea este de aproximativ 790 de metri deasupra mării.", "Numele se traduce prin 'Dealul celui care îl slăvește' pe Dumnezeu.", "A găzduit Casa Guvernului în timpul Mandatului Britanic.", "Oferă vederi panoramice care ajung până la Marea Moartă.", "Descoperirile arheologice includ morminte din epoca celui de-al Doilea Templu."],
+      en: ["Located southeast of the Old City of Jerusalem.", "The elevation is approximately 790 meters above sea level.", "The name translates to 'Hill of the One who Glorifies' (God).", "Hosted the Government House during the British Mandate period.", "Provides panoramic views extending down to the Dead Sea.", "Archaeological finds include tombs from the Second Temple period."],
+    },
   },
   {
     id: "palestine-mount-salman-relief-v2",
@@ -323,5 +515,17 @@ export const palestineReliefV2: POI[] = [
       en: ["Elevation of 750 meters", "Located west of Nablus", "Part of the Samarian massif", "Rocky summit relief"],
     },
     imageHint: "Mount Salman rocky peak in central Samaria",
+    descriptionAdvanced: {
+      de: "Der Berg Salman liegt im zentralen Westjordanland, südlich von Nablus. Er gehört zum samarischen Hochland und ist für seine strategische Lage bekannt, die die Hauptverkehrswege der Region überblickt. Die Umgebung ist von einer Mischung aus landwirtschaftlichen Nutzflächen und schroffen Kalksteinfelsen geprägt.",
+      hu: "A Salman-hegy Ciszjordánia középső részén, Nablustól délre található. A szamáriai felföld része, és stratégiai elhelyezkedéséről ismert, mivel rálátást biztosít a régió fő közlekedési útvonalaira. Környezetét mezőgazdasági területek és meredek mészkősziklák keveréke jellemzi.",
+      ro: "Muntele Salman este situat în centrul Cisiordaniei, la sud de Nablus. Face parte din podișul Samariei și este cunoscut pentru poziția sa strategică, dominând rutele principale de transport din regiune. Împrejurimile sunt caracterizate printr-un amestec de terenuri agricole și aflorimente de calcar.",
+      en: "Mount Salman is located in the central West Bank, south of Nablus. It belongs to the Samarian highlands and is known for its strategic position overlooking the region's main transportation routes. The surrounding area is characterized by a mix of agricultural land and rugged limestone rock formations.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich im Gouvernement Nablus nahe dem Dorf Burin.", "Erreicht eine Höhe von etwa 800 Metern.", "Besteht primär aus Gesteinen der Kreideformation.", "Wird in lokalen Legenden mit religiösen Figuren assoziiert.", "Dient als wichtiger Wasserspeicher für lokale Quellen.", "Die Hänge beherbergen antike Olivenhaine."],
+      hu: ["Nablus kormányzóságban, Burin falu közelében fekszik.", "Magassága eléri a körülbelül 800 métert.", "Elsősorban kréta kori kőzetformációkból áll.", "A helyi legendák vallási alakokhoz kötik a hegyet.", "Fontos víztározóként szolgál a helyi források számára.", "A lejtőkön ősi olajfaligetek találhatók."],
+      ro: ["Situat în Guvernoratul Nablus, lângă satul Burin.", "Atinge o altitudine de aproximativ 800 de metri.", "Format preponderent din roci din perioada cretacică.", "Asociat în legendele locale cu diverse figuri religioase.", "Servește ca rezervor important pentru izvoarele locale.", "Versanții găzduiesc livezi de măslini foarte vechi."],
+      en: ["Located in the Nablus Governorate near the village of Burin.", "Reaches an elevation of approximately 800 meters.", "Consists primarily of rocks from the Cretaceous formation.", "Associated with religious figures in local folk traditions.", "Serves as an important water catchment for local springs.", "The slopes are home to ancient olive groves."],
+    },
   }
 ];

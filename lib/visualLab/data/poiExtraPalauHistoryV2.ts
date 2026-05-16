@@ -19,6 +19,18 @@ export const palauHistoryV2: POI[] = [
       en: ["Site of Operation Stalemate II in 1944.", "Over 10,000 Japanese soldiers defended the island.", "Combat lasted over two months instead of a few days.", "Numerous rusted war relics are visible in the jungle."],
     },
     imageHint: "WWII tank wreck in Peleliu jungle",
+    descriptionAdvanced: {
+      de: "Das Schlachtfeld von Peleliu ist einer der bedeutendsten Schauplätze des Pazifikkrieges im Zweiten Weltkrieg. Hier fand 1944 eine verlustreiche Schlacht zwischen US-Marines und der japanischen Armee statt. Das gesamte Gebiet ist heute eine nationale historische Gedenkstätte mit zahlreichen Relikten wie Panzern und Bunkern.",
+      hu: "Peleliu csatatere a második világháború csendes-óceáni hadszínterének egyik legjelentősebb helyszíne. 1944-ben itt zajlott egy súlyos veszteségekkel járó csata az amerikai tengerészgyalogosok és a japán hadsereg között. Az egész terület ma nemzeti történelmi emlékhely, számos ereklyével, például tankokkal és bunkerekkel.",
+      ro: "Câmpul de luptă din Peleliu este unul dintre cele mai importante locuri ale războiului din Pacific din al Doilea Război Mondial. Aici a avut loc în 1944 o bătălie sângeroasă între pușcașii marini americani și armata japoneză. Întreaga zonă este astăzi un sit istoric național cu numeroase relicve, cum ar fi tancuri și buncăre.",
+      en: "The Peleliu Battlefield is one of the most significant sites of the Pacific Theater during World War II. In 1944, a brutal and costly battle took place here between U.S. Marines and the Imperial Japanese Army. The entire area is now a National Historic Landmark, featuring numerous relics such as tanks, bunkers, and crashed aircraft.",
+    },
+    factsAdvanced: {
+      de: ["Schlacht begann am 15. September 1944", "Operation trug den Codenamen Stalemate II", "Dauerte über zwei Monate bis Ende November 1944", "Über 10.000 japanische Soldaten fielen in der Schlacht", "US-Verluste beliefen sich auf etwa 1.800 Gefallene", "Das Gelände umfasst das Höhlensystem am Umurbrogol Berg"],
+      hu: ["A csata 1944. szeptember 15-én kezdődött", "A hadművelet kódneve Stalemate II volt", "Több mint két hónapig tartott, 1944 november végéig", "Több mint 10 000 japán katona esett el a csatában", "Az amerikai veszteségek körülbelül 1800 főt tettek ki", "A terület magában foglalja az Umurbrogol-hegy barlangrendszerét"],
+      ro: ["Bătălia a început la 15 septembrie 1944", "Operațiunea a avut numele de cod Stalemate II", "A durat peste două luni, până la sfârșitul lui noiembrie 1944", "Peste 10.000 de soldați japonezi au murit în bătălie", "Pierderile SUA s-au ridicat la aproximativ 1.800 de morți", "Situl include sistemul de peșteri de pe muntele Umurbrogol"],
+      en: ["The battle began on September 15, 1944", "Operation was conducted under the codename Stalemate II", "Lasted over two months until late November 1944", "Over 10,000 Japanese soldiers died in the conflict", "U.S. forces suffered approximately 1,800 fatalities", "The site includes the complex cave system of Bloody Nose Ridge"],
+    },
   },
   {
     id: "palau-badrulchau-monoliths-history-v2",
@@ -38,6 +50,18 @@ export const palauHistoryV2: POI[] = [
       en: ["Largest collection of stone monoliths in Micronesia.", "The heaviest stones weigh over four tons.", "Likely served as pillars for a massive community house.", "Some stones feature roughly carved faces."],
     },
     imageHint: "ancient stone monoliths on a grassy hill in Palau",
+    descriptionAdvanced: {
+      de: "Badrulchau ist die bedeutendste archäologische Stätte Palaus und bekannt für seine 52 massiven Steinmonolithen aus Basalt. Diese rätselhaften Strukturen befinden sich auf einem Hügel an der Nordspitze von Babeldaob. Die Steine sind teilweise mit Gesichtern verziert und dienten vermutlich als Säulen für ein riesiges traditionelles Versammlungshaus.",
+      hu: "Badrulchau Palau legjelentősebb régészeti lelőhelye, amely 52 hatalmas bazaltmonolitjáról ismert. Ezek a rejtélyes építmények Babeldaob északi csücskén, egy dombon találhatók. A köveket részben arcok díszítik, és valószínűleg egy hatalmas hagyományos gyülekezeti ház oszlopaiként szolgáltak.",
+      ro: "Badrulchau este cel mai important sit arheologic din Palau, cunoscut pentru cei 52 de monoliți masivi din bazalt. Aceste structuri enigmatice sunt situate pe un deal în vârful nordic al insulei Babeldaob. Pietrele sunt parțial decorate cu fețe și probabil au servit ca piloni pentru o casă de adunare tradițională uriașă.",
+      en: "Badrulchau is Palau's most significant archaeological site, renowned for its 52 massive basalt stone monoliths. These enigmatic structures are situated on a hillside at the northern tip of Babeldaob. Some stones feature carved faces and are believed to have served as pillars for a prehistoric traditional meeting house.",
+    },
+    factsAdvanced: {
+      de: ["Älteste Artefakte werden auf ca. 161 n. Chr. datiert", "Die schwersten Monolithen wiegen über 5 Tonnen", "Anlage besteht aus zwei parallelen Reihen von Steinen", "Einige Steine zeigen stilisierte menschliche Gesichter", "Ursprünglicher Zweck war vermutlich ein Bai (Versammlungshaus)", "Befindet sich im Bundesstaat Ngarchelong auf Babeldaob"],
+      hu: ["A legrégebbi leleteket i.sz. 161 környékére datálják", "A legnehezebb monolitok súlya meghaladja az 5 tonnát", "A helyszín két párhuzamos kősorból áll", "Néhány kövön stilizált emberi arcok láthatók", "Eredeti célja valószínűleg egy Bai (gyülekezeti ház) volt", "Babeldaob szigetén, Ngarchelong államban található"],
+      ro: ["Cele mai vechi artefacte sunt datate în jurul anului 161 d.Hr.", "Cei mai grei monoliți cântăresc peste 5 tone", "Situl constă în două rânduri paralele de pietre", "Unele pietre prezintă fețe umane stilizate", "Scopul original a fost probabil un Bai (casă de adunare)", "Situat în statul Ngarchelong de pe insula Babeldaob"],
+      en: ["Earliest artifacts at the site date back to circa 161 AD", "The heaviest monoliths weigh over 5 tons each", "The site features two parallel rows of stone pillars", "Several stones are carved with stylized human faces", "Original purpose was likely a massive Bai (meeting house)", "Located in Ngarchelong State on the island of Babeldaob"],
+    },
   },
   {
     id: "palau-angaur-battlefield-history-v2",
@@ -57,6 +81,18 @@ export const palauHistoryV2: POI[] = [
       en: ["Capture secured an airfield for the Philippines campaign.", "Japanese troops used phosphate mines as fortifications.", "The fighting in the caves was extremely costly in lives.", "Today, memorials for both sides are present on the island."],
     },
     imageHint: "war memorial on Angaur island",
+    descriptionAdvanced: {
+      de: "Das Schlachtfeld von Angaur war 1944 Schauplatz heftiger Kämpfe während der US-Invasion der Palau-Inseln. Ziel der Operation war die Sicherung der Insel für den Bau eines Flugplatzes zur Unterstützung der Rückeroberung der Philippinen. Überreste von Panzern und Befestigungen sind noch heute über die Insel verstreut.",
+      hu: "Angaur csatatere heves harcok helyszíne volt 1944-ben, a Palau-szigetek amerikai inváziója során. A hadművelet célja a sziget biztosítása volt egy repülőtér felépítéséhez, amely a Fülöp-szigetek visszafoglalását támogatta. Harckocsik és erődítmények maradványai ma is szanaszét hevernek a szigeten.",
+      ro: "Câmpul de luptă din Angaur a fost locul unor lupte intense în 1944, în timpul invaziei americane a insulelor Palau. Scopul operațiunii a fost securizarea insulei pentru construcția unui aerodrom care să sprijine recucerirea Filipinelor. Rămășițe de tancuri și fortificații sunt și astăzi împrăștiate pe insulă.",
+      en: "The Angaur Battlefield was the site of intense combat in 1944 during the U.S. invasion of the Palau Islands. The objective of the operation was to secure the island for an airfield to support the liberation of the Philippines. Remnants of tanks, fortifications, and equipment remain scattered across the island today.",
+    },
+    factsAdvanced: {
+      de: ["Invasion begann am 17. September 1944", "Operation trug den Codenamen Stalemate II", "Beteiligung der 81. Infanteriedivision der US-Armee", "Etwa 1.300 japanische Soldaten verteidigten die Insel", "Insel wurde am 22. Oktober 1944 für sicher erklärt", "Amerikaner bauten zwei Startbahnen für B-24 Bomber"],
+      hu: ["Az invázió 1944. szeptember 17-én kezdődött", "A hadművelet kódneve Stalemate II volt", "Az amerikai hadsereg 81. gyaloghadosztálya vett részt benne", "Körülbelül 1300 japán katona védte a szigetet", "A szigetet 1944. október 22-én nyilvánították biztonságosnak", "Az amerikaiak két kifutópályát építettek B-24 bombázók számára"],
+      ro: ["Invazia a început la 17 septembrie 1944", "Operațiunea a purtat numele de cod Stalemate II", "A implicat Divizia 81 Infanterie a Armatei SUA", "Aproximativ 1.300 de soldați japonezi au apărat insula", "Insula a fost declarată securizată la 22 octombrie 1944", "Americanii au construit două piste pentru bombardiere B-24"],
+      en: ["The invasion began on September 17, 1944", "Operation was part of the broader Stalemate II campaign", "The U.S. Army's 81st Infantry Division led the assault", "Approximately 1,300 Japanese soldiers defended the island", "The island was declared secure on October 22, 1944", "U.S. forces constructed two runways for B-24 bombers"],
+    },
   },
   {
     id: "palau-german-channel-history-v2",
@@ -76,6 +112,18 @@ export const palauHistoryV2: POI[] = [
       en: ["Completed in 1909 by blasting through the reef.", "Connects the inner lagoon with the open ocean.", "Palau was a German colony from 1899 to 1914.", "Today it is primarily used by diving boats."],
     },
     imageHint: "aerial view of German Channel Palau",
+    descriptionAdvanced: {
+      de: "Der German Channel ist ein künstlicher Kanal, der 1908 während der deutschen Kolonialzeit in das Riff gesprengt wurde. Er verbindet die flache Lagune mit dem offenen Ozean und wurde ursprünglich für den Transport von Phosphat aus Angaur angelegt. Heute ist er einer der berühmtesten Tauchplätze der Welt, bekannt für seine Manta-Rochen.",
+      hu: "A German Channel egy mesterséges csatorna, amelyet 1908-ban, a német gyarmati időszakban robbantottak a zátonyba. A sekély lagúnát köti össze a nyílt óceánnal, és eredetileg az Angaurból származó foszfát szállítására hozták létre. Ma a világ egyik leghíresebb merülőhelye, amely az ördögrájáiról ismert.",
+      ro: "German Channel este un canal artificial săpat în recif în 1908, în timpul perioadei coloniale germane. Acesta conectează laguna puțin adâncă cu oceanul deschis și a fost creat inițial pentru transportul fosfatului din Angaur. Astăzi, este unul dintre cele mai faimoase locuri de scufundări din lume, cunoscut pentru pisicile de mare manta.",
+      en: "The German Channel is an artificial passage blasted through the reef in 1908 during the German colonial period. It connects the shallow lagoon with the open ocean and was originally created to facilitate phosphate transport from Angaur. Today, it is one of the world's most famous dive sites, renowned for manta ray sightings.",
+    },
+    factsAdvanced: {
+      de: ["Bau erfolgte unter deutscher Verwaltung im Jahr 1908", "Kanal ermöglichte Schiffen die Passage nach Koror", "Länge des Kanals beträgt etwa 1,2 Kilometer", "Wichtigster Reinigungspunkt für Manta-Rochen in Palau", "Strömungen können im Kanal sehr stark sein", "Wird täglich von zahlreichen Tauchbooten genutzt"],
+      hu: ["A kivitelezés német irányítás alatt történt 1908-ban", "A csatorna lehetővé tette a hajók áthaladását Koror felé", "A csatorna hossza körülbelül 1,2 kilométer", "Palau legfontosabb tisztítóállomása az ördögráják számára", "Az áramlatok a csatornában igen erősek lehetnek", "Naponta számos búvárhajó veszi igénybe"],
+      ro: ["Construcția a avut loc sub administrație germană în 1908", "Canalul a permis navelor trecerea către Koror", "Lungimea canalului este de aproximativ 1,2 kilometri", "Cel mai important punct de curățare pentru manta în Palau", "Curenții pot fi foarte puternici în interiorul canalului", "Folosit zilnic de numeroase ambarcațiuni de scufundări"],
+      en: ["Constructed under German administration in the year 1908", "The channel allowed ships to pass directly to Koror", "The length of the cut passage is about 1.2 kilometers", "Famous as a major 'cleaning station' for manta rays", "Tidal currents in the channel can be extremely strong", "Crucial navigational route for tour boats heading south"],
+    },
   },
   {
     id: "palau-airai-bai-history-v2",
@@ -95,6 +143,18 @@ export const palauHistoryV2: POI[] = [
       en: ["Constructed without the use of metal nails.", "The carvings on the gables tell local legends.", "Served as a meeting place for the village chiefs.", "The building stands on an elevated stone platform."],
     },
     imageHint: "traditional Palauan meeting house with carvings",
+    descriptionAdvanced: {
+      de: "Das Bai ra Airai ist das älteste erhaltene traditionelle Versammlungshaus in Palau und über 100 Jahre alt. Es ist ein prächtiges Beispiel für die einheimische Architektur, erbaut ohne Metallnägel und verziert mit detaillierten Schnitzereien. Diese Bauwerke dienten als soziale und politische Zentren für die Ältesten der Gemeinschaft.",
+      hu: "A Bai ra Airai Palau legrégebbi fennmaradt hagyományos gyülekezeti háza, amely több mint 100 éves. A bennszülött építészet pompás példája, fém szögek nélkül épült, és részletgazdag faragványokkal díszítették. Ezek az épületek a közösség véneinek társadalmi és politikai központjaként szolgáltak.",
+      ro: "Bai ra Airai este cea mai veche casă de adunare tradițională conservată din Palau, având o vechime de peste 100 de ani. Este un exemplu magnific de arhitectură indigenă, construită fără cuie metalice și decorată cu sculpturi detaliate. Aceste structuri serveau drept centre sociale și politice pentru bătrânii comunității.",
+      en: "Bai ra Airai is the oldest surviving traditional meeting house in Palau, dating back over 100 years. It is a magnificent example of indigenous architecture, constructed without the use of metal nails and decorated with intricate carvings. These structures historically served as social and political centers for community elders.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut um das Jahr 1890 im Bundesstaat Airai", "Das Dach besteht aus nipa-palmenähnlichem Material", "Verwendet nur Holzverbindungen und Schnüre", "Die Giebel sind mit Legenden und Mythen bemalt", "Es ist etwa 20 Meter lang und 6 Meter breit", "Wurde mehrfach mit traditionellen Techniken restauriert"],
+      hu: ["1890 körül épült Airai államban", "A tető nipa-pálmához hasonló anyagból készült", "Csak fa csatlakozásokat és zsinórokat használ", "Az oromfalakat legendákkal és mítoszokkal festették meg", "Körülbelül 20 méter hosszú és 6 méter széles", "Többször restaurálták hagyományos technikákkal"],
+      ro: ["Construită în jurul anului 1890 în statul Airai", "Acoperișul este realizat din material tip palmier nipa", "Folosește doar îmbinări de lemn și frânghii", "Frontoanele sunt pictate cu legende și mituri locale", "Are aproximativ 20 de metri lungime și 6 metri lățime", "Restaurată de mai multe ori folosind tehnici tradiționale"],
+      en: ["Constructed around the year 1890 in Airai State", "The steep roof is thatched with nipa palm leaves", "Built entirely with wooden joinery and coconut fiber lashings", "The gables are painted with depictions of local legends", "Measures approximately 20 meters long and 6 meters wide", "Has been restored several times using traditional methods"],
+    },
   },
   {
     id: "palau-japanese-comm-center-history-v2",
@@ -114,6 +174,18 @@ export const palauHistoryV2: POI[] = [
       en: ["The building was heavily damaged by American air raids.", "Still displays bullet holes and shrapnel damage today.", "Built in the 1930s Japanese neoclassical style.", "Located near Airai village on Babeldaob island."],
     },
     imageHint: "bombed concrete building ruin in Palau",
+    descriptionAdvanced: {
+      de: "Das japanische Kommunikationszentrum auf Peleliu ist eine massive Betonruine, die schwere Bombenangriffe während des Zweiten Weltkriegs überstand. Das Gebäude diente der kaiserlichen japanischen Armee als Koordinationsstelle für ihre Verteidigungsanlagen. Heute ist es ein mahnendes Denkmal, das die Intensität der Kämpfe auf der Insel verdeutlicht.",
+      hu: "A peleliui japán kommunikációs központ egy masszív betonrom, amely túlélte a második világháború súlyos bombázásait. Az épület a japán császári hadsereg védelmi létesítményeinek koordinációs pontjaként szolgált. Ma figyelmeztető emlékmű, amely a szigeten folyó harcok intenzitását jelképezi.",
+      ro: "Centrul de comunicații japonez din Peleliu este o ruină masivă din beton care a supraviețuit bombardamentelor intense din al Doilea Război Mondial. Clădirea a servit Armatei Imperiale Japoneze ca punct de coordonare pentru aprarea sa. Astăzi, este un monument care ilustrează intensitatea luptelor de pe insulă.",
+      en: "The Japanese Communications Center on Peleliu is a massive concrete ruin that survived heavy bombardment during World War II. The building served the Imperial Japanese Army as a coordination hub for its defensive installations. Today, it stands as a somber monument reflecting the extreme intensity of the conflict on the island.",
+    },
+    factsAdvanced: {
+      de: ["Zweistöckiges Gebäude mit extrem dicken Betonwänden", "Wurde 1944 von US-Schiffsgeschützen direkt beschossen", "Große Einschusslöcher sind in der Struktur noch sichtbar", "Befindet sich im nördlichen Teil der Insel Peleliu", "Diente als Hauptquartier für Funk- und Telegrafie", "Teil des befestigten japanischen Verteidigungsnetzes"],
+      hu: ["Kétszintes épület rendkívül vastag betonfalakkal", "1944-ben az amerikai hadihajók közvetlen tüzet nyitottak rá", "A szerkezeten még láthatók a hatalmas belövési nyomok", "Peleliu szigetének északi részén található", "A rádió- és távíróközpont főhadiszállásaként szolgált", "A megerősített japán védelmi hálózat része volt"],
+      ro: ["Clădire cu două etaje și pereți de beton extrem de groși", "A fost ținta focului direct al navelor americane în 1944", "Găuri mari de impact sunt încă vizibile în structură", "Situat în partea de nord a insulei Peleliu", "A servit drept cartier general pentru radio și telegrafie", "Parte a rețelei fortificate de apărare japoneze"],
+      en: ["Two-story structure with exceptionally thick concrete walls", "Subjected to direct naval gunfire by U.S. forces in 1944", "Large shell holes are still visible in the reinforced structure", "Located in the northern section of Peleliu Island", "Served as a headquarters for radio and telegraphy", "Key component of the fortified Japanese defense network"],
+    },
   },
   {
     id: "palau-aimeliik-terraces-history-v2",
@@ -133,6 +205,18 @@ export const palauHistoryV2: POI[] = [
       en: ["Dated to between 500 and 1000 AD.", "Exact purpose (agriculture or defense) is debated.", "Some terraces reach a height of over 100 meters.", "Represent a massive human modification of the landscape."],
     },
     imageHint: "stepped grass terraces in Palau landscape",
+    descriptionAdvanced: {
+      de: "Die Terrassen von Aimeliik sind monumentale, von Menschenhand geschaffene Erdarbeiten, deren Ursprung bis heute rätselhaft bleibt. Diese stufenförmigen Hügel wurden vor Jahrhunderten angelegt und dienten vermutlich landwirtschaftlichen oder defensiven Zwecken. Sie bieten einen weiten Blick über die Küste und sind ein Zeugnis früher palauischer Ingenieurskunst.",
+      hu: "Aimeliik teraszai monumentális, ember alkotta földmunkák, amelyek eredete a mai napig rejtélyes. Ezeket a lépcsőzetes dombokat évszázadokkal ezelőtt alakították ki, és valószínűleg mezőgazdasági vagy védelmi célokat szolgáltak. Széles kilátást nyújtanak a tengerpartra, és a korai palaui mérnöki tudás tanúi.",
+      ro: "Terasele din Aimeliik sunt terasamente monumentale create de om, a căror origine rămâne enigmatică până astăzi. Aceste dealuri în trepte au fost amenajate cu secole în urmă și probabil au servit unor scopuri agricole sau defensive. Oferă o vedere largă asupra coastei și sunt o dovadă a ingineriei timpurii din Palau.",
+      en: "The Aimeliik Terraces are monumental, man-made earthworks whose original purpose remains a subject of archaeological debate. These stepped hillsides were constructed centuries ago and likely served agricultural, defensive, or ceremonial functions. They provide expansive coastal views and showcase early Palauan engineering skills.",
+    },
+    factsAdvanced: {
+      de: ["Entstehungszeit wird auf 500 bis 1000 n. Chr. geschätzt", "Bestehen aus mehreren künstlich abgeflachten Ebenen", "Ähneln in ihrer Form den Reisterrassen in Südostasien", "Befinden sich im Bundesstaat Aimeliik auf Babeldaob", "Archäologen fanden Tonscherben in den Erdschichten", "Wurden vermutlich zur Verteidigung gegen Invasoren genutzt"],
+      hu: ["Keletkezési idejüket i.sz. 500 és 1000 közé teszik", "Több mesterségesen ellapított szintből állnak", "Formájuk hasonlít a délkelet-ázsiai rizsteraszokhoz", "Babeldaob szigetén, Aimeliik államban találhatók", "A régészek cseréptöredékeket találtak a földrétegekben", "Valószínűleg hódítók elleni védekezésre használták"],
+      ro: ["Data construcției este estimată între 500 și 1000 d.Hr.", "Constau în mai multe niveluri aplatizate artificial", "Forma lor seamănă cu terasele de orez din Asia de Sud-Est", "Situate în statul Aimeliik de pe insula Babeldaob", "Arheologii au găsit fragmente de ceramică în straturile de pământ", "Probabil au fost folosite pentru apărare împotriva invadatorilor"],
+      en: ["Estimated to have been constructed between 500 and 1000 AD", "Consist of multiple tiers of artificially flattened earth", "Resemble rice terraces found in parts of Southeast Asia", "Located in Aimeliik State on the island of Babeldaob", "Archaeologists have discovered pottery shards in the soil", "Theories suggest they were used as defensive fortifications"],
+    },
   },
   {
     id: "palau-orange-beach-history-v2",
@@ -152,6 +236,18 @@ export const palauHistoryV2: POI[] = [
       en: ["Part of the first wave of attack by the 1st Marine Division.", "A memorial now commemorates the fallen soldiers.", "The reef in front of the beach was studded with obstacles.", "It was one of the bloodiest landing sites of the Pacific War."],
     },
     imageHint: "beach in Peleliu with war memorial",
+    descriptionAdvanced: {
+      de: "Orange Beach war am 15. September 1944 einer der Hauptlandungsabschnitte der US-Marines während der Invasion von Peleliu. Der Strand war Schauplatz extrem heftiger Widerstände durch japanische Truppen, die in den nahegelegenen Kämmen positioniert waren. Heute ist es ein ruhiger Küstenabschnitt, der als Ort des Gedenkens an die Gefallenen dient.",
+      hu: "Az Orange Beach 1944. szeptember 15-én az amerikai tengerészgyalogosok egyik fő partraszállási szakasza volt Peleliu inváziója során. A strand a közeli gerinceken állomásozó japán csapatok rendkívül heves ellenállásának helyszíne volt. Ma egy csendes tengerparti szakasz, amely az elesettekre való emlékezés helyszínéül szolgál.",
+      ro: "Orange Beach a fost unul dintre sectoarele principale de debarcare pentru pușcașii marini americani pe 15 septembrie 1944, în timpul invaziei din Peleliu. Plaja a fost locul unei rezistențe extrem de acerbe din partea trupelor japoneze poziționate pe crestele din apropiere. Astăzi este un segment de coastă liniștit, servind ca loc de comemorare.",
+      en: "Orange Beach was one of the primary landing zones for U.S. Marines on September 15, 1944, during the invasion of Peleliu. The beach witnessed extremely fierce resistance from Japanese forces positioned in the nearby ridges and bunkers. Today, it is a peaceful stretch of coastline that serves as a site of remembrance for those who fell there.",
+    },
+    factsAdvanced: {
+      de: ["Landungsabschnitt der 1. Marine-Division", "US-Truppen erlitten hier am ersten Tag schwere Verluste", "Japaner nutzten versteckte Geschützstellungen am Riff", "Temperatur am Landungstag erreichte über 40 Grad Celsius", "Wurde in Abschnitte wie 'Orange 1' und 'Orange 2' unterteilt", "Überreste von Landungsfahrzeugen sind teils noch im Wasser"],
+      hu: ["Az 1. tengerészgyalogos hadosztály partraszállási szakasza", "Az amerikai csapatok súlyos veszteségeket szenvedtek itt", "A japánok rejtett állásokat használtak a zátony mentén", "A hőmérséklet a partraszállás napján 40 Celsius-fok felett volt", "Szakaszokra osztották, mint 'Orange 1' és 'Orange 2'", "A partraszálló járművek maradványai néhol még a vízben vannak"],
+      ro: ["Sectorul de debarcare al Diviziei 1 Pușcași Marini", "Trupele SUA au suferit pierderi grele aici în prima zi", "Japonezii au folosit poziții de artilerie ascunse în recif", "Temperatura în ziua debarcării a depășit 40 de grade Celsius", "Împărțită în secțiuni precum 'Orange 1' și 'Orange 2'", "Rămășițe ale vehiculelor de debarcare sunt încă în apă"],
+      en: ["Designated landing sector for the 1st Marine Division", "U.S. forces suffered significant casualties here on D-Day", "Japanese defenders utilized hidden pillboxes along the reef", "Temperatures on the day of the landing exceeded 40°C (104°F)", "The beach was divided into 'Orange 1', '2', and '3' sections", "Rusting remains of landing craft can still be found in the surf"],
+    },
   },
   {
     id: "palau-ngarchelong-stone-faces-history-v2",
@@ -171,6 +267,18 @@ export const palauHistoryV2: POI[] = [
       en: ["The faces show features that are atypical for Palau.", "Their exact age is unknown but estimated as prehistoric.", "Some researchers see similarities to statues in other Pacific regions.", "They are part of Palau's UNESCO World Heritage tentative list entry."],
     },
     imageHint: "carved stone face monolith in Palau",
+    descriptionAdvanced: {
+      de: "Die Steinmonolithe von Ngarchelong befinden sich an der nördlichsten Spitze der Insel Babeldaob. Diese archäologische Stätte umfasst etwa 50 massive Basaltsteine, von denen einige deutliche menschliche Gesichtszüge aufweisen. Forscher datieren die Entstehung dieser monumentalen Anlage auf das Jahr 161 n. Chr., was sie zu einem der ältesten Zeugnisse palauischer Baukunst macht. Die genaue Bedeutung der Gesichter bleibt bis heute Gegenstand wissenschaftlicher Diskussionen.",
+      hu: "Ngarchelong kőarcai Babeldaob szigetének legészakibb részén találhatók, egy dombtetőn elhelyezkedő régészeti lelőhelyen. A területen mintegy 50 bazalt monolit található, amelyek közül többön emberi arcvonások fedezhetők fel. A szénizotópos vizsgálatok szerint a helyszín időszámításunk szerint 161 körül készült, így Palau egyik legősibb kulturális emléke. A kövek elrendezése és a faragások stílusa egyedülálló a mikronéziai térségben.",
+      ro: "Chipul de piatră din Ngarchelong este situat în partea de nord a insulei Babeldaob, pe o creastă care oferă o vedere panoramică asupra oceanului. Situl cuprinde aproximativ 50 de monoliți de bazalt, unii având trăsături faciale umane sculptate rudimentar. Datările radiocarbon sugerează că aceste structuri au fost ridicate în jurul anului 161 d.Hr., reprezentând dovezi timpurii ale civilizației palauene. Funcția lor exactă, sacră sau politică, este încă dezbătută de istorici.",
+      en: "The Ngarchelong Stone Faces are located at the northern tip of Babeldaob Island on a prominent hillside. This archaeological site features approximately 50 massive basalt monoliths, several of which display distinct carved human faces. Scientific dating traces these monuments back to roughly 161 AD, making them among the oldest megalithic structures in Micronesia. The site's strategic layout suggests it served as an important ceremonial or political gathering place for ancient Palauans.",
+    },
+    factsAdvanced: {
+      de: ["Die Anlage besteht aus 37 bis 52 einzelnen Basaltblöcken.", "Die schwersten Steine wiegen über 5 Tonnen.", "Radiokarbon-Datierungen belegen eine Nutzung ab dem Jahr 161 n. Chr.", "Die Fundstelle wird lokal als Badrulchau bezeichnet.", "Einige Steine sind über 2 Meter hoch.", "Die Monolithe sind in zwei parallelen Reihen angeordnet."],
+      hu: ["A lelőhely 37 és 52 közötti bazalt monolitot foglal magában.", "A legnagyobb kövek tömege meghaladja az 5 tonnát.", "A régészeti vizsgálatok szerint i.sz. 161-ben már használták.", "A helyszín helyi elnevezése Badrulchau.", "Néhány oszlop magassága eléri a 2 métert.", "A monolitok két párhuzamos sorba rendezve állnak."],
+      ro: ["Situl conține între 37 și 52 de monoliți de bazalt.", "Cele mai grele pietre cântăresc peste 5 tone.", "Testele radiocarbon indică anul 161 d.Hr. ca dată de origine.", "Denumirea locală a sitului este Badrulchau.", "Unele coloane au o înălțime de peste 2 metri.", "Monoliții sunt aranjați în două rânduri paralele distincte."],
+      en: ["The site contains between 37 and 52 individual basalt monoliths.", "The heaviest stones weigh more than 5 tons each.", "Radiocarbon dating confirms the site was used around 161 AD.", "Locally, the archaeological site is known as Badrulchau.", "Some of the stone pillars stand over 2 meters tall.", "The monoliths are arranged in two distinct parallel rows."],
+    },
   },
   {
     id: "palau-chelechol-ra-orrak-history-v2",
@@ -190,6 +298,18 @@ export const palauHistoryV2: POI[] = [
       en: ["Archaeologists found remains of over 25 individuals.", "The finds prove a very early settlement of Palau.", "Early stone tools were also discovered in the cave.", "The site is located within the protected Rock Islands."],
     },
     imageHint: "limestone cave entrance in Palau Rock Islands",
+    descriptionAdvanced: {
+      de: "Chelechol ra Orrak ist ein bedeutender Abri auf der Insel Orrak, der als eine der ältesten Begräbnisstätten im Pazifik gilt. Archäologische Ausgrabungen brachten hier die Überreste von über 25 Individuen ans Licht, die auf etwa 3000 Jahre vor heute datiert werden. Die Funde geben wertvolle Einblicke in die frühe Besiedlung Mikronesiens und die physische Beschaffenheit der ersten Bewohner Palaus. Neben menschlichen Knochen wurden auch Werkzeuge aus Muschelschalen und Keramikfragmente entdeckt.",
+      hu: "Chelechol ra Orrak egy sziklaeresz az Orrak-szigeten, amely a Csendes-óceán egyik legfontosabb korai temetkezési helye. A régészeti feltárások során több mint 25 egyén maradványait találták meg, amelyek körülbelül 3000 évesek. A leletek alapvető információkkal szolgálnak Mikronézia korai benépesüléséről és az első palaui lakók életmódjáról. A csontok mellett kagylóhéjból készült eszközöket és korai kerámiatöredékeket is azonosítottak a kutatók.",
+      ro: "Chelechol ra Orrak este un adăpost sub stâncă de pe insula Orrak, fiind considerat unul dintre cele mai vechi situri funerare din Pacific. Săpăturile arheologice au scos la iveală rămășițele a peste 25 de indivizi, datate cu aproximativ 3000 de ani în urmă. Descoperirile oferă date esențiale despre migrația timpurie în Micronezia și despre caracteristicile fizice ale primilor coloniști din Palau. Pe lângă oseminte, au fost găsite unelte din scoici și fragmente ceramice vechi.",
+      en: "Chelechol ra Orrak is a significant rock shelter on Orrak Island, recognized as one of the oldest burial sites in the Pacific region. Archaeological excavations have uncovered the remains of over 25 individuals dating back approximately 3000 years. These findings provide critical evidence regarding the early settlement of Micronesia and the physical traits of Palau's first inhabitants. In addition to human remains, researchers discovered shell tools and ancient pottery fragments at the site.",
+    },
+    factsAdvanced: {
+      de: ["Die Funde werden auf ein Alter von ca. 3000 Jahren datiert.", "Es wurden Überreste von mindestens 25 verschiedenen Personen gefunden.", "Die Ausgrabungen begannen im Jahr 2000 unter Scott Fitzpatrick.", "Die Fundstelle liegt auf der kleinen Kalksteininsel Orrak.", "Es handelt sich um den ältesten bekannten Friedhof in Palau.", "In der Nähe wurden Keramikscherben aus der Zeit um 1000 v. Chr. gefunden."],
+      hu: ["A leletek korát körülbelül 3000 évesre becsülik.", "Legalább 25 különböző ember maradványait azonosították.", "A feltárások 2000-ben kezdődtek Scott Fitzpatrick vezetésével.", "A lelőhely a kis mészkő szigeten, Orrakon található.", "Ez Palau eddig ismert legrégebbi temetője.", "A helyszínen i.e. 1000-ből származó cseréptöredékeket is találtak."],
+      ro: ["Rămășițele sunt datate cu o vechime de circa 3000 de ani.", "Au fost identificați cel puțin 25 de indivizi diferiți.", "Excavațiile au început în anul 2000 sub conducerea lui Scott Fitzpatrick.", "Situl este localizat pe mica insulă calcaroasă Orrak.", "Este considerat cel mai vechi cimitir cunoscut din Palau.", "S-au descoperit fragmente de ceramică datând din anul 1000 î.Hr."],
+      en: ["The remains are estimated to be approximately 3000 years old.", "At least 25 distinct individuals were identified during excavations.", "Research at the site began in 2000 led by Scott Fitzpatrick.", "The location is a limestone rock shelter on Orrak Island.", "It is recognized as the oldest known cemetery in Palau.", "Pottery shards from roughly 1000 BC were found near the burials."],
+    },
   },
   {
     id: "palau-ngerulmud-monoliths-history-v2",
@@ -209,6 +329,18 @@ export const palauHistoryV2: POI[] = [
       en: ["Ngerulmud was an important political center centuries ago.", "The stones served as seating during assemblies.", "Each stone was assigned to a specific clan or rank.", "The site was largely preserved during the planning of the Capitol."],
     },
     imageHint: "ancient assembly stones in Palau",
+    descriptionAdvanced: {
+      de: "Die Ngerulmud-Monolithe befinden sich in der Nähe des modernen Kapitol-Komplexes im Staat Melekeok. Diese traditionellen Basaltsteine repräsentieren die historische politische Struktur Palaus und markieren den Ort alter Versammlungen. Sie dienen als physisches Bindeglied zwischen der modernen demokratischen Regierung und den jahrhundertealten Stammeshierarchien. Die Steine wurden sorgfältig positioniert, um die Machtverhältnisse der verschiedenen Clans und Häuptlinge während der Verhandlungen zu symbolisieren.",
+      hu: "A Ngerulmud monolitok a modern Kapitólium épületegyüttese mellett találhatók Melekeok államban. Ezek a hagyományos bazaltkövek Palau történelmi politikai rendszerét jelképezik, és az ősi törzsi gyűlések helyszínét jelölik. Kapcsot jelentenek a mai demokratikus kormányzás és a több évszázados törzsi hierarchia között. A kövek elhelyezése szimbolikus jelentőséggel bír, tükrözve a különböző klánok és törzsfők közötti hatalmi viszonyokat a tanácskozások idején.",
+      ro: "Monoliții din Ngerulmud sunt situați în proximitatea complexului modern al Capitoliului din statul Melekeok. Aceste pietre tradiționale de bazalt reprezintă structura politică istorică a Palau-ului și marchează locul vechilor adunări tribale. Ele servesc drept o legătură simbolică între guvernul democratic actual și ierarhiile tradiționale vechi de secole. Poziționarea pietrelor reflectă autoritatea diferitelor clanuri și a șefilor de trib în timpul proceselor decizionale istorice.",
+      en: "The Ngerulmud Monoliths are situated near the modern Capitol complex in Melekeok State. These traditional basalt stones represent the historical political structure of Palau and mark the sites of ancient tribal assemblies. They function as a physical link between the contemporary democratic government and centuries-old clan hierarchies. The stones were strategically placed to symbolize the relative power and seating order of various chiefs during important political negotiations.",
+    },
+    factsAdvanced: {
+      de: ["Die Steine befinden sich im Staat Melekeok auf Babeldaob.", "Sie bestehen aus vulkanischem Basaltgestein.", "Die Monolithe markieren den traditionellen Versammlungsplatz.", "Sie stehen in unmittelbarer Nähe zum 2006 fertiggestellten Kapitol.", "Jeder Stein ist einem bestimmten Rang oder Clan zugeordnet.", "Die Anlage unterstreicht die historische Bedeutung von Ngerulmud."],
+      hu: ["A kövek Melekeok államban, Babeldaob szigetén találhatók.", "Anyaguk vulkanikus eredetű bazalt.", "A monolitok az ősi hagyományos gyűléshelyet jelölik.", "A 2006-ban átadott Kapitólium közvetlen közelében állnak.", "Minden egyes kő egy meghatározott rangot vagy klánt képvisel.", "A helyszín Ngerulmud történelmi jelentőségét hangsúlyozza."],
+      ro: ["Pietrele sunt localizate în statul Melekeok de pe insula Babeldaob.", "Sunt cioplite din rocă vulcanică de tip bazalt.", "Monoliții marchează locul tradițional de întâlnire al triburilor.", "Se află lângă Capitoliul finalizat în anul 2006.", "Fiecare piatră este atribuită unui anumit rang sau clan.", "Situl subliniază importanța istorică a regiunii Ngerulmud."],
+      en: ["The stones are located in Melekeok State on Babeldaob Island.", "They are composed of volcanic basalt rock.", "The monoliths mark the traditional site of village assemblies.", "They stand adjacent to the Capitol building completed in 2006.", "Each stone is assigned to a specific rank or clan leader.", "The site highlights the long-standing historical importance of Ngerulmud."],
+    },
   },
   {
     id: "palau-ngerchelchuus-stone-path-history-v2",
@@ -228,6 +360,18 @@ export const palauHistoryV2: POI[] = [
       en: ["Consists of flat-carved basalt and limestone rocks.", "Used for centuries for internal island trade.", "Runs near Palau's highest mountain peak.", "The construction shows advanced engineering skills of early Palauans."],
     },
     imageHint: "ancient stone path in a tropical jungle",
+    descriptionAdvanced: {
+      de: "Der Steinpfad von Ngerchelchuus führt zum höchsten Punkt Palaus auf der Insel Babeldaob. Diese historischen Wege wurden von den Vorfahren der Palauer aus Basalt- und Korallengestein errichtet, um Dörfer über schwieriges Gelände hinweg zu verbinden. Die Pfade zeugen von einer hochentwickelten Ingenieurskunst und dienten sowohl dem Handel als auch militärischen Zwecken. Entlang des Weges finden sich oft steinerne Plattformen, die als Rastplätze oder zeremonielle Orte genutzt wurden.",
+      hu: "Ngerchelchuus kőútja Palau legmagasabb pontjához vezet Babeldaob szigetén. Ezeket a történelmi utakat a palauiak ősei építették bazaltból és korallkőből, hogy összekössék a falvakat a nehéz terepviszonyok ellenére is. Az utak fejlett mérnöki tudásról tanúskodnak, és egyaránt szolgáltak kereskedelmi és katonai célokat. Az út mentén gyakran találhatók kőplatformok, amelyek pihenőhelyként vagy szertartási helyszínként funkcionáltak.",
+      ro: "Calea de piatră din Ngerchelchuus duce spre cel mai înalt punct din Palau, pe insula Babeldaob. Aceste drumuri istorice au fost construite de strămoșii palaueni din bazalt și piatră de corali pentru a conecta satele prin terenuri dificile. Potecile demonstrează abilități avansate de inginerie și au servit atât scopurilor comerciale, cât și celor militare. De-a lungul drumului se găsesc adesea platforme de piatră folosite ca locuri de odihnă sau pentru ceremonii.",
+      en: "The Stone Path of Ngerchelchuus leads toward the highest peak in Palau on Babeldaob Island. These historical pathways were constructed by ancient Palauans using basalt and coral stones to connect inland and coastal villages across rugged terrain. The paths reflect sophisticated engineering skills and were utilized for both trade and military maneuvers. Along the route, stone platforms can often be found, which served as resting areas or sites for local ceremonies.",
+    },
+    factsAdvanced: {
+      de: ["Der Pfad führt zum Mount Ngerchelchuus (242 Meter).", "Die Wege wurden aus massiven Basaltblöcken gepflastert.", "Sie stammen aus der präkolonialen Ära Palaus.", "Die Pfade sind oft über einen Meter breit.", "Entlang des Weges gibt es historische steinerne Rastplätze.", "Das System verbindet die Staaten Ngardmau und Ngaremlengui."],
+      hu: ["Az út a 242 méter magas Mount Ngerchelchuus-hoz vezet.", "Az utakat masszív bazalttömbökkel kövezték ki.", "A gyarmatosítás előtti korszakból származnak.", "A kőutak szélessége gyakran meghaladja az egy métert.", "Az út mentén történelmi kőpihenők találhatók.", "A rendszer összeköti Ngardmau és Ngaremlengui államokat."],
+      ro: ["Calea duce spre muntele Ngerchelchuus, înalt de 242 metri.", "Drumurile sunt pavate cu blocuri masive de bazalt.", "Construcția datează din epoca precolonială a Palau-ului.", "Potecile au adesea o lățime de peste un metru.", "Există locuri de odihnă din piatră conservate de-a lungul rutei.", "Sistemul conectează statele Ngardmau și Ngaremlengui."],
+      en: ["The path leads toward Mount Ngerchelchuus, the highest point at 242m.", "The walkways are paved with heavy basalt blocks.", "They originate from Palau's pre-colonial era.", "The stone paths are often more than one meter wide.", "Historical stone resting places are located along the route.", "This path system connects the states of Ngardmau and Ngaremlengui."],
+    },
   },
   {
     id: "palau-imeong-village-ruins-history-v2",
@@ -247,6 +391,18 @@ export const palauHistoryV2: POI[] = [
       en: ["Contains sacred sites for traditional Palauan ceremonies.", "The stone platforms served as foundations for houses.", "Archaeological finds indicate a long history of settlement.", "It is a key destination for cultural tourism on Babeldaob."],
     },
     imageHint: "ancient stone platforms of Imeong Palau",
+    descriptionAdvanced: {
+      de: "Die Ruinen des Dorfes Imeong befinden sich im Staat Ngaremlengui und stellen ein wichtiges kulturelles Erbe Palaus dar. Die Stätte umfasst die Überreste traditioneller Steinplattformen, auf denen einst Wohnhäuser und Versammlungshäuser (Bais) standen. Imeong war historisch ein bedeutendes religiöses Zentrum, in dem wichtige Rituale durchgeführt wurden. Die Anordnung der Steinstrukturen spiegelt die soziale Hierarchie und die Clan-Strukturen des alten Dorfes wider.",
+      hu: "Imeong falu romjai Ngaremlengui államban találhatók, és Palau egyik legfontosabb kulturális örökségi helyszínét alkotják. A területen hagyományos kőplatformok maradványai láthatók, amelyeken egykor lakóházak és közösségi házak (Bai) álltak. Imeong történelmileg jelentős vallási központ volt, ahol fontos rituálékat végeztek. A kőszerkezetek elrendezése pontosan tükrözi az ősi falu társadalmi hierarchiáját és a klánok közötti kapcsolatokat.",
+      ro: "Ruinele satului Imeong sunt situate în statul Ngaremlengui și reprezintă un sit important al patrimoniului cultural din Palau. Locul cuprinde resturile unor platforme tradiționale de piatră pe care se aflau odinioară case și clădiri de adunare (Bai). Imeong a fost, din punct de vedere istoric, un centru religios major unde se desfășurau ritualuri esențiale. Dispunerea structurilor de piatră reflectă ierarhia socială și structura clanurilor din vechiul sat.",
+      en: "The Imeong Village Ruins are located in Ngaremlengui State and represent a vital piece of Palauan cultural heritage. The site features the remains of traditional stone platforms that once supported dwellings and communal meeting houses known as Bais. Historically, Imeong served as a major religious center where significant rituals and ceremonies were performed. The layout of the stone structures reflects the social hierarchy and clan relationships of the ancient settlement.",
+    },
+    factsAdvanced: {
+      de: ["Die Ruinen liegen im Staat Ngaremlengui auf Babeldaob.", "Die Stätte umfasst den heiligen Hügel Ngerutechei.", "Imeong galt als das spirituelle Zentrum von Babeldaob.", "Es sind Überreste von über 10 Steinplattformen sichtbar.", "Die Ruinen sind Teil der UNESCO-Welterbe-Tentativliste.", "Die Stätte war bis in das späte 19. Jahrhundert bewohnt."],
+      hu: ["A romok Ngaremlengui államban, Babeldaob szigetén fekszenek.", "A helyszín magában foglalja a szent Ngerutechei-dombot.", "Imeongot Babeldaob szellemi központjának tekintették.", "Több mint 10 kőplatform maradványa látható a területen.", "A romok szerepelnek az UNESCO világörökségi várományosi listáján.", "A település a 19. század végéig lakott volt."],
+      ro: ["Ruinele se află în statul Ngaremlengui de pe insula Babeldaob.", "Situl include dealul sacru numit Ngerutechei.", "Imeong era considerat centrul spiritual al insulei Babeldaob.", "Sunt vizibile rămășițele a peste 10 platforme de piatră.", "Ruinele fac parte din lista tentativă a Patrimoniului Mondial UNESCO.", "Satul a fost locuit până la sfârșitul secolului al XIX-lea."],
+      en: ["The ruins are located in Ngaremlengui State on Babeldaob.", "The site includes the sacred hill known as Ngerutechei.", "Imeong was historically considered the spiritual center of Babeldaob.", "Remains of more than 10 stone platforms are visible today.", "The ruins are on the UNESCO World Heritage Tentative List.", "The village remained inhabited until the late 19th century."],
+    },
   },
   {
     id: "palau-ngeruktabel-stone-fort-history-v2",
@@ -266,6 +422,18 @@ export const palauHistoryV2: POI[] = [
       en: ["The walls served as protection against raids from rival villages.", "Built from massive limestone blocks of the Rock Islands.", "Offers a wide view over the surrounding lagoons.", "Demonstrates strategic warfare in ancient Palau."],
     },
     imageHint: "ancient stone walls on a forested island",
+    descriptionAdvanced: {
+      de: "Das Steinfrot von Ngeruktabel liegt auf einem steilen Grat der gleichnamigen Kalksteininsel. Diese Verteidigungsanlage wurde aus massiven Kalksteinblöcken errichtet und bot Schutz vor Angriffen feindlicher Stämme während der Zeit der inter-insularen Kriege. Die strategische Lage erlaubte einen weitreichenden Blick über die südliche Lagune Palaus. Forscher gehen davon aus, dass das Fort Teil eines größeren Verteidigungssystems war, das verschiedene strategische Punkte der Inselgruppe abdeckte.",
+      hu: "Ngeruktabel kőerődje a hasonló nevű mészkősziget egyik meredek gerincén található. Ezt a védelmi építményt masszív mészkőtömbökből emelték, hogy védelmet nyújtson a szigetek közötti háborúk idején a támadó törzsek ellen. A stratégiai elhelyezkedés lehetővé tette Palau déli lagúnájának szemmel tartását. A kutatók feltételezik, hogy az erőd egy nagyobb védelmi rendszer része volt, amely a szigetcsoport több stratégiai pontját is érintette.",
+      ro: "Fortul de piatră din Ngeruktabel este situat pe o creastă abruptă a insulei calcaroase cu același nume. Această structură defensivă a fost construită din blocuri masive de calcar pentru a oferi protecție împotriva triburilor inamice în timpul războaielor inter-insulare. Poziția strategică permitea supravegherea lagunei de sud a Palau-ului. Cercetătorii consideră că fortul făcea parte dintr-un sistem defensiv mai larg ce acoperea puncte cheie ale arhipelagului.",
+      en: "The Ngeruktabel Stone Fort is positioned on a steep ridge of Ngeruktabel Island, one of Palau's largest limestone islands. This defensive structure was built using massive limestone blocks to provide protection against raiding tribes during periods of inter-island warfare. Its strategic location offered a commanding view over Palau's southern lagoon. Researchers believe the fort was part of a broader defensive network established across strategic vantage points in the archipelago.",
+    },
+    factsAdvanced: {
+      de: ["Das Fort liegt auf der Insel Ngeruktabel südlich von Koror.", "Es wurde aus lokalem Kalkstein und Korallen errichtet.", "Die Mauern sind an einigen Stellen über 2 Meter dick.", "Das Fort diente als Rückzugsort bei Überfällen.", "Archäologen datieren die Anlage auf das 15. bis 17. Jahrhundert.", "Die Stätte ist nur über einen steilen Aufstieg erreichbar."],
+      hu: ["Az erőd Ngeruktabel szigetén található, Korortól délre.", "Helyi mészkőből és korallból építették.", "A falak vastagsága helyenként meghaladja a 2 métert.", "Az erőd menedékként szolgált a rajtaütések idején.", "A régészek a 15-17. század közé teszik az építését.", "A helyszín csak meredek kapaszkodón keresztül érhető el."],
+      ro: ["Fortul este situat pe insula Ngeruktabel, la sud de Koror.", "A fost construit folosind calcar local și corali.", "Zidurile au o grosime de peste 2 metri în anumite secțiuni.", "Fortul servea drept refugiu în timpul raidurilor inamice.", "Arheologii datează structura între secolele XV și XVII.", "Situl este accesibil doar printr-o urcare abruptă pe teren accidentat."],
+      en: ["The fort is located on Ngeruktabel Island, south of Koror.", "It was constructed using local limestone and coral rock.", "The defensive walls exceed 2 meters in thickness in some areas.", "The fort served as a primary refuge during coastal raids.", "Archaeologists date the complex to the 15th to 17th centuries.", "The site is accessible only via a steep and difficult climb."],
+    },
   },
   {
     id: "palau-ngaraard-stone-path-history-v2",
@@ -285,5 +453,17 @@ export const palauHistoryV2: POI[] = [
       en: ["Connected strategically important coastal and inland villages.", "Heavily used for transport during the 19th century.", "The stones are laid so precisely that they form minimal gaps.", "One of the best-preserved stone paths on Babeldaob island."],
     },
     imageHint: "traditional basalt stone path in Palau",
+    descriptionAdvanced: {
+      de: "Der Steinpfad von Ngaraard durchquert die schmale Landbrücke im Norden von Babeldaob und verbindet die Ostküste mit der Westküste. Diese kunstvoll gepflasterten Wege waren lebenswichtige Transportwege für den Austausch von Waren und die Bewegung von Truppen zwischen den Dörfern. Die Pfade sind oft von Gräben und Steinmauern flankiert, was auf eine multifunktionale Nutzung hinweist. Sie repräsentieren die soziale Organisation und die gemeinschaftliche Arbeit der palauischen Clans in der Vergangenheit.",
+      hu: "Ngaraard kőútja Babeldaob északi részének keskeny földsávján halad keresztül, összekötve a keleti és a nyugati partot. Ezek a mesterien kikövezett utak létfontosságú szállítási útvonalak voltak az árucsere és a csapatmozgások számára a falvak között. Az utakat gyakran árkok és kőfalak szegélyezik, ami többcélú felhasználásra utal. A kőutak jól szemléltetik a palaui klánok társadalmi szervezettségét és a közösségi munka jelentőségét a múltban.",
+      ro: "Calea de piatră din Ngaraard traversează istmul îngust din nordul insulei Babeldaob, legând coasta de est de cea de vest. Aceste drumuri pavate cu măiestrie erau rute vitale de transport pentru schimbul de bunuri și mișcarea trupelor între sate. Potecile sunt adesea flancate de șanțuri și ziduri de piatră, indicând o utilizare multifuncțională. Ele reprezintă organizarea socială și munca comunitară a clanurilor palauene din trecut.",
+      en: "The Ngaraard Stone Path crosses the narrow isthmus in northern Babeldaob, connecting the eastern and western coasts. These skillfully paved walkways were vital transportation routes for the exchange of goods and the movement of warriors between villages. The paths are often flanked by ditches and stone walls, suggesting they served defensive and drainage purposes as well. They stand as a testament to the social organization and communal labor efforts of Palauan clans in antiquity.",
+    },
+    factsAdvanced: {
+      de: ["Der Pfad verbindet die Dörfer Choll und Elab.", "Er besteht aus sorgfältig verlegten Basaltsteinen.", "Die Anlage stammt aus der Zeit vor dem europäischen Kontakt.", "Einige Abschnitte weisen zeremonielle Steinplattformen auf.", "Der Weg führt durch dichten Dschungel und Mangrovensümpfe.", "Ngaraard ist bekannt für seine gut erhaltenen Steinwege."],
+      hu: ["Az út Choll és Elab falvakat köti össze.", "Gondosan lefektetett bazaltkövekből áll.", "Az európaiakkal való kapcsolatfelvétel előtti időkből származik.", "Néhány szakaszon szertartási kőplatformok találhatók.", "Az út sűrű dzsungelen és mangrove mocsarakon vezet át.", "Ngaraard állam híres a jó állapotban fennmaradt kőútjairól."],
+      ro: ["Calea conectează satele Choll și Elab.", "Este construită din pietre de bazalt așezate cu grijă.", "Sistemul datează din perioada anterioară contactului european.", "Unele secțiuni includ platforme ceremoniale de piatră.", "Drumul trece prin junglă densă și zone cu mangrove.", "Ngaraard este renumit pentru drumurile sale de piatră bine conservate."],
+      en: ["The path connects the villages of Choll and Elab.", "It is constructed from carefully laid basalt stones.", "The path system dates to the pre-European contact era.", "Some sections feature ceremonial stone docking platforms.", "The route passes through dense jungle and mangrove areas.", "Ngaraard State is noted for its well-preserved stone path networks."],
+    },
   }
 ];

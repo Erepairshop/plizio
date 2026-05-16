@@ -45,7 +45,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Has the tallest television tower in Central Asia at 375 meters.",
         "Over 2.9 million people live in its metropolitan area."
       ]
-    }, image: "/poi-images/tashkent-cities-v2.webp"},
+    }, image: "/poi-images/tashkent-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Hauptstadt Usbekistans mit über 2,5 Millionen Einwohnern.", "Ein schweres Erdbeben am 26. April 1966 zerstörte die Stadt fast völlig.", "Das Metrosystem wurde 1977 eröffnet und hat kunstvolle Stationen.", "Der Fernsehturm von Taschkent ist mit 375 Metern einer der höchsten weltweit.", "Der Khast-Imam-Komplex bewahrt den Koran des Kalifen Usman aus dem 7. Jahrhundert.", "Taschkent wurde im Jahr 1865 Teil des Russischen Reiches."],
+      hu: ["Üzbegisztán fővárosa, lakossága meghaladja a 2,5 millió főt.", "Az 1966. április 26-i földrengés után szinte teljesen újjáépítették.", "A taskenti metrót 1977-ben adták át, Közép-Ázsiában az első volt.", "A Taskent-torony 375 méteres magasságával a régió egyik legmagasabb építménye.", "A Hast-Imám komplexumban őrzik a 7. századi Oszmán-Koránt.", "A Csorszu bazár kék kupolája a város egyik legismertebb jelképe."],
+      ro: ["Este capitala Uzbekistanului și are o populație de peste 2,5 milioane de locuitori.", "Un cutremur major pe 26 aprilie 1966 a necesitat reconstrucția orașului.", "Sistemul de metrou a fost inaugurat în 1977 și are peste 30 de stații.", "Turnul de televiziune din Tașkent are o înălțime de 375 de metri.", "Complexul Khast Imam conține cel mai vechi Coran scris pe piele de cerb.", "Bazarul Chorsu este unul dintre cele mai vechi și mari piețe din regiune."],
+      en: ["Capital city of Uzbekistan with a population exceeding 2.5 million.", "A 7.5 magnitude earthquake on April 26, 1966, destroyed most of the city.", "The Tashkent Metro opened in 1977 and is famous for its artistic design.", "The Tashkent Television Tower stands 375 meters (1,230 feet) tall.", "The Khast Imam complex houses the world's oldest Quran from the 7th century.", "Chorsu Bazaar has been a center of trade for over a thousand years."],
+    },
+  },
   {
     id: "samarkand-cities-v2",
     type: "city",
@@ -90,7 +97,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "In the 14th century, Timur made Samarkand the capital of his empire.",
         "The city was founded in the 8th century BC as Marakanda."
       ]
-    }, image: "/poi-images/samarkand-cities-v2.webp"},
+    }, image: "/poi-images/samarkand-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Samarkand wurde bereits im 7. Jahrhundert v. Chr. als Afrasiab gegründet.", "Alexander der Große eroberte die Stadt im Jahr 329 v. Chr.", "Timur machte Samarkand im Jahr 1370 zur Hauptstadt seines Weltreiches.", "Der Registan-Platz besteht aus den Madrasas Ulugh Beg, Schirdor und Tillakori.", "Das Observatorium von Ulugh Beg wurde um 1420 erbaut.", "Die Stadt ist berühmt für die Produktion von handgeschöpftem Seidenpapier."],
+      hu: ["Szamarkandot az i. e. 7. században alapították Afrasziáb néven.", "Nagy Sándor i. e. 329-ben hódította meg a várost.", "Timur Lenk 1370-ben tette meg birodalma központi fővárosává.", "A Regisztán téren álló legidősebb medreszét Ulugbek építtette 1417 és 1420 között.", "A Sah-i-Zinda nekropolisz több mint 20 kék kupolás épületből áll.", "A város 2001 óta az UNESCO Világörökség részét képezi."],
+      ro: ["Orașul a fost fondat în secolul al VII-lea î.Hr. sub numele de Afrasiab.", "Alexandru cel Mare a cucerit orașul în anul 329 î.Hr.", "A devenit capitala Imperiului Timurid sub conducerea lui Tamerlan în 1370.", "Piața Registan cuprinde Madrasa Ulugh Beg, Madrasa Sher-Dor și Madrasa Tilla-Kori.", "Observatorul lui Ulugh Beg a fost finalizat în jurul anului 1420.", "Samarkand este inclus în patrimoniul mondial UNESCO din anul 2001."],
+      en: ["Samarkand was founded in the 7th century BCE as the Sogdian capital Afrasiab.", "Alexander the Great conquered the city in 329 BCE.", "Amir Timur made Samarkand the capital of the Timurid Empire in 1370.", "Registan Square's three madrasas were built between 1417 and 1660.", "Ulugh Beg's observatory was one of the most advanced in the 15th century.", "The city was added to the UNESCO World Heritage list in 2001."],
+    },
+  },
   {
     id: "bukhara-cities-v2",
     type: "city",
@@ -135,7 +149,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Was an important center of Islamic theology for centuries.",
         "The city is located in an oasis on the edge of the Kyzylkum desert."
       ]
-    }, image: "/poi-images/bukhara-cities-v2.webp"},
+    }, image: "/poi-images/bukhara-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Buchara blickt auf eine kontinuierliche Besiedlung von über 2500 Jahren zurück.", "Das Kalon-Minarett wurde 1127 erbaut und ist 47 Meter hoch.", "Das Samaniden-Mausoleum wurde um 905 fertiggestellt.", "Die Stadtfestung Ark diente bis 1920 als Residenz der Emire von Buchara.", "Die UNESCO erklärte das historische Zentrum 1993 zum Weltkulturerbe.", "Es gibt über 140 geschützte Baudenkmäler in der Altstadt."],
+      hu: ["A város történelme több mint 2500 évre nyúlik vissza.", "A Kalon-minaretet 1127-ben építették, magassága 47 méter.", "A Szamanida-mauzóleum 905 körül készült el, és égetett téglából épült.", "Az Ark erőd az 1920-as évekig a buharai emírek székhelye volt.", "Buhara történelmi központja 1993-ban került fel az UNESCO listájára.", "A Lyabi-Hauz komplexum egy 1620-ban épült mesterséges tó köré szerveződött."],
+      ro: ["Orașul are o istorie de așezare continuă de peste 2500 de ani.", "Minaretul Kalyan a fost finalizat în anul 1127 și are o înălțime de 47 de metri.", "Mausoleul Samanid a fost construit între anii 892 și 943 d.Hr.", "Cetatea Ark a servit drept reședință pentru emiri până la căderea sa în 1920.", "Centrul istoric a fost înscris în lista patrimoniului mondial UNESCO în 1993.", "Buhara este faimoasă pentru cele trei bazaruri cu cupole rămase: Toqi Sarrofon, Toqi Zargaron și Toqi Telpak Furushon."],
+      en: ["Bukhara has been a continuously inhabited settlement for over 2,500 years.", "The Kalyan Minaret was built in 1127 and stands 47 meters (154 feet) tall.", "The Samanid Mausoleum was completed around 905 CE and uses only brick for decoration.", "The Ark of Bukhara is a massive fortress that dates back to the 5th century.", "The historic center of Bukhara was UNESCO-listed in 1993.", "The Lyabi-Hauz complex was built around a central pond in 1620."],
+    },
+  },
   {
     id: "namangan-cities-v2",
     type: "city",
@@ -180,7 +201,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "A center of the Uzbek textile and clothing industry.",
         "The region is famous for growing peaches and apples."
       ]
-    }, image: "/poi-images/namangan-cities-v2.webp"},
+    }, image: "/poi-images/namangan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Namangan ist die zweitbevölkerungsreichste Stadt Usbekistans.", "Das Blumenfestival wird seit 1961 jedes Jahr im Mai oder Juni gefeiert.", "Die Mullah-Kirghiz-Madrasah wurde im Jahr 1910 erbaut.", "Die antike Ausgrabungsstätte Achsikent liegt etwa 25 km südwestlich der Stadt.", "Namangan wurde im 15. Jahrhundert als Siedlung für Handwerker gegründet.", "Die Stadt ist ein Zentrum der usbekischen Baumwollverarbeitung."],
+      hu: ["Namangan Üzbegisztán második legnagyobb városa lakosságszám alapján.", "A híres Virágfesztivált 1961 óta minden évben megrendezik.", "A Mullah Kirgiz medreszét 1910-ben fejezték be.", "A közeli Ahszikent városa a 13. században pusztult el a mongol hódítás alatt.", "A város a Ferganai-völgy északi részén, 450 méteres tengerszint feletti magasságban fekszik.", "Jelentős textilipari központ, köszönhetően a régió gyapottermelésének."],
+      ro: ["Namangan este al doilea oraș din țară ca număr de locuitori.", "Festivalul Florilor este organizat anual din 1961 în Parcul Zahiriddin Muhammad Babur.", "Madresa Mullah-Kirghiz a fost construită în 1910 de un arhitect local.", "Situl arheologic Akhsikent a fost capitala Văii Fergana înainte de secolul al XIII-lea.", "Orașul a fost anexat de Imperiul Rus în anul 1876.", "Economia locală este dominată de industria textilă și rafinarea uleiului."],
+      en: ["Namangan is the second most populous city in Uzbekistan after Tashkent.", "The annual Flower Festival has been a tradition since 1961.", "The Mullah-Kirghiz Madrasah was built in 1910 and is a major landmark.", "Akhsikent, located 25 km away, was a major capital city until the 1200s.", "The city was established as a separate settlement in the 15th century.", "Namangan is a primary center for the country's textile and cotton industry."],
+    },
+  },
   {
     id: "andijan-cities-v2",
     type: "city",
@@ -225,7 +253,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Babur, the founder of the Indian Mughal Empire, was born here in 1483.",
         "The economy benefits from its proximity to the border with Kyrgyzstan."
       ]
-    }, image: "/poi-images/andijan-cities-v2.webp"},
+    }, image: "/poi-images/andijan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Geburtsort von Babur, dem Gründer des Mogulreiches (geboren 1483).", "Ein Erdbeben im Jahr 1902 zerstörte fast alle historischen Gebäude.", "Der Jami-Komplex beherbergt die größte Madrasa im Fergana-Tal.", "Andijon ist das Zentrum der usbekischen Automobilindustrie (UzAuto Motors).", "Die Stadt liegt am Fluss Qorasuv im östlichen Teil des Fergana-Tals.", "Erste Erwähnungen der Stadt stammen aus dem 9. Jahrhundert."],
+      hu: ["Itt született Babur sah, a Mogul Birodalom alapítója 1483-ban.", "Az 1902-es földrengés során több mint 4000 ember vesztette életét.", "A Jami-mecset minaretje 32 méter magas, és túlélte a nagy földrengést.", "Andizsanban található az ország legnagyobb autógyártó üzeme.", "A város környékén fedezték fel Üzbegisztán első kőolajmezőit.", "A Babur-ház múzeuma a város egyik leglátogatottabb kulturális helyszíne."],
+      ro: ["Babur, fondatorul dinastiei Mogule din India, s-a născut aici în 1483.", "Cutremurul din 16 decembrie 1902 a nivelat aproape tot orașul.", "Moscheea Jami are o fațadă impresionantă de 123 de metri lungime.", "Orașul este centrul producției de automobile Chevrolet din Uzbekistan.", "Andijan este situat la o altitudine de 450 de metri în Valea Fergana.", "Parcul Babur conține o grădină botanică și un muzeu de istorie regională."],
+      en: ["Born here in 1483, Babur went on to found the Mughal Empire in India.", "A catastrophic earthquake in 1902 destroyed nearly 30,000 buildings.", "The Jami complex includes a madrasah that is over 120 meters long.", "Andijan is the center of the Uzbek automotive industry, established in the 1990s.", "The city serves as a key rail junction near the border with Kyrgyzstan.", "Andijan's history as a city-state dates back to at least the 9th century."],
+    },
+  },
   {
     id: "fergana-cities-v2",
     type: "city",
@@ -270,7 +305,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "An important center for processing oil and gas in the region.",
         "The city is located at an altitude of around 580 meters above sea level."
       ]
-    }, image: "/poi-images/fergana-cities-v2.webp"},
+    }, image: "/poi-images/fergana-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Fergana wurde 1876 als russische Garnisonsstadt gegründet.", "Bis zum Jahr 1910 trug die Stadt den Namen Neu-Margilan.", "Die Stadt beherbergt eine der größten Ölraffinerien in Zentralasien.", "Fergana liegt auf einer Höhe von 590 Metern über dem Meeresspiegel.", "Die Stadtplanung basiert auf einem fächerförmigen Straßennetz.", "Der Name Fergana leitet sich vom altpersischen Wort für 'vielfältig' ab."],
+      hu: ["A várost 1876-ban alapították az Orosz Birodalom katonai bázisaként.", "1907-ben Szkobelev néven nevezték át az orosz tábornok tiszteletére.", "Közép-Ázsia egyik legfontosabb kőolajfinomító központja.", "A várost híres platánfái miatt gyakran nevezik a 'kertek városának'.", "Fergana lakossága mára meghaladja a 300 000 főt.", "A helyi regionális múzeumban több mint 80 000 kiállítási tárgy található."],
+      ro: ["Orașul a fost înființat în 1876 de generalul rus Mihail Skobelev.", "Numele orașului a fost Skobelev între anii 1907 și 1924.", "Fergana este situată în partea de sud-est a Văii Fergana.", "Rafinăria de petrol din Fergana a început producția în anul 1959.", "Orașul are un climat continental temperat, mai blând decât în restul țării.", "Teatrul Dramatic din Fergana este una dintre cele mai vechi instituții culturale din regiune."],
+      en: ["Fergana was established in 1876 as a Russian administrative center.", "The city was originally named New Margilan, then Skobelev, before becoming Fergana.", "It houses one of the largest oil refineries in Uzbekistan, built in 1959.", "Fergana is located at an altitude of approximately 590 meters (1,935 feet).", "The city is known for its wide streets shaded by massive plane trees.", "It serves as the administrative capital of the most fertile region in the country."],
+    },
+  },
   {
     id: "nukus-cities-v2",
     type: "city",
@@ -315,7 +357,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "The city has experienced a boom as a research and industrial center since 1960.",
         "Is located in a region severely affected by the drying up of the Aral Sea."
       ]
-    }, image: "/poi-images/nukus-cities-v2.webp"},
+    }, image: "/poi-images/nukus-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Nukus wurde 1932 zur Hauptstadt von Karakalpakstan ernannt.", "Das Savitsky-Museum beherbergt über 82.000 Exponate.", "Die Stadt liegt auf einer Höhe von 76 Metern über dem Meeresspiegel.", "Nukus ist etwa 800 Kilometer von der usbekischen Hauptstadt Taschkent entfernt.", "Der Fluss Amudarja fließt direkt westlich an der Stadt vorbei.", "In der Nähe befindet sich die antike Nekropole Mizdakhkan."],
+      hu: ["Nukus 1932-ben lett a Karakalpak Autonóm Terület fővárosa.", "A Szavickij Múzeum több mint 50 000 orosz avantgárd festményt őriz.", "A város a Karakum- és a Kizil-kum-sivatagok találkozásánál fekszik.", "Az Aral-tó egykori partvidéke innen körülbelül 200 kilométerre északra található.", "Nukus éghajlata szélsőségesen kontinentális, nagyon forró nyarakkal.", "A város környékén számos 4-5. századi hvárezmi erőd romja látható."],
+      ro: ["Orașul a devenit capitala Karakalpakstanului în anul 1932.", "Muzeul Savitsky este supranumit „Luvrul din Deșert”.", "Nukus se află la o distanță de aproximativ 1250 km de Marea Caspică.", "Populația orașului este de aproximativ 330.000 de locuitori.", "Situl arheologic Gyaur-Kala este situat în apropierea orașului.", "Orașul a fost fondat pe locul unei foste cetăți numite Shurcha."],
+      en: ["Nukus became the capital of the Karakalpak region in 1932.", "The Savitsky Museum holds a collection of over 82,000 items.", "The city is located at an elevation of 76 meters (249 feet).", "Nukus is roughly 200 kilometers away from the former Aral Sea shoreline.", "It is the sixth-largest city in Uzbekistan by population.", "The Mizdakhkan necropolis, a sacred site nearby, dates back to the 4th century BCE."],
+    },
+  },
   {
     id: "karshi-cities-v2",
     type: "city",
@@ -360,7 +409,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Around the city are some of the largest natural gas fields in Uzbekistan.",
         "Has a 16th-century historical bridge over the Qashqadaryo river."
       ]
-    }, image: "/poi-images/karshi-cities-v2.webp"},
+    }, image: "/poi-images/karshi-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Karshi feierte im Jahr 2006 sein 2700-jähriges Stadtjubiläum.", "Die Karshi-Brücke wurde 1583 erbaut und hat 10 Bögen.", "Die Stadt war die zweite Hauptstadt des Emirats Buchara.", "In der Nähe liegt das Surtan-Gasprojekt, eines der größten des Landes.", "Karshi hieß zwischen 1926 und 1937 zu Ehren eines sowjetischen Politikers 'Behbudiy'.", "Alexander der Große hielt sich während seiner Feldzüge in dieser Region auf."],
+      hu: ["A város 2006-ban ünnepelte hivatalosan a 2700. születésnapját.", "A történelmi Karsi-híd 122 méter hosszú és 10 boltívből áll.", "A város az ókorban Naszaf, később pedig Behbudij néven is ismert volt.", "Itt található Üzbegisztán egyik legnagyobb katonai légibázisa.", "A Surtan-komplexum a világ egyik legnagyobb gáz-polimer üzeme.", "A Kök-Gumbaz medresze a 16. században épült Abdullahan uralkodása alatt."],
+      ro: ["Karshi are o vechime atestată de peste 2700 de ani.", "Podul peste râul Qashqadaryo a fost construit în anul 1583.", "Orașul este situat la o altitudine de 374 metri deasupra mării.", "Proiectul Shurtan produce anual peste 125.000 de tone de polietilenă.", "Între 1926 și 1937, orașul a purtat numele de Behbudiy.", "Karshi a fost un centru important pentru producția de bumbac în epoca sovietică."],
+      en: ["Karshi officially celebrated its 2,700th anniversary in 2006.", "The historic brick bridge across the Qashqadaryo was built in 1583.", "The city served as the second capital of the Emirate of Bukhara.", "It is located approximately 520 kilometers south of Tashkent.", "The Shurtan gas complex nearby is a major pillar of the national economy.", "Karshi was known as Nasaf until the 14th century Mongol invasion."],
+    },
+  },
   {
     id: "kokand-cities-v2",
     type: "city",
@@ -405,7 +461,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "One of the most important religious centers of the Fergana Valley with dozens of historical mosques.",
         "A traditional center of silk spinning and wood carving."
       ]
-    }, image: "/poi-images/kokand-cities-v2.webp"},
+    }, image: "/poi-images/kokand-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Kokand war von 1709 bis 1876 die Hauptstadt des Khanats von Kokand.", "Der Palast von Khudayar Khan hatte ursprünglich 113 Räume.", "Die Jami-Moschee verfügt über 98 kunstvoll geschnitzte Holzsäulen.", "Die Stadt liegt an der Kreuzung alter Handelswege nach Indien und China.", "Kokand wurde im Jahr 1876 vom Russischen Kaiserreich annektiert.", "Dahma-i-Shokhon ist das Grabmal der Herrscher von Kokand aus dem Jahr 1825."],
+      hu: ["A Kokandi Kánság fővárosa volt 1709-től az 1876-os orosz hódításig.", "Hudojar kán palotáját 1873-ban fejezték be, 113 szobája volt.", "A Jami-mecset oszlopait Indiából hozott különleges fákból faragták.", "A város neve a 'szépséges völgy' vagy a 'vaddisznók városa' jelentéssel bírhat.", "A Narbutabek-medresze a 18. század végén épült, és ma is működik.", "Kokand a Ferganai-völgy egyik legfontosabb vasúti csomópontja."],
+      ro: ["Hanatul de Kokand a controlat la un moment dat teritorii din actualul Kârgâzstan și Kazahstan.", "Palatul lui Khudayar Khan a fost construit în decurs de 10 ani.", "Moscheea Jami a fost ridicată în anul 1812 sub conducerea lui Omar Khan.", "Orașul este situat la 228 km sud-est de capitala Tașkent.", "Dahma-i-Shokhon înseamnă „Mormântul Regilor” și datează din 1825.", "Kokand este faimos pentru producția de hârtie tradițională și mătase."],
+      en: ["Kokand served as the capital of its namesake Khanate from 1709 to 1876.", "The Palace of Khudayar Khan, completed in 1873, is now a museum.", "The Jami Mosque's 98 pillars support a roof that is nearly 100 meters long.", "The city was a major stop on the Silk Road for caravans heading to China.", "The Narbutabey Madrasah was the largest religious school in Kokand in the 1700s.", "Kokand is known as the 'City of Winds' due to its geographical position."],
+    },
+  },
   {
     id: "margilan-cities-v2",
     type: "city",
@@ -450,7 +513,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Was an important resting place for merchants on the Silk Road.",
         "Is one of the oldest cities in the Fergana Valley, mentioned in documents as early as the 9th century."
       ]
-    }, image: "/poi-images/margilan-cities-v2.webp"},
+    }, image: "/poi-images/margilan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Margilan wurde im Jahr 2007 offiziell 2000 Jahre alt.", "Die Yodgorlik-Fabrik ist die einzige ihrer Art, die Seide noch rein manuell verarbeitet.", "Die Stadt liegt nur 9 Kilometer nördlich von Fergana.", "Der Khan-Atlas-Stoff aus Margilan ist ein nationales Symbol Usbekistans.", "Die Madrasa Chokir Kori wurde im 18. Jahrhundert erbaut.", "Margilan war bereits im 10. Jahrhundert ein wichtiges Handelszentrum."],
+      hu: ["Margilan 2007-ben ünnepelte fennállásának 2000. évfordulóját.", "A Jodgorlik gyárban évente több mint 6000 méter selymet szőnek kézzel.", "A város Ferganától mindössze 9 kilométerre fekszik.", "Az ikat technika lényege, hogy a fonalat a szövés előtt festik meg.", "A Pir Sziddik komplexum udvarán több száz galamb él, akiket szentként tisztelnek.", "A város a 15. században a Timuridák fontos erődítménye volt."],
+      ro: ["Margilan a sărbătorit 2000 de ani de existență în anul 2007.", "Fabrica Yodgorlik produce mătase folosind tehnici neschimbate de secole.", "Orașul este situat la o altitudine de 487 de metri în Valea Fergana.", "Mătasea produsă aici a fost exportată în Egipt și Grecia în antichitate.", "Complexul Pir Siddiq a fost construit la mijlocul secolului al XVIII-lea.", "Bazarul local funcționează la capacitate maximă în zilele de joi și duminică."],
+      en: ["Margilan officially celebrated its 2,000th anniversary in 2007.", "The Yodgorlik factory produces about 6,000 meters of silk annually using manual looms.", "The city is located just 9 kilometers (5.5 miles) north of Fergana city.", "The name Margilan is traditionally linked to a local dish served to Alexander the Great.", "The Chokir Kori Madrasah now serves as a center for local craftspeople.", "Margilan was a major stop on the Silk Road connecting China to the West."],
+    },
+  },
   {
     id: "navoiy-cities-v2",
     type: "city",
@@ -495,7 +565,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "The Navoiy Mining and Metallurgical Combinat is one of the world's largest gold and uranium producers.",
         "Is the first Uzbek city in which a Free Economic Zone was established."
       ]
-    }, image: "/poi-images/navoiy-cities-v2.webp"},
+    }, image: "/poi-images/navoiy-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Navoiy wurde offiziell am 1. September 1958 gegründet.", "Die Stadt beherbergt das Goldbergwerk Muruntau, eines der größten der Welt.", "Navoiy ist das Zentrum der ersten freien Wirtschaftszone Usbekistans.", "Die Karawanserei Rabati Malik in der Nähe stammt aus dem Jahr 1078.", "Die Stadtplanung wurde für ihre innovativen Konzepte mehrfach ausgezeichnet.", "Navoiy liegt an der Hauptbahnstrecke zwischen Taschkent und Buchara."],
+      hu: ["A várost 1958-ban alapították a korábbi Kermine település közelében.", "A közeli Muruntau bánya a világ egyik legnagyobb aranylelőhelye.", "Navoiy-ban található Üzbegisztán első szabadkereskedelmi övezete (2008).", "A Rabati Malik karavánszeráj a 11. századi Karahánida építészet emléke.", "A város nevét viselő költő, Aliser Navoiy a 15. században élt.", "Navoiy repülőtere fontos nemzetközi áruszállítási csomópont."],
+      ro: ["Navoiy a fost înființat oficial pe 1 septembrie 1958.", "Mina Muruntau produce o parte semnificativă din rezervele de aur ale țării.", "Orașul este situat pe cursul inferior al râului Zarafshan.", "Poarta Rabati Malik a fost construită în 1078 sub conducerea dinastiei Qarakhanide.", "Navoiy are un sistem de transport aerian de marfă legat de Coreea de Sud.", "Populația orașului a crescut rapid de la 30.000 în 1970 la peste 150.000 astăzi."],
+      en: ["Navoiy was formally established on September 1, 1958.", "The Muruntau gold mine is one of the top producers globally.", "The Navoi Free Industrial Economic Zone (FIEZ) was created in 2008.", "Nearby Rabati Malik is a 11th-century caravanserai on the Silk Road.", "The city was built from scratch as a socialist model of urban planning.", "Navoiy is a key stop for the high-speed Afrosiyob train service."],
+    },
+  },
   {
     id: "jizzakh-cities-v2",
     type: "city",
@@ -540,7 +617,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Sharof Rashidov, the longtime party leader of the Uzbek SSR, was born here.",
         "Is located near the picturesque Saamin National Park."
       ]
-    }, image: "/poi-images/jizzakh-cities-v2.webp"},
+    }, image: "/poi-images/jizzakh-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Jizzakh wurde im 10. Jahrhundert erstmals schriftlich erwähnt.", "Die Stadt war ein wichtiger Stützpunkt des Khanats von Buchara.", "Sharof Rashidov, Parteichef der Usbekischen SSR, wurde hier 1917 geboren.", "Der Jilanuti-Pass beherbergt Felsinschriften von Ulugh Beg.", "Das Saamin-Naturschutzgebiet wurde 1926 gegründet.", "Die Stadt liegt etwa 170 Kilometer südwestlich von Taschkent."],
+      hu: ["A várost először a 10. századi arab utazók említették írásban.", "1866-ban az orosz hadsereg foglalta el a buharai emírségtől.", "A Zaamin Nemzeti Park az ország legidősebb természetvédelmi területe.", "Dzsizak híres a különleges, kemencében sült somsa (húsos tészta) variációjáról.", "A település tengerszint feletti magassága 378 méter.", "A városban egy nagy textilipari szabadkereskedelmi zóna működik."],
+      ro: ["Jizzakh a fost un punct de oprire major pe ruta comercială spre Samarkand.", "Orașul a fost distrus și reconstruit după bătăliile din secolul al XIX-lea.", "Muzeul Sharof Rashidov a fost deschis pentru a celebra centenarul acestuia.", "Parcul Zaamin se află la o altitudine de 2500 de metri în munții Turkestan.", "„Poarta lui Tamerlan” prezintă inscripții care comemorează victorii militare.", "Jizzakh este renumit pentru pepenii galbeni cultivați în zonele irigate."],
+      en: ["Jizzakh was first mentioned by 10th-century Arab chroniclers as a major city.", "The city was captured by Russian forces under General Chernyayev in 1866.", "Sharof Rashidov, leader of Soviet Uzbekistan (1959–1983), was born here.", "The Jilanuti Pass features ancient and medieval petroglyphs and inscriptions.", "Zaamin National Park is famous for its unique flora and rare mountain fauna.", "Jizzakh is a central hub for the Tashkent-Samarkand high-speed railway."],
+    },
+  },
   {
     id: "urgench-cities-v2",
     type: "city",
@@ -585,7 +669,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Is an important center of the cotton industry in the Khorezm region.",
         "Was heavily industrialized and expanded during the Soviet era in the 1950s."
       ]
-    }, image: "/poi-images/urgench-cities-v2.webp"},
+    }, image: "/poi-images/urgench-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Urgentsch wurde im 17. Jahrhundert von Auswanderern aus Konya-Urgentsch gegründet.", "Die Stadt liegt am linken Ufer des Flusses Amudarja.", "Die Trolleybuslinie nach Chiwa wurde im Jahr 1997 eröffnet.", "In Urgentsch steht ein Denkmal für Al-Chwarizmi, den Erfinder der Algebra.", "Der Flughafen Urgentsch fertigt jährlich über 300.000 Passagiere ab.", "Die Stadt liegt etwa 450 Kilometer westlich von Buchara."],
+      hu: ["A mai Ürgenccset 1646-ban alapították az Amu-darja partján.", "Az Ürgenccs és Híva közötti trolibuszvonal 35 kilométer hosszú.", "Al-Hvárizmi, a város leghíresebb szülötte, a 9. században élt.", "A város az Üzbég Vasutak egyik fontos nyugati állomása.", "Urgentsch és Türkmenisztán határa mindössze 10 kilométerre van.", "A város központjában található a hvárezmi zenészekről elnevezett emlékmű."],
+      ro: ["Urgench a înlocuit vechiul Urgench drept capitală regională în secolul al XVII-lea.", "Orașul este situat la o altitudine de 91 de metri.", "Linia de troleibuz Urgench-Khiva este singura de acest tip din Uzbekistan.", "Matematicianul Al-Khwarizmi este omagiat printr-un monument masiv în centru.", "Aeroportul din Urgench a fost modernizat major în anul 2006.", "Economia se bazează pe irigații din Amudaria pentru cultura bumbacului."],
+      en: ["The city was established in 1646 by settlers fleeing the dry Old Urgench.", "It is located on the Shavat canal, a branch of the Amu Darya river.", "The 35km trolleybus line to Khiva is one of the longest in the world.", "Al-Khwarizmi, after whom the city's university is named, died around 850 CE.", "Urgench International Airport connects the region directly to Moscow and Istanbul.", "The city is the birthplace of the famous singer Anna German."],
+    },
+  },
   {
     id: "termez-cities-v2",
     type: "city",
@@ -630,7 +721,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Trade with Afghanistan was conducted over the Friendship Bridge on the Amu Darya.",
         "Is considered the hottest city in Uzbekistan with summer temperatures often exceeding 45 degrees Celsius."
       ]
-    }, image: "/poi-images/termez-cities-v2.webp"},
+    }, image: "/poi-images/termez-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Termiz wurde im Jahr 1220 von den Truppen Dschingis Khans zerstört.", "Die Stadt ist der heißeste Ort in Usbekistan (Rekord über 50 °C).", "Die Brücke der Freundschaft wurde im Jahr 1982 fertiggestellt.", "Das Archäologische Museum von Termiz wurde 2002 eröffnet.", "Die Festung Kirk-Kiz aus dem 9. Jahrhundert liegt am Stadtrand.", "Termiz war ein zentraler Ort der Graeco-Baktrischen Zivilisation."],
+      hu: ["A várost Dzsingisz kán csapatai 1220-ban porig rombolták.", "Termezben található Üzbegisztán legjelentősebb régészeti múzeuma.", "A Barátság híd az egyetlen közúti és vasúti átkelő Üzbegisztán és Afganisztán között.", "A Fajaz-Tepe buddhista kolostor maradványai az 1. századból származnak.", "A város tengerszint feletti magassága 302 méter.", "Al-Hakim at-Tirmizi, a híres szúfi tudós a 9. században élt itt."],
+      ro: ["Termez a fost un centru important al budismului timp de peste 700 de ani.", "Podul Prieteniei are o lungime de 816 metri peste Amudaria.", "Temperatura maximă înregistrată în Termez a fost de 51,7 °C.", "Cetatea Kirk-Kiz are o formă pătrată unică cu 40 de camere.", "Orașul a fost numit Alexandria de către greci în timpul lui Alexandru cel Mare.", "Muzeul de Arheologie conține peste 27.000 de obiecte istorice."],
+      en: ["Termez was completely destroyed by Genghis Khan's army in 1220.", "It is the hottest city in Uzbekistan, with summer peaks often exceeding 45°C.", "The Friendship Bridge was used by Soviet troops to withdraw from Afghanistan in 1989.", "The Archaeological Museum was built to celebrate the city's 2,500th anniversary.", "Fayaz-Tepe includes a well-preserved stupa dating to the 1st–3rd centuries CE.", "Termez is situated at the confluence of the Surxondaryo and Amu Darya rivers."],
+    },
+  },
   {
     id: "chirchiq-cities-v2",
     type: "city",
@@ -675,7 +773,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "During the Second World War, numerous factories were evacuated here.",
         "Near the city is a large winter sports area called Beldersay."
       ]
-    }, image: "/poi-images/chirchiq-cities-v2.webp"},
+    }, image: "/poi-images/chirchiq-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Chirchiq wurde im Jahr 1935 als geplante Industriestadt gegründet.", "Die Stadt liegt auf einer Höhe von etwa 580 Metern über dem Meeresspiegel.", "Der Fluss Chirchiq versorgt die Stadt und die umliegende Landwirtschaft mit Wasser.", "In der Stadt befindet sich ein bedeutendes Werk für Stickstoffdünger.", "Die Entfernung zur Hauptstadt Taschkent beträgt etwa 32 Kilometer.", "Chirchiq ist durch eine Bahnstrecke direkt mit dem nationalen Schienennetz verbunden."],
+      hu: ["Chirchiq városát 1935-ben alapították tervezett ipari központként.", "A város tengerszint feletti magassága körülbelül 580 méter.", "A Chirchiq folyó látja el vízzel a várost és a környező mezőgazdaságot.", "A városban egy jelentős nitrogénműtrágya-gyár üzemel.", "Taskenttől, a fővárostól való távolsága nagyjából 32 kilométer.", "Chirchiq közvetlen vasúti összeköttetéssel rendelkezik az országos hálózattal."],
+      ro: ["Chirchiq a fost fondat în 1935 ca un centru industrial planificat.", "Orașul este situat la o altitudine de aproximativ 580 de metri.", "Râul Chirchiq alimentează orașul și agricultura înconjurătoare cu apă.", "În oraș funcționează o fabrică importantă de îngrășăminte cu azot.", "Distanța până la capitala Tașkent este de aproximativ 32 de kilometri.", "Chirchiq este conectat direct la rețeaua feroviară națională printr-o linie dedicată."],
+      en: ["Chirchiq was established in 1935 as a planned industrial urban center.", "The city is situated at an elevation of approximately 580 meters above sea level.", "The Chirchiq River provides essential water resources for both industry and irrigation.", "A major nitrogen fertilizer plant is one of the city's largest employers.", "It is located roughly 32 kilometers northeast of the national capital, Tashkent.", "The city is linked to the regional rail network via a dedicated branch line."],
+    },
+  },
   {
     id: "angren-cities-v2",
     type: "city",
@@ -720,7 +825,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Is located on the important railway line connecting the Fergana Valley with the rest of Uzbekistan.",
         "The surrounding mountains make the city a starting point for mountain hikes."
       ]
-    }, image: "/poi-images/angren-cities-v2.webp"},
+    }, image: "/poi-images/angren-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Angren wurde am 13. Juni 1946 offiziell zur Stadt ernannt.", "Das Angren-Kohlebecken ist eines der größten Vorkommen in Zentralasien.", "Die Stadt liegt auf einer durchschnittlichen Höhe von 900 Metern.", "Das Wärmekraftwerk Angren ging 1957 in Betrieb.", "Im Jahr 2012 wurde hier eine Sonderwirtschaftszone (SEZ) eingerichtet.", "Die Bahnstrecke Angren–Pap verbindet die Stadt seit 2016 mit dem Fergana-Tal."],
+      hu: ["Angrent 1946. június 13-án nyilvánították hivatalosan várossá.", "Az Angren-szénmedence Közép-Ázsia egyik legnagyobb lelőhelye.", "A város átlagos tengerszint feletti magassága 900 méter.", "Az Angren Hőerőmű 1957-ben kezdte meg működését.", "2012-ben különleges gazdasági övezetet (SEZ) hoztak létre a városban.", "Az Angren–Pap vasútvonal 2016 óta köti össze a várost a Fergana-völggyel."],
+      ro: ["Angren a fost declarat oficial oraș la data de 13 iunie 1946.", "Bazinul carbonifer Angren este unul dintre cele mai mari din Asia Centrală.", "Orașul este situat la o altitudine medie de 900 de metri.", "Centrala termoelectrică Angren a fost dată în folosință în anul 1957.", "O zonă economică specială (SEZ) a fost stabilită aici în anul 2012.", "Linia feroviară Angren–Pap leagă orașul de valea Ferghana din 2016."],
+      en: ["Angren was officially granted city status on June 13, 1946.", "The Angren coal basin is among the largest mineral deposits in Central Asia.", "The city sits at an average elevation of 900 meters above sea level.", "The Angren Thermal Power Station began its operations in 1957.", "A Special Economic Zone (SEZ) was formally established in Angren in 2012.", "The Angren–Pap railway line has connected the city to the Fergana Valley since 2016."],
+    },
+  },
   {
     id: "olmaliq-cities-v2",
     type: "city",
@@ -765,7 +877,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "The large Kalmakyr open-pit mine is one of the largest copper mines in the world.",
         "The city stadium is home to the well-known football club AGMK Olmaliq."
       ]
-    }, image: "/poi-images/olmaliq-cities-v2.webp"},
+    }, image: "/poi-images/olmaliq-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Olmaliq erhielt 1947 den Status einer Stadt.", "Der AMMC-Komplex produziert jährlich über 140.000 Tonnen Kupfer.", "In der Nähe befindet sich das riesige Kupfererz-Tagebaugelände 'Kalmakyr'.", "Die Stadt liegt etwa 55 Kilometer südlich der Hauptstadt Taschkent.", "Olmaliq ist einer der größten Produzenten von Schwefelsäure in der Region.", "Die Bevölkerung der Stadt besteht aus über 120.000 Einwohnern."],
+      hu: ["Olmaliq 1947-ben kapott városi rangot.", "Az AMMC évente több mint 140 000 tonna rezet állít elő.", "A város közelében található a hatalmas 'Kalmakyr' rézérc-külszíni fejtés.", "A város körülbelül 55 kilométerre délre fekszik Taskenttől.", "Olmaliq a régió egyik legnagyobb kénsavgyártója.", "A város lakossága meghaladja a 120 000 főt."],
+      ro: ["Olmaliq a primit statutul de oraș în anul 1947.", "Complexul AMMC produce anual peste 140.000 de tone de cupru.", "În apropiere se află uriașa carieră de cupru 'Kalmakyr'.", "Orașul este situat la aproximativ 55 de kilometri sud de Tașkent.", "Olmaliq este unul dintre cei mai mari producători de acid sulfuric din regiune.", "Populația orașului numără peste 120.000 de locuitori."],
+      en: ["Olmaliq was officially granted city status in 1947.", "The AMMC facility produces over 140,000 tons of copper annually.", "The massive 'Kalmakyr' open-pit copper mine is located nearby.", "The city is situated roughly 55 kilometers south of Tashkent.", "Olmaliq is a leading producer of sulfuric acid in Central Asia.", "The city's population exceeds 120,000 residents."],
+    },
+  },
   {
     id: "bekabad-cities-v2",
     type: "city",
@@ -810,7 +929,13 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Located on the Syr Darya river, Bekabad is also a site for hydroelectric power generation.",
         "Directly borders Tajikistan, which increases the strategic importance of the city."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Bekabad wurde am 30. August 1945 zur Stadt ernannt.", "Das Farhod-Wasserkraftwerk ist eines der ältesten der Region.", "Die Stadt hieß bis 1964 Begowat.", "Das Usbekische Hüttenwerk in Bekabad produziert fast den gesamten Stahl des Landes.", "Bekabad liegt etwa 140 Kilometer südlich von Taschkent.", "Die Stadt ist ein wichtiger Knotenpunkt der Eisenbahnstrecke nach Tadschikistan."],
+      hu: ["Bekabadot 1945. augusztus 30-án nyilvánították várossá.", "A Farkhad-vízerőmű a régió egyik legrégebbi ilyen létesítménye.", "A város 1964-ig a Begovat nevet viselte.", "A bekabadi Üzbég Kohászati Művek állítja elő az ország acéltermelésének nagy részét.", "A város körülbelül 140 kilométerre délre fekszik Taskenttől.", "A város a Tádzsikisztánba vezető vasútvonal egyik fontos csomópontja."],
+      ro: ["Bekabad a fost declarat oraș la 30 august 1945.", "Hidrocentrala Farhod este una dintre cele mai vechi din regiune.", "Până în anul 1964, orașul a purtat numele de Begovat.", "Combinatul Metalurgic din Bekabad produce aproape tot oțelul din țară.", "Orașul se află la aproximativ 140 de kilometri sud de Tașkent.", "Orașul este un punct feroviar crucial pentru rutele către Tadjikistan."],
+      en: ["Bekabad was officially granted city status on August 30, 1945.", "The Farkhad hydroelectric station is among the oldest in Central Asia.", "The city was known as Begovat until it was renamed in 1964.", "The Uzbekistan Metallurgical Plant in Bekabad produces the majority of the nation's steel.", "The city is located approximately 140 kilometers south of Tashkent.", "It serves as a major railway interchange for trains heading to Tajikistan."],
+    },
   },
   {
     id: "shahrisabz-cities-v2",
@@ -856,7 +981,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "The historical center of Shahrisabz has been a UNESCO World Heritage Site since 2000.",
         "The 15th-century Kok-Gumbaz Mosque is known for its huge blue dome."
       ]
-    }, image: "/poi-images/shahrisabz-cities-v2.webp"},
+    }, image: "/poi-images/shahrisabz-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Shahrisabz hieß in der Antike Kesch.", "Das UNESCO-Weltkulturerbe umfasst das historische Zentrum der Stadt seit dem Jahr 2000.", "Der Ak-Saray-Palast wurde ab 1380 über einen Zeitraum von 24 Jahren erbaut.", "Das Portal des Ak-Saray-Palastes war ursprünglich etwa 70 Meter hoch.", "Amir Timur wurde am 9. April 1336 im nahegelegenen Dorf Hodja-Ilgar geboren.", "Die Kok-Gumbaz-Moschee bedeutet übersetzt 'Blaue Kuppel'."],
+      hu: ["Shahrisabz ókori neve Kesh volt.", "Az UNESCO 2000-ben nyilvánította a város történelmi központját a Világörökség részévé.", "Az Ak-Saray palota építése 1380-ban kezdődött és 24 évig tartott.", "Az Ak-Saray palota kapuja eredetileg körülbelül 70 méter magas volt.", "Amir Timur 1336. április 9-én született a közeli Hodja-Ilgar faluban.", "A Kok-Gumbaz mecset neve 'Kék Kupolát' jelent."],
+      ro: ["Shahrisabz se numea Kesh în antichitate.", "Centrul istoric al orașului face parte din Patrimoniul UNESCO din anul 2000.", "Construcția palatului Ak-Saray a început în 1380 și a durat 24 de ani.", "Portalul palatului Ak-Saray avea inițial o înălțime de aproximativ 70 de metri.", "Amir Timur s-a născut la 9 aprilie 1336 în satul Hodja-Ilgar din apropiere.", "Numele moscheii Kok-Gumbaz se traduce prin 'Cupola Albastră'."],
+      en: ["Shahrisabz was known as Kesh in ancient times.", "The city's historic center was designated a UNESCO World Heritage site in 2000.", "Construction of the Ak-Saray Palace began in 1380 and lasted 24 years.", "The original entrance portal of the Ak-Saray Palace stood approximately 70 meters high.", "Amir Timur was born on April 9, 1336, in the nearby village of Hodja-Ilgar.", "The Kok-Gumbaz Mosque derives its name from its characteristic 'Blue Dome'."],
+    },
+  },
   {
     id: "guliston-cities-v2",
     type: "city",
@@ -901,7 +1033,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Is an important educational center in the Sirdaryo region with its own university.",
         "Is located in the center of an artificially irrigated steppe region."
       ]
-    }, image: "/poi-images/guliston-cities-v2.webp"},
+    }, image: "/poi-images/guliston-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Guliston hieß bis 1922 Mirzachul und danach bis 1961 Gulistan.", "Die Stadt erhielt im Jahr 1952 den Status einer Stadt.", "Guliston ist die kleinste Provinzhauptstadt Usbekistans.", "Die Stadt liegt etwa 120 Kilometer südwestlich von Taschkent.", "Die Haupteisenbahnstrecke Taschkent–Samarkand verläuft durch die Stadt.", "Die Region Syrdarja ist bekannt für den großflächigen Anbau von Melonen."],
+      hu: ["Guliston 1922-ig a Mirzachul, majd 1961-ig a Gulistan nevet viselte.", "A települést 1952-ben nyilvánították várossá.", "Guliston Üzbegisztán legkisebb tartományi székhelye.", "A város körülbelül 120 kilométerre délnyugatra fekszik Taskenttől.", "A Taskent–Szamarkand fő vasútvonal áthalad a városon.", "A Szir-darja régió híres a nagyméretű dinnyetermesztéséről."],
+      ro: ["Guliston s-a numit Mirzachul până în 1922 și apoi Gulistan până în 1961.", "Localitatea a primit statutul de oraș în anul 1952.", "Guliston este cea mai mică reședință de regiune din Uzbekistan.", "Orașul este situat la aproximativ 120 de kilometri sud-vest de Tașkent.", "Magistrala feroviară Tașkent–Samarkand trece prin oraș.", "Regiunea Sîrdaria este celebră pentru cultivarea pe scară largă a pepenilor."],
+      en: ["Guliston was named Mirzachul until 1922 and Gulistan until 1961.", "The settlement was officially granted city status in 1952.", "Guliston is the smallest regional capital in Uzbekistan.", "The city is located approximately 120 kilometers southwest of Tashkent.", "The main Tashkent–Samarkand railway line passes through the city center.", "The Syrdarya Region is renowned for its large-scale cultivation of melons."],
+    },
+  },
   {
     id: "denov-cities-v2",
     type: "city",
@@ -946,7 +1085,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "The city's bazaar is one of the largest and liveliest in southern Uzbekistan.",
         "During the Soviet era, the first attempts at growing subtropical fruits were made here."
       ]
-    }, image: "/poi-images/denov-cities-v2.webp"},
+    }, image: "/poi-images/denov-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Denov liegt auf einer Höhe von ca. 520 Metern.", "Die Said-Atalyk-Madrasa stammt aus dem 16. Jahrhundert.", "Denov ist bekannt für seine Weichschal-Mandeln und Granatäpfel.", "Die Stadt liegt etwa 150 Kilometer nördlich von Termiz.", "Denov erhielt im Jahr 1958 den Status einer Stadt.", "Die Region Surxondaryo ist die wärmste Gegend Usbekistans."],
+      hu: ["Denov körülbelül 520 méteres tengerszint feletti magasságban fekszik.", "A Said-Atalyk medresze a 16. századból származik.", "Denov híres a puha héjú mandulájáról és a gránátalmájáról.", "A város körülbelül 150 kilométerre északra található Termiztől.", "Denov 1958-ban kapott városi rangot.", "Surxondaryo tartomány Üzbegisztán legmelegebb vidéke."],
+      ro: ["Denov este situat la o altitudine de aproximativ 520 de metri.", "Madrasa Said-Atalyk datează din secolul al XVI-lea.", "Denov este renumit pentru migdalele sale cu coajă moale și rodii.", "Orașul se află la aproximativ 150 de kilometri nord de Termiz.", "Denov a primit statutul de oraș în anul 1958.", "Regiunea Surhandaria este cea mai caldă zonă din Uzbekistan."],
+      en: ["Denov is situated at an elevation of roughly 520 meters.", "The Said-Atalyk Madrasah was constructed during the 16th century.", "Denov is famous for its thin-shelled almonds and pomegranates.", "The city is located approximately 150 kilometers north of Termiz.", "Denov was officially incorporated as a city in 1958.", "Surxondaryo Region is considered the warmest climatic zone in Uzbekistan."],
+    },
+  },
   {
     id: "zarafshan-cities-v2",
     type: "city",
@@ -991,7 +1137,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Due to its isolated location, the city's water is brought in via a 250-kilometer pipeline system.",
         "Because of its rich mineral resources, it is often called the \"El Dorado of Uzbekistan\"."
       ]
-    }, image: "/poi-images/zarafshan-cities-v2.webp"},
+    }, image: "/poi-images/zarafshan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Muruntau-Mine bei Zarafshan ist ca. 3,5 km lang und 2,5 km breit.", "Die Stadt liegt auf einer Höhe von 400 Metern in der Wüste.", "Zarafshan wurde in nur wenigen Jahren nach 1967 erbaut.", "Das Wasser kommt über eine 250 km lange Leitung aus der Amudarja.", "Gold aus Zarafshan gehört zu den reinsten der Welt.", "In der Stadt leben etwa 85.000 Menschen."],
+      hu: ["A Zarafshan melletti Muruntau bánya kb. 3,5 km hosszú és 2,5 km széles.", "A város 400 méteres magasságban fekszik a sivatagban.", "Zarafshant 1967 után mindössze néhány év alatt építették fel.", "A víz egy 250 km hosszú vezetéken érkezik az Amu-darjából.", "A zarafshani arany a világ egyik legtisztább aranya.", "A városban körülbelül 85 000 ember él."],
+      ro: ["Mina Muruntau de lângă Zarafshan are cca. 3,5 km lungime și 2,5 km lățime.", "Orașul este situat la o altitudine de 400 de metri în deșert.", "Zarafshan a fost construit în doar câțiva ani după 1967.", "Apa este furnizată printr-o conductă de 250 km din Amudaria.", "Aurul din Zarafshan este considerat printre cele mai pure din lume.", "În oraș locuiesc aproximativ 85.000 de oameni."],
+      en: ["The Muruntau mine near Zarafshan is approx. 3.5 km long and 2.5 km wide.", "The city is located at an altitude of 400 meters in the desert.", "Zarafshan was constructed in just a few years starting in 1967.", "Water is delivered via a 250 km long pipeline from the Amu Darya.", "Gold extracted in Zarafshan is among the highest purity in the world.", "The city's population is approximately 85,000 residents."],
+    },
+  },
   {
     id: "kattakurgan-cities-v2",
     type: "city",
@@ -1036,7 +1189,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "Has one of the oldest Uzbek drama theaters, which opened in 1921.",
         "Is known for its traditional meat dishes and the lively Sunday bazaar."
       ]
-    }, image: "/poi-images/kattakurgan-cities-v2.webp"},
+    }, image: "/poi-images/kattakurgan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Kattakurgan bedeutet übersetzt 'Große Festung'.", "Die Stadt wurde im Jahr 1684 gegründet.", "Der Kattakurgan-Stausee hat eine Fläche von fast 80 Quadratkilometern.", "Kattakurgan liegt etwa 76 Kilometer westlich von Samarkand.", "Die Stadt erhielt im Jahr 1930 offiziell das Stadtrecht.", "Ein bedeutender Teil der Bevölkerung arbeitet in der Textilindustrie."],
+      hu: ["Kattakurgan jelentése 'Nagy Erőd'.", "A várost 1684-ben alapították.", "A Kattakurgan-víztározó területe közel 80 négyzetkilométer.", "Kattakurgan körülbelül 76 kilométerre nyugatra fekszik Szamarkandtól.", "A település 1930-ban kapott hivatalosan városi rangot.", "A lakosság jelentős része a textiliparban dolgozik."],
+      ro: ["Numele Kattakurgan se traduce prin 'Cetatea Mare'.", "Orașul a fost fondat în anul 1684.", "Rezervorul Kattakurgan are o suprafață de aproape 80 de kilometri pătrați.", "Kattakurgan se află la aproximativ 76 de kilometri vest de Samarkand.", "Localitatea a primit oficial drepturi de oraș în anul 1930.", "O parte importantă a populației lucrează în industria textilă."],
+      en: ["The name Kattakurgan translates to 'Big Fortress.'", "The city was originally founded in 1684.", "The Kattakurgan Reservoir covers an area of nearly 80 square kilometers.", "Kattakurgan is located roughly 76 kilometers west of Samarkand.", "The settlement was officially granted city status in 1930.", "A significant portion of the local workforce is employed in textiles."],
+    },
+  },
   {
     id: "asaka-cities-v2",
     type: "city",
@@ -1081,7 +1241,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "The factory in Asaka exports vehicles to many states of the former Soviet Union.",
         "Is strongly characterized by agriculture and considered a center of fruit growing in the Fergana Valley."
       ]
-    }, image: "/poi-images/asaka-cities-v2.webp"},
+    }, image: "/poi-images/asaka-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Asaka hieß von 1937 bis 1991 Leninsk.", "Das Autowerk in Asaka wurde 1996 eröffnet.", "Die Stadt liegt etwa 20 Kilometer südwestlich von Andijon.", "Asaka erhielt im Jahr 1937 den Status einer Stadt.", "Die Region ist bekannt für die Zucht von Seidenraupen.", "In Asaka kreuzen sich wichtige Verkehrswege des Fergana-Tals."],
+      hu: ["Asaka 1937 és 1991 között a Leninszk nevet viselte.", "Az asakai autógyár 1996-ban nyílt meg.", "A város körülbelül 20 kilométerre délnyugatra fekszik Andijontól.", "Asaka 1937-ben kapott városi rangot.", "A régió híres a selyemhernyó-tenyésztéséről.", "Asakában a Fergana-völgy fontos közlekedési útvonalai találkoznak."],
+      ro: ["Asaka s-a numit Leninsk între anii 1937 și 1991.", "Fabrica de automobile din Asaka a fost deschisă în 1996.", "Orașul este situat la aproximativ 20 de kilometri sud-vest de Andijan.", "Asaka a primit statutul de oraș în anul 1937.", "Regiunea este cunoscută pentru creșterea viermilor de mătase.", "În Asaka se intersectează rute importante de transport din valea Ferghana."],
+      en: ["Asaka was known as Leninsk from 1937 until 1991.", "The automotive plant in Asaka commenced operations in 1996.", "The city is located roughly 20 kilometers southwest of Andijon.", "Asaka was officially incorporated as a city in 1937.", "The surrounding region is a center for traditional sericulture (silk farming).", "Asaka serves as a strategic junction for road and rail in the Fergana Valley."],
+    },
+  },
   {
     id: "khiva-cities-v2",
     type: "city",
@@ -1126,7 +1293,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "The old town is enclosed by an imposing mud brick wall over two kilometers long.",
         "Was a notorious slave market on the Silk Road for centuries."
       ]
-    }, image: "/poi-images/khiva-cities-v2.webp"},
+    }, image: "/poi-images/khiva-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Das Itchan Kala in Khiva wurde 1990 UNESCO-Weltkulturerbe.", "Kalta Minor bedeutet 'kurzes Minarett' und wurde 1851 begonnen.", "Die Stadtmauer von Itchan Kala ist etwa 2 Kilometer lang.", "Die Dschuma-Moschee in Khiva hat 213 kunstvoll geschnitzte Holzsäulen.", "Khiva feierte 1997 sein 2500-jähriges Bestehen.", "Die Stadt liegt etwa 35 Kilometer südwestlich der Provinzhauptstadt Urganch."],
+      hu: ["Khiva Itchan Kala negyede 1990-ben lett az UNESCO Világörökség része.", "A Kalta Minor jelentése 'rövid minaret', építése 1851-ben kezdődött.", "Itchan Kala városfala körülbelül 2 kilométer hosszú.", "A hívai Péntek-mecsetnek (Dschuma) 213 művészien faragott oszlopa van.", "Khiva 1997-ben ünnepelte fennállásának 2500. évfordulóját.", "A város körülbelül 35 kilométerre délnyugatra fekszik Urganch-tól."],
+      ro: ["Itchan Kala din Khiva a devenit sit UNESCO în anul 1990.", "Kalta Minor înseamnă 'minaret scurt' și construcția sa a început în 1851.", "Zidul cetății Itchan Kala are o lungime de aproximativ 2 kilometri.", "Moscheea Juma din Khiva are 213 stâlpi din lemn sculptați artistic.", "Khiva a sărbătorit 2500 de ani de existență în anul 1997.", "Orașul este situat la aproximativ 35 de kilometri sud-vest de Urganch."],
+      en: ["Khiva's Itchan Kala was designated a UNESCO World Heritage site in 1990.", "The Kalta Minor, meaning 'short minaret,' was started in 1851 but never finished.", "The fortress walls of Itchan Kala stretch for approximately 2 kilometers.", "The Juma Mosque in Khiva features 213 intricately carved wooden pillars.", "Khiva celebrated its 2,500th anniversary in 1997.", "The city is located roughly 35 kilometers southwest of Urganch."],
+    },
+  },
   {
     id: "yangiyul-cities-v2",
     type: "city",
@@ -1171,7 +1345,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "One of the most important satellite cities of the capital Tashkent.",
         "Numerous factories for confectionery and pasta are based here."
       ]
-    }, image: "/poi-images/yangiyul-cities-v2.webp"},
+    }, image: "/poi-images/yangiyul-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Yangiyul erhielt im Jahr 1934 den Status einer Stadt.", "Der Name Yangiyul bedeutet auf Usbekisch 'Neuer Weg'.", "Die Stadt liegt direkt an der Autobahn M39.", "In Yangiyul befindet sich eine der größten Papierfabriken Usbekistans.", "Die Entfernung zum Zentrum von Taschkent beträgt etwa 25 Kilometer.", "Die Stadt dient als Satellitenstadt für die Metropole Taschkent."],
+      hu: ["Yangiyul 1934-ben kapott városi rangot.", "A Yangiyul név üzbégül 'Új Utat' jelent.", "A város közvetlenül az M39-es autópálya mentén fekszik.", "Yangiyulban található Üzbegisztán egyik legnagyobb papírgyára.", "Taskent központjától való távolsága körülbelül 25 kilométer.", "A város Taskent metropoliszának egyik szatellitvárosaként szolgál."],
+      ro: ["Yangiyul a primit statutul de oraș în anul 1934.", "Numele Yangiyul înseamnă 'Calea Nouă' în limba uzbecă.", "Orașul este situat chiar pe autostrada M39.", "În Yangiyul se află una dintre cele mai mari fabrici de hârtie din Uzbekistan.", "Distanța până în centrul capitalei Tașkent este de aproximativ 25 de kilometri.", "Orașul funcționează ca un oraș-satelit pentru metropola Tașkent."],
+      en: ["Yangiyul was formally incorporated as a city in 1934.", "The name 'Yangiyul' literally translates to 'New Path' in Uzbek.", "The city is positioned directly on the M39 international highway.", "One of Uzbekistan's largest paper mills is located within the city.", "It is situated roughly 25 kilometers from downtown Tashkent.", "The city serves as an important industrial satellite to the Tashkent metropolitan area."],
+    },
+  },
   {
     id: "chust-cities-v2",
     type: "city",
@@ -1216,7 +1397,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "One of the oldest settlement sites in the Fergana Valley with prehistoric finds.",
         "Has a charming city park with mineral springs and old tea trees."
       ]
-    }, image: "/poi-images/chust-cities-v2.webp"},
+    }, image: "/poi-images/chust-cities-v2.webp",
+    factsAdvanced: {
+      de: ["In Chust werden seit Jahrhunderten hochwertige Messer (Pichok) hergestellt.", "Die Chust-Doppi zeichnen sich durch ein charakteristisches Pfeffer-Muster (Kalampir) aus.", "Die Stadt liegt am Ufer des Flusses Chustsay.", "Chust gehört zu den ältesten Siedlungen im Fergana-Tal.", "Die Stadt erhielt im Jahr 1969 offiziell das Stadtrecht.", "Der Park von Chust beherbergt eine heilige Quelle und alte Bäume."],
+      hu: ["Chustban évszázadok óta készítenek kiváló minőségű késeket (Pichok).", "A chusti doppi-t jellegzetes paprikaminta (Kalampir) díszíti.", "A város a Chustsay folyó partján fekszik.", "Chust a Fergana-völgy egyik legrégebbi települése.", "A település 1969-ben kapott hivatalosan városi rangot.", "Chust parkjában szent forrás és ősi fák találhatók."],
+      ro: ["În Chust se fabrică de secole cuțite de înaltă calitate (Pichok).", "Doppi-ul de Chust se remarcă prin modelul caracteristic de ardei (Kalampir).", "Orașul este situat pe malul râului Chustsay.", "Chust face parte din cele mai vechi așezări din valea Ferghana.", "Localitatea a primit oficial drepturi de oraș în anul 1969.", "Parcul din Chust găzduiește un izvor sfânt și arbori seculari."],
+      en: ["High-quality knives (Pichok) have been manufactured in Chust for centuries.", "The Chust doppi is distinguished by its characteristic pepper pattern (Kalampir).", "The city is situated along the banks of the Chustsay River.", "Chust is considered among the oldest inhabited sites in the Fergana Valley.", "The settlement was officially granted city status in 1969.", "Chust City Park is home to a sacred spring and ancient trees."],
+    },
+  },
   {
     id: "khodjeyli-cities-v2",
     type: "city",
@@ -1261,7 +1449,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "A historical center of textile processing in Karakalpakstan.",
         "The Gyaur-Kala fortress from the Zoroastrian period is located near Mizdakhan."
       ]
-    }, image: "/poi-images/khodjeyli-cities-v2.webp"},
+    }, image: "/poi-images/khodjeyli-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Khodjeyli liegt etwa 15 Kilometer westlich von Nukus.", "Der antike Mizdakhkan-Komplex umfasst über 200 Hektar Fläche.", "Die Stadt erhielt im Jahr 1926 das Stadtrecht.", "Khodjeyli ist ein wichtiger Halt auf der Bahnstrecke nach Turkmenistan.", "Die Stadt ist bekannt für ihre Textil- und Bekleidungsfabriken.", "Khodjeyli ist eine der ältesten kontinuierlich bewohnten Städte Karakalpakistans."],
+      hu: ["Khodjeyli körülbelül 15 kilométerre nyugatra fekszik Nukustól.", "Az ősi Mizdakhkan komplexum területe meghaladja a 200 hektárt.", "A település 1926-ban kapott városi rangot.", "Khodjeyli a Türkmenisztánba vezető vasútvonal egyik fontos megállója.", "A város híres textil- és ruhagyárairól.", "Khodjeyli Karakalpaksztán egyik legrégebbi, folyamatosan lakott városa."],
+      ro: ["Khodjeyli se află la aproximativ 15 kilometri vest de Nukus.", "Vechiul complex Mizdakhkan acoperă o suprafață de peste 200 de hectare.", "Localitatea a primit statutul de oraș în anul 1926.", "Khodjeyli este o oprire importantă pe magistrala feroviară către Turkmenistan.", "Orașul este cunoscut pentru fabricile sale de textile și confecții.", "Khodjeyli este unul dintre cele mai vechi orașe locuite continuu din Karakalpakstan."],
+      en: ["Khodjeyli is located approximately 15 kilometers west of Nukus.", "The ancient Mizdakhkan complex covers an area of over 200 hectares.", "The city was officially established and granted city status in 1926.", "It serves as a key transit point on the railway line to Turkmenistan.", "The city is a significant center for the textile and garment industry.", "Khodjeyli is among the oldest continuously inhabited urban sites in Karakalpakstan."],
+    },
+  },
   {
     id: "turtkul-cities-v2",
     type: "city",
@@ -1306,7 +1501,14 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "The city had to be moved several times due to flooding of the Amu Darya river.",
         "Turtkul is today an important center for growing cotton and rice."
       ]
-    }, image: "/poi-images/turtkul-cities-v2.webp"},
+    }, image: "/poi-images/turtkul-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Turtkul hieß bis 1920 Petro-Alexandrowsk.", "Die Stadt war von 1932 bis 1939 die Hauptstadt Karakalpakistans.", "Ein großer Teil der ursprünglichen Stadt wurde durch Amudarja-Fluten zerstört.", "Die Stadt liegt etwa 170 Kilometer südöstlich von Nukus.", "Turtkul ist ein Zentrum für den Anbau von Reis und Baumwolle.", "Die Stadt liegt am Rande der Wüste Kyzylkum."],
+      hu: ["Turtkul 1920-ig a Petro-Alexandrovszk nevet viselte.", "A város 1932 és 1939 között Karakalpaksztán fővárosa volt.", "Az eredeti város jelentős részét elpusztították az Amu-darja áradásai.", "A város körülbelül 170 kilométerre délkeletre fekszik Nukustól.", "Turtkul a rizs- és gyapottermesztés egyik központja.", "A város a Kyzylkum-sivatag szélén található."],
+      ro: ["Turtkul s-a numit Petro-Alexandrovsk până în anul 1920.", "Orașul a fost capitala Karakalpakstanului între 1932 și 1939.", "O mare parte din orașul original a fost distrusă de inundațiile Amudariei.", "Orașul este situat la aproximativ 170 de kilometri sud-est de Nukus.", "Turtkul este un centru important pentru cultivarea orezului și bumbacului.", "Orașul se află la marginea deșertului Kîzîlkum."],
+      en: ["Turtkul was known as Petro-Alexandrovsk until 1920.", "The city served as the capital of Karakalpakstan from 1932 to 1939.", "Significant portions of the historic city were destroyed by Amu Darya floods.", "It is located approximately 170 kilometers southeast of Nukus.", "Turtkul is a regional hub for the cultivation of rice and cotton.", "The city sits on the southwestern edge of the Kyzylkum Desert."],
+    },
+  },
   {
     id: "kungrad-cities-v2",
     type: "city",
@@ -1351,6 +1553,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
         "An important hub for the gas pipelines leading from Central Asia to Russia.",
         "The extreme climatic conditions of the region make Kungrad one of the driest places in Uzbekistan."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Wichtiger Eisenbahnknotenpunkt seit den 1950er Jahren", "Zentrum der regionalen Erdgasindustrie", "Historischer Teil des Khanats Chiwa", "Einwohnerzahl liegt bei etwa 80.000 Menschen", "Tor zum Ustyurt-Plateau und zum Aralsee", "Wichtiger Standort für chemische Industrieanlagen"],
+      hu: ["Fontos vasúti csomópont az 1950-es évek óta", "A regionális földgázkitermelés központja", "A Hivai Kánság történelmi része volt", "Népessége körülbelül 80 000 fő", "Az Usztyurt-fennsík és az Aral-tó kapuja", "Jelentős vegyipari létesítmények otthona"],
+      ro: ["Nod feroviar major începând cu anii 1950", "Centru principal pentru industria gazelor naturale", "Fostă parte importantă a Hanatului Khiva", "Populația este de aproximativ 80.000 de locuitori", "Poartă de acces către Platoul Ustiurt și Marea Aral", "Găzduiește instalații industriale chimice semnificative"],
+      en: ["Major railway junction established in the 1950s", "Center of the regional natural gas industry", "Historically part of the Khanate of Khiva", "Population is approximately 80,000 residents", "Gateway to the Ustyurt Plateau and the Aral Sea", "Home to significant chemical industrial plants"],
+    },
   }
 ];

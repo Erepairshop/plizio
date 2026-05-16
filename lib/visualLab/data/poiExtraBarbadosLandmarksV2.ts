@@ -546,6 +546,18 @@ export const barbadosLandmarksV2: POI[] = [
       en: ["Prime Minister's residence", "Built in the early 20th century", "Known for formal gardens", "Designed by Lady Gilbert Carter"],
     },
     imageHint: "Ilaro Court Barbados residence",
+    descriptionAdvanced: {
+      de: "Ilaro Court ist der offizielle Amtssitz des Premierministers von Barbados und befindet sich in Saint Michael. Das Anwesen wurde in den 1920er Jahren von Sir Gilbert Carter, einem ehemaligen Gouverneur, erbaut und zeichnet sich durch eine Mischung aus edwardianischem und karibischem Stil aus. Es ist von weitläufigen Gärten umgeben und dient als Ort für staatliche Empfänge.",
+      hu: "Az Ilaro Court Barbados miniszterelnökének hivatalos rezidenciája, amely Saint Michael egyházközségben található. Az ingatlant az 1920-as években építette Sir Gilbert Carter korábbi kormányzó, stílusa pedig az edwardi és a karibi építészet keveréke. Kiterjedt kertek veszik körül, és fontos állami fogadások helyszínéül szolgál.",
+      ro: "Ilaro Court este reședința oficială a prim-ministrului din Barbados, situată în Saint Michael. Proprietatea a fost construită în anii 1920 de către Sir Gilbert Carter, un fost guvernator, și se distinge printr-un amestec de stil edwardian și caraibian. Este înconjurată de grădini vaste și servește ca loc pentru recepții de stat.",
+      en: "Ilaro Court is the official residence of the Prime Minister of Barbados, located in Saint Michael. The estate was built in the 1920s by Sir Gilbert Carter, a former Governor, and features a blend of Edwardian and Caribbean architectural styles. It is surrounded by extensive gardens and serves as a venue for official state functions.",
+    },
+    factsAdvanced: {
+      de: ["Das Haus wurde im Jahr 1919 entworfen und kurz darauf erbaut.", "Es wurde 1976 zur offiziellen Residenz des Premierministers erklärt.", "Das Anwesen umfasst eine Fläche von etwa 10 Hektar Gartenland.", "Der Name Ilaro stammt von einer Stadt im heutigen Nigeria.", "Sir Gilbert Carter war ein bekannter Kunstsammler und Architekturliebhaber.", "Das Gebäude ist für seine kunstvollen Holzarbeiten und Veranden bekannt."],
+      hu: ["A házat 1919-ben tervezték és az 1920-as évek elején épült fel.", "1976-ban lett a miniszterelnök hivatalos rezidenciája.", "Az ingatlanhoz körülbelül 10 hektárnyi gondozott kert tartozik.", "Az Ilaro név egy nigériai város nevéből származik.", "Sir Gilbert Carter korábban Lagos kormányzójaként is szolgált.", "Az épület híres a kidolgozott fafaragásairól és tágas verandáiról."],
+      ro: ["Casa a fost proiectată în 1919 și construită la scurt timp după aceea.", "A devenit reședința oficială a prim-ministrului în anul 1976.", "Domeniul include aproximativ 10 acri de grădini amenajate.", "Numele Ilaro este derivat de la un oraș din Nigeria de astăzi.", "Sir Gilbert Carter a fost anterior guvernator în Lagos, Nigeria.", "Arhitectura clădirii pune accent pe ventilația naturală prin verande largi."],
+      en: ["The house was designed in 1919 and completed in the early 1920s.", "It became the official prime ministerial residence in 1976.", "The estate encompasses approximately 10 acres of landscaped grounds.", "The name Ilaro is taken from a town in present-day Nigeria.", "Sir Gilbert Carter was a former Governor of Lagos before serving in Barbados.", "The building is noted for its intricate woodwork and wide verandas."],
+    },
   },
   {
     id: "barbados-main-guard-house-landmarks-v2",
@@ -782,6 +794,18 @@ export const barbadosLandmarksV2: POI[] = [
       en: ["Built in 1783", "Former military residence", "Located in Queen's Park", "Houses an art gallery"],
     },
     imageHint: "Queen's Park House Bridgetown Barbados",
+    descriptionAdvanced: {
+      de: "Das Queen's Park House in Bridgetown wurde 1783 als Residenz für den Befehlshaber der britischen Truppen in der Karibik erbaut. Heute ist das historische Gebäude ein kulturelles Zentrum, das eine Kunstgalerie und ein Theater beherbergt. Es liegt im Queen's Park, einer der wichtigsten grünen Lungen der Hauptstadt von Barbados.",
+      hu: "A bridgetowni Queen's Park House 1783-ban épült a brit csapatok karibi parancsnokának rezidenciájaként. Ma a történelmi épület kulturális központként működik, amelynek egy művészeti galéria és egy színház is része. A Queen's Parkban található, amely a barbadosi főváros egyik legfontosabb zöldterülete.",
+      ro: "Queen's Park House din Bridgetown a fost construită în 1783 ca reședință pentru comandantul trupelor britanice din Caraibe. Astăzi, clădirea istorică este un centru cultural care găzduiește o galerie de artă și un teatru. Se află în Queen's Park, unul dintre cele mai importante spații verzi din capitala Barbadosului.",
+      en: "Queen's Park House in Bridgetown was built in 1783 as the residence for the commander of the British troops in the Caribbean. Today, the historic building serves as a cultural hub, housing an art gallery and a theater. It is situated within Queen's Park, one of the most significant green spaces in the capital of Barbados.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude wurde ursprünglich als 'The King's House' bezeichnet.", "Der Queen's Park wurde im Jahr 1909 der Öffentlichkeit zugänglich gemacht.", "Im Park steht ein Baobab-Baum, der über 1000 Jahre alt sein soll.", "Das Haus ist ein herausragendes Beispiel für georgianische Kolonialarchitektur.", "Es beherbergt die Queen's Park Gallery, eine nationale Kunstgalerie.", "Das Daphne Joseph Hackette Theatre befindet sich ebenfalls im Gebäude."],
+      hu: ["Az épületet eredetileg 'The King's House' néven ismerték.", "A Queen's Parkot 1909-ben nyitották meg a nagyközönség előtt.", "A parkban található egy baobab fa, amely több mint 1000 éves.", "A ház a georgiánus stílusú gyarmati építészet kiváló példája.", "Itt működik a Queen's Park Gallery, amely nemzeti művészeti galéria.", "A Daphne Joseph Hackette Színház is az épületben kapott helyet."],
+      ro: ["Clădirea a fost cunoscută inițial sub numele de 'The King's House'.", "Queen's Park a fost deschis publicului larg în anul 1909.", "În parc se află un arbore baobab uriaș, estimat la peste 1000 de ani.", "Casa este un exemplu reprezentativ de arhitectură colonială georgiană.", "Găzduiește Galeria Queen's Park, o instituție de artă națională.", "Teatrul Daphne Joseph Hackette funcționează în cadrul complexului."],
+      en: ["The building was originally known as 'The King's House'.", "Queen's Park was formally opened to the public in 1909.", "The park features a famous Baobab tree estimated to be over 1,000 years old.", "The house is a prime example of Georgian-style colonial architecture.", "It houses the Queen's Park Gallery, a prominent national art venue.", "The Daphne Joseph Hackette Theatre is located within the building."],
+    },
   },
   {
     id: "barbados-mutual-life-assurance-society-building-landmarks-v2",
@@ -801,6 +825,18 @@ export const barbadosLandmarksV2: POI[] = [
       en: ["Victorian architecture", "Distinctive silver domes", "Intricate cast-iron work", "Located on Broad Street"],
     },
     imageHint: "Barbados Mutual Life Building Bridgetown domes",
+    descriptionAdvanced: {
+      de: "Das Gebäude der Barbados Mutual Life Assurance Society ist ein Wahrzeichen von Bridgetown und bekannt für seine markanten silbernen Doppeltürme. Es wurde im späten 19. Jahrhundert erbaut und repräsentiert die viktorianische Pracht der kolonialen Handelsarchitektur. Das Bauwerk befindet sich in der Broad Street, der Haupteinkaufsstraße der Hauptstadt.",
+      hu: "A Barbados Mutual Life Assurance Society épülete Bridgetown egyik jelképe, amely jellegzetes ezüstszínű kettős dómjáról ismert. A 19. század végén épült, és a gyarmati kereskedelmi építészet viktoriánus pompáját képviseli. Az épület a Broad Streeten, a főváros legfontosabb bevásárlóutcájában található.",
+      ro: "Clădirea Barbados Mutual Life Assurance Society este un reper al orașului Bridgetown, cunoscută pentru cupolele sale argintii duble distinctive. Construită la sfârșitul secolului al XIX-lea, aceasta reprezintă splendoarea victoriană a arhitecturii comerciale coloniale. Edificiul este situat pe Broad Street, principala stradă comercială a capitalei.",
+      en: "The Barbados Mutual Life Assurance Society Building is a landmark of Bridgetown, known for its distinctive twin silver domes. Built in the late 19th century, it represents the Victorian grandeur of colonial commercial architecture. The structure is located on Broad Street, the capital city's main commercial thoroughfare.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude wurde zwischen 1894 und 1895 errichtet.", "Die Architektur zeigt starke neugotische und viktorianische Einflüsse.", "Die beiden Kuppeln sind mit echtem Blattsilber oder Silberfarbe verziert.", "Die Barbados Mutual war die älteste Versicherungsgesellschaft der Region.", "Es gehört zum UNESCO-Weltkulturerbe 'Historisches Bridgetown und seine Garnison'.", "Die Fassade besteht aus lokalem Korallenkalkstein."],
+      hu: ["Az épületet 1894 és 1895 között emelték.", "Az építészeten erős neogótikus és viktoriánus hatások figyelhetők meg.", "A két dómot ezüstszínű festékkel tették különlegessé.", "A Barbados Mutual volt a régió legrégebbi biztosítótársasága.", "Része a 'Történelmi Bridgetown és helyőrsége' UNESCO Világörökségnek.", "A homlokzat helyi korallmészkőből készült díszes faragásokkal."],
+      ro: ["Clădirea a fost construită între anii 1894 și 1895.", "Arhitectura prezintă influențe neo-gotice și victoriene proeminente.", "Cele două cupole sunt vopsite într-o nuanță argintie reflectorizantă.", "Societatea a fost cea mai veche companie de asigurări din Indiile de Vest.", "Este o componentă cheie a sitului Patrimoniului Mondial UNESCO din Bridgetown.", "Fațada este realizată din calcar coraligen local sculptat cu migală."],
+      en: ["The building was constructed between 1894 and 1895.", "The architecture displays strong Neo-Gothic and Victorian influences.", "The twin domes are finished with a distinctive silver coating.", "Barbados Mutual was the oldest indigenous insurance company in the region.", "It is a central landmark within the UNESCO World Heritage area of Bridgetown.", "The facade is constructed from locally quarried coral limestone."],
+    },
   },
   {
     id: "barbados-errol-barrow-statue-landmarks-v2",
@@ -820,6 +856,18 @@ export const barbadosLandmarksV2: POI[] = [
       en: ["Honors the Father of Independence", "Located at Independence Square", "Bronze statue", "First Prime Minister of Barbados"],
     },
     imageHint: "Errol Barrow Statue Bridgetown Barbados",
+    descriptionAdvanced: {
+      de: "Die Errol-Barrow-Statue am Independence Square in Bridgetown ehrt den ersten Premierminister und 'Vater der Unabhängigkeit' von Barbados. Das Denkmal wurde am Errol Barrow Day im Jahr 2007 enthüllt und ist ein zentraler Anlaufpunkt für nationale Gedenkfeiern. Die Statue blickt über den Constitution River auf die Parlamentsgebäude.",
+      hu: "A bridgetowni Independence Square-en álló Errol Barrow-szobor Barbados első miniszterelnökének és a 'függetlenség atyjának' állít emléket. Az emlékművet 2007-ben, az Errol Barrow-napon avatták fel, és a nemzeti megemlékezések központi helyszíne. A szobor a Constitution-folyón átívelve a Parlament épületeire tekint.",
+      ro: "Statuia Errol Barrow din Piața Independenței din Bridgetown îl onorează pe primul prim-ministru și 'tatăl independenței' din Barbados. Monumentul a fost dezvelit în Ziua Errol Barrow din anul 2007 și este un punct central pentru celebrările naționale. Statuia privește peste râul Constitution către clădirile Parlamentului.",
+      en: "The Errol Barrow Statue in Independence Square, Bridgetown, honors the first Prime Minister and 'Father of Independence' of Barbados. The monument was unveiled on Errol Barrow Day in 2007 and serves as a central point for national celebrations. The statue gazes across the Constitution River toward the Parliament Buildings.",
+    },
+    factsAdvanced: {
+      de: ["Die Statue wurde am 21. Januar 2007 offiziell enthüllt.", "Errol Barrow führte Barbados im Jahr 1966 in die Unabhängigkeit.", "Der Bildhauer der Bronze-Statue war der Barbadier Karl Broodhagen.", "Sie befindet sich im Herzen der Hauptstadt im Independence Square.", "Barrow wird in einer dynamischen Laufbewegung dargestellt.", "Die Statue ist ein Symbol für Fortschritt und nationale Souveränität."],
+      hu: ["A szobrot 2007. január 21-én avatták fel hivatalosan.", "Errol Barrow vezette Barbados-t a függetlenségbe 1966-ban.", "A bronzszobrot a neves barbadosi művész, Karl Broodhagen készítette.", "Az emlékmű a főváros szívében, a Függetlenség terén található.", "Barrow-t haladó, mozgó testhelyzetben ábrázolták, a fejlődést jelképezve.", "Minden évben itt tartják a miniszterelnök tiszteletére rendezett ünnepségeket."],
+      ro: ["Statuia a fost dezvelită oficial pe 21 ianuarie 2007.", "Errol Barrow a condus Barbados către independență în anul 1966.", "Sculptorul monumentului din bronz a fost artistul local Karl Broodhagen.", "Este amplasată în centrul Pieței Independenței din Bridgetown.", "Figura este reprezentată într-o postură dinamică, simbolizând progresul.", "Locația oferă o vedere directă către clădirile istorice ale Parlamentului."],
+      en: ["The statue was officially unveiled on January 21, 2007.", "Errol Barrow led Barbados to independence from Britain in 1966.", "The bronze statue was sculpted by the acclaimed artist Karl Broodhagen.", "It is situated in Independence Square in the center of Bridgetown.", "Barrow is depicted in a walking pose, signifying his role in national progress.", "The site is the focus of annual commemorations on Errol Barrow Day."],
+    },
   },
   {
     id: "barbados-st-peter-lighthouse-landmarks-v2",
@@ -839,6 +887,18 @@ export const barbadosLandmarksV2: POI[] = [
       en: ["Historical maritime marker", "Located near Speightstown", "Small tower structure", "Former harbor light"],
     },
     imageHint: "Speightstown area lighthouse Barbados",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm von Speightstown, oft mit dem nahegelegenen Harrison Point Lighthouse assoziiert, war historisch entscheidend für die Schifffahrt an der Westküste von Barbados. Speightstown war einst der wichtigste Exporthafen für Zucker, und das Licht leitete die Handelsschiffe sicher in die Bucht. Heute zeugt das Denkmal von der maritimen Bedeutung der Region Saint Peter.",
+      hu: "Speightstown világítótornya, amelyet gyakran a közeli Harrison Point-i toronnyal azonosítanak, történelmileg meghatározó volt Barbados nyugati partjának hajózása számára. Speightstown egykor a legfontosabb cukorexportáló kikötő volt, a fény pedig biztonságosan vezette be a kereskedelmi hajókat az öbölbe. Ma az emlékhely Saint Peter egyházközség tengeri jelentőségét hirdeti.",
+      ro: "Farul din Speightstown, adesea asociat cu farul de la Harrison Point, a fost istoric crucial pentru navigația pe coasta de vest a Barbadosului. Speightstown a fost odată cel mai important port de export pentru zahăr, iar lumina ghida navele comerciale în siguranță în golf. Astăzi, monumentul atestă importanța maritimă a parohiei Saint Peter.",
+      en: "The Speightstown Lighthouse, often associated with the nearby Harrison Point Lighthouse, was historically crucial for navigation on the west coast of Barbados. Speightstown was once the island's busiest sugar export port, and the light guided merchant ships safely into the bay. Today, the landmark stands as a testament to the maritime heritage of the parish of Saint Peter.",
+    },
+    factsAdvanced: {
+      de: ["Harrison Point Lighthouse wurde im Jahr 1925 erbaut.", "Der Turm hat eine Höhe von etwa 26 Metern.", "Er ist einer von nur vier aktiven Leuchttürmen auf Barbados.", "Das Signal war früher für Schiffe aus Richtung Bristol von Bedeutung.", "Der Leuchtturm befindet sich an der nördlichen Spitze von Saint Peter.", "Die Konstruktion besteht aus massivem Beton und Stein."],
+      hu: ["A Harrison Point-i világítótorony 1925-ben épült fel.", "A torony magassága megközelítőleg 26 méter.", "Ez egyike Barbados négy máig aktív világítótornyának.", "A fény jele elengedhetetlen volt a Speightstownba érkező hajóknak.", "A torony Saint Peter egyházközség legészakibb pontján található.", "A szerkezet masszív betonból és kőből készült az időjárás elleni védelemért."],
+      ro: ["Farul de la Harrison Point a fost construit în anul 1925.", "Turnul are o înălțime de aproximativ 26 de metri.", "Este unul dintre cele patru faruri active rămase în Barbados.", "Semnalul luminos era vital pentru navele care intrau în Speightstown.", "Este situat în punctul nordic al parohiei Saint Peter.", "Structura este realizată din beton armat pentru a rezista vânturilor puternice."],
+      en: ["The Harrison Point Lighthouse was constructed in 1925.", "The structure stands at a height of approximately 26 meters.", "It is one of only four remaining active lighthouses in Barbados.", "Historically, it guided ships coming from the Atlantic into the port.", "The lighthouse is located at the northern end of Saint Peter parish.", "The light is visible for up to 22 nautical miles out to sea."],
+    },
   },
   {
     id: "barbados-bridgetown-jewish-cemetery-landmarks-v2",
@@ -858,6 +918,18 @@ export const barbadosLandmarksV2: POI[] = [
       en: ["Oldest Jewish cemetery in the region", "Gravestones from the 17th century", "Part of the synagogue complex", "Historical Hebrew inscriptions"],
     },
     imageHint: "Bridgetown Jewish Cemetery Barbados gravestones",
+    descriptionAdvanced: {
+      de: "Der jüdische Friedhof von Bridgetown ist einer der ältesten seiner Art in der westlichen Hemisphäre und stammt aus der Mitte des 17. Jahrhunderts. Er liegt neben der Nidhe Israel Synagoge und beherbergt Gräber sephardischer Juden, die vor der Verfolgung aus Brasilien flohen. Die Grabsteine mit Inschriften in mehreren Sprachen sind bedeutende Zeugnisse der frühen Kolonialgeschichte.",
+      hu: "A bridgetowni zsidó temető a nyugati félteke egyik legrégebbi ilyen jellegű sírkertje, amely a 17. század közepéről származik. A Nidhe Israel zsinagóga mellett található, és azon szefárd zsidók nyughelye, akik Brazíliából menekültek ide az üldöztetés elől. A többnyelvű feliratokkal ellátott sírkövek a korai gyarmati történelem fontos emlékei.",
+      ro: "Cimitirul evreiesc din Bridgetown este unul dintre cele mai vechi de acest tip din emisfera vestică, datând de la mijlocul secolului al XVII-lea. Este situat lângă Sinagoga Nidhe Israel și adăpostește mormintele evreilor sefarzi care au fugit de persecuție din Brazilia. Pietrele funerare cu inscripții în mai multe limbi sunt mărturii importante ale istoriei coloniale timpurii.",
+      en: "The Bridgetown Jewish Cemetery is one of the oldest of its kind in the Western Hemisphere, dating back to the mid-17th century. It is located adjacent to the Nidhe Israel Synagogue and holds the graves of Sephardic Jews who fled persecution in Brazil. The tombstones, featuring inscriptions in several languages, are significant records of early colonial history.",
+    },
+    factsAdvanced: {
+      de: ["Der Friedhof wurde um das Jahr 1654 angelegt.", "Die Grabsteine sind in Hebräisch, Portugiesisch und Englisch beschriftet.", "Hier ruhen viele Gründungsmitglieder der jüdischen Gemeinde von Barbados.", "Das Gelände wurde in den 1980er Jahren umfassend restauriert.", "Es ist Teil des UNESCO-Weltkulturerbe-Areals von Bridgetown.", "Die ältesten Gräber gehören zu Flüchtlingen aus Recife, Brasilien."],
+      hu: ["A temetőt 1654 körül alapították a szigetre érkező telepesek.", "A sírköveken héber, portugál és angol nyelvű feliratok is olvashatók.", "Sok sír a Brazíliából elüldözött zsidó közösség tagjaié.", "A területet az 1980-as években állította helyre a helyi hitközség.", "Bridgetown UNESCO Világörökségi zónájának szerves részét képezi.", "A sírkert a karibi zsidó diaszpóra egyik legfontosabb emlékhelye."],
+      ro: ["Cimitirul a fost stabilit în jurul anului 1654.", "Pietrele funerare includ inscripții în ebraică, portugheză și engleză.", "Adăpostește mormintele refugiaților evrei din Recife, Brazilia.", "Situl a fost restaurat integral în cursul anilor 1980.", "Face parte din zona protejată UNESCO a orașului istoric Bridgetown.", "Este considerat unul dintre cele mai bine conservate cimitire vechi din regiune."],
+      en: ["The cemetery was established around the year 1654.", "Tombstones feature inscriptions in Hebrew, Portuguese, and English.", "It contains the remains of early Jewish settlers from Recife, Brazil.", "The grounds were extensively restored during the 1980s.", "It is a designated part of the UNESCO World Heritage site of Bridgetown.", "The site provides evidence of the Jewish community's early economic impact."],
+    },
   },
   {
     id: "barbados-speightstown-esplanade-landmarks-v2",
@@ -877,6 +949,18 @@ export const barbadosLandmarksV2: POI[] = [
       en: ["Waterfront promenade", "Sunset viewing spot", "Heart of Speightstown", "Historic harbor district"],
     },
     imageHint: "Speightstown Esplanade Barbados waterfront",
+    descriptionAdvanced: {
+      de: "Die Speightstown Esplanade ist eine malerische Uferpromenade in der zweitältesten Stadt von Barbados. Sie bietet einen freien Blick auf das Karibische Meer und spiegelt den historischen Charme des einstigen Haupthafens 'Little Bristol' wider. Die Esplanade ist ein beliebter Ort für Einheimische und Besucher, um den Sonnenuntergang zu genießen und die Meeresbrise zu spüren.",
+      hu: "A Speightstown Esplanade egy festői tengerparti sétány Barbados második legidősebb városában. Zavartalan kilátást nyújt a Karib-tengerre, és hűen tükrözi az egykori fontos kikötő, 'Little Bristol' történelmi báját. A sétány népszerű helyszín a helyiek és a látogatók körében a naplemente megcsodálására és a tengeri szellő élvezetére.",
+      ro: "Speightstown Esplanade este o faleză pitorească situată în al doilea cel mai vechi oraș din Barbados. Oferă o vedere neîntreruptă spre Marea Caraibilor și reflectă farmecul istoric al fostului port principal cunoscut sub numele de 'Little Bristol'. Esplanada este un loc popular pentru localnici și turiști pentru a admira apusul și a simți briza mării.",
+      en: "The Speightstown Esplanade is a picturesque waterfront promenade in the second-oldest town in Barbados. It offers unobstructed views of the Caribbean Sea and reflects the historic charm of what was once the major port known as 'Little Bristol.' The esplanade is a popular gathering spot for locals and visitors to enjoy the sunset and the sea breeze.",
+    },
+    factsAdvanced: {
+      de: ["Speightstown war im 17. Jahrhundert ein bedeutender Umschlagplatz für Zucker.", "Die Esplanade erstreckt sich entlang der Küstenlinie von Saint Peter.", "Historische Kanonen entlang des Weges erinnern an die Verteidigung der Stadt.", "Der Name 'Little Bristol' stammt von den engen Handelsverbindungen nach England.", "Hier finden regelmäßig kulturelle Veranstaltungen und Märkte statt.", "Die Promenade wurde modernisiert, um den Tourismus in Speightstown zu fördern."],
+      hu: ["Speightstown a 17. században fontos cukorkereskedelmi központ volt.", "A sétány Saint Peter egyházközség partvonala mentén húzódik.", "A kiállított történelmi ágyúk a város egykori védelmi rendszerére utalnak.", "A 'Little Bristol' elnevezés az erős angliai kereskedelmi kapcsolatokból ered.", "A terület gyakran ad otthont helyi kulturális fesztiváloknak.", "Kiváló kilátást nyújt a tengerbe nyúló hagyományos mólókra."],
+      ro: ["Speightstown a fost un centru major de comerț cu zahăr în secolul al XVII-lea.", "Esplanada se întinde de-a lungul liniei de coastă a parohiei Saint Peter.", "Tunuri istorice sunt expuse pe faleză, amintind de apărarea orașului.", "Porecla 'Little Bristol' provine de la legăturile comerciale strânse cu Anglia.", "Zona este un punct focal pentru evenimente comunitare și piețe locale.", "Promenada oferă acces facil la plajele adiacente din Speightstown."],
+      en: ["Speightstown was a major center for the sugar trade in the 17th century.", "The esplanade runs along the scenic coastline of Saint Peter parish.", "Historic cannons are positioned along the walkway for public viewing.", "The name 'Little Bristol' was given due to direct trade with Bristol, UK.", "The area serves as a venue for seasonal festivals and community markets.", "It provides a prime viewing spot for traditional Caribbean sunsets."],
+    },
   },
   {
     id: "barbados-lord-nelson-statue-landmarks-v2",
@@ -896,6 +980,18 @@ export const barbadosLandmarksV2: POI[] = [
       en: ["Formerly 1813 statue site", "Located at Heroes Square", "Removed in 2020", "Older than Nelson's Column in London"],
     },
     imageHint: "National Heroes Square Bridgetown Nelson pedestal",
+    descriptionAdvanced: {
+      de: "Die Lord-Nelson-Statue in Bridgetown war ein bedeutendes Denkmal auf dem Heroes Square, das 1813 zu Ehren des britischen Admirals errichtet wurde. Sie war älter als die berühmte Nelson-Säule in London und galt lange als Symbol der britischen Seeherrschaft in der Karibik. Im Jahr 2020 wurde die Statue von ihrem Sockel entfernt, was einen Wendepunkt in der Auseinandersetzung mit dem kolonialen Erbe markierte.",
+      hu: "A bridgetowni Lord Nelson-szobor a Heroes Square egyik meghatározó emlékműve volt, amelyet 1813-ban emeltek a brit admirális tiszteletére. Régebbi volt, mint a londoni Nelson-oszlop, és sokáig a brit tengeri fölény jelképe volt a Karib-térségben. 2020-ban a szobrot eltávolították talpazatáról, ami fordulópontot jelentett a gyarmati múlttal való szembenézésben.",
+      ro: "Statuia lui Lord Nelson din Bridgetown a fost un monument proeminent în Piața Eroilor, ridicată în 1813 în onoarea amiralului britanic. A fost mai veche decât faimoasa coloană a lui Nelson din Londra și a fost mult timp considerată un simbol al supremației navale britanice în Caraibe. În 2020, statuia a fost îndepărtată de pe soclu, marcând un moment de cotitură în abordarea moștenirii coloniale.",
+      en: "The Lord Nelson Statue in Bridgetown was a prominent monument in Heroes Square, erected in 1813 to honor the British admiral. It predated the famous Nelson's Column in London and was long regarded as a symbol of British naval supremacy in the Caribbean. In 2020, the statue was removed from its pedestal, marking a significant shift in the nation's perspective on its colonial heritage.",
+    },
+    factsAdvanced: {
+      de: ["Die Statue wurde am 22. März 1813 feierlich enthüllt.", "Der Bildhauer war der renommierte Sir Richard Westmacott.", "Sie stand auf dem ehemaligen Trafalgar Square, heute Heroes Square.", "Barbados war das erste Land, das Nelson ein solches Denkmal setzte.", "Die Statue wurde am 16. November 2020 offiziell abgebaut.", "Sie befindet sich heute im Barbados Museum & Historical Society."],
+      hu: ["A szobrot 1813. március 22-én avatták fel ünnepélyes keretek között.", "Az alkotást a neves szobrász, Sir Richard Westmacott készítette.", "A szobor az egykori Trafalgar téren, a mai Hősök terén állt.", "Barbados volt az első hely, ahol Nelsont szoborral tisztelték meg.", "Az emlékművet 2020. november 16-án távolították el a helyéről.", "Jelenleg a Barbados Múzeumban őrzik történeti kiállítási tárgyként."],
+      ro: ["Statuia a fost dezvelită oficial la data de 22 martie 1813.", "Sculptorul a fost renumitul artist britanic Sir Richard Westmacott.", "A fost amplasată în Piața Trafalgar, redenumită ulterior Piața Eroilor.", "Barbados a fost prima colonie care a ridicat un monument dedicat lui Nelson.", "Îndepărtarea statuii a avut loc oficial pe 16 noiembrie 2020.", "În prezent, statuia este expusă la Muzeul și Societatea Istorică din Barbados."],
+      en: ["The statue was formally unveiled on March 22, 1813.", "The bronze work was sculpted by the renowned Sir Richard Westmacott.", "It stood in what was then Trafalgar Square, now National Heroes Square.", "Barbados was the first location to erect a statue in honor of Lord Nelson.", "The statue was removed from the square on November 16, 2020.", "It is now housed within the Barbados Museum & Historical Society."],
+    },
   },
   {
     id: "barbados-pelican-village-landmarks-v2",

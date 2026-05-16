@@ -329,6 +329,18 @@ export const hongkongLandmarksV2: POI[] = [
       en: ["Hosts 'The Hong Kong Story' exhibition", "Founded in the year 1975", "Located next to the Science Museum", "Features 8 galleries on 2 levels"],
     },
     imageHint: "Hong Kong Museum of History building",
+    descriptionAdvanced: {
+      de: "Das Hong Kong Museum of History in Tsim Sha Tsui bietet einen umfassenden Überblick über die Entwicklung der Region von der Urgeschichte bis zur Gegenwart. Die Dauerausstellung „The Hong Kong Story“ erstreckt sich über acht Galerien auf 17.500 Quadratmetern. Mit lebensgroßen Rekonstruktionen und tausenden Artefakten wird das tägliche Leben und die kulturelle Identität Hongkongs anschaulich dargestellt.",
+      hu: "A Tsim Sha Tsui negyedben található Hongkongi Történeti Múzeum átfogó képet nyújt a régió fejlődéséről az őskortól napjainkig. A „Hongkongi történet” című állandó kiállítás nyolc galérián és 17 500 négyzetméteren terül el. Életnagyságú rekonstrukciók és több ezer műtárgy segítségével mutatja be a város mindennapi életét és kulturális identitását.",
+      ro: "Muzeul de Istorie din Hong Kong, situat în Tsim Sha Tsui, oferă o perspectivă vastă asupra evoluției regiunii, din preistorie până în prezent. Expoziția permanentă „Povestea Hong Kong-ului” ocupă opt galerii pe o suprafață de 17.500 mp. Prin reconstrucții la scară naturală și mii de artefacte, muzeul ilustrează viața cotidiană și identitatea locală.",
+      en: "The Hong Kong Museum of History in Tsim Sha Tsui offers a comprehensive overview of the region's development from prehistoric times to the present. Its permanent exhibition, 'The Hong Kong Story', spans eight galleries across 17,500 square metres. Featuring life-sized reconstructions and thousands of artefacts, the museum vividly depicts local daily life and culture.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1975 in Tsim Sha Tsui", "Umzug in das heutige Gebäude im Jahr 1998", "Dauerausstellung umfasst 8 Galerien auf 2 Ebenen", "Gesamtfläche beträgt etwa 17.500 Quadratmeter", "Beherbergt über 90.000 historische Objekte", "Thematisiert Geologie, Volkskunde und Kolonialgeschichte"],
+      hu: ["1975-ben alapították Tsim Sha Tsui negyedben", "1998-ban költözött a jelenlegi épületbe", "Az állandó kiállítás 8 galériából áll 2 szinten", "Teljes területe körülbelül 17 500 négyzetméter", "Több mint 90 000 történelmi tárgyat őriznek itt", "Feldolgozza a geológiát, a néprajzot és a gyarmati kort"],
+      ro: ["Fondat în anul 1975 în districtul Tsim Sha Tsui", "Mutat în actualul sediu în cursul anului 1998", "Expoziția permanentă are 8 galerii pe 2 etaje", "Suprafața totală este de aproximativ 17.500 mp", "Găzduiește peste 90.000 de obiecte istorice", "Acoperă geologia, etnografia și istoria colonială"],
+      en: ["Established in 1975 in Tsim Sha Tsui", "Moved to the current purpose-built site in 1998", "The main exhibition spans 8 galleries on 2 floors", "Total floor area is approximately 17,500 sqm", "Holds a collection of over 90,000 historical items", "Covers geology, folk culture, and colonial history"],
+    },
   },
   {
     id: "hongkong-science-museum-landmarks-v2",

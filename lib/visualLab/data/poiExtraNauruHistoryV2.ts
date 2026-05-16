@@ -19,6 +19,18 @@ export const nauruHistoryV2: POI[] = [
       en: ["Location is 65 meters above sea level", "Remains of anti-aircraft guns", "Strategic observation point in the Pacific War", "Offers a view over the entire island"],
     },
     imageHint: "WWII Japanese cannons on hill Nauru",
+    descriptionAdvanced: {
+      de: "Command Ridge ist der höchste Punkt von Nauru und diente während des Zweiten Weltkriegs als japanische Verteidigungsstellung. Auf dem Kamm befinden sich noch heute zwei massive 12,7-cm-Zwillingsgeschütze, die zur Flugabwehr und Küstenverteidigung eingesetzt wurden. Die verrosteten Relikte zeugen von der brutalen Besatzungszeit zwischen 1942 und 1945. Von hier aus bietet sich ein weiter Blick über die gesamte Insel.",
+      hu: "A Command Ridge Nauru legmagasabb pontja, amely a második világháború alatt japán védelmi állásként szolgált. A gerincen ma is látható két masszív, 12,7 cm-es ikerágyú, amelyeket légvédelemre és partvédelemre használtak. A rozsdás relikviák az 1942 és 1945 közötti brutális megszállási időszakról tanúskodnak. Innen széles kilátás nyílik az egész szigetre.",
+      ro: "Command Ridge este cel mai înalt punct din Nauru și a servit ca poziție defensivă japoneză în timpul celui de-al Doilea Război Mondial. Pe creastă se află și astăzi două tunuri gemene masive de 12,7 cm, folosite pentru apărarea antiaeriană și de coastă. Relicvele ruginite stau mărturie pentru perioada brutală de ocupație dintre 1942 și 1945. De aici se deschide o vedere panoramică asupra întregii insule.",
+      en: "Command Ridge is the highest point of Nauru and served as a Japanese defensive position during World War II. On the ridge, two massive 12.7 cm dual-purpose guns still remain, which were used for anti-aircraft and coastal defense. The rusted relics bear witness to the brutal occupation period between 1942 and 1945. From here, there is a wide view over the entire island.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt (65 Meter)", "Zwei japanische Geschütze erhalten", "Stationiert zwischen 1942-1945", "Teil der Flugabwehr-Batterie", "Überreste eines Fernmeldebunkers", "Liegt im Distrikt Aiwo"],
+      hu: ["Legmagasabb pont (65 méter)", "Két japán ágyú maradt meg", "1942-1945 között állomásoztak itt", "A légvédelmi üteg része volt", "Egy távközlési bunker maradványai", "Aiwo körzetben található"],
+      ro: ["Cel mai înalt punct (65 metri)", "Două tunuri japoneze păstrate", "Staționate între 1942-1945", "Parte a bateriei antiaeriene", "Rămășițele unui buncăr de comunicații", "Situat în districtul Aiwo"],
+      en: ["Highest point at 65 meters", "Two Japanese guns preserved", "Stationed between 1942-1945", "Part of an anti-aircraft battery", "Remnants of a communications bunker", "Located in Aiwo District"],
+    },
   },
   {
     id: "nauru-old-cantilever-history-v2",
@@ -38,6 +50,18 @@ export const nauruHistoryV2: POI[] = [
       en: ["Built during the early colonial era", "Severely damaged during World War II", "Symbol of the 20th-century mining boom", "Used for the export of raw materials"],
     },
     imageHint: "old phosphate loading cantilever Nauru coast",
+    descriptionAdvanced: {
+      de: "Der Old Phosphate Cantilever war die erste große mechanische Verladeanlage der Insel, die vor dem Zweiten Weltkrieg errichtet wurde. Im Dezember 1940 wurde sie durch deutsche Hilfskreuzer schwer beschädigt, was den Phosphat-Export vorübergehend zum Erliegen brachte. Heute stehen nur noch Teile der historischen Stahlkonstruktion als Mahnmal der Industriegeschichte. Sie symbolisiert den frühen Reichtum und die Verletzlichkeit Naurus.",
+      hu: "Az Old Phosphate Cantilever volt a sziget első nagy mechanikus rakodóberendezése, amelyet a második világháború előtt építettek. 1940 decemberében német segédcirkálók súlyosan megrongálták, ami átmenetileg leállította a foszfátexportot. Ma már csak a történelmi acélszerkezet részei állnak az ipartörténet mementójaként. Nauru korai gazdagságát és sebezhetőségét szimbolizálja.",
+      ro: "Vechiul Cantilever de Fosfat a fost prima mare instalație mecanică de încărcare de pe insulă, construită înainte de al Doilea Război Mondial. În decembrie 1940, a fost grav avariat de crucișătoarele auxiliare germane, ceea ce a oprit temporar exportul de fosfat. Astăzi, doar părți din structura istorică de oțel mai stau în picioare ca monument al istoriei industriale. Simbolizează bogăția timpurie și vulnerabilitatea Nauru.",
+      en: "The Old Phosphate Cantilever was the island's first major mechanical loading facility, built before World War II. In December 1940, it was heavily damaged by German auxiliary cruisers, temporarily halting phosphate exports. Today, only parts of the historic steel structure remain as a memorial to industrial history. It symbolizes Nauru's early wealth and vulnerability.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr Ende der 1920er Jahre", "Beschuss durch deutsche Schiffe 1940", "Sitz im Distrikt Aiwo", "Ersetzt durch moderne Anlagen", "Wichtiges Industriedenkmal", "Einst Symbold der BPC-Ära"],
+      hu: ["Az 1920-as évek végén épült", "Német hajók ágyúzták 1940-ben", "Aiwo körzetben található", "Modern berendezésekkel váltották fel", "Fontos ipari műemlék", "A BPC-korszak egykori szimbóluma"],
+      ro: ["Construit la sfârșitul anilor 1920", "Bombardat de nave germane în 1940", "Situat în districtul Aiwo", "Înlocuit de instalații moderne", "Monument industrial important", "Simbol al erei BPC"],
+      en: ["Built in the late 1920s", "Shelled by German ships in 1940", "Located in Aiwo District", "Replaced by modern facilities", "Important industrial monument", "Former symbol of the BPC era"],
+    },
   },
   {
     id: "nauru-pow-memorial-history-v2",
@@ -57,6 +81,18 @@ export const nauruHistoryV2: POI[] = [
       en: ["Commemorates the deportation to Chuuk", "Inaugurated after independence", "Site for annual remembrance ceremonies", "Symbol of national resilience"],
     },
     imageHint: "World War II memorial Nauru Yaren",
+    descriptionAdvanced: {
+      de: "Das POW Memorial erinnert an die Opfer der japanischen Besatzung Naurus während des Zweiten Weltkriegs. Besonders gedacht wird der australischen und nauruischen Gefangenen, die 1943 hingerichtet wurden oder unter brutalen Bedingungen starben. Das Denkmal ist ein Ort der Stille und mahnt an die dunklen Kapitel der Inselgeschichte. Es befindet sich in der Nähe des Hafengebiets von Aiwo.",
+      hu: "A POW Memorial a második világháború alatti japán megszállás áldozatainak állít emléket Naurun. Különösen azokra az ausztrál és naurui foglyokra emlékezik, akiket 1943-ban kivégeztek, vagy brutális körülmények között haltak meg. Az emlékmű a csend helye, és a sziget történelmének sötét fejezeteire figyelmeztet. Az aiwo-i kikötő közelében található.",
+      ro: "Memorialul POW onorează victimele ocupației japoneze din Nauru în timpul celui de-al Doilea Război Mondial. Sunt comemorați în special prizonierii australieni și nauruani care au fost executați în 1943 sau au murit în condiții brutale. Monumentul este un loc de reculegere și amintește de capitolele întunecate ale istoriei insulei. Se află lângă zona portuară din Aiwo.",
+      en: "The POW Memorial commemorates the victims of the Japanese occupation of Nauru during World War II. It specifically honors the Australian and Nauruan prisoners who were executed in 1943 or died under brutal conditions. The memorial is a place of silence and a reminder of the dark chapters in the island's history. It is located near the harbour area of Aiwo.",
+    },
+    factsAdvanced: {
+      de: ["Erinnert an Hinrichtungen 1943", "Gedenkt australischer Beamter", "Ehrung nauruischer Widerständler", "Ort für jährliche Gedenkfeiern", "Liegt im Distrikt Aiwo", "Mahnmal gegen Kriegsverbrechen"],
+      hu: ["Az 1943-as kivégzésekre emlékeztet", "Ausztrál tisztviselők emlékére", "Naurui ellenállók tiszteletére", "Éves megemlékezések helyszíne", "Aiwo körzetben található", "Emlékmű a háborús bűnök ellen"],
+      ro: ["Amintește de execuțiile din 1943", "Comemorează oficialii australieni", "Onoare rezistenței nauruane", "Loc pentru comemorări anuale", "Situat în districtul Aiwo", "Monument împotriva crimelor de război"],
+      en: ["Commemorates 1943 executions", "Honors Australian officials", "Tribute to Nauruan resistors", "Site for annual memorial services", "Located in Aiwo District", "Memorial against war crimes"],
+    },
   },
   {
     id: "nauru-naoero-museum-history-v2",
@@ -76,6 +112,18 @@ export const nauruHistoryV2: POI[] = [
       en: ["Contains traditional handicrafts", "Documents the German colonial era", "Displays remains of war equipment", "Important site for cultural education"],
     },
     imageHint: "Naoero National Museum building Nauru",
+    descriptionAdvanced: {
+      de: "Das Naoero Museum ist das nationale Museum der Republik Nauru und bewahrt das kulturelle Erbe der Insel. Die Ausstellungen umfassen traditionelle Artefakte, Fotografien aus der Kolonialzeit und Exponate zur Geschichte des Phosphatabbaus. Es dient als Bildungszentrum für junge Nauruer, um ihre Identität und Sprache zu bewahren. Das Museum ist trotz seiner bescheidenen Größe ein wichtiger Hüter der lokalen Traditionen.",
+      hu: "A Naoero Múzeum Nauru Köztársaság nemzeti múzeuma, amely a sziget kulturális örökségét őrzi. A kiállítások hagyományos tárgyakat, gyarmati kori fényképeket és a foszfátbányászat történetét bemutató tárgyakat tartalmaznak. Oktatási központként szolgál a fiatal nauruiak számára identitásuk és nyelvük megőrzéséhez. A múzeum szerény mérete ellenére a helyi hagyományok fontos őrzője.",
+      ro: "Muzeul Naoero este muzeul național al Republicii Nauru și păstrează moștenirea culturală a insulei. Expozițiile includ artefacte tradiționale, fotografii din perioada colonială și exponate despre istoria mineritului de fosfat. Servește ca centru educațional pentru tinerii nauruani pentru a-și păstra identitatea și limba. În ciuda dimensiunii sale modeste, muzeul este un custode important al tradițiilor locale.",
+      en: "The Naoero Museum is the national museum of the Republic of Nauru and preserves the island's cultural heritage. The exhibitions include traditional artifacts, photographs from the colonial era, and exhibits on the history of phosphate mining. It serves as an educational center for young Nauruans to preserve their identity and language. Despite its modest size, the museum is an important guardian of local traditions.",
+    },
+    factsAdvanced: {
+      de: ["Bewahrt nauruische Artefakte", "Dokumentiert die Minengeschichte", "Sammlung historischer Fotos", "Fokus auf lokale Handwerkskunst", "Liegt im Distrikt Aiwo", "Zentrum für kulturelle Bildung"],
+      hu: ["Naurui műtárgyakat őriz", "Dokumentálja a bányászat történetét", "Történelmi fotógyűjtemény", "A helyi kézművességre fókuszál", "Aiwo körzetben található", "Kulturális oktatási központ"],
+      ro: ["Păstrează artefacte nauruane", "Documentează istoria minieră", "Colecție de fotografii istorice", "Focus pe meșteșugurile locale", "Situat în districtul Aiwo", "Centru pentru educație culturală"],
+      en: ["Preserves Nauruan artifacts", "Documents the mining history", "Collection of historical photos", "Focus on local craftsmanship", "Located in Aiwo District", "Hub for cultural education"],
+    },
   },
   {
     id: "nauru-anabar-caves-history-v2",
@@ -95,6 +143,18 @@ export const nauruHistoryV2: POI[] = [
       en: ["Contain underground brackish pools", "Used as shelters during World War II", "Significant in local mythology", "Part of the rugged coral plateau"],
     },
     imageHint: "limestone cave entrance Nauru Anabar",
+    descriptionAdvanced: {
+      de: "Die Anabar-Höhlen sind ein System von unterirdischen Kalksteinhöhlen im Nordosten der Insel Nauru. Sie enthalten Brackwasserbecken, die in der Vergangenheit als Trinkwasserquelle und für zeremonielle Zwecke genutzt wurden. Die Höhlen sind von üppiger Vegetation umgeben und bieten Einblick in die geologische Entstehung der Insel. Sie sind tief in der nauruischen Mythologie und Geschichte verwurzelt.",
+      hu: "Az Anabar-barlangok egy földalatti mészkőbarlang-rendszer Nauru szigetének északkeleti részén. Félsós vizű medencéket tartalmaznak, amelyeket a múltban ivóvízforrásként és ünnepi célokra használtak. A barlangokat buja növényzet veszi körül, és betekintést nyújtanak a sziget geológiai kialakulásába. Mélyen gyökereznek a naurui mitológiában és történelemben.",
+      ro: "Peșterile Anabar sunt un sistem de peșteri de calcar subterane în nord-estul insulei Nauru. Acestea conțin bazine cu apă salmastră, folosite în trecut ca sursă de apă potabilă și în scopuri ceremoniale. Peșterile sunt înconjurate de vegetație luxuriantă și oferă o imagine asupra formării geologice a insulei. Ele sunt profund înrădăcinate în mitologia și istoria nauruană.",
+      en: "The Anabar Caves are a system of underground limestone caves in the northeast of Nauru island. They contain brackish water pools that were used in the past as a drinking water source and for ceremonial purposes. The caves are surrounded by lush vegetation and offer insight into the geological formation of the island. They are deeply rooted in Nauruan mythology and history.",
+    },
+    factsAdvanced: {
+      de: ["Natürliche Kalksteinhöhlen", "Enthalten Brackwasser-Lagunen", "Liegen im Distrikt Anabar", "Einst strategische Wasserreserve", "Teil der lokalen Folklore", "Geologisch einzigartig auf Nauru"],
+      hu: ["Természetes mészkőbarlangok", "Félsós vizű lagúnákat tartalmaznak", "Anabar körzetben találhatók", "Egykor stratégiai víztartalék volt", "A helyi folklór része", "Geológiailag egyedülálló Naurun"],
+      ro: ["Peșteri naturale de calcar", "Conțin lagune cu apă salmastră", "Situate în districtul Anabar", "Fostă rezervă strategică de apă", "Parte a folclorului local", "Unice geologic în Nauru"],
+      en: ["Natural limestone cave system", "Contain brackish water lagoons", "Located in Anabar District", "Former strategic water reserve", "Part of local folklore", "Geologically unique on Nauru"],
+    },
   },
   {
     id: "nauru-buada-settlement-site-history-v2",
@@ -114,6 +174,18 @@ export const nauruHistoryV2: POI[] = [
       en: ["The only place with freshwater resources", "Traditional fish farming in the lagoon", "Spared from extensive phosphate mining", "Oldest continuously inhabited region"],
     },
     imageHint: "Buada Lagoon inland settlement Nauru",
+    descriptionAdvanced: {
+      de: "Das Buada Settlement Site liegt am Rande der einzigen Binnenlagune von Nauru und war über Jahrhunderte ein Zentrum des sozialen Lebens. Bevor der großflächige Phosphatabbau begann, war dieses fruchtbare Gebiet die wichtigste landwirtschaftliche Zone der Insel. Hier bauten die Nauruer traditionell Obst und Gemüse an und züchteten Milchfische in der Lagune. Es ist einer der wenigen Orte, der seinen ursprünglichen Charakter teilweise bewahrt hat.",
+      hu: "A Buada Settlement Site Nauru egyetlen belső lagúnájának partján fekszik, és évszázadokon át a társadalmi élet központja volt. Mielőtt a nagyüzemi foszfátbányászat megkezdődött, ez a termékeny terület volt a sziget legfontosabb mezőgazdasági övezete. Itt a nauruiak hagyományosan gyümölcsöt és zöldséget termesztettek, a lagúnában pedig halakat tenyésztettek. Ez az egyik azon kevés helyeknek, amely részben megőrizte eredeti jellegét.",
+      ro: "Așezarea Buada se află pe malul singurei lagune interioare din Nauru și a fost timp de secole un centru al vieții sociale. Înainte de începerea mineritului de fosfat pe scară largă, această zonă fertilă era cea mai importantă zonă agricolă a insulei. Aici nauruanii cultivau tradițional fructe și legume și creșteau pești în lagună. Este unul dintre puținele locuri care și-a păstrat parțial caracterul original.",
+      en: "The Buada Settlement Site is located on the edge of Nauru's only inland lagoon and was for centuries a center of social life. Before large-scale phosphate mining began, this fertile area was the island's most important agricultural zone. Here, Nauruans traditionally grew fruits and vegetables and farmed milkfish in the lagoon. It is one of the few places that has partially preserved its original character.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum des Distrikts Buada", "Fruchtbarstes Gebiet der Insel", "Traditionelle Milchfischzucht", "Einzige Lagune im Binnenland", "Verschont vom direkten Bergbau", "Historischer Siedlungskern"],
+      hu: ["A Buada körzet központja", "A sziget legtermékenyebb területe", "Hagyományos halgazdálkodás", "Az egyetlen belső lagúna", "Megkímélték a közvetlen bányászattól", "Történelmi településmag"],
+      ro: ["Centrul districtului Buada", "Cea mai fertilă zonă a insulei", "Cresterea tradițională a peștilor", "Singura lagună interioară", "Cruțată de minerit direct", "Nucleu istoric de așezare"],
+      en: ["Center of the Buada District", "Most fertile area on the island", "Traditional milkfish farming", "Only inland lagoon in Nauru", "Spared from direct mining", "Historic settlement core"],
+    },
   },
   {
     id: "nauru-phosphate-discovery-site-history-v2",
@@ -133,6 +205,18 @@ export const nauruHistoryV2: POI[] = [
       en: ["Discovered by Albert Ellis in 1900", "Industrial exploitation began in 1906", "Led to enormous wealth in the 1970s", "Origin of the island's ecological changes"],
     },
     imageHint: "phosphate rocks mining landscape Nauru",
+    descriptionAdvanced: {
+      de: "Die Phosphate Discovery Site markiert den Ort, an dem Albert Ellis im Jahr 1900 die wertvollen Phosphatvorkommen der Insel identifizierte. Diese Entdeckung veränderte das Schicksal von Nauru radikal und führte zu einer massiven industriellen Ausbeutung durch koloniale Mächte. Ein Gedenkstein erinnert heute an diesen Wendepunkt der Geschichte, der Nauru sowohl extremen Reichtum als auch ökologische Zerstörung brachte. Es ist der Ursprung der modernen Wirtschaftsgeschichte des Landes.",
+      hu: "A Phosphate Discovery Site azt a helyet jelöli, ahol Albert Ellis 1900-ban azonosította a sziget értékes foszfátkészleteit. Ez a felfedezés gyökeresen megváltoztatta Nauru sorsát, és a gyarmati hatalmak masszív ipari kizsákmányolásához vezetett. Egy emlékkő jelzi ma ezt a történelmi fordulópontot, amely Nauru számára egyszerre hozott extrém gazdagságot és ökológiai pusztítást. Ez az ország modern gazdaságtörténetének eredője.",
+      ro: "Situl Descoperirii Fosfatului marchează locul unde Albert Ellis a identificat prețioasele zăcăminte de fosfat ale insulei în anul 1900. Această descoperire a schimbat radical soarta Nauru și a dus la o exploatare industrială masivă de către puterile coloniale. O piatră memorială amintește astăzi de acest punct de cotitură istoric, care a adus Nauru atât bogăție extremă, cât și distrugere ecologică. Este originea istoriei economice moderne a țării.",
+      en: "The Phosphate Discovery Site marks the spot where Albert Ellis identified the island's valuable phosphate deposits in 1900. This discovery radically changed the fate of Nauru and led to massive industrial exploitation by colonial powers. A memorial stone today commemorates this historical turning point, which brought Nauru both extreme wealth and ecological destruction. It is the origin of the country's modern economic history.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung durch Albert Ellis 1900", "Beginn des Bergbaubooms", "Gedenkstein vor Ort", "Wendepunkt der Inselgeschichte", "Liegt im Distrikt Aiwo", "Führte zur BPC-Gründung"],
+      hu: ["Albert Ellis fedezte fel 1900-ban", "A bányászati bumm kezdete", "Emlékkő található a helyszínen", "Fordulópont a sziget életében", "Aiwo körzetben található", "A BPC megalakulásához vezetett"],
+      ro: ["Descoperit de Albert Ellis în 1900", "Începutul boom-ului minier", "Piatră memorială la fața locului", "Punct de cotitură în istorie", "Situat în districtul Aiwo", "A dus la înființarea BPC"],
+      en: ["Discovered by Albert Ellis in 1900", "Start of the mining boom", "Memorial stone at the site", "Turning point in island history", "Located in Aiwo District", "Led to the formation of BPC"],
+    },
   },
   {
     id: "nauru-state-house-history-v2",
@@ -152,6 +236,18 @@ export const nauruHistoryV2: POI[] = [
       en: ["Built in the late 1960s", "Site of important international treaties", "Architecture in a colonial transition style", "Center of national administration"],
     },
     imageHint: "State House presidential residence Nauru",
+    descriptionAdvanced: {
+      de: "Das Alte Staatshaus in Nauru war der offizielle Amtssitz des Präsidenten der Republik. Es wurde im Jahr 2001 während gewaltsamer Proteste durch Brandstiftung zerstört. Das Gebäude stand symbolisch für die frühe Unabhängigkeitsphase des Inselstaates. Heute sind nur noch Überreste der Struktur zu sehen, die an die politische Geschichte erinnern.",
+      hu: "A naurui Régi Állami Ház a köztársasági elnök hivatalos rezidenciája volt a függetlenség elnyerése után. 2001-ben, politikai zavargások során gyújtogatás áldozata lett és teljesen leégett. Az épület a sziget korai jólétének és kormányzati stabilitásának jelképe volt. Jelenleg romos állapotban látható a sziget nyugati részén.",
+      ro: "Vechea Casă de Stat din Nauru a servit drept reședință oficială a președintelui republicii. Clădirea a fost distrusă în urma unui incendiu provocat în timpul protestelor violente din anul 2001. Aceasta simboliza perioada de început a independenței statului insular. Astăzi, ruinele sale amintesc de momentele de tensiune politică din istoria recentă a țării.",
+      en: "The Old State House in Nauru was the official residence of the President following independence. It was destroyed by arson during a period of civil unrest and political protests in 2001. The building once represented the executive power and early economic prosperity of the nation. Today, the site remains in ruins, serving as a reminder of Nauru's political history.",
+    },
+    factsAdvanced: {
+      de: ["2001 durch Brandstiftung zerstört", "Befindet sich im Distrikt Meneng", "Ehemaliger Amtssitz des Präsidenten", "Symbol der nauruischen Unabhängigkeit", "Ort bedeutender politischer Proteste", "Überreste als historische Stätte"],
+      hu: ["2001-ben gyújtogatás miatt megsemmisült", "Meneng kerületben található", "Az elnök korábbi hivatalos lakhelye", "Nauru függetlenségének szimbóluma", "Jelentős politikai tüntetések helyszíne", "A romok történelmi emlékhelyként állnak"],
+      ro: ["Distrusă prin incendiere în 2001", "Situată în districtul Meneng", "Fosta reședință oficială prezidențială", "Simbol al independenței statului Nauru", "Locul unor proteste politice majore", "Ruinele rămân ca sit istoric"],
+      en: ["Destroyed by arson in 2001", "Located in the Meneng District", "Former official presidential residence", "Symbol of Nauruan independence", "Site of major political protests", "Ruins remain as a historical site"],
+    },
   },
   {
     id: "nauru-japanese-hospital-ruins-history-v2",
@@ -171,6 +267,18 @@ export const nauruHistoryV2: POI[] = [
       en: ["Hidden in dense coral vegetation", "Example of Japanese field architecture", "Served for the care of wounded soldiers", "Abandoned to decay after 1945"],
     },
     imageHint: "overgrown concrete ruins WWII Nauru",
+    descriptionAdvanced: {
+      de: "Die Ruinen des japanischen Krankenhauses stammen aus der Zeit der Besatzung Naurus im Zweiten Weltkrieg. Das Gebäude wurde von den japanischen Streitkräften errichtet, um verwundete Soldaten zu versorgen. Heute sind die Betonstrukturen von der tropischen Vegetation überwuchert. Es ist ein mahnendes Denkmal für die harten Kriegsjahre auf der pazifischen Insel.",
+      hu: "A japán kórház romjai a második világháborús japán megszállás idejéből származnak. Az épületet a japán hadsereg emelte a sebesült katonák és a személyzet ellátására. Napjainkban a betonszerkezeteket sűrű trópusi növényzet borítja a sziget belsejében. A helyszín fontos emlékhely, amely a háború csendes-óceáni eseményeire utal.",
+      ro: "Ruinele spitalului japonez datează din perioada ocupației insulei Nauru în timpul Celui de-al Doilea Război Mondial. Clădirea a fost construită de forțele imperiale japoneze pentru îngrijirea soldaților răniți. În prezent, structurile de beton sunt parțial acoperite de vegetația tropicală luxuriantă. Situl servește ca monument istoric al conflictului global din Pacific.",
+      en: "The Japanese Hospital Ruins date back to the occupation of Nauru during World War II. The structure was built by the Imperial Japanese forces to treat wounded soldiers and personnel. Currently, the concrete remains are largely overgrown by tropical vegetation in the island's interior. It stands as a significant historical site reflecting the impact of the war on the Pacific region.",
+    },
+    factsAdvanced: {
+      de: ["Während des Zweiten Weltkriegs erbaut", "Von japanischen Streitkräften errichtet", "Befindet sich im Inneren der Insel", "Als militärisches Krankenhaus genutzt", "Betonreste der Besatzungszeit", "Von tropischer Vegetation überwuchert"],
+      hu: ["A második világháború alatt épült", "A japán császári erők építették", "A sziget belsejében található", "Katonai orvosi létesítményként szolgált", "A megszállás betonmaradványai", "A trópusi növényzet benőtte a romokat"],
+      ro: ["Construit în timpul celui de-al Doilea Război Mondial", "Edificat de forțele imperiale japoneze", "Situat în interiorul insulei", "Folosit ca facilitate medicală militară", "Rămășițe de beton din timpul ocupației", "Acoperit de vegetație tropicală"],
+      en: ["Built during World War II", "Constructed by Imperial Japanese forces", "Located in the island's interior", "Used as a military medical facility", "Concrete remains of the occupation", "Overgrown by tropical vegetation"],
+    },
   },
   {
     id: "nauru-bpc-office-history-v2",
@@ -190,6 +298,18 @@ export const nauruHistoryV2: POI[] = [
       en: ["Center of the colonial economy", "Managed the raw material exports", "Important historic office building", "Witness to the British-Australian era"],
     },
     imageHint: "old colonial office building Nauru",
+    descriptionAdvanced: {
+      de: "Das BPC-Verwaltungsgebäude war das operative Zentrum der British Phosphate Commissioners auf Nauru. Die 1920 gegründete Organisation verwaltete den intensiven Phosphatabbau, der die Wirtschaft der Insel prägte. Das Gebäude im Kolonialstil diente jahrzehntelang als zentraler Verwaltungspunkt. Es bleibt ein wichtiges Denkmal für die Industriegeschichte und das koloniale Erbe der Nation.",
+      hu: "A BPC adminisztrációs épület a British Phosphate Commissioners műveleti központja volt Naurun. Az 1920-ban alapított szervezet irányította a sziget gazdaságát meghatározó intenzív foszfátkitermelést. A gyarmati stílusú épület évtizedeken át központi igazgatási pontként szolgált. Fontos tájékozódási pont, amely a nemzet ipari múltját és gyarmati örökségét képviseli.",
+      ro: "Clădirea administrativă BPC a fost centrul operațional al Comisarilor Britanici pentru Fosfat din Nauru. Înființată în 1920, organizația a gestionat extracția intensivă de fosfat care a modelat economia insulei. Clădirea în stil colonial a servit drept punct administrativ central timp de decenii. Rămâne un reper cheie ce reprezintă istoria industrială și moștenirea colonială a națiunii.",
+      en: "The BPC Administration Building was the operational hub for the British Phosphate Commissioners on Nauru. Established in 1920, the organization managed the intensive extraction of phosphate that shaped the island's economy. The colonial-style building served as a central administrative point for decades. It remains a key landmark representing the industrial history and colonial heritage of the nation.",
+    },
+    factsAdvanced: {
+      de: ["1920 von der BPC gegründet", "Befindet sich im Distrikt Aiwo", "Verwaltete den Phosphatabbau", "Beispiel für koloniale Architektur", "Jahrzehntelanges Verwaltungszentrum", "Symbol der Industriegeschichte Naurus"],
+      hu: ["1920-ban alapította a BPC", "Aiwo kerületben található", "A foszfátbányászati műveleteket irányította", "A gyarmati stílusú építészet példája", "Évtizedekig tartó adminisztratív központ", "Nauru ipari történelmének szimbóluma"],
+      ro: ["Înființat în 1920 de către BPC", "Situat în districtul Aiwo", "A gestionat operațiunile miniere de fosfat", "Exemplu de arhitectură în stil colonial", "Centru administrativ timp de decenii", "Simbol al istoriei industriale din Nauru"],
+      en: ["Established in 1920 by the BPC", "Located in the Aiwo District", "Managed phosphate mining operations", "Example of colonial-style architecture", "Administrative center for decades", "Symbol of Nauru's industrial history"],
+    },
   },
   {
     id: "nauru-anibare-landing-site-history-v2",
@@ -209,6 +329,18 @@ export const nauruHistoryV2: POI[] = [
       en: ["Site of early trade contacts", "Important for war logistics", "Today the site of a modern harbor", "Largest bay on the island of Nauru"],
     },
     imageHint: "Anibare Bay coast and harbor Nauru",
+    descriptionAdvanced: {
+      de: "Der Anibare-Landeplatz ist ein historisch bedeutsamer Ort an der Ostküste von Nauru. Er diente traditionell als Hauptpunkt für Fischer und lokale Seefahrer, um Zugang zum Ozean zu erhalten. Die Stelle liegt in der Anibare-Bucht, die für ihre tiefen Gewässer und Korallenformationen bekannt ist. Im Laufe der Zeit entwickelte sich der einfache Landeplatz zu einer ausgebauten Hafenanlage der Insel.",
+      hu: "Az Anibare kikötőhely történelmileg jelentős helyszín Nauru keleti partján. Hagyományosan a halászok és a helyi hajósok számára szolgált az óceán elérésének fő pontjaként. A helyszín az Anibare-öbölben található, amely mély vizéről és korallképződményeiről ismert. Az idővel az egyszerű kikötőhely a sziget egyik fejlettebb kikötői létesítményévé alakult át.",
+      ro: "Locul de debarcare Anibare este o locație semnificativă din punct de vedere istoric pe coasta de est a insulei Nauru. În mod tradițional, a servit ca punct principal pentru pescari și navigatorii locali pentru a accesa oceanul. Situl este situat în Golful Anibare, cunoscut pentru apele sale adânci și formațiunile de corali. În timp, s-a transformat dintr-un simplu punct de acces într-un port modern.",
+      en: "The Anibare Landing Site is a historically significant location on the eastern coast of Nauru. It has traditionally served as a primary point for fishermen and local navigators to access the ocean. The site is situated within Anibare Bay, known for its deep waters and coral formations. Over time, it has evolved from a simple landing spot into a more developed harbor facility for the island.",
+    },
+    factsAdvanced: {
+      de: ["An der Ostküste gelegen", "Befindet sich in der Anibare-Bucht", "Traditioneller Zugangspunkt für Fischer", "Tiefster Wasserzugang der Insel", "Im Jahr 2000 zum Hafen ausgebaut", "Wichtig für den lokalen Seeverkehr"],
+      hu: ["A keleti parton található", "Az Anibare-öbölben helyezkedik el", "Hagyományos halászati hozzáférési pont", "A sziget legmélyebb vízi elérése", "2000-ben kikötővé fejlesztették", "Kulcsfontosságú a helyi hajózás számára"],
+      ro: ["Situat pe coasta de est", "Amplasat în Golful Anibare", "Punct tradițional de acces pentru pescari", "Cel mai adânc punct de acces din insulă", "Modernizat ca port în anul 2000", "Critic pentru transportul maritim local"],
+      en: ["Located on the eastern coast", "Situated within Anibare Bay", "Traditional fishing access point", "Deepest water access on the island", "Upgraded to a harbor in 2000", "Critical for local maritime transport"],
+    },
   },
   {
     id: "nauru-aiwo-church-history-v2",
@@ -228,6 +360,18 @@ export const nauruHistoryV2: POI[] = [
       en: ["Founded by European missionaries", "Rebuilt after war destruction", "Center of social life in Aiwo", "Architecture with Pacific influences"],
     },
     imageHint: "historic church building Nauru Aiwo",
+    descriptionAdvanced: {
+      de: "Die historische Kirche von Aiwo ist eines der ältesten religiösen Gebäude auf Nauru und spiegelt die Missionsgeschichte der Insel wider. Im späten 19. Jahrhundert von protestantischen Missionen gegründet, wurde sie zu einer zentralen Säule der lokalen Gemeinschaft. Nach der Zerstörung im Zweiten Weltkrieg wurde die Kirche umfassend wiederaufgebaut. Sie ist bis heute ein aktives Gotteshaus.",
+      hu: "Az Aiwo történelmi templom Nauru egyik legrégebbi vallási építménye, amely a sziget missziós múltját tükrözi. A 19. század végén alapították protestáns misszionáriusok, és a helyi közösség központi pillérévé vált. A templomot a második világháború alatti pusztítás után jelentősen újjáépítették. Napjainkban is aktív imáhelyként szolgál és a hitélet fontos szimbóluma.",
+      ro: "Biserica istorică din Aiwo este una dintre cele mai vechi structuri religioase din Nauru, reflectând istoria misionară a insulei. Înființată de misiunile protestante la sfârșitul secolului al XIX-lea, a devenit un pilon central pentru comunitatea locală. Biserica a fost reconstruită semnificativ după distrugerile din al Doilea Război Mondial. Rămâne un loc de cult activ și un simbol al credinței.",
+      en: "The Aiwo Historic Church is one of the oldest religious structures on Nauru, reflecting the missionary history of the island. Established by Protestant missions in the late 19th century, it became a central pillar for the local community. The church underwent significant reconstruction following the destruction caused during World War II. It remains an active place of worship and a symbol of faith.",
+    },
+    factsAdvanced: {
+      de: ["Im späten 19. Jahrhundert gegründet", "Befindet sich im Distrikt Aiwo", "Von protestantischen Missionaren erbaut", "Im Zweiten Weltkrieg zerstört", "Nach dem Konflikt wiederaufgebaut", "Eine der ältesten Kirchen auf Nauru"],
+      hu: ["A 19. század végén alapították", "Aiwo kerületben található", "Protestáns misszionáriusok alapították", "A második világháború alatt elpusztult", "A konfliktus után újjáépítették", "Nauru egyik legrégebbi temploma"],
+      ro: ["Înființată la sfârșitul secolului XIX", "Situată în districtul Aiwo", "Fondată de misionari protestanți", "Distrusă în timpul celui de-al Doilea Război Mondial", "Reconstruită după încheierea conflictului", "Una dintre cele mai vechi biserici din Nauru"],
+      en: ["Established in the late 19th century", "Located in the Aiwo District", "Founded by Protestant missionaries", "Destroyed during World War II", "Rebuilt after the conflict", "One of the oldest churches on Nauru"],
+    },
   },
   {
     id: "nauru-civil-administration-ruins-history-v2",
@@ -247,6 +391,18 @@ export const nauruHistoryV2: POI[] = [
       en: ["Site of the Australian administration", "Destroyed by air raids in 1940-1942", "Partially visible today", "Shows traces of the mandate period"],
     },
     imageHint: "WWII damaged building ruins Nauru Yaren",
+    descriptionAdvanced: {
+      de: "Die Ruinen der Zivilverwaltung bestehen aus den Überresten von Regierungsgebäuden aus der Kolonialzeit und der frühen Unabhängigkeit. Diese Strukturen waren einst das Herz der Verwaltung und der öffentlichen Dienste der Insel. Viele wurden im Laufe der Zeit aufgrund wirtschaftlicher Verschiebungen beschädigt oder aufgegeben. Heute bieten sie einen Einblick in die bürokratische Geschichte Naurus.",
+      hu: "A polgári közigazgatás romjai a gyarmati és a korai függetlenségi időszakban használt kormányzati épületek maradványai. Ezek a struktúrák egykor a sziget irányításának és adminisztratív szolgáltatásainak központjai voltak. Számos épület az idővel, gazdasági és politikai változások miatt károsodott vagy elhagyatottá vált. Ma bepillantást nyújtanak a csendes-óceáni nemzet bürokratikus múltjába.",
+      ro: "Ruinele administrației civile constau în rămășițele clădirilor guvernamentale folosite în perioada colonială și în primii ani de independență. Aceste structuri au fost cândva inima guvernării și a serviciilor administrative ale insulei. Multe au fost deteriorate sau abandonate în timp din cauza schimbărilor economice. Astăzi, ele oferă o perspectivă asupra istoriei birocratice a acestei națiuni.",
+      en: "The Civil Administration Ruins consist of the remains of government buildings used during the colonial and early independence periods. These structures were once the heart of the island's governance and administrative services. Many were damaged or abandoned over time due to economic shifts and political changes. Today, they provide a glimpse into the bureaucratic history of this small Pacific nation.",
+    },
+    factsAdvanced: {
+      de: ["Stammt aus der Kolonialzeit", "In der frühen Unabhängigkeit genutzt", "Verwaltungszentrum der Regierung", "Durch wirtschaftliche Krisen verfallen", "In Küstennähe gelegen", "Zeugnis früherer Regierungsstrukturen"],
+      hu: ["A gyarmati korszakból származik", "A korai függetlenség alatt használták", "A kormányzati igazgatás központja", "A gazdasági változások miatt lepusztult", "A tengerpart közelében található", "A múltbeli irányítási struktúrák emléke"],
+      ro: ["Datează din epoca colonială", "Folosit în primii ani de independență", "Centru administrativ guvernamental", "Deteriorat în timp de crizele economice", "Situat în apropierea coastei", "Dovadă a vechilor structuri de guvernare"],
+      en: ["Dating from the colonial era", "Used during early independence", "Administrative hub for government", "Damaged over time by economic shifts", "Located near the coast", "Evidence of past governance structures"],
+    },
   },
   {
     id: "nauru-centenary-complex-history-v2",
@@ -266,5 +422,17 @@ export const nauruHistoryV2: POI[] = [
       en: ["Opened in the year 2000", "Center for sports and culture", "Important landmark in Yaren", "Site of national festivities"],
     },
     imageHint: "Centenary Complex government building Nauru",
+    descriptionAdvanced: {
+      de: "Der Centenary-Komplex wurde errichtet, um den hundertsten Jahrestag der Ankunft des nauruischen Volkes oder der Annexion im späten 19. Jahrhundert zu feiern. Diese Mehrzweckanlage umfasst ein Hallenstadion sowie Räume für nationale Feiern und Sportveranstaltungen. Sie dient als wichtiges soziale Infrastruktur für die Bevölkerung. Der Komplex steht für Nationalstolz und Kontinuität.",
+      hu: "A Centenáriumi Komplexumot a naurui nép érkezésének vagy a sziget 19. század végi annektálásának századik évfordulójára építették. Ez a többcélú létesítmény magában foglal egy fedett stadiont, valamint helyszíneket biztosít nemzeti ünnepeknek és sporteseményeknek. Fontos szociális és kulturális központként szolgál a lakosság számára. A komplexum a nemzeti büszkeséget és a történelmi folytonosságot jelképezi.",
+      ro: "Complexul Centenar a fost construit pentru a comemora a suta aniversare a sosirii poporului nauruan sau a anexării de la sfârșitul secolului al XIX-lea. Această locație multifuncțională include un stadion acoperit și spații pentru celebrări naționale și evenimente sportive. Servește ca un hub social și cultural vital pentru populația locală. Complexul reprezintă mândria națională și continuitatea.",
+      en: "The Centenary Complex was built to commemorate the hundredth anniversary of the arrival of the Nauruan people or their annexation in the late 19th century. This multi-purpose venue includes an indoor stadium and spaces for national celebrations and sports events. It serves as a vital social and cultural hub for the local population. The complex represents national pride and historical continuity.",
+    },
+    factsAdvanced: {
+      de: ["1988 zum 100. Jubiläum erbaut", "Befindet sich im Distrikt Denigomodu", "Umfasst ein großes Hallenstadion", "Austragungsort für nationale Sportarten", "Veranstaltungsort für offizielle Feiern", "Kulturelles Wahrzeichen der Gemeinde"],
+      hu: ["1988-ban épült a centenáriumra", "Denigomodu kerületben található", "Egy nagy fedett stadiont tartalmaz", "Nemzeti sportesemények házigazdája", "Hivatalos ünnepségek helyszíne", "A közösség kulturális nevezetessége"],
+      ro: ["Construit în 1988 pentru centenar", "Situat în districtul Denigomodu", "Include un stadion acoperit mare", "Gazdă pentru evenimente sportive naționale", "Loc de desfășurare a celebrărilor oficiale", "Reper cultural pentru comunitate"],
+      en: ["Built in 1988 for the centenary", "Located in the Denigomodu District", "Includes a large indoor stadium", "Host for national sports events", "Venue for official celebrations", "Cultural landmark for the community"],
+    },
   }
 ];

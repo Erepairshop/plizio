@@ -19,6 +19,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Founding stone laid in 1887", "Features two square towers", "Designed by architect Labulle", "Built using local limestone"],
     },
     imageHint: "St. Joseph's Cathedral Noumea facade",
+    descriptionAdvanced: {
+      de: "Die Kathedrale St. Joseph ist ein markantes Wahrzeichen von Nouméa und thront über der Stadt. Das zwischen 1887 und 1897 erbaute Gebäude zeigt klassische neugotische Elemente und wurde von Sträflingen errichtet. Sie ist der Sitz des katholischen Erzbistums und ein Symbol der französischen Präsenz im Pazifik.",
+      hu: "A Szent József-székesegyház Nouméa egyik legfontosabb jelképe, amely a város fölé magasodik. Az 1887 és 1897 között, elítéltek munkájával épült templom klasszikus neogótikus stílusjegyeket visel. A katolikus érsekség székhelyeként a francia jelenlét szimbóluma a Csendes-óceánon.",
+      ro: "Catedrala Sfântul Iosif este un reper emblematic al orașului Nouméa, dominând panorama urbană. Construită între 1887 și 1897 prin munca deținuților, clădirea prezintă elemente neogotice clasice. Este sediul arhiepiscopiei catolice și un simbol al influenței franceze în Pacific.",
+      en: "St. Joseph's Cathedral is a prominent landmark of Nouméa, situated on a hill overlooking the city center. Built between 1887 and 1897 using convict labor, the structure displays classic Neo-Gothic architectural features. It serves as the seat of the Catholic Archdiocese and a symbol of French history.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 10 Jahre (1887-1897)", "Architekt: Entworfen von Labulle", "Material: Stein aus lokalen Steinbrüchen", "Türme: Zwei quadratische Glockentürme", "Lage: Place de l'Hôtel de Ville", "Status: Monument historique seit 1992"],
+      hu: ["Építési idő: 10 év (1887-1897)", "Építész: Labulle tervezte", "Anyaga: Helyi bányákból származó kő", "Tornyok: Két négyszögletes harangtorony", "Helyszín: Place de l'Hôtel de Ville közelében", "Státusz: 1992 óta védett műemlék"],
+      ro: ["Durata construcției: 10 ani (1887-1897)", "Arhitect: Proiectată de Labulle", "Material: Piatră din cariere locale", "Turnuri: Două turnuri clopotniță pătrate", "Locație: Lângă Piața Primăriei", "Statut: Monument istoric din 1992"],
+      en: ["Construction time: 10 years (1887-1897)", "Architect: Designed by Labulle", "Material: Stone from local quarries", "Towers: Features two square bell towers", "Location: Near Place de l'Hôtel de Ville", "Status: Monument historique since 1992"],
+    },
   },
   {
     id: "newcaledonia-tjibaou-cultural-centre-landmarks-v2",
@@ -38,6 +50,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Opened in 1998", "Designed by Renzo Piano", "Built using Iroko wood", "Named after Jean-Marie Tjibaou"],
     },
     imageHint: "Tjibaou Cultural Centre architecture Noumea",
+    descriptionAdvanced: {
+      de: "Das Kulturzentrum Tjibaou in Nouméa ist ein Meisterwerk der modernen Architektur, entworfen von Renzo Piano. Die zehn pavillonartigen Strukturen sind von traditionellen Kanak-Hütten inspiriert und fügen sich harmonisch in die Küstenlandschaft ein. Es widmet sich der Förderung und Erhaltung der Kanak-Kultur.",
+      hu: "A nouméai Tjibaou Kulturális Központ a modern építészet remekműve, amelyet Renzo Piano tervezett. A tíz pavilonból álló épületegyüttest a hagyományos kanak kunyhók ihlették, és harmonikusan illeszkednek a tengerparti tájba. A központ célja a kanak kultúra népszerűsítése és megőrzése.",
+      ro: "Centrul Cultural Tjibaou din Nouméa este o capodoperă a arhitecturii moderne, proiectată de Renzo Piano. Cele zece structuri sub formă de pavilion sunt inspirate de colibele tradiționale Kanak și se integrează în peisajul costier. Centrul este dedicat promovării și conservării culturii Kanak.",
+      en: "The Tjibaou Cultural Centre in Nouméa is a masterpiece of modern architecture designed by Renzo Piano. Its ten pavilion-like structures are inspired by traditional Kanak huts and blend seamlessly into the coastal landscape. The center is dedicated to the celebration and preservation of Kanak culture.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: Juni 1998", "Architekt: Renzo Piano", "Anzahl der Hütten: 10 Pavillons", "Fläche: Etwa 8 Hektar Parkgelände", "Namensgeber: Jean-Marie Tjibaou", "Material: Holz, Stahl und Glas"],
+      hu: ["Megnyitás: 1998 júniusa", "Építész: Renzo Piano", "Pavilonok száma: 10 darab", "Terület: Kb. 8 hektáros park", "Névadó: Jean-Marie Tjibaou", "Anyagok: Fa, acél és üveg ötvözete"],
+      ro: ["Inaugurare: Iunie 1998", "Arhitect: Renzo Piano", "Număr pavilioane: 10 structuri", "Suprafață: Aproximativ 8 hectare", "Nume: După liderul Jean-Marie Tjibaou", "Materiale: Lemn, oțel și sticlă"],
+      en: ["Opened: June 1998", "Architect: Renzo Piano", "Number of 'cases': 10 pavilions", "Site area: Approximately 8 hectares", "Namesake: Jean-Marie Tjibaou", "Materials: Iroko wood, steel, and glass"],
+    },
   },
   {
     id: "newcaledonia-mouli-bridge-landmarks-v2",
@@ -57,6 +81,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Built in 1982", "Replaced an old ferry", "Length of about 150 meters", "Popular spot for turtle watching"],
     },
     imageHint: "Mouli Bridge Ouvea turquoise water",
+    descriptionAdvanced: {
+      de: "Die Mouli-Brücke verbindet die Inseln Lekiny und Mouli auf dem Ouvéa-Atoll und bietet einen spektakulären Blick auf die türkisblaue Lagune. Sie ist ein wichtiger Infrastrukturpunkt für die lokale Gemeinschaft und ein beliebtes Ziel für Naturbeobachtungen. Die Brücke wurde 1982 errichtet und ersetzte eine frühere Fährverbindung.",
+      hu: "A Mouli-híd az Ouvéa-atoll Lekiny és Mouli szigeteit köti össze, lenyűgöző kilátást nyújtva a türkizkék lagúnára. A híd fontos közlekedési csomópont a helyi közösség számára és népszerű hely a természet megfigyelésére. 1982-ben épült, egy korábbi kompjáratot kiváltva.",
+      ro: "Podul Mouli leagă insulele Lekiny și Mouli din atolul Ouvéa, oferind o vedere spectaculoasă asupra lagunei turcoaz. Este un punct de infrastructură vital pentru comunitatea locală și o destinație populară pentru observarea naturii. Podul a fost construit în 1982, înlocuind un feribot.",
+      en: "The Mouli Bridge connects the islands of Lekiny and Mouli within the Ouvéa atoll, offering stunning views of the turquoise lagoon. It serves as a critical infrastructure link for the local community and is a prime spot for viewing marine life. The bridge was completed in 1982, replacing an old ferry service.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1982", "Lage: Ouvéa-Atoll", "Gewässer: Überquert einen Kanal zur Lagune", "Sichtbarkeit: Bekannt für Haie und Rochen", "Länge: Etwa 120 Meter", "Verbindung: Einzige Straße nach Mouli"],
+      hu: ["Építés éve: 1982", "Helyszín: Ouvéa-atoll", "Vízfelület: Csatorna a lagúna felett", "Élővilág: Cápák és ráják gyakran láthatók", "Hossza: Kb. 120 méter", "Szerep: Az egyetlen út Mouli felé"],
+      ro: ["Anul construcției: 1982", "Locație: Atolul Ouvéa", "Traversare: Canal între lagună și ocean", "Observații: Rechini și pisici de mare vizibile", "Lungime: Aproximativ 120 metri", "Importanță: Singura legătură rutieră spre Mouli"],
+      en: ["Year of completion: 1982", "Location: Ouvéa Atoll", "Crossing: Spans a channel to the lagoon", "Wildlife: Known for shark and ray sightings", "Length: Approximately 120 meters", "Connectivity: Only road link to Mouli island"],
+    },
   },
   {
     id: "newcaledonia-noumea-city-hall-landmarks-v2",
@@ -76,6 +112,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Seat of the city administration", "Located at Place des Cocotiers", "Modern architecture", "Center of public celebrations"],
     },
     imageHint: "Noumea City Hall building facade",
+    descriptionAdvanced: {
+      de: "Das Rathaus von Nouméa (Hôtel de Ville) ist ein elegantes historisches Gebäude im Zentrum der Hauptstadt. Ursprünglich im späten 19. Jahrhundert als Bankgebäude errichtet, dient es heute der Stadtverwaltung. Die Architektur spiegelt den französischen Kolonialstil mit klassizistischen Elementen wider.",
+      hu: "Nouméa városházája (Hôtel de Ville) egy elegáns történelmi épület a főváros központjában. Eredetileg banképületnek készült a 19. század végén, ma pedig a városi önkormányzat székhelye. Építészete a francia gyarmati stílust tükrözi klasszicista elemekkel ötvözve.",
+      ro: "Primăria din Nouméa (Hôtel de Ville) este o clădire istorică elegantă situată în centrul capitalei. Construită inițial ca sediu de bancă la sfârșitul secolului al XIX-lea, astăzi găzduiește administrația orașului. Arhitectura reflectă stilul colonial francez cu elemente clasiciste.",
+      en: "Nouméa City Hall (Hôtel de Ville) is an elegant historic building located in the heart of the capital. Originally constructed in the late 19th century as a bank building, it now houses the city's municipal administration. The architecture reflects French colonial style with neoclassical influences.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1874 bis 1875", "Ursprüngliche Nutzung: Bank von Neukaledonien", "Lage: Place des Cocotiers", "Architekturstil: Kolonialer Klassizismus", "Renovierung: Umfangreich im 20. Jahrhundert", "Funktion: Sitz des Bürgermeisters"],
+      hu: ["Építés éve: 1874–1875", "Eredeti funkció: Új-Kaledóniai Bank", "Helyszín: Place des Cocotiers", "Építészeti stílus: Gyarmati klasszicizmus", "Felújítás: Jelentős munkák a 20. században", "Jelenlegi szerep: Polgármesteri hivatal"],
+      ro: ["Anul construcției: 1874-1875", "Utilizare inițială: Banca Noii Caledonii", "Locație: Piața Cocotierilor", "Stil arhitectural: Clasicism colonial", "Renovare: Lucrări majore în secolul XX", "Funcție: Sediul primarului"],
+      en: ["Construction: 1874–1875", "Original use: Bank of New Caledonia", "Location: Place des Cocotiers", "Architectural style: Colonial Neoclassicism", "Renovation: Extensive 20th-century updates", "Function: Mayor's office and administration"],
+    },
   },
   {
     id: "newcaledonia-prony-penal-ruins-landmarks-v2",
@@ -95,6 +143,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Opened in 1867", "Closed in 1911", "Overgrown by banyan trees", "Located in Prony Bay"],
     },
     imageHint: "Prony ruins banyan trees",
+    descriptionAdvanced: {
+      de: "Die Ruinen der Strafkolonie Prony im Süden der Hauptinsel zeugen von der düsteren Geschichte der Deportation nach Neukaledonien. Die Siedlung wurde 1867 gegründet und diente primär dem Abbau von Sandelholz und Nickel. Heute sind die verlassenen Steingebäude teilweise von der tropischen Vegetation überwuchert.",
+      hu: "A Prony büntetőtelep romjai a fősziget déli részén a deportálások sötét korszakának emlékét őrzik. Az 1867-ben alapított településen elítéltek végeztek kényszermunkát a szantálfa-kitermelésben és nikkelbányászatban. Ma az elhagyatott kőépületeket részben már benőtte a trópusi növényzet.",
+      ro: "Ruinele coloniei penitenciare Prony din sudul insulei principale atestă istoria sumbră a deportărilor în Noua Caledonie. Fondată în 1867, așezarea a fost utilizată pentru exploatarea lemnului de santal și a nichelului. Astăzi, clădirile părăsite sunt parțial acoperite de vegetația tropicală.",
+      en: "The Prony penal colony ruins in the south of the main island bear witness to the somber history of deportation to New Caledonia. Established in 1867, the settlement utilized convict labor for sandalwood harvesting and nickel mining. Today, the abandoned stone buildings are partly reclaimed by tropical forest.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1867", "Lage: Baie de Prony", "Schließung: Im Jahr 1911", "Hauptaktivität: Holzfällerei und Bergbau", "Material: Lokaler Stein und Ziegel", "Tourismus: Beliebtes Ziel für Wanderer"],
+      hu: ["Alapítás éve: 1867", "Helyszín: Baie de Prony", "Bezárás éve: 1911", "Fő tevékenység: Fakitermelés és bányászat", "Anyaga: Helyi kő és tégla", "Turizmus: Kedvelt túracélpont"],
+      ro: ["Anul fondării: 1867", "Locație: Golful Prony", "Închiderea coloniei: Anul 1911", "Activitate principală: Exploatare forestieră", "Materiale: Piatră locală și cărămidă", "Accesibilitate: Traseu turistic și istoric"],
+      en: ["Founding year: 1867", "Location: Baie de Prony", "Year of closure: 1911", "Primary activity: Logging and mining", "Materials: Local stone and brickwork", "Current status: Historical and hiking site"],
+    },
   },
   {
     id: "newcaledonia-prison-ile-des-pins-landmarks-v2",
@@ -114,6 +174,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Held deportees starting 1872", "Located near Vao", "Historical heritage of the penal colony", "Now covered by vegetation"],
     },
     imageHint: "Ile des Pins prison ruins convict cemetery",
+    descriptionAdvanced: {
+      de: "Die Gefängnisruinen auf der Île des Pins sind Überreste einer Strafanstalt aus dem 19. Jahrhundert, in der politische Häftlinge interniert wurden. Besonders bekannt ist der Ort für die Unterbringung von Kommunarden nach dem Aufstand in Paris 1871. Die massiven Mauern und Zellen sind heute mahnende Denkmäler der Kolonialgeschichte.",
+      hu: "A Fenyő-sziget (Île des Pins) börtönromjai egy 19. századi büntetőintézet maradványai, ahol politikai foglyokat őriztek. A hely különösen az 1871-es párizsi kommün után oda deportált kommunárok miatt ismert. A masszív falak és cellák ma a gyarmati történelem mementói.",
+      ro: "Ruinele închisorii de pe Insula Pinilor sunt vestigii ale unui penitenciar din secolul XIX, unde au fost internați deținuți politici. Locul este cunoscut pentru găzduirea comunarzilor după insurecția din Paris din 1871. Zidurile masive și celulele sunt astăzi monumente ale istoriei coloniale.",
+      en: "The prison ruins on the Isle of Pines are remains of a 19th-century penal facility used to hold political prisoners. The site is notably associated with the deportation of Communards following the Paris uprising of 1871. The thick walls and cells now serve as haunting reminders of colonial history.",
+    },
+    factsAdvanced: {
+      de: ["Ankunft der Kommunarden: Ab 1872", "Anzahl der Häftlinge: Mehrere Tausend", "Lage: Nahe der Siedlung Vao", "Material: Korallenkalk und Mörtel", "Schließung: Ende des 19. Jahrhunderts", "Status: Historische Ruinenstätte"],
+      hu: ["Kommunárok érkezése: 1872-től", "Foglyok száma: Több ezer fő", "Helyszín: Vao falu közelében", "Anyaga: Korallmészkő és habarcs", "Bezárás: A 19. század végén", "Státusz: Történelmi emlékhely"],
+      ro: ["Sosirea comunarzilor: Din 1872", "Număr de deținuți: Câteva mii", "Locație: Lângă localitatea Vao", "Materiale: Calcar coralier și mortar", "Închidere: Sfârșitul secolului XIX", "Statut: Ruine istorice protejate"],
+      en: ["Arrival of Communards: Starting 1872", "Convict population: Several thousand", "Location: Near the village of Vao", "Construction: Coral limestone and mortar", "Closure: Late 19th century", "Significance: Political prison site"],
+    },
   },
   {
     id: "newcaledonia-hienghene-church-landmarks-v2",
@@ -133,6 +205,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Located in the North Province", "Center of the local community", "Typical colonial construction", "Near Hienghène Bay"],
     },
     imageHint: "Hienghene church exterior",
+    descriptionAdvanced: {
+      de: "Die Kirche von Hienghène im Norden der Hauptinsel ist ein bedeutendes Beispiel für die Missionsarchitektur in Neukaledonien. Sie wurde im 19. Jahrhundert erbaut und zeichnet sich durch ihre schlichte, aber würdevolle Bauweise aus. Die Kirche ist ein spiritueller Mittelpunkt für die lokale Kanak-Bevölkerung der Region.",
+      hu: "A Hienghène-i templom a fősziget északi részén az új-kaledóniai missziós építészet jelentős példája. A 19. században épült templomot egyszerű, de méltóságteljes stílus jellemzi. Az épület a régió helyi kanak lakosságának fontos hitéleti központja.",
+      ro: "Biserica din Hienghène, situată în nordul insulei principale, este un exemplu semnificativ de arhitectură misionară în Noua Caledonie. Construită în secolul al XIX-lea, se remarcă prin designul său simplu, dar impunător. Biserica rămâne un punct central spiritual pentru populația locală Kanak.",
+      en: "Hienghène Church, located in the north of the main island, is a significant example of missionary architecture in New Caledonia. Built in the 19th century, the church features a simple yet dignified design reflecting the era's styles. It continues to be a spiritual focal point for the local Kanak community.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Provinz Nord, Hienghène", "Bauzeit: Spätes 19. Jahrhundert", "Konfession: Römisch-katholisch", "Stil: Koloniale Missionsarchitektur", "Umgebung: Nahe der berühmten Kalksteinfelsen", "Bedeutung: Zentrum der lokalen Pfarrei"],
+      hu: ["Helyszín: Északi tartomány, Hienghène", "Építési idő: 19. század vége", "Felekezet: Római katolikus", "Stílus: Gyarmati missziós stílus", "Környezet: A híres mészkősziklák közelében", "Szerep: A helyi plébánia központja"],
+      ro: ["Locație: Provincia Nord, Hienghène", "Perioada: Sfârșitul secolului XIX", "Confesiune: Romano-catolică", "Stil: Arhitectură misionară colonială", "Context: Aproape de stâncile de calcar", "Funcție: Centru parohial local"],
+      en: ["Location: North Province, Hienghène", "Built: Late 19th century", "Denomination: Roman Catholic", "Style: Colonial missionary architecture", "Setting: Near the famous limestone cliffs", "Role: Parish center for the community"],
+    },
   },
   {
     id: "newcaledonia-tye-mission-church-landmarks-v2",
@@ -152,6 +236,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Founded in 1860", "Formerly an agricultural school", "Center of the Marist mission", "Located near Poindimié"],
     },
     imageHint: "Tye mission church Poindimie",
+    descriptionAdvanced: {
+      de: "Die Tyé-Missionskirche bei Poindimié ist eine der ältesten und historisch bedeutendsten Kirchen Neukaledoniens. Die im 19. Jahrhundert gegründete Mission spielte eine zentrale Rolle bei der Evangelisierung und Ausbildung der lokalen Bevölkerung. Die Architektur verbindet europäische Sakralbaukunst mit lokalen Einflüssen.",
+      hu: "A Poindimié közelében található Tyé missziós templom Új-Kaledónia egyik legrégebbi és legfontosabb egyházi emléke. A 19. században alapított misszió központi szerepet játszott a helyi lakosság oktatásában és hittérítésében. Az építészet az európai szakrális stílust ötvözi helyi hatásokkal.",
+      ro: "Biserica misiunii Tyé de lângă Poindimié este una dintre cele mai vechi și importante biserici din Noua Caledonie. Fondată în secolul al XIX-lea, misiunea a jucat un rol central în evanghelizarea și educația populației locale. Arhitectura îmbină arta sacră europeană cu influențe locale.",
+      en: "The Tyé Mission Church near Poindimié is one of the oldest and most historically significant churches in New Caledonia. Established in the 19th century, the mission played a pivotal role in the education and evangelization of the local population. The architecture blends European sacred design with local influences.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1860", "Lage: Nahe Poindimié", "Besonderheit: Bekannt für Holzschnitzereien", "Bildung: Ehemalige Missionsschule angegliedert", "Material: Stein und tropisches Holz", "Denkmalschutz: Historisches Erbe der Provinz"],
+      hu: ["Alapítás éve: 1860", "Helyszín: Poindimié közelében", "Sajátosság: Híres fafaragványairól", "Oktatás: Egykori missziós iskola tartozott hozzá", "Anyaga: Kő és trópusi fa", "Védettség: Tartományi történelmi örökség"],
+      ro: ["Anul fondării: 1860", "Locație: Lângă Poindimié", "Caracteristică: Cunoscută pentru sculpturi în lemn", "Educație: Fostă școală misionară atașată", "Materiale: Piatră și lemn tropical", "Statut: Patrimoniu istoric provincial"],
+      en: ["Founding year: 1860", "Location: Near Poindimié", "Feature: Known for ornate wood carvings", "History: Former missionary school site", "Materials: Stone and tropical timber", "Status: Provincial historical heritage"],
+    },
   },
   {
     id: "newcaledonia-balade-mission-church-landmarks-v2",
@@ -171,6 +267,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["First mass held in 1843", "Landing site of James Cook", "Site of French possession", "Located in the far north of the island"],
     },
     imageHint: "Balade church New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Kirche von Balade steht an einem historisch bedeutsamen Ort, wo 1843 die erste katholische Mission Neukaledoniens gegründet wurde. Hier landete auch James Cook im Jahr 1774 als erster Europäer auf der Insel. Das heutige Kirchengebäude erinnert an die frühen Anfänge der christlichen Geschichte im Archipe.",
+      hu: "A Balade-i templom történelmi helyszínen áll, ahol 1843-ban Új-Kaledónia első katolikus misszióját alapították. James Cook is itt kötött ki 1774-ben, mint az első európai, aki a szigetre lépett. A mai templomépület az archipelágus keresztény történelmének korai kezdeteire emlékeztet.",
+      ro: "Biserica din Balade se află pe un sit de o mare importanță istorică, unde în 1843 a fost fondată prima misiune catolică din Noua Caledonie. James Cook a debarcat tot aici în 1774, fiind primul european pe insulă. Clădirea actuală comemorează începuturile istoriei creștine în arhipelag.",
+      en: "Balade Church stands on a site of immense historical importance, where the first Catholic mission in New Caledonia was founded in 1843. This is also where James Cook first landed in 1774, making it the site of initial European contact. The current building commemorates the early days of Christian history.",
+    },
+    factsAdvanced: {
+      de: ["Erste Mission: Gegründet am 21. Dezember 1843", "Europäische Entdeckung: James Cook landete 1774", "Lage: Nordostküste der Grande Terre", "Denkmal: Gedenkstein für die Missionare", "Reliquien: Beherbergt Grabstätten früher Priester", "Bedeutung: Geburtsort des Katholizismus im Land"],
+      hu: ["Első misszió: 1843. december 21-én alapítva", "Európai felfedezés: James Cook 1774-ben itt járt", "Helyszín: Grande Terre északkeleti partja", "Emlékmű: Emlékkő a misszionáriusoknak", "Relikviák: Korai papok sírhelyeit őrzi", "Jelentőség: A katolicizmus bölcsője az országban"],
+      ro: ["Prima misiune: Fondată la 21 decembrie 1843", "Descoperire europeană: James Cook a debarcat în 1774", "Locație: Coasta de nord-est a insulei", "Monument: Piatră comemorativă pentru misionari", "Relicve: Adăpostește mormintele primilor preoți", "Semnificație: Locul de naștere al catolicismului local"],
+      en: ["First mission: Founded December 21, 1843", "European contact: James Cook landed in 1774", "Location: Northeast coast of Grande Terre", "Monument: Memorial to the early missionaries", "Burials: Contains graves of pioneer priests", "Significance: Birthplace of local Catholicism"],
+    },
   },
   {
     id: "newcaledonia-tadine-church-landmarks-v2",
@@ -190,6 +298,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Located on Maré island", "Main site of Tadine commune", "Important meeting place for believers", "Simple, sturdy architecture"],
     },
     imageHint: "Tadine Church Mare island",
+    descriptionAdvanced: {
+      de: "Die Kirche von Tadine auf der Insel Maré ist ein wichtiges religiöses Zentrum der Loyalitätsinseln. Sie wurde aus lokalem Korallenkalk erbaut und spiegelt die Verbindung zwischen Kanak-Tradition und christlichem Glauben wider. Tadine ist der Hauptort der Insel und die Kirche prägt das Ortsbild entscheidend mit.",
+      hu: "A Maré szigetén található Tadine temploma a Loyalty-szigetek egyik fontos vallási központja. Helyi korallmészkőből épült, és a kanak hagyományok, valamint a keresztény hit összefonódását tükrözi. Tadine a sziget fő települése, ahol a templom meghatározó látványt nyújt.",
+      ro: "Biserica din Tadine, de pe insula Maré, este un centru religios important din Insulele Loialității. Construită din calcar coralier local, reflectă legătura dintre tradițiile Kanak și credința creștină. Tadine este principala localitate a insulei, iar biserica este un reper vizual major.",
+      en: "Tadine Church on Maré Island is a key religious center within the Loyalty Islands. Constructed using local coral limestone, the building reflects the integration of Kanak traditions with Christian faith. As Tadine is the island's main settlement, the church is a central landmark for the community.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Insel Maré, Ortsteil Tadine", "Material: Korallenstein und Kalk", "Bedeutung: Zentrum der katholischen Gemeinde", "Umgebung: Nahe dem Hafen von Tadine", "Architektur: Schlichter Kolonialstil", "Infrastruktur: Wichtigster Treffpunkt der Insel"],
+      hu: ["Helyszín: Maré sziget, Tadine település", "Anyaga: Korallkő és mész", "Jelentőség: A katolikus közösség központja", "Környezet: A tadine-i kikötő közelében", "Építészet: Egyszerű gyarmati stílus", "Szerep: A sziget egyik fő találkozóhelye"],
+      ro: ["Locație: Insula Maré, localitatea Tadine", "Materiale: Piatră de corali și calcar", "Importanță: Centrul comunității catolice", "Context: Lângă portul din Tadine", "Arhitectură: Stil colonial simplu", "Rol: Principal punct de întâlnire pe insulă"],
+      en: ["Location: Tadine village, Maré Island", "Materials: Coral stone and lime", "Importance: Hub for the Catholic community", "Proximity: Near Tadine's main harbor", "Architecture: Simple colonial design", "Social role: Main gathering place on the island"],
+    },
   },
   {
     id: "newcaledonia-we-church-landmarks-v2",
@@ -209,6 +329,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Located on Lifou island", "Administrative center of the island", "Bright limestone facade", "Near Chateaubriand Bay"],
     },
     imageHint: "We church Lifou island",
+    descriptionAdvanced: {
+      de: "Die katholische Kirche von Wé befindet sich im administrativen Zentrum der Insel Lifou. Das Gebäude zeichnet sich durch seine schlichte Architektur aus, die typisch für die Missionszeit im 19. Jahrhundert ist. Sie dient als wichtiger religiöser und sozialer Treffpunkt für die lokale melanesische Gemeinschaft der Loyalitätsinseln.",
+      hu: "A Wé katolikus templom Lifou szigetének közigazgatási központjában található. Az épület a 19. századi missziós építészet jegyeit hordozza, egyszerű homlokzattal és belső térrel rendelkezik. Fontos vallási és közösségi helyszín a hűség-szigeteki melanéz lakosság számára, kiemelt szerepet játszik a helyi hitéletben.",
+      ro: "Biserica catolică din Wé este situată în centrul administrativ al insulei Lifou. Clădirea reflectă arhitectura misionară din secolul al XIX-lea, având o structură simplă și solidă. Aceasta servește ca punct central de adunare religioasă și socială pentru comunitatea melaneziană locală din Insulele Loialității.",
+      en: "The Catholic Church of Wé is located in the administrative center of Lifou Island. The building features 19th-century missionary architecture with a simple facade and interior design. It serves as a significant religious and social gathering place for the local Melanesian community in the Loyalty Islands.",
+    },
+    factsAdvanced: {
+      de: ["Die Kirche befindet sich im Dorf Wé auf der Insel Lifou.", "Lifou ist die größte der vier Loyalitätsinseln.", "Das Gebäude wurde während der katholischen Missionswelle errichtet.", "Wé ist der Sitz der Provinzverwaltung der Loyalitätsinseln.", "Die Architektur nutzt lokale Materialien kombiniert mit europäischen Techniken.", "Die Kirche ist dem heiligen Petrus gewidmet."],
+      hu: ["A templom Wé faluban, Lifou szigetén található.", "Lifou a legnagyobb a négy Hűség-sziget közül.", "Az épület a katolikus missziók idején épült.", "Wé városa a Hűség-szigetek tartományi székhelye.", "Az építészet helyi anyagokat és európai technikákat ötvöz.", "A templomot Szent Péter tiszteletére szentelték fel."],
+      ro: ["Biserica se află în satul Wé de pe insula Lifou.", "Lifou este cea mai mare dintre cele patru Insule ale Loialității.", "Clădirea a fost construită în perioada misiunilor catolice.", "Wé este sediul administrativ al provinciei Insulelor Loialității.", "Arhitectura combină materiale locale cu tehnici europene.", "Biserica este dedicată Sfântului Petru."],
+      en: ["The church is located in Wé village on Lifou Island.", "Lifou is the largest of the four Loyalty Islands.", "The building was constructed during the era of Catholic missions.", "Wé is the administrative seat of the Loyalty Islands province.", "The architecture combines local materials with European techniques.", "The church is dedicated to Saint Peter."],
+    },
   },
   {
     id: "newcaledonia-kiosque-musique-landmarks-v2",
@@ -228,6 +360,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Built in 1879", "Center of Place des Cocotiers", "Venue for concerts and markets", "Classic metal construction"],
     },
     imageHint: "Kiosque a Musique Place des Cocotiers Noumea",
+    descriptionAdvanced: {
+      de: "Der Musikpavillon auf dem Place des Cocotiers in Nouméa wurde im Jahr 1879 errichtet. Das filigrane gusseiserne Bauwerk ist ein Wahrzeichen der Stadt und zeugt von der kolonialen Stadtplanung des 19. Jahrhunderts. Er dient auch heute noch als Ort für kulturelle Veranstaltungen und Konzerte im Herzen der neukaledonischen Hauptstadt.",
+      hu: "A Nouméa szívében, a Place des Cocotiers téren álló zenepavilon 1879-ben épült. A kovácsoltvas szerkezet a város egyik legismertebb jelképe, amely a 19. századi gyarmati várostervezés emléke. Napjainkban is kulturális események és koncertek helyszínéül szolgál Új-Kaledónia fővárosának központjában.",
+      ro: "Chioșcul de muzică din Piața Cocotierilor din Nouméa a fost construit în anul 1879. Structura filigranată din fontă este un simbol al orașului și o mărturie a planificării urbane coloniale din secolul al XIX-lea. Acesta servește și astăzi ca loc pentru evenimente culturale și concerte în inima capitalei Noii Caledonii.",
+      en: "The Bandstand of Place des Cocotiers in Nouméa was constructed in 1879. This delicate cast-iron structure is a landmark of the city and reflects 19th-century colonial urban planning. It continues to serve as a venue for cultural events and concerts in the heart of the New Caledonian capital.",
+    },
+    factsAdvanced: {
+      de: ["Der Pavillon wurde am 13. Juli 1879 eingeweiht.", "Er befindet sich auf dem zentralen Place des Cocotiers.", "Das Bauwerk besteht primär aus Gusseisen.", "Es wurde in Frankreich vorgefertigt und nach Nouméa verschifft.", "Der Pavillon ist ein zentraler Punkt des städtischen Lebens.", "Er wurde im Laufe der Jahre mehrfach originalgetreu restauriert."],
+      hu: ["A pavilont 1879. július 13-án avatták fel.", "A központi Place des Cocotiers téren helyezkedik el.", "A szerkezet elsősorban öntöttvasból készült.", "Franciaországban gyártották le előre, majd hajón szállították Nouméába.", "A pavilon a városi társasági élet egyik központi eleme.", "Az évek során többször is az eredeti tervek szerint restaurálták."],
+      ro: ["Chioșcul a fost inaugurat la 13 iulie 1879.", "Se află în centrul Pieței Cocotierilor.", "Structura este realizată în principal din fontă.", "A fost prefabricat în Franța și expediat la Nouméa cu nava.", "Pavilionul este un punct central al vieții sociale urbane.", "A fost restaurat de mai multe ori conform planurilor originale."],
+      en: ["The bandstand was inaugurated on July 13, 1879.", "It is located in the central Place des Cocotiers.", "The structure is primarily made of cast iron.", "It was prefabricated in France and shipped to Nouméa.", "The pavilion is a central point of urban social life.", "It has been restored several times over the years to its original state."],
+    },
   },
   {
     id: "newcaledonia-celeste-fountain-landmarks-v2",
@@ -247,6 +391,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Inaugurated in 1893", "Named after a young woman", "Zero point for distance markers", "Located at Place des Cocotiers"],
     },
     imageHint: "Fontaine Celeste Noumea",
+    descriptionAdvanced: {
+      de: "Die Fontaine Céleste befindet sich auf dem Place des Cocotiers in Nouméa und wurde 1893 eingeweiht. Der Brunnen markiert den historischen Moment, als die Stadt erstmals an das moderne Wassernetz angeschlossen wurde. Das Denkmal zeigt eine Frauenfigur, die das fließende Wasser symbolisiert und ist ein bedeutendes Beispiel kolonialer Bildhauerkunst.",
+      hu: "A Fontaine Céleste Nouméa főterén, a Place des Cocotiers-n található, és 1893-ban avatták fel. A szökőkút azt a történelmi pillanatot jelzi, amikor a várost először csatlakoztatták a modern vízhálózathoz. Az emlékmű egy nőalakot ábrázol, amely a folyóvizet szimbolizálja, és a gyarmati szobrászat egyik jelentős példája.",
+      ro: "Fontaine Céleste este situată în Piața Cocotierilor din Nouméa și a fost inaugurată în 1893. Fântâna marchează momentul istoric când orașul a fost conectat pentru prima dată la rețeaua modernă de apă. Monumentul înfățișează o figură feminină care simbolizează apa curgătoare și este un exemplu important de sculptură colonială.",
+      en: "The Celeste Fountain is located in Place des Cocotiers in Nouméa and was inaugurated in 1893. The fountain marks the historical moment when the city was first connected to the modern water supply network. The monument depicts a female figure symbolizing flowing water and is a significant example of colonial sculpture.",
+    },
+    factsAdvanced: {
+      de: ["Der Brunnen wurde am 2. Juli 1893 eingeweiht.", "Er wurde vom Bildhauer Jean-Baptiste-Victor-Léonard Mahuet entworfen.", "Das Denkmal feiert die Fertigstellung der Wasserleitung vom Yahoué.", "Die Skulptur besteht aus weißem Marmor.", "Der Brunnen befindet sich auf dem Square Feillet.", "Er ist nach der Tochter des damaligen Bürgermeisters benannt."],
+      hu: ["A szökőkutat 1893. július 2-án avatták fel.", "Jean-Baptiste-Victor-Léonard Mahuet szobrász tervezte.", "Az emlékmű a Yahoué folyótól érkező vízvezeték befejezését ünnepli.", "A szobor fehér márványból készült.", "A szökőkút a Square Feillet területén található.", "A kutat az akkori polgármester lányáról nevezték el."],
+      ro: ["Fântâna a fost inaugurată la 2 iulie 1893.", "A fost proiectată de sculptorul Jean-Baptiste-Victor-Léonard Mahuet.", "Monumentul celebrează finalizarea conductei de apă de la Yahoué.", "Sculptura este realizată din marmură albă.", "Fântâna se află în scuarul Feillet.", "Este numită după fiica primarului de la acea vreme."],
+      en: ["The fountain was inaugurated on July 2, 1893.", "It was designed by sculptor Jean-Baptiste-Victor-Léonard Mahuet.", "The monument celebrates the completion of the water pipe from Yahoué.", "The sculpture is made of white marble.", "The fountain is situated in Square Feillet.", "It is named after the daughter of the mayor at the time."],
+    },
   },
   {
     id: "newcaledonia-monument-to-the-dead-landmarks-v2",
@@ -266,6 +422,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Site of official ceremonies", "Built after World War I", "Commemorative plaques with names", "Located near the city hall"],
     },
     imageHint: "Monument aux Morts Noumea",
+    descriptionAdvanced: {
+      de: "Das Monument aux Morts in Nouméa ist ein Gedenkort für die neukaledonischen Soldaten, die im Ersten Weltkrieg gefallen sind. Es wurde in den 1920er Jahren errichtet und befindet sich an einer prominenten Stelle in der Nähe der Küste. Das Denkmal dient als zentraler Ort für nationale Gedenkfeiern und ehrt die Opfer des Pazifik-Bataillons.",
+      hu: "A nouméai Monument aux Morts az első világháborúban elesett új-kaledóniai katonák emlékhelye. Az 1920-as években épült, és a tengerpart közelében, egy jól látható helyen található. Az emlékmű a nemzeti megemlékezések központi helyszíne, és a Csendes-óceáni Zászlóalj áldozatai előtt tiszteleg.",
+      ro: "Monumentul celor morți din Nouméa este un loc de comemorare pentru soldații din Noua Caledonie care au căzut în Primul Război Mondial. A fost construit în anii 1920 și se află într-un loc proeminent lângă coastă. Monumentul servește ca loc central pentru ceremoniile naționale de comemorare și onorează sacrificiul Batalionului din Pacific.",
+      en: "The Monument to the Dead in Nouméa is a memorial site for New Caledonian soldiers who fell during World War I. Built in the 1920s, it is located in a prominent position near the coast. The monument serves as a central venue for national commemorative ceremonies and honors the sacrifices of the Pacific Battalion.",
+    },
+    factsAdvanced: {
+      de: ["Das Denkmal wurde am 24. Mai 1924 eingeweiht.", "Es ehrt die Soldaten des Ersten Weltkriegs.", "Später wurden auch Namen von Gefallenen des Zweiten Weltkriegs hinzugefügt.", "Es befindet sich an der Avenue de la Victoire.", "Das Denkmal zeigt eine allegorische Bronzestatue des Sieges.", "Jährlich findet hier am 11. November eine Zeremonie statt."],
+      hu: ["Az emlékművet 1924. május 24-én avatták fel.", "Az első világháború katonáinak állít emléket.", "Később a második világháború áldozatainak neveit is hozzáadták.", "Az Avenue de la Victoire úton található.", "Az emlékmű a Győzelem allegorikus bronzszobrát ábrázolja.", "Minden év november 11-én ünnepséget tartanak itt."],
+      ro: ["Monumentul a fost inaugurat la 24 mai 1924.", "Onorează soldații din Primul Război Mondial.", "Ulterior, au fost adăugate și numele celor căzuți în Al Doilea Război Mondial.", "Se află pe bulevardul Avenue de la Victoire.", "Monumentul prezintă o statuie alegorică din bronz a Victoriei.", "Anual, pe 11 noiembrie, are loc aici o ceremonie."],
+      en: ["The monument was inaugurated on May 24, 1924.", "It honors soldiers from the First World War.", "Names of those fallen in World War II were added later.", "It is located on Avenue de la Victoire.", "The memorial features an allegorical bronze statue of Victory.", "A ceremony is held here every year on November 11th."],
+    },
   },
   {
     id: "newcaledonia-olry-statue-landmarks-v2",
@@ -285,6 +453,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Admiral Jean-Louis Olry", "Located at Place des Cocotiers", "Bronze statue on a pedestal", "Colonial-era monument"],
     },
     imageHint: "Olry statue Noumea",
+    descriptionAdvanced: {
+      de: "Die Olry-Statue in Nouméa ehrt Admiral Jean-Baptiste Olry, der von 1878 bis 1880 Gouverneur von Neukaledonien war. Das Denkmal wurde errichtet, um seine Rolle bei der Niederschlagung des großen Kanak-Aufstandes von 1878 unter der Führung von Häuptling Ataï zu würdigen. Die Bronzestatue ist ein historisches Zeugnis der komplexen und oft konfliktgeladenen Kolonialgeschichte der Insel.",
+      hu: "A nouméai Olry-szobor Jean-Baptiste Olry admirálisnak állít emléket, aki 1878 és 1880 között volt Új-Kaledónia kormányzója. Az emlékművet azért állították, hogy elismerjék szerepét az 1878-as nagy kanak felkelés leverésében, amelyet Ataï főnök vezetett. A bronzszobor a sziget összetett és gyakran konfliktusokkal teli gyarmati történelmének történelmi tanúja.",
+      ro: "Statuia Olry din Nouméa îl onorează pe amiralul Jean-Baptiste Olry, care a fost guvernator al Noii Caledonii între 1878 și 1880. Monumentul a fost ridicat pentru a recunoaște rolul său în reprimarea marii revolte kanak din 1878, condusă de căpetenia Ataï. Statuia de bronz este o mărturie istorică a istoriei coloniale complexe și adesea conflictuale a insulei.",
+      en: "The Olry Statue in Nouméa honors Admiral Jean-Baptiste Olry, who served as Governor of New Caledonia from 1878 to 1880. The monument was erected to recognize his role in suppressing the great Kanak revolt of 1878, led by Chief Ataï. The bronze statue stands as a historical witness to the island's complex and often conflict-ridden colonial history.",
+    },
+    factsAdvanced: {
+      de: ["Admiral Jean-Baptiste Olry war Marineoffizier und Gouverneur.", "Die Statue wurde 1897 auf dem Place des Cocotiers aufgestellt.", "Sie wurde vom Bildhauer Denys Puech geschaffen.", "Olry leitete die militärischen Operationen gegen den Aufstand von 1878.", "Das Denkmal ist Teil des historischen Rundgangs in Nouméa.", "Im Jahr 2021 gab es Debatten über die Entfernung oder Umgestaltung des Denkmals."],
+      hu: ["Jean-Baptiste Olry admirális tengerésztiszt és kormányzó volt.", "A szobrot 1897-ben állították fel a Place des Cocotiers téren.", "Denys Puech szobrászművész alkotása.", "Olry irányította az 1878-as felkelés elleni katonai műveleteket.", "Az emlékmű a nouméai történelmi útvonal része.", "2021-ben viták folytak az emlékmű eltávolításáról vagy átalakításáról."],
+      ro: ["Amiralul Jean-Baptiste Olry a fost ofițer de marină și guvernator.", "Statuia a fost amplasată în Piața Cocotierilor în 1897.", "A fost creată de sculptorul Denys Puech.", "Olry a condus operațiunile militare împotriva revoltei din 1878.", "Monumentul face parte din traseul istoric din Nouméa.", "În 2021, au existat dezbateri privind eliminarea sau recontextualizarea monumentului."],
+      en: ["Admiral Jean-Baptiste Olry was a naval officer and governor.", "The statue was erected in Place des Cocotiers in 1897.", "It was created by the sculptor Denys Puech.", "Olry led the military operations against the 1878 revolt.", "The monument is part of the historical heritage tour in Nouméa.", "In 2021, there were debates regarding the removal or redesign of the monument."],
+    },
   },
   {
     id: "newcaledonia-theatre-ile-landmarks-v2",
@@ -304,6 +484,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Formerly a prison building", "Opened as a theatre in 1970", "Located on Nouville", "Cultural center of Nouméa"],
     },
     imageHint: "Theatre de l'Ile Noumea Nouville",
+    descriptionAdvanced: {
+      de: "Das Théâtre de l'Île befindet sich auf der Halbinsel Nouville und ist in einem historischen Steingebäude untergebracht, das ursprünglich als Teil des Straflagers diente. Das im 19. Jahrhundert errichtete Bauwerk fungierte als Bäckerei und Werkstatt für das Gefängnis, bevor es in ein Kulturzentrum umgewandelt wurde. Heute ist es eine der wichtigsten Bühnen Neukaledoniens.",
+      hu: "A Théâtre de l'Île a Nouville-félszigeten található, egy olyan történelmi kőépületben, amely eredetileg a fegyenctelep része volt. A 19. században emelt épület pékségként és műhelyként szolgált a börtön számára, mielőtt kulturális központtá alakították volna. Ma Új-Kaledónia egyik legfontosabb színházi helyszíne.",
+      ro: "Théâtre de l'Île este situat în peninsula Nouville și este găzduit într-o clădire istorică din piatră care a făcut parte inițial din colonie penală. Construită în secolul al XIX-lea, clădirea a funcționat ca brutărie și atelier pentru închisoare înainte de a fi transformată în centru cultural. Astăzi este una dintre cele mai importante scene din Noua Caledonie.",
+      en: "The Théâtre de l'Île is located on the Nouville peninsula and is housed in a historical stone building that was originally part of the penal colony. Built in the 19th century, the structure functioned as a bakery and workshop for the prison before being transformed into a cultural center. Today, it is one of New Caledonia's premier performing arts venues.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebäude wurde zwischen 1875 und 1880 errichtet.", "Ursprünglich war es das Verpflegungslager des Straflagers.", "Die Umwandlung in ein Theater erfolgte in den 1970er Jahren.", "Es wurde am 12. Mai 1970 offiziell als Theater eröffnet.", "Das Gebäude steht seit 1975 unter Denkmalschutz.", "Die Kapazität des Theaters beträgt etwa 350 Sitzplätze."],
+      hu: ["Az épület 1875 és 1880 között épült.", "Eredetileg a fegyenctelep élelmezési raktára volt.", "A színházzá alakítás az 1970-es években történt.", "1970. május 12-én nyitották meg hivatalosan színházként.", "Az épület 1975 óta műemléki védelem alatt áll.", "A színház befogadóképessége körülbelül 350 fő."],
+      ro: ["Clădirea a fost construită între 1875 și 1880.", "Inițial a fost depozitul de provizii al coloniei penale.", "Transformarea în teatru a avut loc în anii 1970.", "A fost inaugurat oficial ca teatru la 12 mai 1970.", "Clădirea este clasificată ca monument istoric din 1975.", "Capacitatea teatrului este de aproximativ 350 de locuri."],
+      en: ["The building was constructed between 1875 and 1880.", "It was originally the provisioning warehouse of the penal colony.", "The conversion into a theater took place in the 1970s.", "It was officially opened as a theater on May 12, 1970.", "The building has been classified as a historical monument since 1975.", "The theater has a seating capacity of approximately 350 people."],
+    },
   },
   {
     id: "newcaledonia-paita-railway-station-landmarks-v2",
@@ -323,6 +515,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Railway operated until 1940", "Nouméa-Païta line", "Length of 29 kilometers", "Historical industrial heritage"],
     },
     imageHint: "Paita railway station ruins",
+    descriptionAdvanced: {
+      de: "Die Ruinen des Bahnhofs von Païta sind die Endstation der einzigen Eisenbahnlinie, die jemals in Neukaledonien existierte. Die Strecke verband zwischen 1904 und 1939 Nouméa mit Païta und wurde hauptsächlich für den Transport von Bergbauprodukten und landwirtschaftlichen Gütern genutzt. Heute erinnern nur noch wenige Steinmauern und Plattformen an dieses kurze Kapitel der Verkehrsgeschichte.",
+      hu: "A païtai vasútállomás romjai az egyetlen Új-Kaledóniában létezett vasútvonal végállomását jelzik. A 1904 és 1939 között működő vonal Nouméát kötötte össze Païtával, és főként bányászati termékek és mezőgazdasági áruk szállítására használták. Ma már csak néhány kőfal és peron emlékeztet a közlekedéstörténet e rövid fejezetére.",
+      ro: "Ruinele gării din Païta reprezintă stația terminus a singurei linii de cale ferată care a existat vreodată în Noua Caledonie. Linia, care a funcționat între 1904 și 1939, lega Nouméa de Païta și era utilizată în principal pentru transportul produselor miniere și agricole. Astăzi, doar câteva ziduri de piatră și platforme mai amintesc de acest scurt capitol din istoria transporturilor.",
+      en: "The ruins of the Païta Railway Station mark the terminus of the only railway line that ever existed in New Caledonia. Operating between 1904 and 1939, the line connected Nouméa with Païta and was primarily used for transporting mining products and agricultural goods. Today, only a few stone walls and platforms remain to recall this brief chapter of transportation history.",
+    },
+    factsAdvanced: {
+      de: ["Die Bahnstrecke Nouméa-Païta war 29 Kilometer lang.", "Der Betrieb begann im Dezember 1904.", "Die Züge wurden wegen ihrer geringen Geschwindigkeit \"Petit Train\" genannt.", "Die Strecke wurde am 1. Januar 1940 offiziell stillgelegt.", "Ein restaurierter Waggon ist im Museum von Nouméa ausgestellt.", "Die Fahrt von Nouméa nach Païta dauerte damals etwa anderthalb Stunden."],
+      hu: ["A Nouméa-Païta vasútvonal 29 kilométer hosszú volt.", "A forgalom 1904 decemberében indult meg.", "A vonatokat alacsony sebességük miatt \"Petit Train\"-nek hívták.", "A vonalat hivatalosan 1940. január 1-jén szüntették meg.", "Egy felújított vagon megtekinthető a Nouméa Múzeumban.", "Az út Nouméából Païtába akkoriban körülbelül másfél órát vett igénybe."],
+      ro: ["Linia de cale ferată Nouméa-Païta avea o lungime de 29 de kilometri.", "Operațiunile au început în decembrie 1904.", "Trenurile erau numite \"Petit Train\" din cauza vitezei lor reduse.", "Linia a fost închisă oficial la 1 ianuarie 1940.", "Un vagon restaurat este expus la Muzeul din Nouméa.", "Călătoria de la Nouméa la Païta dura aproximativ o oră și jumătate la acea vreme."],
+      en: ["The Nouméa-Païta railway line was 29 kilometers long.", "Operations began in December 1904.", "The trains were nicknamed the \"Petit Train\" due to their low speed.", "The line was officially closed on January 1, 1940.", "A restored carriage is on display at the Museum of Nouméa.", "The journey from Nouméa to Païta took about an hour and a half back then."],
+    },
   },
   {
     id: "newcaledonia-villa-saint-louis-landmarks-v2",
@@ -342,6 +546,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Part of the Saint-Louis mission", "Colonial manor style", "Founded in the 19th century", "Near Le Mont-Dore"],
     },
     imageHint: "Saint Louis mission New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Villa de Saint-Louis ist ein bedeutendes Bauwerk der katholischen Mission in Saint-Louis, nahe Nouméa. Sie wurde im 19. Jahrhundert errichtet und diente als Residenz für kirchliche Würdenträger sowie als Zentrum der landwirtschaftlichen Ausbildung der Missionare. Das Gebäude spiegelt den kolonialen Baustil mit seinen weiten Veranden und dicken Steinmauern wider.",
+      hu: "A Villa de Saint-Louis a Nouméa közelében fekvő Saint-Louis katolikus missziójának jelentős épülete. A 19. században épült, és egyházi méltóságok rezidenciájaként, valamint a misszionáriusok mezőgazdasági képzési központjaként szolgált. Az épület a gyarmati építészeti stílust tükrözi széles verandáival és vastag kőfalaival.",
+      ro: "Villa de Saint-Louis este o clădire semnificativă a misiunii catolice din Saint-Louis, lângă Nouméa. Construită în secolul al XIX-lea, a servit ca reședință pentru demnitarii bisericești și ca centru de formare agricolă pentru misionari. Clădirea reflectă stilul arhitectural colonial, cu verande largi și ziduri groase de piatră.",
+      en: "The Villa de Saint-Louis is a significant building of the Catholic mission in Saint-Louis, near Nouméa. Built in the 19th century, it served as a residence for church dignitaries and as a center for agricultural training for missionaries. The building reflects colonial architectural style with its wide verandas and thick stone walls.",
+    },
+    factsAdvanced: {
+      de: ["Saint-Louis wurde 1856 als Missionsstation gegründet.", "Die Villa wurde aus lokalem Kalkstein errichtet.", "Sie liegt im Herzen der ehemaligen Plantagen der Mission.", "Das Gebäude diente zeitweise als Unterkunft für Bischöfe.", "In der Nähe befindet sich die historische Missionskirche von 1860.", "Die Villa ist Teil eines der ältesten landwirtschaftlichen Betriebe der Insel."],
+      hu: ["Saint-Louis-t 1856-ban alapították missziós állomásként.", "A villa helyi mészkőből épült.", "A misszió egykori ültetvényeinek szívében található.", "Az épület időnként püspökök szálláshelyeként is szolgált.", "A közelben található az 1860-ban épült történelmi missziós templom.", "A villa a sziget egyik legrégebbi mezőgazdasági üzemének része."],
+      ro: ["Saint-Louis a fost fondată ca stațiune misionară în 1856.", "Vila a fost construită din piatră de var locală.", "Este situată în inima fostelor plantații ale misiunii.", "Clădirea a servit uneori ca locuință pentru episcopi.", "În apropiere se află biserica istorică a misiunii din 1860.", "Vila face parte din una dintre cele mai vechi exploatații agricole de pe insulă."],
+      en: ["Saint-Louis was founded as a mission station in 1856.", "The villa was constructed using local limestone.", "It is located in the heart of the mission's former plantations.", "The building occasionally served as housing for bishops.", "The historic mission church from 1860 is located nearby.", "The villa is part of one of the oldest agricultural operations on the island."],
+    },
   },
   {
     id: "newcaledonia-laperouse-monument-landmarks-v2",
@@ -361,6 +577,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Located in Nouméa", "Honors explorer Lapérouse", "Near the maritime museum", "Symbol of Pacific expeditions"],
     },
     imageHint: "Laperouse monument Noumea",
+    descriptionAdvanced: {
+      de: "Das Lapérouse-Monument in Nouméa erinnert an den französischen Entdecker Jean-François de Galaup, Graf von Lapérouse, dessen Expedition 1788 spurlos verschwand. Das Denkmal ehrt seine Beiträge zur Kartierung des Pazifiks und die langjährigen Bemühungen, das Schicksal seiner Schiffe Boussole und Astrolabe zu klären. Es ist ein Symbol für den französischen Entdeckergeist im 18. Jahrhundert.",
+      hu: "A nouméai Lapérouse-emlékmű Jean-François de Galaup-nak, Lapérouse grófjának állít emléket, akinek francia expedíciója 1788-ban nyomtalanul eltűnt. Az emlékmű a Csendes-óceán feltérképezéséhez való hozzájárulását és a Boussole és Astrolabe hajók sorsának tisztázására tett erőfeszítéseket tiszteli. A 18. századi francia felfedező szellem jelképe.",
+      ro: "Monumentul Lapérouse din Nouméa îl comemorează pe exploratorul francez Jean-François de Galaup, conte de Lapérouse, a cărui expediție a dispărut fără urmă în 1788. Monumentul onorează contribuțiile sale la cartografierea Pacificului și eforturile de lungă durată pentru a clarifica soarta navelor sale, Boussole și Astrolabe. Este un simbol al spiritului explorator francez din secolul al XVIII-lea.",
+      en: "The Lapérouse Monument in Nouméa commemorates the French explorer Jean-François de Galaup, Count of Lapérouse, whose expedition vanished without a trace in 1788. The monument honors his contributions to mapping the Pacific and the long-standing efforts to clarify the fate of his ships, Boussole and Astrolabe. It is a symbol of 18th-century French exploratory spirit.",
+    },
+    factsAdvanced: {
+      de: ["Lapérouse verließ Brest im Jahr 1785 mit zwei Schiffen.", "Die Expedition verschwand nach dem Verlassen von Botany Bay 1788.", "Das Wrack seiner Schiffe wurde erst 1826 bei Vanikoro entdeckt.", "Das Denkmal in Nouméa wurde im 19. Jahrhundert errichtet.", "Es befindet sich in der Nähe des Museums für Seefahrtsgeschichte.", "Lapérouse galt als einer der fähigsten Navigatoren seiner Zeit."],
+      hu: ["Lapérouse 1785-ben hagyta el Brest városát két hajóval.", "Az expedíció 1788-ban, a Botany-öböl elhagyása után tűnt el.", "Hajóinak roncsait csak 1826-ban fedezték fel Vanikoro mellett.", "A nouméai emlékművet a 19. században állították.", "A Tengerészeti Történeti Múzeum közelében található.", "Lapérouse-t kora egyik legkiválóbb hajósának tartották."],
+      ro: ["Lapérouse a părăsit Brest în 1785 cu două nave.", "Expediția a dispărut după părăsirea Golfului Botany în 1788.", "Epava navelor sale a fost descoperită abia în 1826 la Vanikoro.", "Monumentul din Nouméa a fost ridicat în secolul al XIX-lea.", "Se află în apropierea Muzeului de Istorie Maritimă.", "Lapérouse a fost considerat unul dintre cei mai capabili navigatori ai timpului său."],
+      en: ["Lapérouse left Brest in 1785 with two ships.", "The expedition disappeared after leaving Botany Bay in 1788.", "The wreck of his ships was only discovered in 1826 near Vanikoro.", "The monument in Nouméa was erected in the 19th century.", "It is located near the Maritime History Museum.", "Lapérouse was considered one of the most capable navigators of his time."],
+    },
   },
   {
     id: "newcaledonia-free-france-monument-landmarks-v2",
@@ -380,6 +608,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Commemorates Sept 19, 1940", "Lorraine cross symbol", "Overlooking the bay", "Important historical milestone"],
     },
     imageHint: "Monument de la France Libre Noumea",
+    descriptionAdvanced: {
+      de: "Das Denkmal für das Freie Frankreich (Monuments de la France Libre) in Nouméa zeigt das Lothringer Kreuz und feiert den Anschluss Neukaledoniens an General de Gaulle im Jahr 1940. Es erinnert an den Mut der Bevölkerung, die sich als eine der ersten französischen Überseegebiete dem Widerstand gegen die Besatzung anschloss. Das Denkmal bietet zudem einen Panoramablick über die Stadt.",
+      hu: "A nouméai Szabad Franciaország emlékmű (Monuments de la France Libre) a Lotaringiai Keresztet ábrázolja, és Új-Kaledónia 1940-es csatlakozását ünnepli De Gaulle tábornokhoz. Az emlékmű a lakosság bátorságára emlékeztet, amely az elsők között csatlakozott a megszállás elleni ellenálláshoz a francia tengerentúli területek közül. Az emlékműtől panorámás kilátás nyílik a városra.",
+      ro: "Monumentul Franței Libere din Nouméa prezintă Crucea de Lorena și celebrează ralierea Noii Caledonii la generalul de Gaulle în 1940. Acesta comemorează curajul populației, care a fost una dintre primele teritorii franceze de peste mări care s-a alăturat rezistenței împotriva ocupației. Monumentul oferă, de asemenea, o vedere panoramică asupra orașului.",
+      en: "The Free France Monument in Nouméa features the Cross of Lorraine and celebrates New Caledonia's rallying to General de Gaulle in 1940. It commemorates the courage of the population, which was among the first French overseas territories to join the resistance against occupation. The monument also offers a panoramic view over the city.",
+    },
+    factsAdvanced: {
+      de: ["Neukaledonien schloss sich am 19. September 1940 der France Libre an.", "Das Denkmal hat die Form eines großen Lothringer Kreuzes.", "Es befindet sich auf dem Hügel Mont Vénus.", "Die Einweihung fand im Jahr 1973 statt.", "Es ehrt die Freiwilligen des Pazifik-Bataillons.", "Das Kreuz ist nachts beleuchtet und von weitem sichtbar."],
+      hu: ["Új-Kaledónia 1940. szeptember 19-én csatlakozott a Szabad Franciaországhoz.", "Az emlékmű egy nagy Lotaringiai Kereszt formáját ölti.", "A Mont Vénus dombon található.", "Az avatásra 1973-ban került sor.", "A Csendes-óceáni Zászlóalj önkéntesei előtt tiszteleg.", "A kereszt éjszaka kivilágított és messziről látható."],
+      ro: ["Noua Caledonie s-a alăturat Franței Libere la 19 septembrie 1940.", "Monumentul are forma unei mari Cruci de Lorena.", "Se află pe dealul Mont Vénus.", "Inaugurarea a avut loc în anul 1973.", "Onorează voluntarii Batalionului din Pacific.", "Crucea este iluminată noaptea și vizibilă de la distanță."],
+      en: ["New Caledonia joined Free France on September 19, 1940.", "The monument is shaped like a large Cross of Lorraine.", "It is located on the Mont Vénus hill.", "The inauguration took place in 1973.", "It honors the volunteers of the Pacific Battalion.", "The cross is illuminated at night and visible from afar."],
+    },
   },
   {
     id: "newcaledonia-centenary-monument-landmarks-v2",
@@ -399,6 +639,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Inaugurated in 1953", "Commemorates the year 1853", "Honors French pioneers", "Located in Nouméa"],
     },
     imageHint: "Centenary monument Noumea",
+    descriptionAdvanced: {
+      de: "Das Centenary Monument in Nouméa wurde 1953 errichtet, um das hundertjährige Bestehen der französischen Präsenz in Neukaledonien zu feiern. Das Denkmal markiert den Jahrestag der Inbesitznahme der Insel durch Frankreich im Jahr 1853 durch Admiral Febvrier-Despointes. Es ist ein markantes Bauwerk an der Küstenpromenade, das die Geschichte der französischen Besiedlung dokumentiert.",
+      hu: "A nouméai Centenáriumi emlékművet 1953-ban emelték, hogy megünnepeljék a francia jelenlét századik évfordulóját Új-Kaledóniában. Az emlékmű annak az évfordulónak állít emléket, amikor Febvrier-Despointes admirális 1853-ban birtokba vette a szigetet Franciaország nevében. A tengerparti sétányon álló építmény a francia betelepülés történetét dokumentálja.",
+      ro: "Monumentul Centenarului din Nouméa a fost ridicat în 1953 pentru a celebra o sută de ani de prezență franceză în Noua Caledonie. Monumentul marchează aniversarea luării în posesie a insulei de către Franța în 1853 de către amiralul Febvrier-Despointes. Este o structură proeminentă pe promenada de pe coastă, care documentează istoria colonizării franceze.",
+      en: "The Centenary Monument in Nouméa was erected in 1953 to celebrate the hundredth anniversary of French presence in New Caledonia. The monument marks the anniversary of France taking possession of the island in 1853 by Admiral Febvrier-Despointes. It is a striking structure on the coastal promenade that documents the history of French settlement.",
+    },
+    factsAdvanced: {
+      de: ["Frankreich nahm die Insel am 24. September 1853 in Besitz.", "Das Denkmal wurde genau 100 Jahre später, 1953, eingeweiht.", "Es befindet sich an der Baie de l'Orphelinat.", "Admiral Febvrier-Despointes hisste damals die Trikolore in Balade.", "Die Architektur des Denkmals ist im Stil der 1950er Jahre gehalten.", "Es ist ein Treffpunkt für offizielle Zeremonien am 24. September."],
+      hu: ["Franciaország 1853. szeptember 24-én vette birtokba a szigetet.", "Az emlékművet pontosan 100 évvel később, 1953-ban avatták fel.", "A Baie de l'Orphelinat öbölnél található.", "Febvrier-Despointes admirális Balade-nál vonta fel a francia lobogót.", "Az emlékmű építészete az 1950-es évek stílusát tükrözi.", "Szeptember 24-én hivatalos ünnepségek helyszíne."],
+      ro: ["Franța a luat în posesie insula la 24 septembrie 1853.", "Monumentul a fost inaugurat exact 100 de ani mai târziu, în 1953.", "Se află în zona Baie de l'Orphelinat.", "Amiralul Febvrier-Despointes a arborat tricolorul la Balade în acea perioadă.", "Arhitectura monumentului este realizată în stilul anilor 1950.", "Este un loc de întâlnire pentru ceremoniile oficiale din 24 septembrie."],
+      en: ["France took possession of the island on September 24, 1853.", "The monument was inaugurated exactly 100 years later, in 1953.", "It is located at the Baie de l'Orphelinat.", "Admiral Febvrier-Despointes raised the tricolor in Balade at that time.", "The architecture of the monument is in the 1950s style.", "It is a gathering point for official ceremonies on September 24th."],
+    },
   },
   {
     id: "newcaledonia-gaston-bourret-hospital-landmarks-v2",
@@ -418,6 +670,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Founded in the 19th century", "First modern hospital", "Colonial pavilion style", "Centrally located in Nouméa"],
     },
     imageHint: "Old hospital building Noumea",
+    descriptionAdvanced: {
+      de: "Das alte Gaston-Bourret-Krankenhaus in Nouméa ist ein bedeutendes Zeugnis der kolonialen Gesundheitsarchitektur. Das nach einem im Dienst an der Pest verstorbenen Arzt benannte Gebäude wurde Ende des 19. Jahrhunderts errichtet. Mit seinen markanten Arkaden und Pavillons diente es über ein Jahrhundert lang als zentrales medizinisches Versorgungszentrum der Stadt.",
+      hu: "A nouméai régi Gaston-Bourret Kórház a gyarmati egészségügyi építészet jelentős emléke. A pestis elleni küzdelemben életét vesztő orvosról elnevezett épület a 19. század végén épült. Jellegzetes árkádjaival és pavilonjaival több mint egy évszázadon át szolgált a város központi egészségügyi ellátó központjaként.",
+      ro: "Vechiul spital Gaston-Bourret din Nouméa este o mărturie semnificativă a arhitecturii sanitare coloniale. Clădirea, numită după un medic care a murit de ciumă în timpul serviciului, a fost construită la sfârșitul secolului al XIX-lea. Cu arcadele și pavilioanele sale distinctive, a servit timp de peste un secol ca centru medical central al orașului.",
+      en: "The old Gaston-Bourret Hospital in Nouméa is a significant example of colonial healthcare architecture. Named after a physician who died of the plague while in service, the building was constructed at the end of the 19th century. With its distinctive arcades and pavilions, it served as the city's central medical facility for over a century.",
+    },
+    factsAdvanced: {
+      de: ["Dr. Gaston Bourret starb 1906 an der Pest.", "Das Krankenhaus wurde auf dem Gelände eines ehemaligen Militärhospitals errichtet.", "Es befindet sich am Boulevard Vauban.", "Die Pavillonbauweise sollte die Ausbreitung von Infektionen verhindern.", "Das Gebäude wurde nach der Eröffnung des neuen Médipôle umgewidmet.", "Teile des Komplexes stehen heute unter Denkmalschutz."],
+      hu: ["Dr. Gaston Bourret 1906-ban halt meg pestisben.", "A kórház egy korábbi katonai kórház területén épült.", "A Boulevard Vauban mentén található.", "A pavilonos elrendezés a fertőzések terjedésének megakadályozását szolgálta.", "Az új Médipôle megnyitása után az épületet új célokra rendelték.", "A komplexum egyes részei ma műemléki védelem alatt állnak."],
+      ro: ["Dr. Gaston Bourret a murit de ciumă în 1906.", "Spitalul a fost construit pe locul unui fost spital militar.", "Se află pe bulevardul Boulevard Vauban.", "Designul în sistem pavilioane a fost menit să prevină răspândirea infecțiilor.", "Clădirea a fost reutilizată după deschiderea noului centru Médipôle.", "Părți din complex sunt astăzi clasificate ca monumente istorice."],
+      en: ["Dr. Gaston Bourret died of the plague in 1906.", "The hospital was built on the site of a former military hospital.", "It is located on Boulevard Vauban.", "The pavilion layout was intended to prevent the spread of infections.", "The building was repurposed after the opening of the new Médipôle.", "Parts of the complex are now protected as historical monuments."],
+    },
   },
   {
     id: "newcaledonia-tabu-lighthouse-landmarks-v2",
@@ -437,6 +701,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Marks a coral reef", "Important navigation aid", "Automated beacon", "Located in the south"],
     },
     imageHint: "Lighthouse reef New Caledonia",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm von Tabu (Phare de Tabu) befindet sich auf einem kleinen Riff in der Lagune von Neukaledonien, in der Nähe von Nouméa. Das Bauwerk dient als wichtiges Navigationszeichen für Schiffe, die die schwierigen Passagen durch das Korallenriff in den Hafen ansteuern. Er ist ein markantes Beispiel für die maritime Infrastruktur, die für den Schutz der Schifffahrt in der Region unerlässlich ist.",
+      hu: "A Tabu-világítótorony (Phare de Tabu) egy kis zátonyon található az Új-Kaledóniai lagúnában, Nouméa közelében. Az építmény fontos navigációs jelzésként szolgál a korallzátonyokon keresztül a kikötőbe tartó hajók számára. A régió hajózásának védelméhez elengedhetetlen tengeri infrastruktúra egyik jellegzetes példája.",
+      ro: "Farul Tabu (Phare de Tabu) este situat pe un recif mic din laguna Noii Caledonii, lângă Nouméa. Structura servește ca un semn de navigație important pentru navele care se îndreaptă spre port prin pasajele dificile ale recifului de corali. Este un exemplu proeminent de infrastructură maritimă esențială pentru protecția navigației în regiune.",
+      en: "The Tabu Lighthouse (Phare de Tabu) is located on a small reef within the New Caledonian lagoon near Nouméa. The structure serves as a vital navigational aid for ships approaching the harbor through challenging passages in the coral reef. It is a prominent example of maritime infrastructure essential for protecting navigation in the region.",
+    },
+    factsAdvanced: {
+      de: ["Der Leuchtturm wurde errichtet, um den Schiffen den Weg zum Hafen von Nouméa zu weisen.", "Er befindet sich auf dem Riff Tabu vor der Küste.", "Das Bauwerk ist eine gusseiserne Konstruktion.", "Die Lagune von Neukaledonien ist das zweitgrößte Korallenriff der Welt.", "Der Leuchtturm ist heute automatisiert.", "Er ist von Nouméa aus bei klarem Wetter sichtbar."],
+      hu: ["A világítótorony a Nouméa kikötője felé tartó hajók irányítására épült.", "A tengerpart melletti Tabu-zátonyon található.", "Az építmény egy öntöttvas szerkezet.", "Az Új-Kaledóniai lagúna a világ második legnagyobb korallzátonya.", "A világítótorony ma már automatizált.", "Tiszta időben Nouméából is jól látható."],
+      ro: ["Farul a fost construit pentru a ghida navele spre portul Nouméa.", "Este situat pe reciful Tabu, în largul coastei.", "Structura este o construcție din fontă.", "Laguna Noii Caledonii este al doilea cel mai mare recif de corali din lume.", "Farul este astăzi automatizat.", "Este vizibil din Nouméa în zilele cu cer senin."],
+      en: ["The lighthouse was built to guide ships toward the port of Nouméa.", "It is situated on the Tabu reef off the coast.", "The structure is a cast-iron construction.", "The New Caledonian lagoon is the world's second-largest coral reef.", "The lighthouse is now automated.", "It is visible from Nouméa on clear days."],
+    },
   },
   {
     id: "newcaledonia-signal-islet-lighthouse-landmarks-v2",
@@ -456,6 +732,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Located on Islet Signal", "Near the shipping channel", "Part of a nature reserve", "Historical beacon"],
     },
     imageHint: "Signal islet lighthouse Noumea",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm auf dem Îlot Signal wurde 1883 errichtet, um den Zugang zum Havannah-Pass zu sichern. Das Bauwerk besteht aus einer massiven Steinkonstruktion und ist ein wichtiges historisches Denkmal der neukaledonischen Schifffahrtsgeschichte. Die kleine Insel selbst ist heute ein Naturschutzgebiet und ein beliebtes Ziel für Tagesausflüge von Nouméa aus.",
+      hu: "Az Îlot Signal-on található világítótorony 1883-ban épült a Havannah-szoros bejáratának biztosítására. Az építmény masszív kőszerkezetből áll, és Új-Kaledónia tengerészeti történelmének fontos műemléke. Maga a kis sziget ma természetvédelmi terület, és a Nouméából induló egynapos kirándulások kedvelt célpontja.",
+      ro: "Farul de pe Îlot Signal a fost construit în 1883 pentru a securiza accesul în pasajul Havannah. Structura este formată dintr-o construcție masivă de piatră și este un monument istoric important al istoriei maritime a Noii Caledonii. Insula mică în sine este astăzi o rezervație naturală și o destinație populară pentru excursii de o zi din Nouméa.",
+      en: "The Signal Islet Lighthouse was built in 1883 to secure the entrance to the Havannah Pass. The structure consists of a massive stone construction and is a key historical monument of New Caledonia's maritime history. The small islet itself is now a nature reserve and a popular destination for day trips from Nouméa.",
+    },
+    factsAdvanced: {
+      de: ["Der Leuchtturm ist etwa 10 Meter hoch.", "Das Bauwerk wurde aus Korallenkalkstein errichtet.", "Die Insel diente früher als Signalstation für ankommende Schiffe.", "Er wurde 1883 in Betrieb genommen.", "Îlot Signal ist Teil des Meeresschutzgebiets der Lagune.", "Die Insel liegt etwa 15 Kilometer westlich von Nouméa."],
+      hu: ["A világítótorony körülbelül 10 méter magas.", "Az építmény korallmészkőből készült.", "A sziget korábban jelzőállomásként szolgált az érkező hajók számára.", "1883-ban helyezték üzembe.", "Az Îlot Signal a lagúna tengeri védelmi területének része.", "A sziget körülbelül 15 kilométerre nyugatra fekszik Nouméától."],
+      ro: ["Farul are o înălțime de aproximativ 10 metri.", "Structura a fost construită din piatră de var coralifer.", "Insula a servit anterior ca stație de semnalizare pentru navele sosite.", "A fost pus în funcțiune în 1883.", "Îlot Signal face parte din aria marină protejată a lagunei.", "Insula este situată la aproximativ 15 kilometri vest de Nouméa."],
+      en: ["The lighthouse is approximately 10 meters tall.", "The structure was built using coral limestone.", "The island formerly served as a signaling station for arriving ships.", "It was put into operation in 1883.", "Signal Islet is part of the lagoon's marine protected area.", "The island is located about 15 kilometers west of Nouméa."],
+    },
   },
   {
     id: "newcaledonia-cap-ndua-lighthouse-landmarks-v2",
@@ -475,6 +763,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Southernmost point of Grande Terre", "Whale watching location", "Panoramic lagoon views", "Formerly a manned station"],
     },
     imageHint: "Cap Ndua lighthouse view",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm von Cap N'Dua befindet sich am südlichsten Punkt der Hauptinsel Grande Terre. Das Gebiet bietet einen spektakulären Blick auf den Havannah-Pass und den Canal de la Havannah. Der Standort ist besonders während der Walsaison von Juli bis September bekannt, da er als einer der besten Aussichtspunkte zur Beobachtung von Buckelwalen in Neukaledonien gilt.",
+      hu: "A Cap N'Dua világítótorony a fősziget, Grande Terre legdélebbi pontján található. A terület látványos kilátást nyújt a Havannah-szorosra és a Havannah-csatornára. A helyszín különösen a bálnaszezonban, júliustól szeptemberig ismert, mivel Új-Kaledónia egyik legjobb kilátópontjának tartják a hosszúszárnyú bálnák megfigyelésére.",
+      ro: "Farul Cap N'Dua este situat în cel mai sudic punct al insulei principale Grande Terre. Zona oferă o vedere spectaculoasă asupra pasajului Havannah și a canalului Havannah. Locația este cunoscută în special în timpul sezonului balenelor, din iulie până în septembrie, fiind considerată unul dintre cele mai bune puncte de observație pentru balenele cu cocoașă din Noua Caledonie.",
+      en: "The Cap N'Dua Lighthouse is located at the southernmost point of the main island, Grande Terre. The area offers spectacular views of the Havannah Pass and the Havannah Channel. The site is particularly famous during the whale-watching season from July to September, as it is considered one of the best viewpoints for observing humpback whales in New Caledonia.",
+    },
+    factsAdvanced: {
+      de: ["Cap N'Dua ist Teil eines Naturschutzgebiets.", "Der ursprüngliche Leuchtturm wurde bereits 1892 errichtet.", "Der Standort liegt etwa 60 Kilometer südlich von Nouméa.", "Man kann von hier aus Buckelwale in der Lagune beobachten.", "Das Kap markiert den Übergang zwischen der Lagune und dem offenen Ozean.", "Es ist ein beliebter Ort für Ökotourismus und Wanderungen."],
+      hu: ["A Cap N'Dua egy természetvédelmi terület része.", "Az eredeti világítótorony már 1892-ben felépült.", "A helyszín körülbelül 60 kilométerre délre található Nouméától.", "Innen hosszúszárnyú bálnákat lehet megfigyelni a lagúnában.", "A fok jelzi az átmenetet a lagúna és a nyílt óceán között.", "Az ökoturizmus és a túrázás kedvelt helyszíne."],
+      ro: ["Cap N'Dua face parte dintr-o rezervație naturală.", "Farul original a fost construit încă din 1892.", "Locația se află la aproximativ 60 de kilometri sud de Nouméa.", "De aici pot fi observate balenele cu cocoașă în lagună.", "Capul marchează tranziția dintre lagună și oceanul deschis.", "Este un loc popular pentru ecoturism și drumeții."],
+      en: ["Cap N'Dua is part of a nature reserve.", "The original lighthouse was built as early as 1892.", "The site is located about 60 kilometers south of Nouméa.", "Humpback whales can be observed in the lagoon from here.", "The cape marks the transition between the lagoon and the open ocean.", "It is a popular spot for ecotourism and hiking."],
+    },
   },
   {
     id: "newcaledonia-joun-lighthouse-landmarks-v2",
@@ -494,6 +794,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Located on Maré island", "Vital for inter-island travel", "Automatic operation", "Steep coastal location"],
     },
     imageHint: "Mare island lighthouse",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm von Joun wurde 1906 erbaut, um die Schifffahrt an der Südspitze der Insel Lifou zu sichern. Er thront auf den Klippen über dem Korallenmeer und dient als wichtiges Orientierungszeichen in den Loyalitätsinseln. Die historische Struktur zeugt von der maritimen Entwicklung Neukaledoniens zu Beginn des 20. Jahrhunderts.",
+      hu: "A Joun világítótorony 1906-ban épült Lifou szigetének déli csücskén, hogy segítse a hajózást a hűség-szigeteknél. A tengerparti sziklákon magasodó építmény fontos tengeri jelzőpontként szolgál a Csendes-óceán ezen részén. Az épület a huszadik század eleji tengeri infrastruktúra és a gyarmati építészet egyik jellegzetes emléke.",
+      ro: "Farul din Joun a fost construit în 1906 pentru a securiza navigația la extremitatea sudică a insulei Lifou. Situat pe stâncile abrupte de deasupra Mării de Coral, acesta servește ca un punct de reper vital în Insulele Loialității. Structura istorică reflectă dezvoltarea maritimă a Noii Caledonii de la începutul secolului al XX-lea.",
+      en: "The Joun Lighthouse was built in 1906 to guide maritime traffic at the southern tip of Lifou Island. Perched on the cliffs overlooking the Coral Sea, it serves as a vital navigational aid in the Loyalty Islands. The historic structure stands as a testament to New Caledonia's maritime development in the early 20th century.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1906", "Befindet sich am Cap de Joun auf Lifou", "Wurde 1960 vollständig automatisiert", "Die Turmhöhe beträgt etwa 15 Meter", "Dient der Navigation in der Santal-Bucht", "Eines der ältesten maritimen Bauwerke der Insel"],
+      hu: ["1906-ban helyezték üzembe", "Lifou szigetének Cap de Joun fokánál áll", "1960-ban teljesen automatizálták", "A torony magassága megközelíti a 15 métert", "Segíti a navigációt a Santal-öbölben", "A Loyalitás-szigetek egyik legrégebbi tornya"],
+      ro: ["Construit și dat în folosință în anul 1906", "Situat la Cap de Joun, pe insula Lifou", "A fost complet automatizat în anul 1960", "Înălțimea turnului este de aproximativ 15 metri", "Ghidează navele în zona Golfului Santal", "Este una dintre cele mai vechi structuri maritime"],
+      en: ["Commissioned and built in the year 1906", "Located at Cap de Joun on Lifou Island", "Fully automated in 1960 for safety", "The tower height is approximately 15 meters", "Guides navigation within the Santal Bay area", "One of the oldest maritime structures in the region"],
+    },
   },
   {
     id: "newcaledonia-easo-church-landmarks-v2",
@@ -513,6 +825,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Located on Lifou island", "Views of Santal Bay", "Near Jinek lagoon", "Center of Easo village"],
     },
     imageHint: "Easo church Lifou",
+    descriptionAdvanced: {
+      de: "Die Kirche von Easo auf der Insel Lifou ist ein bedeutendes religiöses Denkmal aus dem späten 19. Jahrhundert. Das aus lokalem Stein errichtete Bauwerk ist eng mit der Geschichte der katholischen Mission in den Loyalitätsinseln verbunden. Von ihrem Standort aus bietet sie einen weiten Blick über die Santal-Bucht.",
+      hu: "Az Easo-templom Lifou szigetén a 19. század végén épült jelentős vallási emlékhely. A helyi kövekből emelt építmény szorosan kapcsolódik a katolikus missziók történetéhez a Loyalitás-szigeteken. Elhelyezkedése révén tágas kilátást nyújt a Santal-öbölre és a környező tengerpartra.",
+      ro: "Biserica din Easo, situată pe insula Lifou, este un monument religios important de la sfârșitul secolului al XIX-lea. Construită din piatră locală, clădirea este strâns legată de istoria misiunilor catolice din Insulele Loialității. Amplasamentul său oferă o vedere panoramică asupra Golfului Santal.",
+      en: "The Easo Church on Lifou Island is a significant religious landmark dating back to the late 19th century. Built from local stone, the structure is deeply tied to the history of Catholic missions in the Loyalty Islands. Its position offers an expansive view over the Santal Bay and the surrounding coastline.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1898", "Besteht aus massivem Korallengestein", "Gehört zur Diözese von Nouméa", "Befindet sich nahe den Klippen von Jokin", "Verfügt über historische Buntglasfenster", "Zentrum der katholischen Gemeinde in Easo"],
+      hu: ["1898-ban épült fel", "Helyi korallkőből készült a fala", "A Nouméa-i egyházmegye alá tartozik", "A Jokin-sziklák közelében található", "Történelmi színes üvegablakokkal rendelkezik", "Az easo-i katolikus közösség központja"],
+      ro: ["Construită în anul 1898", "Pereții sunt realizați din piatră de corali", "Aparține de Dieceza de Nouméa", "Situată în apropierea falezelor Jokin", "Deține vitralii istorice originale", "Reprezintă centrul comunității catolice din Easo"],
+      en: ["Constructed in the year 1898", "Built using local coral stone masonry", "Part of the Roman Catholic Diocese of Nouméa", "Located near the scenic cliffs of Jokin", "Features original historical stained glass windows", "Serves as the center for the Easo Catholic community"],
+    },
   },
   {
     id: "newcaledonia-saint-gabriel-church-landmarks-v2",
@@ -532,6 +856,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Located in Canala", "19th-century construction", "Catholic mission", "Mountainous setting"],
     },
     imageHint: "Canala church New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Kirche Saint Gabriel in Ouvéa ist eines der imposantesten sakralen Bauwerke der Insel. Sie wurde 1894 errichtet und zeichnet sich durch ihre massive Bauweise aus Naturstein aus. Als Wahrzeichen der Insel spiegelt sie den Einfluss der Maristen-Missionare und den Glauben der lokalen Bevölkerung wider.",
+      hu: "Az Ouvéa-szigetén található Szent Gábriel-templom a sziget egyik legimpozánsabb szakrális építménye. 1894-ben épült, és masszív, természetes kőből emelt falaival tűnik ki. A sziget jelképeként hűen tükrözi a marista misszionáriusok hatását és a helyi lakosság hitéletét.",
+      ro: "Biserica Saint Gabriel din Ouvéa este unul dintre cele mai impunătoare edificii sacre de pe insulă. Ridicată în 1894, aceasta se remarcă prin construcția sa masivă din piatră naturală. Ca simbol al insulei, reflectă influența misionarilor mariști și credința populației locale.",
+      en: "Saint Gabriel Church in Ouvéa is one of the most imposing sacred buildings on the island. Constructed in 1894, it is characterized by its massive natural stone walls. As a landmark of the island, it reflects the influence of Marist missionaries and the faith of the local population.",
+    },
+    factsAdvanced: {
+      de: ["Eingeweiht im Jahr 1894", "Größtes Kirchengebäude auf der Insel Ouvéa", "Aus handgehauenem Stein errichtet", "Befindet sich im Ortsteil Saint-Joseph", "Umfangreiche Restaurierung im Jahr 2005", "Bekannt für ihre hervorragende Akustik"],
+      hu: ["1894-ben szentelték fel", "Ouvéa szigetének legnagyobb temploma", "Kézzel megmunkált kövekből épült", "Saint-Joseph településrészen található", "2005-ben teljes körűen felújították", "Kiváló akusztikájáról ismert az épület"],
+      ro: ["Sfințită în anul 1894", "Cea mai mare biserică de pe insula Ouvéa", "Ridicată din piatră fasonată manual", "Situată în districtul Saint-Joseph", "Restaurată complet în anul 2005", "Cunoscută pentru acustica sa deosebită"],
+      en: ["Consecrated in the year 1894", "Largest church building on Ouvéa Island", "Built using hand-carved stone blocks", "Located in the Saint-Joseph district", "Underwent extensive restoration in 2005", "Renowned for its excellent interior acoustics"],
+    },
   },
   {
     id: "newcaledonia-poum-church-landmarks-v2",
@@ -551,6 +887,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Located in the far north", "Center of Poum village", "Mining region", "Remote location"],
     },
     imageHint: "Poum church New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Kirche von Poum liegt im äußersten Norden von Grande Terre und ist ein bescheidenes, aber symbolträchtiges Bauwerk. Die weiße Kapelle fügt sich harmonisch in die Küstenlandschaft ein und dient der lokalen Gemeinschaft als geistliches Zentrum. Sie ist ein Beispiel für die schlichte Missionsarchitektur in den ländlichen Gebieten Neukaledoniens.",
+      hu: "Poum temploma Grande Terre távoli északi részén található, és bár szerény, mégis szimbolikus építmény. A fehér kápolna harmonikusan illeszkedik a tengerparti tájba, és a helyi közösség szellemi központjaként szolgál. Kiváló példája a neukaledóniai vidéki területek egyszerű missziós építészetének.",
+      ro: "Biserica din Poum este situată în nordul îndepărtat al insulei Grande Terre și este o structură modestă, dar simbolică. Capela albă se integrează armonios în peisajul de coastă și servește ca centru spiritual pentru comunitatea locală. Este un exemplu de arhitectură misionară simplă din zonele rurale.",
+      en: "The Poum Church is located in the far north of Grande Terre and is a modest yet symbolic structure. The white chapel blends harmoniously into the coastal landscape and serves as a spiritual center for the local community. It is an example of simple missionary architecture in rural New Caledonia.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich in der Gemeinde Poum", "Charakteristische weiße Fassade", "Blick auf die Lagune im Norden", "Wurde nach Zyklonschäden mehrfach renoviert", "Zentrum für lokale religiöse Feste", "Verwendet traditionelle Holzelemente im Inneren"],
+      hu: ["Poum község területén található", "Jellemzője a tiszta fehér homlokzat", "Kilátás nyílik az északi lagúnára", "Ciklonkárok után többször felújították", "A helyi vallási ünnepek központja", "Belsejében hagyományos faelemeket használtak"],
+      ro: ["Situată în comuna Poum", "Are o fațadă albă caracteristică", "Oferă vedere spre laguna din nord", "Renovată de mai multe ori după ciclone", "Centru pentru festivalurile religioase locale", "Interiorul folosește elemente tradiționale din lemn"],
+      en: ["Located in the municipality of Poum", "Features a characteristic white facade", "Overlooks the northern lagoon waters", "Renovated several times after cyclone damage", "Center for local religious festivals", "Uses traditional wooden elements in its interior"],
+    },
   },
   {
     id: "newcaledonia-kone-city-hall-landmarks-v2",
@@ -570,6 +918,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Capital of the North Province", "Modern building", "Seat of local authorities", "Gateway to the north coast"],
     },
     imageHint: "Kone city hall building",
+    descriptionAdvanced: {
+      de: "Das Rathaus von Koné ist das administrative Herz der Nordprovinz von Neukaledonien. Das moderne Gebäude spiegelt die wachsende Bedeutung der Stadt als regionales Zentrum wider. Es beherbergt nicht nur die Stadtverwaltung, sondern dient auch als Treffpunkt für bürgerliche und kulturelle Veranstaltungen in der Region.",
+      hu: "A koné-i városháza Új-Kaledónia Északi tartományának adminisztratív központja. A modern épület hűen tükrözi a város regionális központként betöltött növekvő szerepét. Nemcsak az önkormányzatnak ad otthont, hanem a térség polgári és kulturális eseményeinek is fontos találkozóhelye.",
+      ro: "Primăria din Koné este inima administrativă a Provinciei de Nord a Noii Caledonii. Clădirea modernă reflectă importanța tot mai mare a orașului ca centru regional. Gzduiește nu doar serviciile municipale, ci servește și ca loc de întâlnire pentru evenimente civice și culturale.",
+      en: "The Koné City Hall is the administrative heart of the North Province of New Caledonia. The modern building reflects the growing importance of the town as a regional center. It houses municipal services and serves as a gathering place for civic and cultural events in the region.",
+    },
+    factsAdvanced: {
+      de: ["Verwaltungssitz der Nordprovinz", "In der Nähe der Voh-Ebene gelegen", "Architektur aus der späten Moderne", "Zentrum der wirtschaftlichen Entwicklung im Norden", "Beherbergt das Büro des Bürgermeisters", "Wichtiger Punkt auf der Verkehrsachse RT1"],
+      hu: ["Az Északi tartomány közigazgatási székhelye", "A Voh-síkság közelében található", "Késő modern építészeti stílus jellemzi", "Az északi gazdasági fejlődés központja", "Itt található a polgármesteri hivatal", "Fontos pont az RT1-es főút mentén"],
+      ro: ["Sediu administrativ al Provinciei de Nord", "Situată în apropierea câmpiei Voh", "Arhitectură în stil modern târziu", "Centru al dezvoltării economice din nord", "Găzduiește biroul primarului local", "Punct cheie pe ruta principală RT1"],
+      en: ["Administrative seat of the North Province", "Located near the Voh plains", "Features late modern architectural style", "Center of economic development in the north", "Houses the office of the local mayor", "Key point along the RT1 main road axis"],
+    },
   },
   {
     id: "newcaledonia-bourail-museum-landmarks-v2",
@@ -589,6 +949,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Located in an old warehouse", "Displays farming equipment", "History of Bourail region", "Houses a guillotine"],
     },
     imageHint: "Bourail Museum facade",
+    descriptionAdvanced: {
+      de: "Das Museum von Bourail ist in einem ehemaligen Getreidespeicher der Strafvollzugsverwaltung aus dem Jahr 1870 untergebracht. Es widmet sich der Geschichte der Sträflingskolonien, der Kanak-Kultur und der landwirtschaftlichen Entwicklung der Region. Das Gebäude selbst ist ein geschütztes historisches Denkmal und ein markantes Beispiel kolonialer Zweckarchitektur.",
+      hu: "A bourail-i múzeum a börtönigazgatás egykori, 1870-ben épült gabonaraktárában kapott helyet. A kiállítások a fegyenctelepek történetét, a kanak kultúrát és a régió mezőgazdasági fejlődését mutatják be. Az épület védett történelmi műemlék, és a gyarmati funkcionális építészet egyik kiemelkedő példája.",
+      ro: "Muzeul din Bourail este găzduit într-un fost hambar al administrației penitenciare, construit în 1870. Acesta este dedicat istoriei coloniilor de condamnați, culturii Kanak și dezvoltării agricole a regiunii. Clădirea în sine este un monument istoric protejat și un exemplu de arhitectură colonială utilitară.",
+      en: "The Bourail Museum is housed in a former penal administration granary built in 1870. It is dedicated to the history of convict colonies, Kanak culture, and the region's agricultural development. The building itself is a protected historic monument and a striking example of colonial functional architecture.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1870", "Ursprünglich ein Magazin der Strafanstalt", "Unter Denkmalschutz seit 1980", "Zeigt eine Replik der Guillotine", "Umfassende Sammlung zur Convict-Geschichte", "Befindet sich im Ortszentrum von Bourail"],
+      hu: ["1870-ben épült az épület", "Eredetileg a börtön éléstára volt", "1980 óta áll műemléki védelem alatt", "Kiállítják benne a guillotine másolatát", "Gazdag gyűjtemény a fegyencek életéről", "Bourail városközpontjában található"],
+      ro: ["Clădire construită în anul 1870", "Inițial a servit ca depozit al închisorii", "Monument istoric protejat din 1980", "Expune o replică a ghilotinei folosite", "Colecție vastă despre istoria condamnaților", "Situat în centrul localității Bourail"],
+      en: ["Building constructed in 1870", "Originally a granary for the penal colony", "Protected historic monument since 1980", "Displays a replica of the guillotine", "Extensive collection on convict history", "Located in the center of Bourail town"],
+    },
   },
   {
     id: "newcaledonia-moindou-post-office-landmarks-v2",
@@ -608,6 +980,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Typical colonial style", "Restored historical building", "Located in Moindou village", "Formerly a telegraph station"],
     },
     imageHint: "Moindou colonial building",
+    descriptionAdvanced: {
+      de: "Das alte Postamt von Moindou ist ein Relikt aus der Pionierzeit Neukaledoniens am Ende des 19. Jahrhunderts. Es diente als wichtige Poststation und Relais für Reiter auf der Strecke zwischen Nouméa und dem Norden. Die sorgfältig restaurierte Struktur ist heute ein bedeutendes Kulturerbe, das an die Anfänge der modernen Kommunikation auf der Insel erinnert.",
+      hu: "Moindou régi postahivatala Új-Kaledónia 19. század végi úttörő korszakának emléke. Fontos postaállomásként és váltóhelyként szolgált a Nouméa és az északi rész közötti útvonalon. A gondosan felújított építmény ma jelentős kulturális örökség, amely a sziget modern kommunikációjának kezdeteire emlékeztet.",
+      ro: "Vechiul oficiu poștal din Moindou este o relicvă a epocii pionieratului din Noua Caledonie, de la sfârșitul secolului al XIX-lea. A servit ca stație poștală importantă și releu pentru călăreți pe ruta dintre Nouméa și nord. Structura restaurată este astăzi un patrimoniu cultural ce amintește de începuturile comunicațiilor moderne.",
+      en: "The Old Moindou Post Office is a relic from New Caledonia's pioneering era at the end of the 19th century. It served as an important postal station and relay for riders on the route between Nouméa and the north. The carefully restored structure is now a significant heritage site, recalling the beginnings of modern communication on the island.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut in den 1880er Jahren", "Wichtiger Halt auf der ersten Telegrafenlinie", "Bauweise aus Stein und Holz", "Restaurierung im späten 20. Jahrhundert", "Teil des historischen Pfades von Moindou", "Diente als Treffpunkt für Siedler"],
+      hu: ["Az 1880-as években épült", "Az első távíróvonal fontos állomása volt", "Kőből és fából készült szerkezet", "A 20. század végén újították fel", "Moindou történelmi útvonalának része", "A telepesek találkozóhelyeként is szolgált"],
+      ro: ["Construit în anii 1880", "Oprire cheie pe prima linie de telegraf", "Construcție mixtă din piatră și lemn", "Restaurat la sfârșitul secolului XX", "Parte a traseului istoric din Moindou", "A servit ca punct de întâlnire pentru coloniști"],
+      en: ["Constructed in the 1880s", "Key stop on the first telegraph line", "Built using stone and wood materials", "Restored in the late 20th century", "Part of the historical Moindou trail", "Served as a meeting point for settlers"],
+    },
   },
   {
     id: "newcaledonia-koumac-church-landmarks-v2",
@@ -627,6 +1011,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Located in Koumac", "Center of religious life", "Near Koumac harbor", "Simple modern construction"],
     },
     imageHint: "Koumac church facade",
+    descriptionAdvanced: {
+      de: "Die Kirche von Koumac, Johannes dem Täufer gewidmet, ist ein markantes Bauwerk im Bergbauzentrum des Nordens. Das Mitte des 20. Jahrhunderts errichtete Gebäude kombiniert traditionelle sakrale Elemente mit schlichten, funktionalen Linien. Sie ist ein wichtiger spiritueller Ankerpunkt für die lokale Bevölkerung und die Arbeiter der umliegenden Nickelminen.",
+      hu: "Koumac temploma, amelyet Keresztelő Szent Jánosnak szenteltek, az északi bányászati központ egyik meghatározó épülete. A 20. század közepén emelt építmény a hagyományos szakrális elemeket egyszerű, funkcionális vonalakkal ötvözi. Fontos spirituális támasz a helyi lakosság és a közeli nikkelbányák dolgozói számára.",
+      ro: "Biserica din Koumac, dedicată Sfântului Ioan Botezătorul, este o clădire proeminentă în centrul minier din nord. Ridicată la mijlocul secolului al XX-lea, aceasta combină elemente sacre tradiționale cu linii simple și funcționale. Reprezintă un punct spiritual important pentru populația locală și minerii din zonă.",
+      en: "The Koumac Church, dedicated to Saint John the Baptist, is a prominent building in the northern mining center. Constructed in the mid-20th century, it combines traditional sacred elements with simple, functional lines. It serves as an important spiritual anchor for the local population and workers from the nearby nickel mines.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr in der Mitte des 20. Jahrhunderts", "Dem Heiligen Johannes dem Täufer geweiht", "Zentrum der katholischen Pfarrei von Koumac", "Verfügt über moderne religiöse Kunst", "Wichtiger Ort für regionale Wallfahrten", "Befindet sich nahe der Koumac-Höhlen"],
+      hu: ["A 20. század közepén épült", "Keresztelő Szent János tiszteletére szentelték", "A koumac-i katolikus plébánia központja", "Modern vallási művészeti alkotások díszítik", "Fontos helyszíne a regionális zarándoklatoknak", "A Koumac-barlangok közelében található"],
+      ro: ["Construită la mijlocul secolului XX", "Dedicată Sfântului Ioan Botezătorul", "Centrul parohiei catolice din Koumac", "Adăpostește lucrări de artă religioasă modernă", "Loc important pentru pelerinaje regionale", "Situată în apropierea peșterilor Koumac"],
+      en: ["Built in the mid-20th century", "Dedicated to Saint John the Baptist", "Center of the Koumac Catholic parish", "Features modern religious artworks", "Important site for regional pilgrimages", "Located near the Koumac caves"],
+    },
   },
   {
     id: "newcaledonia-artillerie-bridge-landmarks-v2",
@@ -646,6 +1042,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Key traffic artery", "Overlooks the marina", "Metal construction", "Near the military area"],
     },
     imageHint: "Artillerie bridge Noumea",
+    descriptionAdvanced: {
+      de: "Die Artillerie-Brücke in Nouméa verbindet die Stadtteile Artillerie und Orphelinat und ist ein bedeutendes Ingenieurbauwerk der Hauptstadt. Die Metallstruktur aus dem frühen 20. Jahrhundert überspannt die Hafenzufahrt und ist ein Symbol der städtischen Entwicklung. Sie dient als wichtige Verkehrsader und bietet einen weiten Blick auf den Hafen und die Lagune.",
+      hu: "A Nouméa-ban található Artillerie-híd az Artillerie és az Orphelinat negyedeket köti össze, és a főváros egyik jelentős mérnöki alkotása. A 20. század elején készült fémszerkezet a kikötői bejárat felett ível át, és a városfejlődés szimbóluma. Fontos közlekedési útvonal, amelyről pazar kilátás nyílik a kikötőre és a lagúnára.",
+      ro: "Podul Artillerie din Nouméa face legătura între cartierele Artillerie și Orphelinat, fiind o lucrare de inginerie semnificativă a capitalei. Structura metalică de la începutul secolului XX traversează accesul în port și este un simbol al dezvoltării urbane. Servește ca arteră vitală, oferind vederi spectaculoase asupra portului.",
+      en: "The Artillerie Bridge in Nouméa connects the Artillerie and Orphelinat districts and is a significant engineering work of the capital. The metal structure from the early 20th century spans the port entrance and is a symbol of urban development. It serves as a vital traffic artery, offering wide views of the harbor and the lagoon.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zu Beginn des 20. Jahrhunderts", "Konstruktion aus genietetem Stahl", "Verbindet das Stadtzentrum mit dem Süden", "Wichtiger Punkt für die Schifffahrtskontrolle", "Umfassende Sanierung im Jahr 2012", "Teil der historischen Militärzone"],
+      hu: ["A 20. század elején épült", "Szegecselt acélszerkezet jellemzi", "Összeköti a városközpontot a déli résszel", "Fontos pont a hajózási ellenőrzés számára", "2012-ben teljes körűen felújították", "A történelmi katonai zóna része"],
+      ro: ["Construit la începutul secolului XX", "Structură din oțel nituit", "Conectează centrul orașului cu zona de sud", "Punct strategic pentru controlul portuar", "Reabilitat complet în anul 2012", "Parte a zonei militare istorice"],
+      en: ["Built at the start of the 20th century", "Constructed using riveted steel", "Links the city center with the south", "Key point for maritime traffic monitoring", "Underwent major renovation in 2012", "Part of the historic military zone"],
+    },
   },
   {
     id: "newcaledonia-tindu-lazaret-ruins-landmarks-v2",
@@ -665,6 +1073,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Quarantine station", "Founded around 1870", "Stone ruins", "Located near Nouméa"],
     },
     imageHint: "Lazaret de Tindu ruins",
+    descriptionAdvanced: {
+      de: "Die Ruinen des Tindu-Lazaretts in der Nähe von Nouméa erinnern an ein düsteres Kapitel der Medizingeschichte Neukaledoniens. Ende des 19. Jahrhunderts erbaut, diente die Anlage als Quarantänestation für Einwanderer und Leprakranke. Die verbliebenen Steinmauern stehen heute als Denkmal für das Leid der Isolierten und den damaligen Umgang mit Epidemien.",
+      hu: "A Nouméa közelében található Tindu-lazaret romjai Új-Kaledónia orvostörténetének egy komor fejezetére emlékeztetnek. A 19. század végén épült létesítmény karanténállomásként szolgált a bevándorlók és a leprás betegek számára. A megmaradt kőfalak ma az elkülönítettek szenvedésének és a korabeli járványkezelésnek állítanak emléket.",
+      ro: "Ruinele lazaretului din Tindu, situate lângă Nouméa, amintesc de un capitol sumbru al istoriei medicale a Noii Caledonii. Construit la sfârșitul secolului al XIX-lea, complexul a servit drept stație de carantină pentru imigranți și bolnavi de lepră. Zidurile de piatră rămase sunt un monument al suferinței celor izolați.",
+      en: "The Tindu Lazaret ruins near Nouméa recall a somber chapter of New Caledonia's medical history. Built in the late 19th century, the facility served as a quarantine station for immigrants and leprosy patients. The remaining stone walls now stand as a monument to the suffering of those isolated and the epidemic management of the time.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1883", "Ursprünglich Quarantäne für Kontraktarbeiter", "Ab 1913 als Leprastation genutzt", "Besteht aus lokalen Korallenkalksteinen", "Befindet sich auf der Halbinsel Ducos", "Heute eine geschützte archäologische Stätte"],
+      hu: ["1883-ban épült fel", "Eredetileg a vendégmunkások karanténja volt", "1913-tól lepratelepként működött", "Helyi korallmészkőből építették", "A Ducos-félszigeten található", "Ma védett régészeti terület"],
+      ro: ["Construit în anul 1883", "Inițial carantină pentru muncitori imigranți", "Folosit ca leprozerie începând cu 1913", "Ridicat din calcar coralier local", "Situat pe peninsula Ducos", "Astăzi este sit arheologic protejat"],
+      en: ["Constructed in the year 1883", "Originally a quarantine for indentured laborers", "Used as a leprosarium starting in 1913", "Built using local coral limestone", "Located on the Ducos Peninsula", "Now a protected archaeological site"],
+    },
   },
   {
     id: "newcaledonia-saint-louis-mission-school-landmarks-v2",
@@ -684,6 +1104,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Founded by Marist fathers", "Historical school building", "Key site for Kanak education", "Located south of Nouméa"],
     },
     imageHint: "Saint Louis mission building",
+    descriptionAdvanced: {
+      de: "Die Missionsschule von Saint-Louis ist Teil einer der ältesten katholischen Niederlassungen in Neukaledonien, die 1856 gegründet wurde. Die Schule spielte eine zentrale Rolle bei der Ausbildung und Integration der lokalen Kanak-Bevölkerung in das koloniale Bildungssystem. Die historischen Steingebäude zeugen von der langjährigen pädagogischen Tradition der Maristen-Brüder.",
+      hu: "A Saint-Louis missziós iskola Új-Kaledónia egyik legrégebbi, 1856-ban alapított katolikus településének része. Az iskola központi szerepet játszott a helyi kanak lakosság oktatásában és a gyarmati oktatási rendszerbe való integrálásában. A történelmi kőépületek a marista testvérek évszázados pedagógiai hagyományáról tanúskodnak.",
+      ro: "Școala misiunii Saint-Louis face parte din una dintre cele mai vechi așezări catolice din Noua Caledonie, fondată în 1856. Școala a jucat un rol central în educația și integrarea populației locale Kanak în sistemul educațional colonial. Clădirile istorice din piatră atestă tradiția pedagogică a fraților mariști.",
+      en: "The Saint-Louis Mission School is part of one of the oldest Catholic settlements in New Caledonia, founded in 1856. The school played a central role in the education and integration of the local Kanak population into the colonial education system. The historic stone buildings bear witness to the long-standing pedagogical tradition of the Marist Brothers.",
+    },
+    factsAdvanced: {
+      de: ["Mission gegründet im Jahr 1856", "Einer der ersten Bildungsstandorte der Insel", "Architektur aus lokalem Bruchstein", "Lehrte Landwirtschaft und Handwerk", "Befindet sich in der Gemeinde Le Mont-Dore", "Wichtiger Ort für die kulturelle Identität"],
+      hu: ["A missziót 1856-ban alapították", "A sziget egyik első oktatási helyszíne", "Helyi terméskőből emelt épületek", "Mezőgazdaságot és kézművességet is tanítottak", "Le Mont-Dore községben található", "A kulturális identitás fontos helyszíne"],
+      ro: ["Misiune fondată în anul 1856", "Unul dintre primele centre de învățământ", "Arhitectură din piatră brută locală", "Preda agricultura și meșteșugurile", "Situată în comuna Le Mont-Dore", "Loc crucial pentru identitatea culturală"],
+      en: ["Mission founded in the year 1856", "One of the first educational sites on the island", "Architecture features local quarry stone", "Taught agriculture and various trades", "Located in the municipality of Le Mont-Dore", "Important site for local cultural identity"],
+    },
   },
   {
     id: "newcaledonia-immaculate-conception-church-landmarks-v2",
@@ -703,6 +1135,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Located in Nouméa", "Modern religious architecture", "Regular services held", "Seat of an active parish"],
     },
     imageHint: "Church Noumea exterior",
+    descriptionAdvanced: {
+      de: "Die Kirche der Unbefleckten Empfängnis in Mont-Dore ist seit ihrer Einweihung im Jahr 1874 ein bedeutender Wallfahrtsort. Das neugotische Bauwerk mit seinem markanten Spitzturm wurde von Ordensbrüdern und Freiwilligen errichtet. Sie ist bekannt für ihre jährlichen Prozessionen am 15. August, die Gläubige aus ganz Neukaledonien anziehen.",
+      hu: "A Szeplőtelen Fogantatás temploma Mont-Dore-ban 1874-es felszentelése óta jelentős zarándokhely. A neogótikus építményt jellegzetes csúcsos tornyával szerzetesek és önkéntesek építették. Ismert az augusztus 15-i éves körmeneteiről, amelyek Új-Kaledónia minden részéről vonzzák a hívőket.",
+      ro: "Biserica Imaculata Concepție din Mont-Dore este un loc de pelerinaj important încă de la sfințirea sa în 1874. Edificiul neogotic, cu turnul său ascuțit distinctiv, a fost ridicat de frați călugări și voluntari. Este cunoscută pentru procesiunile anuale din 15 august care atrag credincioși din toată țara.",
+      en: "The Immaculate Conception Church in Mont-Dore has been a significant pilgrimage site since its consecration in 1874. The neo-Gothic structure, with its distinctive pointed spire, was built by friars and volunteers. It is renowned for its annual processions on August 15th, which draw believers from all over New Caledonia.",
+    },
+    factsAdvanced: {
+      de: ["Eingeweiht am 16. August 1874", "Befindet sich im Stadtteil Robinson", "Höhe des Kirchturms beträgt 15 Meter", "Wallfahrtsort seit dem Jahr 1875", "Erbaut von Bruder Jean Marmoiton", "Bekannt für den 'Wunderbrunnen' daneben"],
+      hu: ["1874. augusztus 16-án szentelték fel", "A Robinson negyedben található", "A templomtorony magassága 15 méter", "1875 óta hivatalos zarándokhely", "Jean Marmoiton testvér építette", "A mellette lévő 'csodakútról' is ismert"],
+      ro: ["Sfințită la 16 august 1874", "Situată în cartierul Robinson", "Înălțimea turului este de 15 metri", "Loc de pelerinaj din anul 1875", "Construită de fratele Jean Marmoiton", "Cunoscută pentru 'fântâna miraculoasă' vecină"],
+      en: ["Consecrated on August 16, 1874", "Located in the Robinson district", "The church spire stands 15 meters tall", "A site of pilgrimage since 1875", "Built by Brother Jean Marmoiton", "Famous for the 'miracle well' located nearby"],
+    },
   },
   {
     id: "newcaledonia-notre-dame-des-flots-landmarks-v2",
@@ -722,6 +1166,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Located on Ouvéa island", "Overlooking the sea", "White facade", "Important landmark of Ouvéa"],
     },
     imageHint: "Ouvea church beach",
+    descriptionAdvanced: {
+      de: "Die Statue Notre-Dame des Flots thront auf einer Klippe über der Santal-Bucht auf der Insel Lifou. Als Schutzpatronin der Seeleute ist dieses Denkmal ein wichtiger religiöser und kultureller Bezugspunkt für die Küstengemeinde. Von dem kleinen Oratorium aus bietet sich ein atemberaubender Blick auf das azurblaue Wasser und die ankommenden Schiffe.",
+      hu: "A Notre-Dame des Flots szobor a Lifou-szigeti Santal-öböl feletti sziklán magasodik. A tengerészek védőszentjeként ez az emlékmű fontos vallási és kulturális viszonyítási pont a parti közösség számára. A kis oratóriumtól lélegzetelállító kilátás nyílik az azúrkék vízre és az érkező hajókra.",
+      ro: "Statuia Notre-Dame des Flots tronează pe o stâncă deasupra Golfului Santal de pe insula Lifou. Ca patroană a marinarilor, acest monument este un punct de referință religios și cultural important pentru comunitatea de coastă. De la micul oratoriu se oferă o vedere uluitoare asupra apelor de azur.",
+      en: "The Notre-Dame des Flots statue perches on a cliff overlooking Santal Bay on Lifou Island. As the patron saint of sailors, this monument is an important religious and cultural reference point for the coastal community. From the small oratory, there is a breathtaking view of the azure waters and the arriving ships.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet im späten 19. Jahrhundert", "Befindet sich oberhalb von Easo", "Ziel einer jährlichen Wallfahrt", "Bietet 180-Grad-Blick auf die Bucht", "Schutzsymbol für die lokale Fischerei", "Erreichbar über einen steilen Pfad"],
+      hu: ["A 19. század végén állították", "Easo település felett található", "Éves zarándoklatok célpontja", "180 fokos kilátást nyújt az öbölre", "A helyi halászat védelmi szimbóluma", "Egy meredek ösvényen érhető el"],
+      ro: ["Ridicată la sfârșitul secolului XIX", "Situată deasupra localității Easo", "Destinație pentru pelerinajul anual", "Oferă o vedere de 180 de grade spre golf", "Simbol de protecție pentru pescarii locali", "Accesibilă printr-o potecă abruptă"],
+      en: ["Erected in the late 19th century", "Located above the village of Easo", "Destination for an annual pilgrimage", "Offers a 180-degree view of the bay", "Symbol of protection for local fisheries", "Accessible via a steep walking path"],
+    },
   },
   {
     id: "newcaledonia-ponerihouen-church-landmarks-v2",
@@ -741,6 +1197,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["East coast of Grande Terre", "Colonial building style", "Center of the village", "Well-maintained grounds"],
     },
     imageHint: "Ponerihouen church facade",
+    descriptionAdvanced: {
+      de: "Die Kirche von Ponérihouen ist ein markantes Wahrzeichen an der Ostküste von Grande Terre. Das im späten 19. Jahrhundert gegründete Gebäude spiegelt die Geschichte der Kaffeeproduktion und der christlichen Mission in dieser Region wider. Mit ihrem schlanken Turm und der Lage zwischen Bergen und Meer prägt sie das Ortsbild der Gemeinde.",
+      hu: "Ponérihouen temploma Grande Terre keleti partjának egyik meghatározó jelképe. A 19. század végén alapított épület a régió kávétermelésének és keresztény misszióinak történetét tükrözi. Karcsú tornyával, a hegyek és a tenger közötti elhelyezkedésével meghatározza a település látképét.",
+      ro: "Biserica din Ponérihouen este un simbol proeminent de pe coasta de est a insulei Grande Terre. Fondată la sfârșitul secolului al XIX-lea, clădirea reflectă istoria producției de cafea și a misiunilor creștine din această regiune. Cu turnul său zvelt, aceasta domină peisajul localității.",
+      en: "The Ponérihouen Church is a prominent landmark on the east coast of Grande Terre. Founded in the late 19th century, the building reflects the history of coffee production and Christian missions in this region. With its slender spire and location between mountains and sea, it shapes the town's landscape.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im späten 19. Jahrhundert", "Zentrum der katholischen Ostküsten-Mission", "Architektur mit neugotischen Einflüssen", "Wurde nach Zyklonschäden restauriert", "Nahe dem Ponérihouen-Fluss gelegen", "Bekannt für die umliegenden Kaffeegärten"],
+      hu: ["A 19. század végén alapították", "A keleti parti katolikus misszió központja", "Neogótikus hatású építészet jellemzi", "Ciklonkárok után teljesen restaurálták", "A Ponérihouen-folyó közelében található", "A környező kávéskertekről is ismert"],
+      ro: ["Fondată la sfârșitul secolului XIX", "Centrul misiunii catolice de pe coasta de est", "Arhitectură cu influențe neogotice", "Restaurată după daune provocate de ciclone", "Situată aproape de râul Ponérihouen", "Cunoscută pentru grădinile de cafea din jur"],
+      en: ["Founded in the late 19th century", "Center of the east coast Catholic mission", "Architecture shows neo-Gothic influences", "Restored after significant cyclone damage", "Located near the Ponérihouen River", "Known for the surrounding coffee gardens"],
+    },
   },
   {
     id: "newcaledonia-chateau-hagen-landmarks-v2",
@@ -760,6 +1228,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Built at the end of the 19th c.", "Public cultural space", "Surrounded by gardens", "Located in Vallée des Colons"],
     },
     imageHint: "Chateau Hagen Noumea",
+    descriptionAdvanced: {
+      de: "Das Château Hagen in Nouméa ist eine prachtvolle koloniale Residenz, die zwischen 1889 und 1892 erbaut wurde. Benannt nach seinem Besitzer John Joseph Hagen, ist das Gebäude ein herausragendes Beispiel für die bürgerliche Architektur des späten 19. Jahrhunderts. Heute dient das Anwesen als Kulturzentrum und Veranstaltungsort für Kunstausstellungen und Konzerte.",
+      hu: "A Nouméa-ban található Château Hagen egy pompás gyarmati rezidencia, amely 1889 és 1892 között épült. Tulajdonosáról, John Joseph Hagenről nevezték el, az épület a 19. század végi polgári építészet kiemelkedő példája. Ma az ingatlan kulturális központként működik, művészeti kiállításoknak és koncerteknek ad otthont.",
+      ro: "Château Hagen din Nouméa este o reședință colonială magnifică, construită între 1889 și 1892. Numit după proprietarul său, John Joseph Hagen, edificiul este un exemplu remarcabil de arhitectură burgheză de la sfârșitul secolului XIX. Astăzi, domeniul servește ca centru cultural pentru expoziții și concerte.",
+      en: "Château Hagen in Nouméa is a magnificent colonial residence built between 1889 and 1892. Named after its owner John Joseph Hagen, the building is an outstanding example of late 19th-century bourgeois architecture. Today, the estate serves as a cultural center and venue for art exhibitions and concerts.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1889 und 1892", "Ursprünglich Wohnhaus der Familie Hagen", "Ehemals Amtssitz des Generalgouverneurs", "Unter Denkmalschutz seit dem Jahr 1991", "Umgeben von einem botanischen Park", "Befindet sich im Stadtteil Vallée des Colons"],
+      hu: ["1889 és 1892 között épült", "Eredetileg a Hagen család lakóháza volt", "Egykor a főkormányzó rezidenciája is volt", "1991 óta áll műemléki védelem alatt", "Egy botanikus kert veszi körül", "A Vallée des Colons negyedben található"],
+      ro: ["Construit între anii 1889 și 1892", "Inițial locuința familiei Hagen", "Fostă reședință a Guvernatorului General", "Clasificat ca monument istoric în 1991", "Înconjurat de un parc botanic vast", "Situat în cartierul Vallée des Colons"],
+      en: ["Built between 1889 and 1892", "Originally the home of the Hagen family", "Formerly used as the Governor's residence", "Classified as a historic monument in 1991", "Surrounded by a scenic botanical park", "Located in the Vallée des Colons district"],
+    },
   },
   {
     id: "newcaledonia-museum-new-caledonia-landmarks-v2",
@@ -779,6 +1259,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Founded in 1863", "Extensive Kanak collection", "In the heart of Nouméa", "Important research center"],
     },
     imageHint: "Museum of New Caledonia Noumea facade",
+    descriptionAdvanced: {
+      de: "Das Museum von Neukaledonien in Nouméa widmet sich primär der Erhaltung und Ausstellung der Kanak-Kultur. Es beherbergt eine der weltweit bedeutendsten Sammlungen pazifischer Kunst, darunter traditionelle Holzschnitzereien und zeremonielle Masken. Die Exponate dokumentieren die soziokulturelle Entwicklung der indigenen Bevölkerung seit der vorkolonialen Ära.",
+      hu: "Az új-kaledóniai múzeum Nouméa központjában található, és az ország leggazdagabb kanak művészeti gyűjteményének ad otthont. A kiállítások bemutatják a melanéziai népcsoportok hagyományos életmódját, szertartásait és kézművességét. Az intézmény kulcsszerepet játszik a csendes-óceáni térség kulturális örökségének megőrzésében és kutatásában.",
+      ro: "Muzeul Noii Caledonii din Nouméa este principala instituție dedicată conservării culturii Kanak și a artelor din regiunea Pacificului. Colecțiile sale includ obiecte arheologice, sculpturi tradiționale în lemn și elemente etnografice unice. Muzeul oferă o perspectivă detaliată asupra istoriei sociale și a tradițiilor indigene de dinaintea sosirii europenilor.",
+      en: "The Museum of New Caledonia in Nouméa is the premier institution for Kanak art and Pacific islander culture. It houses an extensive collection of traditional woodcarvings, ceremonial masks, and archaeological artifacts. The museum serves as a vital center for the preservation of Melanesian heritage and the study of South Pacific history.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1971 zur Förderung der lokalen Kultur.", "Beherbergt über 5000 katalogisierte ethnografische Objekte.", "Spezialisierte Abteilung für maritime Geschichte des Archipels.", "Regelmäßige Wechselausstellungen zeitgenössischer Kanak-Künstler.", "Das Gebäude liegt in der Nähe des Hafens von Moselle.", "Wichtigster Forschungsstandort für neukaledonische Archäologie."],
+      hu: ["Az intézményt 1971-ben alapították a helyi örökség védelmére.", "Több mint 5000 katalogizált néprajzi tárggyal rendelkezik.", "A gyűjtemény a világ egyik legfontosabb kanak-művészeti tára.", "Külön részleg foglalkozik a tengerparti népek halászati szokásaival.", "A múzeum épülete Nouméa történelmi központjában található.", "Gyakran ad otthont regionális kulturális konferenciáknak."],
+      ro: ["Fondat în 1971 pentru a proteja patrimoniul local.", "Adăpostește peste 5.000 de obiecte etnografice inventariate.", "Deține una dintre cele mai mari colecții de artă Kanak din lume.", "Include secțiuni dedicate navigației tradiționale polineziene.", "Situat strategic în apropierea portului Moselle din Nouméa.", "Organizează ateliere periodice de sculptură tradițională."],
+      en: ["Established in 1971 to promote and preserve local culture.", "Houses over 5,000 cataloged ethnographic objects.", "Contains one of the world's most significant Kanak art collections.", "Features a specialized section on traditional maritime history.", "Located in central Nouméa near the Port Moselle area.", "Serves as a primary research center for regional archaeology."],
+    },
   },
   {
     id: "newcaledonia-old-market-noumea-landmarks-v2",
@@ -798,6 +1290,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Distinctive blue roofs", "Center of daily trade", "Near Port Moselle", "Place for handicrafts"],
     },
     imageHint: "Noumea market Port Moselle",
+    descriptionAdvanced: {
+      de: "Der Markt von Nouméa am Port Moselle ist das wirtschaftliche Herz der Hauptstadt und ein täglicher Treffpunkt für Erzeuger und Konsumenten. In den markanten blauen Runddachhallen werden frischer Fisch, tropische Früchte und handwerkliche Erzeugnisse verkauft. Er spiegelt die multikulturelle Vielfalt der Insel durch sein breites Sortiment an Gewürzen und Speisen wider.",
+      hu: "A nouméai Port Moselle piaca a főváros legforgalmasabb kereskedelmi központja és a helyi gasztronómia forrása. A kék tetős épületekben a tenger gyümölcseitől az egzotikus gyümölcsökig minden megtalálható. A látogatók itt ismerhetik meg leginkább a kaledóniai mindennapok pezsgését és a különböző népcsoportok kézműves termékeit.",
+      ro: "Piața din Nouméa, situată în Port Moselle, reprezintă centrul vital al schimburilor comerciale locale și al vieții cotidiene. Recunoscută după pavilioanele sale cu acoperiș albastru, piața oferă produse proaspete, de la pește oceanic la fructe exotice. Este locul ideal pentru a descoperi diversitatea culturală a insulei prin gastronomie și artizanat.",
+      en: "The Nouméa Market at Port Moselle is the vibrant economic heart of the capital and a daily gathering place for locals. Housed in iconic blue-roofed pavilions, it offers an array of fresh seafood, tropical produce, and artisanal crafts. The market reflects New Caledonia's multicultural diversity through its wide variety of spices, flowers, and traditional foods.",
+    },
+    factsAdvanced: {
+      de: ["Geöffnet täglich außer montags ab den frühen Morgenstunden.", "Besteht aus fünf spezialisierten kreisförmigen Markthallen.", "Die Fischhalle wird direkt von lokalen Fischern beliefert.", "Bekannt für das Angebot an Vanille von den Loyalitätsinseln.", "Sonntags spielen oft lokale Musikgruppen auf dem Vorplatz.", "Wichtigster Ort für den Kauf von handgefertigten Pareos."],
+      hu: ["Hétfő kivételével minden nap hajnalban nyit ki.", "Öt különböző tematikus pavilonból áll a komplexum.", "A halcsarnokot közvetlenül a helyi halászok látják el.", "Híres a hűség-szigeteki eredetű friss vaníliáról.", "Vasárnaponként gyakran élő népzene szórakoztatja a vevőket.", "A város legnépszerűbb helye a helyi kézműves ajándéktárgyakhoz."],
+      ro: ["Deschisă zilnic, cu excepția zilei de luni, de la ora 5 dimineața.", "Complexul este format din cinci pavilioane circulare distincte.", "Secțiunea de pește primește marfă direct de la pescarii locali.", "Este renumită pentru vanilia adusă din Insulele Loialității.", "Duminica este cea mai aglomerată zi, cu spectacole live.", "Piața este principalul nod pentru comerțul cu flori tropicale."],
+      en: ["Open daily except Mondays from early morning until noon.", "The complex consists of five specialized circular pavilions.", "The seafood section is supplied directly by local fishermen.", "Famous for selling high-quality vanilla from the Loyalty Islands.", "Sundays often feature live music and local performances.", "A key location for purchasing authentic Kanak handicrafts."],
+    },
   },
   {
     id: "newcaledonia-noumea-semaphore-landmarks-v2",
@@ -817,6 +1321,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Panoramic city views", "Optical telegraphy", "On Mont Coffyn", "Formerly a strategic point"],
     },
     imageHint: "Semaphore hill Noumea",
+    descriptionAdvanced: {
+      de: "Das alte Sémaphore von Nouméa befindet sich auf einer Anhöhe über der Stadt und diente historisch der Überwachung des Schiffsverkehrs in der Lagune. Die Anlage war Teil eines Verteidigungsnetzwerks und sicherte den strategischen Hafenplatz. Heute ist der Ort vor allem für seinen Panoramablick bekannt, der die gesamte Hauptstadt und die umliegenden Inseln umfasst.",
+      hu: "A nouméai régi szemafor a város egyik magaslati pontján helyezkedik el, és történelmileg a hajóforgalom irányítására szolgált. A stratégiai fontosságú jelzőállomás segítette a navigációt a korallzátonyok között és a kikötő védelmét. Napjainkban a helyszín kilátóként funkcionál, ahonnan lenyűgöző panoráma nyílik a lagúnára és a környező szigetekre.",
+      ro: "Vechiul Semafor din Nouméa este situat pe un deal strategic, oferind o supraveghere completă asupra traficului maritim din lagună. Această structură istorică a jucat un rol esențial în comunicarea navală înainte de era modernă a radarelor. În prezent, zona este un punct de belvedere popular, oferind vizibilitate asupra întregului oraș și a barierei de corali.",
+      en: "The Old Nouméa Semaphore is situated on a high point overlooking the city, historically used for monitoring maritime traffic in the lagoon. This signaling station was crucial for naval communication and port security during the colonial era. Today, the site is a popular viewpoint providing panoramic vistas of the capital, the harbor, and the surrounding reef islands.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 19. Jahrhundert zur maritimen Kommunikation.", "Befindet sich auf dem Signal Hill (Mont Coffyn).", "Diente während des Zweiten Weltkriegs als Ausguck.", "Teilweise restauriert, um die historische Architektur zu zeigen.", "Der Standort ist über Wanderwege von der Stadt aus erreichbar.", "Bietet 360-Grad-Aussichten über die Lagune von Nouméa."],
+      hu: ["A 19. században épült tengeri kommunikációs célokra.", "A Mont Coffyn (Signal-domb) tetején található az épület.", "A második világháború alatt megfigyelőpontként működött.", "Az építményt részben felújították műemlékvédelmi okokból.", "Gyalogösvények vezetnek fel a várostól a kilátóig.", "360 fokos panorámát nyújt a nouméai korallzátonyokra."],
+      ro: ["Construit în secolul al XIX-lea pentru comunicații navale.", "Situat pe vârful dealului Mont Coffyn din Nouméa.", "A servit ca post de observație în timpul celui de-al Doilea Război Mondial.", "Structura păstrează elemente arhitecturale originale restaurate.", "Accesibil prin mai multe trasee de drumeție urbane.", "Oferă vederi panoramice de 360 de grade asupra lagunei."],
+      en: ["Built in the 19th century for maritime visual signaling.", "Located atop Signal Hill, also known as Mont Coffyn.", "Used as an observation post during World War II.", "The structure has been partially restored for visitors.", "Accessible via walking trails from the lower city areas.", "Offers 360-degree views over the Nouméa lagoon."],
+    },
   },
   {
     id: "newcaledonia-saint-gabriel-canala-landmarks-v2",
@@ -836,6 +1352,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Located in the mountains", "Old mission building", "Cultural heritage", "Important for the Canala region"],
     },
     imageHint: "Canala mission building",
+    descriptionAdvanced: {
+      de: "Die Mission Saint-Gabriel in Canala ist eine der ältesten katholischen Einrichtungen an der Ostküste Neukaledoniens. Die im 19. Jahrhundert gegründete Missionsstation war ein Zentrum der Evangelisierung und Bildung für die lokale Kanak-Bevölkerung. Die Kirche besticht durch ihre schlichte Architektur und ihre historische Bedeutung für die regionale Entwicklung.",
+      hu: "A Canalában található Saint-Gabriel misszió Új-Kaledónia keleti partjának egyik legrégebbi katolikus intézménye. A 19. század közepén alapított állomás fontos szerepet játszott a helyi kanak közösségek oktatásában és keresztény hitéletében. A templom egyszerű, de méltóságteljes építészete a korai missziós korszak hangulatát idézi.",
+      ro: "Misiunea Saint-Gabriel din Canala este unul dintre cele mai vechi așezăminte catolice de pe coasta de est a Noii Caledonii. Fondată în secolul al XIX-lea, misiunea a servit ca centru de educație și evanghelizare pentru populația locală Kanak. Biserica rămâne un punct de referință istoric, reflectând eforturile misionare timpurii în arhipelag.",
+      en: "The Saint-Gabriel Mission in Canala is one of the oldest Catholic establishments on the east coast of New Caledonia. Founded in the mid-19th century, the mission station played a significant role in the education and religious life of the local Kanak communities. The church features simple yet historic architecture that reflects the early missionary era in the region.",
+    },
+    factsAdvanced: {
+      de: ["Die Missionsstation wurde offiziell 1858 gegründet.", "Die Kirche ist dem Erzengel Gabriel geweiht.", "Wichtiger Ort für die Integration europäischer Bautechniken.", "Verfügt über ein historisches Pfarrhaus und Schulgebäude.", "Liegt in einer malerischen Umgebung am Fuße der Berge.", "Eines der bedeutendsten Baudenkmäler in der Gemeinde Canala."],
+      hu: ["A missziót hivatalosan 1858-ban alapították.", "A templomot Gábriel arkangyal tiszteletére szentelték.", "Fontos helyszíne az európai építészeti stílusok elterjedésének.", "A komplexumhoz egy régi plébánia és iskolaépület is tartozik.", "A hegyek lábánál, festői természeti környezetben fekszik.", "Canala község egyik legfontosabb műemléki védelmet élvező helye."],
+      ro: ["Misiunea a fost stabilită oficial în anul 1858.", "Biserica este dedicată Sfântului Arhanghel Gabriel.", "Reprezintă un amestec de arhitectură colonială și materiale locale.", "Include o casă parohială veche și foste clădiri școlare.", "Situată într-un cadru natural spectaculos, la poalele munților.", "Este un simbol al istoriei religioase de pe coasta de est."],
+      en: ["The mission station was formally established in 1858.", "The church is dedicated to Saint Gabriel the Archangel.", "A key site for early European architectural influence in the area.", "The site includes a historic rectory and school buildings.", "Nestled in a picturesque landscape at the foot of the mountains.", "One of the most significant historical landmarks in Canala."],
+    },
   },
   {
     id: "newcaledonia-paita-church-landmarks-v2",
@@ -855,6 +1383,18 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Located in Païta", "Important parish", "Heart of the town center", "Historical significance"],
     },
     imageHint: "Paita church exterior",
+    descriptionAdvanced: {
+      de: "Die Kirche Sacré-Cœur in Païta ist ein markantes religiöses Gebäude westlich von Nouméa. Sie dient der katholischen Gemeinde der landwirtschaftlich geprägten Region und ist ein zentraler Ort für lokale Feste und Zeremonien. Die Architektur verbindet klassische europäische Sakralelemente mit Anpassungen an das tropische Klima der Pazifikinsel.",
+      hu: "A païtai Szent Szív (Sacré-Cœur) templom Nouméától nyugatra található, a város vallási életének központja. A mezőgazdasági régió hívő közösségét szolgálja, és fontos helyszíne a helyi közösségi eseményeknek és ünnepeknek. Építészete a klasszikus európai szakrális stílust ötvözi a trópusi környezeti adottságokkal.",
+      ro: "Biserica Sacré-Cœur din Païta este un edificiu religios important situat la vest de Nouméa. Servește comunitatea catolică dintr-o regiune cu tradiție agricolă, fiind punctul central pentru sărbătorile și ceremoniile locale. Arhitectura sa îmbină elemente sacrale europene cu adaptări specifice climatului tropical din Pacific.",
+      en: "The Sacré-Cœur Church in Païta is a prominent religious building located west of Nouméa. It serves the Catholic community of this agricultural region and acts as a central hub for local festivals and ceremonies. The church's design blends classical European sacred architecture with adaptations suited to the Pacific island's tropical climate.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im späten 19. Jahrhundert durch die Missionare.", "Die Kirche ist dem Heiligsten Herzen Jesu geweiht.", "Païta ist bekannt für seine jährlichen Rinderfeste.", "Das Gebäude wurde mehrfach renoviert, um Zyklonschäden zu beheben.", "Verfügt über bunte Glasfenster mit biblischen Motiven.", "Wichtigster Treffpunkt für die Bewohner der umliegenden Farmen."],
+      hu: ["A 19. század végén építették a helyi misszionáriusok.", "A templomot Jézus Szent Szíve tiszteletére szentelték.", "Païta híres az éves marhavásáráról és vidéki fesztiváljáról.", "Az épületet többször felújították a ciklonkárok után.", "Színes, bibliai jeleneteket ábrázoló üvegablakai vannak.", "A környékbeli farmerek és lakosok legfőbb gyülekezőhelye."],
+      ro: ["Construită la sfârșitul secolului al XIX-lea de către misionari.", "Lăcașul de cult este dedicat Inimii Sacre a lui Isus.", "Païta este celebră pentru festivalul anual al vitelor.", "Clădirea a fost consolidată pentru a rezista ciclonilor tropicali.", "Interiorul prezintă vitralii colorate cu scene biblice.", "Reprezintă un nucleu social pentru comunitatea rurală din jur."],
+      en: ["Built in the late 19th century by Catholic missionaries.", "The church is dedicated to the Sacred Heart of Jesus.", "Païta is famous for its annual beef festival and rodeo.", "The building has been restored several times following cyclones.", "Features vibrant stained-glass windows with biblical themes.", "A major social and religious center for the surrounding farmland."],
+    },
   },
   {
     id: "newcaledonia-sarramela-church-landmarks-v2",
@@ -874,5 +1414,17 @@ export const newcaledoniaLandmarksV2: POI[] = [
       en: ["Located in the mountains", "Smallest commune of Grande Terre", "Green surroundings", "Peaceful atmosphere"],
     },
     imageHint: "Sarramea village church",
+    descriptionAdvanced: {
+      de: "Die kleine Kirche von Sarraméa liegt eingebettet in die üppige Vegetation der Zentralkette Neukaledoniens. Diese ländliche Kapelle ist charakteristisch für die abgelegenen Gemeinden der Insel und strahlt eine besondere Ruhe aus. Sie ist ein Symbol für den tief verwurzelten Glauben in den Bergdörfern und fügt sich harmonisch in die natürliche Landschaft ein.",
+      hu: "Sarraméa kis temploma Új-Kaledónia központi hegységének buja növényzetében, egy festői völgyben fekszik. Ez a vidéki kápolna hűen tükrözi a sziget elszigetelt közösségeinek vallási életét és nyugalmát. A templom egyszerű kialakítása és békés környezete miatt kedvelt megállóhely a hegyvidéki túrázók körében.",
+      ro: "Mica biserică din Sarraméa este amplasată în vegetația luxuriantă a lanțului muntos central din Noua Caledonie. Această capelă rurală este caracteristică pentru comunitățile izolate de pe insulă, oferind o atmosferă de liniște deplină. Este un simbol al credinței profunde din satele de munte și se integrează perfect în peisajul natural.",
+      en: "The small church of Sarraméa is nestled in the lush vegetation of New Caledonia's central mountain range. This rural chapel is characteristic of the island's remote communities and offers a peaceful atmosphere. It stands as a symbol of faith in the mountain villages and blends harmoniously with the surrounding natural landscape.",
+    },
+    factsAdvanced: {
+      de: ["Liegt in einer der kleinsten Gemeinden Neukaledoniens.", "Sarraméa ist bekannt für den Anbau von Arabica-Kaffee.", "Die Kirche hat eine einfache, funktionale Holzstruktur.", "Wird oft für lokale Erntedankfeste genutzt.", "Umgeben von botanischen Wanderwegen und Naturparks.", "Ein seltener Zeuge der frühen ländlichen Besiedlung."],
+      hu: ["Új-Kaledónia egyik legkisebb községében található.", "Sarraméa híres az itt termesztett Arabica kávéról.", "A templom egyszerű, funkcionális faszerkezettel bír.", "Gyakran szolgál helyszínéül a helyi aratási ünnepeknek.", "Botanikai tanösvények és természetvédelmi területek veszik körül.", "A korai vidéki telepes életmód ritka építészeti emléke."],
+      ro: ["Situată în una dintre cele mai mici comune din Noua Caledonie.", "Sarraméa este renumită pentru plantațiile de cafea Arabica.", "Biserica are o structură simplă, construită parțial din lemn.", "Utilizată frecvent pentru festivalurile locale ale recoltei.", "Înconjurată de trasee botanice și rezervații naturale.", "Un vestigiu rar al arhitecturii rurale coloniale timpurii."],
+      en: ["Located in one of the smallest communes in New Caledonia.", "Sarraméa is well-known for its Arabica coffee production.", "The church features a simple and functional wooden design.", "Often used as a venue for local harvest celebrations.", "Surrounded by botanical trails and natural reserves.", "A rare architectural witness to early rural mountain settlement."],
+    },
   }
 ];

@@ -19,6 +19,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Main backbone of Grande Terre", "Over 400 kilometers long", "Creates a climatic divide", "Consists partly of volcanic rocks"],
     },
     imageHint: "Chaîne Centrale New Caledonia mountains aerial",
+    descriptionAdvanced: {
+      de: "Die Chaîne Centrale ist das zentrale Gebirgsmassiv, das sich über die gesamte Länge der Hauptinsel Grande Terre erstreckt. Diese Bergkette teilt das Land in eine feuchte Ostküste und eine trockenere Westküste. Der höchste Gipfel ist der Mont Panié mit einer Höhe von 1628 Metern über dem Meeresspiegel. Die Berge sind reich an Bodenschätzen, insbesondere Nickel, das für die Wirtschaft des Landes entscheidend ist.",
+      hu: "A Chaîne Centrale a központi hegység, amely végighúzódik a fősziget, Grande Terre teljes hosszán. Ez a hegylánc osztja ketté az országot egy párás keleti partra és egy szárazabb nyugati partra. Legmagasabb csúcsa a Mont Panié, amely 1628 méterrel magasodik a tengerszint fölé. A hegyek gazdagok ásványkincsekben, különösen nikkelben, amely döntő fontosságú az ország gazdasága számára.",
+      ro: "Chaîne Centrale este masivul muntos central care se întinde pe întreaga lungime a insulei principale Grande Terre. Acest lanț muntos divide țara într-o coastă de est umedă și o coastă de vest mai uscată. Cel mai înalt vârf este Mont Panié, cu o altitudine de 1628 de metri deasupra nivelului mării. Munții sunt bogați în resurse minerale, în special nichel, care este crucial pentru economia țării.",
+      en: "The Chaîne Centrale is the central mountain range extending across the entire length of the main island, Grande Terre. This mountain chain divides the country into a humid east coast and a drier west coast. The highest peak is Mont Panié, rising to 1628 meters above sea level. The mountains are rich in mineral resources, particularly nickel, which is crucial for the country's economy.",
+    },
+    factsAdvanced: {
+      de: ["Länge von etwa 400 Kilometern", "Höchster Punkt: Mont Panié (1628 m)", "Trennt Ost- und Westküste", "Reich an Nickelvorkommen", "Hauptrückgrat der Insel Grande Terre", "Beeinflusst das lokale Mikroklima"],
+      hu: ["Körülbelül 400 kilométer hosszú", "Legmagasabb pont: Mont Panié (1628 m)", "Elválasztja a keleti és nyugati partot", "Gazdag nikkellelőhelyekben", "Grande Terre szigetének fő gerince", "Befolyásolja a helyi mikroklímát"],
+      ro: ["Lungime de aproximativ 400 km", "Cel mai înalt punct: Mont Panié (1628 m)", "Separă coasta de est de cea de vest", "Bogată în zăcăminte de nichel", "Coloana vertebrală a insulei Grande Terre", "Influențează microclimatul local"],
+      en: ["Length of approximately 400 kilometers", "Highest point: Mont Panié (1628 m)", "Separates east and west coasts", "Rich in nickel deposits", "Main backbone of Grande Terre island", "Influences the local microclimate"],
+    },
   },
   {
     id: "newcaledonia-mont-koghi-relief-v2",
@@ -38,6 +50,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Highest point: 1,061 meters", "Known for rich biodiversity", "Site of a mountain resort", "Often shrouded in mist"],
     },
     imageHint: "Monts Koghi New Caledonia view lagoon",
+    descriptionAdvanced: {
+      de: "Die Monts Koghi sind ein Bergmassiv in unmittelbarer Nähe der Hauptstadt Nouméa in der Gemeinde Dumbéa. Sie sind bekannt für ihren dichten Primärregenwald und bieten zahlreiche Wanderwege mit Panoramablick auf die Lagune. Auf einer Höhe von etwa 500 Metern befindet sich eine Auberge, die als Ausgangspunkt für Exkursionen dient. Die Vegetation umfasst viele endemische Farne und seltene Baumarten der Region.",
+      hu: "A Monts Koghi egy hegység közvetlenül a főváros, Nouméa közelében, Dumbéa községben. Sűrű elsődleges esőerdőjéről ismert, és számos túraútvonalat kínál panorámás kilátással a lagúnára. Körülbelül 500 méteres magasságban található egy fogadó, amely az expedíciók kiindulópontjaként szolgál. A növényzet számos endemikus páfrányt és a régió ritka fafajait foglalja magában.",
+      ro: "Munții Koghi sunt un masiv muntos situat în imediata apropiere a capitalei Nouméa, în comuna Dumbéa. Sunt cunoscuți pentru pădurea tropicală primară densă și oferă numeroase trasee de drumeție cu vederi panoramice asupra lagunei. La o altitudine de aproximativ 500 de metri se află un han care servește ca punct de plecare pentru excursii. Vegetația include multe ferigi endemice și specii de arbori rari din regiune.",
+      en: "The Monts Koghi are a mountain range located in the immediate vicinity of the capital, Nouméa, in the municipality of Dumbéa. They are known for their dense primary rainforest and offer numerous hiking trails with panoramic views of the lagoon. At an elevation of about 500 meters, there is an inn that serves as a starting point for excursions. The vegetation includes many endemic ferns and rare tree species of the region.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 1061 Meter", "Nur 15 Kilometer von Nouméa entfernt", "Standort einer Wetterstation", "Reich an endemischen Farnen", "Beliebtes Ziel für Tageswanderungen", "Gehört zur Gemeinde Dumbéa"],
+      hu: ["Legmagasabb csúcs: 1061 méter", "Csak 15 kilométerre Nouméától", "Időjárási állomás helyszíne", "Gazdag endemikus páfrányokban", "Népszerű egynapos túracélpont", "Dumbéa községhez tartozik"],
+      ro: ["Cel mai înalt vârf: 1061 metri", "La doar 15 kilometri de Nouméa", "Locația unei stații meteorologice", "Bogat în ferigi endemice", "Destinație populară pentru drumeții", "Aparține comunei Dumbéa"],
+      en: ["Highest peak: 1061 meters", "Only 15 kilometers from Nouméa", "Site of a weather station", "Rich in endemic ferns", "Popular destination for day hikes", "Belongs to the municipality of Dumbéa"],
+    },
   },
   {
     id: "newcaledonia-mont-aoupinie-relief-v2",
@@ -57,6 +81,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,006 meters", "Important area for rare birds", "Possesses dense rainforests", "Popular among ornithologists"],
     },
     imageHint: "Mont Aoupinié New Caledonia rainforest",
+    descriptionAdvanced: {
+      de: "Der Mont Aoupinié liegt an der Grenze zwischen der Nord- und Südprovinz von Grande Terre. Das Massiv ist seit 1975 als Naturschutzgebiet ausgewiesen, um die einzigartige Flora und Fauna zu bewahren. Es ist ein wichtiger Lebensraum für bedrohte Vogelarten wie den Cagou und den Notou. Die Hänge sind von dichtem, feuchtem Tropenwald bedeckt, der eine hohe wissenschaftliche Bedeutung für die Botanik hat.",
+      hu: "A Mont Aoupinié Grande Terre északi és déli tartományának határán fekszik. A hegységet 1975-ben természetvédelmi területté nyilvánították az egyedülálló flóra és fauna megőrzése érdekében. Fontos élőhelye az olyan veszélyeztetett madárfajoknak, mint a kagu és a notou galamb. Lejtőit sűrű, nedves trópusi erdő borítja, amely nagy tudományos jelentőséggel bír a botanika számára.",
+      ro: "Mont Aoupinié este situat la granița dintre provinciile de nord și de sud ale insulei Grande Terre. Masivul a fost declarat rezervație naturală în 1975 pentru a păstra flora și fauna unică. Este un habitat important pentru specii de păsări periclitate, cum ar fi Cagou și porumbelul Notou. Versanții sunt acoperiți de o pădure tropicală umedă densă, care are o mare importanță științifică pentru botanică.",
+      en: "Mont Aoupinié is located on the border between the North and South Provinces of Grande Terre. The massif has been designated as a nature reserve since 1975 to preserve its unique flora and fauna. It is an important habitat for endangered bird species such as the Cagou and the Notou pigeon. The slopes are covered by dense, humid tropical forest, which holds great scientific significance for botany.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe von 1006 Metern", "Naturschutzgebiet seit 1975", "Grenze der Nord- und Südprovinz", "Heimat des Notou-Pigeons", "Wichtiges Forschungsgebiet für Botanik", "Dichter Regenwaldbestand"],
+      hu: ["Maximális magasság: 1006 méter", "Természetvédelmi terület 1975 óta", "Északi és déli tartomány határa", "A notou galamb élőhelye", "Fontos botanikai kutatási terület", "Sűrű esőerdő borítja"],
+      ro: ["Înălțime maximă de 1006 metri", "Rezervație naturală din 1975", "Granița dintre Provincia Nord și Sud", "Habitat al porumbelului Notou", "Zonă importantă de cercetare botanică", "Acoperit de pădure tropicală densă"],
+      en: ["Maximum height of 1006 meters", "Nature reserve since 1975", "Border of North and South Provinces", "Home to the Notou pigeon", "Important research area for botany", "Dense rainforest cover"],
+    },
   },
   {
     id: "newcaledonia-plateau-de-dogny-relief-v2",
@@ -76,6 +112,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Average elevation: 1,000 meters", "Possible to see both coasts", "Unique highland flora", "Part of a large hiking trail network"],
     },
     imageHint: "Plateau de Dogny New Caledonia hiking view",
+    descriptionAdvanced: {
+      de: "Das Plateau de Dogny liegt oberhalb der Gemeinde Sarraméa im Herzen der Zentralkette. Es ist ein markanter Ort, an dem sich tropischer Wald mit weiten Grasflächen und Savannah-Vegetation abwechselt. Das Plateau bietet eine weite Sicht über die Küstenebene und den Pazifik und ist ein Ziel für anspruchsvolle Wanderungen. Es ist Teil des GR1-Fernwanderwegs, der die vielfältigen Landschaften der Insel verbindet.",
+      hu: "A Plateau de Dogny Sarraméa község felett található a központi hegység szívében. Ez egy különleges hely, ahol a trópusi erdők tágas füves területekkel és szavanna-vegetációval váltakoznak. A fennsík széles kilátást nyújt a tengerparti síkságra és a Csendes-óceánra, és igényes túrák célpontja. Része a GR1 hosszú távú túraútvonalnak, amely összeköti a sziget változatos tájait.",
+      ro: "Platoul Dogny este situat deasupra comunei Sarraméa, în inima lanțului central. Este un loc distinctiv unde pădurea tropicală alternează cu suprafețe vaste de iarbă și vegetație de savană. Platoul oferă o vedere largă asupra câmpiei de coastă și a Oceanului Pacific, fiind o destinație pentru drumeții solicitante. Face parte din traseul de lungă distanță GR1, care leagă diversele peisaje ale insulei.",
+      en: "The Plateau de Dogny is located above the municipality of Sarraméa in the heart of the central range. It is a distinctive place where tropical forest alternates with wide grasslands and savanna vegetation. The plateau offers extensive views over the coastal plain and the Pacific Ocean and is a destination for demanding hikes. It is part of the GR1 long-distance trail, which connects the island's diverse landscapes.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von ca. 1050 Metern", "Liegt in der Gemeinde Sarraméa", "Teil des Wanderwegs GR1", "Mix aus Wald und Savanne", "Panoramablick auf die Lagune", "Bekannt für dichte Nebelwälder"],
+      hu: ["Körülbelül 1050 méter magas", "Sarraméa községben található", "A GR1 túraútvonal része", "Erdő és szavanna keveréke", "Panorámás kilátás a lagúnára", "Sűrű köderdőiről ismert"],
+      ro: ["Altitudine de aprox. 1050 metri", "Situat în comuna Sarraméa", "Parte a traseului de drumeție GR1", "Mix de pădure și savană", "Vedere panoramică spre lagună", "Cunoscut pentru păduri de ceață"],
+      en: ["Elevation of approx. 1050 meters", "Located in Sarraméa municipality", "Part of the GR1 hiking trail", "Mix of forest and savanna", "Panoramic view of the lagoon", "Known for dense cloud forests"],
+    },
   },
   {
     id: "newcaledonia-mont-ignambi-relief-v2",
@@ -95,6 +143,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,311 meters", "Very steep terrain", "Part of a protected area", "Covered with cloud forest"],
     },
     imageHint: "Mont Ignambi New Caledonia mountain range",
+    descriptionAdvanced: {
+      de: "Der Mont Ignambi erhebt sich im nördlichen Teil von Grande Terre in der Nähe von Ouégoa. Mit einer Höhe von 1311 Metern ist er eine der bedeutendsten Erhebungen der nördlichen Sektion der Chaîne Centrale. Geologisch besteht der Berg vor allem aus Glimmerschiefer und weist steile, bewaldete Flanken auf. Er beherbergt eine reiche Endemitflora, darunter seltene Palmenarten, die nur in dieser Höhenlage vorkommen.",
+      hu: "A Mont Ignambi Grande Terre északi részén, Ouégoa közelében emelkedik ki. 1311 méteres magasságával a Chaîne Centrale északi szakaszának egyik legjelentősebb kiemelkedése. Geológiailag a hegy főleg csillámpalából áll, és meredek, erdős oldalai vannak. Gazdag endemikus flórának ad otthont, többek között olyan ritka pálmafajoknak, amelyek csak ebben a magasságban találhatók meg.",
+      ro: "Mont Ignambi se ridică în partea de nord a insulei Grande Terre, în apropiere de Ouégoa. Cu o înălțime de 1311 metri, este una dintre cele mai importante elevații din secțiunea nordică a Chaîne Centrale. Geologic, muntele constă în principal din mica-schist și prezintă versanți abrupți și împăduriți. Găzduiește o floră endemică bogată, inclusiv specii rare de palmieri care se găsesc doar la această altitudine.",
+      en: "Mont Ignambi rises in the northern part of Grande Terre near Ouégoa. With a height of 1311 meters, it is one of the most significant elevations in the northern section of the Chaîne Centrale. Geologically, the mountain consists mainly of mica-schist and features steep, forested flanks. It houses a rich endemic flora, including rare palm species that are only found at this altitude.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 1311 Metern", "Liegt in der Nähe von Ouégoa", "Besteht aus Glimmerschiefer", "Teil der nördlichen Chaîne Centrale", "Vorkommen von Kentiopsis pyriformis", "Steile geografische Profile"],
+      hu: ["1311 méter magas", "Ouégoa közelében található", "Csillámpalából épül fel", "A Chaîne Centrale északi része", "Kentiopsis pyriformis lelőhelye", "Meredek földrajzi profil"],
+      ro: ["Înălțime de 1311 metri", "Situat lângă Ouégoa", "Compus din mica-schist", "Parte a Chaîne Centrale de nord", "Prezența speciei Kentiopsis pyriformis", "Profile geografice abrupte"],
+      en: ["Height of 1311 meters", "Located near Ouégoa", "Composed of mica-schist", "Part of the northern Chaîne Centrale", "Occurrence of Kentiopsis pyriformis", "Steep geographical profiles"],
+    },
   },
   {
     id: "newcaledonia-mont-colnett-relief-v2",
@@ -114,6 +174,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,505 meters", "Named after James Colnett", "Uninhabited wilderness area", "Raimiest region of the island"],
     },
     imageHint: "Mont Colnett New Caledonia peak clouds",
+    descriptionAdvanced: {
+      de: "Der Mont Colnett ist der zweithöchste Berg Neukaledoniens und liegt im Nordosten der Hauptinsel Grande Terre. Er bildet zusammen mit dem benachbarten Mont Panié ein beeindruckendes Gebirgsmassiv. Die Region ist bekannt für ihre extrem hohen Niederschlagsmengen, die eine üppige Regenwaldvegetation begünstigen. Der Berg besteht aus kristallinem Gestein und beherbergt zahlreiche seltene Orchideenarten und endemische Moose.",
+      hu: "A Mont Colnett Új-Kaledónia második legmagasabb hegye, Grande Terre főszigetének északkeleti részén található. A szomszédos Mont Paniéval együtt egy lenyűgöző hegymasszívumot alkot. A régió rendkívül magas csapadékmennyiségéről ismert, ami elősegíti a buja esőerdő-vegetáció kialakulását. A hegy kristályos kőzetből áll, és számos ritka orchideafajnak és endemikus mohának ad otthont.",
+      ro: "Mont Colnett este al doilea cel mai înalt munte din Noua Caledonie, situat în nord-estul insulei principale Grande Terre. Acesta formează, împreună cu vecinul său Mont Panié, un masiv muntos impresionant. Regiunea este cunoscută pentru precipitațiile extrem de ridicate, care favorizează o vegetație luxuriantă de pădure tropicală. Muntele este compus din roci cristaline și găzduiește numeroase specii rare de orhidee și mușchi endemici.",
+      en: "Mont Colnett is the second highest mountain in New Caledonia, located in the northeast of the main island, Grande Terre. Together with neighboring Mont Panié, it forms an impressive mountain massif. The region is known for its extremely high rainfall, which favors lush rainforest vegetation. The mountain consists of crystalline rock and houses numerous rare orchid species and endemic mosses.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 1505 Metern", "Zweithöchster Berg des Landes", "Gehört zum Massiv des Nordens", "Geologische Formation aus Gneis", "Sehr hohe jährliche Niederschläge", "Standort seltener Orchideen"],
+      hu: ["1505 méter magas", "Az ország második legmagasabb hegye", "Az északi masszívumhoz tartozik", "Gneisz geológiai formáció", "Nagyon magas éves csapadékmennyiség", "Ritka orchideák lelőhelye"],
+      ro: ["Înălțime de 1505 metri", "Al doilea cel mai înalt munte din țară", "Aparține masivului de nord", "Formațiune geologică de gnais", "Precipitații anuale foarte ridicate", "Locație de orhidee rare"],
+      en: ["Height of 1505 meters", "Second highest mountain in the country", "Part of the northern massif", "Geological formation of gneiss", "Very high annual rainfall", "Site of rare orchids"],
+    },
   },
   {
     id: "newcaledonia-plaine-des-lacs-relief-v2",
@@ -133,6 +205,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Collection basin for rainwater", "Unique swamp vegetation", "Site of the Lac en Huit lake", "Formerly used for forestry"],
     },
     imageHint: "Plaine des Lacs New Caledonia red soil wetlands",
+    descriptionAdvanced: {
+      de: "Die Plaine des Lacs ist ein ausgedehntes Hochplateau im Süden von Neukaledonien, das für seine rote Erde und zahlreichen Wasserflächen bekannt ist. Zu den größten Seen gehören der Lac en Huit und der Grand Lac, die Teil eines Feuchtgebiets von internationaler Bedeutung sind. Die Vegetation besteht vor allem aus dem maquis minier, einer speziellen Buschlandschaft auf metallreichen Böden. Hier findet man viele fleischfressende Pflanzen und seltene Koniferen.",
+      hu: "A Plaine des Lacs egy kiterjedt fennsík Új-Kaledónia déli részén, amely vörös földjéről és számos vízfelületéről ismert. A legnagyobb tavak közé tartozik a Lac en Huit és a Grand Lac, amelyek nemzetközi jelentőségű vizes élőhelyek. A növényzet főként a maquis minier-ből áll, amely egy különleges bozótos táj a fémekben gazdag talajon. Itt számos húsevő növény és ritka tűlevelű található.",
+      ro: "Plaine des Lacs este un platou întins în sudul Noii Caledonii, cunoscut pentru pământul său roșu și numeroasele suprafețe de apă. Printre cele mai mari lacuri se numără Lac en Huit și Grand Lac, care fac parte dintr-o zonă umedă de importanță internațională. Vegetația constă în principal din maquis minier, un peisaj special de tufărișuri pe soluri bogate în metale. Aici se găsesc multe plante carnivore și conifere rare.",
+      en: "The Plaine des Lakes is an extensive plateau in the south of New Caledonia, known for its red soil and numerous bodies of water. Among the largest lakes are Lac en Huit and Grand Lac, which are part of a wetland area of international importance. The vegetation consists mainly of maquis minier, a special scrubland landscape on metal-rich soils. Many carnivorous plants and rare conifers can be found here.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 200 bis 250 Metern", "Standort des Grand Lac", "Bodenreich an Eisen und Nickel", "RAMSAR-Feuchtgebiet", "Heimat fleischfressender Drosera", "Einzigartiger Maquis minier Bewuchs"],
+      hu: ["200-250 méter magas", "Itt található a Grand Lac", "Vassal és nikkellel teli talaj", "RAMSAR vizes élőhely", "Húsevő Drosera növények élőhelye", "Egyedülálló maquis minier növényzet"],
+      ro: ["Altitudine de 200-250 metri", "Locația lacului Grand Lac", "Sol bogat în fier și nichel", "Zonă umedă RAMSAR", "Habitat al plantelor carnivore Drosera", "Vegetație unică de maquis minier"],
+      en: ["Elevation of 200 to 250 meters", "Location of the Grand Lac", "Soil rich in iron and nickel", "RAMSAR wetland site", "Home to carnivorous Drosera plants", "Unique maquis minier vegetation"],
+    },
   },
   {
     id: "newcaledonia-mont-do-relief-v2",
@@ -152,6 +236,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,025 meters", "Accessible by road", "Known for its Araucaria trees", "Lookout point for paragliders"],
     },
     imageHint: "Mont Do New Caledonia view panorama",
+    descriptionAdvanced: {
+      de: "Der Mont Do ist eine markante Erhebung in der Nähe von Boulouparis, die über eine befestigte Straße bis zum Gipfel erreichbar ist. Auf dem Gipfel befindet sich eine wichtige Wetterradarstation, die für die Überwachung des lokalen Klimas entscheidend ist. Der Berg bietet einen weiten Ausblick über die Westküste und die vorgelagerten Riffe. Botanisch ist er für das Vorkommen der Araucaria biramulata bekannt, einer seltenen neukaledonischen Tanne.",
+      hu: "A Mont Do egy jellegzetes kiemelkedés Boulouparis közelében, amely egy aszfaltozott úton érhető el egészen a csúcsig. A csúcson egy fontos meteorológiai radarállomás található, amely döntő fontosságú a helyi éghajlat megfigyelésében. A hegy széles kilátást nyújt a nyugati partra és a közeli zátonyokra. Botanikailag az Araucaria biramulata, egy ritka új-kaledóniai fenyőfaj előfordulásáról ismert.",
+      ro: "Mont Do este o elevație proeminentă lângă Boulouparis, accesibilă printr-un drum asfaltat până la vârf. Pe vârf se află o stație radar meteorologică importantă, crucială pentru monitorizarea climatului local. Muntele oferă o vedere largă asupra coastei de vest și a recifelor din apropiere. Din punct de vedere botanic, este cunoscut pentru prezența Araucaria biramulata, un conifer rar din Noua Caledonie.",
+      en: "Mont Do is a prominent elevation near Boulouparis, accessible via a paved road to the summit. An important weather radar station is located at the top, crucial for monitoring the local climate. The mountain offers an extensive view over the west coast and the offshore reefs. Botanically, it is known for the occurrence of Araucaria biramulata, a rare New Caledonian conifer.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe von 1025 Metern", "Erreichbar über eine Bergstraße", "Standort eines Wetterradars", "Gelegen nahe Boulouparis", "Vorkommen von Araucaria biramulata", "Aussichtspunkt auf die Thio-Küste"],
+      hu: ["Csúcsmagasság: 1025 méter", "Hegyi úton érhető el", "Meteorológiai radar helyszíne", "Boulouparis közelében található", "Araucaria biramulata lelőhelye", "Kilátópont a Thio-partra"],
+      ro: ["Înălțimea vârfului: 1025 metri", "Accesibil printr-un drum montan", "Locația unui radar meteo", "Situat lângă Boulouparis", "Prezența Araucaria biramulata", "Punct de belvedere spre coasta Thio"],
+      en: ["Summit height of 1025 meters", "Accessible via a mountain road", "Site of a weather radar", "Located near Boulouparis", "Occurrence of Araucaria biramulata", "Vantage point for the Thio coast"],
+    },
   },
   {
     id: "newcaledonia-massif-du-grand-sud-relief-v2",
@@ -171,6 +267,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Largest ultramafic deposit", "Center of nickel mining", "Unique scrubland vegetation", "Shaped by erosion"],
     },
     imageHint: "Massif du Grand Sud New Caledonia landscape",
+    descriptionAdvanced: {
+      de: "Das Massiv des Großen Südens ist eine weite geologische Formation, die fast ein Drittel der Hauptinsel einnimmt. Es besteht hauptsächlich aus Peridotit-Gestein, das durch tektonische Hebung an die Oberfläche gelangte. Diese Region ist weltweit für ihre gigantischen Nickelvorkommen und ihre einzigartige Biodiversität bekannt. Die Landschaft ist geprägt von rotem Lateritboden, klaren Flüssen und einer Flora, die sich an die metallreichen Bedingungen angepasst hat.",
+      hu: "A Nagy-Dél masszívum egy hatalmas geológiai formáció, amely a fősziget csaknem egyharmadát foglalja el. Főleg peridotit kőzetből áll, amely tektonikus emelkedés révén került a felszínre. Ez a régió világszerte ismert óriási nikkellelőhelyeiről és egyedülálló biodiverzitásáról. A tájat vörös laterit talaj, tiszta folyók és a fémdús körülményekhez alkalmazkodott flóra jellemzi.",
+      ro: "Masivul Marelui Sud este o formațiune geologică vastă care ocupă aproape o treime din insula principală. Este compus în principal din peridotit, care a ajuns la suprafață prin ridicare tectonică. Această regiune este cunoscută la nivel mondial pentru zăcămintele sale gigantice de nichel și biodiversitatea unică. Peisajul este marcat de solul de laterită roșie, râuri limpezi și o floră adaptată la condițiile bogate în metale.",
+      en: "The Massif of the Great South is a vast geological formation occupying nearly a third of the main island. It consists mainly of peridotite rock that reached the surface through tectonic uplift. This region is known worldwide for its gigantic nickel deposits and unique biodiversity. The landscape is characterized by red laterite soil, clear rivers, and a flora adapted to metal-rich conditions.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus Peridotit-Gestein", "Enthält enorme Nickelreserven", "Bedeckt ein Drittel von Grande Terre", "75 % der Pflanzen sind endemisch", "Markante rote Lateriterde", "Wichtiges Wassereinzugsgebiet"],
+      hu: ["Peridotit kőzetből áll", "Hatalmas nikkelkészleteket tartalmaz", "Grande Terre egyharmadát lefedi", "A növények 75%-a endemikus", "Jellegzetes vörös laterit talaj", "Fontos vízgyűjtő terület"],
+      ro: ["Compus din roci de peridotit", "Conține rezerve enorme de nichel", "Acoperă o treime din Grande Terre", "75% din plante sunt endemice", "Pământ de laterită roșie distinctiv", "Zonă importantă de captare a apei"],
+      en: ["Composed of peridotite rock", "Contains enormous nickel reserves", "Covers one third of Grande Terre", "75% of plants are endemic", "Distinctive red laterite earth", "Important water catchment area"],
+    },
   },
   {
     id: "newcaledonia-col-d-amieu-relief-v2",
@@ -190,6 +298,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Pass elevation: 425 meters", "Gateway to the great rainforest", "Surrounded by forest reserves", "Key transport junction"],
     },
     imageHint: "Col d'Amieu New Caledonia mountain pass",
+    descriptionAdvanced: {
+      de: "Der Col d'Amieu ist ein wichtiger Gebirgspass, der die Westküste bei La Foa mit der Ostküste bei Canala verbindet. Die Passhöhe liegt in einer Region mit dichten, feuchten Regenwäldern und dient als forstwirtschaftliches Forschungszentrum. Das Gebiet ist ein Hotspot für die Vogelbeobachtung, da hier viele seltene Arten wie der Notou und der Piwi heimisch sind. Die kurvenreiche Straße bietet Einblicke in die unberührte Natur des zentralen Gebirges.",
+      hu: "A Col d'Amieu egy fontos hágó, amely összeköti a nyugati partot La Foa-nál a keleti parttal Canalánál. A hágó egy sűrű, nedves esőerdőkkel borított régióban található, és erdészeti kutatóközpontként szolgál. A terület a madármegfigyelők kedvelt helye, mivel számos ritka faj, például a notou galamb és a piwi itt őshonos. A kanyargós út bepillantást enged a központi hegység érintetlen természetébe.",
+      ro: "Pasul Col d'Amieu este o trecătoare muntoasă importantă care leagă coasta de vest, lângă La Foa, de coasta de est, lângă Canala. Pasul este situat într-o regiune cu păduri tropicale umede dense și servește ca centru de cercetare forestieră. Zona este un punct de atracție pentru observarea păsărilor, deoarece multe specii rare, cum ar fi Notou și Piwi, sunt native aici. Drumul sinuos oferă perspective asupra naturii neatinse din lanțul central.",
+      en: "The Col d'Amieu is an important mountain pass connecting the west coast near La Foa with the east coast at Canala. The pass is situated in a region with dense, humid rainforests and serves as a forestry research center. The area is a hotspot for birdwatching, as many rare species such as the Notou and Piwi are native here. The winding road offers glimpses into the untouched nature of the central range.",
+    },
+    factsAdvanced: {
+      de: ["Passhöhe auf ca. 425 Metern", "Verbindet La Foa und Canala", "Standort einer Forststation", "Bekannt für Vogelbeobachtung", "Lebensraum der Notou-Taube", "Durchquert dichten Regenwald"],
+      hu: ["A hágó kb. 425 méter magasan van", "La Foa és Canala között teremt kapcsolatot", "Erdészeti állomás helyszíne", "Madármegfigyelésről ismert", "A notou galamb élőhelye", "Sűrű esőerdőn halad keresztül"],
+      ro: ["Altitudinea pasului la aprox. 425 m", "Conectează La Foa de Canala", "Locația unei stații forestiere", "Cunoscut pentru birdwatching", "Habitat al porumbelului Notou", "Traversează pădurea tropicală densă"],
+      en: ["Pass height at approx. 425 meters", "Connects La Foa and Canala", "Site of a forestry station", "Known for birdwatching", "Habitat of the Notou pigeon", "Traverses dense rainforest"],
+    },
   },
   {
     id: "newcaledonia-mont-boulinda-relief-v2",
@@ -209,6 +329,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,244 meters", "Center of industrial mines", "Barren, peridotite-rich soil", "Striking silhouette from the sea"],
     },
     imageHint: "Mont Boulinda New Caledonia mining landscape",
+    descriptionAdvanced: {
+      de: "Der Mont Boulinda ist ein 1244 Meter hoher Gipfel in der Südprovinz von Neukaledonien. Er liegt auf dem Territorium der Gemeinde Poya und ist Teil des zentralen Gebirgsmassivs der Insel Grande Terre. Der Berg ist für seine reichen Nickelvorkommen bekannt, die seit Jahrzehnten abgebaut werden. Die karge Vegetation auf den ultramafischen Böden beherbergt zahlreiche endemische Pflanzenarten.",
+      hu: "A Mont Boulinda egy 1244 méter magas hegycsúcs Új-Kaledónia Déli tartományában, Poya község területén. A Grande Terre szigetét átszelő központi hegylánc része, amely meghatározza a régió domborzatát. A hegy jelentős nikkelkészleteiről ismert, amelyeket külszíni fejtéssel termelnek ki. Az ultramafikus kőzeteken kialakult talaj különleges, endemikus növényvilágnak ad otthont.",
+      ro: "Mont Boulinda este un vârf muntos de 1244 de metri situat în Provincia Sud a Noii Caledonii, în comuna Poya. Face parte din lanțul muntos central al insulei Grande Terre și este un punct de referință geografic important. Muntele este exploatat pentru zăcămintele sale bogate de nichel. Vegetația specifică solurilor ultramafice include numeroase specii de plante endemice adaptate la metale grele.",
+      en: "Mont Boulinda is a 1,244-meter high peak located in the South Province of New Caledonia within the municipality of Poya. It is a prominent part of the central mountain range of Grande Terre island. The mountain is widely known for its extensive nickel deposits, which are extracted through mining operations. Its ultramafic soils support a unique ecosystem of endemic plant species.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe von 1244 Metern.", "Gelegen in der Gemeinde Poya.", "Teil der Zentralkette von Grande Terre.", "Besteht aus ultramafischem Gestein.", "Wichtiger Standort für den Nickelbergbau.", "Beherbergt seltene metallophytische Pflanzen."],
+      hu: ["Legmagasabb pontja 1244 méter.", "Poya község területén fekszik.", "A Grande Terre központi hegységének része.", "Alapkőzete ultramafikus peridotit.", "Jelentős nikkelbányászati lelőhely.", "Számos endemikus növényfaj élőhelye."],
+      ro: ["Înălțime maximă de 1244 metri.", "Situat în perimetrul comunei Poya.", "Aparține lanțului central din Grande Terre.", "Sol format pe roci ultramafice.", "Centru important de extracție a nichelului.", "Găzduiește floră endemică specializată."],
+      en: ["Reaches an elevation of 1,244 meters.", "Located in the municipality of Poya.", "Part of the Central Range of Grande Terre.", "Composed primarily of ultramafic rocks.", "Significant site for nickel mining activities.", "Habitat for rare metallophytic flora."],
+    },
   },
   {
     id: "newcaledonia-mont-kaala-relief-v2",
@@ -228,6 +360,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,083 meters", "Summit often shrouded in clouds", "Significant for traditional legends", "Part of the northern mountain range"],
     },
     imageHint: "Mont Kaala New Caledonia sacred mountain",
+    descriptionAdvanced: {
+      de: "Der Mont Kaala erhebt sich auf 1083 Meter im Norden von Neukaledonien in der Nähe der Gemeinde Kaala-Gomen. Er ist Teil eines isolierten Massivs, das steil aus den Küstenebenen aufragt. Die Region ist durch ein trockenes Mikroklima und eine charakteristische Strauchvegetation geprägt. Historisch ist der Berg eng mit dem frühen Bergbau der Nordprovinz verbunden.",
+      hu: "A Mont Kaala 1083 méter magasra emelkedik Új-Kaledónia északi részén, Kaala-Gomen község közelében. Ez az izolált hegység meredeken emelkedik ki a környező tengerparti síkságokból. A területre szárazabb mikroklíma és jellegzetes cserjés vegetáció jellemző. Történelmileg a hegy szorosan kapcsolódik az Északi tartomány korai bányászati tevékenységeihez.",
+      ro: "Mont Kaala se ridică la o altitudine de 1083 metri în nordul Noii Caledonii, lângă localitatea Kaala-Gomen. Formează un masiv izolat care domină câmpiile de coastă din Provincia Nord. Regiunea este marcată de un microclimat uscat și o vegetație de tufișuri xerofile. Din punct de vedere istoric, muntele este legat de primele exploatări miniere din această zonă.",
+      en: "Mont Kaala rises to an elevation of 1,083 meters in the northern part of New Caledonia, near the town of Kaala-Gomen. It forms an isolated massif that stands out sharply against the surrounding coastal plains. The area is characterized by a relatively dry microclimate and distinct scrubland vegetation. Historically, the mountain is significant for early mining developments in the North Province.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe beträgt 1083 Meter.", "Liegt in der Nordprovinz (Province Nord).", "Namensgeber für die Gemeinde Kaala-Gomen.", "Isoliertes Massiv nahe der Westküste.", "Dominante Vegetation ist die Macchia.", "Vorkommen von Chrom- und Nickelerzen."],
+      hu: ["A csúcs magassága 1083 méter.", "Az Északi tartományban található.", "Kaala-Gomen község névadója.", "Elszigetelt masszívum a nyugati part közelében.", "Jellemző növényzete a bozótos macchia.", "Króm- és nikkelérc előfordulások helyszíne."],
+      ro: ["Altitudinea maximă este de 1083 metri.", "Situat în Provincia Nord.", "Eponim pentru comuna Kaala-Gomen.", "Masiv izolat în apropierea coastei de vest.", "Vegetația predominantă este de tip maquis.", "Prezintă zăcăminte de crom și nichel."],
+      en: ["Peak elevation is 1,083 meters.", "Located in the North Province.", "Eponymous for the Kaala-Gomen municipality.", "Isolated massif near the west coast.", "Dominant vegetation is maquis scrubland.", "Contains deposits of chromium and nickel."],
+    },
   },
   {
     id: "newcaledonia-mont-tsibai-relief-v2",
@@ -247,6 +391,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,184 meters", "Consists of metamorphic rocks", "Popular with experienced climbers", "Offers views of the ocean"],
     },
     imageHint: "Mont Tsibaï New Caledonia rocky peak",
+    descriptionAdvanced: {
+      de: "Der Mont Tsibaï erreicht eine Höhe von 1194 Metern und liegt an der Grenze der Gemeinden Ponérihouen und Houaïlou. Er ist ein wichtiger Bestandteil der zentralen Gebirgskette in der Nordprovinz. Die Hänge sind von dichten tropischen Regenwäldern bedeckt, die eine hohe biologische Vielfalt aufweisen. Der Berg spielt eine wesentliche Rolle im Wasserhaushalt der umliegenden Täler.",
+      hu: "A Mont Tsibaï 1194 méteres magasságával Ponérihouen és Houaïlou községek határán fekszik. Fontos eleme az Északi tartomány központi hegyláncának. Lejtőit sűrű trópusi esőerdők borítják, amelyek rendkívüli biológiai sokféleséggel rendelkeznek. A hegy alapvető szerepet játszik a környező völgyek vízellátásában és vízgyűjtő rendszerében.",
+      ro: "Mont Tsibaï atinge o înălțime de 1194 de metri, fiind situat la granița comunelor Ponérihouen și Houaïlou. Este o componentă importantă a lanțului muntos central din Provincia Nord. Versanții săi sunt acoperiți de păduri tropicale dense, adăpostind o biodiversitate ridicată. Muntele are un rol esențial în rețeaua hidrografică a văilor învecinate.",
+      en: "Mont Tsibaï reaches an altitude of 1,194 meters and is situated on the border between the municipalities of Ponérihouen and Houaïlou. It is a key component of the central mountain range in the North Province. The slopes are covered with dense tropical rainforests that host high levels of biodiversity. The mountain plays a vital role in the water cycle for the surrounding agricultural valleys.",
+    },
+    factsAdvanced: {
+      de: ["Höhe liegt bei 1194 Metern.", "Grenzberg zwischen Ponérihouen und Houaïlou.", "Teil der zentralen Gebirgskette.", "Hoher Anteil an Primärregenwald.", "Wichtiger Wasserspeicher für die Region.", "Vorkommen von endemischen Vögeln wie dem Kagu."],
+      hu: ["Magassága 1194 méter.", "Ponérihouen és Houaïlou határán található.", "Az északi központi hegylánc tagja.", "Jelentős kiterjedésű primer esőerdő borítja.", "A régió fontos víztározó területe.", "Endemikus madárfajok, például a kagu élőhelye."],
+      ro: ["Altitudinea este de 1194 metri.", "Situat între Ponérihouen și Houaïlou.", "Parte a lanțului muntos central nordic.", "Acoperit de păduri pluviale primare.", "Rezervor important de apă pentru regiune.", "Habitat pentru păsări endemice, inclusiv kagu."],
+      en: ["Elevation stands at 1,194 meters.", "Border peak between Ponérihouen and Houaïlou.", "Member of the northern central range.", "Covered by significant primary rainforest.", "Critical watershed for the local area.", "Habitat for endemic birds like the kagu."],
+    },
   },
   {
     id: "newcaledonia-mont-arago-relief-v2",
@@ -266,6 +422,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 821 meters", "Characterized by grasslands", "Near the watershed line", "Named after physicist François Arago"],
     },
     imageHint: "Mont Arago New Caledonia grassy mountain",
+    descriptionAdvanced: {
+      de: "Der Mont Arago ist ein 821 Meter hoher Berg im Massiv der Zentralkette, nahe der Ostküste der Nordprovinz. Er befindet sich in der Nähe von Houaïlou und zeichnet sich durch seine schroffen geologischen Formationen aus. Das Gebiet ist historisch für seine Bergbauexplorationen und die Vielfalt der Gesteinsarten bekannt. Die Vegetation wechselt zwischen Regenwald in den Tälern und Buschland auf den Kämmen.",
+      hu: "A Mont Arago egy 821 méter magas hegy a központi hegyláncban, az Északi tartomány keleti partjának közelében. Houaïlou környékén található, és meredek geológiai formációiról nevezetes. A terület történelmileg bányászati kutatásairól és kőzettani változatosságáról ismert. A növényzet a völgyek esőerdőitől a gerincek bozótosaiig változik.",
+      ro: "Mont Arago este un munte de 821 de metri situat în lanțul central, aproape de coasta de est a Provinciei Nord. Se află în vecinătatea localității Houaïlou și se remarcă prin formațiunile sale geologice abrupte. Zona este cunoscută istoric pentru explorările miniere și diversitatea tipurilor de roci. Vegetația variază de la păduri tropicale în văi la tufișuri pe creste.",
+      en: "Mont Arago is an 821-meter high mountain located in the Central Range, near the east coast of the North Province. It is situated in the vicinity of Houaïlou and is noted for its rugged geological formations. The area is historically known for mining exploration and geological diversity. The vegetation transitions from rainforest in the valleys to shrubland on the ridges.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe erreicht 821 Meter.", "Liegt im Distrikt Houaïlou.", "Gehört zur geologischen Zentralkette.", "Benannt nach dem Wissenschaftler François Arago.", "Bekannt für Nickelerz-Vorkommen.", "Steile Hänge zur Ostküste hin."],
+      hu: ["A csúcs magassága 821 méter.", "Houaïlou körzetében található.", "A központi hegylánc geológiai egységéhez tartozik.", "François Arago tudósról nevezték el.", "Nikkelérc-lelőhelyeiről ismert terület.", "Meredek lejtőkkel ereszkedik a keleti part felé."],
+      ro: ["Înălțimea vârfului este de 821 metri.", "Situat în districtul Houaïlou.", "Parte integrantă a lanțului muntos central.", "Numit după savantul François Arago.", "Cunoscut pentru prezența minereului de nichel.", "Pante abrupte orientate spre coasta estică."],
+      en: ["Peak altitude reaches 821 meters.", "Located in the Houaïlou district.", "Belongs to the central geological chain.", "Named after scientist François Arago.", "Known for nickel ore occurrences.", "Features steep slopes towards the east coast."],
+    },
   },
   {
     id: "newcaledonia-mont-maoya-relief-v2",
@@ -285,6 +453,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,508 meters", "Third highest peak on the island", "Center of a mining district", "Isolated highland flora"],
     },
     imageHint: "Mont Maoya New Caledonia mountain peak",
+    descriptionAdvanced: {
+      de: "Mit 1508 Metern ist der Mont Maoya einer der höchsten Gipfel Neukaledoniens. Er liegt an der Grenze zwischen Bourail und Houaïlou und markiert einen bedeutenden Punkt der Zentralkette. Die Gipfelregion ist oft in Wolken gehüllt, was die Entwicklung einzigartiger Nebelwald-Ökosysteme begünstigt. Er dient als wichtigstes Quellgebiet für mehrere Flüsse der Hauptinsel.",
+      hu: "A Mont Maoya 1508 méteres magasságával Új-Kaledónia egyik legmagasabb csúcsa. Bourail és Houaïlou határán fekszik, és a központi hegylánc egyik meghatározó pontja. A csúcsrégiót gyakran felhők borítják, ami kedvez az egyedülálló köderdők kialakulásának. A hegy több fontos folyó forrásvidékeként szolgál a főszigeten.",
+      ro: "Cu o înălțime de 1508 metri, Mont Maoya este unul dintre cele mai înalte vârfuri din Noua Caledonie. Situat la granița dintre Bourail și Houaïlou, acesta marchează un punct major al lanțului central. Regiunea de vârf este adesea învăluită în nori, favorizând ecosisteme unice de păduri de ceață. Servește ca zonă principală de izvoare pentru mai multe râuri mari.",
+      en: "At 1,508 meters, Mont Maoya is one of the highest peaks in New Caledonia. It is located on the boundary between Bourail and Houaïlou, representing a major landmark of the Central Range. The summit region is frequently shrouded in clouds, sustaining unique cloud forest ecosystems. It serves as a primary headwater source for several major rivers on the main island.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe von 1508 Metern.", "Dritthöchster Berg Neukaledoniens.", "Grenze zwischen Süd- und Nordprovinz.", "Heimat seltener Nebelwald-Vegetation.", "Wichtiger hydrografischer Knotenpunkt.", "Teil eines geschützten Naturraums."],
+      hu: ["Legmagasabb pontja 1508 méter.", "Új-Kaledónia harmadik legmagasabb hegye.", "A Déli és Északi tartomány határán áll.", "Ritka köderdőknek ad otthont.", "Kiemelkedő vízrajzi csomópont.", "Természetvédelmi terület része."],
+      ro: ["Altitudine maximă de 1508 metri.", "Al treilea cel mai înalt munte din Noua Caledonie.", "Limită între Provincia Sud și Provincia Nord.", "Adăpostește vegetație rară de pădure montană.", "Nod hidrografic crucial pentru insulă.", "Inclus într-o zonă naturală protejată."],
+      en: ["Max elevation of 1,508 meters.", "Third highest mountain in New Caledonia.", "Boundary between South and North provinces.", "Home to rare cloud forest vegetation.", "Critical hydrographic node for the island.", "Part of a protected natural area."],
+    },
   },
   {
     id: "newcaledonia-mont-ouin-relief-v2",
@@ -304,6 +484,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,121 meters", "Important surveying point", "Uninhabited mountain land", "Rich in endemic mosses"],
     },
     imageHint: "Mont Ouin New Caledonia wild mountains",
+    descriptionAdvanced: {
+      de: "Der Mont Ouin erhebt sich auf 1106 Meter in der Südprovinz, unweit der Hauptstadt Nouméa. Er gehört zum Massiv zwischen Dumbéa und Yaté und ist ein beliebtes Ziel für wissenschaftliche botanische Exkursionen. Die Böden sind extrem mineralreich, was eine hochspezialisierte Flora hervorgebracht hat. Von seinen Kämmen aus bietet sich ein weiter Blick über die südliche Lagune.",
+      hu: "A Mont Ouin 1106 méter magasra emelkedik a Déli tartományban, nem messze a fővárostól, Nouméától. A Dumbéa és Yaté közötti masszívum része, és a botanikai kutatások kedvelt célpontja. A talaj ásványi anyagokban rendkívül gazdag, ami speciális flóra kialakulását tette lehetővé. Gerinceiről tágas kilátás nyílik a déli lagúnára.",
+      ro: "Mont Ouin se ridică la 1106 metri în Provincia Sud, nu departe de capitala Nouméa. Face parte din masivul situat între Dumbéa și Yaté, fiind o destinație populară pentru excursii botanice științifice. Solurile sunt extrem de bogate în minerale, generând o floră foarte specializată. De pe crestele sale se deschide o vedere panoramică asupra lagunei sudice.",
+      en: "Mont Ouin rises to 1,106 meters in the South Province, located not far from the capital city, Nouméa. It belongs to the massif situated between Dumbéa and Yaté and is a frequent destination for botanical research expeditions. The soils are extremely rich in minerals, which has produced a highly specialized flora. Its ridges offer sweeping views over the southern lagoon.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe beträgt 1106 Meter.", "Gelegen in der Südprovinz (Province Sud).", "Nähe zum Wassereinzugsgebiet von Dumbéa.", "Reich an endemischen Proteaceae-Arten.", "Wandergebiet mit anspruchsvollen Pfaden.", "Blick auf das geschützte Meeresreservat."],
+      hu: ["A csúcs magassága 1106 méter.", "A Déli tartományban (Province Sud) fekszik.", "A Dumbéa folyó vízgyűjtőjének közelében található.", "Endemikus Proteaceae fajokban gazdag terület.", "Kihívást jelentő túraútvonalak helyszíne.", "Kilátás nyílik a védett tengeri rezervátumra."],
+      ro: ["Altitudinea maximă este de 1106 metri.", "Situat în Provincia Sud.", "Aproape de bazinul hidrografic al râului Dumbéa.", "Bogat în specii endemice de Proteaceae.", "Zonă de drumeție cu trasee dificile.", "Vedere asupra rezervației marine protejate."],
+      en: ["Peak elevation is 1,106 meters.", "Located in the South Province.", "Proximity to the Dumbéa water catchment area.", "Rich in endemic Proteaceae species.", "Hiking area with challenging trails.", "Views of the protected marine reserve."],
+    },
   },
   {
     id: "newcaledonia-mont-nakada-relief-v2",
@@ -323,6 +515,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,134 meters", "Located near the coast", "Characterized by tropical rainforest", "Offers views of the Thio delta"],
     },
     imageHint: "Mont Nakada New Caledonia Thio valley",
+    descriptionAdvanced: {
+      de: "Der Mont Nakada ist ein 1080 Meter hoher Berg in der Nähe von Thio in der Südprovinz. Er ist Teil eines Gebiets mit intensiver Bergbautradition und verfügt über bedeutende Nickellagerstätten. Die Topografie ist durch steile Hänge und tief eingeschnittene Täler gekennzeichnet. Der Berg liegt in einem Gebiet, das für die Kultur der Kanak von großer Bedeutung ist.",
+      hu: "A Mont Nakada egy 1080 méter magas hegy Thio közelében, a Déli tartományban. Jelentős bányászati hagyományokkal rendelkező területen fekszik, ahol fontos nikkelkészletek találhatók. Topográfiáját meredek lejtők és mélyen bevágott völgyek jellemzik. A hegy olyan vidéken található, amely kiemelt jelentőséggel bír a kanak kultúra számára.",
+      ro: "Mont Nakada este un munte de 1080 de metri situat lângă Thio, în Provincia Sud. Face parte dintr-o regiune cu o tradiție minieră intensă, deținând zăcăminte importante de nichel. Topografia sa este marcată de pante abrupte și văi adânc tăiate. Muntele se află într-o zonă de o mare importanță pentru cultura indigenă Kanak.",
+      en: "Mont Nakada is a 1,080-meter high mountain located near Thio in the South Province. It is part of an area with an intense mining tradition and holds significant nickel deposits. The topography is characterized by steep slopes and deeply incised valleys. The mountain is situated in a region that is of great cultural importance to the indigenous Kanak people.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 1080 Metern.", "Gelegen im Thio-Distrikt.", "Wichtiger Standort für Nickelextraktion.", "Steile Reliefstruktur mit Erosionsformen.", "Traditionelles Land der Kanak-Stämme.", "Küstennahe Lage mit Gebirgscharakter."],
+      hu: ["Magassága 1080 méter.", "A Thio-körzetben található.", "A nikkelkitermelés fontos helyszíne.", "Meredek domborzat és eróziós formák jellemzik.", "A kanak törzsek hagyományos szállásterülete.", "Partközeli fekvés hegyvidéki jelleggel."],
+      ro: ["Altitudine de 1080 metri.", "Situat în districtul Thio.", "Locație importantă pentru extracția nichelului.", "Structură de relief abruptă cu forme de eroziune.", "Pământ tradițional al triburilor Kanak.", "Poziție aproape de coastă cu caracter montan."],
+      en: ["Elevation of 1,080 meters.", "Located in the Thio district.", "Important site for nickel extraction.", "Steep relief structure with erosion forms.", "Traditional land of the Kanak tribes.", "Coastal proximity with mountainous character."],
+    },
   },
   {
     id: "newcaledonia-mont-sindoa-relief-v2",
@@ -342,6 +546,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,380 meters", "Part of a mountainous area", "Home to rare mountain palms", "Very rainy microclimate"],
     },
     imageHint: "Mont Sindoa New Caledonia peak clouds",
+    descriptionAdvanced: {
+      de: "Der Mont Sindoa erreicht 1391 Meter und liegt im Grenzgebiet zwischen Thio und Canala. Als Teil der hohen Zentralkette dominiert er die umliegende Berglandschaft mit seiner markanten Silhouette. Die Gipfelregion beherbergt seltene Regenwaldfragmente und ist oft von dichtem Nebel bedeckt. Seine abgelegene Lage hat zur Erhaltung einer sehr ursprünglichen Natur beigetragen.",
+      hu: "A Mont Sindoa 1391 méter magas, Thio és Canala határvidékén található. A magas központi hegylánc részeként jellegzetes sziluettjével uralja a környező hegyi tájat. A csúcsrégió ritka esőerdő-maradványoknak ad otthont, és gyakran sűrű köd borítja. Távoli fekvése hozzájárult az eredeti természeti állapot megőrzéséhez.",
+      ro: "Mont Sindoa atinge 1391 de metri și se află în zona de graniță dintre Thio și Canala. Ca parte a lanțului central înalt, domină peisajul montan înconjurător cu silueta sa distinctivă. Regiunea de vârf adăpostește fragmente rare de pădure tropicală și este adesea acoperită de ceață densă. Izolarea sa a contribuit la păstrarea unei naturi foarte virgine.",
+      en: "Mont Sindoa reaches 1,391 meters and is situated in the border area between Thio and Canala. As part of the high Central Range, it dominates the surrounding mountain landscape with its distinctive silhouette. The summit region hosts rare rainforest fragments and is often covered in dense fog. Its remote location has contributed to the preservation of a very pristine natural state.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe von 1391 Metern.", "Grenze der Gemeinden Thio und Canala.", "Massiv der Zentralkette (Chaîne centrale).", "Hoher Grad an Endemismus in der Flora.", "Oft von Wolken und Nebel umhüllt.", "Unwegsames Gelände erschwert den Zugang."],
+      hu: ["Csúcsmagassága 1391 méter.", "Thio és Canala községek határán fekszik.", "A központi hegylánc (Chaîne centrale) része.", "Magas fokú endemizmus a flórában.", "Gyakran felhők és köd borítja.", "A nehéz terep korlátozza a hozzáférést."],
+      ro: ["Înălțimea vârfului este de 1391 metri.", "Limită între comunele Thio și Canala.", "Masiv aparținând lanțului central.", "Grad ridicat de endemism în floră.", "Adesea învăluit în nori și ceață.", "Teren accidentat care îngreunează accesul."],
+      en: ["Summit elevation of 1,391 meters.", "Border of Thio and Canala municipalities.", "Part of the Central Range massif.", "High degree of endemism in the flora.", "Frequently shrouded in clouds and fog.", "Rugged terrain limits access."],
+    },
   },
   {
     id: "newcaledonia-mont-nekandi-relief-v2",
@@ -361,6 +577,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,220 meters", "Isolated mountain ridge", "Hard, stony surfaces", "Little-explored hiking area"],
     },
     imageHint: "Mont Nékandi New Caledonia mountain ridge",
+    descriptionAdvanced: {
+      de: "Der Mont Nékandi ist mit 1320 Metern einer der markantesten Gipfel in der Region Thio. Er ist geologisch Teil der ultramafischen Formationen, die für den Reichtum an Nickelerz verantwortlich sind. Die steilen Flanken des Berges sind durch Erosion tief zerfurcht. Er stellt ein wichtiges Habitat für spezialisierte Gebirgsvögel und seltene Reptilienarten dar.",
+      hu: "A Mont Nékandi 1320 méteres magasságával Thio régiójának egyik legjellegzetesebb csúcsa. Geológiailag az ultramafikus formációk része, amelyek a gazdag nikkelkészletekért felelősek. A hegy meredek oldalai az erózió következtében mélyen barázdáltak. Fontos élőhelyet biztosít speciális hegyi madarak és ritka hüllőfajok számára.",
+      ro: "Mont Nékandi, cu o înălțime de 1320 de metri, este unul dintre cele mai marcante vârfuri din regiunea Thio. Din punct de vedere geologic, face parte din formațiunile ultramafice responsabile pentru bogăția în minereu de nichel. Flancurile abrupte ale muntelui sunt adânc brăzdate de eroziune. Reprezintă un habitat important pentru păsările de munte specializate și specii rare de reptile.",
+      en: "Mont Nékandi, standing at 1,320 meters, is one of the most prominent peaks in the Thio region. Geologically, it is part of the ultramafic formations responsible for the rich nickel ore deposits. The steep flanks of the mountain are deeply furrowed by erosion. It provides an important habitat for specialized mountain birds and rare reptile species.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe beträgt 1320 Meter.", "Liegt in der Südprovinz bei Thio.", "Dominante ultramafische Gesteinsschichten.", "Bedeutende Nickelerzvorkommen vorhanden.", "Steile Erosionsrinnen an den Hängen.", "Lebensraum für endemische Echsenarten."],
+      hu: ["Legmagasabb pontja 1320 méter.", "A Déli tartományban, Thio közelében található.", "Ultramafikus kőzetrétegek dominálják.", "Jelentős nikkelérc-lelőhelyekkel rendelkezik.", "Meredek eróziós árkok a lejtőkön.", "Endemikus gyíkfajok élőhelye."],
+      ro: ["Înălțimea maximă este de 1320 metri.", "Situat în Provincia Sud, lângă Thio.", "Straturi de roci ultramafice dominante.", "Prezența unor zăcăminte importante de nichel.", "Râpe de eroziune abrupte pe versanți.", "Habitat pentru specii endemice de șopârle."],
+      en: ["Max elevation is 1,320 meters.", "Located in the South Province near Thio.", "Dominant ultramafic rock layers.", "Significant nickel ore deposits present.", "Steep erosion gullies on the slopes.", "Habitat for endemic lizard species."],
+    },
   },
   {
     id: "newcaledonia-mont-katepahi-relief-v2",
@@ -380,6 +608,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 650 meters", "Popular lookout point", "View of the mangrove forests", "Part of the Koné mountain range"],
     },
     imageHint: "Mont Katépahi New Caledonia view Voh",
+    descriptionAdvanced: {
+      de: "Der Mont Katépahi ist mit 652 Metern ein niedrigerer Küstengipfel in der Nähe von Koné in der Nordprovinz. Trotz seiner geringen Höhe bietet er einen strategischen Überblick über die Westküste und die Lagune. Die Vegetation besteht teilweise aus Überresten des trockenen Tropenwaldes, der in Neukaledonien stark gefährdet ist. Das Umland wird intensiv für die Rinderzucht genutzt.",
+      hu: "A Mont Katépahi 652 méteres magasságával egy alacsonyabb tengerparti csúcs Koné közelében, az Északi tartományban. Csekély magassága ellenére stratégiai kilátást nyújt a nyugati partra és a lagúnára. Növényzete részben a veszélyeztetett száraz trópusi erdők maradványaiból áll. A környező területeket intenzív szarvasmarha-tenyésztésre használják.",
+      ro: "Mont Katépahi, având 652 de metri, este un vârf de coastă mai scund situat lângă Koné, în Provincia Nord. În ciuda înălțimii reduse, oferă o vedere strategică asupra coastei de vest și a lagunei. Vegetația constă parțial din resturi ale pădurii tropicale uscate, care este grav amenințată în Noua Caledonie. Împrejurimile sunt utilizate intens pentru creșterea bovinelor.",
+      en: "Mont Katépahi, at 652 meters, is a lower coastal peak located near Koné in the North Province. Despite its modest height, it offers strategic views over the west coast and the lagoon. The vegetation partly consists of remnants of dry tropical forest, which is highly endangered in New Caledonia. The surrounding land is intensively used for cattle ranching.",
+    },
+    factsAdvanced: {
+      de: ["Höhe liegt bei 652 Metern.", "Gelegen in der Gemeinde Koné.", "Küstennaher Berg der Nordprovinz.", "Standort von bedrohtem Trockenwald.", "Beliebtes Ziel für lokale Kurzwanderungen.", "Blick auf das Voh-Massiv und die Lagune."],
+      hu: ["Magassága 652 méter.", "Koné község területén fekszik.", "Az Északi tartomány partmenti hegye.", "Veszélyeztetett száraz erdő található rajta.", "Kedvelt célpontja a rövid helyi túráknak.", "Kilátás nyílik a Voh-masszívumra és a lagúnára."],
+      ro: ["Altitudinea este de 652 metri.", "Situat în comuna Koné.", "Munte de coastă în Provincia Nord.", "Adăpostește fragmente de pădure uscată.", "Destinație populară pentru drumeții scurte.", "Vedere asupra masivului Voh și a lagunei."],
+      en: ["Elevation stands at 652 meters.", "Located in the Koné municipality.", "Coastal mountain in the North Province.", "Site of endangered dry forest remnants.", "Popular destination for short local hikes.", "Views of the Voh massif and the lagoon."],
+    },
   },
   {
     id: "newcaledonia-mont-mu-relief-v2",
@@ -399,6 +639,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,211 meters", "Very clear mountain water", "Frequent target for expeditions", "Rich in lichens and ferns"],
     },
     imageHint: "Mont Mu New Caledonia granite peak",
+    descriptionAdvanced: {
+      de: "Der Mont Mu erhebt sich auf 1212 Meter in der Südprovinz, im Hinterland von Païta. Er ist ein zentraler Teil des Gebirgszuges, der die Westküste von der Zentralkette trennt. Der Gipfel bietet spektakuläre Ausblicke auf den Flughafen La Tontouta und die Korallenriffe. Die Flora ist durch eine Mischung aus Macchia-Vegetation und feuchten Bergwäldern geprägt.",
+      hu: "A Mont Mu 1212 méter magasra emelkedik a Déli tartományban, Païta hátországában. Központi része annak a hegyláncnak, amely elválasztja a nyugati partot a központi vonulattól. A csúcsról látványos kilátás nyílik a La Tontouta repülőtérre és a korallzátonyokra. Flóráját a macchia-vegetáció és a nedves hegyi erdők keveréke jellemzi.",
+      ro: "Mont Mu se ridică la 1212 metri în Provincia Sud, în zona montană din spatele localității Païta. Este o parte centrală a lanțului care separă coasta de vest de culmile centrale. Vârful oferă vederi spectaculoase asupra aeroportului La Tontouta și a recifelor de corali. Flora este marcată de un amestec de vegetație maquis și păduri montane umede.",
+      en: "Mont Mu rises to 1,212 meters in the South Province, in the hinterland of Païta. It is a central part of the mountain range that separates the west coast from the main Central Range. The summit provides spectacular views over La Tontouta Airport and the coral reefs. The flora is characterized by a mix of maquis vegetation and moist mountain forests.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe erreicht 1212 Meter.", "Südprovinz, Gemeinde Païta.", "Wichtiger Orientierungspunkt für die Luftfahrt.", "Zentrum der lokalen Wasserversorgung.", "Vorkommen von Araucaria-Bäumen.", "Tektonisch hebungsgeprägte Struktur."],
+      hu: ["A csúcs magassága 1212 méter.", "Déli tartomány, Païta község.", "Fontos tájékozódási pont a légiközlekedésben.", "A helyi vízellátás egyik központja.", "Araucaria fenyőfajok élőhelye.", "Tektonikus emelkedés által formált szerkezet."],
+      ro: ["Înălțimea vârfului este de 1212 metri.", "Provincia Sud, comuna Païta.", "Punct de reper important pentru aviație.", "Centru pentru aprovizionarea locală cu apă.", "Prezența arborilor din genul Araucaria.", "Structură formată prin ridicare tectonică."],
+      en: ["Peak altitude reaches 1,212 meters.", "South Province, Païta municipality.", "Important landmark for aviation.", "Center for local water supply.", "Presence of Araucaria tree species.", "Structure formed by tectonic uplift."],
+    },
   },
   {
     id: "newcaledonia-mont-dzumac-relief-v2",
@@ -418,6 +670,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,250 meters", "Source of several rivers", "Significant mineral site", "Difficult, rugged terrain"],
     },
     imageHint: "Mont Dzumac New Caledonia mountain terrain",
+    descriptionAdvanced: {
+      de: "Der Mont Dzumac liegt auf 1250 Metern in der Südprovinz und bildet die Quelle des Dumbéa-Flusses. Das Massiv ist historisch bedeutend für den frühen Nickelabbau und beherbergt zahlreiche Relikte alter Minenpfade. Heute ist das Gebiet für den Trinkwasserschutz von Nouméa von höchster Priorität. Die Landschaft ist durch karge, metallreiche Böden und eine einzigartige Biodiversität geprägt.",
+      hu: "A Mont Dzumac 1250 méter magasan fekszik a Déli tartományban, és a Dumbéa folyó forrásvidékét alkotja. A masszívum történelmileg jelentős a korai nikkelbányászat szempontjából, számos régi bányászati ösvény maradványát őrzi. Ma a terület Nouméa ivóvízvédelme miatt kiemelt prioritást élvez. A tájat kopár, fémekben gazdag talaj és egyedülálló biodiverzitás jellemzi.",
+      ro: "Mont Dzumac este situat la 1250 de metri în Provincia Sud și formează izvorul râului Dumbéa. Masivul este important istoric pentru primele exploatări de nichel, adăpostind numeroase relicve ale vechilor poteci miniere. Astăzi, zona are prioritate maximă pentru protecția apei potabile a orașului Nouméa. Peisajul este marcat de soluri sărace, bogate în metale, și o biodiversitate unică.",
+      en: "Mont Dzumac is located at 1,250 meters in the South Province and forms the source of the Dumbéa River. The massif is historically significant for early nickel mining and hosts numerous relics of old mining trails. Today, the area is a top priority for protecting Nouméa's drinking water supply. The landscape is characterized by barren, metal-rich soils and unique biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 1250 Metern.", "Quelle des Flusses Dumbéa.", "Schutzgebiet für die Wasserversorgung.", "Standort historischer Minenanlagen.", "Extreme ultramafische Bodenbedingungen.", "Hoher Niederschlag durch Staulage."],
+      hu: ["Magassága 1250 méter.", "A Dumbéa folyó forrása.", "Vízbázisvédelmi terület.", "Történelmi bányaépítmények helyszíne.", "Extrém ultramafikus talajviszonyok.", "Magas csapadékmennyiség a torlóhatás miatt."],
+      ro: ["Altitudine de 1250 metri.", "Izvorul râului Dumbéa.", "Zonă protejată pentru alimentarea cu apă.", "Locație a unor instalații miniere istorice.", "Condiții de sol ultramafic extrem.", "Precipitații ridicate datorate poziției."],
+      en: ["Elevation of 1,250 meters.", "Source of the Dumbéa River.", "Protected area for water supply.", "Site of historical mining facilities.", "Extreme ultramafic soil conditions.", "High precipitation due to orographic lift."],
+    },
   },
   {
     id: "newcaledonia-mont-canala-relief-v2",
@@ -437,6 +701,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,050 meters", "Steep slopes to the sea", "Home of the Kagu bird", "Significant coffee tradition at the base"],
     },
     imageHint: "Mont Canala New Caledonia mountain bay",
+    descriptionAdvanced: {
+      de: "Der Mont Canala erhebt sich auf etwa 1050 Meter oberhalb der gleichnamigen Bucht an der Ostküste. Er ist ein geographisches Bindeglied zwischen der Nord- und Südprovinz in einer regenreichen Region. Die dichten tropischen Wälder an seinen Hängen sind durch üppiges Wachstum und viele Wasserfälle gekennzeichnet. Kulturell ist der Berg tief im Erbe der lokalen Kanak-Gemeinschaften verwurzelt.",
+      hu: "A Mont Canala körülbelül 1050 méter magasra emelkedik az azonos nevű öböl felett a keleti parton. Földrajzi összekötő kapocs az Északi és Déli tartomány között egy csapadékban gazdag régióban. Lejtőinek sűrű trópusi erdőit buja növekedés és számos vízesés jellemzi. Kulturálisan a hegy mélyen gyökerezik a helyi kanak közösségek örökségében.",
+      ro: "Mont Canala se ridică la aproximativ 1050 de metri deasupra golfului cu același nume de pe coasta de est. Reprezintă o legătură geografică între Provincia Nord și Provincia Sud într-o regiune bogată în precipitații. Pădurile tropicale dense de pe versanții săi sunt caracterizate de o creștere luxuriantă și numeroase cascade. Cultural, muntele este profund înrădăcinat în moștenirea comunităților locale Kanak.",
+      en: "Mont Canala rises to approximately 1,050 meters above the bay of the same name on the east coast. It acts as a geographical link between the North and South provinces in a high-rainfall region. The dense tropical forests on its slopes are marked by lush growth and many waterfalls. Culturally, the mountain is deeply rooted in the heritage of the local Kanak communities.",
+    },
+    factsAdvanced: {
+      de: ["Höhe ca. 1050 Meter.", "Dominante Lage über der Canala-Bucht.", "Sehr hohe jährliche Niederschlagsraten.", "Zentrum der traditionellen Kanak-Kultur.", "Bergbauaktivitäten in der Umgebung.", "Reich an Farnen und Orchideen."],
+      hu: ["Magassága kb. 1050 méter.", "Uralkodó helyzet a Canala-öböl felett.", "Nagyon magas éves csapadékmennyiség.", "A tradicionális kanak kultúra központja.", "Bányászati tevékenység a környéken.", "Páfrányokban és orchideákban gazdag."],
+      ro: ["Înălțime de cca. 1050 metri.", "Poziție dominantă deasupra golfului Canala.", "Rată anuală foarte ridicată de precipitații.", "Centru al culturii tradiționale Kanak.", "Activități miniere în împrejurimi.", "Bogat în ferigi și orhidee."],
+      en: ["Elevation approx. 1,050 meters.", "Dominant position over Canala Bay.", "Very high annual rainfall rates.", "Center of traditional Kanak culture.", "Mining activities in the vicinity.", "Rich in ferns and orchids."],
+    },
   },
   {
     id: "newcaledonia-mont-grandie-relief-v2",
@@ -456,6 +732,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,218 meters", "Surrounded by forestry", "Important point for radio relays", "Characterized by schist rocks"],
     },
     imageHint: "Mont Grandié New Caledonia highlands",
+    descriptionAdvanced: {
+      de: "Der Mont Grandié ist ein 1264 Meter hoher Berg im Herzen der Südprovinz, nahe Thio. Er gehört zu einem zerklüfteten Massiv, das durch intensive geologische Faltungen und Nickelvorkommen geprägt ist. Der Berg beherbergt wichtige Waldhabitate für die endemische Fauna der Insel. Aufgrund der steilen Topografie ist das Gebiet weitgehend unbesiedelt und ökologisch intakt.",
+      hu: "A Mont Grandié egy 1264 méter magas hegy a Déli tartomány szívében, Thio közelében. Egy tagolt masszívumhoz tartozik, amelyet intenzív geológiai gyűrődések és nikkelkészletek jellemeznek. A hegy fontos erdei élőhelyeket biztosít a sziget endemikus faunája számára. A meredek domborzat miatt a terület nagyrészt lakatlan és ökológiailag érintetlen.",
+      ro: "Mont Grandié este un munte de 1264 de metri situat în inima Provinciei Sud, lângă Thio. Aparține unui masiv accidentat, modelat prin intense încrețiri geologice și zăcăminte de nichel. Muntele găzduiește habitate forestiere importante pentru fauna endemică a insulei. Datorită topografiei abrupte, zona este în mare parte nelocuită și intactă din punct de vedere ecologic.",
+      en: "Mont Grandié is a 1,264-meter high mountain in the heart of the South Province, near Thio. It belongs to a rugged massif characterized by intense geological folding and nickel deposits. The mountain hosts vital forest habitats for the island's endemic fauna. Due to its steep topography, the area is largely uninhabited and remains ecologically intact.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe von 1264 Metern.", "Teil des Thio-Gebirgsstocks.", "Besteht aus Peridotit-Gestein.", "Wichtiger Lebensraum für Riesengeckos.", "Begrenzte Erschließung durch Bergbau.", "Zentralkette der Südprovinz."],
+      hu: ["Legmagasabb pontja 1264 méter.", "A Thio-hegytömb része.", "Peridotit kőzetből épül fel.", "Fontos élőhelye az óriásgekkóknak.", "Korlátozott bányászati feltárás jellemzi.", "A Déli tartomány központi hegylánca."],
+      ro: ["Altitudine maximă de 1264 metri.", "Parte a blocului montan Thio.", "Compus din roci de tip peridotit.", "Habitat important pentru gecoși giganți.", "Exploatare minieră limitată.", "Lanțul central al Provinciei Sud."],
+      en: ["Max elevation of 1,264 meters.", "Part of the Thio mountain block.", "Composed of peridotite rock.", "Important habitat for giant geckos.", "Limited development by mining.", "Central Range of the South Province."],
+    },
   },
   {
     id: "newcaledonia-mont-tandji-relief-v2",
@@ -475,6 +763,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: approx. 1,000 meters", "Striking shape", "Significant for aviation", "Sparse vegetation at the summit"],
     },
     imageHint: "Mont Tandji New Caledonia mountain peak",
+    descriptionAdvanced: {
+      de: "Der Mont Tandji erreicht eine Höhe von 1056 Metern in der Südprovinz, oberhalb der Gemeinde Boulouparis. Er markiert den Übergang von den trockenen Ebenen der Westküste zu den feuchteren Bergregionen der Zentralkette. Die Gipfelregion ist durch Grasland und kleine Waldinseln geprägt. Der Berg ist für seine historische Rolle in der Bergbauerschließung der Region bekannt.",
+      hu: "A Mont Tandji 1056 méteres magasságot ér el a Déli tartományban, Boulouparis község felett. Átmenetet képez a nyugati part száraz síkságai és a központi hegylánc nedvesebb hegyvidéki régiói között. A csúcsrégiót füves puszták és kis erdőfoltok jellemzik. A hegy a régió bányászati feltárásában betöltött történelmi szerepéről ismert.",
+      ro: "Mont Tandji atinge o înălțime de 1056 metri în Provincia Sud, deasupra comunei Boulouparis. Marchează tranziția de la câmpiile uscate ale coastei de vest la regiunile montane mai umede ale lanțului central. Regiunea de vârf este caracterizată de pajiști și mici insule de pădure. Muntele este cunoscut pentru rolul său istoric în explorarea minieră a regiunii.",
+      en: "Mont Tandji reaches an elevation of 1,056 meters in the South Province, above the municipality of Boulouparis. It marks the transition from the dry plains of the west coast to the wetter mountain regions of the Central Range. The summit region is characterized by grasslands and small forest patches. The mountain is known for its historical role in the regional mining development.",
+    },
+    factsAdvanced: {
+      de: ["Höhe liegt bei 1056 Metern.", "Gemeinde Boulouparis, Südprovinz.", "Teil der Wasserscheide von Grande Terre.", "Bedeutende Nickelfunde im 20. Jahrhundert.", "Vorkommen von seltenen Greifvögeln.", "Gefährdet durch invasive Tierarten."],
+      hu: ["Magassága 1056 méter.", "Boulouparis község, Déli tartomány.", "A Grande Terre vízválasztójának része.", "Jelentős nikkellelőhelyek a 20. században.", "Ritka ragadozó madarak előfordulási helye.", "Invazív állatfajok által veszélyeztetett."],
+      ro: ["Altitudinea este de 1056 metri.", "Comuna Boulouparis, Provincia Sud.", "Parte a cumpenei de ape din Grande Terre.", "Descoperiri importante de nichel în sec. XX.", "Prezența unor păsări de pradă rare.", "Amenințat de specii de animale invazive."],
+      en: ["Elevation stands at 1,056 meters.", "Boulouparis municipality, South Province.", "Part of the Grande Terre watershed.", "Significant nickel finds in the 20th century.", "Occurrence of rare birds of prey.", "Threatened by invasive animal species."],
+    },
   },
   {
     id: "newcaledonia-mont-ningua-relief-v2",
@@ -494,6 +794,18 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["Elevation: 1,352 meters", "Botanical reserve", "Contains many micro-endemics", "Rock of volcanic origin"],
     },
     imageHint: "Mont Ningua New Caledonia botanical reserve",
+    descriptionAdvanced: {
+      de: "Der Mont Ningua ist mit einer Höhe von 1343 Metern einer der markantesten Gipfel im Zentralkettengebirge von Neukaledonien. Er befindet sich an der Grenze zwischen den Gemeinden Boulouparis und Thio. Das Massiv ist bekannt für seine reiche Flora mit vielen endemischen Pflanzenarten, die auf den ultramafischen Böden gedeihen.",
+      hu: "A Mont Ningua 1343 méteres magasságával Új-Kaledónia központi hegyláncának egyik meghatározó csúcsa. A hegy Boulouparis és Thio községek határán helyezkedik el. A terület különleges flórájáról ismert, számos endemikus növényfaj él az ultramafikus kőzeteken kialakult talajon.",
+      ro: "Mont Ningua este unul dintre cele mai proeminente vârfuri din lanțul montan central al Noii Caledonii, având o înălțime de 1343 de metri. Situat la granița dintre comunele Boulouparis și Thio, masivul este renumit pentru flora sa bogată și numeroasele specii endemice care cresc pe soluri ultramafice.",
+      en: "Mont Ningua is one of the prominent peaks of the central mountain range in New Caledonia, reaching an elevation of 1343 meters. It is situated on the border between the communes of Boulouparis and Thio. The massif is noted for its rich flora, featuring many endemic plant species adapted to ultramafic soils.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 1343 Metern über dem Meeresspiegel", "Teil der Chaîne Centrale Gebirgskette", "Besteht hauptsächlich aus Peridotit-Gestein", "Beherbergt ein Wildnisreservat zum Naturschutz", "Liegt im Süden der Hauptinsel Grande Terre", "Wichtiger Standort für botanische Forschung"],
+      hu: ["Tengerszint feletti magassága 1343 méter", "A Chaîne Centrale hegylánc része", "Kőzete főként peridotitból áll", "Területén természetvédelmi rezervátum található", "A fősziget, Grande Terre déli részén fekszik", "Számos ritka, helyi növényfaj élőhelye"],
+      ro: ["Înălțimea de 1343 metri deasupra mării", "Face parte din lanțul muntos Chaîne Centrale", "Compus în principal din roci de peridotit", "Găzduiește o rezervație naturală protejată", "Situat în partea de sud a insulei Grande Terre", "Sit important pentru cercetări botanice"],
+      en: ["Elevation of 1343 meters above sea level", "Part of the Chaîne Centrale mountain range", "Composed mainly of peridotite rocks", "Home to a protected wilderness reserve", "Located in the south of the main island, Grande Terre", "Habitat for numerous rare endemic plant species"],
+    },
   },
   {
     id: "newcaledonia-vallon-dore-relief-v2",
@@ -513,5 +825,17 @@ export const newcaledoniaReliefV2: POI[] = [
       en: ["East of Nouméa", "Volcanic-sedimentary soils", "Transition to the Great South", "Dense settlement at the fringe"],
     },
     imageHint: "Vallon-Dore New Caledonia coastal valley",
+    descriptionAdvanced: {
+      de: "Vallon-Dore ist ein malerischer Ortsteil in der Gemeinde Mont-Dore im Süden von Neukaledonien. Er liegt an der Küste am Fuße des gleichnamigen Berges und ist besonders für seine natürlichen Mineralwasserquellen bekannt. Die Region bietet eine Mischung aus dichter Vegetation und direktem Zugang zur Lagune von Nouméa.",
+      hu: "Vallon-Dore Új-Kaledónia déli részén, Mont-Dore községben található festői településrész. A hegy lábánál, a tengerparton fekszik, és leginkább természetes ásványvízforrásairól nevezetes. A környék a sűrű növényzet és a Nouméa-i lagúna közvetlen közelségének keverékét nyújtja.",
+      ro: "Vallon-Dore este o localitate pitorească din comuna Mont-Dore, situată în sudul Noii Caledonii. Amplasată pe coastă, la poalele muntelui cu același nume, este cunoscută în special pentru izvoarele sale de apă minerală naturală. Regiunea oferă un amestec de vegetație densă și acces direct la laguna Nouméa.",
+      en: "Vallon-Dore is a picturesque locality within the commune of Mont-Dore in southern New Caledonia. Situated on the coast at the foot of the mountain of the same name, it is best known for its natural mineral water springs. The area features a mix of lush vegetation and direct access to the Nouméa lagoon.",
+    },
+    factsAdvanced: {
+      de: ["Heimat der Quelle des Mont-Dore Mineralwassers", "Liegt etwa 20 Kilometer südlich von Nouméa", "Teil des Naturparks des Großen Südens", "Bekannt für Wanderwege zum Gipfel des Mont-Dore", "Die Siedlung dehnt sich entlang der Küstenstraße aus", "Wichtiger Wohnort für Pendler aus der Hauptstadt"],
+      hu: ["A Mont-Dore ásványvíz forrásának helyszíne", "Körülbelül 20 kilométerre délre fekszik Nouméától", "A Nagy Dél természetvédelmi terület része", "Népszerű túraútvonalak indulnak innen a hegyre", "A település a tengerparti út mentén húzódik", "A fővárosba ingázók kedvelt lakóhelye"],
+      ro: ["Sursa apei minerale naturale Mont-Dore", "Situat la aproximativ 20 km sud de Nouméa", "Parte a parcului natural din Marele Sud", "Cunoscut pentru traseele montane spre muntele Mont-Dore", "Localitatea se întinde de-a lungul drumului de coastă", "Zonă rezidențială importantă pentru navetiști"],
+      en: ["Home to the source of Mont-Dore mineral water", "Located approximately 20 kilometers south of Nouméa", "Part of the Great South natural region", "Starting point for hikes to the Mont-Dore summit", "The settlement stretches along the coastal road", "Popular residential area for capital city commuters"],
+    },
   }
 ];

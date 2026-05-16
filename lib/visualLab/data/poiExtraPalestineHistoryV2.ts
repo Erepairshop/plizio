@@ -19,6 +19,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["World's oldest fortified city", "Massive Neolithic tower found", "UNESCO World Heritage since 2023", "Located in the Jordan Valley"],
     },
     imageHint: "Tell es-Sultan archaeological excavation Jericho",
+    descriptionAdvanced: {
+      de: "Tell es-Sultan ist die archäologische Stätte des antiken Jericho, das als die älteste kontinuierlich bewohnte Stadt der Welt gilt. Die Grabungen haben Siedlungsschichten freigelegt, die über 10.000 Jahre zurückreichen. Besonders bekannt sind der neolithische Turm und die massiven Befestigungsanlagen. Die Stätte bietet einzigartige Einblicke in die Anfänge der menschlichen Urbanisierung.",
+      hu: "Tell es-Sultan az ókori Jerikó régészeti lelőhelye, amelyet a világ legrégebbi, folyamatosan lakott városának tartanak. Az ásatások során több mint 10 000 évre visszanyúló településrétegeket tártak fel. Különösen híres a neolitikus torony és a masszív erődrendszer. A helyszín egyedülálló betekintést nyújt az emberi városiasodás kezdeteibe.",
+      ro: "Tell es-Sultan este situl arheologic al anticului Ierihon, considerat cel mai vechi oraș locuit continuu din lume. Excavările au scos la iveală straturi de așezări care datează de peste 10.000 de ani. Sunt celebre în mod special turnul neolitic și sistemele masive de fortificații. Situl oferă perspective unice asupra începuturilor urbanizării umane.",
+      en: "Tell es-Sultan is the archaeological site of ancient Jericho, widely considered the oldest continuously inhabited city in the world. Excavations have revealed settlement layers dating back over 10,000 years. The site is particularly famous for its Neolithic tower and massive fortification walls. It offers unique insights into the beginnings of human urbanization.",
+    },
+    factsAdvanced: {
+      de: ["Die Stätte liegt etwa 258 Meter unter dem Meeresspiegel.", "Sie beherbergt den ältesten bekannten Steinturm aus der Zeit um 8000 v. Chr.", "Archäologen haben bisher 23 Schichten antiker Zivilisationen identifiziert.", "Tell es-Sultan wurde 2023 in die Liste des UNESCO-Welterbes aufgenommen.", "Die ersten Stadtmauern wurden bereits im 9. Jahrtausend v. Chr. errichtet.", "Die Siedlung entstand in der Nähe der wasserreichen Ein es-Sultan-Quelle."],
+      hu: ["A lelőhely körülbelül 258 méterrel a tengerszint alatt fekszik.", "Itt található a legrégebbi ismert kőtorony, amely i. e. 8000 körül épült.", "A régészek eddig az ősi civilizációk 23 rétegét azonosították itt.", "Tell es-Sultant 2023-ban vették fel az UNESCO Világörökségi listájára.", "Az első városfalakat már az i. e. 9. évezredben felépítették.", "A település a bővizű Ein es-Sultan forrás közelében alakult ki."],
+      ro: ["Situl este situat la aproximativ 258 de metri sub nivelul mării.", "Adăpostește cel mai vechi turn de piatră cunoscut, construit în jurul anului 8000 î.Hr.", "Arheologii au identificat până în prezent 23 de straturi de civilizații antice.", "Tell es-Sultan a fost inclus în lista Patrimoniului Mondial UNESCO în 2023.", "Primele ziduri ale orașului au fost ridicate încă din mileniul al IX-lea î.Hr.", "Așezarea s-a dezvoltat în apropierea izvorului bogat Ein es-Sultan."],
+      en: ["The site is located approximately 258 meters below sea level.", "It houses the oldest known stone tower, dating from around 8000 BCE.", "Archaeologists have identified 23 layers of ancient civilizations so far.", "Tell es-Sultan was inscribed on the UNESCO World Heritage List in 2023.", "The first city walls were constructed as early as the 9th millennium BCE.", "The settlement was established near the abundant Ein es-Sultan spring."],
+    },
   },
   {
     id: "palestine-hishams-palace-history-v2",
@@ -38,6 +50,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Built in the 8th century", "Houses the Tree of Life mosaic", "Destroyed by earthquake in 749", "Umayyad desert castle complex"],
     },
     imageHint: "Hisham Palace mosaic floor Jericho",
+    descriptionAdvanced: {
+      de: "Der Hisham-Palast ist ein umayyadisches Wüstenschloss aus dem 8. Jahrhundert, nördlich von Jericho gelegen. Er ist berühmt für seine aufwendigen Bodenmosaike, darunter der bekannte 'Baum des Lebens'. Die Anlage diente den Umayyaden-Kalifen als Winterresidenz, bevor sie durch ein Erdbeben zerstört wurde. Heute ist die Stätte ein bedeutendes Beispiel für frühe islamische Architektur.",
+      hu: "Hisám palotája egy 8. századi omajjád sivatagi kastély Jerikótól északra. Híres bonyolult padlómozaikjairól, köztük az ismert 'Élet fájáról'. Az épületegyüttes az omajjád kalifák téli rezidenciájaként szolgált, mielőtt egy földrengés romba döntötte. Ma a helyszín a korai iszlám építészet egyik legfontosabb példája.",
+      ro: "Palatul lui Hisham este un castel de deșert omeyyad din secolul al VIII-lea, situat la nord de Ierihon. Este renumit pentru mozaicurile sale elaborate de pe podea, inclusiv celebrul 'Arbore al Vieții'. Complexul a servit drept reședință de iarnă pentru califii omeyyazi înainte de a fi distrus de un cutremur. Astăzi, situl este un exemplu important de arhitectură islamică timpurie.",
+      en: "Hisham's Palace is an 8th-century Umayyad desert castle located north of Jericho. It is renowned for its intricate floor mosaics, including the famous 'Tree of Life.' The site served as a winter retreat for the Umayyad caliphs before being destroyed by an earthquake. Today, the ruins represent a significant example of early Islamic architecture.",
+    },
+    factsAdvanced: {
+      de: ["Der Palast wurde während der Herrschaft von Kalif Hischam ibn Abd al-Malik erbaut.", "Er beherbergt eines der größten Bodenmosaike der Welt mit 827 Quadratmetern.", "Ein massives Erdbeben zerstörte den Palast im Jahr 749 n. Chr. fast vollständig.", "Die Anlage wurde 1894 vom Archäologen F.J. Bliss wiederentdeckt.", "Auf Arabisch ist die Ruinenstätte als Khirbat al-Mafjar bekannt.", "Das Mosaik 'Baum des Lebens' zeigt Gazellen und einen Löwen unter einem Baum."],
+      hu: ["A palotát Hisám ibn Abd al-Malik kalifa uralkodása alatt építették.", "Itt található a világ egyik legnagyobb padlómozaikja, 827 négyzetméteren.", "Egy hatalmas földrengés i. sz. 749-ben szinte teljesen elpusztította a palotát.", "A romokat 1894-ben fedezte fel újra F.J. Bliss régész.", "Arabul a helyszínt Khirbat al-Mafjar néven ismerik.", "Az 'Élet fája' mozaik gazellákat és egy oroszlánt ábrázol egy gránátalmafa alatt."],
+      ro: ["Palatul a fost construit în timpul domniei califului Hisham ibn Abd al-Malik.", "Găzduiește unul dintre cele mai mari mozaicuri de podea din lume, de 827 m².", "Un cutremur masiv a distrus aproape complet palatul în anul 749 d.Hr.", "Situl a fost redescoperit în 1894 de către arheologul F.J. Bliss.", "În limba arabă, situl arheologic este cunoscut sub numele de Khirbat al-Mafjar.", "Mozaicul 'Arborele Vieții' înfățișează gazele și un leu sub un rodiu."],
+      en: ["The palace was built during the reign of Caliph Hisham ibn Abd al-Malik (724–743).", "It features one of the world's largest floor mosaics, covering 827 square meters.", "A massive earthquake in 749 CE destroyed the palace shortly after completion.", "The site was rediscovered in 1894 by the archaeologist F.J. Bliss.", "In Arabic, the archaeological site is known as Khirbat al-Mafjar.", "The 'Tree of Life' mosaic depicts gazelles and a lion beneath a pomegranate tree."],
+    },
   },
   {
     id: "palestine-sebastia-ruins-history-v2",
@@ -57,6 +81,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Site of ancient Samaria", "Features a Roman forum", "Rebuilt by Herod the Great", "Colonnaded street still stands"],
     },
     imageHint: "Sebastia Roman ruins columns Samaria",
+    descriptionAdvanced: {
+      de: "Sebastia ist ein historisches Dorf, das die Ruinen der antiken Stadt Samaria beherbergt. Die Stätte umfasst Überreste aus hellenistischer, römischer und byzantinischer Zeit, darunter eine Kolonnadenstraße und ein Theater. Herodes der Große baute die Stadt umfassend aus und benannte sie zu Ehren von Kaiser Augustus um. Es ist eine der bedeutendsten archäologischen Stätten im nördlichen Westjordanland.",
+      hu: "Szebaszte egy történelmi falu, amely az ókori Szamária romjait őrzi. A helyszín hellenisztikus, római és bizánci kori maradványokat foglal magában, köztük egy oszlopcsarnokos utcát és egy színházat. Nagy Heródes alaposan újjáépítette a várost, és Augustus császár tiszteletére nevezte el. Ez Ciszjordánia északi részének egyik legfontosabb régészeti lelőhelye.",
+      ro: "Sebastia este un sat istoric care găzduiește ruinele anticului oraș Samaria. Situl cuprinde vestigii din perioadele elenistică, romană și bizantină, inclusiv o stradă cu coloane și un teatru. Irod cel Mare a reconstruit orașul pe scară largă și l-a redenumit în onoarea lui Augustus Cezar. Este unul dintre cele mai importante situri arheologice din nordul Cisiordaniei.",
+      en: "Sebastia is a historic village containing the ruins of the ancient city of Samaria. The site features remains from the Hellenistic, Roman, and Byzantine periods, including a colonnaded street and a theater. It was extensively rebuilt by Herod the Great and named in honor of Augustus Caesar. It is one of the most significant archaeological sites in the northern West Bank.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt diente im 9. Jahrhundert v. Chr. als Hauptstadt des Nordreichs Israel.", "Herodes der Große benannte sie 27 v. Chr. in Sebaste (griechisch für Augustus) um.", "Das römische Forum der Stadt war etwa 128 mal 72 Meter groß.", "Die antike Kolonnadenstraße verfügte ursprünglich über rund 600 Säulen.", "Der Überlieferung nach befindet sich hier das Grab von Johannes dem Täufer.", "Die Harvard University begann 1908 mit den ersten wissenschaftlichen Ausgrabungen."],
+      hu: ["A város az i. e. 9. században az Izraeli Királyság fővárosaként szolgált.", "Nagy Heródes i. e. 27-ben nevezte át Sebaste-nak (görögül Augustus tiszteletére).", "A város római fóruma körülbelül 128-szor 72 méteres kiterjedésű volt.", "Az ókori oszlopcsarnokos utca eredetileg mintegy 600 oszloppal rendelkezett.", "A hagyomány szerint itt található Keresztelő János sírja is.", "A Harvard Egyetem 1908-ban kezdte meg itt az első tudományos ásatásokat."],
+      ro: ["Orașul a servit drept capitală a Regatului Israel în secolul al IX-lea î.Hr.", "Irod cel Mare l-a redenumit Sebaste (greacă pentru Augustus) în 27 î.Hr.", "Forumul roman al orașului măsura aproximativ 128 pe 72 de metri.", "Strada cu coloane avea inițial un număr de aproximativ 600 de coloane.", "Conform tradiției, aici se află mormântul lui Ioan Botezătorul.", "Universitatea Harvard a început primele excavări științifice în anul 1908."],
+      en: ["The city served as the capital of the Kingdom of Israel in the 9th century BCE.", "Herod the Great renamed it Sebaste (Greek for Augustus) in 27 BCE.", "The Roman forum at the site measured approximately 128 by 72 meters.", "The ancient colonnaded street originally featured about 600 columns.", "According to tradition, the site contains the tomb of John the Baptist.", "Harvard University conducted the first major scientific excavations in 1908."],
+    },
   },
   {
     id: "palestine-hebron-old-city-history-v2",
@@ -76,6 +112,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["UNESCO World Heritage site", "Mamluk period architecture", "Famous for glassblowing", "Historic marketplace area"],
     },
     imageHint: "Hebron Old City narrow streets Palestine",
+    descriptionAdvanced: {
+      de: "Die Altstadt von Hebron zeichnet sich durch ihre Mamluken-Architektur und engen, gewundenen Gassen aus. Sie gehört zu den ältesten kontinuierlich bewohnten Städten der Welt und besitzt enorme religiöse Bedeutung. Aufgrund ihres historischen Wertes wurde sie 2017 zum UNESCO-Welterbe erklärt. Die Stadt ist ein lebendiges Zeugnis jahrtausendealter kultureller Schichten.",
+      hu: "Hebron óvárosát a mamlúk kori építészet és a szűk, kanyargós utcák jellemzik. A világ egyik legrégebbi, folyamatosan lakott városa, amely mély vallási jelentőséggel bír. Történelmi értéke miatt 2017-ben az UNESCO Világörökség részévé nyilvánították. A város a több évezredes kulturális rétegek élő tanúbizonysága.",
+      ro: "Orașul vechi din Hebron se caracterizează prin arhitectura sa din epoca mamelucă și străzile înguste și sinuoase. Este unul dintre cele mai vechi orașe locuite continuu din lume și un loc cu o semnificație religioasă profundă. A fost declarat sit al Patrimoniului Mondial UNESCO în 2017 datorită valorii sale istorice.",
+      en: "The Old City of Hebron is characterized by its Mamluk-era architecture and narrow, winding streets. It is one of the oldest continuously inhabited cities in the world and a site of deep religious significance. The area was designated a UNESCO World Heritage Site in 2017 due to its immense historical value.",
+    },
+    factsAdvanced: {
+      de: ["Die heutige Architektur stammt überwiegend aus der Mamlukenzeit (1250–1517).", "Die Altstadt wurde 2017 in die Liste des UNESCO-Welterbes aufgenommen.", "Hebron ist bekannt für seine traditionelle Glasbläser- und Töpferkunst.", "Die Gebäude wurden fast ausschließlich aus lokalem Kalkstein errichtet.", "Das historische Souk-System (Markt) prägt das wirtschaftliche Leben der Altstadt.", "Das Zentrum wird von der massiven Anlage der Höhle der Patriarchen dominiert."],
+      hu: ["A város építészete túlnyomórészt a mamlúk korból (1250–1517) származik.", "Az óvárost 2017-ben vették fel az UNESCO Világörökségi listájára.", "Hebron híres a hagyományos üvegfúvó- és fazekasiparáról.", "Az épületek többsége a környéken bányászott helyi mészkőből épült.", "A történelmi szuk (piac) rendszere máig meghatározza az óváros életét.", "A városközpontot a pátriárkák sírjának hatalmas épületegyüttese uralja."],
+      ro: ["Arhitectura actuală datează predominant din perioada mamelucă (1250–1517).", "Orașul vechi a fost înscris în lista Patrimoniului Mondial UNESCO în 2017.", "Hebron este renumit pentru industriile tradiționale de sticlărie și olărit.", "Clădirile au fost construite în principal din calcar local.", "Sistemul istoric de souk (piață) este încă activ în centrul vechi.", "Centrul orașului este dominat de complexul Peșterii Patriarhilor."],
+      en: ["The architecture is predominantly from the Mamluk period (1250–1517).", "The Old City was inscribed on the UNESCO World Heritage List in 2017.", "Hebron is famous for its traditional glass-blowing and pottery industries.", "The buildings are primarily constructed from local white limestone.", "The ancient souk (market) system remains a central feature of the city.", "The center of the Old City is dominated by the Cave of the Patriarchs."],
+    },
   },
   {
     id: "palestine-cave-patriarchs-history-v2",
@@ -95,6 +143,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Built by Herod the Great", "Houses the Ibrahimi Mosque", "Holy to Jews and Muslims", "Massive Herodian masonry"],
     },
     imageHint: "Cave of the Patriarchs Hebron Ibrahimi Mosque",
+    descriptionAdvanced: {
+      de: "Die Höhle der Patriarchen, auch Ibrahimi-Moschee genannt, ist ein religiöser Komplex im Zentrum von Hebron. Sie gilt als Grabstätte der biblischen Patriarchen Abraham, Isaak und Jakob sowie ihrer Ehefrauen. Die massiven Außenmauern wurden von Herodes dem Großen errichtet. Es ist eine der heiligsten Stätten für Juden, Christen und Muslime weltweit.",
+      hu: "A pátriárkák barlangja, más néven Ibrahimi-mecset, egy vallási épületegyüttes Hebron szívében. Ábrahám, Izsák, Jákob és feleségeik hagyományos nyughelyeként tisztelik. A barlangokat körülvevő hatalmas falakat Nagy Heródes építtette. A helyszín a zsidók, keresztények és muszlimok számára egyaránt szent hely.",
+      ro: "Peștera Patriarhilor, cunoscută și sub numele de Moscheea Ibrahimi, este un complex situat în inima Hebronului. Este considerată locul de înmormântare al lui Avraam, Isaac, Iacob și al soțiilor lor. Structura masivă care înconjoară peșterile a fost construită de Irod cel Mare. Este unul dintre cele mai sfinte locuri pentru evrei, creștini și musulmani.",
+      en: "The Cave of the Patriarchs, or Ibrahimi Mosque, is a religious complex located in the heart of Hebron. It is traditionally considered the burial place of the patriarchs Abraham, Isaac, and Jacob, and their wives. The massive enclosure walls were built by Herod the Great and later modified over centuries.",
+    },
+    factsAdvanced: {
+      de: ["Die herodianischen Außenmauern sind über 2.000 Jahre alt.", "Das Gebäude ist heute in einen Moschee- und einen Synagogenbereich unterteilt.", "Die Außenwände sind bis zu 12 Meter hoch und 2,5 Meter dick.", "Die Stätte wird von allen drei abrahamitischen Religionen als heilig verehrt.", "Kopien der Sarkophage (Kenotaphe) markieren die Gräber der Patriarchen.", "Unterhalb des Bodenniveaus befindet sich ein komplexes Doppelhöhlensystem."],
+      hu: ["A Heródes-kori külső falak több mint 2000 évesek.", "Az épület ma egy mecsetre és egy zsinagógára van osztva.", "Az épület falai 12 méter magasak és 2,5 méter vastagok.", "A helyszínt mindhárom ábrahámi vallás szentként ismeri el.", "Kenotáfiumok (jelképes síremlékek) jelzik a pátriárkák sírjait.", "Az épület alatt egy ősi, kettős barlangrendszer húzódik."],
+      ro: ["Zidurile de incintă herodiene au o vechime de peste 2.000 de ani.", "Clădirea este împărțită astăzi în secțiuni de moschee și sinagogă.", "Zidurile exterioare au 12 metri înălțime și 2,5 metri grosime.", "Situl este recunoscut ca loc sfânt de evrei, creștini și musulmani.", "Cenotafurile reprezintă mormintele simbolice ale patriarhilor.", "Sub clădire se află un sistem complex de peșteri duble."],
+      en: ["The Herodian enclosure walls are approximately 2,000 years old.", "The complex is currently divided into a mosque and a synagogue section.", "The building's walls reach 12 meters in height and 2.5 meters in thickness.", "It is recognized as a holy site by Jews, Christians, and Muslims alike.", "Cenotaphs inside the structure mark the traditional burial spots.", "A double cave system lies beneath the floor of the main building."],
+    },
   },
   {
     id: "palestine-church-nativity-history-v2",
@@ -114,6 +174,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Originally built in 339 AD", "UNESCO World Heritage site", "Features the Door of Humility", "Contains Byzantine floor mosaics"],
     },
     imageHint: "Church of the Nativity Bethlehem exterior",
+    descriptionAdvanced: {
+      de: "Die Geburtskirche in Bethlehem ist eine der ältesten kontinuierlich genutzten Kirchen der Welt. Sie markiert die traditionelle Geburtsstätte Jesu Christi in einer Grotte unter dem Kirchenschiff. Die ursprüngliche Basilika wurde im 4. Jahrhundert von Konstantin dem Großen in Auftrag gegeben. Heute ist sie ein zentraler Wallfahrtsort für Christen aller Konfessionen.",
+      hu: "A betlehemi Születés Temploma a világ egyik legrégebbi, folyamatosan működő keresztény temploma. Jézus Krisztus hagyományos születési helyét jelöli egy, a főhajó alatti barlangban. Az eredeti bazilikát Nagy Konstantin építtette a 4. században. Ma a templom a keresztény zarándoklatok egyik legfontosabb célpontja.",
+      ro: "Biserica Nașterii Domnului din Betleem este una dintre cele mai vechi biserici funcționale din lume. Aceasta marchează locul tradițional al nașterii lui Iisus Hristos într-o grotă situată sub naos. Basilica a fost comandată inițial de Constantin cel Mare în secolul al IV-lea. Astăzi este un punct central de pelerinaj pentru creștinii de pretutindeni.",
+      en: "The Church of the Nativity in Bethlehem is one of the oldest continuously operating churches in the world. It marks the traditional birthplace of Jesus Christ in a grotto beneath the nave. The basilica was originally commissioned by Constantine the Great in the 4th century and later rebuilt by Justinian.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau der ursprünglichen Kirche begann im Jahr 327 n. Chr.", "Die Kirche gehört seit 2012 zum UNESCO-Weltkulturerbe.", "Die 'Tür der Demut' ist nur 1,20 Meter hoch, um Reiter am Eintritt zu hindern.", "Im Boden der heutigen Kirche befinden sich Reste von Mosaiken aus dem 4. Jahrhundert.", "Die Verwaltung teilen sich griechisch-orthodoxe, armenische und römisch-katholische Behörden.", "Ein 14-zackiger Silberstern markiert die genaue Stelle der Geburt in der Grotte."],
+      hu: ["Az eredeti templom építése i. sz. 327-ben kezdődett.", "A templom 2012 óta az UNESCO Világörökség része.", "Az 'Alázat kapuja' mindössze 1,2 méter magas, hogy lovasok ne juthassanak be.", "A mai padló alatt 4. századi mozaikpadló maradványai láthatóak.", "A templomot a görög ortodox, az örmény és a római katolikus egyház közösen kezeli.", "A barlangban egy 14 ágú ezüstcsillag jelzi a születés pontos helyét."],
+      ro: ["Construcția bisericii originale a început în anul 327 d.Hr.", "Biserica este inclusă în Patrimoniul Mondial UNESCO din anul 2012.", "'Ușa Umilinței' a fost micșorată pentru a împiedica intrarea călăreților.", "Sub podeaua actuală au fost descoperite mozaicuri valoroase din secolul al IV-lea.", "Administrarea este partajată de ortodocșii greci, armeni și catolici.", "O stea de argint cu 14 colțuri marchează locul nașterii în grotă."],
+      en: ["The original construction of the church began in 327 CE.", "It was the first Palestinian site to be listed as a UNESCO World Heritage Site (2012).", "The 'Door of Humility' was built small to prevent riders from entering on horseback.", "Fragmentary 4th-century mosaic floors are visible beneath the current floor.", "The site is jointly managed by Greek Orthodox, Armenian, and Catholic authorities.", "A 14-pointed silver star marks the exact traditional spot of the Nativity."],
+    },
   },
   {
     id: "palestine-solomons-pools-history-v2",
@@ -133,6 +205,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Part of an ancient aqueduct system", "Capacity of 160,000 cubic meters", "Dated to the Herodian period", "Located near Qalaat al-Burak fort"],
     },
     imageHint: "Solomon's Pools Bethlehem reservoirs",
+    descriptionAdvanced: {
+      de: "Salomos Teiche sind drei massive, offene Reservoirs südlich von Bethlehem. Sie waren Teil eines antiken Wassersystems, das Jerusalem und den Tempel mit Quellwasser versorgte. Die Becken wurden wahrscheinlich im 1. Jahrhundert v. Chr. angelegt und später von den Osmanen erweitert. Sie sind ein beeindruckendes Zeugnis antiker Ingenieurskunst.",
+      hu: "Salamon tavai három hatalmas, szabadtéri víztározó Betlehemtől délre. Egy ősi vízvezetékrendszer részét képezték, amely Jeruzsálemet és a Templomot látta el forrásvízzel. A medencék valószínűleg az i. e. 1. században épültek, majd az oszmán korban bővítették őket. Az ókori mérnöki tudomány figyelemre méltó példái.",
+      ro: "Iazurile lui Solomon sunt trei rezervoare masive în aer liber situate la sud de Betleem. Acestea au făcut parte dintr-un sistem antic de alimentare cu apă pentru Ierusalim și Templu. Rezervoarele au fost probabil construite în secolul I î.Hr. și extinse în epoca otomană. Reprezintă o dovadă impresionantă a ingineriei antice.",
+      en: "Solomon's Pools are three massive open-air reservoirs located south of Bethlehem. They were part of an ancient water system designed to supply Jerusalem and the Temple with fresh spring water. The pools were likely constructed in the 1st century BCE and expanded during the Ottoman era.",
+    },
+    factsAdvanced: {
+      de: ["Die drei Becken fassen insgesamt etwa 450.000 Kubikmeter Wasser.", "Zwei lange Aquädukte verbanden die Teiche direkt mit Jerusalem.", "Trotz des Namens stammen die Becken aus der späten Zeit des Zweiten Tempels.", "In der Nähe befindet sich eine osmanische Festung aus dem 17. Jahrhundert.", "Das System versorgte Jerusalem fast 2.000 Jahre lang mit Wasser.", "Das unterste Becken ist mit 179 Metern Länge das größte der drei."],
+      hu: ["A három medence összkapacitása körülbelül 450 000 köbméter.", "Két hosszú akvadukt (vízvezeték) kötötte össze a tavakat Jeruzsálemmel.", "A név ellenére a tavak a késői második templom idejéből származnak.", "A közelben található egy 17. századi oszmán erőd, a Qal'at al-Burak.", "A rendszer közel 2000 éven át biztosított vizet Jeruzsálem számára.", "A legalsó medence a legnagyobb, hossza eléri a 179 métert."],
+      ro: ["Capacitatea totală a celor trei bazine este de aproximativ 450.000 mc.", "Iazurile erau conectate la Ierusalim prin două apeducte lungi.", "Deși poartă numele lui Solomon, bazinele datează din perioada târzie a celui de-al Doilea Templu.", "Lângă iazuri se află o fortăreață otomană din secolul al XVII-lea.", "Sistemul a furnizat apă Ierusalimului timp de aproape 2.000 de ani.", "Cel mai de jos iaz este cel mai mare, având o lungime de 179 de metri."],
+      en: ["The total capacity of the three pools is approximately 450,000 cubic meters.", "They were connected to Jerusalem via two extensive aqueducts.", "Despite their name, the pools date back to the late Second Temple period.", "An 17th-century Ottoman fortress, Qal'at al-Burak, is located nearby.", "The system supplied water to Jerusalem for nearly 2,000 years.", "The lowest pool is the largest, measuring 179 meters in length."],
+    },
   },
   {
     id: "palestine-mar-saba-monastery-history-v2",
@@ -152,6 +236,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Founded in 483 AD", "Strictly accessible only to men", "Home of Saint Sabbas", "Overlooks the Kidron Valley"],
     },
     imageHint: "Mar Saba Monastery cliffs Palestine",
+    descriptionAdvanced: {
+      de: "Mar Saba ist ein griechisch-orthodoxes Kloster, das spektakulär über dem Kidrontal in der Judäischen Wüste thront. Es wurde im 5. Jahrhundert vom Heiligen Sabas gegründet und ist eines der ältesten bewohnten Klöster der Welt. Die Anlage ist bekannt für ihre strengen asketischen Regeln und ihr festungsartiges Erscheinungsbild. Sie bewahrt eine jahrhundertelange spirituelle Tradition.",
+      hu: "Mar Saba egy görög ortodox kolostor, amely látványosan magasodik a Kidron-völgy felett a Júdeai-sivatagban. Szent Szabbász alapította az 5. században, és a világ egyik legrégebbi, folyamatosan lakott kolostora. Az épületegyüttes szigorú aszketikus szabályairól és erődrendszer-szerű megjelenéséről ismert. Évszázados spirituális hagyományokat őriz.",
+      ro: "Mar Saba este o mănăstire ortodoxă greacă ce domină spectaculos Valea Cedronului din Deșertul Iudeii. Fondată de Sfântul Sava în secolul al V-lea, este una dintre cele mai vechi mănăstiri locuite din lume. Complexul este cunoscut pentru regulile sale ascetice stricte și aspectul de fortăreață. Păstrează o tradiție spirituală de secole.",
+      en: "Mar Saba is a Greek Orthodox monastery overlooking the Kidron Valley in the Judean Desert. Founded by Saint Sabas in the 5th century, it is one of the oldest continuously inhabited monasteries in the world. The complex is known for its strict ascetic rules and fortress-like appearance, preserving centuries of spiritual tradition.",
+    },
+    factsAdvanced: {
+      de: ["Das Kloster wurde im Jahr 483 n. Chr. gegründet.", "Heute leben etwa 20 Mönche dauerhaft in der Klosteranlage.", "Frauen ist der Zutritt zum inneren Hauptbereich des Klosters traditionell untersagt.", "In der Hauptkirche ruhen die Reliquien des Heiligen Sabas.", "Der markante Wachturm wurde im 6. Jahrhundert von Kaiser Justinian I. errichtet.", "Während seiner Blütezeit im 7. Jahrhundert beherbergte es über 300 Mönche."],
+      hu: ["A kolostort i. sz. 483-ban alapította Szent Szabbász.", "Jelenleg körülbelül 20 szerzetes él folyamatosan a falai között.", "Nők számára a fő kolostoregyüttesbe való belépés hagyományosan tilos.", "A templomban őrzik Szent Szabbász, a kolostor alapítójának ereklyéit.", "A komplexum őrtornyát I. Iusztinianosz császár építtette a 6. században.", "Fénykorában, a 7. században több mint 300 szerzetes élt itt."],
+      ro: ["Mănăstirea a fost fondată în anul 483 d.Hr. de către Sfântul Sava.", "În prezent, în mănăstire locuiesc permanent aproximativ 20 de călugări.", "Femeilor le este interzis în mod tradițional accesul în complexul principal.", "Biserica principală adăpostește moaștele Sfântului Sava cel Sfințit.", "Turnul de veghe a fost construit în secolul al VI-lea de Iustinian I.", "În perioada sa de apogeu (sec. VII), adăpostea peste 300 de călugări."],
+      en: ["The monastery was established in 483 CE by Saint Sabas.", "Currently, about 20 monks live permanently within the complex.", "Women are traditionally barred from entering the main monastery building.", "The relics of Saint Sabas the Sanctified are kept in the main church.", "The complex features a tower built by Emperor Justinian I in the 6th century.", "During its peak in the 7th century, it housed more than 300 monks."],
+    },
   },
   {
     id: "palestine-monastery-temptation-history-v2",
@@ -171,6 +267,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Accessible by cable car", "Founded in the 6th century", "Built directly into the cliff", "Panoramic view of Jericho"],
     },
     imageHint: "Monastery of the Temptation Jericho cliff",
+    descriptionAdvanced: {
+      de: "Das Kloster der Versuchung ist ein griechisch-orthodoxes Kloster, das in die Klippen des Berges Quarantania oberhalb von Jericho gebaut wurde. Es markiert den Ort, an dem Jesus während seines 40-tägigen Fastens vom Teufel versucht worden sein soll. Das heutige Gebäude wurde Ende des 19. Jahrhunderts auf mittelalterlichen Fundamenten errichtet. Es bietet einen atemberaubenden Blick über das Jordantal.",
+      hu: "A Megkísértés kolostora egy görög ortodox kolostor, amely a Jerikó feletti Quarantania-hegy szikláiba épült. Azt a helyet jelöli, ahol a hagyomány szerint a sátán megkísértette Jézust negyvennapos böjtje alatt. A jelenlegi épületet a 19. század végén emelték középkori alapokra. Lenyűgöző kilátást nyújt a Jordán-völgyre.",
+      ro: "Mănăstirea Ispitirii este o mănăstire ortodoxă construită în stâncile Muntelui Quarantania, deasupra Ierihonului. Marchează locul unde se spune că Iisus a fost ispitit de diavol în timpul postului său de 40 de zile. Structura actuală a fost finalizată la sfârșitul secolului al XIX-lea pe fundații medievale.",
+      en: "The Monastery of the Temptation is an Orthodox monastery built into the cliffs of Mount Quarantania above Jericho. It marks the site where Jesus is said to have been tempted by the devil during his 40-day fast. The current structure was completed in the late 19th century on medieval foundations.",
+    },
+    factsAdvanced: {
+      de: ["Das Kloster liegt etwa 350 Meter über dem Meeresspiegel am Berghang.", "Es ist von Jericho aus über eine moderne Seilbahn erreichbar.", "Das Innere umschließt eine Höhle, die als Wohnort Jesu während des Fastens gilt.", "Der Berg Quarantania wird auf Arabisch auch Jebel Qarantal genannt.", "Das heutige Hauptgebäude des Klosters wurde im Jahr 1895 fertiggestellt.", "Reste einer Kreuzfahrerkirche sind in die moderne Struktur integriert."],
+      hu: ["A kolostor körülbelül 350 méterrel a tengerszint felett található.", "Jerikóból modern felvonóval is megközelíthető a helyszín.", "A kolostor egy barlang köré épült, ahol a hagyomány szerint Jézus lakott.", "A Quarantania-hegyet arabul Jebel Qarantal néven is ismerik.", "A jelenlegi főépületet 1895-ben fejezték be az ortodox szerzetesek.", "Középkori keresztes kori templomromok is beépültek a mai szerkezetbe."],
+      ro: ["Mănăstirea este situată la aproximativ 350 de metri deasupra nivelului mării.", "Este accesibilă din Ierihon prin intermediul unei telecabine moderne.", "Construcția înconjoară o peșteră identificată tradițional ca locuința lui Iisus.", "Muntele Quarantania este cunoscut în limba arabă sub numele de Jebel Qarantal.", "Clădirea actuală a fost finalizată în anul 1895.", "Ruinele unei biserici din epoca cruciată sunt integrate în sit."],
+      en: ["The monastery is located 350 meters above sea level on the cliffside.", "It is accessible from Jericho via a modern cable car system.", "The structure is built around a cave traditionally identified as Jesus's dwelling.", "Mount Quarantania is also known by its Arabic name, Jebel Qarantal.", "The current monastery building was completed in 1895.", "Ruins of a medieval Crusader-era church are integrated into the site."],
+    },
   },
   {
     id: "palestine-st-georges-monastery-history-v2",
@@ -190,6 +298,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Built into a canyon wall", "Located along Wadi Qelt", "Houses sacred relics", "Byzantine origin complex"],
     },
     imageHint: "St. George's Monastery Wadi Qelt Palestine",
+    descriptionAdvanced: {
+      de: "Das St. Georgs-Kloster ist ein beeindruckender Komplex, der direkt in die Steilwände des Wadi Qelt in der Judäischen Wüste gebaut wurde. Es wurde im späten 5. Jahrhundert gegründet und ist berühmt für seine dramatische Lage und die Integration in natürliche Höhlen. Das Kloster ist über eine Fußgängerbrücke erreichbar, die die tiefe Schlucht überspannt. Es ist ein Ort extremer Stille und Isolation.",
+      hu: "A Szent György-kolostor egy lenyűgöző épületegyüttes, amely a Júdeai-sivatagban található Wadi Qelt meredek sziklafalaiba épült. Az 5. század végén alapították, és híres drámai elhelyezkedéséről, valamint a természetes barlangokba való beépüléséről. A kolostor egy gyalogoshídon keresztül érhető el a mély kanyon felett. A csend és az elszigeteltség helyszíne.",
+      ro: "Mănăstirea Sfântul Gheorghe este un complex construit direct în pereții abrupți ai Wadi Qelt din Deșertul Iudeii. A fost înființată la sfârșitul secolului al V-lea și este faimoasă pentru locația sa dramatică și integrarea în peșterile naturale. Mănăstirea este accesibilă printr-un pod pietonal peste canionul adânc.",
+      en: "St. George's Monastery is a complex built into the sheer walls of Wadi Qelt in the Judean Desert. Established in the late 5th century, it is famous for its dramatic location and integration into natural caves. The monastery is accessible via a pedestrian bridge across the deep canyon, offering a unique spiritual atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet wurde das Kloster um 480 n. Chr. von Johannes von Theben.", "Im Jahr 614 n. Chr. zerstörten Perser die Anlage, die erst im 19. Jh. wiederaufgebaut wurde.", "Es ist dem Heiligen Georg von Choziba gewidmet.", "In der Klosterkirche wird der Schädel des Heiligen Johannes von Choziba aufbewahrt.", "Die Stätte liegt etwa 5 Kilometer westlich der Stadt Jericho.", "Das Kloster wird heute von griechisch-orthodoxen Mönchen bewohnt."],
+      hu: ["A kolostort i. sz. 480 körül alapította Thébái János.", "614-ben a perzsák lerombolták, és csak a 19. században építették újjá.", "A kolostort Chozibai Szent György tiszteletére szentelték fel.", "A templomban őrzik Chozibai Szent János koponyáját ereklyeként.", "A helyszín körülbelül 5 kilométerre nyugatra található Jerikó városától.", "A kolostorban jelenleg is görög ortodox szerzetesek élnek."],
+      ro: ["Mănăstirea a fost fondată în jurul anului 480 d.Hr. de Ioan din Teba.", "A fost distrusă de perși în 614 d.Hr. și reconstruită abia în secolul al XIX-lea.", "Este dedicată Sfântului Gheorghe din Hozeva.", "Adăpostește craniul Sfântului Ioan din Hozeva ca relicvă sacră.", "Situl este situat la aproximativ 5 kilometri distanță de Ierihon.", "Mănăstirea este locuită și administrată de călugări ortodocși greci."],
+      en: ["The monastery was founded around 480 CE by John of Thebes.", "It was destroyed by Persians in 614 CE and rebuilt in the 19th century.", "The site is dedicated to Saint George of Choziba.", "The monastery church contains the skull of Saint John of Choziba.", "It is located approximately 5 kilometers west of Jericho.", "The complex is currently inhabited by Greek Orthodox monks."],
+    },
   },
   {
     id: "palestine-tell-balata-history-v2",
@@ -209,6 +329,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Ancient city of Shechem", "Canaanite city walls", "Major center of Canaan", "Archaeological park site"],
     },
     imageHint: "Tell Balata archaeological site Nablus",
+    descriptionAdvanced: {
+      de: "Tell Balata ist die archäologische Stätte der antiken kanaanäischen Stadt Sichem, nahe Nablus. Sie war ein bedeutendes urbanes Zentrum in der Mittel- und Spätbronzezeit und wird in ägyptischen sowie biblischen Texten erwähnt. Ausgrabungen haben massive Befestigungsmauern und einen großen Festungstempel freigelegt. Die Stätte ist ein wichtiger Zeuge der frühen Stadtentwicklung in der Region.",
+      hu: "Tell Balata az ókori kánaáni város, Sikem régészeti lelőhelye Nablusz közelében. A középső és késő bronzkor jelentős városi központja volt, amelyet ókori egyiptomi és bibliai szövegek is említenek. Az ásatások hatalmas erődítményfalakat és egy nagy erődtemplomot tártak fel. A helyszín a régió korai városfejlődésének fontos tanúja.",
+      ro: "Tell Balata este situl arheologic al anticului oraș canaanit Sihem, situat lângă Nablus. A fost un centru urban major în Epoca Mijlocie și Târzie a Bronzului, menționat în texte egiptene și biblice. Excavările au scos la iveală ziduri de fortificație masive și un templu-fortăreață mare. Situl este un martor cheie al urbanizării timpurii.",
+      en: "Tell Balata is the archaeological site of the ancient Canaanite city of Shechem, located near Nablus. It was a major urban center in the Middle and Late Bronze Age, mentioned in ancient Egyptian and biblical texts. Excavations have revealed massive fortification walls and a large fortress temple, marking it as a key historical site.",
+    },
+    factsAdvanced: {
+      de: ["Die Stätte ist seit dem 4. Jahrtausend v. Chr. kontinuierlich besiedelt.", "Sie beherbergt einen massiven 'Festungstempel' aus dem 16. Jahrhundert v. Chr.", "Die Stadtmauern von Sichem waren bis zu 5 Meter dick.", "Sichem wird bereits in den ägyptischen Ächtungstexten (19. Jh. v. Chr.) erwähnt.", "Ein archäologischer Park wurde 2014 für die Öffentlichkeit eröffnet.", "Die Stadt liegt am strategischen Pass zwischen den Bergen Garizim und Ebal."],
+      hu: ["A terület az i. e. 4. évezred óta lakott település volt.", "Itt található egy hatalmas 'erődtemplom' az i. e. 16. századból.", "A városfalak vastagsága helyenként elérte az 5 métert.", "Sikemet már az egyiptomi átokszövegek is említik (i. e. 19. század).", "A régészeti parkot 2014-ben nyitották meg a látogatók előtt.", "A város a Garizim és az Ebál hegyek közötti stratégiai hágónál fekszik."],
+      ro: ["Situl a fost locuit încă din mileniul al IV-lea î.Hr.", "Adăpostește un 'templu-fortăreață' masiv din secolul al XVI-lea î.Hr.", "Zidurile orașului aveau o grosime de până la 5 metri.", "Sihem este menționat în textele de execrație egiptene (sec. XIX î.Hr.).", "Un parc arheologic a fost deschis publicului în anul 2014.", "Orașul este situat în pasul strategic dintre muntele Garizim și muntele Ebal."],
+      en: ["The site has been inhabited since the 4th millennium BCE.", "It features a massive 'Fortress Temple' dating from the 16th century BCE.", "The ancient city walls reached a thickness of up to 5 meters.", "Shechem is mentioned in Egyptian Execration Texts from the 19th century BCE.", "The archaeological park was officially opened to the public in 2014.", "It is located at the eastern pass between Mount Gerizim and Mount Ebal."],
+    },
   },
   {
     id: "palestine-jacobs-well-history-v2",
@@ -228,6 +360,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Over 40 meters deep", "Site of Jesus' encounter", "Inside Bir Ya'qub Church", "Tradition dates to 4th century"],
     },
     imageHint: "Jacob's Well church Nablus interior",
+    descriptionAdvanced: {
+      de: "Jakobsbrunnen ist ein tiefer, in den Fels gehauener Brunnen auf dem Gelände eines orthodoxen Klosters in Nablus. Er wird traditionell mit dem biblischen Patriarchen Jakob in Verbindung gebracht und ist der Ort der Begegnung Jesu mit der samaritanischen Frau. Der Brunnen befindet sich in einer modernen Kirche, die über byzantinischen Ruinen errichtet wurde. Er ist ein bedeutendes Ziel für religiöse Pilger.",
+      hu: "Jákob kútja egy mély, sziklába vájt kút egy nabluszi ortodox kolostor területén. A hagyomány a bibliai Jákob pátriárkához köti, és ez a helyszíne Jézus és a szamaritánus asszony találkozásának. A kút egy modern templomban található, amely bizánci és keresztes kori romokra épült. Fontos vallási zarándokhely.",
+      ro: "Fântâna lui Iacob este o fântână adâncă săpată în stâncă, situată în incinta unei mănăstiri ortodoxe din Nablus. Este asociată tradițional cu patriarhul biblic Iacob și este locul întâlnirii lui Iisus cu femeia samarineancă. Fântâna este adăpostită de o biserică modernă construită peste ruine bizantine.",
+      en: "Jacob's Well is a deep, rock-cut well located within the grounds of an Orthodox monastery in Nablus. It is traditionally associated with the biblical patriarch Jacob and is the site of Jesus's encounter with the Samaritan woman. The well is housed within a modern church built over Byzantine and Crusader ruins.",
+    },
+    factsAdvanced: {
+      de: ["Der Brunnen ist etwa 40 Meter (131 Fuß) tief in den Fels getrieben.", "Er wird im Johannesevangelium (Kapitel 4, Vers 5–6) namentlich erwähnt.", "Die heutige moderne Kirche über dem Brunnen wurde 2007 fertiggestellt.", "Die erste Kirche an dieser Stelle wurde bereits um 380 n. Chr. erbaut.", "Das Wasser des Brunnens gilt bis heute als trinkbar und frisch.", "Die Stätte liegt in unmittelbarer Nähe zum archäologischen Tell Balata."],
+      hu: ["A kút mélysége körülbelül 40 méter (131 láb).", "János evangéliuma (4:5–6) név szerint említi a helyszínt.", "A kút fölé emelt modern templomot 2007-ben fejezték be teljesen.", "Az első templomot ezen a helyen i. sz. 380 körül építették.", "A kút vize a mai napig iható és friss forrásvíznek számít.", "A helyszín Tell Balata régészeti lelőhelyének közvetlen szomszédságában van."],
+      ro: ["Fântâna are o adâncime de aproximativ 40 de metri (131 picioare).", "Este menționată în Evanghelia după Ioan (4:5–6).", "Biserica modernă de deasupra fântânii a fost finalizată în 2007.", "Prima biserică de pe acest sit a fost construită în jurul anului 380 d.Hr.", "Apa fântânii este considerată și astăzi potabilă și proaspătă.", "Se află în imediata apropiere a sitului arheologic Tell Balata."],
+      en: ["The well is approximately 40 meters (131 feet) deep.", "It is explicitly mentioned in the Gospel of John (4:5–6).", "The current church building over the well was completed in 2007.", "The first church on the site was constructed around 380 CE.", "The water from the well is still considered fresh and drinkable today.", "It is located very close to the archaeological site of Tell Balata."],
+    },
   },
   {
     id: "palestine-battir-history-v2",
@@ -247,6 +391,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["UNESCO World Heritage site", "Ancient stone terraces", "Historic railway line", "Roman irrigation system"],
     },
     imageHint: "Battir village terraces Palestine",
+    descriptionAdvanced: {
+      de: "Battir ist ein historisches Dorf, das für seine antiken landwirtschaftlichen Terrassen und sein einzigartiges Bewässerungssystem bekannt ist. Die Landschaft wird seit Jahrtausenden mit Trockenmauern und traditionellen Wasserverteilungsmethoden kultiviert. Im Jahr 2014 wurde das Dorf und seine Kulturlandschaft zum UNESCO-Welterbe erklärt. Es ist ein herausragendes Beispiel für nachhaltige historische Landnutzung.",
+      hu: "Battir egy történelmi falu, amely ősi mezőgazdasági teraszairól és egyedülálló öntözőrendszeréről ismert. A tájat évezredek óta kőfalakkal és hagyományos vízelosztási módszerekkel művelik. 2014-ben a falut és kultúrtáját az UNESCO Világörökség részévé nyilvánították. A fenntartható történelmi földhasználat kiemelkedő példája.",
+      ro: "Battir este un sat istoric cunoscut pentru terasele sale agricole antice și sistemul unic de irigații. Peisajul a fost cultivat timp de milenii folosind ziduri de piatră și metode tradiționale de distribuție a apei. În 2014, satul și peisajul său cultural au fost desemnate sit al Patrimoniului Mondial UNESCO.",
+      en: "Battir is a historic village known for its ancient agricultural terraces and unique irrigation system. The landscape has been cultivated for millennia using dry-stone walls and traditional water distribution methods. In 2014, the village and its cultural landscape were designated a UNESCO World Heritage Site.",
+    },
+    factsAdvanced: {
+      de: ["Battir steht seit 2014 auf der Liste des gefährdeten UNESCO-Welterbes.", "Das Bewässerungssystem des Dorfes stammt ursprünglich aus der Römerzeit.", "Die Terrassen werden durch kilometerlange Trockensteinmauern gestützt.", "Das Dorf ist berühmt für die spezielle 'Battiri'-Auberginensorte.", "Battir liegt an der antiken Route von Jerusalem zur Küste.", "Das Wasser wird nach einem traditionellen Zeitanteilsystem zwischen den Familien verteilt."],
+      hu: ["Battir 2014 óta szerepel az UNESCO veszélyeztetett világörökségi listáján.", "A falu öntözőrendszere eredetileg a római korból származik.", "A mezőgazdasági teraszokat szárazon rakott kőfalak támasztják alá.", "A falu híres a különleges 'Battiri' padlizsánfajtáról.", "Battir a Jeruzsálemből a tengerpartra vezető ősi útvonal mentén fekszik.", "Az öntözővizet hagyományos, időalapú osztási rendszer szerint osztják el."],
+      ro: ["Battir este pe lista Patrimoniului Mondial UNESCO în Pericol din 2014.", "Sistemul de irigații al satului datează încă din epoca romană.", "Terasele sunt susținute de ziduri de piatră construite fără mortar.", "Satul este renumit pentru varietatea locală de vânătă 'Battiri'.", "Este situat de-a lungul rutei antice care lega Ierusalimul de coastă.", "Apa de irigații este distribuită conform unui sistem tradițional de partajare a timpului."],
+      en: ["Battir has been a UNESCO World Heritage Site in Danger since 2014.", "The village irrigation system dates back to the Roman period.", "The agricultural terraces are supported by extensive dry-stone walls.", "The area is famous for the unique 'Battiri' eggplant variety.", "It is located along the ancient route from Jerusalem to the Mediterranean coast.", "Irrigation water is distributed according to a traditional time-sharing system."],
+    },
   },
   {
     id: "palestine-saint-hilarion-history-v2",
@@ -266,6 +422,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Founded in the 4th century", "Located at Tell Umm Amer", "Features mosaic floors", "UNESCO World Heritage candidate"],
     },
     imageHint: "Saint Hilarion Monastery ruins Gaza",
+    descriptionAdvanced: {
+      de: "Das Kloster des Heiligen Hilarion, auch bekannt als Tell Umm Amer, befindet sich im Gazastreifen. Es wurde im 4. Jahrhundert gegründet und gilt als eines der ältesten Klöster im Nahen Osten. Die Anlage umfasst Kapellen, Taufbecken und ein komplexes Wasserversorgungssystem. Es zeugt von der frühen Entwicklung des christlichen Mönchtums in der Region.",
+      hu: "A Szent Hilárión-kolostor, más néven Tell Umm Amer, a Gázai övezetben található. A 4. században alapították, és a Közel-Kelet egyik legrégebbi kolostoraként tartják számon. A komplexum kápolnákat, keresztelőmedencéket és bonyolult vízellátó rendszert foglal magában. A helyszín a keresztény szerzetesség korai közel-keleti fejlődésének tanúja.",
+      ro: "Mănăstirea Sfântul Ilarion, cunoscută și sub numele de Tell Umm Amer, este situată în Fâșia Gaza. Fondată în secolul al IV-lea, este considerată una dintre cele mai vechi mănăstiri din Orientul Mijlociu. Complexul cuprinde capele, bazine de botez și un sistem complex de alimentare cu apă. Situl atestă dezvoltarea timpurie a monahismului creștin în regiune.",
+      en: "The Monastery of Saint Hilarion, also known as Tell Umm Amer, is located in the Gaza Strip. Founded in the 4th century, it is considered one of the oldest monasteries in the Middle East. The complex includes chapels, baptismal fonts, and a sophisticated water supply system. It stands as a testament to the early development of Christian monasticism in the region.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um 329 n. Chr. vom Heiligen Hilarion", "Umfasst eine Fläche von etwa 7.500 Quadratmetern", "Seit 2012 auf der Tentativliste des UNESCO-Welterbes", "Befindet sich 15 Kilometer südlich von Gaza-Stadt", "Enthält Überreste einer großen Kirche aus dem 5. Jahrhundert", "Nach einem Erdbeben im Jahr 614 n. Chr. aufgegeben"],
+      hu: ["Szent Hilárión alapította 329 körül", "Körülbelül 7500 négyzetméteres területet fed le", "2012 óta szerepel az UNESCO világörökségi várakozólistáján", "Gáza városától 15 kilométerre délre található", "Egy 5. századi nagy templom maradványait is tartalmazza", "Egy 614-es földrengés után hagyták el végleg"],
+      ro: ["Fondată în jurul anului 329 d.Hr. de Sfântul Ilarion", "Acoperă o suprafață de aproximativ 7.500 de metri pătrați", "Inclusă pe lista tentativă UNESCO din anul 2012", "Situată la 15 kilometri sud de orașul Gaza", "Conține vestigiile unei biserici mari din secolul al V-lea", "Abandonată după un cutremur în anul 614 d.Hr."],
+      en: ["Founded around 329 AD by Saint Hilarion", "Covers an area of approximately 7,500 square meters", "On the UNESCO World Heritage Tentative List since 2012", "Located 15 kilometers south of Gaza City", "Contains remains of a large 5th-century church", "Abandoned after an earthquake in 614 AD"],
+    },
   },
   {
     id: "palestine-great-mosque-gaza-history-v2",
@@ -285,6 +453,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Former site of a Philistine temple", "Features Byzantine architecture", "Mamluk style minaret", "Heart of Gaza's Old City"],
     },
     imageHint: "Great Mosque of Gaza Al-Omari",
+    descriptionAdvanced: {
+      de: "Die Große Moschee von Gaza, auch Al-Omari-Moschee genannt, ist das größte und älteste islamische Gotteshaus im Gazastreifen. Sie steht an der Stelle eines antiken philisterischen Tempels und einer späteren byzantinischen Kirche. Die Architektur vereint mamelukische und osmanische Stilelemente. Ihr markantes Minarett prägte jahrhundertelang die Silhouette der Altstadt.",
+      hu: "A gázai Nagymecset, más néven Al-Omari mecset, a Gázai övezet legnagyobb és legrégebbi iszlám temploma. Egy ókori filiszteus templom és egy későbbi bizánci templom helyén áll. Az építészet a mamlúk és az oszmán stílusjegyeket ötvözi. Jellegzetes minaretje évszázadokon át meghatározta az óváros sziluettjét.",
+      ro: "Marea Moschee din Gaza, numită și Moscheea Al-Omari, este cel mai mare și mai vechi lăcaș de cult islamic din Fâșia Gaza. Se află pe locul unui fost templu filistean și al unei biserici bizantine ulterioare. Arhitectura îmbină elemente mameluce și otomane. Minaretul său distinctiv a definit silueta orașului vechi timp de secole.",
+      en: "The Great Mosque of Gaza, also known as the Al-Omari Mosque, is the largest and oldest Islamic place of worship in the Gaza Strip. It stands on the site of an ancient Philistine temple and a later Byzantine church. The architecture combines Mamluk and Ottoman stylistic elements. Its distinctive minaret shaped the Old City's skyline for centuries.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche von ca. 4.100 Quadratmetern", "Das Minarett wurde im 13. Jahrhundert erbaut", "Schwere Schäden durch das Erdbeben von 1927", "Napoleon Bonaparte besuchte den Ort im Jahr 1799", "Das Minarett wurde im Dezember 2023 zerstört", "Einst Standort eines Tempels für den Gott Dagon"],
+      hu: ["Teljes alapterülete körülbelül 4100 négyzetméter", "A minaretet a 13. században építették", "Súlyos károkat szenvedett az 1927-es földrengésben", "Napoléon Bonaparte 1799-ben járt a helyszínen", "A minaret 2023 decemberében megsemmisült", "Egykor a filiszteus Dágon isten temploma állt itt"],
+      ro: ["Suprafață totală de aproximativ 4.100 de metri pătrați", "Minaretul a fost construit în secolul al XIII-lea", "A suferit daune grave în cutremurul din 1927", "Napoleon Bonaparte a vizitat locația în anul 1799", "Minaretul a fost distrus în decembrie 2023", "Fost amplasament al unui templu dedicat zeului Dagon"],
+      en: ["Total area of approximately 4,100 square meters", "The minaret was constructed in the 13th century", "Suffered severe damage in the 1927 earthquake", "Napoleon Bonaparte visited the site in 1799", "The minaret was destroyed in December 2023", "Once the site of a temple to the god Dagon"],
+    },
   },
   {
     id: "palestine-qasr-al-basha-history-v2",
@@ -304,6 +484,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Also known as Napoleon's Fort", "Built in the 13th century", "Mamluk style palace", "Former government headquarters"],
     },
     imageHint: "Qasr al-Basha palace Gaza",
+    descriptionAdvanced: {
+      de: "Qasr al-Basha, auch bekannt als Pascha-Palast, ist ein bedeutendes historisches Gebäude in der Altstadt von Gaza. Der Palast wurde während der Mameluk-Ära im 13. Jahrhundert errichtet und diente als Residenz für Gouverneure. Er besticht durch seine massive Steinarchitektur und dekorativen Elemente. Heute beherbergt das Gebäude ein Museum für Archäologie.",
+      hu: "A Qasr al-Basha, más néven a Pasa-palota, Gáza óvárosának egyik legjelentősebb történelmi épülete. A palotát a mamlúk korszakban, a 13. században építették, és a kormányzók rezidenciájaként szolgált. Masszív kőépítészete és dekoratív elemei lenyűgözőek. Ma az épület régészeti múzeumnak ad otthont.",
+      ro: "Qasr al-Basha, cunoscut și sub numele de Palatul Pașei, este o clădire istorică importantă din orașul vechi Gaza. Palatul a fost construit în epoca mamelucă, în secolul al XIII-lea, și a servit drept reședință pentru guvernatori. Se remarcă prin arhitectura sa masivă din piatră și elementele decorative. Astăzi, clădirea găzduiește un muzeu de arheologie.",
+      en: "Qasr al-Basha, also known as the Pasha's Palace, is a significant historical building in Gaza's Old City. Built during the Mamluk era in the 13th century, the palace served as a residence for governors. It is noted for its massive stone architecture and decorative carvings. Today, the building houses an archaeological museum.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut unter Sultan Baibars im 13. Jahrhundert", "Napoleon Bonaparte übernachtete hier im Jahr 1799", "Besteht aus zwei Stockwerken mit massiven Steinmauern", "Wurde 2010 umfassend als Museum renoviert", "Zeigt Fundstücke von der Bronzezeit bis zur Römerzeit", "Verfügt über typische mamlukische Kreuzgewölbe"],
+      hu: ["Baibars szultán uralkodása alatt épült a 13. században", "Napoléon Bonaparte itt szállt meg 1799-ben", "Két emeletből áll, masszív kőfalakkal", "2010-ben teljesen felújították múzeumnak", "A bronzkortól a római korig mutat be leleteket", "Jellemző mamlúk keresztboltozatokkal rendelkezik"],
+      ro: ["Construit sub sultanul Baibars în secolul al XIII-lea", "Napoleon Bonaparte a înnoptat aici în anul 1799", "Compus din două etaje cu ziduri masive de piatră", "Renovat complet ca muzeu în anul 2010", "Expune descoperiri din epoca bronzului până în era romană", "Prezintă bolți în cruce tipice stilului mameluc"],
+      en: ["Built under Sultan Baibars in the 13th century", "Napoleon Bonaparte stayed here in 1799", "Consists of two floors with massive stone walls", "Extensively renovated as a museum in 2010", "Displays artifacts from the Bronze Age to the Roman era", "Features typical Mamluk cross-vaulted ceilings"],
+    },
   },
   {
     id: "palestine-anthedon-harbor-history-v2",
@@ -323,6 +515,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Graeco-Roman ruins", "Located on Mediterranean coast", "Partially buried in sand dunes", "UNESCO World Heritage tentative list"],
     },
     imageHint: "Anthedon archaeological site Gaza coast",
+    descriptionAdvanced: {
+      de: "Der Hafen von Anthedon, auch Blakhiyeh genannt, ist der erste bekannte Seehafen von Gaza. Er wurde vor über 3.000 Jahren gegründet und war ein bedeutendes Handelszentrum in der hellenistischen und römischen Zeit. Die archäologische Stätte umfasst Stadtmauern, Villen und Mosaikböden. Er liegt an der Mittelmeerküste nordwestlich von Gaza-Stadt.",
+      hu: "Anthedón kikötője, más néven Blakhiyeh, Gáza első ismert tengeri kikötője. Több mint 3000 évvel ezelőtt alapították, és jelentős kereskedelmi központ volt a hellenisztikus és római korban. A régészeti helyszín városfalakat, villákat és mozaikpadlókat foglal magában. A Földközi-tenger partján, Gáza városától északnyugatra található.",
+      ro: "Portul Anthedon, cunoscut și sub numele de Blakhiyeh, este primul port maritim cunoscut din Gaza. Fondat acum mai bine de 3.000 de ani, a fost un centru comercial major în perioadele elenistică și romană. Situl arheologic cuprinde ziduri de cetate, vile și podele cu mozaic. Este situat pe coasta mediteraneană, la nord-vest de orașul Gaza.",
+      en: "Anthedon Harbor, also known as Blakhiyeh, is the first known seaport of Gaza. Founded over 3,000 years ago, it was a major trading center during the Hellenistic and Roman periods. The archaeological site includes city walls, villas, and mosaic floors. It is located on the Mediterranean coast northwest of Gaza City.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um 800 v. Chr. durch die Philister", "Umfasst eine Fläche von etwa 6 Quadratkilometern", "Seit 2012 Teil der UNESCO-Tentativliste", "Wiederentdeckt im Jahr 1995 durch Ausgrabungen", "Römische Stadtmauern mit 8 Metern Dicke gefunden", "Anthedon bedeutet 'Blumenstadt' auf Griechisch"],
+      hu: ["A filiszteusok alapították i. e. 800 körül", "Területe megközelítőleg 6 négyzetkilométer", "2012 óta szerepel az UNESCO várakozólistáján", "1995-ben fedezték fel régészeti ásatások során", "8 méter vastag római városfalakat találtak", "Az Anthedón görögül 'virágvárost' jelent"],
+      ro: ["Fondat în jurul anului 800 î.Hr. de către filisteni", "Acoperă o suprafață de aproximativ 6 kilometri pătrați", "Parte a listei tentative UNESCO din anul 2012", "Redescoperit în 1995 prin săpături arheologice", "S-au găsit ziduri romane cu o grosime de 8 metri", "Anthedon înseamnă 'orașul florilor' în limba greacă"],
+      en: ["Founded around 800 BC by the Philistines", "Covers an area of approximately 6 square kilometers", "Part of the UNESCO Tentative List since 2012", "Rediscovered in 1995 during excavations", "Roman city walls 8 meters thick were found", "Anthedon means 'city of flowers' in Greek"],
+    },
   },
   {
     id: "palestine-saint-porphyrius-history-v2",
@@ -342,6 +546,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Located in the Zeitoun district", "Features Crusader architecture", "Tomb of Saint Porphyrius", "Spiritual center for Gaza Christians"],
     },
     imageHint: "Saint Porphyrius Church Gaza exterior",
+    descriptionAdvanced: {
+      de: "Die Kirche des Heiligen Porphyrius ist die älteste aktive Kirche im Gazastreifen. Sie befindet sich im Zaitun-Viertel der Altstadt und ist nach dem Bischof Porphyrius benannt, der im 5. Jahrhundert das Christentum in Gaza verbreitete. Die heutige Struktur stammt größtenteils aus der Zeit der Kreuzzüge im 12. Jahrhundert. Sie dient als wichtiges religiöses Zentrum für die griechisch-orthodoxe Gemeinde.",
+      hu: "A Szent Porphyrius-templom a Gázai övezet legrégebbi működő temploma. Az óváros Zaitun negyedében található, és Porphyrius püspökről nevezték el, aki az 5. században terjesztette a kereszténységet Gázában. A mai épület nagy része a 12. századi keresztes hadjáratok idejéből származik. Fontos vallási központ a görög ortodox közösség számára.",
+      ro: "Biserica Sfântul Porfirie este cea mai veche biserică activă din Fâșia Gaza. Situată în cartierul Zaitun din orașul vechi, poartă numele episcopului Porfirie, care a răspândit creștinismul în Gaza în secolul al V-lea. Structura actuală datează în mare parte din perioada cruciadelor, secolul al XII-lea. Servește ca centru religios major pentru comunitatea greco-ortodoxă.",
+      en: "The Church of Saint Porphyrius is the oldest active church in the Gaza Strip. Located in the Zaitun quarter of the Old City, it is named after Bishop Porphyrius, who spread Christianity in Gaza in the 5th century. The current structure dates mostly from the Crusader period in the 1150s. It serves as a major religious center for the Greek Orthodox community.",
+    },
+    factsAdvanced: {
+      de: ["Ursprünglicher Bau wurde im Jahr 425 n. Chr. geweiht", "Wände sind teilweise bis zu 1,8 Meter dick", "Grundfläche der Kirche beträgt etwa 229 Quadratmeter", "Enthält das Grab des Heiligen Porphyrius", "Von Kreuzfahrern um das Jahr 1150 wiederaufgebaut", "Wurde bei einem Luftangriff im Jahr 2023 beschädigt"],
+      hu: ["Az eredeti épületet 425-ben szentelték fel", "A falak néhol 1,8 méter vastagságúak", "A templom alapterülete körülbelül 229 négyzetméter", "Itt található Szent Porphyrius sírja", "A keresztesek építették újjá 1150 körül", "A 2023-as légitámadások során megsérült"],
+      ro: ["Clădirea originală a fost sfințită în anul 425 d.Hr.", "Zidurile au o grosime de până la 1,8 metri", "Suprafața bisericii este de aproximativ 229 mp", "Găzduiește mormântul Sfântului Porfirie", "Reconstruită de cruciați în jurul anului 1150", "Afectată de un atac aerian în anul 2023"],
+      en: ["Original building consecrated in 425 AD", "Walls are up to 1.8 meters thick in some parts", "Church floor area is approximately 229 square meters", "Contains the tomb of Saint Porphyrius", "Rebuilt by Crusaders around the year 1150", "Damaged during an airstrike in 2023"],
+    },
   },
   {
     id: "palestine-tell-es-sakan-history-v2",
@@ -361,6 +577,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Early Bronze Age site", "Egyptian fortification traces", "Mud-brick architecture remains", "Strategic trade hub in antiquity"],
     },
     imageHint: "Tell es-Sakan archaeological site Gaza",
+    descriptionAdvanced: {
+      de: "Tell es-Sakan ist eine bedeutende archäologische Stätte aus der frühen Bronzezeit im Gazastreifen. Es war eine der ersten befestigten Städte in der Region und zeigt enge Verbindungen zum alten Ägypten. Die Siedlung stammt aus der Zeit zwischen 3300 und 2200 v. Chr. Ausgrabungen enthüllten massive Lehmziegelmauern und Wohnviertel.",
+      hu: "Tell es-Sakan egy jelentős kora bronzkori régészeti lelőhely a Gázai övezetben. A régió egyik első erődített városa volt, amely szoros kapcsolatokat mutat az ókori Egyiptommal. A település i. e. 3300 és 2200 között létezett. Az ásatások masszív vályogtégla falakat és lakónegyedeket tártak fel.",
+      ro: "Tell es-Sakan este un sit arheologic major din epoca timpurie a bronzului în Fâșia Gaza. A fost unul dintre primele orașe fortificate din regiune, prezentând legături strânse cu Egiptul Antic. Așezarea datează din perioada cuprinsă între 3300 și 2200 î.Hr. Săpăturile au scos la iveală ziduri masive din cărămidă de chirpici și cartiere rezidențiale.",
+      en: "Tell es-Sakan is a major Early Bronze Age archaeological site in the Gaza Strip. It was one of the first fortified cities in the region, showing close links with Ancient Egypt. The settlement dates from between 3300 and 2200 BC. Excavations revealed massive mudbrick walls and residential quarters.",
+    },
+    factsAdvanced: {
+      de: ["Datiert auf das 4. Jahrtausend v. Chr.", "Umfasst eine Gesamtfläche von ca. 5 Hektar", "Wurde erst im Jahr 1998 zufällig entdeckt", "Verfügt über Lehmziegelmauern von 9 Metern Dicke", "Etwa 500 Meter nördlich des Wadi Ghazzeh gelegen", "Nach ca. 2350 v. Chr. endgültig verlassen"],
+      hu: ["Az i. e. 4. évezredre datálható", "Teljes területe körülbelül 5 hektár", "Csak 1998-ban fedezték fel véletlenül", "9 méter vastagságú vályogtégla falakkal rendelkezett", "Körülbelül 500 méterre északra fekszik a Vádi Gázzétól", "I. e. 2350 körül hagyták el végleg"],
+      ro: ["Datat în mileniul al IV-lea î.Hr.", "Acoperă o suprafață totală de aproximativ 5 hectare", "Descoperit accidental abia în anul 1998", "Prezintă ziduri de chirpici de 9 metri grosime", "Situat la aproximativ 500 metri nord de Wadi Ghazzeh", "Abandonat definitiv în jurul anului 2350 î.Hr."],
+      en: ["Dates back to the 4th millennium BC", "Covers a total area of about 5 hectares", "Accidentally discovered only in 1998", "Features mudbrick walls 9 meters thick", "Located 500 meters north of Wadi Ghazzeh", "Permanently abandoned around 2350 BC"],
+    },
   },
   {
     id: "palestine-jabalia-byzantine-church-history-v2",
@@ -380,6 +608,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Over 15 mosaic motifs", "Religious texts in floor", "Restored in 2022", "Byzantine monastic site"],
     },
     imageHint: "Jabalia Byzantine Church mosaics Gaza",
+    descriptionAdvanced: {
+      de: "Die byzantinische Kirche von Jabalia im Norden des Gazastreifens ist berühmt für ihre außergewöhnlichen Mosaikböden. Sie wurde im 5. Jahrhundert erbaut und diente jahrhundertelang als Ort der Andacht. Die Mosaike zeigen Tiere, Pflanzen und geometrische Muster in leuchtenden Farben. Nach einer langjährigen Restaurierung wurde sie 2022 für Besucher geöffnet.",
+      hu: "A Gázai övezet északi részén található jabaliai bizánci templom kivételes mozaikpadlóiról híres. Az 5. században épült, és évszázadokon át istentiszteleti helyként szolgált. A mozaikok állatokat, növényeket és geometriai mintákat ábrázolnak élénk színekben. Hosszú évekig tartó restaurálás után 2022-ben nyitották meg a látogatók előtt.",
+      ro: "Biserica bizantină din Jabalia, situată în nordul Fâșiei Gaza, este renumită pentru podelele sale cu mozaic excepționale. Construită în secolul al V-lea, a servit timp de secole ca loc de închinare. Mozaicurile înfățișează animale, plante și modele geometrice în culori vii. După o restaurare de lungă durată, a fost deschisă publicului în 2022.",
+      en: "The Byzantine Church of Jabalia in the northern Gaza Strip is famous for its exceptional mosaic floors. Built in the 5th century, it served as a place of worship for centuries. The mosaics depict animals, plants, and geometric patterns in vivid colors. After a multi-year restoration, it was opened to the public in 2022.",
+    },
+    factsAdvanced: {
+      de: ["Erster Bauabschnitt stammt aus dem Jahr 444 n. Chr.", "Umfasst 16 verschiedene Arten von Mosaikmotiven", "Die Fläche der Kirche beträgt rund 400 Quadratmeter", "Wurde im Januar 2022 offiziell wiedereröffnet", "Mosaike zeigen Vögel, Gazellen und Palmen", "Schwere Schäden durch den Konflikt im Jahr 2023"],
+      hu: ["Az első építési fázis 444-ből származik", "16 különböző típusú mozaikmotívumot tartalmaz", "A templom alapterülete körülbelül 400 négyzetméter", "2022 januárjában nyitották meg hivatalosan", "A mozaikok madarakat, gazellákat és pálmákat ábrázolnak", "A 2023-as konfliktus során súlyos károkat szenvedett"],
+      ro: ["Prima etapă de construcție datează din anul 444 d.Hr.", "Cuprinde 16 tipuri diferite de motive de mozaic", "Suprafața bisericii este de circa 400 de metri pătrați", "Redeschisă oficial în ianuarie 2022", "Mozaicurile arată păsări, gazele și palmieri", "Suferit daune grave în timpul conflictului din 2023"],
+      en: ["First construction phase dates to 444 AD", "Features 16 different types of mosaic motifs", "The church area is approximately 400 square meters", "Officially reopened in January 2022", "Mosaics depict birds, gazelles, and palm trees", "Severely damaged by the conflict in 2023"],
+    },
   },
   {
     id: "palestine-nablus-old-city-history-v2",
@@ -399,6 +639,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Roman origin (Neapolis)", "Famous for Knafeh dessert", "Historic hammams present", "Center of olive oil soap"],
     },
     imageHint: "Nablus Old City market soap factory",
+    descriptionAdvanced: {
+      de: "Die Altstadt von Nablus ist ein lebendiges Zeugnis der Geschichte Palästinas mit Wurzeln bis in die römische Zeit. Sie ist bekannt für ihre labyrinthartigen Gassen, traditionellen Seifenfabriken und antiken Märkte. Viele Gebäude stammen aus der osmanischen und mamelukischen Epoche. Die Casbah von Nablus bildet das wirtschaftliche und kulturelle Herz der Stadt.",
+      hu: "Nablus óvárosa Palesztina történelmének élő tanúja, gyökerei a római korig nyúlnak vissza. Labirintusszerű utcáiról, hagyományos szappanfőző műhelyeiről és ősi piacairól ismert. Számos épület az oszmán és a mamlúk korszakból származik. A nablusi Casbah a város gazdasági és kulturális szíve.",
+      ro: "Orașul vechi Nablus este o mărturie vie a istoriei Palestinei, cu rădăcini care merg până în epoca romană. Este cunoscut pentru aleile sale labirintice, fabricile tradiționale de săpun și piețele antice. Multe clădiri datează din epocile otomană și mamelucă. Casbah-ul din Nablus formează inima economică și culturală a orașului.",
+      en: "The Old City of Nablus is a living witness to Palestine's history, with roots dating back to the Roman period. It is famous for its labyrinthine alleys, traditional soap factories, and ancient markets. Many buildings date from the Ottoman and Mamluk eras. The Casbah of Nablus forms the economic and cultural heart of the city.",
+    },
+    factsAdvanced: {
+      de: ["Von den Römern im Jahr 72 n. Chr. als Neapolis gegründet", "Es gibt heute noch etwa 20 aktive Seifenfabriken", "Unterteilt in sieben verschiedene Stadtviertel (Haret)", "Die Große Moschee wurde im 11. Jahrhundert erbaut", "Enthält Überreste eines antiken römischen Theaters", "Schwere Schäden beim Erdbeben von 1927"],
+      hu: ["A rómaiak alapították i. sz. 72-ben Neapolis néven", "Ma is körülbelül 20 aktív szappanfőző műhely működik", "Hét különböző városnegyedre (Haret) oszlik", "A Nagymecset a 11. században épült", "Egy ókori római színház maradványait is őrzi", "Az 1927-es földrengés során súlyos károk érték"],
+      ro: ["Fondat de romani în anul 72 d.Hr. sub numele de Neapolis", "Există și astăzi aproximativ 20 de fabrici de săpun active", "Împărțit în șapte cartiere diferite (Haret)", "Marea Moschee a fost construită în secolul al XI-lea", "Conține vestigiile unui teatru roman antic", "A suferit daune majore la cutremurul din 1927"],
+      en: ["Founded by Romans in 72 AD as Neapolis", "There are about 20 active soap factories today", "Divided into seven distinct quarters (Haret)", "The Great Mosque was constructed in the 11th century", "Contains remains of an ancient Roman theater", "Suffered major damage during the 1927 earthquake"],
+    },
   },
   {
     id: "palestine-burqin-church-history-v2",
@@ -418,6 +670,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Byzantine era foundations", "Third oldest church site", "Built into a natural cave", "Located near Jenin"],
     },
     imageHint: "Burqin Church St. George Palestine",
+    descriptionAdvanced: {
+      de: "Die Burqin-Kirche, auch bekannt als Kirche der zehn Aussätzigen, ist eine der ältesten Kirchen der Welt. Sie befindet sich in der Nähe von Jenin und markiert den Ort, an dem Jesus laut Überlieferung zehn Aussätzige heilte. Die Struktur umfasst eine byzantinische Höhlenkirche und spätere Erweiterungen. Sie ist ein bedeutendes Ziel für christliche Pilger aus aller Welt.",
+      hu: "A burqini templom, más néven a Tíz Leprás temploma, a világ egyik legrégebbi temploma. Dzsenín közelében található, és azt a helyet jelöli, ahol a hagyomány szerint Jézus meggyógyított tíz leprást. Az építmény magában foglal egy bizánci barlangtemplomot és későbbi bővítéseket. Világszerte fontos zarándokhely a keresztények számára.",
+      ro: "Biserica din Burqin, cunoscută și sub numele de Biserica celor zece leproși, este una dintre cele mai vechi biserici din lume. Situată lângă Jenin, marchează locul unde, conform tradiției, Iisus a vindecat zece leproși. Structura cuprinde o biserică bizantină în peșteră și extinderi ulterioare. Este o destinație majoră de pelerinaj pentru creștini.",
+      en: "Burqin Church, also known as the Church of the Ten Lepers, is one of the oldest churches in the world. Located near Jenin, it marks the site where, according to tradition, Jesus healed ten lepers. The structure includes a Byzantine cave church and later additions. It remains a major pilgrimage destination for Christians worldwide.",
+    },
+    factsAdvanced: {
+      de: ["Ursprung datiert auf das 4. oder 5. Jahrhundert n. Chr.", "Gilt als die fünftälteste Kirche der Welt", "Verfügt über drei Hauptkammern in der Struktur", "Wurde im 12. Jahrhundert umfassend renoviert", "Immer noch eine aktive griechisch-orthodoxe Gemeinde", "Die Höhlenkirche war ursprünglich ein römisches Grab"],
+      hu: ["Eredete az i. sz. 4. vagy 5. századra nyúlik vissza", "A világ ötödik legrégebbi templomaként tartják számon", "Az építmény három fő kamrával rendelkezik", "A 12. században jelentős felújításon esett át", "Ma is aktív görög ortodox egyházközség működik itt", "A barlangtemplom eredetileg egy római sír volt"],
+      ro: ["Originea datează din secolul al IV-lea sau al V-lea d.Hr.", "Considerată a cincea cea mai veche biserică din lume", "Dispune de trei camere principale în structura sa", "A fost renovată extensiv în secolul al XII-lea", "Este încă o parohie greco-ortodoxă activă", "Biserica din peșteră a fost inițial un mormânt roman"],
+      en: ["Origin dates back to the 4th or 5th century AD", "Considered the fifth-oldest church in the world", "Features three main chambers within the structure", "Extensively renovated in the 12th century", "Still an active Greek Orthodox parish today", "The cave church was originally a Roman tomb"],
+    },
   },
   {
     id: "palestine-birzeit-old-city-history-v2",
@@ -437,6 +701,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Restored cultural heritage", "Traditional stone houses", "Artisan craft hub", "Located near the university"],
     },
     imageHint: "Birzeit Old City stone houses Palestine",
+    descriptionAdvanced: {
+      de: "Die Altstadt von Birzeit ist ein malerisches Beispiel für die traditionelle palästinensische Architektur im zentralen Hochland. Sie ist geprägt von massiven Kalksteinhäusern und engen, verwinkelten Gassen. Die Stadt ist heute vor allem als Sitz der gleichnamigen Universität bekannt. Historische Sanierungsprojekte haben den Charme der alten Bausubstanz für die Zukunft bewahrt.",
+      hu: "Birzeit óvárosa a hagyományos palesztin építészet festői példája a központi felföldön. Masszív mészkőházak és szűk, kanyargós utcák jellemzik. A város ma leginkább a nevét viselő egyetemről ismert. Történelmi felújítási projektek megőrizték a régi épületek báját az utókor számára.",
+      ro: "Orașul vechi Birzeit este un exemplu pitoresc de arhitectură tradițională palestiniană din zonele înalte centrale. Este caracterizat de case masive din piatră de calcar și alei înguste și întortocheate. Orașul este cunoscut astăzi în principal ca sediu al universității cu același nume. Proiectele de restaurare au conservat farmecul vechilor clădiri.",
+      en: "The Old City of Birzeit is a picturesque example of traditional Palestinian architecture in the central highlands. It is characterized by massive limestone houses and narrow, winding alleys. The town is best known today as the home of Birzeit University. Historic renovation projects have preserved the charm of its old buildings for the future.",
+    },
+    factsAdvanced: {
+      de: ["Die Universität von Birzeit wurde 1924 gegründet", "Traditionelle Kalksteinarchitektur prägt das Stadtbild", "Liegt auf einer Höhe von etwa 800 Metern über dem Meer", "Befindet sich rund 18 Kilometer nördlich von Jerusalem", "Viele Häuser stammen aus der osmanischen Zeit", "Das historische Zentrum wurde mehrfach ausgezeichnet"],
+      hu: ["A Birzeit Egyetemet 1924-ben alapították", "Hagyományos mészkőépítészet jellemzi a városképet", "Körülbelül 800 méteres tengerszint feletti magasságban fekszik", "Jeruzsálemtől mintegy 18 kilométerre északra található", "Számos ház az oszmán korszakból származik", "A történelmi központ több építészeti díjat is kapott"],
+      ro: ["Universitatea din Birzeit a fost fondată în 1924", "Arhitectura tradițională din calcar domină orașul", "Situat la o altitudine de aproximativ 800 de metri", "Se află la circa 18 kilometri nord de Ierusalim", "Multe case datează din perioada otomană", "Centrul istoric a primit mai multe premii de restaurare"],
+      en: ["Birzeit University was founded in 1924", "Traditional limestone architecture defines the townscape", "Located at an altitude of about 800 meters above sea level", "Situated around 18 kilometers north of Jerusalem", "Many houses date from the Ottoman period", "The historic center has won multiple restoration awards"],
+    },
   },
   {
     id: "palestine-taybeh-ruins-history-v2",
@@ -456,6 +732,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Exclusively Christian village", "Byzantine mosaic fragments", "Overlooks the Jordan Valley", "Known locally as Al-Khader"],
     },
     imageHint: "Taybeh ruins St. George church",
+    descriptionAdvanced: {
+      de: "Die Ruinen von Taybeh, insbesondere die Überreste der St.-Georgs-Kirche, zeugen von der langen christlichen Tradition des Dorfes. Die Fundamente stammen aus der byzantinischen Zeit des 4. Jahrhunderts und wurden von den Kreuzfahrern im 12. Jahrhundert überbaut. Das Dorf Taybeh wird oft mit dem biblischen Ephraim identifiziert. Es bietet einen weiten Blick über das Jordantal.",
+      hu: "Taybeh romjai, különösen a Szent György-templom maradványai, a falu hosszú keresztény hagyományáról tanúskodnak. Az alapok a 4. századi bizánci korszakból származnak, amelyre a keresztesek építettek a 12. században. Taybeh falut gyakran azonosítják a bibliai Efraimmal. A helyszínről lenyűgöző kilátás nyílik a Jordán-völgyre.",
+      ro: "Ruinele din Taybeh, în special vestigiile bisericii Sfântul Gheorghe, atestă lunga tradiție creștină a satului. Fundațiile datează din perioada bizantină a secolului al IV-lea și au fost reconstruite de cruciați în secolul al XII-lea. Satul Taybeh este adesea identificat cu Efrem-ul biblic. Oferă o vedere panoramică asupra Văii Iordanului.",
+      en: "The ruins of Taybeh, specifically the remains of St. George's Church, testify to the village's long Christian tradition. The foundations date to the 4th-century Byzantine era and were rebuilt by Crusaders in the 12th century. The village of Taybeh is often identified with biblical Ephraim. It offers expansive views over the Jordan Valley.",
+    },
+    factsAdvanced: {
+      de: ["Die Kirche wurde ursprünglich im 4. Jahrhundert erbaut", "Enthält gut erhaltene byzantinische Bodenmosaike", "Die Kreuzritter bauten die Kirche im 12. Jahrhundert neu", "Taybeh liegt 850 Meter über dem Meeresspiegel", "Ruinen einer Kreuzfahrerburg befinden sich in der Nähe", "Gilt als das einzige rein christliche Dorf in Palästina"],
+      hu: ["A templomot eredetileg a 4. században építették", "Jól megőrzött bizánci padlómozaikokat tartalmaz", "A keresztesek a 12. században építették újjá a templomot", "Taybeh 850 méterrel a tengerszint felett fekszik", "A közelben egy keresztes vár romjai is megtalálhatók", "Palesztina egyetlen tisztán keresztény falujaként ismert"],
+      ro: ["Biserica a fost construită inițial în secolul al IV-lea", "Conține mozaicuri bizantine bine conservate", "Cruciații au reconstruit biserica în secolul al XII-lea", "Taybeh este situat la 850 de metri deasupra mării", "Ruinele unui castel cruciat se află în apropiere", "Considerat singurul sat pur creștin din Palestina"],
+      en: ["The church was originally built in the 4th century", "Contains well-preserved Byzantine floor mosaics", "Crusaders rebuilt the church in the 12th century", "Taybeh is located 850 meters above sea level", "Ruins of a Crusader castle are located nearby", "Considered the only 100% Christian village in Palestine"],
+    },
   },
   {
     id: "palestine-nebi-musa-history-v2",
@@ -475,6 +763,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Mamluk period architecture", "Caravanserai for pilgrims", "Located in Judean Desert", "Annual festival procession"],
     },
     imageHint: "Nabi Musa sanctuary desert Palestine",
+    descriptionAdvanced: {
+      de: "Nebi Musa ist ein bedeutender Schrein in der judäischen Wüste, der traditionell als Grab des Propheten Moses (Musa) verehrt wird. Die Anlage wurde im 13. Jahrhundert unter dem Mameluken-Sultan Baibars gegründet. Sie besteht aus einer Moschee, einem Minarett und zahlreichen Räumen für Pilger. Jedes Jahr findet hier ein großes religiöses Fest statt.",
+      hu: "Nebi Musa egy jelentős szentély a Júdeai-sivatagban, amelyet a hagyomány szerint Mózes próféta (Músza) sírjaként tisztelnek. A komplexumot a 13. században, Baibars mamlúk szultán idején alapították. Egy mecsetből, egy minaretből és számos zarándokszobából áll. Minden évben nagyszabású vallási fesztivált rendeznek itt.",
+      ro: "Nebi Musa este un sanctuar important din deșertul Iudeii, venerat prin tradiție ca fiind mormântul profetului Moise (Musa). Complexul a fost fondat în secolul al XIII-lea sub sultanul mameluc Baibars. Acesta cuprinde o moschee, un minaret și numeroase camere pentru pelerini. Anual, aici are loc un festival religios major.",
+      en: "Nebi Musa is a significant shrine in the Judean Desert, traditionally revered as the tomb of the prophet Moses (Musa). The complex was founded in the 13th century under Mamluk Sultan Baibars. It consists of a mosque, a minaret, and numerous rooms for pilgrims. Every year, it hosts a major religious festival and pilgrimage.",
+    },
+    factsAdvanced: {
+      de: ["Erste Anlage wurde im Jahr 1269 n. Chr. erbaut", "Umfasst eine Fläche von etwa 5.000 Quadratmetern", "Besteht aus rund 120 Zimmern für Pilger", "Liegt etwa 20 Kilometer östlich von Jerusalem", "Wurde während der osmanischen Zeit stark erweitert", "Zentrum des jährlichen 'Mawsim' Pilgerfestes"],
+      hu: ["Az első épületegyüttes 1269-ben készült el", "Területe megközelítőleg 5000 négyzetméter", "Körülbelül 120 szobával rendelkezik a zarándokoknak", "Jeruzsálemtől kb. 20 kilométerre keletre fekszik", "Az oszmán korszakban jelentősen kibővítették", "Az éves 'Mawsim' zarándokünnep központja"],
+      ro: ["Prima structură a fost construită în anul 1269 d.Hr.", "Acoperă o suprafață de circa 5.000 de metri pătrați", "Cuprinde aproximativ 120 de camere pentru pelerini", "Situat la circa 20 de kilometri est de Ierusalim", "Extins considerabil în timpul perioadei otomane", "Centrul festivalului anual de pelerinaj 'Mawsim'"],
+      en: ["First structure was built in 1269 AD", "Covers an area of approximately 5,000 square meters", "Consists of about 120 rooms for pilgrims", "Located about 20 kilometers east of Jerusalem", "Significantly expanded during the Ottoman period", "Center of the annual 'Mawsim' pilgrimage festival"],
+    },
   },
   {
     id: "palestine-tell-en-nasbeh-history-v2",
@@ -494,6 +794,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Biblical site of Mizpah", "Ring wall discovered", "Administrative center ruins", "Iron Age archaeological site"],
     },
     imageHint: "Tell en-Nasbeh ruins Palestine",
+    descriptionAdvanced: {
+      de: "Tell en-Nasbeh ist eine wichtige archäologische Stätte nördlich von Jerusalem, die oft mit dem biblischen Mizpa identifiziert wird. Ausgrabungen enthüllten eine gut befestigte Stadt aus der Eisenzeit mit massiven Mauern und einem Stadttor. Die Funde geben wertvolle Einblicke in die Verwaltung und das tägliche Leben in der Region. Die Stätte war vom 10. bis zum 4. Jahrhundert v. Chr. bewohnt.",
+      hu: "Tell en-Nasbeh egy fontos régészeti lelőhely Jeruzsálemtől északra, amelyet gyakran a bibliai Micpával azonosítanak. Az ásatások egy jól erődített vaskori várost tártak fel, masszív falakkal és egy városkapuval. A leletek értékes betekintést nyújtanak a régió közigazgatásába és mindennapi életébe. A helyszín az i. e. 10. és 4. század között volt lakott.",
+      ro: "Tell en-Nasbeh este un sit arheologic important situat la nord de Ierusalim, adesea identificat cu Mizpa biblică. Săpăturile au scos la iveală un oraș bine fortificat din epoca fierului, cu ziduri masive și o poartă a orașului. Descoperirile oferă informații prețioase despre administrație și viața de zi cu zi. Situl a fost locuit din secolul al X-lea până în secolul al IV-lea î.Hr.",
+      en: "Tell en-Nasbeh is an important archaeological site north of Jerusalem, often identified with biblical Mizpah. Excavations revealed a well-fortified Iron Age city with massive walls and a city gate. The findings provide valuable insights into regional administration and daily life. The site was inhabited from the 10th to the 4th century BC.",
+    },
+    factsAdvanced: {
+      de: ["Große Ausgrabungen fanden von 1926 bis 1935 statt", "Die Stadtmauern waren bis zu 4 Meter dick", "Liegt auf einer Höhe von ca. 600 Metern", "Befindet sich 12 Kilometer nördlich von Jerusalem", "Zahlreiche Eisenzeit-II-Wohnhäuser wurden gefunden", "Wichtiges Verwaltungszentrum während der babylonischen Zeit"],
+      hu: ["Nagyobb ásatások 1926 és 1935 között folytak", "A városfalak vastagsága elérte a 4 métert", "Körülbelül 600 méteres tengerszint feletti magasságban van", "Jeruzsálemtől 12 kilométerre északra található", "Számos vaskori (Iron Age II) lakóházat tártak fel", "Fontos adminisztratív központ volt a babiloni korban"],
+      ro: ["Săpăturile majore au avut loc între 1926 și 1935", "Zidurile orașului aveau o grosime de până la 4 metri", "Situat la o altitudine de circa 600 de metri", "Se află la 12 kilometri nord de Ierusalim", "S-au găsit numeroase case din epoca fierului II", "Centru administrativ important în perioada babiloniană"],
+      en: ["Major excavations took place from 1926 to 1935", "The city walls were up to 4 meters thick", "Located at an altitude of approximately 600 meters", "Situated 12 kilometers north of Jerusalem", "Numerous Iron Age II houses were discovered", "Important administrative center during the Babylonian period"],
+    },
   },
   {
     id: "palestine-shiloh-history-v2",
@@ -513,6 +825,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Archaeological site Tell Seilun", "Contains Byzantine mosaics", "Destroyed by Philistines", "Major ancient cultic center"],
     },
     imageHint: "Shiloh archaeological site Tell Seilun",
+    descriptionAdvanced: {
+      de: "Shilo war ein zentrales religiöses und politisches Zentrum der Israeliten vor dem Aufstieg Jerusalems. Hier stand laut Überlieferung die Stiftshütte (Mishkan) für über 300 Jahre. Die archäologische Stätte umfasst Reste aus der Bronzezeit, Eisenzeit und byzantinische Kirchen. Es ist ein Ort von großer historischer Bedeutung für das Verständnis der frühen Geschichte der Region.",
+      hu: "Siló az izraeliták központi vallási és politikai központja volt Jeruzsálem felemelkedése előtt. A hagyomány szerint itt állt a Szent Sátor (Miskán) több mint 300 éven keresztül. A régészeti helyszín bronzkori és vaskori maradványokat, valamint bizánci templomokat foglal magában. Kiemelkedő történelmi jelentőségű hely a régió korai történelmének megértéséhez.",
+      ro: "Shilo a fost un centru religios și politic central al israeliților înainte de ascensiunea Ierusalimului. Conform tradiției, Tabernacolul (Mishkan) a stat aici timp de peste 300 de ani. Situl arheologic cuprinde resturi din epoca bronzului, epoca fierului și biserici bizantine. Este un loc de mare importanță istorică pentru înțelegerea istoriei timpurii a regiunii.",
+      en: "Shiloh was a central religious and political center for the Israelites before the rise of Jerusalem. According to tradition, the Tabernacle (Mishkan) stood here for over 300 years. The archaeological site includes remains from the Bronze Age, Iron Age, and Byzantine churches. It is a site of great historical importance for understanding the region's early history.",
+    },
+    factsAdvanced: {
+      de: ["Religiöses Zentrum zwischen 1150 und 1050 v. Chr.", "Standort der Stiftshütte für 369 Jahre (laut Tradition)", "Wurde im Jahr 1873 archäologisch identifiziert", "Verfügt über Stadtmauern mit 5 Metern Dicke", "Zwei byzantinische Kirchen mit Mosaiken gefunden", "Gesamtfläche des Tells beträgt etwa 12 Acres"],
+      hu: ["I. e. 1150 és 1050 között volt vallási központ", "A Szent Sátor 369 évig állt itt (a hagyomány szerint)", "1873-ban azonosították régészetileg", "5 méter vastagságú városfalakkal rendelkezik", "Két mozaikos bizánci templomot is találtak", "A domb (tel) teljes területe körülbelül 12 hold"],
+      ro: ["Centru religios între 1150 și 1050 î.Hr.", "Locul Tabernacolului timp de 369 de ani (tradiție)", "Identificat arheologic în anul 1873", "Prezintă ziduri de cetate cu o grosime de 5 metri", "S-au găsit două biserici bizantine cu mozaicuri", "Suprafața totală a colinei este de aproximativ 12 acri"],
+      en: ["Religious center between 1150 and 1050 BC", "Site of the Tabernacle for 369 years (by tradition)", "Archaeologically identified in the year 1873", "Features city walls with a thickness of 5 meters", "Two Byzantine churches with mosaics were discovered", "Total area of the tel is approximately 12 acres"],
+    },
   },
   {
     id: "palestine-beitin-history-v2",
@@ -532,6 +856,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Site of Jacob's dream", "Ruins of a stone tower", "Major pilgrimage center", "Canaanite archaeological roots"],
     },
     imageHint: "Beitin ruins Bethel Palestine",
+    descriptionAdvanced: {
+      de: "Beitin ist eine archäologische Stätte in der Nähe von Ramallah, die mit dem biblischen Bethel identifiziert wird. Es war über Jahrtausende ein wichtiges religiöses und wirtschaftliches Zentrum. Die Funde reichen von der mittleren Bronzezeit bis in die byzantinische und islamische Periode. Zu den Ruinen gehören Tempelfundamente, Befestigungsanlagen und eine byzantinische Kirche.",
+      hu: "Beitin egy régészeti lelőhely Rámalláh közelében, amelyet a bibliai Bétellel azonosítanak. Évezredeken át fontos vallási és gazdasági központ volt. A leletek a középső bronzkortól a bizánci és iszlám korszakig terjednek. A romok között templomfalak, erődítmények és egy bizánci templom maradványai találhatók.",
+      ro: "Beitin este un sit arheologic situat lângă Ramallah, identificat cu Betel-ul biblic. A fost un centru religios și economic important timp de milenii. Descoperirile variază de la epoca mijlocie a bronzului până la perioadele bizantină și islamică. Ruinele includ fundații de temple, fortificații și o biserică bizantină.",
+      en: "Beitin is an archaeological site near Ramallah, identified with biblical Bethel. It was an important religious and economic center for millennia. The findings range from the Middle Bronze Age to the Byzantine and Islamic periods. The ruins include temple foundations, fortifications, and a Byzantine church.",
+    },
+    factsAdvanced: {
+      de: ["Erste Befestigungen stammen aus dem Jahr 1550 v. Chr.", "Liegt auf einer Höhe von 850 Metern über dem Meer", "Die Ausgrabungsstätte umfasst etwa 3,5 Hektar", "Erste wissenschaftliche Ausgrabung im Jahr 1934", "Reste eines großen römischen Reservoirs gefunden", "Byzantinische Kirchenruinen im Osten des Ortes"],
+      hu: ["Az első erődítmények i. e. 1550-ből származnak", "850 méteres tengerszint feletti magasságban fekszik", "Az ásatási terület körülbelül 3,5 hektárt tesz ki", "Az első tudományos ásatás 1934-ben kezdődött", "Egy nagy római víztározó maradványait is megtalálták", "Bizánci templomromok láthatók a település keleti részén"],
+      ro: ["Primele fortificații datează din anul 1550 î.Hr.", "Situat la o altitudine de 850 de metri deasupra mării", "Situl arheologic cuprinde aproximativ 3,5 hectare", "Prima săpătură științifică a avut loc în anul 1934", "S-au găsit resturile unui rezervor roman mare", "Ruine de biserici bizantine în partea de est a sitului"],
+      en: ["First fortifications date to around 1550 BC", "Located at an elevation of 850 meters above sea level", "The archaeological site covers about 3.5 hectares", "First scientific excavation occurred in 1934", "Remains of a large Roman reservoir were discovered", "Byzantine church ruins are located in the east of the site"],
+    },
   },
   {
     id: "palestine-tell-el-farah-history-v2",
@@ -551,6 +887,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Ancient city of Tirzah", "Iron Age palace remains", "Located north of Nablus", "Strategic hilltop position"],
     },
     imageHint: "Tell el-Far'ah Tirzah ruins Palestine",
+    descriptionAdvanced: {
+      de: "Tell el-Far'ah Nord ist eine bedeutende archäologische Stätte im Westjordanland, die oft mit der biblischen Stadt Thirza identifiziert wird. Die Siedlungsspuren reichen vom Neolithikum bis in die Eisenzeit zurück. Thirza diente vor dem Bau von Samaria als erste Hauptstadt des Nordreichs Israel. Die Ausgrabungen legten Befestigungsanlagen, Wohnviertel und ein unvollendetes Gebäude frei, das vermutlich ein Königspalast war.",
+      hu: "Tell el-Far'ah egy jelentős régészeti lelőhely Ciszjordániában, amelyet a biblikus Tirca városával azonosítanak. A település nyomai a neolitikumtól a vaskorig terjednek. Tirca Izrael Északi Királyságának első fővárosaként szolgált Szamária felépítése előtt. Az ásatások során erődítményeket, lakónegyedeket és egy befejezetlen épületet tártak fel, amely valószínűleg királyi palotának készült.",
+      ro: "Tell el-Far'ah Nord este un sit arheologic important din Cisiordania, identificat adesea cu orașul biblic Tirța. Urmele de locuire datează din neolitic până în Epoca Fierului. Tirța a servit ca primă capitală a Regatului de Nord al Israelului înainte de construirea Samariei. Săpăturile au scos la iveală fortificații, cartiere rezidențiale și o clădire neterminată, probabil un palat regal.",
+      en: "Tell el-Far'ah North is a significant archaeological site in the West Bank, widely identified with the biblical city of Tirzah. Occupation layers span from the Neolithic to the Iron Age. Tirzah served as the first capital of the northern Kingdom of Israel before Samaria was built. Excavations have revealed fortifications, residential areas, and an unfinished building believed to be a royal palace.",
+    },
+    factsAdvanced: {
+      de: ["Die Stätte umfasst eine Fläche von etwa 6 Hektar auf einem Hügel nördlich von Nablus.", "In der Frühen Bronzezeit (ca. 3000 v. Chr.) war die Stadt bereits stark befestigt.", "König Jerobeam I. machte Thirza im 10. Jahrhundert v. Chr. zu seiner Residenz.", "Roland de Vaux leitete zwischen 1946 und 1960 neun Ausgrabungskampagnen.", "Ein unvollendetes Gebäude aus dem 9. Jahrhundert v. Chr. deutet auf Omris Umzug nach Samaria hin.", "Die Siedlung wurde um 723 v. Chr. während des assyrischen Feldzugs zerstört."],
+      hu: ["A lelőhely körülbelül 6 hektáros területet foglal el egy dombon, Nablusztól északra.", "A korai bronzkorban (i. e. 3000 körül) a város már erősen meg volt erődítve.", "I. Jeroboám király az i. e. 10. században tette Tircát rezidenciájává.", "Roland de Vaux 1946 és 1960 között kilenc ásatási szezont vezetett a területen.", "Egy i. e. 9. századi befejezetlen épület jelzi Omri Szamáriába való átköltözését.", "A település i. e. 723 körül pusztult el az asszír hadjáratok során."],
+      ro: ["Situl ocupă o suprafață de aproximativ 6 hectare pe un deal situat la nord de Nablus.", "În Epoca Timpurie a Bronzului (cca. 3000 î.Hr.), orașul era deja puternic fortificat.", "Regele Ieroboam I a stabilit reședința regală la Tirța în secolul al X-lea î.Hr.", "Roland de Vaux a condus nouă campanii de săpături între anii 1946 și 1960.", "O clădire neterminată din secolul al IX-lea î.Hr. atestă mutarea lui Omri la Samaria.", "Așezarea a fost distrusă în jurul anului 723 î.Hr. în timpul campaniei asiriene."],
+      en: ["The site covers an area of about 6 hectares on a mound north of Nablus.", "During the Early Bronze Age (c. 3000 BCE), the city was already heavily fortified.", "King Jeroboam I made Tirzah his residence in the 10th century BCE.", "Roland de Vaux led nine seasons of excavations between 1946 and 1960.", "An unfinished building from the 9th century BCE indicates Omri's move to Samaria.", "The settlement was destroyed around 723 BCE during the Assyrian campaign."],
+    },
   },
   {
     id: "palestine-tell-taannek-history-v2",
@@ -570,6 +918,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Biblical city of Taanach", "13 cuneiform tablets found", "Major Bronze Age city", "Strategic valley views"],
     },
     imageHint: "Tell Taannek archaeological site Palestine",
+    descriptionAdvanced: {
+      de: "Tell Taannek ist eine antike kanaanitische Stadtfestung am südlichen Rand der Jesreel-Ebene. Die Stadt wird bereits in ägyptischen Texten von Thutmosis III. und in den Amarna-Briefen erwähnt. Als strategischer Knotenpunkt kontrollierte Taannek wichtige Handelswege zwischen Ägypten und Mesopotamien. Archäologische Funde belegen eine kontinuierliche Besiedlung von der Bronzezeit bis in die islamische Periode.",
+      hu: "Tell Taannek egy ősi kánaáni városerőd a Jezréel-völgy déli szélén. A várost már III. Thotmesz egyiptomi szövegeiben és az Amarna-levelekben is említik. Stratégiai csomópontként Taannek fontos kereskedelmi útvonalakat ellenőrzött Egyiptom és Mezopotámia között. A régészeti leletek a bronzkortól az iszlám korszakig tartó folyamatos lakottságot bizonyítják.",
+      ro: "Tell Taannek este o veche cetate canaanită situată la marginea sudică a Văii Izreel. Orașul este menționat în textele egiptene ale lui Tutmosis al III-lea și în scrisorile de la Amarna. Ca punct strategic, Taannek controla rute comerciale importante între Egipt și Mesopotamia. Descoperirile arheologice atestă o locuire continuă din Epoca Bronzului până în perioada islamică.",
+      en: "Tell Taannek is an ancient Canaanite city-fortress located on the southern edge of the Jezreel Valley. The city is mentioned in Egyptian texts by Thutmose III and in the Amarna letters. As a strategic hub, Taannek controlled vital trade routes between Egypt and Mesopotamia. Archaeological finds demonstrate continuous occupation from the Bronze Age through the Islamic period.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt wird im Alten Testament im Zusammenhang mit dem Sieg von Debora erwähnt.", "Ernst Sellin leitete 1902 die ersten wissenschaftlichen Ausgrabungen vor Ort.", "Es wurden 13 Keilschrifttafeln aus dem 15. Jahrhundert v. Chr. gefunden.", "Eine Kult-Lade aus Ton mit detaillierten Reliefs gehört zu den bekanntesten Funden.", "Taannek war eine der Levitenstädte im Stammesgebiet von Manasse.", "In der byzantinischen Zeit existierte hier eine christliche Gemeinde."],
+      hu: ["A várost az Ószövetségben Debóra és Bárák győzelmével összefüggésben említik.", "Ernst Sellin vezette az első tudományos ásatásokat a helyszínen 1902-ben.", "Az ásatások során 13 ékírásos tábla került elő az i. e. 15. századból.", "Az egyik legismertebb lelet egy domborművekkel díszített agyag kultusztárgy.", "Taannek a léviták egyik városa volt Manassé törzsének területén.", "A bizánci korszakban keresztény közösség élt a településen."],
+      ro: ["Orașul este menționat în Vechiul Testament în contextul victoriei Deborei.", "Ernst Sellin a condus primele săpături științifice la sit în anul 1902.", "Au fost descoperite 13 tăblițe cuneiforme datând din secolul al XV-lea î.Hr.", "Un suport de cult din lut cu reliefuri detaliate este unul dintre cele mai faimoase obiecte.", "Taannek a fost unul dintre orașele leviților în teritoriul tribului lui Manase.", "În perioada bizantină, aici a existat o comunitate creștină activă."],
+      en: ["The city is mentioned in the Old Testament in connection with Deborah's victory.", "Ernst Sellin conducted the first scientific excavations at the site in 1902.", "Thirteen cuneiform tablets from the 15th century BCE were discovered here.", "A clay cult stand with detailed reliefs is one of the most famous findings.", "Taannek was one of the Levitical cities within the territory of Manasseh.", "A Christian community existed at the site during the Byzantine period."],
+    },
   },
   {
     id: "palestine-tel-dothan-history-v2",
@@ -589,6 +949,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Inhabited since Bronze Age", "Site of Joseph's story", "Iron Age city walls", "Located near Jenin"],
     },
     imageHint: "Tel Dothan archaeological mound Palestine",
+    descriptionAdvanced: {
+      de: "Tel Dothan liegt in einem fruchtbaren Tal nördlich von Nablus und ist vor allem durch die biblische Josephsgeschichte bekannt. Hier sollen die Brüder Josephs ihn in eine Zisterne geworfen und an Sklavenhändler verkauft haben. Archäologisch gesehen bietet der Hügel eine beeindruckende Sequenz von Siedlungsschichten. Die Funde reichen von der Kupfersteinzeit bis in die hellenistische und römische Zeit.",
+      hu: "Tel Dothan egy termékeny völgyben fekszik Nablusztól északra, és leginkább a bibliai József-történetből ismert. A hagyomány szerint itt dobták Józsefet testvérei egy ciszternába, majd adták el rabszolgakereskedőknek. Régészeti szempontból a domb lenyűgöző településrétegeket mutat. A leletek a kőrézkortól egészen a hellenisztikus és római korig terjednek.",
+      ro: "Tel Dothan este situat într-o vale fertilă la nord de Nablus și este cunoscut în special prin povestea biblică a lui Iosif. Se crede că aici frații lui Iosif l-au aruncat într-o cisternă și l-au vândut negustorilor de sclavi. Din punct de vedere arheologic, colina oferă o secvență impresionantă de straturi de locuire. Descoperirile variază de la calcolitic până în perioadele elenistică și romană.",
+      en: "Tel Dothan is located in a fertile valley north of Nablus and is primarily known through the biblical story of Joseph. It is the site where Joseph's brothers are said to have cast him into a pit before selling him to merchants. Archaeologically, the mound offers an impressive sequence of settlement layers. Finds range from the Chalcolithic period to the Hellenistic and Roman eras.",
+    },
+    factsAdvanced: {
+      de: ["Joseph P. Free leitete zwischen 1953 und 1964 umfangreiche Ausgrabungen.", "Der Hügel erhebt sich etwa 60 Meter über die umliegende Ebene.", "Es wurden massive Stadtmauern aus der Mittleren Bronzezeit entdeckt.", "In der Eisenzeit war Dothan ein wichtiges Verwaltungszentrum des Königreichs Israel.", "Die Stätte wird im 2. Buch der Könige im Zusammenhang mit dem Propheten Elisa erwähnt.", "Eine antike Zisterne vor Ort wird traditionell als 'Josephsgrube' bezeichnet."],
+      hu: ["Joseph P. Free vezetett kiterjedt ásatásokat a helyszínen 1953 és 1964 között.", "A domb körülbelül 60 méterrel magasodik a környező síkság fölé.", "A középső bronzkorból származó masszív városfalakat fedeztek fel.", "A vaskorban Dothan az Izraeli Királyság egyik fontos igazgatási központja volt.", "A helyszínt a Királyok második könyve említi Elizeus prófétával kapcsolatban.", "Egy ősi ciszternát a helyszínen hagyományosan 'József kútjaként' emlegetnek."],
+      ro: ["Joseph P. Free a condus săpături extinse între anii 1953 și 1964.", "Colina se ridică la aproximativ 60 de metri deasupra câmpiei înconjurătoare.", "Au fost descoperite ziduri masive de apărare din Epoca Mijlocie a Bronzului.", "În Epoca Fierului, Dothan a fost un centru administrativ important al Regatului Israel.", "Situl este menționat în A Doua Carte a Regilor în legătură cu profetul Elisei.", "O cisternă antică de la fața locului este numită tradițional 'Groapa lui Iosif'."],
+      en: ["Joseph P. Free led extensive excavations at the site between 1953 and 1964.", "The mound rises approximately 60 meters above the surrounding plain.", "Massive city walls from the Middle Bronze Age have been uncovered.", "During the Iron Age, Dothan was an important administrative center for Israel.", "The site is mentioned in 2 Kings in connection with the prophet Elisha.", "An ancient cistern on the site is traditionally identified as 'Joseph's Pit'."],
+    },
   },
   {
     id: "palestine-archelais-history-v2",
@@ -608,6 +980,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Founded by Herod's son", "Magnificent mosaic floors", "Ancient irrigation remains", "Known as Khirbet el-Beiyudat"],
     },
     imageHint: "Archelais ruins mosaic Palestine",
+    descriptionAdvanced: {
+      de: "Archelais wurde von Archelaos, dem Sohn Herodes des Großen, im Jordantal gegründet. Die Stadt war als Zentrum für den Dattelanbau konzipiert und nutzte ausgeklügelte Bewässerungssysteme. Heute sind die Ruinen als Khirbet al-Beiyudat bekannt. Besonders hervorzuheben ist eine byzantinische Basilika mit prächtigen Mosaikböden, die Szenen aus der Natur und geometrische Muster zeigen.",
+      hu: "Archelais városát Archelaosz, Nagy Heródes fia alapította a Jordán-völgyben. A várost a datolyatermesztés központjának szánták, és kifinomult öntözőrendszereket használtak. Ma a romok Khirbet al-Beiyudat néven ismertek. Különösen jelentős egy bizánci bazilika, amelynek pompás mozaikpadlói természeti jeleneteket és geometrikus mintákat ábrázolnak.",
+      ro: "Archelais a fost fondat de Archelaus, fiul lui Irod cel Mare, în Valea Iordanului. Orașul a fost conceput ca un centru pentru cultivarea curmalelor, folosind sisteme de irigații sofisticate. Astăzi, ruinele sunt cunoscute sub numele de Khirbet al-Beiyudat. Se remarcă o basilică bizantină cu podele de mozaic splendide, reprezentând scene din natură și modele geometrice.",
+      en: "Archelais was founded by Archelaus, son of Herod the Great, in the Jordan Valley. The city was designed as a center for date palm cultivation, utilizing sophisticated irrigation systems. Today, the ruins are known as Khirbet al-Beiyudat. A highlight is a Byzantine basilica featuring magnificent mosaic floors with natural scenes and geometric patterns.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt wurde um das Jahr 4 v. Chr. als geplante Siedlung gegründet.", "Archelaos leitete Wasser von einem nahen Dorf um, um die Palmenhaine zu bewässern.", "Die Stätte wird auf der berühmten Mosaikkarte von Madaba dargestellt.", "Die ausgegrabene Basilika stammt aus dem späten 5. oder frühen 6. Jahrhundert.", "Inschriftliche Funde nennen einen Bischof namens Porphyrios.", "Die Mosaiken bedecken eine Fläche von über 150 Quadratmetern im Kirchenschiff."],
+      hu: ["A várost i. e. 4 körül alapították tervezett településként.", "Archelaosz egy közeli faluból vezette el a vizet a datolyaligetek öntözésére.", "A település szerepel a híres madabai mozaiktérképen is.", "A feltárt bazilika az 5. század végéről vagy a 6. század elejéről származik.", "A feliratok említést tesznek egy Porphyrios nevű püspökről.", "A mozaikok több mint 150 négyzetméternyi területet fednek le a templomhajóban."],
+      ro: ["Orașul a fost fondat în jurul anului 4 î.Hr. ca o așezare planificată.", "Archelaus a deviat apa dintr-un sat vecin pentru a iriga livezile de curmali.", "Situl este reprezentat pe celebra hartă în mozaic de la Madaba.", "Basilica excavată datează de la sfârșitul secolului V sau începutul secolului VI.", "Inscripțiile găsite menționează un episcop pe nume Porphyrios.", "Mozaicurile acoperă o suprafață de peste 150 de metri pătrați în nava centrală."],
+      en: ["The city was founded around 4 BCE as a planned royal settlement.", "Archelaus diverted water from a nearby village to irrigate his date groves.", "The site is depicted on the famous 6th-century Madaba Mosaic Map.", "The excavated basilica dates to the late 5th or early 6th century.", "Inscriptional evidence mentions a bishop named Porphyrios.", "The mosaics cover an area of over 150 square meters in the church nave."],
+    },
   },
   {
     id: "palestine-baptism-site-history-v2",
@@ -627,6 +1011,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Located near Jericho", "Surrounded by old monasteries", "On the border with Jordan", "Sacred baptismal location"],
     },
     imageHint: "Qasr el-Yahud baptism site Jordan River",
+    descriptionAdvanced: {
+      de: "Die Taufstelle am Jordan, bekannt als Qasr al-Yahud, gilt als der Ort, an dem Jesus von Johannes dem Täufer getauft wurde. Diese heilige Stätte ist ein wichtiges Pilgerziel für Christen weltweit. Entlang des Flussufers befinden sich zahlreiche Klöster und Kirchen aus verschiedenen Epochen. Die spirituelle Bedeutung wird durch die biblische Überlieferung und die lange Tradition der rituellen Waschungen unterstrichen.",
+      hu: "A Jordán-folyónál található keresztelőhely, amely Qasr al-Yahud néven ismert, Jézus megkeresztelésének hagyományos helyszíne. Ez a szent hely a keresztények fontos zarándokcélpontja világszerte. A folyópart mentén számos kolostor és templom található különböző korszakokból. Spirituális jelentőségét a bibliai hagyomány és a rituális merítkezések hosszú tradíciója hangsúlyozza.",
+      ro: "Locul Botezului de la râul Iordan, cunoscut sub numele de Qasr al-Yahud, este considerat locul unde Iisus a fost botezat de Ioan Botezătorul. Acest sit sacru este o destinație majoră de pelerinaj pentru creștinii din întreaga lume. De-a lungul malului râului se află numeroase mănăstiri și biserici din diferite epoci. Semnificația spirituală este întărită de tradiția biblică și de ritualurile de botez practicate aici.",
+      en: "The Baptism Site on the Jordan River, known as Qasr al-Yahud, is revered as the location where Jesus was baptized by John the Baptist. This sacred site is a major pilgrimage destination for Christians worldwide. Numerous monasteries and churches from various eras line the riverbanks. Its spiritual significance is underscored by biblical accounts and a long tradition of ritual immersion.",
+    },
+    factsAdvanced: {
+      de: ["Der Ort liegt etwa 10 Kilometer östlich von Jericho im Jordantal.", "Hier sollen die Israeliten unter Josua den Jordan überquert haben.", "Die Stätte war nach dem Sechstagekrieg von 1967 bis 2011 militärisches Sperrgebiet.", "In der Umgebung wurden etwa 4000 Landminen geräumt, um den Zugang zu sichern.", "Es gibt Reste einer byzantinischen Kapelle, die auf Pfeilern über dem Wasser stand.", "Jedes Jahr im Januar feiern tausende Pilger hier das Epiphaniasfest."],
+      hu: ["A helyszín körülbelül 10 kilométerre keletre fekszik Jerikótól a Jordán-völgyben.", "A hagyomány szerint az izraeliták itt keltek át a Jordánon Józsué vezetésével.", "A terület 1967 és 2011 között katonai övezet volt és zárva tartott a látogatók előtt.", "Körülbelül 4000 taposóaknát távolítottak el a biztonságos hozzáférés érdekében.", "Egy bizánci kápolna maradványai láthatóak, amely egykor cölöpökön állt a víz felett.", "Minden év januárjában zarándokok ezrei ünneplik itt a Vízkeresztet."],
+      ro: ["Situl se află la aproximativ 10 kilometri est de Ierihon, în Valea Iordanului.", "Se crede că aici israeliții au traversat Iordanul sub conducerea lui Iosua.", "Zona a fost închisă și declarată zonă militară între anii 1967 și 2011.", "Aproximativ 4000 de mine terestre au fost eliminate pentru a permite accesul sigur.", "Există resturi ale unei capele bizantine care stătea pe piloni deasupra apei.", "În fiecare an, în luna ianuarie, mii de pelerini sărbătoresc aici Boboteaza."],
+      en: ["The site is located about 10 kilometers east of Jericho in the Jordan Valley.", "It is traditionally associated with the Israelites crossing the Jordan under Joshua.", "The area was a closed military zone from 1967 until its reopening in 2011.", "Approximately 4,000 landmines were cleared from the vicinity to ensure safety.", "Remains of a Byzantine chapel built on piers over the river have been found.", "Thousands of pilgrims gather here every January to celebrate Epiphany."],
+    },
   },
   {
     id: "palestine-khan-al-lubban-history-v2",
@@ -646,6 +1042,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Ottoman architectural style", "Secured the trade route", "Stone structure with vaults", "Located near Lubban village"],
     },
     imageHint: "Khan al-Lubban caravanserai Palestine",
+    descriptionAdvanced: {
+      de: "Khan al-Lubban ist eine historische Karawanserei aus der osmanischen Zeit, die an der alten Straße zwischen Jerusalem und Nablus liegt. Das Gebäude diente Reisenden und Händlern als Herberge und Schutzraum. Die Architektur ist durch einen zentralen Innenhof und umlaufende Gewölbe geprägt. Eine nahegelegene Quelle machte den Ort zu einem idealen Rastplatz für Karawanen.",
+      hu: "Khan al-Lubban egy történelmi oszmán kori karavánszeráj, amely a Jeruzsálem és Nablusz közötti régi út mentén fekszik. Az épület szállásként és óvóhelyként szolgált az utazók és kereskedők számára. Az építészetet a központi udvar és a körülötte lévő boltozatos helyiségek jellemzik. A közelben található forrás ideális pihenőhellyé tette a helyet a karavánok számára.",
+      ro: "Khan al-Lubban este un han istoric din perioada otomană, situat pe drumul vechi dintre Ierusalim și Nablus. Clădirea servea drept adăpost și loc de odihnă pentru călători și comercianți. Arhitectura este marcată de o curte centrală și încăperi boltite dispuse de jur împrejur. O sursă de apă din apropiere făcea din acest loc un popas ideal pentru caravane.",
+      en: "Khan al-Lubban is a historic Ottoman-era caravanserai situated along the ancient road between Jerusalem and Nablus. The building served as an inn and place of refuge for travelers and merchants. Its architecture features a central courtyard surrounded by vaulted rooms. A nearby spring made it an ideal resting point for caravans during their journey.",
+    },
+    factsAdvanced: {
+      de: ["Das Khan wurde im 16. Jahrhundert während der Herrschaft von Suleiman dem Prächtigen errichtet.", "Der Name 'Lubban' bezieht sich auf den Weihrauch, der hier gehandelt wurde.", "Das Gebäude ist etwa 40 Meter lang und 35 Meter breit.", "Es verfügt über einen massiven Torbau, der nachts zur Sicherheit geschlossen wurde.", "In der Nähe befinden sich die Überreste eines antiken Bewässerungskanals.", "Das Khan ist Teil eines Netzwerks von Herbergen, die alle Tagesreise-Entfernungen lagen."],
+      hu: ["A kán a 16. században épült I. Szulejmán szultán uralkodása idején.", "A 'Lubban' név az egykor itt is kereskedett tömjénre utalhat.", "Az épület körülbelül 40 méter hosszú és 35 méter széles.", "A hatalmas kapuépítményt éjszakára a biztonság érdekében bezárták.", "A közelben egy ősi öntözőcsatorna maradványai is láthatóak.", "A kán egy egynapos járóföldre elhelyezett vendégfogadó-hálózat része volt."],
+      ro: ["Hanul a fost construit în secolul al XVI-lea, în timpul domniei lui Suleiman Magnificul.", "Numele 'Lubban' face referire la tămâia care era comercializată în această zonă.", "Clădirea are o lungime de aproximativ 40 de metri și o lățime de 35 de metri.", "Dispune de o poartă masivă care era închisă noaptea pentru siguranță.", "În apropiere se află vestigiile unui canal de irigații din perioada antică.", "Hanul făcea parte dintr-o rețea de refugii situate la distanță de o zi de mers."],
+      en: ["The Khan was constructed in the 16th century during the reign of Suleiman the Magnificent.", "The name 'Lubban' refers to the frankincense that was once traded in the region.", "The building measures approximately 40 meters in length and 35 meters in width.", "It features a massive gatehouse that was secured at night for safety.", "Remains of an ancient irrigation channel can be seen in the immediate vicinity.", "The Khan was part of a network of inns spaced a day's journey apart."],
+    },
   },
   {
     id: "palestine-deir-ghassaneh-history-v2",
@@ -665,6 +1073,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Seat of the Barghouti clan", "Features ornate courtyards", "Center of olive oil culture", "Architectural heritage village"],
     },
     imageHint: "Deir Ghassaneh old palace Palestine",
+    descriptionAdvanced: {
+      de: "Deir Ghassaneh ist ein malerisches Dorf im Distrikt Ramallah, das für seine gut erhaltenen 'Thron-Dörfer'-Paläste bekannt ist. Diese herrschaftlichen Häuser wurden im 18. und 19. Jahrhundert von lokalen Scheichs errichtet. Die Architektur spiegelt die feudale Machtstruktur der Region während der osmanischen Zeit wider. Die Häuser zeichnen sich durch massive Steinmauern, Innenhöfe und kunstvolle Portale aus.",
+      hu: "Deir Ghassaneh egy festői falu Ramalláh körzetében, amely jól megőrzött 'trónfalusi' palotáiról ismert. Ezeket az előkelő házakat a 18. és 19. században építették a helyi sejkek. Az építészet a régió oszmán kori feudális hatalmi szerkezetét tükrözi. A házakat masszív kőfalak, belső udvarok és díszes kapualjak jellemzik.",
+      ro: "Deir Ghassaneh este un sat pitoresc din districtul Ramallah, renumit pentru palatele sale bine conservate de tip 'sat-tron'. Aceste case impunătoare au fost construite în secolele XVIII și XIX de către șeicii locali. Arhitectura reflectă structura feudală a regiunii în perioada otomană. Casele se disting prin ziduri masive de piatră, curți interioare și portaluri ornamentate.",
+      en: "Deir Ghassaneh is a picturesque village in the Ramallah district, famous for its well-preserved 'Throne Village' palaces. These grand houses were built in the 18th and 19th centuries by local sheikhs. The architecture reflects the regional feudal power structure during the Ottoman period. The buildings are characterized by massive stone walls, internal courtyards, and ornate gateways.",
+    },
+    factsAdvanced: {
+      de: ["Das Dorf war der Sitz des Bani Zeid Clans, der 24 umliegende Dörfer kontrollierte.", "In Deir Ghassaneh befinden sich über 12 historische Palastgebäude.", "Das jährliche Olivenöl-Festival feiert die landwirtschaftliche Tradition des Ortes.", "Die Stätte beherbergt das Maqam von Sheikh al-Khawwas, ein wichtiges Heiligtum.", "Unter den Gebäuden befinden sich antike Wasserzisternen und Ölmühlen.", "Das Dorf wurde 2004 von der UNESCO als Teil der Kulturlandschaft Palästinas gelistet."],
+      hu: ["A falu a Bani Zeid klán székhelye volt, amely 24 környező falut ellenőrzött.", "Deir Ghassaneh több mint 12 történelmi palotaépületnek ad otthont.", "Az évente megrendezett olívaolaj-fesztivál a falu mezőgazdasági múltját ünnepli.", "A településen található Sheikh al-Khawwas maqamja, amely egy fontos szentély.", "Az épületek alatt ősi vízciszternák és olajpréselők maradtak fenn.", "A falut 2004-ben az UNESCO felvette a palesztin kultúrtáj védett listájára."],
+      ro: ["Satul a fost sediul clanului Bani Zeid, care controla 24 de sate înconjurătoare.", "În Deir Ghassaneh se află peste 12 clădiri istorice de tip palat.", "Festivalul anual al uleiului de măsline celebrează tradiția agricolă a localității.", "Situl adăpostește Maqam-ul lui Sheikh al-Khawwas, un sanctuar important.", "Sub clădiri se găsesc cisterne antice de apă și prese de ulei istorice.", "Satul a fost inclus de UNESCO în 2004 ca parte a peisajului cultural palestinian."],
+      en: ["The village was the seat of the Bani Zeid clan, which controlled 24 surrounding villages.", "There are over 12 historic palace structures within Deir Ghassaneh.", "An annual olive oil festival celebrates the village's deep-rooted agricultural traditions.", "The site houses the Maqam of Sheikh al-Khawwas, a significant religious shrine.", "Ancient water cisterns and traditional oil presses are preserved beneath the houses.", "The village was listed by UNESCO in 2004 as part of the cultural landscape of Palestine."],
+    },
   },
   {
     id: "palestine-aboud-history-v2",
@@ -684,6 +1104,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Byzantine St. Mary Church", "Ancient rock-cut tombs", "Located near Wadi Lemon", "Historic Christian center"],
     },
     imageHint: "Aboud village church Palestine",
+    descriptionAdvanced: {
+      de: "Aboud, oft als 'Stadt der Blumen' bezeichnet, ist eines der ältesten christlichen Dörfer in Palästina. Es beherbergt zahlreiche historische Kirchen und Klöster, die bis in die byzantinische Zeit zurückreichen. Das Dorf ist ein Paradebeispiel für die friedliche Koexistenz von Christen und Muslimen. Die antike Architektur und die umliegenden Olivenhaine verleihen dem Ort eine zeitlose Atmosphäre.",
+      hu: "Aboud, amelyet gyakran a 'virágok városaként' emlegetnek, Palesztina egyik legrégebbi keresztény faluja. Számos történelmi templomnak és kolostornak ad otthont, amelyek a bizánci korig nyúlnak vissza. A falu a keresztények és muszlimok békés együttélésének egyik mintaképe. Az ősi építészet és a környező olajfaligetek időtlen hangulatot kölcsönöznek a helynek.",
+      ro: "Aboud, supranumit adesea 'Orașul Florilor', este unul dintre cele mai vechi sate creștine din Palestina. Găzduiește numeroase biserici și mănăstiri istorice, datând încă din perioada bizantină. Satul este un exemplu remarcabil de coexistență pașnică între creștini și musulmani. Arhitectura antică și livezile de măslini din jur oferă locului o atmosferă atemporală.",
+      en: "Aboud, often called the 'City of Flowers,' is one of the oldest Christian villages in Palestine. It is home to numerous historic churches and monasteries dating back to the Byzantine era. The village is a prime example of peaceful coexistence between Christians and Muslims. Its ancient architecture and surrounding olive groves give the site a timeless atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Die Kirche der Heiligen Maria wurde bereits im 5. Jahrhundert gegründet.", "Aboud liegt etwa 22 Kilometer nordwestlich von Ramallah.", "Im Dorf befinden sich neun historische Kirchenruinen aus verschiedenen Epochen.", "Die Kirche der Heiligen Barbara thront auf einem Hügel über dem Dorf.", "In der Umgebung wurden aramäische Inschriften aus dem 6. Jahrhundert gefunden.", "Das Dorf verfügt über ein antikes römisches Aquädukt."],
+      hu: ["Szűz Mária templomát már az 5. században megalapították.", "Aboud körülbelül 22 kilométerre északnyugatra fekszik Ramalláhtól.", "A faluban kilenc történelmi templomrom található különböző korszakokból.", "Szent Borbála temploma a falu feletti domb tetején trónol.", "A környéken a 6. századból származó arámi feliratokat találtak.", "A falu területén egy ősi római vízvezeték maradványai is láthatóak."],
+      ro: ["Biserica Sfânta Maria a fost fondată încă din secolul al V-lea.", "Aboud este situat la aproximativ 22 de kilometri nord-vest de Ramallah.", "În sat se află nouă ruine de biserici istorice din diferite perioade.", "Biserica Sfânta Barbara este situată pe o colină ce domină satul.", "În împrejurimi au fost descoperite inscripții aramaice din secolul al VI-lea.", "Satul păstrează rămășițele unui apeduct antic din perioada romană."],
+      en: ["The Church of Saint Mary was originally founded in the 5th century.", "Aboud is located approximately 22 kilometers northwest of Ramallah.", "The village contains nine historic church ruins from various archaeological periods.", "The Church of Saint Barbara is perched on a hill overlooking the village.", "Aramaic inscriptions dating to the 6th century have been discovered nearby.", "The village features remains of an ancient Roman-style aqueduct."],
+    },
   },
   {
     id: "palestine-jifna-history-v2",
@@ -703,6 +1135,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Site of ancient Gophna", "Byzantine church ruins", "Famous for apricot festival", "Roman administrative center"],
     },
     imageHint: "Jifna village ruins Palestine",
+    descriptionAdvanced: {
+      de: "Jifna ist ein historisches Dorf in der Nähe von Ramallah, das in der Antike als Gophna bekannt war. Während der römischen Zeit diente es als administratives Zentrum und war eine wichtige Station an der Straße nach Jerusalem. Das Dorf ist heute vor allem für seinen Weinanbau und seine reiche christliche Tradition bekannt. Zu den archäologischen Schätzen gehören Überreste einer byzantinischen Kirche und einer mittelalterlichen Festung.",
+      hu: "Jifna egy történelmi falu Ramalláh közelében, amely az ókorban Gophna néven volt ismert. A római korban közigazgatási központként szolgált, és fontos állomás volt a Jeruzsálembe vezető út mentén. A falu ma leginkább bortermeléséről és gazdag keresztény hagyományairól ismert. Régészeti kincsei közé tartoznak egy bizánci templom és egy középkori erőd maradványai.",
+      ro: "Jifna este un sat istoric situat lângă Ramallah, cunoscut în antichitate sub numele de Gophna. În perioada romană, a servit ca centru administrativ și punct important pe drumul spre Ierusalim. Astăzi, satul este renumit pentru viticultură și tradițiile sale creștine bogate. Printre comorile arheologice se numără ruinele unei biserici bizantine și ale unei fortărețe medievale.",
+      en: "Jifna is a historic village near Ramallah, known in antiquity as Gophna. During the Roman period, it served as an administrative center and was a key station on the road to Jerusalem. Today, the village is renowned for its viticulture and rich Christian traditions. Archaeological highlights include the remains of a Byzantine church and a medieval fortress.",
+    },
+    factsAdvanced: {
+      de: ["Josephus Flavius erwähnte Gophna als zweitwichtigste Stadt Judäas nach Jerusalem.", "Die St. Georgs-Kirche wurde im 6. Jahrhundert über antiken Ruinen errichtet.", "In Jifna lebten zeitweise die römischen Statthalter der Region.", "Das Dorf feiert jährlich das Aprikosenfestival, das Besucher aus ganz Palästina anzieht.", "Die mittelalterliche Burg wurde während der Kreuzfahrerzeit im 12. Jahrhundert erbaut.", "Es wurden Überreste einer antiken Ölpresse aus der spätrömischen Zeit gefunden."],
+      hu: ["Iosephus Flavius Gophnát Júdea második legfontosabb városaként említette Jeruzsálem után.", "A Szent György-templom a 6. században épült ókori romok fölé.", "Jifnában egy időben római helytartók is laktak.", "A falu évente megrendezi a Sárgabarack-fesztivált, amely egész Palesztinából vonz látogatókat.", "A középkori vár a keresztesek idején, a 12. században épült.", "A késő római korból származó ősi olajprés maradványai is előkerültek."],
+      ro: ["Iosephus Flavius a menționat Gophna ca fiind al doilea oraș ca importanță din Iudeea.", "Biserica Sfântul Gheorghe a fost construită în secolul al VI-lea peste ruine antice.", "Jifna a fost pentru o perioadă reședința unor guvernatori romani regionali.", "Satul găzduiește anual Festivalul Caiselor, atrăgând vizitatori din toată Palestina.", "Castelul medieval a fost ridicat în perioada cruciată, în secolul al XII-lea.", "Au fost descoperite vestigiile unei prese de ulei antice din perioada romană târzie."],
+      en: ["Josephus Flavius mentioned Gophna as the second most important city in Judea after Jerusalem.", "St. George's Church was constructed in the 6th century over ancient ruins.", "Jifna once served as a residence for regional Roman governors.", "The village hosts an annual Apricot Festival that attracts visitors from across Palestine.", "The medieval castle was built during the Crusader period in the 12th century.", "Remains of an ancient oil press dating back to the Late Roman era were discovered here."],
+    },
   },
   {
     id: "palestine-kur-village-history-v2",
@@ -722,6 +1166,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Ottoman fortified houses", "Seat of the Jayyousi clan", "Historic stone masonry", "Strategic panoramic location"],
     },
     imageHint: "Kur village old palace Palestine",
+    descriptionAdvanced: {
+      de: "Kur ist ein historisches Dorf im Bezirk Tulkarm, das als eines der am besten erhaltenen 'Thron-Dörfer' Palästinas gilt. Die Architektur wird von den monumentalen Steinpalästen des Jayyousi-Clans dominiert, die im 18. Jahrhundert errichtet wurden. Die auf einem Hügel gelegene Siedlung bietet weite Ausblicke über die Küstenebene. Das Dorf bewahrt ein authentisches mittelalterliches Layout mit engen Gassen und massiven Toren.",
+      hu: "Kur egy történelmi falu Tulkarm körzetében, amelyet Palesztina egyik legjobban megőrzött 'trónfalujának' tartanak. Az építészetet a Jayyousi klán monumentális kőpalotái dominálják, amelyek a 18. században épültek. A dombtetőn fekvő településről széles kilátás nyílik a tengerparti síkságra. A falu hiteles középkori szerkezetet őriz szűk utcákkal és masszív kapukkal.",
+      ro: "Kur este un sat istoric din districtul Tulkarm, considerat unul dintre cele mai bine conservate 'sate-tron' din Palestina. Arhitectura este dominată de palatele monumentale din piatră ale clanului Jayyousi, construite în secolul al XVIII-lea. Situată pe o colină, așezarea oferă vederi panoramice asupra câmpiei de coastă. Satul păstrează un aspect medieval autentic, cu străzi înguste și porți masive.",
+      en: "Kur is a historic village in the Tulkarm district, regarded as one of Palestine's best-preserved 'Throne Villages.' The architecture is dominated by the monumental stone palaces of the Jayyousi clan, built in the 18th century. Situated on a hilltop, the settlement offers sweeping views over the coastal plain. The village maintains an authentic medieval layout with narrow alleys and massive gateways.",
+    },
+    factsAdvanced: {
+      de: ["Der Jayyousi-Clan kontrollierte von hier aus 22 umliegende Dörfer.", "Im Dorf stehen etwa 25 historische Gebäude aus der osmanischen Zeit.", "Die Paläste wurden aus lokalem Kalkstein mit meterdicken Mauern gebaut.", "Kur liegt etwa 400 Meter über dem Meeresspiegel.", "In der Dorfmitte befindet sich ein historisches Maqam (Heiligtum).", "Das Dorf wurde für Restaurierungsprojekte durch die Riwaq-Organisation ausgewählt."],
+      hu: ["A Jayyousi klán innen ellenőrzött 22 környező falut.", "A faluban körülbelül 25 történelmi épület áll az oszmán korszakból.", "A paloták helyi mészkőből épültek, méter vastag falakkal.", "Kur körülbelül 400 méterrel fekszik a tenger szintje felett.", "A falu központjában egy történelmi Maqam (szentély) található.", "A települést a Riwaq szervezet választotta ki restaurációs projektekre."],
+      ro: ["Clanul Jayyousi controla de aici 22 de sate din împrejurimi.", "În sat se află aproximativ 25 de clădiri istorice din perioada otomană.", "Palatele au fost construite din calcar local, cu ziduri groase de un metru.", "Kur este situat la o altitudine de aproximativ 400 de metri deasupra mării.", "În centrul satului se găsește un Maqam istoric (sanctuar).", "Satul a fost selectat pentru proiecte de restaurare de către organizația Riwaq."],
+      en: ["The Jayyousi clan governed 22 surrounding villages from this hilltop seat.", "There are approximately 25 historic Ottoman-era structures in the village.", "The palaces were constructed using local limestone with walls over a meter thick.", "Kur is situated at an elevation of about 400 meters above sea level.", "A historic Maqam (shrine) is located at the heart of the village.", "The village has been a focus for major restoration projects by the Riwaq organization."],
+    },
   },
   {
     id: "palestine-arraba-palaces-history-v2",
@@ -741,6 +1197,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Seat of Abd al-Hadi family", "Ottoman Baroque elements", "Major commercial hub", "Restored heritage complex"],
     },
     imageHint: "Arraba palaces Ottoman architecture",
+    descriptionAdvanced: {
+      de: "Die Paläste von Arraba sind beeindruckende Monumente der osmanischen Architektur im Norden des Westjordanlandes. Sie dienten als Residenzen der einflussreichen Abd al-Hadi-Familie, die im 19. Jahrhundert weite Teile der Region beherrschte. Die Gebäudekomplexe zeichnen sich durch weite Innenhöfe, kunstvolle Steinschnitzereien und defensive Merkmale aus. Sie sind Symbole für den Reichtum und die politische Macht der lokalen Aristokratie.",
+      hu: "Arraba palotái az oszmán építészet lenyűgöző emlékei Ciszjordánia északi részén. A befolyásos Abd al-Hadi család rezidenciáiként szolgáltak, akik a 19. században a régió nagy részét uralták. Az épületegyütteseket tágas belső udvarok, művészi kőfaragások és védelmi elemek jellemzik. A helyi arisztokrácia gazdagságának és politikai hatalmának szimbólumai.",
+      ro: "Palatele din Arraba sunt monumente impresionante ale arhitecturii otomane din nordul Cisiordaniei. Acestea au servit drept reședințe pentru influenta familie Abd al-Hadi, care a dominat regiunea în secolul al XIX-lea. Complexele de clădiri sunt caracterizate prin curți interioare vaste, sculpturi în piatră detaliate și elemente defensive. Sunt simboluri ale bogăției și puterii politice ale aristocrației locale.",
+      en: "The Palaces of Arraba are stunning monuments of Ottoman architecture in the northern West Bank. They served as residences for the influential Abd al-Hadi family, who ruled large parts of the region during the 19th century. The complexes feature expansive courtyards, intricate stone carvings, and defensive elements. They stand as symbols of the wealth and political power of the local aristocracy.",
+    },
+    factsAdvanced: {
+      de: ["Die Abd al-Hadi-Familie besaß zeitweise über 60 Dörfer in Palästina.", "In Arraba gibt es insgesamt 13 Paläste aus dieser Ära.", "Hussein Abd al-Hadi, Gouverneur von Sidon, ließ die prächtigsten Bauten errichten.", "Einige Paläste verfügen über unterirdische Gänge für Notfälle.", "Die Architektur kombiniert osmanische Stilelemente mit lokalen Bautraditionen.", "Das größte Gebäude des Komplexes umfasst mehr als 30 Räume."],
+      hu: ["Az Abd al-Hadi család egy időben több mint 60 palesztin falut birtokolt.", "Arrabában összesen 13 palota maradt fenn ebből a korszakból.", "Hussein Abd al-Hadi, Szidón kormányzója építtette a legpompásabb épületeket.", "Néhány palota föld alatti folyosókkal is rendelkezett vészhelyzet esetére.", "Az építészet az oszmán stíluselemeket ötvözi a helyi építési hagyományokkal.", "A komplexum legnagyobb épülete több mint 30 helyiséget foglal magában."],
+      ro: ["Familia Abd al-Hadi deținea la un moment dat peste 60 de sate în Palestina.", "În Arraba există un total de 13 palate datând din această eră.", "Hussein Abd al-Hadi, guvernator de Sidon, a comandat cele mai fastuoase clădiri.", "Unele palate dispun de pasaje subterane folosite în caz de urgență.", "Arhitectura combină elemente otomane cu tradiții de construcție locale.", "Cea mai mare clădire din complex are mai mult de 30 de camere."],
+      en: ["The Abd al-Hadi family once owned and managed over 60 villages in Palestine.", "There are a total of 13 surviving palaces from this era in Arraba.", "Hussein Abd al-Hadi, governor of Sidon, commissioned the grandest structures.", "Some of the palaces feature secret underground passages for use during emergencies.", "The architecture blends imperial Ottoman styles with local building traditions.", "The largest building in the complex contains more than 30 separate rooms."],
+    },
   },
   {
     id: "palestine-sanur-citadel-history-v2",
@@ -760,6 +1228,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Fortress of the Jarrar clan", "Sieged by Ahmed Pasha", "Ottoman military architecture", "Overlooks the Merj Sanur"],
     },
     imageHint: "Sanur Citadel fortress Palestine",
+    descriptionAdvanced: {
+      de: "Die Zitadelle von Sanur ist eine mächtige Festung auf einem Hügel in der Nähe von Jenin. Sie war die Hochburg des Jarrar-Clans, der über Jahrhunderte eine bedeutende politische Kraft in Nordsamania war. Die Anlage ist bekannt für ihre massiven Verteidigungsmauern und Rundtürme. Die Zitadelle überstand mehrere Belagerungen und gilt als Symbol des Widerstands gegen die zentrale osmanische Verwaltung.",
+      hu: "Sanur citadellája egy hatalmas dombtetői erőd Dzsenín közelében. Ez volt a Jarrar klán fellegvára, akik évszázadokon át jelentős politikai erőt képviseltek Észak-Szamáriában. Az erődítmény masszív védőfalairól és kerek tornyairól ismert. A citadella több ostromot is túlélt, és a központi oszmán igazgatással szembeni ellenállás szimbólumaként tartják számon.",
+      ro: "Citadela din Sanur este o fortăreață impunătoare situată pe o colină lângă Jenin. A fost bastionul clanului Jarrar, care a reprezentat o forță politică majoră în nordul Samariei timp de secole. Complexul este cunoscut pentru zidurile sale defensive masive și turnurile rotunde. Citadela a supraviețuit mai multor asedii și este considerată un simbol al rezistenței împotriva administrației centrale otomane.",
+      en: "The Sanur Citadel is a formidable hilltop fortress located near Jenin. It was the stronghold of the Jarrar clan, who were a major political force in northern Samaria for centuries. The site is famous for its massive defensive walls and round towers. The citadel survived multiple sieges and is viewed as a symbol of resistance against central Ottoman authority.",
+    },
+    factsAdvanced: {
+      de: ["Die Festung wurde im 18. Jahrhundert vom Scheich Jarrar-Clan erbaut.", "Ahmed al-Jazzar, der Pascha von Akkon, belagerte Sanur erfolglos im Jahr 1790.", "Die Mauern der Zitadelle sind bis zu 3 Meter dick.", "Im Jahr 1830 wurde die Festung nach einer langen Belagerung durch Ibrahim Pascha schwer beschädigt.", "Der Ort liegt strategisch günstig über der fruchtbaren Sanur-Ebene.", "Innerhalb der Mauern befinden sich eine historische Moschee und mehrere Wohnquartiere."],
+      hu: ["Az erődítményt a 18. században építtette a Jarrar sejk klán.", "Ahmed al-Jazzar, Akkó pasája 1790-ben sikertelenül ostromolta Sanurt.", "A citadella falai helyenként a 3 méteres vastagságot is elérik.", "1830-ban Ibrahim pasa seregei egy hosszú ostrom után súlyosan megrongálták az erődöt.", "A helyszín stratégiailag a termékeny Sanur-síkság felett helyezkedik el.", "A falakon belül egy történelmi mecset és több lakónegyed is található."],
+      ro: ["Fortăreața a fost construită în secolul al XVIII-lea de către clanul șeicului Jarrar.", "Ahmed al-Jazzar, pașa de Acra, a asediat Sanurul fără succes în anul 1790.", "Zidurile citadelei au o grosime de până la 3 metri în anumite secțiuni.", "În 1830, fortăreața a fost grav avariată după un asediu lung condus de Ibrahim Pașa.", "Situl este amplasat strategic deasupra fertilei Câmpii Sanur.", "În interiorul zidurilor se află o moschee istorică și mai multe cartiere de locuit."],
+      en: ["The fortress was constructed in the 18th century by the powerful Jarrar clan.", "Ahmed al-Jazzar, the Pasha of Acre, unsuccessfully besieged Sanur in 1790.", "The citadel's defensive walls are up to 3 meters thick in several areas.", "In 1830, the fortress was severely damaged after a prolonged siege by Ibrahim Pasha.", "The site is strategically positioned overlooking the fertile Sanur valley.", "The interior contains a historic mosque and several residential quarters."],
+    },
   },
   {
     id: "palestine-via-dolorosa-history-v2",
@@ -779,6 +1259,18 @@ export const palestineHistoryV2: POI[] = [
       en: ["Ends at the Holy Sepulchre", "Major pilgrimage route", "Passes through Christian Quarter", "Medieval route tradition"],
     },
     imageHint: "Via Dolorosa station Jerusalem",
+    descriptionAdvanced: {
+      de: "Die Via Dolorosa ist der traditionelle Kreuzweg in der Altstadt von Jerusalem, den Jesus auf dem Weg zu seiner Kreuzigung gegangen sein soll. Die Route führt vom Löwentor bis zur Grabeskirche und umfasst 14 Stationen. Pilger aus aller Welt begehen diesen Weg im Gebet, besonders an Freitagen. Die heutige Streckenführung wurde im Mittelalter von den Franziskanern festgelegt.",
+      hu: "A Via Dolorosa a jeruzsálemi óváros hagyományos keresztútja, amelyen a hit szerint Jézus haladt a keresztre feszítése felé. Az útvonal az Oroszlános kaputól a Szent Sír-templomig tart, és 14 állomást foglal magában. A világ minden tájáról érkező zarándokok imádkozva járják végig ezt az utat, különösen péntekenként. A mai útvonalat a középkorban a ferencesek rögzítették.",
+      ro: "Via Dolorosa este drumul tradițional al crucii din Orașul Vechi al Ierusalimului, pe care se crede că a mers Iisus spre răstignire. Traseul se întinde de la Poarta Leilor până la Biserica Sfântului Mormânt și cuprinde 14 stațiuni. Pelerini din întreaga lume parcurg acest drum în rugăciune, în special în zilele de vineri. Traseul actual a fost stabilit în Evul Mediu de către franciscani.",
+      en: "The Via Dolorosa is the traditional Way of the Cross in Jerusalem's Old City, believed to be the path Jesus walked to his crucifixion. The route stretches from the Lions' Gate to the Church of the Holy Sepulchre, comprising 14 stations. Pilgrims from around the world follow this path in prayer, especially on Fridays. The current route was finalized by the Franciscans during the Middle Ages.",
+    },
+    factsAdvanced: {
+      de: ["Die Route ist etwa 600 Meter lang und verläuft durch das muslimische und christliche Viertel.", "Die ersten neun Stationen liegen im Freien, die letzten fünf innerhalb der Grabeskirche.", "Station III markiert die Stelle, an der Jesus zum ersten Mal unter dem Kreuz fiel.", "Jedes Jahr an Karfreitag findet eine große Prozession mit tausenden Teilnehmern statt.", "An der Station IV erinnert eine Kapelle an die Begegnung Jesu mit seiner Mutter.", "Viele der Stationen werden durch kleine Kapellen oder Reliefs an den Hauswänden markiert."],
+      hu: ["Az útvonal körülbelül 600 méter hosszú, a muszlim és a keresztény negyeden halad át.", "Az első kilenc állomás a szabadban, az utolsó öt a Szent Sír-templomban található.", "A III. állomás jelzi azt a helyet, ahol Jézus először esett el a kereszt alatt.", "Minden évben Nagypénteken hatalmas körmenetet tartanak több ezer résztvevővel.", "A IV. állomásnál egy kápolna emlékeztet Jézus és édesanyja találkozására.", "Az állomások többségét kis kápolnák vagy a falakon elhelyezett domborművek jelzik."],
+      ro: ["Traseul are o lungime de aproximativ 600 de metri și traversează cartierele musulman și creștin.", "Primele nouă stațiuni sunt în aer liber, iar ultimele cinci se află în interiorul Bisericii Sfântului Mormânt.", "Stațiunea III marchează locul unde se spune că Iisus a căzut pentru prima dată sub cruce.", "În fiecare an, în Vinerea Mare, are loc o procesiune masivă cu mii de participanți.", "La stațiunea IV, o capelă comemorează întâlnirea lui Iisus cu mama Sa.", "Multe stațiuni sunt marcate prin capele mici sau reliefuri pe zidurile clădirilor."],
+      en: ["The route is approximately 600 meters long, winding through the Muslim and Christian quarters.", "The first nine stations are outdoors, while the final five are inside the Church of the Holy Sepulchre.", "Station III marks the spot where tradition says Jesus fell for the first time under the cross.", "A massive procession takes place every Good Friday, drawing thousands of participants.", "At Station IV, an Armenian chapel commemorates Jesus' encounter with his mother.", "Most stations are clearly marked by small chapels or metal plaques on the building walls."],
+    },
   },
   {
     id: "palestine-rachel-tomb-history-v2",
@@ -798,5 +1290,17 @@ export const palestineHistoryV2: POI[] = [
       en: ["Jewish pilgrimage site", "Located at Bethlehem's edge", "Ottoman era domed structure", "Recorded since ancient times"],
     },
     imageHint: "Rachel's Tomb Bethlehem exterior",
+    descriptionAdvanced: {
+      de: "Das Grab der Rahel am nördlichen Eingang von Bethlehem ist eine der heiligsten Stätten für Juden, Christen und Muslime. Es gilt als Begräbnisstätte der biblischen Matriarchin Rahel, die bei der Geburt Benjamins starb. Das Bauwerk mit seiner markanten Kuppel ist ein zentraler Ort des Gebets und der Wallfahrt. Über die Jahrhunderte wurde die Stätte mehrfach restauriert und erweitert.",
+      hu: "Ráhel sírja Betlehem északi bejáratánál az egyik legszentebb hely a zsidók, keresztények és muszlimok számára. A bibliai Ráhel ősanya nyughelyeként tisztelik, aki Benjámin születésekor halt meg. A jellegzetes kupolás építmény az imádság és a zarándoklat központi helyszíne. Az évszázadok során a sírhelyet többször restaurálták és kibővítették.",
+      ro: "Mormântul Rahelei, situat la intrarea nordică în Betleem, este unul dintre cele mai sacre locuri pentru evrei, creștini și musulmani. Este considerat locul de înmormântare al matriarhei biblice Rahela, care a murit la nașterea lui Beniamin. Edificiul cu cupola sa distinctivă este un centru major de rugăciune și pelerinaj. De-a lungul secolelor, situl a fost restaurat și extins de mai multe ori.",
+      en: "Rachel's Tomb, located at the northern entrance to Bethlehem, is one of the holiest sites for Jews, Christians, and Muslims. It is revered as the burial place of the biblical matriarch Rachel, who died giving birth to Benjamin. The structure, featuring a distinctive dome, is a focal point for prayer and pilgrimage. Over the centuries, the site has undergone multiple restorations and expansions.",
+    },
+    factsAdvanced: {
+      de: ["Die heutige Struktur stammt größtenteils aus der osmanischen Zeit im 19. Jahrhundert.", "Sir Moses Montefiore finanzierte 1841 eine bedeutende Renovierung des Grabmals.", "Die Stätte wird in der Genesis als Ort an der Straße nach Efrata erwähnt.", "Für Muslime ist der Ort als Bilal bin Rabah Moschee bekannt.", "Das Grabmal ist heute von hohen Sicherheitsmauern umgeben.", "Es ist ein traditioneller Ort für Frauen, um für Fruchtbarkeit zu beten."],
+      hu: ["A jelenlegi épület nagy része a 19. századi oszmán korszakból származik.", "Sir Moses Montefiore 1841-ben finanszírozta a síremlék jelentős felújítását.", "A Teremtés könyve szerint a sír az Efratába vezető út mentén található.", "A muszlimok számára a hely Bilal bin Rabah mecset néven is ismert.", "A síremléket ma magas védőfalak veszik körül a biztonság érdekében.", "Hagyományosan az asszonyok itt imádkoznak a gyermekáldásért."],
+      ro: ["Structura actuală datează în mare parte din perioada otomană a secolului al XIX-lea.", "Sir Moses Montefiore a finanțat o renovare majoră a mormântului în anul 1841.", "Situl este menționat în Geneză ca fiind pe drumul spre Efrata.", "Pentru musulmani, locul este cunoscut și sub numele de Moscheea Bilal bin Rabah.", "Mormântul este astăzi înconjurat de ziduri de securitate înalte.", "Este un loc tradițional unde femeile vin să se roage pentru fertilitate."],
+      en: ["The current structure largely dates from the Ottoman period in the 19th century.", "Sir Moses Montefiore funded a significant renovation of the tomb in 1841.", "The site is mentioned in Genesis as being on the road to Ephrath.", "For Muslims, the site is also known as the Bilal bin Rabah Mosque.", "The tomb complex is currently surrounded by high security walls.", "It is a traditional site for women to offer prayers for fertility and children."],
+    },
   }
 ];

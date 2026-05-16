@@ -37,7 +37,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Founded in 782 BC as Erebuni.",
         "Features the massive Cascade complex."
       ]
-    }, image: "/poi-images/armenia-yerevan-cities-v2.webp"},
+    }, image: "/poi-images/armenia-yerevan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 782 v. Chr. durch König Argishti I.", "Die Stadt liegt auf einer Höhe von 900 bis 1.300 Metern.", "Das Matenadaran beherbergt über 17.000 antike Manuskripte.", "Der heutige Stadtplan wurde 1924 von Alexander Tamanjan entworfen.", "Jerewan hat eine Bevölkerung von etwa 1,1 Millionen Einwohnern.", "Die Kaskade von Jerewan umfasst 572 Stufen und moderne Kunstwerke."],
+      hu: ["I. Argisti urartui király alapította i. e. 782-ben.", "A város 900 és 1300 méter közötti tengerszint feletti magasságon fekszik.", "A Matenadaran több mint 17 000 ősi kéziratot őriz.", "A modern városszerkezetet Alexander Tamanjan tervezte 1924-ben.", "Lakossága megközelítőleg 1,1 millió fő (2022-es adat).", "A jereváni Kaszkád egy 572 lépcsőfokból álló hatalmas építmény."],
+      ro: ["Fondat în anul 782 î.Hr. de către regele Argishti I.", "Orașul este situat la o altitudine între 900 și 1.300 de metri.", "Matenadaran adăpostește peste 17.000 de manuscrise antice.", "Planul urbanistic modern a fost conceput de Alexander Tamanyan în 1924.", "Populația este de aproximativ 1,1 milioane de locuitori.", "Cascada din Erevan are 572 de trepte și include un centru de artă."],
+      en: ["Founded in 782 BC by the Urartian King Argishti I.", "The city sits at an altitude ranging from 900 to 1,300 meters.", "Matenadaran houses over 17,000 ancient Armenian manuscripts.", "The master plan of the city was designed by Alexander Tamanyan in 1924.", "Yerevan has a population of approximately 1.1 million residents.", "The Yerevan Cascade features 572 steps and a modern art museum."],
+    },
+  },
   {
     id: "armenia-gyumri-cities-v2",
     type: "city",
@@ -74,7 +81,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Severely damaged by the 1988 earthquake.",
         "Known as the cultural capital of Armenia."
       ]
-    }, image: "/poi-images/armenia-gyumri-cities-v2.webp"},
+    }, image: "/poi-images/armenia-gyumri-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Siedlung Kumayri wurde bereits 401 v. Chr. von Xenophon erwähnt.", "Im Jahr 1837 wurde die Stadt zu Ehren von Zarin Alexandra umbenannt.", "Die Schwarze Festung (Sev Berd) wurde 1834 als Grenzschutz errichtet.", "Das Erdbeben von 1988 zerstörte etwa 60 Prozent der Stadt.", "Gyumri liegt auf einer Hochebene in 1.500 Metern Höhe.", "In der Stadt befindet sich die älteste russisch-orthodoxe Kirche Armeniens."],
+      hu: ["A települést Kumajri néven Xenophón említette i. e. 401-ben.", "1837-ben I. Miklós cár felesége után nevezték el Alekszandropolnak.", "A Fekete Erőd (Szev Berd) 1834-ben épült katonai védelmi célból.", "Az 1988-as földrengés során a város mintegy 60%-a romba dőlt.", "A város 1500 méter tengerszint feletti magasságon helyezkedik el.", "Itt található Örményország legrégebbi orosz ortodox temploma."],
+      ro: ["Așezarea Kumayri a fost menționată de Xenofon în anul 401 î.Hr.", "În 1837, orașul a fost redenumit Alexandropol în onoarea țarinei Alexandra.", "Fortăreața Neagră (Sev Berd) a fost construită în 1834 pentru apărare.", "Cutremurul din 1988 a distrus aproximativ 60% din structurile orașului.", "Orașul este situat pe un platou înalt la 1.500 de metri altitudine.", "Gyumri găzduiește cea mai veche biserică ortodoxă rusă din Armenia."],
+      en: ["The settlement of Kumayri was mentioned by Xenophon in 401 BC.", "In 1837, the city was renamed Alexandropol in honor of Tsarina Alexandra.", "The Black Fortress (Sev Berd) was completed in 1834 for border defense.", "The 1988 earthquake destroyed approximately 60 percent of the city.", "Gyumri is situated at an elevation of 1,500 meters above sea level.", "The city contains the oldest Russian Orthodox church in Armenia."],
+    },
+  },
   {
     id: "armenia-vanadzor-cities-v2",
     type: "city",
@@ -111,7 +125,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Formerly known as Kirovakan.",
         "Capital of the Lori Province."
       ]
-    }, image: "/poi-images/armenia-vanadzor-cities-v2.webp"},
+    }, image: "/poi-images/armenia-vanadzor-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadt wurde bis 1935 Karakilisa (Schwarze Kirche) genannt.", "Sie liegt auf einer durchschnittlichen Höhe von 1.350 Metern.", "Die chemische Fabrik Prometey-Khimprom war einst der größte Arbeitgeber.", "Das Vanadzor Museum der Schönen Künste besitzt über 1.700 Exponate.", "In der Nähe befinden sich die UNESCO-Weltkulturerbestätten Haghpat und Sanahin.", "Die Stadt hat ein mildes Klima mit etwa 2.200 Sonnenstunden pro Jahr."],
+      hu: ["A várost 1935-ig Karakiliszának (Fekete templom) hívták.", "Az átlagos tengerszint feletti magassága 1350 méter.", "A szovjet időkben a Prometej-Himprom vegyianyag-gyár volt a fő munkaadó.", "A Vanadzori Szépművészeti Múzeum több mint 1700 műtárgyat őriz.", "A közelben találhatók a Haghpat és Szanahin világörökségi kolostorok.", "Évente átlagosan 2200 napsütéses órát élvezhetnek a lakók."],
+      ro: ["Până în 1935, orașul s-a numit Karakilisa (Biserica Neagră).", "Este situat la o altitudine medie de 1.350 de metri.", "Combinatul chimic Prometey-Khimprom a fost cel mai mare angajator local.", "Muzeul de Arte Frumoase din Vanadzor deține peste 1.700 de exponate.", "Mănăstirile Haghpat și Sanahin (UNESCO) se află în apropiere.", "Orașul beneficiază de aproximativ 2.200 de ore de soare pe an."],
+      en: ["The city was known as Karakilisa (Black Church) until 1935.", "It is located at an average elevation of 1,350 meters above sea level.", "The Prometey-Khimprom chemical plant was once the largest employer.", "The Vanadzor Museum of Fine Arts houses a collection of over 1,700 works.", "The UNESCO World Heritage sites of Haghpat and Sanahin are nearby.", "The city enjoys a mild climate with roughly 2,200 sunny hours per year."],
+    },
+  },
   {
     id: "armenia-vagharshapat-cities-v2",
     type: "city",
@@ -148,7 +169,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Home to the Mother See of Holy Etchmiadzin.",
         "One of the oldest continuously inhabited cities in Armenia."
       ]
-    }, image: "/poi-images/armenia-vagharshapat-cities-v2.webp"},
+    }, image: "/poi-images/armenia-vagharshapat-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Kathedrale von Etschmiadsin wurde im Jahr 301 n. Chr. gegründet.", "Die Stadt liegt nur etwa 18 Kilometer westlich von Jerewan.", "Hier wird die Heilige Lanze (Geghard) im Klostermuseum aufbewahrt.", "König Wagharsh I. gab der Stadt im 2. Jahrhundert ihren Namen.", "Die Hripsime-Kirche aus dem Jahr 618 ist ein Meisterwerk armenischer Baukunst.", "Etschmiadsin war von 120 bis 330 n. Chr. die Hauptstadt Armeniens."],
+      hu: ["Az etcsmiadzini székesegyházat 301-ben alapították.", "A város mindössze 18 kilométerre nyugatra fekszik Jerevántól.", "A kolostori múzeumban őrzik a Szent Lándzsát (Geghard).", "A várost I. Vagars királyról nevezték el a 2. században.", "A 618-ban épült Hripszime-templom az örmény építészet remekműve.", "120 és 330 között az Örmény Királyság fővárosa volt."],
+      ro: ["Catedrala din Etchmiadzin a fost fondată în anul 301 d.Hr.", "Orașul este situat la doar 18 kilometri vest de Erevan.", "Muzeul mănăstirii adăpostește Sfânta Lance (Geghard).", "Orașul poartă numele regelui Vagharsh I, care l-a fondat în secolul II.", "Biserica Sfânta Hripsime, ridicată în 618, este un simbol arhitectural.", "Vagharshapat a fost capitala Armeniei între anii 120 și 330 d.Hr."],
+      en: ["Etchmiadzin Cathedral was originally founded in 301 AD.", "The city is located approximately 18 kilometers west of Yerevan.", "The treasury museum houses the Holy Spear (Geghard).", "King Vagharsh I named the city after himself in the 2nd century.", "Saint Hripsime Church, built in 618, is a masterpiece of Armenian architecture.", "Vagharshapat served as the Armenian capital from 120 to 330 AD."],
+    },
+  },
   {
     id: "armenia-abovyan-cities-v2",
     type: "city",
@@ -185,7 +213,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Named after the writer Khachatur Abovian.",
         "Rapidly developed during the Soviet era."
       ]
-    }, image: "/poi-images/armenia-abovyan-cities-v2.webp"},
+    }, image: "/poi-images/armenia-abovyan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadt wurde offiziell im Jahr 1963 gegründet.", "Archäologische Funde in Elar reichen bis in die Bronzezeit zurück.", "Abowjan liegt auf einer Höhe von etwa 1.450 Metern.", "Die St. Johannes-Kirche (Surb Hovhannes) ist ein modernes Wahrzeichen der Stadt.", "In der Stadt gibt es bedeutende Betriebe der Präzisionsmechanik.", "Sie gilt als eine der am besten geplanten Städte der Sowjetära in Armenien."],
+      hu: ["A várost hivatalosan 1963-ban alapították.", "Az Elar területén végzett ásatások a bronzkorig nyúlnak vissza.", "A település 1450 méter tengerszint feletti magasságon fekszik.", "A Szent János-templom (Szurb Hovhannesz) a város modern jelképe.", "A városban jelentős precíziós műszergyártás folyik.", "Örményország egyik legjobban megtervezett szovjet korszakbeli városa."],
+      ro: ["Orașul a fost fondat oficial în anul 1963.", "Descoperirile arheologice din zona Elar datează din epoca bronzului.", "Abovyan este situat la o altitudine de aproximativ 1.450 de metri.", "Biserica Sfântul Ioan (Surb Hovhannes) este un reper arhitectural modern.", "Orașul găzduiește fabrici importante de mecanică de precizie.", "Este considerat unul dintre cele mai bine planificate orașe din era sovietică."],
+      en: ["The city was officially established in 1963.", "Archaeological findings in Elar date back to the Bronze Age.", "Abovyan is situated at an elevation of about 1,450 meters.", "Saint John the Baptist Church (Surb Hovhannes) is a prominent modern landmark.", "The city is known for its precision engineering and electronic industries.", "It is regarded as one of the best-planned Soviet-era cities in Armenia."],
+    },
+  },
   {
     id: "armenia-kapan-cities-v2",
     type: "city",
@@ -222,7 +257,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "A major center for copper mining.",
         "The city is shadowed by Mount Khustup."
       ]
-    }, image: "/poi-images/armenia-kapan-cities-v2.webp"},
+    }, image: "/poi-images/armenia-kapan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Der Name Kapan bedeutet im Armenischen 'Pass' oder 'Schlucht'.", "Die Festung Halidzor aus dem 17. Jahrhundert liegt in der Nähe.", "Der Berg Khustup überragt die Stadt mit einer Höhe von 3.201 Metern.", "Im 10. Jahrhundert war Kapan das Zentrum des armenischen Widerstands.", "Die Stadt erstreckt sich entlang des Flusses Voghji.", "Kapan erhielt 1938 den Status einer Stadt."],
+      hu: ["A Kapan név örményül 'szorost' vagy 'hágót' jelent.", "A közelben található a 17. századi Halidzor-erőd.", "A várost a 3201 méter magas Husztup-hegy uralja.", "A 10. században Kapan a Szjunik Királyság politikai központja volt.", "A település a Voghdzi-folyó völgyében terül el.", "Kapan 1938-ban kapott városi rangot."],
+      ro: ["Numele Kapan înseamnă „trecătoare” sau „defileu” în limba armeană.", "Fortăreața Halidzor din secolul al XVII-lea se află în apropiere.", "Muntele Khustup domină orașul, având o înălțime de 3.201 metri.", "În secolul al X-lea, Kapan a fost centrul Regatului Syunik.", "Orașul este străbătut de râul Voghji.", "Kapan a primit statutul oficial de oraș în anul 1938."],
+      en: ["The name Kapan translates to 'pass' or 'gorge' in Armenian.", "The 17th-century Halidzor Fortress is located in the vicinity.", "Mount Khustup towers over the city at an elevation of 3,201 meters.", "Kapan was the political center of the Kingdom of Syunik in the 10th century.", "The city is built along the banks of the Voghji River.", "Kapan was officially granted city status in 1938."],
+    },
+  },
   {
     id: "armenia-hrazdan-cities-v2",
     type: "city",
@@ -259,7 +301,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Home to a significant thermal power plant.",
         "Capital of the Kotayk Province."
       ]
-    }, image: "/poi-images/armenia-hrazdan-cities-v2.webp"},
+    }, image: "/poi-images/armenia-hrazdan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadt wurde 1959 aus mehreren Dörfern gebildet.", "Hrasdan liegt auf einer Höhe von etwa 1.700 Metern.", "Das Wärmekraftwerk Hrasdan liefert einen Großteil des Stroms für Armenien.", "Das Kloster Makrawank aus dem 13. Jahrhundert liegt im Stadtgebiet.", "Die Stadt war früher unter dem Namen Achtala bekannt.", "Hrasdan ist durch eine Eisenbahnlinie mit Jerewan und Sewan verbunden."],
+      hu: ["A várost 1959-ben hozták létre több falu összevonásával.", "Hrazdan 1700 méter körüli tengerszint feletti magasságon fekszik.", "A hrazdani hőerőmű biztosítja Örményország áramellátásának jelentős részét.", "A 13. századi Makravank-kolostor a város határain belül található.", "A település korábban Ahtala néven volt ismert.", "Vasútvonal köti össze Jerevánnal és a Szeván-tóval."],
+      ro: ["Orașul a fost format în 1959 prin fuzionarea mai multor sate.", "Hrazdan este situat la o altitudine de aproximativ 1.700 de metri.", "Termocentrala Hrazdan produce o parte semnificativă din energia țării.", "Mănăstirea Makravank din secolul al XIII-lea se află în oraș.", "În trecut, așezarea a purtat numele de Akhtala.", "Orașul este conectat prin cale ferată de Erevan și Sevan."],
+      en: ["The city was formed in 1959 by merging several villages.", "Hrazdan is located at an elevation of approximately 1,700 meters.", "The Hrazdan Thermal Power Plant provides a huge portion of Armenia's electricity.", "The 13th-century Makravank Monastery is located within the city limits.", "The settlement was previously known as Akhtala.", "Hrazdan is connected by rail to both Yerevan and Lake Sevan."],
+    },
+  },
   {
     id: "armenia-armavir-cities-v2",
     type: "city",
@@ -296,7 +345,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Capital of the Armavir Province.",
         "Located in the fertile Ararat Plain."
       ]
-    }, image: "/poi-images/armenia-armavir-cities-v2.webp"},
+    }, image: "/poi-images/armenia-armavir-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die moderne Stadt wurde im Jahr 1931 offiziell gegründet.", "Die antike Stadt Armawir wurde bereits im 4. Jahrhundert v. Chr. erwähnt.", "Armawir liegt auf einer Höhe von etwa 870 Metern.", "Die Region ist das wichtigste landwirtschaftliche Zentrum Armeniens.", "Das Denkmal von Sardarapat befindet sich etwa 10 Kilometer entfernt.", "Die Stadt wurde 1995 nach der antiken Hauptstadt umbenannt."],
+      hu: ["A modern várost hivatalosan 1931-ben alapították.", "Az ókori Armavir várost már az i. e. 4. században említették.", "A település 870 méter tengerszint feletti magasságon fekszik.", "A régió Örményország legfontosabb mezőgazdasági területe.", "A szardarapati emlékmű mindössze 10 kilométerre található.", "A várost 1995-ben nevezték át korábbi szovjet nevéről Armavirra."],
+      ro: ["Orașul modern a fost fondat oficial în anul 1931.", "Vechiul Armavir a fost menționat încă din secolul al IV-lea î.Hr.", "Armavir este situat la o altitudine de aproximativ 870 de metri.", "Regiunea reprezintă cel mai important pol agricol al Armeniei.", "Memorialul Sardarapat se află la aproximativ 10 kilometri distanță.", "Orașul a primit numele actual în anul 1995, renunțând la Hoktemberyan."],
+      en: ["The modern city was officially established in 1931.", "Ancient Armavir was mentioned as a capital as early as the 4th century BC.", "Armavir is situated at an elevation of about 870 meters.", "The surrounding region is Armenia's primary agricultural center.", "The Sardarapat Memorial is located approximately 10 kilometers away.", "The city was renamed from Hoktemberyan to Armavir in 1995."],
+    },
+  },
   {
     id: "armenia-artashat-cities-v2",
     type: "city",
@@ -333,7 +389,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Known for its prominent winery.",
         "Founded by King Artaxias I in 176 BC."
       ]
-    }, image: "/poi-images/armenia-artashat-cities-v2.webp"},
+    }, image: "/poi-images/armenia-artashat-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die antike Stadt Artaxata wurde 176 v. Chr. von König Artaxias I. gegründet.", "Artaschat liegt etwa 30 Kilometer südlich von Jerewan.", "Das berühmte Kloster Chor Virap befindet sich in unmittelbarer Nähe.", "Die Stadt liegt auf einer Höhe von 830 Metern in der Ararat-Ebene.", "Sie ist bekannt für ihre großen Konserven- und Weinfabriken.", "Artaschat war zwischen 185 v. Chr. und 120 n. Chr. die Hauptstadt Armeniens."],
+      hu: ["Az ókori Artaxatát i. e. 176-ban alapította I. Artaxiasz király.", "Artasat körülbelül 30 kilométerre délre fekszik Jerevántól.", "A híres Hor Virap-kolostor a város közvetlen közelében található.", "A település 830 méteres magasságban, az Ararát-síkságon terül el.", "A város jelentős konzervgyárakkal és borászatokkal rendelkezik.", "I. e. 185 és i. sz. 120 között az Örmény Királyság fővárosa volt."],
+      ro: ["Orașul antic Artaxata a fost fondat în 176 î.Hr. de regele Artaxias I.", "Artashat se află la aproximativ 30 de kilometri sud de Erevan.", "Mănăstirea Khor Virap este situată în imediata apropiere a orașului.", "Orașul este situat la o altitudine de 830 de metri în câmpia Ararat.", "Este renumit pentru fabricile sale mari de conserve și vinificație.", "Artashat a servit drept capitală a Armeniei între 185 î.Hr. și 120 d.Hr."],
+      en: ["Ancient Artaxata was founded in 176 BC by King Artaxias I.", "Artashat is located roughly 30 kilometers south of Yerevan.", "The famous Khor Virap monastery is situated very close to the city.", "The city sits at an elevation of 830 meters in the Ararat plain.", "It is well known for its extensive food canning and wine production units.", "Artashat was the capital of Armenia from 185 BC to 120 AD."],
+    },
+  },
   {
     id: "armenia-ijevan-cities-v2",
     type: "city",
@@ -370,7 +433,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Capital of the Tavush Province.",
         "Known as the center of wood carving in the region."
       ]
-    }, image: "/poi-images/armenia-ijevan-cities-v2.webp"},
+    }, image: "/poi-images/armenia-ijevan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Der Name Idschewan bedeutet im Armenischen 'Gasthaus' oder 'Karawanserei'.", "Die Stadt liegt auf einer Höhe von etwa 750 Metern.", "In Idschewan befindet sich eine der größten Teppichfabriken des Kaukasus.", "Die Weinfabrik von Idschewan ist berühmt für ihren Granatapfelwein.", "Die Stadt beherbergt einen Skulpturenpark mit über 100 Werken.", "Idschewan erhielt 1970 den offiziellen Status einer Stadt."],
+      hu: ["Az Idzsevan név örményül 'fogadót' vagy 'karavánszerájt' jelent.", "A város körülbelül 750 méter tengerszint feletti magasságon fekszik.", "Itt működik a Kaukázus egyik legnagyobb szőnyeggyára.", "Az idzsevani borászat híres a gránátalmaboráról.", "A városban egy több mint 100 alkotásból álló szoborpark található.", "Idzsevan 1970-ben kapott hivatalos városi rangot."],
+      ro: ["Numele Ijevan înseamnă „han” sau „caravanserai” în limba armeană.", "Orașul este situat la o altitudine de aproximativ 750 de metri.", "Ijevan găzduiește una dintre cele mai mari fabrici de covoare din Caucaz.", "Vinăria din Ijevan este celebră pentru producția de vin de rodie.", "Orașul are un parc de sculpturi cu peste 100 de lucrări de artă.", "Ijevan a primit statutul oficial de oraș în anul 1970."],
+      en: ["The name Ijevan translates to 'inn' or 'caravanserai' in Armenian.", "The city is situated at an elevation of approximately 750 meters.", "Ijevan is home to one of the largest carpet factories in the Caucasus.", "The Ijevan Wine Factory is particularly famous for its pomegranate wine.", "The city features an open-air sculpture park with over 100 exhibits.", "Ijevan was officially granted city status in 1970."],
+    },
+  },
   {
     id: "armenia-gavar-cities-v2",
     type: "city",
@@ -407,7 +477,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Capital of the Gegharkunik Province.",
         "Famous for a traditional pastry called pakhlava."
       ]
-    }, image: "/poi-images/armenia-gavar-cities-v2.webp"},
+    }, image: "/poi-images/armenia-gavar-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gawar liegt auf einer beachtlichen Höhe von 2.000 Metern.", "Die Stadt wurde 1830 unter dem Namen Nor Bayazet gegründet.", "Sie beherbergt die imposante Kathedrale der Heiligen Gottesmutter.", "In der Nähe befindet sich das Gräberfeld von Noratus mit hunderten Khachkars.", "Die Stadt ist ein Zentrum für den Anbau von Kartoffeln in Armenien.", "Gawar wurde 1959 von einer Siedlung zur Stadt erhoben."],
+      hu: ["Gavar jelentős magasságban, 2000 méterrel a tengerszint felett fekszik.", "A várost 1830-ban Nor Bajazet néven alapították.", "Itt található a lenyűgöző Szurb Asztvacacin (Istenanyja) székesegyház.", "A közelben fekszik Noratusz, a világ legnagyobb hacskar-gyűjteményével.", "A város Örményország egyik legfontosabb burgonyatermesztő központja.", "A település 1959-ben kapott városi rangot."],
+      ro: ["Gavar este situat la o altitudine considerabilă de 2.000 de metri.", "Orașul a fost fondat în 1830 sub numele de Nor Bayazet.", "Găzduiește impunătoarea Catedrală a Sfintei Născătoare de Dumnezeu.", "Cimitirul Noratus, cu sute de khachkar-uri antice, se află în apropiere.", "Orașul este un centru major pentru cultivarea cartofilor în Armenia.", "Gavar a fost ridicat la rangul de oraș în anul 1959."],
+      en: ["Gavar is located at a high altitude of 2,000 meters above sea level.", "The city was established in 1830 under the name Nor Bayazet.", "It features the prominent Cathedral of the Holy Mother of God.", "The nearby Noratus cemetery contains the largest cluster of khachkars in the world.", "The city is a primary center for potato cultivation in Armenia.", "Gavar was officially incorporated as a city in 1959."],
+    },
+  },
   {
     id: "armenia-goris-cities-v2",
     type: "city",
@@ -444,7 +521,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Features unique stone pyramid formations.",
         "A major stop on the road to Artsakh."
       ]
-    }, image: "/poi-images/armenia-goris-cities-v2.webp"},
+    }, image: "/poi-images/armenia-goris-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Goris wurde 1870 als moderne Stadt nach einem Planungsentwurf angelegt.", "Die Stadt liegt auf einer Höhe von etwa 1.370 Metern.", "Die Höhlenstadt Alt-Goris liegt am gegenüberliegenden Ufer des Flusses.", "In der Nähe befindet sich das Kloster Tatev, erreichbar mit der längsten Seilbahn.", "Goris ist bekannt für seine hausgemachten Fruchtbrände, besonders Maulbeerschnaps.", "Der Schriftsteller Axel Bakunts wurde hier im Jahr 1899 geboren."],
+      hu: ["Goris modern városszerkezetét 1870-ben mérnöki tervek alapján alakították ki.", "A város körülbelül 1370 méter tengerszint feletti magasságon fekszik.", "A folyó túlsó partján található az ősi barlangváros, Ó-Goris.", "A közelben lévő Tatev-kolostor a világ leghosszabb drótkötélpályáján érhető el.", "Goris híres a házi gyümölcspárlatairól, különösen az eperfa-pálinkáról.", "Axel Bakunc örmény író 1899-ben ebben a városban született."],
+      ro: ["Goris a fost planificat ca un oraș modern în anul 1870.", "Orașul este situat la o altitudine de aproximativ 1.370 de metri.", "Orașul vechi Goris, format din peșteri, se află pe malul opus al râului.", "Mănăstirea Tatev, accesibilă prin cea mai lungă telecabină, este în apropiere.", "Goris este renumit pentru rachiul său de fructe, în special cel de dude.", "Scriitorul Axel Bakunts s-a născut aici în anul 1899."],
+      en: ["Goris was laid out as a planned modern city in 1870.", "The city sits at an elevation of approximately 1,370 meters.", "The medieval cave settlement of Old Goris lies on the opposite side of the river.", "The Tatev Monastery, accessible via the world's longest cable car, is nearby.", "Goris is famous for its homemade fruit brandies, especially mulberry vodka.", "The prominent Armenian writer Axel Bakunts was born here in 1899."],
+    },
+  },
   {
     id: "armenia-charentsavan-cities-v2",
     type: "city",
@@ -481,7 +565,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Named after the poet Yeghishe Charents.",
         "Grew around a major hydroelectric plant."
       ]
-    }, image: "/poi-images/armenia-charentsavan-cities-v2.webp"},
+    }, image: "/poi-images/armenia-charentsavan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadt wurde 1947 als Lusawan gegründet.", "Sie liegt auf einer Höhe von etwa 1.600 Metern über dem Meeresspiegel.", "Ein großes Denkmal für Jegische Tscharenz wurde 1980 errichtet.", "Charentsavan war ein führendes Zentrum für Werkzeugmaschinenbau.", "Die Stadt liegt an der Hauptstraße zwischen Jerewan und Sewan.", "Sie erhielt im Jahr 1958 den offiziellen Status einer Stadt."],
+      hu: ["A várost 1947-ben alapították Luszavan néven.", "A tengerszint feletti magassága körülbelül 1600 méter.", "1980-ban egy hatalmas emlékművet emeltek Jegise Csarenc tiszteletére.", "Csarencavan a szerszámgépgyártás egyik vezető központja volt.", "A város a Jerevánt és a Szeván-tavat összekötő főút mentén fekszik.", "A település 1958-ban kapott városi rangot."],
+      ro: ["Orașul a fost fondat în anul 1947 sub numele de Lusavan.", "Este situat la o altitudine de aproximativ 1.600 de metri.", "Un monument masiv dedicat lui Yeghishe Charents a fost ridicat în 1980.", "Charentsavan a fost un centru important pentru fabricarea mașinilor-unelte.", "Orașul se află pe ruta principală dintre Erevan și Lacul Sevan.", "Așezarea a primit statutul oficial de oraș în anul 1958."],
+      en: ["The city was established in 1947 under the name Lusavan.", "It is situated at an elevation of approximately 1,600 meters.", "A massive monument to Yeghishe Charents was erected in the city in 1980.", "Charentsavan was a leading center for machine tool manufacturing.", "The city is located on the main highway connecting Yerevan and Sevan.", "It was officially granted city status in 1958."],
+    },
+  },
   {
     id: "armenia-ararat-cities-v2",
     type: "city",
@@ -518,7 +609,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Shares its name with the famous Mount Ararat.",
         "Founded in 1927 for cement production."
       ]
-    }, image: "/poi-images/armenia-ararat-cities-v2.webp"},
+    }, image: "/poi-images/armenia-ararat-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadt wurde im Jahr 1939 offiziell gegründet.", "Hier befindet sich eine der größten Zementfabriken der Region.", "Die Ararat-Goldextraktionsanlage verarbeitet Erz aus der Sotk-Mine.", "Ararat liegt auf einer Höhe von etwa 825 Metern.", "Die Stadt liegt nur etwa 7 Kilometer von der türkischen Grenze entfernt.", "Der Name bezieht sich auf das biblische Gebirge Ararat.", "Ararat erhielt 1962 den Status einer Stadt."],
+      hu: ["A várost hivatalosan 1939-ben alapították.", "Itt található a régió egyik legnagyobb cementgyára.", "Az araráti aranyfeldolgozó üzem a szotki bányából származó ércet dolgozza fel.", "A település 825 méter tengerszint feletti magasságon fekszik.", "A város mindössze 7 kilométerre található a török határtól.", "Nevét a bibliai Ararát-hegyről kapta.", "Ararát 1962-ben kapott városi rangot."],
+      ro: ["Orașul a fost fondat oficial în anul 1939.", "Găzduiește una dintre cele mai mari fabrici de ciment din regiune.", "Combinatul de extracție a aurului prelucrează minereu din mina Sotk.", "Ararat este situat la o altitudine de aproximativ 825 de metri.", "Orașul se află la doar 7 kilometri de granița cu Turcia.", "Numele orașului face referire la muntele biblic Ararat.", "Ararat a primit statutul de oraș în anul 1962."],
+      en: ["The city was officially founded in 1939.", "It is home to one of the largest cement factories in the region.", "The Ararat Gold Recovery Plant processes ore from the Sotk mine.", "Ararat is situated at an elevation of approximately 825 meters.", "The city is located only about 7 kilometers from the Turkish border.", "Its name is derived from the biblical Mount Ararat.", "Ararat was granted city status in 1962."],
+    },
+  },
   {
     id: "armenia-masis-cities-v2",
     type: "city",
@@ -555,7 +653,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "An important hub for regional transport.",
         "Located near the left bank of the Hrazdan River."
       ]
-    }, image: "/poi-images/armenia-masis-cities-v2.webp"},
+    }, image: "/poi-images/armenia-masis-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadt hieß bis 1969 Hrasdan (nicht zu verwechseln mit der gleichnamigen Stadt).", "Masis liegt auf einer Höhe von etwa 830 Metern.", "Der Bahnhof von Masis ist der größte Rangierbahnhof Armeniens.", "Die Stadt hat eine der größten Tabakfabriken des Landes (International Masis Tabak).", "Masis bietet einen der besten Panoramablicke auf den Berg Ararat.", "Die Stadt wurde 1950 als Arbeitersiedlung gegründet."],
+      hu: ["A várost 1969-ig Hrazdannak hívták (nem összetévesztendő a hasonló nevű várossal).", "Maszisz 830 méter tengerszint feletti magasságon fekszik.", "A masziszi vasútállomás Örményország legnagyobb rendező pályaudvara.", "Itt működik az ország egyik legnagyobb dohánygyára (International Masis Tabak).", "A városból nyílik az egyik legszebb panoráma az Ararát-hegyre.", "A települést 1950-ben munkástelepülésként alapították."],
+      ro: ["Până în 1969, orașul s-a numit Hrazdan (a nu se confunda cu orașul oponim).", "Masis este situat la o altitudine de aproximativ 830 de metri.", "Gara din Masis este cea mai mare stație de triaj feroviar din Armenia.", "Orașul găzduiește o mare fabrică de tutun (International Masis Tabak).", "Masis oferă una dintre cele mai frumoase vederi panoramice spre muntele Ararat.", "Orașul a fost fondat inițial în 1950 ca așezare de muncitori."],
+      en: ["The city was known as Hrazdan until 1969 (different from the current Hrazdan).", "Masis is situated at an elevation of approximately 830 meters.", "Masis railway station is the largest freight and sorting station in Armenia.", "The city houses a major tobacco processing plant (International Masis Tabak).", "Masis offers one of the closest and clearest panoramic views of Mount Ararat.", "The city was established as a worker's settlement in 1950."],
+    },
+  },
   {
     id: "armenia-ashtarak-cities-v2",
     type: "city",
@@ -592,7 +697,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Capital of the Aragatsotn Province.",
         "Known for Karmravor and other ancient churches."
       ]
-    }, image: "/poi-images/armenia-ashtarak-cities-v2.webp"},
+    }, image: "/poi-images/armenia-ashtarak-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Hauptstadt der Provinz Aragazotn.", "Liegt am Ufer des Flusses Kasach.", "Beherbergt die Karmrawor-Kirche aus dem 7. Jahrhundert.", "Die Einwohnerzahl beträgt etwa 18.000 Personen.", "Liegt auf einer Höhe von 1.110 Metern über dem Meeresspiegel.", "Erstmals im 9. Jahrhundert urkundlich erwähnt."],
+      hu: ["Aragacotn tartomány közigazgatási központja.", "A Kaszah-folyó partján helyezkedik el.", "Itt található a 7. századi Karmravor-templom.", "Lakossága körülbelül 18.000 fő.", "Tengerszint feletti magassága 1.110 méter.", "Az írott források először a 9. században említik."],
+      ro: ["Capitala provinciei administrative Aragatsotn.", "Situat pe malurile râului Kasagh.", "Găzduiește biserica Karmravor din secolul al VII-lea.", "Populația este de aproximativ 18.000 de locuitori.", "Altitudinea orașului este de 1.110 metri.", "Menționat pentru prima dată în secolul al IX-lea."],
+      en: ["Administrative capital of the Aragatsotn Province.", "Located on the banks of the Kasagh River.", "Home to the 7th-century Karmravor Church.", "Population is approximately 18,000 people.", "Elevation is 1,110 meters above sea level.", "First mentioned in written records in the 9th century."],
+    },
+  },
   {
     id: "armenia-sevan-cities-v2",
     type: "city",
@@ -629,7 +741,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Features the Sevanavank monastery on a peninsula.",
         "A major destination for summer tourism."
       ]
-    }, image: "/poi-images/armenia-sevan-cities-v2.webp"},
+    }, image: "/poi-images/armenia-sevan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1842 als Jelenowka.", "Liegt auf einer Höhe von 1.925 Metern.", "Befindet sich am Ufer des größten Sees im Kaukasus.", "Das Kloster Sewanawank wurde im Jahr 874 gegründet.", "Die Stadt hat etwa 19.000 Einwohner.", "Liegt etwa 65 Kilometer nördlich von Eriwan."],
+      hu: ["1842-ben alapították Jelenovka néven.", "1.925 méteres tengerszint feletti magasságban fekszik.", "A Kaukázus legnagyobb tavának partján található.", "A Szevanavank kolostort 874-ben alapították.", "A város lakossága körülbelül 19.000 fő.", "Jerevántól körülbelül 65 kilométerre északra található."],
+      ro: ["Fondat în anul 1842 sub numele de Yelenovka.", "Situat la o altitudine de 1.925 de metri.", "Se află pe malul celui mai mare lac din Caucaz.", "Mănăstirea Sevanavank a fost fondată în anul 874.", "Orașul are o populație de circa 19.000 de locuitori.", "Situat la aproximativ 65 de kilometri nord de Erevan."],
+      en: ["Founded in 1842 as Yelenovka.", "Located at an altitude of 1,925 meters.", "Situated on the shores of the largest lake in the Caucasus.", "Sevanavank Monastery was founded in the year 874.", "The town has about 19,000 inhabitants.", "Located approximately 65 kilometers north of Yerevan."],
+    },
+  },
   {
     id: "armenia-artik-cities-v2",
     type: "city",
@@ -666,7 +785,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "A major center for the extraction of pink tufa.",
         "Located on the slopes of Mount Aragats."
       ]
-    }, image: "/poi-images/armenia-artik-cities-v2.webp"},
+    }, image: "/poi-images/armenia-artik-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Zentrum des Tuffsteinabbaus in Armenien.", "Die Lmbatawank-Kirche stammt aus dem 7. Jahrhundert.", "Befindet sich in der Provinz Schirak.", "Liegt auf einer Höhe von etwa 1.800 Metern.", "Die Einwohnerzahl beträgt rund 17.000 Personen.", "Besitzt eine bedeutende Nekropole aus der Bronzezeit."],
+      hu: ["Örményország tufa-bányászatának központja.", "Az Lmbatavank-templom a 7. századból származik.", "A Sirak tartományban helyezkedik el.", "Körülbelül 1.800 méteres magasságban fekszik.", "A lakosság száma nagyjából 17.000 fő.", "Jelentős bronzkori nekropolisszal rendelkezik."],
+      ro: ["Centrul extracției de tuf din Armenia.", "Biserica Lmbatavank datează din secolul al VII-lea.", "Situat în provincia Shirak.", "Aflat la o altitudine de aproximativ 1.800 de metri.", "Populația este de circa 17.000 de persoane.", "Deține o necropolă importantă din epoca bronzului."],
+      en: ["Center of tuff stone quarrying in Armenia.", "Lmbatavank Church dates back to the 7th century.", "Located in the Shirak Province.", "Situated at an altitude of about 1,800 meters.", "Population is around 17,000 people.", "Features a significant Bronze Age necropolis."],
+    },
+  },
   {
     id: "armenia-dilijan-cities-v2",
     type: "city",
@@ -703,7 +829,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Home to the United World College Dilijan.",
         "Famous for its mineral water springs."
       ]
-    }, image: "/poi-images/armenia-dilijan-cities-v2.webp"},
+    }, image: "/poi-images/armenia-dilijan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Beherbergt den Dilidschan-Nationalpark, gegründet 1958.", "Standort des UWC Dilijan International School.", "Die jährliche Niederschlagsmenge beträgt etwa 640 mm.", "Das Kloster Haghardzin liegt 18 km von der Stadt entfernt.", "Liegt in der Provinz Tawusch auf bis zu 1.510 Metern.", "Bekannt für seine traditionelle Holzarchitektur."],
+      hu: ["Itt található az 1958-ban alapított Dilijan Nemzeti Park.", "Az UWC Dilijan nemzetközi iskola székhelye.", "Az éves csapadékmennyiség körülbelül 640 mm.", "A Haghartsin kolostor 18 km-re található a várostól.", "A Tavus tartományban, 1.510 méteres magasságig húzódik.", "Híres a hagyományos faépítészetéről."],
+      ro: ["Găzduiește Parcul Național Dilijan, fondat în 1958.", "Locația Școlii Internaționale UWC Dilijan.", "Precipitațiile anuale sunt de aproximativ 640 mm.", "Mănăstirea Haghartsin se află la 18 km de oraș.", "Situat în provincia Tavush la altitudini de până la 1.510 m.", "Cunoscut pentru arhitectura sa tradițională în lemn."],
+      en: ["Home to the Dilijan National Park, founded in 1958.", "Location of the UWC Dilijan International School.", "Annual rainfall is approximately 640 mm.", "Haghartsin Monastery is located 18 km from the city.", "Located in Tavush Province at up to 1,510 meters.", "Famous for its traditional wooden architecture."],
+    },
+  },
   {
     id: "armenia-sisian-cities-v2",
     type: "city",
@@ -740,7 +873,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Near the ancient Zorats Karer observatory.",
         "Famous for the nearby Shaki Waterfall."
       ]
-    }, image: "/poi-images/armenia-sisian-cities-v2.webp"},
+    }, image: "/poi-images/armenia-sisian-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Soraz Karer liegt nur 3 km von der Stadt entfernt.", "Die Sisawank-Kirche wurde im 7. Jahrhundert erbaut.", "Liegt auf einer Höhe von 1.600 Metern.", "Der Fluss Worotan fließt durch die Stadt.", "Die Einwohnerzahl liegt bei etwa 15.000.", "Bekannt für seine Textil- und Lebensmittelindustrie."],
+      hu: ["A Zorats Karer mindössze 3 km-re van a várostól.", "A Sisavank-templom a 7. században épült.", "1.600 méteres tengerszint feletti magasságban fekszik.", "A Vorotan-folyó keresztülfolyik a városon.", "A lakosság száma körülbelül 15.000 fő.", "Textil- és élelmiszeriparáról ismert."],
+      ro: ["Zorats Karer se află la doar 3 km de oraș.", "Biserica Sisavank a fost construită în secolul al VII-lea.", "Situat la o altitudine de 1.600 de metri.", "Râul Vorotan traversează orașul.", "Populația este de aproximativ 15.000 de locuitori.", "Cunoscut pentru industria sa textilă și alimentară."],
+      en: ["Zorats Karer is located only 3 km from the city.", "Sisavank Church was built in the 7th century.", "Located at an altitude of 1,600 meters.", "The Vorotan River flows through the city.", "Population is approximately 15,000 people.", "Known for its textile and food industries."],
+    },
+  },
   {
     id: "armenia-alaverdi-cities-v2",
     type: "city",
@@ -777,7 +917,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Features a famous 12th-century stone bridge.",
         "The nearby Sanahin monastery is a UNESCO site."
       ]
-    }, image: "/poi-images/armenia-alaverdi-cities-v2.webp"},
+    }, image: "/poi-images/armenia-alaverdi-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Bedeutendes Zentrum des Kupferbergbaus seit 1770.", "Liegt am Fluss Debed an der Grenze zu Georgien.", "Die Sanahin-Brücke wurde im Jahr 1195 errichtet.", "Befindet sich auf einer Höhe von etwa 1.000 Metern.", "Die Einwohnerzahl beträgt rund 13.000 Personen.", "Einst Standort einer der größten Kupferhütten der UdSSR."],
+      hu: ["1770 óta a rézbányászat jelentős központja.", "A Debed-folyó partján, a grúz határ közelében fekszik.", "A Sanahin-hidat 1195-ben építették.", "Körülbelül 1.000 méteres magasságban található.", "A lakosság száma mintegy 13.000 fő.", "Egykor a Szovjetunió egyik legnagyobb rézkohójának helyszíne."],
+      ro: ["Centru major al mineritului de cupru din 1770.", "Situat pe râul Debed, aproape de granița cu Georgia.", "Podul Sanahin a fost ridicat în anul 1195.", "Aflat la o altitudine de aproximativ 1.000 de metri.", "Populația este de circa 13.000 de persoane.", "Fostul sediu al uneia dintre cele mai mari topitorii de cupru din URSS."],
+      en: ["Major center of copper mining since 1770.", "Located on the Debed River near the Georgian border.", "The Sanahin Bridge was erected in 1195.", "Situated at an altitude of about 1,000 meters.", "Population is around 13,000 people.", "Once home to one of the largest copper smelters in the USSR."],
+    },
+  },
   {
     id: "armenia-stepanavan-cities-v2",
     type: "city",
@@ -814,7 +961,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Home to the Stepanavan Dendropark.",
         "Historically known as Jalaloghli."
       ]
-    }, image: "/poi-images/armenia-stepanavan-cities-v2.webp"},
+    }, image: "/poi-images/armenia-stepanavan-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1810.", "Die Festung Lori Berd stammt aus dem 11. Jahrhundert.", "Der Dendropark wurde 1933 gegründet.", "Liegt auf einer Höhe von 1.375 Metern.", "Die Einwohnerzahl liegt bei etwa 13.000.", "Wurde beim Erdbeben von 1988 schwer beschädigt."],
+      hu: ["1810-ben alapították.", "A Lori Berd erőd a 11. századból származik.", "A Dendroparkot 1933-ban hozták létre.", "1.375 méteres tengerszint feletti magasságban fekszik.", "A lakosság száma körülbelül 13.000 fő.", "Az 1988-as földrengés során súlyosan megrongálódott."],
+      ro: ["Fondat în anul 1810.", "Cetatea Lori Berd datează din secolul al XI-lea.", "Dendropark a fost înființat în 1933.", "Situat la o altitudine de 1.375 de metri.", "Populația este de aproximativ 13.000 de locuitori.", "A fost grav avariat în cutremurul din 1988."],
+      en: ["Founded in the year 1810.", "Lori Berd fortress dates to the 11th century.", "The Dendropark was established in 1933.", "Located at an altitude of 1,375 meters.", "Population is approximately 13,000 people.", "Severely damaged during the 1988 earthquake."],
+    },
+  },
   {
     id: "armenia-spitak-cities-v2",
     type: "city",
@@ -851,7 +1005,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "The epicenter of the devastating 1988 earthquake.",
         "The name Spitak means 'white' in Armenian."
       ]
-    }, image: "/poi-images/armenia-spitak-cities-v2.webp"},
+    }, image: "/poi-images/armenia-spitak-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Epizentrum des Erdbebens vom 7. Dezember 1988.", "Das Beben hatte eine Magnitude von 6,8.", "Die Stadt wurde komplett neu aufgebaut.", "Befindet sich in der Provinz Lori.", "Die Einwohnerzahl beträgt etwa 13.000 Personen.", "Hieß bis 1949 offiziell Hamamlu."],
+      hu: ["Az 1988. december 7-i földrengés epicentruma.", "A földrengés erőssége 6,8-as volt.", "A várost teljesen újjáépítették.", "Lori tartományban található.", "A lakosság száma körülbelül 13.000 fő.", "1949-ig hivatalosan Hamamlu volt a neve."],
+      ro: ["Epicentrul cutremurului din 7 decembrie 1988.", "Cutremurul a avut o magnitudine de 6,8.", "Orașul a fost reconstruit în întregime.", "Situat în provincia Lori.", "Populația este de aproximativ 13.000 de persoane.", "S-a numit oficial Hamamlu până în 1949."],
+      en: ["Epicenter of the December 7, 1988 earthquake.", "The earthquake had a magnitude of 6.8.", "The city was completely rebuilt.", "Located in the Lori Province.", "Population is approximately 13,000 people.", "Officially known as Hamamlu until 1949."],
+    },
+  },
   {
     id: "armenia-vardenis-cities-v2",
     type: "city",
@@ -888,7 +1049,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Known for farming and livestock.",
         "Historically part of the Sotk canton."
       ]
-    }, image: "/poi-images/armenia-vardenis-cities-v2.webp"},
+    }, image: "/poi-images/armenia-vardenis-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1830.", "Liegt auf einer Höhe von 2.003 Metern.", "Bedeutendes Zentrum für Goldbergbau.", "Die Einwohnerzahl beträgt rund 12.500.", "Befindet sich in der Provinz Gegharkunik.", "Hieß früher Vasakaschen und später Basargetschar."],
+      hu: ["1830-ban alapították.", "2.003 méteres tengerszint feletti magasságban fekszik.", "Az aranybányászat jelentős központja.", "A lakosság száma mintegy 12.500 fő.", "Gegharkunik tartományban található.", "Korábban Vasakashen, majd Basargechar volt a neve."],
+      ro: ["Fondat în anul 1830.", "Situat la o altitudine de 2.003 metri.", "Centru important pentru extracția de aur.", "Populația este de circa 12.500 de locuitori.", "Situat în provincia Gegharkunik.", "S-a numit anterior Vasakashen și ulterior Basargechar."],
+      en: ["Founded in the year 1830.", "Located at an altitude of 2,003 meters.", "Significant center for gold mining.", "Population is around 12,500 people.", "Situated in the Gegharkunik Province.", "Formerly known as Vasakashen and later Basargechar."],
+    },
+  },
   {
     id: "armenia-yeghegnadzor-cities-v2",
     type: "city",
@@ -925,7 +1093,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Capital of the Vayots Dzor Province.",
         "Close to the historic Areni-1 cave complex."
       ]
-    }, image: "/poi-images/armenia-yeghegnadzor-cities-v2.webp"},
+    }, image: "/poi-images/armenia-yeghegnadzor-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Hauptstadt der Provinz Wajoz Dsor.", "Die Gladzor-Universität wurde hier im 13. Jahrhundert gegründet.", "Liegt im fruchtbaren Tal des Flusses Arpa.", "Die Einwohnerzahl liegt bei etwa 7.500.", "Bekannt für seine Wein- und Käseproduktion.", "Liegt auf einer Höhe von 1.194 Metern."],
+      hu: ["Vayots Dzor tartomány fővárosa.", "A Gladzor Egyetemet itt alapították a 13. században.", "Az Arpa-folyó termékeny völgyében fekszik.", "A lakosság száma körülbelül 7.500 fő.", "Bor- és sajttermeléséről ismert.", "1.194 méteres tengerszint feletti magasságban található."],
+      ro: ["Capitala provinciei Vayots Dzor.", "Universitatea Gladzor a fost fondată aici în secolul al XIII-lea.", "Situat în valea fertilă a râului Arpa.", "Populația este de aproximativ 7.500 de locuitori.", "Cunoscut pentru producția de vin și brânză.", "Altitudinea orașului este de 1.194 de metri."],
+      en: ["Capital city of the Vayots Dzor Province.", "Gladzor University was founded here in the 13th century.", "Located in the fertile valley of the Arpa River.", "Population is approximately 7,500 people.", "Known for its wine and cheese production.", "Elevation is 1,194 meters above sea level."],
+    },
+  },
   {
     id: "armenia-yeghvard-cities-v2",
     type: "city",
@@ -962,7 +1137,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Known for its two-story medieval church.",
         "Surrounded by fertile agricultural lands."
       ]
-    }, image: "/poi-images/armenia-yeghvard-cities-v2.webp"},
+    }, image: "/poi-images/armenia-yeghvard-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Surb-Astvatsatsin-Kirche wurde 1321 fertiggestellt.", "Einer der ältesten durchgehend bewohnten Orte Armeniens.", "Liegt etwa 18 km nördlich von Eriwan.", "Die Einwohnerzahl beträgt etwa 12.000.", "Sitz großer Weingüter und Fabriken.", "Befindet sich auf einer Höhe von 1.330 Metern."],
+      hu: ["A Surb Astvatsatsin-templom 1321-ben készült el.", "Örményország egyik legrégebbi folyamatosan lakott helye.", "Jerevántól körülbelül 18 km-re északra fekszik.", "A lakosság száma körülbelül 12.000 fő.", "Nagy borászatok és gyárak székhelye.", "1.330 méteres tengerszint feletti magasságban található."],
+      ro: ["Biserica Surb Astvatsatsin a fost finalizată în 1321.", "Una dintre cele mai vechi localități locuite continuu din Armenia.", "Situat la aproximativ 18 km nord de Erevan.", "Populația este de circa 12.000 de locuitori.", "Sediul unor mari crame și fabrici.", "Aflat la o altitudine de 1.330 de metri."],
+      en: ["Surb Astvatsatsin Church was completed in 1321.", "One of the oldest continuously inhabited places in Armenia.", "Located about 18 km north of Yerevan.", "Population is approximately 12,000 people.", "Home to major wineries and factories.", "Situated at an altitude of 1,330 meters."],
+    },
+  },
   {
     id: "armenia-martuni-cities-v2",
     type: "city",
@@ -999,7 +1181,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "A major center for Lake Sevan's fishing industry.",
         "Named after the revolutionary Alexander Miasnikian."
       ]
-    }, image: "/poi-images/armenia-martuni-cities-v2.webp"},
+    }, image: "/poi-images/armenia-martuni-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Benannt nach Alexander Mjasnikjan.", "Liegt am Südufer des Sewansees.", "Befindet sich in der Provinz Gegharkunik.", "Die Einwohnerzahl beträgt rund 12.000.", "Liegt auf einer Höhe von 1.930 Metern.", "Hieß früher Mets Kznut."],
+      hu: ["Alexander Mjasnikjanról nevezték el.", "A Szevan-tó déli partján található.", "Gegharkunik tartományban fekszik.", "A lakosság száma mintegy 12.000 fő.", "1.930 méteres tengerszint feletti magasságban található.", "Korábban Mets Kznut volt a neve."],
+      ro: ["Numit după Alexander Myasnikyan.", "Situat pe malul sudic al lacului Sevan.", "Aflat în provincia Gegharkunik.", "Populația este de circa 12.000 de persoane.", "Situat la o altitudine de 1.930 de metri.", "S-a numit anterior Mets Kznut."],
+      en: ["Named after Alexander Myasnikyan.", "Located on the southern shore of Lake Sevan.", "Situated in the Gegharkunik Province.", "Population is around 12,000 people.", "Elevation is 1,930 meters above sea level.", "Formerly known as Mets Kznut."],
+    },
+  },
   {
     id: "armenia-metsamor-cities-v2",
     type: "city",
@@ -1036,7 +1225,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Home to the Armenian Nuclear Power Plant.",
         "Features an important Bronze Age archaeological site."
       ]
-    }, image: "/poi-images/armenia-metsamor-cities-v2.webp"},
+    }, image: "/poi-images/armenia-metsamor-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Sitz des einzigen Kernkraftwerks im Kaukasus.", "Das Kraftwerk wurde 1976 in Betrieb genommen.", "Die archäologische Stätte stammt aus dem 4. Jahrtausend v. Chr.", "Die Einwohnerzahl beträgt etwa 9.000.", "Befindet sich in der Provinz Armawir.", "Wurde als sowjetische Modellsiedlung geplant."],
+      hu: ["A Kaukázus egyetlen atomerőművének székhelye.", "Az erőművet 1976-ban helyezték üzembe.", "A régészeti lelőhely az i. e. 4. évezredből származik.", "A lakosság száma körülbelül 9.000 fő.", "Armavir tartományban található.", "Szovjet mintatelepülésként tervezték."],
+      ro: ["Sediul singurei centrale nucleare din Caucaz.", "Centrala a fost pusă în funcțiune în 1976.", "Situl arheologic datează din mileniul al IV-lea î.Hr.", "Populația este de aproximativ 9.000 de locuitori.", "Situat în provincia Armavir.", "Planificat ca o așezare model sovietică."],
+      en: ["Home to the only nuclear power plant in the Caucasus.", "The power plant was commissioned in 1976.", "The archaeological site dates back to the 4th millennium BC.", "Population is approximately 9,000 people.", "Located in the Armavir Province.", "Planned as a Soviet model settlement."],
+    },
+  },
   {
     id: "armenia-tashir-cities-v2",
     type: "city",
@@ -1073,7 +1269,14 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "Formerly known as Kalinino.",
         "Famous for producing high-quality Lori cheese."
       ]
-    }, image: "/poi-images/armenia-tashir-cities-v2.webp"},
+    }, image: "/poi-images/armenia-tashir-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1844 als Woronzowka.", "Liegt auf einer Höhe von 1.500 Metern.", "Bedeutendes Zentrum der Käseherstellung.", "Befindet sich in der Provinz Lori.", "Die Einwohnerzahl liegt bei etwa 7.500.", "Hieß von 1935 bis 1991 Kalinino."],
+      hu: ["1844-ben alapították Voroncovka néven.", "1.500 méteres tengerszint feletti magasságban fekszik.", "A sajtgyártás jelentős központja.", "Lori tartományban található.", "A lakosság száma körülbelül 7.500 fő.", "1935 és 1991 között Kalinino volt a neve."],
+      ro: ["Fondat în anul 1844 sub numele de Vorontsovka.", "Situat la o altitudine de 1.500 de metri.", "Centru important al producției de brânză.", "Situat în provincia Lori.", "Populația este de aproximativ 7.500 de locuitori.", "S-a numit Kalinino între anii 1935 și 1991."],
+      en: ["Founded in 1844 as Vorontsovka.", "Located at an altitude of 1,500 meters.", "Major center for cheese production.", "Situated in the Lori Province.", "Population is approximately 7,500 people.", "Known as Kalinino from 1935 to 1991."],
+    },
+  },
   {
     id: "armenia-vayk-cities-v2",
     type: "city",
@@ -1110,6 +1313,12 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
         "A major transit point on the road to Iran.",
         "Renamed from Azizbekov in 1990."
       ]
-    }
+    },
+    factsAdvanced: {
+      de: ["Liegt an der strategischen Autobahn M-2.", "Gegründet im Jahr 1828 nach dem russisch-persischen Krieg.", "Befindet sich am Ufer des Flusses Arpa.", "Die Einwohnerzahl beträgt etwa 5.800.", "Liegt auf einer Höhe von 1.300 Metern.", "Wurde 1994 von einer Siedlung zur Stadt erhoben."],
+      hu: ["A stratégiai fontosságú M-2-es autópálya mentén fekszik.", "1828-ban alapították az orosz-perzsa háború után.", "Az Arpa-folyó partján található.", "A lakosság száma körülbelül 5.800 fő.", "1.300 méteres tengerszint feletti magasságban fekszik.", "1994-ben kapott városi rangot."],
+      ro: ["Situat pe autostrada strategică M-2.", "Fondat în 1828 după războiul ruso-persan.", "Se află pe malul râului Arpa.", "Populația este de aproximativ 5.800 de locuitori.", "Situat la o altitudine de 1.300 de metri.", "A primit statutul de oraș în anul 1994."],
+      en: ["Located on the strategic M-2 highway.", "Founded in 1828 after the Russo-Persian War.", "Situated on the banks of the Arpa River.", "Population is approximately 5,800 people.", "Elevation is 1,300 meters above sea level.", "Granted city status in the year 1994."],
+    },
   }
 ];

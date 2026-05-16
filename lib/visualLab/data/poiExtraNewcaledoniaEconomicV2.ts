@@ -19,6 +19,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Founded in 1910", "Operated by the SLN company", "Major industrial employer in Noumea", "Annual capacity of 50,000 tons of nickel"],
     },
     imageHint: "Industrial Doniambo nickel plant in Noumea harbor",
+    descriptionAdvanced: {
+      de: "Die Doniambo-Hütte ist das industrielle Herz von Nouméa und eine der weltweit bedeutendsten Anlagen zur Nickelverarbeitung. Seit 1910 wird hier Nickel für den Weltmarkt geschmolzen, betrieben von der Société Le Nickel (SLN). Das Werk prägt mit seinen Schornsteinen und Hafenanlagen das Stadtbild im Westen.",
+      hu: "A doniambói kohó Nouméa ipari szíve és a világ egyik legjelentősebb nikkel-feldolgozó üzeme. 1910 óta folyik itt a nikkel olvasztása a világpiac számára, a Société Le Nickel (SLN) üzemeltetésében. A gyár kéményeivel és kikötői létesítményeivel meghatározza a nyugati városképet.",
+      ro: "Uzina Doniambo este inima industrială a orașului Nouméa și una dintre cele mai importante unități de procesare a nichelului din lume. Din 1910, aici se topește nichel pentru piața mondială, fiind operată de Société Le Nickel (SLN). Fabrica domină peisajul urban din vest cu hornurile și instalațiile portuare.",
+      en: "The Doniambo Smelter is the industrial heart of Nouméa and one of the world's most significant nickel processing plants. Since 1910, it has been smelting nickel for the global market, operated by Société Le Nickel (SLN). The plant shapes the western city skyline with its chimneys and port facilities.",
+    },
+    factsAdvanced: {
+      de: ["Industriebetrieb im Jahr 1910 gegründet", "Betrieben von der Société Le Nickel (SLN)", "Produziert jährlich ca. 50.000 Tonnen Nickel", "Höchster Schornstein misst 105 Meter", "Besitzt einen eigenen Tiefwasserhafen", "Wichtigster Arbeitgeber der Stadt Nouméa"],
+      hu: ["Az ipari létesítményt 1910-ben alapították", "A Société Le Nickel (SLN) üzemelteti", "Évente kb. 50 000 tonna nikkelt termel", "Legmagasabb kéménye 105 méter", "Saját mélyvízi kikötővel rendelkezik", "Nouméa városának legfontosabb munkaadója"],
+      ro: ["Unitatea industrială a fost fondată în 1910", "Operată de Société Le Nickel (SLN)", "Produce anual circa 50.000 de tone de nichel", "Cel mai înalt horn măsoară 105 metri", "Deține propriul port de mare adâncime", "Cel mai important angajator din orașul Nouméa"],
+      en: ["Industrial facility founded in 1910", "Operated by Société Le Nickel (SLN)", "Produces about 50,000 tons of nickel annually", "The tallest chimney measures 105 meters", "Equipped with its own deep-water port", "Key employer in the city of Nouméa"],
+    },
   },
   {
     id: "newcaledonia-port-of-noumea-economic-v2",
@@ -38,6 +50,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Main gateway for foreign trade", "Equipped with modern container terminals", "Headquarters of the Port Authority", "Frequent stop for large cruise ships"],
     },
     imageHint: "Container ships at the Port of Noumea",
+    descriptionAdvanced: {
+      de: "Der Hafen von Nouméa ist der wichtigste Handelsknotenpunkt Neukaledoniens und wird vom Port Autonome verwaltet. Er umfasst einen Industriehafen, einen Containerterminal und Anlegestellen für Kreuzfahrtschiffe. Der Hafen spielt eine entscheidende Rolle beim Export von Nickelerzen und beim Import von Konsumgütern für das gesamte Territorium.",
+      hu: "Nouméa kikötője Új-Kaledónia legfontosabb kereskedelmi csomópontja, amelyet a Port Autonome de la Nouvelle-Calédonie kezel. Magában foglal egy ipari kikötőt, egy konténerterminált és tengerjáró hajók fogadására alkalmas mólókat. Meghatározó szerepet tölt be a nikkelérc exportjában és az alapvető fogyasztási cikkek importjában.",
+      ro: "Portul Nouméa este principalul nod comercial al Noii Caledonii, administrat de Port Autonome. Acesta cuprinde un port industrial, un terminal de containere și dane pentru nave de croazieră. Portul joacă un rol crucial în exportul minereului de nichel și în importul bunurilor de larg consum pentru întregul teritoriu.",
+      en: "The Port of Noumea is the primary commercial hub of New Caledonia, managed by the Port Autonome. It features an industrial port, a container terminal, and berths for cruise ships. The port plays a vital role in the export of nickel ore and the import of consumer goods for the entire territory.",
+    },
+    factsAdvanced: {
+      de: ["Gründung des Port Autonome im Jahr 1968.", "Wichtigster Exporthafen für verarbeitetes Nickel.", "Verfügt über eine Kailänge von über 1.000 Metern.", "Empfängt jährlich über 500 Handelsschiffe.", "Zentrum für den Warenverteilverkehr im Pazifik.", "Umschlagplatz für Treibstoffe und schwere Maschinen."],
+      hu: ["A Port Autonome-ot 1968-ban alapították.", "A feldolgozott nikkel legfontosabb exportkikötője.", "A rakpart hossza meghaladja az 1000 métert.", "Évente több mint 500 kereskedelmi hajót fogad.", "A csendes-óceáni áruelosztás központja.", "Üzemanyag és nehézgépek fő rakodóhelye."],
+      ro: ["Port Autonome a fost înființat în anul 1968.", "Principalul port de export pentru nichelul prelucrat.", "Dispune de o lungime a cheiului de peste 1.000 de metri.", "Primește anual peste 500 de nave comerciale.", "Centru de distribuție a mărfurilor în Pacific.", "Punct de transbordare pentru combustibili și utilaje grele."],
+      en: ["The Port Autonome was established in 1968.", "Main export port for processed nickel products.", "Features a total quay length exceeding 1,000 meters.", "Receives over 500 commercial vessels annually.", "Central hub for cargo distribution in the South Pacific.", "Primary entry point for fuel and heavy machinery."],
+    },
   },
   {
     id: "newcaledonia-goro-nickel-plant-economic-v2",
@@ -57,6 +81,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Uses HPAL technology", "Supplies nickel for electric car batteries", "Located in the South Province", "Commenced operations in 2010"],
     },
     imageHint: "Aerial view of the Goro nickel processing plant",
+    descriptionAdvanced: {
+      de: "Das Goro-Nickelwerk im Süden von Grande Terre ist eine der weltweit größten hydrometallurgischen Anlagen. Es wird von Prony Resources betrieben und konzentriert sich auf die Gewinnung von Nickel und Kobalt. Die Anlage nutzt ein Hochdruck-Säure-Auslaugungsverfahren zur Verarbeitung von Lateriterzen aus der nahegelegenen Lagerstätte.",
+      hu: "A Grande Terre déli részén található Goro nikkelüzem a világ egyik legnagyobb hidrometallurgiai létesítménye. A Prony Resources által üzemeltetett gyár nikkel és kobalt kinyerésére specializálódott. Az üzem nagynyomású savas lúgozási eljárást alkalmaz a közeli lelőhelyekről származó lateritércek feldolgozására.",
+      ro: "Uzina de nichel Goro, situată în sudul insulei Grande Terre, este una dintre cele mai mari unități hidrometalurgice din lume. Operată de Prony Resources, aceasta se concentrează pe extracția nichelului și a cobaltului. Instalația folosește un proces de lixiviere acidă la înaltă presiune pentru prelucrarea minereurilor lateritice.",
+      en: "The Goro Nickel Plant, located in the south of Grande Terre, is one of the world's largest hydrometallurgical facilities. Operated by Prony Resources, it focuses on the extraction of nickel and cobalt. The plant utilizes a High-Pressure Acid Leach (HPAL) process to process laterite ores from the nearby deposit.",
+    },
+    factsAdvanced: {
+      de: ["Produktionskapazität von ca. 40.000 Tonnen Nickel pro Jahr.", "Gewinnung von Kobalt als wertvolles Nebenprodukt.", "Nutzung der HPAL-Technologie seit der Inbetriebnahme.", "Beschäftigt direkt über 1.200 Mitarbeiter.", "Wichtigster Lieferant für die Batterieindustrie.", "Investitionskosten von über 4 Milliarden US-Dollar."],
+      hu: ["Évi kb. 40 000 tonna nikkel termelési kapacitás.", "Kobalt kinyerése értékes melléktermékként.", "A HPAL technológia alkalmazása az indulás óta.", "Közvetlenül több mint 1200 munkavállalót foglalkoztat.", "Az akkumulátoripar egyik kulcsfontosságú beszállítója.", "A beruházási költség meghaladta a 4 milliárd dollárt."],
+      ro: ["Capacitate de producție de aprox. 40.000 tone de nichel anual.", "Extracția cobaltului ca subprodus valoros.", "Utilizarea tehnologiei HPAL de la punerea în funcțiune.", "Angajează direct peste 1.200 de persoane.", "Furnizor cheie pentru industria bateriilor electrice.", "Costuri de investiție de peste 4 miliarde de dolari."],
+      en: ["Production capacity of approx. 40,000 tonnes of nickel per year.", "Extraction of cobalt as a valuable by-product.", "Uses HPAL technology since the start of operations.", "Employs directly over 1,200 people.", "Key supplier for the electric vehicle battery industry.", "Total investment costs exceeded 4 billion US dollars."],
+    },
   },
   {
     id: "newcaledonia-koniambo-nickel-plant-economic-v2",
@@ -76,6 +112,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Partnership between SMSP and Glencore", "Has its own power plant", "Extracts ore from the Koniambo massif", "Significant infrastructure investment"],
     },
     imageHint: "Modern industrial architecture of Koniambo Nickel plant",
+    descriptionAdvanced: {
+      de: "Das Koniambo-Nickelwerk bei Koné ist das industrielle Herzstück der Nordprovinz Neukaledoniens. Das Projekt wurde als Joint Venture zwischen der SMSP und Glencore entwickelt, um das wirtschaftliche Gleichgewicht des Territoriums zu fördern. Die Anlage nutzt moderne pyrometallurgische Verfahren zur Verarbeitung von Saproliterzen aus dem Koniambo-Massiv.",
+      hu: "A Koné közelében található Koniambo nikkelüzem Új-Kaledónia északi tartományának ipari központja. A projekt az SMSP és a Glencore vegyesvállalataként jött létre a terület gazdasági egyensúlyának előmozdítása érdekében. A létesítmény modern pirometallurgiai eljárásokat alkalmaz a Koniambo-masszívumból származó szaprolitércek feldolgozására.",
+      ro: "Uzina de nichel Koniambo, de lângă Koné, reprezintă nucleul industrial al Provinciei de Nord a Noii Caledonii. Proiectul a fost dezvoltat ca un parteneriat între SMSP și Glencore pentru a promova echilibrul economic al teritoriului. Instalația utilizează procese pirometalurgice moderne pentru prelucrarea minereurilor de saprolit.",
+      en: "The Koniambo Nickel Plant near Kone is the industrial centerpiece of New Caledonia's North Province. The project was developed as a joint venture between SMSP and Glencore to promote the territory's economic rebalancing. The facility utilizes modern pyrometallurgical processes to process saprolite ores from the Koniambo massif.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme der ersten Produktionslinie im Jahr 2013.", "Zwei elektrische Schmelzöfen zur Ferronickel-Produktion.", "Bau einer 11 Kilometer langen Förderbandanlage.", "Eigener Tiefseehafen in Vavouto für den Export.", "Stromversorgung durch ein eigenes Kohlekraftwerk.", "Mehrheitsbeteiligung (51%) durch die lokale SMSP."],
+      hu: ["Az első gyártósor 2013-as üzembe helyezése.", "Két elektromos kemence ferronikkel gyártásához.", "11 kilométer hosszú szállítószalag-rendszer kiépítése.", "Saját mélyvízi kikötő Vavoutóban az exporthoz.", "Saját szénerőmű biztosítja az energiaellátást.", "A helyi SMSP 51%-os többségi tulajdonnal rendelkezik."],
+      ro: ["Punerea în funcțiune a primei linii de producție în 2013.", "Două cuptoare electrice pentru producția de feronichel.", "Construcția unui sistem de benzi transportoare de 11 km.", "Port propriu de adâncime la Vavouto pentru export.", "Alimentare cu energie prin propria centrală pe cărbune.", "Deținere majoritară (51%) de către compania locală SMSP."],
+      en: ["Commissioning of the first production line in 2013.", "Two electric furnaces for ferronickel production.", "Construction of an 11-kilometer long conveyor belt system.", "Dedicated deep-water port at Vavouto for exports.", "Power supply provided by an on-site coal power plant.", "Majority ownership (51%) held by the local SMSP."],
+    },
   },
   {
     id: "newcaledonia-thio-nickel-mines-economic-v2",
@@ -95,6 +143,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Oldest active mine in the country", "Historical center of the SLN company", "Famous plateau open-cast mines", "Shaping the local economy since 1880"],
     },
     imageHint: "Open-pit nickel mine on a mountain in Thio",
+    descriptionAdvanced: {
+      de: "Thio ist der historische Geburtsort des Nickelabbaus in Neukaledonien, wobei die ersten Minen bereits 1875 eröffnet wurden. Die Minen auf dem Plateau und in Camp des Sapins werden von der Société Le Nickel betrieben. Dieser Standort ist für die Entwicklung der lokalen Bergbaukultur und der technischen Expertise des Territoriums von zentraler Bedeutung.",
+      hu: "Thio az új-kaledóniai nikkelbányászat történelmi szülőhelye, ahol az első bányák már 1875-ben megnyíltak. A Plateau és Camp des Sapins lelőhelyeket a Société Le Nickel üzemelteti. Ez a helyszín központi szerepet játszott a helyi bányászati kultúra és a terület technikai szakértelmének fejlődésében.",
+      ro: "Thio este locul istoric de naștere al mineritului de nichel în Noua Caledonie, primele mine fiind deschise încă din 1875. Minele de pe platou și din Camp des Sapins sunt operate de Société Le Nickel. Această locație este esențială pentru dezvoltarea culturii miniere locale și a expertizei tehnice a teritoriului.",
+      en: "Thio is the historical birthplace of nickel mining in New Caledonia, with the first mines opening as early as 1875. The mines on the Plateau and at Camp des Sapins are operated by Société Le Nickel (SLN). This site is central to the development of local mining culture and the territory's technical expertise.",
+    },
+    factsAdvanced: {
+      de: ["Erster Export von Nickelerz im Jahr 1875.", "Heimat des Nickel-Museums von Thio.", "Betrieb durch die SLN seit über einem Jahrhundert.", "Bekannt für das 13 km lange Förderband 'Serpentine'.", "Lage an der Ostküste von Grande Terre.", "Abbau von hochwertigem Saproliterz."],
+      hu: ["Az első nikkelérc-export 1875-ben történt.", "A thiói Nikkelmúzeum otthona.", "Az SLN több mint egy évszázada üzemelteti.", "Híres a 13 km hosszú 'Serpentine' szállítószalagról.", "Grande Terre keleti partján található.", "Kiváló minőségű szaprolitérc kitermelése."],
+      ro: ["Primul export de minereu de nichel în 1875.", "Găzduiește Muzeul Nichelului din Thio.", "Operat de SLN de peste un secol.", "Cunoscut pentru banda transportoare 'Serpentine' de 13 km.", "Situat pe coasta de est a insulei Grande Terre.", "Extracția minereului de saprolit de înaltă calitate."],
+      en: ["First export of nickel ore occurred in 1875.", "Home to the Thio Nickel Museum.", "Operated by SLN for over a century.", "Famous for the 13-km long 'Serpentine' conveyor belt.", "Located on the east coast of Grande Terre.", "Mining of high-grade saprolite ore."],
+    },
   },
   {
     id: "newcaledonia-yate-dam-economic-v2",
@@ -114,6 +174,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Stands 45 meters high", "Completed in 1959", "Feeds the artificial Yate Lake", "Generates clean power for the SLN plant"],
     },
     imageHint: "Large concrete Yate Dam with water reservoir",
+    descriptionAdvanced: {
+      de: "Die Yaté-Talsperre ist die wichtigste Quelle für erneuerbare Energie in Neukaledonien und versorgt vor allem die Nickelschmelze in Nouméa. Das 1959 fertiggestellte Bauwerk staut den künstlichen Yaté-See auf einer Fläche von 40 Quadratkilometern an. Das Wasserkraftwerk spielt eine strategische Rolle für die industrielle Energieunabhängigkeit des Territoriums.",
+      hu: "A Yaté-gát Új-Kaledónia legfontosabb megújuló energiaforrása, amely elsősorban a nouméai nikkelolvasztót látja el árammal. Az 1959-ben elkészült építmény a 40 négyzetkilométeres mesterséges Yaté-tavat duzzasztja fel. A vízerőmű stratégiai szerepet játszik a terület ipari energiafüggetlenségében.",
+      ro: "Barajul Yaté este cea mai importantă sursă de energie regenerabilă din Noua Caledonie, alimentând în principal topitoria de nichel din Nouméa. Finalizată în 1959, structura formează lacul artificial Yaté, cu o suprafață de 40 de kilometri pătrați. Hidrocentrala joacă un rol strategic în independența energetică industrială.",
+      en: "The Yate Dam is the most significant source of renewable energy in New Caledonia, primarily supplying power to the nickel smelter in Noumea. Completed in 1959, the structure impounds the artificial Yate Lake, covering an area of 40 square kilometers. The hydroelectric plant plays a strategic role in the territory's industrial energy independence.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit von 1955 bis 1959.", "Installierte Leistung von 68 Megawatt.", "Höhe der Staumauer beträgt 45 Meter.", "Versorgt das Doniambo-Werk der SLN mit Strom.", "Bildet den größten See Neukaledoniens.", "Teil der Diversifizierung des Energiemixes."],
+      hu: ["Építése 1955-től 1959-ig tartott.", "Beépített teljesítménye 68 megawatt.", "A gát magassága 45 méter.", "Árammal látja el az SLN Doniambo üzemét.", "Új-Kaledónia legnagyobb tavát alkotja.", "Az energiamix diverzifikálásának kulcsfontosságú eleme."],
+      ro: ["Construit între anii 1955 și 1959.", "Putere instalată de 68 de megawați.", "Înălțimea barajului este de 45 de metri.", "Alimentează cu electricitate uzina Doniambo a SLN.", "Formează cel mai mare lac din Noua Caledonie.", "Parte a strategiei de diversificare a mixului energetic."],
+      en: ["Built between 1955 and 1959.", "Installed capacity of 68 megawatts.", "The dam wall stands 45 meters high.", "Supplies electricity to SLN's Doniambo plant.", "Creates the largest lake in New Caledonia.", "Key component in diversifying the energy mix."],
+    },
   },
   {
     id: "newcaledonia-kouaoua-serpentine-economic-v2",
@@ -133,6 +205,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["World's longest conveyor belt", "Saves significant truck fuel costs", "Traverses steep mountain terrain", "Symbol of mining engineering innovation"],
     },
     imageHint: "Long conveyor belt running through green hills in Kouaoua",
+    descriptionAdvanced: {
+      de: "Die 'Serpentine' von Kouaoua ist ein technisches Meisterwerk des Bergbaus an der Ostküste Neukaledoniens. Dieses elf Kilometer lange Förderband transportiert Nickelerz direkt von den Höhen der Minen zum Hafen von Kouaoua. Die Anlage überwindet steiles Gelände und minimiert den Lkw-Verkehr, was die Effizienz der Société Le Nickel erheblich steigert.",
+      hu: "A kouaouai 'Serpentine' az új-kaledóniai keleti part bányászatának technikai remekműve. Ez a tizenegy kilométer hosszú szállítószalag a nikkelércet közvetlenül a bányák magaslatairól szállítja Kouaoua kikötőjébe. A létesítmény meredek terepen halad át, minimalizálva a teherautó-forgalmat és növelve a Société Le Nickel hatékonyságát.",
+      ro: "'Serpentine' din Kouaoua este o capodoperă tehnică a mineritului de pe coasta de est a Noii Caledonii. Această bandă transportoare de unsprezece kilometri transportă minereul de nichel direct de la minele de înălțime către portul Kouaoua. Instalația traversează terenuri abrupte, minimizând traficul de camioane și crescând eficiența SLN.",
+      en: "The 'Serpentine' of Kouaoua is a technical masterpiece of mining on New Caledonia's east coast. This eleven-kilometer-long conveyor belt transports nickel ore directly from the high-altitude mines to the port of Kouaoua. The facility traverses steep terrain, minimizing truck traffic and significantly increasing the efficiency of SLN operations.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge von 11 Kilometern.", "Inbetriebnahme im Jahr 1978.", "Besteht aus mehreren miteinander verbundenen Abschnitten.", "Transportiert bis zu 800 Tonnen Erz pro Stunde.", "Führt direkt zur Schiffsverladestation im Hafen.", "Einzigartige Lösung für schwieriges Küstenterrain."],
+      hu: ["Teljes hossza 11 kilométer.", "1978-ban helyezték üzembe.", "Több egymáshoz kapcsolódó szakaszból áll.", "Óránként akár 800 tonna ércet is szállíthat.", "Közvetlenül a kikötői hajórakodóhoz vezet.", "Egyedülálló megoldás a nehéz partmenti terepen."],
+      ro: ["Lungime totală de 11 kilometri.", "Pusă în funcțiune în anul 1978.", "Formată din mai multe secțiuni interconectate.", "Transportă până la 800 de tone de minereu pe oră.", "Conduce direct la terminalul de încărcare a navelor.", "Soluție unică pentru terenul de coastă dificil."],
+      en: ["Total length of 11 kilometers.", "Commissioned in 1978.", "Consists of several interconnected sections.", "Transports up to 800 tonnes of ore per hour.", "Leads directly to the ship loading terminal.", "Unique solution for difficult coastal terrain."],
+    },
   },
   {
     id: "newcaledonia-nepoui-nickel-port-economic-v2",
@@ -152,6 +236,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Specialized in bulk ore handling", "Key operational base for SLN", "Enables large-scale mineral exports", "Located in the commune of Poya"],
     },
     imageHint: "Bulk carrier ship loading nickel ore at Nepoui port",
+    descriptionAdvanced: {
+      de: "Der Nickelhafen von Népoui an der Westküste ist ein spezialisierter Logistikstandort für die Verschiffung von Erzen aus den umliegenden Minen wie Kopéto. Er wird von der Société Le Nickel betrieben und verfügt über spezielle Verladeanlagen für Massengutschiffe. Der Hafen ist entscheidend für den Transport des Rohmaterials zur Schmelzhütte Doniambo in Nouméa.",
+      hu: "A nyugati parton fekvő Népoui nikkelkikötője a környező bányákból, például Kopétóból származó ércek szállítására szakosodott logisztikai központ. A Société Le Nickel által üzemeltetett kikötő speciális rakodóberendezésekkel rendelkezik az ömlesztettáru-szállító hajók számára. Kulcsszerepet játszik az alapanyag Nouméába történő szállításában.",
+      ro: "Portul de nichel Népoui, situat pe coasta de vest, este un sit logistic specializat pentru expedierea minereurilor de la minele din apropiere, precum Kopéto. Operat de SLN, acesta dispune de instalații de încărcare dedicate pentru navele vrachiere. Portul este esențial pentru transportul materiei prime către topitoria Doniambo din Nouméa.",
+      en: "The Nepoui Nickel Port on the west coast is a specialized logistics site for shipping ores from surrounding mines like Kopeto. Operated by SLN, it features dedicated loading facilities for bulk carriers. The port is crucial for transporting raw material to the Doniambo smelter in Noumea.",
+    },
+    factsAdvanced: {
+      de: ["Wichtigster Verschiffungspunkt an der Westküste.", "Verladestation für Erze aus dem Kopéto-Massiv.", "Regelmäßige Verbindungen zum Hafen von Nouméa.", "Verfügt über Lagerkapazitäten für große Erzmengen.", "Modernisierung der Verladeanlagen in den 2000er Jahren.", "Basis für spezialisierte Bergbau-Logistikschiffe."],
+      hu: ["A nyugati part legfontosabb berakodóhelye.", "A Kopéto-masszívumból származó érc rakodóállomása.", "Rendszeres járatok Nouméa kikötőjébe.", "Nagy mennyiségű érc tárolására alkalmas kapacitás.", "A rakodóberendezések modernizálása a 2000-es években.", "Speciális bányászati logisztikai hajók bázisa."],
+      ro: ["Principalul punct de expediere de pe coasta de vest.", "Stație de încărcare pentru minereul din masivul Kopéto.", "Legături regulate cu portul din Nouméa.", "Dispune de capacități de stocare pentru cantități mari.", "Modernizarea instalațiilor de încărcare în anii 2000.", "Bază pentru nave specializate în logistică minieră."],
+      en: ["Main shipping point on the west coast.", "Loading station for ores from the Kopeto massif.", "Regular shipping links to the Port of Noumea.", "Features storage capacities for large ore volumes.", "Modernization of loading facilities in the 2000s.", "Base for specialized mining logistics vessels."],
+    },
   },
   {
     id: "newcaledonia-poro-mining-center-economic-v2",
@@ -171,6 +267,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Located near Houailou", "Major deposit of laterite ore", "Features its own harbor facilities", "Employs hundreds of local workers"],
     },
     imageHint: "Mining activity and machinery at Poro mining site",
+    descriptionAdvanced: {
+      de: "Das Bergbauzentrum Poro bei Houaïlou ist einer der bedeutendsten Standorte der Société Le Nickel an der Ostküste. Es umfasst mehrere Abbaugebiete, in denen sowohl Laterit- als auch Saproliterze gewonnen werden. Das Zentrum ist ein wichtiger Arbeitgeber in der Region und verfügt über eine eigene Infrastruktur zur Aufbereitung und Verschiffung der Erze.",
+      hu: "A Houaïlou közelében található Poro bányászati központ a Société Le Nickel egyik legjelentősebb telephelye a keleti parton. Több kitermelési területet foglal magában, ahol laterit- és szaprolitérceket egyaránt bányásznak. A központ a régió fontos foglalkoztatója, saját infrastruktúrával rendelkezik az ércek előkészítéséhez és szállításához.",
+      ro: "Centrul minier Poro, de lângă Houaïlou, este unul dintre cele mai importante situri ale SLN de pe coasta de est. Acesta cuprinde mai multe zone de extracție unde sunt exploatate atât lateritul, cât și saprolitul. Centrul este un angajator major în regiune și dispune de infrastructură proprie pentru pregătirea și expedierea minereului.",
+      en: "The Poro Mining Center near Houailou is one of SLN's most significant sites on the east coast. It encompasses several extraction areas where both laterite and saprolite ores are mined. The center is a major employer in the region and features its own infrastructure for ore preparation and shipping.",
+    },
+    factsAdvanced: {
+      de: ["Seit Jahrzehnten in Betrieb durch die SLN.", "Verfügt über ein eigenes Verladeterminal am Meer.", "Abbaugebiete erstrecken sich über weite Höhenzüge.", "Integrierte Werkstätten für schwere Bergbaugeräte.", "Wichtiger Ausbildungsstandort für lokale Bergleute.", "Zentrum für die Nickelgewinnung in der Region Houaïlou."],
+      hu: ["Az SLN évtizedek óta üzemelteti.", "Saját tengerparti rakodóterminállal rendelkezik.", "A kitermelési területek hatalmas hegyvonulatokon húzódnak.", "Integrált műhelyek nehéz bányagépek számára.", "A helyi bányászok fontos képzési központja.", "A Houaïlou régió nikkelkitermelésének központja."],
+      ro: ["Operat de SLN de câteva decenii.", "Dispune de propriul terminal de încărcare la mare.", "Zonele de extracție se întind pe creste vaste.", "Ateliere integrate pentru utilaje miniere grele.", "Loc important de formare pentru minerii locali.", "Centru pentru extracția nichelului în regiunea Houaïlou."],
+      en: ["Operated by SLN for several decades.", "Features its own maritime loading terminal.", "Extraction areas extend across vast ridges.", "Integrated workshops for heavy mining equipment.", "Important training site for local miners.", "Hub for nickel extraction in the Houailou region."],
+    },
   },
   {
     id: "newcaledonia-kopeto-mine-economic-v2",
@@ -190,6 +298,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Located at over 1,000 meters altitude", "Key resource for the SLN company", "Challenging logistical conditions", "Part of the Nepoui-Kopeto complex"],
     },
     imageHint: "High altitude open-cut mine on Kopeto mountain",
+    descriptionAdvanced: {
+      de: "Die Kopéto-Mine ist eine bedeutende Nickel-Lagerstätte im Zentrum-Westen von Grande Terre. Sie zeichnet sich durch ihre Lage in großer Höhe und die Qualität der dort gewonnenen Saproliterze aus. Der Betrieb erfordert eine komplexe Logistik, einschließlich des Transports der Erze über Bergstraßen zum Verladehafen von Népoui.",
+      hu: "A Kopéto-bánya jelentős nikkellelőhely Grande Terre középső-nyugati részén. Magaslati fekvése és az ott kitermelt szaprolitércek minősége jellemzi. Az üzemeltetés komplex logisztikát igényel, beleértve az érc hegyi utakon történő szállítását Népoui rakodókikötőjébe.",
+      ro: "Mina Kopéto este un zăcământ semnificativ de nichel situat în centrul-vestul insulei Grande Terre. Se caracterizează prin locația sa la mare altitudine și calitatea minereurilor de saprolit extrase. Operațiunea necesită o logistică complexă, inclusiv transportul minereului pe drumuri montane către portul Népoui.",
+      en: "The Kopeto Mine is a significant nickel deposit in the west-central part of Grande Terre. It is characterized by its high-altitude location and the quality of the saprolite ores extracted there. Operations require complex logistics, including the transport of ore via mountain roads to the loading port of Nepoui.",
+    },
+    factsAdvanced: {
+      de: ["Lage auf dem Kopéto-Massiv über 800 Meter Höhe.", "Hauptlieferant für den Hafen von Népoui.", "Abbau von hochwertigem Saprolit für Ferronickel.", "Einsatz von Großmuldenkippern für den Transport.", "Kontinuierliche Exploration neuer Erzadern.", "Strategisch wichtig für die Produktion der SLN."],
+      hu: ["A Kopéto-masszívumon, 800 méter feletti magasságban.", "A népouii kikötő fő beszállítója.", "Kiváló minőségű szaprolit bányászata ferronikkelt gyártáshoz.", "Óriás dömper teherautók alkalmazása a szállításhoz.", "Új ércerek folyamatos kutatása.", "Stratégiailag fontos az SLN termelése szempontjából."],
+      ro: ["Situată pe masivul Kopéto la peste 800 de metri altitudine.", "Furnizorul principal pentru portul Népoui.", "Extracția saprolitului de înaltă calitate pentru feronichel.", "Utilizarea basculantelor de mare tonaj pentru transport.", "Explorare continuă pentru noi filoane de minereu.", "Strategic importantă pentru producția SLN."],
+      en: ["Located on the Kopeto massif above 800 meters.", "Primary supplier for the port of Nepoui.", "Mining of high-grade saprolite for ferronickel production.", "Use of large-scale dump trucks for transportation.", "Ongoing exploration of new ore veins.", "Strategically vital for SLN's overall production."],
+    },
   },
   {
     id: "newcaledonia-tontouta-logistics-economic-v2",
@@ -209,6 +329,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Main airport for freight traffic", "Home to many logistics firms", "Strategic location near Paita", "Vital link to global supply chains"],
     },
     imageHint: "Cargo planes and warehouses at Tontouta airport",
+    descriptionAdvanced: {
+      de: "Das Logistikzentrum Tontouta rund um den internationalen Flughafen ist die wichtigste Schnittstelle für den Luftfrachtverkehr Neukaledoniens. Neben dem Passagierterminal befinden sich hier Frachtdepots und Wartungseinrichtungen für den Bergbausektor. Die strategische Lage ermöglicht eine schnelle Versorgung der Minen mit Ersatzteilen und spezialisierter Ausrüstung.",
+      hu: "A nemzetközi repülőtér körüli Tontouta logisztikai központ Új-Kaledónia légi áruszállításának legfontosabb csomópontja. Az utas terminál mellett raktárak és a bányászati szektor számára fenntartott karbantartó létesítmények találhatók itt. Stratégiai fekvése lehetővé teszi a bányák gyors ellátását alkatrészekkel és speciális berendezésekkel.",
+      ro: "Centrul logistic Tontouta, situat în jurul aeroportului internațional, este principala interfață pentru transportul aerian de marfă din Noua Caledonie. Pe lângă terminalul de pasageri, aici se află depozite de marfă și unități de întreținere pentru sectorul minier. Locația permite aprovizionarea rapidă a minelor cu piese și echipamente.",
+      en: "The Tontouta Logistics Center, centered around the international airport, is the primary interface for New Caledonia's air freight. Alongside the passenger terminal, it features cargo depots and maintenance facilities for the mining sector. Its strategic location enables rapid supply of spare parts and specialized equipment to the mines.",
+    },
+    factsAdvanced: {
+      de: ["Standort des einzigen internationalen Flughafens (NOU).", "Drehscheibe für den Import zeitkritischer Ersatzteile.", "Umschlagplatz für hochwertige Industriegüter.", "Verbindung zur RT1-Hauptverkehrsader nach Nouméa.", "Zentrum für Luftfrachtabwicklung und Zoll.", "Kapazitäten zur Wartung von Chartermaschinen."],
+      hu: ["Az egyetlen nemzetközi repülőtér (NOU) helyszíne.", "Az időérzékeny alkatrészek importjának központja.", "Nagy értékű ipari javak rakodóhelye.", "Kapcsolat a Nouméába vezető RT1 főúttal.", "A légi árukezelés és vámügyintézés központja.", "Chartergépek karbantartására alkalmas kapacitás."],
+      ro: ["Locația singurului aeroport internațional (NOU).", "Hub pentru importul de piese de schimb critice.", "Punct de transbordare pentru bunuri industriale de valoare.", "Legătură directă cu artera principală RT1 spre Nouméa.", "Centru pentru procesarea mărfurilor aeriene și vamă.", "Capacități de întreținere pentru aeronave charter."],
+      en: ["Site of the only international airport (NOU).", "Hub for importing time-critical spare parts.", "Transshipment point for high-value industrial goods.", "Connected to the RT1 main road artery to Noumea.", "Center for air cargo processing and customs.", "Capacity for maintaining charter and freight aircraft."],
+    },
   },
   {
     id: "newcaledonia-ducos-industrial-zone-economic-v2",
@@ -228,6 +360,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Economic powerhouse of Noumea", "Hub for wholesalers and warehouses", "Major site for local manufacturing", "Highly active business district"],
     },
     imageHint: "Commercial buildings and warehouses in Ducos district",
+    descriptionAdvanced: {
+      de: "Ducos ist das größte Industrie- und Gewerbegebiet von Nouméa und beherbergt die Nickelschmelze Doniambo der SLN. Die Zone ist ein Konzentrationspunkt für metallverarbeitende Betriebe, Logistikunternehmen und Dienstleister des Bergbausektors. Die Nähe zum Hafen und zur Stadt macht sie zum wirtschaftlichen Motor des Großraums Nouméa.",
+      hu: "Ducos Nouméa legnagyobb ipari és kereskedelmi negyede, ahol az SLN Doniambo nikkelolvasztója is található. A zóna a fémfeldolgozó üzemek, logisztikai cégek és a bányászati szektor szolgáltatóinak központja. A kikötő és a város közelsége miatt Nagy-Nouméa gazdasági motorjának számít.",
+      ro: "Ducos este cea mai mare zonă industrială și comercială din Nouméa, găzduind topitoria de nichel Doniambo a SLN. Zona concentrează unități de prelucrare a metalelor, companii de logistică și furnizori de servicii pentru sectorul minier. Proximitatea față de port și oraș o face motorul economic al aglomerației Nouméa.",
+      en: "Ducos is the largest industrial and commercial zone in Noumea, hosting SLN's Doniambo nickel smelter. The zone is a concentration point for metal processing plants, logistics companies, and mining sector service providers. Its proximity to both the port and the city makes it the economic engine of the Greater Noumea area.",
+    },
+    factsAdvanced: {
+      de: ["Standort des Doniambo-Hüttenwerks seit 1910.", "Beherbergt über 500 Unternehmen verschiedener Branchen.", "Zentrum der lokalen Ferronickel-Verarbeitung.", "Direkter Zugang zum Industriehafen von Nouméa.", "Hauptquartier vieler Bergbaudienstleister.", "Wichtigster Beschäftigungspol der Hauptstadt."],
+      hu: ["A Doniambo kohó helyszíne 1910 óta.", "Több mint 500 különböző iparági cégnek ad otthont.", "A helyi ferronikkelt feldolgozás központja.", "Közvetlen hozzáférés Nouméa ipari kikötőjéhez.", "Számos bányászati szolgáltató cég székhelye.", "A főváros legfontosabb foglalkoztatási központja."],
+      ro: ["Locația uzinei metalurgice Doniambo din 1910.", "Găzduiește peste 500 de companii din diverse sectoare.", "Centrul de procesare locală a feronichelului.", "Acces direct la portul industrial din Nouméa.", "Sediul multor furnizori de servicii miniere.", "Cel mai important pol de angajare din capitală."],
+      en: ["Site of the Doniambo metallurgical plant since 1910.", "Hosts over 500 companies from various sectors.", "Hub for local ferronickel processing activities.", "Direct access to the industrial port of Noumea.", "Headquarters for many mining service providers.", "Primary employment hub of the capital city."],
+    },
   },
   {
     id: "newcaledonia-numbo-shipyards-economic-v2",
@@ -247,6 +391,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Specialized in marine repairs", "Features slipways for large vessels", "Crucial for maritime safety and trade", "Located on the Ducos Peninsula"],
     },
     imageHint: "Dry docks and ship repair facilities in Numbo",
+    descriptionAdvanced: {
+      de: "Die Numbo-Werften in Nouméa sind das maritime Wartungszentrum Neukaledoniens. Sie bieten spezialisierte Dienstleistungen für die Reparatur und den Bau von Schiffen an, die im Erztransport und im Küstenverkehr eingesetzt werden. Die Werft verfügt über Slipanlagen und Trockendocks, die für die Instandhaltung der lokalen Handelsflotte unerlässlich sind.",
+      hu: "A nouméai Numbo hajógyárak Új-Kaledónia tengeri karbantartási központjai. Speciális szolgáltatásokat nyújtanak az ércszállításban és a partmenti forgalomban használt hajók javításához és építéséhez. A hajógyár sólyákkal és szárazdokkokkal rendelkezik, amelyek elengedhetetlenek a helyi kereskedelmi flotta fenntartásához.",
+      ro: "Șantierele navale Numbo din Nouméa sunt centrul de întreținere maritimă al Noii Caledonii. Acestea oferă servicii specializate pentru repararea și construcția navelor utilizate în transportul de minereu și cabotaj. Șantierul dispune de cale de lansare și docuri uscate, esențiale pentru menținerea flotei comerciale locale.",
+      en: "The Numbo shipyards in Noumea are the maritime maintenance hub of New Caledonia. They provide specialized services for the repair and construction of vessels used in ore transport and coastal shipping. The shipyard features slipways and dry docks essential for maintaining the local commercial fleet.",
+    },
+    factsAdvanced: {
+      de: ["Spezialisiert auf die Wartung von Erzfrachtern.", "Verfügt über moderne Hebeanlagen für Schiffe.", "Zentrum für Metallbau im maritimen Bereich.", "Wichtiger Dienstleister für die Fischerflotte.", "Lage in einer geschützten Bucht von Nouméa.", "Bietet Kapazitäten für Boote bis zu 1.000 Tonnen."],
+      hu: ["Ércszállító hajók karbantartására szakosodott.", "Modern hajóemelő berendezésekkel rendelkezik.", "A tengeri fémszerkezet-gyártás központja.", "A halászflotta fontos szolgáltatója.", "Nouméa egyik védett öblében található.", "Akár 1000 tonnás hajók fogadására is alkalmas."],
+      ro: ["Specializat în întreținerea navelor vrachiere.", "Dispune de instalații moderne de ridicare a navelor.", "Centru pentru construcții metalice maritime.", "Furnizor important pentru flota de pescuit.", "Situat într-un golf protejat din Nouméa.", "Oferă capacitate pentru nave de până la 1.000 de tone."],
+      en: ["Specialized in the maintenance of ore carriers.", "Features modern ship lifting equipment.", "Center for maritime metal construction works.", "Key service provider for the local fishing fleet.", "Located in a sheltered bay within Noumea.", "Provides capacity for vessels up to 1,000 tonnes."],
+    },
   },
   {
     id: "newcaledonia-mont-dore-bottling-economic-v2",
@@ -266,6 +422,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Uses natural mountain springs", "Market leader for bottled water", "State-of-the-art bottling technology", "Major employer in the Mont-Dore area"],
     },
     imageHint: "Modern bottling line for mineral water bottles",
+    descriptionAdvanced: {
+      de: "Die Abfüllanlage von Mont-Dore verarbeitet das lokale Mineralwasser, das aus den Quellen des Mont-Dore-Massivs gewonnen wird. Dieses Wasser ist das meistverkaufte Tafelwasser Neukaledoniens und ein Symbol für lokale Produktion. Die Anlage nutzt moderne Filtrationstechnologien und spielt eine wichtige Rolle bei der Verringerung der Abhängigkeit von importierten Getränken.",
+      hu: "A Mont-Dore palackozóüzem a Mont-Dore-masszívum forrásaiból kinyert helyi ásványvizet dolgozza fel. Ez a víz Új-Kaledónia legkelendőbb asztali vize és a helyi termelés szimbóluma. Az üzem modern szűrési technológiákat alkalmaz, és fontos szerepet játszik az importált italoktól való függőség csökkentésében.",
+      ro: "Unitatea de îmbuteliere Mont-Dore procesează apa minerală locală extrasă din izvoarele masivului Mont-Dore. Această apă este cea mai vândută apă de masă din Noua Caledonie și un simbol al producției locale. Fabrica folosește tehnologii moderne de filtrare și joacă un rol important în reducerea dependenței de băuturile importate.",
+      en: "The Mont-Dore bottling plant processes local mineral water extracted from the springs of the Mont-Dore massif. This water is the best-selling bottled water in New Caledonia and a symbol of local production. The facility uses modern filtration technologies and plays a key role in reducing dependence on imported beverages.",
+    },
+    factsAdvanced: {
+      de: ["Gewinnung aus natürlichen Tiefenquellen.", "Erste industrielle Abfüllung in den 1980er Jahren.", "Produziert sowohl stilles als auch Sprudelwasser.", "Zertifiziert nach internationalen Qualitätsstandards.", "Wichtigster Akteur auf dem lokalen Getränkemarkt.", "Unterstützt nachhaltige Verpackungsinitiativen."],
+      hu: ["Természetes mélyforrásokból történő kinyerés.", "Az első ipari palackozás az 1980-as években.", "Szénsavmentes és dúsított vizet is gyárt.", "Nemzetközi minőségi szabványok szerinti tanúsítás.", "A helyi italpiac legfontosabb szereplője.", "Támogatja a fenntartható csomagolási kezdeményezéseket."],
+      ro: ["Extracție din izvoare naturale de adâncime.", "Prima îmbuteliere industrială în anii 1980.", "Produce atât apă plată, cât și apă carbogazoasă.", "Certificată conform standardelor internaționale de calitate.", "Cel mai important actor de pe piața locală de băuturi.", "Susține inițiativele de ambalare sustenabilă."],
+      en: ["Extraction from natural deep-water springs.", "First industrial bottling started in the 1980s.", "Produces both still and sparkling water varieties.", "Certified according to international quality standards.", "Leading player in the local beverage market.", "Supports sustainable packaging initiatives."],
+    },
   },
   {
     id: "newcaledonia-boulouparis-solar-farm-economic-v2",
@@ -285,6 +453,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Features thousands of solar panels", "Reduces dependence on imported oil", "Powers thousands of local homes", "Key project in green energy initiative"],
     },
     imageHint: "Vast field of solar panels in a sunny landscape",
+    descriptionAdvanced: {
+      de: "Der Solarpark von Boulouparis ist eines der größten Photovoltaik-Projekte Neukaledoniens. Die Anlage trägt wesentlich zur Reduzierung der CO2-Emissionen des Territoriums bei, das traditionell stark von fossilen Brennstoffen abhängig ist. Die Farm nutzt die hohe Sonneneinstrahlung an der Westküste und speist saubere Energie in das öffentliche Stromnetz ein.",
+      hu: "A boulouparisi napelemfarm Új-Kaledónia egyik legnagyobb fotovoltaikus projektje. A létesítmény jelentősen hozzájárul a terület szén-dioxid-kibocsátásának csökkentéséhez, amely hagyományosan erősen függ a fosszilis tüzelőanyagoktól. A farm a nyugati part magas napsütéses óráit kihasználva tiszta energiát táplál a közhálózatba.",
+      ro: "Parcul solar din Boulouparis este unul dintre cele mai mari proiecte fotovoltaice din Noua Caledonie. Instalația contribuie semnificativ la reducerea emisiilor de CO2 ale teritoriului, care depinde tradițional de combustibilii fosili. Parcul profită de radiația solară ridicată de pe coasta de vest pentru a furniza energie curată în rețea.",
+      en: "The Boulouparis solar farm is one of the largest photovoltaic projects in New Caledonia. The facility contributes significantly to reducing the territory's CO2 emissions, which traditionally depends heavily on fossil fuels. The farm utilizes the high solar radiation on the west coast to feed clean energy into the public grid.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung von über 15 Megawatt.", "Besteht aus Zehntausenden Solarmodulen.", "Inbetriebnahme in mehreren Phasen ab 2017.", "Teil der Strategie für die Energiewende.", "Vermeidet jährlich Tonnen von CO2-Emissionen.", "Betrieb durch spezialisierte Unternehmen für erneuerbare Energien."],
+      hu: ["A beépített teljesítmény meghaladja a 15 megawattot.", "Több tízezer napelem modulból áll.", "Több fázisban helyezték üzembe 2017-től.", "Az energiaátmeneti stratégia része.", "Évente több tonna CO2-kibocsátást vált ki.", "Megújuló energiára szakosodott cégek üzemeltetik."],
+      ro: ["Putere instalată de peste 15 megawați.", "Format din zeci de mii de panouri solare.", "Pus în funcțiune în mai multe faze din 2017.", "Parte a strategiei de tranziție energetică.", "Evită anual emisii de tone de dioxid de carbon.", "Operat de companii specializate în energie regenerabilă."],
+      en: ["Installed capacity exceeds 15 megawatts.", "Comprises tens of thousands of solar modules.", "Commissioned in several phases starting in 2017.", "Key part of the territory's energy transition strategy.", "Offsets thousands of tonnes of CO2 emissions annually.", "Operated by specialized renewable energy companies."],
+    },
   },
   {
     id: "newcaledonia-kone-economic-pole-economic-v2",
@@ -304,6 +484,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Seat of the North Province government", "Rapidly expanding infrastructure", "Service and commerce center for the north", "Home to a modern hospital and malls"],
     },
     imageHint: "Modern government buildings and commercial area in Kone",
+    descriptionAdvanced: {
+      de: "Der Wirtschaftspol von Koné ist das administrative und industrielle Zentrum der Nordprovinz. Seine Entwicklung ist eng mit dem Koniambo-Nickel-Projekt verknüpft und zielt darauf ab, ein wirtschaftliches Gegengewicht zu Nouméa zu schaffen. Das Gebiet umfasst neue Verwaltungsgebäude, Einkaufszentren und Wohngebiete für die wachsende Bevölkerung im Norden.",
+      hu: "Koné gazdasági pólusa az északi tartomány adminisztratív és ipari központja. Fejlődése szorosan kapcsolódik a Koniambo nikkelprojekthez, célja pedig egy Nouméával szembeni gazdasági ellensúly létrehozása. A terület új közigazgatási épületeket, bevásárlóközpontokat és lakónegyedeket foglal magában az északi népesség növekedéséhez.",
+      ro: "Polul economic Koné este centrul administrativ și industrial al Provinciei de Nord. Dezvoltarea sa este strâns legată de proiectul de nichel Koniambo și vizează crearea unui echilibru economic față de Nouméa. Zona cuprinde clădiri administrative noi, centre comerciale și zone rezidențiale pentru populația în creștere.",
+      en: "The Kone Economic Pole is the administrative and industrial hub of the North Province. Its development is closely linked to the Koniambo Nickel project and aims to create an economic counterbalance to Noumea. The area includes new administrative buildings, shopping centers, and residential zones to support the growing northern population.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der Provinzverwaltung der Nordprovinz.", "Zentrum des wirtschaftlichen Rebalancing-Prozesses.", "Verfügt über einen wachsenden Regionalflughafen.", "Standort moderner Bildungseinrichtungen.", "Schnelle Urbanisierung in den letzten 15 Jahren.", "Knotenpunkt für Dienstleistungen im Norden von Grande Terre."],
+      hu: ["Az északi tartomány tartományi kormányának székhelye.", "A gazdasági átrendeződési folyamat központja.", "Növekvő regionális repülőtérrel rendelkezik.", "Modern oktatási intézmények helyszíne.", "Gyors urbanizáció az elmúlt 15 évben.", "Grande Terre északi részének szolgáltatási csomópontja."],
+      ro: ["Sediul guvernului provincial al Provinciei de Nord.", "Centrul procesului de reechilibrare economică.", "Dispune de un aeroport regional în expansiune.", "Locația unor instituții de învățământ moderne.", "Urbanizare rapidă în ultimii 15 ani.", "Nod pentru servicii în nordul insulei Grande Terre."],
+      en: ["Seat of the North Province provincial government.", "Center of the economic rebalancing process.", "Features an expanding regional airport.", "Site of modern educational and training facilities.", "Rapid urbanization over the last 15 years.", "Primary hub for services in northern Grande Terre."],
+    },
   },
   {
     id: "newcaledonia-port-of-we-economic-v2",
@@ -323,6 +515,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Largest port on Lifou Island", "Arrival point for ferries and cargo ships", "Vital for the export of copra", "Logistics hub for the Loyalty Islands"],
     },
     imageHint: "Small port with ferries and tropical coast in Lifou",
+    descriptionAdvanced: {
+      de: "Der Hafen von Wé ist das wichtigste maritime Tor der Insel Lifou und das administrative Zentrum der Loyalitätsinseln. Er dient als entscheidender Knotenpunkt für den Warenverkehr zwischen Nouméa und den äußeren Inseln. Die Infrastruktur unterstützt sowohl Frachtschiffe als auch den regelmäßigen Passagierverkehr mit Hochgeschwindigkeitsfähren.",
+      hu: "Wé kikötője Lifou szigetének legfontosabb tengeri kapuja és a Hűség-szigetek adminisztratív központja. Kulcsfontosságú csomópontként szolgál a Nouméa és a külső szigetek közötti áruforgalomban. Az infrastruktúra mind a teherhajókat, mind a rendszeres utasszállító gyorskompokat kiszolgálja.",
+      ro: "Portul Wé este principala poartă maritimă a insulei Lifou și centrul administrativ al Insulelor Loialității. Acesta servește ca un nod crucial pentru traficul de mărfuri între Nouméa și insulele exterioare. Infrastructura susține atât navele de marfă, cât și transportul regulat de pasageri cu feriboturi de mare viteză.",
+      en: "The Port of Wé is the primary maritime gateway for Lifou Island and the administrative hub of the Loyalty Islands. It serves as a crucial node for freight traffic between Nouméa and the outer islands. The infrastructure supports both cargo vessels and regular passenger transport via high-speed ferries.",
+    },
+    factsAdvanced: {
+      de: ["Lage an der Ostküste von Lifou", "Hauptumschlagplatz für die Loyalitätsinseln", "Regelmäßige Verbindung durch die Betico-Fähren", "Wichtiger Standort für die lokale Fischerei", "Zentrum der Verwaltung von Lifou", "Ankerplatz für Versorgungsschiffe der Region"],
+      hu: ["Lifou keleti partján található", "A Hűség-szigetek fő logisztikai központja", "A Betico kompjáratok rendszeres állomása", "A helyi halászat fontos bázisa", "Lifou közigazgatási székhelye", "Ellátóhajók elsődleges kikötőhelye"],
+      ro: ["Situat pe coasta de est a insulei Lifou", "Principalul punct de transbordare pentru Insulele Loialității", "Conexiune regulată prin feriboturile Betico", "Bază importantă pentru pescuitul local", "Centrul administrativ al insulei Lifou", "Loc de ancorare pentru navele de aprovizionare"],
+      en: ["Located on the east coast of Lifou", "Main transshipment point for the Loyalty Islands", "Regular connection via Betico ferries", "Important base for local fishing activities", "Administrative seat of Lifou municipality", "Primary anchorage for regional supply vessels"],
+    },
   },
   {
     id: "newcaledonia-port-of-tadine-economic-v2",
@@ -342,6 +546,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Nerve center of the local economy", "Primary access point for sea passengers", "Transit point for regional goods", "Located on the western coast of Mare"],
     },
     imageHint: "Coastal port area with shipping containers on Mare island",
+    descriptionAdvanced: {
+      de: "Der Hafen von Tadine ist der primäre logistische Zugang zur Insel Maré und sichert die Versorgung der lokalen Bevölkerung. Er ist für den Export landwirtschaftlicher Erzeugnisse, insbesondere Avocados, von strategischer Bedeutung. Die Hafenanlage umfasst Anlegestellen für Frachtschiffe und Passagierterminals für den überregionalen Verkehr.",
+      hu: "Tadine kikötője Maré szigetének elsődleges logisztikai bejárata, amely biztosítja a helyi lakosság ellátását. Stratégiai jelentőségű a mezőgazdasági termékek, különösen az avokádó exportja szempontjából. A kikötői létesítmény teherhajó-rakpartokat és utasterminálokat foglal magában a régiók közötti forgalom számára.",
+      ro: "Portul Tadine este principalul acces logistic către insula Maré, asigurând aprovizionarea populației locale. Este de importanță strategică pentru exportul produselor agricole, în special al fructelor de avocado. Facilitatea portuară include dane pentru nave de marfă și terminale de pasageri pentru traficul interregional.",
+      en: "The Port of Tadine is the primary logistical access point to Maré Island, ensuring the supply of the local population. It is of strategic importance for the export of agricultural products, particularly avocados. The port facility includes berths for cargo ships and passenger terminals for inter-regional traffic.",
+    },
+    factsAdvanced: {
+      de: ["Wichtigster Hafen der Insel Maré", "Zentrum des Avocado-Exports der Region", "Anlegestelle für den Betico-Katamaran", "Sitz der Hafenmeisterei von Maré", "Wichtiger Knotenpunkt für Treibstoffimporte", "Infrastruktur für den Küstenhandel"],
+      hu: ["Maré szigetének legfontosabb kikötője", "A régió avokádóexportjának központja", "A Betico katamarán rendszeres megállóhelye", "Maré kikötői parancsnokságának székhelye", "Üzemanyag-behozatal kulcsfontosságú pontja", "Part menti kereskedelmi infrastruktúra"],
+      ro: ["Cel mai important port de pe insula Maré", "Centrul exportului de avocado din regiune", "Punct de acostare pentru catamaranul Betico", "Sediul căpităniei portului Maré", "Nod crucial pentru importurile de combustibil", "Infrastructură pentru comerțul de coastă"],
+      en: ["Main port of Maré Island", "Center for the region's avocado exports", "Berthing point for the Betico catamaran", "Seat of Maré's port authority", "Crucial node for fuel imports", "Infrastructure for coastal trade activities"],
+    },
   },
   {
     id: "newcaledonia-poum-mining-site-economic-v2",
@@ -361,6 +577,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Northernmost mining center", "Large deposits near the coastline", "Exports via local loading facilities", "Key for employment in the far north"],
     },
     imageHint: "Mining excavations near the sea in northern New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Bergbaustätte Poum liegt an der Nordspitze von Grande Terre und ist ein bedeutendes Zentrum für den Abbau von Nickelerz. Die Mine wird von verschiedenen Betreibern genutzt und ist ein wesentlicher Arbeitgeber in der Nordprovinz. Die Erze werden direkt vor Ort verladen und zu den Hüttenwerken in Nouméa oder ins Ausland verschifft.",
+      hu: "A poumi bányászati terület Grande Terre északi csücskén található, és a nikkelérc-kitermelés jelentős központja. A bányát különböző üzemeltetők használják, és az Északi Tartomány egyik meghatározó munkaadója. Az ércet közvetlenül a helyszínen rakodják be, majd Nouméa kohóiba vagy külföldre szállítják.",
+      ro: "Situl minier Poum este situat în vârful nordic al Grande Terre și este un centru semnificativ pentru extracția minereului de nichel. Mina este utilizată de diverși operatori și este un angajator esențial în Provincia de Nord. Minereurile sunt încărcate direct la fața locului și expediate către topitoriile din Nouméa sau în străinătate.",
+      en: "The Poum mining site is located at the northern tip of Grande Terre and is a significant center for nickel ore extraction. The mine is utilized by various operators and is a major employer in the North Province. Ores are loaded directly on-site and shipped to smelters in Nouméa or abroad.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen in der Gemeinde Poum", "Fokus auf die Gewinnung von Nickelerz", "Wichtiger Exportstandort im Norden", "Anschluss an spezialisierte Erzhäfen", "Teil der wirtschaftlichen Entwicklung des Nordens", "Arbeitsplätze für die lokale Kanak-Bevölkerung"],
+      hu: ["Poum község területén található", "A nikkelérc kitermelésére összpontosít", "Északi régió fontos exporthelyszíne", "Speciális érckikötőkhöz kapcsolódik", "Az északi gazdasági fejlesztés része", "Munkalehetőség a helyi kanak lakosságnak"],
+      ro: ["Situat în comuna Poum", "Concentrat pe extracția minereului de nichel", "Locație importantă de export în nord", "Conectat la porturi specializate pentru minereu", "Parte a dezvoltării economice a nordului", "Locuri de muncă pentru populația locală Kanak"],
+      en: ["Located in the municipality of Poum", "Focused on nickel ore extraction", "Important export location in the north", "Connected to specialized ore ports", "Part of the northern economic rebalancing", "Provides jobs for the local Kanak population"],
+    },
   },
   {
     id: "newcaledonia-nakety-mine-economic-v2",
@@ -380,6 +608,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Located on the island's east coast", "Significant supplier of nickel ore", "Vital source of income for Canala", "Characterized by red laterite soil"],
     },
     imageHint: "Red terraced nickel mine in Nakety valley",
+    descriptionAdvanced: {
+      de: "Die Nakety-Mine nahe Canala ist eine traditionsreiche Abbaustätte für Nickel an der Ostküste Neukaledoniens. Der Betrieb hat eine lange Geschichte, die bis in die frühe Kolonialzeit zurückreicht, und prägt das soziale Gefüge der Region. Das gewonnene Erz wird über Küstenschiffe zu den Verarbeitungsanlagen transportiert.",
+      hu: "A Canala közelében található Nakety-bánya hagyományos nikkel-kitermelő hely Új-Kaledónia keleti partján. Az üzem hosszú múltra tekint vissza, amely a korai gyarmati időkig nyúlik, és meghatározza a régió társadalmi szerkezetét. A kitermelt ércet part menti hajókkal szállítják a feldolgozóüzemekbe.",
+      ro: "Mina Nakety, situată lângă Canala, este un sit tradițional de extracție a nichelului pe coasta de est a Noii Caledonii. Operațiunea are o istorie lungă, datând din perioada colonială timpurie, și modelează structura socială a regiunii. Minereul extras este transportat prin nave de coastă către unitățile de procesare.",
+      en: "The Nakety mine, located near Canala, is a traditional nickel extraction site on the east coast of New Caledonia. The operation has a long history dating back to the early colonial era and shapes the social fabric of the region. Extracted ore is transported via coastal vessels to processing facilities.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich in der Nähe von Canala", "Betrieben durch die SLN (Société Le Nickel)", "Abbau an den Hängen der Zentralkette", "Verladung im Hafen von Nakety", "Einer der ältesten aktiven Bergbaustandorte", "Erztransport mit Schleppkähnen"],
+      hu: ["Canala közelében fekszik", "Az SLN (Société Le Nickel) üzemelteti", "A központi hegylánc lejtőin folyik a bányászat", "Berakodás a Nakety-öböl kikötőjében", "Az egyik legrégebbi aktív bányaterület", "Ércszállítás uszályokkal történik"],
+      ro: ["Situată în apropiere de Canala", "Operată de SLN (Société Le Nickel)", "Extracție pe versanții lanțului central", "Încărcare în portul din golful Nakety", "Unul dintre cele mai vechi situri miniere active", "Transportul minereului se face cu barje"],
+      en: ["Located in the vicinity of Canala", "Operated by SLN (Société Le Nickel)", "Mining on the slopes of the central range", "Loading at the Nakety bay port", "One of the oldest active mining sites", "Ore transport performed by barges"],
+    },
   },
   {
     id: "newcaledonia-ouaco-cattle-station-economic-v2",
@@ -399,6 +639,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Center for beef production", "Home to historic industrial ruins", "Located near Kaala-Gomen", "Key site for territorial agriculture"],
     },
     imageHint: "Cattle grazing in a dry pasture near Ouaco",
+    descriptionAdvanced: {
+      de: "Die Ouaco Cattle Station ist eine historische Rinderfarm in der Nordprovinz, die für die Fleischproduktion des Archipels von großer Bedeutung war. Gegründet im späten 19. Jahrhundert, repräsentiert sie die Tradition der Viehzucht durch die 'Broussards'. Heute ist sie ein Symbol für die Diversifizierung der kaledonischen Wirtschaft außerhalb des Bergbaus.",
+      hu: "Az Ouaco Cattle Station egy történelmi szarvasmarha-telep az Északi Tartományban, amely nagy jelentőséggel bírt a szigetcsoport hústermelésében. A 19. század végén alapították, és a 'broussard-ok' állattenyésztési hagyományait képviseli. Ma a bányászaton kívüli kaledóniai gazdaság diverzifikációjának szimbóluma.",
+      ro: "Ouaco Cattle Station este o fermă istorică de vite din Provincia de Nord, care a fost de mare importanță pentru producția de carne a arhipelagului. Fondată la sfârșitul secolului al XIX-lea, aceasta reprezintă tradiția creșterii animalelor de către 'Broussards'. Astăzi, este un simbol al diversificării economiei caledoniene în afara mineritului.",
+      en: "The Ouaco Cattle Station is a historic cattle ranch in the North Province that was of great significance for the archipelago's meat production. Founded in the late 19th century, it represents the livestock farming tradition of the 'Broussards'. Today, it stands as a symbol of Caledonian economic diversification outside of mining.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um das Jahr 1880", "Zentrum der Rinderzucht im Norden", "Einst Standort einer Konservenfabrik", "Prägung durch die Kultur der Cowboys", "Große Weideflächen an der Westküste", "Wichtiger Lieferant für den lokalen Markt"],
+      hu: ["1880 körül alapították", "Északi szarvasmarha-tenyésztés központja", "Egykor konzervgyár is működött itt", "A cowboy kultúra határozza meg", "Hatalmas legelők a nyugati parton", "A helyi piac fontos beszállítója"],
+      ro: ["Fondată în jurul anului 1880", "Centrul creșterii vitelor în nord", "Fost sediu al unei fabrici de conserve", "Influențată de cultura cowboy-ilor", "Suprafețe mari de pășunat pe coasta de vest", "Furnizor important pentru piața locală"],
+      en: ["Founded around the year 1880", "Center of cattle ranching in the north", "Formerly the site of a canning factory", "Defined by the local cowboy culture", "Vast grazing lands on the west coast", "Important supplier for the local market"],
+    },
   },
   {
     id: "newcaledonia-moindou-prawn-farm-economic-v2",
@@ -418,6 +670,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Specializes in blue prawns", "High-value gourmet export product", "Uses sustainable aquaculture methods", "Second largest export sector after mining"],
     },
     imageHint: "Aquaculture ponds for prawn farming in Moindou",
+    descriptionAdvanced: {
+      de: "Die Garnelenfarm in Moindou ist ein Vorzeigeprojekt der kaledonischen Aquakultur, spezialisiert auf die 'Crevette Bleue'. Diese Industrie nutzt die unberührten Küstengewässer und exportiert hochwertige Meeresfrüchte nach Japan und Europa. Moindou hat sich durch diese nachhaltige Bewirtschaftung zu einem wichtigen wirtschaftlichen Standort entwickelt.",
+      hu: "A moindou-i garnélafarm a kaledóniai akvakultúra kiemelkedő projektje, amely a 'kék garnélarák' tenyésztésére specializálódott. Ez az iparág a tiszta parti vizeket használja ki, és kiváló minőségű tengeri gyümölcsöket exportál Japánba és Európába. Moindou a fenntartható gazdálkodás révén fontos gazdasági helyszínné vált.",
+      ro: "Ferma de creveți din Moindou este un proiect emblematic al acvaculturii caledoniene, specializat în 'Crevette Bleue'. Această industrie profită de apele de coastă curate și exportă fructe de mare de înaltă calitate în Japonia și Europa. Moindou a devenit un sit economic important prin această gestionare durabilă.",
+      en: "The prawn farm in Moindou is a leading project of Caledonian aquaculture, specializing in the 'Blue Prawn'. This industry leverages pristine coastal waters to export high-quality seafood to Japan and Europe. Moindou has developed into a significant economic location through this sustainable management.",
+    },
+    factsAdvanced: {
+      de: ["Spezialisierung auf die Blaue Garnele", "Wichtigstes Exportgut nach dem Nickel", "Zertifizierte nachhaltige Zuchtmethoden", "Exportfokus auf den japanischen Markt", "Große Zuchtbecken nahe der Küste", "Strenge Qualitätskontrollen der Produkte"],
+      hu: ["A kék garnélarákra specializálódott", "A nikkel utáni legfontosabb exportcikk", "Minősített fenntartható tenyésztés", "Fő exportpiaca Japán", "Hatalmas tenyésztőmedencék a partnál", "Szigorú minőségellenőrzési folyamatok"],
+      ro: ["Specializare în creveții albaștri", "Cel mai important produs de export după nichel", "Metode de creștere durabile certificate", "Accent pe exportul către piața japoneză", "Bazine mari de creștere lângă coastă", "Control riguros al calității produselor"],
+      en: ["Specialized in the Blue Prawn species", "Most important export product after nickel", "Certified sustainable farming methods", "Primary export focus on the Japanese market", "Large breeding ponds near the shoreline", "Strict quality control of the products"],
+    },
   },
   {
     id: "newcaledonia-prony-wind-farm-economic-v2",
@@ -437,6 +701,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Features multiple large wind turbines", "Supplies power to the main utility grid", "Located in a windy coastal area", "Key component of renewable energy mix"],
     },
     imageHint: "Wind turbines on a ridge overlooking the ocean in Prony",
+    descriptionAdvanced: {
+      de: "Der Windpark Prony im Süden von Grande Terre ist ein zentraler Pfeiler der Strategie für erneuerbare Energien in Neukaledonien. Er nutzt die konstanten Passatwinde, um sauberen Strom für das öffentliche Netz und die nahegelegene Industrie zu erzeugen. Die Anlage trägt signifikant zur Reduzierung der Abhängigkeit von fossilen Brennstoffen bei.",
+      hu: "A Grande Terre déli részén található Prony szélerőműpark Új-Kaledónia megújuló energia-stratégiájának központi pillére. Az állandó passzátszeleket használja fel tiszta villamos energia előállítására a közüzemi hálózat és a közeli ipar számára. A létesítmény jelentősen hozzájárul a fosszilis tüzelőanyagoktól való függőség csökkentéséhez.",
+      ro: "Parcul eolian Prony din sudul Grande Terre este un pilon central al strategiei pentru energie regenerabilă din Noua Caledonie. Acesta utilizează vânturile alizee constante pentru a genera energie curată pentru rețeaua publică și industria din apropiere. Instalația contribuie semnificativ la reducerea dependenței de combustibilii fosili.",
+      en: "The Prony wind farm in the south of Grande Terre is a central pillar of New Caledonia's renewable energy strategy. It harnesses consistent trade winds to generate clean electricity for the public grid and nearby industry. The facility contributes significantly to reducing dependence on fossil fuels.",
+    },
+    factsAdvanced: {
+      de: ["Standort auf den Höhen von Prony", "Inbetriebnahme der ersten Turbinen 1996", "Nutzt die starken Passatwinde", "Reduziert CO2-Emissionen des Gebiets", "Versorgung des Goro-Nickelwerks", "Teil der Energiewende Neukaledoniens"],
+      hu: ["Prony magaslatain található", "Az első turbinák 1996-ban indultak", "Az erős passzátszeleket hasznosítja", "Csökkenti a terület CO2-kibocsátását", "A Goro-nikkelüzem áramellátója", "Új-Kaledónia energiaváltásának része"],
+      ro: ["Situat pe înălțimile din Prony", "Punerea în funcțiune a primelor turbine în 1996", "Utilizează vânturile alizee puternice", "Reduce emisiile de CO2 ale teritoriului", "Alimentează uzina de nichel Goro", "Parte a tranziției energetice caledoniene"],
+      en: ["Located on the heights of Prony", "First turbines commissioned in 1996", "Harnesses strong trade winds", "Reduces CO2 emissions in the territory", "Supplies power to the Goro nickel plant", "Key part of the local energy transition"],
+    },
   },
   {
     id: "newcaledonia-port-of-touho-economic-v2",
@@ -456,6 +732,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Crucial for local supplies", "Supports the regional fishing industry", "Home to a small boat repair yard", "Gateway to the northeast region"],
     },
     imageHint: "Small commercial harbor with fishing boats in Touho",
+    descriptionAdvanced: {
+      de: "Der Hafen von Touho ist ein regionaler Knotenpunkt an der Ostküste, der sowohl die lokale Fischerei als auch den Küstenhandel unterstützt. Er spielt eine wichtige Rolle für die Anbindung der abgelegenen Gemeinden in der Nordprovinz an die maritimen Versorgungswege. Die Anlage dient auch als Ausgangspunkt für touristische Aktivitäten im Nordosten.",
+      hu: "Touho kikötője a keleti part regionális csomópontja, amely a helyi halászatot és a part menti kereskedelmet egyaránt támogatja. Fontos szerepet játszik az Északi Tartomány távoli közösségeinek tengeri ellátási útvonalakhoz való kapcsolásában. A létesítmény kiindulópontként is szolgál az északkeleti turisztikai tevékenységekhez.",
+      ro: "Portul Touho este un nod regional de pe coasta de est, care susține atât pescuitul local, cât și comerțul de coastă. Joacă un rol important în conectarea comunităților izolate din Provincia de Nord la rutele de aprovizionare maritimă. Instalația servește, de asemenea, ca punct de plecare pentru activități turistice în nord-est.",
+      en: "The Port of Touho is a regional hub on the east coast, supporting both local fishing and coastal trade. It plays an important role in connecting remote communities in the North Province to maritime supply routes. The facility also serves as a starting point for tourist activities in the northeast.",
+    },
+    factsAdvanced: {
+      de: ["Wichtiger Hafen an der Ostküste", "Basis für regionale Fischerboote", "Anlegestelle für Versorgungsschiffe", "Nähe zum Regionalflughafen Touho", "Zentrum für den lokalen Warentransport", "Ausgangspunkt für Lagunen-Exkursionen"],
+      hu: ["A keleti part fontos kikötője", "Regionális halászhajók bázisa", "Ellátóhajók kikötőhelye", "A Touho regionális repülőtér közelében", "A helyi áruszállítás központja", "Lagúna-kirándulások kiindulópontja"],
+      ro: ["Port important pe coasta de est", "Bază pentru navele de pescuit regionale", "Punct de acostare pentru nave de aprovizionare", "Aproape de aeroportul regional Touho", "Centru pentru transportul local de mărfuri", "Punct de plecare pentru excursii în lagună"],
+      en: ["Significant port on the east coast", "Base for regional fishing vessels", "Berthing point for supply ships", "Proximity to Touho regional airport", "Center for local freight transport", "Departure point for lagoon excursions"],
+    },
   },
   {
     id: "newcaledonia-goro-port-economic-v2",
@@ -475,6 +763,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Deep-water terminal in the south", "Private port for Prony Resources", "Specialized in handling chemicals", "Key component of the industrial site"],
     },
     imageHint: "Industrial pier with large ships at Goro",
+    descriptionAdvanced: {
+      de: "Der Industriepark Goro umfasst einen spezialisierten Tiefwasserhafen, der ausschließlich der Logistik des massiven Nickel- und Kobaltprojekts im Süden dient. Er ermöglicht den Import von Rohstoffen wie Schwefel und den Export von veredelten Industrieprodukten. Die hochmoderne Infrastruktur ist für extrem schwere Lasten und spezialisierte Tankschiffe ausgelegt.",
+      hu: "A Goro ipari kikötő egy speciális mélyvízi kikötő, amely kizárólag a déli nagyszabású nikkel- és kobaltprojekt logisztikáját szolgálja. Lehetővé teszi az olyan nyersanyagok behozatalát, mint a kén, és a finomított ipari termékek exportját. A korszerű infrastruktúrát rendkívül nehéz rakományok és speciális tartályhajók fogadására tervezték.",
+      ro: "Portul industrial Goro cuprinde un port specializat de adâncime, care servește exclusiv logisticii proiectului masiv de nichel și cobalt din sud. Acesta permite importul de materii prime precum sulful și exportul de produse industriale rafinate. Infrastructura ultramodernă este proiectată pentru încărcături extrem de grele și nave tanc specializate.",
+      en: "The Goro industrial port comprises a specialized deep-water facility dedicated exclusively to the logistics of the massive nickel and cobalt project in the south. It enables the import of raw materials such as sulfur and the export of refined industrial products. The state-of-the-art infrastructure is designed for extremely heavy loads and specialized tankers.",
+    },
+    factsAdvanced: {
+      de: ["Spezialisierter Industriehafen im Süden", "Teil des Prony Resources Projekts", "Tiefwasserbecken für große Frachter", "Anschlagpunkt für Schwefelimporte", "Export von Nickel-Kobalt-Zwischenprodukten", "Privat verwaltete Hafenanlage"],
+      hu: ["Speciális ipari kikötő délen", "A Prony Resources projekt része", "Mélyvízi medence nagy teherhajóknak", "A kénimport elsődleges érkezési pontja", "Nikkel-kobalt köztes termékek exportja", "Magánkézben lévő kikötői létesítmény"],
+      ro: ["Port industrial specializat în sud", "Parte a proiectului Prony Resources", "Bazin de adâncime pentru nave mari", "Punct de descărcare pentru importurile de sulf", "Exportul produselor intermediare de nichel-cobalt", "Instalație portuară administrată privat"],
+      en: ["Specialized industrial port in the south", "Part of the Prony Resources project", "Deep-water basin for large freighters", "Primary point for sulfur imports", "Export hub for nickel-cobalt intermediates", "Privately managed port facility"],
+    },
   },
   {
     id: "newcaledonia-paita-meat-processing-economic-v2",
@@ -494,6 +794,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Most modern slaughterhouse in the country", "Processes beef, pork, and poultry", "Headquarters of the OCEF agency", "Adheres to strict hygiene standards"],
     },
     imageHint: "Industrial food processing facility in Paita",
+    descriptionAdvanced: {
+      de: "Das Fleischverarbeitungszentrum in Païta ist die zentrale Einrichtung für die kaledonische Viehwirtschaft und wird vom OCEF betrieben. Hier werden Fleischprodukte aus dem ganzen Land nach strengen Hygienestandards verarbeitet und für den lokalen Markt vorbereitet. Die Anlage ist entscheidend für die Ernährungssouveränität und die Unterstützung der ländlichen Züchter.",
+      hu: "A païtai húsfeldolgozó központ a kaledóniai állattenyésztési ágazat központi létesítménye, amelyet az OCEF üzemeltet. Itt az ország minden részéről érkező hústermékeket szigorú higiéniai szabványok szerint dolgozzák fel és készítik elő a helyi piacra. A létesítmény kulcsfontosságú az élelmiszer-önrendelkezés és a vidéki tenyésztők támogatása szempontjából.",
+      ro: "Centrul de procesare a cărnii din Païta este instalația centrală pentru industria zootehnică caledoniană, fiind operat de OCEF. Aici, produsele din carne din toată țara sunt procesate conform standardelor riguroase de igienă și pregătite pentru piața locală. Instalația este crucială pentru suveranitatea alimentară și sprijinirea crescătorilor rurali.",
+      en: "The meat processing center in Païta is the central facility for the Caledonian livestock industry, operated by the OCEF. Here, meat products from across the country are processed according to strict hygiene standards and prepared for the local market. The facility is crucial for food sovereignty and supporting rural breeders.",
+    },
+    factsAdvanced: {
+      de: ["Betrieben vom OCEF (Vermarktungsamt)", "Zentraler Schlachthof Neukaledoniens", "Sitz in der Gemeinde Païta", "Verarbeitung von Rind- und Schweinefleisch", "Sicherung lokaler Qualitätsstandards", "Knotenpunkt der kaledonischen Kühlkette"],
+      hu: ["Az OCEF (Értékesítési Hivatal) üzemelteti", "Új-Kaledónia központi vágóhídja", "Païta községben található", "Marha- és sertéshús feldolgozása", "Helyi minőségi szabványok biztosítása", "A kaledóniai hűtőlánc csomópontja"],
+      ro: ["Operat de OCEF (Oficiul de Comercializare)", "Abatorul central al Noii Caledonii", "Situat în comuna Païta", "Procesarea cărnii de vită și de porc", "Asigurarea standardelor locale de calitate", "Nodul lanțului frigorific caledonian"],
+      en: ["Operated by the OCEF marketing board", "Central slaughterhouse of New Caledonia", "Located in the Païta municipality", "Processing of beef and pork products", "Ensures local quality standards", "Key node in the Caledonian cold chain"],
+    },
   },
   {
     id: "newcaledonia-port-moselle-commercial-economic-v2",
@@ -513,6 +825,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Main center for fresh seafood sales", "Key landing site for local fishing boats", "Site of a large regional produce market", "Active hub for local commerce"],
     },
     imageHint: "Busy fish market and harbor in Port Moselle",
+    descriptionAdvanced: {
+      de: "Port Moselle ist das kommerzielle und maritime Herz von Nouméa, bekannt für seinen großen Markt und den wichtigsten Yachthafen des Territoriums. Er fungiert als Schnittstelle zwischen der Stadtbevölkerung, dem Tourismus und der Versorgung mit frischen Meeresfrüchten. Die Gegend ist ein bedeutendes Wirtschaftszentrum mit zahlreichen Dienstleistern und Handelsgeschäften.",
+      hu: "Port Moselle Nouméa kereskedelmi és tengeri szíve, amely nagy piacáról és a terület legfontosabb jachtkikötőjéről ismert. Összekötő kapuként szolgál a városi lakosság, a turizmus és a friss tengeri gyümölcsök ellátása között. A környék jelentős gazdasági központ, számos szolgáltatóval és kereskedelmi egységgel.",
+      ro: "Port Moselle este inima comercială și maritimă a orașului Nouméa, cunoscut pentru piața sa mare și cel mai important port de agrement din teritoriu. Acesta funcționează ca o interfață între populația urbană, turism și aprovizionarea cu fructe de mare proaspete. Zona este un centru economic semnificativ, cu numeroși furnizori de servicii și unități comerciale.",
+      en: "Port Moselle is the commercial and maritime heart of Nouméa, known for its large market and the territory's primary marina. It functions as an interface between the urban population, tourism, and the supply of fresh seafood. The area is a significant economic center with numerous service providers and commercial outlets.",
+    },
+    factsAdvanced: {
+      de: ["Standort des größten Marktes von Nouméa", "Hauptterminal für Wassertaxis", "Wichtigster Jachthafen des Archipels", "Zentrum für den Fischereihandel", "Sitz maritimer Verwaltungsbehörden", "Wirtschaftlicher Brennpunkt im Stadtzentrum"],
+      hu: ["Nouméa legnagyobb piacának helyszíne", "A vízitaxik fő terminálja", "A szigetcsoport legfontosabb jachtkikötője", "A halkereskedelem központja", "Tengerészeti hatóságok székhelye", "A városközpont gazdasági gyűjtőpontja"],
+      ro: ["Sediul celei mai mari piețe din Nouméa", "Terminalul principal pentru taxiuri pe apă", "Cea mai importantă marină din arhipelag", "Centru pentru comerțul cu pește", "Sediul autorităților maritime", "Punct economic central în centrul orașului"],
+      en: ["Site of Nouméa's largest daily market", "Main terminal for water taxi services", "Primary marina of the archipelago", "Hub for the local seafood trade", "Seat of maritime administrative offices", "Economic focal point in the city center"],
+    },
   },
   {
     id: "newcaledonia-vavouto-industrial-area-economic-v2",
@@ -532,6 +856,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Purpose-built for the mining industry", "Features a modern coal power plant", "Comprehensive infrastructure in the north", "Strategic location near the town of Voh"],
     },
     imageHint: "Large industrial infrastructure in Vavouto valley",
+    descriptionAdvanced: {
+      de: "Das Industriegebiet Vavouto beherbergt das Koniambo-Nickel-Werk, eines der weltweit bedeutendsten Projekte zur Metallgewinnung. Es ist das wirtschaftliche Rückgrat der Nordprovinz und wurde im Rahmen der politischen Neuausrichtung zur Förderung der Region entwickelt. Die Anlage umfasst ein eigenes Kraftwerk, ein Hüttenwerk und einen spezialisierten Erzhafen.",
+      hu: "A Vavouto ipari terület a Koniambo Nickel üzemnek ad otthont, amely a világ egyik legjelentősebb fémkitermelési projektje. Ez az Északi Tartomány gazdasági gerince, amelyet a régió fellendítését célzó politikai átrendeződés részeként fejlesztettek ki. A létesítmény saját erőművel, kohóval és speciális érckikötővel rendelkezik.",
+      ro: "Zona industrială Vavouto găzduiește uzina Koniambo Nickel, unul dintre cele mai semnificative proiecte de extracție a metalelor din lume. Este coloana vertebrală economică a Provinciei de Nord și a fost dezvoltată ca parte a reechilibrării politice pentru promovarea regiunii. Instalația include propria centrală electrică, o topitorie și un port specializat pentru minereu.",
+      en: "The Vavouto industrial area hosts the Koniambo Nickel plant, one of the world's most significant metal extraction projects. It is the economic backbone of the North Province and was developed as part of the political rebalancing to promote the region. The facility includes its own power plant, a smelter, and a specialized ore port.",
+    },
+    factsAdvanced: {
+      de: ["Standort des Koniambo Nickel-Projekts", "Größter Arbeitgeber in der Nordprovinz", "Verfügt über ein eigenes Kohlekraftwerk", "Integrierter Tiefseehafen für Erze", "Wesentlicher Faktor des wirtschaftlichen Ausgleichs", "Nutzung modernster Pyrometallurgie-Technik"],
+      hu: ["A Koniambo Nickel projekt helyszíne", "Az Északi Tartomány legnagyobb munkaadója", "Saját széntüzelésű erőművel rendelkezik", "Integrált mélytengeri érckikötő", "A gazdasági kiegyenlítés alapvető tényezője", "Modern pirometallurgiai technológiát alkalmaz"],
+      ro: ["Sediul proiectului Koniambo Nickel", "Cel mai mare angajator din Provincia de Nord", "Dispune de propria centrală pe cărbune", "Port maritim integrat pentru minereu", "Factor esențial al reechilibrării economice", "Utilizarea tehnologiei pirometalurgice moderne"],
+      en: ["Home to the Koniambo Nickel project", "Largest employer in the North Province", "Equipped with its own power station", "Integrated deep-sea port for ore shipping", "Key factor in the economic rebalancing", "Uses advanced pyrometallurgical technology"],
+    },
   },
   {
     id: "newcaledonia-sln-plateau-mine-economic-v2",
@@ -551,6 +887,18 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["Known for its open-cut mining style", "Dominates the landscape of Thio", "Major supplier for the Doniambo smelter", "Historically the country's most iconic mine"],
     },
     imageHint: "Terraced mining site on top of Thio plateau",
+    descriptionAdvanced: {
+      de: "Die Plateau-Mine in Thio ist die historische Geburtsstätte der Nickelindustrie in Neukaledonien und wird seit dem 19. Jahrhundert von der SLN betrieben. Sie liegt auf einem markanten Plateau oberhalb der Küste und prägt das Landschaftsbild der Region. Thio gilt bis heute als das emotionale und geschichtliche Zentrum des Bergbaus im Archipel.",
+      hu: "A Thióban található Plateau-bánya az új-kaledóniai nikkelipar történelmi bölcsője, amelyet a 19. század óta az SLN üzemeltet. A part feletti jellegzetes fennsíkon helyezkedik el, és meghatározza a régió tájképét. Thio mindmáig a szigetcsoport bányászatának érzelmi és történelmi központjának számít.",
+      ro: "Mina Plateau din Thio este locul istoric de naștere al industriei nichelului în Noua Caledonie, fiind operată de SLN încă din secolul al XIX-lea. Este situată pe un platou proeminent deasupra coastei și modelează peisajul regiunii. Thio este considerat și astăzi centrul emoțional și istoric al mineritului din arhipelag.",
+      en: "The Plateau mine in Thio is the historic birthplace of the nickel industry in New Caledonia, operated by the SLN since the 19th century. It is located on a prominent plateau above the coast and shapes the region's landscape. Thio remains the emotional and historical center of mining in the archipelago.",
+    },
+    factsAdvanced: {
+      de: ["Älteste aktive Nickelmine der Welt", "Beginn des Abbaus im Jahr 1880", "Zentrum der Gemeinde Thio", "Erztransport über lange Förderbänder", "Sitz eines Bergbaumuseums in der Nähe", "Prägt die lokale Kultur der 'Kanaky-Minen'"],
+      hu: ["A világ legrégebbi aktív nickelbányája", "A kitermelés 1880-ban kezdődött", "Thio község gazdasági központja", "Hosszú szállítószalagokon viszik az ércet", "Bányászati múzeum található a közelben", "Meghatározza a helyi bányászkultúrát"],
+      ro: ["Cea mai veche mină de nichel activă din lume", "Începutul extracției în anul 1880", "Centrul economic al comunei Thio", "Transportul minereului prin benzi rulante lungi", "Sediul unui muzeu al mineritului în apropiere", "Modelează cultura locală a mineritului"],
+      en: ["Oldest active nickel mine in the world", "Mining operations began in 1880", "Economic center of Thio municipality", "Ore transport via long conveyor belts", "Mining museum located in the vicinity", "Defines the local 'Kanaky mining' culture"],
+    },
   },
   {
     id: "newcaledonia-tiebaghi-mine-economic-v2",
@@ -570,5 +918,17 @@ export const newcaledoniaEconomicV2: POI[] = [
       en: ["The territory's main chrome deposit", "Part of the Koniambo mineral complex", "Located on a prominent mountain massif", "High-grade ore concentration"],
     },
     imageHint: "Massive open-pit mine near Koumac",
+    descriptionAdvanced: {
+      de: "Die Tiebaghi-Mine nahe Koumac war einst die weltweit größte Chrommine und ist heute ein bedeutender Standort für die Nickelgewinnung. Sie befindet sich auf einem Massiv im Nordwesten von Grande Terre und blickt auf eine bewegte Industriegeschichte zurück. Die Mine ist ein wichtiger Pfeiler der Beschäftigung und wirtschaftlichen Stabilität im Norden.",
+      hu: "A Koumac közelében található Tiebaghi-bánya egykor a világ legnagyobb krómbányája volt, ma pedig a nikkel-kitermelés jelentős helyszíne. Grande Terre északnyugati részén, egy hegységben található, és mozgalmas ipari múltra tekint vissza. A bánya a foglalkoztatás és a gazdasági stabilitás fontos pillére északon.",
+      ro: "Mina Tiebaghi de lângă Koumac a fost cândva cea mai mare mină de crom din lume, iar astăzi este un sit important pentru extracția nichelului. Este situată pe un masiv în nord-vestul Grande Terre și are o istorie industrială bogată. Mina este un pilon important al ocupării forței de muncă și stabilității economice în nord.",
+      en: "The Tiebaghi mine near Koumac was once the world's largest chromium mine and is now a significant site for nickel extraction. Located on a massif in the northwest of Grande Terre, it boasts a rich industrial history. The mine is a key pillar of employment and economic stability in the north.",
+    },
+    factsAdvanced: {
+      de: ["Einst weltgrößte Chrom-Lagerstätte", "Heute Fokus auf hochwertiges Nickelerz", "Befindet sich auf dem Tiebaghi-Massiv", "Wichtigster Arbeitgeber der Region Koumac", "Erzverladung im Hafen von Paagoumène", "Umfangreiche Rekultivierungsprojekte vor Ort"],
+      hu: ["Egykor a világ legnagyobb krómlelőhelye", "Ma a kiváló minőségű nikkelércre fókuszál", "A Tiebaghi-hegység területén fekszik", "Koumac régió legfontosabb munkaadója", "Berakodás a Paagoumène kikötőben", "Kiterjedt tájrehabilitációs projektek a helyszínen"],
+      ro: ["Cândva cel mai mare zăcământ de crom din lume", "Astăzi se concentrează pe minereu de nichel", "Situată pe masivul Tiebaghi", "Cel mai important angajator din regiunea Koumac", "Încărcarea minereului în portul Paagoumène", "Proiecte extinse de recultivare la fața locului"],
+      en: ["Once the world's largest chromium deposit", "Now focused on high-grade nickel ore", "Located on the Tiebaghi massif", "Primary employer in the Koumac region", "Ore loading at the Paagoumène port", "Extensive land reclamation projects on-site"],
+    },
   }
 ];

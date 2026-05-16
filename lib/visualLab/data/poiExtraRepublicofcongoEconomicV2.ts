@@ -19,6 +19,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Features two modern terminals", "Longest runway in the country", "Main hub for ECAIR airlines", "Renovated in the year 2010"],
     },
     imageHint: "Modern terminal building of Maya-Maya Airport in Brazzaville",
+    descriptionAdvanced: {
+      de: "Der Flughafen Maya-Maya ist der wichtigste internationale Flughafen der Republik Kongo und dient als primäres Tor zur Hauptstadt Brazzaville. Nach umfangreichen Modernisierungen zwischen 2010 und 2012 verfügt er über moderne Terminals und zwei Start- und Landebahnen. Er ist ein zentrales Drehkreuz für den Luftverkehr in Zentralafrika und unterstützt die wirtschaftliche Vernetzung des Landes.",
+      hu: "A Maya-Maya repülőtér a Kongói Köztársaság legfontosabb nemzetközi repülőtere, és Brazzaville fővárosának elsődleges kapujaként szolgál. A 2010 és 2012 közötti jelentős modernizációt követően modern terminálokkal és két kifutópályával rendelkezik. Központi csomópont a közép-afrikai légi közlekedésben, és támogatja az ország gazdasági kapcsolatait.",
+      ro: "Aeroportul Maya-Maya este cel mai important aeroport internațional din Republica Congo și servește drept poartă principală către capitala Brazzaville. După modernizări extinse între 2010 și 2012, acesta dispune de terminale moderne și două piste. Este un hub central pentru traficul aerian din Africa Centrală și susține conectivitatea economică a țării.",
+      en: "Maya-Maya Airport is the most important international airport in the Republic of the Congo and serves as the primary gateway to the capital, Brazzaville. Following extensive modernizations between 2010 and 2012, it features modern terminals and two runways. It is a central hub for air traffic in Central Africa and supports the country's economic connectivity.",
+    },
+    factsAdvanced: {
+      de: ["Der Flughafen trägt den IATA-Code BZV und den ICAO-Code FCBB.", "Maya-Maya wurde ursprünglich in den späten 1940er Jahren erbaut.", "Das moderne Terminal wurde von einem chinesischen Unternehmen (WIETC) errichtet.", "Die längste Startbahn des Flughafens misst beeindruckende 3.700 Meter.", "Der Flughafen kann Großraumflugzeuge wie den Airbus A380 abfertigen.", "Er ist der Heimatflughafen der nationalen Fluggesellschaft Equatorial Congo Airlines."],
+      hu: ["A repülőtér IATA-kódja BZV, ICAO-kódja pedig FCBB.", "A Maya-Maya repülőteret eredetileg az 1940-es évek végén építették.", "A modern terminált egy kínai vállalat (WIETC) építette.", "A repülőtér leghosszabb kifutópályája lenyűgöző 3700 méteres.", "A repülőtér képes fogadni az olyan nagygépeket, mint az Airbus A380.", "Ez az Equatorial Congo Airlines nemzeti légitársaság bázisrepülőtere."],
+      ro: ["Aeroportul poartă codul IATA BZV și codul ICAO FCBB.", "Maya-Maya a fost construit inițial la sfârșitul anilor 1940.", "Terminalul modern a fost construit de o companie chineză (WIETC).", "Cea mai lungă pistă a aeroportului măsoară impresionantul număr de 3.700 de metri.", "Aeroportul poate opera avioane de mare capacitate, cum ar fi Airbus A380.", "Este aeroportul de bază pentru compania aeriană națională Equatorial Congo Airlines."],
+      en: ["The airport carries the IATA code BZV and the ICAO code FCBB.", "Maya-Maya was originally built in the late 1940s.", "The modern terminal was constructed by a Chinese company (WIETC).", "The airport's longest runway measures an impressive 3,700 meters.", "The airport can handle large aircraft such as the Airbus A380.", "It is the home airport for the national airline Equatorial Congo Airlines."],
+    },
   },
   {
     id: "republicofcongo-imboulou-dam-economic-v2",
@@ -38,6 +50,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Capacity of 120 megawatts", "Commissioned in the year 2011", "Largest dam in the interior", "Vital for the national power grid"],
     },
     imageHint: "Large hydroelectric dam and power station on a river",
+    descriptionAdvanced: {
+      de: "Der Imboulou-Staudamm ist eines der größten Wasserkraftprojekte der Republik Kongo und liegt am Fluss Léfini, etwa 215 Kilometer nördlich von Brazzaville. Mit einer installierten Leistung von 120 Megawatt spielt er eine entscheidende Rolle bei der Energieversorgung der Hauptstadt und der umliegenden Regionen. Das Projekt wurde mit internationaler Zusammenarbeit realisiert und 2011 in Betrieb genommen.",
+      hu: "Az Imboulou-gát a Kongói Köztársaság egyik legnagyobb vízerőmű-projektje, amely a Léfini-folyón található, körülbelül 215 kilométerre északra Brazzaville-től. 120 megawattos beépített teljesítményével döntő szerepet játszik a főváros és a környező régiók energiaellátásában. A projektet nemzetközi együttműködéssel valósították meg, és 2011-ben helyezték üzembe.",
+      ro: "Barajul Imboulou este unul dintre cele mai mari proiecte hidroenergetice din Republica Congo, situat pe râul Léfini, la aproximativ 215 kilometri nord de Brazzaville. Cu o putere instalată de 120 de megawați, acesta joacă un rol crucial în alimentarea cu energie a capitalei și a regiunilor învecinate. Proiectul a fost realizat cu cooperare internațională și pus în funcțiune în 2011.",
+      en: "The Imboulou Dam is one of the largest hydroelectric projects in the Republic of the Congo, located on the Léfini River, about 215 kilometers north of Brazzaville. With an installed capacity of 120 megawatts, it plays a crucial role in supplying power to the capital and surrounding regions. The project was realized with international cooperation and commissioned in 2011.",
+    },
+    factsAdvanced: {
+      de: ["Der Damm hat eine installierte Gesamtleistung von 120 MW.", "Das Kraftwerk verfügt über vier Turbinen mit jeweils 30 MW Leistung.", "Der Bau wurde hauptsächlich durch Kredite der China Exim Bank finanziert.", "Imboulou ist mit einer 225-kV-Hochspannungsleitung mit Brazzaville verbunden.", "Das Projekt wurde offiziell im Mai 2011 eingeweiht.", "Der Staudamm hat die Stromknappheit in der Hauptstadt erheblich reduziert."],
+      hu: ["A gát teljes beépített teljesítménye 120 MW.", "Az erőmű négy, egyenként 30 MW teljesítményű turbinával rendelkezik.", "Az építkezést főként a China Exim Bank hitelei finanszírozták.", "Imboulout egy 225 kV-os nagyfeszültségű vezeték köti össze Brazzaville-lel.", "A projektet hivatalosan 2011 májusában avatták fel.", "A gát jelentősen csökkentette az áramhiányt a fővárosban."],
+      ro: ["Barajul are o putere instalată totală de 120 MW.", "Centrala dispune de patru turbine, fiecare cu o putere de 30 MW.", "Construcția a fost finanțată în principal prin împrumuturi de la China Exim Bank.", "Imboulou este conectat la Brazzaville printr-o linie de înaltă tensiune de 225 kV.", "Proiectul a fost inaugurat oficial în mai 2011.", "Barajul a redus semnificativ deficitul de energie electrică din capitală."],
+      en: ["The dam has a total installed capacity of 120 MW.", "The power plant features four turbines, each with 30 MW of capacity.", "Construction was primarily financed through loans from the China Exim Bank.", "Imboulou is connected to Brazzaville via a 225 kV high-voltage line.", "The project was officially inaugurated in May 2011.", "The dam significantly reduced electricity shortages in the capital."],
+    },
   },
   {
     id: "republicofcongo-nkayi-sugar-factory-economic-v2",
@@ -57,6 +81,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Largest employer in the city", "Produces for the domestic market", "Extensive sugar cane fields", "Founded during colonial times"],
     },
     imageHint: "Industrial sugar processing facility surrounded by green fields",
+    descriptionAdvanced: {
+      de: "Die Zuckerfabrik in Nkayi, betrieben von SARIS-Congo, ist der größte industrielle Arbeitgeber im Departement Bouenza. Das Unternehmen verwaltet riesige Zuckerrohrplantagen in der Umgebung und produziert den Großteil des im Inland konsumierten Zuckers. Diese Fabrik ist ein Eckpfeiler der kongolesischen Agrarindustrie und hat Nkayi zur viertgrößten Stadt des Landes gemacht.",
+      hu: "A nkayi cukorgyár, amelyet a SARIS-Congo üzemeltet, Bouenza megye legnagyobb ipari foglalkoztatója. A vállalat hatalmas cukornádültetvényeket kezel a környéken, és a belföldön fogyasztott cukor nagy részét állítja elő. Ez a gyár a kongói agrárvállalkozás sarokköve, és Nkayit az ország negyedik legnagyobb városává tette.",
+      ro: "Fabrica de zahăr din Nkayi, operată de SARIS-Congo, este cel mai mare angajator industrial din departamentul Bouenza. Compania gestionează plantații vaste de trestie de zahăr în zonă și produce majoritatea zahărului consumat intern. Această fabrică este o piatră de temelie a agrobusiness-ului congolez și a făcut din Nkayi al patrulea oraș ca mărime din țară.",
+      en: "The sugar factory in Nkayi, operated by SARIS-Congo, is the largest industrial employer in the Bouenza Department. The company manages vast sugarcane plantations in the area and produces the majority of the sugar consumed domestically. This factory is a cornerstone of Congolese agribusiness and has made Nkayi the fourth largest city in the country.",
+    },
+    factsAdvanced: {
+      de: ["Die Fabrik wird von SARIS-Congo, einem Tochterunternehmen der SOMDIAA-Gruppe, betrieben.", "Nkayi produziert jährlich etwa 70.000 Tonnen raffinierten Zucker.", "Die Fabrik beschäftigt direkt über 2.000 feste Mitarbeiter.", "Die Zuckerrohrplantagen erstrecken sich über eine Fläche von rund 12.000 Hektar.", "SARIS wurde in den 1970er Jahren nach der Verstaatlichung früherer Firmen gegründet.", "Die Stadt Nkayi hieß während der Kolonialzeit offiziell Jacob."],
+      hu: ["A gyárat a SARIS-Congo, a SOMDIAA csoport leányvállalata üzemelteti.", "Nkayi évente körülbelül 70 000 tonna finomított cukrot termel.", "A gyár közvetlenül több mint 2000 állandó alkalmazottat foglalkoztat.", "A cukornádültetvények körülbelül 12 000 hektár területen terülnek el.", "A SARIS-t az 1970-es években alapították a korábbi cégek államosítása után.", "Nkayi várost a gyarmati időkben hivatalosan Jacobnak hívták."],
+      ro: ["Fabrica este operată de SARIS-Congo, o filială a grupului SOMDIAA.", "Nkayi produce anual aproximativ 70.000 de tone de zahăr rafinat.", "Fabrica are peste 2.000 de angajați permanenți direcți.", "Plantațiile de trestie de zahăr se întind pe o suprafață de circa 12.000 de hectare.", "SARIS a fost înființată în anii 1970 după naționalizarea firmelor anterioare.", "Orașul Nkayi se numea oficial Jacob în perioada colonială."],
+      en: ["The factory is operated by SARIS-Congo, a subsidiary of the SOMDIAA group.", "Nkayi produces approximately 70,000 tons of refined sugar annually.", "The factory directly employs over 2,000 permanent staff.", "The sugarcane plantations cover an area of around 12,000 hectares.", "SARIS was established in the 1970s following the nationalization of earlier firms.", "The town of Nkayi was officially named Jacob during the colonial period."],
+    },
   },
   {
     id: "republicofcongo-brazzaville-river-port-economic-v2",
@@ -76,6 +112,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Terminal of the CFCO railway", "Trade gateway towards Bangui", "Major passenger terminal", "Transshipment point for timber"],
     },
     imageHint: "Busy river port on the Congo River with barges and cranes",
+    descriptionAdvanced: {
+      de: "Der Hafen von Brazzaville ist der wichtigste Binnenhafen der Republik Kongo am rechten Ufer des Kongo-Flusses. Er bildet den Endpunkt der Schienentransitstrecke von Pointe-Noire und ist ein zentraler Umschlagplatz für Waren in den Norden des Landes sowie nach Zentralafrika. Die Infrastruktur umfasst spezialisierte Terminals für Holz, Kohlenwasserstoffe und allgemeine Fracht.",
+      hu: "Brazzaville folyami kikötője a Kongó-folyó jobb partján fekvő stratégiai csomópont, amely összeköti az ország belső területeit az óceáni kijárattal. A kikötő a CFCO vasútvonal végállomásaként kulcsszerepet játszik a faáru, az üzemanyag és az élelmiszerek elosztásában. Fontos tranzitmegálló a Közép-afrikai Köztársaság és Csád felé irányuló kereskedelemben is.",
+      ro: "Portul fluvial Brazzaville este principalul nod logistic al Republicii Congo, situat pe malul drept al fluviului Congo. Acesta servește ca punct terminal pentru calea ferată CFCO care vine de la Pointe-Noire, facilitând transportul mărfurilor către interiorul țării. Portul gestionează volume mari de lemn, produse petroliere și bunuri de consum pentru regiunea central-africană.",
+      en: "The Brazzaville River Port is the Republic of the Congo's primary inland maritime hub, located on the right bank of the Congo River. It serves as the northern terminus of the CFCO railway from Pointe-Noire, enabling the transshipment of goods to the country's interior. The facility is crucial for the export of timber and the distribution of fuel and essential supplies.",
+    },
+    factsAdvanced: {
+      de: ["Liegt am rechten Ufer des Kongo-Flusses gegenüber von Kinshasa.", "Endstation der 510 km langen CFCO-Eisenbahnstrecke.", "Wichtigster Umschlagplatz für den Export von Tropenholz.", "Zentraler Versorgungsknoten für die Zentralafrikanische Republik.", "Verfügt über spezialisierte Docks für Erdölprodukte.", "Wurde umfassend modernisiert, um die Kapazität zu erhöhen."],
+      hu: ["A Kongó-folyó jobb partján, Kinshasával szemben található.", "Az 510 km hosszú CFCO vasútvonal északi végpontja.", "A közép-afrikai faexport egyik legfontosabb logisztikai helyszíne.", "Kiemelt szerepet játszik a Közép-afrikai Köztársaság ellátásában.", "Külön terminálokkal rendelkezik a kőolajszármazékok számára.", "Az utóbbi években jelentős infrastrukturális fejlesztésen esett át."],
+      ro: ["Situat pe malul drept al fluviului Congo, vizavi de Kinshasa.", "Reprezintă punctul terminus al căii ferate CFCO de 510 km.", "Centru major pentru exportul de lemn tropical din bazinul Congo.", "Nod vital pentru aprovizionarea Republicii Centrafricane.", "Include terminale specializate pentru produse petroliere.", "Capacitatea sa a fost extinsă prin proiecte recente de modernizare."],
+      en: ["Located on the right bank of the Congo River across from Kinshasa.", "Serves as the terminus for the 510 km CFCO railway line.", "Primary gateway for timber exports from the northern rainforests.", "Critical transit point for goods destined for the Central African Republic.", "Features specialized docks for handling petroleum and oil products.", "Has undergone major rehabilitation to increase cargo throughput."],
+    },
   },
   {
     id: "republicofcongo-maloukou-sez-economic-v2",
@@ -95,6 +143,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Special Economic Zone (SEZ)", "State-sponsored project", "Focus on manufacturing industry", "Connection to the Congo River"],
     },
     imageHint: "New industrial warehouses and factory buildings in an economic zone",
+    descriptionAdvanced: {
+      de: "Die Sonderwirtschaftszone Maloukou liegt etwa 80 Kilometer nördlich von Brazzaville und ist ein Kernstück der industriellen Diversifizierungsstrategie des Landes. Auf einer Fläche von rund 1.000 Hektar beherbergt sie Fabriken für Baustoffe, Keramik und pharmazeutische Produkte. Das Projekt zielt darauf ab, die Abhängigkeit vom Erdölexport zu verringern und lokale Arbeitsplätze im verarbeitenden Gewerbe zu schaffen.",
+      hu: "A Maloukou Különleges Gazdasági Övezet mintegy 80 kilométerre északra fekszik Brazzaville-től, és az ország ipari diverzifikációs törekvéseinek központja. Az 1000 hektáros területen építőanyag-, kerámia- és gyógyszeripari üzemek kaptak helyet. A projekt célja a nyersolaj-exporttól való függőség csökkentése és a helyi feldolgozóipar fellendítése modern infrastruktúra biztosításával.",
+      ro: "Zona Economică Specială Maloukou este situată la aproximativ 80 de kilometri nord de Brazzaville și reprezintă un pilon al strategiei de diversificare industrială a țării. Întinsă pe 1.000 de hectare, zona găzduiește fabrici de materiale de construcții, ceramică și produse farmaceutice. Proiectul vizează reducerea dependenței de exporturile de petrol și crearea de locuri de muncă în sectorul manufacturier.",
+      en: "The Maloukou Special Economic Zone is located approximately 80 kilometers north of Brazzaville and is a cornerstone of the nation's industrial diversification strategy. Spanning 1,000 hectares, it hosts factories dedicated to construction materials, ceramics, and pharmaceuticals. The zone aims to reduce economic reliance on oil exports by fostering a local manufacturing sector with modern logistics.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich ca. 80 km nördlich der Hauptstadt Brazzaville.", "Umfasst ein geplantes Industrieareal von 1.000 Hektar.", "Beherbergt eine große Keramikfabrik für den regionalen Markt.", "Teil eines Plans zur Schaffung von vier Sonderwirtschaftszonen.", "Verfügt über eigene Strom- und Wasserversorgungssysteme.", "Fokus liegt auf der Produktion von Importsubstitutionsgütern."],
+      hu: ["Brazzaville-től 80 km-re északra, a Kongó-folyó közelében található.", "A kijelölt ipari terület nagysága eléri az 1000 hektárt.", "Itt működik az ország egyik legnagyobb kerámia- és csempegyára.", "A kormány által tervezett négy speciális gazdasági övezet egyike.", "Saját elektromos hálózattal és vízellátó rendszerrel rendelkezik.", "Az importált építőanyagok kiváltására összpontosít a termelésben.", "2012-ben indult el az első ütem fejlesztése."],
+      ro: ["Situată la 80 km nord de Brazzaville, în apropierea fluviului Congo.", "Acoperă o suprafață industrială planificată de 1.000 de hectare.", "Găzduiește o unitate majoră de producție de ceramică și plăci.", "Face parte dintr-un plan național de a crea patru zone economice.", "Dispune de infrastructură proprie de energie și apă.", "Se concentrează pe producția de bunuri care înlocuiesc importurile."],
+      en: ["Located 80 km north of Brazzaville near the Congo River.", "Covers a designated industrial area of 1,000 hectares.", "Home to a significant ceramics factory for regional supply.", "One of four special economic zones planned by the government.", "Features independent power and water supply infrastructure.", "Focuses on manufacturing goods to replace expensive imports."],
+    },
   },
   {
     id: "republicofcongo-mindouli-copper-mines-economic-v2",
@@ -114,6 +174,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Rich in copper and lead ores", "Connected to the CFCO railway", "Historic mining location", "Important for raw material exports"],
     },
     imageHint: "Open pit copper mine and industrial mining equipment",
+    descriptionAdvanced: {
+      de: "Die Kupferminen von Mindouli befinden sich im Departement Pool und blicken auf eine lange Bergbaugeschichte zurück. In den letzten Jahren wurden die Vorkommen durch internationale Partnerschaften, insbesondere mit chinesischen Unternehmen, wiederbelebt. Neben Kupfer werden in der Region auch signifikante Mengen an Blei und Zink abgebaut. Die Minen sind über die CFCO-Eisenbahnlinie direkt mit dem Hafen von Pointe-Noire verbunden.",
+      hu: "Mindouli rézbányái a Pool megyében találhatók, és jelentős történelmi múltra tekintenek vissza a kongói bányászatban. Az elmúlt évtizedben a lelőhelyeket nemzetközi, főként kínai befektetések révén modernizálták és újra megnyitották. A kitermelés főként rézre, ólomra és cinkre összpontosít, amelyeket exportra szánnak. A bányák logisztikáját a közelben haladó CFCO vasútvonal segíti.",
+      ro: "Minele de cupru de la Mindouli sunt situate în departamentul Pool și au o istorie îndelungată de exploatare minieră. Recent, depozitele au fost revitalizate prin parteneriate internaționale, în special cu firme chineze precum Soremi. Pe lângă cupru, în regiune se extrag cantități semnificative de plumb și zinc. Minele sunt conectate strategic la calea ferată CFCO pentru transportul către Pointe-Noire.",
+      en: "The Mindouli Copper Mines are located in the Pool Department and possess a long history of mineral extraction in the region. In recent years, the deposits have been revitalized through international partnerships, particularly with Chinese firms like Soremi. The sites produce significant quantities of copper, lead, and zinc for export. The mines benefit from their proximity to the CFCO railway line for heavy transport.",
+    },
+    factsAdvanced: {
+      de: ["Befinden sich im Departement Pool im Südwesten des Landes.", "Wurden durch das Joint Venture Soremi (Sino-Congo) reaktiviert.", "Hauptvorkommen sind Kupfer, Blei und Zinkkonzentrate.", "Erste moderne Kupferproduktion startete offiziell im Jahr 2014.", "Direkter Anschluss an die CFCO-Eisenbahn für den Abtransport.", "Schafft hunderte Arbeitsplätze in einer ländlichen Region."],
+      hu: ["A Pool megyében, az ország délnyugati részén találhatók.", "A Soremi (kínai-kongói) vegyesvállalat üzemelteti a bányákat.", "A kitermelés fő termékei a réz, az ólom és a cink-koncentrátum.", "A modern kitermelés hivatalosan 2014-ben vette kezdetét.", "Közvetlen összeköttetésben állnak a CFCO vasútvonallal.", "A bányák több száz helyi lakosnak biztosítanak munkalehetőséget."],
+      ro: ["Situate în departamentul Pool, în sud-vestul țării.", "Reactivate prin intermediul parteneriatului Soremi (Sino-Congo).", "Resursele principale exploatate sunt cuprul, plumbul și zincul.", "Producția modernă de cupru a început oficial în anul 2014.", "Acces direct la calea ferată CFCO pentru transportul minereului.", "Reprezintă o sursă majoră de venituri pentru regiunea Pool."],
+      en: ["Located in the Pool Department in southwestern Congo.", "Reactivated through the Soremi (Sino-Congo) joint venture.", "The primary ores extracted are copper, lead, and zinc concentrates.", "Modern copper production officially commenced in 2014.", "Strategic proximity to the CFCO railway facilitates logistics.", "Provides several hundred jobs in a primarily rural area."],
+    },
   },
   {
     id: "republicofcongo-ifo-ngombe-sawmill-economic-v2",
@@ -133,6 +205,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["FSC-certified forestry management", "Largest industrial complex in north", "Exports precious wood globally", "Major employer in Ouesso area"],
     },
     imageHint: "Large industrial sawmill with stacked timber logs",
+    descriptionAdvanced: {
+      de: "Das Sägewerk Ngombe, betrieben von der Industrie Forestière d'Ouesso (IFO), ist einer der größten Holzverarbeitungsbetriebe in Nordkongo. Es verarbeitet Edelholz aus einer über 1,1 Millionen Hektar großen, FSC-zertifizierten Konzession. Das Werk produziert Schnittholz und Parkettböden für den internationalen Markt unter strengen Nachhaltigkeitsauflagen. Es ist der wichtigste Arbeitgeber in der Region Sangha.",
+      hu: "A Ngombe fűrészüzem, amelyet az Industrie Forestière d'Ouesso (IFO) üzemeltet, Észak-Kongó egyik legnagyobb fafeldolgozó létesítménye. Az üzem egy több mint 1,1 millió hektáros, FSC-tanúsítvánnyal rendelkező erdőterületről származó nemesfát dolgoz fel. A gyár fűrészárut és parkettát állít elő a világpiacra, miközben szigorú fenntarthatósági előírásokat követ. A Sangha régió gazdaságának tartóoszlopa.",
+      ro: "Fabrica de cherestea Ngombe, operată de Industrie Forestière d'Ouesso (IFO), este una dintre cele mai mari unități de procesare a lemnului din nordul Congo-ului. Aceasta prelucrează lemn prețios dintr-o concesiune de peste 1,1 milioane de hectare, certificată FSC. Fabrica produce cherestea și parchet pentru piața internațională, respectând standarde riguroase de sustenabilitate. Este cel mai mare angajator din Sangha.",
+      en: "The Ngombe Sawmill, operated by Industrie Forestière d'Ouesso (IFO), is one of the largest timber processing facilities in northern Congo. It processes high-value hardwoods from an FSC-certified concession spanning over 1.1 million hectares. The plant produces sawn timber and flooring for international markets while adhering to strict sustainability protocols. It serves as the economic backbone of the Sangha region.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zur Danzer-Gruppe und wird von IFO betrieben.", "Verarbeitet Holz aus einer 1,16 Millionen Hektar großen Konzession.", "Erreichte als einer der ersten Betriebe in Zentralafrika die FSC-Zertifizierung.", "Produziert jährlich Zehntausende Kubikmeter Schnittholz.", "Befindet sich in der Nähe der Stadt Ouesso im Norden.", "Unterstützt lokale soziale Projekte wie Schulen und Kliniken."],
+      hu: ["A Danzer-csoporthoz tartozó IFO vállalat üzemelteti.", "Egy 1,16 millió hektáros erdőkoncesszió fáját dolgozza fel.", "Az elsők között kapta meg az FSC-tanúsítványt Közép-Afrikában.", "Évente több tízezer köbméter fűrészárut állít elő.", "Az északi Ouesso városának közelében helyezkedik el.", "Helyi szociális projekteket, iskolákat és klinikákat támogat."],
+      ro: ["Face parte din Grupul Danzer și este operată de IFO.", "Gestionează o concesiune forestieră de 1,16 milioane de hectare.", "Deține certificarea FSC pentru management forestier durabil.", "Produce zeci de mii de metri cubi de cherestea anual.", "Situată în apropierea orașului Ouesso din nordul țării.", "Finanțează infrastructura locală, inclusiv școli și spitale."],
+      en: ["Part of the Danzer Group and operated by IFO.", "Manages a forest concession of 1.16 million hectares.", "One of the first in Central Africa to achieve FSC certification.", "Produces tens of thousands of cubic meters of sawn timber annually.", "Located near the town of Ouesso in the northern Sangha region.", "Funds local community infrastructure, including schools and clinics."],
+    },
   },
   {
     id: "republicofcongo-zanaga-iron-project-economic-v2",
@@ -152,6 +236,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Massive iron ore deposit", "Part of the Chaillu Massif", "Significant investment project", "Planned export via Pointe-Noire"],
     },
     imageHint: "Geological exploration site in a mountainous tropical forest",
+    descriptionAdvanced: {
+      de: "Das Zanaga-Eisenprojekt ist eines der größten unerschlossenen Eisenerzvorkommen der Welt und liegt in der Region Lékoumou. Das Projekt wird in Zusammenarbeit mit dem Bergbaukonzern Glencore entwickelt und umfasst Schätzungen von über 6,8 Milliarden Tonnen Erz. Zur Erschließung sind umfangreiche Infrastrukturmaßnahmen geplant, darunter eine 370 Kilometer lange Pipeline oder Eisenbahnlinie zur Küste. Es gilt als strategisches Großprojekt für die kongolesische Wirtschaft.",
+      hu: "A Zanaga-vasércprojekt a világ egyik legnagyobb feltáratlan vasérclelőhelye, amely a Lékoumou régióban található. A projektet a Glencore bányászati óriásvállalattal együttműködésben fejlesztik, a becsült készletek meghaladják a 6,8 milliárd tonnát. A kitermeléshez jelentős infrastrukturális beruházások szükségesek, beleértve egy 370 km hosszú szállítóvezetéket vagy vasutat az óceánpartig. Az ország egyik legfontosabb stratégiai beruházása.",
+      ro: "Proiectul de fier Zanaga este unul dintre cele mai mari depozite de minereu de fier neexploatate din lume, situat în regiunea Lékoumou. Dezvoltat în parteneriat cu gigantul minier Glencore, proiectul vizează rezerve estimate la peste 6,8 miliarde de tone. Planurile includ infrastructură masivă, cum ar fi o conductă sau o cale ferată de 370 km până la coastă. Este considerat un proiect strategic pentru economia națională.",
+      en: "The Zanaga Iron Project is one of the world's largest undeveloped iron ore deposits, situated in the Lékoumou region of Congo. Developed in partnership with mining giant Glencore, the project targets estimated reserves of over 6.8 billion tonnes of ore. Development plans involve massive infrastructure, including a 370-kilometer transport corridor to the Atlantic coast. It is a flagship strategic project for the nation's economic future.",
+    },
+    factsAdvanced: {
+      de: ["Geschätzte Eisenerzreserven von über 6,8 Milliarden Tonnen.", "Befindet sich in der Region Lékoumou im Südwesten.", "Joint Venture zwischen Glencore und Zanaga Iron Ore Co.", "Geplanter Bau einer 370 km langen Transportstrecke zum Meer.", "Zielt auf die Produktion von hochwertigem Eisenerzpellets ab.", "Das Projekt könnte über 30 Jahre lang betrieben werden."],
+      hu: ["A becsült vasérckészlet meghaladja a 6,8 milliárd tonnát.", "A Kongói Köztársaság délnyugati, Lékoumou régiójában található.", "A Glencore és a Zanaga Iron Ore Co. közös vállalkozása.", "Egy 370 km hosszú szállítási útvonal kiépítését tervezik az óceánig.", "Kiváló minőségű vasérc-pelletek előállítását célozza meg.", "A bányászati tevékenység várható időtartama több mint 30 év."],
+      ro: ["Rezerve estimate la peste 6,8 miliarde de tone de minereu de fier.", "Situat în regiunea Lékoumou din partea de sud-vest a țării.", "Un joint venture între Glencore și Zanaga Iron Ore Co.", "Include planuri pentru un coridor de transport de 370 km până la coastă.", "Vizează producția de pelete de fier de înaltă puritate.", "Se estimează că proiectul va fi operațional timp de peste 30 de ani."],
+      en: ["Estimated iron ore reserves exceed 6.8 billion tonnes.", "Located in the Lékoumou region in southwestern Congo.", "A joint venture between Glencore and Zanaga Iron Ore Co.", "Includes plans for a 370 km transport corridor to the coast.", "Targets the production of high-grade iron ore pellets.", "The project has an estimated mine life of over 30 years."],
+    },
   },
   {
     id: "republicofcongo-moukoukoulou-power-plant-economic-v2",
@@ -171,6 +267,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Commissioned in the year 1979", "Capacity of 74 megawatts", "Vital for industry in Nkayi", "Modernized in the year 2000"],
     },
     imageHint: "Water flowing through a dam and hydroelectric turbines",
+    descriptionAdvanced: {
+      de: "Das Wasserkraftwerk Moukoukoulou am Fluss Bouenza ist das größte Kraftwerk seiner Art in der Republik Kongo. Es wurde in den 1970er Jahren mit chinesischer Unterstützung erbaut und verfügt über eine installierte Leistung von etwa 74 Megawatt. Das Kraftwerk ist entscheidend für die Stromversorgung der Städte im Süden, einschließlich Pointe-Noire und Brazzaville. In den letzten Jahren wurden umfangreiche Sanierungsarbeiten durchgeführt, um die Effizienz zu steigern.",
+      hu: "A Moukoukoulou vízerőmű a Bouenza-folyón található, és a Kongói Köztársaság legnagyobb kapacitású vízerőműve. Az 1970-es években épült kínai segítséggel, beépített teljesítménye körülbelül 74 megawatt. Az erőmű kulcsfontosságú a déli városok, köztük Pointe-Noire és Brazzaville áramellátásában. Az elmúlt években jelentős felújításon esett át a termelés stabilitásának biztosítása érdekében.",
+      ro: "Hidrocentrala Moukoukoulou, situată pe râul Bouenza, este cea mai mare unitate de producție de energie hidroelectrică din Republica Congo. Construită în anii 1970 cu asistență chineză, centrala are o capacitate instalată de aproximativ 74 megawați. Este vitală pentru alimentarea cu energie a orașelor din sud, inclusiv Pointe-Noire și Brazzaville. Recent, a beneficiat de lucrări ample de reabilitare pentru creșterea randamentului.",
+      en: "The Moukoukoulou Hydroelectric Power Plant on the Bouenza River is the Republic of the Congo's largest hydroelectric facility. Constructed in the 1970s with Chinese technical assistance, it has an installed capacity of approximately 74 megawatts. The plant is vital for supplying electricity to southern urban centers, including Pointe-Noire and Brazzaville. Recent rehabilitation efforts have been undertaken to restore and enhance its output.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich am Fluss Bouenza in der Nähe von Mouyondzi.", "Installierte Gesamtkapazität von 74 Megawatt (4 x 18,5 MW).", "Erbaut zwischen 1974 und 1979 mit Hilfe aus China.", "Wichtigste Stromquelle für das nationale Verbundnetz im Süden.", "Nutzt ein natürliches Gefälle des Flusses zur Energiegewinnung.", "Wurde nach Jahren des Verfalls ab 2007 grundlegend saniert."],
+      hu: ["A Bouenza-folyón található, Mouyondzi városa közelében.", "Összesen 74 megawatt beépített teljesítménnyel bír (4 x 18,5 MW).", "1974 és 1979 között épült kínai mérnöki támogatással.", "A déli országrész nemzeti hálózatának legfőbb áramforrása.", "A folyó természetes esését használja ki az energiatermeléshez.", "2007-ben kezdődött meg a létesítmény átfogó technikai felújítása."],
+      ro: ["Situată pe râul Bouenza, în apropierea localității Mouyondzi.", "Capacitate totală instalată de 74 megawați (4 turbine de 18,5 MW).", "Construită între anii 1974 și 1979 cu sprijin din partea Chinei.", "Sursa principală de energie pentru rețeaua națională din sud.", "Utilizează căderea naturală a apei pentru generarea de electricitate.", "A trecut printr-un proces major de reabilitare începând cu 2007."],
+      en: ["Located on the Bouenza River near the town of Mouyondzi.", "Total installed capacity is 74 megawatts (4 units of 18.5 MW).", "Built between 1974 and 1979 with Chinese assistance.", "Primary power source for the southern national electricity grid.", "Utilizes the river's natural flow and gradient for energy.", "Underwent significant technical rehabilitation starting in 2007."],
+    },
   },
   {
     id: "republicofcongo-impfondo-river-port-economic-v2",
@@ -190,6 +298,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Strategic point on the Ubangi River", "Marketplace for agricultural goods", "Center for timber transport", "Supply route via the river"],
     },
     imageHint: "River port with wooden barges and boats on the Ubangi River",
+    descriptionAdvanced: {
+      de: "Der Flusshafen von Impfondo am Ubangi ist das logistische Zentrum des Departements Likouala im äußersten Nordosten des Landes. Da es kaum asphaltierte Straßen in diese Region gibt, ist der Hafen die lebenswichtige Verbindung nach Brazzaville. Er dient primär dem Umschlag von Treibstoff, Lebensmitteln und dem Export von Rundholz aus den umliegenden Regenwäldern. Während der Trockenzeit ist der Hafen aufgrund niedriger Wasserstände oft schwer erreichbar.",
+      hu: "Impfondo folyami kikötője az Ubangi-folyó partján fekszik, és a Likouala megye legfontosabb logisztikai központja. Mivel a régióban kevés az aszfaltozott út, a kikötő jelenti az egyetlen megbízható összeköttetést Brazzaville-lel. Itt zajlik az üzemanyag és élelmiszerek fogadása, valamint a környező őserdőkből származó faexport kezelése. A száraz évszakban az alacsony vízállás gyakran korlátozza a forgalmat.",
+      ro: "Portul fluvial Impfondo de pe râul Ubangi este centrul logistic vital al departamentului Likouala din nord-estul țării. În absența unor drumuri asfaltate fiabile, portul reprezintă singura legătură majoră cu Brazzaville pentru transportul de mărfuri. Acesta gestionează fluxurile de combustibil, alimente și exporturile de bușteni din pădurile tropicale din jur. Navigația este adesea îngreunată în sezonul secetos din cauza nivelului scăzut al apei.",
+      en: "The Impfondo River Port on the Ubangi River is the essential logistics hub for the Likouala Department in the far northeast. Given the scarcity of paved roads in this remote region, the port provides the primary link to Brazzaville for cargo transport. It facilitates the distribution of fuel and food and handles timber exports from the surrounding rainforests. Navigation is frequently seasonal due to fluctuating river levels during the dry period.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich am Ubangi-Fluss, einem Nebenfluss des Kongo.", "Hauptversorgungspunkt für die entlegene Likouala-Region.", "Wichtigster Umschlagplatz für Holzexporte in den Norden.", "Die Fahrt von Brazzaville dauert je nach Strömung bis zu 10 Tage.", "Verfügt über schwimmende Stege zur Anpassung an Wasserstände.", "Zentrum für den regionalen Handel mit der DR Kongo."],
+      hu: ["Az Ubangi-folyó partján található, amely a Kongó mellékfolyója.", "A távoli Likouala régió elsődleges ellátási pontja.", "Kiemelt szerepet játszik az északi területek faexportjában.", "A hajóút Brazzaville-ből akár 10 napig is eltarthat.", "Úszó mólókkal rendelkezik a változó vízszint kezelésére.", "A Kongói DK-val folytatott regionális kereskedelem központja."],
+      ro: ["Situat pe râul Ubangi, un afluent major al fluviului Congo.", "Principalul punct de aprovizionare pentru regiunea Likouala.", "Nod strategic pentru exportul de bușteni către Brazzaville.", "Călătoria pe râu de la Brazzaville poate dura până la 10 zile.", "Echipat cu pontoane plutitoare pentru a face față fluctuațiilor de nivel.", "Facilitează comerțul transfrontalier cu RD Congo."],
+      en: ["Located on the Ubangi River, a major tributary of the Congo.", "Primary supply point for the remote Likouala region.", "Key transit point for timber being shipped south to Brazzaville.", "The river journey from the capital can take up to 10 days.", "Uses floating docks to accommodate dramatic water level changes.", "Central hub for cross-border trade with the DR Congo."],
+    },
   },
   {
     id: "republicofcongo-mossaka-fish-market-economic-v2",
@@ -209,6 +329,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Famous for smoked fish", "Most important fishing port", "Trading site for river dwellers", "Center of freshwater fishing"],
     },
     imageHint: "Lively river market with fishermen and baskets of fish",
+    descriptionAdvanced: {
+      de: "Mossaka, an der Mündung des Likouala-aux-Herbes in den Kongo gelegen, gilt als die 'Fischereihauptstadt' der Republik Kongo. Der lokale Fischmarkt ist der bedeutendste Handelsplatz für Süßwasserfisch im Land, insbesondere für den berühmten Räucherfisch (poisson fumé). Tausende Fischer nutzen das nährstoffreiche Flussdelta als Lebensgrundlage. Die Stadt spielt eine zentrale Rolle in der Lebensmittelversorgung der Hauptstadt Brazzaville.",
+      hu: "Mossaka, a Likouala-aux-Herbes és a Kongó-folyó találkozásánál fekszik, és az ország „halászati fővárosaként” ismert. A helyi halpiac a Kongói Köztársaság legfontosabb édesvízi kereskedelmi központja, különösen a híres füstölt hal (poisson fumé) miatt. Halászok ezrei függnek a tápanyagban gazdag folyódeltától. A város kulcsszerepet játszik a főváros, Brazzaville élelmiszer-ellátásában.",
+      ro: "Mossaka, situată la confluența râului Likouala-aux-Herbes cu fluviul Congo, este cunoscută drept „capitala pescuitului” din Republica Congo. Piața locală de pește este cel mai important centru de comerț cu pește de apă dulce din țară, remarcându-se prin peștele afumat (poisson fumé). Mii de pescari depind de delta bogată în nutrienți pentru subzistență. Orașul este esențial pentru securitatea alimentară a capitalei Brazzaville.",
+      en: "Mossaka, located at the confluence of the Likouala-aux-Herbes and Congo rivers, is renowned as the 'fishing capital' of the Republic of the Congo. Its local fish market is the nation's premier trading hub for freshwater fish, especially the famous smoked fish (poisson fumé). Thousands of fishers rely on the nutrient-rich delta for their livelihoods. The town plays a critical role in the food supply chain for the capital, Brazzaville.",
+    },
+    factsAdvanced: {
+      de: ["Bekannt als die Fischereihauptstadt der Republik Kongo.", "Spezialisiert auf die Produktion und den Handel mit Räucherfisch.", "Liegt in einer wasserreichen Region im Departement Cuvette.", "Versorgt Brazzaville jährlich mit Tonnen von Süßwasserfisch.", "Veranstaltet regelmäßig regionale Fischereimärkte und Messen.", "Verfügt über traditionelle Techniken der Fischkonservierung."],
+      hu: ["A Kongói Köztársaság halászati fővárosaként tartják számon.", "A füstölt hal (poisson fumé) termelésére és kereskedelmére szakosodott.", "A Cuvette megyében, egy vízi utakban gazdag területen fekszik.", "Évente több tonna édesvízi hallal látja el a fővárost.", "Rendszeresen otthont ad regionális halászati vásároknak.", "A fafüstöléses halkonzerválás hagyományos technikáiról ismert."],
+      ro: ["Cunoscut drept capitala pescuitului din Republica Congo.", "Specializat în producția și comercializarea peștelui afumat.", "Situat în departamentul Cuvette, într-o zonă de deltă interioară.", "Aprovizionează capitala Brazzaville cu mii de tone de pește anual.", "Găzduiește periodic târguri regionale dedicate pescuitului.", "Păstrează tehnici tradiționale de conservare a peștelui prin afumare."],
+      en: ["Known as the fishing capital of the Republic of the Congo.", "Specializes in the production and trade of smoked fish.", "Located in a water-rich delta region in the Cuvette Department.", "Supplies Brazzaville with tons of freshwater fish annually.", "Hosts regular regional fishing markets and trade fairs.", "Famous for traditional wood-smoked fish preservation techniques."],
+    },
   },
   {
     id: "republicofcongo-oyo-alima-port-economic-v2",
@@ -228,6 +360,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Modernized inland port", "Connected to the road network", "Transshipment of agricultural goods", "Part of the Oyo-Ollombo SEZ"],
     },
     imageHint: "Modern river port terminal with concrete docks and boats",
+    descriptionAdvanced: {
+      de: "Der Hafen von Oyo liegt am Fluss Alima und ist ein wesentlicher Teil der Infrastruktur der Sonderwirtschaftszone Oyo-Ollombo. Er wurde modernisiert, um größere Flussschiffe abfertigen zu können und die regionale Wirtschaft im Zentrum des Landes zu stärken. Der Hafen dient als Knotenpunkt für den Transport von Agrarprodukten und Vieh aus den umliegenden Farmen. Die Anlage umfasst moderne Kais und Lagermöglichkeiten für verschiedene Güter.",
+      hu: "Oyo kikötője az Alima-folyó partján található, és az Oyo-Ollombo Különleges Gazdasági Övezet kulcsfontosságú eleme. A kikötőt modernizálták, hogy fogadni tudja a nagyobb folyami hajókat, ezzel is élénkítve az ország középső részének gazdaságát. Fontos elosztóhelye a környékbeli farmokról származó mezőgazdasági termékeknek és az élőállat-szállítmányoknak. A létesítmény modern rakpartokkal és raktárakkal rendelkezik.",
+      ro: "Portul Oyo este situat pe râul Alima și reprezintă o componentă esențială a infrastructurii Zonei Economice Speciale Oyo-Ollombo. A fost modernizat pentru a permite operarea navelor fluviale de mare tonaj, sprijinind economia regională din centrul țării. Portul servește ca nod pentru transportul produselor agricole și al animalelor de la fermele din apropiere. Facilitatea include cheiuri moderne și spații de depozitare.",
+      en: "The Port of Oyo is situated on the Alima River and is a key component of the Oyo-Ollombo Special Economic Zone's infrastructure. It has been modernized to accommodate larger river vessels, aiming to boost the regional economy in the central part of the country. The port acts as a hub for transporting agricultural products and livestock from surrounding farms. It features modern docking facilities and extensive storage areas for cargo.",
+    },
+    factsAdvanced: {
+      de: ["Liegt am Fluss Alima, einem schiffbaren Nebenfluss des Kongo.", "Wurde im Jahr 2011 nach umfangreicher Modernisierung neu eröffnet.", "Verfügt über einen 200 Meter langen Kai für Flussschiffe.", "Zentraler Punkt der Sonderwirtschaftszone Oyo-Ollombo.", "Erleichtert den Export von Rindfleisch und Agrarprodukten.", "Verbunden durch moderne Straßen mit dem Flughafen Ollombo."],
+      hu: ["Az Alima-folyó partján fekszik, amely a Kongó hajózható mellékfolyója.", "2011-ben nyitották meg újra egy átfogó modernizációt követően.", "A folyami hajók számára egy 200 méter hosszú rakpart áll rendelkezésre.", "Az Oyo-Ollombo Különleges Gazdasági Övezet központi eleme.", "Megkönnyíti a húsáru és a mezőgazdasági cikkek exportját.", "Kiváló minőségű aszfaltozott út köti össze az ollombói repülőtérrel."],
+      ro: ["Situat pe râul Alima, un afluent navigabil al fluviului Congo.", "Redeschis în 2011 în urma unor lucrări masive de modernizare.", "Dispune de un chei de 200 de metri pentru navele fluviale.", "Punct central al Zonei Economice Speciale Oyo-Ollombo.", "Facilitează exportul de carne de vită și produse agricole locale.", "Conectat prin drumuri moderne de Aeroportul Internațional Ollombo."],
+      en: ["Located on the Alima River, a navigable tributary of the Congo.", "Reopened in 2011 after extensive modernization and expansion.", "Features a 200-meter-long quay for handling river vessels.", "A central logistics component of the Oyo-Ollombo SEZ.", "Facilitates the shipping of beef and diverse agricultural products.", "Linked by high-quality roads to the Ollombo International Airport."],
+    },
   },
   {
     id: "republicofcongo-etoumbi-palm-oil-economic-v2",
@@ -247,6 +391,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Production of cooking oil", "Large oil palm plantations", "Key industry in the northwest", "Supplies regional markets"],
     },
     imageHint: "Palm oil plantation and industrial processing facility",
+    descriptionAdvanced: {
+      de: "Die Palmölfabrik in Etoumbi ist ein wichtiger Akteur im Agrarsektor der Region Cuvette-Ouest. Sie verarbeitet Früchte von großflächigen Ölpalmplantagen zu Rohöl für den heimischen Markt und den Export. Das Werk ist Teil der Bemühungen des Landes, die Nahrungsmittelproduktion zu steigern und die ländliche Wirtschaft zu revitalisieren. Die Fabrik bietet Arbeitsplätze für Hunderte von Menschen in der Umgebung von Etoumbi.",
+      hu: "Az etoumbi pálmaolaj-üzem a Cuvette-Ouest régió mezőgazdasági szektorának meghatározó szereplője. A hatalmas olajpálma-ültetvényekről származó gyümölcsöket dolgozza fel nyersolajjá a hazai piac és az export számára. Az üzem része az ország azon törekvésének, hogy növelje az élelmiszertermelést és újjáélessze a vidéki gazdaságot. A gyár több száz embernek ad munkát Etoumbi környékén.",
+      ro: "Fabrica de ulei de palmier din Etoumbi este un actor important în sectorul agricol din regiunea Cuvette-Ouest. Aceasta procesează fructele de pe plantațiile vaste de palmieri de ulei, producând ulei brut pentru piața internă și export. Unitatea face parte din eforturile naționale de a crește producția de alimente și de a revitaliza economia rurală. Fabrica oferă locuri de muncă pentru sute de localnici.",
+      en: "The Etoumbi Palm Oil Plant is a significant contributor to the agricultural sector in the Cuvette-Ouest region. It processes fruit from expansive oil palm plantations into crude oil for both domestic consumption and export. The facility is part of the country's push to increase food self-sufficiency and revitalize the rural economy. The plant provides employment for hundreds of people in the Etoumbi area.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich im Departement Cuvette-Ouest im Nordwesten.", "Verarbeitet Palmnüsse von tausenden Hektar Plantagenfläche.", "Wurde im Rahmen von Privatisierungsprojekten modernisiert.", "Produziert Rohöl für die Seifen- und Lebensmittelindustrie.", "Trägt zur wirtschaftlichen Diversifizierung der Region bei.", "Unterstützt Kleinbauern durch Abnahmeverträge für Palmfrüchte."],
+      hu: ["A Kongói Köztársaság északnyugati részén, Cuvette-Ouest megyében található.", "Több ezer hektáros ültetvényről származó pálmamagot dolgoz fel.", "A privatizációs programok keretében technikai modernizáción esett át.", "Nyersolajat állít elő a szappan- és élelmiszeripar számára.", "Segíti a régió gazdaságának több lábon állását.", "Felvásárlási szerződésekkel támogatja a helyi kistermelőket."],
+      ro: ["Situată în departamentul Cuvette-Ouest, în nord-vestul țării.", "Procesează sâmburi de palmier de pe mii de hectare de plantații.", "Modernizată în cadrul proiectelor de parteneriat public-privat.", "Produce ulei brut pentru industria săpunului și cea alimentară.", "Contribuie la diversificarea economică a unei regiuni forestiere.", "Sprijină micii fermieri prin contracte de achiziție a fructelor."],
+      en: ["Located in the Cuvette-Ouest Department in northwestern Congo.", "Processes palm nuts from thousands of hectares of plantations.", "Modernized as part of privatization and industrial recovery plans.", "Produces crude oil for the soap and food processing industries.", "Contributes to the economic diversification of the region.", "Supports smallholder farmers through fruit purchase agreements."],
+    },
   },
   {
     id: "republicofcongo-pokola-timber-mill-economic-v2",
@@ -266,6 +422,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Leader in FSC certification", "Modern timber processing", "Own biomass power generation", "Global export of tropical wood"],
     },
     imageHint: "Modern industrial woodworking factory in the jungle",
+    descriptionAdvanced: {
+      de: "Das Sägewerk Pokola, betrieben von der Congolaise Industrielle des Bois (CIB), ist ein Vorzeigebetrieb für nachhaltige Forstwirtschaft in Zentralafrika. Das Werk verarbeitet Holz aus einer der weltweit größten FSC-zertifizierten Waldkonzessionen. Neben dem Sägewerk umfasst der Komplex Trockenkammern und Anlagen zur Weiterverarbeitung von Hölzern wie Sapelli und Ayous. Pokola hat sich durch die Ansiedlung der Arbeiter zu einer bedeutenden Kleinstadt im Regenwald entwickelt.",
+      hu: "A Pokola fűrészüzem, amelyet a Congolaise Industrielle des Bois (CIB) üzemeltet, a fenntartható erdőgazdálkodás mintapéldája Közép-Afrikában. Az üzem a világ egyik legnagyobb FSC-tanúsítvánnyal rendelkező erdőkoncessziójából származó fát dolgoz fel. A komplexum szárítókamrákat és továbbfeldolgozó egységeket is tartalmaz olyan fafajtákhoz, mint a sapelli és az ayous. A gyár köré épült Pokola mára jelentős várossá nőtt az esőerdő mélyén.",
+      ro: "Fabrica de cherestea Pokola, operată de Congolaise Industrielle des Bois (CIB), este un model de silvicultură durabilă în Africa Centrală. Unitatea prelucrează lemn dintr-una dintre cele mai mari concesiuni forestiere certificate FSC din lume. Complexul include camere de uscare și linii de procesare pentru specii precum Sapelli și Ayous. Prezența fabricii a transformat Pokola într-un oraș forestier important în inima junglei.",
+      en: "The Pokola Timber Mill, operated by Congolaise Industrielle des Bois (CIB), is a flagship for sustainable forestry in Central Africa. The facility processes timber from one of the world's largest FSC-certified forest concessions. The industrial complex includes drying kilns and advanced processing lines for species such as Sapelli and Ayous. The mill's operations have transformed Pokola into a significant and self-sustaining town within the rainforest.",
+    },
+    factsAdvanced: {
+      de: ["Wird von der CIB, einer Tochtergesellschaft von Olam, betrieben.", "Verwaltet eine FSC-zertifizierte Fläche von über 2 Millionen Hektar.", "Größter privater Arbeitgeber im Norden der Republik Kongo.", "Verfügt über ein eigenes Krankenhaus und Schulen für Mitarbeiter.", "Exportiert hochwertiges Holz nach Europa und Nordamerika.", "Nutzt modernste Software zur Verfolgung jedes einzelnen Stammes."],
+      hu: ["A CIB üzemelteti, amely az Olam nemzetközi csoport leányvállalata.", "Több mint 2 millió hektárnyi FSC-tanúsított erdőterületet kezel.", "A Kongói Köztársaság északi részének legnagyobb magánfoglalkoztatója.", "Saját kórházzal és iskolákkal rendelkezik az alkalmazottak számára.", "Kiváló minőségű faanyagot exportál Európába és Észak-Amerikába.", "Modern szoftveres rendszert használ minden egyes fatörzs nyomon követésére."],
+      ro: ["Operată de CIB, o subsidiară a grupului internațional Olam.", "Gestionează o suprafață certificată FSC de peste 2 milioane de hectare.", "Cel mai mare angajator privat din nordul Republicii Congo.", "Include facilități sociale proprii, cum ar fi un spital și școli.", "Exportă lemn de înaltă calitate către piețele din Europa și America.", "Utilizează tehnologie avansată pentru trasabilitatea buștenilor."],
+      en: ["Operated by CIB, a subsidiary of the global Olam group.", "Manages an FSC-certified area exceeding 2 million hectares.", "The largest private employer in northern Republic of the Congo.", "Provides its own social services, including a hospital and schools.", "Exports premium-grade timber to European and North American markets.", "Employs advanced tracking systems for sustainable timber traceability."],
+    },
   },
   {
     id: "republicofcongo-ouesso-trade-center-economic-v2",
@@ -285,6 +453,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Center for cocoa trade", "Strategic river port", "Terminus of the N2 highway", "Gateway to Cameroon"],
     },
     imageHint: "Busy African town market near a river",
+    descriptionAdvanced: {
+      de: "Ouesso ist das administrative und wirtschaftliche Zentrum des Departements Sangha und dient als Drehscheibe für den Handel mit Tropenholz und Kakao. Die Stadt liegt strategisch günstig am Fluss Sangha und ist das Tor zu den nördlichen Naturschutzgebieten und Bergbauprojekten. Durch den Ausbau der Nationalstraße 2 ist Ouesso nun besser an die Hauptstadt Brazzaville angebunden, was das Handelsvolumen erheblich gesteigert hat.",
+      hu: "Ouesso a Sangha megye adminisztratív és gazdasági központja, amely a trópusi faáru és a kakaó kereskedelmének fontos csomópontja. A város stratégiai helyen, a Sangha-folyó partján fekszik, és kapuként szolgál az északi természetvédelmi területek és bányászati projektek felé. Az RN2-es országút fejlesztésével Ouesso immár közvetlen aszfaltozott összeköttetésben áll Brazzaville-lel, ami jelentősen növelte a kereskedelmi forgalmat.",
+      ro: "Ouesso este centrul administrativ și economic al departamentului Sangha, servind ca placă turnantă pentru comerțul cu lemn tropical și cacao. Orașul este situat strategic pe malul râului Sangha și reprezintă poarta de acces către rezervațiile naturale din nord și proiectele miniere. Odată cu modernizarea drumului național RN2, Ouesso este mai bine conectat de Brazzaville, stimulând semnificativ schimburile comerciale.",
+      en: "Ouesso is the administrative and economic capital of the Sangha Department, acting as a primary hub for the timber and cocoa trade. Strategically located on the Sangha River, the town serves as the gateway to northern protected areas and emerging mining projects. With the completion of the RN2 highway expansion, Ouesso is now directly linked to Brazzaville, significantly increasing the volume of regional commerce.",
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt des Departements Sangha im Norden des Landes.", "Wichtiger Binnenhafen am Fluss Sangha für den Holztransport.", "Endpunkt der asphaltierten Nationalstraße 2 (RN2) von Brazzaville.", "Zentrum des wachsenden Kakaosektors in der Republik Kongo.", "Basispunkt für Expeditionen in den Nationalpark Nouabalé-Ndoki.", "Verfügt über einen regionalen Flughafen mit Verbindungen in den Süden."],
+      hu: ["A Kongói Köztársaság északi Sangha megyéjének székhelye.", "Fontos folyami kikötő a Sangha-folyón a faanyag szállításához.", "A Brazzaville-ből induló RN2-es aszfaltozott főút végpontja.", "A fejlődő kongói kakaóágazat egyik legfontosabb központja.", "A Nouabalé-Ndoki Nemzeti Parkba induló expedíciók kiindulópontja.", "Regionális repülőtere összeköttetést biztosít az ország déli részével."],
+      ro: ["Capitala departamentului Sangha din nordul țării.", "Port fluvial important pe râul Sangha pentru transportul lemnului.", "Punctul terminus al drumului național asfaltat RN2 de la Brazzaville.", "Centru major pentru colectarea și procesarea boabelor de cacao.", "Bază logistică pentru Parcul Național Nouabalé-Ndoki.", "Dispune de un aeroport regional cu zboruri regulate către sud."],
+      en: ["Capital of the Sangha Department in northern Congo.", "Major river port on the Sangha River used for timber shipping.", "The terminus of the paved RN2 highway originating in Brazzaville.", "A significant hub for the growing domestic cocoa industry.", "Primary logistical base for the Nouabalé-Ndoki National Park.", "Features a regional airport with scheduled flights to the south."],
+    },
   },
   {
     id: "republicofcongo-dolisie-transport-hub-economic-v2",
@@ -304,6 +484,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Important CFCO railway station", "Center of regional trade", "Connection point to Gabon", "Historically called 'Loubomo'"],
     },
     imageHint: "Busy railway station and road junction in an African city",
+    descriptionAdvanced: {
+      de: "Dolisie, die drittgrößte Stadt der Republik Kongo, ist der bedeutendste Verkehrsknotenpunkt im Südwesten des Landes. Sie liegt an der Kreuzung der CFCO-Eisenbahnlinie und der Hauptstraßen nach Gabun und zur Küste von Pointe-Noire. Die Stadt ist ein wichtiges Zentrum für die Holzindustrie und dient als logistische Basis für den Warenverkehr zwischen dem Landesinneren und den Nachbarstaaten. Historisch war sie als Loubomo bekannt.",
+      hu: "Dolisie, a Kongói Köztársaság harmadik legnagyobb városa, az ország délnyugati részének legfontosabb közlekedési csomópontja. A város a CFCO vasútvonal, valamint a Gabonba és a Pointe-Noire felé vezető főutak kereszteződésében fekszik. A faipar egyik központja, amely logisztikai bázisként szolgál az ország belseje és a szomszédos államok közötti áruforgalom számára. Korábban Loubomo néven volt ismert.",
+      ro: "Dolisie, al treilea oraș ca mărime din Republica Congo, este cel mai important nod de transport din sud-vestul țării. Acesta se află la intersecția căii ferate CFCO cu drumurile principale spre Gabon și spre coasta de la Pointe-Noire. Orașul este un centru major pentru industria lemnului și bază logistică pentru comerțul dintre interiorul țării și statele vecine. Istoric, a fost cunoscut sub numele de Loubomo.",
+      en: "Dolisie, the third-largest city in the Republic of the Congo, is the premier transport hub in the southwest. It sits at the critical junction of the CFCO railway and major highways leading to Gabon and the Atlantic port of Pointe-Noire. The city is a vital center for the timber industry and serves as a logistical base for trade between the interior and neighboring countries. It was historically known as Loubomo.",
+    },
+    factsAdvanced: {
+      de: ["Drittgrößte Stadt des Landes und Hauptstadt des Niari-Departements.", "Zentraler Knotenpunkt der CFCO-Eisenbahn (Pointe-Noire - Brazzaville).", "Wichtigster Grenzhandelsknoten für den Verkehr nach Gabun.", "Früherer Name der Stadt war Loubomo (bis 1991).", "Beherbergt zahlreiche Sägewerke und Holzlagerplätze.", "Strategisch gelegen im fruchtbaren Niari-Tal."],
+      hu: ["Az ország harmadik legnagyobb városa és a Niari megye székhelye.", "A CFCO vasútvonal (Pointe-Noire - Brazzaville) központi csomópontja.", "A Gabon felé irányuló közúti áruforgalom legfontosabb állomása.", "A város korábbi neve Loubomo volt 1991-ig.", "Számos fűrészüzemnek és fatermék-raktárnak ad otthont.", "Stratégiai elhelyezkedésű a termékeny Niari-völgyben."],
+      ro: ["Al treilea oraș ca mărime și capitala departamentului Niari.", "Nod feroviar central pe linia CFCO (Pointe-Noire - Brazzaville).", "Principalul punct de tranzit pentru mărfurile care merg spre Gabon.", "Numele anterior al orașului a fost Loubomo până în 1991.", "Găzduiește numeroase fabrici de cherestea și depozite de bușteni.", "Situat strategic în valea fertilă a râului Niari."],
+      en: ["The country's third-largest city and capital of the Niari Department.", "A central rail junction on the CFCO line (Pointe-Noire to Brazzaville).", "The most important gateway for road transit to and from Gabon.", "Formerly known as Loubomo until the name was changed in 1991.", "Home to numerous sawmills and timber storage facilities.", "Strategically positioned within the fertile Niari River valley."],
+    },
   },
   {
     id: "republicofcongo-kayes-industrial-zone-economic-v2",
@@ -323,6 +515,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Storage for petroleum products", "Proximity to Pointe-Noire port", "Maintenance for oil platforms", "Industrial supply base"],
     },
     imageHint: "Industrial storage tanks and logistics base near the sea",
+    descriptionAdvanced: {
+      de: "Die Industriezone Kayes im Departement Bouenza ist ein aufstrebendes Zentrum für die Baustoffproduktion, insbesondere Zement. Die Region verfügt über reiche Kalksteinvorkommen, die die Ansiedlung großer internationaler Zementwerke ermöglicht haben. Diese Industrieanlagen decken einen Großteil des nationalen Bedarfs und reduzieren die Abhängigkeit von teuren Importen. Die Zone profitiert von der direkten Anbindung an die CFCO-Eisenbahn für den Schwertransport.",
+      hu: "A Bouenza megyében található Kayes ipari övezet az ország építőanyag-gyártásának, különösen a cementiparnak a feltörekvő központja. A régió gazdag mészkőlelőhelyei lehetővé tették nagy nemzetközi cementgyárak letelepedését. Ezek az ipari létesítmények fedezik a hazai igények jelentős részét, csökkentve az importfüggőséget. Az övezet számára nagy előnyt jelent a CFCO vasútvonal közvetlen közelsége.",
+      ro: "Zona industrială Kayes din departamentul Bouenza este un centru emergent pentru producția de materiale de construcții, în special ciment. Regiunea dispune de zăcăminte bogate de calcar, care au atras investiții în fabrici de ciment de mari dimensiuni. Aceste unități industriale acoperă o mare parte din necesarul național, reducând importurile costisitoare. Zona beneficiază de accesul direct la calea ferată CFCO.",
+      en: "The Kayes Industrial Zone in the Bouenza Department is an emerging center for construction material production, specifically cement. The region's vast limestone deposits have attracted large-scale international investment in cement factories. These industrial facilities supply a significant portion of the national market, reducing reliance on expensive imports. The zone benefits from direct access to the CFCO railway for heavy logistics.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich in der mineralreichen Region Bouenza.", "Standort eines großen Dangote-Zementwerks mit hoher Kapazität.", "Nutzt lokale Kalksteinvorkommen zur Zementherstellung.", "Liegt verkehrsgünstig an der Eisenbahnstrecke Pointe-Noire - Brazzaville.", "Trägt zur Senkung der Baukosten in der Republik Kongo bei.", "Beschäftigt hunderte Facharbeiter und Techniker aus der Region."],
+      hu: ["A Kongói Köztársaság ásványkincsekben gazdag Bouenza régiójában fekszik.", "Itt található a nagy kapacitású Dangote cementgyár egyik egysége.", "A helyi mészkőkészleteket hasznosítja a cementgyártáshoz.", "Közvetlenül a Pointe-Noire és Brazzaville közötti vasútvonal mellett van.", "Hozzájárul az építési költségek csökkentéséhez az országban.", "Több száz helyi szakmunkásnak és technikusnak ad munkát."],
+      ro: ["Situată în regiunea Bouenza, bogată în resurse minerale.", "Găzduiește o fabrică majoră de ciment a grupului Dangote.", "Utilizează rezervele locale de calcar pentru procesul de producție.", "Poziționată strategic pe ruta feroviară Pointe-Noire - Brazzaville.", "Contribuie la scăderea prețurilor materialelor de construcții la nivel național.", "Asigură locuri de muncă pentru sute de specialiști și tehnicieni locali."],
+      en: ["Located in the mineral-rich Bouenza region of southern Congo.", "Home to a large-scale Dangote cement plant with high output.", "Utilizes local limestone deposits for cement manufacturing.", "Conveniently situated along the Pointe-Noire to Brazzaville rail line.", "Helps lower overall construction costs within the Republic of the Congo.", "Provides employment for hundreds of skilled workers and technicians."],
+    },
   },
   {
     id: "republicofcongo-boko-agriculture-hub-economic-v2",
@@ -342,6 +546,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Production of fruits and vegetables", "Fertile soils of the Pool region", "Important producer market", "Food supply for the capital"],
     },
     imageHint: "Lush green vegetable gardens and fruit trees",
+    descriptionAdvanced: {
+      de: "Boko ist ein bedeutendes landwirtschaftliches Zentrum im Departement Pool, das für seine fruchtbaren Böden und das milde Klima bekannt ist. Die Region ist der Hauptlieferant von Obst und Gemüse für die nahegelegene Hauptstadt Brazzaville, wobei Ananas und Bananen die wichtigsten Erzeugnisse sind. In Boko werden traditionelle Anbaumethoden zunehmend durch moderne Agrarprojekte ergänzt. Der wöchentliche Markt in Boko ist ein wichtiger Treffpunkt für Produzenten und Händler.",
+      hu: "Boko a Pool megye egyik meghatározó mezőgazdasági központja, amely termékeny talajáról és kedvező éghajlatáról ismert. A régió a közeli főváros, Brazzaville legfőbb gyümölcs- és zöldségszállítója, különösen híres az itt termő ananászról és banánról. Bokóban a hagyományos gazdálkodást egyre inkább modern mezőgazdasági projektek egészítik ki. A boko-i heti piac a termelők és kereskedők fontos találkozóhelye.",
+      ro: "Boko este un centru agricol major în departamentul Pool, renumit pentru solurile sale fertile și climatul favorabil. Regiunea este principalul furnizor de fructe și legume pentru capitala Brazzaville, remarcându-se prin producția de ananas și banane. În Boko, metodele tradiționale de cultivare sunt completate treptat de proiecte agricole moderne. Piața săptămânală din Boko este un punct de întâlnire vital pentru producători.",
+      en: "Boko is a major agricultural hub in the Pool Department, renowned for its fertile soils and favorable climate. The region serves as a primary supplier of fruits and vegetables to the nearby capital, Brazzaville, with pineapples and bananas being its most famous exports. In Boko, traditional farming is increasingly supplemented by modern agribusiness projects. The town's weekly market is a vital gathering point for producers and traders.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich auf einem Hochplateau im Departement Pool.", "Berühmt für die 'Boko-Ananas', die als besonders süß gilt.", "Wichtigster Obstlieferant für die Märkte in Brazzaville.", "Verfügt über ein kühleres Mikroklima als das Kongobecken.", "Zentrum für kleinbäuerliche Kooperativen in der Region.", "Verbunden mit der Hauptstadt durch eine wichtige Landstraße."],
+      hu: ["A Pool megyében, egy magasföldön helyezkedik el.", "Híres a „boko-i ananászról”, amely különlegesen édes ízéről ismert.", "Brazzaville piacainak legfontosabb gyümölcsszállítója.", "A Kongó-medencénél hűvösebb mikroklímával rendelkezik.", "A régió kistermelői szövetkezeteinek központja.", "Egy fontos főút köti össze közvetlenül a fővárossal."],
+      ro: ["Situat pe un platou înalt din departamentul Pool.", "Faimos pentru „ananasul de Boko”, cunoscut pentru dulceața sa.", "Cel mai important furnizor de fructe pentru piețele din Brazzaville.", "Dispune de un microclimat mai răcoros decât restul bazinului Congo.", "Centru pentru cooperativele micilor fermieri din regiune.", "Conectat de capitală printr-o șosea vitală pentru transportul alimentelor."],
+      en: ["Located on a high plateau in the Pool Department.", "Famous for the 'Boko pineapple', known for its exceptional sweetness.", "Primary supplier of fresh fruit to the markets of Brazzaville.", "Benefits from a cooler microclimate than the surrounding Congo Basin.", "A central hub for smallholder farming cooperatives in the region.", "Linked to the capital by a critical road for agricultural transport."],
+    },
   },
   {
     id: "republicofcongo-kinkala-trade-center-economic-v2",
@@ -361,6 +577,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Capital of the Pool department", "Central marketplace", "Vital for regional logistics", "Road link to Brazzaville"],
     },
     imageHint: "Busy market square with stalls and trucks in a town",
+    descriptionAdvanced: {
+      de: "Das Handelszentrum von Kinkala ist ein wichtiger wirtschaftlicher Knotenpunkt im Departement Pool der Republik Kongo. Es dient als primärer Marktplatz für landwirtschaftliche Erzeugnisse aus der Region, insbesondere Maniok und Obst. Die Stadt Kinkala liegt etwa 75 Kilometer westlich von Brazzaville und spielt eine zentrale Rolle in der Versorgung der Hauptstadt.",
+      hu: "A kinkalai kereskedelmi központ a Kongói Köztársaság Pool megyéjének kulcsfontosságú gazdasági csomópontja. Elsődleges piacként szolgál a régió mezőgazdasági terményei, különösen a manióka és a gyümölcsök számára. Kinkala városa mintegy 75 kilométerre nyugatra fekszik Brazzaville-től, és központi szerepet játszik a főváros ellátásában.",
+      ro: "Centrul comercial din Kinkala este un nod economic vital în departamentul Pool din Republica Congo. Acesta servește ca piață principală pentru produsele agricole din regiune, în special manioc și fructe. Orașul Kinkala este situat la aproximativ 75 de kilometri vest de Brazzaville și deține un rol central în aprovizionarea capitalei.",
+      en: "The Kinkala Trade Center is a vital economic hub in the Pool Department of the Republic of the Congo. It serves as the primary marketplace for agricultural produce from the surrounding region, particularly cassava and fruits. Located about 75 kilometers west of Brazzaville, Kinkala plays a central role in supplying the capital city.",
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt des Departements Pool", "75 Kilometer von Brazzaville entfernt", "Regionales Zentrum für Maniokhandel", "Liegt auf etwa 440 Metern Höhe", "Direkt an der Fernstraße RN1 gelegen", "Versorgungszentrum für über 20.000 Einwohner"],
+      hu: ["A Pool megye székhelye", "75 kilométerre található Brazzaville-től", "A regionális manióka-kereskedelem központja", "Körülbelül 440 méteres tengerszint feletti magasságban fekszik", "Az RN1-es országos főút mentén található", "Több mint 20.000 lakos ellátási központja"],
+      ro: ["Capitala departamentului Pool", "Situat la 75 de kilometri de Brazzaville", "Centru regional pentru comerțul cu manioc", "Localizat la o altitudine de aproximativ 440 metri", "Situat direct pe autostrada națională RN1", "Centru de aprovizionare pentru peste 20.000 de locuitori"],
+      en: ["Capital city of the Pool Department", "Located 75 kilometers from Brazzaville", "Regional hub for the cassava trade", "Situated at an elevation of 440 meters", "Positioned along the RN1 national highway", "Supply center for over 20,000 residents"],
+    },
   },
   {
     id: "republicofcongo-mvouti-mining-zone-economic-v2",
@@ -380,6 +608,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Gold and mineral deposits", "Center of forestry industry", "Located in the Mayombe range", "Artisanal mining activities"],
     },
     imageHint: "Forested hills with small mining sites and timber trails",
+    descriptionAdvanced: {
+      de: "Die Bergbauzone von Mvouti im Departement Kouilou ist bekannt für ihre reichen Vorkommen an Gold und anderen Mineralien. Sie liegt inmitten des Mayombe-Gebirges und ist von dichtem tropischem Regenwald umgeben. Der Bergbau in dieser Region erfolgt oft handwerklich und ist eine wichtige Einnahmequelle für die lokale Bevölkerung.",
+      hu: "A Kouilou megyében található Mvouti bányászati övezet gazdag arany- és egyéb ásványkincs-lelőhelyeiről ismert. A Mayombe-hegység szívében fekszik, sűrű trópusi esőerdővel körülvéve. A régió bányászata gyakran kézműves módszerekkel zajlik, és a helyi lakosság fontos bevételi forrását jelenti.",
+      ro: "Zona minieră Mvouti din departamentul Kouilou este cunoscută pentru zăcămintele sale bogate de aur și alte minerale. Aceasta este situată în inima munților Mayombe și este înconjurată de păduri tropicale dense. Exploatarea minieră din această regiune este adesea artizanală și reprezintă o sursă importantă de venit pentru populația locală.",
+      en: "The Mvouti mining zone in the Kouilou Department is known for its rich deposits of gold and other minerals. It is situated in the heart of the Mayombe mountains and is surrounded by dense tropical rainforest. Mining in this region is often artisanal and represents a significant source of income for the local population.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Departement Kouilou", "Zentrum für handwerklichen Goldabbau", "Befindet sich im Mayombe-Gebirge", "Vorkommen von Kupfer und Blei", "Nahe dem Nationalpark Conkouati-Douli", "Umgeben von primärem Regenwald"],
+      hu: ["Kouilou megyében található", "A kézműves aranybányászat központja", "A Mayombe-hegységben helyezkedik el", "Réz- és ólomlelőhelyekkel rendelkezik", "A Conkouati-Douli Nemzeti Park közelében fekszik", "Elsődleges esőerdő környezetben található"],
+      ro: ["Situat în departamentul Kouilou", "Centru pentru exploatarea artizanală a aurului", "Se află în lanțul muntos Mayombe", "Prezența zăcămintelor de cupru și plumb", "Aproape de Parcul Național Conkouati-Douli", "Înconjurat de pădure tropicală primară"],
+      en: ["Located in the Kouilou Department", "Center for artisanal gold mining", "Situated in the Mayombe mountain range", "Rich in copper and lead deposits", "Near the Conkouati-Douli National Park", "Surrounded by primary rainforest environment"],
+    },
   },
   {
     id: "republicofcongo-loandjili-industry-park-economic-v2",
@@ -399,6 +639,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Suburb of Pointe-Noire", "Center for construction firms", "Key logistics warehouses", "Fast-growing industrial area"],
     },
     imageHint: "Industrial warehouses and trucks in a suburban business park",
+    descriptionAdvanced: {
+      de: "Der Industriepark Loandjili ist ein bedeutendes Wirtschaftszentrum im gleichnamigen Distrikt von Pointe-Noire. Er wurde strategisch in der Nähe des Hafens angelegt, um Logistik, Lagerung und die petrochemische Industrie zu unterstützen. Das Gebiet beherbergt zahlreiche Unternehmen, die Dienstleistungen für den florierenden Ölsektor der Republik Kongo erbringen.",
+      hu: "A Loandjili Ipari Park Pointe-Noire azonos nevű negyedének jelentős gazdasági központja. Stratégiailag a kikötő közelében alakították ki a logisztika, a raktározás és a petrolkémiai ipar támogatására. A terület számos olyan vállalatnak ad otthont, amelyek a Kongói Köztársaság virágzó olajszektorának nyújtanak szolgáltatásokat.",
+      ro: "Parcul industrial Loandjili este un centru economic important în districtul cu același nume din Pointe-Noire. A fost stabilit strategic în apropierea portului pentru a sprijini logistica, depozitarea și industria petrochimică. Zona găzduiește numeroase companii care furnizează servicii pentru sectorul petrolier înfloritor al Republicii Congo.",
+      en: "The Loandjili Industry Park is a major economic center in the district of the same name in Pointe-Noire. It was strategically established near the port to support logistics, storage, and the petrochemical industry. The area hosts numerous companies providing services to the thriving oil sector of the Republic of the Congo.",
+    },
+    factsAdvanced: {
+      de: ["Industriebezirk von Pointe-Noire", "Schwerpunkt auf Logistik und Lagerung", "Infrastruktur für Ölfelddienstleistungen", "Nähe zum Seehafen von Pointe-Noire", "Beherbergt Verarbeitungsanlagen", "Wichtiges Beschäftigungszentrum der Region"],
+      hu: ["Pointe-Noire ipari negyede", "A logisztikára és raktározásra összpontosít", "Olajipari szolgáltatási infrastruktúra", "Pointe-Noire tengeri kikötőjének közelsége", "Feldolgozó üzemeknek ad otthont", "A régió fontos foglalkoztatási központja"],
+      ro: ["District industrial din Pointe-Noire", "Focus pe logistică și depozitare", "Infrastructură pentru servicii petroliere", "Proximitatea de portul maritim Pointe-Noire", "Găzduiește unități de procesare", "Centru important de angajare în regiune"],
+      en: ["Industrial district of Pointe-Noire", "Focus on logistics and storage", "Significant oil services infrastructure", "Proximity to Pointe-Noire seaport", "Hosts manufacturing and processing plants", "Key employment center for the region"],
+    },
   },
   {
     id: "republicofcongo-tchiamba-nzassi-oil-economic-v2",
@@ -418,6 +670,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Onshore oil production", "Located south of Pointe-Noire", "Important source of revenue", "Oil production facilities on land"],
     },
     imageHint: "Onshore oil pumps and industrial production site",
+    descriptionAdvanced: {
+      de: "Das Ölfeld Tchiamba-Nzassi liegt im Departement Kouilou, nahe der Grenze zur angolanischen Exklave Cabinda. Es ist Teil der umfangreichen Offshore- und Onshore-Kohlenwasserstoffvorkommen, die das Rückgrat der kongolesischen Wirtschaft bilden. Die Förderung in diesem Gebiet trägt wesentlich zum nationalen Export von Rohöl bei.",
+      hu: "A Tchiamba-Nzassi olajmező Kouilou megyében található, az angolai Cabinda exklávé határának közelében. Része azoknak a kiterjedt offshore és onshore szénhidrogén-készleteknek, amelyek a kongói gazdaság gerincét alkotják. Az ezen a területen folyó kitermelés jelentősen hozzájárul a nyersolaj országos exportjához.",
+      ro: "Câmpul petrolier Tchiamba-Nzassi este situat în departamentul Kouilou, aproape de granița cu exclava angoleză Cabinda. Acesta face parte din vastele rezerve de hidrocarburi offshore și onshore care formează coloana vertebrală a economiei congoleze. Producția din această zonă contribuie semnificativ la exportul național de țiței.",
+      en: "The Tchiamba-Nzassi oil field is located in the Kouilou Department, near the border with the Angolan enclave of Cabinda. It is part of the extensive offshore and onshore hydrocarbon reserves that form the backbone of the Congolese economy. Production in this area contributes significantly to the national export of crude oil.",
+    },
+    factsAdvanced: {
+      de: ["Onshore-Ölfeld in Kouilou", "Förderbeginn in den 1980er Jahren", "Betrieb durch internationale Konsortien", "Nahe der Grenze zu Angola (Cabinda)", "Über Pipelines mit Pointe-Noire verbunden", "Teil der nationalen Exportstrategie"],
+      hu: ["Onshore olajmező Kouilouban", "A kitermelés az 1980-as években kezdődött", "Nemzetközi konzorciumok üzemeltetik", "Angola (Cabinda) határának közelében", "Csővezetékkel kapcsolódik Pointe-Noire-hoz", "A nemzeti exportstratégia része"],
+      ro: ["Câmp petrolier onshore în Kouilou", "Operațiunile au început în anii 1980", "Administrat de consorții internaționale", "Lângă granița cu Angola (Cabinda)", "Conectat la Pointe-Noire prin conductă", "Parte a strategiei naționale de export"],
+      en: ["Onshore oil field in Kouilou", "Operations started in the 1980s", "Managed by international oil consortia", "Near the border with Angola (Cabinda)", "Connected to Pointe-Noire via pipeline", "Contributes to national hydrocarbon export"],
+    },
   },
   {
     id: "republicofcongo-yie-substation-economic-v2",
@@ -437,6 +701,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Central electricity hub", "Distributes power for Brazzaville", "Connection to Imboulou dam", "Modern electrical facilities"],
     },
     imageHint: "Electrical substation with transformers and power lines",
+    descriptionAdvanced: {
+      de: "Das Umspannwerk Yie ist eine kritische Infrastruktureinrichtung für die Stromversorgung von Brazzaville und der umliegenden Regionen. Es dient als wichtiger Knotenpunkt im nationalen Stromnetz und empfängt Energie von großen Kraftwerken wie dem Imboulou-Staudamm. Die Anlage ist entscheidend für die Stabilisierung der Spannung und die Verteilung von Elektrizität in der Hauptstadt.",
+      hu: "A Yie alállomás Brazzaville és a környező régiók áramellátásának kritikus infrastruktúrája. A nemzeti villamosenergia-hálózat fontos csomópontjaként szolgál, és olyan nagy erőművekből fogad energiát, mint az Imboulou-gát. A létesítmény döntő szerepet játszik a feszültség stabilizálásában és a villamos energia elosztásában a fővárosban.",
+      ro: "Substația Yie este o facilitate de infrastructură critică pentru alimentarea cu energie electrică a orașului Brazzaville și a regiunilor înconjurătoare. Servește ca un nod important în rețeaua națională de electricitate, primind energie de la hidroentrale mari precum barajul Imboulou. Instalația este crucială pentru stabilizarea tensiunii și distribuția electricității în capitală.",
+      en: "The Yie Substation is a critical infrastructure facility for the power supply of Brazzaville and surrounding regions. It serves as a key node in the national electricity grid, receiving energy from major power plants such as the Imboulou Dam. The facility is crucial for stabilizing voltage and distributing electricity throughout the capital city.",
+    },
+    factsAdvanced: {
+      de: ["Umspannwerk in der Nähe von Brazzaville", "Teil des nationalen SNE-Netzes", "Empfängt Strom vom Imboulou-Staudamm", "220-kV-Übertragungskapazität", "Reguliert die Spannung für die Hauptstadt", "Modernisierung erfolgte in den 2010er Jahren"],
+      hu: ["Brazzaville közelében található alállomás", "A nemzeti SNE hálózat része", "Az Imboulou-gáttól kap áramot", "220 kV-os átviteli kapacitás", "Szabályozza a főváros feszültségét", "A 2010-es években korszerűsítették"],
+      ro: ["Substație electrică lângă Brazzaville", "Parte a rețelei naționale SNE", "Primește energie de la barajul Imboulou", "Capacitate de transmisie de 220 kV", "Reglează tensiunea pentru capitală", "Modernizată în anii 2010 pentru stabilitate"],
+      en: ["Electricity substation near Brazzaville", "Vital part of the national grid (SNE)", "Receives power from Imboulou Dam", "220 kV transmission capacity", "Regulates voltage for the capital city", "Modernized in the 2010s for stability"],
+    },
   },
   {
     id: "republicofcongo-mossendjo-timber-zone-economic-v2",
@@ -456,6 +732,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Center for forestry industry", "Linked to the COMILOG railway", "Export of precious timber", "Economic hub in Niari"],
     },
     imageHint: "Logging trucks and timber yard in a tropical forest town",
+    descriptionAdvanced: {
+      de: "Mossendjo im Departement Niari ist ein bedeutendes Zentrum der kongolesischen Holzindustrie. Die Stadt ist von dichten Tropenwäldern umgeben, die hochwertige Holzarten wie Okoumé liefern. Große Sägewerke und Verarbeitungsbetriebe prägen das wirtschaftliche Bild der Region und machen sie zu einem Schlüsselstandort für den Export von Forstprodukten.",
+      hu: "A Niari megyében található Mossendjo a kongói faipar jelentős központja. A várost sűrű trópusi erdők veszik körül, amelyek kiváló minőségű fafajokat, például Okoumét szolgáltatnak. Nagy fűrészüzemek és feldolgozó létesítmények határozzák meg a régió gazdasági képét, kulcsfontosságú helyszínné téve azt az erdészeti termékek exportja szempontjából.",
+      ro: "Mossendjo, din departamentul Niari, este un centru major al industriei lemnului din Congo. Orașul este înconjurat de păduri tropicale dense care furnizează specii de lemn de înaltă calitate, cum ar fi Okoumé. Mari fabrici de cherestea și unități de procesare definesc peisajul economic al regiunii, făcând-o un punct cheie pentru exportul produselor forestiere.",
+      en: "Mossendjo, in the Niari Department, is a major center for the Congolese timber industry. The city is surrounded by dense tropical forests that provide high-quality wood species such as Okoumé. Large sawmills and processing plants define the economic landscape of the region, making it a key location for the export of forestry products.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Holzindustrie in Niari", "Bekannt für Okoumé- und Limba-Holz", "Große Sägewerke seit der Kolonialzeit", "Anschluss an die CFCO-Eisenbahn", "Umgeben von tropischen Regenwäldern", "Wichtiger Standort für Forstexporte"],
+      hu: ["A faipar központja Niari megyében", "Okoumé és Limba fájáról ismert", "Nagy fűrészüzemek a gyarmati korszak óta", "Csatlakozik a CFCO vasútvonalhoz", "Trópusi esőerdőkkel körülvéve", "Az erdészeti export fontos helyszíne"],
+      ro: ["Centru al industriei lemnului în Niari", "Faimos pentru lemnul de Okoumé și Limba", "Mari fabrici de cherestea din era colonială", "Accesibil prin ramura feroviară CFCO", "Înconjurat de păduri tropicale dense", "Locație cheie pentru exporturile forestiere"],
+      en: ["Major center for timber industry", "Famous for Okoumé and Limba wood", "Large sawmill operations since colonial era", "Accessible via the CFCO railway branch", "Surrounded by dense tropical forests", "Key location for forestry exports"],
+    },
   },
   {
     id: "republicofcongo-makabana-railway-mining-economic-v2",
@@ -475,6 +763,18 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Historic manganese transshipment", "Connection to the Gabon railway", "Mining logistics hub", "Located in the Niari valley"],
     },
     imageHint: "Old industrial railway station and mining facilities",
+    descriptionAdvanced: {
+      de: "Makabana war historisch ein entscheidender Punkt für den Transport von Manganerzen aus Gabun. Bis 1986 endete hier eine 76 Kilometer lange COMILOG-Seilbahn, deren Ladung auf das kongolesische Schienennetz umgeladen wurde. Diese Verbindung war ein logistisches Meisterwerk und verband die Minen von Moanda mit dem Hafen von Pointe-Noire.",
+      hu: "Makabana történelmileg döntő pont volt a Gabonból származó mangánérc szállításában. 1986-ig itt végződött egy 76 kilométer hosszú COMILOG kötélpálya, amelynek rakományát a kongói vasúti hálózatra rakták át. Ez az összeköttetés logisztikai mestermű volt, amely összekötötte Moanda bányáit Pointe-Noire kikötőjével.",
+      ro: "Makabana a fost istoric un punct crucial pentru transportul minereurilor de mangan din Gabon. Până în 1986, aici se termina o telecabină COMILOG lungă de 76 de kilometri, a cărei încărcătură era transferată în rețeaua feroviară congoleză. Această conexiune a fost o capodoperă logistică, legând minele din Moanda de portul Pointe-Noire.",
+      en: "Makabana was historically a crucial point for the transport of manganese ores from Gabon. Until 1986, a 76-kilometer COMILOG cableway ended here, where the cargo was transferred onto the Congolese railway network. This connection was a logistical masterpiece, linking the mines of Moanda with the port of Pointe-Noire.",
+    },
+    factsAdvanced: {
+      de: ["Historischer Transitpunkt für Mangan", "Endpunkt einer 76 km langen Seilbahn", "Verbindung zum CFCO-Eisenbahnnetz", "Liegt im Departement Niari", "Wichtig für den Erztransport bis 1986", "Strategischer Knotenpunkt für Mineralexporte"],
+      hu: ["A mangán szállításának történelmi pontja", "Egy 76 km-es kötélpálya végpontja", "Kapcsolódás a CFCO vasúti hálózathoz", "Niari megyében található", "Fontos az ércszállításban 1986-ig", "Az ásványi export stratégiai csomópontja"],
+      ro: ["Punct istoric de tranzit pentru mangan", "Capătul unei telecabine de 76 km", "Conectat la sistemul feroviar CFCO", "Situat în departamentul Niari", "Important pentru transportul minereului până în 1986", "Nod strategic pentru exporturile de minerale"],
+      en: ["Historical manganese transit point", "Termination of COMILOG cableway (76 km)", "Connected to CFCO railway system", "Located in the Niari Department", "Important for ore transport until 1986", "Strategic junction for mineral exports"],
+    },
   },
   {
     id: "republicofcongo-djiri-water-works-economic-v2",
@@ -494,5 +794,17 @@ export const republicofcongoEconomicV2: POI[] = [
       en: ["Supplies Brazzaville with water", "Located north of the capital", "Large treatment basins", "Strategic infrastructure"],
     },
     imageHint: "Modern water treatment facility with large blue pools",
+    descriptionAdvanced: {
+      de: "Das Wasserwerk Djiri ist die Hauptanlage zur Trinkwasseraufbereitung für die Millionenstadt Brazzaville. Es entnimmt Wasser aus dem Fluss Djiri und bereitet es in modernen Filter- und Kläranlagen auf. Die Anlage wurde mehrfach erweitert, um dem schnellen Bevölkerungswachstum der Hauptstadt und dem steigenden Wasserbedarf gerecht zu werden.",
+      hu: "A Djiri vízmű Brazzaville többmilliós városának legfőbb ivóvízkezelő létesítménye. A Djiri-folyóból nyeri a vizet, amelyet modern szűrő- és tisztítóberendezésekkel kezelnek. A létesítményt többször bővítették, hogy megfeleljen a főváros gyors népességnövekedésének és a növekvő vízigénynek.",
+      ro: "Uzina de apă Djiri este principala facilitate de tratare a apei potabile pentru metropola Brazzaville. Aceasta extrage apă din râul Djiri și o procesează în unități moderne de filtrare și sedimentare. Instalația a fost extinsă de mai multe ori pentru a face față creșterii rapide a populației capitalei și cererii tot mai mari de apă.",
+      en: "The Djiri water works is the main drinking water treatment facility for the metropolis of Brazzaville. It draws water from the Djiri River and processes it through modern filtration and sedimentation units. The plant has been expanded several times to cope with the rapid population growth of the capital and the increasing demand for water.",
+    },
+    factsAdvanced: {
+      de: ["Hauptwasserwerk für Brazzaville", "Bezieht Wasser aus dem Fluss Djiri", "Kapazität von 10.000 m3 pro Stunde", "Versorgt über 60% der Hauptstadt", "Ausbau mit internationaler Hilfe 2013", "Verfügt über moderne Sedimentationsbecken"],
+      hu: ["Brazzaville fő vízműve", "A Djiri-folyóból nyeri a vizet", "Kapacitása 10.000 m3 óránként", "A főváros több mint 60%-át látja el", "Bővítés nemzetközi segítséggel 2013-ban", "Modern ülepedő tartályokkal rendelkezik"],
+      ro: ["Principala uzină de apă pentru Brazzaville", "Extrage apă din râul Djiri", "Capacitate de 10.000 m3 pe oră", "Alimentează peste 60% din capitală", "Modernizată cu ajutor internațional în 2013", "Dispune de rezervoare de sedimentare moderne"],
+      en: ["Main water treatment plant for Brazzaville", "Draws water from the Djiri River", "Production capacity of 10,000 m3 per hour", "Supplies over 60% of the capital city", "Upgraded with international cooperation in 2013", "Features sedimentation and filtration tanks"],
+    },
   }
 ];

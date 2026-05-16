@@ -3858,7 +3858,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/baradla-barlang.webp",
     description: {"de": "Die Baradla-Höhle ist das größte Tropfsteinhöhlensystem Ungarns und gehört zum UNESCO-Welterbe.", "hu": "A Baradla-barlang Magyarország legnagyobb cseppkőbarlang-rendszere és az UNESCO világörökség része.", "ro": "Peștera Baradla este cel mai mare sistem de peșteri cu stalactite din Ungaria și parte a patrimoniului UNESCO.", "en": "Baradla Cave is the largest stalactite cave system in Hungary and a UNESCO World Heritage site."},
     facts: {"de": ["Bekannt für ihre riesigen Säle und die außergewöhnliche Akustik bei Konzerten.", "Ein Teil des Höhlensystems erstreckt sich bis in die benachbarte Slowakei."], "hu": ["Hatalmas termeiről és a koncertek alkalmával tapasztalható akusztikájáról híres.", "A barlangrendszer egy része átnyúlik a szomszédos Szlovákia területére."], "ro": ["Cunoscută pentru sălile sale uriașe și acustica excepțională în timpul concertelor.", "O parte a sistemului de peșteri se extinde până în Slovacia vecină."], "en": ["Known for its massive halls and exceptional acoustics during concerts.", "A part of the cave system extends into neighboring Slovakia."]},
+    descriptionAdvanced: {
+      de: "Die Baradla-Höhle im Aggteleker Karst ist Teil eines 25 Kilometer langen Höhlensystems, das bis in die Slowakei reicht. Sie ist ein UNESCO-Weltkulturerbe, bekannt für ihre spektakulären Tropfsteine und großen unterirdischen Kammern. Die Höhle ist seit prähistorischen Zeiten bewohnt und ein wichtiger Ort für die Höhlenforschung.",
+      hu: "Az aggteleki karsztvidéken található Baradla-barlang egy 25 kilométer hosszú barlangrendszer része, amely Szlovákia területére is átnyúlik. Az UNESCO Világörökség része, amely látványos cseppkőképződményeiről és hatalmas földalatti termeiről ismert. A barlang már a történelem előtti időkben is lakott volt, és fontos szpeleológiai helyszín.",
+      ro: "Peștera Baradla, situată în regiunea carstică Aggtelek, face parte dintr-un sistem de peșteri lung de 25 de kilometri care se extinde în Slovacia. Este un sit al Patrimoniului Mondial UNESCO, cunoscut pentru stalactitele și stalagmitele sale spectaculoase. Peștera a fost locuită încă din timpurile preistorice și este un sit major.",
+      en: "The Baradla Cave, located in the Aggtelek Karst region, is part of a 25-kilometer-long cave system extending into Slovakia. It is a UNESCO World Heritage site known for its spectacular stalactites, stalagmites, and large subterranean chambers. The cave has been inhabited since prehistoric times and is a major site for speleology.",
     },
+    factsAdvanced: {
+      de: ["Sie liegt im Aggteleker Karst.", "Die Länge beträgt 25 Kilometer.", "Es ist ein UNESCO-Weltkulturerbe.", "Sie verfügt über reiche Tropfsteinformationen.", "Das System reicht bis in die Slowakei.", "Die Höhle hat einen unterirdischen Konzertsaal."],
+      hu: ["Az Aggteleki-karszton található.", "A barlangrendszer hossza 25 kilométer.", "Az UNESCO Világörökség része.", "Látványos cseppkőképződmények jellemzik.", "Átnyúlik a szlovák határ alatt.", "Egyik terme koncerthelyszínként is üzemel."],
+      ro: ["Se află în regiunea carstică Aggtelek.", "Lungimea totală este de 25 de kilometri.", "Este un sit al Patrimoniului Mondial UNESCO.", "Prezintă formațiuni spectaculoase de stalactite.", "Sistemul se extinde și în Slovacia.", "Găzduiește o sală de concerte subterană."],
+      en: ["It is located in the Aggtelek Karst.", "The total length is 25 kilometers.", "It is a UNESCO World Heritage site.", "It features rich stalactite formations.", "The system extends into Slovakia.", "The cave hosts an underground concert hall."],
+    },
+  },
     {
     id: "bukki-nemzeti-park-poi",
     type: "landmark",
@@ -3868,7 +3880,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/bukki-nemzeti-park.webp",
     description: {"de": "Der Nationalpark Bükk schützt die vielfältige Flora und Fauna des waldreichsten Gebirges Ungarns.", "hu": "A Bükki Nemzeti Park Magyarország legerdősebb hegységének változatos élővilágát óvja.", "ro": "Parcul Național Bükk protejează flora și fauna diversă a celor mai împădurite muntoase din Ungaria.", "en": "The Bükk National Park protects the diverse flora and fauna of Hungary's most forested mountains."},
     facts: {"de": ["Beherbergt zahlreiche Höhlen, in denen Spuren prähistorischer Menschen gefunden wurden.", "Ein Paradies für Wanderer mit einem dichten Netz an markierten Wanderwegen."], "hu": ["Számos barlang található itt, ahol ősemberi leletekre is bukkantak.", "A túrázók paradicsoma, sűrű és jól jelzett turistaút-hálózattal rendelkezik."], "ro": ["Găzduiește numeroase peșteri în care au fost găsite urme ale oamenilor preistorici.", "Un paradis pentru drumeți, cu o rețea densă de trasee marcate."], "en": ["Home to numerous caves where traces of prehistoric humans were found.", "A paradise for hikers with a dense network of marked trails."]},
+    descriptionAdvanced: {
+      de: "Der Nationalpark Bükk wurde 1977 als erster Nationalpark Ungarns in einem Gebirgszug gegründet. Er umfasst das Karstplateau des Bükk-Gebirges, das durch tiefe Täler, steile Klippen und über tausend Höhlen gekennzeichnet ist. Die vielfältige Flora und Fauna des Parks machen ihn zu einem bedeutenden Schutzgebiet.",
+      hu: "A Bükki Nemzeti Parkot 1977-ben alapították Magyarország első hegyvidéki nemzeti parkjaként. Magában foglalja a Bükk-hegység karsztfennsíkját, amelyet mély völgyek, meredek sziklák és több mint ezer barlang jellemez. A park változatos növény- és állatvilága, valamint geológiai képződményei révén jelentős védett területnek számít.",
+      ro: "Parcul Național Bükk a fost înființat în 1977, fiind primul parc național din Ungaria într-o zonă montană. Acesta acoperă platoul carstic al Munților Bükk, caracterizat prin văi adânci, stânci abrupte și peste o mie de peșteri. Diversitatea florei și faunei parcului îl fac o zonă protejată de o importanță majoră.",
+      en: "The Bükk National Park was established in 1977 as Hungary's first national park in a mountain range. It covers the karst plateau of the Bükk Mountains, characterized by deep valleys, steep cliffs, and over a thousand caves. The park's diverse flora and fauna, along with its geological formations, make it a significant protected area.",
     },
+    factsAdvanced: {
+      de: ["Gegründet wurde er im Jahr 1977.", "Er liegt im Bükk-Gebirge.", "Er verfügt über ein Karstplateau.", "Es gibt über tausend Höhlen im Park.", "Es ist ein bewaldeter Gebirgszug.", "Es ist ein wichtiges Biodiversitäts-Schutzgebiet."],
+      hu: ["Az alapítás éve 1977 volt.", "A Bükk-hegység területén található.", "Jellegzetes karsztfennsíkkal rendelkezik.", "Több mint ezer barlang található a területén.", "Sűrű erdőkkel borított hegyvidék.", "Fontos biodiverzitási védelmi terület."],
+      ro: ["A fost înființat în anul 1977.", "Se află în Munții Bükk.", "Deține un platou carstic proeminent.", "Există peste o mie de peșteri în parc.", "Este un masiv muntos împădurit.", "Este o zonă de protecție a biodiversității."],
+      en: ["It was established in 1977.", "It is located in the Bükk Mountains.", "It features a karst plateau.", "There are over a thousand caves in the park.", "It is a forested mountain range.", "It is a significant biodiversity protection area."],
+    },
+  },
     {
     id: "ferto-to-poi",
     type: "lake",
@@ -3878,7 +3902,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/ferto-to.webp",
     description: {"de": "Der Fertő-tó ist ein grenzüberschreitender Steppensee und ein einzigartiges Biosphärenreservat.", "hu": "A Fertő-tó egy határokon átnyúló sztyeppei tó és egyedülálló bioszféra-rezervátum.", "ro": "Lacul Fertő este un lac de stepă transfrontalier și o rezervație unică a biosferei.", "en": "Lake Fertő is a transboundary steppe lake and a unique biosphere reserve."},
     facts: {"de": ["Der See ist fast vollständig von einem dichten Schilfgürtel umgeben.", "Wichtiger Rastplatz für Zehntausende von Zugvögeln auf ihrer Reise."], "hu": ["A tavat szinte teljes egészében sűrű nádas övezet veszi körül.", "Fontos pihenőhely több tízezer költöző madár számára vándorlásuk során."], "ro": ["Lacul este aproape în întregime înconjurat de o zonă densă de stuf.", "Loc important de odihnă pentru zeci de mii de păsări migratoare."], "en": ["The lake is almost completely surrounded by a dense reed belt.", "Important resting place for tens of thousands of migratory birds."]},
+    descriptionAdvanced: {
+      de: "Der Neusiedler See ist der größte endorheische See in Mitteleuropa und liegt an der Grenze zwischen Österreich und Ungarn. Der ungarische Teil des Sees gehört zum Nationalpark Fertő-Hanság und ist seit 2001 Teil des UNESCO-Welterbes. Das Gewässer ist extrem flach und von einem ausgedehnten Schilfgürtel umgeben, der zahlreichen Vogelarten als Lebensraum dient.",
+      hu: "A Fertő-tó Közép-Európa legnagyobb lefolyástalan tava, amely Ausztria és Magyarország határán fekszik. A tó magyarországi szakasza a Fertő–Hanság Nemzeti Park része, 2001 óta pedig az UNESCO Világörökségének helyszíne. Sekély vize és kiterjedt nádasa egyedülálló fészkelőhelyet biztosít a környék gazdag madárvilágának.",
+      ro: "Lacul Fertő este cel mai mare lac endoreic din Europa Centrală, situat la granița dintre Austria și Ungaria. Porțiunea maghiară face parte din Parcul Național Fertő-Hanság și este inclusă în Patrimoniul Mondial UNESCO din anul 2001. Apele sale puțin adânci și stuful dens oferă un habitat esențial pentru numeroase specii de păsări.",
+      en: "Lake Fertő is the largest endorheic lake in Central Europe, spanning the border between Austria and Hungary. The Hungarian section is part of the Fertő-Hanság National Park and was designated a UNESCO World Heritage site in 2001. The lake is exceptionally shallow and surrounded by a vast reed belt that serves as a vital habitat for diverse bird species.",
     },
+    factsAdvanced: {
+      de: ["Gesamtfläche von ca. 315 km²", "Durchschnittliche Tiefe nur 1,1 Meter", "UNESCO-Welterbe seit 2001", "Etwa 75 % der Seefläche liegen in Österreich", "Vorkommen von über 300 Vogelarten", "Alter des Sees ca. 20 Millionen Jahre"],
+      hu: ["Teljes területe körülbelül 315 km²", "Átlagos mélysége csupán 1,1 méter", "UNESCO Világörökségi helyszín 2001 óta", "A tó felületének 75%-a Ausztriához tartozik", "Több mint 300 madárfaj fészkelőhelye", "A tó kora nagyjából 20 millió év"],
+      ro: ["Suprafață totală de aproximativ 315 km²", "Adâncime medie de numai 1,1 metri", "Sit inclus în Patrimoniul UNESCO din 2001", "Circa 75% din suprafață aparține Austriei", "Găzduiește peste 300 de specii de păsări", "Vechimea lacului este de circa 20 milioane de ani"],
+      en: ["Total surface area of approximately 315 km²", "Average depth of only 1.1 meters", "UNESCO World Heritage site since 2001", "About 75% of the lake surface lies in Austria", "Habitat for more than 300 bird species", "Age of the lake is about 20 million years"],
+    },
+  },
     {
     id: "velencei-to-poi",
     type: "lake",
@@ -3888,7 +3924,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/velencei-to.webp",
     description: {"de": "Der Velencer See ist einer der wärmsten Seen Europas und ein beliebtes Ziel für Wassersportler.", "hu": "A Velencei-tó Európa egyik legmelegebb tava és a vízisportok kedvelőinek népszerű célpontja.", "ro": "Lacul Velence este unul dintre cele mai calde lacuri din Europa și o destinație populară.", "en": "Lake Velence is one of the warmest lakes in Europe and a popular destination for water sports."},
     facts: {"de": ["Bietet hervorragende Bedingungen zum Segeln, Rudern und Windsurfen.", "Bekannt für seine schwimmenden Inseln und die reiche Fischfauna."], "hu": ["Kiváló feltételeket biztosít a vitorlázáshoz, evezéshez és szörfözéshez.", "Híres az úszólápokról és a gazdag halállományáról."], "ro": ["Oferă condiții excelente pentru navigație, canotaj și windsurfing.", "Cunoscut pentru insulele sale plutitoare și fauna piscicolă bogată."], "en": ["Provides excellent conditions for sailing, rowing, and windsurfing.", "Known for its floating islands and rich fish fauna."]},
+    descriptionAdvanced: {
+      de: "Der Velence-See ist der drittgrößte natürliche See Ungarns und liegt im Komitat Fejér. Aufgrund seiner geringen Tiefe und der hohen Sonnenscheindauer gehört er im Sommer zu den wärmsten Seen Europas. Das Gebiet ist ein bedeutendes Naturschutzgebiet, wobei ein Drittel der Wasserfläche von Schilf bedeckt ist, was ideal für Wasservögel ist.",
+      hu: "A Velencei-tó Magyarország harmadik legnagyobb természetes tava, Fejér vármegye területén található. Sekély vize és a magas napsütéses órák száma miatt Európa egyik leggyorsabban felmelegedő tava nyaranta. A terület jelentős természetvédelmi övezet, a vízfelület egyharmadát nádas borítja, ami ideális fészkelőhelyet biztosít.",
+      ro: "Lacul Velence este al treilea cel mai mare lac natural din Ungaria, situat în județul Fejér. Datorită adâncimii reduse și numărului mare de ore însorite, este unul dintre cele mai calde lacuri din Europa în timpul verii. O treime din suprafața sa este acoperită de stuf, fiind o rezervație naturală importantă pentru păsările acvatice.",
+      en: "Lake Velence is the third largest natural lake in Hungary, located in Fejér County. Due to its shallow waters and high amount of sunshine, it is one of the warmest lakes in Europe during the summer. The area is a significant nature reserve, with one-third of the water surface covered by reeds, providing an ideal nesting ground.",
     },
+    factsAdvanced: {
+      de: ["Fläche von ca. 26 km²", "Durchschnittliche Tiefe beträgt 1,5 Meter", "Wassertemperaturen erreichen bis zu 28°C", "Ein Drittel der Fläche ist Naturschutzgebiet", "Entstehung vor etwa 12.000 Jahren", "Etwa 2500 Sonnenstunden pro Jahr"],
+      hu: ["Területe körülbelül 26 km²", "Átlagos mélysége 1,5 méter", "A víz hőmérséklete elérheti a 28°C-ot", "Felszínének egyharmada természetvédelmi terület", "Kialakulása kb. 12 000 évvel ezelőtt történt", "Évente kb. 2500 napsütéses óra"],
+      ro: ["Suprafață de aproximativ 26 km²", "Adâncime medie de 1,5 metri", "Temperatura apei poate atinge 28°C", "O treime din suprafață este rezervație naturală", "Format acum aproximativ 12.000 de ani", "Circa 2500 de ore de soare pe an"],
+      en: ["Surface area of approximately 26 km²", "Average depth is 1.5 meters", "Water temperatures can reach 28°C", "One-third of the area is a nature reserve", "Formed about 12,000 years ago", "Approximately 2500 sunny hours per year"],
+    },
+  },
     {
     id: "szalajka-volgy-poi",
     type: "landmark",
@@ -3908,7 +3956,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/borzsony.webp",
     description: {"de": "Das Börzsöny-Gebirge ist ein erloschenes Vulkangebiet an der Donau mit fast unberührter Natur.", "hu": "A Börzsöny egy kialudt vulkáni hegység a Duna mentén, szinte érintetlen természeti környezettel.", "ro": "Munții Börzsöny reprezintă o zonă vulcanică stinsă pe Dunăre, cu o natură aproape neatinsă.", "en": "The Börzsöny Mountains are an extinct volcanic area on the Danube with almost untouched nature."},
     facts: {"de": ["Vom Gipfel des Csóványos genießt man eine herrliche Aussicht bis zur Hohen Tatra.", "Das Gebirge ist fast vollständig von dichten Laubwäldern bedeckt."], "hu": ["A Csóványos csúcsáról tiszta időben akár a Magas-Tátra is látható.", "A hegységet szinte teljes egészében sűrű lombhullató erdők borítják."], "ro": ["De pe vârful Csóványos se poate admira o vedere superbă până la Tatra Înaltă.", "Munții sunt aproape integral acoperiți de păduri dese de foioase."], "en": ["From the summit of Csóványos, one can enjoy a magnificent view as far as the High Tatras.", "The mountains are almost entirely covered by dense deciduous forests."]},
+    descriptionAdvanced: {
+      de: "Das Börzsöny-Gebirge ist ein vulkanisches Gebirge im Norden Ungarns und wird im Süden durch das Donauknie begrenzt. Es verfügt über eine fast unberührte Natur mit dichten Wäldern und zahlreichen Wasserquellen. Der höchste Gipfel ist der Csóványos, von dem aus man bei klarem Wetter sogar die Gipfel der Hohen Tatra sehen kann.",
+      hu: "A Börzsöny vulkanikus eredetű hegység Magyarország északi részén, amelyet délről a Dunakanyar határol. Területe sűrű erdőkkel és számos forrással tarkított, szinte érintetlen természetvédelmi terület. Legmagasabb csúcsa a Csóványos, ahonnan tiszta időben akár a Magas-Tátra csúcsai is láthatóak.",
+      ro: "Munții Börzsöny sunt de origine vulcanică, situați în nordul Ungariei și mărginți la sud de Cotul Dunării. Regiunea oferă o natură aproape neatinsă, cu păduri dese și numeroase izvoare de apă. Cel mai înalt vârf este Csóványos, de unde, pe timp senin, se pot vedea culmile Munților Tatra Înaltă.",
+      en: "The Börzsöny Mountains are of volcanic origin, located in northern Hungary and bordered by the Danube Bend to the south. The area features nearly untouched nature with dense forests and numerous springs. Its highest peak is Csóványos, from which the peaks of the High Tatras can be seen on clear days.",
     },
+    factsAdvanced: {
+      de: ["Höchster Punkt Csóványos ist 938 Meter hoch", "Umfasst eine Fläche von ca. 600 km²", "Vulkanische Aktivität vor 15-18 Millionen Jahren", "Beherbergt über 400 Quellen", "Duna-Ipoly-Nationalpark verwaltet das Gebiet", "Waldbahn von Királyrét seit 1893"],
+      hu: ["Legmagasabb pontja a Csóványos (938 m)", "Területe körülbelül 600 km²", "Vulkanikus tevékenység 15-18 millió éve", "Több mint 400 forrás található itt", "A Duna–Ipoly Nemzeti Parkhoz tartozik", "A királyréti erdei vasút 1893 óta üzemel"],
+      ro: ["Vârful maxim, Csóványos, are 938 metri", "Acoperă o suprafață de circa 600 km²", "Activitate vulcanică acum 15-18 milioane de ani", "Găzduiește peste 400 de izvoare", "Administrat de Parcul Național Dunăre-Ipoly", "Calea ferată Királyrét funcționează din 1893"],
+      en: ["Highest point, Csóványos, is 938 meters", "Covers an area of about 600 km²", "Volcanic activity 15-18 million years ago", "Home to more than 400 springs", "Part of the Danube-Ipoly National Park", "Királyrét forest railway built in 1893"],
+    },
+  },
     {
     id: "villanyi-borvidek-poi",
     type: "landmark",
@@ -3918,7 +3978,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/villanyi-borvidek.webp",
     description: {"de": "Villány ist Ungarns prestigeträchtigste Rotweinregion und bekannt für erstklassige Bordeaux-Blends.", "hu": "A Villányi borvidék Magyarország legnevesebb vörösbortermő vidéke, híres a bordói típusú borairól.", "ro": "Villány este cea mai prestigioasă regiune de vin roșu din Ungaria, faimoasă pentru cupajele Bordeaux.", "en": "Villány is Hungary's most prestigious red wine region, famous for its premium Bordeaux blends."},
     facts: {"de": ["Das submediterrane Klima ermöglicht den Anbau anspruchsvoller Rebsorten.", "Zahlreiche Weinkeller und Vinotheken laden zu Verkostungen in der Region ein."], "hu": ["A szubmediterrán éghajlat lehetővé teszi az igényes szőlőfajták termesztését.", "Számos borospince és vinotéka várja a kóstolásra vágyó vendégeket a vidéken."], "ro": ["Clima submediteraneană permite cultivarea unor soiuri de struguri pretențioase.", "Numeroase crame și vinoteci invită la degustări în întreaga regiune."], "en": ["The sub-Mediterranean climate allows for the cultivation of demanding grape varieties.", "Numerous wine cellars and wine shops invite visitors for tastings in the region."]},
+    descriptionAdvanced: {
+      de: "Das Weinbaugebiet Villány ist die südlichste Weinregion Ungarns und bekannt für ihr submediterranes Klima. Es ist besonders für seine körperreichen Rotweine wie Cabernet Sauvignon und Merlot berühmt. Die Kellergassen von Villánykövesd und Palkonya sind geschützte Denkmäler und zeugen von der langen Tradition des Weinbaus seit der Römerzeit.",
+      hu: "A Villányi borvidék Magyarország legdélebbi és egyik legfejlettebb borvidéke, amely szubmediterrán éghajlatáról ismert. Elsősorban testes vörösborairól, mint a Cabernet Sauvignon és a Merlot, híres. Villánykövesd és Palkonya védett pincesorai a római korig visszanyúló szőlőtermesztési hagyományokról tanúskodnak.",
+      ro: "Regiunea viticolă Villány este cea mai sudică zonă viticolă din Ungaria, fiind cunoscută pentru climatul său submediteranean. Este celebră în special pentru vinurile roșii corpolente, precum Cabernet Sauvignon și Merlot. Șirurile de pivnițe din Villánykövesd și Palkonya sunt monumente protejate, atestând tradiția milenară a vinului.",
+      en: "The Villány wine region is Hungary's southernmost wine district, renowned for its sub-Mediterranean climate. It is particularly famous for full-bodied red wines such as Cabernet Sauvignon and Merlot. The cellar rows of Villánykövesd and Palkonya are protected monuments, reflecting a winemaking tradition dating back to Roman times.",
     },
+    factsAdvanced: {
+      de: ["Gesamtfläche von ca. 2100 Hektar", "Erste Weinbaubelege aus der Römerzeit", "Höchster Berg ist der Szársomlyó (442 m)", "Jährlich ca. 2100 Sonnenstunden", "Hauptrebsorten sind Kékfrankos und Portugieser", "Erste geschützte Herkunftsbezeichnung in Ungarn"],
+      hu: ["Teljes területe kb. 2100 hektár", "Római kori szőlőtermesztési emlékek", "Legmagasabb hegye a Szársomlyó (442 m)", "Évente kb. 2100 napsütéses óra", "Főbb fajták a Kékfrankos és a Portugieser", "Az első védett eredetű borvidék hazánkban"],
+      ro: ["Suprafață totală de circa 2100 hectare", "Dovezi de viticultură din epoca romană", "Cel mai înalt punct este Szársomlyó (442 m)", "Circa 2100 de ore de soare pe an", "Soiuri principale: Kékfrankos și Portugieser", "Prima regiune cu denumire de origine protejată"],
+      en: ["Total area of about 2100 hectares", "Winemaking evidence dates back to Roman times", "Highest peak is Szársomlyó (442 m)", "Approximately 2100 sunny hours per year", "Main grape varieties: Kékfrankos and Portugieser", "First protected designation of origin in Hungary"],
+    },
+  },
     {
     id: "gemenci-erdo-poi",
     type: "forest",
@@ -3938,7 +4010,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/egri-var.webp",
     description: {"de": "Die Burg von Eger ist ein nationales Symbol für den ungarischen Widerstand gegen die Osmanen.", "hu": "Az egri vár az oszmán hódítók elleni magyar ellenállás és hősiesség nemzeti szimbóluma.", "ro": "Cetatea din Eger este un simbol național al rezistenței maghiare împotriva otomanilor.", "en": "The Castle of Eger is a national symbol of Hungarian resistance against the Ottomans."},
     facts: {"de": ["Im Jahr 1552 verteidigte eine kleine Truppe die Burg gegen ein riesiges Heer.", "Die Kasematten und das unterirdische System sind für Besucher zugänglich."], "hu": ["1552-ben egy maroknyi sereg védte meg a várat a hatalmas túlerővel szemben.", "A kazamaták és a földalatti folyosórendszer látogatható a turisták számára."], "ro": ["În 1552, o trupă mică a apărat cetatea împotriva unei armate uriașe.", "Cazamatele și sistemul subteran sunt deschise pentru vizitatori."], "en": ["In 1552, a small force defended the castle against a massive army.", "The casemates and the underground system are open to visitors."]},
+    descriptionAdvanced: {
+      de: "Die Burg von Eger ist ein nationales Symbol Ungarns und Schauplatz der berühmten Belagerung von 1552, bei der ein kleines ungarisches Heer das osmanische Riesenheer abwehrte. Innerhalb der Mauern befinden sich der gotische Bischofspalast und das Grab des Schriftstellers Géza Gárdonyi. Die unterirdischen Kasematten zeugen von der strategischen Bedeutung der Festung.",
+      hu: "Az egri vár Magyarország egyik legfontosabb történelmi emléke, az 1552-es hősies várvédelem helyszíne, ahol Dobó István vezetésével megállították a török sereget. A falakon belül található a gótikus Püspöki palota és Gárdonyi Géza sírja. A látogatók bejárhatják a hatalmas földalatti kazamata-rendszert is.",
+      ro: "Cetatea Eger este un simbol național al Ungariei, fiind locul celebrului asediu din 1552, când o mică armată maghiară a respins uriașa armată otomană. În interiorul zidurilor se află palatul episcopal gotic și mormântul scriitorului Géza Gárdonyi. Cazematele subterane atestă importanța strategică a fortăreței.",
+      en: "The Castle of Eger is a national symbol of Hungary, famous for the siege of 1552 when a small Hungarian force successfully repelled a massive Ottoman army. Within its walls lie the Gothic Episcopal Palace and the tomb of author Géza Gárdonyi. Visitors can explore the vast underground casemate system used during the fortress's defense.",
     },
+    factsAdvanced: {
+      de: ["Belagerung von 1552 durch die Osmanen", "Dobó István war der Burgkommandant", "Bau der ersten Steinburg im 13. Jahrhundert", "Unterirdische Kasematten sind kilometerlang", "Bischofspalast stammt aus dem 15. Jahrhundert", "Nationales Gedenkstätte seit 2011"],
+      hu: ["Az 1552-es oszmán ostrom helyszíne", "Dobó István volt a várkapitány", "Az első kővár a 13. században épült", "Kilométer hosszú földalatti kazamaták", "A Püspöki palota a 15. századból való", "Nemzeti emlékhely 2011 óta"],
+      ro: ["Locul asediului otoman din 1552", "István Dobó a fost căpitanul cetății", "Prima cetate de piatră construită în sec. XIII", "Cazematele subterane au kilometri lungime", "Palatul episcopal datează din sec. XV", "Loc memorial național din 2011"],
+      en: ["Site of the famous 1552 Ottoman siege", "István Dobó served as the castle captain", "First stone castle built in the 13th century", "Underground casemates span several kilometers", "Episcopal Palace dates back to the 15th century", "National Heritage Site since 2011"],
+    },
+  },
     {
     id: "visegradi-fellegvar-poi",
     type: "historical",
@@ -3948,7 +4032,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/visegrad.webp",
     description: {"de": "Die Fellegvár in Visegrád thront majestätisch über dem Donauknie und bietet atemberaubende Blicke.", "hu": "A visegrádi Fellegvár fenségesen magasodik a Dunakanyar fölé, lenyűgöző panorámát nyújtva.", "ro": "Cetatea din Visegrád domină maiestuos Cotul Dunării, oferind vederi panoramice uluitoare.", "en": "The Visegrád Citadel towers majestically over the Danube Bend, offering breathtaking views."},
     facts: {"de": ["Diente im Mittelalter als Aufbewahrungsort der heiligen ungarischen Krönungsinsignien.", "Die Burg ist ein wichtiges Zeugnis der glanzvollen Čra der Anjou-Könige."], "hu": ["A középkorban itt őrizték a magyar koronázási jelvényeket és a Szent Koronát.", "A vár az Anjou-királyok fénykorának egyik legfontosabb történelmi emléke."], "ro": ["A servit în Evul Mediu ca loc de păstrare a însemnelor coroanei maghiare.", "Cetatea este o dovadă importantă a epocii strălucite a regilor Anjou."], "en": ["Served as the storage place for the holy Hungarian coronation regalia in the Middle Ages.", "The castle is an important testament to the brilliant era of the Anjou kings."]},
+    descriptionAdvanced: {
+      de: "Die Visegráder Zitadelle thront auf einem steilen Felsen über dem Donauknie und bietet einen der spektakulärsten Ausblicke Ungarns. Sie wurde nach dem Mongolensturm im 13. Jahrhundert erbaut und diente lange als Aufbewahrungsort für die ungarischen Krönungsinsignien. Die Festung war Schauplatz des berühmten Königstreffens von 1335.",
+      hu: "A Visegrádi fellegvár a Dunakanyar feletti meredek sziklán trónol, Magyarország egyik legszebb kilátását nyújtva. A 13. században, a tatárjárás után épült, és hosszú ideig itt őrizték a magyar Szent Koronát. A vár az 1335-ös híres visegrádi királytalálkozó helyszíneként is ismert a történelemben.",
+      ro: "Cetatea din Visegrád tronează pe o stâncă abruptă deasupra Cotului Dunării, oferind una dintre cele mai spectaculoase panorame din Ungaria. Construită în sec. XIII după invazia mongolă, a servit mult timp ca loc de păstrare a Coroanei Sfânte. Fortăreața a fost locul celebrei întâlniri a regilor din 1335.",
+      en: "The Visegrád Citadel sits atop a steep cliff overlooking the Danube Bend, offering one of Hungary's most spectacular views. Built in the 13th century after the Mongol invasion, it served for centuries as a secure storage for the Holy Crown of Hungary. The fortress was the site of the historic Royal Summit of 1335.",
     },
+    factsAdvanced: {
+      de: ["Bau im 13. Jahrhundert durch Béla IV.", "Königstreffen von 1335 fand hier statt", "Sitz der ungarischen Könige bis 1405", "Aufbewahrungsort der Krone bis 1526", "Zerstörung durch die Osmanen im 16. Jh.", "Höhe von ca. 333 Metern über dem Meer"],
+      hu: ["IV. Béla király építtette a 13. században", "Az 1335-ös királytalálkozó helyszíne", "1405-ig a magyar királyok székhelye", "1526-ig itt őrizték a Szent Koronát", "A 16. században a törökök lerombolták", "Tengerszint feletti magassága kb. 333 méter"],
+      ro: ["Construită în sec. XIII de regele Béla IV", "Locul întâlnirii regilor din 1335", "Reședință regală până în anul 1405", "Coroana Sfântă păstrată aici până în 1526", "Distrusă de otomani în secolul al XVI-lea", "Altitudine de aproximativ 333 metri"],
+      en: ["Built in the 13th century by King Béla IV", "Site of the 1335 Royal Summit", "Royal residence until 1405", "Home of the Holy Crown until 1526", "Partially destroyed by Ottomans in the 16th century", "Elevation of approximately 333 meters"],
+    },
+  },
     {
     id: "szigetvari-var-poi",
     type: "historical",
@@ -3958,7 +4054,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/szigetvari-var.webp",
     description: {"de": "Die Burg von Szigetvár ist berühmt für die heldenhafte Belagerung und den Tod Sultan Süleymans.", "hu": "A szigetvári vár a hősies önfeláldozásról és I. Szulejmán szultán haláláról híres.", "ro": "Cetatea din Szigetvár este faimoasă pentru asediul eroic și moartea sultanului Soliman.", "en": "Szigetvár Castle is famous for its heroic siege and the death of Sultan Suleiman."},
     facts: {"de": ["Miklós Zrínyi opferte sein Leben bei der Verteidigung der Festung im Jahr 1566.", "Der Park der ungarisch-türkischen Freundschaft erinnert an die historischen Ereignisse."], "hu": ["Zrínyi Miklós életét áldozta az erődítmény védelmében az 1566-os ostrom során.", "A Magyar-Török Barátság Park állít emléket a történelmi eseményeknek."], "ro": ["Miklós Zrínyi și-a sacrificat viața apărând cetatea în anul 1566.", "Parcul Prieteniei Maghiaro-Turce comemorează evenimentele istorice."], "en": ["Miklós Zrínyi sacrificed his life defending the fortress during the 1566 siege.", "The Hungarian-Turkish Friendship Park commemorates the historical events."]},
+    descriptionAdvanced: {
+      de: "Die Burg von Szigetvár ist unzertrennlich mit dem Namen Miklós Zrínyi verbunden, der 1566 mit seinen Soldaten die Festung bis zum letzten Atemzug gegen das Heer von Süleyman dem Prächtigen verteidigte. Der Sultan verstarb während der Belagerung in seinem Zelt. Heute beherbergt die Anlage ein Museum und eine Moschee aus der Zeit der Besatzung.",
+      hu: "A szigetvári vár neve elválaszthatatlan Zrínyi Miklóstól, aki 1566-ban katonáival az utolsó leheletéig védte az erődöt I. Szulejmán szultán hatalmas serege ellen. A szultán az ostrom idején, sátrában hunyt el. Ma a vár területén múzeum és egy oszmán kori dzsámi is várja a látogatókat.",
+      ro: "Cetatea Szigetvár este legată indisolubil de numele lui Miklós Zrínyi, care în 1566 a apărat fortăreața până la moarte împotriva armatei lui Suleiman Magnificul. Sultanul a murit în cortul său în timpul asediului. Astăzi, incinta găzduiește un muzeu și o moschee datând din perioada ocupației.",
+      en: "The Castle of Szigetvár is inextricably linked to Miklós Zrínyi, who in 1566 defended the fortress with his soldiers to the last breath against the army of Suleiman the Magnificent. The Sultan died in his tent during the siege. Today, the castle grounds house a museum and an Ottoman-era mosque.",
     },
+    factsAdvanced: {
+      de: ["Belagerung von 1566 durch Süleyman I.", "Miklós Zrínyi fiel beim Ausbruch aus der Burg", "Sultan Süleyman starb während der Belagerung", "Moschee von Ali Pascha wurde um 1589 erbaut", "Szigetvár bedeutet 'Inselburg'", "Nationales Gedenkstätte seit 2011"],
+      hu: ["Az 1566-os ostrom I. Szulejmán vezetésével", "Zrínyi Miklós a kitöréskor esett el", "Szulejmán szultán az ostrom alatt halt meg", "Ali pasa dzsámija 1589 körül épült", "A vár neve szigetre épült várat jelent", "Nemzeti emlékhely 2011 óta"],
+      ro: ["Asediul din 1566 condus de Suleiman I", "Miklós Zrínyi a murit în timpul ieșirii finale", "Sultanul Suleiman a murit în timpul asediului", "Geamia lui Ali Pașa construită în jurul anului 1589", "Numele înseamnă 'Cetatea din insulă'", "Loc memorial național din 2011"],
+      en: ["Site of the 1566 siege by Suleiman I", "Miklós Zrínyi died during the final charge", "Sultan Suleiman died during the siege", "Ali Pasha's mosque built around 1589", "The name translates to 'Island Castle'", "National Heritage Site since 2011"],
+    },
+  },
     {
     id: "sarvari-var-poi",
     type: "historical",
@@ -3968,7 +4076,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/sarvari-var.webp",
     description: {"de": "Die Burg Nádasdy ist eine der am besten erhaltenen Renaissance-Anlagen im Westen Ungarns.", "hu": "A Nádasdy-vár Nyugat-Magyarországon egyik legjobb állapotban fennmaradt reneszánsz vára.", "ro": "Cetatea Nádasdy este unul dintre cele mai bine conservate ansambluri renascentiste din vestul Ungariei.", "en": "The Nádasdy Castle is one of the best-preserved Renaissance complexes in western Hungary."},
     facts: {"de": ["Berühmt für die prunkvollen Deckenfresken im barocken Festsaal der Burganlage.", "Wichtiger Ort, an dem das erste gedruckte ungarische Buch veröffentlicht wurde."], "hu": ["Híres a barokk díszterem mennyezetét díszítő pompás freskókról.", "Itt jelent meg az első magyar nyelven nyomtatott könyv a történelemben."], "ro": ["Faimoasă pentru frescele magnifice de pe tavanul sălii de festivități baroce.", "Locul important unde a fost publicată prima carte tipărită în limba maghiară."], "en": ["Famous for the magnificent ceiling frescoes in the Baroque grand hall.", "Important site where the first printed Hungarian book was published."]},
+    descriptionAdvanced: {
+      de: "Das Nádasdy-Schloss in Sárvár ist eine der bedeutendsten Renaissanceschlossanlagen Ungarns mit einem charakteristischen fünfeckigen Grundriss. Besonders beeindruckend ist der Prunksaal mit Deckengemälden, die Schlachtszenen aus dem Langen Türkenkrieg zeigen. Im 16. Jahrhundert war es ein Zentrum der ungarischen Reformation und Buchdruckerkunst.",
+      hu: "A sárvári Nádasdy-vár Magyarország egyik legjelentősebb reneszánsz várkastélya, jellegzetes ötszögletű alaprajzzal. Leglátványosabb része a díszterem, melynek mennyezetfreskói a tizenöt éves háború csatajeleneteit ábrázolják. A 16. században a magyar reformáció és a könyvnyomtatás egyik fontos központja volt.",
+      ro: "Castelul Nádasdy din Sárvár este unul dintre cele mai importante complexe renascentiste din Ungaria, cu un plan pentagonal caracteristic. Sala de recepție este impresionantă, având fresce pe tavan care înfățișează scene de luptă din Războiul cel Lung. În sec. XVI, a fost un centru al Reformei și al tipăritului.",
+      en: "The Nádasdy Castle in Sárvár is one of Hungary's most significant Renaissance castle complexes, featuring a distinctive pentagonal layout. Its most impressive feature is the Great Hall, with ceiling frescoes depicting battle scenes from the Long Turkish War. In the 16th century, it was a major center for the Reformation and printing.",
     },
+    factsAdvanced: {
+      de: ["Erste Erwähnung im Jahr 1327", "Bau der Renaissance-Anlage ab 1549", "Prunksaal-Fresken von Hans Rudolf Miller (1769)", "Erstes ungarisches Buch hier 1541 gedruckt", "Besitz der Familie Nádasdy bis 1671", "Umgeben von einem 10 Hektar großen Park"],
+      hu: ["Első említése 1327-ből származik", "A reneszánsz vár építése 1549-ben kezdődött", "A díszterem freskói 1769-ben készültek", "Itt nyomtatták az első magyar nyelvű könyvet (1541)", "A Nádasdy család birtoka volt 1671-ig", "A várat 10 hektáros park veszi körül"],
+      ro: ["Prima atestare documentară în 1327", "Construcția renascentistă începută în 1549", "Frescele din Sala Mare pictate în 1769", "Prima carte în maghiară tipărită aici (1541)", "Proprietatea familiei Nádasdy până în 1671", "Înconjurat de un parc de 10 hectare"],
+      en: ["First mentioned in historical records in 1327", "Renaissance reconstruction began in 1549", "Great Hall frescoes by Hans Rudolf Miller (1769)", "First Hungarian book printed here in 1541", "Owned by the Nádasdy family until 1671", "Surrounded by a 10-hectare parkland"],
+    },
+  },
     {
     id: "diosgyori-var-poi",
     type: "historical",
@@ -3978,7 +4098,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/diosgyori-var.webp",
     description: {"de": "Die Burg Diósgyőr bei Miskolc war im Mittelalter eine bevorzugte Residenz ungarischer Königinnen.", "hu": "A Miskolc melletti diósgyőri vár a középkorban a magyar királynék kedvelt rezidenciája volt.", "ro": "Cetatea Diósgyőr de lângă Miskolc a fost o reședință preferată a reginelor maghiare în Evul Mediu.", "en": "Diósgyőr Castle near Miskolc was a preferred residence of Hungarian queens in the Middle Ages."},
     facts: {"de": ["Die charakteristische vierürmige gotische Burg wurde umfassend rekonstruiert.", "Regelmäßig finden hier Ritterspiele und mittelalterliche Festivals statt."], "hu": ["A jellegzetes négyszögletes gótikus várat jelentős mértékben rekonstruálták.", "Rendszeresen ad otthont lovagi játékoknak és középkori fesztiváloknak."], "ro": ["Cetatea gotică caracteristică cu patru turnuri a fost reconstruită substanțial.", "Găzduiește regulat jocuri cavalerești și festivaluri medievale."], "en": ["The characteristic four-towered Gothic castle has been extensively reconstructed.", "Knightly tournaments and medieval festivals are regularly held here."]},
+    descriptionAdvanced: {
+      de: "Die Burg von Diósgyőr, am Fuße des Bükk-Gebirges gelegen, ist als die 'Burg der Königinnen' bekannt, da sie über Jahrhunderte das Hochzeitsgeschenk für ungarische Königinnen war. Die gotische Ritterburg wurde unter Ludwig dem Großen im 14. Jahrhundert zu einer prachtvollen Residenz ausgebaut. In den letzten Jahren wurde sie umfassend rekonstruiert.",
+      hu: "A Bükk-hegység lábánál fekvő Diósgyőri vár a 'királynék váraként' ismert, mivel évszázadokon át a magyar királynék jegyajándéka volt. A gótikus lovagvárat Nagy Lajos király építtette ki pompás rezidenciává a 14. században. Az utóbbi években a várat jelentős mértékben újjáépítették, visszaadva régi fényét.",
+      ro: "Cetatea Diósgyőr, situată la poalele Munților Bükk, este cunoscută drept 'cetatea reginelor', fiind timp de secole darul de nuntă pentru reginele Ungariei. Castelul cavalerilor gotici a fost transformat într-o reședință somptuoasă de Ludovic cel Mare în sec. XIV. În ultimii ani, cetatea a fost reconstruită substanțial.",
+      en: "The Castle of Diósgyőr, located at the foot of the Bükk Mountains, is known as the 'Castle of Queens' because it served as a traditional wedding gift for Hungarian queens for centuries. The Gothic knight's castle was expanded into a magnificent residence by Louis the Great in the 14th century and has recently undergone major reconstruction.",
     },
+    factsAdvanced: {
+      de: ["Ausbau zur Prachtburg durch Ludwig I. (1360-1370)", "Besitz von insgesamt 6 ungarischen Königinnen", "Vier mächtige Ecktürme charakterisieren den Bau", "Größter Rittersaal Mitteleuropas im Mittelalter", "Zerstörung durch Blitzschlag und Pulverexplosion 1703", "Wiedereröffnung nach Rekonstruktion 2014"],
+      hu: ["Nagy Lajos építtette ki 1360 és 1370 között", "Összesen 6 magyar királyné birtokolta", "Négy hatalmas saroktorony jellemzi az épületet", "Közép-Európa legnagyobb lovagterme volt egykor", "1703-ban villámcsapás és robbanás rongálta meg", "A nagyrekonstrukció után 2014-ben nyílt meg"],
+      ro: ["Extinsă de Ludovic I între 1360 și 1370", "A aparținut unui număr de 6 regine maghiare", "Caracterizată prin patru turnuri masive de colț", "Cea mai mare sală a cavalerilor din Europa Centrală", "Afectată de o explozie și fulger în 1703", "Redeschisă după reconstrucție în 2014"],
+      en: ["Expanded by King Louis I between 1360 and 1370", "Owned by a total of 6 Hungarian queens", "Features four massive corner towers", "Contained Central Europe's largest medieval knight's hall", "Damaged by a lightning strike and explosion in 1703", "Reopened after major reconstruction in 2014"],
+    },
+  },
     {
     id: "esztergomi-bazilika-poi",
     type: "historical",
@@ -3988,7 +4120,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/esztergomi-bazilika.webp",
     description: {"de": "Die Basilika von Esztergom ist die größte Kirche Ungarns und das geistliche Zentrum des Landes.", "hu": "Az esztergomi bazilika Magyarország legnagyobb temploma és az ország vallási központja.", "ro": "Bazilica din Esztergom este cea mai mare biserică din Ungaria și centrul spiritual al țării.", "en": "The Esztergom Basilica is the largest church in Hungary and the spiritual center of the country."},
     facts: {"de": ["Das Altarbild ist das weltweit größte auf Leinwand gemalte Bild eines einzigen Künstlers.", "Die Bakócz-Kapelle im Inneren ist ein Meisterwerk der ungarischen Renaissance."], "hu": ["Oltárképe a világ legnagyobb, egyetlen vászonra festett képe egyetlen művésztől.", "A belső Bakócz-kápolna a magyar reneszánsz építészet egyik remekműve."], "ro": ["Pictura altarului este cea mai mare pictură pe pânză din lume realizată de un singur artist.", "Capela Bakócz din interior este o capodoperă a Renașterii maghiare."], "en": ["The altarpiece is the world's largest painting on a single piece of canvas.", "The Bakócz Chapel inside is a masterpiece of Hungarian Renaissance architecture."]},
+    descriptionAdvanced: {
+      de: "Die Basilika von Esztergom ist die größte Kirche Ungarns und das geistliche Zentrum des Landes. Sie wurde im klassizistischen Stil auf dem Burgberg errichtet und beherbergt die Bakócz-Kapelle, das wertvollste Denkmal der ungarischen Renaissance. Die gewaltige Kuppel ist weithin sichtbar und prägt das Panorama des Donauknies.",
+      hu: "Az Esztergomi bazilika Magyarország legnagyobb temploma és az ország egyházi központja. A Várhegyen emelt klasszicista építmény ad otthont a Bakócz-kápolnának, amely a magyar reneszánsz legértékesebb emléke. Hatalmas kupolája messziről látható, meghatározva a Dunakanyar és a város látképét.",
+      ro: "Bazilica din Esztergom este cea mai mare biserică din Ungaria și centrul spiritual al țării. Construită în stil clasicist pe Dealul Cetății, aceasta adăpostește Capela Bakócz, cel mai valoros monument al Renașterii maghiare. Cupola sa uriașă este vizibilă de la mare distanță, dominând panorama Cotului Dunării.",
+      en: "The Esztergom Basilica is the largest church in Hungary and the spiritual center of the country. Built in Classicist style on Castle Hill, it houses the Bakócz Chapel, the most precious monument of the Hungarian Renaissance. Its massive dome is visible from afar, dominating the skyline of the Danube Bend.",
     },
+    factsAdvanced: {
+      de: ["Gesamthöhe der Kuppel beträgt 100 Meter", "Bauzeit von 1822 bis 1869", "Größtes Gemälde der Welt auf einer Leinwand (Altar)", "Bakócz-Kapelle aus rotem Marmor (1506-1507)", "Orgel verfügt über mehr als 3500 Pfeifen", "Sitz des Erzbischofs von Esztergom-Budapest"],
+      hu: ["A kupola teljes magassága 100 méter", "Az építkezés 1822-től 1869-ig tartott", "A világ legnagyobb egyetlen vászonra festett oltárképe", "Bakócz-kápolna vörös márványból (1506-1507)", "Az orgonának több mint 3500 sípja van", "Az esztergom-budapesti érsek székhelye"],
+      ro: ["Înălțimea totală a cupolei este de 100 metri", "Construcția a durat din 1822 până în 1869", "Cea mai mare pictură pe o singură pânză din lume", "Capela Bakócz din marmură roșie (1506-1507)", "Orga are peste 3500 de tuburi", "Reședința Arhiepiscopului de Esztergom-Budapesta"],
+      en: ["Total height of the dome is 100 meters", "Built between 1822 and 1869", "Features the world's largest painting on a single canvas", "Bakócz Chapel built of red marble (1506-1507)", "The organ contains over 3,500 pipes", "Seat of the Archbishop of Esztergom-Budapest"],
+    },
+  },
     {
     id: "szentendrei-skanzen-poi",
     type: "historical",
@@ -3998,7 +4142,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/szentendrei-skanzen.webp",
     description: {"de": "Das Skanzen in Szentendre präsentiert die ländliche Architektur und Lebensweise aus ganz Ungarn.", "hu": "A szentendrei Skanzen Magyarország tájegységeinek népi építészetét és életmódját mutatja be.", "ro": "Skanzen din Szentendre prezintă arhitectura rurală și modul de viață din întreaga Ungarie.", "en": "The Skanzen in Szentendre presents the rural architecture and way of life from all over Hungary."},
     facts: {"de": ["Über 300 Gebäude aus verschiedenen Regionen wurden hier originalgetreu wieder aufgebaut.", "Interaktive Werkstätten lassen alte Handwerkskünste für Besucher wieder lebendig werden."], "hu": ["Több mint 300 épületet telepítettek át és építettek fel újra az eredeti tájegységekről.", "Interaktív műhelyekben a látogatók maguk is kipróbálhatják a régi mesterségeket."], "ro": ["Peste 300 de clădiri din diverse regiuni au fost reconstruite fidel aici.", "Atelierele interactive readuc la viață meșteșugurile vechi pentru vizitatori."], "en": ["Over 300 buildings from different regions have been faithfully reconstructed here.", "Interactive workshops bring old crafts back to life for visitors."]},
+    descriptionAdvanced: {
+      de: "Das Freilichtmuseum Szentendre ist das größte seiner Art in Ungarn und präsentiert die traditionelle ländliche Architektur und Lebensweise aus verschiedenen Regionen des Landes. Auf einer Fläche von 60 Hektar wurden über 300 Gebäude, darunter Wohnhäuser, Kirchen und Mühlen, originalgetreu wiederaufgebaut. Eine eigene Waldbahn verbindet die verschiedenen Themengebiete.",
+      hu: "A Szentendrei Skanzen Magyarország legnagyobb szabadtéri néprajzi múzeuma, amely az ország különböző tájegységeinek népi építészetét és életmódját mutatja be. A 60 hektáros területen több mint 300 építményt, köztük lakóházakat, templomokat és malmokat építettek fel eredeti formájukban. A tájegységek között belső vasút közlekedik.",
+      ro: "Muzeul Satului din Szentendre este cel mai mare muzeu etnografic în aer liber din Ungaria, prezentând arhitectura populară și stilul de viață din diferite regiuni ale țării. Pe o suprafață de 60 de hectare, au fost reconstruite peste 300 de clădiri, inclusiv case, biserici și mori. O cale ferată internă face legătura între sectoare.",
+      en: "The Szentendre Open Air Museum (Skanzen) is the largest of its kind in Hungary, showcasing traditional rural architecture and lifestyles from various regions of the country. Spread over 60 hectares, it features more than 300 reconstructed buildings, including houses, churches, and mills. An internal railway connects the different regional exhibits.",
     },
+    factsAdvanced: {
+      de: ["Gründungsjahr des Museums war 1967", "Fläche umfasst ca. 60 Hektar", "Mehr als 300 Gebäude in 8 Regionen unterteilt", "Skanzen-Bahn hat eine Strecke von 2,2 km", "Originale Holzkirche aus dem 18. Jahrhundert", "Vorführung alter Handwerkstechniken vor Ort"],
+      hu: ["A múzeumot 1967-ben alapították", "Területe körülbelül 60 hektár", "Több mint 300 épület 8 tájegységbe sorolva", "A belső vasút vonala 2,2 km hosszú", "Eredeti 18. századi fatemplom is látható", "Helyszíni mesterségbemutatók és foglalkozások"],
+      ro: ["Muzeul a fost fondat în anul 1967", "Suprafața totală este de circa 60 hectare", "Peste 300 de clădiri împărțite în 8 regiuni", "Calea ferată internă are o lungime de 2,2 km", "Biserică de lemn originală din sec. XVIII", "Demonstrații live de meșteșuguri tradiționale"],
+      en: ["Founded in 1967 to preserve rural heritage", "Covers an area of approximately 60 hectares", "Features over 300 buildings across 8 regions", "The Skanzen railway is 2.2 km long", "Includes an original 18th-century wooden church", "Live demonstrations of traditional crafts"],
+    },
+  },
     {
     id: "sumegi-var-poi",
     type: "historical",
@@ -4008,7 +4164,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/sumegi-var.webp",
     description: {"de": "Die Burg Sümeg zählt zu den imposantesten und am besten erhaltenen Festungsanlagen des Landes.", "hu": "A sümegi vár az ország egyik legimpozánsabb és legjobb állapotban fennmaradt erődítménye.", "ro": "Cetatea Sümeg este una dintre cele mai impunătoare și mai bine conservate fortificații din țară.", "en": "Sümeg Castle is one of the country's most impressive and best-preserved fortifications."},
     facts: {"de": ["Die im 13. Jahrhundert errichtete Burg bietet einen weiten Blick über die Balaton-Region.", "Bekannt für seine spektakulären Ritterspiele und historischen Abendveranstaltungen."], "hu": ["A 13. században épült várból messzire ellátni a Balaton-felvidék irányába.", "Híres a látványos lovagi tornáiról és a történelmi hangulatú vacsorákról."], "ro": ["Construită în secolul al XIII-lea, cetatea oferă o vedere largă asupra regiunii Balaton.", "Cunoscută pentru jocurile cavalerești spectaculoase și cinele istorice."], "en": ["Built in the 13th century, the castle offers a wide view over the Balaton region.", "Known for its spectacular knightly tournaments and historical evening events."]},
+    descriptionAdvanced: {
+      de: "Die Burg von Sümeg ist eine der am besten erhaltenen mittelalterlichen Festungen Ungarns und thront markant auf einem Kalksteinhügel über der Stadt. Sie wurde im 13. Jahrhundert nach dem Mongolensturm errichtet und diente lange als Zufluchtsort für die Bischöfe von Veszprém. Heute ist sie für ihre historischen Ritterspiele und mittelalterlichen Vorführungen bekannt.",
+      hu: "A Sümegi vár Magyarország egyik legjobb állapotban fennmaradt középkori erődítménye, amely egy mészkőhegy tetején magasodik a város fölé. A 13. században épült a tatárjárás után, és hosszú ideig a veszprémi püspökök menedékhelyeként szolgált. Napjainkban híres történelmi lovasjátékairól és várjátékaival vonzza a látogatókat.",
+      ro: "Cetatea Sümeg este una dintre cele mai bine conservate fortificații medievale din Ungaria, dominând orașul de pe vârful unui deal calcaros. Construită în sec. XIII după invazia mongolă, a servit mult timp ca refugiu pentru episcopii de Veszprém. Astăzi, este celebră pentru turnirurile cavalerești și spectacolele medievale.",
+      en: "The Castle of Sümeg is one of Hungary's best-preserved medieval fortresses, standing prominently atop a limestone hill overlooking the town. Built in the 13th century following the Mongol invasion, it served for centuries as a refuge for the bishops of Veszprém. Today, it is famous for its historical knight tournaments and medieval reenactments.",
     },
+    factsAdvanced: {
+      de: ["Bau im späten 13. Jahrhundert durch Béla IV.", "Sitz der Bischöfe von Veszprém ab 1552", "Höhe des Burghügels beträgt 270 Meter", "Zerstörung durch Brand im Jahr 1713", "Beginn der Restaurierung im Jahr 1989", "Tägliche Ritterspiele in der Sommersaison"],
+      hu: ["A 13. század végén épült IV. Béla idején", "1552-től a veszprémi püspökök székhelye", "A várhegy magassága 270 méter", "1713-ban tűzvész pusztította el a várat", "A restaurálási munkák 1989-ben kezdődtek", "Napi lovasjátékok a nyári szezonban"],
+      ro: ["Construită la sfârșitul sec. XIII sub Béla IV", "Reședința episcopilor de Veszprém din 1552", "Înălțimea dealului cetății este de 270 metri", "Distrusă de un incendiu în anul 1713", "Lucrările de restaurare începute în 1989", "Turniruri cavalerești zilnice în timpul verii"],
+      en: ["Built in the late 13th century by King Béla IV", "Seat of the Bishops of Veszprém since 1552", "Castle hill elevation is 270 meters", "Partially destroyed by a fire in 1713", "Restoration projects began in 1989", "Daily knight tournaments held during summer"],
+    },
+  },
     {
     id: "fuzeri-var-poi",
     type: "historical",
@@ -4018,7 +4186,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/fuzeri-var.webp",
     description: {"de": "Die Burg Füzér ist eine spektakulär restaurierte Festung auf einem steilen vulkanischen Felsen.", "hu": "A füzéri vár egy meredek vulkáni sziklán álló, látványosan felújított középkori erődítmény.", "ro": "Cetatea Füzér este o fortificație restaurată spectaculos, situată pe o stâncă vulcanică abruptă.", "en": "Füzér Castle is a spectacularly restored fortress standing on a steep volcanic rock."},
     facts: {"de": ["Sie war eine der ersten Burgen in Ungarn, die nach dem Tatarensturm erbaut wurde.", "Nach der Schlacht bei Mohács wurde hier ein Jahr lang die ungarische Krone versteckt."], "hu": ["Egyike volt az első magyar váraknak, amelyek a tatárjárás után épültek fel.", "A mohácsi csata után egy éven keresztül itt rejtegették a magyar Szent Koronát."], "ro": ["A fost una dintre primele cetăți din Ungaria construite după invazia tătară.", "După bătălia de la Mohács, coroana maghiară a fost ascunsă aici timp de un an."], "en": ["It was one of the first castles in Hungary built after the Mongol invasion.", "The Hungarian crown was hidden here for a year after the Battle of Mohács."]},
+    descriptionAdvanced: {
+      de: "Die Burg von Füzér ist eine der frühesten Steinburgen Ungarns und liegt auf einem steilen Vulkankegel im Zemplén-Gebirge. Sie wurde bereits vor dem Mongolensturm im 13. Jahrhundert erbaut und ist historisch bedeutsam, da hier nach der Schlacht von Mohács die ungarische Krone versteckt wurde. Die Burg wurde in den letzten Jahren originalgetreu rekonstruiert.",
+      hu: "A Füzéri vár Magyarország egyik legkorábbi kővára, amely a Zempléni-hegység egyik meredek vulkáni kúpján épült. Már a tatárjárás előtt, a 13. század elején állt, és történelmi jelentőségét növeli, hogy a mohácsi csata után itt rejtegették a magyar Szent Koronát. A várat az elmúlt években korhű módon teljesen újjáépítették.",
+      ro: "Cetatea Füzér este una dintre cele mai timpurii cetăți de piatră din Ungaria, situată pe un con vulcanic abrupt în Munții Zemplén. Construită înainte de invazia mongolă în sec. XIII, este importantă istoric deoarece aici a fost ascunsă Coroana Sfântă după bătălia de la Mohács. Cetatea a fost complet reconstruită recent.",
+      en: "The Castle of Füzér is one of Hungary's earliest stone castles, perched on a steep volcanic cone in the Zemplén Mountains. Built before the Mongol invasion in the early 13th century, it is historically significant as the place where the Holy Crown of Hungary was hidden after the Battle of Mohács. It has recently been fully reconstructed.",
     },
+    factsAdvanced: {
+      de: ["Erste Erwähnung im Jahr 1235", "Lage auf einem 552 Meter hohen Vulkanfelsen", "Aufbewahrungsort der Krone 1526-1527", "Besitz der Familie Perényi im 16. Jh.", "Zerstörung durch kaiserliche Truppen 1676", "Vollständige Rekonstruktion der Oberburg 2016"],
+      hu: ["Első írásos említése 1235-ből való", "Egy 552 méter magas vulkáni kúpon fekszik", "A Szent Koronát 1526-1527-ben itt őrizték", "A 16. században a Perényi család birtoka volt", "1676-ban a császári katonaság lerombolta", "A felsővár teljes rekonstrukciója 2016-ban zárult"],
+      ro: ["Prima mențiune documentară în anul 1235", "Situată pe o stâncă vulcanică de 552 metri", "Locul de păstrare al coroanei în 1526-1527", "Proprietatea familiei Perényi în sec. XVI", "Distrusă de trupele imperiale în 1676", "Reconstrucția cetății superioare finalizată în 2016"],
+      en: ["First mentioned in historical records in 1235", "Located on a 552-meter high volcanic cone", "Home to the Holy Crown in 1526-1527", "Owned by the Perényi family in the 16th century", "Demolished by Imperial troops in 1676", "Upper castle reconstruction completed in 2016"],
+    },
+  },
     {
     id: "boldogkoi-var-poi",
     type: "historical",
@@ -4028,7 +4208,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/boldogkoi-var.webp",
     description: {"de": "Die Burg Boldogkő thront auf einem schmalen Felsgrat und ist ein Juwel des Zemplén-Gebirges.", "hu": "A boldogkői vár egy keskeny sziklaélen trónol, a Zempléni-hegység egyik ékköve.", "ro": "Cetatea Boldogkő domină o creastă stâncoasă îngustă, fiind o bijuterie a munților Zemplén.", "en": "Boldogkő Castle perches on a narrow rocky ridge, a jewel of the Zemplén Mountains."},
     facts: {"de": ["Der hölzerne Wehrgang auf dem Löwenfelsen bietet ein einzigartiges Fotomotiv.", "In der Burg kann man eine der größten Zinnfiguren-Ausstellungen des Landes besichtigen."], "hu": ["Az Oroszlán-sziklán végigfutó fapadlózatú gyilokjáró egyedülálló fotóhelyszín.", "A várban megtekinthető az ország egyik legnagyobb ólomkatona-kiállítása is."], "ro": ["Galeria de lemn de pe Stânca Leului oferă un motiv fotografic unic.", "În cetate poate fi vizitată una dintre cele mai mari expoziții de soldăței de plumb."], "en": ["The wooden walkway on the Lion's Rock provides a unique photo opportunity.", "One of the country's largest exhibitions of tin soldiers can be visited in the castle."]},
+    descriptionAdvanced: {
+      de: "Die Burg Boldogkő ist eine mittelalterliche Festung auf einem markanten Felskamm im Zemplén-Gebirge. Sie wurde im 13. Jahrhundert nach dem Mongolensturm erbaut, um die Handelswege nach Polen zu schützen. Die Anlage ist besonders für ihren schmalen Wehrgang bekannt, der auf einem steilen Felsvorsprung thront. Heute beherbergt sie eine bedeutende Zinnsoldatenausstellung und bietet einen Panoramablick über das Hernád-Tal.",
+      hu: "Boldogkő vára a Zempléni-hegység egyik leglátványosabb erődítménye, amely egy éles sziklaszirten magasodik. A 13. században, a tatárjárás után épült az északi kereskedelmi utak védelmére. Különlegessége a sziklaélen futó gyilokjáró, amely a vár legnépszerűbb pontja. A várban hadtörténeti kiállítás és Közép-Európa egyik legnagyobb ólomkatona-bemutatója is helyet kapott.",
+      ro: "Cetatea Boldogkő este o fortificație medievală situată pe o creastă de stâncă spectaculoasă în munții Zemplén. A fost construită în secolul al XIII-lea, după invazia tătară, pentru a proteja rutele comerciale spre nord. Este renumită pentru drumul de strajă îngust situat pe o proeminență stâncoasă abruptă. Astăzi găzduiește o expoziție impresionantă de soldați de plumb și oferă o vedere panoramică asupra văii Hernád.",
+      en: "Boldogkő Castle is a medieval fortress perched on a sharp rocky ridge in the Zemplén Mountains. Built in the 13th century following the Mongol invasion, it served to protect trade routes leading to Poland. The castle is famous for its unique walkway along a narrow rock spur known as the Sphinx. Visitors can explore military history exhibits and one of Central Europe's largest lead soldier collections.",
     },
+    factsAdvanced: {
+      de: ["Erstmals im Jahr 1282 in einer Urkunde erwähnt.", "Der markante Wehrgang auf dem Felsen ist etwa 20 Meter lang.", "Im Jahr 1701 wurde die Burg auf kaiserlichen Befehl teilweise gesprengt.", "Die Familie Drugeth besaß die Burg im 14. Jahrhundert.", "Die Anlage beherbergt eine Münzstätte aus der Zeit von Sigismund von Luxemburg.", "Die Burg wurde in den 2000er Jahren umfassend renoviert."],
+      hu: ["Az első írásos említés a várról 1282-ből származik.", "A sziklaélen futó gyilokjáró hossza körülbelül 20 méter.", "1701-ben császári parancsra a vár egy részét felrobbantották.", "A 14. században a Drugeth család volt a vár birtokosa.", "A várban Luxemburgi Zsigmond korabeli pénzverde-rekonstrukció látható.", "A 2000-es években jelentős turisztikai fejlesztéseken esett át."],
+      ro: ["Prima mențiune documentară a cetății datează din anul 1282.", "Drumul de strajă de pe stâncă are o lungime de aproximativ 20 de metri.", "În anul 1701, cetatea a fost parțial dinamitată din ordin imperial.", "În secolul al XIV-lea, familia Drugeth a deținut cetatea.", "Găzduiește o replică a unei monetării din epoca lui Sigismund de Luxemburg.", "Cetatea a beneficiat de restaurări majore în anii 2000."],
+      en: ["First mentioned in a royal charter in 1282.", "The iconic rock walkway is approximately 20 meters long.", "The castle was partially destroyed in 1701 by imperial decree.", "In the 14th century, it was owned by the Drugeth family.", "It features a reconstructed mint from the era of Sigismund of Luxembourg.", "Extensive restoration work was carried out in the early 2000s."],
+    },
+  },
     {
     id: "szepmuveszeti-muzeum-poi",
     type: "landmark",
@@ -4038,7 +4230,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/szepmuveszeti-muzeum.webp",
     description: {"de": "Das Museum der Bildenden Künste am Heldenplatz beherbergt eine weltberühmte Kunstsammlung.", "hu": "A Hősök terén álló Szépművészeti Múzeum világhírű képzőművészeti gyűjteménynek ad otthont.", "ro": "Muzeul de Arte Frumoase din Piața Eroilor găzduiește o colecție de artă de renume mondial.", "en": "The Museum of Fine Arts on Heroes' Square houses a world-famous art collection."},
     facts: {"de": ["Besitzt eine der bedeutendsten Sammlungen spanischer Kunst außerhalb Spaniens.", "Das prachtvolle Gebäude im neoklassizistischen Stil wurde im Jahr 1906 eröffnet."], "hu": ["Spanyolországon kívül itt található az egyik legjelentősebb spanyol művészeti gyűjtemény.", "A neoklasszicista stílusú, impozáns épületet 1906-ban nyitották meg a nagyközönség előtt."], "ro": ["Deține una dintre cele mai importante colecții de artă spaniolă din afara Spaniei.", "Clădirea magnifică în stil neoclasic a fost inaugurată în anul 1906."], "en": ["Possesses one of the most significant collections of Spanish art outside of Spain.", "The magnificent neoclassical building was opened in 1906."]},
+    descriptionAdvanced: {
+      de: "Das Museum der Bildenden Künste am Heldenplatz in Budapest ist eines der bedeutendsten Kunstmuseen Europas. Es wurde zwischen 1900 und 1906 im neoklassizistischen Stil nach Plänen von Albert Schickedanz erbaut. Die Sammlung umfasst Werke von der Antike bis zum Ende des 18. Jahrhunderts, darunter Meisterwerke von El Greco und Velázquez. Nach einer umfassenden Renovierung wurde es 2018 wiedereröffnet.",
+      hu: "A budapesti Szépművészeti Múzeum a Hősök terén található, Európa egyik legfontosabb művészeti intézménye. Az épület 1900 és 1906 között épült neoklasszicista stílusban, Schickedanz Albert tervei alapján. Gyűjteménye az ókortól a 18. század végéig öleli fel az európai művészetet, kiemelkedő spanyol és olasz anyaggal. A Román Csarnok 2018-as felújítása után vált ismét látogathatóvá.",
+      ro: "Muzeul de Arte Frumoase din Budapesta, situat în Piața Eroilor, este una dintre cele mai importante instituții de artă din Europa. Clădirea a fost construită între 1900 și 1906 în stil neoclasic, după planurile arhitectului Albert Schickedanz. Colecția sa cuprinde opere din antichitate până la sfârșitul secolului al XVIII-lea, incluzând maeștri precum El Greco și Velázquez. A fost redeschis în 2018 după o renovare majoră.",
+      en: "The Museum of Fine Arts at Heroes' Square is one of Europe's most significant art institutions. Built between 1900 and 1906 in Neoclassical style, it was designed by Albert Schickedanz and Fülöp Herzog. The collection spans from ancient times to the late 18th century, featuring world-class Spanish, Italian, and Dutch artworks. The Romanesque Hall reopened in 2018 after a comprehensive three-year restoration.",
     },
+    factsAdvanced: {
+      de: ["Offizielle Eröffnung am 1. Dezember 1906 durch Kaiser Franz Joseph I.", "Die Sammlung umfasst mehr als 100.000 Kunstwerke.", "Die spanische Sammlung gilt als die größte außerhalb Spaniens.", "Beherbergt Werke von Meistern wie Leonardo da Vinci und Raffael.", "Der Romanische Saal war fast 70 Jahre lang für die Öffentlichkeit geschlossen.", "Das Giebelfeld ist eine Kopie des Zeustempels von Olympia."],
+      hu: ["Hivatalosan 1906. december 1-jén nyitotta meg Ferenc József.", "A múzeum gyűjteménye több mint 100 000 műtárgyat számlál.", "A spanyol gyűjtemény a legnagyobb Spanyolországon kívül.", "Olyan mesterek műveit őrzi, mint Leonardo da Vinci és Raffaello.", "A Román Csarnok közel 70 éven át zárva volt a látogatók előtt.", "Az épület timpanonja az olümpiai Zeusz-templom másolata."],
+      ro: ["Inaugurat oficial la 1 decembrie 1906 de către împăratul Franz Joseph I.", "Colecția muzeului numără peste 100.000 de obiecte de artă.", "Colecția spaniolă este cea mai mare din afara Spaniei.", "Găzduiește lucrări ale unor maeștri precum Leonardo da Vinci și Rafael.", "Sala Romanică a fost închisă publicului timp de aproape 70 de ani.", "Frontonul clădirii este o replică a templului lui Zeus din Olimpia."],
+      en: ["Opened on December 1, 1906, by Emperor Franz Joseph I.", "The collection includes over 100,000 items.", "The Spanish collection is the largest outside Spain.", "Features works by masters such as Leonardo da Vinci and Raphael.", "The Romanesque Hall was closed to the public for nearly 70 years.", "The building's pediment is a replica of the Temple of Zeus at Olympia."],
+    },
+  },
     {
     id: "nemzeti-muzeum-poi",
     type: "landmark",
@@ -4078,7 +4282,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/gellert-hegy.webp",
     description: {"de": "Der Gellértberg bietet das berühmteste Panorama auf Budapest und gehört zum UNESCO-Welterbe.", "hu": "A Gellért-hegy kínálja a leghíresebb panorámát Budapestre és az UNESCO világörökség része.", "ro": "Dealul Gellért oferă cea mai faimoasă panoramă asupra Budapestei și face parte din patrimoniul UNESCO.", "en": "Gellért Hill offers the most famous panorama of Budapest and is a UNESCO World Heritage site."},
     facts: {"de": ["Auf dem Gipfel befindet sich die Zitadelle und die weithin sichtbare Freiheitsstatue.", "Der Hügel ist nach dem Heiligen Gellért benannt, der hier den Märtyrertod starb."], "hu": ["A csúcson található a Citadella erődje és a messziről is jól látható Szabadság-szobor.", "A hegy Szent Gellért püspökről kapta a nevét, aki itt halt mártírhalált."], "ro": ["Pe vârf se află Citadela și Statuia Libertății, vizibilă de la mare distanță.", "Dealul este numit după Sfântul Gellért, care a suferit aici moarte martirică."], "en": ["The Citadel fortress and the widely visible Liberty Statue are located on the summit.", "The hill is named after Saint Gellért, who died a martyr's death here."]},
+    descriptionAdvanced: {
+      de: "Der Gellértberg ist eine markante Erhebung am Donauufer in Budapest und gehört zum UNESCO-Welterbe. Auf dem Gipfel thront die Zitadelle, eine im 19. Jahrhundert errichtete Festung, sowie die imposante Freiheitsstatue. Der Berg bietet die spektakulärste Aussicht auf die gesamte Stadt und die Donaubrücken. An seinen Hängen befinden sich zudem die berühmte Felsenkirche und das traditionsreiche Gellért-Bad.",
+      hu: "A Gellért-hegy Budapest Duna-parti látképének meghatározó eleme, az UNESCO Világörökség része. Tetején magasodik a 19. századi Citadella erődje és a szabadságot jelképező Szabadság-szobor. A hegyről nyílik a legszebb kilátás a fővárosra és a Duna hídjaira. Oldalában található a különleges Sziklatemplom és a történelmi Gellért Gyógyfürdő is.",
+      ro: "Dealul Gellért este o înălțime proeminentă pe malul Dunării în Budapesta, făcând parte din Patrimoniul Mondial UNESCO. În vârful său se află Citadela, o fortăreață construită în secolul al XIX-lea, și impunătoarea Statuie a Libertății. Dealul oferă cea mai spectaculoasă vedere panoramică asupra orașului și a podurilor de peste Dunăre. Pe pantele sale se găsesc Biserica din Stâncă și Băile Gellért.",
+      en: "Gellért Hill is a prominent landmark on the banks of the Danube in Budapest and a UNESCO World Heritage site. Its summit is crowned by the Citadella, a 19th-century fortress, and the towering Liberty Statue. The hill offers the most spectacular panoramic views of the city and the Danube bridges. Its slopes also house the unique Cave Church and the historic Gellért Thermal Baths.",
     },
+    factsAdvanced: {
+      de: ["Der Gipfel des Berges liegt auf 235 Metern über dem Meeresspiegel.", "Die Zitadelle wurde 1851 von den Habsburgern erbaut.", "Die Freiheitsstatue wurde 1947 zum Gedenken an die Befreiung errichtet.", "Benannt nach dem Heiligen Gellért, der im Jahr 1046 hier starb.", "Die Felsenkirche im Inneren wurde im Jahr 1926 eingeweiht.", "Der Berg besteht hauptsächlich aus Dolomitgestein."],
+      hu: ["A hegy csúcsa 235 méterrel magasodik a tengerszint fölé.", "A Citadellát az osztrákok építették 1851-ben.", "A Szabadság-szobrot 1947-ben állították fel.", "A hegy Szent Gellért püspökről kapta nevét, aki 1046-ban halt itt vértanúhalált.", "A Sziklatemplomot 1926-ban szentelték fel a pálos rend számára.", "A hegy anyaga főként triász kori dolomit."],
+      ro: ["Vârful dealului se află la 235 de metri deasupra nivelului mării.", "Citadela a fost construită de habsburgi în anul 1851.", "Statuia Libertății a fost ridicată în anul 1947.", "Numele provine de la Sfântul Gellért, care a murit martirizat aici în 1046.", "Biserica din Stâncă a fost sfințită în anul 1926.", "Dealul este compus în principal din roci de dolomită."],
+      en: ["The peak reaches 235 meters above sea level.", "The Citadella was built by the Habsburgs in 1851.", "The Liberty Statue was erected in 1947.", "Named after Saint Gellért, who died as a martyr here in 1046.", "The Cave Church was established in 1926 for the Pauline Order.", "The hill is primarily composed of dolomite rock."],
+    },
+  },
     {
     id: "normafa-poi",
     type: "landmark",
@@ -4088,7 +4304,19 @@ export const hungaryCities: POI[] = [
     image: "/geo-images/hungary/normafa.webp",
     description: {"de": "Normafa ist das beliebteste Naherholungsgebiet der Budapester in den malerischen Budaer Bergen.", "hu": "A Normafa a budapestiek legkedveltebb kirándulóhelye a festői szépségű Budai-hegységben.", "ro": "Normafa este cea mai populară zonă de recreere pentru budapestani în pitoreștii munți Buda.", "en": "Normafa is the most popular recreational area for Budapest residents in the picturesque Buda Hills."},
     facts: {"de": ["Bekannt für die herrliche Aussicht und die Haltestelle der historischen Kindereisenbahn.", "Ein idealer Ort für Spaziergänge, zum Picknicken und im Winter zum Schlittenfahren."], "hu": ["Híres a gyönyörű kilátásról és a történelmi Gyermekvasút egyik megállójáról.", "Ideális helyszín sétákhoz, piknikezéshez, télen pedig a szánkózáshoz."], "ro": ["Cunoscută pentru vederile superbe și stația căii ferate istorice a copiilor.", "Un loc ideal pentru plimbări, picnic și, în timpul iernii, pentru săniuș."], "en": ["Known for the magnificent views and the stop of the historic Children's Railway.", "An ideal spot for walks, picnics, and sledding in the winter."]},
+    descriptionAdvanced: {
+      de: "Normafa ist das beliebteste Ausflugsziel in den Budaer Bergen und bietet Erholung pur direkt über Budapest. Der Ort ist bekannt für seine weitläufigen Wanderwege und den Panoramablick auf die ungarische Hauptstadt. Im Winter ist es ein Zentrum für Skifahrer und Rodler, während im Sommer die Sesselbahn (Libegő) viele Besucher anzieht. Der Name geht auf eine historische Buche zurück, unter der Opernsänger einst auftraten.",
+      hu: "Normafa a budai hegyek legnépszerűbb kirándulóhelye, amely kikapcsolódást nyújt közvetlenül a főváros felett. Híres kiterjedt sétaútjairól és a Budapestre nyíló lenyűgöző panorámájáról. Télen a síelők és szánkózók központja, nyáron pedig a közelben működő Libegő vonz sok látogatót. Nevét egy egykori bükkfáról kapta, amely alatt operaénekesek adták elő a Norma című opera áriáit.",
+      ro: "Normafa este cea mai populară destinație de excursie din munții Buda, oferind relaxare direct deasupra Budapestei. Locul este cunoscut pentru traseele sale extinse de drumeție și vederea panoramică asupra capitalei. Iarna este un centru pentru schiori și amatorii de săniuș, iar vara telescaunul (Libegő) atrage numeroși vizitatori. Numele provine de la un fag istoric sub care artiștii de operă obișnuiau să cânte.",
+      en: "Normafa is the most popular recreational spot in the Buda Hills, offering a quick escape directly above the capital. It is renowned for its extensive walking trails and breathtaking panoramic views of Budapest. In winter, it serves as a hub for skiing and sledding, while in summer, the nearby Chairlift (Libegő) is a major attraction. The area was named after an ancient beech tree where opera singers once performed.",
     },
+    factsAdvanced: {
+      de: ["Der Name entstand nach einer Opernaufführung im Jahr 1840.", "Die berühmte 'Norma-Buche' fiel im Jahr 1927 nach einem Sturm.", "Der höchste Punkt liegt in der Nähe auf dem János-hegy (527 m).", "Die erste Sesselbahn Ungarns (Libegő) wurde 1970 eröffnet.", "Die Kindereisenbahn hält ebenfalls in der Nähe der Normafa.", "Das Gebiet ist seit dem 19. Jahrhundert ein beliebtes Erholungsgebiet."],
+      hu: ["A név egy 1840-es opera-előadás után honosodott meg.", "A híres 'Norma-fa' bükkfa 1927-ben dőlt ki egy vihar után.", "A közelben található a János-hegy, a főváros legmagasabb pontja (527 m).", "Az ország első libegőjét 1970-ben adták át a közelben.", "A Gyermekvasút egyik megállója is a Normafa közelében található.", "A terület már a 19. század közepe óta népszerű üdülőhely."],
+      ro: ["Numele s-a încetățenit după o reprezentație de operă în 1840.", "Faimosul fag 'Norma' s-a prăbușit în 1927 în urma unei furtuni.", "Cel mai înalt punct din apropiere este dealul János (527 m).", "Primul telescaun din Ungaria (Libegő) a fost deschis aici în 1970.", "Calea ferată a copiilor are o stație în apropiere de Normafa.", "Zona este un loc de recreere popular încă din secolul al XIX-lea."],
+      en: ["The name was established after an opera performance in 1840.", "The famous 'Norma tree' fell in 1927 following a storm.", "The nearby János Hill is the highest point in Budapest (527 m).", "The first chairlift in Hungary (Libegő) opened nearby in 1970.", "The Children's Railway has a popular station near Normafa.", "The area has been a beloved resort spot since the mid-19th century."],
+    },
+  },
     {
     id: "vajdahunyad-vara-poi",
     type: "historical",
@@ -4117,7 +4345,19 @@ export const hungaryCities: POI[] = [
     name: {"de": "Plattensee", "hu": "Balaton", "ro": "Lacul Balaton", "en": "Lake Balaton"},
     image: "/geo-images/hungary/balaton-to.webp",
     description: {"de": "Der größte See Mitteleuropas und ein beliebtes Urlaubsziel.", "hu": "Közép-Európa legnagyobb tava és népszerű nyaralóhely.", "ro": "Cel mai mare lac din Europa Centrală și o destinație populară de vacanță.", "en": "The largest lake in Central Europe and a popular holiday destination."},
-    facts: {"de": ["Oft als das 'Ungarische Meer' bezeichnet.", "Berühmt für seine flachen, warmen Gewässer."], "hu": ["Gyakran a 'Magyar tengerként' emlegetik.", "Híres sekély, meleg vizéről."], "ro": ["Adesea numit 'Marea Maghiară'.", "Faimos pentru apele sale puțin adânci și calde."], "en": ["Often referred to as the 'Hungarian Sea'.", "Famous for its shallow, warm waters."]}
+    facts: {"de": ["Oft als das 'Ungarische Meer' bezeichnet.", "Berühmt für seine flachen, warmen Gewässer."], "hu": ["Gyakran a 'Magyar tengerként' emlegetik.", "Híres sekély, meleg vizéről."], "ro": ["Adesea numit 'Marea Maghiară'.", "Faimos pentru apele sale puțin adânci și calde."], "en": ["Often referred to as the 'Hungarian Sea'.", "Famous for its shallow, warm waters."]},
+    descriptionAdvanced: {
+      de: "Der Plattensee, oder Balaton, ist der größte Binnensee Mitteleuropas und das wichtigste Tourismuszentrum Ungarns. Mit einer Fläche von fast 600 Quadratkilometern bietet er vielfältige Möglichkeiten für Segler, Badegäste und Weinliebhaber. Das Nordufer ist durch vulkanische Hügel und Weinberge geprägt, während das Südkurfer für seine flachen Sandstrände bekannt ist. Die Region ist zudem für ihre einzigartige Flora und Fauna geschützt.",
+      hu: "A Balaton Közép-Európa legnagyobb édesvizű tava és Magyarország legfontosabb turisztikai célpontja. Közel 600 négyzetkilométeres vízfelülete ideális helyszínt biztosít a vitorlázáshoz, fürdőzéshez és horgászathoz. Az északi part vulkanikus tanúhegyeiről és borvidékeiről híres, míg a déli part sekély vizeiről és homokos strandjairól ismert. A tó környéke számos természetvédelmi területnek ad otthont.",
+      ro: "Lacul Balaton este cel mai mare lac cu apă dulce din Europa Centrală și principalul centru turistic al Ungariei. Cu o suprafață de aproape 600 de kilometri pătrați, oferă oportunități diverse pentru navigație, scăldat și pescuit. Malul nordic este caracterizat de dealuri vulcanice și podgorii, în timp ce malul sudic este cunoscut pentru plajele sale cu nisip și apă puțin adâncă. Regiunea găzduiește numeroase rezervații naturale.",
+      en: "Lake Balaton is the largest freshwater lake in Central Europe and Hungary's premier tourist destination. Covering nearly 600 square kilometers, it provides ideal conditions for sailing, swimming, and fishing. The northern shore is famous for its volcanic hills and vineyards, while the southern shore is known for its shallow waters and sandy beaches. The region is also home to several protected nature reserves and national parks.",
+    },
+    factsAdvanced: {
+      de: ["Die Gesamtlänge des Sees beträgt etwa 77 Kilometer.", "An der tiefsten Stelle bei Tihany ist der See ca. 12 Meter tief.", "Die durchschnittliche Wassertiefe liegt bei nur 3,3 Metern.", "Der See ist schätzungsweise 15.000 Jahre alt.", "Jedes Jahr findet hier das berühmte 'Blaues Band' Segelrennen statt.", "Das Südufer ist etwa 70 Kilometer lang."],
+      hu: ["A tó teljes hossza megközelítőleg 77 kilométer.", "A legmélyebb pontja a Tihanyi-kútnál található, kb. 12 méter.", "A víz átlagos mélysége csupán 3,3 méter.", "A tó kialakulása körülbelül 15 000 évvel ezelőtt kezdődött.", "Minden évben itt rendezik meg a Kékszalag vitorlásversenyt.", "A déli part mentén a víz mélysége lassan növekszik."],
+      ro: ["Lungimea totală a lacului este de aproximativ 77 de kilometri.", "Punctul cel mai adânc se află la Tihany și are cca. 12 metri.", "Adâncimea medie a apei este de doar 3,3 metri.", "Lacul s-a format în urmă cu aproximativ 15.000 de ani.", "Anual are loc aici competiția de navigație 'Panglica Albastră'.", "Malul sudic are o lungime de aproximativ 70 de kilometri."],
+      en: ["The total length of the lake is approximately 77 kilometers.", "The deepest point, near Tihany, is about 12 meters deep.", "The average depth of the water is only 3.3 meters.", "The lake was formed approximately 15,000 years ago.", "It hosts the annual 'Blue Ribbon' (Kékszalag) sailing regatta.", "The southern shore is famous for its long, shallow beaches."],
+    },
   },
   {
     id: "baradla-barlang",
@@ -4177,7 +4417,19 @@ export const hungaryCities: POI[] = [
     name: {"de": "Szalajka-Tal", "hu": "Szalajka-völgy", "ro": "Valea Szalajka", "en": "Szalajka Valley"},
     image: "/geo-images/hungary/szalajka-volgy.webp",
     description: {"de": "Ein malerisches Tal im Bükk-Gebirge, berühmt für seinen Wasserfall.", "hu": "Festői völgy a Bükkben, híres a Fátyol-vízesésről.", "ro": "O vale pitorească în Munții Bükk, faimoasă pentru cascada sa.", "en": "A picturesque valley in the Bükk Mountains, famous for its waterfall."},
-    facts: {"de": ["Besitzt eine historische Waldbahn.", "Bekannt für den Fátyol-Wasserfall."], "hu": ["Történelmi erdei kisvasúttal rendelkezik.", "Híres a Fátyol-vízesésről."], "ro": ["Are o cale ferată forestieră istorică.", "Cunoscut pentru cascada Fátyol."], "en": ["Has a historic forest railway.", "Known for the Fátyol Waterfall."]}
+    facts: {"de": ["Besitzt eine historische Waldbahn.", "Bekannt für den Fátyol-Wasserfall."], "hu": ["Történelmi erdei kisvasúttal rendelkezik.", "Híres a Fátyol-vízesésről."], "ro": ["Are o cale ferată forestieră istorică.", "Cunoscut pentru cascada Fátyol."], "en": ["Has a historic forest railway.", "Known for the Fátyol Waterfall."]},
+    descriptionAdvanced: {
+      de: "Das Szalajka-Tal ist eines der am besten erschlossenen Wandergebiete im Bükk-Gebirge bei Szilvásvárad. Es beherbergt den 17 Meter hohen Fátyol-Wasserfall, der über terrassenartige Kalktuffstufen herabstürzt. Das Tal ist zudem für seine Forellenteiche und das Freilicht-Waldmuseum bekannt, das die Geschichte der Forstwirtschaft dokumentiert.",
+      hu: "A Szalajka-völgy a Bükk-hegység egyik legnépszerűbb kirándulóhelye Szilvásvárad közvetlen közelében. Legismertebb látványossága a 17 méter magas Fátyol-vízesés, amely mésztufa lépcsőkön zúdul alá a völgy mélyébe. A terület híres pisztrángtenyésztéséről, erdei kisvasútjáról és a szabadtéri erdei múzeumról is.",
+      ro: "Valea Szalajka este una dintre cele mai vizitate zone montane din Munții Bükk, situată lângă localitatea Szilvásvárad. Găzduiește Cascada Fátyol, care coboară peste 17 metri pe terase de travertin formate natural. Valea este renumită pentru crescătoriile de păstrăv, calea ferată cu ecartament îngust și muzeul forestier în aer liber.",
+      en: "Szalajka Valley is one of the most developed hiking destinations in the Bükk Mountains, located near Szilvásvárad. It features the 17-meter-high Fátyol Waterfall, which flows down over unique limestone tuff terraces. The valley is also famous for its trout breeding ponds, a forest railway, and an open-air museum of forestry history.",
+    },
+    factsAdvanced: {
+      de: ["Die Fátyol-Wasserfall-Kaskade ist 17 Meter hoch.", "Die Szalajka-Schmalspurbahn befördert jährlich über 200.000 Passagiere.", "In der Sipovics-Quelle entspringen 2.000 Liter Wasser pro Minute.", "Das Tal beherbergt eine bedeutende Zuchtstation für Bachforellen.", "Das Waldmuseum wurde 1974 als Freilichtanlage eröffnet.", "Der höchste Punkt der Umgebung ist der Istállós-kő mit 959 Metern."],
+      hu: ["A Fátyol-vízesés hossza összesen 17 méter.", "Az erdei kisvasút évente több mint 200 ezer utast szállít.", "A Szalajka-forrás percenként 2000 liter vizet ad.", "A völgyben 1906 óta folyik intenzív pisztrángtenyésztés.", "Az Erdei Múzeumot 1974-ben alapították a völgyben.", "Az Istállós-kői-barlangban 30 ezer éves leleteket találtak."],
+      ro: ["Cascada Fátyol are o înălțime totală de 17 metri.", "Calea ferată forestieră transportă peste 200.000 de turiști anual.", "Izvorul Szalajka debitează aproximativ 2.000 de litri pe minut.", "Păstrăvăriile din vale funcționează neîntrerupt din anul 1906.", "Muzeul Forestier în aer liber a fost deschis publicului în 1974.", "Peștera Istállós-kő conține urme de locuire vechi de 30.000 de ani."],
+      en: ["The Fátyol Waterfall cascades over a distance of 17 meters.", "The forest railway carries more than 200,000 passengers annually.", "The Szalajka spring produces 2,000 liters of water per minute.", "Trout breeding in the valley has been continuous since 1906.", "The Open-Air Forestry Museum was established in 1974.", "Prehistoric remains from 30,000 years ago were found in a local cave."],
+    },
   },
   {
     id: "borzsony",
@@ -4317,7 +4569,19 @@ export const hungaryCities: POI[] = [
     name: {"de": "Ungarisches Nationalmuseum", "hu": "Magyar Nemzeti Múzeum", "ro": "Muzeul Național Maghiar", "en": "Hungarian National Museum"},
     image: "/geo-images/hungary/magyar-nemzeti-muzeum.webp",
     description: {"de": "Das Museum, das die Geschichte Ungarns von der Urzeit bis heute zeigt.", "hu": "A magyar történelmet az őskortól napjainkig bemutató múzeum.", "ro": "Muzeul care prezintă istoria Ungariei din preistorie până în prezent.", "en": "The museum showcasing the history of Hungary from prehistoric times to the present."},
-    facts: {"de": ["Ein Schauplatz der Revolution von 1848.", "In einem klassizistischen Gebäude untergebracht."], "hu": ["Az 1848-as forradalom egyik helyszíne.", "Egy klasszicista épületben kapott helyet."], "ro": ["Un loc al Revoluției din 1848.", "Găzduit într-o clădire clasicistă."], "en": ["A site of the 1848 Revolution.", "Housed in a Classicist building."]}
+    facts: {"de": ["Ein Schauplatz der Revolution von 1848.", "In einem klassizistischen Gebäude untergebracht."], "hu": ["Az 1848-as forradalom egyik helyszíne.", "Egy klasszicista épületben kapott helyet."], "ro": ["Un loc al Revoluției din 1848.", "Găzduit într-o clădire clasicistă."], "en": ["A site of the 1848 Revolution.", "Housed in a Classicist building."]},
+    descriptionAdvanced: {
+      de: "Das Ungarische Nationalmuseum in Budapest ist das älteste öffentliche Museum des Landes und wurde 1802 durch Graf Ferenc Széchényi gegründet. Das klassizistische Gebäude ist eng mit der Revolution von 1848 verbunden, als auf seinen Stufen Sándor Petőfi das Nationallied vorgetragen haben soll. Es bewahrt die wichtigsten Schätze der ungarischen Geschichte, darunter den Krönungsmantel.",
+      hu: "A Magyar Nemzeti Múzeum az ország legrégebbi közgyűjteménye, amelyet 1802-ben alapított gróf Széchényi Ferenc. A klasszicista épület szorosan kötődik az 1848-as forradalomhoz, mivel a legenda szerint lépcsőiről szavalta el Petőfi Sándor a Nemzeti dalt. A múzeum a magyar történelem legfontosabb kincseit, köztük a koronázási palástot őrzi.",
+      ro: "Muzeul Național Maghiar din Budapesta este cea mai veche instituție muzeală din țară, fondată în 1802 de contele Ferenc Széchényi. Clădirea neoclasică este strâns legată de Revoluția din 1848, când Sándor Petőfi ar fi recitat poezia Cântecul Național pe treptele sale. Muzeul păstrează tezaurele istoriei maghiare, inclusiv mantia de încoronare.",
+      en: "The Hungarian National Museum in Budapest is the country's oldest public museum, founded in 1802 by Count Ferenc Széchényi. The Neoclassical building is deeply connected to the 1848 Revolution, as Sándor Petőfi is said to have recited his National Song from its steps. It houses the most vital treasures of Hungarian history, including the coronation mantle.",
+    },
+    factsAdvanced: {
+      de: ["Graf Ferenc Széchényi spendete 1802 seine Privatsammlung.", "Das heutige Gebäude wurde 1847 fertiggestellt.", "Die ungarische Nationalversammlung tagte hier zeitweise.", "Der Krönungsmantel der Könige wird hier dauerhaft ausgestellt.", "Im Museumsgarten stehen Denkmäler bedeutender Ungarn.", "Das Gebäude wurde vom Architekten Mihály Pollack entworfen."],
+      hu: ["Gróf Széchényi Ferenc 1802-ben ajánlotta fel gyűjteményét.", "A múzeum jelenlegi épülete 1847-re készült el.", "Az épületben korábban a magyar országgyűlés is ülésezett.", "Itt őrzik a magyar királyok 1031-es koronázási palástját.", "A Múzeumkertben számos neves magyar személyiség szobra áll.", "Az épületet Pollack Mihály építész tervezte."],
+      ro: ["Contele Ferenc Széchényi și-a donat colecția în anul 1802.", "Actuala clădire a muzeului a fost finalizată în 1847.", "Parlamentul Ungariei a ținut ședințe în acest edificiu.", "Mantia de încoronare din 1031 este expusă permanent aici.", "Grădina Muzeului găzduiește numeroase statui ale unor personalități.", "Clădirea a fost proiectată de arhitectul Mihály Pollack."],
+      en: ["Count Ferenc Széchényi donated his collection in 1802.", "The current museum building was completed in 1847.", "The Hungarian Parliament held sessions in the building.", "The coronation mantle from 1031 is permanently displayed here.", "The Museum Garden contains statues of famous Hungarian figures.", "The building was designed by architect Mihály Pollack."],
+    },
   },
   {
     id: "gellert-hegy",

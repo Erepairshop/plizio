@@ -128,7 +128,13 @@ export const switzerlandRegions: POI[] = [
         "Zurich is home to ETH Zurich, one of the world's top technical universities."
       ]
     },
-    image: "/geo-images/switzerland/city-zurich.webp"
+    image: "/geo-images/switzerland/city-zurich.webp",
+    factsAdvanced: {
+      de: ["Die Stadt wurde von den Römern unter dem Namen Turicum gegründet.", "Zürich hat eine Bevölkerung von über 440.000 Einwohnern.", "Der Zürichsee liegt auf einer Höhe von 406 Metern.", "Die ETH Zürich belegt regelmäßig Spitzenplätze in weltweiten Rankings.", "Der Hauptbahnhof Zürich ist der größte Bahnhof der Schweiz.", "Die Bahnhofstrasse gilt als eine der exklusivsten Einkaufsmeilen der Welt."],
+      hu: ["A várost a rómaiak alapították Turicum néven.", "Zürich lakossága meghaladja a 440.000 főt.", "A Zürichi-tó 406 méteres tengerszint feletti magasságban fekszik.", "Az ETH Zürich rendszeresen az első helyeken szerepel a világranglistákon.", "A zürichi főpályaudvar Svájc legnagyobb vasúti csomópontja.", "A Bahnhofstrasse a világ egyik legexkluzívabb bevásárlóutcája."],
+      ro: ["Orașul a fost fondat de romani sub numele de Turicum.", "Zürich are o populație de peste 440.000 de locuitori.", "Lacul Zürich se află la o altitudine de 406 metri.", "ETH Zürich ocupă constant primele locuri în clasamentele mondiale.", "Gara Centrală din Zürich este cea mai mare din Elveția.", "Bahnhofstrasse este considerată una dintre cele mai exclusiviste străzi comerciale."],
+      en: ["The city was founded by the Romans under the name Turicum.", "Zurich has a population of over 440,000 residents.", "Lake Zurich is located at an elevation of 406 meters.", "ETH Zurich consistently ranks among the top universities globally.", "Zurich Main Station is the largest railway station in Switzerland.", "Bahnhofstrasse is known as one of the world's most exclusive shopping streets."],
+    },
   },
   {
     id: "city-geneva",
@@ -179,7 +185,13 @@ export const switzerlandRegions: POI[] = [
         "French is the main language in Geneva."
       ]
     },
-    image: "/geo-images/switzerland/city-geneva.webp"
+    image: "/geo-images/switzerland/city-geneva.webp",
+    factsAdvanced: {
+      de: ["Der Jet d'Eau stößt 500 Liter Wasser pro Sekunde in die Höhe.", "Das CERN bei Genf ist das weltweit größte Forschungszentrum für Teilchenphysik.", "Die Stadt beherbergt das europäische Hauptquartier der Vereinten Nationen.", "Genf war im 16. Jahrhundert das Zentrum der calvinistischen Reformation.", "Der Genfersee ist der flächenmäßig größte See der Schweiz.", "Das Patek Philippe Museum dokumentiert die Geschichte der Uhrmacherei."],
+      hu: ["A Jet d'Eau másodpercenként 500 liter vizet lövell a magasba.", "A Genf melletti CERN a világ legnagyobb részecskefizikai kutatóközpontja.", "A város ad otthont az Egyesült Nemzetek Szervezete európai székhelyének.", "Genf a 16. században a kálvinista reformáció központja volt.", "A Genfi-tó Svájc legnagyobb felületű állóvize.", "A Patek Philippe Múzeum az óragyártás történetét mutatja be."],
+      ro: ["Jet d'Eau aruncă în aer 500 de litri de apă pe secundă.", "CERN, situat lângă Geneva, este cel mai mare centru de fizică a particulelor.", "Orașul găzduiește sediul european al Organizației Națiunilor Unite.", "Geneva a fost centrul reformei calvine în secolul al XVI-lea.", "Lacul Geneva este cel mai mare lac din Elveția ca suprafață.", "Muzeul Patek Philippe documentează istoria orologeriei fine."],
+      en: ["The Jet d'Eau pumps 500 liters of water per second into the air.", "CERN, located near Geneva, is the world's largest particle physics lab.", "The city houses the European headquarters of the United Nations.", "Geneva was the center of the Calvinist Reformation in the 16th century.", "Lake Geneva is the largest lake in Switzerland by surface area.", "The Patek Philippe Museum preserves the history of high-end watchmaking."],
+    },
   },
   {
     id: "city-bern",
@@ -230,7 +242,13 @@ export const switzerlandRegions: POI[] = [
         "The Aare river flows through the city."
       ]
     },
-    image: "/geo-images/switzerland/city-bern.webp"
+    image: "/geo-images/switzerland/city-bern.webp",
+    factsAdvanced: {
+      de: ["Bern wurde im Jahr 1191 von Herzog Berchtold V. gegründet.", "Der Berner Münster besitzt den höchsten Kirchturm der Schweiz (100 Meter).", "Albert Einstein entwickelte hier 1905 seine Spezielle Relativitätstheorie.", "Die Stadt verfügt über sechs Kilometer Arkadengänge in der Altstadt.", "Der Zytglogge diente im 13. Jahrhundert als erstes Westtor der Stadt.", "Das Bundeshaus ist der Sitz der Schweizer Regierung und des Parlaments."],
+      hu: ["Bernt 1191-ben alapította V. Berchtold herceg.", "A berni székesegyháznak van Svájc legmagasabb templomtornya (100 méter).", "Albert Einstein itt dolgozta ki speciális relativitáselméletét 1905-ben.", "A város óvárosában hat kilométernyi árkádos folyosó található.", "A Zytglogge a 13. században a város első nyugati kapujaként szolgált.", "A Bundeshaus a svájci kormány és a parlament székhelye."],
+      ro: ["Berna a fost fondată în anul 1191 de către ducele Berchtold al V-lea.", "Catedrala din Berna are cel mai înalt turn de biserică din țară (100 metri).", "Albert Einstein a dezvoltat teoria relativității speciale aici, în 1905.", "Orașul vechi dispune de șase kilometri de arcade acoperite.", "Turnul Zytglogge a servit drept prima poartă de vest a orașului în secolul XIII.", "Palatul Federal este sediul guvernului și al parlamentului elvețian."],
+      en: ["Bern was founded in 1191 by Duke Berchtold V of Zähringen.", "The Bern Minster has the tallest church spire in Switzerland at 100 meters.", "Albert Einstein developed his theory of special relativity here in 1905.", "The city features six kilometers of covered arcades in its Old Town.", "The Zytglogge served as the city's first western gate in the 13th century.", "The Federal Palace is the seat of the Swiss government and parliament."],
+    },
   },
   {
     id: "city-basel",
@@ -281,7 +299,13 @@ export const switzerlandRegions: POI[] = [
         "The Rhine is an important waterway for the city."
       ]
     },
-    image: "/geo-images/switzerland/city-basel.webp"
+    image: "/geo-images/switzerland/city-basel.webp",
+    factsAdvanced: {
+      de: ["Der Rhein knickt in Basel nach Norden ab (das sogenannte Rheinknie).", "Die Stadt beherbergt fast 40 Museen auf einer kleinen Fläche.", "Das Basler Münster wurde zwischen 1019 und 1500 erbaut.", "Der FC Basel ist einer der erfolgreichsten Fußballklubs der Schweiz.", "In Basel haben Weltkonzerne wie Roche und Novartis ihren Hauptsitz.", "Die Basler Fasnacht ist die größte Fasnacht der Schweiz."],
+      hu: ["A Rajna Bázelnél kanyarodik észak felé (ez az úgynevezett Rajna-könyök).", "A város területén közel 40 múzeum található.", "A bázeli székesegyház 1019 és 1500 között épült.", "Az FC Basel Svájc egyik legsikeresebb labdarúgócsapata.", "Bázelben székelnek olyan világcégek, mint a Roche és a Novartis.", "A bázeli farsang (Fasnacht) Svájc legnagyobb ilyen jellegű fesztiválja."],
+      ro: ["Rinul își schimbă direcția spre nord în Basel (cotul Rinului).", "Orașul găzduiește aproape 40 de muzee pe o suprafață restrânsă.", "Catedrala din Basel a fost construită între anii 1019 și 1500.", "FC Basel este unul dintre cele mai de succes cluburi de fotbal elvețiene.", "Companii globale precum Roche și Novartis au sediul central în Basel.", "Carnavalul de la Basel (Fasnacht) este cel mai mare din Elveția."],
+      en: ["The Rhine River turns north in Basel at the 'Rhine Knee'.", "The city hosts nearly 40 museums within a small geographic area.", "The Basel Minster was constructed between 1019 and 1500.", "FC Basel is one of the most successful football clubs in Switzerland.", "Global giants like Roche and Novartis have their headquarters in Basel.", "The Basel Fasnacht is the largest carnival celebration in Switzerland."],
+    },
   },
   {
     id: "city-lausanne",
@@ -332,7 +356,13 @@ export const switzerlandRegions: POI[] = [
         "It is an important educational center with the EPFL."
       ]
     },
-    image: "/geo-images/switzerland/city-lausanne.webp"
+    image: "/geo-images/switzerland/city-lausanne.webp",
+    factsAdvanced: {
+      de: ["Lausanne ist seit 1915 der Hauptsitz des Olympischen Komitees.", "Die Kathedrale von Lausanne wurde 1275 eingeweiht.", "Die Stadt besitzt die einzige Metro-Linie in der Schweiz.", "Lausanne liegt auf einer Höhe zwischen 372 und 929 Metern.", "Das Olympische Museum wurde im Jahr 1993 eröffnet.", "Die Universität Lausanne wurde bereits 1537 gegründet."],
+      hu: ["Lausanne 1915 óta az Olimpiai Bizottság központja.", "A lausanne-i székesegyházat 1275-ben szentelték fel.", "A város rendelkezik Svájc egyetlen metróvonalával.", "Lausanne tengerszint feletti magassága 372 és 929 méter között mozog.", "Az Olimpiai Múzeumot 1993-ban nyitották meg.", "A Lausanne-i Egyetemet már 1537-ben megalapították."],
+      ro: ["Lausanne este sediul Comitetului Olimpic din anul 1915.", "Catedrala din Lausanne a fost sfințită în anul 1275.", "Orașul are singura rețea de metrou din întreaga Elveție.", "Altitudinea orașului variază între 372 și 929 de metri.", "Muzeul Olimpic a fost deschis publicului în anul 1993.", "Universitatea din Lausanne a fost fondată în anul 1537."],
+      en: ["Lausanne has been the headquarters of the Olympic Committee since 1915.", "The Lausanne Cathedral was consecrated in 1275.", "The city operates the only metro system in Switzerland.", "The elevation of Lausanne ranges from 372 to 929 meters.", "The Olympic Museum was inaugurated in 1993.", "The University of Lausanne was originally founded in 1537."],
+    },
   },
   {
     id: "nature-matterhorn",
@@ -383,7 +413,13 @@ export const switzerlandRegions: POI[] = [
         "The shape of the mountain inspired Toblerone chocolate."
       ]
     },
-    image: "/geo-images/switzerland/nature-matterhorn.webp"
+    image: "/geo-images/switzerland/nature-matterhorn.webp",
+    factsAdvanced: {
+      de: ["Das Matterhorn erreicht eine Höhe von 4.478 Metern.", "Die Erstbesteigung erfolgte am 14. Juli 1865 durch Edward Whymper.", "Die Nordwand zählt zu den 'sechs großen Nordwänden der Alpen'.", "Der Berg besteht hauptsächlich aus Gneisen der afrikanischen Platte.", "Die charakteristische Form entstand durch Gletschererosion.", "Auf der Hörnlihütte beginnt die klassische Schweizer Aufstiegsroute."],
+      hu: ["A Matterhorn magassága 4.478 méter.", "Az első sikeres megmászást Edward Whymper hajtotta végre 1865. július 14-én.", "Az északi fal az 'Alpok hat nagy északi fala' közé tartozik.", "A hegy főleg az afrikai tektonikus lemezről származó gneiszből áll.", "A csúcs piramis alakját a gleccsererózió formálta ki.", "A Hörnlihütte a klasszikus svájci mászóútvonal kiindulópontja."],
+      ro: ["Matterhorn atinge o înălțime de 4.478 de metri.", "Prima ascensiune a fost realizată de Edward Whymper la 14 iulie 1865.", "Peretele nordic este unul dintre cei 'șase mari pereți nordici ai Alpilor'.", "Muntele este compus în principal din gnais de pe placa africană.", "Forma sa piramidală a fost sculptată prin eroziune glaciară.", "Refugiul Hörnlihütte este punctul de pornire pentru ruta clasică elvețiană."],
+      en: ["The Matterhorn reaches an elevation of 4,478 meters.", "The first ascent was completed on July 14, 1865, by Edward Whymper.", "The North Face is one of the 'six great north faces of the Alps'.", "The mountain is largely composed of gneiss from the African Plate.", "Its pyramid shape was formed by glacial erosion from multiple sides.", "The Hörnli Hut is the base camp for the classic Swiss ascent route."],
+    },
   },
   {
     id: "city-lucerne",
@@ -434,7 +470,13 @@ export const switzerlandRegions: POI[] = [
         "The Swiss Museum of Transport is the most visited museum in the country."
       ]
     },
-    image: "/geo-images/switzerland/city-lucerne.webp"
+    image: "/geo-images/switzerland/city-lucerne.webp",
+    factsAdvanced: {
+      de: ["Die Kapellbrücke wurde im Jahr 1333 erbaut.", "Das Löwendenkmal erinnert an den Heldentod von Schweizergardisten (1792).", "Luzern liegt auf einer Höhe von 436 Metern über dem Meeresspiegel.", "Die Museggmauer aus dem 14. Jahrhundert besitzt neun Türme.", "Das KKL Luzern ist ein weltweit bekanntes Konzert- und Kongresszentrum.", "Das Verkehrshaus der Schweiz ist das meistbesuchte Museum des Landes."],
+      hu: ["A Kapellbrücke eredetileg 1333-ban épült.", "Az Oroszlán-emlékmű a svájci gárdisták 1792-es hősies halálára emlékeztet.", "Luzern 436 méteres tengerszint feletti magasságban fekszik.", "A 14. századi Musegg-falnak kilenc őrtornya van.", "A KKL Luzern világszerte ismert koncert- és kongresszusi központ.", "A Svájci Közlekedési Múzeum az ország leglátogatottabb múzeuma."],
+      ro: ["Podul Kapellbrücke a fost construit inițial în anul 1333.", "Monumentul Leului comemorează garda elvețiană ucisă în 1792.", "Lucerna este situată la o altitudine de 436 de metri.", "Zidul Musegg, ridicat în secolul XIV, păstrează nouă turnuri.", "KKL Lucerna este un centru de congrese și concerte renumit mondial.", "Muzeul Transporturilor este cel mai vizitat muzeu din Elveția."],
+      en: ["The Chapel Bridge (Kapellbrücke) was originally built in 1333.", "The Lion Monument commemorates the Swiss Guards killed in 1792.", "Lucerne sits at an elevation of 436 meters above sea level.", "The 14th-century Musegg Wall features nine watchtowers.", "KKL Lucerne is a world-renowned concert and convention center.", "The Swiss Museum of Transport is the most visited museum in the country."],
+    },
   },
   {
     id: "nature-jungfraujoch",
@@ -485,7 +527,13 @@ export const switzerlandRegions: POI[] = [
         "The Aletsch Glacier is the largest glacier in the Alps."
       ]
     },
-    image: "/geo-images/switzerland/nature-jungfraujoch.webp"
+    image: "/geo-images/switzerland/nature-jungfraujoch.webp",
+    factsAdvanced: {
+      de: ["Der Bahnhof Jungfraujoch wurde im Jahr 1912 eingeweiht.", "Die Bahnstrecke verläuft fast vollständig in einem 7 km langen Tunnel.", "Die Forschungsstation Sphinx liegt auf einer Höhe von 3.571 Metern.", "Der Aletschgletscher hat eine Länge von etwa 23 Kilometern.", "Die Temperatur auf dem Joch steigt selten über den Gefrierpunkt.", "Das Gebiet gehört seit 2001 zum UNESCO-Weltnaturerbe."],
+      hu: ["A Jungfraujoch vasútállomást 1912-ben adták át.", "A vasútvonal szinte végig egy 7 km hosszú alagútban halad.", "A Sphinx kutatóállomás 3571 méteres magasságban található.", "Az Aletsch-gleccser hossza megközelítőleg 23 kilométer.", "A hőmérséklet a hágón ritkán emelkedik fagypont fölé.", "A terület 2001 óta az UNESCO Világörökség része."],
+      ro: ["Gara Jungfraujoch a fost inaugurată în anul 1912.", "Calea ferată trece printr-un tunel de 7 km săpat în stâncă.", "Stația de cercetare Sphinx se află la o altitudine de 3.571 de metri.", "Ghețarul Aletsch are o lungime de aproximativ 23 de kilometri.", "Temperatura medie la Jungfraujoch depășește rar 0 grade Celsius.", "Regiunea a fost inclusă în patrimoniul UNESCO în anul 2001."],
+      en: ["The Jungfraujoch railway station was inaugurated in 1912.", "The railway line runs almost entirely through a 7 km mountain tunnel.", "The Sphinx Observatory is located at an elevation of 3,571 meters.", "The Aletsch Glacier measures approximately 23 kilometers in length.", "Temperatures at the col rarely rise above the freezing point.", "The area was designated a UNESCO World Heritage site in 2001."],
+    },
   }
 ];
 
@@ -543,7 +591,13 @@ export const switzerlandCities: POI[] = [
         "It is well connected to regional and national transport."
       ]
     },
-    image: "/geo-images/switzerland/city-winterthur.webp"
+    image: "/geo-images/switzerland/city-winterthur.webp",
+    factsAdvanced: {
+      de: ["Winterthur hat eine Einwohnerzahl von über 115.000 Personen.", "Die Stadt wurde 1264 von den Habsburgern das Stadtrecht verliehen.", "Das Technorama ist das einzige Science Center der Schweiz.", "Die Fotostiftung Schweiz hat ihren Sitz in Winterthur.", "Der Sulzer-Areal zeugt von der industriellen Vergangenheit der Stadt.", "Winterthur ist eine der grünsten Städte der Schweiz."],
+      hu: ["Winterthur lakossága meghaladja a 115.000 főt.", "A város 1264-ben kapott városi rangot a Habsburgoktól.", "A Technorama Svájc egyetlen interaktív tudományos központja.", "A Svájci Fotóalapítvány székhelye Winterthurban található.", "A Sulzer-negyed a város jelentős ipari múltjának emléke.", "Winterthur az egyik legzöldebb svájci városként ismert."],
+      ro: ["Winterthur are o populație de peste 115.000 de locuitori.", "Orașul a primit drepturi municipale de la Habsburgi în 1264.", "Technorama este singurul centru de științe din Elveția.", "Fundația Elvețiană pentru Fotografie își are sediul aici.", "Zona Sulzer este un martor al trecutului industrial al orașului.", "Winterthur este considerat unul dintre cele mai verzi orașe elvețiene."],
+      en: ["Winterthur has a population of over 115,000 residents.", "The city was granted municipal rights by the Habsburgs in 1264.", "Technorama is the only science center in Switzerland.", "The Fotostiftung Schweiz (Photo Foundation) is based here.", "The Sulzer District is a testament to the city's heavy industrial past.", "Winterthur is known as one of the greenest cities in Switzerland."],
+    },
   },
   {
     id: "city-chur",
@@ -598,7 +652,13 @@ export const switzerlandCities: POI[] = [
         "It sits near several major Alpine routes."
       ]
     },
-    image: "/geo-images/switzerland/city-chur.webp"
+    image: "/geo-images/switzerland/city-chur.webp",
+    factsAdvanced: {
+      de: ["Chur wurde von den Römern als Curia Raetorum erwähnt.", "Das Bistum Chur ist bereits seit dem 4. Jahrhundert belegt.", "Die Stadt liegt auf einer Höhe von 593 Metern.", "Chur ist der Startpunkt des Bernina Express nach Italien.", "Das Bündner Kunstmuseum beherbergt Werke von Alberto Giacometti.", "Der Hausberg Brambrüesch ist direkt per Seilbahn aus der Stadt erreichbar."],
+      hu: ["A várost a rómaiak Curia Raetorum néven említették.", "A Churi Püspökség létezése már a 4. századtól dokumentált.", "A település 593 méteres tengerszint feletti magasságban fekszik.", "Chur az Olaszországba tartó Bernina Expressz kiindulópontja.", "A Graubündeni Művészeti Múzeumban Alberto Giacometti művei is láthatók.", "A Brambrüesch-hegy közvetlenül a városból elérhető felvonóval."],
+      ro: ["Orașul a fost menționat de romani sub numele de Curia Raetorum.", "Episcopia de Chur este atestată încă din secolul al IV-lea.", "Chur este situat la o altitudine de 593 de metri.", "Orașul este punctul de plecare pentru trenul Bernina Express.", "Muzeul de Artă Graubünden deține lucrări de Alberto Giacometti.", "Muntele Brambrüesch este accesibil direct din oraș cu telecabina."],
+      en: ["The city was mentioned by the Romans as Curia Raetorum.", "The Bishopric of Chur has been documented since the 4th century.", "Chur is situated at an elevation of 593 meters.", "The city is the starting point for the Bernina Express to Italy.", "The Bündner Kunstmuseum houses works by Alberto Giacometti.", "The local mountain, Brambrüesch, is directly accessible by cable car."],
+    },
   },
   {
     id: "city-lugano",
@@ -653,7 +713,13 @@ export const switzerlandCities: POI[] = [
         "The city combines urban elegance with mountain scenery."
       ]
     },
-    image: "/geo-images/switzerland/city-lugano.webp"
+    image: "/geo-images/switzerland/city-lugano.webp",
+    factsAdvanced: {
+      de: ["Lugano ist der drittgrößte Finanzplatz der Schweiz.", "Die Stadt liegt auf einer Höhe von 273 Metern am See.", "Der Parco Ciani gilt als einer der schönsten Parks der Schweiz.", "Die Kirche Santa Maria degli Angioli beherbergt ein berühmtes Renaissance-Fresko.", "Lugano war 1956 der Austragungsort des ersten Eurovision Song Contest.", "In der Nähe befindet sich der Themenpark Swissminiatur."],
+      hu: ["Lugano Svájc harmadik legnagyobb pénzügyi központja.", "A város 273 méteres tengerszint feletti magasságban fekszik.", "A Parco Ciani-t Svájc egyik legszebb parkjaként tartják számon.", "A Santa Maria degli Angioli-templom híres reneszánsz freskót őriz.", "1956-ban Lugano adott otthont az első Eurovíziós Dalfesztiválnak.", "A város közelében található a Swissminiatur makettpark."],
+      ro: ["Lugano este al treilea cel mai mare centru financiar din Elveția.", "Orașul este situat la o altitudine de 273 de metri pe malul lacului.", "Parco Ciani este considerat unul dintre cele mai frumoase parcuri elvețiene.", "Biserica Santa Maria degli Angioli conține o celebră frescă renascentistă.", "Lugano a găzduit prima ediție a Eurovision Song Contest în 1956.", "În apropiere se află parcul tematic Swissminiatur."],
+      en: ["Lugano is Switzerland's third-largest financial center.", "The city sits at an elevation of 273 meters above sea level.", "Parco Ciani is regarded as one of the most beautiful parks in Switzerland.", "The Santa Maria degli Angioli church houses a famous Renaissance fresco.", "Lugano hosted the very first Eurovision Song Contest in 1956.", "The Swissminiatur model village is located nearby."],
+    },
   },
   {
     id: "city-st-gallen",
@@ -708,7 +774,13 @@ export const switzerlandCities: POI[] = [
         "The old town and abbey shape the cityscape."
       ]
     },
-    image: "/geo-images/switzerland/city-st-gallen.webp"
+    image: "/geo-images/switzerland/city-st-gallen.webp",
+    factsAdvanced: {
+      de: ["Die Abtei wurde im Jahr 612 vom irischen Wandermönch Gallus gegründet.", "Die Stiftsbibliothek beherbergt rund 170.000 wertvolle Bücher.", "St. Gallen liegt auf einer Höhe von etwa 675 Metern.", "Die Universität St. Gallen (HSG) zählt zu den führenden Wirtschaftsuniversitäten.", "Das Textilmuseum dokumentiert die Blütezeit der St. Galler Stickerei.", "Der 'Rote Platz' ist eine markante öffentliche Kunstinstallation der Stadt."],
+      hu: ["Az apátságot 612-ben alapította Gallus ír hittérítő szerzetes.", "A kolostori könyvtár körülbelül 170.000 értékes könyvet őriz.", "St. Gallen mintegy 675 méteres tengerszint feletti magasságban fekszik.", "A St. Gallen-i Egyetem (HSG) Európa egyik vezető gazdasági egyeteme.", "A Textilmúzeum a St. Gallen-i hímzés virágkorát mutatja be.", "A 'Vörös tér' a város egyik jellegzetes köztéri művészeti alkotása."],
+      ro: ["Abația a fost fondată în anul 612 de către călugărul irlandez Gallus.", "Biblioteca Abației adăpostește aproximativ 170.000 de cărți valoroase.", "St. Gallen este situat la o altitudine de aproximativ 675 de metri.", "Universitatea din St. Gallen este o instituție de top în economie.", "Muzeul Textil documentează epoca de aur a broderiei locale.", "Piața Roșie (Roter Platz) este o instalație artistică publică celebră."],
+      en: ["The abbey was founded in 612 by the Irish wandering monk Gallus.", "The Abbey Library contains approximately 170,000 precious books.", "St. Gallen is situated at an elevation of about 675 meters.", "The University of St. Gallen (HSG) is a leading business school in Europe.", "The Textile Museum showcases the peak of the St. Gallen embroidery industry.", "The 'Red Square' is a prominent public art installation in the city center."],
+    },
   },
   {
     id: "city-biel-bienne",
@@ -763,7 +835,13 @@ export const switzerlandCities: POI[] = [
         "The lakeside area is popular for recreation."
       ]
     },
-    image: "/geo-images/switzerland/city-biel-bienne.webp"
+    image: "/geo-images/switzerland/city-biel-bienne.webp",
+    factsAdvanced: {
+      de: ["Etwa 40 % der Bevölkerung sprechen Französisch als Muttersprache.", "Rolex produziert hier seit Jahrzehnten seine Uhrwerke.", "Das Omega Museum zeigt die Geschichte der berühmten Uhrenmarke.", "Die Stadt liegt auf einer Höhe von 434 Metern über Meer.", "Das Cité du Temps ist ein bedeutendes Architektur- und Museumsprojekt.", "Biel/Bienne ist der Sitz des Schweizer Uhrenverbandes."],
+      hu: ["A lakosság körülbelül 40%-a vallja magát francia anyanyelvűnek.", "A Rolex évtizedek óta itt gyártja óraszerkezeteit.", "Az Omega Múzeum a híres óramárka történetét mutatja be.", "A város 434 méteres tengerszint feletti magasságban fekszik.", "A Cité du Temps egy jelentős építészeti és múzeumi projekt.", "Biel/Bienne a Svájci Óraipari Szövetség székhelye."],
+      ro: ["Aproximativ 40% din populație este vorbitoare de limba franceză.", "Rolex își produce mecanismele de ceas în Biel de decenii întregi.", "Muzeul Omega prezintă istoria celebrei mărci de ceasuri.", "Orașul este situat la o altitudine de 434 de metri.", "Cité du Temps este un proiect muzeal și arhitectural major.", "Biel/Bienne găzduiește sediul Federației Industriei Elvețiene de Ceasuri."],
+      en: ["Approximately 40% of the population speaks French as their first language.", "Rolex has been manufacturing its watch movements here for decades.", "The Omega Museum displays the heritage of the famous watch brand.", "The city sits at an elevation of 434 meters above sea level.", "The Cité du Temps is a landmark architectural and museum complex.", "Biel/Bienne is the headquarters of the Federation of the Swiss Watch Industry."],
+    },
   },
   {
     id: "city-thun",
@@ -818,7 +896,13 @@ export const switzerlandCities: POI[] = [
         "Thun is a popular destination for tourism and leisure."
       ]
     },
-    image: "/geo-images/switzerland/city-thun.webp"
+    image: "/geo-images/switzerland/city-thun.webp",
+    factsAdvanced: {
+      de: ["Bau des Schlosses Thun um das Jahr 1190 durch die Zähringer", "Einwohnerzahl der Stadt beträgt rund 44000 Personen", "Erste urkundliche Erwähnung des Ortes im 7. Jahrhundert", "Der Thunersee hat eine maximale Tiefe von 217 Metern", "Die Stadt liegt auf einer Höhe von 560 Metern über Meer", "Der Bahnhof Thun wurde im Jahr 1859 offiziell eröffnet"],
+      hu: ["A thuni várat 1190 körül építették a Zähringer hercegek", "A város lakossága megközelítőleg 44000 főt számlál", "A település első írásos említése a 7. századból származik", "A Thunersee maximális mélysége eléri a 217 métert", "A város 560 méteres tengerszint feletti magasságban fekszik", "A thuni vasútállomást 1859-ben adták át a forgalomnak"],
+      ro: ["Castelul Thun a fost construit în jurul anului 1190 de familia Zähringer", "Populația orașului este de aproximativ 44000 de locuitori", "Prima atestare documentară a localității datează din secolul al VII-lea", "Lacul Thun are o adâncime maximă de 217 metri", "Orașul este situat la o altitudine de 560 de metri", "Gara din Thun a fost deschisă oficial în anul 1859"],
+      en: ["Construction of Thun Castle around 1190 by the Zähringers", "The city's population is approximately 44,000 residents", "First documentary mention of the settlement in the 7th century", "Lake Thun reaches a maximum depth of 217 meters", "The city sits at an altitude of 560 meters above sea level", "Thun railway station was officially opened in 1859"],
+    },
   },
   {
     id: "city-schaffhausen",
@@ -873,7 +957,13 @@ export const switzerlandCities: POI[] = [
         "Its border location influences trade and daily life."
       ]
     },
-    image: "/geo-images/switzerland/city-schaffhausen.webp"
+    image: "/geo-images/switzerland/city-schaffhausen.webp",
+    factsAdvanced: {
+      de: ["Bau der Festung Munot zwischen 1564 und 1585", "Die Altstadt beherbergt genau 171 prachtvolle Erker", "Anschluss an das schweizerische Eisenbahnnetz im Jahr 1857", "Der Rheinfall liegt etwa 3 Kilometer südlich der Stadt", "Bombardierung durch US-Flugzeuge am 1. April 1944", "Höhe der Stadt liegt bei 403 Metern über dem Meeresspiegel"],
+      hu: ["A Munot erődöt 1564 és 1585 között építették fel", "Az óvárosban pontosan 171 díszes zárt erkély található", "1857-ben csatlakozott a svájci vasúti hálózathoz", "A Rajna-vízesés mintegy 3 kilométerre délre fekszik", "Az amerikai légierő bombázása 1944. április 1-jén történt", "A város tengerszint feletti magassága 403 méter"],
+      ro: ["Construcția fortăreței Munot între anii 1564 și 1585", "Orașul vechi adăpostește exact 171 de bovindouri decorate", "Conectarea la rețeaua feroviară elvețiană în anul 1857", "Cascada Rinului se află la aproximativ 3 km sud de oraș", "Bombardarea de către avioanele americane la 1 aprilie 1944", "Altitudinea orașului este de 403 metri deasupra mării"],
+      en: ["Construction of the Munot fortress between 1564 and 1585", "The old town contains exactly 171 ornate bay windows", "Connected to the Swiss railway network in 1857", "The Rhine Falls are located about 3 kilometers south of the city", "Accidental bombing by US aircraft on April 1, 1944", "The city's elevation is 403 meters above sea level"],
+    },
   },
   {
     id: "city-fribourg",
@@ -928,7 +1018,13 @@ export const switzerlandCities: POI[] = [
         "The bridges over the Sarine shape the cityscape."
       ]
     },
-    image: "/geo-images/switzerland/city-fribourg.webp"
+    image: "/geo-images/switzerland/city-fribourg.webp",
+    factsAdvanced: {
+      de: ["Gründung der Stadt im Jahr 1157 durch Berthold IV.", "Bauzeit der Kathedrale Sankt Nikolaus von 1283 bis 1490", "Höhe des Glockenturms der Kathedrale beträgt 74 Meter", "Die Universität Fribourg wurde im Jahr 1889 gegründet", "Die Saane bildet hier die Sprachgrenze (Röstigraben)", "Länge der hölzernen Bernbrücke beträgt rund 40 Meter"],
+      hu: ["A várost 1157-ben alapította IV. Berthold herceg", "A Szent Miklós székesegyház 1283 és 1490 között épült", "A székesegyház harangtornyának magassága 74 méter", "A fribourgi egyetemet 1889-ben alapították meg", "A Sarine folyó jelenti itt a nyelvi határt (Röstigraben)", "A fából készült Bern-híd hossza körülbelül 40 méter"],
+      ro: ["Fondarea orașului în anul 1157 de către Berthold al IV-lea", "Construcția catedralei Sf. Nicolae între 1283 și 1490", "Înălțimea turnului clopotniță al catedralei este de 74 metri", "Universitatea din Fribourg a fost fondată în anul 1889", "Râul Saane formează aici granița lingvistică (Röstigraben)", "Lungimea podului de lemn din Berna este de circa 40 metri"],
+      en: ["Founding of the city in 1157 by Berthold IV", "Construction of St. Nicholas Cathedral from 1283 to 1490", "The height of the cathedral's bell tower is 74 meters", "The University of Fribourg was established in 1889", "The Sarine River forms the linguistic border (Röstigraben)", "Length of the wooden Bern Bridge is about 40 meters"],
+    },
   },
   {
     id: "city-sion",
@@ -983,7 +1079,13 @@ export const switzerlandCities: POI[] = [
         "Sion is an important base for Alpine trips in Valais."
       ]
     },
-    image: "/geo-images/switzerland/city-sion.webp"
+    image: "/geo-images/switzerland/city-sion.webp",
+    factsAdvanced: {
+      de: ["Die Basilika von Valère beherbergt eine Orgel von 1430", "Bau der Burg Tourbillon zwischen 1290 und 1308", "Die Stadt hat eine Fläche von etwa 34 Quadratkilometern", "Sion wurde bereits in der Jungsteinzeit (6200 v. Chr.) besiedelt", "Höhe der Stadt liegt bei 510 Metern über dem Meeresspiegel", "Hauptsitz des Bistums Sitten seit dem 6. Jahrhundert"],
+      hu: ["A Valère-bazilikában egy 1430-ból származó orgona található", "Tourbillon várát 1290 és 1308 között építették", "A város területe körülbelül 34 négyzetkilométer", "Sion már az újkőkorban (i.e. 6200 körül) lakott volt", "A város 510 méteres tengerszint feletti magasságban fekszik", "A sioni püspökség székhelye a 6. század óta"],
+      ro: ["Bazilica Valère găzduiește o orgă funcțională din 1430", "Construcția castelului Tourbillon între 1290 și 1308", "Orașul are o suprafață de aproximativ 34 de kilometri pătrați", "Sion a fost locuit încă din neolitic (cca. 6200 î.Hr.)", "Altitudinea orașului este de 510 metri deasupra mării", "Sediul Episcopiei de Sion încă din secolul al VI-lea"],
+      en: ["Valère Basilica houses a playable organ from 1430", "Construction of Tourbillon Castle between 1290 and 1308", "The city covers an area of approximately 34 square kilometers", "Sion was inhabited as early as the Neolithic (c. 6200 BC)", "The city's elevation is 510 meters above sea level", "Seat of the Bishopric of Sion since the 6th century"],
+    },
   },
   {
     id: "city-montreux",
@@ -1032,7 +1134,19 @@ export const switzerlandCities: POI[] = [
         "The mild microclimate is a major advantage."
       ]
     },
-    image: "/geo-images/switzerland/city-montreux.webp"
+    image: "/geo-images/switzerland/city-montreux.webp",
+    descriptionAdvanced: {
+      de: "Montreux liegt am Genfersee im Kanton Waadt und ist das Zentrum der Waadtländer Riviera. Die Stadt ist weltbekannt für das Montreux Jazz Festival und ihre palastartigen Hotelbauten aus der Belle Époque. Das milde Klima begünstigt eine subtropische Vegetation entlang der Seepromenade. In unmittelbarer Nähe befindet sich das historische Schloss Chillon auf einer kleinen Insel im See.",
+      hu: "Montreux a Genfi-tó partján fekszik Vaud kantonban, és a Vaud-i Riviéra központja. A város világszerte ismert a Montreux-i Jazz Fesztiválról és a Belle Époque korszakából származó palotaszerű szállodáiról. Az enyhe éghajlat kedvez a szubtrópusi növényzetnek a tóparti sétány mentén. A közvetlen közelben található a történelmi Chillon vára egy kis szigeten.",
+      ro: "Montreux este situat pe malul lacului Geneva în cantonul Vaud și este centrul Rivierei vaudeze. Orașul este cunoscut în întreaga lume pentru Festivalul de Jazz din Montreux și hotelurile sale palatiale din perioada Belle Époque. Climatul blând favorizează vegetația subtropicală de-a lungul promenadei lacului. În imediata apropiere se află istoricul castel Chillon.",
+      en: "Montreux is located on the shores of Lake Geneva in the Canton of Vaud and serves as the center of the Vaud Riviera. The city is world-famous for the Montreux Jazz Festival and its palace-like hotels from the Belle Époque era. Its mild climate supports subtropical vegetation along the lakeside promenade. Nearby sits the historic Chillon Castle on a small island in the lake.",
+    },
+    factsAdvanced: {
+      de: ["Erstes Montreux Jazz Festival fand im Jahr 1967 statt", "Freddie Mercury lebte hier und besitzt ein Denkmal am See", "Schloss Chillon ist das meistbesuchte historische Gebäude", "Die Seepromenade ist insgesamt 7 Kilometer lang", "Montreux liegt auf einer Höhe von 395 Metern über Meer", "Der Orient-Express machte hier regelmäßig Station"],
+      hu: ["Az első Montreux-i Jazz Fesztivált 1967-ben rendezték", "Freddie Mercury itt élt, emlékére szobrot állítottak a parton", "Chillon vára Svájc leglátogatottabb történelmi épülete", "A tóparti sétány teljes hossza 7 kilométer", "Montreux 395 méteres tengerszint feletti magasságban fekszik", "Az Orient-Expressz rendszeresen megállt a városban"],
+      ro: ["Primul Festival de Jazz din Montreux a avut loc în 1967", "Freddie Mercury a locuit aici și are o statuie pe faleză", "Castelul Chillon este cea mai vizitată clădire istorică", "Promenada de pe malul lacului are o lungime de 7 kilometri", "Montreux este situat la o altitudine de 395 de metri", "Trenul Orient-Express oprea regulat în această stațiune"],
+      en: ["The first Montreux Jazz Festival took place in 1967", "Freddie Mercury lived here and has a statue on the lakefront", "Chillon Castle is Switzerland's most visited historic building", "The lakeside promenade is 7 kilometers long in total", "Montreux is situated at an altitude of 395 meters", "The Orient Express used to make regular stops here"],
+    },
   },
   {
     id: "hist-castelgrande-bellinzona",
@@ -1081,7 +1195,19 @@ export const switzerlandCities: POI[] = [
         "It is the best-known of the three Bellinzona castles."
       ]
     },
-    image: "/geo-images/switzerland/hist-castelgrande-bellinzona.webp"
+    image: "/geo-images/switzerland/hist-castelgrande-bellinzona.webp",
+    descriptionAdvanced: {
+      de: "Das Castelgrande ist die älteste der drei Burgen von Bellinzona und gehört zum UNESCO-Welterbe. Die Festung liegt auf einem markanten Felshügel und wurde über Jahrhunderte hinweg ausgebaut. Charakteristisch sind die massive Ringmauer sowie der Weisse und der Schwarze Turm. Von der Anlage aus bietet sich ein weiter Blick über das Tessiner Tal und die Alpenpässe.",
+      hu: "A Castelgrande Bellinzona három vára közül a legrégebbi, és az UNESCO Világörökség része. Az erőd egy jellegzetes szikladombon fekszik, és évszázadokon keresztül bővítették. Jellemzői a masszív körfal, valamint a Fehér-torony és a Fekete-torony. Az építményről széles kilátás nyílik a Ticino-völgyre és a fontos alpesi hágók felé vezető utakra.",
+      ro: "Castelgrande este cea mai veche dintre cele trei castele din Bellinzona și face parte din patrimoniul mondial UNESCO. Fortăreața este situată pe un deal stâncos proeminent și a fost extinsă de-a lungul secolelor. Caracteristice sunt zidul de incintă masiv, precum și Turnul Alb și Turnul Negru. De aici se deschide o vedere panoramică asupra văii Ticino.",
+      en: "Castelgrande is the oldest of the three castles of Bellinzona and is a UNESCO World Heritage site. The fortress sits on a prominent rocky hill and was expanded over several centuries. It is characterized by its massive ring wall and its two towers, the White Tower and the Black Tower. The site offers an extensive view over the Ticino valley and the Alpine passes.",
+    },
+    factsAdvanced: {
+      de: ["Erste Befestigungen auf dem Hügel aus dem 4. Jahrhundert", "Aufnahme in das UNESCO-Welterbe im Jahr 2000", "Der Weisse Turm (Torre Bianca) ist 27 Meter hoch", "Der Schwarze Turm (Torre Nera) ist 28 Meter hoch", "Umfassende Renovierung durch Aurelio Galfetti 1984-1991", "Die Festung war früher durch Mauern mit der Stadt verbunden"],
+      hu: ["Az első erődítések a dombon a 4. századból származnak", "2000-ben került fel az UNESCO Világörökségi listájára", "A Fehér-torony (Torre Bianca) magassága 27 méter", "A Fekete-torony (Torre Nera) magassága 28 méter", "Aurelio Galfetti vezetésével újították fel 1984 és 1991 között", "Az erődöt korábban falak kötötték össze a várossal"],
+      ro: ["Primele fortificații pe deal datează din secolul al IV-lea", "Includerea în patrimoniul UNESCO în anul 2000", "Turnul Alb (Torre Bianca) are o înălțime de 27 de metri", "Turnul Negru (Torre Nera) are o înălțime de 28 de metri", "Renovare majoră de Aurelio Galfetti între 1984 și 1991", "Fortăreața era legată de oraș prin ziduri de apărare"],
+      en: ["First fortifications on the hill date back to the 4th century", "Designated as a UNESCO World Heritage site in 2000", "The White Tower (Torre Bianca) stands 27 meters tall", "The Black Tower (Torre Nera) stands 28 meters tall", "Extensive renovation by Aurelio Galfetti from 1984 to 1991", "The fortress was formerly connected to the city by walls"],
+    },
   },
   {
     id: "hist-montebello-castle",
@@ -1130,7 +1256,19 @@ export const switzerlandCities: POI[] = [
         "It complements Castelgrande and Sasso Corbaro."
       ]
     },
-    image: "/geo-images/switzerland/hist-montebello-castle.webp"
+    image: "/geo-images/switzerland/hist-montebello-castle.webp",
+    descriptionAdvanced: {
+      de: "Das Schloss Montebello ist die zweite Burg der UNESCO-Anlage von Bellinzona und liegt östlich der Altstadt. Die Anlage wurde im 13. Jahrhundert von der Familie Rusca erbaut und später von den Eidgenossen erweitert. Im Gegensatz zum Castelgrande hat Montebello eher den Charakter einer Wohnburg. Heute beherbergt sie ein Museum für Archäologie und Stadtgeschichte.",
+      hu: "A Montebello-vár a bellinzonai UNESCO-helyszín második vára, amely az óvárostól keletre fekszik. Az építményt a 13. században a Rusca család emelte, majd később a svájci kantonok szövetsége bővítette tovább. A Castelgrandéval ellentétben Montebello inkább lakóvár jellegű. Ma régészeti és várostörténeti múzeumnak ad otthont a belső épületeiben.",
+      ro: "Castelul Montebello este a doua fortăreață din complexul UNESCO din Bellinzona, situată la est de orașul vechi. Ansamblul a fost construit în secolul al XIII-lea de familia Rusca și extins ulterior de confederații elvețieni. Spre deosebire de Castelgrande, Montebello are mai degrabă caracterul unei reședințe fortificate. Astăzi găzduiește un muzeu de arheologie.",
+      en: "Montebello Castle is the second fortress of the UNESCO site in Bellinzona, located east of the old town. The complex was built in the 13th century by the Rusca family and later expanded by the Swiss Confederates. Unlike Castelgrande, Montebello has the character of a residential castle. Today, it houses a museum of archaeology and local history.",
+    },
+    factsAdvanced: {
+      de: ["Bau der Kernburg um das Jahr 1300 durch die Rusca", "Die Burg liegt 90 Meter über dem Stadtniveau", "Anlage besitzt einen tiefen Graben und eine Zugbrücke", "Erweiterung der Ringmauern im 14. und 15. Jahrhundert", "Beherbergt das Museo Civico (Städtisches Museum)", "Gehört seit dem Jahr 2000 zum UNESCO-Welterbe"],
+      hu: ["A belső várat 1300 körül építtette a Rusca család", "A vár 90 méterrel fekszik a város szintje felett", "Az erődítmény mély árokkal és felvonóhíddal rendelkezik", "A körfalakat a 14. és 15. században bővítették ki", "Itt található a Museo Civico (Városi Múzeum)", "2000 óta része az UNESCO Világörökségének"],
+      ro: ["Construcția nucleului în jurul anului 1300 de către familia Rusca", "Castelul se află la 90 de metri deasupra nivelului orașului", "Fortificația are un șanț adânc și un pod mobil", "Extinderea zidurilor de incintă în secolele XIV și XV", "Găzduiește Museo Civico (Muzeul Municipal)", "Face parte din patrimoniul mondial UNESCO din anul 2000"],
+      en: ["Core of the castle built around 1300 by the Rusca family", "The castle sits 90 meters above the level of the city", "The complex features a deep moat and a drawbridge", "Expansion of the ring walls in the 14th and 15th centuries", "Home to the Museo Civico (Municipal Museum)", "A UNESCO World Heritage site since the year 2000"],
+    },
   },
   {
     id: "hist-sasso-corbaro",
@@ -1179,7 +1317,19 @@ export const switzerlandCities: POI[] = [
         "The view over Bellinzona is especially strong."
       ]
     },
-    image: "/geo-images/switzerland/hist-sasso-corbaro.webp"
+    image: "/geo-images/switzerland/hist-sasso-corbaro.webp",
+    descriptionAdvanced: {
+      de: "Sasso Corbaro ist die höchstgelegene der drei Burgen von Bellinzona und bietet eine weite Aussicht auf das Maggiadelta. Sie wurde 1479 in nur sechs Monaten Bauzeit durch die Sforza aus Mailand errichtet, um eine Lücke in der Verteidigung zu schliessen. Die Burg hat einen quadratischen Grundriss und wirkt wie eine kompakte Festungseinheit. Sie gehört ebenfalls zum UNESCO-Welterbe der Stadt.",
+      hu: "Sasso Corbaro a legmagasabban fekvő vár Bellinzona három vára közül, ahonnan pazar kilátás nyílik a Maggia-deltára. 1479-ben mindössze hat hónap alatt építtették fel a milánói Sforzák, hogy lezárják a védelmi vonalon tátongó rést. A vár négyzet alaprajzú és egy kompakt erőd benyomását kelti. Szintén része a város UNESCO Világörökségi helyszíneinek.",
+      ro: "Sasso Corbaro este cel mai înalt dintre cele trei castele din Bellinzona și oferă o vedere largă asupra deltei Maggia. A fost construit în 1479 în doar șase luni de către familia Sforza din Milano pentru a închide o breșă în apărare. Castelul are un plan pătrat și arată ca o unitate de fortificație compactă. Face, de asemenea, parte din patrimoniul mondial UNESCO.",
+      en: "Sasso Corbaro is the highest of the three castles of Bellinzona, offering an expansive view of the Maggia delta. It was built in 1479 in just six months by the Sforza family of Milan to close a gap in the defenses. The castle has a square layout and appears as a compact fortress unit. It is also part of the city's UNESCO World Heritage designation.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit betrug lediglich sechs Monate im Jahr 1479", "Die Burg liegt auf einer Höhe von 460 Metern über Meer", "Der Hauptturm ist 14 Meter hoch und massiv gebaut", "Wurde nach dem Sturz der Sforza von den Schweizern besetzt", "Umfassende Restaurierung im Jahr 2006 durchgeführt", "Wird oft als Schloss von Cima (Gipfel) bezeichnet"],
+      hu: ["Az építési idő mindössze hat hónap volt 1479-ben", "A vár 460 méteres tengerszint feletti magasságban fekszik", "A főtorony 14 méter magas és rendkívül masszív", "A Sforzák bukása után a svájciak foglalták el", "2006-ban végeztek rajta átfogó restaurálási munkákat", "Gyakran emlegetik Cima (Csúcs) váraként is"],
+      ro: ["Timpul de construcție a fost de doar șase luni în 1479", "Castelul se află la o altitudine de 460 de metri", "Turnul principal are o înălțime de 14 metri și este masiv", "Ocupat de elvețieni după căderea familiei Sforza", "O restaurare cuprinzătoare a fost efectuată în 2006", "Este adesea numit Castelul Cima (Vârf)"],
+      en: ["Construction time was only six months in the year 1479", "The castle sits at an altitude of 460 meters above sea level", "The main tower is 14 meters high and massively built", "Occupied by the Swiss after the fall of the Sforzas", "Comprehensive restoration was carried out in 2006", "Often referred to as the Castle of Cima (Summit)"],
+    },
   },
   {
     id: "hist-abbey-of-saint-gall",
@@ -1228,7 +1378,19 @@ export const switzerlandCities: POI[] = [
         "Monastic and educational history are closely linked here."
       ]
     },
-    image: "/geo-images/switzerland/hist-abbey-of-saint-gall.webp"
+    image: "/geo-images/switzerland/hist-abbey-of-saint-gall.webp",
+    descriptionAdvanced: {
+      de: "Der Stiftsbezirk St. Gallen ist ein bedeutendes Beispiel eines karolingischen Klosters und gehört zum UNESCO-Weltkulturerbe. Die prächtige Barockkathedrale und die weltberühmte Stiftsbibliothek bilden das Herzstück der Anlage. Die Bibliothek beherbergt eine der ältesten und wertvollsten Büchersammlungen der Welt. Das Kloster war über Jahrhunderte ein Zentrum europäischer Gelehrsamkeit.",
+      hu: "A Szent Galleni apátság a karoling kori kolostorok egyik legjelentősebb példája, és az UNESCO Világörökség része. A pompás barokk székesegyház és a világhírű apátsági könyvtár alkotják az együttes magját. A könyvtár a világ egyik legrégebbi és legértékesebb gyűjteményének ad otthont. A kolostor évszázadokon át az európai tudományosság és műveltség központja volt.",
+      ro: "Districtul mănăstiresc St. Gallen este un exemplu remarcabil de mănăstire carolingiană și face parte din patrimoniul mondial UNESCO. Catedrala barocă magnifică și biblioteca mănăstirii, celebră în întreaga lume, constituie inima complexului. Biblioteca adăpostește una dintre cele mai vechi și valoroase colecții de cărți. Mănăstirea a fost un centru al erudiției europene.",
+      en: "The Abbey District of Saint Gall is a prime example of a Carolingian monastery and is a UNESCO World Heritage site. The magnificent Baroque cathedral and the world-famous Abbey Library form the heart of the complex. The library houses one of the oldest and most valuable collections of books and manuscripts in the world. For centuries, the abbey was a center of European learning.",
+    },
+    factsAdvanced: {
+      de: ["Gründung der Einsiedelei durch den Heiligen Gallus um 612", "Aufnahme in das UNESCO-Welterbe im Jahr 1983", "Die Bibliothek besitzt rund 170000 gedruckte Bände", "Beherbergt den berühmten St. Galler Klosterplan aus dem 9. Jh.", "Die heutige Barockkathedrale wurde zwischen 1755 und 1767 erbaut", "Der Bibliothekssaal gilt als einer der schönsten Rokoko-Räume"],
+      hu: ["A remetelakot Szent Gál alapította 612 körül", "1983-ban került fel az UNESCO Világörökségi listájára", "A könyvtár körülbelül 170000 nyomtatott kötetet őriz", "Itt található a híres 9. századi Szent Galleni kolostorterv", "A mai barokk székesegyház 1755 és 1767 között épült", "A könyvtárterem a világ egyik legszebb rokokó belső tere"],
+      ro: ["Fondarea schitului de către Sfântul Gallus în jurul anului 612", "Includerea în patrimoniul UNESCO în anul 1983", "Biblioteca deține aproximativ 170000 de volume tipărite", "Adăpostește faimosul Plan al mănăstirii St. Gallen din sec. IX", "Catedrala barocă actuală a fost construită între 1755 și 1767", "Sala bibliotecii este considerată una dintre cele mai frumoase în stil rococo"],
+      en: ["Founding of the hermitage by Saint Gall around 612 AD", "Designated as a UNESCO World Heritage site in 1983", "The library holds approximately 170,000 printed volumes", "Houses the famous 9th-century Plan of Saint Gall manuscript", "The current Baroque cathedral was built between 1755 and 1767", "The library hall is considered one of the finest Rococo rooms"],
+    },
   },
   {
     id: "hist-morgarten-battlefield",
@@ -1277,7 +1439,19 @@ export const switzerlandCities: POI[] = [
         "Morgarten is one of Switzerland's best-known battle sites."
       ]
     },
-    image: "/geo-images/switzerland/hist-morgarten-battlefield.webp"
+    image: "/geo-images/switzerland/hist-morgarten-battlefield.webp",
+    descriptionAdvanced: {
+      de: "Das Schlachtfeld am Morgarten markiert den Ort eines entscheidenden Konflikts im Jahr 1315 zwischen den Schwyzern und den Habsburgern. Der Sieg der Eidgenossen festigte den Zusammenhalt der jungen Waldstätte und gilt als wichtiger Meilenstein der Schweizer Geschichte. Heute erinnern ein Denkmal und eine Informationsstätte an die Ereignisse. Die Landschaft ist durch den Ägerisee und steile Hänge geprägt.",
+      hu: "A morgarteni csatatér az 1315-ben zajlott döntő összecsapás helyszíne, ahol a schwyziek és a Habsburgok seregei küzdöttek meg egymással. Az esküvetségi szövetségesek győzelme megszilárdította a korai svájci kantonok egységét, és a svájci történelem fontos mérföldkövének számít. Ma egy emlékmű és egy információs központ emlékeztet az eseményekre. A tájat az Ägerisee és a meredek hegyoldalak határozzák meg.",
+      ro: "Câmpul de luptă de la Morgarten marchează locul unui conflict decisiv în 1315 între locuitorii din Schwyz și Habsburgi. Victoria confederaților a consolidat coeziunea tânărului stat și este considerată o etapă importantă în istoria Elveției. Astăzi, un monument și un centru de informare amintesc de evenimente. Peisajul este definit de lacul Ägeri și pantele abrupte.",
+      en: "The Morgarten Battlefield marks the site of a decisive conflict in 1315 between the people of Schwyz and the Habsburgs. The victory of the Confederates strengthened the cohesion of the young alliance and is considered a major milestone in Swiss history. Today, a monument and an information center commemorate the events. The landscape is characterized by Lake Ägeri and steep slopes.",
+    },
+    factsAdvanced: {
+      de: ["Die Schlacht fand am 15. November 1315 statt", "Sieg von rund 1500 Eidgenossen gegen ein größeres Ritterheer", "Einweihung des Morgarten-Denkmals im Jahr 1908", "Erste urkundliche Erwähnung des Namens Morgarten im 14. Jh.", "Jährliche Wallfahrt und Gedenkschiessen finden statt", "Die Kapelle Schornen wurde zum Gedenken an die Toten errichtet"],
+      hu: ["A csata 1315. november 15-én zajlott le", "Mintegy 1500 svájci győzött a nagyobb lovagi sereg ellen", "A morgarteni emlékművet 1908-ban avatták fel", "A Morgarten név első írásos említése a 14. századból való", "Évente zarándoklatot és emlék-lövészversenyt rendeznek itt", "A Schornen-kápolnát az elesettek emlékére építették"],
+      ro: ["Bătălia a avut loc la data de 15 noiembrie 1315", "Victoria a cca. 1500 de confederați contra unei armate de cavaleri", "Inaugurarea monumentului Morgarten în anul 1908", "Prima mențiune documentară a numelui Morgarten în sec. XIV", "Au loc pelerinaje anuale și concursuri de tir comemorative", "Capela Schornen a fost ridicată în memoria celor căzuți"],
+      en: ["The battle took place on November 15, 1315", "Victory of approx. 1,500 Confederates against a larger knightly army", "Inauguration of the Morgarten Monument in 1908", "First documentary mention of the name Morgarten in the 14th century", "Annual pilgrimages and memorial shooting events are held", "Schornen Chapel was erected to commemorate the fallen"],
+    },
   },
   {
     id: "hist-sempach-battlefield",
@@ -1326,7 +1500,19 @@ export const switzerlandCities: POI[] = [
         "The battlefield is a historic learning site."
       ]
     },
-    image: "/geo-images/switzerland/hist-sempach-battlefield.webp"
+    image: "/geo-images/switzerland/hist-sempach-battlefield.webp",
+    descriptionAdvanced: {
+      de: "Das Schlachtfeld von Sempach ist der Ort des Sieges der Eidgenossen über Leopold III. von Habsburg im Jahr 1386. Dieser Triumph war entscheidend für die Unabhängigkeit der Innerschweizer Orte von Österreich. Die Legende von Arnold von Winkelried, der sich für seine Kameraden opferte, ist untrennbar mit diesem Ort verbunden. Heute steht dort eine Gedenkkapelle mit historischen Wandmalereien.",
+      hu: "A sempachi csatatér az a hely, ahol a svájci szövetségesek 1386-ban győzelmet arattak III. Lipót habsburg herceg felett. Ez a diadal döntő fontosságú volt a közép-svájci területek Ausztriától való függetlenedése szempontjából. Arnold von Winkelried legendája, aki feláldozta magát társaiért, elválaszthatatlan ettől a helyszíntől. Ma egy emlékkápolna áll ott, történelmi falfestményekkel.",
+      ro: "Câmpul de luptă de la Sempach este locul victoriei confederaților asupra lui Leopold al III-lea de Habsburg în 1386. Acest triumf a fost decisiv pentru independența cantoanelor elvețiene față de Austria. Legenda lui Arnold von Winkelried, care s-a jertfit pentru camarazii săi, este inseparabilă de acest loc. Astăzi există o capelă comemorativă cu picturi murale istorice.",
+      en: "The Sempach Battlefield is the site of the Confederate victory over Leopold III of Habsburg in 1386. This triumph was crucial for the independence of the Inner Swiss territories from Austrian rule. The legend of Arnold von Winkelried, who sacrificed himself for his comrades, is inextricably linked to this location. Today, a memorial chapel with historic frescoes stands on the site.",
+    },
+    factsAdvanced: {
+      de: ["Die Schlacht von Sempach fand am 9. Juli 1386 statt", "Tod des Herzogs Leopold III. von Habsburg im Kampf", "Errichtung der Schlachtkapelle im Jahr 1387", "Restaurierung der Kapellenmalereien im Jahr 1886", "Die Legende von Arnold von Winkelried stammt aus dem 16. Jh.", "Jährliche Gedenkfeier findet am Sonntag nach dem 9. Juli statt"],
+      hu: ["A sempachi csata 1386. július 9-én zajlott le", "III. Lipót habsburg herceg a harcban vesztette életét", "A csata-kápolnát 1387-ben emelték", "A kápolna falfestményeit 1886-ban restaurálták", "Arnold von Winkelried legendája a 16. századból ered", "Minden évben megemlékezést tartanak a július 9-ét követő vasárnap"],
+      ro: ["Bătălia de la Sempach a avut loc la 9 iulie 1386", "Moartea ducelui Leopold al III-lea de Habsburg în luptă", "Ridicarea capelei bătăliei în anul 1387", "Restaurarea picturilor din capelă în anul 1886", "Legenda lui Arnold von Winkelried datează din secolul al XVI-lea", "Ceremonia anuală are loc în duminica de după 9 iulie"],
+      en: ["The Battle of Sempach took place on July 9, 1386", "Death of Duke Leopold III of Habsburg during the fight", "Construction of the Battle Chapel in 1387", "Restoration of the chapel's frescoes in 1886", "The legend of Arnold von Winkelried dates to the 16th century", "An annual commemoration is held on the Sunday after July 9"],
+    },
   },
   {
     id: "hist-augusta-raurica",
@@ -1375,7 +1561,19 @@ export const switzerlandCities: POI[] = [
         "Visitors find ruins and museum offerings there."
       ]
     },
-    image: "/geo-images/switzerland/hist-augusta-raurica.webp"
+    image: "/geo-images/switzerland/hist-augusta-raurica.webp",
+    descriptionAdvanced: {
+      de: "Augusta Raurica ist die älteste römische Kolonie am Rhein und liegt etwa 20 Kilometer östlich von Basel. Die im Jahr 44 v. Chr. gegründete Stadt war einst ein bedeutendes Verwaltungs- und Handelszentrum. Heute ist sie eine der am besten erhaltenen römischen Ausgrabungsstätten der Schweiz. Zu den Highlights zählen das grosse Theater, das Römermuseum und ein rekonstruiertes Wohnhaus.",
+      hu: "Augusta Raurica a Rajna menti legrégebbi római kolónia, amely Baseltől mintegy 20 kilométerre keletre fekszik. Az i.e. 44-ben alapított város egykor jelentős közigazgatási és kereskedelmi központ volt. Ma Svájc egyik legjobban megőrzött római kori régészeti lelőhelye. A legfontosabb látnivalók közé tartozik a nagy színház, a Római Múzeum és egy rekonstruált lakóház.",
+      ro: "Augusta Raurica este cea mai veche colonie romană de pe Rin, situată la aproximativ 20 km est de Basel. Fondat în anul 44 î.Hr., orașul a fost cândva un important centru administrativ și comercial. Astăzi este unul dintre cele mai bine conservate situri arheologice romane din Elveția. Reperele includ teatrul mare, muzeul roman și o casă romană reconstruită.",
+      en: "Augusta Raurica is the oldest Roman colony on the Rhine, located about 20 kilometers east of Basel. Founded in 44 BC, the city was once a significant administrative and commercial center. Today, it is one of Switzerland's best-preserved Roman archaeological sites. Highlights include the large theater, the Roman museum, and a reconstructed Roman house.",
+    },
+    factsAdvanced: {
+      de: ["Gründung durch Lucius Munatius Plancus im Jahr 44 v. Chr.", "Das Theater bot Platz für rund 10000 Zuschauer", "Fund des Silberschatzes von Kaiseraugst im Jahr 1961", "Die Stadt hatte zu ihrer Blütezeit etwa 20000 Einwohner", "Augusta Raurica wurde um 260 n. Chr. durch Alamannen zerstört", "Insgesamt sind über 30 Bauwerke für Besucher zugänglich"],
+      hu: ["Lucius Munatius Plancus alapította i.e. 44-ben", "A színházban körülbelül 10000 néző számára volt hely", "1961-ben találták meg a kaiseraugsti ezüstkincset", "A városnak fénykorában mintegy 20000 lakosa volt", "Az alemannok rombolták le i.sz. 260 körül", "Összesen több mint 30 építmény látogatható a helyszínen"],
+      ro: ["Fondat de Lucius Munatius Plancus în anul 44 î.Hr.", "Teatrul avea o capacitate de aproximativ 10000 de spectatori", "Descoperirea tezaurului de argint din Kaiseraugst în 1961", "Orașul avea circa 20000 de locuitori în perioada de apogeu", "Distrus de alamani în jurul anului 260 d.Hr.", "Peste 30 de structuri sunt accesibile vizitatorilor în prezent"],
+      en: ["Founded by Lucius Munatius Plancus in 44 BC", "The theater could accommodate around 10,000 spectators", "Discovery of the Kaiseraugst Silver Treasure in 1961", "The city had about 20,000 inhabitants at its peak", "Augusta Raurica was destroyed by Alamanni around 260 AD", "Over 30 individual structures are accessible to visitors"],
+    },
   },
   {
     id: "hist-gruyeres-castle",
@@ -1424,7 +1622,19 @@ export const switzerlandCities: POI[] = [
         "Its position over the valley is especially striking."
       ]
     },
-    image: "/geo-images/switzerland/hist-gruyeres-castle.webp"
+    image: "/geo-images/switzerland/hist-gruyeres-castle.webp",
+    descriptionAdvanced: {
+      de: "Das Schloss Gruyères thront auf einem Hügel über dem mittelalterlichen Städtchen im Kanton Freiburg. Es war über Jahrhunderte der Sitz der Grafen von Gruyères und verbindet Verteidigungsarchitektur mit höfischer Wohnkultur. Die Anlage beeindruckt durch ihren französischen Garten und die reich verzierten Säle. Die Region ist zudem weltbekannt für den gleichnamigen Käse und ihre alpine Kulisse.",
+      hu: "Gruyères vára egy dombtetőn magasodik a középkori kisváros felett Fribourg kantonban. Évszázadokon át a Gruyères-i grófok székhelye volt, ötvözve a védelmi építészetet az udvari lakókultúrával. Az épületegyüttes lenyűgöző francia kertjével és gazdagon díszített termeivel. A régió világszerte ismert a névadó sajtról és festői alpesi tájairól.",
+      ro: "Castelul Gruyères tronează pe un deal deasupra orașului medieval din cantonul Fribourg. Timp de secole a fost sediul conților de Gruyères și îmbină arhitectura defensivă cu rafinamentul rezidențial. Ansamblul impresionează prin grădina sa franceză și sălile bogat decorate. Regiunea este, de asemenea, celebră pentru brânza cu același nume și peisajul alpin.",
+      en: "Gruyères Castle stands on a hill above the medieval town in the Canton of Fribourg. For centuries, it was the seat of the Counts of Gruyères, blending defensive architecture with courtly living culture. The complex is notable for its formal French garden and lavishly decorated halls. The region is also world-renowned for the cheese of the same name and its Alpine scenery.",
+    },
+    factsAdvanced: {
+      de: ["Bau der heutigen Kernanlage im 13. Jahrhundert", "Grafschaft Gruyères ging im Jahr 1554 bankrott", "Das Schloss beherbergt drei verschiedene Museen", "Die Ringmauer ist fast vollständig begehbar", "Einweihung des französischen Gartens im 17. Jahrhundert", "Besucherzahl beträgt jährlich rund 170000 Personen"],
+      hu: ["A mai belső várat a 13. században építették", "A Gruyères-i grófság 1554-ben ment csődbe", "A várban három különböző múzeum is helyet kapott", "A körfal szinte teljes hosszában bejárható", "A francia kertet a 17. században alakították ki", "Az éves látogatószám eléri a 170000 főt"],
+      ro: ["Construcția nucleului actual în secolul al XIII-lea", "Comitatul de Gruyères a dat faliment în anul 1554", "Castelul găzduiește trei muzee diferite", "Zidul de incintă este aproape complet accesibil la pas", "Inaugurarea grădinii franceze în secolul al XVII-lea", "Numărul anual de vizitatori este de aproximativ 170000"],
+      en: ["Construction of the current core structure in the 13th century", "The County of Gruyères went bankrupt in 1554", "The castle houses three different museums", "The ring wall is almost entirely accessible to walkers", "Establishment of the formal French garden in the 17th century", "The castle receives about 170,000 visitors per year"],
+    },
   },
   {
     id: "mountain-eiger",
@@ -1473,7 +1683,19 @@ export const switzerlandCities: POI[] = [
         "The Eiger is a symbol of mountaineering."
       ]
     },
-    image: "/geo-images/switzerland/mountain-eiger.webp"
+    image: "/geo-images/switzerland/mountain-eiger.webp",
+    descriptionAdvanced: {
+      de: "Der Eiger ist ein 3967 Meter hoher Berg in den Berner Alpen, der vor allem für seine Nordwand berühmt ist. Diese über 1800 Meter hohe Steilwand gilt als eine der schwierigsten und legendärsten Kletterwände der Welt. Zusammen mit Mönch und Jungfrau bildet der Eiger ein markantes Dreigestirn. Die Jungfraubahn verläuft in einem Tunnel direkt durch den Berg zum Jungfraujoch.",
+      hu: "Az Eiger egy 3967 méter magas hegy a Berni-Alpokban, amely elsősorban az északi faláról (Nordwand) híres. Ez a több mint 1800 méter magas meredek fal a világ egyik legnehezebb és leglegendásabb mászófalának számít. A Mönch és a Jungfrau csúcsokkal együtt az Eiger egy jellegzetes hármast alkot. A Jungfrau-vasút egy alagútban halad át a hegy belsejében.",
+      ro: "Eiger este un munte de 3967 de metri din Alpii Bernezi, celebru în special pentru peretele său nordic. Acest perete abrupt de peste 1800 de metri este considerat unul dintre cele mai dificile și legendare trasee de alpinism din lume. Împreună cu Mönch și Jungfrau, Eiger formează un trio montan distinctiv. Calea ferată Jungfrau trece printr-un tunel chiar prin munte.",
+      en: "The Eiger is a 3,967-meter mountain in the Bernese Alps, most famous for its North Face (Nordwand). This steep face, rising over 1,800 meters, is considered one of the most challenging and legendary climbing walls in the world. Together with the Mönch and Jungfrau, it forms a prominent mountain trio. The Jungfrau Railway runs through a tunnel directly inside the mountain.",
+    },
+    factsAdvanced: {
+      de: ["Erstbesteigung am 11. August 1858 durch Charles Barrington", "Die Eiger-Nordwand wurde erst 1938 erstmals durchstiegen", "Höhe der Eiger-Nordwand beträgt rund 1800 Meter", "Die Station Eigerwand liegt mitten im Eisenbahntunnel", "Der Gipfel liegt auf einer Höhe von 3967 Metern", "Rekordzeit für die Nordwand-Durchsteigung liegt unter 2,5 Std."],
+      hu: ["Első megmászása 1858. augusztus 11-én történt", "Az északi falat először csak 1938-ban mászták meg", "Az Eiger-északi falának magassága kb. 1800 méter", "Az Eigerwand állomás a vasúti alagút belsejében található", "A hegycsúcs magassága 3967 méter", "Az északi fal megmászásának rekordideje kevesebb mint 2,5 óra"],
+      ro: ["Prima ascensiune la 11 august 1858 de către Charles Barrington", "Peretele nordic a fost cucerit prima dată abia în 1938", "Înălțimea peretelui nordic Eiger este de circa 1800 de metri", "Stația Eigerwand se află în interiorul tunelului feroviar", "Vârful se află la o altitudine de 3967 de metri", "Timpul record pentru escaladarea peretelui nordic este sub 2,5 ore"],
+      en: ["First ascent on August 11, 1858, by Charles Barrington", "The North Face was first successfully climbed in 1938", "The height of the North Face is approximately 1,800 meters", "Eigerwand station is located inside the railway tunnel", "The summit reaches an altitude of 3,967 meters", "The record time for climbing the North Face is under 2.5 hours"],
+    },
   },
   {
     id: "mountain-jungfrau",
@@ -1522,7 +1744,19 @@ export const switzerlandCities: POI[] = [
         "The Jungfrau is one of Switzerland's most photographed mountains."
       ]
     },
-    image: "/geo-images/switzerland/mountain-jungfrau.webp"
+    image: "/geo-images/switzerland/mountain-jungfrau.webp",
+    descriptionAdvanced: {
+      de: "Die Jungfrau ist mit 4158 Metern der höchste Gipfel des berühmten Berner Dreigestirns. Der Berg ist Teil des UNESCO-Welterbes Schweizer Alpen Jungfrau-Aletsch und beheimatet den Grossen Aletschgletscher. Das Jungfraujoch, auch bekannt als Top of Europe, ist die höchste Eisenbahnstation Europas. Die Erstbesteigung des Berges erfolgte bereits im frühen 19. Jahrhundert.",
+      hu: "A Jungfrau 4158 méteres magasságával a híres berni hármas legmagasabb csúcsa. A hegy az UNESCO Világörökség részét képező Svájci-Alpok Jungfrau-Aletsch területéhez tartozik, és itt található a Nagy-Aletsch-gleccser. A Jungfraujoch, más néven Top of Europe, Európa legmagasabban fekvő vasútállomása. A hegy első megmászására már a 19. század elején sor került.",
+      ro: "Jungfrau este cel mai înalt vârf din faimosul trio bernez, având 4158 de metri. Muntele face parte din patrimoniul mondial UNESCO Jungfrau-Aletsch și adăpostește Marele Ghețar Aletsch. Jungfraujoch, cunoscut și sub numele de Top of Europe, este cea mai înaltă gară din Europa. Prima ascensiune a muntelui a avut loc la începutul secolului al XIX-lea.",
+      en: "The Jungfrau is the highest peak of the famous Bernese trio, standing at 4,158 meters. The mountain is part of the UNESCO World Heritage site Swiss Alps Jungfrau-Aletsch and is home to the Great Aletsch Glacier. The Jungfraujoch, known as the Top of Europe, is the highest railway station in Europe. The first ascent of the mountain was accomplished in the early 19th century.",
+    },
+    factsAdvanced: {
+      de: ["Erstbesteigung am 3. August 1811 durch die Brüder Meyer", "Das Jungfraujoch liegt auf 3454 Metern über Meer", "Der Gipfel erreicht eine Höhe von genau 4158 Metern", "Teil des ersten UNESCO-Weltnaturerbes der Alpen (2001)", "Jungfraubahn wurde zwischen 1896 und 1912 erbaut", "Der Grosse Aletschgletscher ist der längste Gletscher der Alpen"],
+      hu: ["A Meyer fivérek mászták meg először 1811. augusztus 3-án", "A Jungfraujoch 3454 méteres tengerszint feletti magasságban van", "A hegycsúcs pontos magassága 4158 méter", "Az Alpok első UNESCO világörökségi helyszíne (2001 óta)", "A Jungfrau-vasút 1896 és 1912 között épült fel", "A Nagy-Aletsch-gleccser az Alpok leghosszabb gleccsere"],
+      ro: ["Prima ascensiune la 3 august 1811 de către frații Meyer", "Jungfraujoch se află la 3454 de metri deasupra mării", "Vârful atinge o înălțime de exact 4158 de metri", "Parte din primul sit UNESCO din Alpi din anul 2001", "Calea ferată Jungfrau a fost construită între 1896 și 1912", "Ghețarul Aletsch este cel mai lung ghețar din Munții Alpi"],
+      en: ["First ascent on August 3, 1811, by the Meyer brothers", "Jungfraujoch station is at 3,454 meters above sea level", "The summit reaches an altitude of exactly 4,158 meters", "Part of the first Alpine UNESCO World Heritage site (2001)", "The Jungfrau Railway was constructed between 1896 and 1912", "The Great Aletsch Glacier is the longest glacier in the Alps"],
+    },
   },
   {
     id: "mountain-titlis",
@@ -1571,7 +1805,19 @@ export const switzerlandCities: POI[] = [
         "The region is strongly oriented toward Alpine and snow tourism."
       ]
     },
-    image: "/geo-images/switzerland/mountain-titlis.webp"
+    image: "/geo-images/switzerland/mountain-titlis.webp",
+    descriptionAdvanced: {
+      de: "Der Titlis ist ein 3238 Meter hoher Gipfel in den Urner Alpen und ein bedeutendes Ziel für den Ganzjahrestourismus. Er ist durch die weltweit erste drehbare Luftseilbahn, den Titlis Rotair, erschlossen. Auf dem Gipfel befinden sich eine Gletschergrotte und der Titlis Cliff Walk, die höchstgelegene Hängebrücke Europas.",
+      hu: "A Titlis az Urner-Alpok 3238 méter magas csúcsa, amely az év egészében népszerű turisztikai célpont. A hegyre a világ első forgó kabinos felvonója, a Titlis Rotair szállítja az utasokat. A csúcson gleccserbarlang és Európa legmagasabb függőhídja, a Titlis Cliff Walk várja a látogatókat.",
+      ro: "Titlis este un vârf de 3238 de metri în Alpii Urner, fiind o destinație majoră pentru turismul de pe tot parcursul anului. Este accesibil prin prima telecabină rotativă din lume, Titlis Rotair. Pe vârf se află o grotă de gheață și Titlis Cliff Walk, cea mai înaltă punte suspendată din Europa.",
+      en: "Titlis is a 3,238-meter peak in the Urner Alps and a major destination for year-round tourism. It is accessed by the world's first rotating cable car, the Titlis Rotair. The summit features a glacier cave and the Titlis Cliff Walk, which is the highest suspension bridge in Europe.",
+    },
+    factsAdvanced: {
+      de: ["Meereshöhe des Gipfels: 3238 Meter", "Inbetriebnahme der ersten Bergbahn: 1913", "Länge des Titlis Cliff Walk: 100 Meter", "Tiefe der Gletschergrotte: 15 Meter", "Dauer der Rotair-Fahrt: 5 Minuten", "Höhendifferenz von Engelberg: 2238 Meter"],
+      hu: ["A csúcs tengerszint feletti magassága: 3238 méter", "Az első hegyi vasút üzembe helyezése: 1913", "A Titlis Cliff Walk hossza: 100 méter", "A gleccserbarlang mélysége: 15 méter", "A Rotair felvonó menetideje: 5 perc", "Szintkülönbség Engelbergtől: 2238 méter"],
+      ro: ["Altitudinea vârfului: 3238 metri", "Punerea în funcțiune a primei căi ferate montane: 1913", "Lungimea podului Titlis Cliff Walk: 100 metri", "Adâncimea grotei de gheață: 15 metri", "Durata călătoriei cu Rotair: 5 minute", "Diferența de nivel de la Engelberg: 2238 metri"],
+      en: ["Summit elevation: 3,238 meters", "First mountain railway opened: 1913", "Length of Titlis Cliff Walk: 100 meters", "Glacier cave depth: 15 meters", "Rotair rotation time: 360 degrees in 5 minutes", "Vertical drop from Engelberg: 2,238 meters"],
+    },
   },
   {
     id: "lake-lugano",
@@ -1620,7 +1866,19 @@ export const switzerlandCities: POI[] = [
         "The lake is an important leisure and excursion area."
       ]
     },
-    image: "/geo-images/switzerland/lake-lugano.webp"
+    image: "/geo-images/switzerland/lake-lugano.webp",
+    descriptionAdvanced: {
+      de: "Der Luganersee liegt im äussersten Süden der Schweiz an der Grenze zu Italien. Er ist eiszeitlichen Ursprungs und zeichnet sich durch seine verzweigte Form und das mediterrane Klima aus. Rund 63 Prozent der Wasserfläche befinden sich auf Schweizer Staatsgebiet im Kanton Tessin.",
+      hu: "A Luganói-tó Svájc legdélebbi részén, az olasz határon fekszik. A jégkorszaki eredetű tó ágas-bogas alakjáról és mediterrán éghajlatáról ismert. A vízfelület körülbelül 63 százaléka Svájchoz, Ticino kantonhoz tartozik.",
+      ro: "Lacul Lugano este situat în extremitatea sudică a Elveției, la granița cu Italia. Este de origine glaciară și se caracterizează prin forma sa ramificată și climatul mediteranean. Aproximativ 63% din suprafața apei se află pe teritoriul elvețian, în cantonul Ticino.",
+      en: "Lake Lugano is located in the extreme south of Switzerland on the border with Italy. It is of glacial origin and is characterized by its branched shape and Mediterranean climate. Around 63 percent of the water surface is on Swiss territory in the canton of Ticino.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche des Sees: 48,7 km²", "Maximale Tiefe: 288 Meter", "Höhe über Meeresspiegel: 271 Meter", "Anteil der Schweiz am See: 30,7 km²", "Anzahl der Zuflüsse: über 10", "Entstehung: Ende der letzten Eiszeit"],
+      hu: ["A tó teljes területe: 48,7 km²", "Maximális mélység: 288 méter", "Tengerszint feletti magasság: 271 méter", "Svájci rész területe: 30,7 km²", "Befolyó vizek száma: több mint 10", "Kialakulása: az utolsó jégkorszak vége"],
+      ro: ["Suprafața totală a lacului: 48,7 km²", "Adâncimea maximă: 288 metri", "Altitudinea deasupra nivelului mării: 271 metri", "Partea elvețiană a lacului: 30,7 km²", "Numărul afluenților: peste 10", "Origine: sfârșitul ultimei ere glaciare"],
+      en: ["Total surface area: 48.7 km²", "Maximum depth: 288 meters", "Elevation above sea level: 271 meters", "Swiss portion area: 30.7 km²", "Number of tributaries: over 10", "Formation: end of the last ice age"],
+    },
   },
   {
     id: "lake-constance",
@@ -1669,7 +1927,19 @@ export const switzerlandCities: POI[] = [
         "The shoreline landscape is flat and very open."
       ]
     },
-    image: "/geo-images/switzerland/lake-constance.webp"
+    image: "/geo-images/switzerland/lake-constance.webp",
+    descriptionAdvanced: {
+      de: "Der Bodensee ist ein Binnengewässer im Alpenvorland, an dem Deutschland, Österreich und die Schweiz Anteile haben. Er besteht aus dem Obersee, dem Untersee und dem verbindenden Seerhein. Als drittgrösster Binnensee Mitteleuropas dient er als wichtiges Trinkwasserreservoir und Naherholungsgebiet.",
+      hu: "A Bodeni-tó az Alpok előterében fekvő állóvíz, amelyen Németország, Ausztria és Svájc osztozik. Részei a Felső-tó, az Alsó-tó és az azokat összekötő Seerhein. Közép-Európa harmadik legnagyobb tava fontos ivóvízbázis és pihenőhely.",
+      ro: "Lacul Constanța este un corp de apă din zona prealpină, împărțit de Germania, Austria și Elveția. Este format din Obersee, Untersee și râul Seerhein care le conectează. Ca al treilea lac interior ca mărime din Europa Centrală, servește ca rezervor important de apă potabilă.",
+      en: "Lake Constance is a body of water in the Alpine foothills shared by Germany, Austria, and Switzerland. It consists of the Obersee, the Untersee, and the connecting Seerhein river. As Central Europe's third-largest lake, it serves as an important drinking water reservoir and recreation area.",
+    },
+    factsAdvanced: {
+      de: ["Gesamte Uferlänge: 273 Kilometer", "Maximale Tiefe des Obersees: 251 Meter", "Wasservolumen: ca. 48 Kubikkilometer", "Höhe über Meer: 395 Meter", "Fläche: 536 Quadratkilometer", "Länge des Sees: 63 Kilometer"],
+      hu: ["Teljes partvonal hossza: 273 kilométer", "Felső-tó maximális mélysége: 251 méter", "Víztérfogat: kb. 48 köbkilométer", "Tengerszint feletti magasság: 395 méter", "Felszíne: 536 négyzetkilométer", "A tó hossza: 63 kilométer"],
+      ro: ["Lungimea totală a țărmului: 273 kilometri", "Adâncimea maximă a Obersee: 251 metri", "Volumul de apă: aprox. 48 kilometri cubi", "Altitudine: 395 metri", "Suprafață: 536 kilometri pătrați", "Lungimea lacului: 63 kilometri"],
+      en: ["Total shoreline length: 273 kilometers", "Maximum depth of Obersee: 251 meters", "Water volume: approx. 48 cubic kilometers", "Elevation: 395 meters above sea level", "Surface area: 536 square kilometers", "Length of the lake: 63 kilometers"],
+    },
   },
   {
     id: "river-rhine",
@@ -1718,7 +1988,19 @@ export const switzerlandCities: POI[] = [
         "Many promenades and excursion spots sit on the Rhine."
       ]
     },
-    image: "/geo-images/switzerland/river-rhine.webp"
+    image: "/geo-images/switzerland/river-rhine.webp",
+    descriptionAdvanced: {
+      de: "Der Rhein ist einer der bedeutendsten Flüsse Europas und entspringt in den Schweizer Alpen im Kanton Graubünden. Er fliesst durch den Bodensee und bildet über weite Strecken die Grenze zwischen der Schweiz, Liechtenstein, Österreich und Deutschland. In Basel verlässt der Fluss die Schweiz in Richtung Norden.",
+      hu: "A Rajna Európa egyik legjelentősebb folyója, amely a Svájci Alpokban, Graubünden kantonban ered. Átfolyik a Bodeni-tavon, és hosszú szakaszon alkot határt Svájc, Liechtenstein, Ausztria és Németország között. Bázelnél hagyja el Svájcot észak felé.",
+      ro: "Rinul este unul dintre cele mai importante fluvii din Europa și izvorăște în Alpii Elvețieni, în cantonul Graubünden. Curge prin Lacul Constanța și formează granița între Elveția, Liechtenstein, Austria și Germania pe distanțe lungi. La Basel, părăsește Elveția spre nord.",
+      en: "The Rhine is one of Europe's most significant rivers, originating in the Swiss Alps in the canton of Graubünden. It flows through Lake Constance and forms the border between Switzerland, Liechtenstein, Austria, and Germany for long stretches. In Basel, the river leaves Switzerland heading north.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge des Flusses: 1233 Kilometer", "Länge innerhalb der Schweiz: 375 Kilometer", "Grösster Wasserfall: Rheinfall bei Schaffhausen", "Einzugsgebiet: 185.000 km²", "Durchschnittliche Abflussmenge Basel: 1030 m³/s", "Anzahl der Anrainerstaaten: 6 Länder"],
+      hu: ["A folyó teljes hossza: 1233 kilométer", "Svájci szakasz hossza: 375 kilométer", "Legnagyobb vízesése: Rajna-vízesés Schaffhausennél", "Vízgyűjtő területe: 185 000 km²", "Átlagos vízhozam Bázelnél: 1030 m³/s", "Part menti országok száma: 6 ország"],
+      ro: ["Lungimea totală a fluviului: 1233 kilometri", "Lungimea în interiorul Elveției: 375 kilometri", "Cea mai mare cascadă: Cascada Rinului de lângă Schaffhausen", "Bazin hidrografic: 185.000 km²", "Debit mediu la Basel: 1030 m³/s", "Numărul țărilor riverane: 6 țări"],
+      en: ["Total river length: 1,233 kilometers", "Length within Switzerland: 375 kilometers", "Largest waterfall: Rhine Falls near Schaffhausen", "Drainage basin: 185,000 km²", "Average discharge at Basel: 1,030 m³/s", "Number of bordering countries: 6 countries"],
+    },
   },
   {
     id: "forest-sihlwald",
@@ -1767,7 +2049,19 @@ export const switzerlandCities: POI[] = [
         "It works well for walks and nature observation."
       ]
     },
-    image: "/geo-images/switzerland/forest-sihlwald.webp"
+    image: "/geo-images/switzerland/forest-sihlwald.webp",
+    descriptionAdvanced: {
+      de: "Der Sihlwald ist der grösste zusammenhängende Laubmischwald im Schweizer Mittelland und liegt südlich von Zürich. Seit dem Jahr 2000 wird er nicht mehr forstwirtschaftlich genutzt, um sich zu einem Naturwald zu entwickeln. Er wurde 2009 offiziell als erster Naturerlebnispark der Schweiz zertifiziert.",
+      hu: "A Sihlwald a Svájci-fennsík legnagyobb összefüggő lombhullató elegyes erdeje, Zürich-től délre. 2000 óta nincs erdőgazdálkodás, hogy természetes erdővé fejlődhessen. 2009-ben hivatalosan Svájc első natúrparkjává minősítették.",
+      ro: "Sihlwald este cea mai mare pădure mixtă de foioase contiguă din Platoul Elvețian, situată la sud de Zurich. Din anul 2000, nu mai este exploatată forestier pentru a se dezvolta într-o pădure naturală. În 2009, a fost certificat oficial ca primul parc natural din Elveția.",
+      en: "The Sihlwald is the largest contiguous mixed deciduous forest in the Swiss Plateau, located south of Zurich. Since 2000, it has not been used for forestry to allow it to develop into a natural forest. In 2009, it was officially certified as Switzerland's first nature discovery park.",
+    },
+    factsAdvanced: {
+      de: ["Fläche des Waldgebiets: 11 Quadratkilometer", "Jahr der Nutzungsaufgabe: 2000", "Zertifizierung als Naturpark: 2009", "Anteil der Buchen im Bestand: ca. 40 Prozent", "Länge des Wanderwegnetzes: 72 Kilometer", "Besucherzentrum Standort: Sihlbrugg Station"],
+      hu: ["Az erdőterület nagysága: 11 négyzetkilométer", "A fakitermelés leállításának éve: 2000", "Natúrparkká minősítés éve: 2009", "Bükkfák aránya: kb. 40 százalék", "Túraútvonalak hossza: 72 kilométer", "Látogatóközpont helyszíne: Sihlbrugg állomás"],
+      ro: ["Suprafața zonei forestiere: 11 kilometri pătrați", "Anul încetării exploatării: 2000", "Anul certificării ca parc natural: 2009", "Procentul de fagi: aprox. 40 la sută", "Lungimea rețelei de trasee: 72 kilometri", "Locația centrului pentru vizitatori: stația Sihlbrugg"],
+      en: ["Forest area size: 11 square kilometers", "Year forestry use ceased: 2000", "Nature park certification year: 2009", "Percentage of beech trees: approx. 40 percent", "Hiking trail network length: 72 kilometers", "Visitor center location: Sihlbrugg Station"],
+    },
   },
   {
     id: "island-st-peters-island",
@@ -1816,7 +2110,19 @@ export const switzerlandCities: POI[] = [
         "The island combines natural and cultural history."
       ]
     },
-    image: "/geo-images/switzerland/island-st-peters-island.webp"
+    image: "/geo-images/switzerland/island-st-peters-island.webp",
+    descriptionAdvanced: {
+      de: "Die St. Petersinsel liegt im Bielersee und ist durch einen künstlich angelegten Kanal mit dem Ufer verbunden. Bekannt wurde sie vor allem durch den Aufenthalt des Philosophen Jean-Jacques Rousseau im Jahr 1765. Heute beherbergt das ehemalige Cluniazenser-Kloster auf der Insel ein Hotel und ein Restaurant.",
+      hu: "A Szent Péter-sziget a Bieli-tóban található, és egy mesterséges csatorna köti össze a parttal. Ismertségét főként Jean-Jacques Rousseau filozófusnak köszönheti, aki 1765-ben itt tartózkodott. Az egykori clunyi kolostor ma szállodaként és étteremként működik a szigeten.",
+      ro: "Insula Sfântul Petru este situată în Lacul Biel și este conectată de mal printr-un canal artificial. A devenit cunoscută mai ales datorită șederii filosofului Jean-Jacques Rousseau în 1765. Astăzi, fosta mănăstire cluniacă de pe insulă găzduiește un hotel și un restaurant.",
+      en: "St. Peter's Island is located in Lake Biel and is connected to the shore by an artificial canal. It became well known due to the stay of philosopher Jean-Jacques Rousseau in 1765. Today, the former Cluniac monastery on the island houses a hotel and a restaurant.",
+    },
+    factsAdvanced: {
+      de: ["Aufenthalt von Rousseau: September bis Oktober 1765", "Baujahr der Klosterkirche: 12. Jahrhundert", "Anschluss an das Ufer: seit der Juragewässerkorrektion 1878", "Länge der Insel: ca. 5 Kilometer", "Anzahl der Rebstöcke: ca. 35.000", "Schutzstatus: Naturschutzgebiet seit 1965"],
+      hu: ["Rousseau itt tartózkodása: 1765. szeptember-október", "A kolostortemplom építése: 12. század", "Parttal való összekötés: 1878-as vízrendezés óta", "A sziget hossza: kb. 5 kilométer", "Szőlőtőkék száma: kb. 35 000", "Védelmi státusz: természetvédelmi terület 1965 óta"],
+      ro: ["Șederea lui Rousseau: septembrie-octombrie 1765", "Construcția bisericii mănăstirii: secolul al XII-lea", "Conectarea la mal: după corecția apelor din Jura în 1878", "Lungimea insulei: aprox. 5 kilometri", "Numărul vițelor de vie: aprox. 35.000", "Statut de protecție: rezervație naturală din 1965"],
+      en: ["Rousseau's stay: September to October 1765", "Monastery church built: 12th century", "Connected to shore: since 1878 water correction", "Length of the island: approx. 5 kilometers", "Number of grapevines: approx. 35,000", "Protection status: nature reserve since 1965"],
+    },
   },
   {
     id: "landmark-kunsthaus-zurich",
@@ -1865,7 +2171,19 @@ export const switzerlandCities: POI[] = [
         "Zurich benefits strongly from the museum as a cultural brand."
       ]
     },
-    image: "/geo-images/switzerland/landmark-kunsthaus-zurich.webp"
+    image: "/geo-images/switzerland/landmark-kunsthaus-zurich.webp",
+    descriptionAdvanced: {
+      de: "Das Kunsthaus Zürich ist eines der bedeutendsten Kunstmuseen der Schweiz und beherbergt Werke vom Mittelalter bis zur Gegenwart. Ein besonderer Schwerpunkt liegt auf der Sammlung von Alberto Giacometti und bedeutenden Werken des Impressionismus. Mit der Erweiterung durch David Chipperfield im Jahr 2021 wurde es zum grössten Kunstmuseum des Landes.",
+      hu: "A zürichi Kunsthaus Svájc egyik legjelentősebb művészeti múzeuma, amely a középkortól napjainkig őriz alkotásokat. Kiemelt hangsúlyt kap Alberto Giacometti gyűjteménye és az impresszionizmus fontos művei. A 2021-es bővítéssel az ország legnagyobb művészeti múzeumává vált.",
+      ro: "Kunsthaus Zurich este unul dintre cele mai importante muzee de artă din Elveția, adăpostind lucrări din Evul Mediu până în prezent. Un accent deosebit este pus pe colecția lui Alberto Giacometti și pe lucrări majore ale impresionismului. Odată cu extinderea din 2021, a devenit cel mai mare muzeu de artă din țară.",
+      en: "The Kunsthaus Zurich is one of Switzerland's most important art museums, housing works from the Middle Ages to the present. A special focus is placed on the Alberto Giacometti collection and major Impressionist works. With the expansion in 2021, it became the largest art museum in the country.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr des Museums: 1910", "Eröffnung des Chipperfield-Baus: 2021", "Anzahl der Giacometti-Werke: ca. 150", "Ausstellungsfläche gesamt: 11.500 m²", "Besucherzahlen pro Jahr: ca. 300.000", "Standort: Heimplatz, Zürich"],
+      hu: ["Múzeum alapításának éve: 1910", "A Chipperfield-épület megnyitása: 2021", "Giacometti-alkotások száma: kb. 150", "Teljes kiállítótér: 11 500 m²", "Éves látogatószám: kb. 300 000", "Helyszín: Heimplatz, Zürich"],
+      ro: ["Anul fondării muzeului: 1910", "Deschiderea clădirii Chipperfield: 2021", "Numărul lucrărilor de Giacometti: aprox. 150", "Suprafața totală de expoziție: 11.500 m²", "Număr anual de vizitatori: aprox. 300.000", "Locație: Heimplatz, Zurich"],
+      en: ["Museum founding year: 1910", "Chipperfield building opened: 2021", "Number of Giacometti works: approx. 150", "Total exhibition space: 11,500 m²", "Annual visitors: approx. 300,000", "Location: Heimplatz, Zurich"],
+    },
   },
   {
     id: "landmark-swiss-national-museum",
@@ -1914,7 +2232,19 @@ export const switzerlandCities: POI[] = [
         "It is one of the country's best-known museums."
       ]
     },
-    image: "/geo-images/switzerland/landmark-swiss-national-museum.webp"
+    image: "/geo-images/switzerland/landmark-swiss-national-museum.webp",
+    descriptionAdvanced: {
+      de: "Das Schweizerische Nationalmuseum in Zürich, untergebracht in einem burgähnlichen Gebäude von Gustav Gull, zeigt die Geschichte der Schweiz von den Anfängen bis heute. Es beherbergt die grösste kulturgeschichtliche Sammlung des Landes und bietet multimediale Einblicke in die Schweizer Identität. Im Jahr 2016 wurde der Komplex durch einen modernen Anbau ergänzt.",
+      hu: "A zürichi Svájci Nemzeti Múzeum Gustav Gull várkastélyszerű épületében mutatja be az ország történelmét a kezdetektől napjainkig. Itt található Svájc legnagyobb kultúrtörténeti gyűjteménye. 2016-ban a komplexum egy modern szárnnyal bővült.",
+      ro: "Muzeul Național Elvețian din Zurich, găzduit într-o clădire asemănătoare unui castel proiectată de Gustav Gull, prezintă istoria Elveției de la începuturi până astăzi. Adăpostește cea mai mare colecție de istorie culturală din țară. În 2016, complexul a fost completat de o extensie modernă.",
+      en: "The Swiss National Museum in Zurich, housed in a castle-like building by Gustav Gull, showcases the history of Switzerland from its beginnings to the present. It houses the country's largest cultural history collection. In 2016, the complex was supplemented by a modern extension.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung des Museums: 1898", "Architekt des Altbaus: Gustav Gull", "Eröffnung des Erweiterungsbaus: 2016", "Anzahl der Sammlungsobjekte: über 820.000", "Lage: direkt beim Hauptbahnhof Zürich", "Anzahl der Museen im Verbund: 3 Häuser"],
+      hu: ["Múzeum megnyitása: 1898", "Régi épület építésze: Gustav Gull", "Bővítés megnyitása: 2016", "Gyűjteményi tárgyak száma: több mint 820 000", "Helyszín: a zürichi főpályaudvar mellett", "Társintézmények száma: 3 múzeum"],
+      ro: ["Deschiderea muzeului: 1898", "Arhitectul clădirii vechi: Gustav Gull", "Deschiderea extensiei: 2016", "Numărul obiectelor din colecție: peste 820.000", "Locație: lângă Gara Centrală din Zurich", "Numărul de muzee în grup: 3 instituții"],
+      en: ["Museum opened: 1898", "Architect of old building: Gustav Gull", "Extension opened: 2016", "Number of collection objects: over 820,000", "Location: directly by Zurich Main Station", "Number of museums in the group: 3 sites"],
+    },
   },
   {
     id: "landmark-federal-palace",
@@ -1963,7 +2293,19 @@ export const switzerlandCities: POI[] = [
         "Visits and guided tours are an important part of the experience."
       ]
     },
-    image: "/geo-images/switzerland/landmark-federal-palace.webp"
+    image: "/geo-images/switzerland/landmark-federal-palace.webp",
+    descriptionAdvanced: {
+      de: "Das Bundeshaus in Bern ist der Sitz der Schweizer Regierung und des Parlaments. Das zwischen 1894 und 1902 unter der Leitung von Hans Wilhelm Auer errichtete Gebäude ist ein Symbol für die Einheit des Bundesstaates. Die markante Kuppel wird von den Wappen der 22 Kantone geschmückt, die 1902 existierten.",
+      hu: "A berni Bundeshaus a svájci kormány és a parlament székhelye. Az 1894 és 1902 között Hans Wilhelm Auer vezetésével épült épület a szövetségi állam egységének szimbóluma. A jellegzetes kupolát az 1902-ben létező 22 kanton címere díszíti.",
+      ro: "Palatul Federal din Berna este sediul guvernului și parlamentului elvețian. Construită între 1894 și 1902 sub conducerea lui Hans Wilhelm Auer, clădirea este un simbol al unității statului federal. Domul proeminent este decorat cu stemele celor 22 de cantoane existente în 1902.",
+      en: "The Federal Palace in Bern is the seat of the Swiss government and parliament. Built between 1894 and 1902 under the direction of Hans Wilhelm Auer, the building is a symbol of federal unity. The prominent dome is decorated with the coats of arms of the 22 cantons that existed in 1902.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit des Parlamentsgebäudes: 1894–1902", "Anzahl der Wasserdüsen auf dem Bundesplatz: 26", "Höhe der Kuppel: 64 Meter", "Verwendete Gesteinsarten: 30 verschiedene Schweizer Steine", "Anzahl der Parlamentssitze: 246", "Baukosten damals: 7,2 Millionen Franken"],
+      hu: ["Parlament építésének ideje: 1894–1902", "Vízsugarak száma a Bundesplatzon: 26", "Kupola magassága: 64 méter", "Felhasznált kőfajták: 30 különböző svájci kő", "Parlamenti helyek száma: 246", "Építési költség akkor: 7,2 millió frank"],
+      ro: ["Perioada de construcție: 1894–1902", "Numărul jeturilor de apă din Bundesplatz: 26", "Înălțimea domului: 64 metri", "Tipuri de piatră utilizate: 30 de pietre elvețiene diferite", "Numărul locurilor în parlament: 246", "Costul construcției atunci: 7,2 milioane franci"],
+      en: ["Construction period: 1894–1902", "Number of water jets on Bundesplatz: 26", "Dome height: 64 meters", "Types of stone used: 30 different Swiss stones", "Number of parliamentary seats: 246", "Construction cost then: 7.2 million francs"],
+    },
   },
   {
     id: "landmark-olympic-museum",
@@ -2012,7 +2354,19 @@ export const switzerlandCities: POI[] = [
         "It is an important symbol of Lausanne."
       ]
     },
-    image: "/geo-images/switzerland/landmark-olympic-museum.webp"
+    image: "/geo-images/switzerland/landmark-olympic-museum.webp",
+    descriptionAdvanced: {
+      de: "Das Olympische Museum in Lausanne ist dem Vermächtnis und den Werten der Olympischen Bewegung gewidmet. Auf drei Etagen bietet es eine interaktive Zeitreise von der Antike bis zur modernen Ära der Spiele. Es liegt in einem weitläufigen Skulpturenpark direkt am Ufer des Genfersees.",
+      hu: "A lausanne-i Olimpiai Múzeum az olimpiai mozgalom örökségének és értékeinek szentelt intézmény. Három emeleten kínál interaktív időutazást az ókortól a játékok modern korszakáig. A múzeum egy tágas szoborparkban, közvetlenül a Genfi-tó partján fekszik.",
+      ro: "Muzeul Olimpic din Lausanne este dedicat moștenirii și valorilor mișcării olimpice. Pe trei etaje, oferă o călătorie interactivă în timp, din antichitate până în era modernă a jocurilor. Este situat într-un parc de sculpturi spațios, direct pe malul lacului Geneva.",
+      en: "The Olympic Museum in Lausanne is dedicated to the legacy and values of the Olympic movement. Across three floors, it offers an interactive journey through time from antiquity to the modern era of the games. It is located in a spacious sculpture park directly on the shores of Lake Geneva.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung des Museums: 23. Juni 1993", "Wiedereröffnung nach Renovierung: 2013", "Anzahl der Exponate: über 10.000", "Anzahl der Bildschirme: ca. 150", "Besucher pro Jahr: ca. 250.000", "Fläche des Skulpturenparks: 8000 m²"],
+      hu: ["Múzeum megnyitása: 1993. június 23.", "Újramegnyitás felújítás után: 2013", "Kiállított tárgyak száma: több mint 10 000", "Képernyők száma: kb. 150", "Éves látogatószám: kb. 250 000", "Szoborpark területe: 8000 m²"],
+      ro: ["Deschiderea muzeului: 23 iunie 1993", "Redeschiderea după renovare: 2013", "Numărul exponatelor: peste 10.000", "Numărul ecranelor: aprox. 150", "Vizitatori anuali: aprox. 250.000", "Suprafața parcului de sculpturi: 8000 m²"],
+      en: ["Museum opened: June 23, 1993", "Reopened after renovation: 2013", "Number of exhibits: over 10,000", "Number of screens: approx. 150", "Annual visitors: approx. 250,000", "Sculpture park area: 8,000 m²"],
+    },
   },
   {
     id: "landmark-rolex-learning-center",
@@ -2061,7 +2415,19 @@ export const switzerlandCities: POI[] = [
         "The site highlights Lausanne as an innovation city."
       ]
     },
-    image: "/geo-images/switzerland/landmark-rolex-learning-center.webp"
+    image: "/geo-images/switzerland/landmark-rolex-learning-center.webp",
+    descriptionAdvanced: {
+      de: "Das Rolex Learning Center ist das Bibliotheks- und Kulturzentrum der EPFL in Lausanne. Der futuristische Bau des japanischen Architekturbüros SANAA zeichnet sich durch seine wellenförmige Struktur und das Fehlen von Trennwänden aus. Es gilt als eines der innovativsten Gebäude der modernen Architektur in der Schweiz.",
+      hu: "A Rolex Learning Center a lausanne-i EPFL könyvtára és kulturális központja. A japán SANAA építésziroda futurisztikus épületét hullámzó szerkezet és a válaszfalak hiánya jellemzi. Svájc modern építészetének egyik leginnovatívabb alkotásának tartják.",
+      ro: "Rolex Learning Center este biblioteca și centrul cultural al EPFL din Lausanne. Clădirea futuristă a biroului de arhitectură japonez SANAA se caracterizează prin structura sa ondulată și absența pereților despărțitori. Este considerată una dintre cele mai inovatoare clădiri ale arhitecturii moderne din Elveția.",
+      en: "The Rolex Learning Center is the library and cultural center of the EPFL in Lausanne. The futuristic building by the Japanese architectural firm SANAA is characterized by its wavy structure and the absence of partition walls. It is considered one of the most innovative buildings of modern architecture in Switzerland.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 22. Februar 2010", "Architekten: Kazuyo Sejima und Ryue Nishizawa", "Grundfläche: 20.200 m²", "Anzahl der Bücher: ca. 500.000", "Anzahl der Lichthöfe: 14", "Maximale Spannweite der Wellen: 90 Meter"],
+      hu: ["Megnyitás: 2010. február 22.", "Építészek: Kazuyo Sejima és Ryue Nishizawa", "Alapterület: 20 200 m²", "Könyvek száma: kb. 500 000", "Belső udvarok száma: 14", "Hullámok maximális fesztávolsága: 90 méter"],
+      ro: ["Inaugurare: 22 februarie 2010", "Arhitecți: Kazuyo Sejima și Ryue Nishizawa", "Suprafață la sol: 20.200 m²", "Numărul cărților: aprox. 500.000", "Numărul curților interioare: 14", "Deschiderea maximă a valurilor: 90 metri"],
+      en: ["Opening: February 22, 2010", "Architects: Kazuyo Sejima and Ryue Nishizawa", "Floor area: 20,200 m²", "Number of books: approx. 500,000", "Number of internal patios: 14", "Maximum span of the waves: 90 meters"],
+    },
   },
   {
     id: "landmark-fifa-museum",
@@ -2110,7 +2476,19 @@ export const switzerlandCities: POI[] = [
         "It is a strong destination for sports tourism."
       ]
     },
-    image: "/geo-images/switzerland/landmark-fifa-museum.webp"
+    image: "/geo-images/switzerland/landmark-fifa-museum.webp",
+    descriptionAdvanced: {
+      de: "Das FIFA Museum in Zürich widmet sich der Geschichte und Faszination des Weltfussballs. In einer interaktiven Ausstellung werden über 1000 Exponate gezeigt, darunter der originale WM-Pokal. Das Museum bietet zudem zahlreiche multimediale Stationen und ein riesiges Fussball-Pinball-Spiel.",
+      hu: "A zürichi FIFA Múzeum a világfutball történelmének és varázsának szentelt intézmény. Az interaktív kiállításon több mint 1000 tárgyat láthatunk, köztük az eredeti világbajnoki trófeát. A múzeumban számos multimédiás állomás és egy hatalmas futball-flipper is található.",
+      ro: "Muzeul FIFA din Zurich este dedicat istoriei și fascinației fotbalului mondial. Într-o expoziție interactivă, sunt prezentate peste 1000 de exponate, inclusiv trofeul original al Cupei Mondiale. Muzeul oferă, de asemenea, numeroase stații multimedia și un joc gigant de pinball de fotbal.",
+      en: "The FIFA Museum in Zurich is dedicated to the history and fascination of world football. An interactive exhibition displays over 1,000 exhibits, including the original World Cup trophy. The museum also features numerous multimedia stations and a giant football pinball game.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 28. Februar 2016", "Ausstellungsfläche: 3000 m²", "Anzahl der Exponate: ca. 1000", "Anzahl der gezeigten Nationaltrikots: 211", "Investitionskosten: 140 Millionen Franken", "Standort: gegenüber dem Bahnhof Enge"],
+      hu: ["Megnyitás: 2016. február 28.", "Kiállítótér: 3000 m²", "Tárgyak száma: kb. 1000", "Bemutatott válogatott mezek száma: 211", "Beruházási költség: 140 millió frank", "Helyszín: az Enge pályaudvarral szemben"],
+      ro: ["Inaugurare: 28 februarie 2016", "Suprafața de expoziție: 3000 m²", "Numărul exponatelor: aprox. 1000", "Numărul tricourilor naționale expuse: 211", "Costul investiției: 140 milioane franci", "Locație: vis-a-vis de gara Enge"],
+      en: ["Opening: February 28, 2016", "Exhibition space: 3,000 m²", "Number of exhibits: approx. 1,000", "National jerseys displayed: 211", "Investment cost: 140 million francs", "Location: opposite Enge station"],
+    },
   },
   {
     id: "landmark-fondation-beyeler",
@@ -2159,7 +2537,19 @@ export const switzerlandCities: POI[] = [
         "The museum appeals to art and architecture fans."
       ]
     },
-    image: "/geo-images/switzerland/landmark-fondation-beyeler.webp"
+    image: "/geo-images/switzerland/landmark-fondation-beyeler.webp",
+    descriptionAdvanced: {
+      de: "Die Fondation Beyeler in Riehen bei Basel gilt als eines der schönsten Kunstmuseen weltweit. Das vom Architekten Renzo Piano entworfene Gebäude fügt sich harmonisch in einen englischen Park ein. Die Sammlung umfasst bedeutende Werke der klassischen Moderne, von Claude Monet bis Pablo Picasso.",
+      hu: "A bázeli Riehenben található Fondation Beyeler a világ egyik legszebb művészeti múzeumaként ismert. A Renzo Piano által tervezett épület harmonikusan illeszkedik egy angolparkba. A gyűjtemény a klasszikus modernizmus jelentős alkotásait tartalmazza Claude Monet-tól Pablo Picassóig.",
+      ro: "Fondation Beyeler din Riehen, lângă Basel, este considerată unul dintre cele mai frumoase muzee de artă din lume. Clădirea proiectată de arhitectul Renzo Piano se integrează armonios într-un parc englezesc. Colecția include lucrări majore de modernism clasic, de la Claude Monet la Pablo Picasso.",
+      en: "The Fondation Beyeler in Riehen near Basel is considered one of the most beautiful art museums in the world. The building designed by architect Renzo Piano blends harmoniously into an English park. The collection includes major works of classic modernism, from Claude Monet to Pablo Picasso.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung des Museums: 1997", "Architekt: Renzo Piano", "Anzahl der Kunstwerke: über 400", "Besucher pro Jahr: ca. 330.000", "Gründer: Ernst und Hildy Beyeler", "Länge des Museumsbaus: 127 Meter"],
+      hu: ["Múzeum megnyitása: 1997", "Építész: Renzo Piano", "Műalkotások száma: több mint 400", "Éves látogatószám: kb. 330 000", "Alapítók: Ernst és Hildy Beyeler", "Múzeumépület hossza: 127 méter"],
+      ro: ["Deschiderea muzeului: 1997", "Arhitect: Renzo Piano", "Numărul operelor de artă: peste 400", "Vizitatori anuali: aprox. 330.000", "Fondatori: Ernst și Hildy Beyeler", "Lungimea clădirii muzeului: 127 metri"],
+      en: ["Museum opened: 1997", "Architect: Renzo Piano", "Number of artworks: over 400", "Annual visitors: approx. 330,000", "Founders: Ernst and Hildy Beyeler", "Length of the building: 127 meters"],
+    },
   },
   {
     id: "landmark-cern-science-gateway",
@@ -2208,7 +2598,19 @@ export const switzerlandCities: POI[] = [
         "The site strengthens Geneva's international image."
       ]
     },
-    image: "/geo-images/switzerland/landmark-cern-science-gateway.webp"
+    image: "/geo-images/switzerland/landmark-cern-science-gateway.webp",
+    descriptionAdvanced: {
+      de: "Das CERN Science Gateway in Genf ist ein hochmodernes Zentrum für Wissenschaftskommunikation und Bildung. Entworfen vom Architekten Renzo Piano, soll es die Forschung des Teilchenphysikzentrums CERN einer breiten Öffentlichkeit zugänglich machen. Die Architektur ist inspiriert von der Form der Teilchenbeschleuniger-Röhren.",
+      hu: "A genfi CERN Science Gateway egy ultramodern tudományos kommunikációs és oktatási központ. A Renzo Piano által tervezett épület célja, hogy a CERN részecskefizikai kutatásait közelebb hozza a nagyközönséghez. Az építészetet a részecskegyorsító csöveinek formája ihlette.",
+      ro: "CERN Science Gateway din Geneva este un centru ultramodern pentru comunicare științifică și educație. Proiectat de arhitectul Renzo Piano, acesta își propune să facă cercetările centrului de fizică a particulelor CERN accesibile publicului larg. Arhitectura este inspirată de forma tuburilor acceleratorului de particule.",
+      en: "The CERN Science Gateway in Geneva is a state-of-the-art center for science communication and education. Designed by architect Renzo Piano, it aims to make the research of the CERN particle physics center accessible to a broad public. The architecture is inspired by the shape of the particle accelerator tubes.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 7. Oktober 2023", "Architekt: Renzo Piano Building Workshop", "Nutzfläche: 8000 m²", "Anzahl der Solarpaneele: ca. 4000", "Kapazität des Auditoriums: 900 Personen", "Besuchereintritt: kostenlos"],
+      hu: ["Megnyitás: 2023. október 7.", "Építész: Renzo Piano Building Workshop", "Hasznos terület: 8000 m²", "Napelemek száma: kb. 4000", "Auditórium befogadóképessége: 900 fő", "Belépés a látogatóknak: ingyenes"],
+      ro: ["Inaugurare: 7 octombrie 2023", "Arhitect: Renzo Piano Building Workshop", "Suprafață utilă: 8000 m²", "Numărul panourilor solare: aprox. 4000", "Capacitatea auditoriului: 900 de persoane", "Intrarea vizitatorilor: gratuită"],
+      en: ["Opening: October 7, 2023", "Architect: Renzo Piano Building Workshop", "Floor area: 8,000 m²", "Number of solar panels: approx. 4,000", "Auditorium capacity: 900 people", "Visitor admission: free of charge"],
+    },
   },
   {
     id: "port-basel",
@@ -2257,7 +2659,19 @@ export const switzerlandCities: POI[] = [
         "The Rhine port is a strong industrial symbol."
       ]
     },
-    image: "/geo-images/switzerland/port-basel.webp"
+    image: "/geo-images/switzerland/port-basel.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen Basel ist der einzige Rheinhafen der Schweiz und ein zentraler Knotenpunkt für den internationalen Güterverkehr. Er besteht aus den drei Hafenbecken Kleinhüningen, Birsfelden und Muttenz. Über den Rhein ist die Schweiz direkt an die Seehäfen von Rotterdam, Antwerpen und Amsterdam angebunden.",
+      hu: "A bázeli kikötő Svájc egyetlen rajnai kikötője, és a nemzetközi áruforgalom központi csomópontja. Három medencéből áll: Kleinhüningen, Birsfelden és Muttenz. A Rajnán keresztül Svájc közvetlen összeköttetésben áll Rotterdam, Antwerpen és Amszterdam tengeri kikötőivel.",
+      ro: "Portul Basel este singurul port de pe Rin din Elveția și un nod central pentru traficul internațional de mărfuri. Este format din cele trei bazine portuare Kleinhüningen, Birsfelden și Muttenz. Prin Rin, Elveția este conectată direct la porturile maritime Rotterdam, Anvers și Amsterdam.",
+      en: "The Port of Basel is Switzerland's only Rhine port and a central hub for international freight traffic. It consists of the three port basins: Kleinhüningen, Birsfelden, and Muttenz. Via the Rhine, Switzerland is directly connected to the seaports of Rotterdam, Antwerp, and Amsterdam.",
+    },
+    factsAdvanced: {
+      de: ["Umschlagvolumen pro Jahr: ca. 6 Millionen Tonnen", "Anteil am Schweizer Aussenhandel: ca. 10 Prozent", "Anzahl der Hafenbecken: 3", "Eröffnung des ersten Hafenbeckens: 1922", "Anzahl der jährlichen Schiffsbewegungen: ca. 5000", "Wichtigste Gütergruppe: Mineralölprodukte"],
+      hu: ["Éves áruforgalom: kb. 6 millió tonna", "Svájci külkereskedelemben betöltött részarány: kb. 10 százalék", "Kikötőmedencék száma: 3", "Első kikötőmedence megnyitása: 1922", "Éves hajómozgások száma: kb. 5000", "Legfontosabb árucsoport: kőolajtermékek"],
+      ro: ["Volumul anual de transbordare: aprox. 6 milioane tone", "Ponderea în comerțul exterior elvețian: aprox. 10 la sută", "Numărul bazinelor portuare: 3", "Deschiderea primului bazin portuar: 1922", "Numărul anual de mișcări de nave: aprox. 5000", "Grupul principal de mărfuri: produse petroliere"],
+      en: ["Annual handling volume: approx. 6 million tons", "Share of Swiss foreign trade: approx. 10 percent", "Number of port basins: 3", "First port basin opened: 1922", "Annual ship movements: approx. 5,000", "Most important cargo group: mineral oil products"],
+    },
   },
   {
     id: "port-birsfelden",
@@ -2306,7 +2720,19 @@ export const switzerlandCities: POI[] = [
         "The site matters for trade and transport."
       ]
     },
-    image: "/geo-images/switzerland/port-birsfelden.webp"
+    image: "/geo-images/switzerland/port-birsfelden.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen Birsfelden ist ein bedeutender Logistikstandort am Rhein im Kanton Basel-Landschaft. Er bildet zusammen mit Basel und Muttenz den Verbund der Schweizerischen Rheinhäfen. Spezialisiert ist die Anlage vor allem auf den Umschlag von flüssigen Treibstoffen und Trockengütern. Die strategische Lage am Ende der schiffbaren Wasserstraße macht ihn zu einem zentralen Tor für Schweizer Importe.",
+      hu: "Birsfelden kikötője fontos logisztikai központ a Rajna mentén, Basel-vidék kantonban. Bázellel és Muttenzcel együtt alkotja a Svájci Rajnai Kikötők hálózatát. A létesítmény elsősorban folyékony üzemanyagok és ömlesztett áruk átrakodására szakosodott. Stratégiai elhelyezkedése a hajózható vízi út végén a svájci import egyik központi kapujává teszi.",
+      ro: "Portul Birsfelden este un centru logistic important pe Rin, în cantonul Basel-Provincie. Împreună cu Basel și Muttenz, formează rețeaua Porturilor Elvețiene de pe Rin. Facilitatea este specializată în transbordarea combustibililor lichizi și a mărfurilor vrac. Poziția sa strategică la capătul căii navigabile îl face o poartă centrală pentru importurile elvețiene.",
+      en: "The Port of Birsfelden is a major logistics hub on the Rhine in the canton of Basel-Landschaft. Together with Basel and Muttenz, it forms the Swiss Rhine Ports association. The facility specializes in the handling of liquid fuels and bulk dry goods. Its strategic location at the end of the navigable waterway makes it a central gateway for Swiss imports.",
+    },
+    factsAdvanced: {
+      de: ["Teil der Schweizerischen Rheinhäfen", "Jahresumschlag von über 1 Million Tonnen", "Lagerkapazität für 400.000 m³ Treibstoff", "Inbetriebnahme in den 1950er Jahren", "Anschluss an das nationale Schienennetz", "Zuständig für 10% der Schweizer Außenhandelsgüter"],
+      hu: ["A Svájci Rajnai Kikötők része", "Évi több mint 1 millió tonna áruforgalom", "400 000 m³ üzemanyag-tároló kapacitás", "Üzembe helyezés az 1950-es években", "Közvetlen csatlakozás az SBB vasúti hálózathoz", "A svájci külkereskedelem 10%-a itt halad át"],
+      ro: ["Parte a Porturilor Elvețiene de pe Rin", "Trafic anual de peste 1 milion de tone", "Capacitate de stocare de 400.000 m³ de combustibil", "Punere în funcțiune în anii 1950", "Conexiune la rețeaua feroviară națională SBB", "Gestionează 10% din comerțul exterior elvețian"],
+      en: ["Part of the Swiss Rhine Ports", "Annual turnover of over 1 million tonnes", "Storage capacity for 400,000 m³ of fuel", "Commissioned in the 1950s", "Connection to the national SBB rail network", "Handles 10% of Swiss foreign trade goods"],
+    },
   },
   {
     id: "industry-swissmill-tower",
@@ -2355,7 +2781,19 @@ export const switzerlandCities: POI[] = [
         "It is an example of urban industrial architecture."
       ]
     },
-    image: "/geo-images/switzerland/industry-swissmill-tower.webp"
+    image: "/geo-images/switzerland/industry-swissmill-tower.webp",
+    descriptionAdvanced: {
+      de: "Der Swissmill-Tower in Zürich ist mit 118 Metern das höchste Getreidesilo der Welt. Der markante Betonbau wurde 2016 fertiggestellt und dient der Mehlproduktion für den Schweizer Markt. Er kann bis zu 40.000 Tonnen Getreide lagern und ersetzt mehrere dezentrale Standorte. Das Gebäude ist ein markantes Beispiel für moderne vertikale Industriebauweise in einem urbanen Raum.",
+      hu: "A zürichi Swissmill-torony 118 méteres magasságával a világ legmagasabb gabonasilója. A jellegzetes betonépületet 2016-ban fejezték be, és a svájci piac lisztellátását szolgálja. Akár 40 000 tonna gabona tárolására is alkalmas, több korábbi telephelyet kiváltva. Az építmény a modern vertikális ipari építészet kiemelkedő példája városi környezetben.",
+      ro: "Turnul Swissmill din Zürich este cel mai înalt siloz de cereale din lume, având 118 metri. Construcția din beton a fost finalizată în 2016 și servește producției de făină pentru piața elvețiană. Poate stoca până la 40.000 de tone de cereale, înlocuind mai multe locații anterioare. Clădirea este un exemplu remarcabil de arhitectură industrială verticală în mediul urban.",
+      en: "The Swissmill Tower in Zurich is the world's tallest grain silo, standing at 118 meters. The striking concrete structure was completed in 2016 and serves flour production for the Swiss market. It can store up to 40,000 tonnes of grain, replacing several previous decentralized locations. The building is a prominent example of modern vertical industrial architecture in an urban setting.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 118 Metern", "Fertigstellung im Jahr 2016", "Lagerkapazität von 40.000 Tonnen Getreide", "Weltweit höchstes Getreidesilo", "Standort im Zürcher Industriequartier", "Besitz der Firma Coop"],
+      hu: ["118 méter magas", "2016-ban készült el", "40 000 tonna gabona tárolókapacitás", "A világ legmagasabb gabonasilója", "Zürich ipari negyedében található", "A Coop vállalat tulajdona"],
+      ro: ["Înălțime de 118 metri", "Finalizat în anul 2016", "Capacitate de stocare de 40.000 de tone", "Cel mai înalt siloz de cereale din lume", "Situat în cartierul industrial din Zürich", "Deținut de compania Coop"],
+      en: ["Height of 118 meters", "Completed in 2016", "Storage capacity of 40,000 tonnes", "World's tallest grain silo", "Located in Zurich's industrial quarter", "Owned by the company Coop"],
+    },
   },
   {
     id: "industry-novartis-campus",
@@ -2404,7 +2842,19 @@ export const switzerlandCities: POI[] = [
         "The site has international economic relevance."
       ]
     },
-    image: "/geo-images/switzerland/industry-novartis-campus.webp"
+    image: "/geo-images/switzerland/industry-novartis-campus.webp",
+    descriptionAdvanced: {
+      de: "Der Novartis Campus in Basel ist der globale Hauptsitz des Pharmakonzerns und ein Zentrum für Forschung und Innovation. Das Areal wurde nach einem Masterplan von Vittorio Magnago Lampugnani in eine moderne Wissensstadt umgewandelt. Zahlreiche Gebäude wurden von weltweit führenden Architekten wie Frank Gehry und Herzog & de Meuron entworfen. Der Campus verbindet hochmoderne Laboratorien mit großzügigen Grünflächen.",
+      hu: "A bázeli Novartis Campus a gyógyszeripari óriás globális központja, valamint a kutatás és innováció fellegvára. A területet Vittorio Magnago Lampugnani mesterterve alapján alakították át modern tudásvárossá. Számos épületét olyan világhírű építészek tervezték, mint Frank Gehry vagy Herzog & de Meuron. A campus ultramodern laboratóriumokat ötvöz tágas zöldfelületekkel.",
+      ro: "Campusul Novartis din Basel este sediul global al gigantului farmaceutic și un centru de cercetare și inovare. Zona a fost transformată într-un oraș modern al cunoașterii conform planului director al lui Vittorio Magnago Lampugnani. Numeroase clădiri au fost proiectate de arhitecți de renume mondial precum Frank Gehry și Herzog & de Meuron. Campusul îmbină laboratoarele de ultimă oră cu spații verzi generoase.",
+      en: "The Novartis Campus in Basel is the pharmaceutical giant's global headquarters and a hub for research and innovation. The site was transformed into a modern city of knowledge following a master plan by Vittorio Magnago Lampugnani. Numerous buildings were designed by world-leading architects such as Frank Gehry and Herzog & de Meuron. The campus combines state-of-the-art laboratories with spacious green areas.",
+    },
+    factsAdvanced: {
+      de: ["Sitz in Basel am Rheinknie", "Über 10.000 Arbeitsplätze vor Ort", "Masterplan von Lampugnani seit 2001", "Gebäude von 10 Pritzker-Preisträgern", "Zentrum für Onkologie-Forschung", "Seit 2022 teilweise für die Öffentlichkeit zugänglich"],
+      hu: ["Bázelben, a Rajna-kanyarnál található", "Több mint 10 000 munkahely a helyszínen", "Lampugnani-féle mesterterv 2001 óta", "10 Pritzker-díjas építész tervezett itt épületet", "Az onkológiai kutatás központja", "2022 óta részben nyitva áll a nyilvánosság előtt"],
+      ro: ["Situat în Basel, la cotul Rinului", "Peste 10.000 de locuri de muncă la fața locului", "Plan director de Lampugnani din 2001", "Clădiri proiectate de 10 laureați ai premiului Pritzker", "Centru pentru cercetare oncologică", "Deschis parțial publicului din 2022"],
+      en: ["Located in Basel at the Rhine knee", "Over 10,000 jobs on-site", "Lampugnani master plan since 2001", "Buildings by 10 Pritzker Prize winners", "Center for oncology research", "Partially open to the public since 2022"],
+    },
   },
   {
     id: "agriculture-lavaux-vineyards",
@@ -2453,7 +2903,19 @@ export const switzerlandCities: POI[] = [
         "Lavaux is a strong destination for tourism and gastronomy."
       ]
     },
-    image: "/geo-images/switzerland/agriculture-lavaux-vineyards.webp"
+    image: "/geo-images/switzerland/agriculture-lavaux-vineyards.webp",
+    descriptionAdvanced: {
+      de: "Das Weinbaugebiet Lavaux am Genfersee ist bekannt für seine steilen, terrassierten Weinberge und gehört seit 2007 zum UNESCO-Welterbe. Die heutige Form der Terrassen geht auf die Zisterziensermönche im 11. Jahrhundert zurück. Hier profitiert der Wein von der Reflexion des Sonnenlichts durch den See und die Steinmauern. Die Region erstreckt sich über rund 800 Hektar zwischen Lausanne und Vevey.",
+      hu: "A Genfi-tó partján fekvő Lavaux borvidék meredek, teraszos szőlőültetvényeiről ismert, és 2007 óta az UNESCO Világörökség része. A teraszok mai formája a 11. századi ciszterci szerzetesek munkájára nyúlik vissza. A szőlő itt profitál a tó és a kőfalak által visszavert napsugárzásból. A régió mintegy 800 hektáron terül el Lausanne és Vevey között.",
+      ro: "Regiunea viticolă Lavaux de pe malul lacului Geneva este celebră pentru podgoriile sale terasate abrupte și face parte din Patrimoniul Mondial UNESCO din 2007. Forma actuală a teraselor datează de la călugării cistercieni din secolul al XI-lea. Aici, vița de vie beneficiază de reflexia luminii solare de către lac și zidurile de piatră. Regiunea se întinde pe aproximativ 800 de hectare între Lausanne și Vevey.",
+      en: "The Lavaux vineyard region on Lake Geneva is famous for its steep, terraced vineyards and has been a UNESCO World Heritage site since 2007. The current form of the terraces dates back to Cistercian monks in the 11th century. Here, the vines benefit from sunlight reflected by both the lake and the stone walls. The region covers approximately 800 hectares between Lausanne and Vevey.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe seit 2007", "800 Hektar Gesamtfläche", "Terrassenmauern mit 400 km Gesamtlänge", "Hauptrebsorte ist der Chasselas", "Ursprung im 11. Jahrhundert", "Drei Wärmequellen: Sonne, See-Reflexion, Mauerspeicher"],
+      hu: ["UNESCO Világörökség 2007 óta", "800 hektár összterület", "400 km összhosszúságú teraszfal", "A fő szőlőfajta a Chasselas", "Eredete a 11. századig nyúlik vissza", "Három hőforrás: nap, tó visszatükröződése, kőfalak"],
+      ro: ["Patrimoniu Mondial UNESCO din 2007", "Suprafață totală de 800 de hectare", "400 km de ziduri de terasă în total", "Soiul principal de struguri este Chasselas", "Origini în secolul al XI-lea", "Trei surse de căldură: soarele, reflexia lacului, zidurile"],
+      en: ["UNESCO World Heritage since 2007", "800 hectares total area", "400 km total length of terrace walls", "Main grape variety is Chasselas", "Origins dating back to the 11th century", "Three heat sources: sun, lake reflection, stone walls"],
+    },
   },
   {
     id: "agriculture-emmental-dairy",
@@ -2502,7 +2964,19 @@ export const switzerlandCities: POI[] = [
         "The region represents rural Swiss authenticity."
       ]
     },
-    image: "/geo-images/switzerland/agriculture-emmental-dairy.webp"
+    image: "/geo-images/switzerland/agriculture-emmental-dairy.webp",
+    descriptionAdvanced: {
+      de: "Das Emmental ist eine hügelige voralpine Region im Kanton Bern, die weltberühmt für ihren Käse mit den großen Löchern ist. Der Emmentaler AOP wird traditionell in gewerblichen Dorfkäsereien aus Rohmilch hergestellt. Die charakteristische Landschaft ist geprägt von Einzelhöfen mit weit herabgezogenen Dächern. Neben der Milchwirtschaft spielt auch die Holzverarbeitung eine wichtige Rolle in der lokalen Ökonomie.",
+      hu: "Az Emmental egy dombos, Alpok előtti régió Bern kantonban, amely a nagy lyukakkal rendelkező sajtjáról világhírű. Az Emmentaler AOP-t hagyományosan falusi sajtüzemekben készítik nyerstejből. A jellegzetes tájat az óriási, mélyre nyúló tetővel rendelkező parasztházak határozzák meg. A tejgazdaság mellett a fafeldolgozás is fontos szerepet játszik a helyi gazdaságban.",
+      ro: "Emmental este o regiune deluroasă prealpină din cantonul Berna, celebră în întreaga lume pentru brânza sa cu găuri mari. Emmentaler AOP este produs în mod tradițional în fabrici de brânzeturi sătești din lapte crud. Peisajul caracteristic este marcat de ferme individuale cu acoperișuri foarte joase. Pe lângă industria lactată, prelucrarea lemnului joacă un rol important în economia locală.",
+      en: "The Emmental is a hilly pre-alpine region in the canton of Bern, world-famous for its cheese with large holes. Emmentaler AOP is traditionally produced in village dairies using raw milk. The characteristic landscape is defined by individual farmhouses with deep, overhanging roofs. Besides dairy farming, wood processing also plays an important role in the local economy.",
+    },
+    factsAdvanced: {
+      de: ["Herkunft des Emmentaler AOP", "Radgrößen bis zu 120 kg Gewicht", "Reifezeit zwischen 4 und 12 Monaten", "Region im Einzugsgebiet der Emme", "Hügelige Landschaft bis 1400 m ü. M.", "Heimat des Schriftstellers Jeremias Gotthelf"],
+      hu: ["Az Emmentaler AOP sajt származási helye", "Akár 120 kg súlyú sajtgurulók", "4-12 hónapos érlelési idő", "Az Emme folyó vízgyűjtő területe", "Dombos táj 1400 méteres magasságig", "Jeremias Gotthelf író szülőföldje"],
+      ro: ["Originea brânzei Emmentaler AOP", "Roți de brânză de până la 120 kg", "Timp de maturare între 4 și 12 luni", "Regiune situată în bazinul râului Emme", "Peisaj deluros până la 1400 m altitudine", "Patria scriitorului Jeremias Gotthelf"],
+      en: ["Origin of Emmentaler AOP cheese", "Cheese wheels weighing up to 120 kg", "Maturation time between 4 and 12 months", "Region in the Emme river catchment", "Hilly landscape up to 1400 m above sea level", "Home of the writer Jeremias Gotthelf"],
+    },
   }
 ];
 
@@ -2550,7 +3024,19 @@ export const switzerlandCulture: POI[] = [
         "Many streets date back to the Middle Ages."
       ]
     },
-    image: "/geo-images/switzerland/cult-bern-altstadt.webp"
+    image: "/geo-images/switzerland/cult-bern-altstadt.webp",
+    descriptionAdvanced: {
+      de: "Die Berner Altstadt ist das historische Zentrum der Schweizer Bundesstadt und wurde 1983 in das UNESCO-Welterbe aufgenommen. Sie wurde 1191 in einer Flussschleife der Aare gegründet und besticht durch ihre mittelalterliche Architektur. Besonders markant sind die sechs Kilometer langen Arkaden, die als eine der längsten gedeckten Einkaufspassagen Europas gelten. Zahlreiche Figurenbrunnen aus der Renaissance zieren die Straßenzüge.",
+      hu: "Bern óvárosa a svájci szövetségi város történelmi központja, amely 1983 óta az UNESCO Világörökség része. 1191-ben alapították az Aare folyó kanyarulatában, és középkori építészetével nyűgöz le. Különösen jellegzetesek a hat kilométer hosszú árkádok, amelyek Európa egyik leghosszabb fedett bevásárlóutcájának számítanak. Számos reneszánsz figurás kút díszíti az utcákat.",
+      ro: "Orașul vechi din Berna este centrul istoric al capitalei federale elvețiene și a fost inclus în Patrimoniul Mondial UNESCO în 1983. Fondat în 1191 într-o buclă a râului Aare, acesta impresionează prin arhitectura sa medievală. Deosebit de marcante sunt arcadele lungi de șase kilometri, considerate una dintre cele mai lungi zone comerciale acoperite din Europa. Numeroase fântâni renascentiste cu figuri decorează străzile.",
+      en: "Bern's Old Town is the historical center of the Swiss capital and was added to the UNESCO World Heritage list in 1983. Founded in 1191 in a loop of the Aare River, it impresses with its medieval architecture. Particularly striking are the six kilometers of arcades, which are considered one of the longest covered shopping promenades in Europe. Numerous Renaissance fountains with figures decorate the streets.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe seit 1983", "Gründung durch Herzog Berchtold V. (1191)", "6 km Arkaden (Lauben)", "Zytglogge-Turm aus dem 13. Jahrhundert", "Berner Münster mit höchstem Kirchturm (100 m)", "Albert Einsteins Wohnhaus in der Kramgasse"],
+      hu: ["UNESCO Világörökség 1983 óta", "Alapította V. Berchtold herceg (1191)", "6 km hosszú árkádrendszer", "13. századi Zytglogge óratorony", "A Berni székesegyház tornya 100 m magas", "Albert Einstein lakóháza a Kramgassén"],
+      ro: ["Patrimoniu Mondial UNESCO din 1983", "Fondat de ducele Berchtold al V-lea (1191)", "6 km de arcade (Lauben)", "Turnul Zytglogge din secolul al XIII-lea", "Catedrala din Berna are cel mai înalt turn (100 m)", "Casa lui Albert Einstein pe Kramgasse"],
+      en: ["UNESCO World Heritage since 1983", "Founded by Duke Berchtold V in 1191", "6 km of arcades (Lauben)", "13th-century Zytglogge clock tower", "Bern Minster has the highest spire (100 m)", "Albert Einstein's residence on Kramgasse"],
+    },
   },
   {
     id: "cult-rhaetian-railway",
@@ -2595,7 +3081,19 @@ export const switzerlandCulture: POI[] = [
         "The line is very popular with tourists."
       ]
     },
-    image: "/geo-images/switzerland/cult-rhaetian-railway.webp"
+    image: "/geo-images/switzerland/cult-rhaetian-railway.webp",
+    descriptionAdvanced: {
+      de: "Die Rhätische Bahn in der Landschaft Albula/Bernina ist ein Meisterwerk der Ingenieurskunst und seit 2008 Teil des UNESCO-Welterbes. Die Strecke verbindet das Engadin mit Norditalien und überwindet dabei extreme Höhenunterschiede ohne Zahnradantrieb. Spektakuläre Viadukte wie der Landwasserviadukt und Kehrtunnel machen die Fahrt zu einem touristischen Highlight. Sie ist eine der wenigen grenzüberschreitenden Bahnstrecken auf der Welterbeliste.",
+      hu: "A Rhätische Bahn az Albula és Bernina tájakon a mérnöki tudomány mesterműve, és 2008 óta az UNESCO Világörökség része. A vonal összeköti Engadint Észak-Olaszországgal, extrém szintkülönbségeket leküzdve fogaskerekű hajtás nélkül. Olyan látványos viaduktok, mint a Landwasser-viadukt és a spirálalagutak teszik az utat turisztikai attrakcióvá. Ez egyike a kevés határon átnyúló vasútvonalnak a világörökségi listán.",
+      ro: "Calea ferată retică din peisajul Albula/Bernina este o capodoperă a ingineriei și face parte din Patrimoniul Mondial UNESCO din 2008. Traseul leagă Engadina de nordul Italiei, depășind diferențe extreme de altitudine fără cremalieră. Viaducte spectaculoase, cum este viaductul Landwasser, și tunelurile elicoidale fac din călătorie un punct culminant turistic. Este una dintre puținele căi ferate transfrontaliere de pe lista UNESCO.",
+      en: "The Rhaetian Railway in the Albula/Bernina landscapes is a masterpiece of engineering and has been a UNESCO World Heritage site since 2008. The route connects the Engadine with Northern Italy, overcoming extreme elevation differences without a cogwheel system. Spectacular viaducts like the Landwasser Viaduct and spiral tunnels make the journey a tourist highlight. It is one of the few cross-border railways on the World Heritage list.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe seit 2008", "Landwasserviadukt ist 65 m hoch", "Berninapass auf 2253 m ü. M.", "Spurweite von 1000 mm (Meterspur)", "Kreisviadukt von Brusio als Wahrzeichen", "Höchste Adhäsionsbahn der Alpen"],
+      hu: ["UNESCO Világörökség 2008 óta", "A Landwasser-viadukt 65 m magas", "Bernina-hágó 2253 méteren", "1000 mm-es nyomtáv", "Brusio spirálviaduktja mint jelkép", "Az Alpok legmagasabb tapadásos vasútja"],
+      ro: ["Patrimoniu Mondial UNESCO din 2008", "Viaductul Landwasser are 65 m înălțime", "Pasul Bernina la 2253 m altitudine", "Ecartament de 1000 mm (ecartament metric)", "Viaductul circular din Brusio ca simbol", "Cea mai înaltă cale ferată prin aderență din Alpi"],
+      en: ["UNESCO World Heritage since 2008", "Landwasser Viaduct is 65 m high", "Bernina Pass at 2253 m above sea level", "Gauge of 1000 mm (meter gauge)", "Circular viaduct of Brusio as a landmark", "Highest adhesion railway in the Alps"],
+    },
   },
   {
     id: "cult-chillon",
@@ -2640,7 +3138,19 @@ export const switzerlandCulture: POI[] = [
         "The fortress was a strategic stronghold for centuries."
       ]
     },
-    image: "/geo-images/switzerland/cult-chillon.webp"
+    image: "/geo-images/switzerland/cult-chillon.webp",
+    descriptionAdvanced: {
+      de: "Das Schloss Chillon liegt auf einem Felsvorsprung am Ostufer des Genfersees bei Montreux und ist das meistbesuchte historische Gebäude der Schweiz. Die Wasserburg wurde strategisch günstig errichtet, um den Handelsweg über den Grossen St. Bernhard zu kontrollieren. Ihre heutige Gestalt erhielt sie weitgehend im 13. Jahrhundert durch die Grafen von Savoyen. Lord Byron verewigte das Schloss in seinem Gedicht „Der Gefangene von Chillon“.",
+      hu: "Chillon vára a Genfi-tó keleti partján, Montreux közelében egy sziklán áll, és Svájc leglátogatottabb történelmi épülete. A vízi várat stratégiailag előnyös helyen építették a Nagy Szent Bernát-hágón átvezető kereskedelmi út ellenőrzésére. Mai formáját jórészt a 13. században kapta a Savoyai grófoktól. Lord Byron híres verse, „A chilloni fogoly” tette világszerte ismertté.",
+      ro: "Castelul Chillon este situat pe o stâncă pe malul estic al lacului Geneva, lângă Montreux, fiind cel mai vizitat edificiu istoric din Elveția. Castelul de apă a fost construit strategic pentru a controla ruta comercială prin Pasul Marele St. Bernard. Forma sa actuală a fost stabilită în mare parte în secolul al XIII-lea de către conții de Savoia. Lord Byron a imortalizat castelul în poemul său „Prizonierul din Chillon”.",
+      en: "Chillon Castle sits on a rocky outcrop on the eastern shore of Lake Geneva near Montreux and is Switzerland's most visited historical building. The water castle was strategically built to control the trade route via the Great St. Bernard Pass. Its current form was largely established in the 13th century by the Counts of Savoy. Lord Byron immortalized the castle in his poem 'The Prisoner of Chillon'.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung im Jahr 1150", "Einstige Residenz der Savoyer", "Gefängnis des Mönchs François Bonivard", "Besucherzahl über 400.000 pro Jahr", "Besteht aus 25 Gebäuden und 3 Innenhöfen", "Lage auf einer kleinen Insel im Genfersee"],
+      hu: ["Első említése 1150-ben", "A Savoyai-ház egykori rezidenciája", "François Bonivard szerzetes börtöne", "Évi több mint 400 000 látogató", "25 épületből és 3 udvarból áll", "A Genfi-tó egy kis szigetén található"],
+      ro: ["Prima mențiune în anul 1150", "Fostă reședință a Casei de Savoia", "Închisoarea călugărului François Bonivard", "Peste 400.000 de vizitatori pe an", "Format din 25 de clădiri și 3 curți interioare", "Situat pe o mică insulă în lacul Geneva"],
+      en: ["First mentioned in 1150", "Former residence of the House of Savoy", "Prison of the monk François Bonivard", "Over 400,000 visitors per year", "Consists of 25 buildings and 3 courtyards", "Located on a small island in Lake Geneva"],
+    },
   },
   {
     id: "cult-pilatus",
@@ -2685,7 +3195,19 @@ export const switzerlandCulture: POI[] = [
         "It is a popular excursion destination."
       ]
     },
-    image: "/geo-images/switzerland/cult-pilatus.webp"
+    image: "/geo-images/switzerland/cult-pilatus.webp",
+    descriptionAdvanced: {
+      de: "Der Pilatus ist ein markantes Bergmassiv bei Luzern und gilt als einer der sagenumwobensten Orte der Zentralschweiz. Er ist durch die steilste Zahnradbahn der Welt erschlossen, die eine maximale Steigung von 48 Prozent überwindet. Vom Gipfel auf 2128 Metern bietet sich ein Rundumblick auf 73 Alpengipfel und den Vierwaldstättersee. Im Mittelalter glaubte man, dass Drachen in den Felsspalten des Berges lebten.",
+      hu: "A Pilatus egy jellegzetes hegymasszívum Luzern közelében, és Közép-Svájc egyik legtitokzatosabb helyének számít. Itt található a világ legmeredekebb fogaskerekű vasútja, amelynek maximális emelkedése 48 százalékos. A 2128 méteres csúcsról panorámás kilátás nyílik 73 alpesi csúcsra és a Vierwaldstätti-tóra. A középkorban úgy hitték, hogy sárkányok élnek a hegy sziklahasadékaiban.",
+      ro: "Pilatus este un masiv muntos marcant lângă Lucerna și este considerat unul dintre cele mai legendare locuri din Elveția Centrală. Este accesibil prin cea mai abruptă cale ferată cu cremalieră din lume, care depășește o pantă maximă de 48%. De pe vârful aflat la 2128 de metri se deschide o vedere panoramică spre 73 de vârfuri alpine și lacul celor Patru Cantoane. În Evul Mediu se credea că dragonii trăiau în crăpăturile stâncilor.",
+      en: "Mount Pilatus is a prominent mountain massif near Lucerne and is considered one of the most legendary places in Central Switzerland. It is accessible via the world's steepest cogwheel railway, which overcomes a maximum gradient of 48 percent. From the peak at 2128 meters, visitors can enjoy a panoramic view of 73 Alpine peaks and Lake Lucerne. In the Middle Ages, it was believed that dragons lived in the mountain's crevices.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Tomlishorn (2128 m)", "Steilste Zahnradbahn (48% Steigung)", "Eröffnung der Bahn im Jahr 1889", "Erbaut nach dem System Locher", "Sage über das Grab von Pontius Pilatus", "Erreichbar mit Luftseilbahn ab Kriens"],
+      hu: ["Legmagasabb pontja a Tomlishorn (2128 m)", "Legmeredekebb fogaskerekű (48%-os lejtő)", "A vasút megnyitása 1889-ben", "Locher-rendszer alapján épült", "Legenda Poncius Pilátus sírjáról", "Kriens felől felvonóval elérhető"],
+      ro: ["Cel mai înalt punct: Tomlishorn (2128 m)", "Cea mai abruptă cremalieră (48% înclinație)", "Deschiderea căii ferate în 1889", "Construită conform sistemului Locher", "Legendă despre mormântul lui Ponțiu Pilat", "Accesibil cu telecabina din Kriens"],
+      en: ["Highest point: Tomlishorn (2128 m)", "Steepest cogwheel railway (48% gradient)", "Opening of the railway in 1889", "Built according to the Locher system", "Legend about the grave of Pontius Pilate", "Accessible by cable car from Kriens"],
+    },
   },
   {
     id: "cult-cern",
@@ -2730,7 +3252,19 @@ export const switzerlandCulture: POI[] = [
         "It is a symbol of international science."
       ]
     },
-    image: "/geo-images/switzerland/cult-cern.webp"
+    image: "/geo-images/switzerland/cult-cern.webp",
+    descriptionAdvanced: {
+      de: "Das CERN bei Genf ist das weltweit führende Forschungszentrum für Teilchenphysik und Sitz des Large Hadron Collider (LHC). In diesem 27 Kilometer langen Ringtunnel werden Protonen auf nahezu Lichtgeschwindigkeit beschleunigt und zur Kollision gebracht. Ziel ist die Erforschung der fundamentalen Bausteine des Universums und ihrer Wechselwirkungen. Das CERN ist zudem die Geburtsstätte des World Wide Web.",
+      hu: "A Genf közelében található CERN a világ vezető részecskefizikai kutatóközpontja, és itt található a Nagy Hadronütköztető (LHC). Ebben a 27 kilométer hosszú gyűrűalagútban protonokat gyorsítanak fel közel fénysebességre, majd ütköztetik őket. A cél az univerzum alapvető építőköveinek és kölcsönhatásainak kutatása. A CERN egyben a World Wide Web szülőhelye is.",
+      ro: "CERN, situat lângă Geneva, este cel mai important centru de cercetare din lume pentru fizica particulelor și sediul Large Hadron Collider (LHC). În acest tunel circular lung de 27 de kilometri, protonii sunt accelerați la o viteză apropiată de cea a luminii și apoi ciocniți. Scopul este cercetarea elementelor fundamentale ale universului și a interacțiunilor acestora. CERN este, de asemenea, locul de naștere al World Wide Web.",
+      en: "CERN near Geneva is the world's leading research center for particle physics and home to the Large Hadron Collider (LHC). In this 27-kilometer-long ring tunnel, protons are accelerated to nearly the speed of light and brought to collision. The goal is to research the fundamental building blocks of the universe and their interactions. CERN is also the birthplace of the World Wide Web.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1954", "LHC-Ring mit 27 km Umfang", "Entdeckung des Higgs-Bosons (2012)", "Entwicklung des WWW durch Tim Berners-Lee (1989)", "Beteiligung von über 10.000 Wissenschaftlern", "Lage auf der Grenze zwischen Schweiz und Frankreich"],
+      hu: ["Alapítás 1954-ben", "Az LHC gyűrű kerülete 27 km", "A Higgs-bozon felfedezése (2012)", "Tim Berners-Lee itt fejlesztette a WWW-t (1989)", "Több mint 10 000 tudós közreműködése", "A svájci-francia határon fekszik"],
+      ro: ["Fondat în anul 1954", "Inelul LHC are 27 km circumferință", "Descoperirea bosonului Higgs (2012)", "Dezvoltarea WWW de către Tim Berners-Lee (1989)", "Implicarea a peste 10.000 de oameni de știință", "Situat pe granița dintre Elveția și Franța"],
+      en: ["Founded in 1954", "LHC ring with 27 km circumference", "Discovery of the Higgs boson (2012)", "Development of the WWW by Tim Berners-Lee (1989)", "Involvement of over 10,000 scientists", "Located on the border between Switzerland and France"],
+    },
   }
 ];
 
@@ -2778,7 +3312,19 @@ export const switzerlandNature: POI[] = [
         "It is a popular destination for boat trips."
       ]
     },
-    image: "/geo-images/switzerland/nat-lucerne.webp"
+    image: "/geo-images/switzerland/nat-lucerne.webp",
+    descriptionAdvanced: {
+      de: "Der Vierwaldstättersee ist ein von steilen Bergen umgebener fjordähnlicher See in der Zentralschweiz. Er hat eine komplexe Form mit zahlreichen Buchten und Armen und grenzt an die Kantone Luzern, Uri, Schwyz und Unterwalden. Die Region gilt als Wiege der Schweizerischen Eidgenossenschaft und beherbergt historische Orte wie die Rütliwiese. Auf dem See verkehrt die größte Dampfschiffflotte Europas.",
+      hu: "A Vierwaldstätti-tó meredek hegyekkel körülvett, fjordhoz hasonló tó Közép-Svájcban. Összetett alakja számos öböllel és ággal rendelkezik, és Luzern, Uri, Schwyz, valamint Unterwalden kantonokkal határos. A régiót a Svájci Konföderáció bölcsőjének tekintik, olyan történelmi helyszínekkel, mint a Rütli-mező. A tavon közlekedik Európa legnagyobb gőzhajó-flottája.",
+      ro: "Lacul celor Patru Cantoane este un lac asemănător unui fjord, înconjurat de munți abrupți în Elveția Centrală. Are o formă complexă, cu numeroase golfuri și brațe, și se învecinează cu cantoanele Lucerna, Uri, Schwyz și Unterwalden. Regiunea este considerată leagănul Confederației Elvețiene și adăpostește locuri istorice precum pajiștea Rütli. Pe lac operează cea mai mare flotă de vapoare cu aburi din Europa.",
+      en: "Lake Lucerne is a fjord-like lake surrounded by steep mountains in Central Switzerland. It has a complex shape with numerous bays and arms and borders the cantons of Lucerne, Uri, Schwyz, and Unterwalden. The region is considered the cradle of the Swiss Confederation and is home to historical sites such as the Rütli Meadow. Europe's largest fleet of paddle steamers operates on the lake.",
+    },
+    factsAdvanced: {
+      de: ["Seefläche von 114 km²", "Maximale Tiefe von 214 m", "Uferlänge von 144 km", "Höhe auf 434 m ü. M.", "Flotte von 5 historischen Schaufelraddampfern", "Namensgebung durch die 4 beteiligten Waldstätten"],
+      hu: ["Vízfelület: 114 km²", "Maximális mélység: 214 m", "Partvonal hossza: 144 km", "Tengerszint feletti magasság: 434 m", "5 történelmi oldalkerekes gőzhajóból álló flotta", "A 4 alapító kantonról (Waldstätten) kapta nevét"],
+      ro: ["Suprafața lacului de 114 km²", "Adâncime maximă de 214 m", "Lungimea țărmului de 144 km", "Altitudine de 434 m", "Flotă de 5 vapoare istorice cu aburi", "Numit după cele 4 cantoane fondatoare (Waldstätten)"],
+      en: ["Lake area of 114 km²", "Maximum depth of 214 m", "Shoreline length of 144 km", "Elevation at 434 m above sea level", "Fleet of 5 historical paddle steamers", "Named after the 4 participating Waldstätten (Forest Cantons)"],
+    },
   },
   {
     id: "nat-lauterbrunnen",
@@ -2823,7 +3369,19 @@ export const switzerlandNature: POI[] = [
         "The landscape has inspired many artists."
       ]
     },
-    image: "/geo-images/switzerland/nat-lauterbrunnen.webp"
+    image: "/geo-images/switzerland/nat-lauterbrunnen.webp",
+    descriptionAdvanced: {
+      de: "Das Lauterbrunnental im Berner Oberland ist eines der tiefsten U-Täler der Alpen und berühmt für seine 72 Wasserfälle. Es ist eingekesselt von gigantischen Felswänden und Gipfeln wie Eiger, Mönch und Jungfrau. Der bekannteste Fall ist der Staubbachfall, der fast 300 Meter in die Tiefe stürzt. Die Landschaft diente J.R.R. Tolkien als Inspiration für das fiktive Bruchtal in seinen Romanen.",
+      hu: "A berni felvidéken található Lauterbrunnen-völgy az Alpok egyik legmélyebb U-alakú völgye, amely 72 vízeséséről híres. Óriási sziklafalak és olyan csúcsok veszik körül, mint az Eiger, a Mönch és a Jungfrau. A legismertebb a Staubbach-vízesés, amely közel 300 méteres magasságból zúdul alá. A táj inspirációként szolgált J.R.R. Tolkien számára Völgyzugoly (Rivendell) megalkotásához.",
+      ro: "Valea Lauterbrunnen din Oberlandul Bernez este una dintre cele mai adânci văi glaciare în formă de U din Alpi, celebră pentru cele 72 de cascade ale sale. Este înconjurată de pereți de stâncă giganți și vârfuri precum Eiger, Mönch și Jungfrau. Cea mai cunoscută cascadă este Staubbach, care cade de la aproape 300 de metri înălțime. Peisajul i-a servit lui J.R.R. Tolkien ca inspirație pentru Rivendell.",
+      en: "The Lauterbrunnen Valley in the Bernese Oberland is one of the deepest U-shaped valleys in the Alps and is famous for its 72 waterfalls. It is enclosed by gigantic rock walls and peaks such as the Eiger, Mönch, and Jungfrau. The most famous fall is the Staubbach Falls, plunging nearly 300 meters. The landscape served as inspiration for J.R.R. Tolkien's fictional Rivendell in his novels.",
+    },
+    factsAdvanced: {
+      de: ["72 Wasserfälle im Tal", "Staubbachfall ist 297 m hoch", "Trümmelbachfälle (10 Gletscherwasserfälle im Berg)", "Inspiration für Bruchtal (Herr der Ringe)", "Teil der UNESCO-Jungfrau-Aletsch-Region", "Tiefe des Trogtals bis zu 1000 m"],
+      hu: ["72 vízesés a völgyben", "A Staubbach-vízesés 297 m magas", "Trümmelbach-vízesések (10 gleccservízesés a sziklában)", "Völgyzugoly (Gyűrűk Ura) ihletője", "Az UNESCO Jungfrau-Aletsch régió része", "A völgy mélysége helyenként az 1000 métert is eléri"],
+      ro: ["72 de cascade în vale", "Cascada Staubbach are 297 m înălțime", "Cascadele Trümmelbach (10 cascade glaciare în munte)", "Inspirație pentru Rivendell (Stăpânul Inelelor)", "Parte a regiunii UNESCO Jungfrau-Aletsch", "Adâncimea văii glaciare de până la 1000 m"],
+      en: ["72 waterfalls in the valley", "Staubbach Falls is 297 m high", "Trümmelbach Falls (10 glacial falls inside the mountain)", "Inspiration for Rivendell (Lord of the Rings)", "Part of the UNESCO Jungfrau-Aletsch region", "Glacial valley depth up to 1000 m"],
+    },
   },
   {
     id: "nat-interlaken",
@@ -2868,7 +3426,19 @@ export const switzerlandNature: POI[] = [
         "Its location makes it highly attractive to tourists."
       ]
     },
-    image: "/geo-images/switzerland/nat-interlaken.webp"
+    image: "/geo-images/switzerland/nat-interlaken.webp",
+    descriptionAdvanced: {
+      de: "Interlaken liegt im Berner Oberland auf einer Schwemmebene zwischen dem Thuner- und dem Brienzersee. Die Stadt ist ein weltweit bekannter Tourismusort und gilt als Tor zur Jungfrau-Region. Von hier aus starten zahlreiche Bergbahnen und Ausflüge auf das Jungfraujoch, den „Top of Europe“. Die Architektur des Ortes ist geprägt von prachtvollen Grand Hotels aus der Belle Époque.",
+      hu: "Interlaken a berni felvidéken fekszik, a Thun-i és a Brienz-i tó közötti hordalékos síkságon. A város világszerte ismert turisztikai célpont, és a Jungfrau régió kapujaként tartják számon. Innen számos hegyi vasút és kirándulás indul a Jungfraujochra, Európa „tetejére”. A település építészetét a Belle Époque idejéből származó pompás nagyszállók határozzák meg.",
+      ro: "Interlaken este situat în Oberlandul Bernez pe o câmpie aluvionară între lacul Thun și lacul Brienz. Orașul este o destinație turistică faimoasă în întreaga lume și este considerat poarta de acces către regiunea Jungfrau. De aici pornesc numeroase căi ferate montane și excursii către Jungfraujoch, „Top of Europe”. Arhitectura localității este marcată de hoteluri grandioase din perioada Belle Époque.",
+      en: "Interlaken is located in the Bernese Oberland on an alluvial plain between Lake Thun and Lake Brienz. The town is a world-renowned tourist destination and is considered the gateway to the Jungfrau region. Numerous mountain railways and excursions to the Jungfraujoch, the 'Top of Europe', start from here. The town's architecture is defined by magnificent Grand Hotels from the Belle Époque.",
+    },
+    factsAdvanced: {
+      de: ["Lage auf dem Bödeli zwischen zwei Seen", "Höhe von 568 m ü. M.", "Zentrum für Outdoor-Sportarten", "Höhenmatte als zentrale Parkanlage (14 Hektar)", "Bahnanschluss seit 1872", "Heimat des Mystery Park (heute Jungfrau Park)"],
+      hu: ["A Bödeli területén fekszik két tó között", "Tengerszint feletti magasság: 568 m", "A szabadtéri sportok központja", "Höhenmatte: központi park (14 hektár)", "Vasúti összeköttetés 1872 óta", "A Mystery Park (ma Jungfrau Park) helyszíne"],
+      ro: ["Situat pe Bödeli între două lacuri", "Altitudine de 568 m", "Centru pentru sporturi în aer liber", "Höhenmatte ca parc central (14 hectare)", "Conexiune feroviară din 1872", "Găzduiește Mystery Park (acum Jungfrau Park)"],
+      en: ["Located on the Bödeli between two lakes", "Elevation of 568 m above sea level", "Hub for outdoor sports", "Höhenmatte as a central park area (14 hectares)", "Rail connection since 1872", "Home of the Mystery Park (now Jungfrau Park)"],
+    },
   }
 ];
 

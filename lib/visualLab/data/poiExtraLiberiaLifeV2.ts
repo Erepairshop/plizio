@@ -81,6 +81,18 @@ export const liberiaLifeV2: POI[] = [
       en: ["Part of the Nimba Massif", "Important corridor for wildlife", "Home to rare amphibians", "High level of endemism"],
     },
     imageHint: "nimba mountains landscape",
+    descriptionAdvanced: {
+      de: "Das East Nimba Nature Reserve im Norden Liberias schützt einen Teil des Nimba-Gebirges, das für seine außergewöhnliche Biodiversität bekannt ist. Es wurde 2003 gegründet und beherbergt zahlreiche endemische Tierarten wie die westafrikanische Kröte Nimbaphrynoides occidentalis. Das Reservat gehört zum größeren UNESCO-Weltnaturerbe-Komplex des Mount Nimba.",
+      hu: "A Kelet-Nimba Természetvédelmi Terület Libéria északi részén a Nimba-hegység egy részét védi, amely kivételes biodiverzitásáról ismert. 2003-ban alapították, és számos endemikus fajnak ad otthont, mint például a Nimbaphrynoides occidentalis varangy. A rezervátum a nagyobb Mount Nimba UNESCO világörökségi komplexum része.",
+      ro: "Rezervația Naturală Nimba de Est din nordul Liberiei protejează o parte a munților Nimba, cunoscuți pentru biodiversitatea lor excepțională. A fost înființată în 2003 și găzduiește numeroase specii endemice, cum ar fi broasca Nimbaphrynoides occidentalis. Rezervația face parte din complexul Mount Nimba, sit al Patrimoniului Mondial UNESCO.",
+      en: "The East Nimba Nature Reserve in northern Liberia protects part of the Nimba Range, renowned for its exceptional biodiversity. Established in 2003, it hosts numerous endemic species such as the West African toad Nimbaphrynoides occidentalis. The reserve is part of the larger Mount Nimba UNESCO World Heritage site complex.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 2003.", "Fläche von etwa 13.500 Hektar.", "Teil des UNESCO-Weltnaturerbes.", "Heimat der lebendgebärenden Nimba-Kröte.", "Höchste Erhebung in Liberia (Mount Wuteve Nähe).", "Schutzgebiet für Westafrikanische Schimpansen."],
+      hu: ["2003-ban alapították.", "Területe körülbelül 13 500 hektár.", "Az UNESCO Világörökség része.", "Az elevenszülő Nimba-varangy élőhelye.", "Libéria legmagasabb pontjainak közelében.", "Védett terület a nyugat-afrikai csimpánzok számára."],
+      ro: ["Înființată în anul 2003.", "Suprafață de aproximativ 13.500 de hectare.", "Parte a Patrimoniului Mondial UNESCO.", "Habitat al broaștei vivipare de Nimba.", "Lângă cele mai înalte cote din Liberia.", "Zonă protejată pentru cimpanzeii vest-africani."],
+      en: ["Established in 2003.", "Covers approximately 13,500 hectares.", "Part of the UNESCO World Heritage Site.", "Home to the viviparous Nimba toad.", "Near the highest peaks in Liberia.", "Protected area for West African chimpanzees."],
+    },
   },
   {
     id: "liberia-lake-piso-reserve-life-v2",
@@ -720,6 +732,18 @@ export const liberiaLifeV2: POI[] = [
       en: ["Highland ecosystem", "Endemic plants", "Altitude-adapted wildlife", "Protected area"],
     },
     imageHint: "nimba highlands trees",
+    descriptionAdvanced: {
+      de: "Der Nimba Highlands Forest umfasst die Bergregenwälder des Nimba-Massivs an der Grenze zwischen Liberia, Guinea und der Elfenbeinküste. Dieses Ökosystem ist aufgrund seiner Höhe und Isolation reich an spezialisierter Flora und Fauna. Trotz historischer Bedrohungen durch den Bergbau bleibt der Wald ein kritischer Rückzugsort für bedrohte Primaten.",
+      hu: "A Nimba-felföldi erdő a Nimba-masszívum hegyi esőerdőit foglalja magában Libéria, Guinea és az Elefántcsontpart határán. Ez az ökoszisztéma magassága és elszigeteltsége miatt gazdag speciális flórában és faunában. A bányászat okozta történelmi fenyegetések ellenére az erdő továbbra is kritikus menedékhely a veszélyeztetett főemlősök számára.",
+      ro: "Pădurea muntoasă Nimba cuprinde pădurile tropicale montane ale masivului Nimba de la granița dintre Liberia, Guineea și Coasta de Fildeș. Acest ecosistem este bogat în floră și faună specializată datorită altitudinii și izolării sale. În ciuda amenințărilor istorice din partea mineritului, pădurea rămâne un refugiu critic pentru primate periclitate.",
+      en: "The Nimba Highlands Forest encompasses the montane rainforests of the Nimba Massif on the border between Liberia, Guinea, and Ivory Coast. This ecosystem is rich in specialized flora and fauna due to its altitude and isolation. Despite historical threats from mining, the forest remains a critical refuge for endangered primates.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage bis über 1.300 m.", "Teil der Upper Guinea Forest Zone.", "Vorkommen von über 2.000 Gefäßpflanzenarten.", "Lebensraum des bedrohten Zwergflusspferds.", "Frühere Eisenerz-Abbaustätten in der Nähe.", "Wichtiger Korridor für wandernde Tierarten."],
+      hu: ["1300 méter feletti tengerszint feletti magasság.", "A felső-guineai erdőzóna része.", "Több mint 2000 edényes növényfaj fordul elő.", "A veszélyeztetett törpevíziló élőhelye.", "Korábbi vasércbányák találhatók a közelben.", "Fontos folyosó a vándorló állatfajok számára."],
+      ro: ["Altitudini de peste 1.300 m.", "Parte a zonei pădurilor din Guineea Superioară.", "Prezența a peste 2.000 de specii de plante vasculare.", "Habitat pentru hipopotamul pitic, specie periclitată.", "Foste situri de extracție a minereului de fier în apropiere.", "Coridor important pentru speciile migratoare."],
+      en: ["Altitudes exceeding 1,300 meters.", "Part of the Upper Guinea Forest zone.", "Occurrence of over 2,000 vascular plant species.", "Habitat for the endangered pygmy hippopotamus.", "Former iron ore mining sites nearby.", "Important corridor for migratory animal species."],
+    },
   },
   {
     id: "liberia-manoj-river-reserve-life-v2",
@@ -739,6 +763,18 @@ export const liberiaLifeV2: POI[] = [
       en: ["Freshwater habitat", "Protection of fish species", "Natural riverbank", "Important aquatic zone"],
     },
     imageHint: "manoj river scenic",
+    descriptionAdvanced: {
+      de: "Das Mano River Reserve erstreckt sich entlang des Mano-Flusses, der die Grenze zwischen Liberia und Sierra Leone bildet. Das Schutzgebiet bewahrt wichtige Galeriewälder und Sumpfgebiete, die für die Wasserregulierung der Region entscheidend sind. Es ist ein bedeutender Lebensraum für Flusspferde, Krokodile und eine Vielzahl von Wasservögeln.",
+      hu: "A Mano-folyó rezervátum a Libéria és Sierra Leone közötti határt alkotó Mano-folyó mentén terül el. A védett terület fontos galériaerdőket és mocsarakat őriz meg, amelyek kulcsfontosságúak a régió vízszabályozásában. Jelentős élőhelye a vízilovaknak, krokodiloknak és számos vízimadárfajnak.",
+      ro: "Rezervația râului Mano se întinde de-a lungul râului Mano, care formează granița dintre Liberia și Sierra Leone. Zona protejată conservă păduri galerii și zone mlaștinoase importante, cruciale pentru reglarea apei în regiune. Este un habitat semnificativ pentru hipopotami, crocodili și o varietate de păsări acvatice.",
+      en: "The Mano River Reserve extends along the Mano River, which forms the border between Liberia and Sierra Leone. The protected area preserves vital gallery forests and swamplands crucial for the region's water regulation. It is a significant habitat for hippos, crocodiles, and a variety of waterfowl.",
+    },
+    factsAdvanced: {
+      de: ["Grenzfluss zwischen Liberia und Sierra Leone.", "Schutz von Galeriewäldern.", "Vorkommen von Nilkrokodilen.", "Wichtiger Teil der Mano River Union.", "Reguliert den Wasserhaushalt der Küstenebene.", "Brutgebiet für seltene Eisvogelarten."],
+      hu: ["Határfolyó Libéria és Sierra Leone között.", "Galériaerdők védelmét szolgálja.", "Nílusi krokodilok fordulnak elő benne.", "A Mano River Union fontos része.", "Szabályozza a parti síkság vízháztartását.", "Ritka jégmadárfajok fészkelőhelye."],
+      ro: ["Râu de frontieră între Liberia și Sierra Leone.", "Protejează pădurile galerii.", "Prezența crocodililor de Nil.", "Parte importantă a Uniunii Râului Mano.", "Reglează regimul hidrologic al câmpiei de coastă.", "Zonă de cuibărit pentru specii rare de pescăruș albastru."],
+      en: ["Border river between Liberia and Sierra Leone.", "Protects gallery forests.", "Home to Nile crocodiles.", "Important part of the Mano River Union.", "Regulates the water balance of the coastal plain.", "Breeding ground for rare kingfisher species."],
+    },
   },
   {
     id: "liberia-voinjama-forest-patch-life-v2",

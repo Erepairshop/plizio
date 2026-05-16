@@ -19,6 +19,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Built in 1778 during the American Revolutionary War.", "Located at the summit of Pigeon Island National Park.", "Once housed heavy cannons for bay defense.", "Offers a panoramic view of Rodney Bay marina."],
     },
     imageHint: "Fort Rodney ruins with cannons on Pigeon Island Saint Lucia",
+    descriptionAdvanced: {
+      de: "Fort Rodney ist eine historische Festungsanlage auf dem Pigeon Island National Landmark im Norden von Saint Lucia. Die im 18. Jahrhundert von den Briten errichtete Anlage diente der Überwachung der französischen Flotte im benachbarten Martinique. Heute ist es eine bedeutende historische Stätte, die einen weiten Blick über die Rodney Bay bietet.",
+      hu: "Fort Rodney egy történelmi erődítmény a Pigeon Island National Landmark területén, Saint Lucia északi részén. A 18. században a britek által épített létesítmény a szomszédos Martinique-on állomásozó francia flotta megfigyelésére szolgált. Ma jelentős történelmi helyszín, amely tágas kilátást nyújt a Rodney-öbölre.",
+      ro: "Fort Rodney este o fortificație istorică situată în cadrul Pigeon Island National Landmark, în nordul Sfintei Lucia. Construită de britanici în secolul al XVIII-lea, facilitatea a servit la supravegherea flotei franceze din Martinica vecină. Astăzi este un sit istoric important, oferind o vedere panoramică asupra golfului Rodney.",
+      en: "Fort Rodney is a historical fortification located within the Pigeon Island National Landmark in northern Saint Lucia. Built by the British in the 18th century, the facility served to monitor the French fleet in neighboring Martinique. Today, it is a significant historical site offering expansive views over Rodney Bay.",
+    },
+    factsAdvanced: {
+      de: ["Wurde nach dem britischen Admiral George Brydges Rodney benannt.", "Liegt auf einer Höhe von etwa 68 Metern über dem Meeresspiegel.", "Admiral Rodney nutzte den Posten 1782 vor der Schlacht von Les Saintes.", "Die Festung beherbergt noch heute mehrere originale Eisenkanonen.", "Wurde strategisch auf einem der zwei Hügel von Pigeon Island errichtet.", "Ist Teil eines Gebiets, das 1979 zum Nationalpark erklärt wurde."],
+      hu: ["George Brydges Rodney brit admirálisról nevezték el.", "Körülbelül 68 méterrel a tengerszint feletti magasságban található.", "Rodney admirális 1782-ben, a Saintes-i csata előtt használta ezt a posztot.", "Az erőd a mai napig több eredeti vaskannont őriz.", "Stratégiai okokból a Pigeon-sziget két dombjának egyikére épült.", "Egy olyan terület része, amelyet 1979-ben nemzeti parkká nyilvánítottak."],
+      ro: ["Numit după amiralul britanic George Brydges Rodney.", "Situat la o altitudine de aproximativ 68 de metri deasupra nivelului mării.", "Amiralul Rodney a folosit postul în 1782, înainte de Bătălia de la Les Saintes.", "Fortul găzduiește și astăzi mai multe tunuri de fier originale.", "Construit strategic pe unul dintre cele două dealuri ale insulei Pigeon.", "Face parte dintr-o zonă declarată parc național în anul 1979."],
+      en: ["Named after the British Admiral George Brydges Rodney.", "Situated at an elevation of approximately 68 meters above sea level.", "Admiral Rodney used the post in 1782 before the Battle of the Saintes.", "The fort still houses several original iron cannons today.", "Strategically built on one of the two peaks of Pigeon Island.", "Part of an area designated as a National Park in 1979."],
+    },
   },
   {
     id: "saintlucia-inniskilling-monument-history-v2",
@@ -38,6 +50,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Erected to honor the British soldiers of 1796.", "Located on the historic Morne Fortune hill.", "The regiment recaptured the fort from the French.", "A significant symbol of British military history on the island."],
     },
     imageHint: "Inniskilling Monument stone obelisk on Morne Fortune Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Denkmal auf dem Morne Fortune erinnert an das 27. Regiment der Inniskilling Fusiliers. Diese britische Einheit eroberte den strategisch wichtigen Hügel im Jahr 1796 nach heftigen Kämpfen von den französischen Truppen zurück. Heute dient der Ort als Gedenkstätte für die gefallenen Soldaten und bietet einen weiten Blick über die Hauptstadt Castries.",
+      hu: "A Morne Fortune dombon álló emlékmű a 27. Inniskilling Fusiliers ezred tiszteletére épült. Ez a brit egység 1796-ban foglalta vissza a stratégiai jelentőségű magaslatot a francia csapatoktól. Az emlékmű ma a csatában elesett katonák előtt tiszteleg, a helyszínről pedig széles körpanoráma nyílik Castries városára és az öbölre.",
+      ro: "Monumentul de pe Morne Fortune este dedicat Regimentului 27 de Fuzilieri Inniskilling. Această unitate britanică a recucerit dealul strategic de la forțele franceze în anul 1796, după lupte intense. Astăzi, situl servește ca loc de comemorare pentru soldații căzuți și oferă o perspectivă panoramică asupra capitalei Castries.",
+      en: "The monument on Morne Fortune commemorates the 27th Regiment of Inniskilling Fusiliers. This British unit recaptured the strategic hill from French forces in 1796 after fierce combat. Today, the site serves as a memorial for the fallen soldiers and offers a commanding view over the capital city of Castries and its harbor.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet zum Gedenken an die Schlacht vom 24. Mai 1796.", "Das 27. Regiment stammte ursprünglich aus Irland.", "Der Standort Morne Fortune bedeutet 'Hügel des Glücks'.", "Die britische Flagge wurde hier nach dem Sieg gehisst.", "Das Denkmal befindet sich in der Nähe des Government House.", "Es ist Teil eines größeren militärhistorischen Komplexes."],
+      hu: ["Az 1796. május 24-i csata emlékére állították.", "A 27. ezred eredetileg írországi származású volt.", "A Morne Fortune név jelentése 'Szerencse-domb'.", "A győzelem után itt vonták fel a brit lobogót.", "Az emlékmű a Kormányzói Ház közelében található.", "A helyszín a sziget katonai örökségének fontos része."],
+      ro: ["Ridicată în memoria bătăliei din 24 mai 1796.", "Regimentul 27 provenea inițial din Irlanda.", "Locația Morne Fortune înseamnă 'Dealul Norocului'.", "Steagul britanic a fost arborat aici după victorie.", "Monumentul se află în apropierea Casei Guvernului.", "Face parte dintr-un complex istoric militar mai amplu."],
+      en: ["Erected to commemorate the battle on May 24, 1796.", "The 27th Regiment was originally from Enniskillen, Ireland.", "Morne Fortune translates to 'Hill of Good Luck'.", "The British flag was hoisted here following the victory.", "The monument is located near the Government House.", "It is a key site within the Morne Fortune historic area."],
+    },
   },
   {
     id: "saintlucia-derek-walcott-square-history-v2",
@@ -57,6 +81,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Houses a massive Samaan tree that is over 400 years old.", "Surrounded by Victorian buildings and the cathedral.", "Features a memorial to those who fell in the World Wars.", "Renamed in 1993 to honor Derek Walcott."],
     },
     imageHint: "Derek Walcott Square park with old Samaan tree Castries",
+    descriptionAdvanced: {
+      de: "Dieser zentrale Platz in Castries wurde 1993 zu Ehren des Nobelpreisträgers Derek Walcott umbenannt. Zuvor trug der Ort den Namen Place d'Armes und später Columbus Square. Der Park beherbergt einen beeindruckenden, über 400 Jahre alten Samaan-Baum und ist von bedeutenden Gebäuden wie der Kathedrale der Unbefleckten Empfängnis umgeben.",
+      hu: "Castries központi terét 1993-ban nevezték át a Nobel-díjas költő, Derek Walcott tiszteletére. Korábban Place d'Armes, majd Columbus Square néven volt ismert. A parkban egy lenyűgöző, több mint 400 éves Samaan-fa áll, a teret pedig olyan fontos épületek szegélyezik, mint a Szeplőtelen Fogantatás Székesegyház.",
+      ro: "Această piață centrală din Castries a fost redenumită în 1993 în onoarea laureatului Nobel, Derek Walcott. Anterior, locul era cunoscut ca Place d'Armes și apoi Piața Columb. Parcul găzduiește un arbore Samaan impresionant, vechi de peste 400 de ani, și este înconjurat de clădiri importante, precum Catedrala Imaculatei Concepții.",
+      en: "This central square in Castries was renamed in 1993 to honor Nobel laureate Derek Walcott. Previously known as Place d'Armes and later Columbus Square, it serves as a social hub. The park features a massive Samaan tree over 400 years old and is bordered by the Cathedral of the Immaculate Conception and the Central Library.",
+    },
+    factsAdvanced: {
+      de: ["1993 nach dem Literaturnobelpreisträger umbenannt.", "Beherbergt einen etwa 400 Jahre alten Samaan-Baum.", "Die angrenzende Kathedrale wurde 1897 erbaut.", "Früherer Name war Columbus Square bis zum Jubiläumsjahr.", "Dient als Veranstaltungsort für lokale Kulturfestivals.", "Ein Denkmal für Derek Walcott steht im Parkzentrum."],
+      hu: ["1993-ban nevezték át a Nobel-díjas költőről.", "Egy kb. 400 éves Samaan-fának ad otthont.", "A szomszédos székesegyház 1897-ben épült.", "Korábbi neve Columbus Square volt az átnevezésig.", "Helyi kulturális fesztiválok népszerű helyszíne.", "A park közepén Derek Walcott mellszobra látható."],
+      ro: ["Redenumită în 1993 după laureatul premiului Nobel.", "Găzduiește un arbore Samaan de aproximativ 400 de ani.", "Catedrala adiacentă a fost construită în 1897.", "Numele anterior a fost Piața Columb până în 1993.", "Servește ca spațiu pentru festivaluri culturale locale.", "O statuie a lui Derek Walcott este amplasată în parc."],
+      en: ["Renamed in 1993 after the Nobel Prize-winning poet.", "Home to a Samaan tree estimated to be 400 years old.", "The adjacent Cathedral was completed in 1897.", "It was formerly called Columbus Square until the 1990s.", "The square serves as a focal point for public events.", "Features a bust of Derek Walcott within the park area."],
+    },
   },
   {
     id: "saintlucia-diamond-falls-baths-history-v2",
@@ -76,6 +112,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["The original baths were destroyed during the French Revolution.", "Restored on the old foundations in the 1930s.", "The water is rich in magnesium, iron, and sulfur.", "Part of the Diamond Botanical Gardens estate."],
     },
     imageHint: "Historic stone thermal baths at Diamond Falls Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die Diamond Falls Royal Baths sind Teil des historischen Soufrière Estate. König Ludwig XVI. von Frankreich gewährte 1784 die Mittel für den Bau der Bäder, damit seine Truppen die heilende Wirkung der Mineralquellen nutzen konnten. Die Anlage kombiniert botanische Gärten, einen farbenprächtigen Wasserfall und die restaurierten Badebecken aus der Kolonialzeit.",
+      hu: "A Diamond Falls királyi fürdők a történelmi Soufrière birtok részét képezik. XVI. Lajos francia király 1784-ben biztosított forrást a fürdők felépítésére, hogy katonái élvezhessék az ásványi források gyógyhatását. A helyszín botanikus kerteket, egy színes vízesést és a gyarmati korszakból származó, felújított medencéket ötvöz.",
+      ro: "Băile Regale Diamond Falls fac parte din domeniul istoric Soufrière. Regele Ludovic al XVI-lea al Franței a acordat fonduri în 1784 pentru construcția băilor, astfel încât trupele sale să beneficieze de proprietățile curative ale apelor. Complexul include grădini botanice, o cascadă colorată și bazine restaurate din epoca colonială.",
+      en: "The Diamond Falls Royal Baths are located within the historic Soufrière Estate. King Louis XVI of France granted funds in 1784 to construct the baths for his troops to utilize the medicinal mineral waters. The site features lush botanical gardens, a mineral-streaked waterfall, and restored bathhouses dating back to the late 18th century.",
+    },
+    factsAdvanced: {
+      de: ["1784 durch ein Dekret von Ludwig XVI. gegründet.", "Das Wasser ist reich an Magnesium und Eisenoxiden.", "Der Wasserfall ändert seine Farbe durch Mineralien.", "Die Bäder wurden für französische Soldaten gebaut.", "Das Soufrière Estate stammt aus dem Jahr 1713.", "Teil eines 2.000 Hektar großen ursprünglichen Lehens."],
+      hu: ["1784-ben alapították XVI. Lajos rendeletére.", "A víz magnéziumban és vas-oxidokban gazdag.", "A vízesés színe az ásványi lerakódásoktól változik.", "A fürdőket eredetileg francia katonáknak szánták.", "A Soufrière birtok eredete 1713-ig nyúlik vissza.", "Egy eredetileg 2000 hektáros földbirtok része."],
+      ro: ["Fondate în 1784 prin decretul lui Ludovic al XVI-lea.", "Apa este bogată în magneziu și oxizi de fier.", "Cascada își schimbă culoarea datorită mineralelor.", "Băile au fost edificate pentru soldații francezi.", "Domeniul Soufrière datează din anul 1713.", "Face parte dintr-o concesiune originală de 2.000 de acri."],
+      en: ["Established in 1784 by decree of Louis XVI.", "The waters are rich in magnesium and iron oxides.", "The waterfall changes color based on mineral content.", "Original baths were destroyed during the Revolution.", "The Soufrière Estate was granted to the Devaux family.", "It remains one of the oldest estates on Saint Lucia."],
+    },
   },
   {
     id: "saintlucia-balenbouche-estate-history-v2",
@@ -95,6 +143,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Houses a massive 18th-century water-powered mill wheel.", "The estate covers 75 acres of land.", "Contains archaeological sites of the Arawak Indians.", "Operates today as an eco-resort and historical monument."],
     },
     imageHint: "Old sugar mill ruins with water wheel Balenbouche Estate",
+    descriptionAdvanced: {
+      de: "Das Balenbouche Estate ist eine ehemalige Zuckerrohrplantage aus dem 18. Jahrhundert im Süden von St. Lucia. Das Anwesen bewahrt die Ruinen einer alten Zuckermühle, ein historisches Herrenhaus und ein Wasserrad, das einst die Produktion antrieb. Es bietet heute einen Einblick in die koloniale Agrargeschichte und die archäologischen Funde der Arawak-Indianer.",
+      hu: "A Balenbouche birtok egy 18. századi egykori cukornádültetvény St. Lucia déli részén. Az ingatlan megőrizte egy régi cukormalom romjait, egy történelmi udvarházat és egy vízikereket, amely egykor a termelést hajtotta. Ma betekintést nyújt a gyarmati mezőgazdaság történetébe és az arawak indiánok régészeti leleteibe.",
+      ro: "Domeniul Balenbouche este o fostă plantație de trestie de zahăr din secolul al XVIII-lea, situată în sudul insulei. Proprietatea păstrează ruinele unei vechi mori de zahăr, un conac istoric și o roată hidraulică ce deservea producția. Astăzi oferă o incursiune în istoria agricolă colonială și în descoperirile arheologice ale amerindienilor Arawak.",
+      en: "Balenbouche Estate is a former 18th-century sugar plantation located on the southern coast of Saint Lucia. The property preserves the ruins of an old sugar mill, a historic plantation house, and a massive waterwheel that once powered production. It provides a window into colonial agricultural history and features pre-Columbian Amerindian artifacts.",
+    },
+    factsAdvanced: {
+      de: ["Umfasst eine Fläche von etwa 70 Hektar.", "Das historische Herrenhaus ist über 180 Jahre alt.", "Beherbergt ein gut erhaltenes mechanisches Wasserrad.", "Fundort zahlreicher präkolumbianischer Artefakte.", "Wurde im 18. Jahrhundert von Franzosen gegründet.", "Die Zuckermühle wurde mit Wasserkraft betrieben."],
+      hu: ["Körülbelül 70 hektáros területen fekszik.", "A történelmi udvarház több mint 180 éves.", "Egy jól megőrzött mechanikus vízikereket tartalmaz.", "Számos kolumbusz előtti leletet találtak itt.", "A 18. században francia telepesek alapították.", "A cukormalmot vízi energia működtette."],
+      ro: ["Cuprinde o suprafață de aproximativ 70 de acri.", "Conacul istoric are o vechime de peste 180 de ani.", "Găzduiește o roată de apă mecanică bine conservată.", "Loc de descoperire pentru numeroase artefacte Arawak.", "A fost fondată în secolul XVIII de către francezi.", "Moara de zahăr utiliza energia hidraulică."],
+      en: ["Spans approximately 70 acres of coastal land.", "The main plantation house is over 180 years old.", "Features a rare, intact 19th-century waterwheel.", "Site of significant pre-Columbian Arawak finds.", "Established as a sugar estate in the 18th century.", "The mill operated using gravity-fed water systems."],
+    },
   },
   {
     id: "saintlucia-morne-coubaril-estate-history-v2",
@@ -114,6 +174,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["The plantation still produces cocoa, copra, and cassava.", "Visitors can see traditional sugarcane juice extraction.", "The manor house was renovated in the original French colonial style.", "Offers views of the Pitons and Soufrière Bay."],
     },
     imageHint: "Reconstructed historical worker huts at Morne Coubaril Estate",
+    descriptionAdvanced: {
+      de: "Das Morne Coubaril Estate ist eine der ältesten funktionierenden Plantagen der Insel und stammt aus dem Jahr 1713. Ursprünglich Teil einer königlichen Landschenkung, widmet sich das Anwesen seit Jahrhunderten dem Anbau von Kakao, Kaffee und Zuckerrohr. Besucher können hier nachgebaute Sklavenhütten und die traditionelle Verarbeitung landwirtschaftlicher Erzeugnisse besichtigen.",
+      hu: "A Morne Coubaril birtok a sziget egyik legrégebbi működő ültetvénye, amely 1713-ig vezeti vissza eredetét. Az eredetileg királyi adományként kapott terület évszázadok óta kakaó, kávé és cukornád termesztésével foglalkozik. A látogatók rekonstruált rabszolgaházakat és a mezőgazdasági termékek hagyományos feldolgozását tekinthetik meg.",
+      ro: "Domeniul Morne Coubaril este una dintre cele mai vechi plantații funcționale de pe insulă, datând din 1713. Inițial parte a unei concesiuni regale, proprietatea s-a dedicat timp de secole cultivării de cacao, cafea și trestie de zahăr. Vizitatorii pot vedea replici ale colibelor sclavilor și procesele tradiționale de prelucrare a recoltelor.",
+      en: "Morne Coubaril Estate is one of the island's oldest working plantations, dating back to 1713. Originally part of a royal land grant to the Devaux brothers, it has produced cocoa, coffee, and sugar for centuries. The estate features a replica village showing traditional plantation life and the historical methods of crop processing.",
+    },
+    factsAdvanced: {
+      de: ["1713 als Teil einer 2.000-Morgen-Schenkung gegründet.", "Älteste kontinuierlich bewirtschaftete Plantage.", "Fokus auf Kakaofermentierung und Kopra-Trocknung.", "Nachbau eines karibischen Dorfes auf dem Gelände.", "Bietet Ausblicke auf die berühmten Piton-Berge.", "Die Eigentümerfamilie Devaux besaß es über Generationen."],
+      hu: ["1713-ban alapították egy 2000 holdas adomány részeként.", "A legrégebbi folyamatosan művelt ültetvény a szigeten.", "Kakaófermentálással és kopraszárítással foglalkozik.", "Egy rekonstruált karibi falu látható a területén.", "Kiváló kilátást nyújt a közeli Piton-hegyekre.", "A Devaux család generációkon át birtokolta."],
+      ro: ["Fondată în 1713 ca parte a unei donații regale.", "Cea mai veche plantație lucrată continuu de pe insulă.", "Specializată în fermentarea cacauei și uscarea oprei.", "Include o replică a unui sat tradițional caraibian.", "Oferă vederi panoramice către munții Pitons.", "Familia Devaux a deținut proprietatea timp de secole."],
+      en: ["Established in 1713 via a French royal land grant.", "It is the oldest continuously working plantation.", "Demonstrates traditional cocoa and copra production.", "Features a reconstructed authentic stick-and-braid village.", "Located directly overlooking the town of Soufrière.", "The estate house is a 19th-century colonial structure."],
+    },
   },
   {
     id: "saintlucia-la-toc-battery-history-v2",
@@ -133,6 +205,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Built as part of the British harbor fortifications.", "The facility includes underground tunnels and ammunition chambers.", "The cannons could fire projectiles long distances out to sea.", "Today, the ruins are partially integrated into hotel complexes."],
     },
     imageHint: "Concrete bunkers and cannon emplacements at La Toc Battery",
+    descriptionAdvanced: {
+      de: "Die La Toc Battery ist eine britische Küstenbefestigung, die zwischen 1888 und 1892 erbaut wurde, um den Hafen von Castries zu schützen. Die Anlage beherbergte schwere Kanonen und komplexe unterirdische Munitionskammern, die heute gut erhalten sind. Sie stellt ein wichtiges Beispiel für die militärische Ingenieurskunst des späten 19. Jahrhunderts in der Karibik dar.",
+      hu: "A La Toc Battery egy brit parti erődítmény, amely 1888 és 1892 között épült Castries kikötőjének védelmére. A létesítmény nehézágyúknak és összetett földalatti lőszerkamráknak adott otthont, amelyek ma is jó állapotban vannak. Az erőd a 19. század végi karibi katonai mérnöki tudomány egyik fontos példája.",
+      ro: "Bateria La Toc este o fortificație de coastă britanică, construită între 1888 și 1892 pentru a proteja portul Castries. Structura adăpostea tunuri grele și camere de muniție subterane complexe, care sunt bine conservate astăzi. Reprezintă un exemplu important de inginerie militară de la sfârșitul secolului XIX în Caraibe.",
+      en: "La Toc Battery is a British coastal fortification built between 1888 and 1892 to defend the strategic harbor of Castries. The battery featured heavy rifled muzzle-loading guns and complex underground magazine chambers which remain remarkably intact. It stands as a significant example of late 19th-century military engineering in the Caribbean.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit dauerte von 1888 bis etwa 1892.", "Wurde zum Schutz vor der französischen Flotte gebaut.", "Verfügt über tiefe unterirdische Tunnel und Bunker.", "Teil eines Verteidigungsnetzes um den Hafen.", "Die Kanonen konnten Projektile über weite Distanzen feuern.", "Heute als historisches Denkmal für Besucher zugänglich."],
+      hu: ["Az építkezés 1888-tól kb. 1892-ig tartott.", "A francia flotta elleni védekezésül építették.", "Mély földalatti alagutakkal és bunkerekkel rendelkezik.", "A kikötőt övező védelmi hálózat része volt.", "Ágyúi nagy távolságra tudtak lövedékeket kilőni.", "Ma történelmi emlékműként látogatható helyszín."],
+      ro: ["Construcția a durat din 1888 până în circa 1892.", "Edificată pentru apărarea împotriva flotei franceze.", "Dispune de tuneluri și buncăre subterane adânci.", "Parte a unei rețele de apărare din jurul portului.", "Tunurile puteau trage proiectile la distanțe mari.", "Astăzi este accesibilă ca monument istoric."],
+      en: ["Construction occurred between 1888 and 1892.", "Designed to protect the harbor from naval attacks.", "Contains deep underground shell and powder rooms.", "Armed with two 6-inch and two 10-inch RML guns.", "Part of the extensive Morne Fortune defense system.", "Restored and preserved as a private historical site."],
+    },
   },
   {
     id: "saintlucia-vigie-lighthouse-history-v2",
@@ -152,6 +236,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["The tower is about 11 meters high and painted white.", "Its light is visible from a distance of 20 nautical miles.", "The peninsula was contested in the Battle of La Vigie in 1778.", "Located near the George F.L. Charles Airport."],
     },
     imageHint: "White Vigie Lighthouse on peninsula Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Vigie-Leuchtturm auf dem Gipfel des Vigie Hill wurde 1883 errichtet, um die Einfahrt in den Hafen von Castries zu sichern. Er liegt 154 Meter über dem Meeresspiegel und dient bis heute als wichtiger Navigationspunkt für die Schifffahrt. Seine Architektur ist typisch für britische Leuchttürme der Kolonialzeit und bietet einen Rundblick über den Norden der Insel.",
+      hu: "A Vigie-világítótorony a Vigie-domb tetején épült 1883-ban, hogy biztosítsa a Castries kikötőjébe való belépést. 154 méterrel a tengerszint felett helyezkedik el, és a mai napig fontos navigációs pontként szolgál a hajózás számára. Építészete a gyarmati korszak brit világítótornyaira jellemző, és teljes körpanorámát nyújt a sziget északi részére.",
+      ro: "Farul Vigie, situat pe culmea dealului Vigie, a fost ridicat în 1883 pentru a ghida intrarea în portul Castries. Aflat la 154 de metri deasupra nivelului mării, acesta servește și astăzi ca punct de navigație crucial. Arhitectura sa este tipică farurilor britanice coloniale și oferă o vedere panoramică asupra nordului insulei.",
+      en: "Vigie Lighthouse, situated atop Vigie Hill, was constructed in 1883 to guide vessels into Castries harbor. Standing 154 meters above sea level, the lighthouse remains an active and vital navigational aid for maritime traffic. Its traditional masonry design is characteristic of late Victorian British colonial lighthouses.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr des Leuchtturms ist 1883.", "Befindet sich 154 Meter über dem Meeresspiegel.", "Das Signal ist aus 22 Seemeilen Entfernung sichtbar.", "Wurde zur Zeit der britischen Herrschaft erbaut.", "Markiert die nördliche Landzunge von Castries.", "Dient heute noch als aktive Navigationshilfe."],
+      hu: ["A világítótorony 1883-ban épült.", "154 méterrel a tengerszint felett található.", "Jelzőfénye 22 tengeri mérföldről is látható.", "A brit gyarmati uralom idején emelték.", "Castries északi nyúlványát jelöli ki.", "Ma is aktív navigációs segédeszközként működik."],
+      ro: ["Anul construcției farului este 1883.", "Se află la 154 de metri deasupra nivelului mării.", "Lumina sa este vizibilă de la 22 de mile marine.", "Construit în timpul administrației britanice.", "Marchează promontoriul nordic al portului Castries.", "Funcționează și astăzi ca ajutor de navigație activ."],
+      en: ["The current lighthouse was completed in 1883.", "Perched at an elevation of 154 meters (505 feet).", "Its light range is approximately 22 nautical miles.", "The structure is a white cylindrical masonry tower.", "Located near the George F.L. Charles Airport.", "Automated in later years but still operational."],
+    },
   },
   {
     id: "saintlucia-vigie-military-cemetery-history-v2",
@@ -171,6 +267,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Contains graves of victims of yellow fever and colonial wars.", "Many inscriptions date back to the British-French conflicts.", "Maintained by the Commonwealth War Graves Commission.", "Offers a quiet atmosphere away from the busy capital."],
     },
     imageHint: "Historic military graves and headstones at Vigie Cemetery",
+    descriptionAdvanced: {
+      de: "Der Vigie Military Cemetery ist eine historische Ruhestätte für britische und französische Soldaten aus dem 18. und 19. Jahrhundert. Viele der hier Begrabenen starben während der heftigen Kolonialkriege oder durch Gelbfieber-Epidemien. Der Friedhof spiegelt die turbulente Militärgeschichte St. Lucias wider, als die Insel mehrfach zwischen den Mächten wechselte.",
+      hu: "A Vigie katonai temető a 18. és 19. századi brit és francia katonák történelmi nyughelye. Az itt eltemetettek közül sokan a heves gyarmati háborúk során vagy sárgaláz-járványokban vesztették életüket. A temető hűen tükrözi St. Lucia viharos katonai múltját, amikor a sziget többször is gazdát cserélt a nagyhatalmak között.",
+      ro: "Cimitirul Militar Vigie este un loc de odihnă istoric pentru soldații britanici și francezi din secolele XVIII și XIX. Mulți dintre cei îngropați aici au murit în timpul războaielor coloniale sau din cauza epidemiilor de febră galbenă. Cimitirul reflectă istoria militară turbulentă a insulei, care a schimbat tabăra de 14 ori.",
+      en: "The Vigie Military Cemetery is a historic burial ground for British and French servicemen from the 18th and 19th centuries. Many interred here succumbed to yellow fever outbreaks or died during the numerous colonial battles for island control. The cemetery stands as a solemn testament to Saint Lucia's strategic military importance during the colonial era.",
+    },
+    factsAdvanced: {
+      de: ["Enthält Gräber aus dem späten 18. Jahrhundert.", "Viele Opfer starben an tropischen Krankheiten.", "Wurde primär für die Garnison auf Vigie genutzt.", "Befindet sich an der Nordseite der Vigie-Halbinsel.", "Einige Gedenksteine sind aufgrund des Alters verwittert.", "Teil des nationalen historischen Erbes der Insel."],
+      hu: ["A 18. század végéről is tartalmaz sírokat.", "Sok áldozat trópusi betegségekben hunyt el.", "Elsősorban a Vigie-helyőrség számára használták.", "A Vigie-félsziget északi oldalán található.", "Néhány emlékkő az idők során erősen megkopott.", "A sziget nemzeti történelmi örökségének része."],
+      ro: ["Conține morminte din a doua jumătate a sec. XVIII.", "Mulți soldați au murit de boli tropicale (febră galbenă).", "Utilizat în principal de garnizoana de pe Vigie.", "Situat pe partea de nord a peninsulei Vigie.", "Unele pietre funerare sunt erodate de trecerea timpului.", "Inclus în patrimoniul istoric național al insulei."],
+      en: ["Houses graves dating back to the late 1700s.", "Yellow fever was the primary cause of death for many.", "Served the military barracks located on Vigie Hill.", "Includes burials of high-ranking colonial officers.", "Located near the shore at the tip of the peninsula.", "Managed by the Saint Lucia National Trust."],
+    },
   },
   {
     id: "saintlucia-soufriere-old-courthouse-history-v2",
@@ -190,6 +298,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Soufrière was the first capital of Saint Lucia under French rule.", "The building is located near the central marketplace.", "Built in the 19th century using local stone and wood.", "An important landmark for walking tours of the town."],
     },
     imageHint: "Colonial architecture of the old courthouse in Soufriere",
+    descriptionAdvanced: {
+      de: "Das alte Gerichtsgebäude von Soufrière ist ein markantes Beispiel für die französische Kolonialarchitektur des 19. Jahrhunderts. Es diente lange Zeit als administratives Zentrum der Region und Zeuge wichtiger rechtlicher Entscheidungen. Das Gebäude zeichnet sich durch seine Holzkonstruktion und umlaufenden Balkone aus, die typisch für die karibische Bauweise jener Zeit sind.",
+      hu: "Soufrière régi bírósági épülete a 19. századi francia gyarmati építészet kiemelkedő példája. Hosszú ideig a régió adminisztratív központjaként szolgált, és számos fontos jogi döntés helyszíne volt. Az épületet fa szerkezete és a karibi stílusra jellemző, körbefutó erkélyek teszik különlegessé.",
+      ro: "Vechea judecătorie din Soufrière este un exemplu remarcabil de arhitectură colonială franceză din secolul al XIX-lea. A servit mult timp ca centru administrativ al regiunii și a fost martora unor decizii juridice importante. Clădirea se distinge prin structura sa din lemn și balcoanele perimetrale tipice stilului caraibian.",
+      en: "The Old Courthouse in Soufrière is a notable example of 19th-century French colonial architecture. For decades, it served as the administrative and legal heart of the district, witnessing significant historical rulings. The structure features traditional timber framing and wraparound verandas, reflecting the functional Caribbean style of the era.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im typisch französisch-kolonialen Stil.", "Diente als Gerichts- und Verwaltungsgebäude.", "Befindet sich im historischen Kern von Soufrière.", "Wurde nach Bränden im 19. Jahrhundert wieder aufgebaut.", "Zeigt Einflüsse der kretischen Holzbauweise.", "Heute ein geschütztes architektonisches Denkmal."],
+      hu: ["Tipikus francia gyarmati stílusban épült.", "Bíróságként és közigazgatási épületként is szolgált.", "Soufrière történelmi városközpontjában található.", "A 19. századi tüzek után újjáépítették.", "A fa szerkezeti elemek karibi stílusjegyeket mutatnak.", "Ma védett építészeti műemléknek számít."],
+      ro: ["Construită în stil colonial francez autentic.", "A servit ca sediu pentru tribunale și administrație.", "Situată în centrul istoric al orașului Soufrière.", "Reconstruită după incendiile din secolul XIX.", "Prezintă detalii sculptate în lemn specifice epocii.", "Astăzi este un reper arhitectural protejat."],
+      en: ["Constructed primarily in the 19th century.", "Located near the waterfront in central Soufrière.", "Reflects the French heritage of the town's design.", "Survived several major fires and hurricanes.", "Features classic Caribbean fretwork and shutters.", "A key stop on historical tours of the south coast."],
+    },
   },
   {
     id: "saintlucia-fond-doux-plantation-history-v2",
@@ -209,6 +329,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["The estate was founded in 1745 under French colonial administration.", "Houses several traditional-style 'Petit Houses'.", "Visitors can see the 'Cocoa Dance' used for drying beans.", "Part of the UNESCO World Heritage Pitons Management Area."],
     },
     imageHint: "Historical cocoa drying trays and plantation house Fond Doux",
+    descriptionAdvanced: {
+      de: "Die Fond Doux Plantage ist ein über 250 Jahre altes Anwesen, das heute als UNESCO-Weltnaturerbe-Pufferzone gilt. Ursprünglich eine reine Kakaoplantage, bewahrt sie bis heute die traditionellen Methoden der Kakaoverarbeitung. Das 135 Hektar große Gelände beherbergt ein historisches Plantagenhaus und bietet Einblicke in das ländliche Leben der Kolonialzeit.",
+      hu: "A Fond Doux ültetvény egy több mint 250 éves birtok, amely ma az UNESCO világörökségi pufferzónájához tartozik. Eredetileg tisztán kakaóültetvény volt, és a mai napig őrzi a kakaófeldolgozás hagyományos módszereit. A 135 hektáros területen egy történelmi ültetvényház áll, és betekintést nyújt a gyarmati korszak vidéki életébe.",
+      ro: "Plantația Fond Doux este un domeniu cu o vechime de peste 250 de ani, situat în zona de protecție a patrimoniului mondial UNESCO. Inițial o plantație de cacao, aceasta păstrează și astăzi metodele tradiționale de prelucrare a recoltei. Terenul de 135 de acri găzduiește un conac istoric și oferă detalii despre viața rurală colonială.",
+      en: "Fond Doux Plantation is a 250-year-old estate located within the buffer zone of the UNESCO World Heritage Pitons Management Area. Still an active cocoa producer, it utilizes traditional drying and dancing methods to process beans. The 135-acre property features a historic plantation house and preserved colonial-era outbuildings.",
+    },
+    factsAdvanced: {
+      de: ["Die Plantage besteht seit etwa 250 Jahren.", "Umfasst eine Gesamtfläche von 135 Hektar.", "Gehört zur Pufferzone des UNESCO-Welterbes.", "Bekannt für traditionelles Kakaotanzen zur Politur.", "Beherbergt seltene endemische Pflanzenarten.", "Das Plantagenhaus ist ein Originalbau der Epoche."],
+      hu: ["Az ültetvény körülbelül 250 éves múltra tekint vissza.", "Teljes területe 135 hektárt tesz ki.", "Az UNESCO világörökség pufferzónájában fekszik.", "Híres a hagyományos kakaótánc módszeréről.", "Ritka, őshonos növényfajoknak ad otthont.", "Az ültetvényház a korszak eredeti építménye."],
+      ro: ["Plantația funcționează de aproximativ 250 de ani.", "Acoperă o suprafață totală de 135 de acri.", "Situată în zona tampon a patrimoniului UNESCO.", "Cunoscută pentru tehnica tradițională 'dansul cacauei'.", "Găzduiește specii de plante endemice rare.", "Conacul este o structură originală din epoca sa."],
+      en: ["The estate has been operating for over 250 years.", "Spans a total area of 135 acres of fertile land.", "Located within the Pitons World Heritage buffer zone.", "Uses the 'cocoa dancing' technique for polishing beans.", "Home to a working chocolate processing facility.", "The main house is a classic French colonial design."],
+    },
   },
   {
     id: "saintlucia-anse-la-raye-village-history-v2",
@@ -228,6 +360,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["The village preserves many French and English influences.", "Famous for the weekly 'Seafood Friday' street festival.", "The Catholic church contains murals by local artists.", "Wooden houses feature elaborate gingerbread fretwork."],
     },
     imageHint: "Colorful colonial wooden houses in Anse La Raye village",
+    descriptionAdvanced: {
+      de: "Das Fischerdorf Anse La Raye ist bekannt für seine gut erhaltene Holzarchitektur und seine tief verwurzelten Seefahrtstraditionen. Der Name leitet sich von den Rochen ab, die in der Bucht vorkommen. Das Dorf bietet mit seiner historischen Kirche von 1907 und den bunten Häusern ein authentisches Bild der karibischen Küstenkultur abseits des Massentourismus.",
+      hu: "Anse La Raye halászfalu jól megőrzött faépítészetéről és mélyen gyökerező tengerészeti hagyományairól ismert. A település nevét az öbölben található rájákról kapta. Az 1907-ben épült történelmi templom és a színes házak autentikus képet festenek a karibi parti kultúráról, távol a tömegturizmustól.",
+      ro: "Satul pescăresc Anse La Raye este cunoscut pentru arhitectura sa din lemn bine conservată și tradițiile maritime profunde. Numele derivă de la pisicile de mare (rayes) găsite în golf. Satul, cu biserica sa istorică din 1907 și casele colorate, oferă o imagine autentică a culturii de coastă din Caraibe.",
+      en: "The fishing village of Anse La Raye is renowned for its well-preserved timber architecture and deep-seated maritime traditions. Its name is derived from the rays found in the bay. Featuring a historic Catholic church built in 1907 and vibrant local houses, the village provides an authentic glimpse into Saint Lucia’s coastal heritage.",
+    },
+    factsAdvanced: {
+      de: ["Name bedeutet 'Bucht der Rochen'.", "Die katholische Kirche wurde 1907 erbaut.", "Berühmt für das wöchentliche 'Fish Fry' Event.", "Besitzt zahlreiche Beispiele karibischer Fretwork-Baukunst.", "Traditionelle Einbäume (Pirogen) werden noch genutzt.", "Das Dorf liegt in einem schmalen Tal am Meer."],
+      hu: ["A név jelentése: 'Ráják öble'.", "A katolikus templom 1907-ben épült.", "Híres a heti rendszerességű halas sütögetésről.", "Számos karibi fafaragásos díszítés látható a házakon.", "A hagyományos kenukat (pirogue) ma is használják.", "A falu egy szűk völgyben fekszik a tengerparton."],
+      ro: ["Numele se traduce prin 'Golful Pisicilor de Mare'.", "Biserica catolică actuală a fost construită în 1907.", "Renumit pentru evenimentul săptămânal 'Fish Fry'.", "Păstrează multe case cu detalii din lemn traforat.", "Pirogile tradiționale sunt încă folosite la pescuit.", "Satul este amplasat într-o vale îngustă de coastă."],
+      en: ["The name translates to 'Bay of Rays'.", "The village church was completed in 1907.", "Famous for the Friday night Seafood Fish Fry.", "Known for its 'gingerbread' style wooden architecture.", "Local fishermen still use traditional dugout pirogues.", "Located on the western leeward coast of the island."],
+    },
   },
   {
     id: "saintlucia-cape-moule-a-chique-lighthouse-history-v2",
@@ -247,6 +391,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Offers views as far as St. Vincent island on clear days.", "Built on the ruins of an old signal station.", "The tower itself is of massive masonry, 15 meters high.", "Crucial navigation point for ships coming from South America."],
     },
     imageHint: "Lighthouse on top of high cliffs at Cape Moule a Chique",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm am Cape Moule-a-Chique wurde 1912 errichtet und steht auf einer der höchsten Klippen der Insel. Mit einer Höhe von etwa 222 Metern über dem Meeresspiegel ist er einer der am höchsten gelegenen Leuchttürme der Welt. Er markiert den südlichsten Punkt von St. Lucia und bietet einen weiten Blick bis zur Nachbarinsel St. Vincent.",
+      hu: "A Cape Moule-a-Chique világítótorony 1912-ben épült a sziget egyik legmagasabb szikláján. A tengerszint felett mintegy 222 méteres magasságával a világ egyik legmagasabban fekvő világítótornya. St. Lucia legdélibb pontját jelöli, és tiszta időben ellátni innen egészen a szomszédos St. Vincent szigetéig.",
+      ro: "Farul de la Capul Moule-a-Chique a fost construit în 1912 pe una dintre cele mai înalte stânci ale insulei. Situat la aproximativ 222 de metri deasupra nivelului mării, este unul dintre farurile aflate la cea mai mare altitudine din lume. Marchează punctul sudic extrem și oferă vizibilitate până la insula vecină St. Vincent.",
+      en: "The lighthouse at Cape Moule-a-Chique was built in 1912 on some of the island's highest sea cliffs. Perched at approximately 222 meters (730 feet) above sea level, it is among the highest lighthouses in the world. It marks the southernmost tip of Saint Lucia and offers views spanning across to the neighboring island of Saint Vincent.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr des Leuchtturms ist 1912.", "Höhe über Meeresspiegel beträgt 222 Meter.", "Zweit höchstgelegener Leuchtturm der Welt (oft zitiert).", "Markiert den südlichsten Punkt der Insel.", "Bietet Sichtkontakt zur Insel St. Vincent.", "Wichtiger Orientierungspunkt für den Flughafen Hewanorra."],
+      hu: ["A világítótorony 1912-ben készült el.", "Magassága a tengerszint felett 222 méter.", "Gyakran említik a világ második legmagasabb tornyaként.", "A sziget legdélebbi pontján helyezkedik el.", "Tiszta időben látható innen St. Vincent szigete.", "Fontos tájékozódási pont a Hewanorra repülőtérnél."],
+      ro: ["Farul a fost finalizat în anul 1912.", "Situat la o altitudine de 222 de metri.", "Considerat al doilea cel mai înalt far ca poziție din lume.", "Reprezintă cel mai sudic punct al insulei.", "Oferă vederi spre insula St. Vincent în zilele senine.", "Punct de reper major pentru aviația de la Hewanorra."],
+      en: ["Completed and commissioned in 1912.", "Stands 222 meters (730 feet) above the sea.", "Often cited as the second highest lighthouse in the world.", "Located at the extreme southern tip of Saint Lucia.", "Provides a 360-degree view of the Atlantic and Caribbean.", "Crucial landmark for ships approaching Vieux Fort."],
+    },
   },
   {
     id: "saintlucia-maria-islands-archaeology-history-v2",
@@ -266,6 +422,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["The islands are now a nature reserve for rare reptiles.", "Finds date back as far as 1000 AD.", "Evidence of permanent settlements by indigenous peoples.", "Access is strictly regulated to protect flora and fauna."],
     },
     imageHint: "Small islands off the coast of Vieux Fort Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die Maria Islands vor der Küste von Vieux Fort sind ein Naturschutzgebiet von hoher archäologischer Bedeutung. Ausgrabungen brachten Artefakte der Arawak- und Kariben-Indianer ans Licht, die auf eine lange Besiedlungsgeschichte hindeuten. Heute sind die Inseln zudem Rückzugsort für extrem seltene Reptilienarten wie die St. Lucia-Rennnatter, die nur hier vorkommt.",
+      hu: "A Vieux Fort partjainál fekvő Maria-szigetek kiemelkedő régészeti jelentőségű természetvédelmi terület. Az ásatások során arawak és karib indiánoktól származó leleteket találtak, amelyek hosszú betelepülési múltra utalnak. Ma a szigetek rendkívül ritka hüllőfajok, például a csak itt élő St. Lucia-i versenyfutó sikló menedékhelyei.",
+      ro: "Insulele Maria, situate în largul coastei Vieux Fort, reprezintă o rezervație naturală cu o importanță arheologică majoră. Săpăturile au scos la iveală artefacte ale amerindienilor Arawak și Carib, indicând o istorie lungă de așezare. Astăzi, insulele sunt și refugiul unor specii extrem de rare, precum șarpele Saint Lucia Racer.",
+      en: "The Maria Islands, located off the coast of Vieux Fort, are a protected nature reserve of significant archaeological importance. Excavations have uncovered Amerindian artifacts from Arawak and Carib settlements, dating back centuries. Today, the islands serve as a critical sanctuary for the world's rarest reptiles, including the Saint Lucia Racer snake.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus zwei Inseln: Maria Major und Minor.", "Heimat der seltensten Schlange der Welt (St. Lucia Racer).", "Archäologische Funde belegen präkolumbianische Präsenz.", "Nur während der Trockenzeit für Besucher zugänglich.", "Wurde 1982 zum Naturschutzgebiet erklärt.", "Wichtiger Nistplatz für wandernde Seevögel."],
+      hu: ["Két szigetből áll: Maria Major és Maria Minor.", "A világ legritkább kígyójának (St. Lucia Racer) otthona.", "Régészeti leletek bizonyítják a prekolumbián jelenlétet.", "Csak a száraz évszakban látogatható korlátozottan.", "1982-ben nyilvánították természetvédelmi területté.", "Vándormadarak fontos fészkelőhelye."],
+      ro: ["Formate din două insule: Maria Major și Minor.", "Adăpostesc cel mai rar șarpe din lume (Saint Lucia Racer).", "Descoperiri arheologice atestă prezența amerindiană.", "Accesul este permis doar în sezonul uscat, cu ghid.", "Declarate rezervație naturală în anul 1982.", "Loc important de cuibărit pentru păsările marine."],
+      en: ["Consists of two islets: Maria Major and Maria Minor.", "Home to the Saint Lucia Racer, the world's rarest snake.", "Evidence of Arawak and Carib presence was found here.", "Designated as a Nature Reserve in 1982.", "Managed by the Saint Lucia National Trust.", "Access is strictly regulated to protect fragile ecosystems."],
+    },
   },
   {
     id: "saintlucia-beane-field-wwii-history-v2",
@@ -285,6 +453,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Built under the 'Destroyers for Bases' agreement.", "The site now houses Hewanorra International Airport.", "Old bunkers and runways are still partially visible.", "Brought thousands of American soldiers to the island."],
     },
     imageHint: "Remnants of old military structures at Beane Field Saint Lucia",
+    descriptionAdvanced: {
+      de: "Beane Field wurde 1941 im Rahmen des Leih- und Pachtgesetzes als US-Militärbasis im Süden von St. Lucia errichtet. Während des Zweiten Weltkriegs diente der Stützpunkt zur Überwachung der karibischen Gewässer und zum Schutz vor deutschen U-Booten. Nach dem Krieg wurde das Gelände umgewidmet und bildet heute die Basis des Hewanorra International Airport.",
+      hu: "A Beane Field 1941-ben épült az amerikai bérleti és kölcsönbérleti törvény keretében az USA katonai bázisaként St. Lucia déli részén. A második világháború alatt a bázis a karibi vizek megfigyelésére és a német tengeralattjárók elleni védekezésre szolgált. A háború után a területet polgári célokra alakították át, ma itt működik a Hewanorra nemzetközi repülőtér.",
+      ro: "Beane Field a fost construită în 1941 ca bază militară a SUA în sudul insulei, în cadrul acordului 'Lend-Lease'. În timpul celui de-al Doilea Război Mondial, baza servea la monitorizarea apelor caraibiene și protecția împotriva submarinelor germane. După război, terenul a fost reconvertit și constituie astăzi baza Aeroportului Internațional Hewanorra.",
+      en: "Beane Field was established in 1941 as a United States Army Air Forces base under the Lend-Lease Agreement. During World War II, it played a crucial role in monitoring Caribbean waters and defending against German U-boat threats. Following the war, the military facilities were decommissioned, eventually forming the site of Hewanorra International Airport.",
+    },
+    factsAdvanced: {
+      de: ["1941 als US-Luftwaffenstützpunkt gegründet.", "Teil des 'Destroyers for Bases' Abkommens.", "Diente dem Schutz des Panamakanals.", "Verfügte über ausgedehnte Start- und Landebahnen.", "Wurde 1949 an St. Lucia zurückgegeben.", "Heute Standort des Hewanorra International Airport."],
+      hu: ["1941-ben alapították az USA légibázisaként.", "A 'rombolókat bázisokért' egyezmény része volt.", "A Panama-csatorna védelmét is szolgálta.", "Kiterjedt kifutópályákkal és infrastruktúrával rendelkezett.", "1949-ben került vissza St. Lucia fennhatósága alá.", "Ma itt található a Hewanorra nemzetközi repülőtér."],
+      ro: ["Fondată în 1941 ca bază aeriană a SUA.", "Parte a acordului istoric 'Destroyers for Bases'.", "A servit la protejarea rutelor spre Canalul Panama.", "Dispunea de piste extinse capabile să primească bombardiere.", "A fost returnată administrației locale în 1949.", "Locația actuală a Aeroportului Internațional Hewanorra."],
+      en: ["Established in 1941 as a USAAF airbase.", "Acquired by the US under the Lend-Lease Act.", "Key strategic point for anti-submarine patrols.", "The base was named after James Dudley Beane.", "Turned over to Saint Lucian control in 1949.", "The original runways form the core of the modern airport."],
+    },
   },
   {
     id: "saintlucia-marquis-estate-history-v2",
@@ -304,6 +484,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Founded in the 18th century by French settlers.", "Housed a large sugar mill and tobacco plantations.", "A significant site for archaeological studies of the colonial era.", "Located in a secluded valley near Marquis Bay."],
     },
     imageHint: "Stone ruins of old plantation buildings in a tropical valley",
+    descriptionAdvanced: {
+      de: "Das Marquis Estate im Nordosten der Insel war einst eine der größten und bedeutendsten Plantagen von St. Lucia. Gegründet im 18. Jahrhundert, konzentrierte sich das Anwesen zunächst auf die Produktion von Zucker und später auf Bananen. Die Überreste der kolonialen Infrastruktur erzählen von der intensiven landwirtschaftlichen Nutzung und der Bedeutung des Marquis-Flusses für den Export.",
+      hu: "A sziget északkeleti részén található Marquis birtok egykor St. Lucia egyik legnagyobb és legjelentősebb ültetvénye volt. A 18. században alapított terület kezdetben cukor, később pedig banán termesztésére összpontosított. A gyarmati infrastruktúra maradványai az intenzív mezőgazdasági hasznosításról és a Marquis-folyó exportban betöltött szerepéről tanúskodnak.",
+      ro: "Domeniul Marquis din nord-estul insulei a fost cândva una dintre cele mai mari și mai importante plantații din Saint Lucia. Fondată în secolul al XVIII-lea, proprietatea s-a concentrat inițial pe producția de zahăr și ulterior pe cea de banane. Resturile infrastructurii coloniale atestă utilizarea agricolă intensă și rolul râului Marquis în export.",
+      en: "Marquis Estate, located on the northeast coast, was once among the largest and most prosperous plantations on Saint Lucia. Established in the 18th century, the estate initially specialized in sugar production before shifting to bananas in the 20th century. Historic ruins on the site provide evidence of the extensive colonial-era agricultural infrastructure.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im frühen 18. Jahrhundert (ca. 1723).", "War einst die größte Plantage der Insel.", "Der Marquis-Fluss wurde für den Transport genutzt.", "Produzierte über Jahrzehnte hochwertigen Zucker.", "Verfügt über Ruinen einer alten Wassermühle.", "Befindet sich in der Nähe des Dorfes Babonneau."],
+      hu: ["A 18. század elején, 1723 körül alapították.", "Egykor a sziget legnagyobb ültetvénye volt.", "A Marquis-folyót szállítási célokra használták.", "Évtizedeken át kiváló minőségű cukrot termelt.", "Egy régi vízimalom romjai ma is láthatóak.", "Babonneau falu közelében található."],
+      ro: ["Fondată la începutul secolului XVIII (cca. 1723).", "A fost cea mai extinsă plantație de pe insulă.", "Râul Marquis era utilizat pentru transportul mărfii.", "A produs zahăr de înaltă calitate timp de decenii.", "Găzduiește ruinele unei mori de apă istorice.", "Situată în apropierea districtului Babonneau."],
+      en: ["Established as a French land grant around 1723.", "At its peak, it was the largest estate on the island.", "The Marquis River provided essential irrigation.", "Transitioned from sugar to banana production in the 1950s.", "Ruins of the sugar mill and estate house remain.", "Historically connected to the Marquis shipping bay."],
+    },
   },
   {
     id: "saintlucia-rat-island-quarantine-history-v2",
@@ -323,6 +515,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Formerly also known as a leper colony.", "Ruins of the old quarters are still visible.", "The island is located between Castries and Gros Islet.", "Later used as a retreat for government officials."],
     },
     imageHint: "Small island with ruins near the coastline Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die Rat Island Quarantine Station befindet sich auf einer kleinen Insel vor der Küste von Castries. Im 19. und frühen 20. Jahrhundert diente sie als Isolationszentrum für Reisende mit ansteckenden Krankheiten wie Pocken oder Gelbfieber. Heute sind die verlassenen Ruinen der Gebäude ein Zeugnis der medizinischen Geschichte der Insel. Die Insel ist heute ein geschütztes Gebiet und nur per Boot erreichbar.",
+      hu: "A Rat-szigeti karanténállomás egy kis szigeten található Castries partjainál. A 19. és a 20. század elején elkülönítő központként szolgált az olyan fertőző betegségekben szenvedő utazók számára, mint a himlő vagy a sárgaláz. Az épületek elhagyatott romjai ma a sziget orvostörténetének emlékei. A terület jelenleg védett, és csak vízi úton közelíthető meg.",
+      ro: "Stația de carantină de pe insula Rat este situată pe o insulă mică în largul coastei orașului Castries. În secolul al XIX-lea și la începutul secolului al XX-lea, a servit ca centru de izolare pentru călătorii cu boli contagioase precum variola sau febra galbenă. Ruinele abandonate ale clădirilor sunt astăzi o mărturie a istoriei medicale a insulei. Insula este acum o zonă protejată, accesibilă doar cu barca.",
+      en: "The Rat Island Quarantine Station is located on a small islet off the coast of Castries. During the 19th and early 20th centuries, it served as an isolation centre for travelers arriving with contagious diseases such as smallpox or yellow fever. Today, the abandoned ruins of the buildings stand as a testament to the island's medical history. The island is now a protected area and is accessible by boat.",
+    },
+    factsAdvanced: {
+      de: ["Bau der ersten Quarantänegebäude im 19. Jahrhundert", "Nutzung zur Bekämpfung von Pocken- und Gelbfieberepidemien", "Strategische Lage nahe dem Hafen von Castries", "Deaktivierung der medizinischen Station um 1900", "Spätere Nutzung als Erholungsort für Beamte", "Überreste von Steinmauern und Fundamenten sind sichtbar"],
+      hu: ["Az első karanténépületek építése a 19. században történt", "Himlő- és sárgaláz-járványok megfékezésére használták", "Stratégiai elhelyezkedés Castries kikötője közelében", "Az egészségügyi állomás 1900 körül fejezte be működését", "Később tisztviselők pihenőhelyeként használták", "A kőfalak és alapok maradványai ma is láthatóak"],
+      ro: ["Construcția primelor clădiri de carantină în secolul al XIX-lea", "Utilizare pentru combaterea epidemiilor de variolă și febră galbenă", "Locație strategică lângă portul Castries", "Dezafectarea stației medicale în jurul anului 1900", "Utilizare ulterioară ca loc de recreere pentru oficiali", "Rămășițele zidurilor de piatră și ale fundațiilor sunt vizibile"],
+      en: ["Construction of the first quarantine buildings in the 1800s", "Used to combat smallpox and yellow fever outbreaks", "Strategic location near the Castries Harbour entrance", "Decommissioning of the medical station around 1900", "Later served as a recreational site for colonial officers", "Remnants of stone walls and foundations remain visible"],
+    },
   },
   {
     id: "saintlucia-choiseul-petroglyphs-history-v2",
@@ -342,6 +546,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["The carvings often depict human faces and geometric shapes.", "Located mostly on large boulders near rivers.", "Likely created by the Arawak or Carib peoples.", "An important cultural heritage for the local community."],
     },
     imageHint: "Ancient Amerindian petroglyphs carved on a large rock",
+    descriptionAdvanced: {
+      de: "Die Petroglyphen von Choiseul sind prähistorische Felsritzungen, die von den indigenen Völkern der Karibik hinterlassen wurden. Diese antiken Kunstwerke befinden sich auf vulkanischem Gestein und zeigen Gesichter sowie geometrische Muster. Sie bieten einen seltenen Einblick in die spirituelle Welt der Arawak und Kariben vor der Ankunft der Europäer. Die Stätte ist ein wichtiges archäologisches Denkmal im Südwesten der Insel.",
+      hu: "A choiseul-i petroglifák a karibi őslakosok által hátrahagyott prehisztorikus sziklavésetek. Ezek az ősi műalkotások vulkáni kőzeteken találhatóak, és arcokat, valamint geometriai mintákat ábrázolnak. Ritka betekintést nyújtanak az arawak és karib népek spirituális világába az európaiak érkezése előtt. A lelőhely a sziget délnyugati részének fontos régészeti emléke.",
+      ro: "Petroglifele din Choiseul sunt gravuri rupestre preistorice lăsate de popoarele indigene din Caraibe. Aceste opere de artă antice se află pe roci vulcanice și înfățișează fețe și modele geometrice. Ele oferă o privire rară asupra lumii spirituale a popoarelor Arawak și Carib înainte de sosirea europenilor. Situl este un monument arheologic important în sud-vestul insulei.",
+      en: "The Choiseul Petroglyphs are prehistoric rock carvings left by the indigenous peoples of the Caribbean. These ancient artworks are found on volcanic rocks and depict faces and geometric patterns. They offer a rare glimpse into the spiritual world of the Arawak and Carib peoples before the arrival of Europeans. The site is a significant archaeological monument located in the southwest of the island.",
+    },
+    factsAdvanced: {
+      de: ["Ursprung in der präkolumbianischen Ära vor 1500 n. Chr.", "Eingraviert in massives vulkanisches Gestein", "Darstellung stilisierter menschlicher Gesichter", "Befinden sich im Distrikt Choiseul im Südwesten", "Teil des kulturellen Erbes der Amerindians auf St. Lucia", "Archäologische Untersuchungen datieren sie auf mehrere Jahrhunderte"],
+      hu: ["Eredete a kolumbusz előtti korszakba, i.sz. 1500 elé tehető", "Hatalmas vulkáni kőzetekbe vésve maradtak fenn", "Stilizált emberi arcok ábrázolása jellemzi", "A délnyugati Choiseul negyedben találhatóak", "Szent Lucia amerikai indián kulturális örökségének része", "A régészeti vizsgálatok több évszázadosra datálják őket"],
+      ro: ["Origine în era precolumbiană, înainte de 1500 d.Hr.", "Gravate în roci vulcanice masive", "Reprezentarea unor fețe umane stilizate", "Se află în districtul Choiseul din sud-vest", "Parte a moștenirii culturale a amerindienilor din Sfânta Lucia", "Investigațiile arheologice le datează de câteva secole"],
+      en: ["Origin dates to the Pre-Columbian era before 1500 AD", "Etched into massive volcanic boulders", "Depict stylized human faces and symbols", "Located in the Choiseul district in the southwest", "Part of the Amerindian cultural heritage of St. Lucia", "Archaeological studies date them back several centuries"],
+    },
   },
   {
     id: "saintlucia-laborie-parish-church-history-v2",
@@ -361,6 +577,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Built on the foundations of an older 1714 chapel.", "Displays a mix of Gothic and colonial style elements.", "Laborie village was named after the French Governor.", "The church is a center for community life in the south."],
     },
     imageHint: "Laborie Parish Church with stone facade near the sea",
+    descriptionAdvanced: {
+      de: "Die Laborie Parish Church, offiziell die Kirche der Reinigung der Jungfrau Maria, ist ein markantes Bauwerk im Herzen des Dorfes Laborie. Das heutige Steingebäude wurde zu Beginn des 20. Jahrhunderts errichtet und ersetzte ältere Holzstrukturen. Die Architektur weist gotische Einflüsse auf und ist ein zentraler Punkt für die lokale katholische Gemeinde. Die Kirche ist für ihre handgeschnitzten Details und die friedliche Atmosphäre bekannt.",
+      hu: "A laborie-i plébániatemplom, hivatalos nevén Szűz Mária megtisztulása templom, Laborie falujának szívében álló jellegzetes épület. A mai kőépület a 20. század elején épült, korábbi faszerkezeteket felváltva. Az építészet gótikus stílusjegyeket hordoz, és a helyi katolikus közösség központja. A templom kézzel faragott részleteiről és békés légköréről ismert.",
+      ro: "Biserica Parohială Laborie, oficial Biserica Purificării Sfintei Fecioare Maria, este o structură proeminentă în inima satului Laborie. Actuala clădire din piatră a fost ridicată la începutul secolului al XX-lea, înlocuind structurile mai vechi din lemn. Arhitectura prezintă influențe gotice și este un punct central pentru comunitatea catolică locală. Biserica este cunoscută pentru detaliile sale sculptate manual și atmosfera liniștită.",
+      en: "The Laborie Parish Church, officially the Church of the Purification of the Blessed Virgin Mary, is a prominent structure in the heart of Laborie village. The current stone building was erected in the early 20th century, replacing older wooden structures. The architecture features Gothic influences and serves as a central hub for the local Catholic community. The church is known for its hand-carved details and peaceful atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Fertigstellung des aktuellen Gebäudes im Jahr 1914", "Bauweise aus lokal gewonnenem Stein", "Erste kirchliche Struktur an diesem Ort aus dem 18. Jahrhundert", "Beherbergt einen kunstvoll geschnitzten Altar aus dem Jahr 1900", "Das Dorf Laborie wurde nach dem französischen Gouverneur benannt", "Die Kirche überstand mehrere schwere Hurrikane"],
+      hu: ["A jelenlegi épület 1914-ben készült el", "Helyi bányászatból származó kőből épült", "Az első egyházi építmény ezen a helyen a 18. századból való", "Egy 1900-ból származó, díszesen faragott oltár található benne", "Laborie faluja egy francia kormányzóról kapta a nevét", "A templom több súlyos hurrikánt is sértetlenül átvészelt"],
+      ro: ["Finalizarea clădirii actuale în anul 1914", "Construită din piatră extrasă local", "Prima structură bisericească pe acest loc datează din secolul XVIII", "Găzduiește un altar sculptat elaborat din anul 1900", "Satul Laborie a fost numit după un guvernator francez", "Biserica a supraviețuit mai multor uragane majore"],
+      en: ["Completion of the current stone building in 1914", "Constructed using locally quarried stone", "Site of the original 18th-century French parish church", "Features an ornate hand-carved altar from 1900", "The village of Laborie is named after a French governor", "The church has survived several major hurricanes"],
+    },
   },
   {
     id: "saintlucia-pigeon-island-officers-quarters-history-v2",
@@ -380,6 +608,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["The walls are made of local coral limestone and British bricks.", "The former military hospital is located nearby.", "From here, officers had a view of the strategic Rodney Bay.", "Part of the Pigeon Island National Landmark ensemble."],
     },
     imageHint: "Stone ruins of British officers' quarters on Pigeon Island",
+    descriptionAdvanced: {
+      de: "Die Officers' Quarters auf Pigeon Island sind Teil der historischen britischen Militärbasis aus dem 18. Jahrhundert. Diese steinernen Ruinen dienten einst als Unterkünfte für die hochrangigen Offiziere der britischen Marine unter Admiral Rodney. Die strategische Lage der Insel ermöglichte die Überwachung der französischen Flotte im benachbarten Martinique. Heute sind die Mauern ein bedeutendes Denkmal innerhalb des Pigeon Island National Park.",
+      hu: "A Pigeon-szigeti tiszti lakások a 18. századi történelmi brit katonai bázis részét képezik. Ezek a kőromok egykor a brit haditengerészet magas rangú tisztjeinek szállásául szolgáltak Rodney admirális parancsnoksága alatt. A sziget stratégiai elhelyezkedése lehetővé tette a szomszédos Martinique-on állomásozó francia flotta megfigyelését. Ma a falak a Pigeon Island Nemzeti Park fontos műemlékei.",
+      ro: "Cartierele ofițerilor de pe insula Pigeon fac parte din baza militară britanică istorică din secolul al XVIII-lea. Aceste ruine de piatră au servit odinioară ca locuințe pentru ofițerii superiori ai marinei britanice sub comanda amiralului Rodney. Locația strategică a insulei a permis supravegherea flotei franceze din Martinica vecină. Astăzi, zidurile sunt un monument important în cadrul Parcului Național Pigeon Island.",
+      en: "The Officers' Quarters on Pigeon Island are part of the historic 18th-century British military base. These stone ruins once served as housing for high-ranking British naval officers under Admiral Rodney's command. The island's strategic location allowed for the monitoring of the French fleet in neighboring Martinique. Today, the walls stand as a significant monument within the Pigeon Island National Park.",
+    },
+    factsAdvanced: {
+      de: ["Besetzung der Insel durch die Briten im Jahr 1778", "Bau der Offiziersunterkünfte im späten 18. Jahrhundert", "Verwendung von lokalem Stein und Kalkmörtel", "Teil der Verteidigungsanlagen von Fort Rodney", "Aussichtspunkt auf den Kanal nach Martinique", "Einstufung als nationales Denkmal im Jahr 1972"],
+      hu: ["A sziget brit megszállása 1778-ban történt", "A tiszti szállások a 18. század végén épültek", "Helyi kő és mészhabarcs felhasználásával készültek", "A Fort Rodney védelmi rendszerének részét képezték", "Közvetlen kilátás nyílt a Martinique felé vezető csatornára", "1972-ben nyilvánították nemzeti műemlékké"],
+      ro: ["Ocuparea insulei de către britanici în anul 1778", "Construcția cartierelor ofițerilor la sfârșitul secolului XVIII", "Utilizarea pietrei locale și a mortarului de var", "Parte a complexului defensiv Fort Rodney", "Punct de observație asupra canalului către Martinica", "Declarat monument național în anul 1972"],
+      en: ["British occupation of the island began in 1778", "Construction of the quarters dates to the late 18th century", "Built using local volcanic stone and lime mortar", "Served as part of the Fort Rodney defensive complex", "Strategic viewpoint overlooking the Martinique channel", "Designated as a National Landmark in 1972"],
+    },
   },
   {
     id: "saintlucia-pigeon-island-powder-magazine-history-v2",
@@ -399,6 +639,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["The ceiling is vaulted to divert the pressure of a possible explosion.", "Erected by the British in the late 18th century.", "Today it often houses small exhibits or information centers.", "A well-preserved example of military logistics from the era."],
     },
     imageHint: "Thick-walled stone powder magazine building on Pigeon Island",
+    descriptionAdvanced: {
+      de: "Das Pulvermagazin auf Pigeon Island ist ein robustes Steingebäude, das zur sicheren Lagerung von Schießpulver im 18. Jahrhundert errichtet wurde. Die Struktur wurde mit dicken Mauern und einem gewölbten Dach entworfen, um Explosionen standzuhalten und den Inhalt vor Feuchtigkeit zu schützen. Es war eine lebenswichtige Komponente der britischen Verteidigung während der Kriege gegen Frankreich. Heute ist es eines der am besten erhaltenen Militärgebäude auf der Insel.",
+      hu: "A Pigeon-szigeti lőportár egy robusztus kőépület, amelyet a 18. században építettek a puskapor biztonságos tárolására. A szerkezetet vastag falakkal és boltozatos tetővel tervezték, hogy ellenálljon a robbanásoknak és megvédje a tartalmát a nedvességtől. Létfontosságú eleme volt a brit védelemnek a Franciaország elleni háborúk idején. Ma ez az egyik legjobb állapotban fennmaradt katonai épület a szigeten.",
+      ro: "Magazia de pulbere de pe insula Pigeon este o clădire robustă din piatră, construită pentru depozitarea în siguranță a prafului de pușcă în secolul al XVIII-lea. Structura a fost proiectată cu ziduri groase și un acoperiș boltit pentru a rezista exploziilor și pentru a proteja conținutul de umiditate. A fost o componentă vitală a apărării britanice în timpul războaielor împotriva Franței. Astăzi, este una dintre cele mai bine conservate clădiri militare de pe insulă.",
+      en: "The Powder Magazine on Pigeon Island is a robust stone building constructed for the secure storage of gunpowder in the 18th century. The structure was designed with thick walls and a vaulted roof to withstand explosions and protect the contents from dampness. It was a vital component of British defenses during the wars against France. Today, it remains one of the best-preserved military buildings on the island.",
+    },
+    factsAdvanced: {
+      de: ["Bau im späten 18. Jahrhundert durch die britische Armee", "Feuerfeste Konstruktion mit Tonnengewölbe", "Lagerkapazität für hunderte Fässer Schießpulver", "Strategische Platzierung innerhalb des Fort Rodney Komplexes", "Restaurierung durch den Saint Lucia National Trust", "Teil der UNESCO-Weltkulturerbe-Vorschlagsliste"],
+      hu: ["A 18. század végén építette a brit hadsereg", "Tűzálló konstrukció dongaboltozattal", "Több száz hordó puskapor tárolására volt alkalmas", "Stratégiai elhelyezkedés a Fort Rodney komplexumon belül", "A Saint Lucia National Trust által végzett restaurálás", "A sziget UNESCO világörökségi jelöltlistáján szerepel"],
+      ro: ["Construit la sfârșitul secolului XVIII de armata britanică", "Construcție ignifugă cu boltă semicilindrică", "Capacitate de stocare pentru sute de butoaie de pulbere", "Amplasare strategică în cadrul complexului Fort Rodney", "Restaurat de Saint Lucia National Trust", "Inclus pe lista indicativă UNESCO a Sfintei Lucia"],
+      en: ["Constructed in the late 18th century by British forces", "Features a fireproof stone barrel-vault design", "Storage capacity for hundreds of barrels of gunpowder", "Strategically located within the Fort Rodney complex", "Restored and maintained by the Saint Lucia National Trust", "Part of the island's UNESCO tentative world heritage list"],
+    },
   },
   {
     id: "saintlucia-marigot-bay-rodney-history-v2",
@@ -418,6 +670,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["The bay is almost invisible from the sea due to its geography.", "Considered one of the most beautiful and safe natural harbors in the Caribbean.", "A significant location in the history of the 'Battle of Saint Lucia'.", "Today a popular marina with a rich maritime history."],
     },
     imageHint: "Aerial view of the narrow entrance to Marigot Bay Saint Lucia",
+    descriptionAdvanced: {
+      de: "Admiral Rodneys Versteck in der Marigot Bay ist ein legendärer Ort der britischen Marinegeschichte. Im Jahr 1782 versteckte Admiral Rodney hier seine Flotte vor den Franzosen, indem er die Masten der Schiffe mit Palmblättern tarnte. Die tiefe, schmale Bucht bot perfekten Schutz und war von der See aus fast unsichtbar. Heute ist die Marigot Bay ein luxuriöser Yachthafen, der seine historische Bedeutung bewahrt hat.",
+      hu: "Rodney admirális rejtekhelye a Marigot-öbölben a brit haditengerészeti történelem legendás helyszíne. 1782-ben Rodney admirális itt rejtette el flottáját a franciák elől, a hajók árbocait pálmalevelekkel álcázva. A mély, keskeny öböl tökéletes védelmet nyújtott, és a tenger felől szinte láthatatlan volt. Ma a Marigot-öböl luxus jachtkikötő, amely megőrizte történelmi jelentőségét.",
+      ro: "Locul de ascunzătoare al amiralului Rodney din Marigot Bay este un punct legendar al istoriei navale britanice. În 1782, amiralul Rodney și-a ascuns flota aici de francezi, camuflând catargele navelor cu frunze de palmier. Golful adânc și îngust oferea protecție perfectă și era aproape invizibil de pe mare. Astăzi, Marigot Bay este un port de agrement de lux care și-a păstrat importanța istorică.",
+      en: "Admiral Rodney's Hiding Spot in Marigot Bay is a legendary site in British naval history. In 1782, Admiral Rodney concealed his fleet here from the French by camouflaging the ships' masts with palm fronds. The deep, narrow bay provided perfect shelter and was nearly invisible from the open sea. Today, Marigot Bay is a luxury yacht haven that retains its historical significance.",
+    },
+    factsAdvanced: {
+      de: ["Zusammenhang mit der Schlacht von Les Saintes im Jahr 1782", "Nutzung von Kokospalmen zur Tarnung der Schiffsmasten", "Die Bucht ist eine der tiefsten natürlichen Häfen der Karibik", "Strategischer Vorteil durch die schmale Einfahrt der Bucht", "Britische Flotte entkam erfolgreich der französischen Verfolgung", "Drehort für den Film 'Dr. Dolittle' im Jahr 1967"],
+      hu: ["Az 1782-es Les Saintes-i csatához kapcsolódó esemény", "Kókuszpálmák használata a hajóárbocok álcázására", "Az öböl a Karib-térség egyik legmélyebb természetes kikötője", "Stratégiai előny az öböl szűk bejárata miatt", "A brit flotta sikeresen elmenekült a francia üldözés elől", "Az 1967-es 'Dr. Dolittle' című film forgatási helyszíne"],
+      ro: ["Legat de Bătălia de la Les Saintes din anul 1782", "Utilizarea palmierilor de cocos pentru camuflarea catargelor", "Golful este unul dintre cele mai adânci porturi naturale din Caraibe", "Avantaj strategic datorită intrării înguste a golfului", "Flota britanică a scăpat cu succes de urmărirea franceză", "Loc de filmare pentru filmul 'Dr. Dolittle' în 1967"],
+      en: ["Associated with the 1782 Battle of the Saints era", "Usage of coconut palms to camouflage naval masts", "The bay is one of the deepest natural harbours in the Caribbean", "Strategic advantage due to the bay's narrow hidden entrance", "British fleet successfully evaded French pursuit here", "Filming location for the 1967 movie 'Dr. Dolittle'"],
+    },
   },
   {
     id: "saintlucia-morne-fortune-powder-magazine-history-v2",
@@ -437,6 +701,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Used by both sides during the numerous battles for the hill.", "The massive walls protected against artillery fire.", "One of the few buildings that survived the battles almost unscathed.", "Located near the Inniskilling Monument."],
     },
     imageHint: "Small historic stone military building on Morne Fortune",
+    descriptionAdvanced: {
+      de: "Das Pulvermagazin am Morne Fortune war ein zentraler Teil der Verteidigungsanlagen über Castries. Die strategische Anhöhe wurde im 18. Jahrhundert sowohl von Franzosen als auch von Briten heftig umkämpft. Das Magazin wurde aus Ziegeln und Stein gebaut, um Munition sicher vor den tropischen Elementen und Angriffen zu lagern. Heute ist das Gelände Teil eines Bildungszentrums und bietet einen Panoramablick auf die Hauptstadt.",
+      hu: "A Morne Fortune lőportára a Castries feletti védelmi rendszer központi része volt. A stratégiai magaslatért a 18. században mind a franciák, mind a britek hevesen küzdöttek. A raktár téglából és kőből épült, hogy a lőszert biztonságban tartsa a trópusi elemektől és a támadásoktól. Ma a terület egy oktatási központ része, és panorámás kilátást nyújt a fővárosra.",
+      ro: "Magazia de pulbere de la Morne Fortune a fost o parte centrală a fortificațiilor de deasupra orașului Castries. Înălțimea strategică a fost aprig disputată atât de francezi, cât și de britanici în secolul al XVIII-lea. Magazia a fost construită din cărămidă și piatră pentru a stoca muniția în siguranță împotriva elementelor tropicale și a atacurilor. Astăzi, situl face parte dintr-un centru educațional și oferă o vedere panoramică asupra capitalei.",
+      en: "The Morne Fortune Powder Magazine was a central part of the fortifications overlooking Castries. This strategic hilltop was fiercely contested by both the French and the British throughout the 18th century. The magazine was built of brick and stone to store ammunition safely from tropical elements and enemy fire. Today, the site is part of an educational complex and offers panoramic views of the capital city.",
+    },
+    factsAdvanced: {
+      de: ["Bau der Befestigungen im 18. Jahrhundert", "Lage auf etwa 260 Metern über dem Meeresspiegel", "Verwendung von massiven Ziegelgewölben zur Sicherheit", "Zentrum zahlreicher Schlachten zwischen 1762 und 1803", "Beherbergt heute das Sir Arthur Lewis Community College", "Gut erhaltenes Beispiel für koloniale Militärarchitektur"],
+      hu: ["Az erődítmények építése a 18. században kezdődött", "Körülbelül 260 méterrel a tengerszint felett helyezkedik el", "Masszív téglaboltozatok használata a biztonság érdekében", "Számos csata központja 1762 és 1803 között", "Ma a Sir Arthur Lewis Közösségi Főiskolának ad otthont", "A gyarmati katonai építészet jól megőrzött példája"],
+      ro: ["Construcția fortificațiilor în secolul al XVIII-lea", "Situat la aproximativ 260 de metri deasupra nivelului mării", "Utilizarea bolților masive din cărămidă pentru siguranță", "Centrul a numeroase bătălii între 1762 și 1803", "Găzduiește astăzi Sir Arthur Lewis Community College", "Exemplu bine conservat de arhitectură militară colonială"],
+      en: ["Fortifications constructed during the 18th century", "Located at approximately 850 feet above sea level", "Features massive brick vaulting for blast safety", "Site of numerous battles between 1762 and 1803", "Now part of the Sir Arthur Lewis Community College grounds", "Well-preserved example of colonial military engineering"],
+    },
   },
   {
     id: "saintlucia-apostles-battery-history-v2",
@@ -456,6 +732,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["The cannons were named after the twelve apostles.", "Provides an excellent line of sight over Castries Harbor.", "Rebuilt multiple times during the 18th and 19th centuries.", "Foundations of the gun emplacements are still visible today."],
     },
     imageHint: "Historical gun emplacements overlooking a bay Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die Apostles' Battery ist eine historische Artilleriestellung auf dem Morne Fortune. Ihr Name leitet sich von den zwölf Kanonen ab, die einst dort aufgestellt waren und symbolisch nach den Aposteln benannt wurden. Diese Anlage wurde Ende des 19. Jahrhunderts modernisiert, um den Hafen von Castries vor Marineangriffen zu schützen. Besucher können heute die massiven Betonfundamente und die beeindruckenden Kanonenpositionen besichtigen.",
+      hu: "Az Apostolok-üteg egy történelmi tüzérségi állás a Morne Fortune-on. Neve a tizenkét ágyúból származik, amelyeket egykor ott állítottak fel, és szimbolikusan az apostolokról neveztek el. Ezt a létesítményt a 19. század végén modernizálták, hogy megvédjék Castries kikötőjét a tengeri támadásoktól. A látogatók ma a masszív beton alapokat és a lenyűgöző ágyúállásokat tekinthetik meg.",
+      ro: "Bateria Apostolilor este o poziție istorică de artilerie situată pe Morne Fortune. Numele său provine de la cele douăsprezece tunuri care au fost odată amplasate acolo, numite simbolic după apostoli. Această instalație a fost modernizată la sfârșitul secolului al XIX-lea pentru a proteja portul Castries de atacurile navale. Vizitatorii pot vedea astăzi fundațiile masive de beton și pozițiile impresionante ale tunurilor.",
+      en: "The Apostles' Battery is a historic artillery emplacement located on Morne Fortune. Its name is derived from the twelve guns that were once stationed there, symbolically named after the apostles. This facility was modernized in the late 19th century to protect Castries Harbour from naval attacks. Visitors today can view the massive concrete foundations and the impressive gun positions.",
+    },
+    factsAdvanced: {
+      de: ["Bau der modernisierten Batterie zwischen 1888 und 1890", "Bestückung mit 12 schweren Küstengeschützen", "Strategischer Schutz der Einfahrt zum Hafen von Castries", "Nutzung von modernem Beton und Stahlverstärkungen", "Letzte große Erweiterung der Verteidigung von Morne Fortune", "Teil der viktorianischen Küstenverteidigungsstrategie"],
+      hu: ["A modernizált üteg építése 1888 és 1890 között zajlott", "12 nehéz parti löveggel volt felszerelve", "Castries kikötőjének bejáratát védte stratégiailag", "Modern beton és acélmegerősítések alkalmazása", "A Morne Fortune védelmének utolsó jelentős bővítése", "A viktoriánus kori partvédelmi stratégia része"],
+      ro: ["Construcția bateriei modernizate între 1888 și 1890", "Echipată cu 12 tunuri grele de coastă", "Protecția strategică a intrării în portul Castries", "Utilizarea betonului modern și a armăturilor de oțel", "Ultima extindere majoră a apărării de pe Morne Fortune", "Parte a strategiei victoriene de apărare a coastelor"],
+      en: ["Modernized battery constructed between 1888 and 1890", "Equipped with 12 heavy coastal defense guns", "Strategic protection for the entrance to Castries Harbour", "Utilized modern concrete and steel reinforcements", "Last major expansion of the Morne Fortune defenses", "Part of the late Victorian coastal defense network"],
+    },
   },
   {
     id: "saintlucia-gros-islet-old-town-history-v2",
@@ -475,6 +763,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Officially established as a parish in 1749.", "Formerly a base for smuggling between the islands.", "St. Joseph the Worker Church is the focal point of the town.", "Known for its vibrant atmosphere and colonial layout."],
     },
     imageHint: "Narrow streets with old wooden houses in Gros Islet",
+    descriptionAdvanced: {
+      de: "Die Altstadt von Gros Islet ist eine der ältesten Siedlungen auf Saint Lucia. Ursprünglich ein ruhiges Fischerdorf, wurde es 1749 als französische Pfarrei gegründet. Die Stadt ist bekannt für ihre traditionellen Holzhäuser und schmalen Gassen, die den kolonialen Charme bewahrt haben. Heute verbindet sie ihre reiche Fischereitradition mit lebendiger Kultur und ist weltberühmt für ihre wöchentlichen Straßenfeste.",
+      hu: "Gros Islet óvárosa Szent Lucia egyik legrégebbi települése. Eredetileg csendes halászfalu volt, amelyet 1749-ben alapítottak francia plébániaként. A város hagyományos faházairól és szűk utcáiról ismert, amelyek megőrizték a gyarmati bájt. Ma a gazdag halászati hagyományokat élénk kultúrával ötvözi, és világhírű a heti rendszerességgel megrendezett utcai partijairól.",
+      ro: "Orașul vechi Gros Islet este una dintre cele mai vechi așezări din Sfânta Lucia. Inițial un sat de pescari liniștit, a fost fondat în 1749 ca parohie franceză. Orașul este cunoscut pentru casele sale tradiționale din lemn și străzile înguste care au păstrat farmecul colonial. Astăzi, îmbină tradiția bogată a pescuitului cu o cultură vibrantă, fiind faimos în întreaga lume pentru petrecerile sale stradale săptămânale.",
+      en: "Gros Islet Old Town is one of the oldest settlements on Saint Lucia. Originally a quiet fishing village, it was established as a French parish in 1749. The town is known for its traditional wooden houses and narrow streets that have preserved its colonial charm. Today, it blends its rich fishing heritage with vibrant culture and is world-famous for its weekly street parties.",
+    },
+    factsAdvanced: {
+      de: ["Gründung der Pfarrei Gros Islet im Jahr 1749", "Benannt nach der 'großen Insel' Pigeon Island gegenüber", "Einstiger Haupthafen für die französische Schifffahrt", "Zentrum des katholischen Glaubens im Norden der Insel", "Erhaltung zahlreicher Gebäude aus dem 19. Jahrhundert", "Heimat der berühmten Friday Night Street Party seit Jahrzehnten"],
+      hu: ["A Gros Islet-i plébánia alapítása 1749-ben történt", "A szemközti Pigeon Island 'nagy szigetéről' kapta a nevét", "Egykor a francia hajózás egyik fő kikötője volt", "A katolikus hit központja a sziget északi részén", "Számos 19. századi épület maradt fenn", "A híres Friday Night Street Party otthona évtizedek óta"],
+      ro: ["Fondarea parohiei Gros Islet în anul 1749", "Numit după 'marea insulă' Pigeon Island de vizavi", "Odată un port principal pentru navigația franceză", "Centrul credinței catolice în nordul insulei", "Conservarea a numeroase clădiri din secolul al XIX-lea", "Gazda faimoasei Friday Night Street Party de zeci de ani"],
+      en: ["Establishment of the Gros Islet parish in 1749", "Named after the 'large islet' of Pigeon Island nearby", "Once a primary port for French maritime activities", "Center of Roman Catholic faith in the northern region", "Preservation of several 19th-century wooden structures", "Home to the famous Friday Night Street Party tradition"],
+    },
   },
   {
     id: "saintlucia-vieux-fort-old-town-history-v2",
@@ -494,6 +794,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Was a significant center for the sugar industry in the 18th century.", "Housed the first major sugar factory on the island.", "The name literally translates to 'Old Fort'.", "The architecture displays clear British and French influences."],
     },
     imageHint: "Historic waterfront buildings in Vieux Fort town",
+    descriptionAdvanced: {
+      de: "Vieux Fort Old Town liegt an der Südspitze von Saint Lucia und ist nach einer französischen Festung aus dem 17. Jahrhundert benannt. Die Stadt spielte eine entscheidende Rolle in der Zuckerindustrie und war im 18. Jahrhundert ein bedeutender Exporthafen. Ihre Architektur spiegelt eine Mischung aus kolonialer Geschichte und moderner Entwicklung wider. Nahegelegene historische Plätze zeugen von der strategischen Bedeutung der Region für das Militär.",
+      hu: "Vieux Fort óvárosa Szent Lucia déli csücskén található, és egy 17. századi francia erődről kapta a nevét. A város döntő szerepet játszott a cukoriparban, és a 18. században jelentős exportkikötő volt. Építészete a gyarmati történelem és a modern fejlődés keverékét tükrözi. A közeli történelmi helyszínek a régió stratégiai katonai jelentőségéről tanúskodnak.",
+      ro: "Orașul vechi Vieux Fort se află în vârful sudic al Sfintei Lucia și poartă numele unei fortărețe franceze din secolul al XVII-lea. Orașul a jucat un rol crucial în industria zahărului și a fost un port de export major în secolul al XVIII-lea. Arhitectura sa reflectă un amestec de istorie colonială și dezvoltare modernă. Locurile istorice din apropiere atestă importanța militară strategică a regiunii.",
+      en: "Vieux Fort Old Town is located at the southern tip of Saint Lucia and is named after a 17th-century French fort. The town played a crucial role in the sugar industry and was a major export port during the 18th century. Its architecture reflects a blend of colonial history and modern development. Nearby historical sites testify to the region's strategic military importance.",
+    },
+    factsAdvanced: {
+      de: ["Bau des ersten französischen Forts im späten 17. Jahrhundert", "Zentrum der Zuckerproduktion im 18. und 19. Jahrhundert", "Zweitgrößte Stadt der Insel Saint Lucia", "Standort der ersten Zuckerfabrik der Insel im Jahr 1765", "Nähe zum Hewanorra Airport, einer ehemaligen US-Basis", "Historischer Marktplatz mit kolonialen Gebäuderesten"],
+      hu: ["Az első francia erőd építése a 17. század végén történt", "A cukortermelés központja a 18. és 19. században", "Szent Lucia szigetének második legnagyobb városa", "A sziget első cukorgyárának helyszíne 1765-ben", "A közeli Hewanorra repülőtér egykori amerikai bázis volt", "Történelmi piactér gyarmati épületmaradványokkal"],
+      ro: ["Construcția primului fort francez la sfârșitul secolului XVII", "Centrul producției de zahăr în secolele XVIII și XIX", "Al doilea oraș ca mărime de pe insula Sfânta Lucia", "Locul primei fabrici de zahăr de pe insulă în 1765", "Proximitatea de aeroportul Hewanorra, fostă bază SUA", "Piață istorică cu resturi de clădiri coloniale"],
+      en: ["Construction of the first French fort in the late 1600s", "Center of the sugar export industry in the 1700s and 1800s", "Second-largest town on the island of St. Lucia", "Site of the island's first sugar factory in 1765", "Located near the former WWII United States airbase", "Features a historic town square with colonial remnants"],
+    },
   },
   {
     id: "saintlucia-marquis-river-archaeology-history-v2",
@@ -513,6 +825,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Ceramic shards of the Saladoid culture were discovered here.", "The river served as a freshwater source and transport route.", "The finds prove settlement from over 1500 years ago.", "The site is located in a fertile agricultural area."],
     },
     imageHint: "Archaeological excavation site near a tropical river",
+    descriptionAdvanced: {
+      de: "Die archäologische Stätte am Marquis River an der Nordostküste ist ein bedeutendes Zeugnis der präkolumbianischen Geschichte. Ausgrabungen haben Überreste von Amerindian-Siedlungen ans Licht gebracht, darunter Keramikfragmente und Steinwerkzeuge. Die fruchtbare Flussmündung bot ideale Bedingungen für die frühen Bewohner der Insel. Die Funde helfen Forschern, die Migrationsmuster und den Alltag der Arawak-Völker besser zu verstehen.",
+      hu: "A Marquis-folyó régészeti lelőhelye az északkeleti parton a kolumbusz előtti történelem jelentős emléke. Az ásatások amerikai indián települések maradványait tárták fel, többek között kerámiafalatokat és kőeszközöket. A termékeny torkolatvidék ideális feltételeket biztosított a sziget korai lakói számára. A leletek segítenek a kutatóknak jobban megérteni az arawak népek vándorlási mintáit és mindennapi életét.",
+      ro: "Situl arheologic de la râul Marquis, situat pe coasta de nord-est, este o dovadă importantă a istoriei precolumbiene. Săpăturile au scos la iveală rămășițe ale așezărilor amerindiene, inclusiv fragmente de ceramică și unelte de piatră. Estuarul fertil a oferit condiții ideale pentru primii locuitori ai insulei. Descoperirile îi ajută pe cercetători să înțeleagă mai bine tiparele de migrație și viața de zi cu zi a popoarelor Arawak.",
+      en: "The Marquis River Archaeological Site on the northeast coast is a significant testament to Pre-Columbian history. Excavations have brought to light remnants of Amerindian settlements, including pottery fragments and stone tools. The fertile river estuary provided ideal conditions for the island's early inhabitants. The finds help researchers better understand the migration patterns and daily lives of the Arawak peoples.",
+    },
+    factsAdvanced: {
+      de: ["Fund zahlreicher Keramikscherben der Arawak-Kultur", "Siedlungsspuren datieren auf mehrere Jahrhunderte vor 1500", "Lage im Marquis Estate, einem ehemaligen Plantagengelände", "Bedeutung der Flussmündung als Trinkwasserquelle", "Entdeckung von Muschelabfällen (Middens) der Ureinwohner", "Archäologische Untersuchungen in den 1950er und 60er Jahren"],
+      hu: ["Számos arawak kultúrából származó kerámiatöredék lelete", "A településnyomok i.sz. 1500 előtt több évszázadra nyúlnak vissza", "A Marquis Estate területén, egy egykori ültetvényen található", "A folyótorkolat ivóvízforrásként betöltött szerepe jelentős volt", "Őshonos lakók kagylóhulladék-halmainak (middens) felfedezése", "Régészeti kutatások az 1950-es és 60-as években"],
+      ro: ["Descoperirea a numeroase fragmente de ceramică din cultura Arawak", "Urmele de așezări datează de câteva secole înainte de 1500", "Locație în Marquis Estate, un fost domeniu de plantație", "Importanța estuarului ca sursă de apă potabilă", "Descoperirea deșeurilor de scoici (middens) ale băștinașilor", "Investigații arheologice în anii 1950 și 1960"],
+      en: ["Discovery of numerous Arawak culture pottery shards", "Settlement traces date back several centuries before 1500 AD", "Located within the historic Marquis Estate area", "The river estuary served as a vital fresh water source", "Evidence of indigenous shell middens found at the site", "Archaeological surveys conducted in the 1950s and 60s"],
+    },
   },
   {
     id: "saintlucia-victorian-library-castries-history-v2",
@@ -532,6 +856,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["One of the few historic stone buildings that survived the fires.", "Houses rare Caribbean manuscripts and maps.", "Located at the corner of Derek Walcott Square.", "The building is an example of the 'Carnegie Library' style."],
     },
     imageHint: "Classical Victorian stone building of the National Library",
+    descriptionAdvanced: {
+      de: "Die Victorian Library in Castries ist ein architektonisches Juwel und das Herz des Bildungswesens der Stadt. Das 1916 eröffnete Gebäude wurde durch eine Spende von Andrew Carnegie finanziert und zeigt klassische viktorianische Stilelemente. Es beherbergt eine umfangreiche Sammlung historischer Dokumente und seltener Bücher über die Karibik. Trotz schwerer Brände in der Stadt blieb die Bibliothek als eines der wenigen historischen Gebäude im Zentrum erhalten.",
+      hu: "A castries-i viktoriánus könyvtár építészeti ékszerdoboz és a város oktatásának szíve. Az 1916-ban megnyitott épületet Andrew Carnegie adományából finanszírozták, és klasszikus viktoriánus stílusjegyeket mutat. Történelmi dokumentumok és ritka Karib-térséggel kapcsolatos könyvek gazdag gyűjteményének ad otthont. A városban pusztító súlyos tüzek ellenére a könyvtár azon kevés történelmi épületek egyike, amely megmaradt a központban.",
+      ro: "Biblioteca victoriană din Castries este o bijuterie arhitecturală și inima educației din oraș. Deschisă în 1916, clădirea a fost finanțată printr-o donație de la Andrew Carnegie și prezintă elemente clasice de stil victorian. Găzduiește o colecție vastă de documente istorice și cărți rare despre Caraibe. În ciuda incendiilor devastatoare din oraș, biblioteca a supraviețuit ca una dintre puținele clădiri istorice din centru.",
+      en: "The Victorian Library in Castries is an architectural gem and the heart of the city's educational system. Opened in 1916, the building was funded by a donation from Andrew Carnegie and features classic Victorian style elements. It houses an extensive collection of historical documents and rare books about the Caribbean. Despite major fires in the city, the library survived as one of the few historic buildings in the center.",
+    },
+    factsAdvanced: {
+      de: ["Offizielle Eröffnung am 1. Dezember 1916", "Finanzierung durch den Philanthropen Andrew Carnegie", "Eines der wenigen Gebäude, die den Stadtbrand von 1948 überstanden", "Markantes rotes Dach und weiße Holzfassade", "Beherbergt das Nationalarchiv und historische Karten", "Zentral gelegen am Derek Walcott Square"],
+      hu: ["Hivatalos megnyitó 1916. december 1-jén", "Andrew Carnegie filantróp támogatásával épült", "Azon kevés épületek egyike, amely túlélte az 1948-as nagy tüzet", "Jellegzetes vörös tető és fehér faborítás", "A nemzeti archívumnak és történelmi térképeknek is helyet ad", "Központi elhelyezkedés a Derek Walcott téren"],
+      ro: ["Deschiderea oficială la 1 decembrie 1916", "Finanțată de filantropul Andrew Carnegie", "Una dintre puținele clădiri care au supraviețuit incendiului din 1948", "Acoperiș roșu distinctiv și fațadă albă din lemn", "Găzduiește arhivele naționale și hărți istorice", "Situată central în Piața Derek Walcott"],
+      en: ["Official opening held on December 1, 1916", "Funding provided by philanthropist Andrew Carnegie", "One of the few structures to survive the Great Fire of 1948", "Features a distinctive red roof and Victorian woodwork", "Repository for national archives and rare historical maps", "Centrally located on the historic Derek Walcott Square"],
+    },
   },
   {
     id: "saintlucia-mamiku-gardens-estate-history-v2",
@@ -551,6 +887,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Named after 'Madame de Micoud', the wife of the former governor.", "Contains the ruins of a French command post.", "Site of fighting during the 'Brigands' wars.", "Offers educational trails about slavery and plantation history."],
     },
     imageHint: "Ruins of old stone walls among tropical gardens Mamiku",
+    descriptionAdvanced: {
+      de: "Mamiku Gardens ist ein historisches Anwesen an der Ostküste, das ursprünglich 1766 als Zuckerplantage gegründet wurde. Es war der Wohnsitz des Baron de Micoud, einem französischen Gouverneur der Insel. Das Gelände war Schauplatz heftiger Kämpfe während der Kriege zwischen Frankreich und Großbritannien im späten 18. Jahrhundert. Heute können Besucher die Ruinen des Herrenhauses besichtigen, die von botanischen Gärten umgeben sind.",
+      hu: "A Mamiku Gardens egy történelmi birtok a keleti parton, amelyet eredetileg 1766-ban alapítottak cukornádültetvényként. De Micoud bárónak, a sziget francia kormányzójának lakhelye volt. A terület heves harcok helyszíne volt a Franciaország és Nagy-Britannia közötti háborúk idején a 18. század végén. Ma a látogatók megtekinthetik az udvarház romjait, amelyeket botanikus kertek vesznek körül.",
+      ro: "Grădinile Mamiku reprezintă un domeniu istoric pe coasta de est, fondat inițial în 1766 ca plantație de zahăr. A fost reședința baronului de Micoud, un guvernator francez al insulei. Terenul a fost scena unor lupte aprige în timpul războaielor dintre Franța și Marea Britanie la sfârșitul secolului al XVIII-lea. Astăzi, vizitatorii pot vedea ruinele conacului, înconjurate de grădini botanice.",
+      en: "Mamiku Gardens is a historic estate on the east coast, originally established in 1766 as a sugar plantation. It was the residence of Baron de Micoud, a French governor of the island. The grounds were the site of fierce battles during the wars between France and Great Britain in the late 18th century. Today, visitors can explore the ruins of the Great House surrounded by botanical gardens.",
+    },
+    factsAdvanced: {
+      de: ["Gründung des Anwesens im Jahr 1766", "Benannt nach 'Ma Micoud', der Frau des Barons", "Ort einer bedeutenden Schlacht im Jahr 1796", "Überreste des ursprünglichen Herrenhauses sind noch sichtbar", "Einst eine der größten Zucker- und Kakaoplantagen", "Liegt an der Mündung des Praslin River"],
+      hu: ["A birtok alapítása 1766-ban történt", "A báró felesége, 'Ma Micoud' után kapta a nevét", "Egy jelentős, 1796-os csata helyszíne", "Az eredeti udvarház maradványai ma is láthatóak", "Egykor az egyik legnagyobb cukor- és kakaóültetvény volt", "A Praslin-folyó torkolatánál található"],
+      ro: ["Fondarea domeniului în anul 1766", "Numit după 'Ma Micoud', soția baronului", "Locul unei bătălii semnificative în anul 1796", "Rămășițele conacului original sunt încă vizibile", "Odată una dintre cele mai mari plantații de zahăr și cacao", "Situat la gura de vărsare a râului Praslin"],
+      en: ["Establishment of the estate in 1766", "Named after 'Ma Micoud', the wife of Baron de Micoud", "Site of a significant military engagement in 1796", "Remnants of the original Great House are still visible", "Formerly one of the largest sugar and cocoa plantations", "Located at the mouth of the Praslin River valley"],
+    },
   },
   {
     id: "saintlucia-dennery-old-village-history-v2",
@@ -570,6 +918,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Formerly known as 'Anse Canot' during the French period.", "An important hub for fishing and agriculture.", "St. Peter's Catholic Church is a prominent structure.", "The area was a site of early conflicts with the Caribs."],
     },
     imageHint: "Old stone church and village houses along Dennery Bay",
+    descriptionAdvanced: {
+      de: "Das alte Dorf Dennery an der Ostküste wurde nach dem Grafen d'Ennery benannt, einem ehemaligen Generalgouverneur der französischen Antillen. Ursprünglich als Petit Mabouya bekannt, entwickelte es sich zu einem wichtigen Fischerei- und Landwirtschaftszentrum. Das Dorf hat eine turbulente Geschichte mit Zerstörungen durch Hurrikane und Wiederaufbauphasen hinter sich. Es bewahrt die Atmosphäre einer traditionellen karibischen Küstengemeinde mit engem Bezug zum Meer.",
+      hu: "Dennery régi faluja a keleti parton d'Ennery grófról, a francia Antillák egykori főkormányzójáról kapta a nevét. Eredetileg Petit Mabouya néven ismerték, és fontos halászati és mezőgazdasági központtá fejlődött. A falu mozgalmas történelmet tudhat magáénak, hurrikánok okozta pusztításokkal és újjáépítési szakaszokkal. Megőrzi a hagyományos karibi tengerparti közösség hangulatát, szoros kötődéssel a tengerhez.",
+      ro: "Satul vechi Dennery de pe coasta de est a fost numit după Contele d'Ennery, fost guvernator general al Antilelor Franceze. Cunoscut inițial sub numele de Petit Mabouya, s-a dezvoltat ca un important centru pescăresc și agricol. Satul are o istorie turbulentă, cu distrugeri provocate de uragane și etape de reconstrucție. Păstrează atmosfera unei comunități de coastă tradiționale din Caraibe, cu o legătură strânsă cu marea.",
+      en: "The old village of Dennery on the east coast was named after Count d'Ennery, a former Governor-General of the French Antilles. Originally known as Petit Mabouya, it developed into an important fishing and agricultural hub. The village has a turbulent history of destruction by hurricanes and subsequent periods of rebuilding. It maintains the atmosphere of a traditional Caribbean coastal community with a strong connection to the sea.",
+    },
+    factsAdvanced: {
+      de: ["Umbenennung des Ortes im Jahr 1768 in Dennery", "Schwere Zerstörung durch den Großen Hurrikan von 1780", "Einstiger Hauptexporthafen für Zucker aus dem Mabouya Valley", "Bedeutendes Zentrum für den handwerklichen Fischfang", "Traditioneller Ausgangspunkt für Walbeobachtungen an der Ostküste", "Die katholische Kirche St. Peter wurde 1850 erbaut"],
+      hu: ["A település 1768-ban vette fel a Dennery nevet", "Súlyos pusztítás az 1780-as nagy hurrikán idején", "A Mabouya-völgyből származó cukor egykori fő exportkikötője", "A kézműves halászat egyik jelentős központja", "A keleti part hagyományos bálnafigyelő kiindulópontja", "A Szent Péter katolikus templom 1850-ben épült"],
+      ro: ["Redenumirea localității în Dennery în anul 1768", "Distrugeri majore cauzate de Marele Uragan din 1780", "Odată port principal de export pentru zahărul din Mabouya Valley", "Centru important pentru pescuitul artizanal", "Punct tradițional de plecare pentru observarea balenelor pe coasta de est", "Biserica catolică Sfântul Petru a fost construită în 1850"],
+      en: ["Village renamed to Dennery in 1768 after Count d'Ennery", "Suffered massive destruction during the Great Hurricane of 1780", "Once a key shipping port for sugar from the Mabouya Valley", "Significant center for artisanal and deep-sea fishing", "Traditional base for whale watching on the island's east coast", "The Catholic Church of St. Peter was established in 1850"],
+    },
   },
   {
     id: "saintlucia-roseau-sugar-mill-ruins-history-v2",
@@ -589,6 +949,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["The valley was one of the island's most productive sugar-growing areas.", "The factory used modern steam engines in the 19th century.", "A tall brick chimney has been preserved as a landmark.", "Today the valley is mainly used for banana plantations."],
     },
     imageHint: "Tall brick chimney of an abandoned sugar factory Roseau Valley",
+    descriptionAdvanced: {
+      de: "Die Ruinen der Roseau-Zuckerfabrik sind beeindruckende Überreste der einst florierenden Zuckerindustrie von Saint Lucia. Die Fabrik im fruchtbaren Roseau Valley war im 19. und frühen 20. Jahrhundert eine der modernsten und größten der Insel. Heute zeugen massive Schornsteine und verrostete Maschinenteile von der industriellen Vergangenheit. Die Stätte bietet einen Einblick in die Zeit, als Zucker das wirtschaftliche Rückgrat der gesamten Kolonie bildete.",
+      hu: "A roseau-i cukorgyár romjai a Szent Lucia egykor virágzó cukoriparának lenyűgöző maradványai. A termékeny Roseau-völgyben található gyár a 19. században és a 20. század elején a sziget egyik legmodernebb és legnagyobb üzeme volt. Ma masszív kémények és rozsdás gépalkatrészek tanúskodnak az ipari múltról. A helyszín betekintést nyújt abba az időszakba, amikor a cukor képezte az egész gyarmat gazdasági gerincét.",
+      ro: "Ruinele fabricii de zahăr din Roseau sunt rămășițe impresionante ale industriei zahărului, odinioară înfloritoare în Sfânta Lucia. Fabrica din fertila Vale Roseau a fost una dintre cele mai moderne și mai mari de pe insulă în secolul al XIX-lea și începutul secolului al XX-lea. Astăzi, coșurile masive și părțile de mașini ruginite atestă trecutul industrial. Situl oferă o perspectivă asupra perioadei în care zahărul era coloana vertebrală a coloniei.",
+      en: "The Roseau Sugar Mill Ruins are impressive remnants of the once-flourishing sugar industry of Saint Lucia. Located in the fertile Roseau Valley, this factory was one of the most modern and largest on the island during the 19th and early 20th centuries. Today, massive chimneys and rusted machinery parts testify to its industrial past. The site offers a glimpse into the era when sugar formed the economic backbone of the entire colony.",
+    },
+    factsAdvanced: {
+      de: ["Bau der Fabrik im 19. Jahrhundert", "Einführung moderner Dampfmaschinen zur Zuckerverarbeitung", "Einstellung des Betriebs in den 1950er Jahren", "Markanter Schornstein aus Backstein und Beton", "Zentrum eines weitreichenden Eisenbahnnetzes für den Transport", "Heimat der heute bekannten Distillery St. Lucia in der Nähe"],
+      hu: ["A gyár építése a 19. században történt", "Modern gőzgépek bevezetése a cukor feldolgozásához", "Az üzem működésének leállítása az 1950-es években", "Jellegzetes tégla- és betonkémény maradt fenn", "Egy kiterjedt vasúthálózat központja volt a szállításhoz", "A ma is ismert St. Lucia lepárlóüzem szomszédságában található"],
+      ro: ["Construcția fabricii în secolul al XIX-lea", "Introducerea motoarelor cu aburi moderne pentru procesarea zahărului", "Încetarea operațiunilor în anii 1950", "Coș de fum distinctiv din cărămidă și beton", "Centrul unei rețele feroviare extinse pentru transport", "Situată în apropierea faimoasei distilerii St. Lucia din prezent"],
+      en: ["Establishment of the factory in the mid-19th century", "Introduced advanced steam-powered sugar processing", "Decline and closure of operations in the 1950s", "Features a prominent brick and concrete chimney stack", "Was the hub of an extensive narrow-gauge railway system", "Located near the site of the modern-day St. Lucia Distillers"],
+    },
   },
   {
     id: "saintlucia-micoud-parish-church-history-v2",
@@ -608,6 +980,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Micoud was named after the French Governor Baron de Micoud.", "The current building displays classical colonial architectural elements.", "The parish was founded as early as the 18th century.", "A center for religious festivals and local traditions."],
     },
     imageHint: "Colonial style church facade in the town of Micoud",
+    descriptionAdvanced: {
+      de: "Die katholische Kirche St. Lucia in Micoud ist ein markantes Bauwerk an der Ostküste der Insel. Das heutige Steingebäude wurde im 19. Jahrhundert errichtet und ersetzte eine frühere Holzkonstruktion aus der Kolonialzeit. Sie dient seit Generationen als religiöses und soziales Zentrum für die Bewohner des Micoud-Distrikts.",
+      hu: "A micoudi Szent Lúcia plébániatemplom a település egyik legfontosabb történelmi épülete a keleti parton. A jelenlegi kőépítmény a 19. század közepén épült egy korábbi, fából készült kápolna helyén. A templom fontos közösségi szerepet tölt be, és az évek során számos trópusi vihart vészelt át.",
+      ro: "Biserica Parohială Sfânta Lucia din Micoud este o structură emblematică situată pe coasta de est a insulei. Clădirea actuală din piatră a fost ridicată în secolul al XIX-lea, înlocuind o structură anterioară din lemn din perioada colonială. Aceasta servește drept centru spiritual și social pentru locuitorii districtului Micoud.",
+      en: "St. Lucy's Parish Church in Micoud is a prominent historical landmark on the island's eastern coast. The current stone structure was constructed in the mid-19th century to replace an earlier wooden chapel from the colonial era. It has served as the primary religious and social hub for the Micoud community for generations.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr des Steingebäudes um 1843", "Befindet sich im Zentrum von Micoud", "Der Heiligen Lucia gewidmet", "Ersetzte eine Holzkirche von 1830", "Überstand den Hurrikan Allen 1980", "Architektur im kolonialen Gotikstil"],
+      hu: ["A kőépület 1843 körül készült el", "Micoud falu központjában található", "Szent Lúciának szentelték", "Egy 1830-as fatemplomot váltott fel", "Túlélte az 1980-as Allen-hurrikánt", "Gyarmati gótikus építészeti stílus"],
+      ro: ["Clădirea de piatră a fost finalizată în 1843", "Situată în centrul satului Micoud", "Dedicată Sfintei Lucia", "A înlocuit o biserică de lemn din 1830", "A supraviețuit uraganului Allen în 1980", "Stil arhitectural gotic colonial"],
+      en: ["Stone structure completed around 1843", "Located in the center of Micoud village", "Dedicated to Saint Lucy", "Replaced an 1830 wooden church", "Survived Hurricane Allen in 1980", "Colonial Gothic architectural style"],
+    },
   },
   {
     id: "saintlucia-praslin-island-pirate-history-v2",
@@ -627,6 +1011,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Local legends tell of buried treasures in the area.", "Colonized by French settlers in the 18th century.", "Today it is an important sanctuary for the Saint Lucia whiptail lizard.", "Offers a quiet bay that was used centuries ago."],
     },
     imageHint: "Small tropical island inside a bay near the shoreline",
+    descriptionAdvanced: {
+      de: "Die kleine Insel Praslin vor der Ostküste war im 18. Jahrhundert ein strategisch wichtiger Rückzugsort. Piraten und Freibeuter nutzten die versteckten Buchten und die geschützte Lage, um Schiffe auf den Handelsrouten zwischen Europa und der Karibik abzufangen. Die zerklüftete Küstenlinie bot idealen Schutz vor den Patrouillen der Marine.",
+      hu: "A keleti part mentén fekvő kis Praslin-sziget a 18. században stratégiai jelentőségű búvóhely volt. A kalózok és corsarok a rejtett öblöket és a védett fekvést használták ki az Európa és a Karib-térség közötti kereskedelmi hajók elfogására. A tagolt partvonal kiváló védelmet nyújtott a haditengerészeti őrjáratok elől.",
+      ro: "Mica insulă Praslin, situată în largul coastei de est, a fost un refugiu strategic în secolul al XVIII-lea. Pirații și corsarii au folosit golfurile ascunse și poziția protejată pentru a intercepta navele de pe rutele comerciale dintre Europa și Caraibe. Coasta accidentată oferea protecție ideală împotriva patrulelor navale.",
+      en: "The small Praslin Island off the east coast was a strategically important retreat during the 18th century. Pirates and privateers utilized its hidden coves and sheltered location to intercept vessels on trade routes between Europe and the Caribbean. The rugged coastline provided ideal cover from naval patrols.",
+    },
+    factsAdvanced: {
+      de: ["Häufiger Stützpunkt im 18. Jahrhundert", "Liegt im Praslin-Schutzgebiet", "Früherer Standort für Salzgewinnung", "Nistplatz für seltene Vogelarten", "Blick auf den Indischen Ozean (Ostküste)", "Keine permanente Besiedlung heute"],
+      hu: ["A 18. században gyakori kalózbázis", "A Praslin természetvédelmi terület része", "Korábban sólepárló helyszín volt", "Ritka madárfajok fészkelőhelye", "Az Atlanti-óceánra néz (keleti part)", "Ma nincs állandó lakossága"],
+      ro: ["Bază frecventă a piraților în secolul XVIII", "Parte a ariei protejate Praslin", "Fost sit pentru producția de sare", "Loc de cuibărit pentru specii rare de păsări", "Vedere spre Oceanul Atlantic (coasta de est)", "Fără populație permanentă în prezent"],
+      en: ["Frequent pirate base in the 18th century", "Part of the Praslin protected area", "Former site for salt production", "Nesting site for rare bird species", "Overlooks the Atlantic Ocean (East Coast)", "No permanent human settlement today"],
+    },
   },
   {
     id: "saintlucia-savannes-bay-arawak-history-v2",
@@ -646,6 +1042,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Archaeologists found shell middens and primitive tools.", "The settlement was strategically located between the sea and mangroves.", "Evidence of fishing and agriculture by the indigenous people.", "A crucial site for understanding island history before 1492."],
     },
     imageHint: "Coastal landscape with mangroves and archaeological site Savannes Bay",
+    descriptionAdvanced: {
+      de: "Die Savannes Bay ist eine bedeutende archäologische Stätte an der Südostküste von St. Lucia. Ausgrabungen belegen, dass das Gebiet bereits lange vor der Ankunft der Europäer von den Arawak-Völkern besiedelt war. Die Bucht bot diesen frühen Bewohnern reichlich Nahrung aus dem Meer und fruchtbares Land für den Anbau.",
+      hu: "A Savannes-öböl jelentős régészeti lelőhely Saint Lucia délkeleti partján. Az ásatások bizonyítják, hogy a területet már jóval az európaiak érkezése előtt az arawak népek lakták. Az öböl bőséges tengeri táplálékot és termékeny földet biztosított a korai lakosok számára a mezőgazdasági termeléshez.",
+      ro: "Golful Savannes este un sit arheologic semnificativ de pe coasta de sud-est a insulei Sfânta Lucia. Săpăturile atestă faptul că zona a fost locuită de popoarele Arawak cu mult înainte de sosirea europenilor. Golful oferea acestor locuitori timpurii hrană marină abundentă și pământ fertil pentru culturi.",
+      en: "Savannes Bay is a significant archaeological site on the southeastern coast of Saint Lucia. Excavations prove that the area was inhabited by Arawak peoples long before the arrival of Europeans. The bay provided these early residents with abundant seafood and fertile land for cultivation.",
+    },
+    factsAdvanced: {
+      de: ["Präkolumbianische Siedlungsreste gefunden", "Keramikfunde datieren auf 200 n. Chr.", "Mangrovenökosystem schützt die Küste", "Arawak-Bevölkerung lebte von Fischfang", "Südlich von Micoud gelegen", "Archäologische Studien in den 1960ern"],
+      hu: ["Prekolumbián településmaradványokat találtak", "A kerámialeletek i.sz. 200-ból származnak", "Mangrove ökoszisztéma védi a partot", "Az arawak lakosság halászatból élt", "Micoud-tól délre található", "Régészeti tanulmányok az 1960-as években"],
+      ro: ["Resturi de așezări precolumbiene descoperite", "Artefacte ceramice datând din 200 d.Hr.", "Ecosistemul de mangrove protejează coasta", "Populația Arawak trăia din pescuit", "Situat la sud de Micoud", "Studii arheologice realizate în anii 1960"],
+      en: ["Pre-Columbian settlement remains found", "Ceramic finds date back to 200 AD", "Mangrove ecosystem protects the coast", "Arawak population relied on fishing", "Located south of Micoud", "Archaeological studies conducted in 1960s"],
+    },
   },
   {
     id: "saintlucia-paix-bouche-colonial-history-v2",
@@ -665,6 +1073,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Founded by early French cocoa planters.", "Preserves a traditional rural atmosphere.", "Offers views of the north coast and the Atlantic Ocean.", "Known for maintaining local customs and traditions."],
     },
     imageHint: "Lush green hills and old houses in Paix Bouche area",
+    descriptionAdvanced: {
+      de: "Paix Bouche ist eine historische Stätte in den Bergen oberhalb von Babonneau. Während der Kolonialzeit diente der Ort aufgrund seiner Höhe als wichtiger Aussichtspunkt und Signalstation für das Militär. Von hier aus konnten Truppenbewegungen an der Nordostküste frühzeitig erkannt und gemeldet werden.",
+      hu: "Paix Bouche egy történelmi helyszín a Babonneau feletti hegyekben. A gyarmati időszakban a hely magassága miatt fontos kilátóként és katonai jelzőállomásként szolgált. Innen korán észlelhették és jelenthették az északkeleti parton zajló csapatmozgásokat.",
+      ro: "Paix Bouche este un sit istoric situat în munții de deasupra localității Babonneau. În perioada colonială, locul a servit ca punct important de observație și stație de semnalizare pentru armată datorită altitudinii sale. De aici, mișcările trupelor de pe coasta de nord-est puteau fi detectate timpuriu.",
+      en: "Paix Bouche is a historic site situated in the mountains above Babonneau. During the colonial era, its high elevation made it an essential lookout and military signaling station. From this vantage point, troop movements along the northeastern coast could be detected and reported early.",
+    },
+    factsAdvanced: {
+      de: ["Über 300 Meter über dem Meeresspiegel", "Strategischer Posten im 18. Jahrhundert", "Blick auf den Marquis River", "Teil des Babonneau-Distrikts", "Historische Ruinen von Befestigungen", "Wichtiger Punkt im Sklavenwiderstand"],
+      hu: ["Több mint 300 méterrel a tengerszint felett", "Stratégiai poszt a 18. században", "Kilátás a Marquis-folyóra", "A Babonneau kerület része", "Erődítmények történelmi romjai", "Fontos helyszín a rabszolga-ellenállásban"],
+      ro: ["Peste 300 de metri deasupra mării", "Post strategic în secolul al XVIII-lea", "Vedere spre râul Marquis", "Parte a districtului Babonneau", "Ruine istorice ale fortificațiilor", "Punct important în rezistența sclavilor"],
+      en: ["Over 300 meters above sea level", "Strategic post in the 18th century", "Overlooks the Marquis River", "Part of the Babonneau district", "Historic ruins of fortifications", "Important site in slave resistance"],
+    },
   },
   {
     id: "saintlucia-troumassee-estate-ruins-history-v2",
@@ -684,6 +1104,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["The estate is located on the banks of the Troumassee River.", "Contains remains of mills and warehouses.", "The land is still used for agricultural purposes today.", "Shows the transition from sugar to coconut production."],
     },
     imageHint: "Stone mill ruins near a river in a tropical forest",
+    descriptionAdvanced: {
+      de: "Die Ruinen des Troumassee Estate im Süden der Insel zeugen von der einstigen Bedeutung der Zuckerindustrie. Die Plantage wurde im 18. Jahrhundert gegründet und war eine der größten in der Region Micoud. Heute sind noch Überreste der Zuckermühle und der Wohngebäude zu sehen, die an die Kolonialgeschichte erinnern.",
+      hu: "A sziget déli részén található Troumassee birtok romjai a cukoripar egykori jelentőségéről tanúskodnak. Az ültetvényt a 18. században alapították, és a Micoud régió egyik legnagyobbja volt. Ma még láthatók a cukormalom és a lakóépületek maradványai, amelyek a gyarmati múltra emlékeztetnek.",
+      ro: "Ruinele domeniului Troumassee din sudul insulei stau mărturie pentru importanța de odinioară a industriei zahărului. Plantația a fost înființată în secolul al XVIII-lea și a fost una dintre cele mai mari din regiunea Micoud. Astăzi, încă se pot vedea resturi ale morii de zahăr și ale clădirilor rezidențiale.",
+      en: "The ruins of Troumassee Estate in the south of the island bear witness to the former importance of the sugar industry. The plantation was established in the 18th century and was one of the largest in the Micoud region. Today, remains of the sugar mill and residential buildings can still be seen, reflecting colonial history.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um 1760", "Zentrum der lokalen Zuckerproduktion", "Befindet sich nahe dem Troumassee River", "Ruinen einer Dampfmaschine vorhanden", "Ehemals Sklavenarbeit eingesetzt", "Heute teilweise landwirtschaftlich genutzt"],
+      hu: ["1760 körül alapították", "A helyi cukortermelés központja", "A Troumassee-folyó közelében található", "Gőzgép maradványai is láthatók", "Egykor rabszolgamunkát alkalmaztak", "Ma részben mezőgazdasági terület"],
+      ro: ["Fondat în jurul anului 1760", "Centru al producției locale de zahăr", "Situat lângă râul Troumassee", "Ruine ale unei mașini cu abur prezente", "Utilizarea forței de muncă sclave în trecut", "Astăzi utilizat parțial în agricultură"],
+      en: ["Founded around 1760", "Center of local sugar production", "Located near the Troumassee River", "Ruins of a steam engine present", "Historical use of enslaved labor", "Currently used for farming in parts"],
+    },
   },
   {
     id: "saintlucia-tapion-point-battery-history-v2",
@@ -703,6 +1135,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Protected the harbor from enemy fleet incursions.", "A historic hospital was located nearby.", "Remnants of cannon emplacements are still visible.", "Offers an excellent view of incoming cruise ships."],
     },
     imageHint: "Cliffside battery ruins overlooking Castries harbor entrance",
+    descriptionAdvanced: {
+      de: "Die Tapion Point Battery befindet sich an der südlichen Einfahrt zum Hafen von Castries. Diese militärische Anlage wurde im 18. Jahrhundert von den Briten errichtet, um die Hauptstadt vor Angriffen vom Meer aus zu schützen. Die Kanonenstellungen boten ein weites Schussfeld über die Bucht und ergänzten die Befestigungen auf der Vigie-Halbinsel.",
+      hu: "A Tapion Point Battery a castries-i kikötő déli bejáratánál található. Ezt a katonai létesítményt a 18. században építették a britek, hogy megvédjék a fővárost a tenger felőli támadásoktól. Az ágyúállások széles tűzmezőt biztosítottak az öböl felett, kiegészítve a Vigie-félsziget erődítményeit.",
+      ro: "Bateria Tapion Point este situată la intrarea sudică a portului Castries. Această instalație militară a fost construită în secolul al XVIII-lea de britanici pentru a proteja capitala de atacurile maritime. Pozițiile tunurilor ofereau un câmp de tragere vast asupra golfului, completând fortificațiile de pe peninsula Vigie.",
+      en: "Tapion Point Battery is located at the southern entrance to Castries Harbor. This military installation was built by the British in the 18th century to defend the capital from maritime attacks. The cannon emplacements provided a wide field of fire across the bay, complementing the fortifications on the Vigie Peninsula.",
+    },
+    factsAdvanced: {
+      de: ["Bau im späten 18. Jahrhundert", "Schützte den strategischen Hafen", "Kanonen aus britischer Produktion", "Blick auf den Leuchtturm von Vigie", "Teil der Küstenverteidigungskette", "Heute Standort eines Krankenhauses"],
+      hu: ["A 18. század végén épült", "A stratégiai kikötőt védte", "Brit gyártmányú ágyúk", "Kilátás a Vigie világítótoronyra", "A partvédelmi lánc része", "Ma egy kórház található a közelben"],
+      ro: ["Construcție la sfârșitul secolului XVIII", "Proteja portul strategic", "Tunuri de fabricație britanică", "Vedere spre farul din Vigie", "Parte a lanțului de apărare costieră", "Astăzi locația unui spital"],
+      en: ["Built in the late 18th century", "Protected the strategic harbor", "British-made cannons used", "Overlooks the Vigie lighthouse", "Part of the coastal defense chain", "Currently near the site of a hospital"],
+    },
   },
   {
     id: "saintlucia-choc-bay-battlefield-history-v2",
@@ -722,6 +1166,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Part of the 'Grand Cul de Sac' military engagement.", "Thousands of soldiers fought on these beaches.", "The British were able to establish a bridgehead here for their advance.", "Today it is a tourist-developed bay with a rich history."],
     },
     imageHint: "Wide sandy bay near Castries with historic context",
+    descriptionAdvanced: {
+      de: "Das Schlachtfeld an der Choc Bay war Schauplatz heftiger Kämpfe während der englisch-französischen Kriege im 18. Jahrhundert. 1778 landeten britische Truppen an diesem Strand, um die Kontrolle über die Insel zu erlangen. Die flache Bucht war ein bevorzugter Landepunkt für Invasionen und führte zu mehreren strategischen Auseinandersetzungen.",
+      hu: "A Choc-öböli csatatér heves harcok helyszíne volt a 18. századi angol-francia háborúk idején. 1778-ban brit csapatok szálltak partra ezen a strandon, hogy átvegyék az irányítást a sziget felett. A sekély öböl az inváziók kedvelt partraszállási pontja volt, ami több stratégiai összecsapáshoz vezetett.",
+      ro: "Câmpul de luptă din Golful Choc a fost scena unor lupte aprige în timpul războaielor anglo-franceze din secolul al XVIII-lea. În 1778, trupele britanice au debarcat pe această plajă pentru a prelua controlul asupra insulei. Golful puțin adânc era un punct preferat de debarcare pentru invazii, ducând la numeroase conflicte.",
+      en: "The Choc Bay battlefield was the site of fierce fighting during the Anglo-French wars of the 18th century. In 1778, British troops landed on this beach to seize control of the island. The shallow bay was a preferred landing point for invasions, leading to several strategic confrontations.",
+    },
+    factsAdvanced: {
+      de: ["Schlacht von Vigie (1778) fand hier statt", "Britische Invasion unter General Grant", "Strategische Landezone nördlich von Castries", "Küstenlinie hat sich historisch verändert", "Denkmal für die Gefallenen in der Nähe", "Teil des 'Island-Hopping' Konflikts"],
+      hu: ["Itt zajlott a vigie-i csata (1778)", "Brit invázió Grant tábornok vezetésével", "Stratégiai leszállóhely Castries-től északra", "A partvonal történelmileg megváltozott", "Emlékmű a közelben az elesetteknek", "A gyarmati háborúk fontos helyszíne"],
+      ro: ["Bătălia de la Vigie (1778) a avut loc aici", "Invazie britanică sub generalul Grant", "Zonă de debarcare strategică la nord de Castries", "Linia țărmului s-a schimbat istoric", "Monument pentru cei căzuți în apropiere", "Parte a conflictului pentru controlul insulelor"],
+      en: ["Battle of Vigie (1778) occurred here", "British invasion under General Grant", "Strategic landing zone north of Castries", "Coastline has shifted historically", "Memorial to the fallen located nearby", "Key site in the Anglo-French island rivalry"],
+    },
   },
   {
     id: "saintlucia-cul-de-sac-valley-sugar-history-v2",
@@ -741,6 +1197,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["One of the largest central sugar factories was located here.", "A significant site for the island's economic transformation.", "Remnants of railway tracks for cane transport are still present.", "Today it is an industrial and agricultural hub."],
     },
     imageHint: "Wide green valley with industrial structures and fields",
+    descriptionAdvanced: {
+      de: "Das Cul de Sac Valley war über zwei Jahrhunderte das Herz der Zuckerindustrie auf St. Lucia. Die fruchtbaren Schwemmlandböden boten ideale Bedingungen für den großflächigen Anbau von Zuckerrohr. In der Mitte des 20. Jahrhunderts wurde hier eine moderne zentrale Fabrik errichtet, die die Produktion der gesamten Insel bündelte.",
+      hu: "A Cul de Sac-völgy több mint két évszázadon át Saint Lucia cukoriparának szíve volt. A termékeny hordalékos talaj ideális feltételeket biztosított a cukornád nagyüzemi termesztéséhez. A 20. század közepén egy modern központi gyárat építettek itt, amely a teljes sziget termelését összefogta.",
+      ro: "Valea Cul de Sac a fost inima industriei zahărului din Sfânta Lucia timp de peste două secole. Solurile aluvionare fertile au oferit condiții ideale pentru cultivarea pe scară largă a trestiei de zahăr. La mijlocul secolului al XX-lea, aici a fost construită o fabrică centrală modernă care a consolidat producția insulei.",
+      en: "The Cul de Sac Valley was the heart of Saint Lucia's sugar industry for over two centuries. The fertile alluvial soils provided ideal conditions for large-scale sugar cane cultivation. In the mid-20th century, a modern central factory was established here, centralizing production for the entire island.",
+    },
+    factsAdvanced: {
+      de: ["Zuckerrohranbau begann um 1720", "Standort der Geest-Bananen-Terminals heute", "Größtes landwirtschaftliches Tal der Insel", "Zentrale Fabrik wurde 1953 geschlossen", "Ehemalige Eisenbahnlinie für Transport", "Schauplatz zahlreicher Sklavenaufstände"],
+      hu: ["A cukornádtermesztés 1720 körül kezdődött", "Ma a Geest banánterminálok helyszíne", "A sziget legnagyobb mezőgazdasági völgye", "A központi gyár 1953-ban zárt be", "Egykori vasútvonal a szállításhoz", "Számos rabszolgafelkelés helyszíne"],
+      ro: ["Cultivarea trestiei a început în 1720", "Locația terminalelor de banane Geest astăzi", "Cea mai mare vale agricolă de pe insulă", "Fabrica centrală s-a închis în 1953", "Fostă linie ferată pentru transport", "Scena a numeroase revolte ale sclavilor"],
+      en: ["Sugar cane cultivation began around 1720", "Current site of Geest banana terminals", "Largest agricultural valley on the island", "Central factory closed in 1953", "Former railway line used for transport", "Site of numerous historical slave revolts"],
+    },
   },
   {
     id: "saintlucia-pigeon-island-soldiers-barracks-history-v2",
@@ -760,6 +1228,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Housed hundreds of British soldiers for the island's defense.", "The buildings were designed to allow for cool air circulation.", "Located on the plateau below Fort Rodney.", "Fell into ruin after the military withdrawal in the 19th century."],
     },
     imageHint: "Stone walls and foundations of old military barracks",
+    descriptionAdvanced: {
+      de: "Die Soldatenbaracken auf Pigeon Island sind ein beeindruckendes Beispiel britischer Militärarchitektur aus dem frühen 19. Jahrhundert. Die zweistöckigen Steingebäude wurden errichtet, um hunderte Soldaten der Garnison unterzubringen. Ihre solide Bauweise sollte den tropischen Bedingungen und potenziellen Belagerungen standhalten.",
+      hu: "A Pigeon-szigeti katonai barakkok a 19. század eleji brit katonai építészet lenyűgöző példái. A kétszintes kőépületeket úgy építették, hogy a helyőrség több száz katonájának adjanak otthont. Masszív szerkezetüket úgy tervezték, hogy ellenálljanak a trópusi körülményeknek és az esetleges ostromoknak.",
+      ro: "Cazărmile soldaților de pe Insula Pigeon sunt un exemplu impresionant de arhitectură militară britanică de la începutul secolului al XIX-lea. Clădirile din piatră cu două etaje au fost construite pentru a găzdui sute de soldați ai garnizoanei. Structura lor solidă a fost menită să reziste condițiilor tropicale și asediilor.",
+      en: "The Soldiers' Barracks on Pigeon Island are an impressive example of early 19th-century British military architecture. The two-story stone buildings were constructed to house hundreds of garrison troops. Their solid design was intended to withstand tropical conditions and potential military sieges.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr zwischen 1808 und 1824", "Unterkunft für das 35. Regiment", "Dächer waren ursprünglich mit Schiefer gedeckt", "Teil des Pigeon Island Nationalparks", "Ruinen nach dem Hurrikan von 1817 stabilisiert", "Blick auf die Rodney Bay"],
+      hu: ["1808 és 1824 között épült", "A 35. ezred szálláshelye volt", "A tetőket eredetileg palával fedték", "A Pigeon Island Nemzeti Park része", "Az 1817-es hurrikán után megerősítették", "Kilátás a Rodney-öbölre"],
+      ro: ["Construit între 1808 și 1824", "Găzduia Regimentul 35", "Acoperișurile erau inițial din ardezie", "Parte a Parcului Național Pigeon Island", "Ruine stabilizate după uraganul din 1817", "Vedere spre Golful Rodney"],
+      en: ["Built between 1808 and 1824", "Housed the 35th Regiment", "Roofs were originally slated", "Part of the Pigeon Island National Park", "Ruins stabilized after the 1817 hurricane", "Overlooks the scenic Rodney Bay"],
+    },
   },
   {
     id: "saintlucia-pigeon-island-musket-redoubt-history-v2",
@@ -779,6 +1259,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Located on a slope controlling access to the main fort.", "A rare example of specialized infantry defense.", "Strategically placed to catch attackers in crossfire.", "Part of the extensive British defensive works."],
     },
     imageHint: "Stone redoubt with small openings for muskets",
+    descriptionAdvanced: {
+      de: "Die Musketen-Redoute auf Pigeon Island war eine spezialisierte Verteidigungsanlage für Infanterietruppen. Diese kleine Festung verfügte über Schießscharten, die es den Soldaten ermöglichten, Angreifer mit Musketenfeuer abzuwehren, während sie selbst geschützt waren. Sie bildete einen integralen Bestandteil des Verteidigungssystems von Fort Rodney.",
+      hu: "A Pigeon-szigeti Musket Redoubt egy speciális védelmi létesítmény volt a gyalogsági csapatok számára. Ez a kis erőd lőrésekkel rendelkezett, amelyek lehetővé tették a katonák számára, hogy puskaszóval verjék vissza a támadókat, miközben ők védve maradtak. A Rodney-erőd védelmi rendszerének szerves részét képezte.",
+      ro: "Reduta pentru muschete de pe Insula Pigeon a fost o instalație de apărare specializată pentru trupele de infanterie. Această mică fortăreață avea ambrazuri care permiteau soldaților să respingă atacatorii cu foc de muschetă, rămânând în același timp protejați. Formau o parte integrantă a sistemului defensiv al Fortului Rodney.",
+      en: "The Musket Redoubt on Pigeon Island was a specialized defensive installation for infantry troops. This small fortification featured loopholes that allowed soldiers to repel attackers with musket fire while remaining protected. It formed an integral part of the broader defensive system of Fort Rodney.",
+    },
+    factsAdvanced: {
+      de: ["Strategische Position am Hang", "Schießscharten für Vorderlader", "Zuständig für Nahbereichsverteidigung", "Teil der britischen Befestigungsanlagen", "Historische Mauerreste erhalten", "Sicherte den Zugang zum Hügelgipfel"],
+      hu: ["Stratégiai pozíció a domboldalon", "Lőrések elöltöltős fegyverekhez", "A közelkörzeti védelemért felelt", "A brit erődítményrendszer része", "Történelmi falmaradványok maradtak meg", "A dombtetőre vezető utat biztosította"],
+      ro: ["Poziție strategică pe versant", "Ambrazuri pentru muschete cu încărcare frontală", "Responsabilă pentru apărarea de proximitate", "Parte a fortificațiilor britanice", "Resturi de ziduri istorice conservate", "Asigura accesul spre vârful dealului"],
+      en: ["Strategic position on the hillside", "Loopholes designed for muzzle-loaders", "Responsible for close-range defense", "Part of the British fortification network", "Historical wall fragments still visible", "Secured the path to the hill summit"],
+    },
   },
   {
     id: "saintlucia-st-joseph-worker-church-history-v2",
@@ -798,6 +1290,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["The current building was renewed after a 20th-century hurricane.", "Known for its colorful windows and local art.", "A significant meeting point during religious feast days.", "Gros Islet village was developed around this parish."],
     },
     imageHint: "Catholic church with prominent tower in Gros Islet",
+    descriptionAdvanced: {
+      de: "Die St. Joseph the Worker Church in Gros Islet ist eine der ältesten und bedeutendsten katholischen Kirchen im Norden der Insel. Das Gebäude zeichnet sich durch seine charakteristische Architektur und seine Rolle im Leben des Fischerdorfes aus. Seit ihrer Gründung im 19. Jahrhundert ist sie ein zentraler Ort für religiöse Feste und Prozessionen.",
+      hu: "A Gros Islet-i Munkás Szent József templom a sziget északi részének egyik legrégebbi és legjelentősebb katolikus temploma. Az épület jellegzetes építészetével és a halászfalu életében betöltött szerepével tűnik ki. A 19. századi alapítása óta a vallási ünnepek és körmenetek központi helyszíne.",
+      ro: "Biserica Sfântul Iosif Muncitorul din Gros Islet este una dintre cele mai vechi și importante biserici catolice din nordul insulei. Clădirea se remarcă prin arhitectura sa caracteristică și rolul său în viața satului de pescari. De la fondarea sa în secolul al XIX-lea, este un loc central pentru sărbători religioase.",
+      en: "St. Joseph the Worker Church in Gros Islet is one of the oldest and most significant Catholic churches in the north of the island. The building is notable for its distinct architecture and its vital role in the life of the fishing village. Since its 19th-century founding, it has been a central site for religious festivals.",
+    },
+    factsAdvanced: {
+      de: ["Heutige Steinkirche erbaut 1850", "Gewidmet dem Schutzpatron der Arbeiter", "Befindet sich im Zentrum von Gros Islet", "Bekannt für die Karfreitags-Prozession", "Ersetzte eine Kapelle von 1749", "Renoviert nach Sturmschäden 1966"],
+      hu: ["A mai kőtemplom 1850-ben épült", "A munkások védőszentjének szentelték", "Gros Islet központjában található", "Híres a nagypénteki körmenetről", "Egy 1749-es kápolnát váltott fel", "Az 1966-os viharkárok után felújították"],
+      ro: ["Biserica actuală de piatră construită în 1850", "Dedicată patronului muncitorilor", "Situată în centrul localității Gros Islet", "Cunoscută pentru procesiunea de Vinerea Mare", "A înlocuit o capelă din 1749", "Renovată după daunele furtunii din 1966"],
+      en: ["Current stone church built in 1850", "Dedicated to the patron saint of workers", "Located in the heart of Gros Islet", "Famous for Good Friday processions", "Replaced a chapel from 1749", "Renovated after storm damage in 1966"],
+    },
   },
   {
     id: "saintlucia-morne-le-blanc-lookout-history-v2",
@@ -817,6 +1321,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Used to monitor enemy fleet movements.", "Located near the traditional pottery region of Choiseul.", "A popular spot for historic tours in the south.", "Offers one of the best views of Gros Piton mountain."],
     },
     imageHint: "Panoramic view from a hilltop over the Caribbean Sea",
+    descriptionAdvanced: {
+      de: "Der Morne Le Blanc Aussichtspunkt bietet einen weiten Blick über das Dorf Laborie und das Karibische Meer. Historisch wurde dieser Hügel als strategischer Beobachtungspunkt genutzt, um herannahende Schiffe frühzeitig zu sichten. Die erhöhte Lage war sowohl für die Verteidigung als auch für die Navigation der lokalen Fischer von großer Bedeutung.",
+      hu: "A Morne Le Blanc kilátó széles rálátást biztosít Laborie falura és a Karib-tengerre. Történelmileg ezt a dombot stratégiai megfigyelőpontként használták a közeledő hajók korai észlelésére. A megemelt fekvés mind a védelem, mind a helyi halászok navigációja szempontjából nagy jelentőséggel bírt.",
+      ro: "Punctul de observare Morne Le Blanc oferă o vedere panoramică asupra satului Laborie și a Mării Caraibilor. Istoric, acest deal a fost folosit ca punct strategic de observație pentru a detecta timpuriu navele care se apropiau. Poziția ridicată era crucială atât pentru apărare, cât și pentru navigația pescarilor locali.",
+      en: "The Morne Le Blanc lookout provides a panoramic view over Laborie village and the Caribbean Sea. Historically, this hill served as a strategic observation point for spotting approaching vessels. Its elevated position was of great importance for both defense and the navigation of local fishermen.",
+    },
+    factsAdvanced: {
+      de: ["Überblickt die Bucht von Laborie", "Historischer Signalposten der Miliz", "Blick auf die Pitons im Norden", "Wichtiger Ort für kulturelle Feste", "Wanderweg führt zum Gipfel", "Höhe ca. 250 Meter"],
+      hu: ["A Laborie-öbölre néz", "A milícia történelmi jelzőállomása", "Kilátás az északi Pitonokra", "Kulturális fesztiválok fontos helyszíne", "Gyalogtúra vezet a csúcsra", "Magassága kb. 250 méter"],
+      ro: ["Vedere panoramică asupra golfului Laborie", "Fost post de semnalizare al miliției", "Vedere spre munții Piton la nord", "Loc important pentru festivaluri culturale", "Traseu de drumeție către vârf", "Altitudine de aproximativ 250 metri"],
+      en: ["Overlooks the Bay of Laborie", "Historical militia signaling post", "View of the Pitons to the north", "Key site for local cultural festivals", "Hiking trail leads to the summit", "Elevation of approximately 250 meters"],
+    },
   },
   {
     id: "saintlucia-marquis-estate-sugar-mill-history-v2",
@@ -836,6 +1352,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["The mill was powered by water from the Marquis River.", "Inscriptions in the stones refer to the 18th century.", "A significant site for researching plantation technology.", "Surrounded by dense tropical vegetation."],
     },
     imageHint: "Large stone ruins of a colonial sugar mill",
+    descriptionAdvanced: {
+      de: "Die Marquis Sugar Mill war einst das Zentrum einer der größten Plantagen an der Nordostküste von St. Lucia. Die Mühle wurde mit Wasserkraft aus dem nahegelegenen Marquis River betrieben und verarbeitete das Zuckerrohr der umliegenden Felder. Die heute noch stehenden Steinruinen vermitteln ein Bild der industriellen Vergangenheit der Insel.",
+      hu: "A Marquis cukormalom egykor Saint Lucia északkeleti partjának egyik legnagyobb ültetvényének központja volt. A malmot a közeli Marquis-folyó vize hajtotta, és a környező földek cukornádját dolgozta fel. A ma is álló kőromok a sziget ipari múltjáról tanúskodnak.",
+      ro: "Moara de zahăr Marquis a fost odinioară centrul uneia dintre cele mai mari plantații de pe coasta de nord-est a insulei. Moara funcționa cu energie hidraulică din râul Marquis din apropiere și procesa trestia de zahăr de pe câmpurile învecinate. Ruinele de piatră care mai stau și astăzi oferă o imagine a trecutului industrial al insulei.",
+      en: "The Marquis Sugar Mill was once the centerpiece of one of the largest plantations on Saint Lucia's northeastern coast. The mill was powered by water from the nearby Marquis River and processed sugar cane from the surrounding fields. The stone ruins remaining today provide a glimpse into the island's industrial past.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 18. Jahrhundert", "Nutze ein großes Wasserrad", "Größtes Anwesen im Marquis-Tal", "Produzierte Zucker und Rum", "Ruinen der Fabrikanlage erhalten", "Ehemals Eigentum französischer Siedler"],
+      hu: ["A 18. században alapították", "Nagy vízikerékkel működött", "A Marquis-völgy legnagyobb birtoka", "Cukrot és rumot termelt", "A gyáregyüttes romjai ma is láthatók", "Egykor francia telepesek tulajdona volt"],
+      ro: ["Fondată în secolul al XVIII-lea", "Folosea o roată mare de apă", "Cea mai mare proprietate din Valea Marquis", "Producea zahăr și rom", "Ruine ale complexului fabricii conservate", "Fosta proprietate a coloniștilor francezi"],
+      en: ["Founded in the 18th century", "Utilized a large water wheel", "Largest estate in the Marquis Valley", "Produced both sugar and rum", "Ruins of the factory complex still stand", "Formerly owned by French settlers"],
+    },
   },
   {
     id: "saintlucia-provost-redoubt-history-v2",
@@ -855,6 +1383,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Served as a forward observation point.", "The facility includes trenches and stone walls.", "Site of intense fighting between British and French forces.", "Part of the ensemble of historic monuments on the hill."],
     },
     imageHint: "Ancient stone ramparts and defensive walls on a hill",
+    descriptionAdvanced: {
+      de: "Die Provost-Redoute ist eine historische Befestigungsanlage auf der Vigie-Halbinsel in Castries. Sie wurde Ende des 18. Jahrhunderts erbaut, um die Verteidigungslinie nördlich des Hafens zu verstärken. Als Teil eines Netzwerks von Forts spielte sie eine entscheidende Rolle bei der Abwehr feindlicher Landungsversuche in der strategisch wichtigen Bucht.",
+      hu: "A Provost-erőd egy történelmi erődítmény a castries-i Vigie-félszigeten. A 18. század végén épült, hogy megerősítse a kikötőtől északra húzódó védelmi vonalat. Az erődök hálózatának részeként döntő szerepet játszott az ellenséges partraszállási kísérletek elhárításában a stratégiai fontosságú öbölben.",
+      ro: "Reduta Provost este o fortificație istorică situată pe peninsula Vigie din Castries. A fost construită la sfârșitul secolului al XVIII-lea pentru a întări linia defensivă la nord de port. Ca parte a unei rețele de forturi, a jucat un rol crucial în respingerea tentativelor de debarcare inamice în golful strategic.",
+      en: "Provost's Redoubt is a historical fortification located on the Vigie Peninsula in Castries. It was constructed in the late 18th century to strengthen the defensive line north of the harbor. As part of a network of forts, it played a crucial role in repelling enemy landing attempts in the strategic bay.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut von britischen Truppen", "Sicherte die Vigie-Anhöhen", "Teil der Kämpfe von 1778", "Massive Steinmauern erhalten", "Blick auf den Flughafen Vigie heute", "Strategischer Punkt im Castries-Hafen"],
+      hu: ["Brit csapatok építették", "A Vigie-magaslatokat biztosította", "Részt vett az 1778-as harcokban", "Masszív kőfalak maradtak fenn", "Ma a Vigie repülőtérre néz", "Stratégiai pont a castries-i kikötőnél"],
+      ro: ["Construită de trupele britanice", "Securiza înălțimile Vigie", "Parte a luptelor din 1778", "Ziduri masive de piatră conservate", "Vedere spre aeroportul Vigie astăzi", "Punct strategic în portul Castries"],
+      en: ["Built by British forces", "Secured the Vigie heights", "Involved in the 1778 conflicts", "Massive stone walls still intact", "Overlooks Vigie Airport today", "Strategic point for Castries Harbor"],
+    },
   },
   {
     id: "saintlucia-rabot-estate-history-v2",
@@ -874,6 +1414,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Known for its fertile volcanic soils.", "The manor house preserves the charm of the French colonial era.", "Significant producer of high-quality Caribbean cocoa.", "Located directly at the foot of the Pitons."],
     },
     imageHint: "Historical plantation house with cocoa trees Rabot Estate",
+    descriptionAdvanced: {
+      de: "Das Rabot Estate ist eine der ältesten und traditionsreichsten Kakaoplantagen auf St. Lucia, gelegen in der Nähe von Soufrière. Das Anwesen blickt auf eine fast 300-jährige Geschichte zurück und ist bekannt für seine hochwertigen Kakaobohnen, die auf den vulkanischen Böden der Region gedeihen. Heute verbindet es historisches Erbe mit modernem Kakaoanbau.",
+      hu: "A Rabot birtok Saint Lucia egyik legrégebbi és leghagyományosabb kakaóültetvénye Soufrière közelében. A birtok közel 300 éves múltra tekint vissza, és híres kiváló minőségű kakaóbabjairól, amelyek a régió vulkanikus talaján teremnek. Ma a történelmi örökséget ötvözi a modern kakaótermesztéssel.",
+      ro: "Domeniul Rabot este una dintre cele mai vechi și tradiționale plantații de cacao din Sfânta Lucia, situată lângă Soufrière. Proprietatea are o istorie de aproape 300 de ani și este renumită pentru boabele de cacao de înaltă calitate care cresc pe solurile vulcanice ale regiunii. Astăzi combină moștenirea istorică cu agricultura modernă.",
+      en: "Rabot Estate is one of the oldest and most traditional cocoa plantations on Saint Lucia, located near Soufrière. The estate boasts a nearly 300-year history and is renowned for its high-quality cocoa beans, which thrive in the region's volcanic soils. Today, it blends historical heritage with modern cocoa production.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1745", "Älteste Kakao-Farm der Insel", "Liegt im Schatten der Pitons", "Vulkanischer Boden fördert Aroma", "Ehemals Teil eines französischen Lehens", "Heute Zentrum für 'Tree-to-Bar' Kakao"],
+      hu: ["1745-ben alapították", "A sziget legrégebbi kakaófarmja", "A Pitonok árnyékában található", "Vulkanikus talaj segíti az aromát", "Egykor francia hűbérbirtok része", "Ma a 'Tree-to-Bar' kakaó központja"],
+      ro: ["Fondat în anul 1745", "Cea mai veche fermă de cacao de pe insulă", "Situat la poalele munților Piton", "Solul vulcanic favorizează aroma", "Fostă parte a unui feud francez", "Centru actual pentru cacao 'Tree-to-Bar'"],
+      en: ["Established in 1745", "Oldest cocoa farm on the island", "Located in the shadow of the Pitons", "Volcanic soil enhances flavor", "Formerly part of a French land grant", "Now a center for 'Tree-to-Bar' cocoa"],
+    },
   },
   {
     id: "saintlucia-canaries-sugar-mill-history-v2",
@@ -893,6 +1445,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Canaries derives its name from the clay pots that were made here.", "The mill was operated by the French in the 18th century.", "The stone walls are now overgrown with vines and ferns.", "A silent monument to the colonial plantation era."],
     },
     imageHint: "Stone mill ruins overgrown with tropical plants Canaries",
+    descriptionAdvanced: {
+      de: "Die Ruinen der Zuckermühle von Canaries sind Überreste der industriellen Vergangenheit des Dorfes an der Westküste von Saint Lucia. Die Anlage zeugt von der Zeit, als der Zuckerrohranbau das wirtschaftliche Rückgrat der Region bildete. Heute sind Steinmauern und Teile der ehemaligen Maschinerie in der Nähe des Canaries River zu sehen. Die Anlage wurde im 18. Jahrhundert errichtet und war bis ins 19. Jahrhundert in Betrieb.",
+      hu: "A Canaries cukornádőrlő romjai Saint Lucia nyugati partvidékének ipari múltját idézik. A létesítmény tanúskodik arról az időszakról, amikor a cukornádtermesztés jelentette a régió gazdasági gerincét. Napjainkban kőfalak és az egykori gépezet részei láthatók a Canaries-folyó közelében. Az üzemet a 18. században alapították, és a 19. századig üzemelt aktívan.",
+      ro: "Ruinele morii de zahăr din Canaries sunt vestigii ale trecutului industrial al satului de pe coasta de vest a insulei Saint Lucia. Instalația atestă perioada în care cultivarea trestiei de zahăr constituia coloana vertebrală a economiei regiunii. Astăzi, ziduri de piatră și părți ale fostelor utilaje pot fi văzute lângă râul Canaries. Moara a fost construită în secolul al XVIII-lea și a funcționat până în secolul al XIX-lea.",
+      en: "The ruins of the Canaries sugar mill are remnants of the industrial past of this village on the west coast of Saint Lucia. The facility bears witness to the era when sugar cane cultivation formed the economic backbone of the region. Today, stone walls and parts of the former machinery can be seen near the Canaries River. The mill was established in the 18th century and operated actively until the 19th century.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 18. Jahrhundert während der Kolonialzeit", "Befindet sich in unmittelbarer Nähe zum Canaries River", "Hauptprodukt war Rohrzucker für den Export nach Europa", "Die Ruinen bestehen primär aus lokalem Vulkangestein", "Teil eines ehemaligen Netzwerks von über 80 Mühlen auf der Insel", "Einstellung des Betriebs Mitte des 19. Jahrhunderts"],
+      hu: ["A 18. században épült a gyarmati időszak alatt", "Közvetlenül a Canaries-folyó mellett található", "Fő terméke az Európába exportált nyerscukor volt", "A romok elsősorban helyi vulkáni kőzetből állnak", "A szigeten lévő egykori 80 malomból álló hálózat része", "Az üzemeltetést a 19. század közepén fejezték be"],
+      ro: ["Construită în secolul al XVIII-lea în perioada colonială", "Situată în imediata apropiere a râului Canaries", "Produsul principal era zahărul brut pentru export în Europa", "Ruinele sunt formate în principal din rocă vulcanică locală", "Face parte dintr-o fostă rețea de peste 80 de mori de pe insulă", "Încetarea operațiunilor la mijlocul secolului al XIX-lea"],
+      en: ["Built in the 18th century during the colonial period", "Located in close proximity to the Canaries River", "Primary product was raw sugar for export to Europe", "The ruins consist primarily of local volcanic stone", "Part of a former network of over 80 mills on the island", "Operations ceased in the mid-19th century"],
+    },
   },
   {
     id: "saintlucia-union-agricultural-station-history-v2",
@@ -912,6 +1476,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Served to introduce and breed rare tropical trees.", "Houses a historic herbarium and old nurseries.", "A center for the conservation of local flora.", "Located in a picturesque setting at the foot of Morne Pimard."],
     },
     imageHint: "Lush botanical gardens with old stone greenhouse structures",
+    descriptionAdvanced: {
+      de: "Die Union Agricultural Station wurde zu Beginn des 20. Jahrhunderts als Forschungszentrum für die Entwicklung der lokalen Landwirtschaft etabliert. Sie spielte eine entscheidende Rolle bei der Einführung neuer Nutzpflanzen und der Verbesserung der Bodenbewirtschaftung auf der Insel. Heute beherbergt das Areal botanische Gärten und Naturschutzgebiete. Die Station war maßgeblich an der Diversifizierung der Wirtschaft weg von der reinen Zuckerproduktion beteiligt.",
+      hu: "Az Union Mezőgazdasági Állomást a 20. század elején hozták létre a helyi mezőgazdaság fejlesztésére szolgáló kutatóközpontként. Döntő szerepet játszott az új haszonnövények bevezetésében és a sziget talajgazdálkodásának javításában. Ma a terület botanikus kerteknek és természetvédelmi övezeteknek ad otthont. Az állomás jelentősen hozzájárult a gazdaság diverzifikálásához a tiszta cukortermelésről való elmozdulásban.",
+      ro: "Stația Agricolă Union a fost stabilită la începutul secolului al XX-lea ca centru de cercetare pentru dezvoltarea agriculturii locale. A jucat un rol crucial în introducerea de noi culturi și îmbunătățirea gestionării solului pe insulă. Astăzi, zona găzduiește grădini botanice și rezervații naturale. Stația a contribuit semnificativ la diversificarea economiei, reducând dependența de producția de zahăr.",
+      en: "The Union Agricultural Station was established at the beginning of the 20th century as a research center for the development of local agriculture. It played a crucial role in introducing new crops and improving soil management on the island. Today, the area houses botanical gardens and nature reserves. The station was instrumental in diversifying the economy away from pure sugar production.",
+    },
+    factsAdvanced: {
+      de: ["Gründung der Station im Jahr 1914", "Schwerpunkt auf der Forschung von Kakao- und Zitruspflanzen", "Beherbergt einen der ältesten botanischen Gärten der Insel", "Sitz der Forstwirtschaftsabteilung von Saint Lucia", "Verfügt über Wanderwege durch sekundären Regenwald", "Einführung der Sorte 'Gros Michel' Banane in den 1920ern"],
+      hu: ["Az állomás alapítása 1914-ben történt", "Kakaó- és citrusfélék kutatására összpontosított", "A sziget egyik legrégebbi botanikus kertjének ad otthont", "Saint Lucia erdészeti osztályának székhelye", "Másodlagos esőerdőn áthaladó túraútvonalakkal rendelkezik", "A 'Gros Michel' banánfajta bevezetése az 1920-as években"],
+      ro: ["Fondarea stației în anul 1914", "Concentrare pe cercetarea plantelor de cacao și citrice", "Găzduiește una dintre cele mai vechi grădini botanice de pe insulă", "Sediul departamentului de silvicultură din Saint Lucia", "Dispune de trasee de drumeție prin pădure tropicală secundară", "Introducerea soiului de banane 'Gros Michel' în anii 1920"],
+      en: ["Foundation of the station in 1914", "Focus on cocoa and citrus crop research", "Houses one of the island's oldest botanical gardens", "Headquarters of Saint Lucia's Forestry Department", "Features hiking trails through secondary rainforest", "Introduction of the 'Gros Michel' banana variety in the 1920s"],
+    },
   },
   {
     id: "saintlucia-royal-military-cemetery-morne-fortune-history-v2",
@@ -931,6 +1507,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Many headstones date from the late 18th century.", "Witness to high mortality from combat and disease.", "Located near the former military quarters.", "Offers a quiet atmosphere for reflection on the past."],
     },
     imageHint: "Neat rows of historic white military headstones Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der königliche Militärfriedhof auf dem Morne Fortune ist eine historische Begräbnisstätte, die die bewegte Kolonialgeschichte von Saint Lucia widerspiegelt. Hier ruhen Soldaten und Offiziere, die während der zahlreichen Kämpfe zwischen Briten und Franzosen um die Vorherrschaft auf der Insel fielen. Die Gräber stammen größtenteils aus dem späten 18. und 19. Jahrhundert. Das Gelände bietet heute eine ruhige Atmosphäre mit Blick über Castries.",
+      hu: "A Morne Fortune királyi katonai temető egy történelmi nyughely, amely Saint Lucia mozgalmas gyarmati múltját tükrözi. Itt nyugszanak azok a katonák és tisztek, akik a sziget feletti uralomért vívott brit-francia harcok során estek el. A sírok nagy része a 18. század végéről és a 19. századból származik. A terület ma nyugodt légkört biztosít, kilátással Castries városára.",
+      ro: "Cimitirul Militar Regal de pe Morne Fortune este un loc de veci istoric care reflectă istoria colonială agitată a insulei Saint Lucia. Aici se odihnesc soldați și ofițeri care au căzut în timpul numeroaselor lupte dintre britanici și francezi pentru supremația asupra insulei. Mormintele datează în mare parte de la sfârșitul secolului al XVIII-lea și din secolul al XIX-lea. Terenul oferă astăzi o atmosferă liniștită cu vedere spre Castries.",
+      en: "The Royal Military Cemetery on Morne Fortune is a historical burial ground reflecting the turbulent colonial history of Saint Lucia. It is the final resting place for soldiers and officers who fell during the numerous battles between the British and French for control of the island. Most graves date back to the late 18th and 19th centuries. The site now offers a peaceful atmosphere with views overlooking Castries.",
+    },
+    factsAdvanced: {
+      de: ["Beinhaltet Gräber aus den Jahren 1796 bis 1905", "Letzte Ruhestätte vieler Angehöriger des Royal West India Regiment", "Befindet sich auf einer Höhe von ca. 250 Metern", "Denkmal für die Opfer des Gelbfiebers im 19. Jahrhundert", "Wird von der Saint Lucia National Trust verwaltet", "In der Nähe befinden sich die ehemaligen Pulvermagazine"],
+      hu: ["1796 és 1905 közötti sírokat tartalmaz", "A Royal West India Regiment számos tagjának nyughelye", "Körülbelül 250 méteres tengerszint feletti magasságban található", "Emlékmű a 19. századi sárgaláz áldozatainak", "A Saint Lucia National Trust kezeli a területet", "A közelben találhatók az egykori lőporraktárak"],
+      ro: ["Conține morminte din anii 1796 până în 1905", "Locul de odihnă pentru mulți membri ai Royal West India Regiment", "Situat la o altitudine de aproximativ 250 de metri", "Monument pentru victimele febrei galbene din secolul al XIX-lea", "Administrat de Saint Lucia National Trust", "În apropiere se află fostele depozite de pulbere"],
+      en: ["Contains graves dating from 1796 to 1905", "Resting place for members of the Royal West India Regiment", "Located at an elevation of approximately 250 meters", "Memorial for victims of yellow fever in the 19th century", "Managed by the Saint Lucia National Trust", "Proximity to the former powder magazines"],
+    },
   },
   {
     id: "saintlucia-pigeon-island-causeway-history-v2",
@@ -950,6 +1538,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Massively altered the current patterns in Rodney Bay.", "Formerly, Pigeon Island was only accessible by boat.", "Construction enabled the tourist development of the national park.", "An example of modern infrastructure measures on the island."],
     },
     imageHint: "Road connecting a small island to the mainland with sea on both sides",
+    descriptionAdvanced: {
+      de: "Der Pigeon Island Causeway ist eine künstliche Landbrücke, die 1972 fertiggestellt wurde, um Pigeon Island dauerhaft mit dem Festland von Saint Lucia zu verbinden. Vor dem Bau war die Insel nur per Boot erreichbar, was den Zugang zu den historischen Befestigungsanlagen erschwerte. Der Bau veränderte die Strömungsverhältnisse in der Rodney Bay erheblich. Heute bildet der Damm die Basis für Hotels und Strandanlagen im Norden der Insel.",
+      hu: "A Pigeon Island Causeway egy mesterséges földsáv, amelyet 1972-ben fejeztek be, hogy Pigeon Islandet tartósan összekössék Saint Lucia szárazföldjével. Az építés előtt a sziget csak hajóval volt elérhető, ami megnehezítette a hozzáférést a történelmi erődítményekhez. A gát építése jelentősen megváltoztatta a Rodney Bay áramlási viszonyait. Ma a gát szállodáknak és strandlétesítményeknek ad helyet a sziget északi részén.",
+      ro: "Digul Pigeon Island este o fâșie de pământ artificială, finalizată în 1972, pentru a conecta permanent insula Pigeon de restul insulei Saint Lucia. Înainte de construcție, insula era accesibilă doar cu barca, ceea ce îngreuna accesul la fortificațiile istorice. Construcția a schimbat semnificativ curenții marini din Golful Rodney. Astăzi, digul formează baza pentru hoteluri și facilități de plajă în nordul insulei.",
+      en: "The Pigeon Island Causeway is a man-made land bridge completed in 1972 to permanently connect Pigeon Island with mainland Saint Lucia. Before its construction, the island was only accessible by boat, which complicated access to the historical fortifications. The project significantly altered water currents in Rodney Bay. Today, the causeway serves as the foundation for hotels and beach facilities in the north of the island.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr des Damms war 1972", "Länge der Verbindung beträgt etwa 1,2 Kilometer", "Verwendetes Material stammt aus Baggerarbeiten im Jachthafen", "Ermöglichte die Ernennung von Pigeon Island zum Nationalpark", "Verursachte Erosion an den Stränden der Rodney Bay", "Wird heute von der Hauptstraße nach Gros Islet genutzt"],
+      hu: ["A gát építésének éve 1972 volt", "Az összeköttetés hossza körülbelül 1,2 kilométer", "A felhasznált anyag a jachtkikötő kotrásából származik", "Lehetővé tette Pigeon Island nemzeti parkká nyilvánítását", "Eróziót okozott a Rodney Bay strandjain", "Ma a Gros Isletbe vezető főút halad rajta"],
+      ro: ["Anul construcției digului a fost 1972", "Lungimea conexiunii este de aproximativ 1,2 kilometri", "Materialul utilizat provine din dragarea portului de iahturi", "A permis desemnarea insulei Pigeon ca parc național", "A cauzat eroziune pe plajele din Golful Rodney", "Este utilizat astăzi de drumul principal către Gros Islet"],
+      en: ["Construction of the causeway was completed in 1972", "The length of the connection is about 1.2 kilometers", "Material used came from dredging the yacht marina", "Enabled Pigeon Island to be designated a National Park", "Caused erosion on the beaches of Rodney Bay", "Currently used by the main road leading to Gros Islet"],
+    },
   },
   {
     id: "saintlucia-ferrands-estate-history-v2",
@@ -969,6 +1569,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["One of the oldest continuously cultivated areas.", "Once housed a significant rum distillery.", "The estate is located amidst fertile plains.", "An important part of colonial agricultural history."],
     },
     imageHint: "Historic plantation manor surrounded by green fields",
+    descriptionAdvanced: {
+      de: "Das Ferrands Estate ist ein historisches Anwesen im Cul de Sac Valley, das im 18. Jahrhundert als bedeutende Zuckerplantage gegründet wurde. Es spiegelt die agrarische Transformation der Insel wider, von der Sklavenarbeit in der Zuckerproduktion bis hin zum Bananenanbau im 20. Jahrhundert. Die erhaltenen Strukturen bieten Einblicke in die koloniale Architektur und Plantagenwirtschaft. Heute wird das Land teilweise noch landwirtschaftlich genutzt.",
+      hu: "A Ferrands Estate egy történelmi birtok a Cul de Sac-völgyben, amelyet a 18. században jelentős cukorültetvényként alapítottak. Tükrözi a sziget mezőgazdasági átalakulását a cukortermelés rabszolgamunkájától a 20. századi banántermesztésig. A fennmaradt építmények betekintést nyújtanak a gyarmati építészetbe és az ültetvénygazdálkodásba. Ma a földterület egy részét még mindig mezőgazdasági célokra használják.",
+      ro: "Ferrands Estate este o proprietate istorică în Valea Cul de Sac, fondată în secolul al XVIII-lea ca o plantație importantă de zahăr. Reflectă transformarea agrară a insulei, de la munca sclavilor în producția de zahăr până la cultivarea bananelor în secolul al XX-lea. Structurile conservate oferă perspective asupra arhitecturii coloniale și economiei de plantație. Astăzi, terenul este parțial încă utilizat în scopuri agricole.",
+      en: "Ferrands Estate is a historic property in the Cul de Sac Valley, established in the 18th century as a prominent sugar plantation. It reflects the island's agrarian transformation, from slave labor in sugar production to banana cultivation in the 20th century. The surviving structures provide insights into colonial architecture and plantation management. Today, portions of the land are still used for agricultural purposes.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um 1760 als Zuckerrohrplantage", "Besitzt Reste eines alten Aquädukts zur Wasserversorgung", "Umstellung auf Kokosnuss- und Kakaoproduktion um 1900", "Lage im fruchtbaren Cul de Sac Tal bei Castries", "Einst im Besitz prominenter französischer Siedlerfamilien", "Beherbergt ein historisches Herrenhaus aus der Kolonialzeit"],
+      hu: ["1760 körül alapították cukornádültetvényként", "Egy régi akvadukt maradványaival rendelkezik a vízellátáshoz", "Átállás kókuszdió- és kakaótermelésre 1900 körül", "A termékeny Cul de Sac-völgyben található Castries közelében", "Egykor prominens francia telepes családok tulajdona volt", "Egy gyarmati korszakból származó történelmi kúriának ad otthont"],
+      ro: ["Fondată în jurul anului 1760 ca plantație de trestie de zahăr", "Deține resturile unui vechi apeduct pentru alimentarea cu apă", "Trecerea la producția de nucă de cocos și cacao în jurul anului 1900", "Situată în valea fertilă Cul de Sac lângă Castries", "A fost deținută de familii proeminente de coloniști francezi", "Găzduiește un conac istoric din perioada colonială"],
+      en: ["Founded around 1760 as a sugar cane plantation", "Contains remains of an old aqueduct for water supply", "Shifted to coconut and cocoa production around 1900", "Located in the fertile Cul de Sac Valley near Castries", "Once owned by prominent French settler families", "Houses a historic manor house from the colonial era"],
+    },
   },
   {
     id: "saintlucia-pigeon-island-lazaretto-history-v2",
@@ -988,6 +1600,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Served to isolate patients with infectious diseases.", "The ruins are located near the seashore.", "Later converted into a residence for the park ranger.", "Part of the medical history of the British Navy."],
     },
     imageHint: "Historic stone building ruins near a sandy beach",
+    descriptionAdvanced: {
+      de: "Das ehemalige Lazarett auf Pigeon Island diente im späten 19. und frühen 20. Jahrhundert als Quarantänestation und Leprakolonie. Die Abgeschiedenheit der Insel machte sie zum idealen Ort, um Infektionskrankheiten vom Hauptteil Saint Lucias fernzuhalten. Die heute noch sichtbaren Fundamente zeugen von einem dunklen Kapitel der Inselgeschichte und der damaligen medizinischen Praxis. Nach der Schließung der Einrichtung verfielen die Gebäude allmählich.",
+      hu: "A Pigeon Island-i egykori lazáret a 19. század végén és a 20. század elején karanténállomásként és lepratelepként szolgált. A sziget elszigeteltsége ideális hellyé tette a fertőző betegségek távoltartására Saint Lucia fő részétől. A ma is látható alapfalak a szigettörténet egy sötét fejezetéről és az akkori orvosi gyakorlatról tanúskodnak. Az intézmény bezárása után az épületek fokozatosan az enyészeté lettek.",
+      ro: "Fostul lazaret de pe insula Pigeon a servit la sfârșitul secolului al XIX-lea și începutul secolului al XX-lea ca stație de carantină și colonie de leproși. Izolarea insulei a făcut-o locul ideal pentru a ține bolile infecțioase departe de restul insulei Saint Lucia. Fundațiile vizibile astăzi atestă un capitol întunecat al istoriei insulei și practicile medicale de atunci. După închiderea instituției, clădirile s-au degradat treptat.",
+      en: "The former Lazaretto on Pigeon Island served as a quarantine station and leper colony in the late 19th and early 20th centuries. The island's isolation made it an ideal location for keeping infectious diseases away from the main part of Saint Lucia. The foundations visible today bear witness to a dark chapter in the island's history and the medical practices of that time. After the facility was closed, the buildings gradually fell into ruin.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung des Lazaretts im Jahr 1845", "Diente primär der Isolierung von Leprakranken", "Einstellung des medizinischen Betriebs im Jahr 1905", "Befindet sich am südlichen Ufer von Pigeon Island", "Bauweise erfolgte aus Backsteinen und Kalkmörtel", "Teil des heutigen Pigeon Island National Landmark"],
+      hu: ["A lazáret megnyitása 1845-ben történt", "Elsősorban a leprás betegek elkülönítésére szolgált", "Az orvosi tevékenység beszüntetése 1905-ben", "Pigeon Island déli partján található", "Építéséhez téglát és mészhabarcsot használtak", "A mai Pigeon Island National Landmark része"],
+      ro: ["Deschiderea lazaretului în anul 1845", "A servit în principal pentru izolarea bolnavilor de lepră", "Încetarea operațiunilor medicale în anul 1905", "Situat pe malul sudic al insulei Pigeon", "Construcția a fost realizată din cărămidă și mortar de var", "Parte a actualului Pigeon Island National Landmark"],
+      en: ["Opening of the Lazaretto in 1845", "Served primarily for the isolation of leprosy patients", "Medical operations ceased in 1905", "Located on the southern shore of Pigeon Island", "Constructed using bricks and lime mortar", "Part of the current Pigeon Island National Landmark"],
+    },
   },
   {
     id: "saintlucia-vieux-fort-sugar-factory-history-v2",
@@ -1007,6 +1631,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Revolutionized sugarcane processing in Saint Lucia.", "Attracted workers from all over the region.", "The foundations show the enormous scale of the factory complex.", "A major turning point in local economic history."],
     },
     imageHint: "Large concrete foundations and industrial ruins in Vieux Fort",
+    descriptionAdvanced: {
+      de: "Die Zuckerfabrik von Vieux Fort war eine der größten und modernsten zentralisierten Verarbeitungsanlagen auf Saint Lucia. Sie wurde Ende des 19. Jahrhunderts gegründet, um die Effizienz der Zuckerproduktion durch Mechanisierung zu steigern. Die Fabrik war ein wichtiger Arbeitgeber im Süden der Insel und prägte die Entwicklung der Stadt Vieux Fort nachhaltig. Mitte des 20. Jahrhunderts wurde der Betrieb aufgrund fallender Weltmarktpreise und der Umstellung auf Bananen eingestellt.",
+      hu: "A Vieux Fort-i cukorgyár Saint Lucia egyik legnagyobb és legmodernebb központosított feldolgozóüzeme volt. A 19. század végén alapították, hogy a gépesítés révén növeljék a cukortermelés hatékonyságát. A gyár fontos munkaadó volt a sziget déli részén, és tartósan meghatározta Vieux Fort városának fejlődését. A 20. század közepén az üzemet a világpiaci árak esése és a banántermelésre való átállás miatt bezárták.",
+      ro: "Fabrica de zahăr din Vieux Fort a fost una dintre cele mai mari și mai moderne instalații de procesare centralizate din Saint Lucia. A fost fondată la sfârșitul secolului al XIX-lea pentru a crește eficiența producției de zahăr prin mecanizare. Fabrica a fost un angajator important în sudul insulei și a marcat durabil dezvoltarea orașului Vieux Fort. La mijlocul secolului al XX-lea, operațiunile au fost oprite din cauza scăderii prețurilor mondiale și a trecerii la banane.",
+      en: "The Vieux Fort sugar factory was one of the largest and most modern centralized processing facilities in Saint Lucia. It was founded in the late 19th century to increase sugar production efficiency through mechanization. The factory was a major employer in the south of the island and significantly shaped the development of Vieux Fort town. In the mid-20th century, operations ceased due to falling global prices and a shift toward banana cultivation.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme der modernen Zentralfabrik 1883", "Verfügte über eine eigene Eisenbahn für den Transport", "Exportierte Zucker über den Hafen von Vieux Fort", "Beschäftigte auf ihrem Höhepunkt über 500 Arbeiter", "Umwandlung in eine Bananenverladestation in den 1950ern", "Reste der Schornsteine sind heute noch Landmarken"],
+      hu: ["A modern központi gyár üzembe helyezése 1883-ban", "Saját vasúttal rendelkezett a szállításhoz", "Vieux Fort kikötőjén keresztül exportálták a cukrot", "Fénykorában több mint 500 munkást foglalkoztatott", "Az 1950-es években banánrakodó állomássá alakították", "A kémények maradványai ma is tájékozódási pontok"],
+      ro: ["Punerea în funcțiune a fabricii centrale moderne în 1883", "Dispunea de propria cale ferată pentru transport", "Exporta zahăr prin portul Vieux Fort", "Angaja peste 500 de muncitori la apogeu", "Conversia într-o stație de încărcare a bananelor în anii 1950", "Resturile coșurilor de fum sunt astăzi repere vizuale"],
+      en: ["Commissioning of the modern central factory in 1883", "Featured its own railway system for transport", "Exported sugar through the Vieux Fort harbor", "Employed over 500 workers at its peak", "Converted into a banana loading station in the 1950s", "Remnants of the chimneys are still landmarks today"],
+    },
   },
   {
     id: "saintlucia-monchy-old-estate-history-v2",
@@ -1026,6 +1662,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Located in the rolling hills above Gros Islet.", "Formerly a center for coffee and cocoa cultivation.", "Some historic stone houses are still preserved in the village.", "Offers insights into life away from the coastal forts."],
     },
     imageHint: "Traditional houses in a hillside village setting Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Monchy Old Estate ist ein historisches Zeugnis der landwirtschaftlichen Besiedlung im Norden von Saint Lucia. Es wurde ursprünglich als Mischbetrieb für Kaffee, Kakao und Zuckerrohr genutzt. Die Ruinen des Herrenhauses und der Wirtschaftsgebäude vermitteln einen Eindruck vom Leben auf einer mittelgroßen Plantage im 19. Jahrhundert. Das Gelände ist heute von dichter Vegetation umgeben und bewahrt die Atmosphäre vergangener Zeiten.",
+      hu: "A Monchy Old Estate Saint Lucia északi részének mezőgazdasági betelepülésének történelmi tanúja. Eredetileg vegyes gazdaságként kávé, kakaó és cukornád termesztésére használták. A kúria és a gazdasági épületek romjai betekintést nyújtanak egy 19. századi közepes méretű ültetvény életébe. A területet ma sűrű növényzet veszi körül, megőrizve a múlt idők hangulatát.",
+      ro: "Monchy Old Estate este o mărturie istorică a colonizării agricole din nordul insulei Saint Lucia. A fost utilizată inițial ca o fermă mixtă pentru cafea, cacao și trestie de zahăr. Ruinele conacului și ale clădirilor anexe oferă o impresie despre viața pe o plantație de dimensiuni medii în secolul al XIX-lea. Terenul este astăzi înconjurat de vegetație densă, păstrând atmosfera timpurilor trecute.",
+      en: "Monchy Old Estate is a historical witness to the agricultural settlement in northern Saint Lucia. It was originally operated as a mixed farm for coffee, cocoa, and sugar cane. The ruins of the manor house and outbuildings provide an impression of life on a medium-sized plantation in the 19th century. The site is now surrounded by dense vegetation, preserving the atmosphere of bygone times.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung des Anwesens um 1785", "Bekannt für die Produktion von hochwertigem Hochlandkaffee", "Besitzt Reste einer wasserbetriebenen Mühle", "Lage in den Hügeln nördlich von Gros Islet", "War Teil der französischen Siedlungsexpansion", "Die Ruinen sind aus lokalem Feldstein gemauert"],
+      hu: ["A birtok első említése 1785 körül", "Kiváló minőségű hegyi kávé termeléséről volt ismert", "Egy vízi meghajtású malom maradványaival rendelkezik", "A Gros Islettől északra fekvő dombok között található", "Része volt a francia telepesek terjeszkedésének", "A romok helyi mezei kőből épültek"],
+      ro: ["Prima menționare a proprietății în jurul anului 1785", "Cunoscută pentru producția de cafea de munte de calitate", "Deține resturile unei mori acționate de apă", "Situată în dealurile de la nord de Gros Islet", "A făcut parte din expansiunea colonizării franceze", "Ruinele sunt zidite din piatră locală de câmp"],
+      en: ["First mention of the estate around 1785", "Known for producing high-quality highland coffee", "Features remains of a water-powered mill", "Located in the hills north of Gros Islet", "Part of the French colonial settlement expansion", "The ruins are constructed from local fieldstone"],
+    },
   },
   {
     id: "saintlucia-pointe-du-cap-battery-history-v2",
@@ -1045,6 +1693,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["From here, Martinique is clearly visible in good visibility.", "Built as part of the outer line of defense.", "Remnants of signal light platforms are present.", "A strategic location in the region's maritime history."],
     },
     imageHint: "Rugged northern coastline with ruins of a small battery",
+    descriptionAdvanced: {
+      de: "Die Pointe du Cap Battery war eine strategische Verteidigungsanlage an der nördlichsten Spitze von Saint Lucia. Sie wurde Ende des 18. Jahrhunderts errichtet, um den Schiffsverkehr zwischen Saint Lucia und dem benachbarten Martinique zu überwachen. Von hier aus hatten die Soldaten einen weiten Blick über die Karibische See und den Atlantik. Die Batterie war Teil eines komplexen Verteidigungssystems, zu dem auch Pigeon Island gehörte.",
+      hu: "A Pointe du Cap üteg egy stratégiai védelmi létesítmény volt Saint Lucia legészakibb csücskén. A 18. század végén építették, hogy ellenőrizzék a Saint Lucia és a szomszédos Martinique közötti hajóforgalmat. Innen a katonáknak széles kilátásuk nyílt a Karib-tengerre és az Atlanti-óceánra. Az üteg egy összetett védelmi rendszer része volt, amelyhez Pigeon Island is tartozott.",
+      ro: "Bateria Pointe du Cap a fost o instalație defensivă strategică în cel mai nordic punct al insulei Saint Lucia. A fost construită la sfârșitul secolului al XVIII-lea pentru a monitoriza traficul maritim între Saint Lucia și insula vecină Martinique. De aici, soldații aveau o vedere panoramică asupra Mării Caraibilor și a Oceanului Atlantic. Bateria făcea parte dintr-un sistem defensiv complex, din care făcea parte și insula Pigeon.",
+      en: "The Pointe du Cap Battery was a strategic defensive installation at the northernmost tip of Saint Lucia. Established in the late 18th century, it was designed to monitor maritime traffic between Saint Lucia and neighboring Martinique. From this vantage point, soldiers had an extensive view of the Caribbean Sea and the Atlantic Ocean. The battery was part of a complex defense network that included Pigeon Island.",
+    },
+    factsAdvanced: {
+      de: ["Bau der ersten Befestigungen um 1780", "Ausgestattet mit Kanonen vom Typ 24-Pfünder", "Überwachte die 30 km breite Meerenge nach Martinique", "Diente als Signalstation während der napoleonischen Kriege", "Fundamente der Geschützplattformen sind noch sichtbar", "Wurde nach 1815 militärisch zweitrangig"],
+      hu: ["Az első erődítmények építése 1780 körül", "24 fontos ágyúkkal volt felszerelve", "A Martinique felé vezető 30 km széles tengerszorost ellenőrizte", "Jelzőállomásként szolgált a napóleoni háborúk alatt", "Az ágyúplatformok alapjai ma is láthatók", "1815 után katonailag másodlagossá vált"],
+      ro: ["Construcția primelor fortificații în jurul anului 1780", "Echipată cu tunuri de tip 24 de livre", "Monitoriza strâmtoarea de 30 km către Martinique", "A servit ca stație de semnalizare în timpul războaielor napoleoniene", "Fundațiile platformelor pentru tunuri sunt încă vizibile", "A devenit secundară din punct de vedere militar după 1815"],
+      en: ["Construction of the first fortifications around 1780", "Equipped with 24-pounder cannons", "Monitored the 30 km wide channel to Martinique", "Served as a signaling station during the Napoleonic Wars", "Foundations of the gun platforms are still visible", "Became militarily secondary after 1815"],
+    },
   },
   {
     id: "saintlucia-babonneau-historic-district-history-v2",
@@ -1064,6 +1724,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Hub for the preservation of Afro-Caribbean traditions.", "The area is characterized by old farms and small churches.", "Plays a major role in Saint Lucian folklore.", "Rural architecture reflects the transition to peasant freedom."],
     },
     imageHint: "Village scene in the hills of Babonneau with lush greens",
+    descriptionAdvanced: {
+      de: "Der Babonneau Historic District umfasst eine Region im nordöstlichen Hinterland, die für ihre reiche landwirtschaftliche Tradition und lokale Kultur bekannt ist. Das Gebiet wurde im 19. Jahrhundert von freien Bauern besiedelt, die dort Kakao, Kaffee und Gewürze anbauten. Historische Holzhäuser und alte Dorfkirchen prägen das Bild der Siedlungen. Babonneau gilt als Zentrum für den Erhalt traditioneller Handwerkstechniken und Volksmusik auf Saint Lucia.",
+      hu: "A Babonneau történelmi körzet az északkeleti hátország egy olyan régióját foglalja magában, amely gazdag mezőgazdasági hagyományairól és helyi kultúrájáról ismert. A területet a 19. században szabad parasztok népesítették be, akik kakaót, kávét és fűszereket termesztettek ott. Történelmi faházak és régi falusi templomok határozzák meg a települések arculatát. Babonneau a hagyományos kézműves technikák és a népzene megőrzésének központja Saint Lucián.",
+      ro: "Districtul istoric Babonneau cuprinde o regiune din hinterlandul nord-estic, cunoscută pentru tradiția sa agricolă bogată și cultura locală. Zona a fost colonizată în secolul al XIX-lea de fermieri liberi care au cultivat acolo cacao, cafea și condimente. Casele istorice din lemn și vechile biserici sătești marchează peisajul așezărilor. Babonneau este considerat un centru pentru conservarea tehnicilor artizanale tradiționale și a muzicii populare din Saint Lucia.",
+      en: "The Babonneau Historic District encompasses a region in the northeastern hinterland known for its rich agricultural tradition and local culture. The area was settled in the 19th century by free farmers who cultivated cocoa, coffee, and spices. Historic wooden houses and old village churches define the character of the settlements. Babonneau is regarded as a center for preserving traditional craftsmanship and folk music in Saint Lucia.",
+    },
+    factsAdvanced: {
+      de: ["Frühe Besiedlung durch befreite Sklaven nach 1834", "Hauptzentrum der Kakaoproduktion im 19. Jahrhundert", "Beherbergt die historische Kirche des Guten Hirten", "Bekannt für den Erhalt des Kweyol-Dialekts", "Sitz bedeutender landwirtschaftlicher Kooperativen", "Traditioneller Ort für das 'Jounen Kweyol' Festival"],
+      hu: ["Korai betelepülés felszabadított rabszolgák által 1834 után", "A kakaótermelés fő központja a 19. században", "A Jó Pásztor történelmi templomnak ad otthont", "A Kweyol dialektus megőrzéséről ismert", "Jelentős mezőgazdasági szövetkezetek székhelye", "A 'Jounen Kweyol' fesztivál hagyományos helyszíne"],
+      ro: ["Colonizare timpurie de către sclavi eliberați după 1834", "Centru principal de producție de cacao în secolul al XIX-lea", "Găzduiește biserica istorică a Bunului Păstor", "Cunoscut pentru conservarea dialectului Kweyol", "Sediul unor importante cooperative agricole", "Loc tradițional pentru festivalul 'Jounen Kweyol'"],
+      en: ["Early settlement by freed slaves after 1834", "Main center for cocoa production in the 19th century", "Houses the historic Good Shepherd Church", "Known for preserving the Kweyol dialect", "Headquarters of significant agricultural cooperatives", "Traditional venue for the 'Jounen Kweyol' festival"],
+    },
   },
   {
     id: "saintlucia-morne-fortune-military-barracks-history-v2",
@@ -1083,6 +1755,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Built in the 18th century using bricks from Europe.", "Today, parts of the facility are used by educational institutes.", "Evidence of the strategic importance of the height.", "The architecture is designed to be functional and defensive."],
     },
     imageHint: "Large stone ruins of military buildings on a hilltop",
+    descriptionAdvanced: {
+      de: "Die Militärbaracken auf dem Morne Fortune sind massive Steinbauten, die im 19. Jahrhundert von den Briten zur Unterbringung ihrer Garnison errichtet wurden. Die Architektur ist funktional und robust, um den tropischen Stürmen und potenziellen Belagerungen standzuhalten. Heute dienen viele dieser restaurierten Gebäude zivilen Zwecken, unter anderem als Teil des Sir Arthur Lewis Community College. Sie sind ein markantes Beispiel für die militärische Ingenieurskunst der Kolonialzeit.",
+      hu: "A Morne Fortune-i katonai laktanyák masszív kőépületek, amelyeket a 19. században a britek építettek helyőrségük elszállásolására. Az építészet funkcionális és robusztus, hogy ellenálljon a trópusi viharoknak és az esetleges ostromoknak. Ma e restaurált épületek közül sok polgári célokat szolgál, többek között a Sir Arthur Lewis Community College részeként. A gyarmati korszak katonai mérnöki művészetének jellegzetes példái.",
+      ro: "Cazărmile militare de pe Morne Fortune sunt construcții masive din piatră ridicate în secolul al XIX-lea de către britanici pentru a găzdui garnizoana lor. Arhitectura este funcțională și robustă, concepută pentru a rezista furtunilor tropicale și potențialelor asedii. Astăzi, multe dintre aceste clădiri restaurate servesc scopurilor civile, inclusiv ca parte a Sir Arthur Lewis Community College. Ele sunt un exemplu remarcabil de inginerie militară din perioada colonială.",
+      en: "The military barracks on Morne Fortune are massive stone structures built by the British in the 19th century to house their garrison. The architecture is functional and robust, designed to withstand tropical storms and potential sieges. Today, many of these restored buildings serve civilian purposes, including as part of the Sir Arthur Lewis Community College. They represent a prominent example of colonial-era military engineering.",
+    },
+    factsAdvanced: {
+      de: ["Bau der Hauptbaracken zwischen 1817 und 1820", "Verwendetes Baumaterial war lokal behauener Kalkstein", "Bietet Platz für bis zu 600 Soldaten", "Besitzt 2 Meter dicke Außenmauern", "Beherbergte einst das Hauptquartier der Windward Islands", "Restaurierung erfolgte in den 1960er Jahren"],
+      hu: ["A fő laktanyák építése 1817 és 1820 között", "A felhasznált építőanyag helyi faragott mészkő volt", "Akár 600 katona befogadására is alkalmas", "2 méter vastag külső falakkal rendelkezik", "Egykor a Windward-szigetek főhadiszállásának adott otthont", "A restaurálás az 1960-as években történt"],
+      ro: ["Construcția cazărmilor principale între 1817 și 1820", "Materialul de construcție a fost calcar fasonat local", "Capacitate de cazare pentru până la 600 de soldați", "Ziduri exterioare cu o grosime de 2 metri", "A găzduit odinioară sediul central al Insulelor Windward", "Restaurarea a avut loc în anii 1960"],
+      en: ["Construction of the main barracks between 1817 and 1820", "Building material was locally hewn limestone", "Capacity to house up to 600 soldiers", "Features exterior walls up to 2 meters thick", "Once housed the headquarters for the Windward Islands", "Restoration took place in the 1960s"],
+    },
   },
   {
     id: "saintlucia-errard-estate-history-v2",
@@ -1102,6 +1786,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["One of the best-preserved examples of rural estates.", "Has produced high-quality cocoa for generations.", "Houses traditional cocoa processing facilities.", "Surrounded by pristine tropical rainforest."],
     },
     imageHint: "Old wooden plantation house surrounded by cocoa trees",
+    descriptionAdvanced: {
+      de: "Das Errard Estate ist eine der ältesten kontinuierlich bewirtschafteten Plantagen auf Saint Lucia, gelegen im fruchtbaren Zentrum der Insel bei Dennery. Die Plantage ist bekannt für ihren nachhaltigen Anbau von Kakao, Zimt und Muskatnuss. Die historischen Verarbeitungsanlagen, wie die Kakaotrockner, sind teilweise noch heute in Gebrauch. Errard Estate bietet Einblicke in die traditionellen landwirtschaftlichen Methoden, die über Generationen hinweg verfeinert wurden.",
+      hu: "Az Errard Estate Saint Lucia egyik legrégebbi, folyamatosan művelt ültetvénye, amely a sziget termékeny középső részén, Dennery közelében található. Az ültetvény a kakaó, a fahéj és a szerecsendió fenntartható termesztéséről ismert. A történelmi feldolgozó létesítmények, mint például a kakaószárítók, részben ma is használatban vannak. Az Errard Estate betekintést nyújt a hagyományos mezőgazdasági módszerekbe, amelyeket generációkon keresztül finomítottak.",
+      ro: "Errard Estate este una dintre cele mai vechi plantații cultivate continuu din Saint Lucia, situată în centrul fertil al insulei lângă Dennery. Plantația este cunoscută pentru cultivarea durabilă de cacao, scorțișoară și nucșoară. Instalațiile istorice de procesare, cum ar fi uscătoarele de cacao, sunt parțial încă în uz și astăzi. Errard Estate oferă perspective asupra metodelor agricole tradiționale rafinate de-a lungul generațiilor.",
+      en: "Errard Estate is one of the oldest continuously operated plantations in Saint Lucia, located in the island's fertile central region near Dennery. The plantation is renowned for its sustainable cultivation of cocoa, cinnamon, and nutmeg. Historic processing facilities, such as the cocoa drying trays, are still partially in use today. Errard Estate provides insight into traditional agricultural methods refined over generations.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im späten 18. Jahrhundert", "Besitzt eine wasserbetriebene Kakaomühle aus der Kolonialzeit", "Anbau von über 10 verschiedenen Gewürzarten", "Lage in der Nähe der Sault Falls Wasserfälle", "Gewinner nationaler Preise für die Kakaoflatqualität", "Teil eines Ökotourismus-Programms der Insel"],
+      hu: ["A 18. század végén alapították", "Gyarmati korszakból származó vízi kakaóőrlővel rendelkezik", "Több mint 10 különböző fűszerfajta termesztése", "A Sault Falls vízesések közelében található", "Nemzeti díjak nyertese a kakaóminőségért", "A sziget ökoturisztikai programjának része"],
+      ro: ["Fondată la sfârșitul secolului al XVIII-lea", "Deține o moară de cacao acționată de apă din perioada colonială", "Cultivarea a peste 10 tipuri diferite de condimente", "Situată în apropierea cascadelor Sault Falls", "Câștigătoare de premii naționale pentru calitatea boabelor de cacao", "Parte a unui program de ecoturism de pe insulă"],
+      en: ["Founded in the late 18th century", "Features a water-powered cocoa mill from the colonial era", "Cultivation of over 10 different types of spices", "Located near the Sault Falls waterfalls", "Winner of national awards for cocoa bean quality", "Included in the island's ecotourism initiatives"],
+    },
   },
   {
     id: "saintlucia-paix-bouche-war-memorial-history-v2",
@@ -1121,6 +1817,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Lists the names of volunteers from the area.", "Erected as a sign of connection to the Commonwealth.", "An important reference point for local village history.", "Located in the heart of the historic village center."],
     },
     imageHint: "Simple stone memorial plaque in a small village Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Kriegerdenkmal von Paix Bouche ist ein Ort des Gedenkens an die Einwohner von Saint Lucia, die in den Weltkriegen des 20. Jahrhunderts gedient haben. Es befindet sich in einer markanten Position im Norden der Insel und ehrt die Opfer der lokalen Freiwilligen. Das Denkmal dient als Zentrum für jährliche Gedenkfeiern am Remembrance Day. Es unterstreicht die Verbindung der kleinen Karibikinsel zu globalen historischen Ereignissen und Konflikten.",
+      hu: "A Paix Bouche-i háborús emlékmű azon Saint Lucia-i lakosok emlékhelye, akik a 20. század világháborúiban szolgáltak. A sziget északi részén, jellegzetes helyen található, és a helyi önkéntesek áldozatvállalása előtt tiszteleg. Az emlékmű a Remembrance Day alkalmából rendezett éves megemlékezések központja. Kiemeli a kis karibi sziget kapcsolatát a globális történelmi eseményekkel és konfliktusokkal.",
+      ro: "Monumentul eroilor din Paix Bouche este un loc de comemorare pentru locuitorii din Saint Lucia care au servit în războaiele mondiale ale secolului al XX-lea. Este situat într-o poziție proeminentă în nordul insulei și onorează sacrificiile voluntarilor locali. Monumentul servește ca centru pentru ceremoniile anuale de Ziua Comemorării. Acesta subliniază legătura micii insule din Caraibe cu evenimentele istorice și conflictele globale.",
+      en: "The Paix Bouche War Memorial is a site of remembrance for the residents of Saint Lucia who served in the World Wars of the 20th century. Located in a prominent position in the north of the island, it honors the sacrifices of local volunteers. The memorial serves as a focal point for annual Remembrance Day ceremonies. It highlights the connection between this small Caribbean island and global historical events and conflicts.",
+    },
+    factsAdvanced: {
+      de: ["Errichtung des Denkmals nach dem Zweiten Weltkrieg", "Nennt Namen lokaler Soldaten aus beiden Weltkriegen", "Befindet sich in der Nähe des Dorfes Paix Bouche", "Traditioneller Ort für die Kranzniederlegung im November", "Wurde 2012 umfassend renoviert", "Symbolisiert die Loyalität zum Commonwealth"],
+      hu: ["Az emlékmű felállítása a második világháború után", "Mindkét világháború helyi katonáinak nevét tartalmazza", "Paix Bouche falu közelében található", "A novemberi koszorúzások hagyományos helyszíne", "2012-ben átfogó felújításon esett át", "A Commonwealth iránti hűséget szimbolizálja"],
+      ro: ["Ridicarea monumentului după cel de-al Doilea Război Mondial", "Enumeră numele soldaților locali din ambele războaie mondiale", "Situat în apropierea satului Paix Bouche", "Loc tradițional pentru depunerea de coroane în noiembrie", "Renovat integral în anul 2012", "Simbolizează loialitatea față de Commonwealth"],
+      en: ["Erection of the memorial after World War II", "Lists the names of local soldiers from both World Wars", "Located near the village of Paix Bouche", "Traditional site for wreath-laying in November", "Underwent comprehensive renovation in 2012", "Symbolizes loyalty to the Commonwealth"],
+    },
   },
   {
     id: "saintlucia-beausejour-military-history-v2",
@@ -1140,6 +1848,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["The name means 'Beautiful Stay' in French.", "Colonized by French nobles in the 18th century.", "Contains archaeological traces of earlier settlement.", "Now the site of a major stadium with a historic name."],
     },
     imageHint: "Open landscape with green fields and distant hills Beausejour",
+    descriptionAdvanced: {
+      de: "Das historische Beausejour-Areal im Süden der Insel war während der Kolonialzeit ein wichtiger militärischer Außenposten. Es diente primär dem Schutz des strategisch wichtigen Hafens von Vieux Fort und der Überwachung der südlichen Küstenlinie. Die Region ist heute vor allem für ihre Sportanlagen bekannt, doch im Untergrund und in der Landschaft finden sich noch Spuren alter Befestigungen und Lagerplätze. Beausejour war ein Schlüsselpunkt in der Verteidigung gegen maritime Invasionen.",
+      hu: "A sziget déli részén található történelmi Beausejour terület a gyarmati időszakban fontos katonai előőrs volt. Elsődleges célja a stratégiailag fontos Vieux Fort-i kikötő védelme és a déli partvonal ellenőrzése volt. A régió ma leginkább sportlétesítményeiről ismert, de a föld alatt és a tájban még megtalálhatók a régi erődítmények és táborhelyek nyomai. Beausejour kulcsfontosságú pont volt a tengeri inváziók elleni védelemben.",
+      ro: "Zona istorică Beausejour din sudul insulei a fost un avanpost militar important în perioada colonială. A servit în principal pentru protejarea portului strategic Vieux Fort și monitorizarea liniei de coastă sudice. Astăzi, regiunea este cunoscută mai ales pentru facilitățile sale sportive, însă în subsol și în peisaj se mai găsesc urme ale vechilor fortificații și tabere. Beausejour a fost un punct cheie în apărarea împotriva invaziilor maritime.",
+      en: "The historic Beausejour area in the south of the island was an important military outpost during the colonial era. It primarily served to protect the strategically significant harbor of Vieux Fort and to monitor the southern coastline. While the region is now best known for its sports facilities, traces of old fortifications and campsites can still be found within the landscape. Beausejour was a key location in the defense against maritime invasions.",
+    },
+    factsAdvanced: {
+      de: ["Strategische Bedeutung während der britischen Besatzung", "Überwachte den Schiffsverkehr aus Richtung St. Vincent", "Beherbergte im 18. Jahrhundert mobile Artillerieeinheiten", "Lage auf einer flachen Küstenebene bei Vieux Fort", "Wurde im Zweiten Weltkrieg von US-Truppen als Lager genutzt", "Heute Standort des internationalen Cricket-Stadions"],
+      hu: ["Stratégiai jelentőség a brit megszállás alatt", "A St. Vincent felől érkező hajóforgalmat ellenőrizte", "A 18. században mobil tüzérségi egységeknek adott otthont", "Vieux Fort közeli sík parti síkságon található", "A második világháborúban az amerikai csapatok tábornak használták", "Ma a nemzetközi krikettstadion helyszíne"],
+      ro: ["Importanță strategică în timpul ocupației britanice", "Monitoriza traficul maritim din direcția St. Vincent", "Găzduia unități de artilerie mobilă în secolul al XVIII-lea", "Situată pe o câmpie costieră joasă lângă Vieux Fort", "Utilizată de trupele SUA ca tabără în cel de-al Doilea Război Mondial", "Astăzi este locația stadionului internațional de cricket"],
+      en: ["Strategic importance during British occupation", "Monitored maritime traffic coming from St. Vincent", "Housed mobile artillery units in the 18th century", "Located on a flat coastal plain near Vieux Fort", "Used as a camp by US troops during World War II", "Current site of the international cricket stadium"],
+    },
   },
   {
     id: "saintlucia-marquis-estate-chapel-history-v2",
@@ -1159,6 +1879,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Built of local stone in a simple colonial style.", "Also served as a burial place for the owner families.", "The ruins display the religious structure of the plantation era.", "Located on a rise above the outbuildings."],
     },
     imageHint: "Small stone chapel ruins in a tropical landscape",
+    descriptionAdvanced: {
+      de: "Die Kapelle des Marquis Estate ist ein sakraler Überrest auf einem der einst größten Landgüter an der Nordostküste von Saint Lucia. Sie wurde im 19. Jahrhundert errichtet, um der Plantagengemeinschaft einen Ort für religiöse Feiern zu bieten. Die Architektur weist einfache neugotische Elemente auf, die typisch für ländliche Kapellen der Kolonialzeit sind. Heute steht das Gebäude inmitten einer malerischen Küstenlandschaft und zeugt vom spirituellen Leben auf den historischen Estates.",
+      hu: "A Marquis Estate kápolnája egy szakrális maradvány Saint Lucia északkeleti partvidékének egykor egyik legnagyobb birtokán. A 19. században építették, hogy az ültetvény közösségének helyszínt biztosítsanak a vallási ünnepekhez. Az építészet egyszerű neogótikus elemeket mutat, amelyek jellemzőek a gyarmati korszak vidéki kápolnáira. Ma az épület egy festői tengerparti táj közepén áll, és a történelmi birtokok spirituális életéről tanúskodik.",
+      ro: "Capela Marquis Estate este un vestigiu sacru de pe una dintre cele mai mari proprietăți funciare de pe coasta de nord-est a insulei Saint Lucia. A fost construită în secolul al XIX-lea pentru a oferi comunității de pe plantație un loc pentru celebrări religioase. Arhitectura prezintă elemente neogotice simple, tipice capelelor rurale din perioada colonială. Astăzi, clădirea se află în mijlocul unui peisaj costier pitoresc și atestă viața spirituală de pe domeniile istorice.",
+      en: "The Marquis Estate Chapel is a sacred remnant on what was once one of the largest land estates on the northeastern coast of Saint Lucia. Built in the 19th century, it provided a place for religious services for the plantation community. The architecture features simple Neo-Gothic elements typical of rural colonial-era chapels. Today, the building stands within a picturesque coastal landscape, bearing witness to the spiritual life on historical estates.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut um 1840 aus lokalem Stein und Holz", "Das Marquis Estate umfasste ursprünglich über 1000 Hektar", "Diente als Zentrum für Taufen und Hochzeiten der Arbeiter", "Befindet sich nahe der Marquis Bay", "Überstand mehrere schwere Hurrikane im 20. Jahrhundert", "Besitzt originale Bodenfliesen aus der Bauzeit"],
+      hu: ["1840 körül épült helyi kőből és fából", "A Marquis Estate eredetileg több mint 1000 hektárt foglalt magában", "A munkások keresztelőinek és esküvőinek központjaként szolgált", "A Marquis-öböl közelében található", "Több súlyos hurrikánt is túlélt a 20. században", "Az építés idejéből származó eredeti padlólapokkal rendelkezik"],
+      ro: ["Construită în jurul anului 1840 din piatră locală și lemn", "Proprietatea Marquis cuprindea inițial peste 1000 de hectare", "A servit ca centru pentru botezuri și nunți ale muncitorilor", "Situată lângă Golful Marquis", "A supraviețuit mai multor uragane severe în secolul al XX-lea", "Păstrează plăcile de pardoseală originale din timpul construcției"],
+      en: ["Built around 1840 using local stone and timber", "The Marquis Estate originally spanned over 1000 hectares", "Served as a center for workers' baptisms and weddings", "Located near Marquis Bay", "Survived several severe hurricanes in the 20th century", "Features original floor tiles from the construction period"],
+    },
   },
   {
     id: "saintlucia-pigeon-island-military-kitchen-history-v2",
@@ -1178,6 +1910,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Built in the late 18th century by British engineers.", "Featured large ovens for bread making.", "The kitchen was a central hub for the garrison's logistics.", "Architecture focused on fire safety and efficiency."],
     },
     imageHint: "Stone hearths and oven ruins of a military kitchen",
+    descriptionAdvanced: {
+      de: "Die historische Militärküche auf Pigeon Island stammt aus der Zeit der britischen Besetzung im späten 18. Jahrhundert. Sie diente der Versorgung der Soldaten, die in den umliegenden Befestigungsanlagen von Fort Rodney stationiert waren. Das robuste Steingebäude ist so konstruiert, dass es dem tropischen Klima und Angriffen standhalten konnte. Heute sind die Ruinen ein wichtiger Teil des Pigeon Island National Landmark.",
+      hu: "A Pigeon Island-i katonai konyha a 18. század végén, a brit megszállás idején épült. Az épület feladata a közeli Fort Rodney-ban állomásozó katonák élelmezése volt a tengerészeti bázis működése alatt. A masszív kőfalak a trópusi időjárásnak és az ostromoknak is ellenálltak. Napjainkban a romok a Pigeon Island Nemzeti Emlékhely részét képezik, bemutatva a sziget stratégiai jelentőségét.",
+      ro: "Bucătăria militară de pe Insula Pigeon datează de la sfârșitul secolului al XVIII-lea, fiind construită în timpul ocupației britanice. Aceasta deservea garnizoana staționată la Fort Rodney, fiind esențială pentru logistica bazei navale. Structura din piatră a fost proiectată să reziste climatului tropical și eventualelor asedii. În prezent, ruinele fac parte din Monumentul Național Pigeon Island și oferă o perspectivă asupra vieții militare coloniale.",
+      en: "The historic military kitchen on Pigeon Island dates back to the late 18th century during the British occupation. It was built to serve the soldiers stationed at the nearby Fort Rodney fortifications on the naval base. The sturdy stone structure was designed to withstand the tropical climate and potential enemy fire. Today, the ruins are a key component of the Pigeon Island National Landmark.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut um 1780 von britischen Truppen", "Versorgte die Garnison von Fort Rodney", "Teil des strategischen Stützpunkts von Admiral Rodney", "Massives Mauerwerk aus lokalem Stein", "Befindet sich im Pigeon Island National Park", "Wichtiges Denkmal der karibischen Seekriegsgeschichte"],
+      hu: ["1780 körül építették a brit csapatok", "A Fort Rodney helyőrségét szolgálta ki", "Rodney admirális tengerészeti bázisának része volt", "Helyi kőből emelték a falait", "A Pigeon Island Nemzeti Park területén található", "Fontos emlékhely a 18. századi hadviselésből"],
+      ro: ["Construită în jurul anului 1780 de trupele britanice", "A alimentat garnizoana de la Fort Rodney", "Parte a bazei strategice a amiralului Rodney", "Construită din zidărie masivă de piatră locală", "Situată în incinta Parcului Național Pigeon Island", "Monument istoric al conflictelor navale din Caraibe"],
+      en: ["Built around 1780 by British forces", "Served the garrison of Fort Rodney", "Part of Admiral Rodney's strategic naval base", "Massive masonry construction using local stone", "Located within the Pigeon Island National Landmark", "Important relic of 18th-century Caribbean naval history"],
+    },
   },
   {
     id: "saintlucia-marquis-estate-slave-quarters-history-v2",
@@ -1197,6 +1941,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Hundreds of people lived here under the simplest conditions.", "Significant site for remembrance and historical education.", "Archaeological finds provide insight into daily life.", "Located at some distance from the main plantation house."],
     },
     imageHint: "Simple stone foundations in a grassy area of an old estate",
+    descriptionAdvanced: {
+      de: "Das Marquis Estate war einst eine der größten und bedeutendsten Plantagen auf St. Lucia während der Kolonialzeit. Die Ruinen der Sklavenquartiere zeugen von der harten Realität der Zuckerproduktion im 18. und 19. Jahrhundert. Diese Überreste bieten einen wichtigen Einblick in die Lebensbedingungen der versklavten Bevölkerung. Die Anlage befindet sich an der Nordostküste der Insel und ist ein Ort des Gedenkens.",
+      hu: "A Marquis Estate egykor Szent Lucia egyik legnagyobb és legjelentősebb ültetvénye volt a gyarmati időkben. A rabszolgaszállások romjai a 18. és 19. századi cukornádtermesztés kemény valóságáról tanúskodnak. Ezek a maradványok fontos betekintést nyújtanak az ültetvényeken dolgozó rabszolgák életkörülményeibe. A birtok a sziget északkeleti partján található, és ma fontos történelmi emlékhely.",
+      ro: "Domeniul Marquis a fost odinioară una dintre cele mai mari și importante plantații din Sfânta Lucia în perioada colonială. Ruinele locuințelor sclavilor atestă realitatea dură a producției de zahăr din secolele XVIII și XIX. Aceste vestigii oferă o perspectivă esențială asupra condițiilor de viață ale populației sclave. Situl este situat pe coasta de nord-est a insulei și servește ca loc de comemorare istorică.",
+      en: "The Marquis Estate was once one of the largest and most significant plantations in Saint Lucia during the colonial era. The ruins of the slave quarters bear witness to the harsh reality of sugar production in the 18th and 19th centuries. These remains provide an essential insight into the living conditions of the enslaved population. The site is located on the northeast coast of the island and serves as a place of historical remembrance.",
+    },
+    factsAdvanced: {
+      de: ["Einst die größte Plantage der Insel", "Gegründet im frühen 18. Jahrhundert", "Zentrum der großflächigen Zuckerrohrproduktion", "Ruinen bestehen aus Stein und Korallenkalk", "Befindet sich nahe der Mündung des Marquis River", "Wichtiger Ort für die Erforschung der Sklaverei"],
+      hu: ["Egykor a sziget legnagyobb ültetvénye volt", "A 18. század elején alapították", "A nagyméretű cukornádtermesztés központja", "A romok kőből és korallmészből épültek", "A Marquis-folyó torkolatának közelében fekszik", "A rabszolgaság történetének fontos kutatási helyszíne"],
+      ro: ["A fost odinioară cea mai mare plantație de pe insulă", "Fondată la începutul secolului al XVIII-lea", "Centru al producției de trestie de zahăr la scară largă", "Ruinele sunt construite din piatră și calcar de corali", "Situată lângă gura de vărsare a râului Marquis", "Loc important pentru studiul istoriei sclaviei"],
+      en: ["Once the largest plantation on the island", "Established in the early 18th century", "Center of large-scale sugar cane production", "Ruins constructed from stone and coral lime", "Located near the mouth of the Marquis River", "Significant site for slavery history research"],
+    },
   },
   {
     id: "saintlucia-morne-fortune-signal-station-history-v2",
@@ -1216,6 +1972,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Could send messages as far as Pigeon Island in the north.", "Was part of an island-wide military warning system.", "The platform offers a 360-degree panoramic view.", "Established by the French in the 18th century."],
     },
     imageHint: "Historic lookout point with a flagpole on a hill",
+    descriptionAdvanced: {
+      de: "Die Signalstation auf dem Morne Fortune war ein strategischer Außenposten, der die Einfahrt zum Hafen von Castries überwachte. Von dieser Anhöhe aus wurden Nachrichten per Flaggen- oder Lichtsignalen an Schiffe und andere Festungen übermittelt. Der Ort war Schauplatz zahlreicher Gefechte zwischen Franzosen und Briten um die Kontrolle über die Insel. Heute bietet der Standort einen Panoramablick über die Hauptstadt und das Karibische Meer.",
+      hu: "A Morne Fortune jelzőállomása stratégiai jelentőségű őrhely volt, amely Castries kikötőjének bejáratát felügyelte. Erről a magaslatról zászlókkal vagy fényjelekkel továbbítottak üzeneteket a hajóknak és a többi erődnek. A helyszín számos összecsapás színhelye volt a franciák és a britek között a sziget feletti ellenőrzésért. Ma a látogatók innen élvezhetik a fővárosra és a Karib-tengerre nyíló panorámát.",
+      ro: "Stația de semnalizare de pe Morne Fortune a fost un avanpost strategic care supraveghea intrarea în portul Castries. De pe această înălțime, mesajele erau transmise prin steaguri sau semnale luminoase către nave și alte fortificații. Locul a fost scena a numeroase bătălii între francezi și britanici pentru controlul insulei. Astăzi, locația oferă o vedere panoramică asupra capitalei și a Mării Caraibilor.",
+      en: "The signal station on Morne Fortune was a strategic outpost monitoring the entrance to Castries harbor. From this elevation, messages were transmitted via flags or light signals to ships and other fortifications. The site was the scene of numerous battles between the French and the British for control of the island. Today, the location provides a panoramic view of the capital city and the Caribbean Sea.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von ca. 260 Metern über dem Meeresspiegel", "Strategischer Punkt zur Verteidigung von Castries", "Nutze optische Telegrafie im 18. Jahrhundert", "Teil des größeren Militärkomplexes Morne Fortune", "Standort des Government House in der Nähe", "Ort wichtiger Friedensverhandlungen im Jahr 1796"],
+      hu: ["Körülbelül 260 méterrel fekszik a tengerszint felett", "Castries védelmének stratégiai pontja", "A 18. században optikai távírót használtak itt", "A Morne Fortune katonai komplexum része", "A közelben található a Kormányzói Ház", "Az 1796-os fontos béketárgyalások helyszíne"],
+      ro: ["Înălțime de aproximativ 260 de metri deasupra mării", "Punct strategic pentru apărarea orașului Castries", "Utiliza telegrafia optică în secolul al XVIII-lea", "Parte a complexului militar mai larg Morne Fortune", "Situată în apropierea Casei Guvernului", "Locul unor negocieri importante de pace în 1796"],
+      en: ["Elevation of approximately 260 meters above sea level", "Strategic point for the defense of Castries", "Used optical telegraphy in the 18th century", "Part of the broader Morne Fortune military complex", "Located near the Government House", "Site of significant peace negotiations in 1796"],
+    },
   },
   {
     id: "saintlucia-black-bay-amerindian-site-history-v2",
@@ -1235,6 +2003,18 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Contains evidence of early ceramic production by the indigenous people.", "Archaeologists found graves and offerings here.", "The bay offered protection for Amerindian canoes.", "Significant research site for pre-colonization history."],
     },
     imageHint: "Coastal bay with dark volcanic sand and palm trees",
+    descriptionAdvanced: {
+      de: "Die Black Bay Amerindian Site ist eine bedeutende archäologische Stätte im Süden von St. Lucia, die Hinweise auf die Besiedlung durch Arawak- und Karibenvölker liefert. Bei Ausgrabungen wurden zahlreiche Keramikscherben, Werkzeuge und Petroglyphen entdeckt, die Jahrhunderte vor der Ankunft der Europäer entstanden sind. Die Funde helfen dabei, die sozialen Strukturen und religiösen Praktiken der indigenen Bevölkerung zu verstehen. Die Stätte liegt in einer malerischen Küstenlandschaft.",
+      hu: "A Black Bay amerindián lelőhely egy jelentős régészeti terület Szent Lucia déli részén, amely az aravak és karib népek jelenlétéről tanúskodik. Az ásatások során számos kerámiatöredéket, eszközt és sziklarajzot fedeztek fel, amelyek évszázadokkal az európaiak érkezése előtt készültek. A leletek segítenek megérteni az őslakos lakosság társadalmi szerkezetét és vallási gyakorlatait. A lelőhely egy festői tengerparti környezetben található.",
+      ro: "Situl amerindian din Black Bay este un sit arheologic semnificativ din sudul insulei Sfânta Lucia, care oferă dovezi ale așezărilor populațiilor Arawak și Carib. Săpăturile au scos la iveală numeroase fragmente de ceramică, unelte și petroglife create cu secole înainte de sosirea europenilor. Descoperirile ajută la înțelegerea structurilor sociale și a practicilor religioase ale populației indigene. Situl este situat într-un cadru de coastă pitoresc.",
+      en: "The Black Bay Amerindian Site is a significant archaeological location in southern Saint Lucia, providing evidence of habitation by Arawak and Carib peoples. Excavations have revealed numerous pottery shards, tools, and petroglyphs created centuries before European arrival. The findings help in understanding the social structures and religious practices of the indigenous population. The site is situated within a picturesque coastal landscape.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich in der Nähe von Vieux Fort", "Enthält Petroglyphen (Felsritzungen)", "Datiert auf die Zeit zwischen 200 und 1500 n. Chr.", "Funde von aufwendig verzierter Keramik", "Beweis für frühe Fischerei- und Landwirtschaftsmethoden", "Teil des kulturellen Erbes der Ureinwohner"],
+      hu: ["Vieux Fort közelében található", "Sziklarajzokat (petroglifákat) tartalmaz", "I.sz. 200 és 1500 közötti időszakra datálható", "Díszes kerámiatárgyak kerültek elő", "Korai halászati és mezőgazdasági módszerek bizonyítéka", "Az őslakos kulturális örökség fontos része"],
+      ro: ["Situat în apropiere de Vieux Fort", "Conține petroglife (gravuri în piatră)", "Datat între anii 200 și 1500 d.Hr.", "Descoperiri de ceramică decorată elaborat", "Dovezi ale metodelor timpurii de pescuit și agricultură", "Parte integrantă a moștenirii culturale indigene"],
+      en: ["Located near the town of Vieux Fort", "Contains petroglyphs (rock carvings)", "Dated between 200 and 1500 AD", "Findings of elaborately decorated pottery", "Evidence of early fishing and agricultural methods", "Key part of the indigenous cultural heritage"],
+    },
   },
   {
     id: "saintlucia-pointe-seraphine-maritime-history-v2",
@@ -1254,5 +2034,17 @@ export const saintluciaHistoryV2: POI[] = [
       en: ["Formerly a site for the transshipment of goods by colonial fleets.", "The name traces back to an early French settler family.", "Today it is the location of the duty-free shopping center for tourists.", "Strategically located on the north side of the harbor entrance."],
     },
     imageHint: "Modern cruise ship terminal with historic harbor backdrop",
+    descriptionAdvanced: {
+      de: "Pointe Seraphine ist heute als modernes Duty-Free-Zentrum bekannt, besitzt aber eine tiefe maritime Geschichte, die eng mit der Entwicklung von Castries verbunden ist. Im 19. Jahrhundert diente das Gebiet als wichtiger Kohlekai für Dampfschiffe, was St. Lucia zu einer zentralen Coaling Station in der Karibik machte. Diese industrielle Ära prägte die Infrastruktur des Hafens maßgeblich. Heute legen hier die größten Kreuzfahrtschiffe der Welt an.",
+      hu: "A Pointe Seraphine ma modern vámmentes központként ismert, de mély tengeri múlttal rendelkezik, amely szorosan kapcsolódik Castries fejlődéséhez. A 19. században a terület fontos szénrakodóként szolgált a gőzhajók számára, aminek köszönhetően Szent Lucia a Karib-térség központi szénállomásává vált. Ez az ipari korszak jelentősen meghatározta a kikötő infrastruktúráját. Ma itt kötnek ki a világ legnagyobb luxushajói.",
+      ro: "Pointe Seraphine este cunoscut astăzi ca un centru modern duty-free, dar posedă o istorie maritimă profundă, strâns legată de dezvoltarea orașului Castries. În secolul al XIX-lea, zona a servit ca un important debarcader de cărbune pentru navele cu aburi, transformând Sfânta Lucia într-o stație centrală de aprovizionare în Caraibe. Această eră industrială a modelat semnificativ infrastructura portului. Astăzi, aici ancorează cele mai mari nave de croazieră din lume.",
+      en: "Pointe Seraphine is known today as a modern duty-free center, but it possesses a deep maritime history closely linked to the development of Castries. In the 19th century, the area served as a vital coal wharf for steamships, making Saint Lucia a central coaling station in the Caribbean. This industrial era significantly shaped the port's infrastructure. Today, it hosts the world's largest cruise ships.",
+    },
+    factsAdvanced: {
+      de: ["Einst Standort bedeutender Kohlelagerr", "Zentrum des Seehandels im 19. Jahrhundert", "Tiefwasserhafen ermöglicht Anlegen großer Schiffe", "Eröffnung des Duty-Free-Komplexes in den 1980ern", "Früherer Standort von Werften zur Schiffsreparatur", "Wichtiger Wirtschaftsfaktor für die Hauptstadt Castries"],
+      hu: ["Egykor jelentős szénraktárak helyszíne volt", "A 19. századi tengeri kereskedelem központja", "Mélyvízi kikötője lehetővé teszi a nagy hajók fogadását", "A vámmentes komplexumot az 1980-as években nyitották meg", "Korábban hajójavító műhelyek is működtek itt", "A főváros, Castries fontos gazdasági tényezője"],
+      ro: ["Odinioară locația unor depozite importante de cărbune", "Centru al comerțului maritim în secolul al XIX-lea", "Portul de adâncime permite ancorarea navelor mari", "Deschiderea complexului duty-free în anii 1980", "Fost amplasament al șantierelor de reparații navale", "Factor economic vital pentru capitala Castries"],
+      en: ["Once the site of significant coal bunkering", "Center of maritime trade in the 19th century", "Deep-water harbor allows for large vessel docking", "Opening of the duty-free complex in the 1980s", "Former site of ship repair yards", "Crucial economic driver for the capital, Castries"],
+    },
   }
 ];

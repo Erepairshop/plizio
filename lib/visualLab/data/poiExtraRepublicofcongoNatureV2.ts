@@ -19,6 +19,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["Flows into the Atlantic", "Known as Niari upstream", "Strong currents", "Important southern basin"],
     },
     imageHint: "kouilou river scenery",
+    descriptionAdvanced: {
+      de: "Der Kouilou-Fluss, auch als Niari-Kouilou bekannt, ist der bedeutendste Fluss im Südwesten des Kongo, der direkt in den Atlantik mündet. Sein Oberlauf ist durch spektakuläre Stromschnellen geprägt, während der Unterlauf ruhig durch Küstenebenen fließt. Der Fluss ist eine lebenswichtige Ressource für Transport, Fischerei und die Bewässerung landwirtschaftlicher Flächen.",
+      hu: "A Kouilou-folyó, más néven Niari-Kouilou, Kongó délnyugati részének legjelentősebb folyója, amely közvetlenül az Atlanti-óceánba torkollik. Felső szakasza látványos zúgókkal tarkított, míg az alsó szakasz békésen kanyarog a parti síkságokon. A folyó létfontosságú erőforrás a szállítás, a halászat és a mezőgazdasági területek öntözése szempontjából.",
+      ro: "Râul Kouilou, cunoscut și sub numele de Niari-Kouilou, este cel mai important curs de apă din sud-vestul Congo, care se varsă direct în Atlantic. Cursul său superior este marcat de repezișuri spectaculoase, în timp ce cursul inferior curge liniștit prin câmpiile de coastă. Râul este o resursă vitală pentru transport, pescuit și irigații.",
+      en: "The Kouilou River, also known as the Niari-Kouilou, is the most significant river in southwestern Congo, flowing directly into the Atlantic. Its upper course is marked by spectacular rapids, while the lower course meanders peacefully through coastal plains. The river is a vital resource for transportation, fishing, and agricultural irrigation.",
+    },
+    factsAdvanced: {
+      de: ["Der Fluss hat eine Gesamtlänge von etwa 560 Kilometern.", "Die Mündung liegt in der Nähe von Pointe-Noire.", "Er ist im Unterlauf schiffbar.", "Der Fluss bildet tiefe Schluchten im Mayombe-Massiv.", "Es gibt Pläne für große Wasserkraftwerke am Fluss.", "Der Kouilou ist reich an Welsen und Barschen."],
+      hu: ["A folyó teljes hossza körülbelül 560 kilométer.", "A torkolat Pointe-Noire városa közelében található.", "Az alsó szakasza hajózható a nagyobb vízi járművek számára is.", "A folyó mély szurdokokat vájt a Mayombe-hegységbe.", "Tervek születtek nagy vízerőművek építésére a folyón.", "A Kouilou vize gazdag harcsákban és sügérekben."],
+      ro: ["Râul are o lungime totală de aproximativ 560 de kilometri.", "Gura de vărsare este situată în apropiere de Pointe-Noire.", "Este navigabil în cursul său inferior.", "Râul formează chei adânci în masivul Mayombe.", "Există planuri pentru hidrocentrale mari pe acest râu.", "Kouilou este bogat în specii de somn și biban."],
+      en: ["The river has a total length of approximately 560 kilometers.", "The estuary is located near the city of Pointe-Noire.", "The lower course is navigable for significant distances.", "The river carves deep gorges through the Mayombe massif.", "Plans exist for major hydroelectric projects on the river.", "The Kouilou is rich in catfish and perch species."],
+    },
   },
   {
     id: "republicofcongo-djoukou-plateau-nature-v2",
@@ -38,6 +50,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["Central highland", "Savanna character", "Important for livestock", "Relatively flat terrain"],
     },
     imageHint: "djoukou plateau landscape",
+    descriptionAdvanced: {
+      de: "Das Djoukou-Plateau gehört zum System der Bateke-Plateaus im Zentrum des Landes und ist durch sandige Böden und weite Savannenlandschaften geprägt. Diese Hochebene liegt deutlich über dem Meeresspiegel und bietet ein kühleres Klima als die umliegenden Tiefländer. Die Region ist bekannt für ihre tiefen Flusstäler, die sich in die sandige Oberfläche eingegraben haben.",
+      hu: "A Djoukou-fennsík az ország közepén található Bateke-fennsíkok rendszeréhez tartozik, homokos talaj és tágas szavannák jellemzik. Ez a magasföld jelentősen a tengerszint felett fekszik, és hűvösebb éghajlatot kínál, mint a környező alföldek. A régió a homokos felszínbe mélyen bevágódó folyóvölgyeiről nevezetes.",
+      ro: "Podișul Djoukou aparține sistemului de platouri Bateke din centrul țării și este caracterizat de soluri nisipoase și savane vaste. Acest platou înalt se află mult deasupra nivelului mării și oferă un climat mai răcoros decât zonele joase din jur. Regiunea este cunoscută pentru văile adânci ale râurilor, care au săpat în suprafața nisipoasă.",
+      en: "The Djoukou Plateau is part of the Bateke Plateau system in the center of the country, characterized by sandy soils and vast savannah landscapes. This high plateau sits significantly above sea level, offering a cooler climate than the surrounding lowlands. The region is known for its deep river valleys carved into the sandy surface.",
+    },
+    factsAdvanced: {
+      de: ["Das Plateau liegt auf einer Höhe von 400 bis 600 Metern.", "Die Böden sind extrem durchlässig für Regenwasser.", "Es herrscht eine typische Graslandvegetation vor.", "Die Region ist dünn besiedelt.", "Hier finden sich charakteristische Termitenhügel.", "Das Klima ist durch große Tag-Nacht-Unterschiede geprägt."],
+      hu: ["A fennsík 400 és 600 méter közötti magasságban fekszik.", "A talaj rendkívül áteresztő a csapadékvíz számára.", "A területen a jellegzetes füves puszták dominálnak.", "A régió ritkán lakott területnek számít.", "Jellemzőek a hatalmas méretű termeszvárak.", "Az éghajlatot nagy napi hőmérséklet-ingadozás jellemzi."],
+      ro: ["Platoul se află la o altitudine de 400 până la 600 de metri.", "Solurile sunt extrem de permeabile pentru apa de ploaie.", "Predomină o vegetație tipică de pajiști.", "Regiunea este foarte slab populată.", "Aici se găsesc mușuroaie de termite caracteristice.", "Climatul este marcat de diferențe mari de temperatură zi-noapte."],
+      en: ["The plateau sits at an elevation of 400 to 600 meters.", "The soils are extremely permeable to rainwater.", "Typical grassland vegetation dominates the landscape.", "The region is very sparsely populated.", "Characteristic giant termite mounds are found here.", "The climate is marked by significant day-night temperature shifts."],
+    },
   },
   {
     id: "republicofcongo-djouan-falls-nature-v2",
@@ -57,6 +81,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["Natural cascade system", "Located in rainforest region", "Remote location", "Local tourist attraction"],
     },
     imageHint: "djouan waterfall forest",
+    descriptionAdvanced: {
+      de: "Der Djouan-Wasserfall ist ein beeindruckendes Naturschauspiel in der Nähe des Kongo-Flusses, wo das Wasser über mehrere Felsstufen in die Tiefe stürzt. Die Umgebung ist von dichtem Nebelwald geprägt, der durch die ständige Gischt des Falls feucht gehalten wird. Er ist ein wichtiges Symbol für die ungenutzte Wasserkraft der Region und ein Rückzugsort für seltene Moose.",
+      hu: "A Djouan-vízesés lenyűgöző természeti jelenség a Kongó-folyó közelében, ahol a víz több sziklalépcsőn keresztül zúdul a mélybe. Környezetét sűrű köderdő jellemzi, amelyet a vízesés állandó permete tart nedvesen. A vízesés a régió kiaknázatlan vízi energiájának fontos szimbóluma és ritka mohafajok menedéke.",
+      ro: "Cascada Djouan este un spectacol natural impresionant în apropierea fluviului Congo, unde apa se revarsă peste mai multe trepte stâncoase. Împrejurimile sunt dominate de o pădure de ceață densă, menținută umedă de vaporii constanți ai cascadei. Este un simbol important pentru potențialul hidroenergetic neexploatat al regiunii.",
+      en: "The Djouan Waterfall is an impressive natural phenomenon near the Congo River, where water plunges over several rocky steps. The surroundings are dominated by a dense cloud forest kept moist by the fall's constant spray. It serves as an important symbol of the region's untapped hydroelectric potential and a sanctuary for rare mosses.",
+    },
+    factsAdvanced: {
+      de: ["Der Wasserfall hat eine Fallhöhe von etwa 30 Metern.", "Er liegt in der Region Pool.", "Die Gischt ist kilometerweit sichtbar.", "Die Felsen bestehen hauptsächlich aus Sandstein.", "Der Wasserfluss ist während der Regenzeit am stärksten.", "In der Nähe gibt es endemische Orchideen."],
+      hu: ["A vízesés magassága körülbelül 30 méter.", "A Pool régióban található.", "A felszálló vízpára kilométerekről is látható.", "A kőzetet főként homokkő alkotja.", "A vízhozam az esős évszakban a legnagyobb.", "A közelben endemikus orchideafajok találhatók."],
+      ro: ["Cascada are o înălțime de aproximativ 30 de metri.", "Este situată în regiunea Pool.", "Vaporii de apă sunt vizibili de la kilometri distanță.", "Stâncile sunt formate în principal din gresie.", "Debitul de apă este maxim în timpul sezonului ploios.", "În apropiere cresc orhidee endemice."],
+      en: ["The waterfall has a height of approximately 30 meters.", "It is located in the Pool region.", "The spray is visible from kilometers away.", "The rocks consist primarily of sandstone.", "Water flow is at its peak during the rainy season.", "Endemic orchid species grow in the vicinity."],
+    },
   },
   {
     id: "republicofcongo-lifoula-river-nature-v2",
@@ -76,6 +112,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["Tributary in Congo Basin", "Important for wetlands", "Tropical flora", "Regional water source"],
     },
     imageHint: "lifoula river tropical",
+    descriptionAdvanced: {
+      de: "Der Lifoula-Fluss ist ein ruhiger Wasserlauf im Departement Pool, der sich durch dichte Galeriewälder und fruchtbares Ackerland schlängelt. Er mündet in den Kongo-Fluss und dient den lokalen Gemeinschaften als wichtigste Quelle für Trinkwasser und Fisch. Die Uferzonen sind reich an Wildpflanzen, die traditionell für medizinische Zwecke genutzt werden.",
+      hu: "A Lifoula-folyó egy csendes folyóvágás a Pool megyében, amely sűrű galériaerdőkön és termékeny termőföldeken kanyarog keresztül. A Kongó-folyóba torkollik, és a helyi közösségek számára az ivóvíz és a halak legfontosabb forrása. A part menti zónák gazdagok vadon élő növényekben, amelyeket hagyományosan gyógyászati célokra használnak.",
+      ro: "Râul Lifoula este un curs de apă liniștit din departamentul Pool, care șerpuiește prin păduri-galerie dense și terenuri agricole fertile. Se varsă în fluviul Congo și servește comunităților locale ca sursă principală de apă potabilă și pește. Zonele de mal sunt bogate în plante sălbatice utilizate tradițional în scopuri medicinale.",
+      en: "The Lifoula River is a calm watercourse in the Pool Department, meandering through dense gallery forests and fertile farmland. It flows into the Congo River and serves as the primary source of drinking water and fish for local communities. The riverbank zones are rich in wild plants traditionally used for medicinal purposes.",
+    },
+    factsAdvanced: {
+      de: ["Der Fluss liegt nördlich von Brazzaville.", "Er ist ein bedeutender Brutplatz für Tilapia.", "Die Strömung ist das ganze Jahr über ruhig.", "Der Flusslauf ist etwa 80 Kilometer lang.", "Am Ufer befinden sich zahlreiche kleine Bananenplantagen.", "Kleine Kanus werden für den lokalen Handel genutzt."],
+      hu: ["A folyó Brazzaville-től északra található.", "A tilápia halak jelentős ívóhelye.", "A folyó áramlása az év során végig nyugodt.", "A folyó hossza körülbelül 80 kilométer.", "A part mentén számos kis banánültetvény található.", "A helyi kereskedelemhez kis kenukat használnak."],
+      ro: ["Râul este situat la nord de Brazzaville.", "Este un loc important de reproducere pentru tilapia.", "Curentul este liniștit pe tot parcursul anului.", "Cursul râului are o lungime de aproximativ 80 km.", "Pe maluri se află numeroase mici plantații de banane.", "Canoele mici sunt folosite pentru comerțul local."],
+      en: ["The river is located north of Brazzaville.", "It is a significant breeding ground for tilapia fish.", "The current remains calm throughout the year.", "The river's course is approximately 80 kilometers long.", "Numerous small banana plantations line its banks.", "Small canoes are used for local trade along the river."],
+    },
   },
   {
     id: "republicofcongo-lakou-lake-nature-v2",
@@ -95,6 +143,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["Calm water", "Rich in birds", "Surrounded by forest", "Small lake"],
     },
     imageHint: "lakou lake aerial",
+    descriptionAdvanced: {
+      de: "Der Lakou-See ist ein abgeschiedener See im Norden des Kongo, umgeben von dichten Sumpfwäldern der Likouala-Region. Der See ist ein wichtiger Rastplatz für Zugvögel und ein Zentrum für die traditionelle Fischerei der ansässigen Bevölkerung. Das Wasser ist aufgrund organischer Stoffe dunkel gefärbt, beherbergt aber eine Vielzahl von spezialisierten Süßwasserarten.",
+      hu: "A Lakou-tó egy elszigetelt tó Kongó északi részén, a Likouala-régió sűrű mocsári erdőivel körülvéve. A tó fontos pihenőhely a költöző madarak számára, és a helyi lakosság hagyományos halászatának központja. A víz az organikus anyagok miatt sötét színű, de számos speciális édesvízi fajnak ad otthont.",
+      ro: "Lacul Lakou este un lac izolat din nordul Congo, înconjurat de pădurile mlăștinoase dense din regiunea Likouala. Lacul este un loc important de popas pentru păsările migratoare și un centru pentru pescuitul tradițional al populației locale. Apa are o culoare închisă din cauza substanțelor organice, dar adăpostește o varietate de specii de apă dulce.",
+      en: "Lakou Lake is a secluded lake in northern Congo, surrounded by the dense swamp forests of the Likouala region. The lake is a vital stopover for migratory birds and a center for traditional fishing by local communities. The water is dark-stained due to organic matter but supports a diverse array of specialized freshwater species.",
+    },
+    factsAdvanced: {
+      de: ["Der See liegt in der Likouala-Hochebene.", "Er ist ein natürliches Reservoir für Regenwasser.", "Die Region ist bekannt für ihre hohen Niederschläge.", "Fischer nutzen Netze aus Pflanzenfasern.", "Der See ist Heimat für den Lungenfisch.", "Die Umgebung ist fast unbewohnt."],
+      hu: ["A tó a Likouala-fennsíkon található.", "A csapadékvíz természetes tározójaként szolgál.", "A régió a rendkívül magas csapadékmennyiségéről ismert.", "A halászok növényi rostokból készült hálókat használnak.", "A tó az afrikai gőtehal egyik élőhelye.", "A környező terület szinte lakatlan."],
+      ro: ["Lacul este situat pe platoul Likouala.", "Servește ca rezervor natural pentru apa de ploaie.", "Regiunea este cunoscută pentru precipitațiile foarte mari.", "Pescarii folosesc plase din fibre vegetale.", "Lacul este habitatul peștelui cu plămâni.", "Împrejurimile sunt aproape nelocuite."],
+      en: ["The lake is located on the Likouala plateau.", "It serves as a natural reservoir for rainwater.", "The region is known for extremely high rainfall levels.", "Fishers use nets made from natural plant fibers.", "The lake is home to the African lungfish.", "The surrounding area is almost entirely uninhabited."],
+    },
   },
   {
     id: "republicofcongo-divenie-river-nature-v2",
@@ -114,6 +174,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["River in Niari region", "Hilly basin", "Regional water supply", "Seasonal water level"],
     },
     imageHint: "divenie river landscape",
+    descriptionAdvanced: {
+      de: "Der Divenie-Fluss fließt durch das Departement Niari im Südwesten der Republik Kongo. Er ist ein Nebenfluss des Niari-Flusses und prägt die lokale Vegetation in der Nähe der Grenze zu Gabun. Die Region ist von dichtem äquatorialem Regenwald und hügeligem Gelände umgeben, was den Zugang erschwert.",
+      hu: "A Divenie-folyó a Kongói Köztársaság délnyugati részén, a Niari megyében található. A folyó a Niari egyik mellékvfolyója, és fontos szerepet játszik a gaboni határ menti ökoszisztémában. A környező területet sűrű egyenlítői esőerdők és dombos domborzat jellemzi, amely gazdag biodiverzitást biztosít.",
+      ro: "Râul Divenie traversează departamentul Niari din sud-vestul Republicii Congo. Acesta este un afluent al râului Niari și influențează vegetația locală din apropierea graniței cu Gabon. Regiunea este înconjurată de păduri tropicale dense și terenuri deluroase, fiind o zonă cu acces dificil și biodiversitate ridicată.",
+      en: "The Divenie River flows through the Niari Department in the southwestern part of the Republic of the Congo. It serves as a tributary to the Niari River and shapes the local environment near the border with Gabon. The area is characterized by dense equatorial rainforests and hilly terrain, contributing to its isolated nature.",
+    },
+    factsAdvanced: {
+      de: ["Nebenfluss des Niari im Südwesten", "Fließt durch das Departement Niari", "Region nahe der Grenze zu Gabun", "Umgeben von tropischem Regenwald", "Prägt das lokale Flusssystem", "Teil des atlantischen Einzugsgebiets"],
+      hu: ["A Niari-folyó mellékfolyója délnyugaton", "Niari megye területén halad át", "A gaboni határ közelében található", "Trópusi esőerdők veszik körül", "Meghatározza a helyi vízrajzot", "Az atlanti vízgyűjtő terület része"],
+      ro: ["Afluent al râului Niari în sud-vest", "Traversează departamentul Niari", "Situat aproape de granița cu Gabon", "Înconjurat de păduri tropicale", "Definește hidrografia locală", "Face parte din bazinul Atlanticului"],
+      en: ["Tributary of the Niari River", "Located in the Niari Department", "Situated near the Gabon border", "Surrounded by tropical rainforest", "Shapes the local drainage basin", "Part of the Atlantic drainage system"],
+    },
   },
   {
     id: "republicofcongo-djoumouna-river-nature-v2",
@@ -133,6 +205,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["Tributary near capital", "Important for agriculture", "Local significance", "Flat riverbed"],
     },
     imageHint: "djoumouna river near brazzaville",
+    descriptionAdvanced: {
+      de: "Der Djoumouna-Fluss ist ein kleiner Wasserlauf in der Nähe von Brazzaville, der Hauptstadt der Republik Kongo. Er ist bekannt für seine natürliche Umgebung und dient als Naherholungsgebiet für die Stadtbewohner. Das klare Wasser und die umliegenden Waldflächen machen ihn zu einem wichtigen lokalen Ökosystem.",
+      hu: "A Djoumouna-folyó egy kisebb vízfolyás Brazzaville, a Kongói Köztársaság fővárosának közelében. A folyó természetes környezetéről ismert, és népszerű pihenőhely a városlakók számára. Tiszta vize és a környező erdős területek fontos helyi ökoszisztémát alkotnak a déli régióban.",
+      ro: "Râul Djoumouna este un curs de apă situat în apropierea orașului Brazzaville, capitala Republicii Congo. Este cunoscut pentru cadrul său natural și servește ca zonă de recreere pentru locuitorii orașului. Apele sale limpezi și zonele forestiere adiacente formează un ecosistem local semnificativ.",
+      en: "The Djoumouna River is a smaller watercourse located near Brazzaville, the capital of the Republic of the Congo. It is recognized for its natural surroundings and serves as a recreational spot for city residents. Its clear waters and adjacent forested areas constitute a significant local ecosystem in the south.",
+    },
+    factsAdvanced: {
+      de: ["Liegt in der Nähe von Brazzaville", "Beliebtes Ziel für Naherholung", "Bekannt für klares Flusswasser", "Mündet in das Kongo-Flusssystem", "Bietet Schutz für lokale Fischarten", "Wichtiger Ort für Umweltbildung"],
+      hu: ["Brazzaville közvetlen közelében fekszik", "Népszerű helyi kirándulóhely", "Tiszta folyóvizéről nevezetes", "A Kongó-folyó rendszerébe torkollik", "Élőhelyet biztosít helyi halfajoknak", "Fontos környezeti nevelési központ"],
+      ro: ["Situat lângă orașul Brazzaville", "Destinație populară pentru recreere", "Cunoscut pentru apele sale limpezi", "Se varsă în sistemul râului Congo", "Oferă habitat pentru specii locale de pești", "Loc important pentru educația ecologică"],
+      en: ["Located near the city of Brazzaville", "Popular destination for local recreation", "Known for its clear river water", "Flows into the Congo River system", "Provides habitat for local fish species", "Important site for environmental awareness"],
+    },
   },
   {
     id: "republicofcongo-leketi-nature-v2",
@@ -152,6 +236,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["Dense forest", "Biodiversity", "Rare mammals", "Important protected area"],
     },
     imageHint: "leketi dense forest",
+    descriptionAdvanced: {
+      de: "Die Leketi-Region befindet sich im Departement Plateaux in der zentralen Republik Kongo. Sie wird vom gleichnamigen Fluss durchquert, der durch dichte Savannen und Galeriewälder fließt. Die Region ist Teil des Batéké-Plateaus, einer geologisch bedeutsamen Hochebene, die für ihre sandigen Böden und weiten Landschaften bekannt ist.",
+      hu: "A Leketi régió a Kongói Köztársaság középső részén, a Plateaux megyében található. A területen az azonos nevű folyó halad át, amely szavannákon és galériaerdőkön keresztül kanyarog. A régió a Batéké-fennsík része, amely homokos talajáról és kiterjedt, nyitott tájairól ismert geológiai formáció.",
+      ro: "Regiunea Leketi se află în departamentul Plateaux, în centrul Republicii Congo. Este traversată de râul cu același nume, care curge prin savane și păduri-galerie. Regiunea face parte din Podișul Batéké, o formațiune geologică notabilă, cunoscută pentru solurile sale nisipoase și peisajele deschise vaste.",
+      en: "The Leketi region is situated in the Plateaux Department in central Republic of the Congo. It is traversed by the river of the same name, which winds through savannas and gallery forests. The area is part of the Batéké Plateau, a geological formation known for its sandy soils and vast open landscapes.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Departement Plateaux", "Teil des Batéké-Plateau-Systems", "Durchquert von weiten Savannen", "Fluss Leketi ist lebenswichtig für die Region", "Höhe liegt oft über 400 Metern", "Geprägt durch sandige Bodenstrukturen"],
+      hu: ["A Plateaux megyében helyezkedik el", "A Batéké-fennsík rendszerének része", "Kiterjedt szavannák jellemzik", "A Leketi-folyó a régió fő vízforrása", "A tengerszint feletti magasság meghaladja a 400 métert", "Homokos talajszerkezet jellemzi"],
+      ro: ["Situată în departamentul Plateaux", "Parte a sistemului Podișului Batéké", "Caracterizată de savane întinse", "Râul Leketi este vital pentru regiune", "Altitudinea depășește adesea 400 de metri", "Marcată de structuri de sol nisipos"],
+      en: ["Located in the Plateaux Department", "Part of the Batéké Plateau system", "Characterized by extensive savannas", "Leketi River is the primary water source", "Elevation often exceeds 400 meters", "Defined by sandy soil structures"],
+    },
   },
   {
     id: "republicofcongo-nkeni-river-nature-v2",
@@ -171,6 +267,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["Tributary in the basin", "Network of waterways", "Rainforest region", "Important ecosystem"],
     },
     imageHint: "nkeni river channel",
+    descriptionAdvanced: {
+      de: "Der Nkeni-Fluss ist ein bedeutender rechter Nebenfluss des Kongos im Departement Plateaux. Er entspringt auf dem Batéké-Plateau und fließt nach Südosten, bevor er in den mächtigen Kongo mündet. Der Fluss ist schiffbar und spielt eine wesentliche Rolle für den Transport und den lokalen Handel in der Region Gamboma.",
+      hu: "A Nkeni-folyó a Kongó jelentős jobb oldali mellékfolyója a Plateaux megyében. A Batéké-fennsíkon ered, és délkeleti irányba folyik, mielőtt a hatalmas Kongóba torkollik. A folyó hajózható, így alapvető szerepet játszik a közlekedésben és a helyi kereskedelemben Gamboma környékén.",
+      ro: "Râul Nkeni este un afluent important de dreapta al fluviului Congo, situat în departamentul Plateaux. Izvorăște din Podișul Batéké și curge spre sud-est înainte de a se vărsa în marele Congo. Râul este navigabil și joacă un rol esențial în transportul și comerțul local din regiunea Gamboma.",
+      en: "The Nkeni River is a major right-bank tributary of the Congo River in the Plateaux Department. It originates on the Batéké Plateau and flows southeast before merging with the mighty Congo. The river is navigable, playing a fundamental role in transportation and local trade within the Gamboma area.",
+    },
+    factsAdvanced: {
+      de: ["Rechter Nebenfluss des Kongo-Flusses", "Entspringt auf dem Batéké-Plateau", "Passiert die Stadt Gamboma", "Wichtiger Wasserweg für den Transport", "Fließt durch das Departement Plateaux", "Mündung liegt südlich von Makotimpoko"],
+      hu: ["A Kongó-folyó jobb oldali mellékfolyója", "A Batéké-fennsíkon ered", "Áthalad Gamboma városán", "Fontos vízi közlekedési útvonal", "Plateaux megye területén folyik", "Torkolata Makotimpokótól délre található"],
+      ro: ["Afluent de dreapta al fluviului Congo", "Izvorăște din Podișul Batéké", "Trece prin orașul Gamboma", "Cale navigabilă importantă pentru transport", "Curge prin departamentul Plateaux", "Vărsarea este la sud de Makotimpoko"],
+      en: ["Right-bank tributary of the Congo River", "Originates on the Batéké Plateau", "Passes through the town of Gamboma", "Important waterway for transport", "Flows through the Plateaux Department", "Confluence is south of Makotimpoko"],
+    },
   },
   {
     id: "republicofcongo-loulou-falls-nature-v2",
@@ -190,6 +298,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["Natural monument", "Southern region", "Green environment", "Local beauty"],
     },
     imageHint: "loulou waterfall nature",
+    descriptionAdvanced: {
+      de: "Die Loulou-Wasserfälle sind ein beeindruckendes Naturphänomen im Süden der Republik Kongo, unweit der Grenze zur Demokratischen Republik Kongo. Sie entstehen durch die starken Gefälle lokaler Flusssysteme in einem Gebiet mit dichter Vegetation. Die Kaskaden sind Teil einer Serie von Stromschnellen, die den Abfluss des Plateaus zum Meer charakterisieren.",
+      hu: "A Loulou-vízesés egy lenyűgöző természeti jelenség a Kongói Köztársaság déli részén, a Kongói Demokratikus Köztársaság határának közelében. A vízesés a helyi folyórendszerek meredek eséséből adódik, sűrű növényzettel körülvett területen. A kaskádok azon zúgók sorozatához tartoznak, amelyek a fennsík tenger felé történő lefolyását jellemzik.",
+      ro: "Cascadele Loulou sunt un fenomen natural impresionant în sudul Republicii Congo, aproape de granița cu R.D. Congo. Acestea se formează prin căderea abruptă a sistemelor fluviale locale într-o zonă cu vegetație densă. Cascadele fac parte dintr-o serie de repezișuri care marchează scurgerea podișului către ocean.",
+      en: "The Loulou Falls are an impressive natural phenomenon in the southern Republic of the Congo, near the border with the DR Congo. They are formed by the steep gradients of local river systems in an area of dense vegetation. These cascades are part of a series of rapids characterizing the plateau's drainage towards the sea.",
+    },
+    factsAdvanced: {
+      de: ["Befinden sich im südlichen Kongo", "In der Nähe der Stadt Boko gelegen", "Umgeben von tropischer Flora", "Teil der kataraktreichen Flusslandschaft", "Beeindruckende Fallhöhe während der Regenzeit", "Wichtiger Punkt für den lokalen Ökotourismus"],
+      hu: ["Kongó déli részén találhatók", "Boko városa közelében helyezkednek el", "Trópusi flóra veszi körül", "A zuhatagokban gazdag folyóvidék része", "Az esős évszakban nagy vízhozam jellemzi", "Helyi ökoturisztikai célpont"],
+      ro: ["Situate în sudul Republicii Congo", "Localizate în apropierea orașului Boko", "Înconjurate de floră tropicală", "Parte a peisajului fluvial cu cataracte", "Debit impresionant în timpul sezonului ploios", "Punct important pentru ecoturismul local"],
+      en: ["Located in southern Congo", "Situated near the town of Boko", "Surrounded by tropical flora", "Part of the rapid-rich river landscape", "High water volume during the rainy season", "Significant site for local ecotourism"],
+    },
   },
   {
     id: "republicofcongo-lekoumou-river-nature-v2",
@@ -209,6 +329,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["River in southwest", "Hilly environment", "Agricultural significance", "Local flora"],
     },
     imageHint: "lekoumou river landscape",
+    descriptionAdvanced: {
+      de: "Der Lekoumou-Fluss fließt durch das gleichnamige Departement im Südwesten der Republik Kongo. Er durchquert Regionen mit dichtem Wald und wird für die lokale Fischerei sowie als Wasserquelle genutzt. Der Fluss ist ein wichtiges Element der regionalen Hydrologie und speist größere Flusssysteme, die zum Atlantik führen.",
+      hu: "A Lekoumou-folyó az azonos nevű megyében folyik a Kongói Köztársaság délnyugati részén. Sűrű erdőkkel borított régiókon halad át, és alapvető szerepet játszik a helyi halászatban, valamint vízforrásként szolgál. A folyó a regionális hidrológia fontos eleme, amely az Atlanti-óceán felé tartó nagyobb folyórendszereket táplál.",
+      ro: "Râul Lekoumou curge prin departamentul cu același nume din sud-vestul Republicii Congo. Traversează regiuni cu păduri dese și este utilizat pentru pescuitul local și ca sursă de apă. Râul este un element important al hidrologiei regionale, alimentând sisteme fluviale mai mari care se îndreaptă spre Atlantic.",
+      en: "The Lekoumou River flows through the department of the same name in southwestern Republic of the Congo. It traverses densely forested regions and is utilized for local fishing and as a water source. The river is a vital component of regional hydrology, feeding larger river systems that head toward the Atlantic.",
+    },
+    factsAdvanced: {
+      de: ["Namensgeber für das Departement Lékoumou", "Fließt durch den Südwesten des Landes", "Umgeben von primärem Regenwald", "Wichtige Ressource für lokale Gemeinden", "Mündet in den Kouilou-Niari-Fluss", "Unterstützt eine vielfältige aquatische Fauna"],
+      hu: ["Lékoumou megye névadója", "Az ország délnyugati részén folyik", "Elsődleges esőerdő veszi körül", "Fontos erőforrás a helyi közösségeknek", "A Kouilou-Niari folyóba torkollik", "Változatos vízi faunát tart fenn"],
+      ro: ["Dă numele departamentului Lékoumou", "Curge prin sud-vestul țării", "Înconjurat de pădure tropicală primară", "Sursă importantă pentru comunitățile locale", "Se varsă în râul Kouilou-Niari", "Susține o faună acvatică diversă"],
+      en: ["Eponym for the Lékoumou Department", "Flows through the southwestern part of the country", "Surrounded by primary rainforest", "Vital resource for local communities", "Discharges into the Kouilou-Niari River", "Supports a diverse aquatic fauna"],
+    },
   },
   {
     id: "republicofcongo-mpouya-forest-nature-v2",
@@ -228,6 +360,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["Tropical rainforest", "Flora and fauna", "Protected area", "Dense vegetation"],
     },
     imageHint: "mpouya rainforest trees",
+    descriptionAdvanced: {
+      de: "Der Mpouya-Wald erstreckt sich im Departement Plateaux entlang des rechten Ufers des Kongo-Flusses. Er besteht aus einer Mischung aus Galeriewäldern und sumpfigen Gebieten, die typisch für das Flussbecken sind. Der Wald beherbergt eine reiche Flora und Fauna, darunter verschiedene Affenarten und zahlreiche exotische Vögel.",
+      hu: "A Mpouya-erdő a Plateaux megyében, a Kongó-folyó jobb partja mentén terül el. Galériaerdők és mocsaras területek elegye alkotja, amely jellemző a folyómedencére. Az erdő gazdag növény- és állatvilágnak ad otthont, beleértve különböző majomfajokat és számos egzotikus madarat.",
+      ro: "Pădurea Mpouya se întinde în departamentul Plateaux, de-a lungul malului drept al fluviului Congo. Este formată dintr-un amestec de păduri-galerie și zone mlăștinoase specifice bazinului fluvial. Pădurea adăpostește o floră și o faună bogată, inclusiv diverse specii de maimuțe și numeroase păsări exotice.",
+      en: "The Mpouya Forest extends across the Plateaux Department along the right bank of the Congo River. It consists of a mix of gallery forests and swampy areas typical of the river basin. The forest hosts a rich variety of flora and fauna, including various primate species and numerous exotic birds.",
+    },
+    factsAdvanced: {
+      de: ["Liegt am rechten Ufer des Kongo", "Teil des Departements Plateaux", "Kombination aus Wald und Feuchtgebieten", "Wichtiger Lebensraum für Primaten", "Nahe der Stadt Mpouya gelegen", "Schützt die Ufer vor Erosion"],
+      hu: ["A Kongó jobb partján fekszik", "A Plateaux megye része", "Erdők és vizes élőhelyek kombinációja", "Fontos élőhely a főemlősök számára", "Mpouya városa közelében található", "Védi a folyópartot az eróziótól"],
+      ro: ["Situată pe malul drept al fluviului Congo", "Parte a departamentului Plateaux", "Combinație de pădure și zone umede", "Habitat important pentru primate", "Localizată lângă orașul Mpouya", "Protejează malurile împotriva eroziunii"],
+      en: ["Located on the right bank of the Congo", "Part of the Plateaux Department", "Combination of forest and wetlands", "Crucial habitat for primates", "Situated near the town of Mpouya", "Protects riverbanks from erosion"],
+    },
   },
   {
     id: "republicofcongo-niari-valley-nature-v2",
@@ -247,6 +391,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["Fertile valley", "Agricultural region", "Southern relief", "Lush plants"],
     },
     imageHint: "niari valley farming",
+    descriptionAdvanced: {
+      de: "Das Niari-Tal ist eine fruchtbare Region im Südwesten der Republik Kongo, die für ihre landwirtschaftliche Bedeutung bekannt ist. Das Tal wird vom Niari-Fluss durchquert und bietet ideale Bedingungen für den Anbau von Zuckerrohr und Getreide. Geografisch liegt es zwischen dem Mayombe-Gebirge und den Batéké-Plateaus.",
+      hu: "A Niari-völgy a Kongói Köztársaság délnyugati részének termékeny régiója, amely mezőgazdasági jelentőségéről ismert. A völgyön a Niari-folyó halad át, ideális feltételeket biztosítva a cukornád és a gabonafélék termesztéséhez. Földrajzilag a Mayombe-hegység és a Batéké-fennsík között helyezkedik el.",
+      ro: "Valea Niari este o regiune fertilă din sud-vestul Republicii Congo, cunoscută pentru importanța sa agricolă. Valea este traversată de râul Niari și oferă condiții ideale pentru cultivarea trestiei de zahăr și a cerealelor. Geografic, se află între munții Mayombe și Podișul Batéké.",
+      en: "The Niari Valley is a fertile region in southwestern Republic of the Congo, renowned for its agricultural significance. The valley is traversed by the Niari River, providing ideal conditions for cultivating sugarcane and cereals. Geographically, it is located between the Mayombe Mountains and the Batéké Plateau.",
+    },
+    factsAdvanced: {
+      de: ["Landwirtschaftliches Zentrum des Landes", "Hauptanbaugebiet für Zuckerrohr", "Durchflossen vom Niari-Kouilou-Fluss", "Geprägt durch fruchtbare Alluvialböden", "Wichtige Verkehrsachse nach Pointe-Noire", "Heimat großer Rinderzuchtbetriebe"],
+      hu: ["Az ország mezőgazdasági központja", "A cukornád fő termesztési területe", "A Niari-Kouilou folyó szeli át", "Termékeny öntéstalaj jellemzi", "Fontos közlekedési folyosó Pointe-Noire felé", "Jelentős szarvasmarha-tenyésztés helyszíne"],
+      ro: ["Centrul agricol al țării", "Principala zonă de cultivare a trestiei de zahăr", "Traversată de râul Niari-Kouilou", "Caracterizată de soluri aluvionare fertile", "Coridor de transport important către Pointe-Noire", "Găzduiește mari ferme de creștere a bovinelor"],
+      en: ["Agricultural heartland of the country", "Main sugarcane production area", "Traversed by the Niari-Kouilou River", "Characterized by fertile alluvial soils", "Major transport axis to Pointe-Noire", "Home to significant cattle ranching"],
+    },
   },
   {
     id: "republicofcongo-ouesso-river-nature-v2",
@@ -266,6 +422,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["Northern waterway", "Rainforest environment", "Important for transport", "Natural river course"],
     },
     imageHint: "ouesso river forest",
+    descriptionAdvanced: {
+      de: "Der Ouesso-Abschnitt des Sangha-Flusses ist ein zentraler Knotenpunkt im Norden der Republik Kongo. Die Stadt Ouesso liegt an diesem breiten Wasserweg, der als Lebensader für den Transport von Holz und Waren dient. Der Fluss verbindet den dichten Regenwald des Nordens mit den südlichen Märkten und ist ökologisch reich an Fischarten.",
+      hu: "A Sangha-folyó Ouesso melletti szakasza a Kongói Köztársaság északi részének központi csomópontja. Ouesso városa ezen a széles vízi úton fekszik, amely a faanyag és az áruk szállításának fő útvonala. A folyó összeköti az északi sűrű esőerdőket a déli piacokkal, és ökológiailag gazdag halfajokban.",
+      ro: "Secțiunea Ouesso a râului Sangha este un nod central în nordul Republicii Congo. Orașul Ouesso este situat pe această cale navigabilă lată, care servește drept arteră pentru transportul lemnului și al mărfurilor. Râul leagă pădurea tropicală densă din nord de piețele din sud și este bogat în specii de pești.",
+      en: "The Ouesso section of the Sangha River is a central hub in northern Republic of the Congo. The city of Ouesso is situated on this wide waterway, which serves as a vital artery for transporting timber and goods. The river connects the dense northern rainforests with southern markets and is ecologically rich in fish species.",
+    },
+    factsAdvanced: {
+      de: ["Teil des Sangha-Flusssystems", "Ouesso ist ein wichtiger Flusshafen", "Grenznähe zu Kamerun", "Transportweg für wertvolles Tropenholz", "Reich an Wels- und Buntbarscharten", "Mündet weiter südlich in den Kongo"],
+      hu: ["A Sangha-folyórendszer része", "Ouesso fontos folyami kikötő", "Kamerun határának közelében található", "Az értékes trópusi fa szállítási útvonala", "Harcsa- és sügérfajokban gazdag", "Délebbre torkollik a Kongóba"],
+      ro: ["Parte a sistemului râului Sangha", "Ouesso este un port fluvial important", "Aproape de granița cu Camerun", "Rută de transport pentru lemn tropical", "Bogat în specii de somn și cichlidae", "Se varsă în fluviul Congo mai la sud"],
+      en: ["Part of the Sangha River system", "Ouesso is a significant river port", "Located near the Cameroon border", "Transport route for valuable tropical timber", "Rich in catfish and cichlid species", "Merges with the Congo River further south"],
+    },
   },
   {
     id: "republicofcongo-djoum-river-nature-v2",
@@ -285,6 +453,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["River in forest", "Freshwater habitat", "Regional biodiversity", "Shallow water"],
     },
     imageHint: "djoum river forest",
+    descriptionAdvanced: {
+      de: "Der Djoum-Fluss ist ein Wasserlauf im Norden des Kongobeckens, der durch unberührte Regenwaldgebiete fließt. Er trägt zur Entwässerung der nördlichen Ebenen bei und ist Teil eines komplexen Netzes von Nebenflüssen. Aufgrund der Abgeschiedenheit bleibt die natürliche Umwelt entlang des Flusses weitgehend vom Menschen unberührt.",
+      hu: "A Djoum-folyó a Kongó-medence északi részén található vízfolyás, amely érintetlen esőerdőkön halad át. Hozzájárul az északi síkságok vízelvezetéséhez, és egy összetett mellékfolyó-hálózat része. Az elszigeteltségnek köszönhetően a folyó menti természetes környezet nagyrészt érintetlen maradt.",
+      ro: "Râul Djoum este un curs de apă din nordul bazinului Congo, care curge prin zone de pădure tropicală virgină. Contribuie la drenajul câmpiilor nordice și face parte dintr-o rețea complexă de afluenți. Datorită izolării, mediul natural de-a lungul râului rămâne în mare parte neafectat de activitatea umană.",
+      en: "The Djoum River is a watercourse in the northern Congo Basin that flows through pristine rainforest areas. It contributes to the drainage of the northern plains and is part of a complex network of tributaries. Due to its remoteness, the natural environment along the river remains largely untouched by human activity.",
+    },
+    factsAdvanced: {
+      de: ["Fließt durch das nördliche Kongobecken", "Umgeben von dichtem Primärwald", "Teil des Sangha-Einzugsgebiets", "Wichtiger Korridor für Wildtiere", "Wenig erschlossen und unberührt", "Unterstützt lokale Ökosysteme"],
+      hu: ["Az északi Kongó-medencén folyik át", "Sűrű elsődleges erdő veszi körül", "A Sangha vízgyűjtő területéhez tartozik", "Fontos folyosó a vadon élő állatok számára", "Kevéssé feltárt és érintetlen", "Helyi ökoszisztémákat támogat"],
+      ro: ["Curge prin nordul bazinului Congo", "Înconjurat de pădure primară densă", "Parte a bazinului hidrografic Sangha", "Coridor important pentru fauna sălbatică", "Puțin explorat și virgin", "Susține ecosistemele locale"],
+      en: ["Flows through the northern Congo Basin", "Surrounded by dense primary forest", "Part of the Sangha drainage basin", "Important corridor for wildlife", "Little developed and pristine", "Supports local ecosystems"],
+    },
   },
   {
     id: "republicofcongo-lenge-lake-nature-v2",
@@ -304,6 +484,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["Natural reservoir", "Dry season refuge", "Local fauna", "Calm water"],
     },
     imageHint: "lenge lake landscape",
+    descriptionAdvanced: {
+      de: "Der Lenge-See ist ein Binnensee in der Republik Kongo, der oft in Überschwemmungsgebieten oder sumpfigen Senken liegt. Er ist ein wichtiger Rückzugsort für Wasservögel und bietet lokalen Gemeinschaften Ressourcen für den Fischfang. Die Wasserstände schwanken saisonal stark in Abhängigkeit von den tropischen Niederschlägen.",
+      hu: "A Lenge-tó a Kongói Köztársaság egyik belvize, amely gyakran ártereken vagy mocsaras mélyedésekben található. Fontos menedékhely a vízimadarak számára, és erőforrásokat biztosít a helyi közösségek halászatához. A vízszint az esős évszak trópusi csapadékmennyiségétől függően jelentősen ingadozik.",
+      ro: "Lacul Lenge este un lac interior din Republica Congo, situat adesea în zone inundabile sau depresiuni mlăștinoase. Este un refugiu important pentru păsările de apă și oferă resurse pentru pescuitul comunităților locale. Nivelul apei fluctuează semnificativ în funcție de precipitațiile tropicale sezoniere.",
+      en: "Lenge Lake is an inland water body in the Republic of the Congo, often located within floodplains or swampy depressions. It is an important sanctuary for waterfowl and provides fishing resources for local communities. Water levels fluctuate significantly depending on seasonal tropical rainfall.",
+    },
+    factsAdvanced: {
+      de: ["Süßwassersee im Kongobecken", "Lebensraum für zahlreiche Zugvögel", "Unterliegt saisonalen Pegelschwankungen", "Umgeben von Sumpfvegetation", "Wichtige Proteinquelle durch Fischfang", "Oft nur mit dem Boot erreichbar"],
+      hu: ["Édesvízi tó a Kongó-medencében", "Számos vándormadár élőhelye", "Szezonális vízszintingadozás jellemzi", "Mocsári növényzet veszi körül", "Fontos fehérjeforrás a halászat révén", "Gyakran csak csónakkal érhető el"],
+      ro: ["Lac de apă dulce în bazinul Congo", "Habitat pentru numeroase păsări migratoare", "Prezintă fluctuații sezoniere de nivel", "Înconjurat de vegetație de mlaștină", "Sursă importantă de proteine prin pescuit", "Adesea accesibil doar cu barca"],
+      en: ["Freshwater lake in the Congo Basin", "Habitat for numerous migratory birds", "Subject to seasonal level fluctuations", "Surrounded by swamp vegetation", "Major protein source through fishing", "Often accessible only by boat"],
+    },
   },
   {
     id: "republicofcongo-kibangou-forest-nature-v2",
@@ -323,6 +515,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["Southwestern forest", "Tropical trees", "Diverse flora", "Ecological area"],
     },
     imageHint: "kibangou forest landscape",
+    descriptionAdvanced: {
+      de: "Der Kibangou-Wald liegt im Departement Niari im Südwesten des Landes. Er ist Teil des Mayombe-Gebirgszugs und zeichnet sich durch hügeliges Gelände und dichten tropischen Regenwald aus. Die Forstwirtschaft ist in dieser Region ein bedeutender Wirtschaftszweig, wobei nachhaltige Ansätze zum Schutz der Biodiversität zunehmend wichtig werden.",
+      hu: "A Kibangou-erdő az ország délnyugati részén, Niari megyében található. A Mayombe-hegység része, amelyet dombos terep és sűrű trópusi esőerdő jellemez. Az erdőgazdálkodás jelentős gazdasági ágazat ebben a régióban, ahol a biodiverzitás védelmét szolgáló fenntartható megközelítések egyre fontosabbá válnak.",
+      ro: "Pădurea Kibangou este situată în departamentul Niari, în sud-vestul țării. Face parte din lanțul muntos Mayombe și se caracterizează prin teren deluros și pădure tropicală densă. Silvicultura este un sector economic important în această regiune, unde abordările durabile pentru protejarea biodiversității devin tot mai necesare.",
+      en: "The Kibangou Forest is located in the Niari Department in the southwestern part of the country. It is part of the Mayombe mountain range, characterized by hilly terrain and dense tropical rainforest. Forestry is a major economic sector in this region, with sustainable approaches to biodiversity protection becoming increasingly vital.",
+    },
+    factsAdvanced: {
+      de: ["Teil des Mayombe-Waldmassivs", "Liegt im Departement Niari", "Bekannt für wertvolle Baumarten", "Beherbergt seltene Waldelefanten", "Hügelige Topographie prägt das Bild", "Wichtiges Wassereinzugsgebiet"],
+      hu: ["A Mayombe-erdőmasszívum része", "Niari megyében található", "Értékes fafajairól ismert", "Ritka erdei elefántok élőhelye", "Dombos domborzat jellemzi", "Fontos vízgyűjtő terület"],
+      ro: ["Parte a masivului forestier Mayombe", "Situată în departamentul Niari", "Cunoscută pentru specii de arbori valoroși", "Adăpostește elefanți de pădure rari", "Topografia deluroasă definește peisajul", "Bazin hidrografic important"],
+      en: ["Part of the Mayombe forest massif", "Located in the Niari Department", "Known for valuable timber species", "Home to rare forest elephants", "Hilly topography defines the area", "Important water catchment zone"],
+    },
   },
   {
     id: "republicofcongo-sese-river-nature-v2",
@@ -342,6 +546,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["Northern river", "Aquatic ecosystem", "Regional water source", "Forest area"],
     },
     imageHint: "sese river aerial",
+    descriptionAdvanced: {
+      de: "Der Sese-Fluss ist ein kleinerer Wasserweg in der Republik Kongo, der oft durch bewaldete Savannen fließt. Er ist typisch für die hydrologische Struktur des Batéké-Plateaus, wo Flüsse tiefe Täler in den weichen Sandstein gegraben haben. Die Vegetation entlang des Ufers bietet Schutz für zahlreiche lokale Tierarten.",
+      hu: "A Sese-folyó egy kisebb vízfolyás a Kongói Köztársaságban, amely gyakran erdős szavannákon halad át. Jellemző a Batéké-fennsík hidrológiai szerkezetére, ahol a folyók mély völgyeket vájtak a puha homokkőbe. A part menti növényzet számos helyi állatfaj számára nyújt menedéket.",
+      ro: "Râul Sese este un curs de apă mai mic din Republica Congo, care curge adesea prin savane împădurite. Este tipic pentru structura hidrologică a Podișului Batéké, unde râurile au săpat văi adânci în gresia moale. Vegetația de-a lungul malului oferă adăpost pentru numeroase specii de animale locale.",
+      en: "The Sese River is a smaller waterway in the Republic of the Congo, often flowing through wooded savannas. It is typical of the Batéké Plateau's hydrological structure, where rivers have carved deep valleys into soft sandstone. The vegetation along the banks provides shelter for numerous local animal species.",
+    },
+    factsAdvanced: {
+      de: ["Fließt über das Batéké-Plateau", "Gekennzeichnet durch klares Wasser", "Mündet in größere Nebenflüsse des Kongo", "Uferregionen sind biologisch vielfältig", "Wichtig für die lokale Bewässerung", "Teil des zentralen afrikanischen Flusssystems"],
+      hu: ["A Batéké-fennsíkon folyik keresztül", "Tiszta víz jellemzi", "A Kongó nagyobb mellékfolyóiba torkollik", "A part menti régiók biológiailag sokszínűek", "Fontos a helyi öntözés szempontjából", "A közép-afrikai folyórendszer része"],
+      ro: ["Curge peste Podișul Batéké", "Caracterizat de ape limpezi", "Se varsă în afluenți mai mari ai Congoului", "Regiunile riverane sunt diverse biologic", "Important pentru irigațiile locale", "Parte a sistemului fluvial central african"],
+      en: ["Flows across the Batéké Plateau", "Characterized by clear water", "Merges into larger Congo tributaries", "Riparian zones are biologically diverse", "Important for local irrigation", "Part of the Central African river system"],
+    },
   },
   {
     id: "republicofcongo-loni-lake-nature-v2",
@@ -361,6 +577,18 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["Picturesque water", "Central forest proximity", "Quiet habitat", "Local significance"],
     },
     imageHint: "loni lake water",
+    descriptionAdvanced: {
+      de: "Der Loni-See ist ein natürlicher See in der Republik Kongo, der als wichtiges Reservoir für die lokale Biodiversität dient. Er liegt in einer Region, die von tropischen Wäldern und Feuchtgebieten umgeben ist. Der See ist ein bedeutender Ort für den Fischfang der umliegenden Dörfer und beherbergt verschiedene endemische Fischarten.",
+      hu: "A Loni-tó egy természetes tó a Kongói Köztársaságban, amely a helyi biodiverzitás fontos rezervoárjaként szolgál. Trópusi erdőkkel és vizes élőhelyekkel körülvett régióban található. A tó a környező falvak halászatának jelentős helyszíne, és számos endemikus halfajnak ad otthont.",
+      ro: "Lacul Loni este un lac natural din Republica Congo, servind ca un rezervor important pentru biodiversitatea locală. Este situat într-o regiune înconjurată de păduri tropicale și zone umede. Lacul este un loc semnificativ pentru pescuitul satelor din jur și adăpostește diverse specii de pești endemici.",
+      en: "Loni Lake is a natural lake in the Republic of the Congo, serving as an important reservoir for local biodiversity. It is located in a region surrounded by tropical forests and wetlands. The lake is a significant site for fishing by surrounding villages and hosts various endemic fish species.",
+    },
+    factsAdvanced: {
+      de: ["Süßwasserökosystem im Landesinneren", "Umgeben von dichtem Dschungel", "Quelle für den lokalen Fischfang", "Beherbergt verschiedene Reptilienarten", "Wichtiger Rastplatz für Vögel", "Unterstützt das lokale Mikroklima"],
+      hu: ["Belföldi édesvízi ökoszisztéma", "Sűrű dzsungel veszi körül", "A helyi halászat forrása", "Különböző hüllőfajok élőhelye", "Fontos pihenőhely a madaraknak", "Támogatja a helyi mikroklímát"],
+      ro: ["Ecosistem de apă dulce în interiorul țării", "Înconjurat de junglă densă", "Sursă pentru pescuitul local", "Găzduiește diverse specii de reptile", "Loc important de odihnă pentru păsări", "Susține microclimatul local"],
+      en: ["Inland freshwater ecosystem", "Surrounded by dense jungle", "Source for local fishing", "Home to various reptile species", "Important resting site for birds", "Supports the local microclimate"],
+    },
   },
   {
     id: "republicofcongo-mpama-river-nature-v2",
@@ -380,5 +608,17 @@ export const republicofcongoNatureV2: POI[] = [
       en: ["River in the center", "Irrigation", "Congo Basin", "Important resource"],
     },
     imageHint: "mpama river tropical",
+    descriptionAdvanced: {
+      de: "Der Mpama-Fluss ist ein bedeutender Nebenfluss in der Republik Kongo, der durch das Departement Cuvette fließt. Er schlängelt sich durch die tiefliegenden Sumpfwälder des Kongobeckens und trägt massiv zur Hydrologie des Gebiets bei. Die Region ist bekannt für ihre schwer zugänglichen, aber ökologisch wertvollen Regenwaldhabitate.",
+      hu: "A Mpama-folyó a Kongói Köztársaság egyik jelentős mellékfolyója, amely a Cuvette megyén folyik keresztül. A Kongó-medence mélyen fekvő mocsári erdőin kanyarog át, nagyban hozzájárulva a terület hidrológiájához. A régió nehezen megközelíthető, de ökológiailag értékes esőerdei élőhelyeiről ismert.",
+      ro: "Râul Mpama este un afluent important din Republica Congo, care traversează departamentul Cuvette. Șerpuiește prin pădurile mlăștinoase de joasă altitudine ale bazinului Congo, contribuind masiv la hidrologia zonei. Regiunea este cunoscută pentru habitatele sale de pădure tropicală greu accesibile, dar valoroase ecologic.",
+      en: "The Mpama River is a significant tributary in the Republic of the Congo, flowing through the Cuvette Department. It meanders through the low-lying swamp forests of the Congo Basin, contributing heavily to the area's hydrology. The region is known for its difficult-to-access but ecologically valuable rainforest habitats.",
+    },
+    factsAdvanced: {
+      de: ["Fließt durch das Departement Cuvette", "Nebenfluss des Kongo-Fluss-Systems", "Durchquert ausgedehnte Sumpfwälder", "Lebensraum für Flusspferde und Krokodile", "Wichtig für den regionalen Wassertransport", "Unterstützt eine reiche aquatische Biodiversität"],
+      hu: ["A Cuvette megyén folyik keresztül", "A Kongó-folyó rendszerének mellékfolyója", "Kiterjedt mocsári erdőket szel át", "Vízilovak és krokodilok élőhelye", "Fontos a regionális vízi közlekedésben", "Gazdag vízi biodiverzitást tart fenn"],
+      ro: ["Curge prin departamentul Cuvette", "Afluent al sistemului fluviului Congo", "Traversează păduri mlăștinoase întinse", "Habitat pentru hipopotami și crocodili", "Important pentru transportul fluvial regional", "Susține o biodiversitate acvatică bogată"],
+      en: ["Flows through the Cuvette Department", "Tributary of the Congo River system", "Traverses extensive swamp forests", "Habitat for hippos and crocodiles", "Crucial for regional water transport", "Supports rich aquatic biodiversity"],
+    },
   }
 ];

@@ -792,7 +792,20 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Plaisance városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Plaisance este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Plaisance is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }, image: "/poi-images/plaisance-cities-v2.webp"}, {
+    }, image: "/poi-images/plaisance-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Plaisance ist ein geschichtsträchtiges Dorf an der Ostküste von Demerara in Guyana. Es wurde 1842 von 65 ehemaligen Sklaven gekauft, die gemeinsam 39.000 Gulden aufbrachten, um das Land von der Plantage zu erwerben. Dieser Akt der kollektiven Selbstbefreiung macht Plaisance zu einem bedeutenden Symbol der guyanischen Dorfbewegung. Heute ist es eine lebendige Gemeinde mit einer starken kulturellen Identität.",
+      hu: "Plaisance egy történelmi jelentőségű falu Guyana Demerara régiójában, az atlanti part mentén. 1842-ben 65 korábbi rabszolga vásárolta meg közösen a területet 39 000 guldenért, hogy saját közösséget alapítsanak. Ez az összefogás a guyanai „falumozgalom” egyik kulcsfontosságú eseménye volt. Napjainkban a település élénk közösségi élettel és erős kulturális identitással rendelkezik.",
+      ro: "Plaisance este un sat istoric situat pe coasta de est a regiunii Demerara în Guyana. În 1842, 65 de foști sclavi au cumpărat colectiv terenul pentru 39.000 de guldeni, transformând fosta plantație într-o comunitate liberă. Acest act a fost fundamental pentru „mișcarea satelor” din Guyana post-emancipare. Astăzi, Plaisance este o localitate vibrantă cu o puternică moștenire culturală.",
+      en: "Plaisance is a historic village located on the East Coast of Demerara in Guyana. In 1842, it was purchased by 65 former slaves who pooled 39,000 guilders to acquire the land from the plantation owners. This act of collective empowerment remains a cornerstone of the Guyanese 'village movement' following emancipation. Today, it is a bustling community known for its strong cultural identity.",
+    },
+    factsAdvanced: {
+      de: ["Gekauft von 65 ehemaligen Sklaven im Jahr 1842", "Kaufpreis betrug 39.000 Gulden", "Liegt etwa 10 Kilometer östlich von Georgetown", "Teil der historischen 'Village Movement' Guyanas", "Heimat des berühmten Musikers Eddy Grant", "Einst eine bedeutende Baumwollplantage"],
+      hu: ["1842-ben vásárolta meg 65 felszabadított rabszolga", "A vételár 39 000 gulden volt", "Georgetowntól körülbelül 10 kilométerre keletre fekszik", "A guyanai falumozgalom egyik első települése", "Innen származik a híres zenész, Eddy Grant", "Eredetileg gyapotültetvényként működött a terület"],
+      ro: ["Cumpărat de 65 de foști sclavi în anul 1842", "Prețul de achiziție a fost de 39.000 de guldeni", "Situat la aproximativ 10 kilometri est de Georgetown", "Parte integrantă a mișcării satelor libere din Guyana", "Satul natal al celebrului muzician Eddy Grant", "A fost inițial o plantație de bumbac"],
+      en: ["Purchased by 65 former slaves in 1842", "The acquisition price was 39,000 guilders", "Located approximately 6 miles east of Georgetown", "Key part of the Guyanese 'Village Movement'", "Home to world-famous musician Eddy Grant", "Formerly operated as a cotton plantation"],
+    },
+  }, {
     id: "triumph-cities-v2",
     type: "city",
     parent: "GY-DE",
@@ -884,7 +897,19 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       hu: ["Beterverwagting városa a(z) GY-DE régióban található.", "Fontos szerepet játszik a helyi gazdaságban."],
       ro: ["Orașul Beterverwagting este situat în regiunea GY-DE.", "Joacă un rol important în economia locală."],
       en: ["The city of Beterverwagting is located in the GY-DE region.", "It plays an important role in the local economy."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Beterverwagting, oft einfach B.V. genannt, ist ein Dorf an der East Coast Demerara in Guyana. Es wurde 1840 von 62 ehemaligen Sklaven erworben, was es zu einer der frühesten unabhängigen Siedlungen nach der Emanzipation macht. Der Name ist niederländisch und bedeutet „Bessere Erwartung“. Die Gemeinde ist eng mit dem Nachbarort Triumph verbunden und bildet mit ihm eine gemeinsame lokale Verwaltungseinheit.",
+      hu: "Beterverwagting, amelyet gyakran csak „B.V.”-ként emlegetnek, egy község Guyana Demerara régiójában. 1840-ben 62 korábbi rabszolga vásárolta meg, így a rabszolgafelszabadítás utáni egyik legkorábbi független település lett. Neve holland eredetű, jelentése „Jobb várakozás”. A falu szorosan összenőtt a szomszédos Triumph településsel, amellyel közös közigazgatást alkot.",
+      ro: "Beterverwagting, cunoscut adesea sub numele de „B.V.”, este un sat situat pe coasta de est a regiunii Demerara în Guyana. A fost achiziționat în 1840 de către 62 de foști sclavi, fiind una dintre primele așezări independente după emancipare. Numele său este de origine olandeză și înseamnă „Așteptare mai bună”. Comunitatea este strâns legată de satul vecin, Triumph.",
+      en: "Beterverwagting, often referred to simply as 'B.V.', is a village on the East Coast of Demerara in Guyana. It was purchased in 1840 by 62 former slaves, making it one of the earliest independent settlements established after emancipation. The name is Dutch for 'Better Expectation.' The village is closely linked with the neighboring community of Triumph, sharing local administration.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1840 durch 62 Käufer", "Name stammt aus dem Niederländischen ('Bessere Erwartung')", "Liegt im Bezirk Demerara-Mahaica", "Gehört zur lokalen Verwaltungseinheit Beterverwagting/Triumph", "Wichtiges Zentrum für Bildung in der Region", "Früher eine Zuckerrohrplantage"],
+      hu: ["1840-ben alapította 62 felszabadított rabszolga", "A neve hollandul „Jobb várakozást” jelent", "Demerara-Mahaica régióban található", "Triumph falujával közös helyi önkormányzata van", "A régió egyik fontos oktatási központja", "Korábban cukornádültetvényként hasznosították"],
+      ro: ["Fondat în 1840 de către 62 de cumpărători foști sclavi", "Numele provine din olandeză și înseamnă 'Așteptare mai bună'", "Situat în regiunea Demerara-Mahaica", "Administrat împreună cu satul Triumph", "Un centru important pentru educație în zonă", "A funcționat anterior ca plantație de trestie de zahăr"],
+      en: ["Founded in 1840 by a group of 62 former slaves", "Name is Dutch for 'Better Expectation'", "Located in the Demerara-Mahaica region", "Part of the Beterverwagting/Triumph local government district", "Significant center for secondary education in the area", "Originally established as a sugar plantation"],
+    },
   }, {
     id: "blairmont-cities-v2",
     type: "city",

@@ -19,6 +19,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Built by convicts in 1871.", "Served as a control center for the penal colony.", "Restoration efforts began in 1984.", "Now houses a museum about colonial history."],
     },
     imageHint: "Fort Teremba stone gate and watchtower",
+    descriptionAdvanced: {
+      de: "Fort Teremba ist ein bedeutendes historisches Denkmal bei Moindou, das ursprünglich als Militärposten und Strafanstalt im Jahr 1871 errichtet wurde. Es spielte eine zentrale Rolle während des Kanak-Aufstands von 1878 und diente als administratives Zentrum der Region. Heute ist das restaurierte Gelände ein Museum, das die komplexe Kolonialgeschichte Neukaledoniens dokumentiert.",
+      hu: "A Fort Teremba egy jelentős történelmi emlékmű Moindou közelében, amelyet eredetileg katonai posztként és büntetőtelepként alapítottak 1871-ben. Központi szerepet játszott az 1878-as kanak felkelés idején, és a régió adminisztratív központjaként szolgált. Ma a restaurált terület múzeum, amely Új-Kaledónia összetett gyarmati múltját mutatja be.",
+      ro: "Fort Teremba este un monument istoric semnificativ lângă Moindou, stabilit inițial ca post militar și colonie penitenciară în 1871. A jucat un rol central în timpul revoltei Kanak din 1878 și a servit ca centru administrativ al regiunii. Astăzi, situl restaurat este un muzeu care documentează istoria colonială complexă a Noii Caledonii.",
+      en: "Fort Teremba is a significant historical monument near Moindou, originally established as a military post and penal colony in 1871. It played a central role during the 1878 Kanak revolt and served as the region's administrative center. Today, the restored site is a museum documenting New Caledonia's complex colonial history.",
+    },
+    factsAdvanced: {
+      de: ["Bau der Festung im Jahr 1871", "Einstige Strafanstalt für Sträflinge", "Schauplatz des Aufstands von 1878", "Restaurierung durch lokale Vereine", "Blick auf die Bucht von Teremba", "Sitz eines Museums zur Gefängnisgeschichte"],
+      hu: ["Az erőd építése 1871-ben kezdődött", "Egykor fegyenctelepként működött", "Az 1878-as felkelés egyik helyszíne", "Helyi egyesületek általi restaurálás", "Kilátás a Teremba-öbölre", "A börtöntörténeti múzeum helyszíne"],
+      ro: ["Construcția fortului în anul 1871", "Fostă colonie penitenciară pentru condamnați", "Locul desfășurării revoltei din 1878", "Restaurare realizată de asociații locale", "Vedere asupra golfului Teremba", "Găzduiește un muzeu al istoriei închisorii"],
+      en: ["Construction of the fort began in 1871", "Former penal colony for convicts", "Key site during the 1878 revolt", "Restored by local heritage associations", "Overlooks the Bay of Teremba", "Houses a museum dedicated to prison history"],
+    },
   },
   {
     id: "newcaledonia-cathedrale-saint-joseph-history-v2",
@@ -38,6 +50,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Construction lasted exactly ten years.", "Built of stone using convict labor.", "The organ was manufactured in Paris in 1907.", "Classified as a historic monument since 1992."],
     },
     imageHint: "St. Joseph's Cathedral Noumea twin towers",
+    descriptionAdvanced: {
+      de: "Die Kathedrale Saint-Joseph in Nouméa wurde zwischen 1887 und 1897 von Sträflingen erbaut. Das neugotische Bauwerk zeichnet sich durch seine zwei markanten Türme und prächtige Glasmalereien aus. Als Sitz des Erzbistums Nouméa ist sie ein zentrales religiöses und architektonisches Wahrzeichen der Stadt. Die Fassade besteht aus lokalem Stein, was ihr ein charakteristisches Aussehen verleiht.",
+      hu: "A nouméai Szent József-székesegyház 1887 és 1897 között épült, nagyrészt fegyenkmunkával. A neogótikus stílusú épület két jellegzetes tornyáról és színes üvegablakairól ismert. A katedrális a Nouméai érsekség székhelye, és a város egyik legfontosabb történelmi műemléke. Az építkezéshez helyi követ használtak, ami egyedi megjelenést kölcsönöz a homlokzatnak.",
+      ro: "Catedrala Sfântul Iosif din Nouméa a fost construită între 1887 și 1897, utilizând munca deținuților. Edificiul în stil neogotic se remarcă prin cele două turnuri impunătoare și vitraliile sale detaliate. Fiind sediul Arhiepiscopiei de Nouméa, este un reper religios și arhitectural major al capitalei. Fațada realizată din piatră locală îi conferă o textură și o culoare specifică regiunii.",
+      en: "St. Joseph's Cathedral in Nouméa was constructed between 1887 and 1897, primarily by convict labor. This Neo-Gothic building is distinguished by its twin towers and intricate stained-glass windows. As the seat of the Archdiocese of Nouméa, it serves as a major religious and architectural landmark. The structure was built using local stone, giving the facade a unique and durable finish.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn am 16. August 1887", "Einweihung der Kirche im Jahr 1897", "Die Türme erreichen eine Höhe von 25 Metern", "Bau durch Sträflinge der Strafkolonie", "Entwurf vom Architekten Labulle", "Verfügt über eine Orgel aus dem Jahr 1905"],
+      hu: ["Az építkezés 1887. augusztus 16-án kezdődött", "A templomot 1897-ben szentelték fel", "A tornyok magassága eléri a 25 métert", "A büntetőtelep fegyencei építették", "Labulle építész tervei alapján készült", "1905-ben készült orgonával rendelkezik"],
+      ro: ["Construcția a început pe 16 august 1887", "Catedrala a fost sfințită în anul 1897", "Turnurile au o înălțime de 25 de metri", "Construită de deținuții coloniei penitenciare", "Proiectată de arhitectul Labulle", "Deține o orgă datând din anul 1905"],
+      en: ["Construction began on August 16, 1887", "The cathedral was consecrated in 1897", "The towers reach a height of 25 meters", "Built by convicts from the penal colony", "Designed by the architect Labulle", "Features a pipe organ dating back to 1905"],
+    },
   },
   {
     id: "newcaledonia-phare-amedee-history-v2",
@@ -57,6 +81,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Prefabricated in Paris and then shipped.", "Total height is 56 meters.", "First lit on July 4, 1865.", "Consists of 1,265 iron plates."],
     },
     imageHint: "Amedee Lighthouse white tall tower",
+    descriptionAdvanced: {
+      de: "Der Amédée-Leuchtturm wurde 1862 in Paris entworfen und 1865 auf der gleichnamigen Insel vor Nouméa eingeweiht. Mit einer Höhe von 56 Metern war er einer der ersten metallischen Leuchttürme der Welt. Er diente der Sicherung der Schifffahrt durch die gefährlichen Riffe Neukaledoniens. Heute ist der Turm ein beliebtes Touristenziel und bietet einen weiten Blick über die Lagune.",
+      hu: "Az Amédée-világítótorony 1862-ben készült Párizsban, majd 1865-ben avatták fel a Nouméa melletti kis szigeten. 56 méteres magasságával a világ egyik első fémszerkezetű világítótornya volt. Feladata a hajózás biztonságának szavatolása volt Új-Kaledónia veszélyes zátonyai között. Napjainkban népszerű turisztikai célpont, ahonnan pazar kilátás nyílik a lagúnára.",
+      ro: "Farul Amédée a fost proiectat la Paris în 1862 și inaugurat în 1865 pe insula omonimă de lângă Nouméa. Cu o înălțime de 56 de metri, a fost unul dintre primele faruri metalice din lume. A servit la securizarea navigației prin recifele periculoase ale Noii Caledonii. Astăzi, turnul este o destinație turistică populară, oferind o panoramă vastă asupra lagunei.",
+      en: "The Amedee Lighthouse was designed in Paris in 1862 and inaugurated in 1865 on the island of the same name near Nouméa. Standing at 56 meters tall, it was one of the world's first metallic lighthouses. It was built to ensure safe navigation through New Caledonia's treacherous reefs. Today, the lighthouse is a major tourist attraction, offering sweeping views over the lagoon.",
+    },
+    factsAdvanced: {
+      de: ["In Frankreich aus 1.265 Einzelteilen gefertigt", "Erstes Feuer wurde am 4. Juli 1865 entzündet", "Besitzt eine Wendeltreppe mit 247 Stufen", "Gesamthöhe des Turms beträgt 56 Meter", "Bauzeit auf der Insel dauerte 10 Monate", "Reichweite des Lichts beträgt etwa 20 Seemeilen"],
+      hu: ["Franciaországban készült 1265 darabból", "Az első fényt 1865. július 4-én gyújtották meg", "247 lépcsőfokból álló csigalépcső vezet fel", "A torony teljes magassága 56 méter", "A szigeten történő összeszerelés 10 hónapig tartott", "A fény hatótávolsága körülbelül 20 tengeri mérföld"],
+      ro: ["Fabricat în Franța din 1.265 de piese individuale", "Prima lumină a fost aprinsă pe 4 iulie 1865", "Are o scară în spirală cu 247 de trepte", "Înălțimea totală a turnului este de 56 de metri", "Asamblarea pe insulă a durat 10 luni", "Raza de acțiune a luminii este de circa 20 de mile marine"],
+      en: ["Manufactured in France from 1,265 separate parts", "The first light was lit on July 4, 1865", "Features a spiral staircase with 247 steps", "The tower's total height is 56 meters", "Assembly on the island took 10 months", "The light has a range of approximately 20 nautical miles"],
+    },
   },
   {
     id: "newcaledonia-prony-village-history-v2",
@@ -76,6 +112,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Served as a timber supply for Nouméa.", "Contains ruins of the former prison.", "Was a center for early nickel mining.", "Banyan trees now engulf the stone walls."],
     },
     imageHint: "Prony Village ruins with banyan trees",
+    descriptionAdvanced: {
+      de: "Prony Village wurde 1867 ursprünglich als Strafkolonie gegründet, um Holz für den Bau von Nouméa zu gewinnen. Später entwickelte es sich zu einem Zentrum für den Nickelabbau, bevor es schließlich verlassen wurde. Die Überreste der Steingebäude werden heute malerisch von den Wurzeln riesiger Banyan-Feigen umschlungen. Es bietet einen faszinierenden Einblick in die industrielle und koloniale Vergangenheit der Südprovinz.",
+      hu: "Prony falut 1867-ben alapították büntetőtelepként, hogy faanyagot biztosítsanak Nouméa építéséhez. Később a nikkelbányászat egyik központjává vált, mielőtt végleg elnéptelenedett volna. A kőépületek maradványait ma óriási banyánfüge gyökerei fonják körbe, festői látványt nyújtva. A helyszín lenyűgöző betekintést nyújt a déli tartomány ipari és gyarmati múltjába.",
+      ro: "Satul Prony a fost fondat în 1867 inițial ca o colonie penitenciară pentru extracția lemnului necesar construcției orașului Nouméa. Mai târziu, s-a transformat într-un centru pentru exploatarea nichelului înainte de a fi abandonat. Ruinele clădirilor de piatră sunt astăzi cuprinse de rădăcinile spectaculoase ale arborilor banyan. Locul oferă o perspectivă fascinantă asupra trecutului industrial al provinciei de sud.",
+      en: "Prony Village was founded in 1867 as a penal settlement to provide timber for the construction of Nouméa. It later transitioned into a hub for nickel mining before eventually being abandoned. The remains of the stone buildings are now overgrown by the massive roots of banyan trees, creating a picturesque scene. The site offers a unique glimpse into the industrial and colonial history of the South Province.",
+    },
+    factsAdvanced: {
+      de: ["Gründung als Lager für Sträflinge im Jahr 1867", "Erste Konzession für Nickelabbau 1873 erteilt", "Das Dorf wurde in den 1950er Jahren verlassen", "Beherbergt die Ruinen einer alten Pulverkammer", "Banyan-Bäume überwachsen die Mauerreste", "Diente als wichtiger Hafen für den Erzexport"],
+      hu: ["1867-ben alapították fegyencgyűjtő táborként", "Az első nikkelbányászati koncessziót 1873-ban adták ki", "A falu az 1950-es években néptelenedett el", "Egy régi lőporraktár romjai is megtalálhatóak itt", "Banyánfügefák nőtték be a kőfalakat", "Fontos kikötőként szolgált az ércexporthoz"],
+      ro: ["Fondat ca lagăr pentru deținuți în anul 1867", "Prima concesiune minieră a fost acordată în 1873", "Satul a fost abandonat definitiv în anii 1950", "Găzduiește ruinele unei vechi magazii de pulbere", "Arborii banyan au acoperit complet resturile zidurilor", "A servit drept port important pentru exportul de minereu"],
+      en: ["Founded as a convict camp in 1867", "The first nickel mining concession was granted in 1873", "The village was abandoned in the 1950s", "Contains the ruins of an old gunpowder magazine", "Banyan trees have completely overgrown the stone walls", "Served as a key port for ore exportation"],
+    },
   },
   {
     id: "newcaledonia-balade-mission-history-v2",
@@ -95,6 +143,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["James Cook landed here in 1774.", "The first Mass was celebrated in 1843.", "A monument marks the French annexation.", "Contains graves of early European settlers."],
     },
     imageHint: "Balade mission church New Caledonia",
+    descriptionAdvanced: {
+      de: "Balade ist ein historisch bedeutsamer Ort, an dem James Cook 1774 als erster Europäer Neukaledonien betrat. Im Jahr 1843 wurde hier die erste katholische Mission des Landes durch die Maristenpatres gegründet. Ein Denkmal erinnert heute an die Ankunft der Missionare und die erste dort gefeierte Messe. Die Region ist tief in der Geschichte der Begegnung zwischen Kanaken und Europäern verwurzelt.",
+      hu: "Balade történelmi jelentőségű hely, ahol James Cook 1774-ben első európaiként lépett Új-Kaledónia földjére. 1843-ban itt alapították az ország első katolikus misszióját a marista atyák. Egy emlékmű őrzi a misszionáriusok érkezésének és az első helyben tartott szentmise emlékét. A régió alapvető szerepet játszott a kanak nép és az európaiak közötti korai kapcsolatok kialakulásában.",
+      ro: "Balade este un loc de o importanță istorică majoră, fiind punctul unde James Cook a debarcat în 1774. În 1843, aici a fost înființată prima misiune catolică din țară de către părinții mariști. Un monument comemorează astăzi sosirea misionarilor și prima liturghie celebrată pe insulă. Regiunea este strâns legată de primele interacțiuni dintre poporul Kanak și europeni.",
+      en: "Balade is a site of immense historical significance, marking where James Cook first landed in 1774. In 1843, the first Catholic mission in New Caledonia was established here by Marist fathers. A monument now stands to commemorate the arrival of these missionaries and the first mass held on the island. The area is deeply rooted in the early history of encounters between the Kanak people and Europeans.",
+    },
+    factsAdvanced: {
+      de: ["James Cook landete hier am 4. September 1774", "Errichtung der ersten Mission im Dezember 1843", "Bau der Kirche Saint-Denis im Jahr 1890", "Ort der offiziellen Inbesitznahme durch Frankreich 1853", "Erstes Denkmal wurde im Jahr 1913 errichtet", "Beherbergt Gräber früher französischer Siedler"],
+      hu: ["James Cook 1774. szeptember 4-én kötött ki itt", "Az első missziót 1843 decemberében alapították", "A Szent Dénes-templom 1890-ben épült", "Franciaország 1853-ban itt vette hivatalosan birtokba a szigetet", "Az első emlékművet 1913-ban állították fel", "Korai francia telepesek sírjai találhatóak a környéken"],
+      ro: ["James Cook a debarcat aici pe 4 septembrie 1774", "Prima misiune a fost fondată în decembrie 1843", "Biserica Saint-Denis a fost construită în 1890", "Locul luării în posesie oficiale de către Franța în 1853", "Primul monument a fost ridicat în anul 1913", "Găzduiește mormintele primilor coloniști francezi"],
+      en: ["James Cook landed here on September 4, 1774", "The first mission was established in December 1843", "Saint-Denis Church was built in 1890", "Site of the official French annexation in 1853", "The first monument was erected in 1913", "Contains graves of early French settlers"],
+    },
   },
   {
     id: "newcaledonia-maison-celieres-history-v2",
@@ -114,6 +174,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Built in 1898.", "Represents the 'Faubourg Blanchot' style.", "Restored between 2006 and 2009.", "Features a typical colonial veranda garden."],
     },
     imageHint: "Maison Celieres colonial house Noumea",
+    descriptionAdvanced: {
+      de: "Die Maison Célières in Nouméa ist ein herausragendes Beispiel für die koloniale Architektur des späten 19. Jahrhunderts. Das 1898 erbaute Herrenhaus zeichnet sich durch seine Holzverzierungen und die umlaufende Veranda aus. Nach einer umfassenden Restaurierung dient es heute als Kulturzentrum und Sitz des Denkmalschutzvereins. Es repräsentiert das bürgerliche Leben der frühen Siedlerfamilien in der Hauptstadt.",
+      hu: "A nouméai Maison Célières a 19. század végi gyarmati építészet egyik kiemelkedő példája. Az 1898-ban épült kúriát díszes fafaragások és körbefutó veranda jellemzi. Egy átfogó restaurálást követően ma kulturális központként és a műemlékvédelmi egyesület székhelyeként működik. Az épület hűen tükrözi a korai telepes családok polgári életmódját a fővárosban.",
+      ro: "Maison Célières din Nouméa este un exemplu remarcabil de arhitectură colonială de la sfârșitul secolului al XIX-lea. Construită în 1898, conacul se distinge prin decorațiunile din lemn și veranda sa circulară. După o restaurare completă, astăzi servește drept centru cultural și sediu al asociației pentru patrimoniu. Reprezintă stilul de viață burghez al primelor familii de coloniști.",
+      en: "Maison Celieres in Nouméa is an outstanding example of late 19th-century colonial architecture. Built in 1898, the manor is characterized by its intricate woodwork and wraparound veranda. After extensive restoration, it now serves as a cultural center and the headquarters of a heritage preservation society. The house represents the bourgeois lifestyle of early settler families in the capital.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1898 für die Familie Célières", "Umfassende Restaurierung zwischen 2006 und 2009", "Liegt im historischen Viertel Faubourg Blanchot", "Architekturstil entspricht dem 'Maison de Colon'", "Einstufung als historisches Denkmal im Jahr 1989", "Beherbergt eine Fachbibliothek für Denkmalschutz"],
+      hu: ["1898-ban épült a Célières család számára", "Átfogó felújításon esett át 2006 és 2009 között", "A történelmi Faubourg Blanchot negyedben található", "Építészeti stílusa a tipikus 'Maison de Colon'", "1989-ben nyilvánították történelmi műemlékké", "Műemlékvédelmi szakkönyvtárnak ad otthont"],
+      ro: ["Construită în anul 1898 pentru familia Célières", "Restaurare amplă efectuată între 2006 și 2009", "Situată în cartierul istoric Faubourg Blanchot", "Stilul arhitectural este cel de 'Maison de Colon'", "Clasată ca monument istoric în anul 1989", "Găzduiește o bibliotecă specializată în patrimoniu"],
+      en: ["Built in 1898 for the Célières family", "Underwent extensive restoration between 2006 and 2009", "Located in the historic Faubourg Blanchot district", "Architectural style follows the 'Maison de Colon'", "Classified as a historic monument in 1989", "Houses a specialized library for heritage preservation"],
+    },
   },
   {
     id: "newcaledonia-bourail-nz-cemetery-history-v2",
@@ -133,6 +205,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Contains 246 graves of soldiers.", "A memorial honors 449 missing personnel.", "Maintained by the War Graves Commission.", "Established in 1943."],
     },
     imageHint: "Bourail New Zealand War Cemetery white crosses",
+    descriptionAdvanced: {
+      de: "Der neuseeländische Kriegsfriedhof in Bourail ist die letzte Ruhestätte für Soldaten, die während des Zweiten Weltkriegs im Pazifik fielen. Er wurde 1943 angelegt und beherbergt Hunderte von Gräbern neuseeländischer und alliierter Truppen. Die Anlage ist bekannt für ihre schlichte, würdevolle Gestaltung und ein Denkmal für die Vermissten. Jedes Jahr finden hier Gedenkfeiern zum Anzac Day statt.",
+      hu: "A bouraili új-zélandi katonai temető a második világháború csendes-óceáni hadszínterén elesett katonák végső nyughelye. 1943-ban alakították ki, és több száz új-zélandi, valamint szövetséges katona sírjának ad otthont. A terület puritán, méltóságteljes elrendezéséről és az eltűntek emlékművéről ismert. Minden évben itt tartják az Anzac-napi megemlékezéseket.",
+      ro: "Cimitirul de Război din Noua Zeelandă de la Bourail este locul de odihnă veșnică pentru soldații căzuți în Pacific în timpul celui de-al Doilea Război Mondial. Înființat în 1943, acesta adăpostește sute de morminte ale trupelor neozeelandeze și aliate. Complexul este cunoscut pentru designul său sobru și monumentul dedicat celor dispăruți. Anual au loc ceremonii de Anzac Day.",
+      en: "The Bourail New Zealand War Cemetery is the final resting place for soldiers who died in the Pacific theater during World War II. Established in 1943, it contains hundreds of graves of New Zealand and Allied personnel. The cemetery is known for its simple, dignified design and a memorial dedicated to those with no known grave. Anzac Day commemorations are held here annually.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt insgesamt 449 identifizierte Gräber", "Eröffnung des Friedhofs im Jahr 1943", "Denkmal listet 450 Namen vermisster Soldaten", "Verwaltet von der Commonwealth War Graves Commission", "Liegt an der Route Territoriale 1 nahe Bourail", "Einzige neuseeländische Kriegsgräberstätte im Land"],
+      hu: ["Összesen 449 azonosított sírt tartalmaz", "A temetőt 1943-ban nyitották meg", "Az emlékmű 450 eltűnt katona nevét sorolja fel", "A Brit Nemzetközösségi Hadisírgondozó Bizottság kezeli", "A Bourail közeli 1-es főút mellett található", "Az egyetlen új-zélandi katonai temető az országban"],
+      ro: ["Adăpostește un total de 449 de morminte identificate", "Cimitirul a fost deschis oficial în anul 1943", "Monumentul listează 450 de nume de soldați dispăruți", "Administrat de Commonwealth War Graves Commission", "Situat pe Route Territoriale 1, lângă Bourail", "Singurul cimitir de război neozeelandez din țară"],
+      en: ["Contains a total of 449 identified graves", "The cemetery was officially opened in 1943", "The memorial lists 450 names of missing personnel", "Maintained by the Commonwealth War Graves Commission", "Located along Route Territoriale 1 near Bourail", "The only New Zealand war cemetery in the country"],
+    },
   },
   {
     id: "newcaledonia-lapita-site-kone-history-v2",
@@ -152,6 +236,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Discovered in 1917.", "Name-giver for an entire culture.", "Features dentate-stamped pottery.", "Proves the early settlement of Oceania."],
     },
     imageHint: "Lapita pottery shards museum exhibit",
+    descriptionAdvanced: {
+      de: "Die archäologische Stätte von Lapita bei Koné ist der Namensgeber für die prähistorische Lapita-Kultur, die den Pazifik besiedelte. Hier wurden 1917 erstmals charakteristische Keramikscherben mit Punktmustern entdeckt. Diese Funde belegen eine menschliche Besiedlung Neukaledoniens, die etwa 3.000 Jahre zurückreicht. Die Stätte ist von fundamentaler Bedeutung für das Verständnis der ozeanischen Migration.",
+      hu: "A Koné melletti Lapita régészeti lelőhely az egész Csendes-óceánt benépesítő őskori Lapita-kultúra névadója. Itt fedezték fel 1917-ben az első jellegzetes, pontozott mintázatú cseréptöredékeket. Ezek a leletek bizonyítják, hogy Új-Kaledónia már körülbelül 3000 évvel ezelőtt lakott volt. A helyszín alapvető jelentőségű az óceániai népvándorlás megértésében.",
+      ro: "Situl arheologic Lapita de lângă Koné a dat numele culturii preistorice Lapita care a colonizat Pacificul. Aici au fost descoperite pentru prima dată în 1917 fragmente de ceramică decorate cu motive punctate specifice. Aceste descoperiri atestă prezența umană în Noua Caledonie de acum aproximativ 3.000 de ani. Situl este esențial pentru înțelegerea migrațiilor oceanice.",
+      en: "The Lapita archaeological site near Koné gave its name to the prehistoric Lapita culture that settled across the Pacific. It was here in 1917 that the first characteristic dentate-stamped pottery shards were discovered. These finds prove human habitation in New Caledonia dating back roughly 3,000 years. The site is fundamentally important for understanding the history of oceanic migration.",
+    },
+    factsAdvanced: {
+      de: ["Erste Entdeckung von Keramik durch Piroutet 1917", "Alter der Funde wird auf etwa 1.000 v. Chr. geschätzt", "Liegt am Strand von Foué nahe der Stadt Koné", "Gab einer ganzen Kulturperiode den Namen 'Lapita'", "Scherben weisen geometrische Punktmuster auf", "Wichtige Grabungen fanden im Jahr 1952 statt"],
+      hu: ["Piroutet fedezte fel az első kerámiákat 1917-ben", "A leletek korát i. e. 1000 környékére teszik", "A Koné melletti Foué-strandon található", "Egy egész kultúrtörténeti korszak névadója", "A cseréptöredékek geometrikus mintázatúak", "Jelentős ásatások zajlottak itt 1952-ben"],
+      ro: ["Prima descoperire de ceramică de către Piroutet în 1917", "Vechimea vestigiilor este estimată la circa 1.000 î.Hr.", "Situat pe plaja Foué, în apropiere de orașul Koné", "A dat numele întregii perioade culturale 'Lapita'", "Fragmentele prezintă modele geometrice punctate", "Săpături majore au avut loc în anul 1952"],
+      en: ["First pottery discovery by Piroutet in 1917", "Age of the finds is estimated at around 1,000 BC", "Located on Foué beach near the town of Koné", "Gave the name 'Lapita' to an entire cultural period", "Shards feature geometric dentate-stamped patterns", "Significant excavations took place in 1952"],
+    },
   },
   {
     id: "newcaledonia-chateau-hagen-history-v2",
@@ -171,6 +267,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Former residence of wealthy merchants.", "Surrounded by a two-hectare botanical garden.", "Owned by the province since 1998.", "Blends European and local architectural styles."],
     },
     imageHint: "Chateau Hagen Noumea historic building",
+    descriptionAdvanced: {
+      de: "Das Château Hagen in Nouméa ist ein elegantes Herrenhaus, das zwischen 1889 und 1892 im Kolonialstil erbaut wurde. Ursprünglich als Wohnsitz für einen Siedler errichtet, wechselte es mehrfach den Besitzer, bevor es von der Familie Hagen erworben wurde. Heute gehört es der Südprovinz und dient als Veranstaltungsort für Ausstellungen und Konzerte. Die umliegenden Gärten sind für ihre botanische Vielfalt bekannt.",
+      hu: "A nouméai Château Hagen egy elegáns kúria, amely 1889 és 1892 között épült gyarmati stílusban. Eredetileg egy telepes lakóhelyének szánták, majd többszöri tulajdonosváltás után került a Hagen családhoz. Jelenleg a déli tartomány tulajdona, és kiállításoknak, valamint koncerteknek ad otthont. A környező kertek híresek botanikai változatosságukról.",
+      ro: "Château Hagen din Nouméa este un conac elegant construit în stil colonial între 1889 și 1892. Ridicat inițial ca reședință pentru un colonist, a avut mai mulți proprietari înainte de a fi cumpărat de familia Hagen. Astăzi aparține Provinciei de Sud și servește ca spațiu pentru expoziții și concerte. Grădinile înconjurătoare sunt renumite pentru diversitatea botanică.",
+      en: "Chateau Hagen in Nouméa is an elegant manor house built in colonial style between 1889 and 1892. Originally constructed as a residence for a settler, it changed hands several times before being acquired by the Hagen family. Today, it is owned by the South Province and serves as a venue for exhibitions and concerts. The surrounding gardens are notable for their botanical variety.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit dauerte von 1889 bis 1892", "Kauf durch Jean Hagen im Jahr 1903", "Erwerb durch die Südprovinz im Jahr 1998", "Einstufung als historisches Denkmal seit 1991", "Liegt im Stadtteil Vallée des Colons", "Gartenanlage umfasst eine Fläche von zwei Hektar"],
+      hu: ["Az építkezés 1889-től 1892-ig tartott", "Jean Hagen 1903-ban vásárolta meg", "A déli tartomány 1998-ban vette tulajdonba", "1991 óta áll történelmi műemléki védelem alatt", "A Vallée des Colons negyedben található", "A kert területe eléri a két hektárt"],
+      ro: ["Construcția a durat din 1889 până în 1892", "Cumpărat de Jean Hagen în anul 1903", "Achiziționat de Provincia de Sud în 1998", "Clasat ca monument istoric din anul 1991", "Situat în cartierul Vallée des Colons", "Grădina se întinde pe o suprafață de două hectare"],
+      en: ["Construction took place from 1889 to 1892", "Purchased by Jean Hagen in 1903", "Acquired by the South Province in 1998", "Classified as a historic monument since 1991", "Located in the Vallée des Colons district", "The garden area covers two hectares"],
+    },
   },
   {
     id: "newcaledonia-bagnes-ile-des-pins-history-v2",
@@ -190,6 +298,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Interned over 3,000 Communards.", "Prisoners were deported here from 1872.", "Ruins are almost entirely covered by jungle.", "Located near the village of Vao."],
     },
     imageHint: "Isle of Pines prison ruins overgrown",
+    descriptionAdvanced: {
+      de: "Die Gefängnisruinen auf der Île des Pins zeugen von der dunklen Geschichte der Deportation politischer Gefangener nach 1872. Hier wurden Tausende von Teilnehmern der Pariser Kommune, die sogenannten Communards, inhaftiert. Die Überreste der Steinhäuser und des Wasserturms liegen heute verdeckt im dichten Wald. Sie sind ein mahnendes Denkmal für das Leid der Strafkolonie in Neukaledonien.",
+      hu: "A Fenyő-szigeten (Île des Pins) található börtönromok az 1872 utáni politikai deportálások sötét történetének tanúi. Ide börtönözték be a Párizsi Kommün több ezer résztvevőjét, az úgynevezett 'kommünárokat'. A kőépületek és a víztorony maradványai ma a sűrű erdő rejtekében állnak. A helyszín mementóként szolgál az új-kaledóniai büntetőtelepek szenvedéseire.",
+      ro: "Ruinele închisorii de pe Insula Pinilor depun mărturie despre istoria întunecată a deportărilor politice de după 1872. Aici au fost încarcerați mii de participanți la Comuna din Paris, cunoscuți sub numele de 'communards'. Rămășițele clădirilor de piatră și ale turnului de apă sunt astăzi ascunse în pădurea densă. Ele reprezintă un monument al suferințelor din colonia penitenciară.",
+      en: "The prison ruins on the Isle of Pines bear witness to the dark history of political deportation after 1872. Thousands of participants from the Paris Commune, known as 'Communards', were imprisoned here. The remains of the stone buildings and the water tower are now partially hidden within the dense forest. They serve as a solemn memorial to the suffering endured in New Caledonia's penal colonies.",
+    },
+    factsAdvanced: {
+      de: ["Ankunft der ersten Deportierten im Jahr 1872", "Mehr als 3.000 Communards wurden hier interniert", "Amnestie für die Gefangenen erfolgte im Jahr 1880", "Zentrales Gebäude war die 'fünfte Abteilung'", "Ein monumentaler Wasserturm ist noch erhalten", "Liegt in der Nähe der Ortschaft Ouro"],
+      hu: ["Az első deportáltak 1872-ben érkeztek", "Több mint 3000 kommünárt tartottak itt fogva", "A foglyok 1880-ban kaptak amnesztiát", "A központi épület az 'ötödik osztály' volt", "Egy hatalmas víztorony máig épségben maradt", "Ouro településének közelében található"],
+      ro: ["Sosirea primilor deportați în anul 1872", "Peste 3.000 de 'communards' au fost internați aici", "Amnistia deținuților a avut loc în anul 1880", "Clădirea centrală era 'secția a cincea'", "Un turn de apă monumental este încă vizibil", "Situată în apropierea localității Ouro"],
+      en: ["Arrival of the first deportees in 1872", "Over 3,000 Communards were internated here", "Amnesty for the prisoners was granted in 1880", "The main building was the 'fifth department'", "A monumental water tower is still standing", "Located near the village of Ouro"],
+    },
   },
   {
     id: "newcaledonia-biblio-bernheim-history-v2",
@@ -209,6 +329,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Donated by Lucien Bernheim.", "The pavilion was dismantled in Paris.", "Oldest public library on the island.", "Transported here by ship in 1900."],
     },
     imageHint: "Bernheim Library Noumea historic building",
+    descriptionAdvanced: {
+      de: "Die Bernheim-Bibliothek in Nouméa ist eine bedeutende kulturelle Institution, die in einem Pavillon der Pariser Weltausstellung von 1900 untergebracht ist. Benannt nach ihrem Stifter Lucien Bernheim, wurde sie 1905 offiziell eröffnet. Das Gebäude besticht durch seine filigrane Architektur und beherbergt eine umfangreiche Sammlung pazifischer Literatur. Sie ist ein Symbol für die Bildung und Geschichte Neukaledoniens.",
+      hu: "A nouméai Bernheim Könyvtár jelentős kulturális intézmény, amely az 1900-as párizsi világkiállítás egyik pavilonjában kapott helyet. Nevét Lucien Bernheim mecénásról kapta, és 1905-ben nyitotta meg kapuit. Az épület kecses építészeti megoldásaival tűnik ki, és a csendes-óceáni irodalom hatalmas gyűjteményét őrzi. A könyvtár Új-Kaledónia oktatásának és történelmének jelképe.",
+      ro: "Biblioteca Bernheim din Nouméa este o instituție culturală importantă, găzduită într-un pavilion de la Expoziția Universală de la Paris din 1900. Numită după donatorul său, Lucien Bernheim, a fost deschisă oficial în 1905. Clădirea impresionează prin arhitectura sa fină și adăpostește o colecție vastă de literatură din Pacific. Este un simbol al educației și istoriei Noii Caledonii.",
+      en: "The Bernheim Library in Nouméa is a prominent cultural institution housed in a pavilion from the 1900 Paris Universal Exposition. Named after its benefactor, Lucien Bernheim, it was officially opened in 1905. The building is noted for its delicate architecture and holds an extensive collection of Pacific literature. It stands as a symbol of education and history in New Caledonia.",
+    },
+    factsAdvanced: {
+      de: ["Pavillon wurde 1901 per Schiff aus Paris geliefert", "Offizielle Eröffnung fand im Jahr 1905 statt", "Gestiftet durch den Industriellen Lucien Bernheim", "Gebäude wurde 1982 unter Denkmalschutz gestellt", "Verfügt über seltene Manuskripte zur Kolonialzeit", "Liegt im Herzen des Stadtzentrums von Nouméa"],
+      hu: ["A pavilont 1901-ben hajóval hozták Párizsból", "A hivatalos megnyitó 1905-ben volt", "Lucien Bernheim iparmágnás adományozta", "Az épületet 1982-ben nyilvánították műemlékké", "Ritka gyarmati kori kéziratokat is őriznek itt", "Nouméa városközpontjának szívében található"],
+      ro: ["Pavilionul a fost adus cu vaporul de la Paris în 1901", "Inaugurarea oficială a avut loc în anul 1905", "Donată de industriașul Lucien Bernheim", "Clădirea a fost clasată monument istoric în 1982", "Deține manuscrise rare din epoca colonială", "Situată în inima centrului orașului Nouméa"],
+      en: ["The pavilion arrived by ship from Paris in 1901", "The official opening took place in 1905", "Donated by the industrialist Lucien Bernheim", "The building was classified as a monument in 1982", "Holds rare manuscripts from the colonial era", "Located in the heart of Nouméa's city center"],
+    },
   },
   {
     id: "newcaledonia-thio-mine-museum-history-v2",
@@ -228,6 +360,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Thio is the cradle of nickel mining.", "The museum building dates back to 1892.", "Displays old steam locomotives.", "Nickel was discovered here in 1874."],
     },
     imageHint: "Thio Mining Museum historical building",
+    descriptionAdvanced: {
+      de: "Das Bergbaumuseum in Thio dokumentiert die Geschichte des Nickelabbaus, der seit 1874 das wirtschaftliche Rückgrat Neukaledoniens bildet. Es ist im ehemaligen Direktionsgebäude des Bergbauunternehmens SLN untergebracht. Die Ausstellungen zeigen historische Maschinen, Werkzeuge und Fotos aus der Pionierzeit des Bergbaus. Thio gilt als die 'Wiege des Nickels' und hat die Entwicklung des Landes entscheidend geprägt.",
+      hu: "A thioi bányászati múzeum a nikkelbányászat történetét mutatja be, amely 1874 óta Új-Kaledónia gazdasági gerincét adja. Az épület egykor az SLN bányavállalat igazgatósági központja volt. A kiállításokon történelmi gépek, szerszámok és a bányászat úttörő korszakából származó fotók láthatóak. Thio a 'nikkel bölcsőjeként' ismert, és meghatározó szerepet játszott az ország fejlődésében.",
+      ro: "Muzeul Minier din Thio documentează istoria extracției nichelului, care constituie coloana vertebrală a economiei Noii Caledonii din 1874. Este găzduit în fosta clădire a direcțiunii companiei miniere SLN. Expozițiile prezintă utilaje istorice, unelte și fotografii din perioada de pionierat a minieritului. Thio este considerat 'leagănul nichelului' și a marcat decisiv evoluția țării.",
+      en: "The Mining Museum in Thio chronicles the history of nickel extraction, which has been the backbone of New Caledonia's economy since 1874. It is housed in the former director's residence of the SLN mining company. The exhibits display historical machinery, tools, and photographs from the pioneering era of mining. Thio is often called the 'cradle of nickel' and played a crucial role in the country's development.",
+    },
+    factsAdvanced: {
+      de: ["Nickel wurde erstmals 1874 in Thio abgebaut", "Das Museumsgebäude stammt aus dem Jahr 1890", "Thio war der erste moderne Industriestandort", "Museum wurde im Jahr 1982 eingeweiht", "Zeigt Dampflokomotiven des alten Erztransports", "Einstige SLN-Direktion ist heute Kulturdenkmal"],
+      hu: ["A nikkelt először 1874-ben bányászták Thióban", "A múzeumnak helyet adó épület 1890-ben készült", "Thio volt az első modern ipari központ", "A múzeumot 1982-ben avatták fel", "Régi ércszállító gőzmozdonyokat is bemutatnak", "Az egykori SLN-központ ma kulturális műemlék"],
+      ro: ["Nichelul a fost extras prima dată în Thio în 1874", "Clădirea muzeului datează din anul 1890", "Thio a fost primul sit industrial modern", "Muzeul a fost inaugurat în anul 1982", "Expune locomotive cu abur folosite la transportul orei", "Fosta direcțiune SLN este acum monument cultural"],
+      en: ["Nickel was first mined in Thio in 1874", "The museum building dates back to 1890", "Thio was the first modern industrial site", "The museum was inaugurated in 1982", "Displays steam locomotives used for ore transport", "The former SLN directorate is now a cultural monument"],
+    },
   },
   {
     id: "newcaledonia-poya-petroglyphs-history-v2",
@@ -247,6 +391,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Estimated to be about 3,000 years old.", "Over 300 symbols have been cataloged.", "Mostly circular and spiral motifs.", "Key to understanding Kanak oral history."],
     },
     imageHint: "Ancient rock carvings petroglyphs Poya",
+    descriptionAdvanced: {
+      de: "Die Petroglyphen von Poya sind antike Felsritzungen, die zu den bedeutendsten Beispielen indigener Kunst in Neukaledonien gehören. Die in den harten Stein gemeißelten Symbole zeigen abstrakte Formen, Kreuze und menschliche Figuren. Ihr genaues Alter ist unbekannt, aber sie spiegeln die spirituelle Welt der frühen Kanak-Kultur wider. Diese archäologische Stätte bietet einen wertvollen Zugang zum präkolonialen Erbe des Pazifiks.",
+      hu: "A poyai sziklarajzok (petroglifák) az őslakos művészet legjelentősebb példái közé tartoznak Új-Kaledóniában. A kemény sziklába vésett szimbólumok absztrakt formákat, kereszteket és emberi alakokat ábrázolnak. Pontos koruk nem ismert, de a korai kanak kultúra spirituális világát tükrözik. Ez a régészeti lelőhely értékes betekintést nyújt a Csendes-óceán gyarmatosítás előtti örökségébe.",
+      ro: "Petroglifele de la Poya sunt gravuri rupestre antice care se numără printre cele mai importante exemple de artă indigenă din Noua Caledonie. Simbolurile dăltuite în stânca dură înfățișează forme abstracte, cruci și figuri umane. Vârsta lor exactă este necunoscută, dar reflectă universul spiritual al culturii Kanak timpurii. Situl oferă o perspectivă valoroasă asupra moștenirii precoloniale.",
+      en: "The Poya petroglyphs are ancient rock carvings that rank among the most significant examples of indigenous art in New Caledonia. Carved into hard stone, the symbols depict abstract shapes, crosses, and human figures. Their exact age remains unknown, but they reflect the spiritual world of early Kanak culture. This archaeological site provides valuable insight into the pre-colonial heritage of the Pacific.",
+    },
+    factsAdvanced: {
+      de: ["Über 100 verschiedene Symbole wurden gezählt", "Häufigstes Motiv ist das Sonnenrad-Kreuz", "Felsritzungen wurden mit Steinwerkzeugen gefertigt", "Lage in geschützten Tälern der Poya-Region", "Einstufung als schützenswertes Kulturgut", "Teil eines Netzwerks von über 300 Fundorten"],
+      hu: ["Több mint 100 különböző szimbólumot találtak", "A leggyakoribb motívum a napkerék-kereszt", "A sziklarajzok kőeszközökkel készültek", "Poya régió védett völgyeiben találhatóak", "Védett kulturális örökségként tartják számon", "Több mint 300 lelőhelyből álló hálózat része"],
+      ro: ["Peste 100 de simboluri diferite au fost numărate", "Cel mai frecvent motiv este crucea solară", "Gravurile au fost realizate cu unelte de piatră", "Situate în văile protejate din regiunea Poya", "Clasate ca bunuri culturale de interes major", "Parte dintr-o rețea de peste 300 de situri rupestre"],
+      en: ["Over 100 different symbols have been documented", "The most common motif is the sun-wheel cross", "The carvings were made using stone tools", "Located in the sheltered valleys of the Poya region", "Classified as a cultural heritage site of high interest", "Part of a network of over 300 sites across the land"],
+    },
   },
   {
     id: "newcaledonia-oubatche-historic-site-history-v2",
@@ -266,6 +422,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Center for early gold mining activities.", "Once had a customs office and hotels.", "Port declined after mines were exhausted.", "Located in a wild and scenic landscape."],
     },
     imageHint: "Oubatche ruins New Caledonia coast",
+    descriptionAdvanced: {
+      de: "Die historische Stätte Oubatche im Norden von Neukaledonien war im 19. Jahrhundert ein wichtiger Verwaltungs- und Militärposten. Während der kolonialen Expansion diente sie als Stützpunkt zur Kontrolle der Region und zum Handel mit den Kanaken. Heute sind nur noch wenige Ruinen und Gräber erhalten, die von der einstigen Bedeutung zeugen. Der Ort ist ein stilles Denkmal für die oft konfliktreiche Kolonialgeschichte des hohen Nordens.",
+      hu: "Az Új-Kaledónia északi részén található Oubatche történelmi helyszíne a 19. században fontos közigazgatási és katonai állomás volt. A gyarmati terjeszkedés során bázisként szolgált a régió ellenőrzéséhez és a kanakokkal való kereskedelemhez. Ma már csak néhány rom és sír emlékeztet az egykori jelentőségére. A helyszín néma mementója az északi területek gyakran konfliktusokkal teli gyarmati múltjának.",
+      ro: "Situl istoric Oubatche din nordul Noii Caledonii a fost un important post administrativ și militar în secolul al XIX-lea. În timpul expansiunii coloniale, a servit drept bază pentru controlul regiunii și comerțul cu populația Kanak. Astăzi, doar câteva ruine și morminte mai depun mărturie despre importanța sa de odinioară. Locul este un monument tăcut al istoriei coloniale adesea conflictuale din nord.",
+      en: "The Oubatche historic site in northern New Caledonia was a significant administrative and military outpost during the 19th century. During colonial expansion, it served as a strategic base for regional control and trade with the Kanak people. Today, only a few ruins and graves remain to tell of its former importance. The site stands as a quiet memorial to the often-conflicted colonial history of the far north.",
+    },
+    factsAdvanced: {
+      de: ["Gründung des Postens in den 1880er Jahren", "Diente als Telegrafenstation für den Norden", "Wichtiger Hafen für den frühen Gold- und Kupferbergbau", "Garnison war während Kanaken-Aufständen aktiv", "Ruinen einer alten Gendarmerie sind sichtbar", "Friedhof beherbergt Gräber aus der Zeit um 1890"],
+      hu: ["Az állomást az 1880-as években alapították", "Távíróállomásként is szolgált az északi részen", "Fontos kikötő volt a korai arany- és rézbányászathoz", "A helyőrség aktív volt a kanak felkelések idején", "Egy régi csendőrség romjai ma is láthatóak", "A temetőben 1890 környékéről származó sírok vannak"],
+      ro: ["Înființarea postului în anii 1880", "A servit drept stație de telegraf pentru nord", "Port important pentru exploatările timpurii de aur", "Garnizoana a fost activă în timpul răscoalelor Kanak", "Ruinele unei vechi jandarmerii sunt vizibile", "Cimitirul adăpostește morminte din jurul anului 1890"],
+      en: ["Establishment of the outpost in the 1880s", "Served as a telegraph station for the north", "Key port for early gold and copper mining", "The garrison was active during Kanak uprisings", "Ruins of an old gendarmerie are still visible", "The cemetery contains graves from around 1890"],
+    },
   },
   {
     id: "newcaledonia-arab-cemetery-nessadiou-history-v2",
@@ -285,6 +453,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["First deportees arrived in 1873.", "Algerians participated in the 1871 revolt.", "Features traditional Muslim graves.", "Includes a small museum on-site."],
     },
     imageHint: "Nessadiou Arab cemetery headstones",
+    descriptionAdvanced: {
+      de: "Der arabische Friedhof von Nessadiou bei Bourail ist das Zentrum der algerischen Gemeinschaft in Neukaledonien. Hier ruhen die Nachkommen von über 2.000 Exilierten, die nach dem Aufstand von 1871 aus Algerien deportiert wurden. Der Friedhof mit seiner kleinen Moschee ist ein Ort des Gebets und der Erinnerung an die Geschichte des Exils. Er bewahrt die kulturelle Identität der maghrebinischen Siedler über Generationen hinweg.",
+      hu: "A Bourail melletti Nessadiou arab temetője az új-kaledóniai algériai közösség központja. Itt nyugszanak az 1871-es felkelés után Algériából deportált több mint 2000 száműzött leszármazottai. A temető a kis mecsettel az ima és a száműzetés történelmére való emlékezés helyszíne. Az emlékhely nemzedékeken át őrzi a maghrebi telepesek kulturális identitását.",
+      ro: "Cimitirul arab de la Nessadiou, lângă Bourail, este centrul comunității algeriene din Noua Caledonie. Aici odihnesc urmașii celor peste 2.000 de exilați deportați din Algeria după revolta din 1871. Cimitirul, împreună cu mica sa moschee, este un loc de rugăciune și de comemorare a istoriei exilului. Acesta păstrează identitatea culturală a coloniștilor maghrebieni de generații.",
+      en: "The Arab Cemetery of Nessadiou near Bourail is the spiritual heart of the Algerian community in New Caledonia. It is the final resting place for the descendants of over 2,000 exiles deported from Algeria following the 1871 uprising. The cemetery, featuring a small mosque, serves as a site for prayer and reflection on the history of exile. It preserves the cultural identity of Maghrebi settlers across generations.",
+    },
+    factsAdvanced: {
+      de: ["Erste Deportierte aus Algerien kamen 1873 an", "Die Moschee wurde im Jahr 1998 eingeweiht", "Algerier wurden oft in der Landwirtschaft eingesetzt", "Friedhof liegt im Tal von Nessadiou", "Ort der jährlichen Gedenkfeiern der Gemeinschaft", "Beherbergt über 100 traditionelle Grabstätten"],
+      hu: ["Az első algériai deportáltak 1873-ban érkeztek", "A mecsetet 1998-ban szentelték fel", "Az algériaiakat gyakran a mezőgazdaságban dolgoztatták", "A temető a Nessadiou-völgyben található", "A közösség éves megemlékezéseinek helyszíne", "Több mint 100 hagyományos sírhelyet tartalmaz"],
+      ro: ["Primii deportați din Algeria au sosit în 1873", "Moscheea a fost inaugurată în anul 1998", "Algerienii au fost adesea folosiți în agricultură", "Cimitirul este situat în valea Nessadiou", "Locul ceremoniilor anuale de comemorare", "Adăpostește peste 100 de morminte tradiționale"],
+      en: ["First deportees from Algeria arrived in 1873", "The mosque was inaugurated in 1998", "Algerians were often employed in agriculture", "The cemetery is located in the Nessadiou valley", "Site of annual community commemorations", "Contains over 100 traditional burial sites"],
+    },
   },
   {
     id: "newcaledonia-fort-anse-vata-history-v2",
@@ -304,6 +484,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Served as a base during WWII.", "Strategic point overlooking the ocean.", "Officially completed in 1894.", "Some cannons are still preserved on site."],
     },
     imageHint: "Fort Anse Vata old cannons sea view",
+    descriptionAdvanced: {
+      de: "Die Küstenbefestigung von Anse Vata, insbesondere die Batterie am Ouen Toro, spielte eine strategische Rolle bei der Verteidigung von Nouméa. Ende des 19. Jahrhunderts errichtet, wurde die Anlage während des Zweiten Weltkriegs von US-Truppen modernisiert. Zwei markante 140-mm-Kanonen sind bis heute auf dem Hügel erhalten geblieben. Der Ort verbindet Militärgeschichte mit einem beeindruckenden Panoramablick über die Lagune und die Stadt.",
+      hu: "Az Anse Vata partmenti erődrendszere, különösen az Ouen Toro dombon található üteg, stratégiai szerepet játszott Nouméa védelmében. A 19. század végén épült létesítményt a második világháború alatt az amerikai csapatok modernizálták. Két jellegzetes 140 mm-es ágyú máig látható a dombtetőn. A helyszín a hadtörténelmet ötvözi a lagúnára és a városra nyíló lenyűgöző panorámával.",
+      ro: "Fortificația de coastă de la Anse Vata, în special bateria de pe Ouen Toro, a jucat un rol strategic în apărarea orașului Nouméa. Construită la sfârșitul secolului al XIX-lea, baza a fost modernizată de trupele americane în timpul celui de-al Doilea Război Mondial. Două tunuri distinctive de 140 mm sunt conservate și astăzi pe deal. Locul îmbină istoria militară cu o panoramă spectaculoasă asupra lagunei.",
+      en: "The coastal fortifications of Anse Vata, specifically the battery at Ouen Toro, played a strategic role in the defense of Nouméa. Established in the late 19th century, the site was modernized by US troops during World War II. Two distinctive 140mm naval guns remain preserved on the hilltop today. The site combines military history with impressive panoramic views over the lagoon and the city.",
+    },
+    factsAdvanced: {
+      de: ["Erste Befestigungen stammen aus dem Jahr 1890", "Amerikaner installierten 1940 neue Geschütze", "Die Kanonen haben ein Kaliber von 140 mm", "Diente der Überwachung des Bulari-Passes", "Höchster Punkt liegt 128 Meter über dem Meer", "Umfassende Restaurierung der Kanonen im Jahr 1991"],
+      hu: ["Az első erődítmények 1890-ből származnak", "Az amerikaiak 1940-ben telepítettek új ágyúkat", "Az ágyúk kalibere 140 mm", "A Bulari-átjáró ellenőrzésére szolgált", "Legmagasabb pontja 128 méterrel van a tengerszint felett", "Az ágyúkat 1991-ben teljeskörűen restaurálták"],
+      ro: ["Primele fortificații datează din anul 1890", "Americanii au instalat tunuri noi în 1940", "Tunurile au un calibru de 140 mm", "A servit la supravegherea pasului Bulari", "Punctul maxim este la 128 metri deasupra mării", "Restaurarea completă a tunurilor în anul 1991"],
+      en: ["First fortifications date back to 1890", "Americans installed new guns in 1940", "The cannons have a caliber of 140 mm", "Served to monitor the Bulari Pass", "The highest point is 128 meters above sea level", "Extensive restoration of the guns in 1991"],
+    },
   },
   {
     id: "newcaledonia-puebo-mission-history-v2",
@@ -323,6 +515,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["First permanent church built in 1860.", "Center of resistance against annexation.", "Houses the grave of Bishop Douarre.", "Important pilgrimage site for local Christians."],
     },
     imageHint: "Pouebo historic mission church",
+    descriptionAdvanced: {
+      de: "Die Pouébo-Mission wurde 1847 von maristischen Missionaren gegründet und markiert den Beginn der katholischen Präsenz in Neukaledonien. Hier wurde die erste Messe auf dem Festland gefeiert, was den Ort zu einem zentralen Punkt der christlichen Missionsgeschichte macht. Die Architektur spiegelt den Einfluss der europäischen Ordensgemeinschaften im 19. Jahrhundert wider.",
+      hu: "A Pouébo missziót 1847-ben alapították marista misszionáriusok, kijelölve a katolikus vallás megérkezését Új-Kaledónia főszigetére. Itt mutatták be az első szentmisét a szárazföldön, ami meghatározó vallástörténeti esemény volt. A misszió épületei a 19. századi európai szerzetesi építészet stílusjegyeit hordozzák a csendes-óceáni környezetben.",
+      ro: "Misiunea Pouébo a fost fondată în 1847 de misionari mariști, marcând începutul prezenței catolice în Noua Caledonie. Aici a fost celebrată prima liturghie pe insula principală, transformând locul într-un punct central al istoriei religioase. Arhitectura ansamblului reflectă influența ordinelor europene din secolul al XIX-lea în contextul Pacificului.",
+      en: "The Pouébo Mission was founded in 1847 by Marist missionaries, marking the formal start of the Catholic presence in New Caledonia. It was the site of the first mass celebrated on the mainland, making it a pivotal location in regional religious history. The mission buildings exemplify 19th-century European ecclesiastical architecture adapted to the Pacific.",
+    },
+    factsAdvanced: {
+      de: ["Gründung der Mission im Jahr 1847 durch Maristen-Patres.", "Ort der ersten katholischen Messe auf Grande Terre.", "Der Häuptling Hippolyte wurde 1847 als einer der ersten getauft.", "Die Steinkirche wurde zwischen 1872 und 1876 erbaut.", "Beherbergt das Grab von Bischof Guillaume Douarre.", "Die Mission war ein Zentrum für Landwirtschaft und Handwerk."],
+      hu: ["A missziót 1847-ben alapították marista szerzetesek.", "Itt tartották az első katolikus misét Grande Terre szigetén.", "Hippolyte törzsfőnök 1847-ben vette fel a keresztséget.", "A kőtemplom építése 1872 és 1876 között zajlott.", "Itt található Guillaume Douarre püspök sírhelye.", "A misszió fontos mezőgazdasági oktatóközpontként is működött."],
+      ro: ["Misiunea a fost înființată în 1847 de către părinții mariști.", "Locul primei liturghii catolice de pe insula Grande Terre.", "Șeful de trib Hippolyte a fost botezat aici în anul 1847.", "Biserica de piatră a fost construită între anii 1872 și 1876.", "Găzduiește mormântul episcopului Guillaume Douarre.", "Misiunea a servit drept centru pentru agricultură și meșteșuguri."],
+      en: ["Founded in 1847 by Marist missionary fathers.", "Site of the first Catholic mass on the New Caledonian mainland.", "Local chief Hippolyte was baptized here in 1847.", "The stone church was constructed between 1872 and 1876.", "Contains the tomb of Bishop Guillaume Douarre.", "The mission operated as a center for agriculture and crafts."],
+    },
   },
   {
     id: "newcaledonia-anse-du-tir-history-v2",
@@ -342,6 +546,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["First convict workshops were located here.", "Gateway to the island's industrialization.", "Named after an old shooting range.", "Center for early metalwork industries."],
     },
     imageHint: "Anse du Tir Noumea old industrial port area",
+    descriptionAdvanced: {
+      de: "Das Viertel Anse du Tir in Nouméa hat eine bedeutende industrielle und maritime Vergangenheit. Ursprünglich als Standort für Schießübungen genutzt, entwickelte es sich zu einem Knotenpunkt für Hafenaktivitäten und frühe Fabriken. Die Geschichte des Viertels ist eng mit der Expansion der Stadt und der Ansiedlung von Arbeitsmigranten im späten 19. Jahrhundert verknüpft.",
+      hu: "Nouméa Anse du Tir negyede jelentős ipari és kikötői múlttal rendelkezik. Eredetileg lőgyakorlatok helyszíne volt, majd a város növekedésével raktárak és korai gyárak központjává vált. A terület fejlődése szorosan összefügg a 19. század végi városi terjeszkedéssel és a külföldi munkások letelepedésével.",
+      ro: "Cartierul Anse du Tir din Nouméa are un trecut industrial și maritim semnificativ. Utilizat inițial pentru exerciții de tir, zona s-a dezvoltat într-un hub pentru activități portuare și primele fabrici. Istoria cartierului este strâns legată de expansiunea orașului și de stabilirea lucrătorilor migranți la sfârșitul secolului al XIX-lea.",
+      en: "The Anse du Tir district in Nouméa possesses a significant industrial and maritime heritage. Originally used for shooting practice, it evolved into a hub for port activities and early manufacturing plants. The district's development is closely linked to the city's late 19th-century expansion and the settlement of immigrant laborers.",
+    },
+    factsAdvanced: {
+      de: ["Name leitet sich von Schießübungen ('Tir') der Marine ab.", "Erster Standort der Nickelhütte im Jahr 1878.", "Beherbergte im 19. Jahrhundert Werkstätten der Strafkolonie.", "Wichtiger Anlegepunkt für Frachtschiffe vor dem Hafenausbau.", "Sitz der ersten Stromerzeugungsanlagen der Stadt.", "Das Viertel wurde ab 1860 systematisch erschlossen."],
+      hu: ["A neve a haditengerészeti lőgyakorlatokból (tir) ered.", "1878-ban itt állt az első nikkelkohó a területen.", "A 19. században itt működtek a fegyenctelep műhelyei.", "A kikötő bővítése előtt a teherhajók fontos rakodóhelye volt.", "Itt helyezték üzembe a város első áramfejlesztőit.", "A negyed szisztematikus beépítése 1860-ban kezdődött."],
+      ro: ["Numele provine de la exercițiile de tragere (tir) ale marinei.", "Locul primei topitorii de nichel înființate în 1878.", "A găzduit atelierele coloniei penitenciare în secolul al XIX-lea.", "Punct important de acostare înainte de extinderea portului.", "Sediul primelor instalații de generare a energiei din oraș.", "Dezvoltarea sistematică a cartierului a început în 1860."],
+      en: ["Named after naval shooting practice (tir) held in the area.", "Site of the first nickel smelter established in 1878.", "Housed penal colony workshops during the 19th century.", "Primary landing point for cargo ships before port modernization.", "Location of the city's first electricity generating plants.", "Systematic urban planning of the district began in 1860."],
+    },
   },
   {
     id: "newcaledonia-semaphore-noumea-history-v2",
@@ -361,6 +577,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Built in 1888.", "Controlled the entry to the harbor.", "Offers a 360-degree view of the lagoon.", "Now used as a meteorological station."],
     },
     imageHint: "Semaphore tower Noumea on hill",
+    descriptionAdvanced: {
+      de: "Das Semaphor von Nouméa auf dem Ouen Toro-Hügel diente über Jahrzehnte als wichtigster Kommunikationsposten für den Schiffsverkehr. Erbaut im späten 19. Jahrhundert, ermöglichte es die Überwachung der Lagune und die Signalisierung ankommender Schiffe. Heute zeugen die Überreste von der strategischen Bedeutung der Stadt als französischer Marinestützpunkt im Pazifik.",
+      hu: "A Nouméa-i szemafor az Ouen Toro dombon évtizedekig a hajóforgalom legfontosabb kommunikációs pontjaként szolgált. A 19. század végén épült állomás lehetővé tette a lagúna megfigyelését és az érkező hajók jelzését. Ma a maradványok a város mint francia csendes-óceáni haditengerészeti bázis stratégiai jelentőségéről tanúskodnak.",
+      ro: "Semaforul din Nouméa, situat pe dealul Ouen Toro, a servit timp de decenii ca principal punct de comunicare pentru traficul maritim. Construit la sfârșitul secolului al XIX-lea, acesta permitea supravegherea lagunei și semnalizarea navelor sosite. Astăzi, vestigiile atestă importanța strategică a orașului ca bază navală franceză în Pacific.",
+      en: "The Semaphore of Nouméa, located atop Ouen Toro hill, served for decades as the primary communication post for maritime traffic. Built in the late 19th century, it enabled monitoring of the lagoon and signaling to approaching vessels. Today, the remains testify to the city's strategic importance as a French naval base in the Pacific.",
+    },
+    factsAdvanced: {
+      de: ["Errichtung des ersten Semaphors im Jahr 1883.", "Diente zur Übermittlung von Nachrichten mittels Flaggenalphabet.", "Strategische Position 128 Meter über dem Meeresspiegel.", "Während des Zweiten Weltkriegs von US-Truppen genutzt.", "Wurde 1970 durch modernere Funktechnik ersetzt.", "Teil eines Netzwerks von Küstenwachen im Territorium."],
+      hu: ["Az első szemafor 1883-ban épült fel.", "Zászlójelek segítségével továbbított üzeneteket a hajóknak.", "Stratégiai helyzete 128 méterrel a tengerszint felett van.", "A második világháború alatt amerikai csapatok használták.", "1970-ben váltotta fel a modern rádiótechnika.", "A terület parti őrségi hálózatának szerves része volt."],
+      ro: ["Primul semafor a fost ridicat în anul 1883.", "Utilizat pentru transmiterea mesajelor prin alfabetul cu steaguri.", "Poziție strategică la 128 de metri deasupra nivelului mării.", "Folosit de trupele americane în timpul celui de-al Doilea Război Mondial.", "Înlocuit de tehnologia radio modernă în anul 1970.", "Parte a unei rețele de posturi de coastă din teritoriu."],
+      en: ["First semaphore structure erected in 1883.", "Used for transmitting messages using the flag semaphore system.", "Strategically positioned at 128 meters above sea level.", "Utilized by US forces during World War II for surveillance.", "Replaced by modern radio technology in 1970.", "Part of a broader coastal observation network in the territory."],
+    },
   },
   {
     id: "newcaledonia-vaillon-dore-estates-history-v2",
@@ -380,6 +608,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Center for early vanilla production.", "Many Creole-style colonial houses.", "First plantations established around 1870.", "Scenic coastal location with lush gardens."],
     },
     imageHint: "Vallon Dore historic colonial house garden",
+    descriptionAdvanced: {
+      de: "Die historischen Anwesen von Vallon-Dore südlich von Nouméa repräsentieren die Ära der kolonialen Landwirtschaft und des frühen Bergbaus. Im 19. Jahrhundert wurden hier weitläufige Farmen und Minenbetriebe errichtet, die die Wirtschaft der Region prägten. Die Architektur der Herrenhäuser zeugt vom Wohlstand der Siedlerfamilien, die das Land für die Rinderzucht und den Nickelabbau nutzten.",
+      hu: "A Nouméától délre fekvő Vallon-Dore történelmi birtokai a gyarmati mezőgazdaság és a korai bányászat korszakát idézik. A 19. században itt alapított nagyüzemi farmok és bányák meghatározták a régió gazdaságát. Az udvarházak építészete a marhatenyésztéssel és nikkelbányászattal foglalkozó telepes családok egykori jólétéről árulkodik.",
+      ro: "Domeniile istorice de la Vallon-Dore, situate la sud de Nouméa, reprezintă epoca agriculturii coloniale și a mineritului timpuriu. În secolul al XIX-lea, aici au fost înființate ferme vaste și exploatări miniere care au modelat economia regiunii. Arhitectura conacelor atestă prosperitatea familiilor de coloniști care au utilizat terenul pentru creșterea vitelor și extracția de nichel.",
+      en: "The historic estates of Vallon-Dore, south of Nouméa, represent the era of colonial agriculture and early mining. In the 19th century, extensive farms and mining operations were established here, shaping the region's economy. The architecture of the manor houses reflects the wealth of settler families who utilized the land for cattle ranching and nickel extraction.",
+    },
+    factsAdvanced: {
+      de: ["Erschließung des Gebiets durch Siedler ab ca. 1860.", "Bedeutendes Zentrum für die Rinderzucht im 19. Jahrhundert.", "Standort früher Nickelminen in den umliegenden Hügeln.", "Die Anwesen nutzten oft Sträflingsarbeit aus der nahen Kolonie.", "Bekannt für die Produktion von Zuckerrohr in den Tälern.", "Erhalt einiger originaler Steingebäude aus der Pionierzeit."],
+      hu: ["A terület benépesítése 1860 körül kezdődött meg.", "A 19. században a marhatenyésztés egyik központja volt.", "A környező dombokon korai nikkelbányák működtek.", "A birtokokon gyakran alkalmaztak fegyencmunkát.", "A völgyekben egykor cukornádat is termesztettek.", "Több eredeti, kőből épült udvarház máig fennmaradt."],
+      ro: ["Colonizarea zonei de către coloniști a început în jurul anului 1860.", "Centru important pentru creșterea bovinelor în secolul al XIX-lea.", "Locația unor mine de nichel timpurii în dealurile din jur.", "Proprietățile foloseau adesea munca condamnaților din colonie.", "Zonă cunoscută pentru producția de trestie de zahár în văi.", "Păstrarea unor clădiri originale din piatră din epoca pionieratului."],
+      en: ["Settlers began developing the area around 1860.", "Key center for cattle ranching during the 19th century.", "Location of early nickel mines in the surrounding hills.", "Estates frequently utilized convict labor from the nearby colony.", "Known for sugarcane production in the lower valleys.", "Several original stone buildings from the pioneer era remain."],
+    },
   },
   {
     id: "newcaledonia-paita-pioneers-history-v2",
@@ -399,6 +639,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Center of cattle trade on the island.", "First church was consecrated in 1866.", "Famous for the annual Beef Festival.", "Home to a village of mining descendants."],
     },
     imageHint: "Paita historic village New Caledonia",
+    descriptionAdvanced: {
+      de: "Der Pionierdistrikt Païta ist eng mit der Geschichte der europäischen Besiedlung und der Entwicklung der Landwirtschaft verbunden. Im späten 19. Jahrhundert ließen sich hier Familien aus Frankreich und anderen Ländern nieder, um Zuckerrohr anzubauen und Viehzucht zu betreiben. Das kulturelle Erbe des Distrikts spiegelt sich in den jährlichen Festen und den historischen Farmgebäuden wider.",
+      hu: "Païta úttörő körzete szorosan összefügg az európai betelepüléssel és a mezőgazdaság fejlődésével. A 19. század végén francia és más nemzetiségű családok telepedtek le itt, hogy cukornádat termesszenek és állattenyésztéssel foglalkozzanak. A körzet kulturális örökségét az éves fesztiválok és a megmaradt történelmi gazdasági épületek őrizik.",
+      ro: "Districtul pionier Païta este strâns legat de istoria colonizării europene și de dezvoltarea agriculturii. La sfârșitul secolului al XIX-lea, familii din Franța și din alte țări s-au stabilit aici pentru a cultiva trestie de zahár și pentru a crește vite. Moștenirea culturală a districtului se reflectă în festivalurile anuale și în clădirile istorice ale fermelor.",
+      en: "The Païta pioneer district is closely linked to the history of European settlement and agricultural development. In the late 19th century, families from France and elsewhere settled here to cultivate sugarcane and raise livestock. The district's cultural heritage is preserved through annual festivals and remaining historic farm structures.",
+    },
+    factsAdvanced: {
+      de: ["Gründung der Gemeinde Païta im Jahr 1870.", "Erste Zuckerrohrplantagen wurden um 1860 angelegt.", "Païta war Endstation der ersten Eisenbahnlinie (1914).", "Starke Präsenz von Siedlern aus dem Elsass und Lothringen.", "Jährliches 'Fête du Bœuf' feiert die Pionier-Tradition.", "Beherbergt die historische Villa 'Paddock'."],
+      hu: ["Païta községet 1870-ben alapították.", "Az első cukornádültetvényeket 1860 körül hozták létre.", "Itt volt az első vasútvonal végállomása 1914-ben.", "Sok telepes érkezett Elzász és Lotaringia vidékéről.", "Az évente megrendezett 'Fête du Bœuf' az úttörő hagyományokat őrzi.", "Itt található a történelmi 'Paddock' villa."],
+      ro: ["Comuna Païta a fost înființată în anul 1870.", "Primele plantații de trestie de zahăr au fost create în jurul anului 1860.", "Païta a fost punctul terminus al primei linii ferate în 1914.", "Prezență puternică a coloniștilor din Alsacia și Lorena.", "Festivalul anual 'Fête du Bœuf' celebrează tradiția pionierilor.", "Găzduiește vila istorică numită 'Paddock'."],
+      en: ["The municipality of Païta was established in 1870.", "First sugarcane plantations were established around 1860.", "Païta served as the terminus for the first railway line in 1914.", "Significant number of settlers arrived from Alsace and Lorraine.", "The annual 'Fête du Bœuf' celebrates pioneer ranching traditions.", "Home to the historic 'Paddock' villa architecture."],
+    },
   },
   {
     id: "newcaledonia-dumbea-dam-history-v2",
@@ -418,6 +670,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["First water pipeline completed in 1892.", "Built under very challenging conditions.", "Supplied the growing city of Nouméa.", "Remains of old canals are still visible."],
     },
     imageHint: "Historic dam Dumbea river",
+    descriptionAdvanced: {
+      de: "Der historische Dumbéa-Damm war das erste große Wasserbauprojekt zur Versorgung der wachsenden Stadt Nouméa. Ende des 19. Jahrhunderts errichtet, nutzte er das Wasser des Dumbéa-Flusses, um den steigenden Bedarf der Bevölkerung und der Industrie zu decken. Die Überreste der alten Struktur sind heute ein technisches Denkmal für die koloniale Ingenieurskunst.",
+      hu: "A történelmi Dumbéa-gát volt az első jelentős vízépítési projekt, amely Nouméa növekvő vízigényét hivatott kielégíteni. A 19. század végén épült gát a Dumbéa-folyó vizét hasznosította a lakosság és az ipar számára. A régi építmény maradványai ma a gyarmati mérnöki tudás technikai műemlékeként állnak.",
+      ro: "Barajul istoric Dumbéa a fost primul proiect hidroenergetic major menit să alimenteze orașul în creștere Nouméa. Construit la sfârșitul secolului al XIX-lea, acesta a utilizat apele râului Dumbéa pentru a satisface nevoile populației și ale industriei. Vestigiile vechii structuri reprezintă astăzi un monument tehnic al ingineriei coloniale.",
+      en: "The historic Dumbéa Dam was the first major hydraulic engineering project designed to supply the growing city of Nouméa. Constructed in the late 19th century, it harnessed the Dumbéa River's waters to meet rising residential and industrial demand. The remains of the old structure now serve as a technical monument to colonial engineering.",
+    },
+    factsAdvanced: {
+      de: ["Bau des ersten Damms im Jahr 1892 abgeschlossen.", "Die erste Wasserleitung nach Nouméa war 14 km lang.", "Nutzte die Schwerkraft für den Wassertransport zur Stadt.", "Erweiterung und Verstärkung der Struktur im Jahr 1930.", "Ersetzt durch einen neuen Damm im Jahr 1972.", "Ein Teil der alten Steinmauer ist noch sichtbar."],
+      hu: ["Az első gát építése 1892-ben fejeződött be.", "Az első Nouméába vezető vízvezeték 14 km hosszú volt.", "A vízszállításhoz a gravitációt használták fel.", "A szerkezetet 1930-ban bővítették és megerősítették.", "1972-ben egy új gát váltotta fel a funkcióját.", "A régi kőfal egy része még ma is látható."],
+      ro: ["Construcția primului baraj a fost finalizată în 1892.", "Prima conductă de apă către Nouméa avea 14 km lungime.", "Utiliza gravitația pentru transportul apei către oraș.", "Structura a fost extinsă și consolidată în anul 1930.", "Înlocuit de un baraj nou în anul 1972.", "O secțiune din vechiul zid de piatră este încă vizibilă."],
+      en: ["Construction of the first dam was completed in 1892.", "The original pipeline to Nouméa spanned 14 kilometers.", "Utilized gravity-fed systems to transport water to the city.", "The structure was expanded and reinforced in 1930.", "Replaced by a modern dam located upstream in 1972.", "Portions of the original stone masonry are still visible today."],
+    },
   },
   {
     id: "newcaledonia-yate-old-village-history-v2",
@@ -437,6 +701,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Significant Kanak cultural center.", "First hydroelectric dam built in 1928.", "Famous for traditional Kanak huts.", "Formerly a port for nickel ore transport."],
     },
     imageHint: "Yate village traditional huts coastal view",
+    descriptionAdvanced: {
+      de: "Das alte Dorf Yaté hat eine bewegte Geschichte, die durch die Entwicklung der Wasserkraft und den Bau des großen Staudamms geprägt wurde. Ursprünglich eine traditionelle Kanak-Siedlung, mussten Teile des Dorfes verlegt werden, als der Yaté-See in den 1950er Jahren geflutet wurde. Die historischen Stätten in der Umgebung zeugen von der tiefen Verbindung der Clans mit diesem wasserreichen Gebiet.",
+      hu: "Yaté régi faluja mozgalmas múltra tekint vissza, amelyet a vízenergia hasznosítása és a nagy völgyzáró gát építése határozott meg. Az eredetileg hagyományos kanak település egy részét át kellett helyezni, amikor az 1950-es években felduzzasztották a Yaté-tavat. A környék történelmi helyszínei a klánok és a vizekben gazdag terület mély kapcsolatáról tanúskodnak.",
+      ro: "Vechiul sat Yaté are o istorie zbuciumată, marcată de dezvoltarea hidroenergetică și construcția marelui baraj. Inițial o așezare tradițională Kanak, părți din sat au trebuit relocate când lacul Yaté a fost inundat în anii 1950. Siturile istorice din jur atestă legătura profundă a clanurilor cu acest teritoriu bogat în resurse de apă.",
+      en: "The old village of Yaté has a dynamic history shaped by hydroelectric development and the construction of the large dam. Originally a traditional Kanak settlement, portions of the village required relocation when the Yaté reservoir was flooded in the 1950s. Surrounding historical sites testify to the deep clan connections with this water-rich territory.",
+    },
+    factsAdvanced: {
+      de: ["Yaté war Schauplatz früher Kontakte mit Walfängern.", "Die erste Mission wurde dort 1864 gegründet.", "Bau des ersten Yaté-Staudamms zwischen 1920 und 1926.", "Flutung des Tals für den heutigen Damm im Jahr 1959.", "Beherbergt Zeremonialplätze der lokalen Kanak-Clans.", "Wichtiger Ort für den frühen Bergbau im späten 19. Jahrhundert."],
+      hu: ["Yaté a bálnavadászokkal való korai érintkezés helyszíne volt.", "Az első missziót 1864-ben alapították itt.", "Az első Yaté-gát 1920 és 1926 között épült.", "A völgyet a mai gát miatt 1959-ben árasztották el.", "Helyi kanak klánok szertartási helyeinek ad otthont.", "A 19. század végén fontos bányászati központ volt."],
+      ro: ["Yaté a fost locul primelor contacte cu vânătorii de balene.", "Prima misiune a fost fondată acolo în anul 1864.", "Construcția primului baraj Yaté între 1920 și 1926.", "Inundarea văii pentru barajul actual în anul 1959.", "Găzduiește locuri ceremoniale ale clanurilor locale Kanak.", "Loc important pentru mineritul timpuriu la sfârșitul secolului XIX."],
+      en: ["Yaté was a site of early contact with 19th-century whalers.", "The first mission in the area was established in 1864.", "Construction of the original Yaté dam occurred between 1920-1926.", "The valley was flooded for the current dam project in 1959.", "Contains ancient ceremonial sites of local Kanak clans.", "The region was significant for early iron and chrome mining."],
+    },
   },
   {
     id: "newcaledonia-canala-mine-history-v2",
@@ -456,6 +732,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Garnier discovered nickel here in 1864.", "Center of Kanak resistance in 1878.", "Stunning waterfalls located nearby.", "Historically significant for early mining."],
     },
     imageHint: "Canala mountains mining landscape",
+    descriptionAdvanced: {
+      de: "Die Bergbauregion Canala ist die Geburtsstätte der modernen Nickelindustrie in Neukaledonien. Hier wurde 1874 das erste Nickelerz entdeckt, was einen beispiellosen Boom auslöste und das wirtschaftliche Schicksal des Archipels veränderte. Die Landschaft ist bis heute von den historischen Minen terrassiert, die ein bedeutendes industrielles Erbe darstellen.",
+      hu: "Canala bányászati régiója az új-kaledóniai modern nikkelipar bölcsője. 1874-ben itt fedezték fel az első nikkelércet, ami példátlan fellendülést indított el, és megváltoztatta a szigetcsoport gazdasági sorsát. A tájat a mai napig a történelmi bányák teraszai szabdalják, amelyek jelentős ipari örökséget képviselnek.",
+      ro: "Regiunea minieră Canala este locul de naștere al industriei moderne a nichelului în Noua Caledonie. Aici a fost descoperit primul minereu de nichel în 1874, declanșând un boom fără precedent care a schimbat destinul economic al arhipelagului. Peisajul este marcat și astăzi de terasele minelor istorice, care reprezintă o moștenire industrială majoră.",
+      en: "The Canala mining region is the birthplace of the modern nickel industry in New Caledonia. In 1874, the first nickel ore was discovered here, triggering an unprecedented boom that transformed the archipelago's economic destiny. The landscape remains terraced by historic mines, representing a significant industrial heritage.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung des Nickels durch Jules Garnier im Jahr 1864.", "Eröffnung der ersten Mine im Jahr 1874.", "Zentrum des 'Nickel-Rauschs' am Ende des 19. Jahrhunderts.", "Wichtiger Standort für den Abbau von Kobalt und Chrom.", "Einsatz von asiatischen Vertragsarbeitern ab 1890.", "Die Minen prägten die soziale Struktur der Region Canala."],
+      hu: ["A nikkelt Jules Garnier fedezte fel 1864-ben.", "Az első bányát 1874-ben nyitották meg.", "A 19. század végi 'nikkelláz' központja volt.", "Fontos kobalt- és krómlelőhelyként is szolgált.", "1890-től ázsiai szerződéses munkásokat alkalmaztak.", "A bányák alapjaiban határozták meg Canala társadalmi szerkezetét."],
+      ro: ["Descoperirea nichelului de către Jules Garnier în 1864.", "Deschiderea primei mine a avut loc în anul 1874.", "Centrul 'goanei după nichel' de la sfârșitul secolului al XIX-lea.", "Locație importantă pentru extracția de cobalt și crom.", "Utilizarea lucrătorilor asiatici cu contract începând din 1890.", "Minele au modelat structura socială a regiunii Canala."],
+      en: ["Nickel was first identified by Jules Garnier in 1864.", "The first operational nickel mine opened in 1874.", "Center of the 'Nickel Rush' at the end of the 19th century.", "Also a significant site for cobalt and chrome extraction.", "Asian indentured laborers began working the mines in 1890.", "Mining activities fundamentally shaped Canala's social structure."],
+    },
   },
   {
     id: "newcaledonia-saint-louis-mission-history-v2",
@@ -475,6 +763,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Features a distinctive white church.", "Known for early rice cultivation.", "Was a center for craft training.", "Located very close to Nouméa."],
     },
     imageHint: "Saint Louis mission church New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Mission Saint-Louis, 1856 gegründet, ist eine der ältesten und bedeutendsten religiösen Siedlungen in der Nähe von Nouméa. Sie war nicht nur ein spirituelles Zentrum, sondern auch eine wichtige Bildungs- und Landwirtschaftsschule für die indigene Bevölkerung. Die Kirche und die umliegenden Gebäude spiegeln die koloniale Missionsarchitektur des 19. Jahrhunderts wider.",
+      hu: "A Szent Lajos-misszió (Saint-Louis), amelyet 1856-ban alapítottak, az egyik legrégebbi és legjelentősebb vallási település Nouméa közelében. Nemcsak hitéleti központként működött, hanem fontos oktatási és mezőgazdasági iskolaként is az őslakos lakosság számára. A templom és a környező épületek a 19. századi gyarmati missziós építészetet képviselik.",
+      ro: "Misiunea Saint-Louis, fondată în 1856, este una dintre cele mai vechi și importante așezări religioase din apropierea orașului Nouméa. A fost nu doar un centru spiritual, ci și o școală agricolă și educațională esențială pentru populația indigenă. Biserica și clădirile din jur reflectă arhitectura misionară colonială din secolul al XIX-lea.",
+      en: "The Saint-Louis Mission, founded in 1856, is one of the oldest and most significant religious settlements near Nouméa. It functioned not only as a spiritual center but also as a crucial agricultural and vocational school for the indigenous population. The church and surrounding buildings exemplify 19th-century colonial mission architecture.",
+    },
+    factsAdvanced: {
+      de: ["Gründung durch Maristen-Missionare im Jahr 1856.", "Bau der heutigen Kirche wurde 1860 abgeschlossen.", "Beherbergte eine Druckerei für religiöse Texte.", "Zentrum für die Einführung neuer Nutzpflanzen (z.B. Kaffee).", "Spielte eine Rolle bei der Ausbildung von Kanak-Katecheten.", "Die Mission besaß ausgedehnte Rinderweiden."],
+      hu: ["A marista misszionáriusok alapították 1856-ban.", "A mai templom építése 1860-ban fejeződött be.", "Saját nyomdája volt a vallási szövegek terjesztéséhez.", "Központ volt az új haszonnövények (pl. kávé) bevezetésében.", "Fontos szerepet játszott a kanak hitoktatók képzésében.", "A misszió kiterjedt marhalegelőkkel rendelkezett."],
+      ro: ["Fondată de misionarii mariști în anul 1856.", "Construcția bisericii actuale a fost finalizată în 1860.", "A găzduit o tipografie pentru texte religioase.", "Centru pentru introducerea de noi culturi (ex. cafeaua).", "A jucat un rol în formarea cateheților Kanak.", "Misiunea deținea pășuni vaste pentru creșterea vitelor."],
+      en: ["Established by Marist missionaries in 1856.", "Construction of the current church was completed in 1860.", "Housed a printing press for disseminating religious texts.", "A center for introducing new crops, including coffee.", "Played a key role in training Kanak catechists.", "The mission managed extensive cattle grazing lands."],
+    },
   },
   {
     id: "newcaledonia-place-cocotiers-history-v2",
@@ -494,6 +794,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["The bandstand dates back to 1879.", "Named after the coconut palms.", "Formerly a military parade ground.", "Point zero for all road distances."],
     },
     imageHint: "Place des Cocotiers bandstand Noumea",
+    descriptionAdvanced: {
+      de: "Der Place des Cocotiers ist das historische und soziale Herz von Nouméa. Seit der Stadtgründung Mitte des 19. Jahrhunderts hat sich dieser zentrale Platz von einem sumpfigen Gelände zu einem eleganten Stadtgarten entwickelt. Er besteht aus vier miteinander verbundenen Plätzen, die jeweils verschiedene Epochen der Stadtgeschichte repräsentieren und von kolonialen Monumenten gesäumt sind.",
+      hu: "A Place des Cocotiers (Kókuszpálmák tere) Nouméa történelmi és társadalmi szíve. A város 19. század közepi alapítása óta ez a központi tér mocsaras területből elegáns városi kertté fejlődött. Négy összekapcsolódó térből áll, amelyek mindegyike a városi történelem különböző korszakait képviseli, és gyarmati emlékművek övezik.",
+      ro: "Place des Cocotiers este inima istorică și socială a orașului Nouméa. De la fondarea orașului la mijlocul secolului al XIX-lea, această piață centrală a evoluat de la un teren mlăștinos la o grădină urbană elegantă. Este compusă din patru piețe interconectate, fiecare reprezentând diferite epoci ale istoriei urbane și fiind mărginită de monumente coloniale.",
+      en: "Place des Cocotiers is the historical and social heart of Nouméa. Since the city's founding in the mid-19th century, this central square has evolved from marshy ground into an elegant urban garden. It comprises four interconnected squares, each representing different eras of urban history and lined with colonial monuments.",
+    },
+    factsAdvanced: {
+      de: ["Anlage des Platzes begann unter Gouverneur Guillain (1860).", "Besteht aus Place Feillet, Courbet, Marne und Olry.", "Die Fontaine Céleste in der Mitte wurde 1893 errichtet.", "Früher Standort für öffentliche Bekanntmachungen und Paraden.", "Die namensgebenden Kokospalmen wurden ab 1867 gepflanzt.", "Zentraler Treffpunkt während der US-Präsenz im Zweiten Weltkrieg."],
+      hu: ["A tér kialakítása Guillain kormányzó alatt kezdődött (1860).", "A Feillet, Courbet, Marne és Olry terekből áll.", "A középen álló Fontaine Céleste kutat 1893-ban állították.", "Egykor nyilvános bejelentések és parádék helyszíne volt.", "A névadó kókuszpálmákat 1867-től ültették el.", "Az amerikai jelenlét idején fontos találkozóhely volt a II. vh-ban."],
+      ro: ["Amenajarea pieței a început sub guvernatorul Guillain (1860).", "Compusă din piețele Feillet, Courbet, Marne și Olry.", "Fântâna Céleste din centru a fost ridicată în anul 1893.", "Fost loc pentru anunțuri publice și parade militare.", "Palmierii de cocos au fost plantați începând cu anul 1867.", "Punct central de întâlnire în timpul prezenței SUA în al Doilea Război Mondial."],
+      en: ["Landscaping began under Governor Guillain in 1860.", "Consists of four sections: Feillet, Courbet, Marne, and Olry.", "The Celeste Fountain was installed in the center in 1893.", "Formerly the primary site for public announcements and parades.", "The namesake coconut palms were first planted in 1867.", "Served as a major social hub during the US WWII presence."],
+    },
   },
   {
     id: "newcaledonia-kiosque-musique-history-v2",
@@ -513,6 +825,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Designed in France.", "Built by convict labor.", "Inaugurated on June 15, 1879.", "Used for Sunday military concerts."],
     },
     imageHint: "Noumea bandstand wrought iron detail",
+    descriptionAdvanced: {
+      de: "Der Kiosque à Musique auf dem Place des Cocotiers ist eines der ikonischsten Symbole des kolonialen Nouméa. Er wurde 1879 errichtet und diente als Bühne für Militärkapellen und öffentliche Konzerte, die das gesellschaftliche Leben der Siedler bereicherten. Seine filigrane Gusseisenarchitektur ist ein hervorragendes Beispiel für den französischen Stil des späten 19. Jahrhunderts.",
+      hu: "A Place des Cocotiers téren álló Kiosque à Musique (Zenepavilon) a gyarmati Nouméa egyik legikonikusabb szimbóluma. 1879-ben épült, és katonai zenekarok, valamint nyilvános koncertek színhelyeként szolgált, gazdagítva a telepesek társasági életét. Finom öntöttvas szerkezete a 19. század végi francia stílus kiváló példája.",
+      ro: "Kiosque à Musique din Place des Cocotiers este unul dintre cele mai emblematice simboluri ale orașului Nouméa colonial. Construit în 1879, a servit drept scenă pentru fanfare militare și concerte publice care au îmbogățit viața socială a coloniștilor. Arhitectura sa din fontă filigranată este un exemplu excelent al stilului francez de la sfârșitul secolului al XIX-lea.",
+      en: "The Kiosque à Musique (Bandstand) in Place des Cocotiers is one of colonial Nouméa's most iconic symbols. Erected in 1879, it served as a stage for military bands and public concerts that enriched the settlers' social life. Its delicate cast-iron architecture is a prime example of late 19th-century French urban design.",
+    },
+    factsAdvanced: {
+      de: ["Einweihung des Pavillons am 14. Juli 1879.", "Das gusseiserne Gerüst wurde aus Frankreich importiert.", "Diente ursprünglich der Unterhaltung der Garnison.", "Restaurierung im Jahr 1985 zur Erhaltung des Originalzustands.", "Zentrum für die jährliche Weihnachtsbeleuchtung der Stadt.", "Beliebter Ort für politische Reden im frühen 20. Jahrhundert."],
+      hu: ["A pavilon felavatása 1879. július 14-én történt.", "Az öntöttvas vázat Franciaországból importálták.", "Eredetileg a helyőrség szórakoztatására szolgált.", "1985-ben restaurálták az eredeti állapot megőrzése érdekében.", "A városi karácsonyi kivilágítás központi eleme.", "A 20. század elején politikai beszédek kedvelt helyszíne volt."],
+      ro: ["Inaugurarea pavilionului a avut loc pe 14 iulie 1879.", "Structura din fontă a fost importată din Franța.", "Servit inițial pentru divertismentul garnizoanei militare.", "Restaurat în 1985 pentru a-i păstra starea originală.", "Punct central pentru iluminatul anual de Crăciun al orașului.", "Loc popular pentru discursuri politice la începutul secolului XX."],
+      en: ["The bandstand was inaugurated on July 14, 1879.", "The cast-iron frame was prefabricated and imported from France.", "Originally intended for the entertainment of the military garrison.", "Underwent major restoration in 1985 to preserve its original look.", "Focus of the city's annual Christmas light displays.", "Frequently used for political rallies in the early 20th century."],
+    },
   },
   {
     id: "newcaledonia-maritime-museum-history-v2",
@@ -532,6 +856,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Housed in a former terminal building.", "Contains remains of the ship Astrolabe.", "Documents 250 years of seafaring.", "Features interactive exhibits for visitors."],
     },
     imageHint: "Maritime Museum Noumea entrance",
+    descriptionAdvanced: {
+      de: "Das Schifffahrtsmuseum von Neukaledonien dokumentiert die reiche maritime Geschichte des Archipels, von den Entdeckungsreisen bis zum modernen Handel. Es beherbergt eine bedeutende Sammlung von Fundstücken aus den Wracks der La Pérouse-Expedition, die 1788 vor Vanikoro verschwand. Das Museum befindet sich in einem historischen Gebäude am ehemaligen Quai de France.",
+      hu: "Új-Kaledónia Tengerészeti Múzeuma a szigetcsoport gazdag tengeri múltját dokumentálja a felfedezőutaktól a modern kereskedelemig. Itt található a La Pérouse-expedíció 1788-ban, Vanikoro mellett elsüllyedt hajóinak jelentős leletanyaga. A múzeum egy történelmi épületben, az egykori Quai de France rakparton kapott helyet.",
+      ro: "Muzeul Maritim din Noua Caledonie documentează istoria maritimă bogată a arhipelagului, de la călătoriile de explorare până la comerțul modern. Găzduiește o colecție importantă de obiecte recuperate din epavele expediției La Pérouse, dispărută în 1788 lângă Vanikoro. Muzeul este situat într-o clădire istorică pe fostul Quai de France.",
+      en: "The Maritime Museum of New Caledonia documents the archipelago's rich nautical history, from early exploration voyages to modern commerce. It houses a significant collection of artifacts from the La Pérouse expedition shipwrecks, which vanished off Vanikoro in 1788. The museum is located in a historic building on the former Quai de France.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung des Museums im Jahr 1999.", "Spezialisiert auf die Archäologie von Schiffswracks im Pazifik.", "Zeigt Objekte der Fregatten 'Boussole' und 'Astrolabe'.", "Dokumentiert die Geschichte des Leuchtturms Amédée.", "Beleuchtet die Rolle des Hafens von Nouméa seit 1854.", "Befindet sich im ehemaligen Terminalgebäude der Messageries Maritimes."],
+      hu: ["A múzeumot 1999-ben nyitották meg.", "A csendes-óceáni hajóroncsok régészetére specializálódott.", "A 'Boussole' és 'Astrolabe' fregattok leleteit mutatja be.", "Dokumentálja az Amédée-világítótorony történetét.", "Bemutatja Nouméa kikötőjének szerepét 1854 óta.", "Az egykori Messageries Maritimes terminálépületében található."],
+      ro: ["Muzeul a fost deschis în anul 1999.", "Specializat în arheologia epavelor din Pacific.", "Expune obiecte de pe fregatele 'Boussole' și 'Astrolabe'.", "Documentează istoria farului Amédée.", "Evidențiază rolul portului Nouméa începând cu 1854.", "Situat în fosta clădire terminală a Messageries Maritimes."],
+      en: ["The museum was officially opened to the public in 1999.", "Specializes in the archaeology of Pacific underwater shipwrecks.", "Displays items from the frigates 'Boussole' and 'Astrolabe'.", "Features a comprehensive history of the Amédée Lighthouse.", "Covers the development of Nouméa's port since 1854.", "Housed in the former Messageries Maritimes maritime terminal."],
+    },
   },
   {
     id: "newcaledonia-world-war-2-museum-history-v2",
@@ -551,6 +887,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Nouméa served as a major US HQ.", "Original military vehicles on display.", "Showcases the daily life of soldiers.", "Opened to the public in 2013."],
     },
     imageHint: "World War II museum Quonset hut Noumea",
+    descriptionAdvanced: {
+      de: "Das Museum des Zweiten Weltkriegs in Nouméa erinnert an die entscheidende Rolle Neukaledoniens als logistische Basis der Alliierten im Pazifikkrieg. Untergebracht in einer historischen 'Quonset'-Halle, zeigt es die Auswirkungen der US-Präsenz ab 1942 auf die lokale Gesellschaft und Wirtschaft. Die Ausstellungen beleuchten die Transformation der Insel zu einem massiven Militärstützpunkt.",
+      hu: "A Nouméa-i II. világháborús múzeum Új-Kaledónia kulcsfontosságú szövetséges logisztikai bázisként betöltött szerepének állít emléket. Egy történelmi 'Quonset' barakkban berendezve mutatja be az 1942-től kezdődő amerikai jelenlét hatását a helyi társadalomra és gazdaságra. A kiállítások feltárják a sziget hatalmas katonai támaszponttá alakulását.",
+      ro: "Muzeul celui de-al Doilea Război Mondial din Nouméa comemorează rolul crucial al Noii Caledonii ca bază logistică aliată în Războiul din Pacific. Găzduit într-o hală istorică 'Quonset', acesta prezintă impactul prezenței SUA începând cu 1942 asupra societății și economiei locale. Expozițiile evidențiază transformarea insulei într-o bază militară masivă.",
+      en: "The World War II Museum in Nouméa commemorates New Caledonia's vital role as an Allied logistical hub during the Pacific War. Housed in a historic Quonset hut, it details the impact of the US military presence starting in 1942 on local society and the economy. The exhibits highlight the island's transformation into a massive military staging ground.",
+    },
+    factsAdvanced: {
+      de: ["Museum befindet sich in einer originalen US-Halbrundhütte.", "Eröffnung im Jahr 2013 zum 70. Jahrestag der US-Landung.", "Zeigt die Geschichte der 'Division de la France Libre'.", "Dokumentiert den Bau von Flugplätzen und Krankenhäusern.", "Über 1 Million US-Soldaten passierten die Insel.", "Beleuchtet die Einführung von Jeep und Coca-Cola in NC."],
+      hu: ["A múzeum egy eredeti amerikai félhengeres barakkban van.", "2013-ban nyílt meg az amerikai partraszállás 70. évfordulóján.", "Bemutatja a 'Szabad Franciaország' egységeinek történetét.", "Dokumentálja a repülőterek és kórházak gyors építését.", "Több mint 1 millió amerikai katona fordult meg a szigeten.", "Bemutatja a Jeep és a Coca-Cola megjelenését a területen."],
+      ro: ["Muzeul este situat într-o baracă originală americană Quonset.", "Deschis în 2013 la a 70-a aniversare a debarcării americane.", "Prezintă istoria diviziei 'France Libre' din Pacific.", "Documentează construcția aerodromurilor și a spitalelor.", "Peste 1 milion de soldați americani au tranzitat insula.", "Evidențiază introducerea vehiculelor Jeep și a băuturii Coca-Cola."],
+      en: ["Housed in an authentic US military Quonset hut.", "Opened in 2013 to mark the 70th anniversary of the US arrival.", "Details the history of the New Caledonian Free French forces.", "Documents the rapid construction of airfields and base hospitals.", "Over 1 million American personnel transited through the island.", "Examines the cultural impact, such as the arrival of Jeeps and Coca-Cola."],
+    },
   },
   {
     id: "newcaledonia-monument-morts-history-v2",
@@ -570,6 +918,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Erected in 1924.", "Designed by architect Albert Lecavelier.", "Names of the fallen are engraved.", "Located at Place Bir-Hakeim."],
     },
     imageHint: "Noumea War Memorial Bir Hakeim square",
+    descriptionAdvanced: {
+      de: "Das Monument aux Morts in Nouméa ist die zentrale Gedenkstätte für die gefallenen Soldaten Neukaledoniens in den Weltkriegen. Es wurde nach dem Ersten Weltkrieg errichtet, um den Opfern der 'Bataillon des Tirailleurs du Pacifique' Ehre zu erweisen. Das Denkmal am Fuße des Place Bir Hakeim ist ein wichtiger Ort für nationale Gedenkfeiern und symbolisiert die Opferbereitschaft des Territoriums.",
+      hu: "A Nouméa-i hősök emlékműve (Monument aux Morts) az Új-Kaledónia világháborús áldozatainak központi emlékhelye. Az első világháború után emelték, hogy tisztelegjenek a 'Csendes-óceáni Lövészzászlóalj' katonái előtt. A Bir Hakeim tér lábánál található emlékmű a nemzeti megemlékezések fontos helyszíne, jelképezve a terület áldozatvállalását.",
+      ro: "Monumentul Eroilor din Nouméa este locul central de comemorare pentru soldații Noii Caledonii căzuți în războaiele mondiale. A fost ridicat după Primul Război Mondial pentru a onora victimele din 'Batalionul de Pușcași din Pacific'. Monumentul situat la baza Pieței Bir Hakeim este un loc important pentru ceremoniile naționale.",
+      en: "The Monument aux Morts in Nouméa is the primary memorial for New Caledonian soldiers who perished in the World Wars. It was erected after World War I to honor the service members of the Pacific Battalion of Infantry. Located at the base of Place Bir Hakeim, the monument is a central site for national commemorations and represents the territory's wartime sacrifices.",
+    },
+    factsAdvanced: {
+      de: ["Einweihung des ersten Denkmals im Jahr 1924.", "Listet die Namen von über 1.000 Gefallenen auf.", "Erweiterung um Gedenktafeln für den Zweiten Weltkrieg.", "Zentraler Ort für Zeremonien am 11. November und 8. Mai.", "Beherbergt oft Ehrengarden bei offiziellen Besuchen.", "Das Design ist von klassischen französischen Kriegsdenkmälern geprägt."],
+      hu: ["Az első emlékművet 1924-ben avatták fel.", "Több mint 1000 elesett katona nevét tartalmazza.", "Később a második világháború áldozatainak tábláival bővült.", "A november 11-i és május 8-i ünnepségek fő helyszíne.", "Hivatalos látogatásokkor gyakran díszőrség áll mellette.", "A dizájnt a klasszikus francia hadi emlékművek ihlették."],
+      ro: ["Inaugurarea primului monument a avut loc în anul 1924.", "Enumeră numele a peste 1.000 de soldați căzuți la datorie.", "Extins cu plăci comemorative pentru al Doilea Război Mondial.", "Locul principal pentru ceremoniile de pe 11 noiembrie și 8 mai.", "Găzduiește adesea garde de onoare în timpul vizitelor oficiale.", "Designul este inspirat de monumentele de război clasice franceze."],
+      en: ["The original memorial was inaugurated in 1924.", "Lists the names of over 1,000 local servicemen who died.", "Expanded to include plaques for those lost in World War II.", "Primary location for ceremonies on November 11 and May 8.", "Frequently features honor guards during official visits.", "Architectural style follows classical French war memorial designs."],
+    },
   },
   {
     id: "newcaledonia-quai-volontaires-history-v2",
@@ -589,6 +949,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Departure took place on May 5, 1941.", "The battalion fought in North Africa.", "A commemorative plaque honors them.", "Key site for Free France history."],
     },
     imageHint: "Quai des Volontaires Noumea plaque",
+    descriptionAdvanced: {
+      de: "Der Quai des Volontaires (Kai der Freiwilligen) in Nouméa ist ein geschichtsträchtiger Ort, der an den Aufbruch der neukaledonischen Freiwilligen für die Freien Französischen Streitkräfte im Jahr 1940 erinnert. Als eine der ersten Kolonien, die sich General de Gaulle anschlossen, markiert dieser Kai den Beginn des Engagements des Territoriums gegen die Besatzung. Er symbolisiert Mut und den starken freien Geist der lokalen Bevölkerung.",
+      hu: "A nouméai Quai des Volontaires (Önkéntesek rakpartja) történelmi helyszín, amely az új-kaledóniai önkéntesek 1940-es indulására emlékeztet a Szabad Francia Erők kötelékébe. Mivel az elsők között csatlakoztak de Gaulle tábornokhoz, ez a rakpart jelzi a terület megszállás elleni elkötelezettségének kezdetét. A bátorságot és a helyi lakosság szabadságszeretetét szimbolizálja.",
+      ro: "Quai des Volontaires (Mollul Voluntarilor) din Nouméa este un loc istoric care amintește de plecarea voluntarilor neo-caledonieni pentru Forțele Franceze Libere în 1940. Fiind una dintre primele colonii care s-au alăturat generalului de Gaulle, acest moll marchează începutul angajamentului teritoriului împotriva ocupației.",
+      en: "The Quai des Volontaires (Volunteers' Quay) in Nouméa is a historic site commemorating the departure of New Caledonian volunteers for the Free French Forces in 1940. As one of the first colonies to rally to General de Gaulle, this quay marks the beginning of the territory's commitment to the liberation of France. It symbolizes courage and the strong independent spirit of the local population.",
+    },
+    factsAdvanced: {
+      de: ["Abfahrt der ersten Freiwilligen am 5. Mai 1941.", "Neukaledonien schloss sich bereits im September 1940 de Gaulle an.", "Gedenktafel erinnert an den Dampfer 'Cap des Palmes'.", "Der Kai war Schauplatz patriotischer Demonstrationen.", "Wichtiger Punkt für den Truppentransport im Pazifikkrieg.", "Teil der Hafenerweiterung des frühen 20. Jahrhunderts."],
+      hu: ["Az első önkéntesek 1941. május 5-én indultak el.", "Új-Kaledónia már 1940 szeptemberében csatlakozott de Gaulle-hoz.", "Emléktábla őrzi a 'Cap des Palmes' gőzös emlékét.", "A rakpart hazafias tüntetések színhelye volt.", "Fontos csomópont a csendes-óceáni háború csapatszállításaiban.", "A 20. század eleji kikötőbővítés részeként jött létre."],
+      ro: ["Plecarea primilor voluntari a avut loc pe 5 mai 1941.", "Noua Caledonie s-a alăturat lui de Gaulle încă din septembrie 1940.", "O placă comemorativă amintește de nava 'Cap des Palmes'.", "Mollul a fost scena unor demonstrații patriotice.", "Punct important pentru transportul trupelor în Războiul din Pacific.", "Parte a extinderii portuare de la începutul secolului XX."],
+      en: ["The first contingent of volunteers departed on May 5, 1941.", "New Caledonia rallied to de Gaulle as early as September 1940.", "A commemorative plaque honors the steamship 'Cap des Palmes'.", "The quay was a site of major patriotic demonstrations in 1940.", "Critical point for troop deployments during the Pacific War.", "Constructed as part of early 20th-century port modernizations."],
+    },
   },
   {
     id: "newcaledonia-tontouta-airbase-history-v2",
@@ -608,6 +980,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Expanded by US forces in 1942.", "Hosted hundreds of aircraft daily.", "Strategic hub in the Pacific War.", "Remains of bunkers can be found nearby."],
     },
     imageHint: "Tontouta airport old military hangar",
+    descriptionAdvanced: {
+      de: "Die Luftbasis Tontouta wurde 1942 während des Zweiten Weltkriegs als strategisch wichtiger Stützpunkt für die US-Streitkräfte im Pazifik errichtet. Heute dient das Gelände als internationaler Flughafen von Neukaledonien und ist das wichtigste Tor zur Welt. Die historische Bedeutung der Basis liegt in ihrer Rolle als logistisches Zentrum während der alliierten Kampagnen gegen Japan. Sie bleibt ein Zeugnis der engen militärischen Kooperation in der Region.",
+      hu: "A Tontouta légibázis 1942-ben épült a második világháború alatt, az amerikai erők kulcsfontosságú csendes-óceáni stratégiai támaszpontjaként. Ma ez a terület Új-Kaledónia nemzetközi repülőtereként üzemel, és a szigetcsoport legfontosabb kapuja. A bázis történelmi jelentőségét a Japán elleni szövetséges hadműveletekben betöltött logisztikai szerepe adja. Az építmény a háborús katonai együttműködés fontos mementója.",
+      ro: "Baza aeriană Tontouta a fost construită în 1942, în timpul celui de-al Doilea Război Mondial, ca punct strategic pentru forțele americane din Pacific. Astăzi, locația servește drept aeroport internațional principal al Noii Caledonii. Importanța istorică a bazei derivă din rolul său logistic esențial în campaniile Aliate împotriva Japoniei. Rămâne o mărturie a cooperării militare strânse din regiune în perioada conflictului.",
+      en: "Tontouta Airbase was established in 1942 during World War II as a critical strategic hub for US forces in the Pacific. Today, the site functions as the primary international airport for New Caledonia and serves as the main gateway to the islands. Its historical significance lies in its role as a logistics center for Allied campaigns against Japan. The base stands as a testament to wartime military cooperation in the South Pacific.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1942 durch Ingenieure der US-Armee.", "Diente als Knotenpunkt für die South Pacific Air Ferry Route.", "Wurde 1968 zum offiziellen internationalen Flughafen der Insel.", "Befindet sich etwa 52 Kilometer nordwestlich von Nouméa.", "Spielte eine tragende Rolle bei der Logistik der Schlacht im Korallenmeer.", "Die Startbahn wurde ursprünglich für schwere B-17 Bomber konzipiert."],
+      hu: ["1942-ben építették az amerikai hadsereg mérnökei.", "A South Pacific Air Ferry Route egyik fontos csomópontja volt.", "1968-ban vált a sziget hivatalos nemzetközi repülőterévé.", "Körülbelül 52 kilométerre északnyugatra található Nouméától.", "Fontos szerepet játszott a Korall-tengeri csata logisztikájában.", "A kifutópályát eredetileg nehéz B-17-es bombázók számára tervezték."],
+      ro: ["Construită în 1942 de inginerii armatei Statelor Unite.", "A servit ca punct nodal pentru ruta aeriană South Pacific Air Ferry.", "A devenit oficial aeroport internațional în anul 1968.", "Este situată la aproximativ 52 de kilometri nord-vest de Nouméa.", "A jucat un rol major în logistica Bătăliei din Marea Coralilor.", "Pista a fost proiectată inițial pentru bombardiere grele B-17."],
+      en: ["Built in 1942 by US Army engineering units.", "Served as a hub for the South Pacific Air Ferry Route.", "Became the official international airport in 1968.", "Located approximately 52 kilometers northwest of Nouméa.", "Played a major role in the logistics of the Battle of the Coral Sea.", "The runway was originally designed for heavy B-17 bombers."],
+    },
   },
   {
     id: "newcaledonia-route-territoriale-1-history-v2",
@@ -627,6 +1011,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Formerly called the 'convict road'.", "Connects the south with the north.", "Many bridges date to the colonial era.", "Vital lifeline for the mining industry."],
     },
     imageHint: "Old stone bridge RT1 New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Route Territoriale 1 ist die wichtigste Verkehrsader Neukaledoniens und verbindet die Hauptstadt Nouméa mit den nördlichen Regionen der Hauptinsel Grande Terre. Ihre Ursprünge gehen auf die Kolonialzeit zurück, als sie primär für den Transport von Erzen und landwirtschaftlichen Gütern ausgebaut wurde. Die Trasse folgt oft alten Pfaden der Ureinwohner und wurde im 20. Jahrhundert umfassend modernisiert. Sie ist heute entscheidend für die wirtschaftliche Integration des ländlichen Raums.",
+      hu: "A Route Territoriale 1 Új-Kaledónia legfontosabb főútvonala, amely Nouméát köti össze a Grande Terre északi régióival. Eredete a gyarmati korszakba nyúlik vissza, amikor elsősorban az ércek és mezőgazdasági termékek szállítására fejlesztették ki. Az útvonal gyakran ősi bennszülött ösvényeket követ, és a 20. század folyamán jelentős modernizáción ment keresztül. Napjainkban kulcsszerepet játszik a vidéki területek gazdasági integrációjában.",
+      ro: "Route Territoriale 1 este principala arteră rutieră a Noii Caledonii, legând capitala Nouméa de regiunile nordice de pe Grande Terre. Originile sale datează din perioada colonială, fiind dezvoltată inițial pentru transportul minereurilor și al produselor agricole. Traseul urmează adesea poteci vechi ale băștinașilor și a fost modernizat semnificativ în secolul al XX-lea. Astăzi este esențială pentru integrarea economică a zonelor rurale.",
+      en: "Route Territoriale 1 is the primary arterial road in New Caledonia, connecting the capital Nouméa to the northern regions of Grande Terre. Its origins date back to the colonial era, when it was developed primarily to transport minerals and agricultural goods. The route often follows ancient indigenous paths and underwent extensive modernization during the 20th century. It remains crucial for the economic integration of the island's rural areas.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge von etwa 450 Kilometern auf Grande Terre.", "Verbindet Nouméa mit der nördlichen Stadt Koumac.", "Erlebte während des Nickel-Booms in den 1960ern massiven Ausbau.", "Verläuft größtenteils entlang der Westküste der Hauptinsel.", "Dient als Hauptlogistikroute für die großen Nickelminen.", "Die meisten Abschnitte wurden erst nach dem Zweiten Weltkrieg asphaltiert."],
+      hu: ["Teljes hossza körülbelül 450 kilométer a Grande Terre szigeten.", "Nouméát köti össze az északi Koumac városával.", "Az 1960-as évek nikkel-booomja alatt jelentősen kibővítették.", "Nagy részben a fősziget nyugati partja mentén halad.", "A nagy nikkelbányák elsődleges logisztikai útvonala.", "A legtöbb szakaszát csak a második világháború után aszfaltozták le."],
+      ro: ["Lungimea totală este de aproximativ 450 de kilometri pe Grande Terre.", "Conectează Nouméa de orașul nordic Koumac.", "A fost extinsă masiv în timpul boom-ului nichelului din anii 1960.", "Urmează în cea mai mare parte coasta de vest a insulei principale.", "Servește ca rută logistică principală pentru marile mine de nichel.", "Majoritatea secțiunilor au fost asfaltate după al Doilea Război Mondial."],
+      en: ["Total length of approximately 450 kilometers across Grande Terre.", "Connects Nouméa to the northern town of Koumac.", "Underwent significant expansion during the 1960s nickel boom.", "Runs mostly along the West Coast of the main island.", "Serves as the primary logistics route for major nickel mines.", "Most sections were only paved after World War II."],
+    },
   },
   {
     id: "newcaledonia-koumac-old-village-history-v2",
@@ -646,6 +1042,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Famous for its limestone caves.", "Formerly the terminus of the north railway.", "Crucial for the early chrome industry.", "Offers a glimpse into pioneer life."],
     },
     imageHint: "Koumac old wooden colonial building",
+    descriptionAdvanced: {
+      de: "Das alte Dorf Koumac ist eine ehemalige Bergbausiedlung, die zu Beginn des 20. Jahrhunderts aufgrund der reichen Chromvorkommen in der Nähe florierte. Heute sind nur noch die malerischen Ruinen der Häuser und Verwaltungsgebäude erhalten, die von der harten industriellen Vergangenheit zeugen. Die Bewohner verließen den Ort schließlich zugunsten der moderneren Infrastruktur des heutigen Koumac. Die Stätte ist ein bedeutendes Denkmal für die frühen europäischen Siedlungsbemühungen im Norden.",
+      hu: "Koumac ófaluja egy egykori bányásztelepülés, amely a 20. század elején virágzott a közeli gazdag krómlelőhelyeknek köszönhetően. Ma már csak a lakóházak és középületek festői romjai láthatók, amelyek a régió kemény ipari múltjáról tanúskodnak. A lakók végül elhagyták a települést a mai Koumac modernebb infrastruktúrája kedvéért. Az ófalu az északi rész korai európai betelepülésének kiemelkedő történelmi emlékhelye.",
+      ro: "Satul vechi Koumac este o fostă așezare minieră care a prosperat la începutul secolului al XX-lea datorită zăcămintelor bogate de crom din apropiere. Astăzi, doar ruinele pitorești ale caselor și clădirilor administrative mai stau mărturie pentru trecutul industrial dur al regiunii. Locuitorii au abandonat treptat zona în favoarea infrastructurii moderne a orașului Koumac de astăzi. Este un monument important al primelor eforturi de colonizare din nord.",
+      en: "Koumac Old Village is a former mining settlement that flourished in the early 20th century due to nearby rich chromium deposits. Today, only the picturesque ruins of houses and administrative buildings remain, serving as a silent witness to the region's harsh industrial past. The inhabitants eventually relocated to the modern town of Koumac for improved infrastructure. The site is a significant monument to early European settlement efforts in the north.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich wenige Kilometer entfernt vom modernen Koumac.", "Die Siedlung wurde ab den 1920er Jahren allmählich aufgegeben.", "Fokus lag auf dem Chromabbau in der nahegelegenen Mine Tiebaghi.", "Zu den Ruinen zählen die alte Gendarmerie und steinerne Wohnhäuser.", "Gilt als geschütztes historisches Erbe Neukaledoniens.", "Bietet Einblicke in den Alltag der Bergarbeiter um 1900."],
+      hu: ["Néhány kilométerre található a modern Koumac városától.", "A települést az 1920-as évektől kezdték elhagyni.", "A közeli Tiebaghi bányából származó króm kitermelésére fókuszált.", "A romok között megtalálható a régi csendőrség és kőből épült házak.", "Új-Kaledónia védett történelmi örökségének része.", "Betekintést nyújt az 1900-as évek bányászainak mindennapjaiba."],
+      ro: ["Situat la câțiva kilometri distanță de orașul modern Koumac.", "Așezarea a fost abandonată treptat începând cu anii 1920.", "Activitatea principală era extracția de crom din mina Tiebaghi.", "Ruinele includ vechea jandarmerie și case de locuit din piatră.", "Este clasificat ca patrimoniu istoric protejat în Noua Caledonie.", "Oferă detalii despre viața cotidiană a minerilor în jurul anului 1900."],
+      en: ["Located a few kilometers away from the modern town of Koumac.", "The settlement was gradually abandoned starting in the 1920s.", "Focused on chromium extraction from the nearby Tiebaghi mine.", "Ruins include the old gendarmerie and stone residential houses.", "Listed as a protected historical site in New Caledonia.", "Provides insights into the daily life of miners around 1900."],
+    },
   },
   {
     id: "newcaledonia-port-laguerre-station-history-v2",
@@ -665,6 +1073,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Experimented with tobacco and coffee.", "Built by convict labor.", "Later became an agricultural school.", "Features beautiful avenues of old trees."],
     },
     imageHint: "Port Laguerre historic farm building",
+    descriptionAdvanced: {
+      de: "Die Forschungsstation Port-Laguerre wurde 1951 gegründet und ist das wichtigste Zentrum für landwirtschaftliche Studien in Neukaledonien. Sie spielt eine entscheidende Rolle bei der Verbesserung der Rinderzucht und der Anpassung von Nutzpflanzen an das spezifische tropische Klima der Insel. Die Station liegt in einer fruchtbaren Ebene nördlich von Nouméa. Sie dient als zentrale Plattform für den Wissenstransfer zwischen Wissenschaft und der ländlichen Bevölkerung.",
+      hu: "A Port-Laguerre kutatóállomást 1951-ben alapították, és az új-kaledóniai mezőgazdasági kutatások legfontosabb központja. Döntő szerepet játszik a szarvasmarha-tenyésztési technikák javításában és a haszonnövények helyi trópusi éghajlathoz való igazításában. Az állomás egy termékeny síkságon található Nouméától északra. Központi platformként szolgál a tudomány és a vidéki lakosság közötti ismeretátadáshoz.",
+      ro: "Stația de cercetare Port-Laguerre a fost înființată în 1951 și reprezintă principalul centru pentru studii agricole din Noua Caledonie. Joacă un rol crucial în îmbunătățirea tehnicilor de creștere a bovinelor și în adaptarea culturilor la climatul tropical specific al insulei. Stația este situată într-o câmpie fertilă la nord de Nouméa. Servește ca platformă centrală pentru transferul de cunoștințe între știință și populația rurală.",
+      en: "The Port-Laguerre Research Station was established in 1951 and serves as the primary hub for agricultural studies in New Caledonia. It plays a vital role in improving cattle breeding techniques and adapting crops to the island's specific tropical climate. The station is located on a fertile plain north of Nouméa. It acts as a central platform for scientific knowledge transfer to the territory's rural communities.",
+    },
+    factsAdvanced: {
+      de: ["1951 zur Sicherung der lokalen Lebensmittelversorgung gegründet.", "Spezialisiert auf die Selektion hitzeresistenter Rinderrassen.", "Befindet sich auf dem Gebiet der Gemeinde Païta.", "Umfasst Versuchsfelder für die Produktion tropischer Früchte.", "Wird von der lokalen Landwirtschaftskammer betrieben.", "Bietet regelmäßig Fortbildungen für neukaledonische Landwirte an."],
+      hu: ["1951-ben alapították a helyi élelmezésbiztonság támogatására.", "Hőálló szarvasmarhafajták szelekciójára specializálódott.", "Païta község területén helyezkedik el.", "Trópusi gyümölcsök termesztéséhez szükséges kísérleti parcellákkal rendelkezik.", "A helyi Agrárkamara felügyelete alatt működik.", "Rendszeres képzéseket tart az új-kaledóniai gazdák számára."],
+      ro: ["Fondată în 1951 pentru a sprijini securitatea alimentară locală.", "Specializată în selecția raselor de bovine rezistente la căldură.", "Este situată pe teritoriul municipalității Païta.", "Include câmpuri experimentale pentru producția de fructe tropicale.", "Este operată de Camera de Agricultură locală.", "Găzduiește sesiuni regulate de instruire pentru fermierii locali."],
+      en: ["Founded in 1951 to support local food security.", "Specializes in the selection of heat-resistant cattle breeds.", "Located within the municipality of Païta.", "Includes experimental fields for tropical fruit production.", "Operated by the local Chamber of Agriculture.", "Hosts regular training sessions for New Caledonian farmers."],
+    },
   },
   {
     id: "newcaledonia-puebo-cathedral-history-v2",
@@ -684,6 +1104,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Built from locally quarried stone.", "Completed in 1860.", "Site of historic reconciliations.", "Features unique stained-glass windows."],
     },
     imageHint: "Pouebo stone church exterior",
+    descriptionAdvanced: {
+      de: "Die Kathedrale von Pouébo steht an dem historisch bedeutsamen Ort, an dem 1843 die erste katholische Mission in Neukaledonien ins Leben gerufen wurde. Das heutige Steingebäude wurde Ende des 19. Jahrhunderts errichtet und ist ein zentrales Symbol für die Christianisierung der Region. Hier landete Bischof Douarre mit seinen Mitbrüdern, um den spirituellen Grundstein für die Kirche zu legen. Die Architektur spiegelt den klassischen kolonialen Missionsstil jener Epoche wider.",
+      hu: "A Pouébo katedrális azon a történelmi helyen áll, ahol 1843-ban az első katolikus missziót alapították Új-Kaledóniában. A mai kőépület a 19. század végén készült, és a régió keresztény hitre térésének központi jelképe. Douarre püspök itt szállt partra társaival, hogy lefektessék az egyház spirituális alapköveit. Az építészet az akkori korszak klasszikus gyarmati missziós stílusát tükrözi.",
+      ro: "Catedrala din Pouébo este situată pe locul istoric unde a fost înființată prima misiune catolică din Noua Caledonie, în 1843. Actuala clădire din piatră a fost construită la sfârșitul secolului al XIX-lea și este un simbol central al creștinării regiunii. Aici a debarcat episcopul Douarre împreună cu însoțitorii săi pentru a pune bazele spirituale ale bisericii. Arhitectura reflectă stilul misionar colonial clasic al acelei epoci.",
+      en: "Pouébo Cathedral stands on the historic site where the first Catholic mission in New Caledonia was established in 1843. The current stone building was constructed in the late 19th century and serves as a major symbol of the region's Christianization. It marks the spot where Bishop Douarre and his companions landed to lay the spiritual foundations of the church. The architecture reflects the classic colonial missionary style of that era.",
+    },
+    factsAdvanced: {
+      de: ["Ort der ersten katholischen Messe in Neukaledonien (1843).", "Die Kirche ist dem Heiligen Dionysius (Saint Denis) gewidmet.", "Das massive Steingebäude wurde um 1876 fertiggestellt.", "Beherbergt das Grab von Bischof Guillaume Douarre.", "Befindet sich im historischen Bezirk Pouébo an der Ostküste.", "Die Glasfenster zeigen Szenen aus dem frühen Missionsleben."],
+      hu: ["Az első új-kaledóniai katolikus mise helyszíne (1843).", "A templomot Szent Dénesnek (Saint Denis) szentelték.", "A masszív kőépületet 1876 körül fejezték be.", "Itt található Guillaume Douarre püspök sírhelye.", "A keleti part történelmi Pouébo negyedében található.", "Üvegablakai a korai missziós élet jeleneteit ábrázolják."],
+      ro: ["Locul primei liturghii catolice din Noua Caledonie (1843).", "Biserica este dedicată Sfântului Dionisie (Saint Denis).", "Clădirea masivă din piatră a fost finalizată în jurul anului 1876.", "Găzduiește mormântul episcopului Guillaume Douarre.", "Situată în districtul istoric Pouébo, pe coasta de est.", "Vitraliile înfățișează scene din viața misionară timpurie."],
+      en: ["Site of the first Catholic Mass in New Caledonia (1843).", "The church is dedicated to Saint Denis.", "The massive stone building was completed around 1876.", "Contains the tomb of Bishop Guillaume Douarre.", "Located in the historic Pouébo district on the East Coast.", "Features stained glass windows depicting early missionary life."],
+    },
   },
   {
     id: "newcaledonia-hienghene-cultural-history-v2",
@@ -703,6 +1135,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Center of the independence movement.", "Famous for the 'Hen' rock formation.", "Home to the Goa Ma Bwarhat center.", "Formerly a site for whaling stations."],
     },
     imageHint: "Hienghene village and bay view",
+    descriptionAdvanced: {
+      de: "Hienghène gilt als das kulturelle Herz der Kanak-Identität und ist der Geburtsort des bedeutenden Unabhängigkeitsführers Jean-Marie Tjibaou. Die Region ist berühmt für ihre tief verwurzelten Traditionen und die sorgfältige Bewahrung lokaler Sitten und Bräuche. Historisch war der Ort ein Zentrum des politischen Widerstands gegen die Kolonialverwaltung in den 1980er Jahren. Die kulturelle Aura wird durch die markanten Kalksteinfelsen in der Bucht visuell verstärkt.",
+      hu: "Hienghène a kanak identitás kulturális szíve és a neves függetlenségi vezető, Jean-Marie Tjibaou szülőhelye. A régió híres mélyen gyökerező hagyományairól és a helyi szokások, rítusok gondos megőrzéséről. Történelmileg a település az 1980-as évek gyarmati adminisztráció elleni politikai ellenállásának központja volt. A terület kulturális erejét az öböl jellegzetes mészkősziklái vizuálisan is hangsúlyozzák.",
+      ro: "Hienghène este considerată inima culturală a identității kanak și locul de naștere al liderului pro-independență Jean-Marie Tjibaou. Regiunea este faimoasă pentru tradițiile sale profund înrădăcinate și conservarea atentă a obiceiurilor locale. Din punct de vedere istoric, localitatea a fost un centru al rezistenței politice împotriva administrației coloniale în anii 1980. Aura culturală este accentuată vizual de stâncile de calcar din golf.",
+      en: "Hienghène is regarded as the cultural heart of Kanak identity and is the birthplace of the prominent independence leader Jean-Marie Tjibaou. The region is renowned for its deep-rooted traditions and the careful preservation of local customs and rituals. Historically, the area was a center of political resistance against the colonial administration during the 1980s. Its cultural significance is visually punctuated by the dramatic limestone formations in the bay.",
+    },
+    factsAdvanced: {
+      de: ["Geburtsort von Jean-Marie Tjibaou (1936-1989).", "Sitz des bedeutenden Hienghène Kulturzentrums.", "Bekannt für die Felsformation Poule Couveuse (Brütende Henne).", "Zentrum des politischen Aktivismus während der Ereignisse der 1980er.", "Beherbergt traditionelle Kanak-Häuser (Grandes Cases).", "Ausrichter des ersten Melanesia 2000 Festivals im Jahr 1975."],
+      hu: ["Jean-Marie Tjibaou (1936-1989) szülőhelye.", "A jelentős Hienghène Kulturális Központ otthona.", "Híres a Poule Couveuse (Kotló tyúk) sziklaformációról.", "A politikai aktivizmus központja az 1980-as évek eseményei alatt.", "Hagyományos Kanak nagyházak (Grandes Cases) találhatók itt.", "1975-ben itt rendezték meg az első Melanesia 2000 fesztivált."],
+      ro: ["Locul de naștere al lui Jean-Marie Tjibaou (1936-1989).", "Găzduiește importantul Centru Cultural din Hienghène.", "Cunoscută pentru formațiunea stâncoasă Poule Couveuse (Găina Cloșcă).", "Centru al activismului politic în timpul evenimentelor din anii 1980.", "Include case tradiționale Kanak (Grandes Cases).", "A găzduit primul festival Melanesia 2000 în anul 1975."],
+      en: ["Birthplace of Jean-Marie Tjibaou (1936-1989).", "Home to the significant Hienghène Cultural Center.", "Known for the Poule Couveuse (Brooding Hen) rock formation.", "Center of political activism during the Events of the 1980s.", "Features traditional Kanak Great Houses (Grandes Cases).", "Hosted the first Melanesia 2000 festival in 1975."],
+    },
   },
   {
     id: "newcaledonia-magent-fort-history-v2",
@@ -722,6 +1166,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Named after a battle in Italy.", "Built during the early colonial era.", "Later served as a signal station.", "Now surrounded by residential areas."],
     },
     imageHint: "Magenta fort ruins Noumea",
+    descriptionAdvanced: {
+      de: "Das Fort Magenta wurde im 19. Jahrhundert errichtet, um die strategisch wichtige Bucht von Nouméa gegen potenzielle maritime Angriffe zu verteidigen. Die Festung war wesentlicher Teil eines Verteidigungsnetzwerks, das während der frühen französischen Kolonialzeit etabliert wurde. Sie diente als Beobachtungsposten und Kaserne für die stationierten Truppen. Heute bieten die erhaltenen Überreste der Struktur wertvolle Einblicke in die frühe Militärgeschichte der Hauptstadt.",
+      hu: "A Magenta erőd a 19. században épült, hogy megvédje Nouméa stratégiai jelentőségű öblét a potenciális tengeri támadásoktól. Az erődítmény fontos része volt annak a védelmi hálózatnak, amelyet a korai francia gyarmati korszakban alakítottak ki. Megfigyelőpontként és laktanyaként szolgált a környéken állomásozó csapatok számára. Ma a szerkezet fennmaradt maradványai értékes betekintést nyújtanak a főváros korai katonai múltjába.",
+      ro: "Fortul Magenta a fost construit în secolul al XIX-lea pentru a proteja golful strategic din Nouméa împotriva potențialelor atacuri maritime. Fortificația a fost o parte esențială a rețelei de apărare stabilite în timpul perioadei coloniale franceze timpurii. A servit ca punct de observație și unitate militară pentru trupele staționate. Astăzi, resturile conservate ale structurii oferă detalii valoroase despre istoria militară timpurie a capitalei.",
+      en: "Magenta Fort was constructed in the 19th century to defend the strategic bay of Nouméa against potential maritime threats. The fortification was an essential part of a defensive network established during the early French colonial period. It served as an observation post and a garrison for stationed troops. Today, the preserved remnants of the structure offer valuable insights into the early military history of the capital.",
+    },
+    factsAdvanced: {
+      de: ["In den 1850er Jahren zur Überwachung der Magenta-Bucht erbaut.", "Ursprünglich aus lokalem Stein und Kalkmörtel errichtet.", "Teil der Verteidigungslinie zusammen mit dem Fort Ouémo.", "Diente zur Signalisierung des Schiffsverkehrs in den Hafen.", "Befindet sich auf einem strategischen Hügel im Stadtteil Magenta.", "Liegt heute in unmittelbarer Nähe zum Inlandsflughafen Magenta."],
+      hu: ["Az 1850-es években épült a Magenta-öböl felügyeletére.", "Eredetileg helyi kőből és mészhabarcsból emelték.", "A védelmi vonal része volt a Fort Ouémo-val együtt.", "A kikötőbe érkező hajóforgalom jelzésére használták.", "A Magenta negyed egyik stratégiai dombján helyezkedik el.", "Ma a belföldi Magenta repülőtér közvetlen közelében található."],
+      ro: ["Construit în anii 1850 pentru a supraveghea golful Magenta.", "Ridicat inițial folosind piatră locală și mortar de var.", "Parte a liniei defensive alături de Fort Ouémo.", "Utilizat pentru semnalizarea traficului maritim spre port.", "Situat pe un deal strategic în districtul Magenta.", "Se află astăzi în imediata apropiere a aeroportului intern Magenta."],
+      en: ["Built in the 1850s to overlook Magenta Bay.", "Originally constructed using local stone and lime mortar.", "Part of the defensive line alongside Fort Ouémo.", "Used for signaling maritime traffic entering the harbor.", "Located on a strategic hill in the Magenta district.", "Now situated in close proximity to the Magenta domestic airport."],
+    },
   },
   {
     id: "newcaledonia-ile-nou-prison-history-v2",
@@ -741,6 +1197,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["First convicts arrived in 1864.", "Now part of the Nouville district.", "Ruins of the bakery and chapel remain.", "Used as a prison until 1927."],
     },
     imageHint: "Ile Nou prison ruins Nouville",
+    descriptionAdvanced: {
+      de: "Das Gefängnis auf der Île Nou war das administrative und operative Zentrum des neukaledonischen Strafvorgangs, das 1864 seine Pforten öffnete. Tausende von Sträflingen aus Frankreich wurden hierher deportiert, um in Zwangsarbeitslagern schwere Dienste zu verrichten. Die weitläufigen Ruinen umfassen heute noch Zellen, Werkstätten und die ehemalige Residenz des Lagerkommandanten. Die Insel wurde später durch einen Damm mit Nouméa verbunden und bildet heute den Stadtteil Nouville.",
+      hu: "Az Île Nou börtön az új-kaledóniai büntetés-végrehajtási rendszer adminisztratív és operatív központja volt, amely 1864-ben nyílt meg. Franciaországból fegyencek ezreit deportálták ide, hogy kényszermunkatáborokban végezzenek nehéz munkát. A kiterjedt romok között ma is láthatók cellák, műhelyek és a táborparancsnok egykori rezidenciája. A szigetet később gáttal kötötték össze Nouméával, és ma Nouville városrészét alkotja.",
+      ro: "Închisoarea de pe Île Nou a fost centrul administrativ și operativ al sistemului penal din Noua Caledonie, deschis în 1864. Mii de condamnați din Franța au fost deportați aici pentru a presta muncă silnică în lagăre. Ruinele extinse includ și astăzi celule, ateliere și fosta reședință a comandantului lagărului. Insula a fost ulterior conectată de Nouméa printr-un dig, formând astăzi cartierul Nouville.",
+      en: "The Ile Nou Prison was the administrative and operational heart of the New Caledonian penal system, opening in 1864. Thousands of convicts from France were deported here to perform hard labor in penal camps. The extensive ruins still include cells, workshops, and the former residence of the camp commander. The island was later connected to Nouméa by a causeway and now constitutes the district of Nouville.",
+    },
+    factsAdvanced: {
+      de: ["Die ersten 250 Sträflinge trafen am 9. Mai 1864 ein.", "Diente als organisatorisches Herzstück des Bagne (Strafkolonie).", "Offizielle Schließung für Strafzwecke erfolgte erst im Jahr 1927.", "Viele Gebäude beherbergen heute die Universität von Neukaledonien.", "Das Camp des Travaux war der Hauptsektor für die Arbeitskräfte.", "Umfasst eine historische Bäckerei, die einst Tausende versorgte."],
+      hu: ["Az első 250 fegyenc 1864. május 9-én érkezett meg.", "A Bagne (büntetőkolónia) szervezeti központjaként szolgált.", "Hivatalosan 1927-ben zárták be büntetés-végrehajtási célokra.", "Sok épület ma az Új-Kaledóniai Egyetemnek ad otthont.", "A Camp des Travaux volt a munkaerő fő szektora.", "Tartozik hozzá egy történelmi pékség, amely egykor ezreket látott el."],
+      ro: ["Primii 250 de condamnați au sosit pe 9 mai 1864.", "A servit ca inimă organizatorică a Bagne (colonia penală).", "Închiderea oficială pentru scopuri penale a avut loc în 1927.", "Multe clădiri găzduiesc astăzi Universitatea din Noua Caledonie.", "Camp des Travaux a fost sectorul principal pentru forța de muncă.", "Include o brutărie istorică ce hrănea odinioară mii de oameni."],
+      en: ["The first 250 convicts arrived on May 9, 1864.", "Served as the organizational heart of the Bagne (penal colony).", "Officially closed for penal purposes in 1927.", "Many buildings now house the University of New Caledonia.", "The Camp des Travaux was the main sector for labor.", "Includes a historic bakery that once fed thousands."],
+    },
   },
   {
     id: "newcaledonia-ducos-leper-colony-history-v2",
@@ -760,6 +1228,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Established in 1891.", "Convicts were also isolated here.", "Remnants of stone cells are visible.", "Now an industrial and port zone."],
     },
     imageHint: "Ducos peninsula historic ruins",
+    descriptionAdvanced: {
+      de: "Die Leprastation auf der Halbinsel Ducos wurde 1918 eingerichtet, um Erkrankte von der übrigen Bevölkerung zu isolieren und medizinisch zu versorgen. Zuvor diente das Gelände als Internierungslager für politische Verbannte der Pariser Kommune. Über Jahrzehnte wurde die Einrichtung von engagierten religiösen Orden geführt, die sich der Pflege der Patienten widmeten. Die Geschichte des Ortes zeugt sowohl von menschlichem Leid als auch von der stetigen Weiterentwicklung medizinischer Behandlungen.",
+      hu: "A Ducos-félszigeten található lepratelep 1918-ban jött létre, hogy elkülönítse a betegeket a lakosság többi részétől és orvosi ellátást biztosítson számukra. Ezt megelőzően a terület a Párizsi Kommün politikai száműzötteinek internálótáboraként szolgált. Az intézményt évtizedeken át elhivatott vallási rendek vezették, akik a betegek ápolását végezték. A hely története egyszerre tanúskodik az emberi szenvedésről és az orvosi kezelések folyamatos fejlődéséről.",
+      ro: "Colonia de leproși de pe peninsula Ducos a fost înființată în 1918 pentru a izola persoanele infectate de restul populației și pentru a le oferi îngrijire medicală. Anterior, terenul a servit drept lagăr de internare pentru exilații politici ai Comunei din Paris. Timp de decenii, instituția a fost condusă de ordine religioase dedicate îngrijirii bolnavilor. Istoria locului atestă atât suferința umană, cât și evoluția constantă a tratamentelor medicale.",
+      en: "The Ducos Peninsula Leper Colony was established in 1918 to isolate patients from the rest of the population and provide them with medical care. Before its medical use, the area served as an internment camp for political exiles from the Paris Commune. For decades, the facility was managed by dedicated religious orders who focused on patient care. Its history reflects both human suffering and the steady evolution of medical treatments.",
+    },
+    factsAdvanced: {
+      de: ["An der Stelle Marais auf der Ducos-Halbinsel errichtet.", "Ersetzte frühere, weniger organisierte Isolationslager.", "Hauptsächlich von den Schwestern Mariens (Sœurs de Marie) geleitet.", "Beherbergte in Spitzenzeiten über 100 Patienten gleichzeitig.", "Die Station wurde mit Aufkommen moderner Medikamente schrittweise geschlossen.", "Einige ursprüngliche koloniale Krankenhausgebäude sind noch erhalten."],
+      hu: ["A Ducos-félsziget Marais nevű helyszínén hozták létre.", "Korábbi, kevésbé szervezett izolációs táborokat váltott fel.", "Elsősorban a Mária-nővérek (Sœurs de Marie) irányították.", "Csúcsidőszakában egyszerre több mint 100 beteget látott el.", "A modern gyógyszerek megjelenésével az állomást fokozatosan bezárták.", "Néhány eredeti gyarmati kórházi épület ma is áll."],
+      ro: ["Înființată în locația Marais de pe peninsula Ducos.", "A înlocuit lagăre de izolare anterioare, mai puțin organizate.", "Administrată în principal de Surorile Mariei (Sœurs de Marie).", "A găzduit peste 100 de pacienți simultan în perioadele de vârf.", "Stația a fost închisă treptat odată cu apariția medicamentelor moderne.", "Unele clădiri originale de infirmerie colonială sunt încă în picioare."],
+      en: ["Established at the Marais site on the Ducos Peninsula.", "Replaced earlier, less organized isolation camps.", "Managed primarily by the Sisters of Mary (Sœurs de Marie).", "Hosted over 100 patients simultaneously during its peak years.", "The station was phased out as modern medication became available.", "Some original colonial infirmary buildings are still standing."],
+    },
   },
   {
     id: "newcaledonia-briqueterie-plum-history-v2",
@@ -779,6 +1259,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Produced the red bricks of the city.", "Built in 1883.", "Key part of the local construction history.", "Located near the Plum springs."],
     },
     imageHint: "Plum brickworks ruins chimney",
+    descriptionAdvanced: {
+      de: "Die alte Ziegelei in Plum ist ein bedeutender Überrest der frühen Industrie Neukaledoniens aus dem späten 19. Jahrhundert. Hier wurden Backsteine produziert, die für die Errichtung zahlreicher kolonialer Prachtbauten in Nouméa und Umgebung verwendet wurden. Die Fabrik profitierte von den lokalen Lehmvorkommen und nutzte häufig die Arbeitskraft von Strafgefangenen. Heute sind nur noch die markanten Schornsteine und Ofenstrukturen inmitten der üppigen Vegetation als Denkmäler sichtbar.",
+      hu: "A Plum településen található régi téglagyár az új-kaledóniai korai ipar egyik legfontosabb emléke a 19. század végéről. Itt gyártották azokat a téglákat, amelyeket Nouméa és környéke számos gyarmati középületének építéséhez használtak fel. A gyár a helyi agyaglelőhelyekre épült, és gyakran alkalmazott fegyencmunkát. Ma a dús növényzetben már csak a jellegzetes kémények és kemenceszerkezetek láthatók ipari műemlékként.",
+      ro: "Vechea fabrică de cărămidă din Plum este o vestigie importantă a industriei timpurii din Noua Caledonie, datând de la sfârșitul secolului al XIX-lea. Aici au fost produse cărămizile utilizate la construcția a numeroase clădiri coloniale din Nouméa și împrejurimi. Fabrica a beneficiat de zăcămintele locale de argilă și a folosit frecvent forța de muncă a condamnaților. Astăzi, doar coșurile distinctive și structurile cuptoarelor mai sunt vizibile în vegetația luxuriantă.",
+      en: "The Plum Old Brickworks is a significant remnant of New Caledonia's early industrial era from the late 19th century. It produced the bricks used for the construction of numerous colonial buildings in Nouméa and the surrounding regions. The factory benefited from local clay deposits and frequently utilized convict labor for its operations. Today, only the prominent chimneys and kiln structures remain visible amidst the lush vegetation as industrial monuments.",
+    },
+    factsAdvanced: {
+      de: ["Betriebszeitraum lag etwa zwischen 1870 und 1910.", "Lieferte Baumaterial für die Kathedrale von Nouméa.", "Befindet sich nahe dem Plum-Fluss für einfachen Wasserzugang.", "Verwendete einen Hoffman-Ringofen zur effizienten Ziegelbrennung.", "Der Großteil der schweren Arbeit wurde von Transportés (Sträflingen) verrichtet.", "Ist heute als geschütztes industrielles Erbe klassifiziert."],
+      hu: ["Működési ideje nagyjából 1870 és 1910 közé tehető.", "Építőanyagot szolgáltatott a nouméai katedrálishoz.", "A Plum-folyó közelében található a könnyű vízi hozzáférés miatt.", "Hoffman-típusú folyamatos kemencét használt a hatékonyság érdekében.", "A nehéz munka nagy részét fegyencek (transportés) végezték.", "Ma védett ipari örökségként van besorolva."],
+      ro: ["Perioada de funcționare a fost cuprinsă aproximativ între 1870 și 1910.", "A furnizat materiale de construcție pentru Catedrala din Nouméa.", "Situată lângă râul Plum pentru acces ușor la apă.", "Utiliza un cuptor continuu de tip Hoffman pentru eficiență.", "Cea mai mare parte a muncii grele era prestată de condamnați.", "Este clasificată astăzi ca patrimoniu industrial protejat."],
+      en: ["Operational between approximately 1870 and 1910.", "Provided building materials for the Nouméa Cathedral.", "Located near the Plum River for easy water access.", "Utilized a Hoffman-style continuous kiln for efficiency.", "Most of the heavy labor was performed by transportés (convicts).", "Classified as a protected industrial heritage site today."],
+    },
   },
   {
     id: "newcaledonia-deva-archaeology-history-v2",
@@ -798,6 +1290,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Contains prehistoric burial sites.", "Shows ancient Kanak irrigation systems.", "Key to understanding agricultural history.", "Located within a protected nature park."],
     },
     imageHint: "Deva archaeological site field",
+    descriptionAdvanced: {
+      de: "Die archäologische Stätte Deva ist von unschätzbarem Wert für das Verständnis der frühen pazifischen Besiedlung durch die Lapita-Kultur. Hier wurden zahlreiche verzierte Tonscherben entdeckt, die über 3000 Jahre alt sind und auf eine hoch entwickelte Gesellschaft hinweisen. Die Funde belegen die weitreichenden Handelskontakte der frühen Seefahrer zwischen den Inselgruppen. Das Areal ist heute Teil eines Naturschutzgebietes und dient weiterhin als wichtiges Forschungsfeld für Archäologen weltweit.",
+      hu: "A Deva régészeti lelőhely felbecsülhetetlen értékű a Lapita-kultúra általi korai csendes-óceáni benépesítés megértéséhez. Számos díszített cseréptöredéket fedeztek fel itt, amelyek több mint 3000 évesek, és egy magasan fejlett társadalomra utalnak. A leletek bizonyítják a korai tengerészek kiterjedt kereskedelmi kapcsolatait a szigetcsoportok között. A terület ma egy természetvédelmi park része, és továbbra is fontos kutatási terep a régészek számára.",
+      ro: "Situl arheologic Deva este de o valoare inestimabilă pentru înțelegerea colonizării timpurii a Pacificului de către cultura Lapita. Aici au fost descoperite numeroase fragmente de ceramică decorată, vechi de peste 3000 de ani, care indică o societate extrem de dezvoltată. Descoperirile atestă contactele comerciale extinse ale primilor navigatori între arhipelaguri. Zona face parte astăzi dintr-o rezervație naturală și rămâne un teren de cercetare important.",
+      en: "The Deva Archaeological Site is of immense value for understanding the early Pacific settlement by the Lapita culture. Numerous decorated pottery shards, dating back over 3,000 years, have been discovered here, indicating a highly sophisticated society. The finds provide evidence of extensive trade contacts maintained by early seafarers between island groups. Today, the area is part of a nature reserve and continues to serve as an important research field for archaeologists.",
+    },
+    factsAdvanced: {
+      de: ["Die Lapita-Keramikfunde datieren auf etwa 1000 v. Chr.", "Liegt innerhalb der Domaine de Deva in der Gemeinde Bourail.", "Beherbergt eine der dichtesten Konzentrationen antiker Tonscherben.", "Beweise für frühe landwirtschaftliche Praktiken wurden in der Nähe gefunden.", "Unterstreicht die historischen Verbindungen zwischen Vanuatu und Neukaledonien.", "Wurde durch internationale Teams systematisch und wissenschaftlich ausgegraben."],
+      hu: ["Az itt talált Lapita-kerámiák i. e. 1000 környékéről származnak.", "A Bourail községben található Domaine de Deva területén fekszik.", "Az ősi cseréptöredékek egyik legsűrűbb lelőhelye a térségben.", "A közelben korai mezőgazdasági gyakorlatokra utaló nyomokat is találtak.", "Kiemeli a Vanuatu és Új-Kaledónia közötti történelmi kapcsolatokat.", "Nemzetközi csapatok végeztek itt szisztematikus tudományos feltárásokat."],
+      ro: ["Fragmentele de ceramică Lapita datează din aproximativ 1000 î.Hr.", "Situat în cadrul Domaine de Deva, în municipalitatea Bourail.", "Găzduiește una dintre cele mai mari concentrații de cioburi antice.", "Dovezi ale practicilor agricole timpurii au fost descoperite în apropiere.", "Subliniază legăturile istorice dintre Vanuatu și Noua Caledonie.", "A fost excavat sistematic și științific de echipe internaționale."],
+      en: ["Lapita pottery found here dates back to roughly 1000 BC.", "Located within the Domaine de Deva in the municipality of Bourail.", "Features one of the highest concentrations of ancient pottery shards.", "Evidence of early agricultural practices was discovered nearby.", "Highlights the historical connections between Vanuatu and New Caledonia.", "Systematically and scientifically excavated by international teams."],
+    },
   },
   {
     id: "newcaledonia-troisieme-cave-ww2-history-v2",
@@ -817,6 +1321,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Part of the US defense network.", "Storage rooms blasted into the rock.", "Militarily reinforced in 1942.", "Now a popular spot for hikers."],
     },
     imageHint: "Troisieme cave entrance New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Troisième Cave wurde während des Zweiten Weltkriegs von den US-Streitkräften als bombensicherer Lagerraum und Behelfslazarett zweckentfremdet. Die natürliche Kalksteinhöhle bot perfekten Schutz vor Luftangriffen und war aufgrund ihrer Lage strategisch wertvoll. In den feuchten Kammern wurden Vorräte, Munition und Ausrüstung für die Truppen im Pazifikraum untergebracht. Heute dient die Höhle als stilles Denkmal für die bedeutende militärische Präsenz der Alliierten auf der Insel.",
+      hu: "A Troisième Cave-et a második világháború alatt az amerikai erők bombabiztos raktárként és kisegítő hadikórházként használták. A természetes mészkőbarlang tökéletes védelmet nyújtott a légitámadások ellen, és elhelyezkedése miatt stratégiailag értékes volt. A nyirkos járatokban a csendes-óceáni térségben állomásozó csapatok számára tároltak készleteket és felszereléseket. Ma a barlang a szövetségesek jelentős katonai jelenlétének néma mementója.",
+      ro: "Peștera Troisième a fost utilizată în timpul celui de-al Doilea Război Mondial de forțele americane ca depozit rezistent la bombardamente și spital de campanie auxiliar. Peștera naturală de calcar oferea protecție perfectă împotriva atacurilor aeriene și era valoroasă din punct de vedere strategic. În galeriile sale umede erau depozitate provizii și echipamente pentru trupele din zona Pacificului. Astăzi, peștera este o mărturie tăcută a prezenței militare aliate pe insulă.",
+      en: "The Troisieme Cave was repurposed during World War II by US forces as a bomb-proof storage facility and auxiliary field hospital. The natural limestone cave provided perfect shelter from air raids and was strategically valuable due to its location. Supplies, ammunition, and equipment for troops deployed in the Pacific were housed within its damp chambers. Today, the cave serves as a silent monument to the significant Allied military presence on the island.",
+    },
+    factsAdvanced: {
+      de: ["Teil eines Netzwerks aus drei Höhlen in der Nähe von Hienghène.", "Wurde im Jahr 1942 von der US-Armee beschlagnahmt und genutzt.", "Diente primär der Lagerung von Munition und medizinischen Vorräten.", "Die natürliche Innentemperatur blieb das ganze Jahr über stabil.", "Groß genug, um Dutzende von Soldaten gleichzeitig aufzunehmen.", "Über einen kurzen Wanderweg von der Hauptstraße aus erreichbar."],
+      hu: ["A Hienghène közelében található három barlangból álló hálózat része.", "1942-ben az amerikai hadsereg vette igénybe és használta.", "Elsősorban lőszer és orvosi készletek tárolására szolgált.", "A természetes belső hőmérséklet egész évben stabil maradt.", "Elég tágas ahhoz, hogy egyszerre több tucat katonát befogadjon.", "A főúttól egy rövid túraútvonalon keresztül érhető el."],
+      ro: ["Parte a unei rețele de trei peșteri situate lângă Hienghène.", "A fost rechiziționată și utilizată de armata SUA în anul 1942.", "A servit în principal pentru depozitarea muniției și a proviziilor medicale.", "Temperatura interioară naturală a rămas stabilă pe tot parcursul anului.", "Suficient de mare pentru a adăposti zeci de soldați simultan.", "Accesibilă printr-un scurt traseu de drumeție de la drumul principal."],
+      en: ["Part of a network of three caves located near Hienghène.", "Requisitioned and utilized by the US Army in 1942.", "Primarily used for storing ammunition and medical supplies.", "The natural internal temperature remained stable year-round.", "Large enough to accommodate dozens of soldiers at once.", "Accessible via a short hiking trail from the main road."],
+    },
   },
   {
     id: "newcaledonia-hotel-ville-noumea-history-v2",
@@ -836,6 +1352,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Built in 1880.", "Seat of the first mayor.", "Features classic colonial verandas.", "Houses exhibitions on city history."],
     },
     imageHint: "Noumea City Museum old building",
+    descriptionAdvanced: {
+      de: "Das alte Rathaus von Nouméa wurde 1890 fertiggestellt und gilt als eines der elegantesten Beispiele für die Kolonialarchitektur in der Hauptstadt. Ursprünglich als privates Wohnhaus geplant, diente es über ein Jahrhundert lang als administrativer Sitz der Stadtverwaltung. Heute beherbergt das sorgfältig restaurierte Gebäude das Stadtmuseum, das die Geschichte von Nouméa anschaulich dokumentiert. Die charakteristischen Veranden und die Fassade sind typisch für den neoklassizistischen Stil des 19. Jahrhunderts.",
+      hu: "Nouméa régi városháza 1890-ben készült el, és a főváros gyarmati építészetének egyik legelegánsabb példája. Eredetileg magánlakásnak szánták, de több mint egy évszázadon át a városi adminisztráció székhelyeként szolgált. Ma a gondosan restaurált épületben működik a Városi Múzeum, amely Nouméa történetét dokumentálja. A jellegzetes verandák és a homlokzat a 19. századi neoklasszicista stílus jegyeit viselik.",
+      ro: "Vechea Primărie din Nouméa a fost finalizată în 1890 și este considerată unul dintre cele mai elegante exemple de arhitectură colonială din capitală. Planificată inițial ca reședință privată, a servit timp de peste un secol ca sediu administrativ al municipalității. Astăzi, clădirea restaurată cu grijă găzduiește Muzeul Orașului, care documentează istoria localității. Verandele caracteristice și fațada sunt tipice stilului neoclasic din secolul al XIX-lea.",
+      en: "The Nouméa Old City Hall was completed in 1890 and is considered one of the most elegant examples of colonial architecture in the capital. Originally intended as a private residence, it served as the administrative seat of the municipal government for over a century. Today, the carefully restored building houses the City Museum, which documents the history of Nouméa. Its hallmark verandas and facade are typical of the 19th-century neoclassical style.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut für den Geschäftsmann Marchand im späten 19. Jahrhundert.", "Wurde im Jahr 1890 offiziell von der Stadtverwaltung erworben.", "Befindet sich an der prominenten Ecke der Place des Cocotiers.", "Wurde im Jahr 1975 unter Denkmalschutz gestellt.", "Die Umwandlung in das Musée de la Ville erfolgte 1996.", "Überstand zahlreiche schwere Zyklone ohne größere strukturelle Schäden."],
+      hu: ["Marchand üzletember számára épült a 19. század végén.", "A városvezetés 1890-ben vásárolta meg hivatalosan.", "A Place des Cocotiers egyik hangsúlyos sarkán található.", "1975-ben nyilvánították történelmi műemlékké.", "A Városi Múzeummá (Musée de la Ville) való átalakítás 1996-ban történt.", "Számos súlyos ciklont vészelt át jelentősebb szerkezeti károk nélkül."],
+      ro: ["Construită pentru omul de afaceri Marchand la sfârșitul secolului al XIX-lea.", "A fost achiziționată oficial de municipalitate în anul 1890.", "Situată la colțul proeminent al pieței Place des Cocotiers.", "Desemnată ca monument istoric în anul 1975.", "Transformarea în Musée de la Ville a avut loc în 1996.", "A supraviețuit numeroaselor ciclone fără daune structurale majore."],
+      en: ["Built for a businessman named Marchand in the late 19th century.", "Purchased by the city government officially in 1890.", "Located at the prominent corner of Place des Cocotiers.", "Designated as a historic monument in 1975.", "Transformed into the Musée de la Ville in 1996.", "Survived numerous severe cyclones without major structural damage."],
+    },
   },
   {
     id: "newcaledonia-vao-church-history-v2",
@@ -855,6 +1383,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Built by missionaries and locals.", "Known for its colorful wooden ceiling.", "Located on a small hill.", "Key site for religious festivals."],
     },
     imageHint: "Vao church Isle of Pines exterior",
+    descriptionAdvanced: {
+      de: "Die Kirche von Vao auf der Ile des Pins wurde 1860 von katholischen Missionaren mit Unterstützung von Strafgefangenen errichtet. Sie bildet das religiöse und soziale Zentrum der Insel und ist ein eindrucksvolles Zeugnis der frühen christlichen Missionierung in der Region. Die Innenausstattung besticht durch kunstvolle Holzschnitzereien, die von Angehörigen der lokalen Kanak-Stämme gefertigt wurden. Die Kirche thront auf einer Anhöhe und überblickt das traditionelle Dorf Vao.",
+      hu: "A Vao templom a Fenyő-szigeten (Ile des Pins) 1860-ban épült katolikus misszionáriusok és fegyencek közreműködésével. A sziget vallási és közösségi központját alkotja, és a régió korai keresztény hittérítésének lenyűgöző emléke. A belső teret a helyi kanak törzsek tagjai által készített művészi fafaragványok díszítik. A templom egy dombtetőn trónol, ahonnan rálátás nyílik Vao hagyományos falujára.",
+      ro: "Biserica din Vao, situată pe Ile des Pins, a fost construită în 1860 de misionari catolici cu sprijinul condamnaților. Formează centrul religios și social al insulei și este o mărturie impresionantă a misiunilor creștine timpurii din regiune. Interiorul se remarcă prin sculpturi în lemn elaborate, realizate de membrii triburilor locale kanak. Biserica este amplasată pe o colină, dominând satul tradițional Vao.",
+      en: "Vao Church, located on the Isle of Pines, was built in 1860 by Catholic missionaries with the assistance of convict labor. It forms the religious and social heart of the island and stands as an impressive testament to early Christian missions in the region. The interior is decorated with intricate wood carvings crafted by members of the local Kanak tribes. The church sits on a hilltop, overlooking the traditional village of Vao.",
+    },
+    factsAdvanced: {
+      de: ["Der Himmelfahrt Mariens (Assomption de la Vierge) gewidmet.", "Hauptsächlich aus lokalem Kalkstein und Korallengestein erbaut.", "Sträflinge der nahegelegenen 5. Kommune halfen bei den Bauarbeiten.", "Die Kirchenglocke wurde in Frankreich gegossen und per Schiff geliefert.", "Beherbergt eine Sammlung traditioneller melanesischer Sakralkunst.", "Ist bis heute der Hauptort für katholische Festlichkeiten auf der Insel."],
+      hu: ["Mária mennybemenetelének (Assomption de la Vierge) szentelték.", "Elsősorban helyi mészkőből és korallból épült.", "A közeli 5. település fegyencei segítettek az építkezésben.", "A templom harangját Franciaországban öntötték és hajóval szállították.", "Hagyományos melanéz vallási művészeti gyűjteménynek ad otthont.", "Ma is a katolikus ünnepségek fő helyszíne a szigeten."],
+      ro: ["Dedicată Adormirii Maicii Domnului (Assomption de la Vierge).", "Construită în principal din calcar local și piatră de corali.", "Condamnații din a 5-a comună din apropiere au ajutat la construcție.", "Clopotul bisericii a fost turnat în Franța și adus cu nava.", "Găzduiește o colecție de artă sacră tradițională melaneziană.", "Rămâne principalul loc pentru festivitățile catolice de pe insulă."],
+      en: ["Dedicated to the Assumption of the Virgin Mary.", "Built primarily with local limestone and coral rock.", "Convicts from the nearby 5th commune assisted in the construction.", "The church bell was cast in France and delivered by ship.", "Houses a collection of traditional Melanesian religious art.", "Remains the primary site for Catholic festivities on the island."],
+    },
   },
   {
     id: "newcaledonia-foue-penal-station-history-v2",
@@ -874,6 +1414,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Part of the convict rehabilitation program.", "Center for early livestock experiments.", "Ruins of administrative buildings remain.", "Now of significant archaeological interest."],
     },
     imageHint: "Foue penal station ruins Koné",
+    descriptionAdvanced: {
+      de: "Die landwirtschaftliche Strafstation Foué bei Koné wurde im späten 19. Jahrhundert etabliert, um Sträflinge für die großflächige Bewirtschaftung des Landes einzusetzen. Ziel des Projekts war die landwirtschaftliche Erschließung der Westküste und die Gewährleistung der Nahrungsmittelautonomie der Kolonie. Die Insassen mussten unter harten klimatischen Bedingungen Getreide anbauen und Vieh züchten. Die Ruinen der Verwaltungsgebäude sind heute wichtige historische Zeugnisse der frühen Regionalgeschichte.",
+      hu: "A Koné közelében található Foué mezőgazdasági büntetőállomást a 19. század végén hozták létre fegyencek nagyszabású földművelésre való alkalmazására. A projekt célja a nyugati part mezőgazdasági fejlesztése és a gyarmat élelmiszer-önellátásának biztosítása volt. A fogvatartottaknak kemény éghajlati körülmények között kellett gabonát termeszteniük és állatokat tenyészteniük. Az adminisztrációs épületek romjai ma a régió korai történelmének fontos bizonyítékai.",
+      ro: "Stația penală agricolă Foué, de lângă Koné, a fost stabilită la sfârșitul secolului al XIX-lea pentru a folosi condamnații la agricultura pe scară largă. Scopul proiectului era dezvoltarea agricolă a coastei de vest și asigurarea autonomiei alimentare a coloniei. Deținuții erau forțați să cultive cereale și să crească animale în condiții climatice aspre. Ruinele clădirilor administrative sunt astăzi mărturii istorice importante ale istoriei regionale timpurii.",
+      en: "The Foué Agricultural Penal Station near Koné was established in the late 19th century to employ convicts in large-scale farming. The project aimed to develop the West Coast's agricultural potential and ensure the colony's food autonomy. Inmates were forced to cultivate grain and raise livestock under harsh climatic conditions. The ruins of the administrative buildings are now important historical witnesses to the region's early history.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um 1880 als sekundärer Standort des Strafvollzugs.", "Spezialisiert auf den Anbau von Mais und Hülsenfrüchten.", "Strategisch günstig in der Nähe des Foué-Flusses gelegen.", "Beherbergte in Spitzenzeiten bis zu 200 Rückfalltäter (Relégués).", "Lieferte Fleisch und landwirtschaftliche Produkte an das Gefängnis Ile Nou.", "Bedeutend für die Siedlungsgeschichte des Koné-Gebiets."],
+      hu: ["1880 körül alapították mint másodlagos büntetés-végrehajtási helyszínt.", "Kukorica és hüvelyesek termesztésére specializálódott.", "Stratégiailag a Foué-folyó közelében helyezkedik el.", "Csúcsidőszakában akár 200 visszaeső fogvatartottat is befogadott.", "Húst és mezőgazdasági termékeket szállított az Ile Nou börtönnek.", "Jelentős szerepet játszott a Koné-térség betelepülésének történetében."],
+      ro: ["Înființată în jurul anului 1880 ca locație penală secundară.", "Specializată în cultivarea porumbului și a leguminoaselor.", "Situată strategic în apropierea râului Foué.", "A găzduit până la 200 de deținuți recidiviști în perioada de vârf.", "Furniza carne și produse agricole pentru închisoarea de pe Ile Nou.", "Semnificativă pentru istoria colonizării zonei Koné."],
+      en: ["Established around 1880 as a secondary penal site.", "Specialized in the cultivation of maize and legumes.", "Strategically located near the Foué river.", "Housed up to 200 repeat offenders (relégués) at its peak.", "Provided meat and produce for the main prison on Ile Nou.", "Significant for the early settlement history of the Koné area."],
+    },
   },
   {
     id: "newcaledonia-petit-train-mine-history-v2",
@@ -893,6 +1445,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["First railway line opened in 1890.", "Transported nickel ore to the coast.", "Steam locomotives were used originally.", "Remnants of the tracks are still visible."],
     },
     imageHint: "Historic mining train locomotive Thio",
+    descriptionAdvanced: {
+      de: "Der Bergbauzug in Thio war ein wesentlicher Bestandteil der Nickelindustrie im späten 19. Jahrhundert. Er verband die Minen auf den Höhen mit dem Hafen, um das Erz für den Export zu verladen. Heute sind Teile der Gleise und Waggons als Industriedenkmal erhalten geblieben.",
+      hu: "A Thio melletti bányavasút a 19. század végén a nikkelipar kulcsfontosságú eleme volt. A hegyi bányákat kötötte össze a kikötővel az ércszállítás megkönnyítése érdekében. Ma a sínek és vagonok maradványai fontos ipari műemléknek számítanak.",
+      ro: "Trenul minier din Thio a reprezentat o componentă esențială a industriei nichelului la sfârșitul secolului al XIX-lea. Acesta făcea legătura între minele de pe culmi și port pentru exportul minereului. Astăzi, fragmente din șine și vagoane sunt păstrate ca monumente industriale.",
+      en: "The mining train in Thio was a crucial component of the nickel industry in the late 19th century. It connected the highland mines with the port to facilitate ore transport for export. Today, remains of the tracks and wagons are preserved as industrial heritage sites.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung der Mine in Thio im Jahr 1880", "Verwendung von Decauville-Schmalspurgleisen", "Spurweite von 600 mm", "Dampflokomotiven bis Mitte des 20. Jahrhunderts", "Streckennetz von über 20 km in der Blütezeit", "Erhaltene Lokomotive im Thio-Museum ausgestellt"],
+      hu: ["A thioi bánya 1880-ban nyílt meg", "Decauville típusú keskeny nyomtávú síneket használtak", "A nyomtáv 600 mm volt", "Gőzmozdonyok üzemeltek a 20. század közepéig", "A hálózat hossza meghaladta a 20 km-t a fénykorban", "Egy megőrzött mozdony látható a Thio Múzeumban"],
+      ro: ["Mina din Thio s-a deschis în anul 1880", "Utilizarea șinelor cu ecartament îngust Decauville", "Ecartamentul era de 600 mm", "Locomotive cu abur au funcționat până la jumătatea secolului XX", "Rețeaua a depășit 20 km de linii în perioada de vârf", "O locomotivă conservată este expusă la Muzeul din Thio"],
+      en: ["Thio mine opened in 1880", "Utilized Decauville narrow-gauge tracks", "Track gauge was 600mm", "Steam locomotives operated until mid-20th century", "Network exceeded 20km of tracks at its peak", "A preserved engine is displayed at the Thio Museum"],
+    },
   },
   {
     id: "newcaledonia-oubi-village-history-v2",
@@ -912,6 +1476,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Center of local chieftainship.", "Preserves traditional construction methods.", "Vital for oral history and traditions.", "Beautiful valley location in the hinterland."],
     },
     imageHint: "Traditional Kanak village Oubi",
+    descriptionAdvanced: {
+      de: "Das Dorf Oubi liegt im Norden der Hauptinsel und ist eng mit der frühen Kolonialgeschichte verbunden. In der Nähe von Pouébo gelegen, war dieses Gebiet Schauplatz der ersten Kontakte zwischen Kanak und Europäern im Jahr 1843. Die traditionelle Architektur und die mündlichen Überlieferungen bewahren das Erbe der Vorfahren.",
+      hu: "Oubi falu a fősziget északi részén található, és szorosan kötődik a korai gyarmati történelemhez. Pouébo közelében ez a terület volt a kanakok és az európaiak első, 1843-as érintkezésének helyszíne. A hagyományos építészet és a szóbeli hagyományok őrzik az ősök örökségét.",
+      ro: "Satul Oubi este situat în nordul insulei principale și este strâns legat de istoria colonială timpurie. Situată lângă Pouébo, această zonă a fost scena primelor contacte între kanak și europeni în 1843. Arhitectura tradițională și tradițiile orale păstrează moștenirea strămoșească.",
+      en: "Oubi village is located in the north of the main island and is closely linked to early colonial history. Situated near Pouébo, this area was the site of the first contacts between Kanak people and Europeans in 1843. Traditional architecture and oral traditions preserve the ancestral heritage.",
+    },
+    factsAdvanced: {
+      de: ["In der Nähe von Pouébo im Norden gelegen", "Ankunft der Maristenmission im Jahr 1843", "Starker katholischer Einfluss bleibt bestehen", "Traditionelle Kanak-Hütten (Cases) sind erhalten", "Höhenlage von ca. 50 Metern", "Teil des Kulturraums Hoot ma Waap"],
+      hu: ["Pouébo közelében, északon található", "A marista misszió érkezése 1843-ban", "A katolikus befolyás továbbra is erős", "Hagyományos kanak kunyhók (cases) láthatók", "Tengerszint feletti magasság kb. 50 méter", "A Hoot ma Waap kulturális terület része"],
+      ro: ["Situat lângă Pouébo, în nord", "Sosirea misiunii mariste în anul 1843", "Influența catolică rămâne puternică", "Colibe tradiționale Kanak (cases) prezente", "Altitudine de aproximativ 50 de metri", "Parte a ariei culturale Hoot ma Waap"],
+      en: ["Located near Pouébo in the north", "1843 Marist mission arrival", "Catholic influence remains strong", "Traditional Kanak huts (cases) preserved", "Elevation approx 50 meters", "Part of the Hoot ma Waap cultural area"],
+    },
   },
   {
     id: "newcaledonia-semaphore-bourail-history-v2",
@@ -931,6 +1507,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Strategic point overlooking the ocean.", "Warned of ships near the reef.", "Used for communication between settlements.", "Now surrounded by scenic hiking trails."],
     },
     imageHint: "Bourail semaphore hill view",
+    descriptionAdvanced: {
+      de: "Das Semaphor von Bourail wurde Ende des 19. Jahrhunderts auf einer Anhöhe errichtet, um die Küste zu überwachen. Es diente der Übermittlung von Signalen an Schiffe und der Früherkennung von Bedrohungen. Heute bietet der Standort einen weiten Blick über das Riff und dokumentiert die maritime Kommunikationsgeschichte.",
+      hu: "A bouraili szemafor a 19. század végén épült egy magaslaton a partvonal megfigyelésére. A hajóknak küldött jelek továbbítására és a fenyegetések korai észlelésére szolgált. Ma a helyszín tágas kilátást nyújt a zátonyokra, és a tengeri kommunikáció történetét dokumentálja.",
+      ro: "Semaforul din Bourail a fost construit la sfârșitul secolului al XIX-lea pe o înălțime pentru a supraveghea coasta. Acesta servea la transmiterea semnalelor către nave și la detectarea timpurie a pericolelor. Astăzi, situl oferă o vedere panoramică asupra recifului și documentează istoria comunicațiilor maritime.",
+      en: "The semaphore of Bourail was built in the late 19th century on a high point to monitor the coastline. It served to transmit signals to ships and provide early detection of potential threats. Today, the site offers a panoramic view over the reef and documents maritime communication history.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1889", "Befindet sich auf dem Gouaro-Hügel", "System der visuellen Telegrafie genutzt", "Mitte des 20. Jahrhunderts außer Dienst gestellt", "Massive Steinbauweise", "Teil des Überwachungsnetzes der Strafkolonie"],
+      hu: ["1889-ben épült", "A Gouaro-dombon található", "Vizuális távírórendszert használt", "A 20. század közepén vonták ki a forgalomból", "Kőből készült építmény", "A büntetőtelep megfigyelő hálózatának része"],
+      ro: ["Construit în anul 1889", "Situat pe dealul Gouaro", "Utilizarea sistemului de telegrafie vizuală", "Scoaterea din uz la mijlocul secolului XX", "Construcție masivă din piatră", "Parte a rețelei de supraveghere a coloniei penitenciare"],
+      en: ["Built in 1889", "Located on Gouaro hill", "Visual telegraphy system used", "Decommissioned in mid-20th century", "Stone construction", "Part of the penal colony surveillance network"],
+    },
   },
   {
     id: "newcaledonia-point-zero-noumea-history-v2",
@@ -950,6 +1538,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Small bronze marker in the pavement.", "Heart of the city's urban planning.", "Installed in the 19th century.", "Popular photo spot for visitors."],
     },
     imageHint: "Point Zero marker Noumea ground",
+    descriptionAdvanced: {
+      de: "Point Zero markiert das historische Zentrum der Stadtentwicklung von Nouméa. Von diesem Referenzpunkt aus wurden im 19. Jahrhundert alle Entfernungen in der Kolonie gemessen. Es symbolisiert den Beginn der modernen Stadtplanung und die geografische Vermessung der Insel durch die französischen Behörden.",
+      hu: "A Point Zero Nouméa városfejlesztésének történelmi központját jelöli. Ebből a referenciapontból mérték a gyarmat összes távolságát a 19. században. A modern várostervezés kezdetét és a sziget francia hatóságok általi földrajzi felmérését szimbolizálja.",
+      ro: "Point Zero marchează centrul istoric al dezvoltării urbane din Nouméa. Din acest punct de referință au fost măsurate toate distanțele în colonie în secolul al XIX-lea. Simbolizează începutul planificării urbane moderne și măsurătorile geografice ale insulei realizate de autoritățile franceze.",
+      en: "Point Zero marks the historical center of Nouméa's urban development. From this reference point, all distances in the colony were measured during the 19th century. It symbolizes the beginning of modern town planning and the geographic surveying of the island by French authorities.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich in der Nähe des Place des Cocotiers", "Mitte des 19. Jahrhunderts festgelegt", "Referenzpunkt für Straßenentfernungen", "Originale Bronzetafel vorhanden", "Bezugspunkt für eine Meereshöhe von 0 m", "Zentral für das Rastersystem von Nouméa"],
+      hu: ["A Place des Cocotiers közelében található", "A 19. század közepén határozták meg", "Referenciapont a közúti távolságokhoz", "Eredeti bronztábla jelzi", "A 0 méteres tengerszint feletti magasság alapja", "Nouméa négyzethálós utcahálózatának központja"],
+      ro: ["Situat lângă Place des Cocotiers", "Stabilit la mijlocul secolului al XIX-lea", "Punct de referință pentru distanțele rutiere", "Placă originală din bronz prezentă", "Referință pentru altitudinea de 0 m", "Central pentru sistemul de caroiaj al orașului Nouméa"],
+      en: ["Located near Place des Cocotiers", "Established in mid-19th century", "Benchmark for road distances", "Original bronze plaque present", "Reference for altitude 0m", "Central to the grid system of Nouméa"],
+    },
   },
   {
     id: "newcaledonia-la-foa-bridge-history-v2",
@@ -969,6 +1569,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Erected in 1909.", "Steel structure brought from Europe.", "Fully restored in 1995.", "Landmark of the La Foa commune."],
     },
     imageHint: "Marguerite Bridge La Foa suspension",
+    descriptionAdvanced: {
+      de: "Die Marguerite-Brücke in La Foa ist ein bedeutendes Industriedenkmal aus dem Jahr 1909. Diese Hängebrücke wurde von den Werkstätten von Ferdinand Arnodin entworfen und ersetzte eine ältere Holzkonstruktion. Sie war entscheidend für die Erschließung des Nordens und den Transport von landwirtschaftlichen Gütern.",
+      hu: "A La Foa-i Marguerite-híd 1909-ből származó jelentős ipari műemlék. Ezt a függőhidat Ferdinand Arnodin műhelyei tervezték, és egy régebbi faszerkezetet váltott fel. Döntő szerepet játszott az északi területek megnyitásában és a mezőgazdasági áruk szállításában.",
+      ro: "Podul Marguerite din La Foa este un monument industrial important din anul 1909. Acest pod suspendat a fost proiectat de atelierele lui Ferdinand Arnodin și a înlocuit o structură veche de lemn. A fost crucial pentru deschiderea nordului și transportul produselor agricole.",
+      en: "The Marguerite Bridge in La Foa is a significant industrial monument dating back to 1909. This suspension bridge was designed by the workshops of Ferdinand Arnodin and replaced an older wooden structure. It was crucial for opening up the northern territories and transporting agricultural goods.",
+    },
+    factsAdvanced: {
+      de: ["Einweihung im Jahr 1909", "Spannweite von 48 Metern", "Benannt nach Marguerite Richard, Frau des Gouverneurs", "Kabel geliefert von Arnodin", "1984 als historisches Denkmal klassifiziert", "Einzige Brücke dieses Typs im Pazifik"],
+      hu: ["1909-ben avatták fel", "Fesztávolsága 48 méter", "Marguerite Richardról, a kormányzó feleségéről nevezték el", "A kábeleket Arnodin cége szállította", "1984-ben történelmi műemlékké nyilvánították", "Az egyetlen ilyen típusú híd a Csendes-óceánon"],
+      ro: ["Inaugurat în anul 1909", "Deschidere de 48 de metri", "Numit după Marguerite Richard, soția guvernatorului", "Cabluri furnizate de Arnodin", "Clasificat ca monument istoric în 1984", "Singurul pod de acest tip din Pacific"],
+      en: ["Inaugurated in 1909", "Span of 48 meters", "Named after Governor's wife Marguerite Richard", "Cables supplied by Arnodin", "Classified as historical monument in 1984", "Only bridge of this type in the Pacific"],
+    },
   },
   {
     id: "newcaledonia-sarramea-agriculture-history-v2",
@@ -988,6 +1600,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Center of New Caledonian coffee production.", "First plantations started in the 19th century.", "Famous for the 'Leroy' coffee variety.", "Popular weekend getaway for city dwellers."],
     },
     imageHint: "Sarraméa lush green valley",
+    descriptionAdvanced: {
+      de: "Sarraméa ist seit dem späten 19. Jahrhundert ein Zentrum des Kaffeeanbaus in Neukaledonien. Die fruchtbaren Täler zogen europäische Siedler an, die Plantagen für die Sorte Arabica anlegten. Die Region bewahrt bis heute ihre landwirtschaftliche Tradition und ist bekannt für ihre botanische Vielfalt.",
+      hu: "Sarraméa a 19. század vége óta a kávétermesztés központja Új-Kaledóniában. A termékeny völgyek európai telepeseket vonzottak, akik Arabica ültetvényeket hoztak létre. A régió mindmáig őrzi mezőgazdasági hagyományait, és híres botanikai sokszínűségéről.",
+      ro: "Sarraméa este un centru al cultivării cafelei în Noua Caledonie încă de la sfârșitul secolului al XIX-lea. Văile fertile au atras coloniști europeni care au înființat plantații pentru soiul Arabica. Regiunea își păstrează și astăzi tradiția agricolă și este cunoscută pentru diversitatea sa botanică.",
+      en: "Sarraméa has been a center of coffee cultivation in New Caledonia since the late 19th century. The fertile valleys attracted European settlers who established plantations for the Arabica variety. The region preserves its agricultural tradition to this day and is known for its botanical diversity.",
+    },
+    factsAdvanced: {
+      de: ["Gründung als Gemeinde im Jahr 1886", "Kaffee wurde um 1880 eingeführt", "Höhenlage begünstigt den Arabica-Anbau", "Jährliches Kaffeefest wird gefeiert", "Heimat des Dogny-Plateaus", "Fläche von ca. 106 Quadratkilometern"],
+      hu: ["1886-ban alakult községgé", "A kávét 1880 körül vezették be", "A tengerszint feletti magasság kedvez az Arabicának", "Évente kávéfesztivált rendeznek", "Itt található a Dogny-fennsík", "Területe kb. 106 négyzetkilométer"],
+      ro: ["Înființată ca comună în anul 1886", "Cafeaua a fost introdusă în jurul anului 1880", "Altitudinea ridicată favorizează soiul Arabica", "Se sărbătorește festivalul anual al cafelei", "Găzduiește platoul Dogny", "Suprafață de aproximativ 106 km pătrați"],
+      en: ["Established as commune in 1886", "Coffee introduced around 1880", "Higher altitude favors Arabica", "Annual coffee festival celebrated", "Home to the Dogny plateau", "Area of approx 106 sq km"],
+    },
   },
   {
     id: "newcaledonia-farino-pioneers-history-v2",
@@ -1007,6 +1631,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Established in 1883.", "High elevation with a cooler climate.", "Known for its traditional local markets.", "Home to many small family farms."],
     },
     imageHint: "Farino village mountain view",
+    descriptionAdvanced: {
+      de: "Farino wurde 1881 als Siedlung für freie Einwanderer gegründet, darunter viele Korsen und Italiener. Die Pioniere entwickelten den Gartenbau und den Kaffeeanbau in den hügeligen Gebieten. Heute ist es die kleinste Gemeinde des Landes und bekannt für seine gut erhaltene ländliche Struktur und Geschichte.",
+      hu: "Farinót 1881-ben alapították szabad bevándorlók, köztük sok korzikai és olasz számára. A telepesek kertészetet és kávétermesztést alakítottak ki a dombos területeken. Ma ez az ország legkisebb községe, amely jól megőrzött vidéki szerkezetéről és történelméről ismert.",
+      ro: "Farino a fost fondat în 1881 ca așezare pentru imigranți liberi, inclusiv mulți corsicani și italieni. Pionierii au dezvoltat horticultura și cultivarea cafelei în zonele deluroase. Astăzi este cea mai mică comună din țară, cunoscută pentru structura sa rurală și istoria bine păstrate.",
+      en: "Farino was founded in 1881 as a settlement for free immigrants, including many Corsicans and Italians. The pioneers developed horticulture and coffee cultivation in the hilly areas. Today, it is the country's smallest municipality, known for its well-preserved rural structure and history.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1881", "Kleinste Gemeinde nach Fläche (48 km2)", "Ursprünglich ließen sich 15 Familien nieder", "Erster Bürgermeister im Jahr 1961 gewählt", "Hohe Konzentration von Cagou-Vögeln", "Bekannt für den Riesenfarne-Park"],
+      hu: ["1881-ben alapították", "Az ország legkisebb községe (48 km2)", "Eredetileg 15 család telepedett le", "Az első polgármestert 1961-ben választották", "Magas a kagu-madarak koncentrációja", "Híres az Óriáspáfrány-parkjáról"],
+      ro: ["Fondat în anul 1881", "Cea mai mică comună ca suprafață (48 km2)", "Inițial s-au stabilit 15 familii", "Primul primar ales în anul 1961", "Concentrație mare de păsări Cagou", "Cunoscut pentru parcul ferigilor gigantice"],
+      en: ["Founded in 1881", "Smallest commune by area (48 km2)", "Originally 15 families settled", "First mayor elected in 1961", "High concentration of Cagou birds", "Known for the Giant Fern park"],
+    },
   },
   {
     id: "newcaledonia-ponérihouen-mission-history-v2",
@@ -1026,6 +1662,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Formerly known for rice production.", "Traditional religious architecture.", "Coastal hub for cultural exchange.", "Nestled among coconut plantations."],
     },
     imageHint: "Ponerihouen mission church palms",
+    descriptionAdvanced: {
+      de: "Die katholische Mission in Ponérihouen wurde Ende des 19. Jahrhunderts gegründet, um den christlichen Glauben an der Ostküste zu verbreiten. Die Gebäude, darunter eine charakteristische Kirche, zeugen vom Einfluss der Missionare auf die lokale Gesellschaft. Das Zentrum diente auch als Schule und landwirtschaftlicher Ausbildungsort.",
+      hu: "A ponérihoueni katolikus missziót a 19. század végén alapították a keresztény hit terjesztésére a keleti parton. Az épületek, köztük egy jellegzetes templom, a misszionáriusok helyi társadalomra gyakorolt hatásáról tanúskodnak. A központ iskolaként és mezőgazdasági képzőhelyként is szolgált.",
+      ro: "Misiunea catolică din Ponérihouen a fost fondată la sfârșitul secolului al XIX-lea pentru a răspândi credința creștină pe coasta de est. Clădirile, inclusiv o biserică caracteristică, atestă influența misionarilor asupra societății locale. Centrul a servit și ca școală și loc de formare agricolă.",
+      en: "The Catholic mission in Ponérihouen was founded in the late 19th century to spread the Christian faith on the east coast. The buildings, including a characteristic church, testify to the missionaries' influence on local society. The center also served as a school and agricultural training site.",
+    },
+    factsAdvanced: {
+      de: ["Mission im Jahr 1887 gegründet", "Kirche aus lokalem Holz gebaut", "Gelegen am Ponérihouen-Fluss", "Schwerpunkt auf Kaffee- und Kakaoausbildung", "Wahrzeichen des Paici-Kulturraums", "Bevölkerungswachstum eng mit der Mission verknüpft"],
+      hu: ["A missziót 1887-ben alapították", "A templom helyi fából készült", "A Ponérihouen-folyó partján fekszik", "Kávé- és kakaótermesztési oktatás központja", "A Paici kulturális terület jelképe", "A népességnövekedés a misszióhoz kötődött"],
+      ro: ["Misiune înființată în anul 1887", "Biserica prezintă lemn local", "Situată pe râul Ponérihouen", "Focus pe educația în domeniul cafelei și cacaoului", "Punct de reper al ariei culturale Paici", "Creșterea populației legată de misiune"],
+      en: ["Mission established in 1887", "Church features local timber", "Situated on the Ponérihouen river", "Focus on coffee and cocoa education", "Landmark of the Paici cultural area", "Population growth linked to the mission"],
+    },
   },
   {
     id: "newcaledonia-poum-mining-history-v2",
@@ -1045,6 +1693,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Site of early copper mines in the 19th century.", "Strategic port for ore shipping.", "Landscape shaped by historic mining activity.", "Gateway to the northern islets."],
     },
     imageHint: "Poum mining area coast",
+    descriptionAdvanced: {
+      de: "Poum im äußersten Norden ist seit dem frühen 20. Jahrhundert durch den Abbau von Chrom und Nickel geprägt. Die historischen Minenanlagen zeigen die technischen Herausforderungen der Rohstoffgewinnung in dieser abgelegenen Region. Die Bergbaugeschichte hat die lokale Wirtschaft und die Infrastruktur des Nordens maßgeblich geformt.",
+      hu: "A legészakibb fekvésű Poum a 20. század eleje óta a króm- és nikkelbányászat meghatározó helyszíne. A történelmi bányalétesítmények a nyersanyagkitermelés technikai kihívásait mutatják be ebben a távoli régióban. A bányászati múlt jelentősen meghatározta az északi rész gazdaságát és infrastruktúráját.",
+      ro: "Poum, situat în extremul nord, este marcat de exploatarea cromului și nichelului încă de la începutul secolului XX. Instalațiile miniere istorice arată provocările tehnice ale extracției de materii prime în această regiune izolată. Istoria minieră a modelat semnificativ economia și infrastructura nordului.",
+      en: "Poum in the far north has been shaped by the mining of chromium and nickel since the early 20th century. The historical mining facilities show the technical challenges of raw material extraction in this remote region. Mining history has significantly shaped the local economy and northern infrastructure.",
+    },
+    factsAdvanced: {
+      de: ["Chromabbau begann um 1902", "Nickelextraktion folgte Mitte des 20. Jahrhunderts", "Abgelegene Lage erforderte Seetransport", "Bergbaudorf bleibt sichtbar", "Verbindungen zur Firmengeschichte von SLN", "Nördlichstes Bergbauzentrum auf der Hauptinsel"],
+      hu: ["A krómbányászat 1902 körül kezdődött", "A nikkelkitermelés a 20. század közepén indult", "A távoli fekvés tengeri szállítást igényelt", "A bányászfalu maradványai láthatóak", "Szoros kapcsolat az SLN vállalat történetével", "A fősziget legészakibb bányászati központja"],
+      ro: ["Exploatarea cromului a început în jurul anului 1902", "Extracția nichelului a urmat la mijlocul secolului XX", "Locația izolată a necesitat transport maritim", "Satul minier rămâne vizibil", "Legături cu istoria companiei SLN", "Cel mai nordic centru minier de pe insula principală"],
+      en: ["Chrome mining began around 1902", "Nickel extraction followed in mid-20th century", "Remote location required sea transport", "Mining village remains visible", "Ties to SLN company history", "Northernmost mining center on main island"],
+    },
   },
   {
     id: "newcaledonia-st-joseph-mission-ouv-history-v2",
@@ -1064,6 +1724,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Built in the late 19th century.", "Features a distinctive facade.", "Center of the St. Joseph parish.", "Significant for the island's social history."],
     },
     imageHint: "St Joseph mission Ovea church",
+    descriptionAdvanced: {
+      de: "Die Mission St. Joseph auf Ouvéa wurde in den 1850er Jahren von Maristenpatres gegründet und ist ein Zentrum des katholischen Glaubens auf den Loyalitätsinseln. Die imposante Steinkirche wurde mit Hilfe der lokalen Bevölkerung errichtet. Sie spiegelt die harmonische Verbindung zwischen europäischer Architektur und traditionellen Kanak-Elementen wider.",
+      hu: "Az ouvéeai Szent József-missziót az 1850-es években alapították marista atyák, és a Hűség-szigetek katolikus hitének központja. Az impozáns kőtemplomot a helyi lakosság segítségével építették. Az európai építészet és a hagyományos kanak elemek harmonikus ötvözetét tükrözi.",
+      ro: "Misiunea Sfântul Iosif de pe Ouvéa a fost fondată în anii 1850 de părinții mariști și este un centru al credinței catolice în Insulele Loialității. Impunătoarea biserică de piatră a fost construită cu ajutorul populației locale. Reflectă amestecul armonios între arhitectura europeană și elementele tradiționale kanak.",
+      en: "The St. Joseph Mission on Ouvéa was founded in the 1850s by Marist fathers and is a center of Catholic faith in the Loyalty Islands. The imposing stone church was built with the help of the local population. It reflects a harmonious blend between European architecture and traditional Kanak elements.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1857", "Steinkirche Ende des 19. Jahrhunderts fertiggestellt", "Befindet sich im nördlichen Bezirk von Ouvéa", "Ort früher linguistischer Forschung", "Überstand mehrere schwere Zyklone", "Kulturzentrum für das Volk der Iai"],
+      hu: ["1857-ben alapították", "A kőtemplom a 19. század végén készült el", "Ouvéa északi körzetében található", "Korai nyelvészeti kutatások helyszíne", "Több hurrikánt is épségben átvészelt", "Az Iai nép kulturális központja"],
+      ro: ["Fondată în anul 1857", "Biserica de piatră finalizată la sfârșitul secolului XIX", "Situată în districtul de nord al Ouvéa", "Loc al cercetărilor lingvistice timpurii", "A supraviețuit mai multor cicloane", "Centru cultural pentru poporul Iai"],
+      en: ["Founded in 1857", "Stone church completed in late 19th century", "Located in the northern district of Ouvéa", "Site of early linguistic research", "Survived multiple cyclones", "Cultural center for the Iai people"],
+    },
   },
   {
     id: "newcaledonia-mare-archaeology-history-v2",
@@ -1083,6 +1755,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Walls are over 100 meters long.", "Estimated to be about 2,000 years old.", "Built with massive coral limestone blocks.", "Likely served as defensive structures."],
     },
     imageHint: "La Roche stone walls Mare",
+    descriptionAdvanced: {
+      de: "Maré beherbergt bedeutende archäologische Stätten, darunter die monumentalen Befestigungsanlagen von Laba. Diese megalithischen Strukturen aus Korallenkalkstein stammen aus der Zeit vor der Ankunft der Europäer. Sie zeugen von einer komplexen sozialen Organisation und fortschrittlichen Bautechniken der frühen melanesischen Gesellschaften.",
+      hu: "Maré jelentős régészeti lelőhelyeknek ad otthont, köztük a monumentális labai erődítménynek. Ezek a korallmészkőből készült megalitikus építmények az európaiak érkezése előtti időkből származnak. Az összetett társadalmi szerveződésről és a korai melanéz társadalmak fejlett építési technikáiról tanúskodnak.",
+      ro: "Maré găzduiește situri arheologice importante, inclusiv fortificațiile monumentale de la Laba. Aceste structuri megalitice din calcar coralifer datează din perioada anterioară sosirii europenilor. Ele atestă o organizare socială complexă și tehnici de construcție avansate ale societăților melaneziene timpurii.",
+      en: "Maré hosts significant archaeological sites, including the monumental Laba fortifications. These megalithic structures made of coral limestone date back to the period before the arrival of Europeans. They testify to a complex social organization and advanced construction techniques of early Melanesian societies.",
+    },
+    factsAdvanced: {
+      de: ["Laba-Mauern um 250 n. Chr. erbaut", "Massive Korallenblöcke verwendet", "Mauern bis zu 4 Meter hoch", "Gesamtlänge übersteigt 300 Meter", "Verbunden mit der Hnakudotit-Periode", "Mitte des 20. Jahrhunderts von Archäologen wiederentdeckt"],
+      hu: ["A labái falak kb. i.sz. 250-ben épültek", "Hatalmas koralltömböket használtak", "A falak magassága eléri a 4 métert", "A teljes hossz meghaladja a 300 métert", "A Hnakudotit-korszakhoz köthető", "Modern régészek a 20. század közepén fedezték fel"],
+      ro: ["Zidurile Laba construite în jurul anului 250 d.Hr.", "Utilizarea blocurilor masive de corali", "Ziduri de până la 4 metri înălțime", "Lungimea totală depășește 300 de metri", "Legat de perioada Hnakudotit", "Redescoperit de arheologi la mijlocul secolului XX"],
+      en: ["Laba walls built approx 250 AD", "Massive coral blocks used", "Walls up to 4 meters high", "Total length exceeds 300 meters", "Linked to the Hnakudotit period", "Rediscovered by modern archaeologists in mid-20th century"],
+    },
   },
   {
     id: "newcaledonia-lifou-mission-history-v2",
@@ -1102,6 +1786,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["First church established in 1858.", "Stunning views over the bay.", "Crucial for local educational history.", "Contains the grave of a high chief."],
     },
     imageHint: "Lifou mission church coastal hill",
+    descriptionAdvanced: {
+      de: "Die christlichen Missionen auf Lifou, wie Eacho und Qanono, wurden ab den 1840er Jahren gegründet und veränderten das soziale Gefüge der Insel. Sowohl protestantische als auch katholische Einflüsse prägten die Architektur und das Bildungswesen. Die Kirchengebäude sind heute wichtige historische Wahrzeichen und Zentren des Gemeindelebens.",
+      hu: "A lifou-i keresztény missziók, mint Eacho és Qanono, az 1840-es évektől alakultak ki, és megváltoztatták a sziget társadalmi szerkezetét. Mind a protestáns, mind a katolikus hatások meghatározták az építészetet és az oktatást. A templomépületek ma fontos történelmi jelképek és a közösségi élet központjai.",
+      ro: "Misiunile creștine de pe Lifou, precum Eacho și Qanono, au fost fondate începând cu anii 1840 și au schimbat structura socială a insulei. Atât influențele protestante, cât și cele catolice au modelat arhitectura și educația. Clădirile bisericilor sunt astăzi repere istorice importante și centre ale vieții comunitare.",
+      en: "Christian missions on Lifou, such as Eacho and Qanono, were established starting in the 1840s and changed the island's social structure. Both Protestant and Catholic influences shaped architecture and education. The church buildings are today important historical landmarks and centers of community life.",
+    },
+    factsAdvanced: {
+      de: ["Erste LMS-Missionare kamen 1842 an", "Katholische Mission begann im Jahr 1858", "Qanono-Kirche aus Korallengestein erbaut", "Eacho-Mission nahe der Chateaubriand-Bucht", "Lifou-Dialekt für Bibelübersetzung genutzt", "Bevölkerung heute überwiegend christlich"],
+      hu: ["Az első LMS misszionáriusok 1842-ben érkeztek", "A katolikus misszió 1858-ban indult", "A qanonói templom korallkőből épült", "Eacho misszió a Chateaubriand-öböl közelében", "A lifou-i nyelvjárást használták a Biblia-fordításhoz", "A lakosság ma túlnyomórészt keresztény"],
+      ro: ["Primii misionari LMS au sosit în 1842", "Misiunea catolică a început în anul 1858", "Biserica Qanono construită din piatră de coral", "Misiunea Eacho lângă golful Chateaubriand", "Dialectul Lifou utilizat pentru traducerea Bibliei", "Populația este astăzi majoritar creștină"],
+      en: ["First LMS missionaries arrived 1842", "Catholic mission started in 1858", "Qanono church built with coral stone", "Eacho mission near Chateaubriand bay", "Lifou dialect used for Bible translation", "Population mostly Christian today"],
+    },
   },
   {
     id: "newcaledonia-thierry-mine-history-v2",
@@ -1121,6 +1817,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Named after a mining pioneer.", "Opened in 1888.", "Early use of aerial tramways.", "Ruins of loading facilities remain."],
     },
     imageHint: "Thierry mine historical ruins",
+    descriptionAdvanced: {
+      de: "Die Thierry-Mine ist eine historische Nickelmine, die im späten 19. Jahrhundert in Betrieb genommen wurde. Sie dokumentiert die Anfänge des industriellen Bergbaus und die damit verbundene Einwanderung von Arbeitskräften aus Asien und Europa. Die Überreste der Verarbeitungsanlagen und Transportwege sind heute Zeugnisse der frühen Rohstoffwirtschaft.",
+      hu: "A Thierry-bánya egy történelmi nikkelbánya, amelyet a 19. század végén helyeztek üzembe. Dokumentálja az ipari bányászat kezdeteit és az ezzel járó ázsiai és európai munkaerő-bevándorlást. A feldolgozóüzemek és szállítási útvonalak maradványai ma a korai nyersanyag-gazdálkodás bizonyítékai.",
+      ro: "Mina Thierry este o mină istorică de nichel care a fost pusă în funcțiune la sfârșitul secolului al XIX-lea. Documentează începuturile mineritului industrial și imigrarea forței de muncă din Asia și Europa. Rămășițele instalațiilor de prelucrare și ale căilor de transport sunt astăzi dovezi ale economiei timpurii a materiilor prime.",
+      en: "The Thierry Mine is a historical nickel mine that was put into operation in the late 19th century. It documents the beginnings of industrial mining and the associated immigration of labor from Asia and Europe. The remains of processing facilities and transport routes are today evidence of early raw material economy.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckt in den späten 1870er Jahren", "Aktive Produktion um das Jahr 1890", "Einsatz von Seilbahnen für den Transport", "Arbeiter aus Japan und Indochina", "Bedeutender Nickelgehalt gefunden", "Teil des frühen SLN-Bergbaunetzes"],
+      hu: ["Az 1870-es évek végén fedezték fel", "Aktív termelés 1890 körül", "Kötélpályákat használtak a szállításhoz", "Japánból és Indokínából érkeztek munkások", "Jelentős nikkeltartalmat találtak", "A korai SLN bányászati hálózat része"],
+      ro: ["Descoperită la sfârșitul anilor 1870", "Producție activă în jurul anului 1890", "Utilizarea telefericelor pentru transport", "Muncitori din Japonia și Indochina", "S-a găsit un conținut semnificativ de nichel", "Parte a rețelei miniere timpurii SLN"],
+      en: ["Discovered in late 1870s", "Active production around 1890", "Use of cable cars for transport", "Laborers from Japan and Indochina", "Significant nickel grade found", "Part of the early SLN mining network"],
+    },
   },
   {
     id: "newcaledonia-voh-pioneers-history-v2",
@@ -1140,6 +1848,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Coffee boom in the early 20th century.", "Strategic base for mining activities.", "Home to an informative ecomuseum.", "Archive of local agricultural history."],
     },
     imageHint: "Voh village historic buildings",
+    descriptionAdvanced: {
+      de: "Die Pioniere von Voh etablierten im späten 19. Jahrhundert die Landwirtschaft und Viehzucht im Nordwesten. Besonders der Kaffeeanbau erlebte eine Blütezeit und prägte die Landschaft sowie die soziale Struktur der Region. Die Geschichte von Voh ist eng mit dem Mut der Siedler und der Entwicklung ländlicher Gemeinschaften verbunden.",
+      hu: "Voh telepesei a 19. század végén honosították meg a mezőgazdaságot és az állattenyésztést az északnyugati részen. Különösen a kávétermesztés élt virágkort, meghatározva a tájat és a régió társadalmi szerkezetét. Voh történelme szorosan összefonódik a telepesek bátorságával és a vidéki közösségek fejlődésével.",
+      ro: "Pionierii din Voh au stabilit agricultura și creșterea animalelor în nord-vest la sfârșitul secolului al XIX-lea. În special cultivarea cafelei a cunoscut o perioadă de înflorire, modelând peisajul și structura socială a regiunii. Istoria localității Voh este strâns legată de curajul coloniștilor și dezvoltarea comunităților rurale.",
+      en: "The pioneers of Voh established agriculture and cattle ranching in the northwest during the late 19th century. Coffee cultivation in particular experienced a golden age, shaping the landscape and the region's social structure. Voh's history is closely linked to the settlers' courage and the development of rural communities.",
+    },
+    factsAdvanced: {
+      de: ["Dorf im Jahr 1892 gegründet", "Schwerpunkt auf der Kaffeesorte Leroy", "Große Viehzuchtstationen eingerichtet", "Historisches Museum in einem alten Lagerhaus", "Berühmte Mangrove Herz von Voh in der Nähe", "Bewässerungssysteme Anfang 1900 gebaut"],
+      hu: ["A falut 1892-ben alapították", "A Leroy kávéfajtára összpontosítottak", "Nagy állattenyésztő telepeket hoztak létre", "Helytörténeti múzeum egy régi raktárban", "A közelben van a híres Voh szíve mangróve", "Öntözőrendszerek épültek az 1900-as évek elején"],
+      ro: ["Sat fondat în anul 1892", "Focus pe soiul de cafea Leroy", "Înființarea unor mari stații de creștere a vitelor", "Muzeu istoric într-un vechi depozit", "Celebra mangrovă Inima din Voh în apropiere", "Sisteme de irigații construite la începutul anilor 1900"],
+      en: ["Village founded in 1892", "Focus on Leroy coffee variety", "Large cattle stations established", "Historical museum in an old warehouse", "Famous Heart of Voh mangrove nearby", "Irrigation systems built in early 1900s"],
+    },
   },
   {
     id: "newcaledonia-mont-dore-mining-history-v2",
@@ -1159,6 +1879,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Mining activities began around 1870.", "Left behind a distinctive terraced landscape.", "Crucial for Nouméa's early economy.", "Now features trails on former mining paths."],
     },
     imageHint: "Mont Dore mountain mining scars",
+    descriptionAdvanced: {
+      de: "Die Bergbaugeschichte von Mont-Dore im Süden ist eng mit dem Abbau von Nickel und Kobalt verbunden. Historische Stätten wie die Minen von Plum zeigen die Entwicklung der Extraktionstechniken seit dem 19. Jahrhundert. Die Industrie beeinflusste das Wachstum der Siedlungen und den Bau von Verkehrswegen in der Nähe von Nouméa.",
+      hu: "Mont-Dore bányászati múltja a déli részen szorosan kapcsolódik a nikkel- és kobaltkitermeléshez. Az olyan történelmi helyszínek, mint a plum-i bányák, az extrakciós technikák 19. század óta tartó fejlődését mutatják be. Az ipar befolyásolta a települések növekedését és a közlekedési útvonalak kiépítését Nouméa közelében.",
+      ro: "Istoria minieră a localității Mont-Dore din sud este strâns legată de extracția nichelului și cobaltului. Siturile istorice, precum minele din Plum, arată evoluția tehnicilor de extracție din secolul al XIX-lea. Industria a influențat creșterea așezărilor și construcția căilor de comunicație în apropiere de Nouméa.",
+      en: "The mining history of Mont-Dore in the south is closely linked to the extraction of nickel and cobalt. Historical sites, such as the mines in Plum, show the development of extraction techniques since the 19th century. The industry influenced the growth of settlements and the construction of transport routes near Nouméa.",
+    },
+    factsAdvanced: {
+      de: ["Bergbauaktivität begann um 1870", "Plum-Mine bekannt für hochwertiges Erz", "Frühe Nutzung der Seeschifffahrt für Erz", "Kobalt war bis 1910 ein Hauptexportgut", "Nähe zu Nouméa erleichterte die Logistik", "Gebiet wird heute ökologisch restauriert"],
+      hu: ["A bányászat 1870 körül kezdődött", "A plum-i bánya híres volt a gazdag ércről", "Korán elkezdték a tengeri ércszállítást", "A kobalt 1910-ig fontos exportcikk volt", "Nouméa közelsége segítette a logisztikát", "A területet ma ökológiailag rehabilitálják"],
+      ro: ["Activitatea minieră a început în jurul anului 1870", "Mina Plum cunoscută pentru minereu de calitate", "Utilizarea timpurie a transportului maritim", "Cobaltul a fost un export major până în 1910", "Proximitatea de Nouméa a facilitat logistica", "Zona este acum în restaurare ecologică"],
+      en: ["Mining activity started around 1870", "Plum mine known for high-grade ore", "Early use of maritime shipping for ore", "Cobalt was a major export until 1910", "Proximity to Nouméa facilitated logistics", "Area now undergoing ecological restoration"],
+    },
   },
   {
     id: "newcaledonia-petroglyphs-mont-mou-history-v2",
@@ -1178,6 +1910,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Depicts sun motifs and circles.", "Carved into hard rock surfaces.", "Part of an ancient spiritual network.", "Located near the Païta commune."],
     },
     imageHint: "Mont Mou petroglyphs carvings",
+    descriptionAdvanced: {
+      de: "Die Petroglyphen am Mont Mou sind prähistorische Felsritzungen des Kanak-Volkes in der Nähe von Païta. Sie zeigen komplexe Symbole wie Kreuze und Spiralen, die in den harten Stein graviert wurden. Diese archäologischen Funde geben wertvolle Einblicke in die frühen kulturellen Praktiken Neukaledoniens.",
+      hu: "A Mont Mou petroglifái a kanak nép ősi kőfaragványai, amelyek Païta közelében találhatók. A sziklákon keresztek, spirálok és absztrakt formák láthatók, amelyek a terület korai lakóinak hitvilágáról tanúskodnak. Ezek az emlékek a csendes-óceáni térség fontos régészeti örökségét képezik.",
+      ro: "Petroglifele de pe Muntele Mou sunt sculpturi preistorice în stâncă realizate de poporul Kanak lângă Païta. Acestea prezintă simboluri complexe, cum ar fi cruci și spirale, gravate direct în piatră. Situl oferă informații esențiale despre practicile culturale timpurii din arhipelagul Noua Caledonie.",
+      en: "The Mont Mou petroglyphs are ancient rock carvings created by the Kanak people near the town of Païta. They feature complex geometric symbols, including crosses and spirals, etched into the stone surfaces. These archaeological sites provide evidence of early human cultural expression in the region.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Berges: 1211 Meter", "Lage: Gemeinde Païta", "Alter: Schätzungsweise über 1000 Jahre", "Motive: Vorwiegend geometrische Formen", "Entdeckung: Ende des 19. Jahrhunderts dokumentiert", "Status: Geschütztes archäologisches Erbe"],
+      hu: ["A hegy magassága: 1211 méter", "Helyszín: Païta község", "Becsült kor: Több mint 1000 évesek", "Motívumok: Jellemzően spirálok és keresztek", "Dokumentálás: A 19. század végén kezdődött", "Védettség: Nyilvántartott régészeti lelőhely"],
+      ro: ["Înălțimea muntelui: 1211 metri", "Locație: Comuna Païta", "Vârstă estimată: Peste 1000 de ani", "Motive: Preponderent forme geometrice", "Documentare: Prima dată la sfârșitul secolului XIX", "Statut: Sit arheologic protejat"],
+      en: ["Mountain elevation: 1211 meters", "Location: Païta commune", "Estimated age: Over 1000 years old", "Motifs: Primarily geometric shapes", "First documented: Late 19th century", "Status: Protected archaeological heritage"],
+    },
   },
   {
     id: "newcaledonia-st-joseph-cathedral-interior-history-v2",
@@ -1197,6 +1941,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Stunning stained glass from Paris.", "Wood carvings by local artists.", "Houses graves of early bishops.", "Features impressive ribbed vaulting."],
     },
     imageHint: "St Joseph Cathedral Noumea interior altar",
+    descriptionAdvanced: {
+      de: "Das Innere der Kathedrale St. Joseph in Nouméa zeichnet sich durch seine neugotische Architektur und die Verwendung lokaler Materialien aus. Besonders sehenswert sind die Holzarbeiten aus einheimischem Tamanu-Holz und die kunstvollen Glasfenster. Die Kathedrale dient seit dem späten 19. Jahrhundert als spirituelles Zentrum der Hauptstadt.",
+      hu: "A nouméai Szent József-székesegyház belső tere neogótikus stílusával és helyi anyagaival tűnik ki. Különösen jelentősek a hazai tamanu fából készült faragványok és a színes ólomüveg ablakok. A katedrális a 19. század vége óta a főváros katolikus hitéletének központja.",
+      ro: "Interiorul Catedralei Sfântul Iosif din Nouméa se remarcă prin arhitectura neogotică și utilizarea materialelor locale. Sunt deosebit de importante lucrările din lemn de tamanu și vitraliile detaliate. Catedrala servește ca centru spiritual al capitalei încă de la sfârșitul secolului al XIX-lea.",
+      en: "The interior of St. Joseph's Cathedral in Nouméa is characterized by its Neo-Gothic architecture and the use of local materials. Notable features include the intricate woodwork made from native tamanu timber and the vibrant stained-glass windows. The cathedral has been the spiritual heart of the capital since the late 19th century.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1887 bis 1897", "Material: Lokaler Kalkstein und Tamanu-Holz", "Orgel: Installiert im Jahr 1907", "Fenster: Zeigen religiöse und lokale Motive", "Bischofssitz: Sitz des Erzbischofs von Nouméa", "Denkmalschutz: Seit 1992 unter Schutz"],
+      hu: ["Építési idő: 1887–1897", "Alapanyag: Helyi mészkő és tamanu fa", "Orgonája: 1907-ben került beépítésre", "Ablakok: Vallási és helyi motívumokat ábrázolnak", "Rang: A Nouméai Főegyházmegye székhelye", "Védettség: 1992 óta műemlék"],
+      ro: ["Perioada construcției: 1887-1897", "Materiale: Calcar local și lemn de tamanu", "Orga: Instalată în anul 1907", "Vitralii: Reprezintă scene religioase și locale", "Rang: Sediul Arhiepiscopiei de Nouméa", "Protecție: Clasată ca monument istoric în 1992"],
+      en: ["Construction period: 1887–1897", "Materials: Local limestone and tamanu wood", "Organ: Installed in the year 1907", "Windows: Feature religious and local motifs", "Seat: Seat of the Archbishop of Nouméa", "Classification: Monument historique since 1992"],
+    },
   },
   {
     id: "newcaledonia-noumea-wharf-history-v2",
@@ -1216,6 +1972,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["First temporary pier built in 1854.", "Heart of maritime trade activities.", "Expanded multiple times over decades.", "Witnessed the arrival of the Pacific Battalion."],
     },
     imageHint: "Noumea harbor historic wharf area",
+    descriptionAdvanced: {
+      de: "Der historische Kai von Nouméa war entscheidend für die wirtschaftliche Entwicklung der Stadt im 19. und 20. Jahrhundert. Er diente als Hauptumschlagplatz für den Export von Nickel und die Ankunft von Siedlern. Heute verbindet der Bereich moderne Hafenanlagen mit dem historischen Erbe der Seefahrt.",
+      hu: "Nouméa történelmi rakpartja döntő szerepet játszott a város 19. és 20. századi gazdasági fejlődésében. Ez volt a nikkelexport és a telepesek érkezésének fő csomópontja. Napjainkban a terület ötvözi a modern kikötői létesítményeket a tengerészeti múlttal.",
+      ro: "Debarcaderul istoric din Nouméa a fost esențial pentru dezvoltarea economică a orașului în secolele XIX și XX. A servit ca principal punct de tranzit pentru exportul de nichel și sosirea coloniștilor. Astăzi, zona îmbină facilitățile portuare moderne cu moștenirea maritimă istorică.",
+      en: "The historic Nouméa wharf was vital for the city's economic growth during the 19th and 20th centuries. It functioned as the primary hub for nickel exports and the arrival of settlers to the island. Today, the area integrates modern port facilities with elements of its maritime heritage.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: Um 1854", "Hauptexportgut: Nickel seit 1875", "Lage: Baie de la Moselle", "Erweiterung: Großer Ausbau im Jahr 1910", "Zweiter Weltkrieg: Wichtige US-Basis 1942", "Funktion: Heute Passagier- und Handelshafen"],
+      hu: ["Alapítás éve: 1854 körül", "Fő exportcikk: Nikkel 1875 óta", "Elhelyezkedés: Baie de la Moselle", "Bővítés: Jelentős fejlesztés 1910-ben", "Világháború: Fontos amerikai bázis 1942-ben", "Szerep: Ma utas- és kereskedelmi kikötő"],
+      ro: ["Anul înființării: Circa 1854", "Principalul export: Nichel începând cu 1875", "Locație: Golful Moselle", "Extindere: Modernizare majoră în 1910", "Al Doilea Război Mondial: Bază SUA în 1942", "Funcție: Port de pasageri și comercial"],
+      en: ["Founding year: Around 1854", "Main export: Nickel since 1875", "Location: Baie de la Moselle", "Expansion: Significant upgrades in 1910", "WWII: Vital U.S. base in 1942", "Current role: Commercial and passenger port"],
+    },
   },
   {
     id: "newcaledonia-chateau-hagen-gardens-history-v2",
@@ -1235,6 +2003,18 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Contains rare and ancient tree species.", "Designed in the late 19th century.", "Regular venue for outdoor concerts.", "A peaceful retreat in the city center."],
     },
     imageHint: "Chateau Hagen gardens exotic plants",
+    descriptionAdvanced: {
+      de: "Die Gärten des Château Hagen in Nouméa sind ein Beispiel für koloniale Gartenarchitektur des späten 19. Jahrhunderts. Sie beherbergen eine Mischung aus exotischen Pflanzen und einheimischen Arten auf einem weitläufigen Areal. Das Anwesen wurde zwischen 1889 und 1892 erbaut und dient heute als Kulturzentrum.",
+      hu: "A nouméai Château Hagen kertjei a 19. század végi gyarmati kertépítészet kiváló példái. A tágas területen egzotikus növények és őshonos fajok egyaránt megtalálhatók. Az ingatlan 1889 és 1892 között épült, ma pedig kulturális központként működik.",
+      ro: "Grădinile Castelului Hagen din Nouméa sunt un exemplu de arhitectură peisagistică colonială de la sfârșitul secolului al XIX-lea. Acestea găzduiesc o varietate de plante exotice și specii endemice pe o suprafață vastă. Proprietatea a fost construită între 1889 și 1892 și este acum un centru cultural.",
+      en: "The gardens of Château Hagen in Nouméa represent late 19th-century colonial landscape architecture. They contain a mix of exotic plants and endemic species across a large estate. Built between 1889 and 1892, the property now serves as a prominent cultural and arts venue.",
+    },
+    factsAdvanced: {
+      de: ["Erbauung: 1889 bis 1892", "Stil: Kolonialarchitektur", "Erwerb durch Staat: Im Jahr 1998", "Nutzung: Ausstellungs- und Konzertort", "Gartenfläche: Mehrere Hektar groß", "Denkmalschutz: Als historisches Denkmal gelistet"],
+      hu: ["Építési évek: 1889–1892", "Stílus: Gyarmati építészet", "Állami tulajdon: 1998 óta", "Hasznosítás: Kiállítások és koncertek", "Kert mérete: Több hektáros terület", "Státusz: Védett történelmi emlékhely"],
+      ro: ["Construcție: 1889-1892", "Stil: Arhitectură colonială", "Achiziție publică: Anul 1998", "Utilizare: Spațiu de expoziții și concerte", "Suprafață: Câteva hectare de grădină", "Protecție: Clasat ca monument istoric"],
+      en: ["Construction: 1887–1892", "Style: Colonial architecture", "Public acquisition: Year 1998", "Current use: Cultural and concert venue", "Garden size: Several hectares", "Status: Listed as a historical monument"],
+    },
   },
   {
     id: "newcaledonia-païta-old-railway-history-v2",
@@ -1254,5 +2034,17 @@ export const newcaledoniaHistoryV2: POI[] = [
       en: ["Inaugurated in 1914.", "The line was only 29 km long.", "Discontinued in 1940.", "Some station ruins are still visible."],
     },
     imageHint: "Old railway track ruins Paita",
+    descriptionAdvanced: {
+      de: "Die alte Eisenbahnstrecke von Païta war Teil der einzigen Bahnlinie Neukaledoniens, die Nouméa mit Païta verband. Sie wurde Anfang des 20. Jahrhunderts in Betrieb genommen, um den Transport von Gütern und Arbeitern zu erleichtern. Heute sind nur noch wenige Überreste wie Brückenfundamente und Trassenabschnitte sichtbar.",
+      hu: "A païtai régi vasútvonal Új-Kaledónia egyetlen vasúti összeköttetésének része volt, amely Nouméát kötötte össze Païtával. A 20. század elején helyezték üzembe az áruk és a munkások szállítására. Ma már csak néhány maradvány, például hídalapok és töltések emlékeztetnek rá.",
+      ro: "Vechea cale ferată din Païta a făcut parte din singura linie feroviară din Noua Caledonie, care lega Nouméa de Païta. A fost pusă în funcțiune la începutul secolului XX pentru a facilita transportul de mărfuri și muncitori. Astăzi, sunt vizibile doar câteva vestigii, precum fundații de poduri.",
+      en: "The old railway in Païta was part of New Caledonia's only rail line, connecting Nouméa to Païta. Opened in the early 20th century, it was intended to facilitate the transport of goods and workers across the region. Today, only scattered remains such as bridge foundations and track sections survive.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn: 1901", "Eröffnung: Dezember 1914", "Länge: Etwa 29 Kilometer", "Einstellung des Betriebs: Im Jahr 1939", "Spurweite: 1000 Millimeter (Meterspur)", "Zweck: Transport von Agrarprodukten und Bergbau"],
+      hu: ["Építés kezdete: 1901", "Megnyitás: 1914 decembere", "Hossza: Körülbelül 29 kilométer", "Üzemszünet: 1939-ben zárt be", "Nyomtáv: 1000 mm (méteres nyomtáv)", "Cél: Mezőgazdasági és bányászati szállítás"],
+      ro: ["Începerea lucrărilor: 1901", "Inaugurare: Decembrie 1914", "Lungime: Aproximativ 29 kilometri", "Închiderea liniei: Anul 1939", "Ecartament: 1000 milimetri", "Scop: Transport agricol și minier"],
+      en: ["Start of construction: 1901", "Inauguration: December 1914", "Total length: Approximately 29 kilometers", "Closure: Definitively closed in 1939", "Gauge: 1000 mm (meter gauge)", "Purpose: Agricultural and mining transport"],
+    },
   }
 ];

@@ -1445,6 +1445,18 @@ export const liberiaCitiesV2: POI[] = [
       en: ["River Gee County", "Forested hinterland", "Southeast Liberia", "Settlement"],
     },
     imageHint: "Gbehyi forest area",
+    descriptionAdvanced: {
+      de: "Gbehyi ist eine ländliche Siedlung im Nimba County im Nordosten Liberias, die hauptsächlich von der kleinbäuerlichen Landwirtschaft geprägt ist. Die Region ist bekannt für den Anbau von Reis, Kakao und Kautschuk, was das wirtschaftliche Rückgrat der Gemeinde bildet. Die soziale Struktur basiert auf traditionellen Clansystemen, die tief in der lokalen Kultur der Dan- und Mano-Völker verwurzelt sind.",
+      hu: "Gbehyi egy vidéki település Libéria északkeleti részén, Nimba megyében, ahol a megélhetést elsősorban a kisüzemi mezőgazdaság biztosítja. A régió híres rizs-, kakaó- és gumiültetvényeiről, amelyek a közösség gazdasági gerincét alkotják. A társadalmi felépítés alapja a hagyományos klánrendszer, amely mélyen gyökerezik a dan és mano népek kultúrájában.",
+      ro: "Gbehyi este o așezare rurală din comitatul Nimba, situată în nord-estul Liberiei, fiind dominată de agricultura de subzistență. Regiunea este cunoscută pentru cultivarea orezului, cacao și cauciucului, care reprezintă coloana vertebrală a economiei locale. Structura socială se bazează pe sisteme tradiționale de clanuri, adânc înrădăcinate în cultura popoarelor Dan și Mano.",
+      en: "Gbehyi is a rural settlement in Nimba County, located in northeastern Liberia, primarily sustained by small-scale agriculture. The region is known for the cultivation of rice, cocoa, and rubber, which form the economic backbone of the community. The social structure is based on traditional clan systems deeply rooted in the culture of the Dan and Mano peoples.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Nimba County", "Zentrum des Reisanbaus", "Bevölkert durch Dan und Mano Ethnien", "Traditionelle Clan-Verwaltung", "Tropisches Regenwaldklima", "Wichtige Kautschukproduktion"],
+      hu: ["Nimba megyében található", "A rizstermesztés egyik központja", "A dan és mano népcsoportok lakják", "Hagyományos kláni közigazgatás jellemzi", "Trópusi esőerdei éghajlatú terület", "Jelentős gumiabroncs-alapanyag termelés"],
+      ro: ["Situat în comitatul Nimba", "Centru important pentru cultura orezului", "Populat de etniile Dan și Mano", "Administrație bazată pe clanuri tradiționale", "Climat tropical de pădure ecuatorială", "Producție semnificativă de cauciuc"],
+      en: ["Located in Nimba County", "Hub for upland rice cultivation", "Inhabited by Dan and Mano ethnic groups", "Governed by traditional clan structures", "Tropical rainforest climate zone", "Significant producer of natural rubber"],
+    },
   },
   {
     id: "liberia-nyen-v2-cities-v2",
@@ -1495,6 +1507,18 @@ export const liberiaCitiesV2: POI[] = [
       en: ["Gbarpolu County", "Remote", "Forest", "Northwest Liberia"],
     },
     imageHint: "Kplokpa village",
+    descriptionAdvanced: {
+      de: "Kplokpa ist eine Gemeinde im Distrikt Todee im Montserrado County, Liberia, die für ihre fruchtbaren Böden und landwirtschaftliche Produktion bekannt ist. Die Siedlung liegt strategisch günstig, um Agrarprodukte auf die Märkte der nahen Hauptstadt Monrovia zu liefern. Trotz der Nähe zur Küste behält Kplokpa seinen ländlichen Charakter und konzentriert sich auf den Anbau von Maniok und Gemüse.",
+      hu: "Kplokpa egy település Libéria Montserrado megyéjében, a Todee körzetben, amely termékeny talajáról és mezőgazdasági termeléséről ismert. A falu stratégiai helyzete lehetővé teszi, hogy terményeit a közeli főváros, Monrovia piacaira szállítsa. A tengerpart közelsége ellenére Kplokpa megőrizte vidéki jellegét, fő profilja a manióka és a zöldségtermesztés.",
+      ro: "Kplokpa este o comunitate din districtul Todee, comitatul Montserrado, Liberia, cunoscută pentru solurile sale fertile și producția agricolă. Așezarea este poziționată strategic pentru a furniza produse agricole piețelor din capitala apropiată, Monrovia. În ciuda proximității față de coastă, Kplokpa își păstrează caracterul rural, concentrându-se pe cultura de manioc.",
+      en: "Kplokpa is a community in the Todee District of Montserrado County, Liberia, known for its fertile soils and agricultural production. The settlement is strategically located to supply agricultural products to the markets of the nearby capital, Monrovia. Despite its proximity to the coast, Kplokpa maintains its rural character, focusing on cassava and vegetable farming.",
+    },
+    factsAdvanced: {
+      de: ["Teil des Montserrado County", "Gehört zum Distrikt Todee", "Hauptlieferant für Maniok", "Nahe der Hauptstadt Monrovia gelegen", "Landwirtschaftlich geprägte Wirtschaft", "Regenzeit von Mai bis Oktober"],
+      hu: ["Montserrado megye része", "A Todee körzethez tartozik", "A manióka egyik fő termőhelye", "Monrovia főváros közelében fekszik", "Mezőgazdasági alapú gazdaság", "Esős évszak májustól októberig"],
+      ro: ["Face parte din comitatul Montserrado", "Aparține districtului Todee", "Principal furnizor de manioc", "Situat aproape de capitala Monrovia", "Economie bazată pe agricultură", "Sezon ploios din mai până în octombrie"],
+      en: ["Part of Montserrado County", "Belongs to the Todee District", "Major supplier of cassava root", "Located near the capital, Monrovia", "Economy driven by subsistence farming", "Rainy season from May to October"],
+    },
   },
   {
     id: "liberia-blon-cities-v2",
@@ -1514,6 +1538,18 @@ export const liberiaCitiesV2: POI[] = [
       en: ["Grand Gedeh County", "Rural", "Settlement", "Forest edge"],
     },
     imageHint: "Blon rural area",
+    descriptionAdvanced: {
+      de: "Blon ist ein kleines Dorf im Grand Gedeh County im Osten Liberias, das tief im guineischen Regenwaldgürtel liegt. Die Gemeinde lebt traditionell von der Jagd und dem Wanderfeldbau, wobei der Schutz der umliegenden Biodiversität zunehmend an Bedeutung gewinnt. Aufgrund seiner isolierten Lage sind die Infrastrukturen begrenzt, was jedoch zur Erhaltung traditioneller Bräuche des Krahn-Volkes beigetragen hat.",
+      hu: "Blon egy kis falu Libéria keleti részén, Grand Gedeh megyében, a guineai esőerdő övezet mélyén. A közösség hagyományosan vadászatból és váltógazdálkodásból él, miközben a környező biodiverzitás védelme egyre nagyobb hangsúlyt kap. Elszigetelt helyzete miatt az infrastruktúra korlátozott, de ez segítette a krahn nép hagyományos szokásainak megőrzését.",
+      ro: "Blon este un sat mic din comitatul Grand Gedeh, în estul Liberiei, situat adânc în centura de pădure tropicală guineeană. Comunitatea trăiește tradițional din vânătoare și agricultura itinerantă, protecția biodiversității înconjurătoare devenind tot mai importantă. Din cauza locației izolate, infrastructura este limitată, ceea ce a ajutat la păstrarea obiceiurilor poporului Krahn.",
+      en: "Blon is a small village in Grand Gedeh County in eastern Liberia, situated deep within the Guinean rainforest belt. The community traditionally relies on hunting and shifting cultivation, with the protection of surrounding biodiversity becoming increasingly important. Due to its isolated location, infrastructure is limited, which has helped preserve the traditional customs of the Krahn people.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Grand Gedeh County", "Siedlungsgebiet des Krahn-Volkes", "Umgeben von dichtem Regenwald", "Begrenzte Straßenanbindung", "Wirtschaft durch Holzeinschlag beeinflusst", "Traditionelle Kpelle-Einflüsse"],
+      hu: ["Grand Gedeh megyében fekszik", "A krahn nép lakóhelye", "Sűrű esőerdő veszi körül", "Korlátozott közúti összeköttetés", "A fakitermelés befolyásolja a gazdaságot", "Hagyományos kpelle hatások is jelen vannak"],
+      ro: ["Situat în comitatul Grand Gedeh", "Teritoriul poporului Krahn", "Înconjurat de pădure tropicală densă", "Acces rutier limitat", "Economie influențată de exploatarea lemnului", "Influențe tradiționale Kpelle"],
+      en: ["Located in Grand Gedeh County", "Settlement area of the Krahn people", "Surrounded by dense rainforest", "Limited road infrastructure", "Economy impacted by timber logging", "Presence of traditional Kpelle influences"],
+    },
   },
   {
     id: "liberia-tutu-cities-v2",
@@ -1564,6 +1600,18 @@ export const liberiaCitiesV2: POI[] = [
       en: ["Grand Gedeh County", "Hinterland", "Rural", "Settlement"],
     },
     imageHint: "Gnar village scenery",
+    descriptionAdvanced: {
+      de: "Gnar ist eine ländliche Siedlung in Liberia, die sich durch ihre enge Bindung an die natürlichen Ressourcen des Umlandes auszeichnet. Die Gemeinde ist Teil eines Netzwerks von Dörfern, die sich auf die Gewinnung von Palmöl und den Anbau von Grundnahrungsmitteln spezialisiert haben. Die lokale Architektur besteht oft aus Lehmziegeln und Strohdächern, was eine Anpassung an das feucht-heiße tropische Klima darstellt.",
+      hu: "Gnar egy vidéki település Libériában, amelyet a környező természeti erőforrásokhoz való szoros kötődés jellemez. A falu tagja annak a hálózatnak, amely pálmaolaj-termelésre és alapvető élelmiszernövények termesztésére szakosodott. A helyi építészetre jellemzőek a vályogtéglából készült, szalmatetős házak, amelyek jól alkalmazkodnak a párás, trópusi éghajlathoz.",
+      ro: "Gnar este o așezare rurală din Liberia, caracterizată prin legătura strânsă cu resursele naturale înconjurătoare. Comunitatea face parte dintr-o rețea de sate specializate în extracția uleiului de palmier și cultivarea alimentelor de bază. Arhitectura locală constă adesea în cărămizi de pământ și acoperișuri de paie, fiind o adaptare la climatul tropical umed.",
+      en: "Gnar is a rural settlement in Liberia, characterized by its strong connection to the surrounding natural resources. The community is part of a network of villages specializing in palm oil extraction and the cultivation of staple food crops. Local architecture often features mud bricks and thatched roofs, reflecting an adaptation to the hot and humid tropical climate.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Palmölproduktion", "Ländliche Verwaltungsstruktur", "Anbau von Maniok und Jamswurzel", "Traditionelle Handwerkskunst", "Tropisches Monsunklima", "Bedeutung lokaler Märkte"],
+      hu: ["Pálmaolaj-termelési központ", "Vidéki közigazgatási felépítés", "Manióka és jamgyökér termesztése", "Hagyományos kézművesség jellemzi", "Trópusi monszun éghajlat", "A helyi piacok jelentősége nagy"],
+      ro: ["Centru de producție a uleiului de palmier", "Structură administrativă rurală", "Cultivarea maniocului și ignamei", "Meșteșuguri tradiționale locale", "Climat tropical musonic", "Importanța piețelor locale"],
+      en: ["Center for palm oil production", "Rural administrative structure", "Cultivation of cassava and yams", "Known for traditional craftsmanship", "Tropical monsoon climate zone", "Importance of weekly local markets"],
+    },
   },
   {
     id: "liberia-yila-cities-v2",
@@ -1583,6 +1631,18 @@ export const liberiaCitiesV2: POI[] = [
       en: ["Bong County", "Agriculture", "Rural", "Settlement"],
     },
     imageHint: "Yila farm landscape",
+    descriptionAdvanced: {
+      de: "Yila ist eine Gemeinde im Nimba County, Liberia, die am Fuße der Nimba-Berge liegt und historisch als Handelsplatz für landwirtschaftliche Erzeugnisse diente. Die Nähe zu den mineralreichen Gebieten hat die Entwicklung der Infrastruktur in den letzten Jahrzehnten beeinflusst. Die Bewohner sind überwiegend in der Landwirtschaft tätig, wobei der Anbau von Hochlandreis und Kaffee eine zentrale Rolle spielt.",
+      hu: "Yila egy település Libéria Nimba megyéjében, a Nimba-hegység lábánál, amely történelmileg mezőgazdasági termények kereskedelmi központjaként szolgált. Az ásványkincsekben gazdag területek közelsége befolyásolta az infrastruktúra fejlődését az elmúlt évtizedekben. A lakosok többsége mezőgazdasággal foglalkozik, főként hegyi rizst és kávét termesztenek.",
+      ro: "Yila este o comunitate din comitatul Nimba, Liberia, situată la poalele munților Nimba, servind istoric ca centru comercial pentru produse agricole. Proximitatea față de zonele bogate în minerale a influențat dezvoltarea infrastructurii în ultimele decenii. Locuitorii sunt implicați preponderent în agricultură, cultivând orez de munte și cafea.",
+      en: "Yila is a community in Nimba County, Liberia, located at the foot of the Nimba Mountains, historically serving as a trading hub for agricultural produce. Proximity to mineral-rich areas has influenced infrastructure development in recent decades. Residents are predominantly engaged in farming, with the cultivation of upland rice and coffee playing a central role.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Nimba County", "Liegt nahe der Grenze zu Guinea", "Zentrum des Kaffeeanbaus", "Befindet sich in der Nähe von Bergbaugebieten", "Bevölkert durch die Mano-Ethnie", "Wichtiger regionaler Handelsplatz"],
+      hu: ["Nimba megyéhez tartozik", "A guineai határ közelében fekszik", "A kávétermesztés egyik központja", "Bányászati területek közelében található", "A mano népcsoport lakja", "Fontos regionális kereskedelmi helyszín"],
+      ro: ["Aparține comitatului Nimba", "Situat lângă granița cu Guineea", "Centru de cultivare a cafelei", "Localizat în apropierea zonelor miniere", "Populat de grupul etnic Mano", "Punct comercial regional important"],
+      en: ["Part of Nimba County", "Located near the border with Guinea", "Regional hub for coffee farming", "Situated near major mining concessions", "Primarily inhabited by the Mano people", "Key regional marketplace for produce"],
+    },
   },
   {
     id: "liberia-kpatua-cities-v2",
@@ -1602,6 +1662,18 @@ export const liberiaCitiesV2: POI[] = [
       en: ["Lofa County", "North Liberia", "Settlement", "Rural"],
     },
     imageHint: "Kpatua village",
+    descriptionAdvanced: {
+      de: "Kpatua ist ein kleines ländliches Zentrum im Grand Gedeh County, Liberia, das für seine kulturelle Identität und die Pflege traditioneller Tänze bekannt ist. Die Siedlung liegt in einer Region, die stark vom Bergbau und der Forstwirtschaft geprägt ist, was die lokalen Lebensgrundlagen beeinflusst. Die Gemeinschaft legt großen Wert auf den Erhalt ihrer sprachlichen Erbschaft und die mündliche Überlieferung ihrer Geschichte.",
+      hu: "Kpatua egy kis vidéki központ Libéria Grand Gedeh megyéjében, amely kulturális identitásáról és a hagyományos táncok ápolásáról ismert. A település egy olyan régióban fekszik, amelyre nagy hatással van a bányászat és az erdőgazdálkodás, meghatározva a helyiek megélhetését. A közösség nagy hangsúlyt fektet nyelvi öröksége és a szóbeli történetmesélés megőrzésére.",
+      ro: "Kpatua este un mic centru rural din comitatul Grand Gedeh, Liberia, cunoscut pentru identitatea sa culturală și păstrarea dansurilor tradiționale. Așezarea se află într-o regiune marcată de activități miniere și forestiere, care influențează mijloacele de trai locale. Comunitatea pune un mare accent pe conservarea moștenirii lingvistice și a istoriei orale.",
+      en: "Kpatua is a small rural center in Grand Gedeh County, Liberia, known for its cultural identity and the preservation of traditional dances. The settlement is located in a region heavily influenced by mining and forestry activities, which shape local livelihoods. The community places great emphasis on maintaining its linguistic heritage and oral storytelling traditions.",
+    },
+    factsAdvanced: {
+      de: ["Sitz im Grand Gedeh County", "Bekannt für Krahn-Kultur", "Forstwirtschaft ist Haupteinnahmequelle", "Traditionelle Heiler sind aktiv", "Tropisches Klima mit hohen Temperaturen", "Regionale Kunsthandwerkstradition"],
+      hu: ["Grand Gedeh megyei székhely", "A krahn kultúráról nevezetes", "Az erdőgazdálkodás a fő bevételi forrás", "Hagyományos gyógyítók működnek a faluban", "Trópusi éghajlat magas hőmérséklettel", "Regionális kézműves hagyományok"],
+      ro: ["Situat în comitatul Grand Gedeh", "Cunoscut pentru cultura Krahn", "Silvicultura este principala sursă de venit", "Vindecători tradiționali activi în zonă", "Climat tropical cu temperaturi ridicate", "Tradiție regională în meșteșuguri"],
+      en: ["Located in Grand Gedeh County", "Renowned for Krahn cultural practices", "Forestry is the primary source of income", "Active community of traditional healers", "Tropical climate with high temperatures", "Regional tradition of handicraft making"],
+    },
   },
   {
     id: "liberia-zleh-cities-v2",
@@ -1621,6 +1693,18 @@ export const liberiaCitiesV2: POI[] = [
       en: ["Grand Gedeh County", "Forest", "Rural", "Settlement"],
     },
     imageHint: "Zleh rural landscape",
+    descriptionAdvanced: {
+      de: "Zleh ist eine strategisch wichtige Gemeinde im Distrikt Gbi & Doru im Nimba County, die als Tor zu den unberührten Waldgebieten im Osten Liberias gilt. Die Stadt hat sich zu einem Zentrum für den Austausch zwischen ländlichen Bauern und Händlern aus den größeren urbanen Zentren entwickelt. Die lokale Wirtschaft profitiert von der Durchgangsstraße, die den Warenverkehr in den Südosten des Landes erleichtert.",
+      hu: "Zleh egy stratégiai fontosságú település Nimba megye Gbi & Doru körzetében, amely kapuként szolgál Libéria keleti, érintetlen erdős területei felé. A város a vidéki gazdák és a nagyobb városi központokból érkező kereskedők közötti cserekereskedelem központjává vált. A helyi gazdaság profitál az áthaladó főútvonalból, amely megkönnyíti az áruforgalmat az ország délkeleti része felé.",
+      ro: "Zleh este o comunitate strategică din districtul Gbi & Doru, comitatul Nimba, considerată o poartă către zonele forestiere virgine din estul Liberiei. Orașul a devenit un centru de schimb între fermierii rurali și comercianții din centrele urbane mai mari. Economia locală beneficiază de drumul de tranzit care facilitează fluxul de mărfuri către sud-estul țării.",
+      en: "Zleh is a strategically important community in the Gbi & Doru District of Nimba County, serving as a gateway to the pristine forest areas of eastern Liberia. The town has developed into a hub for exchange between rural farmers and traders from larger urban centers. The local economy benefits from the transit road that facilitates the flow of goods toward the southeast of the country.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich im Nimba County", "Tor zum Sapo Nationalpark", "Wichtiger Verkehrsknotenpunkt", "Handel mit Agrarprodukten", "Bevölkert durch Krahn und Bassa", "Tropischer Regenwaldgürtel"],
+      hu: ["Nimba megyében található", "A Sapo Nemzeti Park egyik kapuja", "Fontos közlekedési csomópont", "Mezőgazdasági termékek kereskedelme", "Krahn és bassa népcsoportok lakják", "Trópusi esőerdő-övezetben fekszik"],
+      ro: ["Localizat în comitatul Nimba", "Poartă către Parcul Național Sapo", "Nod de transport regional important", "Comerț activ cu produse agricole", "Populat de etniile Krahn și Bassa", "Situat în centura pădurii tropicale"],
+      en: ["Located in Nimba County", "Gateway to the Sapo National Park area", "Important regional transport junction", "Center for trade in agricultural goods", "Inhabited by Krahn and Bassa ethnic groups", "Situated within the tropical rainforest belt"],
+    },
   },
   {
     id: "liberia-gbe-cities-v2",
@@ -1640,6 +1724,18 @@ export const liberiaCitiesV2: POI[] = [
       en: ["River Gee County", "Near border", "East Liberia", "Settlement"],
     },
     imageHint: "Gbe village houses",
+    descriptionAdvanced: {
+      de: "Gbe ist eine ländliche Siedlung im River Cess County in Liberia. Die Region ist von dichten tropischen Regenwäldern umgeben und liegt im Einzugsgebiet des Cestos River. Die Bewohner leben überwiegend von traditioneller Landwirtschaft und lokalem Fischfang.",
+      hu: "Gbe egy vidéki település Libéria River Cess megyéjében. A térség sűrű trópusi esőerdőkkel övezett és a Cestos-folyó vízgyűjtő területén fekszik. A lakosok többsége hagyományos mezőgazdaságból és helyi halászatból tartja fenn magát.",
+      ro: "Gbe este o așezare rurală situată în comitatul River Cess din Liberia. Regiunea este înconjurată de păduri tropicale dense și se află în bazinul râului Cestos. Locuitorii trăiesc predominant din agricultura tradițională și pescuitul local.",
+      en: "Gbe is a rural settlement located in the River Cess County of Liberia. The region is surrounded by dense tropical rainforests and lies within the catchment area of the Cestos River. Residents mostly sustain themselves through traditional farming and local fishing.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im River Cess County.", "Gehört zur westafrikanischen Regenwaldzone.", "Traditionelle Subsistenzwirtschaft ist vorherrschend.", "Befindet sich nahe dem Cestos River.", "Tropisches Klima mit hoher Luftfeuchtigkeit.", "Infrastrukturell wenig erschlossene Region."],
+      hu: ["River Cess megyében található.", "A nyugat-afrikai esőerdő-övezet része.", "A hagyományos önellátó gazdálkodás dominál.", "A Cestos-folyó közelében helyezkedik el.", "Trópusi éghajlat magas páratartalommal.", "Infrastrukturálisan kevésbé fejlesztett régió."],
+      ro: ["Situat în comitatul River Cess.", "Face parte din zona pădurilor tropicale vest-africane.", "Economia de subzistență tradițională este predominantă.", "Se află în apropierea râului Cestos.", "Climat tropical cu umiditate ridicată.", "Regiune cu infrastructură puțin dezvoltată."],
+      en: ["Located in River Cess County.", "Part of the West African rainforest zone.", "Traditional subsistence farming is predominant.", "Situated near the Cestos River.", "Tropical climate with high humidity.", "Region with limited infrastructural development."],
+    },
   },
   {
     id: "liberia-tule-cities-v2",
@@ -1659,6 +1755,18 @@ export const liberiaCitiesV2: POI[] = [
       en: ["Bong County", "Agriculture", "Rural", "Settlement"],
     },
     imageHint: "Tule rural farm",
+    descriptionAdvanced: {
+      de: "Tule ist ein kleinerer Ort im River Cess County an der zentralen Küste Liberias. Die Gemeinde ist stark in das Ökosystem des Regenwaldes integriert und nutzt die natürlichen Ressourcen nachhaltig. Die Region ist für ihre unberührte Natur und die Abgeschiedenheit bekannt.",
+      hu: "Tule egy kisebb település River Cess megyében, Libéria középső partvidékén. A közösség szorosan integrálódott az esőerdő ökoszisztémájába és fenntarthatóan használja a természeti erőforrásokat. A régió érintetlen természetéről és elszigeteltségéről ismert.",
+      ro: "Tule este o localitate mică din comitatul River Cess, pe coasta centrală a Liberiei. Comunitatea este puternic integrată în ecosistemul pădurii tropicale și utilizează resursele naturale în mod sustenabil. Regiunea este cunoscută pentru natura sa virgină și izolare.",
+      en: "Tule is a smaller locality in River Cess County on the central coast of Liberia. The community is deeply integrated into the rainforest ecosystem and uses natural resources sustainably. The region is known for its untouched nature and remoteness.",
+    },
+    factsAdvanced: {
+      de: ["Verwaltungssitz im River Cess County.", "Liegt in einer Zone mit über 3.000 mm Jahresniederschlag.", "Waldwirtschaft ist eine lokale Einnahmequelle.", "Geringe Bevölkerungsdichte in der Umgebung.", "Zugang erfolgt oft über unbefestigte Pisten.", "Haupternteprodukte sind Reis und Maniok."],
+      hu: ["Közigazgatási egység River Cess megyében.", "Évi 3000 mm-t meghaladó csapadék jellemzi.", "Az erdőgazdálkodás helyi bevételi forrás.", "Alacsony népsűrűség a környező területeken.", "A megközelítés gyakran földutakon történik.", "A fő termények a rizs és a manióka."],
+      ro: ["Unitate administrativă în comitatul River Cess.", "Zonă cu precipitații anuale de peste 3.000 mm.", "Silvicultura este o sursă locală de venit.", "Densitate scăzută a populației în împrejurimi.", "Accesul se face adesea prin drumuri neasfaltate.", "Principalele culturi sunt orezul și maniocul."],
+      en: ["Administrative unit in River Cess County.", "Located in a zone with over 3,000 mm annual rainfall.", "Forestry is a local source of income.", "Low population density in the surrounding areas.", "Access is often via unpaved tracks.", "Primary crops are rice and cassava."],
+    },
   },
   {
     id: "liberia-kpar-cities-v2",
@@ -1678,5 +1786,17 @@ export const liberiaCitiesV2: POI[] = [
       en: ["Nimba County", "Rural", "Settlement", "Small village"],
     },
     imageHint: "Kpar village",
+    descriptionAdvanced: {
+      de: "Kpar befindet sich im Grand Gedeh County im Osten Liberias, nahe der Grenze zur Elfenbeinküste. Die Siedlung dient als lokales Zentrum für die umliegenden landwirtschaftlichen Flächen. Die Kultur der Region ist durch die ethnische Vielfalt des Grenzgebiets geprägt.",
+      hu: "Kpar Kelet-Libériában, Grand Gedeh megyében található, az Elefántcsontparttal közös határ közelében. A település a környező mezőgazdasági területek helyi központjaként szolgál. A régió kultúráját a határmenti övezet etnikai sokszínűsége határozza meg.",
+      ro: "Kpar se află în comitatul Grand Gedeh din estul Liberiei, aproape de granița cu Coasta de Fildeș. Așezarea servește ca centru local pentru terenurile agricole înconjurătoare. Cultura regiunii este marcată de diversitatea etnică a zonei de frontieră.",
+      en: "Kpar is located in Grand Gedeh County in eastern Liberia, near the border with Ivory Coast. The settlement serves as a local hub for the surrounding agricultural lands. The region's culture is shaped by the ethnic diversity of the border area.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Grand Gedeh County.", "Nahe der Grenze zur Elfenbeinküste.", "Haupterzeugnisse sind Kakao und Kautschuk.", "Teil des Tchien-Distrikts.", "Die Region war historisch vom Bergbau geprägt.", "Liegt auf einer durchschnittlichen Höhe von 200 m."],
+      hu: ["Grand Gedeh megyében fekszik.", "Az Elefántcsontpart határának közelében.", "Fő terményei a kakaó és a gumi.", "A Tchien körzet része.", "A régiót történelmileg a bányászat jellemezte.", "Átlagosan 200 méteres tengerszint feletti magasság."],
+      ro: ["Situat în comitatul Grand Gedeh.", "Aproape de frontiera cu Coasta de Fildeș.", "Produsele principale sunt cacaoa și cauciucul.", "Parte a districtului Tchien.", "Regiunea a fost marcată istoric de minerit.", "Situat la o altitudine medie de 200 m."],
+      en: ["Located in Grand Gedeh County.", "Near the border with Ivory Coast.", "Primary products include cocoa and rubber.", "Part of the Tchien district.", "The region was historically shaped by mining.", "Situated at an average elevation of 200 m."],
+    },
   }
 ];

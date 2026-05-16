@@ -19,6 +19,18 @@ export const hongkongHistoryV2: POI[] = [
       en: ["Commemorates Emperors Zhao Shi and Zhao Bing", "Inscription was made around 1278 AD", "The original hill was destroyed during WWII", "Remaining rock fragment weighs about 100 tons"],
     },
     imageHint: "Sung Wong Toi rock in Kowloon park",
+    descriptionAdvanced: {
+      de: "Sung Wong Toi ist ein historisches Denkmal in Kowloon City, das an die Flucht der letzten Kaiser der Song-Dynastie erinnert. Es handelt sich um einen Granitblock mit einer Inschrift, der ursprünglich auf einem Hügel thronte. Das Monument ist ein Symbol für die lange Verbindung Hongkongs zum chinesischen Kaiserreich.",
+      hu: "Sung Wong Toi egy történelmi emlékmű Kowloon Cityben, amely a Song-dinasztia utolsó császárainak menekülésére emlékeztet. Ez egy feliratos gránittömb, amely eredetileg egy dombtetőn állt. Az emlékmű Hongkong és a kínai császárság hosszú kapcsolatának szimbóluma.",
+      ro: "Sung Wong Toi este un monument istoric din Kowloon City, care comemorează fuga ultimilor împărați ai dinastiei Song. Este un bloc de granit cu o inscripție, situat inițial pe un deal. Monumentul este un simbol al legăturii vechi a Hong Kong-ului cu imperiul chinez.",
+      en: "Sung Wong Toi is a historic monument in Kowloon City, commemorating the escape of the last emperors of the Song Dynasty. It consists of a granite block with an inscription, originally situated atop a hill. The monument symbolizes Hong Kong's long connection to the Chinese Empire.",
+    },
+    factsAdvanced: {
+      de: ["Erinnert an die Kaiser Zhao Shi und Zhao Bing", "Flucht vor den Mongolen im Jahr 1277-1278", "Inschrift bedeutet 'Terrasse der Song-Könige'", "Fels wurde im 2. Weltkrieg teilweise gesprengt", "Heutiger Gedenkpark wurde 1959 eröffnet", "Befindet sich nahe dem alten Flughafen Kai Tak"],
+      hu: ["Zhao Shi és Zhao Bing császárokra emlékeztet", "Menekülés a mongolok elől 1277-1278-ban", "A felirat jelentése: 'Song királyok terasza'", "A sziklát a II. világháborúban részben felrobbantották", "A mai emlékparkot 1959-ben nyitották meg", "A régi Kai Tak repülőtér közelében található"],
+      ro: ["Comemorează împărații Zhao Shi și Zhao Bing", "Fuga din fața mongolilor în anii 1277-1278", "Inscripția înseamnă 'Terasa Regilor Song'", "Stânca a fost parțial dinamitată în al Doilea Război", "Parcul memorial actual a fost deschis în 1959", "Situat în apropierea fostului aeroport Kai Tak"],
+      en: ["Commemorates Emperors Zhao Shi and Zhao Bing", "Flight from Mongol invaders in 1277-1278", "Inscription means 'Terrace of the Song Kings'", "Rock was partially blasted during World War II", "The current memorial park opened in 1959", "Located near the site of the former Kai Tak Airport"],
+    },
   },
   {
     id: "hongkong-kowloon-walled-city-park-history-v2",
@@ -38,6 +50,18 @@ export const hongkongHistoryV2: POI[] = [
       en: ["Originally a Qing Dynasty military fort", "The area was a lawless enclave for decades", "Demolition of the residential buildings occurred in 1993", "The Yamen is the only original building preserved"],
     },
     imageHint: "Kowloon Walled City Park Yamen building",
+    descriptionAdvanced: {
+      de: "Der Kowloon Walled City Park liegt an der Stelle einer einst berüchtigten, extrem dicht besiedelten Enklave. Nach dem Abriss der 'Stadt der Dunkelheit' in den 1990ern wurde hier ein Park im klassischen chinesischen Stil angelegt. Er bewahrt historische Relikte und dokumentiert die faszinierende Vergangenheit des Ortes.",
+      hu: "A Kowloon Walled City Park egy egykor hírhedt, rendkívül sűrűn lakott enklávé helyén található. A 'Sötétség Városának' 1990-es évekbeli lebontása után klasszikus kínai stílusú parkot alakítottak ki itt. Történelmi relikviákat őriz és dokumentálja a hely lenyűgöző múltját.",
+      ro: "Parcul Kowloon Walled City se află pe locul unei foste enclave infame, extrem de dens populate. După demolarea 'Orașului Întunericului' în anii 1990, aici a fost amenajat un parc în stil chinezesc clasic. Acesta păstrează relicve istorice și documentează trecutul fascinant al locului.",
+      en: "Kowloon Walled City Park stands on the site of a once infamous, extremely densely populated enclave. After the demolition of the 'City of Darkness' in the 1990s, a classical Chinese-style park was built here. It preserves historic relics and documents the fascinating past of the site.",
+    },
+    factsAdvanced: {
+      de: ["Abriss der alten Walled City von 1993 bis 1994", "Eröffnung des Parks im Dezember 1995", "Fläche von ca. 31.000 Quadratmetern", "Yamen-Gebäude von 1847 ist original erhalten", "Gestaltet im Stil der frühen Qing-Dynastie", "Reste des Südtors wurden 1987 entdeckt"],
+      hu: ["A régi erődváros bontása 1993 és 1994 között zajlott", "A parkot 1995 decemberében nyitották meg", "Területe körülbelül 31.000 négyzetméter", "Az 1847-es Yamen kormányzati épület eredeti", "A kora Qing-dinasztia stílusában alakították ki", "A déli kapu maradványait 1987-ben tárták fel"],
+      ro: ["Demolarea vechiului oraș a avut loc între 1993-1994", "Parcul a fost deschis în decembrie 1995", "Suprafață de aproximativ 31.000 de metri pătrați", "Clădirea Yamen din 1847 este conservată original", "Amenajat în stilul arhitectural de la începutul Qing", "Resturile Porții de Sud au fost descoperite în 1987"],
+      en: ["Demolition of the old Walled City from 1993 to 1994", "Opening of the park in December 1995", "Covers an area of about 31,000 square meters", "Original 1847 Yamen building is preserved", "Designed in the early Qing Dynasty garden style", "Remnants of the South Gate discovered in 1987"],
+    },
   },
   {
     id: "hongkong-tung-chung-fort-history-v2",
@@ -57,6 +81,18 @@ export const hongkongHistoryV2: POI[] = [
       en: ["Built in 1832 during the reign of Daoguang", "Once housed the headquarters of the Right Division", "Six cast-iron cannons still stand on the ramparts", "Later served as a police station and a school"],
     },
     imageHint: "Tung Chung Fort granite walls and cannons",
+    descriptionAdvanced: {
+      de: "Das Tung Chung Fort auf der Insel Lantau wurde 1832 während der Qing-Dynastie erbaut, um die Region vor Piraten und dem illegalen Opiumhandel zu schützen. Die Anlage verfügt über sechs gusseiserne Kanonen auf der Nordmauer, die noch heute erhalten sind. Nach der Verpachtung der New Territories an Großbritannien im Jahr 1898 diente das Fort als Polizeistation.",
+      hu: "A Lantau-szigeten található Tung Chung erőd 1832-ben épült a Qing-dinasztia idején, hogy megvédje a partvidéket a kalózoktól és az ópiumkereskedelemtől. Az erőd falain hat eredeti öntöttvas ágyú látható, amelyek a 19. századból származnak. Miután a britek 1898-ban bérbe vették az Új Területeket, az építmény rendőrőrsként és iskolaként is funkcionált.",
+      ro: "Fortăreața Tung Chung de pe insula Lantau a fost construită în 1832, în timpul dinastiei Qing, pentru a combate pirateria și comerțul ilegal cu opiu. Structura păstrează șase tunuri de fontă pe zidul de nord, datând din perioada construcției. După ce Noile Teritorii au fost închiriate Marii Britanii în 1898, fortul a servit drept secție de poliție și școală.",
+      en: "Tung Chung Fort on Lantau Island was constructed in 1832 during the Qing Dynasty to defend the area against pirates and the illicit opium trade. The site features six muzzle-loading cannons mounted on the north wall, which remain in their original positions. Following the lease of the New Territories to Britain in 1898, the fort was repurposed as a police station.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1832 unter Kaiser Daoguang", "Verfügt über 6 gusseiserne Kanonen auf der Nordmauer", "Diente nach 1898 als Polizeistation von Lantau", "Wurde 1979 zum offiziellen Denkmal erklärt", "Die Mauern bestehen aus Granitquadern", "Umfasst eine Fläche von etwa 70 mal 80 Metern"],
+      hu: ["1832-ben épült Daoguang császár uralkodása alatt", "6 darab eredeti öntöttvas ágyú található a falain", "1898 után a brit közigazgatás rendőrőrsként használta", "1979-ben nyilvánították hivatalos műemlékké", "A falak masszív gránitblokkokból készültek", "Az erőd belső udvara nagyjából 5600 négyzetméter"],
+      ro: ["Construit în anul 1832 sub împăratul Daoguang", "Găzduiește 6 tunuri de fontă pe zidul nordic", "A servit drept sediu de poliție după anul 1898", "Declarat monument istoric oficial în 1979", "Zidurile sunt edificate din blocuri de granit", "Incinta măsoară aproximativ 70 pe 80 de metri"],
+      en: ["Built in 1832 during the reign of Emperor Daoguang", "Features 6 original muzzle-loading cannons", "Used as a police station after the 1898 lease", "Declared a statutory monument in 1979", "Constructed primarily from granite blocks", "The rectangular site measures 70 by 80 metres"],
+    },
   },
   {
     id: "hongkong-fan-lau-fort-history-v2",
@@ -76,6 +112,18 @@ export const hongkongHistoryV2: POI[] = [
       en: ["Likely built as early as 1729", "Rectangular structure made of stone and brick", "Abandoned in 1810 after the surrender of pirates", "The site underwent restoration in the 1980s"],
     },
     imageHint: "Fan Lau Fort ruins Lantau Island",
+    descriptionAdvanced: {
+      de: "Das Fan Lau Fort ist die älteste Festungsanlage in Hongkong und wurde 1729 an der Südwestspitze der Insel Lantau errichtet. Es diente zur Überwachung der Seewege zum Perlfluss-Delta und zum Schutz vor Schmugglern. Die rechteckige Anlage aus Stein und Ziegeln misst etwa 46 mal 21 Meter und bietet einen weiten Blick auf das Südchinesische Meer.",
+      hu: "A Fan Lau erőd Hongkong legrégebbi katonai erődítménye, amelyet 1729-ben építettek a Lantau-sziget legdélebbi csücskén. Az építmény célja a Gyöngy-folyó torkolatához vezető hajóutak ellenőrzése és a kalóztámadások elhárítása volt. A 46-szor 21 méteres, kőből és téglából emelt falak maradványai ma is látogathatók a természetvédelmi területen.",
+      ro: "Fortul Fan Lau este cea mai veche structură defensivă din Hong Kong, fiind ridicat în 1729 în extremitatea sud-vestică a insulei Lantau. Rolul său strategic era monitorizarea rutelor maritime către Delta Râului Perlelor și prevenirea contrabandei. Incinta dreptunghiulară din piatră și cărămidă măsoară 46 pe 21 metri și domină Marea Chinei de Sud.",
+      en: "Fan Lau Fort is the oldest military fortification in Hong Kong, established in 1729 at the southwestern tip of Lantau Island. It was strategically positioned to monitor maritime traffic entering the Pearl River Delta and to deter smuggling operations. The rectangular structure, built of stone and brick, measures approximately 46 by 21 metres.",
+    },
+    factsAdvanced: {
+      de: ["Ältestes Fort in Hongkong, erbaut im Jahr 1729", "Abmessungen der Anlage: 46 Meter mal 21 Meter", "Mauern erreichen eine Höhe von bis zu 5 Metern", "Diente zum Schutz der Handelswege nach Kanton", "Wurde 1981 unter Denkmalschutz gestellt", "Befindet sich innerhalb des Lantau South Country Park"],
+      hu: ["Hongkong legrégebbi erődje, épült 1729-ben", "A téglalap alakú építmény mérete 46 x 21 méter", "A falak magassága helyenként eléri az 5 métert", "A Kantonba vezető kereskedelmi utakat védte", "1981-ben nyilvánították védett műemlékké", "A Lantau South Country Park területén fekszik"],
+      ro: ["Cea mai veche fortăreață din Hong Kong, din 1729", "Dimensiunile incintei sunt de 46 pe 21 metri", "Zidurile ating o înălțime de până la 5 metri", "Proteja rutele comerciale maritime spre Canton", "Declarat monument istoric protejat în anul 1981", "Situat în perimetrul Parcului Natural Lantau South"],
+      en: ["Oldest fort in Hong Kong, completed in 1729", "The rectangular enclosure measures 46 by 21 metres", "Walls stand up to 5 metres high in some sections", "Guarded the maritime trade routes to Canton", "Declared a statutory monument in 1981", "Located within the Lantau South Country Park"],
+    },
   },
   {
     id: "hongkong-murray-house-history-v2",
@@ -95,6 +143,18 @@ export const hongkongHistoryV2: POI[] = [
       en: ["Originally built in 1844 as officers' quarters", "Dismantled into 3,000 numbered pieces in the 1980s", "Used as a Japanese interrogation center during WWII", "The reconstruction in Stanley was completed in 2000"],
     },
     imageHint: "Murray House Stanley waterfront",
+    descriptionAdvanced: {
+      de: "Das Murray House ist ein markantes Beispiel viktorianischer Architektur, das ursprünglich 1844 im Stadtteil Central als Offiziersquartier errichtet wurde. Aufgrund der Stadtentwicklung wurde das Gebäude 1982 abgebaut, wobei über 3.000 Granitblöcke katalogisiert wurden. In den späten 1990er Jahren wurde es originalgetreu an der Strandpromenade von Stanley wieder aufgebaut.",
+      hu: "A Murray House a viktoriánus építészet egyik kiemelkedő példája, amely eredetileg 1844-ben épült Central negyedben katonai tiszti szállásként. A városfejlesztés miatt 1892-ben lebontották, de több mint 3000 gránitblokkját beszámozták és megőrizték. Az 1990-es évek végén az épületet eredeti formájában újjáépítették Stanley tengerparti sétányán.",
+      ro: "Murray House este un exemplu remarcabil de arhitectură victoriană, construit inițial în 1844 în districtul Central ca reședință pentru ofițeri. Din cauza dezvoltării urbane, clădirea a fost demontată în 1982, cele peste 3.000 de blocuri de granit fiind catalogate. La sfârșitul anilor 1990, a fost reconstruită fidel pe faleza din Stanley.",
+      en: "Murray House is a prominent example of Victorian architecture, originally constructed in 1844 in Central as officers' quarters. Due to urban redevelopment, the building was dismantled in 1982, with over 3,000 granite blocks carefully numbered and stored. In the late 1990s, it was meticulously reconstructed at its current waterfront location in Stanley.",
+    },
+    factsAdvanced: {
+      de: ["Ursprünglich 1844 im Distrikt Central erbaut", "Besteht aus über 3.000 nummerierten Granitblöcken", "Diente während des Zweiten Weltkriegs als Gestapo-Zentrale", "Abbau im Jahr 1982, Wiederaufbau in Stanley bis 2002", "Eines der ältesten öffentlichen Gebäude Hongkongs", "Kombiniert klassische Säulen mit Veranden"],
+      hu: ["Eredetileg 1844-ben épült a Central negyedben", "Több mint 3000 számozott gránittömbből áll", "A második világháború alatt a japán titkosrendőrség központja volt", "1982-ben bontották le, 2002-re fejezték be az újjáépítést", "Hongkong egyik legrégebbi középülete", "Klasszikus oszloprendet és tágas verandákat ötvöz"],
+      ro: ["Construită inițial în 1844 în districtul Central", "Compusă din peste 3.000 de blocuri de granit numerotate", "A servit drept sediu Gestapo în timpul celui de-al Doilea Război Mondial", "Demontată în 1982 și reconstruită în Stanley până în 2002", "Una dintre cele mai vechi clădiri publice din oraș", "Îmbină coloanele clasice cu logii exterioare"],
+      en: ["Originally built in 1844 in the Central District", "Comprised of over 3,000 numbered granite blocks", "Used as a headquarters by the Japanese during WWII", "Dismantled in 1982 and reopened in Stanley in 2002", "One of the oldest surviving public buildings in HK", "Features Classical columns and wide verandas"],
+    },
   },
   {
     id: "hongkong-flagstaff-house-history-v2",
@@ -114,6 +174,18 @@ export const hongkongHistoryV2: POI[] = [
       en: ["Built in 1846 for the Commander-in-Chief", "A classic example of Greek Revival architecture", "Survived the Japanese occupation largely intact", "Converted into a tea museum in 1984"],
     },
     imageHint: "Flagstaff House Museum of Tea Ware",
+    descriptionAdvanced: {
+      de: "Das Flagstaff House wurde 1846 als Residenz für den Oberbefehlshaber der britischen Streitkräfte errichtet und ist das älteste koloniale Gebäude Hongkongs. Es wurde im neoklassizistischen Stil erbaut und befindet sich heute im Herzen des Hong Kong Parks. Seit 1984 beherbergt es das Museum of Tea Ware, das eine bedeutende Sammlung asiatischer Teekeramik ausstellt.",
+      hu: "A Flagstaff House 1846-ban épült a brit erők főparancsnokának rezidenciájaként, és ez Hongkong legrégebbi fennmaradt gyarmati épülete. A neoklasszicista stílusú építmény ma a Hong Kong Park közepén található. 1984 óta itt működik a Teedények Múzeuma, amely Ázsia egyik legjelentősebb teázással kapcsolatos kerámiagyűjteményét mutatja be.",
+      ro: "Flagstaff House a fost construită în 1846 ca reședință pentru comandantul trupelor britanice, fiind cea mai veche clădire colonială din Hong Kong. Edificiul în stil neoclasic este situat astăzi în inima parcului Hong Kong. Din 1984, găzduiește Muzeul Ustensilelor de Ceai, prezentând o colecție vastă de ceramică asiatică dedicată ceaiului.",
+      en: "Flagstaff House was completed in 1846 as the residence for the Commander-in-Chief of British forces, making it the oldest colonial building in Hong Kong. Built in the Neoclassical style, it is now located within Hong Kong Park. Since 1984, the building has housed the Museum of Tea Ware, displaying a significant collection of Asian tea-related ceramics.",
+    },
+    factsAdvanced: {
+      de: ["Ältestes koloniales Gebäude in Hongkong, erbaut 1846", "Ursprünglich bekannt als Headquarter House", "Befindet sich im Stadtteil Central innerhalb des HK Parks", "Diente bis 1978 als militärische Residenz", "Beherbergt seit 1984 das Museum of Tea Ware", "Wurde 1989 zum offiziellen Denkmal erklärt"],
+      hu: ["Hongkong legrégebbi gyarmati épülete, épült 1846-ban", "Eredetileg Headquarter House néven ismerték", "A Central negyedben, a Hong Kong Parkban található", "1978-ig szolgált katonai parancsnoki rezidenciaként", "1984 óta ad otthont a Teedények Múzeumának", "1989-ben nyilvánították védett műemlékké"],
+      ro: ["Cea mai veche clădire colonială din oraș, din 1846", "Cunoscută inițial sub numele de Headquarter House", "Situată în districtul Central, în interiorul HK Park", "A fost rezidență militară oficială până în anul 1978", "Găzduiește Muzeul Ustensilelor de Ceai din 1984", "Declarată monument istoric protejat în anul 1989"],
+      en: ["Oldest surviving colonial building in HK, built 1846", "Originally known as the Headquarter House", "Located in Central within the Hong Kong Park", "Served as a military residence until 1978", "Home to the Museum of Tea Ware since 1984", "Declared a statutory monument in 1989"],
+    },
   },
   {
     id: "hongkong-st-johns-cathedral-history-v2",
@@ -133,6 +205,18 @@ export const hongkongHistoryV2: POI[] = [
       en: ["Foundation stone was laid in 1847", "Served as a Japanese clubhouse during WWII", "Only church on freehold land in Hong Kong", "Features windows commemorating fallen soldiers"],
     },
     imageHint: "St John's Cathedral Hong Kong exterior",
+    descriptionAdvanced: {
+      de: "Die St. John's Cathedral ist die älteste anglikanische Kirche in Ostasien und wurde 1849 im neugotischen Stil fertiggestellt. Das Gebäude in Form eines Kreuzes besteht aus Granit und Backstein und ist eines der wenigen Bauwerke in Hongkong auf eigenem Grundbesitz. Während der japanischen Besatzung wurde die Kathedrale als Clubhaus für japanische Offiziere zweckentfremdet.",
+      hu: "A Szent János-székesegyház Kelet-Ázsia legrégebbi anglikán temploma, amelyet 1849-ben fejeztek be neogótikus stílusban. A kereszt alaprajzú épület gránitból és téglából készült, és egyike azon kevés ingatlanoknak Hongkongban, amelyek örökbérleti joggal rendelkeznek. A japán megszállás alatt az épületet a tisztek klubházaként használták.",
+      ro: "Catedrala Sfântul Ioan este cea mai veche biserică anglicană din Asia de Est, fiind finalizată în 1849 în stil neogotic. Clădirea în formă de cruce este construită din granit și cărămidă și reprezintă una dintre puținele proprietăți imobiliare private din Hong Kong. În timpul ocupației japoneze, catedrala a fost transformată în club pentru ofițeri.",
+      en: "St. John's Cathedral is the oldest Anglican church in the Far East, completed in 1849 in the Gothic Revival style. The cross-shaped building was constructed using granite and brick and is unique as the only freehold land in Hong Kong. During the Japanese occupation in World War II, the cathedral was repurposed as a clubhouse for Japanese officers.",
+    },
+    factsAdvanced: {
+      de: ["Grundsteinlegung am 25. Januar 1847", "Älteste anglikanische Kathedrale in Fernost", "Einziges Grundstück in HK mit privatem Eigentumsrecht", "Wurde im neugotischen Stil von 1847 bis 1849 erbaut", "Beschädigung der Glasfenster während des Zweiten Weltkriegs", "Ernennung zum offiziellen Denkmal im Jahr 1996"],
+      hu: ["Az alapkőletétel 1847. január 25-én történt", "A Távol-Kelet legrégebbi anglikán katedrálisa", "Az egyetlen örökbérletű (freehold) földterület Hongkongban", "Neogótikus stílusban épült 1847 és 1849 között", "Üvegablakai elpusztultak a második világháborúban", "1996-ban kapott hivatalos műemléki védelmet"],
+      ro: ["Piatra de temelie a fost pusă la 25 ianuarie 1847", "Cea mai veche catedrală anglicană din Extremul Orient", "Singurul teren în proprietate privată (freehold) din HK", "Construită în stil neogotic între anii 1847 și 1849", "Vitraliile au fost distruse în al Doilea Război Mondial", "Declarată monument istoric oficial în anul 1996"],
+      en: ["Foundation stone laid on 25 January 1847", "Oldest Anglican cathedral in the Far East", "Only piece of freehold land in all of Hong Kong", "Built in the Gothic Revival style (1847–1849)", "Stained glass windows were destroyed during WWII", "Declared a statutory monument in 1996"],
+    },
   },
   {
     id: "hongkong-kat-hing-wai-history-v2",
@@ -152,6 +236,18 @@ export const hongkongHistoryV2: POI[] = [
       en: ["Built during the Chenghua reign of the Ming Dynasty", "The iron gates were taken by British forces in 1899", "The gates were not returned until 1925", "The village is shaped like a near-perfect square"],
     },
     imageHint: "Kat Hing Wai walled village entrance",
+    descriptionAdvanced: {
+      de: "Kat Hing Wai ist ein historisches befestigtes Dorf des Tang-Clans in Yuen Long, das während der Ming-Dynastie gegründet wurde. Die etwa 6 Meter hohen Mauern aus blauen Ziegeln schützen das Dorf seit Jahrhunderten vor Eindringlingen. Bekannt ist das Dorf auch für seine eisernen Tore, die 1899 von den Briten als Kriegstrophäe entwendet und erst 1925 zurückgegeben wurden.",
+      hu: "Kat Hing Wai egy történelmi fallal körülvett falu Yuen Long körzetben, amelyet a Tang-klán alapított a Ming-dinasztia idején. A körülbelül 6 méter magas, kék téglából emelt falak évszázadokon át védték a lakókat a támadásoktól. A falu híres vasalt kapuiról, amelyeket a britek 1899-ben hadizsákmányként elvittek, és csak 1925-ben szolgáltattak vissza.",
+      ro: "Kat Hing Wai este un sat fortificat istoric al clanului Tang din Yuen Long, fondat în timpul dinastiei Ming. Zidurile de aproximativ 6 metri înălțime, realizate din cărămidă albastră, au protejat comunitatea timp de secole. Satul este celebru pentru porțile sale de fier, confiscate de britanici în 1899 și returnate abia în anul 1925.",
+      en: "Kat Hing Wai is a historic walled village established by the Tang clan in Yuen Long during the Ming Dynasty. The perimeter walls, standing approximately 6 metres high and built of blue bricks, have protected the settlement for centuries. The village is well-known for its iron gates, which were removed by British forces in 1899 and returned only in 1925.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet während der Regierungszeit von Chenghua (Ming)", "Die Mauern sind etwa 6 Meter hoch", "Eisernen Tore waren von 1899 bis 1925 in Irland", "Wohnort der Punti-Bevölkerung (Tang-Clan)", "Das Dorf hat einen rechteckigen Grundriss von 100x90m", "Verfügt über einen Wassergraben zur Verteidigung"],
+      hu: ["A Ming-dinasztia Chenghua uralkodása alatt alapították", "A védőfalak magassága nagyjából 6 méter", "Vaskapuit 1899 és 1925 között Írországban őrizték", "A Punti népcsoport (Tang-klán) egyik legfőbb székhelye", "A falu alaprajza 100 x 90 méteres téglalap", "Eredetileg vizesárok vette körül a falakat"],
+      ro: ["Fondat în timpul domniei lui Chenghua (dinastia Ming)", "Zidurile de apărare au o înălțime de 6 metri", "Porțile de fier au fost ținute în Irlanda între 1899-1925", "Locuință tradițională a clanului Tang (populația Punti)", "Satul are o formă dreptunghiulară de 100 pe 90 metri", "Prevăzut inițial cu un șanț cu apă pentru protecție"],
+      en: ["Founded during the Chenghua reign of the Ming Dynasty", "The defensive walls stand roughly 6 metres tall", "Iron gates were held in Ireland from 1899 to 1925", "Home to the Punti people of the Tang clan", "The village measures 100 by 90 metres in a rectangle", "Originally featured a protective water moat"],
+    },
   },
   {
     id: "hongkong-sam-tung-uk-history-v2",
@@ -171,6 +267,18 @@ export const hongkongHistoryV2: POI[] = [
       en: ["Founded in 1786 by the Chan clan", "Name means 'Three-Hall House' in Cantonese", "Declared an official monument in 1981", "The layout follows strict principles of symmetry"],
     },
     imageHint: "Sam Tung Uk Museum Hakka village",
+    descriptionAdvanced: {
+      de: "Das Sam Tung Uk Museum befindet sich in einem ehemaligen befestigten Dorf der Hakka in Tsuen Wan, das 1786 vom Chan-Clan erbaut wurde. Der Name bedeutet \"Haus mit drei Hallen\" und bezieht sich auf die architektonische Anordnung entlang einer zentralen Achse. In den 1980er Jahren wurde das Dorf restauriert und in ein Museum für Volkskunde umgewandelt.",
+      hu: "A Sam Tung Uk Múzeum egy egykori Hakka fallal körülvett falu Tsuen Wanban, amelyet a Chan-klán épített 1786-ban. A név jelentése „háromcsarnokos ház”, ami az épületek központi tengely mentén elhelyezkedő elrendezésére utal. Az 1980-as években a falut teljesen restaurálták, és néprajzi múzeummá alakították át.",
+      ro: "Muzeul Sam Tung Uk este situat într-un fost sat fortificat Hakka din Tsuen Wan, construit în 1786 de clanul Chan. Numele se traduce prin „casa cu trei hale”, reflectând dispunerea spațiilor pe o axă centrală. În anii 1980, satul a fost restaurat integral și transformat într-un muzeu de etnografie locală.",
+      en: "Sam Tung Uk Museum is located within a former Hakka walled village in Tsuen Wan, built in 1786 by the Chan clan. The name literally means 'three-hall house', referring to the traditional architectural layout along a central axis. In the 1980s, the village was restored and converted into a museum of local folk culture and history.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1786 durch den Chan-Clan", "Traditionelles Hakka-Dorf mit Befestigungsmauern", "Name bezieht sich auf die drei Haupthallen der Anlage", "Wurde 1981 zum offiziellen Denkmal erklärt", "Eröffnung als Museum erfolgte im Jahr 1987", "Umfasst eine Gesamtfläche von etwa 2.000 Quadratmetern"],
+      hu: ["1786-ban épült a Chan-klán számára", "Hagyományos Hakka típusú fallal körülvett falu", "A neve a belső udvar menti három főcsarnokra utal", "1981-ben nyilvánították hivatalos műemlékké", "A múzeum 1987-ben nyitotta meg kapuit", "A teljes komplexum területe kb. 2000 négyzetméter"],
+      ro: ["Construit în anul 1786 de către clanul Chan", "Sat tradițional Hakka prevăzut cu ziduri de apărare", "Numele provine de la cele trei hale principale", "Declarat monument istoric oficial în anul 1981", "Deschis publicului ca muzeu în anul 1987", "Complexul ocupă o suprafață de circa 2.000 mp"],
+      en: ["Built in 1786 by members of the Chan clan", "Traditional Hakka-style walled village architecture", "Name refers to the three main halls in the complex", "Declared a statutory monument in 1981", "Opened as a public museum in 1987", "Occupies a total area of approximately 2,000 sqm"],
+    },
   },
   {
     id: "hongkong-kun-ting-study-hall-history-v2",
@@ -190,6 +298,18 @@ export const hongkongHistoryV2: POI[] = [
       en: ["Built in 1870 by the Tang clan", "Features two halls separated by a courtyard", "Underwent extensive restoration in 1991", "A major stop on the Ping Shan Heritage Trail"],
     },
     imageHint: "Kun Ting Study Hall Ping Shan",
+    descriptionAdvanced: {
+      de: "Die Kun Ting Study Hall in Ping Shan wurde 1870 vom Tang-Clan sowohl für Bildungszwecke als auch zur Ahnenverehrung errichtet. Das Gebäude ist bekannt für seine prächtigen Holzschnitzereien und Granitsäulen, die den Reichtum des Clans widerspiegeln. Es ist Teil des Ping Shan Heritage Trail und bietet Einblicke in das traditionelle chinesische Bildungssystem.",
+      hu: "A Ping Shanban található Kun Ting Tanulócsarnokot 1870-ben építtette a Tang-klán oktatási célokra és őseik tiszteletére. Az épület híres díszes fafaragásairól és gránitoszlopairól, amelyek a klán gazdagságát hirdetik. Része a Ping Shan Örökség Útvonalnak, és bemutatja a hagyományos kínai vizsgarendszerre való felkészülés helyszínét.",
+      ro: "Sala de studiu Kun Ting din Ping Shan a fost edificată în 1870 de clanul Tang pentru educație și venerarea strămoșilor. Clădirea se distinge prin sculpturile în lemn elaborate și coloanele de granit, reflectând prosperitatea clanului. Face parte din traseul istoric Ping Shan și ilustrează sistemul educațional chinez tradițional.",
+      en: "Kun Ting Study Hall in Ping Shan was constructed in 1870 by the Tang clan to serve both as an educational facility and a place for ancestral worship. The building is renowned for its exquisite wood carvings and granite columns, which reflect the clan's wealth and status. It is a key site on the Ping Shan Heritage Trail.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1870 durch Tang Kwei-shing", "Diente der Vorbereitung auf die kaiserlichen Prüfungen", "Verfügt über zwei Hallen mit einem Innenhof", "Bekannt für feinste Holzschnitzereien und Wandmalereien", "Restaurierung wurde im Jahr 1991 abgeschlossen", "Gehört zum Dorf Hang Tau Tsuen in Yuen Long"],
+      hu: ["1870-ben építtette Tang Kwei-shing", "A császári vizsgákra való felkészülést szolgálta", "Két nagy csarnokból és egy belső udvarból áll", "Kiemelkedő fafaragások és falfestmények díszítik", "A teljes körű restaurálást 1991-ben fejezték be", "Yuen Long körzetben, Hang Tau Tsuen faluban található"],
+      ro: ["Construită în anul 1870 de Tang Kwei-shing", "Utilizată pentru pregătirea examenelor imperiale", "Structurată în două hale cu o curte interioară", "Faimoasă pentru sculpturile în lemn și picturile murale", "Restaurarea clădirii a fost finalizată în anul 1991", "Situată în satul Hang Tau Tsuen din districtul Yuen Long"],
+      en: ["Built in 1870 by the Tang clan leader Tang Kwei-shing", "Used for preparing students for the imperial exams", "Consists of two halls separated by a courtyard", "Features intricate wood carvings and wall paintings", "Full restoration was completed in 1991", "Located in Hang Tau Tsuen village, Yuen Long"],
+    },
   },
   {
     id: "hongkong-tang-ancestral-hall-history-v2",
@@ -209,6 +329,18 @@ export const hongkongHistoryV2: POI[] = [
       en: ["Consists of three halls and two courtyards", "Still used today for traditional clan meetings", "Famous for its elaborate roof decorations", "Believed to have been founded in the 14th century"],
     },
     imageHint: "Tang Ancestral Hall Ping Shan exterior",
+    descriptionAdvanced: {
+      de: "Die Tang Ancestral Hall in Ping Shan ist die größte ihrer Art in Hongkong und wurde vor etwa 700 Jahren während der Song-Dynastie gegründet. Die heutige Struktur stammt überwiegend aus dem 16. Jahrhundert und folgt dem klassischen Drei-Hallen-Layout mit zwei Innenhöfen. Sie dient bis heute als wichtiges Zentrum für Zeremonien und Versammlungen des Tang-Clans.",
+      hu: "A Ping Shanban lévő Tang Ősi Csarnok Hongkong legnagyobb ilyen jellegű építménye, amelyet körülbelül 700 évvel ezelőtt, a Song-dinasztia idején alapítottak. A jelenlegi épület nagyrészt a 16. századból származik, és a klasszikus „háromcsarnokos” elrendezést követi két udvarral. Ma is a Tang-klán szertartásainak és gyűléseinek központja.",
+      ro: "Sala Ancestrală Tang din Ping Shan este cea mai mare de acest tip din Hong Kong, fiind fondată acum aproximativ 700 de ani, în timpul dinastiei Song. Structura actuală datează în principal din secolul al XVI-lea, urmând planul clasic cu trei hale și două curți interioare. Rămâne centrul vital pentru ceremoniile clanului Tang.",
+      en: "Tang Ancestral Hall in Ping Shan is the largest hall of its kind in Hong Kong, founded approximately 700 years ago during the Southern Song Dynasty. The current structure dates mainly from the 16th century and adheres to the classic three-hall layout with two internal courtyards. It remains a central site for the Tang clan's ceremonies.",
+    },
+    factsAdvanced: {
+      de: ["Größte Ahnanhalle in Hongkong", "Gegründet um 1273 während der Song-Dynastie", "Heutiges Gebäude stammt aus dem Jahr 1525", "Verfügt über ein klassisches Drei-Hallen-Layout", "Wurde 2001 zum offiziellen Denkmal erklärt", "Besitzt ein prächtiges Dach mit Keramikfiguren"],
+      hu: ["Hongkong legnagyobb ősi csarnoka", "1273 körül alapították a Song-dinasztia alatt", "A mai épület főbb részei 1525-ből származnak", "Klasszikus háromcsarnokos belső elrendezésű", "2001-ben nyilvánították hivatalos műemlékké", "Tetejét díszes kerámiafigurák és sárkányok ékesítik"],
+      ro: ["Cea mai mare sală ancestrală din Hong Kong", "Fondată în jurul anului 1273 (dinastia Song)", "Clădirea actuală datează din anul 1525", "Urmează planul arhitectural tradițional cu trei hale", "Declarată monument istoric oficial în anul 2001", "Acoperișul este decorat cu figurine ceramice complexe"],
+      en: ["Largest ancestral hall in the Hong Kong region", "Founded around 1273 during the Southern Song Dynasty", "The present structure dates back to 1525", "Features a traditional three-hall architectural layout", "Declared a statutory monument in December 2001", "Adorned with elaborate ceramic figures on the ridges"],
+    },
   },
   {
     id: "hongkong-tsui-sing-lau-pagoda-history-v2",
@@ -786,6 +918,18 @@ export const hongkongHistoryV2: POI[] = [
       en: ["Rediscovered in the 1930s", "Similar in style to other coastal carvings", "Declared a statutory monument in 1979", "Features stylized animal and square patterns"],
     },
     imageHint: "Shek Pik rock carvings geometric",
+    descriptionAdvanced: {
+      de: "Die Felsritzungen von Shek Pik auf der Insel Lantau stammen aus der Bronzezeit vor etwa 3.000 Jahren. Die geometrischen Muster bestehen aus Quadraten und Spiralen, die tief in den Granitfels direkt an der Küste eingraviert wurden. Sie wurden 1939 entdeckt und liefern wichtige Hinweise auf die prähistorischen Bewohner der Region und deren spirituelle Praktiken.",
+      hu: "A Lantau-szigeti Shek Pik sziklavésetek a bronzkorból, körülbelül 3000 évvel ezelőttről származnak. A geometrikus minták spirálokból és négyzetekből állnak, amelyeket mélyen a tengerparti gránitsziklába véstek. A leletet 1939-ben fedezték fel, és fontos bizonyítékot szolgáltatnak a régió őskori lakóinak művészetéről és hitvilágáról.",
+      ro: "Gravurile rupestre de la Shek Pik de pe insula Lantau datează din Epoca Bronzului, având o vechime de aproximativ 3.000 de ani. Modelele geometrice constau în spirale și pătrate incizate adânc în stânca de granit de pe coastă. Descoperite în 1939, acestea oferă indicii prețioase despre credințele populațiilor preistorice locale.",
+      en: "The Shek Pik Rock Carvings on Lantau Island date back to the Bronze Age, approximately 3,000 years ago. These geometric patterns consist of spirals and square motifs incised deeply into the granite rock face near the shoreline. Discovered in 1939, they provide vital evidence of the spiritual practices and art of Hong Kong's prehistoric inhabitants.",
+    },
+    factsAdvanced: {
+      de: ["Alter wird auf etwa 3.000 Jahre geschätzt", "Entdeckung durch Chen Kung-che im Jahr 1939", "Befinden sich etwa 200 Meter unterhalb des Staudamms", "Bestehen aus komplexen geometrischen Mustern", "Wurden 1979 zum offiziellen Denkmal erklärt", "Direkt in den anstehenden Granitfels graviert"],
+      hu: ["Becsült kora körülbelül 3000 év", "1939-ben fedezte fel Chen Kung-che", "A Shek Pik víztározó gátja alatt 200 méterre találhatók", "Bonyolult geometrikus és spirális mintákból állnak", "1979-ben kaptak hivatalos műemléki védelmet", "Közvetlenül a tengerparti gránitsziklába vésték őket"],
+      ro: ["Vechime estimată la aproximativ 3.000 de ani", "Descoperite de Chen Kung-che în anul 1939", "Situate la 200 de metri sub barajul Shek Pik", "Compuse din modele geometrice și spirale complexe", "Declarate monument istoric oficial în anul 1979", "Incizate direct în fața de granit a stâncii"],
+      en: ["Estimated age is approximately 3,000 years", "Discovered by Chen Kung-che in 1939", "Located 200 metres below the Shek Pik reservoir dam", "Consist of complex geometric and spiral patterns", "Declared a statutory monument in 1979", "Carved directly onto a natural granite rock face"],
+    },
   },
   {
     id: "hongkong-big-wave-bay-carvings-history-v2",
@@ -805,6 +949,18 @@ export const hongkongHistoryV2: POI[] = [
       en: ["Discovered in 1970 by a police officer", "Estimated to be about 3,000 years old", "Declared a statutory monument in 1978", "Located right next to the hiking trail"],
     },
     imageHint: "Big Wave Bay rock carvings cliff",
+    descriptionAdvanced: {
+      de: "Die Felsritzungen in der Big Wave Bay auf Hong Kong Island wurden 1970 entdeckt und gehören zu den bedeutendsten prähistorischen Funden der Stadt. Die Darstellungen zeigen stilisierte Tiere und geometrische Formen, die typisch für die Bronzezeit in Südchina sind. Die Platzierung direkt am Meer deutet darauf hin, dass die Gravuren möglicherweise der Besänftigung der Meeresgötter dienten.",
+      hu: "A Hong Kong-szigeti Big Wave Bay sziklavéseteit 1970-ben fedezték fel, és a város legfontosabb őskori emlékei közé tartoznak. A vésetek stilizált állatokat és geometrikus formákat ábrázolnak, amelyek a dél-kínai bronzkorra jellemzők. A tengerparti elhelyezkedés arra utal, hogy a véseteknek rituális szerepük lehetett a tengeri istenségek kiengesztelésében.",
+      ro: "Gravurile rupestre din Big Wave Bay, de pe insula Hong Kong, au fost descoperite în 1970 și reprezintă situri preistorice majore. Imaginile redau animale stilizate și forme geometrice tipice Epocii Bronzului din sudul Chinei. Amplasarea lor pe coasta mării sugerează un rol ritualic, probabil pentru a invoca protecția divinităților marine.",
+      en: "The Big Wave Bay Rock Carvings on Hong Kong Island were discovered in 1970 and are among the most significant prehistoric remains in the territory. The carvings feature stylised animals and geometric patterns characteristic of the Bronze Age in Southern China. Their location facing the sea suggests a ritualistic purpose related to maritime deities.",
+    },
+    factsAdvanced: {
+      de: ["Zufällige Entdeckung durch einen Polizisten 1970", "Stammen aus der Bronzezeit (ca. 1000 v. Chr.)", "Zeigen stilisierte Monster- oder Tiermotive", "Befinden sich am östlichen Ende von Hong Kong Island", "Wurden 1978 unter staatlichen Denkmalschutz gestellt", "Größe der gravierten Fläche beträgt ca. 90x180 cm"],
+      hu: ["1970-ben fedezte fel véletlenül egy rendőr", "A bronzkorból származnak (kb. i. e. 1000)", "Stilizált szörny- vagy állatmotívumokat ábrázolnak", "A Hong Kong-sziget legkeletibb végén találhatók", "1978-ban nyilvánították védett műemlékké", "A vésett felület mérete nagyjából 90 x 180 cm"],
+      ro: ["Descoperite accidental de un polițist în 1970", "Datează din Epoca Bronzului (aprox. 1000 î.Hr.)", "Prezintă motive stilizate de monștri sau animale", "Situate în extremitatea estică a insulei Hong Kong", "Declarate monument istoric protejat în anul 1978", "Suprafața gravată măsoară circa 90 pe 180 cm"],
+      en: ["Accidentally discovered by a policeman in 1970", "Date back to the Bronze Age (c. 1000 BC)", "Depict stylised monster or animal motifs", "Located at the eastern end of Hong Kong Island", "Declared a statutory monument in 1978", "The carved area measures roughly 90 by 180 cm"],
+    },
   },
   {
     id: "hongkong-lung-yeuk-tau-history-v2",
@@ -1413,6 +1569,18 @@ export const hongkongHistoryV2: POI[] = [
       en: ["Built in 1751 during the Qing Dynasty", "One of the largest ancestral halls in Hong Kong", "Declared a statutory monument in 1985", "Features three halls and two courtyards"],
     },
     imageHint: "Liu Man Shek Tong Ancestral Hall exterior",
+    descriptionAdvanced: {
+      de: "Die Liu Man Shek Tong Ancestral Hall in Sheung Shui wurde 1751 fertiggestellt und ist das zentrale Heiligtum des Liu-Clans. Das prächtige Gebäude im traditionellen Stil verfügt über drei Hallen und zwei Innenhöfe, die mit feinen Skulpturen und Wandmalereien geschmückt sind. Der Name erinnert an den Erfolg des Clans, der einst genug Getreide produzierte, um 10.000 Säcke Steuer zu zahlen.",
+      hu: "A Sheung Shuiban található Liu Man Shek Tong Ősi Csarnokot 1751-ben fejezték be a Liu-klán központi szentélyeként. A hagyományos stílusú épület három csarnokkal és két udvarral rendelkezik, amelyeket finom szobrok és falfestmények díszítenek. A név a klán sikerére utal, akik egykor 10 000 zsáknyi (man shek) gabonát termeltek adóként.",
+      ro: "Sala Ancestrală Liu Man Shek Tong din Sheung Shui a fost finalizată în 1751 ca sanctuar central al clanului Liu. Clădirea somptuoasă dispune de trei hale și două curți interioare, decorate cu sculpturi rafinate și picturi murale. Numele face referire la bogăția clanului, care producea anual 10.000 de saci de cereale pentru taxe.",
+      en: "Liu Man Shek Tong Ancestral Hall in Sheung Shui was completed in 1751 and serves as the primary ancestral shrine for the Liu clan. This grand traditional building features a three-hall, two-courtyard layout adorned with fine sculptures and murals. Its name commemorates the clan's historical success in producing 10,000 sacks of grain in taxes.",
+    },
+    factsAdvanced: {
+      de: ["Bau wurde im Jahr 1751 abgeschlossen", "Zentrale Ahnanhalle des Liu-Clans in Sheung Shui", "Besteht aus drei Hallen und zwei Innenhöfen", "Name bedeutet wörtlich 10.000 Säcke Getreide", "Wurde 1985 zum offiziellen Denkmal erklärt", "Umfassende Restaurierung im Jahr 1994 durchgeführt"],
+      hu: ["Az építkezés 1751-ben fejeződött be", "A Liu-klán központi ősi csarnoka Sheung Shuiban", "Három főcsarnokból és két belső udvarból áll", "A név jelentése: Tízezer zsák gabona", "1985-ben nyilvánították hivatalos műemlékké", "1994-ben teljes körű szerkezeti felújításon esett át"],
+      ro: ["Construcția a fost finalizată în anul 1751", "Templul ancestral principal al clanului Liu", "Structurată în trei hale și două curți interioare", "Numele semnifică literal 10.000 de saci de grâne", "Declarată monument istoric oficial în anul 1985", "Restaurare majoră efectuată în cursul anului 1994"],
+      en: ["Building construction was completed in 1751", "The main ancestral hall for the Liu clan in Sheung Shui", "Layout consists of three halls and two courtyards", "Name translates to 'Ten Thousand Sacks of Grain'", "Declared a statutory monument in 1985", "Underwent a comprehensive restoration in 1994"],
+    },
   },
   {
     id: "hongkong-western-monastery-history-v2",

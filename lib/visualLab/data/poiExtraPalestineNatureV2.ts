@@ -19,6 +19,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Home to three natural springs", "Part of the ancient route to Jericho", "Unique flora in a desert environment", "Popular hiking destination in the West Bank"],
     },
     imageHint: "Deep canyon of Wadi Qelt with rocky cliffs and greenery",
+    descriptionAdvanced: {
+      de: "Das Wadi Qelt ist ein tief eingeschnittenes Tal in der Judäischen Wüste, das Jerusalem mit Jericho verbindet. Es beherbergt das griechisch-orthodoxe Kloster St. Georg, das direkt in die Felswand gebaut wurde. Entlang des Tals finden sich antike Aquädukte aus der Zeit der Hasmonäer und des Herodes, die einst Wasser in die Stadt Jericho leiteten.",
+      hu: "A Vádi-Kelt egy mély szurdokvölgy a Júdeai-sivatagban, amely Jeruzsálemet köti össze Jerikóval. Itt található a görög ortodox Szent György-kolostor, amelyet közvetlenül a sziklafalba építettek a 5. században. A völgy mentén hasmoneus és heródesi korból származó ókori vízvezetékek maradványai láthatók, amelyek egykor Jerikót látták el vízzel.",
+      ro: "Wadi Qelt este o vale adâncă în Deșertul Iudeii, care face legătura între Ierusalim și Ierihon. Găzduiește mănăstirea ortodoxă Sfântul Gheorghe, construită direct în peretele de stâncă în secolul al V-lea. De-a lungul văii se găsesc apeducte antice din perioada hasmoneană și herodiană, care transportau apa spre orașul Ierihon.",
+      en: "Wadi Qelt is a deep valley in the Judean Desert that connects Jerusalem and Jericho. It is home to the Greek Orthodox Monastery of St. George, which was built directly into the cliff face in the 5th century. Ancient aqueducts from the Hasmonean and Herodian periods can be found along the valley, having once transported water to Jericho.",
+    },
+    factsAdvanced: {
+      de: ["Das Tal erstreckt sich über ca. 28 Kilometer Länge", "Das St. Georgs-Kloster wurde um 480 n. Chr. gegründet", "Herodes der Große baute hier eine Winterresidenz", "Drei Quellen speisen den Bach im Tal das ganze Jahr über", "Die antiken Aquädukte sind über 2000 Jahre alt", "Das Gebiet ist ein wichtiger Lebensraum für Greifvögel"],
+      hu: ["A völgy hossza megközelítőleg 28 kilométer", "A Szent György-kolostort 480 körül alapították", "Nagy Heródes itt építtette fel téli palotáját", "A völgyben három állandó forrás biztosítja a vizet", "Az ókori vízvezetékek több mint 2000 évesek", "A terület fontos élőhelye a ritka ragadozó madaraknak"],
+      ro: ["Valea are o lungime de aproximativ 28 de kilometri", "Mănăstirea Sf. Gheorghe a fost fondată în jurul anului 480 d.Hr.", "Irod cel Mare a construit aici o reședință de iarnă", "Trei izvoare alimentează cursul de apă pe tot parcursul anului", "Apeductele antice au o vechime de peste 2000 de ani", "Zona este un habitat important pentru păsările de pradă"],
+      en: ["The valley stretches for approximately 28 kilometers", "St. George's Monastery was founded around 480 AD", "Herod the Great built a winter residence in this area", "Three springs feed the stream in the valley year-round", "The ancient aqueducts are over 2,000 years old", "The area is a key habitat for various birds of prey"],
+    },
   },
   {
     id: "palestine-mount-temptation-nature-v2",
@@ -38,6 +50,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Summit elevation is 366 meters", "Overlooks the oasis city of Jericho", "Accessible via a cable car system", "Composed of pale desert limestone"],
     },
     imageHint: "Mount of Temptation monastery clinging to the cliff",
+    descriptionAdvanced: {
+      de: "Der Berg der Versuchung erhebt sich über der Stadt Jericho und wird traditionell als der Ort identifiziert, an dem Jesus 40 Tage lang fastete. Das Kloster der Versuchung, auch Qarantal genannt, klammert sich spektakulär an die Klippen in 350 Metern Höhe. Besucher können den Gipfel über eine Seilbahn erreichen, die einen Panoramablick über das Jordantal bietet.",
+      hu: "A Megkísértés hegye Jerikó városa felett magasodik, és a hagyomány szerint itt böjtölt Jézus 40 napon át. A Karantal-kolostor lenyűgöző módon kapaszkodik a sziklákba 350 méteres magasságban. A látogatók kötélpályán juthatnak fel a csúcsra, ahonnan panorámás kilátás nyílik a Jordán-völgyre és a Holt-tengerre.",
+      ro: "Muntele Ispitirii se înalță deasupra orașului Ierihon și este identificat tradițional ca locul unde Iisus a postit timp de 40 de zile. Mănăstirea Ispitirii, numită și Qarantal, este suspendată pe stânci la o înălțime de 350 de metri. Vizitatorii pot ajunge pe vârf cu telecabina, care oferă o vedere panoramică asupra văii Iordanului.",
+      en: "The Mount of Temptation rises above the city of Jericho and is traditionally identified as the place where Jesus fasted for 40 days. The Monastery of the Temptation, also known as Qarantal, clings to the cliffs at an elevation of 350 meters. Visitors can reach the summit via a cable car, which offers panoramic views of the Jordan Valley.",
+    },
+    factsAdvanced: {
+      de: ["Der Gipfel liegt 350 Meter über dem Meeresspiegel", "Das erste Kloster wurde im 4. Jahrhundert errichtet", "Die heutige Klosteranlage stammt aus dem Jahr 1895", "Die Seilbahn von Jericho ist ca. 1,3 Kilometer lang", "In den Felsen befinden sich ca. 30 antike Einsiedlerzellen", "Der Berg liegt in einer der trockensten Zonen der Region"],
+      hu: ["A hegycsúcs 350 méterrel magasodik a tengerszint fölé", "Az első kolostort a 4. században emelték a helyszínen", "A mai kolostorépület 1895-ben készült el", "A jerikói kötélpálya hossza körülbelül 1,3 kilométer", "A sziklákban mintegy 30 ókori remetecella található", "A hegy a régió egyik legszárazabb zónájában fekszik"],
+      ro: ["Vârful muntelui se află la 350 de metri deasupra mării", "Prima mănăstire a fost construită în secolul al IV-lea", "Actualul complex monahal datează din anul 1895", "Telecabina din Ierihon are o lungime de circa 1,3 km", "În stâncă există aproximativ 30 de chilii antice de pustnici", "Muntele este situat într-una dintre cele mai aride zone"],
+      en: ["The summit is 350 meters above sea level", "The first monastery was built in the 4th century", "The current monastery complex dates back to 1895", "The Jericho cable car is approximately 1.3 kilometers long", "About 30 ancient hermit cells are located in the cliffs", "The mountain is situated in one of the driest zones"],
+    },
   },
   {
     id: "palestine-wadi-gaza-nature-v2",
@@ -57,6 +81,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Only nature reserve in the Gaza Strip", "Crucial corridor for bird migration", "Flows into the Mediterranean Sea", "Home to rare wetland vegetation"],
     },
     imageHint: "Meandering riverbed of Wadi Gaza near the sea",
+    descriptionAdvanced: {
+      de: "Wadi Gaza ist ein wichtiges Feuchtgebiet im Gazastreifen, das für seine reiche Artenvielfalt bekannt ist. Es dient als wichtiger Rastplatz für Tausende von Zugvögeln auf ihrer Wanderung zwischen Europa und Afrika. Das Tal erstreckt sich von den Hebron-Bergen bis zum Mittelmeer und bildet eines der wenigen natürlichen Ökosysteme in dieser dicht besiedelten Region.",
+      hu: "A Vádi-Gáza egy fontos vizes élőhely a Gázai övezetben, amely gazdag biológiai sokféleségéről ismert. Kiemelt pihenőhelyként szolgál több ezer vándormadár számára az Európa és Afrika közötti vonulás során. A völgy a Hebron-hegységtől a Földközi-tengerig húzódik, és egyike a kevés természetes ökoszisztémának ebben a sűrűn lakott régióban.",
+      ro: "Wadi Gaza este o zonă umedă importantă din Fâșia Gaza, cunoscută pentru biodiversitatea sa bogată. Servește ca punct de oprire crucial pentru mii de păsări migratoare în drumul lor între Europa și Africa. Valea se întinde de la Munții Hebron până la Marea Mediterană, formând unul dintre puținele ecosisteme naturale din regiune.",
+      en: "Wadi Gaza is a significant wetland in the Gaza Strip, known for its rich biodiversity. It serves as a vital resting point for thousands of migratory birds traveling between Europe and Africa. The valley extends from the Hebron Mountains to the Mediterranean Sea, forming one of the few natural ecosystems in this densely populated region.",
+    },
+    factsAdvanced: {
+      de: ["Das Wadi erstreckt sich über eine Länge von 9 Kilometern", "Es wurde im Jahr 2000 zum Naturschutzgebiet erklärt", "Über 150 Vogelarten wurden hier bereits dokumentiert", "Das Einzugsgebiet umfasst etwa 3500 Quadratkilometer", "Die Küstenlagune ist ein Brutplatz für Wasservögel", "Das Gebiet leidet unter starker Wasserknappheit"],
+      hu: ["A vádit 9 kilométeres szakaszon tartják számon", "2000-ben nyilvánították természetvédelmi területté", "Több mint 150 madárfajt dokumentáltak a területen", "A vízgyűjtő terület mintegy 3500 négyzetkilométer", "A tengerparti lagúna a vízi madarak költőhelye", "A terület súlyos vízhiánnyal és szennyezéssel küzd"],
+      ro: ["Wadi se întinde pe o lungime de 9 kilometri în Gaza", "A fost declarat rezervație naturală în anul 2000", "Peste 150 de specii de păsări au fost documentate aici", "Bazinul hidrografic acoperă circa 3500 km pătrați", "Laguna de coastă este loc de cuibărit pentru păsări de apă", "Zona se confruntă cu probleme severe de mediu"],
+      en: ["The wadi stretches for 9 kilometers within Gaza", "It was declared a nature reserve in the year 2000", "Over 150 bird species have been documented here", "The total catchment area is about 3,500 square kilometers", "The coastal lagoon is a breeding ground for waterbirds", "The area faces significant environmental challenges"],
+    },
   },
   {
     id: "palestine-judean-desert-nature-v2",
@@ -76,6 +112,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Primarily composed of limestone", "Very low annual precipitation", "Habitat for the Nubian ibex", "Known for sudden flash floods"],
     },
     imageHint: "Expansive view of barren Judean Desert hills",
+    descriptionAdvanced: {
+      de: "Die Judäische Wüste ist eine Regenchattenwüste östlich von Jerusalem, die bis zum Toten Meer abfällt. Sie zeichnet sich durch schroffe Kalksteinberge, tiefe Canyons und versteckte Klöster wie Mar Saba aus. Trotz der kargen Erscheinung beherbergt sie eine angepasste Flora und Fauna, darunter den Nubischen Steinbock und verschiedene Wüstenpflanzen.",
+      hu: "A Júdeai-sivatag egy esőárnyékban fekvő sivatag Jeruzsálemtől keletre, amely a Holt-tenger irányába ereszkedik le. Meredek mészkőhegyek, mély kanyonok és elrejtett kolostorok, például a Mar Saba jellemzik. A zord megjelenés ellenére alkalmazkodott növény- és állatvilágnak ad otthont, beleértve a núbiai kőszáli kecskét is.",
+      ro: "Deșertul Iudeii este un deșert situat la est de Ierusalim, care coboară spre Marea Moartă. Se caracterizează prin munți de calcar abrupți, canioane adânci și mănăstiri izolate, precum Mar Saba. În ciuda aspectului arid, adăpostește o floră și faună adaptată, inclusiv capra de munte nubiană și diverse plante de deșert.",
+      en: "The Judean Desert is a rain-shadow desert east of Jerusalem, descending toward the Dead Sea. It is characterized by rugged limestone mountains, deep canyons, and hidden monasteries like Mar Saba. Despite its barren appearance, it hosts adapted flora and fauna, including the Nubian ibex and various desert plants.",
+    },
+    factsAdvanced: {
+      de: ["Die Wüste umfasst ca. 1500 Quadratkilometer", "Die jährliche Niederschlagsmenge liegt unter 100 mm", "Mar Saba ist eines der ältesten Klöster der Welt", "Hier wurden 1947 die Schriftrollen vom Toten Meer gefunden", "Der Höhenunterschied beträgt über 1200 Meter", "Das Gebiet war ein historischer Rückzugsort für Einsiedler"],
+      hu: ["A sivatag területe körülbelül 1500 négyzetkilométer", "Az éves csapadékmennyiség 100 mm alatt marad", "A Mar Saba a világ egyik legrégebbi lakott kolostora", "Itt találták meg a holt-tengeri tekercseket 1947-ben", "A szintkülönbség a területen meghaladja az 1200 métert", "A terület történelmileg a remeték menedékhelye volt"],
+      ro: ["Deșertul acoperă aproximativ 1500 de kilometri pătrați", "Precipitațiile anuale sunt sub 100 mm în medie", "Mar Saba este una dintre cele mai vechi mănăstiri", "Aici au fost găsite manuscrisele de la Marea Moartă în 1947", "Diferența de altitudine depășește 1200 de metri", "Zona a fost un refugiu istoric pentru pustnici"],
+      en: ["The desert covers about 1,500 square kilometers", "Annual rainfall is typically less than 100 mm", "Mar Saba is one of the oldest inhabited monasteries", "The Dead Sea Scrolls were found here in 1947", "The elevation drop exceeds 1,200 meters across the area", "The region served as a historical retreat for hermits"],
+    },
   },
   {
     id: "palestine-ein-feshkha-nature-v2",
@@ -95,6 +143,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Lowest nature reserve on Earth", "Natural fresh and brackish pools", "Dense with reeds and lush greenery", "Critical habitat for desert fish"],
     },
     imageHint: "Lush green oasis with pools near the Dead Sea coast",
+    descriptionAdvanced: {
+      de: "Ein Feshkha, auch bekannt als Enot Tzukim, ist das niedrigstgelegene Naturschutzgebiet der Welt am Ufer des Toten Meeres. Es ist eine Oase mit natürlichen Süßwasserquellen, die inmitten der trockenen Wüste üppige Vegetation und Teiche ermöglichen. Das Gebiet bietet einen seltenen Kontrast zwischen dem extrem salzhaltigen Meer und dem sprudelnden Quellwasser.",
+      hu: "Ein Feshkha, más néven Enot Tzukim, a világ legalacsonyabban fekvő természetvédelmi területe a Holt-tenger partján. Ez egy oázis természetes édesvízi forrásokkal, amelyek buja növényzetet és tavakat tesznek lehetővé a száraz sivatag közepén. A terület ritka kontrasztot kínál a rendkívül sós tenger és a feltörő forrásvíz között.",
+      ro: "Ein Feshkha, cunoscută și sub numele de Enot Tzukim, este rezervația naturală situată la cea mai mică altitudine din lume. Este o oază cu izvoare naturale de apă dulce care permit vegetație luxuriantă și iazuri în mijlocul deșertului arid. Zona oferă un contrast rar între marea extrem de sărată și apa dulce a izvoarelor.",
+      en: "Ein Feshkha, also known as Enot Tzukim, is the lowest nature reserve in the world, located on the shores of the Dead Sea. It is an oasis with natural freshwater springs that support lush vegetation and pools in the middle of the arid desert. The area offers a rare contrast between the hyper-saline sea and the bubbling spring water.",
+    },
+    factsAdvanced: {
+      de: ["Das Reservat liegt etwa 420 Meter unter dem Meeresspiegel", "Die Quellen entspringen am Fuß der Judäischen Berge", "Es ist in einen geschützten und einen öffentlichen Teil unterteilt", "Das Wasser hat eine konstante Temperatur von 25 Grad Celsius", "Hier leben seltene Fischarten wie der Kärpfling", "Das Gebiet ist ein wichtiger Stopp für Zugvögel"],
+      hu: ["A rezervátum 420 méterrel a tengerszint alatt fekszik", "A források a Júdeai-hegység lábánál törnek elő", "A terület egy védett és egy látogatható részre oszlik", "A víz hőmérséklete állandóan 25 Celsius-fok körüli", "Ritka halfajok, például fogaspontyok élnek itt", "A terület fontos megállóhely a vándormadarak számára"],
+      ro: ["Rezervația se află la 420 de metri sub nivelul mării", "Izvoarele apar la poalele Munților Iudeii", "Este împărțită într-o zonă protejată și una publică", "Apa are o temperatură constantă de circa 25 grade Celsius", "Aici trăiesc specii rare de pești, cum este Aphanius", "Zona este un punct esențial pentru păsările migratoare"],
+      en: ["The reserve sits about 420 meters below sea level", "Springs emerge at the foot of the Judean Mountains", "It is divided into a hidden reserve and a public area", "The water maintains a constant temperature of 25°C", "Rare fish species like the Killifish inhabit the pools", "The area is a crucial stopover for migratory birds"],
+    },
   },
   {
     id: "palestine-wadi-auja-nature-v2",
@@ -114,6 +174,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Features a strong karstic spring", "Major irrigation source for Jericho area", "Popular for water-based hiking", "Partially dries up in late summer"],
     },
     imageHint: "Flowing stream of Wadi Auja surrounded by dry hills",
+    descriptionAdvanced: {
+      de: "Wadi Auja ist ein malerisches Tal nördlich von Jericho, das für seine ergiebige Quelle Ein Auja bekannt ist. Das Wasser wird durch Kanäle geleitet, um die umliegenden landwirtschaftlichen Flächen in der Wüste zu bewässern. Die Gegend ist ein beliebtes Ziel für Wanderer, da sie natürliche Pools und einen Wasserfall in einer sonst kargen Umgebung bietet.",
+      hu: "A Vádi-Auja egy festői völgy Jerikótól északra, amely bőséges forrásáról, az Ein Aujáról ismert. A vizet csatornákon keresztül vezetik el a sivatag környező mezőgazdasági területeinek öntözésére. A környék népszerű a túrázók körében, mivel természetes medencéket és vízesést kínál az egyébként kopár környezetben.",
+      ro: "Wadi Auja este o vale pitorească la nord de Ierihon, cunoscută pentru izvorul său bogat, Ein Auja. Apa este dirijată prin canale pentru a iriga terenurile agricole din jur în mijlocul deșertului. Zona este o destinație populară pentru drumeții, oferind bazine naturale și o cascadă într-un mediu altfel arid.",
+      en: "Wadi Auja is a picturesque valley north of Jericho, known for its abundant spring, Ein Auja. The water is channeled to irrigate surrounding agricultural lands in the desert. The area is a popular destination for hikers, offering natural pools and a waterfall within an otherwise barren landscape.",
+    },
+    factsAdvanced: {
+      de: ["Die Quelle Ein Auja ist die größte im Jordantal", "Das Wadi erstreckt sich über 12 Kilometer Länge", "Die Wasserfälle sind nach starken Regenfällen besonders aktiv", "Das Bewässerungssystem stammt teils aus antiker Zeit", "Es liegt etwa 200 Meter unter dem Meeresspiegel", "Die Gegend ist bekannt für den Anbau von Bananen"],
+      hu: ["Az Ein Auja forrás a legnagyobb a Jordán-völgyben", "A vádi hossza körülbelül 12 kilométer", "A vízesések heves esőzések után a leglátványosabbak", "Az öntözőrendszer részei az ókorból származnak", "A terület 200 méterrel a tengerszint alatt fekszik", "A környék híres a banántermesztésről"],
+      ro: ["Izvorul Ein Auja este cel mai mare din Valea Iordanului", "Wadi se întinde pe o lungime de 12 kilometri", "Cascadele sunt active mai ales după ploi abundente", "Sistemul de irigații datează parțial din antichitate", "Se află la aproximativ 200 de metri sub nivelul mării", "Zona este cunoscută pentru culturile de banane"],
+      en: ["Ein Auja spring is the largest in the Jordan Valley", "The wadi stretches for about 12 kilometers", "Waterfalls are most active after heavy winter rains", "The irrigation system partly dates back to ancient times", "It is located about 200 meters below sea level", "The area is well-known for banana cultivation"],
+    },
   },
   {
     id: "palestine-kidron-valley-nature-v2",
@@ -133,6 +205,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Separates the Old City from Mount of Olives", "Passes through steep desert canyons", "Features ancient tombs on the valley floor", "Carries runoff water to the Dead Sea"],
     },
     imageHint: "View of the Kidron Valley between Jerusalem hills",
+    descriptionAdvanced: {
+      de: "Das Kidrontal trennt den Tempelberg vom Ölberg in Jerusalem und ist reich an biblischer Geschichte. Es beherbergt monumentale antike Gräber, darunter das Grab Absaloms und das Grab des Zacharias aus dem 1. Jahrhundert v. Chr. Das Tal verläuft weiter nach Osten durch die Judäische Wüste bis zum Toten Meer.",
+      hu: "A Kidron-völgy választja el a Templom-hegyet az Olajfák hegyétől Jeruzsálemben, és gazdag bibliai történelemben. Monumentális ókori síroknak ad otthont, mint például Absolon sírja és Zakariás sírja a Kr. e. 1. századból. A völgy keleti irányban folytatódik a Júdeai-sivatagon keresztül egészen a Holt-tengerig.",
+      ro: "Valea Chedronului separă Muntele Templului de Muntele Măslinilor din Ierusalim și este bogată în istorie biblică. Găzduiește morminte antice monumentale, inclusiv Mormântul lui Absalom și Mormântul lui Zaharia din secolul I î.Hr. Valea continuă spre est prin Deșertul Iudeii până la Marea Moartă.",
+      en: "The Kidron Valley separates the Temple Mount from the Mount of Olives in Jerusalem and is steeped in biblical history. It features monumental ancient tombs, including the Tomb of Absalom and the Tomb of Zechariah from the 1st century BC. The valley continues eastward through the Judean Desert until it reaches the Dead Sea.",
+    },
+    factsAdvanced: {
+      de: ["Das Tal ist etwa 32 Kilometer lang", "Das Grab Absaloms ist ca. 20 Meter hoch", "Die Gihon-Quelle speist den oberen Teil des Tals", "Es wird in der Bibel als Tal Josaphat bezeichnet", "Mehrere christliche Kirchen liegen an den Hängen", "Das Tal dient als Abfluss für Jerusalems Regenwasser"],
+      hu: ["A völgy hossza összesen körülbelül 32 kilométer", "Absolon sírja nagyjából 20 méter magas", "A Gihon-forrás táplálja a völgy felső szakaszát", "A Bibliában Jósafát völgyeként is említik", "Számos keresztény templom található a lankáin", "A völgy vezeti el Jeruzsálem esővizét kelet felé"],
+      ro: ["Valea are o lungime totală de circa 32 de kilometri", "Mormântul lui Absalom are o înălțime de 20 de metri", "Izvorul Gihon alimentează partea superioară a văii", "Este menționată în Biblie sub numele de Valea lui Iosafat", "Mai multe biserici creștine sunt situate pe versanți", "Valea servește ca drenaj natural pentru Ierusalim"],
+      en: ["The total length of the valley is about 32 kilometers", "The Tomb of Absalom stands approximately 20 meters high", "The Gihon Spring feeds the upper part of the valley", "It is referred to in the Bible as the Valley of Jehoshaphat", "Several major Christian churches line its slopes", "The valley serves as natural drainage for Jerusalem"],
+    },
   },
   {
     id: "palestine-marj-sanur-nature-v2",
@@ -152,6 +236,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Largest closed basin in the highlands", "Forms a temporary lake in winter", "Highly fertile soil for agriculture", "Significant area for migratory birds"],
     },
     imageHint: "Wide agricultural plain of Marj Sanur surrounded by hills",
+    descriptionAdvanced: {
+      de: "Marj Sanur ist ein abflussloses Becken im nördlichen Westjordanland, das für seine saisonale Seenbildung bekannt ist. In regenreichen Wintern verwandelt sich die landwirtschaftlich genutzte Ebene in einen flachen See, der von Hügeln umgeben ist. Die fruchtbaren Böden machen das Gebiet zu einem wichtigen Zentrum für den Getreide- und Gemüseanbau.",
+      hu: "A Marj Sanur egy lefolyástalan medence Ciszjordánia északi részén, amely az időszakos tóformációjáról ismert. Esős teleken a mezőgazdasági síkság sekély tóvá alakul, amelyet dombok vesznek körül. A termékeny talaj a területet a gabona- és zöldségtermesztés fontos központjává teszi.",
+      ro: "Marj Sanur este un bazin închis din nordul Cisiordaniei, cunoscut pentru formarea unui lac sezonier. În iernile ploioase, câmpia agricolă se transformă într-un lac puțin adânc, înconjurat de dealuri. Solurile fertile fac din această zonă un centru important pentru cultivarea cerealelor și a legumelor.",
+      en: "Marj Sanur is an endorheic basin in the northern West Bank, known for its seasonal lake formation. During rainy winters, the agricultural plain transforms into a shallow lake surrounded by hills. The fertile soils make the area a significant center for the cultivation of grains and vegetables.",
+    },
+    factsAdvanced: {
+      de: ["Die Ebene umfasst eine Fläche von ca. 20 Quadratkilometern", "Der saisonale See kann bis zu 2 Meter tief werden", "Es gibt keinen natürlichen oberirdischen Abfluss", "Das Becken liegt auf einer Höhe von 350 Metern", "Sanur ist das Dorf, das den Namen für die Marj gibt", "Das Wasser versickert im Frühjahr langsam im Boden"],
+      hu: ["A síkság területe körülbelül 20 négyzetkilométer", "Az időszakos tó mélysége elérheti a 2 métert", "A medencének nincs természetes felszíni lefolyása", "A terület 350 méteres tengerszint feletti magasságban van", "Sanur faluja adta a nevet a síkságnak", "A víz tavasszal lassan szivárog be a talajba"],
+      ro: ["Câmpia acoperă o suprafață de circa 20 km pătrați", "Lacul sezonier poate atinge o adâncime de 2 metri", "Nu există nicio scurgere naturală la suprafață", "Bazinul este situat la o altitudine de 350 de metri", "Satul Sanur dă numele acestei câmpii fertile", "Apa se infiltrează lent în sol pe parcursul primăverii"],
+      en: ["The plain covers an area of about 20 square kilometers", "The seasonal lake can reach a depth of 2 meters", "There is no natural surface outlet for the water", "The basin is situated at an elevation of 350 meters", "The village of Sanur gives the plain its name", "Water slowly infiltrates the ground during the spring"],
+    },
   },
   {
     id: "palestine-wadi-el-fara-nature-v2",
@@ -171,6 +267,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Home to several permanent springs", "Key agricultural area for the region", "Natural migration corridor for wildlife", "Flows eastward into the Jordan River"],
     },
     imageHint: "Lush agricultural valley of Wadi el-Far'a with springs",
+    descriptionAdvanced: {
+      de: "Wadi el-Far'a ist eines der wasserreichsten Täler im Westjordanland und erstreckt sich von Nablus bis zum Jordantal. Es wird durch zahlreiche Quellen gespeist, was eine intensive Landwirtschaft mit Zitrusfrüchten und Gemüse ermöglicht. Das Tal hat eine lange Geschichte als wichtige Route zwischen dem Hochland und dem Jordantal.",
+      hu: "A Vádi-el-Far'a Ciszjordánia egyik legvizesebb völgye, amely Nablusztól a Jordán-völgyig húzódik. Számos forrás táplálja, ami lehetővé teszi az intenzív mezőgazdaságot, különösen a citrusfélék és zöldségek termesztését. A völgy régóta fontos útvonal a felföld és a Jordán-árok között.",
+      ro: "Wadi el-Far'a este una dintre cele mai bogate văi în resurse de apă din Cisiordania, întinzându-se de la Nablus până la Valea Iordanului. Este alimentată de numeroase izvoare, permițând o agricultură intensivă de citrice și legume. Valea are o istorie lungă ca rută importantă între munți și valea râului Iordan.",
+      en: "Wadi el-Far'a is one of the water-richest valleys in the West Bank, stretching from Nablus to the Jordan Valley. It is fed by numerous springs, enabling intensive agriculture of citrus fruits and vegetables. The valley has a long history as a key route between the central highlands and the Jordan Rift Valley.",
+    },
+    factsAdvanced: {
+      de: ["Es ist der größte Nebenfluss des unteren Jordans", "Das Wadi erstreckt sich über ca. 25 Kilometer", "Über 10 Quellen entspringen innerhalb des Tals", "Hier wurden Siedlungsspuren aus der Jungsteinzeit gefunden", "Die Region produziert 30% des Gemüses im Westjordanland", "Antike Mühlenruinen säumen den Wasserlauf"],
+      hu: ["Az alsó-Jordán legnagyobb mellékfolyója", "A vádi hossza körülbelül 25 kilométer", "Több mint 10 forrás fakad a völgy területén", "Újkőkorszaki települések nyomait találták itt", "A régió termeli Ciszjordánia zöldségének 30%-át", "Ókori malmok romjai sorakoznak a vízfolyás mentén"],
+      ro: ["Este cel mai mare afluent al Iordanului inferior", "Wadi se întinde pe o distanță de circa 25 de kilometri", "Peste 10 izvoare apar în interiorul văii", "S-au găsit urme de așezări din perioada neolitică", "Regiunea produce 30% din legumele din Cisiordania", "Ruine de mori antice se află de-a lungul cursului"],
+      en: ["It is the largest tributary of the lower Jordan River", "The wadi stretches for approximately 25 kilometers", "Over 10 springs emerge within the valley's limits", "Neolithic settlement remains have been discovered here", "The region produces 30% of the West Bank's vegetables", "Ancient mill ruins are found along the watercourse"],
+    },
   },
   {
     id: "palestine-wadi-en-nar-nature-v2",
@@ -190,6 +298,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Continuation of Jerusalem's Kidron Valley", "Deep rocky gorge in the desert", "Leads toward the Mar Saba Monastery", "Characterized by extreme erosion"],
     },
     imageHint: "Dramatic rocky gorge of Wadi en-Nar in the desert",
+    descriptionAdvanced: {
+      de: "Wadi en-Nar, auch als Tal des Feuers bekannt, ist die Fortsetzung des Kidrontals, das durch die Judäische Wüste führt. Es ist berühmt für seine dramatischen, steilen Felswände und die kurvenreiche Straße, die Bethlehem mit dem Norden verbindet. Das Wadi ist weitgehend trocken, führt aber nach heftigen Winterregenfällen Sturzfluten.",
+      hu: "A Vádi-en-Nar, más néven a Tűz völgye, a Kidron-völgy folytatása, amely a Júdeai-sivatagon keresztül vezet. Híres drámai, meredek sziklafalairól és a kanyargós útról, amely Betlehemet köti össze az északi területekkel. A vádi nagyrészt száraz, de a heves téli esőzések után hirtelen áradások vonulnak le benne.",
+      ro: "Wadi en-Nar, cunoscut și sub numele de Valea Focului, este continuarea Văii Chedronului prin Deșertul Iudeii. Este faimos pentru pereții săi stâncoși abrupți și drumul sinuos care leagă Betleemul de nord. Wadi este în mare parte arid, dar prezintă viituri puternice după ploile de iarnă.",
+      en: "Wadi en-Nar, also known as the Valley of Fire, is the continuation of the Kidron Valley passing through the Judean Desert. It is famous for its dramatic, steep cliff walls and the winding road that connects Bethlehem to the north. The wadi is largely arid but experiences flash floods after heavy winter rains.",
+    },
+    factsAdvanced: {
+      de: ["Die Straße durch das Wadi hat extrem steile Kurven", "Das Tal mündet schließlich in das Tote Meer", "Der Name kommt von der extremen Hitze im Sommer", "Es ist ein strategischer Engpass in der Region", "Das Kloster Mar Saba liegt oberhalb des Tals", "Geologisch besteht das Gebiet aus massivem Kalkstein"],
+      hu: ["A vádi útján rendkívül meredek hajtűkanyarok vannak", "A völgy végül a Holt-tengerbe torkollik", "A név a nyári extrém hőségre utal", "A terület stratégiai jelentőségű útvonal", "A Mar Saba kolostor a völgy feletti sziklákon ül", "Földtanilag a területet tömör mészkő alkotja"],
+      ro: ["Drumul prin Wadi are curbe extrem de abrupte", "Valea se varsă în cele din urmă în Marea Moartă", "Numele provine de la căldura extremă din timpul verii", "Este un punct strategic de trecere în regiune", "Mănăstirea Mar Saba este situată deasupra văii", "Geologic, zona este formată din calcar masiv"],
+      en: ["The road through the wadi has extremely steep curves", "The valley eventually drains into the Dead Sea", "The name refers to the extreme heat during summer", "It is a strategic bottleneck passage in the region", "Mar Saba Monastery is perched above this valley", "Geologically, the area consists of massive limestone"],
+    },
   },
   {
     id: "palestine-hinnom-valley-nature-v2",
@@ -209,6 +329,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Connects with the Kidron Valley", "Known for its ancient rock-cut tombs", "Steep rocky cliffs line the edges", "Green corridor within the urban area"],
     },
     imageHint: "Rocky green valley of Hinnom near Jerusalem walls",
+    descriptionAdvanced: {
+      de: "Das Hinnomtal, auch bekannt als Gehenna, liegt südlich und westlich der Altstadt von Jerusalem. Historisch ist es mit antiken Ritualen und Begräbnisstätten verbunden, heute ist es ein grüner Parkgürtel. Das Tal ist von steilen Hängen und Felsen geprägt, in denen sich zahlreiche Grabhöhlen aus verschiedenen Epochen befinden.",
+      hu: "A Hinnom-völgy, más néven Gyehenna, Jeruzsálem óvárosától délre és nyugatra fekszik. Történelmileg ősi rituálékhoz és temetkezési helyekhez kötődik, ma azonban egy zöld parkövezet. A völgyet meredek lejtők és sziklák jellemzik, amelyekben számos, különböző korszakokból származó sírbarlang található.",
+      ro: "Valea Hinom, cunoscută și sub numele de Gehena, este situată la sud și vest de Orașul Vechi al Ierusalimului. Istoric, este asociată cu ritualuri antice și locuri de înmormântare, astăzi fiind un parc verde. Valea este marcată de pante abrupte și stânci care adăpostesc numeroase peșteri funerare din diverse epoci.",
+      en: "The Hinnom Valley, also known as Gehenna, is located south and west of Jerusalem's Old City. Historically associated with ancient rituals and burial sites, it is now a green park belt. The valley is characterized by steep slopes and cliffs containing numerous burial caves from various historical periods.",
+    },
+    factsAdvanced: {
+      de: ["Das Tal bildet die Grenze zwischen Ost- und Westjerusalem", "Hier wurden Gräber aus dem 7. Jahrhundert v. Chr. gefunden", "Der Begriff Gehenna leitet sich von Geh Hinnom ab", "Heute ist es ein beliebtes Kletter- und Wandergebiet", "Das Kloster Akeldama befindet sich an seinem Rand", "In der Antike wurden hier Eisenerze verarbeitet"],
+      hu: ["A völgy határt képez Kelet- és Nyugat-Jeruzsálem között", "Kr. e. 7. századi sírokat találtak a területen", "A Gyehenna kifejezés a Geh Hinnom névből ered", "Ma népszerű sziklamászó- és túrahely", "Az Akeldama-kolostor a völgy peremén található", "Az ókorban vasércet dolgoztak fel a területen"],
+      ro: ["Valea formează granița între Ierusalimul de Est și cel de Vest", "Aici s-au găsit morminte din secolul al VII-lea î.Hr.", "Termenul Gehena derivă din numele ebraic Geh Hinnom", "Astăzi este o zonă populară pentru alpinism și drumeții", "Mănăstirea Akeldama este situată pe marginea văii", "În antichitate, aici se prelucrau minereuri de fier"],
+      en: ["The valley marks the border between East and West Jerusalem", "Tombs from the 7th century BC were discovered here", "The term Gehenna is derived from the name Geh Hinnom", "It is now a popular spot for rock climbing and hiking", "The Akeldama Monastery is located on its southern edge", "Iron ores were processed here in ancient times"],
+    },
   },
   {
     id: "palestine-battir-terraces-nature-v2",
@@ -228,6 +360,18 @@ export const palestineNatureV2: POI[] = [
       en: ["UNESCO World Heritage site since 2014", "Ancient system of stone-walled terraces", "Uses natural springs for irrigation", "Unique cultural landscape near Bethlehem"],
     },
     imageHint: "Green stone-walled agricultural terraces in Battir",
+    descriptionAdvanced: {
+      de: "Die Battir-Terrassen bei Bethlehem sind ein UNESCO-Weltkulturerbe, das für sein antikes Bewässerungssystem bekannt ist. Die stufenförmigen Steinterrassen werden seit über 2000 Jahren für den Anbau von Oliven und Gemüse genutzt. Das Wasser wird durch ein komplexes System von Kanälen und Becken geleitet, das auf die römische Zeit zurückgeht.",
+      hu: "A Betlehem melletti Battir-teraszok az UNESCO Világörökség részét képezik, és ősi öntözőrendszerükről híresek. A lépcsőzetes kőteraszokat több mint 2000 éve használják olajbogyó és zöldség termesztésére. A vizet csatornák és medencék összetett rendszerén keresztül vezetik el, amely a római korig nyúlik vissza.",
+      ro: "Terasele Battir de lângă Betleem sunt incluse în Patrimoniul Mondial UNESCO, fiind celebre pentru sistemul lor antic de irigații. Terasele de piatră în trepte sunt folosite de peste 2000 de ani pentru cultivarea măslinelor și legumelor. Apa este dirijată printr-un sistem complex de canale și bazine care datează din epoca romană.",
+      en: "The Battir Terraces near Bethlehem are a UNESCO World Heritage site, famous for their ancient irrigation system. These stepped stone terraces have been used for over 2,000 years to cultivate olives and vegetables. Water is distributed through a complex system of channels and pools dating back to the Roman period.",
+    },
+    factsAdvanced: {
+      de: ["Seit 2014 gehört Battir zum UNESCO-Welterbe", "Das Dorf nutzt ein einzigartiges Wasserverteilungssystem", "Die Terrassen erstrecken sich über mehrere Täler", "Hier befinden sich Ruinen einer antiken Festung (Betar)", "Der Wanderweg folgt einer alten Eisenbahnstrecke", "Es ist eines der besterhaltenen Beispiele antiker Agrartechnik"],
+      hu: ["Battir 2014 óta az UNESCO Világörökség része", "A falu egyedülálló vízelosztási rendszert használ", "A teraszok több völgyön keresztül húzódnak", "Itt találhatók Betar ókori erődjének romjai", "A túraútvonal egy régi vasútvonal mentén halad", "Az ókori mezőgazdasági technika egyik legjobb példája"],
+      ro: ["Battir este în Patrimoniul UNESCO din anul 2014", "Satul folosește un sistem unic de distribuție a apei", "Terasele se întind pe parcursul mai multor văi", "Aici se află ruinele cetății antice Betar", "Traseul de drumeție urmează o veche linie ferată", "Este unul dintre cele mai bine păstrate sisteme agrare antice"],
+      en: ["Battir was inscribed as a UNESCO World Heritage site in 2014", "The village uses a unique rotational water distribution system", "The stone terraces span across several valleys", "Ruins of the ancient fortress of Betar are located here", "The hiking trail follows an old railway line", "It is one of the best-preserved examples of ancient farming"],
+    },
   },
   {
     id: "palestine-wadi-al-makhrour-nature-v2",
@@ -247,6 +391,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Important bird conservation area", "Rich in ancient olive and apricot groves", "Last large natural valley near Bethlehem", "Crucial for preserving local flora"],
     },
     imageHint: "Lush green valley with ancient olive trees near Bethlehem",
+    descriptionAdvanced: {
+      de: "Wadi al-Makhrour ist ein grünes Tal westlich von Bethlehem, das für seine reiche Artenvielfalt und traditionelle Landwirtschaft bekannt ist. Es ist eines der wenigen verbliebenen Gebiete mit natürlicher mediterraner Vegetation und alten Olivenhainen. Die Gegend beherbergt historische Wachtürme aus Stein, die zum Schutz der Ernten errichtet wurden.",
+      hu: "A Vádi-al-Makhrour egy zöldellő völgy Betlehemtől nyugatra, amely gazdag biológiai sokféleségéről és hagyományos mezőgazdaságáról ismert. Egyike azon kevés megmaradt területeknek, ahol természetes mediterrán növényzet és ősi olajfaligetek találhatók. A környéken történelmi kő őrtornyok láthatók, amelyeket a termés védelmére építettek.",
+      ro: "Wadi al-Makhrour este o vale verde situată la vest de Betleem, cunoscută pentru biodiversitatea sa și agricultura tradițională. Este una dintre puținele zone rămase cu vegetație mediteraneană naturală și livezi de măslini vechi. Zona găzduiește turnuri istorice de pază din piatră, construite pentru protejarea culturilor.",
+      en: "Wadi al-Makhrour is a lush valley west of Bethlehem, known for its rich biodiversity and traditional agriculture. It is one of the few remaining areas with natural Mediterranean vegetation and ancient olive groves. The area features historical stone watchtowers, built to protect the harvests over generations.",
+    },
+    factsAdvanced: {
+      de: ["Das Wadi erstreckt sich von Beit Jala bis Battir", "Es ist Teil des UNESCO-Puffergebiets von Battir", "Hier wachsen seltene Orchideen und Wildblumen", "Die Steintürme werden lokal 'Qasr' genannt", "Das Tal ist ein wichtiges Wandergebiet für Touristen", "Vogelbeobachter finden hier viele lokale Arten"],
+      hu: ["A vádi Beit Jala városától Battirig húzódik", "A terület a battiri UNESCO pufferzóna része", "Ritka orchideák és vadvirágok nőnek itt", "A kőtornyokat helyi nyelven 'Qasr'-nak nevezik", "A völgy fontos túraútvonal a látogatók számára", "A madármegfigyelők sok helyi fajt találnak itt"],
+      ro: ["Wadi se întinde de la Beit Jala până la Battir", "Face parte din zona tampon UNESCO pentru Battir", "Aici cresc orhidee rare și flori sălbatice", "Turnurile de piatră sunt numite local 'Qasr'", "Valea este o zonă importantă de drumeții pentru turiști", "Observatorii de păsări găsesc aici multe specii locale"],
+      en: ["The wadi stretches from Beit Jala to Battir", "It is part of the UNESCO buffer zone for Battir", "Rare orchids and wildflowers grow throughout the valley", "The traditional stone towers are locally called 'Qasr'", "The valley is a key destination for eco-tourism", "Birdwatchers can find many local avian species here"],
+    },
   },
   {
     id: "palestine-al-quff-forest-nature-v2",
@@ -266,6 +422,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Major forest reserve near Hebron", "Consists of pine and oak trees", "Key recreational area for locals", "Protects against soil erosion"],
     },
     imageHint: "Pine and oak forest in the hilly region of Hebron",
+    descriptionAdvanced: {
+      de: "Der Al-Quff-Wald liegt nördlich von Hebron und ist eines der größten Waldgebiete im Westjordanland. Er wurde in den 1920er Jahren angelegt und besteht hauptsächlich aus Kiefern und Zypressen, ergänzt durch einheimische Eichen. Der Wald dient als wichtiges Erholungsgebiet und bietet Schutz für verschiedene Wildtierarten in der Region.",
+      hu: "Az Al-Quff erdő Hebrontól északra található, és Ciszjordánia egyik legnagyobb erdős területe. Az 1920-as években kezdték telepíteni, főként fenyőkből és ciprusokból áll, amelyeket őshonos tölgyek egészítenek ki. Az erdő fontos rekreációs területként szolgál, és menedéket nyújt a régió különböző vadon élő állatfajainak.",
+      ro: "Pădurea Al-Quff este situată la nord de Hebron și reprezintă una dintre cele mai mari zone împădurite din Cisiordania. A fost plantată în anii 1920 și constă în principal din pini și chiparoși, completați de stejari nativi. Pădurea servește ca zonă importantă de recreere și oferă adăpost pentru diverse specii de animale sălbatice.",
+      en: "Al-Quff Forest is located north of Hebron and is one of the largest forested areas in the West Bank. Originally planted in the 1920s, it consists primarily of pine and cypress trees, supplemented by native oak. The forest serves as a vital recreational area and provides habitat for various wildlife species in the region.",
+    },
+    factsAdvanced: {
+      de: ["Die Gesamtfläche beträgt etwa 400 Hektar", "Die ersten Anpflanzungen begannen im Jahr 1927", "Es liegt auf einer Höhe von 800 bis 900 Metern", "Der Wald beherbergt Füchse und verschiedene Reptilien", "In der Nähe befinden sich antike Grabhöhlen", "Das Gebiet wird forstwirtschaftlich streng überwacht"],
+      hu: ["A teljes terület körülbelül 400 hektár", "Az első ültetések 1927-ben kezdődek el", "Tengerszint feletti magassága 800 és 900 méter között van", "Az erdőben rókák és különféle hüllők élnek", "A közelben ókori sírbarlangok találhatók", "A területet szigorú erdészeti felügyelet alatt tartják"],
+      ro: ["Suprafața totală este de aproximativ 400 de hectare", "Primele plantări au început în anul 1927", "Se află la o altitudine între 800 și 900 de metri", "Pădurea adăpostește vulpi și diverse reptile", "În apropiere se află peșteri funerare antice", "Zona este monitorizată strict din punct de vedere forestier"],
+      en: ["The total area covers approximately 400 hectares", "Afforestation efforts began as early as 1927", "The forest sits at an altitude of 800 to 900 meters", "It provides a habitat for foxes and various reptiles", "Ancient burial caves are located in the vicinity", "The area is under strict forestry management"],
+    },
   },
   {
     id: "palestine-gaza-coastline-nature-v2",
@@ -285,6 +453,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Length of approximately 40 kilometers", "Part of the Levantine Basin", "Characterized by fine sandy shores", "Most important natural resource of Gaza"],
     },
     imageHint: "Sandy Mediterranean beach in Gaza at sunset",
+    descriptionAdvanced: {
+      de: "Die Küste von Gaza erstreckt sich entlang des Mittelmeers und ist geprägt von Sandstränden und Klippen aus Kurkar-Gestein. Sie ist das wirtschaftliche und soziale Herzstück des Gazastreifens, wo Fischerei und Strandleben eine zentrale Rolle spielen. Trotz ökologischer Herausforderungen bleibt die Küste eine wichtige natürliche Ressource für die lokale Bevölkerung.",
+      hu: "Gáza tengerpartja a Földközi-tenger mentén húzódik, homokos strandok és kurkar-kőzetből álló sziklák jellemzik. Ez a Gázai övezet gazdasági és társadalmi központja, ahol a halászat és a tengerparti élet központi szerepet játszik. Az ökológiai kihívások ellenére a partvonal a helyi lakosság fontos természeti erőforrása marad.",
+      ro: "Linia de coastă a Gazei se întinde de-a lungul Mării Mediterane, fiind marcată de plaje cu nisip și faleze din rocă kurkar. Este centrul economic și social al Fâșiei Gaza, unde pescuitul și viața pe plajă joacă un rol central. În ciuda provocărilor ecologice, coasta rămâne o resursă naturală vitală pentru populația locală.",
+      en: "The Gaza coastline stretches along the Mediterranean Sea, characterized by sandy beaches and Kurkar sandstone cliffs. It serves as the economic and social heart of the Gaza Strip, where fishing and beach activities play a central role. Despite environmental challenges, the coast remains a vital natural resource for the local population.",
+    },
+    factsAdvanced: {
+      de: ["Die Küstenlinie ist etwa 40 Kilometer lang", "Der Hafen von Gaza hat eine antike Geschichte", "Fischerei ernährt tausende Familien in der Region", "Die Strände bestehen aus feinem mediterranem Sand", "Wichtige Meeresschildkröten brüten an einsamen Stellen", "Die Kurkar-Klippen sind bis zu 20 Meter hoch"],
+      hu: ["A tengerparti szakasz hossza körülbelül 40 kilométer", "Gáza kikötője ókori történelemmel rendelkezik", "A halászat családok ezreit tartja el a régióban", "A strandokat finom mediterrán homok alkotja", "Ritka tengeri teknősök költenek egyes szakaszokon", "A kurkar-sziklák magassága elérheti a 20 métert"],
+      ro: ["Linia de coastă are o lungime de circa 40 de kilometri", "Portul Gaza are o istorie care datează din antichitate", "Pescuitul susține mii de familii din regiune", "Plajele sunt formate din nisip mediteranean fin", "Țestoase marine depun ouă în zonele mai izolate", "Falezele de kurkar au o înălțime de până la 20 de metri"],
+      en: ["The coastline spans approximately 40 kilometers", "The Port of Gaza has a history dating back to antiquity", "Fishing supports thousands of families in the region", "The beaches are composed of fine Mediterranean sand", "Sea turtles are known to nest on more secluded stretches", "The Kurkar cliffs reach heights of up to 20 meters"],
+    },
   },
   {
     id: "palestine-sartaba-peak-nature-v2",
@@ -304,6 +484,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Distinctive conical shape", "Summit elevation of 377 meters", "Overlooks the entire Jordan Valley", "Site of an ancient signal station"],
     },
     imageHint: "Conical peak of Sartaba mountain in the desert",
+    descriptionAdvanced: {
+      de: "Der Sartaba ist ein markanter kegelförmiger Berg im Jordantal, der in der Antike als Standort der hasmonäischen Festung Alexandrium diente. Er erhebt sich steil über die Ebene und bietet eine weite Sicht über den Jordangraben. In der jüdischen Tradition war er einer der Gipfel, auf denen Leuchtfeuer zur Verkündigung des Neumonds entzündet wurden.",
+      hu: "A Sartaba egy jellegzetes, kúp alakú hegycsúcs a Jordán-völgyben, amely az ókorban a hasmoneus Alexandrium erőd helyszíneként szolgált. A hegy meredeken emelkedik a környező síkság fölé, stratégiai kilátást nyújtva a völgyre. A zsidó hagyomány szerint ez volt az egyik láncszem abban a jelzőtűz-rendszerben, amely az újhold hírét továbbította.",
+      ro: "Sartaba este un vârf muntos proeminent în formă de con situat în Valea Iordanului, care a găzduit în antichitate fortăreața hasmoneană Alexandrium. Se ridică abrupt deasupra câmpiei, oferind o vedere strategică asupra depresiunii Iordanului. În tradiția iudaică, acesta era unul dintre vârfurile pe care se aprindeau focuri de semnalizare pentru a anunța luna nouă.",
+      en: "Sartaba is a prominent cone-shaped peak in the Jordan Valley, which served as the site of the Hasmonean fortress Alexandrium in ancient times. It rises steeply above the surrounding plain, offering strategic views over the Jordan Rift Valley. In Jewish tradition, it was one of the peaks where beacons were lit to announce the arrival of the new moon.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 377 Metern über dem Meeresspiegel", "Bau der Festung Alexandrium um 100 v. Chr.", "Teil der Signalstationen zwischen Jerusalem und Babylon", "Strategische Lage am Rande des Jordantals", "Archäologische Überreste von Zisternen und Mauern", "Historische Erwähnung in den Werken von Flavius Josephus"],
+      hu: ["Tengerszint feletti magassága 377 méter", "Az Alexandrium erődöt i. e. 100 körül építették", "A Jeruzsálem és Babilon közötti jelzőrendszer része", "Stratégiai fekvés a Jordán-völgy peremén", "Ciszternák és falak régészeti maradványai láthatók", "Flavius Josephus írásaiban is szerepel a helyszín"],
+      ro: ["Înălțime de 377 de metri deasupra nivelului mării", "Construcția cetății Alexandrium în jurul anului 100 î.Hr.", "Parte a sistemului de semnalizare între Ierusalim și Babilon", "Poziție strategică la marginea Văii Iordanului", "Rămășițe arheologice de cisterne și ziduri", "Menționat istoric în lucrările lui Flavius Josephus"],
+      en: ["Altitude of 377 meters above sea level", "Construction of Alexandrium fortress around 100 BC", "Part of the beacon system between Jerusalem and Babylon", "Strategic location on the edge of the Jordan Valley", "Archaeological remains of cisterns and walls", "Historically mentioned in the works of Flavius Josephus"],
+    },
   },
   {
     id: "palestine-mount-kabir-nature-v2",
@@ -323,6 +515,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Elevation of 792 meters", "Views of the Jordan Valley and Jordan", "Popular hiking spot near Nablus", "Features rocky limestone trails"],
     },
     imageHint: "Rocky ridge of Mount Kabir overlooking the valley",
+    descriptionAdvanced: {
+      de: "Der Mount Kabir ist ein markanter Gipfel im Gebirge von Samaria, der nordöstlich von Nablus liegt. Er bietet einen beeindruckenden Panoramablick auf das Umland und ist bekannt für seine vielfältige Flora und Fauna. Die Region ist durch mediterrane Vegetation und schroffe Kalksteinformationen geprägt, die typisch für das zentrale Bergland sind.",
+      hu: "A Kabir-hegy Szamária hegyvidékének egyik kiemelkedő csúcsa, amely Náblusztól északkeletre található. A hegyről lenyűgöző panoráma nyílik a környező tájra, és gazdag flórájáról és faunájáról ismert. A régiót a mediterrán növényzet és a központi hegyvidékre jellemző meredek mészkőformációk jellemzik.",
+      ro: "Muntele Kabir este un vârf proeminent în munții Samariei, situat la nord-est de Nablus. Acesta oferă o vedere panoramică impresionantă asupra zonei înconjurătoare și este cunoscut pentru flora și fauna sa diversă. Regiunea este caracterizată de vegetație mediteraneană și formațiuni calcaroase abrupte, tipice pentru munții centrali.",
+      en: "Mount Kabir is a prominent peak in the Samarian mountains, located northeast of Nablus. It offers an impressive panoramic view of the surrounding area and is known for its diverse flora and fauna. The region is characterized by Mediterranean vegetation and rugged limestone formations typical of the central highlands.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe von 792 Metern", "Blick auf das Jordantal und die Berge von Gilead", "Vorkommen seltener Iris-Arten in der Region", "Gehört zur Kabir-Bergkette in Nordsamaria", "Beliebtes Ziel für Wanderungen und Naturbeobachtungen", "Niederschlagsmenge von etwa 600 mm pro Jahr"],
+      hu: ["Maximális magassága 792 méter", "Kilátás a Jordán-völgyre és a Gileád-hegységre", "Ritka nősziromfajok előfordulása a területen", "Az észak-szamáriai Kabir-hegység része", "Kedvelt célpont túrázáshoz és természetjáráshoz", "Évi átlagos csapadékmennyiség kb. 600 mm"],
+      ro: ["Altitudine maximă de 792 de metri", "Vedere asupra Văii Iordanului și munților Galaadului", "Prezența unor specii rare de iris în regiune", "Face parte din lanțul muntos Kabir din Samaria de Nord", "Destinație populară pentru drumeții și observarea naturii", "Precipitații anuale de aproximativ 600 mm"],
+      en: ["Maximum altitude of 792 meters", "Views of the Jordan Valley and the mountains of Gilead", "Presence of rare iris species in the area", "Part of the Kabir mountain range in northern Samaria", "Popular destination for hiking and nature observation", "Average annual rainfall of about 600 mm"],
+    },
   },
   {
     id: "palestine-wadi-zarqa-al-ulwi-nature-v2",
@@ -342,6 +546,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Features permanent flowing springs", "Vital for local water supply", "Rich in willow trees and aquatic plants", "Important nature hiking trail"],
     },
     imageHint: "Small river stream surrounded by trees in a valley",
+    descriptionAdvanced: {
+      de: "Das Wadi Zarqa al-Ulwi ist ein bedeutendes ökologisches Gebiet im zentralen Westjordanland, das für seine Wasserressourcen und biologische Vielfalt bekannt ist. Das Tal beherbergt zahlreiche Quellen, die eine ganzjährige Vegetation und landwirtschaftliche Nutzung ermöglichen. Es dient als wichtiger Korridor für wandernde Tierarten und schützt seltene lokale Pflanzen.",
+      hu: "A Wadi Zarqa al-Ulwi Ciszjordánia középső részének jelentős ökológiai területe, amely vízkészleteiről és biológiai sokféleségéről ismert. A völgy számos forrásnak ad otthont, amelyek lehetővé teszik az egész éves növényzetet és a mezőgazdasági művelést. Fontos folyosóként szolgál a vándorló állatfajok számára és védi a ritka helyi növényeket.",
+      ro: "Wadi Zarqa al-Ulwi este o zonă ecologică importantă în centrul Cisiordaniei, cunoscută pentru resursele sale de apă și biodiversitate. Valea găzduiește numeroase izvoare care permit vegetația pe tot parcursul anului și utilizarea agricolă. Servește ca un coridor important pentru speciile migratoare și protejează plante locale rare.",
+      en: "Wadi Zarqa al-Ulwi is a significant ecological area in the central West Bank, known for its water resources and biodiversity. The valley hosts numerous springs that support year-round vegetation and agricultural use. It serves as an important corridor for migratory species and protects rare local flora.",
+    },
+    factsAdvanced: {
+      de: ["Einzugsgebiet von etwa 95 Quadratkilometern", "Verläuft in der Nähe der Stadt Salfit", "Beinhaltet mehrere permanente Süßwasserquellen", "Vorkommen von seltenen Orchideen und Wildblumen", "Wichtiger Lebensraum für Greifvögel und Kleinsäuger", "Historische Nutzung für den Betrieb von Wassermühlen"],
+      hu: ["Vízgyűjtő területe körülbelül 95 négyzetkilométer", "Szalfit városa közelében húzódik", "Több állandó édesvízi forrást tartalmaz", "Ritka orchideák és vadvirágok lelőhelye", "Fontos élőhely ragadozó madarak és kisemlősök számára", "Történelmileg vízimalmok hajtására is használták"],
+      ro: ["Bazin hidrografic de aproximativ 95 km pătrați", "Se întinde în apropierea orașului Salfit", "Include mai multe izvoare permanente de apă dulce", "Prezența orhideelor rare și a florilor sălbatice", "Habitat important pentru păsări de pradă și mamifere mici", "Utilizare istorică pentru funcționarea morilor de apă"],
+      en: ["Drainage basin of approximately 95 square kilometers", "Runs near the city of Salfit", "Includes several permanent freshwater springs", "Presence of rare orchids and wildflowers", "Important habitat for birds of prey and small mammals", "Historical use for operating water mills"],
+    },
   },
   {
     id: "palestine-wadi-shair-nature-v2",
@@ -361,6 +577,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Major transit route between cities", "Highly fertile valley floor", "Primary olive cultivation area", "Characterized by rolling hills"],
     },
     imageHint: "Valley landscape with olive groves between hills",
+    descriptionAdvanced: {
+      de: "Wadi Shair ist ein fruchtbares Tal, das sich von Nablus in Richtung Westen bis zur Küstenebene erstreckt. Es ist berühmt für seine ausgedehnten Olivenhaine und die terrassierte Landwirtschaft, die das Landschaftsbild seit Jahrhunderten prägt. Das Wadi ist nicht nur ein landwirtschaftliches Zentrum, sondern auch ein Ort von großer landschaftlicher Schönheit mit tiefen Schluchten.",
+      hu: "A Wadi Shair egy termékeny völgy, amely Náblusztól nyugati irányba, a tengerparti síkság felé húzódik. Híres kiterjedt olajfaligeteiről és teraszos mezőgazdaságáról, amely évszázadok óta meghatározza a tájképet. A völgy nemcsak mezőgazdasági központ, hanem mély szurdokaival kiemelkedő természeti szépségű terület is.",
+      ro: "Wadi Shair este o vale fertilă care se întinde de la Nablus spre vest până la câmpia de coastă. Este renumită pentru livezile sale întinse de măslini și agricultura terasată care a modelat peisajul de secole. Valea nu este doar un centru agricol, ci și un loc de o mare frumusețe naturală, cu defilee adânci.",
+      en: "Wadi Shair is a fertile valley extending westwards from Nablus towards the coastal plain. It is famous for its extensive olive groves and terraced agriculture that has shaped the landscape for centuries. The wadi is not only an agricultural hub but also a place of great scenic beauty with deep gorges.",
+    },
+    factsAdvanced: {
+      de: ["Länge von etwa 15 Kilometern im Kernbereich", "Hauptanbaugebiet für Oliven im Nordwesten", "Historische Handelsroute zwischen Nablus und Tulkarm", "Geprägt durch kalksteinreiches Gelände", "Saisonale Wasserführung während der Wintermonate", "Beheimatet zahlreiche traditionelle Bauerndörfer"],
+      hu: ["Hossza a központi részen körülbelül 15 kilométer", "Északnyugat fő olívatermelő vidéke", "Történelmi kereskedelmi útvonal Náblusz és Tulkarm között", "Mészkőben gazdag domborzat jellemzi", "Időszakos vízfolyások a téli hónapokban", "Számos hagyományos mezőgazdasági falu otthona"],
+      ro: ["Lungime de aproximativ 15 kilometri în zona centrală", "Principala regiune de producție a măslinelor din nord-vest", "Rută comercială istorică între Nablus și Tulkarm", "Caracterizată de un teren bogat în calcar", "Debit de apă sezonier în lunile de iarnă", "Găzduiește numeroase sate agricole tradiționale"],
+      en: ["Length of approximately 15 kilometers in the core area", "Main olive production area in the northwest", "Historical trade route between Nablus and Tulkarm", "Characterized by limestone-rich terrain", "Seasonal water flow during winter months", "Home to numerous traditional farming villages"],
+    },
   },
   {
     id: "palestine-wadi-natuf-nature-v2",
@@ -380,6 +608,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Namesake of the Natufian culture", "Rich in natural limestone caves", "Home to Mediterranean scrubland", "Significant archaeological site"],
     },
     imageHint: "Rocky valley landscape with limestone caves",
+    descriptionAdvanced: {
+      de: "Das Wadi Natuf ist weltweit bekannt als Namensgeber für die Natufien-Kultur, eine epipaläolithische Jäger- und Sammlergemeinschaft. Die hier befindliche Shuqba-Höhle lieferte bahnbrechende archäologische Erkenntnisse über den Übergang zur Sesshaftigkeit. Neben seiner historischen Bedeutung bietet das Tal eine reiche mediterrane Flora und schroffe Felsformationen.",
+      hu: "A Wadi Natuf világszerte ismert, mint a natúfi kultúra névadója, amely egy epipaleolitikus vadász-gyűjtögető közösség volt. A völgyben található Sukba-barlang áttörést jelentő régészeti leleteket szolgáltatott a letelepedett életmódra való áttérésről. Történelmi jelentősége mellett a völgy gazdag mediterrán flórát és meredek sziklaalakzatokat kínál.",
+      ro: "Wadi Natuf este cunoscut la nivel mondial ca fiind eponimul culturii Natufiene, o comunitate epipaleolitică de vânători-culegători. Peștera Shuqba situată aici a oferit dovezi arheologice revoluționare despre tranziția către sedentarism. Pe lângă importanța istorică, valea oferă o floră mediteraneană bogată și formațiuni stâncoase abrupte.",
+      en: "Wadi Natuf is globally renowned as the namesake for the Natufian culture, an Epipaleolithic hunter-gatherer community. The Shuqba cave located here provided groundbreaking archaeological insights into the transition to sedentary life. Beyond its historical significance, the valley offers a rich Mediterranean flora and rugged rock formations.",
+    },
+    factsAdvanced: {
+      de: ["Fundort der Natufien-Kultur (ca. 12.500–9.500 v. Chr.)", "Entdeckung der Shuqba-Höhle durch Dorothy Garrod 1928", "Liegt im Gouvernement Ramallah und al-Bireh", "Belege für den frühen Getreideanbau gefunden", "Teil eines Biosphärenreservats in der Region", "Naturvorkommen von wilden Pistazien und Johannisbrotbäumen"],
+      hu: ["A natúfi kultúra lelőhelye (kb. i. e. 12 500–9 500)", "A Sukba-barlangot Dorothy Garrod fedezte fel 1928-ban", "Rámalláh és el-Bíra kormányzóság területén található", "Korai gabonatermesztés nyomait tárták fel itt", "A régió egyik bioszféra-rezervátumának része", "Vadsztácia és jánoskenyérfa természetes élőhelye"],
+      ro: ["Situl culturii Natufiene (aprox. 12.500–9.500 î.Hr.)", "Descoperirea peșterii Shuqba de către Dorothy Garrod în 1928", "Situat în guvernoratul Ramallah și al-Bireh", "Dovezi ale cultivării timpurii a cerealelor găsite aici", "Parte a unei rezervații a biosferei din regiune", "Prezența naturală a fisticului sălbatic și a roșcovilor"],
+      en: ["Site of the Natufian culture (c. 12,500–9,500 BC)", "Discovery of Shuqba Cave by Dorothy Garrod in 1928", "Located in the Ramallah and al-Bireh Governorate", "Evidence of early cereal cultivation found", "Part of a biosphere reserve in the region", "Natural occurrence of wild pistachio and carob trees"],
+    },
   },
   {
     id: "palestine-hebron-hills-nature-v2",
@@ -399,6 +639,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Southernmost highlands in the West Bank", "Famous for grape cultivation", "Highest peaks exceed 1000 meters", "Cooler climate than the Jordan Valley"],
     },
     imageHint: "Rolling hills with stone terraces and vineyards near Hebron",
+    descriptionAdvanced: {
+      de: "Die Hebron-Berge bilden den südlichen Teil des zentralen Hochlandes im Westjordanland und sind durch hohe Gipfel und tief eingeschnittene Täler geprägt. Das kühle Klima in den Höhenlagen begünstigt den Weinbau und den Anbau von Oliven und Steinobst. Die Region ist reich an archäologischen Stätten, die die Jahrtausende alte Besiedlungsgeschichte dokumentieren.",
+      hu: "A Hebron-hegység Ciszjordánia központi felföldjének déli részét alkotja, magas csúcsok és mély völgyek jellemzik. A magaslatok hűvösebb éghajlata kedvez a szőlőtermesztésnek, valamint az olajbogyó és a csonthéjas gyümölcsök termesztésének. A régió gazdag régészeti lelőhelyekben, amelyek évezredes betelepülési történetet dokumentálnak.",
+      ro: "Munții Hebron formează partea sudică a podișului central din Cisiordania și sunt caracterizați prin vârfuri înalte și văi adânci. Clima răcoroasă la altitudini mari favorizează viticultura și cultivarea măslinelor și a fructelor sâmburoase. Regiunea este bogată în situri arheologice care documentează o istorie a așezărilor de mii de ani.",
+      en: "The Hebron Hills form the southern part of the central highlands in the West Bank, characterized by high peaks and deeply cut valleys. The cooler climate at higher altitudes favors viticulture and the cultivation of olives and stone fruits. The region is rich in archaeological sites documenting a settlement history spanning millennia.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt bei Halhul mit 1.020 Metern", "Wichtigstes Weinbaugebiet der Region", "Jahresniederschlag liegt zwischen 400 und 600 mm", "Vorkommen von antiken landwirtschaftlichen Terrassen", "Heimat seltener Greifvögel wie dem Schmutzgeier", "Traditionelle Kalksteinarchitektur in den Bergdörfern"],
+      hu: ["Legmagasabb pontja Halhul közelében 1020 méter", "A régió legfontosabb bortermelő vidéke", "Az évi csapadékmennyiség 400 és 600 mm között mozog", "Ókori mezőgazdasági teraszok maradványai láthatók", "Ritka ragadozó madarak, például dögkeselyűk élőhelye", "Hagyományos mészkőépítészet a hegyi falvakban"],
+      ro: ["Cel mai înalt punct lângă Halhul la 1.020 metri", "Cea mai importantă regiune viticolă din zonă", "Precipitații anuale între 400 și 600 mm", "Prezența teraselor agricole antice", "Habitat pentru păsări de pradă rare, cum ar fi vulturul egiptean", "Arhitectură tradițională din calcar în satele de munte"],
+      en: ["Highest point near Halhul at 1,020 meters", "Most important viticulture region in the area", "Annual rainfall ranges between 400 and 600 mm", "Presence of ancient agricultural terraces", "Habitat for rare birds of prey such as the Egyptian vulture", "Traditional limestone architecture in mountain villages"],
+    },
   },
   {
     id: "palestine-ein-sultan-spring-nature-v2",
@@ -418,6 +670,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Primary water source for Jericho", "Constant water flow year-round", "Foundation for oasis agriculture", "Located adjacent to Tell es-Sultan"],
     },
     imageHint: "Clear spring water flowing into a stone basin in Jericho",
+    descriptionAdvanced: {
+      de: "Die Ein-Sultan-Quelle, auch als Elischa-Quelle bekannt, ist die lebenswichtige Wasserquelle, die die Entstehung der Stadt Jericho ermöglichte. Sie sprudelt am Fuße des antiken Tell es-Sultan und versorgt die Oase seit über 10.000 Jahren ununterbrochen mit Frischwasser. Die Quelle ist ein zentrales Element für die lokale Landwirtschaft und die Geschichte der ältesten bewohnten Stadt der Welt.",
+      hu: "Az Ein Szultán-forrás, más néven Elizeus-forrás, az a létfontosságú vízforrás, amely lehetővé tette Jerikó városának kialakulását. Az ősi Tell es-Szultán lábánál tör fel, és több mint 10 000 éve folyamatosan friss vízzel látja el az oázist. A forrás központi szerepet játszik a helyi mezőgazdaságban és a világ legrégebbi lakott városának történelmében.",
+      ro: "Izvorul Ein Sultan, cunoscut și sub numele de Izvorul lui Elisei, este sursa vitală de apă care a permis apariția orașului Ierihon. Acesta țâșnește la poalele anticului Tell es-Sultan și alimentează oaza cu apă proaspătă de peste 10.000 de ani. Izvorul este un element central pentru agricultura locală și istoria celui mai vechi oraș locuit din lume.",
+      en: "Ein Sultan Spring, also known as Elisha's Spring, is the vital water source that enabled the emergence of the city of Jericho. It gushes at the foot of ancient Tell es-Sultan and has continuously supplied the oasis with fresh water for over 10,000 years. The spring is a central element for local agriculture and the history of the oldest inhabited city in the world.",
+    },
+    factsAdvanced: {
+      de: ["Wasserschüttung von etwa 680 Kubikmetern pro Stunde", "Konstante Wassertemperatur von ca. 21 Grad Celsius", "Hauptgrund für die Gründung Jerichos im Neolithikum", "In der Bibel mit dem Propheten Elischa verbunden", "Speist ein komplexes System von Bewässerungskanälen", "Archäologische Funde in der Nähe reichen bis 9.000 v. Chr. zurück"],
+      hu: ["Vízhozama körülbelül 680 köbméter óránként", "Állandó, kb. 21 Celsius-fokos vízhőmérséklet", "A neolitikus Jerikó alapításának fő oka", "A Biblia szerint Elizeus prófétához köthető", "Öntözőcsatornák bonyolult rendszerét táplálja", "A közeli régészeti leletek i. e. 9000-ig nyúlnak vissza"],
+      ro: ["Debit de apă de aproximativ 680 de metri cubi pe oră", "Temperatură constantă a apei de circa 21 grade Celsius", "Motivul principal pentru întemeierea Ierihonului în neolitic", "Asociat în Biblie cu profetul Elisei", "Alimentează un sistem complex de canale de irigații", "Descoperiri arheologice în apropiere datând din 9.000 î.Hr."],
+      en: ["Water discharge of about 680 cubic meters per hour", "Constant water temperature of approx. 21 degrees Celsius", "Main reason for the founding of Jericho in the Neolithic", "Linked in the Bible to the prophet Elisha", "Feeds a complex system of irrigation canals", "Archaeological finds nearby date back to 9,000 BC"],
+    },
   },
   {
     id: "palestine-nablus-valley-nature-v2",
@@ -437,6 +701,18 @@ export const palestineNatureV2: POI[] = [
       en: ["Located between Gerizim and Ebal", "Home to over 20 natural springs", "Highly fertile soil for orchards", "Heart of the central highlands"],
     },
     imageHint: "Valley view of Nablus city surrounded by high mountains",
+    descriptionAdvanced: {
+      de: "Das Tal von Nablus erstreckt sich zwischen den beeindruckenden Bergen Ebal und Gerizim im Herzen des samarischen Hochlandes. Es ist bekannt für seinen Reichtum an natürlichen Quellen, die eine üppige Vegetation und fruchtbare Gärten im Stadtgebiet ermöglichen. Historisch gesehen war das Tal aufgrund seiner strategischen Lage und Wasserverfügbarkeit ein bedeutendes Zentrum des Handels.",
+      hu: "A Náblusz-völgy az Ebal és a Gerizim-hegy között terül el Szamária szívében. Ismert természetes forrásainak bőségéről, amelyek buja növényzetet és termékeny kerteket tesznek lehetővé a város területén. Történelmileg a völgy stratégiai fekvése és vízforrásai miatt a kereskedelem és a kultúra egyik meghatározó központja volt.",
+      ro: "Valea Nablus se întinde între munții Ebal și Garizim, în inima podișului Samariei. Este cunoscută pentru abundența izvoarelor naturale care permit o vegetație luxuriantă și grădini fertile în zona urbană. Din punct de vedere istoric, valea a fost un centru important de comerț datorită locației sale strategice și disponibilității apei.",
+      en: "The Nablus Valley lies between the impressive mountains of Ebal and Gerizim in the heart of the Samarian highlands. It is renowned for its abundance of natural springs, which support lush vegetation and fertile gardens within the urban area. Historically, the valley has been a significant trade center due to its strategic location and water availability.",
+    },
+    factsAdvanced: {
+      de: ["Eingeschlossen von Bergen mit über 880 Metern Höhe", "Beheimatet mehr als 20 permanente Quellen", "Standort der antiken Stadt Sichem", "Zentrum der traditionellen Olivenölseifen-Produktion", "Geologische Formation aus Kalkstein und Kreide", "Durchschnittliche Jahrestemperatur von 18 Grad Celsius"],
+      hu: ["880 méter feletti hegyek közé zárt völgy", "Több mint 20 állandó forrás otthona", "Az ókori Sikem városának helyszíne", "A hagyományos olívaolaj-szappangyártás központja", "Mészkőből és krétából álló geológiai formáció", "Évi középhőmérséklete kb. 18 Celsius-fok"],
+      ro: ["Închisă de munți cu înălțimi de peste 880 de metri", "Găzduiește mai mult de 20 de izvoare permanente", "Locul orașului antic Sihem", "Centru al producției tradiționale de săpun de ulei de măsline", "Formațiune geologică din calcar și cretă", "Temperatură medie anuală de 18 grade Celsius"],
+      en: ["Enclosed by mountains over 880 meters high", "Home to more than 20 permanent springs", "Site of the ancient city of Shechem", "Center of traditional olive oil soap production", "Geological formation of limestone and chalk", "Average annual temperature of 18 degrees Celsius"],
+    },
   },
   {
     id: "palestine-gaza-sand-dunes-nature-v2",
@@ -456,5 +732,17 @@ export const palestineNatureV2: POI[] = [
       en: ["Largest dune system in Gaza", "Important habitat for reptiles", "Composed of fine coastal sand", "Protects inland areas from wind"],
     },
     imageHint: "Golden sand dunes in Gaza near the Mediterranean coast",
+    descriptionAdvanced: {
+      de: "Die Sanddünen von Gaza stellen ein einzigartiges Küstenökosystem dar, das durch feinen, vom Nil herbeigetragenen Sand geformt wurde. Dieses Gebiet beherbergt eine spezialisierte Flora und Fauna, die an die salzhaltige Luft und das trockene Substrat angepasst ist. Trotz der hohen Bevölkerungsdichte in der Region sind diese Dünen ein wichtiger Rückzugsort für bedrohte Tierarten.",
+      hu: "Gáza homokdűnéi egyedülálló tengerparti ökoszisztémát alkotnak, amelyet a Nílus felől érkező finom homok formált. Ez a terület speciális flórának és faunának ad otthont, amely alkalmazkodott a sós levegőhöz és a száraz talajhoz. A régió nagy népsűrűsége ellenére ezek a dűnék fontos menedéket nyújtanak a veszélyeztetett állatfajok számára.",
+      ro: "Dunele de nisip din Gaza reprezintă un ecosistem costier unic, format de nisipul fin adus de Nil. Această zonă găzduiește o floră și o faună specializată, adaptată la aerul salin și la substratul uscat. În ciuda densității mari a populației din regiune, aceste dune sunt un refugiu important pentru speciile amenințate.",
+      en: "The Gaza sand dunes represent a unique coastal ecosystem shaped by fine sand carried from the Nile. This area hosts specialized flora and fauna adapted to the saline air and dry substrate. Despite the region's high population density, these dunes remain a vital sanctuary for endangered species.",
+    },
+    factsAdvanced: {
+      de: ["Dünen erreichen Höhen von bis zu 30 Metern", "Bestehen hauptsächlich aus pleistozänem Quarzsand", "Lebensraum für die seltene Ägyptische Landschildkröte", "Vorkommen von Stranddisteln und verschiedenen Akazienarten", "Wichtiger Filter für das Eindringen von Regenwasser ins Grundwasser", "Gefährdet durch Urbanisierung und Sandabbau"],
+      hu: ["A dűnék magassága elérheti a 30 métert", "Főként pleisztocén kori kvarchomokból állnak", "A ritka egyiptomi teknős élőhelye", "Tengerparti bogáncsok és különféle akáciafajok előfordulása", "Fontos szűrő az esővíz talajvízbe jutásához", "Veszélyezteti az urbanizáció és a homokkitermelés"],
+      ro: ["Dunele ating înălțimi de până la 30 de metri", "Sunt formate în principal din nisip de cuarț pleistocen", "Habitat pentru rara țestoasă egipteană", "Prezența ciulinilor de mare și a diferitelor specii de salcâm", "Filtru important pentru infiltrarea apei de ploaie în pânza freatică", "Amenințate de urbanizare și exploatarea nisipului"],
+      en: ["Dunes reach heights of up to 30 meters", "Primarily composed of Pleistocene quartz sand", "Habitat for the rare Egyptian tortoise", "Presence of sea hollies and various acacia species", "Important filter for rainwater infiltration into the aquifer", "Endangered by urbanization and sand quarrying"],
+    },
   }
 ];

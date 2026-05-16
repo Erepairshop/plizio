@@ -174,6 +174,18 @@ export const barbadosHistoryV2: POI[] = [
       en: ["Washington lived here in 1751", "Formerly known as Bush Hill House", "The visit lasted six weeks", "Museum of slavery history today"],
     },
     imageHint: "George Washington House historic building Barbados",
+    descriptionAdvanced: {
+      de: "Das George Washington House ist ein historisches Gebäude in Bridgetown, in dem der künftige erste Präsident der USA im Jahr 1751 verweilte. Es ist der einzige Ort außerhalb Nordamerikas, an dem Washington jemals lebte. Das sorgfältig restaurierte Haus vermittelt heute einen authentischen Eindruck vom Leben auf Barbados im 18. Jahrhundert.",
+      hu: "A George Washington House egy történelmi épület Bridgetownban, ahol az Amerikai Egyesült Államok leendő első elnöke 1751-ben megszállt. Ez az egyetlen hely Észak-Amerikán kívül, ahol Washington valaha is élt. A gondosan felújított ház ma hűen mutatja be a 18. századi barbadosi életet.",
+      ro: "George Washington House este o clădire istorică din Bridgetown, unde viitorul prim președinte al SUA a locuit în anul 1751. Este singurul loc din afara Americii de Nord unde Washington a locuit vreodată. Casa restaurată cu atenție oferă astăzi o imagine autentică a vieții din Barbados în secolul al XVIII-lea.",
+      en: "The George Washington House is a historic building in Bridgetown where the future first U.S. president stayed in 1751. It is the only place outside of North America where Washington ever resided. The carefully restored house now provides an authentic glimpse into 18th-century life in Barbados.",
+    },
+    factsAdvanced: {
+      de: ["George Washington verbrachte hier im Jahr 1751 sechs Wochen.", "Er begleitete seinen kranken Bruder Lawrence auf die Insel.", "Das Gebäude war früher als Bush Hill House bekannt.", "Es gehört zum UNESCO-Weltkulturerbe von Bridgetown.", "Das Haus wurde im Jahr 2007 restauriert und als Museum eröffnet.", "Washington infizierte sich hier mit Pocken, was ihn später immun machte."],
+      hu: ["George Washington hat hetet töltött itt 1751-ben.", "Beteg bátyját, Lawrence-t kísérte el a szigetre gyógyulás reményében.", "Az épületet korábban Bush Hill House néven ismerték.", "A ház Bridgetown UNESCO Világörökségi helyszínének része.", "A múzeumot alapos restaurálás után 2007-ben nyitották meg a nagyközönség előtt.", "Itt esett át a himlőn, ami később védettséget biztosított számára a betegség ellen."],
+      ro: ["George Washington a petrecut șase săptămâni aici în anul 1751.", "L-a însoțit pe fratele său bolnav, Lawrence, în vizita pe insulă.", "Clădirea era cunoscută anterior sub numele de Bush Hill House.", "Casa face parte din situl inclus în Patrimoniul Mondial UNESCO din Bridgetown.", "Proprietatea a fost restaurată și deschisă publicului în anul 2007.", "Se crede că Washington a contractat variola aici, devenind ulterior imun."],
+      en: ["George Washington stayed at this location for six weeks in 1751.", "He accompanied his brother Lawrence, who was seeking a cure for tuberculosis.", "The building was historically known as the Bush Hill House.", "It is a key part of the UNESCO World Heritage site of Bridgetown.", "The house was officially reopened as a heritage museum in 2007.", "Washington contracted smallpox during this stay, granting him future immunity."],
+    },
   },
   {
     id: "barbados-nidhe-israel-synagogue-history-v2",

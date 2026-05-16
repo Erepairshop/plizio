@@ -19,6 +19,18 @@ export const nauruLifeV2: POI[] = [
       en: ["Only significant inland lake", "Elevation of 5 meters above sea", "Once used for fish farming", "Habitat for Tilapia fish"],
     },
     imageHint: "Buada Lagoon Nauru surrounded by tropical vegetation",
+    descriptionAdvanced: {
+      de: "Die Buada-Lagune ist der einzige Binnensee auf Nauru und liegt in einer Senke im Zentrum der Insel. Das Brackwasserbecken ist von fruchtbarem Land umgeben, auf dem Palmen und Obstbäume wachsen. Die Lagune spielt eine wichtige Rolle in der lokalen Kultur und wurde traditionell für die Fischzucht genutzt. Sie stellt eine grüne Oase in der ansonsten vom Bergbau geprägten Landschaft des Plateaus dar.",
+      hu: "A Buada-lagúna Nauru egyetlen belső tava, amely a sziget központi részén, egy mélyedésben található. Az enyhén sós vizű tavat termékeny terület veszi körül, ahol pálmák és gyümölcsfák nőnek. A lagúna fontos szerepet tölt be a helyi kultúrában, és hagyományosan haltenyésztésre használták. Ez a sziget egyik legzöldebb és legélénkebb természetes környezete.",
+      ro: "Laguna Buada este singurul lac interior din Nauru, situat într-o depresiune din centrul insulei. Acest bazin cu apă salmastră este înconjurat de un teren fertil unde cresc palmieri și arbori fructiferi. Laguna joacă un rol important în cultura locală, fiind utilizată tradițional pentru piscicultură. Reprezintă o oază de verdeață în peisajul platoului central, afectat de minerit.",
+      en: "Buada Lagoon is the only inland lake on Nauru, situated within a depression in the center of the island. This brackish water body is surrounded by fertile land characterized by palms and fruit trees. The lagoon holds cultural significance and has been traditionally used for milkfish farming. It serves as a rare green oasis amidst the heavily mined landscape of the island's plateau.",
+    },
+    factsAdvanced: {
+      de: ["Einziger Binnensee Naurus", "Lage im Distrikt Buada", "Besteht aus Brackwasser", "Traditionelle Fischzucht (Milkfish)", "Umgeben von fruchtbarem Land", "Einzige Senke ohne Phosphatabbau"],
+      hu: ["Nauru egyetlen belső tava", "Buada körzetében található", "Enyhén sós (brakkvizű) tó", "Hagyományos haltenyésztés helyszíne", "Trópusi növényzet veszi körül", "A sziget központi fennsíkján van"],
+      ro: ["Singurul lac interior din țară", "Situat în districtul Buada", "Conține apă salmastră", "Loc pentru piscicultură tradițională", "Zona cea mai fertilă a insulei", "Oază naturală pe platoul central"],
+      en: ["Nauru's only inland lake", "Located in Buada District", "Contains brackish water", "Traditional site for milkfish farming", "Surrounded by fertile vegetation", "Situated in the central plateau area"],
+    },
   },
   {
     id: "nauru-anibare-bay-reef-life-v2",
@@ -38,6 +50,18 @@ export const nauruLifeV2: POI[] = [
       en: ["Great variety of hard corals", "Habitat for sea turtles", "Popular diving spot in the region", "Protects coast from erosion"],
     },
     imageHint: "Coral reef in Anibare Bay Nauru with clear blue water",
+    descriptionAdvanced: {
+      de: "Das Riff der Anibare-Bucht erstreckt sich entlang der Ostküste Naurus und ist für seine biologische Vielfalt bekannt. Die Bucht wird von einem breiten Korallenriff geschützt, das einen Lebensraum für zahlreiche Fischarten und Meeresorganismen bietet. Anibare ist der beste Ort auf der Insel für maritime Aktivitäten und verfügt über den einzigen Hafen, der in das Riff gegraben wurde. Es ist ein ökologisch sensibles Gebiet von großer Bedeutung für die Küstenökologie.",
+      hu: "Az Anibare-öböl zátonya Nauru keleti partja mentén húzódik, és a sziget egyik leggazdagabb tengeri élőhelye. A széles korallzátony védelmet nyújt a hullámok ellen, és számtalan halfajnak és tengeri szervezetnek ad otthont. Itt található a sziget egyetlen olyan kikötője, amelyet közvetlenül a zátonyba vágtak. Az öböl ökológiai szempontból kiemelkedő jelentőségű a helyi tengerparti ökoszisztéma számára.",
+      ro: "Reciful din Golful Anibare se întinde de-a lungul coastei de est a insulei Nauru și este renumit pentru biodiversitatea sa marină. Golful este protejat de un recif de corali lat, care oferă habitat pentru numeroase specii de pești și organisme marine. Anibare găzduiește singurul port săpat direct în structura recifului. Este o zonă ecologică sensibilă și esențială pentru protecția litoralului.",
+      en: "The Anibare Bay Reef stretches along the eastern coast of Nauru and is known for its rich marine biodiversity. The bay is protected by a broad coral reef that provides a habitat for various fish species and marine organisms. Anibare features the island's only harbor excavated directly into the reef structure. It is an ecologically significant area vital for the island's coastal ecosystem health.",
+    },
+    factsAdvanced: {
+      de: ["Größte Bucht an der Ostküste", "Reich an Korallen und Fischarten", "Standort des Anibare-Hafens", "Schutz vor starker Brandung", "Beliebt für Tauchgänge", "Vorkommen von Rifffischen"],
+      hu: ["A legnagyobb öböl a keleti parton", "Gazdag korall- és halfaunával bír", "Itt található az Anibare-kikötő", "Védelmet nyújt az óceáni hullámoktól", "A sziget legmélyebb vizeihez közeli", "Fontos tengeri ökológiai terület"],
+      ro: ["Cel mai mare golf de pe coasta de est", "Biodiversitate bogată de corali și pești", "Locația portului Anibare", "Barieră naturală împotriva valurilor", "Zonă populară pentru scufundări", "Sistem ecologic vital pentru insulă"],
+      en: ["Largest bay on the eastern coast", "Rich in coral and fish species", "Site of the Anibare Harbor", "Natural barrier against ocean swells", "Popular location for diving", "Crucial marine ecological zone"],
+    },
   },
   {
     id: "nauru-topside-plateau-ferns-life-v2",
@@ -57,6 +81,18 @@ export const nauruLifeV2: POI[] = [
       en: ["Dominance of Nephrolepis fern", "Survives on barren soil", "Part of natural regeneration", "Essential for soil formation"],
     },
     imageHint: "Green ferns growing between limestone pinnacles on Nauru topside",
+    descriptionAdvanced: {
+      de: "Das Topside-Plateau, das durch jahrzehntelangen Phosphatabbau geprägt ist, beheimatet spezialisierte Farnarten in den tiefen Felsspalten. Diese Pflanzen nutzen die Feuchtigkeit und den Schatten der zurückgebliebenen Korallenzinken, um in der kargen Kalksteinlandschaft zu überleben. Zu den häufigsten Arten gehören Pteris und Nephrolepis. Die Farne stellen einen wichtigen Teil der Sekundärvegetation dar, die sich auf den ehemaligen Bergbauflächen langsam wieder ausbreitet.",
+      hu: "A Topside-fennsík több évtizedes foszfátbányászat után megmaradt mészkőoszlopai között különleges páfrányfajok találtak otthonra. Ezek a növények a mély sziklahasadékok nedvességét és árnyékát használják ki a túléléshez a kopár tájon. A leggyakoribb nemzetségek közé tartozik a Pteris és a Nephrolepis. A páfrányok fontos részét képezik annak a másodlagos növegetációnak, amely lassan visszahódítja a bányászati területeket.",
+      ro: "Platoul Topside, marcat de decenii de minerit de fosfat, găzduiește specii specializate de ferigi în crăpăturile adânci ale stâncilor. Aceste plante profită de umiditatea și umbra oferite de coloanele de calcar rămase pentru a supraviețui în peisajul arid. Printre cele mai comune genuri se numără Pteris și Nephrolepis. Ferigile fac parte din vegetația secundară care recolonizează treptat fostele zone miniere.",
+      en: "The Topside Plateau, shaped by decades of phosphate mining, hosts specialized fern species within its deep rocky crevices. These plants utilize the moisture and shade provided by the remaining limestone pinnacles to survive in the barren landscape. Common genera include Pteris and Nephrolepis. These ferns are a key component of the secondary vegetation that is slowly reclaiming the former mining sites.",
+    },
+    factsAdvanced: {
+      de: ["Wachsen zwischen Korallenzinken", "Hauptarten: Pteris und Nephrolepis", "Besiedeln ehemalige Bergbaugebiete", "Nutzen Mikroklima der Felsspalten", "Teil der Sekundärvegetation", "Überleben in nährstoffarmem Boden"],
+      hu: ["A mészkőoszlopok között nőnek", "Pteris és Nephrolepis fajok jellemzőek", "A bányászott területeket hódítják vissza", "A hasadékok mikroklímáját kedvelik", "Másodlagos növényzet részesei", "Tűrik a tápanyagszegény talajt"],
+      ro: ["Cresc între coloanele de calcar", "Specii comune: Pteris și Nephrolepis", "Colonizează fostele situri miniere", "Preferă microclimatul din crăpături", "Parte a vegetației secundare", "Rezistente în soluri sărace"],
+      en: ["Grow between limestone pinnacles", "Common species: Pteris and Nephrolepis", "Colonize former mining areas", "Thrive in crevice microclimates", "Key part of secondary vegetation", "Resilient in nutrient-poor soils"],
+    },
   },
   {
     id: "nauru-command-ridge-forest-life-v2",
@@ -76,6 +112,18 @@ export const nauruLifeV2: POI[] = [
       en: ["Presence of Tamanu tree", "Habitat for Nauru reed warbler", "Highest point on the island", "Provides shade and coolness"],
     },
     imageHint: "Dense tropical trees and vegetation on a ridge in Nauru",
+    descriptionAdvanced: {
+      de: "Der Wald am Command Ridge bedeckt den höchsten Punkt Naurus und besteht aus einer Mischung aus einheimischen Bäumen und Sekundärwuchs. Diese bewaldete Zone bietet Schutz für Vögel und Reptilien in einer ansonsten stark veränderten Inselfläche. Der Hügel erreicht eine Höhe von etwa 71 Metern über dem Meeresspiegel. Die Vegetation hat sich über historischen Militäranlagen ausgebreitet und bildet heute ein wichtiges grünes Rückzugsgebiet.",
+      hu: "A Command Ridge erdeje Nauru legmagasabb pontját borítja, és őshonos fák, valamint másodlagos növényzet keverékéből áll. Ez az erdős terület menedéket nyújt madaraknak és hüllőknek a sziget erősen átalakított felszínén. A domb körülbelül 71 méterrel magasodik a tengerszint fölé. A növényzet mára benőtte a történelmi katonai állásokat, fontos zöld foltot alkotva a szigeten.",
+      ro: "Pădurea de pe Command Ridge acoperă cel mai înalt punct din Nauru și este formată dintr-un amestec de arbori nativi și vegetație secundară. Această zonă împădurită oferă refugiu pentru păsări și reptile într-un peisaj insular altfel sever modificat. Dealul atinge o înălțime de aproximativ 71 de metri deasupra nivelului mării. Vegetația s-a extins peste vechile fortificații militare, formând un coridor ecologic.",
+      en: "The Command Ridge Forest covers Nauru's highest elevation and consists of a mix of native trees and secondary growth. This forested area provides a sanctuary for birds and reptiles within the island's significantly altered landscape. The ridge reaches an altitude of approximately 71 meters above sea level. Vegetation has overtaken historical military structures, creating a vital green refuge on the plateau.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt Naurus (71 m)", "Standort im Distrikt Aiwo", "Beheimatet einheimische Baumarten", "Lebensraum für Seevögel", "Überwuchert alte Geschützstellungen", "Wichtiges Waldfragment der Insel"],
+      hu: ["Nauru legmagasabb pontja (71 m)", "Aiwo körzetében található", "Őshonos fafajoknak ad otthont", "Tengeri madarak fészkelőhelye", "Benőtte a régi katonai ágyúkat", "Kiemelt természetvédelmi terület"],
+      ro: ["Cel mai înalt punct din Nauru (71 m)", "Situat în districtul Aiwo", "Adăpostește specii de arbori nativi", "Habitat pentru păsări marine", "Acoperă vechile baterii de artilerie", "Fragment de pădure tropicală"],
+      en: ["Nauru's highest point (71 m)", "Located in Aiwo District", "Home to native tree species", "Habitat for various seabirds", "Overgrows old military emplacements", "Crucial forest fragment on the island"],
+    },
   },
   {
     id: "nauru-moqua-well-area-life-v2",
@@ -95,6 +143,18 @@ export const nauruLifeV2: POI[] = [
       en: ["Underground lake in limestone", "Surrounded by lianas and mosses", "Important historical water source", "Cool microclimate inside the cave"],
     },
     imageHint: "Entrance to a cave with green vines and tropical plants in Nauru",
+    descriptionAdvanced: {
+      de: "Das Gebiet um den Moqua Well im Distrikt Yaren ist durch eine einzigartige Karstflora gekennzeichnet, die an die kalkhaltigen Böden angepasst ist. Hier wachsen trockenheitsresistente Büsche und Farne, die in den Spalten des Korallengesteins gedeihen. Die Umgebung der Höhle dient als Mikrolebensraum für Insekten und kleine Landkrabben. Da das Gebiet weniger vom Bergbau betroffen ist, blieb hier ein Teil der ursprünglichen geologischen Oberflächenstruktur erhalten.",
+      hu: "A Moqua Well környéke Yaren körzetében egyedülálló karsztflórával rendelkezik, amely alkalmazkodott a meszes talajhoz. Szárazságtűrő cserjék és páfrányok nőnek itt, a korallsziklák hasadékaiban megtelepedve. A barlang körüli terület mikroélőhelyként szolgál rovarok és kisebb szárazföldi rákok számára. Mivel ezt a részt kevésbé érintette a bányászat, megőrizte eredeti geológiai felszínének egy részét.",
+      ro: "Zona din jurul Moqua Well din districtul Yaren este caracterizată de o floră carstică unică, adaptată solurilor calcaroase. Aici cresc arbuști rezistenți la secetă și ferigi care prosperă în fisurile rocilor de corali. Împrejurimile peșterii servesc ca micro-habitat pentru insecte și mici crabi de uscat. Deoarece zona a fost mai puțin afectată de minerit, păstrează o parte din structura geologică originală.",
+      en: "The area surrounding Moqua Well in Yaren District features a unique karst flora adapted to calcareous soils. Drought-resistant shrubs and ferns thrive within the crevices of the coral rock formations. The cave's surroundings serve as a micro-habitat for insects and small land crabs. As this area was less affected by phosphate mining, it preserves portions of the island's original geological surface structure.",
+    },
+    factsAdvanced: {
+      de: ["Lage im Distrikt Yaren", "Karstlandschaft mit Höhlensystem", "Vorkommen von Landkrabben", "Spezialisierte Kalksteinflora", "Wenig vom Bergbau beeinflusst", "Wichtiges hydrogeologisches Gebiet"],
+      hu: ["Yaren körzetében található", "Karsztvidék barlangrendszerrel", "Szárazföldi rákok lelőhelye", "Mészkőhöz alkalmazkodott flóra", "Kevéssé bolygatott bányászati terület", "Fontos hidrogeológiai zóna"],
+      ro: ["Localizat în districtul Yaren", "Peisaj carstic cu sistem de peșteri", "Prezența crabilor de uscat", "Floră adaptată la calcar", "Zonă puțin afectată de minerit", "Regiune hidrogeologică importantă"],
+      en: ["Located in Yaren District", "Karst landscape with cave systems", "Presence of various land crabs", "Specialized limestone flora", "Relatively undisturbed by mining", "Significant hydrogeological area"],
+    },
   },
   {
     id: "nauru-ijuw-mangroves-life-v2",
@@ -114,6 +174,18 @@ export const nauruLifeV2: POI[] = [
       en: ["Dominance of red mangroves", "Nesting site for coastal birds", "Filters sediments from water", "Rare vegetation type on Nauru"],
     },
     imageHint: "Small mangrove trees growing on a rocky shore in Nauru",
+    descriptionAdvanced: {
+      de: "Die Mangroven von Ijuw befinden sich an der Nordostküste Naurus und bilden einen seltenen Küstenlebensraum auf der Insel. Dieser kleine Mangrovenbestand besteht hauptsächlich aus der Art Bruguiera gymnorhiza und wächst in brackigen Küstenzonen. Die Pflanzen schützen die Küste vor Erosion und bieten Brutplätze für Meeresfauna. Es ist eines der wenigen Gebiete auf Nauru, in denen dieses spezialisierte Ökosystem noch existiert.",
+      hu: "Az Ijuw-mangrovék Nauru északkeleti partján találhatók, és a sziget egyik legritkább parti élőhelyét alkotják. Ez a kis kiterjedésű állomány főként a Bruguiera gymnorhiza fajból áll, és a sósabb mocsaras zónákban nő. A növények védik a partot az eróziótól, és bölcsőhelyet biztosítanak a tengeri élővilágnak. Ez az egyik kevés terület Naurun, ahol ez a speciális ökoszisztéma fennmaradt.",
+      ro: "Mangrovele din Ijuw sunt situate pe coasta de nord-est a insulei Nauru și formează un habitat litoral rar. Acest grup restrâns de mangrove este compus în principal din specia Bruguiera gymnorhiza și crește în zonele costiere salmastre. Plantele protejează țărmul împotriva eroziunii și oferă locuri de reproducere pentru fauna marină. Este unul dintre puținele locuri din Nauru unde mai există acest ecosistem.",
+      en: "The Ijuw Mangroves are located on the northeastern coast of Nauru and represent a rare coastal habitat for the island. This small stand primarily consists of Bruguiera gymnorhiza, growing in brackish shore zones. The plants stabilize the coastline against erosion and provide breeding grounds for marine life. It is one of the few areas on Nauru where this specialized ecosystem can still be found.",
+    },
+    factsAdvanced: {
+      de: ["Lage im Distrikt Ijuw", "Art: Bruguiera gymnorhiza", "Seltenes Ökosystem auf Nauru", "Schutz gegen Küstenerosion", "Lebensraum für Jungfische", "Wachstum in Brackwasserzonen"],
+      hu: ["Ijuw körzetében található", "Fő faja a Bruguiera gymnorhiza", "Ritka ökoszisztéma Naurun", "Védelmet nyújt a parterózió ellen", "Halak szaporodóhelye", "Sós mocsaras területeken nő"],
+      ro: ["Situat în districtul Ijuw", "Specia: Bruguiera gymnorhiza", "Ecosistem rar în Nauru", "Protecție împotriva eroziunii costiere", "Loc de reproducere pentru pești", "Crește în zone cu apă salmastră"],
+      en: ["Located in Ijuw District", "Species: Bruguiera gymnorhiza", "Rare ecosystem on Nauru", "Protection against coastal erosion", "Breeding ground for marine species", "Grows in brackish coastal zones"],
+    },
   },
   {
     id: "nauru-nibok-shrubland-life-v2",
@@ -133,6 +205,18 @@ export const nauruLifeV2: POI[] = [
       en: ["Presence of Scaevola taccada", "White flowers all year round", "Prevents soil salinization", "Important habitat for lizards"],
     },
     imageHint: "Green Scaevola shrubs with white flowers on a tropical coastline",
+    descriptionAdvanced: {
+      de: "Das Buschland von Nibok erstreckt sich über die Küstenebene und die unteren Hänge des Plateaus im Distrikt Nibok. Die Vegetation besteht vorwiegend aus salz- und trockenheitsresistenten Sträuchern wie Scaevola taccada. Diese Flora bildet einen dichten Gürtel, der den Boden stabilisiert und Schatten für die lokale Fauna bietet. Das Gebiet ist ein Beispiel für die ursprüngliche Küstenvegetation der Insel, die vor den großflächigen Rodungen für den Bergbau weiter verbreitet war.",
+      hu: "Nibok cserjései a tengerparti síkságon és a fennsík alsó lejtőin terülnek el Nibok körzetében. A növényzet főleg só- és szárazságtűrő cserjékből áll, mint például a Scaevola taccada. Ez a flóra sűrű övet alkot, amely stabilizálja a talajt és árnyékot nyújt a helyi állatvilágnak. A terület a sziget eredeti parti vegetációjának egyik példája, amely a bányászat előtti időkben sokkal elterjedtebb volt.",
+      ro: "Zona de tufișuri din Nibok se întinde pe câmpia de coastă și pe pantele inferioare ale platoului în districtul Nibok. Vegetația este compusă în principal din arbuști rezistenți la sare și secetă, cum ar fi Scaevola taccada. Această floră formează o barieră densă care stabilizează solul și oferă umbră faunei locale. Zona reprezintă un exemplu de vegetație costieră originală a insulei.",
+      en: "The Nibok Shrubland extends across the coastal plain and lower slopes of the plateau in the Nibok District. The vegetation primarily consists of salt-tolerant and drought-resistant shrubs, such as Scaevola taccada. This flora forms a dense belt that stabilizes the soil and provides shade for local fauna. The area serves as an example of the island's original coastal vegetation, which was once more widespread.",
+    },
+    factsAdvanced: {
+      de: ["Lage im Distrikt Nibok", "Dominante Art: Scaevola taccada", "Stabilisiert die Küstenböden", "Widerstandsfähig gegen Salzgischt", "Lebensraum für Insekten und Eidechsen", "Teil des ursprünglichen Küstengürtels"],
+      hu: ["Nibok körzetében található", "Jellemző faja a Scaevola taccada", "Stabilizálja a tengerparti talajt", "Tűri a sós permetet", "Rovarok és gyíkok élőhelye", "Az eredeti parti növényzet maradványa"],
+      ro: ["Situat în districtul Nibok", "Specie dominantă: Scaevola taccada", "Stabilizează solul costier", "Rezistent la salinitatea marină", "Habitat pentru insecte și șopârle", "Parte a centurii vegetale originale"],
+      en: ["Located in Nibok District", "Dominant species: Scaevola taccada", "Stabilizes coastal soils", "Resilient to salt spray", "Habitat for insects and lizards", "Part of the original coastal vegetation belt"],
+    },
   },
   {
     id: "nauru-meneng-pandanus-groves-life-v2",
@@ -152,6 +236,18 @@ export const nauruLifeV2: POI[] = [
       en: ["Pandanus tectorius is native", "Fruits are traditionally edible", "Leaves used for weaving", "Strong roots withstand storms"],
     },
     imageHint: "Pandanus trees with stilt roots near the ocean in Nauru",
+    descriptionAdvanced: {
+      de: "Die Pandanus-Haine von Meneng sind ökologisch und kulturell bedeutende Bestände des Pandanus-Baumes an der Südostküste Naurus. Diese Pflanzen sind an das tropische Küstenklima angepasst und dienten den Nauruern traditionell als Quelle für Nahrung und Baumaterial. Die Blätter werden zum Weben von Matten und Körben verwendet. Die Haine bilden eine charakteristische Landschaftskomponente, die die Verbindung zwischen der lokalen Bevölkerung und ihrer natürlichen Umwelt stärkt.",
+      hu: "Meneng pandanusz-ligetei ökológiai és kulturális szempontból is jelentősek Nauru délkeleti partvidékén. Ezek a növények alkalmazkodtak a trópusi tengerparti éghajlathoz, és hagyományosan élelmet, valamint építőanyagot biztosítottak a nauruiak számára. Leveleiket matracok és kosarak szövésére használják. A ligetek a sziget jellegzetes tájképi elemei, amelyek szoros kapcsolatot mutatnak a helyi hagyományokkal.",
+      ro: "Livezile de Pandanus din Meneng sunt importante atât ecologic, cât și cultural, fiind situate pe coasta de sud-est a insulei Nauru. Aceste plante sunt adaptate climatului tropical de coastă și au servit tradițional nauruenilor ca sursă de hrană și materiale de construcție. Frunzele sunt utilizate pentru țeserea covorașelor și a coșurilor. Livezile reprezintă un element peisagistic distinctiv și o resursă naturală tradițională.",
+      en: "The Meneng Pandanus Groves are ecologically and culturally significant stands of Pandanus trees located on Nauru's southeastern coast. These plants are well-adapted to the tropical coastal climate and have traditionally served Nauruans as a source of food and building materials. The leaves are used for weaving mats and baskets. The groves form a distinctive landscape feature that reflects the connection between the local people and their environment.",
+    },
+    factsAdvanced: {
+      de: ["Lage im Distrikt Meneng", "Nutzung der Blätter zum Weben", "Wichtige traditionelle Nahrungsquelle", "An die Küstenbedingungen angepasst", "Kulturelles Symbol Naurus", "Bietet Schutz für Kleintiere"],
+      hu: ["Meneng körzetében található", "Leveleit szövésre használják", "Hagyományos élelemforrás", "Jól bírja a tengerparti szelet", "Nauru kulturális szimbóluma", "Kisebb állatok menedékhelye"],
+      ro: ["Situat în districtul Meneng", "Frunze folosite pentru țesut", "Sursă tradițională de hrană", "Adaptat la condițiile de coastă", "Simbol cultural al insulei Nauru", "Refugiu pentru mici animale"],
+      en: ["Located in Meneng District", "Leaves used for traditional weaving", "Significant traditional food source", "Adapted to coastal environments", "Cultural symbol of Nauru", "Provides shelter for small fauna"],
+    },
   },
   {
     id: "nauru-anetan-frigatebird-nesting-life-v2",
@@ -171,6 +267,18 @@ export const nauruLifeV2: POI[] = [
       en: ["Great frigatebird (Fregata minor)", "Wingspan up to 2.3 meters", "Birds are often kept as pets", "Featured on Nauru's national seal"],
     },
     imageHint: "Frigatebirds flying over or perched on rocky cliffs in Nauru",
+    descriptionAdvanced: {
+      de: "Die Nistplätze in Anetan bieten wichtige Rückzugsräume für den Großen Fregattvogel an der Nordküste Naurus. Die Vögel nutzen die küstennahen Bäume und Felsvorsprünge für ihre Brutkolonien. Dieses Gebiet ist entscheidend für den Erhalt der lokalen Avifauna auf der isolierten Insel. Die Beobachtung der Nistgewohnheiten liefert wichtige Daten für den regionalen Naturschutz.",
+      hu: "Az Anetan körzetben található fészkelőhelyek a nagy fregattmadarak fontos menedékei Nauru északi partjainál. A madarak a tengerparti fákat és sziklakiszögelléseket használják költőhelyül. Ez a terület kritikus fontosságú a szigetvilág madárvilágának megőrzése szempontjából. A fészkelési szokások megfigyelése értékes adatokkal szolgál a regionális természetvédelem számára.",
+      ro: "Locurile de cuibărit din Anetan reprezintă habitate esențiale pentru fregata mare pe coasta de nord a insulei Nauru. Păsările utilizează arborii de coastă și proeminențele stâncoase pentru coloniile lor. Această zonă este crucială pentru conservarea avifaunei locale pe această insulă izolată. Monitorizarea obiceiurilor de cuibărit oferă date importante pentru protecția mediului.",
+      en: "The nesting sites in Anetan provide essential habitats for Great Frigatebirds on Nauru's northern coast. The birds utilize coastal trees and rocky outcrops for their breeding colonies. This area is critical for maintaining local avian biodiversity on the isolated island. Observations of nesting patterns yield important data for regional conservation efforts.",
+    },
+    factsAdvanced: {
+      de: ["Der Große Fregattvogel hat eine Flügelspannweite von bis zu 2,30 Metern.", "Die Brutzeit der Vögel erstreckt sich oft über mehrere Monate.", "Anetan liegt im nördlichsten Teil der Insel Nauru.", "Die Vögel nisten bevorzugt in einheimischen Bäumen wie Pisonia grandis.", "Fregattvögel können wochenlang ununterbrochen in der Luft bleiben.", "Die Kolonie wird im Rahmen nationaler Biodiversitätsprogramme überwacht."],
+      hu: ["A nagy fregattmadár szárnyfesztávolsága elérheti a 2,30 métert.", "A madarak költési ideje gyakran több hónapig is eltart.", "Anetan Nauru szigetének legészakibb részén található.", "A madarak szívesen fészkelnek őshonos fákon, mint a Pisonia grandis.", "A fregattmadarak hetekig képesek megszakítás nélkül a levegőben maradni.", "A kolóniát a nemzeti biodiverzitási programok keretében figyelik."],
+      ro: ["Fregata mare are o anvergură a aripilor de până la 2,30 metri.", "Perioada de cuibărit a păsărilor se întinde adesea pe mai multe luni.", "Anetan este situat în partea cea mai nordică a insulei Nauru.", "Păsările preferă să cuibărească în arbori nativi precum Pisonia grandis.", "Fregatele pot rămâne în aer timp de săptămâni fără întrerupere.", "Colonia este monitorizată în cadrul programelor naționale de biodiversitate."],
+      en: ["The Great Frigatebird has a wingspan reaching up to 2.30 meters.", "The breeding season of these birds often extends over several months.", "Anetan is located in the northernmost part of Nauru island.", "Birds prefer nesting in native trees such as Pisonia grandis.", "Frigatebirds can remain airborne for weeks without landing.", "The colony is monitored under national biodiversity conservation programs."],
+    },
   },
   {
     id: "nauru-buada-district-gardens-life-v2",
@@ -190,6 +298,18 @@ export const nauruLifeV2: POI[] = [
       en: ["Most fertile part of the island", "Cultivation of breadfruit trees", "Presence of colorful hibiscus", "Important local food source"],
     },
     imageHint: "Lush garden in Nauru with banana and papaya trees",
+    descriptionAdvanced: {
+      de: "Die Gärten im Buada-Distrikt befinden sich in der fruchtbaren Senke rund um die Buada-Lagune, dem einzigen Binnengewässer Naurus. Aufgrund des hohen Grundwasserspiegels gedeihen hier Nutzpflanzen wie Bananen, Pandanus und Brotfruchtbäume. Diese Region stellt das wichtigste landwirtschaftliche Gebiet der Insel dar. Die Gartenkultur ist tief in der lokalen Gemeinschaft verwurzelt.",
+      hu: "A Buada körzet kertjei a Buada-lagúna körüli termékeny mélyedésben találhatók, amely Nauru egyetlen édesvízi tava. A magas talajvízszintnek köszönhetően olyan haszonnövények teremnek itt, mint a banán, a pandanusz és a kenyérfafajok. Ez a régió a sziget legfontosabb mezőgazdasági területe. A kertművelés hagyománya mélyen gyökerezik a helyi közösségben.",
+      ro: "Grădinile din districtul Buada sunt situate în depresiunea fertilă din jurul lagunei Buada, singura masă de apă interioară din Nauru. Datorită pânzei freatice ridicate, aici prosperă culturi precum bananele, pandanusul și arborii de pâine. Această regiune reprezintă cea mai importantă zonă agricolă a insulei. Cultura grădinăritului este profund înrădăcinată în comunitatea locală.",
+      en: "The gardens of Buada District are located in the fertile depression surrounding Buada Lagoon, Nauru's only inland body of water. Due to the high water table, crops such as bananas, pandanus, and breadfruit trees thrive here. This region represents the most significant agricultural area on the island. Gardening traditions are deeply integrated into the local community's way of life.",
+    },
+    factsAdvanced: {
+      de: ["Die Buada-Lagune liegt etwa 5 Meter über dem Meeresspiegel.", "Das Gebiet umfasst eine Fläche von ca. 0,13 Quadratkilometern.", "Hier wachsen über 10 verschiedene Arten von Speisebananen.", "Die Senke sammelt Regenwasser für die lokale Bewässerung.", "Buada ist der einzige Distrikt Naurus ohne Meereszugang.", "Die Gärten werden seit Generationen von lokalen Familien gepflegt."],
+      hu: ["A Buada-lagúna körülbelül 5 méterrel fekszik a tengerszint felett.", "A terület körülbelül 0,13 négyzetkilométert tesz ki.", "Itt több mint 10 különböző típusú étkezési banán terem.", "A mélyedés összegyűjti az esővizet a helyi öntözéshez.", "Buada az egyetlen körzet Naurun, amelynek nincs tengerpartja.", "A kerteket generációk óta helyi családok gondozzák."],
+      ro: ["Laguna Buada este situată la aproximativ 5 metri deasupra nivelului mării.", "Zona acoperă o suprafață de circa 0,13 kilometri pătrați.", "Aici cresc peste 10 tipuri diferite de banane comestibile.", "Depresiunea colectează apa de ploaie pentru irigațiile locale.", "Buada este singurul district din Nauru fără acces la mare.", "Grădinile sunt îngrijite de familii locale de generații întregi."],
+      en: ["Buada Lagoon sits approximately 5 meters above sea level.", "The area covers a surface of about 0.13 square kilometers.", "More than 10 different types of edible bananas grow here.", "The depression collects rainwater for local irrigation purposes.", "Buada is the only district in Nauru without a coastline.", "The gardens have been maintained by local families for generations."],
+    },
   },
   {
     id: "nauru-denigomodu-casuarinas-life-v2",
@@ -209,6 +329,18 @@ export const nauruLifeV2: POI[] = [
       en: ["Casuarina equisetifolia is common", "Needle-like leaves reduce water loss", "Hardwood is extremely durable", "Withstands strong sea breezes"],
     },
     imageHint: "Casuarina trees with thin leaves on a tropical beach",
+    descriptionAdvanced: {
+      de: "Die Casuarina-Bestände in Denigomodu bilden einen natürlichen Schutzgürtel entlang der Westküste von Nauru. Diese salztoleranten Bäume, auch als Strandkiefern bekannt, schützen das Hinterland vor Küstenerosion und starken Seewinden. Sie bieten zudem Schatten für die Wohngebiete der Bergbauangestellten. Die Baumgruppe ist ein prägendes Element der lokalen Küstenlandschaft.",
+      hu: "A Denigomoduban található kazuárfafélék természetes védőövezetet alkotnak Nauru nyugati partján. Ezek a sótűrő fák, amelyeket tengerparti fenyőként is ismernek, védik a hátországot a part menti eróziótól és az erős tengeri szelektől. Emellett árnyékot biztosítanak a bányászati dolgozók lakóövezeteinek. A facsoport a helyi tengerparti táj meghatározó eleme.",
+      ro: "Pădurile de Casuarina din Denigomodu formează o centură naturală de protecție de-a lungul coastei de vest a insulei Nauru. Acești arbori toleranți la sare protejează interiorul insulei de eroziunea costieră și de vânturile maritime puternice. De asemenea, oferă umbră pentru zonele rezidențiale ale angajaților din minerit. Grupul de arbori este un element definitoriu al peisajului costier local.",
+      en: "The Casuarina stands in Denigomodu form a natural protective belt along Nauru's western coast. These salt-tolerant trees, also known as she-oaks, shield the hinterland from coastal erosion and strong sea winds. They also provide shade for the residential areas of mining employees. The grove is a defining element of the local coastal landscape.",
+    },
+    factsAdvanced: {
+      de: ["Casuarina equisetifolia kann eine Höhe von bis zu 35 Metern erreichen.", "Die Bäume fixieren Stickstoff im Boden und verbessern die Bodenqualität.", "Denigomodu ist der am dichtesten besiedelte Distrikt Naurus.", "Die Bestände dienen als Windschutz für nahegelegene Infrastrukturen.", "Das Holz der Casuarina ist extrem hart und wird lokal für Bauzwecke genutzt.", "Die Bäume wurden teilweise zur Wiederaufforstung nach dem Phosphatabbau gepflanzt."],
+      hu: ["A Casuarina equisetifolia akár 35 méter magasra is megnőhet.", "A fák megkötik a nitrogént a talajban, javítva annak minőségét.", "Denigomodu Nauru legsűrűbben lakott körzete.", "A faállomány szélfogóként szolgál a közeli infrastruktúra számára.", "A kazuárfa fája rendkívül kemény, helyben építkezéshez használják.", "A fákat részben a foszfátbányászat utáni erdősítés céljából ültették."],
+      ro: ["Casuarina equisetifolia poate atinge o înălțime de până la 35 de metri.", "Arborii fixează azotul în sol, îmbunătățind calitatea acestuia.", "Denigomodu este cel mai dens populat district din Nauru.", "Pădurile servesc drept paravânt pentru infrastructura din apropiere.", "Lemnul de Casuarina este extrem de dur și folosit local în construcții.", "Arborii au fost plantați parțial pentru reîmpădurire după minerit."],
+      en: ["Casuarina equisetifolia can reach heights of up to 35 meters.", "The trees fix nitrogen in the soil, improving its overall quality.", "Denigomodu is the most densely populated district in Nauru.", "The stands serve as windbreaks for nearby infrastructure.", "Casuarina wood is extremely hard and used locally for construction.", "Some trees were planted for reforestation following phosphate mining."],
+    },
   },
   {
     id: "nauru-aiwo-mangroves-life-v2",
@@ -228,6 +360,18 @@ export const nauruLifeV2: POI[] = [
       en: ["Essential for juvenile fish", "Grows on coral sediments", "Withstands daily flooding", "Smallest mangrove zone on the island"],
     },
     imageHint: "Mangrove roots in shallow water at low tide in Nauru",
+    descriptionAdvanced: {
+      de: "Die Mangrovenbestände in Aiwo gehören zu den seltenen Feuchtbiotopen auf der Koralleninsel Nauru. Diese spezialisierten Pflanzen besiedeln kleine Gezeitenzonen und bieten Lebensraum für Krebstiere und Jungfische. Sie spielen eine wesentliche Rolle bei der Stabilisierung des Küstenstreifens gegen Wellenschlag. Die Erhaltung dieser kleinen Ökosysteme ist ein Schwerpunkt lokaler Umweltinitiativen.",
+      hu: "Az Aiwo körzetben található mangrove-állományok Nauru korallszigetének ritka vizes élőhelyei közé tartoznak. Ezek a specializálódott növények kis árapály-zónákat népesítenek be, élőhelyet biztosítva rákoknak és ivadékhalaknak. Alapvető szerepet játszanak a partvonal hullámverés elleni stabilizálásában. E kis ökoszisztémák megőrzése a helyi környezetvédelmi kezdeményezések középpontjában áll.",
+      ro: "Pădurile de mangrove din Aiwo fac parte din rarele habitate umede de pe insula de corali Nauru. Aceste plante specializate ocupă mici zone intertidale, oferind habitat pentru crustacee și puiet de pește. Ele joacă un rol esențial în stabilizarea liniei de coastă împotriva acțiunii valurilor. Conservarea acestor mici ecosisteme este o prioritate a inițiativelor locale de mediu.",
+      en: "The mangrove stands in Aiwo are among the rare wetland habitats on the coral island of Nauru. These specialized plants colonize small intertidal zones, providing a habitat for crustaceans and juvenile fish. They play a vital role in stabilizing the coastline against wave action. The preservation of these small ecosystems is a focus of local environmental initiatives.",
+    },
+    factsAdvanced: {
+      de: ["Nauru beherbergt hauptsächlich die Mangrovenart Bruguiera gymnorhiza.", "Die Mangroven in Aiwo befinden sich in der Nähe des Hafengebiets.", "Ihre Stelzwurzeln filtern Sedimente aus dem abfließenden Wasser.", "Die Bestände dienen als Kinderstube für viele Riff-Fische.", "Mangroven sind in Nauru aufgrund der steilen Riffkante sehr selten.", "Lokale Schulen nutzen das Gebiet für ökologische Feldstudien."],
+      hu: ["Nauru főként a Bruguiera gymnorhiza mangrovefajt ad otthont.", "Az aiwói mangrovék a kikötői terület közelében találhatók.", "Légzőgyökereik kiszűrik az üledéket a lefolyó vízből.", "Az állományok számos szirti halfaj számára szolgálnak bölcsődeként.", "A mangrovék Naurun a meredek zátonyperem miatt nagyon ritkák.", "A helyi iskolák ökológiai terepgyakorlatokra használják a területet."],
+      ro: ["Nauru găzduiește în principal specia de mangrove Bruguiera gymnorhiza.", "Mangrovele din Aiwo sunt situate în apropierea zonei portuare.", "Rădăcinile lor adventive filtrează sedimentele din apa de scurgere.", "Pădurile servesc drept pepinieră pentru mulți pești de recif.", "Mangrovele sunt foarte rare în Nauru din cauza pantei abrupte a recifului.", "Școlile locale utilizează zona pentru studii ecologice de teren."],
+      en: ["Nauru primarily hosts the mangrove species Bruguiera gymnorhiza.", "The mangroves in Aiwo are located near the main harbor area.", "Their prop roots filter sediments from the runoff water.", "The stands serve as a nursery for many reef fish species.", "Mangroves are very rare in Nauru due to the steep reef edge.", "Local schools use the area for ecological field studies and education."],
+    },
   },
   {
     id: "nauru-boe-coastal-flora-life-v2",
@@ -247,6 +391,18 @@ export const nauruLifeV2: POI[] = [
       en: ["Presence of Beach Morning Glory", "Purple flowers on sandy beaches", "Resistant to salt spray", "Pioneer plant of the coastal zone"],
     },
     imageHint: "Purple morning glory flowers growing on a sandy beach in Nauru",
+    descriptionAdvanced: {
+      de: "Die Küstenflora im Boe-Distrikt zeichnet sich durch widerstandsfähige Pionierpflanzen aus, die an das salzhaltige Klima angepasst sind. Hier finden sich dichte Bestände von Scaevola taccada und Guettarda speciosa, die den Strandabschnitt säumen. Diese Vegetation dient als natürlicher Puffer zwischen dem Ozean und den Wohngebieten. Die Pflanzen werden traditionell auch für medizinische Zwecke genutzt.",
+      hu: "A Boe körzet tengerparti flóráját a sós éghajlathoz alkalmazkodott szívós úttörő növények jellemzik. Itt a Scaevola taccada és a Guettarda speciosa sűrű állományai szegélyezik a tengerpartot. Ez a növényzet természetes pufferként szolgál az óceán és a lakóövezetek között. A növényeket hagyományosan gyógyászati célokra is felhasználják.",
+      ro: "Flora costieră din districtul Boe se caracterizează prin plante pionier rezistente, adaptate la climatul salin. Aici se găsesc tufe dese de Scaevola taccada și Guettarda speciosa care mărginesc secțiunea de plajă. Această vegetație servește ca tampon natural între ocean și zonele rezidențiale. Plantele sunt utilizate tradițional și în scopuri medicinale.",
+      en: "The coastal flora in Boe District is characterized by resilient pioneer plants adapted to the saline climate. Dense stands of Scaevola taccada and Guettarda speciosa line the beach section here. This vegetation serves as a natural buffer between the ocean and residential areas. The plants are also traditionally utilized for various medicinal purposes.",
+    },
+    factsAdvanced: {
+      de: ["Boe ist flächenmäßig der kleinste Distrikt Naurus.", "Scaevola taccada wird lokal 'Emi' genannt.", "Die Blüten der Guettarda speciosa duften nachts besonders stark.", "Die Flora verhindert das Abtragen des sandigen Bodens bei Sturm.", "Einige Pflanzen dienen als Rohstoff für traditionelles Kunsthandwerk.", "Die Küstenstraße verläuft direkt entlang dieses Vegetationsgürtels."],
+      hu: ["Boe területileg Nauru legkisebb körzete.", "A Scaevola taccada helyi neve 'Emi'.", "A Guettarda speciosa virágai éjszaka különösen erősen illatoznak.", "A flóra megakadályozza a homokos talaj elhordását vihar idején.", "Egyes növények a hagyományos kézművesség alapanyagául szolgálnak.", "A tengerparti út közvetlenül e növényzeti öv mentén halad."],
+      ro: ["Boe este cel mai mic district din Nauru ca suprafață.", "Scaevola taccada este numită local 'Emi'.", "Florile de Guettarda speciosa au un parfum foarte puternic noaptea.", "Flora previne eroziunea solului nisipos în timpul furtunilor.", "Unele plante servesc ca materie primă pentru artizanatul tradițional.", "Drumul de coastă trece direct pe lângă această centură de vegetație."],
+      en: ["Boe is the smallest district in Nauru by land area.", "Scaevola taccada is known locally as 'Emi'.", "The flowers of Guettarda speciosa are especially fragrant at night.", "The flora prevents the erosion of sandy soil during storms.", "Certain plants serve as raw materials for traditional handicrafts.", "The coastal ring road runs directly alongside this vegetation belt."],
+    },
   },
   {
     id: "nauru-yaren-greenbelt-life-v2",
@@ -266,6 +422,18 @@ export const nauruLifeV2: POI[] = [
       en: ["Home to many coconut palms", "Hub for local bird species", "Artificially created green zone", "Provides shade for government buildings"],
     },
     imageHint: "Lush green grass and coconut palms in Yaren Nauru",
+    descriptionAdvanced: {
+      de: "Der Grüngürtel von Yaren umfasst die Vegetationsflächen rund um das Regierungszentrum und den internationalen Flughafen. Er besteht aus einer Mischung aus einheimischen Bäumen und Zierpflanzen, die das Stadtbild auflockern. Diese Grünzone verbessert das Mikroklima im Verwaltungsdistrikt erheblich. Sie bietet zudem wichtige Lebensräume für Insekten und Kleinvögel inmitten der bebauten Zone.",
+      hu: "Yaren zöldövezete a kormányzati központ és a nemzetközi repülőtér körüli növényzettel borított területeket foglalja magában. Őshonos fák és dísznövények keverékéből áll, amelyek élénkítik a városképet. Ez a zöldzóna jelentősen javítja a közigazgatási körzet mikroklímáját. Emellett fontos élőhelyet biztosít rovaroknak és kismadaraknak a beépített övezeten belül.",
+      ro: "Centura verde din Yaren cuprinde zonele de vegetație din jurul centrului guvernamental și al aeroportului internațional. Aceasta constă într-un amestec de arbori nativi și plante ornamentale care înfrumusețează peisajul urban. Această zonă verde îmbunătățește semnificativ microclimatul în districtul administrativ. De asemenea, oferă habitate importante pentru insecte și păsări mici în mijlocul zonei construite.",
+      en: "The Yaren Greenbelt encompasses the vegetated areas surrounding the government center and the international airport. It consists of a mix of native trees and ornamental plants that enhance the urban landscape. This green zone significantly improves the microclimate within the administrative district. It also provides vital habitats for insects and small birds amidst the developed zone.",
+    },
+    factsAdvanced: {
+      de: ["Yaren fungiert als inoffizielle Hauptstadt von Nauru.", "Der Grüngürtel grenzt direkt an die Start- und Landebahn des Flughafens.", "Hier finden sich oft prächtige Frangipani-Bäume (Plumeria).", "Die Bewässerung erfolgt teilweise durch aufbereitetes Brauchwasser.", "Der Bereich dient als Pufferzone für den Lärmschutz am Flughafen.", "In diesem Gebiet befinden sich auch wichtige Regierungsgebäude."],
+      hu: ["Yaren Nauru de facto fővárosaként működik.", "A zöldövezet közvetlenül határos a repülőtér kifutópályájával.", "Gyakran találhatók itt pompás frangipáni fák (Plumeria).", "Az öntözés részben tisztított ipari vízzel történik.", "A terület pufferzónaként szolgál a repülőtér zajvédelmében.", "Ebben a térségben fontos kormányzati épületek is találhatók."],
+      ro: ["Yaren funcționează ca capitală neoficială a insulei Nauru.", "Centura verde se învecinează direct cu pista aeroportului.", "Aici se găsesc adesea arbori spectaculoși de Frangipani (Plumeria).", "Irigarea se face parțial cu apă industrială reciclată.", "Zona servește ca tampon pentru protecția fonică a aeroportului.", "În această zonă sunt situate și clădiri guvernamentale importante."],
+      en: ["Yaren serves as the de facto capital of Nauru.", "The greenbelt directly borders the airport runway.", "Magnificent Frangipani trees (Plumeria) are commonly found here.", "Irrigation is partially provided by recycled graywater.", "The area acts as a buffer zone for noise reduction near the airport.", "Several important government buildings are located within this area."],
+    },
   },
   {
     id: "nauru-conservation-nursery-life-v2",
@@ -285,5 +453,17 @@ export const nauruLifeV2: POI[] = [
       en: ["Breeding of Nauru hardwoods", "Soil restoration project", "Scientific monitoring center", "Protection of genetic resources"],
     },
     imageHint: "Young trees and saplings in a plant nursery in Nauru",
+    descriptionAdvanced: {
+      de: "Die Naturschutzgärtnerei ist eine zentrale Einrichtung zur Aufzucht einheimischer Pflanzenarten für die Rekultivierung der Insel. Nach Jahrzehnten des Phosphatabbaus ist die Wiederherstellung der Vegetation auf dem Zentralplateau oberste Priorität. Die Gärtnerei konzentriert sich auf Arten, die mit den schwierigen Bodenverhältnissen des 'Topside' zurechtkommen. Sie dient auch als Bildungszentrum für nachhaltige Landnutzung.",
+      hu: "A természetvédelmi faiskola központi létesítmény az őshonos növényfajok nevelésére a sziget rekultivációja érdekében. Több évtizednyi foszfátbányászat után a központi fennsík növényzetének helyreállítása kiemelt feladat. A faiskola olyan fajokra összpontosít, amelyek bírják a 'Topside' nehéz talajviszonyait. Fenntartható földhasználattal foglalkozó oktatási központként is szolgál.",
+      ro: "Pepinierea de conservare este o facilitate centrală pentru cultivarea speciilor de plante native necesare recultivării insulei. După decenii de minerit de fosfați, restaurarea vegetației pe platoul central este o prioritate maximă. Pepiniera se concentrează pe specii care pot supraviețui în condițiile dificile de sol de pe 'Topside'. Servește și ca centru educațional pentru utilizarea durabilă a terenurilor.",
+      en: "The Conservation Nursery is a central facility for propagating native plant species essential for the island's land reclamation. Following decades of phosphate mining, restoring vegetation to the central plateau is a top priority. The nursery focuses on species capable of thriving in the challenging soil conditions of the 'Topside' area. It also serves as an educational hub for sustainable land management.",
+    },
+    factsAdvanced: {
+      de: ["Die Gärtnerei produziert jährlich Tausende von Setzlingen.", "Ein Schwerpunkt liegt auf der Vermehrung der Calophyllum inophyllum.", "Die Einrichtung wird vom Ministerium für Umwelt unterstützt.", "Setzlinge werden zur Stabilisierung von Erosionsflächen verwendet.", "Es werden Versuche zur Bodenverbesserung mit Kompost durchgeführt.", "Die Gärtnerei ist wichtig für die Ernährungssicherheit der Insel."],
+      hu: ["A faiskola évente több ezer palántát termel.", "Kiemelt figyelmet fordítanak a Calophyllum inophyllum szaporítására.", "Az intézményt a Környezetvédelmi Minisztérium támogatja.", "A palántákat az eróziós területek stabilizálására használják.", "Kísérleteket végeznek a talaj javítására komposzt segítségével.", "A faiskola fontos szerepet játszik a sziget élelmezésbiztonságában."],
+      ro: ["Pepinierea produce anual mii de puieți.", "Un accent deosebit se pune pe înmulțirea speciei Calophyllum inophyllum.", "Facilitatea este susținută de Ministerul Mediului.", "Puieții sunt utilizați pentru stabilizarea zonelor afectate de eroziune.", "Se efectuează experimente pentru ameliorarea solului cu compost.", "Pepinierea este importantă pentru securitatea alimentară a insulei."],
+      en: ["The nursery produces thousands of seedlings annually.", "A major focus is the propagation of Calophyllum inophyllum.", "The facility is supported by the Ministry of Environment.", "Seedlings are used to stabilize erosion-prone areas.", "Soil improvement trials using compost are conducted on-site.", "The nursery is vital for the island's long-term food security."],
+    },
   }
 ];

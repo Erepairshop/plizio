@@ -19,6 +19,18 @@ export const micronesiaCitiesV2: POI[] = [
       en: ["Capital city since 1989", "Located in northwest Pohnpei", "Home to the National Congress", "Surrounded by tropical rainforest"],
     },
     imageHint: "Palikir government buildings in Pohnpei",
+    descriptionAdvanced: {
+      de: "Palikir ist die Hauptstadt der Föderierten Staaten von Mikronesien und liegt auf der Insel Pohnpei. Die Stadt ersetzte 1989 Kolonia als Regierungssitz und wurde speziell als Verwaltungszentrum konzipiert. Die Architektur der Regierungsgebäude ist von traditionellen mikronesischen Gemeinschaftshäusern inspiriert und fügt sich in die tropische Landschaft ein.",
+      hu: "Palikir a Mikronéziai Szövetségi Államok fővárosa, amely Pohnpei szigetén található. A város 1989-ben vette át a kormányzati székhely szerepét Koloniától, és kifejezetten adminisztratív központnak tervezték. A kormányzati épületek építészete a hagyományos mikronéziai közösségi házakat idézi, illeszkedve a trópusi tájba.",
+      ro: "Palikir este capitala Statelor Federate ale Microneziei, situată pe insula Pohnpei. Orașul a înlocuit Kolonia ca sediu al guvernului în 1989, fiind proiectat special ca centru administrativ. Arhitectura clădirilor guvernamentale este inspirată de casele comunitare tradiționale, integrându-se în peisajul tropical.",
+      en: "Palikir is the capital city of the Federated States of Micronesia, located on the island of Pohnpei. It replaced Kolonia as the seat of government in 1989 and was specifically designed as an administrative center. The architecture of the government buildings is inspired by traditional Micronesian longhouses, blending into the lush tropical landscape.",
+    },
+    factsAdvanced: {
+      de: ["Palikir wurde im Jahr 1989 offiziell zur Hauptstadt ernannt.", "Die Stadt liegt etwa 8 Kilometer südwestlich von Kolonia.", "In Palikir leben etwa 4.600 Einwohner (Stand 2010).", "Die Regierungsgebäude befinden sich in der Gemeinde Sokehs.", "Palikir liegt in einer Zone mit extrem hohen Niederschlagswerten.", "Die Stadt beherbergt den Kongress und den Obersten Gerichtshof."],
+      hu: ["Palikir 1989-ben lett hivatalosan az ország fővárosa.", "A város körülbelül 8 kilométerre délnyugatra fekszik Koloniától.", "Palikir lakossága körülbelül 4600 fő (a 2010-es adatok szerint).", "A kormányzati negyed Sokehs község területén található.", "Palikir a világ egyik legcsapadékosabb lakott területén fekszik.", "Itt található az ország Kongresszusa és a Legfelsőbb Bíróság is."],
+      ro: ["Palikir a devenit oficial capitală în anul 1989.", "Orașul se află la aproximativ 8 kilometri sud-vest de Kolonia.", "Populația orașului este de circa 4.600 de locuitori (date 2010).", "Complexul guvernamental este situat în municipalitatea Sokehs.", "Palikir este situat într-o zonă cu precipitații anuale foarte ridicate.", "Orașul găzduiește Congresul și Curtea Supremă a țării."],
+      en: ["Palikir officially became the national capital in 1989.", "The city is located about 8 kilometers southwest of Kolonia.", "The population of Palikir is approximately 4,600 (2010 census).", "The government complex is situated within the Sokehs municipality.", "Palikir is located in one of the wettest inhabited regions on Earth.", "The city houses the FSM Congress and the Supreme Court."],
+    },
   },
   {
     id: "micronesia-weno-cities-v2",
@@ -38,6 +50,18 @@ export const micronesiaCitiesV2: POI[] = [
       en: ["Largest city in Micronesia", "Main airport hub for Chuuk", "Center for wreck diving", "Formerly known as Moen"],
     },
     imageHint: "Aerial view of Weno island in Chuuk",
+    descriptionAdvanced: {
+      de: "Weno ist die bevölkerungsreichste Stadt der Föderierten Staaten von Mikronesien und die Hauptstadt des Bundesstaates Chuuk. Sie liegt auf der gleichnamigen Insel innerhalb der riesigen Chuuk-Lagune. Die Stadt ist das wichtigste wirtschaftliche Zentrum der Region und dient als Tor zu den berühmten Tauchplätzen der Wracks aus dem Zweiten Weltkrieg.",
+      hu: "Weno a Mikronéziai Szövetségi Államok legnépesebb városa és Chuuk állam fővárosa. A város az azonos nevű szigeten fekszik a hatalmas Chuuk-lagúna területén. Weno a régió legfontosabb gazdasági központja, és kapuként szolgál a világhírű második világháborús roncsmerülő helyekhez.",
+      ro: "Weno este cel mai populat oraș din Statele Federate ale Microneziei și capitala statului Chuuk. Orașul este situat pe insula cu același nume în interiorul vastei lagune Chuuk. Este principalul centru economic al regiunii și servește ca poartă de acces către faimoasele locuri de scufundări la epavele din Al Doilea Război Mondial.",
+      en: "Weno is the most populous city in the Federated States of Micronesia and the capital of Chuuk State. It is situated on the island of the same name within the vast Chuuk Lagoon. The city serves as the primary economic hub of the region and is the main gateway to the world-famous WWII shipwreck diving sites.",
+    },
+    factsAdvanced: {
+      de: ["Weno hieß früher Moen und wurde nach der Insel benannt.", "Die Stadt hat eine Bevölkerung von über 13.800 Einwohnern.", "Hier befindet sich der Chuuk International Airport (TKK).", "Der Mount Winipot ist mit 443 Metern der höchste Punkt der Insel.", "Die Chuuk-Lagune beherbergt über 50 japanische Schiffswracks.", "Weno ist der wichtigste Umschlagplatz für Kopra in Chuuk."],
+      hu: ["Weno korábbi neve Moen volt, a sziget után elnevezve.", "A város lakossága meghaladja a 13 800 főt.", "Itt található a Chuuk nemzetközi repülőtér (TKK).", "A Mount Winipot 443 méteres magasságával a sziget legmagasabb pontja.", "A Chuuk-lagúnában több mint 50 japán hajóroncs található.", "Weno a kopra-kereskedelem legfontosabb központja Chuukban."],
+      ro: ["Weno a fost cunoscut anterior sub numele de Moen.", "Orașul are o populație de peste 13.800 de locuitori.", "Aici se află Aeroportul Internațional Chuuk (TKK).", "Muntele Winipot, de 443 metri, este cel mai înalt punct al insulei.", "Laguna Chuuk adăpostește peste 50 de epave japoneze.", "Weno este principalul punct de comerț pentru copră în statul Chuuk."],
+      en: ["Weno was previously known as Moen, named after the island.", "The city has a population exceeding 13,800 residents.", "It is home to the Chuuk International Airport (TKK).", "Mount Winipot is the island's highest point at 443 meters.", "The Chuuk Lagoon contains over 50 Japanese shipwreck sites.", "Weno is the primary hub for copra trade in Chuuk State."],
+    },
   },
   {
     id: "micronesia-kolonia-cities-v2",
@@ -57,6 +81,18 @@ export const micronesiaCitiesV2: POI[] = [
       en: ["Former German colonial town", "Features an old Spanish wall", "Center of Pohnpei State", "Near Pohnpei International Airport"],
     },
     imageHint: "Spanish Wall in Kolonia Pohnpei",
+    descriptionAdvanced: {
+      de: "Kolonia ist die Hauptstadt des Bundesstaates Pohnpei und war bis 1989 auch die Hauptstadt der Föderierten Staaten von Mikronesien. Die Stadt liegt an der Nordküste der Insel Pohnpei und blickt auf eine bewegte koloniale Vergangenheit zurück, die durch spanische, deutsche und japanische Einflüsse geprägt wurde. Heute ist sie das wichtigste urbane Zentrum der Insel.",
+      hu: "Kolonia Pohnpei állam fővárosa, és 1989-ig a Mikronéziai Szövetségi Államok fővárosa is volt. A város Pohnpei szigetének északi partján fekszik, és gazdag gyarmati múlttal rendelkezik, amelyre spanyol, német és japán hatások voltak jellemzőek. Ma a sziget legfontosabb városi központja.",
+      ro: "Kolonia este capitala statului Pohnpei și a fost, până în 1989, capitala Statelor Federate ale Microneziei. Orașul este situat pe coasta de nord a insulei Pohnpei și are o istorie colonială marcată de influențe spaniole, germane și japoneze. Astăzi, este cel mai important centru urban al insulei.",
+      en: "Kolonia is the capital of Pohnpei State and served as the national capital of the Federated States of Micronesia until 1989. Located on the northern coast of Pohnpei island, the city has a rich colonial history shaped by Spanish, German, and Japanese administrations. Today, it remains the most vital urban center on the island.",
+    },
+    factsAdvanced: {
+      de: ["Die Spanische Mauer wurde im Jahr 1887 erbaut.", "Kolonia hat eine Bevölkerung von etwa 6.000 Einwohnern.", "Die Stadt wurde im Zweiten Weltkrieg fast vollständig zerstört.", "Der Hafen von Kolonia ist der Haupthafen der Insel Pohnpei.", "Pohnpei International Airport liegt auf einer Insel vor Kolonia.", "Die Stadt beherbergt die Mehrheit der diplomatischen Vertretungen."],
+      hu: ["A spanyol falat 1887-ben építették a gyarmatosítók.", "Kolonia lakossága körülbelül 6000 főre tehető.", "A várost a második világháború alatt szinte teljesen lerombolták.", "Kolonia kikötője Pohnpei szigetének elsődleges kikötője.", "A nemzetközi repülőtér egy híddal összekötött kis szigeten van.", "A városban található a legtöbb külföldi diplomáciai képviselet."],
+      ro: ["Zidul Spaniol a fost construit de autorități în anul 1887.", "Kolonia are o populație de aproximativ 6.000 de locuitori.", "Orașul a fost aproape distrus complet în timpul celui de-al Doilea Război Mondial.", "Portul din Kolonia este principalul port maritim al insulei Pohnpei.", "Aeroportul Internațional Pohnpei este situat în apropierea orașului.", "Majoritatea misiunilor diplomatice străine se află în Kolonia."],
+      en: ["The Spanish Wall was constructed by colonial forces in 1887.", "Kolonia has a population of approximately 6,000 residents.", "The city was nearly completely destroyed during World War II.", "Kolonia's harbor serves as the primary seaport for Pohnpei island.", "Pohnpei International Airport is located on an islet nearby.", "The city hosts the majority of foreign diplomatic missions in the country."],
+    },
   },
   {
     id: "micronesia-colonia-yap-cities-v2",
@@ -76,6 +112,18 @@ export const micronesiaCitiesV2: POI[] = [
       en: ["Main town of Yap State", "Famous for Yapese stone money", "Port located on Chamorro Bay", "Founded during colonial times"],
     },
     imageHint: "Traditional stone money in Colonia Yap",
+    descriptionAdvanced: {
+      de: "Colonia ist die Hauptstadt des Bundesstaates Yap und das Verwaltungszentrum der vier Hauptinseln von Yap. Die Stadt liegt an der Ostküste der Insel Wa'ab und dient als wichtigster Hafen und wirtschaftlicher Knotenpunkt. Colonia bewahrt eine einzigartige Balance zwischen moderner Infrastruktur und den tief verwurzelten Traditionen der Yap-Kultur.",
+      hu: "Colonia Yap állam fővárosa és a négy fő Yap-sziget adminisztratív központja. A város Wa'ab szigetének keleti partján fekszik, és az állam elsődleges kikötőjeként és gazdasági csomópontjaként szolgál. Colonia egyedülálló egyensúlyt tart fenn a modern infrastruktúra és a mélyen gyökerező jap-kultúra között.",
+      ro: "Colonia este capitala statului Yap și centrul administrativ al celor patru insule principale Yap. Orașul este situat pe coasta de est a insulei Wa'ab și servește drept principal port și nod economic. Colonia păstrează un echilibru unic între infrastructura modernă și tradițiile profund înrădăcinate ale culturii Yap.",
+      en: "Colonia is the capital of Yap State and the administrative center for the four main islands of Yap. The city is situated on the eastern coast of Wa'ab island and serves as the primary seaport and economic hub. Colonia maintains a unique balance between modern infrastructure and the deeply rooted traditions of Yapese culture.",
+    },
+    factsAdvanced: {
+      de: ["Colonia hat eine Bevölkerung von etwa 3.100 Einwohnern.", "Die Stadt liegt an der Chamorro-Bucht.", "Hier befindet sich der Yap International Airport (YAP).", "Traditionelles Steingeld (Rai) wird in der Stadt oft ausgestellt.", "Die Stadt wurde während der deutschen Kolonialzeit ausgebaut.", "Yap ist bekannt als das Land des Steingeldes."],
+      hu: ["Colonia lakossága körülbelül 3100 főre tehető.", "A város a Chamorro-öböl partján fekszik.", "Itt található a Yap nemzetközi repülőtér (YAP).", "A hagyományos kőpénzek (Rai) gyakran láthatók a városban.", "A város jelentős fejlődésen ment keresztül a német gyarmati korban.", "Yap szigete világszerte a kőpénzek földjeként ismert."],
+      ro: ["Colonia are o populație de aproximativ 3.100 de locuitori.", "Orașul este situat pe malul golfului Chamorro.", "Aici se află Aeroportul Internațional Yap (YAP).", "Monedele tradiționale din piatră (Rai) sunt expuse în oraș.", "Orașul s-a dezvoltat semnificativ în perioada colonială germană.", "Yap este recunoscută la nivel mondial drept țara banilor de piatră."],
+      en: ["Colonia has a population of approximately 3,100 residents.", "The city is located along the shores of Chamorro Bay.", "It is home to the Yap International Airport (YAP).", "Traditional stone money (Rai) is frequently displayed in the city.", "The town was expanded during the German colonial administration.", "Yap is globally famous as the Land of Stone Money."],
+    },
   },
   {
     id: "micronesia-tofol-cities-v2",
@@ -95,6 +143,18 @@ export const micronesiaCitiesV2: POI[] = [
       en: ["Government seat of Kosrae", "Located within Lelu municipality", "Home to the Kosrae Museum", "Surrounded by lush mountains"],
     },
     imageHint: "Government buildings in Tofol Kosrae",
+    descriptionAdvanced: {
+      de: "Tofol ist die Hauptstadt des Bundesstaates Kosrae und liegt in der Gemeinde Lelu auf der Ostseite der Insel. Seit 1977 dient sie als Verwaltungszentrum und beherbergt die wichtigsten Regierungsgebäude, Schulen und Gesundheitseinrichtungen des Staates. Die Stadt ist von dichter tropischer Vegetation umgeben und bietet Zugang zum bergigen Inneren der Insel.",
+      hu: "Tofol Kosrae állam fővárosa, amely Lelu községben, a sziget keleti oldalán található. 1977 óta szolgál adminisztratív központként, itt találhatók az állam legfontosabb kormányzati épületei, iskolái és egészségügyi intézményei. A várost sűrű trópusi növényzet veszi körül, és kiindulópont a sziget hegyvidéki belseje felé.",
+      ro: "Tofol este capitala statului Kosrae, fiind situată în municipalitatea Lelu pe partea de est a insulei. Din 1977, servește drept centru administrativ, găzduind principalele clădiri guvernamentale, școli și facilități medicale. Orașul este înconjurat de vegetație tropicală densă și oferă acces către interiorul muntos al insulei.",
+      en: "Tofol is the capital of Kosrae State, located within the Lelu municipality on the eastern side of the island. Since 1977, it has served as the administrative center, housing the state's primary government buildings, schools, and healthcare facilities. The town is surrounded by dense tropical vegetation and provides access to the island's mountainous interior.",
+    },
+    factsAdvanced: {
+      de: ["Tofol wurde im Januar 1977 zum Regierungszentrum ernannt.", "Die Stadt liegt im Osten der Insel Kosrae.", "In Tofol befindet sich das Kosrae State Hospital.", "Die Stadt beherbergt das einzige Museum des Bundesstaates.", "Hier befindet sich die Kosrae High School.", "Tofol liegt in der Nähe der historischen Ruinen von Lelu."],
+      hu: ["Tofol 1977 januárjában lett a kormányzati központ.", "A város Kosrae szigetének keleti részén fekszik.", "Tofolban található a Kosrae Állami Kórház.", "Itt működik az állam egyetlen múzeuma.", "A város ad otthont a Kosrae Középiskolának.", "Tofol a történelmi Lelu-romok közelében található."],
+      ro: ["Tofol a devenit centrul guvernamental în ianuarie 1977.", "Orașul este situat în partea de răsărit a insulei Kosrae.", "În Tofol se află Spitalul de Stat din Kosrae.", "Orașul găzduiește singurul muzeu din statul Kosrae.", "Aici se află Liceul Kosrae (Kosrae High School).", "Tofol este situat în proximitatea ruinelor istorice Lelu."],
+      en: ["Tofol was established as the government center in January 1977.", "The town is located on the eastern part of Kosrae island.", "Tofol is home to the Kosrae State Hospital.", "The town hosts the state's only historical museum.", "The Kosrae High School is located within this municipality.", "Tofol is situated very close to the ancient ruins of Lelu."],
+    },
   },
   {
     id: "micronesia-lelu-cities-v2",
@@ -114,6 +174,18 @@ export const micronesiaCitiesV2: POI[] = [
       en: ["Ancient megalithic city", "Center of an early empire", "Built from coral blocks", "UNESCO World Heritage candidate"],
     },
     imageHint: "Megalithic ruins of Lelu Kosrae",
+    descriptionAdvanced: {
+      de: "Lelu ist eine historisch bedeutsame Stadt und Insel in Kosrae, die für ihre monumentalen prähistorischen Ruinen bekannt ist. Zwischen dem 13. und 19. Jahrhundert war sie das Zentrum einer komplexen hierarchischen Gesellschaft. Die Stadt ist heute durch einen künstlichen Damm mit der Hauptinsel verbunden und bleibt ein wichtiges kulturelles Zentrum.",
+      hu: "Lelu egy történelmileg jelentős város és sziget Kosrae-n, amely monumentális őskori romjairól ismert. A 13. és a 19. század között egy összetett hierarchikus társadalom központja volt. A várost ma egy mesterséges gát köti össze a főszigettel, és továbbra is fontos kulturális központ maradt.",
+      ro: "Lelu este un oraș și o insulă cu o importanță istorică deosebită în Kosrae, fiind celebră pentru ruinele sale preistorice monumentale. Între secolele al XIII-lea și al XIX-lea, a fost centrul unei societăți ierarhice complexe. Astăzi, orașul este legat de insula principală printr-un dig artificial, rămânând un centru cultural vital.",
+      en: "Lelu is a historically significant town and island in Kosrae, famous for its monumental prehistoric ruins. Between the 13th and 19th centuries, it served as the seat of a complex hierarchical society. The town is now connected to the main island by a causeway and remains a vital cultural hub of Kosraean heritage.",
+    },
+    factsAdvanced: {
+      de: ["Die Ruinen von Lelu wurden aus gewaltigen Basaltsäulen erbaut.", "Lelu war die Residenz des Königs von Kosrae (Tokosra).", "Die Mauern der Ruinen sind teilweise bis zu 6 Meter hoch.", "Die Anlage ist vergleichbar mit Nan Madol auf Pohnpei.", "Lelu hat eine Bevölkerung von etwa 2.100 Einwohnern.", "Die Stadt liegt auf einer kleinen Insel östlich von Kosrae."],
+      hu: ["A Lelu-romokat hatalmas bazaltoszlopokból építették.", "Lelu volt Kosrae királyának (Tokosra) a székhelye.", "A romok falai helyenként elérik a 6 méteres magasságot.", "A komplexum hasonlít a Pohnpei-szigeti Nan Madolhoz.", "Lelu lakossága körülbelül 2100 fő.", "A város egy kis szigeten fekszik Kosrae-tól keletre."],
+      ro: ["Ruinele Lelu au fost construite din coloane masive de bazalt.", "Lelu a fost reședința regelui din Kosrae (Tokosra).", "Zidurile ruinelor ating pe alocuri o înălțime de 6 metri.", "Complexul este comparabil cu Nan Madol de pe insula Pohnpei.", "Lelu are o populație de aproximativ 2.100 de locuitori.", "Orașul este situat pe o insulă mică la est de Kosrae."],
+      en: ["The Lelu ruins were constructed using massive basalt columns.", "Lelu served as the residence of the King of Kosrae (Tokosra).", "The walls of the ruins reach heights of up to 6 meters.", "The site is often compared to Nan Madol on Pohnpei island.", "Lelu has a population of approximately 2,100 residents.", "The town is located on a small island just east of Kosrae."],
+    },
   },
   {
     id: "micronesia-tol-cities-v2",
@@ -133,6 +205,18 @@ export const micronesiaCitiesV2: POI[] = [
       en: ["Highest point in Chuuk State", "Home to Mount Winipot", "Important agricultural area", "Accessible only by boat"],
     },
     imageHint: "Mount Winipot on Tol island Chuuk",
+    descriptionAdvanced: {
+      de: "Tol ist die größte Insel in der Faichuk-Gruppe innerhalb der Chuuk-Lagune und beherbergt die höchste Erhebung des Staates Chuuk. Die Gemeinde ist geprägt von dichten Wäldern und einer reichen Artenvielfalt, darunter seltene endemische Vögel. Die Wirtschaft basiert hauptsächlich auf der Landwirtschaft und der Fischerei zur Selbstversorgung.",
+      hu: "Tol a legnagyobb sziget a Chuuk-lagúnában található Faichuk-csoportban, és itt található Chuuk állam legmagasabb pontja. A közösséget sűrű erdők és gazdag biodiverzitás jellemzi, beleértve ritka endemikus madárfajokat is. A helyi gazdaság elsősorban a mezőgazdaságra és az önellátó halászatra épül.",
+      ro: "Tol este cea mai mare insulă din grupul Faichuk în cadrul lagunei Chuuk și găzduiește cel mai înalt punct al statului Chuuk. Municipalitatea este caracterizată de păduri dense și o biodiversitate bogată, incluzând specii rare de păsări endemice. Economia se bazează în principal pe agricultură și pescuit de subzistență.",
+      en: "Tol is the largest island in the Faichuk group within the Chuuk Lagoon and contains the highest point in Chuuk State. The municipality is characterized by dense forests and rich biodiversity, including rare endemic bird species. The economy is primarily based on subsistence agriculture and traditional fishing practices.",
+    },
+    factsAdvanced: {
+      de: ["Der Mount Winipot auf Tol ist 443 Meter hoch.", "Tol hat eine Bevölkerung von etwa 5.100 Einwohnern.", "Die Insel beherbergt den seltenen Chuuk-Monarchen.", "Sie gehört zum Verwaltungsbezirk Faichuk.", "Auf Tol gibt es bedeutende Taro- und Brotfruchtkulturen.", "Archäologische Stätten deuten auf frühe Besiedlung hin."],
+      hu: ["A Tol szigetén lévő Mount Winipot 443 méter magas.", "Tol lakossága körülbelül 5100 fő.", "A szigeten él a ritka chuuki császárlégykapó madár.", "A sziget a Faichuk közigazgatási kerülethez tartozik.", "Tol területén jelentős táró- és kenyérfa-ültetvények vannak.", "A régészeti lelőhelyek korai betelepülésre utalnak."],
+      ro: ["Muntele Winipot de pe insula Tol are o înălțime de 443 metri.", "Tol are o populație de aproximativ 5.100 de locuitori.", "Insula găzduiește pasărea rară numită Monarhul de Chuuk.", "Aparține districtului administrativ Faichuk.", "Pe Tol există culturi semnificative de taro și fructe de pâine.", "Situl arheologic indică prezența unei așezări timpurii."],
+      en: ["Mount Winipot on Tol island stands 443 meters tall.", "Tol has a population of approximately 5,100 residents.", "The island is home to the rare endemic Chuuk Monarch bird.", "It belongs to the Faichuk administrative district.", "Tol features significant taro and breadfruit plantations.", "Archaeological sites on the island indicate early human settlement."],
+    },
   },
   {
     id: "micronesia-fefan-cities-v2",
@@ -152,6 +236,18 @@ export const micronesiaCitiesV2: POI[] = [
       en: ["Third largest island in Chuuk", "Known for fruit cultivation", "Mountainous interior terrain", "Densely populated coastal areas"],
     },
     imageHint: "Fefan island tropical coastline Chuuk",
+    descriptionAdvanced: {
+      de: "Fefan ist die drittgrößte Insel in der Chuuk-Lagune und bekannt für ihr fruchtbares Land und ihre landwirtschaftliche Produktion. Sie liegt südlich von Weno und ist ein wichtiger Lieferant von Lebensmitteln für die regionale Hauptstadt. Die Insel bietet eine malerische Küstenlandschaft und traditionelle Dörfer, die die mikronesische Lebensweise bewahren.",
+      hu: "Fefan a harmadik legnagyobb sziget a Chuuk-lagúnában, és termékeny földjéről, valamint mezőgazdasági termeléséről ismert. Wenótól délre fekszik, és a regionális főváros fontos élelmiszerszállítója. A sziget festői tengerparti tájakkal és hagyományos falvakkal rendelkezik, amelyek őrzik a mikronéziai életmódot.",
+      ro: "Fefan este a treia insulă ca mărime din laguna Chuuk, fiind cunoscută pentru pământul său fertil și producția agricolă. Este situată la sud de Weno și este un furnizor important de hrană pentru capitala regională. Insula oferă peisaje de coastă pitorești și sate tradiționale care păstrează stilul de viață micronezian.",
+      en: "Fefan is the third-largest island in the Chuuk Lagoon, renowned for its fertile soil and agricultural output. Located south of Weno, it serves as a critical food supplier for the regional capital. The island features picturesque coastal scenery and traditional villages that preserve the authentic Micronesian way of life.",
+    },
+    factsAdvanced: {
+      de: ["Fefan hat eine Bevölkerung von etwa 3.400 Einwohnern.", "Die Insel gehört zur Gruppe der Southern Namoneas.", "Die höchste Erhebung auf Fefan beträgt 298 Meter.", "Fefan ist ein Hauptproduzent von Taro in Chuuk.", "Die Insel ist für ihre Korallenriffe bekannt.", "Es gibt regelmäßige Bootsverbindungen nach Weno."],
+      hu: ["Fefan lakossága körülbelül 3400 fő.", "A sziget a Southern Namoneas csoport tagja.", "Fefan legmagasabb pontja 298 méterrel van a tengerszint felett.", "Fefan Chuuk egyik legjelentősebb táró-termelője.", "A sziget körüli korallzátonyok népszerűek a búvárok körében.", "Weno városa rendszeres hajójáratokkal érhető el."],
+      ro: ["Fefan are o populație de aproximativ 3.400 de locuitori.", "Insula face parte din grupul Southern Namoneas.", "Cea mai înaltă altitudine de pe Fefan este de 298 metri.", "Fefan este un producător major de taro în statul Chuuk.", "Insula este renumită pentru recifele sale de corali.", "Există conexiuni regulate cu barca către orașul Weno."],
+      en: ["Fefan has a population of approximately 3,400 residents.", "The island is part of the Southern Namoneas group.", "The highest elevation on Fefan is 298 meters above sea level.", "Fefan is a primary producer of taro within Chuuk State.", "The island is known for its surrounding coral reefs.", "There are regular boat services connecting Fefan to Weno."],
+    },
   },
   {
     id: "micronesia-tonoas-cities-v2",
@@ -171,6 +267,18 @@ export const micronesiaCitiesV2: POI[] = [
       en: ["Former Japanese headquarters", "Many WWII historical remains", "Located in the Chuuk Lagoon", "Former administrative center"],
     },
     imageHint: "WWII remains on Tonoas island Chuuk",
+    descriptionAdvanced: {
+      de: "Tonoas, während der japanischen Ära als Dublon bekannt, war während des Zweiten Weltkriegs ein bedeutendes militärisches Hauptquartier. Die Insel liegt in der Chuuk-Lagune und beherbergt heute zahlreiche historische Überreste aus dieser Zeit. Trotz ihrer kriegerischen Vergangenheit ist sie heute ein ruhiger Ort mit einer starken Gemeinschaft.",
+      hu: "Tonoas, amelyet a japán korszakban Dublon néven ismertek, a második világháború alatt jelentős katonai főhadiszállás volt. A Chuuk-lagúnában található sziget ma számos ebből a korszakból származó történelmi maradványnak ad otthont. Hadi múltja ellenére ma egy csendes hely, erős közösségi élettel.",
+      ro: "Tonoas, cunoscut sub numele de Dublon în perioada japoneză, a fost un sediu militar major în timpul celui de-al Doilea Război Mondial. Insula este situată în laguna Chuuk și adăpostește numeroase vestigii istorice din acea epocă. În ciuda trecutului său militar, astăzi este o localitate liniștită cu o comunitate unită.",
+      en: "Tonoas, known as Dublon during the Japanese era, was a major military headquarters during World War II. Located in the Chuuk Lagoon, the island now hosts numerous historical remains from that period. Despite its wartime past, it is today a peaceful location with a strong sense of community and traditional culture.",
+    },
+    factsAdvanced: {
+      de: ["Tonoas hat eine Bevölkerung von etwa 3.200 Einwohnern.", "Im Zweiten Weltkrieg war hier ein japanisches Lazarett stationiert.", "Die Insel war ein Hauptziel der Operation Hailstone 1944.", "Heute sind noch Ruinen von Bunkern und Lagern zu sehen.", "Tonoas liegt südöstlich der Insel Weno.", "Die Wirtschaft basiert auf Fischerei und Landwirtschaft."],
+      hu: ["Tonoas lakossága körülbelül 3200 fő.", "A második világháborúban japán kórház működött itt.", "A sziget az 1944-es Hailstone-hadművelet egyik fő célpontja volt.", "Ma is láthatók bunkerek és katonai raktárak romjai.", "Tonoas Weno szigetétől délkeletre fekszik.", "A helyi gazdaság alapja a halászat és a mezőgazdaság."],
+      ro: ["Tonoas are o populație de aproximativ 3.200 de locuitori.", "În Al Doilea Război Mondial, aici a funcționat un spital japonez.", "Insula a fost o țintă majoră în Operațiunea Hailstone din 1944.", "Astăzi pot fi văzute ruine de buncăre și depozite militare.", "Tonoas este situată la sud-est de insula Weno.", "Economia se bazează pe pescuit și activități agricole."],
+      en: ["Tonoas has a population of approximately 3,200 residents.", "During WWII, it served as a site for a Japanese naval hospital.", "The island was a key target during Operation Hailstone in 1944.", "Ruins of bunkers and supply warehouses are still visible today.", "Tonoas is located to the southeast of Weno island.", "The local economy relies on fishing and subsistence farming."],
+    },
   },
   {
     id: "micronesia-nett-cities-v2",
@@ -190,6 +298,18 @@ export const micronesiaCitiesV2: POI[] = [
       en: ["Borders the town of Kolonia", "Home to hydroelectric plants", "Important suburb of the capital", "Part of Pohnpei State"],
     },
     imageHint: "Landscape of Nett municipality Pohnpei",
+    descriptionAdvanced: {
+      de: "Nett ist eine Gemeinde im Norden der Insel Pohnpei, die das Gebiet rund um die Hauptstadt Kolonia umschließt. Sie ist bekannt für ihre reiche Kultur und die traditionelle Herstellung von Sakau, einem zeremoniellen Getränk. Die Landschaft umfasst sowohl küstennahe Mangroven als auch üppige Regenwälder im Landesinneren.",
+      hu: "Nett egy község Pohnpei szigetének északi részén, amely körbeöleli a fővárost, Koloniát. Gazdag kultúrájáról és a sakau, egy ceremoniális ital hagyományos készítéséről ismert. A táj part menti mangroveerdőket és buja szárazföldi esőerdőket egyaránt magában foglal.",
+      ro: "Nett este o municipalitate din nordul insulei Pohnpei, care înconjoară zona capitalei Kolonia. Este cunoscută pentru cultura sa bogată și producția tradițională de sakau, o băutură ceremonială. Peisajul cuprinde atât mangrove de coastă, cât și păduri tropicale luxuriante în interior.",
+      en: "Nett is a municipality on the northern part of Pohnpei island, surrounding the capital area of Kolonia. It is well-known for its rich culture and the traditional production of sakau, a ceremonial beverage. The landscape includes both coastal mangroves and lush inland rainforests, offering diverse natural beauty.",
+    },
+    factsAdvanced: {
+      de: ["Nett hat eine Bevölkerung von etwa 6.600 Einwohnern.", "Der Nanpil-Fluss fließt durch dieses Gemeindegebiet.", "In Nett befindet sich das Nett Cultural Center.", "Die Gemeinde ist bekannt für ihre Sakau-Zeremonien.", "Nett grenzt direkt an die Hauptstadtgemeinde Kolonia.", "Hier befinden sich bedeutende Wasserkraftanlagen."],
+      hu: ["Nett lakossága körülbelül 6600 főre tehető.", "A Nanpil-folyó ezen a községterületen folyik keresztül.", "Nettben található a Nett Kulturális Központ.", "A közösség híres a hagyományos sakau-szertartásairól.", "Nett közvetlenül határos Kolonia fővárosi körzetével.", "Itt találhatók a sziget jelentős vízi erőművei."],
+      ro: ["Nett are o populație de aproximativ 6.600 de locuitori.", "Râul Nanpil traversează teritoriul acestei municipalități.", "În Nett se află Centrul Cultural Nett (Nett Cultural Center).", "Municipalitatea este renumită pentru ceremoniile sale de sakau.", "Nett se învecinează direct cu districtul capitalei Kolonia.", "Aici se află facilități importante de energie hidroelectrică."],
+      en: ["Nett has a population of approximately 6,600 residents.", "The Nanpil River flows through this municipal area.", "Nett is home to the Nett Cultural Center.", "The community is famous for its traditional sakau ceremonies.", "Nett directly borders the capital municipality of Kolonia.", "The area contains significant hydroelectric power facilities."],
+    },
   },
   {
     id: "micronesia-kitti-cities-v2",
@@ -209,6 +329,18 @@ export const micronesiaCitiesV2: POI[] = [
       en: ["Second largest municipality", "Famous for Nananhai Waterfall", "Traditional chiefdom area", "Dense mangrove forests"],
     },
     imageHint: "Waterfall in Kitti municipality Pohnpei",
+    descriptionAdvanced: {
+      de: "Kitti ist flächenmäßig die größte Gemeinde auf Pohnpei und liegt im Südwesten der Insel. Sie wird traditionell von einem Nahnmwarki (König) regiert und bewahrt ein hohes Maß an kultureller Autonomie. Kitti ist bekannt für seine unberührten Landschaften, hohen Wasserfälle und den Zugang zum spektakulären Ant-Atoll.",
+      hu: "Kitti Pohnpei legnagyobb területű községe, amely a sziget délnyugati részén fekszik. Hagyományosan egy Nahnmwarki (király) irányítja, és nagyfokú kulturális autonómiát őriz. Kitti érintetlen tájairól, magas vízeséseiről és a látványos Ant-atollhoz való közelségéről ismert.",
+      ro: "Kitti este cea mai mare municipalitate ca suprafață de pe Pohnpei, situată în sud-vestul insulei. Este condusă tradițional de un Nahnmwarki (rege) și păstrează un grad ridicat de autonomie culturală. Kitti este renumită pentru peisajele sale virgine, cascadele înalte și accesul către spectaculosul Atol Ant.",
+      en: "Kitti is the largest municipality by land area on Pohnpei, located in the southwestern part of the island. It is traditionally ruled by a Nahnmwarki (king) and maintains a high degree of cultural autonomy. Kitti is renowned for its pristine landscapes, high waterfalls, and access to the spectacular Ant Atoll.",
+    },
+    factsAdvanced: {
+      de: ["Kitti hat eine Bevölkerung von etwa 6.400 Einwohnern.", "Das Ant-Atoll gehört administrativ zur Gemeinde Kitti.", "Kitti war ein Zentrum früher missionarischer Tätigkeiten.", "In Kitti befinden sich einige der höchsten Berge Pohnpeis.", "Die Gemeinde ist für ihren Reichtum an Sakau bekannt.", "Hier liegen bedeutende historische Pfade der Insel."],
+      hu: ["Kitti lakossága körülbelül 6400 fő.", "Az Ant-atoll közigazgatásilag Kitti községhez tartozik.", "Kitti a korai misszionáriusi tevékenységek központja volt.", "Kittiben találhatók Pohnpei legmagasabb hegyeinek egyes csúcsai.", "A közösség híres a bőséges sakau-termeléséről.", "Itt találhatók a sziget jelentős történelmi ösvényei."],
+      ro: ["Kitti are o populație de aproximativ 6.400 de locuitori.", "Atolul Ant aparține administrativ de municipalitatea Kitti.", "Kitti a fost un centru pentru activitățile misionare timpurii.", "În Kitti se află unele dintre cele mai înalte vârfuri din Pohnpei.", "Municipalitatea este cunoscută pentru abundența de sakau.", "Aici se găsesc poteci istorice importante ale insulei."],
+      en: ["Kitti has a population of approximately 6,400 residents.", "The Ant Atoll is administratively part of the Kitti municipality.", "Kitti was a major center for early missionary activities.", "Some of Pohnpei's highest mountain peaks are located in Kitti.", "The municipality is known for its abundant sakau production.", "The area contains significant historical trails used for centuries."],
+    },
   },
   {
     id: "micronesia-madolenihmw-cities-v2",
@@ -228,6 +360,18 @@ export const micronesiaCitiesV2: POI[] = [
       en: ["Home to Nan Madol ruins", "Largest municipality on island", "Historical center of power", "UNESCO World Heritage site"],
     },
     imageHint: "Nan Madol ruins in Madolenihmw Pohnpei",
+    descriptionAdvanced: {
+      de: "Madolenihmw ist eine Gemeinde auf der Insel Pohnpei im Bundesstaat Pohnpei der Föderierten Staaten von Mikronesien. Es ist flächenmäßig die größte Gemeinde der Insel und beherbergt die antike Stadt Nan Madol. Die Region ist bekannt für ihre dichte Vegetation und die bergige Landschaft des Inneren von Pohnpei.",
+      hu: "Madolenihmw egy község Pohnpei szigetén, Mikronézia Szövetségi Államaiban. Területileg ez a legnagyobb község a szigeten, és itt található a híres Nan Madol romvárosa. A vidék gazdag trópusi növényzetéről és a sziget belseje felé magasodó hegyvidéki tájairól ismert.",
+      ro: "Madolenihmw este o municipalitate de pe insula Pohnpei, situată în Statele Federale ale Microneziei. Este cea mai mare municipalitate a insulei ca suprafață și găzduiește situl arheologic Nan Madol. Regiunea se caracterizează printr-o vegetație densă și un relief muntos în interiorul insulei.",
+      en: "Madolenihmw is a municipality on the island of Pohnpei in the Federated States of Micronesia. It is the largest municipality on the island by land area and contains the ancient city of Nan Madol. The region is known for its dense tropical vegetation and the mountainous terrain of Pohnpei's interior.",
+    },
+    factsAdvanced: {
+      de: ["Es liegt an der Ostküste der Insel Pohnpei.", "Die Gemeinde umfasst eine Landfläche von etwa 186 Quadratkilometern.", "Beherbergt Nan Madol, eine UNESCO-Welterbestätte.", "Der Berg Finkol, der höchste Punkt Pohnpeis, liegt in der Nähe.", "Die Bevölkerung betrug bei der Volkszählung 2010 etwa 5.700 Personen.", "Die Gemeinde umfasst mehrere vorgelagerte Inseln und Küstenmangroven."],
+      hu: ["Pohnpei szigetének keleti oldalán található.", "Szárazföldi területe körülbelül 186 négyzetkilométer.", "Itt található Nan Madol, amely az UNESCO Világörökség része.", "A közelben van a Finkol-hegy, Pohnpei legmagasabb pontja.", "A lakosság száma a 2010-es népszámláláskor körülbelül 5700 fő volt.", "A községhez több part menti sziget és mangroveerdő tartozik."],
+      ro: ["Este situată pe partea de est a insulei Pohnpei.", "Acoperă o suprafață de teren de aproximativ 186 de kilometri pătrați.", "Găzduiește Nan Madol, un sit aflat în patrimoniul mondial UNESCO.", "Muntele Finkol, cel mai înalt punct din Pohnpei, se află în apropiere.", "Populația era de aproximativ 5.700 de locuitori la recensământul din 2010.", "Municipalitatea include mai multe insulițe de coastă și mangrove."],
+      en: ["Located on the eastern side of Pohnpei island.", "It covers a land area of approximately 186 square kilometers.", "Home to Nan Madol, a UNESCO World Heritage site.", "Mount Finkol, the highest point in Pohnpei, is located nearby.", "The population was approximately 5,700 in the 2010 census.", "The municipality includes several offshore islets and coastal mangroves."],
+    },
   },
   {
     id: "micronesia-sokehs-cities-v2",
@@ -247,6 +391,18 @@ export const micronesiaCitiesV2: POI[] = [
       en: ["Site of the Sokehs Rebellion", "Features the Sokehs Rock", "Contains the capital Palikir", "Popular hiking destination"],
     },
     imageHint: "Sokehs Rock in Pohnpei Micronesia",
+    descriptionAdvanced: {
+      de: "Sokehs ist eine Gemeinde auf Pohnpei, die vor allem für den markanten Sokehs Rock bekannt ist. Das Gebiet umfasst die Sokehs-Halbinsel und Teile des Festlandes im Nordwesten der Insel. Während der deutschen Kolonialzeit war es Schauplatz des Sokehs-Aufstands im Jahr 1910.",
+      hu: "Sokehs egy község Pohnpei szigetén, amely legismertebb jelképe a Sokehs-szikla. A terület magában foglalja a Sokehs-félszigetet és a sziget északnyugati részét. A német gyarmati uralom idején, 1910-ben itt zajlott a sokehs-i felkelés a helyi lakosok és a hatóságok között.",
+      ro: "Sokehs este o municipalitate din Pohnpei, renumită pentru Sokehs Rock, o formațiune stâncoasă proeminentă. Teritoriul cuprinde peninsula Sokehs și zone din nord-vestul insulei. În perioada colonială germană, a fost locul rebeliunii Sokehs din anul 1910.",
+      en: "Sokehs is a municipality in Pohnpei, most famous for the prominent Sokehs Rock landmark. The area encompasses the Sokehs Peninsula and parts of the northwestern main island. During the German colonial period, it was the site of the Sokehs Rebellion in 1910 against the administration.",
+    },
+    factsAdvanced: {
+      de: ["Sokehs Rock ist eine Basaltklippe, die etwa 190 Meter über den Meeresspiegel ragt.", "Der Sokehs-Aufstand fand zwischen 1910 und 1911 statt.", "Es grenzt an Kolonia, die ehemalige Bundeshauptstadt.", "Die Gemeinde umfasst mehrere Küstendörfer und landwirtschaftliche Flächen.", "Die Bevölkerung wurde 2010 mit etwa 6.600 Einwohnern angegeben.", "Historische Überreste aus der japanischen Ära befinden sich auf dem Sokehs-Rücken."],
+      hu: ["A Sokehs-szikla egy bazaltszikla, amely 190 méterrel emelkedik a tengerszint fölé.", "A sokehs-i felkelés 1910 és 1911 között zajlott.", "Határos Koloniával, a korábbi nemzeti fővárossal.", "A község több part menti falut és mezőgazdasági területet foglal magában.", "A lakosság száma 2010-ben nagyjából 6600 fő volt.", "A japán korszakból származó történelmi maradványok találhatók a Sokehs-gerincen."],
+      ro: ["Sokehs Rock este o faleză de bazalt care se ridică la aproximativ 190 de metri deasupra mării.", "Rebeliunea Sokehs a avut loc între anii 1910 și 1911.", "Se învecinează cu Kolonia, fosta capitală națională.", "Municipalitatea include mai multe sate de coastă și terenuri agricole.", "Populația a fost înregistrată la aproximativ 6.600 de locuitori în 2010.", "Rămășițe istorice din epoca japoneză pot fi găsite pe creasta Sokehs."],
+      en: ["Sokehs Rock is a basalt cliff rising about 190 meters above sea level.", "The Sokehs Rebellion took place between 1910 and 1911.", "It borders Kolonia, the former national capital.", "The municipality includes several coastal villages and agricultural lands.", "Population was recorded at roughly 6,600 inhabitants in 2010.", "Historical remains from the Japanese era can be found on the Sokehs Ridge."],
+    },
   },
   {
     id: "micronesia-tafunsak-cities-v2",
@@ -266,5 +422,17 @@ export const micronesiaCitiesV2: POI[] = [
       en: ["Largest settlement on Kosrae", "Home to Kosrae International Airport", "Known for sandy beaches", "Northernmost municipality"],
     },
     imageHint: "Sandy beach in Tafunsak Kosrae",
+    descriptionAdvanced: {
+      de: "Tafunsak ist die größte Gemeinde im Bundesstaat Kosrae und liegt im Nordwesten der Insel. Der Ort beherbergt den internationalen Flughafen von Kosrae und wichtige Infrastruktureinrichtungen. Die Küstenregion ist durch Sandstrände und ausgedehnte Korallenriffe geprägt.",
+      hu: "Tafunsak Kosrae állam legnagyobb községe, amely a sziget északnyugati részén fekszik. Itt található Kosrae nemzetközi repülőtere és több fontos infrastrukturális létesítmény. A part menti területeket homokos strandok és kiterjedt korallzátonyok jellemzik.",
+      ro: "Tafunsak este cea mai mare municipalitate din statul Kosrae, situată în partea de nord-vest a insulei. Găzduiește Aeroportul Internațional Kosrae și diverse facilități de infrastructură esențiale. Regiunea de coastă este marcată de plaje cu nisip și recife de corali extinse.",
+      en: "Tafunsak is the largest municipality in the state of Kosrae, located in the northwestern part of the island. It is home to the Kosrae International Airport and significant infrastructure facilities. The coastal area is characterized by sandy beaches and extensive coral reefs surrounding the island.",
+    },
+    factsAdvanced: {
+      de: ["Tafunsak umfasst fast die Hälfte der Landfläche des Bundesstaates Kosrae.", "Der Kosrae International Airport wurde auf einer aufgeschütteten Riff-Fläche gebaut.", "Die Gemeinde hatte im Jahr 2010 etwa 2.100 Einwohner.", "Es umfasst das Dorf Walung, eines der entlegensten auf der Insel.", "Der Name Tafunsak bedeutet in der Landessprache Kosraean halber Wald.", "Der Yela Ka Wald, ein geschütztes Biosphärenreservat, liegt in seinen Grenzen."],
+      hu: ["Tafunsak Kosrae állam szárazföldi területének majdnem felét lefedi.", "A Kosrae nemzetközi repülőteret egy feltöltött zátonyterületre építették.", "A község lakossága 2010-ben körülbelül 2100 fő volt.", "Magában foglalja Walung falut, amely a sziget egyik legtávolabbi települése.", "A Tafunsak név helyi kosraei nyelven fél erdőt jelent.", "Határain belül található a Yela Ka erdő, amely védett bioszféra-rezervátum."],
+      ro: ["Tafunsak acoperă aproape jumătate din suprafața terestră a statului Kosrae.", "Aeroportul Internațional Kosrae a fost construit pe o zonă de recif recuperată.", "Municipalitatea avea o populație de aproximativ 2.100 de persoane în 2010.", "Include satul Walung, unul dintre cele mai izolate de pe insulă.", "Numele Tafunsak înseamnă jumătate de pădure în limba locală kosraeană.", "Pădurea Yela Ka, o rezervație de biosferă protejată, se află în interiorul granițelor sale."],
+      en: ["Tafunsak covers nearly half of the land area of Kosrae state.", "Kosrae International Airport (KSA) was built on a reclaimed reef area.", "The municipality had a population of about 2,100 people in 2010.", "It includes the village of Walung, one of the most remote on the island.", "The name Tafunsak means half a forest in the local Kosraean language.", "The Yela Ka Forest, a protected biosphere reserve, is located within its borders."],
+    },
   }
 ];

@@ -25,7 +25,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["1881-ben alapították.", "Guinness-rekorder a fehér márványépületek száma miatt."],
       ro: ["Fondat în 1881.", "Deține recordul Guinness pentru cele mai multe clădiri din marmură albă."],
       en: ["Founded in 1881.", "Holds a Guinness World Record for the most white marble buildings."]
-    }, image: "/poi-images/tm-ashgabat-cities-v2.webp"},
+    }, image: "/poi-images/tm-ashgabat-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1881 als russische Festung", "Zerstörung durch das Erdbeben von 1948 (Stärke 7,3)", "Weltrekord für die höchste Dichte an weißem Marmor", "Sitz des monumentalen Neutralitätsbogens (95 Meter hoch)", "Anbindung an die strategische Transkaspische Eisenbahn", "Bevölkerung überschreitet die Marke von einer Million"],
+      hu: ["1881-ben alapították orosz katonai erődként", "Az 1948-as földrengés (7,3-as erősség) szinte teljesen elpusztította", "Világrekord a fehér márvánnyal borított épületek sűrűségében", "Itt található a 95 méter magas Semlegesség íve", "A stratégiai fontosságú transzkaszpi vasútvonal egyik állomása", "Népessége meghaladja az egymillió főt"],
+      ro: ["Fondat în anul 1881 ca fortăreață rusă", "Distrus aproape complet de cutremurul din 1948 (magnitudine 7,3)", "Record mondial pentru cea mai mare densitate de marmură albă", "Găzduiește Arcul Neutralității, înalt de 95 de metri", "Conectat la calea ferată strategică Transcaspică", "Populația depășește pragul de un milion de locuitori"],
+      en: ["Founded in the year 1881 as a Russian fortress", "Destroyed by the 1948 earthquake (magnitude 7.3)", "World record for the highest density of white marble buildings", "Home to the monumental 95-meter-high Arch of Neutrality", "Connected to the strategic Trans-Caspian Railway", "The population exceeds the one million mark"],
+    },
+  },
   {
     id: "tm-turkmenabat-cities-v2",
     type: "city",
@@ -50,7 +57,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábban Csardzsou néven volt ismert.", "Fontos ipari központ."],
       ro: ["Cunoscut anterior ca Chardzhou.", "Important centru industrial."],
       en: ["Formerly known as Chardzhou.", "Important industrial center."]
-    }, image: "/poi-images/tm-turkmenabat-cities-v2.webp"},
+    }, image: "/poi-images/tm-turkmenabat-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadt hieß bis 1999 offiziell Tschardschou", "Türkmenabat liegt am linken Ufer des Amudarja", "Wichtiger Knotenpunkt der Transkaspischen Eisenbahn", "Zentrum der turkmenischen Seiden- und Baumwollindustrie", "Das Repetek-Biosphärenreservat liegt 70 km entfernt", "Die erste Eisenbahnbrücke wurde 1888 fertiggestellt"],
+      hu: ["A város 1999-ig hivatalosan a Csardzsou nevet viselte", "Türkmenabat az Amu-darja bal partján helyezkedik el", "A transzkaszpi vasútvonal egyik kulcsfontosságú állomása", "A türkmén selyem- és pamutipar központja", "A Repetek bioszféra-rezervátum 70 km-re található", "Az első vasúti hidat 1888-ban adták át"],
+      ro: ["Orașul s-a numit oficial Chardzhou până în anul 1999", "Türkmenabat este situat pe malul stâng al fluviului Amu Darya", "Punct de legătură crucial al căii ferate Transcaspice", "Centru al industriei de mătase și bumbac din Turkmenistan", "Rezervația Biosferei Repetek se află la 70 km distanță", "Primul pod feroviar a fost finalizat în anul 1888"],
+      en: ["The city was officially named Chardzhou until 1999", "Türkmenabat is located on the left bank of the Amu Darya", "Key junction of the strategic Trans-Caspian Railway", "Center of the Turkmen silk and cotton industries", "The Repetek Biosphere State Reserve is 70 km away", "The first railway bridge was completed in 1888"],
+    },
+  },
   {
     id: "tm-dasoguz-cities-v2",
     type: "city",
@@ -75,7 +89,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Daşoguz tartomány közigazgatási központja.", "Az üzbég határ közelében fekszik."],
       ro: ["Centrul administrativ al regiunii Dașoguz.", "Situat aproape de granița cu Uzbekistan."],
       en: ["Administrative center of Daşoguz Region.", "Located near the border with Uzbekistan."]
-    }, image: "/poi-images/tm-dasoguz-cities-v2.webp"},
+    }, image: "/poi-images/tm-dasoguz-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1818 als russische Festung", "Verwaltungszentrum der Provinz Daşoguz im Norden", "Köneürgenç (UNESCO-Erbe) liegt 100 km nordwestlich", "Wichtiger Transitpunkt an der Grenze zu Usbekistan", "Zentrum des regionalen Baumwollanbaus und -handels", "Die Stadt hieß während der Sowjetzeit Taschaus"],
+      hu: ["1818-ban alapították orosz erődítményként", "Az északi Daşoguz tartomány közigazgatási központja", "Kunya-Urgencs (UNESCO helyszín) 100 km-re északnyugatra van", "Fontos tranzitpont az üzbég határ mentén", "A regionális gyapottermesztés és -kereskedelem központja", "A szovjet időszakban a város neve Tasauz volt"],
+      ro: ["Fondat în anul 1818 ca fortăreață rusă", "Centrul administrativ al provinciei Daşoguz din nord", "Köneürgenç (patrimoniu UNESCO) se află la 100 km nord-vest", "Punct de tranzit vital la granița cu Uzbekistanul", "Centru al culturii și comerțului regional cu bumbac", "Orașul s-a numit Tashauz în timpul perioadei sovietice"],
+      en: ["Founded in the year 1818 as a Russian fortress", "Administrative center of the northern Daşoguz Province", "Köneürgenç (UNESCO site) is 100 km to the northwest", "Critical transit point on the border with Uzbekistan", "Center of regional cotton farming and trade", "The city was named Tashauz during the Soviet era"],
+    },
+  },
   {
     id: "tm-mary-cities-v2",
     type: "city",
@@ -100,7 +121,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["1884-ben alapították.", "A gyapotipar egyik központja."],
       ro: ["Fondat în 1884.", "Un centru al industriei bumbacului."],
       en: ["Founded in 1884.", "A center for the cotton industry."]
-    }, image: "/poi-images/tm-mary-cities-v2.webp"},
+    }, image: "/poi-images/tm-mary-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadt hieß bis 1937 offiziell Merw", "Mary liegt unweit der UNESCO-Welterbestätte Alt-Merw", "Zentrum der Gasförderung des Galkynysch-Feldes", "Die Stadt liegt am Ufer des Murgab-Flusses", "Beherbergt das größte Gaskraftwerk Turkmenistans", "Gegründet im Jahr 1884 nach der Eroberung durch Russland"],
+      hu: ["A város 1937-ig hivatalosan a Merv nevet viselte", "Mary az UNESCO Világörökség részét képező ősi Merv mellett fekszik", "A Galkynys földgázmező kitermelésének központja", "A város a Murgab folyó partján terül el", "Itt található Türkmenisztán legnagyobb gázerőműve", "1884-ben alapították, az orosz hódítás után"],
+      ro: ["Orașul s-a numit oficial Merv până în anul 1937", "Mary se află lângă situl UNESCO Mervul Antic", "Centru al extracției de gaze din zăcământul Galkynysh", "Orașul este situat pe malurile râului Murgab", "Găzduiește cea mai mare centrală electrică pe gaz din țară", "Fondat în anul 1884 după cucerirea rusă"],
+      en: ["The city was officially named Merv until 1937", "Mary is located near the UNESCO World Heritage site of Ancient Merv", "Center for gas extraction from the Galkynysh field", "The city is situated on the banks of the Murgab River", "Home to the largest gas-fired power plant in Turkmenistan", "Founded in 1884 following the Russian conquest"],
+    },
+  },
   {
     id: "tm-balkanabat-cities-v2",
     type: "city",
@@ -125,7 +153,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábban Nebit-Dag néven ismerték.", "A Nagy-Balkán-hegység lábánál fekszik."],
       ro: ["Cunoscut anterior ca Nebit-Dag.", "Situat la poalele Munților Balcani Mari."],
       en: ["Formerly known as Nebit-Dag.", "Located at the foot of the Great Balkan mountain range."]
-    }, image: "/poi-images/tm-balkanabat-cities-v2.webp"},
+    }, image: "/poi-images/tm-balkanabat-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadt wurde im Jahr 1933 gegründet", "Balkanabat hieß bis 1999 Nebit-Dag", "Verwaltungszentrum der rohstoffreichen Provinz Balkan", "Gelegen am Fuße der Großen Balkan-Berge", "Hauptzentrum der Erdölförderung im Westen des Landes", "Wichtiger Halt an der Transkaspischen Eisenbahn"],
+      hu: ["A várost 1933-ban alapították", "Balkanabat 1999-ig a Nebit-Dag nevet viselte", "A nyersanyagokban gazdag Balkan tartomány központja", "A Nagy-Balkán-hegység lábánál helyezkedik el", "Az ország nyugati részének kőolaj-kitermelési központja", "A transzkaszpi vasútvonal egyik fontos megállója"],
+      ro: ["Orașul a fost fondat în anul 1933", "Balkanabat s-a numit Nebit-Dag până în anul 1999", "Centrul administrativ al provinciei Balkan, bogată în resurse", "Situat la poalele munților Marele Balkan", "Principalul centru de extracție a petrolului din vestul țării", "Oprește importantă pe calea ferată Transcaspică"],
+      en: ["The city was founded in the year 1933", "Balkanabat was named Nebit-Dag until 1999", "Administrative center of the resource-rich Balkan Province", "Located at the foot of the Greater Balkan Mountains", "Primary center for petroleum extraction in western Turkmenistan", "Important stop on the strategic Trans-Caspian Railway"],
+    },
+  },
   {
     id: "tm-bayramaly-cities-v2",
     type: "city",
@@ -150,7 +185,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Népszerű gyógyhely.", "A közelben történelmi romok találhatók."],
       ro: ["Stațiune balneară populară.", "Ruine istorice sunt situate în apropiere."],
       en: ["Popular health resort.", "Historical ruins are located nearby."]
-    }, image: "/poi-images/tm-bayramaly-cities-v2.webp"},
+    }, image: "/poi-images/tm-bayramaly-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadt liegt nur wenige Kilometer von Alt-Merw entfernt", "Baýramaly ist ein berühmter Kurort für Nierenerkrankungen", "Das örtliche Sanatorium wurde im Jahr 1933 eröffnet", "Entwicklung im 19. Jahrhundert um eine Zarenresidenz", "Wichtiger Standort für die Baumwollverarbeitung", "Die Stadt liegt an der Transkaspischen Eisenbahn"],
+      hu: ["A város mindössze néhány kilométerre fekszik ősi Mervtől", "Baýramaly híres gyógyhely a vesebetegségek kezelésére", "A helyi szanatóriumot 1933-ban nyitották meg", "A 19. században egy cári rezidencia körül alakult ki", "A gyapotfeldolgozás egyik fontos regionális központja", "A város a transzkaszpi vasútvonal mentén fekszik"],
+      ro: ["Orașul este situat la doar câțiva kilometri de Mervul Antic", "Baýramaly este o stațiune renumită pentru bolile renale", "Sanatoriul local a fost deschis în anul 1933", "Dezvoltat în secolul al XIX-lea în jurul unei reședințe țariste", "Locație importantă pentru prelucrarea bumbacului", "Orașul este situat pe ruta căii ferate Transcaspice"],
+      en: ["The city is located only a few kilometers from Ancient Merv", "Baýramaly is a famous spa resort for treating kidney diseases", "The local sanatorium was opened in the year 1933", "Developed in the 19th century around a Tsarist residence", "Important location for regional cotton processing", "The city is situated along the Trans-Caspian Railway"],
+    },
+  },
   {
     id: "tm-turkmenbasy-cities-v2",
     type: "city",
@@ -175,7 +217,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábbi neve Krasznovodszk volt.", "Az Awaza turisztikai övezetről ismert."],
       ro: ["Numit anterior Krasnovodsk.", "Cunoscut pentru zona turistică Awaza."],
       en: ["Formerly named Krasnovodsk.", "Known for the Awaza tourist zone."]
-    }, image: "/poi-images/tm-turkmenbasy-cities-v2.webp"},
+    }, image: "/poi-images/tm-turkmenbasy-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadt wurde im Jahr 1869 gegründet", "Türkmenbaşy hieß bis 1993 Krasnowodsk", "Einziger großer Seehafen Turkmenistans am Kaspischen Meer", "Beherbergt die größte Erdölraffinerie des Landes", "Westlicher Endpunkt der Transkaspischen Eisenbahn", "Die nahegelegene Awaza-Zone ist ein modernes Touristenzentrum"],
+      hu: ["A várost 1869-ben alapították", "Türkmenbaşy 1993-ig a Krasznovodszk nevet viselte", "Türkmenisztán egyetlen nagy tengeri kikötője a Kaszpi-tengeren", "Itt található az ország legnagyobb kőolajfinomítója", "A transzkaszpi vasútvonal nyugati végpontja", "A közeli Awaza-zóna egy modern turisztikai központ"],
+      ro: ["Orașul a fost fondat în anul 1869", "Türkmenbaşy s-a numit Krasnovodsk până în anul 1993", "Singurul port maritim major al Turkmenistanului la Marea Caspică", "Găzduiește cea mai mare rafinărie de petrol din țară", "Punctul terminal vestic al căii ferate Transcaspice", "Zona Awaza din apropiere este un centru turistic modern"],
+      en: ["The city was founded in the year 1869", "Türkmenbaşy was named Krasnovodsk until 1993", "Turkmenistan's only major seaport on the Caspian Sea", "Home to the largest oil refinery in the country", "Western terminus of the Trans-Caspian Railway", "The nearby Awaza zone is a modern tourist center"],
+    },
+  },
   {
     id: "tm-tejen-cities-v2",
     type: "city",
@@ -200,7 +249,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["A Tejen folyóról ismert.", "A dinnyetermesztés központja."],
       ro: ["Cunoscut pentru râul Tejen.", "Centru al producției de pepeni."],
       en: ["Known for the Tejen River.", "Center of melon production."]
-    }, image: "/poi-images/tm-tejen-cities-v2.webp"},
+    }, image: "/poi-images/tm-tejen-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadt liegt am Fluss Tejen am Rand der Karakum", "Wichtiger Knotenpunkt der Bahnlinie nach Iran (seit 1996)", "Zentrum der regionalen Textil- und Baumwollindustrie", "Gelegen an der Hauptstrecke der Transkaspischen Eisenbahn", "Die Region ist bekannt für ihre Melonenproduktion", "Die Tejen-Oase ist seit Jahrtausenden besiedelt"],
+      hu: ["A város a Tejen folyó mentén, a Karakum szélén fekszik", "Az Iránba vezető vasútvonal fontos csomópontja 1996 óta", "A regionális textil- és gyapotipar központja", "A transzkaszpi vasútvonal fővonalán helyezkedik el", "A régió nevezetes a dinnyetermesztéséről", "A Tejen-oázis évezredek óta lakott terület"],
+      ro: ["Orașul este situat pe râul Tejen la marginea Karakum", "Nod feroviar crucial către Iran (din anul 1996)", "Centru al industriei regionale de textile și bumbac", "Situat pe ruta principală a căii ferate Transcaspice", "Regiunea este renumită pentru producția de pepeni", "Oaza Tejen a fost locuită timp de milenii"],
+      en: ["The city is located on the Tejen River at the Karakum edge", "Key junction of the railway line to Iran (since 1996)", "Center of the regional textile and cotton industries", "Situated on the main line of the Trans-Caspian Railway", "The region is well-known for its melon production", "The Tejen oasis has been settled for thousands of years"],
+    },
+  },
   {
     id: "tm-abadan-cities-v2",
     type: "city",
@@ -225,7 +281,13 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábban Abadan néven ismerték.", "Egy nagy erőmű található itt."],
       ro: ["Cunoscut anterior ca Abadan.", "Locația unei mari centrale electrice."],
       en: ["Formerly known as Abadan.", "Location of a major power plant."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Die Stadt hieß bis 2002 offiziell Bezmein", "Ab 2002 wurde sie in Abadan umbenannt", "Heute ist Büzmeýin ein Stadtteil von Aşgabat", "Sitz eines der größten Gaskraftwerke Turkmenistans", "Schwere Explosionskatastrophe im Jahr 2011", "Gelegen an der Transkaspischen Eisenbahnlinie"],
+      hu: ["A város 2002-ig hivatalosan a Bezmein nevet viselte", "2002-ben nevezték át Abadanra", "Ma Büzmeýin Aşgabat egyik városrésze", "Itt működik Türkmenisztán egyik legnagyobb gázerőműve", "Súlyos robbanásos katasztrófa történt 2011-ben", "A transzkaszpi vasútvonal mentén helyezkedik el"],
+      ro: ["Orașul s-a numit oficial Bezmein până în anul 2002", "În 2002 a fost redenumit în Abadan", "Astăzi Büzmeýin este un district al orașului Ashgabat", "Găzduiește una dintre cele mai mari centrale pe gaz din țară", "Catastrofă majoră prin explozie în anul 2011", "Situat pe linia căii ferate Transcaspice"],
+      en: ["The city was officially named Bezmein until 2002", "In 2002, it was renamed Abadan", "Today, Büzmeýin is a district of the capital, Ashgabat", "Home to one of the largest gas power plants in Turkmenistan", "Site of a major ammunition depot explosion in 2011", "Located along the strategic Trans-Caspian Railway line"],
+    },
   },
   {
     id: "tm-magdanly-cities-v2",
@@ -251,7 +313,13 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábban Gaurdak néven ismerték.", "A kéntermelés központja."],
       ro: ["Cunoscut anterior ca Gaurdak.", "Centrul producției de sulf."],
       en: ["Formerly called Gaurdak.", "Center for sulfur production."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Umbenennung von Gowurdak in Magdanly im Jahr 2002", "Liegt in der Provinz Lebap im Südosten Turkmenistans", "Zentrum der turkmenischen Schwefelgewinnung und Chemieindustrie", "Tor zum Köýtendag-Naturreservat mit Dinosaurierfährten", "Befindet sich in unmittelbarer Nähe zur Grenze zu Usbekistan", "Wichtige Bahnverbindung für den Transport von Bodenschätzen"],
+      hu: ["2002-ben nevezték át Gowurdakról Magdanlyra", "Lebap tartomány délkeleti csücskében található", "A kénbányászat és a vegyipar országos központja", "Közeli látnivaló a Köýtendag-hegység Dinoszaurusz-fennsíkja", "Közel fekszik az üzbég és az afgán államhatárhoz", "Jelentős kálium-karbonát feldolgozó üzemek működnek itt"],
+      ro: ["Orașul a fost redenumit din Gowurdak în Magdanly în 2002", "Situat în provincia Lebap, aproape de granița cu Afganistan", "Centru principal pentru extracția sulfului în Turkmenistan", "Punct de plecare spre Rezervația Naturală Köýtendag", "Economia se bazează pe industria chimică și minieră", "Găzduiește unități de producție pentru îngrășăminte minerale"],
+      en: ["Renamed from Gowurdak to Magdanly in the year 2002", "Located in Lebap Province near the Uzbekistan border", "Primary center for sulfur mining and chemical production", "Gateway to the Köýtendag Nature Reserve and its caves", "The city name translates to the place of minerals", "Key site for the production of potash and mineral salts"],
+    },
   },
   {
     id: "tm-kerki-cities-v2",
@@ -277,7 +345,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Egy ideig az Atamyrat nevet viselte.", "Fontos folyami átkelőhely."],
       ro: ["A purtat o vreme numele de Atamyrat.", "Important punct de trecere a râului."],
       en: ["Temporarily bore the name Atamyrat.", "Important river crossing."]
-    }, image: "/poi-images/tm-kerki-cities-v2.webp"},
+    }, image: "/poi-images/tm-kerki-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Früherer Name Atamyrat zwischen 1999 und 2017 verwendet", "Liegt am strategisch wichtigen Fluss Amudarja in Lebap", "Historische Seidenstraßen-Station unter dem Namen Zamm", "Heimat der Kerki-Kerki-Brücke, fertiggestellt im Jahr 2013", "Verfügt über einen regionalen Flughafen mit Flügen nach Aschgabat", "Zentrum der regionalen Baumwoll- und Getreideproduktion"],
+      hu: ["1999 és 2017 között Atamyrat volt a város hivatalos neve", "Az Amu-darja folyó bal partján fekszik Lebap tartományban", "Az ókorban Zamm néven volt ismert Selyemút-állomás", "A 2013-ban átadott Kerki-Kerki híd hossza meghaladja az 1400 métert", "Saját belföldi repülőtérrel rendelkezik a város északi részén", "Fontos mezőgazdasági és kereskedelmi központ a régióban"],
+      ro: ["Orașul a revenit la numele Kerki de la Atamyrat în 2017", "Situat pe malul stâng al fluviului Amu Daria în Lebap", "A fost un punct cheie pe Drumul Mătăsii sub numele Zamm", "Podul mixt feroviar și rutier a fost inaugurat în 2013", "Deservit de un aeroport regional pentru conexiuni interne", "Centru administrativ major pentru cultivarea bumbacului"],
+      en: ["The city reverted to the name Kerki from Atamyrat in 2017", "Situated on the left bank of the Amu Darya river", "Known as Zamm during the height of the Silk Road era", "Features a massive 1,414-meter long road and rail bridge", "Operates a regional airport for domestic Turkmen flights", "Administrative hub for a large cotton-producing district"],
+    },
+  },
   {
     id: "tm-yoloten-cities-v2",
     type: "city",
@@ -302,7 +377,13 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["A Galkinis-gázmező közelében fekszik.", "Fontos az energiaszektor számára."],
       ro: ["Aproape de câmpul de gaze Galkynysh.", "Important pentru industria energetică."],
       en: ["Near the Galkynysh Gas Field.", "Important for the energy industry."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Liegt im Murgab-Delta in der Provinz Mary im Südosten", "Unmittelbare Nähe zum riesigen Galkynysh-Erdgasfeld", "Offizielle Erhebung zur Stadt erfolgte im Jahr 1939", "Wichtiges Zentrum für die Entschwefelung von Erdgas", "Traditioneller Standort für Baumwollverarbeitung und Viehzucht", "Besitzt ein großes Wasserkraftwerk am Fluss Murgab"],
+      hu: ["A Murgab-folyó deltájában fekszik Mary tartományban", "A világ egyik legnagyobb gázmezője, a Galkynysh mellett található", "1939-ben kapott hivatalos városi rangot a település", "A türkmén földgázexport egyik stratégiai kiindulópontja", "Jelentős gyapotfeldolgozó és állattenyésztési ágazattal rendelkezik", "A város közelében vízerőmű üzemel a Murgab-folyón"],
+      ro: ["Situat în delta râului Murgab în provincia Mary", "Aproape de câmpul Galkynysh, uriaș zăcământ de gaze", "A primit statutul oficial de oraș în anul 1939", "Centru major pentru rafinarea și prelucrarea gazelor naturale", "Economia locală include ginerea bumbacului și zootehnia", "Găzduiește o stație hidroelectrică pe cursul râului Murgab"],
+      en: ["Located in the Murgab River delta in Mary Province", "Adjacent to the Galkynysh gas field, world-class reserve", "The settlement was officially incorporated as a city in 1939", "Major hub for natural gas processing and desulfurization", "Traditional economy includes cotton production and livestock", "Features a significant hydroelectric power station nearby"],
+    },
   },
   {
     id: "tm-koneurgenc-cities-v2",
@@ -328,7 +409,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["UNESCO Világörökségi helyszín.", "Horezm egykori fővárosa."],
       ro: ["Sit al Patrimoniului Mondial UNESCO.", "Fosta capitală a Khwarazmului."],
       en: ["UNESCO World Heritage site.", "Former capital of Khwarazm."]
-    }, image: "/poi-images/tm-koneurgenc-cities-v2.webp"},
+    }, image: "/poi-images/tm-koneurgenc-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Aufnahme in die Liste des UNESCO-Weltkulturerbes im Jahr 2005", "Ehemalige Hauptstadt des mächtigen Choresm-Reiches", "Beheimatet das 60 Meter hohe Kutlug-Timur-Minarett", "Zerstörung durch mongolische Truppen im Jahr 1221", "Mausoleum von Turabek-Khanum mit prächtigen Mosaiken", "Wichtiger Knotenpunkt an der historischen Seidenstraße"],
+      hu: ["2005-ben került fel az UNESCO Világörökségi listájára", "A hatalmas Hvárezmi Birodalom egykori fővárosa volt", "Itt található a 60 méter magas Kutlug Timur-minaret", "1221-ben a mongol seregek szinte teljesen elpusztították", "Turabek-kanum mauzóleuma híres a finom mozaikmunkáiról", "A Selyemút egyik legfontosabb kulturális és tudományos gócpontja"],
+      ro: ["Inclus în lista Patrimoniului Mondial UNESCO în anul 2005", "Fostă capitală a vastului și puternicului Imperiu Horezmian", "Găzduiește minaretul Kutlug Timur, înalt de 60 de metri", "Orașul a fost asediat și distrus de Ginghis Han în 1221", "Mausoleul Turabek-Khanum este celebru pentru cupola sa decorată", "Un nod vital de schimburi culturale pe Drumul Mătăsii"],
+      en: ["Inscribed as a UNESCO World Heritage site in 2005", "Former capital of the expansive Khwarazmian Empire", "Home to the 60-meter Kutlug Timur minaret, tallest in the region", "Suffered near-total destruction by Mongol forces in 1221", "Features the architecturally unique mausoleum of Turabek-Khanum", "Strategic center for trade and learning on the Silk Road"],
+    },
+  },
   {
     id: "tm-anau-cities-v2",
     type: "city",
@@ -353,7 +441,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Az Ahal tartomány központja.", "A Seyit Cemaleddin mecset romjai találhatók itt."],
       ro: ["Centrul regiunii Ahal.", "Ruinele Moscheii Seyit Cemaleddin."],
       en: ["Center of the Ahal Region.", "Ruins of the Seyit Cemaleddin Mosque."]
-    }, image: "/poi-images/tm-anau-cities-v2.webp"},
+    }, image: "/poi-images/tm-anau-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Verwaltungszentrum der Provinz Ahal in der Nähe von Aschgabat", "Ort der Anau-Kultur, die bis ins 5. Jahrtausend v. Chr. zurückreicht", "Erste wissenschaftliche Ausgrabungen durch Raphael Pumpelly im Jahr 1904", "Ruinen der Seyit-Jemaleddin-Moschee aus dem Jahr 1456", "Zerstörung vieler historischer Bauten durch das Erdbeben von 1948", "Bekannt für seltene Drachenmotive in der islamischen Architektur"],
+      hu: ["Ahal tartomány közigazgatási központja Asgabat mellett", "Az Anau-kultúra bölcsője, amely i. e. 4500-ig nyúlik vissza", "Raphael Pumpelly végezte az első ásatásokat 1904-ben", "A Seyit Jemaleddin-mecset 1456-ban épült fel", "Az 1948-as földrengés súlyos károkat okozott az óvárosban", "Híres a mecset portálján található egyedülálló sárkányábrázolásokról"],
+      ro: ["Centrul administrativ al provinciei Ahal lângă Ashgabat", "Situl culturii Anau, datând din mileniul al V-lea î.Hr.", "Primele excavații arheologice au fost conduse în anul 1904", "Ruinele moscheii Seyit Jemaleddin datează din anul 1456", "Cutremurul din 1948 a distrus majoritatea structurilor vechi", "Portalul moscheii prezenta mozaicuri rare cu figuri de dragoni"],
+      en: ["Administrative center of Ahal Province near the capital", "Birthplace of the Anau culture, dating to 4500 BCE", "Site of the first major excavations by Raphael Pumpelly in 1904", "The Seyit Jemaleddin Mosque was completed in 1456", "Severe damage was caused by the 1948 Ashgabat earthquake", "Features unique dragon mosaics, rare in traditional Islamic art"],
+    },
+  },
   {
     id: "tm-hazar-cities-v2",
     type: "city",
@@ -378,7 +473,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábban Cseleken néven ismerték.", "Fontos a kőolaj-kitermelés szempontjából."],
       ro: ["Cunoscut anterior ca Cheleken.", "Important pentru extracția petrolului."],
       en: ["Formerly known as Cheleken.", "Important for oil extraction."]
-    }, image: "/poi-images/tm-hazar-cities-v2.webp"},
+    }, image: "/poi-images/tm-hazar-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Ehemals als Tscheleken bekannt, liegt auf einer Halbinsel", "Erhalt des Stadtrechts im Jahr 1956 während des Ölbooms", "Wichtiges Zentrum für die Gewinnung von Erdöl und Erdgas", "Standort für die Produktion von Jod und Brom in Turkmenistan", "Befindet sich in der Provinz Balkan am Kaspischen Meer", "Historische Ölquellen wurden bereits im Mittelalter genutzt"],
+      hu: ["Korábban Cseleken néven volt ismert, egy félszigeten fekszik", "1956-ban kapott városi rangot az ipari fellendülés idején", "A kőolaj- és földgázkitermelés egyik országos központja", "Jelentős jód- és brómgyártó üzemek működnek a városban", "Balkan tartományban, a Kaszpi-tenger partján található", "Már a középkorban is ismerték a környék felszíni olajforrásait"],
+      ro: ["Cunoscut anterior ca Cheleken, situat pe o peninsulă", "A obținut statutul de oraș în anul 1956", "Centru major pentru extracția de petrol și gaze naturale", "Unități de producție importante pentru iod și brom", "Localizat în provincia Balkan, pe malul Mării Caspice", "Exploatarea petrolului a început din surse de suprafață medievale"],
+      en: ["Formerly known as Cheleken, situated on a peninsula", "Granted official city status in the year 1956", "Primary hub for offshore oil and gas extraction", "Major site for the industrial production of iodine and bromine", "Located in the Balkan Province on the Caspian Sea coast", "Historical records of oil collection date back to the Middle Ages"],
+    },
+  },
   {
     id: "tm-gurbansoltan-eje-cities-v2",
     type: "city",
@@ -403,7 +505,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Saparmyrat Nyýazow édesanyjáról kapta a nevét.", "Korábban Yylanly néven ismerték."],
       ro: ["Numit după mama lui Saparmyrat Nyýazow.", "Cunoscut anterior ca Yylanly."],
       en: ["Named after the mother of Saparmyrat Nyýazow.", "Formerly known as Yylanly."]
-    }, image: "/poi-images/tm-gurbansoltan-eje-cities-v2.webp"},
+    }, image: "/poi-images/tm-gurbansoltan-eje-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Früherer historischer Name der Stadt war Ýylanly", "Umbenennung erfolgte im Jahr 2002 per Dekret", "Liegt in der Provinz Dashoguz im Norden des Landes", "Wichtiges Zentrum für Baumwollanbau und Getreidehandel", "Administratives Zentrum des Gurbansoltan-Eje-Distrikts", "Verfügt über moderne Anlagen zur Baumwollverarbeitung"],
+      hu: ["A város korábbi történelmi neve Ýylanly volt", "2002-ben nevezték át az akkori elnök anyjáról", "Dashoguz tartományban, az ország északi részén található", "A gyapottermesztés és gabonakereskedelem központja", "A Gurbansoltan Eje járás közigazgatási székhelye", "Modern mezőgazdasági feldolgozóüzemekkel rendelkezik"],
+      ro: ["Numele istoric al localității a fost Ýylanly", "Redenumirea a avut loc în anul 2002 prin decret prezidențial", "Situat în provincia Dashoguz, în zona de nord", "Nod principal pentru cultivarea și comerțul cu bumbac", "Centru administrativ al districtului Gurbansoltan Eje", "Găzduiește unități industriale de procesare a cerealelor"],
+      en: ["Historically known by the previous name Ýylanly", "Renamed in 2002 after the mother of President Niyazov", "Located in the Dashoguz Province of northern Turkmenistan", "Major center for cotton farming and grain production", "Serves as the administrative seat of its namesake district", "Features significant industrial cotton ginning facilities"],
+    },
+  },
   {
     id: "tm-gumdag-cities-v2",
     type: "city",
@@ -428,7 +537,13 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Az 1930-as években alapították.", "Iszapvulkánok közelében fekszik."],
       ro: ["Fondat în anii 1930.", "Situat în apropierea vulcanilor noroioși."],
       en: ["Founded in the 1930s.", "Located near mud volcanoes."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Entwicklung begann mit dem Ölboom in den 1930er Jahren", "Südöstlich von Balkanabat in der Provinz Balkan gelegen", "Eine der ältesten Erdölförderregionen Turkmenistans", "Zentrum für technische Dienstleistungen im Energiesektor", "Geografisch geprägt von der Nähe zum Großen Balkan-Gebirge", "Wichtiger Knotenpunkt für Ölpipelines im Westen des Landes"],
+      hu: ["A város fejlődése az 1930-as évek olajbányászatával indult", "Balkanabattól délkeletre található Balkan tartományban", "Türkmenisztán egyik legrégebbi kőolaj-kitermelő vidéke", "Az energiaszektor műszaki szolgáltatásainak egyik bázisa", "Félsivatagos éghajlat és táj jellemzi a környéket", "Fontos szerepet játszik a nyugati olajvezetékek hálózatában"],
+      ro: ["Dezvoltarea a început odată cu boom-ul petrolier din 1930", "Situat la sud-est de Balkanabat în provincia Balkan", "Una dintre cele mai vechi regiuni petrolifere din Turkmenistan", "Centru de servicii tehnice pentru sectorul energetic", "Peisaj dominat de semideșert și munții Marele Balkan", "Nod logistic esențial pentru conductele de petrol din vest"],
+      en: ["Development began with the 1930s regional oil boom", "Located southeast of Balkanabat in the Balkan Province", "One of the oldest petroleum-producing regions in the nation", "Serves as a technical service hub for the energy sector", "Geography is shaped by the Greater Balkan mountain range", "Crucial node for oil pipeline infrastructure in the west"],
+    },
   },
   {
     id: "tm-baharly-cities-v2",
@@ -454,7 +569,13 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["A Kow-Ata barlang otthona.", "Egy ideig Baharly néven is ismerték."],
       ro: ["Găzduiește peștera Kow-Ata.", "Cunoscut și sub numele de Baharly pentru o perioadă."],
       en: ["Home to the Kow-Ata Cave.", "Also known as Baharly at times."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Früher als Baharly bekannt, liegt in der Provinz Ahal", "Beheimatet den berühmten unterirdischen Schwefelsee Köw-Ata", "Der See liegt 60 Meter tief und ist ganzjährig 35 Grad warm", "Wichtiger Standort der turkmenischen Zementindustrie", "Liegt am Fuße des nördlichen Kopet-Dag-Gebirges", "Station an der strategischen Transkaspischen Eisenbahn"],
+      hu: ["Korábban Baharly néven volt ismert Ahal tartományban", "Itt található a híres Köw-Ata földalatti kénes tó", "A tó 60 méter mélyen van, vize állandóan 35 fokos", "Türkmenisztán cementiparának egyik legfontosabb központja", "A Kopet-dag-hegység északi lábánál fekszik", "Fontos állomás a Transzkaszpi vasútvonal mentén"],
+      ro: ["Cunoscut anterior ca Baharly, situat în provincia Ahal", "Găzduiește lacul termal subteran Köw-Ata", "Apa lacului are o temperatură constantă de 35 de grade", "Centru major pentru industria cimentului din Turkmenistan", "Localizat la poalele munților Kopet Dag", "Nod de transport pe calea ferată Trans-Caspică"],
+      en: ["Formerly called Baharly, located in the Ahal Province", "Home to the unique Köw-Ata underground thermal lake", "The lake is situated 60 meters below ground level", "Site of one of the largest cement plants in Turkmenistan", "Positioned at the base of the Kopet Dag mountain range", "Key stop on the strategic Trans-Caspian Railway line"],
+    },
   },
   {
     id: "tm-gazojak-cities-v2",
@@ -480,7 +601,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["A gázkitermelés miatt jött létre.", "Fontos tranzitpont."],
       ro: ["Creat datorită extracției de gaze.", "Punct de tranzit important."],
       en: ["Created due to gas extraction.", "Important transit point."]
-    }, image: "/poi-images/tm-gazojak-cities-v2.webp"},
+    }, image: "/poi-images/tm-gazojak-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1967 als Zentrum der Gasindustrie", "Liegt im Norden der Provinz Lebap an der Grenze zu Usbekistan", "Wichtiger Knotenpunkt für internationale Gaspipelines", "Erhalt des Stadtrechts im Zuge der industriellen Erschließung", "Geografische Lage am nördlichen Rand der Karakum-Wüste", "Bedeutender Grenzort für den regionalen Handel"],
+      hu: ["1967-ben alapították a földgázipar központjaként", "Lebap tartomány északi részén, az üzbég határnál fekszik", "A nemzetközi gázvezetékek egyik kulcsfontosságú csomópontja", "Az ipari feltárások során kapott városi rangot", "A Karakum-sivatag északi szélén helyezkedik el", "Fontos szerepet tölt be a határmenti kereskedelemben"],
+      ro: ["Fondat în anul 1967 ca centru al industriei gazelor", "Situat în nordul provinciei Lebap, la granița cu Uzbekistan", "Nod esențial pentru conductele internaționale de gaz", "Statutul de oraș a fost acordat în perioada dezvoltării industriale", "Amplasat geografic la marginea deșertului Karakum", "Punct de tranzit și comerț transfrontalier important"],
+      en: ["Founded in 1967 specifically as a natural gas industry hub", "Located in northern Lebap Province on the Uzbekistan border", "Key junction for major international gas export pipelines", "Achieved city status during the initial industrial expansion", "Situated at the northern edge of the Karakum Desert", "Important location for regional and cross-border trade"],
+    },
+  },
   {
     id: "tm-bereket-cities-v2",
     type: "city",
@@ -505,7 +633,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábban Gazanjyk néven ismerték.", "A transzkaszpi vasúthálózat része."],
       ro: ["Cunoscut anterior ca Gazanjyk.", "Parte a rețelei feroviare Transcaspice."],
       en: ["Formerly known as Gazanjyk.", "Part of the Trans-Caspian railway network."]
-    }, image: "/poi-images/tm-bereket-cities-v2.webp"},
+    }, image: "/poi-images/tm-bereket-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Früherer Name der Stadt war Gazanjyk bis zur Umbenennung", "Strategischer Knotenpunkt der Nord-Süd-Eisenbahnlinie", "Gegründet im Jahr 1895 während des Eisenbahnbaus", "Liegt am Fuße des Großen Balkan-Gebirges in West-Turkmenistan", "Wichtiger Stützpunkt für die Wartung von Lokomotiven", "Zentrum für die traditionelle turkmenische Teppichherstellung"],
+      hu: ["A város korábbi neve Gazanjyk volt az átnevezésig", "Az észak-déli vasúti folyosó egyik stratégiai csomópontja", "1895-ben alapították a vasútépítési munkálatok során", "A Nagy-Balkán-hegység lábánál, Nyugat-Türkmenisztánban fekszik", "Fontos bázis a mozdonyok karbantartása és javítása számára", "A hagyományos türkmén szőnyegszövés egyik központja"],
+      ro: ["Numele anterior al orașului a fost Gazanjyk", "Nod strategic pe coridorul feroviar internațional Nord-Sud", "Fondat în anul 1895 în timpul construcției căilor ferate", "Situat la poalele munților Marele Balkan în provincia Balkan", "Centru major pentru întreținerea și logistica feroviară", "Recunoscut pentru tradiția țeserii covoarelor turkmene"],
+      en: ["Formerly known as Gazanjyk until its official renaming", "Key strategic junction for the North-South rail corridor", "Established in 1895 during the Trans-Caspian rail expansion", "Located at the foot of the Greater Balkan mountain range", "Main hub for locomotive maintenance and rail logistics", "Center for the production of traditional Turkmen carpets"],
+    },
+  },
   {
     id: "tm-boldumsaz-cities-v2",
     type: "city",
@@ -530,7 +665,13 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábban Kalininnek hívták.", "Jelentős a gyapottermesztés szempontjából."],
       ro: ["Numit anterior Kalinin.", "Important pentru cultivarea bumbacului."],
       en: ["Formerly called Kalinin.", "Important for cotton cultivation."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Historische Verbindung zur alten Choresm-Zivilisation", "Liegt in der Provinz Dashoguz nahe der usbekischen Grenze", "Zentrum für den Anbau von Reis, Baumwolle und Getreide", "Administratives Zentrum des Boldumsaz-Distrikts", "Bewässerung durch ein antikes, modernisiertes Kanalsystem", "Wichtiger regionaler Markt für landwirtschaftliche Erzeugnisse"],
+      hu: ["Történelmileg szorosan kötődik az ősi Hvárezmhez", "Dashoguz tartományban, az üzbég határ közelében fekszik", "A rizstermesztés és gyapottermelés egyik helyi központja", "A Boldumsaz járás közigazgatási székhelye", "Az ókor óta létező csatornahálózat biztosítja az öntözést", "Jelentős regionális élelmiszerelosztó központ"],
+      ro: ["Legătură istorică strânsă cu vechea civilizație Horezm", "Situat în provincia Dashoguz, lângă frontiera uzbecă", "Centru agricol specializat în orez, bumbac și cereale", "Reședința administrativă a districtului Boldumsaz", "Sistemul de irigații include canale istorice modernizate", "Punct major de colectare a produselor agricole în nord"],
+      en: ["Historically linked to the ancient Khwarazmian civilization", "Located in Dashoguz Province near the Uzbekistan border", "Key production center for rice, cotton, and cereal grains", "Serves as the administrative seat of the Boldumsaz District", "Relies on an ancient but modernized irrigation canal system", "Major regional marketplace for agricultural commodities"],
+    },
   },
   {
     id: "tm-gokdepe-cities-v2",
@@ -556,7 +697,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Az 1881-es Gökdepe-i csata helyszíne.", "A Saparmyrat Hajji mecset otthona."],
       ro: ["Locul bătăliei de la Gökdepe (1881).", "Găzduiește Moscheea Saparmyrat Hajji."],
       en: ["Site of the Battle of Gökdepe (1881).", "Home to the Saparmyrat Hajji Mosque."]
-    }, image: "/poi-images/tm-gokdepe-cities-v2.webp"},
+    }, image: "/poi-images/tm-gokdepe-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Ort der entscheidenden Schlacht von Gökdepe im Jahr 1881", "Liegt 45 Kilometer nordwestlich der Hauptstadt Aschgabat", "Heimat der Saparmurat-Hajji-Moschee, erbaut im Jahr 1995", "Wichtiges Zentrum für die Zucht von Achal-Tekkiner-Pferden", "Früherer Standort der strategischen Festung der Teke-Turkmenen", "Beherbergt ein Nationalmuseum zur Geschichte der Belagerung"],
+      hu: ["Az 1881-es sorsdöntő gökdepei csata helyszíne", "Asgabattól 45 kilométerre északnyugatra található", "Itt áll az 1995-ben épült Saparmurat Hajji-mecset", "A világhírű ahal-teke lovak tenyésztésének központja", "A teke türkmének egykori stratégiai erődjének helyszíne", "Nemzeti múzeum mutatja be az erőd ostromának történetét"],
+      ro: ["Locul bătăliei decisive de la Gökdepe din anul 1881", "Situat la 45 de kilometri nord-vest de capitala Ashgabat", "Găzduiește moscheea Saparmurat Hajji, finalizată în 1995", "Centru de renume pentru creșterea cailor din rasa Akhal-Teke", "Fostul amplasament al cetății strategice a tribului Teke", "Include un muzeu memorial dedicat rezistenței turkmene"],
+      en: ["Site of the decisive 1881 Battle of Gökdepe", "Located 45 kilometers northwest of the capital, Ashgabat", "Features the Saparmurat Hajji Mosque, built in 1995", "Prominent hub for breeding the famous Akhal-Teke horses", "Location of the historic Teke Turkmen fortress ruins", "Houses a national museum documenting the 19th-century siege"],
+    },
+  },
   {
     id: "tm-sayat-cities-v2",
     type: "city",
@@ -581,7 +729,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Fontos a mezőgazdaság számára.", "Az Amu-darja közelében fekszik."],
       ro: ["Important pentru agricultură.", "Situat aproape de Amu Darya."],
       en: ["Important for agriculture.", "Located near the Amu Darya."]
-    }, image: "/poi-images/tm-sayat-cities-v2.webp"},
+    }, image: "/poi-images/tm-sayat-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Administratives Zentrum des Saýat-Distrikts in Lebap", "Liegt am fruchtbaren linken Ufer des Flusses Amudarja", "Wichtiges Zentrum für Baumwollverarbeitung und Seidenzucht", "Verfügt über eine Anbindung an die Hauptstraße nach Turkmenabat", "Geografisch geprägt durch ein weitreichendes Kanalsystem", "Bekannt für den Anbau von Getreide und Obstplantagen"],
+      hu: ["A Saýat járás közigazgatási központja Lebap tartományban", "Az Amu-darja folyó termékeny bal partján fekszik", "A gyapotfeldolgozás és a selyemhernyó-tenyésztés központja", "Közvetlen összeköttetése van a Türkmenabatba vezető főúttal", "Kiterjedt öntözőcsatorna-hálózat veszi körül a várost", "Jelentős gabonatermelő és gyümölcstermesztő vidék"],
+      ro: ["Centrul administrativ al districtului Saýat din provincia Lebap", "Amplasat pe malul stâng fertil al fluviului Amu Daria", "Nod principal pentru procesarea bumbacului și sericicultură", "Situat pe ruta rutieră majoră ce duce spre Turkmenabat", "Economia se bazează pe irigații din rețeaua fluvială locală", "Regiunea este renumită pentru livezile de fructe și cereale"],
+      en: ["Administrative center of the Saýat District in Lebap Province", "Situated on the productive left bank of the Amu Darya river", "Key hub for cotton processing and silkworm cultivation", "Located on the primary transport route to Turkmenabat", "Landscape is defined by an extensive irrigation canal network", "Center for regional fruit orchards and cereal production"],
+    },
+  },
   {
     id: "tm-seydi-cities-v2",
     type: "city",
@@ -606,7 +761,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["A költő, Seýitnazar Seýdi után kapta a nevét.", "Korábbi neve Neftezavodszk volt."],
       ro: ["Numit după poetul Seýitnazar Seýdi.", "Fostul nume a fost Neftezavodsk."],
       en: ["Named after the poet Seýitnazar Seýdi.", "Former name was Neftezavodsk."]
-    }, image: "/poi-images/tm-seydi-cities-v2.webp"},
+    }, image: "/poi-images/tm-seydi-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1973 unter dem Namen Neftezavodsk", "Standort der bedeutenden Seýdi-Ölraffinerie", "Liegt am strategisch wichtigen Fluss Amudarja in Lebap", "Sitz der Verwaltung des Amudarja-Staatsnaturreservats", "Wichtiger Eisenbahnknotenpunkt im Osten des Landes", "Erhalt des Stadtrechts im Jahr 1990"],
+      hu: ["1973-ban alapították Neftezavodsk néven", "Itt található a stratégiai jelentőségű Seýdi Olajfinomító", "Az Amu-darja folyó partján fekszik Lebap tartományban", "Az Amu-darja Állami Természetvédelmi Terület központja", "Fontos vasúti csomópont Türkmenisztán keleti részén", "1990-ben kapott hivatalos városi rangot"],
+      ro: ["Fondat în anul 1973 cu numele inițial Neftezavodsk", "Găzduiește rafinăria de petrol Seýdi, obiectiv strategic", "Situat pe malul fluviului Amu Daria în provincia Lebap", "Sediu administrativ pentru Rezervația Naturală Amu Daria", "Nod logistic feroviar esențial în zona de est", "A primit statutul oficial de oraș în anul 1990"],
+      en: ["Founded in 1973 under the original name Neftezavodsk", "Home to the major Seýdi Oil Refinery facility", "Situated on the banks of the Amu Darya river in Lebap", "Headquarters of the Amudarya State Nature Reserve", "Key railway junction point in eastern Turkmenistan", "The settlement was officially granted city status in 1990"],
+    },
+  },
   {
     id: "tm-kaka-cities-v2",
     type: "city",
@@ -631,7 +793,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Történelmileg Kaahka néven ismert.", "Jelentős a mezőgazdaság szempontjából."],
       ro: ["Cunoscut istoric ca Kaahka.", "Semnificativ pentru agricultură."],
       en: ["Historically known as Kaahka.", "Significant for agriculture."]
-    }, image: "/poi-images/tm-kaka-cities-v2.webp"},
+    }, image: "/poi-images/tm-kaka-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die antike Stadt Abiverd liegt nur etwa 8 Kilometer westlich von Kaka.", "Kaka liegt direkt an der Strecke der Transkaspischen Eisenbahn.", "Die Entfernung zur Hauptstadt Aşgabat beträgt ungefähr 130 Kilometer.", "Die Region ist ein Hauptanbaugebiet für hochwertige turkmenische Baumwolle.", "Die Stadt liegt auf einer Höhe von etwa 280 Metern über dem Meeresspiegel.", "Die Kaka-Etrek-Gaspipeline ist ein wesentlicher Teil der regionalen Energieversorgung."],
+      hu: ["Az ókori Abiverd romvárosa mindössze 8 kilométerre nyugatra található Kakától.", "A település a transzkaszpi vasútvonal egyik fontos állomása.", "A város távolsága az ország fővárosától, Aşgabattól mintegy 130 kilométer.", "Kaka környéke a Karakum-csatornának köszönhetően virágzó mezőgazdasági terület.", "A település tengerszint feletti magassága körülbelül 280 méter.", "A régió gazdaságát a Kaka és Etrek közötti gázvezeték infrastruktúrája is támogatja."],
+      ro: ["Orașul antic Abiverd se află la doar 8 kilometri vest de centrul actual al orașului Kaka.", "Kaka este un nod feroviar important pe linia Căii Ferate Transcaspice.", "Distanța rutieră dintre Kaka și capitala Ashgabat este de aproximativ 130 km.", "Economia locală se bazează masiv pe prelucrarea bumbacului irigat de Canalul Karakum.", "Altitudinea medie a localității este de aproximativ 280 de metri peste nivelul mării.", "Gazoductul Kaka-Etrek reprezintă o componentă vitală a infrastructurii energetice locale."],
+      en: ["The ancient Silk Road city of Abiverd is located 8 kilometers west of Kaka.", "Kaka is a major station on the historic Trans-Caspian Railway line.", "The city is located approximately 130 kilometers east of the capital, Ashgabat.", "Agriculture in the region relies heavily on irrigation from the Karakum Canal.", "The settlement sits at an elevation of roughly 280 meters above sea level.", "The Kaka-Etrek natural gas pipeline is a key piece of regional infrastructure."],
+    },
+  },
   {
     id: "tm-tagta-cities-v2",
     type: "city",
@@ -656,7 +825,13 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábban Tagta néven ismerték.", "A gyapotfeldolgozás központja."],
       ro: ["Cunoscut anterior ca Tagta.", "Centrul de prelucrare a bumbacului."],
       en: ["Formerly known as Tagta.", "Center of cotton processing."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Die Stadt wurde im Jahr 2002 von Tagta in Görogly umbenannt.", "Görogly liegt etwa 20 Kilometer südlich der Provinzhauptstadt Daşoguz.", "Die Region ist bekannt für den großflächigen Anbau von Reis und Baumwolle.", "Der Name bezieht sich auf den Helden Görogly aus dem gleichnamigen zentralasiatischen Epos.", "Die Stadt befindet sich in der fruchtbaren, künstlich bewässerten Diwan-Oase.", "Görogly ist ein wichtiges Versorgungszentrum für den Distrikt Görogly."],
+      hu: ["A várost 2002-ben nevezték át Tagtáról Göroglyra.", "A település körülbelül 20 kilométerre délre fekszik Daşoguz városától.", "A környék Türkmenisztán egyik legfontosabb rizstermesztő vidéke.", "A névválasztás a híres közép-ázsiai eposz hősének, Göroglynak állít emléket.", "A város az Amu-darja folyó mentén kialakult mezőgazdasági övezetben található.", "Görogly közigazgatásilag a róla elnevezett járás központja Daşoguz tartományban."],
+      ro: ["Localitatea a fost redenumită oficial din Tagta în Görogly în anul 2002.", "Orașul se află la o distanță de aproximativ 20 km sud de capitala regională Daşoguz.", "Agricultura locală este specializată în producția de orez și bumbac de calitate.", "Numele orașului provine de la Görogly, personajul principal al unei epopei celebre.", "Zona face parte din bazinul de irigații al fluviului Amu Darya.", "Görogly îndeplinește funcția de reședință a districtului omonim din provincia Daşoguz."],
+      en: ["The city was officially renamed from Tagta to Görogly in 2002.", "Görogly is situated roughly 20 kilometers south of the provincial capital, Daşoguz.", "The surrounding district is a major producer of rice and cotton in Turkmenistan.", "The name Görogly honors a legendary hero from traditional Turkic oral literature.", "The city is located within the fertile Diwan oasis in northern Turkmenistan.", "Görogly serves as the administrative seat for the Görogly District within Daşoguz Velayat."],
+    },
   },
   {
     id: "tm-farap-cities-v2",
@@ -682,7 +857,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Az Amu-darja jobb partján fekszik.", "Fontos kereskedelmi csomópont."],
       ro: ["Situat pe malul drept al râului Amu Darya.", "Important nod comercial."],
       en: ["Located on the right bank of the Amu Darya.", "Important trade hub."]
-    }, image: "/poi-images/tm-farap-cities-v2.webp"},
+    }, image: "/poi-images/tm-farap-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Farap liegt direkt gegenüber der usbekischen Grenze bei Alat.", "Die Stadt befindet sich nur etwa 10 Kilometer östlich von Türkmenabat.", "Farap ist ein wichtiger Halt an der Bahnstrecke von Türkmenabat nach Buchara.", "Die Region am Amudarja ist bekannt für die besten Melonen Turkmenistans.", "Farap dient als Sitz des Distrikts Farap in der Provinz Lebap.", "Die Stadt verfügt über einen der meistgenutzten Straßengrenzübergänge des Landes."],
+      hu: ["Farap közvetlenül az üzbég határon található, a túloldalon Alat városa fekszik.", "A település mindössze 10 kilométerre keletre van Türkmenabattól.", "Farap fontos megálló a Türkmenabatot és Buharát összekötő vasútvonalon.", "A település környéke híres a kiváló minőségű türkmenisztáni sárgadinnyéről.", "A város a Lebap tartományhoz tartozó Farap járás közigazgatási központja.", "Farapnál található Türkmenisztán egyik legnagyobb forgalmú közúti határátkelője."],
+      ro: ["Farap este situat direct la granița cu Uzbekistanul, vis-à-vis de orașul Alat.", "Orașul se află la o distanță de doar 10 kilometri est de Türkmenabat.", "Este o stație feroviară cheie pe ruta internațională Türkmenabat-Buhara.", "Valea fluviului Amu Darya din zona Farap este celebră pentru producția de pepeni.", "Localitatea este reședința administrativă a districtului Farap din provincia Lebap.", "Farap deține unul dintre cele mai moderne și tranzitate puncte vamale rutiere din țară."],
+      en: ["Farap is located directly on the border with Uzbekistan, opposite the town of Alat.", "The city is situated only about 10 kilometers east of Türkmenabat.", "Farap is a major railway stop on the line connecting Türkmenabat and Bukhara.", "The surrounding Amu Darya region is famous for producing high-quality melons.", "The town serves as the administrative center for the Farap District of Lebap Province.", "The Farap-Alat border crossing is one of the busiest road entry points in the country."],
+    },
+  },
   {
     id: "tm-serdar-cities-v2",
     type: "city",
@@ -707,7 +889,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábban Gyzylarbat.", "Hagyományos szőnyegeiről híres."],
       ro: ["Fostul Gyzylarbat.", "Faimos pentru covoarele tradiționale."],
       en: ["Formerly Gyzylarbat.", "Famous for traditional carpets."]
-    }, image: "/poi-images/tm-serdar-cities-v2.webp"},
+    }, image: "/poi-images/tm-serdar-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Stadt wurde 1881 als russische Militärstation Gyzylarbat gegründet.", "Serdar war der Standort der ersten Eisenbahnwerkstätte Zentralasiens.", "Der Name der Stadt wurde 1999 offiziell in Serdar geändert.", "Die Stadt liegt etwa 220 Kilometer westlich der Hauptstadt Aşgabat.", "In der Nähe befinden sich die Ruinen der antiken Siedlung Parau.", "Serdar ist ein wichtiges Versorgungszentrum für die Viehzucht in der Region."],
+      hu: ["A várost 1881-ben alapították orosz katonai állomásként Gyzylarbat néven.", "Itt épült fel Közép-Ázsia legelső vasúti javítóműhelye.", "A település nevét 1999-ben változtatták Serdarra, ami 'vezért' jelent.", "A város körülbelül 220 kilométerre nyugatra fekszik Aşgabattól.", "A város közelében találhatók a történelmi Parau oázis romjai.", "Serdar fontos kereskedelmi központ a környékbeli állattartó közösségek számára."],
+      ro: ["Orașul a fost fondat în 1881 sub numele de Gyzylarbat, ca stație militară rusă.", "A găzduit primele ateliere de reparații feroviare din întreaga Asie Centrală.", "Numele orașului a fost schimbat oficial în Serdar în anul 1999.", "Distanța față de capitala Ashgabat este de aproximativ 220 de kilometri spre vest.", "Ruinele așezării antice Parau se află în imediata vecinătate a orașului.", "Serdar este un punct logistic major pe ruta spre Marea Caspică."],
+      en: ["The city was founded in 1881 as a Russian military post named Gyzylarbat.", "It was the site of the very first railway workshop in Central Asia.", "The city was officially renamed Serdar, meaning 'Leader,' in 1999.", "Serdar is located approximately 220 kilometers west of Ashgabat.", "The ancient ruins of the Parau settlement are located nearby.", "Serdar serves as a primary administrative and supply hub for Balkan Velayat."],
+    },
+  },
   {
     id: "tm-gubadag-cities-v2",
     type: "city",
@@ -732,7 +921,14 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Korábban Telmanovszk.", "Fontos gyapottermelő."],
       ro: ["Fostul Telmanovsk.", "Important producător de bumbac."],
       en: ["Formerly Telmanovsk.", "Important cotton producer."]
-    }, image: "/poi-images/tm-gubadag-cities-v2.webp"},
+    }, image: "/poi-images/tm-gubadag-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gubadag liegt etwa 35 Kilometer nördlich der Stadt Daşoguz.", "Die Stadt ist landesweit für das 'Gubadag çöregi' (Fladenbrot) bekannt.", "Die Region gehört zur historischen Landschaft Choresmien.", "Gubadag ist der Sitz des gleichnamigen Distrikts Gubadag.", "Die Landwirtschaft hier stützt sich auf die Bewässerung aus dem Amudarja.", "Die Stadt liegt in einer Ebene, die stark von Winderosion bedroht ist."],
+      hu: ["Gubadag körülbelül 35 kilométerre északra fekszik Daşoguz városától.", "A település a hagyományos 'Gubadag çöregi' nevű kenyér hazája.", "A város a történelmi Horezm régió területén helyezkedik el.", "Gubadag a Daşoguz tartományhoz tartozó Gubadag járás központja.", "A helyi gazdaság alapja a gabonatermesztés és a pamutipar.", "A város közelében fontos öntözőcsatornák futnak az Amu-darja irányából."],
+      ro: ["Gubadag este situat la aproximativ 35 de kilometri nord de orașul Daşoguz.", "Pâinea 'Gubadag çöregi' este o specialitate culinară protejată local.", "Orașul face parte din regiunea istorică a vechiului stat Horezm.", "Localitatea servește drept centru administrativ al districtului Gubadag.", "Producția agricolă este dominată de cereale și creșterea bovinelor.", "Infrastructura rutieră leagă Gubadag direct de granița cu Uzbekistanul."],
+      en: ["Gubadag is located roughly 35 kilometers north of the city of Daşoguz.", "The town is famous for its unique traditional bread called 'Gubadag çöregi'.", "The settlement lies within the historical region of Khwarezm.", "Gubadag serves as the administrative seat of the Gubadag District.", "Grain and cotton are the primary crops grown in the surrounding area.", "The city acts as a major commercial and market hub for the northern oasis."],
+    },
+  },
   {
     id: "tm-darganata-cities-v2",
     type: "city",
@@ -757,6 +953,12 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
       hu: ["Egy ideig a Birata nevet viselte.", "Az üzbég határ közelében található."],
       ro: ["A purtat temporar numele de Birata.", "Aproape de granița cu Uzbekistan."],
       en: ["Temporarily bore the name Birata.", "Near the Uzbek border."]
-    }
+    },
+    factsAdvanced: {
+      de: ["Die Stadt wurde 2017 offiziell von Birata in Darganata zurückbenannt.", "Das Mausoleum von Abu Bakr al-Shibli ist ein bedeutendes Pilgerziel.", "Darganata liegt am Rande der Karakum-Wüste am Fluss Amudarja.", "Die Stadt war historisch Teil des Khanats von Chiwa.", "Die Entfernung zur Provinzhauptstadt Türkmenabat beträgt über 200 km.", "Darganata ist das administrative Zentrum des Distrikts Darganata."],
+      hu: ["A várost 2017-ben nevezték vissza Biratáról Darganatára.", "Itt található a 10. századi szúfi szent, Abu Bakr al-Shibli mauzóleuma.", "A település az Amu-darja folyó és a Karakum-sivatag találkozásánál fekszik.", "Történelmileg Darganata a Hívai Kánság fontos határvárosa volt.", "A város több mint 200 kilométerre északra található Türkmenabattól.", "Darganata a Lebap tartomány legészakibb járásának székhelye."],
+      ro: ["Numele orașului a fost schimbat din Birata înapoi în Darganata în 2017.", "Mausoleul sfântului Abu Bakr al-Shibli datează din epoca medievală.", "Localitatea este situată pe malul stâng al fluviului Amu Darya.", "Darganata a servit drept punct vamal istoric între knezatele uzbece.", "Orașul se află la o distanță considerabilă, de peste 200 km, de Türkmenabat.", "Este reședința administrativă a districtului Darganata din provincia Lebap."],
+      en: ["The city's name was officially restored to Darganata from Birata in 2017.", "The Mausoleum of Abu Bakr al-Shibli is its most famous religious site.", "Darganata is located on the left bank of the Amu Darya river.", "The town was historically a key outpost of the Khanate of Khiva.", "It is situated more than 200 kilometers north of the provincial capital.", "Darganata serves as the administrative center for the Darganata District."],
+    },
   }
 ];

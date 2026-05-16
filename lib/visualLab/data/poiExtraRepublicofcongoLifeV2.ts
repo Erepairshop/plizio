@@ -19,6 +19,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Founded in 1999", "Area approx. 5,049 km²", "Country's only marine national park", "Home to African manatees"],
     },
     imageHint: "Conkouati-Douli coastal lagoon",
+    descriptionAdvanced: {
+      de: "Der Nationalpark Conkouati-Douli ist eines der artenreichsten Schutzgebiete der Republik Kongo und umfasst sowohl Küsten- als auch Regenwaldökosysteme. Er beherbergt bedeutende Populationen von Schimpansen, Gorillas und Waldelefanten. Der Park ist zudem ein wichtiger Brutplatz für bedrohte Meeresschildkröten und Teil des Ramsar-Abkommens zum Schutz von Feuchtgebieten.",
+      hu: "A Conkouati-Douli Nemzeti Park a Kongói Köztársaság egyik legváltozatosabb élővilágú védett területe, amely tengerparti és esőerdei ökoszisztémákat is magában foglal. Jelentős csimpánz-, gorilla- és erdei elefánt-populációnak ad otthont. A park emellett a veszélyeztetett tengeri teknősök fontos fészkelőhelye, és a Ramsari Egyezmény része.",
+      ro: "Parcul Național Conkouati-Douli este una dintre cele mai diverse arii protejate din Republica Congo, cuprinzând atât ecosisteme de coastă, cât și de pădure tropicală. Găzduiește populații semnificative de cimpanzei, gorile și elefanți de pădure. Parcul este, de asemenea, un loc important de cuibărit pentru țestoasele marine și face parte din Convenția Ramsar.",
+      en: "Conkouati-Douli National Park is one of the most biodiverse protected areas in the Republic of the Congo, encompassing both coastal and rainforest ecosystems. It is home to significant populations of chimpanzees, gorillas, and forest elephants. The park is also an important nesting site for endangered sea turtles and is part of the Ramsar Convention.",
+    },
+    factsAdvanced: {
+      de: ["Nationalpark gegründet im Jahr 1999", "Fläche von etwa 5.049 km2", "Ramsar-Feuchtgebiet von Bedeutung", "Lebensraum für westafrikanische Seekühe", "Bedeutende Waldelefanten-Population", "Nistplatz für Lederschildkröten"],
+      hu: ["A nemzeti parkot 1999-ben alapították", "Területe körülbelül 5.049 km2", "Nemzetközi jelentőségű Ramsari vizes élőhely", "Nyugat-afrikai manátuszok élőhelye", "Jelentős erdei elefánt-populáció", "Kérgesteknősök fészkelőhelye"],
+      ro: ["Parc național înființat în 1999", "Suprafață de aproximativ 5.049 km pătrați", "Zonă umedă Ramsar de importanță mondială", "Habitat pentru lamantini vest-africani", "Populație semnificativă de elefanți de pădure", "Țestoase pieloase care cuibăresc pe coastă"],
+      en: ["National park established in 1999", "Area of approximately 5,049 sq km", "Ramsar wetland of international importance", "Habitat for West African manatees", "Significant population of forest elephants", "Coastline used by nesting leatherback turtles"],
+    },
   },
   {
     id: "republicofcongo-lesio-louna-wildlife-reserve-life-v2",
@@ -38,6 +50,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Founded in 1999", "Area approx. 1,700 km²", "Lowland gorilla protection project", "Close to Brazzaville"],
     },
     imageHint: "Lesio-Louna gorilla release site",
+    descriptionAdvanced: {
+      de: "Das Lesio-Louna-Wildschutzgebiet liegt etwa 140 Kilometer nördlich von Brazzaville auf dem Batéké-Plateau. Es ist international bekannt für das Projekt zur Wiedereingliederung von Westlichen Flachlandgorillas in die Wildnis. Die Landschaft ist geprägt von einer Mischung aus hügeliger Savanne und dichten Galeriewäldern entlang der Flussläufe.",
+      hu: "A Lesio-Louna Vadrezervátum körülbelül 140 kilométerre északra található Brazzaville-től a Batéké-fennsíkon. A terület nemzetközileg ismert a nyugati síkvidéki gorillák visszatelepítési programjáról, amelyet az Aspinall Alapítvány támogat. A tájat dombos szavannák és a folyók mentén húzódó sűrű galériaerdők váltakozása jellemzi.",
+      ro: "Rezervația de faună Lesio-Louna este situată la aproximativ 140 de kilometri nord de Brazzaville, pe Podișul Batéké. Este cunoscută la nivel internațional pentru proiectul de reintroducere a gorilelor de câmpie în mediul lor natural. Peisajul este definit printr-un amestec de savană colinară și păduri-galerie dense de-a lungul cursurilor de apă.",
+      en: "The Lesio-Louna Wildlife Reserve is located approximately 140 kilometers north of Brazzaville on the Batéké Plateau. It is internationally recognized for its Western Lowland Gorilla reintroduction project supported by the Aspinall Foundation. The landscape features a mix of rolling savannah and dense gallery forests along the riverbanks.",
+    },
+    factsAdvanced: {
+      de: ["Gründung der Schutzzone im Jahr 1999.", "Gesamtfläche von etwa 173.000 Hektar.", "Heimat für rehabilitierte Flachlandgorillas.", "Der Fluss Louna bildet eine natürliche Grenze.", "Vorkommen von Flusspferden in den Gewässern.", "Einsatz von Rangern gegen Wilderei."],
+      hu: ["A védett területet 1999-ben hozták létre.", "Teljes területe körülbelül 173 000 hektár.", "Rehabilitált síkvidéki gorillák élőhelye.", "A Louna-folyó természetes határt képez.", "Vízilovak is előfordulnak a vizeiben.", "Vadőrök felügyelik az orvvadászat elleni védelmet."],
+      ro: ["Rezervația a fost înființată în anul 1999.", "Suprafața totală este de circa 173.000 hectare.", "Găzduiește gorile de câmpie reabilitate.", "Râul Louna formează o graniță naturală.", "Prezența hipopotamilor în cursurile de apă.", "Utilizarea rangerilor împotriva braconajului."],
+      en: ["The reserve was established in 1999.", "Total area of approximately 173,000 hectares.", "Home to rehabilitated lowland gorillas.", "The Louna River forms a natural boundary.", "Presence of hippos in the water bodies.", "Rangers are employed to prevent poaching."],
+    },
   },
   {
     id: "republicofcongo-ntoki-wetland-zone-life-v2",
@@ -57,6 +81,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Highly species-rich", "Rainforest floodplain", "Important migration area", "Difficult to access"],
     },
     imageHint: "Ntoki tropical swamp landscape",
+    descriptionAdvanced: {
+      de: "Die Ntoki-Feuchtgebiete sind Teil des riesigen Likouala-Sumpfwaldsystems im Norden der Republik Kongo. Dieses ökologisch bedeutsame Gebiet zeichnet sich durch eine extrem hohe Saisonalität und ausgedehnte Überschwemmungsflächen aus. Es bietet einen Rückzugsort für zahlreiche seltene Tierarten, die in den unzugänglichen Gebieten Schutz finden.",
+      hu: "Az Ntoki-vizesélőhelyek Kongói Köztársaság északi részén található hatalmas Likouala-mocsárerdő rendszer részét képezik. Ez az ökológiailag jelentős terület rendkívül magas szezonalitással és kiterjedt ártéri területekkel rendelkezik. Számos ritka állatfaj számára nyújt menedéket, amelyek a nehezen megközelíthető részeken találnak védelmet.",
+      ro: "Zonele umede Ntoki fac parte din vastul sistem de mlaștini Likouala din nordul Republicii Congo. Această regiune de importanță ecologică se caracterizează printr-o sezonalitate extremă și zone extinse de inundații. Oferă un refugiu pentru numeroase specii rare de animale care găsesc protecție în zonele inaccesibile.",
+      en: "The Ntoki wetlands are part of the vast Likouala swamp forest system in northern Republic of the Congo. This ecologically significant area is characterized by extreme seasonality and extensive floodplains. It provides a sanctuary for numerous rare animal species that find protection in its inaccessible reaches.",
+    },
+    factsAdvanced: {
+      de: ["Teil des größten Sumpfwaldkomplexes Afrikas.", "Jährliche Niederschlagsmenge über 2.000 mm.", "Wichtiger Lebensraum für Waldelefanten.", "Enthält ausgedehnte Torfmoorvorkommen.", "Wichtiger Kohlenstoffspeicher für den Planeten.", "Nur per Boot oder Hubschrauber erreichbar."],
+      hu: ["Afrika legnagyobb mocsárerdő-komplexumának része.", "Az éves csapadékmennyiség meghaladja a 2000 mm-t.", "Az erdei elefántok fontos élőhelye.", "Kiterjedt tőzeglápokat tartalmaz.", "A bolygó fontos szén-dioxid-tárolója.", "Csak hajóval vagy helikopterrel érhető el."],
+      ro: ["Face parte din cel mai mare complex de mlaștini din Africa.", "Precipitații anuale de peste 2.000 mm.", "Habitat important pentru elefanții de pădure.", "Conține depozite extinse de turbă.", "Stoc de carbon crucial pentru planetă.", "Accesibil doar cu barca sau elicopterul."],
+      en: ["Part of the largest swamp forest complex in Africa.", "Annual rainfall exceeds 2,000 mm.", "Important habitat for forest elephants.", "Contains extensive peatland deposits.", "Crucial carbon sink for the planet.", "Accessible only by boat or helicopter."],
+    },
   },
   {
     id: "republicofcongo-djoukou-forest-reserve-life-v2",
@@ -76,6 +112,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Regional protected area", "Important timber resources", "Flora research focus", "Strong seasonal rainfall"],
     },
     imageHint: "Djoukou dense rainforest",
+    descriptionAdvanced: {
+      de: "Das Djoukou-Waldreservat befindet sich in der Region Cuvette-Ouest und schützt einen bedeutenden Teil des tropischen Primärwaldes. Das Gebiet ist bekannt für seine hohe Biodiversität und dient als Pufferzone zwischen landwirtschaftlich genutzten Flächen und unberührter Natur. Die dichte Vegetation beherbergt eine Vielzahl von Primaten und endemischen Pflanzenarten.",
+      hu: "A Djoukou Erdőrezervátum a Cuvette-Ouest régióban található, és a trópusi őserdő jelentős részét védi. A terület magas biodiverzitásáról ismert, és pufferzónaként szolgál a mezőgazdasági területek és az érintetlen természet között. A sűrű vegetáció számos primátának és endemikus növényfajnak ad otthont.",
+      ro: "Rezervația forestieră Djoukou este situată în regiunea Cuvette-Ouest și protejează o parte semnificativă din pădurea tropicală primară. Zona este cunoscută pentru biodiversitatea sa ridicată și servește drept zonă-tampon între terenurile agricole și natura virgină. Vegetația densă adăpostește o varietate de primate și specii de plante endemice.",
+      en: "The Djoukou Forest Reserve is located in the Cuvette-Ouest region and protects a significant portion of primary tropical rainforest. The area is known for its high biodiversity and serves as a buffer zone between agricultural lands and pristine nature. The dense vegetation hosts a variety of primates and endemic plant species.",
+    },
+    factsAdvanced: {
+      de: ["Schutz von über 500 Pflanzenarten.", "Vorkommen des Westlichen Flachlandgorillas.", "Region ist geprägt von tropischem Regenwald.", "Wichtiger Korridor für wandernde Tierarten.", "Durchschnittliche Jahrestemperatur um 25 °C.", "Überwachung durch staatliche Forstbehörden."],
+      hu: ["Több mint 500 növényfaj védelmét látja el.", "A nyugati síkvidéki gorilla előfordulási helye.", "A régiót trópusi esőerdő jellemzi.", "Fontos folyosó a vándorló állatfajok számára.", "Az átlagos évi hőmérséklet 25 °C körül van.", "Az állami erdészeti hatóságok felügyelik."],
+      ro: ["Protejează peste 500 de specii de plante.", "Prezența gorilei de câmpie occidentale.", "Regiunea este caracterizată de pădurea tropicală.", "Coridor important pentru speciile migratoare.", "Temperatura medie anuală este de circa 25 °C.", "Monitorizată de autoritățile forestiere de stat."],
+      en: ["Protects over 500 species of plants.", "Presence of the western lowland gorilla.", "The region is characterized by tropical rainforest.", "Important corridor for migratory animal species.", "Average annual temperature is around 25 °C.", "Monitored by state forestry authorities."],
+    },
   },
   {
     id: "republicofcongo-léfini-faunal-reserve-life-v2",
@@ -95,6 +143,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Founded in the 1950s", "Important corridor for wildlife", "Known for buffalo populations", "Dry plateau"],
     },
     imageHint: "Lefini savannah and forest mosaic",
+    descriptionAdvanced: {
+      de: "Die Léfini-Wildtierreserve wurde bereits 1951 gegründet und ist eines der ältesten Schutzgebiete des Landes. Sie erstreckt sich über das Batéké-Plateau und umfasst weite Grassavannen sowie bewaldete Täler. Die Reserve spielt eine zentrale Rolle beim Schutz der lokalen Fauna, insbesondere von Flusspferden und verschiedenen Antilopenarten.",
+      hu: "A Léfini Vadrezervátumot 1951-ben alapították, így az ország egyik legrégebbi védett területe. A Batéké-fennsíkon terül el, hatalmas füves szavannákat és erdős völgyeket foglal magában. A rezervátum központi szerepet játszik a helyi fauna védelmében, különösen a vízilovak és különböző antilopfajok esetében.",
+      ro: "Rezervația de faună Léfini a fost înființată în 1951, fiind una dintre cele mai vechi arii protejate din țară. Se întinde pe Podișul Batéké și cuprinde savane cu iarbă înaltă și văi împădurite. Rezervația joacă un rol central în protejarea faunei locale, în special a hipopotamilor și a diverselor specii de antilope.",
+      en: "The Lefini Faunal Reserve was established in 1951, making it one of the oldest protected areas in the country. It spans the Batéké Plateau and includes vast grass savannahs and forested valleys. The reserve plays a central role in protecting local fauna, particularly hippos and various species of antelopes.",
+    },
+    factsAdvanced: {
+      de: ["Offizielles Gründungsdatum: 26. November 1951.", "Fläche von etwa 630.000 Hektar.", "Angrenzend an das Lesio-Louna-Reservat.", "Vorkommen der seltenen Sitatunga-Antilope.", "Landschaft durch tiefe Canyons geprägt.", "Wichtiges Forschungsgebiet für Ökologen."],
+      hu: ["Hivatalos alapítási dátuma 1951. november 26.", "Területe körülbelül 630 000 hektár.", "Szomszédos a Lesio-Louna rezervátummal.", "A ritka szitatunga antilop előfordulási helye.", "A tájat mély kanyonok jellemzik.", "Fontos kutatási terület ökológusok számára."],
+      ro: ["Data oficială de înființare: 26 noiembrie 1951.", "Suprafață de aproximativ 630.000 hectare.", "Adiacentă rezervației Lesio-Louna.", "Prezența rarei antilope sitatunga.", "Peisaj caracterizat prin canioane adânci.", "Zonă importantă de cercetare pentru ecologiști."],
+      en: ["Official establishment date: Nov 26, 1951.", "Area of approximately 630,000 hectares.", "Adjacent to the Lesio-Louna Reserve.", "Home to the rare sitatunga antelope.", "Landscape characterized by deep canyons.", "Important research area for ecologists."],
+    },
   },
   {
     id: "republicofcongo-sangha-river-biodiversity-zone-life-v2",
@@ -114,6 +174,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Cross-border with Cameroon", "Rich in fish species", "Main waterway in the north", "UNESCO protection status"],
     },
     imageHint: "Sangha river tropical environment",
+    descriptionAdvanced: {
+      de: "Der Sangha-Fluss ist eine lebenswichtige Wasserstraße und ein Biodiversitäts-Hotspot im Norden des Kongo-Beckens. Die umliegende Zone umfasst unberührte Regenwälder, die Teil des Trinationalen Sangha-Weltnaturerbes sind. Der Fluss dient als Korridor für Elefanten und Gorillas, die zwischen den angrenzenden Nationalparks in drei Ländern wandern.",
+      hu: "A Sangha-folyó létfontosságú vízi út és biodiverzitási forrópont a Kongó-medence északi részén. A környező zóna érintetlen esőerdőket foglal magában, amelyek a Sangha Trinational világörökségi helyszín részei. A folyó folyosóként szolgál az elefántok és gorillák számára, amelyek három ország határos nemzeti parkjai között vándorolnak.",
+      ro: "Râul Sangha este o cale navigabilă vitală și un punct fierbinte de biodiversitate în nordul Bazinului Congo. Zona înconjurătoare cuprinde păduri tropicale virgine, care fac parte din situl Patrimoniului Mondial Sangha Trinational. Râul servește ca un coridor pentru elefanți și gorile care migrează între parcurile naționale adiacente din trei țări.",
+      en: "The Sangha River is a vital waterway and a biodiversity hotspot in the northern Congo Basin. The surrounding zone includes pristine rainforests that are part of the Sangha Trinational World Heritage site. The river serves as a corridor for elephants and gorillas migrating between adjacent national parks in three countries.",
+    },
+    factsAdvanced: {
+      de: ["Sangha-Fluss ist etwa 790 km lang.", "UNESCO-Weltnaturerbe seit 2012.", "Grenzfluss zwischen Kongo, Kamerun und ZAR.", "Vorkommen von über 300 Vogelarten.", "Reich an Fischarten wie dem Tigerfisch.", "Wichtiger Transportweg für lokale Gemeinden."],
+      hu: ["A Sangha-folyó körülbelül 790 km hosszú.", "UNESCO világörökségi helyszín 2012 óta.", "Határfolyó Kongó, Kamerun és a KAK között.", "Több mint 300 madárfaj előfordulási helye.", "Gazdag halfajokban, például a tigrishalban.", "Fontos szállítási útvonal a helyi közösségeknek."],
+      ro: ["Râul Sangha are o lungime de circa 790 km.", "Patrimoniu Mondial UNESCO din 2012.", "Râu de frontieră între Congo, Camerun și RCA.", "Găzduiește peste 300 de specii de păsări.", "Bogat în specii de pești, cum ar fi peștele tigru.", "Rută importantă de transport pentru comunități."],
+      en: ["The Sangha River is about 790 km long.", "UNESCO World Heritage site since 2012.", "Border river between Congo, Cameroon, and CAR.", "Home to over 300 species of birds.", "Rich in fish species like the tigerfish.", "Important transport route for local communities."],
+    },
   },
   {
     id: "republicofcongo-loufoulakari-river-zone-life-v2",
@@ -133,6 +205,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Near Brazzaville", "Known for waterfalls", "Local recreational area", "Rich flora"],
     },
     imageHint: "Loufoulakari river waterfall",
+    descriptionAdvanced: {
+      de: "Die Loufoulakari-Flusszone ist berühmt für ihre spektakulären Wasserfälle, die sich etwa 80 Kilometer südlich von Brazzaville befinden. An dieser Stelle stürzt der Loufoulakari-Fluss über massive Felsstufen, bevor er in den mächtigen Kongo mündet. Die Umgebung ist ein beliebtes Ziel für Naturbeobachtungen und bietet dramatische Ausblicke auf die Flusslandschaft.",
+      hu: "A Loufoulakari-folyó zónája híres látványos vízeséseiről, amelyek Brazzaville-től körülbelül 80 kilométerre délre találhatók. Ezen a ponton a Loufoulakari-folyó masszív sziklalépcsőkön zúdul le, mielőtt a hatalmas Kongó-folyóba torkollna. A környék népszerű természetjáró hely, amely drámai kilátást nyújt a folyóparti tájra.",
+      ro: "Zona râului Loufoulakari este faimoasă pentru cascadele sale spectaculoase, situate la aproximativ 80 de kilometri sud de Brazzaville. În acest punct, râul Loufoulakari se prăbușește peste trepte masive de stâncă înainte de a se vărsa în fluviul Congo. Împrejurimile sunt o destinație populară pentru observarea naturii și oferă vederi dramatice.",
+      en: "The Loufoulakari River zone is famous for its spectacular waterfalls located about 80 kilometers south of Brazzaville. At this point, the Loufoulakari River plunges over massive rock steps before flowing into the mighty Congo River. The area is a popular destination for nature observation and offers dramatic views of the river landscape.",
+    },
+    factsAdvanced: {
+      de: ["Die Wasserfälle haben eine Höhe von ca. 40 m.", "Mündung in den Kongo-Fluss bei Louingui.", "Gelegen in der Region Pool.", "Wichtiger Ort für den lokalen Ökotourismus.", "Felsformationen aus präkambrischem Gestein.", "Heimat von Eisvögeln und anderen Wasservögeln."],
+      hu: ["A vízesések magassága kb. 40 méter.", "A Kongó-folyóba torkollik Louingui közelében.", "A Pool régióban található.", "Az ökoturizmus egyik fontos helyszíne.", "Prekambriumi kőzetekből álló sziklaalakzatok.", "Jégmadarak és más vízi madarak élőhelye."],
+      ro: ["Cascadele au o înălțime de aproximativ 40 m.", "Vărsare în fluviul Congo lângă Louingui.", "Situată în regiunea Pool.", "Loc important pentru ecoturismul local.", "Formațiuni stâncoase din roci precambriene.", "Găzduiește pescăruși albaștri și păsări de apă."],
+      en: ["The waterfalls have a height of about 40m.", "Confluence with the Congo River near Louingui.", "Located in the Pool region.", "Important site for local ecotourism.", "Rock formations consist of Precambrian stone.", "Home to kingfishers and other water birds."],
+    },
   },
   {
     id: "republicofcongo-baya-forest-region-life-v2",
@@ -152,6 +236,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Primary forest", "Very high biodiversity", "Hardly any human intervention", "Important climate function"],
     },
     imageHint: "Baya primary rainforest canopy",
+    descriptionAdvanced: {
+      de: "Die Baya-Waldregion im Süden der Republik Kongo ist ein dichtes Waldgebiet, das an das Mayombe-Gebirge grenzt. Dieser immergrüne Regenwald zeichnet sich durch seine reiche Flora und die schwierige Zugänglichkeit aus. Er ist ein kritischer Lebensraum für viele bedrohte Arten und dient als wichtiges Wassereinzugsgebiet für die umliegenden Täler.",
+      hu: "A Kongói Köztársaság déli részén található Baya-erdőrégió egy sűrű erdős terület, amely a Mayombe-hegységgel határos. Ezt az örökzöld esőerdőt gazdag flórája és nehéz megközelíthetősége jellemzi. Számos veszélyeztetett faj számára kritikus élőhely, és fontos vízgyűjtő területként szolgál a környező völgyek számára.",
+      ro: "Regiunea forestieră Baya din sudul Republicii Congo este o zonă cu păduri dense, adiacentă munților Mayombe. Această pădure tropicală veșnic verde se caracterizează prin flora sa bogată și accesibilitatea dificilă. Este un habitat critic pentru multe specii periclitate și servește ca bazin hidrografic important pentru văile din jur.",
+      en: "The Baya Forest region in southern Republic of the Congo is a dense forested area adjacent to the Mayombe mountains. This evergreen rainforest is characterized by its rich flora and difficult accessibility. It is a critical habitat for many endangered species and serves as an important watershed for the surrounding valleys.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen in der Region Niari.", "Teil des guineisch-kongolesischen Waldgürtels.", "Vorkommen seltener afrikanischer Harthölzer.", "Niederschläge von über 1.800 mm pro Jahr.", "Habitat für Waldelefanten und Schimpansen.", "Böden sind reich an organischen Stoffen."],
+      hu: ["A Niari régióban található.", "A guineai-kongói erdőöv része.", "Ritka afrikai keményfák előfordulási helye.", "Évi 1800 mm-t meghaladó csapadékmennyiség.", "Erdei elefántok és csimpánzok élőhelye.", "A talaj szerves anyagokban gazdag."],
+      ro: ["Situată în regiunea Niari.", "Parte a centurii forestiere guineo-congoleze.", "Prezența unor esențe rare de lemn african.", "Precipitații de peste 1.800 mm pe an.", "Habitat pentru elefanți de pădure și cimpanzei.", "Solurile sunt bogate în substanțe organice."],
+      en: ["Located in the Niari region.", "Part of the Guineo-Congolese forest belt.", "Presence of rare African hardwoods.", "Rainfall exceeds 1,800 mm per year.", "Habitat for forest elephants and chimpanzees.", "Soils are rich in organic matter."],
+    },
   },
   {
     id: "republicofcongo-nibere-wildlife-spot-life-v2",
@@ -171,6 +267,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Difficult to access", "Observation site", "Low-disturbance zone", "Rich animal population"],
     },
     imageHint: "Nibere remote rainforest wildlife",
+    descriptionAdvanced: {
+      de: "Nibere ist ein abgelegener Beobachtungspunkt im Herzen des Sangha-Regenwaldes, der besonders für seine „Bais“ (Waldlichtungen) bekannt ist. Diese mineralreichen Lichtungen ziehen eine Vielzahl von Wildtieren an, die hierher kommen, um Salze aufzunehmen. Es ist einer der besten Orte im Kongo, um Waldelefanten und Gorillas in ihrer natürlichen Umgebung zu sehen.",
+      hu: "Nibere egy távoli megfigyelőpont a Sangha esőerdő szívében, amely különösen a „bai”-okról (erdei tisztásokról) ismert. Ezek az ásványi anyagokban gazdag tisztások számos vadállatot vonzanak, amelyek ide járnak sót nyalni. Ez az egyik legjobb hely Kongóban, ahol erdei elefántokat és gorillákat láthatunk természetes környezetükben.",
+      ro: "Nibere este un punct de observare izolat în inima pădurii tropicale Sangha, cunoscut în special pentru „bai”-urile sale (luminișuri forestiere). Aceste luminișuri bogate în minerale atrag o varietate de animale sălbatice care vin aici pentru a consuma săruri. Este unul dintre cele mai bune locuri din Congo pentru a vedea elefanți de pădure și gorile.",
+      en: "Nibere is a remote observation spot in the heart of the Sangha rainforest, particularly known for its 'bais' (forest clearings). These mineral-rich clearings attract a variety of wildlife that come here to ingest salts. It is one of the best places in Congo to see forest elephants and gorillas in their natural environment.",
+    },
+    factsAdvanced: {
+      de: ["Bekannt für große Gruppen von Waldelefanten.", "Zählt zu den wichtigsten Bais in Nordkongo.", "Mineralreicher Boden lockt Primaten an.", "Wissenschaftliche Station für Gorillaforschung.", "Beobachtungstürme für Wildtierbeobachtung.", "Erreichbar über Flusstransport."],
+      hu: ["Híres az erdei elefántok nagy csoportjairól.", "Észak-Kongó legfontosabb tisztásai közé tartozik.", "Ásványokban gazdag talaj vonzza a primátákat.", "Gorillakutatásra szolgáló tudományos állomás.", "Megfigyelőtornyok a vadon élő állatokhoz.", "Folyami szállítással érhető meg."],
+      ro: ["Cunoscut pentru grupuri mari de elefanți.", "Printre cele mai importante luminișuri din nord.", "Solul bogat în minerale atrage primatele.", "Stație științifică pentru cercetarea gorilelor.", "Turnuri de observare pentru animale sălbatice.", "Accesibil prin transport fluvial."],
+      en: ["Known for large groups of forest elephants.", "Among the most important bais in North Congo.", "Mineral-rich soil attracts primates.", "Scientific station for gorilla research.", "Observation towers for wildlife viewing.", "Accessible via river transport."],
+    },
   },
   {
     id: "republicofcongo-lakouo-swamp-forest-life-v2",
@@ -190,6 +298,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Periodically flooded", "Very high species richness", "Ideal for amphibians", "Difficult terrain"],
     },
     imageHint: "Lakouo swamp forest landscape",
+    descriptionAdvanced: {
+      de: "Der Lakouo-Sumpfwald liegt in der Zentralkongolesischen Senke und ist ein Beispiel für ein fast unberührtes Feuchtgebiets-Ökosystem. Der Wald ist das ganze Jahr über teilweise überflutet, was die Ansiedlung spezialisierter Pflanzenarten ermöglicht hat. Dieses Gebiet spielt eine entscheidende Rolle bei der Regulierung des lokalen Wasserkreislaufs im Kongo-Becken.",
+      hu: "A Lakouo-mocsárerdő a Közép-Kongói-medencében található, és egy szinte érintetlen vizesélőhely-ökoszisztéma példája. Az erdő egész évben részben elárasztott, ami lehetővé tette a speciális növényfajok megtelepedését. Ez a terület döntő szerepet játszik a Kongó-medence helyi vízkörforgásának szabályozásában.",
+      ro: "Pădurea de mlaștină Lakouo este situată în Depresiunea Congo Central și este un exemplu de ecosistem de zonă umedă aproape virgin. Pădurea este parțial inundată pe tot parcursul anului, ceea ce a permis stabilirea unor specii de plante specializate. Această zonă joacă un rol crucial în reglarea ciclului local al apei.",
+      en: "The Lakouo swamp forest is located in the Central Congo Basin and is an example of a nearly pristine wetland ecosystem. The forest is partially flooded year-round, which has enabled the establishment of specialized plant species. This area plays a crucial role in regulating the local water cycle in the Congo Basin.",
+    },
+    factsAdvanced: {
+      de: ["Dominanz von Raphia-Palmen im Wald.", "Habitat für die seltene Sitatunga-Antilope.", "Wasserstand schwankt saisonal um bis zu 2 m.", "Wichtiger Brutplatz für Zugvögel.", "Böden bestehen aus tiefem Schlamm und Torf.", "Region ist fast vollständig unbewohnt."],
+      hu: ["A rafiapálmák dominálnak az erdőben.", "A ritka szitatunga antilop élőhelye.", "A vízszint évszakonként akár 2 m-t is ingadozhat.", "Fontos költőhely vándorló madarak számára.", "A talaj mély iszapból és tőzegből áll.", "A régió szinte teljesen lakatlan."],
+      ro: ["Dominanța palmierilor Raphia în pădure.", "Habitat pentru rara antilopă sitatunga.", "Nivelul apei variază sezonier cu până la 2 m.", "Loc important de cuibărit pentru păsări.", "Solurile constau din nămol adânc și turbă.", "Regiunea este aproape complet nelocuită."],
+      en: ["Dominance of Raphia palms in the forest.", "Habitat for the rare sitatunga antelope.", "Water level fluctuates seasonally by up to 2m.", "Important nesting site for migratory birds.", "Soils consist of deep mud and peat.", "The region is almost entirely uninhabited."],
+    },
   },
   {
     id: "republicofcongo-kouilou-river-estuary-life-v2",
@@ -209,6 +329,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Mangrove forest", "Important fishing grounds", "Near Pointe-Noire", "Tide-dependent"],
     },
     imageHint: "Kouilou river estuary mangrove",
+    descriptionAdvanced: {
+      de: "Die Mündung des Kouilou-Flusses in den Atlantik nahe Pointe-Noire ist eine ökologisch wertvolle Zone mit ausgedehnten Mangrovenwäldern. Hier vermischt sich das Süßwasser des Flusses mit dem Salzwasser des Ozeans, was eine einzigartige Brackwasserumgebung schafft. Die Ästuarregion ist ein wichtiger Laichplatz für Fische und ein Lebensraum für bedrohte Meeresschildkröten.",
+      hu: "A Kouilou-folyó Atlanti-óceáni torkolata Pointe-Noire közelében ökológiailag értékes zóna, kiterjedt mangroveerdőkkel. Itt a folyó édesvize keveredik az óceán sós vizével, ami egyedülálló brakkvízi környezetet hoz létre. A torkolati régió fontos halívóhely és a veszélyeztetett tengeri teknősök élőhelye.",
+      ro: "Estuarul râului Kouilou în Oceanul Atlantic, lângă Pointe-Noire, este o zonă valoroasă ecologic, cu păduri extinse de mangrove. Aici, apa dulce a râului se amestecă cu apa sărată a oceanului, creând un mediu unic de apă salmastră. Regiunea estuarului este un loc important de depunere a icrelor și un habitat pentru țestoase.",
+      en: "The Kouilou River estuary on the Atlantic coast near Pointe-Noire is an ecologically valuable zone with extensive mangrove forests. Here, the fresh water of the river mixes with the salt water of the ocean, creating a unique brackish water environment. The estuary region is an important spawning ground for fish and a habitat for sea turtles.",
+    },
+    factsAdvanced: {
+      de: ["Kouilou ist der zweitlängste Fluss im Kongo.", "Vorkommen von vier Arten von Meeresschildkröten.", "Mangroven bedecken große Teile des Ufers.", "Wichtiger Standort für die handwerkliche Fischerei.", "Gezeiten beeinflussen den Flusslauf kilometerweit.", "Angrenzend an den Nationalpark Conkouati-Douli."],
+      hu: ["A Kouilou Kongó második leghosszabb folyója.", "Négyféle tengeri teknősfaj fordul elő itt.", "Mangrovék borítják a part jelentős részét.", "A kézműves halászat fontos helyszíne.", "Az árapály kilométerekre befolyásolja a folyót.", "A Conkouati-Douli Nemzeti Parkkal határos."],
+      ro: ["Kouilou este al doilea cel mai lung râu din țară.", "Prezența a patru specii de țestoase marine.", "Mangrovele acoperă mari părți ale malului.", "Loc important pentru pescuitul artizanal.", "Mareele influențează cursul pe mulți kilometri.", "Adiacent Parcului Național Conkouati-Douli."],
+      en: ["Kouilou is the second longest river in Congo.", "Presence of four species of sea turtles.", "Mangroves cover large portions of the banks.", "Important site for artisanal fishing.", "Tides influence the river for many kilometers.", "Adjacent to Conkouati-Douli National Park."],
+    },
   },
   {
     id: "republicofcongo-likouala-forest-zone-life-v2",
@@ -228,6 +360,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Very remote", "Important habitat", "Low infrastructure", "Low population density"],
     },
     imageHint: "Likouala remote forest interior",
+    descriptionAdvanced: {
+      de: "Die Likouala-Waldzone im Nordosten des Landes gilt als eines der entlegensten und am wenigsten erforschten Waldgebiete der Welt. Diese riesige Sumpflandschaft beherbergt eine außergewöhnliche biologische Vielfalt, darunter den Westlichen Flachlandgorilla. Aufgrund der dichten Vegetation und der ständigen Überflutungen ist das Gebiet weitgehend unzugänglich geblieben.",
+      hu: "Az ország északkeleti részén található Likouala-erdőzónát a világ egyik legtávolabbi és legkevésbé feltárt erdőterületének tartják. Ez a hatalmas mocsaras táj rendkívüli biológiai sokféleségnek ad otthont, beleértve a nyugati síkvidéki gorillát is. A sűrű vegetáció és az állandó áradások miatt a terület nagy része hozzáférhetetlen maradt.",
+      ro: "Zona forestieră Likouala din nord-estul țării este considerată una dintre cele mai izolate și mai puțin explorate regiuni forestiere din lume. Acest vast peisaj mlăștinos găzduiește o biodiversitate excepțională, inclusiv gorila de câmpie. Din cauza vegetației dense și a inundațiilor constante, zona a rămas în mare parte inaccesibilă.",
+      en: "The Likouala forest zone in the northeast of the country is considered one of the most remote and least explored forest areas in the world. This vast swampy landscape hosts extraordinary biological diversity, including the western lowland gorilla. Due to dense vegetation and constant flooding, the area has remained largely inaccessible.",
+    },
+    factsAdvanced: {
+      de: ["Region umfasst ca. 66.000 Quadratkilometer.", "Heimat der Legende des Mokele-mbembe.", "Größtes zusammenhängendes Sumpfgebiet Afrikas.", "Hauptstadt der Region ist Impfondo.", "Hoher Bestand an Waldelefanten.", "Enormer Speicher für atmosphärisches CO2."],
+      hu: ["A régió kb. 66 000 négyzetkilométeres.", "A Mokele-mbembe legendájának otthona.", "Afrika legnagyobb összefüggő mocsárvidéke.", "A régió fővárosa Impfondo.", "Magas az erdei elefántok száma a területen.", "Hatalmas légköri CO2-tárolóhely."],
+      ro: ["Regiunea cuprinde cca. 66.000 km pătrați.", "Locul de origine al legendei Mokele-mbembe.", "Cea mai mare zonă mlăștinoasă din Africa.", "Capitala regiunii este orașul Impfondo.", "Populație ridicată de elefanți de pădure.", "Depozit enorm pentru CO2 atmosferic."],
+      en: ["Region covers approx. 66,000 square km.", "Home to the legend of the Mokele-mbembe.", "Largest contiguous swamp area in Africa.", "The regional capital is Impfondo.", "High population of forest elephants.", "Enormous storage for atmospheric CO2."],
+    },
   },
   {
     id: "republicofcongo-djoumouna-river-nature-spot-life-v2",
@@ -247,6 +391,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["In the Pool region", "Seasonal water level", "Rich bird life", "Easy accessibility"],
     },
     imageHint: "Djoumouna river bank landscape",
+    descriptionAdvanced: {
+      de: "Der Djoumouna-Fluss ist ein beliebtes Naherholungsgebiet in der Nähe von Brazzaville, das für seine natürliche Schönheit und ruhige Atmosphäre bekannt ist. Das Gebiet bietet kleine Wasserfälle und von Bäumen gesäumte Ufer, die ideal für Naturbeobachtungen sind. Es dient als wichtiger Rückzugsort für die städtische Bevölkerung und beherbergt eine Vielfalt an lokaler Flora.",
+      hu: "A Djoumouna-folyó Brazzaville közelében található népszerű kirándulóhely, amely természeti szépségéről és nyugodt légköréről ismert. A terület apró vízeséseket és fákkal szegélyezett partokat kínál, amelyek ideálisak a természet megfigyelésére. Fontos menedékhelyként szolgál a városi lakosság számára, és gazdag helyi flórának ad otthont.",
+      ro: "Râul Djoumouna este o zonă de recreere populară în apropiere de Brazzaville, cunoscută pentru frumusețea sa naturală și atmosfera liniștită. Zona oferă mici cascade și maluri mărginite de copaci, ideale pentru observarea naturii. Servește ca un refugiu important pentru populația urbană și găzduiește o diversitate de floră locală.",
+      en: "The Djoumouna River is a popular recreational area near Brazzaville, known for its natural beauty and calm atmosphere. The area features small waterfalls and tree-lined banks that are ideal for nature observation. It serves as an important retreat for the urban population and hosts a variety of local flora.",
+    },
+    factsAdvanced: {
+      de: ["Nur etwa 20 km von Brazzaville entfernt.", "Beliebter Ort für Picknicks und Ausflüge.", "Vorhandensein von Sekundärwaldstrukturen.", "Vogelbeobachtung von Eisvögeln möglich.", "Kleine Stromschnellen prägen den Flusslauf.", "Wichtiger Ort für Umweltbildung."],
+      hu: ["Mindössze kb. 20 km-re van Brazzavilletől.", "Népszerű hely piknikezésre és kirándulásokra.", "Másodlagos erdőszerkezetek jelenléte.", "Jégmadarak megfigyelése is lehetséges.", "Kisebb zúgók jellemzik a folyó folyását.", "Fontos helyszín a környezeti neveléshez."],
+      ro: ["Situat la doar circa 20 km de Brazzaville.", "Loc popular pentru picnicuri și excursii.", "Prezența structurilor de pădure secundară.", "Observarea pescărușilor albaștri este posibilă.", "Mici repezișuri caracterizează cursul râului.", "Loc important pentru educația ecologică."],
+      en: ["Located only about 20 km from Brazzaville.", "Popular spot for picnics and excursions.", "Presence of secondary forest structures.", "Birdwatching for kingfishers is possible.", "Small rapids characterize the river flow.", "Important site for environmental education."],
+    },
   },
   {
     id: "republicofcongo-mbe-plateau-savannah-life-v2",
@@ -266,6 +422,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["High plateau", "Wide grasslands", "Typical for the center", "Important grazing area"],
     },
     imageHint: "Mbe plateau savannah expanse",
+    descriptionAdvanced: {
+      de: "Das Mbe-Plateau ist eine weite, hügelige Savannenlandschaft im Batéké-Plateau-Komplex nördlich der Hauptstadt. Diese Region ist historisch bedeutsam als Teil des ehemaligen Téké-Königreichs und zeichnet sich durch sandige Böden und tief eingeschnittene Täler aus. Die Flora besteht hauptsächlich aus Gräsern und vereinzelten Sträuchern, die an die trockenen Bedingungen angepasst sind.",
+      hu: "Az Mbe-fennsík egy hatalmas, dombos szavannás táj a fővárostól északra található Batéké-fennsík komplexumban. Ez a régió történelmileg jelentős, mint az egykori Téké Királyság része, és homokos talaj, valamint mélyen bevágott völgyek jellemzik. A flóra főként füvekből és szórványos cserjékből áll, amelyek alkalmazkodtak a száraz körülményekhez.",
+      ro: "Podișul Mbe este un vast peisaj de savană colinară din complexul Podișului Batéké, situat la nord de capitală. Această regiune este semnificativă istoric ca parte a fostului Regat Téké și se caracterizează prin soluri nisipoase și văi adânc tăiate. Flora constă în principal din ierburi și arbuști izolați, adaptați la condițiile uscate.",
+      en: "The Mbe Plateau is a vast, rolling savannah landscape within the Batéké Plateau complex north of the capital. This region is historically significant as part of the former Téké Kingdom and is characterized by sandy soils and deeply incised valleys. The flora mainly consists of grasses and scattered shrubs adapted to the dry conditions.",
+    },
+    factsAdvanced: {
+      de: ["Durchschnittliche Höhe von ca. 600 Metern.", "Historisches Zentrum des Téké-Volkes.", "Sandige Böden mit geringer Fruchtbarkeit.", "Vorkommen von Schakalarten und Greifvögeln.", "Teil des größeren Batéké-Plateau-Systems.", "Geringe Bevölkerungsdichte in der Region."],
+      hu: ["Átlagos magassága kb. 600 méter.", "A téké nép történelmi központja.", "Alacsony termőképességű homokos talaj.", "Sakálfajok és ragadozó madarak fordulnak elő.", "A nagyobb Batéké-fennsík rendszer része.", "Alacsony népsűrűség jellemzi a régiót."],
+      ro: ["Înălțime medie de aproximativ 600 de metri.", "Centru istoric al poporului Téké.", "Soluri nisipoase cu fertilitate scăzută.", "Prezența șacalilor și a păsărilor de pradă.", "Parte a sistemului mai larg al Podișului Batéké.", "Densitate scăzută a populației în regiune."],
+      en: ["Average elevation of about 600 meters.", "Historical center of the Téké people.", "Sandy soils with low fertility.", "Home to jackal species and birds of prey.", "Part of the larger Batéké Plateau system.", "Low population density in the region."],
+    },
   },
   {
     id: "republicofcongo-indombo-lake-region-life-v2",
@@ -285,6 +453,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Very humid", "Rich aquatic fauna", "Seasonally hard to access", "Ecologically sensitive"],
     },
     imageHint: "Indombo lake swamp area",
+    descriptionAdvanced: {
+      de: "Die Indombo-See-Region im Norden des Kongos ist ein abgelegenes System aus Seen und saisonal überfluteten Ebenen. Das Gebiet ist reich an Fischressourcen und dient als wichtiger Rastplatz für Zugvögel auf ihrem Weg durch Zentralafrika. Die umliegenden Wälder sind weitgehend intakt und bieten einen sicheren Korridor für wandernde Großsäuger.",
+      hu: "Kongó északi részén található Indombo-tó régiója tavakból és szezonálisan elárasztott síkságokból álló távoli rendszer. A terület gazdag halállományban, és fontos pihenőhelyként szolgál a Közép-Afrikán áthaladó vándorló madarak számára. A környező erdők nagy része érintetlen, biztonságos folyosót biztosítva a vándorló nagyemlősöknek.",
+      ro: "Regiunea Lacului Indombo din nordul Congo-ului este un sistem izolat de lacuri și câmpii inundate sezonier. Zona este bogată în resurse piscicole și servește ca loc important de popas pentru păsările migratoare care traversează Africa Centrală. Pădurile din jur sunt în mare parte intacte, oferind un coridor sigur pentru mamiferele mari.",
+      en: "The Indombo Lake region in northern Congo is a remote system of lakes and seasonally flooded plains. The area is rich in fish resources and serves as an important stopover for migratory birds traveling through Central Africa. The surrounding forests are largely intact, providing a safe corridor for migrating large mammals.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen im Distrikt Impfondo.", "Reich an Buntbarsch-Arten.", "Teil der RAMSAR-Feuchtgebiete.", "Traditionelle Fischerei durch lokale Baka.", "Überflutung während der Regenzeit (Okt-Nov).", "Erreichbar nur über Wasserwege."],
+      hu: ["Az Impfondo körzetben található.", "Gazdag sügérfélékben (cichlids).", "A RAMSAR vizesélőhelyek része.", "A helyi baka népcsoport hagyományos halászhelye.", "Áradások az esős évszakban (okt-nov).", "Kizárólag vízi utakon érhető el."],
+      ro: ["Situată în districtul Impfondo.", "Bogat în specii de pești ciclide.", "Parte a zonelor umede RAMSAR.", "Pescuit tradițional practicat de populația Baka.", "Inundații în timpul sezonului ploios (oct-nov).", "Accesibil doar pe căi navigabile."],
+      en: ["Located in the Impfondo district.", "Rich in various cichlid fish species.", "Part of the RAMSAR wetland sites.", "Traditional fishing by local Baka people.", "Flooding occurs during the rainy season (Oct-Nov).", "Accessible only via waterways."],
+    },
   },
   {
     id: "republicofcongo-djouah-forest-zone-life-v2",
@@ -304,6 +484,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Tropical rainforest", "High tree growth", "Important CO2 sink", "Untouched areas"],
     },
     imageHint: "Djouah tall rainforest trees",
+    descriptionAdvanced: {
+      de: "Die Djouah-Waldzone liegt im Grenzgebiet zwischen dem Kongo und Gabun und ist ein Teil des dichten äquatorialen Regenwaldes. Dieses Gebiet ist durch eine hügelige Topographie und zahlreiche kleine Wasserläufe gekennzeichnet, die den Boden durchziehen. Die hohe Luftfeuchtigkeit und konstante Temperaturen fördern das Wachstum gigantischer Baumriesen wie dem Okoumé.",
+      hu: "A Kongó és Gabon határvidékén található Djouah-erdőzóna a sűrű egyenlítői esőerdő része. Ezt a területet dombos domborzat és számos, a talajt átszelő kis vízfolyás jellemzi. A magas páratartalom és az állandó hőmérséklet elősegíti az olyan óriási fák növekedését, mint az okoumé.",
+      ro: "Zona forestieră Djouah este situată în regiunea de frontieră dintre Congo și Gabon și face parte din pădurea tropicală ecuatorială densă. Această zonă este caracterizată printr-o topografie colinară și numeroase cursuri mici de apă care străbat solul. Umiditatea ridicată și temperaturile constante favorizează creșterea arborilor gigantici.",
+      en: "The Djouah forest zone is located in the border region between Congo and Gabon and is part of the dense equatorial rainforest. This area is characterized by hilly topography and numerous small watercourses crisscrossing the ground. High humidity and constant temperatures promote the growth of giant trees like the Okoumé.",
+    },
+    factsAdvanced: {
+      de: ["Reich an wertvollen Holzarten wie Okoumé.", "Gehört zum Sangha-Gabun-Waldblock.", "Vorkommen von seltenen Waldbüffeln.", "Wichtiger Lebensraum für Mandrills.", "Regenfall beträgt ca. 1.700 mm jährlich.", "Region ist bekannt für hohen Endemismus."],
+      hu: ["Értékes fafajokban, például okouméban gazdag.", "A Sangha-Gabon erdőtömb része.", "Ritka erdei bivalyok előfordulási helye.", "A mandrillok fontos élőhelye.", "Az éves csapadékmennyiség kb. 1700 mm.", "A régió a magas endémizmusról ismert."],
+      ro: ["Bogat în specii de lemn prețios, cum ar fi okoumé.", "Parte a blocului forestier Sangha-Gabon.", "Prezența bivolilor de pădure rari.", "Habitat important pentru mandrili.", "Precipitațiile sunt de circa 1.700 mm anual.", "Regiunea este cunoscută pentru endemism ridicat."],
+      en: ["Rich in valuable timber like Okoumé.", "Part of the Sangha-Gabon forest block.", "Presence of rare forest buffaloes.", "Important habitat for mandrills.", "Rainfall is approximately 1,700 mm annually.", "Region is known for high levels of endemism."],
+    },
   },
   {
     id: "republicofcongo-niari-valley-wildlife-spot-life-v2",
@@ -323,6 +515,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Fertile region", "Transition habitat", "Important agricultural zone", "Varied wildlife"],
     },
     imageHint: "Niari valley landscape",
+    descriptionAdvanced: {
+      de: "Das Niari-Tal im Südwesten des Kongo ist eine fruchtbare Region, die für ihre landwirtschaftliche Bedeutung und reiche Flora bekannt ist. Die Ebene erstreckt sich über hunderte Kilometer und bietet Lebensraum für zahlreiche Antilopenarten und kleine Säugetiere. Das Tal wird durch den Niari-Fluss bewässert und ist von sanften Hügelketten umgeben.",
+      hu: "A Kongói Köztársaság délnyugati részén fekvő Niari-völgy az ország egyik legfontosabb mezőgazdasági és ökológiai övezete. A termékeny síkság bőséges legelőt és vizet biztosít a vadon élő állatoknak, különösen a különböző antilopfajoknak. A területet a Niari-folyó hálózata szeli át, gazdag növényvilágot tartva fenn.",
+      ro: "Valea Niari din sud-vestul Republicii Congo este o regiune fertilă, renumită pentru importanța sa agricolă și biodiversitatea sa. Această zonă de câmpie oferă un habitat ideal pentru diverse specii de antilope și păsări tropicale. Valea este străbătută de râul Niari, care susține o vegetație luxuriantă pe tot parcursul anului.",
+      en: "The Niari Valley in southwestern Congo is a fertile region known for its agricultural significance and rich wildlife. The vast plains provide essential grazing grounds and water sources for various antelope species and tropical birds. The valley is drained by the Niari River system, which supports a diverse range of plant life.",
+    },
+    factsAdvanced: {
+      de: ["Das Tal erstreckt sich über eine Länge von etwa 500 Kilometern.", "Es ist das wichtigste Anbaugebiet für Zuckerrohr im Land.", "Der Niari-Fluss ist die Hauptwasserquelle der Region.", "Die durchschnittliche Jahrestemperatur liegt bei 26 Grad Celsius.", "In den Randgebieten finden sich dichte Galeriewälder.", "Die Region beherbergt über 200 verschiedene Vogelarten."],
+      hu: ["A völgy hossza megközelítőleg 500 kilométer.", "Ez az ország legjelentősebb cukornádtermesztő vidéke.", "A térség fő vízforrása a Niari-folyó.", "Az éves átlaghőmérséklet 26 Celsius-fok körül alakul.", "A völgy szélein sűrű galériaerdők találhatók.", "A terület több mint 200 madárfajnak ad otthont."],
+      ro: ["Valea se întinde pe o lungime de aproximativ 500 de kilometri.", "Este cea mai importantă zonă de cultivare a trestiei de zahăr.", "Râul Niari este principala sursă de apă a regiunii.", "Temperatura medie anuală este de circa 26 de grade Celsius.", "La marginile văii se găsesc păduri-galerie dense.", "Regiunea găzduiește peste 200 de specii de păsări."],
+      en: ["The valley stretches for approximately 500 kilometers.", "It is the primary sugarcane-growing region in the country.", "The Niari River serves as the main water source for the area.", "Average annual temperatures hover around 26 degrees Celsius.", "Dense gallery forests are found along the valley edges.", "The region is home to over 200 different bird species."],
+    },
   },
   {
     id: "republicofcongo-sanga-marsh-life-v2",
@@ -342,6 +546,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Permanently wet", "High species density", "Important breeding area", "Very fragile ecosystem"],
     },
     imageHint: "Sanga marsh wetlands",
+    descriptionAdvanced: {
+      de: "Der Sanga-Sumpf im Norden des Landes ist Teil eines riesigen Feuchtgebietskomplexes im Sangha-Becken. Diese unzugängliche Region besteht aus saisonal überfluteten Wäldern, die für das Überleben von Flachlandgorillas und Waldelefanten entscheidend sind. Das Ökosystem ist eng mit dem Sangha-Fluss verbunden, der die Grenze zu den Nachbarländern bildet.",
+      hu: "Az ország északi részén található Sanga-mocsár a Sangha-medence hatalmas vizesélőhely-rendszerének része. Ez az elszigetelt vidék szezonálisan elárasztott erdőkből áll, amelyek létfontosságúak a síkvidéki gorillák és erdei elefántok számára. Az ökoszisztéma szoros kapcsolatban áll a szomszédos országok határát is alkotó Sangha-folyóval.",
+      ro: "Mlaștina Sanga din nordul țării face parte dintr-un complex vast de zone umede din bazinul Sangha. Această regiune izolată este formată din păduri inundate sezonier, esențiale pentru supraviețuirea gorilelor și a elefanților de pădure. Ecosistemul este strâns legat de râul Sangha, care marchează și granița cu țările vecine.",
+      en: "The Sanga Marsh in the north is part of a vast wetland complex within the Sangha River basin. This remote region consists of seasonally flooded forests that are crucial for the survival of western lowland gorillas and forest elephants. The ecosystem is tightly linked to the Sangha River, which forms part of the national border.",
+    },
+    factsAdvanced: {
+      de: ["Der Sumpf liegt im Sangha-Becken, einem UNESCO-Welterbe.", "Die Region erhält jährlich über 1.600 mm Niederschlag.", "Es ist ein wichtiges Rückzugsgebiet für den Waldelefanten.", "Die Vegetation besteht hauptsächlich aus Raphia-Palmen.", "Das Gebiet ist nur per Boot über den Sangha-Fluss erreichbar.", "Große Teile des Sumpfes bleiben das ganze Jahr über feucht."],
+      hu: ["A mocsár az UNESCO Világörökség részét képező Sangha-medencében fekszik.", "A régióban az éves csapadékmennyiség meghaladja az 1600 mm-t.", "Az erdei elefántok egyik legfontosabb menedékhelye.", "A növényzetet főként Raphia-pálmák alkotják.", "A terület csak csónakkal érhető el a Sangha-folyón keresztül.", "A mocsár nagy része az év minden szakában nedves marad."],
+      ro: ["Mlaștina se află în bazinul Sangha, sit inclus în patrimoniul UNESCO.", "Regiunea primește peste 1.600 mm de precipitații anual.", "Este un refugiu major pentru elefanții de pădure.", "Vegetația este dominată de palmieri din genul Raphia.", "Zona este accesibilă doar cu barca pe râul Sangha.", "Mari părți ale mlaștinii rămân umede pe tot parcursul anului."],
+      en: ["The marsh is in the Sangha Basin, a UNESCO World Heritage site.", "The region receives over 1,600 mm of rainfall annually.", "It is a primary refuge for the endangered forest elephant.", "The vegetation is dominated by Raphia palm species.", "The area is accessible only by boat via the Sangha River.", "Large sections of the marsh remain wet throughout the year."],
+    },
   },
   {
     id: "republicofcongo-lemba-forest-area-life-v2",
@@ -361,6 +577,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Regionally significant", "Dense tree stands", "High conservation status", "Seasonally humid"],
     },
     imageHint: "Lemba dense forest canopy",
+    descriptionAdvanced: {
+      de: "Das Lemba-Waldgebiet liegt eingebettet in die dichten Regenwälder des Mayombe-Massivs im Südwesten. Dieser Primärwald zeichnet sich durch eine enorme Baumvielfalt und eine hohe Luftfeuchtigkeit aus, die durch die Nähe zum Atlantik bedingt ist. Die Region dient als biologischer Korridor für wandernde Tierarten zwischen den Küstenebenen und dem Hochland.",
+      hu: "A Lemba-erdőterület a délnyugati Mayombe-hegység sűrű esőerdőibe ágyazva található. Ezt az őserdőt hatalmas faji sokszínűség és az Atlanti-óceán közelsége miatti magas páratartalom jellemzi. A régió fontos biológiai folyosóként szolgál a parti síkságok és a felföldek között vándorló állatfajok számára.",
+      ro: "Zona forestieră Lemba este situată în pădurile tropicale dense ale masivului Mayombe, în sud-vest. Această pădure primară se caracterizează printr-o diversitate enormă a speciilor de arbori și umiditate ridicată datorată proximității oceanului. Regiunea servește drept coridor biologic pentru speciile care migrează între coastă și podișuri.",
+      en: "The Lemba Forest Area is nestled within the dense rainforests of the Mayombe massif in the southwest. This primary forest is characterized by high tree diversity and humidity levels influenced by the nearby Atlantic Ocean. The region serves as a biological corridor for animal species migrating between coastal plains and the interior highlands.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebiet gehört zum ökologischen System des Mayombe-Waldes.", "Bäume erreichen hier oft Höhen von über 50 Metern.", "Die Luftfeuchtigkeit sinkt selten unter 80 Prozent.", "Es ist die Heimat seltener Orchideenarten.", "Die Region ist bekannt für ihre endemischen Insekten.", "Der Lemba-Fluss durchquert das gesamte Waldgebiet."],
+      hu: ["A terület a Mayombe-erdő ökológiai rendszeréhez tartozik.", "A fák magassága itt gyakran meghaladja az 50 métert.", "A páratartalom ritkán süllyed 80 százalék alá.", "Ritka orchideafajok természetes élőhelye.", "A régió az endemikus rovarfajairól nevezetes.", "A Lemba-folyó a teljes erdőterületet átszeli."],
+      ro: ["Zona aparține sistemului ecologic al pădurii Mayombe.", "Arborii de aici ating adesea înălțimi de peste 50 de metri.", "Umiditatea aerului scade rar sub pragul de 80%.", "Este habitatul unor specii rare de orhidee sălbatice.", "Regiunea este cunoscută pentru insectele sale endemice.", "Râul Lemba traversează întreaga zonă forestieră."],
+      en: ["The area belongs to the Mayombe forest ecological system.", "Trees here frequently reach heights exceeding 50 meters.", "Air humidity levels rarely drop below 80 percent.", "It is home to several species of rare wild orchids.", "The region is noted for its endemic insect populations.", "The Lemba River flows through the entire forest area."],
+    },
   },
   {
     id: "republicofcongo-ouesso-river-zone-life-v2",
@@ -380,6 +608,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Near Ouesso town", "Important waterway", "Rich in river fish", "Biodiversity hotspot"],
     },
     imageHint: "Ouesso river landscape",
+    descriptionAdvanced: {
+      de: "Die Ouesso-Flusszone am Sangha-Fluss im Norden ist ein wichtiger Knotenpunkt für den Handel und das ökologische Gleichgewicht. Die Ufer sind von dichten Galeriewäldern gesäumt, in denen zahlreiche Wasservögel und Flusspferde heimisch sind. Die Strömung des Flusses ist hier moderat, was die Bildung von Sandbänken und kleinen Flussinseln begünstigt.",
+      hu: "Az ország északi részén, a Sangha-folyó mentén fekvő Ouesso-folyami zóna fontos kereskedelmi és ökológiai csomópont. A folyópartokat sűrű galériaerdők szegélyezik, amelyek számos vízimadárnak és vízilónak adnak otthont. A folyó áramlása itt mérsékelt, ami kedvez a homokpadok és kisebb folyami szigetek kialakulásának.",
+      ro: "Zona fluviului Ouesso, situată de-a lungul râului Sangha în nord, este un nod vital pentru comerț și echilibru ecologic. Malurile sunt mărginite de păduri-galerie dense, unde trăiesc numeroase păsări acvatice și hipopotami. Curentul râului este moderat aici, favorizând formarea bancurilor de nisip și a micilor insule fluviale.",
+      en: "The Ouesso River Zone along the Sangha River in the north is a vital hub for trade and ecological balance. The riverbanks are lined with dense gallery forests that house numerous waterfowl and hippopotamuses. The river flow is moderate in this area, favoring the formation of sandbanks and small river islands.",
+    },
+    factsAdvanced: {
+      de: ["Ouesso ist die Hauptstadt des Sangha-Departements.", "Der Sangha-Fluss ist ein Nebenfluss des Kongo-Flusses.", "Die Zone ist ein Hauptumschlagplatz für Tropenholz.", "Die jährliche Durchschnittstemperatur liegt bei 25 Grad Celsius.", "Der Fluss erreicht hier eine Breite von etwa 500 Metern.", "Traditionelle Fischer nutzen die Zone seit Jahrhunderten."],
+      hu: ["Ouesso a Sangha megye közigazgatási központja.", "A Sangha-folyó a Kongó-folyó egyik jelentős mellékfolyója.", "A zóna a trópusi faanyag kereskedelmének fő központja.", "Az éves átlaghőmérséklet a térségben 25 Celsius-fok.", "A folyó szélessége ezen a szakaszon eléri az 500 métert.", "A hagyományos halászok évszázadok óta használják a területet."],
+      ro: ["Ouesso este capitala departamentului Sangha.", "Râul Sangha este un afluent major al fluviului Congo.", "Zona este un punct principal de tranzit pentru lemnul tropical.", "Temperatura medie anuală în regiune este de 25 grade Celsius.", "Râul atinge aici o lățime de aproximativ 500 de metri.", "Pescarii tradiționali folosesc zona de secole întregi."],
+      en: ["Ouesso is the administrative capital of the Sangha Department.", "The Sangha River is a major tributary of the Congo River.", "The zone is a primary transit point for tropical timber.", "The average annual temperature in the area is 25 degrees Celsius.", "The river reaches a width of about 500 meters here.", "Traditional fishers have utilized the zone for centuries."],
+    },
   },
   {
     id: "republicofcongo-pokola-forest-life-v2",
@@ -399,6 +639,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Tropical climate", "High biodiversity", "Important timber resources", "Worthy of protection"],
     },
     imageHint: "Pokola rainforest foliage",
+    descriptionAdvanced: {
+      de: "Der Pokola-Wald im Norden ist bekannt für seine nachhaltige Forstwirtschaft und seine immense biologische Vielfalt. Inmitten der gewerblichen Holznutzung bleiben große Schutzkorridore für Primaten und Waldelefanten erhalten. Die dichte Baumkrone verhindert, dass viel Sonnenlicht den Waldboden erreicht, was eine spezialisierte Schattenflora begünstigt.",
+      hu: "Az északi fekvésű Pokola-erdő fenntartható erdőgazdálkodásáról és hatalmas biológiai sokféleségéről ismert. A kereskedelmi célú fakitermelés mellett nagy védelmi folyosókat tartanak fenn a főemlősök és az erdei elefántok számára. A sűrű lombkorona megakadályozza, hogy sok napfény érje az erdő talaját, ami kedvez a speciális árnyékkedvelő flórának.",
+      ro: "Pădurea Pokola din nord este cunoscută pentru silvicultura durabilă și biodiversitatea sa imensă. În mijlocul exploatării comerciale, sunt menținute coridoare mari de protecție pentru primate și elefanți de pădure. Baldachinul dens împiedică lumina soarelui să ajungă la sol, favorizând o floră specializată de umbră.",
+      en: "The Pokola Forest in the north is renowned for its sustainable forestry practices and immense biodiversity. Amidst commercial logging, large conservation corridors are maintained for primates and forest elephants. The dense canopy prevents much sunlight from reaching the forest floor, favoring a specialized shade-tolerant flora.",
+    },
+    factsAdvanced: {
+      de: ["Pokola ist Sitz des Forstunternehmens CIB.", "Teile des Waldes sind FSC-zertifiziert.", "Hier leben bedeutende Populationen von Schimpansen.", "Der Wald grenzt an den Nouabalé-Ndoki-Nationalpark.", "Die Bäume hier können über 400 Jahre alt werden.", "Der Jahresniederschlag beträgt etwa 1.700 mm."],
+      hu: ["Pokola a CIB erdészeti vállalat központja.", "Az erdő jelentős részei FSC-tanúsítvánnyal rendelkeznek.", "Jelentős csimpánzpopulációk élnek a területen.", "Az erdő határos a Nouabalé-Ndoki Nemzeti Parkkal.", "Az itt található fák életkora meghaladhatja a 400 évet.", "Az éves csapadékmennyiség körülbelül 1700 mm."],
+      ro: ["Pokola este sediul companiei forestiere CIB.", "Părți semnificative ale pădurii sunt certificate FSC.", "Aici trăiesc populații importante de cimpanzei.", "Pădurea se învecinează cu Parcul Național Nouabalé-Ndoki.", "Arborii de aici pot depăși vârsta de 400 de ani.", "Precipitațiile anuale sunt de aproximativ 1.700 mm."],
+      en: ["Pokola is the headquarters of the CIB forestry company.", "Significant portions of the forest are FSC-certified.", "Important populations of chimpanzees inhabit the area.", "The forest borders the Nouabalé-Ndoki National Park.", "Trees in this forest can live for over 400 years.", "Annual rainfall averages around 1,700 mm."],
+    },
   },
   {
     id: "republicofcongo-kouilou-savannah-zone-life-v2",
@@ -418,6 +670,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Coastal", "Sandy soil", "Adaptive flora", "Seasonally dry"],
     },
     imageHint: "Kouilou coastal savannah",
+    descriptionAdvanced: {
+      de: "Die Kouilou-Savannenzone erstreckt sich entlang der Küstenregion und bildet einen scharfen Kontrast zum dichten Regenwald des Landesinneren. Diese Landschaft ist durch weite Grasflächen, verstreute Affenbrotbäume und Mangroven an den Flussmündungen geprägt. Die salzhaltige Meeresluft und die sandigen Böden bestimmen die spezialisierte Vegetation dieser ökologischen Nische.",
+      hu: "A Kouilou-szavanna zóna a parti régió mentén húzódik, éles kontrasztot alkotva a belső területek sűrű esőerdőivel. Ezt a tájat hatalmas füves puszták, szétszórt majomkenyérfák és a torkolatoknál található mangroveerdők jellemzik. A sós tengeri levegő és a homokos talaj határozza meg ezen ökológiai fülke speciális növényzetét.",
+      ro: "Zona de savană Kouilou se întinde de-a lungul regiunii de coastă, formând un contrast puternic cu pădurile tropicale dense din interior. Acest peisaj este dominat de pajiști vaste, baobabi răzleți și mangrove la gurile de vărsare ale râurilor. Aerul marin sărat și solurile nisipoase determină vegetația specializată a acestei nișe ecologice.",
+      en: "The Kouilou Savannah Zone stretches along the coastal region, providing a sharp contrast to the country's dense interior rainforests. This landscape is characterized by vast grasslands, scattered baobab trees, and mangroves at river estuaries. The salty sea air and sandy soils dictate the specialized vegetation of this unique ecological niche.",
+    },
+    factsAdvanced: {
+      de: ["Die Zone liegt im Departement Kouilou.", "Sie grenzt direkt an den Atlantischen Ozean.", "Affenbrotbäume sind charakteristisch für diese Landschaft.", "Die Region ist bekannt für ihre Erdölvorkommen.", "Hier herrscht ein tropisches Savannenklima.", "Die Trockenzeit dauert von Juni bis September."],
+      hu: ["A zóna Kouilou megyében található.", "Közvetlenül határos az Atlanti-óceánnal.", "A baobabfák a táj jellegzetes elemei.", "A régió jelentős kőolajkészleteiről ismert.", "A területen trópusi szavanna éghajlat uralkodik.", "A száraz évszak júniustól szeptemberig tart."],
+      ro: ["Zona este situată în departamentul Kouilou.", "Se învecinează direct cu Oceanul Atlantic.", "Baobabii sunt elemente caracteristice ale peisajului.", "Regiunea este cunoscută pentru zăcămintele de petrol.", "Aici predomină un climat tropical de savană.", "Sezonul uscat durează din iunie până în septembrie."],
+      en: ["The zone is located in the Kouilou Department.", "It borders the Atlantic Ocean directly.", "Baobab trees are a characteristic feature of the landscape.", "The region is known for its significant oil deposits.", "A tropical savannah climate prevails in the area.", "The dry season lasts from June to September."],
+    },
   },
   {
     id: "republicofcongo-djoumouna-forest-life-v2",
@@ -437,6 +701,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Dense vegetation", "Regional significance", "High conservation status", "Easily accessible"],
     },
     imageHint: "Djoumouna dense forest",
+    descriptionAdvanced: {
+      de: "Der Djoumouna-Wald liegt nur etwa 20 Kilometer südlich der Hauptstadt Brazzaville und ist ein beliebtes Naherholungsgebiet. Der dichte Wald wird durch den gleichnamigen Fluss durchquert, der mehrere kleine Wasserfälle und natürliche Becken bildet. Trotz der Nähe zur Großstadt beherbergt er eine überraschende Vielfalt an Vögeln und Schmetterlingen.",
+      hu: "A Djoumouna-erdő mindössze 20 kilométerre délre fekszik Brazzaville fővárosától, és népszerű kirándulóhely. A sűrű erdőt az azonos nevű folyó szeli át, amely több kisebb vízesést és természetes medencét alkot. A nagyváros közelsége ellenére meglepően gazdag madár- és pillangóvilággal rendelkezik.",
+      ro: "Pădurea Djoumouna este situată la doar 20 de kilometri sud de capitala Brazzaville și este o zonă populară de recreere. Pădurea densă este traversată de râul cu același nume, care formează câteva cascade mici și bazine naturale. În ciuda proximității față de metropolă, adăpostește o varietate surprinzătoare de păsări și fluturi.",
+      en: "The Djoumouna Forest is located just 20 kilometers south of the capital, Brazzaville, and is a popular recreational area. The dense forest is traversed by the river of the same name, which forms several small waterfalls and natural pools. Despite its proximity to the city, it hosts a surprising variety of birds and butterflies.",
+    },
+    factsAdvanced: {
+      de: ["Der Wald liegt im Departement Pool.", "Er ist ein Zentrum für Ökotourismus.", "Der Djoumouna-Fluss ist ein Nebenfluss des Kongo.", "Historische Fischteiche aus der Kolonialzeit sind erhalten.", "Die Region ist bekannt für ihre Farne.", "Es gibt Wanderwege für Naturbeobachtungen."],
+      hu: ["Az erdő a Pool megyében található.", "Az ökoturizmus egyik helyi központja.", "A Djoumouna-folyó a Kongó mellékfolyója.", "Gyarmati időkből származó halastavak is találhatók itt.", "A régió híres a különleges páfrányfajairól.", "Kijelölt túraútvonalak segítik a természetjárókat."],
+      ro: ["Pădurea se află în departamentul Pool.", "Este un centru pentru ecoturismul local.", "Râul Djoumouna este un afluent al fluviului Congo.", "S-au păstrat bazine piscicole din perioada colonială.", "Regiunea este cunoscută pentru varietatea de ferigi.", "Există trasee marcate pentru observarea naturii."],
+      en: ["The forest is situated in the Pool Department.", "It serves as a center for local ecotourism.", "The Djoumouna River is a tributary of the Congo River.", "Colonial-era fish ponds are still preserved here.", "The region is famous for its diverse fern species.", "Marked trails are available for nature observation."],
+    },
   },
   {
     id: "republicofcongo-léfini-wetland-life-v2",
@@ -456,6 +732,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Quiet environment", "Water bird paradise", "Seasonally variable", "Very fragile"],
     },
     imageHint: "Lefini wetland birds",
+    descriptionAdvanced: {
+      de: "Das Léfini-Feuchtgebiet ist Teil des Léfini-Wildreservats und besteht aus einer Mischung aus Grássavannen und ausgedehnten Sumpfgebieten. Diese Region ist international bekannt für ihre Bemühungen zur Wiedereinführung von Gorillas in die freie Natur. Das verzweigte Flusssystem des Léfini bietet ideale Bedingungen für Wasserschweine und seltene Krokodilarten.",
+      hu: "A Léfini-vizesélőhely a Léfini Vadrezervátum része, füves szavannák és kiterjedt mocsárvidékek keverékéből áll. Ez a régió nemzetközileg ismert a gorillák vadonba való visszatelepítésére tett erőfeszítéseiről. A Léfini folyó szövevényes rendszere ideális feltételeket biztosít a víziállatok és ritka krokodilfajok számára.",
+      ro: "Zona umedă Léfini face parte din Rezervația de Faună Léfini și constă dintr-un amestec de savane ierboase și mlaștini întinse. Această regiune este cunoscută la nivel internațional pentru eforturile de reintroducere a gorilelor în sălbăticie. Sistemul ramificat al râului Léfini oferă condiții ideale pentru hipopotami și specii rare de crocodili.",
+      en: "The Lefini Wetland is part of the Lefini Faunal Reserve, consisting of a mix of grassy savannahs and extensive marshlands. This region is internationally recognized for its efforts in reintroducing gorillas back into the wild. The intricate river system of the Lefini provides ideal conditions for aquatic mammals and rare crocodile species.",
+    },
+    factsAdvanced: {
+      de: ["Das Reservat wurde bereits 1951 gegründet.", "Es erstreckt sich über etwa 600.000 Hektar.", "Hier befindet sich ein Gorilla-Waisenzentrum.", "Der Léfini-Fluss mündet in den Kongo-Fluss.", "Die Landschaft gehört zum Bateke-Plateau.", "Touristen können hier geführte Bootstouren unternehmen."],
+      hu: ["A rezervátumot már 1951-ben alapították.", "Területe körülbelül 600 000 hektár.", "Itt található egy gorilla-árvaház és rehabilitációs központ.", "A Léfini-folyó a Kongó-folyóba torkollik.", "A táj a Bateke-fennsík ökológiai rendszeréhez tartozik.", "A turisták vezetett csónaktúrákon vehetnek részt."],
+      ro: ["Rezervația a fost înființată încă din anul 1951.", "Se întinde pe o suprafață de circa 600.000 de hectare.", "Aici se află un centru de orfelinat pentru gorile.", "Râul Léfini se varsă în fluviul Congo.", "Peisajul aparține de Platoul Bateke.", "Turiștii pot face tururi ghidate cu barca."],
+      en: ["The reserve was established as early as 1951.", "It covers an area of approximately 600,000 hectares.", "A gorilla orphanage and rehabilitation center is located here.", "The Lefini River flows into the Congo River.", "The landscape is part of the Bateke Plateau system.", "Guided boat tours are available for tourists."],
+    },
   },
   {
     id: "republicofcongo-niari-forest-spot-life-v2",
@@ -475,6 +763,18 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["High ecological value", "Rare tree species", "Important habitat", "Regionally protected"],
     },
     imageHint: "Niari forest trees",
+    descriptionAdvanced: {
+      de: "Der Niari-Waldpunkt ist ein abgelegenes Gebiet im Niari-Departement, das von hügeligem Gelände und dichtem Tropenwald geprägt ist. Die Region zeichnet sich durch eine hohe Endemismusrate bei Pflanzen aus und dient als wichtiges Wassereinzugsgebiet für die umliegenden Täler. Die dichte Vegetation bietet Schutz für zahlreiche Primaten und seltene Reptilien.",
+      hu: "A Niari-erdőfolt egy elszigetelt terület a Niari megyében, amelyet dombos terep és sűrű trópusi erdő jellemez. A régiót a növények magas endemikus aránya jellemzi, és fontos vízgyűjtő területként szolgál a környező völgyek számára. A sűrű növényzet számos főemlősnek és ritka hüllőnek nyújt menedéket.",
+      ro: "Punctul forestier Niari este o zonă izolată din departamentul Niari, caracterizată prin teren deluros și pădure tropicală densă. Regiunea se remarcă printr-o rată ridicată de endemism în rândul plantelor și servește ca bazin hidrografic important pentru văile din jur. Vegetația deasă oferă adăpost pentru numeroase primate și reptile rare.",
+      en: "The Niari Forest Spot is a remote area in the Niari Department characterized by hilly terrain and dense tropical forest. The region is notable for its high rate of plant endemism and serves as a crucial watershed for the surrounding valleys. The thick vegetation provides a sanctuary for numerous primates and rare reptiles.",
+    },
+    factsAdvanced: {
+      de: ["Der Wald liegt in einer Höhe von bis zu 800 Metern.", "Er ist Teil des Mayombe-Bergwald-Ökosystems.", "Hier entspringen mehrere kleine Nebenflüsse.", "Die Region ist schwer zugänglich und wenig erforscht.", "Es gibt Vorkommen von wertvollen Harthölzern.", "Die Durchschnittstemperatur liegt bei 24 Grad Celsius."],
+      hu: ["Az erdő akár 800 méteres tengerszint feletti magasságban fekszik.", "A Mayombe-hegyi erdőrendszer része.", "Itt több kisebb mellékfolyó is forrással rendelkezik.", "A terület nehezen megközelíthető és kevésbé kutatott.", "Értékes keményfafajták találhatók az erdőben.", "Az átlaghőmérséklet 24 Celsius-fok körül alakul."],
+      ro: ["Pădurea se află la o altitudine de până la 800 de metri.", "Face parte din ecosistemul forestier montan Mayombe.", "Aici își au originea mai mulți afluenți mici.", "Zona este greu accesibilă și puțin explorată.", "Există depozite de specii de lemn de esență tare.", "Temperatura medie este de aproximativ 24 grade Celsius."],
+      en: ["The forest is located at altitudes up to 800 meters.", "It is part of the Mayombe mountain forest ecosystem.", "Several small tributaries originate in this area.", "The region is difficult to access and remains largely unexplored.", "Valuable hardwood species are found throughout the forest.", "The average temperature is around 24 degrees Celsius."],
+    },
   },
   {
     id: "republicofcongo-ouesso-swamp-life-v2",
@@ -494,5 +794,17 @@ export const republicofcongoLifeV2: POI[] = [
       en: ["Very species-rich", "Seasonally wet", "Fragile ecosystem", "Important research area"],
     },
     imageHint: "Ouesso swamp environment",
+    descriptionAdvanced: {
+      de: "Der Ouesso-Sumpf umgibt die Stadt Ouesso im Norden und ist ein Labyrinth aus Wasserwegen und überfluteten Ebenen. Dieses Feuchtgebiet spielt eine zentrale Rolle für die lokale Fischerei und dient als natürlicher Filter für den Sangha-Fluss. Die Vegetation ist an extrem nasse Bedingungen angepasst und besteht vor allem aus schwimmenden Gräsern und dichten Raphia-Hainen.",
+      hu: "Az északi Ouesso várost körülvevő mocsár vízi utak és elárasztott síkságok labirintusa. Ez a vizesélőhely központi szerepet játszik a helyi halászatban, és a Sangha-folyó természetes szűrőjeként szolgál. A növényzet alkalmazkodott a rendkívül nedves körülményekhez, főleg úszó füvekből és sűrű Raphia-pálmaligetekből áll.",
+      ro: "Mlaștina Ouesso înconjoară orașul Ouesso din nord și este un labirint de căi navigabile și câmpii inundate. Această zonă umedă joacă un rol central pentru pescuitul local și servește ca filtru natural pentru râul Sangha. Vegetația este adaptată la condiții extrem de umede, constând în principal din ierburi plutitoare și păduri de Raphia.",
+      en: "The Ouesso Swamp surrounds the northern city of Ouesso and is a labyrinth of waterways and flooded plains. This wetland plays a central role in local fishing and acts as a natural filter for the Sangha River. The vegetation is adapted to extremely wet conditions, consisting mainly of floating grasses and dense Raphia palm groves.",
+    },
+    factsAdvanced: {
+      de: ["Der Sumpf dehnt sich in der Regenzeit stark aus.", "Er ist ein Lebensraum für die Sitatunga-Antilope.", "Traditionelle Einbaum-Boote sind das Haupttransportmittel.", "Die Luftfeuchtigkeit liegt oft bei fast 100 Prozent.", "Es gibt über 50 verschiedene Fischarten im Sumpf.", "Die Region ist reich an medizinischen Sumpfpflanzen."],
+      hu: ["A mocsár az esős évszakban jelentősen kitágul.", "A szitutunga antilop egyik fontos élőhelye.", "A hagyományos kenuk a legfontosabb közlekedési eszközök.", "A páratartalom gyakran megközelíti a 100 százalékot.", "Több mint 50 különböző halfaj él a mocsárban.", "A régió gazdag gyógyhatású mocsári növényekben."],
+      ro: ["Mlaștina se extinde considerabil în sezonul ploios.", "Este un habitat pentru antilopa Sitatunga.", "Canoele tradiționale sunt principalul mijloc de transport.", "Umiditatea aerului atinge adesea aproape 100%.", "Există peste 50 de specii diferite de pești în mlaștină.", "Regiunea este bogată în plante medicinale de mlaștină."],
+      en: ["The swamp expands significantly during the rainy season.", "It is a prime habitat for the Sitatunga antelope.", "Traditional dugout canoes are the primary mode of transport.", "Humidity levels often reach nearly 100 percent.", "Over 50 different species of fish inhabit the swamp.", "The region is rich in medicinal wetland plants."],
+    },
   }
 ];

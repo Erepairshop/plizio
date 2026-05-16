@@ -65,3 +65,4 @@ tsfiles.txt
 lib/visualLab/data/basic-poi-*.json
 lib/visualLab/data/_all_v2_pois.json
 lib/visualLab/data/_all_v2_pois_*.json
+public/data/pois/

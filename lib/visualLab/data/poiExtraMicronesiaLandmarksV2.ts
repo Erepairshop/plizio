@@ -19,6 +19,18 @@ export const micronesiaLandmarksV2: POI[] = [
       en: ["Built in the year 1907", "Part of a former Catholic church", "Survived the destruction of WWII", "Symbol of the German colonial period"],
     },
     imageHint: "Old German Bell Tower in Kolonia Pohnpei",
+    descriptionAdvanced: {
+      de: "Der Deutsche Glockenturm in Kolonia ist das letzte markante Überbleibsel einer katholischen Missionsstation aus dem Jahr 1907. Während der deutschen Kolonialzeit in Mikronesien errichtet, überlebte der Turm als einzige Struktur die Zerstörungen des Zweiten Weltkriegs. Er steht heute als Denkmal für den Einfluss der Kapuziner-Missionare und die koloniale Architektur Pohnpeis.",
+      hu: "A Koloniában található Német harangtorony egy 1907-es katolikus missziós állomás utolsó jellegzetes maradványa. A német gyarmati időszakban épült, és a torony az egyetlen szerkezet, amely túlélte a második világháború pusztításait. Ma a kapucinus misszionáriusok hatásának és Pohnpei gyarmati építészetének emlékműveként áll.",
+      ro: "Turnul clopotniță german din Kolonia este ultima rămășiță proeminentă a unei misiuni catolice din 1907. Construit în timpul perioadei coloniale germane în Micronezia, turnul a fost singura structură care a supraviețuit distrugerilor din al Doilea Război Mondial. Astăzi, reprezintă un monument al influenței misionarilor capucini și al arhitecturii coloniale din Pohnpei.",
+      en: "The German Bell Tower in Kolonia is the last prominent remnant of a Catholic mission station established in 1907. Built during the German colonial period in Micronesia, the tower was the only structure to survive the destruction of World War II. Today, it stands as a monument to the influence of Capuchin missionaries and Pohnpei's colonial architecture.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1907.", "Gehörte zur Kapuziner-Mission.", "Einzige Struktur, die WKII überstand.", "Befindet sich in Kolonia, Pohnpei.", "Turm ist aus Stein und Beton gefertigt.", "Hatte früher eine angeschlossene Kirche."],
+      hu: ["1907-ben épült.", "A kapucinus misszió része volt.", "Az egyetlen építmény, amely túlélte a háborút.", "Pohnpeiben, Koloniában található.", "A torony kőből és betonból készült.", "Korábban egy templom is tartozott hozzá."],
+      ro: ["Construit în anul 1907.", "A aparținut misiunii capucine.", "Singura structură care a supraviețuit războiului.", "Situat în Kolonia, Pohnpei.", "Turnul este realizat din piatră și beton.", "Anterior avea o biserică atașată."],
+      en: ["Constructed in the year 1907.", "Part of the Capuchin mission station.", "Only structure to survive WWII destruction.", "Located in Kolonia, Pohnpei.", "The tower is made of stone and concrete.", "It was originally attached to a church."],
+    },
   },
   {
     id: "micronesia-tunnuk-catholic-church-landmarks-v2",
@@ -38,6 +50,18 @@ export const micronesiaLandmarksV2: POI[] = [
       en: ["Prominent landmark on Weno island", "Known for its bright red roofs", "Center of the Catholic community in Chuuk", "Offers views over the Chuuk Lagoon"],
     },
     imageHint: "Colorful Tunnuk Catholic Church on Weno Chuuk",
+    descriptionAdvanced: {
+      de: "Die katholische Kirche von Tunnuk auf Weno (Chuuk) ist ein beeindruckendes Beispiel für Sakralbau aus der frühen Mitte des 20. Jahrhunderts. Mit ihrer massiven Bauweise und den markanten Türmen diente sie der lokalen Gemeinschaft über Generationen als religiöses Zentrum. Die Kirche überstand die schweren Bombardierungen des Zweiten Weltkriegs und bleibt ein zentrales Wahrzeichen von Weno.",
+      hu: "A Weno szigetén (Chuuk) található Tunnuki katolikus templom a 20. század első felének lenyűgöző szakrális építészeti példája. Masszív szerkezetével és jellegzetes tornyaival generációkon át szolgált a helyi közösség vallási központjaként. A templom túlélte a második világháború súlyos bombázásait, és Weno központi jelképe maradt.",
+      ro: "Biserica catolică din Tunnuk de pe insula Weno (Chuuk) este un exemplu impresionant de arhitectură sacră de la începutul secolului XX. Cu construcția sa masivă și turnurile proeminente, a servit drept centru religios pentru comunitatea locală timp de generații. Biserica a supraviețuit bombardamentelor grele din al Doilea Război Mondial și rămâne un reper central în Weno.",
+      en: "The Tunnuk Catholic Church on Weno Island (Chuuk) is an impressive example of sacred architecture from the early to mid-20th century. With its massive construction and prominent towers, it has served as a religious center for the local community for generations. The church survived the heavy bombings of World War II and remains a central landmark of Weno.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich im Dorf Tunnuk auf Weno.", "Erbaut zwischen 1914 und 1920.", "Aus verstärktem Beton konstruiert.", "Besitzt zwei markante Glockentürme.", "Wurde unter spanischer Mission begonnen.", "Wichtiges religiöses Zentrum in Chuuk."],
+      hu: ["Weno Tunnuk nevű falujában található.", "1914 és 1920 között épült.", "Megerősített betonból készült.", "Két jellegzetes harangtornya van.", "A spanyol misszió idején kezdték építeni.", "Chuuk egyik legfontosabb vallási központja."],
+      ro: ["Situată în satul Tunnuk de pe Weno.", "Construită între 1914 și 1920.", "Construcție din beton armat.", "Are două turnuri clopotniță proeminente.", "Începută sub misiunea spaniolă.", "Centru religios important în Chuuk."],
+      en: ["Located in Tunnuk village on Weno.", "Built between 1914 and 1920.", "Constructed of reinforced concrete.", "Features two prominent bell towers.", "Started under the Spanish mission.", "Important religious center in Chuuk State."],
+    },
   },
   {
     id: "micronesia-xavier-high-school-landmarks-v2",
@@ -57,6 +81,18 @@ export const micronesiaLandmarksV2: POI[] = [
       en: ["Massive concrete structure built for bomb protection", "Established in 1952 as a school", "Former Japanese radio communications center", "Educated many of Micronesia's leaders"],
     },
     imageHint: "Xavier High School historic concrete building Chuuk",
+    descriptionAdvanced: {
+      de: "Das Xavier-Gymnasium auf Weno wurde ursprünglich als japanisches Kommunikationszentrum in den 1930er Jahren erbaut. Die extrem dickwandige Betonstruktur war so konzipiert, dass sie direkten Bombenangriffen standhalten konnte. Nach dem Krieg wurde das Gebäude 1952 in eine katholische Schule umgewandelt und gilt heute als eine der renommiertesten Bildungseinrichtungen im gesamten Pazifikraum.",
+      hu: "A Weno szigetén található Xavier középiskola eredetileg japán kommunikációs központnak épült az 1930-as években. A rendkívül vastag falú betonszerkezetet úgy tervezték, hogy ellenálljon a közvetlen bombatámadásoknak. A háború után, 1952-ben alakították át katolikus iskolává, és ma a csendes-óceáni térség egyik legelismertebb oktatási intézményének számít.",
+      ro: "Liceul Xavier de pe Weno a fost construit inițial ca centru de comunicații japonez în anii 1930. Structura de beton cu pereți extrem de groși a fost concepută pentru a rezista bombardamentelor directe. După război, în 1952, clădirea a fost transformată în școală catolică și este considerată astăzi una dintre cele mai prestigioase instituții de învățământ din Pacific.",
+      en: "Xavier High School on Weno was originally built as a Japanese communication center in the 1930s. The extremely thick-walled concrete structure was designed to withstand direct bomb hits. After the war, the building was converted into a Catholic school in 1952 and is now considered one of the most prestigious educational institutions in the entire Pacific region.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut als Mabuchi-Funkstation.", "Wände sind über 1 Meter dick.", "Wurde 1952 als Schule eröffnet.", "Geleitet von Jesuiten-Missionaren.", "Erste vierjährige High School in Mikronesien.", "Befindet sich auf dem Mount Sapuk."],
+      hu: ["Mabuchi rádióállomásnak épült.", "A falak több mint 1 méter vastagok.", "1952-ben nyílt meg iskolaként.", "Jezsuita misszionáriusok vezetik.", "Az első négyéves középiskola Mikronéziában.", "A Sapuk-hegyen található."],
+      ro: ["Construit ca stație radio Mabuchi.", "Pereții au peste 1 metru grosime.", "Deschis ca școală în 1952.", "Condus de misionari iezuiți.", "Prima școală secundară de patru ani din Micronezia.", "Situat pe Muntele Sapuk."],
+      en: ["Built as the Mabuchi Communication Center.", "Walls are over 1 meter thick.", "Opened as a school in 1952.", "Operated by Jesuit missionaries.", "First four-year high school in Micronesia.", "Located on Mount Sapuk, Weno."],
+    },
   },
   {
     id: "micronesia-kimiuo-aisek-memorial-museum-landmarks-v2",
@@ -76,6 +112,18 @@ export const micronesiaLandmarksV2: POI[] = [
       en: ["Named after a pioneer of dive tourism", "Displays artifacts from sunken Japanese ships", "Located at the Blue Lagoon Resort", "Most important historical collection in Chuuk"],
     },
     imageHint: "Exhibits at the Kimiuo Aisek Memorial Museum Chuuk",
+    descriptionAdvanced: {
+      de: "Das Kimiuo Aisek Memorial Museum in Weno widmet sich der maritimen Geschichte von Chuuk. Es präsentiert Artefakte aus den Schiffswracks des Zweiten Weltkriegs, die im Chuuk Lagoon liegen. Die Ausstellungen beleuchten die Operation Hailstone von 1944 und die traditionelle Kultur der Inselbewohner. Das Museum ehrt Kimiuo Aisek, einen Pionier des Tauchtourismus in Mikronesien.",
+      hu: "A Weno szigetén található Kimiuo Aisek Emlékmúzeum Chuuk tengeri történelmét mutatja be. A tárlatok a Chuuk-lagúnában nyugvó második világháborús roncsokból származó leleteket őriznek. A kiállítások részletesen foglalkoznak az 1944-es Hailstone-hadművelettel és a helyi mikronéz kultúrával. A múzeumot Kimiuo Aisekről nevezték el, aki a térség búvárturizmusának úttörője volt.",
+      ro: "Muzeul Memorial Kimiuo Aisek din Weno este dedicat istoriei maritime a statului Chuuk. Acesta adăpostește numeroase artefacte recuperate din epavele celui de-al Doilea Război Mondial aflate în lagună. Expozițiile detaliază Operațiunea Hailstone din 1944 și cultura tradițională a locuitorilor insulei. Muzeul îi onorează memoria lui Kimiuo Aisek, un pionier al turismului subacvatic.",
+      en: "The Kimiuo Aisek Memorial Museum in Weno is dedicated to the maritime history of Chuuk. It houses a vast collection of artifacts recovered from the World War II shipwrecks in the lagoon. Exhibits detail the events of Operation Hailstone in 1944 and the traditional local culture. The museum honors Kimiuo Aisek, who was a pioneer of diving tourism in Micronesia.",
+    },
+    factsAdvanced: {
+      de: ["Das Museum wurde im Jahr 2009 eröffnet.", "Es befindet sich in der Nähe des Blue Lagoon Resort.", "Kimiuo Aisek war Augenzeuge der US-Angriffe im Jahr 1944.", "Die Sammlung umfasst japanische Gasmasken und persönliches Hab und Gut.", "Das Museum dient als Forschungszentrum für Wracktaucher.", "Es ist das erste offizielle Museum im Bundesstaat Chuuk."],
+      hu: ["A múzeumot 2009-ben nyitották meg a nagyközönség előtt.", "A Blue Lagoon Resort közvetlen közelében helyezkedik el.", "Kimiuo Aisek szemtanúja volt az 1944-es amerikai légitámadásoknak.", "A gyűjtemény japán gázálarcokat és katonai felszereléseket is tartalmaz.", "Az intézmény a roncsbúvárok és történészek fontos kutatóhelye.", "Ez Chuuk állam első hivatalos múzeumi intézménye."],
+      ro: ["Muzeul a fost inaugurat oficial în cursul anului 2009.", "Este situat în imediata apropiere a complexului Blue Lagoon Resort.", "Kimiuo Aisek a fost martor ocular al atacurilor americane din 1944.", "Colecția include măști de gaze japoneze și obiecte personale ale soldaților.", "Muzeul funcționează ca un centru de informare pentru scafandri.", "Este prima instituție muzeală oficială din statul Chuuk."],
+      en: ["The museum was officially opened to the public in 2009.", "It is located adjacent to the Blue Lagoon Resort in Weno.", "Kimiuo Aisek witnessed the 1944 American air raids firsthand.", "The collection features Japanese gas masks and soldier belongings.", "The facility serves as a primary research hub for wreck divers.", "It is the first official museum established in Chuuk State."],
+    },
   },
   {
     id: "micronesia-yap-living-history-museum-landmarks-v2",
@@ -95,6 +143,18 @@ export const micronesiaLandmarksV2: POI[] = [
       en: ["Features traditional thatched-roof houses", "Displays the famous stone money banks", "Venue for traditional dance performances", "Located in the town center of Colonia"],
     },
     imageHint: "Traditional thatched houses at Yap Living History Museum",
+    descriptionAdvanced: {
+      de: "Das Yap Living History Museum in Colonia ist ein kulturelles Zentrum, das die Traditionen der Yap-Inseln bewahrt. Es zeigt traditionelle Architektur, darunter kunstvoll gefertigte Versammlungshäuser aus Holz und Stroh. Besucher können Vorführungen von Tänzen und Handwerkskunst erleben. Das Museum dient als lebendige Brücke zwischen der Vergangenheit und der Gegenwart der mikronesischen Gesellschaft.",
+      hu: "A Coloniában található Yap Élő Történelmi Múzeum a szigetek hagyományainak megőrzésére szolgáló kulturális központ. Hagyományos építészetet mutat be, többek között fából és szalmából készült közösségi házakat. A látogatók tradicionális táncokat és kézműves mesterségeket ismerhetnek meg. A múzeum élő hídként szolgál a mikronéz múlt és a jelen társadalma között.",
+      ro: "Muzeul de Istorie Vie din Yap, situat în Colonia, este un centru cultural ce conservă tradițiile insulare. Acesta prezintă arhitectură tradițională, inclusiv case de întrunire realizate din lemn și paie. Vizitatorii pot asista la demonstrații de dansuri și meșteșuguri locale. Muzeul funcționează ca o punte vie între trecutul și prezentul societății microneziene.",
+      en: "The Yap Living History Museum in Colonia is a cultural center dedicated to preserving island traditions. It showcases traditional architecture, including intricately crafted wooden and thatch meeting houses. Visitors can experience demonstrations of indigenous dances and local handicrafts. The museum serves as a living bridge between the Micronesian past and the present society.",
+    },
+    factsAdvanced: {
+      de: ["Das Museum befindet sich im Stadtzentrum von Colonia.", "Es zeigt riesige Steingeldscheiben, die Rai genannt werden.", "Die Gebäude sind ohne Metallnägel nach alter Technik errichtet.", "Hier finden regelmäßig kulturelle Festivals statt.", "Das Museum wurde mit Unterstützung der Regierung von Yap gegründet.", "Es gibt geführte Touren zur Erklärung der sozialen Hierarchie."],
+      hu: ["A múzeum Colonia városközpontjában helyezkedik el.", "Hatalmas, Rai néven ismert kőpénzeket is bemutatnak itt.", "Az épületek fémszegek nélkül, ősi technikákkal készültek.", "Rendszeresen helyszínt biztosít a helyi kulturális fesztiváloknak.", "Az intézmény Yap állam kormányának támogatásával jött létre.", "Vezetett túrák magyarázzák el a szigetek társadalmi felépítését."],
+      ro: ["Muzeul este localizat chiar în centrul orașului Colonia.", "Expune discuri uriașe de piatră folosite ca monedă, numite Rai.", "Clădirile sunt construite fără cuie metalice, folosind tehnici vechi.", "Găzduiește periodic festivaluri culturale și demonstrații tradiționale.", "Instituția a fost înființată cu sprijinul guvernului statului Yap.", "Tururile ghidate explică ierarhia socială complexă a insulei."],
+      en: ["The museum is situated in the heart of downtown Colonia.", "It displays massive stone money discs known locally as Rai.", "The structures are built without metal nails using ancient techniques.", "The site hosts regular cultural festivals and performances.", "The institution was established with Yap State Government support.", "Guided tours explain the complex social hierarchy of the islands."],
+    },
   },
   {
     id: "micronesia-japanese-lighthouse-chuuk-landmarks-v2",
@@ -114,6 +174,18 @@ export const micronesiaLandmarksV2: POI[] = [
       en: ["Built in the 1930s", "Served as an observation post during WWII", "Located on a hill in Sapuk", "Popular destination for hikers"],
     },
     imageHint: "Old Japanese lighthouse ruins in Sapuk Chuuk",
+    descriptionAdvanced: {
+      de: "Der Japanische Leuchtturm auf der Insel Tonoas in Chuuk ist ein bedeutendes Relikt der Kolonialzeit. Er wurde in den 1930er Jahren erbaut, um die Schifffahrt während des japanischen Mandats zu sichern. Das Bauwerk bietet einen weiten Panoramablick über die Lagune und die umliegenden Inseln. Trotz der Schäden aus dem Zweiten Weltkrieg steht der Turm als steinernes Zeugnis der strategischen Bedeutung Chuuks.",
+      hu: "A Chuuk állambeli Tonoas szigetén álló japán világítótorony a gyarmati korszak jelentős emléke. Az 1930-as években építették a hajózás biztonságának garantálására a japán mandátum idején. Az építményről széles panoráma nyílik a lagúnára és a környező szigetekre. A második világháborús sérülések ellenére a torony Chuuk stratégiai jelentőségének néma tanúja.",
+      ro: "Farul japonez de pe insula Tonoas din Chuuk este un vestigiu important al epocii coloniale. A fost construit în anii 1930 pentru a asigura navigația în timpul mandatului japonez. Structura oferă o vedere panoramică vastă asupra lagunei și a insulelor învecinate. În ciuda avariilor din al Doilea Război Mondial, turnul rămâne o mărturie a importanței strategice a zonei.",
+      en: "The Japanese Lighthouse on Tonoas Island in Chuuk is a significant relic from the colonial era. It was constructed in the 1930s to secure navigation during the Japanese Mandate period. The structure offers a wide panoramic view over the lagoon and the surrounding islands. Despite damage sustained during World War II, the tower stands as a testament to Chuuk's strategic importance.",
+    },
+    factsAdvanced: {
+      de: ["Der Leuchtturm wurde etwa 1935 fertiggestellt.", "Er befindet sich auf dem Gipfel des Berges Sapuk.", "Die Konstruktion besteht aus verstärktem Beton.", "Während des Zweiten Weltkriegs diente er als Beobachtungsposten.", "US-Luftangriffe beschädigten die Optik und das Dach schwer.", "Der Turm ist etwa 10 Meter hoch."],
+      hu: ["A világítótorony építése 1935 körül fejeződött be.", "A Sapuk-hegy tetején, stratégiai ponton helyezkedik el.", "A szerkezet masszív, megerősített betonból készült.", "A második világháború alatt megfigyelőpontként is használták.", "Amerikai légitámadások súlyosan megrongálták az optikát.", "A torony magassága megközelítőleg 10 méter."],
+      ro: ["Construcția farului a fost finalizată în jurul anului 1935.", "Este situat pe vârful muntelui Sapuk de pe insula Tonoas.", "Structura este realizată din beton armat rezistent.", "A servit ca post de observație în timpul celui de-al Doilea Război Mondial.", "Raidurile aeriene americane au avariat grav optica și acoperișul.", "Turnul are o înălțime de aproximativ 10 metri."],
+      en: ["The lighthouse was completed around the year 1935.", "It is located on the summit of Mount Sapuk on Tonoas Island.", "The construction consists of durable reinforced concrete.", "It served as an observation post during World War II.", "US air raids severely damaged the lighthouse's optics and roof.", "The tower stands approximately 10 meters tall."],
+    },
   },
   {
     id: "micronesia-pohnpei-state-capitol-landmarks-v2",
@@ -133,6 +205,18 @@ export const micronesiaLandmarksV2: POI[] = [
       en: ["Built in the late 1980s", "Part of the larger government complex", "Located in the new capital of Palikir", "Modern architecture with local influences"],
     },
     imageHint: "Pohnpei State Capitol building in Palikir",
+    descriptionAdvanced: {
+      de: "Das Pohnpei State Capitol in Kolonia ist der Sitz der Regierung des Bundesstaates Pohnpei. Das Gebäudeensemble beherbergt die exekutive und legislative Gewalt des Staates. Die Architektur verbindet moderne Verwaltungsfunktionen mit funktionalem Design für das tropische Klima. Es ist ein zentraler Ort für die politische Gestaltung und Verwaltung der bevölkerungsreichsten Insel der Föderierten Staaten von Mikronesien.",
+      hu: "A Pohnpei Állami Kapitólium Kolonia városában Pohnpei állam kormányának székhelye. Az épületegyüttes ad otthont az állam végrehajtó és törvényhozó hatalmának. Az építészet a modern adminisztratív funkciókat ötvözi a trópusi éghajlathoz igazodó kialakítással. Központi helyszíne a Mikronéziai Szövetségi Államok legnépesebb szigetének politikai irányításának.",
+      ro: "Capitoliul Statului Pohnpei din Kolonia este sediul guvernului acestui stat. Complexul de clădiri adăpostește autoritățile executive și legislative ale statului. Arhitectura combină funcțiile administrative moderne cu un design adaptat climatului tropical. Este locul central pentru gestionarea politică și administrativă a celei mai populate insule din Micronezia.",
+      en: "The Pohnpei State Capitol in Kolonia is the official seat of the Pohnpei State Government. The building complex houses the executive and legislative branches of the state authorities. Its architecture blends modern administrative functions with design elements suited for the tropical climate. It serves as the central location for the political administration of the most populous island in the FSM.",
+    },
+    factsAdvanced: {
+      de: ["Das Capitol befindet sich im Herzen der Stadt Kolonia.", "Pohnpei ist einer der vier Bundesstaaten der FSM.", "Das Gebäude liegt unweit des historischen Hafens.", "Hier tagt die Pohnpei State Legislature.", "In der Nähe befinden sich Denkmäler aus der spanischen Zeit.", "Der Komplex ist für die Öffentlichkeit während der Amtszeiten zugänglich."],
+      hu: ["A Kapitólium Kolonia városának szívében található.", "Pohnpei a Mikronéziai Szövetségi Államok négy tagállamának egyike.", "Az épület a történelmi kikötő közelében helyezkedik el.", "Itt ülésezik Pohnpei állam törvényhozó testülete.", "A közelben spanyol korszakból származó műemlékek láthatók.", "A komplexum hivatali időben nyitva áll a látogatók előtt."],
+      ro: ["Capitoliul este situat în inima orașului Kolonia.", "Pohnpei este unul dintre cele patru state constitutive ale FSM.", "Clădirea se află în apropierea portului istoric.", "Aici își desfășoară ședințele Legislativul Statului Pohnpei.", "În proximitate se află monumente din perioada spaniolă.", "Complexul este accesibil publicului în timpul orelor de program."],
+      en: ["The Capitol is located in the heart of Kolonia town.", "Pohnpei is one of the four constituent states of the FSM.", "The building is situated near the historic harbor area.", "It is the meeting place for the Pohnpei State Legislature.", "Several monuments from the Spanish era are located nearby.", "The complex is generally open to the public during office hours."],
+    },
   },
   {
     id: "micronesia-fsm-national-capitol-landmarks-v2",
@@ -152,6 +236,18 @@ export const micronesiaLandmarksV2: POI[] = [
       en: ["Consists of several colonial-style buildings", "Nestled in the green hills of Palikir", "Houses the Congress and the President's Office", "Officially dedicated in 1989"],
     },
     imageHint: "FSM National Capitol buildings in Palikir",
+    descriptionAdvanced: {
+      de: "Das Nationale Capitol der Föderierten Staaten von Mikronesien befindet sich in Palikir auf der Insel Pohnpei. Der 1989 eingeweihte Komplex dient als Hauptsitz der nationalen Regierung und des Präsidenten. Die Gebäude zeichnen sich durch ein schlichtes, funktionales Design aus, das sich harmonisch in die üppige Landschaft einfügt. Palikir ersetzte Kolonia als offizielle Hauptstadt des Inselstaates.",
+      hu: "A Mikronéziai Szövetségi Államok nemzeti kapitóliuma Pohnpei szigetén, Palikirben található. Az 1989-ben felavatott épületegyüttes a nemzeti kormány és az elnök székhelye. Az épületeket egyszerű, funkcionális kialakítás jellemzi, amely harmonikusan illeszkedik a dús trópusi tájba. Palikir 1989-ben vette át a fővárosi rangot Kolonia városától.",
+      ro: "Capitoliul Național al Statelor Federate ale Microneziei este situat în Palikir, pe insula Pohnpei. Inaugurat în 1989, complexul servește drept sediu principal pentru guvernul național și președinție. Clădirile au un design simplu și funcțional, integrându-se armonios în peisajul luxuriant. Palikir a înlocuit orașul Kolonia ca capitală oficială a națiunii.",
+      en: "The National Capitol of the Federated States of Micronesia is located in Palikir on Pohnpei Island. Inaugurated in 1989, the complex serves as the headquarters for the national government and the presidency. The buildings feature a simple, functional design that blends harmoniously with the lush surrounding landscape. Palikir replaced Kolonia as the nation's official capital city.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau wurde im Jahr 1989 offiziell abgeschlossen.", "Palikir liegt etwa 8 Kilometer südwestlich von Kolonia.", "Der Komplex umfasst neun separate Regierungsgebäude.", "Hier befindet sich der Sitz des Kongresses der FSM.", "Die Architektur wurde von traditionellen pohnpeischen Strukturen inspiriert.", "Das Gelände ist von dichtem Regenwald umgeben."],
+      hu: ["Az építkezés hivatalosan 1989-ben fejeződött be.", "Palikir körülbelül 8 kilométerre fekszik Koloniától.", "A komplexum kilenc különálló kormányzati épületből áll.", "Itt található a Mikronéziai Szövetségi Államok Kongresszusának székhelye.", "Az építészetet a hagyományos pohnpei struktúrák ihlették.", "A Kapitólium területét sűrű esőerdő veszi körül."],
+      ro: ["Construcția a fost finalizată oficial în cursul anului 1989.", "Palikir se află la aproximativ 8 kilometri sud-vest de Kolonia.", "Complexul este format din nouă clădiri guvernamentale separate.", "Aici se află sediul Congresului Statelor Federate ale Microneziei.", "Arhitectura a fost inspirată de structurile tradiționale din Pohnpei.", "Întregul teren este înconjurat de o pădure tropicală densă."],
+      en: ["Construction was officially completed in late 1989.", "Palikir is located about 8 kilometers southwest of Kolonia.", "The complex comprises nine separate government buildings.", "It houses the Congress of the Federated States of Micronesia.", "The architecture was inspired by traditional Pohnpeian structures.", "The capitol grounds are surrounded by dense tropical rainforest."],
+    },
   },
   {
     id: "micronesia-st-marys-catholic-church-landmarks-v2",
@@ -171,6 +267,18 @@ export const micronesiaLandmarksV2: POI[] = [
       en: ["Located in Colonia, Yap", "Combines Christian and local symbolism", "Center for religious festivities on Yap", "One of the largest buildings in Colonia"],
     },
     imageHint: "St. Mary's Catholic Church in Colonia Yap",
+    descriptionAdvanced: {
+      de: "Die katholische Kirche St. Mary's in Colonia ist ein wichtiges religiöses und historisches Wahrzeichen auf der Insel Yap. Das markante rote Gebäude ist für seine Architektur und die bedeutende Rolle in der Gemeinschaft bekannt. Die Kirche spiegelt den Einfluss der christlichen Missionen in Mikronesien wider, der bis in die Kolonialzeit zurückreicht. Sie ist ein Zentrum des spirituellen Lebens für die Bewohner von Yap.",
+      hu: "A Coloniában található Szent Mária katolikus templom Yap szigetének fontos vallási és történelmi jelképe. A jellegzetes vörös épület építészetéről és a közösségben betöltött jelentős szerepéről ismert. A templom a keresztény missziók Mikronéziára gyakorolt hatását tükrözi, amely a gyarmati korig nyúlik vissza. Yap lakói számára a templom a hitélet központi helyszíne.",
+      ro: "Biserica Catolică Sfânta Maria din Colonia este un reper religios și istoric important de pe insula Yap. Clădirea roșie distinctivă este cunoscută pentru arhitectura sa și rolul major în cadrul comunității. Biserica reflectă influența misiunilor creștine în Micronezia, care datează din perioada colonială. Este un centru al vieții spirituale pentru locuitorii din Yap.",
+      en: "St. Mary's Catholic Church in Colonia is an important religious and historical landmark on Yap Island. The distinctive red building is known for its architecture and significant role within the local community. The church reflects the influence of Christian missions in Micronesia, dating back to the colonial era. It remains a center of spiritual life for the residents of Yap.",
+    },
+    factsAdvanced: {
+      de: ["Die Kirche befindet sich im Zentrum von Colonia.", "Das Gebäude fällt durch seine kräftige rote Fassade auf.", "Sie wurde während der deutschen Kolonialzeit gegründet.", "Die heutige Struktur wurde nach dem Zweiten Weltkrieg renoviert.", "Sonntags finden hier Gottesdienste in lokaler Sprache statt.", "In der Nähe stehen oft traditionelle Yap-Steingelder."],
+      hu: ["A templom Colonia városközpontjában helyezkedik el.", "Az épület feltűnő, élénkvörös homlokzatáról ismerhető fel.", "A missziót eredetileg a német gyarmati időszakban alapították.", "A jelenlegi épületet a második világháború után újították fel.", "Vasárnaponként helyi nyelven is tartanak miséket.", "A közelben gyakran láthatók hagyományos yap-i kőpénzek."],
+      ro: ["Biserica este situată în centrul localității Colonia.", "Clădirea se remarcă prin fațada sa de un roșu aprins.", "Misiunea a fost întemeiată în timpul perioadei coloniale germane.", "Structura actuală a fost renovată după al Doilea Război Mondial.", "Duminica se celebrează slujbe în limbile locale.", "În apropierea bisericii pot fi văzute monede tradiționale de piatră."],
+      en: ["The church is located in the center of Colonia town.", "The building is notable for its vibrant red exterior walls.", "The mission was established during the German colonial period.", "The current structure was renovated after World War II.", "Sunday services are conducted in local Yapese languages.", "Traditional Yapese stone money is often seen in the vicinity."],
+    },
   },
   {
     id: "micronesia-japanese-communications-center-landmarks-v2",
@@ -190,6 +298,18 @@ export const micronesiaLandmarksV2: POI[] = [
       en: ["Massive concrete walls for protection", "Part of the extensive Japanese defense network", "Currently overgrown by jungle", "Located near Sapuk"],
     },
     imageHint: "Concrete ruins of Japanese communications center Chuuk",
+    descriptionAdvanced: {
+      de: "Die Ruinen des Japanischen Kommunikationszentrums auf der Insel Tonoas in Chuuk sind ein eindrucksvolles Zeugnis militärischer Architektur. Das massiv gebaute Betongebäude diente während des Zweiten Weltkriegs als strategischer Knotenpunkt für die kaiserliche japanische Marine. Trotz schwerer Bombardierungen durch US-Streitkräfte sind wesentliche Teile der Struktur erhalten geblieben. Heute ist es ein wichtiger Ort für Historiker und Besucher, die sich für die Kriegsgeschichte interessieren.",
+      hu: "A Chuuk állambeli Tonoas szigetén található japán hírközlési központ romjai a katonai építészet lenyűgöző emlékei. A masszív betonépület a Japán Császári Haditengerészet stratégiai csomópontjaként szolgált a második világháború alatt. Az amerikai erők súlyos bombázásai ellenére a szerkezet jelentős része megmaradt. Ma a hadtörténet iránt érdeklődő látogatók és történészek fontos emlékhelye.",
+      ro: "Ruinele Centrului de Comunicații Japonez de pe insula Tonoas din Chuuk sunt o dovadă impresionantă a arhitecturii militare. Clădirea masivă din beton a servit ca nod strategic pentru Marina Imperială Japoneză în timpul celui de-al Doilea Război Mondial. În ciuda bombardamentelor intense ale forțelor americane, părți esențiale din structură au supraviețuit. Astăzi este un loc important pentru istorici și turiști.",
+      en: "The ruins of the Japanese Communications Center on Tonoas Island in Chuuk are an impressive example of military architecture. The massive concrete building served as a strategic hub for the Imperial Japanese Navy during World War II. Despite heavy bombardment by US forces, significant parts of the structure remain intact. Today, it stands as an important site for historians and visitors interested in war history.",
+    },
+    factsAdvanced: {
+      de: ["Das Zentrum wurde in den frühen 1940er Jahren erbaut.", "Die Wände aus Stahlbeton sind fast einen Meter dick.", "Es befindet sich in der Nähe des ehemaligen japanischen Hauptquartiers.", "Während der Operation Hailstone 1944 wurde es gezielt angegriffen.", "In den Ruinen sind noch Überreste der elektrischen Leitungen sichtbar.", "Es gilt als eines der besterhaltenen japanischen Gebäude in Chuuk."],
+      hu: ["A központot az 1940-es évek elején építették.", "A vasbeton falak vastagsága majdnem eléri az egy métert.", "Az egykori japán katonai főhadiszállás közelében található.", "Az 1944-es Hailstone-hadművelet során célzott támadások érték.", "A romok között még láthatók az elektromos hálózat maradványai.", "Chuuk egyik legjobb állapotban fennmaradt japán katonai épülete."],
+      ro: ["Centrul a fost construit la începutul anilor 1940.", "Pereții din beton armat au o grosime de aproape un metru.", "Este situat în apropierea fostului cartier general japonez.", "A fost ținta unor atacuri directe în timpul Operațiunii Hailstone din 1944.", "Resturi ale cablajelor electrice sunt încă vizibile în ruine.", "Este considerată una dintre cele mai bine conservate clădiri japoneze din Chuuk."],
+      en: ["The center was constructed in the early 1940s.", "The reinforced concrete walls are nearly one meter thick.", "It is located near the former Japanese military headquarters.", "The building was targeted during Operation Hailstone in 1944.", "Remnants of electrical wiring are still visible within the ruins.", "It is one of the best-preserved Japanese-era buildings in Chuuk."],
+    },
   },
   {
     id: "micronesia-balabat-stone-money-bank-landmarks-v2",
@@ -209,5 +329,17 @@ export const micronesiaLandmarksV2: POI[] = [
       en: ["Rai stones can reach up to 4 meters in diameter", "Value depends on the history of the stone", "They are not physically moved when ownership changes", "Unique cultural heritage of Yap Island"],
     },
     imageHint: "Large Rai stone money discs displayed in Balabat Yap",
+    descriptionAdvanced: {
+      de: "Die Balabat Stone Money Bank auf Yap ist ein einzigartiges kulturelles Denkmal, an dem riesige Steingeldscheiben (Rai) ausgestellt sind. Diese monumentalen Kalksteinscheiben wurden einst von den Palau-Inseln herbeigeschifft und dienten als Zahlungsmittel für bedeutende Transaktionen. Die 'Bank' besteht aus einer Reihe dieser Steine, die entlang traditioneller Pfade im Dorf aufgestellt sind. Sie repräsentieren Reichtum, Prestige und die komplexe Geschichte des pazifischen Handels.",
+      hu: "A yap-i Balabat kőpénzbank egyedülálló kulturális emlékhely, ahol hatalmas kőpénzkorongok (Rai) láthatók. Ezeket a monumentális mészkőkorongokat egykor Palau szigeteiről szállították ide, és jelentős tranzakciók fizetőeszközeként szolgáltak. A 'bank' a falu hagyományos ösvényei mentén felállított kősorokból áll. A gazdagságot, a presztízst és a csendes-óceáni kereskedelem összetett történetét jelképezik.",
+      ro: "Banca de Bani de Piatră din Balabat, Yap, este un monument cultural unic unde sunt expuse discuri uriașe de piatră (Rai). Aceste discuri monumentale din calcar au fost aduse pe vremuri din Palau și folosite ca monedă pentru tranzacții majore. 'Banca' constă dintr-un șir de astfel de pietre amplasate de-a lungul potecilor tradiționale din sat. Ele reprezintă bogăția, prestigiul și istoria comerțului din Pacific.",
+      en: "The Balabat Stone Money Bank on Yap is a unique cultural site where massive stone money discs (Rai) are displayed. These monumental limestone discs were once voyaged from Palau and served as currency for significant transactions. The 'bank' consists of rows of these stones placed along traditional paths in the village. They represent wealth, prestige, and the complex history of Pacific trade.",
+    },
+    factsAdvanced: {
+      de: ["Die Steine können einen Durchmesser von über 3 Metern haben.", "Der Wert eines Steins hängt von seiner Herkunft und Geschichte ab.", "Viele Steine wurden hunderte Kilometer über das Meer transportiert.", "Obwohl sie stationär bleiben, wechselt der Eigentümer formal.", "Die Balabat-Bank gehört zu den bekanntesten auf der Insel Yap.", "Die Nutzung von Rai-Steinen ist in Yap gesetzlich geschützt."],
+      hu: ["A kőkorongok átmérője a 3 métert is meghaladhatja.", "A kő értéke nem csak a méretétől, hanem a történetétől is függ.", "Sok követ több száz kilométeren át szállítottak a tengeren.", "Bár a kövek a helyükön maradnak, a tulajdonosuk változhat.", "A balabati bank az egyik legismertebb ilyen helyszín Yap szigetén.", "A Rai-kövek használatát és védelmét yap-i törvények garantálják."],
+      ro: ["Discurile de piatră pot depăși diametrul de 3 metri.", "Valoarea unei pietre depinde de vechimea și istoria sa specifică.", "Multe pietre au fost transportate pe mare pe distanțe de sute de kilometri.", "Deși pietrele rămân pe loc, proprietarul se poate schimba formal.", "Banca Balabat este una dintre cele mai renumite de pe insula Yap.", "Utilizarea pietrelor Rai este protejată prin lege în statul Yap."],
+      en: ["The stones can reach diameters of over 3 meters.", "The value of a stone depends on its size and its specific history.", "Many stones were transported hundreds of miles across the sea.", "Although the stones remain stationary, their ownership can change.", "The Balabat bank is one of the most famous sites of its kind on Yap.", "The use and protection of Rai stones are recognized by Yapese law."],
+    },
   }
 ];

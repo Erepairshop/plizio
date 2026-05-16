@@ -546,6 +546,18 @@ export const malawiNatureV2: POI[] = [
       en: ["Small rocky islet", "Renowned snorkeling spot", "Located off Kande Beach", "Site for viewing endemic fish"],
     },
     imageHint: "Kande Island Lake Malawi clear water",
+    descriptionAdvanced: {
+      de: "Kande Island ist eine kleine, felsige Insel im Malawisee, nahe dem beliebten Kande Beach. Die Gewässer um die Insel sind berühmt für ihren Reichtum an Buntbarschen (Cichliden), die endemisch im See vorkommen. Die Insel bietet ideale Bedingungen zum Schnorcheln und Beobachten der klaren Unterwasserwelt des drittgrößten Sees Afrikas.",
+      hu: "A Kande-sziget egy kicsi, sziklás sziget a Malawi-tóban, a népszerű Kande Beach közelében. A sziget körüli vizek híresek a tóban endemikus sügérfélékről (cichlidák). A sziget ideális feltételeket kínál a búvárkodáshoz és Afrika harmadik legnagyobb tavának tiszta vízi világának megfigyeléséhez.",
+      ro: "Insula Kande este o insulă mică și stâncoasă din Lacul Malawi, lângă populara plajă Kande. Apele din jurul insulei sunt faimoase pentru abundența de cichlide, pești endemici ai lacului. Insula oferă condiții ideale pentru snorkeling și observarea lumii subacvatice limpezi a celui de-al treilea lac ca mărime din Africa.",
+      en: "Kande Island is a small, rocky island in Lake Malawi, near the popular Kande Beach. The waters around the island are famous for their abundance of cichlids, which are endemic to the lake. The island offers ideal conditions for snorkeling and observing the clear underwater life of Africa's third-largest lake.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Malawisee (Njassasee).", "Heimat zahlreicher endemischer Cichliden.", "Sichtweite unter Wasser bis zu 20 m.", "Beliebtes Ziel für Kajaktouren.", "Teil des Nkhata Bay Distrikts.", "Vogelbeobachtungspunkt für Schreiseeadler."],
+      hu: ["A Malawi-tóban (Nyasza-tó) található.", "Számos endemikus sügérféle otthona.", "A víz alatti látótávolság eléri a 20 métert.", "Népszerű célpont kajaktúrákhoz.", "Az Nkhata Bay körzet része.", "Madármegfigyelő hely a lármás rétisasok számára."],
+      ro: ["Situată în Lacul Malawi.", "Habitat pentru numeroase cichlide endemice.", "Vizibilitate sub apă de până la 20 m.", "Destinație populară pentru tururi cu caiacul.", "Parte a districtului Nkhata Bay.", "Punct de observare pentru vulturii pescari africani."],
+      en: ["Located in Lake Malawi (Lake Nyasa).", "Home to numerous endemic cichlid species.", "Underwater visibility up to 20 meters.", "Popular destination for kayaking trips.", "Part of the Nkhata Bay District.", "Birdwatching spot for African fish eagles."],
+    },
   },
   {
     id: "malawi-mpatamanga-gorge-nature-v2",
@@ -565,5 +577,17 @@ export const malawiNatureV2: POI[] = [
       en: ["Narrows of the Shire River", "Spectacular rock formations", "Proposed site for hydropower", "Located west of Blantyre"],
     },
     imageHint: "Mpatamanga Gorge Shire River rapids",
+    descriptionAdvanced: {
+      de: "Die Mpatamanga-Schlucht wird vom Shire-Fluss im Süden Malawis geformt und ist bekannt für ihre dramatischen Felsformationen und Stromschnellen. Die geologische Struktur bietet ein enormes Potenzial für die Wasserkraftnutzung, weshalb hier ein großes Staudammprojekt geplant ist. Die Schlucht ist zudem ein wichtiger ökologischer Korridor.",
+      hu: "Az Mpatamanga-szurdokot a Shire-folyó alakította ki Malawi déli részén, és drámai sziklaformációiról, valamint zúgóiról ismert. A geológiai szerkezet hatalmas lehetőséget kínál a vízenergia hasznosítására, ezért egy jelentős gátprojektet terveznek ide. A szurdok emellett fontos ökológiai folyosó.",
+      ro: "Cheile Mpatamanga sunt formate de râul Shire în sudul Malawi și sunt cunoscute pentru formațiunile stâncoase dramatice și repezișuri. Structura geologică oferă un potențial enorm pentru energia hidroelectrică, motiv pentru care aici este planificat un proiect major de baraj. Cheile sunt, de asemenea, un coridor ecologic important.",
+      en: "Mpatamanga Gorge is formed by the Shire River in southern Malawi and is known for its dramatic rock formations and rapids. The geological structure offers enormous potential for hydropower, leading to plans for a major dam project. The gorge also serves as an important ecological corridor.",
+    },
+    factsAdvanced: {
+      de: ["Geformt durch den Shire-Fluss.", "Standort des Mpatamanga-Wasserkraftprojekts.", "Geplante Leistung von 350 Megawatt.", "Liegt zwischen Blantyre und Chikwawa.", "Wichtiger Lebensraum für Klippschliefer.", "Geologisch aus präkambrischen Gesteinen."],
+      hu: ["A Shire-folyó alakította ki.", "Az Mpatamanga vízerőmű-projekt helyszíne.", "Tervezett teljesítménye 350 megawatt.", "Blantyre és Chikwawa között fekszik.", "Fontos élőhely a szirtiborzok számára.", "Geológiailag prekambriumi kőzetekből áll."],
+      ro: ["Format de râul Shire.", "Locul proiectului hidroelectric Mpatamanga.", "Capacitate planificată de 350 megawați.", "Situat între Blantyre și Chikwawa.", "Habitat important pentru damani.", "Format geologic din roci precambriene."],
+      en: ["Formed by the Shire River.", "Site of the Mpatamanga Hydropower Project.", "Planned capacity of 350 megawatts.", "Located between Blantyre and Chikwawa.", "Key habitat for rock hyraxes.", "Geologically composed of Precambrian rocks."],
+    },
   }
 ];

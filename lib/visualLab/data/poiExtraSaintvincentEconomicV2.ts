@@ -19,6 +19,18 @@ export const saintvincentEconomicV2: POI[] = [
       en: ["Established in 1964", "Handles 90% of national imports", "Deep water berthing facility", "Includes a modern cruise terminal"],
     },
     imageHint: "Aerial view of Kingstown cargo port with container ships",
+    descriptionAdvanced: {
+      de: "Der Kingstown Deep Water Harbour ist der wichtigste Seehafen von St. Vincent und den Grenadinen. Er wurde 1964 eröffnet und dient als zentraler Knotenpunkt für den internationalen Handel. Der Hafen wickelt sowohl Containerfracht als auch Kreuzfahrtschiffe ab. Seine Lage an der Südwestküste macht ihn zum wirtschaftlichen Herzstück der Insel.",
+      hu: "A Kingstown Deep Water Harbour Szent Vincent és a Grenadine-szigetek elsődleges tengeri kapuja. Az 1964-ben átadott létesítmény a nemzetközi kereskedelem központi csomópontja. A kikötő konténerszállítókat és luxushajókat egyaránt kiszolgál. Stratégiai elhelyezkedése a délnyugati parton alapvető fontosságú az ország gazdasága számára.",
+      ro: "Kingstown Deep Water Harbour este principala poartă maritimă din Saint Vincent și Grenadinele. Inaugurat în 1964, acesta servește drept punct central pentru comerțul internațional. Portul gestionează atât transportul de containere, cât și navele de croazieră. Locația sa pe coasta de sud-vest îl face esențial pentru economia națională.",
+      en: "Kingstown Deep Water Harbour is the primary maritime gateway for Saint Vincent and the Grenadines. Opened in 1964, it serves as the central hub for international trade and commerce. The port facilitates both containerized cargo handling and cruise ship arrivals. Its strategic location on the southwestern coast is vital for the national economy.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung des Tiefwasserhafens im Jahr 1964", "Wassertiefe beträgt zwischen 9 und 12 Metern", "Zentraler Exportpunkt für Bananen und Agrarprodukte", "Verfügt über ein modernes Kreuzfahrtterminal", "Einziger Hafen des Landes für große Containerschiffe", "Liegt in der Nähe des Stadtzentrums von Kingstown"],
+      hu: ["A mélyvízi kikötőt 1964-ben helyezték üzembe", "A vízmélység a mólónál 9 és 12 méter között mozog", "A szigetország elsődleges konténerterminálja", "Fontos logisztikai bázis a banánexport számára", "Külön terminál fogadja a nemzetközi üdülőhajókat", "Kingstown délnyugati részén található"],
+      ro: ["Portul de mare adâncime a fost deschis în 1964", "Adâncimea apei variază între 9 și 12 metri", "Punct principal de export pentru banane și rădăcinoase", "Dispune de un terminal modern pentru nave de croazieră", "Singurul port din țară dotat pentru containere mari", "Situat în partea de sud-vest a capitalei Kingstown"],
+      en: ["Deep water harbour was commissioned in 1964", "Water depth ranges between 9 and 12 metres", "Primary export point for bananas and agricultural goods", "Features a dedicated terminal for cruise ship passengers", "Only port in the country capable of handling large containers", "Located in the southwestern section of Kingstown"],
+    },
   },
   {
     id: "saintvincent-argyle-airport-economic-v2",
@@ -38,6 +50,18 @@ export const saintvincentEconomicV2: POI[] = [
       en: ["Opened in February 2017", "Cost approximately 259 million USD", "Runway length is 2743 meters", "Equipped with a dedicated solar farm"],
     },
     imageHint: "Modern airport terminal building and runway at Argyle",
+    descriptionAdvanced: {
+      de: "Der Argyle International Airport ist das größte Infrastrukturprojekt in der Geschichte des Landes. Er wurde am 14. Februar 2017 eröffnet und ersetzte den älteren E. T. Joshua Airport. Der Flughafen ermöglicht Direktflüge von Nordamerika und Europa. Er befindet sich an der Ostküste der Insel St. Vincent.",
+      hu: "Az Argyle nemzetközi repülőtér Szent Vincent történetének legnagyobb infrastrukturális beruházása. 2017. február 14-én nyílt meg, leváltva a régi E. T. Joshua repülőteret. A létesítmény lehetővé teszi a közvetlen járatok fogadását Észak-Amerikából és Európából. A repülőtér a sziget szél felőli, keleti partján fekszik.",
+      ro: "Aeroportul Internațional Argyle reprezintă cel mai mare proiect de infrastructură din istoria țării. Deschis pe 14 februarie 2017, acesta a înlocuit vechiul aeroport E. T. Joshua. Facilitatea permite zboruri directe din America de Nord și Europa. Aeroportul este situat pe coasta de est a insulei Saint Vincent.",
+      en: "Argyle International Airport is the largest infrastructure project in the history of the country. It opened on February 14, 2017, replacing the older E. T. Joshua Airport. The facility enables direct flights from North America and Europe to reach the island. It is situated on the eastern windward coast of Saint Vincent.",
+    },
+    factsAdvanced: {
+      de: ["Offizielle Eröffnung am 14. Februar 2017", "Länge der Start- und Landebahn beträgt 2.744 Meter", "Gesamtkosten beliefen sich auf etwa 260 Millionen USD", "Kann Flugzeuge der Größe einer Boeing 747 abfertigen", "Ersetzte den deutlich kleineren E. T. Joshua Airport", "Verfügt über ein Terminal mit 11.000 Quadratmetern"],
+      hu: ["A repülőteret 2017. február 14-én adták át", "A kifutópálya hossza 2744 méter", "A beruházás költsége megközelítette a 260 millió dollárt", "Képes fogadni a Boeing 747-es méretű repülőgépeket", "Az Arnos Vale-i E. T. Joshua repülőteret váltotta fel", "Az utasterminál alapterülete 11 000 négyzetméter"],
+      ro: ["Inaugurarea oficială a avut loc pe 14 februarie 2017", "Lungimea pistei de aterizare este de 2.744 metri", "Costul total a fost de aproximativ 260 milioane USD", "Poate gestiona aeronave de dimensiunea Boeing 747", "A înlocuit vechiul aeroport E. T. Joshua din Arnos Vale", "Terminalul are o suprafață de 11.000 de metri pătrați"],
+      en: ["Official opening took place on February 14, 2017", "Runway length measures 2,744 metres", "Total construction cost was approximately 260 million USD", "Capable of handling aircraft the size of a Boeing 747", "Replaced the smaller E. T. Joshua Airport at Arnos Vale", "The passenger terminal covers 11,000 square metres"],
+    },
   },
   {
     id: "saintvincent-camden-park-industrial-v2",
@@ -57,6 +81,18 @@ export const saintvincentEconomicV2: POI[] = [
       en: ["Close proximity to Kingstown Port", "Hosts garment manufacturing plants", "Center for food processing units", "Provides hundreds of local jobs"],
     },
     imageHint: "Industrial warehouses and factories at Camden Park",
+    descriptionAdvanced: {
+      de: "Das Camden Park Industrial Estate ist das primäre Produktionszentrum von St. Vincent. Es liegt westlich von Kingstown und beherbergt verschiedene Leichtindustrien. Hier werden Produkte wie Getränke, Metallwaren und Baustoffe hergestellt. Die Nähe zu einem kleinen Hafen erleichtert den Export der produzierten Güter.",
+      hu: "A Camden Park Industrial Estate Szent Vincent elsődleges ipari központja. Kingstowntól nyugatra található, és számos könnyűipari üzemnek ad otthont. Itt állítják elő többek között az üdítőitalokat, fémtermékeket és építőanyagokat. A terület melletti kikötőhely megkönnyíti a legyártott áruk tengeri exportját.",
+      ro: "Zona industrială Camden Park este principalul centru de producție din Saint Vincent. Situată la vest de Kingstown, aceasta găzduiește diverse unități de industrie ușoară. Aici sunt fabricate produse precum băuturi, articole metalice și materiale de construcții. Proximitatea față de un debarcader facilitează exportul bunurilor.",
+      en: "Camden Park Industrial Estate is the primary manufacturing hub of Saint Vincent. Located west of Kingstown, it hosts various light industries and production plants. Products such as beverages, metal goods, and construction materials are manufactured here. Proximity to a local shipping pier facilitates the export of finished goods.",
+    },
+    factsAdvanced: {
+      de: ["Größtes Industriegebiet der Insel St. Vincent", "Sitz der East Caribbean Bottlers Limited", "Beherbergt Unternehmen der Metallverarbeitung", "Verfügt über einen eigenen Anlegesteg für den Güterumschlag", "Wichtiger Arbeitgeber für die Region westlich der Hauptstadt", "Entwickelt zur Diversifizierung der lokalen Wirtschaft"],
+      hu: ["Szent Vincent szigetének legnagyobb ipari övezete", "Itt található az East Caribbean Bottlers központja", "Számos fémipari és feldolgozóipari cég székhelye", "Saját teherkikötővel rendelkezik az áruszállításhoz", "A fővárostól nyugatra eső régió fő foglalkoztatója", "A helyi gazdaság diverzifikálása céljából hozták létre"],
+      ro: ["Cea mai mare zonă industrială de pe insula Saint Vincent", "Sediul companiei East Caribbean Bottlers Limited", "Găzduiește unități de prelucrare a metalelor", "Dispune de un debarcader propriu pentru marfă", "Angajator major pentru regiunea de la vest de capitală", "Dezvoltat pentru a diversifica economia locală"],
+      en: ["Largest industrial zone on the island of Saint Vincent", "Home to East Caribbean Bottlers Limited", "Hosts metal fabrication and processing companies", "Features its own shipping pier for cargo handling", "Major employer for the region west of the capital", "Developed to diversify the local economy"],
+    },
   },
   {
     id: "saintvincent-diamond-industrial-v2",
@@ -76,6 +112,18 @@ export const saintvincentEconomicV2: POI[] = [
       en: ["Site of rum bottling operations", "Focuses on consumer goods", "Key hub for regional logistics", "Part of national economic planning"],
     },
     imageHint: "Industrial park with manufacturing units at Diamond",
+    descriptionAdvanced: {
+      de: "Das Diamond Industrial Estate ist eine neuere Wirtschaftszone südlich des internationalen Flughafens. Es wurde entwickelt, um moderne Gewerbeflächen für kleine und mittlere Unternehmen bereitzustellen. Der Standort profitiert von der direkten Anbindung an die wichtige Küstenstraße. Hier konzentrieren sich Montagebetriebe und Logistikdienstleister.",
+      hu: "A Diamond Industrial Estate egy újabb alapítású gazdasági övezet a nemzetközi repülőtértől délre. Modern telephelyeket kínál a kis- és középvállalkozások számára. A terület előnye a fontos part menti főútvonalhoz való közvetlen csatlakozás. Elsősorban összeszerelő üzemek és logisztikai szolgáltatók központja.",
+      ro: "Zona industrială Diamond este o zonă economică mai nouă, situată la sud de aeroportul internațional. A fost dezvoltată pentru a oferi spații comerciale moderne întreprinderilor mici și mijlocii. Locația beneficiază de acces direct la principala autostradă de coastă. Aici se concentrează unități de asamblare și furnizori de logistică.",
+      en: "Diamond Industrial Estate is a newer economic zone located south of the international airport. It was developed to provide modern commercial space for small and medium-sized enterprises. The site benefits from direct access to the main coastal highway. It primarily focuses on assembly plants and logistics service providers.",
+    },
+    factsAdvanced: {
+      de: ["Liegt strategisch günstig südlich des Argyle Airports", "Beherbergt die Fabrik von Diamond Glass and Aluminum", "Teil der nationalen Strategie zur Dezentralisierung", "Angebunden an den Windward Highway", "Fokus auf Leichtindustrie und Lagerlogistik", "Bietet subventionierte Flächen für lokale Start-ups"],
+      hu: ["Stratégiai fekvése az Argyle repülőtértől délre van", "Itt működik a Diamond Glass and Aluminum gyár", "A nemzeti decentralizációs stratégia része", "Közvetlen kapcsolata van a Windward Highway-jel", "Fő profilja a könnyűipar és a raktározás", "Támogatott telephelyeket kínál helyi vállalkozásoknak"],
+      ro: ["Situat strategic la sud de Aeroportul Argyle", "Găzduiește fabrica Diamond Glass and Aluminum", "Parte a strategiei naționale de descentralizare", "Conectat direct la autostrada Windward Highway", "Concentrat pe industrie ușoară și logistică de depozitare", "Oferă spații subvenționate pentru start-up-uri locale"],
+      en: ["Strategically located south of Argyle International Airport", "Home to the Diamond Glass and Aluminum factory", "Part of the national decentralization strategy", "Connected directly to the main Windward Highway", "Focuses on light manufacturing and warehousing", "Provides subsidized space for local startup businesses"],
+    },
   },
   {
     id: "saintvincent-lowmans-bay-power-v2",
@@ -95,6 +143,18 @@ export const saintvincentEconomicV2: POI[] = [
       en: ["Main source of national energy", "Utilizes diesel generators", "Capacity exceeds 20 megawatts", "Critical island infrastructure"],
     },
     imageHint: "Industrial power plant facility at Lowmans Bay",
+    descriptionAdvanced: {
+      de: "Das Kraftwerk Lowmans Bay ist die wichtigste Anlage zur Stromerzeugung auf St. Vincent. Es wird von VINLEC betrieben und nutzt moderne Dieselgeneratoren. Die Anlage wurde in mehreren Phasen gebaut, um den steigenden Energiebedarf zu decken. Sie ist entscheidend für die Stabilität des nationalen Stromnetzes.",
+      hu: "A Lowmans Bay erőmű Szent Vincent legfontosabb villamosenergia-termelő létesítménye. A VINLEC üzemelteti, és modern dízelgenerátorokat használ az áramfejlesztéshez. Az üzemet több szakaszban építették ki a növekvő igények kielégítésére. Kulcsfontosságú szerepet tölt be az országos energiahálózat stabilitásában.",
+      ro: "Centrala electrică Lowmans Bay este cea mai importantă facilitate de generare a energiei din Saint Vincent. Operată de VINLEC, aceasta utilizează generatoare diesel moderne. Centrala a fost construită în mai multe etape pentru a satisface cererea crescută de energie. Este esențială pentru stabilitatea rețelei electrice naționale.",
+      en: "Lowmans Bay Power Plant is the most important electricity generation facility in Saint Vincent. Operated by VINLEC, it utilizes modern diesel generators to provide base load power. The plant was constructed in multiple phases to meet the country's growing energy demands. It is critical for the stability of the national power grid.",
+    },
+    factsAdvanced: {
+      de: ["Größtes fossil befeuertes Kraftwerk des Landes", "Erste Phase wurde im Jahr 2006 in Betrieb genommen", "Zweite Ausbaustufe folgte im Jahr 2010", "Verfügt über eine Gesamtkapazität von über 20 Megawatt", "Betrieben von St. Vincent Electricity Services Limited", "Befindet sich in einer geschützten Bucht nördlich von Kingstown"],
+      hu: ["Az ország legnagyobb fosszilis tüzelésű erőműve", "Az első szakaszt 2006-ban helyezték üzembe", "A második bővítési ütem 2010-ben készült el", "Összkapacitása meghaladja a 20 megawattot", "A St. Vincent Electricity Services Limited üzemelteti", "Egy védett öbölben található Kingstowntól északra"],
+      ro: ["Cea mai mare centrală electrică pe combustibili fosili din țară", "Prima etapă a fost pusă în funcțiune în anul 2006", "A doua etapă de extindere a fost finalizată în 2010", "Are o capacitate totală de peste 20 de megawați", "Operată de St. Vincent Electricity Services Limited", "Situată într-un golf protejat la nord de Kingstown"],
+      en: ["Largest fossil-fuel power plant in the country", "The first stage was commissioned in 2006", "Second expansion phase was completed in 2010", "Total generation capacity exceeds 20 megawatts", "Operated by St. Vincent Electricity Services Limited", "Located in a protected bay north of Kingstown"],
+    },
   },
   {
     id: "saintvincent-ottley-hall-shipyard-v2",
@@ -114,6 +174,18 @@ export const saintvincentEconomicV2: POI[] = [
       en: ["Features a dry dock facility", "Supports the local fishing fleet", "Multi-million dollar project", "Provides technical marine services"],
     },
     imageHint: "Shipyard with dry dock and boats under repair",
+    descriptionAdvanced: {
+      de: "Die Ottley Hall Werft ist eine bedeutende maritime Einrichtung in einer geschützten Bucht nahe der Hauptstadt. Sie verfügt über ein Trockendock und Reparaturanlagen für Yachten und Handelsschiffe. Das Projekt war in der Vergangenheit mit wirtschaftlichen Herausforderungen verbunden. Heute dient es als Basis für Wartungsarbeiten und Schiffslagerung.",
+      hu: "Az Ottley Hall hajógyár egy jelentős tengerészeti létesítmény a főváros közelében, egy védett öbölben. Szárazdokkal és javítóberendezésekkel rendelkezik jachtok és kereskedelmi hajók számára. A projekt a múltban komoly gazdasági nehézségekkel küzdött. Napjainkban karbantartási munkák és hajótárolás bázisául szolgál.",
+      ro: "Șantierul naval Ottley Hall este o facilitate maritimă importantă situată într-un golf protejat lângă capitală. Dispune de un doc uscat și instalații de reparații pentru iahturi și nave comerciale. Proiectul a fost asociat cu dificultăți economice în trecut. Astăzi servește ca bază pentru lucrări de întreținere și depozitare a navelor.",
+      en: "Ottley Hall Shipyard is a significant maritime facility located in a sheltered bay near the capital. It features a dry dock and repair facilities for yachts and commercial vessels. The project was historically associated with major economic challenges and debt. Today, it serves as a base for maintenance services and vessel storage.",
+    },
+    factsAdvanced: {
+      de: ["Verfügt über ein voll funktionsfähiges Trockendock", "Strategische Lage in der geschützten Ottley Hall Bay", "Kann Schiffe mit beträchtlichem Tiefgang aufnehmen", "Wurde in den 1990er Jahren als Großprojekt initiiert", "Wichtiger Standort für die maritime Infrastruktur", "Bietet Lagerplätze für Yachten während der Hurrikansaison"],
+      hu: ["Teljesen működőképes szárazdokkal rendelkezik", "Stratégiai fekvése a védett Ottley Hall-öbölben van", "Jelentős merülésű hajók fogadására is alkalmas", "Az 1990-es években indult nagyberuházásként", "A nemzeti tengeri infrastruktúra fontos eleme", "Hajótárolást biztosít a hurrikánszezon idején"],
+      ro: ["Dispune de un doc uscat complet operațional", "Locație strategică în golful protejat Ottley Hall", "Poate găzdui nave cu pescaj considerabil", "Inițiat ca proiect major în anii 1990", "Element important al infrastructurii maritime naționale", "Oferă spații de depozitare în timpul sezonului de uragane"],
+      en: ["Features a fully operational dry dock facility", "Strategically located in the sheltered Ottley Hall Bay", "Capable of accommodating vessels with significant draft", "Initiated as a major project in the 1990s", "Important component of national maritime infrastructure", "Provides storage for yachts during the hurricane season"],
+    },
   },
   {
     id: "saintvincent-mesopotamia-agriculture-v2",
@@ -133,6 +205,18 @@ export const saintvincentEconomicV2: POI[] = [
       en: ["Rich volcanic soil for farming", "Large-scale banana production", "Uses natural irrigation systems", "Crucial for national food security"],
     },
     imageHint: "Lush green agricultural valley with banana plantations",
+    descriptionAdvanced: {
+      de: "Das Mesopotamia Valley ist bekannt als die Kornkammer von St. Vincent. Aufgrund des fruchtbaren vulkanischen Bodens und der hohen Niederschläge ist es das wichtigste Landwirtschaftsgebiet. Hier werden Bananen, Muskatnüsse und Kakao im großen Stil angebaut. Das Tal ist von hohen Gebirgsketten umgeben und wird vom Yambou River entwässert.",
+      hu: "A Mesopotamia-völgy Szent Vincent „élelemraktáraként” ismert. A termékeny vulkáni talajnak és a bőséges csapadéknak köszönhetően ez a legfontosabb mezőgazdasági terület. Itt termesztik nagy mennyiségben a banánt, a szerecsendiót és a kakaót. A völgyet magas hegyvonulatok veszik körül, fő folyója a Yambou.",
+      ro: "Valea Mesopotamia este cunoscută drept „coșul cu pâine” al insulei Saint Vincent. Datorită solului vulcanic fertil și precipitațiilor abundente, este cea mai importantă zonă agricolă. Aici se cultivă pe scară largă banane, nucșoară și cacao. Valea este înconjurată de lanțuri muntoase înalte și este drenată de râul Yambou.",
+      en: "The Mesopotamia Valley is known as the breadbasket of Saint Vincent. Due to its fertile volcanic soil and high rainfall, it is the most important agricultural region. Crops such as bananas, nutmeg, and cocoa are cultivated here extensively. The valley is surrounded by high mountain ranges and is drained by the Yambou River.",
+    },
+    factsAdvanced: {
+      de: ["Gilt als fruchtbarstes Tal der gesamten Insel", "Hauptanbaugebiet für Bananen und Pfeilwurz", "Höchste Dichte an Kleinbauern im Land", "Vulkanische Böden sorgen für natürlichen Nährstoffreichtum", "Umgeben von den Gipfeln des Grand Bonhomme", "Zentrum der traditionellen landwirtschaftlichen Produktion"],
+      hu: ["A sziget legtermékenyebb völgyének tartják", "A banán és a nyílgyökér fő termesztési területe", "Itt a legmagasabb a kisbirtokos gazdák sűrűsége", "A vulkáni talaj természetes tápanyagbőséget biztosít", "A Grand Bonhomme hegycsúcsai övezik", "A hagyományos mezőgazdasági termelés központja"],
+      ro: ["Considerată cea mai fertilă vale de pe întreaga insulă", "Principala zonă de cultivare pentru banane și arroroot", "Cea mai mare densitate de mici fermieri din țară", "Solurile vulcanice oferă o bogăție naturală de nutrienți", "Înconjurată de vârfurile masivului Grand Bonhomme", "Centrul producției agricole tradiționale"],
+      en: ["Considered the most fertile valley on the entire island", "Main cultivation area for bananas and arrowroot", "Highest density of smallholder farmers in the country", "Volcanic soils provide natural nutrient richness", "Surrounded by the peaks of Grand Bonhomme", "Hub of traditional agricultural production"],
+    },
   },
   {
     id: "saintvincent-kingstown-market-economic-v2",
@@ -152,6 +236,18 @@ export const saintvincentEconomicV2: POI[] = [
       en: ["Major renovation in 2005", "Hub for agricultural trade", "Hundreds of daily vendors", "Key driver of the local economy"],
     },
     imageHint: "Bustling outdoor and indoor market in Kingstown",
+    descriptionAdvanced: {
+      de: "Der Kingstown Central Market ist der pulsierende Mittelpunkt des lokalen Handels in der Hauptstadt. Er bietet eine enorme Auswahl an frischen tropischen Früchten, Gewürzen und handwerklichen Produkten. Das Gebäude wurde modernisiert, um bessere hygienische Bedingungen zu schaffen. Besonders an Samstagen ist der Markt ein Zentrum des sozialen Lebens.",
+      hu: "A Kingstown Central Market a helyi kereskedelem lüktető központja a fővárosban. Trópusi gyümölcsök, fűszerek és kézműves termékek hatalmas választékát kínálja. Az épületet korszerűsítették a higiéniai feltételek javítása érdekében. Szombatonként a piac a sziget társasági életének egyik legforgalmasabb helyszíne.",
+      ro: "Piața Centrală din Kingstown este centrul vibrant al comerțului local din capitală. Oferă o selecție vastă de fructe tropicale proaspete, condimente și produse artizanale. Clădirea a fost modernizată pentru a oferi condiții igienice mai bune. Mai ales în zilele de sâmbătă, piața este inima vieții sociale.",
+      en: "Kingstown Central Market is the vibrant heart of local commerce in the capital city. It offers a vast selection of fresh tropical fruits, spices, and artisanal products. The building was modernized to provide better sanitary conditions for vendors and shoppers. On Saturdays, the market becomes a major social and economic hub.",
+    },
+    factsAdvanced: {
+      de: ["Zentrale Modernisierung wurde im Jahr 2000 abgeschlossen", "Verfügt über getrennte Bereiche für Fisch und Fleisch", "Hauptstandort für den Verkauf von lokalem Pfeilwurz", "Bester Ort für den Kauf von authentischen Gewürzen", "Höchste Besucherzahlen am Freitag- und Samstagmorgen", "Traditioneller Treffpunkt für Bauern aus dem Hinterland"],
+      hu: ["A központi felújítás 2000-ben fejeződött be", "Külön szekciókkal rendelkezik a halak és húsok számára", "A helyi nyílgyökér-liszt elsődleges lelőhelye", "A legjobb hely az autentikus karibi fűszerek beszerzésére", "A legnagyobb forgalom péntek és szombat reggel van", "Hagyományos találkozóhely a vidéki gazdák számára"],
+      ro: ["Modernizarea centrală a fost finalizată în anul 2000", "Dispune de secțiuni separate pentru pește și carne", "Locația principală pentru vânzarea făinii de arroroot", "Cel mai bun loc pentru cumpărarea condimentelor autentice", "Cea mai mare afluență este vineri și sâmbătă dimineața", "Loc de întâlnire tradițional pentru fermierii din provincie"],
+      en: ["Major modernization was completed in the year 2000", "Features separate sections for fish and meat products", "Primary location for purchasing local arrowroot flour", "Best place to buy authentic Caribbean spices", "Peak business hours are Friday and Saturday mornings", "Traditional meeting point for rural farmers"],
+    },
   },
   {
     id: "saintvincent-barrouallie-fisheries-v2",
@@ -171,6 +267,18 @@ export const saintvincentEconomicV2: POI[] = [
       en: ["Center for pilot whale fishing", "Supports local fish exports", "Equipped with cold storage", "Vital source of local income"],
     },
     imageHint: "Fishing boats and fish market stalls at Barrouallie",
+    descriptionAdvanced: {
+      de: "Der Barrouallie Fisheries Complex ist auf die Verarbeitung von Grindwalen, lokal als Blackfish bekannt, spezialisiert. Diese Tradition ist tief in der Kultur des Fischerdorfes verwurzelt. Die Anlage wurde mit internationaler Hilfe modernisiert, um die Qualität zu sichern. Sie umfasst Kühlhäuser und Anlegestellen für die lokale Fischereiflotte.",
+      hu: "A Barrouallie Fisheries Complex a gömbölyűfejű-delfinek (helyi nevén Blackfish) feldolgozására specializálódott. Ez a hagyomány mélyen gyökerezik a halászfalu kultúrájában. A létesítményt nemzetközi segítséggel korszerűsítették a minőségbiztosítás érdekében. Hűtőházakat és kikötőhelyeket biztosít a helyi flottának.",
+      ro: "Complexul de pescuit Barrouallie este specializat în prelucrarea balenelor pilot, cunoscute local sub numele de Blackfish. Această tradiție este profund înrădăcinată în cultura satului pescăresc. Facilitatea a fost modernizată cu ajutor internațional pentru a asigura calitatea. Include depozite frigorifice și dane pentru flota locală.",
+      en: "Barrouallie Fisheries Complex specializes in the processing of pilot whales, known locally as blackfish. This tradition is deeply rooted in the culture of the fishing town on the leeward coast. The facility was upgraded with international assistance to ensure food safety. It features cold storage and landing docks for the local fishing fleet.",
+    },
+    factsAdvanced: {
+      de: ["Barrouallie ist berühmt für den Fang von Blackfish", "Anlage wurde mit Unterstützung aus Japan modernisiert", "Sichert den Lebensunterhalt von über 100 Fischern", "Beinhaltet moderne Eismaschinen und Kühllager", "Wichtigstes Fischereizentrum an der Westküste", "Blackfish-Öl wird hier traditionell gewonnen"],
+      hu: ["Barrouallie híres a Blackfish (delfin) vadászatáról", "A komplexumot japán segítséggel korszerűsítették", "Több mint 100 halász megélhetését biztosítja", "Modern jéggépekkel és hűtőkamrákkal felszerelt", "A nyugati part legfontosabb halászati központja", "A Blackfish-olajat itt hagyományos módon nyerik ki"],
+      ro: ["Barrouallie este faimos pentru vânătoarea de Blackfish", "Complexul a fost modernizat cu sprijin din Japonia", "Asigură subzistența pentru peste 100 de pescari", "Include mașini de gheață și depozite frigorifice moderne", "Cel mai important centru de pescuit de pe coasta de vest", "Uleiul de Blackfish este extras aici în mod tradițional"],
+      en: ["Barrouallie is famous for hunting blackfish (pilot whales)", "The complex was upgraded with assistance from Japan", "Provides livelihoods for over 100 local fishermen", "Features modern ice machines and cold storage units", "Most important fishing hub on the leeward coast", "Blackfish oil is traditionally extracted at this site"],
+    },
   },
   {
     id: "saintvincent-richmond-quarry-economic-v2",
@@ -190,5 +298,17 @@ export const saintvincentEconomicV2: POI[] = [
       en: ["Supplies volcanic building sand", "Vital for road paving projects", "Located on the north-west coast", "Major part of the mining sector"],
     },
     imageHint: "Mining site with volcanic sand and heavy machinery at Richmond",
+    descriptionAdvanced: {
+      de: "Der Steinbruch Richmond ist eine großflächige Anlage zur Gewinnung von vulkanischem Gestein an der Nordwestküste. Er liefert essenzielle Baumaterialien wie Schotter und Sand für nationale Infrastrukturprojekte. Der Standort ist entscheidend für den Straßenbau und die Instandhaltung der Inselwege. Moderne Brecheranlagen verarbeiten das harte Gestein vor Ort.",
+      hu: "A Richmond kőfejtő egy nagyszabású vulkáni kőzetbánya az északnyugati parton. Alapvető építőanyagokat, például zúzott követ és homokot szolgáltat a nemzeti infrastruktúra-fejlesztésekhez. A bánya kulcsfontosságú az útépítések és a sziget úthálózatának karbantartása számára. Modern törőgépek dolgozzák fel helyben a kemény kőzetet.",
+      ro: "Cariera Richmond este o facilitate de amploare pentru extracția rocii vulcanice de pe coasta de nord-vest. Aceasta furnizează materiale de construcție esențiale, precum piatră spartă și nisip, pentru proiectele naționale de infrastructură. Locația este vitală pentru construcția și întreținerea drumurilor de pe insulă.",
+      en: "Richmond Quarry is a large-scale volcanic rock extraction facility on the northwestern coast. It provides essential construction materials such as aggregate and sand for national infrastructure projects. The site is vital for road building and the ongoing maintenance of the island's highways. Modern crushing machinery processes the hard rock on-site.",
+    },
+    factsAdvanced: {
+      de: ["Wichtigster Lieferant für Basaltschotter auf St. Vincent", "Liefert Material für den Bau des Argyle Airports", "Befindet sich am Fuße des Vulkans La Soufrière", "Große Mengen werden per Lastkahn abtransportiert", "Wichtiger Arbeitgeber im Norden der Insel", "Verarbeitet extrem hartes vulkanisches Eruptivgestein"],
+      hu: ["Szent Vincent legfontosabb bazaltzúzalék-szállítója", "Alapanyagot biztosított az Argyle repülőtér építéséhez", "A La Soufrière vulkán lábánál található", "Jelentős mennyiséget uszályokon szállítanak el", "Az északi régió egyik legnagyobb foglalkoztatója", "Rendkívül kemény vulkáni magmás kőzetet dolgoz fel"],
+      ro: ["Principalul furnizor de piatră de bazalt din Saint Vincent", "A furnizat materiale pentru construcția Aeroportului Argyle", "Situat la poalele vulcanului La Soufrière", "Cantități mari sunt transportate cu barje maritime", "Angajator major în partea de nord a insulei", "Procesează rocă vulcanică magmatică extrem de dură"],
+      en: ["Primary supplier of basalt aggregate in Saint Vincent", "Provided materials for the construction of Argyle Airport", "Located at the base of the La Soufrière volcano", "Large quantities are transported away by sea barges", "Major employer in the northern region of the island", "Processes extremely hard volcanic igneous rock"],
+    },
   }
 ];

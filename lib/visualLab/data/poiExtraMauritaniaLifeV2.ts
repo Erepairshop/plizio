@@ -608,6 +608,18 @@ export const mauritaniaLifeV2: POI[] = [
       en: ["Tagant edge", "Nomad meeting point", "Palm culture", "Oasis ecology"],
     },
     imageHint: "Moudjeria oasis palm forest",
+    descriptionAdvanced: {
+      de: "Moudjeria ist eine malerische Oase am Fuße des Tagant-Plateaus in Zentralmauretanien. Die Siedlung liegt an einem strategischen Pass, der den Zugang zum Hochland ermöglicht, und ist von steilen Sandsteinklippen umgeben. Die Oase ist für ihre Dattelhaine und als Raststation für Reisende auf dem Weg in den Osten des Landes bekannt.",
+      hu: "Moudjeria egy festői oázis a Tagant-fennsík lábánál, Közép-Mauritániában. A település egy stratégiai hágónál fekszik, amely hozzáférést biztosít a felföldhöz, és meredek homokkő sziklák veszik körül. Az oázis datolyaligeteiről és az ország keleti része felé tartó utazók fontos pihenőhelyeként ismert.",
+      ro: "Moudjeria este o oază pitorească situată la poalele platoului Tagant din centrul Mauritaniei. Așezarea se află pe o trecătoare strategică ce permite accesul către podiș și este înconjurată de stânci abrupte de gresie. Oaza este cunoscută pentru plantațiile de curmali și ca stație de popas pentru călătorii spre estul țării.",
+      en: "Moudjeria is a picturesque oasis located at the foot of the Tagant Plateau in central Mauritania. The settlement sits at a strategic pass providing access to the highlands and is surrounded by steep sandstone cliffs. The oasis is known for its date groves and as a crucial rest stop for travelers heading to the eastern part of the country.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen in der Region Tagant", "Strategischer Pass auf dem Weg nach Tidjikja", "Gegründet während der Kolonialzeit um 1934", "Umgeben von bis zu 100 Meter hohen Klippen", "Wichtiger Ort für den regionalen Dattelhandel", "Bekannt für das trockene Wüstenklima"],
+      hu: ["A Tagant-régióban helyezkedik el", "Stratégiai hágó a Tidjikja felé vezető úton", "A gyarmati időszakban, 1934 körül alapították", "Akár 100 méter magas sziklafalak veszik körül", "Fontos helyszín a regionális datolyakereskedelemben", "Száraz sivatagi éghajlatáról nevezetes"],
+      ro: ["Situată în regiunea Tagant", "Trecătoare strategică pe drumul spre Tidjikja", "Fondată în epoca colonială, în jurul anului 1934", "Înconjurată de stânci înalte de până la 100 metri", "Loc important pentru comerțul regional cu curmale", "Cunoscută pentru climatul deșertic arid"],
+      en: ["Located in the Tagant Region", "Strategic pass on the road to Tidjikja", "Founded during the colonial era around 1934", "Surrounded by cliffs up to 100 meters high", "Important site for regional date trade", "Known for its dry desert climate"],
+    },
   },
   {
     id: "mauritania-banc-d-arguin-lagune-life-v2",
@@ -627,6 +639,18 @@ export const mauritaniaLifeV2: POI[] = [
       en: ["Banc d'Arguin", "Lagoon ecosystem", "Fish nursery", "Turtle habitat"],
     },
     imageHint: "Arguin lagoon waters",
+    descriptionAdvanced: {
+      de: "Die Lagunen des Banc d'Arguin-Nationalparks bilden ein einzigartiges Übergangsgebiet zwischen der Sahara-Wüste und dem Atlantik. Diese flachen Küstengewässer sind durch Sandbänke und Wattflächen geprägt, die eine enorme biologische Produktivität aufweisen. Sie dienen als eines der weltweit wichtigsten Überwinterungsgebiete für Millionen von Zugvögeln aus Europa und Nordasien.",
+      hu: "A Banc d'Arguin Nemzeti Park lagúnái egyedülálló átmeneti zónát alkotnak a Szahara-sivatag és az Atlanti-óceán között. Ezeket a sekély parti vizeket homokpadok és árapálysíkságok jellemzik, amelyek hatalmas biológiai produktivitással bírnak. A terület a világ egyik legfontosabb telelőhelye több millió Európából és Észak-Ázsiából érkező költözőmadár számára.",
+      ro: "Lagunele Parcului Național Banc d'Arguin formează o zonă de tranziție unică între deșertul Sahara și Oceanul Atlantic. Aceste ape de coastă puțin adânci sunt caracterizate de bancuri de nisip și zone intertidale cu o productivitate biologică enormă. Ele servesc drept unul dintre cele mai importante locuri de iernare din lume pentru milioane de păsări migratoare.",
+      en: "The lagoons of Banc d'Arguin National Park form a unique transition zone between the Sahara Desert and the Atlantic Ocean. These shallow coastal waters are characterized by sandbanks and mudflats with enormous biological productivity. They serve as one of the world's most important wintering grounds for millions of migratory birds from Europe and Northern Asia.",
+    },
+    factsAdvanced: {
+      de: ["Teil des UNESCO-Welterbes seit 1989", "Überwinterungsplatz für 2 Millionen Zugvögel", "Heimat des Volkes der Imraguen-Fischer", "Größtes maritimes Schutzgebiet Westafrikas", "Bekannt für seltene Mönchsrobben-Vorkommen", "Extrem flache Gewässer (meist unter 5 Meter)"],
+      hu: ["1989 óta az UNESCO Világörökség része", "2 millió költözőmadár telelőhelye", "Az imraguen halásznép otthona", "Nyugat-Afrika legnagyobb tengeri védett területe", "Ritka barátfókák előfordulási helye", "Rendkívül sekély vizek (többnyire 5 méter alatt)"],
+      ro: ["Parte a Patrimoniului Mondial UNESCO din 1989", "Loc de iernare pentru 2 milioane de păsări", "Căminul pescarilor din poporul Imraguen", "Cea mai mare arie marină protejată din Africa de Vest", "Cunoscut pentru prezența focilor monah rare", "Ape extrem de puțin adânci (sub 5 metri)"],
+      en: ["Part of UNESCO World Heritage since 1989", "Wintering site for 2 million migratory birds", "Home to the Imraguen fishing people", "Largest marine protected area in West Africa", "Known for rare monk seal occurrences", "Extremely shallow waters (mostly under 5 meters)"],
+    },
   },
   {
     id: "mauritania-oase-terjit-nord-life-v2",
@@ -646,6 +670,18 @@ export const mauritaniaLifeV2: POI[] = [
       en: ["Additional oasis area", "Spring-fed", "Rich vegetation", "Microclimate"],
     },
     imageHint: "Terjit north oasis vegetation",
+    descriptionAdvanced: {
+      de: "Terjit ist eine der bekanntesten und schönsten Oasen Mauretaniens, gelegen in einer tiefen Schlucht nördlich von Atar. Sie ist berühmt für ihre Thermalquellen, die aus den Felswänden sprudeln und natürliche Pools inmitten dichter Palmenhaine bilden. Die Oase bietet einen starken Kontrast zur umgebenden Wüstenlandschaft und ist ein beliebtes Ziel für Reisende.",
+      hu: "Terjit Mauritánia egyik legismertebb és legszebb oázisa, amely Atartól északra, egy mély szurdokban fekszik. Híres a kősziklákból előtörő termálforrásairól, amelyek természetes medencéket alkotnak a sűrű pálmaligetek közepén. Az oázis éles kontrasztot mutat a környező sivatagi tájjal, és az utazók kedvelt célpontja.",
+      ro: "Terjit este una dintre cele mai cunoscute și frumoase oaze din Mauritania, situată într-un canion adânc la nord de Atar. Este renumită pentru izvoarele termale care țâșnesc din pereții de stâncă și formează bazine naturale în mijlocul plantațiilor dese de palmiere. Oaza oferă un contrast puternic cu peisajul deșertic înconjurător.",
+      en: "Terjit is one of Mauritania's most famous and beautiful oases, located in a deep gorge north of Atar. It is renowned for its thermal springs bubbling out of the rock walls, forming natural pools amidst dense palm groves. The oasis provides a sharp contrast to the surrounding desert landscape and is a popular destination for travelers.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen etwa 45 km südlich von Atar", "Verfügt über warme und kalte Quellen", "Wassertemperatur liegt konstant bei 15-20°C", "Historischer Krönungsort mauretanischer Emire", "Dichte Vegetation aus Palmen und Akazien", "Beliebter Drehort für internationale Filme"],
+      hu: ["Atartól kb. 45 km-re délre található", "Hideg és meleg forrásokkal is rendelkezik", "A víz hőmérséklete állandó 15-20°C", "Mauritániai emírek történelmi koronázási helye", "Sűrű pálma- és akácvonzatú növényzet", "Nemzetközi filmek kedvelt forgatási helyszíne"],
+      ro: ["Situată la aproximativ 45 km sud de Atar", "Dispune de izvoare calde și reci", "Temperatura apei este constantă la 15-20°C", "Loc istoric de încoronare a emirilor mauritani", "Vegetație densă de palmiere și salcâmi", "Locație populară pentru filmări internaționale"],
+      en: ["Located about 45 km south of Atar", "Features both warm and cold springs", "Water temperature is constant at 15-20°C", "Historical coronation site for Mauritanian emirs", "Dense vegetation of palms and acacias", "Popular filming location for international movies"],
+    },
   },
   {
     id: "mauritania-delta-senegal-life-v2",
@@ -665,6 +701,18 @@ export const mauritaniaLifeV2: POI[] = [
       en: ["Senegal River", "Estuary area", "Ecological link", "Sensitive biodiversity"],
     },
     imageHint: "Senegal river mouth delta",
+    descriptionAdvanced: {
+      de: "Das Senegal-Delta an der Grenze zwischen Mauretanien und dem Senegal ist ein ausgedehntes Feuchtgebiet von globaler Bedeutung. Es umfasst den Diawling-Nationalpark auf mauretanischer Seite, der ein Mosaik aus Seen, Marschen und Dünen schützt. Das Delta ist lebensnotwendig für die lokale Fischerei, die Landwirtschaft und als Rastplatz für hunderttausende Zugvögel.",
+      hu: "A Szenegál-delta a Mauritánia és Szenegál határán fekvő kiterjedt vizes élőhely globális jelentőséggel bír. Magában foglalja a mauritániai oldalon található Diawling Nemzeti Parkot, amely tavak, mocsarak és dűnék mozaikját védi. A delta létfontosságú a helyi halászat, a mezőgazdaság számára, és többszázezer költözőmadár pihenőhelye.",
+      ro: "Delta Senegalului, aflată la granița dintre Mauritania și Senegal, este o zonă umedă întinsă de importanță globală. Include Parcul Național Diawling de partea mauritană, care protejează un mozaic de lacuri, mlaștini și dune. Delta este vitală pentru pescuitul local, agricultură și ca loc de popas pentru sute de mii de păsări migratoare.",
+      en: "The Senegal Delta on the border between Mauritania and Senegal is an extensive wetland of global importance. It includes the Diawling National Park on the Mauritanian side, protecting a mosaic of lakes, marshes, and dunes. The delta is vital for local fishing and agriculture, as well as serving as a resting point for hundreds of thousands of migratory birds.",
+    },
+    factsAdvanced: {
+      de: ["Heimat des Diawling-Nationalparks (16.000 ha)", "Gegründet im Jahr 1991 zum Schutz des Deltas", "Über 220 verschiedene Vogelarten nachgewiesen", "Wichtiges Brutgebiet für Pelikane und Flamingos", "Grenzt direkt an den Senegal-Fluss", "Eingetragen als Ramsar-Feuchtgebiet"],
+      hu: ["A 16 000 hektáros Diawling Nemzeti Park otthona", "1991-ben alapították a delta védelmére", "Több mint 220 különböző madárfajt figyeltek meg", "Pelikánok és flamingók fontos költőhelye", "Közvetlenül határos a Szenegál-folyóval", "Ramsari vizes élőhelyként van nyilvántartva"],
+      ro: ["Găzduiește Parcul Național Diawling (16.000 ha)", "Fondat în 1991 pentru protecția deltei", "Peste 220 de specii de păsări identificate", "Zonă de cuibărit pentru pelicani și flamingo", "Se învecinează direct cu fluviul Senegal", "Înregistrată ca zonă umedă de tip Ramsar"],
+      en: ["Home to Diawling National Park (16,000 ha)", "Founded in 1991 to protect the delta", "Over 220 different bird species recorded", "Important breeding ground for pelicans and flamingos", "Borders directly on the Senegal River", "Listed as a Ramsar wetland site"],
+    },
   },
   {
     id: "mauritania-oase-tichitt-life-v2",
@@ -684,6 +732,18 @@ export const mauritaniaLifeV2: POI[] = [
       en: ["Archaeological site", "Oasis agriculture", "Tagant plateau", "Isolated location"],
     },
     imageHint: "Tichitt oasis palm grove",
+    descriptionAdvanced: {
+      de: "Tichitt ist eine historische Oasenstadt am Fuße des Tagant-Plateaus und zählt zum UNESCO-Welterbe. Die Siedlung ist für ihre einzigartige Architektur aus farbigem Stein und ihre Rolle als ehemaliges Handelszentrum an der Trans-Sahara-Route bekannt. Die Oase ist heute vor allem für den Dattelanbau und die Gewinnung von Salz aus den umliegenden Senken bedeutend.",
+      hu: "Tichitt egy történelmi oázisváros a Tagant-fennsík lábánál, amely az UNESCO Világörökség része. A település színes kőből készült egyedi építészetéről és az egykori transz-szaharai kereskedelmi útvonalon betöltött központi szerepéről ismert. Az oázis ma főként datolyatermesztéséről és a környező mélyedésekből nyert sóról nevezetes.",
+      ro: "Tichitt este un oraș-oază istoric situat la poalele platoului Tagant și face parte din Patrimoniul Mondial UNESCO. Așezarea este cunoscută pentru arhitectura sa unică din piatră colorată și rolul său de fost centru comercial pe ruta trans-sahariană. Astăzi, oaza este importantă pentru cultivarea curmalelor și extracția sării.",
+      en: "Tichitt is a historical oasis town at the foot of the Tagant Plateau and is a UNESCO World Heritage site. The settlement is known for its unique colored stone architecture and its role as a former trading hub on the trans-Saharan route. Today, the oasis is primarily significant for date cultivation and salt extraction from the surrounding depressions.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 12. Jahrhundert (um 1150)", "UNESCO-Welterbe seit dem Jahr 1996", "Berühmt für Häuser aus grünem und rotem Stein", "Einstiges Zentrum für islamische Gelehrsamkeit", "Liegt am Rand einer riesigen Salzpfanne", "Beherbergt wertvolle antike Manuskripte"],
+      hu: ["A 12. században, 1150 körül alapították", "1996 óta az UNESCO Világörökség része", "Zöld és vörös kőből épült házairól híres", "Egykor az iszlám tudományok központja volt", "Egy hatalmas sós síkság szélén fekszik", "Értékes antik kéziratokat őriznek itt"],
+      ro: ["Fondat în secolul al XII-lea (circa 1150)", "Patrimoniu Mondial UNESCO din anul 1996", "Faimos pentru casele din piatră verde și roșie", "Fost centru de erudiție islamică", "Situat la marginea unei depresiuni saline vaste", "Găzduiește manuscrise antice valoroase"],
+      en: ["Founded in the 12th century (around 1150)", "UNESCO World Heritage site since 1996", "Famous for houses built of green and red stone", "Former center for Islamic scholarship", "Located at the edge of a massive salt pan", "Home to valuable ancient manuscripts"],
+    },
   },
   {
     id: "mauritania-oase-vallen-life-v2",
@@ -703,6 +763,18 @@ export const mauritaniaLifeV2: POI[] = [
       en: ["Adrar", "Local supply", "Shade oasis", "Desert fertility"],
     },
     imageHint: "Vallen oasis desert landscape",
+    descriptionAdvanced: {
+      de: "Die Vallen-Oase ist Teil der weitläufigen Täler der Adrar-Region, in denen saisonale Wasserläufe die Landwirtschaft ermöglichen. Diese Oasen sind lebenswichtige Rückzugsorte in der Sahara und zeichnen sich durch den Anbau von Getreide und Gemüse unter dem Schutz der Dattelpalmen aus. Sie spiegeln die Anpassungsfähigkeit der lokalen Bevölkerung an die extremen Wüstenbedingungen wider.",
+      hu: "A Vallen-oázis az Adrar-régió kiterjedt völgyeinek része, ahol az időszakos vízfolyások lehetővé teszik a mezőgazdaságot. Ezek az oázisok létfontosságú menedékhelyek a Szaharában, ahol a datolyapálmák árnyékában gabonát és zöldségeket termesztenek. A helyi lakosság szélsőséges sivatagi körülményekhez való alkalmazkodóképességét tükrözik.",
+      ro: "Oaza Vallen face parte din văile extinse ale regiunii Adrar, unde cursurile de apă sezoniere permit practicarea agriculturii. Aceste oaze sunt refugii vitale în Sahara și se caracterizează prin cultivarea cerealelor și legumelor sub protecția curmalilor. Ele reflectă capacitatea de adaptare a populației locale la condițiile deșertice extreme.",
+      en: "Vallen Oasis is part of the extensive valleys in the Adrar region where seasonal watercourses enable agriculture. These oases are vital sanctuaries in the Sahara, characterized by the cultivation of grains and vegetables under the shade of date palms. They reflect the adaptability of the local population to extreme desert conditions.",
+    },
+    factsAdvanced: {
+      de: ["Teil des Adrar-Hochland-Ökosystems", "Nutzt Regenwasser-Rückhaltung in Wadis", "Anbau von Sorghum und Mais möglich", "Wichtiger Treffpunkt für nomadische Stämme", "Vegetation wird durch Grundwasser gespeist", "Traditionelle Lehmbauweise der Siedlungen"],
+      hu: ["Az Adrar-felföld ökoszisztémájának része", "A vádikban visszatartott esővizet hasznosítják", "Cirok és kukorica termesztése is lehetséges", "Nomád törzsek fontos találkozóhelye", "A növényzetet a talajvíz táplálja", "Hagyományos vályogépítészet jellemzi"],
+      ro: ["Parte a ecosistemului podișului Adrar", "Utilizează reținerea apei de ploaie în ueduri", "Cultivarea sorgului și porumbului este posibilă", "Loc important de întâlnire pentru triburile nomade", "Vegetația este alimentată de pânza freatică", "Arhitectură tradițională din chirpici"],
+      en: ["Part of the Adrar highland ecosystem", "Uses rainwater retention in wadis", "Cultivation of sorghum and maize is possible", "Important meeting point for nomadic tribes", "Vegetation is fed by groundwater", "Traditional mud-brick architecture in settlements"],
+    },
   },
   {
     id: "mauritania-oase-aoulef-life-v2",
@@ -722,6 +794,18 @@ export const mauritaniaLifeV2: POI[] = [
       en: ["Tagant area", "Desert cultivation", "Oasis lifestyle", "Fertile island"],
     },
     imageHint: "Aoulef oasis green vegetation",
+    descriptionAdvanced: {
+      de: "Aoulef ist eine bedeutende Oasensiedlung in der zentralsaharischen Zone, die für ihr ausgeklügeltes Foggara-Bewässerungssystem bekannt ist. Diese unterirdischen Kanäle leiten Wasser über weite Strecken zu den Palmenhainen und Gärten. Die Oase ist ein Beispiel für die jahrhundertealte Ingenieurskunst, die das Überleben in einer der trockensten Regionen der Erde sichert.",
+      hu: "Aoulef a közép-szaharai zóna egyik jelentős oázistelepülése, amely kifinomult foggara-öntözőrendszeréről ismert. Ezek a földalatti csatornák nagy távolságokból vezetik a vizet a pálmaligetekhez és kertekhez. Az oázis az évszázados mérnöki tudás példája, amely biztosítja a túlélést a Föld egyik legszárazabb régiójában.",
+      ro: "Aoulef este o așezare-oază importantă din zona Saharei centrale, cunoscută pentru sistemul său ingenios de irigare numit foggara. Aceste canale subterane transportă apa pe distanțe mari către plantațiile de palmiere și grădini. Oaza este un exemplu de inginerie seculară care asigură supraviețuirea în una dintre cele mai aride regiuni ale lumii.",
+      en: "Aoulef is a significant oasis settlement in the central Saharan zone, known for its sophisticated foggara irrigation system. These underground channels transport water over long distances to palm groves and gardens. The oasis is an example of centuries-old engineering that ensures survival in one of the driest regions on Earth.",
+    },
+    factsAdvanced: {
+      de: ["Bekannt für das Foggara-Kanalsystem", "Dattelpalmen bilden das schützende Dach", "Anbau von Weizen und Gerste im Winter", "Wichtiger Knotenpunkt für Karawanenrouten", "Siedlung aus sonnengetrockneten Ziegeln", "Extrem heiße Sommertemperaturen über 45°C"],
+      hu: ["A foggara csatornarendszerről nevezetes", "A datolyapálmák védelmező lombkoronát alkotnak", "Búza és árpa termesztése téli időszakban", "Karavánutak egykori fontos csomópontja", "Napon szárított téglákból épült település", "Extrém nyári hőség, 45°C feletti hőmérséklettel"],
+      ro: ["Cunoscută pentru sistemul de canale foggara", "Curmalii formează un coronament protector", "Cultivarea grâului și orzului în timpul iernii", "Nod important pentru rutele caravanelor", "Așezare construită din cărămizi uscate la soare", "Temperaturi extreme vara, de peste 45°C"],
+      en: ["Famous for the foggara canal system", "Date palms provide a protective canopy", "Cultivation of wheat and barley in winter", "Important junction for caravan routes", "Settlement built with sun-dried bricks", "Extremely hot summer temperatures over 45°C"],
+    },
   },
   {
     id: "mauritania-guelta-de-la-kedia-life-v2",
@@ -741,5 +825,17 @@ export const mauritaniaLifeV2: POI[] = [
       en: ["Kedia d'Idjil", "Mountain ecology", "Temporary water", "Wildlife watering hole"],
     },
     imageHint: "Kedia mountains rocky scenery",
+    descriptionAdvanced: {
+      de: "Die Guelta der Kedia d'Idjil ist eine seltene Wasserstelle im höchsten Gebirgsmassiv Mauretaniens. Diese natürlichen Felsbecken sammeln Regenwasser und sind für das Überleben der Tierwelt und der nomadischen Hirten in der ansonsten wasserlosen Wüste unerlässlich. Die Umgebung ist durch das dunkle, eisenhaltige Gestein des Gebirges geprägt.",
+      hu: "A Kedia d'Idjil-guelta egy ritka víznyerőhely Mauritánia legmagasabb hegymasszívumában. Ezek a természetes sziklamedencék összegyűjtik az esővizet, és elengedhetetlenek a vadvilág, valamint a nomád pásztorok túléléséhez az egyébként víztelen sivatagban. A környezetet a hegység sötét, vastartalmú kőzetei jellemzik.",
+      ro: "Guelta de la Kedia d'Idjil este un punct de apă rar în cel mai înalt masiv muntos din Mauritania. Aceste bazine naturale în stâncă colectează apa de ploaie și sunt esențiale pentru supraviețuirea faunei și a păstorilor nomazi în deșertul altfel lipsit de apă. Împrejurimile sunt marcate de rocile feroroase închise la culoare.",
+      en: "The Guelta of Kedia d'Idjil is a rare watering hole in Mauritania's highest mountain massif. These natural rock pools collect rainwater and are essential for the survival of wildlife and nomadic herders in the otherwise waterless desert. The surroundings are characterized by the dark, iron-rich rock of the mountain range.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen am Gebirge Kedia d'Idjil (915 m)", "Höchster Punkt in ganz Mauretanien", "Eisenhaltiges Gestein beeinflusst Magnetnadeln", "Saisonale Wasserquelle nach Regenfällen", "Lebensraum für Wüstenkrokodile (historisch)", "Wichtiger Rastplatz für Zugvögel"],
+      hu: ["A Kedia d'Idjil-hegységben található (915 m)", "Egész Mauritánia legmagasabb pontja", "A vastartalmú kőzet zavarja az iránytűket", "Időszakos vízforrás esőzések után", "Sivatagi krokodilok egykori élőhelye", "Költözőmadarak fontos pihenőhelye"],
+      ro: ["Situată în masivul Kedia d'Idjil (915 m)", "Cel mai înalt punct din toată Mauritania", "Roca feroasă influențează acele magnetice", "Sursă de apă sezonieră după ploi", "Habitat istoric pentru crocodilii de deșert", "Loc de popas important pentru păsări"],
+      en: ["Located at Kedia d'Idjil mountain (915 m)", "Highest point in all of Mauritania", "Iron-rich rock affects magnetic needles", "Seasonal water source after rainfalls", "Historical habitat for desert crocodiles", "Important rest stop for migratory birds"],
+    },
   }
 ];

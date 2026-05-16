@@ -88,48 +88,18 @@ export const poiExtraBulgariaHistory: POI[] = [
       en: ["Status: UNESCO World Heritage site since 1979", "Age: Frescoes from 1259", "Significance: Precursor to Renaissance art", "Location: At the foot of Vitosha Mountain", "Highlight: Portraits of Kaloyan and Desislava", "Architecture: Three construction phases (11th, 13th, and 19th centuries)"]
     },
     factsAdvanced: {
-      de: [
-        "Die Kirche von Bojana zeigt 240 menschliche Figuren in 89 verschiedenen biblischen Szenen.",
-        "Die Fresken von 1259 stammen von einem anonymen Meister, der heute als \\\\\\\"Bojana-Meister\\\\\\\" bezeichnet wird.",
-        "Die Kirche wurde in drei Bauphasen errichtet: 11. Jahrhundert, Mitte 13. Jahrhundert und Mitte 19. Jahrhundert.",
-        "Das Bild des heiligen Nikolaus gilt als eine der frühesten realistischen Darstellungen in der orthodoxen Kunst.",
-        "Das Porträt der Zarin Irina wird wegen seiner außergewöhnlichen Schönheit und der detaillierten mittelalterlichen Gewänder gelobt.",
-        "Anfang des 20. Jahrhunderts sollte die Kirche zugunsten eines größeren Gotteshauses abgerissen werden, wurde aber durch Königin Eleonore von Bulgarien gerettet.",
-        "Die etwa 1 Meter dicken Mauern halten die Temperatur konstant und schützen die Fresken.",
-        "Die Fresken wurden in einer der \\\\\\\"Fresco buono\\\\\\\" ähnlichen Technik auf feuchten Putz aufgetragen."
-      ],
-      hu: [
-        "A Bojana-templomban 240 emberi alak látható 89 különbözo bibliai jelenetben.",
-        "Az 1259-es freskókat egy ismeretlen mester készítette, akit ma \\\\\\\"Bojana-mesternek\\\\\\\" neveznek.",
-        "A templomot három szakaszban építették: a 11. században, a 13. század közepén és a 19. század közepén.",
-        "A templom Szent Miklós-ábrázolása az ortodox muvészet egyik legkorábbi realisztikus alkotásának számít.",
-        "Irina cárné portréját kivételes szépségéért és a középkori öltözékek aprólékos megjelenítéséért dicsérik.",
-        "A 20. század elején majdnem lebontották egy nagyobb templom javára, de Eleonóra bolgár királyné mentette meg.",
-        "A mintegy 1 méter vastag falak állandó homérsékletet biztosítanak, segítve a freskók megorzését.",
-        "A freskókat a \\\\\\\"fresco buono\\\\\\\"-hoz hasonló technikával, nedves vakolatra festették."
-      ],
-      ro: [
-        "Biserica Boiana cuprinde 240 de figuri umane în 89 de scene biblice distincte.",
-        "Frescele din 1259 au fost realizate de un maestru anonim, cunoscut astazi drept \\\\\\\"Maestrul de la Boiana\\\\\\\".",
-        "Biserica a fost extinsa în trei etape: în secolul al XI-lea, la mijlocul secolului al XIII-lea ?i la mijlocul secolului al XIX-lea.",
-        "Imaginea Sfântului Nicolae din biserica este considerata una dintre cele mai vechi reprezentari realiste din arta ortodoxa.",
-        "Portretul ?arinei Irina este laudat pentru frumuse?ea sa excepționala ?i pentru detaliile ve?mintelor medievale.",
-        "La începutul secolului XX, biserica era sa fie demolata pentru a face loc unui laca? mai mare, dar a fost salvata de regina Eleonora a Bulgariei.",
-        "Pere?ii bisericii au aproximativ 1 metru grosime, ceea ce a ajutat la menținerea unei temperaturi constante ?i la conservarea frescelor.",
-        "Frescele sunt realizate într-o tehnica asemanatoare cu \\\\\\\"fresco buono\\\\\\\", prin care vopseaua este aplicata pe tencuiala umeda."
-      ],
-      en: [
-        "The Boyana Church contains 240 human images across 89 distinct biblical scenes.",
-        "The frescoes from 1259 were painted by an anonymous master, now referred to as the 'Boyana Master'.",
-        "The church was expanded in three stages: the 11th century, the mid-13th century, and the mid-19th century.",
-        "The image of Saint Nicholas in the church is considered one of the earliest realistic portrayals in Orthodox art.",
-        "Tsaritsa Irina's portrait is often praised for its exceptional beauty and detailed medieval garment representation.",
-        "The church was nearly demolished in the early 20th century to build a larger parish church, but was saved by Queen Eleonore of Bulgaria.",
-        "The walls of the church are about 1 meter thick, which helped preserve the frescoes' constant temperature.",
-        "The frescoes are applied using a technique similar to 'fresco buono,' where paint is applied to wet plaster."
-      ]
+      de: ["Die berühmtesten Fresken der Kirche wurden im Jahr 1259 vollendet.", "Seit 1979 steht das Bauwerk auf der Liste des UNESCO-Weltkulturerbes.", "Der 'Meister von Bojana' schuf insgesamt 89 Szenen mit 240 Figuren.", "Die älteste Sektion der Kirche stammt bereits aus dem späten 10. Jahrhundert.", "Kalojan und Desslislawa sind als Stifter in lebensgroßen Porträts dargestellt.", "Die Kirche wurde aus Ziegeln und Stein im Kreuzkuppelstil errichtet."],
+      hu: ["A templom leghíresebb freskói 1259-ben készültek el Kalojan megbízásából.", "1979 óta szerepel az UNESCO Világörökségi listáján az épület.", "A 'bojanai mester' összesen 89 jelenetet festett meg, 240 egyedi alakkal.", "A templom legkorábbi részei a 10. század végéről vagy a 11. század elejéről valók.", "Desziszlava portréját a középkori női ábrázolás egyik legszebb példájának tartják.", "A belső tér hőmérsékletét állandó 17-18 fokon tartják a védelem érdekében."],
+      ro: ["Frescele celebre ale bisericii au fost finalizate în anul 1259.", "Monumentul a fost inclus pe lista Patrimoniului Mondial UNESCO în 1979.", "Maestrul de la Boiana a pictat 89 de scene cu un total de 240 de figuri.", "Cea mai veche parte a bisericii datează de la sfârșitul secolului al X-lea.", "Portretul Desislavei este considerat o capodoperă a portretisticii medievale.", "Accesul turiștilor este limitat la 10-15 minute pentru menținerea microclimatului."],
+      en: ["The most famous frescoes in the church were completed in 1259.", "The site was inscribed on the UNESCO World Heritage List in 1979.", "The 'Boyana Master' created a total of 89 scenes featuring 240 figures.", "The oldest part of the church dates back to the late 10th or early 11th century.", "The portrait of Desislava is hailed as a masterpiece of medieval female imagery.", "Strict air conditioning keeps the interior at 17-18°C to protect the paint."],
     },
-    image: "/geo-images/bulgaria/cult-boyana.webp"
+    image: "/geo-images/bulgaria/cult-boyana.webp",
+    descriptionAdvanced: {
+      de: "Die Kirche von Bojana am Stadtrand von Sofia ist eines der bedeutendsten Denkmäler mittelalterlicher Kunst in Osteuropa und seit 1979 UNESCO-Weltkulturerbe. Das Bauwerk besteht aus drei Teilen, die im 11., 13. und 19. Jahrhundert errichtet wurden. Weltberühmt ist die Kirche jedoch für ihre Fresken aus dem Jahr 1259, die unter der Herrschaft von Sebastokrator Kalojan entstanden sind. Diese Wandmalereien zeichnen sich durch einen bemerkenswerten Realismus und eine psychologische Tiefe aus, die ihrer Zeit weit voraus waren und als Vorläufer der Renaissance gelten. Die Porträts von Kalojan und seiner Gemahlin Dessislawa sowie von Zar Konstantin Tich und Zarin Irene gehören zu den kostbarsten Schätzen der orthodoxen Malerei. Der unbekannte Künstler, oft als \"Meister von Bojana\" bezeichnet, schuf über 240 Figuren in einer harmonischen Komposition. Die Kirche ist heute ein Museum und unterliegt strengen klimatischen Kontrollen zum Schutz der fragilen Farbpigmente. Ein Besuch bietet einen tiefen Einblick in die spirituelle und künstlerische Blütezeit des Zweiten Bulgarischen Reiches.",
+      hu: "A Szófia szélén található Bojanai-templom Kelet-Európa egyik legfontosabb középkori művészeti emléke, amely 1979 óta az UNESCO Világörökség része. Az építmény három szakaszban készült, a 11., a 13. és a 19. században emelték egyes részeit. A templom világhírnevét az 1259-ből származó freskóinak köszönheti, amelyek Kalojan szevasztokrátor megbízásából készültek. Ezek a falfestmények rendkívüli realizmusukkal és pszichológiai mélységükkel tűnnek ki, messze megelőzve korukat, és sokan a reneszánsz előfutárának tekintik őket. Kalojan és hitvese, Desziszlava, valamint Konstantin Tih cár és Irén cárné portréi az ortodox festészet legértékesebb kincsei közé tartoznak. Az ismeretlen művész, akit gyakran a \"bojanai mester\" néven emlegetnek, több mint 240 alakot festett meg harmonikus egységben. A templom ma múzeumként működik, ahol szigorú klímavédelmi szabályok óvják a törékeny festékrétegeket a pusztulástól. A látogatás mély betekintést nyújt a Második Bolgár Birodalom spirituális és művészeti virágkorába.",
+      ro: "Biserica Boiana, situată la periferia Sofiei, este unul dintre cele mai importante monumente de artă medievală din Europa de Est, fiind inclusă în patrimoniul UNESCO din 1979. Structura este formată din trei secțiuni edificate succesiv în secolele XI, XIII și XIX. Renumele mondial al bisericii se datorează frescelor sale excepționale din anul 1259, pictate sub patronajul sevastocratorului Kaloyan. Aceste picturi murale se disting printr-un realism remarcabil și o profunzime psihologică surprinzătoare pentru acea epocă, fiind adesea considerate precursoare ale stilului Renașterii. Portretele donatorilor Kaloyan și Desislava, precum și cele ale țarului Constantin Tih și ale țarinei Irina, reprezintă culmi ale picturii ortodoxe medievale. Artistul anonim, cunoscut sub numele de \"Maestrul de la Boiana\", a creat peste 240 de figuri într-o compoziție cromatică armonioasă. Astăzi, biserica funcționează ca muzeu și beneficiază de controale climatice stricte pentru protejarea pigmenților fragili. O vizită aici oferă o perspectivă unică asupra apogeului cultural și spiritual al celui de-al Doilea Imperiu Bulgar.",
+      en: "The Boyana Church, located on the outskirts of Sofia, is one of the most significant monuments of medieval art in Eastern Europe and has been a UNESCO World Heritage site since 1979. The building consists of three distinct parts constructed during the 11th, 13th, and 19th centuries. The church gained worldwide fame for its extraordinary frescoes dating back to 1259, commissioned by Sebastocrator Kaloyan. These murals are characterized by a remarkable realism and psychological depth that were far ahead of their time, leading many art historians to view them as precursors to the Renaissance style. The portraits of Kaloyan and his wife Desislava, as well as Tsar Constantine Tikh and Tsaritsa Irene, are among the most precious treasures of Orthodox painting. The unknown artist, often referred to as the \"Boyana Master,\" depicted over 240 figures in a harmonious and vibrant composition. Today, the church operates as a museum with strict climate controls to preserve the fragile color pigments from degradation. A visit provides a deep insight into the spiritual and artistic zenith of the Second Bulgarian Empire.",
+    },
   },
   {
     id: "cult-nessebar",
@@ -223,48 +193,18 @@ export const poiExtraBulgariaHistory: POI[] = [
       en: ["Status: UNESCO World Heritage site since 1979", "Age: Late 4th century BCE", "Significance: Masterpiece of Thracian art", "Location: In the Rose Valley near Kazanlak", "Highlight: Frescoes of the funeral feast", "Culture: Insight into Thracian rituals"]
     },
     factsAdvanced: {
-      de: [
-        "Das Grabmal wurde 1944 zufällig von Soldaten beim Ausheben eines Schützengrabens entdeckt.",
-        "Die Fresken sind weltweit die einzigen vollständig erhaltenen Beispiele hellenistischer Malerei.",
-        "Die Hauptgrabkammer hat einen Durchmesser von nur 2,65 m und eine Höhe von 3,25 m.",
-        "Zum Schutz der Originalfresken ist das Grab für die Öffentlichkeit gesperrt; direkt daneben steht ein originalgetreuer Nachbau.",
-        "Das Kuppelgemälde zeigt 12 Streitwagen und zahlreiche Pferde in einer dynamischen Rennszene.",
-        "Das Grab gehörte einem thrakischen Herrscher, möglicherweise Roigos, der im späten 4. oder frühen 3. Jahrhundert v. Chr. regierte.",
-        "Das Grabmal von Kasanlak war das erste bulgarische Denkmal, das in die UNESCO-Welterbeliste aufgenommen wurde.",
-        "Im Tal der thrakischen Könige, in dem sich das Grab befindet, liegen über 1.500 Grabhügel."
-      ],
-      hu: [
-        "A sírkamrát 1944-ben véletlenül fedezték fel katonák, akik lövészárkot ástak.",
-        "A freskók a hellenisztikus festészet egyetlen teljesen megorzött példái a világon.",
-        "A fokamra átméroje mindössze 2,65 méter, magassága 3,25 méter.",
-        "Az eredeti freskók védelme érdekében a sírkamra zárva van a látogatók elol, de közvetlenül mellette egy hiteles, méretarányos másolat áll.",
-        "A kupolafreskó 12 harci szekeret és számos lovat ábrázol egy dinamikus versenyjelenetben.",
-        "A sír egy trák uralkodóé lehetett, talán Roigosé, aki a Krisztus elotti 4. század végén vagy a 3. század elején uralkodott.",
-        "A Kazanlaki sírkamra volt az elso bolgár emlék, amely felkerült az UNESCO világörökségi listájára.",
-        "A trák királyok völgyében – ahol a sír található – több mint 1500 halomsír található."
-      ],
-      ro: [
-        "Mormântul a fost descoperit întâmplator în 1944 de soldați care sapau o tran?ee.",
-        "Frescele sunt singurele exemple complet conservate de pictura elenistica din întreaga lume.",
-        "Camera principala a mormântului are un diametru de doar 2,65 m ?i o înal?ime de 3,25 m.",
-        "Pentru a proteja frescele originale, mormântul este închis publicului, dar lânga el se afla o replica fidela, la scara reala.",
-        "Pictura din cupola înfați?eaza 12 care de lupta ?i numeroși cai într-o scena dinamica de cursa.",
-        "Mormântul a apar?inut unui conducator trac, posibil Roigos, care a domnit la sfâr?itul secolului al IV-lea sau la începutul secolului al III-lea î.Hr.",
-        "Mormântul de la Kazanlak a fost primul monument bulgar inclus pe lista Patrimoniului Mondial UNESCO.",
-        "Valea Regilor Traci, unde se afla mormântul, cuprinde peste 1.500 de tumuli funerari."
-      ],
-      en: [
-        "The tomb was discovered by accident in 1944 by soldiers digging a trench.",
-        "The frescoes are the only fully preserved examples of Hellenistic painting in the entire world.",
-        "The main burial chamber has a diameter of only 2.65 meters and a height of 3.25 meters.",
-        "To protect the original frescoes, the tomb is closed to the public, but a full-scale exact replica stands right next to it.",
-        "The mural in the dome features 12 chariots and numerous horses in a highly dynamic racing scene.",
-        "The tomb belonged to a Thracian ruler, possibly Roigos, who ruled in the late 4th or early 3rd century BCE.",
-        "The Kazanlak Tomb was the first Bulgarian monument to be included in the UNESCO World Heritage list.",
-        "The Valley of the Thracian Kings, where the tomb is located, contains over 1,500 burial mounds."
-      ]
+      de: ["Das Grabmal wurde zufällig im Jahr 1944 bei Ausgrabungsarbeiten entdeckt.", "Es stammt aus dem späten 4. oder frühen 3. Jahrhundert vor Christus.", "Die Kuppelmalereien zeigen ein thrakisches Paar beim rituellen Festmahl.", "Kasanlak war die erste bulgarische Stätte auf der UNESCO-Liste (1979).", "Die Originalfarben bestehen aus mineralischen Pigmenten und Bindemitteln.", "Das Grab ist Teil einer größeren Gruppe von thrakischen Hügelgräbern."],
+      hu: ["A síremléket véletlenül fedezték fel 1944-ben katonai sáncépítés közben.", "Az i. e. 4. század végén vagy az i. e. 3. század elején épült.", "A kupolafestmények egy thrak uralkodópár rituális lakomáját ábrázolják.", "Ez volt Bulgária első UNESCO Világörökségi helyszíne 1979-ben.", "A látogatók az eredeti sírbolt mellé épített hű másolatot tekinthetik meg.", "A festmények a hellenisztikus kori művészet egyik legépségben maradt példái."],
+      ro: ["Mormântul a fost descoperit accidental în 1944 în timpul unor lucrări militare.", "Construcția datează de la sfârșitul secolului al IV-lea î.Hr.", "Picturile din cupolă ilustrează un ospăț funerar al nobilimii trace.", "Este primul monument din Bulgaria înscris în patrimoniul UNESCO (1979).", "Frescele originale sunt realizate prin tehnica tempera pe tencuială uscată.", "Mormântul se află în centrul regiunii cunoscute ca Valea Regilor Traci."],
+      en: ["The tomb was discovered by accident in 1944 during military construction.", "It dates back to the late 4th century or early 3rd century BC.", "The dome frescoes depict a ritual funeral feast of a Thracian couple.", "Kazanlak was the first Bulgarian site on the UNESCO list in 1979.", "Visitors enter an exact replica to preserve the fragile original murals.", "The paintings are among the best-preserved examples of Hellenistic art."],
     },
-    image: "/geo-images/bulgaria/cult-kazanlak.webp"
+    image: "/geo-images/bulgaria/cult-kazanlak.webp",
+    descriptionAdvanced: {
+      de: "Das thrakische Grabmal von Kasanlak ist ein herausragendes Zeugnis der antiken Kultur und das erste bulgarische Denkmal, das 1979 in die UNESCO-Welterbeliste aufgenommen wurde. Die Grabstätte stammt aus dem späten 4. Jahrhundert v. Chr. und war Teil einer großen Nekropole in der Nähe der thrakischen Hauptstadt Seuthopolis. Das Grab besteht aus einem schmalen Korridor und einer runden Grabkammer mit einer prächtigen Kuppel. Weltweit einzigartig sind die Wandmalereien im Inneren, die eine thrakische Bestattungszeremonie und Wagenrennen in einer für die hellenistische Zeit ungewöhnlichen Farbigkeit darstellen. Im Zentrum steht ein thrakisches Fürstenpaar, das sich in einer feierlichen Geste die Hände reicht, umgeben von Dienern und Musikanten. Die Malereien geben wertvolle Aufschlüsse über die Kleidung, die Bewaffnung und die Bestattungsriten der thrakischen Oberschicht. Um das Original vor dem Zerfall zu schützen, ist Besuchern nur der Zutritt zu einer exakten Kopie gestattet, die sich unmittelbar neben dem antiken Bauwerk befindet. Das Grabmal ist das bekannteste Symbol des sogenannten Tals der thrakischen Könige.",
+      hu: "A kazanlaki thrak síremlék az ókori kultúra kiemelkedő emléke, és az első bolgár helyszín volt, amely 1979-ben felkerült az UNESCO Világörökségi listájára. A sírbolt az i. e. 4. század végéről származik, és egy kiterjedt nekropolisz része volt a thrak főváros, Szeuthopolisz közelében. Az építmény egy szűk folyosóból és egy kerek sírkamrából áll, amelyet elegáns kupola fed le. Világhírnevét a belső falfestményeinek köszönheti, amelyek egy thrak temetési szertartást és kocsiversenyeket ábrázolnak a hellenisztikus korra jellemző kifinomult stílusban. A központi jelenetben egy thrak uralkodópár látható, amint ünnepélyesen kezet fognak egymással, szolgák és zenészek gyűrűjében. A festmények felbecsülhetetlen információkkal szolgálnak a thrak előkelőségek viseletéről, fegyverzetéről és túlvilági hiedelmeiről. Az eredeti sírbolt állagának megóvása érdekében a látogatók csak az annak közvetlen szomszédságában felépített hajszálpontos másolatot tekinthetik meg. A síremlék a \"Thrak Királyok Völgye\" néven ismert régió legismertebb szimbóluma.",
+      ro: "Mormântul trac de la Kazanlâk este o mărturie excepțională a culturii antice și primul monument bulgar inclus în patrimoniul mondial UNESCO, în anul 1979. Datând de la sfârșitul secolului al IV-lea î.Hr., mormântul făcea parte dintr-o vastă necropolă situată în apropierea capitalei trace Seuthopolis. Structura cuprinde un coridor îngust și o cameră funerară circulară acoperită de o cupolă magistral construită. Unicitatea sa mondială rezidă în picturile murale interioare, care înfățișează o ceremonie funerară tracă și curse de care într-un stil artistic elenistic de mare finețe. Scena centrală prezintă un cuplu princiar trac prinzându-se de mâini într-un gest simbolic de rămas-bun, înconjurat de servitori și muzicieni. Aceste fresce oferă date prețioase despre vestimentația, armamentul și ritualurile funerare ale aristocrației trace. Pentru a proteja originalul de degradare, vizitatorii au acces doar la o replică exactă, situată imediat lângă construcția antică. Mormântul este cel mai cunoscut simbol al regiunii denumite Valea Regilor Traci.",
+      en: "The Thracian Tomb of Kazanlak is an outstanding testament to ancient Thracian culture and was the first Bulgarian site to be inscribed on the UNESCO World Heritage List in 1979. Dating back to the late 4th century BC, the tomb was part of a large necropolis located near Seuthopolis, the capital of the Thracian ruler Seuthes III. The structure consists of a narrow corridor and a circular burial chamber capped with a magnificent dome. Its worldwide significance lies in its interior frescoes, which depict a Thracian funeral feast and chariot races in an artistic style unique to the Hellenistic period. The central scene portrays a Thracian noble couple holding hands in a solemn gesture of farewell, surrounded by attendants and musicians. These paintings provide invaluable insights into the clothing, weaponry, and burial rites of the Thracian elite. To preserve the original from environmental damage, visitors are only permitted to enter an exact full-scale replica located directly adjacent to the ancient site. The tomb remains the most famous symbol of the so-called Valley of the Thracian Kings.",
+    },
   },
   {
     id: "cult-madara",

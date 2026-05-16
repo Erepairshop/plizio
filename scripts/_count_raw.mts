@@ -1,0 +1,15 @@
+import _v2_0 from "../lib/visualLab/data/_all_v2_pois_00.json";
+import _v2_1 from "../lib/visualLab/data/_all_v2_pois_01.json";
+import _v2_2 from "../lib/visualLab/data/_all_v2_pois_02.json";
+import _v2_3 from "../lib/visualLab/data/_all_v2_pois_03.json";
+import _v2_4 from "../lib/visualLab/data/_all_v2_pois_04.json";
+import _v2_5 from "../lib/visualLab/data/_all_v2_pois_05.json";
+import _v2_6 from "../lib/visualLab/data/_all_v2_pois_06.json";
+import _v2_7 from "../lib/visualLab/data/_all_v2_pois_07.json";
+const v2: any[] = [..._v2_0,..._v2_1,..._v2_2,..._v2_3,..._v2_4,..._v2_5,..._v2_6,..._v2_7];
+console.log('V2 raw:', v2.length);
+const ids = new Set(v2.map(p=>p?.id).filter(Boolean));
+console.log('V2 unique IDs:', ids.size);
+import * as _ns from "../lib/seo/slugs";
+const s: any = (_ns as any).default ?? _ns;
+console.log('After all dedup (pois):', s.pois.length);

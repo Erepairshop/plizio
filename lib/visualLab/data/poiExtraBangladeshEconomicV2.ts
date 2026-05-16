@@ -856,6 +856,18 @@ export const bangladeshEconomicV2: POI[] = [
       en: ["Inaugurated in the year 1961", "Uses local natural gas as raw material", "Located in the Sylhet district", "Complemented by a modern new plant"],
     },
     imageHint: "Large chemical industrial complex",
+    descriptionAdvanced: {
+      de: "Die Düngemittelfabrik in Fenchuganj war die erste Industrieanlage ihrer Art in Bangladesch und markierte einen Meilenstein in der wirtschaftlichen Entwicklung des Landes. Sie liegt am Ufer des Flusses Kushiyara im Distrikt Sylhet und nutzt die lokalen Erdgasvorkommen zur Produktion von Harnstoff. Die Anlage spielte eine entscheidende Rolle bei der Steigerung der landwirtschaftlichen Erträge während der Grünen Revolution.",
+      hu: "A fenchuganji műtrágyagyár volt az első ilyen jellegű ipari létesítmény Bangladesben, amely mérföldkövet jelentett az ország gazdasági fejlődésében. A Sylhet körzetben, a Kushiyara-folyó partján található üzem a helyi földgázkészleteket használja fel karbamid előállítására. A gyár döntő szerepet játszott a mezőgazdasági hozamok növelésében a zöld forradalom idején.",
+      ro: "Fabrica de îngrășăminte din Fenchuganj a fost prima unitate industrială de acest tip din Bangladesh, marcând o etapă importantă în dezvoltarea economică. Situată pe malul râului Kushiyara în districtul Sylhet, unitatea utilizează rezervele locale de gaze naturale pentru producția de uree. Fabrica a jucat un rol crucial în creșterea randamentelor agricole în timpul Revoluției Verzi.",
+      en: "The Fenchuganj Fertilizer Factory was the first industrial facility of its kind in Bangladesh, marking a milestone in the nation's economic development. Located on the banks of the Kushiyara River in Sylhet district, the plant utilizes local natural gas reserves for the production of urea. The factory played a crucial role in boosting agricultural yields during the Green Revolution.",
+    },
+    factsAdvanced: {
+      de: ["Die Fabrik wurde im Jahr 1961 offiziell in Betrieb genommen.", "Sie war die erste Harnstoff-Düngemittelfabrik in ganz Pakistan (damals).", "Die Anlage wurde mit technischer Hilfe aus Japan errichtet.", "Sie nutzt Erdgas als primären Rohstoff für die Produktion.", "Im Jahr 2010 wurde eine neue, moderne Anlage zur Ersetzung der alten geplant.", "Die Fabrik liegt verkehrsgünstig am Fluss für den Abtransport."],
+      hu: ["A gyár hivatalos üzembe helyezése 1961-ben történt meg.", "Ez volt az első karbamid-műtrágyagyár az akkori Pakisztán területén.", "A létesítmény japán technikai segítségnyújtással épült fel.", "A termeléshez szükséges elsődleges alapanyag a helyi földgáz.", "2010-ben egy új, modern üzemet terveztek a régi egységek kiváltására.", "A gyár elhelyezkedése lehetővé teszi a vízi úton történő szállítást."],
+      ro: ["Fabrica a fost dată în exploatare oficial în anul 1961.", "A fost prima fabrică de uree din Pakistanul de Est de la acea vreme.", "Construcția unității a fost realizată cu asistență tehnică din Japonia.", "Utilizează gazul natural local ca materie primă principală.", "O nouă unitate modernă a fost planificată pentru a înlocui vechea fabrică în 2010.", "Locația pe malul râului facilitează distribuția produselor prin transport fluvial."],
+      en: ["The factory was officially commissioned for operation in 1961.", "It was the first urea fertilizer plant in the then East Pakistan.", "The facility was constructed with technical assistance from Japan.", "Natural gas serves as the primary raw material for its production.", "A new modern plant was commissioned in the 2010s to replace old units.", "The plant is strategically located on the riverbank for easy transport."],
+    },
   },
   {
     id: "bangladesh-kafco-plant-economic-v2",

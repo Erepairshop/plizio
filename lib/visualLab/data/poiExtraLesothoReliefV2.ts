@@ -484,6 +484,18 @@ export const lesothoReliefV2: POI[] = [
       en: ["Distinctive basalt pillar", "Elevation of 3,165 meters", "Near the Amphitheatre plateau", "Popular destination for climbers"],
     },
     imageHint: "The Sentinel peak Drakensberg Lesotho",
+    descriptionAdvanced: {
+      de: "Der Sentinel Peak ist ein markanter Basaltgipfel mit einer Höhe von 3.165 Metern am nordwestlichen Ende des Drakensberg-Amphitheaters an der Grenze zwischen Lesotho und Südafrika. Er ist bekannt für seine steilen Felswände und die berühmten Kettenleitern, die Wanderern den Zugang zum Hochplateau ermöglichen. Der Gipfel bietet einen der spektakulärsten Ausblicke auf die Tugela Falls und die umliegende Gebirgskette.",
+      hu: "A Sentinel Peak egy jellegzetes bazaltcsúcs, amely 3165 méter magasan emelkedik a Drakensberg-amfiteátrum északnyugati szélén, Lesotho és Dél-Afrika határán. Híres meredek sziklafalairól és a láncos létrákról, amelyek lehetővé teszik a túrázók számára a fennsík elérését. A csúcsról az egyik leglátványosabb kilátás nyílik a Tugela-vízesésre és a környező hegyláncokra.",
+      ro: "Sentinel Peak este un vârf de bazalt proeminent, cu o înălțime de 3.165 metri, situat la capătul nord-vestic al Amfiteatrului Drakensberg, la granița dintre Lesotho și Africa de Sud. Este renumit pentru pereții săi abrupți și scările de lanț care permit accesul pe platoul înalt. Vârful oferă una dintre cele mai spectaculoase vederi asupra cascadei Tugela.",
+      en: "The Sentinel Peak is a prominent basalt summit reaching 3,165 meters at the northwestern end of the Drakensberg Amphitheatre on the Lesotho-South Africa border. It is famous for its sheer cliffs and the iconic chain ladders that provide hikers access to the high plateau. The peak offers one of the most spectacular views of the Tugela Falls and the surrounding mountain range.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 3.165 Metern", "Markiert den Zugang zum Amphitheater", "Besteht aus vulkanischem Basalt", "Berühmt für die vertikalen Kettenleitern", "Bietet Blick auf die Tugela Falls", "Teil des Maloti-Drakensberg Welterbes"],
+      hu: ["Magassága 3165 méter", "Az Amfiteátrum bejáratát jelzi", "Vulkanikus bazaltból épül fel", "Híres a függőleges láncos létráiról", "Kilátást nyújt a Tugela-vízesésre", "A Maloti-Drakensberg Világörökség része"],
+      ro: ["Altitudinea este de 3.165 metri", "Marchează intrarea în Amfiteatru", "Format din bazalt vulcanic", "Faimos pentru scările metalice verticale", "Oferă vedere spre cascada Tugela", "Parte a patrimoniului Maloti-Drakensberg"],
+      en: ["Elevation of 3,165 meters", "Marks the gateway to the Amphitheatre", "Composed of volcanic basalt rock", "Famous for the vertical chain ladders", "Provides views of the Tugela Falls", "Part of the Maloti-Drakensberg World Heritage site"],
+    },
   },
   {
     id: "lesotho-nteko-plateau-relief-v2",
@@ -503,6 +515,18 @@ export const lesothoReliefV2: POI[] = [
       en: ["Remote highland region", "Typical basaltic landscape", "Important for alpine grazing", "Difficult to access terrain"],
     },
     imageHint: "Lesotho highland plateau landscape",
+    descriptionAdvanced: {
+      de: "Das Nteko-Plateau ist eine abgelegene und zerklüftete Hochebene in den Maloti-Bergen von Lesotho, die durch ihre extreme Höhe und spärliche Vegetation gekennzeichnet ist. Es spielt eine wichtige Rolle als Wassereinzugsgebiet für die Flusssysteme der Region und wird saisonal von einheimischen Hirten genutzt. Die geologische Struktur besteht primär aus Basaltschichten, die über Millionen von Jahren durch Erosion geformt wurden.",
+      hu: "Az Nteko-fennsík egy távoli és tagolt magasföldi terület Lesotho Maloti-hegységében, amelyet szélsőséges magasság és gyér növényzet jellemez. Fontos vízgyűjtő terület a régió folyórendszerei számára, és a helyi pásztorok szezonális legelőként használják. Geológiai szerkezetét elsősorban bazaltrétegek alkotják, amelyeket az erózió formált évmilliók alatt.",
+      ro: "Platoul Nteko este o zonă înaltă izolată și accidentată din munții Maloti din Lesotho, caracterizată prin altitudinea extremă și vegetația rară. Acesta joacă un rol important ca bazin de colectare a apei pentru sistemele fluviale din regiune și este utilizat sezonier de păstorii locali. Structura geologică constă în principal din straturi de bazalt modelate de eroziune.",
+      en: "The Nteko Plateau is a remote and rugged highland area in the Maloti Mountains of Lesotho, characterized by its extreme elevation and sparse vegetation. It serves as an important catchment area for the region's river systems and is used seasonally by local herders. The geological structure primarily consists of basalt layers shaped by erosion over millions of years.",
+    },
+    factsAdvanced: {
+      de: ["Durchschnittliche Höhe über 2.500 Meter", "Teil der Maloti-Bergkette", "Wichtiges Weidegebiet für Viehzüchter", "Besteht aus jurassischem Basaltgestein", "Hohe Niederschlagsmengen im Sommer", "Schneefall im Winter ist häufig"],
+      hu: ["Átlagos magassága 2500 méter felett van", "A Maloti-hegység vonulatának része", "Fontos legelőhely az állattartók számára", "Jura kori bazaltkőzet alkotja", "Nyáron jelentős csapadék jellemzi", "Télen gyakori a hóesés"],
+      ro: ["Altitudine medie de peste 2.500 metri", "Parte a lanțului muntos Maloti", "Zonă de pășunat vitală pentru localnici", "Compus din roci bazaltice jurasice", "Precipitații abundente în timpul verii", "Zăpada este frecventă în timpul iernii"],
+      en: ["Average elevation exceeds 2,500 meters", "Part of the Maloti mountain range", "Crucial grazing land for pastoralists", "Composed of Jurassic basalt rock", "Receives high rainfall during summer", "Snowfall is common during winter months"],
+    },
   },
   {
     id: "lesotho-makhomalong-range-relief-v2",

@@ -19,6 +19,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Founded in 1735", "Population approx. 147,000", "Capital since colonial times", "Seat of the National Parliament"],
     },
     imageHint: "Aerial view of Port Louis skyline and harbor",
+    descriptionAdvanced: {
+      de: "Port Louis ist die Hauptstadt von Mauritius und das wirtschaftliche sowie administrative Zentrum des Landes. Die Stadt wurde 1735 von dem französischen Gouverneur Bertrand-François Mahé de La Bourdonnais gegründet und liegt an der Nordwestküste. Die Architektur verbindet koloniale Gebäude, wie das Parlamentshaus, mit modernen Wolkenkratzern vor der Kulisse der Moka-Bergkette.",
+      hu: "Port Louis Mauritius fővárosa, valamint az ország gazdasági és közigazgatási központja. A várost 1735-ben alapította Bertrand-François Mahé de La Bourdonnais francia kormányzó az északnyugati parton. Az építészet ötvözi a gyarmati épületeket, mint például a Parlamentet, a modern felhőkarcolókkal, a Moka-hegység hátterével.",
+      ro: "Port Louis este capitala statului Mauritius și centrul economic și administrativ al țării. Orașul a fost fondat în 1735 de guvernatorul francez Bertrand-François Mahé de La Bourdonnais, pe coasta de nord-vest. Arhitectura îmbină clădiri coloniale, cum ar fi Casa Parlamentului, cu zgârie-nori moderni, având ca fundal lanțul muntos Moka.",
+      en: "Port Louis is the capital of Mauritius and the country's economic and administrative hub. The city was founded in 1735 by French governor Bertrand-François Mahé de La Bourdonnais on the northwest coast. Its architecture blends colonial buildings, such as the Parliament House, with modern skyscrapers against the backdrop of the Moka Mountain Range.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1735 durch die Franzosen", "Die Stadt hat eine Bevölkerung von etwa 150.000 Einwohnern", "Aapravasi Ghat ist eine UNESCO-Welterbestätte in der Stadt", "Die Zitadelle (Fort Adelaide) wurde 1834 erbaut", "Port Louis beherbergt den größten Hafen der Insel", "Die Blue Penny Museum zeigt seltene Briefmarken von 1847"],
+      hu: ["1735-ben alapították a franciák", "A város lakossága körülbelül 150 000 fő", "Az Aapravasi Ghat az UNESCO Világörökség része a városban", "A Citadellát (Fort Adelaide) 1834-ben építették", "Port Louis ad otthont a sziget legnagyobb kikötőjének", "A Blue Penny Múzeumban ritka, 1847-es bélyegek láthatóak"],
+      ro: ["Fondat în anul 1735 de către francezi", "Orașul are o populație de aproximativ 150.000 de locuitori", "Aapravasi Ghat este un sit al Patrimoniului Mondial UNESCO în oraș", "Citadela (Fort Adelaide) a fost construită în 1834", "Port Louis găzduiește cel mai mare port de pe insulă", "Muzeul Blue Penny expune mărci poștale rare din 1847"],
+      en: ["Founded in 1735 by the French", "The city has a population of approximately 150.000", "Aapravasi Ghat is a UNESCO World Heritage site in the city", "The Citadel (Fort Adelaide) was built in 1834", "Port Louis hosts the largest port on the island", "The Blue Penny Museum displays rare stamps from 1847"],
+    },
   },
   {
     id: "mauritius-beau-bassin-cities-v2",
@@ -38,6 +50,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Part of the second largest town", "Elevation approx. 200 meters", "Major residential area", "Well connected to Port Louis"],
     },
     imageHint: "Residential street in Beau Bassin Mauritius",
+    descriptionAdvanced: {
+      de: "Beau Bassin ist Teil des zusammenhängenden Stadtgebiets Beau Bassin-Rose Hill auf dem zentralen Plateau von Mauritius. Es ist bekannt für sein kühleres Klima im Vergleich zur Küste und dient hauptsächlich als Wohn- und Handelsgebiet. Die Stadt verfügt über mehrere historische Gebäude aus der Kolonialzeit und ist ein wichtiger Verkehrsknotenpunkt der Insel.",
+      hu: "Beau Bassin a Beau Bassin-Rose Hill összefüggő városi terület része Mauritius központi fennsíkján. Hűvösebb éghajlatáról ismert a parthoz képest, és főként lakó- és kereskedelmi negyedként szolgál. A város számos történelmi épülettel rendelkezik a gyarmati időkből, és a sziget egyik fontos közlekedési csomópontja.",
+      ro: "Beau Bassin face parte din zona urbană continuă Beau Bassin-Rose Hill, situată pe podișul central din Mauritius. Este cunoscut pentru climatul său mai răcoros comparativ cu zona de coastă și servește în principal ca zonă rezidențială și comercială. Orașul deține mai multe clădiri istorice din epoca colonială și este un important nod de transport pe insulă.",
+      en: "Beau Bassin is part of the contiguous urban area of Beau Bassin-Rose Hill on the central plateau of Mauritius. It is known for its cooler climate compared to the coast and serves primarily as a residential and commercial area. The town features several historical buildings from the colonial era and is a major transport hub on the island.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zur Gemeinde Beau Bassin-Rose Hill", "Liegt auf einer Höhe von etwa 200 bis 300 Metern", "Die Region ist bekannt für die Balfour-Gärten", "Der Name bedeutet 'Schönes Becken' auf Französisch", "Wichtiger Halt der 2019 eingeweihten Metro Express", "Sitz mehrerer bedeutender Bildungseinrichtungen"],
+      hu: ["Beau Bassin-Rose Hill önkormányzatához tartozik", "Körülbelül 200-300 méteres magasságban fekszik", "A régió a Balfour-kertekről ismert", "A név 'Szép Medencét' jelent franciául", "A 2019-ben felavatott Metro Express fontos megállója", "Számos jelentős oktatási intézmény székhelye"],
+      ro: ["Aparține municipalității Beau Bassin-Rose Hill", "Situat la o altitudine de aproximativ 200-300 de metri", "Regiunea este cunoscută pentru Grădinile Balfour", "Numele înseamnă 'Bazin Frumos' în franceză", "Stație importantă a Metro Express, inaugurat în 2019", "Sediul mai multor instituții de învățământ importante"],
+      en: ["Part of the Beau Bassin-Rose Hill municipality", "Located at an altitude of about 200 to 300 meters", "The region is known for the Balfour Gardens", "The name means 'Beautiful Basin' in French", "Important stop on the Metro Express inaugurated in 2019", "Home to several major educational institutions"],
+    },
   },
   {
     id: "mauritius-rose-hill-cities-v2",
@@ -57,6 +81,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Famous for the Rose Hill Market", "Home to the Plaza Theatre", "Hub for retail commerce", "Major transportation junction"],
     },
     imageHint: "Busy commercial street in Rose Hill Mauritius",
+    descriptionAdvanced: {
+      de: "Rose Hill ist das pulsierende Zentrum der Gemeinde Beau Bassin-Rose Hill und ein bedeutendes kommerzielles Zentrum auf Mauritius. Die Stadt ist bekannt für ihre lebhaften Märkte, zahlreichen Schulen und kulturellen Einrichtungen wie das Plaza-Theater. Aufgrund seiner zentralen Lage und der guten Infrastruktur ist es einer der wichtigsten Verkehrsknotenpunkte der Insel.",
+      hu: "Rose Hill a Beau Bassin-Rose Hill önkormányzat lüktető központja és Mauritius jelentős kereskedelmi csomópontja. A város ismert élénk piacairól, számos iskolájáról és olyan kulturális intézményeiről, mint a Plaza Színház. Központi elhelyezkedése és jó infrastruktúrája miatt a sziget egyik legfontosabb közlekedési csomópontja.",
+      ro: "Rose Hill este centrul vibrant al municipalității Beau Bassin-Rose Hill și un important centru comercial din Mauritius. Orașul este cunoscut pentru piețele sale animate, numeroasele școli și instituții culturale precum Teatrul Plaza. Datorită locației sale centrale și infrastructurii bune, este unul dintre cele mai importante noduri de transport de pe insulă.",
+      en: "Rose Hill is the vibrant center of the Beau Bassin-Rose Hill municipality and a major commercial hub in Mauritius. The town is known for its lively markets, numerous schools, and cultural institutions such as the Plaza Theatre. Due to its central location and good infrastructure, it is one of the island's most important transport hubs.",
+    },
+    factsAdvanced: {
+      de: ["Das Plaza-Theater wurde im Jahr 1933 eröffnet", "Ein zentraler Knotenpunkt des Metro Express Systems", "Beherbergt das Mauritius Institute of Education", "Der Rose Hill Markt ist ein bedeutendes Handelszentrum", "Die Stadt liegt im Bezirk Plaines Wilhems", "Einer der bevölkerungsreichsten Orte von Mauritius"],
+      hu: ["A Plaza Színházat 1933-ban nyitották meg", "A Metro Express rendszer központi csomópontja", "Itt található a Mauritius Institute of Education", "A Rose Hill piac jelentős kereskedelmi központ", "A város Plaines Wilhems körzetében fekszik", "Mauritius egyik legnépesebb települése"],
+      ro: ["Teatrul Plaza a fost deschis în anul 1933", "Un nod central al sistemului Metro Express", "Găzduiește Institutul de Educație din Mauritius", "Piața Rose Hill este un centru comercial important", "Orașul este situat în districtul Plaines Wilhems", "Una dintre cele mai populate localități din Mauritius"],
+      en: ["The Plaza Theatre was opened in 1933", "A central hub of the Metro Express system", "Home to the Mauritius Institute of Education", "The Rose Hill Market is a major trading center", "The town is located in the Plaines Wilhems district", "One of the most populous urban areas in Mauritius"],
+    },
   },
   {
     id: "mauritius-vacoas-cities-v2",
@@ -76,6 +112,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Elevation approx. 400 meters", "Important military location", "Home to the Gymkhana Club", "High annual rainfall levels"],
     },
     imageHint: "Residential area with trees in Vacoas Mauritius",
+    descriptionAdvanced: {
+      de: "Vacoas bildet zusammen mit Phoenix eine Zwillingsstadt auf dem zentralen Plateau von Mauritius. Die Stadt liegt in einer höheren und feuchteren Region der Insel, was sie zu einem angenehmen Wohngebiet macht. Vacoas ist historisch eng mit dem Militär und der Polizei verbunden und beherbergt zahlreiche staatliche Verwaltungseinrichtungen sowie Sportstätten.",
+      hu: "Vacoas Phoenix-szel együtt alkot ikervárost Mauritius központi fennsíkján. A város a sziget magasabb és csapadékosabb régiójában fekszik, ami kellemes lakókörnyezetté teszi. Vacoas történelmileg szorosan kapcsolódik a katonasághoz és a rendőrséghez, számos állami közigazgatási intézménynek és sportlétesítménynek ad otthont.",
+      ro: "Vacoas formează, împreună cu Phoenix, un oraș înfrățit pe podișul central din Mauritius. Orașul este situat într-o regiune mai înaltă și mai umedă a insulei, ceea ce îl face o zonă rezidențială plăcută. Vacoas are legături istorice strânse cu armata și poliția, găzduind numeroase instituții administrative de stat și baze sportive.",
+      en: "Vacoas forms a twin town with Phoenix on the central plateau of Mauritius. The town is situated in a higher and wetter region of the island, making it a pleasant residential area. Vacoas has strong historical links with the military and police, hosting numerous government administrative offices and sports facilities.",
+    },
+    factsAdvanced: {
+      de: ["Vacoas-Phoenix wurde 1963 zur Gemeinde erhoben", "Liegt auf einer durchschnittlichen Höhe von 400 Metern", "Beherbergt das Hauptquartier der Special Mobile Force", "Der Name stammt von der Schraubenpalme (Vacoas)", "Standort des Mauritius Meteorological Services", "Hier befindet sich der Gymkhana Club, der älteste Golfclub der Insel"],
+      hu: ["Vacoas-Phoenix-t 1963-ban emelték városi rangra", "Átlagosan 400 méteres tengerszint feletti magasságban fekszik", "A Special Mobile Force főhadiszállásának ad otthont", "A név a csavarpálmáról (Vacoas) származik", "Itt található a Mauritius Meteorological Services", "Itt van a Gymkhana Club, a sziget legrégebbi golfklubja"],
+      ro: ["Vacoas-Phoenix a fost ridicat la rang de municipalitate în 1963", "Situat la o altitudine medie de 400 de metri", "Găzduiește sediul central al Special Mobile Force", "Numele provine de la palmierul Vacoas", "Locația Serviciului Meteorologic din Mauritius", "Găzduiește Gymkhana Club, cel mai vechi club de golf de pe insulă"],
+      en: ["Vacoas-Phoenix became a municipality in 1963", "Located at an average altitude of 400 meters", "Home to the Special Mobile Force headquarters", "The name originates from the Vacoas (screw pine) plant", "Site of the Mauritius Meteorological Services", "Home to the Gymkhana Club, the oldest golf club on the island"],
+    },
   },
   {
     id: "mauritius-curepipe-cities-v2",
@@ -95,6 +143,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Elevation 560 meters", "Established in the 19th century", "Center for tea commerce", "Famous for ship model making"],
     },
     imageHint: "Town hall building in Curepipe Mauritius",
+    descriptionAdvanced: {
+      de: "Curepipe, bekannt als 'La Ville Lumière', ist die höchstgelegene Stadt auf Mauritius und liegt im Zentrum der Insel. Aufgrund der Höhe herrscht hier ein kühles und oft regnerisches Klima, das sich deutlich von den Küstengebieten unterscheidet. Die Stadt ist berühmt für den erloschenen Vulkankrater Trou aux Cerfs und ihre eleganten Villen aus der Kolonialzeit.",
+      hu: "Curepipe, amely 'La Ville Lumière' (a fény városa) néven ismert, Mauritius legmagasabban fekvő városa a sziget közepén. A magasság miatt hűvös és gyakran esős éghajlat uralkodik itt, ami jelentősen eltér a parti területektől. A város híres a Trou aux Cerfs kialudt vulkáni kráterről és elegáns, gyarmati korabeli villáiról.",
+      ro: "Curepipe, cunoscut sub numele de 'La Ville Lumière', este orașul situat la cea mai mare altitudine din Mauritius, în centrul insulei. Datorită altitudinii, predomină un climat răcoros și adesea ploios, care diferă semnificativ de zonele de coastă. Orașul este renumit pentru craterul vulcanic stins Trou aux Cerfs și vilele sale elegante din epoca colonială.",
+      en: "Curepipe, known as 'La Ville Lumière', is the highest town in Mauritius, located in the center of the island. Due to its elevation, it has a cool and often rainy climate that differs significantly from the coastal regions. The town is famous for the dormant volcanic crater Trou aux Cerfs and its elegant colonial-era villas.",
+    },
+    factsAdvanced: {
+      de: ["Höchstgelegene Stadt der Insel (ca. 560 m)", "Der Krater Trou aux Cerfs ist 605 Meter hoch", "Der Name stammt vermutlich von 'Curé' (Geheilt) und 'Pipe'", "Das Rathaus (Hôtel de Ville) ist ein Meisterwerk der Holzarchitektur", "Die Stadt ist ein Zentrum der Schiffsmodellbau-Industrie", "Sitz des Royal College Curepipe, gegründet im 18. Jahrhundert"],
+      hu: ["A sziget legmagasabban fekvő városa (kb. 560 m)", "A Trou aux Cerfs kráter 605 méter magas", "A név valószínűleg a 'Curé' (gyógyult) és 'Pipe' szavakból ered", "A Városháza (Hôtel de Ville) a faépítészet remekműve", "A város a hajómodell-építő ipar egyik központja", "A 18. században alapított Royal College Curepipe székhelye"],
+      ro: ["Cel mai înalt oraș de pe insulă (cca. 560 m)", "Craterul Trou aux Cerfs are o înălțime de 605 metri", "Numele provine probabil de la 'Curé' (vindecat) și 'Pipe'", "Primăria (Hôtel de Ville) este o capodoperă a arhitecturii în lemn", "Orașul este un centru al industriei de machete de corăbii", "Sediul Royal College Curepipe, fondat în secolul al XVIII-lea"],
+      en: ["Highest town on the island (approx. 560 m)", "The Trou aux Cerfs crater is 605 meters high", "The name likely comes from 'Curé' (cured) and 'Pipe'", "The Town Hall (Hôtel de Ville) is a masterpiece of wooden architecture", "The town is a center for the ship model-making industry", "Home to Royal College Curepipe, founded in the 18th century"],
+    },
   },
   {
     id: "mauritius-triolet-town-cities-v2",
@@ -114,6 +174,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Location of the Maheswarnath Temple", "Main source of income: agriculture", "Strong ties to the sugar industry", "Largest village in Pamplemousses district"],
     },
     imageHint: "Main road through Triolet village Mauritius",
+    descriptionAdvanced: {
+      de: "Triolet ist eines der größten und am dichtesten besiedelten Dörfer im Norden von Mauritius. Der Ort erstreckt sich entlang einer mehrere Kilometer langen Hauptstraße und ist ein bedeutendes religiöses und kulturelles Zentrum für die hinduistische Gemeinschaft. Triolet ist bekannt für den Maheswarnath Mandir, den größten und ältesten hinduistischen Tempelkomplex der Insel.",
+      hu: "Triolet Mauritius északi részének egyik legnagyobb és legsűrűbben lakott faluja. A település egy több kilométer hosszú főút mentén terül el, és jelentős vallási és kulturális központ a hindu közösség számára. Triolet a Maheswarnath Mandirról, a sziget legnagyobb és legrégebbi hindu templomegyütteséről ismert.",
+      ro: "Triolet este unul dintre cele mai mari și mai dens populate sate din nordul insulei Mauritius. Localitatea se întinde de-a lungul unei străzi principale lungi de câțiva kilometri și este un important centru religios și cultural pentru comunitatea hindusă. Triolet este cunoscut pentru Maheswarnath Mandir, cel mai mare și mai vechi complex de temple hinduse de pe insulă.",
+      en: "Triolet is one of the largest and most densely populated villages in northern Mauritius. The town stretches along a main road several kilometers long and is a significant religious and cultural center for the Hindu community. Triolet is famous for the Maheswarnath Mandir, the island's largest and oldest Hindu temple complex.",
+    },
+    factsAdvanced: {
+      de: ["Der Maheswarnath Tempel wurde 1888 erbaut", "Es gilt als das längste Dorf der Insel", "Liegt im Bezirk Pamplemousses", "Wichtiges landwirtschaftliches Zentrum (Zuckerrohr)", "Die Bevölkerung beträgt etwa 23.000 Einwohner", "Benannt nach einer französischen Familie aus der Kolonialzeit"],
+      hu: ["A Maheswarnath templomot 1888-ban építették", "A sziget leghosszabb falvaként tartják számon", "Pamplemousses körzetében található", "Fontos mezőgazdasági központ (cukornád)", "Lakossága körülbelül 23 000 fő", "Egy gyarmati korabeli francia családról nevezték el"],
+      ro: ["Templul Maheswarnath a fost construit în 1888", "Este considerat cel mai lung sat de pe insulă", "Situat în districtul Pamplemousses", "Centru agricol important (trestie de zahăr)", "Populația este de aproximativ 23.000 de locuitori", "Numit după o familie franceză din epoca colonială"],
+      en: ["The Maheswarnath Mandir was built in 1888", "It is considered the longest village on the island", "Located in the Pamplemousses district", "Important agricultural center (sugarcane)", "Population is approximately 23,000", "Named after a French family from the colonial era"],
+    },
   },
   {
     id: "mauritius-goodlands-town-cities-v2",
@@ -133,6 +205,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Major market location in the north", "Hub for textile retail", "Densely populated residential area", "Host to many local restaurants"],
     },
     imageHint: "Lively market scene in Goodlands Mauritius",
+    descriptionAdvanced: {
+      de: "Goodlands ist ein lebhaftes Handelszentrum im Norden von Mauritius und gehört zum Bezirk Rivière du Rempart. Das Dorf hat sich von einer landwirtschaftlich geprägten Siedlung zu einem geschäftigen Ort mit zahlreichen Märkten, Einkaufszentren und Gewerbegebieten entwickelt. Es ist bekannt für seine lebendige Atmosphäre und als wichtiger Dienstleistungsknotenpunkt für die umliegenden Küstendörfer.",
+      hu: "Goodlands egy élénk kereskedelmi központ Mauritius északi részén, a Rivière du Rempart körzetben. A falu egy mezőgazdasági jellegű településből forgalmas hellyé fejlődött, számos piaccal, bevásárlóközponttal és ipari területtel. Ismert vibráló hangulatáról és a környező parti falvak fontos szolgáltató központjaként.",
+      ro: "Goodlands este un centru comercial plin de viață în nordul insulei Mauritius, aparținând districtului Rivière du Rempart. Satul a evoluat de la o așezare agricolă la o localitate aglomerată, cu numeroase piețe, centre comerciale și zone industriale. Este cunoscut pentru atmosfera sa vibrantă și ca un important nod de servicii pentru satele de coastă învecinate.",
+      en: "Goodlands is a bustling commercial center in northern Mauritius, belonging to the Rivière du Rempart district. The village has evolved from an agricultural settlement into a busy town with numerous markets, shopping centers, and commercial areas. It is known for its vibrant atmosphere and as a major service hub for the surrounding coastal villages.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Nordosten der Insel im Bezirk Rivière du Rempart", "Bekannt für den wöchentlichen Textilmarkt", "Die Bevölkerung liegt bei über 20.000 Einwohnern", "Historisch eng mit der Zuckerindustrie verbunden", "Dient als Handelszentrum für den Norden von Mauritius", "Beherbergt mehrere bedeutende religiöse Stätten"],
+      hu: ["A sziget északkeleti részén, Rivière du Rempart körzetben fekszik", "A heti textilpiacáról híres", "Lakossága meghaladja a 20 000 főt", "Történelmileg szorosan kapcsolódik a cukoriparhoz", "Mauritius északi részének kereskedelmi központjaként szolgál", "Számos jelentős vallási helyszínnek ad otthont"],
+      ro: ["Situat în nord-estul insulei, în districtul Rivière du Rempart", "Cunoscut pentru piața săptămânală de textile", "Populația depășește 20.000 de locuitori", "Istoric legat strâns de industria zahărului", "Servește ca centru comercial pentru nordul insulei Mauritius", "Găzduiește mai multe situri religioase importante"],
+      en: ["Located in the northeast in the Rivière du Rempart district", "Famous for its weekly textile market", "Population exceeds 20,000 inhabitants", "Historically closely linked to the sugar industry", "Serves as a trade hub for northern Mauritius", "Home to several significant religious sites"],
+    },
   },
   {
     id: "mauritius-centre-de-flacq-cities-v2",
@@ -152,6 +236,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Largest village in the east", "Famous market on Wednesday/Sunday", "Economic hub of the region", "Close to Belle Mare beaches"],
     },
     imageHint: "Aerial view of Centre de Flacq village",
+    descriptionAdvanced: {
+      de: "Centre de Flacq ist das administrative und kommerzielle Herz des Flacq-Bezirks im Osten von Mauritius. Der Ort ist bekannt für seinen weitläufigen Freiluftmarkt, der Besucher aus der ganzen Region anzieht und eine große Vielfalt an lokalen Produkten bietet. Als wichtiger Verkehrsknotenpunkt verbindet Centre de Flacq die ländlichen Gebiete des Ostens mit den touristischen Küstenregionen.",
+      hu: "Centre de Flacq a Flacq körzet közigazgatási és kereskedelmi szíve Mauritius keleti részén. A település kiterjedt szabadtéri piacáról ismert, amely az egész régióból vonzza a látogatókat, és helyi termékek széles választékát kínálja. Fontos közlekedési csomópontként Centre de Flacq összeköti a keleti vidéki területeket a turisztikai parti régiókkal.",
+      ro: "Centre de Flacq este inima administrativă și comercială a districtului Flacq, în estul insulei Mauritius. Localitatea este cunoscută pentru piața sa în aer liber vastă, care atrage vizitatori din întreaga regiune și oferă o mare varietate de produse locale. Ca nod de transport important, Centre de Flacq leagă zonele rurale din est de regiunile turistice de coastă.",
+      en: "Centre de Flacq is the administrative and commercial heart of the Flacq district in eastern Mauritius. The town is known for its extensive open-air market, which attracts visitors from across the region and offers a wide variety of local products. As a major transport hub, Centre de Flacq connects the rural areas of the east with the touristic coastal regions.",
+    },
+    factsAdvanced: {
+      de: ["Verwaltungssitz des bevölkerungsreichsten Bezirks Flacq", "Der Markt findet mittwochs und sonntags statt", "Wichtiger Verkehrsknotenpunkt für den Osten der Insel", "Beherbergt das Flacq Shopping Mall", "Die Region ist historisch von der Zuckerrohrwirtschaft geprägt", "In der Nähe befinden sich exklusive Hotelanlagen an der Küste"],
+      hu: ["A legnépesebb körzet, Flacq közigazgatási székhelye", "A piac szerdán és vasárnap üzemel", "A sziget keleti részének fontos közlekedési csomópontja", "Itt található a Flacq Shopping Mall", "A régiót történelmileg a cukornád-gazdálkodás jellemzi", "A közelben exkluzív szállodakomplexumok találhatóak a parton"],
+      ro: ["Sediul administrativ al celui mai populat district, Flacq", "Piața are loc în zilele de miercuri și duminică", "Nod de transport vital pentru estul insulei", "Găzduiește centrul comercial Flacq Shopping Mall", "Regiunea este marcată istoric de cultura trestiei de zahăr", "În apropiere se află complexe hoteliere exclusiviste pe coastă"],
+      en: ["Administrative center of Flacq, the most populous district", "The market is held on Wednesdays and Sundays", "Key transport interchange for the east of the island", "Home to the Flacq Shopping Mall", "The region is historically shaped by sugarcane farming", "Nearby coastal areas host exclusive hotel resorts"],
+    },
   },
   {
     id: "mauritius-bel-air-riviere-seche-cities-v2",
@@ -171,6 +267,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population over 17,000 residents", "Major transport junction in the east", "Site of a large sugar estate", "Diverse retail and shopping options"],
     },
     imageHint: "Main street of Bel Air Rivière Sèche",
+    descriptionAdvanced: {
+      de: "Bel Air Rivière Sèche ist ein ausgedehntes Dorf im Bezirk Flacq im Osten von Mauritius. Der Name bezieht sich auf das oft trockene Flussbett der Rivière Sèche, die durch den Ort fließt. Die Gemeinde ist ein bedeutendes landwirtschaftliches Zentrum, das heute zunehmend an kommerzieller Bedeutung gewinnt und als Tor zu den berühmten Stränden von Trou d'Eau Douce dient.",
+      hu: "Bel Air Rivière Sèche egy kiterjedt falu Flacq körzetben, Mauritius keleti részén. A név a településen átfolyó Rivière Sèche gyakran száraz folyómedrére utal. A közösség jelentős mezőgazdasági központ, amely napjainkban egyre nagyobb kereskedelmi jelentőségre tesz szert, és kapuként szolgál Trou d'Eau Douce híres strandjaihoz.",
+      ro: "Bel Air Rivière Sèche este un sat extins în districtul Flacq, în estul insulei Mauritius. Numele se referă la albia adesea uscată a râului Rivière Sèche, care traversează localitatea. Comunitatea este un centru agricol important, care câștigă tot mai multă importanță comercială și servește drept poartă către faimoasele plaje din Trou d'Eau Douce.",
+      en: "Bel Air Rivière Sèche is an extensive village in the Flacq district of eastern Mauritius. The name refers to the often dry riverbed of the Rivière Sèche that flows through the settlement. The community is a major agricultural center that is increasingly gaining commercial importance and serves as a gateway to the famous beaches of Trou d'Eau Douce.",
+    },
+    factsAdvanced: {
+      de: ["Einer der größten Siedlungskomplexe im Bezirk Flacq", "Die Bevölkerung beträgt etwa 18.000 Einwohner", "Wichtiger Standort für die Textilindustrie", "Der Name 'Rivière Sèche' bedeutet 'Trockener Fluss'", "Nahegelegener Zugang zur Ile aux Cerfs", "Historisch durch die Zuckerplantage Bel Air geprägt"],
+      hu: ["Flacq körzet egyik legnagyobb településegyüttese", "Lakossága körülbelül 18 000 fő", "A textilipar fontos helyszíne", "A 'Rivière Sèche' név 'Száraz Folyót' jelent", "Közeli hozzáférést biztosít az Ile aux Cerfs-hez", "Történelmileg a Bel Air cukornádültetvény határozta meg"],
+      ro: ["Unul dintre cele mai mari complexe de așezări din districtul Flacq", "Populația este de aproximativ 18.000 de locuitori", "Locație importantă pentru industria textilă", "Numele 'Rivière Sèche' înseamnă 'Râu Uscat'", "Acces apropiat către Ile aux Cerfs", "Marcat istoric de plantația de zahăr Bel Air"],
+      en: ["One of the largest settlement clusters in Flacq district", "The population is approximately 18,000", "Important site for the textile industry", "The name 'Rivière Sèche' means 'Dry River'", "Provides nearby access to Ile aux Cerfs", "Historically shaped by the Bel Air sugar estate"],
+    },
   },
   {
     id: "mauritius-mahebourg-cities-v2",
@@ -190,6 +298,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Founded in 1805", "Location of the Naval History Museum", "Famous for the Battle of Grand Port", "Major fishing port today"],
     },
     imageHint: "Waterfront promenade in Mahébourg Mauritius",
+    descriptionAdvanced: {
+      de: "Mahébourg ist eine geschichtsträchtige Küstenstadt im Südosten von Mauritius, die im Jahr 1805 von den Franzosen gegründet wurde. Sie liegt an der Bucht von Grand Port, dem Ort der berühmten Seeschlacht zwischen Frankreich und Großbritannien im Jahr 1810. Die Stadt bewahrt eine traditionelle Atmosphäre mit ihren geraden Straßen, dem lebhaften Markt und dem Nationalen Geschichtsmuseum.",
+      hu: "Mahébourg egy történelemben gazdag parti város Mauritius délkeleti részén, amelyet 1805-ben alapítottak a franciák. A Grand Port-öbölben fekszik, amely a híres 1810-es Franciaország és Nagy-Britannia közötti tengeri csata helyszíne volt. A város megőrzi hagyományos hangulatát egyenes utcáival, élénk piacával és a Nemzeti Történeti Múzeummal.",
+      ro: "Mahébourg este un oraș de coastă încărcat de istorie în sud-estul insulei Mauritius, fondat de francezi în 1805. Este situat pe golful Grand Port, locul faimoasei bătălii navale dintre Franța și Marea Britanie din 1810. Orașul păstrează o atmosferă tradițională, cu străzile sale drepte, piața plină de viață și Muzeul Național de Istorie.",
+      en: "Mahébourg is a historic coastal town in southeastern Mauritius, founded by the French in 1805. It is situated on Grand Port Bay, the site of the famous 1810 naval battle between France and Great Britain. The town preserves a traditional atmosphere with its grid-pattern streets, lively market, and National History Museum.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1805 durch General Decaen", "Benannt nach Bertrand-François Mahé de La Bourdonnais", "Ort der Seeschlacht von Grand Port (August 1810)", "Das Geschichtsmuseum befindet sich im Schloss Robillard", "Erster Ankunftsort der niederländischen Siedler 1598", "Die Stadt ist bekannt für die Keksfabrik Rault (gegr. 1870)"],
+      hu: ["1805-ben alapította Decaen tábornok", "Bertrand-François Mahé de La Bourdonnais-ról nevezték el", "A Grand Port-i tengeri csata helyszíne (1810. augusztus)", "A Történeti Múzeum a Robillard-kastélyban található", "A holland telepesek első érkezési helye 1598-ban", "A város a Rault kekszgyárról híres (alapítva 1870-ben)"],
+      ro: ["Fondat în anul 1805 de generalul Decaen", "Numit după Bertrand-François Mahé de La Bourdonnais", "Locul bătăliei navale de la Grand Port (august 1810)", "Muzeul de Istorie este situat în Castelul Robillard", "Primul loc de sosire a coloniștilor olandezi în 1598", "Orașul este cunoscut pentru fabrica de biscuiți Rault (fondată în 1870)"],
+      en: ["Founded in 1805 by General Decaen", "Named after Bertrand-François Mahé de La Bourdonnais", "Site of the Battle of Grand Port (August 1810)", "The National History Museum is housed in Château Robillard", "First landing site of Dutch settlers in 1598", "Home to the Rault biscuit factory established in 1870"],
+    },
   },
   {
     id: "mauritius-saint-pierre-cities-v2",
@@ -209,6 +329,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population approx. 16,000 people", "Formerly a major sugar cane area", "Features a modern shopping mall", "Important educational location"],
     },
     imageHint: "Commercial buildings in Saint Pierre Mauritius",
+    descriptionAdvanced: {
+      de: "Saint Pierre ist eine schnell wachsende Kleinstadt im Moka-Bezirk im Zentrum von Mauritius. Gelegen am Fuße des Moka-Gebirges, hat sich der Ort von einem landwirtschaftlichen Zentrum zu einem modernen Geschäfts- und Bildungsstandort entwickelt. Saint Pierre profitiert von seiner strategischen Lage an der Hauptstraße, die Port Louis mit dem Osten der Insel verbindet.",
+      hu: "Saint Pierre egy gyorsan növekvő kisváros a Moka körzetben, Mauritius központjában. A Moka-hegység lábánál fekvő település mezőgazdasági központból modern üzleti és oktatási központtá fejlődött. Saint Pierre profitál stratégiai elhelyezkedéséből a Port Louist a sziget keleti részével összekötő főút mentén.",
+      ro: "Saint Pierre este un oraș de mici dimensiuni, în plină dezvoltare, situat în districtul Moka din centrul insulei Mauritius. Aflat la poalele munților Moka, localitatea a evoluat dintr-un centru agricol într-un nod modern de afaceri și educație. Saint Pierre beneficiază de locația sa strategică pe drumul principal care leagă Port Louis de estul insulei.",
+      en: "Saint Pierre is a fast-growing town in the Moka district of central Mauritius. Located at the foot of the Moka Mountain Range, the settlement has evolved from an agricultural center into a modern business and educational hub. Saint Pierre benefits from its strategic position on the main road connecting Port Louis with the east of the island.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Bezirk Moka im Herzen der Insel", "Beherbergt das Bagatelle Shopping Mall in der Nähe", "Wichtiger Haltepunkt der Metro Express Phase 3", "Sitz mehrerer internationaler Unternehmen", "Die Region ist bekannt für ihr mildes Klima", "In der Nähe befinden sich führende Bildungseinrichtungen"],
+      hu: ["Moka körzetben, a sziget szívében fekszik", "A közelben található a Bagatelle bevásárlóközpont", "A Metro Express 3. szakaszának fontos megállója", "Számos nemzetközi vállalat székhelye", "A régió enyhe éghajlatáról ismert", "Vezető oktatási intézmények találhatóak a közelben"],
+      ro: ["Situat în districtul Moka, în inima insulei", "Găzduiește centrul comercial Bagatelle Mall în apropiere", "Stație importantă a fazei a 3-a a Metro Express", "Sediul mai multor companii internaționale", "Regiunea este cunoscută pentru climatul său blând", "În apropiere se află instituții de învățământ de top"],
+      en: ["Located in the Moka district in the heart of the island", "Home to the nearby Bagatelle Shopping Mall", "Key station for the Metro Express Phase 3", "Site of several international corporate offices", "The region is known for its mild climate", "Proximity to leading educational institutions"],
+    },
   },
   {
     id: "mauritius-le-hochet-cities-v2",
@@ -228,6 +360,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population exceeds 15,000", "Borders the capital city", "Part of the urban agglomeration", "Main economic activity: services"],
     },
     imageHint: "Suburban houses in Le Hochet Mauritius",
+    descriptionAdvanced: {
+      de: "Le Hochet liegt im Distrikt Pamplemousses und fungiert als bedeutender Vorort der Hauptstadt Port Louis. Die Ortschaft hat sich in den letzten Jahrzehnten von einer rein landwirtschaftlichen Zone zu einem dichten Wohngebiet entwickelt. Durch die Nähe zur Autobahn Terre Rouge-Verdun ist sie ein strategischer Knotenpunkt für den regionalen Pendlerverkehr.",
+      hu: "Le Hochet település Pamplemousses körzetében található, Port Louis főváros közvetlen szomszédságában. Az elmúlt évtizedekben a falu jelentős átalakuláson ment keresztül, az agráriumból indulva sűrűn lakott lakóövezetté vált. Stratégiai elhelyezkedése a Terre Rouge-Verdun autópálya mentén kulcsfontosságú az ingázók számára.",
+      ro: "Le Hochet este o localitate situată în districtul Pamplemousses, funcționând ca o suburbie majoră a capitalei Port Louis. În ultimele decenii, satul a evoluat dintr-o zonă agricolă într-un cartier rezidențial dens. Poziționarea sa strategică lângă autostrada Terre Rouge-Verdun îl transformă într-un punct nodal pentru navetiștii regionali.",
+      en: "Le Hochet is a locality situated in the Pamplemousses District, functioning as a significant suburb of the capital, Port Louis. Over the past decades, the village has transitioned from a primarily agricultural zone into a dense residential area. Its strategic location near the Terre Rouge-Verdun motorway makes it a key hub for regional commuting.",
+    },
+    factsAdvanced: {
+      de: ["Liegt etwa 5 Kilometer nordöstlich von Port Louis", "Gehört administrativ zum Distrikt Pamplemousses", "Einwohnerzahl liegt bei ca. 15.000 Personen", "Höhenlage beträgt etwa 50 Meter über dem Meeresspiegel", "Wichtiger Wohnstandort für Staatsbedienstete der Hauptstadt", "Grenzstandort zwischen urbaner und ländlicher Zone"],
+      hu: ["Körülbelül 5 kilométerre északkeletre fekszik Port Louis-tól", "Közigazgatásilag Pamplemousses körzetéhez tartozik", "Lakossága hozzávetőlegesen 15 000 fő", "Tengerszint feletti magassága 50 méter körül alakul", "Fontos lakóhely a fővárosban dolgozó tisztviselők számára", "Átmeneti zónát képez a városi és a vidéki területek között"],
+      ro: ["Situat la aproximativ 5 kilometri nord-est de Port Louis", "Aparține administrativ de districtul Pamplemousses", "Populația este de aproximativ 15.000 de locuitori", "Altitudinea este de circa 50 de metri peste nivelul mării", "Locație rezidențială importantă pentru funcționarii din capitală", "Zonă de tranziție între mediul urban și cel rural"],
+      en: ["Located approximately 5 kilometers northeast of Port Louis", "Administratively part of the Pamplemousses District", "Population is estimated at around 15,000 residents", "Elevation is approximately 50 meters above sea level", "Major residential site for capital city employees", "Serves as a transition zone between urban and rural areas"],
+    },
   },
   {
     id: "mauritius-baie-du-tombeau-town-cities-v2",
@@ -247,6 +391,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Coastal location near Port Louis", "Known for its fishing tradition", "Population approx. 14,000", "Combination of suburb and industry"],
     },
     imageHint: "Bay view at Baie du Tombeau Mauritius",
+    descriptionAdvanced: {
+      de: "Baie du Tombeau ist ein Küstendorf nördlich von Port Louis, dessen Name an die zahlreichen Schiffswracks in der Bucht erinnert. Historisch ist der Ort mit dem Untergang des niederländischen Gouverneurs Pieter Both im Jahr 1615 verbunden. Heute kombiniert die Region industrielle Zonen mit Wohnvierteln und touristischen Anlagen entlang des Indischen Ozeans.",
+      hu: "Baie du Tombeau egy tengerparti falu Port Louis-tól északra, amelynek neve az öbölben történt számos hajótörésre utal. Történelmileg Pieter Both holland kormányzó 1615-ös tragédiájához kötődik, aki itt vesztette életét. Napjainkban a terület ipari zónákat, lakónegyedeket és az óceánparti turisztikai egységeket ötvözi.",
+      ro: "Baie du Tombeau este un sat de coastă situat la nord de Port Louis, al cărui nume amintește de numeroasele naufragii din golf. Istoric, locația este legată de moartea guvernatorului olandez Pieter Both în 1615, în urma unui naufragiu. Astăzi, regiunea combină zonele industriale cu cartierele rezidențiale și facilitățile turistice.",
+      en: "Baie du Tombeau is a coastal village north of Port Louis, named after the numerous shipwrecks that occurred in its bay. Historically, it is linked to the 1615 shipwreck involving Dutch Governor Pieter Both, who perished here. Today, the area blends industrial zones with residential neighborhoods and tourist facilities along the Indian Ocean.",
+    },
+    factsAdvanced: {
+      de: ["Der Name bedeutet übersetzt Grabesbucht", "Pieter Both verstarb hier bei einem Sturm im Jahr 1615", "Liegt im Distrikt Pamplemousses an der Westküste", "Einwohnerzahl beträgt etwa 13.000 Personen", "Beherbergt einen wichtigen Fischereihafen der Region", "Küste erstreckt sich über etwa 3 Kilometer Länge"],
+      hu: ["A neve magyarul Sírok öblét jelent", "Pieter Both itt hunyt el egy viharban 1615-ben", "Pamplemousses körzetben, a nyugati parton fekszik", "Lakossága megközelítőleg 13 000 fő", "A régió egyik fontos halászkikötőjének ad otthont", "Partvonala körülbelül 3 kilométer hosszan húzódik"],
+      ro: ["Numele se traduce prin Golful Mormântului", "Pieter Both a murit aici în timpul unei furtuni în 1615", "Situat în districtul Pamplemousses, pe coasta de vest", "Populația numără aproximativ 13.000 de locuitori", "Găzduiește un port pescăresc important pentru regiune", "Linia de coastă se întinde pe aproximativ 3 kilometri"],
+      en: ["The name translates to Tomb Bay in English", "Pieter Both died here during a storm in 1615", "Located in the Pamplemousses District on the west coast", "Population consists of about 13,000 residents", "Home to a significant regional fishing port", "Coastal stretch extends for approximately 3 kilometers"],
+    },
   },
   {
     id: "mauritius-bambous-cities-v2",
@@ -266,6 +422,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Seat of the District Council", "Major sports venue (stadium)", "Close to Flic en Flac beach", "Hub for local services"],
     },
     imageHint: "District council building in Bambous Mauritius",
+    descriptionAdvanced: {
+      de: "Bambous ist das administrative Zentrum des Distrikts Black River und liegt an der Westküste von Mauritius. Der Ort dient als wichtiger regionaler Dienstleistungs- und Verkehrsknotenpunkt für die umliegenden Küstengemeinden. Bekannt ist Bambous vor allem für seine modernen Sportanlagen, die regelmäßig nationale Leichtathletik-Wettbewerbe beherbergen.",
+      hu: "Bambous a Black River körzet adminisztratív központja, Mauritius nyugati partvidékén. A település fontos regionális szolgáltató és közlekedési csomópontként funkcionál a környező tengerparti közösségek számára. Bambous legismertebb létesítménye a modern sportstadion, amely rendszeresen ad otthont nemzeti atlétikai versenyeknek.",
+      ro: "Bambous este centrul administrativ al districtului Black River, situat pe coasta de vest a Mauritiusului. Localitatea servește ca un important nod regional de servicii și transport pentru comunitățile de coastă învecinate. Bambous este cunoscut în special pentru facilitățile sale sportive moderne, care găzduiesc regulat competiții naționale.",
+      en: "Bambous is the administrative center of the Black River District, located on the western coast of Mauritius. The town serves as a vital regional service and transport hub for the surrounding coastal communities. Bambous is primarily known for its modern sporting facilities, which regularly host national athletics competitions.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Distriktsrats von Black River", "Beherbergt das Germain Comarmond Stadion", "Einwohnerzahl liegt bei circa 15.000 Personen", "Liegt etwa 15 Kilometer südlich von Port Louis", "Wichtiges Zentrum für Textilindustrie im Westen", "Höhenlage beträgt etwa 80 Meter über dem Meer"],
+      hu: ["A Black River Körzeti Tanács székhelye", "Itt található a Germain Comarmond Stadion", "Lakossága körülbelül 15 000 fő", "Port Louis-tól 15 kilométerre délre fekszik", "A nyugati régió textiliparának fontos központja", "Tengerszint feletti magassága 80 méter körüli"],
+      ro: ["Sediul Consiliului Districtual din Black River", "Găzduiește stadionul Germain Comarmond", "Populația este de aproximativ 15.000 de locuitori", "Situat la 15 kilometri sud de Port Louis", "Centru important pentru industria textilă în vest", "Altitudinea este de circa 80 de metri deasupra mării"],
+      en: ["Seat of the Black River District Council", "Home to the Germain Comarmond Stadium", "Population is approximately 15,000 residents", "Located 15 kilometers south of Port Louis", "Important hub for the textile industry in the west", "Elevation is about 80 meters above sea level"],
+    },
   },
   {
     id: "mauritius-rose-belle-cities-v2",
@@ -285,6 +453,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Site of the J. Nehru Hospital", "Former major railway junction", "Features a large shopping mall", "Population exceeds 12,000"],
     },
     imageHint: "Main road through Rose Belle Mauritius",
+    descriptionAdvanced: {
+      de: "Rose Belle ist eine strategisch wichtige Ortschaft im Distrikt Grand Port, die als Knotenpunkt für den Verkehr im Süden der Insel dient. Die Geschichte des Ortes ist eng mit der Zuckerindustrie und der Rose Belle Sugar Estate verbunden. Heute beherbergt die Gemeinde wichtige öffentliche Einrichtungen, darunter das Jawaharlal Nehru Krankenhaus, das die südliche Region versorgt.",
+      hu: "Rose Belle stratégiai fontosságú település Grand Port körzetében, amely a sziget déli közlekedésének fő csomópontja. A falu története szorosan összefonódott a cukoriparral és a Rose Belle cukornádültetvénnyel. Napjainkban fontos közintézményeknek ad otthont, köztük a Jawaharlal Nehru Kórháznak, amely a déli régiót szolgálja ki.",
+      ro: "Rose Belle este o localitate de importanță strategică în districtul Grand Port, servind ca nod principal de transport în sudul insulei. Istoria satului este strâns legată de industria zahărului și de domeniul Rose Belle Sugar Estate. Astăzi, comunitatea găzduiește instituții publice esențiale, inclusiv spitalul Jawaharlal Nehru.",
+      en: "Rose Belle is a strategically important locality in the Grand Port District, serving as a primary transport hub for the south of the island. The village's history is closely tied to the sugar industry and the Rose Belle Sugar Estate. Today, it hosts essential public institutions, including the Jawaharlal Nehru Hospital, which serves the southern region.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Distrikt Grand Port im Südosten", "Einwohnerzahl beträgt etwa 12.000 Personen", "Sitz des regionalen Jawaharlal Nehru Krankenhauses", "Historisches Zentrum der Rose Belle Sugar Estate", "Nur 5 Kilometer vom internationalen Flughafen entfernt", "Wichtiger Eisenbahnknotenpunkt bis zur Stilllegung 1964"],
+      hu: ["A délkeleti Grand Port körzetben található", "Lakossága hozzávetőlegesen 12 000 fő", "A regionális Jawaharlal Nehru Kórház székhelye", "A Rose Belle cukorbirtok történelmi központja", "Csupán 5 kilométerre fekszik a nemzetközi repülőtértől", "Fontos vasúti csomópont volt az 1964-es leállásig"],
+      ro: ["Situat în districtul Grand Port, în sud-est", "Populația este de aproximativ 12.000 de locuitori", "Găzduiește spitalul regional Jawaharlal Nehru", "Centrul istoric al domeniului Rose Belle Sugar Estate", "Aflat la doar 5 kilometri de aeroportul internațional", "Fost nod feroviar important până în anul 1964"],
+      en: ["Located in the Grand Port District in the southeast", "Population is approximately 12,000 residents", "Home to the regional Jawaharlal Nehru Hospital", "Historical center of the Rose Belle Sugar Estate", "Just 5 kilometers away from the international airport", "Was a major railway junction until closure in 1964"],
+    },
   },
   {
     id: "mauritius-chemin-grenier-cities-v2",
@@ -304,6 +484,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Key village in Savanne district", "Known for its bustling market", "Agricultural supply center", "Population approx. 12,000 residents"],
     },
     imageHint: "Market area in Chemin Grenier Mauritius",
+    descriptionAdvanced: {
+      de: "Chemin Grenier ist das größte Handelszentrum im Distrikt Savanne und liegt im malerischen Süden von Mauritius. Der Ort ist bekannt für seinen lebhaften Wochenmarkt und seine Rolle als Versorgungspunkt für die umliegenden Fischerdörfer. Die Umgebung ist geprägt von üppiger Vegetation und der Nähe zu den spektakulären Klippen der Südküste.",
+      hu: "Chemin Grenier Savanne körzet legnagyobb kereskedelmi központja, Mauritius festői déli részén. A település híres élénk heti piacáról és a környező halászfalvak ellátásában betöltött szerepéről. A környéket buja vegetáció és a déli partvidék látványos szikláinak közelsége jellemzi.",
+      ro: "Chemin Grenier este cel mai mare centru comercial din districtul Savanne, situat în sudul pitoresc al Mauritiusului. Localitatea este renumită pentru piața sa săptămânală plină de viață și pentru rolul de punct de aprovizionare pentru satele pescărești din jur. Împrejurimile sunt marcate de vegetație luxuriantă și de faleza spectaculoasă a coastei de sud.",
+      en: "Chemin Grenier is the largest commercial center in the Savanne District, located in the scenic south of Mauritius. The town is famous for its vibrant weekly market and its role as a supply point for surrounding fishing villages. The surrounding area is characterized by lush vegetation and proximity to the spectacular cliffs of the southern coast.",
+    },
+    factsAdvanced: {
+      de: ["Größte Ortschaft im Distrikt Savanne", "Der Name bedeutet übersetzt Speicher-Pfad", "Einwohnerzahl liegt bei ca. 12.000 Personen", "Wichtiges Zentrum für den lokalen Kartoffelanbau", "Liegt nahe dem Aussichtspunkt Macondé", "Bekannt für die Galets-Strände in der Nähe"],
+      hu: ["Savanne körzet legnagyobb települése", "A neve magyarul Magtár-utat jelent", "Lakossága körülbelül 12 000 fő", "A helyi burgonyatermesztés fontos központja", "A Macondé kilátópont közelében fekszik", "A közeli Galets-partokról is nevezetes"],
+      ro: ["Cea mai mare localitate din districtul Savanne", "Numele se traduce prin Calea Grânarului", "Populația este de circa 12.000 de locuitori", "Centru important pentru cultivarea cartofilor", "Situat în apropierea punctului de belvedere Macondé", "Cunoscut pentru plajele cu pietriș din proximitate"],
+      en: ["Largest settlement in the Savanne District", "The name translates to Granary Path in English", "Population is estimated at 12,000 residents", "Major hub for local potato cultivation", "Located near the famous Macondé viewpoint", "Known for the nearby Galets (pebble) beaches"],
+    },
   },
   {
     id: "mauritius-riviere-du-rempart-cities-v2",
@@ -323,6 +515,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Seat of the District Council", "Population over 11,000 residents", "Major sugar cane cultivation area", "Contains historic colonial buildings"],
     },
     imageHint: "Colonial era architecture in Rivière du Rempart",
+    descriptionAdvanced: {
+      de: "Rivière du Rempart ist das administrative Zentrum des gleichnamigen Distrikts im Nordosten der Insel. Die Ortschaft blickt auf eine lange Tradition in der Zucker- und Textilproduktion zurück und beherbergt den Sitz des Distriktsrats. Als regionaler Mittelpunkt bietet sie wichtige Bildungs- und Gesundheitseinrichtungen für die ländliche Bevölkerung der Region.",
+      hu: "Rivière du Rempart az azonos nevű északkeleti körzet adminisztratív központja. A település hosszú hagyományokkal rendelkezik a cukor- és textilgyártás területén, és itt található a Körzeti Tanács székhelye is. Regionális központként fontos oktatási és egészségügyi intézményeket biztosít a környék vidéki lakossága számára.",
+      ro: "Rivière du Rempart este centrul administrativ al districtului cu același nume din nord-estul insulei. Localitatea are o lungă tradiție în producția de zahăr și textile, găzduind sediul Consiliului Districtual. Ca centru regional, oferă facilități educaționale și de sănătate esențiale pentru populația rurală din zonă.",
+      en: "Rivière du Rempart is the administrative center of the district of the same name in the northeast of the island. The town has a long tradition in sugar and textile production and hosts the seat of the District Council. As a regional hub, it provides essential educational and health facilities for the rural population of the area.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Distriktsrats von Rivière du Rempart", "Liegt etwa 20 Kilometer nordöstlich von Port Louis", "Einwohnerzahl beträgt circa 11.000 Personen", "Wichtiges Zentrum der mauritischen Textilindustrie", "Benannt nach dem naheliegenden Fluss Rempart", "Klima ist feuchter als an der Westküste"],
+      hu: ["A Rivière du Rempart Körzeti Tanács székhelye", "Port Louis-tól 20 kilométerre északkeletre fekszik", "Lakossága hozzávetőlegesen 11 000 fő", "A mauritiusi textilipar egyik kulcsfontosságú városa", "A közeli Rempart-folyóról kapta a nevét", "Éghajlata nedvesebb, mint a nyugati partvidéké"],
+      ro: ["Sediul Consiliului Districtual din Rivière du Rempart", "Situat la 20 de kilometri nord-est de Port Louis", "Populația numără aproximativ 11.000 de locuitori", "Centru vital al industriei textile din Mauritius", "Numit după râul Rempart care curge în apropiere", "Climatul este mai umed decât pe coasta de vest"],
+      en: ["Seat of the Rivière du Rempart District Council", "Located 20 kilometers northeast of Port Louis", "Population is approximately 11,000 residents", "A vital center for the Mauritian textile industry", "Named after the nearby Rempart River", "The climate is more humid than on the west coast"],
+    },
   },
   {
     id: "mauritius-grand-baie-cities-v2",
@@ -342,6 +546,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Primary seaside resort on the island", "Hub for water sports activities", "Numerous luxury hotels nearby", "Features a large yacht marina"],
     },
     imageHint: "Grand Baie turquoise water and boats",
+    descriptionAdvanced: {
+      de: "Grand Baie ist das führende Touristenzentrum im Norden von Mauritius, bekannt für seine geschützte Bucht und das lebhafte Nachtleben. Historisch war der Ort 1810 der Landungspunkt der britischen Truppen während der Invasion der Insel. Heute ist Grand Baie ein Zentrum für Wassersport, Segeln und gehobene Gastronomie in der indopazifischen Region.",
+      hu: "Grand Baie Mauritius legfontosabb turisztikai központja az északi részen, amely védett öbléről és pezsgő éjszakai életéről híres. Történelmileg ez volt a brit csapatok partraszállási helye 1810-ben az invázió során. Napjainkban a vízi sportok, a vitorlázás és a színvonalas gasztronómia központja az indopacifikus térségben.",
+      ro: "Grand Baie este principalul centru turistic din nordul Mauritiusului, cunoscut pentru golful său adăpostit și viața de noapte vibrantă. Istoric, locația a fost punctul de debarcare al trupelor britanice în timpul invaziei din 1810. Astăzi, Grand Baie este un hub pentru sporturi nautice, navigație și gastronomie rafinată.",
+      en: "Grand Baie is the premier tourist destination in northern Mauritius, renowned for its sheltered bay and vibrant nightlife. Historically, it was the landing site for British troops during the 1810 invasion of the island. Today, Grand Baie serves as a hub for water sports, sailing, and high-end dining in the Indo-Pacific region.",
+    },
+    factsAdvanced: {
+      de: ["Erstes Dorf der Insel mit massivem Tourismus-Ausbau", "Landungspunkt der Briten im November 1810", "Einwohnerzahl beträgt etwa 12.000 Personen", "Beherbergt das größte Einkaufszentrum im Norden", "Wichtigster Yachthafen im nördlichen Mauritius", "Gehört zum Distrikt Rivière du Rempart"],
+      hu: ["A sziget első faluja, ahol tömeges turizmus indult", "A britek partraszállási helye 1810 novemberében", "Lakossága körülbelül 12 000 fő", "Itt található az északi rész legnagyobb bevásárlóközpontja", "Észak-Mauritius legfontosabb jachtkikötője", "Rivière du Rempart körzetéhez tartozik"],
+      ro: ["Primul sat de pe insulă care a dezvoltat turismul de masă", "Locul debarcării britanicilor în noiembrie 1810", "Populația este de aproximativ 12.000 de locuitori", "Găzduiește cel mai mare mall din nordul insulei", "Cel mai important port de agrement din nord", "Face parte din districtul Rivière du Rempart"],
+      en: ["The first village on the island to see massive tourism", "Landing site for the British in November 1810", "Population is approximately 12,000 residents", "Home to the largest shopping mall in the north", "Most important yacht marina in northern Mauritius", "Part of the Rivière du Rempart District"],
+    },
   },
   {
     id: "mauritius-plaine-magnien-cities-v2",
@@ -361,6 +577,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Home to SSR International Airport", "Economically tied to airport services", "Excellent highway connectivity", "Population approx. 10,000 residents"],
     },
     imageHint: "Plaine Magnien village near the airport",
+    descriptionAdvanced: {
+      de: "Plaine Magnien ist eine strategisch bedeutsame Ortschaft im Distrikt Grand Port, da sie den internationalen Flughafen Sir Seewoosagur Ramgoolam beherbergt. Die Entwicklung des Dorfes ist eng mit dem Luftverkehr und der ehemaligen Zuckerindustrie der Region Mon Trésor verbunden. Als Einfallstor zur Insel ist der Ort ein vitaler Punkt für Logistik und Transport.",
+      hu: "Plaine Magnien stratégiai jelentőségű település Grand Port körzetében, mivel itt található a Sir Seewoosagur Ramgoolam nemzetközi repülőtér. A falu fejlődése szorosan kötődik a légiközlekedéshez és a régió korábbi Mon Trésor cukoriparához. A sziget kapujaként a település a logisztika és a szállítás létfontosságú pontja.",
+      ro: "Plaine Magnien este o localitate de importanță strategică în districtul Grand Port, găzduind aeroportul internațional Sir Seewoosagur Ramgoolam. Dezvoltarea satului este strâns legată de traficul aerian și de fosta industrie a zahărului din regiunea Mon Trésor. Fiind poarta de intrare pe insulă, este un punct vital pentru logistică.",
+      en: "Plaine Magnien is a strategically significant locality in the Grand Port District, as it hosts the Sir Seewoosagur Ramgoolam International Airport. The village's development is closely linked to aviation and the region's former Mon Trésor sugar industry. As the gateway to the island, it is a vital point for logistics and transport.",
+    },
+    factsAdvanced: {
+      de: ["Standort des einzigen internationalen Flughafens der Insel", "Liegt im Distrikt Grand Port im Südosten", "Einwohnerzahl beträgt circa 10.000 Personen", "Benannt nach einem französischen Siedler des 18. Jahrhunderts", "Wichtiger Knotenpunkt der Autobahn M1", "Beherbergt große Logistikzentren für Luftfracht"],
+      hu: ["A sziget egyetlen nemzetközi repülőterének helyszíne", "A délkeleti Grand Port körzetben található", "Lakossága hozzávetőlegesen 10 000 fő", "Egy 18. századi francia telepesről kapta a nevét", "Az M1-es autópálya egyik fontos csomópontja", "Nagy légifuvarozási logisztikai központoknak ad otthont"],
+      ro: ["Locația singurului aeroport internațional de pe insulă", "Situat în districtul Grand Port, în sud-est", "Populația este de aproximativ 10.000 de locuitori", "Numit după un colonist francez din secolul al XVIII-lea", "Nod important al autostrăzii M1", "Găzduiește centre logistice mari pentru marfă aeriană"],
+      en: ["Site of the island's only international airport", "Located in the Grand Port District in the southeast", "Population is approximately 10,000 residents", "Named after an 18th-century French colonist", "Major junction of the M1 motorway", "Home to large air cargo logistics centers"],
+    },
   },
   {
     id: "mauritius-pailles-cities-v2",
@@ -380,6 +608,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Home to Domaine Les Pailles", "Major industrial and office zone", "Located near the M1 highway", "Known for international convention centers"],
     },
     imageHint: "Domaine Les Pailles entrance Mauritius",
+    descriptionAdvanced: {
+      de: "Pailles ist ein bedeutender Vorort südlich von Port Louis im Distrikt Moka, der für seine industrielle Dynamik und Konferenzzentren bekannt ist. Der Ort beherbergt das Swami Vivekananda International Convention Centre, das wichtigste Veranstaltungszentrum für internationale Gipfeltreffen. Zudem ist Pailles Standort zahlreicher Showrooms und regionaler Firmensitze.",
+      hu: "Pailles Port Louis déli részén, Moka körzetben található fontos külváros, amely ipari dinamizmusáról és konferenciaközpontjairól ismert. Itt található a Swami Vivekananda Nemzetközi Konferencia Központ, amely a sziget legfontosabb helyszíne nemzetközi találkozók számára. Pailles számos bemutatóteremnek és regionális cégközpontnak is otthont ad.",
+      ro: "Pailles este o suburbie importantă la sud de Port Louis, în districtul Moka, cunoscută pentru dinamismul industrial și centrele de conferințe. Localitatea găzduiește Centrul Internațional de Convenții Swami Vivekananda, cea mai importantă locație pentru summit-uri internaționale. De asemenea, Pailles este sediul a numeroase showroom-uri.",
+      en: "Pailles is a major suburb south of Port Louis in the Moka District, known for its industrial dynamism and convention centers. The area hosts the Swami Vivekananda International Convention Centre, the island's primary venue for international summits. Additionally, Pailles is a site for numerous showrooms and regional corporate headquarters.",
+    },
+    factsAdvanced: {
+      de: ["Liegt nur etwa 3 Kilometer südlich von Port Louis", "Beherbergt das SVICC Konferenzzentrum", "Einwohnerzahl liegt bei ca. 11.000 Personen", "Standort des Themenparks Domaine Les Pailles", "Wichtiges Industrie- und Handelsviertel der Moka-Region", "Gute Anbindung an die Autobahnen M1 und M2"],
+      hu: ["Mindössze 3 kilométerre délre fekszik Port Louis-tól", "Itt található az SVICC konferenciaközpont", "Lakossága körülbelül 11 000 fő", "A Domaine Les Pailles kulturális park helyszíne", "Moka régió fontos ipari és kereskedelmi negyede", "Kiváló kapcsolat az M1-es és M2-es autópályákhoz"],
+      ro: ["Situat la doar 3 kilometri sud de Port Louis", "Găzduiește centrul de conferințe SVICC", "Populația numără aproximativ 11.000 de locuitori", "Locația parcului tematic Domaine Les Pailles", "District industrial și comercial major în regiunea Moka", "Acces facil către autostrăzile M1 și M2"],
+      en: ["Located only about 3 kilometers south of Port Louis", "Home to the SVICC International Convention Centre", "Population is estimated at 11,000 residents", "Site of the Domaine Les Pailles cultural park", "Major industrial and commercial district in Moka region", "Excellent connectivity to M1 and M2 motorways"],
+    },
   },
   {
     id: "mauritius-surinam-cities-v2",
@@ -399,6 +639,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population approx. 10,000 residents", "Near the scenic Gris Gris beach", "Traditionally agricultural village", "Popular residential area in the south"],
     },
     imageHint: "Coastal road in Surinam Mauritius",
+    descriptionAdvanced: {
+      de: "Surinam ist ein ausgedehntes Dorf im Distrikt Savanne, das sich entlang der malerischen Südküste von Mauritius erstreckt. Die Ortschaft zeichnet sich durch ihre kulturelle Vielfalt und die Nähe zu bedeutenden Naturattraktionen wie den Rochester Falls aus. Surinam dient als wichtiges Wohn- und Handelszentrum für die landwirtschaftlich geprägte südliche Region.",
+      hu: "Surinam egy kiterjedt falu Savanne körzetben, amely Mauritius festői déli partvidéke mentén húzódik. A települést kulturális sokszínűség és olyan jelentős természeti látnivalók közelsége jellemzi, mint a Rochester-vízesés. Surinam fontos lakó- és kereskedelmi központként szolgál a mezőgazdasági jellegű déli régió számára.",
+      ro: "Surinam este un sat extins în districtul Savanne, situat de-a lungul coastei de sud pitorești a Mauritiusului. Localitatea se distinge prin diversitatea sa culturală și proximitatea față de atracții naturale majore, precum Cascada Rochester. Surinam servește ca un important centru rezidențial și comercial pentru regiunea sudică.",
+      en: "Surinam is an extensive village in the Savanne District, stretching along the scenic southern coast of Mauritius. The locality is characterized by its cultural diversity and proximity to major natural attractions such as Rochester Falls. Surinam serves as an important residential and commercial hub for the agriculturally oriented southern region.",
+    },
+    factsAdvanced: {
+      de: ["Gehört administrativ zum Distrikt Savanne", "Einwohnerzahl beträgt etwa 10.000 Personen", "Liegt in unmittelbarer Nähe zum Riambel Strand", "Tor zu den Rochester Falls im Landesinneren", "Klima ist durch die Südostpassatwinde geprägt", "Wirtschaft basiert teils auf Fischerei und Landwirtschaft"],
+      hu: ["Közigazgatásilag Savanne körzetéhez tartozik", "Lakossága hozzávetőlegesen 10 000 fő", "A Riambel-tengerpart közvetlen közelében fekszik", "A szárazföld belsejében lévő Rochester-vízesés kapuja", "Éghajlatát a délkeleti passzátszelek határozzák meg", "Gazdasága részben a halászaton és mezőgazdaságon alapul"],
+      ro: ["Aparține administrativ de districtul Savanne", "Populația este de aproximativ 10.000 de locuitori", "Situat în imediata apropiere a plajei Riambel", "Poartă de acces către Cascada Rochester din interior", "Climatul este influențat de vânturile alizee de sud-est", "Economia se bazează parțial pe pescuit și agricultură"],
+      en: ["Administratively part of the Savanne District", "Population is approximately 10,000 residents", "Located in close proximity to Riambel beach", "Gateway to the inland Rochester Falls", "Climate is shaped by the southeast trade winds", "Economy is partly based on fishing and agriculture"],
+    },
   },
   {
     id: "mauritius-lallmatie-cities-v2",
@@ -418,6 +670,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population exceeds 10,000 people", "Known for vegetable production", "Strong Indian cultural influences", "Host to a significant local market"],
     },
     imageHint: "Vegetable fields in Lallmatie Mauritius",
+    descriptionAdvanced: {
+      de: "Lallmatie ist eines der größten Dörfer im Distrikt Flacq im Osten der Insel und bekannt für seine weiten Zuckerrohrfelder. Der Name leitet sich aus dem Bhojpuri ab und bedeutet rote Erde, was auf die fruchtbaren vulkanischen Böden der Region anspielt. Heute ist der Ort ein lebhaftes Zentrum des lokalen Handels und ein wichtiger Wohnort für die östliche Region.",
+      hu: "Lallmatie Flacq körzet egyik legnagyobb faluja a sziget keleti részén, amely kiterjedt cukornádültetvényeiről ismert. A név a bhodzspuri nyelvből származik, jelentése vörös föld, utalva a régió termékeny vulkáni talajára. Napjainkban a település a helyi kereskedelem élénk központja és a keleti régió fontos lakóhelye.",
+      ro: "Lallmatie este unul dintre cele mai mari sate din districtul Flacq, situat în estul insulei, cunoscut pentru câmpurile sale vaste de trestie de zahăr. Numele derivă din Bhojpuri și înseamnă pământ roșu, referindu-se la solurile vulcanice fertile ale regiunii. Astăzi, localitatea este un centru plin de viață al comerțului local.",
+      en: "Lallmatie is one of the largest villages in the Flacq District in the east of the island, known for its vast sugarcane fields. The name is derived from Bhojpuri and means red earth, referring to the region's fertile volcanic soils. Today, the town is a bustling center for local commerce and a significant residential site for the eastern region.",
+    },
+    factsAdvanced: {
+      de: ["Größte Siedlung im Distrikt Flacq nach dem Hauptort", "Name bedeutet Rote Erde auf Bhojpuri", "Einwohnerzahl liegt bei circa 10.000 Personen", "Zentrum des indisch geprägten ländlichen Mauritius", "Wirtschaftlich stark vom Zuckerrohranbau abhängig", "Beherbergt mehrere große Hindu-Tempelanlagen"],
+      hu: ["Flacq körzet legnagyobb települése a székhely után", "A név jelentése vörös föld bhodzspuri nyelven", "Lakossága körülbelül 10 000 fő", "Az indiai jellegű vidéki Mauritius egyik központja", "Gazdaságilag erősen függ a cukornádtermesztéstől", "Több nagy hindu templomkomplexumnak ad otthont"],
+      ro: ["Cea mai mare așezare din districtul Flacq după reședință", "Numele înseamnă Pământ Roșu în limba Bhojpuri", "Populația numără aproximativ 10.000 de locuitori", "Centru al Mauritiusului rural cu influențe indiene", "Dependent economic de cultivarea trestiei de zahăr", "Găzduiește mai multe complexe mari de temple hindu"],
+      en: ["Largest settlement in Flacq District after the capital", "Name translates to Red Earth in Bhojpuri", "Population is approximately 10,000 residents", "A hub of Indian-influenced rural Mauritius", "Economically heavily dependent on sugarcane farming", "Home to several large Hindu temple complexes"],
+    },
   },
   {
     id: "mauritius-new-grove-cities-v2",
@@ -437,6 +701,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population approx. 10,000 residents", "Located near Rose Belle", "Regional hub for artisan crafts", "Surrounded by sugar cane fields"],
     },
     imageHint: "Residential street in New Grove Mauritius",
+    descriptionAdvanced: {
+      de: "New Grove ist ein bedeutendes Dorf im Distrikt Grand Port, das sich zwischen den Zentren Rose Belle und Mare d'Albert erstreckt. Die Ortschaft ist Teil des historischen Zuckerrohrgürtels im Südosten und hat sich zu einem beliebten Wohngebiet entwickelt. Durch die Nähe zur M1 Autobahn bietet New Grove eine hervorragende Anbindung an die Hauptstadt und den Flughafen.",
+      hu: "New Grove jelentős falu Grand Port körzetében, amely Rose Belle és Mare d'Albert központjai között terül el. A település a délkeleti történelmi cukornád-öv része, és kedvelt lakóövezetté fejlődött. Az M1-es autópálya közelsége révén New Grove kiváló összeköttetést biztosít a fővároshoz és a repülőtérhez is.",
+      ro: "New Grove este un sat important în districtul Grand Port, situat între centrele Rose Belle și Mare d'Albert. Localitatea face parte din centura istorică a trestiei de zahăr din sud-est și s-a dezvoltat ca o zonă rezidențială populară. Datorită proximității față de autostrada M1, oferă conexiuni excelente către capitală și aeroport.",
+      en: "New Grove is a significant village in the Grand Port District, situated between the centers of Rose Belle and Mare d'Albert. The locality is part of the historical southeastern sugarcane belt and has developed into a popular residential area. Due to its proximity to the M1 motorway, New Grove offers excellent connectivity to the capital and the airport.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Distrikt Grand Port im Südosten", "Einwohnerzahl beträgt etwa 10.000 Personen", "Wichtiges Wohngebiet für Flughafenangestellte", "Einst Teil der Mon Trésor Zuckerplantage", "Höhenlage liegt bei ca. 120 Meter über dem Meer", "Direkte Anbindung an die M1 Autobahn"],
+      hu: ["A délkeleti Grand Port körzetben található", "Lakossága hozzávetőlegesen 10 000 fő", "A repülőtéri dolgozók fontos lakóövezete", "Egykor a Mon Trésor cukornádültetvény része volt", "Tengerszint feletti magassága 120 méter körüli", "Közvetlen kapcsolata van az M1-es autópályával"],
+      ro: ["Situat în districtul Grand Port, în sud-est", "Populația este de aproximativ 10.000 de locuitori", "Zonă rezidențială importantă pentru angajații aeroportului", "Fostă parte a plantației de zahăr Mon Trésor", "Altitudinea este de circa 120 de metri peste nivelul mării", "Acces direct la autostrada M1"],
+      en: ["Located in the Grand Port District in the southeast", "Population is approximately 10,000 residents", "Major residential area for airport employees", "Once part of the Mon Trésor sugar plantation", "Elevation is about 120 meters above sea level", "Provides direct access to the M1 motorway"],
+    },
   },
   {
     id: "mauritius-riviere-des-anguilles-cities-v2",
@@ -456,6 +732,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Home to La Vanille Nature Park", "Historic sugar mill nearby", "Famous for its old stone bridge", "Population approx. 9,000 residents"],
     },
     imageHint: "Stone bridge in Rivière des Anguilles",
+    descriptionAdvanced: {
+      de: "Rivière des Anguilles ist ein malerisches Dorf im Distrikt Savanne, das nach den Aalen im nahegelegenen Fluss benannt wurde. Die Ortschaft ist bekannt für ihre unberührte Natur, spektakuläre Klippenformationen und die historischen Zuckerplantagen in der Umgebung. Heute dient sie als wichtiger Verwaltungssitz und Ausgangspunkt für den Naturtourismus im Süden.",
+      hu: "Rivière des Anguilles egy festői falu Savanne körzetben, amely a közeli folyóban élő angolnákról kapta a nevét. A település híres érintetlen természetéről, látványos sziklaalakzatairól és a környék történelmi cukorbirtokairól. Napjainkban fontos adminisztratív székhelyként és a déli ökoturizmus kiindulópontjaként szolgál.",
+      ro: "Rivière des Anguilles este un sat pitoresc în districtul Savanne, numit după anghilele din râul învecinat. Localitatea este renumită pentru natura sa virgină, formațiunile stâncoase spectaculoase și domeniile istorice de zahăr din jur. Astăzi, servește ca sediu administrativ important și punct de plecare pentru ecoturismul din sud.",
+      en: "Rivière des Anguilles is a picturesque village in the Savanne District, named after the eels found in the nearby river. The locality is famous for its untouched nature, spectacular cliff formations, and historical sugar estates in the vicinity. Today, it serves as an important administrative seat and a starting point for eco-tourism in the south.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Distriktsrats von Savanne", "Name bedeutet übersetzt Fluss der Aale", "Einwohnerzahl liegt bei ca. 9.000 Personen", "Beherbergt die berühmte Drachenbrücke (Pont Dragon)", "Nähe zum Naturschutzgebiet La Vanille Nature Park", "Wichtiges Zentrum der historischen Zuckerindustrie"],
+      hu: ["A Savanne Körzeti Tanács székhelye", "A név magyar jelentése Angolnák folyója", "Lakossága körülbelül 9 000 fő", "Itt található a híres Sárkány-híd (Pont Dragon)", "A La Vanille Natúrpark természetvédelmi terület közelében", "A történelmi cukoripar egyik fontos központja"],
+      ro: ["Sediul Consiliului Districtual din Savanne", "Numele se traduce prin Râul Anghilelor", "Populația numără aproximativ 9.000 de locuitori", "Găzduiește faimosul Pod al Dragonului (Pont Dragon)", "Aproape de rezervația naturală La Vanille Nature Park", "Centru important al industriei istorice a zahărului"],
+      en: ["Seat of the Savanne District Council", "The name translates to River of Eels in English", "Population is estimated at 9,000 residents", "Home to the famous Dragon Bridge (Pont Dragon)", "Proximity to the La Vanille Nature Park reserve", "An important center of the historical sugar industry"],
+    },
   },
   {
     id: "mauritius-terre-rouge-town-cities-v2",
@@ -475,6 +763,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Strategic location north of Port Louis", "Major local market destination", "Residential hub for capital commuters", "Population over 10,000 residents"],
     },
     imageHint: "Main street in Terre Rouge Mauritius",
+    descriptionAdvanced: {
+      de: "Terre Rouge ist ein strategischer Knotenpunkt im Distrikt Pamplemousses und fungiert als wichtiges Tor zwischen Port Louis und den touristischen Regionen im Norden. Bekannt ist der Ort für seine charakteristische rote Erde und das nahegelegene Vogelschutzgebiet an der Küste. Durch seine Lage an der Autobahn M2 hat sich Terre Rouge zu einem dynamischen Handels- und Wohnstandort entwickelt.",
+      hu: "Terre Rouge stratégiai csomópont Pamplemousses körzetében, amely fontos kapuként szolgál Port Louis és az északi turisztikai régiók között. A település jellegzetes vörös földjéről és a közeli tengerparti madárrezervátumról ismert. Az M2-es autópálya menti fekvése révén Terre Rouge dinamikus kereskedelmi és lakóövezetté vált.",
+      ro: "Terre Rouge este un nod strategic în districtul Pamplemousses, funcționând ca o poartă importantă între Port Louis și regiunile turistice din nord. Localitatea este cunoscută pentru pământul său roșu caracteristic și rezervația de păsări din apropiere. Datorită locației pe autostrada M2, s-a dezvoltat ca un centru comercial și rezidențial.",
+      en: "Terre Rouge is a strategic hub in the Pamplemousses District, functioning as a vital gateway between Port Louis and the tourist regions of the north. The area is known for its characteristic red soil and the nearby coastal bird sanctuary. Its location along the M2 motorway has turned Terre Rouge into a dynamic commercial and residential site.",
+    },
+    factsAdvanced: {
+      de: ["Tor zu den nördlichen Küstenorten von Mauritius", "Name bedeutet wörtlich übersetzt Rote Erde", "Einwohnerzahl beträgt circa 11.000 Personen", "Beherbergt das Terre Rouge Vogelschutzgebiet", "Wichtiger Verkehrsknotenpunkt der M2 Autobahn", "Industriezone mit Fokus auf Baustoffe und Handel"],
+      hu: ["Mauritius északi tengerparti üdülőhelyeinek kapuja", "A név szó szerinti jelentése vörös föld", "Lakossága hozzávetőlegesen 11 000 fő", "Itt található a Terre Rouge Madárrezervátum", "Az M2-es autópálya kulcsfontosságú csomópontja", "Ipari zóna építőanyagokra és kereskedelemre fókuszálva"],
+      ro: ["Poarta către stațiunile de coastă din nordul insulei", "Numele se traduce literal prin Pământ Roșu", "Populația este de aproximativ 11.000 de locuitori", "Găzduiește rezervația de păsări Terre Rouge", "Nod rutier vital pe autostrada M2", "Zonă industrială axată pe materiale de construcții"],
+      en: ["Gateway to the northern coastal resorts of Mauritius", "The name literally translates to Red Earth in English", "Population is approximately 11,000 residents", "Home to the Terre Rouge Bird Sanctuary", "Key transport junction of the M2 motorway", "Industrial zone focusing on construction and trade"],
+    },
   },
   {
     id: "mauritius-petit-raffray-cities-v2",
@@ -494,6 +794,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population approx. 9,000 residents", "Located near Grand Baie", "Semi-agricultural residential area", "Strong local community ties"],
     },
     imageHint: "Village street in Petit Raffray Mauritius",
+    descriptionAdvanced: {
+      de: "Petit Raffray ist ein friedliches Dorf im Distrikt Rivière du Rempart im Norden von Mauritius. Die Ortschaft ist vorwiegend landwirtschaftlich geprägt und hat ihren ländlichen Charme trotz der Nähe zum touristischen Grand Baie weitgehend bewahrt. Die Gemeinschaft lebt primär vom Gemüseanbau und dient als ruhiges Wohngebiet für Beschäftigte in der umliegenden Tourismusindustrie.",
+      hu: "Petit Raffray egy békés falu Rivière du Rempart körzetében, Mauritius északi részén. A település túlnyomórészt mezőgazdasági jellegű, és nagyrészt megőrizte vidéki báját a közeli turisztikai központ, Grand Baie szomszédsága ellenére. A közösség elsősorban zöldségtermesztésből él, és nyugodt lakóhelyként szolgál az idegenforgalomban dolgozók számára.",
+      ro: "Petit Raffray este un sat liniștit în districtul Rivière du Rempart, situat în nordul Mauritiusului. Localitatea are un caracter predominant agricol și și-a păstrat farmecul rural în ciuda proximității față de centrul turistic Grand Baie. Comunitatea trăiește în principal din cultivarea legumelor, fiind o zonă rezidențială calmă.",
+      en: "Petit Raffray is a peaceful village in the Rivière du Rempart District in northern Mauritius. The locality is predominantly agricultural and has largely preserved its rural charm despite its proximity to the tourist hub of Grand Baie. The community lives primarily from vegetable farming and serves as a quiet residential area for tourism workers.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Norden im Distrikt Rivière du Rempart", "Einwohnerzahl liegt bei ca. 9.000 Personen", "Bekannt für den großflächigen Anbau von Gemüse", "Nur 10 Autominuten von Cap Malheureux entfernt", "Höhenlage beträgt etwa 60 Meter über dem Meer", "Relativ hohe Dichte an religiösen Kulturdenkmälern"],
+      hu: ["Az északi Rivière du Rempart körzetben található", "Lakossága körülbelül 9 000 fő", "Híres a nagyüzemi zöldségtermesztésről", "Csupán 10 percnyi autóútra fekszik Cap Malheureux-től", "Tengerszint feletti magassága 60 méter körüli", "Relatív sok vallási és kulturális emlékművel rendelkezik"],
+      ro: ["Situat în nordul districtului Rivière du Rempart", "Populația numără aproximativ 9.000 de locuitori", "Cunoscut pentru cultivarea pe scară largă a legumelor", "Aflat la doar 10 minute de mers cu mașina de Cap Malheureux", "Altitudinea este de circa 60 de metri peste nivelul mării", "Densitate relativ mare de monumente culturale religioase"],
+      en: ["Located in the northern Rivière du Rempart District", "Population is estimated at 9,000 residents", "Known for large-scale vegetable cultivation", "Just a 10-minute drive away from Cap Malheureux", "Elevation is about 60 meters above sea level", "Features a relatively high density of religious monuments"],
+    },
   },
   {
     id: "mauritius-pamplemousses-village-cities-v2",
@@ -513,6 +825,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Site of the St. Barnabé Church", "Founded by the French colonials", "Named after the pomelo fruit", "Population approx. 9,000 residents"],
     },
     imageHint: "Old stone church in Pamplemousses village",
+    descriptionAdvanced: {
+      de: "Pamplemousses ist ein bedeutendes Dorf im Norden von Mauritius, das vor allem für seinen botanischen Garten bekannt ist. Der Garten wurde 1770 von Pierre Poivre angelegt und gilt als einer der ältesten seiner Art in der südlichen Hemisphäre. Neben der Botanik beherbergt das Dorf historische Gebäude wie die Kirche St. François d'Assise, die im 18. Jahrhundert erbaut wurde.",
+      hu: "Pamplemousses egy jelentős falu Mauritius északi részén, amely elsősorban botanikus kertjéről ismert. A kertet 1770-ben alapította Pierre Poivre, és a déli félteke egyik legrégebbi ilyen létesítményének számít. A botanika mellett a falu olyan történelmi épületeknek ad otthont, mint a 18. században épült Szent Ferenc-templom.",
+      ro: "Pamplemousses este un sat important din nordul insulei Mauritius, cunoscut în special pentru grădina sa botanică. Grădina a fost înființată în 1770 de Pierre Poivre și este considerată una dintre cele mai vechi de acest tip din emisfera sudică. Pe lângă botanică, satul găzduiește clădiri istorice precum biserica St. François d'Assise, construită în secolul al XVIII-lea.",
+      en: "Pamplemousses is a significant village in northern Mauritius, primarily known for its botanical garden. The garden was established in 1770 by Pierre Poivre and is considered one of the oldest of its kind in the Southern Hemisphere. Besides botany, the village houses historical buildings such as the St. François d'Assise church, built in the 18th century.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Sir Seewoosagur Ramgoolam Botanical Garden.", "Die Kirche St. François d'Assise stammt aus dem Jahr 1756.", "Der Name stammt von der Zitrusfrucht Pompelmuse.", "Pierre Poivre führte hier im 18. Jahrhundert Gewürze ein.", "Das Dorf liegt etwa 11 Kilometer nordöstlich von Port Louis.", "Beherbergt das L'Aventure du Sucre Museum in einer alten Zuckerfabrik."],
+      hu: ["Itt található a Sir Seewoosagur Ramgoolam Botanikus Kert.", "A Szent Ferenc-templom 1756-ból származik.", "A név a pompelmusa nevű citrusfélétől ered.", "Pierre Poivre a 18. században honosította meg itt a fűszereket.", "A falu körülbelül 11 kilométerre északkeletre fekszik Port Louistól.", "Itt működik a L'Aventure du Sucre múzeum egy régi cukorgyárban."],
+      ro: ["Găzduiește Grădina Botanică Sir Seewoosagur Ramgoolam.", "Biserica St. François d'Assise datează din 1756.", "Numele provine de la fructul citric pamplemousses.", "Pierre Poivre a introdus condimente aici în secolul al XVIII-lea.", "Satul este situat la aproximativ 11 kilometri nord-est de Port Louis.", "Găzduiește muzeul L'Aventure du Sucre într-o fostă fabrică de zahăr."],
+      en: ["Home to the Sir Seewoosagur Ramgoolam Botanical Garden.", "The St. François d'Assise church dates back to 1756.", "The name is derived from the citrus fruit pamplemousses.", "Pierre Poivre introduced spices here in the 18th century.", "The village is located about 11 kilometers northeast of Port Louis.", "Houses the L'Aventure du Sucre museum in a former sugar factory."],
+    },
   },
   {
     id: "mauritius-montagne-blanche-cities-v2",
@@ -532,6 +856,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population approx. 9,000 residents", "Major sugar cane cultivation", "Cooler climate due to elevation", "Traditional village community"],
     },
     imageHint: "Village houses near Montagne Blanche mountain",
+    descriptionAdvanced: {
+      de: "Montagne Blanche ist ein Dorf im Osten von Mauritius, das an der Grenze zwischen den Distrikten Moka und Flacq liegt. Der Ort verdankt seinen Namen dem nahegelegenen Berg, der durch seine hellen Felsformationen auffällt. Die Wirtschaft der Region ist stark von der Landwirtschaft geprägt, wobei der Anbau von Zuckerrohr und Gemüse die Landschaft dominiert.",
+      hu: "Montagne Blanche egy falu Mauritius keleti részén, Moka és Flacq körzetek határán. A település a nevét a közeli hegyről kapta, amely világos sziklaformációival tűnik ki. A régió gazdaságát erősen meghatározza a mezőgazdaság, ahol a cukornád- és zöldségtermesztés dominálja a tájat.",
+      ro: "Montagne Blanche este un sat din estul insulei Mauritius, situat la granița dintre districtele Moka și Flacq. Localitatea își datorează numele muntelui din apropiere, care se remarcă prin formațiunile sale stâncoase deschise la culoare. Economia regiunii este puternic influențată de agricultură, cultivarea trestiei de zahăr și a legumelor dominând peisajul.",
+      en: "Montagne Blanche is a village in eastern Mauritius, situated on the border between the Moka and Flacq districts. The settlement owes its name to the nearby mountain, which stands out with its light-colored rock formations. The region's economy is strongly influenced by agriculture, with sugar cane and vegetable cultivation dominating the landscape.",
+    },
+    factsAdvanced: {
+      de: ["Liegt am Fuße des 532 Meter hohen Montagne Blanche Berges.", "Die Region erhält jährlich hohe Niederschlagsmengen.", "Wichtiger Verkehrsknotenpunkt zwischen dem Zentrum und der Ostküste.", "Das Dorf hat eine Bevölkerung von über 10.000 Einwohnern.", "Zuckerrohranbau ist die primäre wirtschaftliche Tätigkeit.", "Teil des Flacq Distrikt-Rats für die lokale Verwaltung."],
+      hu: ["Az 532 méter magas Montagne Blanche-hegy lábánál fekszik.", "A régió évente jelentős mennyiségű csapadékot kap.", "Fontos közlekedési csomópont a központ és a keleti part között.", "A falu lakossága meghaladja a 10 000 főt.", "A cukornádtermesztés az elsődleges gazdasági tevékenység.", "A helyi közigazgatásban a Flacq körzeti tanácshoz tartozik."],
+      ro: ["Situat la poalele muntelui Montagne Blanche, înalt de 532 de metri.", "Regiunea primește cantități mari de precipitații anual.", "Nod rutier important între centru și coasta de est.", "Satul are o populație de peste 10.000 de locuitori.", "Cultivarea trestiei de zahăr este principala activitate economică.", "Face parte din Consiliul Districtual Flacq pentru administrarea locală."],
+      en: ["Located at the foot of the 532-meter high Montagne Blanche mountain.", "The region receives high amounts of annual rainfall.", "Important road junction between the center and the east coast.", "The village has a population of over 10,000 inhabitants.", "Sugar cane cultivation is the primary economic activity.", "Part of the Flacq District Council for local administration."],
+    },
   },
   {
     id: "mauritius-grand-bois-cities-v2",
@@ -551,6 +887,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Elevation approx. 450 meters", "Population approx. 8,000 residents", "Close to Grand Bassin (Ganga Talao)", "Known for tea and vegetable gardens"],
     },
     imageHint: "Highland village landscape Grand Bois",
+    descriptionAdvanced: {
+      de: "Grand Bois ist ein malerisches Dorf im Distrikt Savanne im Süden von Mauritius. Die Siedlung liegt auf einer Anhöhe und ist von weiten Zuckerrohrfeldern und dichten Wäldern umgeben, was den Namen 'Großer Wald' erklärt. Es dient als lokales Handelszentrum für die umliegenden ländlichen Gemeinden und hat seinen traditionellen Charakter weitgehend bewahrt.",
+      hu: "Grand Bois egy festői falu Mauritius déli részén, Savanne körzetben. A település egy magaslaton fekszik, kiterjedt cukornádmezők és sűrű erdők veszik körül, ami megmagyarázza a 'Nagy Erdő' elnevezést. Kereskedelmi központként szolgál a környező vidéki közösségek számára, és nagyrészt megőrizte hagyományos jellegét.",
+      ro: "Grand Bois este un sat pitoresc din districtul Savanne, în sudul insulei Mauritius. Așezarea este situată pe o înălțime și este înconjurată de câmpuri vaste de trestie de zahăr și păduri dese, ceea ce explică numele de 'Pădurea Mare'. Servește ca centru comercial local pentru comunitățile rurale din jur și și-a păstrat în mare parte caracterul tradițional.",
+      en: "Grand Bois is a picturesque village in the Savanne district of southern Mauritius. The settlement is located on an elevation and is surrounded by vast sugar cane fields and dense forests, explaining the name 'Big Forest'. It serves as a local commercial center for the surrounding rural communities and has largely preserved its traditional character.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Hochland des Savanne Distrikts.", "Das Dorf ist für seine kühleren Temperaturen bekannt.", "Die Region ist ein Zentrum der lokalen Teeproduktion.", "In der Nähe befinden sich bedeutende Naturschutzgebiete.", "Grand Bois war historisch ein Stützpunkt für die Forstwirtschaft.", "Die Bevölkerung besteht überwiegend aus landwirtschaftlichen Arbeitern."],
+      hu: ["A Savanne körzet fennsíkján helyezkedik el.", "A falu a hűvösebb hőmérsékletéről ismert.", "A régió a helyi teatermelés egyik központja.", "A közelben jelentős természetvédelmi területek találhatók.", "Grand Bois történelmileg az erdőgazdálkodás egyik bázisa volt.", "A lakosság túlnyomórészt mezőgazdasági munkásokból áll."],
+      ro: ["Situat în zonele înalte ale districtului Savanne.", "Satul este cunoscut pentru temperaturile sale mai scăzute.", "Regiunea este un centru al producției locale de ceai.", "În apropiere se află rezervații naturale importante.", "Grand Bois a fost istoric o bază pentru silvicultură.", "Populația este formată predominant din lucrători agricoli."],
+      en: ["Located in the highlands of the Savanne district.", "The village is known for its cooler temperatures.", "The region is a center for local tea production.", "Significant nature reserves are located nearby.", "Grand Bois was historically a base for forestry operations.", "The population consists predominantly of agricultural workers."],
+    },
   },
   {
     id: "mauritius-riche-terre-village-cities-v2",
@@ -570,6 +918,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Direct connection to the port", "Home to many logistics firms", "Population approx. 7,000 residents", "Features a major shopping mall"],
     },
     imageHint: "Industrial and commercial park Riche Terre",
+    descriptionAdvanced: {
+      de: "Riche Terre liegt im Distrikt Pamplemousses, direkt nördlich der Hauptstadt Port Louis. Ursprünglich ein landwirtschaftlich genutztes Gebiet, hat sich der Ort zu einer wichtigen Industrie- und Handelszone entwickelt. Heute beherbergt Riche Terre moderne Einkaufszentren und Gewerbeparks, die von der strategischen Nähe zum Hafen profitieren.",
+      hu: "Riche Terre Pamplemousses körzetben található, közvetlenül a fővárostól, Port Louistól északra. Eredetileg mezőgazdasági terület volt, de a település mára fontos ipari és kereskedelmi zónává fejlődött. Ma Riche Terre modern bevásárlóközpontoknak és üzleti parkoknak ad otthont, amelyek profitálnak a kikötő közelségéből.",
+      ro: "Riche Terre este situat în districtul Pamplemousses, imediat la nord de capitala Port Louis. Inițial o zonă agricolă, localitatea s-a transformat într-o zonă industrială și comercială importantă. Astăzi, Riche Terre găzduiește centre comerciale moderne și parcuri industriale care beneficiază de proximitatea strategică față de port.",
+      en: "Riche Terre is located in the Pamplemousses district, just north of the capital Port Louis. Originally an agricultural area, the settlement has developed into an important industrial and commercial zone. Today, Riche Terre houses modern shopping malls and business parks that benefit from its strategic proximity to the port.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt die Riche Terre Mall, ein großes Einkaufszentrum.", "Liegt an der Autobahn M2, die den Norden mit dem Zentrum verbindet.", "Wichtiger Standort für Lagerhaltung und Logistikunternehmen.", "Früher Standort einer bedeutenden Zuckerrohrplantage.", "Das Dorf grenzt direkt an das Sumpfgebiet Terre Rouge.", "Die industrielle Entwicklung begann verstärkt in den 1990er Jahren."],
+      hu: ["Itt található a Riche Terre Mall, egy nagy bevásárlóközpont.", "Az északot a központtal összekötő M2-es autópálya mentén fekszik.", "A raktározási és logisztikai cégek fontos telephelye.", "Korábban egy jelentős cukornádültetvény helyszíne volt.", "A falu közvetlenül határos a Terre Rouge mocsaras területtel.", "Az ipari fejlődés az 1990-es években kezdett felgyorsulni."],
+      ro: ["Găzduiește Riche Terre Mall, un centru comercial major.", "Situat pe autostrada M2, care leagă nordul de centru.", "Locație importantă pentru depozitare și companii de logistică.", "Fostul amplasament al unei plantații de trestie de zahăr semnificative.", "Satul se învecinează direct cu zona mlaștoasă Terre Rouge.", "Dezvoltarea industrială a început intens în anii 1990."],
+      en: ["Home to the Riche Terre Mall, a major shopping center.", "Located along the M2 motorway connecting the north to the center.", "Important location for warehousing and logistics companies.", "Formerly the site of a significant sugar cane plantation.", "The village directly borders the Terre Rouge marshland area.", "Industrial development began intensifying in the 1990s."],
+    },
   },
   {
     id: "mauritius-quartier-militaire-cities-v2",
@@ -589,6 +949,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Highest rainfall in Mauritius", "Seat of the Moka District Council", "Population approx. 7,000 residents", "Major regional market center"],
     },
     imageHint: "Administrative buildings in Quartier Militaire",
+    descriptionAdvanced: {
+      de: "Quartier Militaire ist das Verwaltungszentrum des Distrikts Moka im Zentrum von Mauritius. Der Ort liegt auf dem Zentralplateau und ist bekannt für sein feuchtes und kühles Klima sowie seine strategische Lage als Verkehrsknotenpunkt. Die Stadt dient als wichtiger Marktort für Gemüse, das in den umliegenden fruchtbaren Böden angebaut wird.",
+      hu: "Quartier Militaire a Moka körzet közigazgatási központja Mauritius központjában. A település a központi fennsíkon fekszik, és ismert párás, hűvös éghajlatáról, valamint stratégiai közlekedési csomóponti helyzetéről. A város fontos piaca a környező termékeny talajokon termesztett zöldségeknek.",
+      ro: "Quartier Militaire este centrul administrativ al districtului Moka din centrul insulei Mauritius. Localitatea este situată pe platoul central și este cunoscută pentru climatul său umed și răcoros, precum și pentru locația strategică ca nod rutier. Orașul servește ca o piață importantă pentru legumele cultivate în solurile fertile din jur.",
+      en: "Quartier Militaire is the administrative center of the Moka district in central Mauritius. The town is situated on the central plateau and is known for its humid and cool climate, as well as its strategic location as a transport hub. The town serves as an important market for vegetables grown in the surrounding fertile soils.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Distriktsrats von Moka.", "Liegt auf einer durchschnittlichen Höhe von 450 Metern.", "Der Name geht auf einen ehemaligen Militärstützpunkt zurück.", "Ein wichtiger Knotenpunkt für Buslinien im Landesinneren.", "Bekannt für den wöchentlichen Markt mit lokalen Erzeugnissen.", "Die Region verzeichnet einige der höchsten Niederschlagsraten der Insel."],
+      hu: ["A Moka körzeti tanács székhelye.", "Átlagosan 450 méteres tengerszint feletti magasságban fekszik.", "A név egy korábbi katonai bázisra utal.", "A belső területek buszjáratainak fontos csomópontja.", "Híres a hetente megrendezett helyi termelői piacáról.", "A régióban mérik a sziget egyik legmagasabb csapadékmennyiségét."],
+      ro: ["Sediul Consiliului Districtual Moka.", "Situat la o altitudine medie de 450 de metri.", "Numele se referă la o fostă bază militară.", "Un nod important pentru liniile de autobuz din interiorul insulei.", "Cunoscut pentru piața săptămânală cu produse locale.", "Regiunea înregistrează unele dintre cele mai mari rate de precipitații de pe insulă."],
+      en: ["Seat of the Moka District Council.", "Located at an average altitude of 450 meters.", "The name dates back to a former military outpost.", "An important hub for bus routes in the interior of the country.", "Known for its weekly market featuring local produce.", "The region records some of the highest rainfall rates on the island."],
+    },
   },
   {
     id: "mauritius-cap-malheureux-cities-v2",
@@ -608,6 +980,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Site of the British landing in 1810", "Famous for Notre-Dame Auxiliatrice", "View of Coin de Mire island", "Highly popular photography spot"],
     },
     imageHint: "Cap Malheureux red roof church by the sea",
+    descriptionAdvanced: {
+      de: "Cap Malheureux ist ein malerisches Fischerdorf an der Nordspitze von Mauritius. Es ist berühmt für seine Kapelle Notre Dame Auxiliatrice mit ihrem markanten roten Dach, die direkt an der Lagune liegt. Von hier aus bietet sich ein beeindruckender Blick auf die vorgelagerten Inseln wie Coin de Mire, was den Ort zu einem der meistfotografierten Ziele der Insel macht.",
+      hu: "Cap Malheureux egy festői halászfalu Mauritius legészakibb csücskén. Híres a Notre Dame Auxiliatrice kápolnáról, amely jellegzetes vörös tetővel rendelkezik, és közvetlenül a lagúna partján áll. Innen lenyűgöző kilátás nyílik a közeli szigetekre, például a Coin de Mire-re, így a sziget egyik legtöbbet fotózott célpontja.",
+      ro: "Cap Malheureux este un sat de pescari pitoresc în vârful nordic al insulei Mauritius. Este renumit pentru capela sa Notre Dame Auxiliatrice, cu acoperișul său roșu distinctiv, situată direct pe malul lagunei. De aici se oferă o vedere impresionantă asupra insulelor din larg, precum Coin de Mire, făcând localitatea una dintre cele mai fotografiate destinații de pe insulă.",
+      en: "Cap Malheureux is a picturesque fishing village at the northern tip of Mauritius. It is famous for its Notre Dame Auxiliatrice chapel with its striking red roof, located directly on the lagoon. From here, there is an impressive view of the offshore islands like Coin de Mire, making the village one of the most photographed destinations on the island.",
+    },
+    factsAdvanced: {
+      de: ["Ort der britischen Invasion von 1810.", "Die berühmte Kapelle wurde 1938 erbaut.", "Der Name bedeutet 'Unglückskap' aufgrund zahlreicher Schiffswracks.", "Bietet den besten Blick auf die Insel Coin de Mire.", "Ein wichtiges Zentrum für traditionellen handwerklichen Fischfang.", "Liegt etwa 10 Fahrminuten nördlich von Grand Baie."],
+      hu: ["Az 1810-es brit invázió helyszíne.", "A híres kápolna 1938-ban épült.", "A neve 'Szerencsétlen-fokot' jelent a számos hajóroncs miatt.", "Innen nyílik a legjobb kilátás a Coin de Mire-szigetre.", "A hagyományos kézműves halászat egyik fontos központja.", "Körülbelül 10 percnyi autóútra fekszik Grand Baie-től északra."],
+      ro: ["Locul invaziei britanice din 1810.", "Celebra capelă a fost construită în 1938.", "Numele înseamnă 'Capul Nefericit' din cauza numeroaselor naufragii.", "Oferă cea mai bună vedere spre insula Coin de Mire.", "Un centru important pentru pescuitul artizanal tradițional.", "Situat la aproximativ 10 minute de mers cu mașina la nord de Grand Baie."],
+      en: ["Site of the British invasion in 1810.", "The famous chapel was built in 1938.", "The name means 'Cape Misfortune' due to numerous shipwrecks.", "Offers the best view of the Coin de Mire island.", "An important center for traditional artisanal fishing.", "Located about a 10-minute drive north of Grand Baie."],
+    },
   },
   {
     id: "mauritius-flic-en-flac-village-cities-v2",
@@ -627,6 +1011,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Major center for scuba diving", "Known for its protective coral reefs", "Large number of holiday apartments", "Famous for stunning sunsets"],
     },
     imageHint: "Flic en Flac beach with casuarina trees",
+    descriptionAdvanced: {
+      de: "Flic en Flac ist eines der bekanntesten Tourismuszentren an der Westküste von Mauritius. Das ehemalige Fischerdorf hat sich zu einem lebhaften Ort mit einer der längsten weißen Sandstrände der Insel entwickelt. Die geschützte Lagune bietet ideale Bedingungen zum Schwimmen und Tauchen, während das Korallenriff die Küste vor starker Brandung bewahrt.",
+      hu: "Flic en Flac Mauritius nyugati partjának egyik legismertebb turisztikai központja. Az egykori halászfalu nyüzsgő településsé fejlődött, amely a sziget egyik leghosszabb fehér homokos strandjával rendelkezik. A védett lagúna ideális feltételeket kínál az úszáshoz és a búvárkodáshoz, miközben a korallzátony megvédi a partot az erős hullámzástól.",
+      ro: "Flic en Flac este unul dintre cele mai cunoscute centre turistice de pe coasta de vest a insulei Mauritius. Fostul sat de pescari s-a transformat într-o localitate plină de viață, cu una dintre cele mai lungi plaje cu nisip alb de pe insulă. Laguna protejată oferă condiții ideale pentru înot și scufundări, în timp ce reciful de corali protejează coasta de valurile puternice.",
+      en: "Flic en Flac is one of the most famous tourist centers on the west coast of Mauritius. The former fishing village has developed into a lively town with one of the island's longest white sandy beaches. The protected lagoon offers ideal conditions for swimming and diving, while the coral reef protects the coast from strong surf.",
+    },
+    factsAdvanced: {
+      de: ["Der Name leitet sich vermutlich vom niederländischen 'Fried Landt Flaak' ab.", "Der öffentliche Strand erstreckt sich über fast 3 Kilometer.", "Beliebter Ort für Sonnenuntergänge an der Westküste.", "Beherbergt das Forschungsinstitut der Mauritius Oceanography Institute.", "Ein Zentrum für PADI-zertifizierte Tauchschulen auf Mauritius.", "Die Region war früher ein bedeutendes Jagdrevier."],
+      hu: ["A név valószínűleg a holland 'Fried Landt Flaak' kifejezésből ered.", "A nyilvános strand közel 3 kilométer hosszan terül el.", "A nyugati part kedvelt helyszíne a naplemente megtekintéséhez.", "Itt található a Mauritius Oceanography Institute kutatóintézete.", "A PADI minősítéssel rendelkező búváriskolák egyik központja Mauritiuszon.", "A régió korábban jelentős vadászterület volt."],
+      ro: ["Numele derivă probabil din olandeza 'Fried Landt Flaak'.", "Plaja publică se întinde pe aproape 3 kilometri.", "Loc popular pentru apusurile de soare de pe coasta de vest.", "Găzduiește institutul de cercetare al Mauritius Oceanography Institute.", "Un centru pentru școli de scufundări certificate PADI în Mauritius.", "Regiunea a fost anterior un teren de vânătoare semnificativ."],
+      en: ["The name likely derives from the Dutch 'Fried Landt Flaak'.", "The public beach stretches for nearly 3 kilometers.", "Popular spot for viewing sunsets on the west coast.", "Home to the research facility of the Mauritius Oceanography Institute.", "A hub for PADI-certified diving schools in Mauritius.", "The region was formerly a significant hunting ground."],
+    },
   },
   {
     id: "mauritius-souillac-cities-v2",
@@ -646,6 +1042,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Named after Vicomte de Souillac", "Home to the Gris Gris viewpoint", "Famous for the Telfair Garden", "Primary administrative hub of the south"],
     },
     imageHint: "Gris Gris cliffs in Souillac Mauritius",
+    descriptionAdvanced: {
+      de: "Souillac ist eine charmante Küstenstadt im Süden von Mauritius und das Verwaltungszentrum des Distrikts Savanne. Die Stadt unterscheidet sich von den Ferienorten im Norden durch ihre zerklüfteten Klippen und die wilde Brandung, da hier das schützende Korallenriff fehlt. Benannt wurde sie nach dem Vicomte de Souillac, einem ehemaligen Gouverneur der Insel im 18. Jahrhundert.",
+      hu: "Souillac egy bájos tengerparti város Mauritius déli részén, és a Savanne körzet közigazgatási központja. A város különbözik az északi üdülőhelyektől sziklás partjaival és vad hullámzásával, mivel itt hiányzik a védő korallzátony. Nevét Souillac vikomtjáról, a sziget egykori 18. századi kormányzójáról kapta.",
+      ro: "Souillac este un oraș de coastă fermecător în sudul insulei Mauritius și centrul administrativ al districtului Savanne. Orașul se deosebește de stațiunile din nord prin stâncile sale abrupte și valurile sălbatice, deoarece aici lipsește reciful de corali protector. A fost numit după Vicomte de Souillac, un fost guvernator al insulei în secolul al XVIII-lea.",
+      en: "Souillac is a charming coastal town in southern Mauritius and the administrative center of the Savanne district. The town differs from the northern resorts with its rugged cliffs and wild surf, as the protective coral reef is absent here. It was named after the Vicomte de Souillac, a former governor of the island in the 18th century.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1787 durch den Gouverneur Vicomte de Souillac.", "Beherbergt den Aussichtspunkt Gris Gris mit spektakulären Klippen.", "Die berühmte 'La Roche Qui Pleure' (der weinende Fels) liegt hier.", "Sitz des Distriktsgerichts von Savanne.", "Der lokale Bahnhof war früher ein wichtiger Endpunkt der Eisenbahn.", "Das Telfair Garden bietet einen historischen Park am Meer."],
+      hu: ["1787-ben alapította Souillac vikomtja, a kormányzó.", "Itt található a Gris Gris kilátóhely látványos szikláival.", "Itt fekszik a híres 'La Roche Qui Pleure' (A síró szikla).", "A Savanne körzeti bíróság székhelye.", "A helyi vasútállomás korábban fontos végállomás volt.", "A Telfair Garden egy történelmi parkot kínál a tengerparton."],
+      ro: ["Fondat în anul 1787 de către guvernatorul Vicomte de Souillac.", "Găzduiește punctul de belvedere Gris Gris cu stânci spectaculoase.", "Celebra 'La Roche Qui Pleure' (stânca care plânge) se află aici.", "Sediul Curții Districtuale din Savanne.", "Gara locală a fost anterior un terminal important de cale ferată.", "Telfair Garden oferă un parc istoric lângă mare."],
+      en: ["Founded in 1787 by Governor Vicomte de Souillac.", "Home to the Gris Gris viewpoint with spectacular cliffs.", "The famous 'La Roche Qui Pleure' (the crying rock) is located here.", "Seat of the Savanne District Court.", "The local train station was formerly an important railway terminus.", "Telfair Garden offers a historical park by the sea."],
+    },
   },
   {
     id: "mauritius-tamarin-cities-v2",
@@ -665,6 +1073,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Historic center for salt production", "Premier surfing location on the island", "Mouth of the Tamarin River", "Popular residential area for expats"],
     },
     imageHint: "Salt pans in Tamarin Mauritius",
+    descriptionAdvanced: {
+      de: "Tamarin ist ein idyllisches Küstendorf an der Westküste von Mauritius, das für seine Salzpfannen und seine Surfspots bekannt ist. Es liegt an der Mündung des Tamarin River vor der Kulisse des markanten Berges Rempart. Das Dorf hat eine entspannte Atmosphäre bewahrt und ist einer der besten Orte der Insel, um Delfine in ihrer natürlichen Umgebung zu beobachten.",
+      hu: "Tamarin egy idilli tengerparti falu Mauritius nyugati partján, amely sólepárlóiról és szörfhelyeiről ismert. A Tamarin-folyó torkolatánál fekszik, a jellegzetes Rempart-hegy lábánál. A falu megőrizte nyugodt légkörét, és a sziget egyik legjobb helye a delfinek természetes környezetükben való megfigyelésére.",
+      ro: "Tamarin este un sat de coastă idilic pe coasta de vest a insulei Mauritius, cunoscut pentru salinele sale și locurile de surf. Este situat la gura de vărsare a râului Tamarin, având ca fundal muntele Rempart. Satul a păstrat o atmosferă relaxată și este unul dintre cele mai bune locuri de pe insulă pentru a observa delfinii în mediul lor natural.",
+      en: "Tamarin is an idyllic coastal village on the west coast of Mauritius, known for its salt pans and surfing spots. It is located at the mouth of the Tamarin River against the backdrop of the prominent Rempart Mountain. The village has maintained a relaxed atmosphere and is one of the best places on the island to observe dolphins in their natural habitat.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum der traditionellen Meersalzgewinnung auf Mauritius.", "Die Tamarin Bay ist ein weltbekannter Spot für Wellenreiter.", "Liegt im Regenschatten der Berge und ist sehr sonnig.", "Der Tamarin River trennt den Ort vom Nachbardorf Black River.", "Wichtiger Ausgangspunkt für Bootstouren zur Delfinbeobachtung.", "Das Wahrzeichen ist der Gipfel Trois Mamelles im Hinterland."],
+      hu: ["A hagyományos tengeri sólepárlás központja Mauritiuszon.", "A Tamarin-öböl világszerte ismert szörfparadicsom.", "A hegyek esőárnyékában fekszik, így rendkívül napos.", "A Tamarin-folyó választja el a szomszédos Black River falutól.", "A delfinnéző hajótúrák fontos kiindulópontja.", "A háttérben magasodó Trois Mamelles csúcs a környék jelképe."],
+      ro: ["Centrul extracției tradiționale de sare marină din Mauritius.", "Golful Tamarin este un loc de surf cunoscut în întreaga lume.", "Situat în umbra ploii a munților și este foarte însorit.", "Râul Tamarin separă localitatea de satul vecin Black River.", "Punct de plecare important pentru tururi cu barca pentru observarea delfinilor.", "Emblema zonei este vârful Trois Mamelles din hinterland."],
+      en: ["Center of traditional sea salt production in Mauritius.", "Tamarin Bay is a world-renowned spot for surfing.", "Located in the rain shadow of the mountains and is very sunny.", "The Tamarin River separates the village from neighboring Black River.", "Major starting point for boat tours for dolphin watching.", "The Trois Mamelles peak in the hinterland is a local landmark."],
+    },
   },
   {
     id: "mauritius-pointe-aux-piments-cities-v2",
@@ -684,6 +1104,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Site of the island's first aquarium", "Popular location for snorkeling", "Mix of hotels and local residences", "Named after chili pepper plants"],
     },
     imageHint: "Rocky beach at Pointe aux Piments",
+    descriptionAdvanced: {
+      de: "Pointe aux Piments ist ein Küstendorf im Nordwesten von Mauritius, das für seine entspannte Atmosphäre und seine vulkanischen Felsformationen am Strand bekannt ist. Der Ort beherbergt das erste Meeresreservat der Insel, was ihn zu einem bedeutenden Zentrum für den Schutz der marinen Biodiversität macht. Die Küstenstraße ist gesäumt von Hotels, bietet aber immer wieder freien Zugang zum Meer.",
+      hu: "Pointe aux Piments egy tengerparti falu Mauritius északnyugati részén, amely nyugodt légköréről és vulkáni sziklaformációiról ismert. A település ad otthont a sziget első tengeri rezervátumának, így a tengeri biológiai sokféleség védelmének fontos központja. A tengerparti utat szállodák szegélyezik, de számos ponton szabad hozzáférést biztosít a tengerhez.",
+      ro: "Pointe aux Piments este un sat de coastă în nord-vestul insulei Mauritius, cunoscut pentru atmosfera sa relaxată și formațiunile stâncoase vulcanice de pe plajă. Localitatea găzduiește prima rezervație marină a insulei, ceea ce o face un centru important pentru protecția biodiversității marine. Drumul de coastă este mărginit de hoteluri, dar oferă în mod repetat acces liber la mare.",
+      en: "Pointe aux Piments is a coastal village in northwestern Mauritius, known for its relaxed atmosphere and volcanic rock formations on the beach. The village houses the island's first marine reserve, making it an important center for the protection of marine biodiversity. The coastal road is lined with hotels but consistently offers public access to the sea.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt das Mauritius Aquarium mit über 200 Fischarten.", "Der Name bedeutet 'Kap der Chilischoten'.", "Erster Standort eines geschützten Marine Parks auf Mauritius.", "Die Küste ist durch Basaltfelsen und weiße Sandbuchten geprägt.", "Ein beliebter Ort für das Schnorcheln mit Meeresschildkröten.", "Liegt im Distrikt Pamplemousses zwischen Balaclava und Trou aux Biches."],
+      hu: ["Itt található a Mauritius Aquarium, több mint 200 halfajjal.", "A név jelentése 'Paprika-fok'.", "Mauritius első védett tengeri parkjának helyszíne.", "A partot bazaltsziklák és fehér homokos öblök jellemzik.", "Népszerű hely a tengeri teknősökkel való búvárkodáshoz.", "Pamplemousses körzetben fekszik, Balaclava és Trou aux Biches között."],
+      ro: ["Găzduiește Acvariul Mauritius cu peste 200 de specii de pești.", "Numele înseamnă 'Capul Ardeilor Iuți'.", "Locația primului parc marin protejat din Mauritius.", "Coasta este marcată de roci bazaltice și golfuri cu nisip alb.", "Un loc popular pentru snorkeling cu țestoase marine.", "Situat în districtul Pamplemousses între Balaclava și Trou aux Biches."],
+      en: ["Home to the Mauritius Aquarium with over 200 species of fish.", "The name translates to 'Cape of Chilies'.", "Location of the first protected Marine Park in Mauritius.", "The coast is characterized by basalt rocks and white sandy coves.", "A popular spot for snorkeling with sea turtles.", "Located in the Pamplemousses district between Balaclava and Trou aux Biches."],
+    },
   },
   {
     id: "mauritius-trou-deau-douce-cities-v2",
@@ -703,6 +1135,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Major hub for boat excursions", "Historic lime kilns located nearby", "Popular destination for seafood", "Scenic bay with turquoise waters"],
     },
     imageHint: "Boats in the harbor at Trou d'Eau Douce",
+    descriptionAdvanced: {
+      de: "Trou d'Eau Douce ist ein malerisches Fischerdorf an der Ostküste von Mauritius. Der Name, der 'Süßwasserloch' bedeutet, bezieht sich auf natürliche Süßwasserquellen, die hier direkt am Meer entspringen. Das Dorf hat seinen ursprünglichen Charme mit engen Gassen und traditionellen Steinhäusern bewahrt und dient heute als wichtigster Ausgangspunkt für Ausflüge zur beliebten Insel Île aux Cerfs.",
+      hu: "Trou d'Eau Douce egy festői halászfalu Mauritius keleti partján. A név jelentése 'Édesvízi lyuk', ami a közvetlenül a tengerparton feltörő természetes édesvízi forrásokra utal. A falu megőrizte eredeti báját szűk utcáival és hagyományos kőházaival, ma pedig az Île aux Cerfs szigetre induló kirándulások legfontosabb kiindulópontja.",
+      ro: "Trou d'Eau Douce este un sat de pescari pitoresc de pe coasta de est a insulei Mauritius. Numele, care înseamnă 'Gaură de Apă Dulce', se referă la izvoarele naturale de apă dulce care țâșnesc aici direct lângă mare. Satul și-a păstrat farmecul original cu străduțe înguste și case tradiționale din piatră, servind astăzi ca principal punct de plecare pentru excursii pe populara insulă Île aux Cerfs.",
+      en: "Trou d'Eau Douce is a picturesque fishing village on the east coast of Mauritius. The name, meaning 'Freshwater Hole', refers to natural freshwater springs that emerge here directly by the sea. The village has preserved its original charm with narrow streets and traditional stone houses, and today serves as the main starting point for excursions to the popular Île aux Cerfs island.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 17. Jahrhundert von niederländischen Siedlern.", "Hauptanlegestelle für Wassertaxis zur Île aux Cerfs.", "Die Kirche Notre Dame des Bon Secours ist ein Wahrzeichen.", "Ehemals Standort einer bedeutenden Zuckerfabrik (Victoria Mill).", "Die Lagune hier gehört zu den größten der Insel.", "Die Wirtschaft basiert auf Fischerei und gehobenem Tourismus."],
+      hu: ["A 17. században alapították holland telepesek.", "Az Île aux Cerfs szigetre tartó vízitaxik fő kikötője.", "A Notre Dame des Bon Secours templom a település jelképe.", "Korábban egy jelentős cukorgyár (Victoria Mill) helyszíne volt.", "Az itteni lagúna a sziget egyik legnagyobbja.", "A gazdaság a halászaton és a minőségi turizmuson alapul."],
+      ro: ["Fondat în secolul al XVII-lea de coloniștii olandezi.", "Principalul debarcader pentru taxiuri pe apă către Île aux Cerfs.", "Biserica Notre Dame des Bon Secours este un simbol local.", "Fostul amplasament al unei fabrici de zahăr importante (Victoria Mill).", "Laguna de aici este una dintre cele mai mari de pe insulă.", "Economia se bazează pe pescuit și turism de lux."],
+      en: ["Founded in the 17th century by Dutch settlers.", "Primary jetty for water taxis to Île aux Cerfs.", "The Notre Dame des Bon Secours church is a local landmark.", "Formerly the site of a major sugar factory (Victoria Mill).", "The lagoon here is among the largest on the island.", "The economy is based on fishing and high-end tourism."],
+    },
   },
   {
     id: "mauritius-poste-de-flacq-cities-v2",
@@ -722,6 +1166,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Home to a famous floating temple", "Hosts several high-end luxury hotels", "Key site for religious festivals", "Maintains a traditional fishing village feel"],
     },
     imageHint: "Floating Hindu temple in Poste de Flacq",
+    descriptionAdvanced: {
+      de: "Poste de Flacq liegt an der Nordostküste von Mauritius und ist für seine ruhige Lagune und seine religiöse Vielfalt bekannt. Das Dorf beherbergt den spektakulären Sagar Shiv Mandir, einen Hindu-Tempel, der auf einer kleinen Insel liegt und nur über einen Damm erreichbar ist. Die Region kombiniert traditionelle Fischerei mit einigen der exklusivsten Hotelresorts der Insel.",
+      hu: "Poste de Flacq Mauritius északkeleti partján fekszik, és híres nyugodt lagúnájáról, valamint vallási sokszínűségéről. A faluban található a látványos Sagar Shiv Mandir hindu templom, amely egy kis szigeten áll, és csak egy gáton keresztül érhető el. A régió egyesíti a hagyományos halászatot a sziget néhány legexkluzívabb szállodai üdülőhelyével.",
+      ro: "Poste de Flacq este situat pe coasta de nord-est a insulei Mauritius și este cunoscut pentru laguna sa liniștită și diversitatea religioasă. Satul găzduiește spectaculosul Sagar Shiv Mandir, un templu hindu situat pe o insulă mică, accesibil doar printr-un dig. Regiunea combină pescuitul tradițional cu unele dintre cele mai exclusive stațiuni hoteliere de pe insulă.",
+      en: "Poste de Flacq is located on the northeast coast of Mauritius and is known for its calm lagoon and religious diversity. The village houses the spectacular Sagar Shiv Mandir, a Hindu temple situated on a small island accessible only via a causeway. The region combines traditional fishing with some of the island's most exclusive hotel resorts.",
+    },
+    factsAdvanced: {
+      de: ["Der Sagar Shiv Mandir Tempel wurde 2007 fertiggestellt.", "Früher ein wichtiger Militärposten zur Überwachung der Küste.", "Beherbergt das renommierte One&Only Le Saint Géran Resort.", "Die Region ist bekannt für ihre dichten Mangrovenwälder.", "Die Mündung der Rivière du Poste liegt in der Nähe.", "Ein Zentrum für die Ausbildung im Bereich Hotelmanagement."],
+      hu: ["A Sagar Shiv Mandir templom 2007-ben készült el.", "Korábban fontos katonai poszt volt a partvonal ellenőrzésére.", "Itt található a neves One&Only Le Saint Géran üdülőhely.", "A régió sűrű mangroveerdőiről ismert.", "A Rivière du Poste folyó torkolata a közelben található.", "A szállodai menedzsment képzés egyik központja."],
+      ro: ["Templul Sagar Shiv Mandir a fost finalizat în 2007.", "Anterior un post militar important pentru monitorizarea coastei.", "Găzduiește renumitul resort One&Only Le Saint Géran.", "Regiunea este cunoscută pentru pădurile sale dese de mangrove.", "Gura de vărsare a râului Rivière du Poste se află în apropiere.", "Un centru pentru instruirea în domeniul managementului hotelier."],
+      en: ["The Sagar Shiv Mandir temple was completed in 2007.", "Formerly an important military post for coastal surveillance.", "Home to the prestigious One&Only Le Saint Géran resort.", "The region is known for its dense mangrove forests.", "The mouth of the Rivière du Poste is located nearby.", "A center for training in hotel management."],
+    },
   },
   {
     id: "mauritius-bassin-village-cities-v2",
@@ -741,6 +1197,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Primarily a residential area", "Located close to Quatre Bornes", "Views of the Corps de Garde mountain", "Population approx. 7,000 residents"],
     },
     imageHint: "Residential houses in Bassin Mauritius",
+    descriptionAdvanced: {
+      de: "Bassin ist ein Wohnort im Distrikt Plaines Wilhems, strategisch günstig zwischen den Städten Quatre Bornes und Vacoas gelegen. Das Dorf hat sich von einer landwirtschaftlichen Siedlung zu einem begehrten Wohngebiet entwickelt, das von der kühleren Luft des Zentralplateaus profitiert. Es ist eng mit der Geschichte der Zuckerindustrie in den zentralen Ebenen von Mauritius verbunden.",
+      hu: "Bassin egy lakóövezet Plaines Wilhems körzetben, stratégiai helyen, Quatre Bornes és Vacoas városok között. A falu mezőgazdasági településből vált kedvelt lakóövezetté, amely élvezi a központi fennsík hűvösebb levegőjét. Szorosan kapcsolódik Mauritius központi síkságainak cukoripari történelméhez.",
+      ro: "Bassin este o localitate rezidențială în districtul Plaines Wilhems, situată strategic între orașele Quatre Bornes și Vacoas. Satul s-a transformat dintr-o așezare agricolă într-o zonă rezidențială căutată, care beneficiază de aerul mai răcoros al platoului central. Este strâns legat de istoria industriei zahărului din câmpiile centrale ale insulei Mauritius.",
+      en: "Bassin is a residential locality in the Plaines Wilhems district, strategically located between the towns of Quatre Bornes and Vacoas. The village has evolved from an agricultural settlement into a sought-after residential area, benefiting from the cooler air of the central plateau. It is closely linked to the history of the sugar industry in the central plains of Mauritius.",
+    },
+    factsAdvanced: {
+      de: ["Liegt auf einer Höhe von etwa 380 Metern über dem Meeresspiegel.", "Der Name bezieht sich auf natürliche Wasserbecken in der Region.", "Wichtige Durchgangsstraße verbindet das Zentrum mit der Westküste.", "Ehemals Teil des großen Palma Zuckerrohr-Areals.", "Die Bevölkerung ist ethnisch und religiös sehr vielfältig.", "In der Nähe befindet sich die Grenze zum Distrikt Black River."],
+      hu: ["Körülbelül 380 méteres tengerszint feletti magasságban fekszik.", "A név a régióban található természetes vizesmedencékre utal.", "Fontos átmenő út köti össze a központot a nyugati parttal.", "Korábban a nagy Palma cukornád-terület része volt.", "A lakosság etikailag és vallásilag nagyon sokszínű.", "A közelben található a Black River körzet határa."],
+      ro: ["Situat la o altitudine de aproximativ 380 de metri deasupra nivelului mării.", "Numele se referă la bazinele naturale de apă din regiune.", "O arteră importantă leagă centrul de coasta de vest.", "Fostă parte a marii zone de trestie de zahăr Palma.", "Populația este foarte diversă din punct de vedere etnic și religios.", "În apropiere se află granița cu districtul Black River."],
+      en: ["Located at an altitude of approximately 380 meters above sea level.", "The name refers to natural water basins in the region.", "Important transit road connects the center to the west coast.", "Formerly part of the large Palma sugar cane estate.", "The population is ethnically and religiously very diverse.", "The border with the Black River district is located nearby."],
+    },
   },
   {
     id: "mauritius-gros-cailloux-village-cities-v2",
@@ -760,6 +1228,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Named after 'Large Pebbles'", "Significant fruit and vegetable production", "Historic sugar plantation site", "Population approx. 5,000 residents"],
     },
     imageHint: "Agricultural fields in Gros Cailloux",
+    descriptionAdvanced: {
+      de: "Gros Cailloux ist ein landwirtschaftlich geprägtes Dorf im Distrikt Black River im Westen von Mauritius. Der Ort ist bekannt für seine weiten Plantagen und hat sich in den letzten Jahren zu einem Zentrum für Freizeitaktivitäten und Agrotourismus entwickelt. Die trockene und sonnige Umgebung bietet ideale Bedingungen für den Anbau von Obst und Gemüse sowie für die Tierhaltung.",
+      hu: "Gros Cailloux egy mezőgazdasági jellegű falu Black River körzetben, Mauritius nyugati részén. A település kiterjedt ültetvényeiről ismert, és az elmúlt években a szabadidős tevékenységek és az agroturizmus központjává vált. A száraz és napos környezet ideális feltételeket biztosít a gyümölcs- és zöldségtermesztéshez, valamint az állattenyésztéshez.",
+      ro: "Gros Cailloux este un sat cu profil agricol în districtul Black River, în vestul insulei Mauritius. Localitatea este cunoscută pentru plantațiile sale vaste și s-a transformat în ultimii ani într-un centru pentru activități de agrement și agroturism. Mediul uscat și însorit oferă condiții ideale pentru cultivarea fructelor și legumelor, precum și pentru creșterea animalelor.",
+      en: "Gros Cailloux is an agriculturally oriented village in the Black River district of western Mauritius. The settlement is known for its vast plantations and has developed into a center for leisure activities and agrotourism in recent years. The dry and sunny environment provides ideal conditions for growing fruits and vegetables, as well as for livestock farming.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt den Gros Cailloux Freizeitpark mit Streichelzoo.", "Der Name bedeutet 'Große Kieselsteine' auf Französisch.", "Bedeutender Standort für die Geflügelzucht auf der Insel.", "Die Region verfügt über ein ausgedehntes Bewässerungssystem.", "Historisch eng mit der Zuckerfabrik von Médine verbunden.", "Liegt an der Hauptstraße zwischen Bambous und Petite Rivière."],
+      hu: ["Itt található a Gros Cailloux szabadidőpark állatsimogatóval.", "A név jelentése franciául 'Nagy Kavicsok'.", "A sziget baromfitenyésztésének egyik jelentős helyszíne.", "A régió kiterjedt öntözőrendszerrel rendelkezik.", "Történelmileg szorosan kapcsolódik a Médine cukorgyárhoz.", "Bambous és Petite Rivière közötti főút mentén fekszik."],
+      ro: ["Găzduiește parcul de agrement Gros Cailloux cu o grădină zoologică.", "Numele înseamnă 'Pietre Mari' în limba franceză.", "Locație importantă pentru creșterea păsărilor pe insulă.", "Regiunea dispune de un sistem extins de irigații.", "Istoric strâns legat de fabrica de zahăr Médine.", "Situat pe drumul principal între Bambous și Petite Rivière."],
+      en: ["Home to the Gros Cailloux Leisure Park with a petting zoo.", "The name means 'Big Pebbles' in French.", "Significant location for poultry farming on the island.", "The region features an extensive irrigation system.", "Historically closely linked to the Médine sugar factory.", "Located on the main road between Bambous and Petite Rivière."],
+    },
   },
   {
     id: "mauritius-midlands-cities-v2",
@@ -779,6 +1259,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Home to a major water reservoir", "Cool and damp highland climate", "Key agricultural production site", "Formerly a forestry-dependent area"],
     },
     imageHint: "Midlands Dam reservoir Mauritius",
+    descriptionAdvanced: {
+      de: "Midlands ist ein Dorf im Distrikt Plaines Wilhems, das sich auf dem regenreichen Zentralplateau von Mauritius befindet. Die Region ist von strategischer Bedeutung für die Wasserversorgung der Insel, da sich hier einer der größten Staudämme des Landes befindet. Die Landschaft ist geprägt von üppiger Vegetation, Teefeldern und dichten Wäldern, was Midlands zu einem wichtigen ökologischen Standort macht.",
+      hu: "Midlands egy falu Plaines Wilhems körzetben, Mauritius csapadékos központi fennsíkján. A régió stratégiai jelentőségű a sziget vízellátása szempontjából, mivel itt található az ország egyik legnagyobb gátja. A tájat dús vegetáció, teamezők és sűrű erdők jellemzik, így Midlands fontos ökológiai helyszín.",
+      ro: "Midlands este un sat în districtul Plaines Wilhems, situat pe platoul central ploios al insulei Mauritius. Regiunea are o importanță strategică pentru alimentarea cu apă a insulei, deoarece aici se află unul dintre cele mai mari baraje din țară. Peisajul este marcat de vegetație luxuriantă, câmpuri de ceai și păduri dese, făcând din Midlands un sit ecologic important.",
+      en: "Midlands is a village in the Plaines Wilhems district, located on the rainy central plateau of Mauritius. The region is of strategic importance for the island's water supply, as it houses one of the country's largest dams. The landscape is characterized by lush vegetation, tea fields, and dense forests, making Midlands a key ecological site.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Midlands Dam, der 2003 fertiggestellt wurde.", "Verzeichnet eine der höchsten jährlichen Niederschlagsmengen der Insel.", "Der Stausee hat eine Kapazität von 25 Millionen Kubikmetern.", "Ein wichtiges Zentrum für den großflächigen Teeanbau.", "Beherbergt Naturschutzprojekte zur Wiederherstellung endemischer Wälder.", "Liegt in der Nähe der Autobahn M1 zwischen Curepipe und dem Osten."],
+      hu: ["Itt található a 2003-ban átadott Midlands-gát.", "A sziget egyik legmagasabb éves csapadékmennyiségét regisztrálják itt.", "A víztározó kapacitása 25 millió köbméter.", "A nagyüzemi teatermesztés egyik fontos központja.", "Természetvédelmi projektek helyszíne az őshonos erdők helyreállítására.", "Az M1-es autópálya közelében fekszik Curepipe és a keleti rész között."],
+      ro: ["Sediul barajului Midlands, finalizat în 2003.", "Înregistrează una dintre cele mai mari cantități anuale de precipitații de pe insulă.", "Rezervorul are o capacitate de 25 de milioane de metri cubi.", "Un centru important pentru cultivarea ceaiului la scară largă.", "Găzduiește proiecte de conservare pentru restaurarea pădurilor endemice.", "Situat lângă autostrada M1, între Curepipe și est."],
+      en: ["Home to the Midlands Dam, completed in 2003.", "Records one of the highest annual rainfall amounts on the island.", "The reservoir has a capacity of 25 million cubic meters.", "An important center for large-scale tea cultivation.", "Houses conservation projects for restoring endemic forests.", "Located near the M1 motorway between Curepipe and the east."],
+    },
   },
   {
     id: "mauritius-dubreuil-cities-v2",
@@ -798,6 +1290,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Center for local tea cultivation", "Very high annual rainfall levels", "Rural and isolated location", "Population approx. 3,000 residents"],
     },
     imageHint: "Tea plantations in Dubreuil Mauritius",
+    descriptionAdvanced: {
+      de: "Dubreuil ist ein ländliches Dorf auf dem zentralen Plateau von Mauritius im Distrikt Moka. Es liegt in einer regenreichen Region und ist von ausgedehnten Zuckerrohrfeldern und dichten Wäldern umgeben. Die Nähe zum Midlands-Stausee macht den Ort zu einem wichtigen strategischen Punkt für die Wasserversorgung der Insel.",
+      hu: "Dubreuil egy vidéki település Mauritius központi fennsíkján, a Moka körzetben. A falu egy csapadékos régióban fekszik, kiterjedt cukornádültetvények és sűrű erdők veszik körül. A közelben található Midlands-víztározó közelsége miatt a hely fontos szerepet játszik a sziget vízellátásában.",
+      ro: "Dubreuil este un sat rural situat pe platoul central din Mauritius, în districtul Moka. Se află într-o regiune cu precipitații bogate, fiind înconjurat de plantații vaste de trestie de zahăr și păduri dese. Proximitatea față de rezervorul Midlands face din această localitate un punct strategic pentru alimentarea cu apă a insulei.",
+      en: "Dubreuil is a rural village located on the central plateau of Mauritius in the Moka District. Situated in a high-rainfall region, it is surrounded by extensive sugarcane fields and dense forests. Its proximity to the Midlands Dam makes the locality an important strategic point for the island's water supply.",
+    },
+    factsAdvanced: {
+      de: ["Liegt auf einer durchschnittlichen Höhe von etwa 400 Metern", "Gehört zum Distrikt Moka im Landesinneren", "Befindet sich in unmittelbarer Nähe zum 2002 fertiggestellten Midlands Dam", "Die Region verzeichnet eine der höchsten Niederschlagsmengen der Insel", "Die Einwohnerzahl liegt bei etwa 2.800 Personen", "Wirtschaftlich dominiert der Anbau von Zuckerrohr und Gemüse"],
+      hu: ["Átlagosan 400 méteres tengerszint feletti magasságban fekszik", "Közigazgatásilag a szárazföldi Moka körzethez tartozik", "A 2002-ben befejezett Midlands-gát közvetlen közelében található", "A régióban mérik a sziget egyik legmagasabb éves csapadékmennyiségét", "A lakosság száma körülbelül 2800 fő", "A gazdaságot a cukornád- és zöldségtermesztés dominálja"],
+      ro: ["Situat la o altitudine medie de aproximativ 400 de metri", "Aparține districtului Moka, aflat în interiorul insulei", "Se află în imediata vecinătate a barajului Midlands, finalizat în 2002", "Regiunea înregistrează una dintre cele mai mari cantități de precipitații", "Populația localității este de aproximativ 2.800 de locuitori", "Economia este dominată de cultivarea trestiei de zahăr și a legumelor"],
+      en: ["Situated at an average altitude of approximately 400 meters", "Belongs to the inland district of Moka", "Located in close proximity to the Midlands Dam, completed in 2002", "The region records some of the highest annual rainfall on the island", "The population stands at approximately 2,800 inhabitants", "Agriculture, mainly sugarcane and vegetables, is the primary economic activity"],
+    },
   },
   {
     id: "mauritius-sebastopol-cities-v2",
@@ -817,6 +1321,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Primarily agricultural village", "Close to the Bambous mountain range", "Population approx. 5,000 residents", "Maintains traditional village housing"],
     },
     imageHint: "Village scene in Sebastopol Mauritius",
+    descriptionAdvanced: {
+      de: "Sebastopol ist ein bedeutendes Dorf im Osten von Mauritius, gelegen im Distrikt Flacq. Der Ort ist tief in der Agrargeschichte der Insel verwurzelt und von weiten Feldern geprägt. Die Siedlung dient als regionales Zentrum für die umliegenden kleineren Weiler und bewahrt eine traditionelle Lebensweise.",
+      hu: "Sebastopol egy jelentős falu Mauritius keleti részén, a Flacq körzetben. A település mélyen gyökerezik a sziget mezőgazdasági történelmében, tájképét a végtelen szántóföldek határozzák meg. A falu regionális központként szolgál a környező kisebb tanyák számára, megőrizve a hagyományos életmódot.",
+      ro: "Sebastopol este un sat important din estul insulei Mauritius, situat în districtul Flacq. Localitatea are rădăcini adânci în istoria agricolă a insulei, fiind caracterizată de câmpuri întinse. Așezarea servește ca centru regional pentru cătunele din jur, păstrând un mod de viață tradițional.",
+      en: "Sebastopol is a significant village in the east of Mauritius, located in the Flacq District. The locality is deeply rooted in the island's agricultural history and is characterized by vast fields. The settlement serves as a regional hub for surrounding smaller hamlets and preserves a traditional way of life.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich im Distrikt Flacq im Osten der Insel", "Die Einwohnerzahl wird auf über 5.500 Personen geschätzt", "Der Name geht vermutlich auf die Belagerung von Sewastopol im Krimkrieg zurück", "Die Region ist ein Zentrum für den kommerziellen Zuckerrohranbau", "Das Dorf liegt in einer hügeligen Landschaft im Landesinneren", "Verfügt über lokale Märkte für landwirtschaftliche Erzeugnisse"],
+      hu: ["A sziget keleti részén, Flacq körzetben található", "A lakosság számát több mint 5500 főre becsülik", "A név valószínűleg a krími háború szevasztopoli ostromára utal", "A régió a kereskedelmi célú cukornádtermesztés egyik központja", "A falu dombos, szárazföldi tájon fekszik", "Helyi piacokkal rendelkezik a mezőgazdasági termékek értékesítésére"],
+      ro: ["Se află în districtul Flacq, în partea de est a insulei", "Populația este estimată la peste 5.500 de locuitori", "Numele provine probabil de la asediul Sevastopolului din Războiul Crimeii", "Regiunea este un centru pentru cultivarea comercială a trestiei de zahăr", "Satul este situat într-un peisaj colinar, în interiorul țării", "Dispune de piețe locale pentru produse agricole"],
+      en: ["Located in the Flacq District in the east of the island", "The population is estimated at over 5,500 people", "The name likely refers to the Siege of Sevastopol during the Crimean War", "The region is a hub for commercial sugarcane cultivation", "The village is situated in a hilly, inland landscape", "Features local markets for the sale of agricultural produce"],
+    },
   },
   {
     id: "mauritius-ecroignard-cities-v2",
@@ -836,6 +1352,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Part of the Flacq district", "Significant vegetable farming", "Quiet inland location", "Population approx. 2,500 residents"],
     },
     imageHint: "Small village houses in Ecroignard",
+    descriptionAdvanced: {
+      de: "Ecroignard ist eine kleine, ruhige Ortschaft im Distrikt Flacq an der Ostküste von Mauritius. Das Dorf ist geprägt von einer engen Gemeinschaft und einer starken Abhängigkeit von der Landwirtschaft. Die flache Küstenebene bietet ideale Bedingungen für den Anbau verschiedener Nutzpflanzen, die das Landschaftsbild dominieren.",
+      hu: "Ecroignard egy kicsi, csendes település a Flacq körzetben, Mauritius keleti partján. A falut szoros közösségi összefogás és a mezőgazdaságtól való erős függőség jellemzi. A sík tengerparti síkság ideális feltételeket biztosít a különböző haszonnövények termesztéséhez, amelyek uralják a tájat.",
+      ro: "Ecroignard este o mică localitate liniștită din districtul Flacq, situată pe coasta de est a insulei Mauritius. Satul este caracterizat de o comunitate strânsă și o dependență puternică de agricultură. Câmpia de coastă plată oferă condiții ideale pentru cultivarea diverselor plante, care domină peisajul.",
+      en: "Ecroignard is a small, quiet locality in the Flacq District on the east coast of Mauritius. The village is characterized by a close-knit community and a strong reliance on agriculture. The flat coastal plain provides ideal conditions for growing various crops, which dominate the landscape.",
+    },
+    factsAdvanced: {
+      de: ["Gehört administrativ zum Distrikt Flacq", "Die Bevölkerungszahl liegt bei etwa 2.500 Einwohnern", "Befindet sich unweit der Ostküste des Landes", "Traditionell ist der Ort für den Gemüseanbau bekannt", "Liegt in einer Ebene mit fruchtbaren vulkanischen Böden", "Die Siedlung weist eine typisch mauritische Architektur auf"],
+      hu: ["Közigazgatásilag Flacq körzetéhez tartozik", "A lakosság száma körülbelül 2500 fő", "Az ország keleti partjának közelében található", "A település hagyományosan a zöldségtermesztéséről ismert", "Termékeny vulkáni talajjal rendelkező síkságon fekszik", "A település tipikus mauritiusi építészeti stílusjegyeket mutat"],
+      ro: ["Aparține administrativ de districtul Flacq", "Numărul locuitorilor este de aproximativ 2.500", "Se află la mică distanță de coasta de est a țării", "Localitatea este cunoscută tradițional pentru cultivarea legumelor", "Situat într-o câmpie cu soluri vulcanice fertile", "Așezarea prezintă o arhitectură tipic mauritiană"],
+      en: ["Administratively part of the Flacq District", "The population is approximately 2,500 inhabitants", "Located not far from the eastern coast of the country", "The area is traditionally known for vegetable farming", "Situated on a plain with fertile volcanic soils", "The settlement features typical Mauritian architectural styles"],
+    },
   },
   {
     id: "mauritius-camp-ithier-cities-v2",
@@ -855,6 +1383,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Proximity to Belle Mare coast", "Population approx. 4,000 residents", "Surrounded by sugar cane fields", "Home to several local temples"],
     },
     imageHint: "Village street in Camp Ithier Mauritius",
+    descriptionAdvanced: {
+      de: "Camp Ithier ist ein Wohn- und Agrardorf im Distrikt Flacq, das für seine friedliche Atmosphäre bekannt ist. Es liegt strategisch günstig in der Nähe des regionalen Zentrums von Flacq und kombiniert ländlichen Charme mit modernem Komfort. Die Umgebung ist von Feldern und kleinen Wäldern geprägt, die zum lokalen Mikroklima beitragen.",
+      hu: "Camp Ithier egy lakó- és mezőgazdasági falu Flacq körzetében, amely békés hangulatáról ismert. Stratégiailag kedvező helyen, Flacq regionális központjának közelében fekszik, ötvözve a vidéki bájt a modern kényelemmel. A környezetet szántóföldek és kis erdők jellemzik, amelyek hozzájárulnak a helyi mikroklímához.",
+      ro: "Camp Ithier este un sat rezidențial și agricol din districtul Flacq, cunoscut pentru atmosfera sa pașnică. Este situat strategic în apropierea centrului regional Flacq, combinând farmecul rural cu facilitățile moderne. Împrejurimile sunt marcate de câmpuri și mici păduri care contribuie la microclimatul local.",
+      en: "Camp Ithier is a residential and agricultural village in the Flacq District, known for its peaceful atmosphere. Strategically located near the regional center of Flacq, it combines rural charm with modern conveniences. The surroundings are characterized by fields and small woodlands that contribute to the local microclimate.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Osten von Mauritius im Distrikt Flacq", "Die Einwohnerzahl beträgt etwa 4.300 Personen", "Befindet sich in einer tropischen Klimazone mit moderaten Niederschlägen", "Die Siedlung liegt in der Nähe der Stadt Centre de Flacq", "Wirtschaftlich ist das Dorf von Kleingewerbe und Landwirtschaft geprägt", "Verfügt über gut ausgebaute Straßenverbindungen zur Küste"],
+      hu: ["Mauritius keleti részén, Flacq körzetben található", "A lakosság száma megközelítőleg 4300 fő", "Trópusi éghajlati övezetben fekszik, mérsékelt csapadékkal", "A település Centre de Flacq városa közelében helyezkedik el", "A falu gazdaságát a kisvállalkozások és a mezőgazdaság jellemzi", "Jól kiépített közúti összeköttetéssel rendelkezik a tengerpart felé"],
+      ro: ["Situat în estul insulei Mauritius, în districtul Flacq", "Populația numără aproximativ 4.300 de persoane", "Se află într-o zonă climatică tropicală cu precipitații moderate", "Așezarea este situată în apropierea orașului Centre de Flacq", "Economic, satul este marcat de mici afaceri și agricultură", "Dispune de conexiuni rutiere bine dezvoltate către coastă"],
+      en: ["Located in eastern Mauritius within the Flacq District", "The population is approximately 4,300 people", "Situated in a tropical climate zone with moderate rainfall", "The settlement is positioned close to the town of Centre de Flacq", "The local economy is driven by small businesses and agriculture", "Boasts well-developed road links to the coastal areas"],
+    },
   },
   {
     id: "mauritius-bon-accueil-cities-v2",
@@ -874,6 +1414,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population over 7,000 residents", "Regional hub for education", "Fruit and vegetable farming hub", "Features a traditional village center"],
     },
     imageHint: "School building in Bon Accueil Mauritius",
+    descriptionAdvanced: {
+      de: "Bon Accueil ist ein großes und lebhaftes Dorf im Distrikt Flacq, das für seine multikulturelle Gemeinschaft bekannt ist. Die Ortschaft erstreckt sich über eine weite Fläche und dient als wichtiger Verbindungspunkt im Osten der Insel. Die lokale Wirtschaft profitiert von einer Mischung aus Handel, Handwerk und dem traditionellen Zuckerrohranbau.",
+      hu: "Bon Accueil egy nagy és életteli falu Flacq körzetében, amely multikulturális közösségéről ismert. A település kiterjedt területen fekszik, és fontos csatlakozási pontként szolgál a sziget keleti részén. A helyi gazdaság a kereskedelem, a kézművesség és a hagyományos cukornádtermesztés keverékéből profitál.",
+      ro: "Bon Accueil este un sat mare și plin de viață din districtul Flacq, cunoscut pentru comunitatea sa multiculturală. Localitatea se întinde pe o suprafață vastă și servește ca punct de legătură important în estul insulei. Economia locală beneficiază de un amestec de comerț, meșteșuguri și cultivarea tradițională a trestiei de zahăr.",
+      en: "Bon Accueil is a large and vibrant village in the Flacq District, known for its multicultural community. The locality spreads over a wide area and serves as an important junction point in the east of the island. The local economy benefits from a blend of trade, crafts, and traditional sugarcane cultivation.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich im zentral-östlichen Teil von Mauritius", "Beherbergt eine Bevölkerung von rund 7.200 Einwohnern", "Der Name bedeutet auf Französisch \"Herzliches Willkommen\"", "Verfügt über mehrere religiöse Stätten verschiedener Glaubensrichtungen", "Liegt in einer Region mit intensivem Zuckerrohranbau", "Das Dorf ist ein wichtiger Verkehrsknotenpunkt für lokale Buslinien"],
+      hu: ["Mauritius közép-keleti részén található", "Lakossága körülbelül 7200 fő", "A név francia nyelven „szíves fogadtatást” jelent", "Számos különböző felekezetű vallási helyszínnel rendelkezik", "Intenzív cukornádtermesztő régióban fekszik", "A falu a helyi buszjáratok fontos közlekedési csomópontja"],
+      ro: ["Situat în partea central-estică a insulei Mauritius", "Găzduiește o populație de aproximativ 7.200 de locuitori", "Numele înseamnă în limba franceză „Bun venit”", "Dispune de mai multe lăcașuri de cult de diverse confesiuni", "Se află într-o regiune cu cultivare intensivă a trestiei de zahăr", "Satul este un nod de transport important pentru liniile de autobuz locale"],
+      en: ["Located in the central-eastern part of Mauritius", "Home to a population of around 7,200 inhabitants", "The name translates to \"Warm Welcome\" in French", "Features multiple religious sites representing various faiths", "Situated in a region of intensive sugarcane cultivation", "The village is a key transit point for local bus routes"],
+    },
   },
   {
     id: "mauritius-laventure-cities-v2",
@@ -893,6 +1445,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population approx. 6,000 people", "Strong focus on agriculture", "Maintains a traditional lifestyle", "Green surroundings with sugar cane"],
     },
     imageHint: "Rural landscape around Laventure Mauritius",
+    descriptionAdvanced: {
+      de: "Laventure ist eine malerische Siedlung im Nordosten des Distrikts Flacq. Das Dorf liegt eingebettet in eine Landschaft aus sanften Hügeln und weiten Plantagen, was ihm eine besondere Ruhe verleiht. Trotz seiner abgeschiedenen Lage spielt es eine wesentliche Rolle in der lokalen Agrarwirtschaft und bewahrt seinen authentischen dörflichen Charakter.",
+      hu: "Laventure egy festői település a Flacq körzet északkeleti részén. A falu lankás dombok és kiterjedt ültetvények között fekszik, ami különleges nyugalmat kölcsönöz neki. Félreeső fekvése ellenére lényeges szerepet játszik a helyi mezőgazdaságban, és megőrzi autentikus falusi jellegét.",
+      ro: "Laventure este o așezare pitorească în nord-estul districtului Flacq. Satul este cuibărit într-un peisaj de dealuri blânde și plantații întinse, ceea ce îi conferă o liniște aparte. În ciuda locației sale izolate, joacă un rol esențial în economia agricolă locală și își păstrează caracterul rural autentic.",
+      en: "Laventure is a picturesque settlement in the northeast of the Flacq District. The village is nestled in a landscape of rolling hills and vast plantations, giving it a particular sense of tranquility. Despite its secluded location, it plays an essential role in the local agricultural economy and preserves its authentic rural character.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Distrikt Flacq im Osten der Insel", "Die Einwohnerzahl liegt bei etwa 6.000 Personen", "Die Umgebung ist für den Anbau von Tabak und Zuckerrohr bekannt", "Befindet sich in relativer Nähe zur Nordostküste", "Der Ortsname stammt aus dem Französischen und bedeutet \"Das Abenteuer\"", "Das Gelände ist durch vulkanische Felsformationen geprägt"],
+      hu: ["A sziget keleti részén, Flacq körzetben található", "A lakosság száma körülbelül 6000 fő", "A környék a dohány- és cukornádtermesztéséről ismert", "Relatív közel fekszik az északkeleti parthoz", "A település neve francia eredetű, jelentése: „A kaland”", "A terepet vulkáni kőzetképződmények jellemzik"],
+      ro: ["Aparține de districtul Flacq, în estul insulei", "Populația localității este de aproximativ 6.000 de locuitori", "Împrejurimile sunt cunoscute pentru cultivarea tutunului și a trestiei de zahăr", "Se află în relativă apropiere de coasta de nord-est", "Numele localității provine din franceză și înseamnă „Aventura”", "Terenul este caracterizat de formațiuni stâncoase vulcanice"],
+      en: ["Part of the Flacq District in eastern Mauritius", "The population is approximately 6,000 inhabitants", "The surrounding area is known for tobacco and sugarcane farming", "Located relatively close to the northeastern coast", "The village name is French for \"The Adventure\"", "The terrain is characterized by volcanic rock formations"],
+    },
   },
   {
     id: "mauritius-brisee-verdiere-cities-v2",
@@ -912,6 +1476,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population over 7,000 residents", "Significant local market site", "Hub for regional bus routes", "Known for its cultural diversity"],
     },
     imageHint: "Main commercial street Brisée Verdière",
+    descriptionAdvanced: {
+      de: "Brisée Verdière ist eine der größeren Siedlungen im Distrikt Flacq und zeichnet sich durch seine strategische Lage an den Hauptstraßen aus. Der Ort ist ein lebendiges Zentrum für Handel und soziale Interaktion in der Region. Die fruchtbaren Böden der Umgebung werden intensiv genutzt, was das Dorf zu einem Eckpfeiler der lokalen Nahrungsmittelproduktion macht.",
+      hu: "Brisée Verdière a Flacq körzet egyik nagyobb települése, amelyet a főutak menti stratégiai elhelyezkedése jellemez. A hely a régió kereskedelmi és társadalmi interakcióinak életteli központja. A környező termékeny talajt intenzíven művelik, így a falu a helyi élelmiszertermelés sarokkövévé vált.",
+      ro: "Brisée Verdière este una dintre așezările mai mari din districtul Flacq, remarcându-se prin locația sa strategică de-a lungul drumurilor principale. Localitatea este un centru vibrant pentru comerț și interacțiune socială în regiune. Solurile fertile din jur sunt utilizate intensiv, făcând din sat un pilon al producției locale de alimente.",
+      en: "Brisée Verdière is one of the larger settlements in the Flacq District, distinguished by its strategic location along main roads. The locality is a vibrant center for trade and social interaction in the region. The surrounding fertile soils are intensively cultivated, making the village a cornerstone of local food production.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im nördlichen Teil des Distrikts Flacq", "Die Einwohnerzahl beläuft sich auf etwa 7.500 Personen", "Gilt als eines der bedeutendsten landwirtschaftlichen Zentren der Region", "Verfügt über ein gut ausgebautes Bildungs- und Gesundheitssystem vor Ort", "Befindet sich auf einer Höhe von ca. 250 Metern über dem Meeresspiegel", "Der Name bezieht sich vermutlich auf die lokale Flora oder Geographie"],
+      hu: ["Flacq körzet északi részén található", "A lakosság száma körülbelül 7500 fő", "A régió egyik legjelentősebb mezőgazdasági központjának számít", "Helyi szinten jól kiépített oktatási és egészségügyi rendszerrel rendelkezik", "Körülbelül 250 méteres tengerszint feletti magasságban fekszik", "A név valószínűleg a helyi flórára vagy földrajzi adottságokra utal"],
+      ro: ["Situat în partea de nord a districtului Flacq", "Numărul locuitorilor se ridică la aproximativ 7.500", "Considerat unul dintre cele mai importante centre agricole din regiune", "Dispune de un sistem de educație și sănătate bine dezvoltat la nivel local", "Se află la o altitudine de circa 250 de metri deasupra mării", "Numele se referă probabil la flora locală sau la geografie"],
+      en: ["Located in the northern part of the Flacq District", "The population totals approximately 7,500 people", "Regarded as one of the most significant agricultural hubs in the region", "Features well-established local education and healthcare facilities", "Situated at an altitude of about 250 meters above sea level", "The name likely refers to local flora or geographic features"],
+    },
   },
   {
     id: "mauritius-chamouny-cities-v2",
@@ -931,6 +1507,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Near Vallee des Couleurs park", "Population approx. 5,000 residents", "Traditionally agricultural base", "Popular for nature hikes"],
     },
     imageHint: "Mountainous backdrop of Chamouny village",
+    descriptionAdvanced: {
+      de: "Chamouny ist ein ruhiges Dorf im Süden von Mauritius, gelegen im Distrikt Savanne. Es ist bekannt für seine natürliche Schönheit und die Nähe zu den berühmten Rochester Falls. Die Region ist von einer dramatischen vulkanischen Landschaft geprägt, die durch steile Klippen und dichte Wälder besticht und einen Einblick in die geologische Geschichte der Insel bietet.",
+      hu: "Chamouny egy csendes falu Mauritius déli részén, a Savanne körzetben. Természeti szépségéről és a híres Rochester-vízesés közelségéről ismert. A régiót drámai vulkáni táj jellemzi, amelyet meredek sziklák és sűrű erdők tesznek különlegessé, bepillantást engedve a sziget földtani történetébe.",
+      ro: "Chamouny este un sat liniștit din sudul insulei Mauritius, situat în districtul Savanne. Este cunoscut pentru frumusețea sa naturală și proximitatea față de faimoasele cascade Rochester. Regiunea este marcată de un peisaj vulcanic dramatic, cu stânci abrupte și păduri dese, oferind o privire asupra istoriei geologice a insulei.",
+      en: "Chamouny is a quiet village in the south of Mauritius, located in the Savanne District. It is known for its natural beauty and proximity to the famous Rochester Falls. The region is characterized by a dramatic volcanic landscape, featuring steep cliffs and dense forests, offering a glimpse into the island's geological history.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Distrikt Savanne im Süden der Insel", "Die Einwohnerzahl beträgt ca. 4.700 Personen", "Befindet sich in unmittelbarer Nähe zu den Rochester Falls", "Die Wasserfälle sind für ihre markanten Basaltsäulen bekannt", "Die lokale Wirtschaft basiert auf Landwirtschaft und Ökotourismus", "Das Dorf liegt inmitten einer hügeligen, grünen Umgebung"],
+      hu: ["A sziget déli részén, Savanne körzetben található", "A lakosság száma körülbelül 4700 fő", "A Rochester-vízesés közvetlen közelében fekszik", "A vízesés a jellegzetes bazaltoszlopairól ismert", "A helyi gazdaság a mezőgazdaságra és az ökoturizmusra épül", "A falu dombos, zöld környezetben helyezkedik el"],
+      ro: ["Situat în districtul Savanne, în sudul insulei", "Populația este de aproximativ 4.700 de persoane", "Se află în imediata apropiere a cascadelor Rochester", "Cascadele sunt renumite pentru coloanele lor de bazalt distincte", "Economia locală se bazează pe agricultură și ecoturism", "Satul este situat în mijlocul unui mediu colinar și verde"],
+      en: ["Located in the Savanne District in the south of the island", "The population is approximately 4,700 people", "Situated in the immediate vicinity of Rochester Falls", "The falls are famous for their distinctive basalt columns", "The local economy is based on agriculture and ecotourism", "The village is set amidst a hilly, lush green environment"],
+    },
   },
   {
     id: "mauritius-baie-du-cap-cities-v2",
@@ -950,6 +1538,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Home to the Macondé viewpoint", "Population approx. 3,000 residents", "Extremely scenic coastal drive", "Fishing is the primary livelihood"],
     },
     imageHint: "Macondé viewpoint and hairpin turn Mauritius",
+    descriptionAdvanced: {
+      de: "Baie du Cap ist ein malerisches Küstendorf an der Südwestspitze von Mauritius im Distrikt Savanne. Es ist berühmt für die markante Macondé-Haarnadelkurve, die einen weiten Blick über den Indischen Ozean bietet. Die Ortschaft hat ihren traditionellen Charme als Fischerdorf bewahrt und ist für ihre entspannte Atmosphäre und historische Bedeutung als Seefahrerstützpunkt bekannt.",
+      hu: "Baie du Cap egy festői tengerparti falu Mauritius délnyugati csücskén, a Savanne körzetben. Híres a jellegzetes Macondé-hajtűkanyarról, amely széles kilátást nyújt az Indiai-óceánra. A település megőrizte hagyományos halászfalu jellegét, és nyugodt légköréről, valamint tengerészeti bázisként betöltött történelmi jelentőségéről ismert.",
+      ro: "Baie du Cap este un sat de coastă pitoresc situat în vârful sud-vestic al insulei Mauritius, în districtul Savanne. Este faimos pentru curba distinctă Macondé, care oferă o vedere largă asupra Oceanului Indian. Localitatea și-a păstrat farmecul tradițional de sat pescăresc, fiind cunoscută pentru atmosfera sa relaxată și importanța istorică.",
+      en: "Baie du Cap is a picturesque coastal village at the southwestern tip of Mauritius, in the Savanne District. It is famous for the distinctive Macondé hairpin bend, which offers a wide view over the Indian Ocean. The locality has preserved its traditional charm as a fishing village and is known for its relaxed atmosphere and historical significance.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich an der Küstenstraße im Südwesten der Insel", "Die Einwohnerzahl liegt bei rund 2.400 Personen", "Beherbergt den Macondé-Aussichtspunkt auf einem vulkanischen Felsen", "Ein Denkmal erinnert an die Landung von Matthew Flinders im Jahr 1803", "Das Denkmal für Flinders wurde im Jahr 2003 eingeweiht", "Das Dorf liegt am Übergang zwischen Korallenlagune und offenem Meer"],
+      hu: ["A sziget délnyugati részén, a parti út mentén található", "A lakosság száma körülbelül 2400 fő", "Itt található a Macondé-kilátópont egy vulkáni sziklán", "Emlékmű őrzi Matthew Flinders 1803-as partraszállásának emlékét", "A Flinders-emlékművet 2003-ban avatták fel", "A falu a korallzátonyos lagúna és a nyílt tenger találkozásánál fekszik"],
+      ro: ["Situat pe drumul de coastă din sud-vestul insulei", "Populația este de aproximativ 2.400 de locuitori", "Găzduiește punctul de belvedere Macondé pe o stâncă vulcanică", "Un monument comemorează debarcarea lui Matthew Flinders în 1803", "Monumentul dedicat lui Flinders a fost inaugurat în anul 2003", "Satul se află la tranziția dintre laguna de corali și marea deschisă"],
+      en: ["Located along the coastal road in the southwest of the island", "The population is around 2,400 inhabitants", "Home to the Macondé viewpoint situated on a volcanic rock", "A monument commemorates the landing of Matthew Flinders in 1803", "The Flinders monument was inaugurated in 2003", "The village sits at the transition between the coral lagoon and open sea"],
+    },
   },
   {
     id: "mauritius-le-morne-village-cities-v2",
@@ -969,6 +1569,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Part of a UNESCO World Heritage site", "World-renowned kite surfing spot", "Historically significant slave village", "Population approx. 2,000 residents"],
     },
     imageHint: "Le Morne village with the mountain in background",
+    descriptionAdvanced: {
+      de: "Le Morne Village liegt am Fuße des imposanten Berges Le Morne Brabant, einer UNESCO-Welterbestätte an der Südwestküste. Das Dorf ist untrennbar mit der Geschichte der Maroons verbunden, geflohenen Sklaven, die auf dem Gipfel des Berges Zuflucht suchten. Heute ist die Siedlung ein Symbol für Widerstand und Freiheit und bewahrt ein reiches kulturelles Erbe.",
+      hu: "Le Morne Village az impozáns Le Morne Brabant-hegy lábánál fekszik, amely az UNESCO Világörökség része a délnyugati parton. A falu elválaszthatatlanul kapcsolódik a maronok (szökött rabszolgák) történetéhez, akik a hegy csúcsán kerestek menedéket. Ma a település az ellenállás és a szabadság szimbóluma, és gazdag kulturális örökséget őriz.",
+      ro: "Le Morne Village se află la poalele impunătorului munte Le Morne Brabant, sit al Patrimoniului Mondial UNESCO pe coasta de sud-vest. Satul este inseparabil legat de istoria maroonilor, sclavi fugari care au căutat refugiu pe vârful muntelui. Astăzi, așezarea este un simbol al rezistenței și libertății, păstrând o bogată moștenire culturală.",
+      en: "Le Morne Village lies at the foot of the imposing Le Morne Brabant mountain, a UNESCO World Heritage site on the southwest coast. The village is inseparably linked to the history of the Maroons, escaped slaves who sought refuge on the mountain's summit. Today, the settlement is a symbol of resistance and freedom, preserving a rich cultural heritage.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Distrikt Black River im Südwesten von Mauritius", "Die Einwohnerzahl beträgt etwa 2.000 Personen", "Der nahegelegene Berg Le Morne Brabant ist seit 2008 Weltkulturerbe", "Das Dorf ist ein Zentrum für die kreolische Kultur der Insel", "Historisch war es ein wichtiger Ort für den Fischfang", "Die Region ist heute ein bedeutendes Ziel für Kitesurfer weltweit"],
+      hu: ["Mauritius délnyugati részén, a Black River körzetben található", "A lakosság száma körülbelül 2000 fő", "A közeli Le Morne Brabant-hegy 2008 óta a Világörökség része", "A falu a sziget kreol kultúrájának egyik központja", "Történelmileg fontos helyszín volt a halászat szempontjából", "A régió ma a kitesurfosok egyik kiemelt célpontja világszerte"],
+      ro: ["Aparține de districtul Black River în sud-vestul insulei Mauritius", "Populația este de aproximativ 2.000 de persoane", "Muntele Le Morne Brabant din apropiere este sit UNESCO din 2008", "Satul este un centru pentru cultura creolă a insulei", "Istoric, a fost o locație importantă pentru pescuit", "Regiunea este astăzi o destinație majoră pentru kitesurfing la nivel mondial"],
+      en: ["Part of the Black River District in southwestern Mauritius", "The population is approximately 2,000 inhabitants", "The nearby Le Morne Brabant mountain became a UNESCO site in 2008", "The village serves as a hub for the island's Creole culture", "Historically, it was a significant location for local fishing", "The region is now a premier global destination for kitesurfing"],
+    },
   },
   {
     id: "mauritius-la-gaulette-cities-v2",
@@ -988,6 +1600,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Gateway to Île aux Bénitiers", "Population approx. 4,000 residents", "Numerous holiday apartment rentals", "Excellent views of Le Morne Brabant"],
     },
     imageHint: "Street scene in La Gaulette village",
+    descriptionAdvanced: {
+      de: "La Gaulette ist ein dynamisches Fischerdorf im Distrikt Black River an der Westküste von Mauritius. In den letzten Jahren hat es sich zu einem beliebten Ausgangspunkt für Touristen entwickelt, die die Insel Île aux Bénitiers und den Nationalpark Black River Gorges besuchen. Der Ort kombiniert traditionelles Inselleben mit moderner touristischer Infrastruktur und bietet spektakuläre Sonnenuntergänge.",
+      hu: "La Gaulette egy dinamikus halászfalu a Black River körzetben, Mauritius nyugati partján. Az utóbbi években kedvelt kiindulóponttá vált az Île aux Bénitiers szigetet és a Black River Gorges Nemzeti Parkot látogató turisták számára. A hely ötvözi a hagyományos szigeti életet a modern turisztikai infrastruktúrával, és látványos naplementéket kínál.",
+      ro: "La Gaulette este un sat pescăresc dinamic din districtul Black River, pe coasta de vest a insulei Mauritius. În ultimii ani, a devenit un punct de plecare popular pentru turiștii care vizitează insula Île aux Bénitiers și Parcul Național Black River Gorges. Localitatea combină viața tradițională de insulă cu infrastructura turistică modernă.",
+      en: "La Gaulette is a dynamic fishing village in the Black River District on the west coast of Mauritius. In recent years, it has become a popular base for tourists visiting Île aux Bénitiers and the Black River Gorges National Park. The locality combines traditional island life with modern tourist infrastructure and offers spectacular sunsets.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich an der Westküste im Distrikt Black River", "Die Einwohnerzahl liegt bei etwa 2.300 Personen", "Dient als Haupttor zur vorgelagerten Île aux Bénitiers", "Verfügt über eine hohe Konzentration an Gästehäusern für Wassersportler", "Der Name bezieht sich auf eine traditionelle Art der Angelrute", "Bietet einen direkten Blick auf den Berg Le Morne Brabant"],
+      hu: ["A nyugati parton, a Black River körzetben található", "A lakosság száma körülbelül 2300 fő", "Fő kapuként szolgál a part menti Île aux Bénitiers szigethez", "Számos vendégházzal rendelkezik a vízi sportok kedvelői számára", "A név egy hagyományos típusú horgászbotra utal", "Közvetlen kilátást nyújt a Le Morne Brabant-hegyre"],
+      ro: ["Situat pe coasta de vest, în districtul Black River", "Populația este de aproximativ 2.300 de locuitori", "Servește ca poartă principală către insula Île aux Bénitiers", "Dispune de o concentrație mare de pensiuni pentru sporturi nautice", "Numele se referă la un tip tradițional de undiță", "Oferă o vedere directă către muntele Le Morne Brabant"],
+      en: ["Located on the west coast in the Black River District", "The population is approximately 2,300 inhabitants", "Serves as the main gateway to the offshore Île aux Bénitiers", "Has a high density of guesthouses catering to water sports enthusiasts", "The name refers to a traditional type of fishing rod", "Offers a direct view of the Le Morne Brabant mountain"],
+    },
   },
   {
     id: "mauritius-case-noyale-cities-v2",
@@ -1007,6 +1631,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Traditional fishing community", "Population approx. 2,000 residents", "Known for its peaceful atmosphere", "Access point for mountain hiking"],
     },
     imageHint: "Coastal road through Case Noyale",
+    descriptionAdvanced: {
+      de: "Case Noyale ist ein beschauliches Küstendorf im Westen von Mauritius, eingebettet zwischen dem Meer und den Ausläufern des Black River Gorges Gebirges. Der Ort ist historisch für seine Kaffeeplantagen und die Salzgewinnung bekannt. Die Architektur und die ruhigen Straßen spiegeln die koloniale Vergangenheit und den ländlichen Lebensstil der Region wider.",
+      hu: "Case Noyale egy békés tengerparti falu Mauritius nyugati részén, a tenger és a Black River Gorges-hegység lábai közé ékelődve. A hely történelmileg a kávéültetvényeiről és a lepárlással történő sógártásáról ismert. Az építészet és a csendes utcák tükrözik a régió gyarmati múltját és vidéki életmódját.",
+      ro: "Case Noyale este un sat de coastă liniștit din vestul insulei Mauritius, situat între mare și poalele munților Black River Gorges. Localitatea este cunoscută istoric pentru plantațiile de cafea și producția de sare. Arhitectura și străzile liniștite reflectă trecutul colonial și stilul de viață rural al regiunii.",
+      en: "Case Noyale is a tranquil coastal village in western Mauritius, nestled between the sea and the foothills of the Black River Gorges mountains. The locality is historically known for its coffee plantations and salt production. The architecture and quiet streets reflect the colonial past and the rural lifestyle of the region.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Distrikt Black River an der Westküste", "Die Einwohnerzahl beträgt rund 1.700 Personen", "War im 18. und 19. Jahrhundert ein Zentrum des Kaffeeanbaus", "Beherbergt eine historische Kapelle aus der Kolonialzeit", "Die Wirtschaft basiert heute auf Fischfang und Tourismus", "Der Ort liegt am Rande des Black River Gorges Nationalparks"],
+      hu: ["A nyugati parton, a Black River körzetben található", "A lakosság száma körülbelül 1700 fő", "A 18. és 19. században a kávétermesztés egyik központja volt", "A településen egy történelmi kápolna található a gyarmati korból", "A gazdaság ma a halászatra és a turizmusra épül", "A hely a Black River Gorges Nemzeti Park szélén fekszik"],
+      ro: ["Aparține de districtul Black River, pe coasta de vest", "Populația numără aproximativ 1.700 de locuitori", "A fost un centru al cultivării cafelei în secolele XVIII și XIX", "Găzduiește o capelă istorică din perioada colonială", "Economia se bazează astăzi pe pescuit și turism", "Localitatea se află la marginea Parcului Național Black River Gorges"],
+      en: ["Part of the Black River District on the west coast", "The population is around 1,700 inhabitants", "Was a center of coffee cultivation in the 18th and 19th centuries", "Home to a historic chapel dating back to the colonial era", "The economy is currently based on fishing and tourism", "The village is situated on the edge of the Black River Gorges National Park"],
+    },
   },
   {
     id: "mauritius-grande-riviere-noire-cities-v2",
@@ -1026,6 +1662,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Major marina and yacht hub", "Home to several luxury resorts", "Premier center for deep-sea fishing", "Population approx. 3,000 residents"],
     },
     imageHint: "Luxury yachts in Black River marina",
+    descriptionAdvanced: {
+      de: "Grande Rivière Noire ist ein bedeutendes Küstenzentrum im Distrikt Black River, das für seine natürliche Bucht und seine Rolle im Hochseefischen bekannt ist. Der Ort hat sich zu einem gehobenen Wohngebiet entwickelt, ohne seinen maritimen Charakter zu verlieren. Die Umgebung bietet Zugang zu einigen der besten Tauchgründe und Naturpfade der Insel.",
+      hu: "Grande Rivière Noire egy jelentős tengerparti központ a Black River körzetben, amely természetes öbléről és a mélytengeri horgászatban betöltött szerepéről ismert. A hely nívós lakóövezetté fejlődött, miközben megőrizte tengeri jellegét. A környék hozzáférést biztosít a sziget legjobb merülőhelyeihez és természetjáró ösvényeihez.",
+      ro: "Grande Rivière Noire este un centru de coastă important din districtul Black River, cunoscut pentru golful său natural și rolul său în pescuitul de mare adâncime. Localitatea s-a dezvoltat într-o zonă rezidențială exclusivistă, fără a-și pierde caracterul maritim. Împrejurimile oferă acces la unele dintre cele mai bune locuri de scufundări.",
+      en: "Grande Rivière Noire is a significant coastal center in the Black River District, known for its natural bay and its role in deep-sea fishing. The locality has evolved into an upscale residential area while maintaining its maritime character. The surroundings offer access to some of the island's best diving spots and nature trails.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Westen von Mauritius im gleichnamigen Distrikt", "Die Bevölkerungszahl wird auf ca. 2.600 Personen geschätzt", "Ist ein international bekanntes Zentrum für das Big Game Fishing", "Verfügt über moderne Jachthäfen und maritime Infrastruktur", "Der Name stammt von dem Fluss, der hier in den Ozean mündet", "Befindet sich in unmittelbarer Nähe zum Black River Nationalpark"],
+      hu: ["Mauritius nyugati részén, az azonos nevű körzetben található", "A lakosság számát körülbelül 2600 főre becsülik", "Nemzetközileg ismert központja a sporthorgászatnak (Big Game Fishing)", "Modern jachtkikötőkkel és tengeri infrastruktúrával rendelkezik", "A név a folyóról származik, amely itt torkollik az óceánba", "A Black River Nemzeti Park közvetlen közelében fekszik"],
+      ro: ["Situat în vestul insulei Mauritius, în districtul cu același nume", "Populația este estimată la aproximativ 2.600 de persoane", "Este un centru cunoscut la nivel internațional pentru pescuitul sportiv", "Dispune de porturi moderne de ambarcațiuni și infrastructură maritimă", "Numele provine de la râul care se varsă aici în ocean", "Se află în imediata vecinătate a Parcului Național Black River"],
+      en: ["Located in western Mauritius in the district of the same name", "The population is estimated at approximately 2,600 people", "Is an internationally recognized hub for big-game fishing", "Features modern marinas and maritime infrastructure", "The name is derived from the river that flows into the ocean here", "Situated in close proximity to the Black River Gorges National Park"],
+    },
   },
   {
     id: "mauritius-petite-riviere-cities-v2",
@@ -1045,6 +1693,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population over 12,000 residents", "Hub for light industrial manufacturing", "Located near Port Louis capital", "Blend of residential and factory zones"],
     },
     imageHint: "Industrial buildings in Petite Rivière",
+    descriptionAdvanced: {
+      de: "Petite Rivière ist eine größere Ortschaft im Distrikt Black River, die unmittelbar an die Hauptstadtregion Port Louis angrenzt. Das Dorf ist ein wichtiger Industriestandort und Wohngebiet, das durch eine Mischung aus moderner Entwicklung und historischen Überresten geprägt ist. Die Küstenabschnitte bieten Naherholungsräume für die lokale Bevölkerung.",
+      hu: "Petite Rivière egy nagyobb település a Black River körzetben, amely közvetlenül határos Port Louis fővárosi régiójával. A falu fontos ipari helyszín és lakóövezet, amelyet a modern fejlődés és a történelmi maradványok keveréke jellemez. A tengerparti szakaszok kikapcsolódási lehetőséget nyújtanak a helyi lakosság számára.",
+      ro: "Petite Rivière este o localitate mai mare din districtul Black River, care se învecinează direct cu regiunea capitalei Port Louis. Satul este un centru industrial și rezidențial important, caracterizat printr-un amestec de dezvoltare modernă și vestigii istorice. Zonele de coastă oferă spații de recreere pentru localnici.",
+      en: "Petite Rivière is a larger locality in the Black River District, directly adjacent to the Port Louis capital region. The village is an important industrial and residential area, characterized by a blend of modern development and historical remains. The coastal sections provide recreational spaces for the local population.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich an der Nordwestküste der Insel", "Hat eine hohe Einwohnerzahl von über 11.000 Personen", "Beherbergt bedeutende Industriezonen des Landes", "Ist bekannt für das lokale Gefängnis Petite Rivière", "Liegt strategisch günstig an der Hauptstraße nach Port Louis", "Die Region verfügt über archäologische Spuren früher Siedlungen"],
+      hu: ["A sziget északnyugati partján található", "Magas lakosságszámmal rendelkezik, több mint 11 000 fő", "Az ország jelentős ipari zónáinak ad otthont", "A helyi Petite Rivière börtönről is ismert", "Stratégiailag kedvező helyen fekszik a Port Louis-ba vezető főút mentén", "A régió korai települések régészeti nyomaival rendelkezik"],
+      ro: ["Situat pe coasta de nord-vest a insulei", "Are o populație numeroasă de peste 11.000 de locuitori", "Găzduiește zone industriale importante ale țării", "Este cunoscut pentru închisoarea locală Petite Rivière", "Situat strategic pe drumul principal către Port Louis", "Regiunea deține urme arheologice ale așezărilor timpurii"],
+      en: ["Located on the northwestern coast of the island", "Has a large population of over 11,000 inhabitants", "Home to significant industrial zones in the country", "Known for housing the local Petite Rivière prison", "Strategically located along the main road to Port Louis", "The region contains archaeological traces of early settlements"],
+    },
   },
   {
     id: "mauritius-grand-gaube-cities-v2",
@@ -1064,6 +1724,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Center for traditional boat building", "Population approx. 8,000 residents", "Popular site for upscale hotels", "Features a scenic, rocky shoreline"],
     },
     imageHint: "Traditional fishing boats in Grand Gaube",
+    descriptionAdvanced: {
+      de: "Grand Gaube ist ein charmantes Fischerdorf an der Nordostküste von Mauritius im Distrikt Rivière du Rempart. Es ist bekannt für seine ruhige Bucht und die traditionelle Handwerkskunst des Bootsbaus, insbesondere der mauritischen Pirogen. Die Ortschaft bietet einen authentischen Einblick in das Küstenleben und ist ein beliebtes Ziel für Reisende, die Ruhe abseits der großen Tourismuszentren suchen.",
+      hu: "Grand Gaube egy bájos halászfalu Mauritius északkeleti partján, a Rivière du Rempart körzetben. Ismert nyugodt öbléről és a hagyományos hajóépítő mesterségről, különösen a mauritiusi pirogok készítéséről. A település autentikus betekintést nyújt a tengerparti életbe, és kedvelt célpont a nagy turisztikai központoktól távol eső nyugalmat keresők számára.",
+      ro: "Grand Gaube este un sat pescăresc fermecător de pe coasta de nord-est a insulei Mauritius, în districtul Rivière du Rempart. Este cunoscut pentru golful său liniștit și măiestria tradițională a construcției de bărci, în special a pirogilor mauritiene. Localitatea oferă o perspectivă autentică asupra vieții de coastă.",
+      en: "Grand Gaube is a charming fishing village on the northeast coast of Mauritius, in the Rivière du Rempart District. It is known for its peaceful bay and the traditional craftsmanship of boat building, particularly Mauritian pirogues. The locality offers an authentic insight into coastal life and is a popular destination for travelers seeking quiet away from major hubs.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich im Distrikt Rivière du Rempart im Norden", "Die Einwohnerzahl beträgt ca. 7.500 Personen", "Ist eines der letzten Zentren für den Bau handgefertigter Holzpirogen", "Die Küste ist von vielen kleinen Felsbuchten und Buchten geprägt", "Bietet eine gute Sicht auf die nördlichen Inseln wie Coin de Mire", "Verfügt über mehrere Luxushotels, die harmonisch integriert sind"],
+      hu: ["Rivière du Rempart körzetben, a sziget északi részén található", "A lakosság száma körülbelül 7500 fő", "A kézzel készített fapirogok építésének egyik utolsó központja", "A partvonalat számos apró sziklás öböl tarkítja", "Jó kilátást nyújt az északi szigetekre, például a Coin de Mire-re", "Számos luxusszállodával rendelkezik, amelyek harmonikusan illeszkednek a tájba"],
+      ro: ["Situat în districtul Rivière du Rempart, în nordul insulei", "Populația este de aproximativ 7.500 de persoane", "Unul dintre ultimele centre pentru construcția pirogilor din lemn lucrate manual", "Linia de coastă este marcată de numeroase golfulețe stâncoase", "Oferă o vedere panoramică asupra insulelor nordice, precum Coin de Mire", "Dispune de mai multe hoteluri de lux integrate armonios"],
+      en: ["Located in the Rivière du Rempart District in the north", "The population is approximately 7,500 inhabitants", "One of the last centers for building handcrafted wooden pirogues", "The coastline is characterized by many small rocky inlets and bays", "Offers excellent views of the northern islets like Coin de Mire", "Features several luxury hotels that are harmoniously integrated"],
+    },
   },
   {
     id: "mauritius-roches-noires-cities-v2",
@@ -1083,6 +1755,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Named after its 'Black Rocks'", "Known for unique lava caves", "Upscale residential neighborhood", "Popular spot for windsurfing"],
     },
     imageHint: "Black volcanic rocks at Roches Noires",
+    descriptionAdvanced: {
+      de: "Roches Noires ist ein Küstendorf im Distrikt Rivière du Rempart an der Nordostküste von Mauritius. Die Region ist bekannt für ihre markanten dunklen Basaltfelsen und vulkanischen Lavahöhlen, die direkt unter der Erdoberfläche verlaufen. Das Dorf bietet einen ruhigen Rückzugsort abseits der großen Touristenzentren und ist bei Kitesurfern aufgrund der beständigen Winde beliebt.",
+      hu: "Roches Noires egy tengerparti falu Mauritius északkeleti részén, Rivière du Rempart körzetében. A település a nevét a part mentén található sötét bazaltsziklákról kapta, amelyek vulkanikus eredetűek. A környék különlegességei a föld alatti lakatömlők és barlangok, valamint a kristálytiszta vizű öblök, amelyek kiválóak úszásra és kiteszörfözésre.",
+      ro: "Roches Noires este un sat de coastă situat în districtul Rivière du Rempart, pe coasta de nord-est a insulei Mauritius. Numele său provine de la rocile bazaltice negre de origine vulcanică ce domină peisajul litoral. Localitatea este renumită pentru tuburile de lavă subterane și peșterile sale naturale, oferind totodată condiții ideale pentru practicarea kitesurfing-ului.",
+      en: "Roches Noires is a coastal village located in the Rivière du Rempart district on the northeastern coast of Mauritius. The area is named after the distinctive dark basaltic rocks of volcanic origin that line its shores. It is famous for its intricate network of underground lava tubes and caves, as well as being a premier destination for kitesurfing due to consistent winds.",
+    },
+    factsAdvanced: {
+      de: ["Das Dorf liegt im Nordosten von Mauritius im Distrikt Rivière du Rempart.", "Der Name bezieht sich auf die schwarzen Basaltfelsen an der Küste.", "In der Umgebung befinden sich mehrere zugängliche Lavahöhlen (Lava Tubes).", "Die Region ist ein bekanntes Zentrum für Kitesurfen auf der Insel.", "Die Küste ist durch ein Korallenriff vor großen Wellen geschützt.", "Roches Noires liegt etwa 20 Kilometer nordöstlich der Hauptstadt Port Louis."],
+      hu: ["A falu Mauritius északkeleti részén, Rivière du Rempart körzetben található.", "Nevét a part menti jellegzetes fekete bazaltkövekről kapta.", "A terület híres a föld alatti vulkáni barlangrendszereiről.", "A tengerpart népszerű helyszín a kiteszörfösök körében.", "A település közelében számos luxusvilla és nyaralóépület található.", "Port Louis, a főváros, körülbelül 20 kilométerre fekszik innen."],
+      ro: ["Satul este situat în districtul Rivière du Rempart, în nord-estul insulei.", "Numele localității se traduce prin „Rocile Negre”, referindu-se la bazaltul local.", "Zona găzduiește numeroase peșteri formate în vechi tuburi de lavă.", "Este o locație de top pentru kitesurfing datorită vânturilor constante.", "Relieful este marcat de activitatea vulcanică istorică a insulei.", "Distanța până la capitala Port Louis este de aproximativ 20 de kilometri."],
+      en: ["The village is situated in the Rivière du Rempart district of Mauritius.", "Its name translates to \"Black Rocks,\" describing the coastal basalt formations.", "The area contains several accessible underground volcanic lava tubes.", "It is recognized as a major spot for kitesurfing and windsurfing.", "The coastline features numerous secluded coves and clear lagoons.", "Roches Noires is located roughly 20 kilometers from Port Louis."],
+    },
   },
   {
     id: "mauritius-poudre-dor-cities-v2",
@@ -1102,6 +1786,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Site of the Paul & Virginie monument", "Population approx. 4,000 residents", "Home to a major regional hospital", "Fishing and farming community"],
     },
     imageHint: "Paul and Virginie monument Poudre d'Or",
+    descriptionAdvanced: {
+      de: "Poudre d'Or ist ein geschichtsträchtiges Dorf im Distrikt Rivière du Rempart an der Nordostküste. Bekannt wurde der Ort vor allem durch den tragischen Schiffbruch der \"Le Saint Géran\" im Jahr 1744, der das Motiv für Bernadin de Saint-Pierres berühmten Roman \"Paul et Virginie\" lieferte. Heute ist es ein ruhiges Fischerdorf mit einem Denkmal, das an dieses historische Ereignis erinnert.",
+      hu: "Poudre d'Or egy történelmi jelentőségű falu a Rivière du Rempart körzetben, Mauritius északkeleti partján. A település hírnevét a „Le Saint Géran” hajó 1744-es tragikus hajótörésének köszönheti, amely Bernadin de Saint-Pierre híres regényét ihlette. A faluban emlékmű áll a katasztrófa áldozatainak emlékére, a partot pedig mangroveerdők szegélyezik.",
+      ro: "Poudre d'Or este un sat istoric situat în districtul Rivière du Rempart, pe coasta de nord-est a insulei. Localitatea este celebră pentru naufragiul navei „Le Saint Géran” în 1744, eveniment care a inspirat romanul clasic „Paul și Virginie”. Astăzi, satul păstrează un farmec tradițional pescăresc, având un monument dedicat victimelor naufragiului istoric.",
+      en: "Poudre d'Or is a historic village in the Rivière du Rempart district on the northeast coast of Mauritius. It is most famous for the shipwreck of \"Le Saint Géran\" in 1744, an event that inspired Bernadin de Saint-Pierre's famous novel \"Paul et Virginie.\" The village remains a quiet fishing community and hosts a stone monument commemorating the maritime tragedy.",
+    },
+    factsAdvanced: {
+      de: ["Das Dorf liegt im Nordosten von Mauritius im Distrikt Rivière du Rempart.", "Das Schiff \"Le Saint Géran\" sank hier am 17. August 1744 vor der Küste.", "Ein Denkmal erinnert an den Schiffbruch und die tragische Liebesgeschichte.", "Der Name bedeutet übersetzt \"Goldpuder\" aufgrund des feinen Sandes.", "In Poudre d'Or befindet sich eines der ältesten Krankenhäuser der Insel.", "Die Küste ist von dichten Mangrovenwäldern und ruhigen Lagunen geprägt."],
+      hu: ["A falu a sziget északkeleti részén, Rivière du Rempart körzetben fekszik.", "A „Le Saint Géran” nevű hajó 1744. augusztus 17-én süllyedt el a közelben.", "A településen kőemlékmű állít emléket a Paul és Virginie történetének.", "A falu neve magyarul „Aranyport” jelent, utalva a homok színére.", "Itt működik Mauritius egyik legrégebbi, 19. századi alapítású kórháza.", "A part menti ökoszisztémát jelentős mangrove-állomány jellemzi."],
+      ro: ["Satul se află în nord-estul insulei Mauritius, în districtul Rivière du Rempart.", "Nava „Le Saint Géran” s-a scufundat în apropiere la 17 august 1744.", "Există un monument ridicat în onoarea personajelor literare Paul și Virginie.", "Numele satului se traduce prin „Praf de Aur” datorită nisipului fin.", "Localitatea găzduiește un spital istoric ce datează din perioada colonială.", "Țărmul este caracterizat de prezența extinsă a pădurilor de mangrove."],
+      en: ["The village is located in the northeast Rivière du Rempart district.", "The vessel \"Le Saint Géran\" wrecked nearby on August 17, 1744.", "A commemorative monument stands in the village for the shipwreck victims.", "The name Poudre d'Or means \"Golden Powder,\" referring to the sand.", "The village is home to one of the oldest specialized hospitals on the island.", "The coastal area is noted for its extensive and healthy mangrove forests."],
+    },
   },
   {
     id: "mauritius-plaine-des-papayes-cities-v2",
@@ -1121,6 +1817,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population approx. 7,000 residents", "Named after 'Papaya Plains'", "Strong focus on vegetable farming", "Hub for the local community"],
     },
     imageHint: "Agricultural plains in northern Mauritius",
+    descriptionAdvanced: {
+      de: "Plaine des Papayes ist ein Binnendorf im Distrikt Pamplemousses im Norden von Mauritius. Die Region ist historisch tief im Zuckerrohranbau verwurzelt und zeichnet sich durch weite, flache Agrarflächen aus. Der Ort dient als wichtiges regionales Zentrum für die umliegenden ländlichen Gemeinden und hat seinen traditionellen mauritischen Charakter über Jahrzehnte bewahrt.",
+      hu: "Plaine des Papayes egy szárazföldi falu Mauritius északi részén, a Pamplemousses körzetben. A település neve a korábban itt nagy számban termő papayafákra utal, bár ma már főként cukornádültetvények veszik körül. A falu fontos mezőgazdasági központ, amely megőrizte a szigetre jellemző békés, vidéki hangulatot és közösségi szerkezetet.",
+      ro: "Plaine des Papayes este un sat situat în interiorul districtului Pamplemousses, în partea de nord a insulei Mauritius. Numele său provine de la arborii de papaya care creșteau odinioară în abundență pe această câmpie fertilă. Astăzi, regiunea este dominată de plantații extinse de trestie de zahăr și servește ca punct central pentru comunitățile rurale din vecinătate.",
+      en: "Plaine des Papayes is an inland village located in the Pamplemousses district in northern Mauritius. The name translates to \"Plain of Papayas,\" though today the landscape is primarily dominated by vast sugarcane fields. It serves as a significant residential and agricultural hub for the surrounding northern plains, maintaining a traditional Mauritian rural atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Das Dorf liegt im Norden von Mauritius im Distrikt Pamplemousses.", "Der Name stammt von den Papayabäumen, die früher dort massenhaft wuchsen.", "Zuckerrohr ist das wichtigste landwirtschaftliche Erzeugnis der Region.", "Das Dorf liegt auf einer fruchtbaren Hochebene etwa 60 Meter über dem Meer.", "In der Nähe befinden sich historische Überreste alter Zuckermühlen.", "Plaine des Papayes ist über die Hauptstraße gut mit Grand Baie verbunden."],
+      hu: ["A falu a sziget északi részén, Pamplemousses körzetben található.", "A település nevét az egykor itt honos papayaültetvényekről kapta.", "A környék gazdasága ma is elsősorban a cukornádtermesztésre épül.", "A terület tengerszint feletti magassága körülbelül 60 méter.", "A falu fontos közlekedési csomópont az északi mezőgazdasági övezetben.", "Számos helyi templom és vallási központ található a településen."],
+      ro: ["Satul este situat în districtul Pamplemousses, în interiorul insulei.", "Numele localității face referire la plantațiile de papaya de odinioară.", "Trestia de zahăr rămâne principala resursă agricolă a întregii zone.", "Regiunea este situată la o altitudine medie de aproximativ 60 de metri.", "Plaine des Papayes face legătura între satele de coastă și interior.", "Există vestigii ale vechilor conace coloniale în zonele limitrofe."],
+      en: ["The village is situated in the Pamplemousses district of northern Mauritius.", "It was historically named after the abundance of papaya trees in the area.", "Sugarcane cultivation is the primary economic activity in the region.", "The elevation of the plain is approximately 60 meters above sea level.", "It acts as a strategic link between the northern coast and the uplands.", "The village has a diverse community with several historic places of worship."],
+    },
   },
   {
     id: "mauritius-mapou-cities-v2",
@@ -1140,6 +1848,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Home to Château de Labourdonnais", "Former important railway junction", "Seat of the Pamplemousses District Council", "Historic site for tobacco farming"],
     },
     imageHint: "Château de Labourdonnais in Mapou",
+    descriptionAdvanced: {
+      de: "Mapou ist ein strategisch günstig gelegenes Dorf im Norden von Mauritius, das für sein koloniales Erbe bekannt ist. Es beherbergt das prachtvolle Château de Labourdonnais, ein restauriertes Herrenhaus aus dem 19. Jahrhundert, das heute als Museum dient. Das Dorf ist von Obstplantagen und Zuckerrohrfeldern umgeben und stellt ein wichtiges kulturelles Bindeglied in der Region Rivière du Rempart dar.",
+      hu: "Mapou egy stratégiai elhelyezkedésű falu Mauritius északi részén, amely híres gyarmati örökségéről. Itt található a Château de Labourdonnais, egy gyönyörűen felújított 19. századi udvarház, amely ma múzeumként és kulturális központként üzemel. A környéket hatalmas gyümölcsösök és cukornádültetvények jellemzik, amelyek ma is meghatározzák a falu arculatát.",
+      ro: "Mapou este un sat strategic situat în nordul insulei Mauritius, renumit pentru moștenirea sa colonială conservată. Atracția principală este Château de Labourdonnais, un conac impresionant din secolul al XIX-lea, transformat în muzeu. Localitatea este înconjurată de livezi de pomi fructiferi și plantații de trestie de zahăr, fiind un centru cultural important în districtul Rivière du Rempart.",
+      en: "Mapou is a strategically located village in northern Mauritius, renowned for its rich colonial heritage. It is home to the majestic Château de Labourdonnais, a beautifully restored 19th-century manor house that now serves as a museum and cultural site. Surrounded by lush orchards and sugarcane plantations, Mapou is a key landmark in the district of Rivière du Rempart.",
+    },
+    factsAdvanced: {
+      de: ["Mapou liegt im Distrikt Rivière du Rempart im Norden der Insel.", "Das Château de Labourdonnais wurde im Jahr 1856 fertiggestellt.", "Die Region ist berühmt für die Herstellung von lokalem Rum und Fruchtsäften.", "In Mapou befindet sich der Sitz des Distriktrates von Rivière du Rempart.", "Das Dorf liegt direkt an der Autobahn M2, die Port Louis mit dem Norden verbindet.", "Die umliegenden Gärten beherbergen jahrhundertealte endemische Pflanzenarten."],
+      hu: ["Mapou a Rivière du Rempart körzet közigazgatási központja az északi részen.", "A híres Château de Labourdonnais kastély 1856-ban épült fel.", "A környéken kézműves rumlepárló és gyümölcsléüzem is működik.", "A falu mellett halad el az M2-es autópálya, amely Port Louis-ba vezet.", "A település nevét a szigeten honos 'Mapou' fáról kapta.", "A Labourdonnais birtok kertjeiben számos őshonos növényfaj látható."],
+      ro: ["Mapou este centrul administrativ al districtului Rivière du Rempart.", "Conacul Château de Labourdonnais a fost construit în anul 1856.", "Zona este cunoscută pentru producția artizanală de rom și sucuri naturale.", "Satul beneficiază de acces direct la autostrada M2 către Port Louis.", "Numele Mapou provine de la o specie de arbore endemică de pe insulă.", "Proprietatea Labourdonnais include grădini botanice și livezi vaste."],
+      en: ["Mapou serves as the administrative headquarters for Rivière du Rempart.", "The Château de Labourdonnais was completed in 1856 by Christian Wiehe.", "The estate is famous for its artisanal rum distillery and fruit orchards.", "It is located alongside the M2 motorway, linking the north to the capital.", "The village is named after the endemic 'Mapou' tree species found locally.", "The local climate is ideal for growing tropical fruits like mangoes and litchis."],
+    },
   },
   {
     id: "mauritius-fond-du-sac-cities-v2",
@@ -1159,6 +1879,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population approx. 5,000 residents", "Frequently prone to flooding", "Residential hub for local workers", "Traditionally an agricultural village"],
     },
     imageHint: "Village homes in Fond du Sac Mauritius",
+    descriptionAdvanced: {
+      de: "Fond du Sac ist ein Dorf im Distrikt Pamplemousses im Norden von Mauritius. Die Siedlung liegt in einer tiefer gelegenen Ebene, was historisch zu Herausforderungen mit dem Wasserabfluss während der Zyklonsaison führte. Die Wirtschaft des Dorfes ist traditionell landwirtschaftlich geprägt, wobei der Anbau von Zuckerrohr und Gemüse auf den fruchtbaren Vulkanböden der Umgebung im Vordergrund steht.",
+      hu: "Fond du Sac egy falu a Pamplemousses körzetben, Mauritius északi részén. A település egy mélyebben fekvő síkságon helyezkedik el, ami történelmileg kihívást jelentett a vízelvezetés szempontjából a ciklonidőszakok alatt. A falu lakói hagyományosan mezőgazdaságból élnek, főként cukornádat és zöldségeket termesztenek a termékeny vulkáni talajon.",
+      ro: "Fond du Sac este un sat situat în districtul Pamplemousses, în partea de nord a insulei Mauritius. Localitatea este amplasată într-o zonă joasă de câmpie, ceea ce a cauzat istoric probleme cu inundațiile în timpul sezoanelor ciclonice. Economia satului este predominant agricolă, bazându-se pe cultivarea trestiei de zahăr și a legumelor în solurile vulcanice fertile.",
+      en: "Fond du Sac is a village located in the Pamplemousses district of northern Mauritius. The settlement is situated in a low-lying plain, which has historically faced drainage challenges during heavy cyclonic rains. The local economy is deeply rooted in agriculture, with sugarcane and vegetable farming being the primary activities supported by the rich volcanic soil.",
+    },
+    factsAdvanced: {
+      de: ["Das Dorf liegt im Distrikt Pamplemousses im Norden der Insel.", "Der Name bezieht sich auf die kesselförmige, tiefe Lage des Geländes.", "Zuckerrohrfelder umschließen das gesamte bebaute Gebiet des Dorfes.", "Die Region wurde in den Jahren 2013 und 2016 von schweren Fluten getroffen.", "In Fond du Sac gibt es eine bedeutende hinduistische Tempelanlage.", "Die Landwirtschaft profitiert von den mineralreichen vulkanischen Böden."],
+      hu: ["A falu a sziget északi részén, Pamplemousses körzetben fekszik.", "Nevének jelentése a domborzati viszonyokra, egy mélyedésre utal.", "A települést szinte minden irányból cukornádültetvények veszik körül.", "2013-ban és 2016-ban a falu súlyos áradásokat szenvedett el.", "A falu vallási életében központi szerepet játszanak a hindu templomok.", "A mezőgazdaság a tápanyagban gazdag vulkáni hamun alapul."],
+      ro: ["Satul se află în districtul Pamplemousses, în nordul insulei Mauritius.", "Denumirea sugerează locația sa într-o formă de relief de tip depresiune.", "Trestia de zahăr înconjoară aproape integral limitele intravilane ale satului.", "Localitatea a implementat sisteme noi de drenaj după inundațiile din 2013.", "Există o comunitate religioasă activă cu temple hinduse tradiționale.", "Agricultura locală este diversificată, incluzând numeroase ferme de legume."],
+      en: ["The village is situated in the Pamplemousses district of Mauritius.", "The name implies a 'bottom of the bag' or a low-lying topographical pocket.", "Sugarcane plantations encircle the entire residential area of the village.", "The region suffered significant flash floods in 2013 and 2016.", "It features several prominent Hindu temples serving the local community.", "The fertile volcanic soil makes it one of the most productive farming areas."],
+    },
   },
   {
     id: "mauritius-mont-choisy-cities-v2",
@@ -1178,6 +1910,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Longest public beach in the north", "Home to a premier modern golf course", "Popular spot for weekend picnics", "Site of the first flight to Reunion"],
     },
     imageHint: "Mont Choisy beach with blue water",
+    descriptionAdvanced: {
+      de: "Mont Choisy ist bekannt für einen der längsten und schönsten öffentlichen Sandstrände im Norden von Mauritius. Die Bucht zeichnet sich durch ihr ruhiges, türkisfarbenes Wasser und den charakteristischen Gürtel aus Kasuarinenbäumen aus, die natürlichen Schatten spenden. Historisch ist der Ort bedeutsam, da hier 1933 der erste Flug von Reunion nach Mauritius landete, woran ein Denkmal erinnert.",
+      hu: "Mont Choisy Mauritius északi részének egyik legnépszerűbb tengerparti úti célja, amely leghosszabb nyilvános strandjáról ismert. Az öböl türkizkék vize és a partot szegélyező kazuárfák árnyéka vonzza a látogatókat. Történelmi jelentőségét az adja, hogy 1933-ban itt szállt le az első repülőgép, amely Réunion szigetéről érkezett Mauritiusra.",
+      ro: "Mont Choisy este renumit pentru una dintre cele mai lungi și frumoase plaje publice din nordul insulei Mauritius. Golful oferă ape liniștite, de culoarea turcoazului, fiind mărginit de o pădure de arbori casuarina care oferă umbră naturală. Locul are o importanță istorică deosebită, fiind locul unde a aterizat primul zbor către insulă în anul 1933.",
+      en: "Mont Choisy is famous for hosting one of the longest and most beautiful public beaches in northern Mauritius. The bay is characterized by its calm turquoise waters and a distinctive fringe of casuarina trees providing natural shade. It holds historical significance as the site of the first flight to Mauritius in 1933, marked by a dedicated monument near the shore.",
+    },
+    factsAdvanced: {
+      de: ["Mont Choisy liegt im Norden im Distrikt Pamplemousses, nahe Grand Baie.", "Der Strand erstreckt sich über eine Länge von fast drei Kilometern.", "Am 10. September 1933 landete hier das erste Flugzeug auf der Insel.", "Ein Denkmal erinnert an die Flieger Maurice Samat und Paul Louis Lemerle.", "Die Region verfügt über einen erstklassigen Meisterschafts-Golfplatz.", "Das ruhige Wasser der Lagune ist ideal für Wassersport und Schwimmen."],
+      hu: ["Mont Choisy az északi Pamplemousses körzetben, Grand Baie mellett fekszik.", "A nyilvános strand hossza eléri a közel három kilométert.", "1933. szeptember 10-én itt hajtották végre az első sikeres leszállást.", "A parton emlékmű őrzi az első repülőút pilótáinak emlékét.", "A területen egy modern, 18 lyukú golfpálya is található.", "A kazuárfák (filao) természetes védelmet nyújtanak a napsütés ellen."],
+      ro: ["Mont Choisy este situat în districtul Pamplemousses, lângă Grand Baie.", "Plaja publică se întinde pe o lungime de aproape trei kilometri.", "Primul avion a aterizat pe acest teren la data de 10 septembrie 1933.", "Monumentul piloților Samat și Lemerle este un reper istoric local.", "Stațiunea găzduiește un teren de golf de campionat de nivel internațional.", "Apele golfului sunt protejate de recif, fiind ideale pentru familii."],
+      en: ["Mont Choisy is located in the Pamplemousses district of northern Mauritius.", "The beach is one of the longest on the island, spanning nearly 3 km.", "On September 10, 1933, the first aircraft landing in Mauritius occurred here.", "A monument commemorates aviators Maurice Samat and Paul Louis Lemerle.", "The area is home to the Mont Choisy Le Golf, a premier 18-hole course.", "The beach is uniquely lined with casuarina (filao) trees instead of palms."],
+    },
   },
   {
     id: "mauritius-trou-aux-biches-cities-v2",
@@ -1197,6 +1941,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Multiple-award winning beach", "Excellent offshore snorkeling", "Host to several luxury beach resorts", "Calm waters protected by the reef"],
     },
     imageHint: "White sand beach at Trou aux Biches",
+    descriptionAdvanced: {
+      de: "Trou aux Biches ist ein erstklassiges Touristenziel an der Nordwestküste von Mauritius, bekannt für seinen puderweißen Sandstrand und das flache, kristallklare Wasser. Die Lagune wird durch ein vorgelagertes Korallenriff geschützt, was sie zu einem idealen Ort zum Schnorcheln und für Familien macht. Ursprünglich ein kleines Fischerdorf, hat es sich seit den 1970er Jahren zu einem exklusiven Resort-Standort entwickelt.",
+      hu: "Trou aux Biches Mauritius északnyugati partjának egyik legszebb üdülőhelye, amely hófehér homokjáról és sekély, kristálytiszta vizéről híres. A lagúnát korallzátony védi, így kiváló helyszín a búvárkodásra és a vízi sportokra. Az egykori halászfalu az 1970-es évek óta fejlődött nemzetközileg elismert, luxusszállodáknak otthont adó célponttá.",
+      ro: "Trou aux Biches este o destinație turistică de top pe coasta de nord-vest a insulei Mauritius, celebră pentru plaja cu nisip alb și apele sale limpezi. Laguna este protejată de un recif de corali, fiind ideală pentru snorkeling și activități nautice în siguranță. Fostul sat de pescari s-a transformat începând cu anii '70 într-o stațiune de lux renumită.",
+      en: "Trou aux Biches is a premier tourist destination on the northwest coast of Mauritius, renowned for its powdery white sand beach and shallow, crystal-clear lagoon. The reef-protected waters offer excellent snorkeling conditions and a safe environment for swimming. Originally a small fishing village, it has evolved since the 1970s into one of the island's most sought-after resort areas.",
+    },
+    factsAdvanced: {
+      de: ["Das Dorf liegt im Distrikt Pamplemousses an der Nordwestküste.", "Trou aux Biches wurde mehrfach als eines der besten Strandziele weltweit ausgezeichnet.", "Das erste große Strandresort wurde hier im Jahr 1971 eröffnet.", "Ein Korallenriff liegt nur wenige hundert Meter vom Ufer entfernt.", "Die Region ist bekannt für spektakuläre Sonnenuntergänge über dem Meer.", "In der Nähe befindet sich das Mauritius Aquarium in Pointe aux Piments."],
+      hu: ["A település a Pamplemousses körzet északnyugati partján fekszik.", "Trou aux Biches strandját többször a világ legjobbjai közé választották.", "Az első nagy luxusszálloda 1971-ben nyitotta meg kapuit a faluban.", "A parttól nem messze kiváló korallkertek találhatók a búvárok számára.", "A falu neve magyarul 'szarvasok itatóhelyét' vagy 'gödrét' jelenti.", "A közelben található Pointe aux Piments akváriuma is népszerű látnivaló."],
+      ro: ["Localitatea este situată în districtul Pamplemousses, pe coasta de vest.", "Plaja a primit numeroase premii internaționale pentru frumusețea sa.", "Primul resort major de pe coastă a fost inaugurat aici în anul 1971.", "Reciful de corali din apropiere adăpostește o biodiversitate marină bogată.", "Numele se traduce aproximativ prin „Groapa Căprioarelor”.", "Este o locație preferată pentru scufundări și plimbări cu barca cu fund de sticlă."],
+      en: ["The village is located in the Pamplemousses district on the northwest coast.", "Trou aux Biches has been frequently voted among the world's best beach destinations.", "The first major boutique hotel on the site opened its doors in 1971.", "The coral reef is easily accessible from the shore for snorkelers.", "The name refers to a watering hole or 'hole of the hinds' (deer).", "It is famous for its vibrant marine life and calm, swimmable lagoon."],
+    },
   },
   {
     id: "mauritius-pereybere-cities-v2",
@@ -1216,6 +1972,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Known for deep, crystal-clear waters", "Popular with locals and tourists alike", "Hub for international restaurants", "Rapidly growing holiday villa area"],
     },
     imageHint: "Pereybere beach cove and swimmers",
+    descriptionAdvanced: {
+      de: "Pereybere ist ein lebhafter Küstenort im Norden von Mauritius, eingebettet zwischen Grand Baie und Cap Malheureux. Der Strand von Pereybere ist berühmt für sein tiefes, klares Wasser, das im Vergleich zu anderen Lagunen der Insel besonders zum Schwimmen geeignet ist. Das Dorf bietet eine charmante Mischung aus lokaler Atmosphäre, Restaurants und kleinen Boutiquen.",
+      hu: "Pereybere egy életteli tengerparti település Mauritius északi részén, Grand Baie és Cap Malheureux között. A Pereybere strand híres mély, kristálytiszta vizéről, amely az egyik legjobb úszóhely a szigeten. A falu hangulatos éttermekkel, bárokkal és üzletekkel várja a látogatókat, miközben megőrizte barátságos, helyi jellegét.",
+      ro: "Pereybere este o stațiune litorală vibrantă situată în nordul insulei Mauritius, între Grand Baie și Cap Malheureux. Plaja Pereybere este celebră pentru apele sale adânci și extrem de limpezi, fiind considerată una dintre cele mai bune zone de înot de pe insulă. Satul oferă un amestec fermecător de gastronomie locală, divertisment și peisaje tropicale.",
+      en: "Pereybere is a vibrant coastal village in northern Mauritius, nestled between the larger hubs of Grand Baie and Cap Malheureux. Pereybere Public Beach is famous for its relatively deep, turquoise waters, making it one of the premier swimming spots on the island. The village maintains a cozy atmosphere with a diverse selection of local eateries and boutiques.",
+    },
+    factsAdvanced: {
+      de: ["Pereybere liegt im Distrikt Rivière du Rempart im hohen Norden.", "Der Strand gilt als einer der besten Badeplätze für Schwimmer.", "Das Dorf hat eine hohe Dichte an Ferienwohnungen und Gästehäusern.", "Von hier aus starten viele Bootstouren zu den nördlichen Inseln.", "Die Bucht ist kleiner als in Grand Baie, aber oft klarer.", "Pereybere ist bekannt für seine vielfältige Auswahl an Meeresfrüchte-Restaurants."],
+      hu: ["Pereybere a Rivière du Rempart körzet legészakibb részén található.", "A strand vize gyorsabban mélyül, mint a sziget más lagúnáié.", "A település népszerű a turisták körében a számos apartman és vendégház miatt.", "A partról kiváló kilátás nyílik a Coin de Mire szigetre.", "Számos búvárközpont működik itt, amelyek a közeli zátonyokhoz visznek.", "A falu éjszakai élete és gasztronómiája igen változatos."],
+      ro: ["Pereybere se află în districtul Rivière du Rempart, în extremitatea nordică.", "Plaja este renumită pentru claritatea apei și fundul mării nisipos.", "Localitatea este o bază populară pentru explorarea insulelor din nord.", "Vederea către insula Coin de Mire de pe plajă este una emblematică.", "Zona este recunoscută pentru numeroasele sale centre de scufundări.", "Pereybere oferă o varietate mare de restaurante cu specific pescăresc."],
+      en: ["The village is situated in the Rivière du Rempart district of northern Mauritius.", "Its beach is noted for having clearer and deeper water than nearby bays.", "Pereybere is a popular hub for short-term vacation rentals and villas.", "Many catamaran excursions to northern islets like Flat Island depart from here.", "The beach offers an iconic view of the rock formation known as Coin de Mire.", "The area is famous for its cosmopolitan mix of local and international cuisine."],
+    },
   },
   {
     id: "mauritius-madrague-cities-v2",
@@ -1235,6 +2003,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Quiet and rural atmosphere", "Minimal tourist commercialization", "Features rocky coves for exploring", "Close to the Le Morne UNESCO site"],
     },
     imageHint: "Wild rocky coastline near Madrague",
+    descriptionAdvanced: {
+      de: "Madrague ist eine ruhige Küstenzone im Osten von Mauritius, die für ihre unberührte Natur und die traditionelle Fischerei bekannt ist. Der Name leitet sich von einer alten Thunfischfangmethode ab, was die enge Verbindung des Ortes zum Meer unterstreicht. Die Region bietet einsame Buchten und eine entspannte Atmosphäre, weit weg von den großen Hotelkomplexen der Insel.",
+      hu: "Madrague egy csendes tengerparti övezet Mauritius keleti részén, amely érintetlen természetéről és hagyományos halászatáról ismert. A név egy régi tonhalhalászati módszerre utal, ami jelzi a település szoros kapcsolatát a tengerrel. A környék eldugott öblöket és nyugodt légkört kínál a tömegturizmustól távol vágyóknak.",
+      ro: "Madrague este o zonă de coastă liniștită situată în estul insulei Mauritius, cunoscută pentru natura sa neatinsă și pescuitul tradițional. Numele provine de la o metodă veche de capturare a tonului, subliniind legătura profundă a localității cu resursele marine. Regiunea oferă golfuri izolate și o atmosferă relaxantă, ferită de turismul de masă.",
+      en: "Madrague is a tranquil coastal area located on the eastern side of Mauritius, known for its pristine natural beauty and traditional fishing heritage. The name is derived from an ancient tuna-fishing technique, highlighting the area's historical reliance on the sea. It offers secluded coves and a peaceful environment, far from the island's bustling tourist centers.",
+    },
+    factsAdvanced: {
+      de: ["Madrague liegt an der windzugewandten Ostküste von Mauritius.", "Der Name 'Madrague' bezeichnet ein spezielles feststehendes Fischernetz.", "Die Region ist geprägt von vulkanischem Gestein und dichten Mangroven.", "Es gibt kaum große Hotels, was den ursprünglichen Charme bewahrt.", "Die Gewässer vor Madrague sind reich an verschiedenen Fischarten.", "Ruhe und Abgeschiedenheit machen den Ort bei Einheimischen beliebt."],
+      hu: ["Madrague a sziget szelesebb, keleti partvonalán helyezkedik el.", "A 'Madrague' kifejezés egy rögzített hálókkal végzett halászati technikát jelöl.", "A partvidéket vulkáni sziklák és sűrű mangroveerdők alkotják.", "A terület mentes a nagy szállodakomplexumoktól, megőrizve intimitását.", "A helyi vizek rendkívül gazdagok tengeri élővilágban.", "A környék ideális a csendes pihenésre és a természetjárásra."],
+      ro: ["Madrague este situată pe coasta de est a insulei, expusă alizeelor.", "Termenul „Madrague” se referă la o tehnică tradițională de pescuit cu plasă.", "Peisajul este dominat de roci vulcanice și vegetație de mlaștină maritimă.", "Zona a rămas în mare parte neafectată de dezvoltarea hotelieră masivă.", "Biodiversitatea marină din largul coastei este una remarcabilă.", "Este o destinație preferată de cei care caută solitudinea și natura pură."],
+      en: ["Madrague is positioned on the windward eastern coast of Mauritius.", "The term 'Madrague' refers to a traditional fixed-net tuna fishing trap.", "The coastline features a mix of volcanic rocks and mangrove ecosystems.", "The area is characterized by a lack of large-scale commercial resorts.", "Local fishermen still practice traditional methods in these waters.", "It is a popular spot for birdwatching and exploring coastal biodiversity."],
+    },
   },
   {
     id: "mauritius-la-flora-cities-v2",
@@ -1254,6 +2034,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Major tea production area", "Population approx. 3,000 residents", "Cool and misty highland climate", "Proximity to Bois Cheri Tea Estate"],
     },
     imageHint: "Tea fields in the mist at La Flora",
+    descriptionAdvanced: {
+      de: "La Flora ist ein malerisches Dorf im Distrikt Savanne im Süden von Mauritius. Die Region liegt in den kühleren Highlands der Insel und ist berühmt für ihre weitreichenden Teeplantagen und die üppige grüne Landschaft. Aufgrund der höheren Lage herrscht hier ein feuchteres Klima, das ideal für den Anbau von Tee und exotischen Blumen ist, was dem Dorf seinen Namen gab.",
+      hu: "La Flora egy festői falu a Savanne körzetben, Mauritius déli részén. A település a sziget hűvösebb felföldjén helyezkedik el, és híres kiterjedt teaültetvényeiről, valamint buja zöld tájairól. A magasabb fekvésnek köszönhetően a klíma párásabb, ami ideális a teatermesztés és az egzotikus virágok számára, amiről a falu a nevét is kapta.",
+      ro: "La Flora este un sat pitoresc situat în districtul Savanne, în partea de sud a insulei Mauritius. Localitatea se află în zona de munte mai răcoroasă și este celebră pentru plantațiile sale vaste de ceai și peisajele verzi luxuriante. Datorită altitudinii, climatul este mai umed, fiind ideal pentru cultivarea ceaiului și a florilor exotice care dau numele satului.",
+      en: "La Flora is a picturesque village in the Savanne district of southern Mauritius. Situated in the island's cooler highlands, the region is famous for its expansive tea plantations and lush, verdant landscapes. The higher elevation provides a humid climate ideal for tea cultivation and exotic flowers, which inspired the village's floral name.",
+    },
+    factsAdvanced: {
+      de: ["La Flora liegt im Distrikt Savanne im hügeligen Süden der Insel.", "Die Region gehört zum Hauptanbaugebiet für mauritischen Tee.", "Das Klima ist hier deutlich kühler als an den Küstengebieten.", "In der Umgebung befinden sich mehrere historische Teefabriken.", "Der Name 'La Flora' verweist auf die reiche Pflanzenwelt vor Ort.", "Das Dorf liegt an der Hauptstraße, die zum Grand Bassin führt."],
+      hu: ["La Flora a sziget déli, dombos Savanne körzetében található.", "A környék Mauritius egyik legfontosabb teatermelő vidéke.", "Az éghajlat itt érezhetően hűvösebb, mint a tengerpartokon.", "A falu közelében több történelmi teagyár is megtekinthető.", "A 'La Flora' név a terület gazdag és változatos flórájára utal.", "A település a hindu szent helyhez, a Grand Bassin-hez vezető úton fekszik."],
+      ro: ["La Flora este situată în districtul Savanne, într-o zonă deluroasă.", "Regiunea este un centru vital pentru industria ceaiului din Mauritius.", "Temperaturile sunt aici cu câteva grade mai mici decât pe litoral.", "Localitatea este înconjurată de unele dintre cele mai vechi plantații de ceai.", "Numele reflectă varietatea mare de specii botanice din zonă.", "Satul este un punct de trecere important către lacul sacru Grand Bassin."],
+      en: ["La Flora is located in the Savanne district in the southern highlands.", "It is a key part of the Mauritian tea route and production belt.", "The area experiences higher rainfall and cooler temperatures than the coast.", "Several historic tea estates are located in the immediate vicinity.", "The name 'La Flora' celebrates the abundant local botanical diversity.", "The village is a common stop on the road to the sacred Grand Bassin lake."],
+    },
   },
   {
     id: "mauritius-bois-cheri-village-cities-v2",
@@ -1273,6 +2065,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Oldest tea factory, founded in 1892", "Famous for gourmet tea tastings", "Scenic crater lake in the village", "Key stop on the 'Tea Route'"],
     },
     imageHint: "Tea factory and plantation Bois Chéri",
+    descriptionAdvanced: {
+      de: "Bois Chéri ist die Heimat der ältesten Teeplantage von Mauritius, die im Jahr 1892 gegründet wurde. Das Dorf liegt im Hochland des Südens und ist ein bedeutender Ort für den Agrotourismus, mit einer Fabrik, einem Museum und einem Restaurant, das einen Panoramablick über die Südküste bietet. Besucher können hier den gesamten Prozess der Teeherstellung von der Ernte bis zur Verkostung miterleben.",
+      hu: "Bois Chéri ad otthont Mauritius legrégebbi teaültetvényének, amelyet 1892-ben alapítottak. A déli felföldön fekvő falu az agroturizmus fontos központja, ahol teagyár, múzeum és egy panorámás étterem várja a látogatókat. A vendégek megismerhetik a teagyártás teljes folyamatát a levelek kézi szedésétől a kóstolásig.",
+      ro: "Bois Chéri găzduiește cea mai veche plantație de ceai din Mauritius, fondată în anul 1892. Satul, situat în zonele înalte din sud, este un centru major de agroturism, oferind vizitatorilor acces la o fabrică, un muzeu și un restaurant cu vedere panoramică. Aici se poate observa întregul proces de producție a ceaiului, de la recoltare la degustare.",
+      en: "Bois Chéri is home to the oldest tea plantation in Mauritius, established in 1892. Located in the southern highlands, the village is a major hub for agrotourism, featuring a tea factory, museum, and a restaurant with panoramic views of the south coast. Visitors can experience the entire tea-making process, from hand-picking leaves to final tasting sessions.",
+    },
+    factsAdvanced: {
+      de: ["Die Teeplantage Bois Chéri wurde offiziell 1892 eröffnet.", "Es ist der größte Teeproduzent auf der Insel Mauritius.", "Die Fabrik verarbeitet jährlich mehrere hundert Tonnen Teeblätter.", "Das Anwesen umfasst einen malerischen See in einem alten Vulkankrater.", "Besucher können verschiedene Sorten wie Vanille- oder Exotik-Tee probieren.", "Vom Restaurant aus sieht man bei gutem Wetter bis zum Indischen Ozean."],
+      hu: ["A Bois Chéri teaültetvényt 1892-ben alapították a szigeten.", "Ez Mauritius legnagyobb és legjelentősebb teatermelője.", "A gyár évente több száz tonna tealevelet dolgoz fel.", "A birtok területén egy gyönyörű krátertó is található.", "A látogatók megkóstolhatják a híres mauritiusi vaníliás teát.", "Az étteremből tiszta időben rálátni a sziget déli partvonalára."],
+      ro: ["Plantația Bois Chéri a fost înființată oficial în anul 1892.", "Este cel mai mare producător de ceai de pe întreaga insulă.", "Fabrica procesează anual sute de tone de frunze de ceai verde și negru.", "Proprietatea include un lac pitoresc situat într-un fost crater vulcanic.", "Turiștii pot degusta specialități locale, precum ceaiul cu vanilie.", "Restaurantul oferă una dintre cele mai frumoase vederi panoramice din sud."],
+      en: ["The Bois Chéri tea estate was officially founded in 1892.", "It remains the largest producer of tea in all of Mauritius.", "The factory processes hundreds of tons of tea leaves each year.", "The estate grounds include a scenic lake set in an ancient volcanic crater.", "It is famous for its unique flavored teas, especially the vanilla blend.", "The panoramic restaurant offers views spanning the entire southern coastline."],
+    },
   },
   {
     id: "mauritius-britannia-cities-v2",
@@ -1292,6 +2096,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Former major sugar production hub", "Features colonial-era architecture", "Population approx. 1,500 residents", "Surrounded by vast sugar cane fields"],
     },
     imageHint: "Old sugar mill ruins in Britannia Mauritius",
+    descriptionAdvanced: {
+      de: "Britannia ist ein historisches Dorf im Distrikt Savanne, das eng mit der Geschichte der mauritischen Zuckerindustrie verbunden ist. Einst Standort einer der größten Zuckermühlen der Insel, bewahrt der Ort noch heute koloniale Architekturreste und alte Arbeiterunterkünfte. Die Umgebung ist geprägt von weiten Feldern und einer ruhigen, ländlichen Atmosphäre, die an die vergangene Ära des \"weißen Goldes\" erinnert.",
+      hu: "Britannia egy történelmi falu a Savanne körzetben, amely szorosan kapcsolódik a mauritiusi cukoripar múltjához. Egykor itt működött a sziget egyik legnagyobb cukornád-feldolgozó üzeme, amelynek maradványai és a régi munkáslakások ma is láthatóak. A környéket végtelen ültetvények és csendes, vidéki hangulat jellemzi, felidézve a gyarmati korszak örökségét.",
+      ro: "Britannia este un sat istoric situat în districtul Savanne, strâns legat de trecutul industriei zahărului din Mauritius. Cândva sediul uneia dintre cele mai mari fabrici de zahăr de pe insulă, localitatea păstrează și astăzi vestigii ale arhitecturii coloniale. Peisajul este dominat de câmpuri vaste de trestie de zahăr și de o atmosferă rurală autentică.",
+      en: "Britannia is a historic village in the Savanne district, deeply intertwined with the history of the Mauritian sugar industry. Once the site of one of the island's largest sugar mills, the village still retains remnants of colonial architecture and old labor quarters. The surrounding landscape is characterized by vast sugarcane fields and a quiet, rural charm echoing the bygone era of sugar production.",
+    },
+    factsAdvanced: {
+      de: ["Britannia liegt im Süden von Mauritius im Distrikt Savanne.", "Die örtliche Zuckermühle war über ein Jahrhundert lang in Betrieb.", "Die Stilllegung der Zuckerfabrik erfolgte erst im Jahr 2010.", "Viele Gebäude im Dorf stammen aus der britischen Kolonialzeit.", "Die Region ist bekannt für ihre fruchtbaren, dunklen Böden.", "Britannia dient heute vor allem als Wohnort für ehemalige Plantagenarbeiter."],
+      hu: ["Britannia a sziget déli részén, a Savanne körzetben található.", "A helyi cukorgyár több mint egy évszázadon át működött.", "A britanniai cukorgyárat hivatalosan 2010-ben zárták be.", "A falu számos épülete a brit gyarmati építészet stílusjegyeit viseli.", "A terület ma is fontos cukornád-termesztő központ maradt.", "A település neve a sziget brit történelmi kapcsolataira utal."],
+      ro: ["Britannia se află în districtul Savanne, în sudul insulei.", "Fabrica de zahăr locală a fost un pilon economic timp de peste un secol.", "Activitatea industrială a fabricii de zahăr a încetat în anul 2010.", "Satul conservă structuri vechi tipice epocii coloniale britanice.", "Trestia de zahăr este în continuare principala cultură din regiune.", "Localitatea oferă o perspectivă asupra vieții rurale tradiționale mauritiene."],
+      en: ["The village is situated in the Savanne district of southern Mauritius.", "The Britannia sugar estate was a major economic driver for over 100 years.", "The local sugar factory officially ceased its operations in 2010.", "The village layout includes traditional 'camps' for estate workers.", "The area is noted for its high-quality volcanic soil suitable for agriculture.", "Its name reflects the British influence on the island's colonial history."],
+    },
   },
   {
     id: "mauritius-bois-des-amourettes-cities-v2",
@@ -1311,6 +2127,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["View of the Lion Mountain range", "Site of historic naval maneuvers", "Traditional fishing community", "Famous for its landmark old jetty"],
     },
     imageHint: "Old stone jetty in Bois des Amourettes",
+    descriptionAdvanced: {
+      de: "Bois des Amourettes ist ein malerisches Fischerdorf an der Südostküste von Mauritius im Distrikt Grand Port. Der Ort ist bekannt für seine lange historische Anlegestelle und den beeindruckenden Blick auf den Lion Mountain. Hier herrscht eine friedliche Atmosphäre, und die Zeit scheint in den schmalen Gassen zwischen den traditionellen Häusern und dem ruhigen Meer stehen geblieben zu sein.",
+      hu: "Bois des Amourettes egy festői halászfalu Mauritius délkeleti partján, a Grand Port körzetben. A település híres hosszú, történelmi mólójáról és az oroszlán alakú Lion Mountain-re nyíló lenyűgöző kilátásáról. A falu békés hangulatot áraszt, ahol a hagyományos házak és a nyugodt tengerpart között megállt az idő.",
+      ro: "Bois des Amourettes este un sat pescăresc pitoresc situat pe coasta de sud-est a insulei Mauritius, în districtul Grand Port. Localitatea este cunoscută pentru debarcaderul său istoric lung și pentru vederea impresionantă către Muntele Leu (Lion Mountain). Satul emană o atmosferă liniștită, unde tradițiile locale și marea se întâlnesc într-un cadru natural deosebit.",
+      en: "Bois des Amourettes is a picturesque fishing village located on the southeastern coast of Mauritius in the Grand Port district. It is well-known for its iconic long historic pier and the stunning backdrop of Lion Mountain. The village offers a serene atmosphere where traditional Mauritian life continues at a slow pace amidst beautiful coastal views.",
+    },
+    factsAdvanced: {
+      de: ["Bois des Amourettes liegt am Ufer der historischen Bucht von Grand Port.", "Der Lion Mountain überragt das Dorf mit seiner markanten Silhouette.", "Die hölzerne Anlegestelle (Jetty) ist ein beliebtes Motiv für Fotografen.", "In der Nähe fand 1810 die berühmte Seeschlacht von Grand Port statt.", "Der Name bedeutet übersetzt etwa 'Wald der kleinen Liebschaften'.", "Die Region ist für ihre ruhigen Gewässer und traditionellen Pirogen bekannt."],
+      hu: ["Bois des Amourettes a történelmi Grand Port-öböl partján fekszik.", "A falu fölé magasodik a jellegzetes alakú Oroszlán-hegy (Lion Mountain).", "A település mólója a sziget egyik leghosszabb és leglátványosabb stégje.", "A közelben zajlott 1810-ben a brit és francia flotta nagy tengeri csatája.", "A falu neve romantikus jelentéssel bír: 'kis szerelmek erdeje'.", "A helyi gazdaság alapját ma is a hagyományos kishajós halászat adja."],
+      ro: ["Satul se află pe malul golfului istoric Grand Port, în sud-est.", "Lion Mountain domină orizontul localității cu forma sa caracteristică.", "Debarcaderul din lemn este unul dintre cele mai lungi de pe insulă.", "Zona este situată aproape de locul bătăliei navale din 1810.", "Numele satului s-ar traduce prin „Pădurea Micilor Iubiri”.", "Pescuitul artizanal rămâne principala activitate a locuitorilor de aici."],
+      en: ["Bois des Amourettes is situated along the historic Grand Port bay.", "Lion Mountain provides a dramatic and recognizable backdrop to the village.", "The village features a famous long jetty stretching deep into the lagoon.", "It is located near the site of the 1810 naval Battle of Grand Port.", "The name poetically translates to 'The Wood of Little Loves'.", "The local community is predominantly involved in artisanal lagoon fishing."],
+    },
   },
   {
     id: "mauritius-plaines-des-roches-cities-v2",
@@ -1330,6 +2158,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Named after 'Rocky Plains'", "Major site for lava stone quarrying", "Population approx. 4,000 residents", "Farming conducted on volcanic rock"],
     },
     imageHint: "Lava stone walls in Plaines des Roches",
+    descriptionAdvanced: {
+      de: "Plaines des Roches ist eine weitläufige Ebene im Nordosten von Mauritius, die für ihr raues, vulkanisches Gelände bekannt ist. Die Region zeichnet sich durch unzählige Lavasteine aus, die den Ackerbau historisch erschwerten, heute jedoch einen einzigartigen Charakter verleihen. In jüngster Zeit hat sich die Region durch die Installation des ersten großen Windparks der Insel zu einem Zentrum für erneuerbare Energien entwickelt.",
+      hu: "Plaines des Roches egy kiterjedt síkság Mauritius északkeleti részén, amely vad, vulkanikus domborzatáról ismert. A területet megszámlálhatatlan lávakő borítja, ami történelmileg nehézzé tette a mezőgazdaságot, de egyedi arculatot kölcsönöz a tájnak. Az utóbbi időben a régió a megújuló energia központjává vált a sziget első nagy szélerőműparkjának köszönhetően.",
+      ro: "Plaines des Roches este o câmpie vastă situată în nord-estul insulei Mauritius, renumită pentru relieful său vulcanic accidentat. Regiunea este presărată cu nenumărate roci de lavă, care au făcut agricultura dificilă, dar oferă un peisaj unic. Recent, zona a devenit un centru pentru energie regenerabilă prin instalarea primului parc eolian major de pe insulă.",
+      en: "Plaines des Roches is an extensive plain in northeastern Mauritius, known for its rugged volcanic terrain. The region is characterized by countless lava rocks that historically made farming difficult but now give the landscape a unique character. Recently, the area has evolved into a renewable energy hub with the installation of the island's first major wind farm.",
+    },
+    factsAdvanced: {
+      de: ["Plaines des Roches liegt zwischen den Distrikten Rivière du Rempart und Flacq.", "Der Boden besteht fast ausschließlich aus Basaltgestein vulkanischen Ursprungs.", "Der Windpark 'Eole Plaine des Roches' wurde hier im Jahr 2016 errichtet.", "Die Region ist eine der windigsten Gegenden der gesamten Insel.", "Früher wurde die Region hauptsächlich zur Steingewinnung genutzt.", "In der Ebene befinden sich mehrere verborgene natürliche Wasserhöhlen."],
+      hu: ["Plaines des Roches a Rivière du Rempart és Flacq körzetek határán fekszik.", "A talaj szinte teljes egészében vulkáni eredetű bazaltkőből áll.", "Az 'Eole Plaine des Roches' szélerőműpark 2016-ban kezdte meg működését.", "Ez a sziget egyik legszelesebb területe, ami ideális az energiatermeléshez.", "A kövek ellenére a környéken folyik némi állattenyésztés is.", "A felszín alatt számos természetes barlang és víznyelő található."],
+      ro: ["Plaines des Roches se întinde între districtele Rivière du Rempart și Flacq.", "Solul este compus aproape integral din roci bazaltice de origine vulcanică.", "Parcul eolian „Eole Plaine des Roches” a fost inaugurat în anul 2016.", "Regiunea este considerată una dintre cele mai vântoase zone ale insulei.", "Tradițional, zona a fost utilizată pentru extragerea pietrei de construcție.", "Există numeroase peșteri naturale formate în structura bazaltică a solului."],
+      en: ["Plaines des Roches spans across the Rivière du Rempart and Flacq districts.", "The ground is largely composed of basaltic rocks from ancient lava flows.", "The Eole Plaine des Roches wind farm was commissioned here in 2016.", "It is identified as one of the windiest locations on the island of Mauritius.", "The area was historically used for stone quarrying due to its rocky nature.", "The plains host several underground caves and natural water reservoirs."],
+    },
   },
   {
     id: "mauritius-medine-camp-de-masque-cities-v2",
@@ -1349,6 +2189,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population over 7,000 residents", "Major regional market center", "Surrounded by mountains and fields", "Strong agricultural economic base"],
     },
     imageHint: "Village market in Camp de Masque",
+    descriptionAdvanced: {
+      de: "Médine Camp de Masque ist ein bedeutendes Agrardorf im Osten von Mauritius im Distrikt Flacq. Der Ort ist tief mit der Geschichte der Zuckerrohrindustrie verbunden und war Teil des großen Médine-Anwesens. Das Dorf liegt in einer fruchtbaren Region und dient heute als wichtiges Wohnzentrum für die Menschen, die in der lokalen Landwirtschaft und im Handel tätig sind.",
+      hu: "Médine Camp de Masque egy jelentős mezőgazdasági falu Mauritius keleti részén, a Flacq körzetben. A település szorosan kötődik a cukornádipar történetéhez, egykor a hatalmas Médine-birtok része volt. A falu egy termékeny vidéken fekszik, és ma fontos lakóövezetként szolgál a helyi mezőgazdaságban és kereskedelemben dolgozók számára.",
+      ro: "Médine Camp de Masque este un sat agricol important situat în estul insulei Mauritius, în districtul Flacq. Localitatea este strâns legată de istoria industriei trestiei de zahăr, făcând parte din marea proprietate Médine. Satul se află într-o regiune fertilă și servește astăzi ca un centru rezidențial esențial pentru comunitatea locală.",
+      en: "Médine Camp de Masque is a significant agricultural village in eastern Mauritius, located in the Flacq district. The settlement is deeply connected to the history of the sugarcane industry and was part of the expansive Médine estate. Situated in a fertile region, it now serves as an important residential hub for those engaged in local farming and trade.",
+    },
+    factsAdvanced: {
+      de: ["Das Dorf liegt im Osten der Insel im Distrikt Flacq.", "Der Name 'Médine' verweist auf die historische Zuckerrohrplantage.", "Die Region ist für ihre intensive Gemüseproduktion bekannt.", "Médine Camp de Masque hat eine gut ausgebaute Infrastruktur für die Region.", "Mehrere religiöse Stätten prägen das soziale Bild des Dorfes.", "Die umliegende Landschaft bietet Ausblicke auf die Berge von Flacq."],
+      hu: ["A falu a sziget keleti felén, Flacq körzetben található.", "A 'Médine' név a területet egykor birtokló cukornádültetvényre utal.", "A környék híres a nagyüzemi zöldségtermesztéséről is.", "A település fontos kereskedelmi pont a keleti vidéki régióban.", "A faluban több vallási közösség és templom működik békében.", "A környékbeli tájat a Flacq-hegység vonulatai határozzák meg."],
+      ro: ["Satul se află în estul insulei, în cadrul districtului Flacq.", "Denumirea „Médine” provine de la istorica plantație de trestie de zahăr.", "Regiunea este recunoscută pentru producția diversificată de legume.", "Médine Camp de Masque este un punct nodal pentru comerțul rural din est.", "Localitatea găzduiește mai multe centre culturale și religioase.", "Peisajul înconjurător oferă vederi panoramice către munții din Flacq."],
+      en: ["The village is situated in the Flacq district in the east of Mauritius.", "Its name 'Médine' originates from the historic local sugar estate.", "The area is a major contributor to the island's vegetable supply.", "It serves as a key commercial center for the surrounding rural villages.", "The community is multicultural, with various places of worship present.", "The nearby mountains of Flacq dominate the western horizon of the village."],
+    },
   },
   {
     id: "mauritius-creve-coeur-cities-v2",
@@ -1368,6 +2220,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Primary producer of ginger", "Spectacular mountain scenery", "Population approx. 3,000 residents", "Uses traditional terraced farming"],
     },
     imageHint: "Ginger and pineapple fields in Crève Coeur",
+    descriptionAdvanced: {
+      de: "Ein Dorf im Distrikt Pamplemousses am Fuße der Long Mountain Range. Es ist geprägt von Landwirtschaft und bietet Ausblicke auf die nördlichen Ebenen. Die Siedlung ist über Serpentinenstraßen erreichbar und bewahrt einen ruhigen, ländlichen Charakter.",
+      hu: "Egy falu a Pamplemousses körzetben, a Long Mountain hegylánc lábánál. A település főként mezőgazdaságból él, és kilátást nyújt az északi síkságokra. A kanyargós utak mentén fekvő helység megőrizte nyugodt, vidéki jellegét.",
+      ro: "Un sat situat în districtul Pamplemousses, la poalele lanțului muntos Long Mountain. Zona este predominant agricolă și oferă vederi panoramice asupra câmpiilor din nord. Accesul se face prin drumuri șerpuite de munte, păstrând un caracter rural liniștit.",
+      en: "A village located in the Pamplemousses District at the foot of the Long Mountain Range. The area is characterized by agriculture and offers panoramic views of the northern plains. It is accessible via winding mountain roads and maintains a quiet, rural character.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Distrikt Pamplemousses", "Höhe von etwa 150 bis 200 Metern", "Teil der Long Mountain Region", "Schwerpunkt auf Gemüseanbau", "Etwa 10 Kilometer von Port Louis entfernt", "Tropisches Klima mit milden Wintern"],
+      hu: ["A Pamplemousses körzetben található", "Tengerszint feletti magassága 150-200 méter", "A Long Mountain régió része", "Zöldségtermesztésre szakosodott terület", "Körülbelül 10 kilométerre van Port Louis-tól", "Trópusi éghajlat enyhe telekkel"],
+      ro: ["Situat în districtul Pamplemousses", "Altitudine de aproximativ 150-200 metri", "Face parte din regiunea Long Mountain", "Focus pe cultivarea legumelor", "La aproximativ 10 kilometri de Port Louis", "Climat tropical cu ierni blânde"],
+      en: ["Located in the Pamplemousses District", "Altitude of about 150 to 200 meters", "Part of the Long Mountain region", "Focus on vegetable farming", "About 10 kilometers from Port Louis", "Tropical climate with mild winters"],
+    },
   },
   {
     id: "mauritius-petiti-verger-cities-v2",
@@ -1387,6 +2251,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Named after a 'Small Orchard'", "Population approx. 3,000 residents", "Quiet residential location", "Home to a notable local preschool"],
     },
     imageHint: "Residential street in Petit Verger",
+    descriptionAdvanced: {
+      de: "Ein Wohngebiet im Distrikt Moka, das für seine ruhige Atmosphäre und die Nähe zur Hauptstadt Port Louis bekannt ist. Es liegt in einer hügeligen Region mit üppiger Vegetation. Die Siedlung hat sich in den letzten Jahrzehnten stetig entwickelt und bietet ein kühleres Klima als die Küstengebiete.",
+      hu: "Lakóövezet a Moka körzetben, amely nyugodt légköréről és Port Louis közelségéről ismert. A dombos vidéken fekvő települést buja növényzet veszi körül. Az elmúlt évtizedekben folyamatos fejlődésen ment keresztül, és hűvösebb klímát kínál, mint a tengerparti területek.",
+      ro: "O zonă rezidențială din districtul Moka, cunoscută pentru atmosfera liniștită și proximitatea față de capitala Port Louis. Situată într-o regiune deluroasă, este înconjurată de vegetație luxuriantă. Localitatea s-a dezvoltat constant în ultimele decenii, având un climat mai răcoros decât zonele de coastă.",
+      en: "A residential area in the Moka District, known for its quiet atmosphere and proximity to the capital Port Louis. Situated in a hilly region, it is surrounded by lush tropical vegetation. The settlement has seen steady growth over the last decades and offers a cooler climate than coastal areas.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Distrikt Moka", "Reines Wohngebiet", "Nähe zur Stadt Saint Pierre", "Lage auf dem zentralen Plateau", "Hohe jährliche Niederschlagsmengen", "Geprägt von tropischer Flora"],
+      hu: ["A Moka körzethez tartozik", "Tisztán lakóövezeti jellegű", "Saint Pierre városának közelében fekszik", "A központi fennsíkon található", "Magas éves csapadékmennyiség", "Trópusi flóra jellemzi"],
+      ro: ["Aparține districtului Moka", "Zonă exclusiv rezidențială", "Proximitate față de orașul Saint Pierre", "Localizare pe podișul central", "Cantități mari de precipitații anuale", "Caracterizat de floră tropicală"],
+      en: ["Belongs to the Moka District", "Purely residential area", "Proximity to Saint Pierre town", "Location on the central plateau", "High annual rainfall amounts", "Characterized by tropical flora"],
+    },
   },
   {
     id: "mauritius-mont-idat-cities-v2",
@@ -1406,6 +2282,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Significant sugar cane cultivation", "Population approx. 3,500 residents", "Traditional village center layout", "Close proximity to Mount Ida"],
     },
     imageHint: "Sugar cane fields near Mont Ida",
+    descriptionAdvanced: {
+      de: "Eine Ortschaft im Distrikt Flacq im Osten von Mauritius. Die Region ist stark von der Zuckerrohrindustrie geprägt, die seit dem 19. Jahrhundert das Rückgrat der lokalen Wirtschaft bildet. Das Dorf liegt in einer fruchtbaren Ebene und ist von weiten Plantagen umgeben.",
+      hu: "Település a Flacq körzetben, Mauritius keleti részén. A régiót erősen meghatározza a cukornádtermesztés, amely a 19. század óta a helyi gazdaság gerincét alkotja. A falu egy termékeny síkságon fekszik, és hatalmas ültetvények veszik körül.",
+      ro: "O localitate în districtul Flacq, situată în partea de est a insulei Mauritius. Regiunea este puternic marcată de industria trestiei de zahăr, care constituie coloana vertebrală a economiei locale din secolul al XIX-lea. Satul este așezat pe o câmpie fertilă și înconjurat de plantații vaste.",
+      en: "A settlement in the Flacq District, located in the eastern part of Mauritius. The region is heavily influenced by the sugar cane industry, which has been the backbone of the local economy since the 19th century. The village lies on a fertile plain and is surrounded by vast plantations.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Distrikt Flacq", "Zentrum des Zuckerrohranbaus", "Östliche Region der Insel", "Überwiegend landwirtschaftliche Wirtschaft", "Tropisches Savannenklima", "Historisch mit Zuckerfabriken verbunden"],
+      hu: ["A Flacq körzetben található", "A cukornádtermesztés központja", "A sziget keleti régiója", "Túlnyomóan mezőgazdasági gazdaság", "Trópusi szavanna éghajlat", "Történelmileg cukorgyárakhoz kötődik"],
+      ro: ["Situat în districtul Flacq", "Centru al cultivării trestiei de zahăr", "Regiunea estică a insulei", "Economie predominant agricolă", "Climat tropical de savană", "Legat istoric de fabricile de zahăr"],
+      en: ["Located in the Flacq District", "Center of sugar cane cultivation", "Eastern region of the island", "Predominantly agricultural economy", "Tropical savannah climate", "Historically linked to sugar factories"],
+    },
   },
   {
     id: "mauritius-melrose-cities-v2",
@@ -1425,6 +2313,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Site of the Eastern High Security Prison", "Population approx. 2,500 residents", "Agricultural rural setting", "Quiet village character"],
     },
     imageHint: "Landscape around Melrose village",
+    descriptionAdvanced: {
+      de: "Ein Dorf im Distrikt Moka, das vor allem für seine modernen Institutionen bekannt ist. Es beherbergt eine der sichersten Justizvollzugsanstalten des Landes, die Melrose Prison, die 2014 eröffnet wurde. Die Umgebung ist von landwirtschaftlichen Flächen und sanften Hügeln geprägt.",
+      hu: "Falu a Moka körzetben, amely leginkább modern intézményeiről ismert. Itt található az ország egyik legbiztonságosabb büntetés-végrehajtási intézete, a 2014-ben megnyitott Melrose börtön. A környéket mezőgazdasági területek és lankás dombok jellemzik.",
+      ro: "Un sat în districtul Moka, cunoscut în special pentru instituțiile sale moderne. Găzduiește una dintre cele mai sigure închisori din țară, închisoarea Melrose, deschisă în 2014. Împrejurimile sunt caracterizate de terenuri agricole și dealuri domoale.",
+      en: "A village in the Moka District, primarily known for its modern institutions. It houses one of the country's most secure correctional facilities, the Melrose Prison, which opened in 2014. The surrounding area is characterized by agricultural land and gentle hills.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Distrikt Moka", "Standort des Melrose-Gefängnisses", "Eröffnung der Haftanstalt im Jahr 2014", "Kapazität für 900 Insassen", "Lage im zentralen Hochland", "Ländliche Umgebung"],
+      hu: ["A Moka körzethez tartozik", "A Melrose börtön helyszíne", "A fegyintézet 2014-es megnyitása", "900 fő befogadására alkalmas", "A központi fennsíkon fekszik", "Vidéki környezet jellemzi"],
+      ro: ["Aparține districtului Moka", "Locația închisorii Melrose", "Deschiderea penitenciarului în 2014", "Capacitate de 900 de deținuți", "Localizare în podișul central", "Mediu rural"],
+      en: ["Belongs to the Moka District", "Site of the Melrose Prison", "Opening of the prison in 2014", "Capacity for 900 inmates", "Location on the central plateau", "Rural environment"],
+    },
   },
   {
     id: "mauritius-cluny-cities-v2",
@@ -1444,6 +2344,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population approx. 2,000 residents", "Former significant railway post", "Main economic activity: agriculture", "Scenic hiking trails nearby"],
     },
     imageHint: "Forested landscape in Cluny Mauritius",
+    descriptionAdvanced: {
+      de: "Ein kleiner Ort im Distrikt Grand Port im Südosten der Insel. Das Dorf ist historisch eng mit der Bewirtschaftung von Zuckerrohrplantagen verknüpft und liegt in der Nähe ausgedehnter Waldgebiete. Die Region ist für ihre ruhige Lage und die traditionelle mauritische Landwirtschaft bekannt.",
+      hu: "Kisebb település a Grand Port körzetben, a sziget délkeleti részén. A falu történelmileg szorosan kötődik a cukornádültetvények műveléséhez, és kiterjedt erdős területek közelében fekszik. A régió nyugodt elhelyezkedéséről és a hagyományos mauritiusi mezőgazdaságról ismert.",
+      ro: "O mică localitate în districtul Grand Port, în sud-estul insulei. Satul este legat istoric de cultivarea plantațiilor de trestie de zahăr și se află în apropierea unor zone împădurite extinse. Regiunea este cunoscută pentru locația liniștită și agricultura tradițională mauritiană.",
+      en: "A small locality in the Grand Port District, in the southeast of the island. The village is historically closely linked to the cultivation of sugar cane plantations and is located near extensive forested areas. The region is known for its quiet location and traditional Mauritian agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Distrikt Grand Port", "Südöstliche Lage auf Mauritius", "Nähe zum Ort Rose Belle", "Geschichte der Zuckerrohrplantagen", "Tropisches Klima", "Ländliche Gemeinde"],
+      hu: ["A Grand Port körzetben található", "Délkeleti elhelyezkedés", "Rose Belle városának közelében", "Cukornádültetvények történelme", "Trópusi éghajlat", "Vidéki közösség"],
+      ro: ["Situat în districtul Grand Port", "Localizare în sud-estul insulei", "Proximitate de localitatea Rose Belle", "Istoria plantațiilor de trestie de zahăr", "Climat tropical", "Comunitate rurală"],
+      en: ["Located in the Grand Port District", "Southeastern location in Mauritius", "Proximity to Rose Belle town", "History of sugar cane plantations", "Tropical climate", "Rural community"],
+    },
   },
   {
     id: "mauritius-bananes-cities-v2",
@@ -1463,6 +2375,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population approx. 1,000 residents", "One of the rainiest island spots", "Farming of tea and vegetables", "Quiet mountain lifestyle"],
     },
     imageHint: "Small village houses in Bananes Mauritius",
+    descriptionAdvanced: {
+      de: "Eine Siedlung im Distrikt Grand Port, die sich in unmittelbarer Nähe des Midlands Dam befindet. Der Ort ist von einer beeindruckenden Bergkulisse umgeben und lebt hauptsächlich von landwirtschaftlichen Aktivitäten. Das nahegelegene Reservoir spielt eine entscheidende Rolle für die Wasserversorgung der Insel.",
+      hu: "Település a Grand Port körzetben, a Midlands-gát közvetlen közelében. A helységet lenyűgöző hegyi környezet veszi körül, és lakói főként mezőgazdasági tevékenységekből élnek. A közeli víztározó döntő szerepet játszik a sziget vízellátásában.",
+      ro: "O așezare în districtul Grand Port, situată în imediata apropiere a barajului Midlands. Localitatea este înconjurată de un peisaj montan impresionant și trăiește în principal din activități agricole. Rezervorul din apropiere joacă un rol crucial în alimentarea cu apă a insulei.",
+      en: "A settlement in the Grand Port District, located in the immediate vicinity of the Midlands Dam. The place is surrounded by an impressive mountain backdrop and lives mainly from agricultural activities. The nearby reservoir plays a crucial role in the island's water supply.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Distrikt Grand Port", "Nähe zum Midlands-Staudamm", "Stauseekapazität von 42 Mio. m³", "Gebirgiges Gelände", "Wichtige Wasserressourcenregion", "Zentral-östliche Lage"],
+      hu: ["A Grand Port körzethez tartozik", "A Midlands-gát közelében fekszik", "Víztározó kapacitása 42 millió m³", "Hegyes terep", "Fontos vízkészleti régió", "Közép-keleti elhelyezkedés"],
+      ro: ["Aparține districtului Grand Port", "Proximitate de barajul Midlands", "Capacitate rezervor 42 mil. m³", "Teren muntos", "Regiune importantă pentru resursele de apă", "Localizare în centrul-estul insulei"],
+      en: ["Belongs to the Grand Port District", "Near the Midlands Dam", "Reservoir capacity of 42 million m³", "Mountainous terrain", "Important water resource region", "Central-eastern location"],
+    },
   },
   {
     id: "mauritius-le-val-cities-v2",
@@ -1482,6 +2406,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Home to Le Val Nature Park", "Natural springs used for farming", "Population approx. 1,500 residents", "Highly lush and green setting"],
     },
     imageHint: "Nature park area in Le Val Mauritius",
+    descriptionAdvanced: {
+      de: "Ein Ort im Distrikt Grand Port, der weithin für seinen gleichnamigen Naturpark bekannt ist. Die Region zeichnet sich durch üppige Täler, Flüsse und eine artenreiche Vogelwelt aus. Es ist ein bedeutendes Ziel für den Ökotourismus und bewahrt einen Teil der ursprünglichen Flora der Insel.",
+      hu: "Település a Grand Port körzetben, amely széles körben ismert az azonos nevű természeti parkjáról. A régiót buja völgyek, folyók és fajgazdag madárvilág jellemzi. Az ökoturizmus egyik fontos célpontja, és megőrzi a sziget eredeti növényvilágának egy részét.",
+      ro: "O localitate în districtul Grand Port, cunoscută pe scară largă pentru parcul său natural omonim. Regiunea se caracterizează prin văi luxuriante, râuri și o avifaună bogată în specii. Este o destinație importantă pentru ecoturism, conservând o parte din flora originală a insulei.",
+      en: "A locality in the Grand Port District, widely known for its namesake nature park. The region is characterized by lush valleys, rivers, and a species-rich birdlife. It is an important destination for ecotourism and preserves part of the island's original flora.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Distrikt Grand Port", "Standort des Le Val Nature Park", "Fläche von etwa 1000 Hektar", "Vielfältige Vogelarten", "Ziel für Ökotourismus", "Tal- und Flusslandschaft"],
+      hu: ["A Grand Port körzetben található", "A Le Val Nature Park helyszíne", "Területe körülbelül 1000 hektár", "Változatos madárfajok", "Ökoturisztikai célpont", "Völgy- és folyóvölgyi táj"],
+      ro: ["Situat în districtul Grand Port", "Locația Parcului Natural Le Val", "Suprafață de aproximativ 1000 de hectare", "Specii diverse de păsări", "Destinație pentru ecoturism", "Peisaj de văi și râuri"],
+      en: ["Located in the Grand Port District", "Site of the Le Val Nature Park", "Area of about 1000 hectares", "Diverse bird species", "Ecotourism destination", "Valley and river landscape"],
+    },
   },
   {
     id: "mauritius-clémencia-cities-v2",
@@ -1501,6 +2437,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population approx. 2,000 residents", "Located in Flacq district", "Primarily agricultural village", "Maintains a traditional lifestyle"],
     },
     imageHint: "Rural village street in Clémencia",
+    descriptionAdvanced: {
+      de: "Ein Dorf im Distrikt Flacq, gelegen in einer hügeligen Landschaft im Osten der Insel. Es ist bekannt für seine ruhige Atmosphäre und die weiten Zuckerrohrfelder, die den Ort umschließen. Die Gemeinde ist fest in der lokalen landwirtschaftlichen Produktion und Tradition verwurzelt.",
+      hu: "Falu a Flacq körzetben, Mauritius keleti részén, dombos vidéken. Nyugodt légköréről és az őt körülölelő hatalmas cukornádmezőkről ismert. A közösség szilárdan gyökerezik a helyi mezőgazdasági termelésben és hagyományokban.",
+      ro: "Un sat în districtul Flacq, situat într-un peisaj deluros din estul insulei. Este cunoscut pentru atmosfera sa liniștită și câmpurile vaste de trestie de zahăr care înconjoară localitatea. Comunitatea este ferm înrădăcinată în producția și tradiția agricolă locală.",
+      en: "A village in the Flacq District, located in a hilly landscape in the east of the island. It is known for its quiet atmosphere and the vast sugar cane fields that surround the locality. The community is firmly rooted in local agricultural production and tradition.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Distrikt Flacq", "Lage im Osten von Mauritius", "Hügeliges Gelände", "Zentrum der Zuckerrohrproduktion", "Ländlicher Siedlungstyp", "Tropisches Klima"],
+      hu: ["A Flacq körzethez tartozik", "Kelet-mauritiusi elhelyezkedés", "Dombos terep", "Cukornádtermelés központja", "Vidéki településtípus", "Trópusi éghajlat"],
+      ro: ["Aparține districtului Flacq", "Localizare în estul insulei Mauritius", "Teren deluros", "Centru al producției de trestie de zahăr", "Tip de așezare rurală", "Climat tropical"],
+      en: ["Belongs to the Flacq District", "Location in eastern Mauritius", "Hilly terrain", "Center of sugar cane production", "Rural settlement type", "Tropical climate"],
+    },
   },
   {
     id: "mauritius-olivier-cities-v2",
@@ -1520,6 +2468,18 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Located close to the coast", "Population approx. 1,000 residents", "Rural village infrastructure", "Part of the Mahébourg region"],
     },
     imageHint: "Small village homes in Olivier Mauritius",
+    descriptionAdvanced: {
+      de: "Eine kleine ländliche Siedlung, die eng mit der landwirtschaftlichen Identität der Insel verbunden ist. Der Ort liegt abseits der großen städtischen Zentren und bietet Einblicke in das traditionelle mauritische Dorfleben. Die Region ist durch Plantagen und kleine landwirtschaftliche Betriebe geprägt.",
+      hu: "Kisméretű vidéki település, amely szorosan kötődik a sziget mezőgazdasági identitásához. A hely a nagy városi központoktól távol fekszik, és betekintést nyújt a hagyományos mauritiusi falusi életbe. A régiót ültetvények és kis mezőgazdasági üzemek jellemzik.",
+      ro: "O mică așezare rurală, strâns legată de identitatea agricolă a insulei. Localitatea este situată departe de marile centre urbane și oferă o incursiune în viața tradițională a satului mauritian. Regiunea este marcată de plantații și mici exploatații agricole.",
+      en: "A small rural settlement closely linked to the island's agricultural identity. The place is located away from major urban centers and offers insights into traditional Mauritian village life. The region is characterized by plantations and small agricultural holdings.",
+    },
+    factsAdvanced: {
+      de: ["Ländliche Siedlung", "Landwirtschaftliches Erbe", "Lage im Landesinneren", "Plantagengebiet", "Traditionelle Anbaumethoden", "Ruhiges Wohnumfeld"],
+      hu: ["Vidéki település", "Mezőgazdasági örökség", "Belső fekvésű terület", "Ültetvényes övezet", "Hagyományos termesztési módszerek", "Nyugodt lakókörnyezet"],
+      ro: ["Așezare rurală", "Patrimoniu agricol", "Localizare în interiorul insulei", "Zonă de plantații", "Metode tradiționale de cultivare", "Mediu rezidențial liniștit"],
+      en: ["Rural settlement", "Agricultural heritage", "Inland location", "Plantation area", "Traditional farming methods", "Quiet residential environment"],
+    },
   },
   {
     id: "mauritius-vacoas-phoenix-cities-v2",
@@ -1539,5 +2499,17 @@ export const mauritiusCitiesV2: POI[] = [
       en: ["Population exceeds 100,000", "Home to various government offices", "Major military and police center", "Cooler climate than coastal regions"],
     },
     imageHint: "Skyline of Vacoas-Phoenix area",
+    descriptionAdvanced: {
+      de: "Eine der bedeutendsten Städte von Mauritius, gelegen im zentralen Hochland der Insel. Sie entstand 1963 durch den Zusammenschluss der Gemeinden Vacoas und Phoenix und dient heute als wichtiges Verwaltungs- und Wohnzentrum. Die Stadt profitiert von einem kühleren Klima als die Küstenregionen.",
+      hu: "Mauritius egyik legjelentősebb városa, a sziget központi fennsíkján. 1963-ban jött létre Vacoas és Phoenix települések egyesülésével, és ma fontos közigazgatási és lakóközpontként szolgál. A város élvezi a tengerparti régióknál hűvösebb klímát.",
+      ro: "Unul dintre cele mai importante orașe din Mauritius, situat în podișul central al insulei. S-a format în 1963 prin fuziunea localităților Vacoas și Phoenix și servește astăzi ca un important centru administrativ și rezidențial. Orașul beneficiază de un climat mai răcoros decât regiunile de coastă.",
+      en: "One of the most significant towns in Mauritius, located on the island's central plateau. It was formed in 1963 through the merger of the Vacoas and Phoenix communities and now serves as a major administrative and residential center. The town benefits from a cooler climate than coastal regions.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Distrikt Plaines Wilhems", "Zusammenschluss im Jahr 1963", "Höhe von etwa 400 Metern", "Sitz der Special Mobile Force", "Wichtiger Verkehrsknotenpunkt", "Zentrum der pharmazeutischen Industrie"],
+      hu: ["A Plaines Wilhems körzetben található", "Egyesülés éve: 1963", "Tengerszint feletti magassága 400 méter", "A Special Mobile Force székhelye", "Fontos közlekedési csomópont", "A gyógyszeripar központja"],
+      ro: ["Situat în districtul Plaines Wilhems", "Fuziune în anul 1963", "Altitudine de aproximativ 400 de metri", "Sediul Special Mobile Force", "Important nod de transport", "Centru al industriei farmaceutice"],
+      en: ["Located in the Plaines Wilhems District", "Merger in the year 1963", "Altitude of about 400 meters", "Headquarters of the Special Mobile Force", "Major transport hub", "Center of the pharmaceutical industry"],
+    },
   }
 ];

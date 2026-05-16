@@ -19,6 +19,18 @@ export const bahrainReliefV2: POI[] = [
       en: ["134 meters elevation", "Name means Mountain of Smoke", "Highest point in the country", "Composed of limestone rock"],
     },
     imageHint: "Jabal al-Dukhan rocky peak Bahrain",
+    descriptionAdvanced: {
+      de: "Der Jabal al-Dukhan ist mit 134 Metern der höchste Punkt des Inselstaates Bahrain. Sein Name bedeutet Berg des Rauchs, was auf den Dunst zurückzuführen ist, der den Gipfel an heißen Tagen oft umgibt. Der Hügel besteht hauptsächlich aus Kalkstein und ist von zahlreichen Höhlen durchsetzt, die für Geologen von großem Interesse sind.",
+      hu: "A Jabal al-Dukhan 134 méteres magasságával Bahrein legmagasabb pontja az egész szigetországban. Neve jelentése Füst-hegy, amely a párára utal, amely a forró napokon gyakran körbeveszi a csúcsot. A domb főként mészkőből épül fel, és számos barlang található benne, amelyek jelentős geológiai érdekességgel bírnak.",
+      ro: "Jabal al-Dukhan este cel mai înalt punct din statul insular Bahrain, având o altitudine de 134 de metri. Numele său se traduce prin Muntele Fumului, referindu-se la ceața care înconjoară adesea vârful în zilele toride. Dealul este compus în principal din calcar și conține numeroase peșteri de interes geologic.",
+      en: "Jabal al-Dukhan is the highest point in the island nation of Bahrain, rising to an elevation of 134 meters. Its name translates to Mountain of Smoke, referring to the haze that often surrounds the summit on hot days. The hill is primarily composed of limestone and is honeycombed with numerous caves of geological interest.",
+    },
+    factsAdvanced: {
+      de: ["Die maximale Höhe beträgt 134 Meter über dem Meeresspiegel.", "Er befindet sich im südlichen Gouvernement der Hauptinsel.", "Der Hügel ist von bedeutenden Ölfeldern und Gasquellen umgeben.", "In der Nähe wurde 1932 die erste Ölquelle Bahrains entdeckt.", "Die Umgebung des Berges ist ein beliebtes Ziel für Camping in der Wüste.", "Geologisch gehört die Formation zum Eozän-Zeitalter."],
+      hu: ["A tengerszint feletti magassága pontosan 134 méter.", "A szigetország déli kormányzóságának területén helyezkedik el.", "A dombot gazdag olajmezők és földgázforrások veszik körül.", "Az első bahreini olajkutat 1932-ben a közelében fúrták ki.", "A környék népszerű helyszín a sivatagi kempingezéshez a téli hónapokban.", "Számos természetes barlang tagolja a mészkő alapú szerkezetét."],
+      ro: ["Altitudinea maximă este de 134 de metri deasupra nivelului mării.", "Se află în Guvernoratul de Sud al insulei principale Bahrain.", "Dealul este înconjurat de câmpuri petroliere și puțuri de gaze naturale.", "Prima sondă de petrol din Bahrain a fost forată în apropiere în 1932.", "Zona este o destinație populară pentru camping în timpul iernii.", "Structura muntoasă face parte dintr-o formațiune geologică din eocen."],
+      en: ["The maximum elevation is 134 meters above sea level.", "It is located in the Southern Governorate of the main island.", "The hill is surrounded by significant oil fields and gas wells.", "The first oil well in Bahrain was discovered near its base in 1932.", "The surrounding desert is a popular location for seasonal camping.", "Several small caves are situated within the mountain's limestone flanks."],
+    },
   },
   {
     id: "bahrain-sakhrat-al-khabiyah-relief-v2",
@@ -38,6 +50,18 @@ export const bahrainReliefV2: POI[] = [
       en: ["Natural rock formation", "Eroded by wind over centuries", "Located in Sakhir desert", "Geological landmark"],
     },
     imageHint: "Sakhrat al-Khabiyah natural rock formation Bahrain",
+    descriptionAdvanced: {
+      de: "Sakhrat al-Khabiyah ist eine markante Felsformation in der Wüstenlandschaft Bahrains, die durch Jahrtausende der Erosion geformt wurde. Diese geologische Struktur dient als natürliches Wahrzeichen im Zentrum der Insel. Die Formation besteht aus verwittertem Kalkstein und bietet Einblicke in die prähistorische Geologie der Region.",
+      hu: "A Sakhrat al-Khabiyah egy jellegzetes sziklaképződmény Bahrein sivatagi táján, amelyet az évezredes erózió formált. Ez a geológiai struktúra természetes tájékozódási pontként szolgál a sziget központi részén. A képződmény mállott mészkőből áll, és betekintést nyújt a régió őskori geológiájába.",
+      ro: "Sakhrat al-Khabiyah este o formațiune stâncoasă distinctivă în peisajul deșertic al Bahrainului, modelată de milenii de eroziune. Această structură geologică servește ca punct de reper natural în centrul insulei. Formațiunea este compusă din calcar erodat și oferă perspective asupra geologiei preistorice a regiunii.",
+      en: "Sakhrat al-Khabiyah is a prominent rock formation in the desert landscape of Bahrain, shaped by millennia of wind and water erosion. This geological structure serves as a natural landmark in the central part of the island. The formation consists of weathered limestone and provides insight into the prehistoric geology of the region.",
+    },
+    factsAdvanced: {
+      de: ["Die Felsformation befindet sich in der Nähe der zentralen Ölfelder.", "Wind- und Wassererosion schufen die markante Silhouette des Felsens.", "Der Standort liegt unweit des höchsten Berges Jabal al-Dukhan.", "Die Formation ist ein Teil des Kalksteinplateaus der Hauptinsel.", "Es dient seit langem als Orientierungspunkt für Reisende in der Wüste.", "Geologisch stammt das Gestein aus der Zeit des Tertiärs."],
+      hu: ["A sziklaképződmény a központi olajmezők közelében található.", "A szél és a víz eróziója alakította ki a kőzet különleges formáját.", "A helyszín nem messze fekszik a legmagasabb ponttól, a Jabal al-Dukhantól.", "A képződmény a fősziget mészkőfennsíkjának szerves része.", "Régóta fontos tájékozódási pontként szolgál a sivatagi utazók számára.", "Geológiai értelemben a kőzet a harmadidőszakból származik."],
+      ro: ["Formațiunea stâncoasă este situată în apropierea câmpurilor petroliere centrale.", "Eroziunea eoliană și hidrică a creat silueta distinctivă a stâncii.", "Situl se află la mică distanță de vârful Jabal al-Dukhan.", "Formațiunea face parte din platoul de calcar al insulei principale.", "Servește ca punct de orientare istoric pentru călătorii din deșert.", "Din punct de vedere geologic, roca datează din era terțiară."],
+      en: ["The rock formation is located near the central oil fields of Bahrain.", "Wind and water erosion shaped the distinctive profile of the rock.", "The site is situated not far from the peak of Jabal al-Dukhan.", "The formation is part of the limestone plateau of the main island.", "It has long served as a landmark for travelers in the desert region.", "Geologically, the rock dates back to the Tertiary period."],
+    },
   },
   {
     id: "bahrain-al-wasmiya-relief-v2",

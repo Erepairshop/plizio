@@ -19,6 +19,18 @@ export const palauNatureV2: POI[] = [
       en: ["Covers 445 square kilometers of area", "Formed from ancient coral reefs", "Contains 13 isolated marine lakes", "UNESCO World Heritage site since 2012"],
     },
     imageHint: "Aerial view of green mushroom-shaped limestone islands in turquoise water",
+    descriptionAdvanced: {
+      de: "Die Rock Islands, auch Chelbacheb-Inseln genannt, sind eine Ansammlung von über 250 Kalksteininseln, die aus der südlichen Lagune von Palau ragen. Diese pilzförmigen Inseln entstanden durch vulkanische Aktivität und Erosion über Millionen von Jahren. Sie beherbergen zahlreiche isolierte Meeresseen, die jeweils ein einzigartiges marines Ökosystem mit spezialisierten Arten entwickelt haben.",
+      hu: "A Rock Islands, más néven Chelbacheb-szigetek, több mint 250 mészkőszigetből álló csoport, amely Palau déli lagúnájából emelkedik ki. Ezek a gomba alakú szigetek vulkáni tevékenység és az évmilliókig tartó erózió során jöttek létre. Számos elszigetelt tengeri tónak adnak otthont, amelyek mindegyike egyedi ökoszisztémát fejlesztett ki.",
+      ro: "Rock Islands, numite și Insulele Chelbacheb, sunt un grup de peste 250 de insule calcaroase care se ridică din Laguna Sudică a Palau. Aceste insule în formă de ciupercă s-au format prin activitate vulcanică și eroziune de-a lungul a milioane de ani. Găzduiesc numeroase lacuri marine izolate, fiecare dezvoltând un ecosistem marin unic.",
+      en: "The Rock Islands, also known as Chelbacheb, are a collection of over 250 limestone islands emerging from Palau's Southern Lagoon. These mushroom-shaped islands were formed by volcanic activity and erosion over millions of years. They host numerous isolated marine lakes, each of which has developed a unique marine ecosystem with specialized species.",
+    },
+    factsAdvanced: {
+      de: ["Die Region wurde 2012 in das UNESCO-Welterbe aufgenommen", "Das gesamte Schutzgebiet umfasst eine Fläche von über 1000 km²", "Es gibt hier über 50 isolierte marine Seen", "Die Inseln bestehen aus gehobenem Kalkstein vulkanischen Ursprungs", "Hier leben über 380 Korallenarten und 1300 Fischarten", "Archäologische Stätten belegen eine Besiedlung vor über 3000 Jahren"],
+      hu: ["A régiót 2012-ben vették fel az UNESCO Világörökségi listájára", "A teljes védett terület meghaladja az 1000 négyzetkilométert", "Több mint 50 elszigetelt tengeri tó található a szigeteken", "A szigetek vulkáni eredetű, megemelkedett mészkőből állnak", "Több mint 380 korallfaj és 1300 halfaj él a térségben", "Régészeti helyszínek bizonyítják a több mint 3000 évvel ezelőtti lakottságot"],
+      ro: ["Regiunea a fost inclusă în patrimoniul mondial UNESCO în 2012", "Întreaga zonă protejată acoperă o suprafață de peste 1000 km²", "Există peste 50 de lacuri marine izolate pe aceste insule", "Insulele sunt compuse din calcar ridicat de origine vulcanică", "Zona găzduiește peste 380 de specii de corali și 1300 de specii de pești", "Situl arheologic atestă prezența umană de acum peste 3000 de ani"],
+      en: ["The region was inscribed as a UNESCO World Heritage site in 2012", "The entire protected area covers over 1,000 square kilometers", "There are more than 50 isolated marine lakes within the islands", "The islands consist of uplifted limestone of volcanic origin", "Over 380 coral species and 1,300 fish species inhabit the area", "Archaeological sites show evidence of human occupation over 3,000 years ago"],
+    },
   },
   {
     id: "palau-mount-ngerchelchuus-nature-v2",
@@ -38,6 +50,18 @@ export const palauNatureV2: POI[] = [
       en: ["Highest point in the country", "Elevation of 242 meters", "Covered in dense tropical rainforest", "Offers views of the western coastline"],
     },
     imageHint: "Densely forested hill peak under tropical sky",
+    descriptionAdvanced: {
+      de: "Der Mount Ngerchelchuus ist mit einer Höhe von 242 Metern der höchste Punkt der Republik Palau. Er befindet sich auf der Insel Babeldaob an der Grenze zwischen den Bundesstaaten Ngardmau und Ngaremlengui. Der Berg ist von dichtem tropischem Regenwald bedeckt, der eine wichtige Wasserscheide für die Insel darstellt und seltene endemische Pflanzen beherbergt.",
+      hu: "A Mount Ngerchelchuus 242 méteres magasságával Palau Köztársaság legmagasabb pontja. Babeldaob szigetén található, Ngardmau és Ngaremlengui államok határán. A hegyet sűrű trópusi esőerdő borítja, amely a sziget fontos vízválasztója, és ritka endemikus növényeknek ad otthont.",
+      ro: "Muntele Ngerchelchuus este cel mai înalt punct din Republica Palau, având o înălțime de 242 de metri. Este situat pe insula Babeldaob, la granița dintre statele Ngardmau și Ngaremlengui. Muntele este acoperit de o pădure tropicală densă, care reprezintă un bazin hidrografic important pentru insulă și adăpostește plante endemice rare.",
+      en: "Mount Ngerchelchuus is the highest point in the Republic of Palau, standing at an elevation of 242 meters (794 feet). It is located on Babeldaob Island, on the border between the states of Ngardmau and Ngaremlengui. The mountain is covered in dense tropical rainforest, which serves as a vital watershed for the island and hosts rare endemic plants.",
+    },
+    factsAdvanced: {
+      de: ["Die Gipfelhöhe beträgt genau 242 Meter über dem Meeresspiegel", "Der Berg bildet die Grenze zwischen Ngardmau und Ngaremlengui", "Ein Wanderweg führt vom Ngardmau-Wasserfall zum Gipfel", "Der Wald am Berg beherbergt seltene palauische Orchideenarten", "Er ist Teil des größten zusammenhängenden Regenwaldgebiets Mikronesiens", "Vom Gipfel aus kann man bei guter Sicht beide Küsten von Babeldaob sehen"],
+      hu: ["A csúcsmagasság pontosan 242 méter a tengerszint felett", "A hegy alkotja a határt Ngardmau és Ngaremlengui államok között", "A Ngardmau-vízeséstől túraútvonal vezet fel a csúcsra", "A hegyi erdő ritka palaui orchideafajoknak ad otthont", "Mikronézia legnagyobb összefüggő esőerdő-területének része", "A csúcsról tiszta időben Babeldaob mindkét partja látható"],
+      ro: ["Înălțimea vârfului este de exact 242 de metri deasupra nivelului mării", "Muntele formează granița dintre statele Ngardmau și Ngaremlengui", "Un traseu de drumeție duce de la cascada Ngardmau până la vârf", "Pădurea de pe munte adăpostește specii rare de orhidee palauane", "Face parte din cea mai mare zonă de pădure tropicală continuă din Micronezia", "De pe vârf se pot vedea ambele coaste ale insulei Babeldaob în zilele senine"],
+      en: ["The peak elevation is exactly 242 meters above sea level", "The mountain forms the boundary between Ngardmau and Ngaremlengui", "A hiking trail leads to the summit from the Ngardmau waterfall area", "The mountain forest hosts rare endemic Palauan orchid species", "It is part of the largest contiguous rainforest area in Micronesia", "Both coasts of Babeldaob are visible from the summit on clear days"],
+    },
   },
   {
     id: "palau-lake-ngardok-nature-v2",
@@ -57,6 +81,18 @@ export const palauNatureV2: POI[] = [
       en: ["Drainage area of 493 hectares", "Habitat for saltwater crocodiles", "Ramsar protected site since 2002", "Maximum depth of 3 meters"],
     },
     imageHint: "Calm freshwater lake surrounded by tropical vegetation",
+    descriptionAdvanced: {
+      de: "Der Ngardok-See ist der größte natürliche Süßwassersee in ganz Mikronesien und liegt im Bundesstaat Melekeok auf der Insel Babeldaob. Er ist das Herzstück eines über 490 Hektar großen Naturschutzgebiets, das als wichtiges Reservoir für die Wasserversorgung dient. Der See ist bekannt für seine Population von Salzwasserkrokodilen, die sich an das Süßwasser angepasst haben.",
+      hu: "A Ngardok-tó egész Mikronézia legnagyobb természetes édesvízi tava, amely Babeldaob szigetén, Melekeok államban található. Egy több mint 490 hektáros természetvédelmi terület központja, amely fontos vízbázisként szolgál. A tó ismert az itt élő bordás krokodiljairól, amelyek alkalmazkodtak az édesvízi körülményekhez.",
+      ro: "Lacul Ngardok este cel mai mare lac natural cu apă dulce din întreaga Micronezie, situat în statul Melekeok de pe insula Babeldaob. Este piesa centrală a unei rezervații naturale de peste 490 de hectare, servind ca rezervor important de apă. Lacul este cunoscut pentru populația sa de crocodili de apă sărată care s-au adaptat la apa dulce.",
+      en: "Lake Ngardok is the largest natural freshwater lake in all of Micronesia, located in Melekeok State on Babeldaob Island. It is the centerpiece of a nature reserve covering over 490 hectares, serving as an important reservoir for water supply. The lake is known for its population of saltwater crocodiles that have adapted to the freshwater environment.",
+    },
+    factsAdvanced: {
+      de: ["Die reine Wasserfläche des Sees beträgt etwa 15 Hektar", "Der See wurde 2002 als erstes RAMSAR-Gebiet in Palau anerkannt", "Hier leben bedrohte Vogelarten wie die Palau-Fruchttaube", "Der See liegt in einer Senke, die von Hügeln umgeben ist", "Salzwasserkrokodile brüten regelmäßig in den Sümpfen des Sees", "Das Schutzgebiet dient dem Schutz der Wasserqualität für Melekeok"],
+      hu: ["A tó tiszta vízfelülete körülbelül 15 hektárt tesz ki", "A tavat 2002-ben ismerték el Palau első RAMSAR-területeként", "Veszélyeztetett madárfajok élnek itt, mint a palaui gyümölcsgalamb", "A tó egy dombokkal körülvett mélyedésben helyezkedik el", "A bordás krokodilok rendszeresen szaporodnak a tó mocsarai között", "A védett terület Melekeok vízellátásának minőségét biztosítja"],
+      ro: ["Suprafața luciului de apă al lacului este de aproximativ 15 hectare", "Lacul a fost recunoscut în 2002 ca primul sit RAMSAR din Palau", "Aici trăiesc specii de păsări periclitate, cum ar fi porumbelul de fructe palauan", "Lacul este situat într-o depresiune înconjurată de dealuri", "Crocodilii de apă sărată se înmulțesc regulat în mlaștinile lacului", "Rezervația are rolul de a proteja calitatea apei pentru statul Melekeok"],
+      en: ["The lake's open water surface area is approximately 15 hectares", "The lake was recognized as Palau's first RAMSAR site in 2002", "It is home to endangered bird species like the Palau fruit dove", "The lake is situated in a depression surrounded by rolling hills", "Saltwater crocodiles regularly breed in the lake's surrounding marshes", "The reserve protects the primary water source for Melekeok State"],
+    },
   },
   {
     id: "palau-eil-malk-island-nature-v2",
@@ -76,6 +112,18 @@ export const palauNatureV2: POI[] = [
       en: ["Main island of the Mecherchar group", "Home to over 10 marine lakes", "Dense tropical forest coverage", "Only accessible by boat from Koror"],
     },
     imageHint: "Lush green island with multiple hidden lakes viewed from above",
+    descriptionAdvanced: {
+      de: "Eil Malk ist eine der größten Inseln der Rock Islands und berühmt für den Ongeim'l Tketau, besser bekannt als Jellyfish Lake. Dieser isolierte Meeressee beherbergt Millionen von goldenen Quallen, die ihre Nesselkraft im Laufe der Evolution fast vollständig verloren haben. Die Insel besteht aus zerklüftetem Kalkstein und ist von unberührtem tropischem Wald bewachsen.",
+      hu: "Eil Malk a Rock Islands egyik legnagyobb szigete, amely az Ongeim'l Tketau-ról, ismertebb nevén a Jellyfish Lake-ről híres. Ez az elszigetelt tengeri tó aranyos medúzák millióinak ad otthont, amelyek az evolúció során szinte teljesen elveszítették csípőképességüket. A sziget szabdalt mészkőből áll, és érintetlen trópusi erdő borítja.",
+      ro: "Eil Malk este una dintre cele mai mari insule din grupul Rock Islands și este faimoasă pentru Ongeim'l Tketau, cunoscut sub numele de Lacul Meduzelor. Acest lac marin izolat găzduiește milioane de meduze aurii care și-au pierdut aproape complet capacitatea de a urzica. Insula este compusă din calcar zimțat și este acoperită de pădure tropicală virgină.",
+      en: "Eil Malk is one of the largest islands in the Rock Islands group, famous for hosting Ongeim'l Tketau, better known as Jellyfish Lake. This isolated marine lake is home to millions of golden jellyfish that have nearly lost their stinging ability through evolution. The island consists of rugged limestone and is covered with pristine tropical forest.",
+    },
+    factsAdvanced: {
+      de: ["Die Insel umfasst eine Fläche von etwa 19 Quadratkilometern", "Der Jellyfish Lake ist etwa 12.000 Jahre alt", "Tauchen mit Geräten ist im Jellyfish Lake streng verboten", "Die goldenen Quallen folgen täglich dem Stand der Sonne", "Eil Malk gehört zum Bundesstaat Koror", "Die Insel weist zahlreiche Tunnel und Höhlen im Kalkstein auf"],
+      hu: ["A sziget területe körülbelül 19 négyzetkilométer", "A Medúza-tó körülbelül 12 000 éves múltra tekint vissza", "A légzőkészülékes búvárkodás szigorúan tilos a Medúza-tóban", "Az aranyos medúzák naponta követik a nap járását a tóban", "Eil Malk szigete Koror állam fennhatósága alá tartozik", "A szigeten számos alagút és barlang található a mészkőben"],
+      ro: ["Insula acoperă o suprafață de aproximativ 19 kilometri pătrați", "Lacul Meduzelor are o vechime de aproximativ 12.000 de ani", "Scufundările cu tuburi de oxigen sunt strict interzise în Lacul Meduzelor", "Meduzele aurii urmează zilnic traiectoria soarelui în lac", "Insula Eil Malk aparține de statul Koror", "Insula prezintă numeroase tuneluri și peșteri în structura calcaroasă"],
+      en: ["The island covers an area of approximately 19 square kilometers", "Jellyfish Lake is estimated to be around 12,000 years old", "Scuba diving is strictly prohibited in Jellyfish Lake to protect the ecosystem", "The golden jellyfish follow a daily migration pattern tied to the sun", "Eil Malk is part of the administrative state of Koror", "The island contains numerous marine tunnels and limestone caves"],
+    },
   },
   {
     id: "palau-ngeruktabel-island-nature-v2",
@@ -95,6 +143,18 @@ export const palauNatureV2: POI[] = [
       en: ["Area of approx. 19 square kilometers", "Highest point is 204 meters", "No permanent human settlement", "Major nesting site for seabirds"],
     },
     imageHint: "Rugged limestone island with vertical cliffs rising from the sea",
+    descriptionAdvanced: {
+      de: "Ngeruktabel ist die größte Insel in der Rock-Islands-Gruppe und bekannt für ihre dramatische Topografie mit steilen Kalksteinklippen. Die Insel ist unbewohnt und vollständig von dichtem Regenwald bedeckt, der eine Vielzahl endemischer Vögel beherbergt. Entlang ihrer zerklüfteten Küstenlinie finden sich zahlreiche geschützte Buchten und marine Seen.",
+      hu: "Ngeruktabel a Rock Islands csoport legnagyobb szigete, amely drámai topográfiájáról és meredek mészkőszikláiról ismert. A sziget lakatlan, és teljes egészében sűrű esőerdő borítja, amely számos endemikus madárfajnak ad otthont. Szabdalt partvonala mentén számos védett öböl és tengeri tó található.",
+      ro: "Ngeruktabel este cea mai mare insulă din grupul Rock Islands, cunoscută pentru topografia sa dramatică cu stânci calcaroase abrupte. Insula este nelocuită și complet acoperită de pădure tropicală densă, care adăpostește o varietate de păsări endemice. De-a lungul liniei sale de coastă zimțate se găsesc numeroase golfuri protejate și lacuri marine.",
+      en: "Ngeruktabel is the largest island in the Rock Islands group, known for its dramatic topography featuring steep limestone cliffs. The island is uninhabited and completely covered in dense rainforest that hosts a variety of endemic birds. Along its rugged coastline, there are numerous sheltered coves and marine lakes.",
+    },
+    factsAdvanced: {
+      de: ["Die Insel hat eine Fläche von etwa 19,1 Quadratkilometern", "Der höchste Punkt der Insel liegt 210 Meter über dem Meer", "Hier befinden sich Überreste japanischer Stellungen aus dem Zweiten Weltkrieg", "Die berühmte 'Milky Way'-Bucht liegt in der Nähe der Insel", "Die Vegetation besteht primär aus primärem Kalksteinwald", "Ngeruktabel ist ein wichtiges Brutgebiet für die Palau-Großfußhühner"],
+      hu: ["A sziget területe körülbelül 19,1 négyzetkilométer", "A sziget legmagasabb pontja 210 méterrel van a tengerszint felett", "Második világháborús japán katonai állások maradványai találhatók itt", "A híres 'Milky Way' öböl a sziget közvetlen közelében fekszik", "A növényzet elsősorban érintetlen mészkőerdőkből áll", "Ngeruktabel fontos fészkelőhelye a palaui ásótyúkoknak"],
+      ro: ["Insula are o suprafață de aproximativ 19,1 kilometri pătrați", "Cel mai înalt punct de pe insulă este la 210 metri deasupra mării", "Aici se află rămășițe ale pozițiilor japoneze din Al Doilea Război Mondial", "Faimosul golf 'Milky Way' este situat în apropierea insulei", "Vegetația constă în principal din pădure primară pe sol calcaros", "Ngeruktabel este un loc important de cuibărit pentru megapodul palauan"],
+      en: ["The island has a total land area of approximately 19.1 square kilometers", "The highest peak on the island reaches 210 meters above sea level", "Remnants of Japanese military installations from WWII can be found here", "The famous 'Milky Way' cove is located adjacent to the island", "The vegetation consists primarily of undisturbed limestone forest", "Ngeruktabel is a significant breeding ground for the Palau megapode"],
+    },
   },
   {
     id: "palau-peleliu-island-nature-v2",
@@ -114,6 +174,18 @@ export const palauNatureV2: POI[] = [
       en: ["Formed from uplifted coral limestone", "Area of approx. 13 square kilometers", "Possesses extensive reef systems", "Home to rare species of orchids"],
     },
     imageHint: "Aerial view of a flat green island with white beaches and reef edge",
+    descriptionAdvanced: {
+      de: "Peleliu ist eine Insel im Süden von Palau, die vor allem als Schauplatz einer der blutigsten Schlachten des Pazifikkriegs 1944 bekannt wurde. Heute ist die Insel ein wichtiges Ziel für Historiker und Taucher gleichermaßen. Neben den zahlreichen Kriegsdenkmälern bietet die Insel unberührte Natur und Zugang zu einigen der besten Korallenriffe des Landes.",
+      hu: "Peleliu Palau déli részén található sziget, amely leginkább az 1944-es csendes-óceáni háború egyik legvéresebb csatájának helyszíneként vált ismertté. Ma a sziget fontos célpont a történészek és a búvárok számára egyaránt. A számos háborús emlékhely mellett a sziget érintetlen természetet és hozzáférést kínál az ország legjobb korallzátonyaihoz.",
+      ro: "Peleliu este o insulă din sudul Palau, cunoscută în principal ca locul uneia dintre cele mai sângeroase bătălii din Războiul din Pacific în 1944. Astăzi, insula este o destinație importantă atât pentru istorici, cât și pentru scufundători. Pe lângă numeroasele monumente de război, insula oferă natură virgină și acces la unele dintre cele mai bune recife de corali din țară.",
+      en: "Peleliu is an island in southern Palau, primarily known as the site of one of the bloodiest battles of the Pacific War in 1944. Today, the island is a major destination for both historians and divers. Beyond its numerous war memorials, the island offers pristine nature and access to some of the country's finest coral reefs.",
+    },
+    factsAdvanced: {
+      de: ["Die Schlacht um Peleliu dauerte von September bis November 1944", "Kloulklubed ist der Hauptort und das Verwaltungszentrum der Insel", "Die Insel umfasst eine Landfläche von etwa 13 Quadratkilometern", "Über 10.000 japanische Soldaten fielen bei der Verteidigung der Insel", "Das US-Militär nutzte die Insel nach der Eroberung als Flugstützpunkt", "Zahlreiche Höhlensysteme dienten während des Krieges als Bunker"],
+      hu: ["A peleliui csata 1944 szeptembere és novembere között zajlott", "Kloulklubed a sziget fő települése és közigazgatási központja", "A sziget szárazföldi területe körülbelül 13 négyzetkilométer", "Több mint 10 000 japán katona esett el a sziget védelmében", "Az amerikai hadsereg légi bázisként használta a szigetet az elfoglalása után", "Számos barlangrendszer szolgált bunkerként a háború alatt"],
+      ro: ["Bătălia de la Peleliu s-a desfășurat între septembrie și noiembrie 1944", "Kloulklubed este localitatea principală și centrul administrativ al insulei", "Insula are o suprafață terestră de aproximativ 13 kilometri pătrați", "Peste 10.000 de soldați japonezi au murit apărând insula", "Armata SUA a folosit insula ca bază aeriană după cucerirea ei", "Numeroase sisteme de peșteri au servit drept buncăre în timpul războiului"],
+      en: ["The Battle of Peleliu took place from September to November 1944", "Kloulklubed is the main village and administrative center of the island", "The island covers a land area of approximately 13 square kilometers", "Over 10,000 Japanese soldiers died defending the island during WWII", "The US military utilized the island as an airbase after its capture", "Numerous cave systems served as underground bunkers during the conflict"],
+    },
   },
   {
     id: "palau-angaur-island-nature-v2",
@@ -133,6 +205,18 @@ export const palauNatureV2: POI[] = [
       en: ["Lacks protective barrier reefs", "Known for its feral macaque monkeys", "Formerly a major phosphate mining site", "Strong ocean currents near the coast"],
     },
     imageHint: "Rugged coastline of a coral island with palm trees and waves",
+    descriptionAdvanced: {
+      de: "Angaur ist die südlichste bewohnte Insel von Palau und liegt außerhalb der schützenden Lagune im offenen Ozean. Die Insel hat eine bewegte Industriegeschichte, geprägt durch den intensiven Phosphatabbau im frühen 20. Jahrhundert. Heute ist Angaur für seine einzigartige Fauna bekannt, darunter eine Population von Makaken, die während der deutschen Kolonialzeit eingeführt wurden.",
+      hu: "Angaur Palau legdélebbi lakott szigete, amely a védőlagúnán kívül, a nyílt óceánban fekszik. A sziget mozgalmas ipari múlttal rendelkezik, amelyet a 20. század eleji intenzív foszfátbányászat határozott meg. Ma Angaur egyedülálló faunájáról ismert, beleértve a német gyarmati időkben betelepített makákópopulációt.",
+      ro: "Angaur este cea mai sudică insulă locuită din Palau, situată în afara lagunei protectoare, în largul oceanului. Insula are o istorie industrială agitată, marcată de extracția intensă de fosfați la începutul secolului XX. Astăzi, Angaur este cunoscută pentru fauna sa unică, inclusiv o populație de macaci introduși în timpul perioadei coloniale germane.",
+      en: "Angaur is the southernmost inhabited island of Palau, situated outside the protective lagoon in the open ocean. The island has a vibrant industrial history, marked by intensive phosphate mining in the early 20th century. Today, Angaur is known for its unique fauna, including a population of macaques introduced during the German colonial period.",
+    },
+    factsAdvanced: {
+      de: ["Der Phosphatabbau fand zwischen 1909 und 1955 statt", "Angaur ist der einzige Ort in Palau, an dem Japanisch Amtssprache ist", "Die Insel umfasst eine Fläche von etwa 8,4 Quadratkilometern", "Die Makaken auf der Insel stammen ursprünglich aus Südostasien", "Es gibt keine schützende Barriereriff-Lagune um Angaur", "Während des Zweiten Weltkriegs wurde die Insel 1944 von den USA besetzt"],
+      hu: ["A foszfátbányászat 1909 és 1955 között zajlott a szigeten", "Angaur az egyetlen hely Palauban, ahol a japán hivatalos nyelv", "A sziget területe körülbelül 8,4 négyzetkilométer", "A szigeten élő makákók eredetileg Délkelet-Ázsiából származnak", "Angaur körül nincs védelmet nyújtó gátzátonyos lagúna", "A második világháború alatt, 1944-ben foglalták el az amerikai csapatok"],
+      ro: ["Minarea fosfaților a avut loc între anii 1909 și 1955", "Angaur este singurul loc din Palau unde japoneza este limbă oficială", "Insula are o suprafață de aproximativ 8,4 kilometri pătrați", "Macacii de pe insulă sunt originari din Asia de Sud-Est", "Nu există o lagună protectoare cu recif de barieră în jurul insulei", "În timpul celui de-al Doilea Război Mondial, insula a fost ocupată de SUA în 1944"],
+      en: ["Phosphate mining activities took place between 1909 and 1955", "Angaur is the only place in Palau where Japanese is an official language", "The island covers a total land area of approximately 8.4 square kilometers", "The island's macaque monkeys were originally introduced from Southeast Asia", "Angaur lacks a protective barrier reef lagoon, exposing it to the open sea", "The island was captured by US forces in 1944 during World War II"],
+    },
   },
   {
     id: "palau-helen-reef-nature-v2",
@@ -152,6 +236,18 @@ export const palauNatureV2: POI[] = [
       en: ["Lagoon area is about 100 sq km", "Major nesting site for Green Sea Turtles", "Home to hundreds of coral species", "Over 500 km away from Koror"],
     },
     imageHint: "Isolated sand cay in the middle of a vast turquoise reef",
+    descriptionAdvanced: {
+      de: "Helen Reef ist ein abgelegenes Atoll im äußersten Süden von Palau, das zum Bundesstaat Hatohobei gehört. Das Riff umschließt eine riesige Lagune und bietet einen der unberührtesten marinen Lebensräume der Region. Es ist international als bedeutendes Brutgebiet für grüne Meeresschildkröten und zahlreiche Seevögel anerkannt.",
+      hu: "A Helen Reef egy távoli atoll Palau legdélebbi részén, amely Hatohobei államhoz tartozik. A zátony egy hatalmas lagúnát zár körül, és a régió egyik legérintetlenebb tengeri élőhelyét kínálja. Nemzetközileg elismert, mint a közönséges levesteknősök és számos tengeri madár kiemelt fontosságú szaporodóhelye.",
+      ro: "Helen Reef este un atol izolat situat în extremitatea sudică a Palau, aparținând statului Hatohobei. Reciful înconjoară o lagună uriașă și oferă unul dintre cele mai virgine habitate marine din regiune. Este recunoscut la nivel internațional ca un loc important de reproducere pentru țestoasele verzi și numeroase păsări marine.",
+      en: "Helen Reef is a remote atoll in the far south of Palau, belonging to the state of Hatohobei. The reef encloses a vast lagoon and offers one of the most pristine marine habitats in the region. It is internationally recognized as a significant breeding ground for green sea turtles and numerous seabirds.",
+    },
+    factsAdvanced: {
+      de: ["Die Lagune des Atolls umfasst eine Fläche von 103 km²", "Es ist als offizielles Meeresschutzgebiet (MPA) ausgewiesen", "Auf der kleinen Insel Helen Island befindet sich eine Rangerstation", "Das Riff liegt über 600 Kilometer südlich der Hauptinsel Koror", "Hier befindet sich eine der größten Nistkolonien für Schildkröten in Palau", "Die marine Biodiversität umfasst über 500 Fischarten"],
+      hu: ["Az atoll lagúnája 103 négyzetkilométeres területet foglal el", "Hivatalos tengeri védett területként (MPA) tartják számon", "A kis Helen-szigeten egy természetvédelmi őrállomás található", "A zátony több mint 600 kilométerre délre fekszik Koror főszigetétől", "Itt található Palau egyik legnagyobb teknősfészkelő kolóniája", "A tengeri élővilág több mint 500 halfajt foglal magában"],
+      ro: ["Laguna atolului acoperă o suprafață de 103 km²", "Este desemnată ca Arie Marină Protejată (MPA) oficială", "O stație de rangeri este situată pe mica insulă Helen Island", "Reciful se află la peste 600 de kilometri sud de insula principală Koror", "Aici se află una dintre cele mai mari colonii de cuibărit pentru țestoase din Palau", "Biodiversitatea marină include peste 500 de specii de pești"],
+      en: ["The atoll's lagoon covers an expansive area of 103 square kilometers", "It is designated as an official Marine Protected Area (MPA)", "A permanent ranger station is located on the small Helen Island", "The reef is situated over 600 kilometers south of the main island of Koror", "It hosts one of the largest green sea turtle nesting colonies in Palau", "The marine biodiversity includes over 500 documented fish species"],
+    },
   },
   {
     id: "palau-sonsorol-island-nature-v2",
@@ -171,6 +267,18 @@ export const palauNatureV2: POI[] = [
       en: ["Only about 2 km in length", "Surrounded by a narrow fringing reef", "No airstrip available on the island", "Rich in coconut palms and forest"],
     },
     imageHint: "Small oval green island in the middle of the deep blue ocean",
+    descriptionAdvanced: {
+      de: "Sonsorol Island ist die Hauptinsel des gleichnamigen Bundesstaates in den südwestlichen Außeninseln von Palau. Die Insel ist klein, flach und von einem schmalen Saumriff umgeben, was den Zugang per Schiff erschwert. Die Bewohner pflegen eine traditionelle Lebensweise, die stark vom Fischfang und dem Anbau von Kokosnüssen und Brotfrucht geprägt ist.",
+      hu: "Sonsorol-sziget az azonos nevű állam főszigete Palau délnyugati külső szigetei között. A sziget kicsi, alacsony fekvésű, és keskeny szegélyzátony veszi körül, ami megnehezíti a hajóval történő megközelítést. A lakosok hagyományos életmódot folytatnak, amely szorosan kötődik a halászathoz, valamint a kókusz- és kenyérfatermesztéshez.",
+      ro: "Insula Sonsorol este insula principală a statului cu același nume din insulele exterioare de sud-vest ale Palau. Insula este mică, joasă și înconjurată de un recif de margine îngust, ceea ce îngreunează accesul navelor. Locuitorii mențin un stil de viață tradițional, bazat pe pescuit și cultivarea nucilor de cocos și a fructelor de pâine.",
+      en: "Sonsorol Island is the primary island of the state of the same name in Palau's Southwest Islands. The island is small, low-lying, and surrounded by a narrow fringing reef, which makes maritime access challenging. Residents maintain a traditional lifestyle heavily centered on fishing and the cultivation of coconuts and breadfruit.",
+    },
+    factsAdvanced: {
+      de: ["Sonsorol wurde vermutlich 1522 vom Spanier Gonzalo Gómez de Sequeira entdeckt", "Die Insel gehört zur Gruppe der Südwest-Inseln von Palau", "Die einheimische Sprache Sonsorolesisch ist eng mit dem Mikronesischen verwandt", "Die Bevölkerung der Insel ist sehr gering, meist unter 50 Personen", "Kokospalmen und Brotfruchtbäume dominieren die Vegetation", "Die Insel liegt etwa 300 Kilometer südwestlich der Hauptgruppe von Palau"],
+      hu: ["Sonsorolt valószínűleg a spanyol Gonzalo Gómez de Sequeira fedezte fel 1522-ben", "A sziget Palau délnyugati szigetcsoportjához tartozik", "A helyi sonsoroli nyelv szoros rokonságban áll a mikronéziai nyelvekkel", "A sziget lakossága nagyon alacsony, általában 50 fő alatt van", "A növényzetet a kókuszpálmák és a kenyérfák dominálják", "A sziget körülbelül 300 kilométerre délnyugatra fekszik Palau főszigeteitől"],
+      ro: ["Sonsorol a fost probabil descoperită de spaniolul Gonzalo Gómez de Sequeira în 1522", "Insula face parte din grupul Insulelor de Sud-Vest ale Palau", "Limba locală sonsoroleză este strâns legată de limbile microneziene", "Populația insulei este foarte mică, de obicei sub 50 de persoane", "Palmierii de cocos și arborii de pâine domină vegetația insulei", "Insula se află la aproximativ 300 de kilometri sud-vest de grupul principal din Palau"],
+      en: ["Sonsorol was likely sighted by Spaniard Gonzalo Gómez de Sequeira in 1522", "The island is part of the Southwest Islands archipelago of Palau", "The local Sonsorolese language is closely related to Micronesian languages", "The island's population is very small, typically fewer than 50 people", "Coconut palms and breadfruit trees are the dominant plant species", "The island is located about 300 kilometers southwest of Palau's main islands"],
+    },
   },
   {
     id: "palau-merir-island-nature-v2",
@@ -190,6 +298,18 @@ export const palauNatureV2: POI[] = [
       en: ["Important sanctuary for migratory birds", "Very low human population", "Extensive reef system surrounding it", "Part of the Sonsorol island group"],
     },
     imageHint: "Narrow elongated forested island with a fringing reef",
+    descriptionAdvanced: {
+      de: "Merir Island ist eine abgelegene Koralleninsel im Bundesstaat Sonsorol, die für ihre Bedeutung als Nistplatz für Meeresschildkröten bekannt ist. Die Insel ist schmal und langgestreckt, bedeckt von dichter tropischer Vegetation und umgeben von einem fischreichen Riff. Aufgrund ihrer isolierten Lage im Südwesten von Palau ist sie weitgehend unberührt und bietet einen wichtigen Rückzugsort für bedrohte Tierarten.",
+      hu: "Merir-sziget egy távoli korallsziget Sonsorol államban, amely a tengeri teknősök fészkelőhelyeként ismert. A sziget keskeny és elnyújtott, sűrű trópusi növényzet borítja, és halakban gazdag zátony veszi körül. Palau délnyugati részén fekvő elszigetelt helyzete miatt nagyrészt érintetlen, és fontos menedéket nyújt a veszélyeztetett fajoknak.",
+      ro: "Insula Merir este o insulă coraliană izolată din statul Sonsorol, cunoscută pentru importanța sa ca loc de cuibărit pentru țestoasele marine. Insula este îngustă și alungită, acoperită de vegetație tropicală densă și înconjurată de un recif bogat în pești. Datorită locației sale izolate din sud-vestul Palau, este în mare parte virgină, oferind un refugiu important pentru specii periclitate.",
+      en: "Merir Island is a remote coral island in Sonsorol State, known for its significance as a nesting site for sea turtles. The island is narrow and elongated, covered in dense tropical vegetation and surrounded by a reef rich in marine life. Due to its isolated location in southwest Palau, it remains largely pristine, providing a vital sanctuary for endangered species.",
+    },
+    factsAdvanced: {
+      de: ["Die Insel hat eine Landfläche von weniger als einem Quadratkilometer", "Merir ist ein bedeutender Brutplatz für die grüne Meeresschildkröte", "Die Insel beherbergt eine sehr große Population an Landkrabben", "Historisch gab es hier eine kleine Siedlung an der Westküste", "Die Insel ist nur per Charterboot von Koror aus erreichbar", "Merir ist Teil der äußeren Südwest-Inseln von Palau"],
+      hu: ["A sziget szárazföldi területe kevesebb mint egy négyzetkilométer", "Merir a közönséges levesteknősök egyik kiemelt szaporodóhelye", "A szigeten rendkívül nagy számú szárazföldi rákpopuláció él", "Történelmileg egy kis település létezett a nyugati parton", "A sziget csak bérelt hajóval érhető el Koror felől", "Merir a délnyugati külső szigetek csoportjába tartozik"],
+      ro: ["Insula are o suprafață terestră de mai puțin de un kilometru pătrat", "Merir este un loc de reproducere major pentru țestoasa verde", "Insula găzduiește o populație foarte mare de crabi de uscat", "Istoric, a existat o mică așezare pe coasta de vest", "Insula este accesibilă doar cu barca închiriată din Koror", "Merir face parte din insulele exterioare de sud-vest ale Palau"],
+      en: ["The island has a total land area of less than one square kilometer", "Merir is a major nesting ground for the green sea turtle", "The island is home to a very high density of land crab populations", "Historically, a small settlement existed on the western side of the island", "Access to the island is limited to chartered boats from Koror", "Merir is part of the remote Southwest Islands group of Palau"],
+    },
   },
   {
     id: "palau-pulo-anna-nature-v2",
@@ -209,6 +329,18 @@ export const palauNatureV2: POI[] = [
       en: ["Circular-shaped coral island", "Highest point only a few meters", "Isolated location in the Pacific Ocean", "Rich in marine resources"],
     },
     imageHint: "Small circular island with dense trees surrounded by breaking waves",
+    descriptionAdvanced: {
+      de: "Pulo Anna ist eine isolierte Koralleninsel im Staat Sonsorol, die etwa 450 Kilometer südwestlich der Hauptinseln von Palau liegt. Mit einer Fläche von nur 0,5 Quadratkilometern beherbergt sie eine kleine indigene Gemeinschaft, die traditionell vom Fischfang lebt. Die Insel ist von einem schmalen Saumriff umgeben und dient als wichtiger Nistplatz für Seevögel und Grüne Meeresschildkröten.",
+      hu: "Pulo Anna egy elszigetelt korallsziget Sonsorol államban, mintegy 450 kilométerre délnyugatra Palau főszigeteitől. Mindössze 0,5 négyzetkilométeres területén egy maroknyi őslakos közösség él, akik hagyományosan halászatból tartják fenn magukat. A szigetet keskeny szegélyzátony övezi, és fontos fészkelőhelyet biztosít a tengeri madarak, valamint a közönséges levesteknősök számára.",
+      ro: "Pulo Anna este o insulă de corali izolată în statul Sonsorol, situată la aproximativ 450 de kilometri sud-vest de insulele principale din Palau. Cu o suprafață de doar 0,5 kilometri pătrați, aceasta găzduiește o mică comunitate indigenă care trăiește tradițional din pescuit. Insula este înconjurată de un recif îngust și servește ca loc important de cuibărit pentru păsările marine și țestoasele verzi.",
+      en: "Pulo Anna is an isolated coral island in Sonsorol State, located approximately 450 kilometers southwest of Palau's main islands. Covering an area of just 0.5 square kilometers, it hosts a tiny indigenous community that traditionally relies on fishing. The island is encircled by a narrow fringe reef and serves as a vital nesting site for seabirds and green sea turtles.",
+    },
+    factsAdvanced: {
+      de: ["Fläche der Insel: etwa 0,5 km²", "Geografische Lage: 4° 39' N, 131° 57' O", "Zugehörigkeit: Staat Sonsorol", "Höchster Punkt: 6 Meter über dem Meeresspiegel", "Distanz zu Koror: circa 450 Kilometer", "Einwohnerzahl: oft weniger als 20 Personen"],
+      hu: ["A sziget területe: kb. 0,5 km²", "Földrajzi koordináták: é. sz. 4° 39', k. h. 131° 57'", "Közigazgatás: Sonsorol állam része", "Legmagasabb pontja: 6 méter tengerszint felett", "Távolság Korortól: kb. 450 kilométer", "Népesség: gyakran 20 főnél is kevesebb"],
+      ro: ["Suprafața insulei: aproximativ 0,5 km²", "Coordonate geografice: 4° 39' N, 131° 57' E", "Apartenență: statul Sonsorol", "Punctul maxim de altitudine: 6 metri", "Distanța față de Koror: circa 450 kilometri", "Populație: adesea sub 20 de locuitori"],
+      en: ["Island area: approximately 0.5 km²", "Geographic coordinates: 4° 39' N, 131° 57' E", "Administrative unit: Sonsorol State", "Highest elevation: 6 meters above sea level", "Distance to Koror: roughly 450 kilometers", "Population: often fewer than 20 residents"],
+    },
   },
   {
     id: "palau-tobi-island-nature-v2",
@@ -228,6 +360,18 @@ export const palauNatureV2: POI[] = [
       en: ["Belongs to the state of Hatohobei", "Area is approximately 0.6 sq km", "Has its own indigenous language", "Surrounded by deep ocean waters"],
     },
     imageHint: "Very small remote island with a village and palm trees",
+    descriptionAdvanced: {
+      de: "Tobi, auch bekannt als Hatohobei, ist die südlichste bewohnte Insel von Palau und bildet einen eigenen Staat. Die Insel hat eine fast rechteckige Form und ist von einem Saumriff umgeben, das bei Ebbe teilweise trockenfällt. Die Bewohner sprechen Tobianisch, eine mikronesische Sprache, die nur auf dieser Insel und von der Diaspora in Koror verwendet wird.",
+      hu: "Tobi, más néven Hatohobei, Palau legdélebbi lakott szigete, amely önálló államot alkot az országon belül. A sziget közel téglalap alakú, és egy szegélyzátony veszi körül, amely apálykor részben szárazra kerül. Lakói a tobi nyelvet beszélik, amely egy sajátos mikronéziai nyelv, és kizárólag ezen a szigeten, illetve a korori diaszpórában használatos.",
+      ro: "Tobi, cunoscută și sub numele de Hatohobei, este cea mai sudică insulă locuită din Palau și constituie un stat propriu. Insula are o formă aproape rectangulară și este înconjurată de un recif care devine parțial vizibil în timpul fluxului scăzut. Locuitorii vorbesc limba tobiană, o limbă microneziană utilizată doar pe această insulă și de diaspora din Koror.",
+      en: "Tobi, also known as Hatohobei, is the southernmost inhabited island of Palau and forms its own state. The island has a nearly rectangular shape and is surrounded by a fringing reef that is partially exposed during low tide. The residents speak Tobian, a distinct Micronesian language used exclusively on this island and by the diaspora in Koror.",
+    },
+    factsAdvanced: {
+      de: ["Fläche der Insel: 0,6 Quadratkilometer", "Staat: Hatohobei", "Höchster Punkt: weniger als 3 Meter", "Bevölkerung: ca. 25 bis 40 Einwohner", "Südlichster Punkt Palaus: Helen Reef gehört zum Staat", "Entfernung zu Neuguinea: ca. 320 Kilometer"],
+      hu: ["A sziget területe: 0,6 km²", "Közigazgatási egység: Hatohobei állam", "Legmagasabb pont: kevesebb mint 3 méter", "Népesség: kb. 25-40 állandó lakos", "Palau legdélibbi része: a Helen-zátony is ide tartozik", "Távolság Új-Guineához: kb. 320 kilométer"],
+      ro: ["Suprafața insulei: 0,6 km²", "Unitate administrativă: statul Hatohobei", "Altitudine maximă: sub 3 metri", "Populație: aproximativ 25-40 locuitori", "Cea mai sudică zonă: reciful Helen aparține statului", "Distanța față de Noua Guinee: aproximativ 320 km"],
+      en: ["Island area: 0.6 square kilometers", "Administrative unit: Hatohobei State", "Highest point: less than 3 meters", "Population: approximately 25 to 40 residents", "Southernmost territory: Helen Reef is part of the state", "Distance to New Guinea: about 320 kilometers"],
+    },
   },
   {
     id: "palau-ngeruangel-reserve-nature-v2",
@@ -247,6 +391,18 @@ export const palauNatureV2: POI[] = [
       en: ["Fishing is strictly prohibited", "Important coral spawning area", "Home to rare seabirds", "Managed by the state of Kayangel"],
     },
     imageHint: "Shallow turquoise reef with a tiny sand islet",
+    descriptionAdvanced: {
+      de: "Das Ngeruangel-Meeresschutzgebiet umfasst ein unbewohntes Atoll im Kayangel-Staat, dem nördlichsten Teil von Palau. Es ist bekannt für seine hohe Biodiversität, insbesondere für gefährdete Arten wie den Napoleon-Lippfisch und Grüne Meeresschildkröten. Seit 1996 ist das Gebiet gesetzlich geschützt, um die Regeneration der Fischbestände und den Erhalt der Korallenriffe zu sichern.",
+      hu: "A Ngeruangel tengeri rezervátum egy lakatlan atollt foglal magában Kayangel államban, Palau legészakibb részén. Kiemelkedő biodiverzitásáról ismert, különösen olyan veszélyeztetett fajok számára fontos, mint a Napóleon-ajakoshal és a közönséges levesteknős. A területet 1996-ban nyilvánították védetté a halállomány regenerációja és a korallzátonyok megőrzése érdekében.",
+      ro: "Rezervația Marină Ngeruangel cuprinde un atol nelocuit în statul Kayangel, cea mai nordică parte din Palau. Este cunoscută pentru biodiversitatea sa ridicată, fiind esențială pentru specii periclitate precum peștele Napoleon și țestoasele verzi. Din 1996, zona este protejată prin lege pentru a asigura regenerarea stocurilor de pește și conservarea recifelor de corali.",
+      en: "The Ngeruangel Marine Reserve encompasses an uninhabited atoll in Kayangel State, the northernmost part of Palau. It is renowned for its high biodiversity, particularly supporting endangered species such as the Napoleon wrasse and green sea turtles. Since 1996, the area has been legally protected to ensure the regeneration of fish stocks and the preservation of coral reefs.",
+    },
+    factsAdvanced: {
+      de: ["Schutzstatus seit: 1996", "Lage: Kayangel-Atoll-System", "Atoll-Fläche: ca. 15 km² (inkl. Lagune)", "Entfernung von Koror: ca. 110 Kilometer", "Bedeutung: Laichplatz für Zackenbarsche", "Einschränkung: Fischfang ist streng untersagt"],
+      hu: ["Védetté nyilvánítás éve: 1996", "Elhelyezkedés: Kayangel-atoll rendszere", "Az atoll területe: kb. 15 km² (lagúnával)", "Távolság Korortól: kb. 110 kilométer", "Jelentősége: fontos ívóhely a sügéreknek", "Korlátozás: a halászat szigorúan tilos"],
+      ro: ["Statut de protecție din: 1996", "Locație: sistemul de atoli Kayangel", "Suprafața atolului: cca. 15 km² (cu lagună)", "Distanța de Koror: aproximativ 110 km", "Importanță: loc de depunere a icrelor pentru pești", "Restricție: pescuitul este strict interzis"],
+      en: ["Protection status since: 1996", "Location: Kayangel atoll system", "Atoll area: approx. 15 km² (including lagoon)", "Distance from Koror: about 110 kilometers", "Significance: spawning ground for groupers", "Restriction: fishing is strictly prohibited"],
+    },
   },
   {
     id: "palau-ngaremeduu-bay-nature-v2",
@@ -266,6 +422,18 @@ export const palauNatureV2: POI[] = [
       en: ["Largest bay on Babeldaob island", "Center for biodiversity", "Extensive mangrove forests", "Part of a biosphere reserve"],
     },
     imageHint: "Lush mangroves lining a large coastal bay with calm water",
+    descriptionAdvanced: {
+      de: "Die Ngaremeduu-Bucht auf der Westseite von Babeldaob ist die größte Flussmündung in Mikronesien. Sie ist ein ökologisch komplexes System, das Mangrovenwälder, Seegraswiesen und Korallenriffe miteinander verbindet. Das Gebiet wurde als UNESCO-Biosphärenreservat nominiert und beherbergt zahlreiche endemische Tierarten, darunter das Palauer Salzwasserkrokodil und Dugongs.",
+      hu: "A Babeldaob nyugati oldalán található Ngaremeduu-öböl Mikronézia legnagyobb torkolatvidéke. Ez egy ökológiailag összetett rendszer, amely mangroveerdőket, tengerifű-mezőket és korallzátonyokat kapcsol össze. A területet UNESCO bioszféra-rezervátumnak jelölték, és számos endemikus fajnak ad otthont, köztük a palaui bordás krokodilnak és a dugongnak.",
+      ro: "Golful Ngaremeduu, situat pe partea de vest a insulei Babeldaob, este cel mai mare estuar din Micronezia. Este un sistem ecologic complex care interconectează păduri de mangrove, pajiști de iarbă de mare și recife de corali. Zona a fost nominalizată ca rezervație a biosferei UNESCO și adăpostește numeroase specii endemice, inclusiv crocodilul de apă sărată din Palau și dugongul.",
+      en: "Ngaremeduu Bay, located on the western side of Babeldaob, is the largest estuary in Micronesia. It is an ecologically complex system that interconnects mangrove forests, seagrass beds, and coral reefs. The area has been nominated as a UNESCO Biosphere Reserve and hosts numerous endemic species, including the Palauan saltwater crocodile and dugongs.",
+    },
+    factsAdvanced: {
+      de: ["Fläche des Schutzgebiets: ca. 50 km²", "Ökosysteme: Mangroven, Riffe, Feuchtgebiete", "Lage: Zwischen Aimeliik, Ngatpang und Ngaremlengui", "Status: Größtes Ästuar in Mikronesien", "Tierwelt: Lebensraum für den Dugong", "Schutzjahr: 1999 als CA (Conservation Area)"],
+      hu: ["A védett terület nagysága: kb. 50 km²", "Ökoszisztémák: mangrove, zátonyok, mocsarak", "Elhelyezkedés: Aimeliik, Ngatpang és Ngaremlengui között", "Státusz: Mikronézia legnagyobb esztáriuma", "Vadvilág: a dugong fontos élőhelye", "Védettség kezdete: 1999 (Természetvédelmi Terület)"],
+      ro: ["Suprafața ariei protejate: cca. 50 km²", "Ecosisteme: mangrove, recife, zone umede", "Locație: între Aimeliik, Ngatpang și Ngaremlengui", "Statut: cel mai mare estuar din Micronezia", "Faună: habitat esențial pentru dugong", "Anul protecției: 1999 ca Arie de Conservare"],
+      en: ["Conservation area size: approx. 50 km²", "Ecosystems: mangroves, reefs, wetlands", "Location: between Aimeliik, Ngatpang, and Ngaremlengui", "Status: largest estuary in Micronesia", "Wildlife: critical habitat for dugongs", "Protection year: 1999 as a Conservation Area"],
+    },
   },
   {
     id: "palau-babeldaob-mangroves-nature-v2",
@@ -285,5 +453,17 @@ export const palauNatureV2: POI[] = [
       en: ["Crucial for coastal protection", "Home to crocodiles and herons", "Includes many different tree species", "Vital nursery for marine fish"],
     },
     imageHint: "Intricate roots of mangrove trees in shallow coastal water",
+    descriptionAdvanced: {
+      de: "Die Mangrovenwälder von Babeldaob bedecken weite Teile der Küstenlinie der größten Insel Palaus und bilden eines der intaktesten Mangrovenökosysteme im Pazifik. Sie wirken als natürlicher Filter für Sedimente und schützen die Korallenriffe vor Trübung durch Regenabflüsse. Die Wälder bestehen aus über 15 verschiedenen Mangrovenarten und bieten Lebensraum für Schützenfische und juvenile Riffbewohner.",
+      hu: "Babeldaob mangroveerdei Palau legnagyobb szigetének partvonalát jelentős részben lefedik, és a Csendes-óceán egyik legérintetlenebb mangrove-ökoszisztémáját alkotják. Természetes szűrőként működnek, megvédve a korallzátonyokat a csapadékvíz által szállított hordaléktól. Az erdők több mint 15 különböző mangrovefajból állnak, és élőhelyet biztosítanak a lövőhalaknak és a zátonyok fiatal lakóinak.",
+      ro: "Pădurile de mangrove din Babeldaob acoperă porțiuni extinse din linia de coastă a celei mai mari insule din Palau, formând unul dintre cele mai intacte ecosisteme de acest tip din Pacific. Acestea acționează ca un filtru natural pentru sedimente, protejând recifele de corali de turbiditatea cauzată de scurgerile de ploaie. Pădurile includ peste 15 specii de mangrove și oferă habitat pentru peștii arcași și puietul de recif.",
+      en: "The mangroves of Babeldaob cover extensive parts of the coastline of Palau's largest island, forming one of the most intact mangrove ecosystems in the Pacific. They act as a natural filter for sediments, protecting coral reefs from turbidity caused by rainfall runoff. These forests consist of over 15 different mangrove species and provide habitat for archerfish and juvenile reef inhabitants.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche: ca. 80 % der Küste von Babeldaob", "Artenvielfalt: 18 identifizierte Mangrovenarten", "Ökologische Funktion: Erosionsschutz der Küste", "Tierwelt: Heimat des Palauer Krokodils", "Vorkommen: Besonders dicht an der Westküste", "Wirtschaft: Wichtig für die lokale Krabbenfischerei"],
+      hu: ["Kiterjedés: Babeldaob partvonalának kb. 80%-a", "Faji sokszínűség: 18 azonosított mangrovefaj", "Ökológiai szerep: partmenti erózió elleni védelem", "Állatvilág: a palaui krokodil otthona", "Előfordulás: különösen sűrű a nyugati parton", "Gazdaság: alapvető a helyi rákhalászat számára"],
+      ro: ["Acoperire: cca. 80% din coasta Babeldaob", "Diversitate: 18 specii de mangrove identificate", "Rol ecologic: protecție împotriva eroziunii costiere", "Faună: adăpost pentru crocodilul de Palau", "Localizare: densitate mare pe coasta de vest", "Economie: vitală pentru pescuitul local de crabi"],
+      en: ["Coverage: approx. 80% of Babeldaob's coastline", "Species diversity: 18 identified mangrove species", "Ecological role: coastal erosion protection", "Fauna: home to the Palauan crocodile", "Occurrence: particularly dense on the west coast", "Economy: vital for local crab fishing"],
+    },
   }
 ];

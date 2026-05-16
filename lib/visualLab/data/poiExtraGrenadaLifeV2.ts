@@ -453,5 +453,17 @@ export const grenadaLifeV2: POI[] = [
       en: ["Highest falls on the island at over 21 meters", "Surrounded by banana and cassava plantations", "Important habitat for tropical tree frogs", "Consists of two separate cascades forming pools"],
     },
     imageHint: "Tall double cascade waterfall surrounded by tropical forest and plantations",
+    descriptionAdvanced: {
+      de: "Die Royal Mount Carmel Waterfalls, auch als Marquis Falls bekannt, sind die höchsten Wasserfälle auf der Insel Grenada. Sie befinden sich im Bezirk Saint Andrew und bestehen aus zwei Kaskaden, die über 20 Meter in die Tiefe stürzen. Der Weg dorthin führt durch dichte tropische Vegetation und Plantagen mit Muskatnuss und Kakao. Ein natürliches Becken am Fuße der Fälle lädt zum Baden ein.",
+      hu: "A Royal Mount Carmel vízesések, más néven Marquis-vízesések, Grenada szigetének legmagasabb vízesései. A Saint Andrew egyházközségben találhatók, és két lépcsőből állnak, amelyek több mint 20 méter magasból zúdulnak alá. A vízeséshez vezető út dús trópusi növényzeten, valamint szerecsendió- és kakaóültetvényeken keresztül vezet. A zuhatag alján található természetes medence alkalmas a fürdésre.",
+      ro: "Cascadele Royal Mount Carmel, cunoscute și sub numele de Cascadele Marquis, sunt cele mai înalte din insula Grenada. Situate în parohia Saint Andrew, acestea constau în două căderi de apă care coboară de la o înălțime de peste 20 de metri. Traseul către cascade traversează o vegetație tropicală luxuriantă și plantații de nucșoară și cacao. La baza cascadei se află un bazin natural ideal pentru înot.",
+      en: "The Royal Mount Carmel Waterfalls, also known as Marquis Falls, are the highest waterfalls on the island of Grenada. Located in the Saint Andrew parish, they consist of two cascades dropping over 70 feet (21 meters). The path to the falls leads through lush tropical vegetation and plantations of nutmeg and cocoa. A natural pool at the base of the falls provides a popular spot for swimming.",
+    },
+    factsAdvanced: {
+      de: ["Höchste Wasserfälle der Insel Grenada", "Gesamthöhe der Hauptkaskade beträgt ca. 21 Meter", "Liegen etwa 3 Kilometer südlich von Grenville", "Bestehen aus zwei verschiedenen Fallstufen", "Weg führt durch private Kakao- und Gewürzplantagen", "Auch unter dem Namen 'Marquis Falls' bekannt"],
+      hu: ["Grenada szigetének legmagasabb vízesései", "A fő zuhatag magassága körülbelül 21 méter", "Grenville városától mintegy 3 kilométerre délre fekszenek", "Két különálló vízeséslépcsőből állnak", "Az út magánkézben lévő fűszerültetvényeken visz keresztül", "Széles körben ismertek „Marquis-vízesés” néven is"],
+      ro: ["Cele mai înalte cascade de pe insula Grenada", "Înălțimea totală a cascadei principale este de cca. 21 metri", "Situate la aproximativ 3 kilometri sud de Grenville", "Compuse din două trepte distincte de cădere a apei", "Traseul trece prin plantații private de cacao și mirodenii", "Cunoscute local și sub numele de 'Marquis Falls'"],
+      en: ["Highest waterfalls on the island of Grenada", "Total height of the main cascade is approximately 70 feet", "Located about 2 miles south of the town of Grenville", "Consist of two distinct cascading sections", "The trail passes through private cocoa and spice farms", "Commonly referred to as the 'Marquis Falls'"],
+    },
   }
 ];

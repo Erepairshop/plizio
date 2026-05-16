@@ -19,6 +19,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Highest point in the archipelago", "Elevation of 1,628 meters", "Home to the rare Araucaria pancheri", "Part of a protected nature reserve"],
     },
     imageHint: "Aerial view of Mont Panié peak in New Caledonia",
+    descriptionAdvanced: {
+      de: "Der Mont Panié ist mit 1.628 Metern der höchste Berg Neukaledoniens und liegt im Norden der Insel Grande Terre. Er beherbergt ein außergewöhnliches Ökosystem mit Wolkenwäldern, in denen zahlreiche endemische Pflanzen- und Tierarten leben. Das Gebirgsmassiv ist von großer kultureller Bedeutung für das indigene Volk der Kanak.",
+      hu: "A 1628 méter magas Mont Panié Új-Kaledónia legmagasabb hegye, Grande Terre szigetének északi részén található. Rendkívüli ökoszisztémának ad otthont, köderdőkkel, amelyekben számos endemikus növény- és állatfaj él. A hegység jelentős kulturális értékkel bír az őshonos kanak nép számára.",
+      ro: "Muntele Panié este cel mai înalt vârf din Noua Caledonie, având 1.628 de metri, și este situat în nordul insulei Grande Terre. Găzduiește un ecosistem excepțional cu păduri de nori, unde trăiesc numeroase specii endemice de plante și animale. Masivul are o importanță culturală majoră pentru poporul indigen Kanak.",
+      en: "Mount Panié is the highest peak in New Caledonia, standing at 1,628 meters, located in the north of Grande Terre island. It hosts an extraordinary ecosystem with cloud forests that are home to numerous endemic plant and animal species. The massif holds great cultural significance for the indigenous Kanak people.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt des Territoriums mit 1.628 Metern.", "Beherbergt den endemischen Kauri-Baum Agathis montana.", "Teil eines Naturschutzgebiets seit 1950.", "Die jährliche Niederschlagsmenge kann 10.000 mm erreichen.", "Wichtiger Lebensraum für den Riesen-Kronengecko.", "Der Aufstieg erfordert die Erlaubnis der lokalen Stämme."],
+      hu: ["A terület legmagasabb pontja 1628 méterrel.", "Itt él az endemikus Agathis montana kaurifenyő.", "1950 óta természetvédelmi terület része.", "Az éves csapadékmennyiség elérheti a 10 000 mm-t.", "Fontos élőhelye az óriás vitorlásgekkónak.", "A megmászáshoz a helyi törzsek engedélye szükséges."],
+      ro: ["Cel mai înalt punct al teritoriului, având 1.628 de metri.", "Găzduiește arborele kauri endemic Agathis montana.", "Face parte dintr-o rezervație naturală încă din 1950.", "Precipitațiile anuale pot atinge 10.000 mm.", "Habitat important pentru gekko uriaș cu creastă.", "Ascensiunea necesită permisiunea triburilor locale."],
+      en: ["Highest point in the territory at 1,628 meters.", "Home to the endemic kauri tree Agathis montana.", "Part of a nature reserve established in 1950.", "Annual rainfall can reach up to 10,000 mm.", "Crucial habitat for the New Caledonian Giant Gecko.", "Climbing requires permission from local Kanak tribes."],
+    },
   },
   {
     id: "newcaledonia-mont-humboldt-nature-v2",
@@ -38,6 +50,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Second highest mountain in New Caledonia", "Elevation of 1,618 meters", "Summit offers panoramic views of the lagoon", "Popular destination for challenging hikes"],
     },
     imageHint: "Mountain range of Mont Humboldt in southern New Caledonia",
+    descriptionAdvanced: {
+      de: "Der Mont Humboldt ist mit 1.618 Metern der zweithöchste Gipfel Neukaledoniens und befindet sich im Süden der Insel. Er ist Teil des Humboldt-Massivs und bekannt für seine zerklüftete Topografie und die isolierten Bergökosysteme. Der Gipfel bietet einen weiten Blick über die Südprovinz und die umliegenden Lagunen.",
+      hu: "A 1618 méter magas Mont Humboldt Új-Kaledónia második legmagasabb csúcsa, a sziget déli részén található. A Humboldt-masszívum része, és ismert tagolt domborzatáról, valamint elszigetelt hegyi ökoszisztémáiról. A csúcsról pazar kilátás nyílik a déli tartományra és a környező lagúnákra.",
+      ro: "Muntele Humboldt este al doilea cel mai înalt vârf din Noua Caledonie, având 1.618 metri, și este situat în sudul insulei. Face parte din masivul Humboldt și este cunoscut pentru topografia sa accidentată și ecosistemele montane izolate. Vârful oferă o vedere panoramică asupra Provinciei Sud și a lagunelor înconjurătoare.",
+      en: "Mount Humboldt is the second highest peak in New Caledonia, at 1,618 meters, located in the south of the island. It is part of the Humboldt Massif and is known for its rugged topography and isolated mountain ecosystems. The peak offers a wide view over the South Province and the surrounding lagoons.",
+    },
+    factsAdvanced: {
+      de: ["Zweithöchster Berg Neukaledoniens mit 1.618 Metern.", "Liegt im Herzen des Mont Humboldt Naturreservats.", "Bekannt für seine dichten Bestände an Araukarien.", "Das Massiv besteht hauptsächlich aus Peridotit-Gestein.", "Wichtiger Lebensraum für den endemischen Kagu-Vogel.", "Der Wanderweg zum Gipfel gilt als einer der schwierigsten."],
+      hu: ["Új-Kaledónia második legmagasabb hegye 1618 méterrel.", "A Mont Humboldt Természetvédelmi Terület szívében fekszik.", "Sűrű araukária állományairól ismert.", "A hegység főként peridotit kőzetből épül fel.", "Fontos élőhelye az endemikus kagu madárnak.", "A csúcsra vezető túraútvonal az egyik legnehezebbnek számít."],
+      ro: ["Al doilea cel mai înalt munte din Noua Caledonie (1.618 m).", "Se află în inima rezervației naturale Mont Humboldt.", "Cunoscut pentru populațiile sale dense de araucaria.", "Masivul este compus în principal din rocă peridotit.", "Habitat important pentru pasărea endemică Kagu.", "Traseul de drumeție către vârf este considerat unul dintre cele mai dificile."],
+      en: ["Second highest mountain in New Caledonia at 1,618 meters.", "Located in the heart of the Mont Humboldt Nature Reserve.", "Known for its dense stands of Araucaria pines.", "The massif consists mainly of peridotite rock.", "Essential habitat for the endemic flightless Kagu bird.", "The hiking trail to the summit is considered one of the toughest."],
+    },
   },
   {
     id: "newcaledonia-riviere-bleue-nature-v2",
@@ -57,6 +81,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Main river in the Blue River Provincial Park", "Famous for the 'drowned forest' of dead trees", "Surrounded by ancient Kaori trees", "Crucial conservation area for the Kagu bird"],
     },
     imageHint: "Clear blue river flowing through red soil forest in New Caledonia",
+    descriptionAdvanced: {
+      de: "Der Blaue Fluss (Rivière Bleue) ist das Herzstück des gleichnamigen Provinzparks im Süden Neukaledoniens. Er ist berühmt für seinen 'versunkenen Wald' aus abgestorbenen Baumstämmen in einem künstlichen See und sein kristallklares, türkisfarbenes Wasser. Das Gebiet ist ein Refugium für den Kagu, den Nationalvogel des Archipels.",
+      hu: "A Kék-folyó (Rivière Bleue) az azonos nevű tartományi park központi eleme Új-Kaledónia déli részén. Híres a mesterséges tóban lévő elhalt fatörzsekből álló 'elárasztott erdőjéről' és kristálytiszta, türkizkék vizéről. A terület a szigetcsoport nemzeti madara, a kagu fontos menedékhelye.",
+      ro: "Râul Albastru (Rivière Bleue) este piesa centrală a parcului provincial omonim din sudul Noii Caledonii. Este faimos pentru 'pădurea scufundată' formată din trunchiuri de copaci morți într-un lac artificial și pentru apele sale cristaline de turcoaz. Zona este un refugiu pentru Kagu, pasărea națională a arhipelagului.",
+      en: "The Blue River (Rivière Bleue) is the centerpiece of the provincial park of the same name in southern New Caledonia. It is famous for its 'drowned forest' of dead tree trunks in an artificial lake and its crystal-clear, turquoise water. The area is a sanctuary for the Kagu, the archipelago's national bird.",
+    },
+    factsAdvanced: {
+      de: ["Der Provinzpark umfasst eine Fläche von 9.000 Hektar.", "Heimat des 'Grand Kaori', eines über 1.000 Jahre alten Baumes.", "Der versunkene Wald entstand durch den Bau des Yaté-Staudamms.", "Größte Population des flugunfähigen Kagu-Vogels.", "Das Wasser hat eine charakteristische bläuliche Färbung durch Mineralien.", "Beliebtes Revier für Kajakfahrten durch den versunkenen Wald."],
+      hu: ["A tartományi park 9000 hektár területet foglal magában.", "A több mint 1000 éves 'Grand Kaori' fa otthona.", "Az elárasztott erdő a Yaté-gát megépítésekor jött létre.", "Itt található a röpképtelen kagu madár legnagyobb populációja.", "A víz jellegzetes kékes színét az ásványi anyagok adják.", "Népszerű helyszín a kajakozáshoz az elárasztott erdőben."],
+      ro: ["Parcul provincial acoperă o suprafață de 9.000 de hectare.", "Găzduiește 'Grand Kaori', un arbore vechi de peste 1.000 de ani.", "Pădurea scufundată s-a format prin construcția barajului Yaté.", "Cea mai mare populație de pasăre Kagu, care nu poate zbura.", "Apa are o colorație albăstruie caracteristică datorită mineralelor.", "Zonă populară pentru caiac prin pădurea scufundată."],
+      en: ["The provincial park covers an area of 9,000 hectares.", "Home to the 'Grand Kaori', a tree over 1,000 years old.", "The drowned forest was created by the Yaté dam construction.", "Largest population of the flightless national bird, the Kagu.", "The water has a distinct bluish tint due to minerals.", "Popular location for kayaking through the submerged forest."],
+    },
   },
   {
     id: "newcaledonia-lac-en-huit-nature-v2",
@@ -76,6 +112,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Shaped like the number eight", "Located in the Yaté region", "Surrounded by manganese-rich soils", "Popular subject for aerial photography"],
     },
     imageHint: "Aerial view of a figure-eight shaped lake in New Caledonia",
+    descriptionAdvanced: {
+      de: "Der Lac en Huit ist ein markanter natürlicher See im Süden von Grande Terre, dessen Name auf seine charakteristische Form einer Acht zurückgeht. Er liegt in einer vom Bergbau geprägten Landschaft und ist Teil eines wichtigen Süßwasser-Ökosystems. Der See ist von endemischer Buschvegetation umgeben, die typisch für die metallreichen Böden der Region ist.",
+      hu: "A Lac en Huit egy jellegzetes természetes tó Grande Terre déli részén, amely nevét karakteres nyolcas alakjáról kapta. Egy bányászat által formált tájban fekszik, és egy fontos édesvízi ökoszisztéma része. A tavat endemikus cserjés növényzet veszi körül, amely jellemző a régió fémekben gazdag talajára.",
+      ro: "Lacul en Huit este un lac natural distinctiv din sudul insulei Grande Terre, al cărui nume provine de la forma sa caracteristică de opt. Este situat într-un peisaj marcat de activități miniere și face parte dintr-un ecosistem important de apă dulce. Lacul este înconjurat de vegetație de arbuști endemici, tipică solurilor bogate în metale din regiune.",
+      en: "Lake en Huit is a distinctive natural lake in the south of Grande Terre, named after its characteristic figure-eight shape. It is situated in a landscape shaped by mining history and is part of an important freshwater ecosystem. The lake is surrounded by endemic scrub vegetation typical of the region's metal-rich soils.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus zwei durch einen schmalen Kanal verbundenen Becken.", "Liegt in der Nähe der Plaine des Lacs in der Südprovinz.", "Das Wasser ist arm an Nährstoffen, aber reich an gelösten Metallen.", "Umgeben von neukaledonischem Maquis-Buschland.", "Wichtiger Rastplatz für einheimische Wasservögel.", "Die rote Farbe des Ufers stammt vom hohen Eisengehalt (Laterit)."],
+      hu: ["Két medencéből áll, amelyeket egy keskeny csatorna köt össze.", "A Déli tartományban, a Plaine des Lacs közelében található.", "Vize tápanyagban szegény, de oldott fémekben gazdag.", "Új-kaledóniai maquis-bozótos veszi körül.", "Fontos pihenőhely az őshonos vízimadarak számára.", "A part vörös színe a magas vastartalomnak (laterit) köszönhető."],
+      ro: ["Format din două bazine conectate printr-un canal îngust.", "Se află lângă Plaine des Lacs în Provincia Sud.", "Apa este săracă în nutrienți, dar bogată în metale dizolvate.", "Înconjurat de vegetație de maquis din Noua Caledonie.", "Loc important de odihnă pentru păsările de apă native.", "Culoarea roșie a țărmului provine de la conținutul ridicat de fier (laterit)."],
+      en: ["Consists of two basins connected by a narrow channel.", "Located near the Plaine des Lacs in the South Province.", "Water is nutrient-poor but rich in dissolved metals.", "Surrounded by New Caledonian maquis scrubland.", "Important resting site for native waterfowl.", "The red color of the shores comes from high iron content (laterite)."],
+    },
   },
   {
     id: "newcaledonia-chutes-madeleine-nature-v2",
@@ -95,6 +143,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Centerpiece of the Madeleine Reserve", "Home to 7 species of conifers", "Waterfall drops into a shallow pool", "Unique ecosystem on ultramafic rock"],
     },
     imageHint: "Wide waterfalls surrounded by low scrub vegetation in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Madeleine-Wasserfälle sind ein bekanntes Naturschauspiel in der Gemeinde Yaté. Der Fluss Grand Sud stürzt hier über eine breite Felsbarriere aus Peridotit-Gestein in ein tiefes Becken. Obwohl die Fälle nicht besonders hoch sind, beeindrucken sie durch ihre Breite und die umgebende, bizarre Flora des Maquis minier.",
+      hu: "A Madeleine-vízesés Yaté község egyik legismertebb természeti látványossága. A Grand Sud folyó itt egy széles, peridotit kőzetből álló gáton zúdul le egy mély medencébe. Bár a vízesés nem különösebben magas, szélessége és a környező maquis minier bizarr flórája lenyűgöző látványt nyújt.",
+      ro: "Cascadele Madeleine sunt un spectacol natural cunoscut în comuna Yaté. Râul Grand Sud se prăbușește aici peste o barieră stâncoasă lată din peridotit într-un bazin adânc. Deși căderile nu sunt foarte înalte, impresionează prin lățimea lor și prin flora bizară din jur a maquis-ului minier.",
+      en: "The Madeleine Waterfalls are a well-known natural spectacle in the commune of Yaté. The Grand Sud river plunges here over a wide rock barrier of peridotite into a deep pool. Although the falls are not particularly high, they impress with their width and the surrounding, bizarre flora of the 'maquis minier'.",
+    },
+    factsAdvanced: {
+      de: ["Die Fälle haben eine Fallhöhe von etwa 5 Metern.", "Sie erstrecken sich über eine Breite von fast 30 Metern.", "Das Gestein besteht aus ultrabasischem Peridotit.", "Liegt im Herzen des Blue River Provinzparks.", "Die Umgebung beherbergt 7 Arten von Koniferen.", "Beliebtes Ziel für Naturfotografie und Kurzwanderungen."],
+      hu: ["A vízesés magassága körülbelül 5 méter.", "Közel 30 méter szélességben terül el.", "A kőzet ultrabázikus peridotitból áll.", "A Kék-folyó Tartományi Park szívében található.", "A környező terület 7 fenyőfélének ad otthont.", "Népszerű célpont a természetfotózáshoz és rövid túrákhoz."],
+      ro: ["Cascadele au o înălțime de aproximativ 5 metri.", "Se întind pe o lățime de aproape 30 de metri.", "Roca este formată din peridotit ultrabazic.", "Situată în inima parcului provincial Blue River.", "Zona înconjurătoare găzduiește 7 specii de conifere.", "Destinație populară pentru fotografia de natură și drumeții scurte."],
+      en: ["The waterfalls have a drop height of about 5 meters.", "They span a width of nearly 30 meters.", "The rock consists of ultrabasic peridotite.", "Located within the heart of the Blue River Provincial Park.", "The surrounding area hosts 7 unique species of conifers.", "A popular destination for nature photography and short hikes."],
+    },
   },
   {
     id: "newcaledonia-baie-upi-nature-v2",
@@ -114,6 +174,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Located on the Isle of Pines", "Known for mushroom-shaped coral rocks", "Crystal clear shallow water", "Traditionally navigated by pirogue"],
     },
     imageHint: "Turquoise bay with large limestone rocks in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Upi-Bucht auf der Île des Pins ist eine spektakuläre Lagune, die für ihre aus dem Wasser ragenden Korallenfelsen bekannt ist. Die Bucht ist flach und wird traditionell mit Auslegerkanus (Piroguen) befahren, was den Besuchern ein authentisches Erlebnis ermöglicht. Die Ruhe des türkisfarbenen Wassers und die unberührte Natur machen sie zu einem Wahrzeichen der Insel.",
+      hu: "Az Île des Pins szigetén található Upi-öböl egy látványos lagúna, amely a vízből kiemelkedő korallzátony-szikláiról ismert. Az öböl sekély, és hagyományosan kitámasztós kenuval (pirogue) közlekednek benne, ami autentikus élményt nyújt a látogatóknak. A türkizkék víz nyugalma és az érintetlen természet a sziget egyik jelképévé teszi.",
+      ro: "Golful Upi de pe insula Île des Pins este o lagună spectaculoasă, cunoscută pentru stâncile sale de corali care răsar din apă. Golful este puțin adânc și este navigat în mod tradițional cu pirogi cu flotoare, oferind vizitatorilor o experiență autentică. Liniștea apelor turcoaz și natura virgină îl fac un simbol al insulei.",
+      en: "Upi Bay on the Isle of Pines is a spectacular lagoon known for its coral rock formations rising out of the water. The bay is shallow and traditionally navigated by outrigger canoes (pirogues), allowing visitors an authentic experience. The tranquility of the turquoise waters and pristine nature make it a landmark of the island.",
+    },
+    factsAdvanced: {
+      de: ["Berühmt für die pilzförmigen Korallenfelsen im Wasser.", "Wird oft als 'kleine Halong-Bucht des Pazifiks' bezeichnet.", "Nur mit traditionellen polynesischen Piroguen zugänglich.", "Häufige Sichtungen von Meeresschildkröten und Rochen.", "Die Bucht ist von dichten Araukarienwäldern umgeben.", "Liegt an der Nordostseite der Île des Pins."],
+      hu: ["Híres a vízben lévő gomba alakú korallsziklákról.", "Gyakran nevezik a 'Csendes-óceán kis Halong-öblének'.", "Csak hagyományos polinéz pirogue-okkal érhető el.", "Gyakran láthatók tengeri teknősök és ráják a vízben.", "Az öblöt sűrű araukária-erdők veszik körül.", "Az Île des Pins északkeleti oldalán található."],
+      ro: ["Faimos pentru stâncile de corali în formă de ciupercă din apă.", "Deseori numit 'micul golf Halong al Pacificului'.", "Accesibil doar cu pirogi polineziene tradiționale.", "Observări frecvente de țestoase marine și pisici de mare.", "Golful este înconjurat de păduri dese de araucaria.", "Situat pe partea de nord-est a insulei Île des Pins."],
+      en: ["Famous for mushroom-shaped coral rocks in the water.", "Often referred to as the 'mini Halong Bay of the Pacific'.", "Accessible primarily via traditional Melanesian outrigger canoes.", "Frequent sightings of sea turtles and rays in the lagoon.", "Surrounded by dense forests of New Caledonian columnar pines.", "Located on the northeastern side of the Isle of Pines."],
+    },
   },
   {
     id: "newcaledonia-baie-kanumera-nature-v2",
@@ -133,6 +205,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Famous for the 'Rocher de Kanumera'", "The central rock is considered sacred", "White sand beach and vibrant coral reefs", "Located adjacent to Kuto Bay"],
     },
     imageHint: "White sand bay with a large sacred rock in the water in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Kanumera-Bucht ist einer der malerischsten Orte auf der Île des Pins, dominiert vom imposanten 'Rocher de Kanumera'. Dieser große Felsen ist durch einen schmalen Sandstreifen mit dem Strand verbunden und gilt bei der lokalen Bevölkerung als heiliger Ort. Das kristallklare Wasser und die reiche Unterwasserwelt machen die Bucht zu einem Paradies für Schnorchler.",
+      hu: "A Kanumera-öböl az Île des Pins egyik legfestőibb helye, amelyet az impozáns 'Rocher de Kanumera' ural. Ezt a nagy sziklát egy keskeny homoksáv köti össze a parttal, és a helyi lakosság körében szent helynek számít. A kristálytiszta víz és a gazdag víz alatti világ a búvárkodók paradicsomává teszi az öblöt.",
+      ro: "Golful Kanumera este unul dintre cele mai pitorești locuri de pe Île des Pins, dominat de impunătorul 'Rocher de Kanumera'. Această stâncă mare este legată de plajă printr-o fâșie îngustă de nisip și este considerată un loc sacru de către populația locală. Apa cristalină și lumea subacvatică bogată fac din golf un paradis pentru snorkeling.",
+      en: "Kanumera Bay is one of the most picturesque spots on the Isle of Pines, dominated by the imposing 'Rocher de Kanumera'. This large rock is connected to the beach by a narrow strip of sand and is considered a sacred site by the local population. The crystal-clear water and rich underwater world make the bay a paradise for snorkelers.",
+    },
+    factsAdvanced: {
+      de: ["Der Rocher de Kanumera ist ein koralliner Kalksteinfelsen.", "Das Besteigen des heiligen Felsens ist untersagt.", "Die Bucht liegt unmittelbar neben der Baie de Kuto.", "Hervorragendes Schnorchelrevier mit vielen bunten Korallenfischen.", "Umsäumt von Kokospalmen und neukaledonischen Pinien.", "Das Wasser ist hier besonders ruhig und geschützt."],
+      hu: ["A Rocher de Kanumera egy korallos mészkőszikla.", "A szent szikla megmászása tilos.", "Az öböl közvetlenül a Baie de Kuto mellett fekszik.", "Kiváló búvárhely számos színes korallhallal.", "Kókuszpálmák és új-kaledóniai fenyők szegélyezik.", "A víz itt különösen nyugodt és védett."],
+      ro: ["Rocher de Kanumera este o stâncă de calcar coraligen.", "Escaladarea stâncii sacre este strict interzisă.", "Golful se află imediat lângă Baie de Kuto.", "Loc excelent pentru snorkeling cu mulți pești de corali colorați.", "Mărginit de cocotieri și pini din Noua Caledonie.", "Apa este aici deosebit de calmă și protejată."],
+      en: ["The Rocher de Kanumera is a coral limestone formation.", "Climbing the sacred rock is prohibited by local custom.", "The bay is located right next to Kuto Bay.", "Excellent snorkeling spot with diverse coral fish species.", "Fringed by coconut palms and New Caledonian columnar pines.", "The water is exceptionally calm and protected from currents."],
+    },
   },
   {
     id: "newcaledonia-grottes-adio-nature-v2",
@@ -152,6 +236,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Located near the town of Poya", "Important karst area on Grande Terre", "Home to colonies of bats", "Surrounded by lush tropical rainforest"],
     },
     imageHint: "Limestone cave entrance in a tropical forest in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Adio-Höhlen bei Poya sind ein beeindruckendes System von Kalksteinhöhlen im zentralen Teil von Grande Terre. Sie beherbergen faszinierende Formationen von Stalaktiten und Stalagmiten sowie unterirdische Wasserläufe. Die Höhlen liegen in einem Karstgebiet, das von üppiger tropischer Vegetation umgeben ist.",
+      hu: "A Poya melletti Adio-barlangok egy lenyűgöző mészkőbarlang-rendszer Grande Terre középső részén. Lenyűgöző sztalaktit- és sztalagmit-formációknak, valamint föld alatti vízfolyásoknak adnak otthont. A barlangok egy karsztvidéken találhatók, amelyet buja trópusi növényzet vesz körül.",
+      ro: "Peșterile Adio de lângă Poya reprezintă un sistem impresionant de peșteri de calcar în partea centrală a insulei Grande Terre. Acestea găzduiesc formațiuni fascinante de stalactite și stalagmite, precum și cursuri de apă subterane. Peșterile sunt situate într-o zonă carstică înconjurată de vegetație tropicală luxuriantă.",
+      en: "The Adio Caves near Poya are an impressive system of limestone caves in the central part of Grande Terre. They host fascinating formations of stalactites and stalagmites, as well as underground watercourses. The caves are located in a karst area surrounded by lush tropical vegetation.",
+    },
+    factsAdvanced: {
+      de: ["Befinden sich etwa 15 Kilometer vom Dorf Poya entfernt.", "Das Höhlensystem umfasst mehrere große Kammern.", "Beherbergt Kolonien von einheimischen Fledermäusen.", "Der Zugang erfolgt über einen Pfad durch den Regenwald.", "Wichtige archäologische Stätte mit Spuren früherer Besiedlung.", "Während der Regenzeit können die Höhlen überflutet sein."],
+      hu: ["Poya falutól körülbelül 15 kilométerre találhatók.", "A barlangrendszer több nagy kamrát foglal magában.", "Őshonos denevérkolóniáknak ad otthont.", "A bejárat az esőerdőn keresztül vezető ösvényen érhető el.", "Fontos régészeti lelőhely korai települések nyomaival.", "Az esős évszakban a barlangok víz alá kerülhetnek."],
+      ro: ["Se află la aproximativ 15 kilometri de satul Poya.", "Sistemul de peșteri include mai multe camere mari.", "Găzduiește colonii de lilieci nativi.", "Accesul se face printr-o potecă prin pădurea tropicală.", "Sait arheologic important cu urme de așezări timpurii.", "În timpul sezonului ploios, peșterile pot fi inundate."],
+      en: ["Located approximately 15 kilometers from the village of Poya.", "The cave system consists of several large chambers.", "Home to colonies of endemic bent-wing bats.", "Access is via a trail through the primary rainforest.", "Significant archaeological site with traces of early habitation.", "The caves can be prone to flooding during the rainy season."],
+    },
   },
   {
     id: "newcaledonia-coeur-de-voh-nature-v2",
@@ -171,6 +267,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Natural formation in the mangroves", "Located on the west coast near Voh", "Discovered via aerial photography", "Iconic symbol of New Caledonian nature"],
     },
     imageHint: "Aerial view of a heart-shaped mangrove formation in New Caledonia",
+    descriptionAdvanced: {
+      de: "Das Coeur de Voh ist ein weltberühmtes Symbol Neukaledoniens, eine herzförmige Lichtung inmitten einer weiten Mangrovenlandschaft. Dieses ökologische Phänomen entstand natürlich durch Unterschiede im Salzgehalt, die das Wachstum der Mangroven lokal unterdrücken. Es repräsentiert die Zerbrechlichkeit und Schönheit der tropischen Küstenökosysteme.",
+      hu: "A Coeur de Voh Új-Kaledónia világhírű szimbóluma, egy szív alakú tisztás a hatalmas mangrove-erdő közepén. Ez az ökológiai jelenség természetes úton jött létre a sótartalom különbségei miatt, amelyek helyileg gátolják a mangrovék növekedését. A trópusi part menti ökoszisztémák törékenységét és szépségét jelképezi.",
+      ro: "Coeur de Voh este un simbol faimos la nivel mondial al Noii Caledonii, o poiană în formă de inimă în mijlocul unui vast peisaj de mangrove. Acest fenomen ecologic s-a format natural prin diferențele de salinitate care inhibă local creșterea mangrovelor. Reprezintă fragilitatea și frumusețea ecosistemelor de coastă tropicale.",
+      en: "The Coeur de Voh is a world-famous symbol of New Caledonia, a heart-shaped clearing in the middle of a vast mangrove landscape. This ecological phenomenon formed naturally due to differences in salinity that locally inhibit mangrove growth. It represents the fragility and beauty of tropical coastal ecosystems.",
+    },
+    factsAdvanced: {
+      de: ["Liegt an der Nordwestküste bei der Stadt Voh.", "Die Formation ist über 400 Meter breit.", "Entdeckt und popularisiert durch Yann Arthus-Bertrand.", "Besteht aus zwei Arten von Mangrovenvegetation.", "Die helleren Bereiche sind Salzpfannen ohne Bewuchs.", "Das Wahrzeichen zieht jährlich tausende Luftbild-Touristen an."],
+      hu: ["Az északnyugati parton, Voh városa mellett található.", "Az alakzat több mint 400 méter széles.", "Yann Arthus-Bertrand fedezte fel és tette népszerűvé.", "Kétféle mangrove-növényzetből áll.", "A világosabb területek növényzet nélküli sós síkságok.", "A látványosság évente több ezer légi turistát vonz."],
+      ro: ["Situat pe coasta de nord-vest, lângă orașul Voh.", "Formațiunea are o lățime de peste 400 de metri.", "Descoperit și popularizat de Yann Arthus-Bertrand.", "Compus din două tipuri de vegetație de mangrove.", "Zonele mai deschise la culoare sunt mlaștini sărate fără vegetație.", "Emblema atrage anual mii de turiști care survolează zona."],
+      en: ["Located on the northwest coast near the town of Voh.", "The heart formation is over 400 meters wide.", "Discovered and popularized by photographer Yann Arthus-Bertrand.", "Consists of distinct zones of mangrove species and bare salt pan.", "The lighter interior area is a hypersaline 'tanne' zone.", "The landmark attracts thousands of aerial tourists annually."],
+    },
   },
   {
     id: "newcaledonia-falaises-jokin-nature-v2",
@@ -190,6 +298,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Located in the north of Lifou Island", "Composed of fossilized coral", "Offer excellent snorkeling at the base", "Important nesting site for seabirds"],
     },
     imageHint: "High limestone cliffs dropping into turquoise sea in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Jokin-Klippen befinden sich an der Nordküste der Insel Lifou im Distrikt Wet. Diese beeindruckenden Formationen aus fossilen Korallen ragen etwa 40 Meter senkrecht aus dem Pazifik empor. Das klare Wasser unterhalb der Klippen bietet ideale Bedingungen für die Beobachtung der marinen Artenvielfalt in den vorgelagerten Riffen.",
+      hu: "A Jokin-sziklák Lifou szigetének északi részén, a Wet körzetben találhatók. Ezek a fosszilis korallból álló képződmények mintegy 40 méter magasan emelkednek az óceán fölé. A sziklák alatti kristálytiszta víz és a gazdag korallzátonyok népszerű helyszínt biztosítanak a sznorkelezéshez és a tengeri élővilág megfigyeléséhez.",
+      ro: "Falezele Jokin sunt situate în partea de nord a insulei Lifou, în districtul Wet. Aceste formațiuni din corali fosilizați se ridică la o înălțime de aproximativ 40 de metri deasupra Oceanului Pacific. Apa limpede de la baza stâncilor oferă condiții excelente pentru observarea biodiversității marine în recifele de corali adiacente.",
+      en: "The Jokin Cliffs are located on the northern coast of Lifou Island in the Wet district. These impressive formations, composed of fossilized coral, rise approximately 40 meters vertically from the Pacific Ocean. The clear waters below the cliffs provide ideal conditions for observing marine biodiversity in the offshore coral reefs.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von ca. 40 Metern über dem Meeresspiegel", "Bestehen aus fossilen Korallenkalken", "Gelegen im Norden der Insel Lifou", "Zugehörig zum traditionellen Distrikt Wet", "Bekannt für klares Wasser mit Sichtweiten bis 30m", "Wichtiger Ort für den lokalen Ökotourismus"],
+      hu: ["Körülbelül 40 méter magas korallsziklák", "Fosszilis korallmészkőből épülnek fel", "Lifou szigetének északi partján találhatók", "A hagyományos Wet körzet területén fekszenek", "A víz alatti látótávolság eléri a 30 métert", "Közeli Jokin falu kulturális örökségének része"],
+      ro: ["Înălțime de aproximativ 40 de metri", "Formate din calcar coralifer fosilizat", "Situate pe coasta de nord a insulei Lifou", "Aparțin districtului tradițional Wet", "Vizibilitate subacvatică de până la 30 de metri", "Punct strategic pentru observarea balenelor în sezon"],
+      en: ["Height of approximately 40 meters above sea level", "Composed of fossilized coral limestone", "Located on the northern coast of Lifou Island", "Part of the traditional Wet district", "Underwater visibility can reach up to 30 meters", "Significant site for local community tourism"],
+    },
   },
   {
     id: "newcaledonia-baie-ouvea-nature-v2",
@@ -209,6 +329,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["25 km long white sand beach", "Part of the UNESCO World Heritage", "Very shallow, turquoise waters", "Home to the protected Ouvéa parakeet"],
     },
     imageHint: "Long white sand beach with turquoise water in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Bucht von Ouvéa erstreckt sich über 25 Kilometer entlang der Westküste des gleichnamigen Atolls. Sie ist Teil des UNESCO-Weltnaturerbes und bekannt für ihren feinen, weißen Sand sowie das flache, türkisfarbene Wasser. Die Bucht wird von einer Lagune geschützt, die eine außergewöhnliche Vielfalt an Meereslebewesen beherbergt.",
+      hu: "Az Ouvéa-öböl 25 kilométer hosszan nyúlik el az azonos nevű atoll nyugati partján. Az UNESCO Világörökség részét képező terület híres finom fehér homokjáról és sekély, türkizkék vizéről. Az öblöt védő lagúna rendkívül gazdag tengeri élővilágnak ad otthont, beleértve számos trópusi halfajt és teknőst.",
+      ro: "Golful Ouvéa se întinde pe o lungime de 25 de kilometri de-a lungul coastei de vest a atolului cu același nume. Inclus în Patrimoniul Mondial UNESCO, golful este renumit pentru nisipul său alb și fin și apele turcoaz de mică adâncime. Laguna protejată adăpostește o diversitate excepțională de specii marine și recife de corali.",
+      en: "Ouvéa Bay stretches for 25 kilometers along the west coast of the atoll of the same name. Part of the UNESCO World Heritage list, it is renowned for its fine white sand and shallow turquoise waters. The protected lagoon hosts an exceptional diversity of marine life, including numerous species of tropical fish and sea turtles.",
+    },
+    factsAdvanced: {
+      de: ["Länge von 25 Kilometern Sandstrand", "Teil des UNESCO-Weltnaturerbes seit 2008", "Gelegen auf dem Ouvéa-Atoll", "Maximaltiefe der Lagune beträgt ca. 30 Meter", "Heimat von über 1.000 Fischarten", "Fayaoué ist der Hauptort an der Bucht"],
+      hu: ["25 kilométer hosszú összefüggő homokos part", "2008 óta az UNESCO Világörökség része", "Az Ouvéa-atoll nyugati oldalán található", "A lagúna maximális mélysége 30 méter", "Több mint 1000 halfaj él a vizeiben", "Fayaoué a legnagyobb település az öböl mentén"],
+      ro: ["Lungime de 25 de kilometri de plajă continuă", "Înscris în Patrimoniul UNESCO din anul 2008", "Situat pe atolul Ouvéa din Insulele Loialității", "Adâncimea maximă a lagunei este de 30 de metri", "Găzduiește peste 1.000 de specii de pești", "Fayaoué este principala așezare de-a lungul golfului"],
+      en: ["Length of 25 kilometers of continuous beach", "UNESCO World Heritage site since 2008", "Located on the Ouvéa Atoll", "Maximum lagoon depth is around 30 meters", "Home to over 1,000 species of fish", "Fayaoué is the main village along the bay"],
+    },
   },
   {
     id: "newcaledonia-trou-bleu-hanawa-nature-v2",
@@ -228,6 +360,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Geological formation on Ouvéa Island", "Deep blue brackish water", "Connected to the ocean underground", "Surrounded by dense vegetation"],
     },
     imageHint: "Deep blue water hole surrounded by rocks and trees in New Caledonia",
+    descriptionAdvanced: {
+      de: "Das Hanawa Blue Hole ist ein natürliches, kreisförmiges Becken im Korallenriff der Insel Ouvéa. Dieses geologische Phänomen ist durch unterirdische Gänge mit dem Ozean verbunden, wodurch der Wasserstand mit den Gezeiten schwankt. Das tiefblaue Wasser bildet einen markanten Kontrast zum umgebenden hellen Korallengestein.",
+      hu: "A Hanawa-kék-lyuk egy természetes, kör alakú karsztképződmény Ouvéa szigetének korallzátonyán. Ez a geológiai jelenség földalatti járatokon keresztül kapcsolódik az óceánhoz, így vízszintje az árapálynak megfelelően változik. A mélykék víz éles kontrasztot alkot a környező világos korallsziklákkal.",
+      ro: "Gaura Albastră Hanawa este un bazin natural circular situat în reciful de corali al insulei Ouvéa. Acest fenomen geologic este conectat la ocean prin tuneluri subterane, cauzând fluctuația nivelului apei în funcție de maree. Apa de un albastru intens creează un contrast izbitor cu rocile calcaroase înconjurătoare.",
+      en: "The Hanawa Blue Hole is a natural, circular sinkhole located in the coral reef of Ouvéa Island. This geological phenomenon is connected to the ocean via underground tunnels, causing the water level to fluctuate with the tides. The deep blue water creates a striking contrast with the surrounding pale coral rock.",
+    },
+    factsAdvanced: {
+      de: ["Natürliches Blue Hole auf Ouvéa", "Unterirdisch mit dem Meer verbunden", "Wasserstand variiert mit Ebbe und Flut", "Gelegen in der Nähe des Dorfes Hanawa", "Durchmesser von etwa 30 Metern", "Umgeben von endemischer Küstenvegetation"],
+      hu: ["Természetes kék lyuk Ouvéa szigetén", "Földalatti összeköttetésben áll a tengerrel", "A vízszint az árapállyal együtt mozog", "Hanawa falu közelében található", "Átmérője megközelítőleg 30 méter", "Vize sós a tengeri kapcsolat miatt"],
+      ro: ["Gaură albastră naturală pe insula Ouvéa", "Conectată subteran cu marea liberă", "Nivelul apei variază cu fluxul și refluxul", "Situată în apropierea satului Hanawa", "Diametru de aproximativ 30 de metri", "Adăpostește specii adaptate la apa sărată"],
+      en: ["Natural blue hole located on Ouvéa", "Connected to the sea through underground passages", "Water level changes according to the tides", "Situated near the village of Hanawa", "Diameter of approximately 30 meters", "The water is saline due to marine connectivity"],
+    },
   },
   {
     id: "newcaledonia-grotte-troisieme-nature-v2",
@@ -247,6 +391,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Located in the Dumbea commune", "Features a deep underground lake", "Constant water temperature of 22°C", "Recommended for experienced cave divers only"],
     },
     imageHint: "Underground cave lake with clear water in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Grotte de la Troisième liegt in der Gemeinde Païta, unweit von Nouméa. Diese Kalksteinhöhle ist für ihren unterirdischen See bekannt, der von klarem Süßwasser gespeist wird. Die Höhle ist von dichtem tropischem Wald umgeben und dient als wichtiger Rückzugsort für lokale Fledermausarten sowie als beliebtes Ziel für Höhlenforscher.",
+      hu: "A Grotte de la Troisième Païta községben, Nouméa közelében található. Ez a mészkőbarlang a tiszta édesvízzel teli földalatti taváról ismert. A barlangot sűrű trópusi erdő veszi körül, és fontos élőhelyet biztosít a helyi denevérfajok számára, miközben népszerű célpont a barlangkutatók és látogatók körében.",
+      ro: "Grotte de la Troisième este situată în comuna Païta, nu departe de Nouméa. Această peșteră calcaroasă este renumită pentru lacul său subteran alimentat cu apă dulce și limpede. Peștera este înconjurată de o pădure tropicală densă și servește ca habitat important pentru speciile locale de lilieci.",
+      en: "The Third Cave (Grotte de la Troisième) is located in the municipality of Païta, near Nouméa. This limestone cave is famous for its subterranean lake filled with clear freshwater. Surrounded by dense tropical forest, the cave serves as an important habitat for local bat species and is a popular destination for spelunkers.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen in der Gemeinde Païta", "Verfügt über einen unterirdischen Süßwassersee", "Besteht aus Karst-Kalkstein-Formationen", "Heimat verschiedener Fledermauskolonien", "Zugänglich über einen markierten Wanderweg", "Durchschnittliche Wassertemperatur ca. 20-22°C"],
+      hu: ["Païta község területén található", "Földalatti édesvízi tóval rendelkezik", "Karsztos mészkőformációkból áll", "Különböző denevérkolóniák élőhelye", "Kijelölt turistaúton közelíthető meg", "A víz hőmérséklete állandóan 20-22°C körüli"],
+      ro: ["Localizată în municipalitatea Païta", "Include un lac subteran cu apă dulce", "Formată în depozite de calcar carstic", "Găzduiește colonii de lilieci endemici", "Accesibilă printr-o potecă marcată", "Temperatură constantă a apei de 20-22°C"],
+      en: ["Located in the municipality of Païta", "Features a subterranean freshwater lake", "Formed within karst limestone deposits", "Home to several colonies of bats", "Accessible via a marked hiking trail", "Average water temperature is about 20-22°C"],
+    },
   },
   {
     id: "newcaledonia-plateau-dogny-nature-v2",
@@ -266,6 +422,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Known for the GR1 hiking trail", "Elevation of about 1,000 meters", "Offers 360-degree panoramic views", "Rich in endemic montane flora"],
     },
     imageHint: "Grassy mountain plateau with forest patches in New Caledonia",
+    descriptionAdvanced: {
+      de: "Das Dogny-Plateau in der Gemeinde Sarraméa ist ein Hochplateau der Zentralkette von Neukaledonien. Mit einer Höhe von etwa 1.050 Metern bietet es weite Ausblicke über beide Küsten der Hauptinsel. Die Region ist durch Primärregenwälder und eine hohe Konzentration an endemischen Farnen und Pflanzenarten gekennzeichnet.",
+      hu: "A Dogny-fennsík Sarraméa községben található, Új-Kaledónia központi hegyláncának része. A körülbelül 1050 méteres magasságban fekvő terület panorámás kilátást nyújt a fősziget mindkét partjára. A régiót érintetlen esőerdők, valamint endemikus páfrányok és növényfajok magas koncentrációja jellemzi.",
+      ro: "Platoul Dogny, situat în comuna Sarraméa, face parte din lanțul muntos central al Noii Caledonii. Aflat la o altitudine de aproximativ 1.050 de metri, acesta oferă vederi panoramice asupra ambelor coaste ale insulei principale. Regiunea este caracterizată de păduri primare și o densitate mare de ferigi endemice.",
+      en: "The Dogny Plateau, located in the municipality of Sarraméa, is a high plateau within New Caledonia's central mountain range. At an elevation of approximately 1,050 meters, it offers panoramic views across both coasts of the main island. The region is characterized by primary rainforests and a high concentration of endemic ferns.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von ca. 1.050 Metern", "Gelegen in der Gemeinde Sarraméa", "Teil der Zentralkette (Chaîne Centrale)", "Bekannt für dichte Baumfarnwälder", "Bietet Sicht auf Ost- und Westküste", "Wichtiges Gebiet für endemische Vögel"],
+      hu: ["Magassága kb. 1050 méter", "Sarraméa község területén fekszik", "A Központi-hegylánc (Chaîne Centrale) része", "Híres az óriás páfrányfáiról", "Kilátást nyújt a keleti és nyugati partra", "Endemikus madárfajok fontos élőhelye"],
+      ro: ["Altitudine de circa 1.050 de metri", "Situat în municipalitatea Sarraméa", "Parte a lanțului muntos Chaîne Centrale", "Renumit pentru pădurile de ferigi gigant", "Vizibilitate spre coasta de est și de vest", "Zonă protejată pentru flora endemică"],
+      en: ["Elevation of about 1,050 meters", "Located in the Sarraméa municipality", "Part of the Central Range (Chaîne Centrale)", "Famous for its giant tree fern forests", "Offers views of both east and west coasts", "Important habitat for endemic bird species"],
+    },
   },
   {
     id: "newcaledonia-massif-koniambo-nature-v2",
@@ -285,6 +453,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Peak elevation about 940 meters", "Site of one of the world's largest nickel mines", "Important habitat for ultramafic scrubland", "Dominates the landscape near Koné"],
     },
     imageHint: "Large red-soil mountain massif with mining infrastructure in New Caledonia",
+    descriptionAdvanced: {
+      de: "Das Koniambo-Massiv liegt in der Nähe von Koné an der Westküste der Grande Terre. Es erreicht eine Höhe von 900 Metern und ist weltweit für seine riesigen Nickelvorkommen bekannt. Die geologische Formation besteht hauptsächlich aus Peridotit und beheimatet die spezielle 'Maquis minier'-Vegetation, die an metallreiche Böden angepasst ist.",
+      hu: "A Koniambo-masszívum Koné közelében, a Grande Terre nyugati partján található. A 900 méteres magasságot elérő hegység világszerte ismert hatalmas nikkelkészleteiről. A geológiai formáció főként peridotitból áll, és a különleges 'maquis minier' növényzetnek ad otthont, amely alkalmazkodott a fémtartalmú talajhoz.",
+      ro: "Masivul Koniambo este situat lângă localitatea Koné, pe coasta de vest a insulei Grande Terre. Acesta atinge o înălțime de 900 de metri și este cunoscut la nivel mondial pentru depozitele sale vaste de nichel. Formațiunea geologică este compusă în principal din peridotit și găzduiește vegetația unică 'maquis minier'.",
+      en: "The Koniambo Massif is located near Koné on the west coast of Grande Terre. Reaching an altitude of 900 meters, it is globally recognized for its vast nickel deposits. The geological formation is primarily composed of peridotite and hosts the unique 'maquis minier' vegetation, adapted to metal-rich soils.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe von 900 Metern", "Eines der größten Nickelvorkommen weltweit", "Gelegen in der Nordprovinz bei Koné", "Besteht überwiegend aus Peridotit-Gestein", "Standort des Koniambo-Nickel-Hüttenwerks", "Heimat seltener, metallophytischer Pflanzen"],
+      hu: ["Maximális magassága 900 méter", "A világ egyik legnagyobb nikkelkészlete", "Az Északi tartományban, Koné mellett található", "Fő kőzete a peridotit", "Itt működik a Koniambo Nickel feldolgozóüzem", "Fémtűrő (metallofita) növények élőhelye"],
+      ro: ["Altitudine maximă de 900 de metri", "Unul dintre cele mai mari zăcăminte de nichel", "Situat în Provincia de Nord, lângă Koné", "Compus în principal din rocă peridotit", "Găzduiește complexul industrial Koniambo Nickel", "Vegetație endemică de tip 'maquis minier'"],
+      en: ["Maximum elevation of 900 meters", "One of the world's largest nickel deposits", "Located in the North Province near Koné", "Composed mainly of peridotite rock", "Site of the Koniambo Nickel smelting plant", "Home to rare metallophytic plant species"],
+    },
   },
   {
     id: "newcaledonia-roche-percee-nature-v2",
@@ -304,6 +484,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Famous for the 'Bonhomme' rock pillar", "Composed of quartz sandstone", "Shaped by coastal erosion", "Home to a natural walk-through tunnel"],
     },
     imageHint: "Unique rock pillar on a beach in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Roche Percée bei Bourail ist eine markante Felsformation aus Quarzit, die durch jahrtausendlange Erosion geformt wurde. Bekannt ist sie vor allem für ihren natürlichen Bogen und den benachbarten 'Bonhomme de Bourail', eine monolithische Felssäule. Der umliegende Strand ist ein bedeutender Nistplatz für grüne Meeresschildkröten.",
+      hu: "A Bourail mellett található Roche Percée egy kvarcitból álló sziklaformáció, amelyet az évezredes erózió formált. Leginkább természetes boltívéről és a szomszédos 'Bonhomme de Bourail' nevű monolitikus szikláról ismert. A környező tengerpart a zöld teknősök egyik legfontosabb fészkelőhelye a régióban.",
+      ro: "Roche Percée, situată lângă Bourail, este o formațiune stâncoasă deosebită din cuarțit, modelată de eroziunea marină. Este renumită pentru arcada sa naturală și pentru monolitul adiacent 'Bonhomme de Bourail'. Plaja înconjurătoare este un sit important de cuibărit pentru țestoasele verzi.",
+      en: "Roche Percée, near Bourail, is a distinctive quartzite rock formation shaped by millennia of marine erosion. It is best known for its natural arch and the neighboring 'Bonhomme de Bourail', a monolithic rock stack. The surrounding beach is a significant nesting site for Green sea turtles.",
+    },
+    factsAdvanced: {
+      de: ["Besteht aus metamorpher Quarzit-Roch", "Gelegen an der Mündung des Néra-Flusses", "Bekannt für den 'Bonhomme de Bourail' Fels", "Nistplatz für die Grüne Meeresschildkröte", "Einziger Ort für Wellenreiten auf Grande Terre", "Starke Erosion veränderte die Bogenstruktur"],
+      hu: ["Metamorf kvarcit kőzetből áll", "A Néra-folyó torkolatánál található", "Híres a 'Bonhomme de Bourail' szikláról", "A zöld teknősök fontos fészkelőhelye", "Az egyetlen szörfözhető strand a főszigeten", "Az erózió folyamatosan alakítja a boltívet"],
+      ro: ["Formată din rocă de cuarțit metamorfic", "Situată la gura de vărsare a râului Néra", "Include monolitul 'Bonhomme de Bourail'", "Zonă de cuibărit pentru țestoasa verde", "Singura plajă cu valuri de surf de pe insulă", "Structura arcadei este afectată de eroziune"],
+      en: ["Composed of metamorphic quartzite rock", "Located at the mouth of the Néra River", "Home to the 'Bonhomme de Bourail' stack", "Nesting site for Green sea turtles", "Only surfing beach on the main island", "Erosion has significantly altered the arch"],
+    },
   },
   {
     id: "newcaledonia-mont-mou-nature-v2",
@@ -323,6 +515,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Elevation of 1,219 meters", "Famous for its mossy cloud forest", "Popular hiking spot near Nouméa", "Habitat for many rare orchids"],
     },
     imageHint: "Cloud-covered mountain peak in New Caledonia",
+    descriptionAdvanced: {
+      de: "Der Mont Mou in der Nähe von Païta erreicht eine Höhe von 1.211 Metern und ist Teil des zentralen Gebirgsmassivs. Der Berg ist bekannt für seinen einzigartigen Wolkenwald (Mooswald) in den Gipfelregionen. Er beheimatet zahlreiche endemische Pflanzenarten, darunter fleischfressende Kannenpflanzen und seltene Orchideen.",
+      hu: "A Païta közelében található Mont Mou 1211 méteres magasságot ér el, és a központi hegység része. A hegy híres a csúcsrégióiban található egyedülálló köderdőkről (mohaerdő). Számos endemikus növényfajnak ad otthont, köztük húsevő kancsókáknak és ritka orchideáknak, amelyek a párás mikroklímát kedvelik.",
+      ro: "Muntele Mou, situat lângă Païta, atinge o altitudine de 1.211 metri și face parte din masivul muntos central. Muntele este renumit pentru 'pădurea de nori' (pădurea de mușchi) din zonele sale înalte. Găzduiește numeroase specii endemice, inclusiv plante carnivore din genul Nepenthes și orhidee rare.",
+      en: "Mont Mou, near Païta, reaches an elevation of 1,211 meters and is part of the central mountain range. The mountain is famous for its unique cloud forest (moss forest) in its summit regions. It hosts numerous endemic plant species, including carnivorous pitcher plants and rare orchids.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe von 1.211 Metern", "Gelegen im Südprovinz-Distrikt Païta", "Bekannt für dichte Mooswälder am Gipfel", "Heimat der fleischfressenden Nepenthes vieillardii", "Teil eines Naturschutzgebietes", "Bietet Ausblick auf die Halbinsel von Nouméa"],
+      hu: ["Csúcsmagassága 1211 méter", "A Déli tartományban, Païta mellett található", "Híres a csúcson lévő sűrű mohaerdőkről", "A Nepenthes vieillardii kancsóka élőhelye", "Természetvédelmi terület része", "Kilátást nyújt a Nouméa-félszigetre"],
+      ro: ["Înălțime maximă de 1.211 metri", "Situat în municipalitatea Païta", "Posedă o pădure de mușchi spectaculoasă", "Habitat pentru planta carnivoră Nepenthes", "Inclus într-o rezervație naturală protejată", "Oferă panoramă asupra peninsulei Nouméa"],
+      en: ["Summit elevation of 1,211 meters", "Located in the Païta district", "Famous for dense moss forests at the top", "Home to carnivorous Nepenthes vieillardii", "Part of a protected nature reserve", "Offers views over the Nouméa peninsula"],
+    },
   },
   {
     id: "newcaledonia-baie-prony-nature-v2",
@@ -342,6 +546,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Crucial area for humpback whale watching", "Features unique underwater thermal vents", "Site of a former penal colony", "Surrounded by striking red laterite soil"],
     },
     imageHint: "Deep blue bay surrounded by red hills in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Bucht von Prony liegt an der Südspitze der Grande Terre und ist für ihre markante rote Erde bekannt, die hier auf das tiefblaue Meer trifft. Historisch bedeutsam durch die Überreste einer ehemaligen Strafkolonie, ist die Bucht heute ein wichtiger Ort für die Beobachtung von Buckelwalen während der Wintermonate.",
+      hu: "A Prony-öböl a Grande Terre déli csücskén található, és jellegzetes vörös földjéről ismert, amely itt találkozik a mélykék tengerrel. Történelmileg egy egykori büntetőtelep romjai miatt jelentős, ma pedig a hosszúszárnyú bálnák megfigyelésének fontos helyszíne a téli hónapokban.",
+      ro: "Golful Prony este situat în extremitatea sudică a insulei Grande Terre și este cunoscut pentru pământul său roșu care întâlnește marea albastră. Semnificativ istoric datorită ruinelor unei foste colonii penitenciare, golful este astăzi un loc important pentru observarea balenelor cu cocoașă.",
+      en: "Prony Bay is located at the southern tip of Grande Terre and is known for its striking red soil meeting the deep blue sea. Historically significant for the remains of a former penal colony, the bay is now a key location for humpback whale watching during the winter months.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen im Großen Süden (Grand Sud)", "Bekannt für lateritische rote Böden", "Wichtiger Ort für Walbeobachtung (Juli-Sept)", "Beheimatet Ruinen eines Dorfes von 1867", "Teil eines UNESCO-Puffergebiets", "Mündung mehrerer Süßwasserflüsse"],
+      hu: ["A Nagy Dél (Grand Sud) régióban található", "Laterites vörös talajáról nevezetes", "Bálnalesek helyszíne (július-szeptember)", "Egy 1867-ben alapított falu romjai láthatók", "Az UNESCO védelmi zónájához tartozik", "Számos édesvízi folyó torkolata"],
+      ro: ["Situat în regiunea Grand Sud", "Cunoscut pentru solurile roșii lateritice", "Punct de observare a balenelor (iulie-sept)", "Găzduiește ruinele unui sat din 1867", "Parte a zonei tampon UNESCO", "Punct de vărsare a mai multor râuri"],
+      en: ["Located in the Great South (Grand Sud)", "Known for its lateritic red soils", "Key spot for whale watching (July-Sept)", "Home to ruins of a village founded in 1867", "Part of a UNESCO buffer zone", "Mouth of several freshwater rivers"],
+    },
   },
   {
     id: "newcaledonia-aiguilles-prony-nature-v2",
@@ -361,6 +577,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Underwater mineral spire", "Rises about 35 meters from the seabed", "Formed by hydrothermal activity", "Rich site for soft corals and fish"],
     },
     imageHint: "Underwater rock formation with corals in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Aiguilles de Prony sind einzigartige unterwasserthermale Schornsteine in der Bucht von Prony. Diese Stalagmiten-ähnlichen Strukturen ragen bis zu 20 Meter vom Meeresboden auf und wurden durch kalkhaltige Ablagerungen heißer Quellen geformt. Sie beherbergen eine spezialisierte Flora und Fauna, die in diesem mineralreichen Umfeld gedeiht.",
+      hu: "Az Aiguilles de Prony egyedülálló víz alatti hidrotermális kürtők a Prony-öbölben. Ezek a sztalagmit-szerű képződmények akár 20 méter magasságba is emelkednek a tengerfenékről, és forró források mészlerakódásaiból jöttek létre. Különleges flórának és faunának adnak otthont, amely ebben az ásványianyag-gazdag környezetben él.",
+      ro: "Aiguilles de Prony sunt hornuri hidrotermale submarine unice în Golful Prony. Aceste structuri asemănătoare stalagmitelor se ridică până la 20 de metri de pe fundul mării și au fost formate prin depuneri calcaroase ale izvoarelor termale. Ele adăpostesc o floră și faună specializată care prosperă în acest mediu bogat în minerale.",
+      en: "The Prony Needles (Aiguilles de Prony) are unique underwater hydrothermal chimneys in Prony Bay. These stalagmite-like structures rise up to 20 meters from the seabed and were formed by calcareous deposits from hot springs. They host specialized flora and fauna that thrive in this mineral-rich environment.",
+    },
+    factsAdvanced: {
+      de: ["Unterwasser-Schornsteine aus Kalkstein", "Höhe von ca. 20 Metern vom Meeresboden", "Entstanden durch hydrothermale Quellen", "Gelegen in der Bucht von Prony", "Alter auf mehrere tausend Jahre geschätzt", "Beliebter Tauchplatz für biologische Studien"],
+      hu: ["Víz alatti mészkő kürtők", "Akár 20 méter magasak a fenéktől", "Hidrotermális források alakították ki", "A Prony-öböl vizében találhatók", "Életkoruk több ezer évre tehető", "Népszerű merülőhely biológiai kutatásokhoz"],
+      ro: ["Hornuri submarine din calcar", "Înălțime de cca. 20 m de la fundul mării", "Formate prin activitate hidrotermală", "Situate în interiorul Golfului Prony", "Vârstă estimată la câteva mii de ani", "Loc de scufundări unic pentru biodiversitate"],
+      en: ["Underwater limestone chimneys", "Rise about 20 meters from the seabed", "Formed by hydrothermal spring activity", "Located within Prony Bay", "Estimated to be several thousand years old", "Popular dive site for biological studies"],
+    },
   },
   {
     id: "newcaledonia-ilot-maitre-nature-v2",
@@ -380,6 +608,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Located in the Nouméa lagoon", "Features a large shallow reef flat", "Very high density of sea turtles", "Designated as a marine reserve"],
     },
     imageHint: "Small tropical islet with white sand and reef in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Îlot Maître ist eine kleine Insel etwa vier Kilometer vor Nouméa, die in einem 200 Hektar großen Meeresschutzgebiet liegt. Sie ist bekannt für ihre ausgedehnten Seegraswiesen, die eine große Population grüner Meeresschildkröten anziehen. Die Insel ist ein wichtiges Refugium für Meeresvögel und ein Zentrum für nachhaltigen Tourismus.",
+      hu: "Az Îlot Maître egy kis sziget Nouméától mintegy négy kilométerre, egy 200 hektáros tengeri védett terület közepén. Híres kiterjedt tengerifű-mezőiről, amelyek nagyszámú zöld teknőst vonzanak. A sziget a tengeri madarak fontos menedékhelye, és a fenntartható turizmus egyik központja a térségben.",
+      ro: "Îlot Maître este o insulă mică situată la aproximativ patru kilometri de Nouméa, în mijlocul unei rezervații marine de 200 de hectare. Este cunoscută pentru pajiștile sale de iarbă de mare care atrag o populație mare de țestoase verzi. Insula servește ca refugiu pentru păsările marine și centru de turism durabil.",
+      en: "Îlot Maître is a small island located about four kilometers from Nouméa, set within a 200-hectare marine reserve. It is famous for its extensive seagrass meadows that attract a large population of green sea turtles. The island serves as an important sanctuary for seabirds and a center for sustainable tourism.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 200 Hektar Reservat", "Entfernung von Nouméa: ca. 4 Kilometer", "Bekannt für grüne Meeresschildkröten", "Verfügt über ausgedehnte Seegraswiesen", "Teil eines streng geschützten Meeresparks", "Nistplatz für den Keilschwanz-Sturmtaucher"],
+      hu: ["Kb. 200 hektáros védett terület része", "Nouméától való távolsága kb. 4 km", "A zöld teknősök gyakori előfordulási helye", "Kiterjedt tengerifű-mezőkkel rendelkezik", "Szigorúan védett tengeri park része", "Ékfarkú viharmadarak fészkelőhelye"],
+      ro: ["Suprafață de cca. 200 de hectare de rezervație", "Distanță de Nouméa: aproximativ 4 km", "Loc recunoscut pentru țestoasele verzi", "Posedă pajiști vaste de iarbă de mare", "Integrată într-un parc marin protejat", "Loc de cuibărit pentru păsări marine"],
+      en: ["Area of approx. 200 hectares of reserve", "Distance from Nouméa: about 4 kilometers", "Renowned for sightings of green sea turtles", "Features extensive seagrass meadows", "Part of a strictly protected marine park", "Nesting site for Wedge-tailed shearwaters"],
+    },
   },
   {
     id: "newcaledonia-ilot-canard-nature-v2",
@@ -399,6 +639,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Just 5 minutes by boat from Nouméa", "Features an underwater discovery trail", "Protected as a marine reserve", "Popular day-trip destination"],
     },
     imageHint: "Tiny islet with umbrellas and turquoise water in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Îlot Canard, auch Enteninsel genannt, liegt unmittelbar vor dem Strand von Anse Vata in Nouméa. Dieses kleine Eiland gehört seit 1989 zu einem Meeresschutzgebiet und bietet einen markierten Unterwasser-Lehrpfad für Schnorchler. Trotz seiner Nähe zur Stadt bewahrt es eine bemerkenswerte Vielfalt an Korallen und tropischen Fischen.",
+      hu: "Az Îlot Canard, más néven Kacsa-sziget, közvetlenül a nouméai Anse Vata strand előtt található. Ez a kis sziget 1989 óta tengeri védett terület, és jelölt víz alatti tanösvényt kínál a sznorkelezők számára. A város közelsége ellenére figyelemre méltó korall- és trópusi halfaj-gazdagságot őriz.",
+      ro: "Îlot Canard, cunoscută și sub numele de Insula Raței, este situată chiar în fața plajei Anse Vata din Nouméa. Această insulă mică este zonă marină protejată din 1989 și oferă un traseu subacvatic educativ pentru snorkeling. În ciuda proximității față de oraș, păstrează o diversitate remarcabilă de corali.",
+      en: "Îlot Canard, also known as Duck Island, is located directly offshore from Anse Vata beach in Nouméa. This small islet has been a protected marine area since 1989 and features a marked underwater educational trail for snorkelers. Despite its proximity to the city, it preserves a remarkable variety of corals and tropical fish.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen vor der Bucht Anse Vata", "Meeresschutzgebiet seit dem Jahr 1989", "Verfügt über einen Unterwasser-Lehrpfad", "Erreichbar in 5 Minuten per Wassertaxi", "Beheimatet über 100 Korallenarten", "Wichtiger Ort für Umwelterziehung"],
+      hu: ["Az Anse Vata öböllel szemben fekszik", "1989 óta tengeri védett terület", "Víz alatti tanösvénnyel rendelkezik", "Vízi taxival 5 perc alatt elérhető", "Több mint 100 korallfaj él itt", "Környezeti nevelés fontos helyszíne"],
+      ro: ["Situată în fața golfului Anse Vata", "Rezervație marină din anul 1989", "Dotată cu un traseu subacvatic marcat", "Accesibilă în 5 minute cu taxiul pe apă", "Adăpostește peste 100 specii de corali", "Centru activ pentru educație ecologică"],
+      en: ["Located off Anse Vata bay", "Protected marine area since 1989", "Features an underwater educational trail", "Accessible in 5 minutes by water taxi", "Home to over 100 species of coral", "Important site for environmental education"],
+    },
   },
   {
     id: "newcaledonia-plage-luengoni-nature-v2",
@@ -418,6 +670,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Located on the east coast of Lifou", "Nearby sinkholes are known as 'blue holes'", "Incredibly fine coral sand", "Crystal clear and calm waters"],
     },
     imageHint: "Pristine white sand beach with turquoise water in New Caledonia",
+    descriptionAdvanced: {
+      de: "Der Strand von Luengöni an der Ostküste der Insel Lifou gilt als einer der feinsten Sandstrände im Pazifik. Das leuchtend türkisfarbene Wasser und die markanten Korallenfelsen im Meer prägen das Landschaftsbild. In der Nähe befinden sich die Luengöni-Höhlen, die mit tiefen, kristallklaren Süßwasserbecken für Tauchgänge bekannt sind.",
+      hu: "A Lifou szigetének keleti partján található Luengöni-strand a Csendes-óceán egyik legfinomabb homokú tengerpartja. A ragyogó türkizkék víz és a tengerből kiemelkedő korallsziklák jellegzetes látványt nyújtanak. A közelben találhatók a Luengöni-barlangok, amelyek mély, kristálytiszta édesvízi medencéikről ismertek.",
+      ro: "Plaja Luengöni, situată pe coasta de est a insulei Lifou, este considerată una dintre cele mai fine plaje cu nisip din Pacific. Apele turcoaz strălucitoare și stâncile de corali din larg definesc peisajul. În apropiere se află peșterile Luengöni, renumite pentru bazinele lor adânce cu apă dulce cristalină.",
+      en: "Luengöni Beach, on the east coast of Lifou Island, is considered one of the finest sand beaches in the Pacific. The brilliant turquoise waters and distinctive coral rocks offshore characterize the landscape. Nearby are the Luengöni caves, famous for their deep, crystal-clear freshwater pools used for diving.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen an der Ostküste von Lifou", "Extrem feiner, weißer Korallensand", "Sichtungen von grünen Schildkröten häufig", "Bekannt für vorgelagerte Koralleninseln", "Nahegelegene Höhlen mit Süßwasserbecken", "Traditionelles Gebiet des Stammes Luengöni"],
+      hu: ["Lifou szigetének keleti partján fekszik", "Rendkívül finom, fehér korallhomok", "Zöld teknősök gyakran láthatók itt", "Híres a part menti korallszigetekről", "Közeli barlangok édesvízi medencékkel", "A Luengöni törzs hagyományos területe"],
+      ro: ["Situată pe coasta de est a insulei Lifou", "Nisip coralifer alb extrem de fin", "Observări frecvente ale țestoaselor verzi", "Renumită pentru insulițele de corali", "Peșteri adiacente cu bazine de apă dulce", "Teritoriul tradițional al tribului Luengöni"],
+      en: ["Located on the east coast of Lifou", "Extremely fine white coral sand", "Green turtle sightings are common", "Known for its offshore coral islets", "Nearby caves feature freshwater pools", "Traditional territory of the Luengöni tribe"],
+    },
   },
   {
     id: "newcaledonia-baie-jinek-nature-v2",
@@ -437,6 +701,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["One of the best snorkeling spots in the Pacific", "Home to hundreds of species of fish and coral", "Limited daily visitors to protect the reef", "Extremely calm and transparent water"],
     },
     imageHint: "Clear shallow bay with diverse coral heads in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Jinek-Bucht bei Easo auf Lifou wird oft als 'natürliches Aquarium' bezeichnet. Die flache Lagune beherbergt auf engstem Raum über 2.000 Fischarten und hunderte Korallenarten. Um dieses sensible Ökosystem zu schützen, ist der Zugang für Schnorchler reglementiert und erfolgt über einen speziellen Unterwasser-Lehrpfad.",
+      hu: "A Lifou-szigeti Easo közelében található Jinek-öblöt gyakran nevezik 'természetes akváriumnak'. A sekély lagúna kis területen több mint 2000 halfajnak és több száz korallfajnak ad otthont. Az érzékeny ökoszisztéma védelme érdekében a sznorkelezők számára a belépés korlátozott, és egy speciális víz alatti tanösvényen történik.",
+      ro: "Golful Jinek, situat lângă Easo pe insula Lifou, este adesea numit 'acvariu natural'. Laguna cu adâncime mică adăpostește peste 2.000 de specii de pești și sute de tipuri de corali pe o suprafață restrânsă. Pentru a proteja acest ecosistem fragil, accesul este reglementat printr-un traseu subacvatic marcat.",
+      en: "Jinek Bay, near Easo on Lifou Island, is often referred to as a 'natural aquarium'. The shallow lagoon hosts over 2,000 fish species and hundreds of coral varieties in a confined area. To protect this sensitive ecosystem, access for snorkelers is regulated and conducted via a special underwater educational trail.",
+    },
+    factsAdvanced: {
+      de: ["Wird als 'natürliches Aquarium' bezeichnet", "Heimat von über 2.000 Fischarten", "Wassertiefe liegt zwischen 2 und 6 Metern", "Gelegen in der Nähe des Dorfes Easo", "Strenge Besucherquoten zum Schutz", "Besitzt markierte Unterwasser-Informationen"],
+      hu: ["'Természetes akváriumként' ismerik", "Több mint 2000 halfaj élőhelye", "Vízmélysége 2 és 6 méter közötti", "Easo falu szomszédságában található", "Szigorú látogatói kvóták a védelemért", "Kiépített víz alatti információs táblák"],
+      ro: ["Cunoscut drept 'acvariu natural'", "Găzduiește peste 2.000 de specii de pești", "Adâncimea apei variază între 2 și 6 metri", "Situat în apropierea satului Easo", "Cote stricte de vizitatori pentru protecție", "Include panouri informative subacvatice"],
+      en: ["Referred to as a 'natural aquarium'", "Home to over 2,000 species of fish", "Water depth ranges from 2 to 6 meters", "Located near the village of Easo", "Strict visitor quotas for conservation", "Features marked underwater information"],
+    },
   },
   {
     id: "newcaledonia-pic-grand-kaori-nature-v2",
@@ -456,6 +732,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Home to a 1,000-year-old giant Kaori tree", "Located within Blue River Provincial Park", "Key viewpoint for the southern region", "Surrounded by lush primary rainforest"],
     },
     imageHint: "Giant ancient tree in a tropical forest in New Caledonia",
+    descriptionAdvanced: {
+      de: "Der Pic du Grand Kaori liegt im Blue River Provincial Park und ist nach den monumentalen Kaori-Bäumen (Agathis lanceolata) benannt. Das Gebiet beherbergt eines der ältesten lebenden Exemplare, einen etwa 1.000 Jahre alten Riesen-Kaori. Die Region ist geprägt von metallhaltigen Böden und einer außergewöhnlichen Dichte an endemischen Pflanzen.",
+      hu: "A Pic du Grand Kaori a Kék-folyó Tartományi Parkban található, és a monumentális kaurifenyőkről (Agathis lanceolata) kapta a nevét. A területen él az egyik legidősebb példány, egy körülbelül 1000 éves óriás kaurifenyő. A régiót fémtartalmú talajok és az endemikus növények rendkívüli sűrűsége jellemzi.",
+      ro: "Vârful Grand Kaori este situat în Parcul Provincial Rivière Bleue și este numit după arborii monumentali Kaori (Agathis lanceolata). Zona adăpostește unul dintre cele mai vechi exemplare vii, un Kaori gigant de aproximativ 1.000 de ani. Regiunea este marcată de soluri bogate în metale și o densitate mare de plante endemice.",
+      en: "Great Kaori Peak is located in the Blue River Provincial Park and is named after the monumental Kaori trees (Agathis lanceolata). The area hosts one of the oldest living specimens, a giant Kaori approximately 1,000 years old. The region is characterized by metal-rich soils and an extraordinary density of endemic plants.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen im Parc de la Rivière Bleue", "Beherbergt einen 1.000 Jahre alten Kaori", "Stammumfang des Riesenbaums: ca. 9 Meter", "Wichtiger Ort für den endemischen Cagou-Vogel", "Böden sind reich an Eisen und Mangan", "Höhe des Riesen-Kaori beträgt ca. 40 Meter"],
+      hu: ["A Kék-folyó Tartományi Parkban található", "Egy 1000 éves kaurifenyőnek ad otthont", "Az óriásfa törzskörmérete kb. 9 méter", "Az endemikus kagu madár fontos élőhelye", "Vörös talaja vasban és mangánban gazdag", "Az óriás kaurifenyő magassága kb. 40 méter"],
+      ro: ["Situat în Parcul Provincial Rivière Bleue", "Găzduiește un arbore Kaori de 1.000 de ani", "Circumferința arborelui gigant: cca. 9 m", "Habitat crucial pentru pasărea endemică Cagou", "Soluri bogate în fier și mangan (lateritice)", "Înălțimea arborelui Kaori gigant este de 40 m"],
+      en: ["Located in the Blue River Provincial Park", "Home to a 1,000-year-old Kaori tree", "Trunk circumference of giant tree: approx. 9m", "Crucial habitat for the endemic Cagou bird", "Soils are rich in iron and manganese", "The giant Kaori stands about 40 meters tall"],
+    },
   },
   {
     id: "newcaledonia-cascade-tao-nature-v2",
@@ -475,6 +763,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Located on the northeast coast of Grande Terre", "Fed by the streams of the Mont Panié massif", "Consists of several high-altitude drops", "Accessible via a lush jungle hiking trail"],
     },
     imageHint: "High waterfall cascading down a green mountain in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Cascade de Tao liegt an der Nordostküste von Grande Terre am Fuße des Mont Panié. Dieser beeindruckende Wasserfall stürzt über mehrere Stufen direkt in Richtung der Lagune hinab. Der Zugang erfolgt oft über die letzte flussgebundene Fähre Neukaledoniens am Ouaième. Die Umgebung ist von dichtem, tropischem Regenwald und Granitfelsen geprägt.",
+      hu: "A Tao-vízesés Grande Terre északkeleti partján, a Mont Panié lábánál található. Ez a látványos zuhatag több lépcsőben zúdul le a gránitsziklákon a tengerparti síkság irányába. A megközelítése az utolsó neukaledóniai folyami kompon keresztül történik az Ouaième folyónál. A környéket sűrű trópusi esőerdő és magas páratartalom jellemzi.",
+      ro: "Cascada Tao este situată pe coasta de nord-est a insulei Grande Terre, la poalele masivului Mont Panié. Această cădere de apă impresionantă coboară în mai multe trepte peste stânci de granit spre zona de coastă. Accesul se face traversând râul Ouaième cu ultimul bac fluvial din Noua Caledonie. Zona este înconjurată de o pădure tropicală densă și biodiversitate bogată.",
+      en: "The Tao Waterfall is located on the northeast coast of Grande Terre at the foot of Mont Panié. This impressive cascade drops in several tiers over granite rocks toward the coastal plain. Access to the falls is usually achieved via the last river ferry in New Caledonia across the Ouaième. The surrounding area is characterized by dense tropical rainforest and high humidity.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von etwa 100 Metern", "Liegt am Massiv des Mont Panié", "Zugang über die Ouaième-Fähre", "Teil der Nordprovinz", "Umgeben von Primärregenwald", "In der Nähe von Hienghène"],
+      hu: ["Körülbelül 100 méter magas", "A Mont Panié masszívumánál található", "Az Ouaième-kompon keresztül érhető el", "Az Északi tartomány része", "Elsődleges esőerdő veszi körül", "Hienghène település közelében fekszik"],
+      ro: ["Înălțime de aproximativ 100 de metri", "Situată la baza masivului Mont Panié", "Acces prin intermediul bacului Ouaième", "Face parte din Provincia de Nord", "Înconjurată de pădure tropicală primară", "Localizată în apropiere de Hienghène"],
+      en: ["Height of approximately 100 meters", "Located at the Mont Panié massif", "Accessed via the Ouaième ferry", "Part of the North Province", "Surrounded by primary rainforest", "Situated near Hienghène"],
+    },
   },
   {
     id: "newcaledonia-recif-astrolabe-nature-v2",
@@ -494,6 +794,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Remote coral atolls in the northern lagoon", "Teeming with sharks and large pelagic fish", "Part of the Natural Park of the Coral Sea", "Virtually untouched coral ecosystems"],
     },
     imageHint: "Remote coral reef atoll in the middle of the ocean in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Astrolabe-Riffe sind eine Gruppe von Korallenriffen nordwestlich der Insel Ouvéa in den Loyalitätsinseln. Sie wurden im Jahr 1827 von dem französischen Entdecker Jules Dumont d'Urville während seiner Expedition benannt. Die Formation bildet ein großes Atoll, das für seine reiche marine Artenvielfalt bekannt ist. Diese Gewässer sind für die Schifffahrt aufgrund ihrer Komplexität historisch bedeutsam.",
+      hu: "Az Astrolabe-zátonyok egy korallzátony-csoport az Üdvösség-szigeteki Ouvéa szigetétől északnyugatra. Jules Dumont d'Urville francia felfedező nevezte el őket 1827-ben a hajójáról a felfedezőútja során. A formáció egy nagy atollt alkot, amely gazdag tengeri élővilágáról és kristálytiszta vizéről ismert. A térség történelmileg fontos a tengeri hajózás szempontjából.",
+      ro: "Recifele Astrolabe sunt un grup de recife de corali situate la nord-vest de insula Ouvéa din Insulele Loialității. Au fost numite în 1827 de exploratorul francez Jules Dumont d'Urville după nava sa în timpul unei expediții. Formațiunea alcătuiește un atol vast, cunoscut pentru biodiversitatea marină ridicată. Aceste ape sunt semnificative istoric pentru navigație datorită structurii lor complexe.",
+      en: "The Astrolabe Reefs are a group of coral reefs located northwest of Ouvéa Island in the Loyalty Islands. They were named in 1827 by French explorer Jules Dumont d'Urville after his ship during an expedition. The formation constitutes a large atoll known for its rich marine biodiversity. These waters are historically significant for maritime navigation due to their complex structure.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckt im Jahr 1827", "Benannt nach dem Schiff Astrolabe", "Nordwestlich von Ouvéa gelegen", "Teil der Loyalitätsinseln", "Etwa 30 Kilometer lang", "Lebensraum für verschiedene Haiarten"],
+      hu: ["1827-ben fedezték fel", "Az Astrolabe hajóról nevezték el", "Ouvéától északnyugatra található", "A Hűség-szigetek része", "Körülbelül 30 kilométer hosszú", "Különböző cápafajok élőhelye"],
+      ro: ["Descoperite în anul 1827", "Numite după nava Astrolabe", "Situate la nord-vest de Ouvéa", "Parte a Insulelor Loialității", "Lungime de aproximativ 30 de kilometri", "Habitat pentru diverse specii de rechini"],
+      en: ["Discovered in the year 1827", "Named after the ship Astrolabe", "Located northwest of Ouvéa", "Part of the Loyalty Islands", "Approximately 30 kilometers long", "Habitat for various shark species"],
+    },
   },
   {
     id: "newcaledonia-parc-riviere-bleue-nature-v2",
@@ -513,6 +825,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Covers over 9,000 hectares", "Premier sanctuary for the flightless Kagu", "Home to the thousand-year-old 'Grand Kaori'", "Dominated by striking red laterite earth"],
     },
     imageHint: "Forest park with red paths and green trees in New Caledonia",
+    descriptionAdvanced: {
+      de: "Der Provinzpark Rivière Bleue ist ein bedeutendes Naturschutzgebiet im Süden von Grande Terre. Er beherbergt das Symboltier Neukaledoniens, den flugunfähigen Vogel Cagou, sowie jahrtausendealte Kaori-Bäume. Besonders bekannt ist der versunkene Wald im Stausee von Yaté mit seinen abgestorbenen Baumstämmen. Die Landschaft ist geprägt von roter Lateriterde und einer hohen Dichte an endemischen Pflanzenarten.",
+      hu: "A Rivière Bleue Tartományi Park jelentős természetvédelmi terület Grande Terre déli részén. Itt él Új-Kaledónia nemzeti jelképe, a röpképtelen kagu madár, valamint több ezer éves kaori fenyők is találhatók. A park legismertebb része a Yaté-tóban található elsüllyedt erdő, amelynek elhalt fatörzsei merednek ki a vízből. A tájat vörös laterit talaj és számos endemikus növényfaj jellemzi.",
+      ro: "Parcul Provincial Rivière Bleue este o rezervație naturală majoră în sudul insulei Grande Terre. Acesta adăpostește pasărea Cagou, simbolul național necomunicat, și arbori Kaori vechi de peste un mileniu. Este celebru pentru pădurea scufundată din lacul de acumulare Yaté, cu trunchiuri de copaci ieșind din apă. Peisajul este definit de solul de laterită roșie și o densitate mare de plante endemice.",
+      en: "The Blue River Provincial Park is a major nature reserve in the south of Grande Terre. It is home to New Caledonia's national symbol, the flightless Cagou bird, and ancient Kaori trees. The park is famous for the drowned forest in the Yaté reservoir, where dead tree trunks emerge from the water. The landscape is characterized by red laterite soil and a high density of endemic plant species.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1980", "Fläche von 9000 Hektar", "Heimat des Cagou-Vogels", "Standort des Grand Kaori Baumes", "Versunkener Wald seit 1958", "Liegt in der Südprovinz"],
+      hu: ["1980-ban alapították", "9000 hektár területű", "A kagu madár élőhelye", "Itt található a Grand Kaori fa", "Az elsüllyedt erdő 1958-ban keletkezett", "A Déli tartományban fekszik"],
+      ro: ["Înființat în anul 1980", "Suprafață de 9000 de hectare", "Habitat al păsării Cagou", "Găzduiește arborele Grand Kaori", "Pădurea scufundată creată în 1958", "Situat în Provincia de Sud"],
+      en: ["Established in the year 1980", "Area of 9,000 hectares", "Home to the Cagou bird", "Location of the Grand Kaori tree", "Drowned forest formed in 1958", "Located in the South Province"],
+    },
   },
   {
     id: "newcaledonia-chutes-tao-nature-v2",
@@ -532,6 +856,18 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["One of the highest waterfalls in the territory", "Located in the Hienghène municipality", "Visible from the coastal road", "Surrounded by lush primary jungle"],
     },
     imageHint: "High waterfall in a lush green jungle landscape in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Tao-Fälle stürzen sich in mehreren Kaskaden vom Mont Panié-Massiv hinab zur Küste von Hienghène. Sie gehören zu den höchsten Wasserfällen des Archipels und bieten einen spektakulären Anblick inmitten der tropischen Vegetation. Die Felsen bestehen hauptsächlich aus Gneis und Granit, was die Beständigkeit der Formation erklärt. Dieses Naturdenkmal ist tief in der lokalen Kultur der Kanak verwurzelt.",
+      hu: "A Tao-vízesés több kaskádon keresztül zúdul le a Mont Panié masszívumról Hienghène partjai felé. A szigetcsoport egyik legmagasabb vízeséseként tartják számon, amely látványos képet nyújt a trópusi növényzet közepén. A sziklák főként gneiszből és gránitból állnak, ami magyarázza a formáció tartósságát. Ez a természeti emlék mélyen gyökerezik a helyi kanak kultúrában.",
+      ro: "Căderile Tao coboară în mai multe cascade de pe masivul Mont Panié spre coasta din Hienghène. Acestea sunt considerate printre cele mai înalte cascade din arhipelag, oferind o priveliște spectaculoasă în mijlocul vegetației tropicale. Stâncile sunt compuse în principal din gnais și granit, ceea ce explică rezistența formațiunii. Acest monument natural este profund înrădăcinat în cultura locală Kanak.",
+      en: "The Tao Falls plunge in several cascades from the Mont Panié massif toward the Hienghène coast. They are considered among the highest waterfalls in the archipelago, offering a spectacular sight amidst tropical vegetation. The rocks consist mainly of gneiss and granite, which explains the durability of the formation. This natural monument is deeply rooted in the local Kanak culture.",
+    },
+    factsAdvanced: {
+      de: ["Mehrstufige Kaskadenform", "Geologische Basis aus Granit", "Abfluss in die Lagune", "Höhe von über 100 Metern", "Teil des Mont Panié Reservats", "Nahe der Mündung des Ouaième"],
+      hu: ["Többlépcsős kaskád formájú", "Gránit geológiai alapú", "A lagúnába torkollik", "Több mint 100 méter magas", "A Mont Panié rezervátum része", "Az Ouaième torkolata közelében"],
+      ro: ["Formă de cascadă în mai multe trepte", "Bază geologică de granit", "Se varsă în lagună", "Înălțime de peste 100 de metri", "Parte a rezervației Mont Panié", "Lângă gura de vărsare a râului Ouaième"],
+      en: ["Multi-tiered cascade form", "Granite geological base", "Flows into the lagoon", "Height of over 100 meters", "Part of the Mont Panié reserve", "Near the mouth of the Ouaième"],
+    },
   },
   {
     id: "newcaledonia-falaises-lekini-nature-v2",
@@ -551,5 +887,17 @@ export const newcaledoniaNatureV2: POI[] = [
       en: ["Formed from uplifted coral reefs", "Overlook the pristine Ouvéa lagoon", "Caves were historically used as burial sites", "Visiting requires a local Kanak guide"],
     },
     imageHint: "Jagged grey coral cliffs next to a turquoise lagoon in New Caledonia",
+    descriptionAdvanced: {
+      de: "Die Lékiny-Klippen sind beeindruckende Kalksteinformationen aus fossilen Korallen auf der Insel Ouvéa. Sie ragen steil über das türkisfarbene Wasser der Lagune empor und beherbergen zahlreiche Höhlen und Grotten. Die Klippen trennen die Lagune von Mouli vom offenen Ozean und sind für die Kanak-Bevölkerung heilig. Bei Ebbe sind die Eingänge zu den Meereshöhlen oft zu Fuß oder mit dem Kanu erreichbar.",
+      hu: "A Lékiny-sziklák fosszilis korallokból álló, lenyűgöző mészkőformációk Ouvéa szigetén. Meredeken emelkednek ki a lagúna türkizkék vize fölé, és számos barlangot rejtenek. A sziklák választják el a Mouli-lagúnát a nyílt óceántól, és szent helynek számítanak a kanak lakosság számára. Apálykor a tengeri barlangok bejáratai gyakran gyalogosan vagy kenuban is elérhetők.",
+      ro: "Falezele Lékiny sunt formațiuni calcaroase impresionante din corali fosili pe insula Ouvéa. Acestea se ridică abrupt deasupra apelor turcoaz ale lagunei și adăpostesc numeroase peșteri și grote. Falezele separă laguna Mouli de oceanul deschis și sunt considerate sacre de populația Kanak. La reflux, intrările în peșterile marine sunt adesea accesibile pe jos sau cu canoea.",
+      en: "The Lékiny Cliffs are impressive limestone formations made of fossilized corals on Ouvéa Island. They rise steeply above the turquoise waters of the lagoon and house numerous caves and grottoes. The cliffs separate the Mouli lagoon from the open ocean and are considered sacred by the Kanak population. At low tide, the entrances to the sea caves are often accessible on foot or by canoe.",
+    },
+    factsAdvanced: {
+      de: ["Bestehen aus fossilem Korallenkalk", "Höhe von bis zu 30 Metern", "Gelegen auf der Insel Ouvéa", "Heiliger Ort der Kanak", "Bekannt für zahlreiche Meereshöhlen", "Direkt an der Mouli-Brücke"],
+      hu: ["Fosszilis korallmészkőből áll", "Akár 30 méter magas", "Ouvéa szigetén található", "A kanakok szent helye", "Számos tengeri barlangjáról ismert", "Közvetlenül a Mouli-hídnál fekszik"],
+      ro: ["Compuse din calcar coralifer fosil", "Înălțime de până la 30 de metri", "Situate pe insula Ouvéa", "Loc sacru pentru Kanak", "Cunoscute pentru numeroase peșteri", "Situate lângă podul Mouli"],
+      en: ["Composed of fossil coral limestone", "Height of up to 30 meters", "Located on Ouvéa Island", "Sacred site for the Kanak", "Known for numerous sea caves", "Situated near the Mouli bridge"],
+    },
   }
 ];

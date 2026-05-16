@@ -19,6 +19,18 @@ export const nauruCitiesV2: POI[] = [
       en: ["Seat of the government of Nauru", "Location of the international airport", "Houses the Parliament Building", "Located on the southwest coast of the island"],
     },
     imageHint: "Parliament House in Yaren Nauru",
+    descriptionAdvanced: {
+      de: "Yaren ist der de-facto-Hauptort des Inselstaates Nauru und dient als administratives Zentrum. Hier befinden sich das Parlamentsgebäude, der Präsidentenpalast und der internationale Flughafen der Insel. Da Nauru keine offizielle Stadt hat, fungiert Yaren als Sitz der Regierungsorgane. Das Gebiet liegt im Süden der Insel und ist durch seine Nähe zum Moqua Well bekannt.",
+      hu: "Yaren Nauru de facto fővárosa és a szigetország adminisztratív központja. Itt található a parlament épülete, az elnöki palota és a sziget nemzetközi repülőtere is. Mivel Naurunak nincs hivatalos városa, Yaren látja el a kormányzati funkciókat. A terület a sziget déli részén fekszik, és a közelében található Moqua-kútról is nevezetes.",
+      ro: "Yaren este capitala de facto a statului insular Nauru și servește drept centru administrativ principal. Aici se află clădirea Parlamentului, sediul guvernului și aeroportul internațional al insulei. Deoarece Nauru nu are orașe oficiale, Yaren îndeplinește funcțiile administrative. Zona este situată în sudul insulei și este cunoscută pentru Moqua Well.",
+      en: "Yaren is the de facto capital and primary administrative district of the island nation of Nauru. It houses the Parliament House, government offices, and the nation's international airport. As Nauru has no officially designated cities, Yaren serves as the seat of government. Located on the southern coast, it is also notable for the Moqua Well, an underground lake.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Parlaments von Nauru", "Beherbergt den Nauru International Airport", "Fläche des Distrikts beträgt etwa 1,5 km2", "Lage des Moqua Well, eines unterirdischen Sees", "Keine offizielle Stadt, sondern ein Verwaltungsdistrikt", "Direkt an der Südküste der Insel gelegen"],
+      hu: ["Nauru parlamentjének székhelye", "Itt található a Nauru Nemzetközi Repülőtér", "A körzet területe körülbelül 1,5 négyzetkilométer", "A Moqua-kút nevű föld alatti tó helyszíne", "Nem hivatalos város, hanem egy közigazgatási körzet", "Közvetlenül a sziget déli partján helyezkedik el"],
+      ro: ["Sediul Parlamentului Republicii Nauru", "Găzduiește Aeroportul Internațional Nauru", "Suprafața districtului este de aproximativ 1,5 km2", "Locația Moqua Well, un lac subteran natural", "Nu este un oraș oficial, ci un district administrativ", "Situat direct pe coasta de sud a insulei"],
+      en: ["Seat of the Parliament of the Republic of Nauru", "Home to the Nauru International Airport", "The district covers an area of roughly 1.5 km2", "Location of Moqua Well, a natural underground lake", "Not an official city, but an administrative district", "Situated directly on the southern coast of the island"],
+    },
   },
   {
     id: "nauru-aiwo-cities-v2",
@@ -38,6 +50,18 @@ export const nauruCitiesV2: POI[] = [
       en: ["Most important industrial center of the island", "Location of Nauru's main seaport", "Houses the phosphate processing plant", "Home to the Nauru College"],
     },
     imageHint: "Port of Aiwo and phosphate structures",
+    descriptionAdvanced: {
+      de: "Aiwo ist der wichtigste Wirtschafts- und Industriedistrikt von Nauru. Hier befinden sich die Verladestationen für Phosphat, das historische Zentrum der Insel und der wichtigste Hafen für Frachtschiffe. Der Distrikt beherbergt auch Bildungseinrichtungen und die Hauptquartiere der staatlichen Phosphatgesellschaft. Es ist das am dichtesten besiedelte und am stärksten industrialisierte Gebiet des Landes.",
+      hu: "Aiwo Nauru legfontosabb gazdasági és ipari körzete. Itt találhatók a foszfátrakodó állomások, a sziget történelmi központja és a legfontosabb teherkikötő is. A körzet oktatási intézményeknek és az állami foszfáttársaság központjának is otthont ad. Ez az ország legsűrűbben lakott és leginkább iparosodott területe.",
+      ro: "Aiwo este principalul district economic și industrial din Nauru. Aici se află instalațiile de încărcare a fosfatului, centrul istoric al insulei și cel mai important port comercial. Districtul găzduiește, de asemenea, instituții de învățământ și sediul corporației de stat pentru fosfat. Este cea mai dens populată și industrializată zonă a țării.",
+      en: "Aiwo is the primary economic and industrial district of Nauru. It features the phosphate loading cantilevers, the island's historical commercial center, and the main harbor for cargo vessels. The district also hosts educational facilities and the headquarters of the state-owned phosphate corporation. It remains the most densely populated and heavily industrialized area in the country.",
+    },
+    factsAdvanced: {
+      de: ["Wichtigster Exporthafen für Naurus Phosphat", "Standort der riesigen Verladearme (Cantilevers)", "Sitz der Republic of Nauru Phosphate Corporation", "Beherbergt die einzige weiterführende Schule der Insel", "Historisch als das kommerzielle Zentrum bekannt", "Höchste Bevölkerungsdichte aller Distrikte in Nauru"],
+      hu: ["Nauru foszfátexportjának legfontosabb kikötője", "A hatalmas foszfátrakodó karok (kantileverek) helyszíne", "A Republic of Nauru Phosphate Corporation székhelye", "Itt található a sziget egyetlen középiskolája", "Történelmileg a sziget kereskedelmi központjaként ismert", "Nauru körzetei közül itt a legnagyobb a népsűrűség"],
+      ro: ["Cel mai important port de export pentru fosfat", "Locația celebrelor instalații de încărcare (cantilevers)", "Sediul corporației de stat pentru exploatarea fosfatului", "Găzduiește singura școală secundară de pe insulă", "Cunoscut istoric drept centrul comercial al Naurului", "Cea mai mare densitate a populației dintre districte"],
+      en: ["Primary export port for Nauru's phosphate resources", "Site of the iconic massive loading cantilevers", "Headquarters of the Republic of Nauru Phosphate Corp", "Home to the island's only secondary school", "Historically recognized as Nauru's commercial hub", "Highest population density of all districts in Nauru"],
+    },
   },
   {
     id: "nauru-boe-cities-v2",
@@ -57,6 +81,18 @@ export const nauruCitiesV2: POI[] = [
       en: ["Smallest district of Nauru by area", "Located near the airport runway", "Densely populated residential area", "Situated on the western coast"],
     },
     imageHint: "Residential area in Boe Nauru",
+    descriptionAdvanced: {
+      de: "Boe ist der flächenmäßig kleinste Distrikt der Republik Nauru und liegt an der Südwestküste der Insel. Der Bezirk umfasst das Siedlungsgebiet rund um die Küstenstraße und grenzt direkt an den internationalen Flughafen. Trotz seiner geringen Größe spielt Boe eine wichtige Rolle im politischen System des Inselstaates als eigenständiger Wahlkreis.",
+      hu: "Boe Nauru legkisebb területi egysége, amely a sziget délnyugati partján fekszik. A körzet a part menti út mentén terül el, és közvetlenül határos a nemzetközi repülőtérrel. Kis mérete ellenére Boe fontos szerepet tölt be az ország politikai rendszerében, mivel önálló választókerületet alkot a naurui parlamentben.",
+      ro: "Boe este cel mai mic district ca suprafață din Republica Nauru, fiind situat pe coasta de sud-vest a insulei. Districtul cuprinde zona rezidențială de-a lungul șoselei de coastă și se învecinează direct cu aeroportul internațional. În ciuda dimensiunilor sale reduse, Boe are un rol important în sistemul politic nauruan, constituind o circumscripție electorală proprie.",
+      en: "Boe is the smallest district by area in the Republic of Nauru, located on the island's southwest coast. The district encompasses the residential area along the coastal road and directly borders the international airport. Despite its small size, Boe plays a significant role in the nation's political system as its own electoral constituency.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von nur 0,5 Quadratkilometern", "Liegt im Südwesten der Insel Nauru", "Bildet einen eigenen Wahlkreis für das Parlament", "Angrenzend an den Distrikt Aiwo im Norden", "Direkte Nachbarschaft zum Nauru International Airport", "Durchschnittliche Höhe von etwa 5 Metern über dem Meeresspiegel"],
+      hu: ["Területe mindössze 0,5 négyzetkilométer", "Nauru szigetének délnyugati részén található", "Önálló választókerületet alkot a parlamentben", "Északon Aiwo körzettel határos", "Közvetlen szomszédságában van a Naurui Nemzetközi Repülőtér", "Átlagos tengerszint feletti magassága 5 méter"],
+      ro: ["Suprafață de doar 0,5 kilometri pătrați", "Situat în partea de sud-vest a insulei Nauru", "Constituie o circumscripție electorală proprie în parlament", "Se învecinează cu districtul Aiwo la nord", "Vecinătate directă cu Aeroportul Internațional Nauru", "Altitudine medie de aproximativ 5 metri deasupra mării"],
+      en: ["Total land area of only 0.5 square kilometers", "Situated on the southwestern part of Nauru island", "Forms its own electoral constituency for parliament", "Borders Aiwo district to the north", "Located adjacent to Nauru International Airport", "Average elevation of about 5 meters above sea level"],
+    },
   },
   {
     id: "nauru-denigomodu-cities-v2",
@@ -76,6 +112,18 @@ export const nauruCitiesV2: POI[] = [
       en: ["Most populous district in the country", "Location of the Nauru General Hospital", "Houses 'The Loc' worker accommodation", "Important center for mining employees"],
     },
     imageHint: "Housing compounds in Denigomodu Nauru",
+    descriptionAdvanced: {
+      de: "Denigomodu ist der bevölkerungsreichste Distrikt Naurus und liegt an der Westküste der Insel. Er beherbergt die sogenannte 'Location', eine große Wohnsiedlung für Beschäftigte der Phosphatindustrie aus anderen pazifischen Staaten. Zudem befinden sich hier wichtige soziale Einrichtungen wie das staatliche Krankenhaus und Einkaufszentren.",
+      hu: "Denigomodu Nauru legnépesebb körzete, amely a sziget nyugati partján helyezkedik el. Itt található a 'Location' nevű lakónegyed, amely a foszfátiparban dolgozó külföldi munkások számára épült. A körzet jelentős közszolgáltatási központ is, itt működik az állami kórház és több kereskedelmi egység.",
+      ro: "Denigomodu este cel mai populat district din Nauru, situat pe coasta de vest a insulei. Găzduiește așezarea cunoscută sub numele de 'Location', un complex rezidențial vast pentru lucrătorii din industria fosfatului. Tot aici se află facilități sociale importante, precum spitalul de stat și principalele centre comerciale.",
+      en: "Denigomodu is the most populous district in Nauru, located on the island's western coast. It houses the settlement known as 'Location', a large residential area for phosphate industry workers from other Pacific nations. The district is also a hub for social services, containing the state hospital and several shopping facilities.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerungsreichster Distrikt der Insel", "Beherbergt das Nauru General Hospital", "Sitz der 'Location' Siedlung für Arbeitsmigranten", "Fläche von etwa 1,18 Quadratkilometern", "Wichtiger Standort für die Phosphatverarbeitung", "Liegt zwischen den Distrikten Nibok und Aiwo"],
+      hu: ["A sziget legnépesebb közigazgatási körzete", "Itt található a Naurui Központi Kórház", "A 'Location' lakónegyed központja", "Területe körülbelül 1,18 négyzetkilométer", "A foszfátfeldolgozás egyik fontos helyszíne", "Nibok és Aiwo körzetek között helyezkedik el"],
+      ro: ["Cel mai populat district al insulei", "Găzduiește Spitalul General din Nauru", "Sediul așezării 'Location' pentru muncitori", "Suprafață de aproximativ 1,18 kilometri pătrați", "Centru logistic pentru industria fosfatului", "Situat între districtele Nibok și Aiwo"],
+      en: ["Most populous district on the island", "Home to the Nauru General Hospital", "Site of the 'Location' settlement for migrant workers", "Land area of approximately 1.18 square kilometers", "Crucial hub for phosphate industry infrastructure", "Located between Nibok and Aiwo districts"],
+    },
   },
   {
     id: "nauru-meneng-cities-v2",
@@ -95,6 +143,18 @@ export const nauruCitiesV2: POI[] = [
       en: ["Location of the Meneng Stadium", "Houses the State House building", "Site of the island's largest hotel", "Features a rugged coral coastline"],
     },
     imageHint: "Meneng Stadium Nauru",
+    descriptionAdvanced: {
+      de: "Meneng ist ein weitläufiger Distrikt im Südosten Naurus, der für seine bedeutenden Infrastrukturanlagen bekannt ist. Hier befinden sich das Meneng Hotel, das größte Beherbergungsobjekt der Insel, sowie das Gelände des ehemaligen Präsidentenpalastes. Der Distrikt ist zudem Standort der umstrittenen regionalen Aufnahmeeinrichtung für Flüchtlinge.",
+      hu: "Meneng Nauru délkeleti részén fekvő tágas körzet, amely jelentős infrastrukturális létesítményeiről ismert. Itt található a sziget legnagyobb szállodája, a Meneng Hotel, valamint az egykori elnöki palota területe. A körzet ad otthont a vitatott regionális menekültügyi központnak is, amely fontos politikai tényező az ország életében.",
+      ro: "Meneng este un district extins în sud-estul statului Nauru, cunoscut pentru infrastructura sa semnificativă. Aici se află Hotelul Meneng, cea mai mare unitate de cazare de pe insulă, precum și terenul fostului palat prezidențial. Districtul găzduiește, de asemenea, centrul regional de procesare pentru refugiați.",
+      en: "Meneng is a large district in southeastern Nauru, known for its significant infrastructure and landmarks. It is home to the Meneng Hotel, the island's largest accommodation facility, and the grounds of the former State House. The district also hosts the regional processing center for refugees, which is a major feature of the local landscape.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Meneng Hotels mit Blick auf den Ozean", "Standort des ehemaligen State House (Präsidentenpalast)", "Fläche von etwa 3,1 Quadratkilometern", "Beherbergt die Nauru Secondary School", "Ort des Australian Regional Processing Centre", "Liegt südlich des Distrikts Anibare"],
+      hu: ["Itt található az óceánra néző Meneng Hotel", "Az egykori állami rezidencia (State House) helyszíne", "Területe körülbelül 3,1 négyzetkilométer", "Itt működik a Naurui Középiskola", "Az ausztrál menekültügyi központ helyszíne", "Anibare körzettől délre helyezkedik el"],
+      ro: ["Găzduiește Hotelul Meneng cu vedere la ocean", "Locația fostei reședințe de stat (State House)", "Suprafață de aproximativ 3,1 kilometri pătrați", "Sediul Școlii Secundare din Nauru", "Găzduiește Centrul Regional de Procesare Australian", "Situat la sud de districtul Anibare"],
+      en: ["Home to the Meneng Hotel overlooking the ocean", "Site of the former State House (Presidential residence)", "Land area of approximately 3.1 square kilometers", "Contains the Nauru Secondary School", "Location of the Australian Regional Processing Centre", "Situated south of the Anibare district"],
+    },
   },
   {
     id: "nauru-anibare-cities-v2",
@@ -114,6 +174,18 @@ export const nauruCitiesV2: POI[] = [
       en: ["Location of Anibare Bay", "Features a modern fishing harbor", "Most popular beach location on Nauru", "Situated on the eastern coast of the island"],
     },
     imageHint: "Anibare Bay beach Nauru",
+    descriptionAdvanced: {
+      de: "Anibare ist ein Distrikt an der Ostküste Naurus, der vor allem durch die gleichnamige Bucht geprägt wird. Die Anibare Bay gilt als der schönste Küstenabschnitt der Insel mit dem einzigen nennenswerten Badestrand. In den frühen 2000er Jahren wurde hier ein Tiefwasserhafen errichtet, um den Fischereisektor und die Logistik der Insel zu stärken.",
+      hu: "Anibare Nauru keleti partján fekvő körzet, amelynek képét az azonos nevű öböl határozza meg. Az Anibare-öböl a sziget legszebb tengerparti szakasza, ahol Nauru egyetlen jelentős fürdőzésre alkalmas strandja található. A 2000-es évek elején egy mélyvízi kikötőt is építettek itt a halászat és a logisztika fellendítésére.",
+      ro: "Anibare este un district situat pe coasta de est a insulei Nauru, definit de golful cu același nume. Golful Anibare este considerat cea mai frumoasă porțiune de coastă, având singura plajă semnificativă pentru scăldat. La începutul anilor 2000, aici a fost construit un port de adâncime pentru a sprijini sectorul pescuitului și logistica.",
+      en: "Anibare is a district on the eastern coast of Nauru, dominated by the bay of the same name. Anibare Bay is widely regarded as the island's most beautiful coastal stretch, featuring the only significant beach suitable for swimming. In the early 2000s, a deep-water harbor was constructed here to boost the local fishing and logistics sectors.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt die Anibare Bay mit Korallenstrand", "Standort des Anibare Harbour (eröffnet 2000)", "Fläche von etwa 3,14 Quadratkilometern", "Dünn besiedelt im Vergleich zu Westdistrikten", "Hafenprojekt wurde von Japan finanziert", "Beliebtester Ort für Freizeitaktivitäten am Meer"],
+      hu: ["Itt található a korallhomokos Anibare-öböl", "Az Anibare kikötő helyszíne (átadva 2000-ben)", "Területe körülbelül 3,14 négyzetkilométer", "Ritkán lakott a nyugati körzetekhez képest", "A kikötő építését Japán finanszírozta", "A sziget legnépszerűbb tengerparti üdülőhelye"],
+      ro: ["Găzduiește Golful Anibare cu plajă de corali", "Locația Portului Anibare (deschis în 2000)", "Suprafață de aproximativ 3,14 kilometri pătrați", "Populație redusă comparativ cu districtele vestice", "Proiectul portuar a fost finanțat de Japonia", "Cea mai populară locație pentru activități marine"],
+      en: ["Home to Anibare Bay with its coral sand beach", "Site of Anibare Harbour (opened in 2000)", "Land area of approximately 3.14 square kilometers", "Sparsely populated compared to western districts", "The harbor project was funded by Japan", "Most popular spot for seaside recreational activities"],
+    },
   },
   {
     id: "nauru-buada-cities-v2",
@@ -133,6 +205,18 @@ export const nauruCitiesV2: POI[] = [
       en: ["Only district without a sea coast", "Center of agricultural experiments", "Houses the only lagoon on the island", "Considered one of the greenest places on Nauru"],
     },
     imageHint: "Buada Lagoon surrounded by palm trees",
+    descriptionAdvanced: {
+      de: "Buada ist der einzige Binnendistrikt Naurus und liegt im zentralen Hochland der Insel. Das Zentrum des Bezirks bildet die Buada-Lagune, ein Brackwassersee, der von fruchtbarem Land umgeben ist. Hier wachsen Palmen und Obstbäume, was Buada landschaftlich stark von den durch den Phosphatabbau geprägten Gebieten der Insel abhebt.",
+      hu: "Buada Nauru egyetlen belső körzete, amely a sziget központi fennsíkján található. A kerület központja a Buada-lagúna, egy brakkvizű tó, amelyet termékeny földterület vesz körül. Itt pálmák és gyümölcsfák nőnek, így Buada tájképe élesen elüt a sziget többi, foszfátbányászat által érintett területétől.",
+      ro: "Buada este singurul district interior din Nauru, situat în platoul central al insulei. Centrul districtului este format din Laguna Buada, un lac cu apă salmastră înconjurat de terenuri fertile. Aici cresc palmieri și arbori fructiferi, peisajul din Buada fiind foarte diferit de zonele insulei afectate de mineritul de fosfat.",
+      en: "Buada is Nauru's only landlocked district, located on the island's central plateau. The heart of the district is the Buada Lagoon, a brackish lake surrounded by fertile land. Here, palms and fruit trees thrive, making Buada's lush landscape a stark contrast to the phosphate-mined areas that dominate much of the island.",
+    },
+    factsAdvanced: {
+      de: ["Einziger Distrikt ohne direkten Zugang zum Meer", "Zentrum ist die Buada-Lagune (Süß- bis Brackwasser)", "Fläche von etwa 2,66 Quadratkilometern", "Liegt durchschnittlich 12 Meter über dem Meeresspiegel", "Traditioneller Standort für den Anbau von Pandanus", "Umschlossen von den Abbaugebieten des Zentralplateaus"],
+      hu: ["Az egyetlen körzet, amely nem érintkezik a tengerrel", "Központja a Buada-lagúna (édes- és brakkvíz)", "Területe körülbelül 2,66 négyzetkilométer", "Átlagosan 12 méterrel fekszik a tengerszint felett", "A pandanusz-termesztés hagyományos helyszíne", "A központi fennsík bányaterületei veszik körül"],
+      ro: ["Singurul district fără acces direct la mare", "Centrul este Laguna Buada (apă dulce-salmastră)", "Suprafață de aproximativ 2,66 kilometri pătrați", "Situat la o altitudine medie de 12 metri", "Locație tradițională pentru cultivarea fructelor Pandanus", "Înconjurat de zonele miniere de pe platoul central"],
+      en: ["Only district without a coastline on the ocean", "Centered around the Buada Lagoon (brackish water)", "Land area of approximately 2.66 square kilometers", "Average elevation of 12 meters above sea level", "Traditional site for growing pandanus trees", "Surrounded by the mining fields of the central plateau"],
+    },
   },
   {
     id: "nauru-nibok-cities-v2",
@@ -152,6 +236,18 @@ export const nauruCitiesV2: POI[] = [
       en: ["Important phosphate mining area", "Located in the west of the island", "Residential area for many mining families", "Borders the central Topside plateau"],
     },
     imageHint: "Nibok district landscape Nauru",
+    descriptionAdvanced: {
+      de: "Nibok ist ein Distrikt im Westen von Nauru, der sich von der Küste bis in das phosphatführende Landesinnere erstreckt. Der Küstenstreifen ist bewohnt, während das Hinterland durch intensive Bergbauaktivitäten gezeichnet ist. Nibok beherbergt wichtige Werkstätten und Infrastrukturen, die direkt mit der Verarbeitung des exportierten Phosphats in Verbindung stehen.",
+      hu: "Nibok Nauru nyugati részén fekvő körzet, amely a tengerparttól egészen a sziget foszfátban gazdag belsejéig nyúlik. A part menti sáv lakott, míg a hátországot az intenzív bányászati tevékenység nyomai határozzák meg. Nibok fontos műhelyeknek és infrastrukturális létesítményeknek ad otthont, amelyek a foszfátfeldolgozáshoz kapcsolódnak.",
+      ro: "Nibok este un district din vestul statului Nauru, care se întinde de la coastă până în interiorul insulei bogat în fosfat. Banda de coastă este locuită, în timp ce hinterlandul este marcat de activități miniere intense. Nibok găzduiește ateliere și infrastructuri importante legate direct de prelucrarea fosfatului pentru export.",
+      en: "Nibok is a district in western Nauru, stretching from the coastline into the phosphate-rich interior. The coastal strip is residential, while the backlands are defined by extensive mining activities. Nibok houses key workshops and infrastructure directly related to the processing and transport of the island's phosphate exports.",
+    },
+    factsAdvanced: {
+      de: ["Liegt an der Nordwestküste der Insel", "Fläche von etwa 1,6 Quadratkilometern", "Gehört zum Wahlkreis Ubenide", "Standort von Werkstätten der Phosphatgesellschaft", "Angrenzend an die Distrikte Denigomodu und Uaboe", "Küstenstraße verläuft durch den gesamten Bezirk"],
+      hu: ["A sziget északnyugati partján fekszik", "Területe körülbelül 1,6 négyzetkilométer", "Ubenide választókerületéhez tartozik", "A foszfáttársaság műhelyeinek ad otthont", "Denigomodu és Uaboe körzetekkel határos", "A part menti főút átszeli a teljes kerületet"],
+      ro: ["Situat pe coasta de nord-vest a insulei", "Suprafață de aproximativ 1,6 kilometri pătrați", "Face parte din circumscripția electorală Ubenide", "Găzduiește ateliere ale companiei de fosfat", "Se învecinează cu districtele Denigomodu și Uaboe", "Șoseaua de coastă traversează întregul district"],
+      en: ["Located on the northwestern coast of the island", "Land area of approximately 1.6 square kilometers", "Part of the Ubenide electoral constituency", "Site of workshops for the phosphate corporation", "Borders Denigomodu and Uaboe districts", "The coastal main road runs through the district"],
+    },
   },
   {
     id: "nauru-uaboe-cities-v2",
@@ -171,6 +267,18 @@ export const nauruCitiesV2: POI[] = [
       en: ["One of the smallest districts by area", "Situated on the northwestern coast", "Consists mainly of residential areas", "Part of the Ubenide constituency"],
     },
     imageHint: "Uaboe district coastline Nauru",
+    descriptionAdvanced: {
+      de: "Uaboe ist ein kleiner Küstendistrikt im Nordwesten Naurus. Er zeichnet sich durch seine schmale Küstenebene aus, auf der sich die meisten Wohnhäuser konzentrieren, bevor das Gelände steil zum zentralen Plateau ansteigt. Uaboe ist Teil der administrativen Gruppierung Ubenide und spielt eine wichtige Rolle in der lokalen Gemeinschaftsverwaltung.",
+      hu: "Uaboe egy kis tengerparti körzet Nauru északnyugati részén. Jellemzője a keskeny parti síkság, ahol a lakóházak többsége tömörül, mielőtt a terep meredeken emelkedne a központi fennsík felé. Uaboe az Ubenide adminisztratív csoport részét képezi, és fontos szerepet játszik a helyi közösségi igazgatásban.",
+      ro: "Uaboe este un mic district de coastă în nord-vestul statului Nauru. Se caracterizează printr-o câmpie litorală îngustă unde sunt concentrate majoritatea locuințelor, înainte ca terenul să urce abrupt spre platoul central. Uaboe face parte din gruparea administrativă Ubenide și are un rol activ în administrația locală.",
+      en: "Uaboe is a small coastal district in northwestern Nauru. It is characterized by a narrow coastal plain where most residential homes are concentrated before the terrain rises steeply toward the central plateau. Uaboe is part of the Ubenide administrative grouping and plays a vital role in local community governance.",
+    },
+    factsAdvanced: {
+      de: ["Einer der kleinsten Distrikte der Insel", "Fläche von nur 0,8 Quadratkilometern", "Gehört zum bevölkerungsreichen Wahlkreis Ubenide", "Liegt zwischen Baiti und Nibok", "Küstenlinie ist durch Korallenriffe geschützt", "Wohngebiet liegt fast vollständig an der Ringstraße"],
+      hu: ["A sziget egyik legkisebb területi egysége", "Területe mindössze 0,8 négyzetkilométer", "A népes Ubenide választókerület tagja", "Baiti és Nibok körzetek között helyezkedik el", "Partvonalát korallzátonyok védik", "A lakóövezet szinte teljesen a körút mentén fekszik"],
+      ro: ["Unul dintre cele mai mici districte ale insulei", "Suprafață de doar 0,8 kilometri pătrați", "Membru al circumscripției electorale populate Ubenide", "Situat între districtele Baiti și Nibok", "Linia de coastă este protejată de recife de corali", "Zona rezidențială este situată de-a lungul șoselei"],
+      en: ["One of the smallest districts on the island", "Total land area of only 0.8 square kilometers", "Member of the populous Ubenide constituency", "Located between Baiti and Nibok districts", "The coastline is protected by coral reefs", "Residential area is situated along the ring road"],
+    },
   },
   {
     id: "nauru-baitsi-cities-v2",
@@ -190,6 +298,18 @@ export const nauruCitiesV2: POI[] = [
       en: ["Known for fertile coastal strips", "Formerly a center of fruit farming", "Located between Uaboe and Ewa", "Features coral reefs along its shore"],
     },
     imageHint: "Coastal road in Baitsi Nauru",
+    descriptionAdvanced: {
+      de: "Baitsi, oft auch Baiti geschrieben, liegt im Nordwesten von Nauru und umfasst sowohl einen Küstenabschnitt als auch Teile des Plateaus. Der Distrikt ist vorwiegend ländlich geprägt mit verstreuten Siedlungen entlang der Hauptstraße. Historisch gesehen war die Region ein wichtiger Ort für die indigene Bevölkerung, bevor der großflächige Bergbau das Landesinnere veränderte.",
+      hu: "Baitsi, amelyet gyakran Baiti néven is említenek, Nauru északnyugati részén található, és egyaránt magában foglal tengerparti szakaszt és fennsíki területeket. A körzet túlnyomórészt vidéki jellegű, elszórt településekkel a főút mentén. Történelmileg fontos helyszín volt az őslakosok számára, mielőtt a bányászat átalakította volna a belső területeket.",
+      ro: "Baitsi, scris adesea și Baiti, se află în nord-vestul insulei Nauru și cuprinde atât o secțiune de coastă, cât și părți ale platoului. Districtul are un caracter predominant rural, cu așezări dispersate de-a lungul drumului principal. Istoric, regiunea a fost importantă pentru populația indigenă înainte ca mineritul să modifice interiorul.",
+      en: "Baitsi, often spelled Baiti, is located in northwestern Nauru and encompasses both a coastal strip and parts of the upland plateau. The district is primarily rural, featuring scattered settlements along the main road. Historically, the area was significant for the indigenous population before large-scale mining reshaped the island's interior.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von etwa 1,2 Quadratkilometern", "Gehört administrativ zum Wahlkreis Ubenide", "Liegt nördlich des Distrikts Uaboe", "Besitzt einen schmalen Sandstrand am Ozean", "Historischer Name der Region war Beidi", "Vegetation besteht teils aus Kokospalmen und Hibiskus"],
+      hu: ["Területe körülbelül 1,2 négyzetkilométer", "Közigazgatásilag az Ubenide kerülethez tartozik", "Uaboe körzettől északra fekszik", "Keskeny homokos tengerparttal rendelkezik", "A régió történelmi neve Beidi volt", "Növényzete kókuszpálmákból és hibiszkuszból áll"],
+      ro: ["Suprafață de aproximativ 1,2 kilometri pătrați", "Aparține administrativ de circumscripția Ubenide", "Situat la nord de districtul Uaboe", "Deține o fâșie îngustă de plajă la ocean", "Numele istoric al regiunii a fost Beidi", "Vegetația include cocotieri și flori de hibiscus"],
+      en: ["Land area of approximately 1.2 square kilometers", "Administratively part of the Ubenide constituency", "Located north of the Uaboe district", "Possesses a narrow sandy beach strip by the ocean", "The historical name of the region was Beidi", "Vegetation includes coconut palms and hibiscus"],
+    },
   },
   {
     id: "nauru-ewa-cities-v2",
@@ -209,6 +329,18 @@ export const nauruCitiesV2: POI[] = [
       en: ["Northernmost district of the island", "Location of the Capelle & Partner market", "Home to the Kayser College", "Features a distinctive coastline"],
     },
     imageHint: "Capelle & Partner building in Ewa Nauru",
+    descriptionAdvanced: {
+      de: "Ewa ist der nördlichste Distrikt Naurus und ein wichtiges Bildungs- und Handelszentrum. Hier befindet sich das Kayser College, die bedeutendste katholische Schule der Insel, sowie eines der größten Kaufhäuser Naurus. Durch seine Lage an der Nordspitze bietet Ewa einen weiten Blick über den Pazifischen Ozean und ist weniger stark vom Bergbau betroffen als das Zentrum.",
+      hu: "Ewa Nauru legészakibb körzete, egyben fontos oktatási és kereskedelmi központ. Itt található a Kayser College, a sziget legjelentősebb katolikus iskolája, valamint Nauru egyik legnagyobb áruháza. Északi fekvésének köszönhetően Ewa tágas kilátást nyújt a Csendes-óceánra, és kevésbé érintett a bányászat által, mint a sziget középső része.",
+      ro: "Ewa este cel mai nordic district din Nauru și un important centru educațional și comercial. Aici se află Kayser College, cea mai importantă școală catolică de pe insulă, precum și unul dintre cele mai mari magazine din țară. Datorită poziției sale la vârful nordic, Ewa oferă o panoramă vastă asupra Oceanului Pacific.",
+      en: "Ewa is Nauru's northernmost district and serves as a key educational and commercial hub. It is home to Kayser College, the island's most prominent Catholic school, and one of Nauru's largest department stores. Positioned at the northern tip, Ewa offers wide Pacific views and is less impacted by mining compared to the central districts.",
+    },
+    factsAdvanced: {
+      de: ["Nördlichster Punkt der Insel Nauru", "Sitz des Kayser College (katholische Schule)", "Standort des Capelle & Partner Kaufhauses", "Fläche von etwa 1,2 Quadratkilometern", "Grenzt an die Distrikte Baiti und Anetan", "Wichtiger Umschlagplatz für lokale Waren"],
+      hu: ["Nauru szigetének legészakibb pontja", "A Kayser College (katolikus iskola) székhelye", "Itt található a Capelle & Partner áruház", "Területe körülbelül 1,2 négyzetkilométer", "Baiti és Anetan körzetekkel határos", "A helyi áruk egyik fontos kereskedelmi csomópontja"],
+      ro: ["Cel mai nordic punct al insulei Nauru", "Sediul Kayser College (școală catolică)", "Locația magazinului universal Capelle & Partner", "Suprafață de aproximativ 1,2 kilometri pătrați", "Se învecinează cu districtele Baiti și Anetan", "Centru important pentru comerțul local de bunuri"],
+      en: ["Northernmost point of Nauru island", "Home to Kayser College (Catholic school)", "Site of the Capelle & Partner department store", "Land area of approximately 1.2 square kilometers", "Borders Baiti and Anetan districts", "Major commercial hub for local retail goods"],
+    },
   },
   {
     id: "nauru-anetan-cities-v2",
@@ -228,6 +360,18 @@ export const nauruCitiesV2: POI[] = [
       en: ["Location of Anetan Primary School", "Located on the northern coast", "Residential district with a calm atmosphere", "Borders Ewa and Anabar"],
     },
     imageHint: "Anetan district beach Nauru",
+    descriptionAdvanced: {
+      de: "Anetan ist ein Distrikt an der Nordküste Naurus, der sich durch eine ruhige, ländliche Atmosphäre auszeichnet. Er umfasst einen Küstenstreifen mit Korallenkalksteinen und bietet Zugang zum nördlichen Riff der Insel. Der Distrikt ist administrativ eng mit dem benachbarten Ewa verbunden und bildet zusammen mit ihm einen gemeinsamen Wahlkreis für das Parlament.",
+      hu: "Anetan Nauru északi partján fekvő körzet, amelyet nyugodt, vidéki légkör jellemez. Partvonala mentén korallmészkő alakzatok találhatók, és közvetlen kijáratot biztosít a sziget északi zátonyaihoz. A körzet közigazgatásilag szorosan kapcsolódik a szomszédos Ewához, amellyel közös választókerületet alkot a parlamentben.",
+      ro: "Anetan este un district de pe coasta de nord a insulei Nauru, caracterizat printr-o atmosferă rurală liniștită. Cuprinde o fâșie de coastă cu formațiuni de calcar coraligen și oferă acces la reciful nordic al insulei. Districtul este legat administrativ de Ewa, împreună cu care formează o circumscripție electorală.",
+      en: "Anetan is a district on the northern coast of Nauru, known for its quiet and rural atmosphere. It features a coastal strip with coral limestone formations and provides access to the island's northern reef. The district is administratively closely linked to neighboring Ewa, sharing an electoral constituency for the national parliament.",
+    },
+    factsAdvanced: {
+      de: ["Liegt an der Nordküste zwischen Ewa und Anabar", "Fläche von genau 1,0 Quadratkilometern", "Bildet mit Ewa einen gemeinsamen Wahlkreis", "Beherbergt das Jugendzentrum des Staates", "Küstenlinie ist geprägt von markanten Korallenfelsen", "Besitzt eine kleine staatliche Grundschule"],
+      hu: ["Az északi parton fekszik Ewa és Anabar között", "Területe pontosan 1,0 négyzetkilométer", "Ewával közös választókerületet alkot", "Itt található az állami ifjúsági központ", "Partvonalát jellegzetes korallsziklák tarkítják", "Saját állami általános iskolával rendelkezik"],
+      ro: ["Situat pe coasta de nord între Ewa și Anabar", "Suprafață de exact 1,0 kilometru pătrat", "Formează o circumscripție electorală comună cu Ewa", "Găzduiește centrul de tineret al statului", "Linia de coastă are stânci de corali proeminente", "Deține o mică școală primară de stat"],
+      en: ["Located on the north coast between Ewa and Anabar", "Total land area of exactly 1.0 square kilometer", "Forms a joint electoral constituency with Ewa", "Home to the national youth center facility", "Coastline features distinctive coral rock pinnacles", "Contains a small government primary school"],
+    },
   },
   {
     id: "nauru-anabar-cities-v2",
@@ -247,6 +391,18 @@ export const nauruCitiesV2: POI[] = [
       en: ["Features a steep rocky coastline", "More sparsely populated than the southwest", "Located in the northeast of the island", "Part of the Anabar constituency"],
     },
     imageHint: "Rocky coast of Anabar Nauru",
+    descriptionAdvanced: {
+      de: "Anabar ist ein Distrikt im Nordosten Naurus, der für seine natürliche Umgebung und den Anabar-Teich bekannt ist. Dieser Teich ist eines der wenigen Oberflächengewässer der Insel und beherbergt eine spezielle Fischart. Der Distrikt ist dünn besiedelt und bietet eine Landschaft, die teils noch die ursprüngliche Vegetation Naurus vor dem großen Bergbau-Boom widerspiegelt.",
+      hu: "Anabar Nauru északkeleti részén fekvő körzet, amely természeti környezetéről és az Anabar-tóról ismert. Ez a kis tó a sziget kevés felszíni vizeinek egyike, és különleges halfajoknak ad otthont. A körzet ritkán lakott, tájképe pedig részben még tükrözi Nauru eredeti növényzetét a nagy bányászati fellendülés előtti időkből.",
+      ro: "Anabar este un district în nord-estul statului Nauru, cunoscut pentru mediul său natural și iazul Anabar. Acest iaz este una dintre puținele surse de apă de suprafață de pe insulă și găzduiește specii specifice de pești. Districtul este slab populat și păstrează parțial vegetația originală de dinaintea boom-ului minier.",
+      en: "Anabar is a district in northeastern Nauru, notable for its natural environment and the Anabar Pond. This pond is one of the few surface water bodies on the island and supports a unique local fish species. The district is sparsely populated, offering a landscape that still reflects parts of Nauru's original vegetation from before the mining boom.",
+    },
+    factsAdvanced: {
+      de: ["Liegt an der Nordostküste der Insel", "Fläche von etwa 1,5 Quadratkilometern", "Beherbergt den Anabar Pond (Fischteich)", "Bildet einen Wahlkreis mit Ijuw und Anibare", "Teilweise bewaldet im Vergleich zu den Minenfeldern", "Hauptstraße führt direkt an der Küste entlang"],
+      hu: ["A sziget északkeleti partján található", "Területe körülbelül 1,5 négyzetkilométer", "Itt található az Anabar-tó (halastó)", "Közös választókerületet alkot Ijuw és Anibare körzetekkel", "A bányaterületekhez képest részben erdősített", "A főút közvetlenül a tengerpart mentén halad el"],
+      ro: ["Situat pe coasta de nord-est a insulei", "Suprafață de aproximativ 1,5 kilometri pătrați", "Găzduiește iazul Anabar (iaz piscicol)", "Formează o circumscripție cu Ijuw și Anibare", "Parțial împădurit comparativ cu zonele miniere", "Drumul principal trece direct pe lângă coastă"],
+      en: ["Situated on the northeastern coast of the island", "Land area of approximately 1.5 square kilometers", "Home to the Anabar Pond (local fish pond)", "Part of an electoral constituency with Ijuw and Anibare", "Relatively forested compared to central mining fields", "The island's main ring road runs along its coast"],
+    },
   },
   {
     id: "nauru-ijuw-cities-v2",
@@ -266,6 +422,18 @@ export const nauruCitiesV2: POI[] = [
       en: ["Easternmost point of Nauru", "Location of Cape Ijuw", "One of the smallest districts on the island", "Offers dramatic ocean views"],
     },
     imageHint: "Cape Ijuw Nauru coastline",
+    descriptionAdvanced: {
+      de: "Ijuw ist der östlichste Distrikt Naurus und markiert mit dem Cape Ijuw den äußersten Punkt der Insel. Der Bezirk ist landschaftlich reizvoll und weniger durch industrielle Anlagen geprägt als die Westküste. Aufgrund seiner abgelegenen Lage und geringen Bevölkerungszahl hat Ijuw einen sehr ruhigen Charakter bewahrt, der ideal für Naturbeobachtungen an der rauen Ostküste ist.",
+      hu: "Ijuw Nauru legkeletibb körzete, amely az Ijuw-foknál jelöli ki a sziget legszélső pontját. A kerület tájképe vonzó, és kevésbé érintett az ipari létesítmények által, mint a nyugati partvidék. Távoli fekvése és alacsony népességszáma miatt Ijuw megőrizte nyugodt jellegét, amely ideális a természet megfigyelésére a sziklás keleti parton.",
+      ro: "Ijuw este cel mai estic district din Nauru, marcând punctul extrem al insulei prin Capul Ijuw. Districtul este pitoresc și mai puțin afectat de instalațiile industriale decât coasta de vest. Datorită locației sale izolate și populației reduse, Ijuw a păstrat un caracter liniștit, ideal pentru observarea naturii pe coasta estică stâncoasă.",
+      en: "Ijuw is Nauru's easternmost district, marking the island's farthest point with Cape Ijuw. The area is scenic and less dominated by industrial facilities compared to the western coast. Due to its remote location and small population, Ijuw has maintained a very tranquil character, making it ideal for observing the rugged nature of the eastern shoreline.",
+    },
+    factsAdvanced: {
+      de: ["Östlichster Punkt der Republik Nauru", "Fläche von etwa 1,1 Quadratkilometern", "Markiert durch das Cape Ijuw am Pazifik", "Gehört zum Wahlkreis Anabar", "Wenig industrielle Entwicklung vorhanden", "Küste ist bekannt für starke Brandung und Riffe"],
+      hu: ["A Naurui Köztársaság legkeletibb pontja", "Területe körülbelül 1,1 négyzetkilométer", "Az óceánnál fekvő Ijuw-fok határolja", "Az Anabar választókerület részét képezi", "Kevés ipari fejlesztés történt a területen", "Partvidéke az erős hullámverésről és zátonyairól ismert"],
+      ro: ["Cel mai estic punct al Republicii Nauru", "Suprafață de aproximativ 1,1 kilometri pătrați", "Marcat de Capul Ijuw la Oceanul Pacific", "Aparține de circumscripția electorală Anabar", "Dezvoltare industrială minimă în zonă", "Coasta este cunoscută pentru valurile puternice și recife"],
+      en: ["Easternmost point of the Republic of Nauru", "Land area of approximately 1.1 square kilometers", "Marked by Cape Ijuw on the Pacific Ocean", "Part of the Anabar electoral constituency", "Minimal industrial development present in the district", "Coastline is known for heavy surf and reefs"],
+    },
   },
   {
     id: "nauru-arenibek-cities-v2",
@@ -285,5 +453,17 @@ export const nauruCitiesV2: POI[] = [
       en: ["Settlement within Anabar district", "Located on the northeast coast", "Small, traditional village center", "Surrounded by coral limestone"],
     },
     imageHint: "Village houses in Anabar Nauru",
+    descriptionAdvanced: {
+      de: "Arenibek ist eine bedeutende Siedlung innerhalb des Buada-Distrikts im Zentrum von Nauru. Da Buada der einzige Binnenbezirk ist, liegt Arenibek in einer Senke rund um die fruchtbare Lagune. Der Ort ist bekannt für seine dichte Vegetation und die traditionellen Wohnhäuser, die einen Einblick in das Leben abseits der Küstenstraßen und Industriegebiete bieten.",
+      hu: "Arenibek egy jelentős település Nauru központi részén, a Buada körzetben. Mivel Buada az egyetlen tengerpart nélküli körzet, Arenibek a termékeny lagúna körüli mélyedésben fekszik. A hely sűrű növényzetéről és hagyományos lakóházairól ismert, amelyek betekintést nyújtanak a part menti utaktól és ipari övezetektől távolabbi életbe.",
+      ro: "Arenibek este o așezare importantă din districtul Buada, în centrul insulei Nauru. Deoarece Buada este singurul district interior, Arenibek se află într-o depresiune în jurul lagunei fertile. Localitatea este cunoscută pentru vegetația sa densă și casele tradiționale, oferind o perspectivă asupra vieții departe de drumurile de coastă.",
+      en: "Arenibek is a significant settlement within the Buada district in central Nauru. As Buada is the island's only landlocked area, Arenibek is situated in a depression around the fertile lagoon. The village is known for its lush vegetation and traditional residences, offering a glimpse into life away from the coastal roads and industrial zones.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im fruchtbaren Buada-Becken", "Zentraler Wohnort fernab der Küste", "Umgeben von Pandanus- und Brotfruchtbäumen", "Höhe von etwa 10 Metern über dem Meeresspiegel", "Wichtiger Ort für die lokale Landwirtschaft", "Siedlung liegt nahe der einzigen Süßwasserquelle"],
+      hu: ["A termékeny Buada-medencében található", "Központi lakóhely a parttól távol", "Pandanusz- és kenyérfák veszik körül", "Magassága körülbelül 10 méter a tengerszint felett", "A helyi mezőgazdaság fontos központja", "A település az egyetlen édesvízforrás közelében fekszik"],
+      ro: ["Situat în bazinul fertil al districtului Buada", "Locație rezidențială centrală, departe de coastă", "Înconjurat de arbori Pandanus și arbori de pâine", "Altitudine de aproximativ 10 metri deasupra mării", "Loc important pentru agricultura locală", "Așezarea se află lângă singura sursă de apă dulce"],
+      en: ["Located within the fertile Buada basin", "Central residential site far from the coast", "Surrounded by pandanus and breadfruit trees", "Elevation of about 10 meters above sea level", "Important location for local subsistence farming", "Settlement is near the island's only freshwater source"],
+    },
   }
 ];

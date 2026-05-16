@@ -19,6 +19,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Founded by the French in 1650", "Houses the seat of government", "Major stop for cruise ships", "Home to Derek Walcott Square"],
     },
     imageHint: "Castries harbor and city view Saint Lucia",
+    descriptionAdvanced: {
+      de: "Castries ist die Hauptstadt und größte Stadt von Saint Lucia. Sie liegt in einem geschützten Naturhafen an der Nordwestküste der Insel und ist das wirtschaftliche und politische Zentrum des Landes. Die Stadt wurde im 18. Jahrhundert von Franzosen gegründet und mehrfach durch Großbrände zerstört.",
+      hu: "Castries Saint Lucia fővárosa és egyben legnagyobb városa. A sziget északnyugati partján, egy védett természetes kikötőben fekszik, és az ország gazdasági, valamint politikai központja. A várost a 18. században franciák alapították, történelme során többször is pusztított benne tűzvész.",
+      ro: "Castries este capitala și cel mai mare oraș din Sfânta Lucia. Situat într-un port natural protejat pe coasta de nord-vest a insulei, orașul reprezintă centrul economic și politic al țării. Fondat de francezi în secolul al XVIII-lea, orașul a fost reconstruit de mai multe ori după incendii devastatoare.",
+      en: "Castries is the capital and largest city of Saint Lucia. Located in a sheltered natural harbor on the island's northwestern coast, it serves as the nation's economic and political hub. Founded by the French in the 18th century, the city has been rebuilt several times following major fires.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1650 als Carenage.", "Beherbergt den Sitz der Regierung von Saint Lucia.", "Der Hafen ist ein wichtiger Stopp für Kreuzfahrtschiffe.", "Derek Walcott Square ehrt den Nobelpreisträger.", "Wurde 1948 durch ein verheerendes Feuer fast zerstört.", "Einwohnerzahl der Agglomeration beträgt ca. 70.000."],
+      hu: ["1650-ben alapították Carenage néven.", "Itt található Saint Lucia kormányának székhelye.", "Kikötője a Karib-térség egyik legfontosabb hajóállomása.", "A Derek Walcott tér a Nobel-díjas író nevét viseli.", "1948-ban egy hatalmas tűzvész szinte teljesen elpusztította.", "Az agglomeráció lakossága körülbelül 70 000 fő."],
+      ro: ["Fondat în anul 1650 sub numele de Carenage.", "Găzduiește sediul Guvernului din Sfânta Lucia.", "Portul este o oprire majoră pentru navele de croazieră.", "Piața Derek Walcott onorează laureatul Premiului Nobel.", "A fost aproape distrus de un incendiu masiv în 1948.", "Populația aglomerației este de aproximativ 70.000 locuitori."],
+      en: ["Founded in 1650 originally as Carenage.", "Home to the seat of the Government of Saint Lucia.", "The port is a major destination for Caribbean cruise ships.", "Derek Walcott Square honors the local Nobel laureate.", "Nearly destroyed by a devastating fire in 1948.", "The urban population is approximately 70,000 residents."],
+    },
   },
   {
     id: "saintlucia-vieux-fort-cities-v2",
@@ -38,6 +50,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Former site of French fortifications", "Location of the international airport", "Important fishing port in the region", "Once a center of the sugar industry"],
     },
     imageHint: "Vieux Fort town and coast Saint Lucia",
+    descriptionAdvanced: {
+      de: "Vieux Fort ist die zweitgrößte Stadt von Saint Lucia und liegt an der Südspitze der Insel. Sie ist ein bedeutendes Industrie- und Verkehrszentrum, da sich hier der internationale Flughafen Hewanorra befindet. Die Stadt hat eine lange koloniale Geschichte und war einst ein wichtiges Zentrum der Zuckerproduktion.",
+      hu: "Vieux Fort Saint Lucia második legnagyobb városa, amely a sziget legdélebbi csücskén fekszik. Fontos ipari és közlekedési csomópont, mivel itt található a Hewanorra nemzetközi repülőtér. A város jelentős gyarmati múlttal rendelkezik, egykor a cukornádtermelés központja volt.",
+      ro: "Vieux Fort este al doilea oraș ca mărime din Sfânta Lucia, situat în extremitatea sudică a insulei. Este un centru industrial și de transport major, găzduind Aeroportul Internațional Hewanorra. Orașul are o istorie colonială lungă, fiind odată centrul producției de zahăr.",
+      en: "Vieux Fort is the second-largest town in Saint Lucia, situated at the southern tip of the island. It is a major industrial and transportation hub, home to the Hewanorra International Airport. The town has a rich colonial history and was once a prominent center for the sugar industry.",
+    },
+    factsAdvanced: {
+      de: ["Hier befindet sich der Hewanorra International Airport.", "Benannt nach einer alten französischen Festung.", "Wichtigster Containerhafen der Insel im Süden.", "War während des 18. Jahrhunderts ein Zentrum des Zuckerrohrs.", "Liegt in der Nähe des Cape Moule à Chique Leuchtturms.", "Diente im Zweiten Weltkrieg als US-Militärbasis."],
+      hu: ["Itt található a Hewanorra nemzetközi repülőtér.", "Egy régi francia erődről kapta a nevét.", "A sziget legfontosabb déli konténerkikötője.", "A 18. században a cukornádipar fellegvára volt.", "A közelében található a Cape Moule à Chique világítótorony.", "A második világháború alatt amerikai katonai bázis volt."],
+      ro: ["Găzduiește Aeroportul Internațional Hewanorra.", "Numit după o veche fortificație franceză.", "Cel mai important port de containere din sudul insulei.", "Centru al industriei zahărului în secolul al XVIII-lea.", "Situat lângă farul de la Cape Moule à Chique.", "A servit ca bază militară americană în Al Doilea Război Mondial."],
+      en: ["Home to the Hewanorra International Airport.", "Named after an old French fortification on the site.", "The island's primary southern container shipping port.", "Center of the sugar cane industry during the 1700s.", "Located near the scenic Cape Moule à Chique lighthouse.", "Served as a US military base during World War II."],
+    },
   },
   {
     id: "saintlucia-soufriere-cities-v2",
@@ -57,6 +81,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Founded in 1746 by the French", "Entrance to the drive-in volcano", "Located near the UNESCO World Heritage Pitons", "Former center for cocoa and coffee exports"],
     },
     imageHint: "Soufriere town with Pitons background Saint Lucia",
+    descriptionAdvanced: {
+      de: "Soufrière liegt an der Südwestküste von Saint Lucia und war die ursprüngliche Hauptstadt der Insel während der französischen Kolonialzeit. Die Stadt liegt am Fuße der berühmten Pitons und ist bekannt für ihre Nähe zu geothermalen Quellen und dem weltweit einzigen 'Drive-in'-Vulkan. Sie ist ein Zentrum für Ökotourismus.",
+      hu: "Soufrière Saint Lucia délnyugati partján fekszik, és a francia gyarmati uralom alatt a sziget eredeti fővárosa volt. A város a híres Pitonok lábánál található, és közismert geotermikus forrásairól, valamint a világ egyetlen 'autóval bejárható' vulkánjáról. Az ökoturizmus fontos központja.",
+      ro: "Soufrière este situat pe coasta de sud-vest a insulei Sfânta Lucia și a fost capitala originală în perioada colonială franceză. Orașul se află la poalele faimoșilor munți Pitons și este cunoscut pentru izvoarele geotermale și singurul vulcan 'drive-in' din lume. Este un centru de ecoturism.",
+      en: "Soufrière is located on the southwestern coast of Saint Lucia and was the island's original capital during French colonial rule. Nestled at the base of the famous Pitons, the town is renowned for its geothermal springs and the world's only 'drive-in' volcano. It is a major hub for ecotourism.",
+    },
+    factsAdvanced: {
+      de: ["War die Hauptstadt der Insel bis zum Jahr 1766.", "Gegründet von den Franzosen im Jahr 1746.", "Liegt direkt neben den UNESCO-Welterbe Pitons.", "Beherbergt die berühmten Sulphur Springs Quellen.", "Zentrum der historischen Kakaoproduktion der Insel.", "Name bezieht sich auf den Schwefelgeruch der Vulkane."],
+      hu: ["1766-ig a sziget fővárosa volt.", "A franciák alapították 1746-ban.", "Közvetlenül az UNESCO Világörökség Pitonok mellett fekszik.", "Itt találhatók a híres Sulphur Springs források.", "A sziget történelmi kakaótermelésének központja.", "Neve a vulkáni tevékenység kénes szagára utal."],
+      ro: ["A fost capitala insulei până în anul 1766.", "Fondat de francezi în anul 1746.", "Situat lângă vârfurile Pitons, sit UNESCO.", "Găzduiește faimoasele izvoare termale Sulphur Springs.", "Centru istoric al producției de cacao pe insulă.", "Numele provine de la mirosul de sulf al vulcanului."],
+      en: ["Served as the island's capital until 1766.", "Founded by the French settlers in 1746.", "Located adjacent to the UNESCO-listed Pitons.", "Home to the famous Sulphur Springs geothermal site.", "The historical center of the island's cocoa production.", "Its name refers to the sulfurous smell of the volcano."],
+    },
   },
   {
     id: "saintlucia-gros-islet-cities-v2",
@@ -76,6 +112,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Once a small fishing village", "Houses the Darren Sammy Cricket Ground", "Center of the island's nightlife", "Nearby location of Pigeon Island"],
     },
     imageHint: "Gros Islet street party Saint Lucia",
+    descriptionAdvanced: {
+      de: "Gros Islet ist eine Stadt im Norden von Saint Lucia, die sich von einem kleinen Fischerdorf zu einem der beliebtesten Touristenziele entwickelt hat. Sie liegt in der Nähe der Rodney Bay und ist bekannt für ihre Jachthäfen, Strände und das lebhafte Nachtleben. Die Region verbindet moderne Resorts mit karibischer Tradition.",
+      hu: "Gros Islet egy város Saint Lucia északi részén, amely egy kis halászfaluból fejlődött a sziget egyik legnépszerűbb turisztikai célpontjává. A Rodney-öböl közelében fekszik, híres kikötőiről, strandjairól és pezsgő éjszakai életéről. A környék modern üdülőhelyeket és karibi hagyományokat ötvöz.",
+      ro: "Gros Islet este un oraș din nordul insulei Sfânta Lucia, evoluând dintr-un sat pescăresc într-una dintre cele mai populare destinații turistice. Situat lângă Golful Rodney, este renumit pentru porturile sale de iahturi, plaje și viața de noapte vibrantă. Regiunea îmbină resorturile moderne cu tradiția.",
+      en: "Gros Islet is a town in northern Saint Lucia that has evolved from a small fishing village into one of the island's most popular tourist destinations. Located near Rodney Bay, it is famous for its marinas, beaches, and vibrant nightlife. The region blends modern luxury resorts with Caribbean tradition.",
+    },
+    factsAdvanced: {
+      de: ["Ursprünglich ein Fischerdorf, heute Tourismuszentrum.", "Bekannt für die wöchentliche 'Friday Night Street Party'.", "Beherbergt den Rodney Bay Marina Yachthafen.", "In der Nähe liegt der Pigeon Island National Park.", "Wurde 1985 offiziell zur Stadt erhoben.", "Bietet erstklassige Bedingungen für den Segelsport."],
+      hu: ["Eredetileg halászfalu volt, ma turisztikai központ.", "Híres a hetente megrendezett péntek esti utcai partijáról.", "Itt található a Rodney Bay Marina jachtkikötő.", "A közelében fekszik a Pigeon Island Nemzeti Park.", "1985-ben kapott hivatalosan városi rangot.", "Világszínvonalú feltételeket kínál a vitorlázáshoz."],
+      ro: ["Inițial un sat de pescari, acum centru turistic.", "Cunoscut pentru 'Friday Night Street Party', eveniment săptămânal.", "Găzduiește portul de iahturi Rodney Bay Marina.", "În apropiere se află Parcul Național Pigeon Island.", "A primit oficial statutul de oraș în anul 1985.", "Oferă condiții excelente pentru sporturile nautice."],
+      en: ["Originally a fishing village, now a tourism hub.", "Famous for its weekly Friday Night Street Party.", "Home to the prestigious Rodney Bay Marina.", "Located near the historic Pigeon Island National Park.", "Officially elevated to town status in 1985.", "Offers world-class conditions for yachting and sailing."],
+    },
   },
   {
     id: "saintlucia-micoud-cities-v2",
@@ -95,6 +143,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Named after Baron de Micoud", "Largest administrative district on the island", "Known for the Latille Waterfall", "Major center for agricultural produce"],
     },
     imageHint: "Micoud village coast Saint Lucia",
+    descriptionAdvanced: {
+      de: "Micoud ist ein bedeutendes Dorf an der Südostküste von Saint Lucia und dient als Hauptort des gleichnamigen Distrikts. Die Gemeinde ist stark landwirtschaftlich geprägt, insbesondere durch den Bananenanbau. Die Küstenlandschaft hier ist rauer als im Westen und bietet spektakuläre Ausblicke auf den Atlantik.",
+      hu: "Micoud egy jelentős település Saint Lucia délkeleti partján, és az azonos nevű körzet központja. A közösség életében a mezőgazdaság, különösen a banántermesztés játszik meghatározó szerepet. A tengerparti táj itt vadregényesebb, mint a nyugati oldalon, látványos kilátást nyújtva az Atlanti-óceánra.",
+      ro: "Micoud este o localitate importantă pe coasta de sud-est a insulei Sfânta Lucia, fiind centrul districtului cu același nume. Comunitatea este puternic agricolă, axată în special pe cultivarea bananelor. Peisajul de coastă este mai sălbatic decât în vest, oferind priveliști spectaculoase spre Atlantic.",
+      en: "Micoud is a major village on the southeastern coast of Saint Lucia and serves as the main town of the eponymous district. The community is heavily agricultural, with a strong focus on banana cultivation. The coastal landscape here is more rugged than on the west coast, offering spectacular Atlantic views.",
+    },
+    factsAdvanced: {
+      de: ["Benannt nach Baron de Micoud, einem französischen Gouverneur.", "Größtes Dorf an der Atlantikküste der Insel.", "Bananenproduktion ist der wichtigste Wirtschaftszweig.", "Liegt im größten administrativen Distrikt des Landes.", "Die Küste ist durch starke Strömungen geprägt.", "Heimat zahlreicher kleiner Farmen und Plantagen."],
+      hu: ["Baron de Micoud francia kormányzóról kapta a nevét.", "A sziget atlanti partvidékének legnagyobb települése.", "A banántermelés a legfontosabb gazdasági ágazat.", "Az ország legnagyobb adminisztratív körzetében fekszik.", "A partvidéket erős tengeri áramlatok jellemzik.", "Számos kisbirtoknak és ültetvénynek ad otthont."],
+      ro: ["Numit după Baronul de Micoud, guvernator francez.", "Cea mai mare localitate de pe coasta atlantică a insulei.", "Producția de banane este principala activitate economică.", "Situat în cel mai mare district administrativ al țării.", "Coasta este marcată de curenți oceanici puternici.", "Găzduiește numeroase ferme mici și plantații."],
+      en: ["Named after Baron de Micoud, a French governor.", "The largest settlement on the island's Atlantic coast.", "Banana production is the primary economic driver.", "Located in the nation's largest administrative district.", "The coastline is characterized by strong ocean currents.", "Home to numerous small-scale farms and plantations."],
+    },
   },
   {
     id: "saintlucia-dennery-cities-v2",
@@ -114,6 +174,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Famous for its weekly Fish Fry event", "Home to the Sault Falls waterfall", "Major supplier for the Castries markets", "Houses a large hydroelectric plant"],
     },
     imageHint: "Dennery bay and village Saint Lucia",
+    descriptionAdvanced: {
+      de: "Dennery liegt an der Ostküste von Saint Lucia in einer weiten Bucht am Atlantik. Das Dorf ist bekannt für seine traditionsreiche Fischerei und die Landwirtschaft im fruchtbaren Hinterland. Es bewahrt einen authentischen karibischen Charakter und ist berühmt für seine Fischfeste und die natürliche Schönheit der umliegenden Hügel.",
+      hu: "Dennery Saint Lucia keleti partján, az Atlanti-óceán egyik széles öblében fekszik. A település híres nagy múltú halászatáról és a termékeny hátország mezőgazdaságáról. Megőrizte autentikus karibi jellegét, és közismert halünnepeiről, valamint a környező dombok természetes szépségéről.",
+      ro: "Dennery este situat pe coasta de est a insulei Sfânta Lucia, într-un golf larg de la Oceanul Atlantic. Satul este cunoscut pentru tradiția pescuitului și agricultura din hinterlandul fertil. Păstrează un caracter autentic caraibian, fiind faimos pentru festivalurile sale pescărești.",
+      en: "Dennery is located on the east coast of Saint Lucia in a wide Atlantic bay. The village is known for its long-standing fishing tradition and agriculture in the fertile hinterland. It maintains an authentic Caribbean character and is famous for its fish festivals and the natural beauty of the surrounding hills.",
+    },
+    factsAdvanced: {
+      de: ["Ursprünglicher Name des Ortes war 'Le Mabouya'.", "Bekannt für das wöchentliche 'Saturday Fish Fry'.", "Wichtiger Produzent von Wurzelgemüse und Früchten.", "Beherbergt eine bedeutende Fischereiflotte.", "Die Region verfügt über mehrere große Wasserfälle.", "Wurde nach dem Grafen d'Ennery benannt."],
+      hu: ["A település eredeti neve 'Le Mabouya' volt.", "Híres a hetente tartott szombati halsütéséről.", "A gyökérzöldségek és gyümölcsök fontos termelője.", "Jelentős halászflottával rendelkezik.", "A régióban több hatalmas vízesés is található.", "D'Ennery grófjáról nevezték el."],
+      ro: ["Numele original al localității a fost 'Le Mabouya'.", "Cunoscut pentru evenimentul săptămânal 'Saturday Fish Fry'.", "Producător important de rădăcinoase și fructe.", "Găzduiește o flotă pescărească semnificativă.", "Regiunea dispune de mai multe cascade spectaculoase.", "Numit după Contele d'Ennery."],
+      en: ["The original name of the settlement was 'Le Mabouya'.", "Famous for the weekly 'Saturday Fish Fry' event.", "A key producer of root crops and tropical fruits.", "Home to a significant local fishing fleet.", "The surrounding region features several large waterfalls.", "Named in honor of the Count d'Ennery."],
+    },
   },
   {
     id: "saintlucia-laborie-cities-v2",
@@ -133,6 +205,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Named after Baron de Laborie", "Known for local crafts and weaving", "Features a sheltered swimming beach", "Historic center of sugarcane production"],
     },
     imageHint: "Laborie village and bay Saint Lucia",
+    descriptionAdvanced: {
+      de: "Laborie ist ein malerisches Fischerdorf an der Südküste von Saint Lucia, das für seine entspannte Atmosphäre und gut erhaltene Architektur bekannt ist. Die Gemeinde legt großen Wert auf den Schutz ihres kulturellen Erbes und ihrer natürlichen Ressourcen. Der Strand von Laborie gilt als einer der ruhigsten und schönsten der Insel.",
+      hu: "Laborie egy festői halászfalu Saint Lucia déli partján, amely nyugodt légköréről és jól megőrzött építészetéről ismert. A közösség nagy hangsúlyt fektet a kulturális örökség és a természeti erőforrások védelmére. Laborie strandja a sziget egyik legnyugodtabb és legszebb tengerpartjának számít.",
+      ro: "Laborie este un sat pescăresc pitoresc de pe coasta de sud a insulei Sfânta Lucia, cunoscut pentru atmosfera relaxată și arhitectura bine conservată. Comunitatea pune un mare accent pe protejarea patrimoniului cultural. Plaja din Laborie este considerată una dintre cele mai frumoase.",
+      en: "Laborie is a picturesque fishing village on the southern coast of Saint Lucia, known for its relaxed atmosphere and well-preserved architecture. The community places great emphasis on protecting its cultural heritage and natural resources. Laborie beach is considered one of the calmest and most beautiful on the island.",
+    },
+    factsAdvanced: {
+      de: ["Benannt nach dem Baron de Laborie, einem Gouverneur.", "Gegründet im 18. Jahrhundert von französischen Siedlern.", "Die Kirche ist ein markantes Wahrzeichen des Dorfes.", "Region ist bekannt für traditionelles Handwerk.", "Diente früher als kleiner Hafen für den Zuckerexport.", "Liegt in einer geschützten Bucht an der Karibikküste."],
+      hu: ["Baron de Laborie kormányzóról nevezték el.", "A 18. században alapították francia telepesek.", "A helyi templom a falu egyik jellegzetes jelképe.", "A régió híres a hagyományos kézművességéről.", "Korábban a cukorexport egyik kisebb kikötőjeként szolgált.", "A Karib-tenger egyik védett öblében fekszik."],
+      ro: ["Numit după Baronul de Laborie, fost guvernator.", "Fondat în secolul al XVIII-lea de coloniști francezi.", "Biserica locală este un reper arhitectural important.", "Regiunea este cunoscută pentru meșteșugurile tradiționale.", "A servit anterior ca port mic pentru exportul de zahăr.", "Situat într-un golf protejat de la Marea Caraibilor."],
+      en: ["Named after Baron de Laborie, a former governor.", "Founded in the 18th century by French settlers.", "The local church is a prominent landmark of the village.", "The region is known for its traditional handicrafts.", "Formerly served as a small port for sugar exports.", "Situated in a sheltered bay on the Caribbean coast."],
+    },
   },
   {
     id: "saintlucia-anse-la-raye-cities-v2",
@@ -152,6 +236,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Meaning Bay of Rays", "Known for murals by local artists", "Location of the Anse La Raye Falls", "Major producer of coconut oil"],
     },
     imageHint: "Anse La Raye colorful fishing boats Saint Lucia",
+    descriptionAdvanced: {
+      de: "Anse La Raye ist ein malerisches Fischerdorf an der Westküste von Saint Lucia und Sitz des gleichnamigen Distrikts. Der Ort ist bekannt für seine gut erhaltene traditionelle karibische Architektur aus Holz. Wöchentlich findet hier das berühmte „Friday Night Fish Fry“ statt, das Besucher aus der ganzen Welt anzieht.",
+      hu: "Anse La Raye egy festői halászfalu Saint Lucia nyugati partján, az azonos nevű körzet székhelye. A település híres a jól megőrzött, hagyományos karibi faépítészetéről. Itt rendezik meg hetente a híres péntek esti halvacsorát, amely a világ minden tájáról vonzza a látogatókat.",
+      ro: "Anse La Raye este un sat de pescari pitoresc situat pe coasta de vest a insulei Sfânta Lucia, fiind reședința districtului omonim. Localitatea este renumită pentru arhitectura sa tradițională din lemn, bine conservată. Săptămânal, aici are loc faimosul „Friday Night Fish Fry”, care atrage vizitatori din întreaga lume.",
+      en: "Anse La Raye is a picturesque fishing village on the west coast of Saint Lucia and the capital of the district of the same name. The village is known for its well-preserved traditional Caribbean wooden architecture. It hosts the famous weekly Friday Night Fish Fry, attracting visitors from all over the world.",
+    },
+    factsAdvanced: {
+      de: ["Liegt an der Westküste der Insel", "Zentrum des Anse La Raye Distrikts", "Berühmt für das Friday Night Fish Fry", "Besitzt eine römisch-katholische Kirche von 1907", "Traditioneller Fischfang ist Haupteinnahmequelle", "Einwohnerzahl liegt bei etwa 1250 Personen"],
+      hu: ["A sziget nyugati partján található", "Anse La Raye körzet központja", "Híres a péntek esti halvacsoráról", "1907-ben épült római katolikus temploma van", "A hagyományos halászat a fő bevételi forrás", "Lakossága körülbelül 1250 fő"],
+      ro: ["Situat pe coasta de vest a insulei", "Centrul districtului Anse La Raye", "Faimos pentru evenimentul Friday Night Fish Fry", "Deține o biserică romano-catolică din 1907", "Pescuitul tradițional este sursa principală de venit", "Populația este de aproximativ 1250 de persoane"],
+      en: ["Located on the western coast of the island", "Administrative center of Anse La Raye District", "Famous for the weekly Friday Night Fish Fry", "Features a Roman Catholic church built in 1907", "Traditional fishing is the primary source of income", "Population is approximately 1,250 people"],
+    },
   },
   {
     id: "saintlucia-choiseul-cities-v2",
@@ -171,6 +267,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Home to the Choiseul Art and Craft Centre", "Formerly known as Anse Citron", "Produces traditional coal pots", "Famous for grass weaving items"],
     },
     imageHint: "Choiseul pottery workshop Saint Lucia",
+    descriptionAdvanced: {
+      de: "Choiseul liegt an der Südwestküste von Saint Lucia und gilt als das Zentrum für traditionelles Kunsthandwerk. Die Region ist bekannt für die Herstellung von Steingut, Körben und Grasmatten. Von hier aus bietet sich ein beeindruckender Blick auf die markanten Gipfel der Pitons, die zum UNESCO-Welterbe gehören.",
+      hu: "Choiseul Saint Lucia délnyugati partján fekszik, és a hagyományos kézművesség központjaként ismert. A régió híres a kőedények, kosarak és fűszőnyegek készítéséről. Innen lenyűgöző kilátás nyílik a Pitonok jellegzetes csúcsaira, amelyek az UNESCO Világörökség részét képezik.",
+      ro: "Choiseul este situat pe coasta de sud-vest a insulei Sfânta Lucia și este considerat centrul meșteșugurilor tradiționale. Regiunea este cunoscută pentru fabricarea olăriei, coșurilor și rogojinilor. De aici se oferă o vedere impresionantă asupra vârfurilor Pitons, incluse în patrimoniul UNESCO.",
+      en: "Choiseul is located on the southwest coast of Saint Lucia and is regarded as the center for traditional arts and crafts. The region is famous for its production of pottery, baskets, and grass mats. It offers a stunning view of the iconic Piton peaks, which are a UNESCO World Heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Südwestliche Küstenstadt der Insel", "Hauptort des Choiseul Distrikts", "Zentrum des lokalen Kunsthandwerks", "Gegründet um das Jahr 1763", "Beherbergt das Choiseul Arts and Craft Center", "Nahe dem Dorf liegen historische Petroglyphen"],
+      hu: ["A sziget délnyugati parti városa", "Choiseul körzet székhelye", "A helyi kézművesség központja", "1763 körül alapították", "Itt található a Choiseul Kézműves Központ", "A falu közelében történelmi sziklarajzok vannak"],
+      ro: ["Oraș de coastă în sud-vestul insulei", "Reședința districtului Choiseul", "Centrul meșteșugurilor locale", "Fondat în jurul anului 1763", "Găzduiește Centrul de Arte și Meșteșuguri Choiseul", "În apropierea satului se află petroglife istorice"],
+      en: ["Southwestern coastal town on the island", "Main town of the Choiseul District", "Hub for local arts and traditional crafts", "Founded around the year 1763", "Home to the Choiseul Arts and Craft Center", "Historic petroglyphs are located near the village"],
+    },
   },
   {
     id: "saintlucia-canaries-cities-v2",
@@ -190,6 +298,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Named after the Amerindian word for cooking pots", "Known for its cassava bread production", "Smallest administrative district on the island", "Hub for artisanal fishing activities"],
     },
     imageHint: "Canaries village and bridge Saint Lucia",
+    descriptionAdvanced: {
+      de: "Canaries ist ein kleines, abgeschiedenes Fischerdorf an der Westküste von Saint Lucia, das seinen Namen von den traditionellen Tontöpfen namens „Kana“ hat. Der Ort liegt tief in einem Tal und ist von dichter Vegetation und steilen Klippen umgeben. Es ist bekannt für seine ruhige Atmosphäre und die unberührte Natur in der Umgebung.",
+      hu: "Canaries egy kis, elszigetelt halászfalu Saint Lucia nyugati partján, amely a „Kana” nevű hagyományos agyagedényekről kapta a nevét. A település egy mély völgyben fekszik, sűrű növényzettel és meredek sziklákkal körülvéve. Ismert nyugodt légköréről és a környező érintetlen természetről.",
+      ro: "Canaries este un sat de pescari mic și izolat pe coasta de vest a insulei Sfânta Lucia, care își trage numele de la vasele de lut tradiționale numite „Kana”. Localitatea este situată într-o vale adâncă, înconjurată de vegetație densă și stânci abrupte. Este cunoscut pentru atmosfera sa liniștită și natura virgină.",
+      en: "Canaries is a small, secluded fishing village on the west coast of Saint Lucia, named after the traditional clay pots known as \"Kana.\" The village is nestled deep in a valley, surrounded by lush vegetation and steep cliffs. It is known for its peaceful atmosphere and the unspoiled natural beauty of the surrounding area.",
+    },
+    factsAdvanced: {
+      de: ["An der Westküste zwischen Anse La Raye und Soufrière", "Sitz des kleinsten Distrikts von Saint Lucia", "Name stammt von den indianischen Töpfen", "Wirtschaft basiert auf Fischfang und Landwirtschaft", "Besitzt einen schwarzen Sandstrand", "Infrastruktur wurde 2010 durch Hurrikan Tomas stark beschädigt"],
+      hu: ["A nyugati parton, Anse La Raye és Soufrière között", "Saint Lucia legkisebb körzetének székhelye", "Neve az indián cserépedényekből ered", "Gazdasága a halászaton és mezőgazdaságon alapul", "Fekete homokos stranddal rendelkezik", "Az infrastruktúra súlyosan megsérült a 2010-es Tomas hurrikánban"],
+      ro: ["Pe coasta de vest, între Anse La Raye și Soufrière", "Reședința celui mai mic district din Sfânta Lucia", "Numele provine de la oalele indigene de lut", "Economia se bazează pe pescuit și agricultură", "Are o plajă cu nisip negru", "Infrastructura a fost grav afectată de uraganul Tomas în 2010"],
+      en: ["Located on the west coast between Anse La Raye and Soufrière", "Administrative center of Saint Lucia's smallest district", "Name originates from Amerindian clay cooking pots", "Economy relies on fishing and agriculture", "Features a distinctive black sand beach", "Infrastructure was heavily damaged by Hurricane Tomas in 2010"],
+    },
   },
   {
     id: "saintlucia-babonneau-cities-v2",
@@ -209,6 +329,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Location of the Rainforest Sky Ride aerial tram", "Leader in agricultural diversification", "Major source of fruits and vegetables", "Populous inland residential district"],
     },
     imageHint: "Babonneau rainforest landscape Saint Lucia",
+    descriptionAdvanced: {
+      de: "Babonneau ist eine hügelige Binnengemeinde im Nordosten von Saint Lucia, die für ihre üppige Landwirtschaft und dichte Regenwaldgebiete bekannt ist. Die Region dient als wichtiges landwirtschaftliches Versorgungszentrum für die Hauptstadt Castries. Hier befinden sich beliebte Naturattraktionen wie Seilrutschen und Wanderwege durch den tropischen Wald.",
+      hu: "Babonneau egy dombos, szárazföldi közösség Saint Lucia északkeleti részén, amely buja mezőgazdaságáról és sűrű esőerdőiről ismert. A régió fontos mezőgazdasági ellátó központként szolgál a főváros, Castries számára. Itt találhatók olyan népszerű természeti látnivalók, mint a drótkötélpályák és trópusi erdei túraútvonalak.",
+      ro: "Babonneau este o comunitate colinară din interiorul insulei, în nord-estul Sfintei Lucia, cunoscută pentru agricultura luxuriantă și zonele dense de pădure tropicală. Regiunea servește ca un important centru de aprovizionare agricolă pentru capitala Castries. Aici se află atracții naturale populare, precum tiroliene și trasee de drumeție.",
+      en: "Babonneau is a hilly inland community in northeastern Saint Lucia, known for its lush agriculture and dense rainforest areas. The region serves as a vital agricultural supply hub for the capital city, Castries. It is home to popular nature attractions such as ziplining tours and hiking trails through the tropical forest.",
+    },
+    factsAdvanced: {
+      de: ["Inlandsgemeinde im Nordosten der Insel", "Gehört zum Castries Distrikt", "Zentrum für den Anbau von Bananen und Wurzelgemüse", "Beherbergt den Rainforest Adventures Park", "Bekannt für den Chassin Mountain Trail", "Wichtiger Ausgangspunkt für Ökotourismus"],
+      hu: ["Szárazföldi település a sziget északkeleti részén", "A Castries körzethez tartozik", "Banán- és gyökérzöldség-termesztés központja", "Itt található a Rainforest Adventures park", "A Chassin-hegyi túraútvonaláról ismert", "Az ökoturizmus fontos kiindulópontja"],
+      ro: ["Comunitate interioară în nord-estul insulei", "Face parte din districtul Castries", "Centru pentru cultivarea bananelor și a rădăcinoaselor", "Găzduiește parcul Rainforest Adventures", "Cunoscut pentru traseul montan Chassin", "Punct de plecare important pentru ecoturism"],
+      en: ["Inland community located in the northeastern part of the island", "Part of the larger Castries District", "Major producer of bananas and root crops", "Home to the Rainforest Adventures ecological park", "Known for the scenic Chassin mountain hiking trail", "Key gateway for ecotourism activities on the island"],
+    },
   },
   {
     id: "saintlucia-bexon-cities-v2",
@@ -228,6 +360,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Hub for banana cultivation", "Main transit route to the south of the island", "Part of the Castries South East district", "Known for its fertile valley soils"],
     },
     imageHint: "Bexon valley agriculture Saint Lucia",
+    descriptionAdvanced: {
+      de: "Bexon liegt südlich der Hauptstadt Castries im fruchtbaren Cul-de-Sac-Tal. Die Siedlung ist primär eine landwirtschaftlich geprägte Wohngemeinde, die oft von den Überschwemmungen des Bexon-Flusses während der Regenzeit betroffen ist. Trotz dieser Herausforderungen bleibt sie ein wichtiger Knotenpunkt für den lokalen Handel mit Agrarprodukten.",
+      hu: "Bexon a fővárostól, Castriestől délre fekszik, a termékeny Cul-de-Sac völgyben. A település elsősorban mezőgazdasági jellegű lakóközösség, amelyet az esős évszakban gyakran érintenek a Bexon-folyó áradásai. Ezen kihívások ellenére a helyi agrárkereskedelem fontos csomópontja marad.",
+      ro: "Bexon este situat la sud de capitala Castries, în valea fertilă Cul-de-Sac. Așezarea este în principal o comunitate rezidențială agricolă, frecvent afectată de inundațiile râului Bexon în timpul sezonului ploios. În ciuda acestor provocări, rămâne un nod important pentru comerțul local cu produse agricole.",
+      en: "Bexon is located south of the capital city, Castries, within the fertile Cul-de-Sac Valley. The settlement is primarily an agricultural residential community that is frequently affected by flooding from the Bexon River during the rainy season. Despite these challenges, it remains a key hub for local trade in agricultural products.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Cul-de-Sac-Tal südlich von Castries", "Zentrum der landwirtschaftlichen Produktion in der Region", "Wird vom Bexon River durchflossen", "Gehört administrativ zum Castries Distrikt", "Gefährdet durch saisonale Sturzfluten", "Wichtiger Standort für Bananenplantagen"],
+      hu: ["A Cul-de-Sac völgyben fekszik, Castriestől délre", "A régió mezőgazdasági termelésének központja", "A Bexon-folyó szeli át", "Közigazgatásilag a Castries körzethez tartozik", "Szezonális áradásoknak kitett terület", "A banánültetvények fontos helyszíne"],
+      ro: ["Situat în valea Cul-de-Sac, la sud de Castries", "Centru de producție agricolă în regiune", "Traversat de râul Bexon", "Aparține administrativ de districtul Castries", "Vulnerabil la inundații sezoniere rapide", "Locație importantă pentru plantațiile de banane"],
+      en: ["Located in the Cul-de-Sac Valley south of Castries", "Main center for agricultural production in the local area", "The Bexon River flows through the settlement", "Administratively part of the Castries District", "Highly susceptible to seasonal flash flooding", "Major site for commercial banana plantations"],
+    },
   },
   {
     id: "saintlucia-ciceron-cities-v2",
@@ -247,6 +391,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Houses the SOS Children's Village", "Site of a major broadcasting tower", "Offers views of the Vigie airport", "Significant suburban neighborhood of Castries"],
     },
     imageHint: "Ciceron residential area hills Saint Lucia",
+    descriptionAdvanced: {
+      de: "Ciceron ist eine bevölkerungsreiche Vorstadt im Süden von Castries und liegt auf den Hügeln über dem Karibischen Meer. Die Gemeinde ist ein wichtiges Wohngebiet für Pendler in die Hauptstadt und bietet Panoramablicke auf den Hafen von Castries. In den letzten Jahrzehnten hat sich Ciceron stark entwickelt und beherbergt heute Schulen sowie soziale Einrichtungen.",
+      hu: "Ciceron egy népes külváros Castriestől délre, a Karib-tenger feletti dombokon. A közösség fontos lakóövezet a fővárosba ingázók számára, és panorámás kilátást nyújt Castries kikötőjére. Az elmúlt évtizedekben Ciceron jelentősen fejlődött, ma iskoláknak és szociális intézményeknek ad otthont.",
+      ro: "Ciceron este o suburbie populată situată la sud de Castries, pe dealurile de deasupra Mării Caraibilor. Comunitatea este o zonă rezidențială importantă pentru cei care fac naveta în capitală, oferind vederi panoramice asupra portului Castries. În ultimele decenii, Ciceron s-a dezvoltat puternic, găzduind școli și instituții sociale.",
+      en: "Ciceron is a populous suburb located south of Castries, situated on the hills overlooking the Caribbean Sea. The community is a major residential area for commuters to the capital and offers panoramic views of Castries Harbor. Over the past few decades, Ciceron has developed significantly, now housing schools and social institutions.",
+    },
+    factsAdvanced: {
+      de: ["Südliche Vorstadt der Hauptstadt Castries", "Bietet Blick auf das Karibische Meer", "Dicht besiedeltes Wohngebiet", "Beherbergt das Ciceron Secondary School", "Früher Standort für Kalksteinbrüche", "Nahe der Morne Fortune gelegen"],
+      hu: ["Castries főváros déli külvárosa", "Kilátást nyújt a Karib-tengerre", "Sűrűn lakott lakóövezet", "Itt található a Ciceron Középiskola", "Korábban mészkőbányák helyszíne volt", "A Morne Fortune közelében fekszik"],
+      ro: ["Suburbie sudică a capitalei Castries", "Oferă vedere spre Marea Caraibilor", "Zonă rezidențială dens populată", "Găzduiește Școala Secundară Ciceron", "Fostă locație pentru cariere de calcar", "Situat în apropiere de Morne Fortune"],
+      en: ["Southern suburb of the capital city, Castries", "Offers scenic views of the Caribbean Sea", "Densely populated residential area", "Home to the Ciceron Secondary School", "Formerly a site for limestone quarrying", "Located in close proximity to Morne Fortune"],
+    },
   },
   {
     id: "saintlucia-rodney-bay-cities-v2",
@@ -266,6 +422,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Location of the island's largest marina", "Named after Admiral George Rodney", "Center for upscale dining and nightlife", "Features a man-made lagoon and channel"],
     },
     imageHint: "Rodney Bay Marina Saint Lucia",
+    descriptionAdvanced: {
+      de: "Rodney Bay ist das touristische Zentrum im Norden von Saint Lucia und bekannt für seinen großen Yachthafen und den feinen Reduit Beach. Benannt nach dem britischen Admiral George Rodney, bietet die Bucht eine Vielzahl an Restaurants, Hotels und Unterhaltungsmöglichkeiten. Es ist der modernste Teil der Insel mit einer lebhaften Atmosphäre bei Tag und Nacht.",
+      hu: "Rodney Bay Saint Lucia északi részének turisztikai központja, amely nagy jachtkikötőjéről és a finom homokos Reduit strandról ismert. A brit George Rodney admirálisról elnevezett öböl számos éttermet, szállodát és szórakozási lehetőséget kínál. Ez a sziget legmodernebb része, amely éjjel-nappal élénk hangulattal várja a látogatókat.",
+      ro: "Rodney Bay este centrul turistic din nordul Sfintei Lucia, cunoscut pentru portul său mare de iahturi și plaja fină Reduit. Numit după amiralul britanic George Rodney, golful oferă o multitudine de restaurante, hoteluri și opțiuni de divertisment. Este cea mai modernă parte a insulei, cu o atmosferă vibrantă zi și noapte.",
+      en: "Rodney Bay is the premier tourist hub in northern Saint Lucia, famous for its large marina and the beautiful Reduit Beach. Named after British Admiral George Rodney, the bay offers a wide variety of restaurants, hotels, and entertainment options. It is the most modern part of the island, featuring a lively atmosphere day and night.",
+    },
+    factsAdvanced: {
+      de: ["Größter Yachthafen auf Saint Lucia", "Beherbergt den beliebten Reduit Beach", "Ehemaliger Militärstützpunkt im 18. Jahrhundert", "Zielhafen der Atlantic Rally for Cruisers (ARC)", "Zentrum des Nachtlebens der Insel", "Besitzt zwei große Einkaufszentren"],
+      hu: ["Saint Lucia legnagyobb jachtkikötője", "Itt található a népszerű Reduit strand", "Egykori katonai bázis a 18. században", "Az Atlantic Rally for Cruisers (ARC) célkikötője", "A sziget éjszakai életének központja", "Két nagy bevásárlóközponttal rendelkezik"],
+      ro: ["Cel mai mare port de iahturi din Sfânta Lucia", "Găzduiește populara plajă Reduit", "Fostă bază militară în secolul al XVIII-lea", "Portul de sosire pentru Atlantic Rally for Cruisers (ARC)", "Centrul vieții de noapte de pe insulă", "Deține două centre comerciale mari"],
+      en: ["Largest man-made marina in Saint Lucia", "Home to the island's popular Reduit Beach", "Strategic military site during the 18th century", "Official finish line for the Atlantic Rally for Cruisers (ARC)", "Main center for nightlife and entertainment", "Features two large modern shopping malls"],
+    },
   },
   {
     id: "saintlucia-cap-estate-cities-v2",
@@ -285,6 +453,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Houses the island's championship golf course", "Northernmost point of Saint Lucia", "Once a vast sugar plantation", "Borders both the Atlantic and Caribbean seas"],
     },
     imageHint: "Cap Estate luxury villas and golf course Saint Lucia",
+    descriptionAdvanced: {
+      de: "Cap Estate markiert die nördlichste Spitze von Saint Lucia und ist eine exklusive Wohn- und Urlaubsregion auf einem ehemaligen Zuckerrohrgut. Das Gebiet zeichnet sich durch seine sanften Hügel, luxuriösen Villen und einen 18-Loch-Meisterschaftsgolfplatz aus. Es grenzt sowohl an das Karibische Meer als auch an den Atlantischen Ozean und bietet dramatische Küstenausblicke.",
+      hu: "Cap Estate Saint Lucia legészakibb csücske, egy exkluzív lakó- és üdülőövezet egy egykori cukornádültetvény területén. A környéket lankás dombok, luxusvillák és egy 18 lyukú bajnoki golfpálya jellemzi. Mind a Karib-tengerrel, mind az Atlanti-óceánnal határos, drámai parti kilátást kínálva.",
+      ro: "Cap Estate marchează extremitatea nordică a Sfintei Lucia și este o regiune rezidențială și de vacanță exclusivistă pe o fostă plantație de zahăr. Zona se remarcă prin dealuri domoale, vile de lux și un teren de golf de campionat cu 18 găuri. Se învecinează atât cu Marea Caraibilor, cât si cu Oceanul Atlantic.",
+      en: "Cap Estate marks the northernmost tip of Saint Lucia and is an exclusive residential and resort area on a former sugar estate. The area is characterized by rolling hills, luxury villas, and an 18-hole championship golf course. It borders both the Caribbean Sea and the Atlantic Ocean, offering dramatic coastal views.",
+    },
+    factsAdvanced: {
+      de: ["Nördlichster Punkt der Insel Saint Lucia", "Ehemalige 1500 Hektar große Zuckerrohrplantage", "Standort des einzigen 18-Loch-Golfplatzes der Insel", "Bietet Blick auf Martinique bei klarem Wetter", "Beherbergt mehrere Luxushotels", "Bekannt für den Cas en Bas Beach"],
+      hu: ["Saint Lucia szigetének legészakibb pontja", "Egykori 1500 hektáros cukornádültetvény", "A sziget egyetlen 18 lyukú golfpályájának helyszíne", "Tiszta időben kilátás nyílik Martinique-ra", "Számos luxusszállodának ad otthont", "A Cas en Bas strandjáról ismert"],
+      ro: ["Cel mai nordic punct al insulei Sfânta Lucia", "Fostă plantație de zahăr de 1500 de acri", "Locația singurului teren de golf cu 18 găuri de pe insulă", "Oferă vedere spre Martinica în zilele senine", "Găzduiește mai multe hoteluri de lux", "Cunoscut pentru plaja Cas en Bas"],
+      en: ["The northernmost point of mainland Saint Lucia", "Former 1,500-acre sugar cane estate", "Site of the island's only 18-hole championship golf course", "Offers views of neighboring Martinique on clear days", "Home to several of the island's high-end resorts", "Famous for the windsurfing at Cas en Bas Beach"],
+    },
   },
   {
     id: "saintlucia-monchy-cities-v2",
@@ -304,6 +484,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Hub for local livestock farming", "Link road to the eastern coast", "Growing community with new infrastructure", "Known for its quiet rural atmosphere"],
     },
     imageHint: "Monchy village hills Saint Lucia",
+    descriptionAdvanced: {
+      de: "Monchy ist eine wachsende Wohngemeinde im Norden von Saint Lucia, etwas im Landesinneren von Rodney Bay gelegen. Der Ort bietet eine ruhige, ländliche Umgebung und hat sich zu einem bevorzugten Wohnort für Fachkräfte entwickelt, die in den nahegelegenen Touristengebieten arbeiten. Die Hügellandschaft ermöglicht weite Ausblicke über die Nordküste der Insel.",
+      hu: "Monchy egy növekvő lakóközösség Saint Lucia északi részén, Rodney Bay-től kissé beljebb fekszik. A település nyugodt, vidéki környezetet kínál, és kedvelt lakóhellyé vált a közeli turisztikai övezetekben dolgozó szakemberek számára. A dombos táj tágas kilátást nyújt a sziget északi partjára.",
+      ro: "Monchy este o comunitate rezidențială în plină dezvoltare în nordul Sfintei Lucia, situată în interiorul insulei față de Rodney Bay. Localitatea oferă un cadru rural liniștit și a devenit un loc de reședință preferat pentru profesioniștii care lucrează în zonele turistice din apropiere. Dealurile permit vederi largi asupra coastei de nord.",
+      en: "Monchy is a growing residential community in northern Saint Lucia, located slightly inland from Rodney Bay. The village offers a quiet, rural setting and has become a preferred place of residence for professionals working in the nearby tourist areas. Its hilly landscape provides expansive views across the northern coast of the island.",
+    },
+    factsAdvanced: {
+      de: ["Inlandsgemeinde im Gros Islet Distrikt", "Bekannt für seine ruhige Atmosphäre", "Wohngebiet für Pendler nach Rodney Bay", "Hügeliges Gelände mit Meerblick", "Wuchs stark durch neue Wohnsiedlungen", "Besitzt eine eigene katholische Kapelle"],
+      hu: ["Szárazföldi település a Gros Islet körzetben", "Nyugodt légköréről ismert", "A Rodney Bay-be ingázók lakóövezete", "Dombos terep tengeri kilátással", "Az új lakóparkok miatt gyorsan növekszik", "Saját katolikus kápolnával rendelkezik"],
+      ro: ["Comunitate interioară în districtul Gros Islet", "Cunoscută pentru atmosfera sa liniștită", "Zonă rezidențială pentru cei care fac naveta în Rodney Bay", "Teren colinar cu vedere spre mare", "A crescut puternic prin noi ansambluri rezidențiale", "Deține propria capelă catolică"],
+      en: ["Inland community located within the Gros Islet District", "Well-known for its peaceful and quiet atmosphere", "Primary residential area for commuters to Rodney Bay", "Hilly terrain offering views of the ocean", "Has expanded rapidly with new housing developments", "Features its own local Catholic chapel"],
+    },
   },
   {
     id: "saintlucia-augier-cities-v2",
@@ -323,6 +515,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of a major secondary school", "Large agricultural cooperative presence", "Residential hub for airport workers", "Gateway to the southern interior highlands"],
     },
     imageHint: "Augier village landscape Saint Lucia",
+    descriptionAdvanced: {
+      de: "Augier ist eine Siedlung im Süden von Saint Lucia, unweit der Stadt Vieux Fort und des internationalen Flughafens Hewanorra. Die Gemeinde ist ein wichtiges Wohnzentrum für Angestellte des Flughafens und der lokalen Industrie. Augier liegt in einer flacheren Küstenebene und zeichnet sich durch eine moderne Infrastruktur und eine aktive Gemeinschaft aus.",
+      hu: "Augier egy település Saint Lucia déli részén, nem messze Vieux Fort városától és a Hewanorra nemzetközi repülőtértől. A közösség fontos lakóközpont a repülőtér és a helyi ipar alkalmazottai számára. Augier egy laposabb parti síkságon fekszik, modern infrastruktúra és aktív közösségi élet jellemzi.",
+      ro: "Augier este o așezare în sudul Sfintei Lucia, nu departe de orașul Vieux Fort și de Aeroportul Internațional Hewanorra. Comunitatea este un centru rezidențial important pentru angajații aeroportului și ai industriei locale. Augier este situat într-o câmpie de coastă mai joasă, fiind caracterizat de o infrastructură modernă.",
+      en: "Augier is a settlement in southern Saint Lucia, located not far from the town of Vieux Fort and Hewanorra International Airport. The community is an important residential center for employees of the airport and local industries. Augier is situated on a flatter coastal plain and is characterized by modern infrastructure and an active community.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Vieux Fort Distrikt", "Nahe dem internationalen Flughafen Hewanorra", "Wohnort für viele Industriearbeiter", "Besitzt eine bedeutende Sekundarschule (Augier Combined)", "Relativ flaches Gelände im Vergleich zum Norden", "Wichtiger lokaler Verkehrsknotenpunkt"],
+      hu: ["A Vieux Fort körzethez tartozik", "Közel a Hewanorra nemzetközi repülőtérhez", "Sok ipari munkás lakóhelye", "Jelentős általános iskolája van (Augier Combined)", "Relatív lapos terep az északi részhez képest", "Fontos helyi közlekedési csomópont"],
+      ro: ["Aparține de districtul Vieux Fort", "Aproape de Aeroportul Internațional Hewanorra", "Loc de reședință pentru mulți lucrători industriali", "Deține o școală primară importantă (Augier Combined)", "Teren relativ plat comparativ cu nordul insulei", "Nod important de transport local"],
+      en: ["Part of the larger Vieux Fort District", "Located near Hewanorra International Airport", "Residential hub for many industrial workers", "Home to the Augier Combined School", "Features relatively flat terrain compared to the north", "Key local transportation junction in the south"],
+    },
   },
   {
     id: "saintlucia-desruisseaux-cities-v2",
@@ -342,6 +546,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Features a significant health center", "Site of the Desruisseaux Combined School", "Center for cassava processing activities", "Known for its active community organizations"],
     },
     imageHint: "Desruisseaux village square Saint Lucia",
+    descriptionAdvanced: {
+      de: "Desruisseaux ist eine bedeutende Gemeinde im Südosten von Saint Lucia, die im Landesinneren des Micoud-Distrikts liegt. Die Region ist stark von der Landwirtschaft geprägt, insbesondere durch den Anbau von Bananen und Kakaobohnen. Desruisseaux dient als kulturelles und administratives Zentrum für die umliegenden kleineren Dörfer.",
+      hu: "Desruisseaux egy jelentős közösség Saint Lucia délkeleti részén, a Micoud körzet belsejében. A régiót erős mezőgazdasági jelleg jellemzi, különösen a banán és a kakaóbab termesztése. Desruisseaux kulturális és közigazgatási központként szolgál a környező kisebb falvak számára.",
+      ro: "Desruisseaux este o comunitate importantă în sud-estul Sfintei Lucia, situată în interiorul districtului Micoud. Regiunea este puternic influențată de agricultură, în special prin cultivarea bananelor și a boabelor de cacao. Desruisseaux servește ca centru cultural și administrativ pentru satele mai mici din jur.",
+      en: "Desruisseaux is a significant community in southeastern Saint Lucia, located in the interior of the Micoud District. The region is strongly characterized by agriculture, particularly the cultivation of bananas and cocoa beans. Desruisseaux serves as a cultural and administrative hub for the surrounding smaller villages.",
+    },
+    factsAdvanced: {
+      de: ["Größte Inlandsgemeinde im Micoud Distrikt", "Wichtiges landwirtschaftliches Zentrum", "Sitz der Desruisseaux Combined School", "Bekannt für seine Gemeinschaftsfeste", "Hauptproduzent von Bananen in der Region", "Infrastruktur umfasst ein eigenes Gesundheitszentrum"],
+      hu: ["A Micoud körzet legnagyobb szárazföldi települése", "Fontos mezőgazdasági központ", "Itt található a Desruisseaux Összevont Iskola", "Közösségi fesztiváljairól ismert", "A régió fő banántermelője", "Az infrastruktúra saját egészségügyi központot is tartalmaz"],
+      ro: ["Cea mai mare comunitate interioară din districtul Micoud", "Centru agricol important", "Sediul Școlii Combinate Desruisseaux", "Cunoscută pentru festivalurile comunitare", "Principal producător de banane din regiune", "Infrastructura include un centru de sănătate propriu"],
+      en: ["Largest inland community within the Micoud District", "Major hub for local agricultural production", "Home to the Desruisseaux Combined School", "Renowned for its vibrant community festivals", "Primary producer of bananas in the southeastern area", "Infrastructure includes a dedicated local health center"],
+    },
   },
   {
     id: "saintlucia-saltibus-cities-v2",
@@ -361,6 +577,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Location of the Saltibus River falls", "Major center for cocoa production", "One of the highest elevated villages", "Rich in local flora and fauna species"],
     },
     imageHint: "Saltibus waterfall and forest Saint Lucia",
+    descriptionAdvanced: {
+      de: "Saltibus ist eine abgelegene Berggemeinde im Südwesten von Saint Lucia, die für ihre spektakuläre Natur und die Saltibus-Wasserfälle bekannt ist. Der Ort liegt inmitten dichter Regenwälder und bietet ideale Bedingungen für Wanderungen und Ökotourismus. Die Bewohner leben traditionell von der Landwirtschaft, wobei Wurzelgemüse und Gewürze die Haupterzeugnisse sind.",
+      hu: "Saltibus egy elszigetelt hegyi közösség Saint Lucia délnyugati részén, amely látványos természetéről és a Saltibus-vízesésekről ismert. A település sűrű esőerdők közepén fekszik, és ideális feltételeket kínál túrázáshoz és ökoturizmushoz. A lakosok hagyományosan mezőgazdaságból élnek, fő termékeik a gyökérzöldségek és a fűszerek.",
+      ro: "Saltibus este o comunitate montană izolată în sud-vestul Sfintei Lucia, cunoscută pentru natura sa spectaculoasă și cascadele Saltibus. Localitatea este situată în mijlocul pădurilor tropicale dense, oferind condiții ideale pentru drumeții și ecoturism. Locuitorii trăiesc tradițional din agricultură, produsele principale fiind rădăcinoasele și mirodeniile.",
+      en: "Saltibus is a remote mountain community in southwestern Saint Lucia, famous for its spectacular nature and the Saltibus Waterfalls. The village is nestled amidst dense rainforests and offers ideal conditions for hiking and ecotourism. Residents traditionally live off agriculture, with root crops and spices being the main products.",
+    },
+    factsAdvanced: {
+      de: ["Berggemeinde im Choiseul Distrikt", "Standort der fünf Saltibus-Wasserfälle", "Zentrum für den Anbau von Ingwer und Kurkuma", "Ausgangspunkt für Regenwald-Wandertouren", "Bekannt für seine kühle Bergluft", "Wirtschaft basiert auf Subsistenzlandwirtschaft"],
+      hu: ["Hegyi település a Choiseul körzetben", "Itt található az öt Saltibus-vízesés", "A gyömbér és kurkuma termesztésének központja", "Esőerdei túrák kiindulópontja", "Hűvös hegyi levegőjéről ismert", "Gazdasága az önellátó mezőgazdaságon alapul"],
+      ro: ["Comunitate montană în districtul Choiseul", "Locația celor cinci cascade Saltibus", "Centru pentru cultivarea ghimbirului și curcumei", "Punct de plecare pentru trasee prin pădurea tropicală", "Cunoscută pentru aerul muntos răcoros", "Economia se bazează pe agricultura de subzistență"],
+      en: ["Mountain community located in the Choiseul District", "Home to the scenic five-tiered Saltibus Waterfalls", "Key area for the cultivation of ginger and turmeric", "Major starting point for rainforest trekking tours", "Known for its refreshingly cool mountain climate", "Economy is predominantly based on subsistence farming"],
+    },
   },
   {
     id: "saintlucia-ti-rocher-micoud-cities-v2",
@@ -380,6 +608,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of a prominent primary school", "Known for root crop farming", "Traditional Creole village lifestyle", "Key point in the regional watershed"],
     },
     imageHint: "Ti Rocher Micoud countryside Saint Lucia",
+    descriptionAdvanced: {
+      de: "Ti Rocher ist eine ländliche Siedlung im Distrikt Micoud an der Südostküste von Saint Lucia. Der Name stammt aus dem Französischen und bedeutet „kleiner Fels“, was auf die geologische Beschaffenheit der Umgebung hindeutet. Die Gemeinde ist eng mit der Landwirtschaft verbunden und pflegt traditionelle kulturelle Praktiken der Insel.",
+      hu: "Ti Rocher egy vidéki település a Micoud körzetben, Saint Lucia délkeleti partján. A név francia eredetű, jelentése „kis szikla”, ami a környék geológiai adottságaira utal. A közösség szorosan kötődik a mezőgazdasághoz, és ápolja a sziget hagyományos kulturális szokásait.",
+      ro: "Ti Rocher este o așezare rurală în districtul Micoud, pe coasta de sud-est a Sfintei Lucia. Numele provine din franceză și înseamnă „mică stâncă”, făcând referire la caracteristicile geologice ale zonei. Comunitatea este strâns legată de agricultură și păstrează practicile culturale tradiționale ale insulei.",
+      en: "Ti Rocher is a rural settlement in the Micoud District on the southeastern coast of Saint Lucia. The name is of French origin, meaning \"little rock,\" referring to the geological features of the area. The community is closely tied to agriculture and maintains the island's traditional cultural practices.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Verwaltungsbezirk Micoud", "Name leitet sich vom französischen Wort für kleiner Fels ab", "Wirtschaftlich von Bananenplantagen geprägt", "Beherbergt die Ti Rocher (Micoud) Combined School", "Teil des fruchtbaren südöstlichen Küstenstreifens", "Bekannt für seine starke lokale Gemeinschaft"],
+      hu: ["A Micoud közigazgatási körzethez tartozik", "Neve a francia 'kis szikla' kifejezésből ered", "Gazdaságilag a banánültetvények jellemzik", "Itt található a Ti Rocher (Micoud) Összevont Iskola", "A termékeny délkeleti parti sáv része", "Erős helyi közösségéről ismert"],
+      ro: ["Face parte din districtul administrativ Micoud", "Numele derivă din franceză, însemnând mică stâncă", "Caracterizat economic de plantațiile de banane", "Găzduiește Școala Combinată Ti Rocher (Micoud)", "Parte a fâșiei de coastă fertile din sud-est", "Cunoscut pentru comunitatea sa locală unită"],
+      en: ["Located within the Micoud administrative district", "Name is derived from the French term for 'little rock'", "Economically dominated by banana plantations", "Home to the Ti Rocher (Micoud) Combined School", "Part of the fertile southeastern coastal region", "Known for its resilient and tight-knit community"],
+    },
   },
   {
     id: "saintlucia-ti-rocher-castries-cities-v2",
@@ -399,6 +639,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of the Ti Rocher Combined School", "Popular residential hub for commuters", "Offers a cooler climate than the city", "Historically part of larger estate lands"],
     },
     imageHint: "Ti Rocher Castries hill view Saint Lucia",
+    descriptionAdvanced: {
+      de: "Ti Rocher (Castries) ist eine hügelige Gemeinde am Rande der Hauptstadt Castries. Aufgrund der erhöhten Lage bietet der Ort kühlere Temperaturen und spektakuläre Ausblicke auf die Stadt und den Hafen. Es ist ein gefragtes Wohngebiet, das ländlichen Charme mit der Nähe zum wirtschaftlichen Zentrum der Insel verbindet.",
+      hu: "Ti Rocher (Castries) egy dombos közösség a főváros, Castries szélén. Megemelt helyzete miatt a település hűvösebb hőmérsékletet és látványos kilátást kínál a városra és a kikötőre. Kedvelt lakóövezet, amely a vidéki bájt ötvözi a sziget gazdasági központjának közelségével.",
+      ro: "Ti Rocher (Castries) este o comunitate colinară situată la marginea capitalei Castries. Datorită locației sale înalte, localitatea oferă temperaturi mai scăzute și vederi spectaculoase asupra orașului și portului. Este o zonă rezidențială căutată, care îmbină farmecul rural cu proximitatea de centrul economic.",
+      en: "Ti Rocher (Castries) is a hilly community situated on the outskirts of the capital city, Castries. Due to its elevated location, the village offers cooler temperatures and spectacular views of the city and harbor. It is a sought-after residential area that combines rural charm with proximity to the island's economic center.",
+    },
+    factsAdvanced: {
+      de: ["Liegt in den Hügeln über Castries", "Sitz der Ti Rocher (Castries) Combined School", "Bekannt für sein kühleres Mikroklima", "Wohnort für viele Angestellte in der Hauptstadt", "Bietet Panorama auf den Hafen von Castries", "Häufiger Ausgangspunkt für Touren ins Inselinnere"],
+      hu: ["A Castries feletti dombokon fekszik", "Itt található a Ti Rocher (Castries) Összevont Iskola", "Hűvösebb mikroklímájáról ismert", "Sok fővárosi alkalmazott lakóhelye", "Panorámás kilátást nyújt Castries kikötőjére", "Gyakori kiindulópont a sziget belsejébe tartó túrákhoz"],
+      ro: ["Situat pe dealurile de deasupra orașului Castries", "Sediul Școlii Combinate Ti Rocher (Castries)", "Cunoscut pentru microclimatul său mai răcoros", "Loc de reședință pentru mulți angajați din capitală", "Oferă o panoramă asupra portului Castries", "Punct de plecare frecvent pentru tururi în interiorul insulei"],
+      en: ["Located in the hills overlooking the city of Castries", "Home to the Ti Rocher (Castries) Combined School", "Well-known for its pleasantly cool microclimate", "Residential choice for many working in the capital", "Offers a panoramic view of Castries Harbor", "Frequent starting point for tours into the island's interior"],
+    },
   },
   {
     id: "saintlucia-mongiraud-cities-v2",
@@ -418,6 +670,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Upscale residential development", "Close proximity to major shopping malls", "Offers views of the Caribbean Sea", "Once part of a large private estate"],
     },
     imageHint: "Mongiraud residential area Saint Lucia",
+    descriptionAdvanced: {
+      de: "Mongiraud ist eine gehobene Wohngemeinde im Norden von Saint Lucia, die zwischen Gros Islet und Rodney Bay liegt. Der Ort ist bekannt für seine attraktive Lage auf den Hügeln, die oft weite Ausblicke auf das Karibische Meer ermöglichen. Durch die Nähe zu den touristischen Zentren hat Mongiraud in den letzten Jahren eine moderne Entwicklung erfahren.",
+      hu: "Mongiraud egy előkelő lakóközösség Saint Lucia északi részén, Gros Islet és Rodney Bay között. A település vonzó domboldali fekvéséről ismert, ahonnan gyakran tágas kilátás nyílik a Karib-tengerre. A turisztikai központok közelsége miatt Mongiraud az elmúlt években modern fejlődésen ment keresztül.",
+      ro: "Mongiraud este o comunitate rezidențială selectă în nordul Sfintei Lucia, situată între Gros Islet și Rodney Bay. Localitatea este cunoscută pentru locația sa atractivă pe dealuri, care oferă adesea vederi largi asupra Mării Caraibilor. Datorită proximității de centrele turistice, Mongiraud a cunoscut o dezvoltare modernă.",
+      en: "Mongiraud is an upscale residential community in northern Saint Lucia, located between Gros Islet and Rodney Bay. The village is known for its attractive hillside location, which often provides expansive views of the Caribbean Sea. Due to its proximity to major tourist hubs, Mongiraud has undergone modern development in recent years.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Distrikt Gros Islet", "Bevorzugtes Wohngebiet für die Mittel- und Oberschicht", "Hügelige Topographie mit Meerblick", "Gute Anbindung an Rodney Bay Marina", "Standort moderner Villen und Wohnanlagen", "Relativ hohe Immobilienpreise in der Region"],
+      hu: ["A Gros Islet körzethez tartozik", "A közép- és felsőosztály kedvelt lakóhelye", "Dombos domborzat tengeri kilátással", "Jó összeköttetés a Rodney Bay jachtkikötővel", "Modern villák és lakóparkok helyszíne", "Relatív magas ingatlanárak jellemzik a régiót"],
+      ro: ["Aparține de districtul Gros Islet", "Zonă rezidențială preferată de clasa medie și superioară", "Topografie colinară cu vedere la mare", "Acces facil la Marina Rodney Bay", "Locație pentru vile și complexe rezidențiale moderne", "Prețuri imobiliare relativ ridicate în regiune"],
+      en: ["Situated within the Gros Islet District", "Preferred residential area for middle and upper classes", "Hilly topography offering scenic ocean views", "Provides easy access to the Rodney Bay Marina", "Site of many modern villas and gated developments", "Features relatively high real estate values for the area"],
+    },
   },
   {
     id: "saintlucia-marisule-cities-v2",
@@ -437,6 +701,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Home to several beachfront resorts", "Residential hub for Castries commuters", "Offers distant views of Castries harbor", "Site of small-scale local industries"],
     },
     imageHint: "Marisule coast and resorts Saint Lucia",
+    descriptionAdvanced: {
+      de: "Marisule ist eine Küstensiedlung im Viertel Gros Islet im Norden von St. Lucia. Die Region liegt verkehrsgünstig an der Hauptstraße zwischen der Hauptstadt Castries und dem Touristenzentrum Rodney Bay. Das Gebiet ist vorwiegend durch Wohnbebauung und kleinere Gewerbebetriebe geprägt.",
+      hu: "Marisule egy tengerparti település Saint Lucia északi részén, Gros Islet negyedben. A főváros, Castries és a turisztikai központ, Rodney Bay közötti főútvonal mentén fekszik. A területet elsősorban lakóövezetek és kisebb kereskedelmi egységek jellemzik.",
+      ro: "Marisule este o așezare de coastă situată în districtul Gros Islet, în nordul insulei Sfânta Lucia. Regiunea este poziționată convenabil pe drumul principal care leagă capitala Castries de centrul turistic Rodney Bay. Zona este dominată de dezvoltări rezidențiale și mici unități comerciale.",
+      en: "Marisule is a coastal settlement located in the Gros Islet Quarter in northern Saint Lucia. The region is situated along the main highway connecting the capital, Castries, to the tourist hub of Rodney Bay. The area is primarily characterized by residential developments and small-scale commercial enterprises.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Viertel Gros Islet", "Nördlich der Hauptstadt Castries gelegen", "Direkter Zugang zur Karibischen Küste", "Anbindung an die Hauptverkehrsstraße Castries-Gros Islet", "Wohngebiet für Pendler in die Hauptstadt", "Nähe zur touristischen Region Rodney Bay"],
+      hu: ["Gros Islet negyedben található", "Castries fővárostól északra fekszik", "Közvetlen hozzáférés a Karib-tenger partjához", "A Castries-Gros Islet főútvonal mentén található", "A fővárosba ingázók kedvelt lakóhelye", "Közel fekszik Rodney Bay turisztikai övezetéhez"],
+      ro: ["Situat în districtul Gros Islet", "Localizat la nord de capitala Castries", "Acces direct la coasta Mării Caraibilor", "Situat pe ruta principală Castries-Gros Islet", "Zonă rezidențială pentru navetiștii spre capitală", "Proximitate față de zona turistică Rodney Bay"],
+      en: ["Located in the Gros Islet Quarter", "Situated north of the capital Castries", "Direct access to the Caribbean coastline", "Positioned on the main Castries-Gros Islet highway", "Residential area for commuters to the capital", "Proximity to the Rodney Bay tourist region"],
+    },
   },
   {
     id: "saintlucia-choc-cities-v2",
@@ -456,6 +732,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Location of a major cinema complex", "Popular public beach for locals", "Home to major car dealerships", "Once the site of a coal storage yard"],
     },
     imageHint: "Choc beach Saint Lucia",
+    descriptionAdvanced: {
+      de: "Choc ist ein Ortsteil nördlich von Castries, der für seinen langen Sandstrand und den angrenzenden Friedhof bekannt ist. Das Gebiet dient als wichtiger Verkehrsknotenpunkt und beherbergt mehrere Einkaufszentren sowie Hotelanlagen. Die Bucht von Choc bietet ruhiges Wasser und ist ein beliebtes Naherholungsgebiet.",
+      hu: "Choc egy településrész Castries-től északra, amely hosszú homokos strandjáról és a szomszédos temetőről ismert. A terület fontos közlekedési csomópont, ahol több bevásárlóközpont és szálloda található. A Choc-öböl nyugodt vize népszerű pihenőhely a helyiek körében.",
+      ro: "Choc este un cartier situat la nord de Castries, cunoscut pentru plaja sa lungă cu nisip și cimitirul adiacent. Zona servește ca un nod de transport important și găzduiește mai multe centre comerciale și complexe hoteliere. Golful Choc oferă ape calme și este o zonă populară de recreere.",
+      en: "Choc is a locality north of Castries, known for its long sandy beach and the adjacent cemetery. The area serves as a major transportation hub and houses several shopping malls and hotel complexes. Choc Bay provides calm waters and is a popular recreational spot for residents.",
+    },
+    factsAdvanced: {
+      de: ["Standort des Choc-Friedhofs", "Langer Sandstrand an der Choc Bay", "Sitz großer Einkaufszentren wie JQ Rodney Bay Mall", "Nördliche Grenze der Hauptstadt Castries", "Wichtiger Verkehrsknotenpunkt im Norden", "Beherbergt mehrere All-Inclusive-Resorts"],
+      hu: ["A Choc-temető helyszíne", "Hosszú homokos strand a Choc-öbölben", "Nagy bevásárlóközpontok otthona", "Castries főváros északi határán fekszik", "Fontos közlekedési csomópont északon", "Számos all-inclusive szálloda található itt"],
+      ro: ["Locația cimitirului Choc", "Plajă lungă cu nisip în Golful Choc", "Găzduiește centre comerciale mari", "Limita nordică a capitalei Castries", "Nod important de transport în nord", "Găzduiește mai multe resorturi all-inclusive"],
+      en: ["Location of the Choc Cemetery", "Long sandy beach on Choc Bay", "Home to major shopping centers", "Northern boundary of the capital Castries", "Major transportation junction in the north", "Hosts several all-inclusive resorts"],
+    },
   },
   {
     id: "saintlucia-union-cities-v2",
@@ -475,6 +763,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Headquarters of the Ministry of Agriculture", "Location of the Union Orchid Garden", "Houses a vocational training center", "Key hub for veterinary services"],
     },
     imageHint: "Union industrial and office area Saint Lucia",
+    descriptionAdvanced: {
+      de: "Union liegt im Norden von St. Lucia und ist das Verwaltungszentrum für Umwelt- und Forstwirtschaft der Insel. Hier befinden sich ein botanischer Garten, ein Mini-Zoo und Naturlehrpfade, die der Aufklärung über die lokale Flora und Fauna dienen. Die Einrichtung spielt eine zentrale Rolle im Naturschutz des Landes.",
+      hu: "Union Saint Lucia északi részén található, és a sziget környezetvédelmi és erdészeti igazgatási központja. Itt található egy botanikus kert, egy mini állatkert és tanösvények, amelyek a helyi növény- és állatvilág bemutatását szolgálják. Az intézmény központi szerepet játszik az ország természetvédelmében.",
+      ro: "Union este situat în nordul insulei Sfânta Lucia și este centrul administrativ pentru mediu și silvicultură al insulei. Aici se află o grădină botanică, o mini-grădină zoologică și trasee naturale destinate educației despre flora și fauna locală. Instituția joacă un rol central în conservarea naturii.",
+      en: "Union is located in northern Saint Lucia and serves as the island's administrative center for environmental and forestry affairs. It features a botanical garden, a mini-zoo, and nature trails designed for education on local flora and fauna. The facility plays a central role in the country's conservation efforts.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Forestry Department", "Beherbergt einen Mini-Zoo mit St. Lucia-Amazonen", "Standort botanischer Gärten", "Ausgangspunkt für Naturlehrpfade", "Zentrum für Umwelterziehung", "Liegt im Hinterland von Castries"],
+      hu: ["Az Erdészeti Hivatal székhelye", "Mini állatkertjében Saint Lucia-i amazonpapagájok élnek", "Botanikus kertek helyszíne", "Természeti tanösvények kiindulópontja", "Környezeti nevelési központ", "Castries hátországában található"],
+      ro: ["Sediul Departamentului Silvic", "Găzduiește o mini-grădină zoologică cu papagali nativi", "Locația unor grădini botanice", "Punct de plecare pentru trasee ecologice", "Centru de educație ecologică", "Situat în interiorul insulei, lângă Castries"],
+      en: ["Headquarters of the Forestry Department", "Houses a mini-zoo with Saint Lucia Amazons", "Location of botanical gardens", "Starting point for nature trails", "Center for environmental education", "Located in the hinterland of Castries"],
+    },
   },
   {
     id: "saintlucia-balata-cities-v2",
@@ -494,6 +794,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Named after the indigenous Balata tree", "Site of the Balata Combined School", "Preferred residential area for families", "Proximity to forest reserves"],
     },
     imageHint: "Balata hill residences Saint Lucia",
+    descriptionAdvanced: {
+      de: "Balata ist eine wachsende Wohngemeinde in den Hügeln nordöstlich der Hauptstadt Castries. Die Siedlung bietet aufgrund ihrer erhöhten Lage oft kühlere Temperaturen und Ausblicke auf die umliegende Landschaft. Sie ist gut an das Verkehrsnetz angebunden und dient vielen Pendlern als Wohnort.",
+      hu: "Balata egy növekvő lakóközösség a fővárostól, Castries-től északkeletre fekvő dombokon. A település emelt elhelyezkedése miatt gyakran hűvösebb hőmérsékletet és kilátást kínál a környező tájra. Jó közlekedési kapcsolatokkal rendelkezik, és sok ingázó számára szolgál lakóhelyül.",
+      ro: "Balata este o comunitate rezidențială în plină dezvoltare, situată pe dealurile de la nord-est de capitala Castries. Datorită locației sale înalte, așezarea oferă adesea temperaturi mai scăzute și vederi asupra peisajului înconjurător. Este bine conectată la rețeaua de transport, servind drept locuință multor navetiști.",
+      en: "Balata is a growing residential community situated in the hills northeast of the capital, Castries. Due to its elevated location, the settlement often experiences cooler temperatures and offers views of the surrounding landscape. It is well-connected to the transport network and serves as a home for many commuters.",
+    },
+    factsAdvanced: {
+      de: ["Wohngebiet im Nordosten von Castries", "Erhöhte Lage in der Hügelkette", "Kühleres Klima als an der Küste", "Primär durch Einfamilienhäuser geprägt", "Anbindung an die Straße nach Babonneau", "Wachsende Infrastruktur in den letzten Jahrzehnten"],
+      hu: ["Lakóövezet Castries-től északkeletre", "Magaslati fekvés a dombok között", "Hűvösebb éghajlat a parthoz képest", "Elsősorban családi házak jellemzik", "Kapcsolat a Babonneau felé vezető úttal", "Fejlődő infrastruktúra az elmúlt évtizedekben"],
+      ro: ["Zonă rezidențială la nord-est de Castries", "Poziție elevată în zona colinară", "Climat mai răcoros decât pe coastă", "Caracterizată în principal prin case unifamiliale", "Conexiune cu drumul spre Babonneau", "Infrastructură în creștere în ultimele decenii"],
+      en: ["Residential area northeast of Castries", "Elevated position in the hill range", "Cooler climate compared to the coast", "Primarily characterized by single-family homes", "Connection to the road leading to Babonneau", "Expanding infrastructure over recent decades"],
+    },
   },
   {
     id: "saintlucia-giraud-cities-v2",
@@ -513,6 +825,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Known for ginger cultivation", "Gateway to forest hiking trails", "Tightly knit rural community", "Features traditional stone baking ovens"],
     },
     imageHint: "Giraud rural farming Saint Lucia",
+    descriptionAdvanced: {
+      de: "Giraud ist eine kleine ländliche Siedlung im Norden von St. Lucia, die zum Distrikt Gros Islet gehört. Die Gegend ist geprägt von üppiger Vegetation und kleinbäuerlicher Landwirtschaft. Die Bewohner nutzen die Ruhe der ländlichen Umgebung, sind aber dennoch nah an den urbanen Zentren der Insel.",
+      hu: "Giraud egy kis vidéki település Saint Lucia északi részén, amely Gros Islet körzetéhez tartozik. A környéket buja növényzet és kisüzemi mezőgazdaság jellemzi. A lakosok élvezik a vidéki környezet nyugalmát, miközben közel maradnak a sziget városi központjaihoz.",
+      ro: "Giraud este o mică așezare rurală în nordul insulei Sfânta Lucia, aparținând districtului Gros Islet. Zona este marcată de vegetație luxuriantă și agricultură la scară mică. Locuitorii beneficiază de liniștea mediului rural, fiind totodată aproape de centrele urbane ale insulei.",
+      en: "Giraud is a small rural settlement in northern Saint Lucia, belonging to the Gros Islet district. The area is characterized by lush vegetation and small-scale farming. Residents enjoy the tranquility of the rural setting while remaining close to the island's urban centers.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Distrikt Gros Islet", "Ländlich geprägte Siedlungsstruktur", "Wirtschaftlich durch Landwirtschaft orientiert", "Liegt in der Nähe der Nordküste", "Teil der hügeligen Region des Nordens", "Geringe Bevölkerungsdichte"],
+      hu: ["Gros Islet körzetéhez tartozik", "Vidéki jellegű településszerkezet", "Gazdaságilag a mezőgazdaságra épül", "Az északi part közelében fekszik", "Az északi dombos vidék része", "Alacsony népsűrűség jellemzi"],
+      ro: ["Aparține de districtul Gros Islet", "Structură de așezare rurală", "Orientată economic spre agricultură", "Situat în apropierea coastei de nord", "Parte a regiunii colinare din nord", "Densitate scăzută a populației"],
+      en: ["Belongs to the Gros Islet district", "Rural settlement structure", "Economically oriented towards agriculture", "Located near the northern coast", "Part of the hilly northern region", "Low population density"],
+    },
   },
   {
     id: "saintlucia-monier-cities-v2",
@@ -532,6 +856,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of the Monier water reservoir", "Popular destination for nature watching", "Expanding residential development", "Rich in indigenous plant species"],
     },
     imageHint: "Monier hill view landscape Saint Lucia",
+    descriptionAdvanced: {
+      de: "Monier ist eine höher gelegene Gemeinde im Distrikt Gros Islet, die weite Ausblicke über den Norden der Insel bietet. Das Gebiet hat sich von einer landwirtschaftlichen Zone zu einem begehrten Wohnviertel entwickelt. Die hügelige Topographie prägt das Straßenbild und die Anordnung der Häuser.",
+      hu: "Monier egy magasabban fekvő közösség Gros Islet körzetében, amely széles kilátást nyújt a sziget északi részére. A terület mezőgazdasági zónából kedvelt lakónegyeddé fejlődött. A dombos domborzat meghatározza az utcaképet és a házak elhelyezkedését.",
+      ro: "Monier este o comunitate situată la altitudine în districtul Gros Islet, oferind vederi panoramice asupra nordului insulei. Zona a evoluat dintr-o zonă agricolă într-un cartier rezidențial căutat. Topografia colinară modelează aspectul străzilor și dispunerea caselor.",
+      en: "Monier is an elevated community in the Gros Islet district, offering expansive views over the northern part of the island. The area has evolved from an agricultural zone into a desirable residential neighborhood. The hilly topography shapes the street layout and house positioning.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im hügeligen Norden von Gros Islet", "Bekannt für Panoramablicke auf das Meer", "Wandel von Landwirtschaft zu Wohngebiet", "Häufige Niederschläge durch die Höhenlage", "Beliebtes Wohnviertel für Fachkräfte", "Anbindung an das Straßennetz von Babonneau"],
+      hu: ["Gros Islet dombos északi részén fekszik", "Panorámás tengeri kilátásáról ismert", "Mezőgazdaságból lakóövezetté alakult", "Gyakori csapadék a magasság miatt", "Szakemberek kedvelt lakóhelye", "Kapcsolódik Babonneau úthálózatához"],
+      ro: ["Situat în nordul colinar din Gros Islet", "Cunoscut pentru vederi panoramice la mare", "Tranziție de la agricultură la rezidențial", "Precipitații frecvente datorită altitudinii", "Cartier rezidențial popular pentru profesioniști", "Conexiune la rețeaua rutieră din Babonneau"],
+      en: ["Located in the hilly north of Gros Islet", "Known for panoramic sea views", "Transition from agriculture to residential", "Frequent rainfall due to elevation", "Popular residential area for professionals", "Connected to the Babonneau road network"],
+    },
   },
   {
     id: "saintlucia-fond-st-jacques-cities-v2",
@@ -551,6 +887,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of the Fond St. Jacques church", "Major cocoa processing facilities", "Located in the shadow of Mount Gimie", "Rich in fertile volcanic soil"],
     },
     imageHint: "Fond St Jacques mountain agriculture Saint Lucia",
+    descriptionAdvanced: {
+      de: "Fond St. Jacques ist eine bedeutende landwirtschaftliche Siedlung im Landesinneren bei Soufrière. Die Region liegt am Fuße der Regenwaldberge und ist bekannt für den Anbau von Kakao, Kaffee und Bananen. Das Dorf bewahrt eine traditionelle Lebensweise und ist Ausgangspunkt für Wanderungen in den Regenwald.",
+      hu: "Fond St. Jacques egy jelentős mezőgazdasági település a szárazföld belsejében, Soufrière közelében. A régió az esőerdős hegyek lábánál fekszik, és híres a kakaó, kávé és banán termesztéséről. A falu őrzi a hagyományos életmódot, és kiindulópont az esőerdei túrákhoz.",
+      ro: "Fond St. Jacques este o așezare agricolă importantă situată în interiorul insulei, lângă Soufrière. Regiunea se află la poalele munților acoperiți de păduri tropicale și este cunoscută pentru cultivarea cacauei, cafelei și bananelor. Satul păstrează un stil de viață tradițional și este punct de plecare pentru drumeții.",
+      en: "Fond St. Jacques is a significant inland agricultural settlement near Soufrière. The region lies at the foot of rainforest-covered mountains and is known for the cultivation of cocoa, coffee, and bananas. The village preserves a traditional way of life and serves as a gateway for rainforest excursions.",
+    },
+    factsAdvanced: {
+      de: ["Landwirtschaftliches Zentrum bei Soufrière", "Hauptanbaugebiet für Kakao und Kaffee", "Liegt am Rande des Central Forest Reserve", "Bekannt für traditionelle 'Koudmen' (Nachbarschaftshilfe)", "Häufige Regenfälle begünstigen die Vegetation", "Eines der regenreichsten Gebiete der Insel"],
+      hu: ["Mezőgazdasági központ Soufrière mellett", "A kakaó és kávé fő termesztési területe", "A Központi Erdőrezervátum szélén fekszik", "A hagyományos kalákáról (Koudmen) ismert", "A gyakori esők kedveznek a növényzetnek", "A sziget egyik legcsapadékosabb területe"],
+      ro: ["Centru agricol lângă Soufrière", "Zonă principală pentru cacao și cafea", "Situat la marginea Rezervației Forestiere Centrale", "Cunoscut pentru tradiția 'Koudmen' (ajutor reciproc)", "Ploile frecvente favorizează vegetația", "Una dintre cele mai ploioase zone ale insulei"],
+      en: ["Agricultural hub near Soufrière", "Main cultivation area for cocoa and coffee", "Located at the edge of the Central Forest Reserve", "Known for traditional 'Koudmen' (community help)", "Frequent rains favor lush vegetation", "One of the island's wettest areas"],
+    },
   },
   {
     id: "saintlucia-piaye-cities-v2",
@@ -570,6 +918,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of prehistoric Amerindian artifacts", "Key river fishing location", "Proximity to Balembouche beach", "Center for traditional craft making"],
     },
     imageHint: "Piaye village river Saint Lucia",
+    descriptionAdvanced: {
+      de: "Piaye ist eine Küstengemeinde im Distrikt Laborie an der Südküste von St. Lucia. Der Ort ist nach dem Piaye River benannt, der hier ins Meer mündet. Die Region ist historisch mit der Landwirtschaft verbunden und bietet Zugang zu ruhigen Stränden, die abseits der großen Touristenströme liegen.",
+      hu: "Piaye egy tengerparti közösség Laborie körzetében, Saint Lucia déli partján. A település a Piaye-folyóról kapta a nevét, amely itt torkollik a tengerbe. A régió történelmileg kapcsolódik a mezőgazdasághoz, és hozzáférést biztosít a tömegturizmustól távol eső, csendes strandokhoz.",
+      ro: "Piaye este o comunitate de coastă în districtul Laborie, pe coasta de sud a insulei Sfânta Lucia. Localitatea este numită după râul Piaye, care se varsă aici în mare. Regiunea este legată istoric de agricultură și oferă acces la plaje liniștite, situate departe de fluxurile mari de turiști.",
+      en: "Piaye is a coastal community in the Laborie district on the southern coast of Saint Lucia. The settlement is named after the Piaye River, which flows into the sea here. The region is historically linked to agriculture and provides access to quiet beaches away from major tourist crowds.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Distrikt Laborie", "Mündung des Piaye River in die Karibik", "Standort einer staatlichen Sekundarschule", "Historische Verbindung zum Balembouche Estate", "Südliche Küstenstraße führt durch den Ort", "Bekannt für Fischfang und Landwirtschaft"],
+      hu: ["Laborie körzetében található", "A Piaye-folyó torkolata a Karib-tengerbe", "Állami középiskola helyszíne", "Történelmi kapcsolat a Balembouche birtokkal", "A déli parti út áthalad a településen", "Halászatáról és mezőgazdaságáról ismert"],
+      ro: ["Situat în districtul Laborie", "Vărsarea râului Piaye în Marea Caraibilor", "Locația unei școli secundare de stat", "Legătură istorică cu domeniul Balembouche", "Drumul de coastă din sud traversează localitatea", "Cunoscut pentru pescuit și agricultură"],
+      en: ["Located in the Laborie district", "Mouth of the Piaye River into the Caribbean", "Location of a state secondary school", "Historical link to the Balembouche Estate", "The southern coastal road passes through", "Known for fishing and agriculture"],
+    },
   },
   {
     id: "saintlucia-balembouche-cities-v2",
@@ -589,6 +949,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of an old sugar mill ruin", "Offers eco-friendly accommodations", "Known for the Balembouche River", "Rich in archaeological remains"],
     },
     imageHint: "Balembouche estate ruins Saint Lucia",
+    descriptionAdvanced: {
+      de: "Balembouche ist ein historisches Gebiet an der Südwestküste von St. Lucia, bekannt für das gleichnamige Anwesen. Die ehemalige Zuckerplantage beherbergt heute ein historisches Gästehaus und Ruinen einer alten Zuckermühle aus dem 18. Jahrhundert. Die Landschaft ist geprägt von weiten Weiden und dichter Küstenvegetation.",
+      hu: "Balembouche egy történelmi terület Saint Lucia délnyugati partján, amely az azonos nevű birtokról ismert. Az egykori cukornádültetvény ma egy történelmi vendégháznak és egy 18. századi cukormalom romjainak ad otthont. A tájat tágas legelők és sűrű parti növényzet jellemzi.",
+      ro: "Balembouche este o zonă istorică pe coasta de sud-vest a insulei Sfânta Lucia, cunoscută pentru domeniul cu același nume. Fosta plantație de zahăr găzduiește astăzi o pensiune istorică și ruinele unei vechi mori de zahăr din secolul al XVIII-lea. Peisajul este marcat de pășuni vaste și vegetație de coastă.",
+      en: "Balembouche is a historic area on the southwestern coast of Saint Lucia, known for the estate of the same name. The former sugar plantation now houses a historic guesthouse and the ruins of an 18th-century sugar mill. The landscape is characterized by expansive pastures and dense coastal vegetation.",
+    },
+    factsAdvanced: {
+      de: ["Standort des historischen Balembouche Estate", "Ruinen einer Zuckermühle aus dem 18. Jahrhundert", "Beherbergt ein 70 Hektar großes Naturschutzgebiet", "Ehemalige bedeutende Zuckerplantage der Insel", "Liegt zwischen Laborie und Vieux Fort", "Bekannt für ökologischen Tourismus"],
+      hu: ["A történelmi Balembouche birtok helyszíne", "18. századi cukormalom romjai találhatók itt", "Egy 70 hektáros természetvédelmi területnek ad otthont", "A sziget egykori jelentős cukornádültetvénye", "Laborie és Vieux Fort között fekszik", "Az ökoturizmusáról ismert"],
+      ro: ["Locația domeniului istoric Balembouche", "Ruinele unei mori de zahăr din secolul XVIII", "Găzduiește o rezervație naturală de 70 de hectare", "Fostă plantație de zahăr importantă pe insulă", "Situat între Laborie și Vieux Fort", "Cunoscut pentru turism ecologic"],
+      en: ["Location of the historic Balembouche Estate", "Ruins of an 18th-century sugar mill", "Houses a 70-acre nature reserve", "Former major sugar plantation on the island", "Located between Laborie and Vieux Fort", "Known for ecological tourism"],
+    },
   },
   {
     id: "saintlucia-praslin-cities-v2",
@@ -608,6 +980,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Known for Praslin Island (Frigate Island)", "Center for sea moss cultivation", "Offers kayak tours in mangroves", "Important nesting site for sea birds"],
     },
     imageHint: "Praslin bay and mangroves Saint Lucia",
+    descriptionAdvanced: {
+      de: "Praslin ist ein idyllisches Fischerdorf an der Ostküste von St. Lucia im Distrikt Micoud. Es liegt an der gleichnamigen Bucht, die durch Korallenriffe geschützt ist und der kleinen Insel Fregate Island vorgelagert ist. Der Ort ist bekannt für seine Algenproduktion und die traditionelle Herstellung von Fischerbooten.",
+      hu: "Praslin egy idilli halászfalu Saint Lucia keleti partján, Micoud körzetében. Az azonos nevű öbölben fekszik, amelyet korallzátonyok védenek, és itt található a kis Fregatt-sziget is. A település híres az algatermeléséről és a hagyományos halászcsónakok készítéséről.",
+      ro: "Praslin este un sat de pescari idilic pe coasta de est a insulei Sfânta Lucia, în districtul Micoud. Se află în golful cu același nume, protejat de recife de corali, lângă mica insulă Fregate Island. Localitatea este cunoscută pentru producția de alge și fabricarea tradițională a barcălor.",
+      en: "Praslin is an idyllic fishing village on the east coast of Saint Lucia in the Micoud district. It is situated on the bay of the same name, protected by coral reefs and fronted by the small Fregate Island. The village is known for its seaweed production and traditional boat building.",
+    },
+    factsAdvanced: {
+      de: ["Liegt an der Praslin Bay", "Zugang zum Fregate Island Nature Reserve", "Zentrum für die Ernte von Seemoos (Sea Moss)", "Bekannt für traditionellen Bootsbau", "Gehört zum Distrikt Micoud", "Geschützte Bucht durch vorgelagerte Riffe"],
+      hu: ["A Praslin-öböl partján fekszik", "Hozzáférés a Fregatt-sziget Természetvédelmi Területhez", "A tengeri algák (Sea Moss) betakarításának központja", "Hagyományos hajóépítéséről ismert", "Micoud körzetéhez tartozik", "Zátonyok által védett öböl jellemzi"],
+      ro: ["Situat în Golful Praslin", "Acces la Rezervația Naturală Fregate Island", "Centru pentru recoltarea algelor marine (Sea Moss)", "Cunoscut pentru construcția tradițională de bărci", "Aparține de districtul Micoud", "Golf protejat de recife de corali"],
+      en: ["Located on Praslin Bay", "Access to the Fregate Island Nature Reserve", "Center for Sea Moss harvesting", "Known for traditional boat building", "Part of the Micoud district", "Protected bay due to offshore reefs"],
+    },
   },
   {
     id: "saintlucia-mon-repos-cities-v2",
@@ -627,6 +1011,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Means 'My Rest' in French", "Site of the Mon Repos Combined School", "Major banana production zone", "Gateway to the Patience community"],
     },
     imageHint: "Mon Repos village coast Saint Lucia",
+    descriptionAdvanced: {
+      de: "Mon Repos ist eine ländliche Gemeinde an der Ostküste im Distrikt Micoud. Der Name stammt aus dem Französischen und bedeutet 'Meine Ruhe', was die friedliche Atmosphäre der landwirtschaftlich geprägten Gegend widerspiegelt. Die Bewohner leben hauptsächlich vom Anbau von Bananen und anderen Feldfrüchten.",
+      hu: "Mon Repos egy vidéki közösség a keleti parton, Micoud körzetében. A név francia eredetű, jelentése 'nyugalmam', ami hűen tükrözi a mezőgazdasági terület békés hangulatát. A lakosok főként banántermesztésből és más mezőgazdasági terményekből élnek.",
+      ro: "Mon Repos este o comunitate rurală pe coasta de est, în districtul Micoud. Numele provine din franceză și înseamnă 'odihna mea', reflectând atmosfera liniștită a zonei agricole. Locuitorii trăiesc în principal din cultivarea bananelor și a altor produse agricole.",
+      en: "Mon Repos is a rural community on the east coast in the Micoud district. The name is French for 'My Rest', reflecting the peaceful atmosphere of this agricultural area. Residents primarily rely on banana cultivation and other agricultural produce for their livelihood.",
+    },
+    factsAdvanced: {
+      de: ["Liegt an der Ostküstenstraße", "Wichtiges Bananenanbaugebiet", "Standort einer landwirtschaftlichen Genossenschaft", "Bekannt für lokale Gemeinschaftsmärkte", "Gehört zum Distrikt Micoud", "Bietet Ausblicke auf den Atlantik"],
+      hu: ["A keleti parti út mentén fekszik", "Fontos banántermesztő vidék", "Egy mezőgazdasági szövetkezet székhelye", "Helyi közösségi piacairól ismert", "Micoud körzetéhez tartozik", "Kilátást nyújt az Atlanti-óceánra"],
+      ro: ["Situat pe drumul de pe coasta de est", "Zonă importantă de cultivare a bananelor", "Sediul unei cooperative agricole", "Cunoscut pentru piețele locale comunitare", "Aparține de districtul Micoud", "Oferă vederi spre Oceanul Atlantic"],
+      en: ["Located on the east coast road", "Major banana cultivation area", "Site of an agricultural cooperative", "Known for local community markets", "Part of the Micoud district", "Offers views of the Atlantic Ocean"],
+    },
   },
   {
     id: "saintlucia-patience-cities-v2",
@@ -646,6 +1042,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Located near the Praslin River", "Known for local herbal remedies", "Classic rural Saint Lucian atmosphere", "Significant producer of root crops"],
     },
     imageHint: "Patience rural village Saint Lucia",
+    descriptionAdvanced: {
+      de: "Patience ist eine kleine Siedlung an der Atlantikküste von St. Lucia, gelegen im Distrikt Micoud. Die Gegend ist durch zerklüftete Küstenabschnitte und landwirtschaftlich genutzte Flächen im Hinterland geprägt. Das Leben im Dorf verläuft ruhig und ist eng mit den natürlichen Zyklen der Landwirtschaft verbunden.",
+      hu: "Patience egy kis település Saint Lucia atlanti partvidékén, Micoud körzetében. A környéket tagolt tengerparti szakaszok és a hátországban található mezőgazdasági területek jellemzik. A falu élete csendes, és szorosan kapcsolódik a mezőgazdaság természetes ciklusaihoz.",
+      ro: "Patience este o mică așezare pe coasta atlantică a insulei Sfânta Lucia, situată în districtul Micoud. Zona este marcată de secțiuni de coastă accidentate și terenuri agricole în interior. Viața în sat este liniștită și strâns legată de ciclurile naturale ale agriculturii.",
+      en: "Patience is a small settlement on the Atlantic coast of Saint Lucia, located in the Micoud district. The area is characterized by rugged coastal sections and agricultural lands in the hinterland. Village life is quiet and closely connected to the natural cycles of farming.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Distrikt Micoud", "Liegt nördlich von Mon Repos", "Angrenzend an die Patience Bay", "Wirtschaftlich durch Ackerbau geprägt", "Typische Ostküsten-Vegetation", "Geringe Einwohnerzahl"],
+      hu: ["Micoud körzetéhez tartozik", "Mon Repostól északra fekszik", "A Patience-öböl szomszédságában", "Gazdaságilag a földművelés jellemzi", "Jellemző keleti parti növényzet", "Alacsony lélekszámú település"],
+      ro: ["Aparține de districtul Micoud", "Situat la nord de Mon Repos", "Adiacent Golfului Patience", "Caracterizat economic prin culturi agricole", "Vegetație tipică pentru coasta de est", "Număr mic de locuitori"],
+      en: ["Part of the Micoud district", "Located north of Mon Repos", "Adjacent to Patience Bay", "Economically characterized by farming", "Typical east coast vegetation", "Small population size"],
+    },
   },
   {
     id: "saintlucia-boguis-cities-v2",
@@ -665,6 +1073,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of the Boguis Combined School", "Major producer of yams and tubers", "Cooler mountain microclimate", "Known for its community spirit and festivals"],
     },
     imageHint: "Boguis hillside farming Saint Lucia",
+    descriptionAdvanced: {
+      de: "Boguis ist eine abgelegene Berggemeinde im Distrikt Babonneau im Nordosten von St. Lucia. Das Dorf ist für seine starke landwirtschaftliche Tradition bekannt, insbesondere für den Anbau von Wurzelgemüse und Bananen. Die hügelige Landschaft bietet einen weiten Blick über das grüne Landesinnere.",
+      hu: "Boguis egy távoli hegyi közösség Babonneau körzetében, Saint Lucia északkeleti részén. A falu erős mezőgazdasági hagyományairól ismert, különösen a gyökérzöldségek és a banán termesztéséről. A dombos táj széles kilátást nyújt a zöld szigetbelsőre.",
+      ro: "Boguis este o comunitate montană izolată în districtul Babonneau, în nord-estul insulei Sfânta Lucia. Satul este cunoscut pentru tradiția sa agricolă puternică, în special pentru cultivarea rădăcinoaselor și a bananelor. Peisajul colinar oferă o vedere panoramică asupra interiorului verde al insulei.",
+      en: "Boguis is a remote mountain community in the Babonneau district in northeastern Saint Lucia. The village is known for its strong agricultural tradition, particularly the cultivation of root crops and bananas. The hilly landscape provides a wide view over the lush green interior of the island.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Distrikt Babonneau", "Bekannt für den Anbau von Yams und Süßkartoffeln", "Traditionelle landwirtschaftliche Strukturen", "Erhöhte Lage im Landesinneren", "Starker Zusammenhalt der Dorfgemeinschaft", "Teil des fruchtbaren Nordostens"],
+      hu: ["Babonneau körzetéhez tartozik", "Jamszgyökér és édesburgonya termesztéséről ismert", "Hagyományos mezőgazdasági szerkezet", "Magaslati fekvés a szárazföld belsejében", "Erős közösségi összetartás jellemzi", "A termékeny északkeleti rész része"],
+      ro: ["Aparține de districtul Babonneau", "Cunoscut pentru cultivarea ignamelor și a cartofilor dulci", "Structuri agricole tradiționale", "Poziție elevată în interiorul insulei", "Coeziune puternică a comunității sătești", "Parte a nord-estului fertil"],
+      en: ["Part of the Babonneau district", "Known for cultivating yams and sweet potatoes", "Traditional agricultural structures", "Elevated inland position", "Strong community cohesion", "Part of the fertile northeast"],
+    },
   },
   {
     id: "saintlucia-garrand-cities-v2",
@@ -684,6 +1104,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Features a major banana packing shed", "Site of the Garrand Combined School", "Source of several local springs", "Rich in diverse tropical vegetation"],
     },
     imageHint: "Garrand banana plantations Saint Lucia",
+    descriptionAdvanced: {
+      de: "Garrand ist eine höher gelegene Gemeinde im Distrikt Babonneau, die für ihre atemberaubenden Aussichten auf die Küste von Cas en Bas und den Atlantik bekannt ist. Die Region ist ländlich und vom Anbau tropischer Früchte geprägt. Durch die Höhenlage herrscht ein kühleres und feuchteres Mikroklima.",
+      hu: "Garrand egy magasabban fekvő közösség Babonneau körzetében, amely lenyűgöző kilátást nyújt Cas en Bas partjaira és az Atlanti-óceánra. A régió vidéki jellegű, trópusi gyümölcsök termesztése jellemzi. A magasság miatt hűvösebb és nedvesebb mikroklíma uralkodik itt.",
+      ro: "Garrand este o comunitate situată la altitudine în districtul Babonneau, cunoscută pentru vederile sale uluitoare asupra coastei Cas en Bas și a Oceanului Atlantic. Regiunea este rurală și dominată de cultivarea fructelor tropicale. Altitudinea determină un microclimat mai răcoros și mai umed.",
+      en: "Garrand is an elevated community in the Babonneau district, known for its stunning views over the Cas en Bas coastline and the Atlantic Ocean. The region is rural and characterized by the cultivation of tropical fruits. Due to its elevation, it experiences a cooler and wetter microclimate.",
+    },
+    factsAdvanced: {
+      de: ["Bekanntester Aussichtspunkt in Babonneau", "Blick auf Cas en Bas und den Atlantik", "Höhenlage begünstigt den Obstanbau", "Ländliche Wohnsiedlung", "Wichtige Station für Naturfotografen", "Anbindung an die Bergstraßen des Nordostens"],
+      hu: ["Babonneau legismertebb kilátópontja", "Kilátás Cas en Bas-ra és az Atlanti-óceánra", "A magasság kedvez a gyümölcstermesztésnek", "Vidéki lakótelepülés", "Fontos helyszín a természetfotósok számára", "Kapcsolat az északkeleti hegyi utakkal"],
+      ro: ["Cel mai cunoscut punct de belvedere din Babonneau", "Vedere spre Cas en Bas și Oceanul Atlantic", "Altitudinea favorizează pomicultura", "Așezare rezidențială rurală", "Locație importantă pentru fotografii de natură", "Conexiune la drumurile montane din nord-est"],
+      en: ["Most famous viewpoint in Babonneau", "Views of Cas en Bas and the Atlantic", "Elevation favors fruit cultivation", "Rural residential settlement", "Important spot for nature photographers", "Connected to northeastern mountain roads"],
+    },
   },
   {
     id: "saintlucia-ravine-poisson-cities-v2",
@@ -703,6 +1135,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Known for historic landslide events", "Center for plantain and fruit farming", "Features a community memorial site", "Key point near the Goldsworthy Tunnel"],
     },
     imageHint: "Ravine Poisson forest valley Saint Lucia",
+    descriptionAdvanced: {
+      de: "Ravine Poisson liegt im Cul de Sac Valley südlich von Castries. Der Ort erlangte traurige Berühmtheit durch eine verheerende Schlammlawine am 21. November 1938, die nach heftigen Regenfällen fast 100 Menschenleben forderte. Heute ist es eine kleine Siedlung, die von dichtem Wald und steilen Hängen umgeben ist.",
+      hu: "Ravine Poisson a Cul de Sac-völgyben található, Castries-től délre. A település egy pusztító sárlavina miatt vált ismertté 1938. november 21-én, amely heves esőzések után közel 100 emberéletet követelt. Ma ez egy kis település, amelyet sűrű erdő és meredek lejtők vesznek körül.",
+      ro: "Ravine Poisson este situat în Valea Cul de Sac, la sud de Castries. Localitatea a devenit cunoscută din cauza unei alunecări de teren devastatoare din 21 noiembrie 1938, care a ucis aproape 100 de persoane după ploi torențiale. Astăzi este o mică așezare înconjurată de păduri dese și pante abrupte.",
+      en: "Ravine Poisson is located in the Cul de Sac Valley south of Castries. The locality gained tragic fame due to a devastating mudslide on November 21, 1938, which claimed nearly 100 lives following torrential rains. Today, it is a small settlement surrounded by dense forest and steep slopes.",
+    },
+    factsAdvanced: {
+      de: ["Ort der Katastrophe von 1938", "Gedenkstätte für die Opfer der Schlammlawine", "Liegt im Cul de Sac Valley", "Steile geografische Lage", "Umgeben von tropischem Regenwald", "Zentrum für lokale Berglandwirtschaft"],
+      hu: ["Az 1938-as katasztrófa helyszíne", "Emlékhely a sárlavina áldozatainak", "A Cul de Sac-völgyben fekszik", "Meredek földrajzi elhelyezkedés", "Trópusi esőerdő veszi körül", "A helyi hegyi mezőgazdaság központja"],
+      ro: ["Locul dezastrului din 1938", "Memorial pentru victimele alunecării de teren", "Situat în Valea Cul de Sac", "Poziție geografică abruptă", "Înconjurat de pădure tropicală", "Centru pentru agricultura montană locală"],
+      en: ["Site of the 1938 disaster", "Memorial for mudslide victims", "Located in the Cul de Sac Valley", "Steep geographical setting", "Surrounded by tropical rainforest", "Center for local mountain agriculture"],
+    },
   },
   {
     id: "saintlucia-vanard-cities-v2",
@@ -722,6 +1166,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Major banana export production zone", "Site of the Vanard Combined School", "Rich in local river sources", "Traditional farming-oriented neighborhood"],
     },
     imageHint: "Vanard agricultural valley Saint Lucia",
+    descriptionAdvanced: {
+      de: "Vanard ist eine ländliche Gemeinde im Distrikt Castries im Westen von St. Lucia. Die Region ist stark durch die Landwirtschaft geprägt, wobei der Anbau von Bananen traditionell eine zentrale Rolle für die lokale Wirtschaft spielt. Das Dorf liegt eingebettet in die grünen Hügel des Roseau-Tals und bietet Einblicke in das authentische Leben abseits der touristischen Zentren.",
+      hu: "Vanard egy vidéki közösség Saint Lucia Castries negyedében, a sziget nyugati részén. A település és környéke jelentős mezőgazdasági terület, ahol a banántermesztés évtizedek óta a helyi megélhetés alapját jelenti. A Roseau-völgy buja dombjai között fekvő falu bepillantást enged a sziget autentikus, turizmustól mentes mindennapjaiba.",
+      ro: "Vanard este o comunitate rurală situată în districtul Castries, în partea de vest a insulei Sfânta Lucia. Regiunea este profund agricolă, cultivarea bananelor jucând un rol esențial în economia locală de mulți ani. Satul este așezat în dealurile verzi ale văii Roseau, oferind o perspectivă asupra vieții autentice, departe de centrele turistice.",
+      en: "Vanard is a rural community located in the Castries District in the western part of Saint Lucia. The region is heavily agricultural, with banana cultivation traditionally playing a central role in the local economy for many years. The village is nestled within the lush hills of the Roseau Valley, offering glimpses into authentic life away from tourist centers.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Distrikt Castries im Westen der Insel.", "Liegt im fruchtbaren Roseau-Tal.", "Wichtiger Standort für den Bananenanbau auf St. Lucia.", "Befindet sich etwa 10 Kilometer südlich der Hauptstadt.", "Die Region ist durch tropisches Regenwaldklima geprägt.", "Dient als Wohnort für viele landwirtschaftliche Arbeiter."],
+      hu: ["A sziget nyugati részén, Castries negyedben található.", "A termékeny Roseau-völgy területén fekszik.", "Saint Lucia egyik fontos banántermesztő központja.", "Körülbelül 10 kilométerre délre található a fővárostól.", "A régiót trópusi esőerdei éghajlat jellemzi.", "Sok mezőgazdasági munkás lakóhelyeként szolgál."],
+      ro: ["Aparține districtului Castries din vestul insulei.", "Este situat în valea fertilă Roseau.", "Centru important pentru cultivarea bananelor în Sfânta Lucia.", "Se află la aproximativ 10 kilometri sud de capitală.", "Regiunea este caracterizată de un climat tropical umed.", "Servește ca locuință pentru mulți lucrători agricoli."],
+      en: ["Part of the Castries District in the west of the island.", "Located within the fertile Roseau Valley region.", "Significant hub for banana cultivation in Saint Lucia.", "Situated approximately 10 kilometers south of the capital.", "The region is characterized by a tropical rainforest climate.", "Serves as a residential area for many agricultural workers."],
+    },
   },
   {
     id: "saintlucia-millet-cities-v2",
@@ -741,6 +1197,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Location of the Millet Bird Sanctuary", "Home to the endemic Saint Lucia Amazon parrot", "Features a major forest nature trail", "Hub for ecological and forest education"],
     },
     imageHint: "Millet rainforest nature trail Saint Lucia",
+    descriptionAdvanced: {
+      de: "Millet ist eine Siedlung im Landesinneren von St. Lucia, die vor allem für ihr bedeutendes Vogelschutzgebiet bekannt ist. Der Millet Bird Sanctuary Trail führt durch dichten Primärwald und bietet Lebensraum für zahlreiche endemische Vogelarten. Die Region dient als wichtiges Wassereinzugsgebiet für den Roseau-Staudamm, der die nördliche Inselhälfte mit Trinkwasser versorgt.",
+      hu: "Millet egy település Saint Lucia belső részén, amely elsősorban jelentős madárrezervátumáról ismert. A Millet Bird Sanctuary Trail sűrű őserdőn vezet keresztül, és számos endemikus madárfajnak nyújt élőhelyet. A régió fontos vízgyűjtő terület a Roseau-gát számára, amely a sziget északi felét látja el ivóvízzel.",
+      ro: "Millet este o așezare din interiorul insulei Sfânta Lucia, cunoscută în principal pentru rezervația sa importantă de păsări. Traseul Millet Bird Sanctuary trece prin pădure primară densă și oferă habitat pentru numeroase specii de păsări endemice. Regiunea servește ca un bazin hidrografic crucial pentru barajul Roseau, care alimentează cu apă potabilă jumătatea de nord a insulei.",
+      en: "Millet is an inland settlement in Saint Lucia, primarily known for its significant bird sanctuary. The Millet Bird Sanctuary Trail leads through dense primary forest and provides habitat for numerous endemic bird species. The region serves as a crucial catchment area for the Roseau Dam, which supplies drinking water to the northern half of the island.",
+    },
+    factsAdvanced: {
+      de: ["Heimat des bekannten Millet Bird Sanctuary.", "Über 30 verschiedene Vogelarten können hier beobachtet werden.", "Liegt im Einzugsgebiet des John Compton Damms (Roseau-Damm).", "Beherbergt seltene Arten wie den St. Lucia Papagei.", "Die Höhe sorgt für kühlere Temperaturen als an der Küste.", "Wichtiger Standort für den Ökotourismus im Inselinneren."],
+      hu: ["A jól ismert Millet Madárrezervátum otthona.", "Több mint 30 különböző madárfaj figyelhető meg itt.", "A John Compton-gát (Roseau-gát) vízgyűjtő területén fekszik.", "Olyan ritka fajoknak ad otthont, mint a Saint Lucia-i amazon.", "A tengerszint feletti magasság hűvösebb klímát biztosít.", "Az ökoturizmus fontos központja a sziget belsejében."],
+      ro: ["Găzduiește cunoscuta rezervație de păsări Millet.", "Peste 30 de specii diferite de păsări pot fi observate aici.", "Situat în bazinul hidrografic al barajului John Compton.", "Adăpostește specii rare, cum ar fi papagalul de Sfânta Lucia.", "Altitudinea oferă temperaturi mai scăzute decât pe coastă.", "Locație importantă pentru ecoturism în interiorul insulei."],
+      en: ["Home to the well-known Millet Bird Sanctuary.", "Over 30 different bird species can be observed here.", "Located in the catchment area of the John Compton Dam.", "Habitat for rare species like the St. Lucia Parrot.", "The altitude provides cooler temperatures than the coast.", "Significant site for ecotourism in the island's interior."],
+    },
   },
   {
     id: "saintlucia-roseau-cities-v2",
@@ -760,6 +1228,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Headquarters of St. Lucia Distillers", "Vast banana and sugar cane plantations", "Major producer of award-winning rums", "Known for the broad Roseau River"],
     },
     imageHint: "Roseau valley distillery Saint Lucia",
+    descriptionAdvanced: {
+      de: "Roseau ist ein bedeutendes Zentrum im Roseau-Tal auf St. Lucia, das historisch eng mit der Zuckerindustrie verknüpft ist. Heute beherbergt der Ort St. Lucia Distillers, die einzige verbliebene kommerzielle Rum-Brennerei der Insel. Das Tal ist eine der fruchtbarsten Regionen des Landes und wird heute intensiv für den kommerziellen Bananenanbau genutzt, nachdem die Zuckerrohrproduktion eingestellt wurde.",
+      hu: "Roseau egy jelentős központ a Saint Lucia-i Roseau-völgyben, amely történelmileg szorosan kapcsolódott a cukoriparhoz. Ma a település ad otthont a St. Lucia Distillersnek, a sziget egyetlen megmaradt kereskedelmi rumfőzdéjének. A völgy az ország egyik legtermékenyebb régiója, amelyet a cukornádtermelés leállítása óta intenzíven használnak kereskedelmi banántermesztésre.",
+      ro: "Roseau este un centru important în valea Roseau din Sfânta Lucia, legat istoric de industria zahărului. Astăzi, localitatea găzduiește St. Lucia Distillers, singura distilerie comercială de rom rămasă pe insulă. Valea este una dintre cele mai fertile regiuni ale țării și este utilizată intens pentru cultivarea bananelor după încetarea producției de trestie de zahăr.",
+      en: "Roseau is a significant center in the Roseau Valley of Saint Lucia, historically closely linked to the sugar industry. Today, the location is home to St. Lucia Distillers, the island's only remaining commercial rum distillery. The valley is one of the country's most fertile regions and is now extensively used for commercial banana cultivation following the end of sugar cane production.",
+    },
+    factsAdvanced: {
+      de: ["Sitz der St. Lucia Distillers Gruppe.", "Einst Standort einer großen Zuckerfabrik (Roseau Sugar Factory).", "Produziert bekannte Rumsorten wie Chairman's Reserve.", "Das Tal wurde in den 1960ern von Zucker auf Bananen umgestellt.", "Liegt südlich der Hauptstadt Castries an der Westküste.", "Wichtiger Wirtschaftsfaktor für die Region Anse la Raye."],
+      hu: ["A St. Lucia Distillers csoport székhelye.", "Egykor egy nagy cukorgyár (Roseau Sugar Factory) helyszíne.", "Olyan ismert rumokat gyárt, mint a Chairman's Reserve.", "A völgyet az 1960-as években állították át cukorról banánra.", "A fővárostól, Castriestől délre, a nyugati parton fekszik.", "Fontos gazdasági tényező Anse la Raye régiója számára."],
+      ro: ["Sediul grupului St. Lucia Distillers.", "Fostul amplasament al unei mari fabrici de zahăr (Roseau Sugar Factory).", "Produce sortimente de rom cunoscute, precum Chairman's Reserve.", "Valea a fost convertită de la zahăr la banane în anii 1960.", "Situat la sud de capitala Castries, pe coasta de vest.", "Factor economic important pentru regiunea Anse la Raye."],
+      en: ["Headquarters of the St. Lucia Distillers Group.", "Former site of a major sugar factory (Roseau Sugar Factory).", "Produces well-known rums such as Chairman's Reserve.", "The valley transitioned from sugar to bananas in the 1960s.", "Located south of the capital Castries on the west coast.", "Key economic driver for the Anse la Raye region."],
+    },
   },
   {
     id: "saintlucia-marigot-bay-cities-v2",
@@ -779,6 +1259,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Known as a 'hurricane hole' (safe harbor)", "Filming location for the movie Doctor Dolittle", "Features cross-bay ferry services", "Site of historic French-British naval battles"],
     },
     imageHint: "Marigot Bay yachts and palms Saint Lucia",
+    descriptionAdvanced: {
+      de: "Marigot Bay gilt als einer der schönsten Naturhäfen der Karibik und hat eine bewegte Militärgeschichte als strategischer Rückzugsort der französischen Flotte. Die von Palmen gesäumte Bucht ist heute ein exklusives Ziel für Yachten und beherbergt luxuriöse Resorts. Historisch war sie Schauplatz zahlreicher Seeschlachten zwischen Briten und Franzosen um die Vorherrschaft auf St. Lucia.",
+      hu: "Marigot Bay a Karib-térség egyik legszebb természetes kikötője, amely mozgalmas katonai múlttal rendelkezik, mint a francia flotta stratégiai menedékhelye. A pálmákkal szegélyezett öböl ma exkluzív jachtkikötő és luxusüdülőhelyek otthona. Történelmileg számos tengeri csata helyszíne volt a britek és a franciák között a Saint Lucia feletti uralomért.",
+      ro: "Marigot Bay este considerat unul dintre cele mai frumoase porturi naturale din Caraibe și are o istorie militară bogată ca refugiu strategic pentru flota franceză. Golful mărginit de palmiere este astăzi o destinație exclusivistă pentru iahturi și găzduiește stațiuni de lux. Istoric, a fost locul a numeroase bătălii navale între britanici și francezi pentru supremația asupra insulei.",
+      en: "Marigot Bay is considered one of the most beautiful natural harbors in the Caribbean and has a colorful military history as a strategic hideout for the French fleet. The palm-lined bay is now an exclusive destination for yachts and home to luxury resorts. Historically, it was the site of numerous naval battles between the British and French for control over Saint Lucia.",
+    },
+    factsAdvanced: {
+      de: ["Natürlicher Hurrikan-Schutzhafen für Schiffe.", "Drehort für den Film 'Doctor Dolittle' aus dem Jahr 1967.", "Admiral Rodney versteckte hier 1778 seine Schiffe.", "Heimat einer Marina der Superlative für Megayachten.", "Die Bucht wird durch eine schmale Landzunge geschützt.", "Verfügt über seltene Mangrovenökosysteme am Ufer."],
+      hu: ["Természetes hurrikánbiztos kikötő a hajók számára.", "Az 1967-es 'Doctor Dolittle' című film forgatási helyszíne.", "Rodney admirális itt rejtette el hajóit 1778-ban.", "Szuperjachtok számára kialakított modern marina otthona.", "Az öblöt egy keskeny földnyelv védi.", "Ritka mangrove-ökoszisztémákkal rendelkezik a parton."],
+      ro: ["Port natural de protecție împotriva uraganelor pentru nave.", "Locul de filmare pentru filmul 'Doctor Dolittle' din 1967.", "Amiralul Rodney și-a ascuns navele aici în 1778.", "Găzduiește o marină modernă pentru iahturi de mari dimensiuni.", "Golful este protejat de o fâșie îngustă de pământ.", "Dispune de ecosisteme rare de mangrove pe mal."],
+      en: ["Natural hurricane hole providing safe shelter for ships.", "Filming location for the 1967 movie 'Doctor Dolittle'.", "Admiral Rodney hid his ships here in 1778.", "Home to a high-end marina for mega yachts.", "The bay is protected by a narrow sand spit.", "Features rare mangrove ecosystems along its shores."],
+    },
   },
   {
     id: "saintlucia-la-croix-maingot-cities-v2",
@@ -798,6 +1290,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of a combined primary and junior school", "Major junction on the highway route", "Home to many commuting professionals", "Provides panoramic views of the coastline"],
     },
     imageHint: "La Croix Maingot hill views Saint Lucia",
+    descriptionAdvanced: {
+      de: "La Croix Maingot ist ein erhöht gelegenes Dorf südlich von Castries, das weite Ausblicke über die umliegenden Täler bietet. Die Gemeinde ist vorwiegend wohnwirtschaftlich geprägt und dient vielen Pendlern als ruhiger Rückzugsort in der Nähe der Hauptstadt. Die hügelige Topographie und die üppige Vegetation sind charakteristisch für diesen Teil des Castries-Distrikts.",
+      hu: "La Croix Maingot egy magasan fekvő falu Castriestől délre, amely tágas kilátást nyújt a környező völgyekre. A közösség elsősorban lakóövezet, amely sok ingázó számára szolgál csendes menedékként a főváros közelében. A dombos domborzat és a dús vegetáció jellemző Castries negyed ezen részére.",
+      ro: "La Croix Maingot este un sat situat la altitudine, la sud de Castries, oferind vederi largi asupra văilor din jur. Comunitatea este predominant rezidențială și servește ca un refugiu liniștit pentru mulți navetiști din apropierea capitalei. Topografia deluroasă și vegetația luxuriantă sunt caracteristice acestei părți a districtului Castries.",
+      en: "La Croix Maingot is an elevated village located south of Castries, offering wide views over the surrounding valleys. The community is predominantly residential, serving as a quiet retreat for many commuters near the capital. The hilly topography and lush vegetation are characteristic of this part of the Castries District.",
+    },
+    factsAdvanced: {
+      de: ["Gehört administrativ zum Distrikt Castries.", "Befindet sich an der Verbindungsstraße nach Marigot Bay.", "Höhenlage bietet Panoramablick auf die Westküste.", "In der Nähe befinden sich bedeutende Bananenplantagen.", "Die Bevölkerung besteht überwiegend aus lokalen Familien.", "Wichtiger Knotenpunkt für den regionalen Minibus-Verkehr."],
+      hu: ["Közigazgatásilag Castries negyedhez tartozik.", "A Marigot Bay-be vezető összekötő út mentén található.", "A magassága panorámás kilátást nyújt a nyugati partra.", "A közelben jelentős banánültetvények találhatók.", "Lakossága túlnyomórészt helyi családokból áll.", "Fontos csomópont a regionális minibusz-közlekedésben."],
+      ro: ["Aparține administrativ de districtul Castries.", "Situat pe drumul de legătură către Marigot Bay.", "Altitudinea oferă vederi panoramice ale coastei de vest.", "În apropiere se află plantații importante de banane.", "Populația este formată preponderent din familii locale.", "Nod important pentru traficul regional de microbuze."],
+      en: ["Administratively falls under the Castries District.", "Located on the connecting road to Marigot Bay.", "Elevated position offers panoramic views of the west coast.", "Significant banana plantations are located nearby.", "The population consists mainly of local families.", "Important hub for regional minibus transportation."],
+    },
   },
   {
     id: "saintlucia-vigie-cities-v2",
@@ -817,6 +1321,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of George F.L. Charles Airport", "Home to the historic Vigie Lighthouse", "Strategic military point in colonial history", "Known for its popular white sand public beach"],
     },
     imageHint: "Vigie airport and beach Saint Lucia",
+    descriptionAdvanced: {
+      de: "Vigie ist eine geschichtsträchtige Halbinsel nördlich des Hafens von Castries, auf der sich heute der Regionalflughafen George F. L. Charles befindet. Die Gegend war aufgrund ihrer strategischen Lage über Jahrhunderte ein militärischer Vorposten mit Befestigungsanlagen und Kasernen. Der Vigie Lighthouse und der nahegelegene weiße Sandstrand machen die Halbinsel heute zu einem beliebten Erholungsgebiet.",
+      hu: "Vigie egy történelmi félsziget a Castries-i kikötőtől északra, ahol ma a George F. L. Charles regionális repülőtér található. A terület stratégiai elhelyezkedése miatt évszázadokon át katonai előőrs volt erődítményekkel és laktanyákkal. A Vigie világítótorony és a közeli fehér homokos strand ma népszerű üdülőövezetté teszi a félszigetet.",
+      ro: "Vigie este o peninsulă istorică situată la nord de portul Castries, unde se află astăzi aeroportul regional George F. L. Charles. Datorită locației sale strategice, zona a fost timp de secole un avanpost militar cu fortificații și cazărmi. Farul Vigie și plaja cu nisip alb din apropiere fac din peninsulă o zonă de recreere populară în prezent.",
+      en: "Vigie is a historic peninsula north of Castries harbor, currently home to the George F. L. Charles regional airport. Due to its strategic location, the area was a military outpost for centuries, featuring fortifications and barracks. The Vigie Lighthouse and the nearby white sand beach make the peninsula a popular recreational area today.",
+    },
+    factsAdvanced: {
+      de: ["Standort des George F. L. Charles Airports (SLU).", "Sitz vieler ausländischer Botschaften auf St. Lucia.", "Der Vigie Lighthouse wurde 1883 erbaut.", "War Schauplatz der Schlacht von Vigie im Jahr 1778.", "Der Vigie Beach erstreckt sich über zwei Kilometer.", "Beherbergt alte Militärkasernen aus der britischen Ära."],
+      hu: ["A George F. L. Charles repülőtér (SLU) helyszíne.", "Számos külföldi nagykövetség székhelye Saint Lucián.", "A Vigie világítótorony 1883-ban épült.", "Az 1778-as Vigie-i csata helyszíne volt.", "A Vigie strand több mint két kilométer hosszan nyúlik el.", "A brit korszakból származó régi katonai laktanyáknak ad otthont."],
+      ro: ["Locația aeroportului George F. L. Charles (SLU).", "Sediul multor ambasade străine din Sfânta Lucia.", "Farul Vigie a fost construit în anul 1883.", "A fost locul bătăliei de la Vigie în 1778.", "Plaja Vigie se întinde pe o lungime de doi kilometri.", "Găzduiește vechi cazărmi militare din epoca britanică."],
+      en: ["Site of the George F. L. Charles Airport (SLU).", "Location of many foreign embassies in Saint Lucia.", "The Vigie Lighthouse was constructed in 1883.", "Site of the Battle of Vigie in 1778.", "Vigie Beach extends for over two kilometers.", "Home to old military barracks from the British era."],
+    },
   },
   {
     id: "saintlucia-morne-fortune-cities-v2",
@@ -836,6 +1352,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Home to the Sir Arthur Lewis Community College", "Site of the official Government House", "Scene of frequent battles between French and British", "Features well-preserved military fortifications"],
     },
     imageHint: "Morne Fortune viewpoints and college Saint Lucia",
+    descriptionAdvanced: {
+      de: "Morne Fortune, der 'Hügel des Glücks', überragt die Hauptstadt Castries und ist eine der wichtigsten historischen Stätten der Insel. Der Gipfel beherbergt Fort Charlotte, eine massive Verteidigungsanlage, die während der Kolonialkriege mehrfach den Besitzer wechselte. Heute befinden sich hier Bildungseinrichtungen wie das Sir Arthur Lewis Community College sowie Denkmäler für gefallene Soldaten.",
+      hu: "Morne Fortune, a 'Szerencse-domb', a főváros, Castries fölé magasodik, és a sziget egyik legfontosabb történelmi helyszíne. A csúcson található a Fort Charlotte, egy masszív védelmi létesítmény, amely a gyarmati háborúk során többször is gazdát cserélt. Ma itt oktatási intézmények, például a Sir Arthur Lewis Community College, valamint az elesett katonák emlékművei találhatók.",
+      ro: "Morne Fortune, 'Dealul Norocului', domină capitala Castries și este unul dintre cele mai importante situri istorice de pe insulă. Vârful găzduiește Fort Charlotte, o structură defensivă masivă care a schimbat stăpânul de mai multe ori în timpul războaielor coloniale. Astăzi, aici se află instituții de învățământ, precum Sir Arthur Lewis Community College, și monumente dedicate soldaților căzuți.",
+      en: "Morne Fortune, the 'Hill of Good Luck,' overlooks the capital Castries and is one of the island's most significant historical sites. The summit houses Fort Charlotte, a massive defensive structure that changed hands several times during colonial wars. Today, it hosts educational institutions like the Sir Arthur Lewis Community College, along with monuments to fallen soldiers.",
+    },
+    factsAdvanced: {
+      de: ["Fort Charlotte wurde ab 1764 von den Franzosen begonnen.", "Bietet den besten Panoramablick auf den Hafen von Castries.", "Beherbergt das Sir Arthur Lewis Community College.", "Standort des Denkmals für das 27. Inniskilling Regiment.", "Sitz des Government House, der Residenz des Generalgouverneurs.", "Liegt auf einer Höhe von etwa 260 Metern über dem Meer."],
+      hu: ["Fort Charlotte építését 1764-ben kezdték a franciák.", "A legjobb panorámás kilátást nyújtja Castries kikötőjére.", "A Sir Arthur Lewis Community College otthona.", "A 27. Inniskilling ezred emlékművének helyszíne.", "Itt található a Kormányház, a főkormányzó rezidenciája.", "Körülbelül 260 méteres tengerszint feletti magasságban fekszik."],
+      ro: ["Construcția Fortului Charlotte a fost începută de francezi în 1764.", "Oferă cea mai bună vedere panoramică asupra portului Castries.", "Găzduiește Sir Arthur Lewis Community College.", "Locația monumentului dedicat Regimentului 27 Inniskilling.", "Sediul Government House, reședința Guvernatorului General.", "Situat la o altitudine de aproximativ 260 de metri deasupra mării."],
+      en: ["Construction of Fort Charlotte began in 1764 by the French.", "Offers the best panoramic view of Castries harbor.", "Home to the Sir Arthur Lewis Community College.", "Site of the monument for the 27th Inniskilling Regiment.", "Location of Government House, the Governor General's residence.", "Situated at an altitude of about 260 meters above sea level."],
+    },
   },
   {
     id: "saintlucia-marchand-cities-v2",
@@ -855,6 +1383,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of the Marchand Grounds sports complex", "Known for its local neighborhood markets", "Hub for community culture and activism", "Densely populated urban residential area"],
     },
     imageHint: "Marchand street and community Saint Lucia",
+    descriptionAdvanced: {
+      de: "Marchand ist ein lebhaftes und dicht besiedeltes Viertel am südlichen Stadtrand von Castries. Es ist bekannt für seine starke Gemeinschaftskultur und dient als wichtiges Wohngebiet für die Arbeiterklasse der Hauptstadt. In Marchand finden sich zahlreiche lokale Geschäfte, Sporteinrichtungen und Schulen, die das urbane Gefüge von St. Lucia widerspiegeln.",
+      hu: "Marchand egy élénk és sűrűn lakott negyed Castries déli szélén. Erős közösségi kultúrájáról ismert, és a főváros munkásosztályának fontos lakónegyedeként szolgál. Marchandban számos helyi üzlet, sportlétesítmény és iskola található, amelyek Saint Lucia városi szövetét tükrözik.",
+      ro: "Marchand este un cartier vibrant și dens populat de la periferia sudică a orașului Castries. Este cunoscut pentru cultura sa comunitară puternică și servește ca zonă rezidențială importantă pentru clasa muncitoare a capitalei. În Marchand se găsesc numeroase magazine locale, facilități sportive și școli care reflectă țesutul urban al insulei.",
+      en: "Marchand is a vibrant and densely populated neighborhood on the southern outskirts of Castries. It is known for its strong community culture and serves as a major residential area for the capital's working class. Marchand features numerous local shops, sports facilities, and schools that reflect the urban fabric of Saint Lucia.",
+    },
+    factsAdvanced: {
+      de: ["Marchand Grounds ist ein bekannter lokaler Sportplatz.", "Dient als Austragungsort für Gemeinschaftsveranstaltungen.", "Wichtiger Standort für das Grundschulwesen in Castries.", "Die Region hat eine hohe Bevölkerungsdichte.", "Liegt in fußläufiger Entfernung zum Stadtzentrum von Castries.", "Spielt eine zentrale Rolle in der politischen Landschaft der Insel."],
+      hu: ["A Marchand Grounds egy jól ismert helyi sportpálya.", "Közösségi események és fesztiválok helyszíneként szolgál.", "Castries alapfokú oktatásának egyik fontos központja.", "A régió népsűrűsége igen magas.", "Gyalogos távolságra fekszik Castries városközpontjától.", "Központi szerepet játszik a sziget politikai életében."],
+      ro: ["Marchand Grounds este un teren de sport local bine cunoscut.", "Servește ca loc de desfășurare pentru evenimente comunitare.", "Locație importantă pentru învățământul primar în Castries.", "Regiunea are o densitate ridicată a populației.", "Situat la distanță de mers pe jos de centrul orașului Castries.", "Joacă un rol central în peisajul politic al insulei."],
+      en: ["Marchand Grounds is a well-known local sports field.", "Serves as a venue for community events and festivals.", "Important site for primary education in Castries.", "The region has a high population density.", "Located within walking distance of Castries city center.", "Plays a central role in the island's political landscape."],
+    },
   },
   {
     id: "saintlucia-entrepot-cities-v2",
@@ -874,6 +1414,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of the Entrepot Secondary School", "Major road junction for urban traffic", "Home to several public housing schemes", "Proximity to regional sports facilities"],
     },
     imageHint: "Entrepot schools and residences Saint Lucia",
+    descriptionAdvanced: {
+      de: "Entrepot ist ein etablierter Vorort östlich des Stadtzentrums von Castries, der primär als Wohngebiet dient. Der Ort ist bekannt für seine weiterführenden Schulen und die gute Anbindung an die Infrastruktur der Hauptstadt. Viele Familien bevorzugen Entrepot aufgrund der ruhigeren Lage im Vergleich zum geschäftigen Stadtkern bei gleichzeitig kurzen Wegen zum Arbeitsplatz.",
+      hu: "Entrepot egy jól bevált külváros Castries városközpontjától keletre, amely elsősorban lakóövezetként szolgál. A település ismert középiskoláiról és a főváros infrastruktúrájához való jó csatlakozásáról. Sok család részesíti előnyben Entrepot-t a nyüzsgő városközponthoz képest nyugodtabb elhelyezkedése és a munkahelyek közelsége miatt.",
+      ro: "Entrepot este o suburbie stabilită la est de centrul orașului Castries, care servește în principal ca zonă rezidențială. Localitatea este cunoscută pentru școlile sale secundare și legăturile bune cu infrastructura capitalei. Multe familii preferă Entrepot datorită locației sale mai liniștite în comparație cu centrul aglomerat, oferind în același timp distanțe scurte până la locul de muncă.",
+      en: "Entrepot is an established suburb east of Castries city center, serving primarily as a residential area. The location is known for its secondary schools and good connections to the capital's infrastructure. Many families prefer Entrepot for its quieter setting compared to the bustling city core while maintaining short commutes to workplaces.",
+    },
+    factsAdvanced: {
+      de: ["Heimat der Entrepot Secondary School.", "Wohngebiet für mittlere Einkommensschichten in Castries.", "Liegt an der Hauptverkehrsader Richtung Inselinneren.", "Verfügt über lokale Gesundheitszentren für die Gemeinde.", "Wurde in der zweiten Hälfte des 20. Jahrhunderts ausgebaut.", "Bietet Blick auf die grünen Hügel hinter der Hauptstadt."],
+      hu: ["Az Entrepot Secondary School otthona.", "Közepes jövedelmű rétegek lakóövezete Castriesben.", "A sziget belseje felé vezető fő közlekedési útvonal mentén fekszik.", "Helyi egészségügyi központokkal rendelkezik a közösség számára.", "A 20. század második felében épült ki jelentősebben.", "Kilátást nyújt a főváros mögötti zöld dombokra."],
+      ro: ["Găzduiește școala secundară Entrepot.", "Zonă rezidențială pentru venituri medii în Castries.", "Situat pe principala arteră rutieră către interiorul insulei.", "Dispune de centre medicale locale pentru comunitate.", "S-a dezvoltat semnificativ în a doua jumătate a secolului XX.", "Oferă vederi spre dealurile verzi din spatele capitalei."],
+      en: ["Home to the Entrepot Secondary School.", "Residential area for middle-income earners in Castries.", "Located on the main road artery towards the island's interior.", "Features local health centers for the community.", "Developed significantly during the second half of the 20th century.", "Offers views of the lush green hills behind the capital."],
+    },
   },
   {
     id: "saintlucia-carellie-cities-v2",
@@ -893,6 +1445,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Preferred middle-class residential area", "Close to the Union government complex", "Features several community green spaces", "Well-connected to the northern corridor"],
     },
     imageHint: "Carellie residential development Saint Lucia",
+    descriptionAdvanced: {
+      de: "Carellie ist ein moderner Wohnvorort im Nordosten von Castries, der für seine gepflegten Häuser und die ruhige Atmosphäre geschätzt wird. Die Siedlung hat sich in den letzten Jahrzehnten zu einem bevorzugten Wohnort für Fachkräfte und junge Familien entwickelt. Durch die Lage auf den Hügeln genießen viele Bewohner eine angenehme Brise und weite Blicke über die Küstenregion.",
+      hu: "Carellie egy modern lakóövezet Castries északkeleti részén, amelyet gondozott házai és nyugodt légköre miatt kedvelnek. A település az elmúlt évtizedekben a szakemberek és fiatal családok kedvelt lakóhelyévé vált. A dombokon való elhelyezkedésnek köszönhetően sok lakó élvezi a kellemes szellőt és a tágas kilátást a parti régióra.",
+      ro: "Carellie este o suburbie rezidențială modernă în nord-estul orașului Castries, apreciată pentru casele sale bine întreținute și atmosfera liniștită. Așezarea s-a dezvoltat în ultimele decenii ca un loc preferat de locuit pentru profesioniști și familii tinere. Datorită locației pe dealuri, mulți locuitori se bucură de o briză plăcută și de vederi largi asupra regiunii de coastă.",
+      en: "Carellie is a modern residential suburb in the northeast of Castries, valued for its well-maintained homes and quiet atmosphere. Over the last few decades, the settlement has developed into a preferred residential area for professionals and young families. Due to its hillside location, many residents enjoy a pleasant breeze and expansive views over the coastal region.",
+    },
+    factsAdvanced: {
+      de: ["Bevorzugtes Wohnviertel für Fachkräfte in Castries.", "Bekannt für seine geplante Siedlungsstruktur.", "Liegt nordöstlich des Stadtzentrums von Castries.", "Bietet eine gute Anbindung an den Choc Highway.", "Die Gegend ist durch Einfamilienhäuser geprägt.", "Höhenlage sorgt für natürliches Belüftungsklima."],
+      hu: ["A szakemberek kedvelt lakónegyede Castriesben.", "Tervezett településszerkezetéről ismert.", "Castries városközpontjától északkeletre fekszik.", "Jó összeköttetést biztosít a Choc autópályához.", "A területet családi házas beépítés jellemzi.", "A magasan fekvő terület természetes szellőzést biztosít."],
+      ro: ["Cartier rezidențial preferat pentru profesioniști în Castries.", "Cunoscut pentru structura sa de așezare planificată.", "Situat la nord-est de centrul orașului Castries.", "Oferă o conexiune bună la autostrada Choc.", "Zona este caracterizată de case unifamiliale.", "Altitudinea oferă un climat de ventilație naturală."],
+      en: ["Preferred residential neighborhood for professionals in Castries.", "Known for its planned settlement structure.", "Located northeast of Castries city center.", "Provides good access to the Choc Highway.", "The area is characterized by single-family homes.", "Hillside location provides a natural cooling climate."],
+    },
   },
   {
     id: "saintlucia-chase-gardens-cities-v2",
@@ -912,6 +1476,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of several local educational centers", "Hub for urban community development", "Densely populated city neighborhood", "Key stop on major public transit routes"],
     },
     imageHint: "Chase Gardens houses Saint Lucia",
+    descriptionAdvanced: {
+      de: "Chase Gardens ist ein Vorort von Castries, der direkt an das Stadtzentrum angrenzt und eine Mischung aus Wohn- und Gewerbeflächen bietet. Die Siedlung ist Teil des urbanen Expansionsgebiets der Hauptstadt und beherbergt eine diverse Bevölkerung. Aufgrund der zentralen Lage ist Chase Gardens ein wichtiger Standort für kleine Unternehmen und bietet schnellen Zugang zu den Regierungsgebäuden.",
+      hu: "Chase Gardens Castries egyik külvárosa, amely közvetlenül határos a városközponttal, és lakó- és kereskedelmi területek keverékét kínálja. A település a főváros városi terjeszkedési övezetének része, és változatos lakosságnak ad otthont. Központi elhelyezkedése miatt Chase Gardens fontos helyszín a kisvállalkozások számára, és gyors hozzáférést biztosít a kormányzati épületekhez.",
+      ro: "Chase Gardens este o suburbie a orașului Castries, care se învecinează direct cu centrul orașului și oferă un amestec de zone rezidențiale și comerciale. Așezarea face parte din zona de expansiune urbană a capitalei și găzduiește o populație diversă. Datorită locației sale centrale, Chase Gardens este o locație importantă pentru întreprinderile mici și oferă acces rapid la clădirile guvernamentale.",
+      en: "Chase Gardens is a suburb of Castries, directly bordering the city center and offering a mix of residential and commercial spaces. The settlement is part of the capital's urban expansion area and home to a diverse population. Due to its central location, Chase Gardens is a key site for small businesses and provides quick access to government buildings.",
+    },
+    factsAdvanced: {
+      de: ["Unmittelbar östlich des Zentrums von Castries gelegen.", "Dient als wichtiger Transitkorridor für Pendler.", "Beherbergt verschiedene religiöse Einrichtungen.", "Die Besiedlung begann verstärkt in den 1970er Jahren.", "Mischung aus traditioneller und moderner Architektur.", "Zentraler Punkt für den städtischen Busverkehr."],
+      hu: ["Közvetlenül Castries központjától keletre található.", "Fontos tranzitfolyosóként szolgál az ingázók számára.", "Különböző vallási intézményeknek ad otthont.", "A betelepülés az 1970-es években erősödött fel.", "A hagyományos és a modern építészet keveredik itt.", "A városi buszközlekedés egyik központi pontja."],
+      ro: ["Situat imediat la est de centrul orașului Castries.", "Servește ca un coridor de tranzit important pentru navetiști.", "Găzduiește diverse instituții religioase.", "Așezarea s-a intensificat începând cu anii 1970.", "Amestec de arhitectură tradițională și modernă.", "Punct central pentru traficul urban de autobuze."],
+      en: ["Located immediately east of Castries city center.", "Serves as a major transit corridor for commuters.", "Home to various religious institutions.", "Settlement intensified during the 1970s.", "Features a mix of traditional and modern architecture.", "A central point for urban bus transportation."],
+    },
   },
   {
     id: "saintlucia-la-clery-cities-v2",
@@ -931,6 +1507,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of the landmark La Clery Church", "Residential hub for city workers", "Close proximity to Vigie Airport", "Known for its local community initiatives"],
     },
     imageHint: "La Clery church and homes Saint Lucia",
+    descriptionAdvanced: {
+      de: "La Clery ist ein nördlicher Vorort von Castries, der sich durch seine unmittelbare Nähe zum Vigie Beach und zum Regionalflughafen auszeichnet. Das Viertel ist eines der älteren und bestablierten Wohngebiete der Hauptstadt und verfügt über eine eigene Identität mit lokaler Kirche, Post und Märkten. Es gilt als Tor zu den nördlichen Hotelgebieten der Insel.",
+      hu: "La Clery Castries egyik északi külvárosa, amelyet a Vigie strand és a regionális repülőtér közvetlen közelsége jellemez. A negyed a főváros egyik régebbi és legjobban kiépített lakóövezete, saját identitással, helyi templommal, postával és piacokkal rendelkezik. A sziget északi szállodai övezetei felé vezető kapuként tekintenek rá.",
+      ro: "La Clery este o suburbie nordică a orașului Castries, caracterizată prin proximitatea sa imediată de plaja Vigie și aeroportul regional. Cartierul este una dintre cele mai vechi și mai bine stabilite zone rezidențiale ale capitalei, având o identitate proprie cu biserică locală, poștă și piețe. Este considerat o poartă către zonele hoteliere din nordul insulei.",
+      en: "La Clery is a northern suburb of Castries, characterized by its immediate proximity to Vigie Beach and the regional airport. The neighborhood is one of the older and most well-established residential areas of the capital, possessing its own identity with a local church, post office, and markets. It is considered a gateway to the island's northern hotel areas.",
+    },
+    factsAdvanced: {
+      de: ["Liegt nördlich des Castries River.", "Beherbergt die römisch-katholische Kirche St. Joseph.", "Wichtiger Wohnort für Flughafenmitarbeiter.", "Verfügt über ein eigenes kommunales Gesundheitszentrum.", "Eines der am besten erschlossenen Stadtviertel.", "Befindet sich direkt am Weg zum Rodney Bay Resort-Gebiet."],
+      hu: ["A Castries-folyótól északra található.", "A Szent József római katolikus templom otthona.", "Fontos lakóhely a repülőtéri dolgozók számára.", "Saját közösségi egészségügyi központtal rendelkezik.", "A főváros egyik legjobban közművesített negyede.", "Közvetlenül a Rodney Bay üdülőövezet felé vezető úton fekszik."],
+      ro: ["Situat la nord de râul Castries.", "Găzduiește biserica romano-catolică Sfântul Iosif.", "Loc de reședință important pentru angajații aeroportului.", "Dispune de propriul centru de sănătate comunitar.", "Unul dintre cele mai bine dezvoltate cartiere urbane.", "Se află direct pe drumul către zona turistică Rodney Bay."],
+      en: ["Located north of the Castries River.", "Home to the St. Joseph the Worker Roman Catholic Church.", "Major residential area for airport employees.", "Features its own community health center.", "One of the most well-serviced neighborhoods in the capital.", "Situated directly on the path to the Rodney Bay resort area."],
+    },
   },
   {
     id: "saintlucia-vide-bouteille-cities-v2",
@@ -950,6 +1538,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of the Vide Bouteille Secondary School", "Home to the Saint Lucia National Archives", "Houses several regional health clinics", "The name literally means 'Empty Bottle' in French"],
     },
     imageHint: "Vide Bouteille area Castries Saint Lucia",
+    descriptionAdvanced: {
+      de: "Vide Bouteille ist ein Küstengebiet im Nordwesten von St. Lucia, das sich von der Bucht von Vigie bis nach Choc erstreckt. Die Region hat sich zu einem bedeutenden Wirtschaftskorridor entwickelt, in dem sich Gewerbebetriebe, Schulen und Einkaufszentren konzentrieren. Historisch leitet sich der Name von 'leere Flasche' ab, was auf die frühere Präsenz von Gasthäusern entlang der Hauptstraße hindeutet.",
+      hu: "Vide Bouteille egy parti terület Saint Lucia északnyugati részén, amely a Vigie-öböltől Choc-ig terjed. A régió jelentős gazdasági folyosóvá vált, ahol kereskedelmi létesítmények, iskolák és bevásárlóközpontok koncentrálódnak. Történelmileg a név az 'üres üvegből' származik, ami a főút menti egykori vendégfogadók jelenlétére utal.",
+      ro: "Vide Bouteille este o zonă de coastă în nord-vestul insulei Sfânta Lucia, care se întinde de la golful Vigie până la Choc. Regiunea s-a dezvoltat într-un coridor economic important, unde sunt concentrate întreprinderi comerciale, școli și centre comerciale. Istoric, numele derivă din 'sticlă goală', sugerând prezența fostelor hanuri de-a lungul drumului principal.",
+      en: "Vide Bouteille is a coastal area in northwestern Saint Lucia, extending from Vigie Bay to Choc. The region has evolved into a major economic corridor with a concentration of commercial businesses, schools, and shopping centers. Historically, the name is derived from 'empty bottle,' hinting at the former presence of inns along the main road.",
+    },
+    factsAdvanced: {
+      de: ["Standort der Sir Ira Simmons Secondary School.", "Wichtiger Standort für Kfz-Händler und Autowerkstätten.", "Begrenzt durch das Karibische Meer im Westen.", "Der Name ist französischen Ursprungs.", "Beherbergt moderne Gewerbekomplexe wie das Gablewoods Mall.", "Zentraler Abschnitt des Autobahnnetzes im Norden."],
+      hu: ["A Sir Ira Simmons Secondary School helyszíne.", "Gépjármű-kereskedések és szervizek fontos központja.", "Nyugatról a Karib-tenger határolja.", "A név francia eredetű (üres üveg).", "Olyan modern kereskedelmi komplexumok otthona, mint a Gablewoods Mall.", "Az északi autópálya-hálózat központi szakasza."],
+      ro: ["Locația școlii secundare Sir Ira Simmons.", "Centru important pentru dealeri auto și ateliere de reparații.", "Mărginit de Marea Caraibilor la vest.", "Numele este de origine franceză.", "Găzduiește complexe comerciale moderne, cum ar fi Gablewoods Mall.", "Secțiune centrală a rețelei de autostrăzi din nord."],
+      en: ["Site of the Sir Ira Simmons Secondary School.", "Major location for car dealerships and auto repair shops.", "Bordered by the Caribbean Sea to the west.", "The name is of French origin, meaning 'Empty Bottle'.", "Home to modern commercial complexes like Gablewoods Mall.", "Central section of the northern highway network."],
+    },
   },
   {
     id: "saintlucia-bissee-cities-v2",
@@ -969,6 +1569,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Home to a significant industrial estate", "Site of the Bissee playing field", "Popular neighborhood for young professionals", "Center for several commercial service providers"],
     },
     imageHint: "Bissee residential and industrial area Saint Lucia",
+    descriptionAdvanced: {
+      de: "Bissee ist ein Industrie- und Wohngebiet im Norden von Castries, das eine Schlüsselrolle in der lokalen verarbeitenden Industrie spielt. Das Viertel beherbergt zahlreiche Lagerhallen, Fabriken und Werkstätten sowie eine wachsende Anzahl von Wohnhäusern. Die strategische Lage an der Hauptverkehrsader zwischen der Hauptstadt und dem Norden macht es zu einem attraktiven Standort für Logistikunternehmen.",
+      hu: "Bissee egy ipari és lakóövezet Castries északi részén, amely kulcsszerepet játszik a helyi feldolgozóiparban. A negyed számos raktárnak, gyárnak és műhelynek, valamint növekvő számú lakóháznak ad otthont. A főváros és az északi rész közötti fő közlekedési útvonal menti stratégiai elhelyezkedése vonzóvá teszi a logisztikai vállalatok számára.",
+      ro: "Bissee este o zonă industrială și rezidențială din nordul orașului Castries, care joacă un rol cheie în industria prelucrătoare locală. Cartierul găzduiește numeroase depozite, fabrici și ateliere, precum și un număr tot mai mare de locuințe. Locația strategică pe principala arteră dintre capitală și nord îl face o locație atractivă pentru companiile de logistică.",
+      en: "Bissee is an industrial and residential area in northern Castries that plays a key role in the local manufacturing industry. The neighborhood houses numerous warehouses, factories, and workshops, as well as a growing number of residential buildings. Its strategic location along the main artery between the capital and the north makes it an attractive site for logistics companies.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum des Bissee Industrial Estate.", "Standort für Getreideverarbeitung und Möbelherstellung.", "Liegt im Talbecken nordöstlich von Castries.", "Wichtiger Arbeitgeber für die lokale Bevölkerung.", "Beherbergt das Büro des St. Lucia Bureau of Standards.", "Anschluss an das städtische Wasser- und Stromnetz."],
+      hu: ["A Bissee Ipari Park központja.", "Gabonafeldolgozó és bútorgyártó üzemek helyszíne.", "A Castriestől északkeletre fekvő völgyben található.", "Fontos munkáltató a helyi lakosság számára.", "Itt található a Saint Lucia-i Szabványügyi Hivatal irodája.", "Csatlakozik a városi víz- és elektromos hálózathoz."],
+      ro: ["Centrul zonei industriale Bissee Industrial Estate.", "Locație pentru procesarea cerealelor și fabricarea mobilei.", "Situat în valea de la nord-est de Castries.", "Angajator important pentru populația locală.", "Găzduiește biroul Biroului de Standarde din Sfânta Lucia.", "Conectat la rețeaua municipală de apă și electricitate."],
+      en: ["Heart of the Bissee Industrial Estate.", "Location for grain processing and furniture manufacturing.", "Situated in the valley basin northeast of Castries.", "Major employer for the local population.", "Houses the office of the St. Lucia Bureau of Standards.", "Well-connected to the municipal water and power grid."],
+    },
   },
   {
     id: "saintlucia-sunny-acres-cities-v2",
@@ -988,6 +1600,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Upscale post-war residential development", "Walking distance to major supermarkets", "Offers views of the Caribbean Sea", "Known as a quiet and secure community"],
     },
     imageHint: "Sunny Acres neighborhood Saint Lucia",
+    descriptionAdvanced: {
+      de: "Sunny Acres ist eine gehobene Wohngegend an der Nordwestküste von St. Lucia, die für ihre attraktive Hanglage bekannt ist. Das Viertel bietet Bewohnern spektakuläre Ausblicke auf das Karibische Meer und eine ruhige, exklusive Atmosphäre in der Nähe kommerzieller Einrichtungen. Durch die Nähe zum Choc Beach und mehreren Hotels ist Sunny Acres eine begehrte Adresse für Immobilieninvestoren und Langzeitresidenten.",
+      hu: "Sunny Acres egy előkelő lakóövezet Saint Lucia északnyugati partján, amely vonzó domboldali elhelyezkedéséről ismert. A negyed látványos kilátást kínál a Karib-tengerre, valamint nyugodt, exkluzív légkört a kereskedelmi létesítmények közelében. A Choc strand és számos szálloda közelsége miatt Sunny Acres keresett cím az ingatlanbefektetők és a hosszú távú lakosok körében.",
+      ro: "Sunny Acres este o zonă rezidențială selectă de pe coasta de nord-vest a insulei Sfânta Lucia, cunoscută pentru locația sa atractivă pe versantul dealului. Cartierul oferă locuitorilor vederi spectaculoase asupra Mării Caraibilor și o atmosferă liniștită și exclusivistă în apropierea facilităților comerciale. Datorită proximității de plaja Choc și de mai multe hoteluri, Sunny Acres este o adresă căutată pentru investitorii imobiliari.",
+      en: "Sunny Acres is an upscale residential area on the northwest coast of Saint Lucia, known for its attractive hillside location. The neighborhood offers residents spectacular views of the Caribbean Sea and a quiet, exclusive atmosphere near commercial facilities. Its proximity to Choc Beach and several hotels makes Sunny Acres a sought-after address for real estate investors and long-term residents.",
+    },
+    factsAdvanced: {
+      de: ["Etabliertes Wohngebiet für die gehobene Mittelklasse.", "Bietet Blick auf die Bucht von Choc.", "Befindet sich zwischen Castries und Gros Islet.", "Wurde primär als Villenviertel in den 1980ern bekannt.", "In der Nähe befinden sich große Supermärkte.", "Die Topographie schützt vor direkten Küstenstürmen."],
+      hu: ["A felső középosztály jól kiépült lakóövezete.", "Kilátást nyújt a Choc-öbölre.", "Castries és Gros Islet között helyezkedik el.", "Elsősorban villanegyedként vált ismertté az 1980-as években.", "A közelben nagy szupermarketek találhatók.", "A domborzat védelmet nyújt a közvetlen parti viharok ellen."],
+      ro: ["Zonă rezidențială stabilită pentru clasa medie superioară.", "Oferă vedere spre golful Choc.", "Situat între Castries și Gros Islet.", "A devenit cunoscut în principal ca un cartier de vile în anii 1980.", "Supermarketuri mari se află în imediata apropiere.", "Topografia protejează împotriva furtunilor de coastă directe."],
+      en: ["Established residential area for the upper-middle class.", "Offers expansive views of Choc Bay.", "Located between Castries and Gros Islet.", "Became known primarily as a villa neighborhood in the 1980s.", "Large supermarkets are located nearby.", "The topography provides protection from direct coastal storms."],
+    },
   },
   {
     id: "saintlucia-beausejour-cities-v2",
@@ -1007,6 +1631,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of the Darren Sammy National Cricket Stadium", "Houses the island's premier tennis center", "Rapidly expanding residential area", "Formerly part of the Beausejour sugar estate"],
     },
     imageHint: "Beausejour cricket stadium Saint Lucia",
+    descriptionAdvanced: {
+      de: "Beausejour ist ein bedeutendes Wohn- und Sportviertel im Norden von Saint Lucia, nahe Gros Islet. Bekannt ist der Ort vor allem für das Daren Sammy Cricket Ground, das internationale Spiele ausrichtet. Die Gegend ist geprägt von moderner Architektur und einer gut entwickelten Infrastruktur.",
+      hu: "Beausejour egy jelentős lakó- és sportnegyed Saint Lucia északi részén, Gros Islet közelében. A terület legismertebb létesítménye a Daren Sammy Krikettstadion, amely számos nemzetközi mérkőzés helyszíne. A környéket modern építészet és jól kiépített infrastruktúra jellemzi.",
+      ro: "Beausejour este un cartier rezidențial și sportiv important din nordul insulei Sfânta Lucia, situat lângă Gros Islet. Localitatea este cunoscută în special pentru terenul de cricket Daren Sammy, care găzduiește meciuri internaționale. Zona se remarcă prin arhitectura modernă și infrastructura bine dezvoltată.",
+      en: "Beausejour is a prominent residential and sporting district in northern Saint Lucia, located near Gros Islet. The area is most famous for housing the Daren Sammy Cricket Ground, a premier international sports venue. It features modern housing developments and a well-established infrastructure.",
+    },
+    factsAdvanced: {
+      de: ["Heimat des Daren Sammy Cricket Ground", "Liegt im Quarter Gros Islet", "Benannt nach einer historischen Plantage", "Austragungsort der Cricket-Weltmeisterschaft 2007", "Verfügt über moderne Tennisanlagen", "Wichtiges Expansionsgebiet für Wohnraum"],
+      hu: ["A Daren Sammy Krikettstadion otthona", "Gros Islet negyedben található", "Egy történelmi ültetvényről kapta a nevét", "A 2007-es krikett-világbajnokság egyik helyszíne", "Modern teniszpályákkal rendelkezik", "Fontos lakóövezeti bővítési terület"],
+      ro: ["Găzduiește terenul de cricket Daren Sammy", "Situat în districtul Gros Islet", "Numit după o plantație istorică", "Locație pentru Cupa Mondială de Cricket din 2007", "Dispune de facilități moderne pentru tenis", "Zonă importantă de expansiune rezidențială"],
+      en: ["Home to the Daren Sammy Cricket Ground", "Located within the Gros Islet Quarter", "Named after a historic plantation estate", "Venue for the 2007 Cricket World Cup", "Features modern tennis facilities", "Major residential expansion area"],
+    },
   },
   {
     id: "saintlucia-bonne-terre-cities-v2",
@@ -1026,6 +1662,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Preferred location for expatriates", "Close proximity to the marina and beaches", "Offers scenic views of the Caribbean Sea", "The name translates to 'Good Earth' in French"],
     },
     imageHint: "Bonne Terre villas Saint Lucia",
+    descriptionAdvanced: {
+      de: "Bonne Terre ist eine gehobene Wohngegend im Norden von Saint Lucia, gelegen auf den Hügeln über Rodney Bay. Die Siedlung bietet einen weiten Blick auf das Karibische Meer und die umliegende Küstenlandschaft. Es ist ein ruhiges Viertel, das vor allem für seine Villen und Privatresidenzen bekannt ist.",
+      hu: "Bonne Terre egy előkelő lakónegyed Saint Lucia északi részén, a Rodney-öböl feletti dombokon. A település tágas kilátást nyújt a Karib-tengerre és a környező tengerparti tájra. Ez egy csendes negyed, amely elsősorban villáiról és magánrezidenciáiról ismert.",
+      ro: "Bonne Terre este o zonă rezidențială exclusivistă din nordul insulei Sfânta Lucia, situată pe dealurile de deasupra Golfului Rodney. Așezarea oferă o vedere panoramică asupra Mării Caraibilor și a peisajului de coastă înconjurător. Este un cartier liniștit, cunoscut pentru vilele și rezidențele sale private.",
+      en: "Bonne Terre is an upscale residential community in northern Saint Lucia, perched on the hills overlooking Rodney Bay. The settlement offers expansive views of the Caribbean Sea and the surrounding coastal landscape. It is a quiet neighborhood primarily known for its villas and private residences.",
+    },
+    factsAdvanced: {
+      de: ["Erhöhte Lage im Norden der Insel", "Blick auf die Rodney Bay Marina", "Hauptsächlich Wohngebiet der Oberklasse", "Besteht aus privaten Villenanlagen", "Nahe dem Beausejour Cricket Ground", "Name bedeutet 'Gute Erde' auf Französisch"],
+      hu: ["Magaslati fekvés a sziget északi részén", "Kilátás a Rodney Bay kikötőre", "Főleg felsőkategóriás lakóövezet", "Magánvillákból és birtokokból áll", "A Beausejour krikettpálya közelében található", "A név jelentése franciául 'Jó föld'"],
+      ro: ["Poziție elevată în nordul insulei", "Vedere spre portul de agrement Rodney Bay", "Zonă rezidențială predominant de lux", "Compusă din vile și proprietăți private", "Aproape de terenul de cricket Beausejour", "Numele înseamnă 'Pământ bun' în franceză"],
+      en: ["Elevated location in northern Saint Lucia", "Overlooks the Rodney Bay Marina", "Primarily an upscale residential area", "Consists of private villas and estates", "Close proximity to Beausejour Cricket Ground", "Name translates to 'Good Earth' in French"],
+    },
   },
   {
     id: "saintlucia-rodney-heights-cities-v2",
@@ -1045,6 +1693,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Home to the Rodney Heights Aquatic Centre", "Hub for several private educational institutions", "Offers views of Pigeon Island and the marina", "Popular neighborhood for business professionals"],
     },
     imageHint: "Rodney Heights hilltop residences Saint Lucia",
+    descriptionAdvanced: {
+      de: "Rodney Heights ist ein zentrales Wohn- und Geschäftsviertel oberhalb von Rodney Bay Village. Aufgrund seiner Lage bietet es schnellen Zugang zu Einkaufszentren, Restaurants und den Stränden des Nordens. Das Viertel kombiniert moderne Apartmentanlagen mit traditionellen Einfamilienhäusern.",
+      hu: "Rodney Heights egy központi lakó- és üzleti negyed Rodney Bay Village felett. Elhelyezkedése révén gyors hozzáférést biztosít a bevásárlóközpontokhoz, éttermekhez és az északi strandokhoz. A negyed modern apartmankomplexumokat és hagyományos családi házakat ötvöz.",
+      ro: "Rodney Heights este un cartier rezidențial și comercial central situat deasupra Rodney Bay Village. Datorită locației sale, oferă acces rapid la centre comerciale, restaurante și plajele din nord. Cartierul combină complexuri moderne de apartamente cu case tradiționale unifamiliale.",
+      en: "Rodney Heights is a central residential and commercial district situated above Rodney Bay Village. Its strategic location provides quick access to shopping malls, restaurants, and the northern beaches. The neighborhood features a mix of modern apartment complexes and traditional single-family homes.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Bezirk Gros Islet", "Befindet sich oberhalb der Rodney Bay", "Beherbergt medizinische Einrichtungen", "Wichtiger Standort für Dienstleistungssektor", "Blick auf Pigeon Island", "Nahe dem Baywalk Einkaufszentrum"],
+      hu: ["Gros Islet kerületben található", "A Rodney-öböl felett helyezkedik el", "Orvosi létesítményeknek ad otthont", "Fontos szolgáltató szektorbeli helyszín", "Kilátás nyílik a Pigeon-szigetre", "A Baywalk bevásárlóközpont közelében van"],
+      ro: ["Situat în districtul Gros Islet", "Poziționat deasupra Golfului Rodney", "Găzduiește facilități medicale", "Locație importantă pentru sectorul serviciilor", "Vedere spre Insula Pigeon", "Aproape de centrul comercial Baywalk"],
+      en: ["Located in the Gros Islet district", "Positioned above Rodney Bay", "Home to several medical facilities", "Key location for the service sector", "Views of Pigeon Island Landmark", "Close to Baywalk Shopping Mall"],
+    },
   },
   {
     id: "saintlucia-mon-repos-east-cities-v2",
@@ -1064,6 +1724,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Known for access to the Mamiku Bay area", "Important site for coconut and copra production", "Offers views of the open Atlantic Ocean", "Historically significant farming area"],
     },
     imageHint: "Mon Repos East Atlantic coast Saint Lucia",
+    descriptionAdvanced: {
+      de: "Mon Repos East liegt an der Ostküste von Saint Lucia im Quarter Micoud. Die Region ist landwirtschaftlich geprägt und bekannt für ihre sanften Hügel und die Nähe zum Atlantischen Ozean. Es ist ein ländliches Zentrum, das eine ruhige Atmosphäre abseits der touristischen Gebiete im Norden bietet.",
+      hu: "Mon Repos East Saint Lucia keleti partján, a Micoud negyedben található. A régió mezőgazdasági jellegű, lankás dombjairól és az Atlanti-óceán közelségéről ismert. Ez egy vidéki központ, amely nyugodt légkört biztosít távol az északi turisztikai területektől.",
+      ro: "Mon Repos East este situat pe coasta de est a insulei Sfânta Lucia, în districtul Micoud. Regiunea are un caracter agricol și este cunoscută pentru dealurile sale domoale și proximitatea față de Oceanul Atlantic. Este un centru rural care oferă o atmosferă liniștită, departe de zonele turistice din nord.",
+      en: "Mon Repos East is located on the eastern coast of Saint Lucia within the Micoud Quarter. The region is predominantly agricultural, known for its rolling hills and proximity to the Atlantic Ocean. It serves as a rural hub, offering a peaceful atmosphere away from the busier tourist areas of the north.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Quarter Micoud", "An der Atlantikküste gelegen", "Wichtiger Standort für Bananenanbau", "Besteht aus mehreren ländlichen Weilern", "Nahe der Mamiku Botanical Gardens", "Französischer Name bedeutet 'Meine Ruhe'"],
+      hu: ["Micoud negyedben található", "Az atlanti-parton helyezkedik el", "Fontos banántermesztő terület", "Több vidéki tanyából áll", "A Mamiku botanikus kert közelében van", "A francia név jelentése 'Nyugalmam'"],
+      ro: ["Situat în districtul Micoud", "Poziționat pe coasta atlantică", "Zonă importantă pentru cultura bananelor", "Format din mai multe cătune rurale", "Lângă Grădinile Botanice Mamiku", "Numele francez înseamnă 'Odihna mea'"],
+      en: ["Located in the Micoud Quarter", "Situated on the Atlantic coast", "Major area for banana cultivation", "Comprises several rural hamlets", "Near Mamiku Botanical Gardens", "French name means 'My Rest'"],
+    },
   },
   {
     id: "saintlucia-balata-east-cities-v2",
@@ -1083,6 +1755,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Major producer of local seasonal vegetables", "Traditional farming-based neighborhood", "Hilly and heavily forested terrain", "Strongly knit rural community"],
     },
     imageHint: "Balata East hills Saint Lucia",
+    descriptionAdvanced: {
+      de: "Balata East ist eine Wohnsiedlung im hügeligen Hinterland von Castries. Das Viertel hat sich in den letzten Jahrzehnten stark entwickelt und dient heute als wichtige Vorstadt der Hauptstadt. Die kühleren Temperaturen in der Höhe machen die Gegend zu einem bevorzugten Wohnort für Einheimische.",
+      hu: "Balata East egy lakóövezet Castries dombos hátországában. A negyed az elmúlt évtizedekben jelentősen fejlődött, és ma a főváros fontos elővárosaként szolgál. A magasságból adódó hűvösebb hőmérséklet a helyiek kedvelt lakóhelyévé teszi a területet.",
+      ro: "Balata East este o așezare rezidențială situată în zona deluroasă din interiorul orașului Castries. Cartierul s-a dezvoltat puternic în ultimele decenii, servind astăzi ca o suburbie importantă a capitalei. Temperaturile mai scăzute datorate altitudinii fac din zonă un loc preferat de locuit pentru localnici.",
+      en: "Balata East is a residential community located in the hilly interior hinterland of Castries. The neighborhood has expanded significantly in recent decades, serving as a key suburban area for the capital. The cooler temperatures at this elevation make it a preferred living area for local residents.",
+    },
+    factsAdvanced: {
+      de: ["Vorort von Castries", "Liegt an der Straße nach Babonneau", "Wohngebiet mittlerer Dichte", "Blick auf den Hafen von Castries", "Erhöhte Lage über dem Meeresspiegel", "Wichtiges Pendlerzentrum"],
+      hu: ["Castries egyik elővárosa", "A Babonneau felé vezető úton található", "Közepes sűrűségű lakóövezet", "Kilátás a Castries-i kikötőre", "A tengerszint feletti magaslati fekvés", "Fontos ingázó központ"],
+      ro: ["Suburbie a orașului Castries", "Situat pe drumul spre Babonneau", "Zonă rezidențială cu densitate medie", "Vedere spre portul Castries", "Poziție elevată deasupra nivelului mării", "Centru important pentru navetiști"],
+      en: ["Suburb of the capital city, Castries", "Located on the road to Babonneau", "Medium-density residential area", "Views of the Castries Harbor", "Elevated position above sea level", "Important commuter hub"],
+    },
   },
   {
     id: "saintlucia-union-west-cities-v2",
@@ -1102,6 +1786,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Proximity to major commercial routes", "Rapidly expanding suburban settlement", "Residential hub for industrial employees", "Easy access to public transportation"],
     },
     imageHint: "Union West housing Saint Lucia",
+    descriptionAdvanced: {
+      de: "Union West liegt nördlich von Castries und ist ein bedeutendes Industrie- und Dienstleistungszentrum. Hier befinden sich wichtige staatliche Einrichtungen sowie Sportstätten. Das Viertel dient als Verbindungspunkt zwischen der Hauptstadt und den touristischen Gebieten im Norden.",
+      hu: "Union West Castries-től északra található, és jelentős ipari, valamint szolgáltató központ. Itt fontos állami intézmények és sportlétesítmények kaptak helyet. A negyed összekötő pontként szolgál a főváros és az északi turisztikai övezetek között.",
+      ro: "Union West este situat la nord de Castries și este un centru important de industrie și servicii. Aici se află instituții guvernamentale cheie și facilități sportive. Cartierul servește ca punct de legătură între capitală și zonele turistice din nordul insulei.",
+      en: "Union West is situated north of Castries and functions as a significant industrial and service hub. It houses key government institutions and various sports facilities. The district serves as a strategic connection point between the capital and the northern tourist corridors.",
+    },
+    factsAdvanced: {
+      de: ["Standort der Union Industrial Estate", "Beherbergt das Union Forestry Department", "Liegt nahe der Nord-Süd-Magistrale", "Sitz mehrerer Regierungsbehörden", "Verfügt über Sportanlagen", "Wichtiges Gewerbegebiet"],
+      hu: ["Az Union Ipari Park helyszíne", "Itt található az Union Erdészeti Hivatal", "Az észak-déli főút közelében fekszik", "Számos kormányzati hivatal székhelye", "Sportlétesítményekkel rendelkezik", "Jelentős kereskedelmi övezet"],
+      ro: ["Locația zonei industriale Union", "Găzduiește Departamentul Forestier Union", "Situat lângă magistrala nord-sud", "Sediu pentru numeroase agenții guvernamentale", "Dispune de facilități sportive", "Zonă comercială importantă"],
+      en: ["Site of the Union Industrial Estate", "Home to the Union Forestry Department", "Located near the main north-south highway", "Seat of several government agencies", "Features recreational sports grounds", "Key commercial and industrial zone"],
+    },
   },
   {
     id: "saintlucia-marisule-beach-cities-v2",
@@ -1121,6 +1817,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Known for its calm swimming waters", "Popular spot for snorkeling enthusiasts", "Exclusive seaside residential community", "Views of the arriving cruise ships"],
     },
     imageHint: "Marisule Beach coast Saint Lucia",
+    descriptionAdvanced: {
+      de: "Marisule Beach ist eine kleine, geschützte Bucht an der Nordwestküste von Saint Lucia. Die Gegend ist eine Mischung aus Wohnvierteln und kleineren Hotelanlagen. Der Strand ist weniger überlaufen als die nahegelegene Rodney Bay und bietet eine ruhige Umgebung für Schwimmer.",
+      hu: "Marisule Beach egy kicsi, védett öböl Saint Lucia északnyugati partján. A környék lakónegyedek és kisebb szállodakomplexumok keveréke. A strand kevésbé zsúfolt, mint a közeli Rodney-öböl, és nyugodt környezetet biztosít az úszni vágyóknak.",
+      ro: "Marisule Beach este un golf mic și protejat de pe coasta de nord-vest a insulei Sfânta Lucia. Zona este un amestec de cartiere rezidențiale și unități hoteliere mai mici. Plaja este mai puțin aglomerată decât Golful Rodney din apropiere, oferind un mediu liniștit pentru înot.",
+      en: "Marisule Beach is a small, sheltered cove located on the northwestern coast of Saint Lucia. the area is a blend of residential neighborhoods and smaller hotel developments. The beach is generally less crowded than nearby Rodney Bay, offering a serene environment for swimmers.",
+    },
+    factsAdvanced: {
+      de: ["Liegt zwischen Castries und Gros Islet", "Bucht mit dunklem Vulkansand", "Nahe der Marisule-Wohnsiedlung", "Einstiegsort für Wassersportaktivitäten", "Blick auf den Karibischen Ozean", "Östlich liegt der Choc-Fluss"],
+      hu: ["Castries és Gros Islet között fekszik", "Sötét vulkáni homokos öböl", "A Marisule lakópark közelében", "Vizi sportok kiindulópontja", "Kilátás a Karib-tengerre", "Keletre a Choc-folyó található"],
+      ro: ["Situată între Castries și Gros Islet", "Golf cu nisip vulcanic închis la culoare", "Aproape de zona rezidențială Marisule", "Punct de acces pentru sporturi nautice", "Vedere spre Oceanul Caraibilor", "La est se află râul Choc"],
+      en: ["Located between Castries and Gros Islet", "Features dark volcanic sand", "Adjacent to the Marisule residential area", "Access point for water sports", "Views of the Caribbean Ocean", "Located west of the Choc River"],
+    },
   },
   {
     id: "saintlucia-choc-commercial-cities-v2",
@@ -1140,6 +1848,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Location of Gablewoods Shopping Mall", "Primary commercial hub in the north", "Houses the island's largest cinema complex", "Major junction for northern transit"],
     },
     imageHint: "Choc shopping mall Saint Lucia",
+    descriptionAdvanced: {
+      de: "Choc Commercial ist eines der wichtigsten Wirtschaftszentren von Saint Lucia, direkt nördlich von Castries an der Küstenstraße gelegen. Hier befinden sich große Einkaufszentren, Autohäuser und Verwaltungsgebäude. Die Gegend ist ein zentraler Knotenpunkt für den Handel auf der Insel.",
+      hu: "Choc Commercial Saint Lucia egyik legfontosabb gazdasági központja, közvetlenül Castries-től északra, a parti út mentén. Itt találhatók a nagy bevásárlóközpontok, autókereskedések és irodaházak. A környék a sziget kereskedelmének egyik központi csomópontja.",
+      ro: "Choc Commercial este unul dintre cele mai importante centre economice din Sfânta Lucia, situat direct la nord de Castries, pe drumul de coastă. Aici se află mari centre comerciale, reprezentanțe auto și clădiri administrative. Zona este un nod central pentru comerțul de pe insulă.",
+      en: "Choc Commercial is one of Saint Lucia's primary economic hubs, located just north of Castries along the coastal highway. It is home to major shopping malls, automobile dealerships, and corporate offices. The area serves as a critical junction for commerce and retail on the island.",
+    },
+    factsAdvanced: {
+      de: ["Standort der Gablewoods Mall", "An der Choc Bay gelegen", "Wichtiges Handelszentrum der Insel", "Nahe dem Vigie-Flughafen", "Verkehrsknotenpunkt für den Norden", "Beherbergt große Supermärkte"],
+      hu: ["A Gablewoods Mall helyszíne", "A Choc-öbölnél található", "A sziget jelentős kereskedelmi központja", "A Vigie repülőtér közelében", "Közlekedési csomópont észak felé", "Nagy szupermarketeknek ad otthont"],
+      ro: ["Locația centrului comercial Gablewoods", "Situat în Golful Choc", "Centru comercial major al insulei", "Aproape de aeroportul Vigie", "Nod de trafic pentru zona de nord", "Găzduiește supermarketuri mari"],
+      en: ["Home to the Gablewoods Mall", "Located along Choc Bay", "Primary commercial hub of the island", "Near George F.L. Charles Airport", "Traffic junction for northern travel", "Hosts large wholesale supermarkets"],
+    },
   },
   {
     id: "saintlucia-desruisseaux-west-cities-v2",
@@ -1159,6 +1879,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Known for its lime and citrus groves", "Hilly terrain with high soil fertility", "Gateway to rural highland trails", "Significant local fruit producer"],
     },
     imageHint: "Desruisseaux West citrus groves Saint Lucia",
+    descriptionAdvanced: {
+      de: "Desruisseaux West ist eine ländliche Gemeinde im Südosten von Saint Lucia, gelegen im Quarter Micoud. Die Region ist bekannt für ihre starke Agrarwirtschaft und die Produktion von Exportgütern wie Kakao und Bananen. Das Dorfleben ist traditionell und eng mit dem umliegenden fruchtbaren Land verbunden.",
+      hu: "Desruisseaux West egy vidéki közösség Saint Lucia délkeleti részén, a Micoud negyedben. A régió erős mezőgazdaságáról, valamint exportcikkek, például kakaó és banán termeléséről ismert. A falusi élet hagyományos, és szorosan kötődik a környező termékeny földekhez.",
+      ro: "Desruisseaux West este o comunitate rurală din sud-estul insulei Sfânta Lucia, situată în districtul Micoud. Regiunea este cunoscută pentru agricultura sa puternică și producția de bunuri de export, cum ar fi cacao și banane. Viața satului este tradițională și strâns legată de terenurile fertile din jur.",
+      en: "Desruisseaux West is a rural community in southeastern Saint Lucia, situated within the Micoud Quarter. The region is known for its strong agricultural economy, producing export crops such as cocoa and bananas. Village life is traditional and deeply connected to the surrounding fertile lands.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Hinterland von Micoud", "Wichtige Agrargemeinde", "Sitz einer regionalen Bibliothek", "Zentrum für Bananenproduktion", "Traditionelle kreolische Kultur", "Südöstliche Bergregion"],
+      hu: ["Micoud hátországában fekszik", "Fontos mezőgazdasági közösség", "Regionális könyvtár székhelye", "Banántermelési központ", "Hagyományos kreol kultúra", "Délkeleti hegyvidéki terület"],
+      ro: ["Situat în interiorul districtului Micoud", "Comunitate agricolă importantă", "Sediul unei biblioteci regionale", "Centru pentru producția de banane", "Cultură tradițională creolă", "Regiune muntoasă din sud-est"],
+      en: ["Located in the Micoud hinterland", "Significant agricultural community", "Home to a regional library", "Hub for banana cultivation", "Preserves traditional Creole culture", "Part of the southeastern highlands"],
+    },
   },
   {
     id: "saintlucia-augier-south-cities-v2",
@@ -1178,6 +1910,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Close proximity to Hewanorra runway", "Home to many airport and factory staff", "Flat terrain suitable for development", "Gateway to the southwestern coast"],
     },
     imageHint: "Augier South flatlands Saint Lucia",
+    descriptionAdvanced: {
+      de: "Augier South liegt im Süden von Saint Lucia im Quarter Vieux Fort, nahe dem internationalen Flughafen Hewanorra. Es ist eine wachsende Wohngemeinde, die von ihrer strategischen Lage zwischen Vieux Fort und Laborie profitiert. Die Gegend ist durch eine Mischung aus Landwirtschaft und moderner Siedlung geprägt.",
+      hu: "Augier South Saint Lucia déli részén, a Vieux Fort negyedben található, a Hewanorra nemzetközi repülőtér közelében. Ez egy növekvő lakóközösség, amely a Vieux Fort és Laborie közötti stratégiai elhelyezkedéséből profitál. A környéket a mezőgazdaság és a modern települések keveréke jellemzi.",
+      ro: "Augier South este situat în sudul insulei Sfânta Lucia, în districtul Vieux Fort, lângă Aeroportul Internațional Hewanorra. Este o comunitate rezidențială în creștere care beneficiază de locația sa strategică între Vieux Fort și Laborie. Zona este caracterizată printr-un amestec de agricultură și așezări moderne.",
+      en: "Augier South is located in southern Saint Lucia within the Vieux Fort Quarter, near Hewanorra International Airport. It is a growing residential community that benefits from its strategic location between Vieux Fort and Laborie. The area is characterized by a mix of farming and modern housing.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Quarter Vieux Fort", "Nahe dem Flughafen Hewanorra", "Wichtiges Wohngebiet im Süden", "Traditionell landwirtschaftlich genutzt", "Erhöhte Lage über der Südküste", "Verbindungsweg nach Laborie"],
+      hu: ["Vieux Fort negyedben található", "A Hewanorra repülőtér közelében", "Fontos déli lakóövezet", "Hagyományosan mezőgazdasági terület", "Magaslati fekvés a déli part felett", "Összekötő út Laborie felé"],
+      ro: ["Situat în districtul Vieux Fort", "Lângă Aeroportul Hewanorra", "Zonă rezidențială importantă în sud", "Teren agricol tradițional", "Poziție elevată deasupra coastei de sud", "Cale de legătură spre Laborie"],
+      en: ["Located in the Vieux Fort Quarter", "Near Hewanorra International Airport", "Significant southern residential area", "Traditionally an agricultural site", "Elevated position above the south coast", "Connects Vieux Fort to Laborie"],
+    },
   },
   {
     id: "saintlucia-laborie-north-cities-v2",
@@ -1197,6 +1941,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Significant area for pig farming", "Hilly landscape with cattle pastures", "Supplies the village with fresh produce", "Tightly knit rural community structure"],
     },
     imageHint: "Laborie North hills Saint Lucia",
+    descriptionAdvanced: {
+      de: "Laborie North umfasst die hügeligen Ausläufer oberhalb des malerischen Fischerdorfes Laborie an der Südwestküste. Die Region bietet weite Ausblicke auf das Meer und ist geprägt von üppiger Vegetation und kleinen Farmen. Es ist ein ruhiges Gebiet, das seinen ursprünglichen kreolischen Charakter bewahrt hat.",
+      hu: "Laborie North a délnyugati parton fekvő festői Laborie halászfalu feletti dombos nyúlványokat foglalja magában. A régió tágas kilátást nyújt a tengerre, buja növényzet és kis gazdaságok jellemzik. Ez egy nyugodt terület, amely megőrizte eredeti kreol jellegét.",
+      ro: "Laborie North cuprinde dealurile de deasupra pitorescului sat de pescari Laborie, de pe coasta de sud-vest. Regiunea oferă vederi panoramice spre mare și este marcată de vegetație luxuriantă și mici ferme. Este o zonă liniștită care și-a păstrat caracterul creol original.",
+      en: "Laborie North encompasses the hilly slopes above the picturesque fishing village of Laborie on the southwestern coast. The region offers sweeping ocean views and is characterized by lush vegetation and small-scale farms. it is a peaceful area that has maintained its authentic Creole character.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Bezirk Laborie", "Liegt in den südlichen Bergen", "Blick auf das Dorf Laborie", "Reich an lokaler Flora", "Wohngebiet mit ländlichem Charme", "Traditioneller Kakaoanbau"],
+      hu: ["Laborie kerülethez tartozik", "A déli hegyekben található", "Kilátás Laborie falura", "Gazdag helyi flórában", "Vidéki bájjal rendelkező lakóövezet", "Hagyományos kakaótermesztés"],
+      ro: ["Aparține districtului Laborie", "Situat în munții din sud", "Vedere spre satul Laborie", "Bogat în floră locală", "Zonă rezidențială cu farmec rural", "Cultură tradițională de cacao"],
+      en: ["Part of the Laborie district", "Located in the southern foothills", "Overlooks the village of Laborie", "Rich in indigenous flora", "Residential area with rural charm", "Traditional cocoa farming area"],
+    },
   },
   {
     id: "saintlucia-soufriere-hills-cities-v2",
@@ -1216,6 +1972,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Home to several award-winning hotels", "Close proximity to the Sulphur Springs", "Offers scenic overlooks of the harbor", "Popular starting point for local trails"],
     },
     imageHint: "Soufriere Hills Piton view Saint Lucia",
+    descriptionAdvanced: {
+      de: "Soufrière Hills ist eine bergige Wohn- und Naturregion oberhalb der historischen Stadt Soufrière. Die Gegend ist weltberühmt für ihre Nähe zu den Pitons und den schwefelhaltigen Thermalquellen. Die steilen Hänge bieten spektakuläre Ausblicke auf die Vulkangipfel und das Karibische Meer.",
+      hu: "Soufrière Hills egy hegyvidéki lakó- és természeti régió a történelmi Soufrière városa felett. A környék világhírű a Pitonokhoz és a kénes termálforrásokhoz való közelsége miatt. A meredek lejtők látványos kilátást nyújtanak a vulkáni csúcsokra és a Karib-tengerre.",
+      ro: "Soufrière Hills este o regiune montană rezidențială și naturală situată deasupra orașului istoric Soufrière. Zona este faimoasă în întreaga lume pentru proximitatea față de Pitons și izvoarele termale sulfuroase. Versanții abrupți oferă vederi spectaculoase asupra vârfurilor vulcanice și a Mării Caraibilor.",
+      en: "Soufrière Hills is a mountainous residential and natural region located above the historic town of Soufrière. The area is world-renowned for its proximity to the Pitons and the volcanic sulfur springs. The steep slopes offer spectacular views of the volcanic peaks and the Caribbean Sea.",
+    },
+    factsAdvanced: {
+      de: ["Blick auf die Pitons (UNESCO)", "Nahe den Sulphur Springs", "Vulkanisch geprägtes Gelände", "Erhöhte Lage über Soufrière", "Üppiger tropischer Regenwald", "Wichtiger Standort für Ökotourismus"],
+      hu: ["Kilátás a Pitonokra (UNESCO)", "A Sulphur Springs közelében", "Vulkanikus jellegű terep", "Soufrière feletti magaslati fekvés", "Buja trópusi esőerdő", "Az ökoturizmus fontos helyszíne"],
+      ro: ["Vedere spre Pitons (UNESCO)", "Lângă Izvoarele de Sulf", "Terren cu relief vulcanic", "Poziție elevată deasupra Soufrière", "Pădure tropicală luxuriantă", "Locație importantă pentru ecoturism"],
+      en: ["Views of the Pitons (UNESCO)", "Near the Sulphur Springs Park", "Volcanic terrain and soil", "Elevated position above Soufrière", "Lush tropical rainforest cover", "Key location for ecotourism"],
+    },
   },
   {
     id: "saintlucia-anse-la-raye-inland-cities-v2",
@@ -1235,6 +2003,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Site of several hidden waterfalls", "Important banana and root crop area", "Rich in local wildlife species", "Emerging center for rural eco-tourism"],
     },
     imageHint: "Anse La Raye inland forest Saint Lucia",
+    descriptionAdvanced: {
+      de: "Anse La Raye Inland erstreckt sich in das tief eingeschnittene Tal hinter dem Küstenort Anse La Raye. Die Region ist durch dichte Wälder, Flüsse und landwirtschaftliche Flächen geprägt. Hier befinden sich einige der fruchtbarsten Böden der Insel, die für den Anbau verschiedenster Nutzpflanzen genutzt werden.",
+      hu: "Anse La Raye Inland az Anse La Raye parti település mögötti mély völgybe nyúlik be. A régiót sűrű erdők, folyók és mezőgazdasági területek jellemzik. Itt található a sziget néhány legtermékenyebb talaja, amelyet különféle haszonnövények termesztésére használnak.",
+      ro: "Anse La Raye Inland se întinde în valea adâncă din spatele localității de coastă Anse La Raye. Regiunea este marcată de păduri dense, râuri și terenuri agricole. Aici se află unele dintre cele mai fertile soluri de pe insulă, utilizate pentru cultivarea diverselor plante de consum.",
+      en: "Anse La Raye Inland extends into the deep valley behind the coastal village of Anse La Raye. The region is characterized by dense forests, river systems, and agricultural lands. It contains some of the island's most fertile soils, utilized for a variety of subsistence and commercial crops.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Bezirk Anse La Raye", "Bewässert durch den Roseau River", "Zentrum für Wurzelgemüseanbau", "Nahe den Anse La Raye Wasserfällen", "Reich an tropischen Obstbäumen", "Gebirgig im oberen Talverlauf"],
+      hu: ["Anse La Raye kerületben található", "A Roseau-folyó öntözi", "Gyökérzöldség-termesztési központ", "Az Anse La Raye vízesések közelében", "Trópusi gyümölcsfákban gazdag", "A felső völgyben hegyvidéki"],
+      ro: ["Situat în districtul Anse La Raye", "Irigat de râul Roseau", "Centru pentru cultura rădăcinoaselor", "Lângă cascadele Anse La Raye", "Bogat în pomi fructiferi tropicali", "Relief muntos în valea superioară"],
+      en: ["Located in Anse La Raye district", "Watered by the Roseau River basin", "Center for root crop production", "Near the Anse La Raye Falls", "Rich in tropical fruit orchards", "Mountainous upper valley terrain"],
+    },
   },
   {
     id: "saintlucia-canaries-north-cities-v2",
@@ -1254,6 +2034,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Offers spectacular coastal photo stops", "Hub for traditional line fishing", "Rugged and steep coastal terrain", "Home to various endemic plant species"],
     },
     imageHint: "Canaries North coastal road Saint Lucia",
+    descriptionAdvanced: {
+      de: "Canaries North liegt an der steilen Westküste von Saint Lucia, nördlich des Dorfes Canaries. Die Gegend ist bekannt für ihre unberührte Natur und die dramatischen Klippen, die ins Karibische Meer abfallen. Der Zugang erfolgt über die kurvenreiche Küstenstraße, die Castries mit Soufrière verbindet.",
+      hu: "Canaries North Saint Lucia meredek nyugati partján található, Canaries falutól északra. A környék érintetlen természetéről és a Karib-tengerbe szakadó drámai szikláiról ismert. A hozzáférés a Castriest Soufrière-rel összekötő kanyargós parti úton keresztül történik.",
+      ro: "Canaries North este situat pe coasta de vest abruptă a insulei Sfânta Lucia, la nord de satul Canaries. Zona este cunoscută pentru natura sa neatinsă și stâncile dramatice care coboară în Marea Caraibilor. Accesul se face prin drumul de coastă sinuos care leagă Castries de Soufrière.",
+      en: "Canaries North is situated on the rugged western coast of Saint Lucia, north of the village of Canaries. The area is known for its untouched natural beauty and dramatic cliffs plunging into the Caribbean Sea. Access is provided by the winding coastal highway connecting Castries to Soufrière.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Quarter Canaries", "An der Westküstenstraße gelegen", "Geprägt von Regenwaldvegetation", "Blick auf einsame Buchten", "Region mit hoher Niederschlagsrate", "Wenig besiedeltes Waldgebiet"],
+      hu: ["Canaries negyedben található", "A nyugati parti út mentén fekszik", "Esőerdei növényzet jellemzi", "Kilátás elszigetelt öblökre", "Magas csapadékmennyiségű régió", "Ritkán lakott erdős terület"],
+      ro: ["Situat în districtul Canaries", "Poziționat pe drumul coastei de vest", "Caracterizat de vegetație de pădure", "Vedere spre golfuri izolate", "Regiune cu precipitații ridicate", "Zonă forestieră puțin populată"],
+      en: ["Located in the Canaries Quarter", "Situated along the West Coast Road", "Dominated by rainforest vegetation", "Overlooks secluded coastal coves", "Region with high annual rainfall", "Sparsely populated forested area"],
+    },
   },
   {
     id: "saintlucia-choiseul-east-cities-v2",
@@ -1273,6 +2065,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Home to the Choiseul Craft Centre", "Leading area for straw basket weaving", "Rich in local historical legends", "Center for traditional indigenous techniques"],
     },
     imageHint: "Choiseul East weaving crafts Saint Lucia",
+    descriptionAdvanced: {
+      de: "Choiseul East liegt im Süden der Insel und ist ein Zentrum des traditionellen Kunsthandwerks. Die Gemeinde ist bekannt für ihre Töpfereien und Flechtarbeiten, die eine lange Tradition haben. Die Landschaft ist weniger bergig als im Norden, bietet aber einen direkten Blick auf die Südküste der Pitons.",
+      hu: "Choiseul East a sziget déli részén található, és a hagyományos kézművesség központja. A közösség fazekasságáról és fonott termékeiről ismert, amelyeknek hosszú hagyománya van. A táj kevésbé hegyvidéki, mint északon, de közvetlen kilátást nyújt a Pitonok déli oldalára.",
+      ro: "Choiseul East este situat în sudul insulei și este un centru al meșteșugurilor tradiționale. Comunitatea este cunoscută pentru olărit și împletituri, care au o tradiție îndelungată. Peisajul este mai puțin muntos decât în nord, dar oferă o vedere directă spre partea de sud a vârfurilor Pitons.",
+      en: "Choiseul East is located in the south of the island and serves as a center for traditional arts and crafts. The community is renowned for its pottery and basket weaving, which carry long-standing historical traditions. The landscape is less rugged than the north, offering clear views of the southern Pitons.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum des lokalen Kunsthandwerks", "Liegt im Bezirk Choiseul", "Bekannt für handgemachte Töpferwaren", "Südlicher Blick auf den Gros Piton", "Besteht aus ländlichen Dörfern", "Historischer Standort der Kariben"],
+      hu: ["A helyi kézművesség központja", "Choiseul kerületben található", "Kézzel készített fazekasáruiról híres", "Déli kilátás a Gros Pitonra", "Vidéki falvakból áll", "A karib indiánok történelmi helyszíne"],
+      ro: ["Centru al meșteșugurilor locale", "Situat în districtul Choiseul", "Cunoscut pentru olăritul manual", "Vedere sudică spre Gros Piton", "Compus din sate rurale", "Locație istorică a triburilor Carib"],
+      en: ["Hub of local arts and crafts", "Located in the Choiseul district", "Famous for handmade clay pottery", "Southern viewpoint of Gros Piton", "Comprises several rural villages", "Historical site of Carib settlements"],
+    },
   },
   {
     id: "saintlucia-vieux-fort-north-cities-v2",
@@ -1292,6 +2096,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Close proximity to St. Jude's Hospital", "Hub for regional logistics companies", "Expanding housing for professionals", "Direct access to the main highway"],
     },
     imageHint: "Vieux Fort North development Saint Lucia",
+    descriptionAdvanced: {
+      de: "Vieux Fort North ist ein Verwaltungsbezirk im Süden von Saint Lucia, der durch seine hügelige Topographie und landwirtschaftliche Prägung charakterisiert wird. Die Region umfasst verschiedene ländliche Siedlungen, in denen traditionell Bananen und Kokosnüsse für den Export angebaut werden. Aufgrund der Nähe zum internationalen Flughafen Hewanorra bildet der Distrikt einen wichtigen Bestandteil der nationalen Infrastruktur.",
+      hu: "Vieux Fort North Saint Lucia déli részén elhelyezkedő közigazgatási körzet, amely dombos domborzatáról és mezőgazdasági jellegéről ismert. A régió több vidéki települést foglal magában, ahol hagyományosan banánt és kókuszt termesztenek exportra. A Hewanorra nemzetközi repülőtér közelsége miatt a körzet a nemzeti infrastruktúra fontos részét képezi.",
+      ro: "Vieux Fort North este un district administrativ situat în partea de sud a insulei Sfânta Lucia, caracterizat prin topografia sa deluroasă și profilul agricol. Regiunea cuprinde diverse așezări rurale unde se cultivă tradițional banane și nuci de cocos pentru export. Datorită proximității față de Aeroportul Internațional Hewanorra, districtul constituie o componentă importantă a infrastructurii naționale.",
+      en: "Vieux Fort North is an administrative district located in the southern part of Saint Lucia, characterized by its hilly topography and agricultural character. The region encompasses various rural settlements where bananas and coconuts are traditionally cultivated for export. Due to its proximity to the Hewanorra International Airport, the district forms an important part of the national infrastructure.",
+    },
+    factsAdvanced: {
+      de: ["Der Distrikt umfasst eine Fläche von etwa 38 Quadratkilometern.", "Bei der Volkszählung 2010 wurden in der Region 2.047 Einwohner registriert.", "Die Gemeinde Grace dient als primäres landwirtschaftliches Zentrum des Bezirks.", "Vieux Fort North wurde 2001 als eigenständiger Wahlkreis etabliert.", "Die Region grenzt unmittelbar an das Gelände des Hewanorra International Airport.", "Der Mount Tourney stellt eine der markantesten Erhebungen des Distrikts dar."],
+      hu: ["A körzet területe körülbelül 38 négyzetkilométert tesz ki.", "A 2010-es népszámláláskor a régióban 2047 lakost regisztráltak.", "Grace települése a körzet elsődleges mezőgazdasági központjaként szolgál.", "Vieux Fort North-t 2001-ben alapították önálló választókerületként.", "A régió közvetlenül határos a Hewanorra nemzetközi repülőtér területével.", "A Mount Tourney a körzet egyik legjelentősebb kiemelkedése."],
+      ro: ["Districtul ocupă o suprafață de aproximativ 38 de kilometri pătrați.", "La recensământul din 2010, în regiune au fost înregistrați 2.047 de locuitori.", "Localitatea Grace servește ca principal centru agricol al districtului.", "Vieux Fort North a fost stabilit ca circumscripție electorală separată în 2001.", "Regiunea se învecinează direct cu perimetrul Aeroportului Internațional Hewanorra.", "Muntele Tourney reprezintă una dintre cele mai proeminente culmi din district."],
+      en: ["The district covers an area of approximately 38 square kilometers.", "During the 2010 census, 2,047 residents were registered in the region.", "The community of Grace serves as the district's primary agricultural hub.", "Vieux Fort North was established as a separate electoral constituency in 2001.", "The region directly borders the grounds of the Hewanorra International Airport.", "Mount Tourney represents one of the most prominent elevations in the district."],
+    },
   },
   {
     id: "saintlucia-micoud-north-cities-v2",
@@ -1311,6 +2127,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Major banana export production zone", "Traditional farming-oriented village", "Spectacular views of the Atlantic", "Center for small-scale local crafts"],
     },
     imageHint: "Micoud North coast Saint Lucia",
+    descriptionAdvanced: {
+      de: "Micoud North liegt an der windgepeitschten Ostküste von Saint Lucia und ist eine Region, die stark von der Landwirtschaft und der Fischerei lebt. Der Distrikt ist bekannt für seine raue Küstenlinie und die fruchtbaren Böden im Hinterland, die eine intensive Nutzung ermöglichen. Hier befinden sich bedeutende Siedlungen wie Mon Repos, die das wirtschaftliche und soziale Leben der Gemeinde maßgeblich prägen.",
+      hu: "Micoud North Saint Lucia szélfútta keleti partján fekszik, és egy olyan régió, amely erősen a mezőgazdaságból és a halászatból él. A körzet híres sziklás partvonaláról és a hátország termékeny talajáról, amely intenzív földművelést tesz lehetővé. Itt találhatók olyan jelentős települések, mint Mon Repos, amelyek meghatározzák a közösség gazdasági életét.",
+      ro: "Micoud North este situat pe coasta de est a insulei Sfânta Lucia, fiind o regiune care depinde în mare măsură de agricultură și pescuit. Districtul este cunoscut pentru linia sa de coastă accidentată și solurile fertile din interior, care permit o utilizare intensivă a terenului. Aici se află așezări semnificative precum Mon Repos, care modelează viața economică a comunității.",
+      en: "Micoud North is situated on the windswept eastern coast of Saint Lucia and is a region that relies heavily on agriculture and fishing. The district is known for its rugged coastline and fertile inland soils that facilitate intensive land use. Significant settlements such as Mon Repos are located here, defining the economic and social life of the community.",
+    },
+    factsAdvanced: {
+      de: ["Die Einwohnerzahl des Wahlkreises lag im Jahr 2010 bei etwa 7.039 Personen.", "Mon Repos ist die größte Siedlung innerhalb dieses Verwaltungsbezirks.", "Die Region wurde im Jahr 1961 offiziell als Wahlbezirk definiert.", "Die Ostküstenstraße verbindet den Distrikt mit der Hauptstadt Castries.", "Die Landwirtschaft konzentriert sich vorwiegend auf die Produktion von Bananen.", "Micoud North ist direkt den Passatwinden des Atlantischen Ozeans ausgesetzt."],
+      hu: ["A választókerület lakossága 2010-ben körülbelül 7039 fő volt.", "Mon Repos a legnagyobb település ezen a közigazgatási területen belül.", "A régiót hivatalosan 1961-ben határozták meg választókerületként.", "A keleti parti út köti össze a körzetet a fővárossal, Castries-szal.", "A mezőgazdaság elsősorban a banántermelésre összpontosít.", "Micoud North közvetlenül ki van téve az Atlanti-óceán passzátszeleinek."],
+      ro: ["Populația circumscripției era de aproximativ 7.039 de persoane în anul 2010.", "Mon Repos este cea mai mare așezare din cadrul acestui district administrativ.", "Regiunea a fost definită oficial ca district electoral în anul 1961.", "Șoseaua de pe coasta de est leagă districtul de capitala Castries.", "Agricultura se concentrează în principal pe producția de banane.", "Micoud North este expus direct vânturilor alizee dinspre Oceanul Atlantic."],
+      en: ["The population of the constituency stood at approximately 7,039 in 2010.", "Mon Repos is the largest settlement within this administrative district.", "The region was officially defined as an electoral district in 1961.", "The East Coast Highway connects the district with the capital, Castries.", "Agriculture focuses predominantly on the production of bananas.", "Micoud North is directly exposed to the trade winds of the Atlantic Ocean."],
+    },
   },
   {
     id: "saintlucia-dennery-south-cities-v2",
@@ -1330,6 +2158,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Location of the main fish market", "Hub of the weekly Fish Fry event", "Major artisanal fishing node", "Densely populated coastal neighborhood"],
     },
     imageHint: "Dennery South fish market Saint Lucia",
+    descriptionAdvanced: {
+      de: "Dennery South ist ein bedeutender Verwaltungs- und Wahlbezirk an der Ostküste von Saint Lucia. Die Region ist geprägt durch ihre malerische Lage am Atlantik und eine traditionsreiche Fischereikultur, die das Rückgrat der lokalen Wirtschaft bildet. Neben dem Fischfang spielt der Anbau von Nutzpflanzen in den fruchtbaren Tälern des Distrikts eine wesentliche Rolle für die Versorgung der Insel.",
+      hu: "Dennery South jelentős közigazgatási és választókerület Saint Lucia keleti partján. A régiót az Atlanti-óceán menti festői fekvése és a hagyományos halászati kultúra jellemzi, amely a helyi gazdaság gerincét alkotja. A halászat mellett a körzet termékeny völgyeiben folytatott növénytermesztés is alapvető szerepet játszik a sziget ellátásában.",
+      ro: "Dennery South este un district administrativ și electoral important situat pe coasta de est a insulei Sfânta Lucia. Regiunea este marcată de locația sa pitorească la malul Atlanticului și de o cultură tradițională a pescuitului, care formează coloana vertebrală a economiei locale. Pe lângă pescuit, cultivarea plantelor în văile fertile ale districtului joacă un rol esențial.",
+      en: "Dennery South is a significant administrative and electoral district on the east coast of Saint Lucia. The region is characterized by its scenic location along the Atlantic and a traditional fishing culture that forms the backbone of the local economy. In addition to fishing, the cultivation of crops in the district's fertile valleys plays an essential role.",
+    },
+    factsAdvanced: {
+      de: ["Die Region verzeichnete im Jahr 2010 eine Bevölkerung von rund 5.402 Einwohnern.", "Dennery South wurde 1961 als eigenständiger Wahlbezirk eingerichtet.", "Der Distrikt beheimatet bedeutende landwirtschaftliche Flächen wie das Errard Estate.", "Die Sault Falls, einer der höchsten Wasserfälle der Insel, liegen in dieser Nähe.", "Die Fischereigenossenschaft von Dennery ist eine der aktivsten in Saint Lucia.", "Jedes Jahr findet hier ein bekanntes Fischfestival statt, das Besucher anzieht."],
+      hu: ["A régió lakossága 2010-ben körülbelül 5402 fő volt.", "Dennery South-t 1961-ben hozták létre külön választókerületként.", "A körzet olyan jelentős mezőgazdasági területeknek ad otthont, mint az Errard Estate.", "A Sault-vízesés, a sziget egyik legmagasabb vízesése, a közelben található.", "A Dennery Halászati Szövetkezet az egyik legaktívabb Saint Lucián.", "Minden évben itt rendezik meg a híres halat népszerűsítő fesztivált."],
+      ro: ["Regiunea a înregistrat o populație de aproximativ 5.402 locuitori în anul 2010.", "Dennery South a fost înființat ca district electoral separat în 1961.", "Districtul găzduiește terenuri agricole importante, precum domeniul Errard Estate.", "Cascada Sault, una dintre cele mai înalte de pe insulă, se află în apropiere.", "Cooperativa de pescuit din Dennery este una dintre cele mai active din Sfânta Lucia.", "În fiecare an are loc aici un festival al peștelui renumit care atrage vizitatori."],
+      en: ["The region recorded a population of around 5,402 inhabitants in 2010.", "Dennery South was established as a separate electoral district in 1961.", "The district is home to significant agricultural lands such as the Errard Estate.", "Sault Falls, one of the island's tallest waterfalls, is located nearby.", "The Dennery Fishing Cooperative is one of the most active in Saint Lucia.", "A well-known fish festival is held here annually, attracting many visitors."],
+    },
   },
   {
     id: "saintlucia-babonneau-central-cities-v2",
@@ -1349,6 +2189,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Seat of the district administration", "Hub for local farmers' markets", "Significant educational cluster", "Known for community cultural groups"],
     },
     imageHint: "Babonneau Central village Saint Lucia",
+    descriptionAdvanced: {
+      de: "Babonneau Central ist ein im Landesinneren gelegener Bezirk im Norden von Saint Lucia, der für seine üppige tropische Vegetation und sein hügeliges Gelände bekannt ist. Die Region dient als wichtiges landwirtschaftliches Zentrum und ist tief in der lokalen Kultur und Folklore verwurzelt. Aufgrund der höheren Lage herrschen hier oft kühlere Temperaturen und höhere Niederschlagsraten als in den Küstengebieten.",
+      hu: "Babonneau Central Saint Lucia északi részén fekvő szárazföldi körzet, amely dús trópusi növényzetéről és dombos vidékéről ismert. A régió fontos mezőgazdasági központként szolgál, és mélyen gyökerezik a helyi kultúrában és folklórban. A magasabb fekvés miatt itt gyakran hűvösebb a hőmérséklet és több a csapadék, mint a tengerparti területeken.",
+      ro: "Babonneau Central este un district situat în interiorul insulei, în nordul Sfintei Lucia, cunoscut pentru vegetația tropicală luxuriantă și terenul deluros. Regiunea servește ca un centru agricol important și este profund înrădăcinată în cultura și folclorul local. Datorită altitudinii ridicate, temperaturile sunt adesea mai scăzute decât în zonele de coastă.",
+      en: "Babonneau Central is an inland district in the north of Saint Lucia, known for its lush tropical vegetation and hilly terrain. The region serves as an important agricultural hub and is deeply rooted in local culture and folklore. Due to its higher elevation, temperatures here are often cooler, and rainfall rates are higher than in coastal areas.",
+    },
+    factsAdvanced: {
+      de: ["Die Region wird primär für den Anbau von Gemüse und Wurzelfrüchten genutzt.", "Babonneau ist bekannt für den Erhalt traditioneller Volkstänze und Musik.", "Der Distrikt liegt auf einer durchschnittlichen Höhe von über 200 Metern.", "Die Einwohnerzahl wird auf mehrere tausend Personen in verschiedenen Weilern geschätzt.", "Regelmäßige Busverbindungen verbinden das Zentrum mit der Hauptstadt Castries.", "Die Gegend zeichnet sich durch eine hohe Dichte an Farnen und Epiphyten aus."],
+      hu: ["A régiót elsősorban zöldségfélék és gyökérnövények termesztésére használják.", "Babonneau a hagyományos néptáncok és zene megőrzéséről híres.", "A körzet átlagosan 200 méter feletti tengerszint feletti magasságban fekszik.", "A lakosság számát több ezer főre becsülik a különböző falvakban.", "Rendszeres autóbuszjáratok kötik össze a központot a fővárossal, Castries-szal.", "A területet a páfrányok és epifita növények nagy sűrűsége jellemzi."],
+      ro: ["Regiunea este utilizată în principal pentru cultivarea legumelor și a rădăcinoaselor.", "Babonneau este cunoscut pentru conservarea dansurilor și muzicii populare tradiționale.", "Districtul este situat la o altitudine medie de peste 200 de metri.", "Populația este estimată la câteva mii de persoane repartizate în diverse cătune.", "Legături regulate de autobuz conectează centrul cu capitala Castries.", "Zona se caracterizează printr-o densitate mare de ferigi și plante epifite."],
+      en: ["The region is primarily used for the cultivation of vegetables and root crops.", "Babonneau is renowned for the preservation of traditional folk dances and music.", "The district is situated at an average elevation of over 200 meters above sea level.", "The population is estimated to be several thousand people across various hamlets.", "Regular bus services connect the central area with the capital city, Castries.", "The area is characterized by a high density of ferns and epiphytic plants."],
+    },
   },
   {
     id: "saintlucia-gros-islet-north-cities-v2",
@@ -1368,6 +2220,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Close to world-class resorts", "Gateway to Pigeon Island National Park", "Popular area for beachgoers", "Site of several colonial-era ruins"],
     },
     imageHint: "Gros Islet North coast Saint Lucia",
+    descriptionAdvanced: {
+      de: "Gros Islet North umfasst den nördlichsten Teil von Saint Lucia und gilt als eines der exklusivsten Wohn- und Tourismusgebiete der Insel. Die Region beherbergt das luxuriöse Cap Estate und bietet Zugang zu sowohl karibischen als auch atlantischen Stränden. Mit seiner modernen Infrastruktur und den erstklassigen Golfplätzen ist der Distrikt ein Zentrum für internationalen Tourismus und gehobene Immobilienentwicklung.",
+      hu: "Gros Islet North Saint Lucia legészakibb részét foglalja magában, és a sziget egyik legexkluzívabb lakó- és turisztikai övezetének számít. A régió ad otthont a fényűző Cap Estate-nek, és hozzáférést biztosít mind a karibi, mind az atlanti strandokhoz. Modern infrastruktúrájával és első osztályú golfpályáival a körzet a nemzetközi turizmus központja.",
+      ro: "Gros Islet North cuprinde partea cea mai nordică a insulei Sfânta Lucia și este considerată una dintre cele mai exclusive zone rezidențiale și turistice. Regiunea găzduiește luxosul domeniu Cap Estate și oferă acces atât la plajele din Caraibe, cât și la cele de la Atlantic. Cu infrastructura sa modernă, districtul este un centru pentru turismul internațional.",
+      en: "Gros Islet North encompasses the northernmost tip of Saint Lucia and is considered one of the island's most exclusive residential and tourism areas. The region is home to the luxurious Cap Estate and provides access to both Caribbean and Atlantic beaches. With its modern infrastructure, the district is a hub for international tourism and upscale development.",
+    },
+    factsAdvanced: {
+      de: ["Im Bezirk befindet sich das 1.500 Hektar große Cap Estate, eine ehemalige Zuckerplantage.", "Die Einwohnerzahl von Gros Islet North betrug im Jahr 2010 etwa 7.200 Personen.", "In der Region liegt der einzige 18-Loch-Meisterschaftsgolfplatz der Insel.", "Die Bucht von Cas en Bas ist ein bekannter Ort für Kitesurfen an der Atlantikküste.", "Pigeon Island National Landmark ist von diesem Distrikt aus schnell erreichbar.", "Der Distrikt wurde Ende des 20. Jahrhunderts massiv für den Tourismus erschlossen."],
+      hu: ["A körzetben található az 1500 hektáros Cap Estate, egy egykori cukornádültetvény.", "Gros Islet North lakossága 2010-ben körülbelül 7200 fő volt.", "A régióban található a sziget egyetlen 18 lyukú bajnoki golfpályája.", "A Cas en Bas-öböl az Atlanti-part kedvelt kiteszörföző helye.", "A Pigeon Island National Landmark gyorsan elérhető ebből a körzetből.", "A körzetet a 20. század végén masszívan fejlesztették a turizmus számára."],
+      ro: ["Districtul include domeniul Cap Estate de 1.500 de acri, o fostă plantație de zahăr.", "Populația din Gros Islet North era de aproximativ 7.200 de persoane în 2010.", "Regiunea găzduiește singurul teren de golf de campionat cu 18 găuri de pe insulă.", "Golful Cas en Bas este un loc renumit pentru kitesurfing pe coasta Atlanticului.", "Pigeon Island National Landmark este rapid accesibil din acest district.", "Districtul a fost dezvoltat masiv pentru turism la sfârșitul secolului al XX-lea."],
+      en: ["The district includes the 1,500-acre Cap Estate, a former sugar plantation.", "The population of Gros Islet North was approximately 7,200 people in 2010.", "The region hosts the island's only 18-hole championship golf course.", "Cas en Bas beach is a well-known spot for kitesurfing on the Atlantic coast.", "Pigeon Island National Landmark is quickly accessible from this district.", "The district was heavily developed for tourism during the late 20th century."],
+    },
   },
   {
     id: "saintlucia-castries-south-cities-v2",
@@ -1387,6 +2251,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Home to the private Tapion Hospital", "Residential hub for urban professionals", "Offers commanding views of the harbor", "Preferred location for sunset views"],
     },
     imageHint: "Castries South hills Saint Lucia",
+    descriptionAdvanced: {
+      de: "Castries South ist ein bevölkerungsreicher Bezirk, der den südlichen Teil der Hauptstadtregion von Saint Lucia umfasst. Er erstreckt sich über Gebiete wie den Morne Fortune und bietet wichtige administrative sowie Bildungsfunktionen für das Land. Durch seine strategische Lage oberhalb des Hafens von Castries bietet der Distrikt weitreichende Ausblicke und beherbergt bedeutende historische Stätten aus der Kolonialzeit.",
+      hu: "Castries South egy sűrűn lakott körzet, amely Saint Lucia fővárosi régiójának déli részét foglalja magában. Olyan területekre terjed ki, mint a Morne Fortune, és fontos közigazgatási és oktatási funkciókat lát el az ország számára. A Castries-i kikötő feletti stratégiai elhelyezkedése révén a körzet messzire nyúló kilátást nyújt, és jelentős gyarmati kori történelmi helyszíneknek ad otthont.",
+      ro: "Castries South este un district populat care cuprinde partea de sud a regiunii capitalei Sfânta Lucia. Se extinde peste zone precum Morne Fortune și oferă funcții administrative și educaționale importante pentru țară. Prin locația sa strategică deasupra portului Castries, districtul oferă vederi largi și găzduiește situri istorice coloniale semnificative.",
+      en: "Castries South is a populated district encompassing the southern portion of Saint Lucia's capital region. It extends over areas such as Morne Fortune and provides essential administrative and educational functions for the country. Through its strategic location above Castries Harbor, the district offers expansive views and hosts significant colonial-era historical sites.",
+    },
+    factsAdvanced: {
+      de: ["Die Einwohnerzahl des Bezirks wurde im Jahr 2010 mit 9.244 Personen angegeben.", "Auf dem Morne Fortune befinden sich Regierungsgebäude und Bildungseinrichtungen.", "Die Region wurde 1961 offiziell als eigenständiger Wahlkreis eingerichtet.", "Ciceron ist eine der größten Wohnsiedlungen innerhalb dieses Distrikts.", "Historische Militärbefestigungen aus dem 18. Jahrhundert sind hier erhalten geblieben.", "Der Bezirk bietet einen direkten Blick auf die Einfahrt zum Hafen von Castries."],
+      hu: ["A körzet lakossága 2010-ben 9244 fő volt.", "A Morne Fortune területén kormányzati épületek és oktatási intézmények találhatók.", "A régiót hivatalosan 1961-ben alapították önálló választókerületként.", "Ciceron az egyik legnagyobb lakónegyed ezen a körzeten belül.", "A 18. századból származó történelmi katonai erődítmények maradtak fenn itt.", "A körzet közvetlen kilátást nyújt a Castries-i kikötő bejáratára."],
+      ro: ["Populația districtului a fost raportată la 9.244 de persoane în anul 2010.", "Pe Morne Fortune se află clădiri guvernamentale și instituții de învățământ.", "Regiunea a fost stabilită oficial ca circumscripție electorală separată în 1961.", "Ciceron este una dintre cele mai mari așezări rezidențiale din acest district.", "Fortificații militare istorice din secolul al XVIII-lea s-au păstrat aici.", "Districtul oferă o vedere directă asupra intrării în portul Castries."],
+      en: ["The district's population was recorded at 9,244 individuals in 2010.", "Morne Fortune houses government buildings and various educational institutions.", "The region was officially established as a separate electoral constituency in 1961.", "Ciceron is one of the largest residential settlements within this district.", "Historical military fortifications from the 18th century are preserved here.", "The district provides a direct view of the entrance to Castries Harbor."],
+    },
   },
   {
     id: "saintlucia-soufriere-town-cities-v2",
@@ -1406,6 +2282,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Former French colonial capital city", "Home to the landmark Soufrière Church", "Central hub for island eco-tourism", "Known for authentic local cuisine spots"],
     },
     imageHint: "Soufriere Town waterfront Saint Lucia",
+    descriptionAdvanced: {
+      de: "Soufrière Town, die ehemalige Hauptstadt von Saint Lucia, liegt an einer tiefblauen Bucht an der Westküste der Insel. Die Stadt ist weltberühmt für ihre unmittelbare Nähe zu den Pitons, zwei markanten Vulkankegeln, die zum UNESCO-Weltnaturerbe gehören. Das Stadtbild ist geprägt von kolonialer Architektur und dient heute als Tor zu den wichtigsten Naturschauspielen der Insel, wie den Sulphur Springs.",
+      hu: "Soufrière Town, Saint Lucia egykori fővárosa, a sziget nyugati partján, egy mélykék öbölben fekszik. A város világszerte híres a Pitonok közelségéről, amely két jellegzetes vulkáni kúp, és az UNESCO Világörökség részét képezi. A városképet gyarmati építészet jellemzi, és ma a sziget legfontosabb természeti látványosságainak, például a Sulphur Springsnek a kapuja.",
+      ro: "Orașul Soufrière, fosta capitală a Sfintei Lucia, este situat într-un golf albastru adânc de pe coasta de vest a insulei. Orașul este renumit în întreaga lume pentru proximitatea sa față de Pitons, două conuri vulcanice proeminente care fac parte din patrimoniul mondial UNESCO. Arhitectura colonială marchează orașul, care servește azi ca poartă către Sulphur Springs.",
+      en: "Soufrière Town, the former capital of Saint Lucia, is situated on a deep blue bay on the island's western coast. The town is world-renowned for its immediate proximity to the Pitons, two striking volcanic plugs that are a UNESCO World Heritage site. The townscape is characterized by colonial architecture and today serves as a gateway to the island's top natural attractions.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt wurde im Jahr 1746 von französischen Siedlern gegründet.", "Soufrière diente bis zum Jahr 1780 als die Hauptstadt von Saint Lucia.", "Die Stadt wurde 1955 durch einen verheerenden Brand fast vollständig zerstört.", "Die nahegelegenen Pitons wurden 2004 in die Liste des UNESCO-Welterbes aufgenommen.", "Sulphur Springs gilt als der weltweit einzige 'Drive-in'-Vulkan.", "Die Einwohnerzahl der Stadt selbst beträgt etwa 3.000 Personen."],
+      hu: ["A várost 1746-ban alapították francia telepesek.", "Soufrière 1780-ig szolgált Saint Lucia fővárosaként.", "A várost 1955-ben egy pusztító tűzvész szinte teljesen elpusztította.", "A közeli Pitonokat 2004-ben vették fel az UNESCO világörökségi listájára.", "A Sulphur Springs a világ egyetlen 'autóval bejárható' vulkánjaként ismert.", "A város lakossága körülbelül 3000 főt tesz ki."],
+      ro: ["Orașul a fost fondat în anul 1746 de către coloniștii francezi.", "Soufrière a servit drept capitală a Sfintei Lucia până în anul 1780.", "Orașul a fost aproape complet distrus de un incendiu devastator în 1955.", "Vârfurile Pitons din apropiere au fost incluse în patrimoniul UNESCO în 2004.", "Sulphur Springs este considerat singurul vulcan 'drive-in' din lume.", "Populația orașului propriu-zis este de aproximativ 3.000 de persoane."],
+      en: ["The town was founded in 1746 by French settlers.", "Soufrière served as the capital of Saint Lucia until 1780.", "The town was almost entirely destroyed by a devastating fire in 1955.", "The nearby Pitons were designated as a UNESCO World Heritage site in 2004.", "Sulphur Springs is known as the world's only 'drive-in' volcano.", "The population of the town itself is approximately 3,000 individuals."],
+    },
   },
   {
     id: "saintlucia-laborie-village-cities-v2",
@@ -1425,6 +2313,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Hub for traditional arts and crafts", "Offers authentic cultural experiences", "Site of the historic Laborie church", "Known for its calm, reef-protected bay"],
     },
     imageHint: "Laborie Village square Saint Lucia",
+    descriptionAdvanced: {
+      de: "Laborie Village ist ein malerisches Fischerdorf an der Südküste von Saint Lucia, das für seine authentische Atmosphäre und gut erhaltene lokale Kultur bekannt ist. Das Dorf liegt in einer geschützten Bucht und ist von bewaldeten Hügeln umgeben. Laborie hat sich seinen traditionellen Charme bewahrt und bietet Einblicke in das ursprüngliche Leben der Inselbewohner fernab der großen Touristenzentren.",
+      hu: "Laborie Village egy festői halászfalu Saint Lucia déli partján, amely autentikus légköréről és jól megőrzött helyi kultúrájáról ismert. A falu egy védett öbölben fekszik, és erdős dombok veszik körül. Laborie megőrizte hagyományos báját, és betekintést nyújt a szigetlakók eredeti életébe, távol a nagy turisztikai központoktól.",
+      ro: "Satul Laborie este un sat pitoresc de pescari de pe coasta de sud a insulei Sfânta Lucia, cunoscut pentru atmosfera sa autentică și cultura locală bine conservată. Satul este situat într-un golf protejat și este înconjurat de dealuri împădurite. Laborie și-a păstrat farmecul tradițional, oferind o privire asupra vieții rurale autentice.",
+      en: "Laborie Village is a picturesque fishing village on the southern coast of Saint Lucia, known for its authentic atmosphere and well-preserved local culture. The village is situated in a sheltered bay and is surrounded by forested hills. Laborie has retained its traditional charm, offering insights into the island's heritage far from the major tourist hubs.",
+    },
+    factsAdvanced: {
+      de: ["Das Dorf wurde Mitte des 18. Jahrhunderts offiziell gegründet.", "Es wurde 1784 nach dem französischen Gouverneur Baron de Laborie benannt.", "Die katholische Kirche des Dorfes wurde im Jahr 1914 erbaut.", "Laborie war historisch ein bedeutendes Zentrum für die Produktion von Zucker.", "Die Bucht wird durch ein vorgelagertes Riff vor starken Wellen geschützt.", "Im Dorf leben etwa 1.100 Einwohner laut Erhebungen der letzten Dekade."],
+      hu: ["A falut hivatalosan a 18. század közepén alapították.", "1784-ben nevezték el Baron de Laborie francia kormányzóról.", "A falu katolikus temploma 1914-ben épült.", "Laborie történelmileg a cukortermelés egyik fontos központja volt.", "Az öblöt egy tengerparti zátony védi az erős hullámoktól.", "A faluban körülbelül 1100 lakos él az elmúlt évtized felmérései szerint."],
+      ro: ["Satul a fost fondat oficial la mijlocul secolului al XVIII-lea.", "A fost numit în 1784 după guvernatorul francez Baron de Laborie.", "Biserica catolică din sat a fost construită în anul 1914.", "Laborie a fost istoric un centru important pentru producția de zahăr.", "Golful este protejat de valurile puternice de un recif din apropiere.", "În sat trăiesc aproximativ 1.100 de locuitori conform datelor recente."],
+      en: ["The village was officially established in the mid-18th century.", "It was named after the French governor Baron de Laborie in 1784.", "The village's Catholic church was constructed in 1914.", "Laborie was historically a significant center for sugar production.", "The bay is protected from heavy swells by an offshore reef.", "The village has about 1,100 inhabitants according to records from the last decade."],
+    },
   },
   {
     id: "saintlucia-micoud-village-cities-v2",
@@ -1444,6 +2344,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Houses a large community resource center", "Site of the landmark Micoud church", "Hub for regional banana logistics", "Provides expansive views of the Atlantic"],
     },
     imageHint: "Micoud Village church Saint Lucia",
+    descriptionAdvanced: {
+      de: "Micoud Village ist das administrative Zentrum des gleichnamigen Distrikts an der Südostküste von Saint Lucia. Die Siedlung liegt an einer weiten Bucht des Atlantischen Ozeans und dient als wichtiger Knotenpunkt für die landwirtschaftlichen Erzeugnisse der Region. Micoud ist geprägt von einer starken Gemeinschaft und spielt eine zentrale Rolle in der Geschichte der Bananenexporte der Insel.",
+      hu: "Micoud Village az azonos nevű körzet közigazgatási központja Saint Lucia délkeleti partján. A település az Atlanti-óácean egyik tágas öblében fekszik, és a régió mezőgazdasági termékeinek fontos csomópontjaként szolgál. Micoud-t erős közösség jellemzi, és központi szerepet játszik a sziget banánexportjának történetében.",
+      ro: "Satul Micoud este centrul administrativ al districtului cu același nume de pe coasta de sud-est a Sfintei Lucia. Așezarea este situată într-un golf larg al Oceanului Atlantic și servește ca un nod important pentru produsele agricole ale regiunii. Micoud are o comunitate unită și joacă un rol central în istoria exporturilor de banane.",
+      en: "Micoud Village is the administrative center of the eponymous district on the southeastern coast of Saint Lucia. The settlement is located on a broad bay of the Atlantic Ocean and serves as a major hub for the region's agricultural produce. Micoud is characterized by a strong community and plays a central role in the island's banana export history.",
+    },
+    factsAdvanced: {
+      de: ["Die Ortschaft wurde nach dem französischen Gouverneur Baron de Micoud (1763) benannt.", "Im Jahr 2010 lebten etwa 2.700 Menschen im eigentlichen Dorfbereich.", "Die St. Lucia-Kirche im Dorf ist ein markantes religiöses Bauwerk.", "Der Ort war im 20. Jahrhundert ein Haupthafen für die Verschiffung von Bananen.", "Im Jahr 2010 verursachte Hurrikan Tomas schwere Schäden in der Gemeinde.", "Eine massive Kaimauer schützt die Siedlung vor den Gezeiten des Atlantiks."],
+      hu: ["A települést Baron de Micoud francia kormányzóról (1763) nevezték el.", "2010-ben körülbelül 2700 ember élt magában a faluban.", "A falu Szent Lucia-temploma kiemelkedő vallási építmény.", "A település a 20. században a banánszállítás egyik fő kikötője volt.", "2010-ben a Tomas hurrikán súlyos károkat okozott a közösségben.", "Egy masszív gát védi a települést az Atlanti-óceán árapályától."],
+      ro: ["Localitatea a fost numită după guvernatorul francez Baron de Micoud (1763).", "În anul 2010, aproximativ 2.700 de persoane locuiau în vatra satului.", "Biserica Sfânta Lucia din sat este un edificiu religios proeminent.", "Satul a fost un port principal pentru expedierea bananelor în secolul al XX-lea.", "În 2010, uraganul Tomas a provocat pagube severe în comunitate.", "Un dig masiv protejează așezarea de mareele puternice ale Atlanticului."],
+      en: ["The settlement was named after the French Governor Baron de Micoud (1763).", "In 2010, approximately 2,700 people lived in the main village area.", "St. Lucy's Church in the village is a prominent religious landmark.", "The site was a major port for banana shipments during the 20th century.", "Hurricane Tomas caused severe damage to the community in 2010.", "A massive sea wall protects the settlement from Atlantic tides."],
+    },
   },
   {
     id: "saintlucia-dennery-village-cities-v2",
@@ -1463,6 +2375,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Famous for its active fishing fleet", "Site of the historic Dennery church", "Houses a major agricultural packing plant", "Features stunning overlooks of the bay"],
     },
     imageHint: "Dennery Village bay Saint Lucia",
+    descriptionAdvanced: {
+      de: "Dennery Village ist ein lebhaftes Fischerdorf an der Ostküste von Saint Lucia, das in einer weiten Bucht liegt. Es ist eines der größten Dörfer der Insel und bekannt für seine bedeutende Fischereiindustrie und das wöchentliche Fischfestival. Die Lage am Atlantik verleiht dem Ort ein dynamisches maritimes Flair, während das Umland reich an landwirtschaftlichen Flächen ist.",
+      hu: "Dennery Village egy élénk halászfalu Saint Lucia keleti partján, amely egy tágas öbölben fekszik. Ez a sziget egyik legnagyobb faluja, amely jelentős halászati iparáról és heti halfesztiváljáról ismert. Az atlanti fekvés dinamikus tengeri hangulatot kölcsönöz a helynek, míg a környék mezőgazdasági területekben gazdag.",
+      ro: "Satul Dennery este un sat de pescari plin de viață situat pe coasta de est a insulei Sfânta Lucia, într-un golf larg. Este unul dintre cele mai mari sate de pe insulă, renumit pentru industria sa piscicolă semnificativă și pentru festivalul săptămânal al peștelui. Locația la Atlantic îi conferă un aer maritim dinamic.",
+      en: "Dennery Village is a vibrant fishing village on the east coast of Saint Lucia, situated in a wide bay. It is one of the island's largest villages, renowned for its significant fishing industry and weekly fish festival. Its Atlantic location gives the site a dynamic maritime flair, while the surrounding area is rich in agricultural land.",
+    },
+    factsAdvanced: {
+      de: ["Ursprünglich hieß der Ort Anse Canot, bevor er im 18. Jahrhundert umbenannt wurde.", "Die Einwohnerzahl des Dorfes wird auf etwa 3.000 Personen geschätzt.", "Das Dennery Fish Festival wurde in den 1990er Jahren zur Tourismusförderung initiiert.", "Die St. Peter's Catholic Church ist das zentrale religiöse Zentrum der Gemeinde.", "Der Ort verfügt über eine moderne Fischverarbeitungsanlage, die von Japan finanziert wurde.", "Dennery dient als wichtiger Umschlagplatz für landwirtschaftliche Güter im Osten."],
+      hu: ["A hely eredeti neve Anse Canot volt, mielőtt a 18. században átnevezték.", "A falu lakosságát körülbelül 3000 főre becsülik.", "A Dennery Halfesztivált az 1990-es években indították a turizmus fellendítésére.", "A Szent Péter katolikus templom a közösség központi vallási helyszíne.", "A település modern halfeldolgozó üzemmel rendelkezik, amelyet Japán finanszírozott.", "Dennery a keleti mezőgazdasági áruk fontos átrakodóhelyeként szolgál."],
+      ro: ["Inițial, locul se numea Anse Canot înainte de a fi redenumit în secolul al XVIII-lea.", "Populația satului este estimată la aproximativ 3.000 de persoane.", "Festivalul Peștelui din Dennery a fost inițiat în anii 1990 pentru turism.", "Biserica Catolică Sfântul Petru este centrul religios al comunității.", "Localitatea dispune de o unitate modernă de procesare a peștelui finanțată de Japonia.", "Dennery servește ca punct important de tranzit pentru bunurile agricole din est."],
+      en: ["The site was originally named Anse Canot before being renamed in the 18th century.", "The village's population is estimated to be approximately 3,000 individuals.", "The Dennery Fish Festival was initiated in the 1990s to boost tourism.", "St. Peter's Catholic Church serves as the primary religious center for the community.", "The village possesses a modern fish processing facility funded by Japan.", "Dennery serves as a key transit point for agricultural goods in the east."],
+    },
   },
   {
     id: "saintlucia-anse-la-raye-village-cities-v2",
@@ -1482,6 +2406,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Host of the famous Seafood Friday festival", "Site of the local Catholic mission church", "Hub for traditional boat building", "Offers scenic views of the Caribbean coast"],
     },
     imageHint: "Anse La Raye Village fishing boats Saint Lucia",
+    descriptionAdvanced: {
+      de: "Anse La Raye Village ist ein malerischer Küstenort an der Westküste von Saint Lucia, bekannt für seine bunten Holzhäuser und das berühmte Seafood Friday Event. Das Dorf liegt zwischen zwei Flussmündungen und hat sich trotz des Tourismus seinen traditionellen Charakter als Fischergemeinde bewahrt. Die Architektur spiegelt eine Mischung aus französischen und englischen kolonialen Einflüssen wider.",
+      hu: "Anse La Raye Village egy festői tengerparti település Saint Lucia nyugati partján, amely színes faházairól és a híres Seafood Friday eseményről ismert. A falu két folyótorkolat között fekszik, és a turizmus ellenére megőrizte hagyományos halászközösségi jellegét. Az építészet a francia és angol gyarmati hatások keveredését tükrözi.",
+      ro: "Satul Anse La Raye este o localitate de coastă pitorească de pe coasta de vest a insulei Sfânta Lucia, cunoscută pentru casele sale colorate din lemn și evenimentul Seafood Friday. Satul este situat între două guri de râu și și-a păstrat caracterul tradițional de comunitate de pescari. Arhitectura reflectă influențele coloniale.",
+      en: "Anse La Raye Village is a scenic coastal settlement on the west coast of Saint Lucia, known for its colorful wooden houses and the famous Seafood Friday event. The village is situated between two river mouths and has maintained its traditional character as a fishing community despite tourism. The architecture reflects colonial influences.",
+    },
+    factsAdvanced: {
+      de: ["Das Dorf wurde offiziell im Jahr 1765 von französischen Siedlern gegründet.", "Die römisch-katholische Kirche des Ortes stammt in ihrer heutigen Form aus dem Jahr 1907.", "Das Seafood Friday Festival wurde in den 1990er Jahren ins Leben gerufen.", "Der Name des Dorfes leitet sich von den Rochen ab, die in der Bucht vorkommen.", "Im Dorf leben schätzungsweise 1.400 Einwohner in der Kernsiedlung.", "Anse La Raye Falls ist ein nahegelegener Wasserfall, der Touristen anzieht."],
+      hu: ["A falut hivatalosan 1765-ben alapították francia telepesek.", "A település római katolikus temploma mai formájában 1907-ből származik.", "A Seafood Friday fesztivált az 1990-es években hívták életre.", "A falu neve az öbölben előforduló rájákról kapta a nevét.", "A faluban becslések szerint 1400 lakos él a központi településen.", "Az Anse La Raye Falls egy közeli vízesés, amely vonzza a turistákat."],
+      ro: ["Satul a fost fondat oficial în anul 1765 de către coloniștii francezi.", "Biserica romano-catolică din localitate datează, în forma actuală, din 1907.", "Festivalul Seafood Friday a fost creat în anii 1990.", "Numele satului derivă de la pisicile de mare care se găsesc în golf.", "În sat locuiesc aproximativ 1.400 de persoane în zona centrală.", "Cascada Anse La Raye este o atracție din apropiere care atrage turiștii."],
+      en: ["The village was officially founded in 1765 by French settlers.", "The local Roman Catholic church dates back to 1907 in its current form.", "The Seafood Friday festival was established during the 1990s.", "The village's name is derived from the rays found in the bay.", "Approximately 1,400 residents live in the core settlement of the village.", "Anse La Raye Falls is a nearby waterfall that attracts tourists."],
+    },
   },
   {
     id: "saintlucia-choiseul-village-cities-v2",
@@ -1501,6 +2437,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Center for traditional coal pot pottery", "Site of the historic Choiseul parish church", "Offers stunning views of Gros Piton", "Local hub for artisanal line fishing"],
     },
     imageHint: "Choiseul Village coast Saint Lucia",
+    descriptionAdvanced: {
+      de: "Choiseul Village liegt an der Südwestküste von Saint Lucia und ist als das Zentrum des traditionellen Kunsthandwerks der Insel bekannt. Das Dorf ist berühmt für die Herstellung von Töpferwaren, Körben und Grasmatten, die Techniken verwenden, die seit Generationen weitergegeben werden. Die Region bietet zudem spektakuläre Ausblicke auf die Pitons und das Karibische Meer.",
+      hu: "Choiseul Village Saint Lucia délnyugati partján fekszik, és a sziget hagyományos kézművességének központjaként ismert. A falu híres a kerámiák, kosarak és fűszőnyegek készítéséről, olyan technikákat alkalmazva, amelyeket nemzedékek óta adnak tovább. A régió emellett látványos kilátást nyújt a Pitonokra és a Karib-tengerre.",
+      ro: "Satul Choiseul este situat pe coasta de sud-vest a Sfintei Lucia și este cunoscut ca centrul meșteșugurilor tradiționale ale insulei. Satul este renumit pentru producția de ceramică, coșuri și rogojini, folosind tehnici transmise de generații. Regiunea oferă, de asemenea, vederi spectaculoase asupra vârfurilor Pitons.",
+      en: "Choiseul Village is located on the southwestern coast of Saint Lucia and is known as the island's center for traditional arts and crafts. The village is famous for the production of pottery, baskets, and grass mats, using techniques passed down through generations. The region also offers spectacular views of the Pitons and the Caribbean Sea.",
+    },
+    factsAdvanced: {
+      de: ["Der Ort wurde 1761 nach dem französischen Herzog von Choiseul benannt.", "Die Kirche der Unbefleckten Empfängnis wurde im Jahr 1846 fertiggestellt.", "Die Region ist der Hauptproduzent der traditionellen 'Coal Pots' aus Ton.", "Choiseul beherbergt etwa 1.700 Einwohner im unmittelbaren Dorfgebiet.", "In der Nähe befinden sich antike Petroglyphen der präkolumbianischen Ära.", "Die Ortschaft war früher unter dem Namen Anse Citron bekannt."],
+      hu: ["A helyet 1761-ben nevezték el Choiseul francia hercegről.", "A Szeplőtelen Fogantatás temploma 1846-ban készült el.", "A régió a hagyományos agyag 'szénedények' (coal pots) fő előállítója.", "Choiseul közvetlen falusi területén körülbelül 1700 lakos él.", "A közelben a prekolumbián korszakból származó ősi sziklarajzok találhatók.", "A település korábban Anse Citron néven volt ismert."],
+      ro: ["Localitatea a fost numită în 1761 după ducele francez de Choiseul.", "Biserica Neprihănitei Zămisliri a fost finalizată în anul 1846.", "Regiunea este principalul producător al 'oalelor de cărbune' tradiționale din lut.", "Choiseul găzduiește aproximativ 1.700 de locuitori în zona satului propriu-zis.", "În apropiere se află petroglife antice din epoca precolumbiană.", "Localitatea era cunoscută anterior sub numele de Anse Citron."],
+      en: ["The site was named after the French Duke of Choiseul in 1761.", "The Church of the Immaculate Conception was completed in 1846.", "The region is the primary producer of traditional clay 'coal pots'.", "Choiseul houses approximately 1,700 residents in the immediate village area.", "Ancient petroglyphs from the pre-Columbian era are located nearby.", "The settlement was previously known by the name Anse Citron."],
+    },
   },
   {
     id: "saintlucia-canaries-village-cities-v2",
@@ -1520,6 +2468,18 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Offers highly authentic local experiences", "Site of the village Catholic church", "Center for traditional cassava processing", "Features dramatic coastal scenery"],
     },
     imageHint: "Canaries Village valley Saint Lucia",
+    descriptionAdvanced: {
+      de: "Canaries Village ist ein isoliert gelegener Küstenort an der Westküste von Saint Lucia, der seinen Namen den traditionellen Tontöpfen verdankt. Das Dorf ist von steilen Hügeln umgeben und war bis Mitte des 20. Jahrhunderts nur über den Seeweg erreichbar. Heute ist es eine friedliche Fischergemeinde, die für ihre authentische Lebensweise und unberührte Natur bekannt ist.",
+      hu: "Canaries Village egy elszigetelt tengerparti település Saint Lucia nyugati partján, amely a nevét a hagyományos agyagedényeknek köszönheti. A falut meredek dombok veszik körül, és a 20. század közepéig csak tengeren volt megközelíthető. Ma ez egy békés halászközösség, amely autentikus életmódjáról ismert.",
+      ro: "Satul Canaries este o localitate de coastă izolată de pe coasta de vest a insulei Sfânta Lucia, care își datorează numele oalelor tradiționale de lut. Satul este înconjurat de dealuri abrupte și a fost accesibil doar pe mare până la jumătatea secolului al XX-lea. Astăzi este o comunitate de pescari pașnică.",
+      en: "Canaries Village is an isolated coastal settlement on the west coast of Saint Lucia, which owes its name to traditional clay pots. The village is surrounded by steep hills and was accessible only by sea until the mid-20th century. Today, it is a peaceful fishing community known for its authentic lifestyle.",
+    },
+    factsAdvanced: {
+      de: ["Der Name 'Canaries' stammt vom indianischen Wort für Tontöpfe ab.", "Die Siedlung wurde im Jahr 1836 offiziell zur Pfarrei erhoben.", "Bis in die 1960er Jahre gab es keine Straßenverbindung zum Rest der Insel.", "Die Einwohnerzahl liegt laut Volkszählung 2010 bei etwa 1.300 Personen.", "Der Canaries River mündet im nördlichen Teil des Dorfes in das Meer.", "Die lokale Wirtschaft basiert fast ausschließlich auf Subsistenzfischerei."],
+      hu: ["A 'Canaries' név az agyagedényekre utaló indián szóból származik.", "A települést 1836-ban emelték hivatalosan egyházközségi rangra.", "Az 1960-as évekig nem volt közúti összeköttetés a sziget többi részével.", "A lakosság száma a 2010-es népszámlálás szerint körülbelül 1300 fő.", "A Canaries-folyó a falu északi részén torkollik a tengerbe.", "A helyi gazdaság szinte kizárólag az önellátó halászaton alapul."],
+      ro: ["Numele 'Canaries' provine din cuvântul amerindian pentru oale de lut.", "Așezarea a fost ridicată oficial la rangul de parohie în anul 1836.", "Până în anii 1960, nu a existat nicio legătură rutieră cu restul insulei.", "Populația este de aproximativ 1.300 de persoane conform recensământului din 2010.", "Râul Canaries se varsă în mare în partea de nord a satului.", "Economia locală se bazează aproape exclusiv pe pescuitul de subzistență."],
+      en: ["The name 'Canaries' is derived from the Amerindian word for clay pots.", "The settlement was officially elevated to parish status in 1836.", "There was no road connection to the rest of the island until the 1960s.", "The population stood at approximately 1,300 people according to the 2010 census.", "The Canaries River empties into the sea at the northern end of the village.", "The local economy is based almost entirely on subsistence fishing."],
+    },
   },
   {
     id: "saintlucia-babonneau-village-cities-v2",
@@ -1539,5 +2499,17 @@ export const saintluciaCitiesV2: POI[] = [
       en: ["Significant banana production region", "Site of the local parish church", "Hub for agricultural education", "Offers panoramic valley views"],
     },
     imageHint: "Babonneau Village hill Saint Lucia",
+    descriptionAdvanced: {
+      de: "Babonneau Village ist eine bedeutende Gemeinde im hügeligen Landesinneren im Norden von Saint Lucia. Der Ort ist bekannt als ein Zentrum für landwirtschaftliche Innovation und den Erhalt des kulturellen Erbes der Insel. Die Gemeinschaft ist geprägt durch eine starke soziale Bindung und beherbergt wichtige Bildungseinrichtungen für die umliegende ländliche Region.",
+      hu: "Babonneau Village jelentős közösség Saint Lucia északi részének dombos belsejében. A település a mezőgazdasági innováció és a sziget kulturális öröksége megőrzésének központjaként ismert. A közösséget erős társadalmi kötődés jellemzi, és fontos oktatási intézményeknek ad otthont a környező vidéki régió számára.",
+      ro: "Satul Babonneau este o comunitate importantă situată în interiorul deluros din nordul Sfintei Lucia. Localitatea este cunoscută ca un centru pentru inovația agricolă și conservarea moștenirii culturale a insulei. Comunitatea este marcată de legături sociale puternice și găzduiește instituții educaționale.",
+      en: "Babonneau Village is a significant community in the hilly interior of northern Saint Lucia. The site is known as a center for agricultural innovation and the preservation of the island's cultural heritage. The community is characterized by strong social ties and houses important educational facilities for the surrounding rural region.",
+    },
+    factsAdvanced: {
+      de: ["Babonneau wurde als Siedlung bereits im frühen 19. Jahrhundert erwähnt.", "Die lokale Grundschule wurde in ihrer heutigen Form um 1960 errichtet.", "Die Einwohnerzahl des Dorfes selbst beträgt etwa 2.500 Personen.", "Die Region ist führend im Anbau von Gewürzen und tropischen Früchten.", "Babonneau dient als Ausgangspunkt für Touren in das Waldreservat der Insel.", "Ein jährliches Community-Festival feiert die lokalen landwirtschaftlichen Erträge."],
+      hu: ["Babonneau települést már a 19. század elején említették.", "A helyi általános iskola mai formájában 1960 körül épült.", "A falu lakossága önmagában körülbelül 2500 főt tesz ki.", "A régió vezető szerepet tölt be a fűszerek és trópusi gyümölcsök termesztésében.", "Babonneau kiindulópontként szolgál a sziget erdőrezervátumába induló túrákhoz.", "Az évenkénti közösségi fesztivál a helyi mezőgazdasági terményeket ünnepli."],
+      ro: ["Babonneau a fost menționat ca așezare încă de la începutul secolului al XIX-lea.", "Școala primară locală a fost construită în forma actuală în jurul anului 1960.", "Populația satului propriu-zis este de aproximativ 2.500 de persoane.", "Regiunea este lider în cultivarea condimentelor și a fructelor tropicale.", "Babonneau servește ca punct de plecare pentru excursii în rezervația forestieră.", "Un festival anual al comunității celebrează recoltele agricole locale."],
+      en: ["Babonneau was mentioned as a settlement as early as the beginning of the 19th century.", "The local primary school was constructed in its current form around 1960.", "The population of the village itself is approximately 2,500 individuals.", "The region is a leader in the cultivation of spices and tropical fruits.", "Babonneau serves as a starting point for tours into the island's forest reserve.", "An annual community festival celebrates local agricultural yields."],
+    },
   }
 ];

@@ -529,7 +529,19 @@ export const canadaCities: POI[] = [
   {
     id: "can_cntower",    name: { de: "CN Tower", hu: "CN Tower", ro: "CN Tower", en: "CN Tower" },
     description: { de: "Iconic tower in Toronto", hu: "Ikonikus torony Torontóban", ro: "Turn iconic în Toronto", en: "Iconic tower in Toronto" },
-    coords: [-79.3871, 43.6426], type: 'landmark', parent: 'CA'
+    coords: [-79.3871, 43.6426], type: 'landmark', parent: 'CA',
+    descriptionAdvanced: {
+      de: "Der CN Tower in Toronto ist ein Wahrzeichen Kanadas und war über 30 Jahre lang das höchste freistehende Bauwerk der Welt. Er dient als Funk- und Fernsehturm sowie als Aussichtsplattform mit einem berühmten Glasboden. Das rotierende Restaurant an der Spitze bietet einen Panoramablick über den Ontariosee. Der Turm ist eine ingenieurtechnische Meisterleistung des 20. Jahrhunderts.",
+      hu: "A torontói CN Tower Kanada jelképe, amely több mint 30 éven át a világ legmagasabb szabadon álló építménye volt. Rádió- és televíziótoronyként, valamint kilátóként szolgál, híres üvegpadlójával. A tetején lévő forgó étterem panorámás kilátást nyújt az Ontario-tóra. A torony a 20. század egyik legjelentősebb mérnöki teljesítménye.",
+      ro: "CN Tower din Toronto este simbolul Canadei și a deținut titlul de cea mai înaltă structură autoportantă din lume timp de peste 30 de ani. Servește drept turn de comunicații și platformă de observație, fiind celebru pentru podeaua de sticlă. Restaurantul rotitor din vârf oferă o panoramă completă asupra lacului Ontario. Este o capodoperă a ingineriei.",
+      en: "The CN Tower in Toronto is an iconic Canadian landmark and held the record for the world's tallest free-standing structure for over 30 years. It functions as a communications tower and observation site, famous for its glass floor. The rotating restaurant at the top offers panoramic views of Lake Ontario. It remains a marvel of 20th-century engineering.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 553,33 Metern", "Fertiggestellt im Jahr 1976", "Glasboden in 342 Metern Höhe", "Restaurant dreht sich alle 72 Minuten", "Vom Blitz etwa 75 Mal pro Jahr getroffen", "Bauzeit betrug insgesamt 40 Monate"],
+      hu: ["Magassága 553,33 méter", "1976-ban fejezték be az építését", "Üvegpadló 342 méteres magasságban", "Az étterem 72 percenként tesz meg egy kört", "Évente átlagosan 75 villámcsapás éri", "Az építkezés 40 hónapig tartott"],
+      ro: ["Înălțime totală de 553,33 metri", "Construcție finalizată în anul 1976", "Podea de sticlă la 342 metri înălțime", "Restaurantul se rotește complet în 72 minute", "Lovite de fulger de circa 75 ori pe an", "Durata construcției a fost de 40 de luni"],
+      en: ["Stands 553.33 meters tall", "Completed in 1976 after 40 months", "Glass floor located at 342 meters high", "360 Restaurant rotates every 72 minutes", "Struck by lightning about 75 times a year", "Was world's tallest until 2007"],
+    },
   },
   {
     id: "can_jasper",    name: { de: "Jasper National Park", hu: "Jasper Nemzeti Park", ro: "Parcul Național Jasper", en: "Jasper National Park" },
@@ -552,7 +564,20 @@ export const canadaCities: POI[] = [
   {
     id: "can_whistler",    name: { de: "Whistler", hu: "Whistler", ro: "Whistler", en: "Whistler" },
     description: { de: "Whistler ist ein Weltklasse-Resort in British Columbia, eingebettet in die spektakulären Coast Mountains. Es ist weltweit berühmt für seine außergewöhnlichen Ski- und Snowboardmöglichkeiten sowie sein lebhaftes Alpendorf.", hu: "Whistler egy világszínvonalú üdülőváros Brit Kolumbiában, a látványos Parti-hegységben. Világszerte híres kiváló síelési és snowboardozási lehetőségeiről, valamint nyüzsgő alpesi falujáról.", ro: "Whistler este o stațiune de clasă mondială din Columbia Britanică, situată în spectaculoșii Munți de Coastă. Este renumită la nivel global pentru schi, snowboarding și satul său alpin plin de viață.", en: "Whistler is a world-class resort town in British Columbia, nestled in the spectacular Coast Mountains. It is globally famous for its exceptional skiing, snowboarding, and vibrant alpine village." },
-    coords: [-122.9574, 50.1163], type: 'landmark', parent: 'CA', image: "/poi-images/can_whistler.webp"},
+    coords: [-122.9574, 50.1163], type: 'landmark', parent: 'CA', image: "/poi-images/can_whistler.webp",
+    descriptionAdvanced: {
+      de: "Whistler ist ein weltberühmter Wintersportort in den Coast Mountains von British Columbia. Die Gemeinde erlangte durch die Austragung der alpinen Wettbewerbe der Olympischen Winterspiele 2010 internationale Bekanntheit. Neben dem Skisport ist die Region ein Zentrum für Mountainbiking und Wandertourismus in Westkanada.",
+      hu: "Whistler világhírű üdülőváros a kanadai Brit Kolumbiában, a Part menti hegységben. A település a 2010-es téli olimpiai játékok egyik fő helyszíneként vált nemzetközileg ismertté. A Whistler Blackcomb síközpont mellett a terület nyáron a hegyi kerékpározás és a túrázás központjaként funkcionál.",
+      ro: "Whistler este o stațiune montană renumită situată în Munții de Coastă din Columbia Britanică. Localitatea a câștigat notorietate internațională ca gazdă a probelor alpine din cadrul Jocurilor Olimpice de Iarnă din 2010. Pe lângă sporturile de iarnă, regiunea este un centru major pentru ciclism montan și drumeții.",
+      en: "Whistler is a world-renowned resort town located in the Coast Mountains of British Columbia. The community gained international fame as a primary venue for the 2010 Winter Olympic Games. Beyond its extensive ski slopes, the area serves as a premier destination for mountain biking and alpine hiking in North America.",
+    },
+    factsAdvanced: {
+      de: ["Austragungsort der Olympischen Winterspiele 2010", "Sitz des Whistler Blackcomb, eines der größten Skigebiete Nordamerikas", "Liegt etwa 125 Kilometer nördlich von Vancouver", "Höchste Erhebung im Skigebiet ist der Blackcomb Mountain mit 2440 Metern", "Die Peak 2 Peak Gondel verbindet zwei Berggipfel über 4,4 Kilometer", "Gegründet als Resort-Gemeinde im Jahr 1975"],
+      hu: ["A 2010-es téli olimpiai játékok alpesi versenyeinek helyszíne", "Itt található Észak-Amerika egyik legnagyobb síközpontja, a Whistler Blackcomb", "Vancouvertől körülbelül 125 kilométerre északra fekszik", "A Blackcomb-hegy legmagasabb pontja 2440 méter", "A Peak 2 Peak felvonó 4,4 kilométeres távolságon köti össze a csúcsokat", "A települést hivatalosan 1975-ben alapították üdülővárosként"],
+      ro: ["Gazdă a probelor alpine pentru Jocurile Olimpice de Iarnă din 2010", "Adăpostește Whistler Blackcomb, unul dintre cele mai mari domenii schiabile", "Situat la aproximativ 125 de kilometri nord de Vancouver", "Altitudinea maximă pe muntele Blackcomb este de 2440 metri", "Telegondola Peak 2 Peak face legătura între vârfuri pe o distanță de 4,4 km", "Localitatea a fost încorporată ca municipalitate de stațiune în 1975"],
+      en: ["Host venue for the 2010 Winter Olympic alpine skiing events", "Home to Whistler Blackcomb, one of North America's largest ski resorts", "Located approximately 125 kilometers north of Vancouver", "The highest elevation in the ski area is Blackcomb Mountain at 2,440 meters", "The Peak 2 Peak Gondola spans 4.4 kilometers between two mountain peaks", "Incorporated as a resort municipality in 1975"],
+    },
+  },
   {
     id: "can_fundy",    name: { de: "Bay of Fundy", hu: "Fundy-öböl", ro: "Golful Fundy", en: "Bay of Fundy" },
     description: { de: "Known for high tides", hu: "Híres az árapályról", ro: "Cunoscut pentru maree înalte", en: "Known for high tides" },

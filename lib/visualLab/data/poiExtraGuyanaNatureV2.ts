@@ -462,7 +462,20 @@ export const poiExtraGuyanaNatureV2: POI[] = [ {
       hu: ["A neve azt jelenti: 'Névre várva'.", "Főként rizs- és kókusztermesztésre összpontosít."],
       ro: ["Numele înseamnă 'Așteptând un nume'.", "Concentrată în principal pe cultivarea orezului și a nucilor de cocos."],
       en: ["Name means 'Waiting for a name'.", "Mainly focused on rice and coconut farming."]
-    }, image: "/poi-images/guyana-wakenaam-island-nature-v2.webp"}, {
+    }, image: "/poi-images/guyana-wakenaam-island-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Wakenaam ist eine der größten Inseln im Mündungsdelta des Essequibo-Flusses in Guyana. Der Name stammt aus dem Niederländischen und bedeutet „Wartender Name“. Die fruchtbare Insel wird intensiv für den Anbau von Reis und Kokosnüssen sowie für die Viehzucht genutzt. Mit einer Fläche von etwa 45 Quadratkilometern beherbergt sie mehrere kleine Dörfer und ist nur per Boot oder Fähre erreichbar.",
+      hu: "Wakenaam Guyana Essequibo folyójának torkolatában található egyik legnagyobb sziget. Neve holland eredetű, jelentése „Várakozó név”. A termékeny szigetet intenzíven használják rizstermesztésre, kókuszültetvényekre és állattenyésztésre. Körülbelül 45 négyzetkilométeres területén több kis falu osztozik, és csak hajóval vagy komppal érhető el a szárazföldről.",
+      ro: "Wakenaam este una dintre cele mai mari insule din estuarul râului Essequibo în Guyana. Numele său provine din olandeză și s-ar traduce ca „Nume în așteptare”. Insula fertilă este utilizată intens pentru cultivarea orezului, a nucilor de cocos și pentru creșterea vitelor. Cu o suprafață de aproximativ 45 km pătrați, găzduiește mai multe sate mici și este accesibilă doar cu barca.",
+      en: "Wakenaam is one of the largest islands in the mouth of the Essequibo River in Guyana. Its name is derived from the Dutch for 'Waiting Name.' The fertile island is extensively used for rice cultivation, coconut farming, and cattle rearing. Spanning about 17.5 square miles (45 sq km), it is home to several small villages and is accessible only by boat or ferry services.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von etwa 45 Quadratkilometern", "Größter Ort der Insel ist Sans Souci", "Haupterwerbszweig ist der Reisanbau", "Erreichbar mit der Fähre von Parika", "Besteht hauptsächlich aus alluvialen Ablagerungen", "Niederländische Siedler legten die ersten Plantagen an"],
+      hu: ["Területe körülbelül 45 négyzetkilométer", "Legnagyobb települése Sans Souci", "Fő gazdasági ágazata a rizstermesztés", "Parikából induló komppal közelíthető meg", "Főként hordalékos talajból épül fel", "Az első ültetvényeket holland telepesek hozták létre"],
+      ro: ["Suprafață de aproximativ 45 de kilometri pătrați", "Cea mai mare localitate de pe insulă este Sans Souci", "Principala activitate economică este cultivarea orezului", "Accesibilă prin serviciul de feribot din Parika", "Formată în principal din depuneri aluvionare", "Coloniștii olandezi au înființat primele plantații"],
+      en: ["Area of approximately 17.5 square miles", "Sans Souci is the largest village on the island", "Primary economic activity is rice farming", "Accessible via ferry from Parika", "Composed mainly of fertile alluvial soil", "First plantations were established by Dutch settlers"],
+    },
+  }, {
     id: "guyana-leguan-island-nature-v2",
     type: "island",
     parent: "GY-ES",

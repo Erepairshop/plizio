@@ -19,6 +19,18 @@ export const mauritiusNatureV2: POI[] = [
       en: ["Consists of 7 main waterfalls", "Total drop of approximately 290 meters", "Major hub for canyoning in Mauritius", "Fed by the Tamarind River"],
     },
     imageHint: "Tamarind Falls Mauritius tropical landscape",
+    descriptionAdvanced: {
+      de: "Die Tamarind Falls, auch als Sept Cascades bekannt, sind eine Serie von sieben beeindruckenden Wasserfällen in der Nähe von Henrietta. Sie stürzen über mehrere Basaltstufen in eine tiefe, üppig bewachsene Schlucht des Rivière Tamarin. Der höchste Einzelfall erreicht eine Höhe von etwa 45 Metern, während der gesamte Komplex eine der spektakulärsten Naturlandschaften der Insel bildet. Das Gebiet ist ein wichtiges Ökosystem für seltene Pflanzen und Vögel in Mauritius.",
+      hu: "A Tamarind-vízesés, más néven Sept Cascades (Hét vízesés), hét egymást követő lenyűgöző zuhatag sorozata Henrietta közelében. A vízesések több bazaltlépcsőn keresztül zúdulnak le a Tamarin-folyó mély, buja növényzettel borított szurdokába. A legmagasabb zuhatag kb. 45 méteres, és az egész komplexum a sziget egyik leglátványosabb természeti képződménye. A terület fontos ökoszisztéma, amely számos ritka növénynek és madárfajnak ad otthont.",
+      ro: "Cascada Tamarind, cunoscută și sub numele de Sept Cascades, reprezintă o serie de șapte cascade impresionante situate lângă Henrietta. Acestea se revarsă peste mai multe trepte de bazalt într-un canion adânc și luxuriant format de râul Tamarin. Cea mai înaltă cădere de apă măsoară aproximativ 45 de metri, întregul complex fiind unul dintre cele mai spectaculoase peisaje naturale ale insulei. Zona este un ecosistem vital pentru plante și păsări rare.",
+      en: "Tamarind Falls, also known as Sept Cascades, is a series of seven impressive waterfalls located near Henrietta. The falls cascade over multiple basalt tiers into a deep, lush canyon carved by the Tamarin River. The highest single drop reaches approximately 45 meters, and the entire complex forms one of the most spectacular natural landscapes on the island. The area is a vital ecosystem, home to various rare plants and indigenous bird species.",
+    },
+    factsAdvanced: {
+      de: ["7 Wasserfälle", "Höchster Fall 45m", "Rivière Tamarin", "Nahe Henrietta", "Vulkanisches Gelände", "Wichtiges Ökosystem"],
+      hu: ["7 vízesés sorozata", "Legmagasabb ág 45m", "Tamarin-folyó", "Henrietta közelében", "Vulkáni szurdok", "Fontos ökoszisztéma"],
+      ro: ["Serie de 7 cascade", "Cea mai înaltă are 45m", "Râul Tamarin", "Lângă Henrietta", "Canion de bazalt", "Ecosistem protejat"],
+      en: ["Series of 7 waterfalls", "Highest drop 45m", "Tamarin River source", "Located near Henrietta", "Volcanic basalt tiers", "Vital natural ecosystem"],
+    },
   },
   {
     id: "mauritius-ile-aux-cerfs-nature-v2",
@@ -38,6 +50,18 @@ export const mauritiusNatureV2: POI[] = [
       en: ["Area of approximately 87 hectares", "Named after the Java deer", "Largest lagoon in Mauritius", "Accessible by boat from Trou d'Eau Douce"],
     },
     imageHint: "Ile aux Cerfs beach Mauritius turquoise water",
+    descriptionAdvanced: {
+      de: "Die Ile aux Cerfs ist eine etwa 87 Hektar große Insel vor der Ostküste von Mauritius im Distrikt Flacq. Sie liegt in einer der größten Lagunen des Landes und ist durch einen schmalen Kanal vom Festland getrennt. Die Insel ist heute ein bedeutendes Ziel für den Tagestourismus und beherbergt einen von Bernhard Langer entworfenen 18-Loch-Golfplatz. Ursprünglich wurde sie nach den Java-Mähnenhirschen benannt, die dort früher lebten.",
+      hu: "Az Ile aux Cerfs egy körülbelül 87 hektáros sziget Mauritius keleti partjainál, Flacq körzetében. Az ország egyik legnagyobb lagúnájában található, és egy keskeny csatorna választja el a szárazföldtől. A sziget ma jelentős turisztikai célpont, és egy Bernhard Langer által tervezett 18 lyukú golfpályának ad otthont. Eredetileg az egykor itt élt jávai számbárszarvasokról nevezték el.",
+      ro: "Ile aux Cerfs este o insulă de aproximativ 87 de hectare situată în largul coastei de est a Mauritius, în districtul Flacq. Se află într-una dintre cele mai mari lagune ale țării și este separată de continent printr-un canal îngust. Insula este astăzi o destinație turistică importantă și găzduiește un teren de golf cu 18 găuri proiectat de Bernhard Langer. Inițial, a fost numită după cerbii Java care trăiau acolo în trecut.",
+      en: "Ile aux Cerfs is an island of approximately 87 hectares located off the east coast of Mauritius in the Flacq district. It lies within one of the country's largest lagoons and is separated from the mainland by a narrow channel. The island is a major day-trip destination and hosts an 18-hole golf course designed by Bernhard Langer. It was originally named after the Java deer that used to inhabit the area.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 87 Hektar", "Gehört zum Distrikt Flacq", "Beherbergt einen 18-Loch-Golfplatz", "Name bedeutet Insel der Hirsche", "Erreichbar von Trou d'Eau Douce", "Liegt an der Ostküste von Mauritius"],
+      hu: ["Területe kb. 87 hektár", "Flacq körzetéhez tartozik", "18 lyukú golfpályával rendelkezik", "Neve Szarvasok szigetét jelenti", "Trou d'Eau Douce-ból érhető el", "Mauritius keleti partján fekszik"],
+      ro: ["Suprafață de aproximativ 87 hectare", "Aparține districtului Flacq", "Găzduiește un teren de golf cu 18 găuri", "Numele înseamnă Insula Cerbilor", "Accesibilă din Trou d'Eau Douce", "Situată pe coasta de est a Mauritius"],
+      en: ["Area of approximately 87 hectares", "Belongs to the Flacq district", "Hosts an 18-hole golf course", "Name means Island of Deer", "Accessible from Trou d'Eau Douce", "Located on the east coast of Mauritius"],
+    },
   },
   {
     id: "mauritius-gris-gris-cliffs-nature-v2",
@@ -57,6 +81,18 @@ export const mauritiusNatureV2: POI[] = [
       en: ["Southernmost point of Mauritius", "Lack of a protective coral reef", "Home to the 'Crying Rock' formation", "Composed of volcanic basalt"],
     },
     imageHint: "Gris Gris Mauritius cliffs crashing waves",
+    descriptionAdvanced: {
+      de: "Die Gris Gris Klippen befinden sich am südlichsten Punkt von Mauritius in der Nähe des Dorfes Souillac. Im Gegensatz zum Rest der Insel gibt es hier kein schützendes Korallenriff, sodass die Wellen des Indischen Ozeans direkt gegen den Basalt prallen. Ein bekanntes Merkmal ist der Felsen 'La Roche Qui Pleure', an dem das zurücklaufende Wasser optisch wie Tränen wirkt. Die geologische Formation verdeutlicht die vulkanische Entstehung der Insel.",
+      hu: "A Gris Gris sziklák Mauritius legdélebbi pontján találhatók, Souillac falu közelében. A sziget többi részével ellentétben itt nincs védő korallzátony, így az Indiai-óceán hullámai közvetlenül a bazaltnak csapódnak. Ismert jellegzetessége a 'La Roche Qui Pleure' szikla, ahol a visszafolyó víz látványa könnyekre emlékeztet. A geológiai képződmény jól szemlélteti a sziget vulkanikus eredetét.",
+      ro: "Stâncile Gris Gris sunt situate în cel mai sudic punct al insulei Mauritius, lângă satul Souillac. Spre deosebire de restul insulei, aici nu există un recif de corali protector, astfel încât valurile Oceanului Indian se lovesc direct de bazalt. O trăsătură cunoscută este stânca 'La Roche Qui Pleure', unde apa care se retrage creează iluzia optică a lacrimilor. Formațiunea geologică ilustrează originea vulcanică a insulei.",
+      en: "Gris Gris Cliffs are located at the southernmost point of Mauritius near the village of Souillac. Unlike the rest of the island, there is no protective coral reef here, allowing the Indian Ocean waves to crash directly against the basalt. A famous feature is the 'La Roche Qui Pleure' rock, where the receding water visually resembles tears. The geological formation illustrates the volcanic origin of the island.",
+    },
+    factsAdvanced: {
+      de: ["Südlichster Punkt von Mauritius", "Kein Korallenriff vorhanden", "Besteht aus vulkanischem Basalt", "Nahe der Ortschaft Souillac", "Heimat des weinenden Felsens", "Starke Meeresströmungen im Gebiet"],
+      hu: ["Mauritius legdélebbi pontja", "Nincs korallzátony a területen", "Vulkanikus bazaltból áll", "Souillac település közelében", "A síró szikla otthona", "Erős tengeráramlatok a környéken"],
+      ro: ["Cel mai sudic punct din Mauritius", "Nu există recif de corali", "Format din bazalt vulcanic", "Lângă localitatea Souillac", "Găzduiește stânca care plânge", "Curenți marini puternici în zonă"],
+      en: ["Southernmost point of Mauritius", "No coral reef present", "Composed of volcanic basalt", "Near the village of Souillac", "Home to the weeping rock", "Strong sea currents in the area"],
+    },
   },
   {
     id: "mauritius-mare-aux-vacoas-nature-v2",
@@ -76,6 +112,18 @@ export const mauritiusNatureV2: POI[] = [
       en: ["Largest lake in Mauritius", "Capacity: 25.8 million cubic meters", "First dam built in 1885", "Located at 564 meters elevation"],
     },
     imageHint: "Mare aux Vacoas reservoir Mauritius aerial",
+    descriptionAdvanced: {
+      de: "Mare aux Vacoas ist der größte Stausee auf Mauritius und liegt im zentralen Hochland im Distrikt Plaines Wilhems. Er hat eine Kapazität von etwa 25,8 Millionen Kubikmetern und dient als primäre Wasserquelle für die oberen Regionen der Insel. Der See wurde im späten 19. Jahrhundert in einem natürlichen Sumpfgebiet angelegt. Umgeben ist das Reservoir von dichten Wäldern, die eine wichtige Rolle im lokalen Ökosystem und Wasserhaushalt spielen.",
+      hu: "A Mare aux Vacoas Mauritius legnagyobb víztározója, a központi felföldön, Plaines Wilhems körzetében található. Kapacitása körülbelül 25,8 millió köbméter, és a sziget felsőbb régióinak elsődleges vízforrásaként szolgál. A tavat a 19. század végén alakították ki egy természetes mocsaras területen. A tározót sűrű erdők veszik körül, amelyek fontos szerepet játszanak a helyi ökoszisztémában és a vízháztartásban.",
+      ro: "Mare aux Vacoas este cel mai mare rezervor din Mauritius, situat în platoul central, în districtul Plaines Wilhems. Are o capacitate de aproximativ 25,8 milioane de metri cubi și servește ca sursă primară de apă pentru regiunile superioare ale insulei. Lacul a fost amenajat la sfârșitul secolului al XIX-lea într-o zonă mlăștinoasă naturală. Rezervorul este înconjurat de păduri dense care joacă un rol important în ecosistemul local.",
+      en: "Mare aux Vacoas is the largest reservoir in Mauritius, located in the central highlands in the Plaines Wilhems district. It has a capacity of about 25.8 million cubic meters and serves as the primary water source for the upper regions of the island. The lake was established in the late 19th century in a natural marshland area. The reservoir is surrounded by dense forests that play a vital role in the local ecosystem and water cycle.",
+    },
+    factsAdvanced: {
+      de: ["Größter Stausee des Landes", "Kapazität: 25,8 Mio. Kubikmeter", "Liegt im Distrikt Plaines Wilhems", "Höhe von ca. 600 m über Meer", "Erbaut im späten 19. Jahrhundert", "Wichtigste Trinkwasserquelle der Insel"],
+      hu: ["Az ország legnagyobb víztározója", "Kapacitása 25,8 millió m³", "Plaines Wilhems körzetben fekszik", "Kb. 600 méteres tengerszint feletti magasság", "A 19. század végén épült", "A sziget fő ivóvízforrása"],
+      ro: ["Cel mai mare rezervor din țară", "Capacitate: 25,8 milioane m³", "Situat în districtul Plaines Wilhems", "Altitudine de cca 600 m", "Construit la sfârșitul sec. XIX", "Sursă principală de apă potabilă"],
+      en: ["Largest reservoir in the country", "Capacity: 25.8 million cubic meters", "Located in Plaines Wilhems district", "Elevation of approx 600m", "Built in the late 19th century", "Main source of drinking water"],
+    },
   },
   {
     id: "mauritius-alexandra-falls-nature-v2",
@@ -95,6 +143,18 @@ export const mauritiusNatureV2: POI[] = [
       en: ["Drop of approximately 32 meters", "Located on the Plaine Champagne", "Part of Black River Gorges Park", "View over the Bel Ombre valley"],
     },
     imageHint: "Alexandra Falls Mauritius viewpoint",
+    descriptionAdvanced: {
+      de: "Die Alexandra Falls befinden sich im Black River Gorges Nationalpark auf einer Höhe von etwa 700 Metern über dem Meeresspiegel. Der Wasserfall wird durch den Alexandra River gespeist und stürzt über steile Klippen in die tiefen Schluchten des Nationalparks. Ein Aussichtspunkt bietet einen Blick sowohl auf die Kaskaden als auch auf die Südküste der Insel. Die umliegende Vegetation ist geprägt von einheimischen Pflanzenarten und dichten Regenwäldern.",
+      hu: "Az Alexandra-vízesés a Black River Gorges Nemzeti Parkban található, körülbelül 700 méteres tengerszint feletti magasságban. A vízesést az Alexandra-folyó táplálja, amely meredek sziklákon zúdul le a nemzeti park mély szakadékaiba. Egy kilátópontról rálátás nyílik mind a zuhatagokra, mind a sziget déli partjára. A környező vegetációt őshonos növényfajok és sűrű esőerdők jellemzik.",
+      ro: "Cascada Alexandra este situată în Parcul Național Black River Gorges, la o altitudine de aproximativ 700 de metri deasupra nivelului mării. Cascada este alimentată de râul Alexandra și se prăbușește peste stânci abrupte în cheile adânci ale parcului național. Un punct de observație oferă o vedere atât asupra cascadelor, cât și asupra coastei de sud a insulei. Vegetația înconjurătoare este marcată de specii de plante native.",
+      en: "Alexandra Falls is located within the Black River Gorges National Park at an elevation of about 700 meters above sea level. The waterfall is fed by the Alexandra River and plunges over steep cliffs into the deep gorges of the national park. A viewpoint offers a sight of both the cascades and the southern coast of the island. The surrounding vegetation is characterized by endemic plant species and dense rainforests.",
+    },
+    factsAdvanced: {
+      de: ["Im Black River Gorges Nationalpark", "Höhe von ca. 700 m über Meer", "Gespeist durch den Alexandra River", "Blick bis zur Südküste möglich", "Umgeben von nativem Regenwald", "Teil des zentralen Hochlandes"],
+      hu: ["A Black River Gorges Nemzeti Parkban", "Kb. 700 méteres tengerszint feletti magasság", "Az Alexandra-folyó táplálja", "Kilátás nyílik a déli partra", "Őshonos esőerdő veszi körül", "A központi felföld része"],
+      ro: ["În Parcul Național Black River Gorges", "Altitudine de cca 700 m", "Alimentată de râul Alexandra", "Vedere până la coasta de sud", "Înconjurată de pădure tropicală nativă", "Parte a platoului central"],
+      en: ["In Black River Gorges National Park", "Elevation of approx 700m", "Fed by the Alexandra River", "View extends to the south coast", "Surrounded by native rainforest", "Part of the central highlands"],
+    },
   },
   {
     id: "mauritius-maconde-rock-nature-v2",
@@ -114,6 +174,18 @@ export const mauritiusNatureV2: POI[] = [
       en: ["Popular viewpoint in the southwest", "Located at Baie du Cap", "Named after the Makonde people of Mozambique", "Part of a scenic coastal road"],
     },
     imageHint: "Maconde Rock viewpoint Mauritius coastal road",
+    descriptionAdvanced: {
+      de: "Der Macondé Rock ist eine markante Basaltformation an der Südwestküste von Mauritius bei Baie du Cap. Er liegt direkt an einer scharfen Kurve der Küstenstraße, die um den Felsen herumführt. Eine Treppe führt zu einem Aussichtspunkt auf der Spitze, der einen Panoramablick auf den Indischen Ozean und das Dorf bietet. Der Name soll an die Makonde-Sklaven aus Mosambik erinnern, die hier in der Kolonialzeit Zuflucht suchten.",
+      hu: "A Macondé-szikla egy jellegzetes bazaltképződmény Mauritius délnyugati partján, Baie du Cap közelében. Közvetlenül a part menti út egyik éles kanyarjában található, amely megkerüli a sziklát. Egy lépcső vezet a tetején lévő kilátóponthoz, amely panorámás kilátást nyújt az Indiai-óceánra és a falura. A név állítólag a mozambiki makonde rabszolgákra utal, akik a gyarmati időkben itt kerestek menedéket.",
+      ro: "Stânca Macondé este o formațiune bazaltică proeminentă pe coasta de sud-vest a Mauritius, lângă Baie du Cap. Este situată chiar într-o curbă strânsă a drumului de coastă care înconjoară stânca. O scară duce la un punct de belvedere în vârf, oferind o vedere panoramică asupra Oceanului Indian și a satului. Se spune că numele amintește de sclavii Makonde din Mozambic care s-au refugiat aici în perioada colonială.",
+      en: "Macondé Rock is a prominent basalt formation on the southwest coast of Mauritius near Baie du Cap. It is situated right at a sharp bend in the coastal road that wraps around the rock. A set of stairs leads to a viewpoint at the top, providing a panoramic view of the Indian Ocean and the village. The name is said to commemorate the Makonde slaves from Mozambique who sought refuge here during the colonial era.",
+    },
+    factsAdvanced: {
+      de: ["Liegt in der Nähe von Baie du Cap", "Basaltische Felsformation", "Bekannt für die scharfe Straßenkurve", "Aussichtspunkt per Treppe erreichbar", "Blick auf den Indischen Ozean", "Benannt nach Makonde aus Mosambik"],
+      hu: ["Baie du Cap közelében található", "Bazalt kőzetképződmény", "Híres az éles útkanyarról", "Kilátóhely lépcsőn érhető el", "Kilátás az Indiai-óceánra", "Mozambiki makondékról kapta nevét"],
+      ro: ["Situată lângă Baie du Cap", "Formațiune stâncoasă bazaltică", "Cunoscută pentru curba rutieră strânsă", "Belvedere accesibilă prin scări", "Vedere spre Oceanul Indian", "Numită după populația Makonde"],
+      en: ["Located near Baie du Cap", "Basaltic rock formation", "Famous for the sharp road curve", "Viewpoint accessible via stairs", "Overlooks the Indian Ocean", "Named after Makonde from Mozambique"],
+    },
   },
   {
     id: "mauritius-grand-river-south-east-nature-v2",
@@ -133,6 +205,18 @@ export const mauritiusNatureV2: POI[] = [
       en: ["Longest river on the island (34 km)", "Waterfall flows directly into the sea", "Historically strategic estuary", "Popular destination for boat trips"],
     },
     imageHint: "Grand River South East waterfall Mauritius",
+    descriptionAdvanced: {
+      de: "Der Grand River South East ist der längste Fluss von Mauritius und entspringt im zentralen Hochland. Er fließt über eine Strecke von etwa 30 Kilometern nach Osten, bevor er bei Beau Champ in den Ozean mündet. Kurz vor der Mündung bildet der Fluss einen bekannten Wasserfall, der oft per Boot besucht wird. Die Flussmündung ist durch steile Basaltwände und eine reiche Flora und Fauna, einschließlich Flughunden, geprägt.",
+      hu: "A Grand River South East Mauritius leghosszabb folyója, amely a központi felföldön ered. Körülbelül 30 kilométeren keresztül folyik kelet felé, mielőtt Beau Champ közelében az óceánba torkollna. Közvetlenül a torkolat előtt a folyó egy ismert vízesést alkot, amelyet gyakran hajóval látogatnak. A torkolatvidéket meredek bazaltfalak, valamint gazdag növény- és állatvilág, például repülőkutyák jellemzik.",
+      ro: "Grand River South East este cel mai lung râu din Mauritius, izvorând din platoul central. Curge pe o distanță de aproximativ 30 de kilometri spre est înainte de a se vărsa în ocean lângă Beau Champ. Chiar înainte de gură, râul formează o cascadă cunoscută, vizitată adesea cu barca. Estuarul râului este marcat de pereți de bazalt abrupți și de o floră și faună bogată, inclusiv vulpi zburătoare.",
+      en: "Grand River South East is the longest river in Mauritius, originating in the central highlands. It flows for about 30 kilometers eastward before emptying into the ocean near Beau Champ. Just before the mouth, the river forms a well-known waterfall that is frequently visited by boat. The estuary is characterized by steep basalt walls and rich flora and fauna, including fruit bats.",
+    },
+    factsAdvanced: {
+      de: ["Längster Fluss von Mauritius", "Länge von ca. 30 Kilometern", "Mündung bei Beau Champ", "Wasserfall kurz vor der Mündung", "Heimat von Mauritianischen Flughunden", "Umgeben von Basaltwänden"],
+      hu: ["Mauritius leghosszabb folyója", "Hossza kb. 30 kilométer", "Beau Champ-nál torkollik be", "Vízesés a torkolat közelében", "Mauritiusi repülőkutyák otthona", "Bazaltfalak övezik"],
+      ro: ["Cel mai lung râu din Mauritius", "Lungime de aproximativ 30 km", "Vărsare la Beau Champ", "Cascadă situată lângă vărsare", "Habitat pentru vulpi zburătoare", "Înconjurat de pereți bazaltici"],
+      en: ["Longest river in Mauritius", "Length of approximately 30 km", "Mouth located at Beau Champ", "Waterfall near the river mouth", "Home to Mauritian fruit bats", "Bordered by basalt cliffs"],
+    },
   },
   {
     id: "mauritius-trois-mamelles-nature-v2",
@@ -152,6 +236,18 @@ export const mauritiusNatureV2: POI[] = [
       en: ["Highest peak reaches 629 meters", "Consists of three distinct peaks", "Challenging hiking terrain", "Part of the Rempart mountain range"],
     },
     imageHint: "Trois Mamelles mountain Mauritius peaks",
+    descriptionAdvanced: {
+      de: "Trois Mamelles ist eine markante Gebirgskette im Westen von Mauritius mit drei markanten Gipfeln, die eine Höhe von bis zu 629 Metern erreichen. Die Gipfel befinden sich zwischen den Regionen Vacoas und Tamarin und sind Teil der Rempart-Kette. Die Formation ist vulkanischen Ursprungs und weist sehr steile, teilweise fast senkrechte Hänge auf. Der Aufstieg gilt als anspruchsvoll und bietet Ausblicke auf die Westküste und den Berg Le Morne.",
+      hu: "A Trois Mamelles egy jellegzetes hegylánc Mauritius nyugati részén, három markáns csúccsal, amelyek magassága eléri a 629 métert. A csúcsok Vacoas és Tamarin régiók között találhatók, és a Rempart-lánc részét képezik. A képződmény vulkáni eredetű, meredek, helyenként szinte függőleges lejtőkkel rendelkezik. A megmászása technikailag igényesnek számít, és kilátást nyújt a nyugati partra és a Le Morne-hegyre.",
+      ro: "Trois Mamelles este un lanț muntos proeminent în vestul Mauritius, cu trei vârfuri distincte care ating o înălțime de până la 629 de metri. Vârfurile sunt situate între regiunile Vacoas și Tamarin și fac parte din lanțul Rempart. Formațiunea este de origine vulcanică și prezintă pante foarte abrupte, parțial aproape verticale. Ascensiunea este considerată solicitantă și oferă vederi spre coasta de vest și muntele Le Morne.",
+      en: "Trois Mamelles is a prominent mountain range in western Mauritius with three distinct peaks reaching up to 629 meters in height. The peaks are located between the regions of Vacoas and Tamarin and are part of the Rempart range. The formation is of volcanic origin and features very steep, sometimes nearly vertical slopes. The climb is considered challenging and offers views of the west coast and Le Morne Brabant.",
+    },
+    factsAdvanced: {
+      de: ["Drei markante Berggipfel", "Maximale Höhe: 629 Meter", "Teil der Rempart-Gebirgskette", "Vulkanischer Ursprung", "Anspruchsvolles Wandergebiet", "Blick auf Le Morne Brabant"],
+      hu: ["Három jellegzetes hegycsúcs", "Maximális magasság: 629 méter", "A Rempart-hegylánc része", "Vulkáni eredetű képződmény", "Technikás túraútvonalak", "Kilátás a Le Morne Brabantra"],
+      ro: ["Trei vârfuri montane distincte", "Înălțime maximă: 629 metri", "Parte din lanțul muntos Rempart", "Origine vulcanică", "Zonă de drumeție dificilă", "Vedere spre Le Morne Brabant"],
+      en: ["Three distinct mountain peaks", "Maximum height: 629 meters", "Part of the Rempart mountain range", "Volcanic origin", "Challenging hiking terrain", "Views of Le Morne Brabant"],
+    },
   },
   {
     id: "mauritius-ile-dambre-nature-v2",
@@ -171,6 +267,18 @@ export const mauritiusNatureV2: POI[] = [
       en: ["Important mangrove ecosystem", "Area of about 140 hectares", "No permanent human settlements", "Site of the last Dodo sighting (1662)"],
     },
     imageHint: "Ile d'Ambre Mauritius mangroves kayaking",
+    descriptionAdvanced: {
+      de: "Die Ile d'Ambre ist eine etwa 140 Hektar große Insel vor der Nordostküste von Mauritius. Sie ist bekannt für ihre dichten Mangrovenwälder und ihre zerklüftete Küstenlinie mit vielen kleinen Buchten. Die Insel hat eine historische Bedeutung, da hier 1744 das berühmte Schiff 'Saint Géran' zerschellte, was die Vorlage für den Roman 'Paul et Virginie' lieferte. Heute ist sie ein geschütztes Naturschutzgebiet mit endemischen Pflanzen und Ruinen aus der Kolonialzeit.",
+      hu: "Az Ile d'Ambre egy körülbelül 140 hektáros sziget Mauritius északkeleti partjainál. Sűrű mangroveerdeiről és sok kis öböllel tagolt partvonaláról ismert. A sziget történelmi jelentőségű, mivel 1744-ben itt szenvedett hajótörést a híres 'Saint Géran' hajó, amely a 'Paul et Virginie' című regény alapjául szolgált. Ma védett természetvédelmi terület, ahol endemikus növények és gyarmati kori romok találhatók.",
+      ro: "Ile d'Ambre este o insulă de aproximativ 140 de hectare în largul coastei de nord-est a Mauritius. Este cunoscută pentru pădurile sale dense de mangrove și linia de coastă crestată cu multe golfuri mici. Insula are o semnificație istorică, deoarece nava 'Saint Géran' a naufragiat aici în 1744, oferind baza pentru romanul 'Paul et Virginie'. Astăzi este o rezervație naturală protejată cu plante endemice și ruine coloniale.",
+      en: "Ile d'Ambre is an island of approximately 140 hectares off the northeast coast of Mauritius. It is known for its dense mangrove forests and its rugged coastline with many small inlets. The island holds historical significance as the famous ship 'Saint Géran' was wrecked here in 1744, providing the basis for the novel 'Paul et Virginie'. Today, it is a protected nature reserve featuring endemic plants and colonial-era ruins.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von ca. 140 Hektar", "Große Bestände an Mangroven", "Schiffbruch der Saint Géran 1744", "Inspiration für 'Paul et Virginie'", "Geschütztes Naturschutzgebiet", "Nordostküste von Mauritius"],
+      hu: ["Területe kb. 140 hektár", "Jelentős mangroveállomány", "A Saint Géran hajótörése 1744-ben", "A 'Paul és Virginie' ihletője", "Védett természetvédelmi terület", "Mauritius északkeleti partján"],
+      ro: ["Suprafață de cca 140 hectare", "Populații mari de mangrove", "Naufragiul Saint Géran în 1744", "Inspirație pentru 'Paul et Virginie'", "Rezervație naturală protejată", "Coasta de nord-est a Mauritius"],
+      en: ["Area of approximately 140 hectares", "Extensive mangrove forests", "Wreck of the Saint Géran in 1744", "Inspiration for 'Paul et Virginie'", "Protected nature reserve", "Northeast coast of Mauritius"],
+    },
   },
   {
     id: "mauritius-round-island-nature-v2",
@@ -190,6 +298,18 @@ export const mauritiusNatureV2: POI[] = [
       en: ["Area of 169 hectares", "Home to the Round Island Boa", "Important nesting site for seabirds", "Public tourism is not permitted"],
     },
     imageHint: "Round Island Mauritius nature reserve aerial",
+    descriptionAdvanced: {
+      de: "Round Island ist ein streng geschütztes Naturschutzgebiet etwa 22 Kilometer nördlich von Mauritius. Die 169 Hektar große Vulkaninsel ist ökologisch einzigartig, da sie nie von Ratten oder Katzen besiedelt wurde, was das Überleben seltener endemischer Reptilien ermöglichte. Dazu gehören der Round-Island-Boa und verschiedene Skink-Arten. Die Insel weist eine charakteristische Kegelform auf und besteht aus Tuffstein, der durch Erosion stark gefurcht ist.",
+      hu: "A Round Island egy szigorúan védett természetvédelmi terület Mauritiustól körülbelül 22 kilométerre északra. A 169 hektáros vulkáni sziget ökológiailag egyedülálló, mivel soha nem népesítették be patkányok vagy macskák, ami lehetővé tette ritka endemikus hüllők túlélését. Ezek közé tartozik a Round-Island boa és különböző szkinkfajok. A sziget jellegzetes kúp alakú, és tufából áll, amelyet az erózió erősen barázdálttá tett.",
+      ro: "Round Island este o rezervație naturală strict protejată, situată la aproximativ 22 de kilometri nord de Mauritius. Insula vulcanică de 169 de hectare este unică din punct de vedere ecologic, deoarece nu a fost niciodată colonizată de șobolani sau pisici, ceea ce a permis supraviețuirea unor reptile endemice rare. Acestea includ boa de Round Island și diverse specii de skink. Insula are o formă conică caracteristică și este compusă din tuf.",
+      en: "Round Island is a strictly protected nature reserve located about 22 kilometers north of Mauritius. The 169-hectare volcanic island is ecologically unique as it was never colonized by rats or cats, enabling the survival of rare endemic reptiles. These include the Round Island boa and various skink species. The island features a characteristic conical shape and consists of tuff rock that has been heavily furrowed by erosion.",
+    },
+    factsAdvanced: {
+      de: ["22 km nördlich von Mauritius", "Fläche von 169 Hektar", "Keine invasiven Raubtiere", "Heimat der Round-Island-Boa", "Vulkanische Tuff-Formation", "Strenge Zutrittsbeschränkungen"],
+      hu: ["22 km-re északra Mauritiustól", "Területe 169 hektár", "Nincsenek invazív ragadozók", "A Round-Island boa otthona", "Vulkáni tufa képződmény", "Szigorú belépési korlátozások"],
+      ro: ["22 km nord de Mauritius", "Suprafață de 169 hectare", "Fără prădători invazivi", "Habitatul boa de Round Island", "Formațiune din tuf vulcanic", "Restricții stricte de acces"],
+      en: ["22 km north of Mauritius", "Area of 169 hectares", "No invasive predatory animals", "Home to the Round Island boa", "Volcanic tuff formation", "Strict access restrictions"],
+    },
   },
   {
     id: "mauritius-flat-island-nature-v2",
@@ -209,6 +329,18 @@ export const mauritiusNatureV2: POI[] = [
       en: ["Largest of the northern islands", "Lighthouse built in 1855", "Former quarantine station", "Famous for the 'Shark Pit' dive site"],
     },
     imageHint: "Flat Island Mauritius lighthouse and beach",
+    descriptionAdvanced: {
+      de: "Flat Island, auch bekannt als Île Plate, liegt im Norden von Mauritius und ist eine der größten vorgelagerten Inseln. Sie beherbergt einen historischen Leuchtturm aus dem Jahr 1855, der noch heute in Betrieb ist. Im 19. Jahrhundert diente die Insel als Quarantänestation für Einwanderer, um die Ausbreitung von Krankheiten auf der Hauptinsel zu verhindern. Geologisch gesehen ist sie relativ flach, verfügt jedoch über Kalksteinfelsen und Reste von endemischen Trockenwäldern.",
+      hu: "A Flat Island, más néven Île Plate, Mauritius északi részén található, és az egyik legnagyobb part menti sziget. Egy 1855-ből származó történelmi világítótoronynak ad otthont, amely ma is működik. A 19. században a sziget karanténállomásként szolgált a bevándorlók számára, hogy megakadályozzák a betegségek terjedését a főszigeten. Geológiailag viszonylag lapos, de mészkősziklákkal és endemikus száraz erdők maradványaival rendelkezik.",
+      ro: "Flat Island, cunoscută și sub numele de Île Plate, este situată în nordul Mauritius și este una dintre cele mai mari insule limitrofe. Găzduiește un far istoric construit în 1855, care este încă în funcțiune. În secolul al XIX-lea, insula a servit ca stație de carantină pentru imigranți, pentru a preveni răspândirea bolilor pe insula principală. Din punct de vedere geologic este relativ plată, dar are stânci calcaroase.",
+      en: "Flat Island, also known as Île Plate, is located in the north of Mauritius and is one of the largest offshore islands. It hosts a historical lighthouse dating back to 1855, which is still operational today. In the 19th century, the island served as a quarantine station for immigrants to prevent the spread of diseases to the mainland. Geologically, it is relatively flat but features limestone cliffs and remnants of endemic dry forests.",
+    },
+    factsAdvanced: {
+      de: ["Größte der nördlichen Inseln", "Leuchtturm erbaut 1855", "Ehemalige Quarantänestation", "Flache geologische Struktur", "Vorkommen von Kalkstein", "Teil des Islet National Parks"],
+      hu: ["A legnagyobb északi sziget", "Világítótorony épült 1855-ben", "Egykori karanténállomás", "Lapos geológiai szerkezet", "Mészkő előfordulása", "Az Islet Nemzeti Park része"],
+      ro: ["Cea mai mare insulă nordică", "Far construit în 1855", "Fostă stație de carantină", "Structură geologică plată", "Prezența calcarului", "Parte din Islet National Park"],
+      en: ["Largest of the northern islets", "Lighthouse built in 1855", "Former quarantine station", "Flat geological structure", "Presence of limestone", "Part of the Islet National Park"],
+    },
   },
   {
     id: "mauritius-rochester-falls-nature-v2",
@@ -228,6 +360,18 @@ export const mauritiusNatureV2: POI[] = [
       en: ["Unique prismatic basalt columns", "Fed by the Savanne River", "Height of about 10 meters", "Located within a sugar cane area"],
     },
     imageHint: "Rochester Falls Mauritius basalt columns",
+    descriptionAdvanced: {
+      de: "Die Rochester Falls befinden sich im Süden von Mauritius in der Nähe von Souillac am Savanne River. Der Wasserfall ist geologisch bemerkenswert für seine rechteckigen Basaltsäulen, die durch die schnelle Abkühlung von Lavaströmen entstanden sind. Das Wasser stürzt aus einer Höhe von etwa 10 Metern über diese markanten Formationen ab. Die Umgebung ist von Zuckerrohrplantagen und üppiger Vegetation geprägt, was den Zugang über unbefestigte Wege erfordert.",
+      hu: "A Rochester-vízesés Mauritius déli részén, Souillac közelében, a Savanne-folyón található. A vízesés geológiailag figyelemre méltó téglalap alakú bazaltoszlopairól, amelyek a lávafolyamok gyors lehűlése során keletkeztek. A víz körülbelül 10 méteres magasságból zúdul le ezeken a jellegzetes képződményeken. A környéket cukornádültetvények és buja vegetáció jellemzi, a megközelítése burkolatlan utakon keresztül lehetséges.",
+      ro: "Cascada Rochester este situată în sudul Mauritius, lângă Souillac, pe râul Savanne. Cascada este remarcabilă din punct de vedere geologic pentru coloanele sale bazaltice rectangulare, formate prin răcirea rapidă a fluxurilor de lavă. Apa cade de la o înălțime de aproximativ 10 metri peste aceste formațiuni distincte. Împrejurimile sunt marcate de plantații de trestie de zahăr și vegetație luxuriantă.",
+      en: "Rochester Falls is located in the south of Mauritius near Souillac on the Savanne River. The waterfall is geologically remarkable for its rectangular basalt columns formed by the rapid cooling of lava flows. Water cascades from a height of about 10 meters over these distinct formations. The area is surrounded by sugar cane plantations and lush vegetation, requiring access via unpaved tracks.",
+    },
+    factsAdvanced: {
+      de: ["Am Savanne River gelegen", "Fallhöhe von ca. 10 Metern", "Rechteckige Basaltsäulen", "Nahe der Ortschaft Souillac", "Vulkanischer Ursprung der Felsen", "Umgeben von Zuckerrohrfeldern"],
+      hu: ["A Savanne-folyón található", "Kb. 10 méteres magasság", "Téglalap alakú bazaltoszlopok", "Souillac település közelében", "Vulkáni eredetű kőzetek", "Cukornádföldek veszik körül"],
+      ro: ["Situată pe râul Savanne", "Înălțime de cădere de cca 10 m", "Coloane bazaltice rectangulare", "Lângă localitatea Souillac", "Origine vulcanică a stâncilor", "Înconjurată de câmpuri de trestie"],
+      en: ["Located on the Savanne River", "Fall height of approx 10 meters", "Rectangular basalt columns", "Near the town of Souillac", "Volcanic origin of the rocks", "Surrounded by sugar cane fields"],
+    },
   },
   {
     id: "mauritius-ile-aux-benitiers-nature-v2",
@@ -247,6 +391,18 @@ export const mauritiusNatureV2: POI[] = [
       en: ["Length of approximately 2 kilometers", "Located in the La Preneuse lagoon", "Famous Crystal Rock sits nearby", "Popular for picnics and dolphin tours"],
     },
     imageHint: "Ile aux Benitiers Mauritius Crystal Rock",
+    descriptionAdvanced: {
+      de: "Die Ile aux Bénitiers ist eine flache Koralleninsel vor der Südwestküste von Mauritius in der Nähe von Le Morne. Sie erstreckt sich über eine Länge von etwa 2 Kilometern und ist durch eine flache Lagune vom Festland getrennt. Ein bekanntes Wahrzeichen in der Nähe ist der 'Crystal Rock', ein isolierter Korallenfelsen, der aus dem Meer ragt. Die Insel besteht hauptsächlich aus Sand und Korallenbruchstücken und ist ein wichtiger Lebensraum für Seevögel.",
+      hu: "Az Ile aux Bénitiers egy lapos korallsziget Mauritius délnyugati partján, Le Morne közelében. Körülbelül 2 kilométer hosszan terül el, és egy sekély lagúna választja el a szárazföldtől. Egy közeli ismert jellegzetesség a 'Crystal Rock', egy magányos korallszikla, amely kiemelkedik a tengerből. A sziget főként homokból és koralltörmelékből áll, és fontos élőhelye a tengeri madaraknak.",
+      ro: "Ile aux Bénitiers este o insulă de corali plată situată în largul coastei de sud-vest a Mauritius, lângă Le Morne. Se întinde pe o lungime de aproximativ 2 kilometri și este separată de continent printr-o lagună puțin adâncă. Un reper cunoscut din apropiere este 'Crystal Rock', o stâncă de corali izolată care se ridică din mare. Insula este compusă în principal din nisip și fragmente de corali.",
+      en: "Ile aux Bénitiers is a flat coral island off the southwest coast of Mauritius near Le Morne. It extends for about 2 kilometers in length and is separated from the mainland by a shallow lagoon. A famous landmark nearby is the 'Crystal Rock', an isolated coral formation protruding from the sea. The island consists mainly of sand and coral fragments and serves as an important habitat for seabirds.",
+    },
+    factsAdvanced: {
+      de: ["Länge von ca. 2 Kilometern", "Flache Koralleninsel", "Nahe Le Morne Brabant", "Crystal Rock liegt vor der Küste", "In einer flachen Lagune gelegen", "Besteht aus Korallensand"],
+      hu: ["Hossza kb. 2 kilométer", "Lapos korallsziget", "Le Morne Brabant közelében", "A Crystal Rock a partnál van", "Sekély lagúnában fekszik", "Korallhomokból épül fel"],
+      ro: ["Lungime de aproximativ 2 km", "Insulă de corali plată", "Lângă Le Morne Brabant", "Crystal Rock situat în larg", "Situată într-o lagună puțin adâncă", "Formată din nisip coralifer"],
+      en: ["Length of approximately 2 km", "Flat coral island", "Near Le Morne Brabant", "Crystal Rock located offshore", "Situated in a shallow lagoon", "Composed of coral sand"],
+    },
   },
   {
     id: "mauritius-serpent-island-nature-v2",
@@ -266,6 +422,18 @@ export const mauritiusNatureV2: POI[] = [
       en: ["Does not host any snakes", "Important sooty tern colonies", "Volcanic in origin", "Part of the northern island group"],
     },
     imageHint: "Serpent Island Mauritius rocky cliffs",
+    descriptionAdvanced: {
+      de: "Serpent Island, auch Île aux Serpents genannt, liegt im Norden von Mauritius jenseits von Round Island. Trotz ihres Namens gibt es auf der Insel keine Schlangen; der Name rührt wahrscheinlich von einer Verwechslung mit Round Island her. Die Insel ist ein bedeutendes Brutgebiet für Seevögel wie Tölpel und Rußseeschwalben. Geologisch besteht sie aus vulkanischem Gestein und weist steile Klippen auf, die einen schwierigen Zugang ermöglichen.",
+      hu: "A Serpent Island, más néven Île aux Serpents, Mauritius északi részén található, a Round Islanden túl. Neve ellenére a szigeten nincsenek kígyók; az elnevezés valószínűleg a Round Islanddel való összetévesztésből ered. A sziget jelentős fészkelőhelye olyan tengeri madaraknak, mint a szulák és a füstös csérek. Geológiailag vulkáni kőzetből áll, meredek sziklákkal rendelkezik, amelyek megnehezítik a partraszállást.",
+      ro: "Serpent Island, cunoscută și sub numele de Île aux Serpents, este situată în nordul Mauritius, dincolo de Round Island. În ciuda numelui său, nu există șerpi pe insulă; numele provine probabil dintr-o confuzie cu Round Island. Insula este un loc important de cuibărit pentru păsări marine, cum ar fi corcodelul și chirighița. Din punct de vedere geologic, este formată din rocă vulcanică și are stânci abrupte.",
+      en: "Serpent Island, also known as Île aux Serpents, is located in the north of Mauritius beyond Round Island. Despite its name, there are no snakes on the island; the name likely stems from a confusion with Round Island. The island is a significant breeding ground for seabirds such as boobies and sooty terns. Geologically, it consists of volcanic rock and features steep cliffs that make access difficult.",
+    },
+    factsAdvanced: {
+      de: ["Keine Schlangen auf der Insel", "Brutplatz für Seevögel", "Nördlich von Round Island", "Vulkanische Gesteinsformation", "Schwierig zu erreichende Küste", "Teil eines Naturschutzgebietes"],
+      hu: ["Nincsenek kígyók a szigeten", "Tengeri madarak fészkelőhelye", "Round Islandtől északra", "Vulkáni kőzetképződmény", "Nehezen megközelíthető part", "Természetvédelmi terület része"],
+      ro: ["Nu există șerpi pe insulă", "Loc de cuibărit pentru păsări", "La nord de Round Island", "Formațiune din rocă vulcanică", "Țărm dificil de accesat", "Parte dintr-o rezervație naturală"],
+      en: ["No snakes present on the island", "Breeding site for seabirds", "Located north of Round Island", "Volcanic rock formation", "Difficult to access coastline", "Part of a nature reserve"],
+    },
   },
   {
     id: "mauritius-tourelle-du-tamarin-nature-v2",
@@ -285,6 +453,18 @@ export const mauritiusNatureV2: POI[] = [
       en: ["Peak height of 548 meters", "Private property but hikeable", "Panoramic view of the west lagoon", "Characteristic conical shape"],
     },
     imageHint: "Tourelle du Tamarin mountain Mauritius view",
+    descriptionAdvanced: {
+      de: "Die Tourelle du Tamarin ist ein Berg an der Westküste von Mauritius mit einer Höhe von 548 Metern. Er dominiert das Panorama der Bucht von Tamarin und ist Teil des privaten Anwesens der Tamarin-Berge. Der Berg bietet Wanderwegen, die durch trockenes Buschland und einheimische Wälder führen. Von der Spitze aus ergibt sich ein Blick auf das Le Morne Brabant Massiv, die Salinen von Tamarin und das zentrale Hochland der Insel.",
+      hu: "A Tourelle du Tamarin egy 548 méter magas hegy Mauritius nyugati partján. Meghatározza a Tamarin-öböl panorámáját, és a Tamarin-hegység magánbirtokának része. A hegyen túraútvonalak vezetnek keresztül, amelyek száraz cserjéseken és őshonos erdőkön haladnak át. A csúcsról rálátás nyílik a Le Morne Brabant tömbre, a tamarin-i sópárlókra és a sziget központi felföldjére.",
+      ro: "Tourelle du Tamarin este un munte de pe coasta de vest a Mauritius, având o înălțime de 548 de metri. Domină panorama golfului Tamarin și face parte din domeniul privat al munților Tamarin. Muntele oferă trasee de drumeție care trec prin tufișuri uscate și păduri native. Din vârf se deschide o vedere asupra masivului Le Morne Brabant, a salinelor din Tamarin și a platoului central.",
+      en: "Tourelle du Tamarin is a mountain on the west coast of Mauritius with a height of 548 meters. It dominates the panorama of Tamarin Bay and is part of the private estate of the Tamarin Mountains. The mountain features hiking trails that pass through dry scrubland and native forests. From the summit, one can see the Le Morne Brabant massif, the Tamarin salt pans, and the central highlands of the island.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 548 Metern", "Blick auf die Bucht von Tamarin", "Teil eines privaten Anwesens", "Trockene Waldvegetation", "Wanderziel an der Westküste", "Ausblick auf die Salinen"],
+      hu: ["Magassága 548 méter", "Kilátás a Tamarin-öbölre", "Magánbirtok része", "Száraz erdei vegetáció", "Nyugati parti túracélpont", "Rálátás a sópárlókra"],
+      ro: ["Înălțime de 548 metri", "Vedere spre golful Tamarin", "Parte dintr-o proprietate privată", "Vegetație de pădure uscată", "Destinație de drumeție în vest", "Panoramă asupra salinelor"],
+      en: ["Height of 548 meters", "Views over Tamarin Bay", "Part of a private estate", "Dry forest vegetation", "Hiking destination on the west coast", "Overlooks the salt pans"],
+    },
   },
   {
     id: "mauritius-mare-longue-reservoir-nature-v2",
@@ -304,5 +484,17 @@ export const mauritiusNatureV2: POI[] = [
       en: ["Located in the central plateau", "Important for water supply", "Surrounded by hiking trails", "Known for endemic bird species"],
     },
     imageHint: "Mare Longue Reservoir Mauritius forest",
+    descriptionAdvanced: {
+      de: "Das Mare Longue Reservoir ist ein Stausee im zentralen Hochland von Mauritius im Distrikt Plaines Wilhems. Er wurde in der Nähe der Petrin-Region angelegt und dient der Speicherung von Regenwasser für die Landwirtschaft und Trinkwasserversorgung. Das Reservoir ist von dichtem, feuchtem Hochlandwald umgeben, der viele endemische Pflanzenarten beherbergt. Es ist ein Ausgangspunkt für Wanderungen im Black River Gorges Nationalpark und spielt eine wichtige Rolle in der regionalen Hydrologie.",
+      hu: "A Mare Longue-víztározó Mauritius központi felföldjén található, Plaines Wilhems körzetében. A Petrin régió közelében alakították ki, és a mezőgazdaság, valamint az ivóvízellátás számára gyűjti az esővizet. A tározót sűrű, nedves felföldi erdő veszi körül, amely számos endemikus növényfajnak ad otthont. Kiindulópontja a Black River Gorges Nemzeti Parkba vezető túráknak, és fontos szerepet játszik a regionális hidrológiában.",
+      ro: "Rezervorul Mare Longue este un lac de acumulare în platoul central din Mauritius, în districtul Plaines Wilhems. A fost amenajat lângă regiunea Petrin și servește la stocarea apei de ploaie pentru agricultură și alimentarea cu apă potabilă. Rezervorul este înconjurat de o pădure umedă de altitudine, care găzduiește multe specii de plante endemice. Este un punct de plecare pentru drumeții în Parcul Național Black River Gorges.",
+      en: "Mare Longue Reservoir is an artificial lake in the central highlands of Mauritius within the Plaines Wilhems district. It was established near the Petrin region and serves to store rainwater for agriculture and drinking water supply. The reservoir is surrounded by dense, humid upland forest that hosts many endemic plant species. It acts as a starting point for hikes into the Black River Gorges National Park and is vital for regional hydrology.",
+    },
+    factsAdvanced: {
+      de: ["Im Distrikt Plaines Wilhems", "Nahe der Petrin-Region", "Umgeben von Hochlandwald", "Dient der Wasserversorgung", "Teil des zentralen Hochplateaus", "Startpunkt für Wanderwege"],
+      hu: ["Plaines Wilhems körzetben", "Petrin régió közelében", "Felföldi erdő veszi körül", "Vízellátási célokat szolgál", "A központi felföld része", "Túraútvonalak kiindulópontja"],
+      ro: ["În districtul Plaines Wilhems", "Lângă regiunea Petrin", "Înconjurat de pădure montană", "Utilizat pentru alimentarea cu apă", "Parte din platoul central", "Punct de plecare pentru trasee"],
+      en: ["In Plaines Wilhems district", "Near the Petrin region", "Surrounded by upland forest", "Used for water supply", "Part of the central plateau", "Starting point for hiking trails"],
+    },
   }
 ];

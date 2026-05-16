@@ -298,7 +298,20 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       hu: ["A Vaslovani név szó szerinti jelentése: 'Almáskert'.", "A terület híres a ritka kaukázusi vipera előfordulásáról."],
       ro: ["Numele Vashlovani se traduce literal prin 'Grădina de meri'.", "Zona este cunoscută pentru prezența viperei rare de Caucaz."],
       en: ["The name Vashlovani literally translates to 'Apple Garden'.", "The area is known for hosting the rare Caucasian viper."]
-    }, image: "/poi-images/vashlovani-national-park-nature-v2.webp"},
+    }, image: "/poi-images/vashlovani-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Waschlowani-Nationalpark liegt im äußersten Südosten Georgiens an der Grenze zu Aserbaidschan. Das Gebiet ist bekannt für seine einzigartige Halbwüstenlandschaft, zerklüftete Schluchten und Steppenvegetation. Hier finden sich seltene Pistazienbäume und eine vielfältige Fauna, darunter Luchse und gelegentlich Leoparden. Der Park umfasst sowohl das ursprüngliche Reservat als auch neuere Schutzzonen.",
+      hu: "A Vashlovani Nemzeti Park Grúzia délkeleti csücskében, az azeri határ mentén található. A terület egyedülálló félsivatagi tájairól, mély szurdokairól és sztyeppei növényzetéről nevezetes. Különleges pisztáciaerdőknek és ritka állatfajoknak ad otthont, beleértve a hiúzokat és a kaukázusi leopárdokat. A park drámai formájú sziklaalakzatai miatt „grúz badlands” néven is ismert.",
+      ro: "Parcul Național Vashlovani este situat în extremitatea sud-estică a Georgiei, la granița cu Azerbaidjan. Este renumit pentru peisajele sale de semideșert, canioane adânci și vegetație de stepă. Găzduiește arbori de fistic rari și o faună diversă, inclusiv lincși și leoparzi caucazieni. Formațiunile sale stâncoase dramatice i-au atras denumirea de „badlands georgiene”.",
+      en: "Vashlovani National Park is located in the extreme southeast of Georgia, bordering Azerbaijan. The area is characterized by unique semi-desert landscapes, rugged canyons, and steppe vegetation. It is home to rare pistachio trees and diverse wildlife, including lynx and the Caucasian leopard. The park is often referred to as the 'Georgian Badlands' due to its dramatic rock formations.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet als Reservat im Jahr 1935", "Nationalparkstatus seit 2003", "Gesamtfläche von ca. 250 Quadratkilometern", "Bekannt für die 'Bärenschlucht' mit Fossilien", "Heimat von über 600 Pflanzenarten", "Beheimatet den seltenen Kaukasus-Leoparden"],
+      hu: ["1935-ben alapították természetvédelmi területként", "2003-ban kapott nemzeti parki státuszt", "Területe körülbelül 250 négyzetkilométer", "A „Medve-szurdok” híres őskori kövületeiről", "Több mint 600 növényfaj található itt", "A parkban él a ritka kaukázusi leopárd"],
+      ro: ["Fondat ca rezervație în 1935", "Statut de parc național din 2003", "Suprafață totală de aproximativ 250 km pătrați", "Canionul Ursului conține fosile preistorice", "Adăpostește peste 600 de specii de plante", "Habitat pentru rari leoparzi caucazieni"],
+      en: ["Established as a reserve in 1935", "Designated as a national park in 2003", "Total area of approximately 250 square kilometers", "The 'Bear Gorge' features prehistoric fossils", "Home to over 600 species of plants", "Habitat for the rare Caucasian leopard"],
+    },
+  },
   {
     id: "mtirala-national-park-nature-v2",
     type: "national-park",

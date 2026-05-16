@@ -329,6 +329,18 @@ export const mauritaniaEconomicV2: POI[] = [
       en: ["Date production hub", "Sahara oasis economy", "Traditional irrigation", "Agricultural site"],
     },
     imageHint: "Atar date palm oasis",
+    descriptionAdvanced: {
+      de: "Die Atar-Oase ist das wirtschaftliche Zentrum der Adrar-Region im Norden Mauretaniens und bekannt für ihren intensiven Dattelanbau. In den Palmenhainen werden verschiedene Sorten kultiviert, die ein Grundnahrungsmittel und ein wichtiges Exportgut darstellen. Die Oase nutzt traditionelle Bewässerungssysteme, um die Landwirtschaft in der extremen Wüstenumgebung zu ermöglichen.",
+      hu: "Az Atar-oázis Mauritánia északi részén, az Adrar-régió gazdasági központja, amely intenzív datolyatermesztéséről híres. A pálmaligetekben számos fajtát termesztenek, amelyek alapvető élelmiszerforrást és fontos exportcikket jelentenek. Az oázis hagyományos öntözőrendszereket használ a mezőgazdaság fenntartásához a szélsőséges sivatagi körülmények között.",
+      ro: "Oaza Atar este centrul economic al regiunii Adrar din nordul Mauritaniei, cunoscută pentru cultivarea intensivă a curmalelor. În plantațiile de palmiere sunt cultivate diverse soiuri, care reprezintă un aliment de bază și un bun de export important. Oaza utilizează sisteme tradiționale de irigare pentru a permite agricultura în mediul deșertic extrem.",
+      en: "Atar Oasis is the economic hub of the Adrar region in northern Mauritania, famous for its intensive date palm cultivation. Various varieties of dates are grown in the groves, serving as a staple food and a key export commodity. The oasis employs traditional irrigation systems to sustain agriculture in the extreme desert environment.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum der mauretanischen Dattelproduktion", "Über 190.000 Dattelpalmen in der Region", "Wichtigster Markt für Datteln in Mauretanien", "Höhepunkt der Ernte während des Guetna-Festes", "Verwendet Brunnenbewässerung für Palmenhaine", "Hauptstadt der Verwaltungsregion Adrar"],
+      hu: ["A mauritániai datolyatermesztés központja", "Több mint 190 000 datolyapálma a régióban", "Az ország legfontosabb datolyapiaca", "A betakarítás csúcspontja a Guetna fesztivál", "Kutas öntözést alkalmaznak a pálmaligetekben", "Az Adrar közigazgatási régió székhelye"],
+      ro: ["Centrul producției de curmale din Mauritania", "Peste 190.000 de palmiere în regiune", "Cea mai importantă piață de curmale din țară", "Vârful recoltei în timpul festivalului Guetna", "Utilizează irigarea prin puțuri pentru plantații", "Capitala regiunii administrative Adrar"],
+      en: ["Center of Mauritanian date production", "Over 190,000 date palms in the region", "Most important date market in Mauritania", "Harvest peak during the Guetna festival", "Uses well irrigation for palm groves", "Capital of the Adrar administrative region"],
+    },
   },
   {
     id: "mauritania-nouadhibou-fishing-economic-v2",

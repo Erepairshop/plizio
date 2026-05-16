@@ -267,6 +267,18 @@ export const maldivesLifeV2: POI[] = [
       en: ["Features a mix of fresh and brackish water", "Protected habitat for juvenile reef sharks", "Unique vegetation along the lakeshore", "Part of a community conservation project"],
     },
     imageHint: "Mangrove lake with calm water and dense green surroundings",
+    descriptionAdvanced: {
+      de: "Der Maabaidhoo Mangrovensee im Laamu-Atoll ist ein einzigartiges Ökosystem, das eine reiche Artenvielfalt beherbergt. Dieses Feuchtgebiet ist für den Schutz der Insel vor Küstenerosion von entscheidender Bedeutung und dient als Kinderstube für zahlreiche Meeresbewohner. Die Mangrovenwälder bieten einen wichtigen Lebensraum für Zugvögel und seltene Pflanzenarten. Bemühungen zum Naturschutz zielen darauf ab, dieses fragile Gleichgewicht für die Zukunft zu bewahren.",
+      hu: "A Laamu-atollban található Maabaidhoo mangróve-tó egy egyedülálló ökoszisztéma, amely gazdag élővilágnak ad otthont. Ez a vizes élőhely kulcsfontosságú a sziget part menti erózió elleni védelmében, és számos tengeri élőlény bölcsőjeként szolgál. A mangróveerdők fontos élőhelyet biztosítanak a vándormadarak és ritka növényfajok számára. A természetvédelmi erőfeszítések célja e törékeny egyensúly megőrzése a jövő számára.",
+      ro: "Lacul de mangrove Maabaidhoo din atolul Laamu este un ecosistem unic care găzduiește o biodiversitate bogată. Această zonă umedă este de o importanță crucială pentru protejarea insulei împotriva eroziunii de coastă și servește ca pepinieră pentru numeroase creaturi marine. Pădurile de mangrove oferă un habitat important pentru păsările migratoare și specii rare de plante. Eforturile de conservare vizează păstrarea acestui echilibru fragil pentru viitor.",
+      en: "The Maabaidhoo Mangrove Lake in Laamu Atoll is a unique ecosystem hosting rich biodiversity. This wetland is crucial for protecting the island against coastal erosion and serves as a nursery for numerous marine creatures. The mangrove forests provide an important habitat for migratory birds and rare plant species. Conservation efforts aim to preserve this fragile balance for the future.",
+    },
+    factsAdvanced: {
+      de: ["Bedeutendes Mangroven-Ökosystem im Laamu-Atoll", "Fläche des Schutzgebiets umfasst ca. 12 Hektar", "Heimat der Mangrovenart Bruguiera gymnorhiza", "Wichtiger Filter für den Sedimentrückhalt", "Lebensraum für seltene Krabben- und Fischarten", "Teil eines lokalen Ökotourismus-Projekts"],
+      hu: ["Jelentős mangróve-ökoszisztéma a Laamu-atollban", "A védett terület nagysága kb. 12 hektár", "A Bruguiera gymnorhiza mangróvefaj otthona", "Fontos szűrő az üledék visszatartásában", "Ritka rák- és halfajok élőhelye", "Egy helyi ökoturisztikai projekt része"],
+      ro: ["Ecosistem de mangrove semnificativ în atolul Laamu", "Suprafața zonei protejate este de cca. 12 hectare", "Găzduiește specia de mangrove Bruguiera gymnorhiza", "Filtru important pentru reținerea sedimentelor", "Habitat pentru specii rare de crabi și pești", "Parte a unui proiect local de ecoturism"],
+      en: ["Significant mangrove ecosystem in Laamu Atoll", "Protected area covers approximately 12 hectares", "Home to the Bruguiera gymnorhiza mangrove species", "Acts as a vital filter for sediment retention", "Habitat for rare crab and juvenile fish species", "Integrated into a local ecotourism initiative"],
+    },
   },
   {
     id: "maldives-thanburudhoo-reef-life-v2",
@@ -317,6 +329,18 @@ export const maldivesLifeV2: POI[] = [
       en: ["Features man-made coral nurseries", "Training ground for local conservationists", "Monitors coral bleaching recovery", "Reef accessible directly from the beach"],
     },
     imageHint: "Underwater coral nursery with growth frames and small corals",
+    descriptionAdvanced: {
+      de: "Die Vilimale Korallenrestaurationsstätte bei Villingili ist ein wegweisendes Projekt zum Schutz der Riffe in der Nähe der Hauptstadt Malé. Durch den Einsatz künstlicher Strukturen und Korallenverpflanzung wird versucht, die durch den Klimawandel und Urbanisierung geschädigten Riffe wiederherzustellen. Das Projekt wird von lokalen NGOs geleitet und dient auch als Bildungszentrum für Meeresbiologie. Taucher und Schnorchler können hier den Fortschritt des Korallenwachstums beobachten.",
+      hu: "A Villingili melletti Vilimale korall-helyreállítási helyszín egy úttörő projekt a főváros, Malé közeli zátonyok védelmére. Mesterséges struktúrák és korallbeültetés alkalmazásával próbálják helyreállítani az éghajlatváltozás és az urbanizáció által károsított zátonyokat. A projektet helyi civil szervezetek vezetik, és tengerbiológiai oktatóközpontként is szolgál. A búvárok és sznorkelezők itt megfigyelhetik a korallok növekedésének előrehaladását.",
+      ro: "Situl de restaurare a coraliilor Vilimale de lângă Villingili este un proiect de pionierat pentru protejarea recifelor din apropierea capitalei Malé. Prin utilizarea structurilor artificiale și a transplantului de corali, se încearcă refacerea recifelor afectate de schimbările climatice și urbanizare. Proiectul este condus de ONG-uri locale și servește, de asemenea, ca centru educațional pentru biologia marină. Scafandrii și snorkelerii pot observa aici progresul creșterii coraliilor.",
+      en: "The Vilimale Coral Restoration Site near Villingili is a pioneering project to protect reefs near the capital Malé. By using artificial structures and coral transplantation, attempts are made to restore reefs damaged by climate change and urbanization. The project is led by local NGOs and also serves as an educational center for marine biology. Divers and snorkelers can observe the progress of coral growth here.",
+    },
+    factsAdvanced: {
+      de: ["Projekt der NGO Save the Beach Maldives", "Fokus auf hitzeresistente Korallenarten", "Überwachung der Riffgesundheit rund um Villingili", "Einsatz von Korallen-Kinderstuben (Nurseries)", "Beteiligung lokaler Freiwilliger und Schulen", "Regelmäßige Dokumentation des Artenreichtums"],
+      hu: ["A Save the Beach Maldives civil szervezet projektje", "Fókuszban a hőtűrő korallfajok állnak", "A zátonyok állapotának megfigyelése Villingili körül", "Korall-bölcsődék (nurseries) használata", "Helyi önkéntesek és iskolák bevonása", "A fajgazdagság rendszeres dokumentálása"],
+      ro: ["Proiect al ONG-ului Save the Beach Maldives", "Accent pe specii de corali rezistente la căldură", "Monitorizarea sănătății recifului în jurul Villingili", "Utilizarea pepinierelor de corali (nurseries)", "Implicarea voluntarilor locali și a școlilor", "Documentarea periodică a diversității speciilor"],
+      en: ["Initiative by the NGO Save the Beach Maldives", "Focuses on cultivating heat-resistant coral species", "Monitors reef health surrounding Villingili island", "Utilizes underwater coral nurseries for growth", "Involves local volunteers and educational programs", "Regular monitoring of marine species repopulation"],
+    },
   },
   {
     id: "maldives-guraidhoo-corner-life-v2",

@@ -143,6 +143,18 @@ export const grenadaCitiesV2: POI[] = [
       en: ["Only town on the island of Carriacou", "Home to the Carriacou Museum", "Served by the nearby Lauriston Airport", "Center of the annual Carriacou Regatta festival"],
     },
     imageHint: "Hillsborough main street Carriacou",
+    descriptionAdvanced: {
+      de: "Hillsborough ist der größte Ort und das Verwaltungszentrum der Insel Carriacou, die zum Staat Grenada gehört. Die Stadt liegt an einer weiten Bucht an der Westküste und dient als wichtigster Hafen für Fähren vom Festland. Die Architektur ist durch koloniale Einflüsse und karibische Buntheit geprägt. Als wirtschaftliches Zentrum der Insel beherbergt der Ort Schulen, Regierungsgebäude und Märkte.",
+      hu: "Hillsborough Carriacou szigetének legnagyobb városa és közigazgatási központja Grenadában. A sziget nyugati partján, egy öböl mentén fekszik, és fő kikötőként szolgál a főszigetről érkező kompok számára. Az építészet a gyarmati hatások és a karibi színek keveréke. Gazdasági központként itt találhatók a legfontosabb iskolák, kormányzati hivatalok és piacok.",
+      ro: "Hillsborough este cel mai mare oraș și centrul administrativ al insulei Carriacou, parte a statului Grenada. Situat într-un golf larg de pe coasta de vest, orașul servește drept port principal pentru feriboturile care vin de pe insula principală. Arhitectura îmbină influențele coloniale cu culorile vibrante ale Caraibelor. Este centrul economic al insulei, găzduind școli și instituții guvernamentale.",
+      en: "Hillsborough is the largest town and the administrative center of the island of Carriacou in Grenada. Situated along a wide bay on the western coast, it serves as the primary port for ferry services from the mainland. The town's architecture features a mix of colonial influences and vibrant Caribbean colors. As the island's economic hub, it hosts schools, government buildings, and markets.",
+    },
+    factsAdvanced: {
+      de: ["Größte Stadt auf der Insel Carriacou", "Hauptfährterminal für Verbindungen nach St. George's", "Sitz der Inselverwaltung von Carriacou und Petite Martinique", "Hillsborough Bay bietet einen geschützten Naturhafen", "Das Carriacou Museum befindet sich in einem historischen Gebäude", "Die Stadt liegt direkt an der Westküste der Insel"],
+      hu: ["Carriacou szigetének legnagyobb települése", "Fő kompállomás a St. George's felé tartó járatoknak", "Carriacou és Petite Martinique közigazgatási székhelye", "A Hillsborough-öböl természetes kikötőhelyet biztosít", "Itt található a Carriacou Múzeum egy történelmi épületben", "A város a sziget nyugati partján fekszik"],
+      ro: ["Cel mai mare oraș de pe insula Carriacou", "Terminal principal de feribot pentru rutele spre St. George's", "Sediul administrației pentru Carriacou și Petite Martinique", "Golful Hillsborough oferă un port natural protejat", "Muzeul Carriacou este situat într-o clădire istorică", "Orașul este situat pe coasta de vest a insulei"],
+      en: ["Largest town on the island of Carriacou", "Main ferry terminal for connections to St. George's", "Seat of administration for Carriacou and Petite Martinique", "Hillsborough Bay provides a protected natural harbor", "The Carriacou Museum is located in a historic building", "Situated directly on the western coast of the island"],
+    },
   },
   {
     id: "grenada-saint-davids-cities-v2",
@@ -162,6 +174,18 @@ export const grenadaCitiesV2: POI[] = [
       en: ["Often called 'The Virgin Parish'", "Lacks a formal town structure, being more rural", "Located near the Westerhall rum distillery", "Known for clove and cinnamon production"],
     },
     imageHint: "Lush landscape of Saint David's Grenada",
+    descriptionAdvanced: {
+      de: "Saint David's ist einer der sechs Bezirke von Grenada und wird oft als der „jungfräuliche Bezirk“ bezeichnet. Im Gegensatz zu den anderen Parishes gibt es hier keine zentrale Stadt mit dem gleichen Namen; das administrative Zentrum ist stattdessen St. David's Point. Die Region ist bekannt für ihre unberührte Natur, zerklüftete Küstenabschnitte und fruchtbares Ackerland. Traditionelle Landwirtschaft spielt in dieser ruhigeren Region eine große Rolle.",
+      hu: "Saint David's Grenada hat egyházközségének egyike, amelyet gyakran „szűz parókiának” is neveznek. Más körzetekkel ellentétben itt nincs azonos nevű központi város; a közigazgatási feladatokat kisebb települések látják el. A régió érintetlen természetéről, sziklás partvonalairól és termékeny mezőgazdasági területeiről ismert. A területen a hagyományos gazdálkodás és a nyugodt vidéki élet a meghatározó.",
+      ro: "Saint David's este una dintre cele șase parohii ale Grenadei, fiind adesea numită „parohia virgină”. Spre deosebire de celelalte, aceasta nu are un oraș principal cu același nume, centrul fiind distribuit în mai multe așezări. Regiunea este renumită pentru natura sa neatinsă, coastele stâncoase și terenurile agricole fertile. Agricultura tradițională este principala activitate economică în această zonă liniștită.",
+      en: "Saint David's is one of the six parishes of Grenada, often referred to as the 'Virgin Parish.' Unlike other parishes, it does not have a central town bearing the same name, with administration spread across smaller settlements. The region is known for its untouched nature, rugged coastlines, and fertile agricultural land. Traditional farming and a peaceful rural lifestyle define this quiet part of the island.",
+    },
+    factsAdvanced: {
+      de: ["Einziger Bezirk Grenadas ohne eine gleichnamige Hauptstadt", "Wird aufgrund der unberührten Natur 'Virgin Parish' genannt", "Beheimatet den Westerhall Rum Estate", "Das Dorf Megrin war das historische Zentrum der Region", "Bekannt für den Anbau von Gewürzen wie Muskatnuss", "Die Küste bietet zahlreiche abgelegene Buchten"],
+      hu: ["Grenada egyetlen egyházközsége, amelynek nincs azonos nevű városa", "Az érintetlen természet miatt „szűz parókiának” hívják", "Itt található a Westerhall Rum lepárló", "Történelmi központja Megrin falu volt", "Híres a fűszertermesztésről, különösen a szerecsendióról", "Partvidékét számos eldugott öböl tagolja"],
+      ro: ["Singura parohie din Grenada fără un oraș cu același nume", "Supranumită „Parohia Virgină” datorită naturii intacte", "Găzduiește distileria Westerhall Rum Estate", "Satul Megrin a fost centrul istoric al regiunii", "Cunoscută pentru cultivarea mirodeniilor, în special nucșoara", "Coasta oferă numeroase golfuri izolate"],
+      en: ["Only parish in Grenada without a capital of the same name", "Nicknamed the 'Virgin Parish' for its unspoiled nature", "Home to the Westerhall Rum Estate", "The village of Megrin was the historic center", "Famous for spice cultivation, particularly nutmeg", "The coastline features numerous secluded bays"],
+    },
   },
   {
     id: "grenada-grand-anse-cities-v2",

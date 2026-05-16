@@ -19,6 +19,18 @@ export const palauEconomicV2: POI[] = [
       en: ["Only deep-water port in the country", "Hub for logistics and transport", "Handles 90% of all imported goods", "Headquarters of Palau Customs"],
     },
     imageHint: "Industrial cargo ships docked at Malakal Harbor in Palau",
+    descriptionAdvanced: {
+      de: "Der Hafen von Malakal ist der wichtigste kommerzielle Seehafen von Palau und liegt auf der Insel Malakal im Bundesstaat Koror. Er dient als zentraler Einstiegspunkt für den internationalen Schiffsverkehr und Frachtgut, was ihn für die Wirtschaft und Versorgung des Landes unverzichtbar macht. Der Hafenbereich unterstützt zudem verschiedene maritime Dienstleistungen, wie Tauchbasen und Fischereifahrzeuge.",
+      hu: "Malakal kikötője Palau elsődleges kereskedelmi kikötője, amely a Koror állambeli Malakal-szigeten található. Ez a nemzetközi szállítás és teherforgalom fő belépési pontja, ami létfontosságú az ország gazdasága és az ellátási lánc szempontjából. A kikötő környéke különböző tengeri szolgáltatásokat is kiszolgál, beleértve a búvároperátorokat és halászhajókat.",
+      ro: "Portul Malakal este principalul port comercial al Palau, situat pe insula Malakal din statul Koror. Acesta servește ca punct principal de intrare pentru transportul maritim internațional și mărfuri, fiind vital pentru economia și lanțul de aprovizionare al națiunii. Zona portuară susține, de asemenea, servicii maritime diverse, inclusiv operatori de scufundări.",
+      en: "Malakal Port is the primary commercial harbor of Palau, located on Malakal Island within Koror State. It serves as the main entry point for international shipping and cargo, which is vital for the nation's economy and supply chain. The port area also supports various maritime services, including diving operators and local fishing vessels.",
+    },
+    factsAdvanced: {
+      de: ["Auf der Insel Malakal gelegen", "Wichtigster Überseehafen Palaus", "Tiefer Naturhafen für große Schiffe", "Wirtschaftliches Tor des Landes", "Zentrum für internationale Logistik", "Basis für kommerzielle Fischereiflotten"],
+      hu: ["Malakal-szigeten található", "Palau legfontosabb kereskedelmi kikötője", "Mélyvízi kikötő nagy hajók számára", "Az ország gazdasági kapuja", "Nemzetközi logisztikai központ", "Kereskedelmi halászflották bázisa"],
+      ro: ["Situat pe insula Malakal", "Principalul port maritim al Palau", "Port de adâncime pentru nave mari", "Poarta economică a țării", "Centru pentru logistica internațională", "Bază pentru flotele de pescuit comercial"],
+      en: ["Located on Malakal Island", "Palau's most important shipping port", "Deep water harbor for large vessels", "Economic gateway for the nation", "Center for international logistics", "Base for commercial fishing fleets"],
+    },
   },
   {
     id: "palau-koror-business-district-economic-v2",
@@ -38,6 +50,18 @@ export const palauEconomicV2: POI[] = [
       en: ["Concentration of banks and offices", "Location of the WCTC Shopping Center", "Hub of the local tourism market", "Highest real estate density in Palau"],
     },
     imageHint: "Street view of commercial buildings and shops in Koror city center",
+    descriptionAdvanced: {
+      de: "Das Geschäftsviertel von Koror ist das wirtschaftliche und kommerzielle Herz von Palau. Es beherbergt die höchste Konzentration an Banken, Geschäften, Restaurants und Regierungsstellen des Landes. Obwohl der Regierungssitz nach Melekeok verlegt wurde, bleibt Koror das primäre urbane Zentrum für Handel und Tourismus, wo sich das tägliche Geschäftsleben abspielt.",
+      hu: "Koror üzleti negyede Palau gazdasági és kereskedelmi szíve, amely Koror városában található. Itt összpontosul az ország legtöbb bankja, üzlete, étterme és kormányzati hivatala. Bár a hivatalos főváros Melekeokba költözött, Koror továbbra is az elsődleges városi központ a kereskedelem és a turizmus szempontjából.",
+      ro: "Districtul de afaceri din Koror este inima economică și comercială a Palau, situat în orașul Koror. Acesta conține cea mai mare concentrație de bănci, magazine, restaurante și birouri guvernamentale din țară. Deși capitala s-a mutat la Melekeok, Koror rămâne principalul centru urban pentru comerț și turism.",
+      en: "The Koror Business District is the economic and commercial heart of Palau, located in the town of Koror. It contains the highest concentration of banks, shops, restaurants, and government offices in the country. Although the official capital moved to Melekeok, Koror remains the primary urban center for commerce and tourism.",
+    },
+    factsAdvanced: {
+      de: ["Wirtschaftliches Zentrum Palaus", "Höchste Dichte an Einzelhandel", "Standort der meisten Bankfilialen", "Zentrum der Tourismusindustrie", "Hauptverkehrsknotenpunkt in Koror", "Ehemalige Hauptstadt (bis 2006)"],
+      hu: ["Palau gazdasági központja", "Itt a legnagyobb a kiskereskedelmi forgalom", "A legtöbb bankfiók székhelye", "A turisztikai iparág központja", "Koror fő közlekedési csomópontja", "Korábbi főváros (2006-ig)"],
+      ro: ["Centrul economic al Palau", "Cea mai mare densitate de retail", "Sediul majorității băncilor", "Centrul industriei turistice", "Principalul nod de trafic din Koror", "Fosta capitală până în anul 2006"],
+      en: ["Economic center of Palau", "Highest density of retail shops", "Home to most national bank branches", "Hub for the tourism industry", "Primary traffic junction in Koror", "Formerly the capital until 2006"],
+    },
   },
   {
     id: "palau-aimeliik-power-plant-economic-v2",
@@ -57,6 +81,18 @@ export const palauEconomicV2: POI[] = [
       en: ["Operates with diesel generators", "Capacity exceeding 12 megawatts", "Managed by the PPUC utility", "Critical industrial infrastructure"],
     },
     imageHint: "Large industrial power plant facility with generators in Aimeliik",
+    descriptionAdvanced: {
+      de: "Das Aimeliik-Kraftwerk ist die größte und wichtigste Stromerzeugungsanlage in Palau und befindet sich im Bundesstaat Aimeliik. Es liefert den Großteil der Energie für das Verbundnetz von Koror und Babeldaob und deckt damit den Bedarf von Haushalten und Unternehmen. Das Kraftwerk ist eine essenzielle Infrastruktureinrichtung für die wirtschaftliche Entwicklung und Versorgungssicherheit des Inselstaates.",
+      hu: "Az Aimeliik erőmű Palau legnagyobb és legfontosabb áramtermelő létesítménye, amely Aimeliik államban található. Ez az egység biztosítja a Koror-Babeldaob elektromos hálózat energiájának döntő részét, kiszolgálva a lakossági és kereskedelmi igényeket. Az erőmű nélkülözhetetlen infrastruktúra a szigetország gazdasági fejlődése és stabilitása szempontjából.",
+      ro: "Centrala electrică Aimeliik este cea mai mare și mai critică unitate de generare a energiei electrice din Palau, situată în statul Aimeliik. Aceasta furnizează majoritatea energiei pentru rețeaua Koror-Babeldaob, susținând nevoile rezidențiale și comerciale ale țării. Facilitatea este esențială pentru infrastructura și dezvoltarea națională.",
+      en: "The Aimeliik Power Plant is the largest and most critical electricity generation facility in Palau, located in Aimeliik State. It provides the majority of the power for the Koror-Babeldaob grid, supporting the country's residential and commercial energy needs. The facility is an essential component of the nation's infrastructure and economic development.",
+    },
+    factsAdvanced: {
+      de: ["Größtes Kraftwerk des Landes", "Standort im Bundesstaat Aimeliik", "Versorgt das Koror-Babeldaob-Netz", "Wichtig für die Stromsicherheit", "Besteht hauptsächlich aus Dieselgeneratoren", "Infrastrukturelles Rückgrat Palaus"],
+      hu: ["Az ország legnagyobb erőműve", "Aimeliik állam területén található", "A Koror-Babeldaob hálózatot látja el", "Létfontosságú az áramellátáshoz", "Főleg dízelgenerátorokkal működik", "Palaui mitológiai szent helyek"],
+      ro: ["Cea mai mare centrală din țară", "Situată în statul Aimeliik", "Alimentează rețeaua Koror-Babeldaob", "Vitală pentru securitatea energetică", "Funcționează în principal cu motorină", "Pilonul infrastructurii naționale"],
+      en: ["Largest power plant in the country", "Located in Aimeliik State", "Supplies the Koror-Babeldaob grid", "Critical for national power security", "Primarily uses diesel generation", "Backbone of Palau's infrastructure"],
+    },
   },
   {
     id: "palau-airai-solar-farm-economic-v2",
@@ -76,6 +112,18 @@ export const palauEconomicV2: POI[] = [
       en: ["Palau's largest photovoltaic plant", "Financed through international aid", "Feeds directly into the national grid", "Reduces CO2 emissions annually"],
     },
     imageHint: "Large array of solar panels in a tropical field in Airai",
+    descriptionAdvanced: {
+      de: "Der Solarpark in Airai ist das größte Erneuerbare-Energien-Projekt in Palau. Die Anlage befindet sich in der Nähe des internationalen Flughafens und wurde zur Reduzierung der Abhängigkeit von fossilen Brennstoffen errichtet. Sie nutzt moderne Photovoltaik-Technologie zur Stromerzeugung für das nationale Netz.",
+      hu: "Az Airai napelemfarm Palau legnagyobb megújuló energia projektje. A létesítmény a nemzetközi repülőtér közelében található, és az ország fosszilis tüzelőanyag-függőségének csökkentése érdekében jött létre. Modern fotovoltaikus technológiát alkalmaz az országos elektromos hálózat táplálására.",
+      ro: "Parcul solar din Airai reprezintă cel mai mare proiect de energie regenerabilă din Palau. Instalația este situată în apropierea aeroportului internațional și a fost construită pentru a reduce dependența țării de combustibilii fosili. Utilizează tehnologie fotovoltaică modernă pentru rețeaua națională.",
+      en: "The Airai Solar Farm is the largest renewable energy project in Palau. Located near the international airport, the facility was established to reduce the nation's dependence on imported fossil fuels. It utilizes modern photovoltaic technology to contribute significant power to the national grid.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Kapazität von etwa 13,2 Megawatt (MWp)", "Erstreckt sich über eine Fläche von rund 15 Hektar", "Wurde im Jahr 2023 offiziell in Betrieb genommen", "Teil des Ziels, bis 2025 45% erneuerbare Energien zu erreichen", "Finanzielle Unterstützung durch den Abu Dhabi Future Energy Fund", "Reduziert den CO2-Ausstoß um mehrere tausend Tonnen jährlich"],
+      hu: ["Beépített kapacitása körülbelül 13,2 megawatt (MWp)", "Közel 15 hektáros területen helyezkedik el", "Hivatalosan 2023-ban helyezték üzembe", "Része a 2025-re kitűzött 45%-os megújuló részarány elérésének", "Az Abu Dhabi Future Energy Fund pénzügyi támogatásával épült", "Évente több ezer tonnával csökkenti a szén-dioxid-kibocsátást"],
+      ro: ["Capacitate instalată de aproximativ 13,2 megawați (MWp)", "Se întinde pe o suprafață de circa 15 hectare", "A fost pus în funcțiune oficial în anul 2023", "Parte a obiectivului de a atinge 45% energie regenerabilă până în 2025", "Sprijinit financiar de Fondul pentru Energie Viitoare din Abu Dhabi", "Reduce emisiile de CO2 cu câteva mii de tone anual"],
+      en: ["Installed capacity of approximately 13.2 megawatts (MWp)", "Spans across an area of about 15 hectares", "Officially commissioned in the year 2023", "Part of the goal to reach 45% renewable energy by 2025", "Supported by funding from the Abu Dhabi Future Energy Fund", "Reduces CO2 emissions by several thousand tons annually"],
+    },
   },
   {
     id: "palau-kb-bridge-infrastructure-economic-v2",
@@ -95,6 +143,18 @@ export const palauEconomicV2: POI[] = [
       en: ["Known as the Japan-Palau Friendship Bridge", "Features a span of 413 meters", "Replaced a previously collapsed bridge", "Vital lifeline for domestic trade"],
     },
     imageHint: "Large modern suspension bridge connecting two islands in Palau",
+    descriptionAdvanced: {
+      de: "Die Koror-Babeldaob-Brücke verbindet die beiden wichtigsten Inseln Palaus und ist eine lebenswichtige Verkehrsader. Das Bauwerk ist auch als Japan-Palau-Freundschaftsbrücke bekannt und ersetzte ein 1996 eingestürztes Vorgängermodell. Sie ist eine Extradosed-Brücke, die modernes Design mit hoher Stabilität vereint.",
+      hu: "A Koror-Babeldaob híd Palau két legfontosabb szigetét köti össze, és létfontosságú közlekedési útvonal. Az építmény Japán-Palau Barátság híd néven is ismert, és az 1996-ban összeomlott elődjét váltotta fel. Egy feszített kábeles szerkezet, amely a modern dizájnt ötvözi a nagy stabilitással.",
+      ro: "Podul Koror-Babeldaob conectează cele mai importante două insule din Palau și reprezintă o arteră de transport vitală. Structura este cunoscută și sub numele de Podul Prieteniei Japonia-Palau și a înlocuit un model anterior prăbușit în 1996. Este un pod de tip extradosed care îmbină designul modern cu stabilitatea ridicată.",
+      en: "The Koror-Babeldaob Bridge connects Palau's two most important islands and serves as a vital transportation artery. Also known as the Japan-Palau Friendship Bridge, it replaced a previous structure that collapsed in 1996. It is an extradosed bridge that combines modern engineering design with high structural stability.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge der Brücke beträgt etwa 413 Meter", "Wurde im Jahr 2002 offiziell für den Verkehr freigegeben", "Durch eine japanische Spende von 28 Millionen Dollar finanziert", "Spannweite des Hauptfeldes beträgt ca. 247 Meter", "Ersetzte die 1977 gebaute und 1996 eingestürzte Brücke", "Wichtigste Verbindung für Strom- und Wasserleitungen"],
+      hu: ["A híd teljes hossza körülbelül 413 méter", "Hivatalosan 2002-ben adták át a forgalomnak", "Egy 28 millió dolláros japán adományból finanszírozták", "A főnyílás fesztávolsága kb. 247 méter", "Az 1977-ben épült és 1996-ban összeomlott hidat váltotta fel", "A legfontosabb összeköttetés az elektromos és vízvezetékek számára"],
+      ro: ["Lungimea totală a podului este de aproximativ 413 metri", "A fost deschis oficial traficului în anul 2002", "Finanțat printr-o donație japoneză de 28 de milioane de dolari", "Deschiderea traveei principale este de circa 247 metri", "A înlocuit podul construit în 1977 și prăbușit în 1996", "Cea mai importantă legătură pentru conductele de curent și apă"],
+      en: ["Total length of the bridge is approximately 413 meters", "Officially opened to traffic in the year 2002", "Financed by a Japanese grant of 28 million dollars", "The main span of the bridge is about 247 meters", "Replaced the bridge built in 1977 that collapsed in 1996", "Crucial link for power and water supply lines between islands"],
+    },
   },
   {
     id: "palau-ngatpang-aquaculture-center-economic-v2",
@@ -114,6 +174,18 @@ export const palauEconomicV2: POI[] = [
       en: ["Farming of milkfish and shrimp", "Supports national food security", "Hub for marine biology research", "Exports products to East Asian markets"],
     },
     imageHint: "Aerial view of aquaculture ponds and fish farming facilities",
+    descriptionAdvanced: {
+      de: "Das Ngatpang Aquaculture Center ist eine zentrale Einrichtung zur Förderung der Fischzucht und Ernährungssicherheit in Palau. Hier werden verschiedene Meeresfrüchte wie Milchfische und Krabben gezüchtet, um die lokale Abhängigkeit von Importen zu verringern. Das Zentrum dient auch als Forschungs- und Ausbildungsstätte für nachhaltige Aquakultur.",
+      hu: "A Ngatpang Akvakultúra Központ központi létesítmény a haltenyésztés és az élelmiszerbiztonság előmozdítására Palauban. Különféle tengeri élőlényeket, például terjethalakat és rákokat tenyésztenek itt az importfüggőség csökkentése érdekében. A központ kutatási és oktatási helyszínként is szolgál a fenntartható akvakultúra számára.",
+      ro: "Centrul de Acvacultură Ngatpang este o facilitate centrală pentru promovarea pisciculturii și a securității alimentare în Palau. Aici sunt crescute diverse fructe de mare, cum ar fi peștele lapte și crabii, pentru a reduce dependența locală de importuri. Centrul servește, de asemenea, ca loc de cercetare și instruire pentru acvacultura durabilă.",
+      en: "The Ngatpang Aquaculture Center is a central facility dedicated to promoting fish farming and food security in Palau. Various seafood species, such as milkfish and crabs, are cultivated here to reduce local reliance on imports. The center also serves as a research and training site for sustainable aquaculture practices.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich im Bundesstaat Ngatpang auf Babeldaob", "Wurde mit technischer Unterstützung aus Taiwan entwickelt", "Schwerpunkt liegt auf der Produktion von Milchfischen (Chanos chanos)", "Verfügt über mehrere Hektar Aufzuchtbecken", "Fördert die Zucht von Mangrovenkrabben für den lokalen Markt", "Unterstützt lokale Fischer durch die Bereitstellung von Setzlingen"],
+      hu: ["Babeldaob szigetén, Ngatpang államban található", "Tajvani technikai támogatással fejlesztették ki", "Fő fókusza a terjethal (Chanos chanos) termelése", "Több hektárnyi nevelőmedencével rendelkezik", "Elősegíti a mangrove rákok tenyésztését a helyi piacra", "Támogatja a helyi halászokat ivadékok biztosításával"],
+      ro: ["Situat în statul Ngatpang de pe insula Babeldaob", "Dezvoltat cu asistență tehnică din partea Taiwanului", "Accentul principal este pe producția de pește lapte (Chanos chanos)", "Dispune de mai multe hectare de bazine de creștere", "Promovează creșterea crabilor de mangrovă pentru piața locală", "Sprijină pescarii locali prin furnizarea de puiet"],
+      en: ["Located in Ngatpang State on the island of Babeldaob", "Developed with technical assistance from Taiwan", "Main focus is on the production of milkfish (Chanos chanos)", "Features several hectares of grow-out ponds", "Promotes the farming of mangrove crabs for the local market", "Supports local fishers by providing fingerlings and training"],
+    },
   },
   {
     id: "palau-peleliu-south-harbor-economic-v2",
@@ -133,6 +205,18 @@ export const palauEconomicV2: POI[] = [
       en: ["Docking point for state ferries", "Vital for local fish commerce", "Former strategic military port", "Customs point for southern waters"],
     },
     imageHint: "Small ferry and fishing boats docked at a concrete pier in Peleliu",
+    descriptionAdvanced: {
+      de: "Der Südhafen von Peleliu ist der wichtigste logistische Knotenpunkt der Insel und verbindet sie mit dem Rest des Archipels. Er dient als Anlegestelle für Fähren und Versorgungsschiffe, die Lebensmittel und Treibstoff bringen. Die Infrastruktur ist entscheidend für den lokalen Tourismus und die wirtschaftliche Stabilität der Gemeinde.",
+      hu: "Peleliu déli kikötője a sziget legfontosabb logisztikai csomópontja, amely összeköti a szigetcsoport többi részével. Komp- és ellátóhajók kikötőhelyeként szolgál, amelyek élelmiszert és üzemanyagot szállítanak. Az infrastruktúra döntő jelentőségű a helyi turizmus és a közösség gazdasági stabilitása szempontjából.",
+      ro: "Portul de Sud din Peleliu este cel mai important nod logistic al insulei, conectând-o cu restul arhipelagului. Acesta servește ca punct de acostare pentru feriboturi și nave de aprovizionare care aduc alimente și combustibil. Infrastructura este crucială pentru turismul local și stabilitatea economică a comunității.",
+      en: "Peleliu South Harbor is the primary logistical hub for the island, connecting it with the rest of the archipelago. It serves as the main docking point for ferries and supply vessels carrying food, fuel, and materials. The infrastructure is vital for supporting local tourism and ensuring the economic stability of the island community.",
+    },
+    factsAdvanced: {
+      de: ["Haupthafen für den Personenverkehr nach Koror", "Befindet sich an der Südspitze der Insel Peleliu", "Wurde durch japanische Entwicklungshilfe modernisiert", "Dient als Basis für lokale Fischerboote", "Wichtiger Umschlagplatz für Baumaterialien", "In der Nähe befinden sich Denkmäler aus dem Zweiten Weltkrieg"],
+      hu: ["A Kororba irányuló személyforgalom fő kikötője", "Peleliu szigetének déli csücskén található", "Japán fejlesztési segélyek segítségével modernizálták", "A helyi halászhajók bázisaként szolgál", "Az építőanyagok fontos rakodóhelye", "A közelben második világháborús emlékművek találhatók"],
+      ro: ["Portul principal pentru traficul de pasageri către Koror", "Situat în vârful sudic al insulei Peleliu", "Modernizat prin asistență pentru dezvoltare din partea Japoniei", "Servește ca bază pentru ambarcațiunile pescarilor locali", "Punct important de transbordare pentru materiale de construcție", "În apropiere se află monumente din al Doilea Război Mondial"],
+      en: ["Main port for passenger traffic to and from Koror", "Located at the southern tip of Peleliu Island", "Modernized through Japanese development assistance", "Serves as a base for local artisanal fishing boats", "Important transit point for construction materials", "Nearby area contains several World War II memorials"],
+    },
   },
   {
     id: "palau-angaur-harbor-economic-v2",
@@ -152,6 +236,18 @@ export const palauEconomicV2: POI[] = [
       en: ["Center for phosphate export (historic)", "The island's only maritime access point", "Supports local small-scale farming", "Logistics hub for island residents"],
     },
     imageHint: "Remote harbor pier with a supply ship and tropical vegetation",
+    descriptionAdvanced: {
+      de: "Der Hafen von Angaur ist der einzige Zugangspunkt zur Insel und für die Versorgung der Bewohner unerlässlich. Aufgrund der starken Strömungen und des offenen Ozeans gilt die Hafeneinfahrt als eine der anspruchsvollsten in der Region. Er spielt eine zentrale Rolle für den Transport von Gütern und den Personenverkehr nach Koror.",
+      hu: "Angaur kikötője az egyetlen bejutási pont a szigetre, és elengedhetetlen a lakosok ellátásához. Az erős áramlatok és a nyílt óceán miatt a kikötőbejáratot a régió egyik legnehezebb szakaszának tartják. Központi szerepet játszik az áruszállításban és a Kororba irányuló személyforgalomban.",
+      ro: "Portul din Angaur este singurul punct de acces pe insulă și este esențial pentru aprovizionarea locuitorilor. Din cauza curenților puternici și a oceanului deschis, intrarea în port este considerată una dintre cele mai dificile din regiune. Acesta joacă un rol central în transportul de mărfuri și trafic de pasageri către Koror.",
+      en: "Angaur Harbor is the sole entry point to the island and is essential for supplying the local residents. Due to strong currents and the open ocean, the harbor entrance is considered one of the most challenging to navigate in the region. It plays a central role in the transportation of goods and passenger travel to Koror.",
+    },
+    factsAdvanced: {
+      de: ["Einziger befestigter Hafen auf der Insel Angaur", "Die Hafeneinfahrt wurde künstlich in das Riff gesprengt", "Wurde historisch für den Phosphatexport genutzt", "Hafenbecken bietet Schutz vor schwerem Seegang", "Regelmäßige Fährverbindung durch den Staat Angaur", "Wichtiger Ort für das Be- und Entladen von Treibstoff"],
+      hu: ["Az egyetlen kiépített kikötő Angaur szigetén", "A kikötő bejáratát mesterségesen robbantották a zátonyba", "Történelmileg foszfát exportjára használták", "A kikötőmedence védelmet nyújt a heves hullámzás ellen", "Rendszeres kompösszeköttetés Angaur állam által", "Az üzemanyag be- és kirakodásának fontos helyszíne"],
+      ro: ["Singurul port amenajat de pe insula Angaur", "Intrarea în port a fost tăiată artificial în recif", "Folosit istoric pentru exportul de fosfați", "Bazinul portuar oferă protecție împotriva mării agitate", "Conexiune regulată cu feribotul operată de statul Angaur", "Loc important pentru încărcarea și descărcarea combustibilului"],
+      en: ["Only established harbor on the island of Angaur", "The harbor entrance was artificially blasted into the reef", "Historically used for the exportation of phosphate", "The harbor basin provides protection from heavy ocean swells", "Regular ferry service is operated by the State of Angaur", "Crucial location for the loading and unloading of fuel"],
+    },
   },
   {
     id: "palau-ngerulmud-administrative-economic-v2",
@@ -171,6 +267,18 @@ export const palauEconomicV2: POI[] = [
       en: ["Capital of Palau since 2006", "Concentration of state ministries", "Site of national financial decisions", "Largest building complex in the nation"],
     },
     imageHint: "Neoclassical Capitol building on a hill surrounded by tropical forest",
+    descriptionAdvanced: {
+      de: "Ngerulmud ist seit 2006 der offizielle Regierungssitz von Palau und beherbergt den monumentalen Kapitol-Komplex. Die Anlage im Bundesstaat Melekeok umfasst Gebäude für die Legislative, Exekutive und Judikative des Landes. Die Architektur orientiert sich am US-Kapitol und ist ein markantes Symbol der nationalen Souveränität.",
+      hu: "Ngerulmud 2006 óta Palau hivatalos kormányzati székhelye, és itt található a monumentális Kapitólium-komplexum. A Melekeok államban található létesítmény magában foglalja az ország törvényhozó, végrehajtó és bírói hatalmának épületeit. Építészete az amerikai Kapitóliumot követi, és a nemzeti szuverenitás jelképe.",
+      ro: "Ngerulmud este sediul oficial al guvernului din Palau din 2006 și găzduiește complexul monumental al Capitoliului. Instalația din statul Melekeok include clădiri pentru puterile legislativă, executivă și judecătorească ale țării. Arhitectura este modelată după Capitoliul SUA și este un simbol marcant al suveranității naționale.",
+      en: "Ngerulmud has been the official seat of Palau's government since 2006, housing the monumental Capitol complex. Located in Melekeok State, the site includes buildings for the country's legislative, executive, and judicial branches. Its architecture is modeled after the United States Capitol and stands as a prominent symbol of national sovereignty.",
+    },
+    factsAdvanced: {
+      de: ["Wurde am 7. Oktober 2006 offiziell eingeweiht", "Ngerulmud ist die am wenigsten bevölkerte Hauptstadt der Welt", "Der Bau kostete etwa 45 Millionen US-Dollar", "Finanziert durch einen Kredit der Regierung Taiwans", "Befindet sich etwa 20 Kilometer nordöstlich von Koror", "Besteht aus drei Hauptgebäuden, die durch Wege verbunden sind"],
+      hu: ["Hivatalosan 2006. október 7-én avatták fel", "Ngerulmud a világ legkisebb népességű fővárosa", "Az építés körülbelül 45 millió amerikai dollárba került", "Tajvan kormánya által nyújtott hitelből finanszírozták", "Körülbelül 20 kilométerre északkeletre található Korortól", "Három fő épületből áll, amelyeket utak kötnek össze"],
+      ro: ["Inaugurat oficial la 7 octombrie 2006", "Ngerulmud este capitala cu cea mai mică populație din lume", "Construcția a costat aproximativ 45 de milioane de dolari SUA", "Finanțat printr-un împrumut de la guvernul Taiwanului", "Situat la aproximativ 20 de kilometri nord-est de Koror", "Format din trei clădiri principale conectate prin alei"],
+      en: ["Officially inaugurated on October 7, 2006", "Ngerulmud is the least populous capital city in the world", "Construction costs totaled approximately 45 million USD", "Financed through a loan from the government of Taiwan", "Located about 20 kilometers northeast of the former capital, Koror", "Consists of three main buildings connected by walkways"],
+    },
   },
   {
     id: "palau-ngardmau-mining-ruins-economic-v2",
@@ -190,5 +298,17 @@ export const palauEconomicV2: POI[] = [
       en: ["Operated by Japanese corporations", "Remnants of cable cars still exist", "Former primary economic sector", "Historic industrial loading docks"],
     },
     imageHint: "Rusted remains of old mining equipment and rails in the jungle",
+    descriptionAdvanced: {
+      de: "Die Bergbauruinen von Ngardmau zeugen von der industriellen Vergangenheit Palaus während der japanischen Mandatszeit. In den 1930er Jahren wurde hier Bauxit abgebaut und mit einer Seilbahn zum Hafen transportiert. Heute sind verrostete Maschinen, Schienen und Fundamente inmitten des dichten Dschungels zu sehen.",
+      hu: "Ngardmau bányászati romjai Palau ipari múltjáról tanúskodnak a japán mandátum idején. Az 1930-as években bauxitot bányásztak itt, amelyet kötélpályán szállítottak a kikötőbe. Ma rozsdás gépek, sínek és alapok láthatók a sűrű dzsungel közepén.",
+      ro: "Ruinele miniere din Ngardmau stau mărturie pentru trecutul industrial al Palau în timpul mandatului japonez. În anii 1930, aici se exploata bauxită, care era transportată la port cu ajutorul unui funicular. Astăzi, utilaje ruginite, șine și fundații pot fi văzute în mijlocul junglei dese.",
+      en: "The Ngardmau mining ruins reflect Palau's industrial past during the Japanese mandate period. In the 1930s, bauxite was mined here and transported to the coast via an extensive cable car system. Today, rusted machinery, rail tracks, and concrete foundations remain visible amidst the dense tropical jungle.",
+    },
+    factsAdvanced: {
+      de: ["Bauxitabbau durch die Nanyo Kerai Kaisha Gesellschaft", "Betriebszeitraum lag zwischen 1937 und 1944", "Die Seilbahn war einst über 3 Kilometer lang", "Ruinen befinden sich in der Nähe der Ngardmau-Wasserfälle", "Überreste eines alten Lokomotivschuppens sind noch sichtbar", "Japan produzierte hier Aluminium für die Kriegsanstrengungen"],
+      hu: ["Bauxitbányászat a Nanyo Kerai Kaisha társaság által", "Az üzemeltetési időszak 1937 és 1944 között volt", "A kötélpálya egykor több mint 3 kilométer hosszú volt", "A romok a Ngardmau-vízesés közelében találhatók", "Egy régi mozdony fűtőházának maradványai még láthatók", "Japán itt termelt alumíniumot a háborús célokra"],
+      ro: ["Exploatarea bauxitei de către compania Nanyo Kerai Kaisha", "Perioada de funcționare a fost între 1937 și 1944", "Funicularul avea odată peste 3 kilometri lungime", "Ruinele se află în apropierea cascadelor Ngardmau", "Rămășițele unui vechi depou de locomotive sunt încă vizibile", "Japonia producea aici aluminiu pentru efortul de război"],
+      en: ["Bauxite mining was conducted by the Nanyo Kerai Kaisha company", "Operational period spanned between 1937 and 1944", "The cable car system was once over 3 kilometers long", "Ruins are located near the scenic Ngardmau Waterfalls", "Remains of an old locomotive shed are still visible today", "Japan produced aluminum here to support its wartime efforts"],
+    },
   }
 ];

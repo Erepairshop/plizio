@@ -1445,6 +1445,18 @@ export const lesothoLandmarksV2: POI[] = [
       en: ["Colonial administrative building", "Seat of local judiciary", "Located in Mafeteng", "Built from local sandstone"],
     },
     imageHint: "Mafeteng Court House historic building Lesotho",
+    descriptionAdvanced: {
+      de: "Das Gerichtsgebäude von Mafeteng ist ein zentrales administratives und architektonisches Wahrzeichen in der gleichnamigen Stadt im Südwesten Lesothos. Es dient als Sitz der lokalen Justiz und ist ein Symbol für die Rechtsstaatlichkeit in der Region. Die Architektur spiegelt oft die koloniale Vergangenheit und die moderne administrative Entwicklung des Landes wider und ist ein wichtiger Treffpunkt für die Gemeinde.",
+      hu: "A Mafeteng bírósági épület központi közigazgatási és építészeti nevezetesség az azonos nevű városban, Lesotho délnyugati részén. A helyi igazságszolgáltatás székhelyeként szolgál, és a jogállamiság jelképe a régióban. Az épület stílusa tükrözi a gyarmati múltat és az ország modern közigazgatási fejlődését, miközben fontos közösségi találkozóhely maradt.",
+      ro: "Judecătoria din Mafeteng este un punct de reper administrativ și arhitectural central în orașul cu același nume din sud-vestul Lesotho. Acesta servește drept sediu al justiției locale și este un simbol al statului de drept în regiune. Arhitectura reflectă trecutul colonial și dezvoltarea administrativă modernă a țării, fiind un loc de întâlnire important.",
+      en: "The Mafeteng Court House is a central administrative and architectural landmark in the town of the same name in southwestern Lesotho. It serves as the seat of local justice and is a symbol of the rule of law in the region. The building's architecture reflects the colonial past and modern administrative development of the country, and it remains an important community hub.",
+    },
+    factsAdvanced: {
+      de: ["Sitz des Amtsgerichts von Mafeteng", "Wichtiges Regierungsgebäude im Distrikt", "Architektur im kolonialen Stil", "Zentrum der regionalen Justizverwaltung", "Befindet sich im Stadtzentrum", "Symbol der lokalen Rechtsordnung"],
+      hu: ["A mafetengi magisztrátusi bíróság székhelye", "A körzet fontos kormányzati épülete", "Építészeti stílusa gyarmati jegyeket mutat", "A regionális igazságszolgáltatás központja", "A városközpontban helyezkedik el", "A helyi jogrendszer egyik jelképe"],
+      ro: ["Sediul tribunalului din Mafeteng", "Clădire guvernamentală importantă", "Arhitectură cu influențe coloniale", "Centrul administrației judiciare regionale", "Situat în centrul orașului", "Simbol al ordinii juridice locale"],
+      en: ["Seat of the Mafeteng Magistrate's Court", "Major government building in the district", "Architecture features colonial-era styles", "Center for regional judicial administration", "Located in the town center", "Symbol of the local legal system"],
+    },
   },
   {
     id: "lesotho-maseru-club-architecture-landmarks-v2",

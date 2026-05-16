@@ -236,5 +236,17 @@ export const grenadaReliefV2: POI[] = [
       en: ["Northern highland region.", "Fertile volcanic soil.", "Hilly topography.", "Key agricultural zone."],
     },
     imageHint: "Morne Fendue highlands Grenada",
+    descriptionAdvanced: {
+      de: "Morne Fendue ist ein historisches Plantagenhaus im Bezirk Saint Patrick im Norden von Grenada. Das 1908 aus lokalem Flussgestein und Kalkmörtel erbaute Gebäude ist ein bedeutendes Beispiel für die koloniale Architektur der Insel. Es war lange Zeit der Wohnsitz von Betty Mascoll, einer bekannten Persönlichkeit der Inselgeschichte. Heute ist das Anwesen vor allem für seine traditionelle grenadinische Küche und seinen Garten bekannt.",
+      hu: "Morne Fendue egy történelmi ültetvényház Grenada északi részén, Saint Patrick egyházközségben. Az 1908-ban helyi folyami kőből és mészhabarcsból épült ház a sziget gyarmati építészetének egyik legszebb példája. Hosszú ideig Betty Mascoll, a sziget egyik meghatározó személyiségének otthona volt. Napjainkban az ingatlan hagyományos grenadai konyhájáról és dús kertjéről nevezetes.",
+      ro: "Morne Fendue este o casă istorică de plantație situată în parohia Saint Patrick, în nordul Grenadei. Construită în 1908 din piatră de râu locală și mortar de var, clădirea este un exemplu remarcabil de arhitectură colonială. A fost mult timp reședința lui Betty Mascoll, o figură proeminentă a istoriei insulei. Astăzi, proprietatea este celebră pentru bucătăria sa tradițională și grădinile luxuriante.",
+      en: "Morne Fendue is a historic plantation house located in the Saint Patrick parish in northern Grenada. Built in 1908 using local river stone and lime mortar, the building is a significant example of the island's colonial architecture. For many years, it was the home of Betty Mascoll, a well-known figure in Grenadian history. Today, the estate is famous for its traditional Grenadian cuisine and lush gardens.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 1908", "Konstruiert aus handverlesenen Flusssteinen", "Ehemaliges Wohnhaus von Betty Mascoll", "Liegt in der Nähe der Stadt Sauteurs", "Bekannt für das traditionelle Gericht 'Oil Down'", "Das Haus überstand mehrere schwere Hurrikans"],
+      hu: ["1908-ban épült ültetvényház", "Helyi folyami kövekből falazták", "Betty Mascoll egykori lakóhelye", "Sauteurs városa közelében található", "Híres a hagyományos „Oil Down” ételéről", "Az épület több nagy hurrikánt is sértetlenül átvészelt"],
+      ro: ["Construită în anul 1908", "Realizată din pietre de râu selecționate manual", "Fosta reședință a lui Betty Mascoll", "Situată în apropierea orașului Sauteurs", "Renumită pentru preparatul tradițional 'Oil Down'", "Clădirea a supraviețuit mai multor uragane majore"],
+      en: ["Built in 1908", "Constructed using hand-cut river stones", "Former home of the late Betty Mascoll", "Located near the town of Sauteurs", "Famous for serving the national dish 'Oil Down'", "The structure has survived several major hurricanes"],
+    },
   }
 ];

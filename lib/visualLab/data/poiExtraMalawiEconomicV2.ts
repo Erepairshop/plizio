@@ -174,6 +174,18 @@ export const malawiEconomicV2: POI[] = [
       en: ["The estate benefits from the high rainfall near the mountain.", "It operates its own large tea processing factory.", "Lujeri is one of the largest employers in Mulanje District.", "It primarily produces tea qualities used for tea bags."],
     },
     imageHint: "Tea plantation fields with Mulanje Mountain in the background",
+    descriptionAdvanced: {
+      de: "Das Lujeri Tea Estate liegt am Fuße des Mulanje-Massivs im Südosten Malawis und ist eines der größten Teeanbaugebiete des Landes. Gegründet zu Beginn des 20. Jahrhunderts, nutzt die Plantage das niederschlagsreiche Mikroklima der Berge. Tee ist eines der wichtigsten Exportgüter Malawis und Lujeri spielt eine zentrale Rolle in der lokalen Wirtschaft.",
+      hu: "A Lujeri Tea Estate a Mulanje-masszívum lábánál, Malawi délkeleti részén található, és az ország egyik legnagyobb teatermelő területe. A 20. század elején alapított ültetvény kihasználja a hegyek csapadékos mikroklímáját. A tea Malawi egyik legfontosabb exportcikke, és a Lujeri központi szerepet játszik a helyi gazdaságban.",
+      ro: "Lujeri Tea Estate este situat la poalele masivului Mulanje din sud-estul Malawi și este una dintre cele mai mari zone producătoare de ceai din țară. Fondată la începutul secolului al XX-lea, plantația profită de microclimatul bogat în precipitații al munților. Ceaiul este unul dintre principalele produse de export ale Malawi, iar Lujeri joacă un rol central în economia locală.",
+      en: "The Lujeri Tea Estate is situated at the foot of the Mulanje Massif in southeastern Malawi and is one of the country's largest tea-producing areas. Founded in the early 20th century, the estate benefits from the high-rainfall microclimate of the mountains. Tea is one of Malawi's top exports, and Lujeri plays a central role in the local economy.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um das Jahr 1904.", "Liegt im Distrikt Mulanje.", "Verarbeitet jährlich über 8.000 Tonnen Tee.", "Nutzt Wasserkraft zur Stromerzeugung.", "Beschäftigt Tausende von lokalen Arbeitern.", "Malawi ist der zweitgrößte Teeproduzent Afrikas."],
+      hu: ["1904 körül alapították.", "Mulanje körzetben található.", "Évente több mint 8000 tonna teát dolgoz fel.", "Vízienergiát használ az áramtermeléshez.", "Helyi munkások ezreit foglalkoztatja.", "Malawi Afrika második legnagyobb teatermelője."],
+      ro: ["Fondată în jurul anului 1904.", "Situată în districtul Mulanje.", "Procesează anual peste 8.000 de tone de ceai.", "Folosește energia hidroelectrică pentru electricitate.", "Angajează mii de lucrători locali.", "Malawi este al doilea producător de ceai din Africa."],
+      en: ["Founded around 1904.", "Located in the Mulanje District.", "Processes over 8,000 tonnes of tea annually.", "Uses hydroelectric power for energy.", "Employs thousands of local workers.", "Malawi is Africa's second-largest tea producer."],
+    },
   },
   {
     id: "malawi-makata-industrial-area-economic-v2",

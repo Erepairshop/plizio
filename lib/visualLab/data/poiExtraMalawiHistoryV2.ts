@@ -1197,6 +1197,18 @@ export const malawiHistoryV2: POI[] = [
       en: ["Established in 1981", "Known as the Eton of Africa", "Teaches Latin and Greek", "Architecturally significant campus"],
     },
     imageHint: "Kamuzu Academy Malawi buildings",
+    descriptionAdvanced: {
+      de: "Die Kamuzu Academy in Kasungu wurde 1981 vom damaligen Präsidenten Hastings Kamuzu Banda gegründet und wird oft als 'Eton Afrikas' bezeichnet. Die Eliteschule legt großen Wert auf klassische Bildung, einschließlich Latein und Griechisch. Die Architektur der Akademie ist durch monumentale Ziegelbauten und großzügige Parkanlagen geprägt.",
+      hu: "A kasungui Kamuzu Akadémiát 1981-ben alapította az akkori elnök, Hastings Kamuzu Banda, és gyakran „Afrika Etonjaként” emlegetik. Az elitiskola nagy hangsúlyt fektet a klasszikus oktatásra, beleértve a latint és a görögöt is. Az akadémia építészetét monumentális téglaépületek és tágas parkok jellemzik.",
+      ro: "Academia Kamuzu din Kasungu a fost fondată în 1981 de președintele de atunci, Hastings Kamuzu Banda, și este adesea numită „Eton-ul Africii”. Școala de elită pune mare accent pe educația clasică, inclusiv latina și greaca. Arhitectura academiei este marcată de clădiri monumentale din cărămidă și parcuri spațioase.",
+      en: "Kamuzu Academy in Kasungu was founded in 1981 by then-President Hastings Kamuzu Banda and is often referred to as the 'Eton of Africa.' This elite school places a strong emphasis on classical education, including Latin and Greek. The academy's architecture is characterized by monumental brick buildings and expansive grounds.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung am 21. November 1981.", "Liegt in der Nähe von Mtunthama.", "Latein ist ein Pflichtfach für alle Schüler.", "Gegründet von Dr. Hastings Kamuzu Banda.", "Internatsschule nach britischem Vorbild.", "Verfügt über eine der besten Bibliotheken Malawis."],
+      hu: ["1981. november 21-én nyílt meg.", "Mtunthama közelében található.", "A latin minden diák számára kötelező tantárgy.", "Dr. Hastings Kamuzu Banda alapította.", "Brit mintára épült bentlakásos iskola.", "Malawi egyik legjobb könyvtárával rendelkezik."],
+      ro: ["Deschisă la 21 noiembrie 1981.", "Situată în apropiere de Mtunthama.", "Latina este materie obligatorie pentru toți elevii.", "Fondată de Dr. Hastings Kamuzu Banda.", "Școală cu internat după model britanic.", "Deține una dintre cele mai bune biblioteci din Malawi."],
+      en: ["Opened on November 21, 1981.", "Located near Mtunthama.", "Latin is a compulsory subject for all students.", "Founded by Dr. Hastings Kamuzu Banda.", "Boarding school modeled on British standards.", "Houses one of the best libraries in Malawi."],
+    },
   },
   {
     id: "malawi-victoria-avenue-blantyre-history-v2",
@@ -1619,6 +1631,18 @@ export const malawiHistoryV2: POI[] = [
       en: ["Old train exhibit", "Part of the National Museum", "Showcases technical history", "British-made locomotives"],
     },
     imageHint: "Chichiri museum steam engine Malawi",
+    descriptionAdvanced: {
+      de: "Die Chichiri-Dampflokomotiven sind Teil der Sammlung des Museums von Malawi in Blantyre. Diese historischen Maschinen zeugen von der Ära der Nyasaland Railways, die für die wirtschaftliche Entwicklung des britischen Protektorats entscheidend waren. Die Ausstellung bietet Einblicke in die Technik und Logistik des frühen 20. Jahrhunderts in Südostafrika.",
+      hu: "A Chichiri gőzmozdonyok a blantyre-i Malawi Múzeum gyűjteményének részét képezik. Ezek a történelmi gépek a Nyasaland Railways korszakáról tanúskodnak, amely döntő fontosságú volt a brit protektorátus gazdasági fejlődése szempontjából. A kiállítás betekintést nyújt a 20. század eleji délkelet-afrikai technológiába és logisztikába.",
+      ro: "Locomotivele cu abur Chichiri fac parte din colecția Muzeului Malawi din Blantyre. Aceste mașini istorice stau mărturie erei Nyasaland Railways, care a fost crucială pentru dezvoltarea economică a protectoratului britanic. Expoziția oferă perspective asupra tehnologiei și logisticii de la începutul secolului al XX-lea în sud-estul Africii.",
+      en: "The Chichiri Steam Locomotives are part of the collection at the Museum of Malawi in Blantyre. These historical machines bear witness to the era of Nyasaland Railways, which was crucial for the economic development of the British protectorate. The exhibit offers insights into early 20th-century technology and logistics in southeastern Africa.",
+    },
+    factsAdvanced: {
+      de: ["Standort: Museum von Malawi (Chichiri).", "Präsentiert Loks der Nyasaland Railways.", "Spurweite von 1.067 mm (Kapspur).", "Technik aus der Zeit um 1900 bis 1950.", "Erste Bahnlinie Malawis startete 1908.", "Wichtige Verbindung zum Hafen Beira (Mosambik)."],
+      hu: ["Helyszín: Malawi Múzeum (Chichiri).", "A Nyasaland Railways mozdonyait mutatja be.", "1067 mm-es nyomtáv (fokföldi nyomtáv).", "Technológia az 1900–1950 közötti időszakból.", "Malawi első vasútvonala 1908-ban indult.", "Fontos összeköttetés Beira kikötőjével (Mozambik)."],
+      ro: ["Locație: Muzeul Malawi (Chichiri).", "Prezintă locomotive ale Nyasaland Railways.", "Ecartament de 1.067 mm (ecartament Cap).", "Tehnologie din perioada 1900-1950.", "Prima linie ferată din Malawi a pornit în 1908.", "Legătură importantă cu portul Beira (Mozambic)."],
+      en: ["Located at the Museum of Malawi (Chichiri).", "Features Nyasaland Railways locomotives.", "Gauge of 1,067 mm (Cape gauge).", "Technology from the 1900-1950 era.", "Malawi's first railway line started in 1908.", "Key connection to Beira port in Mozambique."],
+    },
   },
   {
     id: "malawi-karonga-war-memorial-history-v2",

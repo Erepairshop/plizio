@@ -577,6 +577,18 @@ export const lesothoEconomicV2: POI[] = [
       en: ["Focus on cattle and sheep", "Government regulated", "Hygiene standards", "Supplies local markets"],
     },
     imageHint: "Large food processing and distribution facility",
+    descriptionAdvanced: {
+      de: "Der National Abattoir in Maseru ist eine zentrale Einrichtung der Fleischwirtschaft in Lesotho und spielt eine wichtige Rolle für die Nahrungsmittelsicherheit des Landes. Der Schlachthof wurde errichtet, um die Verarbeitung von Rindern und Schafen nach internationalen Hygienestandards zu zentralisieren. Er unterstützt lokale Bauern beim Marktzugang und fördert den Export von Fleischprodukten in die Region.",
+      hu: "A Maseru városában található Nemzeti Vágóhíd Lesotho húsiparának központi létesítménye, amely meghatározó szerepet tölt be az ország élelmezésbiztonságában. Az üzemet azért hozták létre, hogy a szarvasmarha- és juhfeldolgozást nemzetközi higiéniai szabványok szerint központosítsák. Segíti a helyi gazdák piacra jutását és a hústermékek regionális exportját.",
+      ro: "Abatorul Național din Maseru este o facilitate centrală a industriei cărnii din Lesotho, jucând un rol vital în securitatea alimentară a țării. Unitatea a fost construită pentru a centraliza procesarea bovinelor și ovinelor conform standardelor internaționale de igienă. Acesta sprijină fermierii locali în accesul la piață și promovează exportul de produse din carne.",
+      en: "The National Abattoir in Maseru is a central facility for Lesotho's meat industry, playing a vital role in the country's food security. The plant was established to centralize the processing of cattle and sheep according to international hygiene standards. It supports local farmers in accessing markets and promotes the export of meat products to the regional market.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich in der Hauptstadt Maseru", "Wichtigster Schlachthof des Landes", "Verarbeitet hauptsächlich Rinder und Schafe", "Erfüllt internationale Gesundheitsstandards", "Unterstützt den Fleischsektor seit 1985", "Teil der staatlichen Agrarstrategie"],
+      hu: ["A fővárosban, Maseru-ban található", "Az ország legfontosabb vágóhídja", "Főként szarvasmarhát és juhot dolgoz fel", "Nemzetközi egészségügyi előírásoknak felel meg", "1985 óta támogatja a húságazatot", "Az állami agrárstratégia része"],
+      ro: ["Localizat în capitala Maseru", "Cel mai important abator din țară", "Procesează în principal bovine și ovine", "Respectă normele internaționale sanitare", "Sprijină sectorul cărnii din anul 1985", "Parte a strategiei agricole de stat"],
+      en: ["Located in the capital city, Maseru", "Most important abattoir in the country", "Primarily processes cattle and sheep", "Complies with international health standards", "Has supported the meat sector since 1985", "Part of the national agricultural strategy"],
+    },
   },
   {
     id: "lesotho-ha-rambanta-solar-economic-v2",
@@ -596,6 +608,18 @@ export const lesothoEconomicV2: POI[] = [
       en: ["Renewable energy source", "Environmentally friendly", "Reduces import dependency", "Modern photovoltaics"],
     },
     imageHint: "Solar panel farm in a rural landscape",
+    descriptionAdvanced: {
+      de: "Das Ha Rambanta Solarprojekt ist eine bedeutende Photovoltaikanlage im Distrikt Mafeteng, die zur Diversifizierung des Energiemixes in Lesotho beiträgt. Die Anlage nutzt die hohe Sonneneinstrahlung des Hochlandes, um sauberen Strom für das nationale Netz zu erzeugen. Es ist eines der ersten großen Projekte für erneuerbare Energien im Land und reduziert die Abhängigkeit von Stromimporten aus Südafrika.",
+      hu: "A Ha Rambanta napelem-projekt egy jelentős fotovoltaikus erőmű Mafeteng körzetében, amely hozzájárul Lesotho energiamixének diverzifikálásához. A létesítmény a felföldi területek magas napsütéses óraszámát használja fel tiszta energia termelésére a nemzeti hálózat számára. Ez az egyik első nagyszabású megújuló energia-projekt az országban, csökkentve az importfüggőséget.",
+      ro: "Proiectul solar Ha Rambanta este o centrală fotovoltaică semnificativă din districtul Mafeteng, contribuind la diversificarea mixului energetic din Lesotho. Instalația utilizează radiația solară ridicată din zonele înalte pentru a genera energie curată pentru rețeaua națională. Este unul dintre primele proiecte majore de energie regenerabilă din țară, reducând dependența de importuri.",
+      en: "The Ha Rambanta solar project is a significant photovoltaic power plant in the Mafeteng district, contributing to the diversification of Lesotho's energy mix. The facility utilizes the high solar radiation of the highlands to generate clean electricity for the national grid. It is one of the first large-scale renewable energy projects in the country, reducing dependence on imports.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich im Distrikt Mafeteng", "Teil der 20-MW-Solarinitiative", "Reduziert CO2-Emissionen in Lesotho", "Nutzt moderne Photovoltaik-Technologie", "Gefördert durch internationale Investitionen", "Erhöht die nationale Energieautarkie"],
+      hu: ["Mafeteng körzetében helyezkedik el", "A 20 MW-os napenergia-kezdeményezés része", "Csökkenti Lesotho szén-dioxid-kibocsátását", "Modern fotovoltaikus technológiát alkalmaz", "Nemzetközi befektetések révén valósult meg", "Növeli az ország energiafüggetlenségét"],
+      ro: ["Situat în districtul Mafeteng", "Parte a inițiativei solare de 20 MW", "Reduce emisiile de CO2 în Lesotho", "Utilizează tehnologie fotovoltaică modernă", "Finanțat prin investiții internaționale", "Crește independența energetică națională"],
+      en: ["Located in the Mafeteng district", "Part of a 20 MW solar initiative", "Reduces carbon emissions in Lesotho", "Utilizes modern photovoltaic technology", "Developed through international investment", "Increases national energy self-sufficiency"],
+    },
   },
   {
     id: "lesotho-monontsa-pass-economic-v2",

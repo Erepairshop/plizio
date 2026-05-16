@@ -19,6 +19,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Average elevation approx. 500 m", "Composed of Cambro-Ordovician sandstone", "Known for oases like Terjit", "Low annual precipitation"],
     },
     imageHint: "Adrar plateau sandstone landscape Sahara",
+    descriptionAdvanced: {
+      de: "Das Adrar-Plateau ist eine spektakuläre Hochlandschaft in der Sahara Mauretaniens, geprägt durch steile Tafelberge und tiefe Canyons. Es beherbergt die historischen Handelsstädte Chinguetti und Ouadane sowie zahlreiche Oasen. Das Plateau ist geologisch vielfältig und zeigt beeindruckende Erosionsformen sowie weite Sanddünenfelder an seinen Rändern.",
+      hu: "Az Adrar-fennsík egy látványos felföldi táj a mauritániai Szaharában, amelyet meredek táblahegyek és mély kanyonok jellemeznek. Itt találhatók Chinguetti és Ouadane történelmi kereskedővárosai, valamint számos oázis is. A fennsík geológiailag változatos, lenyűgöző eróziós formákat és kiterjedt homokdűnéket mutat a szélein.",
+      ro: "Platoul Adrar este un peisaj montan spectaculos din Sahara mauritană, caracterizat prin munți tabulari abrupți și canioane adânci. Găzduiește orașele comerciale istorice Chinguetti și Ouadane, precum și numeroase oaze. Platoul este divers din punct de vedere geologic, prezentând forme impresionante de eroziune și câmpuri vaste de dune.",
+      en: "The Adrar Plateau is a spectacular highland landscape in the Mauritanian Sahara, characterized by steep mesas and deep canyons. It is home to the historical trading towns of Chinguetti and Ouadane, as well as numerous oases. The plateau is geologically diverse, showcasing impressive erosional forms and vast sand dune fields at its edges.",
+    },
+    factsAdvanced: {
+      de: ["Durchschnittliche Höhe von 400-500 Metern", "Fundort zahlreicher neolithischer Artefakte", "Beherbergt das UNESCO-Welterbe Chinguetti", "Besteht hauptsächlich aus Sandstein", "Zentrum der mauretanischen Tourismusindustrie", "Bekannt für das Richat-Struktur-Phänomen"],
+      hu: ["Átlagos magassága 400-500 méter", "Számos neolitikus lelet lelőhelye", "Itt található az UNESCO-világörökség Chinguetti", "Főként homokkőből épül fel", "A mauritániai turizmus központja", "A közelében található a Richat-struktúra"],
+      ro: ["Altitudine medie de 400-500 de metri", "Locul multor artefacte neolitice", "Găzduiește situl UNESCO Chinguetti", "Compus în principal din gresie", "Centrul industriei turismului din Mauritania", "Cunoscut pentru fenomenul Structura Richat"],
+      en: ["Average altitude of 400-500 meters", "Site of numerous Neolithic artifacts", "Home to UNESCO World Heritage site Chinguetti", "Composed mainly of sandstone", "Hub of the Mauritanian tourism industry", "Known for the nearby Richat Structure phenomenon"],
+    },
   },
   {
     id: "mauritania-banc-darguin-coast-nature-v2",
@@ -38,6 +50,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["UNESCO World Heritage site", "Most important fishing grounds in the region", "Shallow sandbanks and mudflats", "High marine biodiversity"],
     },
     imageHint: "Banc d'Arguin coastal view Mauritania",
+    descriptionAdvanced: {
+      de: "Die Küste des Banc d'Arguin erstreckt sich über 180 Kilometer entlang des Atlantiks und ist eines der wichtigsten Naturreservate weltweit. Hier trifft der kalte Kanarenstrom auf die flachen Gewässer, was zu einem enormen Fischreichtum führt. Die Küste ist durch unberührte Sandstrände, Wattflächen und Dünen geprägt, die direkt ins Meer abfallen.",
+      hu: "A Banc d'Arguin partvidéke 180 kilométer hosszan húzódik az Atlanti-óceán mentén, és a világ egyik legfontosabb természetvédelmi területe. Itt találkozik a hideg Kanári-áramlat a sekély vizekkel, ami rendkívüli bőséget eredményez halakban. A partot érintetlen homokos strandok, árapálysíkságok és közvetlenül a tengerbe szakadó dűnék jellemzik.",
+      ro: "Coasta Banc d'Arguin se întinde pe 180 de kilometri de-a lungul Atlanticului și este una dintre cele mai importante rezervații naturale din lume. Aici, curentul rece al Canarelor întâlnește apele puțin adânci, ceea ce duce la o bogăție enormă de pește. Coasta este marcată de plaje virgine, zone intertidale și dune care cad direct în mare.",
+      en: "The coast of Banc d'Arguin extends over 180 kilometers along the Atlantic and is one of the world's most important nature reserves. Here, the cold Canary Current meets shallow waters, resulting in enormous fish stocks. The coast is characterized by pristine sandy beaches, mudflats, and dunes that drop directly into the sea.",
+    },
+    factsAdvanced: {
+      de: ["Nationalpark gegründet im Jahr 1976", "Gesamtfläche von ca. 12.000 Quadratkilometern", "Schutzgebiet für grüne Meeresschildkröten", "Enthält die größte Fischkonzentration Westafrikas", "Wichtigster Stopp für paläarktische Zugvögel", "Keine modernen Fischereifahrzeuge erlaubt"],
+      hu: ["A nemzeti parkot 1976-ban alapították", "Teljes területe kb. 12 000 négyzetkilométer", "A zöld tengeri teknősök védett területe", "Nyugat-Afrika legnagyobb halkoncentrációja", "A palearktikus költözőmadarak fő állomása", "Modern halászhajók használata tilos"],
+      ro: ["Parcul Național a fost fondat în 1976", "Suprafață totală de cca. 12.000 km pătrați", "Zonă de protecție pentru țestoasele verzi", "Cea mai mare concentrare de pește din Africa de Vest", "Cea mai importantă oprire pentru păsările migratoare", "Nicio navă modernă de pescuit nu este permisă"],
+      en: ["National Park established in 1976", "Total area of approx. 12,000 square kilometers", "Sanctuary for green sea turtles", "Largest concentration of fish in West Africa", "Key stopover for Palearctic migratory birds", "No modern fishing vessels allowed in the park"],
+    },
   },
   {
     id: "mauritania-guelta-deli-nature-v2",
@@ -57,6 +81,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Rocky basin in a canyon", "Fed by underground springs", "Isolated ecosystem", "Important spot for nomadic livestock"],
     },
     imageHint: "Guelta d'Eli rocky water pool",
+    descriptionAdvanced: {
+      de: "Die Guelta d'Eli ist eine natürliche Wasserstelle im Adrar-Plateau in der Nähe von Atar. Diese permanenten oder semi-permanenten Wasserlöcher sind in der trockenen Wüstenlandschaft überlebenswichtig für Flora und Fauna. Sie dienen seit Jahrhunderten als Tränke für nomadische Kamelkarawanen.",
+      hu: "A Guelta d'Eli egy természetes víznyerőhely az Adrar-fennsíkon, Atar közelében. Ezek az állandó vagy időszakos vízgyűjtők kulcsfontosságúak a sivatagi ökoszisztéma számára. Évszázadok óta fontos megállóhely a nomád tevehajcsárok és állataik számára.",
+      ro: "Guelta d'Eli este o sursă naturală de apă situată în podișul Adrar, lângă Atar. Aceste ochiuri de apă permanente sau semi-permanente sunt vitale pentru flora și fauna din peisajul arid al deșertului. Servește de secole ca punct de adăpare pentru caravanele nomade de cămile.",
+      en: "Guelta d'Eli is a natural water hole located in the Adrar Plateau near Atar. These permanent or semi-permanent water sources are vital for the desert ecosystem's flora and fauna. It has served for centuries as a watering point for nomadic camel caravans.",
+    },
+    factsAdvanced: {
+      de: ["Liegt in der Region Adrar", "Wichtiger ökologischer Rückzugsort", "Unterstützt lokale Viehbestände", "Befindet sich in einer Schlucht", "Teil des traditionellen Nomadennetzes", "Wasserstand variiert jahreszeitlich"],
+      hu: ["Az Adrar régióban található", "Fontos ökológiai menedékhely", "Fenntartja a helyi állatállományt", "Egy sziklás szurdokban fekszik", "A nomád útvonalak része", "Vízszintje évszakonként változik"],
+      ro: ["Situată în regiunea Adrar", "Refugiu ecologic important", "Susține șeptelul local", "Se află într-un defileu stâncos", "Parte a rețelei nomade tradiționale", "Nivelul apei variază sezonier"],
+      en: ["Located in the Adrar region", "Important ecological refuge", "Supports local livestock", "Situated within a rocky gorge", "Part of traditional nomad networks", "Water levels vary seasonally"],
+    },
   },
   {
     id: "mauritania-el-beyed-crater-nature-v2",
@@ -76,6 +112,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Pleistocene meteorite crater", "Age estimated at approx. 20,000 years", "Crater rim rises 100 m", "Floor is filled with sediment"],
     },
     imageHint: "Tenoumer impact crater aerial view",
+    descriptionAdvanced: {
+      de: "Der El-Beyed-Krater im Adrar-Plateau ist eine bedeutende archäologische Stätte aus der Altsteinzeit. Es handelt sich nicht um einen vulkanischen Krater, sondern um eine geologische Senke. Hier wurden tausende prähistorische Steinwerkzeuge wie Faustkeile entdeckt.",
+      hu: "Az Adrar-fennsíkon található El-Beyed-kráter egy jelentős paleolit kori régészeti lelőhely. Ez nem vulkáni kráter, hanem egy geológiai mélyedés a sivatagban. Itt több ezer őskori kőeszközt, például marokköveket fedeztek fel a kutatók.",
+      ro: "Craterul El-Beyed din podișul Adrar este un sit arheologic major datând din paleolitic. Nu este un crater vulcanic, ci o depresiune geologică naturală. Aici au fost descoperite mii de unelte de piatră preistorice, precum bifazele.",
+      en: "The El-Beyed Crater in the Adrar Plateau is a major Paleolithic archaeological site. It is not a volcanic crater but a natural geological depression. Thousands of prehistoric stone tools, such as Acheulean handaxes, have been discovered here.",
+    },
+    factsAdvanced: {
+      de: ["Acheuléen-Steinwerkzeuge gefunden", "Befindet sich im Adrar-Plateau", "Kein vulkanischer Ursprung", "Funde sind über 200.000 Jahre alt", "Wichtig für die Sahara-Forschung", "Flache, kreisförmige Struktur"],
+      hu: ["Acheuli típusú kőeszközök lelőhelye", "Az Adrar-fennsíkon található", "Nem vulkanikus eredetű", "A leletek több mint 200 ezer évesek", "Fontos a Szahara-kutatás számára", "Lapos, kör alakú szerkezet"],
+      ro: ["Situl uneltelor de piatră acheuleene", "Situat în podișul Adrar", "Nu are origine vulcanică", "Descoperiri de peste 200.000 ani", "Esențial pentru studiul Saharei", "Structură circulară plană"],
+      en: ["Site of Acheulean stone tools", "Located on the Adrar Plateau", "Not of volcanic origin", "Finds date back over 200,000 years", "Crucial for Saharan research", "Flat, circular structure"],
+    },
   },
   {
     id: "mauritania-dhar-tichitt-escarpment-nature-v2",
@@ -95,6 +143,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Over 200 km in length", "Sandstone formations", "Archaeologically significant region", "Desert climate with escarpment effects"],
     },
     imageHint: "Dhar Tichitt escarpment rocky landscape",
+    descriptionAdvanced: {
+      de: "Das Dhar Tichitt Escarpment ist eine markante Sandsteinklippe im Zentrum Mauretaniens. Sie beherbergt Ruinen neolithischer Siedlungen, die zu den ältesten Westafrikas gehören. Die Stätte ist Teil des UNESCO-Welterbes und zeugt von früher Landwirtschaft in der Region.",
+      hu: "A Dhar Tichitt egy markáns homokkő sziklafal Mauritánia középső részén. Neolitikus települések romjait rejti, amelyek Nyugat-Afrika legidősebbjei közé tartoznak. A helyszín az UNESCO Világörökség része, és a korai mezőgazdaságról tanúskodik.",
+      ro: "Abruptul Dhar Tichitt este o faleză de gresie proeminentă din centrul Mauritaniei. Adăpostește ruinele unor așezări neolitice, printre cele mai vechi din Africa de Vest. Situl face parte din Patrimoniul Mondial UNESCO, atestând agricultura timpurie.",
+      en: "The Dhar Tichitt Escarpment is a prominent sandstone cliff in central Mauritania. It houses ruins of Neolithic settlements that are among the oldest in West Africa. The site is part of the UNESCO World Heritage list, testifying to early agriculture in the region.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe seit 1996", "Teil der Dhar Tichitt-Walata Kette", "Siedlungen ab 2000 v. Chr.", "Trockenmauerbauweise entdeckt", "Ehemaliges fruchtbares Gebiet", "Strategische Verteidigungslage"],
+      hu: ["1996 óta UNESCO Világörökség", "A Dhar Tichitt-Walata lánc része", "Települések i.e. 2000-től", "Szárazon rakott kőfalak jellemzik", "Egykor termékeny terület volt", "Stratégiai védelmi elhelyezkedés"],
+      ro: ["Patrimoniu UNESCO din 1996", "Parte din lanțul Dhar Tichitt-Walata", "Așezări din 2000 î.Hr.", "Construcții din piatră uscată", "Fostă zonă fertilă", "Poziție strategică defensivă"],
+      en: ["UNESCO World Heritage since 1996", "Part of Dhar Tichitt-Walata chain", "Settlements from 2000 BC", "Dry-stone wall constructions", "Formerly a fertile area", "Strategic defensive location"],
+    },
   },
   {
     id: "mauritania-ayoun-el-atrous-valley-nature-v2",
@@ -114,6 +174,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Part of the Taoudenni Basin", "Seasonally green grassland", "Important livestock grazing ground", "Soils from sedimentary rock"],
     },
     imageHint: "Ayoun el Atrous valley landscape",
+    descriptionAdvanced: {
+      de: "Das Tal von Ayoun el Atrous liegt im Südosten Mauretaniens und ist von charakteristischen Sandsteinhügeln umgeben. Es dient als administratives Zentrum der Region Hodh El Gharbi. Die Umgebung ist durch Wadis und vereinzelte Palmenhaine geprägt.",
+      hu: "Ayoun el Atrous völgye Mauritánia délkeleti részén fekszik, jellegzetes homokkő dombokkal körülvéve. Ez Hodh El Gharbi régió közigazgatási központja. A környéket időszakos folyómedrek (vádik) és elszórt pálmaligetek jellemzik.",
+      ro: "Valea Ayoun el Atrous se află în sud-estul Mauritaniei, înconjurată de dealuri de gresie caracteristice. Servește drept centru administrativ pentru regiunea Hodh El Gharbi. Împrejurimile sunt marcate de ueduri și palcuri de palmieri.",
+      en: "The Ayoun el Atrous Valley is located in southeastern Mauritania, surrounded by characteristic sandstone hills. It serves as the administrative center of the Hodh El Gharbi region. The surroundings are marked by wadis and scattered palm groves.",
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt von Hodh El Gharbi", "Wichtiger Halt an der Route de l'Espoir", "Geprägt durch Quarzitfelsen", "Höhe etwa 260 Meter", "Sandstürme sind im Frühjahr häufig", "Traditioneller Karawanenstützpunkt"],
+      hu: ["Hodh El Gharbi fővárosa", "Fontos megálló a Remény Útján", "Kvarcit sziklák jellemzik", "Tengerszint feletti magassága 260 m", "Tavasszal gyakoriak a homokviharok", "Hagyományos karavánközpont"],
+      ro: ["Capitala Hodh El Gharbi", "Punct important pe Route de l'Espoir", "Caracterizată prin roci de cuarțit", "Altitudine de aproximativ 260 m", "Furtuni de nisip frecvente primăvara", "Bază tradițională pentru caravane"],
+      en: ["Capital of Hodh El Gharbi", "Key stop on the Route de l'Espoir", "Characterized by quartzite rocks", "Elevation approx. 260 meters", "Sandstorms common in spring", "Traditional caravan base"],
+    },
   },
   {
     id: "mauritania-terjit-oasis-gorge-nature-v2",
@@ -133,6 +205,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Palm grove in rocky setting", "Cooler temperatures due to gorge location", "Touristically developed nature destination", "Constant water supply"],
     },
     imageHint: "Terjit oasis palm grove gorge",
+    descriptionAdvanced: {
+      de: "Die Terjit-Oase liegt in einer dramatischen Schlucht am Rande des Adrar-Plateaus. Natürliche Thermalquellen speisen kleine Wasserbecken inmitten dichter Palmenhaine zwischen steilen Felswänden. Sie gilt als eine der schönsten Oasen des Landes.",
+      hu: "A Terjit-oázis egy látványos szurdokban található az Adrar-fennsík szélén. Természetes hévízforrások táplálják a kis medencéket a sűrű pálmaligetek között, a meredek sziklafalak árnyékában. Az ország egyik legszebb oázisaként tartják számon.",
+      ro: "Oaza Terjit este situată într-un defileu dramatic la marginea podișului Adrar. Izvoare termale naturale alimentează bazine mici în mijlocul palcurilor de palmieri, între pereți stâncoși abrupți. Este considerată una dintre cele mai frumoase oaze ale țării.",
+      en: "Terjit Oasis is nestled within a dramatic gorge on the edge of the Adrar Plateau. Natural thermal springs feed small pools amidst dense palm groves between steep rock walls. It is considered one of the most beautiful oases in the country.",
+    },
+    factsAdvanced: {
+      de: ["Liegt 45 km südlich von Atar", "Verfügt über warme Quellen", "Wichtiger Ort für Hochzeiten", "Bietet Schutz vor der Hitze", "Bäche fließen aus den Felsen", "Beliebtes Touristenziel"],
+      hu: ["Atartól 45 km-re délre fekszik", "Meleg vizű forrásokkal rendelkezik", "Hagyományos esküvői helyszín", "Enyhet ad a sivatagi hőségben", "Patakok folynak ki a sziklákból", "Népszerű turisztikai célpont"],
+      ro: ["Situată la 45 km sud de Atar", "Dispune de izvoare calde", "Loc tradițional pentru nunți", "Oferă refugiu împotriva căldurii", "Pârâuri care curg din stâncă", "Destinație turistică populară"],
+      en: ["Located 45 km south of Atar", "Features warm natural springs", "Traditional site for weddings", "Provides relief from desert heat", "Streams flow directly from rocks", "Popular tourist destination"],
+    },
   },
   {
     id: "mauritania-cap-tafarit-nature-v2",
@@ -152,6 +236,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Dunes meet the ocean", "Important breeding site for seabirds", "Sandy coastal landscape", "Influenced by the Canary Current"],
     },
     imageHint: "Cap Tafarit coastal sand dunes",
+    descriptionAdvanced: {
+      de: "Cap Tafarit ist eine markante Landzunge an der Atlantikküste innerhalb des Banc d'Arguin Nationalparks. Hier treffen gelbe Wüstendünen direkt auf das azurblaue Meer und bilden spektakuläre Felsklippen. Es ist ein wichtiger Beobachtungspunkt für Zugvögel.",
+      hu: "A Cap Tafarit egy jellegzetes földnyelv az Atlanti-óceán partján, a Banc d'Arguin Nemzeti Park területén. Itt a sárga sivatagi dűnék közvetlenül találkoznak az azúrkék tengerrel, látványos sziklákat alkotva. Fontos megfigyelőhely a költöző madarak számára.",
+      ro: "Cap Tafarit este un promontoriu maritim pe coasta Atlanticului, în Parcul Național Banc d'Arguin. Aici, dunele galbene de deșert întâlnesc marea azurie, formând faleze spectaculoase. Este un punct important pentru observarea păsărilor migratoare.",
+      en: "Cap Tafarit is a prominent headland on the Atlantic coast within the Banc d'Arguin National Park. Here, yellow desert dunes meet the azure sea directly, forming spectacular rocky cliffs. It is a key observation point for migratory birds.",
+    },
+    factsAdvanced: {
+      de: ["Teil des Banc d'Arguin Parks", "Bekannt für Fossilienfunde", "Ideal zum Angeln und Campen", "Heimat vieler Seevögel", "Sandsteinfelsen am Ozean", "UNESCO-geschützte Region"],
+      hu: ["A Banc d'Arguin Park része", "Fosszília-leleteiről ismert", "Ideális horgászathoz és kempingezéshez", "Számos tengeri madár otthona", "Homokkő sziklák az óceánnál", "UNESCO által védett terület"],
+      ro: ["Parte din Parcul Banc d'Arguin", "Cunoscut pentru fosile", "Ideal pentru pescuit și camping", "Adăpostește numeroase păsări marine", "Faleze de gresie la ocean", "Regiune protejată de UNESCO"],
+      en: ["Part of Banc d'Arguin Park", "Known for fossil discoveries", "Ideal for fishing and camping", "Home to many seabirds", "Sandstone cliffs at the ocean", "UNESCO-protected region"],
+    },
   },
   {
     id: "mauritania-ouane-lake-nature-v2",
@@ -171,6 +267,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Endorheic basin", "Seasonally fluctuating water level", "Important water source for livestock", "Sandy substrate"],
     },
     imageHint: "Lake Ouane temporary water Mauritania",
+    descriptionAdvanced: {
+      de: "Der Ouane-See ist ein ephemeres Gewässer in der Zentralsahara Mauretaniens. Diese Art von See füllt sich nur nach seltenen, heftigen Regenfällen und trocknet dann zu einer Sebkha (Salzpfanne) aus. Er liegt in einer abgelegenen, weitgehend unbewohnten Wüstenregion.",
+      hu: "Az Ouane-tó egy időszakos állóvíz Mauritánia központi Szahara-vidékén. Ez a típusú tó csak ritka, heves esőzések után telik meg, majd sós síksággá (szebka) szárad. Egy távoli, nagyrészt lakatlan sivatagi régióban található.",
+      ro: "Lacul Ouane este o întindere de apă efemeră din Sahara centrală a Mauritaniei. Acest tip de lac se umple doar după ploi rare și torențiale, secând apoi sub formă de sebkha (pajiște sărată). Se află într-o regiune deșertică izolată și nelocuită.",
+      en: "Lake Ouane is an ephemeral water body in the central Saharan region of Mauritania. This type of lake fills only after rare, heavy rainfall and subsequently dries into a sebkha (salt flat). It is located in a remote, largely uninhabited desert area.",
+    },
+    factsAdvanced: {
+      de: ["Temporäres Wüstengewässer", "Verwandelt sich in Salzpfanne", "Sehr isolierte Lage", "Wichtig für die Hydrologie", "Salzkrusten bilden sich beim Austrocknen", "Kaum Vegetation vorhanden"],
+      hu: ["Időszakos sivatagi vízfelület", "Sós síksággá alakul át", "Nagyon elszigetelt elhelyezkedés", "Fontos a hidrológiai kutatásokhoz", "Kiszáradáskor sókéreg képződik", "Alig található körülötte növényzet"],
+      ro: ["Lac temporar de deșert", "Se transformă în câmpie sărată", "Locație extrem de izolată", "Important pentru hidrologie", "Se formează cruste de sare la secare", "Vegetație aproape inexistentă"],
+      en: ["Temporary desert water body", "Transforms into a salt flat", "Extremely isolated location", "Important for hydrology studies", "Salt crusts form during drying", "Very little vegetation around it"],
+    },
   },
   {
     id: "mauritania-idjil-mountain-nature-v2",
@@ -190,6 +298,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Highest point in Mauritania", "Summit at 915 m", "Composed of Precambrian quartzites", "Colorfully distinctive rock formations"],
     },
     imageHint: "Kedia d'Idjil mountain ridge",
+    descriptionAdvanced: {
+      de: "Die Kedia d'Idjil ist mit 915 Metern der höchste Berg Mauretaniens und liegt nahe Zouérat. Das Massiv besteht fast vollständig aus hochwertigem Eisenerz, was es magnetisch macht. Der Bergbau in dieser Region ist das wirtschaftliche Rückgrat des Landes.",
+      hu: "A Kedia d'Idjil Mauritánia legmagasabb pontja a maga 915 méteres magasságával, Zouérat közelében. A hegytömb szinte teljesen kiváló minőségű vasércből áll, ami mágnesessé teszi. A térség bányászata az ország gazdaságának gerincét adja.",
+      ro: "Kedia d'Idjil este cel mai înalt munte din Mauritania, atingând 915 metri, situat lângă Zouérat. Masivul este compus aproape în întregime din minereu de fier de înaltă calitate, fiind magnetic. Mineritul din această regiune este baza economiei naționale.",
+      en: "Kedia d'Idjil is the highest mountain in Mauritania, reaching 915 meters, located near Zouérat. The massif consists almost entirely of high-grade iron ore, making it magnetic. Mining in this region forms the economic backbone of the country.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt Mauretaniens (915m)", "Besteht aus Magnetitgestein", "Nahe der Stadt Zouérat", "Stört die Kompassnadeln", "Wichtigstes Eisenerzrevier", "Startpunkt des Wüstenzugs"],
+      hu: ["Mauritánia legmagasabb pontja (915m)", "Magnetit kőzetből áll", "Zouérat városa mellett található", "Zavarja az iránytűket", "Legfontosabb vasérclelőhely", "A sivatagi vonat kiindulópontja"],
+      ro: ["Cel mai înalt vârf (915m)", "Format din rocă magnetită", "Lângă orașul Zouérat", "Perturbă acele busolelor", "Principala zonă de minereu de fier", "Punct de plecare pentru trenul deșertului"],
+      en: ["Highest point in Mauritania (915m)", "Composed of magnetite rock", "Near the town of Zouérat", "Disturbs magnetic compasses", "Primary iron ore deposit", "Starting point of the desert train"],
+    },
   },
   {
     id: "mauritania-oued-el-abiadh-nature-v2",
@@ -209,6 +329,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Dry riverbed (wadi)", "Follows tectonic lines", "Seasonal runoff during rain", "Important habitat for plants"],
     },
     imageHint: "Oued el Abiadh dry riverbed",
+    descriptionAdvanced: {
+      de: "Das Oued el Abiadh, auch als 'Weißes Tal' bekannt, ist ein beeindruckendes Trockental in der Region Adrar. Es ist berühmt für seine gewaltigen, hellen Sanddünen des Erg Amatlich, die gegen dunkle Gebirgsketten branden. Das Tal bietet spektakuläre Kontraste.",
+      hu: "Az Oued el Abiadh, más néven a 'Fehér-völgy', egy lenyűgöző száraz völgy az Adrar régióban. Híres az Erg Amatlich hatalmas, világos homokdűnéiről, amelyek a sötét hegyláncoknak feszülnek. A völgy látványos vizuális kontrasztokat kínál.",
+      ro: "Oued el Abiadh, cunoscut sub numele de 'Valea Albă', este o vale uscată impresionantă din regiunea Adrar. Este celebră pentru dunele uriașe și deschise la culoare ale Erg Amatlich, care se sprijină de lanțuri muntoase întunecate. Valea oferă contraste spectaculoase.",
+      en: "Oued el Abiadh, also known as the 'White Valley,' is a stunning dry valley in the Adrar region. It is famous for the massive, light-colored sand dunes of Erg Amatlich that clash against dark mountain ranges. The valley offers spectacular visual contrasts.",
+    },
+    factsAdvanced: {
+      de: ["Name bedeutet 'Weißes Tal'", "Teil des Erg Amatlich", "Bekannt für hohe Sanddünen", "Beliebt für Wüstentrekks", "Liegt in der Region Adrar", "Enthält saisonale Weideflächen"],
+      hu: ["Neve 'Fehér-völgyet' jelent", "Az Erg Amatlich része", "Hatalmas homokdűnéiről ismert", "Népszerű túraútvonal", "Az Adrar régióban található", "Időszakos legelőket tartalmaz"],
+      ro: ["Numele înseamnă 'Valea Albă'", "Parte din Erg Amatlich", "Cunoscută pentru dune înalte", "Populară pentru trekking", "Situată în regiunea Adrar", "Conține pășuni sezoniere"],
+      en: ["Name means 'White Valley'", "Part of the Erg Amatlich", "Known for high sand dunes", "Popular for desert trekking", "Located in the Adrar region", "Contains seasonal pastures"],
+    },
   },
   {
     id: "mauritania-erg-ouarane-nature-v2",
@@ -228,6 +360,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Largely uninhabited", "Part of the greater Sahara landscapes", "Dynamic dune movements", "Extreme temperature fluctuations"],
     },
     imageHint: "Erg Ouarane sand landscape",
+    descriptionAdvanced: {
+      de: "Der Erg Ouarane ist ein riesiges Dünenmeer im Zentrum Mauretaniens, das sich zwischen den historischen Städten Chinguetti und Ouadane erstreckt. Er besteht aus endlosen Reihen von Barkhanen (Sicheldünen) und Längsdünen. Dieses Gebiet ist der Inbegriff der Sahara.",
+      hu: "Az Erg Ouarane egy hatalmas homoktenger Mauritánia középső részén, amely Chinguetti és Ouadane történelmi városai között húzódik. Végtelen sorokban sorakozó barkánokból (kifli alakú dűnék) és hosszanti dűnékből áll. Ez a terület a Szahara igazi jelképe.",
+      ro: "Erg Ouarane este o mare de dune vastă din centrul Mauritaniei, care se întinde între orașele istorice Chinguetti și Ouadane. Constă în rânduri nesfârșite de barcane și dune longitudinale. Această zonă este chintesența deșertului Sahara.",
+      en: "Erg Ouarane is a vast sea of dunes in central Mauritania, stretching between the historic cities of Chinguetti and Ouadane. It consists of endless rows of barchans (crescent dunes) and longitudinal dunes. This area is the epitome of the Sahara desert.",
+    },
+    factsAdvanced: {
+      de: ["Großes Sanddünengebiet", "Erstreckt sich über Hunderte Kilometer", "Verbindet Chinguetti und Ouadane", "Besteht aus feinem Quarzsand", "Ständige Veränderung durch Wind", "Erschwert das Reisen"],
+      hu: ["Hatalmas homokdűnés terület", "Több száz kilométeren át nyúlik", "Összeköti Chinguettit és Ouadane-t", "Finom kvarchomokból áll", "A szél folyamatosan alakítja", "Megnehezíti az utazást"],
+      ro: ["Zonă vastă de dune de nisip", "Se întinde pe sute de kilometri", "Leagă Chinguetti de Ouadane", "Format din nisip cuarțos fin", "Schimbare constantă datorită vântului", "Îngreunează deplasarea"],
+      en: ["Large sand dune field", "Stretches for hundreds of kilometers", "Connects Chinguetti and Ouadane", "Composed of fine quartz sand", "Constantly reshaped by wind", "Makes travel difficult"],
+    },
   },
   {
     id: "mauritania-dhar-chinguetti-nature-v2",
@@ -247,6 +391,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Sandstone cliffs", "Height approx. 300 m above plain", "Natural windbreak", "Geologically part of the Adrar complex"],
     },
     imageHint: "Dhar Chinguetti rock formation",
+    descriptionAdvanced: {
+      de: "Der Dhar Chinguetti ist ein Sandsteinplateau in der Region Adrar, das die gleichnamige heilige Stadt überragt. Er bildet eine natürliche Barriere gegen den Erg Ouarane. Das Plateau ist reich an prähistorischen Felsgravuren und archäologischen Überresten.",
+      hu: "A Dhar Chinguetti egy homokkő fennsík az Adrar régióban, amely az azonos nevű szent város fölé magasodik. Természetes gátat képez az Erg Ouarane dűnéivel szemben. A fennsík gazdag őskori sziklarajzokban és régészeti emlékekben.",
+      ro: "Dhar Chinguetti este un podiș de gresie din regiunea Adrar, care domină orașul sfânt cu același nume. Formează o barieră naturală împotriva dunelor din Erg Ouarane. Podișul este bogat în gravuri rupestre preistorice și vestigii arheologice.",
+      en: "Dhar Chinguetti is a sandstone plateau in the Adrar region that overlooks the sacred city of the same name. It forms a natural barrier against the encroaching dunes of Erg Ouarane. The plateau is rich in prehistoric rock engravings and archaeological remains.",
+    },
+    factsAdvanced: {
+      de: ["Sandsteinplateau im Adrar", "Schützt die Stadt Chinguetti", "Standort prähistorischer Kunst", "Teil des UNESCO-Umfelds", "Steile Klippenformationen", "Blick auf das Dünenmeer"],
+      hu: ["Homokkő fennsík az Adrarban", "Védi Chinguetti városát", "Őskori művészeti leletek helyszíne", "Az UNESCO-környezet része", "Meredek sziklafalak jellemzik", "Kilátás nyílik a dűnetengerre"],
+      ro: ["Podiș de gresie în Adrar", "Protejează orașul Chinguetti", "Situl unor arte preistorice", "Parte din mediul UNESCO", "Formațiuni de faleze abrupte", "Vedere spre marea de dune"],
+      en: ["Sandstone plateau in Adrar", "Protects the city of Chinguetti", "Site of prehistoric rock art", "Part of the UNESCO buffer zone", "Steep cliff formations", "Overlooks the sea of dunes"],
+    },
   },
   {
     id: "mauritania-sebkha-el-driaya-nature-v2",
@@ -266,6 +422,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Salt crust on surface", "Seasonally occasionally flooded", "Mineral-rich soils", "No permanent vegetation"],
     },
     imageHint: "Sebkha salt pan desert",
+    descriptionAdvanced: {
+      de: "Die Sebkha el Driaya ist eine ausgedehnte Salzpfanne im Norden Mauretaniens, nahe der Grenze zur Westsahara. Solche Senken entstehen durch die Verdunstung von Oberflächenwasser in abflusslosen Becken. Sie sind durch eine harte, weiße Salzkruste gekennzeichnet.",
+      hu: "A Sebkha el Driaya egy kiterjedt sós síkság Mauritánia északi részén, a Nyugat-Szahara határa közelében. Az ilyen mélyedések a felszíni víz elpárolgásával jönnek létre lefolyástalan medencékben. Kemény, fehér sókéreg jellemzi a felszínét.",
+      ro: "Sebkha el Driaya este o câmpie sărată vastă din nordul Mauritaniei, lângă granița cu Sahara Occidentală. Astfel de depresiuni se formează prin evaporarea apei de suprafață în bazine endoreice. Sunt caracterizate de o crustă de sare albă și dură.",
+      en: "Sebkha el Driaya is an extensive salt flat in northern Mauritania, near the border with Western Sahara. Such depressions form through the evaporation of surface water in endorheic basins. They are characterized by a hard, white salt crust.",
+    },
+    factsAdvanced: {
+      de: ["Große Salzpfanne (Sebkha)", "Liegt in Tiris Zemmour", "Harte Salzkrustenoberfläche", "Entsteht durch Verdunstung", "Vegetationslose Einöde", "Geologisch als Becken geformt"],
+      hu: ["Nagy sós síkság (szebka)", "Tiris Zemmour régióban fekszik", "Kemény sókéreg borítja", "Párolgás útján jön létre", "Növényzet nélküli pusztaság", "Geológiai medence szerkezetű"],
+      ro: ["Câmpie sărată mare (sebkha)", "Situată în Tiris Zemmour", "Suprafață cu crustă de sare dură", "Formată prin evaporare", "Pustiul fără vegetație", "Structură geologică de bazin"],
+      en: ["Large salt flat (sebkha)", "Located in Tiris Zemmour", "Hard salt crust surface", "Formed by evaporation", "Vegetation-free wasteland", "Geological basin structure"],
+    },
   },
   {
     id: "mauritania-oued-el-abiod-valley-nature-v2",
@@ -285,6 +453,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Tributary to Erg Ouarane", "Traditional oasis agriculture", "Geologically old erosion", "Protection against sandstorms by walls"],
     },
     imageHint: "Oued el Abiod oasis valley",
+    descriptionAdvanced: {
+      de: "Das Oued el Abiod Tal ist ein markantes geografisches Merkmal im Adrar-Massiv. Es windet sich durch schroffe Felsformationen und bietet während der Regenzeit gelegentlich grüne Weideflächen. Es ist eine wichtige Route für Reisende durch das Gebirge.",
+      hu: "Az Oued el Abiod völgy az Adrar-masszívum jellegzetes földrajzi képződménye. Zordon sziklaalakzatok között kanyarog, és az esős évszakban alkalmanként zöld legelőket kínál. Fontos útvonal a hegységen áthaladó utazók számára.",
+      ro: "Valea Oued el Abiod este o caracteristică geografică proeminentă din masivul Adrar. Șerpuiește printre formațiuni stâncoase abrupte și oferă ocazional pășuni verzi în timpul sezonului ploios. Este o rută importantă pentru călătorii prin munți.",
+      en: "The Oued el Abiod Valley is a prominent geographical feature in the Adrar massif. It winds through rugged rock formations and occasionally offers green pastures during the rainy season. It serves as an important route for travelers through the mountains.",
+    },
+    factsAdvanced: {
+      de: ["Trockental im Adrar-Massiv", "Saisonale Wasserführung", "Bedeutende Karawanenroute", "Umgeben von Sandsteinfelsen", "Unterstützt nomadisches Leben", "Höhenlage variiert"],
+      hu: ["Száraz völgy az Adrar-hegységben", "Időszakos vízfolyások jellemzik", "Jelentős karavánútvonal", "Homokkő sziklák veszik körül", "Támogatja a nomád életmódot", "Változó tengerszint feletti magasság"],
+      ro: ["Vale uscată în masivul Adrar", "Debit de apă sezonier", "Rută importantă pentru caravane", "Înconjurată de stânci de gresie", "Susține viața nomadă", "Altitudine variabilă"],
+      en: ["Dry valley in the Adrar massif", "Seasonal water flow", "Significant caravan route", "Surrounded by sandstone rocks", "Supports nomadic lifestyle", "Variable elevation"],
+    },
   },
   {
     id: "mauritania-tidjikja-gorge-nature-v2",
@@ -304,6 +484,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Sandstone rock walls", "Periodic water flow", "Cool microclimates at gorge floor", "Geological stratifications visible"],
     },
     imageHint: "Tidjikja gorge landscape",
+    descriptionAdvanced: {
+      de: "Die Tidjikja-Schlucht liegt im Tagant-Plateau und beherbergt eine bedeutende Oasenstadt. Das Tal ist bekannt für seine tausenden Dattelpalmen und die traditionelle Architektur aus lokalem Stein. Die Schlucht bietet ein Mikroklima, das Landwirtschaft ermöglicht.",
+      hu: "A Tidjikja-szurdok a Tagant-fennsíkon található, és egy jelentős oázisvárosnak ad otthont. A völgy híres több ezer datolyapálmájáról és a helyi kőből készült hagyományos építészetéről. A szurdok mikroklímája lehetővé teszi a mezőgazdasági termelést.",
+      ro: "Defileul Tidjikja se află în podișul Tagant și găzduiește un important oraș-oază. Valea este cunoscută pentru mii de curmali și arhitectura tradițională din piatră locală. Defileul oferă un microclimat care permite agricultura.",
+      en: "The Tidjikja Gorge is located in the Tagant Plateau and hosts a significant oasis town. The valley is famous for its thousands of date palms and traditional architecture made of local stone. The gorge provides a microclimate that enables agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1680", "Zentrum der Dattelproduktion", "Liegt im Tagant-Plateau", "Bekannt für Steinarchitektur", "Wichtiges religiöses Zentrum", "Verfügt über antike Bibliotheken"],
+      hu: ["1680-ban alapították", "A datolyatermelés központja", "A Tagant-fennsíkon fekszik", "Kőépítészetéről ismert", "Fontos vallási központ", "Ősi könyvtárakkal rendelkezik"],
+      ro: ["Fondat în anul 1680", "Centru de producție a curmalelor", "Situat în podișul Tagant", "Cunoscut pentru arhitectura în piatră", "Centru religios important", "Deține biblioteci antice"],
+      en: ["Founded in the year 1680", "Center for date production", "Located in the Tagant Plateau", "Known for stone architecture", "Important religious center", "Home to ancient libraries"],
+    },
   },
   {
     id: "mauritania-oued-oualata-nature-v2",
@@ -323,6 +515,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Infiltrates into sand desert", "Supports acacia population", "Important drinking water reservoir during rain", "Seasonal habitat"],
     },
     imageHint: "Oued Oualata dry river valley",
+    descriptionAdvanced: {
+      de: "Das Oued Oualata ist ein historisches Tal in der Nähe der UNESCO-Weltkulturerbestadt Oualata im Südosten. Es war einst ein blühendes Handelszentrum an der Trans-Sahara-Route. Die Region ist bekannt für ihre einzigartige, farbenfroh verzierte Lehmarchitektur.",
+      hu: "Az Oued Oualata egy történelmi völgy a délkeleti Oualata közelében, amely az UNESCO Világörökség része. Egykor a transz-szaharai kereskedelmi útvonal virágzó központja volt. A régió egyedülálló, színesen díszített vályogépítészetéről ismert.",
+      ro: "Oued Oualata este o vale istorică lângă orașul Oualata, inclus în Patrimoniul UNESCO, în sud-est. A fost odată un centru comercial înfloritor pe ruta trans-sahariană. Regiunea este cunoscută pentru arhitectura sa unică din chirpici decorat colorat.",
+      en: "Oued Oualata is a historic valley near the UNESCO World Heritage city of Oualata in the southeast. It was once a thriving trade center on the trans-Saharan route. The region is known for its unique, colorfully decorated mud-brick architecture.",
+    },
+    factsAdvanced: {
+      de: ["Nahe der UNESCO-Stadt Oualata", "Historischer Handelsknotenpunkt", "Bekannt für Wandmalereien", "Liegt in Hodh Ech Chargui", "Teil der Dhar Oualata Klippen", "Wurde im 11. Jh. bedeutend"],
+      hu: ["Oualata UNESCO-város közelében", "Történelmi kereskedelmi csomópont", "Falfestményeiről ismert", "Hodh Ech Chargui régióban van", "A Dhar Oualata sziklák része", "A 11. században vált jelentőssé"],
+      ro: ["Lângă orașul UNESCO Oualata", "Nod comercial istoric", "Cunoscut pentru picturi murale", "Situat în Hodh Ech Chargui", "Parte din falezele Dhar Oualata", "A devenit important în sec. XI"],
+      en: ["Near the UNESCO city of Oualata", "Historic trading hub", "Known for wall paintings", "Located in Hodh Ech Chargui", "Part of the Dhar Oualata cliffs", "Became prominent in the 11th century"],
+    },
   },
   {
     id: "mauritania-dune-de-azefal-nature-v2",
@@ -342,6 +546,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Part of coastal sand dunes", "Height over 50 m", "Constant shape change", "Wind-protected zones at base"],
     },
     imageHint: "Azefal dune landscape",
+    descriptionAdvanced: {
+      de: "Die Azefal-Düne ist eine bedeutende Längssandformation in der Adrar-Region im Zentrum Mauretaniens. Sie ist Teil der weitläufigen Sahara-Landschaft und prägt das lokale Ökosystem durch ihre Wanderbewegung. Die Region ist durch extreme Temperaturschwankungen und spärliche Vegetation gekennzeichnet. Diese Dünen sind wichtige Orientierungspunkte für nomadische Stämme und moderne Expeditionen.",
+      hu: "Az Azefal-dűne egy jelentős hosszanti homokképződmény Mauritánia központi részén, az Adrar-régióban. A Szahara hatalmas dűnerendszerének része, amely folyamatosan változtatja alakját a szélirány függvényében. A területre jellemzőek a szélsőséges hőmérsékleti ingadozások és a ritka növényzet. A dűnék fontos tájékozódási pontként szolgálnak a nomád törzsek és a sivatagi utazók számára.",
+      ro: "Duna Azefal este o formațiune de nisip longitudinală importantă situată în regiunea Adrar din centrul Mauritaniei. Face parte din vastul peisaj saharian și modelează ecosistemul local prin mișcarea sa continuă. Regiunea este caracterizată de fluctuații extreme de temperatură și vegetație rară. Aceste dune reprezintă repere esențiale pentru triburile nomade și expedițiile moderne.",
+      en: "The Azefal Dune is a significant longitudinal sand formation located in the Adrar region of central Mauritania. It forms part of the vast Saharan landscape and plays a crucial role in the local ecosystem through its shifting movement. The area is characterized by extreme temperature fluctuations and sparse vegetation. These dunes serve as vital landmarks for nomadic tribes and modern desert expeditions.",
+    },
+    factsAdvanced: {
+      de: ["Liegt in der strategischen Adrar-Hochebene", "Teil des größeren Sahara-Wüstensystems", "Dünenhöhen erreichen oft 50 bis 100 Meter", "Vorherrschende Nordostwinde formen die Struktur", "Wichtiger Korridor für historische Karawanenwege", "Beherbergt spezialisierte xerophytische Pflanzenarten"],
+      hu: ["Az Adrar-fennsík stratégiai területén található", "A kiterjedt Szahara-sivatag rendszerének része", "A dűnék magassága elérheti az 50-100 métert", "Az uralkodó északkeleti szelek alakítják a formáját", "Történelmi karavánutak fontos folyosója volt", "Speciális szárazságtűrő növényfajoknak ad otthont"],
+      ro: ["Situată în regiunea strategică a platoului Adrar", "Parte a sistemului extins al deșertului Sahara", "Înălțimea dunelor poate atinge 50-100 de metri", "Vânturile predominante din nord-est modelează forma", "Coridor important pentru rutele istorice ale caravanelor", "Adăpostește specii de plante xerofite specializate"],
+      en: ["Located in the strategic Adrar Plateau region", "Part of the extensive Sahara Desert system", "Dune heights often reach between 50 and 100 meters", "Prevailing northeast winds shape the formation", "Important corridor for historical caravan routes", "Supports specialized xerophytic plant species"],
+    },
   },
   {
     id: "mauritania-oued-chegga-nature-v2",
@@ -361,6 +577,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Extremely sparse vegetation", "Sandy substrate", "Seasonally flowing after rare showers", "Follows old tectonic disturbances"],
     },
     imageHint: "Oued Chegga desert landscape",
+    descriptionAdvanced: {
+      de: "Oued Chegga ist ein trockenes Flusstal im äußersten Nordosten Mauretaniens, nahe der Grenze zu Algerien. Es dient als wichtiger Stützpunkt in einer der abgelegensten Regionen der Sahara. Das Tal ist bekannt für seine strategische Lage an alten Handelswegen und militärischen Außenposten. Trotz der Trockenheit gibt es hier unterirdische Wasservorkommen, die das Überleben ermöglichen.",
+      hu: "Az Oued Chegga egy kiszáradt folyóvölgy Mauritánia északkeleti csücskében, az algériai határ közelében. Ez a terület a Szahara egyik legtávolabbi és legelhagyatottabb régiójának fontos támaszpontja. A völgy stratégiai helyzetéről nevezetes, mivel ősi kereskedelmi utak és katonai posztok mentén fekszik. A szárazság ellenére a föld alatti vízkészletek lehetővé teszik az életben maradást.",
+      ro: "Oued Chegga este o vale de râu secată situată în extremitatea de nord-est a Mauritaniei, lângă granița cu Algeria. Servește ca punct de sprijin crucial într-una dintre cele mai izolate regiuni ale Saharei. Valea este cunoscută pentru locația sa strategică de-a lungul vechilor rute comerciale și avanposturilor militare. În ciuda aridității, resursele de apă subterane permit supraviețuirea în zonă.",
+      en: "Oued Chegga is a dry river valley located in the far northeast of Mauritania, near the border with Algeria. It serves as an essential outpost in one of the most remote regions of the Sahara Desert. The valley is noted for its strategic position along ancient trade routes and military outposts. Despite its aridity, underground water resources facilitate survival in this harsh environment.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Tiris Zemmour Distrikt", "Nahe dem Dreiländereck Mauretanien, Mali und Algerien", "Höhe über dem Meeresspiegel beträgt etwa 400 Meter", "Einstiger wichtiger Halt für die Salzkarawanen", "Beherbergt eine abgelegene Militärbasis der Armee", "Jährlicher Niederschlag liegt oft unter 20 mm"],
+      hu: ["A Tiris Zemmour körzetben található", "Mauritánia, Mali és Algéria hármashatárának közelében", "Tengerszint feletti magassága körülbelül 400 méter", "Egykor a sókaravánok fontos megállóhelye volt", "A hadsereg egyik távoli katonai bázisának ad otthont", "Az éves csapadékmennyiség gyakran 20 mm alatt marad"],
+      ro: ["Situat în districtul Tiris Zemmour", "Aproape de granița triplă dintre Mauritania, Mali și Algeria", "Altitudinea deasupra nivelului mării este de circa 400 m", "Fost punct de oprire important pentru caravanele de sare", "Găzduiește o bază militară izolată a armatei", "Precipitațiile anuale sunt adesea sub 20 mm"],
+      en: ["Located within the Tiris Zemmour District", "Near the tripoint of Mauritania, Mali, and Algeria", "Elevation is approximately 400 meters above sea level", "Former key stop for trans-Saharan salt caravans", "Home to a remote military outpost of the army", "Annual rainfall often remains below 20 mm"],
+    },
   },
   {
     id: "mauritania-erg-in-chich-nature-v2",
@@ -380,6 +608,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["High barchan dunes", "Aouker region desert", "Very dry conditions", "Landscape without infrastructure"],
     },
     imageHint: "Erg In-Chich barchan dunes",
+    descriptionAdvanced: {
+      de: "Der Erg In-Chich ist ein ausgedehntes Sandmeer, das sich über die Grenze zwischen Mauretanien und Algerien erstreckt. Er besteht aus massiven Dünenkomplexen, die eine fast unpassierbare Barriere in der nördlichen Sahara bilden. Die Landschaft ist geprägt von ständigen Veränderungen durch den Wind und extremer Trockenheit. Diese Region gehört zu den am wenigsten erforschten Gebieten des afrikanischen Kontinents.",
+      hu: "Az Erg In-Chich egy kiterjedt homoktenger, amely Mauritánia és Algéria határán húzódik keresztül. Hatalmas dűnekomplexumokból áll, amelyek szinte áthatolhatatlan akadályt képeznek a Szahara északi részén. A tájat a szél általi folyamatos változás és a rendkívüli szárazság jellemzi. Ez a régió az afrikai kontinens egyik legkevésbé feltárt területei közé tartozik.",
+      ro: "Erg In-Chich este un câmp de dune vast care se întinde peste granița dintre Mauritania și Algeria. Acesta constă în complexe masive de dune care formează o barieră aproape impenetrabilă în nordul Saharei. Peisajul este definit de schimbări constante cauzate de vânt și de o ariditate extremă. Această regiune se numără printre cele mai puțin explorate zone ale continentului african.",
+      en: "Erg In-Chich is an extensive sand sea stretching across the border between Mauritania and Algeria. It consists of massive dune complexes that form an almost impassable barrier in the northern Sahara. The landscape is defined by constant wind-driven changes and extreme aridity. This region remains one of the least explored and most desolate areas on the African continent.",
+    },
+    factsAdvanced: {
+      de: ["Umfasst eine Fläche von mehreren tausend km²", "Dünen können Höhen von über 150 Metern erreichen", "Gilt als lebensfeindliche Hyper-Arid-Zone", "Wichtiges Forschungsgebiet für äolische Geomorphologie", "Teil der großen westlichen Sahara-Becken", "Nahezu keine permanente menschliche Besiedlung"],
+      hu: ["Több ezer négyzetkilométernyi területet fed le", "A dűnék magassága meghaladhatja a 150 métert", "Életellenes, hiper-arid zónaként tartják számon", "A szélfelszínalaktani kutatások fontos helyszíne", "A nagy nyugat-szaharai medencék része", "Szinte teljesen hiányzik az állandó emberi település"],
+      ro: ["Acoperă o suprafață de câteva mii de km²", "Dunele pot atinge înălțimi de peste 150 de metri", "Considerată o zonă hiper-aridă ostilă vieții", "Zonă importantă de cercetare pentru geomorfologia eoliană", "Parte a marilor bazine vestice ale Saharei", "Aproape nicio așezare umană permanentă în zonă"],
+      en: ["Covers an area of several thousand square kilometers", "Dunes can reach heights exceeding 150 meters", "Classified as a hyper-arid zone hostile to life", "Important area for studying aeolian geomorphology", "Part of the major western Saharan basins", "Contains almost no permanent human settlements"],
+    },
   },
   {
     id: "mauritania-tagant-gorge-nature-v2",
@@ -399,6 +639,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Steep rock walls", "Seasonal pools", "Protection against intense solar radiation", "Migration route for wildlife"],
     },
     imageHint: "Tagant gorge rocky canyon",
+    descriptionAdvanced: {
+      de: "Die Tagant-Schlucht durchschneidet das gleichnamige Plateau in Zentralmauretanien und bietet eine dramatische Kulisse aus steilen Felswänden. Diese geologische Formation ist für den Erhalt von Wasserstellen, sogenannten Gueltas, von entscheidender Bedeutung. Inmitten der Wüste bilden diese Schluchten mikro-ökologische Nischen, die das Überleben seltener Tierarten ermöglichen. Historisch boten die Schluchten Schutz für Karawanen und Siedlungen.",
+      hu: "A Tagant-szurdok a közép-mauritániai Tagant-fennsíkot szeli át, drámai látványt nyújtva meredek sziklafalaival. Ez a geológiai képződmény döntő fontosságú a vízvételi helyek, az úgynevezett guelták megőrzésében. A sivatag közepén ezek a szurdokok olyan mikroökológiai fülkéket alkotnak, amelyek lehetővé teszik ritka állatfajok túlélését. Történelmileg a szurdokok védelmet nyújtottak a karavánoknak és településeknek.",
+      ro: "Cheile Tagant străbat platoul cu același nume din centrul Mauritaniei, oferind un decor dramatic cu pereți stâncoși abrupți. Această formațiune geologică este crucială pentru menținerea punctelor de apă, cunoscute sub numele de gueltas. În mijlocul deșertului, aceste chei formează nișe micro-ecologice care permit supraviețuirea speciilor rare. Din punct de vedere istoric, cheile au oferit adăpost caravanelor și așezărilor.",
+      en: "The Tagant Gorge cuts through the Tagant Plateau in central Mauritania, providing a dramatic backdrop of steep rock walls. This geological formation is crucial for sustaining water holes known as gueltas. In the heart of the desert, these gorges create micro-ecological niches that support the survival of rare wildlife species. Historically, the canyons offered protection and resources for caravans and local settlements.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Sandstein-Plateau von Tagant", "Beherbergt die berühmte Guelta d'Matmata", "Letzter Rückzugsort für Wüstenkrokodile in der Region", "Felsmalereien belegen prähistorische Besiedlung", "Erosionsprozesse formten die Schlucht über Jahrmillionen", "Wichtiger Ort für den lokalen Viehtrieb"],
+      hu: ["A Tagant homokkő-fennsík része", "Itt található a híres Guelta d'Matmata", "A sivatagi krokodilok utolsó menedéke a régióban", "A sziklarajzok őskori lakottságról tanúskodnak", "Az erózió évmilliók alatt formálta ki a szurdokot", "Fontos helyszín a helyi állattartók számára"],
+      ro: ["Face parte din platoul de gresie Tagant", "Găzduiește celebra Guelta d'Matmata", "Ultimul refugiu pentru crocodilii de deșert din regiune", "Picturile rupestre atestă locuirea preistorică", "Procesele de eroziune au format cheile de-a lungul mileniilor", "Loc important pentru transhumanța locală"],
+      en: ["Part of the sandstone Tagant Plateau system", "Home to the famous Guelta d'Matmata", "Last refuge for West African crocodiles in the region", "Rock paintings prove prehistoric human habitation", "Erosion processes shaped the gorge over millions of years", "Critical location for local livestock herding"],
+    },
   },
   {
     id: "mauritania-dhar-oawalata-nature-v2",
@@ -418,6 +670,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Overview of the desert", "Rocky slopes", "Important archaeological sites nearby", "Transition zone to steppe climate"],
     },
     imageHint: "Dhar Oualata rocky ridge",
+    descriptionAdvanced: {
+      de: "Dhar Oualata ist ein markanter Sandsteinbruch oder eine Klippenformation im Südosten Mauretaniens, benannt nach der historischen Stadt Oualata. Diese geologische Stufe ragt über die umliegende Savannenlandschaft hinaus und bildet eine natürliche Grenze. In der Vergangenheit war diese Region ein Zentrum für landwirtschaftliche Gemeinschaften und den Trans-Sahara-Handel. Heute ist sie vor allem für ihre archäologischen Stätten bekannt.",
+      hu: "A Dhar Oualata egy markáns homokkő-lépcső vagy sziklafal Mauritánia délkeleti részén, amely a történelmi Oualata városáról kapta a nevét. Ez a geológiai alakzat kiemelkedik a környező szavannás tájból, természetes határt alkotva. A múltban ez a régió a mezőgazdasági közösségek és a transz-szaharai kereskedelem központja volt. Napjainkban elsősorban régészeti lelőhelyeiről ismert.",
+      ro: "Dhar Oualata este o faleză de gresie proeminentă situată în sud-estul Mauritaniei, numită după orașul istoric Oualata. Această treaptă geologică se ridică deasupra savanei înconjurătoare, formând o barieră naturală. În trecut, această regiune a fost un centru pentru comunitățile agricole și comerțul trans-saharian. Astăzi, este cunoscută în special pentru siturile sale arheologice.",
+      en: "Dhar Oualata is a prominent sandstone escarpment or cliff formation in southeastern Mauritania, named after the historic town of Oualata. This geological step rises above the surrounding savanna landscape, forming a natural boundary. In the past, this region served as a hub for agricultural communities and trans-Saharan trade. Today, it is primarily recognized for its significant archaeological sites.",
+    },
+    factsAdvanced: {
+      de: ["Teil der UNESCO-Weltkulturerbe-Region Oualata", "Besteht hauptsächlich aus Sedimentgestein", "Diente als Verteidigungswall für alte Dörfer", "Fundort zahlreicher neolithischer Werkzeuge", "Bietet einen weiten Blick über das Hodh-Becken", "Wichtiger Orientierungspunkt für Karawanen nach Mali"],
+      hu: ["Az UNESCO Világörökség részét képező Oualata-régió része", "Főként üledékes kőzetekből, homokkőből áll", "Védelmi bástyaként szolgált az ősi falvak számára", "Számos neolitikus eszköz lelőhelye", "Széles kilátást nyújt a Hodh-medencére", "Fontos tájékozódási pont a Maliba tartó karavánoknak"],
+      ro: ["Parte a regiunii Oualata, inclusă în patrimoniul UNESCO", "Compus în principal din roci sedimentare", "A servit ca zid de apărare pentru satele vechi", "Loc de descoperire pentru numeroase unelte neolitice", "Oferă o vedere panoramică asupra bazinului Hodh", "Repere esențial pentru caravanele care se îndreptau spre Mali"],
+      en: ["Part of the UNESCO World Heritage region of Oualata", "Composed mainly of sedimentary sandstone rock", "Served as a defensive rampart for ancient villages", "Site of discovery for numerous Neolithic tools", "Provides extensive views over the Hodh Basin", "Crucial landmark for caravans traveling to Mali"],
+    },
   },
   {
     id: "mauritania-oued-el-mya-nature-v2",
@@ -437,6 +701,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Riverbed with varying width", "Seasonal watercourse after rainfall", "Geologically dynamic", "Very sparsely populated"],
     },
     imageHint: "Oued el Mya dry valley",
+    descriptionAdvanced: {
+      de: "Oued el Mya ist ein saisonal wasserführendes Tal im zentralen Mauretanien, das durch das trockene Adrar-Plateau verläuft. Während der seltenen Regenfälle füllt es sich kurzzeitig mit Wasser und verwandelt die umliegende Wüste in ein grünes Band. Diese Täler sind lebensnotwendig für die Wasserversorgung der Oasen und das Vieh der Nomaden. Die Geomorphologie des Tals zeugt von feuchteren Perioden in der Geschichte der Sahara.",
+      hu: "Az Oued el Mya egy időszakosan vizet szállító völgy Mauritánia középső részén, amely az Adrar-fennsíkon halad keresztül. A ritka esőzések idején rövid időre megtelik vízzel, zöld szalaggá változtatva a környező sivatagot. Ezek a völgyek létfontosságúak az oázisok vízellátása és a nomádok állatállománya számára. A völgy geomorfológiája a Szahara történetének csapadékosabb korszakairól tanúskodik.",
+      ro: "Oued el Mya este o vale cu curs de apă sezonier în centrul Mauritaniei, care traversează platoul arid Adrar. În timpul ploilor rare, se umple temporar cu apă, transformând deșertul înconjurător într-o fâșie verde. Aceste văi sunt vitale pentru alimentarea cu apă a oazelor și pentru vitele nomazilor. Geomorfologia văii depune mărturie despre perioadele mai umede din istoria Saharei.",
+      en: "Oued el Mya is a seasonal river valley in central Mauritania that traverses the arid Adrar Plateau. During infrequent rainfall, it briefly fills with water, transforming the surrounding desert into a temporary green belt. These valleys are essential for replenishing oasis water supplies and supporting nomadic livestock. The valley's geomorphology provides evidence of wetter periods in the Sahara's history.",
+    },
+    factsAdvanced: {
+      de: ["Entwässert Teile des Adrar-Massivs", "Wichtiger Grundwasserleiter für nahegelegene Brunnen", "Führt nur nach heftigen Gewittern oberflächlich Wasser", "Erosion schuf tiefe Kanäle im harten Gestein", "Bevorzugter Standort für Akazienbäume", "Dient als natürliche Route durch unwegsames Gelände"],
+      hu: ["Az Adrar-masszívum egyes részeit csapolja le", "A közeli kutak fontos talajvízforrása", "Csak heves zivatarok után látható benne felszíni víz", "Az erózió mély csatornákat vájt a kemény kőzetbe", "Az akáciafák kedvelt termőhelye", "Természetes útvonalként szolgál a nehéz terepen"],
+      ro: ["Drenează părți ale masivului Adrar", "Sursă importantă de apă subterană pentru puțurile din zonă", "Prezintă apă la suprafață doar după furtuni severe", "Eroziunea a creat canale adânci în roca dură", "Locație preferată pentru arborii de acacia", "Servește ca rută naturală prin terenul accidentat"],
+      en: ["Drains portions of the Adrar Massif", "Key aquifer source for nearby desert wells", "Carries surface water only after heavy thunderstorms", "Erosion has carved deep channels into the hard rock", "Preferred habitat for indigenous acacia trees", "Acts as a natural route through rugged terrain"],
+    },
   },
   {
     id: "mauritania-sebkha-de-tidjikja-nature-v2",
@@ -456,6 +732,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Evaporation basin", "Periodic flooding by rain", "Pure mineral deposition", "Occasional flora at edges"],
     },
     imageHint: "Sebkha Tidjikja salt pan",
+    descriptionAdvanced: {
+      de: "Die Sebkha von Tidjikja ist eine große Salzpfanne oder Senke in der Nähe der gleichnamigen Stadt im Tagant-Plateau. Diese flache Ebene sammelt bei Regenfällen Wasser, das schnell verdunstet und eine weiße Salzkruste hinterlässt. Solche Gebiete sind geologisch interessant und ökologisch spezialisiert. Historisch spielten Sebkhas eine Rolle bei der Gewinnung von Salz, einem wertvollen Handelsgut in der Sahara.",
+      hu: "A Tidjikja-sebkha egy nagy sós síkság vagy mélyedés a hasonló nevű város közelében, a Tagant-fennsíkon. Ez a lapos terület az esőzések idején összegyűjti a vizet, amely gyorsan elpárolog, fehér sókérget hagyva maga után. Az ilyen területek geológiailag érdekesek és ökológiailag speciálisak. Történelmileg a sebkhák fontos szerepet játszottak a só kitermelésében, amely értékes árucikk volt a Szaharában.",
+      ro: "Sebkha de Tidjikja este o depresiune salină mare situată lângă orașul cu același nume, pe platoul Tagant. Această câmpie joasă colectează apa în timpul ploilor, care se evaporă rapid, lăsând în urmă o crustă albă de sare. Astfel de zone sunt interesante din punct de vedere geologic și specializate ecologic. Istoric, aceste sebkha au jucat un rol în extracția sării, o marfă valoroasă în Sahara.",
+      en: "The Sebkha of Tidjikja is a large salt pan or depression located near the town of Tidjikja on the Tagant Plateau. This flat plain collects water during rainfall, which then evaporates quickly to leave a white salt crust. Such areas are geologically significant and support specialized ecosystems. Historically, sebkhas played a vital role in salt production, which was a precious trade commodity in the Sahara.",
+    },
+    factsAdvanced: {
+      de: ["Liegt auf einer Höhe von etwa 400 Metern", "Entstand durch Verdunstung in einer endorheischen Senke", "Wichtiger Ort für den Dattelanbau in den Randgebieten", "Boden ist reich an Natriumchlorid und Gips", "Dient als temporärer Rastplatz für Zugvögel", "Beeinflusst das lokale Mikroklima der Tidjikja-Oase"],
+      hu: ["Körülbelül 400 méteres magasságban található", "Párolgás útján jött létre egy lefolyástalan medencében", "A peremterületeken fontos a datolyatermesztés", "A talaj nátrium-kloridban és gipszben gazdag", "Vándormadarak ideiglenes pihenőhelyéül szolgál", "Befolyásolja a Tidjikja-oázis helyi mikroklímáját"],
+      ro: ["Situată la o altitudine de aproximativ 400 de metri", "Formată prin evaporare într-un bazin endoreic", "Loc important pentru cultivarea curmalilor în zonele limitrofe", "Solul este bogat în clorură de sodiu și gips", "Servește ca loc de popas temporar pentru păsările migratoare", "Influențează microclimatul local al oazei Tidjikja"],
+      en: ["Located at an elevation of approximately 400 meters", "Formed through evaporation in an endorheic basin", "Surrounding areas are critical for date palm cultivation", "Soil is rich in sodium chloride and gypsum deposits", "Acts as a temporary resting spot for migratory birds", "Influences the local microclimate of the Tidjikja oasis"],
+    },
   },
   {
     id: "mauritania-erg-de-la-guelta-nature-v2",
@@ -475,6 +763,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Sand-rock transition zone", "Visible dune stratification", "Important ecological environment", "Little precipitation"],
     },
     imageHint: "Erg de la Guelta dunes near rock",
+    descriptionAdvanced: {
+      de: "Der Erg de la Guelta ist ein kleineres Dünenfeld in Mauretanien, das oft in der Nähe von Wasserstellen (Gueltas) zu finden ist. Die Kombination aus Wanderdünen und permanenten oder saisonalen Wasserlöchern schafft einen starken Kontrast in der Landschaft. Diese Gebiete sind ökologisch wertvoll, da sie Wasser und Vegetation in einer ansonsten extrem trockenen Umgebung bieten. Sie sind bevorzugte Lagerplätze für Nomaden.",
+      hu: "Az Erg de la Guelta egy kisebb dűnemező Mauritániában, amely gyakran vízlelőhelyek (guelták) közelében található. A vándorló homokdűnék és az állandó vagy időszakos víznyerőhelyek kombinációja erős kontrasztot teremt a tájban. Ezek a területek ökológiailag értékesek, mivel vizet és növényzetet kínálnak az egyébként rendkívül száraz környezetben. A nomádok kedvelt táborhelyei.",
+      ro: "Erg de la Guelta este un câmp de dune mai mic din Mauritania, întâlnit adesea în apropierea punctelor de apă (gueltas). Combinația de dune mișcătoare și ochiuri de apă permanente sau sezoniere creează un contrast puternic în peisaj. Aceste zone sunt valoroase din punct de vedere ecologic, oferind apă și vegetație într-un mediu altfel extrem de arid. Sunt locuri de campare preferate pentru nomazi.",
+      en: "Erg de la Guelta is a smaller dune field in Mauritania, typically found in proximity to water holes known as gueltas. The combination of shifting sand dunes and permanent or seasonal water sources creates a stark contrast in the desert landscape. These areas are ecologically significant, providing water and vegetation in an otherwise hyper-arid environment. They are favored camping sites for nomadic groups.",
+    },
+    factsAdvanced: {
+      de: ["Name leitet sich vom arabischen Wort für Wasserloch ab", "Dünen stabilisieren sich oft durch die Feuchtigkeit", "Bietet Lebensraum für Wüstengazellen", "Wichtiger Treffpunkt für den Viehhandel", "Oft Fundstelle von prähistorischen Keramikscherben", "Vegetation besteht meist aus Calotropis procera"],
+      hu: ["A neve az arab 'víznyerőhely' szóból származik", "A dűnéket gyakran stabilizálja a nedvesség", "Életteret biztosít a sivatagi gazelláknak", "Az állatkereskedelem fontos találkozóhelye", "Gyakran találnak itt őskori kerámiatöredékeket", "A növényzet főként Calotropis procera-ból áll"],
+      ro: ["Numele derivă din cuvântul arab pentru punct de apă", "Dunele sunt adesea stabilizate de umiditate", "Oferă habitat pentru gazelele de deșert", "Loc de întâlnire important pentru comerțul cu vite", "Adesea sit de descoperire a fragmentelor ceramice preistorice", "Vegetația constă în principal din Calotropis procera"],
+      en: ["Name is derived from the Arabic word for water hole", "Dunes are often stabilized by underlying moisture", "Provides a habitat for various desert gazelle species", "Acts as a key meeting point for livestock trading", "Frequently contains prehistoric ceramic fragments", "Vegetation primarily consists of Calotropis procera"],
+    },
   },
   {
     id: "mauritania-dune-de-terjit-nature-v2",
@@ -494,6 +794,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Sand meets oasis vegetation", "Height up to 40 m", "Wind-driven sand movement", "Geographically distinctive in Adrar"],
     },
     imageHint: "Terjit dune near oasis",
+    descriptionAdvanced: {
+      de: "Die Terjit-Düne liegt am Eingang der berühmten Oase Terjit im Adrar-Massiv. Sie markiert den Übergang zwischen der harten Felslandschaft des Plateaus und dem weichen Sand der Wüste. Die Düne bietet einen spektakulären Blick auf den Palmenhain, der aus einer schmalen Schlucht entspringt. Dieser Ort ist ein Symbol für die Schönheit mauretanischer Oasen und zieht viele Reisende an.",
+      hu: "A Terjit-dűne a híres Terjit-oázis bejáratánál található, az Adrar-masszívumban. Átmenetet képez a fennsík kemény sziklái és a sivatag puha homokja között. A dűne lenyűgöző kilátást nyújt a pálmaligetre, amely egy szűk szurdokból tör elő. Ez a hely a mauritániai oázisok szépségének szimbóluma, és sok utazót vonz.",
+      ro: "Duna Terjit se află la intrarea în celebra oază Terjit din masivul Adrar. Aceasta marchează tranziția între peisajul stâncos dur al platoului și nisipul fin al deșertului. Duna oferă o vedere spectaculoasă asupra livezii de palmiere care izvorăște dintr-o cheie îngustă. Acest loc este un simbol al frumuseții oazelor mauritaniene și atrage mulți călători.",
+      en: "The Terjit Dune is situated at the entrance to the famous Terjit Oasis within the Adrar Massif. It marks the transition between the hard, rocky plateau landscape and the soft desert sands. The dune provides a spectacular view of the palm grove that emerges from a narrow gorge. This location is a quintessential symbol of Mauritanian oasis beauty and attracts many visitors.",
+    },
+    factsAdvanced: {
+      de: ["Liegt etwa 45 km südlich von Atar", "Teil der touristischen Hauptroute im Adrar", "Bietet Schutz vor den heißen Wüstenwinden", "In der Nähe befinden sich natürliche Thermalquellen", "Traditioneller Ort für Hochzeitszeremonien der Einheimischen", "Dünenkamm ist über 30 Meter hoch"],
+      hu: ["Atartól körülbelül 45 km-re délre fekszik", "Az Adrar fő turisztikai útvonalának része", "Védelmet nyújt a forró sivatagi szelek ellen", "A közelben természetes hévízforrások találhatók", "A helyiek hagyományos esküvői szertartásainak helyszíne", "A dűne gerince több mint 30 méter magas"],
+      ro: ["Situată la aproximativ 45 km sud de Atar", "Parte a principalei rute turistice din Adrar", "Oferă protecție împotriva vânturilor fierbinți ale deșertului", "În apropiere se află izvoare termale naturale", "Loc tradițional pentru ceremoniile de nuntă ale localnicilor", "Creasta dunii are o înălțime de peste 30 de metri"],
+      en: ["Located about 45 km south of the town of Atar", "Part of the primary tourist circuit in the Adrar region", "Provides shelter from hot Saharan desert winds", "Nearby natural thermal springs emerge from the rocks", "Traditional site for local wedding ceremonies", "Dune crest stands over 30 meters high"],
+    },
   },
   {
     id: "mauritania-oued-taoudenni-nature-v2",
@@ -513,6 +825,18 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Remnant of a prehistoric river", "Dry sandbed", "Geologically defining for the region", "No surface flow"],
     },
     imageHint: "Oued Taoudenni fossil riverbed",
+    descriptionAdvanced: {
+      de: "Oued Taoudenni ist ein trockenes Flusstal, das eine historische Verbindung zwischen den Salzminen von Taoudenni in Mali und den Handelszentren Mauretaniens darstellt. Es verläuft durch extrem lebensfeindliche Wüstengebiete und diente über Jahrhunderte als lebenswichtiger Korridor für Kamelkarawanen. Das Tal ist bekannt für seine strategische Bedeutung im Trans-Sahara-Handel mit Gold und Salz.",
+      hu: "Az Oued Taoudenni egy kiszáradt folyóvölgy, amely történelmi kapcsolatot jelent a mali Taoudenni sóbányái és Mauritánia kereskedelmi központjai között. Rendkívül barátságtalan sivatagi területeken halad keresztül, és évszázadokon át a tevekaravánok létfontosságú útvonala volt. A völgy stratégiai jelentőségéről ismert az arannyal és sóval folytatott transz-szaharai kereskedelemben.",
+      ro: "Oued Taoudenni este o vale de râu secată care reprezintă o legătură istorică între minele de sare din Taoudenni, Mali, și centrele comerciale din Mauritania. Aceasta traversează zone de deșert extrem de ostile și a servit timp de secole ca un coridor vital pentru caravanele de cămile. Valea este cunoscută pentru importanța sa strategică în comerțul trans-saharian cu aur și sare.",
+      en: "Oued Taoudenni is a dry river valley that serves as a historical link between the salt mines of Taoudenni in Mali and the trading hubs of Mauritania. It traverses extremely harsh desert terrain and has functioned for centuries as a vital corridor for camel caravans. The valley is noted for its strategic importance in the trans-Saharan trade of gold and salt.",
+    },
+    factsAdvanced: {
+      de: ["Verläuft durch die Majabat al-Koubra Region", "Wurde früher 'Das leere Viertel' Afrikas genannt", "Hauptroute für die Azalaï-Salzkarawanen", "Enthält fossile Wasserreserven in großen Tiefen", "Temperaturen können im Sommer über 50 °C steigen", "Boden besteht aus harter Reg-Wüste und Sand"],
+      hu: ["A Majabat al-Koubra régión halad keresztül", "Régebben Afrika 'Üres negyedének' nevezték", "Az Azalaï sókaravánok fő útvonala", "Nagy mélységben fosszilis vízkészleteket tartalmaz", "A hőmérséklet nyáron 50 °C fölé emelkedhet", "A talaj kemény reg-sivatagból és homokból áll"],
+      ro: ["Traversează regiunea Majabat al-Koubra", "Anterior numită 'Cartierul gol' al Africii", "Ruta principală pentru caravanele de sare Azalaï", "Conține rezerve de apă fosilă la adâncimi mari", "Temperaturile pot depăși 50 °C în timpul verii", "Solul este compus din deșert de tip reg și nisip"],
+      en: ["Traverses the remote Majabat al-Koubra region", "Formerly called the 'Empty Quarter' of Africa", "Primary route for the historic Azalaï salt caravans", "Contains fossil water reserves at significant depths", "Temperatures can exceed 50 °C during summer months", "Surface consists of hard reg desert and shifting sand"],
+    },
   },
   {
     id: "mauritania-dune-du-cap-blanc-nature-v2",
@@ -532,5 +856,17 @@ export const mauritaniaNatureV2: POI[] = [
       en: ["Coastal dune formation", "Very strong wind erosion", "Habitat for rare seals", "Rocky substrate at cape"],
     },
     imageHint: "Cap Blanc coastal dunes",
+    descriptionAdvanced: {
+      de: "Die Düne von Cap Blanc befindet sich auf der Halbinsel Ras Nouadhibou an der Atlantikküste. Sie ist einzigartig durch ihr Zusammentreffen mit dem Ozean und bildet weiße Sandklippen, die ins Meer abfallen. Diese Region ist als einer der letzten Rückzugsorte der Mittelmeer-Mönchsrobbe weltweit bekannt. Die ständigen Seewinde formen die Dünenformationen in dieser küstennahen Wüstenumgebung immer wieder neu.",
+      hu: "A Cap Blanc-dűne a Ras Nouadhibou-félszigeten található az atlanti-óceáni partvidéken. Egyedülálló módon találkozik az óceánnal, fehér homoksziklákat alkotva, amelyek a tengerbe szakadnak. Ez a régió a mediterrán barátfóka egyik utolsó menedékhelyeként ismert a világon. Az állandó tengeri szelek folyamatosan újraformálják a dűnéket ebben a tengerparti sivatagi környezetben.",
+      ro: "Duna de la Cap Blanc se află pe peninsula Ras Nouadhibou, pe coasta Atlanticului. Este unică prin întâlnirea sa cu oceanul, formând faleze de nisip alb care coboară în mare. Această regiune este cunoscută ca unul dintre ultimele refugii ale focii monah mediteraneene din lume. Vânturile marine constante modelează continuu formațiunile de dune în acest mediu de deșert de coastă.",
+      en: "The Cap Blanc Dune is located on the Ras Nouadhibou peninsula along the Atlantic coast. It is unique for its direct encounter with the ocean, forming white sand cliffs that drop into the sea. This region is world-renowned as one of the last remaining refuges for the Mediterranean monk seal. Constant sea breezes continuously reshape the dune formations in this coastal desert environment.",
+    },
+    factsAdvanced: {
+      de: ["Liegt an der Grenze zwischen Mauretanien und Westsahara", "Beherbergt das Satellitenzentrum für Mönchsrobben", "Küstenlinie ist geprägt von starken Strömungen", "Wichtiger Ort für die industrielle Fischerei der Region", "Dünen bestehen aus sehr hellem, feinem Quarzsand", "Teil eines streng geschützten Naturreservats"],
+      hu: ["Mauritánia és Nyugat-Szahara határán fekszik", "A barátfókák megfigyelő központjának ad otthont", "A partvonalat erős tengeráramlatok jellemzik", "A régió ipari halászatának fontos helyszíne", "A dűnék nagyon világos, finom kvarchomokból állnak", "Szigorúan védett természetvédelmi terület része"],
+      ro: ["Situată la granița dintre Mauritania și Sahara Occidentală", "Găzduiește centrul de monitorizare pentru focile monah", "Linia de coastă este marcată de curenți puternici", "Loc important pentru pescuitul industrial din regiune", "Dunele sunt compuse din nisip de cuarț foarte deschis", "Parte a unei rezervații naturale strict protejate"],
+      en: ["Located on the border of Mauritania and Western Sahara", "Home to a satellite center for monk seal conservation", "The coastline is characterized by powerful currents", "Critical area for the region's industrial fishing", "Dunes consist of very light, fine-grained quartz sand", "Part of a strictly protected maritime nature reserve"],
+    },
   }
 ];

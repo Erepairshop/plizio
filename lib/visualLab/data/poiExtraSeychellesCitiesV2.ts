@@ -29,7 +29,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["A Seychelle-szigetek fővárosa", "A Big Benhez hasonló óratoronnyal rendelkezik", "Gazdasági központ"],
       ro: ["Capitala insulelor Seychelles", "Are un turn cu ceas similar cu Big Ben", "Centru economic"],
       en: ["Capital of the Seychelles", "Features a clock tower similar to Big Ben", "Economic center"]
-    }, image: "/poi-images/sc-victoria-cities-v2.webp"},
+    }, image: "/poi-images/sc-victoria-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gegründet 1778 von Charles Routier de Romainville", "Der Lorloz-Uhrturm wurde 1903 zum Gedenken an Königin Victoria errichtet", "Der Sir Selwyn Selwyn-Clarke Markt wurde 1840 eröffnet", "Beherbergt den Botanischen Garten der Seychellen (gegründet 1901)", "Einzige Stadt auf den Seychellen mit einem Tiefseehafen", "Sitz der Nationalversammlung und des Obersten Gerichtshofs"],
+      hu: ["1778-ban alapította Charles Routier de Romainville", "A Lorloz óratorony 1903-ban épült Viktória királynő emlékére", "A Sir Selwyn Selwyn-Clarke piac 1840-ben nyílt meg", "Itt található a Seychelle-szigeteki Botanikus Kert (alapítva 1901)", "A Seychelle-szigetek egyetlen mélyvízi kikötővel rendelkező városa", "A Nemzetgyűlés és a Legfelsőbb Bíróság székhelye"],
+      ro: ["Fondată în 1778 de Charles Routier de Romainville", "Turnul cu ceas Lorloz a fost ridicat în 1903 în memoria Reginei Victoria", "Piața Sir Selwyn Selwyn-Clarke a fost deschisă în 1840", "Găzduiește Grădina Botanică din Seychelles (fondată în 1901)", "Singurul oraș din Seychelles cu un port de adâncime", "Sediul Adunării Naționale și al Curții Supreme"],
+      en: ["Founded in 1778 by Charles Routier de Romainville", "The Lorloz clock tower was erected in 1903 to honor Queen Victoria", "The Sir Selwyn Selwyn-Clarke Market opened in 1840", "Home to the Seychelles National Botanical Gardens (founded 1901)", "The only town in Seychelles with a deep-water commercial port", "Seat of the National Assembly and the Supreme Court"],
+    },
+  },
   {
     id: "sc-anse-boileau-cities-v2",
     type: "city",
@@ -58,7 +65,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Egy sekély öbölben fekszik", "Fontos halászati központ", "Történelmi temploma van"],
       ro: ["Situat într-un golf puțin adânc", "Centru important de pescuit", "Are o biserică istorică"],
       en: ["Located in a shallow bay", "Important fishing center", "Has a historic church"]
-    }, image: "/poi-images/sc-anse-boileau-cities-v2.webp"},
+    }, image: "/poi-images/sc-anse-boileau-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Benannt nach dem französischen Kapitän Boileau (18. Jahrhundert)", "Verwaltungszentrum für den südwestlichen Teil von Mahé", "Wichtiger Standort für handwerkliche Fischerei in der Region", "Beherbergt das Büro der Seychelles Broadcasting Corporation (SBC)", "Die Bucht ist ca. 1,5 Kilometer lang und sehr flach", "Einstiegspunkt für Wanderungen in die Granitberge des Hinterlandes"],
+      hu: ["Boileau francia kapitányról nevezték el (18. század)", "Mahé délnyugati részének közigazgatási központja", "A kézműves halászat fontos helyszíne a régióban", "Itt található a Seychelles Broadcasting Corporation (SBC) irodája", "Az öböl kb. 1,5 kilométer hosszú és nagyon sekély", "Belépési pont a hátország gránithegyeibe vezető túrákhoz"],
+      ro: ["Numit după căpitanul francez Boileau (secolul al XVIII-lea)", "Centru administrativ pentru partea de sud-vest a insulei Mahé", "Loc important pentru pescuitul artizanal în regiune", "Găzduiește biroul Seychelles Broadcasting Corporation (SBC)", "Golful are o lungime de aproximativ 1,5 kilometri și este foarte puțin adânc", "Punct de intrare pentru drumeții în munții de granit din interior"],
+      en: ["Named after the French captain Boileau (18th century)", "Administrative center for the southwestern part of Mahé", "Important site for artisanal fishing in the region", "Home to the transmitting station of the Seychelles Broadcasting Corporation (SBC)", "The bay is approximately 1.5 kilometers long and very shallow", "Entry point for hikes into the granite mountains of the interior"],
+    },
+  },
   {
     id: "sc-beau-vallon-cities-v2",
     type: "city",
@@ -87,7 +101,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Híres homokos strand", "Búvárkodás és sznorkelezés központja", "Élénk éjszakai élet"],
       ro: ["Plajă faimoasă cu nisip", "Centru pentru scufundări și snorkeling", "Viață de noapte animată"],
       en: ["Famous sandy beach", "Center for diving and snorkeling", "Lively nightlife"]
-    }, image: "/poi-images/sc-beau-vallon-cities-v2.webp"},
+    }, image: "/poi-images/sc-beau-vallon-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Etwa 3 Kilometer langer, sandiger Strand ohne vorgelagertes Riff", "Beliebtester Ort für Wassersportarten wie Jetski und Parasailing", "Der 'Bazar Labrin' findet wöchentlich am Strandufer statt", "Wichtigstes Zentrum für Tauchschulen auf der Insel Mahé", "Bietet direkten Blick auf die Inseln Silhouette und North Island", "Sitz mehrerer der ältesten und bekanntesten Hotels des Landes"],
+      hu: ["Kb. 3 kilométer hosszú, homokos strand zátony nélkül a partnál", "A legnépszerűbb hely a vízi sportokhoz, mint a jetski és a parasailing", "A 'Bazar Labrin' piacot hetente rendezik meg a tengerparton", "A búváriskolák legfontosabb központja Mahé szigetén", "Közvetlen kilátást nyújt Silhouette- és North-szigetekre", "Az ország több legrégebbi és legismertebb szállodájának székhelye"],
+      ro: ["Plajă de aproximativ 3 kilometri, cu nisip și fără recif la mal", "Cea mai populară locație pentru sporturi nautice, cum ar fi jet-ski și parasailing", "Piața 'Bazar Labrin' are loc săptămânal pe malul mării", "Cel mai important centru pentru școli de scufundări de pe insula Mahé", "Oferă vedere directă către insulele Silhouette și North Island", "Găzduiește câteva dintre cele mai vechi și cunoscute hoteluri din țară"],
+      en: ["Approximately 3 kilometers of sandy beach without an immediate reef", "Most popular location for water sports such as jet skiing and parasailing", "The 'Bazar Labrin' market is held weekly on the beachfront", "Primary hub for scuba diving centers on Mahé Island", "Offers a clear view across the ocean to Silhouette and North Islands", "Home to several of the oldest and most established hotels in the country"],
+    },
+  },
   {
     id: "sc-anse-royale-cities-v2",
     type: "city",
@@ -116,7 +137,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Egyetemi székhely", "Történelmi fűszerkert a közelben", "Sekély, tiszta víz"],
       ro: ["Sediu universitar", "Grădină istorică de condimente în apropiere", "Apă puțin adâncă și limpede"],
       en: ["University seat", "Historic spice garden nearby", "Shallow, clear water"]
-    }, image: "/poi-images/sc-anse-royale-cities-v2.webp"},
+    }, image: "/poi-images/sc-anse-royale-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Sitz des Hauptcampus der University of Seychelles", "Ort des ersten Gewürzgartens (Jardin du Roi), gegründet 1772", "Die Bucht wird durch die Île Souris (Mausinsel) markiert", "Zweitgrößtes Siedlungsgebiet auf der Insel Mahé nach Victoria", "Beherbergt ein wichtiges regionales Krankenhaus und ein Gesundheitszentrum", "Die St. Joseph Kirche ist ein markantes architektonisches Wahrzeichen"],
+      hu: ["A Seychelle-szigeteki Egyetem fő campusának székhelye", "Az első fűszerkert (Jardin du Roi) helyszíne, alapítva 1772-ben", "Az öblöt az Île Souris (Egér-sziget) jelzi", "Mahé szigetének második legnagyobb települése Victoria után", "Fontos regionális kórháznak és egészségügyi központnak ad otthont", "A Szent József-templom jellegzetes építészeti látnivaló"],
+      ro: ["Sediul campusului principal al Universității din Seychelles", "Locul primei grădini de mirodenii (Jardin du Roi), fondată în 1772", "Golful este marcat de Île Souris (Insula Șoarecelui)", "A doua cea mai mare zonă de așezări de pe insula Mahé după Victoria", "Găzduiește un spital regional important și un centru de sănătate", "Biserica Sfântul Iosif este un punct de reper arhitectural distinctiv"],
+      en: ["Seat of the main campus of the University of Seychelles", "Site of the first spice garden (Jardin du Roi), established in 1772", "The bay is characterized by the offshore Île Souris (Mouse Island)", "Second-largest settlement area on Mahé Island after Victoria", "Home to a major regional hospital and a comprehensive health center", "St. Joseph Church is a prominent local architectural landmark"],
+    },
+  },
   {
     id: "sc-cascade-cities-v2",
     type: "city",
@@ -145,7 +173,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Közel a nemzetközi repülőtérhez", "Dombos táj", "Buja növényzet"],
       ro: ["Aproape de aeroportul internațional", "Peisaj deluros", "Vegetație luxuriantă"],
       en: ["Close to the international airport", "Hilly landscape", "Lush vegetation"]
-    }, image: "/poi-images/sc-cascade-cities-v2.webp"},
+    }, image: "/poi-images/sc-cascade-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Benannt nach den markanten Wasserfällen in den Bergen von Cascade", "Wichtiger Standort für die industrielle Fischverarbeitung (Thunfisch)", "Liegt strategisch günstig an der Autobahn zwischen Victoria und dem Flughafen", "Die Region umfasst bedeutende Landgewinnungsprojekte", "Beherbergt Stützpunkte der Seychelles Coast Guard", "Bietet Zugang zum Morne Seychellois Nationalpark über Bergpfade"],
+      hu: ["A Cascade-hegység jellegzetes vízeséseiről nevezték el", "Az ipari halfeldolgozás (tonhal) fontos helyszíne", "Stratégiai helyen fekszik a Victoria és a repülőtér közötti autópályán", "A régió jelentős tengerparti feltöltési projekteket foglal magában", "Itt található a Seychelle-szigeteki Partvédelmi őrség bázisa", "Hegyi ösvényeken keresztül biztosít hozzáférést a Morne Seychellois Nemzeti Parkhoz"],
+      ro: ["Numit după cascadele distinctive din munții Cascade", "Loc important pentru prelucrarea industrială a peștelui (ton)", "Situat strategic pe autostrada dintre Victoria și aeroport", "Regiunea include proiecte semnificative de recuperare a terenurilor", "Găzduiește baze ale Pazei de Coastă din Seychelles", "Oferă acces la Parcul Național Morne Seychellois prin poteci montane"],
+      en: ["Named after the prominent waterfalls located in the mountains above", "Major site for industrial fish processing, particularly tuna", "Strategically located on the highway between Victoria and the airport", "The area encompasses significant land reclamation projects", "Home to key installations of the Seychelles Coast Guard", "Provides access to Morne Seychellois National Park via mountain trails"],
+    },
+  },
   {
     id: "sc-anse-etoile-cities-v2",
     type: "city",
@@ -174,7 +209,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Lakóövezet", "Tengerparti út óceáni kilátással", "A fővárostól északra"],
       ro: ["Zonă rezidențială", "Drum de coastă cu vedere la ocean", "La nord de capitală"],
       en: ["Residential area", "Coastal road with ocean views", "North of the capital"]
-    }, image: "/poi-images/sc-anse-etoile-cities-v2.webp"},
+    }, image: "/poi-images/sc-anse-etoile-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einer der am dichtesten besiedelten Bezirke auf der Insel Mahé", "Bietet weite Panoramablicke auf den Ste. Anne Marine Nationalpark", "Wichtiger Wohnbezirk für Pendler nach Victoria", "Der Name 'Anse Etoile' bedeutet 'Sternenbucht' auf Französisch", "Beherbergt mehrere große öffentliche Wohnungsbauprojekte", "Die Küstenstraße verbindet Victoria mit dem nördlichsten Punkt von Mahé"],
+      hu: ["Mahé szigetének egyik legsűrűbben lakott körzete", "Széles panorámát kínál a Ste. Anne tengeri nemzeti parkra", "Fontos lakóövezet a Victoriába ingázók számára", "Az 'Anse Etoile' név franciául 'Csillag-öblöt' jelent", "Számos nagy közösségi lakásprojektnek ad otthont", "A tengerparti út összeköti Victoriát Mahé legészakibb pontjával"],
+      ro: ["Unul dintre cele mai dens populate districte de pe insula Mahé", "Oferă vederi panoramice vaste asupra Parcului Național Marin Ste. Anne", "District rezidențial important pentru cei care fac naveta în Victoria", "Numele 'Anse Etoile' înseamnă 'Golful Stelelor' în franceză", "Găzduiește câteva proiecte mari de locuințe publice", "Drumul de coastă leagă Victoria de punctul cel mai nordic al insulei Mahé"],
+      en: ["One of the most densely populated districts on Mahé Island", "Offers wide panoramic views of the Ste. Anne Marine National Park", "Key residential district for commuters working in Victoria", "The name 'Anse Etoile' translates to 'Star Bay' in French", "Host to several large-scale public housing developments", "The coastal road connects Victoria with the northernmost tip of Mahé"],
+    },
+  },
   {
     id: "sc-glacis-cities-v2",
     type: "city",
@@ -203,7 +245,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Gránitképződményeiről ismert", "Csendes lakónegyed", "Gyönyörű naplementék"],
       ro: ["Cunoscut pentru formațiunile de granit", "Zonă rezidențială liniștită", "Apusuri de soare frumoase"],
       en: ["Known for granite formations", "Quiet residential area", "Beautiful sunsets"]
-    }, image: "/poi-images/sc-glacis-cities-v2.webp"},
+    }, image: "/poi-images/sc-glacis-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Benannt nach den markanten glatten Granitformationen (Glacis)", "Ian Fleming verbrachte hier 1958 Zeit im Northolme Hotel", "Nördlichster Verwaltungsbezirk der Insel Mahé", "Bekannt für exklusive Boutique-Resorts und Luxusvillen", "Die Gewässer an der Nordspitze sind besonders tief und klar", "Bietet einen der besten Aussichtspunkte auf Sonnenuntergänge über Silhouette"],
+      hu: ["A jellegzetes sima gránitképződményekről (glacis) kapta a nevét", "Ian Fleming 1958-ban töltött itt időt a Northolme Hotelben", "Mahé szigetének legészakibb közigazgatási körzete", "Exkluzív boutique resortjairól és luxusvilláiról ismert", "Az északi csúcs vizei különösen mélyek és tiszták", "Az egyik legjobb kilátópontot kínálja a Silhouette feletti naplementékhez"],
+      ro: ["Numit după formațiunile de granit netede distinctive (glacis)", "Ian Fleming a petrecut timp aici în 1958 la Hotelul Northolme", "Cel mai nordic district administrativ al insulei Mahé", "Cunoscut pentru resorturi boutique exclusiviste și vile de lux", "Apele din vârful nordic sunt deosebit de adânci și limpezi", "Oferă unul dintre cele mai bune puncte de belvedere pentru apusurile peste Silhouette"],
+      en: ["Named after the distinctive smooth granite rock formations (glacis)", "Ian Fleming stayed at the Northolme Hotel here in 1958", "The northernmost administrative district on Mahé Island", "Known for housing exclusive boutique resorts and luxury villas", "The waters at the northern tip are notably deep and clear", "Provides one of the best vantage points for sunsets over Silhouette Island"],
+    },
+  },
   {
     id: "sc-bel-ombre-cities-v2",
     type: "city",
@@ -232,7 +281,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Az Anse Major kapuja", "Halászkikötő", "Luxus üdülőhelyek"],
       ro: ["Poarta către Anse Major", "Port de pescuit", "Resorturi de lux"],
       en: ["Gateway to Anse Major", "Fishing harbor", "Luxury resorts"]
-    }, image: "/poi-images/sc-bel-ombre-cities-v2.webp"},
+    }, image: "/poi-images/sc-bel-ombre-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Hauptausgangspunkt für den Wanderweg zur Anse Major", "Ort der legendären Schatzsuche nach dem Piraten 'La Buse'", "Beherbergt einen der wichtigsten traditionellen Fischerhäfen von Mahé", "Der Name bedeutet 'Schöner Schatten' auf Französisch", "Sitz der St. Roch Kirche, einem lokalen religiösen Zentrum", "Die Küstenzone umfasst das Bel Ombre Marine Reserve"],
+      hu: ["Az Anse Majorhoz vezető túraútvonal fő kiindulópontja", "A 'La Buse' kalóz legendás kincskeresésének helyszíne", "Mahé egyik legfontosabb hagyományos halászkikötőjének ad otthont", "A név franciául 'Szép árnyékot' jelent", "A Szent Rókus-templom, egy helyi vallási központ székhelye", "A tengerparti zóna magában foglalja a Bel Ombre tengeri rezervátumot"],
+      ro: ["Principalul punct de plecare pentru traseul de drumeție către Anse Major", "Locul legendarei căutări de comori după piratul 'La Buse'", "Găzduiește unul dintre cele mai importante porturi tradiționale de pescuit din Mahé", "Numele înseamnă 'Umbră Frumoasă' în franceză", "Sediul bisericii Sfântul Roch, un centru religios local", "Zona de coastă include Rezervația Marină Bel Ombre"],
+      en: ["Main starting point for the popular hiking trail to Anse Major", "Site of the legendary treasure hunt for the pirate 'La Buse'", "Home to one of Mahé's most significant traditional fishing ports", "The name translates from French as 'Beautiful Shade'", "Seat of the St. Roch Church, a central local religious landmark", "The coastal zone encompasses the Bel Ombre Marine Reserve"],
+    },
+  },
   {
     id: "sc-grand-anse-praslin-cities-v2",
     type: "city",
@@ -261,7 +317,13 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Praslin legnagyobb települése", "Hosszú homokos strand", "Közel a repülőtérhez"],
       ro: ["Cea mai mare localitate de pe Praslin", "Plajă lungă de nisip", "Aproape de aeroport"],
       en: ["Largest town on Praslin", "Long sandy beach", "Near the airport"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Größte Ansiedlung und Verwaltungsbezirk auf der Insel Praslin", "Standort des Praslin Domestic Airport (IATA-Code: PRI)", "Der Strand ist einer der längsten des gesamten Archipels", "Wichtiges Zentrum für die lokale Fischerei und den Bootsbau", "Einstiegspunkt zur Straße, die durch das Vallée de Mai führt", "Während des Südostpassats lagert sich natürliches Seegras am Ufer ab"],
+      hu: ["Praslin szigetének legnagyobb települése és közigazgatási körzete", "A Praslin belföldi repülőtér (IATA-kód: PRI) helyszíne", "A strand az egész szigetcsoport egyik leghosszabbja", "A helyi halászat és hajóépítés fontos központja", "A Vallée de Mai-n áthaladó út belépési pontja", "A délkeleti passzátszél idején természetes hínár rakódik le a parton"],
+      ro: ["Cea mai mare așezare și district administrativ de pe insula Praslin", "Locația Aeroportului Intern din Praslin (cod IATA: PRI)", "Plaja este una dintre cele mai lungi din întregul arhipelag", "Centru important pentru pescuitul local și construcția de bărci", "Punct de intrare pentru drumul care traversează Vallée de Mai", "În timpul alizeului de sud-est, algele naturale se depun pe mal"],
+      en: ["Largest settlement and administrative district on Praslin Island", "Site of the Praslin Domestic Airport (IATA code: PRI)", "The beach is among the longest in the entire Seychelles archipelago", "Major center for local fishing activities and traditional boat building", "Primary entry point for the road leading through the Vallée de Mai", "Natural seagrass deposits occur on the shore during the southeast monsoon"],
+    },
   },
   {
     id: "sc-baie-sainte-anne-cities-v2",
@@ -291,7 +353,13 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Praslin fő kikötője", "Kulturális központ", "Kilátás az óceánra"],
       ro: ["Portul principal din Praslin", "Centru cultural", "Vedere la ocean"],
       en: ["Main port of Praslin", "Cultural center", "Ocean views"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Haupthafen von Praslin für Fähren zwischen den Inseln", "Logistisches Zentrum für die Versorgung der Insel mit Gütern", "Beherbergt das einzige Krankenhaus auf der Insel Praslin", "Wichtigster Startpunkt für Bootstouren nach Curieuse und Cousin", "Die Bucht ist nach der Heiligen Anna benannt", "Bietet den besten Zugang zum südlichen Teil von Praslin"],
+      hu: ["Praslin fő kikötője a szigetek közötti kompjáratok számára", "A sziget áruellátásának logisztikai központja", "Praslin szigetének egyetlen kórházának ad otthont", "A Curieuse- és Cousin-szigetekre induló hajótúrák fő kiindulópontja", "Az öböl Szent Annáról kapta a nevét", "A legjobb hozzáférést biztosítja Praslin déli részéhez"],
+      ro: ["Portul principal din Praslin pentru feriboturile inter-insule", "Centru logistic pentru aprovizionarea insulei cu mărfuri", "Găzduiește singurul spital de pe insula Praslin", "Principalul punct de plecare pentru tururi cu barca către Curieuse și Cousin", "Golful este numit după Sfânta Ana", "Oferă cel mai bun acces către partea de sud a insulei Praslin"],
+      en: ["Primary harbor for inter-island ferry services to Mahé and La Digue", "Logistical hub for the distribution of goods across Praslin Island", "Home to the island's only hospital and emergency medical facility", "Major departure point for maritime excursions to Curieuse and Cousin", "The bay is named after Saint Anne, a reflection of colonial heritage", "Serves as the main access point to the southern region of the island"],
+    },
   },
   {
     id: "sc-la-passe-cities-v2",
@@ -321,7 +389,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["La Digue egyetlen kikötője", "Rengeteg kerékpár", "Gyarmati építészet"],
       ro: ["Singurul port de pe La Digue", "Multe biciclete", "Arhitectură colonială"],
       en: ["Only port on La Digue", "Many bicycles", "Colonial architecture"]
-    }, image: "/poi-images/sc-la-passe-cities-v2.webp"},
+    }, image: "/poi-images/sc-la-passe-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Haupthafen und einziger Ankunftsort für Fähren auf La Digue", "Besteht fast ausschließlich aus Fahrradverkehr und Elektro-Carts", "Beherbergt das Veuve Reserve für den Seychellen-Paradiesschnäpper", "Wichtigstes Zentrum für den Verleih von Fahrrädern auf der Insel", "Ausgangspunkt für Ochsenkarren-Touren durch das Dorf", "Die katholische Kirche Notre Dame de L'Assomption ist das religiöse Zentrum"],
+      hu: ["La Digue fő kikötője és egyetlen érkezési pontja a kompok számára", "Szinte kizárólag kerékpáros közlekedésből és elektromos kocsikból áll", "Itt található a Veuve rezervátum a paradicsom-légyvadász számára", "A sziget legfontosabb kerékpárkölcsönző központja", "Az ökrös szekeres túrák kiindulópontja a falun keresztül", "A Notre Dame de L'Assomption katolikus templom a vallási központ"],
+      ro: ["Portul principal și singurul punct de sosire pentru feriboturi pe La Digue", "Constă aproape exclusiv din trafic de biciclete și cărucioare electrice", "Găzduiește Rezervația Veuve pentru muscarul paradisului din Seychelles", "Cel mai important centru pentru închirierea de biciclete de pe insulă", "Punct de plecare pentru tururi cu care trase de boi prin sat", "Biserica catolică Notre Dame de L'Assomption este centrul religios"],
+      en: ["Main harbor and the sole entry point for ferry services to La Digue", "Transport is primarily limited to bicycles and electric carts", "Home to the Veuve Reserve, protecting the rare Paradise Flycatcher", "Primary hub for bicycle rentals serving the entire island", "Traditional starting point for ox-cart tours through the village", "Notre Dame de L'Assomption Church serves as the local religious center"],
+    },
+  },
   {
     id: "sc-port-glaud-cities-v2",
     type: "city",
@@ -350,7 +425,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Szemben a Therese-szigettel", "Mangroveerdők", "Vízesések a közelben"],
       ro: ["Vis-a-vis de insula Therese", "Păduri de mangrove", "Cascade în apropiere"],
       en: ["Opposite Therese Island", "Mangrove forests", "Waterfalls nearby"]
-    }, image: "/poi-images/sc-port-glaud-cities-v2.webp"},
+    }, image: "/poi-images/sc-port-glaud-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Der Port Launay Marine National Park wurde 1979 gegründet.", "Der Bezirk grenzt an den Morne Seychellois Nationalpark.", "Vor der Küste liegen die Inseln Therese und L'Islette.", "Die Einwohnerzahl liegt bei etwa 2.500 Personen.", "Die Sans Souci Straße verbindet den Bezirk mit Victoria.", "Port Glaud liegt an der Nordwestküste der Hauptinsel Mahé."],
+      hu: ["A Port Launay Tengeri Nemzeti Parkot 1979-ben hozták létre.", "A kerület közvetlenül szomszédos a Morne Seychellois Nemzeti Parkkal.", "A parthoz közel található a Therese-sziget és L'Islette.", "Lakossága megközelítőleg 2500 fő.", "A Sans Souci hegyi út köti össze a fővárossal.", "A terület Mahé szigetének északnyugati részén fekszik."],
+      ro: ["Parcul Național Marin Port Launay a fost înființat în 1979.", "Districtul se învecinează cu Parcul Național Morne Seychellois.", "Insulele Therese și L'Islette fac parte din peisajul de coastă.", "Populația districtului este de aproximativ 2.500 de locuitori.", "Drumul Sans Souci este principala conexiune montană spre est.", "Este situat pe coasta de nord-vest a insulei Mahé."],
+      en: ["Port Launay Marine National Park was established in 1979.", "The district shares a border with Morne Seychellois National Park.", "It includes the offshore granitic islands of Therese and L'Islette.", "The population is estimated at approximately 2,500 residents.", "The scenic Sans Souci road provides access across the island.", "Located on the northwestern coastline of Mahé island."],
+    },
+  },
   {
     id: "sc-takamaka-cities-v2",
     type: "city",
@@ -379,7 +461,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Legdélebbi körzet", "Csendes strandok", "Hagyományos farmok"],
       ro: ["Cel mai sudic district", "Plaje liniștite", "Ferme tradiționale"],
       en: ["Southernmost district", "Quiet beaches", "Traditional farms"]
-    }, image: "/poi-images/sc-takamaka-cities-v2.webp"},
+    }, image: "/poi-images/sc-takamaka-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Der Bezirk ist nach dem einheimischen Takamaka-Baum benannt.", "Er liegt am südlichsten Punkt der Hauptinsel Mahé.", "Die Anse Takamaka ist einer der bekanntesten Strände der Region.", "Die Einwohnerzahl beträgt etwa 3.000 Menschen.", "Die Region war historisch aufgrund ihrer Lage stark isoliert.", "Tourismus und Kleinfischerei sind die Haupteinnahmequellen."],
+      hu: ["A kerület az őshonos takamaka fáról kapta a nevét.", "Ez Mahé szigetének legdélebbi közigazgatási egysége.", "Híres tengerpartja az Anse Takamaka.", "Lakossága körülbelül 3000 főt számlál.", "Sokáig ez volt a sziget legnehezebben megközelíthető része.", "A gazdaság alapját a butikhotel-turizmus és a halászat adja."],
+      ro: ["Numele derivă de la arborele Takamaka, specific zonei de coastă.", "Este cel mai sudic district de pe insula principală Mahé.", "Găzduiește plaja celebră Anse Takamaka.", "Populația este estimată la aproximativ 3.000 de locuitori.", "A păstrat un caracter rural datorită izolării sale istorice.", "Turismul ecologic este principala ramură economică activă."],
+      en: ["Named after the indigenous Takamaka tree (*Calophyllum inophyllum*).", "It is the southernmost administrative district on Mahé island.", "Anse Takamaka is the district's most famous beach destination.", "The population consists of approximately 3,000 residents.", "Historically the most isolated part of the main island.", "Small-scale farming and tourism are central to the local economy."],
+    },
+  },
   {
     id: "sc-baie-lazare-cities-v2",
     type: "city",
@@ -408,7 +497,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Történelmi helyszín", "Gótikus templom", "Népszerű a művészek körében"],
       ro: ["Loc istoric", "Biserică gotică", "Popular printre artiști"],
       en: ["Historic site", "Gothic church", "Popular with artists"]
-    }, image: "/poi-images/sc-baie-lazare-cities-v2.webp"},
+    }, image: "/poi-images/sc-baie-lazare-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Benannt nach Lazare Picault, der 1742 hier landete.", "Ein Denkmal erinnert an die französische Inbesitznahme.", "Die neugotische St. Francis Kirche ist ein lokales Wahrzeichen.", "Der Bezirk beherbergt mehrere internationale Luxusresorts.", "Die Einwohnerzahl liegt bei circa 3.600 Personen.", "Er befindet sich im südwestlichen Teil der Hauptinsel Mahé."],
+      hu: ["Lazare Picault francia felfedezőről nevezték el.", "Itt történt a szigetek francia birtokba vétele 1742-ben.", "A kerület jelképe a neogótikus Szent Ferenc-templom.", "Számos világhírű luxusszálloda található a területén.", "Lakossága nagyjából 3600 fő.", "Mahé délnyugati partján helyezkedik el."],
+      ro: ["Numit după Lazare Picault, care a explorat golful în 1742.", "Un monument în formă de ancoră marchează locul debarcării.", "Biserica Sfântul Francisc este un reper arhitectural neogotic.", "Găzduiește unele dintre cele mai mari resorturi de lux din Seychelles.", "Populația este de aproximativ 3.600 de locuitori.", "Este situat în partea de sud-vest a insulei Mahé."],
+      en: ["Named after Lazare Picault, who reached the bay in 1742.", "A monument commemorates the first French claim to the island.", "Features the iconic neo-Gothic St. Francis of Assisi Church.", "The district is a prime location for high-end international tourism.", "Home to a population of approximately 3,600 people.", "Situated on the southwestern coast of the island of Mahé."],
+    },
+  },
   {
     id: "sc-pointe-larue-cities-v2",
     type: "city",
@@ -437,7 +533,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["A repülőtér helyszíne", "Közlekedési csomópont", "Tengerparti közelség"],
       ro: ["Locația aeroportului", "Hub de transport", "Aproape de coastă"],
       en: ["Location of the airport", "Transportation hub", "Coastal proximity"]
-    }, image: "/poi-images/sc-pointe-larue-cities-v2.webp"},
+    }, image: "/poi-images/sc-pointe-larue-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Hier befindet sich der Seychelles International Airport.", "Der Flughafen wurde 1972 von Königin Elisabeth II. eröffnet.", "Der Bezirk ist das Hauptquartier von Air Seychelles.", "Große Teile des Geländes wurden durch Landgewinnung geschaffen.", "Die Einwohnerzahl beträgt etwa 3.200 Personen.", "Pointe Larue liegt direkt an der Ostküste von Mahé."],
+      hu: ["Itt található a Seychelle-szigetek nemzetközi repülőtere.", "A repülőteret 1972-ben II. Erzsébet királynő avatta fel.", "A kerületben van az Air Seychelles légitársaság központja.", "A kifutópályák nagy része feltöltött területen fekszik.", "Lakossága megközelítőleg 3200 fő.", "Mahé keleti partján, fontos közlekedési folyosón helyezkedik el."],
+      ro: ["Găzduiește Aeroportul Internațional Seychelles.", "Aeroportul a fost inaugurat oficial în anul 1972.", "Sediul central al Air Seychelles se află în acest district.", "Teritoriul a fost extins prin proiecte de recuperare a terenului.", "Populația este de aproximativ 3.200 de locuitori.", "Este situat strategic pe coasta de est a insulei Mahé."],
+      en: ["Home to the Seychelles International Airport (SEZ).", "The airport was officially opened in 1972 by Queen Elizabeth II.", "The district hosts the headquarters of Air Seychelles.", "Significant land reclamation was used for the airport runways.", "The population is approximately 3,200 residents.", "Located on the eastern coast of Mahé, south of Cascade."],
+    },
+  },
   {
     id: "sc-au-cap-cities-v2",
     type: "city",
@@ -466,7 +569,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Hosszú sekély strand", "A 'Craft Village' helyszíne", "Ideális sznorkelezéshez"],
       ro: ["Plajă lungă și puțin adâncă", "Locația 'Craft Village'", "Ideal pentru snorkeling"],
       en: ["Long shallow beach", "Home to the 'Craft Village'", "Ideal for snorkeling"]
-    }, image: "/poi-images/sc-au-cap-cities-v2.webp"},
+    }, image: "/poi-images/sc-au-cap-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Beherbergt das Domaine de Val des Près (Craft Village).", "Sitz des Lenstiti Kreol zur Erforschung der Sprache.", "Das Handwerkerdorf wurde in den 1980er Jahren gegründet.", "Der Bezirk liegt an der südöstlichen Küste von Mahé.", "Die Einwohnerzahl beträgt circa 4.200 Personen.", "Die Küste ist durch vorgelagerte Korallenriffe geschützt."],
+      hu: ["Itt található a Domaine de Val des Près kézműves falu.", "A Lenstiti Kreol központja ebben a kerületben van.", "A kézműves falut az 1980-as években építették újjá.", "Mahé délkeleti partvidékén helyezkedik el.", "Lakossága nagyjából 4200 fő.", "Partjait korallzátonyok védik a nyílt óceántól."],
+      ro: ["Găzduiește satul tradițional Domaine de Val des Près.", "Este sediul Institutului Creol (Lenstiti Kreol).", "Satul meșteșugăresc a fost dezvoltat în anii 1980.", "Situat pe coasta de sud-est a insulei principale Mahé.", "Populația este de aproximativ 4.200 de locuitori.", "Zonele de coastă sunt protejate de recife de corali."],
+      en: ["Home to the Domaine de Val des Près (Craft Village).", "The Lenstiti Kreol (Creole Institute) is located here.", "The craft village was reconstructed in the mid-1980s.", "Situated on the southeastern coastline of Mahé island.", "The population numbers approximately 4,200 residents.", "The coastline is characterized by shallow, reef-protected waters."],
+    },
+  },
   {
     id: "sc-anse-aux-pins-cities-v2",
     type: "city",
@@ -495,7 +605,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Hagyományos piac", "Golfpálya a közelben", "Keleti parti központ"],
       ro: ["Piață tradițională", "Teren de golf în apropiere", "Centru de pe coasta de est"],
       en: ["Traditional market", "Golf course nearby", "East coast hub"]
-    }, image: "/poi-images/sc-anse-aux-pins-cities-v2.webp"},
+    }, image: "/poi-images/sc-anse-aux-pins-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Beherbergt den einzigen Golfclub auf der Hauptinsel Mahé.", "Der Bezirk liegt verkehrsgünstig südlich des Flughafens.", "Die Küste wird durch ein langes Korallenriff geschützt.", "Die Einwohnerzahl beträgt ungefähr 3.800 Menschen.", "Ein wichtiges Zentrum für traditionellen Fischfang.", "Hier befindet sich eine der größten Grundschulen der Insel."],
+      hu: ["Itt található Mahé főszigetének egyetlen golfklubja.", "A kerület közvetlenül a repülőtértől délre fekszik.", "A partvonalat egy kiterjedt korallzátony védi.", "Lakossága körülbelül 3800 fő.", "Hagyományosan a halászat egyik helyi központja.", "A kerületben található a sziget egyik legnagyobb általános iskolája."],
+      ro: ["Găzduiește singurul club de golf de pe insula Mahé.", "Situat strategic la sud de Aeroportul Internațional Seychelles.", "Coasta este protejată de un recif de corali extins.", "Populația este estimată la aproximativ 3.800 de locuitori.", "Este un centru recunoscut pentru pescuitul artizanal.", "Include facilități educaționale și comunitare majore."],
+      en: ["Home to the Seychelles Golf Club, the main island's only course.", "Strategically located just south of the international airport.", "The coast features a protective reef creating a calm lagoon.", "The population is approximately 3,800 residents.", "It is a significant center for traditional artisanal fishing.", "Contains one of the largest primary schools on Mahé island."],
+    },
+  },
   {
     id: "sc-english-river-cities-v2",
     type: "city",
@@ -524,7 +641,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Victoria része", "Oktatási központ", "Lakó- és kormányzati negyed"],
       ro: ["Parte a Victoriei", "Centru educațional", "Zonă rezidențială și guvernamentală"],
       en: ["Part of Victoria", "Educational hub", "Residential and government district"]
-    }, image: "/poi-images/sc-english-river-cities-v2.webp"},
+    }, image: "/poi-images/sc-english-river-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Wird lokal oft La Rivière Anglaise genannt.", "Sitz des Seychelles Hospital, des größten Krankenhauses des Landes.", "Der Bezirk grenzt direkt an den Hafen von Victoria.", "Die Einwohnerzahl liegt bei etwa 4.200 Personen.", "Beherbergt das Ministerium für Gesundheit und Bildung.", "Historisch einer der ersten britischen Siedlungsorte."],
+      hu: ["Helyi elnevezése La Rivière Anglaise.", "Itt található az ország legnagyobb kórháza, a Seychelles Hospital.", "A kerület közvetlenül a Victoria Harbour partján fekszik.", "Lakossága megközelítőleg 4200 fő.", "Itt székel az Egészségügyi és az Oktatási Minisztérium is.", "A brit gyarmati uralom egyik korai központja volt."],
+      ro: ["Cunoscut sub denumirea locală de La Rivière Anglaise.", "Găzduiește Spitalul Seychelles, principala unitate medicală a țării.", "Se învecinează direct cu portul capitalei Victoria.", "Populația districtului este de aproximativ 4.200 de locuitori.", "Este sediul Ministerului Sănătății și al Educației.", "Numele reflectă prezența istorică timpurie a britanicilor."],
+      en: ["Commonly referred to locally as La Rivière Anglaise.", "Home to the Seychelles Hospital, the nation's largest medical center.", "The district borders the main Victoria Harbour area.", "The population is approximately 4,200 residents.", "Hosts the headquarters of the Ministry of Health and Education.", "Named after the early British presence in the area."],
+    },
+  },
   {
     id: "sc-mont-fleuri-cities-v2",
     type: "city",
@@ -553,7 +677,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Botanikus kert", "Kórház helyszíne", "Domboldali lakónegyed"],
       ro: ["Grădină Botanică", "Locația spitalului", "Zonă rezidențială pe deal"],
       en: ["Botanical Gardens", "Hospital location", "Hillside residential area"]
-    }, image: "/poi-images/sc-mont-fleuri-cities-v2.webp"},
+    }, image: "/poi-images/sc-mont-fleuri-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Sitz des 1901 gegründeten Nationalen Botanischen Gartens.", "Der Bezirk beherbergt das Nationale Statistikbüro.", "Das State House, Sitz des Präsidenten, liegt in der Nähe.", "Die Einwohnerzahl beträgt ungefähr 3.400 Personen.", "Ein wichtiges Bildungszentrum mit mehreren Sekundarschulen.", "Der Bezirk erstreckt sich bis zum Fuß des Mont Signale."],
+      hu: ["Itt található az 1901-ben alapított Nemzeti Botanikus Kert.", "A kerületben székel az Országos Statisztikai Hivatal.", "A State House (elnöki rezidencia) a kerület határán található.", "Lakossága megközelítőleg 3400 fő.", "Fontos oktatási csomópont számos középiskolával.", "Területe a Mont Signale hegy lábáig nyúlik fel."],
+      ro: ["Găzduiește Grădina Botanică Națională, fondată în 1901.", "Sediul Biroului Național de Statistică se află în district.", "State House, sediul președinției, se află la granița districtului.", "Populația este estimată la aproximativ 3.400 de locuitori.", "Este un centru educațional cu numeroase școli secundare.", "Relieful se ridică spre pantele muntelui Signale."],
+      en: ["Home to the National Botanical Gardens, founded in 1901.", "The district hosts the National Bureau of Statistics.", "Bordered by State House, the President's official residence.", "The population is approximately 3,400 residents.", "A major educational hub featuring several secondary schools.", "Extends from the Victoria Harbour to the slopes of Mont Signale."],
+    },
+  },
   {
     id: "sc-plaisance-cities-v2",
     type: "city",
@@ -582,7 +713,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Victoriától délre", "Kilátás az Eden-szigetre", "Fontos lakóövezet"],
       ro: ["La sud de Victoria", "Vedere spre Eden Island", "Zonă rezidențială importantă"],
       en: ["South of Victoria", "Views of Eden Island", "Important residential area"]
-    }, image: "/poi-images/sc-plaisance-cities-v2.webp"},
+    }, image: "/poi-images/sc-plaisance-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Einer der am dichtesten besiedelten Bezirke auf Mahé.", "Beherbergt ein wichtiges Industrie- und Gewerbegebiet.", "Der Bezirk liegt strategisch günstig südlich von Victoria.", "Die Einwohnerzahl beträgt ungefähr 3.800 Menschen.", "Umfasst sowohl Küsten- als auch Hanglagen.", "Wichtiges Zentrum für lokale Handwerksbetriebe."],
+      hu: ["Mahé egyik legsűrűbben lakott közigazgatási kerülete.", "Itt található az ország egyik legfontosabb ipari övezete.", "Stratégiai elhelyezkedése Victoriától délre található.", "Lakossága megközelítőleg 3800 fő.", "Területe parti síkságokat és domboldalakat egyaránt tartalmaz.", "A helyi kézműves ipar egyik fontos központja."],
+      ro: ["Este unul dintre cele mai dens populate districte de pe Mahé.", "Găzduiește o zonă industrială și comercială majoră.", "Situat strategic la sud de centrul capitalei Victoria.", "Populația este de aproximativ 3.800 de locuitori.", "Relieful combină zonele de coastă cu pantele deluroase.", "Centru important pentru afacerile și atelierele locale."],
+      en: ["One of the most densely populated districts on Mahé island.", "Hosts a major industrial and commercial estate.", "Strategically located south of the main city center of Victoria.", "The population is approximately 3,800 residents.", "Features a mix of coastal flats and hillside housing.", "A key hub for local manufacturing and service industries."],
+    },
+  },
   {
     id: "sc-les-mamelles-cities-v2",
     type: "city",
@@ -611,7 +749,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Tengerparti körzet", "Kilátás a tengerre", "Modern települések"],
       ro: ["District de coastă", "Vedere la mare", "Așezări moderne"],
       en: ["Coastal district", "Ocean views", "Modern settlements"]
-    }, image: "/poi-images/sc-les-mamelles-cities-v2.webp"},
+    }, image: "/poi-images/sc-les-mamelles-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Der Name bezieht sich auf den brustförmigen Hügel vor Ort.", "Der Bezirk wurde in den 1990er Jahren offiziell gegründet.", "Große Teile des Wohngebiets liegen auf gewonnenem Land.", "Die Einwohnerzahl beträgt circa 2.700 Personen.", "Der Bezirk grenzt direkt an den Bezirk Plaisance.", "Wichtiger Standort für soziale Wohnungsbauprojekte."],
+      hu: ["Nevét a területen található mellekre emlékeztető dombról kapta.", "Hivatalosan az 1990-es években jött létre Plaisance-ból kiválva.", "A lakóövezet jelentős része feltöltött területen épült fel.", "Lakossága nagyjából 2700 fő.", "Közvetlenül határos a Plaisance kerülettel.", "Fontos helyszíne az állami lakásépítési projekteknek."],
+      ro: ["Numele se referă la dealul cu formă de sân din zonă.", "Districtul a fost înființat oficial în anii 1990.", "Mari părți din zona rezidențială sunt pe teren recuperat.", "Populația este de aproximativ 2.700 de locuitori.", "Se învecinează direct cu districtul Plaisance.", "Locație importantă pentru proiectele de locuințe sociale."],
+      en: ["Named after the distinctive breast-shaped hill in the district.", "Officially created as a separate district in the 1990s.", "Significant portions of the district are built on reclaimed land.", "The population is approximately 2,700 residents.", "Borders the district of Plaisance to the north and west.", "A key site for modern urban residential development."],
+    },
+  },
   {
     id: "sc-roche-caiman-cities-v2",
     type: "city",
@@ -640,7 +785,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Nemzeti stadion", "Feltöltött területre épült", "Lakókomplexumok"],
       ro: ["Stadionul Național", "Construit pe teren recuperat", "Complexe rezidențiale"],
       en: ["National Stadium", "Built on reclaimed land", "Residential complexes"]
-    }, image: "/poi-images/sc-roche-caiman-cities-v2.webp"},
+    }, image: "/poi-images/sc-roche-caiman-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Beherbergt das Stad Linité, das Nationalstadion der Seychellen.", "Der Bezirk wurde fast vollständig auf gewonnenem Land erbaut.", "Sitz des National Sports Complex mit Schwimmhalle.", "Die Einwohnerzahl liegt bei etwa 2.900 Personen.", "Künstliche Kanäle trennen den Bezirk von Eden Island.", "Wichtiger Austragungsort der Indian Ocean Island Games."],
+      hu: ["Itt található a Stad Linité, a Seychelle-szigetek nemzeti stadionja.", "A kerület szinte teljes egésze feltöltött területen fekszik.", "A Nemzeti Sportkomplexum és az uszoda otthona.", "Lakossága megközelítőleg 2900 fő.", "Mesterséges csatornák választják el az Eden Island-től.", "Az Indiai-óceáni Szigeti Játékok egyik fő helyszíne."],
+      ro: ["Găzduiește Stad Linité, stadionul național al țării.", "Teritoriul a fost creat aproape integral prin recuperarea terenului.", "Include Complexul Sportiv Național și bazinul olimpic.", "Populația este estimată la aproximativ 2.900 de locuitori.", "Canalele artificiale îl separă de insula privată Eden Island.", "Reprezintă centrul principal pentru evenimente sportive naționale."],
+      en: ["Home to Stad Linité, the national stadium of the Seychelles.", "The district is built almost entirely on reclaimed land.", "Contains the National Sports Complex and a swimming stadium.", "The population is approximately 2,900 residents.", "Bordered by canals that separate it from Eden Island.", "A major venue for the Indian Ocean Island Games."],
+    },
+  },
   {
     id: "sc-saint-louis-cities-v2",
     type: "city",
@@ -669,7 +821,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Dombos fekvés", "Panorámás kilátás", "Infrastrukturális központ"],
       ro: ["Locație deluroasă", "Vedere panoramică", "Centru de infrastructură"],
       en: ["Hilly location", "Panoramic views", "Infrastructural hub"]
-    }, image: "/poi-images/sc-saint-louis-cities-v2.webp"},
+    }, image: "/poi-images/sc-saint-louis-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Bietet Panorama-Aussichten auf den Hafen von Victoria.", "Der Bezirk grenzt an den Morne Seychellois Nationalpark.", "Eine Hauptstraße verbindet hier Victoria mit Beau Vallon.", "Die Einwohnerzahl beträgt circa 3.200 Personen.", "Der Bezirk ist bekannt für seine steilen, kurvenreichen Straßen.", "Wichtiger Wohnstandort für Pendler nach Victoria."],
+      hu: ["Panorámás kilátást nyújt Victoria kikötőjére.", "A kerület határos a Morne Seychellois Nemzeti Parkkal.", "Itt halad át a Victoriát Beau Vallonnal összekötő főút.", "Lakossága nagyjából 3200 fő.", "Meredek és kanyargós útjairól ismert a terület.", "Kedvelt lakóhely a fővárosba ingázók számára."],
+      ro: ["Oferă vederi panoramice asupra portului Victoria.", "Se învecinează cu Parcul Național Morne Seychellois.", "O șosea principală leagă aici Victoria de Beau Vallon.", "Populația districtului este de aproximativ 3.200 de locuitori.", "Este renumit pentru străzile sale abrupte și sinuoase.", "Locație rezidențială importantă pentru navetiștii spre capitală."],
+      en: ["Provides panoramic views over Victoria Harbour and the city.", "The district shares a border with Morne Seychellois National Park.", "A primary road connects Victoria to Beau Vallon through here.", "The population is approximately 3,200 residents.", "Known for its steep and winding residential roads.", "A key residential area for those working in the capital."],
+    },
+  },
   {
     id: "sc-bel-air-cities-v2",
     type: "city",
@@ -698,7 +857,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Történelmi temető", "Victoria része", "Gyarmati történelem"],
       ro: ["Cimitir istoric", "Parte a Victoriei", "Istorie colonială"],
       en: ["Historic cemetery", "Part of Victoria", "Colonial history"]
-    }, image: "/poi-images/sc-bel-air-cities-v2.webp"},
+    }, image: "/poi-images/sc-bel-air-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Beherbergt den ältesten Friedhof der Insel (Bel Air Cemetery).", "Sitz des Nationalarchivs der Seychellen.", "Der Bezirk liegt auf den Hügeln oberhalb von Victoria.", "Die Einwohnerzahl liegt bei etwa 2.800 Personen.", "Bekannt für die Legende des Riesen von Bel Air.", "Standort mehrerer ausländischer Botschaften."],
+      hu: ["Itt található a sziget legrégebbi temetője (Bel Air temető).", "A kerületben van a Seychelle-szigeteki Nemzeti Levéltár.", "A terület a Victoria feletti domboldalakon fekszik.", "Lakossága megközelítőleg 2800 fő.", "A „Bel Air-i óriás” legendája ehhez a helyhez kötődik.", "Számos külföldi nagykövetség székhelye található itt."],
+      ro: ["Găzduiește cel mai vechi cimitir de pe insulă (Bel Air Cemetery).", "Este sediul Arhivelor Naționale din Seychelles.", "Districtul este situat pe dealurile de deasupra orașului Victoria.", "Populația este estimată la aproximativ 2.800 de locuitori.", "Este legat de legenda Uriașului din Bel Air.", "Locație preferată pentru numeroase ambasade străine."],
+      en: ["Home to the Bel Air Cemetery, the island's oldest graveyard.", "Contains the headquarters of the National Archives.", "Located on the hills immediately overlooking Victoria.", "The population is approximately 2,800 residents.", "Associated with the legend of the \"Giant of Bel Air.\"", "A prestigious location hosting various foreign embassies."],
+    },
+  },
   {
     id: "sc-mont-buxton-cities-v2",
     type: "city",
@@ -727,7 +893,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Kilátás a kikötőre", "Sűrűn lakott", "Dombos terep"],
       ro: ["Vedere la port", "Dens populat", "Teren deluros"],
       en: ["Harbor views", "Densely populated", "Hilly terrain"]
-    }, image: "/poi-images/sc-mont-buxton-cities-v2.webp"},
+    }, image: "/poi-images/sc-mont-buxton-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Der Bezirk besteht fast ausschließlich aus steilem Gelände.", "Bietet einen der besten Ausblicke auf Victoria Harbour.", "Ein reiner Wohnbezirk mit hoher Bevölkerungsdichte.", "Die Einwohnerzahl beträgt circa 3.100 Personen.", "Liegt unmittelbar nördlich des Stadtzentrums von Victoria.", "Bekannt für seine charakteristische Terrassenbauweise."],
+      hu: ["A kerület szinte teljes egészében meredek terepen fekszik.", "A legjobb kilátóhelyek közé tartozik Victoria kikötője felé.", "Nagy népsűrűségű, tisztán lakóövezeti kerület.", "Lakossága nagyjából 3100 fő.", "Közvetlenül Victoria városközpontjától északra található.", "Jellegzetes teraszos építkezési módjáról ismert."],
+      ro: ["Districtul este format aproape integral din teren abrupt.", "Oferă una dintre cele mai bune panorame asupra portului Victoria.", "Este un district pur rezidențial cu densitate mare a populației.", "Populația este estimată la aproximativ 3.100 de locuitori.", "Situat imediat la nord de centrul orașului Victoria.", "Cunoscut pentru construcțiile sale tip terasă pe deal."],
+      en: ["Consists almost entirely of steep, hillside terrain.", "Provides one of the finest vantage points over Victoria Harbour.", "Primarily a high-density residential administrative district.", "The population is approximately 3,100 residents.", "Located directly north of the Victoria city center.", "Characterized by terraced housing and steep access roads."],
+    },
+  },
   {
     id: "sc-perseverance-i-cities-v2",
     type: "city",
@@ -756,7 +929,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Mesterséges sziget", "Modern építészet", "Victoria közelében"],
       ro: ["Insulă artificială", "Arhitectură modernă", "Lângă Victoria"],
       en: ["Artificial island", "Modern architecture", "Near Victoria"]
-    }, image: "/poi-images/sc-perseverance-i-cities-v2.webp"},
+    }, image: "/poi-images/sc-perseverance-i-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Vollständig auf künstlich gewonnenem Land erbaut.", "Teil des größten Landgewinnungsprojekts der Seychellen.", "Der Bezirk wurde im frühen 21. Jahrhundert entwickelt.", "Die Einwohnerzahl beträgt circa 3.200 Personen.", "Bietet modernen Wohnraum für junge Familien.", "Durch Brücken direkt mit der Hauptinsel Mahé verbunden."],
+      hu: ["Teljes egészében mesterségesen feltöltött területen épült.", "A Seychelle-szigetek legnagyobb földfeltöltési projektjének része.", "A kerületet a 21. század elején fejlesztették ki.", "Lakossága megközelítőleg 3200 fő.", "Modern lakóteret biztosít főként fiatal családoknak.", "Hidak kötik össze közvetlenül Mahé főszigetével."],
+      ro: ["Construit integral pe teren recuperat artificial.", "Face parte din cel mai mare proiect de recuperare a terenului.", "Districtul a fost dezvoltat la începutul secolului al XXI-lea.", "Populația este de aproximativ 3.200 de locuitori.", "Oferă locuințe moderne pentru familiile tinere.", "Este conectat prin poduri de insula principală Mahé."],
+      en: ["Built entirely on an artificial, man-made island.", "Part of the largest land reclamation project in the country.", "The district was developed in the early 21st century.", "The population is approximately 3,200 residents.", "A primary focus of national social housing efforts.", "Connected to the main island of Mahé by bridges."],
+    },
+  },
   {
     id: "sc-perseverance-ii-cities-v2",
     type: "city",
@@ -785,7 +965,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Feltöltési projekt", "Új lakóövezet", "Sziget-elrendezés"],
       ro: ["Proiect de recuperare a terenului", "Zonă rezidențială nouă", "Aspect de insulă"],
       en: ["Reclamation project", "New residential area", "Island layout"]
-    }, image: "/poi-images/sc-perseverance-ii-cities-v2.webp"},
+    }, image: "/poi-images/sc-perseverance-ii-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Das Land wurde durch das Aufschütten von Korallensand in den 2000er Jahren gewonnen.", "Perseverance II ist Teil einer der größten künstlichen Inseln der Seychellen.", "Der Stadtteil soll nach Fertigstellung über 10.000 Einwohner beherbergen.", "Mehrere Brücken verbinden die Insel direkt mit Victoria und dem Hafen.", "Die Infrastruktur umfasst moderne Grund- und Sekundarschulen für die Bewohner.", "Das Projekt wurde ins Leben gerufen, um den Mangel an Baugrund auf Mahé zu beheben."],
+      hu: ["A területet a 2000-es évek elején zajló nagyszabású tengeri feltöltéssel hozták létre.", "Perseverance II a Seychelle-szigetek legnagyobb lakótelep-fejlesztési projektje.", "A sziget és Mahé főszigete között több stratégiai fontosságú híd biztosítja az átjárást.", "A tervezett lakosszám a teljes beépítés után meghaladja a 10 000 főt.", "A városrész saját bevásárlóközponttal és adminisztratív épületekkel rendelkezik.", "A projekt célja a főváros környéki népsűrűség és lakáshiány kezelése volt."],
+      ro: ["Terenul a fost creat prin dragarea nisipului de coral la începutul anilor 2000.", "Perseverance II face parte din cea mai mare insulă artificială din Seychelles.", "Proiectul este conceput pentru a găzdui peste 10.000 de locuitori la finalizare.", "Insula este legată de Mahé și Victoria prin mai multe poduri moderne.", "Zona include infrastructură educațională completă, de la grădinițe la licee.", "Dezvoltarea a fost esențială pentru a reduce presiunea imobiliară din capitală."],
+      en: ["The land was created through extensive coral sand reclamation starting in the early 2000s.", "Perseverance II is part of the largest man-made island project in the Seychelles.", "The district is designed to accommodate over 10,000 residents upon full completion.", "Several bridges connect the island directly to Victoria and the industrial port area.", "It features purpose-built infrastructure including primary and secondary schools.", "The project was initiated specifically to resolve the housing crisis on Mahé island."],
+    },
+  },
   {
     id: "sc-anse-kerlan-cities-v2",
     type: "city",
@@ -814,7 +1001,13 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Teknősvédelem", "Közel a praslini repülőtérhez", "A béke szigete"],
       ro: ["Protecția țestoaselor", "Aproape de aeroportul Praslin", "Oază de liniște"],
       en: ["Turtle protection", "Near Praslin Airport", "Peaceful oasis"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Anse Kerlan beherbergt den einzigen 18-Loch-Golfplatz auf Praslin.", "Die Region ist ein staatlich geschützter Nistplatz für Echte Karettschildkröten.", "Aufgrund starker Wellen wurde die Küste mit massiven Steinwällen befestigt.", "Der Flughafen von Praslin (Amitié) liegt nur wenige Kilometer südlich der Bucht.", "Die Nistsaison der Schildkröten dauert von Oktober bis Januar.", "Die Bucht besteht aus drei verschiedenen Abschnitten: Petite, Grande und Anse Kerlan."],
+      hu: ["Itt található Praslin egyetlen nemzetközi színvonalú, 18 lyukú golfpályája.", "A terület a közönséges cserepesteknősök egyik legfontosabb fészkelőhelye a szigeten.", "A partvonalat az erózió miatt több helyen gránit kőtömbökkel erősítették meg.", "A fészkelési időszak alatt szigorú szabályok védik a teknősök nyugalmát.", "Praslin belföldi repülőtere közvetlen szomszédságban található.", "Az öböl három kisebb szakaszra osztható a sziklaképződmények mentén."],
+      ro: ["Anse Kerlan găzduiește singurul teren de golf cu 18 găuri de pe insula Praslin.", "Regiunea este un sit protejat pentru cuibăritul țestoaselor Hawksbill.", "Eroziunea costieră a impus construirea unor diguri de protecție din piatră.", "Aeroportul Amitié din Praslin este situat în imediata apropiere a acestei zone.", "Sezonul de cuibărit al țestoaselor are loc în perioada octombrie-ianuarie.", "Plaja este divizată în mai multe secțiuni mici de promontorii granitice."],
+      en: ["Anse Kerlan is home to the only 18-hole championship golf course on Praslin.", "The area is a designated protected nesting ground for Hawksbill sea turtles.", "Significant coastal erosion led to the construction of rock groynes along the shore.", "The Praslin domestic airport is located just south of the Anse Kerlan area.", "Turtle nesting activity is monitored by conservationists from October to January.", "The coastline features three distinct sandy coves separated by granite ridges."],
+    },
   },
   {
     id: "sc-amitie-cities-v2",
@@ -844,7 +1037,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Repülőtér közelsége", "Tengerparti település", "Könnyű elérhetőség"],
       ro: ["Proximitate de aeroport", "Așezare de coastă", "Accesibilitate ușoară"],
       en: ["Airport proximity", "Coastal settlement", "Easy accessibility"]
-    }, image: "/poi-images/sc-amitie-cities-v2.webp"},
+    }, image: "/poi-images/sc-amitie-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Der Flughafen von Praslin wurde 1972 offiziell in Amitié eröffnet.", "Amitié ist einer der wenigen Orte auf Praslin mit einer weitläufigen Küstenebene.", "Der IATA-Code des hier ansässigen Flughafens lautet PRI.", "Die Region dient als primäres Logistikzentrum für die Versorgung der Insel.", "Entlang der Küste von Amitié befinden sich wichtige Wasserentsalzungsanlagen.", "Der Strand von Amitié ist bekannt für seine Vorkommen an nahrhaftem Seegras."],
+      hu: ["A Praslin-szigeti repülőteret 1972-ben nyitották meg Amitié területén.", "Ez a régió a sziget egyik legfontosabb mezőgazdasági központja volt a múltban.", "A repülőtér kifutópályája közvetlenül a tengerparti dűnék mellett halad el.", "Amitié központi elhelyezkedése miatt gyors elérést biztosít Grand Anse-hoz.", "A település ad otthont a sziget egyik fő sótalanító üzemének.", "A tengerparti sáv sekély vize ideális élőhelyet biztosít a tengeri teknősöknek."],
+      ro: ["Aeroportul din Praslin a fost inaugurat oficial în Amitié în anul 1972.", "Amitié reprezintă unul dintre puținele puncte de pe insulă cu relief plat.", "Codul IATA pentru aeroportul situat în această localitate este PRI.", "Zona găzduiește o importantă fabrică de desalinizare a apei pentru insulă.", "Pista aeroportului are o lungime de aproximativ 413 metri pentru avioane mici.", "Amitié este un punct de plecare major pentru transportul de marfă și pasageri."],
+      en: ["The Praslin Island Airport was officially opened in Amitié in 1972.", "Amitié is one of the few locations on Praslin with an extensive coastal plain.", "The IATA code for the airport located in this settlement is PRI.", "The region houses a critical desalination plant providing fresh water to the island.", "The airport runway is approximately 413 meters long, catering to Twin Otter aircraft.", "Amitié serves as the primary hub for air-based cargo and passenger logistics on Praslin."],
+    },
+  },
   {
     id: "sc-consolation-cities-v2",
     type: "city",
@@ -873,7 +1073,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Vad partvidék", "Kevés turista", "Természetközeli"],
       ro: ["Coastă sălbatică", "Puțini turiști", "Natural"],
       en: ["Wild coastline", "Few tourists", "Natural state"]
-    }, image: "/poi-images/sc-consolation-cities-v2.webp"},
+    }, image: "/poi-images/sc-consolation-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Consolation gilt als der südlichste bewohnbare Punkt auf der Insel Praslin.", "Die Küstenstraße verbindet Grand Anse im Westen mit Baie Ste Anne im Osten.", "In den Felsformationen von Consolation befinden sich natürliche Gezeitenbecken.", "Die Region ist bekannt für ihre ungestörte Sicht auf die Insel Marie-Louise.", "Die Strömungen an der Südspitze gehören zu den stärksten der Insel.", "Ein Großteil der Küste besteht aus fossilen Korallenriffen und Granit."],
+      hu: ["Consolation Praslin szigetének legdélebbi lakott településrésze.", "A településen áthaladó út köti össze a sziget nyugati és keleti felét délről.", "A part menti sziklák között apálykor természetes tengervizes medencék alakulnak ki.", "Ez a terület az egyik legkevésbé beépített partszakasz Praslin szigetén.", "A Consolation név a francia telepesektől származik, jelentése 'vigasz'.", "A tengerparti növényzet számos ritka, endemikus növényfajnak ad otthont."],
+      ro: ["Consolation este considerat cel mai sudic punct rezidențial de pe insula Praslin.", "Drumul pitoresc de coastă face legătura între districtele Grand Anse și Baie Ste Anne.", "Zona este renumită pentru bazinele naturale formate între stâncile de granit.", "De aici se pot observa clar insulele satelit Marie-Louise și Roche Canon.", "Relieful submarin din Consolation este extrem de bogat în corali și pești tropicali.", "Localitatea și-a păstrat arhitectura tradițională seychelloise în multe gospodării."],
+      en: ["Consolation is considered the southernmost residential point on Praslin island.", "The scenic coastal road connects the Grand Anse and Baie Ste Anne districts.", "The coastline is famous for natural tidal pools formed within granite crevices.", "It provides some of the best vantage points to see the nearby Marie-Louise islet.", "The area features a unique mix of volcanic granite and ancient coral limestone.", "Consolation remains one of the least commercially developed shores on Praslin."],
+    },
+  },
   {
     id: "sc-cote-dor-cities-v2",
     type: "city",
@@ -902,7 +1109,13 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Anse Volbert strand", "Turisztikai központ", "Fehér homok"],
       ro: ["Plaja Anse Volbert", "Hotspot turistic", "Nisip alb"],
       en: ["Anse Volbert beach", "Tourist hotspot", "White sand"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Cote d'Or ist der längste und am weitesten entwickelte Strand auf Praslin.", "Die vorgelagerte Insel Chauve Souris beherbergt ein exklusives Privatresort.", "Das Wasser bleibt über hunderte Meter flach und ist daher sehr sicher.", "Hier befinden sich die meisten PADI-zertifizierten Tauchschulen der Insel.", "Bootsfahrten zur Schildkröteninsel Curieuse starten meist von diesem Strand.", "Der Name 'Cote d'Or' bedeutet übersetzt 'Goldküste'."],
+      hu: ["Cote d'Or Praslin szigetének leghosszabb és legjobban kiépített strandja.", "A parttal szemben lévő Chauve Souris szigete apálykor igen közel kerül a parthoz.", "Ez a terület a sziget fő vízisport-központja, beleértve a vitorlázást és kajakozást.", "A legtöbb Curieuse-szigetre tartó kirándulóhajó innen indul reggelente.", "A strand sekély vize miatt a családos utazók kedvenc célpontja.", "A Cote d'Or név franciául 'Aranypartot' jelent, utalva a homok színére."],
+      ro: ["Cote d'Or este cea mai lungă și mai dezvoltată plajă de pe insula Praslin.", "Insula Chauve Souris, aflată în apropiere, este un loc renumit pentru snorkeling.", "Majoritatea centrelor de scufundări de pe insulă își au sediul în această zonă.", "Plaja este punctul de plecare principal pentru vizitarea Parcului Marin Curieuse.", "Cote d'Or găzduiește anual evenimente culturale și festivaluri locale.", "Traducerea numelui 'Cote d'Or' din limba franceză este 'Coasta de Aur'."],
+      en: ["Cote d'Or is the longest and most commercially developed beach on Praslin.", "The offshore islet of Chauve Souris features a unique granite-integrated lodge.", "The waters are consistently calm and shallow, making it safe for families.", "It serves as the main hub for PADI diving centers and water sport operators.", "Boat trips to the Giant Tortoise sanctuary on Curieuse Island depart from here.", "The name 'Cote d'Or' is French for 'Golden Coast', referencing the sand's hue."],
+    },
   },
   {
     id: "sc-grand-anse-mahe-cities-v2",
@@ -932,7 +1145,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["A nyugati part leghosszabb strandja", "Erős hullámzás", "Természeti szépség"],
       ro: ["Cea mai lungă plajă din vest", "Valuri puternice", "Frumusețe naturală"],
       en: ["Longest beach in the west", "Strong surf", "Natural beauty"]
-    }, image: "/poi-images/sc-grand-anse-mahe-cities-v2.webp"},
+    }, image: "/poi-images/sc-grand-anse-mahe-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Grand Anse ist einer der breitesten Sandstrände auf der Hauptinsel Mahé.", "Das Schwimmen ist während des Südostmonsuns (Mai-Oktober) streng untersagt.", "In der Nähe befindet sich die Sendeanlage der Seychelles Broadcasting Corporation.", "Das Feuchtgebiet hinter dem Strand beherbergt seltene endemische Libellenarten.", "Die Bucht ist ein beliebter Drehort für internationale Film- und Fotoproduktionen.", "Es gibt keine vorgelagerten Riffe, was die Brandung hier besonders stark macht."],
+      hu: ["Grand Anse Mahé egyik legszélesebb homokos tengerparti szakasza.", "A délkeleti monszun idején (május-október) a fürdőzés életveszélyes lehet.", "A területen található a Seychelle-szigeteki Műsorszolgáltató Társaság központja.", "A strand mögötti mocsaras terület fontos ökológiai pufferzóna.", "A hullámok ereje miatt a partvonal folyamatosan változtatja alakját.", "Grand Anse híres a tiszta, fényszennyezéstől mentes csillagos egéről éjszaka."],
+      ro: ["Grand Anse este una dintre cele mai late plaje de nisip de pe insula Mahé.", "Înotul este strict interzis în timpul musonului de sud-est (mai-octombrie).", "Regiunea găzduiește sediul central al Seychelles Broadcasting Corporation.", "Zona umedă din spatele plajei este un habitat protejat pentru specii rare.", "Absența recifelor de barieră permite valurilor să ajungă la țărm cu forță maximă.", "Grand Anse este renumită pentru apusurile sale de soare neobstrucționate."],
+      en: ["Grand Anse is among the widest sandy beaches on the main island of Mahé.", "Swimming is highly discouraged or prohibited during the Southeast Monsoon.", "The area is home to the main transmission site for the Seychelles Broadcasting Corporation.", "The wetlands behind the beach are a habitat for rare endemic dragonflies.", "Unlike most Seychelles beaches, it lacks an offshore reef to break the waves.", "It is a preferred location for professional photography due to its sheer scale."],
+    },
+  },
   {
     id: "sc-barbarons-cities-v2",
     type: "city",
@@ -961,7 +1181,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Vacoa tanösvény", "Nyugati parti fekvés", "Üdülőhelyi helyszín"],
       ro: ["Traseul natural Vacoa", "Locație pe coasta de vest", "Locație de resort"],
       en: ["Vacoa Nature Trail", "West coast location", "Resort location"]
-    }, image: "/poi-images/sc-barbarons-cities-v2.webp"},
+    }, image: "/poi-images/sc-barbarons-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Das Seychelles Biodiversity Centre in Barbarons schützt bedrohte endemische Pflanzen.", "Der Vacoa Nature Trail führt durch Mangroven und Küstenwälder.", "Barbarons Beach ist einer der wenigen Strände auf Mahé, der zum Surfen geeignet ist.", "Die Region beherbergt eine der größten Baumschulen für endemische Arten im Land.", "Der Strand ist bekannt für seine starken Gezeiten und wechselnden Sandbänke.", "Barbarons liegt etwa 20 Autominuten von der Hauptstadt Victoria entfernt."],
+      hu: ["A Seychelle-szigeteki Biodiverzitás Központ Barbaronsban őrzi a veszélyeztetett fajokat.", "A Vacoa Nature Trail tanösvényen keresztül megismerhető a partmenti ökoszisztéma.", "Barbarons strandja híres a szörfözésre alkalmas, erőteljes hullámairól.", "A település ad otthont az ország legnagyobb endemikus növénykertészetének.", "A partvonalat meghatározó Vacoa-pálmák leveleit hagyományosan kosárfonásra használták.", "Barbarons fontos megállóhely a Mahé nyugati partján végighaladó panorámaúton."],
+      ro: ["Centrul de Biodiversitate din Barbarons protejează specii de plante pe cale de dispariție.", "Traseul Vacoa Nature Trail traversează zone de mangrove și păduri tropicale.", "Plaja Barbarons este recunoscută ca fiind un punct excelent pentru surf.", "Regiunea găzduiește o pepinieră vastă dedicată speciilor de arbori endemici.", "Nisipul de pe plajă are o textură fină, dar curenții pot fi imprevizibili.", "Barbarons se află la o distanță de aproximativ 15 km de Aeroportul Internațional."],
+      en: ["The Seychelles Biodiversity Centre in Barbarons preserves endangered endemic plants.", "The Vacoa Nature Trail offers a guided look at mangroves and coastal flora.", "Barbarons Beach is noted for its surf breaks during the appropriate season.", "The area contains the largest nursery for native plants in the entire archipelago.", "The beach is characterized by its wide shoreline and lack of a protective reef.", "Barbarons is a key residential area for those working in the Grand Anse district."],
+    },
+  },
   {
     id: "sc-misere-cities-v2",
     type: "city",
@@ -990,7 +1217,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Kilátópont", "Hűvösebb éghajlat", "Központi hegyi út"],
       ro: ["Punct de belvedere", "Climat mai răcoros", "Drum montan central"],
       en: ["Viewpoint", "Cooler climate", "Central mountain road"]
-    }, image: "/poi-images/sc-misere-cities-v2.webp"},
+    }, image: "/poi-images/sc-misere-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die ehemalige US-Tracking-Station in Misere war von 1963 bis 1996 in Betrieb.", "Der Ort liegt an einem der höchsten befahrbaren Pässe der Insel Mahé.", "Misere beherbergt die Hauptstation von Cable & Wireless auf den Seychellen.", "Die Temperaturen sind hier oft 3-4 Grad niedriger als an der Küste.", "Von hier aus hat man einen direkten Blick auf den internationalen Flughafen.", "Der Ort ist bekannt für seine üppigen Berggärten und fruchtbaren Böden."],
+      hu: ["Az egykori amerikai műholdkövető állomás 1963 és 1996 között működött itt.", "Misere az egyik legfontosabb stratégiai pont Mahé távközlési hálózatában.", "A hágó legmagasabb pontjáról egyszerre látható a sziget keleti és nyugati partja.", "A falu klímája ideális bizonyos olyan növényeknek, amelyek a parton nem élnek meg.", "A Misere-út meredeksége miatt különleges vezetési technikát igényel.", "A település népszerű a külföldi rezidensek körében a panoráma és a hűvös idő miatt."],
+      ro: ["Fosta stație de urmărire a SUA din Misere a fost activă între anii 1963 și 1996.", "Localitatea se află în cel mai înalt punct de trecere rutieră între estul și vestul insulei.", "Misere este un centru vital pentru transmisiunile de televiziune și internet.", "Temperatura medie este semnificativ mai scăzută decât în capitala Victoria.", "Din Misere se pot vedea simultan mai multe insule din parcul marin Sainte Anne.", "Solul vulcanic fertil din zonă permite cultivarea multor soiuri de fructe tropicale."],
+      en: ["The former US satellite tracking station in Misere operated from 1963 to 1996.", "Misere sits on one of the highest navigable mountain passes on Mahé island.", "The village is a primary hub for the country's national telecommunications grid.", "Its elevation results in a climate that is noticeably cooler than the coastal plains.", "The area offers a direct line-of-sight view of the Seychelles International Airport.", "It is a prestigious residential area known for its dramatic hillside architecture."],
+    },
+  },
   {
     id: "sc-foret-noire-cities-v2",
     type: "city",
@@ -1019,7 +1253,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Buja erdők", "Összekötő út", "Tanösvények"],
       ro: ["Păduri luxuriante", "Drum de legătură", "Trasee naturale"],
       en: ["Lush forests", "Connecting road", "Nature trails"]
-    }, image: "/poi-images/sc-foret-noire-cities-v2.webp"},
+    }, image: "/poi-images/sc-foret-noire-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Foret Noire liegt innerhalb des größten Nationalparks der Seychellen.", "Die Teefabrik der Seychellen wurde hier im Jahr 1962 gegründet.", "Die Region erhält deutlich mehr Niederschlag als die Küstengebiete.", "Hier wachsen zahlreiche endemische Pflanzen wie die Seychellen-Kannenpflanze.", "Die Straße ist eine der wichtigsten Verbindungen zwischen Victoria und Port Glaud.", "Foret Noire bedeutet übersetzt aus dem Französischen 'Schwarzwald'."],
+      hu: ["Foret Noire a Seychelle-szigetek legnagyobb nemzeti parkjában található.", "A Seychelle-szigeteki teagyárat 1962-ben alapították ezen a területen.", "A régióban jelentősen több csapadék esik, mint a part menti területeken.", "Számos endemikus növény, például a seychelle-i kancsóka nő itt.", "Az út az egyik legfontosabb összeköttetés Victoria és Port Glaud között.", "A Foret Noire név franciául 'Fekete-erdőt' jelent."],
+      ro: ["Foret Noire se află în cel mai mare parc național din Seychelles.", "Fabrica de ceai din Seychelles a fost fondată aici în anul 1962.", "Regiunea primește semnificativ mai multe precipitații decât zonele de coastă.", "Aici cresc numeroase plante endemice, cum ar fi planta ulcior din Seychelles.", "Drumul este una dintre cele mai importante legături între Victoria și Port Glaud.", "Foret Noire se traduce din franceză prin 'Pădurea Neagră'."],
+      en: ["Foret Noire is located within the largest national park in the Seychelles.", "The Seychelles tea factory was founded here in 1962.", "The region receives significantly more rainfall than the coastal areas.", "Numerous endemic plants, such as the Seychelles pitcher plant, grow here.", "The road is one of the most important links between Victoria and Port Glaud.", "Foret Noire translates from French as 'Black Forest'."],
+    },
+  },
   {
     id: "sc-port-launay-cities-v2",
     type: "city",
@@ -1048,7 +1289,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Tengeri nemzeti park", "Nyugodt víz", "Népszerű piknikezőhely"],
       ro: ["Parc Național Marin", "Apă liniștită", "Popular pentru picnicuri"],
       en: ["Marine National Park", "Calm water", "Popular for picnics"]
-    }, image: "/poi-images/sc-port-launay-cities-v2.webp"},
+    }, image: "/poi-images/sc-port-launay-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Port Launay wurde 1979 offiziell zum Meeresnationalpark erklärt.", "Die Bucht beherbergt alle sieben auf den Seychellen vorkommenden Mangrovenarten.", "In der Nähe befindet sich ein kleiner Wasserfall, der nach einer kurzen Wanderung erreichbar ist.", "Das Wasser ist hier so ruhig, dass es ideal zum Stand-Up-Paddling geeignet ist.", "Der Park schützt seltene Fischarten wie den indopazifischen Segelfisch.", "Port Launay ist ein ausgewiesenes RAMSAR-Gebiet von internationaler Bedeutung."],
+      hu: ["Port Launay-t 1979-ben nyilvánították hivatalosan tengeri nemzeti parkká.", "Az öbölben mind a hét Seychelle-szigeteken előforduló mangrovéfaj megtalálható.", "A közelben található egy kis vízesés, amely rövid túrával elérhető.", "A víz itt olyan nyugodt, hogy ideális a stand-up paddlinghez.", "A park olyan ritka halfajokat véd, mint az indopacifikus vitorláshal.", "Port Launay nemzetközi jelentőségű RAMSAR-területként van nyilvántartva."],
+      ro: ["Port Launay a fost declarat oficial parc național marin în 1979.", "Golful găzduiește toate cele șapte specii de mangrove găsite în Seychelles.", "În apropiere se află o mică cascadă, accesibilă după o scurtă drumeție.", "Apa este atât de liniștită aici încât este ideală pentru stand-up paddling.", "Parcul protejează specii de pești rare, cum ar fi peștele velă indopacific.", "Port Launay este un sit RAMSAR desemnat de importanță internațională."],
+      en: ["Port Launay was officially declared a marine national park in 1979.", "The bay is home to all seven species of mangroves found in the Seychelles.", "Nearby is a small waterfall, accessible after a short hike.", "The water here is so calm that it is ideal for stand-up paddling.", "The park protects rare fish species such as the Indo-Pacific sailfish.", "Port Launay is a designated RAMSAR site of international importance."],
+    },
+  },
   {
     id: "sc-baie-ternay-cities-v2",
     type: "city",
@@ -1077,7 +1325,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Elszigetelt fekvés", "Kiváló sznorkelezés", "Érintetlen természet"],
       ro: ["Locație izolată", "Snorkeling excelent", "Natură neatinsă"],
       en: ["Remote location", "Excellent snorkeling", "Pristine nature"]
-    }, image: "/poi-images/sc-baie-ternay-cities-v2.webp"},
+    }, image: "/poi-images/sc-baie-ternay-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Baie Ternay wurde im Jahr 1979 als Meeresnationalpark geschützt.", "In der Bucht werden saisonal oft Walhaie gesichtet.", "Es gibt keine öffentlichen Straßen, die direkt in die Bucht führen.", "Die Korallendichte in Baie Ternay gehört zu den höchsten auf Mahé.", "Wissenschaftler nutzen die Bucht oft für marine Forschungsstudien.", "Die Bucht diente früher als Versteck für Schiffe während Stürmen."],
+      hu: ["Baie Ternay-t 1979-ben helyezték tengeri nemzeti parki védelem alá.", "Az öbölben szezonálisan gyakran láthatók cetcápák.", "Nincsenek közutak, amelyek közvetlenül az öbölbe vezetnének.", "A korall sűrűsége Baie Ternay-ban az egyik legmagasabb Mahén.", "A tudósok gyakran használják az öblöt tengeri kutatásokhoz.", "Az öböl korábban hajók búvóhelyeként szolgált viharok idején."],
+      ro: ["Baie Ternay a fost protejată ca parc național marin în 1979.", "În golf sunt adesea văzuți rechini balenă în mod sezonier.", "Nu există drumuri publice care să ducă direct în golf.", "Densitatea coralilor din Baie Ternay este una dintre cele mai ridicate de pe Mahé.", "Oamenii de știință folosesc adesea golful pentru studii de cercetare marină.", "Golful a servit anterior ca ascunzătoare pentru nave în timpul furtunilor."],
+      en: ["Baie Ternay was protected as a marine national park in 1979.", "Whale sharks are often sighted seasonally in the bay.", "There are no public roads leading directly into the bay.", "The coral density in Baie Ternay is among the highest on Mahé.", "Scientists often use the bay for marine research studies.", "The bay formerly served as a hideout for ships during storms."],
+    },
+  },
   {
     id: "sc-danzil-cities-v2",
     type: "city",
@@ -1106,7 +1361,13 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Túraútvonal kezdete", "Kilátás az óceánra", "Elszigetelt"],
       ro: ["Start traseu drumeție", "Vedere la ocean", "Izolat"],
       en: ["Trailhead for hiking", "Ocean views", "Secluded"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Danzil ist der letzte Punkt im Nordwesten von Mahé, der mit dem Auto erreichbar ist.", "Der Anse Major Trail startet direkt hinter den letzten Wohnhäusern von Danzil.", "Von Danzil aus hat man einen der besten Ausblicke auf die Insel Silhouette.", "Die Region ist bekannt für ihre massiven Granitfelsen, die oft zum Klettern genutzt werden.", "In der Nähe befindet sich das Bel Ombre Treasure Site, ein Ort voller Legenden.", "Es gibt eine lokale Busverbindung, die Danzil mit Victoria verbindet."],
+      hu: ["Danzil Mahé északnyugati részének utolsó autóval elérhető pontja.", "Az Anse Major Trail közvetlenül Danzil utolsó lakóházai mögött indul.", "Danzilból nyílik az egyik legjobb kilátás Silhouette szigetére.", "A régió hatalmas gránitszikláiról ismert, amelyeket gyakran használnak sziklamászásra.", "A közelben található a Bel Ombre kincslelőhely, egy legendákkal teli hely.", "Helyi buszjárat köti össze Danzilt Victoriával."],
+      ro: ["Danzil este ultimul punct din nord-vestul insulei Mahé accesibil cu mașina.", "Traseul Anse Major începe direct în spatele ultimelor case din Danzil.", "Din Danzil se poate vedea una dintre cele mai bune priveliști ale insulei Silhouette.", "Regiunea este cunoscută pentru stâncile sale masive de granit, folosite adesea pentru alpinism.", "În apropiere se află situl comorii Bel Ombre, un loc plin de legende.", "Există o conexiune locală de autobuz care leagă Danzil de Victoria."],
+      en: ["Danzil is the last point in northwest Mahé accessible by car.", "The Anse Major Trail starts directly behind the last houses of Danzil.", "From Danzil, you have one of the best views of Silhouette Island.", "The region is known for its massive granite rocks, often used for climbing.", "Nearby is the Bel Ombre treasure site, a place full of legends.", "There is a local bus connection linking Danzil with Victoria."],
+    },
   },
   {
     id: "sc-mare-anglaise-cities-v2",
@@ -1136,7 +1397,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Beau Vallon közelében", "Lakóövezet", "Turisztikai szállások"],
       ro: ["Lângă Beau Vallon", "Zonă rezidențială", "Unități de cazare turistice"],
       en: ["Near Beau Vallon", "Residential area", "Tourist accommodations"]
-    }, image: "/poi-images/sc-mare-anglaise-cities-v2.webp"},
+    }, image: "/poi-images/sc-mare-anglaise-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Mare Anglaise beherbergt einige der ältesten Gasthäuser im Norden von Mahé.", "Der Bezirk liegt im Einzugsgebiet des beliebten Beau Vallon Night Markets.", "Der Name bedeutet wörtlich 'Englisches Meer' oder 'Englischer Sumpf'.", "Die Region hat eine hohe Dichte an Tauchzentren und Wassersportanbietern.", "Mare Anglaise ist ein wichtiger Knotenpunkt für den öffentlichen Nahverkehr.", "In der Nähe befinden sich mehrere historische Friedhöfe aus der Kolonialzeit."],
+      hu: ["Mare Anglaise ad otthont Mahé északi részének néhány legrégebbi vendégházának.", "A negyed a népszerű Beau Vallon éjszakai piac vonzáskörzetében található.", "A név szó szerinti jelentése 'angol tenger' vagy 'angol mocsár'.", "A régióban nagy sűrűségben találhatók búvárközpontok és vízisport-szolgáltatók.", "Mare Anglaise a tömegközlekedés egyik fontos csomópontja.", "A közelben több történelmi temető található a gyarmati időszakból."],
+      ro: ["Mare Anglaise găzduiește unele dintre cele mai vechi pensiuni din nordul insulei Mahé.", "Districtul se află în zona de influență a popularei piețe de noapte Beau Vallon.", "Numele înseamnă literal 'Mare Engleză' sau 'Mlaștină Engleză'.", "Regiunea are o densitate mare de centre de scufundări și furnizori de sporturi nautice.", "Mare Anglaise este un nod important pentru transportul public.", "În apropiere se află mai multe cimitire istorice din epoca colonială."],
+      en: ["Mare Anglaise houses some of the oldest guesthouses in the north of Mahé.", "The district is within the catchment area of the popular Beau Vallon night market.", "The name literally means 'English Sea' or 'English Marsh'.", "The region has a high density of diving centers and water sports providers.", "Mare Anglaise is a major hub for public transportation.", "Several historical cemeteries from the colonial era are located nearby."],
+    },
+  },
   {
     id: "sc-machabee-cities-v2",
     type: "city",
@@ -1165,7 +1433,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Mahé északi partja", "Sziklás partok", "Kevésbé kiépített"],
       ro: ["Coasta de nord a Mahé", "Țărmuri stâncoase", "Mai puțin dezvoltat"],
       en: ["North coast of Mahé", "Rocky shores", "Less developed"]
-    }, image: "/poi-images/sc-machabee-cities-v2.webp"},
+    }, image: "/poi-images/sc-machabee-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Machabee ist einer der nördlichsten bewohnten Orte auf der Hauptinsel Mahé.", "In der Region gibt es mehrere kleine 'Secret Beaches', die nur bei Ebbe zugänglich sind.", "Der Name Machabee stammt vermutlich von einer lokalen Pflanzenart oder einem Familiennamen.", "Die Gewässer um Machabee sind reich an Fisch und beliebt bei lokalen Anglern.", "In Machabee befindet sich das North East Point Hospital in unmittelbarer Nähe.", "Die Küste ist hier besonders anfällig für die Kraft des Nordmonsuns."],
+      hu: ["Machabee az egyik legészakibb lakott település Mahé főszigetén.", "A régióban több apró 'titkos strand' található, amelyek csak apálykor érhetők el.", "A Machabee név valószínűleg egy helyi növényfajtól vagy családnévtől származik.", "A Machabee körüli vizek halban gazdagok, és népszerűek a helyi horgászok körében.", "A közelben található a North East Point Kórház.", "A partvonal itt különösen ki van téve az északi monszun erejének."],
+      ro: ["Machabee este una dintre cele mai nordice localități locuite de pe insula principală Mahé.", "În regiune există mai multe 'plaje secrete' mici, accesibile doar la reflux.", "Numele Machabee provine probabil de la o specie locală de plante sau de la un nume de familie.", "Apele din jurul Machabee sunt bogate în pește și populare printre pescarii locali.", "Spitalul North East Point se află în imediata apropiere de Machabee.", "Coasta este aici deosebit de vulnerabilă la forța musonului de nord."],
+      en: ["Machabee is one of the northernmost inhabited places on the main island of Mahé.", "There are several small 'secret beaches' in the region accessible only at low tide.", "The name Machabee likely originates from a local plant species or a family name.", "The waters around Machabee are rich in fish and popular with local anglers.", "North East Point Hospital is located in the immediate vicinity of Machabee.", "The coast here is particularly vulnerable to the force of the North Monsoon."],
+    },
+  },
   {
     id: "sc-de-quincey-cities-v2",
     type: "city",
@@ -1194,7 +1469,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Domboldali lakóövezet", "A fővárostól északra", "Csendes légkör"],
       ro: ["Zonă rezidențială pe deal", "La nord de capitală", "Atmosferă liniștită"],
       en: ["Hillside residential area", "North of the capital", "Quiet atmosphere"]
-    }, image: "/poi-images/sc-de-quincey-cities-v2.webp"},
+    }, image: "/poi-images/sc-de-quincey-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Jean-Baptiste Quéau de Quincy, der Namensgeber, war 18 Jahre lang Gouverneur.", "De Quincey liegt im Bezirk English River (Rivière Anglaise).", "Die Region beherbergt wichtige soziale Einrichtungen wie Seniorenheime.", "Von den Hügeln in De Quincey hat man einen weiten Blick über die Ste. Anne Marine Park.", "Der Ort ist bekannt für seine engen, steilen Gassen und dichte Bebauung.", "Es gibt mehrere historische Denkmäler, die an die französische Ära erinnern."],
+      hu: ["Névadója, Jean-Baptiste Quéau de Quincy 18 évig volt kormányzó.", "De Quincey az English River (Rivière Anglaise) negyedben található.", "A régió fontos szociális intézményeknek, például idősotthonoknak ad otthont.", "De Quincey dombjairól tágas kilátás nyílik a Ste. Anne tengeri parkra.", "A hely szűk, meredek utcáiról és sűrű beépítettségéről ismert.", "Számos történelmi emlékmű található itt, amely a francia korszakra emlékeztet."],
+      ro: ["Jean-Baptiste Quéau de Quincy, cel care a dat numele localității, a fost guvernator timp de 18 ani.", "De Quincey se află în districtul English River (Rivière Anglaise).", "Regiunea găzduiește instituții sociale importante, cum ar fi căminele de bătrâni.", "De pe dealurile din De Quincey se poate vedea Parcul Marin Ste. Anne.", "Locul este cunoscut pentru străzile sale înguste și abrupte și densitatea clădirilor.", "Există mai multe monumente istorice care amintesc de epoca franceză."],
+      en: ["Jean-Baptiste Quéau de Quincy, the namesake, served as governor for 18 years.", "De Quincey is located in the English River (Rivière Anglaise) district.", "The region houses important social facilities such as elderly care homes.", "From the hills in De Quincey, there is a wide view over the Ste. Anne Marine Park.", "The place is known for its narrow, steep alleys and dense construction.", "Several historical monuments commemorate the French era in the area."],
+    },
+  },
   {
     id: "sc-petit-paris-cities-v2",
     type: "city",
@@ -1223,7 +1505,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Keleti parti út", "Kis település", "Hegyi díszlet"],
       ro: ["Drumul de pe coasta de est", "Așezare mică", "Decor montan"],
       en: ["East coast road", "Small settlement", "Mountainous backdrop"]
-    }, image: "/poi-images/sc-petit-paris-cities-v2.webp"},
+    }, image: "/poi-images/sc-petit-paris-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Liegt im administrativen Distrikt Cascade an der Ostküste.", "Befindet sich etwa 5 Kilometer südlich der Hauptstadt Victoria.", "Die Region profitiert von der Nähe zum 1971 eröffneten Flughafen.", "Gehört zum wirtschaftlich aktiven Korridor zwischen Victoria und dem Flughafen.", "Das Gelände besteht teilweise aus aufgeschüttetem Land (Reclamation).", "Die Umgebung ist durch das Kraftwerk Roche Caiman infrastrukturell geprägt."],
+      hu: ["A Cascade adminisztratív kerületben található a keleti parton.", "Körülbelül 5 kilométerre délre fekszik Victoria fővárostól.", "A régió sokat profitál az 1971-ben megnyitott repülőtér közelségéből.", "A Victoria és a repülőtér közötti gazdaságilag aktív folyosó része.", "A terület egy része mesterségesen feltöltött földterületen fekszik.", "A környezetet a Roche Caiman erőmű infrastruktúrája határozza meg."],
+      ro: ["Situat în districtul administrativ Cascade, pe coasta de est.", "Se află la aproximativ 5 kilometri sud de capitala Victoria.", "Regiunea beneficiază de proximitatea aeroportului deschis în 1971.", "Face parte din coridorul economic activ dintre Victoria și aeroport.", "Terenul include zone obținute prin procese de asanare și umplere.", "Împrejurimile sunt marcate de infrastructura centralei Roche Caiman."],
+      en: ["Located in the Cascade administrative district on the east coast.", "Situated approximately 5 kilometers south of the capital, Victoria.", "The area benefits from proximity to the airport opened in 1971.", "Part of the economically active corridor between Victoria and the airport.", "Portions of the area sit on reclaimed land along the coast.", "The surroundings are influenced by the Roche Caiman power plant infrastructure."],
+    },
+  },
   {
     id: "sc-brillant-cities-v2",
     type: "city",
@@ -1252,7 +1541,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Repülőtér közelsége", "Ipari terület", "Tengerparti fekvés"],
       ro: ["Lângă aeroport", "Zonă industrială", "Locație pe coastă"],
       en: ["Airport proximity", "Industrial area", "Coastal location"]
-    }, image: "/poi-images/sc-brillant-cities-v2.webp"},
+    }, image: "/poi-images/sc-brillant-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Gehört größtenteils zu den Distrikten Roche Caiman und Les Mamelles.", "Liegt auf Land, das größtenteils durch Reclamation gewonnen wurde.", "Das nahegelegene Stad Linyite wurde 1993 für Sportspiele eröffnet.", "Bietet einen Blick auf den Ste. Anne Marine National Park.", "Wird durch den Providence Highway mit Victoria verbunden.", "Beherbergt bedeutende soziale Wohnungsbauprojekte der 1990er Jahre."],
+      hu: ["Nagyrészt Roche Caiman és Les Mamelles kerületekhez tartozik.", "A terület nagy részét tengerparti feltöltéssel nyerték ki.", "A közeli Stad Linyite stadiont 1993-ban adták át sporteseményekre.", "Kilátást nyújt a Ste. Anne Tengeri Nemzeti Park szigeteire.", "A Providence Highway autópálya köti össze Victoria városával.", "Az 1990-es évek jelentős szociális lakásépítési projektjeinek helyszíne."],
+      ro: ["Aparține în principal districtelor Roche Caiman și Les Mamelles.", "Situat pe teren obținut în mare parte prin asanare costieră.", "Stadionul Stad Linyite din apropiere a fost inaugurat în 1993.", "Oferă vedere directă către Parcul Național Marin Ste. Anne.", "Conectat de Victoria prin autostrada principală Providence Highway.", "Găzduiește proiecte majore de locuințe sociale din anii 1990."],
+      en: ["Part of the Roche Caiman and Les Mamelles administrative districts.", "Situated on land largely created through coastal reclamation.", "Home to the Stad Linyite stadium, opened for the 1993 games.", "Offers a direct view of the Ste. Anne Marine National Park.", "Connected to Victoria via the main Providence Highway.", "Features significant social housing developments from the 1990s."],
+    },
+  },
   {
     id: "sc-providence-cities-v2",
     type: "city",
@@ -1281,7 +1577,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Kereskedelmi övezet", "Gazdasági szív", "Feltöltött területen"],
       ro: ["Zonă comercială", "Inima economică", "Pe teren recuperat"],
       en: ["Commercial zone", "Economic heart", "On reclaimed land"]
-    }, image: "/poi-images/sc-providence-cities-v2.webp"},
+    }, image: "/poi-images/sc-providence-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Wurde durch das East Coast Phase III Reclamation-Projekt geschaffen.", "Liegt vollständig auf künstlich gewonnenem Meeresboden.", "Dient als zentrales Industriegebiet für die gesamte Insel Mahé.", "Beherbergt den Hauptsitz zahlreicher Logistikunternehmen.", "Wird durch den Providence Highway logistisch erschlossen.", "Befindet sich zwischen dem Flughafen und der Hauptstadt Victoria."],
+      hu: ["Az East Coast Phase III földfeltöltési projekt során jött létre.", "Teljes egészében mesterségesen nyert tengerfenéken fekszik.", "Központi ipari zónaként szolgál Mahé egész szigete számára.", "Számos logisztikai vállalat központjának ad otthont.", "A Providence Highway autópálya biztosítja a logisztikai hozzáférést.", "A nemzetközi repülőtér és Victoria főváros között található."],
+      ro: ["Creat prin proiectul de asanare East Coast Phase III.", "Situat în întregime pe teren câștigat artificial din mare.", "Servește ca zonă industrială centrală pentru întreaga insulă Mahé.", "Găzduiește sediile a numeroase companii de logistică.", "Deservit logistic de autostrada principală Providence Highway.", "Poziționat între aeroportul internațional și capitala Victoria."],
+      en: ["Created during the East Coast Phase III reclamation project.", "Situated entirely on land reclaimed from the sea floor.", "Functions as the central industrial zone for the island of Mahé.", "Houses the headquarters of numerous logistics companies.", "Logistically serviced by the main Providence Highway.", "Located between the international airport and the capital, Victoria."],
+    },
+  },
   {
     id: "sc-turtle-bay-cities-v2",
     type: "city",
@@ -1310,7 +1613,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Au Cap területén", "Népszerű strand", "Történelmi név"],
       ro: ["Situat în Au Cap", "Plajă populară", "Nume istoric"],
       en: ["Located in Au Cap", "Popular beach", "Historic name"]
-    }, image: "/poi-images/sc-turtle-bay-cities-v2.webp"},
+    }, image: "/poi-images/sc-turtle-bay-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Beherbergt das Domaine de Val des Près (Craft Village).", "Das Haupthaus Grann Kaz stammt aus dem Jahr 1870.", "Die Bucht ist für extrem flaches Wasser bei Ebbe bekannt.", "Liegt im administrativen Distrikt Au Cap.", "Ein Korallenriff erstreckt sich etwa 500 Meter vor der Küste.", "Wird oft von Kitesurfern bei passenden Windbedingungen genutzt."],
+      hu: ["Itt található a Domaine de Val des Près kézműves falu.", "A Grann Kaz főépület 1870-ből származik.", "Az öböl apálykor rendkívül sekély vizéről ismert.", "Au Cap adminisztratív kerületében található.", "Egy korallzátony húzódik körülbelül 500 méterre a parttól.", "Megfelelő szélviszonyok esetén gyakran használják kiteszörfösök."],
+      ro: ["Găzduiește satul artizanal Domaine de Val des Près.", "Casa principală Grann Kaz datează din anul 1870.", "Golful este cunoscut pentru apele extrem de mici la reflux.", "Situat în districtul administrativ Au Cap.", "Un recif de corali se întinde la aproximativ 500 de metri de țărm.", "Este frecvent utilizat de kitesurferi în condiții de vânt favorabile."],
+      en: ["Home to the Domaine de Val des Près (Craft Village).", "The main house, Grann Kaz, dates back to 1870.", "The bay is known for extremely shallow water during low tide.", "Located within the Au Cap administrative district.", "A coral reef extends about 500 meters from the shoreline.", "Frequently used by kitesurfers during suitable wind conditions."],
+    },
+  },
   {
     id: "sc-val-dendore-cities-v2",
     type: "city",
@@ -1339,7 +1649,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Mezőgazdasági völgy", "Dél-Mahé", "Zöld táj"],
       ro: ["Vale agricolă", "Sudul Mahé", "Peisaj verde"],
       en: ["Agricultural valley", "South Mahé", "Green landscape"]
-    }, image: "/poi-images/sc-val-dendore-cities-v2.webp"},
+    }, image: "/poi-images/sc-val-dendore-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Liegt im administrativen Distrikt Baie Lazare.", "Gilt als eines der wichtigsten landwirtschaftlichen Gebiete auf Mahé.", "Wird von den Granitmassiven des Südens eingerahmt.", "Beherbergt seltene endemische Pflanzenarten in den Hanglagen.", "Die Siedlung ist durch Streubauweise und Gärten geprägt.", "Bietet Zugang zu Wanderwegen Richtung Anse Takamaka."],
+      hu: ["Baie Lazare adminisztratív kerületében fekszik.", "Mahé egyik legfontosabb mezőgazdasági területének számít.", "A déli rész gránitmasszívumai keretezik a völgyet.", "A hegyoldalakon ritka endemikus növényfajok találhatók.", "A települést szóródott építkezés és nagy kertek jellemzik.", "Hozzáférést biztosít az Anse Takamaka felé vezető túraútvonalakhoz."],
+      ro: ["Situat în districtul administrativ Baie Lazare.", "Considerată una dintre cele mai importante zone agricole de pe Mahé.", "Încadrată de masivele granitice din sudul insulei.", "Găzduiește specii de plante endemice rare pe versanți.", "Așezarea este marcată de construcții dispersate și grădini mari.", "Oferă acces la trasee de drumeție către Anse Takamaka."],
+      en: ["Located within the Baie Lazare administrative district.", "Considered one of the primary agricultural areas on Mahé.", "Framed by the granite massifs of the southern part of the island.", "Home to rare endemic plant species on the higher slopes.", "The settlement is characterized by scattered housing and gardens.", "Provides access to hiking trails leading towards Anse Takamaka."],
+    },
+  },
   {
     id: "sc-quatre-bornes-cities-v2",
     type: "city",
@@ -1368,7 +1685,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Vidéki település", "Dél-Mahé", "Hagyományos élet"],
       ro: ["Așezare rurală", "Sudul Mahé", "Viață tradițională"],
       en: ["Rural settlement", "South Mahé", "Traditional life"]
-    }, image: "/poi-images/sc-quatre-bornes-cities-v2.webp"},
+    }, image: "/poi-images/sc-quatre-bornes-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Ist das administrative Zentrum des Distrikts Takamaka.", "Beherbergt die markante St. Mary Magdalene Kirche.", "Liegt am strategischen Kreuzungspunkt der südlichen Hauptstraßen.", "Befindet sich etwa 25 Kilometer südlich der Hauptstadt Victoria.", "Dient als Versorgungszentrum für die Bewohner von Anse Intendance.", "Die Region ist bekannt für den Erhalt kreolischer Traditionen."],
+      hu: ["Takamaka kerület közigazgatási központja.", "Itt található a jellegzetes Szent Mária Magdolna-templom.", "A déli főutak stratégiai kereszteződésében fekszik.", "Körülbelül 25 kilométerre délre található Victoria fővárostól.", "Ellátó központként szolgál az Anse Intendance környékén élőknek.", "A régió a kreol hagyományok megőrzéséről ismert."],
+      ro: ["Este centrul administrativ al districtului Takamaka.", "Găzduiește biserica emblematică Sfânta Maria Magdalena.", "Situat la intersecția strategică a drumurilor principale din sud.", "Se află la aproximativ 25 de kilometri sud de capitala Victoria.", "Servește drept centru de aprovizionare pentru locuitorii din Anse Intendance.", "Regiunea este cunoscută pentru păstrarea tradițiilor creole."],
+      en: ["Serves as the administrative center for the Takamaka district.", "Home to the distinctive St. Mary Magdalene Church.", "Located at the strategic junction of major southern roads.", "Situated approximately 25 kilometers south of the capital, Victoria.", "Acts as a supply hub for residents of the Anse Intendance area.", "The region is noted for the preservation of Creole traditions."],
+    },
+  },
   {
     id: "sc-sans-souci-cities-v2",
     type: "city",
@@ -1397,7 +1721,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Hűvös éghajlat", "Exkluzív villák", "Kilátás Victoriára"],
       ro: ["Climat răcoros", "Vile exclusiviste", "Vedere la Victoria"],
       en: ["Cool climate", "Exclusive villas", "Views of Victoria"]
-    }, image: "/poi-images/sc-sans-souci-cities-v2.webp"},
+    }, image: "/poi-images/sc-sans-souci-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Die Straße verbindet Victoria mit der Westküste über die Berge.", "Beherbergt die historische Mission Lodge (Venn's Town).", "Der Ort bietet die kühlsten Wohntemperaturen auf Mahé.", "Zahlreiche Botschaften haben hier ihre offizielle Residenz.", "Einst Standort bedeutender Vanille- und Zimtplantagen.", "Beginn des Wanderwegs zum 905 Meter hohen Morne Seychellois."],
+      hu: ["Az út Victoriát köti össze a nyugati parttal a hegyeken át.", "Itt található a történelmi Mission Lodge (Venn's Town).", "Ez a terület kínálja a leghűvösebb lakókörnyezetet Mahé szigetén.", "Számos nagykövetség itt tartja fenn hivatalos rezidenciáját.", "Valaha jelentős vanília- és fahéjültetvények helyszíne volt.", "Itt kezdődik a 905 méter magas Morne Seychellois-hoz vezető túraútvonal."],
+      ro: ["Drumul leagă Victoria de coasta de vest peste munți.", "Găzduiește situl istoric Mission Lodge (Venn's Town).", "Zona oferă cele mai scăzute temperaturi rezidențiale de pe Mahé.", "Numeroase ambasade își au aici reședința oficială.", "A fost cândva locul unor importante plantații de vanilie și scorțișoară.", "Punctul de pornire al traseului către vârful Morne Seychellois (905 m)."],
+      en: ["The road connects Victoria to the west coast across the mountains.", "Home to the historic Mission Lodge (Venn's Town) site.", "The area offers the coolest residential temperatures on Mahé.", "Numerous embassies maintain their official residences here.", "Formerly a location for significant vanilla and cinnamon plantations.", "Starting point for the hike to the 905-meter Morne Seychellois summit."],
+    },
+  },
   {
     id: "sc-vista-do-mar-cities-v2",
     type: "city",
@@ -1426,7 +1757,14 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Glacis területén", "Kilátás a tengerre", "Csendes környék"],
       ro: ["Situat în Glacis", "Vedere la mare", "Cartier liniștit"],
       en: ["Located in Glacis", "Sea views", "Quiet neighborhood"]
-    }, image: "/poi-images/sc-vista-do-mar-cities-v2.webp"},
+    }, image: "/poi-images/sc-vista-do-mar-cities-v2.webp",
+    factsAdvanced: {
+      de: ["Liegt im nördlichsten Distrikt von Mahé, Glacis.", "Bekannt für den Panoramablick auf die Insel Silhouette.", "Die Immobilien gehören zu den teuersten auf den Seychellen.", "Erbaut auf steilen Granithängen direkt über der Küste.", "Wird primär als exklusives Wohngebiet genutzt.", "Befindet sich etwa 10 Kilometer nördlich von Victoria."],
+      hu: ["Mahé legészakibb kerületében, Glacis-ban található.", "A Silhouette-szigetre nyíló panorámás kilátásáról ismert.", "Az itteni ingatlanok a legdrágábbak közé tartoznak a szigeteken.", "Meredek gránitlejtőkre épült közvetlenül a part felett.", "Elsősorban exkluzív lakóövezetként használják.", "Körülbelül 10 kilométerre északra fekszik Victoriától."],
+      ro: ["Situat în cel mai nordic district al insulei Mahé, Glacis.", "Cunoscut pentru vederea panoramică către insula Silhouette.", "Proprietățile de aici sunt printre cele mai scumpe din Seychelles.", "Construit pe pante granitice abrupte direct deasupra coastei.", "Utilizat în principal ca zonă rezidențială exclusivistă.", "Se află la aproximativ 10 kilometri nord de Victoria."],
+      en: ["Located in the northernmost district of Mahé, Glacis.", "Renowned for panoramic views of Silhouette Island.", "Properties here are among the most expensive in the Seychelles.", "Built on steep granite slopes directly above the coastline.", "Primary function is as an upscale residential neighborhood.", "Situated approximately 10 kilometers north of Victoria."],
+    },
+  },
   {
     id: "sc-quincy-village-cities-v2",
     type: "city",
@@ -1455,6 +1793,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       hu: ["Victoria külvárosa", "Helyi piac", "Jó összeköttetés"],
       ro: ["Suburbie a Victoriei", "Piață locală", "Conexiuni bune"],
       en: ["Suburb of Victoria", "Local market", "Good connections"]
-    }
+    },
+    factsAdvanced: {
+      de: ["Gehört zum administrativen Distrikt Anse Etoile.", "Liegt etwa 3 Kilometer nördlich des Stadtzentrums von Victoria.", "Bietet einen hervorragenden Blick auf den Hafen und Eden Island.", "Die Siedlung erstreckt sich über steile Hügelkämme.", "Wird primär von der einheimischen Mittelschicht bewohnt.", "Beherbergt mehrere kleine Handwerksbetriebe und lokale Läden."],
+      hu: ["Anse Etoile adminisztratív kerületéhez tartozik.", "Körülbelül 3 kilométerre északra fekszik Victoria városközpontjától.", "Kiváló kilátást nyújt a kikötőre és Eden Islandre.", "A település meredek dombhátakon terül el.", "Elsősorban a helyi középosztály lakhelye.", "Számos kis kézműves műhelynek és helyi boltnak ad otthont."],
+      ro: ["Aparține districtului administrativ Anse Etoile.", "Situat la aproximativ 3 kilometri nord de centrul orașului Victoria.", "Oferă o vedere excelentă asupra portului și insulei Eden.", "Așezarea se întinde peste crestele dealurilor abrupte.", "Locuit în principal de clasa de mijloc locală.", "Găzduiește mai multe ateliere meșteșugărești mici și magazine locale."],
+      en: ["Part of the Anse Etoile administrative district.", "Situated about 3 kilometers north of Victoria city center.", "Offers a superb vantage point over the harbor and Eden Island.", "The settlement spreads across steep hillside ridges.", "Primarily inhabited by the local middle-class population.", "Home to several small artisanal workshops and local shops."],
+    },
   }
 ];

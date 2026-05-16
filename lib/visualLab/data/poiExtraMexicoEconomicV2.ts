@@ -19,6 +19,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Second largest port in the country", "18-meter deep navigation channel", "Major steel export point", "Direct rail link to the USA"],
     },
     imageHint: "Aerial view of large container terminal in Lazaro Cardenas Port",
+    descriptionAdvanced: {
+      de: "Der Hafen von Lázaro Cárdenas ist einer der größten Seehäfen im Pazifikbecken und der zweitwichtigste in Mexiko. Er dient als Tor für den internationalen Handel zwischen Asien und Nordamerika und schlägt Mineralien, Container und Automobile um. Der Tiefgang des Hafens ermöglicht die Abfertigung der weltweit größten Containerschiffe. Er ist ein kritischer Knotenpunkt für die mexikanische Stahlindustrie und Agrarexporte.",
+      hu: "Lázaro Cárdenas kikötője a Csendes-óceáni medence egyik legnagyobb tengeri kikötője és Mexikó második legforgalmasabbja. Kapuként szolgál Ázsia és Észak-Amerika közötti nemzetközi kereskedelemben, ásványokat, konténereket és autókat kezelve. A kikötő mélyvízi merülése lehetővé teszi a világ legnagyobb konténerszállító hajóinak fogadását. Kritikus csomópont a mexikói acélipar és a központi régió mezőgazdasági exportja számára.",
+      ro: "Portul Lázaro Cárdenas este unul dintre cele mai mari porturi maritime din bazinul Pacificului și al doilea cel mai aglomerat din Mexic. Acesta servește drept poartă pentru comerțul internațional între Asia și America de Nord, manipulând minerale în vrac, containere și automobile. Pescajul adânc al portului îi permite să găzduiască cele mai mari nave portcontainer din lume. Este un centru critic pentru industria siderurgică mexicană și exporturile agricole.",
+      en: "The Port of Lázaro Cárdenas is one of the largest seaports in the Pacific Ocean basin and the second busiest in Mexico. It serves as a gateway for international trade between Asia and North America, handling bulk minerals, containers, and automobiles. The port's deep-water draft allows it to accommodate the world's largest container ships. It is a critical hub for the Mexican steel industry and agricultural exports from the central region.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1974.", "Das Hafengebiet umfasst über 1.500 Hektar.", "Maximale Tiefe von 18 Metern im Hauptkanal.", "Umschlag von über 1,2 Millionen TEU jährlich.", "Spezialisierte Terminals für Kohle und Eisenerz vorhanden.", "Direkter Anschluss an das Eisenbahnnetz der KCSM."],
+      hu: ["A kikötőt 1974-ben alapították.", "A kikötő területe meghaladja az 1500 hektárt.", "Maximális merülési mélysége 18 méter a főcsatornában.", "Évente több mint 1,2 millió TEU konténert kezel.", "Speciális terminálok működnek szén és vasérc számára.", "Közvetlen kapcsolat a Kansas City Southern de México vasúthálózattal."],
+      ro: ["Portul a fost înființat în anul 1974.", "Zona portuară acoperă peste 1.500 de hectare.", "Adâncime maximă de 18 metri în canalul principal.", "Manipulează peste 1,2 milioane TEU anual.", "Dispune de terminale dedicate pentru cărbune și minereu de fier.", "Conectat direct la rețeaua feroviară Kansas City Southern de México."],
+      en: ["Established in 1974.", "The port area covers over 1,500 hectares.", "Maximum depth of 18 meters in the main channel.", "Handles over 1.2 million TEUs annually.", "Dedicated terminals for specialized cargo like coal and iron ore.", "Connected to the Kansas City Southern de México railroad network."],
+    },
   },
   {
     id: "mexico-altamira-industrial-port-economic-v2",
@@ -38,6 +50,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Part of a 9,500-hectare complex", "Primary port for the northeast", "Heavy petrochemical focus", "Connected to 125 world ports"],
     },
     imageHint: "Industrial port facility with ships in Altamira Tamaulipas",
+    descriptionAdvanced: {
+      de: "Der Industriehafen von Altamira ist ein bedeutender maritimer Komplex im Bundesstaat Tamaulipas am Golf von Mexiko. Er ist auf petrochemische Produkte, Flüssiggut und die Stahlherstellung spezialisiert und unterstützt den Industriekorridor der Region. Der Hafen ist in einen Industriepark integriert, was erhebliche ausländische Investitionen im Energiesektor anzieht. Er dient als wichtiger Logistikpunkt für den Handel mit den USA und Europa.",
+      hu: "Altamira ipari kikötője egy jelentős tengeri komplexum Tamaulipas államban, a Mexikói-öböl partján. Petrolkémiai termékekre, folyékony ömlesztett árura és acélgyártásra specializálódott, támogatva a régió ipari folyosóját. A kikötő egy ipari parkkal integrált, ami jelentős külföldi befektetéseket vonz az energiaszektorba. Kulcsfontosságú logisztikai pont az Egyesült Államokkal és Európával folytatott kereskedelemben.",
+      ro: "Portul Industrial Altamira este un complex maritim major situat în statul Tamaulipas, la Golful Mexic. Acesta este specializat în produse petrochimice, lichide în vrac și fabricarea oțelului, susținând coridorul industrial al regiunii. Portul este integrat cu un parc industrial, atrăgând investiții străine semnificative în sectorul energetic. Servește ca punct logistic cheie pentru comerțul cu Statele Unite și Europa.",
+      en: "The Altamira Industrial Port is a major maritime complex located in the state of Tamaulipas on the Gulf of Mexico. It specializes in petrochemical products, liquid bulk, and steel manufacturing, supporting the industrial corridor of the region. The port is integrated with an industrial park, attracting significant foreign investment in the energy sector. It serves as a key logistics point for trade with the United States and Europe.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1985.", "Umfasst 3.500 Hektar für die industrielle Nutzung.", "Verfügt über 28 maritime Terminals.", "Umschlag von mehr als 20 Millionen Tonnen Fracht pro Jahr.", "Standort des größten LNG-Terminals im Golf von Mexiko.", "Verbindungen zu 125 Häfen weltweit."],
+      hu: ["1985-ben alapították.", "3500 hektárnyi területet foglal el ipari felhasználásra.", "28 tengeri terminállal rendelkezik.", "Évente több mint 20 millió tonna árut kezel.", "Itt található a Mexikói-öböl legnagyobb LNG-terminálja.", "Összeköttetésben áll a világ 125 kikötőjével."],
+      ro: ["Fondat în anul 1985.", "Include 3.500 de hectare destinate utilizării industriale.", "Dispune de 28 de terminale maritime.", "Manipulează peste 20 de milioane de tone de marfă pe an.", "Locația celui mai mare terminal GNL din Golful Mexic.", "Conexiuni cu 125 de porturi din întreaga lume."],
+      en: ["Founded in 1985.", "Area of 3,500 hectares for industrial use.", "Features 28 maritime terminals.", "Handles more than 20 million tons of cargo per year.", "Location of the largest LNG terminal in the Gulf of Mexico.", "Direct connection to 125 ports worldwide."],
+    },
   },
   {
     id: "mexico-fresnillo-silver-mine-economic-v2",
@@ -57,6 +81,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["World's largest primary silver mine", "Operated by Fresnillo plc", "Mining active since 1554", "Significant lead and zinc deposits"],
     },
     imageHint: "Headframe and industrial buildings of a silver mine in Fresnillo",
+    descriptionAdvanced: {
+      de: "Die Silbermine Fresnillo in Zacatecas gilt als die weltweit größte primäre Silbermine und ist seit Jahrhunderten in Betrieb. Sie produziert einen erheblichen Teil des weltweiten Silberangebots sowie Blei und Zink. Der Untertagebau nutzt fortschrittliche Technologien, um tiefe Erzadern zu erreichen. Die Mine ist das historische Fundament der Stadt Fresnillo und bleibt eine Säule der lokalen Wirtschaft.",
+      hu: "A Zacatecasban található Fresnillo ezüstbánya a világ legnagyobb elsődleges ezüstbányája, amely évszázadok óta üzemel. A globális ezüstkínálat jelentős részét termeli ki ólommal és cinkkel együtt. A föld alatti műveletek fejlett bányászati technológiákat alkalmaznak a mély ásványi erek eléréséhez. A bánya Fresnillo városának történelmi alapja és a helyi gazdaság pillére marad.",
+      ro: "Mina de argint Fresnillo din Zacatecas este recunoscută ca fiind cea mai mare mină de argint primar din lume și funcționează de secole. Aceasta produce o parte semnificativă din oferta globală de argint, alături de plumb și zinc. Operațiunile subterane utilizează tehnologii miniere avansate pentru a ajunge la filonul de minerale adânci. Mina este fundamentul istoric al orașului Fresnillo și rămâne un pilon al economiei locale.",
+      en: "The Fresnillo Silver Mine in Zacatecas is recognized as the world's largest primary silver mine and has been in operation for centuries. It produces a significant portion of the global silver supply along with lead and zinc. The underground operations use advanced mining technologies to reach deep mineral veins. The mine is the historical foundation of the city of Fresnillo and remains a pillar of the local economy.",
+    },
+    factsAdvanced: {
+      de: ["Bergbauaktivitäten sind seit 1554 dokumentiert.", "Besitz und Betrieb durch Fresnillo plc.", "Produziert jährlich über 12 Millionen Unzen Silber.", "Die unterirdische Tiefe überschreitet 1.000 Meter.", "Beschäftigung von über 2.000 direkten Mitarbeitern.", "Kapazität der Verarbeitungsanlage von 8.000 Tonnen pro Tag."],
+      hu: ["A bányászati tevékenységet 1554 óta tartják számon.", "A Fresnillo plc tulajdonában és üzemeltetésében van.", "Évente több mint 12 millió uncia ezüstöt termel.", "A föld alatti járatok mélysége meghaladja az 1000 métert.", "Több mint 2000 közvetlen munkavállalót foglalkoztat.", "A feldolgozóüzem kapacitása napi 8000 tonna."],
+      ro: ["Activitățile miniere sunt înregistrate din 1554.", "Deținută și operată de Fresnillo plc.", "Produce peste 12 milioane de uncii de argint anual.", "Adâncimea subterană depășește 1.000 de metri.", "Angajează peste 2.000 de lucrători direcți.", "Capacitatea instalației de procesare este de 8.000 de tone pe zi."],
+      en: ["Mining activities recorded since 1554.", "Owned and operated by Fresnillo plc.", "Produces over 12 million ounces of silver annually.", "Underground depth exceeds 1,000 meters.", "Employment of over 2,000 direct workers.", "Processing plant capacity of 8,000 tonnes per day."],
+    },
   },
   {
     id: "mexico-cananea-copper-mine-economic-v2",
@@ -76,6 +112,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Founded in 1899", "Mexico's largest copper reserve", "Site of a historic 1906 strike", "Over 400,000 tons of copper annually"],
     },
     imageHint: "Massive open pit copper mine in Cananea Sonora",
+    descriptionAdvanced: {
+      de: "Die Kupfermine von Cananea, offiziell als Buenavista del Cobre bekannt, ist eines der größten Tagebau-Kupferbergwerke der Welt. Im Bundesstaat Sonora gelegen, enthält sie riesige Reserven an Kupfer und Molybdän. Der Standort ist historisch bedeutsam für den Streik von 1906, der als Vorläufer der Mexikanischen Revolution gilt. Heute nutzt sie großflächige Extraktionsmethoden zur Belieferung der globalen Elektronik- und Bauindustrie.",
+      hu: "A Cananea rézbánya, hivatalos nevén Buenavista del Cobre, a világ egyik legnagyobb külszíni rézbányája. Sonora államban található, hatalmas réz- és molibdénkészletekkel rendelkezik. A helyszín történelmi jelentőségű az 1906-os sztrájk miatt, amely a mexikói forradalom előfutára volt. Ma tömeges kitermelési módszereket alkalmaz a globális elektronikai és építőipar kiszolgálására.",
+      ro: "Mina de cupru Cananea, cunoscută oficial sub numele de Buenavista del Cobre, este una dintre cele mai mari mine de cupru în carieră deschisă din lume. Situată în statul Sonora, aceasta conține rezerve vaste de cupru și molibden. Situl este semnificativ din punct de vedere istoric pentru greva din 1906, care a devenit un precursor al Revoluției Mexicane. Astăzi, utilizează metode de extracție la scară masivă pentru a aproviziona industriile globale.",
+      en: "The Cananea Copper Mine, officially known as Buenavista del Cobre, is one of the largest open-pit copper mines in the world. Located in the state of Sonora, it contains vast reserves of copper and molybdenum. The site is historically significant for the 1906 strike that became a precursor to the Mexican Revolution. Today, it utilizes massive-scale extraction methods to supply the global electronics and construction industries.",
+    },
+    factsAdvanced: {
+      de: ["Reserven werden auf 26 Millionen Tonnen Kupfer geschätzt.", "Produktionskapazität von über 400.000 Tonnen pro Jahr.", "Bergbauaktivitäten reichen bis ins Jahr 1899 zurück.", "Das Tagebaubecken ist etwa 3 Kilometer lang.", "Seit 1990 im Besitz von Grupo México.", "Ort der ersten großen Arbeiterbewegung Mexikos im 20. Jahrhundert."],
+      hu: ["A tartalékokat 26 millió tonna rézre becsülik.", "Éves termelési kapacitása meghaladja a 400 000 tonnát.", "A bányászat 1899-ig nyúlik vissza.", "A külszíni fejtés körülbelül 3 kilométer hosszú.", "1990 óta a Grupo México tulajdona.", "Az első jelentős 20. századi mexikói munkásmozgalom helyszíne."],
+      ro: ["Rezervele sunt estimate la 26 de milioane de tone de cupru.", "Capacitate de producție de peste 400.000 de tone pe an.", "Operațiunile datează din anul 1899.", "Cariera are o lungime de aproximativ 3 kilometri.", "Deținută de Grupo México din 1990.", "Locul primei mișcări muncitorești majore din Mexicul secolului XX."],
+      en: ["Reserves estimated at 26 million tonnes of copper.", "Production capacity of over 400,000 tonnes per year.", "Operations date back to 1899.", "The pit is approximately 3 kilometers long.", "Owned by Grupo México since 1990.", "Site of the first major labor movement in 20th-century Mexico."],
+    },
   },
   {
     id: "mexico-santa-fe-district-economic-v2",
@@ -95,6 +143,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Built on former landfill site", "Largest shopping mall in Latin America", "Primary financial hub of the city", "Futuristic architectural styles"],
     },
     imageHint: "Modern skyscrapers and high-rise buildings in Santa Fe Mexico City",
+    descriptionAdvanced: {
+      de: "Santa Fe ist das modernste Geschäftsviertel von Mexiko-Stadt, geprägt von einer beeindruckenden Skyline und High-Tech-Infrastruktur. Es wurde auf ehemaligen Minen und Deponien zu einem erstklassigen Zentrum für Finanzen und Unternehmenszentralen entwickelt. Das Gebiet beherbergt renommierte Universitäten, luxuriöse Wohnkomplexe und das größte Einkaufszentrum Lateinamerikas. Es repräsentiert das zeitgenössische Wirtschaftswachstum der Hauptstadt.",
+      hu: "Santa Fe Mexikóváros legmodernebb üzleti negyede, amelyet lenyűgöző sziluett és csúcstechnológiás infrastruktúra jellemez. Korábbi bányák és hulladéklerakók helyén alakították ki a pénzügyi és vállalati központok elsőrangú központjává. A területen neves egyetemek, luxus lakóparkok és Latin-Amerika legnagyobb bevásárlóközpontja található. A főváros kortárs gazdasági növekedését és városi átalakulását képviseli.",
+      ro: "Santa Fe este cel mai modern cartier de afaceri din Ciudad de México, caracterizat prin linia sa orizontului impresionantă și infrastructura de înaltă tehnologie. Acesta a fost dezvoltat pe foste mine și depozite de deșeuri într-un centru de prim rang pentru finanțe și sedii corporative. Zona găzduiește universități prestigioase, complexe rezidențiale de lux și cel mai mare centru comercial din America Latină. Reprezintă creșterea economică contemporană a capitalei.",
+      en: "Santa Fe is the most modern business district in Mexico City, characterized by its impressive skyline and high-tech infrastructure. It was developed on former mines and landfills into a premier center for finance and corporate headquarters. The area hosts prestigious universities, luxury residential complexes, and the largest shopping mall in Latin America. It represents the contemporary economic growth and urban transformation of the capital.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadtentwicklung begann in den 1990er Jahren.", "Sitz von Zentralen großer Firmen wie Ford und Microsoft.", "Umfasst das Centro Santa Fe mit 450.000 m² Fläche.", "Beinhaltet den Parque La Mexicana, einen 28 Hektar großen Park.", "Anschluss durch den Toluca–Mexiko-Stadt-Pendlerzug.", "Höhenlage von ca. 2.600 Metern über dem Meeresspiegel."],
+      hu: ["A városfejlesztés az 1990-es években kezdődött.", "Olyan nagyvállalatok székhelye, mint a Ford és a Microsoft.", "Itt található a 450 000 négyzetméteres Centro Santa Fe.", "Magában foglalja a 28 hektáros Parque La Mexicana parkot.", "A Toluca–Mexikóváros elővárosi vasút köti össze.", "Magassága körülbelül 2600 méter a tengerszint felett."],
+      ro: ["Dezvoltarea urbană a început în anii 1990.", "Găzduiește sediile unor firme majore precum Ford și Microsoft.", "Include Centro Santa Fe, care acoperă 450.000 de metri pătrați.", "Dispune de Parque La Mexicana, un parc urban de 28 de hectare.", "Conectat prin trenul de navetiști Toluca–Ciudad de México.", "Altitudine de aproximativ 2.600 de metri deasupra nivelului mării."],
+      en: ["Urban development began in the 1990s.", "Home to the headquarters of major firms like Ford and Microsoft.", "Includes the Centro Santa Fe, covering 450,000 square meters.", "Features the Parque La Mexicana, a 28-hectare urban park.", "Connected by the Toluca–Mexico City commuter rail.", "Altitude of approximately 2,600 meters above sea level."],
+    },
   },
   {
     id: "mexico-cantarell-oil-field-economic-v2",
@@ -114,6 +174,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Discovered in 1976 by a fisherman", "Production peaked in 2004", "Consists of four major fields", "Owned by state-run PEMEX"],
     },
     imageHint: "Offshore oil platforms in the Gulf of Mexico at sunset",
+    descriptionAdvanced: {
+      de: "Das Ölfeld Cantarell liegt in der Bucht von Campeche und war einst das zweitproduktivste Ölfeld der Welt. Es besteht aus mehreren Blöcken, wobei Akal der bedeutendste Produzent ist. Das 1971 von einem Fischer entdeckte Feld spielte eine entscheidende Rolle für die wirtschaftliche Entwicklung Mexikos im späten 20. Jahrhundert. Obwohl die Produktion seit ihrem Höchststand 2004 zurückgegangen ist, bleibt es ein wichtiger Aktivposten für PEMEX.",
+      hu: "A Cantarell olajmező a Campeche-öbölben található, és egykor a világ második legtermékenyebb olajmezője volt. Több blokkból áll, amelyek közül az Akal a legjelentősebb termelő. Egy halász fedezte fel 1971-ben, és döntő szerepet játszott Mexikó 20. század végi gazdasági fejlődésében. Bár a termelés a 2004-es csúcs óta visszaesett, továbbra is a nemzeti olajtársaság, a PEMEX létfontosságú eszköze.",
+      ro: "Câmpul petrolier Cantarell este situat în Golful Campeche și a fost cândva al doilea cel mai productiv câmp petrolier din lume. Acesta constă în mai multe blocuri, Akal fiind cel mai important producător. Descoperit de un pescar în 1971, a jucat un rol crucial în dezvoltarea economică a Mexicului la sfârșitul secolului XX. Deși producția a scăzut de la vârful din 2004, rămâne un activ vital pentru PEMEX.",
+      en: "The Cantarell Oil Field is located in the Bay of Campeche and was once the second most productive oil field in the world. It consists of several blocks, with Akal being the most significant producer. Discovered by a fisherman in 1971, it played a crucial role in Mexico's economic development during the late 20th century. Although production has declined from its 2004 peak, it remains a vital asset for the national oil company, PEMEX.",
+    },
+    factsAdvanced: {
+      de: ["1971 von Rudesindo Cantarell entdeckt.", "Produktionsspitze von 2,1 Millionen Barrel pro Tag im Jahr 2004.", "Stickstoffinjektion begann 2000 zur Druckhaltung.", "Wassertiefe an der Stelle beträgt etwa 40 bis 50 Meter.", "Gesamtproduktion übersteigt 13 Milliarden Barrel.", "Teil der größeren Erdölprovinz Campeche Sound."],
+      hu: ["1971-ben fedezte fel Rudesindo Cantarell.", "A termelés 2004-ben érte el a csúcsot napi 2,1 millió hordóval.", "2000-ben nitrogén-befecskendezést kezdtek a nyomás fenntartására.", "A vízmélység a helyszínen körülbelül 40-50 méter.", "Az összesített termelés meghaladja a 13 milliárd hordót.", "A nagyobb Campeche Sound olajvidék része."],
+      ro: ["Descoperit de Rudesindo Cantarell în 1971.", "Producția a atins vârful de 2,1 milioane de barili pe zi în 2004.", "Injecția de azot a început în 2000 pentru a menține presiunea.", "Adâncimea apei la sit este de aproximativ 40 până la 50 de metri.", "Producția cumulată depășește 13 miliarde de barili.", "Face parte din provincia petrolieră mai mare Campeche Sound."],
+      en: ["Discovered by Rudesindo Cantarell in 1971.", "Production peaked at 2.1 million barrels per day in 2004.", "Nitrogen injection started in 2000 to maintain pressure.", "Water depth at the site is approximately 40 to 50 meters.", "Cumulative production exceeds 13 billion barrels.", "Part of the larger Campeche Sound oil province."],
+    },
   },
   {
     id: "mexico-dos-bocas-refinery-economic-v2",
@@ -133,6 +205,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Located in the state of Tabasco", "Capacity of 340,000 barrels per day", "Named after the Olmec culture", "Commissioning started in 2022"],
     },
     imageHint: "Large industrial oil refinery complex at Dos Bocas Tabasco",
+    descriptionAdvanced: {
+      de: "Die Dos Bocas Raffinerie, offiziell Olmeca-Raffinerie genannt, ist ein massives Energieprojekt in Paraíso, Tabasco. Sie wurde konzipiert, um Mexikos inländische Treibstoffproduktion zu erhöhen und die Abhängigkeit von Importen zu verringern. Die Anlage verfügt über modernste Raffinationseinheiten und liegt strategisch günstig in der Nähe großer Ölproduktionszentren. Sie ist eine der größten Raffinerien Lateinamerikas.",
+      hu: "A Dos Bocas finomító, hivatalos nevén Olmeca finomító, egy hatalmas energetikai projekt a Tabasco állambeli Paraísóban. Úgy tervezték, hogy növelje Mexikó hazai üzemanyag-termelését és csökkentse az importtól való függőséget. A létesítmény korszerű finomító egységekkel rendelkezik, és stratégiai helyen, a nagy olajtermelő központok közelében található. Ez Latin-Amerika egyik legnagyobb finomítója.",
+      ro: "Rafinăria Dos Bocas, numită oficial Rafinăria Olmeca, este un proiect energetic masiv situat în Paraíso, Tabasco. A fost proiectată pentru a crește producția internă de combustibil a Mexicului și pentru a reduce dependența de importuri. Instalația dispune de unități de rafinare de ultimă generație și este situată strategic lângă centrele majore de producție de petrol. Este una dintre cele mai mari rafinării din regiune.",
+      en: "The Dos Bocas Refinery, officially named the Olmeca Refinery, is a massive energy project located in Paraíso, Tabasco. It was designed to increase Mexico's domestic fuel production and reduce reliance on imports. The facility features state-of-the-art refining units and is strategically situated near major oil production centers. It is one of the largest refineries in Latin America and a key component of the national energy strategy.",
+    },
+    factsAdvanced: {
+      de: ["Eingeweiht im Juli 2022.", "Verarbeitungskapazität von 340.000 Barrel pro Tag.", "Umfasst eine Fläche von etwa 580 Hektar.", "Besteht aus 17 Verarbeitungsanlagen.", "Gesamtinvestition auf 16 Milliarden USD geschätzt.", "Ausgelegt auf die Produktion von 170.000 Barrel Benzin täglich."],
+      hu: ["2022 júliusában avatták fel.", "Feldolgozási kapacitása napi 340 000 hordó.", "Körülbelül 580 hektárnyi területet foglal el.", "17 feldolgozó üzemből áll.", "A teljes beruházás becsült értéke 16 milliárd USD.", "Napi 170 000 hordó benzin előállítására tervezték."],
+      ro: ["Inaugurată în iulie 2022.", "Capacitate de procesare de 340.000 de barili pe zi.", "Acoperă o suprafață de aproximativ 580 de hectare.", "Constă în 17 instalații de procesare.", "Investiția totală este estimată la 16 miliarde USD.", "Proiectată pentru a produce 170.000 de barili de benzină zilnic."],
+      en: ["Inaugurated in July 2022.", "Processing capacity of 340,000 barrels per day.", "Covers an area of approximately 580 hectares.", "Consists of 17 processing plants.", "Total investment estimated at 16 billion USD.", "Designed to produce 170,000 barrels of gasoline daily."],
+    },
   },
   {
     id: "mexico-reforma-financial-zone-economic-v2",
@@ -152,6 +236,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Home of the Mexican Stock Exchange", "Historic grand boulevard", "Mexico's most important business strip", "Center for financial services"],
     },
     imageHint: "Modern skyscrapers along Paseo de la Reforma with Angel of Independence",
+    descriptionAdvanced: {
+      de: "Die Finanzzone Paseo de la Reforma ist das wirtschaftliche Herz von Mexiko-Stadt, gesäumt von ikonischen Wolkenkratzern und Finanzinstituten. Hier befinden sich die mexikanische Börse und die Zentralen bedeutender internationaler Banken. Die Allee verbindet historische Denkmäler mit modernen kommerziellen Entwicklungen. Dieses Gebiet ist ein Schwerpunkt für internationale Investitionen und der wichtigste Geschäftskorridor des Landes.",
+      hu: "A Paseo de la Reforma pénzügyi negyed Mexikóváros gazdasági szíve, amelyet ikonikus felhőkarcolók és pénzügyi intézmények szegélyeznek. Itt található a mexikói tőzsde és a jelentős nemzetközi bankok székhelye. A sugárút történelmi műemlékeket ötvöz a modern kereskedelmi fejlesztésekkel. Ez a terület a nemzetközi befektetések fókuszpontja és az ország elsődleges üzleti folyosója.",
+      ro: "Zona Financiară Paseo de la Reforma este inima economică a Ciudad de México, mărginită de zgârie-nori iconici și instituții financiare. Găzduiește Bursa de Valori din Mexic și sediile marilor bănci internaționale. Bulevardul combină monumente istorice cu dezvoltări comerciale moderne. Această zonă este un punct focal pentru investițiile internaționale și principalul coridor de afaceri al țării.",
+      en: "The Paseo de la Reforma Financial Zone is the economic heart of Mexico City, lined with iconic skyscrapers and financial institutions. It hosts the Mexican Stock Exchange and the headquarters of major international banks. The avenue combines historical monuments, such as the Angel of Independence, with modern commercial developments. This area is a focal point for international investment and the primary business corridor of the country.",
+    },
+    factsAdvanced: {
+      de: ["Nach dem Vorbild der Champs-Élysées in Paris gestaltet.", "Sitz der Bolsa Mexicana de Valores (BMV).", "Beherbergt den Torre Mayor, bis 2010 höchstes Gebäude in LATAM.", "Die Länge der Allee beträgt etwa 14,7 Kilometer.", "Standort des ersten internationalen Hotels in Mexiko, dem Reforma.", "Schnittpunkt mit der Avenida de los Insurgentes."],
+      hu: ["A párizsi Champs-Élysées mintájára alakították ki.", "A Bolsa Mexicana de Valores (BMV) otthona.", "Itt található a Torre Mayor, amely 2010-ig Latin-Amerika legmagasabb épülete volt.", "A sugárút hossza körülbelül 14,7 kilométer.", "Itt nyílt meg az első nemzetközi szálloda Mexikóban, a Reforma.", "Keresztezi az Avenida de los Insurgentes főútvonalat."],
+      ro: ["Modelat după Champs-Élysées din Paris.", "Găzduiește Bolsa Mexicana de Valores (BMV).", "Include Torre Mayor, care a fost cea mai înaltă clădire din regiune până în 2010.", "Lungimea bulevardului este de aproximativ 14,7 kilometri.", "Locul primului hotel internațional din Mexic, Reforma.", "Intersecția cu Avenida de los Insurgentes, un nod major de tranzit."],
+      en: ["Modeled after the Champs-Élysées in Paris.", "Home to the Bolsa Mexicana de Valores (BMV).", "Features the Torre Mayor, which was the tallest in LATAM until 2010.", "Avenue length is approximately 14.7 kilometers.", "Site of the first international hotel in Mexico, the Reforma.", "Intersection with Avenida de los Insurgentes, a major transit hub."],
+    },
   },
   {
     id: "mexico-silao-automotive-cluster-economic-v2",
@@ -171,6 +267,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Part of the Bajío industrial zone", "Contains the Puerto Interior dry port", "Hub for engine manufacturing", "Excellent logistics connectivity"],
     },
     imageHint: "Large automotive manufacturing plant in Silao Guanajuato",
+    descriptionAdvanced: {
+      de: "Das Automobilcluster Silao in Guanajuato ist ein führendes Zentrum für Fahrzeugherstellung und Logistik in Mexiko. Es beherbergt den General Motors Silao-Komplex und mehrere große Zulieferbetriebe für den Weltmarkt. Die Region profitiert von ihrer strategischen Lage im Bajío-Gebiet, das durch Schienen- und Autobahnnetze erschlossen ist. Dieses Cluster hat die lokale Wirtschaft in ein hochtechnologisches Industriezentrum verwandelt.",
+      hu: "A Guanajuato állambeli Silao autóipari klaszter a járműgyártás és logisztika vezető központja Mexikóban. Itt található a General Motors Silao komplexum és számos jelentős beszállító üzem a globális piac számára. A régió profitál a Bajío területén elfoglalt stratégiai elhelyezkedéséből, amelyet vasúti és közúti hálózatok kötnek össze. Ez a klaszter a helyi gazdaságot a kontinens egyik csúcstechnológiás ipari csomópontjává alakította.",
+      ro: "Clusterul auto Silao din Guanajuato este un centru lider pentru fabricarea vehiculelor și logistică în Mexic. Găzduiește Complexul General Motors Silao și câteva fabrici majore de furnizori pentru piața globală. Regiunea beneficiază de locația sa strategică în zona Bajío, conectată prin rețele feroviare și rutiere. Acest cluster a transformat economia locală într-un hub industrial de înaltă tehnologie pentru Americi.",
+      en: "The Silao Automotive Cluster in Guanajuato is a leading center for vehicle manufacturing and logistics in Mexico. It is home to the General Motors Silao Complex and several major supplier plants for the global market. The region benefits from its strategic location in the Bajío area, connected by rail and highway networks. This cluster has transformed the local economy into a high-tech industrial hub for the Americas.",
+    },
+    factsAdvanced: {
+      de: ["Das Werk von General Motors wurde 1994 eröffnet.", "Sitz des Puerto Interior, des größten Trockenhafens in Mexiko.", "Volkswagen betreibt ein Motorenwerk in der Nähe.", "Produziert jährlich über 300.000 Fahrzeuge.", "Beschäftigung von mehr als 100.000 Menschen in diesem Sektor.", "Unmittelbare Nähe zum internationalen Flughafen Bajío."],
+      hu: ["A General Motors gyár 1994-ben nyílt meg.", "Itt található a Puerto Interior, Mexikó legnagyobb szárazföldi kikötője.", "A Volkswagen motorgyárat üzemeltet a közelben.", "Évente több mint 300 000 járművet gyártanak itt.", "Több mint 100 000 embert foglalkoztat az ágazat.", "Közvetlen közelben található a Bajío nemzetközi repülőtér."],
+      ro: ["Fabrica General Motors a fost deschisă în 1994.", "Găzduiește Puerto Interior, cel mai mare port uscat din Mexic.", "Volkswagen operează o fabrică de motoare în vecinătate.", "Produce peste 300.000 de vehicule anual.", "Angajează peste 100.000 de persoane în acest sector.", "Proximitate față de Aeroportul Internațional Bajío."],
+      en: ["General Motors plant opened in 1994.", "Home to the Puerto Interior, the largest dry port in Mexico.", "Volkswagen operates an engine plant in the vicinity.", "Produces over 300,000 vehicles annually.", "Employment of more than 100,000 people in the sector.", "Close proximity to the Bajío International Airport."],
+    },
   },
   {
     id: "mexico-central-de-abasto-economic-v2",
@@ -190,6 +298,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Area of 327 hectares", "Over 300,000 daily visitors", "Trade volume of 9 billion USD annually", "Founded in 1982"],
     },
     imageHint: "Massive wholesale market activity at Central de Abasto",
+    descriptionAdvanced: {
+      de: "Die Central de Abasto in Mexiko-Stadt ist der weltweit größte Großhandelsmarkt für Lebensmittel und Konsumgüter. Er schlägt täglich Tausende Tonnen an Produkten um und versorgt Einzelhändler und Restaurants im gesamten Ballungsraum. Der Markt ist 24 Stunden am Tag in Betrieb und fungiert als Stadt in der Stadt mit eigener Sicherheit und Diensten. Er ist ein kritischer Knotenpunkt im mexikanischen Agrarverteilungsnetz.",
+      hu: "A Mexikóvárosban található Central de Abasto a világ legnagyobb élelmiszer- és fogyasztási cikk-nagykereskedelmi piaca. Naponta több ezer tonna árut kezel, kiszolgálva a kiskereskedőket és éttermeket a teljes metropoliszban. A piac napi 24 órában üzemel, és város a városban módjára működik saját biztonsági szolgálattal és szolgáltatásokkal. Kritikus csomópont Mexikó mezőgazdasági elosztó hálózatában.",
+      ro: "Central de Abasto din Ciudad de México este cea mai mare piață angro din lume pentru alimente și bunuri de larg consum. Manipulează mii de tone de produse zilnic, aprovizionând comercianții cu amănuntul și restaurantele din întreaga zonă metropolitană. Piața funcționează 24 de ore pe zi ca un oraș în oraș, cu propria securitate și servicii. Este un nod critic în rețeaua de distribuție agricolă a Mexicului.",
+      en: "The Central de Abasto in Mexico City is the world's largest wholesale market for food and consumer goods. It handles thousands of tons of produce daily, supplying retailers and restaurants throughout the metropolitan area. The market operates 24 hours a day and functions as a city within a city with its own security and services. It is a critical node in Mexico's agricultural distribution network and a massive commercial engine.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet im Jahr 1982 als Ersatz für den Markt La Merced.", "Belegt ein Gelände von 327 Hektar.", "Tägliches Handelsvolumen übersteigt 30.000 Tonnen Produkte.", "Empfängt jeden Tag mehr als 500.000 Besucher.", "Jährlicher Handelswert auf 9 Milliarden USD geschätzt.", "Beschäftigt über 70.000 festangestellte Mitarbeiter."],
+      hu: ["1982-ben nyílt meg a La Merced piac felváltására.", "327 hektárnyi területet foglal el.", "A napi kereskedelmi forgalom meghaladja a 30 000 tonnát.", "Naponta több mint 500 000 látogatót fogad.", "Az éves kereskedelmi érték becslések szerint 9 milliárd USD.", "Több mint 70 000 állandó munkavállalót foglalkoztat."],
+      ro: ["Deschisă în 1982 pentru a înlocui piața La Merced.", "Ocupă un sit de 327 de hectare.", "Volumul zilnic de tranzacționare depășește 30.000 de tone de produse.", "Primește peste 500.000 de vizitatori în fiecare zi.", "Valoarea comercială anuală este estimată la 9 miliarde USD.", "Angajează peste 70.000 de lucrători permanenți."],
+      en: ["Opened in 1982 to replace the La Merced market.", "Occupies a site of 327 hectares.", "Daily trade volume exceeds 30,000 tons of products.", "Receives more than 500,000 visitors every day.", "Annual commercial value estimated at 9 billion USD.", "Employs over 70,000 permanent workers."],
+    },
   },
   {
     id: "mexico-penasquito-gold-mine-economic-v2",
@@ -209,6 +329,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Operated by Newmont", "Two massive open pits", "Largest gold producer in the country", "Uses advanced sensor technology"],
     },
     imageHint: "Aerial view of the massive Peñasquito open pit mine",
+    descriptionAdvanced: {
+      de: "Die Goldmine Peñasquito ist ein großflächiger Tagebaubetrieb in der semiariden Region von Zacatecas. Sie ist Mexikos größter Goldproduzent und liefert zudem bedeutende Mengen an Silber, Blei und Zink. Die Mine setzt fortschrittliche Laugungs- und Flotationsprozesse ein, um Metalle aus ihren zwei Hauptbecken zu gewinnen. Als wichtiger Industriestandort trägt sie wesentlich zur nationalen Bergbauproduktion bei.",
+      hu: "A Peñasquito aranybánya egy nagyszabású külszíni bányászati művelet Zacatecas félsivatagos régiójában. Mexikó legnagyobb aranytermelője, emellett jelentős mennyiségű ezüstöt, ólmot és cinket is szolgáltat. A bánya fejlett lúgozási és flotációs eljárásokat alkalmaz a fémek kinyerésére két fő fejtéséből. Jelentős ipari helyszínként érdemben hozzájárul a nemzeti bányászati kibocsátáshoz.",
+      ro: "Mina de aur Peñasquito este o operațiune în carieră deschisă la scară largă, situată în regiunea semi-aridă Zacatecas. Este cel mai mare producător de aur din Mexic și produce, de asemenea, cantități semnificative de argint, plumb și zinc. Mina utilizează procese avansate de lixiviere și flotație pentru a recupera metalele din cele două cariere principale ale sale. Contribuie substanțial la producția minieră națională.",
+      en: "The Peñasquito Gold Mine is a large-scale open-pit operation located in the semi-arid region of Zacatecas. It is Mexico's largest gold producer and also yields significant quantities of silver, lead, and zinc. The mine employs advanced leaching and flotation processes to recover metals from its two main pits. As a major industrial site, it contributes substantially to the national mining output and provides thousands of jobs.",
+    },
+    factsAdvanced: {
+      de: ["Die kommerzielle Produktion begann im Jahr 2010.", "Seit 2019 im Besitz der Newmont Corporation.", "Jährliche Goldproduktion von durchschnittlich 500.000 Unzen.", "Besteht aus zwei Tagebaubecken: Peñasco und Chile Colorado.", "Nutzt eine Verarbeitungsanlage für 50.000 Tonnen pro Tag.", "Lebensdauer der Mine voraussichtlich über 2030 hinaus."],
+      hu: ["A kereskedelmi termelés 2010-ben kezdődött.", "2019 óta a Newmont Corporation tulajdonában van.", "Az éves aranytermelés átlagosan 500 000 uncia.", "Két fejtésből áll: Peñasco és Chile Colorado.", "Napi 50 000 tonnás feldolgozó létesítményt használ.", "A bánya élettartama várhatóan 2030 utánig tart."],
+      ro: ["Producția comercială a început în anul 2010.", "Deținută de Newmont Corporation din 2019.", "Producția anuală de aur este în medie de 500.000 de uncii.", "Constă în două cariere: Peñasco și Chile Colorado.", "Utilizează o instalație de procesare de 50.000 de tone pe zi.", "Durata de viață a minei este estimată să se extindă după 2030."],
+      en: ["Commercial production began in 2010.", "Owned by Newmont Corporation since 2019.", "Annual gold production averages 500,000 ounces.", "Consists of two pits: Peñasco and Chile Colorado.", "Uses a 50,000-tonne-per-day processing facility.", "Life of mine expected to extend beyond 2030."],
+    },
   },
   {
     id: "mexico-salina-cruz-port-economic-v2",
@@ -228,6 +360,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Site of a major oil refinery", "Gateway to the Pacific for the south", "Deepwater port for oil tankers", "Shipbuilding center"],
     },
     imageHint: "Port of Salina Cruz with industrial ships and refinery in background",
+    descriptionAdvanced: {
+      de: "Der Hafen von Salina Cruz ist ein wichtiges pazifisches Tor im Bundesstaat Oaxaca und dient als Drehkreuz für Ölexporte und Industriegüter. Er ist der westliche Endpunkt des interozeanischen Korridors der Landenge von Tehuantepec, der den Pazifik mit dem Atlantik verbindet. Der Hafen verfügt über eine große Raffinerie und spezialisierte Terminals für Treibstoffe und Chemikalien. Er spielt eine zentrale Rolle in der regionalen Entwicklung Südmexikos.",
+      hu: "Salina Cruz kikötője egy jelentős csendes-óceáni kapu Oaxaca államban, amely az olajexport és az ipari rakományok csomópontjaként szolgál. Ez a Tehuantepeci-földszoros interoceanikus folyosójának nyugati végállomása, amely összeköti a Csendes- és az Atlanti-óceánt. A kikötőben nagy finomító, valamint üzemanyag- és vegyianyag-terminálok találhatók. Létfontosságú szerepet játszik Dél-Mexikó regionális fejlődésében.",
+      ro: "Portul Salina Cruz este o poartă majoră la Pacific, situată în statul Oaxaca, servind ca hub pentru exporturile de petrol și mărfuri industriale. Este terminalul vestic al Coridorului Interoceanic al Istmului Tehuantepec, care leagă oceanele Pacific și Atlantic. Portul dispune de o rafinărie mare și terminale specializate pentru combustibili și chimicale. Joacă un rol vital în dezvoltarea regională a sudului Mexicului.",
+      en: "Salina Cruz Port is a major Pacific gateway located in the state of Oaxaca, serving as a hub for oil exports and industrial cargo. It is the western terminus of the Interoceanic Corridor of the Isthmus of Tehuantepec, which links the Pacific and Atlantic oceans. The port features a large refinery and specialized terminals for fuel and chemicals. It plays a vital role in the regional development of southern Mexico and international energy trade.",
+    },
+    factsAdvanced: {
+      de: ["Moderne Hafeninfrastruktur wurde in den 1970er Jahren errichtet.", "Standort der Raffinerie Antonio Dovalí Jaime.", "Umschlag von über 15 Millionen Tonnen Fracht jährlich.", "Tiefgang von bis zu 14 Metern.", "Teil einer 300 Kilometer langen Eisenbahnverbindung nach Coatzacoalcos.", "Strategischer Punkt für die Ölversorgung der mexikanischen Pazifikküste."],
+      hu: ["A modern kikötői infrastruktúrát az 1970-es években építették ki.", "Itt található az Antonio Dovalí Jaime finomító.", "Évente több mint 15 millió tonna árut kezel.", "Mélyvízi merülése eléri a 14 métert.", "Része a Coatzacoalcosba vezető 300 kilométeres vasúti összeköttetésnek.", "Stratégiai pont a mexikói csendes-óceáni partvidék olajellátásában."],
+      ro: ["Infrastructura portuară modernă a fost stabilită în anii 1970.", "Locația rafinăriei Antonio Dovalí Jaime.", "Manipulează peste 15 milioane de tone de marfă anual.", "Pescaj de apă adâncă de până la 14 metri.", "Parte a unei conexiuni feroviare de 300 km către Coatzacoalcos.", "Punct strategic pentru aprovizionarea cu petrol a coastei Pacificului."],
+      en: ["Modern port infrastructure established in the 1970s.", "Location of the Antonio Dovalí Jaime refinery.", "Handles over 15 million tons of cargo annually.", "Deep-water draft of up to 14 meters.", "Part of a 300-kilometer railway connection to Coatzacoalcos.", "Strategic point for oil supply to the Mexican Pacific coast."],
+    },
   },
   {
     id: "mexico-guaymas-port-economic-v2",
@@ -247,6 +391,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Founded in 1769", "Important transshipment point for copper", "Center for the fishing industry", "Major grain exporter"],
     },
     imageHint: "Cargo ships at Guaymas port with desert mountains in background",
+    descriptionAdvanced: {
+      de: "Der Hafen von Guaymas ist ein bedeutendes maritimes Terminal im Golf von Kalifornien, Sonora, das auf Mineralien und Agrarprodukte spezialisiert ist. Er dient als primärer Exportpunkt für Kupfer aus den regionalen Minen und Getreide aus dem Yaqui-Tal. Der Hafen ist durch natürliche geografische Gegebenheiten geschützt, was ihn zu einem sicheren Hafen für große Schiffe macht. Seine Infrastruktur umfasst spezialisierte Silos und Förderanlagen.",
+      hu: "Guaymas kikötője egy jelentős tengeri terminál a Kaliforniai-öbölben, Sonora államban, amely ásványokra és mezőgazdasági termékekre specializálódott. A régió bányáiból származó réz és a Yaqui-völgy gabonájának elsődleges exportpontjaként szolgál. A kikötőt természetes földrajzi adottságok védik, biztonságos kikötőt nyújtva a nagy hajóknak. Infrastruktúrája speciális silókat és szállítószalagokat foglal magában.",
+      ro: "Portul Guaymas este un terminal maritim semnificativ în Golful California, Sonora, specializat în minerale și produse agricole. Servește ca punct principal de export pentru cuprul din minele regionale și cerealele din Valea Yaqui. Portul este protejat de caracteristici geografice naturale, fiind un adăpost sigur pentru nave mari. Infrastructura sa include silozuri specializate pentru manipularea eficientă a mărfurilor în vrac.",
+      en: "The Port of Guaymas is a significant maritime terminal in the Gulf of California, Sonora, specializing in minerals and agricultural products. It serves as the primary export point for copper from the regional mines and grain from the Yaqui Valley. The port is sheltered by natural geographical features, making it a safe harbor for large vessels. Its infrastructure includes specialized silos and conveyors for efficient bulk material handling.",
+    },
+    factsAdvanced: {
+      de: ["Einer der ältesten Häfen an der mexikanischen Pazifikküste.", "Wichtiges Drehkreuz für den Export von Kupferkonzentrat.", "Getreidelagerkapazität übersteigt 60.000 Tonnen.", "Umschlag von etwa 6 Millionen Tonnen Fracht pro Jahr.", "Natürlicher Tiefgang von 12 Metern im Hauptkanal.", "Anschluss an das Eisenbahnsystem Sonora-Baja California."],
+      hu: ["Az egyik legrégebbi kikötő a mexikói csendes-óceáni parton.", "A rézkoncentrátum exportjának fontos csomópontja.", "A gabonatároló kapacitás meghaladja a 60 000 tonnát.", "Évente körülbelül 6 millió tonna árut kezel.", "Természetes merülési mélysége 12 méter a főcsatornában.", "Összeköttetésben áll a Sonora-Baja California vasúti rendszerrel."],
+      ro: ["Unul dintre cele mai vechi porturi de la Pacificul mexican.", "Hub major pentru exportul de concentrat de cupru.", "Capacitatea de stocare a cerealelor depășește 60.000 de tone.", "Manipulează aproximativ 6 milioane de tone de marfă pe an.", "Pescaj natural de 12 metri în canalul principal.", "Conectat la sistemul feroviar Sonora-Baja California."],
+      en: ["One of the oldest ports on the Mexican Pacific coast.", "Major hub for the export of copper concentrate.", "Grain storage capacity exceeds 60,000 tons.", "Handles approximately 6 million tons of cargo per year.", "Natural draft of 12 meters in the main channel.", "Connected to the Sonora-Baja California railway system."],
+    },
   },
   {
     id: "mexico-progreso-port-economic-v2",
@@ -266,6 +422,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["The pier is 6.5 kilometers long", "Gateway for honey exports", "Transshipment point for offshore oil", "Major cruise ship port"],
     },
     imageHint: "Long pier extending into the turquoise sea at Progreso",
+    descriptionAdvanced: {
+      de: "Der Hafen von Progreso ist das Haupttor zur Halbinsel Yucatán und berühmt für die längste Seebrücke der Welt. Diese massive Struktur erstreckt sich über mehrere Kilometer in den Golf von Mexiko, um tiefes Wasser für große Schiffe zu erreichen. Der Hafen schlägt Containerfracht und Massengüter um und ist ein beliebtes Ziel für internationale Kreuzfahrtlinien. Er ist essenziell für die Versorgung der gesamten südöstlichen Region Mexikos.",
+      hu: "Progreso kikötője a Yucatán-félsziget fő kapuja, amely a világ leghosszabb mólójáról híres. Ez a hatalmas építmény több kilométer hosszan nyúlik be a Mexikói-öbölbe, hogy elérje a mély vizet a nagy hajók számára. A kikötő konténeres és ömlesztett árut kezel, valamint a nemzetközi skemélyszállító hajók népszerű célpontja. Alapvető fontosságú Mexikó egész délkeleti régiójának áru- és energiaellátása szempontjából.",
+      ro: "Portul Progreso este principala poartă către Peninsula Yucatán și este faimos pentru că deține cel mai lung dig din lume. Această structură masivă se extinde pe câțiva kilometri în Golful Mexic pentru a ajunge la apa adâncă necesară navelor mari. Portul manipulează mărfuri containerizate, mărfuri în vrac și este o destinație populară pentru liniile de croazieră. Este esențial pentru aprovizionarea întregii regiuni de sud-est.",
+      en: "The Port of Progreso is the main gateway to the Yucatán Peninsula and is famous for having the longest pier in the world. This massive structure extends several kilometers into the Gulf of Mexico to reach deep water for large ships. The port handles containerized cargo, bulk commodities, and is a popular destination for international cruise lines. It is essential for the supply of goods and energy to the entire southeastern region of Mexico.",
+    },
+    factsAdvanced: {
+      de: ["Die Länge der Seebrücke beträgt etwa 6,5 Kilometer.", "Das moderne Terminal wurde 1989 eröffnet.", "Umschlag von über 100.000 TEU Containerfracht jährlich.", "Entscheidend für den Import von Treibstoffen und Getreide nach Yucatán.", "Liegt 36 Kilometer von der Stadt Mérida entfernt.", "Als strategische Wirtschaftszone (EEZ) ausgewiesen."],
+      hu: ["A móló hossza körülbelül 6,5 kilométer.", "A modern terminált 1989-ben nyitották meg.", "Évente több mint 100 000 TEU konténeres árut kezel.", "Döntő jelentőségű az üzemanyag- és gabonabehozatalban Yucatánra.", "Mérida városától 36 kilométerre található.", "Stratégiai Gazdasági Övezetnek (EEZ) minősítették."],
+      ro: ["Lungimea digului este de aproximativ 6,5 kilometri.", "Terminalul modern a fost deschis în anul 1989.", "Manipulează peste 100.000 TEU de marfă anual.", "Crucial pentru importul de combustibili și cereale în Yucatán.", "Situat la 36 de kilometri de orașul Mérida.", "Desemnat ca Zonă Economică Strategică (EEZ)."],
+      en: ["Pier length is approximately 6.5 kilometers.", "Modern terminal opened in 1989.", "Handles over 100,000 TEUs of container cargo annually.", "Crucial for the import of fuels and grain to Yucatán.", "Located 36 kilometers from the city of Mérida.", "Designated as a Strategic Economic Zone (EEZ)."],
+    },
   },
   {
     id: "mexico-tuxpan-port-economic-v2",
@@ -285,6 +453,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Supply hub for central Mexico", "Large liquefied gas terminal", "Connected to the M-30 highway", "Important fishing location"],
     },
     imageHint: "Tuxpan river and port facilities with fuel tanks",
+    descriptionAdvanced: {
+      de: "Der Hafen von Tuxpan liegt in Veracruz und ist das nächstgelegene maritime Tor zum Tal von Mexiko. Er ist auf den Import von raffinierten Erdölprodukten sowie den Umschlag von Agrargütern und Automobilen spezialisiert. Die Nähe des Hafens zur Hauptstadt macht ihn zu einem lebenswichtigen Logistikzentrum für die bevölkerungsreichste Region des Landes. Jüngste Infrastrukturerweiterungen haben seine Kapazität erheblich gesteigert.",
+      hu: "Tuxpan kikötője Veracruz államban található, és ez a Mexikói-völgyhöz legközelebb eső tengeri kapu. Finomított kőolajtermékek importjára, valamint mezőgazdasági cikkek és autók kezelésére specializálódott. A kikötő fővároshoz való közelsége létfontosságú logisztikai csomóponttá teszi az ország legnépesebb régiója számára. A közelmúltbeli fejlesztések jelentősen növelték kapacitását.",
+      ro: "Portul Tuxpan este situat în Veracruz și este poarta maritimă cea mai apropiată de Valea Mexicului. Este specializat în importul de produse petroliere rafinate și manipularea mărfurilor agricole și a automobilelor. Proximitatea portului față de capitală îl face un hub logistic vital pentru cea mai populată regiune a țării. Extinderile recente de infrastructură au crescut semnificativ capacitatea sa.",
+      en: "The Port of Tuxpan is located in Veracruz and is the closest maritime gateway to the Valley of Mexico. It specializes in the import of refined petroleum products and the handling of agricultural goods and automobiles. The port's proximity to the capital makes it a vital logistics hub for the country's most populous region. Recent infrastructure expansions have significantly increased its capacity for container ships and bulk carriers.",
+    },
+    factsAdvanced: {
+      de: ["Nur 290 Kilometer von Mexiko-Stadt entfernt.", "Haupthafen für den Import von Benzin und Diesel für die Hauptstadt.", "Verfügt über ein dediziertes Terminal für Tuxpan Port Terminal (TPT).", "Schiffbare Tiefe von 15 Metern im Zufahrtskanal.", "Jährlicher Güterumschlag übersteigt 15 Millionen Tonnen.", "Anschluss über die Autobahn Tuxpan-Mexiko-Stadt."],
+      hu: ["Mindössze 290 kilométerre fekszik Mexikóvárostól.", "A főváros benzin- és dízelimportjának elsődleges kikötője.", "Saját terminállal rendelkezik (Tuxpan Port Terminal - TPT).", "A hajózható mélység 15 méter a bejárati csatornában.", "Az éves áruforgalom meghaladja a 15 millió tonnát.", "Közvetlen összeköttetés a Tuxpan-Mexikóváros autópályán keresztül."],
+      ro: ["Situat la doar 290 de kilometri de Ciudad de México.", "Portul principal pentru importul de benzină și motorină pentru capitală.", "Dispune de un terminal dedicat Tuxpan Port Terminal (TPT).", "Adâncime navigabilă de 15 metri în canalul de acces.", "Manipularea anuală a mărfurilor depășește 15 milioane de tone.", "Conexiune facilă prin autostrada Tuxpan-Ciudad de México."],
+      en: ["Located only 290 kilometers from Mexico City.", "Main port for importing gasoline and diesel for the capital.", "Features a dedicated terminal for Tuxpan Port Terminal (TPT).", "Navigable depth of 15 meters in the access channel.", "Annual cargo handling exceeds 15 million tons.", "Fast connection via the Tuxpan-Mexico City highway."],
+    },
   },
   {
     id: "mexico-santa-catarina-industrial-economic-v2",
@@ -304,6 +484,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Hub for nearshoring activities", "Strong presence of auto suppliers", "Close proximity to the US border", "Modern logistics hub"],
     },
     imageHint: "Modern factories and industrial parks in Santa Catarina Nuevo Leon",
+    descriptionAdvanced: {
+      de: "Die Industriezone Santa Catarina in Nuevo León ist ein bedeutender Knotenpunkt für die Automobil- und Elektronikfertigung innerhalb der Metropolregion Monterrey. Das Gebiet beherbergt zahlreiche Industrieparks wie FINSA und ist ein strategischer Standort für globale Zulieferketten. Aufgrund der Nähe zur US-Grenze hat sich die Region zu einem Zentrum für das Nearshoring entwickelt.",
+      hu: "A Nuevo León államban található Santa Catarina ipari övezet a monterreyi agglomeráció meghatározó autóipari és elektronikai gyártóbázisa. A területen számos modern ipari park, például a FINSA található, amelyek globális beszállítói láncoknak adnak otthont. Az amerikai határ közelsége miatt a régió a közel-keleti kiszervezések (nearshoring) egyik legfontosabb mexikói központja.",
+      ro: "Zona industrială Santa Catarina din statul Nuevo León este un centru major pentru producția de automobile și electronice din zona metropolitană Monterrey. Aria găzduiește numeroase parcuri industriale, precum FINSA, fiind un punct strategic pentru lanțurile globale de aprovizionare. Datorită proximității față de granița cu SUA, regiunea a devenit un pol esențial pentru fenomenul de nearshoring.",
+      en: "The Santa Catarina Industrial Zone in Nuevo León is a major hub for automotive and electronics manufacturing within the Monterrey metropolitan area. The area hosts numerous industrial parks, such as FINSA, and serves as a strategic location for global supply chains. Due to its proximity to the US border, the region has emerged as a key center for nearshoring activities.",
+    },
+    factsAdvanced: {
+      de: ["Santa Catarina gehört zur Metropolregion von Monterrey im Bundesstaat Nuevo León.", "Die Zone beherbergt über 10 große Industrieparks mit internationaler Beteiligung.", "Der Standort wurde als potenzielles Ziel für die Tesla Gigafactory Mexiko ausgewählt.", "Die Stadt liegt strategisch günstig an der Autobahn Monterrey-Saltillo.", "In der Region sind führende Unternehmen wie Quanta Computer und Foxconn ansässig.", "Die Industriezone profitiert von der Nähe zum internationalen Flughafen Monterrey."],
+      hu: ["Santa Catarina a monterreyi metropolisz övezet része Nuevo León államban.", "A zóna több mint 10 jelentős, nemzetközi vállalatokat befogadó ipari parkkal rendelkezik.", "A területet választották ki a leendő mexikói Tesla Gigafactory helyszínéül.", "A város stratégiai elhelyezkedésű a Monterrey-Saltillo autópálya mentén.", "Olyan vezető technológiai cégek telepedtek itt le, mint a Quanta Computer és a Foxconn.", "Az ipari övezet profitál a monterreyi nemzetközi repülőtér közelségéből."],
+      ro: ["Santa Catarina face parte din zona metropolitană Monterrey, în statul Nuevo León.", "Zona cuprinde peste 10 parcuri industriale majore cu participare internațională.", "Locația a fost selectată ca destinație pentru viitoarea Gigafactory Tesla din Mexic.", "Orașul este situat strategic pe autostrada care leagă Monterrey de Saltillo.", "Companii tehnologice de top, precum Quanta Computer și Foxconn, au facilități aici.", "Zona industrială beneficiază de acces rapid la Aeroportul Internațional Monterrey."],
+      en: ["Santa Catarina is part of the Monterrey metropolitan area in the state of Nuevo León.", "The zone hosts over 10 major industrial parks with international corporate presence.", "The location was selected as the site for the proposed Tesla Gigafactory Mexico.", "The city is strategically positioned along the Monterrey-Saltillo highway.", "Leading tech firms such as Quanta Computer and Foxconn have established operations here.", "The industrial zone benefits from its proximity to Monterrey International Airport."],
+    },
   },
   {
     id: "mexico-pesqueria-industrial-hub-economic-v2",
@@ -323,6 +515,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["High-capacity Kia manufacturing plant", "Large steel processing complex", "Massive employment growth", "Part of the Monterrey industrial region"],
     },
     imageHint: "Modern car manufacturing facility in Pesqueria",
+    descriptionAdvanced: {
+      de: "Das Industriezentrum Pesquería in Nuevo León hat sich seit 2014 zu einem der dynamischsten Fertigungsstandorte Mexikos entwickelt. Es ist vor allem für das massive Montagewerk von Kia Motors und die modernen Stahlwerke von Ternium bekannt. Diese Investitionen haben die ehemals landwirtschaftlich geprägte Region in ein hochmodernes Industrieareal verwandelt.",
+      hu: "A Nuevo León állambeli Pesquería ipari központja 2014 óta Mexikó egyik legdinamikusabb gyártási helyszínévé vált. Elsősorban a Kia Motors hatalmas összeszerelő üzeméről és a Ternium modern acélműveiről ismert. Ezek a beruházások az egykor mezőgazdasági jellegű régiót ultramodern ipari területté alakították át.",
+      ro: "Hub-ul industrial Pesquería din Nuevo León a devenit unul dintre cele mai dinamice centre de producție din Mexic începând cu anul 2014. Este cunoscut în special pentru uzina masivă de asamblare Kia Motors și oțelăriile moderne ale companiei Ternium. Aceste investiții au transformat regiunea, anterior agricolă, într-o arie industrială de ultimă generație.",
+      en: "The Pesquería Industrial Hub in Nuevo León has developed into one of Mexico's most dynamic manufacturing sites since 2014. It is primarily known for the massive Kia Motors assembly plant and Ternium's advanced steel mills. These investments have transformed the formerly agricultural region into a state-of-the-art industrial area.",
+    },
+    factsAdvanced: {
+      de: ["Kia Motors eröffnete sein Werk in Pesquería im Jahr 2016 nach massiven Investitionen.", "Das Werk hat eine Produktionskapazität von jährlich rund 400.000 Fahrzeugen.", "Ternium betreibt hier ein hochmodernes Zentrum für die industrielle Stahlverarbeitung.", "Die Region verzeichnete durch die Industrieansiedlung ein extremes Bevölkerungswachstum.", "Das Kraftwerk Pesquería sichert die Energieversorgung der umliegenden Schwerindustrie.", "Der Standort liegt etwa 30 Kilometer nordöstlich des Stadtzentrums von Monterrey."],
+      hu: ["A Kia Motors 2016-ban nyitotta meg üzemét Pesqueríában jelentős beruházás után.", "Az autógyár éves termelési kapacitása körülbelül 400 000 jármű.", "A Ternium egy csúcstechnológiás ipari acélfeldolgozó központot üzemeltet itt.", "A régió lakossága rendkívüli mértékben nőtt az ipari betelepülés következtében.", "A pesqueríai erőmű biztosítja a környező nehézipar energiaellátását.", "A helyszín Monterrey városközpontjától körülbelül 30 kilométerre északkeletre található."],
+      ro: ["Kia Motors a deschis uzina din Pesquería în 2016, în urma unei investiții masive.", "Capacitatea de producție a fabricii auto este de aproximativ 400.000 de vehicule pe an.", "Ternium operează aici un centru avansat pentru procesarea industrială a oțelului.", "Regiunea a înregistrat o creștere demografică extremă datorită dezvoltării industriale.", "Centrala electrică din Pesquería asigură energia necesară industriei grele locale.", "Locația se află la aproximativ 30 de kilometri nord-est de centrul orașului Monterrey."],
+      en: ["Kia Motors opened its Pesquería plant in 2016 following a massive investment.", "The automobile plant has an annual production capacity of approximately 400,000 vehicles.", "Ternium operates a highly advanced industrial steel processing center at this site.", "The region experienced extreme population growth due to industrial settlement.", "The Pesquería power plant secures the energy supply for surrounding heavy industry.", "The hub is located about 30 kilometers northeast of Monterrey city center."],
+    },
   },
   {
     id: "mexico-san-jose-chiapa-audi-economic-v2",
@@ -342,6 +546,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Smart Factory technology", "CO2-neutral production", "Located in the state of Puebla", "Over 5,000 employees on site"],
     },
     imageHint: "Modern Audi car factory buildings in San Jose Chiapa",
+    descriptionAdvanced: {
+      de: "Das Audi-Werk in San José Chiapa im Bundesstaat Puebla ist eine der modernsten Automobilfabriken des Kontinents und wurde 2016 eröffnet. Es ist das weltweit erste Werk der Marke, das ausschließlich für die Produktion des Modells Q5 konzipiert wurde. Die Fabrik setzt Maßstäbe in der Ressourceneffizienz und nutzt zu 100 % erneuerbare Energien für den Betrieb.",
+      hu: "A Puebla állambeli San José Chiapa városában található Audi-gyár a kontinens egyik legmodernebb autógyára, amelyet 2016-ban adtak át. Ez a márka első olyan üzeme a világon, amelyet kifejezetten a Q5 modell gyártására terveztek. A gyár mértékadó az erőforrás-hatékonyság terén, és működéséhez 100%-ban megújuló energiát használ.",
+      ro: "Uzina Audi din San José Chiapa, statul Puebla, este una dintre cele mai moderne fabrici auto de pe continent, fiind inaugurată în 2016. Este prima unitate a mărcii la nivel mondial concepută exclusiv pentru producția modelului Q5. Fabrica stabilește standarde în eficiența resurselor, utilizând 100% energie regenerabilă pentru operațiunile sale.",
+      en: "The Audi plant in San José Chiapa, Puebla, is one of the most modern automotive factories on the continent and was opened in 2016. It is the brand's first plant worldwide designed specifically for the production of the Q5 model. The factory sets benchmarks in resource efficiency and utilizes 100% renewable energy for its operations.",
+    },
+    factsAdvanced: {
+      de: ["Das Werk wurde am 30. September 2016 offiziell in Betrieb genommen.", "Es ist die höchstgelegene Fabrik im gesamten Audi-Produktionsnetzwerk (2.400 m).", "In San José Chiapa wird der Audi Q5 für den gesamten Weltmarkt produziert.", "Die Fabrik arbeitet seit 2020 vollständig CO2-neutral in der Produktion.", "Auf dem Gelände befindet sich ein eigenes Trainingscenter für die Fachkräfteausbildung.", "Der Standort wurde aufgrund der Nähe zu den Häfen Veracruz und Lázaro Cárdenas gewählt."],
+      hu: ["A gyárat hivatalosan 2016. szeptember 30-án helyezték üzembe.", "Ez az Audi teljes gyártási hálózatának legmagasabban fekvő üzeme (2400 m).", "San José Chiapában gyártják az Audi Q5-öst a teljes világpiac számára.", "A gyár 2020 óta teljesen CO2-semlegesen működik a termelés során.", "A területen saját képzési központ található a szakemberek oktatására.", "A helyszínt a Veracruz és Lázaro Cárdenas kikötők közelsége miatt választották."],
+      ro: ["Uzina a fost pusă oficial în funcțiune la data de 30 septembrie 2016.", "Este fabrica situată la cea mai mare altitudine din rețeaua Audi (2.400 m).", "La San José Chiapa se produce modelul Audi Q5 pentru întreaga piață mondială.", "Fabrica operează complet neutru din punct de vedere al emisiilor de CO2 din 2020.", "Pe terenul uzinei se află un centru de instruire propriu pentru formarea specialiștilor.", "Locația a fost aleasă datorită proximității față de porturile Veracruz și Lázaro Cárdenas."],
+      en: ["The plant was officially commissioned on September 30, 2016.", "It is the highest-altitude factory in the entire Audi production network (2,400 m).", "Audi Q5 models for the entire global market are produced in San José Chiapa.", "The factory has operated completely CO2-neutral in production since 2020.", "A dedicated training center for professional education is located on the premises.", "The site was chosen for its proximity to the ports of Veracruz and Lázaro Cárdenas."],
+    },
   },
   {
     id: "mexico-derramadero-hub-economic-v2",
@@ -361,6 +577,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Home to Freightliner and Stellantis", "Heavy vehicle manufacturing focus", "Key export driver for Coahuila", "Large supplier parks present"],
     },
     imageHint: "Industrial valley with large truck manufacturing plants",
+    descriptionAdvanced: {
+      de: "Der Industriekomplex Derramadero südlich von Saltillo in Coahuila wird oft als das Detroit von Mexiko bezeichnet. Das Gebiet ist ein Zentrum der Schwerindustrie und beherbergt bedeutende Produktionsstätten von Stellantis (ehemals Chrysler) und Daimler Truck. Die Region profitiert von einer exzellenten logistischen Anbindung an die Vereinigten Staaten.",
+      hu: "A Coahuila állambeli Saltillótól délre fekvő Derramadero ipari komplexumot gyakran Mexikó Detroitjaként emlegetik. A terület a nehézipar központja, ahol a Stellantis (korábban Chrysler) és a Daimler Truck jelentős gyártóüzemei találhatók. A régió kiváló logisztikai összeköttetéssel rendelkezik az Egyesült Államok irányába.",
+      ro: "Complexul industrial Derramadero, situat la sud de Saltillo în Coahuila, este adesea supranumit Detroit-ul Mexicului. Zona este un centru al industriei grele, găzduind facilități de producție importante ale Stellantis (fostul Chrysler) și Daimler Truck. Regiunea beneficiază de conexiuni logistice excelente către Statele Unite.",
+      en: "The Derramadero industrial complex south of Saltillo in Coahuila is often referred to as the Detroit of Mexico. The area is a hub for heavy industry and hosts significant production facilities for Stellantis (formerly Chrysler) and Daimler Truck. The region benefits from excellent logistical connectivity to the United States.",
+    },
+    factsAdvanced: {
+      de: ["Derramadero ist Teil des Automobilclusters von Coahuila, einem der größten des Landes.", "Stellantis produziert hier unter anderem den Ram-Pickup für den Export.", "Daimler betreibt in Derramadero ein Werk für die Marke Freightliner.", "Die Zone liegt etwa 25 Kilometer vom Stadtzentrum von Saltillo entfernt.", "Zahlreiche Tier-1-Zulieferer haben sich in unmittelbarer Nähe der OEM-Werke angesiedelt.", "Die Region ist ein wichtiger Standort für die Herstellung von Dieselmotoren."],
+      hu: ["Derramadero Coahuila autóipari klaszterének része, amely az ország egyik legnagyobbja.", "A Stellantis itt gyártja többek között a Ram pickupokat exportra.", "A Daimler Freightliner márkájú teherautók gyárát üzemelteti Derramaderóban.", "A zóna körülbelül 25 kilométerre található Saltillo városközpontjától.", "Számos Tier-1 beszállító telepedett le az autógyárak közvetlen közelében.", "A régió a dízelmotorgyártás egyik kiemelkedő helyszíne."],
+      ro: ["Derramadero face parte din clusterul auto din Coahuila, unul dintre cele mai mari din țară.", "Stellantis produce aici, printre altele, modelul de pickup Ram pentru export.", "Daimler operează în Derramadero o uzină pentru marca Freightliner.", "Zona industrială se află la aproximativ 25 de kilometri de centrul orașului Saltillo.", "Numeroși furnizori de rangul 1 s-au stabilit în imediata apropiere a uzinelor producătoare.", "Regiunea este un centru important pentru fabricarea motoarelor diesel."],
+      en: ["Derramadero is part of the Coahuila automotive cluster, one of the largest in Mexico.", "Stellantis produces the Ram pickup truck here for international export.", "Daimler operates a plant for the Freightliner brand in Derramadero.", "The zone is located approximately 25 kilometers from the city center of Saltillo.", "Numerous Tier-1 suppliers have settled in immediate proximity to the OEM plants.", "The region is a key location for the manufacturing of diesel engines."],
+    },
   },
   {
     id: "mexico-valle-del-yaqui-agriculture-economic-v2",
@@ -380,6 +608,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Center for wheat research", "Intensive irrigation systems", "Site of Norman Borlaug's work", "Major wheat exporter"],
     },
     imageHint: "Large wheat fields and irrigation canals in Yaqui Valley",
+    descriptionAdvanced: {
+      de: "Das Yaqui-Tal im Bundesstaat Sonora gilt als die Kornkammer Mexikos und ist weltweit als Geburtsstätte der Grünen Revolution bekannt. Durch großflächige Bewässerungssysteme wurde die Halbwüste in eines der produktivsten Agrargebiete für Weizen verwandelt. Hier forschte Norman Borlaug an ertragreichen Getreidesorten, wofür er den Friedensnobelpreis erhielt.",
+      hu: "A Sonora állambeli Yaqui-völgyet Mexikó magtárának tekintik, és világszerte a zöld forradalom bölcsőjeként ismert. A kiterjedt öntözőrendszereknek köszönhetően a félsivatagot a búza egyik legtermékenyebb mezőgazdasági területévé alakították. Itt végzett kutatásokat Norman Borlaug a nagy hozamú gabonafajtákkal, amiért Nobel-békedíjat kapott.",
+      ro: "Valea Yaqui din statul Sonora este considerată grânarul Mexicului și este cunoscută la nivel mondial drept locul de naștere al Revoluției Verzi. Prin sisteme de irigații extinse, zona semideșertică a fost transformată într-una dintre cele mai productive arii agricole pentru grâu. Aici, Norman Borlaug a cercetat soiuri de cereale cu randament ridicat, primind Premiul Nobel pentru Pace.",
+      en: "The Yaqui Valley in the state of Sonora is considered the granary of Mexico and is globally renowned as the birthplace of the Green Revolution. Extensive irrigation systems transformed the semi-desert into one of the most productive agricultural areas for wheat. This is where Norman Borlaug researched high-yield cereal varieties, for which he received the Nobel Peace Prize.",
+    },
+    factsAdvanced: {
+      de: ["Das Tal umfasst rund 450.000 Hektar bewässertes Ackerland.", "Ciudad Obregón ist das wirtschaftliche Zentrum und logistischer Hub der Region.", "Die Grüne Revolution begann hier in den 1940er und 1950er Jahren.", "Neben Weizen werden im Yaqui-Tal auch Mais, Baumwolle und Gemüse angebaut.", "Das Bewässerungssystem wird primär durch den Álvaro-Obregón-Staudamm gespeist.", "Über 50 % der mexikanischen Weizenproduktion stammt aus diesem Gebiet."],
+      hu: ["A völgy mintegy 450 000 hektár öntözött szántóföldet foglal magában.", "Ciudad Obregón a régió gazdasági központja és logisztikai csomópontja.", "A zöld forradalom az 1940-es és 1950-es években vette itt kezdetét.", "A búza mellett kukoricát, gyapotot és zöldségeket is termesztenek a völgyben.", "Az öntözőrendszert elsősorban az Álvaro Obregón-gát táplálja.", "A mexikói búzatermelés több mint 50%-a ebből a térségből származik."],
+      ro: ["Valea cuprinde aproximativ 450.000 de hectare de teren agricol irigat.", "Ciudad Obregón este centrul economic și hub-ul logistic al regiunii.", "Revoluția Verde a început aici în anii 1940 și 1950.", "Pe lângă grâu, în Valea Yaqui se cultivă porumb, bumbac și legume.", "Sistemul de irigații este alimentat în principal de barajul Álvaro Obregón.", "Peste 50% din producția de grâu a Mexicului provine din această zonă."],
+      en: ["The valley encompasses around 450,000 hectares of irrigated farmland.", "Ciudad Obregón serves as the economic center and logistical hub of the region.", "The Green Revolution began here during the 1940s and 1950s.", "In addition to wheat, corn, cotton, and vegetables are grown in the Yaqui Valley.", "The irrigation system is primarily fed by the Álvaro Obregón Dam.", "Over 50% of Mexican wheat production originates from this area."],
+    },
   },
   {
     id: "mexico-la-laguna-dairy-region-economic-v2",
@@ -399,6 +639,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Home to the Lala company", "Highest cow density in the country", "Historically vital for cotton", "Major alfalfa production"],
     },
     imageHint: "Large scale dairy farm and fields in La Laguna",
+    descriptionAdvanced: {
+      de: "Die Region La Laguna, die sich über Teile von Coahuila und Durango erstreckt, ist das wichtigste Zentrum der mexikanischen Milchwirtschaft. Trotz des semi-ariden Klimas ermöglicht eine intensive Bewässerung die Haltung großer Viehbestände und den Anbau von Futtermitteln. Hier befindet sich der Hauptsitz der Grupo Lala, einem der größten Molkereiunternehmen Lateinamerikas.",
+      hu: "A Coahuila és Durango államok területén átívelő La Laguna régió a mexikói tejipar legfontosabb központja. A félszáraz éghajlat ellenére az intenzív öntözés lehetővé teszi a nagy állatállomány tartását és a takarmánynövények termesztését. Itt található a Grupo Lala központja, amely Latin-Amerika egyik legnagyobb tejipari vállalata.",
+      ro: "Regiunea La Laguna, care se întinde pe părți din Coahuila și Durango, este cel mai important centru al industriei lactatelor din Mexic. În ciuda climatului semiarid, irigarea intensivă permite creșterea unor efective mari de animale și cultivarea furajelor. Aici se află sediul Grupo Lala, una dintre cele mai mari companii de lactate din America Latină.",
+      en: "The La Laguna region, spanning parts of Coahuila and Durango, is the most important center for the Mexican dairy industry. Despite the semi-arid climate, intensive irrigation enables the keeping of large livestock herds and the cultivation of fodder crops. It is home to the headquarters of Grupo Lala, one of the largest dairy companies in Latin America.",
+    },
+    factsAdvanced: {
+      de: ["La Laguna produziert etwa 25 % der gesamten Milchmenge Mexikos.", "Die wichtigsten Städte der Region sind Torreón, Gómez Palacio und Lerdo.", "Die Region war Ende des 19. Jahrhunderts ein bedeutendes Zentrum des Baumwollanbaus.", "Über 400.000 Milchkühe werden in den spezialisierten Betrieben gehalten.", "Das Wasser für die Landwirtschaft stammt größtenteils aus den Stauseen Lázaro Cárdenas und Francisco Zarco.", "La Laguna verfügt über eine hoch entwickelte Logistikkette für gekühlte Lebensmittel."],
+      hu: ["La Laguna termeli Mexikó teljes tejmennyiségének körülbelül 25%-át.", "A régió legfontosabb városai Torreón, Gómez Palacio és Lerdo.", "A régió a 19. század végén a gyapottermesztés jelentős központja volt.", "A szakosodott gazdaságokban több mint 400 000 tejelő tehenet tartanak.", "A mezőgazdasági vizet nagyrészt a Lázaro Cárdenas és Francisco Zarco gátak biztosítják.", "La Laguna fejlett logisztikai lánccal rendelkezik a hűtött élelmiszerek szállítására."],
+      ro: ["La Laguna produce aproximativ 25% din cantitatea totală de lapte din Mexic.", "Principalele orașe din regiune sunt Torreón, Gómez Palacio și Lerdo.", "Regiunea a fost un centru major al cultivării bumbacului la sfârșitul secolului al XIX-lea.", "Peste 400.000 de vaci cu lapte sunt crescute în fermele specializate.", "Apa pentru agricultură provine în mare parte din barajele Lázaro Cárdenas și Francisco Zarco.", "La Laguna dispune de un lanț logistic extrem de dezvoltat pentru alimente refrigerate."],
+      en: ["La Laguna produces approximately 25% of Mexico's total milk supply.", "The key cities in the region are Torreón, Gómez Palacio, and Lerdo.", "The region was a significant center for cotton cultivation in the late 19th century.", "Over 400,000 dairy cows are kept in specialized farming operations.", "Water for agriculture primarily comes from the Lázaro Cárdenas and Francisco Zarco dams.", "La Laguna features a highly developed logistics chain for refrigerated food products."],
+    },
   },
   {
     id: "mexico-minatitlan-refinery-economic-v2",
@@ -418,6 +670,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Commissioned in 1906", "Capacity of 285,000 barrels", "Southern oil industry hub", "Extensively modernized in 2011"],
     },
     imageHint: "Industrial oil refinery towers in Minatitlan",
+    descriptionAdvanced: {
+      de: "Die Raffinerie 'Lázaro Cárdenas' in Minatitlán, Veracruz, ist die älteste noch in Betrieb befindliche Raffinerie Mexikos und wurde 1906 gegründet. Sie ist ein Eckpfeiler der staatlichen Ölgesellschaft Pemex und versorgt den Südosten des Landes mit Kraftstoffen. In den letzten Jahrzehnten wurde der Komplex mehrfach modernisiert, um schweres Rohöl effizienter zu verarbeiten.",
+      hu: "A Veracruz állambeli Minatitlánban található 'Lázaro Cárdenas' finomító Mexikó legrégebbi, ma is működő finomítója, amelyet 1906-ban alapítottak. Az állami olajtársaság, a Pemex egyik alappillére, amely az ország délkeleti részét látja el üzemanyaggal. Az elmúlt évtizedekben a komplexumot többször modernizálták a nehézkőolaj hatékonyabb feldolgozása érdekében.",
+      ro: "Rafinăria 'Lázaro Cárdenas' din Minatitlán, Veracruz, este cea mai veche rafinărie aflată încă în funcțiune din Mexic, fiind fondată în 1906. Este un pilon al companiei petroliere de stat Pemex, aprovizionând sud-estul țării cu combustibili. În ultimele decenii, complexul a fost modernizat de mai multe ori pentru a procesa mai eficient țițeiul greu.",
+      en: "The 'Lázaro Cárdenas' refinery in Minatitlán, Veracruz, is Mexico's oldest refinery still in operation, founded in 1906. It is a cornerstone of the state-owned oil company Pemex, supplying the southeast of the country with fuels. In recent decades, the complex has undergone several modernizations to process heavy crude oil more efficiently.",
+    },
+    factsAdvanced: {
+      de: ["Die Raffinerie hat eine installierte Kapazität von rund 285.000 Barrel pro Tag.", "Sie war die erste Raffinerie in Lateinamerika, die modernes Cracken einsetzte.", "Minatitlán liegt strategisch günstig am Ufer des Flusses Coatzacoalcos.", "Der Komplex umfasst über 25 verschiedene Verarbeitungsanlagen.", "Neben Benzin und Diesel produziert das Werk auch verschiedene petrochemische Basisstoffe.", "Die Raffinerie ist ein wesentlicher Bestandteil des interozeanischen Korridors."],
+      hu: ["A finomító beépített kapacitása naponta körülbelül 285 000 hordó.", "Ez volt az első finomító Latin-Amerikában, amely modern krakkolást alkalmazott.", "Minatitlán stratégiai helyen, a Coatzacoalcos-folyó partján fekszik.", "A komplexum több mint 25 különböző feldolgozóegységet foglal magában.", "A benzin és dízel mellett az üzem különböző petrolkémiai alapanyagokat is gyárt.", "A finomító a Tehuantepec-földszoros interoceanikus folyosójának szerves része."],
+      ro: ["Rafinăria are o capacitate instalată de aproximativ 285.000 de barili pe zi.", "A fost prima rafinărie din America Latină care a utilizat procese moderne de cracare.", "Minatitlán este situată strategic pe malul râului Coatzacoalcos.", "Complexul include peste 25 de unități de procesare diferite.", "Pe lângă benzină și motorină, uzina produce diverse materii prime petrochimice.", "Rafinăria este o componentă esențială a Coridorului Interoceanic."],
+      en: ["The refinery has an installed capacity of approximately 285,000 barrels per day.", "It was the first refinery in Latin America to employ modern cracking processes.", "Minatitlán is strategically located on the banks of the Coatzacoalcos River.", "The complex comprises over 25 different processing plants.", "In addition to gasoline and diesel, the plant produces various petrochemical feedstocks.", "The refinery is a key component of the Interoceanic Corridor project."],
+    },
   },
   {
     id: "mexico-cadereyta-refinery-economic-v2",
@@ -437,6 +701,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Located near Monterrey", "Produces low-sulfur gasoline", "Strategic for the north", "High level of automation"],
     },
     imageHint: "Oil refinery with large storage tanks in Cadereyta Jimenez",
+    descriptionAdvanced: {
+      de: "Die Raffinerie 'Ing. Héctor R. Lara Sosa' in Cadereyta, Nuevo León, ist die wichtigste Anlage zur Kraftstoffversorgung Nordmexikos. Sie liegt etwa 35 Kilometer östlich von Monterrey und verarbeitet Rohöl zu Benzin, Diesel und Düsentreibstoff für die Industrieregionen. Die Anlage spielt eine entscheidende Rolle für die wirtschaftliche Stabilität des mexikanischen Nordens.",
+      hu: "A Nuevo León állambeli Cadereytában található 'Ing. Héctor R. Lara Sosa' finomító Észak-Mexikó legfontosabb üzemanyag-ellátó létesítménye. Monterreytől körülbelül 35 kilométerre keletre fekszik, és nyersolajat dolgoz fel benzinné, dízellé és repülőgép-üzemanyaggá az ipari régiók számára. Az üzem döntő szerepet játszik a mexikói észak gazdasági stabilitásában.",
+      ro: "Rafinăria 'Ing. Héctor R. Lara Sosa' din Cadereyta, Nuevo León, este cea mai importantă unitate de furnizare a combustibilului pentru nordul Mexicului. Situată la aproximativ 35 de kilometri est de Monterrey, aceasta procesează țițeiul în benzină, motorină și combustibil pentru aviație pentru regiunile industriale. Unitatea joacă un rol crucial în stabilitatea economică a nordului mexican.",
+      en: "The 'Ing. Héctor R. Lara Sosa' refinery in Cadereyta, Nuevo León, is the most important facility for fuel supply in Northern Mexico. Located about 35 kilometers east of Monterrey, it processes crude oil into gasoline, diesel, and jet fuel for the industrial regions. The plant plays a critical role in the economic stability of the Mexican north.",
+    },
+    factsAdvanced: {
+      de: ["Die Raffinerie wurde im Jahr 1979 offiziell eingeweiht.", "Die Verarbeitungskapazität liegt bei etwa 275.000 Barrel Rohöl pro Tag.", "Sie versorgt die Bundesstaaten Nuevo León, Coahuila und Tamaulipas mit Treibstoff.", "Die Raffinerie ist über Pipelines direkt mit den Ölfeldern im Südosten verbunden.", "Der Komplex verfügt über eine eigene Anlage zur Schwefelrückgewinnung.", "Cadereyta ist eine der größten von Pemex betriebenen Raffinerien im Land."],
+      hu: ["A finomítót hivatalosan 1979-ben avatták fel.", "Feldolgozási kapacitása naponta körülbelül 275 000 hordó nyersolaj.", "Nuevo León, Coahuila és Tamaulipas államokat látja el üzemanyaggal.", "A finomítót csővezetékek kötik össze közvetlenül a délkeleti olajmezőkkel.", "A komplexum saját kén-visszanyerő egységgel rendelkezik.", "Cadereyta a Pemex által üzemeltetett egyik legnagyobb finomító az országban."],
+      ro: ["Rafinăria a fost inaugurată oficial în anul 1979.", "Capacitatea de procesare este de aproximativ 275.000 de barili de țiței pe zi.", "Aprovizionează cu combustibil statele Nuevo León, Coahuila și Tamaulipas.", "Rafinăria este conectată prin conducte direct cu câmpurile petroliere din sud-est.", "Complexul dispune de o unitate proprie pentru recuperarea sulfului.", "Cadereyta este una dintre cele mai mari rafinării operate de Pemex în țară."],
+      en: ["The refinery was officially inaugurated in 1979.", "The processing capacity is approximately 275,000 barrels of crude oil per day.", "It supplies fuels to the states of Nuevo León, Coahuila, and Tamaulipas.", "The refinery is directly connected to southeastern oil fields via pipelines.", "The complex features its own sulfur recovery unit.", "Cadereyta is one of the largest refineries operated by Pemex in the country."],
+    },
   },
   {
     id: "mexico-piedras-negras-coal-economic-v2",
@@ -456,6 +732,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Supplies thermal power plants", "Most important coal reserves", "Strong trade links to the USA", "Shapes local economy since 1880"],
     },
     imageHint: "Open pit coal mine in Piedras Negras Coahuila",
+    descriptionAdvanced: {
+      de: "Piedras Negras im Bundesstaat Coahuila ist das Zentrum der mexikanischen Kohleförderung im Sabinas-Becken. Die hier gewonnene thermische Kohle ist essenziell für die Stromerzeugung in den nahegelegenen Großkraftwerken Carbón I und II. Die Region ist einer der wenigen Orte in Mexiko, an denen Steinkohle im industriellen Maßstab abgebaut wird.",
+      hu: "A Coahuila állambeli Piedras Negras a Sabinas-medence mexikói szénbányászatának központja. Az itt kitermelt energetikai szén alapvető fontosságú a közeli Carbón I és II hőerőművek villamosenergia-termeléséhez. Ez a régió azon kevés helyek egyike Mexikóban, ahol ipari méretekben bányásznak kőszenet.",
+      ro: "Piedras Negras din statul Coahuila este centrul mineritului de cărbune mexican în bazinul Sabinas. Cărbunele termic extras aici este esențial pentru generarea de energie electrică în marile centrale Carbón I și II din apropiere. Regiunea este una dintre puținele locații din Mexic unde cărbunele este extras la scară industrială.",
+      en: "Piedras Negras in the state of Coahuila is the center of Mexican coal mining in the Sabinas Basin. The thermal coal extracted here is essential for power generation in the nearby large-scale power plants, Carbón I and II. The region is one of the few places in Mexico where coal is mined on an industrial scale.",
+    },
+    factsAdvanced: {
+      de: ["Die Kohlevorkommen in der Region gehören zu den größten des Landes.", "Der Bergbau erfolgt sowohl im Tagebau als auch unter Tage.", "Die Kraftwerke Carbón I und II decken einen erheblichen Teil des mexikanischen Strombedarfs.", "Die Minen werden primär von Unternehmen wie Micare betrieben.", "Piedras Negras liegt direkt an der Grenze zu Eagle Pass, Texas.", "Der Kohletransport erfolgt überwiegend über ein spezialisiertes Schienennetz."],
+      hu: ["A régió szénkészletei az ország legnagyobbjai közé tartoznak.", "A bányászat külszíni és föld alatti módszerekkel egyaránt folyik.", "A Carbón I és II erőművek a mexikói áramigény jelentős részét fedezik.", "A bányákat elsősorban olyan vállalatok üzemeltetik, mint a Micare.", "Piedras Negras közvetlenül a texasi Eagle Pass határán fekszik.", "A szénszállítás túlnyomórészt speciális vasúti hálózaton keresztül történik."],
+      ro: ["Zăcămintele de cărbune din regiune sunt printre cele mai mari din țară.", "Mineritul se realizează atât în cariere de suprafață, cât și în subteran.", "Centralele Carbón I și II acoperă o parte considerabilă din cererea de electricitate a Mexicului.", "Minele sunt operate în principal de companii precum Micare.", "Piedras Negras este situat chiar la granița cu Eagle Pass, Texas.", "Transportul cărbunelui se face predominant printr-o rețea feroviară specializată."],
+      en: ["The coal reserves in the region are among the largest in the country.", "Mining is conducted through both open-pit and underground methods.", "The Carbón I and II power plants supply a significant portion of Mexico's electricity needs.", "The mines are primarily operated by companies such as Micare.", "Piedras Negras is located directly on the border with Eagle Pass, Texas.", "Coal transport is predominantly handled via a specialized rail network."],
+    },
   },
   {
     id: "mexico-san-luis-rio-colorado-trade-economic-v2",
@@ -475,6 +763,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Major producer of dates", "Large border hub for trucks", "Connected to the Imperial Valley", "Center of the maquiladora industry"],
     },
     imageHint: "Border crossing facilities and fields in San Luis Rio Colorado",
+    descriptionAdvanced: {
+      de: "San Luis Río Colorado in Sonora ist ein strategisches Handels- und Logistikzentrum an der Grenze zu Arizona, USA. Die Stadt dient als wichtiger Grenzübergang für Agrarexporte und Industrieprodukte aus den nordwestlichen Bundesstaaten Mexikos. Neben dem Handel spielt die moderne Landwirtschaft im umliegenden Wüstengebiet eine zentrale wirtschaftliche Rolle.",
+      hu: "A Sonora állambeli San Luis Río Colorado stratégiai kereskedelmi és logisztikai központ az amerikai Arizona határán. A város fontos határátkelőhelyként szolgál a Mexikó északnyugati államaiból származó agrár- és ipari termékek számára. A kereskedelem mellett a környező sivatagi területeken folyó modern mezőgazdaság is meghatározó gazdasági szerepet játszik.",
+      ro: "San Luis Río Colorado din Sonora este un centru strategic de comerț și logistică la granița cu Arizona, SUA. Orașul servește ca punct important de trecere a frontierei pentru exporturile agricole și produsele industriale din statele din nord-vestul Mexicului. Pe lângă comerț, agricultura modernă din zona deșertică înconjurătoare joacă un rol economic central.",
+      en: "San Luis Río Colorado in Sonora is a strategic trade and logistics center on the border with Arizona, USA. The city serves as a vital border crossing for agricultural exports and industrial products from Mexico's northwestern states. In addition to trade, modern agriculture in the surrounding desert area plays a central economic role.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt ist bekannt für den Export von hochwertigem Spargel und Datteln.", "Der Grenzübergang San Luis I ist einer der meistgenutzten in der Region.", "Die Region nutzt Wasser aus dem Colorado River für die Bewässerung.", "San Luis Río Colorado wurde 1917 offiziell als Gemeinde gegründet.", "Die lokale Wirtschaft wird durch zahlreiche Maquiladoras (Veredelungsbetriebe) gestärkt.", "Das Klima ist extrem arid mit Sommertemperaturen von oft über 45 Grad Celsius."],
+      hu: ["A város híres a kiváló minőségű spárga és datolya exportjáról.", "A San Luis I határátkelő a régió egyik legforgalmasabbja.", "A régió a Colorado-folyó vizét használja az öntözéshez.", "San Luis Río Coloradót 1917-ben alapították hivatalosan községként.", "A helyi gazdaságot számos maquiladora (feldolgozóüzem) erősíti.", "Az éghajlat rendkívül száraz, a nyári hőmérséklet gyakran meghaladja a 45 Celsius-fokot."],
+      ro: ["Orașul este cunoscut pentru exportul de sparanghel și curmale de înaltă calitate.", "Punctul de trecere a frontierei San Luis I este unul dintre cele mai utilizate din regiune.", "Regiunea utilizează apa din râul Colorado pentru irigații.", "San Luis Río Colorado a fost fondat oficial ca municipalitate în 1917.", "Economia locală este consolidată de numeroase maquiladoras (uzine de asamblare).", "Climatul este extrem de arid, cu temperaturi de vară care depășesc adesea 45 de grade Celsius."],
+      en: ["The city is well-known for the export of high-quality asparagus and dates.", "The San Luis I border crossing is one of the most utilized in the region.", "The area utilizes water from the Colorado River for its irrigation systems.", "San Luis Río Colorado was officially established as a municipality in 1917.", "The local economy is bolstered by numerous maquiladora assembly plants.", "The climate is extremely arid, with summer temperatures often exceeding 45 degrees Celsius."],
+    },
   },
   {
     id: "mexico-caborca-gold-district-economic-v2",
@@ -494,6 +794,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Herradura is one of the largest mines", "Desert open-pit mining", "Significant free gold deposits", "Vital for local employment"],
     },
     imageHint: "Gold mine operations in the arid desert of Caborca",
+    descriptionAdvanced: {
+      de: "Der Goldbergbaudistrikt von Caborca in der Sonora-Wüste ist eines der produktivsten Edelmetallgebiete Mexikos. Das Herzstück des Distrikts ist die Mine 'La Herradura', eine der größten Goldminen des Landes, die im Tagebau betrieben wird. Die Bergbauaktivitäten haben Caborca zu einem bedeutenden wirtschaftlichen Motor in einer ansonsten kargen Region gemacht.",
+      hu: "A Sonora-sivatagban található caborcai aranybányászati körzet Mexikó egyik legtermékenyebb nemesfém-lelőhelye. A körzet szíve a 'La Herradura' bánya, az ország egyik legnagyobb külszíni aranybányája. A bányászati tevékenység Caborcát jelentős gazdasági motorrá tette ebben az egyébként kietlen régióban.",
+      ro: "Districtul minier aurifer Caborca din deșertul Sonora este una dintre cele mai productive zone de metale prețioase din Mexic. Nucleul districtului este mina 'La Herradura', una dintre cele mai mari mine de aur din țară, operată în carieră deschisă. Activitățile miniere au transformat Caborca într-un motor economic semnificativ într-o regiune altfel aridă.",
+      en: "The Caborca gold mining district in the Sonoran Desert is one of Mexico's most productive precious metal areas. The heart of the district is the 'La Herradura' mine, one of the largest open-pit gold mines in the country. Mining activities have made Caborca a significant economic engine in an otherwise barren region.",
+    },
+    factsAdvanced: {
+      de: ["Die Mine La Herradura wird von Fresnillo plc, einem weltweit führenden Silberproduzenten, betrieben.", "Der großflächige Goldabbau in der Region begann intensiv in den 1990er Jahren.", "Neben Gold werden im Distrikt auch signifikante Mengen an Silber gewonnen.", "Die Goldgewinnung erfolgt primär durch das Haufenlaugungsverfahren.", "Caborca ist zudem ein wichtiges Zentrum für den Anbau von Weintrauben und Oliven.", "Der Bergbau bietet direkte Beschäftigung für Tausende von Menschen in der Region."],
+      hu: ["A La Herradura bányát a Fresnillo plc, a világ egyik vezető ezüsttermelője üzemelteti.", "A nagyszabású aranybányászat a régióban az 1990-es években kezdődött intenzíven.", "Az arany mellett jelentős mennyiségű ezüstöt is kitermelnek a körzetben.", "Az arany kinyerése elsősorban halmos lúgozási eljárással történik.", "Caborca emellett a szőlő- és olívatermesztés fontos központja is.", "A bányászat közvetlen munkalehetőséget biztosít több ezer ember számára a régióban."],
+      ro: ["Mina La Herradura este operată de Fresnillo plc, un lider mondial în producția de argint.", "Exploatarea aurului la scară largă în regiune a început intens în anii 1990.", "Pe lângă aur, în district se extrag și cantități semnificative de argint.", "Extracția aurului se realizează în principal prin procesul de lixiviere în stive.", "Caborca este, de asemenea, un centru important pentru cultivarea strugurilor și măslinelor.", "Mineritul oferă locuri de muncă directe pentru mii de oameni din regiune."],
+      en: ["The La Herradura mine is operated by Fresnillo plc, a global leader in silver production.", "Large-scale gold mining in the region began intensively during the 1990s.", "In addition to gold, significant quantities of silver are also extracted in the district.", "Gold recovery is primarily achieved through the heap leaching process.", "Caborca is also a major center for the cultivation of grapes and olives.", "The mining industry provides direct employment for thousands of people in the region."],
+    },
   },
   {
     id: "mexico-navojoa-agro-industry-economic-v2",
@@ -513,6 +825,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Center for pork exports", "Major milling and oil industry", "Gateway to the Mayo Valley", "Focus on modern irrigation"],
     },
     imageHint: "Industrial silos and agricultural processing plants in Navojoa",
+    descriptionAdvanced: {
+      de: "Navojoa im Süden von Sonora ist ein bedeutendes Zentrum für die Agrarindustrie im Mayo-Tal. Die Stadt fungiert als Verarbeitungs- und Logistikpunkt für die massiven Ernten von Weizen, Kichererbsen und Soja aus der Umgebung. Die lokale Wirtschaft ist stark durch die Veredelung landwirtschaftlicher Rohstoffe und die Herstellung von Futtermitteln geprägt.",
+      hu: "A Sonora déli részén fekvő Navojoa a Mayo-völgy agráriparának jelentős központja. A város a környező területekről származó hatalmas búza-, csicseriborsó- és szójatermés feldolgozó- és logisztikai pontjaként működik. A helyi gazdaságot erősen meghatározza a mezőgazdasági nyersanyagok feldolgozása és a takarmánygyártás.",
+      ro: "Navojoa, situat în sudul statului Sonora, este un centru important pentru industria agricolă din Valea Mayo. Orașul funcționează ca punct de procesare și logistică pentru recoltele masive de grâu, năut și soia din împrejurimi. Economia locală este puternic marcată de prelucrarea materiilor prime agricole și de producția de furaje.",
+      en: "Navojoa, located in southern Sonora, is a significant center for the agro-industry in the Mayo Valley. The city serves as a processing and logistics hub for massive harvests of wheat, chickpeas, and soybeans from the surrounding areas. The local economy is strongly characterized by the processing of agricultural raw materials and the production of animal feed.",
+    },
+    factsAdvanced: {
+      de: ["Navojoa liegt im Herzen des fruchtbaren Mayo-Tals.", "Die Stadt ist ein wichtiger Eisenbahnknotenpunkt für den Export von Agrargütern.", "Hier befinden sich große Mühlenbetriebe und Anlagen zur Lebensmittelverarbeitung.", "Die Region ist einer der Hauptexporteure von Kichererbsen nach Europa und Asien.", "Navojoa wurde offiziell im Jahr 1923 zur Stadt erhoben.", "Die Landwirtschaft wird durch den Adolfo-Ruiz-Cortines-Staudamm (Mocúzari) unterstützt."],
+      hu: ["Navojoa a termékeny Mayo-völgy szívében található.", "A város fontos vasúti csomópont az agrártermékek exportjához.", "Itt nagy malomipari üzemek és élelmiszerfeldolgozó létesítmények találhatók.", "A régió a csicseriborsó egyik fő exportőre Európa és Ázsia felé.", "Navojoát hivatalosan 1923-ban nyilvánították várossá.", "A mezőgazdaságot az Adolfo Ruiz Cortines-gát (Mocúzari) támogatja."],
+      ro: ["Navojoa este situat în inima fertilei Văi Mayo.", "Orașul este un nod feroviar important pentru exportul de bunuri agricole.", "Aici se află mari unități de morărit și facilități de procesare a alimentelor.", "Regiunea este unul dintre principalii exportatori de năut către Europa și Asia.", "Navojoa a fost ridicat oficial la rangul de oraș în anul 1923.", "Agricultura este susținută de barajul Adolfo Ruiz Cortines (Mocúzari)."],
+      en: ["Navojoa is located in the heart of the fertile Mayo Valley.", "The city serves as a major railway junction for the export of agricultural goods.", "Large-scale milling operations and food processing plants are located here.", "The region is a leading exporter of chickpeas to Europe and Asia.", "Navojoa was officially granted city status in 1923.", "Agriculture is supported by the Adolfo Ruiz Cortines (Mocúzari) Dam."],
+    },
   },
   {
     id: "mexico-intermodal-terminal-queretaro-economic-v2",
@@ -532,6 +856,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Most important dry port", "On-site customs clearance", "Hub for KCSM trains", "Direct access to Highway 57"],
     },
     imageHint: "Cargo containers and railway tracks in a logistics terminal",
+    descriptionAdvanced: {
+      de: "Das Intermodal-Terminal in Querétaro (Terminal Intermodal de Querétaro) ist ein zentraler Logistikstandort im Herzen Mexikos. Es verbindet den Schienenverkehr der wichtigsten Betreiber wie KCSM und Ferromex mit dem Straßentransportnetz. Die Einrichtung ist entscheidend für den Warenfluss zwischen den mexikanischen Häfen und der Grenze zu den USA.",
+      hu: "A querétarói intermodális terminál (Terminal Intermodal de Querétaro) Mexikó szívének egyik központi logisztikai helyszíne. Összeköti a legfontosabb vasúti üzemeltetők, mint a KCSM és a Ferromex hálózatát a közúti szállítási hálózattal. A létesítmény döntő fontosságú a mexikói kikötők és az amerikai határ közötti áruforgalom szempontjából.",
+      ro: "Terminalul Intermodal din Querétaro este o locație logistică centrală în inima Mexicului. Acesta conectează transportul feroviar al operatorilor principali, precum KCSM și Ferromex, cu rețeaua de transport rutier. Facilitatea este crucială pentru fluxul de mărfuri între porturile mexicane și granița cu SUA.",
+      en: "The Querétaro Intermodal Terminal (Terminal Intermodal de Querétaro) is a central logistics site in the heart of Mexico. It connects the rail services of major operators such as KCSM and Ferromex with the road transport network. The facility is critical for the flow of goods between Mexican ports and the US border.",
+    },
+    factsAdvanced: {
+      de: ["Das Terminal liegt verkehrsgünstig im Industriekorridor El Bajío.", "Es bietet spezialisierte Dienstleistungen für den Umschlag von Containern an.", "Die Anlage verfügt über direkte Anbindungen an die Autobahn 57 (NAFTA-Highway).", "Hier werden jährlich Zehntausende von Containereinheiten (TEU) umgeschlagen.", "Das Terminal unterstützt das Just-in-Time-System der regionalen Automobilindustrie.", "Es ist Teil eines großflächigen Logistikparks in der Nähe des Flughafens Querétaro."],
+      hu: ["A terminál kedvező helyen, az El Bajío ipari folyosóban található.", "Speciális szolgáltatásokat kínál a konténerek átrakodásához.", "A létesítmény közvetlen összeköttetéssel rendelkezik az 57-es autópályával (NAFTA-autópálya).", "Évente több tízezer konténernyi egységet (TEU) raknak itt át.", "A terminál támogatja a regionális autóipar Just-in-Time rendszerét.", "A querétarói repülőtér közelében fekvő kiterjedt logisztikai park része."],
+      ro: ["Terminalul este situat strategic în coridorul industrial El Bajío.", "Oferă servicii specializate pentru transbordarea containerelor.", "Facilitatea are conexiuni directe cu autostrada 57 (Autostrada NAFTA).", "Aici sunt manipulate anual zeci de mii de unități de containere (TEU).", "Terminalul susține sistemul Just-in-Time al industriei auto regionale.", "Face parte dintr-un parc logistic vast situat lângă Aeroportul Querétaro."],
+      en: ["The terminal is conveniently located within the El Bajío industrial corridor.", "It offers specialized services for the handling and transshipment of containers.", "The facility has direct connections to Highway 57, also known as the NAFTA Highway.", "Tens of thousands of twenty-foot equivalent units (TEUs) are handled here annually.", "The terminal supports the Just-in-Time systems of the regional automotive industry.", "It is part of a large-scale logistics park near the Querétaro International Airport."],
+    },
   },
   {
     id: "mexico-cactus-gas-plant-economic-v2",
@@ -551,6 +887,18 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Processes associated gas", "Produces LPG and sulfur", "Strategic for PEMEX operations", "Located in the state of Chiapas"],
     },
     imageHint: "Natural gas processing facility with pipes and stacks",
+    descriptionAdvanced: {
+      de: "Die Gasverarbeitungsanlage Cactus in Chiapas ist eine der größten und strategisch wichtigsten Anlagen der staatlichen Ölgesellschaft Pemex. In der Nähe von Reforma gelegen, ist sie das Zentrum für die Aufbereitung von Erdgas aus den Feldern im Südosten Mexikos. Die Anlage extrahiert wertvolle Flüssiggase und reinigt das Erdgas für das nationale Pipelinenetz.",
+      hu: "A Chiapas állambeli Cactus gázfeldolgozó üzem az állami olajtársaság, a Pemex egyik legnagyobb és stratégiailag legfontosabb létesítménye. Reforma közelében található, és a Mexikó délkeleti mezőiről származó földgáz tisztításának központja. Az üzem értékes folyékony gázokat von ki, és tisztítja a földgázt a nemzeti csővezeték-hálózat számára.",
+      ro: "Instalația de procesare a gazelor Cactus din Chiapas este una dintre cele mai mari și mai strategice unități ale companiei Pemex. Situată lângă Reforma, este centrul pentru tratarea gazelor naturale provenite din zăcămintele din sud-estul Mexicului. Instalația extrage gaze lichide valoroase și purifică gazul natural pentru rețeaua națională de conducte.",
+      en: "The Cactus gas processing plant in Chiapas is one of the largest and most strategically important facilities of the state-owned oil company Pemex. Located near Reforma, it is the hub for treating natural gas from the fields in southeastern Mexico. The plant extracts valuable liquid gases and purifies natural gas for the national pipeline network.",
+    },
+    factsAdvanced: {
+      de: ["Cactus ist Teil des größten Gasverarbeitungskomplexes in ganz Mexiko.", "Die Anlage nahm ihren Betrieb in den 1970er Jahren auf.", "Täglich werden hier Hunderte Millionen Kubikfuß Erdgas verarbeitet.", "Neben Erdgas werden Schwefel und Flüssiggase wie Propan und Butan gewonnen.", "Der Komplex ist über ein Netz von Gaspipelines mit dem Zentrum des Landes verbunden.", "Cactus spielt eine Schlüsselrolle bei der Reduzierung des Abfackelns von Gas."],
+      hu: ["Cactus egész Mexikó legnagyobb gázfeldolgozó komplexumának része.", "Az üzem az 1970-es években kezdte meg működését.", "Naponta több százmillió köbláb földgázt dolgoznak fel itt.", "A földgáz mellett ként és folyékony gázokat, például propánt és butánt is előállítanak.", "A komplexumot gázvezeték-hálózat köti össze az ország központi részével.", "Cactus kulcsszerepet játszik a gázfáklyázás csökkentésében."],
+      ro: ["Cactus face parte din cel mai mare complex de procesare a gazelor din întreg Mexicul.", "Instalația și-a început operațiunile în anii 1970.", "Zilnic, aici sunt procesate sute de milioane de picioare cubice de gaz natural.", "Pe lângă gazul natural, se obțin sulf și gaze lichide precum propanul și butanul.", "Complexul este conectat prin conducte de gaz cu centrul țării.", "Cactus joacă un rol cheie în reducerea arderii gazelor la faclă."],
+      en: ["Cactus is part of the largest gas processing complex in all of Mexico.", "The facility began its operations during the 1970s.", "Hundreds of millions of cubic feet of natural gas are processed here daily.", "In addition to natural gas, sulfur and liquid gases such as propane and butane are recovered.", "The complex is connected to the center of the country via a network of gas pipelines.", "Cactus plays a key role in reducing gas flaring in the region."],
+    },
   },
   {
     id: "mexico-seybaplaya-port-economic-v2",
@@ -570,5 +918,17 @@ export const mexicoEconomicV2: POI[] = [
       en: ["Base for Mayan Train construction", "Deep water access available", "Cement transshipment hub", "Key for local limestone quarries"],
     },
     imageHint: "Port facilities and ships in Seybaplaya Campeche",
+    descriptionAdvanced: {
+      de: "Der Hafen von Seybaplaya in Campeche ist ein wachsender maritimer Knotenpunkt mit Fokus auf die Offshore-Ölindustrie im Golf von Mexiko. Er dient als strategische Basis für die Versorgung von Bohrinseln und den Umschlag von Baumaterialien für Großprojekte in der Region. In den letzten Jahren wurde der Hafen massiv ausgebaut, um größere Schiffe und Kreuzfahrtschiffe aufzunehmen.",
+      hu: "A Campeche állambeli Seybaplaya kikötője egy növekvő tengeri csomópont, amely a Mexikói-öböl offshore olajiparára összpontosít. Stratégiai bázisként szolgál a fúrótornyok ellátásához és a régió nagyprojektjeihez szükséges építőanyagok átrakodásához. Az elmúlt években a kikötőt jelentősen kibővítették nagyobb hajók és luxushajók fogadására.",
+      ro: "Portul Seybaplaya din Campeche este un nod maritim în dezvoltare, axat pe industria petrolieră offshore din Golful Mexic. Acesta servește ca bază strategică pentru aprovizionarea platformelor de foraj și transbordarea materialelor de construcție pentru marile proiecte din regiune. În ultimii ani, portul a fost extins masiv pentru a primi nave mai mari și nave de croazieră.",
+      en: "The Port of Seybaplaya in Campeche is a growing maritime hub focused on the offshore oil industry in the Gulf of Mexico. It serves as a strategic base for supplying oil rigs and handling construction materials for major projects in the region. In recent years, the port has undergone massive expansion to accommodate larger vessels and cruise ships.",
+    },
+    factsAdvanced: {
+      de: ["Seybaplaya liegt etwa 30 Kilometer südwestlich der Stadt Campeche.", "Der Hafen verfügt über ein modernes Terminal für den Umschlag von Massengut.", "Er ist ein wichtiger Logistikpunkt für den Bau des Tren Maya Projekts.", "Die Kaimauern wurden für Schiffe mit größerem Tiefgang verstärkt.", "Der Hafen unterstützt die Aktivitäten von Pemex in der Sondenregion von Campeche.", "Im Jahr 2019 wurde das erste Kreuzfahrtterminal im Hafen eingeweiht."],
+      hu: ["Seybaplaya körülbelül 30 kilométerre délnyugatra fekszik Campeche városától.", "A kikötő modern terminállal rendelkezik az ömlesztett áruk átrakodásához.", "Fontos logisztikai pont a Tren Maya projekt építéséhez.", "A rakpartokat megerősítették a nagyobb merülésű hajók számára.", "A kikötő támogatja a Pemex tevékenységét a Campeche-öbölben.", "2019-ben avatták fel a kikötő első luxushajó-terminálját."],
+      ro: ["Seybaplaya este situat la aproximativ 30 de kilometri sud-vest de orașul Campeche.", "Portul dispune de un terminal modern pentru manipularea mărfurilor în vrac.", "Este un punct logistic important pentru construcția proiectului Tren Maya.", "Moloale au fost consolidate pentru a primi nave cu pescaj mai mare.", "Portul susține activitățile Pemex în regiunea marină a Campeche.", "În anul 2019, a fost inaugurat primul terminal de croazieră din port."],
+      en: ["Seybaplaya is located about 30 kilometers southwest of the city of Campeche.", "The port features a modern terminal for the handling of bulk cargo.", "It serves as a key logistics point for the construction of the Tren Maya project.", "The quays have been reinforced to accommodate vessels with deeper drafts.", "The port supports Pemex operations in the Campeche Sound region.", "The first cruise ship terminal in the port was inaugurated in 2019."],
+    },
   }
 ];

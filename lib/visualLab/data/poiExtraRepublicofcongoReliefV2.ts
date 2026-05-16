@@ -19,6 +19,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Cross-border massif", "Predominantly tropical rainforest", "Major watershed", "Rich biodiversity"],
     },
     imageHint: "chaillu mountains landscape",
+    descriptionAdvanced: {
+      de: "Das Chaillu-Gebirge ist ein bedeutender Gebirgszug im Zentrum des Kongos und Gabuns. Es besteht überwiegend aus kristallinen Gesteinen und Granitformationen. Die Region ist von dichtem äquatorialem Regenwald bedeckt und stellt eine wichtige Wasserscheide für mehrere Flusssysteme dar. Die Höhenlagen variieren meist zwischen 500 und 900 Metern über dem Meeresspiegel.",
+      hu: "A Chaillu-hegység Kongó és Gabon határvidékén húzódó, kristályos kőzetekből és gránitból álló vonulat. Területét sűrű egyenlítői esőerdő borítja, amely gazdag biodiverzitásáról és érintetlen ökoszisztémájáról ismert. Fontos vízválasztó szerepet tölt be a térségben, számos mellékfolyó forrásvidéke. A hegység átlagos magassága 500 és 900 méter között mozog.",
+      ro: "Munții Chaillu reprezintă un lanț muntos situat în centrul Republicii Congo și Gabon. Această regiune este formată în principal din roci cristaline și granit, fiind acoperită de o pădure tropicală densă. Munții servesc drept cumpănă de ape importantă pentru mai multe sisteme fluviale africane. Altitudinile din zonă variază de obicei între 500 și 900 de metri.",
+      en: "The Chaillu Mountains are a significant mountain range spanning the central part of the Congo and Gabon. The range is primarily composed of crystalline rocks and granite formations covered by dense equatorial rainforest. It serves as a major watershed for several river systems in the region. Elevations typically range from 500 to 900 meters above sea level.",
+    },
+    factsAdvanced: {
+      de: ["Höchste Erhebung im kongolesischen Teil erreicht etwa 900 Meter", "Besteht hauptsächlich aus präkambrischem Granit und Gneis", "Heimat des Nationalparks Ogoué-Leketi", "Wichtige Quelle für den Fluss Louessé", "Region ist bekannt für ihre hohe Endemismusrate bei Pflanzen", "Erstmals im 19. Jahrhundert von europäischen Forschern kartiert"],
+      hu: ["A kongói szakasz legmagasabb pontjai elérik a 900 métert", "Főként prekambriumi gránitból és gneiszből épül fel", "Itt található az Ogoué-Leketi Nemzeti Park egy része", "A Louessé-folyó egyik legfontosabb forrásvidéke", "A terület híres a magas endemikus növényfajok számáról", "A 19. században térképezték fel először európai felfedezők"],
+      ro: ["Punctele cele mai înalte din secțiunea congoleză ating aproximativ 900 metri", "Format în principal din granit și gnais precambrian", "Găzduiește o parte a Parcului Național Ogoué-Leketi", "Sursă importantă pentru râul Louessé", "Regiunea este cunoscută pentru rata ridicată de endemism a plantelor", "Cartografiat pentru prima dată de exploratorii europeni în secolul al XIX-lea"],
+      en: ["Highest peaks in the Congolese section reach about 900 meters", "Primarily composed of Precambrian granite and gneiss", "Home to parts of the Ogoué-Leketi National Park", "Major source for the Louessé River", "Region is known for its high rate of plant endemism", "First mapped by European explorers in the 19th century"],
+    },
   },
   {
     id: "republicofcongo-mayombe-hills-relief-v2",
@@ -38,6 +50,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Coastal range", "Southwestern region", "Runs near the coast", "Dense forest vegetation"],
     },
     imageHint: "mayombe hills rainforest",
+    descriptionAdvanced: {
+      de: "Das Mayombe-Gebirge erstreckt sich parallel zur Atlantikküste im Südwesten des Kongos. Es handelt sich um eine bewaldete Hügelkette, die für ihre reiche Flora und Fauna bekannt ist. Die Region ist ein Zentrum der Forstwirtschaft und beherbergt das Biosphärenreservat Dimonika. Das Klima ist tropisch-feucht mit erheblichen Niederschlagsmengen während der Regenzeit.",
+      hu: "A Mayombe-hegység az Atlanti-óceán partjával párhuzamosan húzódik Kongó délnyugati részén. Ez az erdős dombvidék kiemelkedő növény- és állatvilágáról, valamint sűrű trópusi esőerdeiről nevezetes. A régió a kongói erdőgazdálkodás központja, és itt található a Dimonika Bioszféra-rezervátum is. Az éghajlat trópusi nedves, jelentős mennyiségű csapadékkal.",
+      ro: "Dealurile Mayombe se întind paralel cu coasta Atlanticului în sud-vestul Republicii Congo. Această regiune muntoasă joasă este acoperită de păduri tropicale dense și este celebră pentru biodiversitatea sa. Zona este un centru important pentru silvicultură și include Rezervația Biosferei Dimonika. Clima este tropical umedă, cu precipitații abundente în sezonul ploios.",
+      en: "The Mayombe Hills stretch parallel to the Atlantic coast in southwestern Congo. This forested hill range is renowned for its rich flora and fauna and dense tropical ecosystems. The region is a hub for forestry and hosts the Dimonika Biosphere Reserve. The climate is tropical and humid, receiving significant rainfall throughout the rainy season.",
+    },
+    factsAdvanced: {
+      de: ["Durchschnittliche Höhe liegt zwischen 400 und 600 Metern", "Teil des größeren Mayombe-Gebirgszugs, der sich bis nach Angola erstreckt", "Beherbergt das 62.000 Hektar große Dimonika-Biosphärenreservat", "Geologisch geprägt durch Schiefer und Quarzit", "Wichtige Region für den Einschlag von Okoumé-Holz", "Niederschlagsmengen können 1.500 mm pro Jahr überschreiten"],
+      hu: ["Átlagos magassága 400 és 600 méter között mozog", "A nagyobb Mayombe-vonulat része, amely Angoláig húzódik", "Itt található a 62 000 hektáros Dimonika Bioszféra-rezervátum", "Geológiailag pala és kvarcit jellemzi", "Fontos terület az okoumé fa kitermelése szempontjából", "Az éves csapadékmennyiség meghaladhatja az 1500 mm-t"],
+      ro: ["Altitudinea medie variază între 400 și 600 de metri", "Parte a lanțului Mayombe mai mare care se întinde până în Angola", "Adăpostește Rezervația Biosferei Dimonika de 62.000 de hectare", "Geologic, este dominat de șisturi și cuarțite", "Regiune vitală pentru exploatarea lemnului de okoumé", "Precipitațiile anuale pot depăși 1.500 mm"],
+      en: ["Average elevation ranges between 400 and 600 meters", "Part of the larger Mayombe range extending into Angola", "Hosts the 62,000-hectare Dimonika Biosphere Reserve", "Geologically characterized by schists and quartzites", "Vital region for Okoumé timber extraction", "Annual rainfall can exceed 1,500 mm"],
+    },
   },
   {
     id: "republicofcongo-congo-basin-lowland-relief-v2",
@@ -57,6 +81,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Lowland region", "Central and northern area", "Dominated by rainforest", "River-rich area"],
     },
     imageHint: "congo basin rainforest",
+    descriptionAdvanced: {
+      de: "Das Kongobecken-Tiefland umfasst den nördlichen Teil des Landes und ist geprägt durch weite, sumpfige Ebenen. Es ist Teil eines der weltweit größten zusammenhängenden Regenwaldgebiete. Die Region wird von einem dichten Netz aus Flüssen durchzogen, die in den Kongo-Strom münden. Die Bodenbeschaffenheit ist oft wassergesättigt, was zur Bildung ausgedehnter Torfmoore führt.",
+      hu: "A Kongó-medence alföldje az ország északi részét foglalja el, széles, mocsaras síkságok jellemzik. A világ egyik legnagyobb összefüggő esőerdő-területének része, amely kritikus szerepet játszik a globális klímaszabályozásban. A vidéket sűrű folyóhálózat hálózza be, amelyek mind a Kongó-folyóba torkollnak. A talaj gyakran vízzel telített, ami kiterjedt tőzeglápok kialakulásához vezet.",
+      ro: "Câmpia Bazinului Congo ocupă partea de nord a țării și este caracterizată prin vaste zone mlăștinoase și câmpii inundabile. Aceasta face parte din una dintre cele mai mari zone compacte de pădure tropicală din lume. Regiunea este traversată de o rețea densă de râuri care se varsă în fluviul Congo. Solul este adesea saturat cu apă, ducând la formarea unor turbării extinse.",
+      en: "The Congo Basin Lowland covers the northern part of the country and is defined by vast, swampy plains and floodplains. It is part of one of the world's largest contiguous tropical rainforests. The region is interlaced with a dense network of rivers that eventually drain into the Congo River. The soil is frequently waterlogged, leading to the formation of extensive peatlands.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt die weltweit größten tropischen Torfmoore", "Fläche der Torfgebiete im Becken beträgt ca. 145.500 km²", "Durchschnittliche Höhe liegt unter 400 Metern", "Speichert schätzungsweise 30 Milliarden Tonnen Kohlenstoff", "Wichtiges Habitat für Waldelefanten und Flachlandgorillas", "Jährliche Niederschläge liegen oft über 1.700 mm"],
+      hu: ["A világ legnagyobb trópusi tőzeglápjainak ad otthont", "A medence tőzeges területei kb. 145 500 km²-t tesznek ki", "Az átlagos tengerszint feletti magasság 400 méter alatt van", "Becslések szerint 30 milliárd tonna szenet tárol a tőzeg", "Az erdei elefántok és síkvidéki gorillák fontos élőhelye", "Az éves csapadék gyakran meghaladja az 1700 mm-t"],
+      ro: ["Adăpostește cele mai mari turbării tropicale din lume", "Suprafața zonelor cu turbă din bazin este de aproximativ 145.500 km²", "Altitudinea medie este sub 400 de metri", "Se estimează că stochează 30 de miliarde de tone de carbon", "Habitat crucial pentru elefanții de pădure și gorilele de câmpie", "Precipitațiile anuale depășesc adesea 1.700 mm"],
+      en: ["Home to the world's largest tropical peatland complex", "Peatland area in the basin covers approximately 145,500 km²", "Average elevation remains below 400 meters", "Estimated to store 30 billion tons of carbon", "Crucial habitat for forest elephants and lowland gorillas", "Annual rainfall often exceeds 1,700 mm"],
+    },
   },
   {
     id: "republicofcongo-mont-kama-relief-v2",
@@ -76,6 +112,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Southern hills", "Forested slopes", "Humid climate", "Elevation in the Niari region"],
     },
     imageHint: "mount kama forest",
+    descriptionAdvanced: {
+      de: "Der Mont Kama ist eine markante Erhebung im Departement Lékoumou im Südwesten des Kongos. Er gehört zum Massiv des Chaillu-Gebirges und ist von dichten Wäldern umgeben. Der Berg spielt eine Rolle für das lokale Mikroklima und dient als Wasserscheide für kleinere Zuflüsse. Die Region ist geologisch alt und besteht vorwiegend aus metamorphen Gesteinen.",
+      hu: "A Mont Kama egy jellegzetes kiemelkedés Kongó délnyugati részén, Lékoumou megyében. A Chaillu-hegység masszívumához tartozik, és sűrű erdővel borított területek veszik körül. A hegy befolyásolja a helyi mikroklímát, és vízválasztóként szolgál a kisebb mellékfolyók számára. A régió geológiailag idős, főként metamorf kőzetek alkotják.",
+      ro: "Muntele Kama este o proeminență distinctivă în departamentul Lékoumou din sud-vestul Republicii Congo. Face parte din masivul munților Chaillu și este înconjurat de păduri dense. Muntele joacă un rol în climatul local și servește drept cumpănă de ape pentru afluenți mai mici. Regiunea este veche din punct de vedere geologic, fiind compusă în principal din roci metamorfice.",
+      en: "Mount Kama is a prominent elevation in the Lékoumou Department of southwestern Congo. It belongs to the Chaillu Mountains massif and is surrounded by dense tropical forests. The mountain influences the local microclimate and serves as a watershed for smaller tributaries. The region is geologically ancient, consisting primarily of metamorphic rocks.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich in der Region Lékoumou", "Teil des kristallinen Chaillu-Massivs", "Höhe liegt über 800 Metern über dem Meeresspiegel", "Umgeben von primärem äquatorialem Regenwald", "Gehört zu den höheren Punkten im Südwesten des Landes", "Wichtiger Punkt für die lokale Biodiversität"],
+      hu: ["Lékoumou régióban található", "A kristályos kőzetekből álló Chaillu-masszívum része", "Magassága 800 méter felett van a tengerszint felett", "Elsődleges egyenlítői esőerdő övezi", "Az ország délnyugati részének egyik magasabb pontja", "Fontos helyszín a helyi biodiverzitás szempontjából"],
+      ro: ["Situat în regiunea Lékoumou", "Face parte din masivul cristalin Chaillu", "Altitudinea depășește 800 de metri deasupra nivelului mării", "Înconjurat de pădure tropicală primară", "Unul dintre punctele înalte din sud-vestul țării", "Punct important pentru biodiversitatea locală"],
+      en: ["Located in the Lékoumou region", "Part of the crystalline Chaillu massif", "Elevation exceeds 800 meters above sea level", "Surrounded by primary equatorial rainforest", "One of the higher points in the southwest of the country", "Important site for local biodiversity"],
+    },
   },
   {
     id: "republicofcongo-kibangou-plateau-relief-v2",
@@ -95,6 +143,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Southwestern plateau", "Varied topography", "Forests and savannas", "Elevation"],
     },
     imageHint: "kibangou plateau landscape",
+    descriptionAdvanced: {
+      de: "Das Kibangou-Plateau liegt im Departement Niari im Südwesten des Landes. Diese Hochebene ist durch sanfte Hügel und Savannenlandschaften gekennzeichnet, die von Galeriewäldern unterbrochen werden. Es stellt einen Übergangsbereich zwischen dem Mayombe-Gebirge und den inneren Ebenen dar. Das Plateau ist für seine landwirtschaftliche Nutzung und Viehzucht von lokaler Bedeutung.",
+      hu: "A Kibangou-fennsík az ország délnyugati részén, Niari megyében található. Ezt a magasföldet lankás dombok és szavannás tájak jellemzik, amelyeket galériaerdők szakítanak meg. Átmeneti zónát képez a Mayombe-hegység és a belső síkságok között. A fennsík helyi jelentőségű a mezőgazdaság és az állattenyésztés szempontjából.",
+      ro: "Podișul Kibangou este situat în departamentul Niari din sud-vestul țării. Acest platou este caracterizat prin dealuri domoale și peisaje de savană, întrerupte de păduri-galerie. Reprezintă o zonă de tranziție între munții Mayombe și câmpiile interioare. Podișul are o importanță locală pentru agricultură și creșterea animalelor.",
+      en: "The Kibangou Plateau is situated in the Niari Department in the southwest of the country. This upland area is characterized by rolling hills and savanna landscapes interspersed with gallery forests. It serves as a transitional zone between the Mayombe Mountains and the interior plains. The plateau holds local importance for agriculture and livestock farming.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Departement Niari", "Durchschnittliche Höhe von ca. 450 bis 600 Metern", "Geprägt durch lateritische Böden", "Wichtige Region für den Anbau von Maniok und Mais", "Beinhaltet bedeutende Savannenökosysteme", "Wird vom Fluss Niari und seinen Nebenflüssen entwässert"],
+      hu: ["Niari megyében fekszik", "Átlagos magassága 450 és 600 méter között van", "Laterites talajok jellemzik", "Fontos terület a manióka és a kukorica termesztésére", "Jelentős szavannai ökoszisztémákkal rendelkezik", "A Niari-folyó és mellékfolyói csapolják le"],
+      ro: ["Situat în departamentul Niari", "Altitudine medie de aproximativ 450-600 de metri", "Caracterizat prin soluri lateritice", "Regiune importantă pentru cultivarea maniocului și porumbului", "Include ecosisteme semnificative de savană", "Drenat de râul Niari și afluenții săi"],
+      en: ["Located in the Niari Department", "Average elevation of approximately 450 to 600 meters", "Characterized by lateritic soils", "Important region for cassava and maize cultivation", "Contains significant savanna ecosystems", "Drained by the Niari River and its tributaries"],
+    },
   },
   {
     id: "republicofcongo-mont-mbe-relief-v2",
@@ -114,6 +174,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Bateke Plateau region", "Sandy plateau", "Hilly elevation", "Eastern country area"],
     },
     imageHint: "bateke plateaus view",
+    descriptionAdvanced: {
+      de: "Der Mont Mbe befindet sich auf dem Batéké-Plateau im Departement Pool. Er ist Teil eines hügeligen Terrains, das durch sandige Böden und weite Grassavannen geprägt ist. Die Region ist bekannt für ihre ökologische Bedeutung und ihre Rolle als Lebensraum für verschiedene Wildtierarten. Geologisch gehört die Erhebung zu den känozoischen Sandsteinformationen des Plateaus.",
+      hu: "A Mont Mbe a Batéké-fennsíkon található, Pool megyében. Ez a dombos vidék homokos talajáról és hatalmas füves szavannáiról ismert. A régió ökológiai jelentősége kiemelkedő, mivel számos vadon élő állatfaj élőhelyéül szolgál. Geológiailag a fennsík kainozoikumi homokkő képződményeihez tartozik.",
+      ro: "Muntele Mbe se află pe podișul Batéké, în departamentul Pool. Face parte dintr-un teren deluros caracterizat prin soluri nisipoase și savane vaste cu iarbă. Regiunea este cunoscută pentru importanța sa ecologică și rolul său de habitat pentru diverse specii de animale sălbatice. Geologic, proeminența aparține formațiunilor de gresie cenozoică ale podișului.",
+      en: "Mount Mbe is located on the Batéké Plateau in the Pool Department. It is part of a hilly terrain characterized by sandy soils and vast grass savannas. The region is known for its ecological importance and its role as a habitat for various wildlife species. Geologically, the elevation belongs to the Cenozoic sandstone formations of the plateau.",
+    },
+    factsAdvanced: {
+      de: ["Teil des Batéké-Plateau-Systems", "Gelegen im Departement Pool", "Besteht überwiegend aus tertiären Sandsteinen", "Region ist für ihre 'Pseudo-Steppen' bekannt", "Wichtiger Bereich für den Naturschutz im südlichen Kongo", "Höhe liegt bei etwa 600-700 Metern"],
+      hu: ["A Batéké-fennsík rendszerének része", "Pool megyében található", "Főként harmadidőszaki homokkőből áll", "A régió a 'pszeudo-sztyeppéiről' ismert", "Fontos természetvédelmi terület Kongó déli részén", "Magassága körülbelül 600-700 méter"],
+      ro: ["Parte a sistemului podișului Batéké", "Situat în departamentul Pool", "Compus în principal din gresii terțiare", "Regiunea este cunoscută pentru 'pseudo-stepele' sale", "Zonă importantă pentru conservarea naturii în sudul Congoului", "Altitudinea este de aproximativ 600-700 de metri"],
+      en: ["Part of the Batéké Plateau system", "Located in the Pool Department", "Composed mainly of Tertiary sandstones", "Region is known for its 'pseudo-steppes'", "Important area for nature conservation in southern Congo", "Elevation is around 600-700 meters"],
+    },
   },
   {
     id: "republicofcongo-kouilou-river-valley-relief-v2",
@@ -133,6 +205,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["River lowlands", "Southwest region", "Drains into the Atlantic", "Riverbed landscape"],
     },
     imageHint: "kouilou river valley",
+    descriptionAdvanced: {
+      de: "Das Kouilou-Tal erstreckt sich entlang des Unterlaufs des Kouilou-Flusses im Südwesten des Kongos. Es ist geprägt durch fruchtbare Alluvialböden und eine Mischung aus Regenwald und Feuchtsavanne. Das Tal bildet eine wichtige Verkehrsader und ist für seine reiche Fischfauna sowie landwirtschaftliche Produktion bekannt. Die Mündung des Flusses in den Atlantik ist ein ökologisch sensibles Ästuar.",
+      hu: "A Kouilou-folyó völgye a folyó alsó szakasza mentén húzódik Kongó délnyugati részén. Termékeny hordalékos talajok, valamint esőerdők és nedves szavannák elegye jellemzi. A völgy fontos közlekedési útvonal, és híres gazdag halállományáról, valamint mezőgazdasági termeléséről. A folyó atlanti-óceáni torkolata ökológiailag érzékeny terület.",
+      ro: "Valea râului Kouilou se întinde de-a lungul cursului inferior al râului Kouilou în sud-vestul Republicii Congo. Este caracterizată prin soluri aluvionare fertile și un amestec de pădure tropicală și savană umedă. Valea constituie o cale de transport importantă și este cunoscută pentru fauna piscicolă bogată și producția agricolă. Gura de vărsare a râului în Atlantic este un estuar sensibil din punct de vedere ecologic.",
+      en: "The Kouilou River Valley stretches along the lower reaches of the Kouilou River in southwestern Congo. It is characterized by fertile alluvial soils and a mix of rainforest and humid savanna. The valley forms a vital transport corridor and is known for its rich fish fauna and agricultural production. The river's mouth at the Atlantic Ocean is an ecologically sensitive estuary.",
+    },
+    factsAdvanced: {
+      de: ["Kouilou ist der wichtigste Fluss des Landes, der direkt in den Atlantik mündet", "Tal beherbergt bedeutende archäologische Fundstätten", "Wichtige Region für den Anbau von Ölpalmen", "Fluss ist für seine zahlreichen Stromschnellen bekannt", "Beinhaltet Teile des Nationalparks Conkouati-Douli", "Mündungsbereich ist wichtig für Meeresschildkröten"],
+      hu: ["A Kouilou az ország legfontosabb folyója, amely közvetlenül az Atlanti-óceánba ömlik", "A völgy jelentős régészeti lelőhelyeknek ad otthont", "Fontos terület az olajpálma termesztése szempontjából", "A folyó számos zúgójáról és vízeséséről nevezetes", "Magában foglalja a Conkouati-Douli Nemzeti Park egyes részeit", "A torkolatvidék fontos a tengeri teknősök számára"],
+      ro: ["Kouilou este cel mai important râu din țară care se varsă direct în Atlantic", "Valea adăpostește situri arheologice semnificative", "Regiune importantă pentru cultivarea palmierilor de ulei", "Râul este cunoscut pentru numeroasele sale repezișuri", "Include părți ale Parcului Național Conkouati-Douli", "Zona estuarului este importantă pentru țestoasele marine"],
+      en: ["The Kouilou is the country's most important river flowing directly into the Atlantic", "The valley hosts significant archaeological sites", "Important region for oil palm cultivation", "The river is known for its numerous rapids", "Includes parts of the Conkouati-Douli National Park", "The estuary area is vital for sea turtles"],
+    },
   },
   {
     id: "republicofcongo-mont-dimonika-relief-v2",
@@ -152,6 +236,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Biosphere reserve", "Mayombe Mountains", "Hilly landscape", "Dense vegetation"],
     },
     imageHint: "dimonika biosphere reserve",
+    descriptionAdvanced: {
+      de: "Der Mont Dimonika liegt im Herzen des Mayombe-Gebirges im Departement Kouilou. Er ist das Zentrum des gleichnamigen Biosphärenreservats, das von der UNESCO anerkannt ist. Der Berg ist von extrem dichtem tropischem Regenwald bedeckt, der eine hohe biologische Vielfalt aufweist. Die Region war historisch für den Goldbergbau bekannt, der die lokale Geographie beeinflusste.",
+      hu: "A Mont Dimonika a Mayombe-hegység szívében található, Kouilou megyében. Az UNESCO által elismert azonos nevű bioszféra-rezervátum központja. A hegyet rendkívül sűrű trópusi esőerdő borítja, amely kiemelkedő biológiai sokféleséggel rendelkezik. A régió történelmileg az aranybányászatáról volt ismert, ami befolyásolta a helyi földrajzi viszonyokat.",
+      ro: "Muntele Dimonika este situat în inima munților Mayombe, în departamentul Kouilou. Este centrul rezervației biosferei cu același nume, recunoscută de UNESCO. Muntele este acoperit de o pădure tropicală extrem de densă, cu o biodiversitate ridicată. Regiunea a fost cunoscută istoric pentru exploatarea aurului, care a influențat geografia locală.",
+      en: "Mount Dimonika is located in the heart of the Mayombe Mountains within the Kouilou Department. It serves as the centerpiece of the eponymous Biosphere Reserve, recognized by UNESCO. The mountain is covered by extremely dense tropical rainforest exhibiting high biological diversity. Historically, the region was known for gold mining, which influenced local geography.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum des 1988 gegründeten Dimonika-Biosphärenreservats", "Befindet sich im Mayombe-Gebirgszug", "Region beherbergt über 100 Säugetierarten", "Durchschnittliche Jahrestemperatur liegt bei 25 Grad Celsius", "Geologie umfasst goldführende Quarzgänge", "Niederschlagsreichste Region im Südwesten des Kongos"],
+      hu: ["Az 1988-ban alapított Dimonika Bioszféra-rezervátum központja", "A Mayombe-hegyvonulatban található", "A régió több mint 100 emlősfajnak ad otthont", "Az átlagos évi középhőmérséklet 25 Celsius-fok", "Geológiája aranytartalmú kvarcereket tartalmaz", "Kongó délnyugati részének legcsapadékosabb területe"],
+      ro: ["Centrul Rezervației Biosferei Dimonika, înființată în 1988", "Situat în lanțul muntos Mayombe", "Regiunea adăpostește peste 100 de specii de mamifere", "Temperatura medie anuală este de 25 de grade Celsius", "Geologia include vene de cuarț aurifer", "Cea mai ploioasă regiune din sud-vestul Congoului"],
+      en: ["Center of the Dimonika Biosphere Reserve, established in 1988", "Located within the Mayombe mountain range", "The region hosts over 100 species of mammals", "Average annual temperature is around 25 degrees Celsius", "Geology includes gold-bearing quartz veins", "Rainiest region in southwestern Congo"],
+    },
   },
   {
     id: "republicofcongo-mont-kongo-relief-v2",
@@ -171,6 +267,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Central country area", "Rainforest environment", "Rolling terrain", "Local elevation"],
     },
     imageHint: "central congo forest landscape",
+    descriptionAdvanced: {
+      de: "Der Mont Kongo ist eine Erhebung im südlichen Teil des Landes, nahe der Grenze zur Demokratischen Republik Kongo. Er liegt in einer Region, die durch ein Mosaik aus Wald und Savanne gekennzeichnet ist. Der Berg dient als lokaler Orientierungspunkt und beeinflusst den Wasserhaushalt der umliegenden Bäche. Die geologische Struktur besteht hauptsächlich aus sedimentären Formationen des Kongo-Beckens.",
+      hu: "A Mont Kongo egy kiemelkedés az ország déli részén, a Kongói Demokratikus Köztársaság határának közelében. Olyan régióban fekszik, amelyet erdők és szavannák mozaikja jellemez. A hegy helyi tájékozódási pontként szolgál, és befolyásolja a környező patakok vízháztartását. Geológiai szerkezetét főként a Kongó-medence üledékes képződményei alkotják.",
+      ro: "Muntele Kongo este o proeminență în partea de sud a țării, aproape de granița cu Republica Democrată Congo. Este situat într-o regiune caracterizată printr-un mozaic de pădure și savană. Muntele servește ca punct de reper local și influențează regimul hidrologic al pârâurilor din jur. Structura geologică constă în principal din formațiuni sedimentare ale bazinului Congo.",
+      en: "Mount Kongo is an elevation in the southern part of the country, near the border with the Democratic Republic of the Congo. It lies in a region characterized by a mosaic of forest and savanna. The mountain serves as a local landmark and influences the hydrological balance of surrounding streams. The geological structure consists mainly of sedimentary formations of the Congo Basin.",
+    },
+    factsAdvanced: {
+      de: ["Liegt in der Nähe des Pool-Departements", "Teil der hügeligen Randzone des Kongobeckens", "Vegetation besteht aus Sekundärwäldern und Grassavannen", "Wichtiger Punkt für die lokale ländliche Bevölkerung", "Höhe wird auf etwa 550 Meter geschätzt", "Geologisch geprägt durch Sandstein und Konglomerate"],
+      hu: ["A Pool megye közelében található", "A Kongó-medence dombos peremvidékének része", "Vegetációját másodlagos erdők és füves szavannák alkotják", "Fontos pont a helyi vidéki lakosság számára", "Magasságát körülbelül 550 méterre becsülik", "Geológiailag homokkő és konglomerátumok jellemzik"],
+      ro: ["Situat în apropierea departamentului Pool", "Parte a zonei deluroase marginale a bazinului Congo", "Vegetația constă în păduri secundare și savane cu iarbă", "Punct important pentru populația rurală locală", "Altitudinea este estimată la aproximativ 550 de metri", "Caracterizat geologic prin gresie și conglomerate"],
+      en: ["Located near the Pool Department", "Part of the hilly fringe zone of the Congo Basin", "Vegetation consists of secondary forests and grass savannas", "Important site for the local rural population", "Elevation is estimated at around 550 meters", "Geologically characterized by sandstone and conglomerates"],
+    },
   },
   {
     id: "republicofcongo-loango-coast-relief-v2",
@@ -190,6 +298,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Coastal lowland", "Atlantic region", "Sandy beaches", "Lagoon landscape"],
     },
     imageHint: "loango coast landscape",
+    descriptionAdvanced: {
+      de: "Die Loango-Küstenebene erstreckt sich entlang des Atlantiks im Südwesten des Kongos. Diese schmale Region ist geprägt durch Sandstrände, Mangrovensümpfe und küstennahe Lagunen. Sie war historisch das Zentrum des Königreichs Loango und ein wichtiger Knotenpunkt für den Handel. Die Ökosysteme hier sind vielfältig und umfassen wichtige Brutgebiete für Seevögel und Schildkröten.",
+      hu: "A Loango-parti síkság az Atlanti-óceán mentén húzódik Kongó délnyugati részén. Ezt a keskeny régiót homokos strandok, mangrovemocsarak és parti lagúnák jellemzik. Történelmileg a Loango Királyság központja és fontos kereskedelmi csomópont volt. Az itteni ökoszisztémák változatosak, fontos fészkelőhelyeket biztosítanak tengeri madarak és teknősök számára.",
+      ro: "Câmpia de coastă Loango se întinde de-a lungul Atlanticului în sud-vestul Republicii Congo. Această regiune îngustă este caracterizată prin plaje nisipoase, mlaștini de mangrove și lagune de coastă. Istoric, a fost centrul Regatului Loango și un nod comercial important. Ecosistemele de aici sunt diverse și includ zone importante de cuibărit pentru păsări marine și țestoase.",
+      en: "The Loango Coastal Plain extends along the Atlantic Ocean in southwestern Congo. This narrow region is characterized by sandy beaches, mangrove swamps, and coastal lagoons. Historically, it was the center of the Kingdom of Loango and a vital trade hub. The ecosystems here are diverse, encompassing important nesting grounds for seabirds and sea turtles.",
+    },
+    factsAdvanced: {
+      de: ["War das Herzland des historischen Loango-Königreichs", "Beinhaltet bedeutende Mangrovenwälder", "Region ist für ihre Lagunensysteme wie die Cayo-Lagune bekannt", "Wichtiger Standort für die Erdölförderung vor der Küste", "Pointe-Noire ist die größte Stadt in dieser Küstenzone", "Küste erstreckt sich über etwa 170 Kilometer"],
+      hu: ["A történelmi Loango Királyság központi területe volt", "Jelentős mangroveerdőket foglal magában", "A régió olyan lagúnarendszereiről ismert, mint a Cayo-lagúna", "Fontos helyszín a tengerparti kőolajkitermelés számára", "Pointe-Noire a legnagyobb város ebben a parti zónában", "A partvonal hossza körülbelül 170 kilométer"],
+      ro: ["A fost centrul istoric al Regatului Loango", "Include păduri de mangrove semnificative", "Regiunea este cunoscută pentru sistemele sale de lagune, cum ar fi laguna Cayo", "Locație importantă pentru extracția petrolului offshore", "Pointe-Noire este cel mai mare oraș din această zonă de coastă", "Coasta se întinde pe aproximativ 170 de kilometri"],
+      en: ["Was the heartland of the historical Kingdom of Loango", "Contains significant mangrove forests", "Region is known for lagoon systems like the Cayo Lagoon", "Major location for offshore oil extraction", "Pointe-Noire is the largest city in this coastal zone", "The coastline stretches for about 170 kilometers"],
+    },
   },
   {
     id: "republicofcongo-mont-bambama-relief-v2",
@@ -209,6 +329,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Chaillu Massif", "Forested summit", "High-rainfall zone", "Southern region"],
     },
     imageHint: "mount bambama forest",
+    descriptionAdvanced: {
+      de: "Der Mont Bambama liegt im Chaillu-Massiv im Südwesten des Landes. Er ist von dichtem äquatorialem Wald umgeben und stellt eine der höheren Erhebungen in der Region Lékoumou dar. Die Umgebung ist durch tief eingeschnittene Flusstäler und eine hohe Luftfeuchtigkeit geprägt. Geologisch besteht der Berg aus uralten kristallinen Gesteinen des afrikanischen Schildes.",
+      hu: "A Mont Bambama a Chaillu-masszívumban található az ország délnyugati részén. Sűrű egyenlítői erdő veszi körül, és Lékoumou régió egyik magasabb pontja. Környezetét mélyen bevágódott folyóvölgyek és magas páratartalom jellemzi. Geológiailag a hegy az afrikai pajzs ősi kristályos kőzeteiből épül fel.",
+      ro: "Muntele Bambama este situat în masivul Chaillu din sud-vestul țării. Este înconjurat de pădure ecuatorială densă și reprezintă una dintre proeminențele mai înalte din regiunea Lékoumou. Împrejurimile sunt caracterizate prin văi adânci ale râurilor și o umiditate ridicată. Geologic, muntele este format din roci cristaline străvechi ale scutului african.",
+      en: "Mount Bambama is situated in the Chaillu massif in the southwest of the country. Surrounded by dense equatorial forest, it is one of the higher elevations in the Lékoumou region. The surroundings are characterized by deeply incised river valleys and high humidity. Geologically, the mountain consists of ancient crystalline rocks of the African shield.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum Chaillu-Gebirgssystem", "Befindet sich im Departement Lékoumou", "Höhe erreicht über 850 Meter", "Umgebung ist reich an endemischen Orchideenarten", "Wichtige Wasserscheide für lokale Bäche", "Besteht überwiegend aus Gneis und Granit"],
+      hu: ["A Chaillu-hegyrendszerhez tartozik", "Lékoumou megyében található", "Magassága meghaladja a 850 métert", "Környéke gazdag endemikus orchideafajokban", "Fontos vízválasztó a helyi patakok számára", "Főként gneiszből és gránitból áll"],
+      ro: ["Aparține sistemului muntos Chaillu", "Situat în departamentul Lékoumou", "Altitudinea atinge peste 850 de metri", "Împrejurimile sunt bogate în specii endemice de orhidee", "Cumpănă de ape importantă pentru pârâurile locale", "Format în principal din gnais și granit"],
+      en: ["Belongs to the Chaillu mountain system", "Located in the Lékoumou Department", "Elevation reaches over 850 meters", "Surroundings are rich in endemic orchid species", "Important watershed for local streams", "Composed mainly of gneiss and granite"],
+    },
   },
   {
     id: "republicofcongo-alima-river-basin-relief-v2",
@@ -228,6 +360,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Lowland region", "Alima river system", "Forest-savanna mix", "Eastern Congo Basin"],
     },
     imageHint: "alima river basin landscape",
+    descriptionAdvanced: {
+      de: "Das Alima-Becken erstreckt sich im Zentrum des Kongos und umfasst das Einzugsgebiet des gleichnamigen Flusses. Die Region ist durch ein Mosaik aus Plateaus und breiten, oft sumpfigen Tälern gekennzeichnet. Es ist ein wichtiges landwirtschaftliches Gebiet, in dem vor allem Nahrungsmittelpflanzen angebaut werden. Der Fluss Alima ist schiffbar und dient als bedeutender Handelsweg zum Kongo-Strom.",
+      hu: "Az Alima-medence Kongó középső részén terül el, és az azonos nevű folyó vízgyűjtő területét foglalja magában. A régiót fennsíkok és széles, gyakran mocsaras völgyek mozaikja jellemzi. Fontos mezőgazdasági terület, ahol főként élelmiszernövényeket termesztenek. Az Alima-folyó hajózható, és jelentős kereskedelmi útvonalként szolgál a Kongó-folyó felé.",
+      ro: "Bazinul Alima se întinde în centrul Republicii Congo și cuprinde aria de captare a râului cu același nume. Regiunea este caracterizată printr-un mozaic de podișuri și văi largi, adesea mlăștinoase. Este o zonă agricolă importantă, unde se cultivă în principal plante alimentare. Râul Alima este navigabil și servește ca rută comercială semnificativă către fluviul Congo.",
+      en: "The Alima Basin stretches across central Congo, encompassing the drainage area of the eponymous river. The region is characterized by a mosaic of plateaus and broad, often swampy valleys. It is a key agricultural area where food crops are primarily grown. The Alima River is navigable and serves as a significant trade route connecting to the Congo River.",
+    },
+    factsAdvanced: {
+      de: ["Alima ist ein rechter Nebenfluss des Kongo", "Einzugsgebiet umfasst Teile des Departements Cuvette", "Fluss hat eine Gesamtlänge von etwa 500 Kilometern", "Region ist für ihre Fischereiproduktion bekannt", "Wichtige Städte wie Oyo liegen im Becken", "Landschaft ist geprägt durch Savannen und Galeriewälder"],
+      hu: ["Az Alima a Kongó-folyó jobb oldali mellékfolyója", "Vízgyűjtője magában foglalja Cuvette megye részeit", "A folyó teljes hossza körülbelül 500 kilométer", "A régió halászati termeléséről nevezetes", "Olyan fontos városok fekszenek a medencében, mint Oyo", "A tájat szavannák és galériaerdők jellemzik"],
+      ro: ["Alima este un afluent de dreapta al fluviului Congo", "Bazinul cuprinde părți ale departamentului Cuvette", "Râul are o lungime totală de aproximativ 500 de kilometri", "Regiunea este cunoscută pentru producția sa piscicolă", "Orașe importante precum Oyo sunt situate în bazin", "Peisajul este marcat de savane și păduri-galerie"],
+      en: ["The Alima is a right-bank tributary of the Congo River", "Drainage basin includes parts of the Cuvette Department", "The river has a total length of about 500 kilometers", "Region is known for its fishery production", "Important towns like Oyo are located in the basin", "Landscape is characterized by savannas and gallery forests"],
+    },
   },
   {
     id: "republicofcongo-mont-pala-relief-v2",
@@ -247,6 +391,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Southern region", "Transition zone", "Hilly landscape", "Near Niari Valley"],
     },
     imageHint: "mount pala landscape",
+    descriptionAdvanced: {
+      de: "Der Mont Pala ist eine Erhebung im nordwestlichen Teil des Kongos, nahe der Grenze zu Gabun. Er gehört zu den Ausläufern des kristallinen Hochlandes und ist von dichten Primärwäldern bedeckt. Die Region ist dünn besiedelt und zeichnet sich durch eine unberührte Natur aus. Geologisch ist das Gebiet durch uralte Gesteinsformationen des zentralafrikanischen Schildes geprägt.",
+      hu: "A Mont Pala egy kiemelkedés Kongó északnyugati részén, a gaboni határ közelében. A kristályos fennsík nyúlványaihoz tartozik, és sűrű elsődleges erdők borítják. A régió ritkán lakott, és érintetlen természeti környezet jellemzi. Geológiailag a területet a közép-afrikai pajzs ősi kőzetképződményei határozzák meg.",
+      ro: "Muntele Pala este o proeminență în partea de nord-vest a Republicii Congo, aproape de granița cu Gabon. Aparține ramificațiilor podișului cristalin și este acoperit de păduri primare dense. Regiunea este slab populată și se caracterizează printr-o natură neatinsă. Geologic, zona este marcată de formațiuni stâncoase străvechi ale scutului central-african.",
+      en: "Mount Pala is an elevation in the northwestern part of Congo, near the border with Gabon. It belongs to the foothills of the crystalline highlands and is covered by dense primary forests. The region is sparsely populated and characterized by an untouched natural environment. Geologically, the area is defined by ancient rock formations of the Central African shield.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Departement Sangha", "Umgebung ist Teil des TRIDOM-Naturschutzgebiets", "Wichtiges Refugium für den Westlichen Flachlandgorilla", "Höhe wird auf etwa 700-800 Meter geschätzt", "Gehört zur geologischen Einheit der Ivindo-Senke", "Region erhält über 1.600 mm Niederschlag pro Jahr"],
+      hu: ["Sangha megyében található", "Környéke a TRIDOM természetvédelmi terület része", "A nyugati síkvidéki gorilla fontos menedékhelye", "Magasságát körülbelül 700-800 méterre becsülik", "Az Ivindo-medence geológiai egységéhez tartozik", "A régió évi több mint 1600 mm csapadékot kap"],
+      ro: ["Situat în departamentul Sangha", "Împrejurimile fac parte din zona de conservare TRIDOM", "Refugiu important pentru gorila de câmpie vestică", "Altitudinea este estimată la aproximativ 700-800 de metri", "Aparține unității geologice a bazinului Ivindo", "Regiunea primește peste 1.600 mm de precipitații pe an"],
+      en: ["Located in the Sangha Department", "Surroundings are part of the TRIDOM conservation area", "Important refuge for the Western Lowland Gorilla", "Elevation is estimated at about 700-800 meters", "Belongs to the Ivindo Basin geological unit", "Region receives over 1,600 mm of rainfall per year"],
+    },
   },
   {
     id: "republicofcongo-likouala-lowlands-relief-v2",
@@ -266,6 +422,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Northeast region", "Swampy lowlands", "Floodplains", "River-rich area"],
     },
     imageHint: "likouala swamp landscape",
+    descriptionAdvanced: {
+      de: "Das Likouala-Tiefland im Nordosten des Landes ist eine riesige, flache Region, die fast vollständig von Feuchtgebieten und Regenwald eingenommen wird. Es wird von den Flüssen Likouala-aux-Herbes und Sangha durchzogen, die regelmäßig über die Ufer treten. Diese unzugängliche Gegend beherbergt eine außergewöhnliche Artenvielfalt und ist für ihre ausgedehnten Sumpfwälder weltberühmt.",
+      hu: "A Likouala-alföld az ország északkeleti részén egy hatalmas, sík terület, amelyet szinte teljesen vizes élőhelyek és esőerdők borítanak. A Likouala-aux-Herbes és a Sangha folyók szelik át, amelyek rendszeresen kilépnek medrükből. Ez a nehezen megközelíthető vidék kivételes biológiai sokféleségnek ad otthont, és mocsári erdőiről világszerte ismert.",
+      ro: "Câmpia Likouala din nord-estul țării este o regiune vastă și plană, ocupată aproape în întregime de zone umede și pădure tropicală. Este traversată de râurile Likouala-aux-Herbes și Sangha, care se revarsă regulat. Această zonă inaccesibilă adăpostește o biodiversitate excepțională și este renumită în întreaga lume pentru pădurile sale mlăștinoase extinse.",
+      en: "The Likouala Lowlands in the northeast of the country are a vast, flat region almost entirely covered by wetlands and rainforest. It is traversed by the Likouala-aux-Herbes and Sangha rivers, which frequently overflow. This inaccessible area hosts exceptional biodiversity and is world-renowned for its extensive swamp forests.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt den Nationalpark Nouabalé-Ndoki", "Enthält die größte Population von Flachlandgorillas weltweit", "Region ist weitgehend straßenlos und per Boot erreichbar", "Geprägt durch saisonale Überschwemmungen", "Mittlere Höhe liegt unter 350 Metern", "Wichtiger Teil des RAMSAR-Schutzgebietsnetzwerks"],
+      hu: ["Itt található a Nouabalé-Ndoki Nemzeti Park", "A világ legnagyobb síkvidéki gorilla-populációjának ad otthont", "A régió nagyrészt útmentes, csak vízi úton érhető el", "Szezonális áradások jellemzik", "Közepes magassága 350 méter alatt van", "A RAMSAR védett területek hálózatának fontos része"],
+      ro: ["Găzduiește Parcul Național Nouabalé-Ndoki", "Conține cea mai mare populație de gorile de câmpie din lume", "Regiunea este în mare parte lipsită de drumuri, fiind accesibilă cu barca", "Caracterizată prin inundații sezoniere", "Altitudinea medie este sub 350 de metri", "Parte importantă a rețelei de zone protejate RAMSAR"],
+      en: ["Home to the Nouabalé-Ndoki National Park", "Contains the largest population of lowland gorillas in the world", "Region is largely roadless and accessible primarily by boat", "Characterized by seasonal flooding", "Mean elevation is below 350 meters", "Important part of the RAMSAR network of protected areas"],
+    },
   },
   {
     id: "republicofcongo-mont-kibali-relief-v2",
@@ -285,6 +453,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Center-south", "Forested hills", "Interior topography", "Local landmark"],
     },
     imageHint: "forested hill landscape",
+    descriptionAdvanced: {
+      de: "Der Mont Kibali ist eine Erhebung im hügeligen Grenzgebiet zwischen dem Kongo und Gabun. Er ist Teil des Chaillu-Massivs und zeichnet sich durch seine steilen Hänge und dichten Bewuchs aus. Die Region ist geologisch komplex und umfasst uralte metamorphe Gesteine. Der Berg spielt eine wichtige Rolle im lokalen Ökosystem als Wasserspeicher und Refugium für spezialisierte Tierarten.",
+      hu: "A Mont Kibali egy kiemelkedés Kongó és Gabon dombos határvidékén. A Chaillu-masszívum része, amelyet meredek lejtők és sűrű növényzet jellemez. A régió geológiailag összetett, ősi metamorf kőzeteket foglal magában. A hegy fontos szerepet játszik a helyi ökoszisztémában mint víztározó és speciális állatfajok menedékhelye.",
+      ro: "Muntele Kibali este o proeminență în zona deluroasă de graniță dintre Congo și Gabon. Face parte din masivul Chaillu și se caracterizează prin pante abrupte și vegetație densă. Regiunea este complexă din punct de vedere geologic, incluzând roci metamorfice străvechi. Muntele joacă un rol important în ecosistemul local ca rezervor de apă și refugiu pentru specii de animale specializate.",
+      en: "Mount Kibali is an elevation in the hilly border region between Congo and Gabon. Part of the Chaillu massif, it is characterized by steep slopes and dense vegetation. The region is geologically complex, comprising ancient metamorphic rocks. The mountain plays a vital role in the local ecosystem as a water catchment and refuge for specialized animal species.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen im westlichen Teil des Chaillu-Gebirges", "Höhe liegt bei etwa 750-850 Metern", "Umgeben von unberührtem tropischem Regenwald", "Besteht aus präkambrischen Formationen", "Wichtiges Quellgebiet für Nebenflüsse des Ogoué", "Region ist für ihre reiche Vogelwelt bekannt"],
+      hu: ["A Chaillu-hegység nyugati részén található", "Magassága körülbelül 750-850 méter", "Érintetlen trópusi esőerdő veszi körül", "Prekambriumi képződményekből épül fel", "Az Ogoué mellékfolyóinak fontos forrásvidéke", "A régió gazdag madárvilágáról ismert"],
+      ro: ["Situat în partea de vest a munților Chaillu", "Altitudinea este de aproximativ 750-850 de metri", "Înconjurat de pădure tropicală virgină", "Format din formațiuni precambriene", "Zonă importantă de izvorâre pentru afluenții râului Ogoué", "Regiunea este cunoscută pentru avifauna sa bogată"],
+      en: ["Located in the western part of the Chaillu Mountains", "Elevation is around 750-850 meters", "Surrounded by untouched tropical rainforest", "Composed of Precambrian formations", "Important source area for tributaries of the Ogoué", "Region is known for its rich birdlife"],
+    },
   },
   {
     id: "republicofcongo-sanga-basin-relief-v2",
@@ -304,6 +484,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Northern region", "Sanga River", "Dense rainforest", "Plain"],
     },
     imageHint: "sanga river rainforest",
+    descriptionAdvanced: {
+      de: "Das Sangha-Becken im Nordwesten der Republik Kongo ist ein wesentlicher Bestandteil des Kongobeckens. Es wird durch den Sangha-Fluss entwässert und ist von dichten tropischen Regenwäldern bedeckt. Die Region ist international für ihre außergewöhnliche Artenvielfalt bekannt und beherbergt zahlreiche seltene Tierarten.",
+      hu: "A Sangha-medence a Kongói Köztársaság északnyugati részén található, és a nagyobb Kongó-medence szerves részét képezi. A területet a Sangha-folyó szeli át, felszínét pedig áthatolhatatlan trópusi esőerdők borítják. Rendkívüli biológiai sokfélesége miatt a régió kiemelt természetvédelmi területnek számít.",
+      ro: "Bazinul Sangha din nord-vestul Republicii Congo este o componentă vitală a vastului bazin al fluviului Congo. Regiunea este drenată de râul Sangha și este acoperită de păduri tropicale virgine extrem de dense. Zona este recunoscută la nivel mondial pentru biodiversitatea sa remarcabilă și importanța ecologică.",
+      en: "The Sangha Basin in the northwestern Republic of Congo is a major component of the larger Congo Basin. Drained by the Sangha River, the area is characterized by dense primary tropical rainforests. It is globally recognized for its exceptional biodiversity and serves as a critical habitat for numerous endangered species.",
+    },
+    factsAdvanced: {
+      de: ["Der Sangha-Fluss hat eine Gesamtlänge von ca. 790 km.", "Teil des Sangha Trinational UNESCO-Welterbes seit 2012.", "Beherbergt große Populationen von Westlichen Flachlandgorillas.", "Der jährliche Niederschlag übersteigt oft 1.600 mm.", "Gehört zum zweitgrößten Regenwaldgebiet der Erde.", "Umfasst den Nouabalé-Ndoki-Nationalpark im Kongo."],
+      hu: ["A Sangha-folyó hossza megközelítőleg 790 kilométer.", "A terület 2012 óta az UNESCO Világörökség része.", "A világ egyik legnagyobb síkvidéki gorilla-populációja él itt.", "Az éves csapadékmennyiség meghaladja az 1600 mm-t.", "A Föld második legnagyobb összefüggő esőerdő-rendszerének része.", "Itt található a fontos Nouabalé-Ndoki Nemzeti Park."],
+      ro: ["Râul Sangha are o lungime totală de aproximativ 790 km.", "Inclus în Patrimoniul Mondial UNESCO din anul 2012.", "Adăpostește populații semnificative de gorile de câmpie.", "Precipitațiile anuale depășesc frecvent pragul de 1600 mm.", "Face parte din al doilea cel mai mare sistem forestier tropical.", "Cuprinde Parcul Național Nouabalé-Ndoki pe teritoriul Congo."],
+      en: ["The Sangha River has a total length of about 790 km.", "Part of the Sangha Trinational UNESCO World Heritage site since 2012.", "Home to significant populations of Western lowland gorillas.", "Annual rainfall in the basin often exceeds 1,600 mm.", "Belongs to the world's second-largest tropical rainforest system.", "Includes the Nouabalé-Ndoki National Park within Congo."],
+    },
   },
   {
     id: "republicofcongo-mont-tsikama-relief-v2",
@@ -323,6 +515,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Central highlands", "Hilly forests", "Central region", "Natural landscape"],
     },
     imageHint: "tsikama forest hill",
+    descriptionAdvanced: {
+      de: "Der Mont Tsikama liegt im Departement Niari im Südwesten der Republik Kongo. Er ist Teil des Mayombe-Gebirges, das sich parallel zur Atlantikküste erstreckt. Die Erhebung ist von dichtem äquatorialem Wald bedeckt und weist ein zerklüftetes Relief auf, das durch intensive Erosion geformt wurde.",
+      hu: "A Mont Tsikama a Kongói Köztársaság délnyugati részén, Niari megyében található hegycsúcs. A Mayombe-hegység láncolatához tartozik, amely párhuzamosan fut az atlanti partvidékkel. A hegyet sűrű egyenlítői erdő borítja, felszínét pedig az intenzív erózió formálta tagolttá.",
+      ro: "Muntele Tsikama este situat în departamentul Niari, în sud-vestul Republicii Congo. Acesta face parte din lanțul muntos Mayombe, care se întinde paralel cu țărmul Oceanului Atlantic. Vârful este acoperit de păduri ecuatoriale dense și prezintă un relief accidentat modelat de eroziune.",
+      en: "Mount Tsikama is located in the Niari Department in southwestern Republic of Congo. It is part of the Mayombe mountain range, which runs parallel to the Atlantic coast. The mountain is covered in dense equatorial forest and features a rugged terrain shaped by heavy tropical erosion.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum präkambrischen Mayombe-Gebirgszug.", "Liegt in der strategisch wichtigen Niari-Region.", "Die Gipfelhöhe liegt zwischen 500 und 800 Metern.", "Besteht hauptsächlich aus metamorphem Gestein.", "Durchschnittliche Jahrestemperatur beträgt ca. 24 °C.", "Dient als Wasserscheide für lokale Flussläufe."],
+      hu: ["A prekambriumi Mayombe-hegyrendszer része.", "A stratégiailag fontos Niari régióban helyezkedik el.", "A csúcs magassága 500 és 800 méter között alakul.", "Főként metamorf kőzetek építik fel a tömbjét.", "Az átlagos évi középhőmérséklet 24 °C körül mozog.", "Vízválasztó szerepet tölt be a helyi vízfolyásoknál."],
+      ro: ["Face parte din lanțul muntos precambrian Mayombe.", "Situat în regiunea Niari, importantă din punct de vedere geografic.", "Altitudinea vârfului variază între 500 și 800 de metri.", "Este compus în principal din roci metamorfice vechi.", "Temperatura medie anuală este de aproximativ 24 °C.", "Acționează ca o cumpănă a apelor pentru râurile locale."],
+      en: ["Part of the Precambrian Mayombe mountain range.", "Located within the geographically important Niari region.", "The summit height ranges between 500 and 800 meters.", "Composed primarily of ancient metamorphic rock formations.", "The average annual temperature is approximately 24 °C.", "Acts as a drainage divide for local river systems."],
+    },
   },
   {
     id: "republicofcongo-mont-nkeni-relief-v2",
@@ -342,6 +546,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["East region", "Nkeni river area", "Gentle hills", "Forest strips"],
     },
     imageHint: "nkeni river valley",
+    descriptionAdvanced: {
+      de: "Der Mont Nkeni ist eine markante Erhebung im Plateaux-Departement der Republik Kongo. Er liegt im Übergangsbereich zwischen den Batéké-Plateaus und den tiefer gelegenen Beckenlandschaften. Das Relief ist durch sanfte Hänge und eine Mischung aus Savannenvegetation und Waldgalerien gekennzeichnet.",
+      hu: "A Mont Nkeni a Kongói Köztársaság Plateaux megyéjében található kiemelkedő magaslat. A Batéké-fennsík és az alacsonyabban fekvő medencék közötti átmeneti zónában helyezkedik el. A tájat lágyabb lejtők, valamint szavannák és galériaerdők váltakozása jellemzi.",
+      ro: "Muntele Nkeni este o formă de relief proeminentă situată în departamentul Plateaux din Republica Congo. Se află în zona de tranziție între platourile Batéké și zonele joase ale bazinului. Relieful se caracterizează prin pante domoale și o vegetație mixtă de savană și păduri-galerie.",
+      en: "Mount Nkeni is a prominent elevation located in the Plateaux Department of the Republic of Congo. It sits in the transition zone between the Batéké Plateaus and the lower-lying basin areas. The relief is characterized by gentle slopes and a mosaic of savanna vegetation and gallery forests.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zum geologischen System der Batéké-Plateaus.", "Liegt nördlich der Hauptstadt Brazzaville.", "Die Region besteht überwiegend aus sandigen Böden.", "Entwässert in das System des Alima-Flusses.", "Höhe über dem Meeresspiegel erreicht ca. 600 Meter.", "Das Gebiet ist durch ein tropisches Feuchtsavannenklima geprägt."],
+      hu: ["A Batéké-fennsík geológiai rendszeréhez tartozik.", "A fővárostól, Brazzaville-től északra fekszik.", "A régiót túlnyomórészt homokos talaj borítja.", "Az Alima-folyó vízrendszerébe torkolló vizeket táplál.", "Tengerszint feletti magassága eléri a 600 métert.", "A területet trópusi nedves szavanna éghajlat jellemzi."],
+      ro: ["Apartine sistemului geologic al platourilor Batéké.", "Localizat la nord de capitala țării, Brazzaville.", "Regiunea este compusă predominant din soluri nisipoase.", "Apele sale se scurg în sistemul râului Alima.", "Altitudinea atinge aproximativ 600 de metri peste nivelul mării.", "Zona are un climat tropical de savană umedă."],
+      en: ["Belongs to the geological system of the Batéké Plateaus.", "Located north of the capital city, Brazzaville.", "The region is predominantly composed of sandy soils.", "Drains into the Alima River water system.", "Elevation reaches approximately 600 meters above sea level.", "The area features a tropical wet savanna climate."],
+    },
   },
   {
     id: "republicofcongo-mont-lekoumou-relief-v2",
@@ -361,6 +577,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Southwest interior", "Forested range", "Lekoumou region", "Typical mountain topography"],
     },
     imageHint: "lekoumou forest hills",
+    descriptionAdvanced: {
+      de: "Der Mont Lekoumou befindet sich im gleichnamigen Departement Lékoumou im Süden der Republik Kongo. Er gehört zum Chaillu-Massiv, einer wichtigen Gebirgsregion Zentralafrikas. Die Gegend ist durch Granit- und Gneisformationen sowie dichte Regenwälder geprägt, die reich an forstwirtschaftlichen Ressourcen sind.",
+      hu: "A Mont Lekoumou a Kongói Köztársaság déli részén, Lékoumou megyében található. A Chaillu-masszívum részét képezi, amely Közép-Afrika egyik meghatározó hegyvidéke. A területet gránit- és gneiszkőzetek, valamint sűrű, faanyagban gazdag esőerdők jellemzik.",
+      ro: "Muntele Lekoumou este situat în departamentul cu același nume din sudul Republicii Congo. Face parte din Masivul Chaillu, o regiune muntoasă importantă din Africa Centrală. Zona este marcată de formațiuni de granit și gnais, fiind acoperită de păduri tropicale dense.",
+      en: "Mount Lekoumou is located in the Lékoumou Department in southern Republic of Congo. It is part of the Chaillu Massif, a significant mountain region in Central Africa. The area is characterized by granite and gneiss formations and dense rainforests rich in timber resources.",
+    },
+    factsAdvanced: {
+      de: ["Teil des kristallinen Chaillu-Massivs.", "Das Lékoumou-Departement ist nach dem Fluss benannt.", "Durchschnittliche Höhe der Region liegt bei 500-700 m.", "Die Böden sind meist ferrallitisch und tiefgründig.", "Wichtiger Standort für die Tropenholzwirtschaft.", "Der jährliche Niederschlag liegt bei ca. 1.700 mm."],
+      hu: ["A kristályos kőzetekből álló Chaillu-masszívum része.", "Lékoumou megyét a helyi folyóról nevezték el.", "A régió átlagos magassága 500-700 méter között van.", "A talajok többsége ferrallitos és mély rétegű.", "A trópusi faipar egyik fontos központja a régióban.", "Az éves csapadékmennyiség eléri az 1700 mm-t."],
+      ro: ["Face parte din Masivul cristalin Chaillu.", "Departamentul Lékoumou este numit după râul local.", "Altitudinea medie a regiunii este de 500-700 metri.", "Solurile sunt în mare parte ferallitice și adânci.", "Centru important pentru exploatarea lemnului tropical.", "Precipitațiile anuale sunt de aproximativ 1700 mm."],
+      en: ["Part of the crystalline Chaillu Massif.", "The Lékoumou Department is named after the local river.", "Average elevation of the region is 500-700 meters.", "Soils are mostly ferrallitic and very deep.", "Important location for tropical timber production.", "Annual rainfall is approximately 1,700 mm."],
+    },
   },
   {
     id: "republicofcongo-mont-mouyondzi-relief-v2",
@@ -380,6 +608,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Southern plateaus", "Agricultural area", "Rolling terrain", "Local elevation"],
     },
     imageHint: "mouyondzi landscape",
+    descriptionAdvanced: {
+      de: "Der Mont Mouyondzi liegt im Departement Bouenza im Süden der Republik Kongo. Er markiert den Übergang zwischen den fruchtbaren Tälern des Niari und den hügeligen Ausläufern des Mayombe-Gebirges. Die Region ist landwirtschaftlich bedeutend und weist ein abwechslungsreiches Relief aus Tälern und Plateaus auf.",
+      hu: "A Mont Mouyondzi a Kongói Köztársaság déli részén, Bouenza megyében található. A Niari-völgy termékeny vidéke és a Mayombe-hegység dombos nyúlványai közötti átmenetet jelzi. A mezőgazdaságilag jelentős régiót völgyek és fennsíkok váltakozása teszi változatossá.",
+      ro: "Muntele Mouyondzi este situat în departamentul Bouenza din sudul Republicii Congo. Acesta marchează tranziția între văile fertile ale râului Niari și poalele deluroase ale munților Mayombe. Regiunea este importantă din punct de vedere agricol, având un relief variat.",
+      en: "Mount Mouyondzi is located in the Bouenza Department in southern Republic of Congo. It marks the transition between the fertile Niari valleys and the hilly foothills of the Mayombe mountains. The region is agriculturally significant and features a diverse relief of valleys and plateaus.",
+    },
+    factsAdvanced: {
+      de: ["Liegt in der produktivsten Agrarzone des Kongos.", "Gehört zum geologischen Becken des Niari.", "Höhe variiert zwischen 400 und 600 Metern.", "Kalksteinvorkommen sind in dieser Region häufig.", "Mouyondzi ist ein wichtiges regionales Zentrum.", "Die Gegend war historisch Teil des Loango-Reiches."],
+      hu: ["Kongó legtermékenyebb mezőgazdasági övezetében fekszik.", "A Niari-folyó geológiai medencéjéhez tartozik.", "Magassága 400 és 600 méter között változik.", "A régióban gyakoriak a mészkő-előfordulások.", "Mouyondzi települése fontos regionális központ.", "A terület történelmileg a Loango Királyság része volt."],
+      ro: ["Situat în cea mai productivă zonă agricolă din Congo.", "Aparține bazinului geologic al râului Niari.", "Altitudinea variază între 400 și 600 de metri.", "Zăcămintele de calcar sunt frecvente în această regiune.", "Mouyondzi este un centru regional administrativ important.", "Zona a făcut parte istoric din Regatul Loango."],
+      en: ["Located in Congo's most productive agricultural zone.", "Part of the geological basin of the Niari River.", "Elevation varies between 400 and 600 meters.", "Limestone deposits are common in this specific region.", "Mouyondzi is a significant regional administrative center.", "The area was historically part of the Loango Kingdom."],
+    },
   },
   {
     id: "republicofcongo-mont-sibiti-relief-v2",
@@ -399,6 +639,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Southern hilly landscape", "Near Sibiti", "Forested", "Local topography"],
     },
     imageHint: "sibiti landscape",
+    descriptionAdvanced: {
+      de: "Der Mont Sibiti befindet sich in der Umgebung der Stadt Sibiti im Departement Lékoumou. Er ist ein Teil des Chaillu-Massivs und zeichnet sich durch seine sanften Erhebungen und dichte Bewaldung aus. Die geologische Struktur besteht vorwiegend aus alten kristallinen Gesteinen, die das Rückgrat Süd-Kongos bilden.",
+      hu: "A Mont Sibiti Sibiti városa közelében található, Lékoumou megyében. A Chaillu-masszívum része, amelyet lankásabb domborzati formák és sűrű erdőborítottság jellemez. Geológiai felépítését főként ősi kristályos kőzetek adják, amelyek Dél-Kongó szerkezeti alapját képezik.",
+      ro: "Muntele Sibiti este situat în apropierea orașului Sibiti, în departamentul Lékoumou. Face parte din Masivul Chaillu și se caracterizează prin pante domoale și vegetație forestieră densă. Structura sa geologică este formată din roci cristaline vechi, specifice sudului Congo.",
+      en: "Mount Sibiti is located near the town of Sibiti in the Lékoumou Department. It is a part of the Chaillu Massif, characterized by its rolling elevations and dense forest cover. The geological structure primarily consists of ancient crystalline rocks that form the backbone of southern Congo.",
+    },
+    factsAdvanced: {
+      de: ["Sibiti ist die Hauptstadt des Lékoumou-Departements.", "Höhenlage der Stadt liegt bei ca. 530 Metern.", "Die Region ist bekannt für den Abbau von Erzen.", "Das Klima ist tropisch-feucht mit kurzer Trockenzeit.", "Befindet sich am Rande des Chaillu-Regenwaldes.", "Die Gegend ist reich an kleineren Wasserläufen."],
+      hu: ["Sibiti városa Lékoumou megye székhelye.", "A település tengerszint feletti magassága kb. 530 méter.", "A régió jelentős érckitermelő helyszínként ismert.", "Trópusi nedves éghajlat jellemzi rövid száraz évszakkal.", "A Chaillu-esőerdő peremvidékén helyezkedik el.", "A környék kisebb vízfolyásokban rendkívül gazdag."],
+      ro: ["Sibiti este reședința departamentului Lékoumou.", "Altitudinea orașului este de aproximativ 530 de metri.", "Regiunea este cunoscută pentru exploatarea minereurilor.", "Climatul este tropical umed cu un scurt sezon uscat.", "Se află la marginea pădurii tropicale Chaillu.", "Zona este bogată în cursuri de apă de mici dimensiuni."],
+      en: ["Sibiti is the capital of the Lékoumou Department.", "The town's elevation is approximately 530 meters.", "The region is known for the extraction of ores.", "Climate is tropical wet with a short dry season.", "Situated at the edge of the Chaillu rainforest.", "The area is rich in small perennial watercourses."],
+    },
   },
   {
     id: "republicofcongo-mont-odzala-relief-v2",
@@ -418,6 +670,18 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Odzala-Kokoua National Park", "Tropical forest", "Savanna hills", "Rich in nature"],
     },
     imageHint: "odzala kokoua national park",
+    descriptionAdvanced: {
+      de: "Der Mont Odzala liegt im Norden der Republik Kongo innerhalb des Odzala-Kokoua-Nationalparks. Er ist Teil einer hügeligen Landschaft, die von ausgedehnten Regenwäldern und Savannen-Enklaven geprägt ist. Die Region ist ein Refugium für seltene Wildtiere und gehört zu den ältesten Schutzgebieten Afrikas.",
+      hu: "A Mont Odzala a Kongói Köztársaság északi részén, az Odzala-Kokoua Nemzeti Park területén található. A tájat dombos domborzat, kiterjedt esőerdők és szavannás foltok váltakozása jellemzi. A régió Afrika egyik legrégebbi természetvédelmi területe és fontos menedékhely a vadon élő állatoknak.",
+      ro: "Muntele Odzala este situat în nordul Republicii Congo, în cadrul Parcului Național Odzala-Kokoua. Face parte dintr-un peisaj deluros, marcat de păduri tropicale întinse și enclave de savană. Regiunea este un refugiu pentru fauna sălbatică rară, fiind una dintre cele mai vechi arii protejate din Africa.",
+      en: "Mount Odzala is located in the northern Republic of Congo within the Odzala-Kokoua National Park. It is part of a hilly landscape characterized by extensive rainforests and savanna enclaves. The region is a sanctuary for rare wildlife and is among the oldest protected areas in Africa.",
+    },
+    factsAdvanced: {
+      de: ["Nationalpark wurde bereits 1935 gegründet.", "Fläche des Parks beträgt ca. 13.500 km².", "Beherbergt eine der größten Gorilla-Populationen.", "Bekannt für seine 'Salines' (mineralreiche Lichtungen).", "Region ist Teil des Einzugsgebiets des Kongo-Flusses.", "Höhenlagen im Park erreichen bis zu 500 Meter."],
+      hu: ["A nemzeti parkot már 1935-ben alapították.", "A park területe körülbelül 13 500 km².", "Itt él a világ egyik legnagyobb gorilla-populációja.", "Híres a 'Salines'-nek nevezett ásványi sókban gazdag tisztásokról.", "A régió a Kongó-folyó vízgyűjtő területéhez tartozik.", "A parkon belüli magasságok elérik az 500 métert."],
+      ro: ["Parcul Național a fost înființat încă din 1935.", "Suprafața parcului este de aproximativ 13.500 km².", "Adăpostește una dintre cele mai mari populații de gorile.", "Cunoscut pentru 'salines' (poieni bogate în minerale).", "Regiunea face parte din bazinul fluviului Congo.", "Altitudinile din cadrul parcului ating până la 500 metri."],
+      en: ["The National Park was established as early as 1935.", "The park covers an area of about 13,500 km².", "Home to one of the largest populations of gorillas.", "Famous for its 'salines' (mineral-rich forest clearings).", "The region is part of the Congo River drainage basin.", "Elevations within the park reach up to 500 meters."],
+    },
   },
   {
     id: "republicofcongo-mont-kelle-relief-v2",
@@ -437,5 +701,17 @@ export const republicofcongoReliefV2: POI[] = [
       en: ["Central edge area", "Hilly terrain", "Rainforest region", "Local elevation"],
     },
     imageHint: "kelle landscape",
+    descriptionAdvanced: {
+      de: "Der Mont Kelle befindet sich im Departement Cuvette-Ouest im Nordwesten des Landes. Er ist Teil einer sanft gewellten Plateaulandschaft, die in Richtung des Kongo-Beckens abfällt. Die Region ist dünn besiedelt und fast vollständig von primärem Regenwald bedeckt, was sie zu einem wichtigen ökologischen Korridor macht.",
+      hu: "A Mont Kelle a Cuvette-Ouest megyében található az ország északnyugati részén. Egy lágyan hullámzó fennsík része, amely a Kongó-medence irányába lejt. A régió ritkán lakott és szinte teljes egészében őserdő borítja, így fontos ökológiai folyosóként szolgál.",
+      ro: "Muntele Kelle este situat în departamentul Cuvette-Ouest, în nord-vestul țării. Face parte dintr-un peisaj de platou ușor ondulat care coboară spre bazinul Congo. Regiunea este slab populată și acoperită aproape integral de pădure tropicală primară.",
+      en: "Mount Kelle is located in the Cuvette-Ouest Department in the northwest of the country. It is part of a gently undulating plateau landscape that slopes towards the Congo Basin. The region is sparsely populated and almost entirely covered by primary rainforest, making it a key ecological corridor.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im abgelegenen Nordwesten der Republik Kongo.", "Kéllé ist die Hauptstadt des gleichnamigen Distrikts.", "Region ist bekannt für ihre reiche Primatenfauna.", "Gehört zum geologischen System des Cuvette-Beckens.", "Mittlere Jahrestemperatur liegt bei etwa 25 °C.", "Der Wald gilt als wichtiges Reservoir für Kohlenstoff."],
+      hu: ["A Kongói Köztársaság távoli északnyugati részén fekszik.", "Kéllé városa az azonos nevű körzet központja.", "A régió gazdag főemlős-faunájáról híres.", "A Cuvette-medence geológiai rendszeréhez tartozik.", "Az évi középhőmérséklet 25 °C körül alakul.", "Az erdő kiemelkedő jelentőségű szén-dioxid-elnyelő."],
+      ro: ["Situat în nord-vestul izolat al Republicii Congo.", "Kéllé este reședința districtului cu același nume.", "Regiunea este celebră pentru fauna sa de primate.", "Aparține sistemului geologic al bazinului Cuvette.", "Temperatura medie anuală este de circa 25 °C.", "Pădurea este considerată un rezervor important de carbon."],
+      en: ["Located in the remote northwest of the Republic of Congo.", "Kéllé serves as the capital of the district of the same name.", "The region is renowned for its rich primate fauna.", "Part of the geological system of the Cuvette Basin.", "The mean annual temperature is around 25 °C.", "The forest is a vital reservoir for global carbon storage."],
+    },
   }
 ];

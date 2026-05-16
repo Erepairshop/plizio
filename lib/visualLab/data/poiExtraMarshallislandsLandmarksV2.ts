@@ -298,6 +298,18 @@ export const marshallislandsLandmarksV2: POI[] = [
       en: ["Yokwe means hello and love", "Symbol of local identity", "Common meeting place", "Located on Kwajalein Island"],
     },
     imageHint: "Yokwe sign or memorial Kwajalein Marshall Islands",
+    descriptionAdvanced: {
+      de: "Das Yokwe-Memorial auf Kwajalein ist ein Ort des Gedenkens und der Versöhnung, der den Opfern des Pazifikkriegs gewidmet ist. Der Name 'Yokwe' verkörpert den Geist der Liebe und des Willkommens in der marshallesischen Kultur. Das Denkmal dient als Mahnmal für den Frieden und ehrt sowohl die gefallenen Soldaten als auch die betroffene Zivilbevölkerung.",
+      hu: "A Kwajalein-i Yokwe-emlékmű a megemlékezés és a megbékélés helyszíne, amelyet a csendes-óceáni háború áldozatainak szenteltek. A 'Yokwe' név a szeretet és a szíves látás szellemét testesíti meg a marshall-szigeteki kultúrában. Az emlékmű a béke mementójaként szolgál, tisztelve az elesett katonákat és az érintett civileket.",
+      ro: "Memorialul Yokwe de pe Kwajalein este un loc de comemorare și reconciliere dedicat victimelor războiului din Pacific. Numele 'Yokwe' întruchipează spiritul iubirii și al bunvenitului în cultura marshalleză. Monumentul servește ca un memento pentru pace, onorând atât soldații căzuți, cât și populația civilă afectată.",
+      en: "The Yokwe Memorial on Kwajalein is a place of remembrance and reconciliation dedicated to the victims of the Pacific War. The name 'Yokwe' embodies the spirit of love and welcome in Marshallese culture. The monument serves as a reminder for peace, honoring both fallen soldiers and the affected civilian population.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet zum Gedenken an die Toten der Schlacht von 1944", "'Yokwe' ist der traditionelle marshallesische Gruß", "Zentrum für jährliche Gedenkveranstaltungen auf der Basis", "Symbolisiert die Freundschaft zwischen den USA und den Marshallinseln", "Befindet sich in der Nähe historischer Kampfareale", "Gestaltet als schlichte, würdevolle Gedenkstätte"],
+      hu: ["Az 1944-es csata halottainak emlékére emelték", "A 'Yokwe' a hagyományos marshall-szigeteki köszöntés", "Az éves megemlékezések központja a bázison", "Az USA és a Marshall-szigetek közötti barátságot jelképezi", "Történelmi harci helyszínek közelében található", "Egyszerű és méltóságteljes emlékhelynek tervezték"],
+      ro: ["Ridicat în memoria celor morți în bătălia din 1944", "'Yokwe' este salutul tradițional marshallez", "Centrul evenimentelor anuale de comemorare de pe bază", "Simbolizează prietenia dintre SUA și Insulele Marshall", "Situat în apropierea zonelor istorice de luptă", "Proiectat ca un loc de reculegere simplu și demn"],
+      en: ["Erected to commemorate those killed in the 1944 battle", "'Yokwe' is the traditional Marshallese greeting and philosophy", "Center for annual memorial services on the garrison", "Symbolizes the friendship between the U.S. and the Marshall Islands", "Located in proximity to historical combat areas", "Designed as a simple and dignified place of reflection"],
+    },
   },
   {
     id: "marshallislands-delap-dock-landmarks-v2",
@@ -317,6 +329,18 @@ export const marshallislandsLandmarksV2: POI[] = [
       en: ["Largest port in the country", "Center of copra processing", "Berth for international cruise ships", "Vital for national supplies"],
     },
     imageHint: "Delap Dock Majuro Marshall Islands harbor",
+    descriptionAdvanced: {
+      de: "Das Delap-Dock ist der wichtigste Tiefwasserhafen von Majuro und die logistische Lebensader der Republik Marshallinseln. Hier werden lebenswichtige Güter, Treibstoffe und Baumaterialien umgeschlagen, die für das Überleben des Inselstaates unerlässlich sind. Der Hafen ermöglicht den internationalen Warenhandel und dient als Basis für die regionale Schifffahrt.",
+      hu: "A Delap-dokk Majuro legfontosabb mélyvízi kikötője és a Marshall-szigetek Köztársaság logisztikai életereje. Itt rakodják ki a létfontosságú árukat, üzemanyagot és építőanyagokat, amelyek elengedhetetlenek a szigetállam számára. A kikötő lehetővé teszi a nemzetközi áruforgalmat és a regionális hajózás bázisaként szolgál.",
+      ro: "Mollul Delap este cel mai important port de adâncime din Majuro și artera logistică a Republicii Insulelor Marshall. Aici sunt manipulate bunuri esențiale, combustibili și materiale de construcție, vitale pentru supraviețuirea statului insular. Portul permite comerțul internațional de mărfuri și servește ca bază pentru navigația regională.",
+      en: "Delap Dock is the primary deep-water port of Majuro and the logistical lifeline of the Republic of the Marshall Islands. It handles essential goods, fuel, and construction materials critical for the nation's survival. The port facilitates international trade and serves as a vital base for regional maritime transportation.",
+    },
+    factsAdvanced: {
+      de: ["Haupthafen für Containerschiffe in der Hauptstadt", "Verfügt über spezialisierte Anlagen für den Treibstoffumschlag", "Wichtigster Knotenpunkt für den Export von Kopra", "Anlegestelle für internationale Fischereiflotten", "Unterstützt die Versorgung der äußeren Atolle", "Zentraler Standort für die Hafenbehörde der Marshallinseln"],
+      hu: ["A főváros konténerszállító hajóinak fő kikötője", "Speciális berendezésekkel rendelkezik az üzemanyag-kezeléshez", "A kopra exportjának legfontosabb csomópontja", "Nemzetközi halászflották kikötőhelye", "Támogatja a külső atollok ellátását", "A Marshall-szigeteki Kikötői Hatóság központi székhelye"],
+      ro: ["Portul principal pentru navele portcontainer din capitală", "Dispune de instalații specializate pentru manipularea combustibilului", "Cel mai important punct pentru exportul de copra", "Loc de acostare pentru flotele internaționale de pescuit", "Susține aprovizionarea atolilor îndepărtați", "Sediul central pentru Autoritatea Portuară a Insulelor Marshall"],
+      en: ["Primary port for container ships in the capital city", "Features specialized facilities for fuel transshipment", "Most important hub for the export of copra", "Berthing site for international fishing fleets", "Facilitates the redistribution of supplies to outer atolls", "Central location for the Marshall Islands Ports Authority"],
+    },
   },
   {
     id: "marshallislands-laura-village-center-landmarks-v2",
@@ -336,6 +360,18 @@ export const marshallislandsLandmarksV2: POI[] = [
       en: ["Highest elevation in Majuro", "Major agricultural area", "Famous for Laura Beach", "Hub of local traditions"],
     },
     imageHint: "Laura village area Majuro Marshall Islands",
+    descriptionAdvanced: {
+      de: "Das Laura Village Cultural Center liegt am westlichen Ende von Majuro und ist ein Zentrum für die Bewahrung marshallesischer Traditionen. Laura ist bekannt für seine fruchtbaren Böden und dient als landwirtschaftlicher Garten der Hauptstadt. Das Zentrum vermittelt Wissen über traditionelles Handwerk, Navigation und die lokale Geschichte abseits der urbanen Zentren.",
+      hu: "A Laura Village Kulturális Központ Majuro nyugati végén található, és a marshall-szigeteki hagyományok megőrzésének központja. Laura termékeny talajáról ismert, és a főváros mezőgazdasági kertjeként szolgál. A központ a hagyományos kézművesség, a navigáció és a helyi történelem ismereteit közvetíti a városi központokon kívül.",
+      ro: "Centrul Cultural din Satul Laura se află în extremitatea vestică a orașului Majuro și este un hub pentru conservarea tradițiilor marshalleze. Laura este cunoscută pentru solurile sale fertile, servind ca grădină agricolă a capitalei. Centrul transmite cunoștințe despre meșteșuguri tradiționale, navigație și istoria locală.",
+      en: "The Laura Village Cultural Center is located at the western end of Majuro and serves as a hub for preserving Marshallese traditions. Laura is known for its fertile soils and acts as the agricultural garden for the capital city. The center promotes knowledge of traditional crafts, navigation, and local history away from the urban districts.",
+    },
+    factsAdvanced: {
+      de: ["Laura liegt am höchsten Punkt des Majuro-Atolls (ca. 3 Meter)", "Wichtigstes Anbaugebiet für Brotfrucht, Bananen und Papayas", "Beherbergt das jährliche 'Laura Day' Festival", "Standort einer der wenigen Süßwasserlinsen des Atolls", "Zentrum für die Wiederbelebung des traditionellen Kanubaus", "Größte zusammenhängende Landfläche auf Majuro"],
+      hu: ["Laura a Majuro-atoll legmagasabb pontján fekszik (kb. 3 méter)", "A kenyérfa, a banán és a papaya legfontosabb termőhelye", "Itt rendezik meg az éves 'Laura Day' fesztivált", "Az atoll kevés édesvíz-lencséjének egyik helyszíne", "A hagyományos kenuépítés újjáélesztésének központja", "Majuro legnagyobb összefüggő szárazföldi területe"],
+      ro: ["Laura se află în cel mai înalt punct al atolului Majuro (cca. 3 metri)", "Cea mai importantă zonă pentru cultura fructului de pâine și bananelor", "Găzduiește festivalul anual 'Laura Day'", "Locația uneia dintre puținele lentile de apă dulce ale atolului", "Centru pentru revitalizarea construcției tradiționale de canoe", "Cea mai mare suprafață terestră continuă din Majuro"],
+      en: ["Laura is situated at the highest point of Majuro Atoll (approx. 3 meters)", "Main cultivation area for breadfruit, bananas, and papayas", "Hosts the annual 'Laura Day' community festival", "Site of one of the atoll's few freshwater lenses", "Center for the revival of traditional outrigger canoe building", "Largest continuous land area on Majuro Atoll"],
+    },
   },
   {
     id: "marshallislands-uliga-protestant-church-landmarks-v2",
@@ -355,5 +391,17 @@ export const marshallislandsLandmarksV2: POI[] = [
       en: ["Bright white exterior", "Center of the United Church of Christ", "Main gathering point in Uliga", "Traditional choral services"],
     },
     imageHint: "Uliga Protestant Church Majuro white building",
+    descriptionAdvanced: {
+      de: "Die Uliga Protestant Church ist ein markantes Wahrzeichen im gleichnamigen Distrikt von Majuro und spielt eine zentrale Rolle im sozialen Gefüge der Gemeinde. Das Gebäude ist ein Beispiel für die koloniale Architekturgeschichte der Inseln und dient als wichtiger Versammlungsort. Die Kirche spiegelt den tief verwurzelten christlichen Glauben der marshallesischen Bevölkerung wider.",
+      hu: "Az Uliga protestáns templom Majuro azonos nevű negyedének jellegzetes épülete, amely központi szerepet játszik a közösség társadalmi életében. Az épület a szigetek gyarmati építészeti történetének példája, és fontos gyülekezőhelyként szolgál. A templom a marshall-szigeteki lakosság mélyen gyökerező keresztény hitét tükrözi.",
+      ro: "Biserica Protestantă Uliga este un reper distinctiv în districtul cu același nume din Majuro, jucând un rol central în structura socială a comunității. Clădirea este un exemplu al istoriei arhitecturale coloniale a insulelor și servește ca loc important de întâlnire. Biserica reflectă credința creștină profund înrădăcinată a populației.",
+      en: "The Uliga Protestant Church is a prominent landmark in the Uliga district of Majuro, playing a central role in the community's social fabric. The building serves as an example of the islands' colonial architectural history and acts as a significant gathering place. The church reflects the deeply rooted Christian faith of the Marshallese people.",
+    },
+    factsAdvanced: {
+      de: ["Einer der ältesten und größten Kirchenbauten in Majuro", "Zentrum der Marshall Islands Congregational Christian Church", "Regelmäßiger Austragungsort für religiöse Chorfestivals", "Wichtiger Orientierungspunkt im urbanen Zentrum von Uliga", "Gegründet durch Missionare des American Board (ABCFM)", "Verfügt über eine markante weiße Fassade"],
+      hu: ["Majuro egyik legrégebbi és legnagyobb templomépülete", "A Marshall-szigeteki Kongregacionalista Keresztény Egyház központja", "Vallási kórusfesztiválok rendszeres helyszíne", "Fontos tájékozódási pont Uliga városi központjában", "Az American Board (ABCFM) misszionáriusai alapították", "Jellegzetes fehér homlokzattal rendelkezik"],
+      ro: ["Una dintre cele mai vechi și mari clădiri de biserică din Majuro", "Centrul Bisericii Creștine Congregaționale din Insulele Marshall", "Locație regulată pentru festivaluri corale religioase", "Punct important de orientare în centrul urban Uliga", "Fondată de misionari ai American Board (ABCFM)", "Dispune de o fațadă albă distinctivă"],
+      en: ["One of the oldest and largest church buildings in Majuro", "Hub for the Marshall Islands Congregational Christian Church", "Regular venue for religious choral and music festivals", "Key navigational landmark within the Uliga urban area", "Established through missions of the American Board (ABCFM)", "Features a distinctive white facade recognizable from the coast"],
+    },
   }
 ];

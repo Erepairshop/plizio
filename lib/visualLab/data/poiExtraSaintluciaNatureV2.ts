@@ -19,6 +19,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["798 meters high.", "UNESCO World Heritage since 2004.", "Part of the Pitons Management Area.", "Volcanic lava dome."],
     },
     imageHint: "Gros Piton mountain Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Gros Piton ist ein 786 Meter hoher Vulkankegel an der Südwestküste von St. Lucia. Er gehört zusammen mit dem Petit Piton zum UNESCO-Weltnaturerbe Pitons Management Area. Das Gebiet zeichnet sich durch seine steilen Hänge und eine vielfältige tropische Vegetation aus. Wanderwege führen zum Gipfel und bieten Einblicke in die lokale Geologie.",
+      hu: "A Gros Piton egy 786 méter magas vulkáni kúp Saint Lucia délnyugati partján. A Petit Pitonnal együtt az UNESCO Világörökség részét képező Piton-hegyek kezelési területéhez tartozik. A területet meredek lejtők és változatos trópusi növényzet jellemzi. A csúcsra vezető túraútvonalak betekintést nyújtanak a helyi geológiába.",
+      ro: "Gros Piton este un dop vulcanic de 786 de metri situat pe coasta de sud-vest a insulei Sfânta Lucia. Împreună cu Petit Piton, face parte din zona de management Pitons, inclusă în patrimoniul mondial UNESCO. Regiunea se caracterizează prin pante abrupte și o vegetație tropicală diversă. Traseele de drumeție duc spre vârf, oferind perspective asupra geologiei locale.",
+      en: "Gros Piton is a 786-meter volcanic plug located on the southwestern coast of Saint Lucia. Along with Petit Piton, it is part of the Pitons Management Area, a UNESCO World Heritage site since 2004. The area is characterized by steep slopes and diverse tropical vegetation. Hiking trails lead to the summit, providing insights into the local volcanic geology.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe beträgt 786 Meter über dem Meeresspiegel.", "UNESCO-Weltnaturerbe seit dem Jahr 2004.", "Besteht geologisch hauptsächlich aus dacitischem Gestein.", "Beherbergt etwa 27 verschiedene Vogelarten.", "Der Wanderweg zum Gipfel ist circa 4 km lang.", "Liegt im Soufrière-Distrikt im Südwesten der Insel."],
+      hu: ["A csúcs magassága 786 méter a tengerszint felett.", "2004 óta az UNESCO Világörökség része.", "Geológiailag főként dacit kőzetből épül fel.", "Körülbelül 27 különböző madárfajnak ad otthont.", "A csúcsra vezető túraútvonal hossza kb. 4 km.", "A sziget délnyugati részén, Soufrière közelében található."],
+      ro: ["Înălțimea vârfului este de 786 metri deasupra mării.", "Inclus în patrimoniul mondial UNESCO din anul 2004.", "Compus geologic în principal din rocă dacitică.", "Găzduiește aproximativ 27 de specii de păsări.", "Traseul de drumeție până la vârf are circa 4 km.", "Situat în districtul Soufrière, în sud-vestul insulei."],
+      en: ["Summit elevation is 786 meters above sea level.", "Designated a UNESCO World Heritage site in 2004.", "Geologically composed mainly of dacitic rock.", "Home to approximately 27 different bird species.", "The hiking trail to the summit is about 4 km long.", "Located in the Soufrière District of Saint Lucia."],
+    },
   },
   {
     id: "saintlucia-petit-piton-nature-v2",
@@ -38,6 +50,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["743 meters high.", "Extremely steep slopes.", "UNESCO World Heritage.", "Composed of dacite rock."],
     },
     imageHint: "Petit Piton peak Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Petit Piton ist mit 743 Metern der kleinere, aber steilere der beiden berühmten Vulkankegel bei Soufrière. Er erhebt sich fast vertikal aus dem Karibischen Meer und stellt eine technische Herausforderung für Bergsteiger dar. Wie sein Nachbar ist er Teil des UNESCO-Weltnaturerbes. An seinen Hängen finden sich seltene Pflanzen und historische Petroglyphen.",
+      hu: "A Petit Piton 743 méteres magasságával a kisebb, de meredekebb a két híres Soufrière melletti vulkáni kúp közül. Szinte függőlegesen emelkedik ki a Karib-tengerből, és technikai kihívást jelent a hegymászók számára. Szomszédjához hasonlóan az UNESCO Világörökség része. Lejtőin ritka növények és történelmi petroglifák találhatók.",
+      ro: "Petit Piton, cu o înălțime de 743 de metri, este cel mai mic dar mai abrupt dintre cele două conuri vulcanice de lângă Soufrière. Se ridică aproape vertical din Marea Caraibilor și reprezintă o provocare tehnică pentru alpiniști. Ca și vecinul său, face parte din patrimoniul mondial UNESCO. Pe pantele sale se găsesc plante rare și petroglife istorice.",
+      en: "Petit Piton, at 743 meters, is the smaller but steeper of the two famous volcanic plugs near Soufrière. It rises almost vertically from the Caribbean Sea and presents a technical challenge for climbers. Like its neighbor, it is part of the UNESCO World Heritage site. Its slopes harbor rare plant species and historical Amerindian petroglyphs.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe von 743 Metern über dem Meer.", "Deutlich steileres Profil als der Gros Piton.", "Teil der UNESCO Pitons Management Area.", "Enthält präkolumbianische Petroglyphen der Kariben.", "Entstand als vulkanischer Schlot vor Millionen Jahren.", "Erfordert oft Kletterausrüstung für den Aufstieg."],
+      hu: ["Maximális magassága 743 méter a tenger felett.", "Jelentősen meredekebb profilú, mint a Gros Piton.", "Az UNESCO Piton-hegyek kezelési területének része.", "Prekolumbián karib petroglifákat tartalmaz.", "Vulkáni kürtőként alakult ki évmilliókkal ezelőtt.", "A megmászásához gyakran hegymászó felszerelés szükséges."],
+      ro: ["Înălțimea maximă este de 743 metri deasupra mării.", "Profil semnificativ mai abrupt decât Gros Piton.", "Parte a zonei de management UNESCO Pitons.", "Conține petroglife precolumbiene ale caribilor.", "Format ca dop vulcanic cu milioane de ani în urmă.", "Ascensiunea necesită adesea echipament de alpinism."],
+      en: ["Maximum height of 743 meters above sea level.", "Significantly steeper profile than Gros Piton.", "Part of the UNESCO Pitons Management Area.", "Contains pre-Columbian Carib petroglyphs.", "Formed as a volcanic plug millions of years ago.", "Ascent often requires technical climbing skills."],
+    },
   },
   {
     id: "saintlucia-sulphur-springs-nature-v2",
@@ -57,6 +81,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["Located in a caldera.", "Healing mud baths.", "Sulphurous vapors.", "Geothermal field."],
     },
     imageHint: "Sulphur Springs mud baths Saint Lucia",
+    descriptionAdvanced: {
+      de: "Sulphur Springs gilt als der einzige befahrbare Vulkan der Welt und ist ein aktives geothermisches Gebiet. Besucher können die kochenden Schlammbecken und zischenden Fumarolen aus nächster Nähe beobachten. Die mineralhaltigen Quellen werden für therapeutische Schlammbäder genutzt. Es ist ein direktes Zeugnis der vulkanischen Entstehungsgeschichte der Insel.",
+      hu: "A Sulphur Springs a világ egyetlen autóval bejárható vulkánjaként ismert, és egy aktív geotermikus terület. A látogatók közelről megfigyelhetik a forró iszapmedencéket és a sziszegő fumarolákat. Az ásványi anyagokban gazdag forrásokat terápiás iszapfürdőkre használják. Ez a hely közvetlen bizonyítéka a sziget vulkáni eredetének.",
+      ro: "Sulphur Springs este considerat singurul vulcan din lume în care se poate intra cu mașina, fiind o zonă geotermală activă. Vizitatorii pot observa de aproape bazinele cu noroi clocotit și fumarolele șuierătoare. Izvoarele bogate în minerale sunt folosite pentru băi terapeutice cu noroi. Este o dovadă directă a originii vulcanice a insulei.",
+      en: "Sulphur Springs is renowned as the world's only drive-in volcano and is an active geothermal area. Visitors can observe boiling mud pools and hissing fumaroles from a close proximity. The mineral-rich springs are utilized for therapeutic mud baths. It stands as a direct testament to the volcanic formative history of the island of Saint Lucia.",
+    },
+    factsAdvanced: {
+      de: ["Gelegen in der Soufrière-Caldera im Südwesten.", "Wassertemperaturen erreichen bis zu 77 Grad Celsius.", "Letzter magmatischer Ausbruch fand etwa 1766 statt.", "Enthält hohe Konzentrationen an Schwefel und Eisen.", "Wird seit dem 18. Jahrhundert medizinisch genutzt.", "Gilt als eine der meistbesuchten Stätten St. Lucias."],
+      hu: ["A délnyugati Soufrière-kalderában található.", "A víz hőmérséklete eléri a 77 Celsius-fokot.", "Az utolsó magmás kitörés 1766 körül történt.", "Magas kén- és vaskoncentrációt tartalmaz.", "A 18. század óta használják gyógyászati célokra.", "Saint Lucia egyik leglátogatottabb helyszíne."],
+      ro: ["Situat în caldera Soufrière din sud-vestul insulei.", "Temperaturile apei ating până la 77 grade Celsius.", "Ultima erupție magmatică a avut loc în jurul anului 1766.", "Conține concentrații mari de sulf și fier.", "Utilizat în scopuri medicale încă din secolul al XVIII-lea.", "Considerat unul dintre cele mai vizitate locuri din Sfânta Lucia."],
+      en: ["Located within the Soufrière caldera in the southwest.", "Water temperatures reach up to 170°F (77°C).", "The last magmatic eruption occurred around 1766.", "Contains high concentrations of sulfur and iron.", "Has been used for medicinal purposes since the 1700s.", "Recognized as a top tourist attraction in Saint Lucia."],
+    },
   },
   {
     id: "saintlucia-diamond-falls-nature-v2",
@@ -76,6 +112,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["Mineral-rich water.", "Colorful rock layers.", "Botanical garden.", "Historic thermal baths."],
     },
     imageHint: "Diamond Falls waterfall Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die Diamond Falls befinden sich innerhalb der Diamond Botanical Gardens in Soufrière. Das Wasser des Wasserfalls ist reich an Mineralien, die aus den nahen Schwefelquellen stammen und die Felsen in verschiedenen Farben färben. Der Ort bietet eine Kombination aus Botanik, Geologie und Geschichte. Er gilt als einer der optisch markantesten Wasserfälle der Karibik.",
+      hu: "A Diamond-vízesés a Soufrière-ben található Diamond Botanikus Kertben helyezkedik el. A vízesés vize ásványi anyagokban gazdag, amelyek a közeli kénes forrásokból származnak, és különböző színekre festik a sziklákat. A helyszín a botanika, a geológia és a történelem kombinációját kínálja. A Karib-térség egyik leglátványosabb vízeséseként tartják számon.",
+      ro: "Cascada Diamond se află în cadrul Grădinilor Botanice Diamond din Soufrière. Apa cascadei este bogată în minerale provenite de la izvoarele sulfuroase din apropiere, care colorează stâncile în diverse nuanțe. Locul oferă o combinație de botanică, geologie și istorie. Este considerată una dintre cele mai distinctive cascade din Caraibe.",
+      en: "Diamond Falls is located within the Diamond Botanical Gardens in Soufrière. The waterfall's water is rich in minerals sourced from nearby sulfur springs, which deposit colorful minerals onto the rock face. The site offers a unique combination of botany, geology, and history. It is widely considered one of the most visually striking waterfalls in the Caribbean.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe des Wasserfalls beträgt etwa 17 Meter.", "Mineralien färben die Felsen gelb, grün und braun.", "Das Land wurde 1784 von König Ludwig XVI. gewährt.", "Wasser stammt aus einer unterirdischen Thermalquelle.", "Enthält Kalzium, Magnesium und Schwefelverbindungen.", "Teil eines sechs Hektar großen botanischen Gartens."],
+      hu: ["A vízesés magassága körülbelül 17 méter.", "Az ásványok sárgára, zöldre és barnára festik a sziklákat.", "A területet XVI. Lajos király adományozta 1784-ben.", "A víz egy föld alatti termálforrásból származik.", "Kalciumot, magnéziumot és kénvegyületeket tartalmaz.", "Egy hat hektáros botanikus kert részét képezi."],
+      ro: ["Înălțimea cascadei este de aproximativ 17 metri.", "Mineralele colorează stâncile în galben, verde și maro.", "Terenul a fost donat în 1784 de regele Ludovic al XVI-lea.", "Apa provine dintr-un izvor termal subteran.", "Conține calciu, magneziu și compuși de sulf.", "Parte a unei grădini botanice de șase hectare."],
+      en: ["The waterfall has a drop of approximately 17 meters.", "Minerals tint the rocks in shades of yellow, green, and brown.", "The site was granted by King Louis XVI in 1784.", "Water originates from an underground geothermal spring.", "Contains deposits of lime, magnesium, and sulfur.", "Set within a six-acre award-winning botanical garden."],
+    },
   },
   {
     id: "saintlucia-toraille-waterfall-nature-v2",
@@ -95,6 +143,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["15 meters high.", "Natural swimming pool.", "Easily accessible.", "Located near Soufriere."],
     },
     imageHint: "Toraille Waterfall Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Toraille-Wasserfall ist ein leicht zugängliches Naturdenkmal in der Nähe von Soufrière. Das Wasser stürzt aus einer Höhe von etwa 15 Metern in ein natürliches Becken, das von tropischen Gärten umgeben ist. Viele Besucher nutzen den kräftigen Wasserstrahl für eine natürliche Hydromassage. Der Wasserfall ist ein beliebtes Ziel für Ökotourismus und Erholung.",
+      hu: "A Toraille-vízesés egy könnyen megközelíthető természeti emlék Soufrière közelében. A víz körülbelül 15 méteres magasságból zúdul egy trópusi kertekkel körülvett természetes medencébe. Sok látogató a jótékony vízsugarat természetes hidromasszázsként használja. A vízesés az ökoturizmus és a kikapcsolódás népszerű célpontja.",
+      ro: "Cascada Toraille este un monument natural ușor accesibil lângă Soufrière. Apa cade de la o înălțime de aproximativ 15 metri într-un bazin natural înconjurat de grădini tropicale. Mulți vizitatori folosesc jetul puternic de apă pentru un hidromasaj natural. Cascada este o destinație populară pentru ecoturism și relaxare.",
+      en: "Toraille Waterfall is an easily accessible natural landmark located near Soufrière. The water cascades from a height of approximately 15 meters into a natural plunge pool surrounded by tropical gardens. Many visitors utilize the powerful stream for a natural hydro-massage. The waterfall is a popular destination for eco-tourism and relaxation on the island.",
+    },
+    factsAdvanced: {
+      de: ["Fallhöhe beträgt circa 15 Meter (50 Fuß).", "Gelegen in einem üppigen botanischen Parkgelände.", "Das Wasser fließt später in das Karibische Meer.", "Verfügt über angelegte Wege und Brücken für Besucher.", "Wird oft für lokale Naturfotografie genutzt.", "Nahe der Hauptstraße nach Soufrière gelegen."],
+      hu: ["A vízesés magassága körülbelül 15 méter (50 láb).", "Bujja botanikus park területén található.", "A víz később a Karib-tengerbe ömlik.", "Kiépített ösvényekkel és hidakkal várja a látogatókat.", "Gyakran használják helyi természetfotózáshoz.", "A Soufrière felé vezető főút közelében fekszik."],
+      ro: ["Înălțimea căderii este de circa 15 metri (50 picioare).", "Situată într-un parc botanic luxuriant.", "Apa se varsă ulterior în Marea Caraibilor.", "Dispune de poteci și poduri amenajate pentru vizitatori.", "Utilizată frecvent pentru fotografia de natură locală.", "Localizată aproape de drumul principal spre Soufrière."],
+      en: ["Drop height is approximately 15 meters (50 feet).", "Situated within a lush botanical park setting.", "The runoff eventually flows into the Caribbean Sea.", "Features landscaped paths and bridges for visitors.", "Frequently used as a site for local nature photography.", "Located just off the main road to Soufrière."],
+    },
   },
   {
     id: "saintlucia-mount-gimie-nature-v2",
@@ -114,6 +174,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["Highest point on the island.", "950 meters above sea level.", "Often shrouded in clouds.", "Surrounded by rainforest."],
     },
     imageHint: "Mount Gimie peak Saint Lucia",
+    descriptionAdvanced: {
+      de: "Mount Gimie ist mit 950 Metern der höchste Berg von St. Lucia. Der vulkanische Gipfel liegt im zentralen Hochland und ist oft in Wolken gehüllt. Er bildet das Herzstück des zentralen Waldreservats und ist entscheidend für das Wassereinzugsgebiet der Insel. Ein Aufstieg bietet spektakuläre Ausblicke auf die gesamte Geografie von Saint Lucia.",
+      hu: "A Mount Gimie 950 méteres magasságával Saint Lucia legmagasabb hegye. A vulkáni csúcs a központi felföldön található, és gyakran felhőkbe burkolózik. A központi erdőrezervátum szívét alkotja, és döntő fontosságú a sziget vízgyűjtő területe szempontjából. A megmászása látványos kilátást nyújt Saint Lucia egész földrajzára.",
+      ro: "Mount Gimie este cel mai înalt munte din Sfânta Lucia, având 950 de metri. Vârful vulcanic este situat în zonele înalte centrale și este adesea învăluit în nori. Formează inima rezervației forestiere centrale și este crucial pentru bazinul hidrografic al insulei. O ascensiune oferă vederi spectaculoase asupra întregii geografii a statului.",
+      en: "Mount Gimie is the highest mountain in Saint Lucia, standing at 950 meters. The volcanic peak is located in the central highlands and is frequently shrouded in clouds. It forms the centerpiece of the Central Forest Reserve and is vital for the island's watershed management. A climb to the summit offers spectacular views of Saint Lucia's entire geography.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt von St. Lucia mit 950 Metern.", "Vulkanischer Ursprung aus dem Pleistozän.", "Haupteinzugsgebiet für die Wasserversorgung der Insel.", "Teil des geschützten Central Forest Reserve.", "Gipfel besteht primär aus vulkanischem Dacit.", "Wanderung erfordert oft einen lizenzierten Führer."],
+      hu: ["Saint Lucia legmagasabb pontja 950 méterrel.", "Pleisztocén kori vulkáni eredetű képződmény.", "A sziget vízellátásának fő gyűjtőterülete.", "A védett Központi Erdőrezervátum része.", "A csúcs elsősorban vulkáni dacitból áll.", "A túrához gyakran engedéllyel rendelkező vezető szükséges."],
+      ro: ["Cel mai înalt punct din Sfânta Lucia, la 950 metri.", "Origine vulcanică datând din perioada pleistocenului.", "Principala zonă de captare pentru alimentarea cu apă.", "Parte a Rezervației Forestiere Centrale protejate.", "Vârful este compus în principal din dacit vulcanic.", "Drumeția necesită adesea un ghid autorizat."],
+      en: ["Highest point in Saint Lucia at 950 meters (3,117 ft).", "Volcanic origin dating back to the Pleistocene.", "Primary catchment area for the island's water supply.", "Part of the protected Central Forest Reserve.", "The summit consists primarily of volcanic dacite.", "Hiking the peak often requires a licensed guide."],
+    },
   },
   {
     id: "saintlucia-piton-flore-nature-v2",
@@ -133,6 +205,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["564 meters high.", "Northern mountain range.", "Dense secondary forest.", "Trail to the summit."],
     },
     imageHint: "Piton Flore mountain Saint Lucia",
+    descriptionAdvanced: {
+      de: "Piton Flore ist ein 564 Meter hoher Gipfel im Norden von St. Lucia. Er liegt innerhalb des Castries Waterworks Reserve und ist ein wichtiger Teil des nördlichen Waldökosystems. Das Gebiet ist bekannt für seine reiche Flora und dient als Rückzugsort für seltene Vogelarten. Der Gipfel bietet Panoramablicke auf die Nordküste und den Roseau-Damm.",
+      hu: "A Piton Flore egy 564 méter magas csúcs Saint Lucia északi részén. A Castries Vízmű Rezervátum területén található, és az északi erdőökoszisztéma fontos része. A terület gazdag flórájáról ismert, és ritka madárfajok menedékhelyeként szolgál. A csúcsról panorámás kilátás nyílik az északi partra és a Roseau-gátra.",
+      ro: "Piton Flore este un vârf de 564 de metri situat în nordul insulei Sfânta Lucia. Se află în cadrul Rezervației Castries Waterworks și este o parte importantă a ecosistemului forestier nordic. Zona este cunoscută pentru flora sa bogată și servește ca refugiu pentru specii rare de păsări. Vârful oferă vederi panoramice asupra coastei de nord.",
+      en: "Piton Flore is a 564-meter peak located in the northern part of Saint Lucia. It lies within the Castries Waterworks Reserve and is a vital component of the northern forest ecosystem. The area is known for its rich flora and serves as a sanctuary for rare bird species. The summit provides panoramic views of the northern coast and the Roseau Dam.",
+    },
+    factsAdvanced: {
+      de: ["Gipfelhöhe beträgt 564 Meter über dem Meer.", "Gehört zum Castries Waterworks Reserve.", "Wichtiger Lebensraum für die St. Lucia-Waldsänger.", "Dient als Wassereinzugsgebiet für den Roseau-Damm.", "Zugang erfolgt meist über das Gebiet Babonneau.", "Bedeckt von dichtem, sekundärem Regenwald."],
+      hu: ["A csúcs magassága 564 méter a tenger felett.", "A Castries Vízmű Rezervátumhoz tartozik.", "Fontos élőhely a Saint Lucia-i lombjáró számára.", "Vízgyűjtő területként szolgál a Roseau-gát számára.", "A bejutás leggyakrabban Babonneau felől történik.", "Sűrű, másodlagos esőerdő borítja."],
+      ro: ["Înălțimea vârfului este de 564 metri deasupra mării.", "Aparține Rezervației Castries Waterworks.", "Habitat important pentru pitulicea de Sfânta Lucia.", "Servește ca bazin de captare pentru barajul Roseau.", "Accesul se face de obicei prin zona Babonneau.", "Acoperit de o pădure tropicală secundară densă."],
+      en: ["Summit elevation is 564 meters above sea level.", "Part of the Castries Waterworks Reserve.", "Important habitat for the Saint Lucia Warbler.", "Serves as a catchment area for the Roseau Dam.", "Accessible via trails from the Babonneau area.", "Covered by dense secondary tropical rainforest."],
+    },
   },
   {
     id: "saintlucia-roseau-river-nature-v2",
@@ -152,6 +236,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["Longest river on the island.", "Empties at Roseau Bay.", "Irrigates banana plantations.", "Important water source."],
     },
     imageHint: "Roseau River valley Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Roseau River ist der längste Fluss auf St. Lucia und fließt durch das fruchtbare Roseau Valley. Er ist eine lebenswichtige Wasserquelle und speist den John Compton Dam, den größten Staudamm der Insel. Der Flusslauf ist von ausgedehnten Bananenplantagen und tropischer Vegetation gesäumt. Er spielt eine zentrale Rolle in der Landwirtschaft und Wasserwirtschaft der Region.",
+      hu: "A Roseau-folyó Saint Lucia leghosszabb folyója, amely a termékeny Roseau-völgyön folyik keresztül. Létfontosságú vízforrás, amely a sziget legnagyobb gátját, a John Compton-gátat táplálja. A folyó mentén kiterjedt banánültetvények és trópusi növényzet található. Központi szerepet játszik a régió mezőgazdaságában és vízgazdálkodásában.",
+      ro: "Râul Roseau este cel mai lung râu din Sfânta Lucia, traversând valea fertilă Roseau. Este o sursă de apă vitală, alimentând barajul John Compton, cel mai mare baraj de pe insulă. Cursul râului este mărginit de plantații extinse de bananieri și vegetație tropicală. Joacă un rol central în agricultura și gestionarea apei din regiune.",
+      en: "The Roseau River is the longest river in Saint Lucia, flowing through the fertile Roseau Valley. It is a vital water source that feeds the John Compton Dam, the island's largest reservoir. The river course is lined with extensive banana plantations and tropical vegetation. It plays a central role in the region's agriculture and water management systems.",
+    },
+    factsAdvanced: {
+      de: ["Längster Fluss der Insel mit circa 19 km Länge.", "Speist den John Compton Dam (Roseau Dam).", "Das Reservoir fasst etwa 3 Millionen Kubikmeter Wasser.", "Fließt durch das größte Bananenanbaugebiet der Insel.", "Wichtigste Wasserquelle für den Norden St. Lucias.", "Mündet bei Roseau Bay in das Karibische Meer."],
+      hu: ["A sziget leghosszabb folyója, kb. 19 km hosszú.", "A John Compton-gátat (Roseau-gát) táplálja.", "A víztározó kb. 3 millió köbméter vizet tárol.", "A sziget legnagyobb banántermő vidékén folyik át.", "Saint Lucia északi részének legfontosabb vízforrása.", "A Roseau-öbölnél torkollik a Karib-tengerbe."],
+      ro: ["Cel mai lung râu de pe insulă, cu circa 19 km.", "Alimentează barajul John Compton (barajul Roseau).", "Rezervorul reține aproximativ 3 milioane m3 de apă.", "Traversează cea mai mare zonă agricolă de bananieri.", "Principala sursă de apă pentru nordul insulei.", "Se varsă în Marea Caraibilor la Roseau Bay."],
+      en: ["Longest river on the island, approx 19 km in length.", "Primary source for the John Compton Dam.", "The dam reservoir holds 3 million cubic meters of water.", "Flows through the island's largest banana plantations.", "Key water source for northern districts of Saint Lucia.", "Empties into the Caribbean Sea at Roseau Bay."],
+    },
   },
   {
     id: "saintlucia-anse-chastanet-reef-nature-v2",
@@ -171,6 +267,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["Protected marine reserve.", "Popular snorkeling spot.", "Over 150 fish species.", "Colorful coral gardens."],
     },
     imageHint: "Anse Chastanet reef snorkeling Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Anse Chastanet Riff ist eines der spektakulärsten marinen Ökosysteme von St. Lucia. Es liegt direkt vor der Küste und beherbergt eine enorme Vielfalt an Korallen und Fischen. Als Teil eines Meeresschutzgebiets bietet es ideale Bedingungen für Schnorchler und Taucher. Das Riff zeichnet sich durch seine steilen Wände und gut erhaltenen Korallengärten aus.",
+      hu: "Az Anse Chastanet-zátony Saint Lucia egyik leglátványosabb tengeri ökoszisztémája. Közvetlenül a part mentén található, és a korallok és halak hatalmas választékának ad otthont. Egy tengeri védett terület részeként ideális körülményeket kínál a búvárok számára. A zátonyt meredek falak és jól megőrzött korallkertek jellemzik.",
+      ro: "Reciful Anse Chastanet este unul dintre cele mai spectaculoase ecosisteme marine din Sfânta Lucia. Situat chiar lângă țărm, găzduiește o diversitate enormă de corali și pești. Ca parte a unei zone marine protejate, oferă condiții ideale pentru snorkeling și scufundări. Reciful se remarcă prin pereții săi abrupți și grădinile de corali bine conservate.",
+      en: "Anse Chastanet Reef is one of Saint Lucia's most spectacular marine ecosystems. Located just offshore, it harbors an enormous diversity of corals and tropical fish. As part of a Marine Management Area, it offers ideal conditions for snorkeling and scuba diving. The reef is characterized by steep drop-offs and well-preserved coral gardens.",
+    },
+    factsAdvanced: {
+      de: ["Teil der Soufrière Marine Management Area.", "Beherbergt über 150 verschiedene Fischarten.", "Wassertiefen reichen von 5 bis über 40 Metern.", "Bekannt für Hirnkorallen und große Gorgonien.", "Sichtweiten unter Wasser liegen oft bei 20 Metern.", "Direkter Zugang vom Strand Anse Chastanet aus."],
+      hu: ["A Soufrière Tengeri Kezelési Terület része.", "Több mint 150 különböző halfajnak ad otthont.", "A vízmélység 5 és 40 méter között mozog.", "Híres az agykorallokról és a nagy gorgóniákról.", "A víz alatti látótávolság gyakran eléri a 20 métert.", "Közvetlen hozzáférés az Anse Chastanet strandról."],
+      ro: ["Parte a zonei de management marin Soufrière.", "Găzduiește peste 150 de specii diferite de pești.", "Adâncimea apei variază de la 5 la peste 40 de metri.", "Cunoscut pentru coralii creier și gorgoniile mari.", "Vizibilitatea sub apă depășește adesea 20 de metri.", "Acces direct de pe plaja Anse Chastanet."],
+      en: ["Part of the Soufrière Marine Management Area.", "Home to over 150 species of tropical fish.", "Depths range from 5 to over 140 feet (40+ meters).", "Features large brain corals and colorful gorgonians.", "Underwater visibility often exceeds 20 meters.", "Accessible directly from the Anse Chastanet beach."],
+    },
   },
   {
     id: "saintlucia-maria-islands-nature-v2",
@@ -190,6 +298,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["Home to the rarest snake.", "Important bird nesting site.", "Visit by permit only.", "Two islets: Major and Minor."],
     },
     imageHint: "Maria Islands nature reserve Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die Maria Islands sind zwei kleine Inseln vor der Südostküste von St. Lucia, die als strenges Naturschutzgebiet ausgewiesen sind. Sie sind der letzte Zufluchtsort für seltene Reptilien wie die St. Lucia-Natter. Die Inseln dienen zudem als wichtiger Nistplatz für zahlreiche Seevögel. Der Zugang ist zum Schutz der empfindlichen Ökosysteme streng reglementiert.",
+      hu: "A Maria-szigetek két kis sziget Saint Lucia délkeleti partjainál, amelyek szigorú természetvédelmi területnek minősülnek. Ez az utolsó menedékhelye olyan ritka hüllőknek, mint a Saint Lucia-i sikló. A szigetek emellett számos tengeri madár fontos fészkelőhelyeként szolgálnak. A bejutás az érzékeny ökoszisztémák védelme érdekében szigorúan szabályozott.",
+      ro: "Insulele Maria sunt două insule mici în largul coastei de sud-est a insulei Sfânta Lucia, desemnate ca rezervație naturală strictă. Sunt ultimul refugiu pentru reptile rare, cum ar fi șarpele de Sfânta Lucia. Insulele servesc, de asemenea, ca loc important de cuibărit pentru numeroase păsări marine. Accesul este strict reglementat pentru a proteja ecosistemele fragile.",
+      en: "The Maria Islands are two small islets off the southeastern coast of Saint Lucia, designated as a strict nature reserve. They are the final sanctuary for rare reptiles such as the Saint Lucia Racer snake. The islands also serve as a vital nesting site for numerous migratory seabirds. Access is strictly regulated to protect the fragile ecosystems.",
+    },
+    factsAdvanced: {
+      de: ["Bestehen aus Maria Major und Maria Minor.", "Heimat der seltensten Schlange der Welt (Kouwes).", "Lebensraum des endemischen Maria-Island-Bodenleguans.", "Seit dem Jahr 1982 offiziell als Naturschutzgebiet deklariert.", "Wichtiger Nistplatz für Rußseeschwalben im Frühjahr.", "Wird vom Saint Lucia National Trust verwaltet."],
+      hu: ["Maria Major és Maria Minor szigetekből áll.", "A világ egyik legritkább kígyójának (Kouwes) otthona.", "Az endemikus Saint Lucia-i ostorfarkú gyík élőhelye.", "1982-ben nyilvánították hivatalosan természetvédelmi területté.", "Fontos fészkelőhely a füstös csérek számára tavasszal.", "A Saint Lucia National Trust kezeli."],
+      ro: ["Compuse din Maria Major și Maria Minor.", "Habitat pentru cel mai rar șarpe din lume (Kouwes).", "Adăpostește șopârla endemică de Sfânta Lucia.", "Declarate oficial rezervație naturală în anul 1982.", "Loc important de cuibărit pentru rândunicile de mare.", "Administrate de Saint Lucia National Trust."],
+      en: ["Comprised of two islets: Maria Major and Maria Minor.", "Home to the Saint Lucia Racer, the world's rarest snake.", "Habitat for the endemic Saint Lucia Whiptail lizard.", "Declared a Nature Reserve in 1982.", "Major nesting site for Sooty Terns during spring.", "Managed by the Saint Lucia National Trust."],
+    },
   },
   {
     id: "saintlucia-dennery-falls-nature-v2",
@@ -209,6 +329,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["Also called Sault Falls.", "About 20 meters high.", "Near the town of Dennery.", "Secluded location."],
     },
     imageHint: "Dennery Falls waterfall Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die Dennery Falls, auch als Sault Falls bekannt, liegen an der Ostküste von St. Lucia inmitten eines dichten Trockenwaldes. Mit einer Höhe von etwa 20 Metern gehören sie zu den beeindruckendsten Wasserfällen der Insel. Der Wasserfall wird vom Dennery River gespeist und bietet eine ruhige Atmosphäre abseits der touristischen Hauptrouten. Die Umgebung lädt zu Naturbeobachtungen ein.",
+      hu: "A Dennery-vízesés, más néven Sault-vízesés, Saint Lucia keleti partján található, sűrű száraz erdők közepén. Körülbelül 20 méteres magasságával a sziget egyik leglenyűgözőbb vízesése. A vízesést a Dennery-folyó táplálja, és nyugodt légkört kínál a főbb turistaútvonalaktól távol. A környék kiválóan alkalmas természetmegfigyelésre.",
+      ro: "Cascada Dennery, cunoscută și sub numele de Sault Falls, se află pe coasta de est a insulei Sfânta Lucia, în mijlocul unei păduri tropicale uscate. Cu o înălțime de aproximativ 20 de metri, este una dintre cele mai impresionante cascade de pe insulă. Cascada este alimentată de râul Dennery și oferă o atmosferă liniștită. Împrejurimile sunt ideale pentru observarea naturii.",
+      en: "Dennery Falls, also known as Sault Falls, is located on the east coast of Saint Lucia amidst dense tropical dry forest. With a height of approximately 20 meters, it is among the most impressive waterfalls on the island. The fall is fed by the Dennery River and offers a serene atmosphere away from the main tourist routes. The surrounding area is excellent for nature observation.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Wasserfalls beträgt circa 20 Meter.", "Wird lokal oft als Sault Falls bezeichnet.", "Liegt im Distrikt Dennery an der Atlantikküste.", "Gespeist durch den Dennery River aus dem Hochland.", "Umgeben von sekundärem Trockentropenwald.", "Weniger frequentiert als Wasserfälle im Westen."],
+      hu: ["A vízesés magassága körülbelül 20 méter.", "Helyileg gyakran Sault-vízesésnek nevezik.", "Dennery körzetben, az atlanti parton található.", "A felföldről érkező Dennery-folyó táplálja.", "Másodlagos száraz trópusi erdő veszi körül.", "Kevésbé látogatott, mint a nyugati vízesések."],
+      ro: ["Înălțimea cascadei este de circa 20 metri.", "Cunoscută local sub numele de Sault Falls.", "Situată în districtul Dennery, pe coasta atlantică.", "Alimentată de râul Dennery din zonele înalte.", "Înconjurată de pădure tropicală uscată secundară.", "Mai puțin frecventată decât cascadele din vest."],
+      en: ["The waterfall has a drop of approximately 20 meters.", "Frequently referred to locally as Sault Falls.", "Located in the Dennery District on the Atlantic coast.", "Fed by the Dennery River originating in the highlands.", "Surrounded by dense secondary dry tropical forest.", "Less visited by tourists compared to western falls."],
+    },
   },
   {
     id: "saintlucia-soufriere-river-nature-v2",
@@ -228,6 +360,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["Volcanic water sources.", "Flows through Soufriere.", "Empties into the Caribbean.", "Important for local agriculture."],
     },
     imageHint: "Soufriere River Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Soufrière River entspringt in den vulkanischen Höhenzügen der Pitons Management Area und fließt durch die Stadt Soufrière in die Karibische See. Er führt mineralreiches Wasser aus den geothermischen Zonen stromaufwärts mit sich. Der Fluss ist historisch bedeutsam für die frühen Siedlungen und die lokale Landwirtschaft. Er bildet eine wichtige geografische Achse im Südwesten der Insel.",
+      hu: "A Soufrière-folyó a Piton-hegyek kezelési területének vulkáni vonulataiban ered, és Soufrière városán keresztül folyik a Karib-tengerbe. Ásványi anyagokban gazdag vizet szállít a folyásirányban feljebb található geotermikus zónákból. A folyó történelmi jelentőségű a korai települések és a helyi mezőgazdaság szempontjából. Fontos földrajzi tengelyt alkot a sziget délnyugati részén.",
+      ro: "Râul Soufrière izvorăște din culmile vulcanice ale zonei de management Pitons și curge prin orașul Soufrière spre Marea Caraibilor. Transportă apă bogată în minerale din zonele geotermale aflate în amonte. Râul este semnificativ din punct de vedere istoric pentru primele așezări și agricultura locală. Formează o axă geografică importantă în sud-vestul insulei.",
+      en: "The Soufrière River originates in the volcanic ridges of the Pitons Management Area and flows through the town of Soufrière into the Caribbean Sea. It carries mineral-rich water from the geothermal zones located upstream. The river is historically significant for early settlements and local agriculture. It forms a key geographical axis in the southwestern part of the island.",
+    },
+    factsAdvanced: {
+      de: ["Mündet in der Soufrière Bay in das Karibische Meer.", "Länge des Flusslaufs beträgt circa 10 Kilometer.", "Transportiert Schwefelablagerungen aus den Sulphur Springs.", "War entscheidend für die Anlage früher französischer Güter.", "Dient zur Bewässerung kleinerer landwirtschaftlicher Flächen.", "Fließt direkt durch das Stadtzentrum von Soufrière."],
+      hu: ["A Soufrière-öbölnél torkollik a Karib-tengerbe.", "A folyó hossza körülbelül 10 kilométer.", "Kénes hordalékot szállít a Sulphur Springs felől.", "Döntő fontosságú volt a korai francia birtokok számára.", "Kisebb mezőgazdasági területek öntözésére szolgál.", "Közvetlenül Soufrière városközpontján folyik keresztül."],
+      ro: ["Se varsă în Marea Caraibilor la Soufrière Bay.", "Lungimea cursului râului este de circa 10 kilometri.", "Transportă depozite de sulf din zona Sulphur Springs.", "Crucial pentru stabilirea primelor domenii franceze.", "Utilizat pentru irigarea micilor suprafețe agricole.", "Traversează direct centrul orașului Soufrière."],
+      en: ["Empties into the Caribbean Sea at Soufrière Bay.", "Total length of the river is approximately 10 km.", "Carries sulfur deposits from the Sulphur Springs area.", "Was vital for the establishment of early French estates.", "Provides irrigation for small-scale local agriculture.", "Flows directly through the center of Soufrière town."],
+    },
   },
   {
     id: "saintlucia-latille-falls-nature-v2",
@@ -247,6 +391,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["About 6 meters high.", "Natural fish spa.", "Guided garden tours.", "Quiet, natural setting."],
     },
     imageHint: "Latille Falls waterfall gardens Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die Latille Falls befinden sich im Osten von St. Lucia in der Nähe von Micoud. Der etwa sechs Meter hohe Wasserfall ist in ein privates Ökotourismus-Projekt eingebettet, das den Schutz der lokalen Flora betont. Ein natürliches Becken am Fuß des Falls lädt zum Baden ein. Die Umgebung ist bekannt für ihre Ruhe und die Vielfalt an tropischen Nutzpflanzen und Obstbäumen.",
+      hu: "A Latille-vízesés Saint Lucia keleti részén, Micoud közelében található. A körülbelül hat méter magas vízesés egy privát ökoturisztikai projekt része, amely a helyi flóra védelmét hangsúlyozza. A vízesés lábánál található természetes medence alkalmas a fürdésre. A környék a nyugalmáról, valamint a trópusi haszonnövények és gyümölcsfák változatosságáról ismert.",
+      ro: "Cascada Latille se află în estul insulei Sfânta Lucia, lângă Micoud. Cascada de aproximativ șase metri înălțime este integrată într-un proiect privat de ecoturism care pune accent pe protejarea florei locale. Un bazin natural la baza căderii de apă permite înotul. Zona este cunoscută pentru liniștea sa și diversitatea pomilor fructiferi tropicali.",
+      en: "Latille Falls is located on the eastern side of Saint Lucia near Micoud. The approximately six-meter-high waterfall is part of a private eco-tourism initiative that emphasizes the preservation of local flora. A natural plunge pool at the base of the falls allows for swimming. The area is known for its tranquility and diversity of tropical fruit trees and crops.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Wasserfalls liegt bei circa 6 Metern.", "Befindet sich nahe der Savannes Bay in Micoud.", "Bekannt für den Fisch-Spa im natürlichen Bachlauf.", "Umgeben von Muskatnuss-, Kakao- und Zimtbäumen.", "Wird als privates Naturschutzprojekt geführt.", "Bietet markierte Naturpfade für Besucher an."],
+      hu: ["A vízesés magassága körülbelül 6 méter.", "A Micoud melletti Savannes-öböl közelében található.", "Híres a természetes patakban található halkezelésről.", "Szerecsendió-, kakaó- és fahéjfák veszik körül.", "Magán természetvédelmi projektként működik.", "Kijelölt tanösvényeket kínál a látogatóknak."],
+      ro: ["Înălțimea cascadei este de circa 6 metri.", "Situată lângă Savannes Bay în Micoud.", "Cunoscută pentru tratamentul cu pești în pârâul natural.", "Înconjurată de arbori de nucșoară, cacao și scorțișoară.", "Gestionată ca un proiect privat de conservare.", "Oferă poteci naturale marcate pentru vizitatori."],
+      en: ["Height of the waterfall is approximately 6 meters.", "Located near Savannes Bay in the Micoud District.", "Known for the natural fish spa experience in the stream.", "Surrounded by nutmeg, cocoa, and cinnamon trees.", "Operated as a private eco-tourism and nature project.", "Features marked nature trails through the property."],
+    },
   },
   {
     id: "saintlucia-piton-mitan-nature-v2",
@@ -266,6 +422,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["Central mountain location.", "Surrounded by dense forest.", "Panoramic coastal views.", "Part of a trail network."],
     },
     imageHint: "Piton Mitan mountain Saint Lucia",
+    descriptionAdvanced: {
+      de: "Piton Mitan ist ein markanter Bergrücken im zentralen Teil von St. Lucia. Er bildet einen Teil des vulkanischen Rückgrats der Insel und erreicht eine Höhe von etwa 360 Metern. Von seinen Hängen aus bieten sich weite Ausblicke über die Atlantik- und Karibikküste. Die Region ist durch dichte tropische Vegetation und eine reiche Biodiversität an Vögeln und Insekten geprägt.",
+      hu: "A Piton Mitan egy jellegzetes hegygerinc Saint Lucia középső részén. A sziget vulkáni gerincének részét képezi, és körülbelül 360 méteres magasságot ér el. Lejtőiről tágas kilátás nyílik az atlanti és a karibi partokra. A régiót sűrű trópusi növényzet, valamint a madarak és rovarok gazdag biodiverzitása jellemzi.",
+      ro: "Piton Mitan este o creastă muntoasă proeminentă în partea centrală a insulei Sfânta Lucia. Face parte din coloana vertebrală vulcanică a insulei și atinge o înălțime de aproximativ 360 de metri. De pe pantele sale se deschid vederi largi asupra coastelor Atlanticului și Caraibilor. Regiunea este caracterizată de o vegetație tropicală densă și o biodiversitate bogată.",
+      en: "Piton Mitan is a prominent mountain ridge located in the central part of Saint Lucia. It forms part of the island's volcanic backbone and reaches an elevation of approximately 360 meters. Its slopes offer wide views across both the Atlantic and Caribbean coasts. The region is characterized by dense tropical vegetation and a rich biodiversity of birds and insects.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe beträgt circa 360 Meter.", "Zentrale Lage auf der vulkanischen Hauptachse.", "Sichtbar von der Ost-West-Verbindungsstraße.", "Wichtiger Lebensraum für tropische Baumfarne.", "Dient als Orientierungspunkt im zentralen Hochland.", "Besteht geologisch aus altem Vulkangestein."],
+      hu: ["Maximális magassága körülbelül 360 méter.", "Központi elhelyezkedés a fő vulkáni tengelyen.", "Látható a szigetet átszelő kelet-nyugati útról.", "Fontos élőhely a trópusi páfrányfák számára.", "Tájékozódási pontként szolgál a központi felföldön.", "Geológiailag ősi vulkáni kőzetekből épül fel."],
+      ro: ["Înălțimea maximă este de circa 360 metri.", "Poziție centrală pe axa vulcanică principală.", "Vizibil de pe drumul ce traversează insula est-vest.", "Habitat important pentru ferigile arborescente.", "Servește ca punct de reper în zonele înalte centrale.", "Compus geologic din roci vulcanice antice."],
+      en: ["Maximum elevation is approximately 360 meters.", "Central location along the island's volcanic backbone.", "Visible from the main highway crossing the island.", "Important habitat for tropical tree ferns.", "Serves as a landmark in the central highlands.", "Geologically composed of ancient volcanic rock."],
+    },
   },
   {
     id: "saintlucia-frigate-island-nature-v2",
@@ -285,6 +453,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["Breeding ground for frigatebirds.", "Nature reserve.", "Off the coast of Praslin.", "Viewable from the mainland."],
     },
     imageHint: "Frigate Island nature reserve Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Frigate Island Naturschutzgebiet liegt an der windgepeitschten Ostküste von St. Lucia bei Praslin. Es besteht aus zwei kleinen Inseln, die durch eine schmale Sandbank mit dem Festland verbunden sind. Die Region ist als kritischer Brutplatz für Prachtfregattvögel bekannt und bietet Schutz für seltene Reptilienarten.",
+      hu: "A Frigate Island természetvédelmi terület Saint Lucia szeles keleti partján, Praslin közelében található. Két kis szigetből áll, amelyeket keskeny homokpad kapcsol a szárazföldhöz. A terület a pompás fregattmadarak kritikus fészkelőhelyeként ismert, és menedéket nyújt ritka hüllőfajok számára is.",
+      ro: "Rezervația naturală Frigate Island este situată pe coasta de est a insulei Sfânta Lucia, lângă Praslin. Aceasta cuprinde două insule mici conectate la țărm printr-un banc îngust de nisip. Regiunea este cunoscută ca loc critic de cuibărit pentru păsările fregată și oferă protecție unor specii rare de reptile.",
+      en: "The Frigate Island Nature Reserve is located on the windward east coast of Saint Lucia near Praslin. It consists of two small islets connected to the mainland by a narrow sandbar. The area is renowned as a critical breeding ground for Magnificent Frigatebirds and provides a sanctuary for rare reptile species.",
+    },
+    factsAdvanced: {
+      de: ["Wurde 1989 offiziell zum Naturschutzgebiet erklärt", "Hauptbrutzeit der Fregattvögel ist von Mai bis Juli", "Beherbergt die seltene Saint-Lucia-Boa", "Vögel haben eine Flügelspannweite von bis zu 2 Metern", "Zwei Inseln sind durch eine Tombolo-Struktur verbunden", "Wichtiger Lebensraum für die endemische Zwerggecko-Art"],
+      hu: ["1989-ben nyilvánították hivatalosan természetvédelmi területté", "A fregattmadarak fő költési ideje májustól júliusig tart", "Itt él a ritka Saint Lucia-i boa konstriktor", "A madarak szárnyfesztávolsága elérheti a 2 métert", "A két szigetet egy tombolo típusú homokpad köti össze", "Fontos élőhelye az endemikus törpegekkó fajnak"],
+      ro: ["A fost declarată oficial rezervație naturală în anul 1989", "Sezonul principal de cuibărit al fregatelor este mai-iulie", "Găzduiește specia rară de boa din Sfânta Lucia", "Păsările au o anvergură a aripilor de până la 2 metri", "Cele două insule sunt legate printr-o structură de tombolo", "Habitat esențial pentru specia endemică de gecko pitic"],
+      en: ["Officially declared a nature reserve in 1989", "Main breeding season for frigatebirds is May to July", "Home to the rare Saint Lucia boa constrictor", "Birds exhibit a wingspan of up to 2 meters", "Two islets are connected by a tombolo sandbar structure", "Critical habitat for the endemic pygmy gecko species"],
+    },
   },
   {
     id: "saintlucia-savannes-bay-nature-v2",
@@ -304,6 +484,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["Marine nature reserve.", "Rich ecosystem.", "Southeast coast of the island.", "Mangroves and reefs."],
     },
     imageHint: "Savannes Bay Saint Lucia",
+    descriptionAdvanced: {
+      de: "Savannes Bay ist ein bedeutendes Meeresschutzgebiet an der Südostküste der Insel. Es umfasst ausgedehnte Mangrovenwälder und Seegraswiesen, die das Ökosystem vor Küstenerosion schützen. Die Bucht dient als wichtige Kinderstube für zahlreiche Fischarten und bietet Lebensraum für Zugvögel.",
+      hu: "A Savannes-öböl jelentős tengeri védett terület a sziget délkeleti partján. Kiterjedt mangroveerdőket és tengerifű-mezőket foglal magában, amelyek védik az ökoszisztémát a partmenti eróziótól. Az öböl számos halfaj fontos bölcsőhelyeként szolgál, és élőhelyet biztosít a vándormadarak számára.",
+      ro: "Golful Savannes este o zonă marină protejată semnificativă situată pe coasta de sud-est a insulei. Cuprinde păduri extinse de mangrove și pajiști de iarbă de mare care protejează ecosistemul de eroziunea costieră. Golful servește ca pepinieră importantă pentru numeroase specii de pești.",
+      en: "Savannes Bay is a significant marine protected area situated on the southeastern coast of the island. It encompasses extensive mangrove forests and seagrass beds that shield the ecosystem from coastal erosion. The bay serves as a vital nursery for numerous fish species and provides habitat for migratory birds.",
+    },
+    factsAdvanced: {
+      de: ["Das Schutzgebiet erstreckt sich über etwa 25 Hektar", "Beherbergt alle vier in der Region vorkommenden Mangrovenarten", "Wurde im Jahr 1990 unter Naturschutz gestellt", "Wichtiger Standort für die handwerkliche Fischerei vor Ort", "Die Seegraswiesen binden große Mengen an Kohlendioxid", "Häufiger Beobachtungsort für den Fischadler"],
+      hu: ["A védett terület körülbelül 25 hektáron terül el", "Mind a négy régióban honos mangrovefaj megtalálható itt", "1990-ben helyezték természetvédelmi oltalom alá", "Fontos helyszín a helyi kézműves halászat számára", "A tengerifű-mezők nagy mennyiségű szén-dioxidot kötnek meg", "Gyakori megfigyelőhelye a halászsasnak"],
+      ro: ["Aria protejată se întinde pe aproximativ 25 de hectare", "Găzduiește toate cele patru specii de mangrove din regiune", "A fost pusă sub protecție legală în anul 1990", "Locație importantă pentru pescuitul artizanal local", "Pajiștile de iarbă de mare stochează cantități mari de carbon", "Loc frecvent de observare pentru vulturul pescar"],
+      en: ["The protected area covers approximately 25 hectares", "Home to all four mangrove species found in the region", "Placed under legal protection in the year 1990", "Important site for local artisanal fishing activities", "Seagrass beds sequester significant amounts of carbon", "Frequent sighting location for the western osprey"],
+    },
   },
   {
     id: "saintlucia-troumasse-river-nature-v2",
@@ -323,6 +515,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["East coast river.", "Empties into the Atlantic.", "Near Micoud.", "Fertile river valley."],
     },
     imageHint: "Troumasse River valley Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Troumasse River ist einer der wasserreichsten Flüsse an der Ostseite von St. Lucia. Er entspringt im zentralen Regenwaldgürtel und fließt durch tiefe Täler, bevor er bei Micoud in den Atlantik mündet. Der Fluss ist lebenswichtig für die lokale Landwirtschaft und speist mehrere Bewässerungssysteme in der Region.",
+      hu: "A Troumasse-folyó Saint Lucia keleti oldalának egyik legbővizűbb folyója. A központi esőerdő-övezetben ered, és mély völgyeken halad át, mielőtt Micoud-nál az Atlanti-óceánba torkollik. A folyó létfontosságú a helyi mezőgazdaság számára, és számos öntözőrendszert táplál a régióban.",
+      ro: "Râul Troumasse este unul dintre cele mai bogate în apă rîuri de pe partea de est a insulei Sfânta Lucia. Izvorăște din centura centrală de pădure tropicală și curge prin văi adânci înainte de a se vărsa în Atlantic la Micoud. Râul este vital pentru agricultura locală.",
+      en: "The Troumasse River is one of the most voluminous rivers on the eastern side of Saint Lucia. It originates in the central rainforest belt and flows through deep valleys before emptying into the Atlantic at Micoud. The river is vital for local agriculture and feeds several irrigation systems in the region.",
+    },
+    factsAdvanced: {
+      de: ["Einer der längsten Flüsse des Inselstaates", "Das Einzugsgebiet umfasst primären tropischen Regenwald", "Mündet in eine breite Ästuarzone bei Micoud", "Wichtige Quelle für die Gewinnung von Flusssand", "Beherbergt Populationen der einheimischen Flussgarnele", "Spielt eine zentrale Rolle beim Hochwasserschutz im Osten"],
+      hu: ["A szigetország egyik leghosszabb folyója", "Vízgyűjtő területe elsődleges trópusi esőerdőket érint", "Széles torkolati zónával ömlik a tengerbe Micoud-nál", "Fontos forrása a helyi folyami homok kitermelésének", "Őshonos édesvízi garnélarák-populációknak ad otthont", "Központi szerepet játszik a keleti árvízvédelemben"],
+      ro: ["Unul dintre cele mai lungi râuri din statul insular", "Bazinul său hidrografic include pădure tropicală primară", "Se varsă printr-o zonă largă de estuar la Micoud", "Sursă importantă pentru extracția nisipului fluvial", "Găzduiește populații de creveți de râu nativi", "Joacă un rol central în controlul inundațiilor din est"],
+      en: ["One of the longest rivers in the island nation", "The watershed includes primary tropical rainforest", "Empties into a wide estuary zone at Micoud", "Important source for local river sand extraction", "Home to populations of native freshwater shrimp", "Plays a central role in eastern flood management"],
+    },
   },
   {
     id: "saintlucia-canaries-river-nature-v2",
@@ -342,6 +546,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["West coast of the island.", "Flows through Canaries Village.", "Volcanic surroundings.", "Natural watercourses."],
     },
     imageHint: "Canaries River Saint Lucia",
+    descriptionAdvanced: {
+      de: "Der Canaries River fließt durch die steilen Hänge der Westküste und mündet im gleichnamigen Fischerdorf ins Karibische Meer. Er ist geprägt von kaskadenartigen Gefällen und dichten Uferwäldern. Der Fluss hat historische Bedeutung für die Siedlungsgeschichte und die Entwicklung der Gemeinde Canaries.",
+      hu: "A Canaries-folyó a nyugati part meredek lejtőin folyik keresztül, és az azonos nevű halászfaluban torkollik a Karib-tengerbe. Lépcsőzetes esések és sűrű parti erdők jellemzik. A folyó történelmi jelentőséggel bír a település történetében és Canaries közösségének fejlődésében.",
+      ro: "Râul Canaries curge prin pantele abrupte ale coastei de vest și se varsă în Marea Caraibilor în satul de pescari cu același nume. Este caracterizat de cascade succesive și păduri riverane dense. Râul are o importanță istorică pentru dezvoltarea comunității Canaries.",
+      en: "The Canaries River flows through the steep slopes of the west coast and empties into the Caribbean Sea at the fishing village of the same name. It is characterized by cascading drops and dense riparian forests. The river holds historical significance for the settlement and development of the Canaries community.",
+    },
+    factsAdvanced: {
+      de: ["Entspringt in der Nähe des Mount Gimie", "Durchquert vulkanisch geprägtes Gelände", "Die Mündung bildet einen natürlichen Hafen für kleine Boote", "Historisch zur Versorgung von Zuckerrohrplantagen genutzt", "In den Oberläufen gibt es unberührte Badebecken", "Wichtiger Lieferant von Süßwasser für die Westküste"],
+      hu: ["A Mount Gimie hegy közelében ered", "Vulkanikus eredetű terepen halad keresztül", "Torkolata természetes kikötőt alkot kis csónakoknak", "Történelmileg cukornádültetvények ellátására használták", "A felső szakaszán érintetlen fürdőmedencék találhatók", "Fontos édesvízforrás a nyugati part számára"],
+      ro: ["Izvorăște în apropierea muntelui Mount Gimie", "Traversează un teren cu relief vulcanic pronunțat", "Gura de vărsare formează un port natural pentru bărci mici", "Utilizat istoric pentru alimentarea plantațiilor de zahăr", "Există bazine naturale de înot în cursul superior", "Sursă importantă de apă dulce pentru coasta de vest"],
+      en: ["Originates near the vicinity of Mount Gimie", "Traverses terrain with pronounced volcanic features", "The mouth forms a natural harbor for small boats", "Historically used to supply sugar cane plantations", "Features pristine natural swimming pools in upper reaches", "Key supplier of freshwater for the western coast"],
+    },
   },
   {
     id: "saintlucia-cul-de-sac-valley-nature-v2",
@@ -361,6 +577,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["Major agricultural area.", "Banana plantations.", "South of the capital.", "Fertile alluvial soil."],
     },
     imageHint: "Cul de Sac Valley banana plantations Saint Lucia",
+    descriptionAdvanced: {
+      de: "Das Cul de Sac Valley südlich von Castries ist eine der fruchtbarsten Ebenen von St. Lucia. Das Tal wird vom Cul de Sac River durchflossen und ist ein Zentrum der Bananenproduktion der Insel. Aufgrund seiner topografischen Lage ist es ein wichtiger Verkehrsknotenpunkt und industrieller Standort.",
+      hu: "A Castriestől délre fekvő Cul de Sac-völgy Saint Lucia egyik legtermékenyebb síksága. A völgyön a Cul de Sac-folyó halad át, és a sziget banántermelésének központja. Topográfiai elhelyezkedése miatt fontos közlekedési csomópont és ipari helyszín is egyben.",
+      ro: "Valea Cul de Sac, situată la sud de Castries, este una dintre cele mai fertile câmpii din Sfânta Lucia. Valea este traversată de râul Cul de Sac și reprezintă un centru al producției de banane de pe insulă. Este un nod de transport și un amplasament industrial major.",
+      en: "The Cul de Sac Valley, located south of Castries, is one of the most fertile plains in Saint Lucia. The valley is traversed by the Cul de Sac River and serves as a hub for the island's banana production. Due to its topography, it is a major transportation junction and industrial site.",
+    },
+    factsAdvanced: {
+      de: ["Beherbergt ein großes Öllagerterminal für die Region", "Einst Standort bedeutender Zuckerrohrfabriken", "Der Cul de Sac River ist ca. 12 Kilometer lang", "Wichtigstes Bananenanbaugebiet im Norden der Insel", "Das Tal wurde durch vulkanische Sedimentation gebildet", "Hier befindet sich eine große Solaranlage zur Stromerzeugung"],
+      hu: ["Itt található a régió egyik nagy olajtároló terminálja", "Egykor jelentős cukornádgyáraknak adott otthont", "A Cul de Sac-folyó hossza körülbelül 12 kilométer", "A sziget északi részének legfontosabb banántermő területe", "A völgy vulkáni üledékképződés során jött létre", "Itt működik egy nagy napelempark az áramtermeléshez"],
+      ro: ["Găzduiește un terminal major de stocare a petrolului", "Fost sit al unor fabrici importante de zahăr", "Râul Cul de Sac are o lungime de circa 12 kilometri", "Cea mai importantă zonă de cultură a bananelor din nord", "Valea s-a format prin sedimentare vulcanică", "Include o instalație solară majoră pentru energie"],
+      en: ["Home to a major oil storage terminal for the region", "Once the site of significant sugar cane factories", "The Cul de Sac River is approximately 12 kilometers long", "Most important banana-growing area in the north", "The valley was formed by volcanic sedimentation", "Contains a large solar farm for electricity generation"],
+    },
   },
   {
     id: "saintlucia-praslin-island-nature-v2",
@@ -380,6 +608,18 @@ export const saintluciaNatureV2: POI[] = [
       en: ["Endemic lizard species.", "Near Praslin village.", "Bird sanctuary.", "Rocky coastal structure."],
     },
     imageHint: "Praslin Island Saint Lucia",
+    descriptionAdvanced: {
+      de: "Praslin Island ist eine kleine, felsige Insel unmittelbar vor der Ostküste. Sie ist international bedeutend als letztes Rückzugsgebiet der Saint-Lucia-Peitschenschwanz-Eidechse. Das Eiland ist von Korallenriffen umgeben und gehört zu den streng geschützten terrestrischen Habitaten des Landes.",
+      hu: "Praslin-sziget egy kis, sziklás sziget közvetlenül a keleti part mellett. Nemzetközi jelentőségét az adja, hogy a Saint Lucia-i ostorfarkú gyík utolsó menedékhelye. A szigetet korallzátonyok veszik körül, és az ország szigorúan védett szárazföldi élőhelyei közé tartozik.",
+      ro: "Insula Praslin este o insulă mică și stâncoasă situată chiar lângă coasta de est. Este importantă la nivel internațional ca ultim refugiu pentru șopârla cu coadă de bici din Sfânta Lucia. Insula este înconjurată de recife de corali și este un habitat protejat.",
+      en: "Praslin Island is a small, rocky islet located just off the eastern coast. It is internationally significant as the last refuge for the Saint Lucia whiptail lizard. The islet is surrounded by coral reefs and is among the country's most strictly protected terrestrial habitats.",
+    },
+    factsAdvanced: {
+      de: ["Heimat der weltweit seltensten Eidechse (Cnemidophorus vanzoi)", "Die Insel ist nur etwa 1,1 Hektar groß", "Wurde 1995 zum Naturschutzgebiet erklärt", "Besuch nur mit Genehmigung des National Trust erlaubt", "Ratten wurden eliminiert, um die Eidechsen zu schützen", "Vogelarten wie der Tropikvogel brüten auf den Felsen"],
+      hu: ["A világ legritkább gyíkjának (Cnemidophorus vanzoi) otthona", "A sziget területe mindössze 1,1 hektár", "1995-ben nyilvánították természetvédelmi területté", "Látogatása csak a National Trust engedélyével lehetséges", "A patkányokat kiirtották a gyíkok védelme érdekében", "Olyan madárfajok fészkelnek itt, mint a trópusimadár"],
+      ro: ["Adăpostește cea mai rară șopârlă din lume (Cnemidophorus vanzoi)", "Insula are o suprafață de numai 1,1 hectare", "A fost declarată rezervație naturală în anul 1995", "Accesul este permis doar cu acordul National Trust", "Rozătoarele au fost eliminate pentru protejarea șopârlelor", "Specii precum pasărea tropic cu cioc roșu cuibăresc aici"],
+      en: ["Home to the world's rarest lizard (Cnemidophorus vanzoi)", "The island covers an area of only 1.1 hectares", "Declared a nature reserve in the year 1995", "Visiting is allowed only with National Trust permission", "Rats were eradicated to protect the native lizard", "Bird species like the tropicbird nest on its cliffs"],
+    },
   },
   {
     id: "saintlucia-sapphire-falls-nature-v2",
@@ -399,5 +639,17 @@ export const saintluciaNatureV2: POI[] = [
       en: ["Mineral-rich water.", "Set in the jungle.", "Near Sulphur Springs.", "Natural swimming pool."],
     },
     imageHint: "Sapphire Falls waterfall Saint Lucia",
+    descriptionAdvanced: {
+      de: "Die Sapphire Falls befinden sich in der Nähe von Soufrière im südwestlichen Teil der Insel. Der Wasserfall ist für sein mineralhaltiges Wasser bekannt, das den umliegenden Felsen eine bläuliche Färbung verleiht. Er liegt inmitten eines dichten Regenwaldes und ist Teil des vulkanischen Erbes der Region.",
+      hu: "A Sapphire-vízesés Soufrière közelében, a sziget délnyugati részén található. A vízesés ásványi anyagokban gazdag vizéről ismert, amely kékes árnyalatot kölcsönöz a környező kőzeteknek. Sűrű esőerdő közepén fekszik, és a régió vulkáni örökségének része.",
+      ro: "Cascada Sapphire se află lângă Soufrière, în partea de sud-vest a insulei. Cascada este cunoscută pentru apa sa bogată în minerale, care conferă stâncilor din jur o nuanță albăstruie. Este situată în mijlocul unei păduri tropicale dense.",
+      en: "Sapphire Falls are located near Soufrière in the southwestern part of the island. The waterfall is known for its mineral-rich water, which imparts a bluish tint to the surrounding rocks. It is situated amidst dense rainforest and is part of the region's volcanic heritage.",
+    },
+    factsAdvanced: {
+      de: ["Der Wasserfall hat eine Fallhöhe von etwa 10 Metern", "Das Wasser ist durch hohen Schwefelgehalt geprägt", "Befindet sich auf privatem Gelände einer alten Plantage", "Die Wassertemperatur ist aufgrund vulkanischer Aktivität mild", "Erreichbar über einen anspruchsvollen Dschungelpfad", "Nahegelegene Quellen wurden historisch als Heilbäder genutzt"],
+      hu: ["A vízesés magassága körülbelül 10 méter", "A vizet magas kéntartalom jellemzi", "Egy régi ültetvény magánterületén található", "A víz hőmérséklete a vulkáni tevékenység miatt langyos", "Kihívást jelentő dzsungelösvényen keresztül érhető el", "A közeli forrásokat történelmileg gyógyfürdőként használták"],
+      ro: ["Cascada are o înălțime de aproximativ 10 metri", "Apa este caracterizată printr-un conținut ridicat de sulf", "Se află pe terenul privat al unei foste plantații", "Temperatura apei este blândă datorită activității vulcanice", "Accesibilă printr-o potecă dificilă prin junglă", "Izvoarele din apropiere au fost folosite istoric ca băi"],
+      en: ["The waterfall has a drop of approximately 10 meters", "The water is characterized by a high sulfur content", "Located on the private grounds of an old plantation", "Water temperature is mild due to geothermal activity", "Accessible via a challenging jungle hiking trail", "Nearby springs were historically used as healing baths"],
+    },
   }
 ];
